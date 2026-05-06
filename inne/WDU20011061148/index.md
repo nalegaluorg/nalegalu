@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Kodeks post´powania wsprawach owykroczenia.
+# Kodeks postępowania wsprawach owykroczenia.
 
 *USTAWA zdnia 24 sierpnia 2001 r.*
 
@@ -26,782 +26,821 @@ domain: null
 | Ostatnia zmiana | 2026-04-16 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011061148) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1148/text.pdf) |
 
-DZIA¸I Zasady ogólne
+DZIAĘI Zasady ogólne
+Przeszukanie
 
 **Art. 1.**
 
-§ 1. Post´powanie wsprawach owykroczenia toczy si´ wed∏ug przepisów niniejszego kodeksu.
+§ 1. Postępowanie wsprawach owykroczenia toczy się według przepisów niniejszego kodeksu.
 
-§ 2. Wpost´powaniu, októrym mowa w§ 1, przepisy Kodeksu post´powania karnego stosuje si´ jedynie, gdy niniejszy kodeks tak stanowi.
+§ 2. Wpostępowaniu, októrym mowa w§ 1, przepisy Kodeksu postępowania karnego stosuje się jedynie, gdy niniejszy kodeks tak stanowi.
 
 **Art. 2.**
 
-§ 1. Orzekanie nast´puje wpost´powaniu:
+§ 1. Orzekanie następuje wpostępowaniu:
 
 - **1)** zwyczajnym,
 - **2)** przyspieszonym,
-- **3)** nakazowym. 2. Wwypadkach wskazanych wustawie ina zasadach w niej okreÊlonych uprawniony organ mo˝e na∏o˝yç grzywn´ wdrodze mandatu karnego.
+- **3)** nakazowym. 2. Wwypadkach wskazanych wustawie ina zasadach w niej określonych uprawniony organ może nałożyć grzywnę wdrodze mandatu karnego.
 
-**Art. 3.** W razie stwierdzenia w toku post´powania istotnego uchybienia w czynnoÊciach instytucji paƒstwowej, samorzàdowej lub spo∏ecznej, sprzyjajàcego naruszeniom prawa, sàd, awtoku czynnoÊci wyjaÊniajàcych organ je prowadzàcy, zawiadamia o stwierdzonym uchybieniu t´ instytucj´ bàdê organ powo∏any do sprawowania nad nià nadzoru.
+**Art. 3.** W razie stwierdzenia w toku postępowania istotnego uchybienia w czynnościach instytucji państwowej, samorządowej lub społecznej, sprzyjającego naruszeniom prawa, sąd, awtoku czynności wyjaśniających organ je prowadzący, zawiadamia o stwierdzonym uchybieniu tę instytucję bądê organ powołany do sprawowania nad nią nadzoru.
 
-**Art. 4.** Obwinionemu przys∏uguje prawo do obrony, w tym do korzystania z pomocy jednego obroƒcy, oczym nale˝y go pouczyç.
+**Art. 4.** Obwinionemu przysługuje prawo do obrony, w tym do korzystania z pomocy jednego obrońcy, oczym należy go pouczyć.
 
 **Art. 5.**
 
-§ 1. Nie wszczyna si´ post´powania, awszcz´te umarza, gdy:
+§ 1. Nie wszczyna się postępowania, awszczęte umarza, gdy:
 
-- **1)** czynu nie pope∏niono albo brak jest danych dostatecznie uzasadniajàcych podejrzenie jego pope∏nienia,
-- **2)** czyn nie zawiera znamion wykroczenia albo ustawa stanowi, ˝e sprawca nie pope∏nia wykroczenia,
-- **3)** ustawa stanowi, ˝e sprawca nie podlega karze,
-- **4)** nastàpi∏o przedawnienie orzekania,
-- **5)** obwiniony zmar∏,
+- **1)** czynu nie popełniono albo brak jest danych dostatecznie uzasadniających podejrzenie jego popełnienia,
+- **2)** czyn nie zawiera znamion wykroczenia albo ustawa stanowi, że sprawca nie popełnia wykroczenia,
+- **3)** ustawa stanowi, że sprawca nie podlega karze,
+- **4)** nastąpiło przedawnienie orzekania,
+- **5)** obwiniony zmarł,
 - **6)** obwiniony jest:
-    - **a)** uwierzytelnionym w Rzeczypospolitej Polskiej, szefem przedstawicielstwa dyplomatycznego paƒstwa obcego,
-    - **c)** osobà nale˝àcà do personelu administracyjnego lub technicznego tego przedstawicielstwa,
-    - **d)** cz∏onkiem rodziny osób wymienionych wlit.a)—c) ipozostaje znimi we wspólnocie domowej,
-    - **e)** innà osobà korzystajàcà zimmunitetu dyplomatycznego, na podstawie ustaw, umów lub powszechnie uznanych zwyczajów mi´dzynarodowych,
-    - **f)** kierownikiem urz´du konsularnego lub innym urz´dnikiem konsularnym paƒstwa obcego albo innà osobà zrównanà z nimi na podstawie ustaw, umów lub powszechnie uznanych zwyczajów mi´dzynarodowych,
+    - **a)** uwierzytelnionym w Rzeczypospolitej Polskiej, szefem przedstawicielstwa dyplomatycznego państwa obcego,
+    - **c)** osobą należącą do personelu administracyjnego lub technicznego tego przedstawicielstwa,
+    - **d)** członkiem rodziny osób wymienionych wlit.a)—c) ipozostaje znimi we wspólnocie domowej,
+    - **e)** inną osobą korzystającą zimmunitetu dyplomatycznego, na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych,
+    - **f)** kierownikiem urzędu konsularnego lub innym urzędnikiem konsularnym państwa obcego albo inną osobą zrównaną z nimi na podstawie ustaw, umów lub powszechnie uznanych zwyczajów międzynarodowych,
 
 - **7)** obwiniony z mocy przepisów szczególnych nie podlega orzecznictwu na podstawie niniejszego kodeksu,
-- **8)** post´powanie co do tego samego czynu obwinionego zosta∏o prawomocnie zakoƒczone lub wczeÊniej wszcz´te, toczy si´,
-- **9)** brak jest skargi uprawnionego oskar˝yciela albo ˝àdania Êcigania pochodzàcego od osoby uprawnionej lub zezwolenia na Êciganie, gdy ustawa tego wymaga,
-- **10)** zachodzi inna okolicznoÊç wy∏àczajàca z mocy ustawy orzekanie w post´powaniu na podstawie niniejszego kodeksu. 2. Przepisu 1 pkt 6 nie stosuje si´:
-- **1)** do osób wnim wymienionych, je˝eli sà obywatelami polskimi lub majà wPolsce miejsce sta∏ego zamieszkania, przy czym osoby, o których mowa w lit. f), nie podlegajà orzecznictwu na podstawie niniejszego kodeksu, tylko w zakresie czynnoÊci pe∏nionych w toku i w wykonaniu funkcji urz´dowych,
-- **2)** je˝eli umowa mi´dzynarodowa, której Rzeczpospolita Polska jest stronà, stanowi inaczej. 3. Przepisu 1 pkt 6 mo˝na nie stosowaç do obywatela paƒstwa obcego, zktórym nie ma wtym przedmiocie umowy, apaƒstwo to nie zapewnia wzajemnoÊci. 4. Do chwili otrzymania wymaganego przez ustaw´ zezwolenia na Êciganie lub ˝àdania Êcigania organ
+- **8)** postępowanie co do tego samego czynu obwinionego zostało prawomocnie zakończone lub wcześniej wszczęte, toczy się,
+- **9)** brak jest skargi uprawnionego oskarżyciela albo żądania ścigania pochodzącego od osoby uprawnionej lub zezwolenia na ściganie, gdy ustawa tego wymaga,
+- **10)** zachodzi inna okoliczność wyłączająca z mocy ustawy orzekanie w postępowaniu na podstawie niniejszego kodeksu. 2. Przepisu 1 pkt 6 nie stosuje się:
+- **1)** do osób wnim wymienionych, jeżeli są obywatelami polskimi lub mają wPolsce miejsce stałego zamieszkania, przy czym osoby, o których mowa w lit. f), nie podlegają orzecznictwu na podstawie niniejszego kodeksu, tylko w zakresie czynności pełnionych w toku i w wykonaniu funkcji urzędowych,
+- **2)** jeżeli umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, stanowi inaczej. 3. Przepisu 1 pkt 6 można nie stosować do obywatela państwa obcego, zktórym nie ma wtym przedmiocie umowy, apaństwo to nie zapewnia wzajemności. 4. Do chwili otrzymania wymaganego przez ustawę zezwolenia na ściganie lub żądania ścigania organ
 
 **Art. 6.**
 
-1. W sprawach o wykroczenia Êcigane na ˝àdanie pokrzywdzonego wyst´pujàcy z wnioskiem oukaranie, je˝eli nie jest nim pokrzywdzony, powinien uzyskaç wymagane ˝àdanie od osoby uprawnionej do jego z∏o˝enia. ˚àdanie mo˝e byç z∏o˝one na piÊmie albo zg∏oszone ustnie do protoko∏u.
+1. W sprawach o wykroczenia ścigane na żądanie pokrzywdzonego występujący z wnioskiem oukaranie, jeżeli nie jest nim pokrzywdzony, powinien uzyskać wymagane żądanie od osoby uprawnionej do jego złożenia. ˚ądanie może być złożone na piśmie albo zgłoszone ustnie do protokołu.
 
-2. ˚àdanie z∏o˝one co do niektórych tylko wspó∏dzia∏ajàcych wpope∏nieniu czynu pozostaje skuteczne tak˝e wobec osób niewskazanych w˝àdaniu, je˝eli nie sà to osoby najbli˝sze dla pokrzywdzonego, oczym nale˝y pouczyç sk∏adajàcego ˝àdanie przed jego przyj´ciem.
+2. ˚ądanie złożone co do niektórych tylko współdziałających wpopełnieniu czynu pozostaje skuteczne także wobec osób niewskazanych wżądaniu, jeżeli nie są to osoby najbliższe dla pokrzywdzonego, oczym należy pouczyć składającego żądanie przed jego przyjęciem.
 
-3. ˚àdanie mo˝e byç cofni´te. Niedopuszczalne jest cofni´cie ˝àdania wobec niektórych tylko wspó∏dzia∏ajàcych wpope∏nieniu czynu, chyba ˝e sà to osoby najbli˝sze dla pokrzywdzonego. Cofni´cie mo˝e nastàpiç do momentu rozpocz´cia przewodu sàdowego na pierwszej rozprawie. W razie cofni´cia ˝àdania ponowne jego z∏o˝enie jest niedopuszczalne.
+3. ˚ądanie może być cofnięte. Niedopuszczalne jest cofnięcie żądania wobec niektórych tylko współdziałających wpopełnieniu czynu, chyba że są to osoby najbliższe dla pokrzywdzonego. Cofnięcie może nastąpić do momentu rozpoczęcia przewodu sądowego na pierwszej rozprawie. W razie cofnięcia żądania ponowne jego złożenie jest niedopuszczalne.
 
-4. Je˝eli wniosek o ukaranie pochodzi od pokrzywdzonego, odstàpienie przez niego od popierania takiego wniosku oznacza tak˝e odstàpienie przez niego od popierania ˝àdania Êcigania.
+4. Jeżeli wniosek o ukaranie pochodzi od pokrzywdzonego, odstąpienie przez niego od popierania takiego wniosku oznacza także odstąpienie przez niego od popierania żądania ścigania.
 
-**Art. 7.** Policja iinne organy wzakresie post´powania wsprawach owykroczenia wykonujà polecenia sàdu oraz prowadzà wgranicach okreÊlonych wustawie czynnoÊci wyjaÊniajàce.
+**Art. 7.** Policja iinne organy wzakresie postępowania wsprawach owykroczenia wykonują polecenia sądu oraz prowadzą wgranicach określonych wustawie czynności wyjaśniające.
 
-**Art. 8.** W post´powaniu uregulowanym w niniejszym kodeksie stosuje si´ odpowiednio przepisy art. 2, 4, 5, 7—9, 13, 14, 15 2, art. 16, 18 2, art. 20 i23 Kodeksu post´powania karnego. DZIA¸II Sàd Rozdzia∏ 1 W∏aÊciwoÊç isk∏ad sàdu
+**Art. 8.** W postępowaniu uregulowanym w niniejszym kodeksie stosuje się odpowiednio przepisy art. 2, 4, 5, 7—9, 13, 14, 15 2, art. 16, 18 2, art. 20 i23 Kodeksu postępowania karnego. DZIAĘII Sąd
+
+#### Rozdział 1 Właściwość iskład sądu
 
 **Art. 9.**
 
-§ 1. Wsprawach owykroczenia wpierwszej instancji orzeka sàd rejonowy, z zastrze˝eniem spraw okreÊlonych wart. 10. 2. Sàd w∏aÊciwy do rozpoznania sprawy rozpoznaje tak˝e Êrodki zaskar˝enia w wypadkach wskazanych w ustawie oraz przeprowadza inne czynnoÊci, gdy ustawa to przewiduje.
+§ 1. Wsprawach owykroczenia wpierwszej instancji orzeka sąd rejonowy, z zastrzeżeniem spraw określonych wart. 10. 2. Sąd właściwy do rozpoznania sprawy rozpoznaje także środki zaskarżenia w wypadkach wskazanych w ustawie oraz przeprowadza inne czynności, gdy ustawa to przewiduje.
 
 **Art. 10.**
 
-§ 1. Wsprawach owykroczenia pope∏nione przez:
+§ 1. Wsprawach owykroczenia popełnione przez:
 
-- **1)** ˝o∏nierzy wczynnej s∏u˝bie wojskowej, wych, o ile ustawa lub umowa mi´dzynarodowa, której Rzeczpospolita Polska jest stronà,nie stanowi inaczej orzekajà wpierwszej instancji wojskowe sàdy garnizonowe. 2. Przepis art. 9 2 stosuje si´ odpowiednio do sàdów wojskowych.
+- **1)** żołnierzy wczynnej służbie wojskowej, wych, o ile ustawa lub umowa międzynarodowa, której Rzeczpospolita Polska jest stroną,nie stanowi inaczej orzekają wpierwszej instancji wojskowe sądy garnizonowe. 2. Przepis art. 9 2 stosuje się odpowiednio do sądów wojskowych.
 
 **Art. 11.**
 
-1. Przy ustalaniu w∏aÊciwoÊci sàdu stosuje si´ odpowiednio przepisy art. 31, 32, 33 1, art. 34—36, 39 i 43 Kodeksu post´powania karnego, awodniesieniu do sàdu, októrym mowa wart. 10, tak˝e art. 651 Kodeksu post´powania karnego.
+1. Przy ustalaniu właściwości sądu stosuje się odpowiednio przepisy art. 31, 32, 33 1, art. 34—36, 39 i 43 Kodeksu postępowania karnego, awodniesieniu do sądu, októrym mowa wart. 10, także art. 651 Kodeksu postępowania karnego.
 
-2. Sàd okr´gowy mo˝e z inicjatywy w∏aÊciwego sàdu przekazaç spraw´ do rozpoznania innemu sàdowi równorz´dnemu wramach okr´gu tego samego sàdu okr´gowego, je˝eli wymaga tego dobro wymiaru sprawiedliwoÊci.
+2. Sąd okręgowy może z inicjatywy właściwego sądu przekazać sprawę do rozpoznania innemu sądowi równorzędnemu wramach okręgu tego samego sądu okręgowego, jeżeli wymaga tego dobro wymiaru sprawiedliwości.
 
-3. Przepis 2 stosuje si´ odpowiednio do wojskowego sàdu okr´gowego, wwypadku, wktórym inicjatywa pochodzi od wojskowego sàdu garnizonowego.
+3. Przepis 2 stosuje się odpowiednio do wojskowego sądu okręgowego, wwypadku, wktórym inicjatywa pochodzi od wojskowego sądu garnizonowego.
 
 **Art. 12.**
 
-§ 1. Spory ow∏aÊciwoÊç mi´dzy sàdami rejonowymi rozstrzyga sàd okr´gowy, w∏aÊciwy dla okr´gu, wktórym dzia∏a sàd, który pierwszy wszczà∏ spór. 2. Spory ow∏aÊciwoÊç mi´dzy wojskowymi sàdami garnizonowymi rozstrzyga wojskowy sàd okr´gowy, nadrz´dny nad sàdem, który pierwszy wszczà∏ spór.
+§ 1. Spory owłaściwość między sądami rejonowymi rozstrzyga sąd okręgowy, właściwy dla okręgu, wktórym działa sąd, który pierwszy wszczął spór. 2. Spory owłaściwość między wojskowymi sądami garnizonowymi rozstrzyga wojskowy sąd okręgowy, nadrzędny nad sądem, który pierwszy wszczął spór.
 
 **Art. 13.**
 
-§ 1. Sàd rejonowy orzeka na rozprawie ina posiedzeniu jednoosobowo.
+§ 1. Sąd rejonowy orzeka na rozprawie ina posiedzeniu jednoosobowo.
 
-§ 2. Przepis 1 stosuje si´ odpowiednio do wojskowego sàdu garnizonowego oraz do sàdu orzekajàcego wsprawach, októrym mowa wart. 12 1 i2.
+§ 2. Przepis 1 stosuje się odpowiednio do wojskowego sądu garnizonowego oraz do sądu orzekającego wsprawach, októrym mowa wart. 12 1 i2.
 
 **Art. 14.**
 
-1. Sàdem odwo∏awczym w sprawach o wykroczenia podlegajàcych w∏aÊciwoÊci sàdów powszechnych, je˝eli ustawa nie stanowi inaczej, jest:
+1. Sądem odwoławczym w sprawach o wykroczenia podlegających właściwości sądów powszechnych, jeżeli ustawa nie stanowi inaczej, jest:
 
-- **1)** sàd okr´gowy do rozpoznania apelacji oraz za˝aleƒ na postanowienia i zarzàdzenia zamykajàce drog´ do wydania wyroku,
-- **2)** sàd rejonowy winnym równorz´dnym sk∏adzie do rozpoznania pozosta∏ych za˝aleƒ.
+- **1)** sąd okręgowy do rozpoznania apelacji oraz zażaleń na postanowienia i zarządzenia zamykające drogę do wydania wyroku,
+- **2)** sąd rejonowy winnym równorzędnym składzie do rozpoznania pozostałych zażaleń.
 
-2. Sàdem odwo∏awczym wsprawach owykroczenia podlegajàcych w∏aÊciwoÊci sàdów wojskowych, je˝eli ustawa nie stanowi inaczej, jest wojskowy sàd okr´gowy.
+2. Sądem odwoławczym wsprawach owykroczenia podlegających właściwości sądów wojskowych, jeżeli ustawa nie stanowi inaczej, jest wojskowy sąd okręgowy.
 
-3. Sàd okr´gowy i wojskowy sàd okr´gowy ponadto rozpoznajà sprawy przekazane im przez ustaw´. prezes sàdu zarzàdzi orzekanie w sk∏adzie trzech s´dziów.
+3. Sąd okręgowy i wojskowy sąd okręgowy ponadto rozpoznają sprawy przekazane im przez ustawę. prezes sądu zarządzi orzekanie w składzie trzech sędziów.
 
 **Art. 15.**
 
-1. Sàd apelacyjny rozpoznaje Êrodki odwo∏awcze od orzeczeƒ i zarzàdzeƒ wydawanych w pierwszej instancji przez sàd okr´gowy oraz inne sprawy przekazane mu przez ustaw´.
+1. Sąd apelacyjny rozpoznaje środki odwoławcze od orzeczeń i zarządzeń wydawanych w pierwszej instancji przez sąd okręgowy oraz inne sprawy przekazane mu przez ustawę.
 
-2. Sàd Najwy˝szy rozpoznaje kasacje iinne sprawy przekazane mu przez ustaw´.
+2. Sąd Najwyższy rozpoznaje kasacje iinne sprawy przekazane mu przez ustawę.
 
-3. Wsprawach, wktórych orzeka∏y sàdy wojskowe, uprawnienia sàdu okr´gowego ma wojskowy sàd okr´gowy, a uprawnienia sàdu apelacyjnego i Sàdu Najwy˝szego ma Sàd Najwy˝szy Izba Wojskowa.
+3. Wsprawach, wktórych orzekały sądy wojskowe, uprawnienia sądu okręgowego ma wojskowy sąd okręgowy, a uprawnienia sądu apelacyjnego i Sądu Najwyższego ma Sąd Najwyższy Izba Wojskowa.
 
-4. Sàdy wskazane w§ 1—3 orzekajà jednoosobowo, chyba ˝e ustawa stanowi inaczej albo prezes sàdu lub Prezes Sàdu Najwy˝szego zarzàdzi orzekanie wsk∏adzie trzech s´dziów. Rozdzia∏ 2 Wy∏àczenie s´dziego
+4. Sądy wskazane w§ 1—3 orzekają jednoosobowo, chyba że ustawa stanowi inaczej albo prezes sądu lub Prezes Sądu Najwyższego zarządzi orzekanie wskładzie trzech sędziów.
+
+#### Rozdział 2 Wyłączenie sędziego
 
 **Art. 16.**
 
-§ 1. Do wy∏àczenia s´dziego stosuje si´ odpowiednio przepisy art. 40, 41 i42 1—3 Kodeksu post´powania karnego. 2. Owy∏àczeniu s´dziego rozstrzyga inny równorz´dny sk∏ad sàdu, przed którym sprawa si´ toczy. W razie niemo˝noÊci utworzenia takiego sk∏adu o wy∏àczeniu orzeka sàd wy˝szego rz´du. DZIA¸III Strony, obroƒcy i pe∏nomocnicy Rozdzia∏ 3 Oskar˝yciel publiczny
+§ 1. Do wyłączenia sędziego stosuje się odpowiednio przepisy art. 40, 41 i42 1—3 Kodeksu postępowania karnego. 2. Owyłączeniu sędziego rozstrzyga inny równorzędny skład sądu, przed którym sprawa się toczy. W razie niemożności utworzenia takiego składu o wyłączeniu orzeka sąd wyższego rzędu. DZIAĘIII Strony, obrońcy i pełnomocnicy
+
+#### Rozdział 3 Oskarżyciel publiczny
 
 **Art. 17.**
 
-1. Oskar˝ycielem publicznym we wszystkich sprawach o wykroczenia jest Policja, chyba ˝e ustawa stanowi inaczej.
+1. Oskarżycielem publicznym we wszystkich sprawach o wykroczenia jest Policja, chyba że ustawa stanowi inaczej.
 
-2. Wsprawach owykroczenia przeciwko prawom pracownika okreÊlone w Kodeksie pracy, a tak˝e wsprawach oinne wykroczenia zwiàzane zwykonywaniem pracy zarobkowej, je˝eli ustawa tak stanowi, oskar˝ycielem publicznym jest inspektor pracy.
+2. Wsprawach owykroczenia przeciwko prawom pracownika określone w Kodeksie pracy, a także wsprawach oinne wykroczenia związane zwykonywaniem pracy zarobkowej, jeżeli ustawa tak stanowi, oskarżycielem publicznym jest inspektor pracy.
 
-3. Organom administracji rzàdowej isamorzàdowej, organom kontroli paƒstwowej ikontroli samorzàdu terytorialnego oraz stra˝om gminnym (miejskim) uprawnienia oskar˝yciela publicznego przys∏ugujà tylko wówczas, gdy wzakresie swego dzia∏ania ujawni∏y wykroczenie iwystàpi∏y zwnioskiem oukaranie. nia mogà wyst´powaç zwnioskiem oukaranie za ujawnione przez siebie wykroczenia, majàc na wzgl´dzie zakres ustawowych uprawnieƒ takich instytucji oraz potrzeb´ ochrony dóbr szczególnie nara˝onych na naruszenia ze strony sprawców wykroczeƒ.
+3. Organom administracji rządowej isamorządowej, organom kontroli państwowej ikontroli samorządu terytorialnego oraz strażom gminnym (miejskim) uprawnienia oskarżyciela publicznego przysługują tylko wówczas, gdy wzakresie swego działania ujawniły wykroczenie iwystąpiły zwnioskiem oukaranie. nia mogą występować zwnioskiem oukaranie za ujawnione przez siebie wykroczenia, mając na względzie zakres ustawowych uprawnień takich instytucji oraz potrzebę ochrony dóbr szczególnie narażonych na naruszenia ze strony sprawców wykroczeń.
 
-5. Udzia∏ wsprawie organu, który z∏o˝y∏ wniosek oukaranie, wy∏àcza Policj´ od udzia∏u wrozprawie.
+5. Udział wsprawie organu, który złożył wniosek oukaranie, wyłącza Policję od udziału wrozprawie.
 
 **Art. 18.**
 
-§ 1. Wka˝dej sprawie owykroczenie wniosek o ukaranie mo˝e wnieÊç prokurator, stajàc si´ oskar˝ycielem publicznym. 2. Prokurator mo˝e tak˝e wstàpiç do post´powania wszcz´tego na podstawie wniosku o ukaranie wniesionego przez innego oskar˝yciela. 3. Wwypadkach wskazanych w§ 1 i2 udzia∏ prokuratora wy∏àcza udzia∏ innego oskar˝yciela publicznego.
+§ 1. Wkażdej sprawie owykroczenie wniosek o ukaranie może wnieść prokurator, stając się oskarżycielem publicznym. 2. Prokurator może także wstąpić do postępowania wszczętego na podstawie wniosku o ukaranie wniesionego przez innego oskarżyciela. 3. Wwypadkach wskazanych w§ 1 i2 udział prokuratora wyłącza udział innego oskarżyciela publicznego.
 
 **Art. 19.**
 
-§ 1. Przepisy art. 40 1 pkt 1—4 i6, 2 oraz art. 41 i42 Kodeksu post´powania karnego stosuje si´ odpowiednio do oskar˝yciela publicznego. 2. Wsprawie wy∏àczenia orzeka organ bezpoÊrednio prze∏o˝ony nad osobà podlegajàcà wy∏àczeniu. Przepis art. 48 2 Kodeksu post´powania karnego stosuje si´ odpowiednio. Rozdzia∏ 4 Obwiniony ijego obroƒca
+§ 1. Przepisy art. 40 1 pkt 1—4 i6, 2 oraz art. 41 i42 Kodeksu postępowania karnego stosuje się odpowiednio do oskarżyciela publicznego. 2. Wsprawie wyłączenia orzeka organ bezpośrednio przełożony nad osobą podlegającą wyłączeniu. Przepis art. 48 2 Kodeksu postępowania karnego stosuje się odpowiednio.
+
+#### Rozdział 4 Obwiniony ijego obrońca
 
 **Art. 20.**
 
 1. Obwinionym jest osoba, przeciwko której wniesiono wniosek oukaranie wsprawie owykroczenie.
 
-2. Je˝eli obwiniony nie zna j´zyka polskiego, wniosek o ukaranie oraz rozstrzygni´cia podlegajàce zaskar˝eniu lub koƒczàce post´powanie og∏asza si´ lub dor´cza obwinionemu wraz zt∏umaczeniem.
+2. Jeżeli obwiniony nie zna języka polskiego, wniosek o ukaranie oraz rozstrzygnięcia podlegające zaskarżeniu lub kończące postępowanie ogłasza się lub doręcza obwinionemu wraz ztłumaczeniem.
 
-3. Do obwinionego stosuje si´ odpowiednio art. 74 1 i 2, art. 75, 76 i 175 Kodeksu post´powania karnego.
+3. Do obwinionego stosuje się odpowiednio art. 74 1 i 2, art. 75, 76 i 175 Kodeksu postępowania karnego.
 
 **Art. 21.**
 
-1. W post´powaniu w sprawie o wykroczenia obwiniony musi mieç obroƒc´ przed sàdem, je˝eli:
+1. W postępowaniu w sprawie o wykroczenia obwiniony musi mieć obrońcę przed sądem, jeżeli:
 
-- **1)** jest g∏uchy, niemy lub niewidomy,
-- **2)** zachodzi uzasadniona wàtpliwoÊç co do jego poczytalnoÊci.
+- **1)** jest głuchy, niemy lub niewidomy,
+- **2)** zachodzi uzasadniona wątpliwość co do jego poczytalności.
 
-2. Wwypadku, októrym mowa w§ 1 pkt 2, obowiàzek korzystania zpomocy obroƒcy ustaje, je˝eli powo∏any bieg∏y stwierdzi, ˝e poczytalnoÊç obwinionego nie budzi wàtpliwoÊci, chyba ˝e sàd postanowi inaczej. obroƒc´ zurz´du.
+2. Wwypadku, októrym mowa w§ 1 pkt 2, obowiązek korzystania zpomocy obrońcy ustaje, jeżeli powołany biegły stwierdzi, że poczytalność obwinionego nie budzi wątpliwości, chyba że sąd postanowi inaczej. obrońcę zurzędu.
 
-**Art. 22.** Gdy wymaga tego dobro wymiaru sprawiedliwoÊci, obwinionemu, który nie ma obroƒcy zwyboru, wyznacza si´ na jego wniosek obroƒc´ zurz´du, je˝eli wsposób nale˝yty wyka˝e, ˝e nie jest wstanie ponieÊç kosztów obrony bez powa˝nego uszczerbku dla niezb´dnego utrzymania siebie i rodziny. Przepis art. 78 2 Kodeksu post´powania karnego stosuje si´.
+**Art. 22.** Gdy wymaga tego dobro wymiaru sprawiedliwości, obwinionemu, który nie ma obrońcy zwyboru, wyznacza się na jego wniosek obrońcę zurzędu, jeżeli wsposób należyty wykaże, że nie jest wstanie ponieść kosztów obrony bez poważnego uszczerbku dla niezbędnego utrzymania siebie i rodziny. Przepis art. 78 2 Kodeksu postępowania karnego stosuje się.
 
-**Art. 23.** Obroƒc´ z urz´du wyznacza prezes sàdu w∏aÊciwego do rozpoznania sprawy.
+**Art. 23.** Obrońcę z urzędu wyznacza prezes sądu właściwego do rozpoznania sprawy.
 
 **Art. 24.**
 
-1. Obroƒcà w sprawach o wykroczenia mo˝e byç adwokat albo radca prawny.
+1. Obrońcą w sprawach o wykroczenia może być adwokat albo radca prawny.
 
-2. Do obroƒcy obwinionego stosuje si´ odpowiednio przepisy art. 83—86 Kodeksu post´powania karnego.
+2. Do obrońcy obwinionego stosuje się odpowiednio przepisy art. 83—86 Kodeksu postępowania karnego.
 
-3. Ilekroç w przepisach Kodeksu post´powania karnego stosowanych na podstawie art. 1 2 mówi si´ o obroƒcy albo o adwokacie, rozumie si´ przez to tak˝e radc´ prawnego. Rozdzia∏ 5 Pokrzywdzony, oskar˝yciel posi∏kowy ipe∏nomocnicy
+3. Ilekroć w przepisach Kodeksu postępowania karnego stosowanych na podstawie art. 1 2 mówi się o obrońcy albo o adwokacie, rozumie się przez to także radcę prawnego.
+
+#### Rozdział 5 Pokrzywdzony, oskarżyciel posiłkowy ipełnomocnicy
 
 **Art. 25.**
 
-1. Pokrzywdzonym jest ten, czyje dobro prawne zosta∏o bezpoÊrednio naruszone lub zagro˝one przez wykroczenie.
+1. Pokrzywdzonym jest ten, czyje dobro prawne zostało bezpośrednio naruszone lub zagrożone przez wykroczenie.
 
-2. Wrazie Êmierci pokrzywdzonego prawa, które by mu przys∏ugiwa∏y,mogà wykonywaç osoby najbli˝sze.
+2. Wrazie śmierci pokrzywdzonego prawa, które by mu przysługiwały,mogą wykonywać osoby najbliższe.
 
-3. Do pokrzywdzonego stosuje si´ odpowiednio art. 49 3 oraz art. 51 Kodeksu post´powania karnego.
+3. Do pokrzywdzonego stosuje się odpowiednio art. 49 3 oraz art. 51 Kodeksu postępowania karnego.
 
-4. Pokrzywdzony mo˝e dzia∏aç jako strona wcharakterze oskar˝yciela posi∏kowego obok oskar˝yciela publicznego lub zamiast niego.
+4. Pokrzywdzony może działać jako strona wcharakterze oskarżyciela posiłkowego obok oskarżyciela publicznego lub zamiast niego.
 
 **Art. 26.**
 
-§ 1. Oprzes∏aniu wniosku oukaranie do sàdu oskar˝yciel publiczny zawiadamia ujawnionego pokrzywdzonego, pouczajàc go o uprawnieniach, o których mowa w§ 3. 2. Sàd zawiadamia ujawnionego pokrzywdzonego oterminie rozprawy. 3. Pokrzywdzony mo˝e do rozpocz´cia przewodu sàdowego albo bezpoÊrednio po rozpocz´ciu posiedzenia, o którym mowa w art. 60 1 pkt 1—3 i 6, oÊwiadczyç, ˝e b´dzie dzia∏a∏ obok oskar˝yciela publicznego jako oskar˝yciel posi∏kowy. 4. Pokrzywdzony, który nie uczestniczy∏ wrozprawie z powodu braku prawid∏owego powiadomienia ojej terminie, mo˝e z∏o˝yç oÊwiadczenie, októrym moArt. 27.§ 1. Wsprawach owykroczenia Êcigane na ˝àdanie pokrzywdzonego, pokrzywdzony mo˝e samodzielnie wnieÊç wniosek o ukaranie jako oskar˝yciel posi∏kowy. 2. Wsprawach owykroczenia inne ni˝ okreÊlone w§ 1, pokrzywdzony mo˝e samodzielnie wnieÊç wniosek oukaranie jako oskar˝yciel posi∏kowy, je˝eli wciàgu miesiàca od powiadomienia owykroczeniu organu uprawnionego do wyst´powania w tych sprawach w charakterze oskar˝yciela publicznego nie zostanie powiadomiony o wniesieniu przez ten organ wniosku oukaranie albo otrzyma zawiadomienie, októrym mowa wart. 54 2. 3. Je˝eli pokrzywdzony z∏o˝y∏ wniosek oukaranie, pomimo ˝e oskar˝yciel publiczny tak˝e z∏o˝y∏ taki wniosek, wniosek pokrzywdzonego traktuje si´ jako oÊwiadczenie wskazane wart. 26 3. 4. Prezes sàdu zawiadamia owniesieniu wniosku o ukaranie, o którym mowa w 1 i 2, w∏aÊciwego oskar˝yciela publicznego. Je˝eli oskar˝yciel ten w ciàgu 14 dni od otrzymania zawiadomienia wniesie w sprawie o ten sam czyn tej samej osoby publiczny wniosek oukaranie, wniosek pokrzywdzonego traktuje si´ jak oÊwiadczenie wskazane wart. 26 3. 5. Art. 55 3 Kodeksu post´powania karnego stosuje si´.
+§ 1. Oprzesłaniu wniosku oukaranie do sądu oskarżyciel publiczny zawiadamia ujawnionego pokrzywdzonego, pouczając go o uprawnieniach, o których mowa w§ 3. 2. Sąd zawiadamia ujawnionego pokrzywdzonego oterminie rozprawy. 3. Pokrzywdzony może do rozpoczęcia przewodu sądowego albo bezpośrednio po rozpoczęciu posiedzenia, o którym mowa w art. 60 1 pkt 1—3 i 6, oświadczyć, że będzie działał obok oskarżyciela publicznego jako oskarżyciel posiłkowy. 4. Pokrzywdzony, który nie uczestniczył wrozprawie z powodu braku prawidłowego powiadomienia ojej terminie, może złożyć oświadczenie, októrym moArt. 27.§ 1. Wsprawach owykroczenia ścigane na żądanie pokrzywdzonego, pokrzywdzony może samodzielnie wnieść wniosek o ukaranie jako oskarżyciel posiłkowy. 2. Wsprawach owykroczenia inne niż określone w§ 1, pokrzywdzony może samodzielnie wnieść wniosek oukaranie jako oskarżyciel posiłkowy, jeżeli wciągu miesiąca od powiadomienia owykroczeniu organu uprawnionego do występowania w tych sprawach w charakterze oskarżyciela publicznego nie zostanie powiadomiony o wniesieniu przez ten organ wniosku oukaranie albo otrzyma zawiadomienie, októrym mowa wart. 54 2. 3. Jeżeli pokrzywdzony złożył wniosek oukaranie, pomimo że oskarżyciel publiczny także złożył taki wniosek, wniosek pokrzywdzonego traktuje się jako oświadczenie wskazane wart. 26 3. 4. Prezes sądu zawiadamia owniesieniu wniosku o ukaranie, o którym mowa w 1 i 2, właściwego oskarżyciela publicznego. Jeżeli oskarżyciel ten w ciągu 14 dni od otrzymania zawiadomienia wniesie w sprawie o ten sam czyn tej samej osoby publiczny wniosek oukaranie, wniosek pokrzywdzonego traktuje się jak oświadczenie wskazane wart. 26 3. 5. Art. 55 3 Kodeksu postępowania karnego stosuje się.
 
 **Art. 28.**
 
-1. Odstàpienie oskar˝yciela posi∏kowego, októrym mowa wart. 27 1 i2,od oskar˝enia, powoduje umorzenie post´powania.
+1. Odstąpienie oskarżyciela posiłkowego, októrym mowa wart. 27 1 i2,od oskarżenia, powoduje umorzenie postępowania.
 
-2. Odstàpienie oskar˝yciela posi∏kowego, o którym mowa wart. 26 3,od oskar˝enia nie tamuje rozpoznania sprawy. Art. 57 1 Kodeksu post´powania karnego stosuje si´ odpowiednio.
+2. Odstąpienie oskarżyciela posiłkowego, o którym mowa wart. 26 3,od oskarżenia nie tamuje rozpoznania sprawy. Art. 57 1 Kodeksu postępowania karnego stosuje się odpowiednio.
 
 **Art. 29.**
 
-1. Niestawiennictwo prawid∏owo powiadomionego pokrzywdzonego ioskar˝yciela posi∏kowego na rozpraw´ lub posiedzenie nie tamuje toku sprawy, chyba ˝e ustawa stanowi inaczej.
+1. Niestawiennictwo prawidłowo powiadomionego pokrzywdzonego ioskarżyciela posiłkowego na rozprawę lub posiedzenie nie tamuje toku sprawy, chyba że ustawa stanowi inaczej.
 
-2. Niestawiennictwo oskar˝yciela posi∏kowego, o którym mowa w art. 27 1 i 2, bez usprawiedliwienia, uwa˝a si´ za odstàpienie od oskar˝enia; w takim przypadku sàd umarza post´powanie.
+2. Niestawiennictwo oskarżyciela posiłkowego, o którym mowa w art. 27 1 i 2, bez usprawiedliwienia, uważa się za odstąpienie od oskarżenia; w takim przypadku sąd umarza postępowanie.
 
 **Art. 30.**
 
-1. Pokrzywdzony i oskar˝yciel posi∏kowy mo˝e korzystaç zpomocy jednego pe∏nomocnika. Pe∏nomocnikiem mo˝e byç adwokat, radca prawny, awwypadku, gdy pokrzywdzonym jest instytucja paƒstwowa, samorzàdowa lub spo∏eczna, tak˝e pracownik tej instytucji lub jej organu nadrz´dnego. st´powanie, aosoby najbli˝sze mogà wstàpiç wprawa zmar∏ego. Je˝eli wterminie zawitym miesiàca od dnia Êmierci oskar˝yciela osoba uprawniona nie wstàpi wprawa zmar∏ego, sàd umarza post´powanie.
+1. Pokrzywdzony i oskarżyciel posiłkowy może korzystać zpomocy jednego pełnomocnika. Pełnomocnikiem może być adwokat, radca prawny, awwypadku, gdy pokrzywdzonym jest instytucja państwowa, samorządowa lub społeczna, także pracownik tej instytucji lub jej organu nadrzędnego. stępowanie, aosoby najbliższe mogą wstąpić wprawa zmarłego. Jeżeli wterminie zawitym miesiąca od dnia śmierci oskarżyciela osoba uprawniona nie wstąpi wprawa zmarłego, sąd umarza postępowanie.
 
-2. W razie Êmierci oskar˝yciela posi∏kowego, wskazanego wart. 26 3, osoby najbli˝sze mogà przystàpiç do post´powania wka˝dym jego stadium. DZIA¸IV CzynnoÊci procesowe
+2. W razie śmierci oskarżyciela posiłkowego, wskazanego wart. 26 3, osoby najbliższe mogą przystąpić do postępowania wkażdym jego stadium. DZIAĘIV Czynności procesowe
 
 **Art. 32.**
 
-1. Rozstrzygni´cia zapadajà w postaci orzeczeƒ, zarzàdzeƒ albo mandatów karnych.
+1. Rozstrzygnięcia zapadają w postaci orzeczeń, zarządzeń albo mandatów karnych.
 
-2. Orzeczenie wydaje si´ wformie wyroku lub postanowienia. Postanowieniem rozstrzyga si´, gdy ustawa nie wymaga wydania wyroku.
+2. Orzeczenie wydaje się wformie wyroku lub postanowienia. Postanowieniem rozstrzyga się, gdy ustawa nie wymaga wydania wyroku.
 
-3. Postanowienie wydaje sàd, prezes sàdu iupowa˝niony s´dzia, a w toku czynnoÊci wyjaÊniajàcych równie˝ organ prowadzàcy te czynnoÊci. Wkwestii niewymagajàcej postanowienia wydaje si´ zarzàdzenie.
+3. Postanowienie wydaje sąd, prezes sądu iupoważniony sędzia, a w toku czynności wyjaśniających również organ prowadzący te czynności. Wkwestii niewymagającej postanowienia wydaje się zarządzenie.
 
-4. Wsprawach osób podlegajàcych orzecznictwu sàdów wojskowych przepis 3 odnosi si´ tak˝e do prokuratora wojskowego.
+4. Wsprawach osób podlegających orzecznictwu sądów wojskowych przepis 3 odnosi się także do prokuratora wojskowego.
 
-5. Przepisy art. 94, 95 i97 Kodeksu post´powania karnego stosuje si´ odpowiednio.
+5. Przepisy art. 94, 95 i97 Kodeksu postępowania karnego stosuje się odpowiednio.
 
-**Art. 33.** Strony mogà uczestniczyç w posiedzeniu, je˝eli ustawa to przewiduje albo gdy prezes sàdu lub sàd tak zarzàdzi.
+**Art. 33.** Strony mogą uczestniczyć w posiedzeniu, jeżeli ustawa to przewiduje albo gdy prezes sądu lub sąd tak zarządzi.
 
-**Art. 34.** Podstaw´ orzeczenia mo˝e stanowiç tylko ca∏okszta∏t okolicznoÊci ujawnionych wpost´powaniu, majàcych znaczenie dla rozstrzygni´cia.
+**Art. 34.** Podstawę orzeczenia może stanowić tylko całokształt okoliczności ujawnionych wpostępowaniu, mających znaczenie dla rozstrzygnięcia.
 
 **Art. 35.**
 
-§ 1. Wyrok sàdu pierwszej instancji uzasadnia si´ idor´cza stronie wraz zuzasadnieniem jedynie na jej ˝àdanie zg∏oszone w zawitym terminie 7 dni od daty jego og∏oszenia, chyba ˝e ustawa stanowi inaczej. 2. Wyrok zaoczny dor´cza si´ z urz´du obwinionemu ijego obroƒcy, je˝eli zosta∏ ustanowiony; termin do ˝àdania dor´czenia uzasadnienia tego wyroku biegnie od daty jego dor´czenia. 3. Wyrok wydany na posiedzeniu dor´cza si´ stronie zurz´du, gdy nie uczestniczy∏a ona wposiedzeniu; termin do ˝àdania dor´czenia uzasadnienia wyroku biegnie wówczas od daty jego dor´czenia.
+§ 1. Wyrok sądu pierwszej instancji uzasadnia się idoręcza stronie wraz zuzasadnieniem jedynie na jej żądanie zgłoszone w zawitym terminie 7 dni od daty jego ogłoszenia, chyba że ustawa stanowi inaczej. 2. Wyrok zaoczny doręcza się z urzędu obwinionemu ijego obrońcy, jeżeli został ustanowiony; termin do żądania doręczenia uzasadnienia tego wyroku biegnie od daty jego doręczenia. 3. Wyrok wydany na posiedzeniu doręcza się stronie zurzędu, gdy nie uczestniczyła ona wposiedzeniu; termin do żądania doręczenia uzasadnienia wyroku biegnie wówczas od daty jego doręczenia.
 
 **Art. 36.**
 
-1. Postanowienie izarzàdzenie uzasadnia si´ jedynie, gdy podlega ono zaskar˝eniu. Uzasadnienie sporzàdza si´ wówczas z urz´du i dor´cza si´ je wraz z rozstrzygni´ciem osobom, którym przys∏uguje ustawa stanowi inaczej.
+1. Postanowienie izarządzenie uzasadnia się jedynie, gdy podlega ono zaskarżeniu. Uzasadnienie sporządza się wówczas z urzędu i doręcza się je wraz z rozstrzygnięciem osobom, którym przysługuje ustawa stanowi inaczej.
 
 **Art. 37.**
 
-§ 1. Protokó∏ spisuje si´ zka˝dej czynnoÊci majàcej istotne znaczenie dla sprawy, awszczególnoÊci zrozprawy iposiedzenia, atak˝e zdokonanych poza rozprawà czynnoÊci dowodowych, chyba ˝e ustawa stanowi inaczej. 2. CzynnoÊci, zktórych nie sporzàdza si´ protoko∏u, atak˝e inne zdarzenia, które majà znaczenie dla post´powania, utrwala si´ w aktach w formie notatki urz´dowej podpisanej przez osob´, która dokona∏a tych czynnoÊci. 3. Przebieg czynnoÊci protoko∏owanych mo˝e byç utrwalony ponadto za pomocà urzàdzenia rejestrujàcego obraz lub dêwi´k, o czym nale˝y uprzedziç osoby uczestniczàce w czynnoÊci. Zapis taki i jego przek∏ad, je˝eli zosta∏ sporzàdzony, sà za∏àcznikami do protoko∏u. 4. Strony i osoby majàce w tym interes prawny mogà z∏o˝yç wniosek o sprostowanie protoko∏u rozprawy lub posiedzenia, wskazujàc na nieÊcis∏oÊci iopuszczenia. Wprzedmiocie sprostowania protoko∏u rozstrzyga, po wys∏uchaniu protokolanta, s´dzia, który prowadzi∏ czynnoÊç. 5. Do protoko∏ów stosuje si´ odpowiednio przepisy art. 144—146, 148, 149 1 i2, art. 150, 151, 153 §3 i4, art. 154 oraz art. 155 Kodeksu post´powania karnego oraz przepisy wydane na podstawie art. 147 5 Kodeksu post´powania karnego.
+§ 1. Protokół spisuje się zkażdej czynności mającej istotne znaczenie dla sprawy, awszczególności zrozprawy iposiedzenia, atakże zdokonanych poza rozprawą czynności dowodowych, chyba że ustawa stanowi inaczej. 2. Czynności, zktórych nie sporządza się protokołu, atakże inne zdarzenia, które mają znaczenie dla postępowania, utrwala się w aktach w formie notatki urzędowej podpisanej przez osobę, która dokonała tych czynności. 3. Przebieg czynności protokołowanych może być utrwalony ponadto za pomocą urządzenia rejestrującego obraz lub dêwięk, o czym należy uprzedzić osoby uczestniczące w czynności. Zapis taki i jego przekład, jeżeli został sporządzony, są załącznikami do protokołu. 4. Strony i osoby mające w tym interes prawny mogą złożyć wniosek o sprostowanie protokołu rozprawy lub posiedzenia, wskazując na nieścisłości iopuszczenia. Wprzedmiocie sprostowania protokołu rozstrzyga, po wysłuchaniu protokolanta, sędzia, który prowadził czynność. 5. Do protokołów stosuje się odpowiednio przepisy art. 144—146, 148, 149 1 i2, art. 150, 151, 153 §3 i4, art. 154 oraz art. 155 Kodeksu postępowania karnego oraz przepisy wydane na podstawie art. 147 5 Kodeksu postępowania karnego.
 
-**Art. 38.** Do czynnoÊci procesowych prowadzonych w post´powaniu w sprawach o wykroczenia stosuje si´ odpowiednio tak˝e przepisy art. 100 1 i6, art. 105, 107, 108, 116—121, 122—127, 128—134, 136—142, 156 1—4, art. 157, 158 i160—166 oraz art. 476 2 Kodeksu post´powania karnego, agdy sàd nie orzeka jednoosobowo równie˝ art. 109—115 Kodeksu post´powania karnego. DZIA¸V Dowody Rozdzia∏ 6 Przepisy ogólne
+**Art. 38.** Do czynności procesowych prowadzonych w postępowaniu w sprawach o wykroczenia stosuje się odpowiednio także przepisy art. 100 1 i6, art. 105, 107, 108, 116—121, 122—127, 128—134, 136—142, 156 1—4, art. 157, 158 i160—166 oraz art. 476 2 Kodeksu postępowania karnego, agdy sąd nie orzeka jednoosobowo również art. 109—115 Kodeksu postępowania karnego. DZIAĘV Dowody
+
+#### Rozdział 6 Przepisy ogólne
 
 **Art. 39.**
 
-§ 1. Dowody przeprowadza si´ na wniosek stron albo zurz´du. Przepis art. 168 Kodeksu post´powania karnego stosuje si´. 2. Do wniosku dowodowego stosuje si´ odpowiednio przepisy art. 169 i170 Kodeksu post´powania karnego, a przy przeprowadzaniu dowodu tak˝e art.171—173 Kodeksu post´powania karnego. 4. Dowodu zwyjaÊnieƒ lub zeznaƒ nie wolno zast´powaç treÊcià pism, zapisków lub notatek urz´dowych, chyba ˝e ustawa stanowi inaczej.
+§ 1. Dowody przeprowadza się na wniosek stron albo zurzędu. Przepis art. 168 Kodeksu postępowania karnego stosuje się. 2. Do wniosku dowodowego stosuje się odpowiednio przepisy art. 169 i170 Kodeksu postępowania karnego, a przy przeprowadzaniu dowodu także art.171—173 Kodeksu postępowania karnego. 4. Dowodu zwyjaśnień lub zeznań nie wolno zastępować treścią pism, zapisków lub notatek urzędowych, chyba że ustawa stanowi inaczej.
 
 **Art. 40.**
 
-1. Na wniosek osoby przes∏uchiwanej przyjmuje si´ od niej oÊwiadczenie na piÊmie.
+1. Na wniosek osoby przesłuchiwanej przyjmuje się od niej oświadczenie na piśmie.
 
-2. W wypadku, o którym mowa w 1, nale˝y umo˝liwiç tej osobie sporzàdzenie oÊwiadczenia wwarunkach uniemo˝liwiajàcych porozumienie si´ z innymi osobami, a nast´pnie przes∏uchaç jà w celu wyjaÊnienia, uzupe∏nienia lub uÊciÊlenia okolicznoÊci zawartych woÊwiadczeniu pisemnym. OÊwiadczenie pisemne stanowi za∏àcznik do protoko∏u.
+2. W wypadku, o którym mowa w 1, należy umożliwić tej osobie sporządzenie oświadczenia wwarunkach uniemożliwiających porozumienie się z innymi osobami, a następnie przesłuchać ją w celu wyjaśnienia, uzupełnienia lub uściślenia okoliczności zawartych woświadczeniu pisemnym. Oświadczenie pisemne stanowi załącznik do protokołu.
 
-3. WyjaÊnienia lub zeznania, z∏o˝one w formie oÊwiadczenia pisemnego w post´powaniu przed sàdem, odczytuje si´. Rozdzia∏ 7 Przeprowadzanie poszczególnych dowodów. Przeszukanie
+3. Wyjaśnienia lub zeznania, złożone w formie oświadczenia pisemnego w postępowaniu przed sądem, odczytuje się.
+
+#### Rozdział 7 Przeprowadzanie poszczególnych dowodów.
 
 **Art. 41.**
 
-1. Przy przeprowadzaniu dowodu z zeznaƒ Êwiadka stosuje si´ odpowiednio przepisy art.177, 178, 182, 183, 185—190, 191 1 i2 oraz art. 192 Kodeksu post´powania karnego.
+1. Przy przeprowadzaniu dowodu z zeznań świadka stosuje się odpowiednio przepisy art.177, 178, 182, 183, 185—190, 191 1 i2 oraz art. 192 Kodeksu postępowania karnego.
 
-2. Osoby obowiàzane do zachowania tajemnicy paƒstwowej mogà byç przes∏uchane co do okolicznoÊci, na które rozciàga si´ ten obowiàzek, tylko po zwolnieniu tych osób od obowiàzku zachowania tajemnicy przez uprawniony organ prze∏o˝ony.
+2. Osoby obowiązane do zachowania tajemnicy państwowej mogą być przesłuchane co do okoliczności, na które rozciąga się ten obowiązek, tylko po zwolnieniu tych osób od obowiązku zachowania tajemnicy przez uprawniony organ przełożony.
 
-3. Osoby obowiàzane do zachowania tajemnicy s∏u˝bowej lub tajemnicy zwiàzanej z wykonywaniem zawodu lub funkcji mogà odmówiç zeznaƒ co do okolicznoÊci, na które rozciàga si´ ten obowiàzek, chyba ˝e sàd zwolni te osoby od obowiàzku zachowania tajemnicy. Na postanowienie sàdu s∏u˝y za˝alenie.
+3. Osoby obowiązane do zachowania tajemnicy służbowej lub tajemnicy związanej z wykonywaniem zawodu lub funkcji mogą odmówić zeznań co do okoliczności, na które rozciąga się ten obowiązek, chyba że sąd zwolni te osoby od obowiązku zachowania tajemnicy. Na postanowienie sądu służy zażalenie.
 
-4. Sàd nie mo˝e zwolniç jednak od obowiàzku zachowania tajemnicy zwiàzanej zwykonywaniem zawodu adwokata, radcy prawnego, lekarza lub dziennikarza.
+4. Sąd nie może zwolnić jednak od obowiązku zachowania tajemnicy związanej zwykonywaniem zawodu adwokata, radcy prawnego, lekarza lub dziennikarza.
 
-5. W wypadkach wskazanych w 2 i 3 sàd przes∏uchuje takà osob´ na rozprawie z wy∏àczeniem jawnoÊci. Przepisy wydane na podstawie art. 181 2 Kodeksu post´powania karnego stosuje si´ odpowiednio.
+5. W wypadkach wskazanych w 2 i 3 sąd przesłuchuje taką osobę na rozprawie z wyłączeniem jawności. Przepisy wydane na podstawie art. 181 2 Kodeksu postępowania karnego stosuje się odpowiednio.
 
 **Art. 42.**
 
-§ 1. Przy przeprowadzaniu dowodu zopinii bieg∏ego stosuje si´ odpowiednio przepisy art. 193—201 Kodeksu post´powania karnego. 2. W razie uzasadnionych wàtpliwoÊci co do stakarnego.
+§ 1. Przy przeprowadzaniu dowodu zopinii biegłego stosuje się odpowiednio przepisy art. 193—201 Kodeksu postępowania karnego. 2. W razie uzasadnionych wątpliwości co do stakarnego.
 
-**Art. 43.** Przy przeprowadzaniu ogl´dzin i eksperymentu procesowego stosuje si´ odpowiednio przepisy art. 207, 208, 211 i 212 Kodeksu post´powania karnego.
+**Art. 43.** Przy przeprowadzaniu oględzin i eksperymentu procesowego stosuje się odpowiednio przepisy art. 207, 208, 211 i 212 Kodeksu postępowania karnego.
 
 **Art. 44.**
 
-§ 1. Wcelu znalezienia izatrzymania przedmiotów podlegajàcych ogl´dzinom lub mogàcych stanowiç dowód rzeczowy, Policja, awtoku czynnoÊci wyjaÊniajàcych równie˝ inne organy je prowadzàce, mogà dokonaç przeszukania pomieszczeƒ iinnych miejsc, je˝eli istniejà uzasadnione podstawy do przypuszczenia, ˝e przedmioty te lub dowody tam si´ znajdujà. 2. Przepis 1 stosuje si´ odpowiednio do przeszukania osoby, jej odzie˝y lub podr´cznych przedmiotów. 3. Przeszukanie nast´puje na mocy postanowienia prokuratora lub sàdu. 4. Wwypadkach niecierpiàcych zw∏oki, je˝eli postanowienie nie mog∏o byç uprzednio wydane, mo˝na przeprowadziç przeszukanie bez takiego postanowienia, jednak organ dokonujàcy tej czynnoÊci zobowiàzany jest nast´pnie zwróciç si´ niezw∏ocznie do prokuratora o zatwierdzenie przeszukania. Na ˝àdanie osoby, u której dokonano przeszukania, dor´cza si´ jej w terminie 14 dni postanowienie wprzedmiocie zatwierdzenia przeszukania. O prawie wystàpienia z takim ˝àdaniem nale˝y jà pouczyç. 5. Przy przeprowadzaniu przeszukania izatrzymania przedmiotów stosuje si´ odpowiednio przepisy art.217, 221— 234 i236 Kodeksu post´powania karnego. DZIA¸VI Ârodki przymusu Rozdzia∏ 8 Zatrzymanie
+§ 1. Wcelu znalezienia izatrzymania przedmiotów podlegających oględzinom lub mogących stanowić dowód rzeczowy, Policja, awtoku czynności wyjaśniających również inne organy je prowadzące, mogą dokonać przeszukania pomieszczeń iinnych miejsc, jeżeli istnieją uzasadnione podstawy do przypuszczenia, że przedmioty te lub dowody tam się znajdują. 2. Przepis 1 stosuje się odpowiednio do przeszukania osoby, jej odzieży lub podręcznych przedmiotów. 3. Przeszukanie następuje na mocy postanowienia prokuratora lub sądu. 4. Wwypadkach niecierpiących zwłoki, jeżeli postanowienie nie mogło być uprzednio wydane, można przeprowadzić przeszukanie bez takiego postanowienia, jednak organ dokonujący tej czynności zobowiązany jest następnie zwrócić się niezwłocznie do prokuratora o zatwierdzenie przeszukania. Na żądanie osoby, u której dokonano przeszukania, doręcza się jej w terminie 14 dni postanowienie wprzedmiocie zatwierdzenia przeszukania. O prawie wystąpienia z takim żądaniem należy ją pouczyć. 5. Przy przeprowadzaniu przeszukania izatrzymania przedmiotów stosuje się odpowiednio przepisy art.217, 221— 234 i236 Kodeksu postępowania karnego. DZIAĘVI Ârodki przymusu
+
+#### Rozdział 8 Zatrzymanie
 
 **Art. 45.**
 
-1. Policja ma prawo zatrzymaç osob´ uj´tà na goràcym uczynku pope∏nienia wykroczenia lub bezpoÊrednio potem, je˝eli:
+1. Policja ma prawo zatrzymać osobę ujętą na gorącym uczynku popełnienia wykroczenia lub bezpośrednio potem, jeżeli:
 
-- **1)** zachodzà podstawy do zastosowania wobec niej post´powania przyspieszonego,
-- **2)** nie mo˝na ustaliç jej to˝samoÊci.
+- **1)** zachodzą podstawy do zastosowania wobec niej postępowania przyspieszonego,
+- **2)** nie można ustalić jej tożsamości.
 
-2. Art. 243 Kodeksu post´powania karnego stosuje si´ odpowiednio.
+2. Art. 243 Kodeksu postępowania karnego stosuje się odpowiednio.
 
 **Art. 46.**
 
-1. Zatrzymanego nale˝y natychmiast poinformowaç o przyczynach zatrzymania i o przys∏ugujàcych mu uprawnieniach oraz wys∏uchaç go.
+1. Zatrzymanego należy natychmiast poinformować o przyczynach zatrzymania i o przysługujących mu uprawnieniach oraz wysłuchać go.
 
-2. Z zatrzymania sporzàdza si´ protokó∏, którego i przyczyn´ zatrzymania z okreÊleniem wykroczenia, w zwiàzku z którym zosta∏a zatrzymana. Nale˝y równie˝ zapisaç z∏o˝one przez zatrzymanego oÊwiadczenia izaznaczyç udzielenie mu informacji oprzys∏ugujàcych prawach.
+2. Z zatrzymania sporządza się protokół, którego i przyczynę zatrzymania z określeniem wykroczenia, w związku z którym została zatrzymana. Należy również zapisać złożone przez zatrzymanego oświadczenia izaznaczyć udzielenie mu informacji oprzysługujących prawach.
 
-3. Na ˝àdanie zatrzymanego zawiadamia si´ ozatrzymaniu osob´ najbli˝szà, atak˝e pracodawc´. Ozatrzymaniu osoby wskazanej w art. 10 1 zawiadamia si´ niezw∏ocznie w∏aÊciwego dowódc´ jednostki wojskowej, nawet gdy zatrzymany tego nie ˝àda.
+3. Na żądanie zatrzymanego zawiadamia się ozatrzymaniu osobę najbliższą, atakże pracodawcę. Ozatrzymaniu osoby wskazanej w art. 10 1 zawiadamia się niezwłocznie właściwego dowódcę jednostki wojskowej, nawet gdy zatrzymany tego nie żąda.
 
-4. Zatrzymanemu nale˝y na jego ˝àdanie umo˝liwiç nawiàzanie wdost´pnej formie kontaktu zadwokatem albo z radcà prawnym oraz zapewniç mo˝liwoÊç bezpoÊredniej z nim rozmowy; zatrzymujàcy mo˝e zastrzec, ˝e b´dzie przy niej obecny.
+4. Zatrzymanemu należy na jego żądanie umożliwić nawiązanie wdostępnej formie kontaktu zadwokatem albo z radcą prawnym oraz zapewnić możliwość bezpośredniej z nim rozmowy; zatrzymujący może zastrzec, że będzie przy niej obecny.
 
-5. Zatrzymanego nale˝y natychmiast zwolniç, gdy ustanie przyczyna zatrzymania, atak˝e zup∏ywem czasu zatrzymania.
+5. Zatrzymanego należy natychmiast zwolnić, gdy ustanie przyczyna zatrzymania, atakże zupływem czasu zatrzymania.
 
-6. Czas zatrzymania osoby liczy si´ od chwili jej uj´cia i nie mo˝e przekroczyç 24 godzin, a w wypadkach wskazanych wart. 45 1 pkt 1 48 godzin.
+6. Czas zatrzymania osoby liczy się od chwili jej ujęcia i nie może przekroczyć 24 godzin, a w wypadkach wskazanych wart. 45 1 pkt 1 48 godzin.
 
 **Art. 47.**
 
-1. Zatrzymanemu przys∏uguje za˝alenie na zatrzymanie do sàdu. W za˝aleniu zatrzymany mo˝e domagaç si´ zbadania zasadnoÊci, legalnoÊci oraz prawid∏owoÊci zatrzymania.
+1. Zatrzymanemu przysługuje zażalenie na zatrzymanie do sądu. W zażaleniu zatrzymany może domagać się zbadania zasadności, legalności oraz prawidłowości zatrzymania.
 
-2. Za˝alenie przekazuje si´ niezw∏ocznie sàdowi rejonowemu miejsca zatrzymania, który równie˝ niezw∏ocznie je rozpoznaje.
+2. Zażalenie przekazuje się niezwłocznie sądowi rejonowemu miejsca zatrzymania, który również niezwłocznie je rozpoznaje.
 
-3. Przy rozpoznawaniu za˝alenia sàd stosuje odpowiednio przepisy art. 246 3 i 4 Kodeksu post´powania karnego.
+3. Przy rozpoznawaniu zażalenia sąd stosuje odpowiednio przepisy art. 246 3 i 4 Kodeksu postępowania karnego.
 
-4. W razie uznania zatrzymania za niewàtpliwie nies∏uszne zatrzymanemu przys∏uguje odszkodowanie, którego mo˝e dochodziç w trybie okreÊlonym wdziale XII niniejszego kodeksu. Rozdzia∏ 9 Zabezpieczenie izaj´cie przedmiotów
+4. W razie uznania zatrzymania za niewątpliwie niesłuszne zatrzymanemu przysługuje odszkodowanie, którego może dochodzić w trybie określonym wdziale XII niniejszego kodeksu.
+
+#### Rozdział 9 Zabezpieczenie izajęcie przedmiotów
 
 **Art. 48.**
 
-1. Policja i inne organy uprawnione do prowadzenia czynnoÊci okreÊlonych wdziale VII mogà dokonaç tymczasowego zaj´cia przedmiotu, je˝eli wzakresie swego dzia∏ania dowiedzia∏y si´ lub ujawni∏y wykroczenie zagro˝one przepadkiem przedmiotów, azaj´cie takie jest niezb´dne dla zabezpieczenia wykonania tego przepadku. Z czynnoÊci zaj´cia sporzàdza si´ protokó∏.
+1. Policja i inne organy uprawnione do prowadzenia czynności określonych wdziale VII mogą dokonać tymczasowego zajęcia przedmiotu, jeżeli wzakresie swego działania dowiedziały się lub ujawniły wykroczenie zagrożone przepadkiem przedmiotów, azajęcie takie jest niezbędne dla zabezpieczenia wykonania tego przepadku. Z czynności zajęcia sporządza się protokół.
 
-2. Tymczasowe zaj´cie upada, je˝eli wciàgu 7 dni od daty jego dokonania nie zostanie wydane postanowienie ozabezpieczeniu albo rozstrzygni´cie orzekajàw sprawie o wykroczenie zagro˝one przepadkiem przedmiotów, je˝eli nie dokonano tymczasowego zaj´cia. Postanowienie to wykonuje Policja, stosujàc odpowiednio przepisy oprzeszukaniu idor´czajàc postanowienie osobie, uktórej dokonuje zaj´cia.
+2. Tymczasowe zajęcie upada, jeżeli wciągu 7 dni od daty jego dokonania nie zostanie wydane postanowienie ozabezpieczeniu albo rozstrzygnięcie orzekająw sprawie o wykroczenie zagrożone przepadkiem przedmiotów, jeżeli nie dokonano tymczasowego zajęcia. Postanowienie to wykonuje Policja, stosując odpowiednio przepisy oprzeszukaniu idoręczając postanowienie osobie, uktórej dokonuje zajęcia.
 
-4. Na postanowienia, o których mowa w 2 i 3, przys∏uguje za˝alenie osobie, której prawa zosta∏y naruszone.
+4. Na postanowienia, o których mowa w 2 i 3, przysługuje zażalenie osobie, której prawa zostały naruszone.
 
-5. Przy dokonywaniu czynnoÊci, októrych mowa w§ 1—3, stosuje si´ odpowiednio przepisy art. 44.
+5. Przy dokonywaniu czynności, októrych mowa w§ 1—3, stosuje się odpowiednio przepisy art. 44.
 
-6. Zabezpieczenie majàtkowe upada, je˝eli nie zostanie prawomocnie orzeczony przepadek przedmiotów. Rozdzia∏ 10 Kary porzàdkowe ipozosta∏e Êrodki przymusu
+6. Zabezpieczenie majątkowe upada, jeżeli nie zostanie prawomocnie orzeczony przepadek przedmiotów.
+
+#### Rozdział 10 Kary porządkowe ipozostałe środki przymusu
 
 **Art. 49.**
 
-1. Na Êwiadka, bieg∏ego, t∏umacza lub specjalist´, który bez usprawiedliwienia nie stawi∏ si´ na wezwanie uprawnionego organu lub bez zezwolenia tego organu samowolnie wydali∏ si´ z miejsca czynnoÊci przed jej zakoƒczeniem albo bezpodstawnie odmówi∏ z∏o˝enia zeznaƒ, wykonania czynnoÊci bieg∏ego, t∏umacza lub specjalisty, mo˝na na∏o˝yç kar´ porzàdkowà do 250 z∏otych, awrazie ponownego niezastosowania si´ do wezwania do 500 z∏otych.
+1. Na świadka, biegłego, tłumacza lub specjalistę, który bez usprawiedliwienia nie stawił się na wezwanie uprawnionego organu lub bez zezwolenia tego organu samowolnie wydalił się z miejsca czynności przed jej zakończeniem albo bezpodstawnie odmówił złożenia zeznań, wykonania czynności biegłego, tłumacza lub specjalisty, można nałożyć karę porządkową do 250 złotych, awrazie ponownego niezastosowania się do wezwania do 500 złotych.
 
-2. Przepis 1 stosuje si´ równie˝ do osoby, która b´dàc obowiàzana do okazania albo wydania przedmiotu ogl´dzin lub dowodu rzeczowego odmówi∏a jego okazania lub wydania; nie dotyczy to osoby, której przys∏uguje prawo odmowy zeznaƒ.
+2. Przepis 1 stosuje się również do osoby, która będąc obowiązana do okazania albo wydania przedmiotu oględzin lub dowodu rzeczowego odmówiła jego okazania lub wydania; nie dotyczy to osoby, której przysługuje prawo odmowy zeznań.
 
-3. Na∏o˝onà kar´ nale˝y uchyliç, je˝eli osoba ukarana w ciàgu 7 dni od daty dor´czenia lub og∏oszenia jej postanowienia ona∏o˝eniu kary porzàdkowej dostatecznie usprawiedliwi swoje niestawiennictwo, samowolne oddalenie si´, odmow´ z∏o˝enia zeznaƒ albo wykonania innego obowiàzku, o którym mowa w 1 lub 2.
+3. Nałożoną karę należy uchylić, jeżeli osoba ukarana w ciągu 7 dni od daty doręczenia lub ogłoszenia jej postanowienia onałożeniu kary porządkowej dostatecznie usprawiedliwi swoje niestawiennictwo, samowolne oddalenie się, odmowę złożenia zeznań albo wykonania innego obowiązku, o którym mowa w 1 lub 2.
 
-4. Wprzypadku uchybienia obowiàzkom wskazanym w§ 1 lub 2 przez ˝o∏nierza wczynnej s∏u˝bie wojskowej, sàd wyst´puje do dowódcy jednostki wojskowej, w której ˝o∏nierz pe∏ni s∏u˝b´, o pociàgni´cie go do odpowiedzialnoÊci dyscyplinarnej.
+4. Wprzypadku uchybienia obowiązkom wskazanym w§ 1 lub 2 przez żołnierza wczynnej służbie wojskowej, sąd występuje do dowódcy jednostki wojskowej, w której żołnierz pełni służbę, o pociągnięcie go do odpowiedzialności dyscyplinarnej.
 
-5. Przepis 4 stosuje si´, choçby za uchybienie, którego dopuÊci∏ si´ ˝o∏nierz przed wstàpieniem do wojska, by∏a mu poprzednio wymierzona kara porzàdkowa, lecz nie zosta∏a do tego czasu wykonana.
+5. Przepis 4 stosuje się, choćby za uchybienie, którego dopuścił się żołnierz przed wstąpieniem do wojska, była mu poprzednio wymierzona kara porządkowa, lecz nie została do tego czasu wykonana.
 
 **Art. 50.**
 
-1. Wrazie niestawienia si´ Êwiadka na wezwanie bez usprawiedliwienia mo˝na, niezale˝nie od na∏o˝enia kary porzàdkowej, zarzàdziç jego przymusowe doprowadzenie przez Policj´.
+1. Wrazie niestawienia się świadka na wezwanie bez usprawiedliwienia można, niezależnie od nałożenia kary porządkowej, zarządzić jego przymusowe doprowadzenie przez Policję.
 
 **Art. 51.**
 
-1. Ârodki przymusu, o których mowa w art. 49 i 50, stosuje sàd w∏aÊciwy do rozpoznania sprawy, a w toku czynnoÊci wyjaÊniajàcych tak˝e prokurator, je˝eli prowadzi te czynnoÊci. Wtoku czynnoÊci wyjaÊniajàcych, prowadzonych przez organ inny ni˝ prokurator, Êrodki przymusu, októrych mowa wart. 50 1, stosuje sàd w∏aÊciwy do rozpoznania sprawy na wniosek organu dokonujàcego tych czynnoÊci, apozosta∏e Êrodki przymusu organ dokonujàcy czynnoÊci wyjaÊniajàcych.
+1. Ârodki przymusu, o których mowa w art. 49 i 50, stosuje sąd właściwy do rozpoznania sprawy, a w toku czynności wyjaśniających także prokurator, jeżeli prowadzi te czynności. Wtoku czynności wyjaśniających, prowadzonych przez organ inny niż prokurator, środki przymusu, októrych mowa wart. 50 1, stosuje sąd właściwy do rozpoznania sprawy na wniosek organu dokonującego tych czynności, apozostałe środki przymusu organ dokonujący czynności wyjaśniających.
 
-2. Kar´ porzàdkowà wskazanà w art. 49 1 i 2 uchyla odpowiednio sàd lub organ prze∏o˝ony nad organem, który danà kar´ na∏o˝y∏.
+2. Karę porządkową wskazaną w art. 49 1 i 2 uchyla odpowiednio sąd lub organ przełożony nad organem, który daną karę nałożył.
 
-3. Na postanowienie odmawiajàce uchylenia kary porzàdkowej przys∏uguje ukaranemu za˝alenie; je˝eli postanowienie wydano wtoku czynnoÊci wyjaÊniajàcych,za˝alenie rozpoznaje sàd w∏aÊciwy do rozpoznania sprawy.
+3. Na postanowienie odmawiające uchylenia kary porządkowej przysługuje ukaranemu zażalenie; jeżeli postanowienie wydano wtoku czynności wyjaśniających,zażalenie rozpoznaje sąd właściwy do rozpoznania sprawy.
 
-4. Kary porzàdkowe na∏o˝one w toku czynnoÊci wyjaÊniajàcych Êciàga si´ wtrybie przepisów opost´powaniu egzekucyjnym wadministracji. Kary te stanowià dochód bud˝etu paƒstwa.
+4. Kary porządkowe nałożone w toku czynności wyjaśniających ściąga się wtrybie przepisów opostępowaniu egzekucyjnym wadministracji. Kary te stanowią dochód budżetu państwa.
 
-**Art. 52.** Wykonujàc zarzàdzenie o przymusowym doprowadzeniu obwinionego lub Êwiadka, Policja mo˝e, gdy jest to niezb´dne, zatrzymaç osob´, którà ma doprowadziç na czas konieczny do wykonania zarzàdzenia. Art. 46 i47 nie stosuje si´.
+**Art. 52.** Wykonując zarządzenie o przymusowym doprowadzeniu obwinionego lub świadka, Policja może, gdy jest to niezbędne, zatrzymać osobę, którą ma doprowadzić na czas konieczny do wykonania zarządzenia. Art. 46 i47 nie stosuje się.
 
-**Art. 53.** Je˝eli miejsce pobytu sprawcy wykroczenia nie jest znane, sàd, awtoku czynnoÊci wyjaÊniajàcych tak˝e organ dokonujàcy tych czynnoÊci, mogà zarzàdziç ustalenie przez Policj´ miejsca pobytu. Sàd mo˝e tak˝e zarzàdziç przymusowe doprowadzenie obwinionego. DZIA¸ VII CzynnoÊci wyjaÊniajàce
+**Art. 53.** Jeżeli miejsce pobytu sprawcy wykroczenia nie jest znane, sąd, awtoku czynności wyjaśniających także organ dokonujący tych czynności, mogą zarządzić ustalenie przez Policję miejsca pobytu. Sąd może także zarządzić przymusowe doprowadzenie obwinionego. DZIAĘ VII Czynności wyjaśniające
 
 **Art. 54.**
 
-1. Wcelu ustalenia, czy istniejà podstawy do wystàpienia z wnioskiem o ukaranie oraz zebrania danych niezb´dnych dla sporzàdzenia wniosku o ukaranie, Policja mo˝e przeprowadzaç czynnoÊci wyjaÊniajàce. CzynnoÊci te wmiar´ mo˝noÊci nale˝y podjàç w miejscu pope∏nienia czynu bezpoÊrednio po jego ujawnieniu izakoƒczyç wciàgu miesiàca.
+1. Wcelu ustalenia, czy istnieją podstawy do wystąpienia z wnioskiem o ukaranie oraz zebrania danych niezbędnych dla sporządzenia wniosku o ukaranie, Policja może przeprowadzać czynności wyjaśniające. Czynności te wmiarę możności należy podjąć w miejscu popełnienia czynu bezpośrednio po jego ujawnieniu izakończyć wciągu miesiąca.
 
-2. Je˝eli czynnoÊci wyjaÊniajàce nie dostarczy∏y podstaw do wniesienia wniosku o ukaranie, zawiadamia si´ otym ujawnionych pokrzywdzonych. Wzawiadomieniu nale˝y wskazaç przyczyn´ niewniesienia wniosku oukaranie.
+2. Jeżeli czynności wyjaśniające nie dostarczyły podstaw do wniesienia wniosku o ukaranie, zawiadamia się otym ujawnionych pokrzywdzonych. Wzawiadomieniu należy wskazać przyczynę niewniesienia wniosku oukaranie.
 
-3. W ramach czynnoÊci, o których mowa w 1, mo˝na w szczególnoÊci przes∏uchiwaç Êwiadków, do4. Wstosunku do osoby podejrzanej opope∏nienie wykroczenia stosuje si´ odpowiednio przepisy art. 74 3 i art. 308 1 Kodeksu post´powania karnego.
+3. W ramach czynności, o których mowa w 1, można w szczególności przesłuchiwać świadków, do4. Wstosunku do osoby podejrzanej opopełnienie wykroczenia stosuje się odpowiednio przepisy art. 74 3 i art. 308 1 Kodeksu postępowania karnego.
 
-5. Przy utrwalaniu czynnoÊci okreÊlonych w 3 mo˝na ograniczyç si´ do sporzàdzenia notatki urz´dowej; nie dotyczy to jednak czynnoÊci, której nie b´dzie mo˝na powtórzyç w post´powaniu przed sàdem. Notatka powinna zawieraç wskazanie rodzaju czynnoÊci, jej czasu i miejsca oraz osób uczestniczàcych, a tak˝e krótki opis przebiegu czynnoÊci ipodpis osoby, która jà przeprowadzi∏a.
+5. Przy utrwalaniu czynności określonych w 3 można ograniczyć się do sporządzenia notatki urzędowej; nie dotyczy to jednak czynności, której nie będzie można powtórzyć w postępowaniu przed sądem. Notatka powinna zawierać wskazanie rodzaju czynności, jej czasu i miejsca oraz osób uczestniczących, a także krótki opis przebiegu czynności ipodpis osoby, która ją przeprowadziła.
 
-6. W toku czynnoÊci wyjaÊniajàcych wolno tak˝e przes∏uchaç osob´, co do której istnieje uzasadniona podstawa do sporzàdzenia przeciwko niej wniosku o ukaranie. Osoba taka ma prawo odmówiç z∏o˝enia wyjaÊnieƒ oraz zg∏osiç wnioski dowodowe, oczym nale˝y jà pouczyç. Przed przes∏uchaniem nale˝y jej wyjaÊniç, ojakie wykroczenie mo˝e byç obwiniona, azarzut ten wpisuje si´ do protoko∏u przes∏uchania.
+6. W toku czynności wyjaśniających wolno także przesłuchać osobę, co do której istnieje uzasadniona podstawa do sporządzenia przeciwko niej wniosku o ukaranie. Osoba taka ma prawo odmówić złożenia wyjaśnień oraz zgłosić wnioski dowodowe, oczym należy ją pouczyć. Przed przesłuchaniem należy jej wyjaśnić, ojakie wykroczenie może być obwiniona, azarzut ten wpisuje się do protokołu przesłuchania.
 
 **Art. 55.**
 
-1. CzynnoÊci wyjaÊniajàce przeprowadza si´ tak˝e w celu uzupe∏nienia lub sprawdzenia faktów podanych we wniosku oukaranie wwypadku wskazanym wart. 60 1 pkt 5 lit. b).
+1. Czynności wyjaśniające przeprowadza się także w celu uzupełnienia lub sprawdzenia faktów podanych we wniosku oukaranie wwypadku wskazanym wart. 60 1 pkt 5 lit. b).
 
-2. CzynnoÊci wskazane w 1 nale˝y przeprowadziç w terminie oraz w zakresie okreÊlonym poleceniem sàdu, chyba ˝e wtoku wykonywania tych czynnoÊci wyjdà na jaw okolicznoÊci wymagajàce utrwalenia dowodu, którego nie b´dzie mo˝na powtórzyç przed sàdem, lub znalezienia izatrzymania przedmiotu.
+2. Czynności wskazane w 1 należy przeprowadzić w terminie oraz w zakresie określonym poleceniem sądu, chyba że wtoku wykonywania tych czynności wyjdą na jaw okoliczności wymagające utrwalenia dowodu, którego nie będzie można powtórzyć przed sądem, lub znalezienia izatrzymania przedmiotu.
 
-3. W razie przes∏uchiwania w ramach czynnoÊci, o których mowa w 1, obwinionego wskazanego we wniosku oukaranie, przepisy art. 54 6 stosuje si´ odpowiednio.
+3. W razie przesłuchiwania w ramach czynności, o których mowa w 1, obwinionego wskazanego we wniosku oukaranie, przepisy art. 54 6 stosuje się odpowiednio.
 
 **Art. 56.**
 
-§ 1. CzynnoÊci wyjaÊniajàce, októrych mowa wart. 54, mo˝e tak˝e przeprowadziç prokurator lub zleciç je Policji. 2. Uprawnienia Policji, októrych mowa wart. 54 i55, posiadajà tak˝e wgranicach swej w∏aÊciwoÊci organy wskazane wart. 17 2 i3, ainne organy, gdy ustawa tak stanowi. 3. Instytucje, którym nadano uprawnienia oskar˝yciela publicznego w drodze rozporzàdzenia okreÊlonego wart. 17 4, mogà wsprawie, wktórej ujawni∏y wykroczenie,zwracaç si´ do Policji oprzeprowadzenie czynnoÊci wyjaÊniajàcych w zakresie niezb´dnym do ustalenia, czy istniejà podstawy do wystàpienia zwnioskiem oukaranie oraz do zebrania danych koniecznych do sporzàdzenia wniosku oukaranie. Post´powanie zwyczajne Rozdzia∏ 11 Wszcz´cie post´powania. Orzekanie przed rozprawà
+§ 1. Czynności wyjaśniające, októrych mowa wart. 54, może także przeprowadzić prokurator lub zlecić je Policji. 2. Uprawnienia Policji, októrych mowa wart. 54 i55, posiadają także wgranicach swej właściwości organy wskazane wart. 17 2 i3, ainne organy, gdy ustawa tak stanowi. 3. Instytucje, którym nadano uprawnienia oskarżyciela publicznego w drodze rozporządzenia określonego wart. 17 4, mogą wsprawie, wktórej ujawniły wykroczenie,zwracać się do Policji oprzeprowadzenie czynności wyjaśniających w zakresie niezbędnym do ustalenia, czy istnieją podstawy do wystąpienia zwnioskiem oukaranie oraz do zebrania danych koniecznych do sporządzenia wniosku oukaranie. Postępowanie zwyczajne
+
+#### Rozdział 11 Wszczęcie postępowania. Orzekanie przed rozprawą
 
 **Art. 57.**
 
-§ 1. Podstaw´ do wszcz´cia post´powania stanowi wniosek o ukaranie z∏o˝ony przez organ uprawniony do wyst´powania w charakterze oskar˝yciela publicznego w danej sprawie, a w wypadkach okreÊlonych w art. 27 1 i 2 tak˝e wniosek z∏o˝ony przez pokrzywdzonego. 2. Wniosek oukaranie powinien zawieraç:
+§ 1. Podstawę do wszczęcia postępowania stanowi wniosek o ukaranie złożony przez organ uprawniony do występowania w charakterze oskarżyciela publicznego w danej sprawie, a w wypadkach określonych w art. 27 1 i 2 także wniosek złożony przez pokrzywdzonego. 2. Wniosek oukaranie powinien zawierać:
 
-- **1)** imi´ inazwisko oraz adres obwinionego, atak˝e inne dane niezb´dne do ustalenia jego to˝samoÊci,
-- **2)** okreÊlenie zarzucanego obwinionemu czynu ze wskazaniem miejsca, czasu, sposobu iokolicznoÊci jego pope∏nienia,
+- **1)** imię inazwisko oraz adres obwinionego, atakże inne dane niezbędne do ustalenia jego tożsamości,
+- **2)** określenie zarzucanego obwinionemu czynu ze wskazaniem miejsca, czasu, sposobu iokoliczności jego popełnienia,
 - **3)** wskazanie dowodów,
-- **4)** imi´ inazwisko oraz podpis sporzàdzajàcego wniosek, a tak˝e adres gdy wniosek pochodzi od pokrzywdzonego. 3. Wniosek oukaranie sk∏adany przez oskar˝yciela publicznego powinien ponadto zawieraç wskazanie:
+- **4)** imię inazwisko oraz podpis sporządzającego wniosek, a także adres gdy wniosek pochodzi od pokrzywdzonego. 3. Wniosek oukaranie składany przez oskarżyciela publicznego powinien ponadto zawierać wskazanie:
 - **1)** przepisów, pod które zarzucany czyn podpada,
 - **2)** miejsca zatrudnienia obwinionego idanych ojego warunkach materialnych, rodzinnych iosobistych,
 - **3)** pokrzywdzonych, oile takich ujawniono,
-- **4)** wysokoÊci wyrzàdzonej szkody,
-- **5)** stanowiska osoby sporzàdzajàcej wniosek,
-- **6)** sàdu w∏aÊciwego do rozpoznania sprawy,
-- **7)** danych dotyczàcych uprzedniego skazania sprawcy za podobne przest´pstwo lub wykroczenie. 4. Do wniosku o ukaranie nale˝y do∏àczyç materia∏y post´powania przygotowawczego lub czynnoÊci wyjaÊniajàcych, je˝eli by∏y one prowadzone, atak˝e do wiadomoÊci sàdu adresy Êwiadków ipokrzywdzonych. 5. W razie wniesienia wniosku o ukaranie przez pokrzywdzonego, prezes sàdu przesy∏ajàc w∏aÊciwemu oskar˝ycielowi publicznemu zawiadomienie, októrym mowa wart. 27 4, wzywa go jednoczeÊnie do nades∏ania w terminie 7 dni materia∏u dowodowego wrazie niewnoszenia przez niego wniosku oukaranie, je˝eli w sprawie przeprowadzono czynnoÊci wyjaÊniajàce lub dochodzenie, albo do nades∏ania oÊwiadczenia obraku takiego materia∏u.
+- **4)** wysokości wyrządzonej szkody,
+- **5)** stanowiska osoby sporządzającej wniosek,
+- **6)** sądu właściwego do rozpoznania sprawy,
+- **7)** danych dotyczących uprzedniego skazania sprawcy za podobne przestępstwo lub wykroczenie. 4. Do wniosku o ukaranie należy dołączyć materiały postępowania przygotowawczego lub czynności wyjaśniających, jeżeli były one prowadzone, atakże do wiadomości sądu adresy świadków ipokrzywdzonych. 5. W razie wniesienia wniosku o ukaranie przez pokrzywdzonego, prezes sądu przesyłając właściwemu oskarżycielowi publicznemu zawiadomienie, októrym mowa wart. 27 4, wzywa go jednocześnie do nadesłania w terminie 7 dni materiału dowodowego wrazie niewnoszenia przez niego wniosku oukaranie, jeżeli w sprawie przeprowadzono czynności wyjaśniające lub dochodzenie, albo do nadesłania oświadczenia obraku takiego materiału.
 
 **Art. 58.**
 
-1. Oskar˝yciel publiczny mo˝e, za zgodà obwinionego, przes∏uchanego uprzednio wtoku czynnego.
+1. Oskarżyciel publiczny może, za zgodą obwinionego, przesłuchanego uprzednio wtoku czynnego.
 
-2. Wniosek oskazanie, októrym mowa w§ 1, jest mo˝liwy tylko wówczas, gdy w Êwietle zebranych dowodów wyjaÊnienia obwinionego oraz okolicznoÊci pope∏nienia wykroczenia nie budzà wàtpliwoÊci, acele post´powania zostanà osiàgni´te mimo nieprzeprowadzenia rozprawy.
+2. Wniosek oskazanie, októrym mowa w§ 1, jest możliwy tylko wówczas, gdy w świetle zebranych dowodów wyjaśnienia obwinionego oraz okoliczności popełnienia wykroczenia nie budzą wątpliwości, acele postępowania zostaną osiągnięte mimo nieprzeprowadzenia rozprawy.
 
-3. Obwiniony, je˝eli nie dotyczy go wniosek oskazanie, mo˝e po wezwaniu na rozpraw´ lub zawiadomieniu ojej terminie wystàpiç zwnioskiem oskazanie wokreÊlony sposób bez przeprowadzania rozprawy.
+3. Obwiniony, jeżeli nie dotyczy go wniosek oskazanie, może po wezwaniu na rozprawę lub zawiadomieniu ojej terminie wystąpić zwnioskiem oskazanie wokreślony sposób bez przeprowadzania rozprawy.
 
 **Art. 59.**
 
-§ 1. Je˝eli wniosek oukaranie nie odpowiada warunkom formalnym wskazanym wart. 57 2—4, prezes sàdu zwraca wniosek w celu usuni´cia braków wterminie 7 dni. 2. Je˝eli wniosek o ukaranie odpowiada warunkom formalnym,prezes sàdu wszczynajàc post´powanie zarzàdzeniem, kieruje spraw´ do rozpoznania na rozprawie lub na posiedzeniu albo w razie zaistnienia okolicznoÊci wy∏àczajàcych post´powanie lub wskazanych wart. 61 1 i2 odmawia wszcz´cia post´powania. Na postanowienie o odmowie wszcz´cia post´powania s∏u˝y za˝alenie osobie, która z∏o˝y∏a zawiadomienie o pope∏nieniu wykroczenia, ujawnionemu pokrzywdzonemu oraz organowi, który wniós∏ wniosek oukaranie. 3. W razie z∏o˝enia wniosku o ukaranie przez oskar˝yciela posi∏kowego, w przedmiocie wszcz´cia rozstrzyga si´ po przekazaniu przez oskar˝yciela publicznego materia∏u dowodowego lub oÊwiadczenia, októrym mowa wart. 57 5.
+§ 1. Jeżeli wniosek oukaranie nie odpowiada warunkom formalnym wskazanym wart. 57 2—4, prezes sądu zwraca wniosek w celu usunięcia braków wterminie 7 dni. 2. Jeżeli wniosek o ukaranie odpowiada warunkom formalnym,prezes sądu wszczynając postępowanie zarządzeniem, kieruje sprawę do rozpoznania na rozprawie lub na posiedzeniu albo w razie zaistnienia okoliczności wyłączających postępowanie lub wskazanych wart. 61 1 i2 odmawia wszczęcia postępowania. Na postanowienie o odmowie wszczęcia postępowania służy zażalenie osobie, która złożyła zawiadomienie o popełnieniu wykroczenia, ujawnionemu pokrzywdzonemu oraz organowi, który wniósł wniosek oukaranie. 3. W razie złożenia wniosku o ukaranie przez oskarżyciela posiłkowego, w przedmiocie wszczęcia rozstrzyga się po przekazaniu przez oskarżyciela publicznego materiału dowodowego lub oświadczenia, októrym mowa wart. 57 5.
 
 **Art. 60.**
 
-§ 1. Prezes sàdu, po wszcz´ciu post´powania, kieruje spraw´ na posiedzenie,je˝eli:
+§ 1. Prezes sądu, po wszczęciu postępowania, kieruje sprawę na posiedzenie,jeżeli:
 
-- **1)** oskar˝yciel publiczny wystàpi∏ z wnioskiem o skazanie obwinionego bez przeprowadzania rozprawy,
-- **2)** obwiniony po wezwaniu go na rozpraw´ lub zawiadomieniu o jej terminie wystàpi∏ z wnioskiem oskazanie bez przeprowadzania rozprawy,
-- **3)** ujawni∏y si´ przed rozprawà okolicznoÊci wy∏àczajàce post´powanie,
-- **4)** zachodzi potrzeba wydania postanowienia o niew∏aÊciwoÊci sàdu,
-- **5)** w sprawie, w której wniosek o ukaranie z∏o˝y∏ oskar˝yciel posi∏kowy:
-    - **a)** zachodzi potrzeba zbadania, czy nie istnieje podstawa do umorzenia post´powania z powodu oczywistego braku faktycznych podstaw oskar˝enia,
+- **1)** oskarżyciel publiczny wystąpił z wnioskiem o skazanie obwinionego bez przeprowadzania rozprawy,
+- **2)** obwiniony po wezwaniu go na rozprawę lub zawiadomieniu o jej terminie wystąpił z wnioskiem oskazanie bez przeprowadzania rozprawy,
+- **3)** ujawniły się przed rozprawą okoliczności wyłączające postępowanie,
+- **4)** zachodzi potrzeba wydania postanowienia o niewłaściwości sądu,
+- **5)** w sprawie, w której wniosek o ukaranie złożył oskarżyciel posiłkowy:
+    - **a)** zachodzi potrzeba zbadania, czy nie istnieje podstawa do umorzenia postępowania z powodu oczywistego braku faktycznych podstaw oskarżenia,
 
-- **7)** zachodzi potrzeba wydania innego rozstrzygni´cia przekraczajàcego uprawnienia prezesa. 2. Oterminie posiedzenia, wwypadkach wskazanych w 1 pkt 1, 2, 3, 5 lit. a) i pkt 6, powiadamia si´ strony i ich przedstawicieli procesowych, a w wypadkach wskazanych w§ 1 pkt 1—3 i6 tak˝e pokrzywdzonego. Niestawiennictwo prawid∏owo powiadomionych osób nie tamuje toku post´powania. Udzia∏ obroƒcy, októrym mowa wart. 21 1, jest jednak obowiàzkowy na posiedzeniu okreÊlonym w§ 1 pkt 1 i2. 3. Wwypadku wskazanym w§ 1 pkt 2 prezes sàdu mo˝e zarzàdziç rozpoznanie wniosku obwinionego na rozprawie, je˝eli przyÊpieszy to bieg post´powania. Wniosek ten rozpoznaje si´ wówczas przed rozpocz´ciem przewodu sàdowego. 4. Wdalszym post´powaniu sàd nie jest zwiàzany ocenà faktycznà ani prawnà przyj´tà za podstaw´ rozstrzygni´ç wydanych wtrybie okreÊlonym w§ 1—3.
+- **7)** zachodzi potrzeba wydania innego rozstrzygnięcia przekraczającego uprawnienia prezesa. 2. Oterminie posiedzenia, wwypadkach wskazanych w 1 pkt 1, 2, 3, 5 lit. a) i pkt 6, powiadamia się strony i ich przedstawicieli procesowych, a w wypadkach wskazanych w§ 1 pkt 1—3 i6 także pokrzywdzonego. Niestawiennictwo prawidłowo powiadomionych osób nie tamuje toku postępowania. Udział obrońcy, októrym mowa wart. 21 1, jest jednak obowiązkowy na posiedzeniu określonym w§ 1 pkt 1 i2. 3. Wwypadku wskazanym w§ 1 pkt 2 prezes sądu może zarządzić rozpoznanie wniosku obwinionego na rozprawie, jeżeli przyśpieszy to bieg postępowania. Wniosek ten rozpoznaje się wówczas przed rozpoczęciem przewodu sądowego. 4. Wdalszym postępowaniu sąd nie jest związany oceną faktyczną ani prawną przyjętą za podstawę rozstrzygnięć wydanych wtrybie określonym w§ 1—3.
 
 **Art. 61.**
 
-§ 1. Odmawia si´ wszcz´cia post´powania, a wszcz´te umarza tak˝e wtedy, gdy w sprawie o ten sam czyn, jako majàcy jednoczeÊnie znamiona przest´pstwa i wykroczenia, post´powanie karne zosta∏o ju˝ prawomocnie zakoƒczone orzeczeniem skazujàcym, chyba ˝e mo˝na przewidywaç orzeczenie za wykroczenie kary innej lub surowszej albo innego lub surowszego Êrodka karnego ni˝ za przest´pstwo. 2. Mo˝na odmówiç wszcz´cia post´powania, awszcz´te umorzyç, je˝eli:
+§ 1. Odmawia się wszczęcia postępowania, a wszczęte umarza także wtedy, gdy w sprawie o ten sam czyn, jako mający jednocześnie znamiona przestępstwa i wykroczenia, postępowanie karne zostało już prawomocnie zakończone orzeczeniem skazującym, chyba że można przewidywać orzeczenie za wykroczenie kary innej lub surowszej albo innego lub surowszego środka karnego niż za przestępstwo. 2. Można odmówić wszczęcia postępowania, awszczęte umorzyć, jeżeli:
 
-- **1)** oten sam czyn, jako majàcy jednoczeÊnie znamiona przest´pstwa i wykroczenia, toczy si´ post´powanie karne z oskar˝enia publicznego, chyba ˝e mo˝na przewidywaç orzeczenie za wykroczenie kary innej lub surowszej albo innego lub surowszego Êrodka karnego ni˝ za przest´pstwo,
-- **2)** wobec sprawcy zastosowano Êrodek oddzia∏ywania w postaci pouczenia, zwrócenia uwagi lub ostrze˝enia albo Êrodek przewidziany wprzepisach o odpowiedzialnoÊci dyscyplinarnej lub porzàdkowej, aÊrodek ten jest wystarczajàcà reakcjà na wykroczenie.
+- **1)** oten sam czyn, jako mający jednocześnie znamiona przestępstwa i wykroczenia, toczy się postępowanie karne z oskarżenia publicznego, chyba że można przewidywać orzeczenie za wykroczenie kary innej lub surowszej albo innego lub surowszego środka karnego niż za przestępstwo,
+- **2)** wobec sprawcy zastosowano środek oddziaływania w postaci pouczenia, zwrócenia uwagi lub ostrzeżenia albo środek przewidziany wprzepisach o odpowiedzialności dyscyplinarnej lub porządkowej, aśrodek ten jest wystarczającą reakcją na wykroczenie.
 
-§ 3. Na postanowienie oumorzeniu post´powania zprzyczyn wskazanych w§ 1 i2 przys∏uguje za˝alenie. Za˝alenie przys∏uguje tak˝e osobie, która z∏o˝y∏a zawiadomienie opope∏nieniu wykroczenia. 4. W sprawie o wykroczenie, w której odmówiono wszcz´cia post´powania lub je umorzono, mo˝na podjàç post´powanie w terminie 3 miesi´cy od uprawomocnienia si´ orzeczenia w sprawie o przest´pdu wka˝dym stadium post´powania. 2. W razie stwierdzenia okolicznoÊci wy∏àczajàcych orzekanie po wszcz´ciu post´powania, sàd wydaje postanowienie o jego umorzeniu, a je˝eli rozpocz´to ju˝ przewód sàdowy wyrok oumorzeniu post´powania, zwyjàtkiem okreÊlonym w§ 3. Na postanowienie oumorzeniu przys∏uguje za˝alenie. 3. W razie stwierdzenia okolicznoÊci, o których mowa w art. 5 1 pkt 1 i 2, po rozpocz´ciu przewodu sàdowego sàd wydaje wyrok uniewinniajàcy, chyba ˝e sprawca by∏ wchwili czynu niepoczytalny.
+§ 3. Na postanowienie oumorzeniu postępowania zprzyczyn wskazanych w§ 1 i2 przysługuje zażalenie. Zażalenie przysługuje także osobie, która złożyła zawiadomienie opopełnieniu wykroczenia. 4. W sprawie o wykroczenie, w której odmówiono wszczęcia postępowania lub je umorzono, można podjąć postępowanie w terminie 3 miesięcy od uprawomocnienia się orzeczenia w sprawie o przestępdu wkażdym stadium postępowania. 2. W razie stwierdzenia okoliczności wyłączających orzekanie po wszczęciu postępowania, sąd wydaje postanowienie o jego umorzeniu, a jeżeli rozpoczęto już przewód sądowy wyrok oumorzeniu postępowania, zwyjątkiem określonym w§ 3. Na postanowienie oumorzeniu przysługuje zażalenie. 3. W razie stwierdzenia okoliczności, o których mowa w art. 5 1 pkt 1 i 2, po rozpoczęciu przewodu sądowego sąd wydaje wyrok uniewinniający, chyba że sprawca był wchwili czynu niepoczytalny.
 
 **Art. 63.**
 
-1. Uwzgl´dniajàc wniosek oskar˝yciela publicznego, októrym mowa wart. 58 1, sàd uznaje za ujawnione dowody do∏àczone do wniosku o ukaranie.
+1. Uwzględniając wniosek oskarżyciela publicznego, októrym mowa wart. 58 1, sąd uznaje za ujawnione dowody dołączone do wniosku o ukaranie.
 
-2. Sàd mo˝e uzale˝niç uwzgl´dnienie wniosku od dokonania w nim okreÊlonych przez siebie zmian. Wniosek ze zmianami nie mo˝e zostaç uwzgl´dniony, je˝eli obwiniony, nale˝ycie o zmianach tych powiadomiony, zg∏osi wobec nich sprzeciw wterminie okreÊlonym przez sàd.
+2. Sąd może uzależnić uwzględnienie wniosku od dokonania w nim określonych przez siebie zmian. Wniosek ze zmianami nie może zostać uwzględniony, jeżeli obwiniony, należycie o zmianach tych powiadomiony, zgłosi wobec nich sprzeciw wterminie określonym przez sąd.
 
-3. Wniosek nie mo˝e zostaç uwzgl´dniony, je˝eli w terminie okreÊlonym przez sàd zg∏osi wobec niego sprzeciw pokrzywdzony, który z∏o˝y∏ ju˝ oÊwiadczenie o przy∏àczeniu si´ do post´powania w charakterze oskar˝yciela posi∏kowego.
+3. Wniosek nie może zostać uwzględniony, jeżeli w terminie określonym przez sąd zgłosi wobec niego sprzeciw pokrzywdzony, który złożył już oświadczenie o przyłączeniu się do postępowania w charakterze oskarżyciela posiłkowego.
 
-4. Sàd uwzgl´dniajàc wniosek skazuje obwinionego wyrokiem.
+4. Sąd uwzględniając wniosek skazuje obwinionego wyrokiem.
 
-5. Je˝eli sàd uzna, ˝e nie ma podstaw do uwzgl´dnienia wniosku, sprawa podlega rozpoznaniu na zasadach ogólnych.
+5. Jeżeli sąd uzna, że nie ma podstaw do uwzględnienia wniosku, sprawa podlega rozpoznaniu na zasadach ogólnych.
 
 **Art. 64.**
 
-1. Przy rozpoznawaniu wniosku obwinionego o skazanie go w okreÊlony sposób bez przeprowadzania rozprawy, zg∏oszonego przed jej rozpocz´ciem, sàd stosuje odpowiednio art. 63.
+1. Przy rozpoznawaniu wniosku obwinionego o skazanie go w określony sposób bez przeprowadzania rozprawy, zgłoszonego przed jej rozpoczęciem, sąd stosuje odpowiednio art. 63.
 
-2. Sàd mo˝e uwzgl´dniç wniosek, o którym mowa w 1, je˝eli nie zg∏osi∏ wobec niego sprzeciwu oskar˝yciel publiczny, a tak˝e oskar˝yciel posi∏kowy, gdy wyst´puje wsprawie ijedynie wtedy, gdy okolicznoÊci pope∏nienia czynu oraz wyjaÊnienia obwinionego wÊwietle ujawnionego materia∏u dowodowego nie budzà wàtpliwoÊci.
+2. Sąd może uwzględnić wniosek, o którym mowa w 1, jeżeli nie zgłosił wobec niego sprzeciwu oskarżyciel publiczny, a także oskarżyciel posiłkowy, gdy występuje wsprawie ijedynie wtedy, gdy okoliczności popełnienia czynu oraz wyjaśnienia obwinionego wświetle ujawnionego materiału dowodowego nie budzą wątpliwości.
 
-3. Je˝eli obwiniony nie by∏ przes∏uchany w toku czynnoÊci wyjaÊniajàcych, sàd przes∏uchuje go na posiedzeniu, chyba ˝e obwiniony bez usprawiedliwienia nie stawi∏ si´ na posiedzenie albo nades∏a∏ swoje wyjaÊnienia na piÊmie wtrybie okreÊlonym wart. 67 3.
+3. Jeżeli obwiniony nie był przesłuchany w toku czynności wyjaśniających, sąd przesłuchuje go na posiedzeniu, chyba że obwiniony bez usprawiedliwienia nie stawił się na posiedzenie albo nadesłał swoje wyjaśnienia na piśmie wtrybie określonym wart. 67 3.
 
-4. Brak stanowiska oskar˝yciela w przedmiocie sprzeciwu, októrym mowa w§ 2, nie stoi na przeszkoPrzygotowanie do rozprawy
+4. Brak stanowiska oskarżyciela w przedmiocie sprzeciwu, októrym mowa w§ 2, nie stoi na przeszkoPrzygotowanie do rozprawy
 
 **Art. 65.**
 
-1. Prezes sàdu,kierujàc spraw´ na rozpraw´, zarzàdza zawiadomienie o jej miejscu i terminie oskar˝yciela, pokrzywdzonego i obwinionego oraz obroƒc´ i pe∏nomocnika, gdy zostali ustanowieni; zarzàdza on tak˝e wezwanie na rozpraw´ Êwiadków oraz sprowadzenie innych dowodów.
+1. Prezes sądu,kierując sprawę na rozprawę, zarządza zawiadomienie o jej miejscu i terminie oskarżyciela, pokrzywdzonego i obwinionego oraz obrońcę i pełnomocnika, gdy zostali ustanowieni; zarządza on także wezwanie na rozprawę świadków oraz sprowadzenie innych dowodów.
 
-2. Oskar˝yciela publicznego zawiadamia si´ orozprawie i posiedzeniu przez dostarczenie mu wykazu spraw, które majà byç rozpoznane wdanym dniu.
+2. Oskarżyciela publicznego zawiadamia się orozprawie i posiedzeniu przez dostarczenie mu wykazu spraw, które mają być rozpoznane wdanym dniu.
 
-3. Je˝eli prezes sàdu lub sàd uzna udzia∏ obwinionego na rozprawie za niezb´dny, zarzàdzajàc zawiadomienie go o jej miejscu i terminie, zarzàdza jednoczeÊnie wezwanie obwinionego do osobistego stawiennictwa, pod rygorem przymusowego doprowadzenia. Przepis ten stosuje si´ odpowiednio do posiedzeƒ.
+3. Jeżeli prezes sądu lub sąd uzna udział obwinionego na rozprawie za niezbędny, zarządzając zawiadomienie go o jej miejscu i terminie, zarządza jednocześnie wezwanie obwinionego do osobistego stawiennictwa, pod rygorem przymusowego doprowadzenia. Przepis ten stosuje się odpowiednio do posiedzeń.
 
 **Art. 66.**
 
-1. Osoby wymienione w art. 5 1 pkt 6 lit. a)—e) nie sà obowiàzane do sk∏adania zeznaƒ wcharakterze Êwiadka lub do wyst´powania wcharakterze bieg∏ego, mo˝na jednak zwróciç si´ o wyra˝enie przez te osoby zgody na z∏o˝enie zeznaƒ lub wystàpienie w charakterze bieg∏ego. W razie wyra˝enia zgody, wezwania dla tych osób nie mogà zawieraç zagro˝enia zastosowania Êrodków przymusu, a w razie niestawiennictwa na wezwanie lub odmowy z∏o˝enia zeznaƒ nie mo˝na do nich stosowaç tych Êrodków.
+1. Osoby wymienione w art. 5 1 pkt 6 lit. a)—e) nie są obowiązane do składania zeznań wcharakterze świadka lub do występowania wcharakterze biegłego, można jednak zwrócić się o wyrażenie przez te osoby zgody na złożenie zeznań lub wystąpienie w charakterze biegłego. W razie wyrażenia zgody, wezwania dla tych osób nie mogą zawierać zagrożenia zastosowania środków przymusu, a w razie niestawiennictwa na wezwanie lub odmowy złożenia zeznań nie można do nich stosować tych środków.
 
-2. Do osób wymienionych wart. 5 1 pkt 6 lit. f) stosuje si´ odpowiednio 1, je˝eli okolicznoÊci, których zeznania lub opinie majà dotyczyç, zwiàzane sà z wykonywaniem przez te osoby funkcji urz´dowych lub s∏u˝bowych.
+2. Do osób wymienionych wart. 5 1 pkt 6 lit. f) stosuje się odpowiednio 1, jeżeli okoliczności, których zeznania lub opinie mają dotyczyć, związane są z wykonywaniem przez te osoby funkcji urzędowych lub służbowych.
 
-3. Do osób, o których mowa w 1 i 2, przepisy art.5 2 i3 stosuje si´ odpowiednio.
+3. Do osób, o których mowa w 1 i 2, przepisy art.5 2 i3 stosuje się odpowiednio.
 
-4. Z osobami, o których mowa w 1 i 2, organy prowadzàce post´powanie porozumiewajà si´ we wszystkich wypadkach, wtym równie˝ przy dor´czaniu pism procesowych, za poÊrednictwem Ministra SprawiedliwoÊci, a ten w razie potrzeby przez Ministra Spraw Zagranicznych. Przepis art. 613 2 Kodeksu post´powania karnego stosuje si´.
+4. Z osobami, o których mowa w 1 i 2, organy prowadzące postępowanie porozumiewają się we wszystkich wypadkach, wtym również przy doręczaniu pism procesowych, za pośrednictwem Ministra Sprawiedliwości, a ten w razie potrzeby przez Ministra Spraw Zagranicznych. Przepis art. 613 2 Kodeksu postępowania karnego stosuje się.
 
 **Art. 67.**
 
-1. Zawiadamiajàc obwinionego o terminie pierwszej rozprawy lub posiedzeniu, októrym mowa w art. 60 1 pkt 1, do∏àcza si´ do zawiadomienia odpis wniosku oukaranie.
+1. Zawiadamiając obwinionego o terminie pierwszej rozprawy lub posiedzeniu, októrym mowa w art. 60 1 pkt 1, dołącza się do zawiadomienia odpis wniosku oukaranie.
 
-2. Zawiadomienie obwinionego oterminie pierwszej rozprawy powinno zawieraç pouczenie o tym, ˝e mo˝e on sprowadziç na rozpraw´ Êwiadków iprzedstawiç inne dowody na swojà obron´ lub wskazaç je sàdowi w takim czasie, aby dowody te mog∏y byç przeprowadzone na rozprawie, a tak˝e o przys∏ugujàcym d∏u˝szy ni˝ 7 dni, a w razie pobytu za granicà o koniecznoÊci wskazania w kraju adresu dla dor´czeƒ i o konsekwencjach uchybienia tym obowiàzkom. Wzawiadomieniu nale˝y pouczyç obwinionego oprzys∏ugujàcym mu prawie wystàpienia z wnioskiem, o którym mowa w art. 58 3. Zawiadomienie lub wezwanie powinno tak˝e zawieraç pouczenie, i˝ rozprawa mo˝e byç prowadzona pod nieobecnoÊç obwinionego jako zaoczna oraz pouczenie o mo˝liwoÊci przymusowego doprowadzenia obwinionego na rozpraw´.
+2. Zawiadomienie obwinionego oterminie pierwszej rozprawy powinno zawierać pouczenie o tym, że może on sprowadzić na rozprawę świadków iprzedstawić inne dowody na swoją obronę lub wskazać je sądowi w takim czasie, aby dowody te mogły być przeprowadzone na rozprawie, a także o przysługującym dłuższy niż 7 dni, a w razie pobytu za granicą o konieczności wskazania w kraju adresu dla doręczeń i o konsekwencjach uchybienia tym obowiązkom. Wzawiadomieniu należy pouczyć obwinionego oprzysługującym mu prawie wystąpienia z wnioskiem, o którym mowa w art. 58 3. Zawiadomienie lub wezwanie powinno także zawierać pouczenie, iż rozprawa może być prowadzona pod nieobecność obwinionego jako zaoczna oraz pouczenie o możliwości przymusowego doprowadzenia obwinionego na rozprawę.
 
-3. Zawiadomienie kierowane do obwinionego, którego obecnoÊci na rozprawie nie uznano za obowiàzkowà, powinno zawieraç pouczenie, ˝e mo˝e on nie stawiajàc si´ do sàdu nades∏aç swoje wyjaÊnienia. WyjaÊnienia te podlegajà odczytaniu na rozprawie. Rozprawa ma wówczas charakter zaoczny.
+3. Zawiadomienie kierowane do obwinionego, którego obecności na rozprawie nie uznano za obowiązkową, powinno zawierać pouczenie, że może on nie stawiając się do sądu nadesłać swoje wyjaśnienia. Wyjaśnienia te podlegają odczytaniu na rozprawie. Rozprawa ma wówczas charakter zaoczny.
 
-4. W zawiadomieniu kierowanym do oskar˝yciela posi∏kowego nale˝y pouczyç go oobowiàzku powiadomienia sàdu o zmianie miejsca zamieszkania oraz podania adresu dla dor´czeƒ wczasie pobytu za granicà i konsekwencjach niedope∏nienia tego obowiàzku, a w zawiadomieniu kierowanym do pokrzywdzonego ouprawnieniach, októrych mowa wart. 26 3.
+4. W zawiadomieniu kierowanym do oskarżyciela posiłkowego należy pouczyć go oobowiązku powiadomienia sądu o zmianie miejsca zamieszkania oraz podania adresu dla doręczeń wczasie pobytu za granicą i konsekwencjach niedopełnienia tego obowiązku, a w zawiadomieniu kierowanym do pokrzywdzonego ouprawnieniach, októrych mowa wart. 26 3.
 
-5. Sàd mo˝e, uznajàc obecnoÊç obwinionego na rozprawie za obowiàzkowà mimo wczeÊniejszego uznania jej za nieobowiàzkowà, wezwaç obwinionego, odraczajàc wtym celu rozpraw´.
+5. Sąd może, uznając obecność obwinionego na rozprawie za obowiązkową mimo wcześniejszego uznania jej za nieobowiązkową, wezwać obwinionego, odraczając wtym celu rozprawę.
 
-**Art. 68.** Je˝eli obwiniony lub Êwiadek mieszka poza miejscowoÊcià, wktórej ma siedzib´ dany sàd, prezes sàdu lub sàd mo˝e zwróciç si´ do sàdu, na którego terenie dzia∏ania mieszkajà te osoby, o przes∏uchanie ich co do wskazanych okolicznoÊci.
+**Art. 68.** Jeżeli obwiniony lub świadek mieszka poza miejscowością, wktórej ma siedzibę dany sąd, prezes sądu lub sąd może zwrócić się do sądu, na którego terenie działania mieszkają te osoby, o przesłuchanie ich co do wskazanych okoliczności.
 
-**Art. 69.** Przy przygotowaniu do rozprawy stosuje si´ odpowiednio przepisy art. 348, 349, 350, 352 i 353 Kodeksu post´powania karnego. Rozdzia∏ 13 Rozprawa
+**Art. 69.** Przy przygotowaniu do rozprawy stosuje się odpowiednio przepisy art. 348, 349, 350, 352 i 353 Kodeksu postępowania karnego.
+
+#### Rozdział 13 Rozprawa
 
 **Art. 70.**
 
-§ 1. Rozprawa odbywa si´ ustnie ijawnie. 2. Sàd wy∏àcza jawnoÊç ca∏oÊci lub cz´Êci rozprawy, je˝eli jawnoÊç mog∏aby obra˝aç dobre obyczaje, wywo∏aç zak∏ócenie spokoju publicznego lub gdy wa˝ny interes prywatny tego wymaga. Sàd wy∏àcza jawnoÊç w ca∏oÊci lub cz´Êci rozprawy, tak˝e wówczas, gdy ustawa tak stanowi. 3. Wrazie wy∏àczenia jawnoÊci na rozprawie mogà byç obecni, poza osobami bioràcymi udzia∏ w post´powaniu, po jednej osobie wskazanej przez ka˝dà ze stron, chyba ˝e zachodzi obawa ujawnienia tajemnicy paƒstwowej. Sàd mo˝e zezwoliç poszczególnym osobom na obecnoÊç na rozprawie prowadzonej z wy∏àczeniem jawnoÊci. 5. Przepisy art. 357, 358, 362, 363, 366 i367 Kodeksu post´powania karnego stosuje si´ odpowiednio.
+§ 1. Rozprawa odbywa się ustnie ijawnie. 2. Sąd wyłącza jawność całości lub części rozprawy, jeżeli jawność mogłaby obrażać dobre obyczaje, wywołać zakłócenie spokoju publicznego lub gdy ważny interes prywatny tego wymaga. Sąd wyłącza jawność w całości lub części rozprawy, także wówczas, gdy ustawa tak stanowi. 3. Wrazie wyłączenia jawności na rozprawie mogą być obecni, poza osobami biorącymi udział w postępowaniu, po jednej osobie wskazanej przez każdą ze stron, chyba że zachodzi obawa ujawnienia tajemnicy państwowej. Sąd może zezwolić poszczególnym osobom na obecność na rozprawie prowadzonej z wyłączeniem jawności. 5. Przepisy art. 357, 358, 362, 363, 366 i367 Kodeksu postępowania karnego stosuje się odpowiednio.
 
 **Art. 71.**
 
-1. Rozpraw´ rozpoczyna wywo∏anie sprawy. Nast´pnie sàd sprawdza, czy wszyscy wezwani izawiadomieni oterminie rozprawy stawili si´ oraz czy nie ma przeszkód do rozpoznania sprawy.
+1. Rozprawę rozpoczyna wywołanie sprawy. Następnie sąd sprawdza, czy wszyscy wezwani izawiadomieni oterminie rozprawy stawili się oraz czy nie ma przeszkód do rozpoznania sprawy.
 
-2. Je˝eli oskar˝yciel publiczny, oskar˝yciel posi∏kowy, pokrzywdzony lub obwiniony nie stawi∏ si´ na rozpraw´ iwaktach sprawy brak jest dowodu dor´czenia im wezwania lub zawiadomienia, rozpraw´ odracza si´, przy czym sàd mo˝e, je˝eli uzna to za celowe, przeprowadziç post´powanie dowodowe, a w szczególnoÊci przes∏uchaç Êwiadków, którzy stawili si´ na rozpraw´. Na nast´pnej rozprawie dowody te przeprowadza si´ ponownie tylko, je˝eli za˝àda tego strona nieobecna na poprzedniej rozprawie, chyba ˝e by∏a ojej terminie prawid∏owo powiadomiona.
+2. Jeżeli oskarżyciel publiczny, oskarżyciel posiłkowy, pokrzywdzony lub obwiniony nie stawił się na rozprawę iwaktach sprawy brak jest dowodu doręczenia im wezwania lub zawiadomienia, rozprawę odracza się, przy czym sąd może, jeżeli uzna to za celowe, przeprowadzić postępowanie dowodowe, a w szczególności przesłuchać świadków, którzy stawili się na rozprawę. Na następnej rozprawie dowody te przeprowadza się ponownie tylko, jeżeli zażąda tego strona nieobecna na poprzedniej rozprawie, chyba że była ojej terminie prawidłowo powiadomiona.
 
-3. Przepis 2 stosuje si´ odpowiednio wrazie niestawiennictwa prawid∏owo powiadomionego obroƒcy, gdy jego stawiennictwo jest obowiàzkowe.
+3. Przepis 2 stosuje się odpowiednio wrazie niestawiennictwa prawidłowo powiadomionego obrońcy, gdy jego stawiennictwo jest obowiązkowe.
 
-4. Wrazie nieusprawiedliwionej nieobecnoÊci obwinionego, któremu dor´czono wezwanie na rozpraw´, przeprowadza si´ rozpraw´ zaocznie, chocia˝by nie by∏ on przes∏uchany w toku czynnoÊci wyjaÊniajàcych, chyba ˝e sàd uzna udzia∏ obwinionego za konieczny irozpraw´ odroczy, po ewentualnym przeprowadzeniu post´powania dowodowego, wszczególnoÊci po przes∏uchaniu Êwiadków, którzy stawili si´ na rozpraw´. Je˝eli jednak obecnoÊç obwinionego jest konieczna, anie stawi∏ si´ on bez usprawiedliwienia, sàd mo˝e zarzàdziç jego zatrzymanie iprzymusowe doprowadzenie przez Policj´.
+4. Wrazie nieusprawiedliwionej nieobecności obwinionego, któremu doręczono wezwanie na rozprawę, przeprowadza się rozprawę zaocznie, chociażby nie był on przesłuchany w toku czynności wyjaśniających, chyba że sąd uzna udział obwinionego za konieczny irozprawę odroczy, po ewentualnym przeprowadzeniu postępowania dowodowego, wszczególności po przesłuchaniu świadków, którzy stawili się na rozprawę. Jeżeli jednak obecność obwinionego jest konieczna, anie stawił się on bez usprawiedliwienia, sąd może zarządzić jego zatrzymanie iprzymusowe doprowadzenie przez Policję.
 
-5. Wrazie usprawiedliwionego niestawiennictwa obwinionego, któremu dor´czono wezwanie, stosuje si´ odpowiednio 2.
+5. Wrazie usprawiedliwionego niestawiennictwa obwinionego, któremu doręczono wezwanie, stosuje się odpowiednio 2.
 
 **Art. 72.**
 
-1. Przewód sàdowy rozpoczyna si´ od odczytania wniosku oukaranie.
+1. Przewód sądowy rozpoczyna się od odczytania wniosku oukaranie.
 
-2. Wniosek o ukaranie odczytuje oskar˝yciel publiczny, je˝eli bierze udzia∏ wrozprawie, awinnym wypadku protokolant.
+2. Wniosek o ukaranie odczytuje oskarżyciel publiczny, jeżeli bierze udział wrozprawie, awinnym wypadku protokolant.
 
-3. Je˝eli obwiniony przyznaje si´ do winy, ajego wyjaÊnienia nie budzà wàtpliwoÊci, mo˝na nie przeprowadzaç dalszych dowodów, w razie gdy ˝adna zobecnych stron temu si´ nie sprzeciwia.
+3. Jeżeli obwiniony przyznaje się do winy, ajego wyjaśnienia nie budzą wątpliwości, można nie przeprowadzać dalszych dowodów, w razie gdy żadna zobecnych stron temu się nie sprzeciwia.
 
-**Art. 73.** Do chwili zakoƒczenia pierwszego przes∏uchania na rozprawie obwiniony mo˝e z∏o˝yç wniosek o skazanie go w okreÊlony sposób bez przeprowadzania post´powania dowodowego. Przy rozpoznawaniu tego wniosku stosuje si´ odpowiednio art. 64.
+**Art. 73.** Do chwili zakończenia pierwszego przesłuchania na rozprawie obwiniony może złożyć wniosek o skazanie go w określony sposób bez przeprowadzania postępowania dowodowego. Przy rozpoznawaniu tego wniosku stosuje się odpowiednio art. 64.
 
 **Art. 74.**
 
-§ 1. Je˝eli obwiniony odmawia z∏o˝enia wyjàcych bàdê przed sàdem w tej lub innej sprawie albo w innym post´powaniu przewidzianym przez ustaw´. Po odczytaniu protoko∏u sàd wzywa obecnego obwinionego do wypowiedzenia si´ co do treÊci protoko∏u iowyjaÊnienie zachodzàcych sprzecznoÊci. 2. Na rozprawie zaocznej z∏o˝one uprzednio przez obwinionego wtej sprawie wyjaÊnienia podlegajà odczytaniu.
+§ 1. Jeżeli obwiniony odmawia złożenia wyjących bądê przed sądem w tej lub innej sprawie albo w innym postępowaniu przewidzianym przez ustawę. Po odczytaniu protokołu sąd wzywa obecnego obwinionego do wypowiedzenia się co do treści protokołu iowyjaśnienie zachodzących sprzeczności. 2. Na rozprawie zaocznej złożone uprzednio przez obwinionego wtej sprawie wyjaśnienia podlegają odczytaniu.
 
 **Art. 75.**
 
-1. Przepis art. 74 1 stosuje si´ odpowiednio do Êwiadka, który bezpodstawnie odmawia z∏o˝enia zeznaƒ, zeznaje odmiennie ni˝ poprzednio lub oÊwiadcza, ˝e pewnych okolicznoÊci nie pami´ta.
+1. Przepis art. 74 1 stosuje się odpowiednio do świadka, który bezpodstawnie odmawia złożenia zeznań, zeznaje odmiennie niż poprzednio lub oświadcza, że pewnych okoliczności nie pamięta.
 
-2. Na rozprawie wolno te˝ odczytywaç protoko∏y zeznaƒ Êwiadków, je˝eli bezpoÊrednie przeprowadzenie dowodu jest niemo˝liwe lub utrudnione.
+2. Na rozprawie wolno też odczytywać protokoły zeznań świadków, jeżeli bezpośrednie przeprowadzenie dowodu jest niemożliwe lub utrudnione.
 
-3. Protoko∏y, októrych mowa w§ 2, mo˝na uznaç za ujawnione bez odczytywania. Nale˝y je jednak odczytaç, je˝eli którakolwiek zobecnych stron oto wnosi.
+3. Protokoły, októrych mowa w§ 2, można uznać za ujawnione bez odczytywania. Należy je jednak odczytać, jeżeli którakolwiek zobecnych stron oto wnosi.
 
-4. Protoko∏y zeznaƒ Êwiadków wolno odczytywaç równie˝, gdy bezpoÊrednie przes∏uchanie Êwiadka na rozprawie nie jest niezb´dne, je˝eli ˝adna z obecnych stron temu si´ nie sprzeciwia; sprzeciw strony, której zeznania nie dotyczà,nie stoi na przeszkodzie odczytaniu protoko∏ów. Przepis 3 stosuje si´ odpowiednio.
+4. Protokoły zeznań świadków wolno odczytywać również, gdy bezpośrednie przesłuchanie świadka na rozprawie nie jest niezbędne, jeżeli żadna z obecnych stron temu się nie sprzeciwia; sprzeciw strony, której zeznania nie dotyczą,nie stoi na przeszkodzie odczytaniu protokołów. Przepis 3 stosuje się odpowiednio.
 
-5. Wwypadkach wskazanych w§ 1 i2 wolno równie˝ odczytywaç protoko∏y wyjaÊnieƒ z∏o˝onych poprzednio przez Êwiadka w charakterze obwinionego lub oskar˝onego.
+5. Wwypadkach wskazanych w§ 1 i2 wolno również odczytywać protokoły wyjaśnień złożonych poprzednio przez świadka w charakterze obwinionego lub oskarżonego.
 
 **Art. 76.**
 
-1. Sàd mo˝e odczytywaç na rozprawie protoko∏y ogl´dzin, przeszukania, zaj´cia, zatrzymania przedmiotów, opinie, notatki urz´dowe, októrych mowa w art. 37 2, oraz inne dokumenty znajdujàce si´ w aktach sprawy lub przedk∏adane przez strony; mo˝na je uznaç za ujawnione bez odczytywania, je˝eli ˝adna zobecnych stron temu si´ nie sprzeciwia. Sprzeciw strony, której dowody lub dokumenty nie dotyczà, nie stoi na przeszkodzie ich uznaniu za ujawnione bez odczytywania.
+1. Sąd może odczytywać na rozprawie protokoły oględzin, przeszukania, zajęcia, zatrzymania przedmiotów, opinie, notatki urzędowe, októrych mowa w art. 37 2, oraz inne dokumenty znajdujące się w aktach sprawy lub przedkładane przez strony; można je uznać za ujawnione bez odczytywania, jeżeli żadna zobecnych stron temu się nie sprzeciwia. Sprzeciw strony, której dowody lub dokumenty nie dotyczą, nie stoi na przeszkodzie ich uznaniu za ujawnione bez odczytywania.
 
-2. Przepis 1 stosuje si´ tak˝e do notatek urz´dowych, októrych mowa wart. 54 5, ztym ˝e na ˝àdanie strony sàd przeprowadza na rozprawie czynnoÊci dowodowe, których dotyczy notatka, chyba ˝e stwierdza ona okolicznoÊci, którym obwiniony w wyjaÊnieniach swych nie zaprzecza∏.
+2. Przepis 1 stosuje się także do notatek urzędowych, októrych mowa wart. 54 5, ztym że na żądanie strony sąd przeprowadza na rozprawie czynności dowodowe, których dotyczy notatka, chyba że stwierdza ona okoliczności, którym obwiniony w wyjaśnieniach swych nie zaprzeczał.
 
-**Art. 77.** Obwinionemu, Êwiadkom ibieg∏ym zarówno sàd, jak i strony zadajà pytania bezpoÊrednio, chyba ˝e sàd zarzàdzi inaczej. Sàd uchyla pytania nieistotne dla sprawy lub sugerujàce treÊç odpowiedzi albo które zinnych powodów uznaje za niestosowne.
+**Art. 77.** Obwinionemu, świadkom ibiegłym zarówno sąd, jak i strony zadają pytania bezpośrednio, chyba że sąd zarządzi inaczej. Sąd uchyla pytania nieistotne dla sprawy lub sugerujące treść odpowiedzi albo które zinnych powodów uznaje za niestosowne.
 
-**Art. 78.** Je˝eli po rozpocz´ciu rozprawy obwiniony czeÊnie decyzj´, czy dotychczasowy obroƒca mo˝e bez naruszenia prawa obwinionego do obrony pe∏niç swe obowiàzki do czasu podj´cia obrony przez nowego obroƒc´. Po bezskutecznym up∏ywie tego terminu rozpraw´ mo˝na prowadziç bez udzia∏u obroƒcy. Wsprawach, wktórych obwiniony musi mieç obroƒc´ lub korzysta zobroƒcy zurz´du, art. 378 Kodeksu post´powania karnego stosuje si´ odpowiednio.
+**Art. 78.** Jeżeli po rozpoczęciu rozprawy obwiniony cześnie decyzję, czy dotychczasowy obrońca może bez naruszenia prawa obwinionego do obrony pełnić swe obowiązki do czasu podjęcia obrony przez nowego obrońcę. Po bezskutecznym upływie tego terminu rozprawę można prowadzić bez udziału obrońcy. Wsprawach, wktórych obwiniony musi mieć obrońcę lub korzysta zobrońcy zurzędu, art. 378 Kodeksu postępowania karnego stosuje się odpowiednio.
 
 **Art. 79.**
 
-1. Sàd mo˝e zarzàdziç przerw´ wrozprawie w celu doprowadzenia obwinionego, sprowadzenia dowodu, dla wypoczynku lub z innej wa˝nej przyczyny. Ka˝dorazowa przerwa nie mo˝e trwaç d∏u˝ej ni˝ 21 dni; w razie przekroczenia tego terminu rozpraw´ uwa˝a si´ za odroczonà.
+1. Sąd może zarządzić przerwę wrozprawie w celu doprowadzenia obwinionego, sprowadzenia dowodu, dla wypoczynku lub z innej ważnej przyczyny. Każdorazowa przerwa nie może trwać dłużej niż 21 dni; w razie przekroczenia tego terminu rozprawę uważa się za odroczoną.
 
-2. Zarzàdzajàc przerw´, oznacza si´ czas imiejsce dalszego ciàgu rozprawy, aosoby obecne na rozprawie poucza si´ o obowiàzku stawiennictwa bez wezwania oraz okonsekwencjach nieusprawiedliwionego niestawiennictwa.
+2. Zarządzając przerwę, oznacza się czas imiejsce dalszego ciągu rozprawy, aosoby obecne na rozprawie poucza się o obowiązku stawiennictwa bez wezwania oraz okonsekwencjach nieusprawiedliwionego niestawiennictwa.
 
-3. Sàd odracza rozpraw´, gdy ustawa tak stanowi, atak˝e gdy zarzàdzenie przerwy nie by∏oby wystarczajàce. Wrazie odroczenia rozprawy na okreÊlony termin przepis 2 stosuje si´ odpowiednio.
+3. Sąd odracza rozprawę, gdy ustawa tak stanowi, atakże gdy zarządzenie przerwy nie byłoby wystarczające. Wrazie odroczenia rozprawy na określony termin przepis 2 stosuje się odpowiednio.
 
-**Art. 80.** Rozpraw´ przerwanà lub odroczonà prowadzi si´ w dalszym ciàgu, chocia˝by sk∏ad sàdu uleg∏ zmianie, chyba ˝e sàd po wys∏uchaniu stron obecnych postanowi inaczej.
+**Art. 80.** Rozprawę przerwaną lub odroczoną prowadzi się w dalszym ciągu, chociażby skład sądu uległ zmianie, chyba że sąd po wysłuchaniu stron obecnych postanowi inaczej.
 
-**Art. 81.** Przy przeprowadzaniu rozprawy stosuje si´ odpowiednio przepisy art. 369, 371, 372, 374 2, art. 375—377, 379, 384, 386, 395, 396, 399, 405—407 Kodeksu post´powania karnego.
+**Art. 81.** Przy przeprowadzaniu rozprawy stosuje się odpowiednio przepisy art. 369, 371, 372, 374 2, art. 375—377, 379, 384, 386, 395, 396, 399, 405—407 Kodeksu postępowania karnego.
 
 **Art. 82.**
 
-§ 1. Po wys∏uchaniu g∏osów stron sàd sporzàdza wyrok na piÊmie. Przepisy art. 409—411, 413 §1, art. 418 1 i3, art. 419, 422—424 Kodeksu post´powania karnego stosuje si´ odpowiednio. 2. Wyrok skazujàcy powinien zawieraç tak˝e:
+§ 1. Po wysłuchaniu głosów stron sąd sporządza wyrok na piśmie. Przepisy art. 409—411, 413 §1, art. 418 1 i3, art. 419, 422—424 Kodeksu postępowania karnego stosuje się odpowiednio. 2. Wyrok skazujący powinien zawierać także:
 
-- **1)** dok∏adne okreÊlenie przypisanego obwinionemu czynu oraz jego kwalifikacj´ prawnà,
-- **2)** rozstrzygni´cie co do kary i Êrodków karnych, awrazie potrzeby co do zaliczenia na poczet zakazu prowadzenia pojazdów okresu zatrzymania dokumentu stwierdzajàcego uprawnienie do ich prowadzenia oraz zaliczenie okresu zatrzymania na poczet wymierzonej kary aresztu lub grzywny. 3. Okres zatrzymania zalicza si´ na poczet wymierzonej kary aresztu ikary ograniczenia wolnoÊci, przyjmujàc jeden dzieƒ zatrzymania, z zaokràgleniem do pe∏nego dnia, za równowa˝ny jednemu dniowi kary nie ma na nim sta∏ego miejsca zamieszkania lub miejsca sta∏ego pobytu, mo˝na orzec natychmiastowà wykonalnoÊç wyroku skazujàcego, gdy zachodzi uzasadniona obawa, ˝e jego wykonanie b´dzie niemo˝liwe lub znacznie utrudnione. Orzeczenie takie podlega wykonaniu zchwilà wydania. 5. Wwypadku wskazanym w§ 4 sàd:
-- **1)** wobec skazanego na kar´ aresztu zarzàdza natychmiastowe osadzenie go w zak∏adzie karnym; ponadto, na czas do stawienia si´ skazanego do wykonania kary, zarzàdza zatrzymanie jego paszportu lub innego dokumentu uprawniajàcego do przekroczenia granicy,
-- **2)** wobec skazanego na grzywn´ orzeka zast´pczà kar´ aresztu, przyjmujàc jeden dzieƒ aresztu za równowa˝ny grzywnie od 20 do 150 z∏, przyjmujàc, ˝e kara zast´pcza nie mo˝e przekroczyç 30 dni aresztu; zarzàdza ponadto, na wypadek nieuiszczenia grzywny w terminie 3 dni, zatrzymanie paszportu lub innego dokumentu uprawniajàcego do przekroczenia granicy na czas do uiszczenia grzywny lub wykonania zast´pczej kary aresztu.
+- **1)** dokładne określenie przypisanego obwinionemu czynu oraz jego kwalifikację prawną,
+- **2)** rozstrzygnięcie co do kary i środków karnych, awrazie potrzeby co do zaliczenia na poczet zakazu prowadzenia pojazdów okresu zatrzymania dokumentu stwierdzającego uprawnienie do ich prowadzenia oraz zaliczenie okresu zatrzymania na poczet wymierzonej kary aresztu lub grzywny. 3. Okres zatrzymania zalicza się na poczet wymierzonej kary aresztu ikary ograniczenia wolności, przyjmując jeden dzień zatrzymania, z zaokrągleniem do pełnego dnia, za równoważny jednemu dniowi kary nie ma na nim stałego miejsca zamieszkania lub miejsca stałego pobytu, można orzec natychmiastową wykonalność wyroku skazującego, gdy zachodzi uzasadniona obawa, że jego wykonanie będzie niemożliwe lub znacznie utrudnione. Orzeczenie takie podlega wykonaniu zchwilą wydania. 5. Wwypadku wskazanym w§ 4 sąd:
+- **1)** wobec skazanego na karę aresztu zarządza natychmiastowe osadzenie go w zakładzie karnym; ponadto, na czas do stawienia się skazanego do wykonania kary, zarządza zatrzymanie jego paszportu lub innego dokumentu uprawniającego do przekroczenia granicy,
+- **2)** wobec skazanego na grzywnę orzeka zastępczą karę aresztu, przyjmując jeden dzień aresztu za równoważny grzywnie od 20 do 150 zł, przyjmując, że kara zastępcza nie może przekroczyć 30 dni aresztu; zarządza ponadto, na wypadek nieuiszczenia grzywny w terminie 3 dni, zatrzymanie paszportu lub innego dokumentu uprawniającego do przekroczenia granicy na czas do uiszczenia grzywny lub wykonania zastępczej kary aresztu.
 
-**Art. 83.** Wrazie niedor´czenia obwinionemu wyroku zaocznego, wterminie 3 miesi´cy od dnia wydania, sàd mo˝e umorzyç post´powanie, je˝eli up∏ynà∏ ju˝ termin przedawnienia karalnoÊci wykroczenia.
+**Art. 83.** Wrazie niedoręczenia obwinionemu wyroku zaocznego, wterminie 3 miesięcy od dnia wydania, sąd może umorzyć postępowanie, jeżeli upłynął już termin przedawnienia karalności wykroczenia.
 
 **Art. 84.**
 
-§ 1. Je˝eli wwyroku nie rozstrzygni´to lub rozstrzygni´to wadliwie o zaliczeniu na poczet kar lub Êrodków karnych okresów, o których mowa w art. 82 2 pkt 2, albo odnoÊnie dowodów rzeczowych, sàd rozstrzyga otym postanowieniem na posiedzeniu. Nie mo˝na jednak orzec przepadku przedmiotów. 2. Na postanowienie, októrym mowa w§ 1, przys∏uguje za˝alenie. W razie z∏o˝enia apelacji, za˝alenie to rozpoznaje ∏àcznie z apelacjà w∏aÊciwy sàd odwo∏awczy. Rozdzia∏ 14 Post´powanie wsprawach osób podlegajàcych orzecznictwu sàdów wojskowych
+§ 1. Jeżeli wwyroku nie rozstrzygnięto lub rozstrzygnięto wadliwie o zaliczeniu na poczet kar lub środków karnych okresów, o których mowa w art. 82 2 pkt 2, albo odnośnie dowodów rzeczowych, sąd rozstrzyga otym postanowieniem na posiedzeniu. Nie można jednak orzec przepadku przedmiotów. 2. Na postanowienie, októrym mowa w§ 1, przysługuje zażalenie. W razie złożenia apelacji, zażalenie to rozpoznaje łącznie z apelacją właściwy sąd odwoławczy.
+
+#### Rozdział 14 Postępowanie wsprawach osób podlegających orzecznictwu sądów wojskowych
 
 **Art. 85.**
 
-1. Wpost´powaniu przed sàdem wojskowym podstaw´ do wszcz´cia post´powania stanowi wniosek o ukaranie sporzàdzony lub zatwierdzony przez prokuratora wojskowego.
+1. Wpostępowaniu przed sądem wojskowym podstawę do wszczęcia postępowania stanowi wniosek o ukaranie sporządzony lub zatwierdzony przez prokuratora wojskowego.
 
-2. ˚andarmerii Wojskowej, w stosunku do osoby wskazanej w art. 10 1, która pope∏ni∏a wykroczenie podlegajàce orzecznictwu sàdów wojskowych, przys∏ugujà uprawnienia i obowiàzki procesowe Policji wynikajàce zniniejszego kodeksu, ztym ˝e oskar˝ycielem publicznym jest wy∏àcznie prokurator wojskowy. niony wart. 50 1, art. 52, 53, 71 4, dokonujà w∏aÊciwe organy wojskowe, chyba ˝e wa˝ne powody stojà temu na przeszkodzie.
+2. ˚andarmerii Wojskowej, w stosunku do osoby wskazanej w art. 10 1, która popełniła wykroczenie podlegające orzecznictwu sądów wojskowych, przysługują uprawnienia i obowiązki procesowe Policji wynikające zniniejszego kodeksu, ztym że oskarżycielem publicznym jest wyłącznie prokurator wojskowy. niony wart. 50 1, art. 52, 53, 71 4, dokonują właściwe organy wojskowe, chyba że ważne powody stoją temu na przeszkodzie.
 
 **Art. 86.**
 
-1. O pope∏nieniu przez osob´ wskazanà wart. 10 1 wykroczenia podlegajàcego orzecznictwu sàdów wojskowych, wtym tak˝e oodmowie przyj´cia mandatu karnego lub nieuiszczeniu wterminie grzywny na∏o˝onej w drodze mandatu zaocznego, zawiadamia si´ prokuratora wojskowego.
+1. O popełnieniu przez osobę wskazaną wart. 10 1 wykroczenia podlegającego orzecznictwu sądów wojskowych, wtym także oodmowie przyjęcia mandatu karnego lub nieuiszczeniu wterminie grzywny nałożonej w drodze mandatu zaocznego, zawiadamia się prokuratora wojskowego.
 
-2. O wszcz´ciu post´powania przeciwko ˝o∏nierzowi powiadamia si´ w∏aÊciwego dowódc´ jednostki wojskowej.
+2. O wszczęciu postępowania przeciwko żołnierzowi powiadamia się właściwego dowódcę jednostki wojskowej.
 
-3. Wstosunku do osób, októrych mowa wart. 10 1 pkt 2, stosuje si´ odpowiednio art. 649 Kodeksu post´powania karnego.
+3. Wstosunku do osób, októrych mowa wart. 10 1 pkt 2, stosuje się odpowiednio art. 649 Kodeksu postępowania karnego.
 
 **Art. 87.**
 
-1. Sàd wojskowy mo˝e odmówiç wszcz´cia post´powania, a wszcz´te umorzyç i spraw´ przekazaç w∏aÊciwemu dowódcy zwnioskiem owymierzenie kary przewidzianej w wojskowych przepisach dyscyplinarnych, je˝eli uzna to za wystarczajàcà reakcj´ na wykroczenie.
+1. Sąd wojskowy może odmówić wszczęcia postępowania, a wszczęte umorzyć i sprawę przekazać właściwemu dowódcy zwnioskiem owymierzenie kary przewidzianej w wojskowych przepisach dyscyplinarnych, jeżeli uzna to za wystarczającą reakcję na wykroczenie.
 
-2. Na postanowienie wskazane w§ 1 przys∏uguje za˝alenie.
+2. Na postanowienie wskazane w§ 1 przysługuje zażalenie.
 
-3. Przed z∏o˝eniem wniosku oukaranie uprawnienie do przekazania sprawy, októrym mowa w§ 1, przys∏uguje prokuratorowi wojskowemu. Za˝alenie na postanowienie prokuratora rozpoznaje wojskowy sàd garnizonowy.
+3. Przed złożeniem wniosku oukaranie uprawnienie do przekazania sprawy, októrym mowa w§ 1, przysługuje prokuratorowi wojskowemu. Zażalenie na postanowienie prokuratora rozpoznaje wojskowy sąd garnizonowy.
 
-**Art. 88.** Pokrzywdzony mo˝e korzystaç przed sàdem wojskowym z praw oskar˝yciela posi∏kowego jedynie w sytuacjach okreÊlonych w art. 26 3 i art. 27 §2. DZIA¸ IX Post´powania szczególne Rozdzia∏ 15 Post´powanie przyspieszone
+**Art. 88.** Pokrzywdzony może korzystać przed sądem wojskowym z praw oskarżyciela posiłkowego jedynie w sytuacjach określonych w art. 26 3 i art. 27 §2. DZIAĘ IX Postępowania szczególne
 
-**Art. 89.** W post´powaniu przyspieszonym stosuje si´ przepisy opost´powaniu zwyczajnym, je˝eli przepisy niniejszego rozdzia∏u nie stanowià inaczej.
+#### Rozdział 15 Postępowanie przyspieszone
+
+**Art. 89.** W postępowaniu przyspieszonym stosuje się przepisy opostępowaniu zwyczajnym, jeżeli przepisy niniejszego rozdziału nie stanowią inaczej.
 
 **Art. 90.**
 
-1. Post´powanie przyspieszone stosuje si´ do osób niemajàcych sta∏ego miejsca zamieszkania lub miejsca sta∏ego pobytu, je˝eli zachodzi uzasadniona obawa, ˝e rozpoznanie sprawy w post´powaniu zwyczajnym b´dzie niemo˝liwe lub znacznie utrudnione. utrudnione.
+1. Postępowanie przyspieszone stosuje się do osób niemających stałego miejsca zamieszkania lub miejsca stałego pobytu, jeżeli zachodzi uzasadniona obawa, że rozpoznanie sprawy w postępowaniu zwyczajnym będzie niemożliwe lub znacznie utrudnione. utrudnione.
 
-3. Post´powanie przyspieszone stosuje si´ tak˝e wobec sprawców wykroczeƒ pope∏nionych w zwiàzku z imprezà masowà, okreÊlonà w przepisach o bezpieczeƒstwie imprez masowych:
+3. Postępowanie przyspieszone stosuje się także wobec sprawców wykroczeń popełnionych w związku z imprezą masową, określoną w przepisach o bezpieczeństwie imprez masowych:
 
-- **1)** przeciwko porzàdkowi i spokojowi publicznemu, okreÊlonych wart. 50, 51 i52aKodeksu wykroczeƒ,
-- **2)** przeciwko mieniu i urzàdzeniom u˝ytku publicznego, okreÊlonych w art. 124 i 143 Kodeksu wykroczeƒ.
+- **1)** przeciwko porządkowi i spokojowi publicznemu, określonych wart. 50, 51 i52aKodeksu wykroczeń,
+- **2)** przeciwko mieniu i urządzeniom użytku publicznego, określonych w art. 124 i 143 Kodeksu wykroczeń.
 
-4. Post´powanie przyspieszone stosuje si´ ponadto, gdy ustawa tak stanowi.
+4. Postępowanie przyspieszone stosuje się ponadto, gdy ustawa tak stanowi.
 
-5. Post´powania przyspieszonego nie stosuje si´ wobec osób podlegajàcych orzecznictwu sàdów wojskowych.
+5. Postępowania przyspieszonego nie stosuje się wobec osób podlegających orzecznictwu sądów wojskowych.
 
 **Art. 91.**
 
-1. W wypadkach, o których mowa w art. 90, w post´powaniu przyspieszonym orzeka si´ tylko wówczas, gdy sprawca zosta∏ uj´ty na goràcym uczynku lub bezpoÊrednio po pope∏nieniu wykroczenia iniezw∏ocznie doprowadzono go do sàdu.
+1. W wypadkach, o których mowa w art. 90, w postępowaniu przyspieszonym orzeka się tylko wówczas, gdy sprawca został ujęty na gorącym uczynku lub bezpośrednio po popełnieniu wykroczenia iniezwłocznie doprowadzono go do sądu.
 
-2. Policja lub inny organ, któremu szczególne ustawy powierzajà zadania wzakresie ochrony porzàdku lub bezpieczeƒstwa publicznego, w wypadku schwytania na goràcym uczynku lub bezpoÊrednio potem sprawcy wykroczenia, o którym mowa w art. 90, mo˝e go zatrzymaç idoprowadziç do sàdu.
+2. Policja lub inny organ, któremu szczególne ustawy powierzają zadania wzakresie ochrony porządku lub bezpieczeństwa publicznego, w wypadku schwytania na gorącym uczynku lub bezpośrednio potem sprawcy wykroczenia, o którym mowa w art. 90, może go zatrzymać idoprowadzić do sądu.
 
-3. Organ okreÊlony w§ 2 mo˝e odstàpiç od zatrzymania i przymusowego doprowadzenia sprawcy do sàdu, zobowiàzujàc go do stawienia si´ wsàdzie wwyznaczonym czasie i miejscu ze skutkami wezwania, októrych mowa wart. 71 4. Wydanego wówczas pod nieobecnoÊç obwinionego wyroku nie uwa˝a si´ za zaoczny.
+3. Organ określony w§ 2 może odstąpić od zatrzymania i przymusowego doprowadzenia sprawcy do sądu, zobowiązując go do stawienia się wsądzie wwyznaczonym czasie i miejscu ze skutkami wezwania, októrych mowa wart. 71 4. Wydanego wówczas pod nieobecność obwinionego wyroku nie uważa się za zaoczny.
 
-4. W wypadku wskazanym w 3 Policja i Stra˝ Graniczna mogà zatrzymaç sprawcy paszport lub inny dokument uprawniajàcy do przekroczenia granicy, który wraz z wnioskiem o ukaranie przekazujà sàdowi. Zwrotu dokumentu dokonuje sàd, nie póêniej ni˝ przy wydaniu orzeczenia albo zchwilà zmiany trybu post´powania.
+4. W wypadku wskazanym w 3 Policja i Straż Graniczna mogą zatrzymać sprawcy paszport lub inny dokument uprawniający do przekroczenia granicy, który wraz z wnioskiem o ukaranie przekazują sądowi. Zwrotu dokumentu dokonuje sąd, nie póêniej niż przy wydaniu orzeczenia albo zchwilą zmiany trybu postępowania.
 
-5. Osoba wezwana przez organ, o którym mowa w 2, do stawienia si´ w sàdzie w charakterze Êwiadka obowiàzana jest stawiç si´ we wskazanym czasie imiejscu; art. 49 iart. 50 1 stosuje si´ odpowiednio.
+5. Osoba wezwana przez organ, o którym mowa w 2, do stawienia się w sądzie w charakterze świadka obowiązana jest stawić się we wskazanym czasie imiejscu; art. 49 iart. 50 1 stosuje się odpowiednio.
 
 **Art. 92.**
 
-1. Wpost´powaniu przyspieszonym:
+1. Wpostępowaniu przyspieszonym:
 
-- **1)** wniosek oukaranie mo˝e ograniczyç si´ do wymogów wskazanych w art. 57 2 i 3 pkt 1 i 3; mo˝e te˝ byç z∏o˝ony ustnie do protoko∏u,
-- **2)** sàd bez zb´dnej zw∏oki przyst´puje do rozpoznania gorem wydania orzeczenia pod jego nieobecnoÊç; tak wydanego wyroku nie uwa˝a si´ za zaoczny,
-- **4)** wrazie przerwania rozprawy na okres d∏u˝szy ni˝ 3 dni spraw´ rozpoznaje si´ w post´powaniu zwyczajnym,
-- **5)** wrazie wydania wyroku pod nieobecnoÊç obwinionego w wypadkach, o których mowa w pkt 3 albo w art. 91 3, uzasadnienie wyroku sporzàdza si´ z urz´du, w pozosta∏ych wypadkach uzasadnienie wyroku sporzàdza si´ tylko na wniosek strony z∏o˝ony ustnie do protoko∏u rozprawy bezpoÊrednio po og∏oszeniu wyroku,
-- **6)** termin do wniesienia Êrodka odwo∏awczego wynosi 3 dni od daty og∏oszenia rozstrzygni´cia, gdy uzasadnienie sporzàdza si´ zurz´du, awpozosta∏ych przypadkach 3 dni od daty dor´czenia wyroku zuzasadnieniem,
-- **7)** sàd odwo∏awczy rozpoznaje spraw´ najpóêniej wciàgu miesiàca od daty jej wp∏ywu do tego sàdu.
+- **1)** wniosek oukaranie może ograniczyć się do wymogów wskazanych w art. 57 2 i 3 pkt 1 i 3; może też być złożony ustnie do protokołu,
+- **2)** sąd bez zbędnej zwłoki przystępuje do rozpoznania gorem wydania orzeczenia pod jego nieobecność; tak wydanego wyroku nie uważa się za zaoczny,
+- **4)** wrazie przerwania rozprawy na okres dłuższy niż 3 dni sprawę rozpoznaje się w postępowaniu zwyczajnym,
+- **5)** wrazie wydania wyroku pod nieobecność obwinionego w wypadkach, o których mowa w pkt 3 albo w art. 91 3, uzasadnienie wyroku sporządza się z urzędu, w pozostałych wypadkach uzasadnienie wyroku sporządza się tylko na wniosek strony złożony ustnie do protokołu rozprawy bezpośrednio po ogłoszeniu wyroku,
+- **6)** termin do wniesienia środka odwoławczego wynosi 3 dni od daty ogłoszenia rozstrzygnięcia, gdy uzasadnienie sporządza się zurzędu, awpozostałych przypadkach 3 dni od daty doręczenia wyroku zuzasadnieniem,
+- **7)** sąd odwoławczy rozpoznaje sprawę najpóêniej wciągu miesiąca od daty jej wpływu do tego sądu.
 
-2. Sàd sporzàdza uzasadnienie w terminie 3 dni od daty og∏oszenia wyroku.
+2. Sąd sporządza uzasadnienie w terminie 3 dni od daty ogłoszenia wyroku.
 
-3. W razie ustalenia, ˝e brak jest warunków uzasadniajàcych prowadzenie sprawy w trybie przyspieszonym:
+3. W razie ustalenia, że brak jest warunków uzasadniających prowadzenie sprawy w trybie przyspieszonym:
 
-- **1)** prezes sàdu przed wszcz´ciem post´powania zwraca oskar˝ycielowi wniosek o ukaranie do uzupe∏nienia braków formalnych, gdy wniosek ten ogranicza∏ si´ do wymogów wskazanych w§ 1 pkt 1, je˝eli jednak wniosek o ukaranie odpowiada wymogom okreÊlonym wart. 57 2—4, rozpoznaje si´ go wpost´powaniu zwyczajnym,
-- **2)** sàd wydaje postanowienie ozmianie trybu na zwyczajny, gdy brak podstaw do prowadzenia post´powania przyspieszonego ustalono po wszcz´ciu post´powania. Rozdzia∏ 16 Post´powanie nakazowe
+- **1)** prezes sądu przed wszczęciem postępowania zwraca oskarżycielowi wniosek o ukaranie do uzupełnienia braków formalnych, gdy wniosek ten ograniczał się do wymogów wskazanych w§ 1 pkt 1, jeżeli jednak wniosek o ukaranie odpowiada wymogom określonym wart. 57 2—4, rozpoznaje się go wpostępowaniu zwyczajnym,
+- **2)** sąd wydaje postanowienie ozmianie trybu na zwyczajny, gdy brak podstaw do prowadzenia postępowania przyspieszonego ustalono po wszczęciu postępowania.
+
+#### Rozdział 16 Postępowanie nakazowe
 
 **Art. 93.**
 
-1. Sàd na posiedzeniu mo˝e orzec wyrokiem nakaz karny w sprawach o wykroczenia, w których wystarczajàce jest wymierzenie grzywny w kwocie nie wy˝szej ni˝ po∏owa przewidzianej w ustawie górnej granicy wysokoÊci grzywny.
+1. Sąd na posiedzeniu może orzec wyrokiem nakaz karny w sprawach o wykroczenia, w których wystarczające jest wymierzenie grzywny w kwocie nie wyższej niż połowa przewidzianej w ustawie górnej granicy wysokości grzywny.
 
-2. Orzekanie w post´powaniu nakazowym mo˝e nastàpiç wy∏àcznie na podstawie wniosku o ukaranie z∏o˝onego przez oskar˝yciela publicznego, sporzàdzonego w wyniku ustaleƒ popartych wiarygodnymi dowodami, je˝eli z dowodów tych wynika, ˝e obwiniony nie kwestionuje pope∏nienia zarzucanego mu czynu, a okolicznoÊci tego czynu i wina obwinionego nie budzà wàtpliwoÊci. Orzekajàc nakazem karnym sàd uznadzenia pojazdów na okres nie d∏u˝szy ni˝ rok.
+2. Orzekanie w postępowaniu nakazowym może nastąpić wyłącznie na podstawie wniosku o ukaranie złożonego przez oskarżyciela publicznego, sporządzonego w wyniku ustaleń popartych wiarygodnymi dowodami, jeżeli z dowodów tych wynika, że obwiniony nie kwestionuje popełnienia zarzucanego mu czynu, a okoliczności tego czynu i wina obwinionego nie budzą wątpliwości. Orzekając nakazem karnym sąd uznadzenia pojazdów na okres nie dłuższy niż rok.
 
-4. Post´powanie nakazowe jest niedopuszczalne, je˝eli zachodzà okolicznoÊci okreÊlone wart. 21 1.
+4. Postępowanie nakazowe jest niedopuszczalne, jeżeli zachodzą okoliczności określone wart. 21 1.
 
 **Art. 94.**
 
-1. Do nakazu karnego stosuje si´ odpowiednio przepisy art. 504 pkt 1—5 iart. 505 2 Kodeksu post´powania karnego.
+1. Do nakazu karnego stosuje się odpowiednio przepisy art. 504 pkt 1—5 iart. 505 2 Kodeksu postępowania karnego.
 
-2. Nakaz karny powinien zawieraç pouczenie oterminie isposobie zaskar˝enia. Rozdzia∏ 17 Post´powanie mandatowe
+2. Nakaz karny powinien zawierać pouczenie oterminie isposobie zaskarżenia.
+
+#### Rozdział 17 Postępowanie mandatowe
 
 **Art. 95.**
 
-1. Post´powanie mandatowe prowadzi Policja, a inne organy, gdy przepis szczególny tak stanowi.
+1. Postępowanie mandatowe prowadzi Policja, a inne organy, gdy przepis szczególny tak stanowi.
 
-2. Wykaz wykroczeƒ, za które policjanci oraz ˝o∏nierze ˚andarmerii Wojskowej uprawnieni sà do nak∏adania grzywny w drodze mandatu karnego, okreÊlà w drodze rozporzàdzeƒ odpowiednio minister w∏aÊciwy do spraw wewn´trznych oraz Minister Obrony Narodowej w porozumieniu z Ministrem SprawiedliwoÊci, majàc na wzgl´dzie koniecznoÊç zapewnienia szybkiej reakcji na fakt pope∏nienia wykroczenia, atak˝e potrzeb´ nale˝ytej ochrony dóbr szczególnie nara˝onych na naruszenia ze strony sprawców wykroczeƒ.
+2. Wykaz wykroczeń, za które policjanci oraz żołnierze ˚andarmerii Wojskowej uprawnieni są do nakładania grzywny w drodze mandatu karnego, określą w drodze rozporządzeń odpowiednio minister właściwy do spraw wewnętrznych oraz Minister Obrony Narodowej w porozumieniu z Ministrem Sprawiedliwości, mając na względzie konieczność zapewnienia szybkiej reakcji na fakt popełnienia wykroczenia, atakże potrzebę należytej ochrony dóbr szczególnie narażonych na naruszenia ze strony sprawców wykroczeń.
 
-3. Wsprawach okreÊlonych wart. 17 2 post´powanie mandatowe prowadzi inspektor pracy. Inspektor pracy mo˝e na∏o˝yç grzywn´ wdrodze mandatu karnego tak˝e po przeprowadzeniu czynnoÊci wyjaÊniajàcych, je˝eli uzna, ˝e kara ta b´dzie wystarczajàca.
+3. Wsprawach określonych wart. 17 2 postępowanie mandatowe prowadzi inspektor pracy. Inspektor pracy może nałożyć grzywnę wdrodze mandatu karnego także po przeprowadzeniu czynności wyjaśniających, jeżeli uzna, że kara ta będzie wystarczająca.
 
-4. Je˝eli uprawnienie dla funkcjonariuszy okreÊlonego organu do nak∏adania grzywien wdrodze mandatu karnego wynika zinnej ustawy, austawa ta nie okreÊla wykroczeƒ, do których stosuje si´ post´powanie mandatowe, zakres wykroczeƒ, za które mo˝na na∏o˝yç grzywn´ w drodze mandatu karnego, okreÊli, zuwzgl´dnieniem wymogów wskazanych w§ 2, wdrodze rozporzàdzenia, w∏aÊciwy minister w porozumieniu z Ministrem SprawiedliwoÊci. Rozporzàdzenie to okreÊla jednoczeÊnie zasady isposób wydawania upowa˝nieƒ do nak∏adania grzywien w drodze mandatu karnego.
+4. Jeżeli uprawnienie dla funkcjonariuszy określonego organu do nakładania grzywien wdrodze mandatu karnego wynika zinnej ustawy, austawa ta nie określa wykroczeń, do których stosuje się postępowanie mandatowe, zakres wykroczeń, za które można nałożyć grzywnę w drodze mandatu karnego, określi, zuwzględnieniem wymogów wskazanych w§ 2, wdrodze rozporządzenia, właściwy minister w porozumieniu z Ministrem Sprawiedliwości. Rozporządzenie to określa jednocześnie zasady isposób wydawania upoważnień do nakładania grzywien w drodze mandatu karnego.
 
-5. Prezes Rady Ministrów, na wniosek ministra w∏aÊciwego do spraw wewn´trznych, z∏o˝ony w porozumieniu z Ministrem SprawiedliwoÊci, mo˝e nadaç, w drodze rozporzàdzenia, uprawnienia do nak∏adania grzywien w drodze mandatu karnego funkcjonariuszom innych organów, okreÊlajàc jednoczeÊnie wykaz wykroczeƒ, za które funkcjonariusze ci uprawnieni sà do nak∏adania grzywien, oraz zasady isposób wydawa6. Rozporzàdzenia, o których mowa w 2, 4 i 5, mogà tak˝e okreÊliç zró˝nicowanà wysokoÊç mandatów karnych za poszczególne rodzaje wykroczeƒ wzale˝noÊci od stopnia spo∏ecznej szkodliwoÊci czynu irodzaju naruszonego dobra w granicach grzywny okreÊlonej wart. 96 1; przy czym rozporzàdzenia nie mogà ca∏kowicie wy∏àczyç stosowania mandatów karnych wwysokoÊci równej dolnej granicy grzywny przewidzianej wustawie za wykroczenie, za które grzywna mo˝e zostaç na∏o˝ona wdrodze mandatu karnego.
+5. Prezes Rady Ministrów, na wniosek ministra właściwego do spraw wewnętrznych, złożony w porozumieniu z Ministrem Sprawiedliwości, może nadać, w drodze rozporządzenia, uprawnienia do nakładania grzywien w drodze mandatu karnego funkcjonariuszom innych organów, określając jednocześnie wykaz wykroczeń, za które funkcjonariusze ci uprawnieni są do nakładania grzywien, oraz zasady isposób wydawa6. Rozporządzenia, o których mowa w 2, 4 i 5, mogą także określić zróżnicowaną wysokość mandatów karnych za poszczególne rodzaje wykroczeń wzależności od stopnia społecznej szkodliwości czynu irodzaju naruszonego dobra w granicach grzywny określonej wart. 96 1; przy czym rozporządzenia nie mogą całkowicie wyłączyć stosowania mandatów karnych wwysokości równej dolnej granicy grzywny przewidzianej wustawie za wykroczenie, za które grzywna może zostać nałożona wdrodze mandatu karnego.
 
 **Art. 96.**
 
-1. Wpost´powaniu mandatowym mo˝na na∏o˝yç grzywn´ wwysokoÊci do 500 z∏otych, awwypadku, o którym w art. 9 1 Kodeksu wykroczeƒ, do 1000 z∏otych.
+1. Wpostępowaniu mandatowym można nałożyć grzywnę wwysokości do 500 złotych, awwypadku, o którym w art. 9 1 Kodeksu wykroczeń, do 1000 złotych.
 
-2. W drodze mandatu karnego nie nak∏ada si´ grzywny za wykroczenia, za które nale˝a∏oby orzec Êrodek karny, atak˝e wwypadku okreÊlonym wart. 10 1 Kodeksu wykroczeƒ. Wsytuacji okreÊlonej wart. 9 1 Kodeksu wykroczeƒ na∏o˝enie grzywny wdrodze mandatu karnego jest mo˝liwe jedynie, gdy w zakresie wszystkich naruszonych przepisów post´powanie mandatowe jest dopuszczalne.
+2. W drodze mandatu karnego nie nakłada się grzywny za wykroczenia, za które należałoby orzec środek karny, atakże wwypadku określonym wart. 10 1 Kodeksu wykroczeń. Wsytuacji określonej wart. 9 1 Kodeksu wykroczeń nałożenie grzywny wdrodze mandatu karnego jest możliwe jedynie, gdy w zakresie wszystkich naruszonych przepisów postępowanie mandatowe jest dopuszczalne.
 
-3. Prezes Rady Ministrów, wdrodze rozporzàdzenia, okreÊli wzory formularzy mandatu karnego oraz szczegó∏owy sposób nak∏adania grzywien w drodze mandatu karnego, majàc na wzgl´dzie potrzeb´ ujednolicenia zasad wymierzania przez funkcjonariuszy uprawnionych organów grzywny w drodze mandatu karnego, atak˝e pouczenia osób ukaranych mandatem oich prawach iobowiàzkach.
+3. Prezes Rady Ministrów, wdrodze rozporządzenia, określi wzory formularzy mandatu karnego oraz szczegółowy sposób nakładania grzywien w drodze mandatu karnego, mając na względzie potrzebę ujednolicenia zasad wymierzania przez funkcjonariuszy uprawnionych organów grzywny w drodze mandatu karnego, atakże pouczenia osób ukaranych mandatem oich prawach iobowiązkach.
 
 **Art. 97.**
 
-1. W post´powaniu mandatowym, je˝eli ustawa nie stanowi inaczej, funkcjonariusz uprawniony do nak∏adania grzywny wdrodze mandatu karnego mo˝e jà na∏o˝yç jedynie, gdy:
+1. W postępowaniu mandatowym, jeżeli ustawa nie stanowi inaczej, funkcjonariusz uprawniony do nakładania grzywny wdrodze mandatu karnego może ją nałożyć jedynie, gdy:
 
-- **1)** schwytano sprawc´ wykroczenia na goràcym uczynku lub bezpoÊrednio po pope∏nieniu wykroczenia,
-- **2)** stwierdzi pope∏nienie wykroczenia naocznie pod nieobecnoÊç sprawcy albo za pomocà urzàdzenia pomiarowego lub kontrolnego, anie zachodzi wàtpliwoÊç co do osoby sprawcy czynu wtym tak˝e wrazie potrzeby po przeprowadzeniu w niezb´dnym zakresie czynnoÊci wyjaÊniajàcych, podj´tych niezw∏ocznie po ujawnieniu wykroczenia. Na∏o˝enie grzywny w drodze mandatu karnego nie mo˝e nastàpiç po up∏ywie 3 dni od daty ujawnienia czynu w wypadku, o którym mowa w pkt 1, i 14 dni wwypadku, októrym mowa wpkt 2.
+- **1)** schwytano sprawcę wykroczenia na gorącym uczynku lub bezpośrednio po popełnieniu wykroczenia,
+- **2)** stwierdzi popełnienie wykroczenia naocznie pod nieobecność sprawcy albo za pomocą urządzenia pomiarowego lub kontrolnego, anie zachodzi wątpliwość co do osoby sprawcy czynu wtym także wrazie potrzeby po przeprowadzeniu w niezbędnym zakresie czynności wyjaśniających, podjętych niezwłocznie po ujawnieniu wykroczenia. Nałożenie grzywny w drodze mandatu karnego nie może nastąpić po upływie 3 dni od daty ujawnienia czynu w wypadku, o którym mowa w pkt 1, i 14 dni wwypadku, októrym mowa wpkt 2.
 
-2. Sprawca wykroczenia mo˝e odmówiç przyj´cia mandatu karnego. kach prawnych takiej odmowy.
+2. Sprawca wykroczenia może odmówić przyjęcia mandatu karnego. kach prawnych takiej odmowy.
 
 **Art. 98.**
 
-§ 1. Wpost´powaniu mandatowym mo˝na nak∏adaç grzywn´ wdrodze mandatu karnego:
+§ 1. Wpostępowaniu mandatowym można nakładać grzywnę wdrodze mandatu karnego:
 
-- **1)** wydawanego ukaranemu po uiszczeniu grzywny bezpoÊrednio funkcjonariuszowi, który jà na∏o˝y∏,
+- **1)** wydawanego ukaranemu po uiszczeniu grzywny bezpośrednio funkcjonariuszowi, który ją nałożył,
 - **2)** kredytowanego, wydawanego ukaranemu za potwierdzeniem odbioru,
-- **3)** zaocznego. 2. Mandatem karnym, októrym mowa w§ 1 pkt1, mo˝e byç na∏o˝ona grzywna jedynie wobec osób czasowo tylko przebywajàcych na terytorium Rzeczypospolitej Polskiej. Mandat taki staje si´ prawomocny z chwilà uiszczenia grzywny funkcjonariuszowi, który jà na∏o˝y∏. 3. Mandat karny, októrym mowa w§ 1 pkt 2, powinien zawieraç pouczenie o obowiàzku uiszczenia grzywny w terminie 7 dni od daty przyj´cia mandatu oraz oskutkach nieuiszczenia grzywny wtym terminie. Staje si´ on prawomocny z chwilà pokwitowania jego odbioru przez ukaranego. 4. Mandatem karnym zaocznym mo˝na na∏o˝yç grzywn´ w razie stwierdzenia wykroczenia, którego sprawcy nie zastano na miejscu jego pope∏nienia, gdy nie zachodzi wàtpliwoÊç co do osoby tego sprawcy; mandat taki pozostawia si´ wówczas wtakim miejscu, aby sprawca móg∏ go niezw∏ocznie odebraç. 5. Mandat karny, októrym mowa w§ 1 pkt 3, powinien wskazywaç, gdzie wterminie 7 dni od daty jego wystawienia ukarany mo˝e uiÊciç grzywn´, oraz informowaç o skutkach jej nieuiszczenia w tym terminie. Staje si´ on prawomocny zchwilà uiszczenia grzywny we wskazanym miejscu iterminie.
+- **3)** zaocznego. 2. Mandatem karnym, októrym mowa w§ 1 pkt1, może być nałożona grzywna jedynie wobec osób czasowo tylko przebywających na terytorium Rzeczypospolitej Polskiej. Mandat taki staje się prawomocny z chwilą uiszczenia grzywny funkcjonariuszowi, który ją nałożył. 3. Mandat karny, októrym mowa w§ 1 pkt 2, powinien zawierać pouczenie o obowiązku uiszczenia grzywny w terminie 7 dni od daty przyjęcia mandatu oraz oskutkach nieuiszczenia grzywny wtym terminie. Staje się on prawomocny z chwilą pokwitowania jego odbioru przez ukaranego. 4. Mandatem karnym zaocznym można nałożyć grzywnę w razie stwierdzenia wykroczenia, którego sprawcy nie zastano na miejscu jego popełnienia, gdy nie zachodzi wątpliwość co do osoby tego sprawcy; mandat taki pozostawia się wówczas wtakim miejscu, aby sprawca mógł go niezwłocznie odebrać. 5. Mandat karny, októrym mowa w§ 1 pkt 3, powinien wskazywać, gdzie wterminie 7 dni od daty jego wystawienia ukarany może uiścić grzywnę, oraz informować o skutkach jej nieuiszczenia w tym terminie. Staje się on prawomocny zchwilą uiszczenia grzywny we wskazanym miejscu iterminie.
 
-**Art. 99.** Wrazie odmowy przyj´cia mandatu karnego lub nieuiszczenia w wyznaczonym terminie grzywny na∏o˝onej mandatem zaocznym, organ, którego funkcjonariusz na∏o˝y∏ grzywn´, wyst´puje do sàdu zwnioskiem oukaranie. We wniosku tym nale˝y zaznaczyç, ˝e obwiniony odmówi∏ przyj´cia mandatu albo nie uiÊci∏ grzywny na∏o˝onej mandatem zaocznym, awmiar´ mo˝noÊci podaç tak˝e przyczyny odmowy.
+**Art. 99.** Wrazie odmowy przyjęcia mandatu karnego lub nieuiszczenia w wyznaczonym terminie grzywny nałożonej mandatem zaocznym, organ, którego funkcjonariusz nałożył grzywnę, występuje do sądu zwnioskiem oukaranie. We wniosku tym należy zaznaczyć, że obwiniony odmówił przyjęcia mandatu albo nie uiścił grzywny nałożonej mandatem zaocznym, awmiarę możności podać także przyczyny odmowy.
 
-**Art. 100.** Âciàganie grzywny na∏o˝onej w drodze mandatu karnego nast´puje w trybie przepisów o post´powaniu egzekucyjnym w administracji. Grzywna ta stanowi dochód bud˝etu paƒstwa, a gdy na∏o˝y jà funkcjonariusz organu podleg∏ego w∏adzom jednostki samorzàdu terytorialnego stanowi dochód tej jednostki samorzàdu.
+**Art. 100.** Âciąganie grzywny nałożonej w drodze mandatu karnego następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji. Grzywna ta stanowi dochód budżetu państwa, a gdy nałoży ją funkcjonariusz organu podległego władzom jednostki samorządu terytorialnego stanowi dochód tej jednostki samorządu.
 
 **Art. 101.**
 
 1. Prawomocny mandat karny podlega
 
-2. Uprawnionym do uchylenia prawomocnego mandatu karnego jest sàd w∏aÊciwy do rozpoznania sprawy, na którego obszarze dzia∏ania grzywna zosta∏a na∏o˝ona. Wprzedmiocie uchylenia mandatu karnego sàd orzeka na posiedzeniu. Przed wydaniem postanowienia sàd mo˝e zarzàdziç stosowne czynnoÊci wcelu sprawdzenia podstaw do uchylenia mandatu karnego.
+2. Uprawnionym do uchylenia prawomocnego mandatu karnego jest sąd właściwy do rozpoznania sprawy, na którego obszarze działania grzywna została nałożona. Wprzedmiocie uchylenia mandatu karnego sąd orzeka na posiedzeniu. Przed wydaniem postanowienia sąd może zarządzić stosowne czynności wcelu sprawdzenia podstaw do uchylenia mandatu karnego.
 
-3. Uchylajàc mandat karny nakazuje si´ podmiotowi, na rachunek którego pobrano grzywn´, zwrot uiszczonej kwoty.
+3. Uchylając mandat karny nakazuje się podmiotowi, na rachunek którego pobrano grzywnę, zwrot uiszczonej kwoty.
 
-**Art. 102.** Nadzór nad post´powaniem mandatowym sprawuje minister w∏aÊciwy do spraw wewn´trznych, a w sprawach, o których mowa w art. 95 3 G∏ówny Inspektor Pracy. DZIA¸X Ârodki odwo∏awcze
+**Art. 102.** Nadzór nad postępowaniem mandatowym sprawuje minister właściwy do spraw wewnętrznych, a w sprawach, o których mowa w art. 95 3 Główny Inspektor Pracy. DZIAĘX Ârodki odwoławcze
 
 **Art. 103.**
 
-§ 1. Ârodkami odwo∏awczymi sà apelacja iza˝alenie. 2. Od wyroku sàdu pierwszej instancji s∏u˝y stronom apelacja. 3. Za˝alenie przys∏uguje w wypadkach wskazanych wustawie. Przys∏uguje ono stronom, atak˝e osobie, której postanowienie, zarzàdzenie lub inne czynnoÊci bezpoÊrednio dotyczà. 4. Orzeczenie mo˝na zaskar˝yç wca∏oÊci lub cz´Êci.
+§ 1. Ârodkami odwoławczymi są apelacja izażalenie. 2. Od wyroku sądu pierwszej instancji służy stronom apelacja. 3. Zażalenie przysługuje w wypadkach wskazanych wustawie. Przysługuje ono stronom, atakże osobie, której postanowienie, zarządzenie lub inne czynności bezpośrednio dotyczą. 4. Orzeczenie można zaskarżyć wcałości lub części.
 
 **Art. 104.**
 
-§ 1. Sàd odwo∏awczy uchyla na posiedzeniu zaskar˝one orzeczenie, niezale˝nie od granic zaskar˝enia, podniesionych zarzutów i wp∏ywu uchybienia na treÊç orzeczenia, je˝eli:
+§ 1. Sąd odwoławczy uchyla na posiedzeniu zaskarżone orzeczenie, niezależnie od granic zaskarżenia, podniesionych zarzutów i wpływu uchybienia na treść orzeczenia, jeżeli:
 
-- **1)** orzeczenie wyda∏a osoba nieuprawniona do orzekania albo s´dzia podlegajàcy wy∏àczeniu z mocy prawa lub niezdolny do orzekania,
-- **2)** sàd by∏ nienale˝ycie obsadzony lub orzeczenie nie zosta∏o podpisane,
-- **3)** sàd powszechny orzek∏ wsprawie nale˝àcej do w∏aÊciwoÊci sàdu wojskowego albo sàd wojskowy orzek∏ w sprawie nale˝àcej do w∏aÊciwoÊci sàdu powszechnego,
-- **4)** orzeczono kar´ lub Êrodek karny nieznany ustawie,
-- **5)** zachodzi sprzecznoÊç wtreÊci orzeczenia uniemo˝liwiajàca jego wykonanie,
-- **6)** obwiniony nie mia∏ obroƒcy wwypadkach okreÊlo2. Sàd odwo∏awczy mo˝e orzec surowszà kar´ aresztu tylko wtedy, gdy nie zmienia ustaleƒ faktycznych przyj´tych za podstaw´ zaskar˝onego wyroku.
+- **1)** orzeczenie wydała osoba nieuprawniona do orzekania albo sędzia podlegający wyłączeniu z mocy prawa lub niezdolny do orzekania,
+- **2)** sąd był nienależycie obsadzony lub orzeczenie nie zostało podpisane,
+- **3)** sąd powszechny orzekł wsprawie należącej do właściwości sądu wojskowego albo sąd wojskowy orzekł w sprawie należącej do właściwości sądu powszechnego,
+- **4)** orzeczono karę lub środek karny nieznany ustawie,
+- **5)** zachodzi sprzeczność wtreści orzeczenia uniemożliwiająca jego wykonanie,
+- **6)** obwiniony nie miał obrońcy wwypadkach określo2. Sąd odwoławczy może orzec surowszą karę aresztu tylko wtedy, gdy nie zmienia ustaleń faktycznych przyjętych za podstawę zaskarżonego wyroku.
 
 **Art. 105.**
 
-§ 1. Apelacj´ wnosi si´ na piÊmie wterminie 7 dni od daty otrzymania wyroku wraz zuzasadnieniem, chyba ˝e ustawa stanowi inaczej. 2. Wniesienie apelacji przed up∏ywem terminu do z∏o˝enia wniosku ouzasadnienie orzeczenia wywo∏uje skutki wskazane w art. 35 1 i podlega rozpoznaniu; mo˝na jà uzupe∏niç wterminie wskazanym w§ 1. 3. O przyj´ciu apelacji zawiadamia si´ strony, obroƒców i pe∏nomocników, po czym akta przekazuje si´ niezw∏ocznie sàdowi odwo∏awczemu.
+§ 1. Apelację wnosi się na piśmie wterminie 7 dni od daty otrzymania wyroku wraz zuzasadnieniem, chyba że ustawa stanowi inaczej. 2. Wniesienie apelacji przed upływem terminu do złożenia wniosku ouzasadnienie orzeczenia wywołuje skutki wskazane w art. 35 1 i podlega rozpoznaniu; można ją uzupełnić wterminie wskazanym w§ 1. 3. O przyjęciu apelacji zawiadamia się strony, obrońców i pełnomocników, po czym akta przekazuje się niezwłocznie sądowi odwoławczemu.
 
 **Art. 106.**
 
-1. Strony majà prawo uczestniczyç w rozprawie i w posiedzeniu sàdu odwo∏awczego. Udzia∏ stron nie jest obowiàzkowy, chyba ˝e prezes sàdu lub sàd tak zarzàdzi. Obowiàzkowy jest jednak udzia∏ obroƒcy wwypadku okreÊlonym wart. 21 1.
+1. Strony mają prawo uczestniczyć w rozprawie i w posiedzeniu sądu odwoławczego. Udział stron nie jest obowiązkowy, chyba że prezes sądu lub sąd tak zarządzi. Obowiązkowy jest jednak udział obrońcy wwypadku określonym wart. 21 1.
 
-2. Sàd odwo∏awczy na ˝àdanie obwinionego pozbawionego wolnoÊci zarzàdza jego sprowadzenie na rozpraw´, chyba ˝e uzna za wystarczajàcy udzia∏ wrozprawie jego obroƒcy. Je˝eli obwiniony nie ma obroƒcy, wyznacza si´ obroƒc´ zurz´du.
+2. Sąd odwoławczy na żądanie obwinionego pozbawionego wolności zarządza jego sprowadzenie na rozprawę, chyba że uzna za wystarczający udział wrozprawie jego obrońcy. Jeżeli obwiniony nie ma obrońcy, wyznacza się obrońcę zurzędu.
 
-3. Niestawiennictwo prawid∏owo zawiadomionych o terminie stron i ich przedstawicieli procesowych nie tamuje rozpoznania sprawy, chyba ˝e stawiennictwo by∏o obowiàzkowe.
+3. Niestawiennictwo prawidłowo zawiadomionych o terminie stron i ich przedstawicieli procesowych nie tamuje rozpoznania sprawy, chyba że stawiennictwo było obowiązkowe.
 
 **Art. 107.**
 
-1. Uzasadnienie wyroku sàd odwo∏awczy sporzàdza wterminie 7 dni.
+1. Uzasadnienie wyroku sąd odwoławczy sporządza wterminie 7 dni.
 
-2. Uzasadnienie wyroku utrzymujàcego w mocy wyrok sàdu pierwszej instancji sporzàdza si´ wy∏àcznie na ˝àdanie strony, z∏o˝one wterminie zawitym 7 dni od daty wydania wyroku przez sàd odwo∏awczy.
+2. Uzasadnienie wyroku utrzymującego w mocy wyrok sądu pierwszej instancji sporządza się wyłącznie na żądanie strony, złożone wterminie zawitym 7 dni od daty wydania wyroku przez sąd odwoławczy.
 
-3. W uzasadnieniu nale˝y podaç, czym kierowa∏ si´ sàd wydajàc wyrok oraz dlaczego zarzuty iwnioski apelacji sàd uzna∏ za zasadne albo niezasadne.
+3. W uzasadnieniu należy podać, czym kierował się sąd wydając wyrok oraz dlaczego zarzuty iwnioski apelacji sąd uznał za zasadne albo niezasadne.
 
-**Art. 108.** Za˝alenie wnosi si´ na piÊmie wterminie 7 dni od daty og∏oszenia rozstrzygni´cia albo ustnie do protoko∏u rozprawy lub posiedzenia, a gdy podlega ono dor´czeniu, od daty dor´czenia lub od daty dokonania zaskar˝onej czynnoÊci, chyba ˝e ustawa stanowi inaczej.
+**Art. 108.** Zażalenie wnosi się na piśmie wterminie 7 dni od daty ogłoszenia rozstrzygnięcia albo ustnie do protokołu rozprawy lub posiedzenia, a gdy podlega ono doręczeniu, od daty doręczenia lub od daty dokonania zaskarżonej czynności, chyba że ustawa stanowi inaczej.
 
 **Art. 109.**
 
-1. W post´powaniu odwo∏awczym stosuje si´ odpowiednio przepisy dotyczàce post´powania przed sàdem pierwszej instancji, chyba ˝e przepisy niniejszego rozdzia∏u stanowià inaczej.
+1. W postępowaniu odwoławczym stosuje się odpowiednio przepisy dotyczące postępowania przed sądem pierwszej instancji, chyba że przepisy niniejszego rozdziału stanowią inaczej.
 
-2. Przy rozpoznawaniu Êrodka odwo∏awczego stosuje si´ odpowiednio tak˝e przepisy art. 425 3 i 4, Nadzwyczajne Êrodki zaskar˝enia Rozdzia∏ 18 Kasacja
+2. Przy rozpoznawaniu środka odwoławczego stosuje się odpowiednio także przepisy art. 425 3 i 4, Nadzwyczajne środki zaskarżenia
+
+#### Rozdział 18 Kasacja
 
 **Art. 110.**
 
-1. Kasacj´ w sprawach o wykroczenia mo˝e wnieÊç wy∏àcznie Minister SprawiedliwoÊci— —Prokurator Generalny lub Rzecznik Praw Obywatelskich, a w sprawach podlegajàcych orzecznictwu sàdów wojskowych tak˝e Naczelny Prokurator Wojskowy. Kasacj´ mo˝na wnieÊç od ka˝dego prawomocnego orzeczenia koƒczàcego post´powanie sàdowe.
+1. Kasację w sprawach o wykroczenia może wnieść wyłącznie Minister Sprawiedliwości— —Prokurator Generalny lub Rzecznik Praw Obywatelskich, a w sprawach podlegających orzecznictwu sądów wojskowych także Naczelny Prokurator Wojskowy. Kasację można wnieść od każdego prawomocnego orzeczenia kończącego postępowanie sądowe.
 
-2. Niedopuszczalne jest uwzgl´dnienie kasacji na niekorzyÊç obwinionego wniesionej po up∏ywie 3 miesi´cy od daty uprawomocnienia si´ orzeczenia.
+2. Niedopuszczalne jest uwzględnienie kasacji na niekorzyść obwinionego wniesionej po upływie 3 miesięcy od daty uprawomocnienia się orzeczenia.
 
-3. Kasacj´ wnosi si´ bezpoÊrednio do Sàdu Najwy˝szego.
+3. Kasację wnosi się bezpośrednio do Sądu Najwyższego.
 
-**Art. 111.** Kasacja mo˝e byç wniesiona tylko zpowodu uchybieƒ wskazanych w art. 104 1 lub innego ra˝àcego naruszenia prawa, je˝eli mog∏o ono mieç istotny wp∏yw na treÊç orzeczenia; kasacja nie mo˝e byç wniesiona wy∏àcznie z powodu niewspó∏miernoÊci kary.
+**Art. 111.** Kasacja może być wniesiona tylko zpowodu uchybień wskazanych w art. 104 1 lub innego rażącego naruszenia prawa, jeżeli mogło ono mieć istotny wpływ na treść orzeczenia; kasacja nie może być wniesiona wyłącznie z powodu niewspółmierności kary.
 
-**Art. 112.** W post´powaniu w przedmiocie kasacji stosuje si´ odpowiednio przepisy dzia∏u Xniniejszego kodeksu oraz art. 522, 526 1, art. 529, 530 2 i3, art. 531 1, art. 532 1, art. 534 2, art. 535—537, 538 1 oraz art. 539 Kodeksu post´powania karnego. Rozdzia∏ 19 Wznowienie post´powania
+**Art. 112.** W postępowaniu w przedmiocie kasacji stosuje się odpowiednio przepisy działu Xniniejszego kodeksu oraz art. 522, 526 1, art. 529, 530 2 i3, art. 531 1, art. 532 1, art. 534 2, art. 535—537, 538 1 oraz art. 539 Kodeksu postępowania karnego.
+
+#### Rozdział 19 Wznowienie postępowania
 
 **Art. 113.**
 
-§ 1. Do wznowienia post´powania prawomocnie zakoƒczonego w trybie przepisów niniejszego kodeksu stosuje si´ odpowiednio przepisy art. 540—542, 544 2 i 3 oraz art. 545—548 Kodeksu post´powania karnego. 2. Do wniosku owznowienie post´powania strona nieb´dàca prokuratorem do∏àcza dowód wniesienia op∏aty sàdowej; op∏ata ta podlega zwrotowi w razie uwzgl´dnienia wniosku. 3. W kwestii wznowienia orzeka na posiedzeniu jednoosobowo sàd okr´gowy, a w sprawie zakoƒczonej orzeczeniem tego sàdu jednoosobowo sàd apelacyjny. 4. Wsprawach nale˝àcych do w∏aÊciwoÊci sàdów wojskowych w kwestii wznowienia orzeka na posiedzeniu jednoosobowo wojskowy sàd okr´gowy, Odszkodowanie za nies∏uszne ukaranie lub zatrzymanie
+§ 1. Do wznowienia postępowania prawomocnie zakończonego w trybie przepisów niniejszego kodeksu stosuje się odpowiednio przepisy art. 540—542, 544 2 i 3 oraz art. 545—548 Kodeksu postępowania karnego. 2. Do wniosku owznowienie postępowania strona niebędąca prokuratorem dołącza dowód wniesienia opłaty sądowej; opłata ta podlega zwrotowi w razie uwzględnienia wniosku. 3. W kwestii wznowienia orzeka na posiedzeniu jednoosobowo sąd okręgowy, a w sprawie zakończonej orzeczeniem tego sądu jednoosobowo sąd apelacyjny. 4. Wsprawach należących do właściwości sądów wojskowych w kwestii wznowienia orzeka na posiedzeniu jednoosobowo wojskowy sąd okręgowy, Odszkodowanie za niesłuszne ukaranie lub zatrzymanie
 
 **Art. 114.**
 
-1. Obwinionemu, który w wyniku kasacji lub wznowienia post´powania zosta∏ nast´pnie uniewinniony albo wobec którego umorzono post´powanie wskutek okolicznoÊci nieuwzgl´dnionych we wczeÊniejszym post´powaniu, przys∏uguje od Skarbu Paƒstwa odszkodowanie za poniesionà szkod´ oraz zadoÊçuczynienie za doznanà krzywd´, wynik∏à zwykonania wzgl´dem niego wca∏oÊci lub cz´Êci kary lub Êrodka karnego, których nie powinien by∏ ponieÊç.
+1. Obwinionemu, który w wyniku kasacji lub wznowienia postępowania został następnie uniewinniony albo wobec którego umorzono postępowanie wskutek okoliczności nieuwzględnionych we wcześniejszym postępowaniu, przysługuje od Skarbu Państwa odszkodowanie za poniesioną szkodę oraz zadośćuczynienie za doznaną krzywdę, wynikłą zwykonania względem niego wcałości lub części kary lub środka karnego, których nie powinien był ponieść.
 
-2. Odszkodowanie izadoÊçuczynienie przys∏uguje tak˝e osobie niewàtpliwie nies∏usznie zatrzymanej.
+2. Odszkodowanie izadośćuczynienie przysługuje także osobie niewątpliwie niesłusznie zatrzymanej.
 
-3. Wrazie Êmierci obwinionego, który ˝àdanie odszkodowania izadoÊçuczynienia zg∏osi∏ za ˝ycia, prawa jego przechodzà na ma∏˝onka, dzieci irodziców.
+3. Wrazie śmierci obwinionego, który żądanie odszkodowania izadośćuczynienia zgłosił za życia, prawa jego przechodzą na małżonka, dzieci irodziców.
 
 **Art. 115.**
 
-§ 1. Roszczenie oodszkodowanie izadoÊçuczynienie nale˝y zg∏osiç wsàdzie okr´gowym, wokr´gu którego wydano orzeczenie wpierwszej instancji lub wktórym nastàpi∏o zwolnienie zatrzymanego. 2. Roszczenia, októrych mowa w§ 1, przedawniajà si´ po up∏ywie 6 miesi´cy od daty uprawomocnienia si´ orzeczenia uniewinniajàcego lub umarzajàcego post´powanie, októrym mowa wart. 114 1, albo od daty zwolnienia zatrzymanego. 3. Wprzedmiocie roszczenia orzeka jednoosobowo wyrokiem sàd okr´gowy na rozprawie. Post´powanie wsprawie oodszkodowanie izadoÊçuczynienie za nies∏uszne ukaranie oraz za niewàtpliwie nies∏uszne zatrzymanie wolne jest od kosztów. 4. ˚àdajàcy odszkodowania mo˝e ustanowiç pe∏nomocnika, którym mo˝e byç adwokat lub radca prawny. Przepis art. 30 2 stosuje si´ odpowiednio.
+§ 1. Roszczenie oodszkodowanie izadośćuczynienie należy zgłosić wsądzie okręgowym, wokręgu którego wydano orzeczenie wpierwszej instancji lub wktórym nastąpiło zwolnienie zatrzymanego. 2. Roszczenia, októrych mowa w§ 1, przedawniają się po upływie 6 miesięcy od daty uprawomocnienia się orzeczenia uniewinniającego lub umarzającego postępowanie, októrym mowa wart. 114 1, albo od daty zwolnienia zatrzymanego. 3. Wprzedmiocie roszczenia orzeka jednoosobowo wyrokiem sąd okręgowy na rozprawie. Postępowanie wsprawie oodszkodowanie izadośćuczynienie za niesłuszne ukaranie oraz za niewątpliwie niesłuszne zatrzymanie wolne jest od kosztów. 4. ˚ądający odszkodowania może ustanowić pełnomocnika, którym może być adwokat lub radca prawny. Przepis art. 30 2 stosuje się odpowiednio.
 
-**Art. 116.** Przy rozpoznawaniu roszczeƒ oodszkodowanie oraz zadoÊçuczynienie stosuje si´ odpowiednio przepisy art. 553, 556 4 i art. 557—559 Kodeksu post´powania karnego. DZIA¸XIII Koszty post´powania
+**Art. 116.** Przy rozpoznawaniu roszczeń oodszkodowanie oraz zadośćuczynienie stosuje się odpowiednio przepisy art. 553, 556 4 i art. 557—559 Kodeksu postępowania karnego. DZIAĘXIII Koszty postępowania
 
 **Art. 117.**
 
-1. Wszelkie wydatki w toku post´powania w sprawach o wykroczenia wyk∏ada tymczasowo Skarb Paƒstwa.
+1. Wszelkie wydatki w toku postępowania w sprawach o wykroczenia wykłada tymczasowo Skarb Państwa.
 
-2. Koszty obroƒcy i pe∏nomocnika wyk∏ada strona, która go ustanowi∏a. Koszty obroƒcy wyznaczonego wsytuacji okreÊlonej wart. 21 1 iart. 22 wyk∏ada tymczasowo Skarb Paƒstwa.
+2. Koszty obrońcy i pełnomocnika wykłada strona, która go ustanowiła. Koszty obrońcy wyznaczonego wsytuacji określonej wart. 21 1 iart. 22 wykłada tymczasowo Skarb Państwa.
 
 **Art. 118.**
 
-§ 1. Wrazie skazania, obwinionego obciào ukaranie z∏o˝y∏ oskar˝yciel publiczny, koszty post´- okreÊli, wdrodze rozporzàdzenia, Minister Sprawiedlipowania ponosi Skarb Paƒstwa, agdy wniosek taki z∏o- woÊci, uwzgl´dniajàc realnie ponoszone koszty po˝y∏ oskar˝yciel posi∏kowy ten oskar˝yciel; w razie szczególnych czynnoÊci. jednak umorzenia post´powania w wypadku okreÊlonym w art. 31 1 koszty post´powania ponosi Skarb Art. 119. Do kosztów post´powania stosuje si´ Paƒstwa. odpowiednio przepisy art. 616, 618 1 i3, art. 623, 624 1, art. 625—627, 630, 633—635, 636 1 i 2, 3. Wydatki wyk∏adane przez Skarb Paƒstwa majà art. 637—639 i 641 Kodeksu post´powania karnego, charakter zrycza∏towany. Zrycza∏towane wydatki po- przy czym wydatkami Skarbu Paƒstwa sà tak˝e wydatst´powania nie obejmujà jednak nale˝noÊci dla osób, ki ponoszone wtoku czynnoÊci wyjaÊniajàcych. zak∏adów, instytutów iinstytucji powo∏anych do wydania opinii oraz nale˝noÊci ustanowionych z urz´du obroƒcy ipe∏nomocnika. Prezydent Rzeczypospolitej Polskiej:A. KwaÊniewski 1149 USTAWA zdnia 24 sierpnia 2001 r. Przepisy wprowadzajàce Kodeks post´powania wsprawach owykroczenia. Rozdzia∏ 1 Przepisy ogólne
+§ 1. Wrazie skazania, obwinionego obciąo ukaranie złożył oskarżyciel publiczny, koszty postę- określi, wdrodze rozporządzenia, Minister Sprawiedlipowania ponosi Skarb Państwa, agdy wniosek taki zło- wości, uwzględniając realnie ponoszone koszty pożył oskarżyciel posiłkowy ten oskarżyciel; w razie szczególnych czynności. jednak umorzenia postępowania w wypadku określonym w art. 31 1 koszty postępowania ponosi Skarb Art. 119. Do kosztów postępowania stosuje się Państwa. odpowiednio przepisy art. 616, 618 1 i3, art. 623, 624 1, art. 625—627, 630, 633—635, 636 1 i 2, 3. Wydatki wykładane przez Skarb Państwa mają art. 637—639 i 641 Kodeksu postępowania karnego, charakter zryczałtowany. Zryczałtowane wydatki po- przy czym wydatkami Skarbu Państwa są także wydatstępowania nie obejmują jednak należności dla osób, ki ponoszone wtoku czynności wyjaśniających. zakładów, instytutów iinstytucji powołanych do wydania opinii oraz należności ustanowionych z urzędu obrońcy ipełnomocnika. Prezydent Rzeczypospolitej Polskiej:A. Kwaśniewski 1149 USTAWA zdnia 24 sierpnia 2001 r. Przepisy wprowadzające Kodeks postępowania wsprawach owykroczenia.
 
-**Art. 1.** Kodeks post´powania wsprawach owykroczenia wchodzi w˝ycie zdniem 17 paêdziernika 2001 r.
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Kodeks postępowania wsprawach owykroczenia wchodzi wżycie zdniem 17 paêdziernika 2001 r.
 
 **Art. 2.**
 
-1. Zdniem wejÊcia w˝ycie Kodeksu post´powania wsprawach owykroczenia tracà moc dotychczasowe przepisy w kwestiach unormowanych w tym kodeksie, chyba ˝e przepisy niniejszej ustawy stanowià inaczej.
+1. Zdniem wejścia wżycie Kodeksu postępowania wsprawach owykroczenia tracą moc dotychczasowe przepisy w kwestiach unormowanych w tym kodeksie, chyba że przepisy niniejszej ustawy stanowią inaczej.
 
-2. WszczególnoÊci tracà moc:
+2. Wszczególności tracą moc:
 
-- **1)** ustawa z dnia 20 maja 1971 r. Kodeks post´powania w sprawach o wykroczenia (Dz. U. 12, poz. 116, z 1972 r. 49, poz. 312, z 1975 r. 16, poz. 91 i 45, poz. 234, z 1982 r. 16, poz. 125 i 45, poz. 291, z 1983 r. 6, poz. 35 i 44, poz. 203, z 1985 r. 23, poz. 100, z 1986 r. 39, poz. 193, z 1988 r. 20, poz. 135, z 1989 r. 34, poz. 180, z 1990 r. 20, poz. 121, 43, poz. 251 i 72, poz. 422, z 1991 r. 32, poz. 131 i 94, poz. 419, z 1992 r. 24, poz. 101, z 1994 r. 27, poz. 96, z 1995 r. 95, poz. 475, z 1997 r. 43, poz. 272, 102, poz. 643 i 123, poz. 779 oraz z1998 r. 113, poz. 717);
-- **2)** ustawa zdnia 20 maja 1971 r. Przepisy wprowadzajàce Kodeks post´powania w sprawach o wykroczenia (Dz. U. 12, poz. 117, z 1985 r. 23, poz. 100, z 1991 r. 73, poz. 321 i z 1997 r. 98, poz. 602);
-- **3)** ustawa zdnia 20 maja 1971 r. oustroju kolegiów do spraw wykroczeƒ (Dz. U. 12, poz. 118, z 1972 r. 32, poz. 131, z 1994 r. 27, poz. 96 i z 1998 r. Nr113, poz. 717).
+- **1)** ustawa z dnia 20 maja 1971 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. 12, poz. 116, z 1972 r. 49, poz. 312, z 1975 r. 16, poz. 91 i 45, poz. 234, z 1982 r. 16, poz. 125 i 45, poz. 291, z 1983 r. 6, poz. 35 i 44, poz. 203, z 1985 r. 23, poz. 100, z 1986 r. 39, poz. 193, z 1988 r. 20, poz. 135, z 1989 r. 34, poz. 180, z 1990 r. 20, poz. 121, 43, poz. 251 i 72, poz. 422, z 1991 r. 32, poz. 131 i 94, poz. 419, z 1992 r. 24, poz. 101, z 1994 r. 27, poz. 96, z 1995 r. 95, poz. 475, z 1997 r. 43, poz. 272, 102, poz. 643 i 123, poz. 779 oraz z1998 r. 113, poz. 717);
+- **2)** ustawa zdnia 20 maja 1971 r. Przepisy wprowadzające Kodeks postępowania w sprawach o wykroczenia (Dz. U. 12, poz. 117, z 1985 r. 23, poz. 100, z 1991 r. 73, poz. 321 i z 1997 r. 98, poz. 602);
+- **3)** ustawa zdnia 20 maja 1971 r. oustroju kolegiów do spraw wykroczeń (Dz. U. 12, poz. 118, z 1972 r. 32, poz. 131, z 1994 r. 27, poz. 96 i z 1998 r. Nr113, poz. 717).
 
-3. Pozostajà jednak wmocy przepisy ustaw wzakresie, w jakim uprawniajà one okreÊlone organy do Êcigania wykroczeƒ i wyst´powania w tych sprawach w charakterze oskar˝yciela publicznego oraz nak∏adania grzywien w drodze mandatu karnego. Organy te uprawnione sà tak˝e do prowadzenia czynnoÊci wyjaÊniajàcych, októrych mowa wKodeksie post´powania wsprawach owykroczenia.
+3. Pozostają jednak wmocy przepisy ustaw wzakresie, w jakim uprawniają one określone organy do ścigania wykroczeń i występowania w tych sprawach w charakterze oskarżyciela publicznego oraz nakładania grzywien w drodze mandatu karnego. Organy te uprawnione są także do prowadzenia czynności wyjaśniających, októrych mowa wKodeksie postępowania wsprawach owykroczenia.
 
 **Art. 3.**
 
-1. Je˝eli obowiàzujàce przepisy powo∏ujà si´ na uchylone przepisy dotyczàce przedmiotów unormowanych w Kodeksie post´powania w sprawach o wykroczenia albo odsy∏ajà ogólnie do przepisów o post´powaniu w sprawach o wykroczenia, stosuje si´ wtym zakresie odpowiednio przepisy Kodeksu post´powania w sprawach o wykroczenia, z zastrze˝eniem 2.
+1. Jeżeli obowiązujące przepisy powołują się na uchylone przepisy dotyczące przedmiotów unormowanych w Kodeksie postępowania w sprawach o wykroczenia albo odsyłają ogólnie do przepisów o postępowaniu w sprawach o wykroczenia, stosuje się wtym zakresie odpowiednio przepisy Kodeksu postępowania w sprawach o wykroczenia, z zastrzeżeniem 2.
 
-2. Przepisy ustawy, o której mowa w art. 2 2 pkt1, wymienione wart. 170 ustawy zdnia 26 listopada 1998 r. o finansach publicznych (Dz. U. 155, poz. 1014, z 1999 r. 38, poz. 360, 49, poz. 485, 70, poz. 778 i 110, poz. 1255, z 2000 r. 6, poz. 69, 12, poz. 136, 48, poz. 550, 95, poz. 1041, 119, poz. 1251 i 122, poz. 1315 oraz z2001 r. 45, poz. 497,Nr 46, poz. 499, 88, poz. 961, 98, poz. 1070, 100, poz. 1082 i 102, poz. 1116), stosuje si´ nadal wsprawach onaruszenie dyscypliny finansów publicznych, nie d∏u˝ej jednak ni˝ do dnia 31 grudnia 2003 r.
+2. Przepisy ustawy, o której mowa w art. 2 2 pkt1, wymienione wart. 170 ustawy zdnia 26 listopada 1998 r. o finansach publicznych (Dz. U. 155, poz. 1014, z 1999 r. 38, poz. 360, 49, poz. 485, 70, poz. 778 i 110, poz. 1255, z 2000 r. 6, poz. 69, 12, poz. 136, 48, poz. 550, 95, poz. 1041, 119, poz. 1251 i 122, poz. 1315 oraz z2001 r. 45, poz. 497,Nr 46, poz. 499, 88, poz. 961, 98, poz. 1070, 100, poz. 1082 i 102, poz. 1116), stosuje się nadal wsprawach onaruszenie dyscypliny finansów publicznych, nie dłużej jednak niż do dnia 31 grudnia 2003 r.
 
 **Art. 4.**
 
-1. Radcowie kolegiów do spraw wykroczeƒ
+1. Radcowie kolegiów do spraw wykroczeń
 
 

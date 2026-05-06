@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Trybuna∏ Konstytucyjny wsk∏adzie: Wojciech Hermeliƒski — przewodniczàcy, Adam Jamróz — sprawozdawca, Marek Kotlinowski, Ewa ¸´towska, Janusz Niemcewicz, umowy, niezale˝nie od wartoÊci przedmiotu zaskar˝enia, sà zgodne z art. 32 ust. 1, art.45 ust. 1 iart. 78 Konstytucji, orzeka:
+# Trybunał Konstytucyjny wskładzie: Wojciech Hermeliński — przewodniczący, Adam Jamróz — sprawozdawca, Marek Kotlinowski, Ewa Ęętowska, Janusz Niemcewicz, umowy, niezależnie od wartości przedmiotu zaskarżenia, są zgodne z art. 32 ust. 1, art.45 ust. 1 iart. 78 Konstytucji, orzeka:
 
 | Pole | Wartość |
 |---|---|
@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082281524) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1524/text.pdf) |
 
-Art. 18 ust. 2 w zwiàzku z art. 28 ustawy z dnia 28 lipca 2005 r. o kosztach sàdowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z 2006 r. Nr 126, poz. 876 oraz z2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 iNr 191, poz. 1371) w zakresie, w jakim stanowi, ˝e w post´powaniu uproszczonym pobiera si´ od apelacji op∏at´ sta∏à, liczonà jak od pozwu od wartoÊci przedmiotu sporu po rozpoznaniu, z udzia∏em Sejmu i Prokuratora lub wartoÊci przedmiotu umowy, niezale˝nie od Generalnego, na rozprawie wdniu 16 grudnia 2008 r., wartoÊci przedmiotu zaskar˝enia w apelacji, jest pytania prawnego Sàdu Okr´gowego wPoznaniu, czy niezgodny zart. 45 ust. 1iart. 78, wzwiàzku zart. 31 art. 18 ust. 2wzwiàzku zart. 28 ustawy zdnia 28 lipca ust. 3 Konstytucji Rzeczypospolitej Polskiej oraz jest 2005 r. o kosztach sàdowych w sprawach cywilnych zgodny zart. 32 ust. 1Konstytucji.
-(Dz. U. Nr 167, poz. 1398, ze zm.) w zakresie, w jakim stanowià, ˝e w post´powaniu uproszczonym pobiera Wojciech Hermeliƒski si´ od apelacji op∏at´ sta∏à jak od pozwu, liczonà od Adam Jamróz Marek Kotlinowski wartoÊci przedmiotu sporu lub wartoÊci przedmiotu Ewa ¸´towska Janusz Niemcewicz 1524 WYROK TRYBUNA¸U KONSTYTUCYJNEGO zdnia 16 grudnia 2008 r.
+Art. 18 ust. 2 w związku z art. 28 ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. Nr 167, poz. 1398, z 2006 r. Nr 126, poz. 876 oraz z2007 r. Nr 21, poz. 123, Nr 82, poz. 560, Nr 123, poz. 849, Nr 125, poz. 873 iNr 191, poz. 1371) w zakresie, w jakim stanowi, że w postępowaniu uproszczonym pobiera się od apelacji opłatę stałą, liczoną jak od pozwu od wartości przedmiotu sporu po rozpoznaniu, z udziałem Sejmu i Prokuratora lub wartości przedmiotu umowy, niezależnie od Generalnego, na rozprawie wdniu 16 grudnia 2008 r., wartości przedmiotu zaskarżenia w apelacji, jest pytania prawnego Sądu Okręgowego wPoznaniu, czy niezgodny zart. 45 ust. 1iart. 78, wzwiązku zart. 31 art. 18 ust. 2wzwiązku zart. 28 ustawy zdnia 28 lipca ust. 3 Konstytucji Rzeczypospolitej Polskiej oraz jest 2005 r. o kosztach sądowych w sprawach cywilnych zgodny zart. 32 ust. 1Konstytucji.
+(Dz. U. Nr 167, poz. 1398, ze zm.) w zakresie, w jakim stanowią, że w postępowaniu uproszczonym pobiera Wojciech Hermeliński się od apelacji opłatę stałą jak od pozwu, liczoną od Adam Jamróz Marek Kotlinowski wartości przedmiotu sporu lub wartości przedmiotu Ewa Ęętowska Janusz Niemcewicz 1524 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 16 grudnia 2008 r.
 sygn. akt P17/07
 

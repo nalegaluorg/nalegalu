@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ Warszawa, TREÂå: Poz.: USTAWY: 955 — zdnia 15 czerwca 2007 r. ozmianie ustawy ofinansowym w∏asnego mieszkania . . . . . . .
+# RZECZYPOSPOLITEJ Warszawa, TREÂå: Poz.: USTAWY: 955 — zdnia 15 czerwca 2007 r. ozmianie ustawy ofinansowym własnego mieszkania . . . . . . .
 
 | Pole | Wartość |
 |---|---|
@@ -25,9 +25,9 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071360955) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/955/text.pdf) |
 
 956 — zdnia 29 czerwca 2007 r. ozmianie ustawy omuzeach 957 — zdnia 29 czerwca 2007 r. ozmianie ustawy oKrajowym 958 — zdnia 29 czerwca 2007 r. ozmianie ustawy — 959 — zdnia 29 czerwca 2007 r. ozmianie ustawy — niektórych innych ustaw . . . . . .
-ROZPORZÑDZENIA RADY 960 — zdnia 24 lipca 2007 r. uchylajàce rozporzàdzenie ce rozporzàdzenie w sprawie podstawy programowej kszta∏cenia ogólnego wposzczególnych typach 961 — z dnia 24 lipca 2007 r. w sprawie ustalenia granic miejscowoÊciom statusu miasta . . .
-962 — z dnia 26 lipca 2007 r. w sprawie szczegó∏owych upraw roÊlin energetycznych oraz wyznaczenia kontrolujàcej te warunki . . . . . .
+ROZPORZÑDZENIA RADY 960 — zdnia 24 lipca 2007 r. uchylające rozporządzenie ce rozporządzenie w sprawie podstawy programowej kształcenia ogólnego wposzczególnych typach 961 — z dnia 24 lipca 2007 r. w sprawie ustalenia granic miejscowościom statusu miasta . . .
+962 — z dnia 26 lipca 2007 r. w sprawie szczegółowych upraw roślin energetycznych oraz wyznaczenia kontrolującej te warunki . . . . . .
 z dnia o zmianie ustawy o finansowym wsparciu
 
-**Art. 1.** Wustawie zdnia 8wrzeÊnia 2006 r. ofinansowym wsparciu rodzin w nabywaniu w∏asnego mieszkania (Dz. U. Nr 183, poz. 1354) w art. 2 otrzymuje brzmienie: „7) Êredni wskaênik przeliczeniowy kosztu odtworzenia 1 m powierzchni u˝ytkowej budynków mieszkalnych — iloczyn wspó∏czynnika 1,3 Êredniej arytmetycznej dwóch ostatnio og∏oszonych wartoÊci wskaênika, októrym mowa wart.2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 o ochronie praw lokatorów, mieszkaniowym ——————— Zmiany tekstu jednolitego wymienionej ustawy zosta∏y poz.602, Nr 167, poz. 1193 iNr 249, poz. 1833 oraz
+**Art. 1.** Wustawie zdnia 8września 2006 r. ofinansowym wsparciu rodzin w nabywaniu własnego mieszkania (Dz. U. Nr 183, poz. 1354) w art. 2 otrzymuje brzmienie: Ń7) średni wskaênik przeliczeniowy kosztu odtworzenia 1 m powierzchni użytkowej budynków mieszkalnych — iloczyn współczynnika 1,3 średniej arytmetycznej dwóch ostatnio ogłoszonych wartości wskaênika, októrym mowa wart.2 ust. 1 pkt 12 ustawy z dnia 21 czerwca 2001 o ochronie praw lokatorów, mieszkaniowym ——————— Zmiany tekstu jednolitego wymienionej ustawy zostały poz.602, Nr 167, poz. 1193 iNr 249, poz. 1833 oraz
 

@@ -24,2994 +24,3020 @@ domain: null
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041461546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1546/text.pdf) |
 
-DZIA¸ I Art. 2. Ilekroç w ustawie jest mowa o:
-1) prawie opublicznym obrocie papierami wartoÊcioPrzepisy ogólne wymi rozumie si´ przez to ustaw´ z dnia
+DZIAĘ I Art. 2. Ilekroć w ustawie jest mowa o:
+1) prawie opublicznym obrocie papierami wartościoPrzepisy ogólne wymi rozumie się przez to ustawę z dnia
 
-**Art. 1.** Ustawa okreÊla zasady tworzenia i dzia∏a- 21 sierpnia 1997 r. Prawo opublicznym obrocie nia funduszy inwestycyjnych majàcych siedzib´ na te- papierami wartoÊciowymi (Dz. U. z 2002 r. 49, rytorium Rzeczypospolitej Polskiej oraz zasady pro- poz. 447, z póên. zm. wadzenia na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊci przez fundusze zagraniczne ispó∏ki zarzàdzajàce. );
+**Art. 1.** Ustawa określa zasady tworzenia i działa- 21 sierpnia 1997 r. Prawo opublicznym obrocie nia funduszy inwestycyjnych mających siedzibę na te- papierami wartościowymi (Dz. U. z 2002 r. 49, rytorium Rzeczypospolitej Polskiej oraz zasady pro- poz. 447, z póên. zm. wadzenia na terytorium Rzeczypospolitej Polskiej działalności przez fundusze zagraniczne ispółki zarządzające. );
 
 **Art. 3.**
 
-1. Fundusz inwestycyjny jest osobà prawnà, której wy∏àcznym przedmiotem dzia∏alnoÊci jest lokowanie Êrodków pieni´˝nych zebranych w drodze publicznego, awprzypadkach okreÊlonych wustawie równie˝ niepublicznego, proponowania nabycia jednostek uczestnictwa albo certyfikatów inwestycyjnych, w okreÊlone w ustawie papiery wartoÊciowe, instrumenty rynku pieni´˝nego iinne prawa majàtkowe.
+1. Fundusz inwestycyjny jest osobą prawną, której wyłącznym przedmiotem działalności jest lokowanie środków pieniężnych zebranych w drodze publicznego, awprzypadkach określonych wustawie również niepublicznego, proponowania nabycia jednostek uczestnictwa albo certyfikatów inwestycyjnych, w określone w ustawie papiery wartościowe, instrumenty rynku pieniężnego iinne prawa majątkowe.
 
-2. Przez publiczne proponowanie nabycia, o którym mowa w ust. 1, rozumie si´ proponowanie nabycia wsposób okreÊlony wart. 2 ust. 1 prawa opublicznym obrocie papierami wartoÊciowymi.
+2. Przez publiczne proponowanie nabycia, o którym mowa w ust. 1, rozumie się proponowanie nabycia wsposób określony wart. 2 ust. 1 prawa opublicznym obrocie papierami wartościowymi.
 
-3. Fundusz inwestycyjny prowadzi dzia∏alnoÊç, ze szczególnym uwzgl´dnieniem interesu uczestników, przestrzegajàc zasad ograniczania ryzyka inwestycyjnego okreÊlonych w ustawie.
+3. Fundusz inwestycyjny prowadzi działalność, ze szczególnym uwzględnieniem interesu uczestników, przestrzegając zasad ograniczania ryzyka inwestycyjnego określonych w ustawie.
 
 **Art. 4.**
 
-1. Towarzystwo tworzy fundusz inwestycyjny, zarzàdza nim i reprezentuje fundusz w stosunkach z osobami trzecimi.
+1. Towarzystwo tworzy fundusz inwestycyjny, zarządza nim i reprezentuje fundusz w stosunkach z osobami trzecimi.
 
 2. Organem funduszu inwestycyjnego jest towarzystwo, utworzone zgodnie z przepisami ustawy.
 
-3. W przypadkach i na warunkach okreÊlonych w ustawie w funduszu inwestycyjnym, jako jego organ, dzia∏ajà równie˝ rada inwestorów lub zgromadzenie inwestorów.
+3. W przypadkach i na warunkach określonych w ustawie w funduszu inwestycyjnym, jako jego organ, działają również rada inwestorów lub zgromadzenie inwestorów.
 
-4. Fundusz nie jest podmiotem zale˝nym od towarzystwa nim zarzàdzajàcego ani od osoby posiadajàcej bezpoÊrednio lub poÊrednio wi´kszoÊç g∏osów wzgromadzeniu inwestorów lub wradzie inwestorów.
+4. Fundusz nie jest podmiotem zależnym od towarzystwa nim zarządzającego ani od osoby posiadającej bezpośrednio lub pośrednio większość głosów wzgromadzeniu inwestorów lub wradzie inwestorów.
 
-**Art. 5.** Siedzibà i adresem funduszu inwestycyjnego jest siedziba i adres towarzystwa b´dàcego jego organem.
+**Art. 5.** Siedzibą i adresem funduszu inwestycyjnego jest siedziba i adres towarzystwa będącego jego organem.
 
 **Art. 6.**
 
-1. Uczestnikami funduszu inwestycyjnego sà osoby fizyczne, osoby prawne ijednostki organizacyjne nieposiadajàce osobowoÊci prawnej:
+1. Uczestnikami funduszu inwestycyjnego są osoby fizyczne, osoby prawne ijednostki organizacyjne nieposiadające osobowości prawnej:
 
-- **1)** na rzecz których wrejestrze uczestników funduszu sà zapisane jednostki uczestnictwa lub ich u∏amkowe cz´Êci albo
-- **2)** b´dàce posiadaczami rachunku papierów wartoÊciowych, na którym sà zapisane certyfikaty inwestycyjne dopuszczone do publicznego obrotu, albo
-- **3)** w przypadku niepodlegajàcych wprowadzeniu do publicznego obrotu certyfikatów inwestycyjnych funduszu inwestycyjnego zamkni´tego:
+- **1)** na rzecz których wrejestrze uczestników funduszu są zapisane jednostki uczestnictwa lub ich ułamkowe części albo
+- **2)** będące posiadaczami rachunku papierów wartościowych, na którym są zapisane certyfikaty inwestycyjne dopuszczone do publicznego obrotu, albo
+- **3)** w przypadku niepodlegających wprowadzeniu do publicznego obrotu certyfikatów inwestycyjnych funduszu inwestycyjnego zamkniętego:
     - **a)** osoby uprawnione z certyfikatów inwestycyjnych w formie dokumentu,
-    - **b)** osoby wskazane w ewidencji uczestników funduszu jako posiadacze certyfikatów inwestycyjnych, które nie majà formy dokumentu.
+    - **b)** osoby wskazane w ewidencji uczestników funduszu jako posiadacze certyfikatów inwestycyjnych, które nie mają formy dokumentu.
 
-2. Jednostki uczestnictwa lub certyfikaty inwestycyjne reprezentujà prawa majàtkowe uczestników funduszu, okreÊlone ustawà istatutem funduszu inwestycyjnego.
+2. Jednostki uczestnictwa lub certyfikaty inwestycyjne reprezentują prawa majątkowe uczestników funduszu, określone ustawą istatutem funduszu inwestycyjnego.
 
-3. Uczestnicy funduszu nie odpowiadajà za zobowiàzania funduszu.
+3. Uczestnicy funduszu nie odpowiadają za zobowiązania funduszu.
 
 **Art. 7.**
 
-1. Wp∏aty do funduszu inwestycyjnego sà dokonywane w formie pieni´˝nej.
+1. Wpłaty do funduszu inwestycyjnego są dokonywane w formie pieniężnej.
 
-2. Do funduszu inwestycyjnego mogà byç wniesione:
+2. Do funduszu inwestycyjnego mogą być wniesione:
 
-- **1)** papiery wartoÊciowe dopuszczone do publicznego obrotu je˝eli statut funduszu tak stanowi, lub
-- **2)** papiery wartoÊciowe niedopuszczone do publicznego obrotu, lub udzia∏y w spó∏kach z ograniczonà odpowiedzialnoÊcià je˝eli ustawa oraz statut funduszu tak stanowià.
+- **1)** papiery wartościowe dopuszczone do publicznego obrotu jeżeli statut funduszu tak stanowi, lub
+- **2)** papiery wartościowe niedopuszczone do publicznego obrotu, lub udziały w spółkach z ograniczoną odpowiedzialnością jeżeli ustawa oraz statut funduszu tak stanowią.
 
-3. Do papierów wartoÊciowych, o których mowa w ust. 2 pkt 1, nie stosuje si´ wymogu dokonywania obrotu na rynku regulowanym, okreÊlonego w art. 5 ust. 1 pkt 2 prawa o publicznym obrocie papierami
+3. Do papierów wartościowych, o których mowa w ust. 2 pkt 1, nie stosuje się wymogu dokonywania obrotu na rynku regulowanym, określonego w art. 5 ust. 1 pkt 2 prawa o publicznym obrocie papierami
 
-4. Ilekroç w ustawie jest mowa o wp∏atach, rozumie si´ przez to równie˝ wniesienie do funduszu papierów wartoÊciowych lub udzia∏ów wspó∏kach zograniczonà odpowiedzialnoÊcià, októrych mowa wust. 2.
+4. Ilekroć w ustawie jest mowa o wpłatach, rozumie się przez to również wniesienie do funduszu papierów wartościowych lub udziałów współkach zograniczoną odpowiedzialnością, októrych mowa wust. 2.
 
 **Art. 8.**
 
-1. Fundusz inwestycyjny dokonuje wyceny aktywów funduszu, ustalenia wartoÊci aktywów netto oraz wartoÊci aktywów netto przypadajàcych na jednostk´ uczestnictwa lub certyfikat inwestycyjny.
+1. Fundusz inwestycyjny dokonuje wyceny aktywów funduszu, ustalenia wartości aktywów netto oraz wartości aktywów netto przypadających na jednostkę uczestnictwa lub certyfikat inwestycyjny.
 
-2. WartoÊç aktywów netto funduszu ustala si´ pomniejszajàc wartoÊç aktywów funduszu o jego zobowiàzania.
+2. Wartość aktywów netto funduszu ustala się pomniejszając wartość aktywów funduszu o jego zobowiązania.
 
-**Art. 9.** Depozytariusz wykonuje obowiàzki okreÊlone w ustawie, w szczególnoÊci polegajàce na prowadzeniu rejestru aktywów funduszu inwestycyjnego.
+**Art. 9.** Depozytariusz wykonuje obowiązki określone w ustawie, w szczególności polegające na prowadzeniu rejestru aktywów funduszu inwestycyjnego.
 
-**Art. 10.** Towarzystwo i depozytariusz dzia∏ajà niezale˝nie i w interesie uczestników funduszu inwestycyjnego. wartoÊciowymi.
+**Art. 10.** Towarzystwo i depozytariusz działają niezależnie i w interesie uczestników funduszu inwestycyjnego. wartościowymi.
 
-**Art. 11.** W przypadku papierów wartoÊciowych emitowanych za granicà poj´cie „papiery wartoÊciowe” ma w ustawie takie znaczenie, jakie nadajà mu przepisy paƒstwa, w którym zosta∏y wyemitowane, lub paƒstwa, w którym emitent ma siedzib´.
+**Art. 11.** W przypadku papierów wartościowych emitowanych za granicą pojęcie Ńpapiery wartościowe” ma w ustawie takie znaczenie, jakie nadają mu przepisy państwa, w którym zostały wyemitowane, lub państwa, w którym emitent ma siedzibę.
 
-**Art. 12.** Do instrumentów pochodnych b´dàcych przedmiotem umów zawartych przez fundusz inwestycyjny nie stosuje si´ przepisów ustawy zdnia 29 lipca 1992 r. o grach i zak∏adach wzajemnych (Dz. U. z 2004 r. 4, poz. 27) oraz art. 413 Kodeksu cywilnego.
+**Art. 12.** Do instrumentów pochodnych będących przedmiotem umów zawartych przez fundusz inwestycyjny nie stosuje się przepisów ustawy zdnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. 4, poz. 27) oraz art. 413 Kodeksu cywilnego.
 
 **Art. 13.**
 
-1. Aktywa funduszu inwestycyjnego mogà byç wyceniane, a zobowiàzania ustalane w walucie obcej, okreÊlonej w statucie funduszu, je˝eli zgodnie ze swojà politykà inwestycyjnà fundusz lokuje co najmniej 50 % wartoÊci swoich aktywów w papiery wartoÊciowe lub w instrumenty rynku pieni´˝nego:
+1. Aktywa funduszu inwestycyjnego mogą być wyceniane, a zobowiązania ustalane w walucie obcej, określonej w statucie funduszu, jeżeli zgodnie ze swoją polityką inwestycyjną fundusz lokuje co najmniej 50 % wartości swoich aktywów w papiery wartościowe lub w instrumenty rynku pieniężnego:
 
-- **1)** nabyte poza granicami Rzeczypospolitej Polskiej za t´ walut´ obcà lub
+- **1)** nabyte poza granicami Rzeczypospolitej Polskiej za tę walutę obcą lub
 - **2)** denominowane w tej walucie obcej.
 
-2. W przypadku, o którym mowa w ust. 1, do funduszu nie majà zastosowania przepisy art. 9 oraz art. 45 ustawy o rachunkowoÊci w zakresie odnoszàcym si´ do waluty obcej.
+2. W przypadku, o którym mowa w ust. 1, do funduszu nie mają zastosowania przepisy art. 9 oraz art. 45 ustawy o rachunkowości w zakresie odnoszącym się do waluty obcej.
 
-3. W przypadku, o którym mowa w ust. 1, wp∏aty do funduszu i wyp∏aty kwot nale˝nych uczestnikom z tytu∏u odkupienia jednostek uczestnictwa mogà byç dokonywane w tej walucie obcej. DZIA¸ II Tworzenie i funkcjonowanie funduszy inwestycyjnych
+3. W przypadku, o którym mowa w ust. 1, wpłaty do funduszu i wypłaty kwot należnych uczestnikom z tytułu odkupienia jednostek uczestnictwa mogą być dokonywane w tej walucie obcej. DZIAĘ II Tworzenie i funkcjonowanie funduszy inwestycyjnych
 
 **Art. 14.**
 
-1. Fundusz inwestycyjny mo˝e byç utworzony wy∏àcznie przez towarzystwo, po uzyskaniu zezwolenia Komisji.
+1. Fundusz inwestycyjny może być utworzony wyłącznie przez towarzystwo, po uzyskaniu zezwolenia Komisji.
 
-2. Towarzystwo mo˝e utworzyç wi´cej ni˝ jeden fundusz inwestycyjny.
+2. Towarzystwo może utworzyć więcej niż jeden fundusz inwestycyjny.
 
-3. Fundusz inwestycyjny mo˝e byç utworzony jako:
+3. Fundusz inwestycyjny może być utworzony jako:
 
 - **1)** fundusz inwestycyjny otwarty;
 - **2)** specjalistyczny fundusz inwestycyjny otwarty;
-- **3)** fundusz inwestycyjny zamkni´ty.
+- **3)** fundusz inwestycyjny zamknięty.
 
-4. Oznaczenia „fundusz inwestycyjny”, skrótu tego oznaczenia lub skrótów, o których mowa w ust. 6, ma prawo i obowiàzek u˝ywaç w nazwie, reklamie lub informacji reklamowej lub do okreÊlenia wykonywanej przez siebie dzia∏alnoÊci gospodarczej jedynie fundusz inwestycyjny utworzony zgodnie zustawà. Ograniczenie to nie dotyczy narodowych funduszy inwestycyjnych utworzonych zgodnie zustawà zdnia 30 kwietnia 1993 r. onarodowych funduszach inwestycyjnych iich prywatyzacji (Dz. U. 44, poz. 202, z póên. zm. ).
+4. Oznaczenia Ńfundusz inwestycyjny”, skrótu tego oznaczenia lub skrótów, o których mowa w ust. 6, ma prawo i obowiązek używać w nazwie, reklamie lub informacji reklamowej lub do określenia wykonywanej przez siebie działalności gospodarczej jedynie fundusz inwestycyjny utworzony zgodnie zustawą. Ograniczenie to nie dotyczy narodowych funduszy inwestycyjnych utworzonych zgodnie zustawą zdnia 30 kwietnia 1993 r. onarodowych funduszach inwestycyjnych iich prywatyzacji (Dz. U. 44, poz. 202, z póên. zm. ).
 
-5. Nazwa funduszu inwestycyjnego powinna za3. Wp∏aty do funduszu inwestycyjnego sà zbierane w drodze zapisów.
+5. Nazwa funduszu inwestycyjnego powinna za3. Wpłaty do funduszu inwestycyjnego są zbierane w drodze zapisów.
 
-4. W przypadku funduszu inwestycyjnego zamkni´tego, którego certyfikaty nie podlegajà wprowadzeniu do publicznego obrotu, ∏àcznà minimalnà wysokoÊç wp∏at do funduszu oraz sposób zbierania wp∏at okreÊla statut tego funduszu.
+4. W przypadku funduszu inwestycyjnego zamkniętego, którego certyfikaty nie podlegają wprowadzeniu do publicznego obrotu, łączną minimalną wysokość wpłat do funduszu oraz sposób zbierania wpłat określa statut tego funduszu.
 
-5. Towarzystwo, tworzàc fundusz inwestycyjny, mo˝e przeprowadziç zapisy, o których mowa w ust. 3, przez dokonanie wp∏at przez towarzystwo lub jego akcjonariuszy.
+5. Towarzystwo, tworząc fundusz inwestycyjny, może przeprowadzić zapisy, o których mowa w ust. 3, przez dokonanie wpłat przez towarzystwo lub jego akcjonariuszy.
 
-6. Fundusz inwestycyjny nabywa osobowoÊç prawnà z chwilà wpisu do rejestru funduszy inwestycyjnych. Z tà chwilà towarzystwo staje si´ organem funduszu inwestycyjnego.
+6. Fundusz inwestycyjny nabywa osobowość prawną z chwilą wpisu do rejestru funduszy inwestycyjnych. Z tą chwilą towarzystwo staje się organem funduszu inwestycyjnego.
 
 **Art. 16.**
 
-1. Rejestr funduszy inwestycyjnych prowadzi Sàd Okr´gowy w Warszawie, zwany dalej „sàdem rejestrowym”. wieraç okreÊlenie rodzaju funduszu inwestycyjnego, 2. Rejestr funduszy inwestycyjnych jest jawny. zgodnie z ust. 3.
+1. Rejestr funduszy inwestycyjnych prowadzi Sąd Okręgowy w Warszawie, zwany dalej Ńsądem rejestrowym”. wierać określenie rodzaju funduszu inwestycyjnego, 2. Rejestr funduszy inwestycyjnych jest jawny. zgodnie z ust. 3.
 
-3. Minister SprawiedliwoÊci okreÊli, w drodze roz6. Je˝eli statut funduszu inwestycyjnego tak stano- porzàdzenia, sposób prowadzenia rejestru funduszy wi, fundusz inwestycyjny mo˝e zamiast oznaczenia ro- inwestycyjnych, wzór tego rejestru oraz szczegó∏owy dzaju funduszu, zgodnie zust. 3, u˝ywaç wnazwie na- tryb post´powania wsprawach owpis do rejestru funst´pujàcego skrótu: duszy inwestycyjnych, majàc na wzgl´dzie koniecz1) „fio” w przypadku funduszu inwestycyjnego noÊç zapewnienia zgodnoÊci danych ujawnionych otwartego; w rejestrze ze stanem faktycznym i prawnym. Rejestr powinien zawieraç aktualne informacje dotyczàce
+3. Minister Sprawiedliwości określi, w drodze roz6. Jeżeli statut funduszu inwestycyjnego tak stano- porządzenia, sposób prowadzenia rejestru funduszy wi, fundusz inwestycyjny może zamiast oznaczenia ro- inwestycyjnych, wzór tego rejestru oraz szczegółowy dzaju funduszu, zgodnie zust. 3, używać wnazwie na- tryb postępowania wsprawach owpis do rejestru funstępującego skrótu: duszy inwestycyjnych, mając na względzie koniecz1) Ńfio” w przypadku funduszu inwestycyjnego ność zapewnienia zgodności danych ujawnionych otwartego; w rejestrze ze stanem faktycznym i prawnym. Rejestr powinien zawierać aktualne informacje dotyczące
 
-- **2)** „sfio” w przypadku specjalistycznego funduszu wszczególnoÊci rodzaju funduszu inwestycyjnego, jeinwestycyjnego otwartego; go organów i statutu oraz celu inwestycyjnego, a tak3) „fiz” wprzypadku funduszu inwestycyjnego za- ˝e zmian sytuacji prawnej i organizacyjnej funduszu mkni´tego. inwestycyjnego.
+- **2)** Ńsfio” w przypadku specjalistycznego funduszu wszczególności rodzaju funduszu inwestycyjnego, jeinwestycyjnego otwartego; go organów i statutu oraz celu inwestycyjnego, a tak3) Ńfiz” wprzypadku funduszu inwestycyjnego za- że zmian sytuacji prawnej i organizacyjnej funduszu mkniętego. inwestycyjnego.
 
 **Art. 15.**
 
 1. Utworzenie funduszu inwestycyjnego Art. 17. 1. Wpis do rejestru funduszy inwestycyjwymaga: nych obejmuje:
 
-- **1)** nadania funduszowi inwestycyjnemu statutu przez 1) nazw´ i rodzaj funduszu inwestycyjnego; towarzystwo; 2) cel inwestycyjny;
+- **1)** nadania funduszowi inwestycyjnemu statutu przez 1) nazwę i rodzaj funduszu inwestycyjnego; towarzystwo; 2) cel inwestycyjny;
 - **2)** zawarcia przez towarzystwo umowy zdepozytariuszem o prowadzenie rejestru aktywów funduszu inwestycyjnego;
-- **3)** wydania zezwolenia przez Komisj´;
-- **4)** zebrania wp∏at do funduszu inwestycyjnego wwysokoÊci okreÊlonej w jego statucie;
+- **3)** wydania zezwolenia przez Komisję;
+- **4)** zebrania wpłat do funduszu inwestycyjnego wwysokości określonej w jego statucie;
 - **5)** wpisania funduszu inwestycyjnego do rejestru funduszy inwestycyjnych.
 
-2. ¸àczna wysokoÊç wp∏at, o których mowa w ust. 1 pkt 4, nie mo˝e byç ni˝sza ni˝ 4 000 000 z∏.
+2. Ęączna wysokość wpłat, o których mowa w ust. 1 pkt 4, nie może być niższa niż 4 000 000 zł.
 
-- **3)** czas trwania funduszu inwestycyjnego, je˝eli jest ograniczony;
-- **4)** firm´, siedzib´ i adres towarzystwa tworzàcego fundusz inwestycyjny, sposób reprezentowania towarzystwa oraz numer wpisu towarzystwa do rejestru przedsi´biorców wraz z oznaczeniem sàdu prowadzàcego rejestr;
-- **5)** list´ cz∏onków zarzàdu towarzystwa oraz pe∏nomocników, którym udzielono pe∏nomocnictwa ogólnego do reprezentowania funduszu inwestycyjnego;
-- **6)** firm´, siedzib´ i adres depozytariusza.
+- **3)** czas trwania funduszu inwestycyjnego, jeżeli jest ograniczony;
+- **4)** firmę, siedzibę i adres towarzystwa tworzącego fundusz inwestycyjny, sposób reprezentowania towarzystwa oraz numer wpisu towarzystwa do rejestru przedsiębiorców wraz z oznaczeniem sądu prowadzącego rejestr;
+- **5)** listę członków zarządu towarzystwa oraz pełnomocników, którym udzielono pełnomocnictwa ogólnego do reprezentowania funduszu inwestycyjnego;
+- **6)** firmę, siedzibę i adres depozytariusza.
 
-2. W razie zmiany danych wymienionych w ust. 1, fundusz inwestycyjny sk∏ada niezw∏ocznie wniosek ——————— o ich wpisanie do rejestru funduszy inwestycyjnych.
+2. W razie zmiany danych wymienionych w ust. 1, fundusz inwestycyjny składa niezwłocznie wniosek ——————— o ich wpisanie do rejestru funduszy inwestycyjnych.
 
-3. Wpisanie zmian zwiàzanych z przej´ciem zarzà- 14) rodzaje, maksymalnà wysokoÊç, sposób kalkulacji dzania funduszem inwestycyjnym przez inne towarzy- i naliczania kosztów obcià˝ajàcych fundusz inwestwo mo˝e nastàpiç po okazaniu: stycyjny, w tym w szczególnoÊci wynagrodzenie towarzystwa, oraz terminy, w których najwcze1) zezwolenia Komisji na odpowiednià zmian´ statu- Êniej mo˝e nastàpiç pokrycie poszczególnych rotu funduszu inwestycyjnego; dzajów kosztów;
+3. Wpisanie zmian związanych z przejęciem zarzą- 14) rodzaje, maksymalną wysokość, sposób kalkulacji dzania funduszem inwestycyjnym przez inne towarzy- i naliczania kosztów obciążających fundusz inwestwo może nastąpić po okazaniu: stycyjny, w tym w szczególności wynagrodzenie towarzystwa, oraz terminy, w których najwcze1) zezwolenia Komisji na odpowiednią zmianę statu- śniej może nastąpić pokrycie poszczególnych rotu funduszu inwestycyjnego; dzajów kosztów;
 
-- **2)** informacji o braku zastrze˝eƒ Prezesa Urz´du 15) cz´stotliwoÊç oraz metody i zasady dokonywania Ochrony Konkurencji i Konsumentów w odniesie- wyceny aktywów funduszu inwestycyjnego, ustaniu do przej´cia zarzàdzania funduszem inwesty- lania wartoÊci aktywów netto funduszu inwestycyjnym. cyjnego oraz wartoÊci aktywów netto przypadajàcych na jednostk´ uczestnictwa albo certyfikat inArt. 18.1. Statut funduszu inwestycyjnego sporzà- westycyjny; dza si´ w formie aktu notarialnego.
-- **16)** minimalnà wysokoÊç wp∏aty do funduszu inwesty2. Statut okreÊla: cyjnego otwartego;
-- **1)** nazw´ i rodzaj funduszu inwestycyjnego; 17) inne ni˝ wynikajàce z ustawy prawa uczestników
-- **2)** firm´, siedzib´ i adres towarzystwa; funduszu inwestycyjnego;
-- **3)** organy funduszu inwestycyjnego isposób jego re- 18) sposób udost´pniania informacji o funduszu inprezentacji; westycyjnym do publicznej wiadomoÊci;
-- **4)** firm´, siedzib´ i adres depozytariusza; 19) sposób og∏aszania zmian statutu;
-- **5)** firm´ (nazw´), siedzib´ iadres podmiotu, któremu 20) inne ni˝ wynikajàce z ustawy przyczyny rozwiàzatowarzystwo powierzy∏o wykonywanie obowiàz- nia funduszu inwestycyjnego. ków, o których mowa w art. 46 ust. 1—3;
+- **2)** informacji o braku zastrzeżeń Prezesa Urzędu 15) częstotliwość oraz metody i zasady dokonywania Ochrony Konkurencji i Konsumentów w odniesie- wyceny aktywów funduszu inwestycyjnego, ustaniu do przejęcia zarządzania funduszem inwesty- lania wartości aktywów netto funduszu inwestycyjnym. cyjnego oraz wartości aktywów netto przypadających na jednostkę uczestnictwa albo certyfikat inArt. 18.1. Statut funduszu inwestycyjnego sporzą- westycyjny; dza się w formie aktu notarialnego.
+- **16)** minimalną wysokość wpłaty do funduszu inwesty2. Statut określa: cyjnego otwartego;
+- **1)** nazwę i rodzaj funduszu inwestycyjnego; 17) inne niż wynikające z ustawy prawa uczestników
+- **2)** firmę, siedzibę i adres towarzystwa; funduszu inwestycyjnego;
+- **3)** organy funduszu inwestycyjnego isposób jego re- 18) sposób udostępniania informacji o funduszu inprezentacji; westycyjnym do publicznej wiadomości;
+- **4)** firmę, siedzibę i adres depozytariusza; 19) sposób ogłaszania zmian statutu;
+- **5)** firmę (nazwę), siedzibę iadres podmiotu, któremu 20) inne niż wynikające z ustawy przyczyny rozwiązatowarzystwo powierzyło wykonywanie obowiąz- nia funduszu inwestycyjnego. ków, o których mowa w art. 46 ust. 1—3;
 
 **Art. 19.**
 
-1. Celami inwestycyjnymi funduszy inwe6) czas trwania funduszu inwestycyjnego, je˝eli jest stycyjnych, o których mowa w art. 14 ust. 3 pkt 1 i 2, ograniczony; mogà byç wy∏àcznie:
+1. Celami inwestycyjnymi funduszy inwe6) czas trwania funduszu inwestycyjnego, jeżeli jest stycyjnych, o których mowa w art. 14 ust. 3 pkt 1 i 2, ograniczony; mogą być wyłącznie:
 
-- **7)** ∏àcznà wysokoÊç wp∏at do funduszu inwestycyjne- 1) ochrona realnej wartoÊci aktywów funduszu inwego, ustalonà zgodnie z art. 15 ust. 2 lub ust. 4; stycyjnego lub
-- **8)** typy papierów wartoÊciowych dopuszczonych do 2) osiàganie przychodów z lokat netto funduszu inpublicznego obrotu oraz ich rodzaje, które mogà westycyjnego, lub byç przedmiotem wp∏at, aje˝eli przedmiotem tych wp∏at mogà byç wy∏àcznie papiery wartoÊciowe 3) wzrost wartoÊci aktywów funduszu inwestycyjneokreÊlonego emitenta tak˝e nazw´ (firm´) tego go w wyniku wzrostu wartoÊci lokat. emitenta, terminy przyjmowania wp∏at papierami wartoÊciowymi oraz zasady wyceny papierów 2. Przy okreÊlaniu celu inwestycyjnego nale˝y wartoÊciowych b´dàcych przedmiotem wp∏at; w statucie zastrzec, ˝e fundusz inwestycyjny nie gwarantuje jego osiàgni´cia.
-- **9)** typy papierów wartoÊciowych niedopuszczonych do publicznego obrotu oraz ich rodzaje, a tak˝e Art. 20. 1. Zasady polityki inwestycyjnej funduszu udzia∏y wspó∏kach zograniczonà odpowiedzialno- inwestycyjnego okreÊlajà sposoby osiàgania celu inÊcià, które mogà byç przedmiotem wp∏at na obj´- westycyjnego, a w szczególnoÊci: cie certyfikatów inwestycyjnych w przypadku funduszu inwestycyjnego zamkni´tego; 1) typy i rodzaje papierów wartoÊciowych i innych praw majàtkowych b´dàcych przedmiotem lokat
+- **7)** łączną wysokość wpłat do funduszu inwestycyjne- 1) ochrona realnej wartości aktywów funduszu inwego, ustaloną zgodnie z art. 15 ust. 2 lub ust. 4; stycyjnego lub
+- **8)** typy papierów wartościowych dopuszczonych do 2) osiąganie przychodów z lokat netto funduszu inpublicznego obrotu oraz ich rodzaje, które mogą westycyjnego, lub być przedmiotem wpłat, ajeżeli przedmiotem tych wpłat mogą być wyłącznie papiery wartościowe 3) wzrost wartości aktywów funduszu inwestycyjneokreślonego emitenta także nazwę (firmę) tego go w wyniku wzrostu wartości lokat. emitenta, terminy przyjmowania wpłat papierami wartościowymi oraz zasady wyceny papierów 2. Przy określaniu celu inwestycyjnego należy wartościowych będących przedmiotem wpłat; w statucie zastrzec, że fundusz inwestycyjny nie gwarantuje jego osiągnięcia.
+- **9)** typy papierów wartościowych niedopuszczonych do publicznego obrotu oraz ich rodzaje, a także Art. 20. 1. Zasady polityki inwestycyjnej funduszu udziały współkach zograniczoną odpowiedzialno- inwestycyjnego określają sposoby osiągania celu inścią, które mogą być przedmiotem wpłat na obję- westycyjnego, a w szczególności: cie certyfikatów inwestycyjnych w przypadku funduszu inwestycyjnego zamkniętego; 1) typy i rodzaje papierów wartościowych i innych praw majątkowych będących przedmiotem lokat
 - **10)** cel inwestycyjny funduszu inwestycyjnego albo funduszu; subfunduszy;
 - **2)** kryteria doboru lokat;
 - **11)** zasady polityki inwestycyjnej funduszu inwestycyjnego; 3) zasady dywersyfikacji lokat i inne ograniczenia inwestycyjne;
-- **12)** zasady wyp∏acania dochodów funduszu inwestycyjnego uczestnikom funduszu, w przypadku gdy 4) dopuszczalnà wysokoÊç kredytów ipo˝yczek zaciàstatut przewiduje wyp∏acanie tych dochodów bez ganych przez fundusz. odkupywania jednostek uczestnictwa;
+- **12)** zasady wypłacania dochodów funduszu inwestycyjnego uczestnikom funduszu, w przypadku gdy 4) dopuszczalną wysokość kredytów ipożyczek zaciąstatut przewiduje wypłacanie tych dochodów bez ganych przez fundusz. odkupywania jednostek uczestnictwa;
 
-2. Je˝eli fundusz inwestycyjny przekroczy ograni13) zasady wyp∏acania uczestnikom funduszu inwe- czenia inwestycyjne okreÊlone w statucie, jest obostycyjnego zamkni´tego dochodów funduszu wiàzany do niezw∏ocznego dostosowania stanu swow przypadku gdy statut funduszu przewiduje wyp∏acanie tych dochodów; ich aktywów do wymagaƒ okreÊlonych w statucie, uwzgl´dniajàc interes uczestników funduszu.
+2. Jeżeli fundusz inwestycyjny przekroczy ograni13) zasady wypłacania uczestnikom funduszu inwe- czenia inwestycyjne określone w statucie, jest obostycyjnego zamkniętego dochodów funduszu wiązany do niezwłocznego dostosowania stanu swow przypadku gdy statut funduszu przewiduje wypłacanie tych dochodów; ich aktywów do wymagań określonych w statucie, uwzględniając interes uczestników funduszu.
 
-**Art. 21.** Dochodami funduszu inwestycyjnego sà przychody z lokat netto funduszu inwestycyjnego lub zrealizowany zysk (strata) ze zbycia lokat.
+**Art. 21.** Dochodami funduszu inwestycyjnego są przychody z lokat netto funduszu inwestycyjnego lub zrealizowany zysk (strata) ze zbycia lokat.
 
-**Art. 22.** Do wniosku towarzystwa o wydanie zezwolenia na utworzenie funduszu inwestycyjnego za∏àcza si´:
+**Art. 22.** Do wniosku towarzystwa o wydanie zezwolenia na utworzenie funduszu inwestycyjnego załącza się:
 
 **Art. 23.**
 
-1. Komisja wydaje zezwolenie na utworzenie funduszu inwestycyjnego w terminie 2 miesi´cy od dnia z∏o˝enia wniosku.
+1. Komisja wydaje zezwolenie na utworzenie funduszu inwestycyjnego w terminie 2 miesięcy od dnia złożenia wniosku.
 
-2. Komisja odmawia zezwolenia, je˝eli z analizy dokumentów za∏àczonych do wniosku wynika, ˝e osoby, októrych mowa wart. 22 pkt 5—7, mogà wykonywaç swoje obowiàzki z naruszeniem zasad uczciwego obrotu lub w sposób nienale˝ycie zabezpieczajàcy interesy uczestników funduszu albo je˝eli statut funduuwzgl´dniajà nale˝ycie interesów uczestników funduszu lub statut funduszu zawiera postanowienia uniemo˝liwiajàce zbywanie jednostek uczestnictwa na terytorium Rzeczypospolitej Polskiej.
+2. Komisja odmawia zezwolenia, jeżeli z analizy dokumentów załączonych do wniosku wynika, że osoby, októrych mowa wart. 22 pkt 5—7, mogą wykonywać swoje obowiązki z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interesy uczestników funduszu albo jeżeli statut funduuwzględniają należycie interesów uczestników funduszu lub statut funduszu zawiera postanowienia uniemożliwiające zbywanie jednostek uczestnictwa na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 24.**
 
-1. Zmiana statutu funduszu inwestycyjnego wymaga zezwolenia Komisji, z zastrze˝eniem art. 25 ust. 1.
+1. Zmiana statutu funduszu inwestycyjnego wymaga zezwolenia Komisji, z zastrzeżeniem art. 25 ust. 1.
 
-2. Komisja wydaje zezwolenie wterminie 2 miesi´cy od dnia z∏o˝enia wniosku.
+2. Komisja wydaje zezwolenie wterminie 2 miesięcy od dnia złożenia wniosku.
 
-3. Komisja odmawia zezwolenia, je˝eli zmiana statutu jest sprzeczna z prawem lub interesem uczestników funduszu inwestycyjnego.
+3. Komisja odmawia zezwolenia, jeżeli zmiana statutu jest sprzeczna z prawem lub interesem uczestników funduszu inwestycyjnego.
 
-4. O zmianie statutu funduszu inwestycyjnego towarzystwo og∏asza w sposób okreÊlony w statucie.
+4. O zmianie statutu funduszu inwestycyjnego towarzystwo ogłasza w sposób określony w statucie.
 
-5. Zmiana statutu funduszu inwestycyjnego wchodzi w ˝ycie w terminie 3 miesi´cy od dnia dokonania og∏oszenia o zmianie statutu lub od dnia ostatniego og∏oszenia, je˝eli statut przewiduje wi´cej ni˝ jedno og∏oszenie.
+5. Zmiana statutu funduszu inwestycyjnego wchodzi w życie w terminie 3 miesięcy od dnia dokonania ogłoszenia o zmianie statutu lub od dnia ostatniego ogłoszenia, jeżeli statut przewiduje więcej niż jedno ogłoszenie.
 
-6. Komisja mo˝e zezwoliç na skrócenie terminu okreÊlonego w ust. 5, je˝eli nie naruszy to interesu uczestników funduszu inwestycyjnego.
+6. Komisja może zezwolić na skrócenie terminu określonego w ust. 5, jeżeli nie naruszy to interesu uczestników funduszu inwestycyjnego.
 
-7. Fundusz inwestycyjny zawiadamia Komisj´ o dokonaniu og∏oszeƒ i ich terminach oraz sk∏ada wniosek do sàdu rejestrowego o wpisanie do rejestru zmiany statutu, do∏àczajàc do wniosku jego jednolity tekst wraz z informacjà o dokonaniu og∏oszeƒ i o terminach ich dokonania.
+7. Fundusz inwestycyjny zawiadamia Komisję o dokonaniu ogłoszeń i ich terminach oraz składa wniosek do sądu rejestrowego o wpisanie do rejestru zmiany statutu, dołączając do wniosku jego jednolity tekst wraz z informacją o dokonaniu ogłoszeń i o terminach ich dokonania.
 
-8. Sàd rejestrowy wpisuje do rejestru informacj´ o zmianie statutu wraz z datà wejÊcia w ˝ycie zmiany.
+8. Sąd rejestrowy wpisuje do rejestru informację o zmianie statutu wraz z datą wejścia w życie zmiany.
 
 **Art. 25.**
 
 1. Nie wymaga zezwolenia zmiana statutu funduszu inwestycyjnego w zakresie:
 
-- **1)** u˝ytych definicji i skrótów;
+- **1)** użytych definicji i skrótów;
 - **2)** adresu lub siedziby podmiotów wymienionych w statucie;
-- **3)** sposobu udost´pniania informacji o funduszu inwestycyjnym do publicznej wiadomoÊci;
-- **4)** prowadzenia programów systematycznego oszcz´dzania;
-- **5)** udzielania pe∏nomocnictw przez uczestników funduszu inwestycyjnego;
+- **3)** sposobu udostępniania informacji o funduszu inwestycyjnym do publicznej wiadomości;
+- **4)** prowadzenia programów systematycznego oszczędzania;
+- **5)** udzielania pełnomocnictw przez uczestników funduszu inwestycyjnego;
 - **6)** prowadzenia rejestru uczestników funduszu;
-- **7)** sk∏adania dyspozycji za poÊrednictwem elektronicznych noÊników informacji;
-- **8)** danych, o których mowa w art. 18 ust. 2 pkt 7—9, wprzypadku drugiej inast´pnych emisji certyfikatów inwestycyjnych. szu inwestycyjnego lub umowa zdepozytariuszem nie
+- **7)** składania dyspozycji za pośrednictwem elektronicznych nośników informacji;
+- **8)** danych, o których mowa w art. 18 ust. 2 pkt 7—9, wprzypadku drugiej inastępnych emisji certyfikatów inwestycyjnych. szu inwestycyjnego lub umowa zdepozytariuszem nie
 
-2. O dokonaniu zmiany statutu, o której mowa wust. 1, fundusz inwestycyjny, wterminie 3 dni roboczych od dnia sporzàdzenia aktu notarialnego, zawiadamia Komisj´, dostarczajàc wypis z tego aktu.
+2. O dokonaniu zmiany statutu, o której mowa wust. 1, fundusz inwestycyjny, wterminie 3 dni roboczych od dnia sporządzenia aktu notarialnego, zawiadamia Komisję, dostarczając wypis z tego aktu.
 
-3. Je˝eli zmiana statutu jest sprzeczna z prawem lub interesem uczestników funduszu inwestycyjnego, Komisja mo˝e, w terminie 14 dni od dnia otrzymania wypisu z aktu notarialnego, zg∏osiç sprzeciw wobec wprowadzenia zmian w statucie.
+3. Jeżeli zmiana statutu jest sprzeczna z prawem lub interesem uczestników funduszu inwestycyjnego, Komisja może, w terminie 14 dni od dnia otrzymania wypisu z aktu notarialnego, zgłosić sprzeciw wobec wprowadzenia zmian w statucie.
 
-4. Zmiana statutu funduszu inwestycyjnego, októrej mowa w ust. 1, nie mo˝e byç og∏oszona wczeÊniej ni˝ pierwszego dnia po up∏ywie terminu, o którym mowa w ust. 3.
+4. Zmiana statutu funduszu inwestycyjnego, októrej mowa w ust. 1, nie może być ogłoszona wcześniej niż pierwszego dnia po upływie terminu, o którym mowa w ust. 3.
 
-5. Je˝eli Komisja zg∏osi sprzeciw wobec wprowadzenia zmian do statutu, o których mowa w ust. 1, zmiany te nie podlegajà og∏oszeniu.
+5. Jeżeli Komisja zgłosi sprzeciw wobec wprowadzenia zmian do statutu, o których mowa w ust. 1, zmiany te nie podlegają ogłoszeniu.
 
-6. Zmiana statutu funduszu inwestycyjnego, októrej mowa w ust. 1, wchodzi w ˝ycie w terminie 7 dni od dnia dokonania og∏oszenia o zmianie statutu.
+6. Zmiana statutu funduszu inwestycyjnego, októrej mowa w ust. 1, wchodzi w życie w terminie 7 dni od dnia dokonania ogłoszenia o zmianie statutu.
 
-7. Komisja mo˝e zezwoliç na skrócenie terminu okreÊlonego w ust. 6, je˝eli nie naruszy to interesu uczestników funduszu inwestycyjnego.
+7. Komisja może zezwolić na skrócenie terminu określonego w ust. 6, jeżeli nie naruszy to interesu uczestników funduszu inwestycyjnego.
 
-8. Fundusz inwestycyjny zawiadamia Komisj´ o dokonaniu og∏oszeƒ i ich terminach oraz sk∏ada wniosek do sàdu rejestrowego o wpisanie do rejestru funduszy inwestycyjnych zmiany statutu, do∏àczajàc do wniosku jego jednolity tekst wraz z informacjà o dokonaniu og∏oszeƒ i o terminach ich dokonania.
+8. Fundusz inwestycyjny zawiadamia Komisję o dokonaniu ogłoszeń i ich terminach oraz składa wniosek do sądu rejestrowego o wpisanie do rejestru funduszy inwestycyjnych zmiany statutu, dołączając do wniosku jego jednolity tekst wraz z informacją o dokonaniu ogłoszeń i o terminach ich dokonania.
 
-9. Sàd rejestrowy wpisuje do rejestru funduszy inwestycyjnych informacj´ o zmianie statutu wraz z datà wejÊcia w ˝ycie zmiany.
+9. Sąd rejestrowy wpisuje do rejestru funduszy inwestycyjnych informację o zmianie statutu wraz z datą wejścia w życie zmiany.
 
 **Art. 26.**
 
-1. Przyjmowanie zapisów na jednostki uczestnictwa albo na certyfikaty inwestycyjne funduszu inwestycyjnego rozpoczyna si´ nie wczeÊniej ni˝ w dniu nast´pujàcym po dniu dor´czenia zezwolenia na utworzenie funduszu. Termin przyjmowania zapisów nie mo˝e byç d∏u˝szy ni˝ 2 miesiàce.
+1. Przyjmowanie zapisów na jednostki uczestnictwa albo na certyfikaty inwestycyjne funduszu inwestycyjnego rozpoczyna się nie wcześniej niż w dniu następującym po dniu doręczenia zezwolenia na utworzenie funduszu. Termin przyjmowania zapisów nie może być dłuższy niż 2 miesiące.
 
-2. Osoby zapisujàce si´ na jednostki uczestnictwa albo na certyfikaty inwestycyjne dokonujà wp∏at do
+2. Osoby zapisujące się na jednostki uczestnictwa albo na certyfikaty inwestycyjne dokonują wpłat do
 
-3. Za zgodà Komisji towarzystwo mo˝e prowadziç zapisy na jednostki uczestnictwa oraz na certyfikaty inwestycyjne niepodlegajàce wprowadzeniu do publicznego obrotu za poÊrednictwem podmiotu innego ni˝ wymieniony wust. 1. Wtakim przypadku do wniosku, o którym mowa w art. 22, towarzystwo za∏àcza umow´ zawartà z tym podmiotem oraz dokumenty, o których mowa wart. 32 ust. 4, dotyczàce tego podmiotu.
+3. Za zgodą Komisji towarzystwo może prowadzić zapisy na jednostki uczestnictwa oraz na certyfikaty inwestycyjne niepodlegające wprowadzeniu do publicznego obrotu za pośrednictwem podmiotu innego niż wymieniony wust. 1. Wtakim przypadku do wniosku, o którym mowa w art. 22, towarzystwo załącza umowę zawartą z tym podmiotem oraz dokumenty, o których mowa wart. 32 ust. 4, dotyczące tego podmiotu.
 
-4. Komisja odmawia zgody, o której mowa w ust. 3, je˝eli z analizy umowy i dokumentów, o których mowa w ust. 3, wynika, ˝e podmiot poÊredniczàcy w prowadzeniu zapisów mo˝e wykonywaç te czynnoÊci z naruszeniem zasad uczciwego obrotu lub w sposób nienale˝ycie zabezpieczajàcy interesy osób zapisujàcych si´ na jednostki uczestnictwa oraz na certyfikaty inwestycyjne niepodlegajàce wprowadzeniu do publicznego obrotu.
+4. Komisja odmawia zgody, o której mowa w ust. 3, jeżeli z analizy umowy i dokumentów, o których mowa w ust. 3, wynika, że podmiot pośredniczący w prowadzeniu zapisów może wykonywać te czynności z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interesy osób zapisujących się na jednostki uczestnictwa oraz na certyfikaty inwestycyjne niepodlegające wprowadzeniu do publicznego obrotu.
 
 **Art. 28.**
 
-1. Wp∏aty do funduszu inwestycyjnego sà dokonywane na wydzielony rachunek bankowy lub rachunek papierów wartoÊciowych towarzystwa prowafunduszu inwestycyjnego i otrzymujà pisemne potwierdzenie wp∏at.
+1. Wpłaty do funduszu inwestycyjnego są dokonywane na wydzielony rachunek bankowy lub rachunek papierów wartościowych towarzystwa prowafunduszu inwestycyjnego i otrzymują pisemne potwierdzenie wpłat.
 
-3. Zapis na jednostki uczestnictwa albo na certyfikaty inwestycyjne jest nieodwo∏alny i bezwarunkowy, jak równie˝ nie mo˝e byç z∏o˝ony z zastrze˝eniem terminu.
+3. Zapis na jednostki uczestnictwa albo na certyfikaty inwestycyjne jest nieodwołalny i bezwarunkowy, jak również nie może być złożony z zastrzeżeniem terminu.
 
 **Art. 27.**
 
-1. Towarzystwo prowadzi zapisy na jednostki uczestnictwa oraz na certyfikaty inwestycyjne niepodlegajàce wprowadzeniu do publicznego obrotu, bezpoÊrednio lub za poÊrednictwem podmiotu prowadzàcego dzia∏alnoÊç maklerskà.
+1. Towarzystwo prowadzi zapisy na jednostki uczestnictwa oraz na certyfikaty inwestycyjne niepodlegające wprowadzeniu do publicznego obrotu, bezpośrednio lub za pośrednictwem podmiotu prowadzącego działalność maklerską.
 
-2. Przy prowadzeniu zapisów na jednostki uczestnictwa towarzystwo udost´pnia bezp∏atnie prospekt informacyjny funduszu inwestycyjnego i skrót tego prospektu. dzony przez depozytariusza, z zastrze˝eniem ust. 2.
+2. Przy prowadzeniu zapisów na jednostki uczestnictwa towarzystwo udostępnia bezpłatnie prospekt informacyjny funduszu inwestycyjnego i skrót tego prospektu. dzony przez depozytariusza, z zastrzeżeniem ust. 2.
 
-2. W przypadku wp∏at do funduszu inwestycyjnego, dokonywanych w papierach wartoÊciowych niedopuszczonych do publicznego obrotu lub w udzia∏ach w spó∏kach z ograniczonà odpowiedzialnoÊcià, osoba zapisujàca si´ na certyfikaty inwestycyjne przenosi, wdrodze umowy, zgodnie zodr´bnymi przepisami, prawa z tych papierów lub udzia∏ów na towarzystwo oraz sk∏ada u depozytariusza kopi´ tej umowy, a w przypadku papierów wartoÊciowych, tak˝e te papiery lub, je˝eli papiery wartoÊciowe nie majà formy dokumentu, dokument potwierdzajàcy ich posiadanie wydany na podstawie w∏aÊciwych przepisów.
+2. W przypadku wpłat do funduszu inwestycyjnego, dokonywanych w papierach wartościowych niedopuszczonych do publicznego obrotu lub w udziałach w spółkach z ograniczoną odpowiedzialnością, osoba zapisująca się na certyfikaty inwestycyjne przenosi, wdrodze umowy, zgodnie zodrębnymi przepisami, prawa z tych papierów lub udziałów na towarzystwo oraz składa u depozytariusza kopię tej umowy, a w przypadku papierów wartościowych, także te papiery lub, jeżeli papiery wartościowe nie mają formy dokumentu, dokument potwierdzający ich posiadanie wydany na podstawie właściwych przepisów.
 
-3. Towarzystwo nie mo˝e rozporzàdzaç, przed zarejestrowaniem funduszu inwestycyjnego, wp∏atami do funduszu, pobranymi op∏atami manipulacyjnymi ani kwotami z tytu∏u oprocentowania tych wp∏at lub po˝ytkami, jakie wp∏aty te przynoszà.
+3. Towarzystwo nie może rozporządzać, przed zarejestrowaniem funduszu inwestycyjnego, wpłatami do funduszu, pobranymi opłatami manipulacyjnymi ani kwotami z tytułu oprocentowania tych wpłat lub pożytkami, jakie wpłaty te przynoszą.
 
 **Art. 29.**
 
-1. Je˝eli wterminie na dokonanie zapisów na jednostki uczestnictwa albo certyfikaty inwestycyjne dokonano wp∏at w wysokoÊci okreÊlonej w statucie, towarzystwo, wterminie 14 dni od dnia zakoƒczenia przyjmowania zapisów, przydziela jednostki uczestnictwa albo certyfikaty inwestycyjne.
+1. Jeżeli wterminie na dokonanie zapisów na jednostki uczestnictwa albo certyfikaty inwestycyjne dokonano wpłat w wysokości określonej w statucie, towarzystwo, wterminie 14 dni od dnia zakończenia przyjmowania zapisów, przydziela jednostki uczestnictwa albo certyfikaty inwestycyjne.
 
-2. W przypadku gdy z wyceny wniesionych do funduszu inwestycyjnego papierów wartoÊciowych lub udzia∏ów w spó∏kach z ograniczonà odpowiedzialnoÊcià, dokonanej wdniu nast´pujàcym po ostatnim dniu przyjmowania zapisów na certyfikaty inwestycyjne, wynika, ˝e wartoÊç tych papierów wartoÊciowych lub udzia∏ów przewy˝sza cen´ emisyjnà certyfikatu albo wielokrotnoÊç tej ceny, sposób post´powania okreÊla statut funduszu inwestycyjnego, zzastrze˝eniem ust. 3.
+2. W przypadku gdy z wyceny wniesionych do funduszu inwestycyjnego papierów wartościowych lub udziałów w spółkach z ograniczoną odpowiedzialnością, dokonanej wdniu następującym po ostatnim dniu przyjmowania zapisów na certyfikaty inwestycyjne, wynika, że wartość tych papierów wartościowych lub udziałów przewyższa cenę emisyjną certyfikatu albo wielokrotność tej ceny, sposób postępowania określa statut funduszu inwestycyjnego, zzastrzeżeniem ust. 3.
 
-3. Zwrot nadp∏aty ponad cen´ emisyjnà albo wielokrotnoÊç tej ceny w Êrodkach pieni´˝nych jest mo˝liwy tylko w przypadku, gdy nadp∏ata nie przekracza 10 % odpowiednio ceny emisyjnej certyfikatu albo wielokrotnoÊci ceny emisyjnej certyfikatu.
+3. Zwrot nadpłaty ponad cenę emisyjną albo wielokrotność tej ceny w środkach pieniężnych jest możliwy tylko w przypadku, gdy nadpłata nie przekracza 10 % odpowiednio ceny emisyjnej certyfikatu albo wielokrotności ceny emisyjnej certyfikatu.
 
-4. Przydzia∏ jednostek uczestnictwa nast´puje przez wpisanie do rejestru uczestników funduszu inwestycyjnego liczby jednostek uczestnictwa przypadajàcej na dokonanà wp∏at´ do funduszu inwestycyjnego, powi´kszonà o wartoÊç otrzymanych po˝ytków i odsetki naliczone przez depozytariusza za okres od dnia wp∏aty na prowadzony przez niego rachunek do dnia przydzia∏u.
+4. Przydział jednostek uczestnictwa następuje przez wpisanie do rejestru uczestników funduszu inwestycyjnego liczby jednostek uczestnictwa przypadającej na dokonaną wpłatę do funduszu inwestycyjnego, powiększoną o wartość otrzymanych pożytków i odsetki naliczone przez depozytariusza za okres od dnia wpłaty na prowadzony przez niego rachunek do dnia przydziału.
 
-5. Wpis do rejestru, o którym mowa w ust. 4, wywo∏uje skutki prawne z chwilà wpisania funduszu inwestycyjnego do rejestru funduszy inwestycyjnych.
+5. Wpis do rejestru, o którym mowa w ust. 4, wywołuje skutki prawne z chwilą wpisania funduszu inwestycyjnego do rejestru funduszy inwestycyjnych.
 
-6. Niezw∏ocznie po dokonaniu przydzia∏u, októrym mowa w ust. 1, towarzystwo sk∏ada do sàdu rejestrowego wniosek o wpisanie funduszu inwestycyjnego do rejestru funduszy inwestycyjnych.
+6. Niezwłocznie po dokonaniu przydziału, októrym mowa w ust. 1, towarzystwo składa do sądu rejestrowego wniosek o wpisanie funduszu inwestycyjnego do rejestru funduszy inwestycyjnych.
 
-7. Do wniosku, októrym mowa wust. 6, nale˝y do∏àczyç:
+7. Do wniosku, októrym mowa wust. 6, należy dołączyć:
 
 - **1)** zezwolenie Komisji na utworzenie funduszu inwestycyjnego;
 - **2)** statut funduszu inwestycyjnego;
-- **3)** statut towarzystwa tworzàcego fundusz inwestycyjny oraz odpis z rejestru przedsi´biorców;
-- **4)** list´ cz∏onków zarzàdu towarzystwa;
-- **5)** oÊwiadczenie depozytariusza o zebraniu wymaganych statutem wp∏at oraz ozgodnoÊci sposobu ich zebrania z ustawà, statutem funduszu inwestycyjnego oraz zezwoleniem wydanym przez Komisj´.
+- **3)** statut towarzystwa tworzącego fundusz inwestycyjny oraz odpis z rejestru przedsiębiorców;
+- **4)** listę członków zarządu towarzystwa;
+- **5)** oświadczenie depozytariusza o zebraniu wymaganych statutem wpłat oraz ozgodności sposobu ich zebrania z ustawą, statutem funduszu inwestycyjnego oraz zezwoleniem wydanym przez Komisję.
 
-8. Sàd rejestrowy rozpoznaje spraw´ w terminie 14 dni od dnia z∏o˝enia wniosku lub jego uzupe∏nienia.
+8. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
 
-9. Sàd rejestrowy odmawia wpisu funduszu inwestycyjnego do rejestru funduszy inwestycyjnych, je˝eli nie zosta∏y spe∏nione warunki okreÊlone w ustawie, statucie funduszu inwestycyjnego lub w zezwoleniu wydanym przez Komisj´.
+9. Sąd rejestrowy odmawia wpisu funduszu inwestycyjnego do rejestru funduszy inwestycyjnych, jeżeli nie zostały spełnione warunki określone w ustawie, statucie funduszu inwestycyjnego lub w zezwoleniu wydanym przez Komisję.
 
-10. Niezw∏ocznie po wpisaniu funduszu inwestycyjnego do rejestru funduszy inwestycyjnych, fundusz wydaje certyfikaty inwestycyjne, na warunkach iwsposób okreÊlony wstatucie funduszu iprospekcie emisyjnym albo wwarunkach emisji, oraz dor´cza Komisji wypis z tego rejestru.
+10. Niezwłocznie po wpisaniu funduszu inwestycyjnego do rejestru funduszy inwestycyjnych, fundusz wydaje certyfikaty inwestycyjne, na warunkach iwsposób określony wstatucie funduszu iprospekcie emisyjnym albo wwarunkach emisji, oraz doręcza Komisji wypis z tego rejestru.
 
 **Art. 30.**
 
-1. Do dnia wpisania funduszu inwestycyjnego do rejestru funduszy inwestycyjnych Komisja mo˝e cofnàç zezwolenie na utworzenie funduszu inwestycyjnego, je˝eli przy zbieraniu wp∏at towarzystwo naruszy∏o przepisy ustawy, statut funduszu inwestycyjnego lub warunki zezwolenia.
+1. Do dnia wpisania funduszu inwestycyjnego do rejestru funduszy inwestycyjnych Komisja może cofnąć zezwolenie na utworzenie funduszu inwestycyjnego, jeżeli przy zbieraniu wpłat towarzystwo naruszyło przepisy ustawy, statut funduszu inwestycyjnego lub warunki zezwolenia.
 
-2. Zezwolenie na utworzenie funduszu inwestycyjnego wygasa, je˝eli:
+2. Zezwolenie na utworzenie funduszu inwestycyjnego wygasa, jeżeli:
 
-- **1)** w okreÊlonym w statucie terminie na dokonanie zapisów na jednostki uczestnictwa albo certyfikaty inwestycyjne, liczàc od dnia dor´czenia zezwolewarzystwo nie zebra∏o wp∏at wwysokoÊci okreÊlonej w statucie;
-- **2)** przed up∏ywem 6 miesi´cy, liczàc od dnia dor´czenia zezwolenia na jego utworzenie, towarzystwo nie z∏o˝y∏o wniosku o wpisanie funduszu inwestycyjnego do rejestru funduszy inwestycyjnych.
+- **1)** w określonym w statucie terminie na dokonanie zapisów na jednostki uczestnictwa albo certyfikaty inwestycyjne, licząc od dnia doręczenia zezwolewarzystwo nie zebrało wpłat wwysokości określonej w statucie;
+- **2)** przed upływem 6 miesięcy, licząc od dnia doręczenia zezwolenia na jego utworzenie, towarzystwo nie złożyło wniosku o wpisanie funduszu inwestycyjnego do rejestru funduszy inwestycyjnych.
 
 3. Towarzystwo, w terminie 14 dni od dnia:
 
-- **1)** w którym postanowienie sàdu o odmowie wpisu funduszu inwestycyjnego do rejestru funduszy inwestycyjnych sta∏o si´ prawomocne lub
-- **2)** w którym decyzja Komisji o cofni´ciu zezwolenia na utworzenie funduszu inwestycyjnego sta∏a si´ ostateczna, lub
-- **3)** up∏ywu terminu, o którym mowa w ust. 2 pkt 1 lub 2 zwraca wp∏aty do funduszu inwestycyjnego, wtym przenosi prawa zpapierów wartoÊciowych lub udzia∏ów wspó∏kach zograniczonà odpowiedzialnoÊcià, wraz z wartoÊcià otrzymanych po˝ytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wp∏aty na rachunek prowadzony przez depozytariusza do dnia wystàpienia jednej z przes∏anek wymienionych w pkt 1—3, oraz pobrane op∏aty manipulacyjne.
+- **1)** w którym postanowienie sądu o odmowie wpisu funduszu inwestycyjnego do rejestru funduszy inwestycyjnych stało się prawomocne lub
+- **2)** w którym decyzja Komisji o cofnięciu zezwolenia na utworzenie funduszu inwestycyjnego stała się ostateczna, lub
+- **3)** upływu terminu, o którym mowa w ust. 2 pkt 1 lub 2 zwraca wpłaty do funduszu inwestycyjnego, wtym przenosi prawa zpapierów wartościowych lub udziałów współkach zograniczoną odpowiedzialnością, wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia wystąpienia jednej z przesłanek wymienionych w pkt 1—3, oraz pobrane opłaty manipulacyjne.
 
 **Art. 31.**
 
-1. Do dnia wpisania funduszu inwestycyjnego do rejestru funduszy inwestycyjnych towarzystwo dokonuje czynnoÊci prawnych, majàcych na celu utworzenie funduszu, we w∏asnym imieniu i na w∏asny rachunek.
+1. Do dnia wpisania funduszu inwestycyjnego do rejestru funduszy inwestycyjnych towarzystwo dokonuje czynności prawnych, mających na celu utworzenie funduszu, we własnym imieniu i na własny rachunek.
 
-2. Z chwilà wpisania funduszu inwestycyjnego do rejestru fundusz inwestycyjny wst´puje w prawa i obowiàzki z tytu∏u:
+2. Z chwilą wpisania funduszu inwestycyjnego do rejestru fundusz inwestycyjny wstępuje w prawa i obowiązki z tytułu:
 
-- **1)** wp∏at;
+- **1)** wpłat;
 - **2)** umowy zdepozytariuszem oprowadzenie rejestru aktywów funduszu inwestycyjnego;
-- **3)** umowy zpodmiotem prowadzàcym rejestr uczestników funduszu inwestycyjnego;
-- **4)** umowy o subemisj´ inwestycyjnà;
-- **5)** umowy o subemisj´ us∏ugowà.
+- **3)** umowy zpodmiotem prowadzącym rejestr uczestników funduszu inwestycyjnego;
+- **4)** umowy o subemisję inwestycyjną;
+- **5)** umowy o subemisję usługową.
 
 **Art. 32.**
 
-1. Na terytorium Rzeczypospolitej Polskiej fundusz inwestycyjny zbywa i odkupuje jednostki uczestnictwa bezpoÊrednio lub za poÊrednictwem towarzystwa zarzàdzajàcego tym funduszem inwestycyjnym lub podmiotu prowadzàcego dzia∏alnoÊç maklerskà, z zastrze˝eniem ust. 2.
+1. Na terytorium Rzeczypospolitej Polskiej fundusz inwestycyjny zbywa i odkupuje jednostki uczestnictwa bezpośrednio lub za pośrednictwem towarzystwa zarządzającego tym funduszem inwestycyjnym lub podmiotu prowadzącego działalność maklerską, z zastrzeżeniem ust. 2.
 
-2. Za zezwoleniem Komisji jednostki uczestnictwa funduszy inwestycyjnych lub tytu∏y uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych zsiedzibà wpaƒstwach EEA oraz funduszy inwestycyjnych otwartych z siedzibà w paƒstwach nale˝ània na utworzenie funduszu inwestycyjnego, tocych do OECD innych ni˝ paƒstwo cz∏onkowskie lub paƒstwo nale˝àce do EEA mogà byç zbywane i odkupywane za poÊrednictwem podmiotu innego ni˝ podmiot prowadzàcy dzia∏alnoÊç maklerskà.
+2. Za zezwoleniem Komisji jednostki uczestnictwa funduszy inwestycyjnych lub tytuły uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych zsiedzibą wpaństwach EEA oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należąnia na utworzenie funduszu inwestycyjnego, tocych do OECD innych niż państwo członkowskie lub państwo należące do EEA mogą być zbywane i odkupywane za pośrednictwem podmiotu innego niż podmiot prowadzący działalność maklerską.
 
 3. Zezwolenie jest udzielane na wniosek podmiotu, o którym mowa w ust. 2.
 
-4. Do wniosku, o którym mowa w ust. 3, z zastrze˝eniem ust. 5, za∏àcza si´:
+4. Do wniosku, o którym mowa w ust. 3, z zastrzeżeniem ust. 5, załącza się:
 
-- **1)** statut, umow´ spó∏ki albo inny dokument okreÊlajàcy form´ prawnà wnioskodawcy oraz odpis z w∏aÊciwego rejestru;
-- **2)** schemat i opis powiàzaƒ kapita∏owych;
-- **3)** ostatnie sprawozdanie finansowe wraz z opinià podmiotu uprawnionego do badania sprawozdaƒ finansowych oraz raportem z badania, a w przypadku braku takiego sprawozdania, inne dokumenty iinformacje przedstawiajàce rzetelnie aktualnà sytuacj´ finansowà wnioskodawcy;
-- **4)** wskazanie funduszy, których jednostki uczestnictwa lub tytu∏y uczestnictwa b´dà zbywane i odkupywane za poÊrednictwem wnioskodawcy;
-- **5)** dokumenty okreÊlajàce sposób i warunki prowadzenia zbywania i odkupywania jednostek uczestnictwa lub tytu∏ów uczestnictwa;
-- **6)** dokumenty okreÊlajàce szczegó∏owo sposób dokonywania wp∏at i wyp∏at zwiàzanych z prowadzeniem zbywania i odkupywania jednostek uczestnictwa lub tytu∏ów uczestnictwa;
-- **7)** wskazanie miejsc, w których b´dzie prowadzone zbywanie i odkupywanie jednostek uczestnictwa lub tytu∏ów uczestnictwa;
-- **8)** opis warunków technicznych i organizacyjnych wykonywania dzia∏alnoÊci w zakresie zbywania iodkupywania jednostek uczestnictwa lub tytu∏ów uczestnictwa;
-- **9)** wskazanie osób odpowiedzialnych za wykonywanie dzia∏alnoÊci w zakresie zbywania i odkupywania jednostek uczestnictwa lub tytu∏ów uczestnictwa;
-- **10)** informacje o przeszkoleniu pracowników w zakresie procedur zbywania i odkupywania jednostek uczestnictwa lub tytu∏ów uczestnictwa;
-- **11)** procedury zapobiegajàce ujawnieniu lub wykorzystaniu informacji stanowiàcych tajemnic´ zawodowà oraz procedury kontroli wewn´trznej;
-- **12)** zasady przechowywania i archiwizowania dokumentów zwiàzanych z prowadzeniem zbywania iodkupywania jednostek uczestnictwa lub tytu∏ów uczestnictwa;
-- **13)** dane osobowe cz∏onków zarzàdu irady nadzorczej wraz zopisem ich kwalifikacji idoÊwiadczeƒ zawodowych oraz informacje zKrajowego Rejestru Karnego;
-- **14)** zaÊwiadczenie o niezaleganiu w podatkach albo z przepisami ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 137, poz. 926, z póên. zm. stwierdzajàce stan zaleg∏oÊci, wydane zgodnie ).
+- **1)** statut, umowę spółki albo inny dokument określający formę prawną wnioskodawcy oraz odpis z właściwego rejestru;
+- **2)** schemat i opis powiązań kapitałowych;
+- **3)** ostatnie sprawozdanie finansowe wraz z opinią podmiotu uprawnionego do badania sprawozdań finansowych oraz raportem z badania, a w przypadku braku takiego sprawozdania, inne dokumenty iinformacje przedstawiające rzetelnie aktualną sytuację finansową wnioskodawcy;
+- **4)** wskazanie funduszy, których jednostki uczestnictwa lub tytuły uczestnictwa będą zbywane i odkupywane za pośrednictwem wnioskodawcy;
+- **5)** dokumenty określające sposób i warunki prowadzenia zbywania i odkupywania jednostek uczestnictwa lub tytułów uczestnictwa;
+- **6)** dokumenty określające szczegółowo sposób dokonywania wpłat i wypłat związanych z prowadzeniem zbywania i odkupywania jednostek uczestnictwa lub tytułów uczestnictwa;
+- **7)** wskazanie miejsc, w których będzie prowadzone zbywanie i odkupywanie jednostek uczestnictwa lub tytułów uczestnictwa;
+- **8)** opis warunków technicznych i organizacyjnych wykonywania działalności w zakresie zbywania iodkupywania jednostek uczestnictwa lub tytułów uczestnictwa;
+- **9)** wskazanie osób odpowiedzialnych za wykonywanie działalności w zakresie zbywania i odkupywania jednostek uczestnictwa lub tytułów uczestnictwa;
+- **10)** informacje o przeszkoleniu pracowników w zakresie procedur zbywania i odkupywania jednostek uczestnictwa lub tytułów uczestnictwa;
+- **11)** procedury zapobiegające ujawnieniu lub wykorzystaniu informacji stanowiących tajemnicę zawodową oraz procedury kontroli wewnętrznej;
+- **12)** zasady przechowywania i archiwizowania dokumentów związanych z prowadzeniem zbywania iodkupywania jednostek uczestnictwa lub tytułów uczestnictwa;
+- **13)** dane osobowe członków zarządu irady nadzorczej wraz zopisem ich kwalifikacji idoświadczeń zawodowych oraz informacje zKrajowego Rejestru Karnego;
+- **14)** zaświadczenie o niezaleganiu w podatkach albo z przepisami ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 137, poz. 926, z póên. zm. stwierdzające stan zaległości, wydane zgodnie ).
 
-5. Bank krajowy za∏àcza do wniosku dokumenty, o których mowa w ust. 4 pkt 4—12.
+5. Bank krajowy załącza do wniosku dokumenty, o których mowa w ust. 4 pkt 4—12.
 
 6. Komisja odmawia zezwolenia wprzypadku, gdy:
 
-- **1)** dokumenty za∏àczone do wniosku nie spe∏niajà wymogów, o których mowa w ust. 4;
-- **2)** wniosek lub za∏àczone do niego dokumenty nie sà zgodne zprzepisami prawa lub ze stanem faktycznym;
-- **3)** z analizy wniosku i za∏àczonych do niego dokumentów wynika, ˝e wnioskodawca mo˝e wykonywaç czynnoÊci znaruszeniem zasad uczciwego obrotu lub wsposób nienale˝ycie zabezpieczajàcy interesy osób zapisujàcych si´ na jednostki uczestnictwa lub tytu∏y uczestnictwa lub interesy uczestników funduszy.
+- **1)** dokumenty załączone do wniosku nie spełniają wymogów, o których mowa w ust. 4;
+- **2)** wniosek lub załączone do niego dokumenty nie są zgodne zprzepisami prawa lub ze stanem faktycznym;
+- **3)** z analizy wniosku i załączonych do niego dokumentów wynika, że wnioskodawca może wykonywać czynności znaruszeniem zasad uczciwego obrotu lub wsposób nienależycie zabezpieczający interesy osób zapisujących się na jednostki uczestnictwa lub tytuły uczestnictwa lub interesy uczestników funduszy.
 
-7. Zezwolenie wygasa zchwilà og∏oszenia upad∏oÊci lub otwarcia likwidacji podmiotu.
+7. Zezwolenie wygasa zchwilą ogłoszenia upadłości lub otwarcia likwidacji podmiotu.
 
-8. O og∏oszeniu upad∏oÊci lub otwarciu likwidacji podmiot lub jego likwidator niezw∏ocznie informuje Komisj´.
+8. O ogłoszeniu upadłości lub otwarciu likwidacji podmiot lub jego likwidator niezwłocznie informuje Komisję.
 
-9. Podmiot jest obowiàzany poinformowaç Komisj´ oka˝dej zmianie danych, októrych mowa wust. 4 pkt 13, oraz o zmianie w dokumentach, o których mowa w ust. 4 pkt 5 i 6, nie póêniej ni˝ w terminie 14 dni od powzi´cia o nich wiadomoÊci.
+9. Podmiot jest obowiązany poinformować Komisję okażdej zmianie danych, októrych mowa wust. 4 pkt 13, oraz o zmianie w dokumentach, o których mowa w ust. 4 pkt 5 i 6, nie póêniej niż w terminie 14 dni od powzięcia o nich wiadomości.
 
 **Art. 33.**
 
-1. OÊwiadczenia woli uczestników funduszu inwestycyjnego, funduszu zagranicznego, funduszu inwestycyjnego otwartego z siedzibà w paƒstwie nale˝àcym do EEA oraz funduszu inwestycyjnego otwartego z siedzibà w paƒstwie nale˝àcym do OECD innym ni˝ paƒstwo cz∏onkowskie lub paƒstwo nale˝àce do EEA, wtym zlecenia nabycia lub odkupienia jednostek uczestnictwa lub tytu∏ów uczestnictwa, mogà byç sk∏adane za poÊrednictwem osób fizycznych pozostajàcych z towarzystwem, podmiotem prowadzàcym dzia∏alnoÊç maklerskà lub podmiotem, o którym mowa wart. 32 ust. 2, wstosunku zlecenia lub innym stosunku prawnym o podobnym charakterze. Osoba fizyczna nie mo˝e przyjmowaç wp∏at na nabycie jednostek uczestnictwa lub tytu∏ów uczestnictwa lub otrzymywaç i przekazywaç wyp∏at z tytu∏u ich odkupienia. ———————
+1. Oświadczenia woli uczestników funduszu inwestycyjnego, funduszu zagranicznego, funduszu inwestycyjnego otwartego z siedzibą w państwie należącym do EEA oraz funduszu inwestycyjnego otwartego z siedzibą w państwie należącym do OECD innym niż państwo członkowskie lub państwo należące do EEA, wtym zlecenia nabycia lub odkupienia jednostek uczestnictwa lub tytułów uczestnictwa, mogą być składane za pośrednictwem osób fizycznych pozostających z towarzystwem, podmiotem prowadzącym działalność maklerską lub podmiotem, o którym mowa wart. 32 ust. 2, wstosunku zlecenia lub innym stosunku prawnym o podobnym charakterze. Osoba fizyczna nie może przyjmować wpłat na nabycie jednostek uczestnictwa lub tytułów uczestnictwa lub otrzymywać i przekazywać wypłat z tytułu ich odkupienia. ———————
 
-2. Za czynnoÊci dokonane przez osoby fizyczne, o których mowa w ust. 1, odpowiadajà, jak za dzia∏ania w∏asne, odpowiednio:
+2. Za czynności dokonane przez osoby fizyczne, o których mowa w ust. 1, odpowiadają, jak za działania własne, odpowiednio:
 
 - **1)** towarzystwo w trybie art. 228 ust. 1;
-- **2)** podmiot prowadzàcy dzia∏alnoÊç maklerskà wtrybie art. 45 prawa opublicznym obrocie papierami wartoÊciowymi;
+- **2)** podmiot prowadzący działalność maklerską wtrybie art. 45 prawa opublicznym obrocie papierami wartościowymi;
 - **3)** podmiot, o którym mowa w art. 32 ust. 2 w trybie art. 233 ust. 1.
 
-3. Za szkody poniesione przez osoby nabywajàce lub odkupujàce jednostki uczestnictwa funduszu inwestycyjnego za poÊrednictwem podmiotu, o którym mowa w art. 32 ust. 2, odpowiadajà solidarnie towarzystwo i ten podmiot, chyba ˝e szkoda jest wynikiem okolicznoÊci, za które ten podmiot nie ponosi odpowiedzialnoÊci.
+3. Za szkody poniesione przez osoby nabywające lub odkupujące jednostki uczestnictwa funduszu inwestycyjnego za pośrednictwem podmiotu, o którym mowa w art. 32 ust. 2, odpowiadają solidarnie towarzystwo i ten podmiot, chyba że szkoda jest wynikiem okoliczności, za które ten podmiot nie ponosi odpowiedzialności.
 
-4. Za szkody poniesione przez osoby nabywajàce lub odkupujàce jednostki uczestnictwa za poÊrednictwem banku krajowego lub instytucji kredytowej odpowiada wy∏àcznie ten bank krajowy lub instytucja kredytowa, chyba ˝e szkoda jest wynikiem okolicznoÊci, za które bank krajowy lub instytucja kredytowa nie ponosi odpowiedzialnoÊci.
+4. Za szkody poniesione przez osoby nabywające lub odkupujące jednostki uczestnictwa za pośrednictwem banku krajowego lub instytucji kredytowej odpowiada wyłącznie ten bank krajowy lub instytucja kredytowa, chyba że szkoda jest wynikiem okoliczności, za które bank krajowy lub instytucja kredytowa nie ponosi odpowiedzialności.
 
 **Art. 34.**
 
-1. Podmioty poÊredniczàce w zbywaniu iodkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytu∏ów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych zsiedzibà w paƒstwach EEA oraz funduszy inwestycyjnych otwartych z siedzibà w paƒstwach nale˝àcych do OECD innych ni˝ paƒstwo cz∏onkowskie lub paƒstwo nale˝àce do EEA, o których mowa w art. 32 ust. 1 i 2, majà obowiàzek prowadziç rejestr pe∏nomocnictw udzielonych przez uczestników tych funduszy pracownikom tych podmiotów oraz osobom fizycznym, októrych mowa w art. 33 ust. 1.
+1. Podmioty pośredniczące w zbywaniu iodkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub tytułów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych zsiedzibą w państwach EEA oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do OECD innych niż państwo członkowskie lub państwo należące do EEA, o których mowa w art. 32 ust. 1 i 2, mają obowiązek prowadzić rejestr pełnomocnictw udzielonych przez uczestników tych funduszy pracownikom tych podmiotów oraz osobom fizycznym, októrych mowa w art. 33 ust. 1.
 
-2. Rejestr, o którym mowa w ust. 1, zawiera dane osobowe pracowników lub osób fizycznych, októrych mowa w ust. 1, oraz informacje o zakresie pe∏nomocnictwa.
+2. Rejestr, o którym mowa w ust. 1, zawiera dane osobowe pracowników lub osób fizycznych, októrych mowa w ust. 1, oraz informacje o zakresie pełnomocnictwa.
 
 **Art. 35.**
 
-1. OÊwiadczenia woli uczestników funduszu inwestycyjnego sk∏adane w zwiàzku z nabywaniem i˝àdaniem odkupienia przez fundusz inwestycyjny jednostek uczestnictwa mogà byç wyra˝one za pomocà elektronicznych noÊników informacji zzachowaniem wymogów gwarantujàcych autentycznoÊç i wiarygodnoÊç oÊwiadczenia woli.
+1. Oświadczenia woli uczestników funduszu inwestycyjnego składane w związku z nabywaniem iżądaniem odkupienia przez fundusz inwestycyjny jednostek uczestnictwa mogą być wyrażone za pomocą elektronicznych nośników informacji zzachowaniem wymogów gwarantujących autentyczność i wiarygodność oświadczenia woli.
 
-2. Dokumenty zwiàzane znabywaniem i˝àdaniem odkupienia przez fundusz inwestycyjny jednostek uczestnictwa mogà byç sporzàdzane na elektronicznych noÊnikach informacji, je˝eli dokumenty te b´dà wsposób nale˝yty utworzone, utrwalone, przechowywane i zabezpieczone.
+2. Dokumenty związane znabywaniem iżądaniem odkupienia przez fundusz inwestycyjny jednostek uczestnictwa mogą być sporządzane na elektronicznych nośnikach informacji, jeżeli dokumenty te będą wsposób należyty utworzone, utrwalone, przechowywane i zabezpieczone.
 
-3. Je˝eli ustawa zastrzega dla czynnoÊci prawnej form´ pisemnà, uznaje si´, ˝e czynnoÊç dokonana formy pisemnej tak˝e wtedy, gdy forma pisemna zosta∏a zastrze˝ona pod rygorem niewa˝noÊci.
+3. Jeżeli ustawa zastrzega dla czynności prawnej formę pisemną, uznaje się, że czynność dokonana formy pisemnej także wtedy, gdy forma pisemna została zastrzeżona pod rygorem nieważności.
 
-4. Rada Ministrów mo˝e okreÊliç, w drodze rozporzàdzenia, zasady tworzenia, utrwalania, przechowywania izabezpieczania, wtym przy zastosowaniu podpisu elektronicznego, dokumentów, o których mowa w ust. 2, z uwzgl´dnieniem koniecznoÊci zapewnienia poufnoÊci i integralnoÊci przechowywanych dokumentów, wszczególnoÊci zabezpieczenia ich przed odczytaniem, modyfikowaniem lub usuni´ciem przez osoby nieupowa˝nione, aponadto zasad zabezpieczenia urzàdzeƒ i systemów informatycznych przed utratà danych spowodowanà awarià lub zdarzeniem losowym.
+4. Rada Ministrów może określić, w drodze rozporządzenia, zasady tworzenia, utrwalania, przechowywania izabezpieczania, wtym przy zastosowaniu podpisu elektronicznego, dokumentów, o których mowa w ust. 2, z uwzględnieniem konieczności zapewnienia poufności i integralności przechowywanych dokumentów, wszczególności zabezpieczenia ich przed odczytaniem, modyfikowaniem lub usunięciem przez osoby nieupoważnione, aponadto zasad zabezpieczenia urządzeń i systemów informatycznych przed utratą danych spowodowaną awarią lub zdarzeniem losowym.
 
 **Art. 36.**
 
-1. Fundusz inwestycyjny mo˝e dokonaç podzia∏u jednostek uczestnictwa albo certyfikatów inwestycyjnych, je˝eli statut funduszu inwestycyjnego na to zezwala. Podzia∏ jednostki uczestnictwa albo certyfikatu inwestycyjnego jest dokonywany na równe cz´Êci, tak aby ich ca∏kowita wartoÊç odpowiada∏a wformie, októrej mowa wust. 1, spe∏nia wymagania wartoÊci jednostki uczestnictwa albo certyfikatu inwestycyjnego przed podzia∏em.
+1. Fundusz inwestycyjny może dokonać podziału jednostek uczestnictwa albo certyfikatów inwestycyjnych, jeżeli statut funduszu inwestycyjnego na to zezwala. Podział jednostki uczestnictwa albo certyfikatu inwestycyjnego jest dokonywany na równe części, tak aby ich całkowita wartość odpowiadała wformie, októrej mowa wust. 1, spełnia wymagania wartości jednostki uczestnictwa albo certyfikatu inwestycyjnego przed podziałem.
 
-2. Statut funduszu inwestycyjnego okreÊla sposób podzia∏u jednostek uczestnictwa lub certyfikatów inwestycyjnych oraz sposób dokonywania og∏oszeƒ o zamiarze dokonania podzia∏u.
+2. Statut funduszu inwestycyjnego określa sposób podziału jednostek uczestnictwa lub certyfikatów inwestycyjnych oraz sposób dokonywania ogłoszeń o zamiarze dokonania podziału.
 
-3. Fundusz inwestycyjny mo˝e dokonaç ∏àczenia jednostek uczestnictwa tej samej kategorii wprzypadku znacznego spadku ich wartoÊci, je˝eli statut funduszu inwestycyjnego tak stanowi.
+3. Fundusz inwestycyjny może dokonać łączenia jednostek uczestnictwa tej samej kategorii wprzypadku znacznego spadku ich wartości, jeżeli statut funduszu inwestycyjnego tak stanowi.
 
-4. Fundusz inwestycyjny mo˝e dokonaç ∏àczenia certyfikatów inwestycyjnych reprezentujàcych jednakowe prawa majàtkowe, je˝eli statut funduszu tak stanowi.
+4. Fundusz inwestycyjny może dokonać łączenia certyfikatów inwestycyjnych reprezentujących jednakowe prawa majątkowe, jeżeli statut funduszu tak stanowi.
 
-5. W przypadku gdy z zasad ∏àczenia wynika, ˝e przydzielona uczestnikowi liczba certyfikatów nie by∏aby liczbà ca∏kowità, fundusz inwestycyjny zwraca uczestnikowi wÊrodkach pieni´˝nych kwot´ wynikajàcà z iloczynu nadwy˝ki ponad ca∏kowità liczb´ certyfikatów oraz wartoÊci aktywów netto funduszu przypadajàcych na certyfikat inwestycyjny po po∏àczeniu certyfikatów.
+5. W przypadku gdy z zasad łączenia wynika, że przydzielona uczestnikowi liczba certyfikatów nie byłaby liczbą całkowitą, fundusz inwestycyjny zwraca uczestnikowi wśrodkach pieniężnych kwotę wynikającą z iloczynu nadwyżki ponad całkowitą liczbę certyfikatów oraz wartości aktywów netto funduszu przypadających na certyfikat inwestycyjny po połączeniu certyfikatów.
 
-6. Statut funduszu inwestycyjnego okreÊla warunki i sposób ∏àczenia jednostek uczestnictwa lub certyfikatów inwestycyjnych, sposób dokonywania og∏oszeƒ o zamiarze dokonania ∏àczenia, sposób poinformowania uczestników o liczbie jednostek uczestnictwa, które uczestnik b´dzie posiada∏ po po∏àczeniu, a tak˝e tryb i termin zwrotu kwoty, o której mowa w ust. 5.
+6. Statut funduszu inwestycyjnego określa warunki i sposób łączenia jednostek uczestnictwa lub certyfikatów inwestycyjnych, sposób dokonywania ogłoszeń o zamiarze dokonania łączenia, sposób poinformowania uczestników o liczbie jednostek uczestnictwa, które uczestnik będzie posiadał po połączeniu, a także tryb i termin zwrotu kwoty, o której mowa w ust. 5.
 
 **Art. 37.**
 
-1. RachunkowoÊç funduszy inwestycyjnych oraz terminy sporzàdzania, badania, przeglàdu i sk∏adania do og∏oszenia rocznych lub pó∏rocznych sprawozdaƒ finansowych, po∏àczonych sprawozdaƒ finansowych funduszy z wydzielonymi subfunduszami oraz sprawozdaƒ jednostkowych subfunduszy regulujà odr´bne przepisy.
+1. Rachunkowość funduszy inwestycyjnych oraz terminy sporządzania, badania, przeglądu i składania do ogłoszenia rocznych lub półrocznych sprawozdań finansowych, połączonych sprawozdań finansowych funduszy z wydzielonymi subfunduszami oraz sprawozdań jednostkowych subfunduszy regulują odrębne przepisy.
 
-2. Roczne sprawozdania finansowe funduszu inwestycyjnego, roczne po∏àczone sprawozdania finansowe funduszu z wydzielonymi subfunduszami oraz roczne sprawozdania jednostkowe subfunduszy zatwierdza, z zastrze˝eniem art. 144 ust. 6, walne zgromadzenie akcjonariuszy towarzystwa. DZIA¸ III Towarzystwo funduszy inwestycyjnych
+2. Roczne sprawozdania finansowe funduszu inwestycyjnego, roczne połączone sprawozdania finansowe funduszu z wydzielonymi subfunduszami oraz roczne sprawozdania jednostkowe subfunduszy zatwierdza, z zastrzeżeniem art. 144 ust. 6, walne zgromadzenie akcjonariuszy towarzystwa. DZIAĘ III Towarzystwo funduszy inwestycyjnych
 
 **Art. 38.**
 
-1. Towarzystwem funduszy inwestycyjnych mo˝e byç wy∏àcznie spó∏ka akcyjna zsiedzibà na terytorium Rzeczypospolitej Polskiej, która uzyska∏a zezwolenie Komisji na wykonywanie dzia∏alnoÊci okreÊlonej w art. 45 ust. 1.
+1. Towarzystwem funduszy inwestycyjnych może być wyłącznie spółka akcyjna zsiedzibą na terytorium Rzeczypospolitej Polskiej, która uzyskała zezwolenie Komisji na wykonywanie działalności określonej w art. 45 ust. 1.
 
-2. Spó∏ka ubiegajàca si´ o uzyskanie zezwolenia na wykonywanie dzia∏alnoÊci okreÊlonej w art. 45 ust. 1, wraz z wnioskiem o udzielenie takiego zezwolenia, sk∏ada jednoczeÊnie wniosek o zezwolenie na utworzenie funduszu inwestycyjnego.
+2. Spółka ubiegająca się o uzyskanie zezwolenia na wykonywanie działalności określonej w art. 45 ust. 1, wraz z wnioskiem o udzielenie takiego zezwolenia, składa jednocześnie wniosek o zezwolenie na utworzenie funduszu inwestycyjnego.
 
-3. Spó∏ka ubiegajàca si´ o uzyskanie zezwolenia na wykonywanie dzia∏alnoÊci okreÊlonej w art. 45 ust. 1 mo˝e jednoczeÊnie z∏o˝yç wnioski o udzielenie zezwoleƒ na wykonywanie dzia∏alnoÊci, októrych mowa w art. 45 ust. 2.
+3. Spółka ubiegająca się o uzyskanie zezwolenia na wykonywanie działalności określonej w art. 45 ust. 1 może jednocześnie złożyć wnioski o udzielenie zezwoleń na wykonywanie działalności, októrych mowa w art. 45 ust. 2.
 
-4. Komisja, udzielajàc zezwolenia, októrym mowa w ust. 1, mo˝e jednoczeÊnie udzieliç zezwolenia na utworzenie funduszu inwestycyjnego oraz na wykonywanie dzia∏alnoÊci, o których mowa w art. 45 ust. 2.
+4. Komisja, udzielając zezwolenia, októrym mowa w ust. 1, może jednocześnie udzielić zezwolenia na utworzenie funduszu inwestycyjnego oraz na wykonywanie działalności, o których mowa w art. 45 ust. 2.
 
 **Art. 39.**
 
-1. Siedziba zarzàdu towarzystwa powinna znajdowaç si´ na terytorium Rzeczypospolitej Polskiej.
+1. Siedziba zarządu towarzystwa powinna znajdować się na terytorium Rzeczypospolitej Polskiej.
 
-2. W sprawach nieuregulowanych w ustawie do towarzystw stosuje si´ przepisy Kodeksu spó∏ek handlowych.
+2. W sprawach nieuregulowanych w ustawie do towarzystw stosuje się przepisy Kodeksu spółek handlowych.
 
-**Art. 40.** Jednoosobowym za∏o˝ycielem towarzystwa mo˝e byç wy∏àcznie osoba prawna.
+**Art. 40.** Jednoosobowym założycielem towarzystwa może być wyłącznie osoba prawna.
 
 **Art. 41.**
 
-1. Firma towarzystwa zawiera dodatkowe oznaczenie „towarzystwo funduszy inwestycyjnych”. Je˝eli statut towarzystwa tak stanowi, towarzystwo mo˝e zamiast tego dodatkowego oznaczenia u˝ywaç w firmie skrótu „tfi”.
+1. Firma towarzystwa zawiera dodatkowe oznaczenie Ńtowarzystwo funduszy inwestycyjnych”. Jeżeli statut towarzystwa tak stanowi, towarzystwo może zamiast tego dodatkowego oznaczenia używać w firmie skrótu Ńtfi”.
 
-2. Oznaczenia „towarzystwo funduszy inwestycyjnych” lub skrótu tego oznaczenia mo˝e u˝ywaç wy∏àcznie towarzystwo dzia∏ajàce na podstawie ustawy.
+2. Oznaczenia Ńtowarzystwo funduszy inwestycyjnych” lub skrótu tego oznaczenia może używać wyłącznie towarzystwo działające na podstawie ustawy.
 
 **Art. 42.**
 
-1. Zarzàd towarzystwa sk∏ada si´ z co najmniej dwóch cz∏onków.
+1. Zarząd towarzystwa składa się z co najmniej dwóch członków.
 
-2. Zgody Komisji wymaga powo∏anie dwóch cz∏onków zarzàdu, w tym prezesa towarzystwa.
+2. Zgody Komisji wymaga powołanie dwóch członków zarządu, w tym prezesa towarzystwa.
 
-3. Cz∏onkiem zarzàdu towarzystwa mo˝e byç osoba, która spe∏nia ∏àcznie nast´pujàce warunki:
+3. Członkiem zarządu towarzystwa może być osoba, która spełnia łącznie następujące warunki:
 
-- **1)** posiada pe∏nà zdolnoÊç do czynnoÊci prawnych;
-- **2)** nie by∏a karana za umyÊlne przest´pstwo lub prze4. Cz∏onkiem zarzàdu, którego powo∏anie wymaga zgody Komisji, wtym prezesem zarzàdu towarzystwa, mo˝e byç osoba, która oprócz wymogów, o których mowa w ust. 3, spe∏nia nast´pujàce warunki:
-- **1)** posiada wy˝sze wykszta∏cenie lub prawo wykonywania zawodu doradcy inwestycyjnego, o którym mowa wart. 22 ust. 2 prawa opublicznym obrocie papierami wartoÊciowymi;
-- **2)** legitymuje si´ sta˝em pracy nie krótszym ni˝ 3 lata na kierowniczym lub samodzielnym stanowisku w instytucjach finansowych lub pe∏nieniem przez ten okres funkcji w organach tych instytucji.
+- **1)** posiada pełną zdolność do czynności prawnych;
+- **2)** nie była karana za umyślne przestępstwo lub prze4. Członkiem zarządu, którego powołanie wymaga zgody Komisji, wtym prezesem zarządu towarzystwa, może być osoba, która oprócz wymogów, o których mowa w ust. 3, spełnia następujące warunki:
+- **1)** posiada wyższe wykształcenie lub prawo wykonywania zawodu doradcy inwestycyjnego, o którym mowa wart. 22 ust. 2 prawa opublicznym obrocie papierami wartościowymi;
+- **2)** legitymuje się stażem pracy nie krótszym niż 3 lata na kierowniczym lub samodzielnym stanowisku w instytucjach finansowych lub pełnieniem przez ten okres funkcji w organach tych instytucji.
 
-5. Przez instytucj´ finansowà rozumie si´ bank krajowy, bank zagraniczny, instytucj´ kredytowà, dom maklerski, firm´ inwestycyjnà, spó∏k´ prowadzàcà gie∏d´ lub rynek pozagie∏dowy w zakresie obrotu papierami wartoÊciowymi, spó∏k´ zarzàdzajàcà, podmiot prowadzàcy dzia∏alnoÊç ubezpieczeniowà, podmiot zarzàdzajàcy powierzonymi aktywami, towarzystwo, st´pstwo skarbowe. powszechne towarzystwo emerytalne, pracownicze towarzystwo emerytalne, fundusz zagraniczny, Krajowy Depozyt Papierów WartoÊciowych Spó∏k´ Akcyjnà, Krajowà Izb´ Rozliczeniowà Spó∏k´ Akcyjnà.
+5. Przez instytucję finansową rozumie się bank krajowy, bank zagraniczny, instytucję kredytową, dom maklerski, firmę inwestycyjną, spółkę prowadzącą giełdę lub rynek pozagiełdowy w zakresie obrotu papierami wartościowymi, spółkę zarządzającą, podmiot prowadzący działalność ubezpieczeniową, podmiot zarządzający powierzonymi aktywami, towarzystwo, stępstwo skarbowe. powszechne towarzystwo emerytalne, pracownicze towarzystwo emerytalne, fundusz zagraniczny, Krajowy Depozyt Papierów Wartościowych Spółkę Akcyjną, Krajową Izbę Rozliczeniową Spółkę Akcyjną.
 
-6. W przypadku oddelegowania cz∏onka rady nadzorczej do czasowego wykonywania czynnoÊci cz∏onka zarzàdu, je˝eli osoba oddelegowana ma wykonywaç czynnoÊci cz∏onka zarzàdu zatwierdzonego przez Komisj´, Komisja mo˝e zg∏osiç sprzeciw wobec oddelegowania tej osoby w terminie 14 dni od dnia otrzymania powiadomienia. Do powiadomienia za∏àcza si´ dane osobowe tej osoby wraz zopisem jej kwalifikacji i doÊwiadczeƒ zawodowych oraz informacj´ z Krajowego Rejestru Karnego.
+6. W przypadku oddelegowania członka rady nadzorczej do czasowego wykonywania czynności członka zarządu, jeżeli osoba oddelegowana ma wykonywać czynności członka zarządu zatwierdzonego przez Komisję, Komisja może zgłosić sprzeciw wobec oddelegowania tej osoby w terminie 14 dni od dnia otrzymania powiadomienia. Do powiadomienia załącza się dane osobowe tej osoby wraz zopisem jej kwalifikacji i doświadczeń zawodowych oraz informację z Krajowego Rejestru Karnego.
 
-7. Od dnia zg∏oszenia sprzeciwu, o którym mowa w ust. 6, osoba, wobec której Komisja zg∏osi∏a sprzeciw, nie mo˝e wykonywaç czynnoÊci cz∏onka zarzàdu.
+7. Od dnia zgłoszenia sprzeciwu, o którym mowa w ust. 6, osoba, wobec której Komisja zgłosiła sprzeciw, nie może wykonywać czynności członka zarządu.
 
 **Art. 43.**
 
-1. Zwnioskiem oudzielenie zgody Komisji na powo∏anie cz∏onka zarzàdu wyst´puje przewodniczàcy rady nadzorczej towarzystwa lub inna osoba wskazana w uchwale rady.
+1. Zwnioskiem oudzielenie zgody Komisji na powołanie członka zarządu występuje przewodniczący rady nadzorczej towarzystwa lub inna osoba wskazana w uchwale rady.
 
-2. Osoba, która uzyska∏a zgod´ Komisji na pe∏nienie funkcji cz∏onka zarzàdu, mo˝e wykonywaç t´ funkcj´ w kolejnych, bezpoÊrednio nast´pujàcych po sobie, kadencjach bez zgody Komisji.
+2. Osoba, która uzyskała zgodę Komisji na pełnienie funkcji członka zarządu, może wykonywać tę funkcję w kolejnych, bezpośrednio następujących po sobie, kadencjach bez zgody Komisji.
 
-3. Przewodniczàcy rady nadzorczej towarzystwa lub inna osoba wskazana w uchwale rady niezw∏ocznie powiadamia Komisj´ o pozosta∏ych osobach ze sk∏adu zarzàdu towarzystwa, je˝eli zarzàd sk∏ada si´ z wi´cej ni˝ dwóch cz∏onków, oraz o zmianach w sk∏adzie zarzàdu.
+3. Przewodniczący rady nadzorczej towarzystwa lub inna osoba wskazana w uchwale rady niezwłocznie powiadamia Komisję o pozostałych osobach ze składu zarządu towarzystwa, jeżeli zarząd składa się z więcej niż dwóch członków, oraz o zmianach w składzie zarządu.
 
-4. Do powiadomienia, o którym mowa w ust. 3, do∏àcza si´ dane osobowe nowych cz∏onków zarzàdu wraz z opisem ich kwalifikacji i doÊwiadczeƒ zawodowych oraz informacje z Krajowego Rejestru Karnego.
+4. Do powiadomienia, o którym mowa w ust. 3, dołącza się dane osobowe nowych członków zarządu wraz z opisem ich kwalifikacji i doświadczeń zawodowych oraz informacje z Krajowego Rejestru Karnego.
 
 **Art. 44.**
 
-1. Cz∏onkiem rady nadzorczej towarzystwa mo˝e byç osoba, która spe∏nia warunki, októrych mowa w art. 42 ust. 3.
+1. Członkiem rady nadzorczej towarzystwa może być osoba, która spełnia warunki, októrych mowa w art. 42 ust. 3.
 
-2. Co najmniej po∏owa cz∏onków rady nadzorczej towarzystwa powinna posiadaç wy˝sze wykszta∏cenie lub prawo wykonywania zawodu doradcy inwestycyjnego, októrym mowa wart. 22 ust. 2 prawa opublicznym obrocie papierami wartoÊciowymi.
+2. Co najmniej połowa członków rady nadzorczej towarzystwa powinna posiadać wyższe wykształcenie lub prawo wykonywania zawodu doradcy inwestycyjnego, októrym mowa wart. 22 ust. 2 prawa opublicznym obrocie papierami wartościowymi.
 
-3. O powo∏aniu nowego cz∏onka rady nadzorczej towarzystwo niezw∏ocznie powiadamia Komisj´, do∏àczajàc do powiadomienia dane osobowe tej osoby wraz z opisem jej kwalifikacji i doÊwiadczeƒ zawodowych oraz informacj´ z Krajowego Rejestru Karnego.
+3. O powołaniu nowego członka rady nadzorczej towarzystwo niezwłocznie powiadamia Komisję, dołączając do powiadomienia dane osobowe tej osoby wraz z opisem jej kwalifikacji i doświadczeń zawodowych oraz informację z Krajowego Rejestru Karnego.
 
-4. Komisja, w terminie 14 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 3, mo˝e zg∏osiç sprzeciw wobec powo∏ania nowego cz∏onka rady nadzorczej.
+4. Komisja, w terminie 14 dni od dnia otrzymania powiadomienia, o którym mowa w ust. 3, może zgłosić sprzeciw wobec powołania nowego członka rady nadzorczej.
 
-5. Od dnia zg∏oszenia sprzeciwu, o którym mowa w ust. 4, osoba, wobec której Komisja zg∏osi∏a sprzeciw, nie mo˝e pe∏niç funkcji cz∏onka rady nadzorczej i powinna zostaç niezw∏ocznie odwo∏ana.
+5. Od dnia zgłoszenia sprzeciwu, o którym mowa w ust. 4, osoba, wobec której Komisja zgłosiła sprzeciw, nie może pełnić funkcji członka rady nadzorczej i powinna zostać niezwłocznie odwołana.
 
 **Art. 45.**
 
-1. Przedmiotem dzia∏alnoÊci towarzystwa jest wy∏àcznie tworzenie funduszy inwestycyjnych i zarzàdzanie nimi, w tym poÊrednictwo w zbywaniu iodkupywaniu jednostek uczestnictwa, reprezentowanie ich wobec osób trzecich oraz zarzàdzanie zbiorczym portfelem papierów wartoÊciowych.
+1. Przedmiotem działalności towarzystwa jest wyłącznie tworzenie funduszy inwestycyjnych i zarządzanie nimi, w tym pośrednictwo w zbywaniu iodkupywaniu jednostek uczestnictwa, reprezentowanie ich wobec osób trzecich oraz zarządzanie zbiorczym portfelem papierów wartościowych.
 
-2. Za zezwoleniem Komisji towarzystwo mo˝e rozszerzyç przedmiot dzia∏alnoÊci o:
+2. Za zezwoleniem Komisji towarzystwo może rozszerzyć przedmiot działalności o:
 
-- **1)** zarzàdzanie cudzym pakietem papierów wartoÊciowych na zlecenie;
-- **2)** doradztwo wzakresie obrotu papierami wartoÊciowymi;
-- **3)** poÊrednictwo w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych utworzonych przez inne towarzystwa lub tytu∏ów uczestnictwa funduszy zagranicznych;
-- **4)** pe∏nienie funkcji przedstawiciela funduszy zagra5. Wy∏àcznym przedmiotem dzia∏alnoÊci towarzystwa nie mo˝e byç wykonywanie czynnoÊci, októrych mowa w ust. 2, oraz zarzàdzanie zbiorczym portfelem papierów wartoÊciowych.
+- **1)** zarządzanie cudzym pakietem papierów wartościowych na zlecenie;
+- **2)** doradztwo wzakresie obrotu papierami wartościowymi;
+- **3)** pośrednictwo w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych utworzonych przez inne towarzystwa lub tytułów uczestnictwa funduszy zagranicznych;
+- **4)** pełnienie funkcji przedstawiciela funduszy zagra5. Wyłącznym przedmiotem działalności towarzystwa nie może być wykonywanie czynności, októrych mowa w ust. 2, oraz zarządzanie zbiorczym portfelem papierów wartościowych.
 
-6. Do wniosku o udzielenie zezwolenia na dzia∏alnoÊç, o której mowa w ust. 2 pkt 3, towarzystwo za∏àcza dokumenty, o których mowa w art. 32 ust. 4 pkt 4—9 i 12.
+6. Do wniosku o udzielenie zezwolenia na działalność, o której mowa w ust. 2 pkt 3, towarzystwo załącza dokumenty, o których mowa w art. 32 ust. 4 pkt 4—9 i 12.
 
-7. Do wniosku o udzielenie zezwolenia na dzia∏alnoÊç, o której mowa w ust. 2 pkt 4, towarzystwo za∏àcza co najmniej jednà umow´ o pe∏nienie funkcji przedstawiciela funduszu zagranicznego.
+7. Do wniosku o udzielenie zezwolenia na działalność, o której mowa w ust. 2 pkt 4, towarzystwo załącza co najmniej jedną umowę o pełnienie funkcji przedstawiciela funduszu zagranicznego.
 
 **Art. 46.**
 
-1. Towarzystwo mo˝e, na podstawie umowy, zleciç zarzàdzanie portfelem inwestycyjnym funduszu lub jego cz´Êcià wy∏àcznie:
+1. Towarzystwo może, na podstawie umowy, zlecić zarządzanie portfelem inwestycyjnym funduszu lub jego częścią wyłącznie:
 
-- **1)** podmiotowi prowadzàcemu dzia∏alnoÊç maklerskà wzakresie wynikajàcym zprawa opublicznym obrocie papierami wartoÊciowymi; nicznych, o którym mowa w art. 253 ust. 2 pkt 6.
+- **1)** podmiotowi prowadzącemu działalność maklerską wzakresie wynikającym zprawa opublicznym obrocie papierami wartościowymi; nicznych, o którym mowa w art. 253 ust. 2 pkt 6.
 
-3. Towarzystwo jest obowiàzane zatrudniaç co najmniej:
+3. Towarzystwo jest obowiązane zatrudniać co najmniej:
 
-- **1)** dwóch doradców inwestycyjnych do wykonywania czynnoÊci zarzàdzania funduszami inwestycyjnymi, zarzàdzania zbiorczym portfelem papierów wartoÊciowych oraz zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie, z zastrze˝eniem ust. 4;
-- **2)** jednego doradc´ inwestycyjnego do wykonywania czynnoÊci doradztwa w zakresie obrotu papierami wartoÊciowymi.
+- **1)** dwóch doradców inwestycyjnych do wykonywania czynności zarządzania funduszami inwestycyjnymi, zarządzania zbiorczym portfelem papierów wartościowych oraz zarządzania cudzym pakietem papierów wartościowych na zlecenie, z zastrzeżeniem ust. 4;
+- **2)** jednego doradcę inwestycyjnego do wykonywania czynności doradztwa w zakresie obrotu papierami wartościowymi.
 
-4. Towarzystwo nie musi zatrudniaç doradców inwestycyjnych, je˝eli zarzàdza wy∏àcznie funduszami, o których mowa w art. 183 lub 196.
+4. Towarzystwo nie musi zatrudniać doradców inwestycyjnych, jeżeli zarządza wyłącznie funduszami, o których mowa w art. 183 lub 196.
 
-- **2)** podmiotowi prowadzàcemu dzia∏alnoÊç maklerskà majàcemu siedzib´ w paƒstwie cz∏onkowskim;
-- **3)** podmiotowi prowadzàcemu dzia∏alnoÊç maklerskà z siedzibà w paƒstwie nale˝àcym do OECD innym ni˝ Rzeczpospolita Polska ipaƒstwo cz∏onkowskie, je˝eli:
-    - **a)** do portfela inwestycyjnego funduszu lub jego cz´Êci, zgodnie ze statutem funduszu, b´dà nabywane papiery wartoÊciowe lub instrumenty rynku pieni´˝nego notowane na rynku zorganizowanym w paƒstwie nale˝àcym do OECD,
-    - **b)** podmiot prowadzàcy dzia∏alnoÊç maklerskà podlega nadzorowi w∏aÊciwego organu nadzoru nad rynkiem kapita∏owym w tym paƒstwie,
-    - **c)** jest zapewniona, na zasadzie wzajemnoÊci, wspó∏praca Komisji z tym organem nadzoru.
+- **2)** podmiotowi prowadzącemu działalność maklerską mającemu siedzibę w państwie członkowskim;
+- **3)** podmiotowi prowadzącemu działalność maklerską z siedzibą w państwie należącym do OECD innym niż Rzeczpospolita Polska ipaństwo członkowskie, jeżeli:
+    - **a)** do portfela inwestycyjnego funduszu lub jego części, zgodnie ze statutem funduszu, będą nabywane papiery wartościowe lub instrumenty rynku pieniężnego notowane na rynku zorganizowanym w państwie należącym do OECD,
+    - **b)** podmiot prowadzący działalność maklerską podlega nadzorowi właściwego organu nadzoru nad rynkiem kapitałowym w tym państwie,
+    - **c)** jest zapewniona, na zasadzie wzajemności, współpraca Komisji z tym organem nadzoru.
 
-2. Towarzystwo zarzàdzajàce funduszem inwestycyjnym, który lokuje aktywa w nieruchomoÊci, mo˝e równie˝, na podstawie umowy, zleciç czynnoÊci zwiàzane z zarzàdzaniem nieruchomoÊciami wyspecjalizowanym podmiotom posiadajàcym uprawnienia wymagane przez ustaw´ z dnia 21 sierpnia 1997 r. o gospodarce nieruchomoÊciami (Dz. U. z 2000 r. 46, poz. 543, z póên. zm. ), a tak˝e zleciç inne czynnoÊci zwiàzane z gospodarowaniem nieruchomoÊciami, w szczególnoÊci realizacj´ procesów inwestycyjnych, wyspecjalizowanym podmiotom posiadajàcym doÊwiadczenie w tym zakresie. ———————
+2. Towarzystwo zarządzające funduszem inwestycyjnym, który lokuje aktywa w nieruchomości, może również, na podstawie umowy, zlecić czynności związane z zarządzaniem nieruchomościami wyspecjalizowanym podmiotom posiadającym uprawnienia wymagane przez ustawę z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami (Dz. U. z 2000 r. 46, poz. 543, z póên. zm. ), a także zlecić inne czynności związane z gospodarowaniem nieruchomościami, w szczególności realizację procesów inwestycyjnych, wyspecjalizowanym podmiotom posiadającym doświadczenie w tym zakresie. ———————
 
-3. Towarzystwo zarzàdzajàce funduszem inwestycyjnym, o którym mowa w art. 196, mo˝e równie˝, na podstawie umowy, zleciç zarzàdzanie portfelem inwestycyjnym funduszu lub jego cz´Êcià wyspecjalizowanym podmiotom posiadajàcym doÊwiadczenie w tym zakresie innym ni˝ podmiot prowadzàcy dzia∏alnoÊç maklerskà.
+3. Towarzystwo zarządzające funduszem inwestycyjnym, o którym mowa w art. 196, może również, na podstawie umowy, zlecić zarządzanie portfelem inwestycyjnym funduszu lub jego częścią wyspecjalizowanym podmiotom posiadającym doświadczenie w tym zakresie innym niż podmiot prowadzący działalność maklerską.
 
-4. Wsk∏ad przekazanego do zarzàdzania przez podmioty, o których mowa w ust. 3, portfela inwestycyjnego funduszu lub cz´Êci tego portfela nie mogà wchodziç papiery wartoÊciowe dopuszczone do publicznego obrotu.
+4. Wskład przekazanego do zarządzania przez podmioty, o których mowa w ust. 3, portfela inwestycyjnego funduszu lub części tego portfela nie mogą wchodzić papiery wartościowe dopuszczone do publicznego obrotu.
 
-5. Przepis ust. 4 nie wy∏àcza mo˝liwoÊci zlecenia podmiotom, októrych mowa wust. 3, wdrodze umowy, podejmowania decyzji co do sposobu g∏osowania na walnym zgromadzeniu akcjonariuszy, jak równie˝ zbywania i nabywania akcji spó∏ki, której akcje wchodzi∏y wsk∏ad przekazanego do zarzàdzania portfela inwestycyjnego funduszu lub cz´Êci tego portfela przed dniem wprowadzenia do publicznego obrotu.
+5. Przepis ust. 4 nie wyłącza możliwości zlecenia podmiotom, októrych mowa wust. 3, wdrodze umowy, podejmowania decyzji co do sposobu głosowania na walnym zgromadzeniu akcjonariuszy, jak również zbywania i nabywania akcji spółki, której akcje wchodziły wskład przekazanego do zarządzania portfela inwestycyjnego funduszu lub części tego portfela przed dniem wprowadzenia do publicznego obrotu.
 
-6. Zawarcie przez towarzystwo umów, o których mowa w ust. 1—3, nie zwalnia towarzystwa z odpowiedzialnoÊci wobec uczestników funduszu okreÊlonej w art. 64 ust. 1.
+6. Zawarcie przez towarzystwo umów, o których mowa w ust. 1—3, nie zwalnia towarzystwa z odpowiedzialności wobec uczestników funduszu określonej w art. 64 ust. 1.
 
-7. Za szkody spowodowane niewykonaniem lub nienale˝ytym wykonaniem umów, o których mowa w ust. 1—3, towarzystwo odpowiada wobec uczestników funduszu solidarnie z podmiotem, z którym zawar∏o umow´, chyba ˝e szkoda jest wynikiem okolicznoÊci, za które podmiot ten nie ponosi odpowiedzialnoÊci.
+7. Za szkody spowodowane niewykonaniem lub nienależytym wykonaniem umów, o których mowa w ust. 1—3, towarzystwo odpowiada wobec uczestników funduszu solidarnie z podmiotem, z którym zawarło umowę, chyba że szkoda jest wynikiem okoliczności, za które podmiot ten nie ponosi odpowiedzialności.
 
-8. Przepisu art. 45 ust. 3 pkt 1 nie stosuje si´ w przypadku, gdy na podstawie umowy lub umów, o których mowa w ust. 1—3, towarzystwo zleci∏o zarzàdzanie ca∏oÊcià portfeli inwestycyjnych wszystkich zarzàdzanych przez siebie funduszy inwestycyjnych oraz nie wykonuje czynnoÊci zarzàdzania zbiorczym portfelem papierów wartoÊciowych i zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie.
+8. Przepisu art. 45 ust. 3 pkt 1 nie stosuje się w przypadku, gdy na podstawie umowy lub umów, o których mowa w ust. 1—3, towarzystwo zleciło zarządzanie całością portfeli inwestycyjnych wszystkich zarządzanych przez siebie funduszy inwestycyjnych oraz nie wykonuje czynności zarządzania zbiorczym portfelem papierów wartościowych i zarządzania cudzym pakietem papierów wartościowych na zlecenie.
 
-9. Towarzystwo nie mo˝e zleciç zarzàdzania portfelem inwestycyjnym funduszu lub jego cz´Êcià depozytariuszowi funduszu oraz podmiotowi, którego interesy mogà byç sprzeczne z interesem towarzystwa lub interesem uczestników funduszu inwestycyjnego.
+9. Towarzystwo nie może zlecić zarządzania portfelem inwestycyjnym funduszu lub jego częścią depozytariuszowi funduszu oraz podmiotowi, którego interesy mogą być sprzeczne z interesem towarzystwa lub interesem uczestników funduszu inwestycyjnego.
 
 **Art. 47.**
 
-1. Towarzystwo, wykonujàc dzia∏alnoÊç w zakresie zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie, nie mo˝e inwestowaç przekazanych do zarzàdzania Êrodków klientów wjednostki uczestnictwa lub certyfikaty inwestycyjne funduszy inwestycyjnych, którymi towarzystwo zarzàdza, chyba ˝e umowa z klientem stanowi inaczej.
+1. Towarzystwo, wykonując działalność w zakresie zarządzania cudzym pakietem papierów wartościowych na zlecenie, nie może inwestować przekazanych do zarządzania środków klientów wjednostki uczestnictwa lub certyfikaty inwestycyjne funduszy inwestycyjnych, którymi towarzystwo zarządza, chyba że umowa z klientem stanowi inaczej.
 
-2. Towarzystwo wycenia aktywa wchodzàce wsk∏ad przekazanego do zarzàdzania cudzego pakietu papierów wartoÊciowych zgodnie z przepisami okreÊlajàcymi zasady imetody dokonywania wyceny aktywów funduszy inwestycyjnych, chyba ˝e umowa
+2. Towarzystwo wycenia aktywa wchodzące wskład przekazanego do zarządzania cudzego pakietu papierów wartościowych zgodnie z przepisami określającymi zasady imetody dokonywania wyceny aktywów funduszy inwestycyjnych, chyba że umowa
 
-3. Towarzystwo, wykonujàc dzia∏alnoÊç, o której mowa w ust. 1, jest obowiàzane do:
+3. Towarzystwo, wykonując działalność, o której mowa w ust. 1, jest obowiązane do:
 
-- **1)** prowadzenia odr´bnej ewidencji zawartych transakcji;
-- **2)** organizacyjnego wyodr´bnienia dzia∏alnoÊci w zakresie zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie albo doradztwa w zakresie obrotu papierami wartoÊciowymi, w celu uniemo˝liwienia przep∏ywu informacji, których wykorzystanie mog∏oby naruszyç interes uczestników funduszu inwestycyjnego lub klientów, dla których towarzystwo Êwiadczy us∏ugi zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa w zakresie obrotu papierami wartoÊciowymi.
+- **1)** prowadzenia odrębnej ewidencji zawartych transakcji;
+- **2)** organizacyjnego wyodrębnienia działalności w zakresie zarządzania cudzym pakietem papierów wartościowych na zlecenie albo doradztwa w zakresie obrotu papierami wartościowymi, w celu uniemożliwienia przepływu informacji, których wykorzystanie mogłoby naruszyć interes uczestników funduszu inwestycyjnego lub klientów, dla których towarzystwo świadczy usługi zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa w zakresie obrotu papierami wartościowymi.
 
-4. Towarzystwo, które prowadzi dzia∏alnoÊç, o której mowa wust. 1, podlega obowiàzkowi uczestnictwa w systemie rekompensat, o którym mowa w prawie opublicznym obrocie papierami wartoÊciowymi, wtaz klientem stanowi inaczej. kim samym zakresie co dom maklerski prowadzàcy dzia∏alnoÊç wy∏àcznie w zakresie zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa w zakresie obrotu papierami wartoÊciowymi. Przepisy prawa o publicznym obrocie papierami wartoÊciowymi o obowiàzkowym systemie rekompensat stosuje si´ odpowiednio.
+4. Towarzystwo, które prowadzi działalność, o której mowa wust. 1, podlega obowiązkowi uczestnictwa w systemie rekompensat, o którym mowa w prawie opublicznym obrocie papierami wartościowymi, wtaz klientem stanowi inaczej. kim samym zakresie co dom maklerski prowadzący działalność wyłącznie w zakresie zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa w zakresie obrotu papierami wartościowymi. Przepisy prawa o publicznym obrocie papierami wartościowymi o obowiązkowym systemie rekompensat stosuje się odpowiednio.
 
 **Art. 48.**
 
-1. W towarzystwie, z wyjàtkiem towarzystwa zarzàdzajàcego wy∏àcznie funduszami, o których mowa w art. 196, dzia∏a kontrola wewn´trzna, która sprawdza legalnoÊç i prawid∏owoÊç wykonywanej przez towarzystwo dzia∏alnoÊci oraz prawid∏owoÊç i rzetelnoÊç sporzàdzanych przez towarzystwo i zarzàdzane przez nie fundusze inwestycyjne sprawozdaƒ i informacji.
+1. W towarzystwie, z wyjątkiem towarzystwa zarządzającego wyłącznie funduszami, o których mowa w art. 196, działa kontrola wewnętrzna, która sprawdza legalność i prawidłowość wykonywanej przez towarzystwo działalności oraz prawidłowość i rzetelność sporządzanych przez towarzystwo i zarządzane przez nie fundusze inwestycyjne sprawozdań i informacji.
 
-2. Cz∏onkowie zarzàdu, rady nadzorczej towarzystwa, pracownicy towarzystwa oraz inne osoby pozostajàce z towarzystwem w stosunku zlecenia, albo w innym stosunku o podobnym charakterze, które majà dost´p do informacji dotyczàcych obecnych iplanowanych lokat funduszy inwestycyjnych oraz aktywów nabywanych do portfeli klientów, dla których towarzystwo wykonuje us∏ugi zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa w zakresie obrotu papierami wartoÊciowymi, sà obowiàzani, przy prowadzeniu dzia∏alnoÊci inwestycyjnej na w∏asny rachunek lub na rachunek innych osób, do powstrzymania si´ od zawierania transakcji, które mog∏yby powodowaç wystàpienie konfliktu interesów z funduszem inwestycyjnym lub interesami klientów, dla których towarzystwo wykonuje us∏ugi zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa w zakresie obrotu papierami wartoÊciowymi.
+2. Członkowie zarządu, rady nadzorczej towarzystwa, pracownicy towarzystwa oraz inne osoby pozostające z towarzystwem w stosunku zlecenia, albo w innym stosunku o podobnym charakterze, które mają dostęp do informacji dotyczących obecnych iplanowanych lokat funduszy inwestycyjnych oraz aktywów nabywanych do portfeli klientów, dla których towarzystwo wykonuje usługi zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa w zakresie obrotu papierami wartościowymi, są obowiązani, przy prowadzeniu działalności inwestycyjnej na własny rachunek lub na rachunek innych osób, do powstrzymania się od zawierania transakcji, które mogłyby powodować wystąpienie konfliktu interesów z funduszem inwestycyjnym lub interesami klientów, dla których towarzystwo wykonuje usługi zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa w zakresie obrotu papierami wartościowymi.
 
-3. Minister w∏aÊciwy do spraw instytucji finansowych mo˝e okreÊliç, w drodze rozporzàdzenia:
+3. Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia:
 
-- **1)** sposób dzia∏ania kontroli wewn´trznej w towarzystwie,
-- **2)** sposób prowadzenia ewidencji zawartych transakcji przez fundusze inwestycyjne oraz transakcji zawartych na rachunek w∏asny towarzystwa lub zbiorczego portfela papierów wartoÊciowych, albo na rachunek klientów, którzy podpisali z towarzystwem umow´ o zarzàdzanie cudzym pakietem papierów wartoÊciowych na zlecenie,
-- **3)** sposoby zapobiegania wyst´powaniu konfliktów interesów, w tym zasady zawierania transakcji przez pracowników, cz∏onków zarzàdu oraz rady nadzorczej towarzystwa albo przez inne osoby pozostajàce z towarzystwem w stosunku zlecenia albo w innym stosunku o podobnym charakterze, które majà dost´p do informacji dotyczàcych obecnych i planowanych lokat funduszy inwestycyjnych oraz aktywów nabywanych do portfeli klientów, dla których towarzystwo wykonuje us∏ugi zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa wzakresie obrotu tymi papierami,
-- **4)** sposób dokumentowania êróde∏ b´dàcych podstawà decyzji inwestycyjnych w celu zapewnienia ochrony interesów uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartoÊciowych oraz klientów, dla których towarzystwo wykonuje us∏ugi zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa w zakresie obrotu papierami wartoÊciowymi.
+- **1)** sposób działania kontroli wewnętrznej w towarzystwie,
+- **2)** sposób prowadzenia ewidencji zawartych transakcji przez fundusze inwestycyjne oraz transakcji zawartych na rachunek własny towarzystwa lub zbiorczego portfela papierów wartościowych, albo na rachunek klientów, którzy podpisali z towarzystwem umowę o zarządzanie cudzym pakietem papierów wartościowych na zlecenie,
+- **3)** sposoby zapobiegania występowaniu konfliktów interesów, w tym zasady zawierania transakcji przez pracowników, członków zarządu oraz rady nadzorczej towarzystwa albo przez inne osoby pozostające z towarzystwem w stosunku zlecenia albo w innym stosunku o podobnym charakterze, które mają dostęp do informacji dotyczących obecnych i planowanych lokat funduszy inwestycyjnych oraz aktywów nabywanych do portfeli klientów, dla których towarzystwo wykonuje usługi zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa wzakresie obrotu tymi papierami,
+- **4)** sposób dokumentowania êródeł będących podstawą decyzji inwestycyjnych w celu zapewnienia ochrony interesów uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych oraz klientów, dla których towarzystwo wykonuje usługi zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa w zakresie obrotu papierami wartościowymi.
 
 **Art. 49.**
 
-1. Kapita∏ poczàtkowy towarzystwa na wykonywanie dzia∏alnoÊci wynosi co najmniej wyra˝onà wz∏otych równowartoÊç 125 000 euro przy zastosowaniu Êredniego kursu og∏oszonego przez Narodowy Bank Polski na dzieƒ poprzedzajàcy dzieƒ z∏o˝enia wniosków, o których mowa w art. 38 ust. 2.
+1. Kapitał początkowy towarzystwa na wykonywanie działalności wynosi co najmniej wyrażoną wzłotych równowartość 125 000 euro przy zastosowaniu średniego kursu ogłoszonego przez Narodowy Bank Polski na dzień poprzedzający dzień złożenia wniosków, o których mowa w art. 38 ust. 2.
 
-2. Je˝eli towarzystwo wykonuje dzia∏alnoÊç, októrej mowa wart. 45 ust. 2 pkt 1, kapita∏ poczàtkowy ulega zwi´kszeniu do wysokoÊci wyra˝onej w z∏otych równowartoÊci 730 000 euro przy zastosowaniu Êredniego kursu og∏oszonego przez Narodowy Bank Polski na dzieƒ poprzedzajàcy dzieƒ z∏o˝enia wniosków, o których mowa w art. 38 ust. 2.
+2. Jeżeli towarzystwo wykonuje działalność, októrej mowa wart. 45 ust. 2 pkt 1, kapitał początkowy ulega zwiększeniu do wysokości wyrażonej w złotych równowartości 730 000 euro przy zastosowaniu średniego kursu ogłoszonego przez Narodowy Bank Polski na dzień poprzedzający dzień złożenia wniosków, o których mowa w art. 38 ust. 2.
 
-3. Przez kapita∏ poczàtkowy rozumie si´ sum´ kapita∏u zak∏adowego, wwielkoÊci, wjakiej zosta∏ wp∏acony ∏àcznie z premià emisyjnà, niepodzielonego zysku z lat ubieg∏ych, a tak˝e zysku netto w trakcie zatwierdzania, o ile zysk ten wynika ze zbadanego przez bieg∏ego rewidenta sprawozdania finansowego, oraz kapita∏u rezerwowego, pomniejszonà o niepokrytà strat´ z lat ubieg∏ych.
+3. Przez kapitał początkowy rozumie się sumę kapitału zakładowego, wwielkości, wjakiej został wpłacony łącznie z premią emisyjną, niepodzielonego zysku z lat ubiegłych, a także zysku netto w trakcie zatwierdzania, o ile zysk ten wynika ze zbadanego przez biegłego rewidenta sprawozdania finansowego, oraz kapitału rezerwowego, pomniejszoną o niepokrytą stratę z lat ubiegłych.
 
 **Art. 50.**
 
-1. Towarzystwo ma obowiàzek utrzymywania kapita∏u w∏asnego na poziomie nie ni˝szym ni˝ 25% kosztów poniesionych w poprzednim roku obrotowym, wykazanych w sprawozdaniach przekazywanych Komisji na podstawie art. 225 ust. 1, a je˝eli towarzystwo nie prowadzi∏o dzia∏alnoÊci lub prowadzi∏o jà krócej ni˝ rok na poziomie nie ni˝szym ni˝ 25 % kosztów okreÊlonych wanalizie ekonomiczno-finansowej, o której mowa w art. 58 ust. 1 pkt 3, z za2. Towarzystwo jest obowiàzane zwi´kszyç wartoÊç kapita∏u w∏asnego zgodnie zprzepisami wydanymi na podstawie ust. 10, je˝eli dodatkowo prowadzi dzia∏alnoÊç, o której mowa w art. 45 ust. 2.
+1. Towarzystwo ma obowiązek utrzymywania kapitału własnego na poziomie nie niższym niż 25% kosztów poniesionych w poprzednim roku obrotowym, wykazanych w sprawozdaniach przekazywanych Komisji na podstawie art. 225 ust. 1, a jeżeli towarzystwo nie prowadziło działalności lub prowadziło ją krócej niż rok na poziomie nie niższym niż 25 % kosztów określonych wanalizie ekonomiczno-finansowej, o której mowa w art. 58 ust. 1 pkt 3, z za2. Towarzystwo jest obowiązane zwiększyć wartość kapitału własnego zgodnie zprzepisami wydanymi na podstawie ust. 10, jeżeli dodatkowo prowadzi działalność, o której mowa w art. 45 ust. 2.
 
-3. Od chwili, gdy wartoÊç aktywów funduszy inwestycyjnych oraz wartoÊç aktywów zbiorczych portfeli papierów wartoÊciowych zarzàdzanych przez towarzystwo przekroczy wyra˝onà w z∏otych równowartoÊç 250 000 000 euro na dzieƒ wystàpienia zdarzenia, towarzystwo ma obowiàzek niezw∏ocznie zwi´kszaç poziom kapita∏u w∏asnego o kwot´ dodatkowà, stanowiàcà 0,02 % ró˝nicy mi´dzy sumà wartoÊci aktywów zarzàdzanych przez towarzystwo funduszy inwestycyjnych oraz wartoÊci aktywów zbiorczych portfeli papierów wartoÊciowych a kwotà stanowiàcà równowartoÊç w z∏otych 250 000 000 euro.
+3. Od chwili, gdy wartość aktywów funduszy inwestycyjnych oraz wartość aktywów zbiorczych portfeli papierów wartościowych zarządzanych przez towarzystwo przekroczy wyrażoną w złotych równowartość 250 000 000 euro na dzień wystąpienia zdarzenia, towarzystwo ma obowiązek niezwłocznie zwiększać poziom kapitału własnego o kwotę dodatkową, stanowiącą 0,02 % różnicy między sumą wartości aktywów zarządzanych przez towarzystwo funduszy inwestycyjnych oraz wartości aktywów zbiorczych portfeli papierów wartościowych a kwotą stanowiącą równowartość w złotych 250 000 000 euro.
 
-4. Towarzystwo nie ma obowiàzku zwi´kszania poziomu kapita∏u w∏asnego, októrym mowa wust. 3, je˝eli suma kapita∏u poczàtkowego towarzystwa ikwoty dodatkowej, októrej mowa wust. 3, przekroczy wyrastrze˝eniem ust. 2 i 3. ˝onà w z∏otych równowartoÊç 10 000 000 euro.
+4. Towarzystwo nie ma obowiązku zwiększania poziomu kapitału własnego, októrym mowa wust. 3, jeżeli suma kapitału początkowego towarzystwa ikwoty dodatkowej, októrej mowa wust. 3, przekroczy wyrastrzeżeniem ust. 2 i 3. żoną w złotych równowartość 10 000 000 euro.
 
-5. O zmniejszeniu wartoÊci kapita∏ów w∏asnych poni˝ej poziomu okreÊlonego w ust. 1 i w przepisach wydanych na podstawie ust. 10 towarzystwo zawiadamia niezw∏ocznie Komisj´.
+5. O zmniejszeniu wartości kapitałów własnych poniżej poziomu określonego w ust. 1 i w przepisach wydanych na podstawie ust. 10 towarzystwo zawiadamia niezwłocznie Komisję.
 
-6. Komisja mo˝e cofnàç zezwolenie na wykonywanie dzia∏alnoÊci przez towarzystwo, je˝eli wartoÊç kapita∏ów w∏asnych towarzystwa nie zostanie, w terminie 3 miesi´cy, uzupe∏niona do wymaganego poziomu, z zastrze˝eniem ust. 7.
+6. Komisja może cofnąć zezwolenie na wykonywanie działalności przez towarzystwo, jeżeli wartość kapitałów własnych towarzystwa nie zostanie, w terminie 3 miesięcy, uzupełniona do wymaganego poziomu, z zastrzeżeniem ust. 7.
 
-7. Je˝eli w wyniku zmiany kursu euro wartoÊç kapita∏u w∏asnego towarzystwa ulegnie obni˝eniu poni˝ej poziomu wymaganego zgodnie z ust. 1—3, towarzystwo jest obowiàzane zwi´kszyç wartoÊç kapita∏u w∏asnego do wymaganego poziomu w terminie 6 miesi´cy.
+7. Jeżeli w wyniku zmiany kursu euro wartość kapitału własnego towarzystwa ulegnie obniżeniu poniżej poziomu wymaganego zgodnie z ust. 1—3, towarzystwo jest obowiązane zwiększyć wartość kapitału własnego do wymaganego poziomu w terminie 6 miesięcy.
 
-8. Do kosztów towarzystwa zarzàdzajàcego wy∏àcznie funduszami sekurytyzacyjnymi nie zalicza si´ kosztów zwiàzanych z umowà po˝yczki lub kredytu, októrej mowa wart. 65 ust. 5, wtakiej proporcji, wjakiej odpowiadajà one okreÊlonej w tej umowie cz´Êci kredytu lub po˝yczki, która mo˝e byç zaspokajana wy∏àcznie z certyfikatów podporzàdkowanych, nabytych za Êrodki pochodzàce z tego kredytu lub po˝yczki.
+8. Do kosztów towarzystwa zarządzającego wyłącznie funduszami sekurytyzacyjnymi nie zalicza się kosztów związanych z umową pożyczki lub kredytu, októrej mowa wart. 65 ust. 5, wtakiej proporcji, wjakiej odpowiadają one określonej w tej umowie części kredytu lub pożyczki, która może być zaspokajana wyłącznie z certyfikatów podporządkowanych, nabytych za środki pochodzące z tego kredytu lub pożyczki.
 
-9. Przepisu ust. 3 nie stosuje si´ do towarzystwa zarzàdzajàcego wy∏àcznie funduszami sekurytyzacyjnymi lub funduszami aktywów niepublicznych, pod warunkiem ˝e certyfikaty inwestycyjne emitowane przez te fundusze nie podlegajà wprowadzeniu do publicznego obrotu lub których cena emisyjna jednego certyfikatu wynosi co najmniej wyra˝onà w z∏otych równowartoÊç 40 000 euro.
+9. Przepisu ust. 3 nie stosuje się do towarzystwa zarządzającego wyłącznie funduszami sekurytyzacyjnymi lub funduszami aktywów niepublicznych, pod warunkiem że certyfikaty inwestycyjne emitowane przez te fundusze nie podlegają wprowadzeniu do publicznego obrotu lub których cena emisyjna jednego certyfikatu wynosi co najmniej wyrażoną w złotych równowartość 40 000 euro.
 
-10. Minister w∏aÊciwy do spraw instytucji finansowych okreÊli, w drodze rozporzàdzenia, wymogi kapita∏owe towarzystw, wtym wysokoÊç wymaganego kapita∏u w∏asnego towarzystwa, w zale˝noÊci od wykonywanej przez towarzystwo dzia∏alnoÊci wcelu umo˝liwienia Komisji wykonywania nadzoru nad sytuacjà finansowà towarzystw oraz ochrony interesów uczestników funduszy inwestycyjnych i uczestników zbiorczych portfeli papierów wartoÊciowych.
+10. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, wymogi kapitałowe towarzystw, wtym wysokość wymaganego kapitału własnego towarzystwa, w zależności od wykonywanej przez towarzystwo działalności wcelu umożliwienia Komisji wykonywania nadzoru nad sytuacją finansową towarzystw oraz ochrony interesów uczestników funduszy inwestycyjnych i uczestników zbiorczych portfeli papierów wartościowych.
 
 **Art. 51.**
 
-1. Towarzystwo, które prowadzi dzia∏alnoÊç w zakresie zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie, jest obowiàzane do spe∏niania wymogów kapita∏owych uwzgl´dniajàcych ryzyko zwiàzane z tà dzia∏alnoÊcià.
+1. Towarzystwo, które prowadzi działalność w zakresie zarządzania cudzym pakietem papierów wartościowych na zlecenie, jest obowiązane do spełniania wymogów kapitałowych uwzględniających ryzyko związane z tą działalnością.
 
-2. Minister w∏aÊciwy do spraw instytucji finansowych mo˝e okreÊliç, w drodze rozporzàdzenia, zakres i zasady ustalania wymogów kapita∏owych dla towarzystw zarzàdzajàcych cudzym pakietem papierów wartoÊciowych na zlecenie oraz tryb, form´, zakres i terminy dostarczania informacji ujawnianych przez towarzystwa w zwiàzku z wyznaczaniem wymogów kapita∏owych, w celu umo˝liwienia Komisji wykonywania nadzoru nad sytuacjà finansowà towarzystw oraz ochrony interesów klientów, dla których towarzystwo wykonuje us∏ugi zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie, wszczególnoÊci ników lub 50 % udzia∏u w kapitale zak∏adowym tego podmiotu.
+2. Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia, zakres i zasady ustalania wymogów kapitałowych dla towarzystw zarządzających cudzym pakietem papierów wartościowych na zlecenie oraz tryb, formę, zakres i terminy dostarczania informacji ujawnianych przez towarzystwa w związku z wyznaczaniem wymogów kapitałowych, w celu umożliwienia Komisji wykonywania nadzoru nad sytuacją finansową towarzystw oraz ochrony interesów klientów, dla których towarzystwo wykonuje usługi zarządzania cudzym pakietem papierów wartościowych na zlecenie, wszczególności ników lub 50 % udziału w kapitale zakładowym tego podmiotu.
 
-3. Zawiadomienie, októrym mowa wust. 1, dokonywane jest nie póêniej ni˝ na 3 miesiàce przed planowanym nabyciem lub obj´ciem akcji.
+3. Zawiadomienie, októrym mowa wust. 1, dokonywane jest nie póêniej niż na 3 miesiące przed planowanym nabyciem lub objęciem akcji.
 
-4. Komisji przys∏uguje prawo zg∏oszenia sprzeciwu wobec planowanego nabycia lub obj´cia w terminie 2 miesi´cy od dnia dokonania zawiadomienia, o którym mowa w ust. 1.
+4. Komisji przysługuje prawo zgłoszenia sprzeciwu wobec planowanego nabycia lub objęcia w terminie 2 miesięcy od dnia dokonania zawiadomienia, o którym mowa w ust. 1.
 
-5. Komisja zasi´ga opinii w∏aÊciwego organu paƒstwa cz∏onkowskiego, wktórym podmiot zawiadamiajàcy ma siedzib´, je˝eli ten podmiot jest:
+5. Komisja zasięga opinii właściwego organu państwa członkowskiego, wktórym podmiot zawiadamiający ma siedzibę, jeżeli ten podmiot jest:
 
-- **1)** spó∏kà zarzàdzajàcà lub firmà inwestycyjnà posiadajàcà zezwolenie w paƒstwie cz∏onkowskim;
-- **2)** podmiotem dominujàcym wobec spó∏ki zarzàdzajàcej lub firmy inwestycyjnej posiadajàcej zezwolenie w paƒstwie cz∏onkowskim; przez okreÊlenie rodzajów ryzyk zwiàzanych z dzia∏alnoÊcià inwestycyjnà towarzystwa.
+- **1)** spółką zarządzającą lub firmą inwestycyjną posiadającą zezwolenie w państwie członkowskim;
+- **2)** podmiotem dominującym wobec spółki zarządzającej lub firmy inwestycyjnej posiadającej zezwolenie w państwie członkowskim; przez określenie rodzajów ryzyk związanych z działalnością inwestycyjną towarzystwa.
 
 **Art. 52.**
 
-1. Kapita∏ zak∏adowy towarzystwa mo˝e pochodziç wy∏àcznie ze êróde∏ udokumentowanych. Ârodki na pokrycie kapita∏u zak∏adowego lub na nabycie akcji nie mogà pochodziç z po˝yczki lub kredytu.
+1. Kapitał zakładowy towarzystwa może pochodzić wyłącznie ze êródeł udokumentowanych. Ârodki na pokrycie kapitału zakładowego lub na nabycie akcji nie mogą pochodzić z pożyczki lub kredytu.
 
-2. Osoby obejmujàce lub nabywajàce akcje towarzystwa sà obowiàzane do udokumentowania êróde∏ pochodzenia kwot wp∏acanych na pokrycie kapita∏u zak∏adowego towarzystwa lub tytu∏em zap∏aty ceny nabycia oraz do z∏o˝enia zaÊwiadczenia oniezaleganiu w podatkach albo stwierdzajàcego stan zaleg∏oÊci, o którym mowa w art. 32 ust. 4 pkt 14. W przypadku nierezydentów niepodlegajàcych obowiàzkowi podatkowemu na terytorium Rzeczypospolitej Polskiej odpowiednie zaÊwiadczenie powinno byç wydane przez w∏aÊciwy organ kontroli skarbowej paƒstwa miejsca zamieszkania lub siedziby tych osób.
+2. Osoby obejmujące lub nabywające akcje towarzystwa są obowiązane do udokumentowania êródeł pochodzenia kwot wpłacanych na pokrycie kapitału zakładowego towarzystwa lub tytułem zapłaty ceny nabycia oraz do złożenia zaświadczenia oniezaleganiu w podatkach albo stwierdzającego stan zaległości, o którym mowa w art. 32 ust. 4 pkt 14. W przypadku nierezydentów niepodlegających obowiązkowi podatkowemu na terytorium Rzeczypospolitej Polskiej odpowiednie zaświadczenie powinno być wydane przez właściwy organ kontroli skarbowej państwa miejsca zamieszkania lub siedziby tych osób.
 
-**Art. 53.** Akcje towarzystwa mogà byç wy∏àcznie imienne, chyba ˝e sà dopuszczone do publicznego obrotu.
+**Art. 53.** Akcje towarzystwa mogą być wyłącznie imienne, chyba że są dopuszczone do publicznego obrotu.
 
 **Art. 54.**
 
-1. BezpoÊrednie lub poÊrednie nabycie lub obj´cie akcji towarzystwa w liczbie, która spowoduje osiàgni´cie lub przekroczenie 10 %, 20 %, 33 % lub 50 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy towarzystwa lub udzia∏u w kapitale zak∏adowym, wymaga zawiadomienia Komisji, przy czym posiadanie akcji towarzystwa przez podmioty pozostajàce w tej samej grupie kapita∏owej uwa˝a si´ za ich posiadanie przez jeden podmiot.
+1. Bezpośrednie lub pośrednie nabycie lub objęcie akcji towarzystwa w liczbie, która spowoduje osiągnięcie lub przekroczenie 10 %, 20 %, 33 % lub 50 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy towarzystwa lub udziału w kapitale zakładowym, wymaga zawiadomienia Komisji, przy czym posiadanie akcji towarzystwa przez podmioty pozostające w tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden podmiot.
 
-2. Przez poÊrednie nabycie lub obj´cie akcji towarzystwa rozumie si´ nabycie lub obj´cie akcji lub udzia∏ów podmiotu posiadajàcego wsposób poÊredni lub bezpoÊredni akcje towarzystwa, je˝eli w wyniku nabycia lub obj´cia dojdzie do osiàgni´cia lub przekroczenia 50 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy lub zgromadzeniu wspól3) podmiotem kontrolujàcym spó∏k´ zarzàdzajàcà lub firm´ inwestycyjnà posiadajàcà zezwolenie wpaƒstwie cz∏onkowskim.
+2. Przez pośrednie nabycie lub objęcie akcji towarzystwa rozumie się nabycie lub objęcie akcji lub udziałów podmiotu posiadającego wsposób pośredni lub bezpośredni akcje towarzystwa, jeżeli w wyniku nabycia lub objęcia dojdzie do osiągnięcia lub przekroczenia 50 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub zgromadzeniu wspól3) podmiotem kontrolującym spółkę zarządzającą lub firmę inwestycyjną posiadającą zezwolenie wpaństwie członkowskim.
 
-6. Komisja mo˝e zg∏osiç sprzeciw, je˝eli:
+6. Komisja może zgłosić sprzeciw, jeżeli:
 
-- **1)** wp∏yw zawiadamiajàcego lub podmiotu z grupy kapita∏owej zawiadamiajàcego mo˝e okazaç si´ niekorzystny dla ostro˝nego istabilnego zarzàdzania przez towarzystwo funduszami inwestycyjnymi, przestrzegania zasad uczciwego obrotu lub nale˝ytego zabezpieczenia interesów uczestników funduszy lub
-- **2)** przepisy prawa obowiàzujàce w miejscu siedziby lub zamieszkania zawiadamiajàcego mog∏yby uniemo˝liwiaç lub utrudniaç Komisji skuteczne sprawowanie nadzoru nad towarzystwem, lub
-- **3)** je˝eli opinia wydana przez w∏aÊciwy organ paƒstwa cz∏onkowskiego, októrej mowa wust. 5, jest negatywna.
+- **1)** wpływ zawiadamiającego lub podmiotu z grupy kapitałowej zawiadamiającego może okazać się niekorzystny dla ostrożnego istabilnego zarządzania przez towarzystwo funduszami inwestycyjnymi, przestrzegania zasad uczciwego obrotu lub należytego zabezpieczenia interesów uczestników funduszy lub
+- **2)** przepisy prawa obowiązujące w miejscu siedziby lub zamieszkania zawiadamiającego mogłyby uniemożliwiać lub utrudniać Komisji skuteczne sprawowanie nadzoru nad towarzystwem, lub
+- **3)** jeżeli opinia wydana przez właściwy organ państwa członkowskiego, októrej mowa wust. 5, jest negatywna.
 
-7. Niezg∏oszenie przez Komisj´ sprzeciwu wterminie, o którym mowa w ust. 4, oznacza zgod´ na nabycie lub obj´cie akcji towarzystwa, na warunkach wskazanych w zawiadomieniu.
+7. Niezgłoszenie przez Komisję sprzeciwu wterminie, o którym mowa w ust. 4, oznacza zgodę na nabycie lub objęcie akcji towarzystwa, na warunkach wskazanych w zawiadomieniu.
 
-8. CzynnoÊci, o których mowa w ust. 1, dokonane pomimo zg∏oszenia przez Komisj´ sprzeciwu, sà wa˝ne, jednak˝e podmiot, który naby∏ lub objà∏ akcje, nie mo˝e wykonywaç prawa g∏osu na walnym zgromadzeniu akcjonariuszy towarzystwa.
+8. Czynności, o których mowa w ust. 1, dokonane pomimo zgłoszenia przez Komisję sprzeciwu, są ważne, jednakże podmiot, który nabył lub objął akcje, nie może wykonywać prawa głosu na walnym zgromadzeniu akcjonariuszy towarzystwa.
 
 **Art. 55.**
 
-1. Zawiadomienie, o którym mowa w art. 54 ust. 1, zawiera w szczególnoÊci:
+1. Zawiadomienie, o którym mowa w art. 54 ust. 1, zawiera w szczególności:
 
-- **1)** oÊwiadczenie okreÊlajàce liczb´ akcji, które zawiadamiajàcy zamierza nabyç lub objàç, ich udzia∏ w kapitale zak∏adowym oraz liczb´ g∏osów, jakà zawiadamiajàcy osiàgnie na walnym zgromadzeniu akcjonariuszy;
-- **2)** informacje o osobach nabywajàcych lub obejmujàcych akcje:
-    - **a)** wprzypadku osób fizycznych dane osobowe, informacje o dotychczasowym przebiegu pracy zawodowej lub prowadzonej dzia∏alnoÊci gospodarczej,
-    - **b)** w przypadku osób prawnych informacje na temat prowadzonej dzia∏alnoÊci gospodarczej, aktualny odpis zw∏aÊciwego rejestru oraz ostatnie sprawozdanie finansowe wraz z opinià bieg∏ego rewidenta iraportem zbadania, je˝eli badanie jest wymagane przepisami prawa;
+- **1)** oświadczenie określające liczbę akcji, które zawiadamiający zamierza nabyć lub objąć, ich udział w kapitale zakładowym oraz liczbę głosów, jaką zawiadamiający osiągnie na walnym zgromadzeniu akcjonariuszy;
+- **2)** informacje o osobach nabywających lub obejmujących akcje:
+    - **a)** wprzypadku osób fizycznych dane osobowe, informacje o dotychczasowym przebiegu pracy zawodowej lub prowadzonej działalności gospodarczej,
+    - **b)** w przypadku osób prawnych informacje na temat prowadzonej działalności gospodarczej, aktualny odpis zwłaściwego rejestru oraz ostatnie sprawozdanie finansowe wraz z opinią biegłego rewidenta iraportem zbadania, jeżeli badanie jest wymagane przepisami prawa;
 
-- **3)** informacje o podmiotach nale˝àcych do tej samej grupy kapita∏owej co zawiadamiajàcy, obejmujàce wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu;
-- **4)** oÊwiadczenia o êródle pochodzenia Êrodków przeznaczonych na nabycie lub obj´cie akcji towarzystwa, ze wskazaniem, ˝e Êrodki te nie pochodzà zpo˝yczek, kredytów lub znieudokumentowanych êróde∏.
+- **3)** informacje o podmiotach należących do tej samej grupy kapitałowej co zawiadamiający, obejmujące wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu;
+- **4)** oświadczenia o êródle pochodzenia środków przeznaczonych na nabycie lub objęcie akcji towarzystwa, ze wskazaniem, że środki te nie pochodzą zpożyczek, kredytów lub znieudokumentowanych êródeł.
 
-2. W przypadku bezpoÊredniego nabycia lub obj´cia akcji towarzystwa zawiadomienie zawiera tak˝e oÊwiadczenie zawiadamiajàcego co do:
+2. W przypadku bezpośredniego nabycia lub objęcia akcji towarzystwa zawiadomienie zawiera także oświadczenie zawiadamiającego co do:
 
-- **1)** mo˝liwoÊci i zamiarów dofinansowywania dzia∏alnoÊci towarzystwa, je˝eli jego dzia∏alnoÊç przynosi∏aby straty;
-- **2)** planowanej dzia∏alnoÊci oraz perspektyw rozwoju towarzystwa.
+- **1)** możliwości i zamiarów dofinansowywania działalności towarzystwa, jeżeli jego działalność przynosiłaby straty;
+- **2)** planowanej działalności oraz perspektyw rozwoju towarzystwa.
 
 **Art. 56.**
 
-1. Je˝eli wp∏yw wywierany przez akcjonariusza lub akcjonariuszy towarzystwa posiadajàcych akcje reprezentujàce co najmniej 5 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy lub udzia∏u wkapitale zak∏adowym mo˝e okazaç si´ niekorzystny dla ostro˝nego i stabilnego zarzàdzania przez towarzystwo funduszami inwestycyjnymi, przestrzegania zasad uczciwego obrotu lub nale˝ytego zabezpieczenia interesów uczestników funduszy, Komisja mo˝e zakazaç wykonywania prawa g∏osu przez tego akcjonariusza lub akcjonariuszy na okres nie d∏u˝szy
+1. Jeżeli wpływ wywierany przez akcjonariusza lub akcjonariuszy towarzystwa posiadających akcje reprezentujące co najmniej 5 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub udziału wkapitale zakładowym może okazać się niekorzystny dla ostrożnego i stabilnego zarządzania przez towarzystwo funduszami inwestycyjnymi, przestrzegania zasad uczciwego obrotu lub należytego zabezpieczenia interesów uczestników funduszy, Komisja może zakazać wykonywania prawa głosu przez tego akcjonariusza lub akcjonariuszy na okres nie dłuższy
 
-4. W przypadku niewykonania przez akcjonariusza towarzystwa nakazu, o którym mowa w ust. 2, Komisja mo˝e na∏o˝yç na tego akcjonariusza kar´ pieni´˝nà do wysokoÊci 100 000 z∏otych.
+4. W przypadku niewykonania przez akcjonariusza towarzystwa nakazu, o którym mowa w ust. 2, Komisja może nałożyć na tego akcjonariusza karę pieniężną do wysokości 100 000 złotych.
 
-5. W przypadku niewykonania przez osob´, która naby∏a poÊrednio akcje towarzystwa nakazu, októrym mowa wust. 3, Komisja mo˝e na∏o˝yç na t´ osob´ kar´ pieni´˝nà do wysokoÊci 100 000 z∏otych.
+5. W przypadku niewykonania przez osobę, która nabyła pośrednio akcje towarzystwa nakazu, októrym mowa wust. 3, Komisja może nałożyć na tę osobę karę pieniężną do wysokości 100 000 złotych.
 
 **Art. 57.**
 
-1. Zawiadomienia Komisji wymaga zbycie akcji towarzystwa przez podmiot posiadajàcy akcje towarzystwa w liczbie uprawniajàcej do wykonywania co najmniej 10 %, 20 %, 33 % lub 50 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy lub stanowiàcej co najmniej 10 %, 20 %, 33 % lub 50 % udzia∏u w kapitale zak∏adowym, je˝eli w wyniku tego zbycia podmiot ten b´dzie posiada∏ akcje w liczbie uprawniajàcej do wykonywania mniej ni˝ 10 %, 20 %, 33 % lub 50 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy lub stanowiàcej mniej ni˝ 10 %, 20 %, 33 % lub 50 % udzia∏u w kapitale zak∏adowym, przy czym posiadanie akcji towarzystwa przez podmioty pozostajàce w tej samej grupie kapita∏owej uwa˝a si´ za ich posiadanie przez jeden podmiot.
+1. Zawiadomienia Komisji wymaga zbycie akcji towarzystwa przez podmiot posiadający akcje towarzystwa w liczbie uprawniającej do wykonywania co najmniej 10 %, 20 %, 33 % lub 50 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub stanowiącej co najmniej 10 %, 20 %, 33 % lub 50 % udziału w kapitale zakładowym, jeżeli w wyniku tego zbycia podmiot ten będzie posiadał akcje w liczbie uprawniającej do wykonywania mniej niż 10 %, 20 %, 33 % lub 50 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub stanowiącej mniej niż 10 %, 20 %, 33 % lub 50 % udziału w kapitale zakładowym, przy czym posiadanie akcji towarzystwa przez podmioty pozostające w tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden podmiot.
 
-2. Zawiadomienie, októrym mowa wust. 1, zawiera w szczególnoÊci wskazanie liczby akcji, które majà zostaç zbyte, ich udzia∏ w kapitale zak∏adowym, liczb´ g∏osów, jakà zbywca osiàgnie na walnym zgromadzeniu akcjonariuszy w wyniku zbycia, oraz wskazanie osób nabywajàcych akcje.
+2. Zawiadomienie, októrym mowa wust. 1, zawiera w szczególności wskazanie liczby akcji, które mają zostać zbyte, ich udział w kapitale zakładowym, liczbę głosów, jaką zbywca osiągnie na walnym zgromadzeniu akcjonariuszy w wyniku zbycia, oraz wskazanie osób nabywających akcje.
 
-3. Zawiadomienie dokonywane jest nie póêniej ni˝ na 3 miesiàce przed planowanym zbyciem akcji.
+3. Zawiadomienie dokonywane jest nie póêniej niż na 3 miesiące przed planowanym zbyciem akcji.
 
-4. Komisji przys∏uguje prawo zg∏oszenia sprzeciwu wobec planowanego zbycia w terminie 2 miesi´cy od dnia dokonania zawiadomienia.
+4. Komisji przysługuje prawo zgłoszenia sprzeciwu wobec planowanego zbycia w terminie 2 miesięcy od dnia dokonania zawiadomienia.
 
-5. Do sprzeciwu oraz do skutków sprzeciwu stosuje si´ odpowiednio art. 56.
+5. Do sprzeciwu oraz do skutków sprzeciwu stosuje się odpowiednio art. 56.
 
-6. Niewyra˝enie przez Komisj´ sprzeciwu w terminie, októrym mowa wust. 4, oznacza zgod´ na zbycie ni˝ 2 lata. W takim przypadku wykonywanie prawa akcji towarzystwa na warunkach wskazanych wzawiag∏osu z akcji jest bezskuteczne. domieniu.
+6. Niewyrażenie przez Komisję sprzeciwu w terminie, októrym mowa wust. 4, oznacza zgodę na zbycie niż 2 lata. W takim przypadku wykonywanie prawa akcji towarzystwa na warunkach wskazanych wzawiagłosu z akcji jest bezskuteczne. domieniu.
 
-2. Je˝eli po up∏ywie okresu, o którym mowa 7. Brak sprzeciwu Komisji wobec planowanego w ust. 1, przyczyny b´dàce podstawà decyzji zakazu- zbycia akcji towarzystwa nie wy∏àcza obowiàzku dokojàcej wykonywania prawa g∏osu nie usta∏y, Komisja nania zawiadomienia, októrym mowa wart. 54 ust. 1. mo˝e nakazaç akcjonariuszowi lub akcjonariuszom, Art. 58.1. Do wniosków spó∏ki ouzyskanie zezwoo których mowa w ust. 1, w terminie okreÊlonym lenia na wykonywanie dzia∏alnoÊci przez towarzystwo w decyzji, zbycie ca∏oÊci albo cz´Êci akcji. oraz na utworzenie funduszu inwestycyjnego za∏àcza
+2. Jeżeli po upływie okresu, o którym mowa 7. Brak sprzeciwu Komisji wobec planowanego w ust. 1, przyczyny będące podstawą decyzji zakazu- zbycia akcji towarzystwa nie wyłącza obowiązku dokojącej wykonywania prawa głosu nie ustały, Komisja nania zawiadomienia, októrym mowa wart. 54 ust. 1. może nakazać akcjonariuszowi lub akcjonariuszom, Art. 58.1. Do wniosków spółki ouzyskanie zezwoo których mowa w ust. 1, w terminie określonym lenia na wykonywanie działalności przez towarzystwo w decyzji, zbycie całości albo części akcji. oraz na utworzenie funduszu inwestycyjnego załącza
 
-3. Je˝eli wp∏yw osób, które naby∏y poÊrednio akcje si´: towarzystwa, jest niekorzystny dla ostro˝nego istabil- 1) statut towarzystwa oraz odpis z rejestru przedsi´nego zarzàdzania przez towarzystwo funduszami in- biorców; westycyjnymi, przestrzegania zasad uczciwego obrotu lub nale˝ytego zabezpieczenia interesów uczestników 2) schemat organizacji towarzystwa oraz regulamin funduszy, Komisja mo˝e nakazaç zaprzestanie wywie- zapobiegania ujawnianiu informacji, których wyrania takiego wp∏ywu, wskazujàc termin oraz warunki korzystanie mog∏oby naruszaç interes uczestnii zakres podj´cia stosownych czynnoÊci. ków funduszu inwestycyjnego lub interes uczestników publicznego obrotu papierami wartoÊciowymi;
+3. Jeżeli wpływ osób, które nabyły pośrednio akcje się: towarzystwa, jest niekorzystny dla ostrożnego istabil- 1) statut towarzystwa oraz odpis z rejestru przedsięnego zarządzania przez towarzystwo funduszami in- biorców; westycyjnymi, przestrzegania zasad uczciwego obrotu lub należytego zabezpieczenia interesów uczestników 2) schemat organizacji towarzystwa oraz regulamin funduszy, Komisja może nakazać zaprzestanie wywie- zapobiegania ujawnianiu informacji, których wyrania takiego wpływu, wskazując termin oraz warunki korzystanie mogłoby naruszać interes uczestnii zakres podjęcia stosownych czynności. ków funduszu inwestycyjnego lub interes uczestników publicznego obrotu papierami wartościowymi;
 
-- **3)** analiz´ ekonomiczno-finansowà mo˝liwoÊci prowadzenia dzia∏alnoÊci przez okres roku;
-- **4)** dane osobowe cz∏onków zarzàdu irady nadzorczej towarzystwa wraz z opisem ich kwalifikacji i doÊwiadczeƒ zawodowych oraz informacje z Krajowego Rejestru Karnego, ze wskazaniem dwóch cz∏onków zarzàdu, w tym prezesa, którzy majà zostaç zatwierdzeni przez Komisj´;
-- **5)** dane osobowe cz∏onków zarzàdu depozytariusza odpowiedzialnych za wykonywanie funkcji depozytariusza przez jednostk´ organizacyjnà banku wraz zopisem ich kwalifikacji idoÊwiadczeƒ zawodowych oraz informacje zKrajowego Rejestru Karnego;
-- **6)** dane osobowe osób zatrudnionych w towarzystwie lub podmiotach, o których mowa w art. 46 ust. 1—3, które majà istotny wp∏yw na dzia∏alnoÊç funduszu, wtym wszczególnoÊci na decyzje inwestycyjne funduszu, wraz z opisem ich kwalifikacji i doÊwiadczeƒ zawodowych oraz informacjami z Krajowego Rejestru Karnego;
-- **7)** dane osobowe doradców inwestycyjnych, którzy zostanà zatrudnieni przez towarzystwo, wraz zopisem ich kwalifikacji i doÊwiadczeƒ zawodowych oraz informacjami z Krajowego Rejestru Karnego, atak˝e oÊwiadczenia tych osób owyra˝eniu zgody na zatrudnienie;
-- **8)** ostatnie sprawozdanie finansowe wraz z opinià podmiotu uprawnionego do badania sprawozdaƒ finansowych oraz raportem z badania w przypadku, gdy wnioskodawca wykonywa∏ dzia∏alnoÊç w innej dziedzinie przed z∏o˝eniem wniosku;
-- **9)** w przypadku akcjonariuszy b´dàcych osobami fizycznymi, posiadajàcych co najmniej 5 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy lub co najmniej 5 % udzia∏u w kapitale zak∏adowym wnioskodawcy dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej dzia∏alnoÊci gospodarczej;
-- **10)** w przypadku akcjonariuszy b´dàcych osobami prawnymi, posiadajàcych co najmniej 5 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy lub co najmniej 5 % udzia∏u w kapitale zak∏adowym wnioskodawcy informacj´ na temat wykonywanej dzia∏alnoÊci gospodarczej, aktualny odpis z w∏aÊciwego rejestru oraz ostatnie sprawozdanie finansowe wraz z opinià podmiotu uprawnionego do badania sprawozdaƒ finansowych iraportem zbadania, je˝eli badanie jest wymagane przepisami prawa, a w przypadku braku takiego sprawozdania inne dokumenty i informacje przedstawiajàce rzetelnie ich aktualnà sytuacj´ finansowà;
-- **11)** informacje o podmiotach dominujàcych i zale˝mniej 5 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy lub 5 % udzia∏u wkapitale zak∏adowym wnioskodawcy, obejmujàce wskazanie ich firmy (nazwy) lub imienia inazwiska, siedziby i adresu lub miejsca zamieszkania oraz opisu wykonywanej dzia∏alnoÊci gospodarczej;
-- **12)** odpisy zw∏aÊciwych rejestrów podmiotów, którym towarzystwo zamierza powierzyç wykonywanie swoich obowiàzków;
+- **3)** analizę ekonomiczno-finansową możliwości prowadzenia działalności przez okres roku;
+- **4)** dane osobowe członków zarządu irady nadzorczej towarzystwa wraz z opisem ich kwalifikacji i doświadczeń zawodowych oraz informacje z Krajowego Rejestru Karnego, ze wskazaniem dwóch członków zarządu, w tym prezesa, którzy mają zostać zatwierdzeni przez Komisję;
+- **5)** dane osobowe członków zarządu depozytariusza odpowiedzialnych za wykonywanie funkcji depozytariusza przez jednostkę organizacyjną banku wraz zopisem ich kwalifikacji idoświadczeń zawodowych oraz informacje zKrajowego Rejestru Karnego;
+- **6)** dane osobowe osób zatrudnionych w towarzystwie lub podmiotach, o których mowa w art. 46 ust. 1—3, które mają istotny wpływ na działalność funduszu, wtym wszczególności na decyzje inwestycyjne funduszu, wraz z opisem ich kwalifikacji i doświadczeń zawodowych oraz informacjami z Krajowego Rejestru Karnego;
+- **7)** dane osobowe doradców inwestycyjnych, którzy zostaną zatrudnieni przez towarzystwo, wraz zopisem ich kwalifikacji i doświadczeń zawodowych oraz informacjami z Krajowego Rejestru Karnego, atakże oświadczenia tych osób owyrażeniu zgody na zatrudnienie;
+- **8)** ostatnie sprawozdanie finansowe wraz z opinią podmiotu uprawnionego do badania sprawozdań finansowych oraz raportem z badania w przypadku, gdy wnioskodawca wykonywał działalność w innej dziedzinie przed złożeniem wniosku;
+- **9)** w przypadku akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 5 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub co najmniej 5 % udziału w kapitale zakładowym wnioskodawcy dane osobowe tych osób, informacje o dotychczasowym przebiegu pracy zawodowej lub wykonywanej działalności gospodarczej;
+- **10)** w przypadku akcjonariuszy będących osobami prawnymi, posiadających co najmniej 5 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub co najmniej 5 % udziału w kapitale zakładowym wnioskodawcy informację na temat wykonywanej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz z opinią podmiotu uprawnionego do badania sprawozdań finansowych iraportem zbadania, jeżeli badanie jest wymagane przepisami prawa, a w przypadku braku takiego sprawozdania inne dokumenty i informacje przedstawiające rzetelnie ich aktualną sytuację finansową;
+- **11)** informacje o podmiotach dominujących i zależmniej 5 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub 5 % udziału wkapitale zakładowym wnioskodawcy, obejmujące wskazanie ich firmy (nazwy) lub imienia inazwiska, siedziby i adresu lub miejsca zamieszkania oraz opisu wykonywanej działalności gospodarczej;
+- **12)** odpisy zwłaściwych rejestrów podmiotów, którym towarzystwo zamierza powierzyć wykonywanie swoich obowiązków;
 - **13)** statut funduszu inwestycyjnego;
-- **14)** umow´ zdepozytariuszem oprowadzenie rejestru aktywów funduszu inwestycyjnego;
-- **15)** dane osobowe osób wyznaczonych przez depozytariusza do wykonywania obowiàzków okreÊlonych w umowie wraz z informacjami o kwalifikacjach idoÊwiadczeniu zawodowym tych osób oraz informacje z Krajowego Rejestru Karnego;
-- **16)** prospekt informacyjny funduszu inwestycyjnego nych wobec akcjonariuszy posiadajàcych co naji skrót tego prospektu;
-- **17)** procedury przeciwdzia∏ania wprowadzaniu do obrotu finansowego wartoÊci majàtkowych pochodzàcych znielegalnych lub nieujawnionych êróde∏;
-- **18)** wskazanie inicjatora sekurytyzacji oraz podstawowych warunków umów zawartych przez towarzystwo w zwiàzku z procesem sekurytyzacji wprzypadku standaryzowanego funduszu sekurytyzacyjnego.
+- **14)** umowę zdepozytariuszem oprowadzenie rejestru aktywów funduszu inwestycyjnego;
+- **15)** dane osobowe osób wyznaczonych przez depozytariusza do wykonywania obowiązków określonych w umowie wraz z informacjami o kwalifikacjach idoświadczeniu zawodowym tych osób oraz informacje z Krajowego Rejestru Karnego;
+- **16)** prospekt informacyjny funduszu inwestycyjnego nych wobec akcjonariuszy posiadających co naji skrót tego prospektu;
+- **17)** procedury przeciwdziałania wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących znielegalnych lub nieujawnionych êródeł;
+- **18)** wskazanie inicjatora sekurytyzacji oraz podstawowych warunków umów zawartych przez towarzystwo w związku z procesem sekurytyzacji wprzypadku standaryzowanego funduszu sekurytyzacyjnego.
 
-2. Wcelu ustalenia, czy wp∏yw osoby posiadajàcej bezpoÊrednio lub poÊrednio akcje towarzystwa wliczbie zapewniajàcej co najmniej 10 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy nie b´dzie niekorzystny dla ostro˝nego istabilnego zarzàdzania przez towarzystwo funduszami inwestycyjnymi, przestrzegania zasad uczciwego obrotu lub nale˝ytego zabezpieczenia interesów uczestników funduszy, Komisja mo˝e ˝àdaç przedstawienia innych danych dotyczàcych sytuacji finansowej tej osoby.
+2. Wcelu ustalenia, czy wpływ osoby posiadającej bezpośrednio lub pośrednio akcje towarzystwa wliczbie zapewniającej co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy nie będzie niekorzystny dla ostrożnego istabilnego zarządzania przez towarzystwo funduszami inwestycyjnymi, przestrzegania zasad uczciwego obrotu lub należytego zabezpieczenia interesów uczestników funduszy, Komisja może żądać przedstawienia innych danych dotyczących sytuacji finansowej tej osoby.
 
 **Art. 59.**
 
-1. Przepisy art. 15 ust. 1 pkt 1 i 2, art. 31, art. 41—49, art. 52 i 53 stosuje si´ odpowiednio do spó∏ki akcyjnej ubiegajàcej si´ ouzyskanie zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo, zzastrze˝eniem ust. 2.
+1. Przepisy art. 15 ust. 1 pkt 1 i 2, art. 31, art. 41—49, art. 52 i 53 stosuje się odpowiednio do spółki akcyjnej ubiegającej się ouzyskanie zezwolenia na wykonywanie działalności przez towarzystwo, zzastrzeżeniem ust. 2.
 
-2. Przepisu art. 52 nie stosuje si´ do spó∏ki ubiegajàcej si´ o uzyskanie zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo, je˝eli przed dniem z∏o˝enia wniosku spó∏ka ta wykonywa∏a dzia∏alnoÊç winnej dziedzinie. W takim przypadku do wniosku nale˝y za∏àczyç zaÊwiadczenia wydane zgodnie z przepisami ustawy, októrej mowa wart. 32 ust. 4 pkt 14, oniezaleganiu w podatkach albo stwierdzajàce stan zaleg∏oÊci akcjonariuszy tej spó∏ki.
+2. Przepisu art. 52 nie stosuje się do spółki ubiegającej się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo, jeżeli przed dniem złożenia wniosku spółka ta wykonywała działalność winnej dziedzinie. W takim przypadku do wniosku należy załączyć zaświadczenia wydane zgodnie z przepisami ustawy, októrej mowa wart. 32 ust. 4 pkt 14, oniezaleganiu w podatkach albo stwierdzające stan zaległości akcjonariuszy tej spółki.
 
-**Art. 60.** Do wniosku oudzielenie zezwolenia na zarzàdzanie cudzym pakietem papierów wartoÊciowych na zlecenie lub na doradztwo wzakresie obrotu papierami wartoÊciowymi towarzystwo za∏àcza:
+**Art. 60.** Do wniosku oudzielenie zezwolenia na zarządzanie cudzym pakietem papierów wartościowych na zlecenie lub na doradztwo wzakresie obrotu papierami wartościowymi towarzystwo załącza:
 
 **Art. 61.**
 
-1. Komisja wydaje decyzje w sprawie zezwoleƒ, o których mowa w art. 58, w terminie 2 miesi´cy od dnia z∏o˝enia wniosków.
+1. Komisja wydaje decyzje w sprawie zezwoleń, o których mowa w art. 58, w terminie 2 miesięcy od dnia złożenia wniosków.
 
-2. Komisja, przed udzieleniem zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo, zasi´ga opinii w∏aÊciwego organu paƒstwa cz∏onkowskiego, je˝eli towarzystwo jest:
+2. Komisja, przed udzieleniem zezwolenia na wykonywanie działalności przez towarzystwo, zasięga opinii właściwego organu państwa członkowskiego, jeżeli towarzystwo jest:
 
-- **1)** spó∏kà zale˝nà od innej spó∏ki zarzàdzajàcej, firmy inwestycyjnej, instytucji kredytowej lub podmiotu prowadzàcego dzia∏alnoÊç ubezpieczeniowà na podstawie zezwolenia w paƒstwie cz∏onkowskim;
-- **2)** spó∏kà zale˝nà od podmiotu dominujàcego wobec innej spó∏ki zarzàdzajàcej, firmy inwestycyjnej, instytucji kredytowej lub podmiotu prowadzàcego dzia∏alnoÊç ubezpieczeniowà posiadajàcego zezwolenie w paƒstwie cz∏onkowskim;
-- **3)** kontrolowane przez te same osoby fizyczne lub prawne, które kontrolujà innà spó∏k´ zarzàdzajàcà, firm´ inwestycyjnà, instytucj´ kredytowà lub podmiot prowadzàcy dzia∏alnoÊç ubezpieczeniowà posiadajàcy zezwolenie w paƒstwie cz∏onkowskim.
+- **1)** spółką zależną od innej spółki zarządzającej, firmy inwestycyjnej, instytucji kredytowej lub podmiotu prowadzącego działalność ubezpieczeniową na podstawie zezwolenia w państwie członkowskim;
+- **2)** spółką zależną od podmiotu dominującego wobec innej spółki zarządzającej, firmy inwestycyjnej, instytucji kredytowej lub podmiotu prowadzącego działalność ubezpieczeniową posiadającego zezwolenie w państwie członkowskim;
+- **3)** kontrolowane przez te same osoby fizyczne lub prawne, które kontrolują inną spółkę zarządzającą, firmę inwestycyjną, instytucję kredytową lub podmiot prowadzący działalność ubezpieczeniową posiadający zezwolenie w państwie członkowskim.
 
-3. W przypadku, o którym mowa w ust. 2, termin okreÊlony w ust. 1 mo˝e ulec przed∏u˝eniu do 6 miesi´cy.
+3. W przypadku, o którym mowa w ust. 2, termin określony w ust. 1 może ulec przedłużeniu do 6 miesięcy.
 
-4. Komisja odmawia zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo w przypadku, gdy:
+4. Komisja odmawia zezwolenia na wykonywanie działalności przez towarzystwo w przypadku, gdy:
 
-- **1)** wniosek lub za∏àczone do niego dokumenty, októrych mowa w art. 58 ust. 1 pkt 1—12 i 17, nie sà zgodne pod wzgl´dem treÊci z przepisami prawa lub ze stanem faktycznym;
-- **2)** z analizy wniosku i za∏àczonych do niego dokumentów wynika, ˝e wnioskodawca lub osoby, o których mowa w art. 58 ust. 1 pkt 4—7, mogà wykonywaç dzia∏alnoÊç z naruszeniem zasad uczciwego obrotu lub w sposób nienale˝ycie zabezpieczajàcy interesy uczestników funduszu;
-- **3)** z analizy dokumentów za∏àczonych do wniosku wynika, ˝e wp∏yw osoby posiadajàcej bezpoÊrednio lub poÊrednio akcje towarzystwa w liczbie zapewniajàcej co najmniej 10 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy lub 10 % udzia∏u wkapitale zak∏adowym mo˝e okazaç si´ niekorzystny dla ostro˝nego istabilnego zarzàdzania przez towarzystwo funduszami inwestycyjnymi, przestrzegania zasad uczciwego obrotu lub nale˝ytego zabezpieczenia interesów uczestników
-- **4)** pozostawanie towarzystwa w bliskich powiàzaniach z innym podmiotem mog∏oby uniemo˝liwiç Komisji skuteczne sprawowanie nadzoru nad towarzystwem lub gdy sprawowanie takiego nadzoru by∏oby utrudnione lub niemo˝liwe ze wzgl´du na przepisy prawa obowiàzujàce wmiejscu siedziby lub zamieszkania tego podmiotu.
+- **1)** wniosek lub załączone do niego dokumenty, októrych mowa w art. 58 ust. 1 pkt 1—12 i 17, nie są zgodne pod względem treści z przepisami prawa lub ze stanem faktycznym;
+- **2)** z analizy wniosku i załączonych do niego dokumentów wynika, że wnioskodawca lub osoby, o których mowa w art. 58 ust. 1 pkt 4—7, mogą wykonywać działalność z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interesy uczestników funduszu;
+- **3)** z analizy dokumentów załączonych do wniosku wynika, że wpływ osoby posiadającej bezpośrednio lub pośrednio akcje towarzystwa w liczbie zapewniającej co najmniej 10 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy lub 10 % udziału wkapitale zakładowym może okazać się niekorzystny dla ostrożnego istabilnego zarządzania przez towarzystwo funduszami inwestycyjnymi, przestrzegania zasad uczciwego obrotu lub należytego zabezpieczenia interesów uczestników
+- **4)** pozostawanie towarzystwa w bliskich powiązaniach z innym podmiotem mogłoby uniemożliwić Komisji skuteczne sprawowanie nadzoru nad towarzystwem lub gdy sprawowanie takiego nadzoru byłoby utrudnione lub niemożliwe ze względu na przepisy prawa obowiązujące wmiejscu siedziby lub zamieszkania tego podmiotu.
 
-5. Odmowa udzielenia zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo jest równoznaczna z odmowà zezwolenia na utworzenie funduszu inwestycyjnego.
+5. Odmowa udzielenia zezwolenia na wykonywanie działalności przez towarzystwo jest równoznaczna z odmową zezwolenia na utworzenie funduszu inwestycyjnego.
 
-6. Komisja odmawia zezwolenia na utworzenie funduszu inwestycyjnego, je˝eli z analizy dokumentów za∏àczonych do wniosku wynika, ˝e osoby, o których mowa w art. 58 ust. 1 pkt 5—6 i 15, mogà wykonywaç swoje obowiàzki znaruszeniem zasad uczciwego obrotu lub w sposób nienale˝ycie zabezpieczajàcy interesy uczestników funduszu inwestycyjnego albo statut funduszu inwestycyjnego lub umowa z depozytariuszem nie uwzgl´dnia nale˝ycie interesów uczestfunduszy; ników funduszu lub statut funduszu zawiera postanowienia uniemo˝liwiajàce zbywanie jednostek uczestnictwa na terytorium Rzeczypospolitej Polskiej. W takim przypadku Komisja mo˝e udzieliç zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo.
+6. Komisja odmawia zezwolenia na utworzenie funduszu inwestycyjnego, jeżeli z analizy dokumentów załączonych do wniosku wynika, że osoby, o których mowa w art. 58 ust. 1 pkt 5—6 i 15, mogą wykonywać swoje obowiązki znaruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interesy uczestników funduszu inwestycyjnego albo statut funduszu inwestycyjnego lub umowa z depozytariuszem nie uwzględnia należycie interesów uczestfunduszy; ników funduszu lub statut funduszu zawiera postanowienia uniemożliwiające zbywanie jednostek uczestnictwa na terytorium Rzeczypospolitej Polskiej. W takim przypadku Komisja może udzielić zezwolenia na wykonywanie działalności przez towarzystwo.
 
-7. Komisja, udzielajàc zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo, zatwierdza dwóch cz∏onków zarzàdu, w tym prezesa towarzystwa.
+7. Komisja, udzielając zezwolenia na wykonywanie działalności przez towarzystwo, zatwierdza dwóch członków zarządu, w tym prezesa towarzystwa.
 
 **Art. 62.**
 
-1. Komisja wydaje decyzje w sprawie zezwoleƒ, o których mowa w art. 60, w terminie 2 miesi´cy od dnia z∏o˝enia wniosków.
+1. Komisja wydaje decyzje w sprawie zezwoleń, o których mowa w art. 60, w terminie 2 miesięcy od dnia złożenia wniosków.
 
-2. Komisja odmawia zezwolenia na wykonywanie przez towarzystwo dzia∏alnoÊci zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa w zakresie obrotu papierami wartoÊciowymi, je˝eli wniosek lub za∏àczone do niego dokumenty nie sà zgodne z przepisami prawa lub ze stanem faktycznym, lub zanalizy wniosku iza∏àczonych do niego dokumentów wynika, ˝e towarzystwo mo˝e wykonywaç dzia∏alnoÊç z naruszeniem zasad uczciwego obrotu lub w sposób nienale˝ycie zabezpieczajàcy interesy klientów lub uczestników zarzàdzanych przez towarzystwo funduszy inwestycyjnych.
+2. Komisja odmawia zezwolenia na wykonywanie przez towarzystwo działalności zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa w zakresie obrotu papierami wartościowymi, jeżeli wniosek lub załączone do niego dokumenty nie są zgodne z przepisami prawa lub ze stanem faktycznym, lub zanalizy wniosku izałączonych do niego dokumentów wynika, że towarzystwo może wykonywać działalność z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interesy klientów lub uczestników zarządzanych przez towarzystwo funduszy inwestycyjnych.
 
-**Art. 63.** Towarzystwo niezw∏ocznie zawiadamia Komisj´ oka˝dej zmianie danych zawartych we wniosku idokumentach, októrych mowa wart. 22, 58 i60.
+**Art. 63.** Towarzystwo niezwłocznie zawiadamia Komisję okażdej zmianie danych zawartych we wniosku idokumentach, októrych mowa wart. 22, 58 i60.
 
 **Art. 64.**
 
-1. Towarzystwo odpowiada wobec uczestników zbiorczego portfela papierów wartoÊciowych oraz uczestników funduszu inwestycyjnego za wszelkie szkody spowodowane niewykonaniem lub nienale˝ytym wykonaniem swoich obowiàzków w zakresie zarzàdzania zbiorczym portfelem papierów wartoÊciowych lub funduszem ijego reprezentacji, chyba ˝e niewykonanie lub nienale˝yte wykonanie obowiàzków jest spowodowane okolicznoÊciami, za które towarzystwo odpowiedzialnoÊci nie ponosi.
+1. Towarzystwo odpowiada wobec uczestników zbiorczego portfela papierów wartościowych oraz uczestników funduszu inwestycyjnego za wszelkie szkody spowodowane niewykonaniem lub nienależytym wykonaniem swoich obowiązków w zakresie zarządzania zbiorczym portfelem papierów wartościowych lub funduszem ijego reprezentacji, chyba że niewykonanie lub nienależyte wykonanie obowiązków jest spowodowane okolicznościami, za które towarzystwo odpowiedzialności nie ponosi.
 
-2. Za szkody z przyczyn, o których mowa w ust. 1, fundusz inwestycyjny nie ponosi odpowiedzialnoÊci.
+2. Za szkody z przyczyn, o których mowa w ust. 1, fundusz inwestycyjny nie ponosi odpowiedzialności.
 
-3. Powierzenie wykonywania niektórych obowiàzków osobie trzeciej nie ogranicza odpowiedzialnoÊci towarzystwa.
+3. Powierzenie wykonywania niektórych obowiązków osobie trzeciej nie ogranicza odpowiedzialności towarzystwa.
 
 **Art. 65.**
 
-1. Towarzystwo nie mo˝e:
+1. Towarzystwo nie może:
 
-- **1)** nabywaç lub obejmowaç udzia∏ów, akcji albo innych papierów wartoÊciowych, instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych, jednostek uczestnictwa w funduszach inwestycyjnych lub tytu∏ów uczestnictwa emitowanych przez instytucje wspólnego inwestowania majàce siedzib´ za granicà, ani byç wspólnikiem wspó∏kach nieposiadajàcych osobowoÊci prawnej;
-- **2)** udzielaç po˝yczek, por´czeƒ i gwarancji, z wyjàtkiem po˝yczek z funduszu utworzonego na podstawie ustawy z dnia 4 marca 1994 r. o zak∏adowym funduszu Êwiadczeƒ socjalnych (Dz. U. z1996 r. 70, poz. 335, zpóên. zm. ), zzastrze˝e6) udzia∏ów lub akcji spó∏ek:
-    - **a)** prowadzàcych rejestr uczestników funduszu inwestycyjnego, zarzàdzanych przez dane towarzystwo,
-    - **b)** rozliczajàcych transakcje zawierane na rynku regulowanym, je˝eli na skutek nabycia towarzystwo nie stanie si´ podmiotem dominujàcym wobec tych spó∏ek,
-    - **c)** b´dàcych podmiotami, o których mowa w art. 32 ust. 2 do wartoÊci nieprzekraczajàcej ∏àcznie 10 % kapita∏ów w∏asnych towarzystwa;
+- **1)** nabywać lub obejmować udziałów, akcji albo innych papierów wartościowych, instrumentów pochodnych, w tym niewystandaryzowanych instrumentów pochodnych, jednostek uczestnictwa w funduszach inwestycyjnych lub tytułów uczestnictwa emitowanych przez instytucje wspólnego inwestowania mające siedzibę za granicą, ani być wspólnikiem współkach nieposiadających osobowości prawnej;
+- **2)** udzielać pożyczek, poręczeń i gwarancji, z wyjątkiem pożyczek z funduszu utworzonego na podstawie ustawy z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z1996 r. 70, poz. 335, zpóên. zm. ), zzastrzeże6) udziałów lub akcji spółek:
+    - **a)** prowadzących rejestr uczestników funduszu inwestycyjnego, zarządzanych przez dane towarzystwo,
+    - **b)** rozliczających transakcje zawierane na rynku regulowanym, jeżeli na skutek nabycia towarzystwo nie stanie się podmiotem dominującym wobec tych spółek,
+    - **c)** będących podmiotami, o których mowa w art. 32 ust. 2 do wartości nieprzekraczającej łącznie 10 % kapitałów własnych towarzystwa;
 
-- **7)** akcji spó∏ek prowadzàcych gie∏d´ lub rynek pozagie∏dowy w rozumieniu przepisów prawa o publicznym obrocie papierami wartoÊciowymi;
-- **8)** papierów wartoÊciowych, walut, instrumentów pochodnych, praw majàtkowych, o których mowa w art. 145 ust. 1 pkt 6, instrumentów rynku pieni´˝nego, jednostek uczestnictwa emitowanych przez instytucje wspólnego inwestowania zsiedziniem ust. 4; bà za granicà nabywanych do zbiorczego port3) zaciàgaç po˝yczek ikredytów, wtym tak˝e dokony- fela papierów wartoÊciowych; waç emisji obligacji, w wysokoÊci przekraczajàcej 9) akcji w∏asnych towarzystwa nabywanych w celu ∏àcznie 10 % wartoÊci kapita∏ów w∏asnych, z za- umorzenia lub nabywanych w drodze egzekucji strze˝eniem ust. 4. celem zaspokojenia roszczeƒ spó∏ki, których nie mo˝na zaspokoiç w inny sposób z majàtku akcjo2. Przepisu ust. 1 pkt 1 nie stosuje si´ do: nariusza.
-- **1)** papierów wartoÊciowych emitowanych przez Skarb Paƒstwa lub Narodowy Bank Polski; 3. W przypadku, o którym mowa w ust. 2 pkt 4 lit. a, towarzystwo nie mo˝e dokonaç umorzenia albo
-- **2)** jednostek uczestnictwa lub certyfikatów inwesty- zamiany jednostek uczestnictwa funduszu na jednostcyjnych nabywanych wdrodze zapisów, októrych ki uczestnictwa innego funduszu inwestycyjnego mowa w art. 15 ust. 3; otwartego w sposób powodujàcy spadek wartoÊci aktywów funduszu poni˝ej wartoÊci 2 000 000 z∏.
-- **3)** jednostek uczestnictwa nabywanych wcelu zwi´kszenia wartoÊci aktywów netto funduszu, w przy- 4. Towarzystwo zarzàdzajàce wy∏àcznie funduszapadku zmniejszenia wartoÊci aktywów netto fun- mi, októrych mowa wart. 183, mo˝e zaciàgaç po˝yczduszu inwestycyjnego otwartego poni˝ej poziomu ki i kredyty oraz dokonywaç emisji obligacji do wyso2 500 000 z∏; koÊci kapita∏ów w∏asnych tego towarzystwa, a tak˝e mo˝e udzielaç por´czeƒ za zobowiàzania funduszu se4) jednostek uczestnictwa zarzàdzanych przez dane kurytyzacyjnego zarzàdzanego przez to towarzystwo towarzystwo: oraz udzielaç po˝yczek takiemu funduszowi.
-    - **a)** funduszy inwestycyjnych rynku pieni´˝nego,
+- **7)** akcji spółek prowadzących giełdę lub rynek pozagiełdowy w rozumieniu przepisów prawa o publicznym obrocie papierami wartościowymi;
+- **8)** papierów wartościowych, walut, instrumentów pochodnych, praw majątkowych, o których mowa w art. 145 ust. 1 pkt 6, instrumentów rynku pieniężnego, jednostek uczestnictwa emitowanych przez instytucje wspólnego inwestowania zsiedziniem ust. 4; bą za granicą nabywanych do zbiorczego port3) zaciągać pożyczek ikredytów, wtym także dokony- fela papierów wartościowych; wać emisji obligacji, w wysokości przekraczającej 9) akcji własnych towarzystwa nabywanych w celu łącznie 10 % wartości kapitałów własnych, z za- umorzenia lub nabywanych w drodze egzekucji strzeżeniem ust. 4. celem zaspokojenia roszczeń spółki, których nie można zaspokoić w inny sposób z majątku akcjo2. Przepisu ust. 1 pkt 1 nie stosuje się do: nariusza.
+- **1)** papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski; 3. W przypadku, o którym mowa w ust. 2 pkt 4 lit. a, towarzystwo nie może dokonać umorzenia albo
+- **2)** jednostek uczestnictwa lub certyfikatów inwesty- zamiany jednostek uczestnictwa funduszu na jednostcyjnych nabywanych wdrodze zapisów, októrych ki uczestnictwa innego funduszu inwestycyjnego mowa w art. 15 ust. 3; otwartego w sposób powodujący spadek wartości aktywów funduszu poniżej wartości 2 000 000 zł.
+- **3)** jednostek uczestnictwa nabywanych wcelu zwiększenia wartości aktywów netto funduszu, w przy- 4. Towarzystwo zarządzające wyłącznie funduszapadku zmniejszenia wartości aktywów netto fun- mi, októrych mowa wart. 183, może zaciągać pożyczduszu inwestycyjnego otwartego poniżej poziomu ki i kredyty oraz dokonywać emisji obligacji do wyso2 500 000 zł; kości kapitałów własnych tego towarzystwa, a także może udzielać poręczeń za zobowiązania funduszu se4) jednostek uczestnictwa zarządzanych przez dane kurytyzacyjnego zarządzanego przez to towarzystwo towarzystwo: oraz udzielać pożyczek takiemu funduszowi.
+    - **a)** funduszy inwestycyjnych rynku pieniężnego,
 
-5. Ograniczenia, o którym mowa w ust. 4, nie stob) funduszy inwestycyjnych, które lokujà co naj- suje si´, je˝eli zgodnie z warunkami umowy po˝yczki mniej 85 % swoich aktywów w papiery emito- lub kredytu, zawartej z bankiem krajowym, instytucjà wane, por´czone lub gwarantowane przez kredytowà, uzyskana kwota pieni´˝na mo˝e byç wykoSkarb Paƒstwa, Narodowy Bank Polski lub jed- rzystana przez towarzystwo wy∏àcznie na nabycie cernostki samorzàdu terytorialnego; tyfikatów podporzàdkowanych emitowanych przez
+5. Ograniczenia, o którym mowa w ust. 4, nie stob) funduszy inwestycyjnych, które lokują co naj- suje się, jeżeli zgodnie z warunkami umowy pożyczki mniej 85 % swoich aktywów w papiery emito- lub kredytu, zawartej z bankiem krajowym, instytucją wane, poręczone lub gwarantowane przez kredytową, uzyskana kwota pieniężna może być wykoSkarb Państwa, Narodowy Bank Polski lub jed- rzystana przez towarzystwo wyłącznie na nabycie cernostki samorządu terytorialnego; tyfikatów podporządkowanych emitowanych przez
 
-- **5)** certyfikatów inwestycyjnych emitowanych przez fundusze sekurytyzacyjne zarzàdzane przez to towafundusz sekurytyzacyjny, o którym mowa rzystwo. w art. 183, zarzàdzany przez dane towarzystwo, je˝eli towarzystwo zarzàdza wy∏àcznie funduszami 6. Towarzystwo mo˝e nabyç pul´ wierzytelnoÊci sekurytyzacyjnymi; lub prawa do Êwiadczeƒ z tytu∏u puli wierzytelnoÊci, wcelu ich wniesienia do funduszu sekurytyzacyjnego, albo prawa, o których mowa w art. 147 ust. 1, w celu ich wniesienia do funduszu zamkni´tego, pod warunkiem ˝e:
-- **1)** zgodnie zpolitykà inwestycyjnà okreÊlonà wstatu——————— cie fundusz inwestycyjny mo˝e lokowaç swoje aktywa w wierzytelnoÊci lub prawa do Êwiadczeƒ z tytu∏u wierzytelnoÊci albo w prawa, o których mowa w art. 147 ust. 1;
-- **2)** umowa nabycia przez towarzystwo wierzytelnoÊci lub praw do Êwiadczeƒ z tytu∏u wierzytelnoÊci albo umowa zobowiàzujàca do nabycia praw, októrych mowa w art. 147 ust. 1, b´dzie zawarta pod warunkiem, ˝e fundusz inwestycyjny zostanie zarejestrowany;
-- **3)** towarzystwo zamieÊci w prospekcie emisyjnym lub wwarunkach emisji informacj´ ozawarciu lub zamiarze zawarcia, przed rejestracjà funduszu, umowy zobowiàzujàcej do nabycia takich wierzytelnoÊci lub praw.
+- **5)** certyfikatów inwestycyjnych emitowanych przez fundusze sekurytyzacyjne zarządzane przez to towafundusz sekurytyzacyjny, o którym mowa rzystwo. w art. 183, zarządzany przez dane towarzystwo, jeżeli towarzystwo zarządza wyłącznie funduszami 6. Towarzystwo może nabyć pulę wierzytelności sekurytyzacyjnymi; lub prawa do świadczeń z tytułu puli wierzytelności, wcelu ich wniesienia do funduszu sekurytyzacyjnego, albo prawa, o których mowa w art. 147 ust. 1, w celu ich wniesienia do funduszu zamkniętego, pod warunkiem że:
+- **1)** zgodnie zpolityką inwestycyjną określoną wstatu——————— cie fundusz inwestycyjny może lokować swoje aktywa w wierzytelności lub prawa do świadczeń z tytułu wierzytelności albo w prawa, o których mowa w art. 147 ust. 1;
+- **2)** umowa nabycia przez towarzystwo wierzytelności lub praw do świadczeń z tytułu wierzytelności albo umowa zobowiązująca do nabycia praw, októrych mowa w art. 147 ust. 1, będzie zawarta pod warunkiem, że fundusz inwestycyjny zostanie zarejestrowany;
+- **3)** towarzystwo zamieści w prospekcie emisyjnym lub wwarunkach emisji informację ozawarciu lub zamiarze zawarcia, przed rejestracją funduszu, umowy zobowiązującej do nabycia takich wierzytelności lub praw.
 
-7. Wniesienie przez towarzystwo do funduszu puli wierzytelnoÊci lub praw do Êwiadczeƒ z tytu∏u puli wierzytelnoÊci albo praw, o których mowa w art. 147 ust. 1, nast´puje za zwrotem uiszczonej przez towarzystwo ceny nabycia tych wierzytelnoÊci lub praw, wterminie 3 miesi´cy od dnia zarejestrowania funduszu.
+7. Wniesienie przez towarzystwo do funduszu puli wierzytelności lub praw do świadczeń z tytułu puli wierzytelności albo praw, o których mowa w art. 147 ust. 1, następuje za zwrotem uiszczonej przez towarzystwo ceny nabycia tych wierzytelności lub praw, wterminie 3 miesięcy od dnia zarejestrowania funduszu.
 
-8. Towarzystwo nie mo˝e zawieraç umów, o których mowa w ust. 6 pkt 2, z podmiotami, o których mowa w art. 107 ust. 2 pkt 3 lit. b—e. Przepis art. 107 ust. 4 stosuje si´ odpowiednio.
+8. Towarzystwo nie może zawierać umów, o których mowa w ust. 6 pkt 2, z podmiotami, o których mowa w art. 107 ust. 2 pkt 3 lit. b—e. Przepis art. 107 ust. 4 stosuje się odpowiednio.
 
-**Art. 66.** Je˝eli umowa, o której mowa w art. 65 ust. 5, stanowi, ˝e roszczenia ztytu∏u okreÊlonej wtej umowie cz´Êci kredytu lub po˝yczki mogà byç zaspokajane z majàtku towarzystwa innego ni˝ certyfikaty podporzàdkowane nabyte za Êrodki pochodzàce ztego kredytu lub po˝yczki, wówczas do tej cz´Êci kredytu lub po˝yczki nie stosuje si´ art. 65 ust. 5.
+**Art. 66.** Jeżeli umowa, o której mowa w art. 65 ust. 5, stanowi, że roszczenia ztytułu określonej wtej umowie części kredytu lub pożyczki mogą być zaspokajane z majątku towarzystwa innego niż certyfikaty podporządkowane nabyte za środki pochodzące ztego kredytu lub pożyczki, wówczas do tej części kredytu lub pożyczki nie stosuje się art. 65 ust. 5.
 
-**Art. 67.** Zezwolenie na wykonywanie dzia∏alnoÊci przez towarzystwo wygasa z chwilà og∏oszenia upad∏oÊci towarzystwa lub otwarcia jego likwidacji albo gdy towarzystwo przez 6 miesi´cy od dnia wydania zezwolenia nie wykonuje dzia∏alnoÊci.
+**Art. 67.** Zezwolenie na wykonywanie działalności przez towarzystwo wygasa z chwilą ogłoszenia upadłości towarzystwa lub otwarcia jego likwidacji albo gdy towarzystwo przez 6 miesięcy od dnia wydania zezwolenia nie wykonuje działalności.
 
 **Art. 68.**
 
-1. Od dnia wydania decyzji o cofni´ciu zezwolenia na dzia∏alnoÊç towarzystwa, o której mowa wart. 228 ust. 1 pkt 1 iust. 2, lub od dnia wygaÊni´cia takiego zezwolenia fundusz inwestycyjny jest reprezentowany przez depozytariusza. W tym czasie fundusz nie zbywa jednostek uczestnictwa ani nie emituje certyfikatów inwestycyjnych.
+1. Od dnia wydania decyzji o cofnięciu zezwolenia na działalność towarzystwa, o której mowa wart. 228 ust. 1 pkt 1 iust. 2, lub od dnia wygaśnięcia takiego zezwolenia fundusz inwestycyjny jest reprezentowany przez depozytariusza. W tym czasie fundusz nie zbywa jednostek uczestnictwa ani nie emituje certyfikatów inwestycyjnych.
 
-2. Fundusz inwestycyjny ulega rozwiàzaniu, je˝eli w terminie 3 miesi´cy od dnia wydania decyzji o cofni´ciu zezwolenia lub od dnia wygaÊni´cia zezwolenia inne towarzystwo nie przejmie zarzàdzania funduszem inwestycyjnym.
+2. Fundusz inwestycyjny ulega rozwiązaniu, jeżeli w terminie 3 miesięcy od dnia wydania decyzji o cofnięciu zezwolenia lub od dnia wygaśnięcia zezwolenia inne towarzystwo nie przejmie zarządzania funduszem inwestycyjnym.
 
-3. Towarzystwo, które zamierza przejàç zarzàdzanie funduszem inwestycyjnym, sk∏ada do Komisji wniosek o udzielenie zezwolenia na zmian´ statutu funduszu w zakresie okreÊlonym w art. 18 ust. 2 pkt 2 wraz z za∏àcznikami wymienionymi w art. 22 pkt 6, 8 i 9.
+3. Towarzystwo, które zamierza przejąć zarządzanie funduszem inwestycyjnym, składa do Komisji wniosek o udzielenie zezwolenia na zmianę statutu funduszu w zakresie określonym w art. 18 ust. 2 pkt 2 wraz z załącznikami wymienionymi w art. 22 pkt 6, 8 i 9.
 
 **Art. 69.**
 
 1. Towarzystwo przechowuje i archiwizuje
 
-- **1)** funduszy inwestycyjnych, którymi zarzàdza,
-- **2)** dzia∏alnoÊci w zakresie zarzàdzania zbiorczym portfelem papierów wartoÊciowych,
-- **3)** zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie,
-- **4)** doradztwa wzakresie obrotu papierami wartoÊciowymi,
-- **5)** poÊrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych utworzonych przez inne towarzystwa lub tytu∏ów uczestnictwa funduszy zagranicznych,
-- **6)** pe∏nienia funkcji przedstawiciela funduszy zagranicznych, o którym mowa w art. 253 ust. 2 pkt 6 przez dziesi´ç lat od zakoƒczenia roku, w którym sporzàdzono dany dokument lub inny noÊnik informacji, chyba ˝e odr´bne przepisy wymagajà ich d∏u˝szego przechowywania.
+- **1)** funduszy inwestycyjnych, którymi zarządza,
+- **2)** działalności w zakresie zarządzania zbiorczym portfelem papierów wartościowych,
+- **3)** zarządzania cudzym pakietem papierów wartościowych na zlecenie,
+- **4)** doradztwa wzakresie obrotu papierami wartościowymi,
+- **5)** pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych utworzonych przez inne towarzystwa lub tytułów uczestnictwa funduszy zagranicznych,
+- **6)** pełnienia funkcji przedstawiciela funduszy zagranicznych, o którym mowa w art. 253 ust. 2 pkt 6 przez dziesięć lat od zakończenia roku, w którym sporządzono dany dokument lub inny nośnik informacji, chyba że odrębne przepisy wymagają ich dłuższego przechowywania.
 
-2. W przypadku likwidacji funduszu inwestycyjnego towarzystwo ma obowiàzek przechowywaç dokumenty i inne noÊniki informacji, o których mowa w ust. 1, przez pi´ç lat od dnia rozwiàzania funduszu.
+2. W przypadku likwidacji funduszu inwestycyjnego towarzystwo ma obowiązek przechowywać dokumenty i inne nośniki informacji, o których mowa w ust. 1, przez pięć lat od dnia rozwiązania funduszu.
 
-3. Je˝eli zezwolenie wygas∏o z mocy prawa lub cofni´to zezwolenie na prowadzenie dzia∏alnoÊci przez towarzystwo, depozytariusz przechowuje iarchiwizuje dokumenty oraz inne noÊniki informacji funduszy co najmniej przez pi´ç lat od dnia rozwiàzania funduszu.
+3. Jeżeli zezwolenie wygasło z mocy prawa lub cofnięto zezwolenie na prowadzenie działalności przez towarzystwo, depozytariusz przechowuje iarchiwizuje dokumenty oraz inne nośniki informacji funduszy co najmniej przez pięć lat od dnia rozwiązania funduszu.
 
-4. W przypadku upad∏oÊci lub likwidacji depozytariusza do dokumentów i innych noÊników informacji, zwiàzanych z zarzàdzaniem funduszem inwestycyjnym, stosuje si´ przepis art. 476 § 3 Kodeksu spó∏ek handlowych. W∏aÊciwy sàd niezw∏ocznie zawiadamia Komisj´ o wyznaczonym przechowawcy.
+4. W przypadku upadłości lub likwidacji depozytariusza do dokumentów i innych nośników informacji, związanych z zarządzaniem funduszem inwestycyjnym, stosuje się przepis art. 476 § 3 Kodeksu spółek handlowych. Właściwy sąd niezwłocznie zawiadamia Komisję o wyznaczonym przechowawcy.
 
 **Art. 70.**
 
-1. Towarzystwa, a tak˝e domy maklerskie prowadzàce dzia∏alnoÊç wy∏àcznie w zakresie zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa w zakresie obrotu papierami wartoÊciowymi, wliczbie co najmniej 10, mogà utworzyç, na zasadach okreÊlonych w odr´bnych przepisach, izb´ gospodarczà onazwie „Izba Zarzàdzajàcych Funduszami i Aktywami”, zwanà dalej „izbà”.
+1. Towarzystwa, a także domy maklerskie prowadzące działalność wyłącznie w zakresie zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa w zakresie obrotu papierami wartościowymi, wliczbie co najmniej 10, mogą utworzyć, na zasadach określonych w odrębnych przepisach, izbę gospodarczą onazwie ŃIzba Zarządzających Funduszami i Aktywami”, zwaną dalej Ńizbą”.
 
-2. Do zadaƒ izby nale˝y w szczególnoÊci:
+2. Do zadań izby należy w szczególności:
 
-- **1)** okreÊlanie i kodyfikacja zasad uczciwego obrotu oraz przyj´tych w obrocie zwyczajów w dzia∏alnoÊci funduszy inwestycyjnych;
-- **2)** okreÊlanie standardów prezentacji wyników funduszy inwestycyjnych;
-- **3)** okreÊlanie standardów reklamy funduszy inwestycyjnych;
-- **4)** okreÊlanie standardów prospektów informacyjdokumenty oraz inne noÊniki informacji dotyczàce: nych funduszy inwestycyjnych iskrótów tych prospektów;
-- **5)** sprawowanie nadzoru nad przestrzeganiem standardów okreÊlonych przez izb´ oraz zasad uczciwej konkurencji na rynku funduszy inwestycyjnych;
-- **6)** reprezentowanie towarzystw, a tak˝e domów maklerskich prowadzàcych dzia∏alnoÊç wy∏àcznie w zakresie zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa wzakresie obrotu papierami wartoÊciowymi wodpowiednich organizacjach mi´dzynarodowych.
+- **1)** określanie i kodyfikacja zasad uczciwego obrotu oraz przyjętych w obrocie zwyczajów w działalności funduszy inwestycyjnych;
+- **2)** określanie standardów prezentacji wyników funduszy inwestycyjnych;
+- **3)** określanie standardów reklamy funduszy inwestycyjnych;
+- **4)** określanie standardów prospektów informacyjdokumenty oraz inne nośniki informacji dotyczące: nych funduszy inwestycyjnych iskrótów tych prospektów;
+- **5)** sprawowanie nadzoru nad przestrzeganiem standardów określonych przez izbę oraz zasad uczciwej konkurencji na rynku funduszy inwestycyjnych;
+- **6)** reprezentowanie towarzystw, a także domów maklerskich prowadzących działalność wyłącznie w zakresie zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa wzakresie obrotu papierami wartościowymi wodpowiednich organizacjach międzynarodowych.
 
-3. Organizacj´ w∏adz izby, tryb ich powo∏ywania, zakres kompetencji oraz zadania izby okreÊla statut izby. DZIA¸ IV Depozytariusz
+3. Organizację władz izby, tryb ich powoływania, zakres kompetencji oraz zadania izby określa statut izby. DZIAĘ IV Depozytariusz
 
-**Art. 71.** Umow´ o prowadzenie rejestru aktywów funduszu mo˝na zawrzeç wy∏àcznie z:
+**Art. 71.** Umowę o prowadzenie rejestru aktywów funduszu można zawrzeć wyłącznie z:
 
 **Art. 72.**
 
-1. Obowiàzki depozytariusza wynikajàce z umowy o prowadzenie rejestru aktywów funduszu inwestycyjnego obejmujà:
+1. Obowiązki depozytariusza wynikające z umowy o prowadzenie rejestru aktywów funduszu inwestycyjnego obejmują:
 
-- **1)** prowadzenie rejestru aktywów funduszu inwestycyjnego, wtym aktywów zapisywanych na w∏aÊciwych rachunkach oraz przechowywanych przez depozytariusza i inne podmioty na mocy odr´bnych przepisów lub na podstawie umów zawartych na polecenie funduszu przez depozytariusza;
-- **2)** zapewnienie, aby zbywanie i odkupywanie jednostek uczestnictwa lub emitowanie, wydawanie iwykupywanie certyfikatów inwestycyjnych odbywa∏o si´ zgodnie z przepisami prawa i statutem funduszu inwestycyjnego;
-- **3)** zapewnienie, aby rozliczanie umów dotyczàcych aktywów funduszu inwestycyjnego nast´powa∏o bez nieuzasadnionego opóênienia, oraz kontrolowanie terminowoÊci rozliczania umów z uczestnikami funduszu;
-- **4)** zapewnienie, aby wartoÊç netto aktywów funduszu inwestycyjnego i wartoÊç jednostki uczestnictwa by∏a obliczana zgodnie z przepisami prawa i statutem funduszu inwestycyjnego;
-- **5)** zapewnienie, aby dochody funduszu inwestycyjnego by∏y wykorzystywane w sposób zgodny z przepisami prawa i ze statutem funduszu;
-- **6)** wykonywanie poleceƒ funduszu inwestycyjnego, chyba ˝e sà sprzeczne zprawem lub statutem fun2. W przypadku funduszu, o którym mowa w art. 159, depozytariusz oprócz rejestru aktywów funduszu prowadzi subrejestry aktywów ka˝dego z subfunduszy.
+- **1)** prowadzenie rejestru aktywów funduszu inwestycyjnego, wtym aktywów zapisywanych na właściwych rachunkach oraz przechowywanych przez depozytariusza i inne podmioty na mocy odrębnych przepisów lub na podstawie umów zawartych na polecenie funduszu przez depozytariusza;
+- **2)** zapewnienie, aby zbywanie i odkupywanie jednostek uczestnictwa lub emitowanie, wydawanie iwykupywanie certyfikatów inwestycyjnych odbywało się zgodnie z przepisami prawa i statutem funduszu inwestycyjnego;
+- **3)** zapewnienie, aby rozliczanie umów dotyczących aktywów funduszu inwestycyjnego następowało bez nieuzasadnionego opóênienia, oraz kontrolowanie terminowości rozliczania umów z uczestnikami funduszu;
+- **4)** zapewnienie, aby wartość netto aktywów funduszu inwestycyjnego i wartość jednostki uczestnictwa była obliczana zgodnie z przepisami prawa i statutem funduszu inwestycyjnego;
+- **5)** zapewnienie, aby dochody funduszu inwestycyjnego były wykorzystywane w sposób zgodny z przepisami prawa i ze statutem funduszu;
+- **6)** wykonywanie poleceń funduszu inwestycyjnego, chyba że są sprzeczne zprawem lub statutem fun2. W przypadku funduszu, o którym mowa w art. 159, depozytariusz oprócz rejestru aktywów funduszu prowadzi subrejestry aktywów każdego z subfunduszy.
 
-3. Depozytariusz mo˝e zawieraç umowy, októrych mowa wust. 1 pkt 1, równie˝ zbankami krajowymi, instytucjami kredytowymi lub bankami zagranicznymi.
+3. Depozytariusz może zawierać umowy, októrych mowa wust. 1 pkt 1, również zbankami krajowymi, instytucjami kredytowymi lub bankami zagranicznymi.
 
-4. Depozytariusz zapewnia zgodne zprawem istatutem wykonywanie obowiàzków funduszu, o których mowa w ust. 1 pkt 2—5, co najmniej przez sta∏à kontrol´ czynnoÊci faktycznych i prawnych dokonywanych przez fundusz oraz nadzorowanie doprowadzania do zgodnoÊci tych czynnoÊci z prawem i statutem funduszu.
+4. Depozytariusz zapewnia zgodne zprawem istatutem wykonywanie obowiązków funduszu, o których mowa w ust. 1 pkt 2—5, co najmniej przez stałą kontrolę czynności faktycznych i prawnych dokonywanych przez fundusz oraz nadzorowanie doprowadzania do zgodności tych czynności z prawem i statutem funduszu.
 
-5. Depozytariusz jest obowiàzany do wyst´powania, wimieniu uczestników, zpowództwem przeciwko towarzystwu z tytu∏u szkody spowodowanej niewykonaniem lub nienale˝ytym wykonaniem obowiàzków wzakresie zarzàdzania funduszem ijego reprezentacji.
+5. Depozytariusz jest obowiązany do występowania, wimieniu uczestników, zpowództwem przeciwko towarzystwu z tytułu szkody spowodowanej niewykonaniem lub nienależytym wykonaniem obowiązków wzakresie zarządzania funduszem ijego reprezentacji.
 
 **Art. 73.**
 
-1. Cz∏onkowie organów depozytariusza ijego pracownicy nie mogà byç cz∏onkami zarzàdu lub rady nadzorczej towarzystwa.
+1. Członkowie organów depozytariusza ijego pracownicy nie mogą być członkami zarządu lub rady nadzorczej towarzystwa.
 
-2. Depozytariusz nie mo˝e byç akcjonariuszem towarzystwa zarzàdzajàcego funduszem inwestycyjnym, którego aktywa rejestruje.
+2. Depozytariusz nie może być akcjonariuszem towarzystwa zarządzającego funduszem inwestycyjnym, którego aktywa rejestruje.
 
-3. Je˝eli uczestnicy funduszu inwestycyjnego ponieÊli szkody spowodowane niewykonaniem lub nienale˝ytym wykonaniem obowiàzków towarzystwa wzakresie zarzàdzania funduszem ijego reprezentacji, domniemywa si´, ˝e depozytariusz, b´dàcy podmiotem z grupy kapita∏owej towarzystwa, Êwiadomie zaniecha∏ wykonywania swoich obowiàzków wynikajàcych zustawy oraz umowy oprowadzenie rejestru aktywów funduszu inwestycyjnego.
+3. Jeżeli uczestnicy funduszu inwestycyjnego ponieśli szkody spowodowane niewykonaniem lub nienależytym wykonaniem obowiązków towarzystwa wzakresie zarządzania funduszem ijego reprezentacji, domniemywa się, że depozytariusz, będący podmiotem z grupy kapitałowej towarzystwa, świadomie zaniechał wykonywania swoich obowiązków wynikających zustawy oraz umowy oprowadzenie rejestru aktywów funduszu inwestycyjnego.
 
 **Art. 74.**
 
-1. Umowa o prowadzenie rejestru aktywów funduszu inwestycyjnego okreÊla szczegó∏owe obowiàzki depozytariusza i funduszu inwestycyjnego oraz sposób ich wykonywania, atak˝e wynagrodzenie depozytariusza i sposób kalkulacji kosztów obcià˝ajàduszu inwestycyjnego. cych fundusz.
+1. Umowa o prowadzenie rejestru aktywów funduszu inwestycyjnego określa szczegółowe obowiązki depozytariusza i funduszu inwestycyjnego oraz sposób ich wykonywania, atakże wynagrodzenie depozytariusza i sposób kalkulacji kosztów obciążająduszu inwestycyjnego. cych fundusz.
 
-2. Umowa, októrej mowa wust. 1, nie mo˝e ograniczyç obowiàzków depozytariusza okreÊlonych w ustawie.
+2. Umowa, októrej mowa wust. 1, nie może ograniczyć obowiązków depozytariusza określonych w ustawie.
 
 **Art. 75.**
 
-1. Depozytariusz odpowiada za szkody spowodowane niewykonaniem lub nienale˝ytym wykonywaniem obowiàzków okreÊlonych wart. 72 ust. 1 i 5.
+1. Depozytariusz odpowiada za szkody spowodowane niewykonaniem lub nienależytym wykonywaniem obowiązków określonych wart. 72 ust. 1 i 5.
 
-2. OdpowiedzialnoÊç depozytariusza nie mo˝e byç wy∏àczona albo ograniczona w umowie o prowadzenie rejestru aktywów funduszu.
+2. Odpowiedzialność depozytariusza nie może być wyłączona albo ograniczona w umowie o prowadzenie rejestru aktywów funduszu.
 
 **Art. 76.**
 
-1. Fundusz inwestycyjny lub depozytariusz mogà rozwiàzaç umow´ o prowadzenie rejestru aktywów funduszu, za wypowiedzeniem, w terminie nie krótszym ni˝ 6 miesi´cy.
+1. Fundusz inwestycyjny lub depozytariusz mogą rozwiązać umowę o prowadzenie rejestru aktywów funduszu, za wypowiedzeniem, w terminie nie krótszym niż 6 miesięcy.
 
-2. O wypowiedzeniu umowy wypowiadajàcy zawiadamia niezw∏ocznie Komisj´.
+2. O wypowiedzeniu umowy wypowiadający zawiadamia niezwłocznie Komisję.
 
 **Art. 77.**
 
-1. Je˝eli depozytariusz nie wykonuje obowiàzków okreÊlonych w umowie o prowadzenie rejestru aktywów funduszu albo wykonuje je nienale˝ycie:
+1. Jeżeli depozytariusz nie wykonuje obowiązków określonych w umowie o prowadzenie rejestru aktywów funduszu albo wykonuje je nienależycie:
 
-- **1)** fundusz inwestycyjny wypowiada umow´ i niezw∏ocznie zawiadamia o tym Komisj´;
-- **2)** Komisja mo˝e nakazaç funduszowi inwestycyjnemu zmian´ depozytariusza.
+- **1)** fundusz inwestycyjny wypowiada umowę i niezwłocznie zawiadamia o tym Komisję;
+- **2)** Komisja może nakazać funduszowi inwestycyjnemu zmianę depozytariusza.
 
-2. Wprzypadkach, októrych mowa wust. 1, wypowiedzenie mo˝e nastàpiç w terminie krótszym ni˝ 6 miesi´cy.
+2. Wprzypadkach, októrych mowa wust. 1, wypowiedzenie może nastąpić w terminie krótszym niż 6 miesięcy.
 
-**Art. 78.** W przypadku otwarcia likwidacji lub og∏oszenia upad∏oÊci depozytariusza, fundusz inwestycyjny niezw∏ocznie dokonuje zmiany depozytariusza. Przepisu art. 76 ust. 1 nie stosuje si´.
+**Art. 78.** W przypadku otwarcia likwidacji lub ogłoszenia upadłości depozytariusza, fundusz inwestycyjny niezwłocznie dokonuje zmiany depozytariusza. Przepisu art. 76 ust. 1 nie stosuje się.
 
 **Art. 79.**
 
-1. Zmiana depozytariusza jest dokonywana w sposób zapewniajàcy nieprzerwane wykonywanie obowiàzków okreÊlonych w art. 72 ust. 1.
+1. Zmiana depozytariusza jest dokonywana w sposób zapewniający nieprzerwane wykonywanie obowiązków określonych w art. 72 ust. 1.
 
-2. Depozytariusz, z którym rozwiàzano umow´, jest obowiàzany wydaç depozytariuszowi, z którym fundusz inwestycyjny zawar∏ umow´, rejestr aktywów, przechowywane aktywa funduszu inwestycyjnego oraz dokumenty zwiàzane z wykonywaniem obowiàzków okreÊlonych w art. 72 ust. 1 w terminach uzgodnionych przez strony, jednak˝e bez zb´dnej zw∏oki.
+2. Depozytariusz, z którym rozwiązano umowę, jest obowiązany wydać depozytariuszowi, z którym fundusz inwestycyjny zawarł umowę, rejestr aktywów, przechowywane aktywa funduszu inwestycyjnego oraz dokumenty związane z wykonywaniem obowiązków określonych w art. 72 ust. 1 w terminach uzgodnionych przez strony, jednakże bez zbędnej zwłoki.
 
 **Art. 80.** Zmiana depozytariusza wymaga zgody Komisji.
 
-**Art. 81.** Przechowywane przez depozytariusza aktywa funduszu inwestycyjnego albo wp∏aty dokonane na rachunek, októrym mowa wart. 28 ust. 1 iart. 130 ust. 1, nie mogà byç przedmiotem egzekucji kierowanej przeciwko depozytariuszowi lub podmiotom, októrych mowa wart. 72 ust. 1 pkt 1, inie wchodzà do masy upad∏oÊci depozytariusza lub tych podmiotów i nie mogà byç obj´te post´powaniem naprawczym. DZIA¸ V Rodzaje funduszy inwestycyjnych Rozdzia∏ 1 Fundusze inwestycyjne otwarte
+**Art. 81.** Przechowywane przez depozytariusza aktywa funduszu inwestycyjnego albo wpłaty dokonane na rachunek, októrym mowa wart. 28 ust. 1 iart. 130 ust. 1, nie mogą być przedmiotem egzekucji kierowanej przeciwko depozytariuszowi lub podmiotom, októrych mowa wart. 72 ust. 1 pkt 1, inie wchodzą do masy upadłości depozytariusza lub tych podmiotów i nie mogą być objęte postępowaniem naprawczym. DZIAĘ V Rodzaje funduszy inwestycyjnych
 
-**Art. 82.** Fundusz inwestycyjny otwarty zbywa jednostki uczestnictwa i dokonuje ich odkupienia na ˝àdanie uczestnika funduszu. Z chwilà odkupienia jednostki uczestnictwa sà umarzane z mocy prawa.
+#### Rozdział 1 Fundusze inwestycyjne otwarte
+
+**Art. 82.** Fundusz inwestycyjny otwarty zbywa jednostki uczestnictwa i dokonuje ich odkupienia na żądanie uczestnika funduszu. Z chwilą odkupienia jednostki uczestnictwa są umarzane z mocy prawa.
 
 **Art. 83.**
 
-1. Fundusz nie mo˝e ró˝nicowaç praw majàtkowych uczestników funduszu posiadajàcych jednostki uczestnictwa tej samej kategorii.
+1. Fundusz nie może różnicować praw majątkowych uczestników funduszu posiadających jednostki uczestnictwa tej samej kategorii.
 
-2. Jednostka uczestnictwa nie mo˝e byç zbyta
+2. Jednostka uczestnictwa nie może być zbyta
 
 3. Jednostka uczestnictwa podlega dziedziczeniu.
 
-4. Jednostki uczestnictwa mogà byç przedmiotem zastawu. Zaspokojenie zastawnika zprzedmiotu zastawu nast´puje wy∏àcznie w wyniku odkupienia jednostek uczestnictwa przez fundusz na ˝àdanie zg∏oszone wpost´powaniu egzekucyjnym. Zaspokojenie zastawnika nie wymaga przeprowadzenia post´powania egzekucyjnego, je˝eli zaspokojenie to nast´puje na podstawie umowy zastawu ustanowionego zgodnie zprzepisami ustawy zdnia 2 kwietnia 2004 r. oniektórych zabezpieczeniach finansowych (Dz. U. 91, poz. 871). W takim przypadku fundusz dokonuje wyp∏aty na rachunek zastawnika kwoty nale˝nej z tytu∏u odkupienia jednostek uczestnictwa.
+4. Jednostki uczestnictwa mogą być przedmiotem zastawu. Zaspokojenie zastawnika zprzedmiotu zastawu następuje wyłącznie w wyniku odkupienia jednostek uczestnictwa przez fundusz na żądanie zgłoszone wpostępowaniu egzekucyjnym. Zaspokojenie zastawnika nie wymaga przeprowadzenia postępowania egzekucyjnego, jeżeli zaspokojenie to następuje na podstawie umowy zastawu ustanowionego zgodnie zprzepisami ustawy zdnia 2 kwietnia 2004 r. oniektórych zabezpieczeniach finansowych (Dz. U. 91, poz. 871). W takim przypadku fundusz dokonuje wypłaty na rachunek zastawnika kwoty należnej z tytułu odkupienia jednostek uczestnictwa.
 
-5. Ustanowienie zastawu na jednostkach uczestnictwa staje si´ skuteczne z chwilà dokonania, na wniosek zastawcy lub zastawnika, odpowiedniego zapisu w rejestrze uczestników funduszu, po przedstawieniu funduszowi umowy zastawu. przez uczestnika na rzecz osób trzecich.
+5. Ustanowienie zastawu na jednostkach uczestnictwa staje się skuteczne z chwilą dokonania, na wniosek zastawcy lub zastawnika, odpowiedniego zapisu w rejestrze uczestników funduszu, po przedstawieniu funduszowi umowy zastawu. przez uczestnika na rzecz osób trzecich.
 
-6. Przed datà wymagalnoÊci wierzytelnoÊci zabezpieczonej zastawem zastawca nie mo˝e bez zgody zastawnika zg∏osiç funduszowi ˝àdania odkupienia jednostek uczestnictwa obcià˝onych zastawem.
+6. Przed datą wymagalności wierzytelności zabezpieczonej zastawem zastawca nie może bez zgody zastawnika zgłosić funduszowi żądania odkupienia jednostek uczestnictwa obciążonych zastawem.
 
-7. Je˝eli wierzytelnoÊç zabezpieczona zastawem sta∏a si´ wymagalna, zastawca mo˝e zg∏osiç funduszowi ˝àdanie odkupienia jednostek uczestnictwa obcià˝onych zastawem, jednak˝e wyp∏ata na rzecz zastawcy Êrodków pieni´˝nych ztytu∏u odkupienia przez fundusz tych jednostek mo˝e nastàpiç po przedstawieniu pokwitowania wierzyciela, stwierdzajàcego wygaÊni´cie wierzytelnoÊci zabezpieczonej zastawem.
+7. Jeżeli wierzytelność zabezpieczona zastawem stała się wymagalna, zastawca może zgłosić funduszowi żądanie odkupienia jednostek uczestnictwa obciążonych zastawem, jednakże wypłata na rzecz zastawcy środków pieniężnych ztytułu odkupienia przez fundusz tych jednostek może nastąpić po przedstawieniu pokwitowania wierzyciela, stwierdzającego wygaśnięcie wierzytelności zabezpieczonej zastawem.
 
-8. Przepisy ust. 4—7 stosuje si´ odpowiednio do zastawu skarbowego i zastawu rejestrowego, którego przedmiotem sà jednostki uczestnictwa, je˝eli nie sà sprzeczne z przepisami ustaw regulujàcych ustanowienie i wygaÊni´cie zastawu skarbowego i zastawu rejestrowego.
+8. Przepisy ust. 4—7 stosuje się odpowiednio do zastawu skarbowego i zastawu rejestrowego, którego przedmiotem są jednostki uczestnictwa, jeżeli nie są sprzeczne z przepisami ustaw regulujących ustanowienie i wygaśnięcie zastawu skarbowego i zastawu rejestrowego.
 
-9. Wzakresie nieuregulowanym wust. 4—8 do zastawu na jednostkach uczestnictwa stosuje si´ przepisy Kodeksu cywilnego.
+9. Wzakresie nieuregulowanym wust. 4—8 do zastawu na jednostkach uczestnictwa stosuje się przepisy Kodeksu cywilnego.
 
 **Art. 84.**
 
-1. Fundusz inwestycyjny otwarty zbywa i odkupuje jednostki uczestnictwa z cz´stotliwoÊcià okreÊlonà w statucie, nie rzadziej jednak ni˝ raz na 7 dni.
+1. Fundusz inwestycyjny otwarty zbywa i odkupuje jednostki uczestnictwa z częstotliwością określoną w statucie, nie rzadziej jednak niż raz na 7 dni.
 
-2. Statut funduszu inwestycyjnego mo˝e okreÊlaç wartoÊç aktywów netto, po której przekroczeniu fundusz mo˝e zawiesiç zbywanie jednostek uczestnictwa. W takim przypadku statut funduszu okreÊli warunki wznowienia zbywania jednostek uczestnictwa.
+2. Statut funduszu inwestycyjnego może określać wartość aktywów netto, po której przekroczeniu fundusz może zawiesić zbywanie jednostek uczestnictwa. W takim przypadku statut funduszu określi warunki wznowienia zbywania jednostek uczestnictwa.
 
-3. Fundusz inwestycyjny mo˝e zawiesiç zbywanie jednostek uczestnictwa na 2 tygodnie, je˝eli nie mo˝na dokonaç wiarygodnej wyceny istotnej cz´Êci aktywów funduszu z przyczyn niezale˝nych od funduszu.
+3. Fundusz inwestycyjny może zawiesić zbywanie jednostek uczestnictwa na 2 tygodnie, jeżeli nie można dokonać wiarygodnej wyceny istotnej części aktywów funduszu z przyczyn niezależnych od funduszu.
 
-4. W przypadku, o którym mowa w ust. 3, za zgodà i na warunkach okreÊlonych przez Komisj´ zbywanie jednostek uczestnictwa mo˝e zostaç zawieszone na okres d∏u˝szy ni˝ 2 tygodnie, nieprzekraczajàcy jednak 2 miesi´cy.
+4. W przypadku, o którym mowa w ust. 3, za zgodą i na warunkach określonych przez Komisję zbywanie jednostek uczestnictwa może zostać zawieszone na okres dłuższy niż 2 tygodnie, nieprzekraczający jednak 2 miesięcy.
 
-**Art. 85.** Zcz´stotliwoÊcià okreÊlonà wstatucie, nie rzadziej jednak ni˝ wka˝dym dniu zbywania lub odkupywania jednostek uczestnictwa, fundusz inwestycyjny otwarty dokonuje:
+**Art. 85.** Zczęstotliwością określoną wstatucie, nie rzadziej jednak niż wkażdym dniu zbywania lub odkupywania jednostek uczestnictwa, fundusz inwestycyjny otwarty dokonuje:
 
 **Art. 86.**
 
-1. Jednostki uczestnictwa sà zbywane iodkupywane po cenie wynikajàcej zpodzielenia wartoÊci aktywów netto funduszu przez liczb´ jednostek ustalonà na podstawie rejestru uczestników funduszu w dniu wyceny.
+1. Jednostki uczestnictwa są zbywane iodkupywane po cenie wynikającej zpodzielenia wartości aktywów netto funduszu przez liczbę jednostek ustaloną na podstawie rejestru uczestników funduszu w dniu wyceny.
 
-2. Przy zbywaniu i odkupywaniu jednostek uczestnictwa mogà byç pobierane op∏aty manipulacyjne, je˝eli statut funduszu tak stanowi iokreÊla maksymalnà wysokoÊç i sposób pobierania tych op∏at.
+2. Przy zbywaniu i odkupywaniu jednostek uczestnictwa mogą być pobierane opłaty manipulacyjne, jeżeli statut funduszu tak stanowi iokreśla maksymalną wysokość i sposób pobierania tych opłat.
 
 **Art. 87.**
 
 1. Fundusz inwestycyjny otwarty prowadzi rejestr uczestników funduszu.
 
-2. Rejestr uczestników funduszu zawiera w szczególnoÊci:
+2. Rejestr uczestników funduszu zawiera w szczególności:
 
-- **1)** dane identyfikujàce uczestnika funduszu;
-- **2)** liczb´ jednostek uczestnictwa nale˝àcych do uczestnika;
-- **3)** dat´ nabycia, liczb´ i cen´ nabycia jednostki uczestnictwa;
-- **4)** dat´ odkupienia, liczb´ odkupionych jednostek oraz kwot´ wyp∏aconà uczestnikowi za odkupione jednostki;
-- **5)** dat´ oraz kwot´ dochodów funduszu wyp∏aconych uczestnikowi;
-- **6)** informacje o pe∏nomocnictwach udzielonych lub odwo∏anych przez uczestnika funduszu;
-- **7)** wzmiank´ o zastawie ustanowionym na jednostkach uczestnictwa.
+- **1)** dane identyfikujące uczestnika funduszu;
+- **2)** liczbę jednostek uczestnictwa należących do uczestnika;
+- **3)** datę nabycia, liczbę i cenę nabycia jednostki uczestnictwa;
+- **4)** datę odkupienia, liczbę odkupionych jednostek oraz kwotę wypłaconą uczestnikowi za odkupione jednostki;
+- **5)** datę oraz kwotę dochodów funduszu wypłaconych uczestnikowi;
+- **6)** informacje o pełnomocnictwach udzielonych lub odwołanych przez uczestnika funduszu;
+- **7)** wzmiankę o zastawie ustanowionym na jednostkach uczestnictwa.
 
 **Art. 88.**
 
-1. Osobom, które dokona∏y wp∏aty na jednostki uczestnictwa, fundusz jest obowiàzany zbyç liczb´ jednostek ustalonà zgodnie z art. 86 ust. 1.
+1. Osobom, które dokonały wpłaty na jednostki uczestnictwa, fundusz jest obowiązany zbyć liczbę jednostek ustaloną zgodnie z art. 86 ust. 1.
 
-2. Zbycie jednostek uczestnictwa nast´puje w chwili wpisania do rejestru uczestników funduszu liczby zbytych jednostek uczestnictwa.
+2. Zbycie jednostek uczestnictwa następuje w chwili wpisania do rejestru uczestników funduszu liczby zbytych jednostek uczestnictwa.
 
-3. Statut funduszu inwestycyjnego mo˝e okreÊlaç minimalnà kwot´, za jakà jednorazowo mo˝na nabyç
+3. Statut funduszu inwestycyjnego może określać minimalną kwotę, za jaką jednorazowo można nabyć
 
 **Art. 89.**
 
-1. Fundusz jest obowiàzany odkupiç jednostki uczestnictwa od uczestników, którzy za˝àdali odkupienia tych jednostek, po cenie ustalonej zgodnie z art. 86 ust. 1.
+1. Fundusz jest obowiązany odkupić jednostki uczestnictwa od uczestników, którzy zażądali odkupienia tych jednostek, po cenie ustalonej zgodnie z art. 86 ust. 1.
 
-2. Odkupienie jednostek uczestnictwa nast´puje w chwili wpisania do rejestru uczestników funduszu liczby odkupionych jednostek uczestnictwa ikwoty nale˝nej uczestnikowi z tytu∏u odkupienia tych jednostek.
+2. Odkupienie jednostek uczestnictwa następuje w chwili wpisania do rejestru uczestników funduszu liczby odkupionych jednostek uczestnictwa ikwoty należnej uczestnikowi z tytułu odkupienia tych jednostek.
 
-3. Fundusz niezw∏ocznie dokonuje wyp∏aty kwoty, o której mowa w ust. 2, w sposób okreÊlony w statucie funduszu.
+3. Fundusz niezwłocznie dokonuje wypłaty kwoty, o której mowa w ust. 2, w sposób określony w statucie funduszu.
 
-4. Fundusz mo˝e zawiesiç odkupywanie jednostek uczestnictwa na 2 tygodnie, je˝eli:
+4. Fundusz może zawiesić odkupywanie jednostek uczestnictwa na 2 tygodnie, jeżeli:
 
-- **1)** wokresie ostatnich 2 tygodni suma wartoÊci odkupionych przez fundusz jednostek uczestnictwa oraz jednostek, których odkupienia za˝àdano, stanowi kwot´ przekraczajàcà 10 % wartoÊci aktywów funduszu albo
-- **2)** nie mo˝na dokonaç wiarygodnej wyceny istotnej cz´Êci aktywów funduszu z przyczyn niezale˝nych od funduszu.
+- **1)** wokresie ostatnich 2 tygodni suma wartości odkupionych przez fundusz jednostek uczestnictwa oraz jednostek, których odkupienia zażądano, stanowi kwotę przekraczającą 10 % wartości aktywów funduszu albo
+- **2)** nie można dokonać wiarygodnej wyceny istotnej części aktywów funduszu z przyczyn niezależnych od funduszu.
 
-5. W przypadkach, o których mowa w ust. 4, za zgodà i na warunkach okreÊlonych przez Komisj´:
+5. W przypadkach, o których mowa w ust. 4, za zgodą i na warunkach określonych przez Komisję:
 
-- **1)** odkupywanie jednostek uczestnictwa mo˝e zostaç zawieszone na okres d∏u˝szy ni˝ 2 tygodnie, nieprzekraczajàcy jednak 2 miesi´cy;
-- **2)** fundusz mo˝e odkupywaç jednostki uczestnictwa wratach wokresie nieprzekraczajàcym 6 miesi´cy, przy zastosowaniu proporcjonalnej redukcji lub przy dokonywaniu wyp∏at z tytu∏u odkupienia jednostek uczestnictwa.
+- **1)** odkupywanie jednostek uczestnictwa może zostać zawieszone na okres dłuższy niż 2 tygodnie, nieprzekraczający jednak 2 miesięcy;
+- **2)** fundusz może odkupywać jednostki uczestnictwa wratach wokresie nieprzekraczającym 6 miesięcy, przy zastosowaniu proporcjonalnej redukcji lub przy dokonywaniu wypłat z tytułu odkupienia jednostek uczestnictwa.
 
-6. Wprzypadku zawieszenia zbywania lub odkupywania jednostek uczestnictwa funduszu inwestycyjnego otwartego z siedzibà na terytorium Rzeczypospolitej Polskiej, które sà zbywane lub odkupywane równie˝ na obszarze paƒstw cz∏onkowskich, fundusz ten jest obowiàzany poinformowaç o tym fakcie Komisj´, a tak˝e w∏aÊciwe organy tych paƒstw.
+6. Wprzypadku zawieszenia zbywania lub odkupywania jednostek uczestnictwa funduszu inwestycyjnego otwartego z siedzibą na terytorium Rzeczypospolitej Polskiej, które są zbywane lub odkupywane również na obszarze państw członkowskich, fundusz ten jest obowiązany poinformować o tym fakcie Komisję, a także właściwe organy tych państw.
 
-7. Komisja zawiadamia w∏aÊciwe organy paƒstwa cz∏onkowskiego, na którego terytorium fundusz inwestycyjny otwarty zbywa jednostki uczestnictwa, o zawieszeniu zbywania lub odkupywania jednostek uczestnictwa.
+7. Komisja zawiadamia właściwe organy państwa członkowskiego, na którego terytorium fundusz inwestycyjny otwarty zbywa jednostki uczestnictwa, o zawieszeniu zbywania lub odkupywania jednostek uczestnictwa.
 
 **Art. 90.**
 
-1. Statut okreÊla terminy, w jakich najpóêniej nastàpi:
+1. Statut określa terminy, w jakich najpóêniej nastąpi:
 
-- **1)** zbycie przez fundusz jednostek uczestnictwa po dokonaniu wp∏aty na te jednostki;
-- **2)** odkupienie przez fundusz jednostek uczestnictwa po zg∏oszeniu ˝àdania ich odkupienia. jednostki uczestnictwa.
+- **1)** zbycie przez fundusz jednostek uczestnictwa po dokonaniu wpłaty na te jednostki;
+- **2)** odkupienie przez fundusz jednostek uczestnictwa po zgłoszeniu żądania ich odkupienia. jednostki uczestnictwa.
 
-2. Terminy, októrych mowa wust. 1, nie mogà byç d∏u˝sze ni˝ 7 dni.
+2. Terminy, októrych mowa wust. 1, nie mogą być dłuższe niż 7 dni.
 
 **Art. 91.**
 
-1. Fundusz inwestycyjny otwarty sporzàdza i niezw∏ocznie dor´cza uczestnikowi funduszu pisemne potwierdzenia zbycia lub odkupienia jednostek uczestnictwa, chyba ˝e uczestnik wyrazi∏ pisemnà zgod´ na dor´czanie tych potwierdzeƒ w innych terminach lub na ich osobisty odbiór.
+1. Fundusz inwestycyjny otwarty sporządza i niezwłocznie doręcza uczestnikowi funduszu pisemne potwierdzenia zbycia lub odkupienia jednostek uczestnictwa, chyba że uczestnik wyraził pisemną zgodę na doręczanie tych potwierdzeń w innych terminach lub na ich osobisty odbiór.
 
-2. Potwierdzenie, októrym mowa wust. 1, powinno zawieraç:
+2. Potwierdzenie, októrym mowa wust. 1, powinno zawierać:
 
-- **1)** dane identyfikujàce uczestnika funduszu;
-- **2)** nazw´ funduszu;
-- **3)** dat´ zbycia lub odkupienia jednostek uczestnictwa;
-- **4)** liczb´ zbytych lub odkupionych jednostek uczestnictwa i ich wartoÊç;
-- **5)** liczb´ jednostek uczestnictwa posiadanych przez uczestnika po zbyciu lub odkupieniu jednostek uczestnictwa.
+- **1)** dane identyfikujące uczestnika funduszu;
+- **2)** nazwę funduszu;
+- **3)** datę zbycia lub odkupienia jednostek uczestnictwa;
+- **4)** liczbę zbytych lub odkupionych jednostek uczestnictwa i ich wartość;
+- **5)** liczbę jednostek uczestnictwa posiadanych przez uczestnika po zbyciu lub odkupieniu jednostek uczestnictwa.
 
 **Art. 92.**
 
-1. WartoÊç aktywów netto funduszu inwestycyjnego otwartego nie mo˝e byç ni˝sza ni˝ 2 000 000 z∏.
+1. Wartość aktywów netto funduszu inwestycyjnego otwartego nie może być niższa niż 2 000 000 zł.
 
-2. O ka˝dym przypadku zmniejszenia wartoÊci aktywów netto funduszu inwestycyjnego otwartego poni˝ej poziomu 2 500 000 z∏ fundusz og∏asza niezw∏ocznie w sposób okreÊlony w statucie.
+2. O każdym przypadku zmniejszenia wartości aktywów netto funduszu inwestycyjnego otwartego poniżej poziomu 2 500 000 zł fundusz ogłasza niezwłocznie w sposób określony w statucie.
 
-3. Wog∏oszeniu, októrym mowa wust. 2, fundusz okreÊla:
+3. Wogłoszeniu, októrym mowa wust. 2, fundusz określa:
 
-- **1)** przyczyny zmniejszenia wartoÊci aktywów netto funduszu inwestycyjnego poni˝ej poziomu, o którym mowa w ust. 2;
-- **2)** rodzaj dzia∏aƒ, jakie fundusz podejmie w celu zwi´kszenia wartoÊci aktywów netto funduszu.
+- **1)** przyczyny zmniejszenia wartości aktywów netto funduszu inwestycyjnego poniżej poziomu, o którym mowa w ust. 2;
+- **2)** rodzaj działań, jakie fundusz podejmie w celu zwiększenia wartości aktywów netto funduszu.
 
 **Art. 93.**
 
-1. Fundusz inwestycyjny otwarty, zzastrze˝eniem ust. 2, art. 94 oraz art. 101, mo˝e lokowaç aktywa funduszu wy∏àcznie w:
+1. Fundusz inwestycyjny otwarty, zzastrzeżeniem ust. 2, art. 94 oraz art. 101, może lokować aktywa funduszu wyłącznie w:
 
-- **1)** papiery wartoÊciowe emitowane, por´czone lub gwarantowane przez Skarb Paƒstwa lub Narodowy Bank Polski, papiery wartoÊciowe i instrumenty rynku pieni´˝nego dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub w paƒstwie cz∏onkowskim, a tak˝e na rynku zorganizowanym w paƒstwie nale˝àcym do OECD innym ni˝ Rzeczpospolita Polska i paƒstwo cz∏onkowskie, pod warunkiem ˝e statut funduszu wskazuje ten rynek;
-- **2)** papiery wartoÊciowe i instrumenty rynku pieni´˝nego dopuszczone do obrotu publicznego nabywane wobrocie pierwotnym lub wpierwszej ofercie publicznej, je˝eli warunki emisji lub pierwszej oferty publicznej zak∏adajà z∏o˝enie wniosku odopuszczenie do obrotu, o którym mowa w pkt 1, oraz gdy dopuszczenie do tego obrotu jest zapewnione w okresie nie d∏u˝szym ni˝ rok od dnia, tych papierów lub instrumentów, pod warunkiem ˝e statut funduszu przewiduje dokonywanie takich lokat;
-- **3)** depozyty w bankach krajowych lub instytucjach kredytowych, o terminie zapadalnoÊci nie d∏u˝szym ni˝ rok, p∏atne na ˝àdanie lub które mo˝na wycofaç przed terminem zapadalnoÊci, z zastrze˝eniem ust. 3;
-- **4)** instrumenty rynku pieni´˝nego inne ni˝ okreÊlone w pkt 1 i 2, je˝eli instrumenty te lub ich emitent podlegajà regulacjom majàcym na celu ochron´ inwestorów i oszcz´dnoÊci oraz sà:
-    - **a)** emitowane, por´czone lub gwarantowane przez Skarb Paƒstwa, Narodowy Bank Polski, jednostk´ samorzàdu terytorialnego, w∏aÊciwe centralne, regionalne lub lokalne w∏adze publiczne paƒstwa cz∏onkowskiego, albo przez bank centralny paƒstwa cz∏onkowskiego, Europejski Bank Centralny, Uni´ Europejskà lub Europejski Bank Inwestycyjny, paƒstwo inne ni˝ paƒstwo cz∏onkowskie, alw którym po raz pierwszy nastàpi zaoferowanie bo, wprzypadku paƒstwa federalnego, przez jednego zcz∏onków federacji, albo przez organizacj´ mi´dzynarodowà, do której nale˝y co najmniej jedno paƒstwo cz∏onkowskie, lub
-    - **b)** emitowane, por´czone lub gwarantowane przez podmiot podlegajàcy nadzorowi w∏aÊciwego organu nadzoru nad rynkiem finansowym, zgodnie z kryteriami okreÊlonymi prawem wspólnotowym, albo przez podmiot podlegajàcy istosujàcy si´ do zasad, które sà co najmniej tak rygorystyczne, jak okreÊlone prawem wspólnotowym, lub
-    - **c)** emitowane przez podmiot, którego papiery wartoÊciowe sà w obrocie na rynku regulowanym, o którym mowa w pkt 1, lub
-    - **d)** emitowane przez inne podmioty okreÊlone w statucie funduszu, pod warunkiem ˝e inwestycje w takie papiery wartoÊciowe podlegajà ochronie inwestora równowa˝nej do okreÊlonej wlit. a—coraz emitent spe∏nia ∏àcznie nast´pujàce warunki: jest spó∏kà, której kapita∏ w∏asny wynosi co najmniej 10 000 000 euro, publikuje roczne sprawozdania finansowe, zgodnie zprzepisami prawa wspólnotowego, dotyczàce rocznych sprawozdaƒ finansowych niektórych rodzajów spó∏ek, nale˝y do grupy kapita∏owej, w sk∏ad której wchodzi co najmniej jedna spó∏ka, której papiery wartoÊciowe sà przedmiotem obrotu na rynku regulowanym, zajmuje si´ finansowaniem grupy, o której mowa w tiret trzecie, albo finansowaniem mechanizmów przekszta∏cania d∏ugu w papiery wartoÊciowe z wykorzystaniem bankowej linii kredytowej;
+- **1)** papiery wartościowe emitowane, poręczone lub gwarantowane przez Skarb Państwa lub Narodowy Bank Polski, papiery wartościowe i instrumenty rynku pieniężnego dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub w państwie członkowskim, a także na rynku zorganizowanym w państwie należącym do OECD innym niż Rzeczpospolita Polska i państwo członkowskie, pod warunkiem że statut funduszu wskazuje ten rynek;
+- **2)** papiery wartościowe i instrumenty rynku pieniężnego dopuszczone do obrotu publicznego nabywane wobrocie pierwotnym lub wpierwszej ofercie publicznej, jeżeli warunki emisji lub pierwszej oferty publicznej zakładają złożenie wniosku odopuszczenie do obrotu, o którym mowa w pkt 1, oraz gdy dopuszczenie do tego obrotu jest zapewnione w okresie nie dłuższym niż rok od dnia, tych papierów lub instrumentów, pod warunkiem że statut funduszu przewiduje dokonywanie takich lokat;
+- **3)** depozyty w bankach krajowych lub instytucjach kredytowych, o terminie zapadalności nie dłuższym niż rok, płatne na żądanie lub które można wycofać przed terminem zapadalności, z zastrzeżeniem ust. 3;
+- **4)** instrumenty rynku pieniężnego inne niż określone w pkt 1 i 2, jeżeli instrumenty te lub ich emitent podlegają regulacjom mającym na celu ochronę inwestorów i oszczędności oraz są:
+    - **a)** emitowane, poręczone lub gwarantowane przez Skarb Państwa, Narodowy Bank Polski, jednostkę samorządu terytorialnego, właściwe centralne, regionalne lub lokalne władze publiczne państwa członkowskiego, albo przez bank centralny państwa członkowskiego, Europejski Bank Centralny, Unię Europejską lub Europejski Bank Inwestycyjny, państwo inne niż państwo członkowskie, alw którym po raz pierwszy nastąpi zaoferowanie bo, wprzypadku państwa federalnego, przez jednego zczłonków federacji, albo przez organizację międzynarodową, do której należy co najmniej jedno państwo członkowskie, lub
+    - **b)** emitowane, poręczone lub gwarantowane przez podmiot podlegający nadzorowi właściwego organu nadzoru nad rynkiem finansowym, zgodnie z kryteriami określonymi prawem wspólnotowym, albo przez podmiot podlegający istosujący się do zasad, które są co najmniej tak rygorystyczne, jak określone prawem wspólnotowym, lub
+    - **c)** emitowane przez podmiot, którego papiery wartościowe są w obrocie na rynku regulowanym, o którym mowa w pkt 1, lub
+    - **d)** emitowane przez inne podmioty określone w statucie funduszu, pod warunkiem że inwestycje w takie papiery wartościowe podlegają ochronie inwestora równoważnej do określonej wlit. a—coraz emitent spełnia łącznie następujące warunki: jest spółką, której kapitał własny wynosi co najmniej 10 000 000 euro, publikuje roczne sprawozdania finansowe, zgodnie zprzepisami prawa wspólnotowego, dotyczące rocznych sprawozdań finansowych niektórych rodzajów spółek, należy do grupy kapitałowej, w skład której wchodzi co najmniej jedna spółka, której papiery wartościowe są przedmiotem obrotu na rynku regulowanym, zajmuje się finansowaniem grupy, o której mowa w tiret trzecie, albo finansowaniem mechanizmów przekształcania długu w papiery wartościowe z wykorzystaniem bankowej linii kredytowej;
 
-- **5)** papiery wartoÊciowe i instrumenty rynku pieni´˝nego, inne ni˝ okreÊlone w pkt 1, 2 i 4, z tym ˝e ∏àczna wartoÊç tych lokat nie mo˝e przewy˝szyç 10% wartoÊci aktywów funduszu.
+- **5)** papiery wartościowe i instrumenty rynku pieniężnego, inne niż określone w pkt 1, 2 i 4, z tym że łączna wartość tych lokat nie może przewyższyć 10% wartości aktywów funduszu.
 
-2. Lokowanie w papiery wartoÊciowe lub instrumenty rynku pieni´˝nego b´dàce przedmiotem obrotu na rynku zorganizowanym, oraz w papiery wartoÊciowe i instrumenty rynku pieni´˝nego, których dopuszczenie do takiego obrotu jest zapewnione, wpaƒstwie innym ni˝ Rzeczpospolita Polska lub paƒstwo nale˝àce do OECD, wymaga uzyskania zgody Komisji na dokonywanie lokat na okreÊlonej gie∏dzie lub rynku.
+2. Lokowanie w papiery wartościowe lub instrumenty rynku pieniężnego będące przedmiotem obrotu na rynku zorganizowanym, oraz w papiery wartościowe i instrumenty rynku pieniężnego, których dopuszczenie do takiego obrotu jest zapewnione, wpaństwie innym niż Rzeczpospolita Polska lub państwo należące do OECD, wymaga uzyskania zgody Komisji na dokonywanie lokat na określonej giełdzie lub rynku.
 
-3. Komisja mo˝e udzieliç zgody na lokowanie aktywów funduszu w depozyty w bankach zagranicznych pod warunkiem, ˝e bank ten podlega nadzorowi w∏aÊciwego organu nadzoru nad rynkiem finansowym w zakresie co najmniej takim, jak okreÊlony w prawie wspólnotowym.
+3. Komisja może udzielić zgody na lokowanie aktywów funduszu w depozyty w bankach zagranicznych pod warunkiem, że bank ten podlega nadzorowi właściwego organu nadzoru nad rynkiem finansowym w zakresie co najmniej takim, jak określony w prawie wspólnotowym.
 
 **Art. 94.**
 
-1. Fundusz inwestycyjny otwarty mo˝e zawieraç umowy majàce za przedmiot instrumenty pochodne, pod warunkiem ˝e:
+1. Fundusz inwestycyjny otwarty może zawierać umowy mające za przedmiot instrumenty pochodne, pod warunkiem że:
 
-- **1)** takie instrumenty pochodne sà przedmiotem obrotu na rynku regulowanym wRzeczypospolitej Polskiej lub paƒstwie cz∏onkowskim lub na rynku zorganizowanym okreÊlonym w statucie funduszu, z zastrze˝eniem ust. 2, oraz
-- **2)** umowa ma na celu zapewnienie sprawnego zarzàdzania portfelem inwestycyjnym funduszu lub ograniczenie ryzyka inwestycyjnego zwiàzanego ze zmianà:
-    - **a)** kursów, cen lub wartoÊci papierów wartoÊciowych iinstrumentów rynku pieni´˝nego, posiadanych przez fundusz, albo papierów wartoÊciowych i instrumentów rynku pieni´˝nego, które fundusz zamierza nabyç w przysz∏oÊci,
-    - **b)** kursów walut w zwiàzku z lokatami funduszu,
-    - **c)** wysokoÊci stóp procentowych wzwiàzku zlokatami w depozyty, d∏u˝ne papiery wartoÊciowe iinstrumenty rynku pieni´˝nego oraz aktywami utrzymywanymi na zaspokojenie bie˝àcych zobowiàzaƒ funduszu;
+- **1)** takie instrumenty pochodne są przedmiotem obrotu na rynku regulowanym wRzeczypospolitej Polskiej lub państwie członkowskim lub na rynku zorganizowanym określonym w statucie funduszu, z zastrzeżeniem ust. 2, oraz
+- **2)** umowa ma na celu zapewnienie sprawnego zarządzania portfelem inwestycyjnym funduszu lub ograniczenie ryzyka inwestycyjnego związanego ze zmianą:
+    - **a)** kursów, cen lub wartości papierów wartościowych iinstrumentów rynku pieniężnego, posiadanych przez fundusz, albo papierów wartościowych i instrumentów rynku pieniężnego, które fundusz zamierza nabyć w przyszłości,
+    - **b)** kursów walut w związku z lokatami funduszu,
+    - **c)** wysokości stóp procentowych wzwiązku zlokatami w depozyty, dłużne papiery wartościowe iinstrumenty rynku pieniężnego oraz aktywami utrzymywanymi na zaspokojenie bieżących zobowiązań funduszu;
 
-- **3)** zawarcie umowy b´dzie zgodne z celem inwestycyjnym funduszu okreÊlonym w statucie funduszu.
+- **3)** zawarcie umowy będzie zgodne z celem inwestycyjnym funduszu określonym w statucie funduszu.
 
-2. Fundusz inwestycyjny otwarty mo˝e zawieraç umowy majàce za przedmiot niewystandaryzowane instrumenty pochodne.
+2. Fundusz inwestycyjny otwarty może zawierać umowy mające za przedmiot niewystandaryzowane instrumenty pochodne.
 
-3. Fundusz inwestycyjny otwarty, który zamierza zawieraç umowy majàce za przedmiot instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, w celu zapewnienia sprawnego zarzàdzania portfelem inwestycyjnym funduszu, jest obowiàzany okreÊliç w statucie rodzaje instrumentów pochodnych, kryteria wyboru tych instrumentów oraz
+3. Fundusz inwestycyjny otwarty, który zamierza zawierać umowy mające za przedmiot instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, w celu zapewnienia sprawnego zarządzania portfelem inwestycyjnym funduszu, jest obowiązany określić w statucie rodzaje instrumentów pochodnych, kryteria wyboru tych instrumentów oraz
 
-4. Przy stosowaniu limitów inwestycyjnych, o których mowa w art. 96—100, fundusz inwestycyjny otwarty jest obowiàzany uwzgl´dniaç wartoÊç papierów wartoÊciowych lub instrumentów rynku pieni´˝nego stanowiàcych baz´ instrumentów pochodnych.
+4. Przy stosowaniu limitów inwestycyjnych, o których mowa w art. 96—100, fundusz inwestycyjny otwarty jest obowiązany uwzględniać wartość papierów wartościowych lub instrumentów rynku pieniężnego stanowiących bazę instrumentów pochodnych.
 
-5. Przepisu ust. 4 nie stosuje si´ w przypadku instrumentów pochodnych, których baz´ stanowià uznane indeksy.
+5. Przepisu ust. 4 nie stosuje się w przypadku instrumentów pochodnych, których bazę stanowią uznane indeksy.
 
-6. Je˝eli papier wartoÊciowy lub instrument rynku pieni´˝nego zawiera wbudowany instrument pochodny, wartoÊç instrumentu uwzgl´dnia si´ przy stosowaniu przez fundusz limitów inwestycyjnych.
+6. Jeżeli papier wartościowy lub instrument rynku pieniężnego zawiera wbudowany instrument pochodny, wartość instrumentu uwzględnia się przy stosowaniu przez fundusz limitów inwestycyjnych.
 
-7. Minister w∏aÊciwy do spraw instytucji finansowych okreÊli, w drodze rozporzàdzenia:
+7. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
-- **1)** warunki zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem sà instrumenty pochodne,
-- **2)** sposób zarzàdzania ryzykiem inwestycyjnym zwiàwarunków ich zastosowania. zanym z instrumentami pochodnymi,
-- **3)** warunki, jakie powinny spe∏niaç niewystandaryzowane instrumenty pochodne oraz podmioty b´dàce stronà umowy z funduszem,
+- **1)** warunki zawierania przez fundusz inwestycyjny otwarty umów, których przedmiotem są instrumenty pochodne,
+- **2)** sposób zarządzania ryzykiem inwestycyjnym zwiąwarunków ich zastosowania. zanym z instrumentami pochodnymi,
+- **3)** warunki, jakie powinny spełniać niewystandaryzowane instrumenty pochodne oraz podmioty będące stroną umowy z funduszem,
 - **4)** warunki i zasady zajmowania przez fundusz pozycji w instrumentach pochodnych,
-- **5)** sposób ustalenia oraz maksymalnà wartoÊç ryzyka kontrahenta wynikajàcà z transakcji niewystandaryzowanymi instrumentami pochodnymi,
-- **6)** sposób wyznaczenia maksymalnego zaanga˝owania funduszu w instrumenty pochodne,
-- **7)** rodzaje ryzyk zwiàzanych zinstrumentami pochodnymi, w tym niewystandaryzowanymi instrumentami pochodnymi, podlegajàce pomiarowi,
-- **8)** warunki, jakie muszà spe∏niaç uznane indeksy w celu zapewnienia ochrony interesów uczestników funduszu inwestycyjnego otwartego.
+- **5)** sposób ustalenia oraz maksymalną wartość ryzyka kontrahenta wynikającą z transakcji niewystandaryzowanymi instrumentami pochodnymi,
+- **6)** sposób wyznaczenia maksymalnego zaangażowania funduszu w instrumenty pochodne,
+- **7)** rodzaje ryzyk związanych zinstrumentami pochodnymi, w tym niewystandaryzowanymi instrumentami pochodnymi, podlegające pomiarowi,
+- **8)** warunki, jakie muszą spełniać uznane indeksy w celu zapewnienia ochrony interesów uczestników funduszu inwestycyjnego otwartego.
 
 **Art. 95.**
 
-1. Fundusz inwestycyjny otwarty, który zawiera umowy majàce za przedmiot instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, jest obowiàzany opracowaç i wdro˝yç szczegó∏owe procedury podejmowania decyzji inwestycyjnych dotyczàcych tych instrumentów oraz procedury umo˝liwiajàce monitorowanie i mierzenie wka˝dym czasie ryzyka zwiàzanego zposzczególnymi instrumentami pochodnymi oraz ryzyka portfela inwestycyjnego funduszu.
+1. Fundusz inwestycyjny otwarty, który zawiera umowy mające za przedmiot instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, jest obowiązany opracować i wdrożyć szczegółowe procedury podejmowania decyzji inwestycyjnych dotyczących tych instrumentów oraz procedury umożliwiające monitorowanie i mierzenie wkażdym czasie ryzyka związanego zposzczególnymi instrumentami pochodnymi oraz ryzyka portfela inwestycyjnego funduszu.
 
 2. Procedury, októrych mowa wust. 1, fundusz inwestycyjny otwarty przekazuje depozytariuszowi.
 
 **Art. 96.**
 
-1. Zzastrze˝eniem art. 97—100, fundusz inwestycyjny otwarty nie mo˝e lokowaç wi´cej ni˝ 5 % wartoÊci swoich aktywów wpapiery wartoÊciowe lub instrumenty rynku pieni´˝nego wyemitowane przez jeden podmiot.
+1. Zzastrzeżeniem art. 97—100, fundusz inwestycyjny otwarty nie może lokować więcej niż 5 % wartości swoich aktywów wpapiery wartościowe lub instrumenty rynku pieniężnego wyemitowane przez jeden podmiot.
 
-2. Fundusz inwestycyjny otwarty nie mo˝e lokowaç wi´cej ni˝ 20 % wartoÊci swoich aktywów w depozyty w tym samym banku krajowym lub tej samej instytucji kredytowej.
+2. Fundusz inwestycyjny otwarty nie może lokować więcej niż 20 % wartości swoich aktywów w depozyty w tym samym banku krajowym lub tej samej instytucji kredytowej.
 
-3. Limit, októrym mowa wust. 1, mo˝e byç zwi´kszony do 10 %, je˝eli ∏àczna wartoÊç lokat w papiery wartoÊciowe i instrumenty rynku pieni´˝nego podmiotów, w których fundusz ulokowa∏ ponad 5 % wartoÊci aktywów, nie przekroczy 40 % wartoÊci aktywów funduszu oraz gdy statut funduszu to przewiduje.
+3. Limit, októrym mowa wust. 1, może być zwiększony do 10 %, jeżeli łączna wartość lokat w papiery wartościowe i instrumenty rynku pieniężnego podmiotów, w których fundusz ulokował ponad 5 % wartości aktywów, nie przekroczy 40 % wartości aktywów funduszu oraz gdy statut funduszu to przewiduje.
 
-4. Przepisów ust. 1 i3 nie stosuje si´ do depozytów itransakcji, których przedmiotem sà niewystandaryzowane instrumenty pochodne, zawieranych z podmiotami podlegajàcymi nadzorowi w∏aÊciwego organu nadzoru nad rynkiem finansowym.
+4. Przepisów ust. 1 i3 nie stosuje się do depozytów itransakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne, zawieranych z podmiotami podlegającymi nadzorowi właściwego organu nadzoru nad rynkiem finansowym.
 
-5. ¸àczna wartoÊç lokat wpapiery wartoÊciowe lub instrumenty rynku pieni´˝nego wyemitowane przez jeden podmiot, depozyty w tym podmiocie oraz wartoÊç ryzyka kontrahenta wynikajàca z transakcji, których przedmiotem sà niewystandaryzowane instrumenty pochodne, zawartych z tym podmiotem, nie mo˝e przekroczyç 20 % wartoÊci aktywów funduszu.
+5. Ęączna wartość lokat wpapiery wartościowe lub instrumenty rynku pieniężnego wyemitowane przez jeden podmiot, depozyty w tym podmiocie oraz wartość ryzyka kontrahenta wynikająca z transakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne, zawartych z tym podmiotem, nie może przekroczyć 20 % wartości aktywów funduszu.
 
 **Art. 97.**
 
-1. Fundusz inwestycyjny otwarty nie mo˝e lokowaç wi´cej ni˝ 25 % wartoÊci aktywów funduszu wlisty zastawne wyemitowane przez jeden bank hipoteczny wrozumieniu ustawy zdnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2003 r. 99, poz. 919).
+1. Fundusz inwestycyjny otwarty nie może lokować więcej niż 25 % wartości aktywów funduszu wlisty zastawne wyemitowane przez jeden bank hipoteczny wrozumieniu ustawy zdnia 29 sierpnia 1997 r. o listach zastawnych i bankach hipotecznych (Dz. U. z 2003 r. 99, poz. 919).
 
-2. Suma lokat w listy zastawne nie mo˝e przekraczaç 80 % wartoÊci aktywów funduszu.
+2. Suma lokat w listy zastawne nie może przekraczać 80 % wartości aktywów funduszu.
 
-3. ¸àczna wartoÊç lokat wpapiery wartoÊciowe lub instrumenty rynku pieni´˝nego wyemitowane przez ten sam bank hipoteczny, depozyty w tym podmiocie oraz wartoÊç ryzyka kontrahenta wynikajàca ztransakcji, których przedmiotem sà niewystandaryzowane instrumenty pochodne, zawartych z tym samym bankiem, nie mo˝e przekroczyç 35 % wartoÊci aktywów funduszu.
+3. Ęączna wartość lokat wpapiery wartościowe lub instrumenty rynku pieniężnego wyemitowane przez ten sam bank hipoteczny, depozyty w tym podmiocie oraz wartość ryzyka kontrahenta wynikająca ztransakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne, zawartych z tym samym bankiem, nie może przekroczyć 35 % wartości aktywów funduszu.
 
-4. Lokat w listy zastawne nie uwzgl´dnia si´ przy ustalaniu limitu, o którym mowa w art. 96 ust. 3.
+4. Lokat w listy zastawne nie uwzględnia się przy ustalaniu limitu, o którym mowa w art. 96 ust. 3.
 
 **Art. 98.**
 
-1. Podmioty nale˝àce do grupy kapita∏owej, dla której jest sporzàdzane skonsolidowane sprawozdanie finansowe, traktuje si´, do celu stosowania limitów inwestycyjnych, jako jeden podmiot.
+1. Podmioty należące do grupy kapitałowej, dla której jest sporządzane skonsolidowane sprawozdanie finansowe, traktuje się, do celu stosowania limitów inwestycyjnych, jako jeden podmiot.
 
-2. Fundusz mo˝e lokowaç do 20 % wartoÊci aktywów ∏àcznie w papiery wartoÊciowe lub instrumenty rynku pieni´˝nego wyemitowane przez podmioty nale˝àce do grupy kapita∏owej, o której mowa w ust. 1, je˝eli statut funduszu tak stanowi.
+2. Fundusz może lokować do 20 % wartości aktywów łącznie w papiery wartościowe lub instrumenty rynku pieniężnego wyemitowane przez podmioty należące do grupy kapitałowej, o której mowa w ust. 1, jeżeli statut funduszu tak stanowi.
 
-3. W przypadku, o którym mowa w ust. 2, fundusz nie mo˝e lokowaç wi´cej ni˝ 5 % wartoÊci aktywów funduszu wpapiery wartoÊciowe lub instrumenty rynku pieni´˝nego wyemitowane przez jeden podmiot nale˝àcy do grupy kapita∏owej, o której mowa
+3. W przypadku, o którym mowa w ust. 2, fundusz nie może lokować więcej niż 5 % wartości aktywów funduszu wpapiery wartościowe lub instrumenty rynku pieniężnego wyemitowane przez jeden podmiot należący do grupy kapitałowej, o której mowa
 
-4. Limit, októrym mowa wust. 3, mo˝e byç zwi´kszony do 10 % wartoÊci aktywów funduszu, je˝eli statut funduszu tak stanowi.
+4. Limit, októrym mowa wust. 3, może być zwiększony do 10 % wartości aktywów funduszu, jeżeli statut funduszu tak stanowi.
 
-5. ¸àczna wartoÊç lokat funduszu wpapiery wartoÊciowe i instrumenty rynku pieni´˝nego, w których fundusz ulokowa∏ ponad 5 % wartoÊci aktywów funduszu, nie wi´cej jednak ni˝ 10 %, wyemitowane przez podmioty nale˝àce do grupy kapita∏owej, o której mowa wust. 1, oraz inne podmioty, nie mo˝e przekroczyç 40 % wartoÊci aktywów funduszu.
+5. Ęączna wartość lokat funduszu wpapiery wartościowe i instrumenty rynku pieniężnego, w których fundusz ulokował ponad 5 % wartości aktywów funduszu, nie więcej jednak niż 10 %, wyemitowane przez podmioty należące do grupy kapitałowej, o której mowa wust. 1, oraz inne podmioty, nie może przekroczyć 40 % wartości aktywów funduszu.
 
 **Art. 99.**
 
-1. Fundusz inwestycyjny otwarty mo˝e lokowaç do 20 % wartoÊci aktywów w akcje lub d∏u˝ne papiery wartoÊciowe wyemitowane przez ten sam podmiot, je˝eli, zgodnie z politykà inwestycyjnà okreÊlonà w statucie, fundusz b´dzie odzwierciedla∏ sk∏ad uznanego indeksu akcji lub d∏u˝nych papierów wartoÊciowych.
+1. Fundusz inwestycyjny otwarty może lokować do 20 % wartości aktywów w akcje lub dłużne papiery wartościowe wyemitowane przez ten sam podmiot, jeżeli, zgodnie z polityką inwestycyjną określoną w statucie, fundusz będzie odzwierciedlał skład uznanego indeksu akcji lub dłużnych papierów wartościowych.
 
-2. Fundusz mo˝e zwi´kszyç limit, o którym mowa w ust. 1, do 35 % wartoÊci aktywów funduszu, gdy udzia∏ akcji jednego emitenta w indeksie wzroÊnie, je˝eli statut funduszu tak stanowi. Limit ten mo˝e dotyczyç akcji lub d∏u˝nych papierów wartoÊciowych wy∏àcznie jednego emitenta.
+2. Fundusz może zwiększyć limit, o którym mowa w ust. 1, do 35 % wartości aktywów funduszu, gdy udział akcji jednego emitenta w indeksie wzrośnie, jeżeli statut funduszu tak stanowi. Limit ten może dotyczyć akcji lub dłużnych papierów wartościowych wyłącznie jednego emitenta.
 
 **Art. 100.**
 
-1. Fundusz inwestycyjny otwarty mo˝e lokowaç do 35 % wartoÊci aktywów funduszu w papiery wartoÊciowe emitowane przez Skarb Paƒstwa, Narodowy Bank Polski, jednostk´ samorzàdu terytorialnego, paƒstwo cz∏onkowskie, jednostk´ samorzàdu terytorialnego paƒstwa cz∏onkowskiego, paƒstwo nale˝àce do OECD lub mi´dzynarodowà instytucj´ finansowà, której cz∏onkiem jest Rzeczpospolita Polska lub co najmniej jedno paƒstwo cz∏onkowskie.
+1. Fundusz inwestycyjny otwarty może lokować do 35 % wartości aktywów funduszu w papiery wartościowe emitowane przez Skarb Państwa, Narodowy Bank Polski, jednostkę samorządu terytorialnego, państwo członkowskie, jednostkę samorządu terytorialnego państwa członkowskiego, państwo należące do OECD lub międzynarodową instytucję finansową, której członkiem jest Rzeczpospolita Polska lub co najmniej jedno państwo członkowskie.
 
-2. Fundusz inwestycyjny otwarty mo˝e lokowaç do 35 % wartoÊci aktywów funduszu w papiery wartoÊciowe por´czone lub gwarantowane przez podmioty, októrych mowa wust. 1, przy czym ∏àczna wartoÊç lokat wpapiery wartoÊciowe lub instrumenty rynku pieni´˝nego wyemitowane przez podmiot, którego papiery wartoÊciowe sà por´czane lub gwarantowane, depozytów wtym podmiocie oraz wartoÊç ryzyka kontraw ust. 1. henta wynikajàca ztransakcji, których przedmiotem sà niewystandaryzowane instrumenty pochodne, zawartych z tym podmiotem, nie mo˝e przekroczyç 35 % wartoÊci aktywów funduszu.
+2. Fundusz inwestycyjny otwarty może lokować do 35 % wartości aktywów funduszu w papiery wartościowe poręczone lub gwarantowane przez podmioty, októrych mowa wust. 1, przy czym łączna wartość lokat wpapiery wartościowe lub instrumenty rynku pieniężnego wyemitowane przez podmiot, którego papiery wartościowe są poręczane lub gwarantowane, depozytów wtym podmiocie oraz wartość ryzyka kontraw ust. 1. henta wynikająca ztransakcji, których przedmiotem są niewystandaryzowane instrumenty pochodne, zawartych z tym podmiotem, nie może przekroczyć 35 % wartości aktywów funduszu.
 
-3. Fundusz inwestycyjny otwarty mo˝e nie stosowaç ograniczeƒ, októrych mowa wust. 1 i2, je˝eli statut tak stanowi oraz wskazuje emitenta, por´czyciela lub gwaranta.
+3. Fundusz inwestycyjny otwarty może nie stosować ograniczeń, októrych mowa wust. 1 i2, jeżeli statut tak stanowi oraz wskazuje emitenta, poręczyciela lub gwaranta.
 
-4. W przypadku, o którym mowa w ust. 3, fundusz inwestycyjny otwarty jest obowiàzany dokonywaç lokat w papiery wartoÊciowe co najmniej szeÊciu ró˝nych emisji jednego emitenta, ztym ˝e wartoÊç lokaty w papiery ˝adnej z tych emisji nie mo˝e przewy˝szaç 30 % wartoÊci aktywów funduszu.
+4. W przypadku, o którym mowa w ust. 3, fundusz inwestycyjny otwarty jest obowiązany dokonywać lokat w papiery wartościowe co najmniej sześciu różnych emisji jednego emitenta, ztym że wartość lokaty w papiery żadnej z tych emisji nie może przewyższać 30 % wartości aktywów funduszu.
 
 **Art. 101.**
 
-1. Fundusz inwestycyjny otwarty mo˝e nabywaç:
+1. Fundusz inwestycyjny otwarty może nabywać:
 
-- **1)** jednostki uczestnictwa innych funduszy inwestycyjnych otwartych majàcych siedzib´ na terytorium Rzeczypospolitej Polskiej;
-- **2)** tytu∏y uczestnictwa emitowane przez fundusze zagraniczne;
-- **3)** tytu∏y uczestnictwa emitowane przez instytucje wspólnego inwestowania majàce siedzib´ za granicà, je˝eli:
-    - **a)** instytucje te oferujà publicznie tytu∏y uczestnictwa i umarzajà je na ˝àdanie uczestnika,
-    - **b)** instytucje te podlegajà nadzorowi w∏aÊciwego organu nadzoru nad rynkiem finansowym lub kapita∏owym paƒstwa cz∏onkowskiego lub paƒstwa nale˝àcego do OECD oraz zapewniona jest, na zasadzie wzajemnoÊci, wspó∏praca Komisji z tym organem,
-    - **c)** ochrona posiadaczy tytu∏ów uczestnictwa tych instytucji jest taka sama jak posiadaczy jednostek uczestnictwa funduszy inwestycyjnych otwartych, wszczególnoÊci instytucje te stosujà ograniczenia inwestycyjne co najmniej takie, jak okreÊlone w niniejszym rozdziale,
-    - **d)** instytucje te sà obowiàzane do sporzàdzania rocznych i pó∏rocznych sprawozdaƒ finansowych pod warunkiem ˝e nie wi´cej ni˝ 10 % wartoÊci aktywów tych funduszy inwestycyjnych otwartych, funduszy zagranicznych lub instytucji mo˝e byç, zgodnie z ich statutem lub regulaminem, zainwestowana ∏àcznie w jednostki uczestnictwa innych funduszy inwestycyjnych otwartych oraz tytu∏y uczestnictwa innych funduszy zagranicznych i instytucji wspólnego inwestowania.
+- **1)** jednostki uczestnictwa innych funduszy inwestycyjnych otwartych mających siedzibę na terytorium Rzeczypospolitej Polskiej;
+- **2)** tytuły uczestnictwa emitowane przez fundusze zagraniczne;
+- **3)** tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania mające siedzibę za granicą, jeżeli:
+    - **a)** instytucje te oferują publicznie tytuły uczestnictwa i umarzają je na żądanie uczestnika,
+    - **b)** instytucje te podlegają nadzorowi właściwego organu nadzoru nad rynkiem finansowym lub kapitałowym państwa członkowskiego lub państwa należącego do OECD oraz zapewniona jest, na zasadzie wzajemności, współpraca Komisji z tym organem,
+    - **c)** ochrona posiadaczy tytułów uczestnictwa tych instytucji jest taka sama jak posiadaczy jednostek uczestnictwa funduszy inwestycyjnych otwartych, wszczególności instytucje te stosują ograniczenia inwestycyjne co najmniej takie, jak określone w niniejszym rozdziale,
+    - **d)** instytucje te są obowiązane do sporządzania rocznych i półrocznych sprawozdań finansowych pod warunkiem że nie więcej niż 10 % wartości aktywów tych funduszy inwestycyjnych otwartych, funduszy zagranicznych lub instytucji może być, zgodnie z ich statutem lub regulaminem, zainwestowana łącznie w jednostki uczestnictwa innych funduszy inwestycyjnych otwartych oraz tytuły uczestnictwa innych funduszy zagranicznych i instytucji wspólnego inwestowania.
 
-2. Fundusz inwestycyjny otwarty nie mo˝e lokowaç wi´cej ni˝ 20 % wartoÊci swoich aktywów w jednostki uczestnictwa jednego funduszu inwestycyjnego otwartego lub tytu∏ów uczestnictwa funduszu zagranicznego lub instytucji wspólnego inwestowania, o której mowa w ust. 1.
+2. Fundusz inwestycyjny otwarty nie może lokować więcej niż 20 % wartości swoich aktywów w jednostki uczestnictwa jednego funduszu inwestycyjnego otwartego lub tytułów uczestnictwa funduszu zagranicznego lub instytucji wspólnego inwestowania, o której mowa w ust. 1.
 
-3. ¸àczna wartoÊç lokat w tytu∏y uczestnictwa inwart. 89 ust. 1aprawa opublicznym obrocie papierami wartoÊciowymi, pod warunkiem ˝e:
+3. Ęączna wartość lokat w tytuły uczestnictwa inwart. 89 ust. 1aprawa opublicznym obrocie papierami wartościowymi, pod warunkiem że:
 
-- **1)** fundusz otrzyma zabezpieczenie w Êrodkach pieni´˝nych lub papierach wartoÊciowych, w które fundusz mo˝e lokowaç zgodnie zpolitykà inwestycyjnà okreÊlonà w statucie;
-- **2)** wartoÊç zabezpieczenia b´dzie co najmniej równa wartoÊci po˝yczonych papierów wartoÊciowych w ka˝dym dniu wyceny aktywów funduszu do dnia zwrotu po˝yczonych papierów wartoÊciowych;
-- **3)** po˝yczka zostanie udzielona na okres nie d∏u˝szy ni˝ 6 miesi´cy.
+- **1)** fundusz otrzyma zabezpieczenie w środkach pieniężnych lub papierach wartościowych, w które fundusz może lokować zgodnie zpolityką inwestycyjną określoną w statucie;
+- **2)** wartość zabezpieczenia będzie co najmniej równa wartości pożyczonych papierów wartościowych w każdym dniu wyceny aktywów funduszu do dnia zwrotu pożyczonych papierów wartościowych;
+- **3)** pożyczka zostanie udzielona na okres nie dłuższy niż 6 miesięcy.
 
-2. ¸àczna wartoÊç po˝yczonych papierów wartoÊciowych nie mo˝e przekroczyç 30 % wartoÊci aktywów netto funduszu.
+2. Ęączna wartość pożyczonych papierów wartościowych nie może przekroczyć 30 % wartości aktywów netto funduszu.
 
-3. ¸àczna wartoÊç po˝yczonych papierów wartoÊciowych i papierów wartoÊciowych tego samego emitenta b´dàcych w portfelu inwestycyjnym funduszu nie mo˝e przekroczyç limitu, o którym mowa w art. 96 ust. 1 i 3, art. 97 ust. 1, art. 98 ust. 2—4, art. 99 lub art. 100.
+3. Ęączna wartość pożyczonych papierów wartościowych i papierów wartościowych tego samego emitenta będących w portfelu inwestycyjnym funduszu nie może przekroczyć limitu, o którym mowa w art. 96 ust. 1 i 3, art. 97 ust. 1, art. 98 ust. 2—4, art. 99 lub art. 100.
 
-**Art. 103.** Fundusz inwestycyjny mo˝e zawieraç umowy, których przedmiotem sà papiery wartoÊciowe i prawa majàtkowe, z innym funduszem zarzàdzanym przez to samo towarzystwo.
+**Art. 103.** Fundusz inwestycyjny może zawierać umowy, których przedmiotem są papiery wartościowe i prawa majątkowe, z innym funduszem zarządzanym przez to samo towarzystwo.
 
 **Art. 104.**
 
-1. Fundusz inwestycyjny otwarty nie mo˝e nabyç papierów wartoÊciowych dajàcych wi´cej ni˝ 10 % ogólnej liczby g∏osów w którymkolwiek organie emitenta tych papierów.
+1. Fundusz inwestycyjny otwarty nie może nabyć papierów wartościowych dających więcej niż 10 % ogólnej liczby głosów w którymkolwiek organie emitenta tych papierów.
 
-2. Fundusz inwestycyjny otwarty nie mo˝e nabyç wi´cej ni˝ 10 % wyemitowanych przez jeden podmiot akcji, z którymi nie jest zwiàzane prawo g∏osu.
+2. Fundusz inwestycyjny otwarty nie może nabyć więcej niż 10 % wyemitowanych przez jeden podmiot akcji, z którymi nie jest związane prawo głosu.
 
-3. Fundusz inwestycyjny otwarty nie mo˝e nabyç wi´cej ni˝ 25 % ogólnej liczby jednostek uczestnictwa jednego funduszu inwestycyjnego otwartego, funduszu zagranicznego lub tytu∏ów uczestnictwa jednej instytucji wspólnego inwestowania z siedzibà za granistytucji wspólnego inwestowania innych ni˝ jednostki uczestnictwa funduszy inwestycyjnych otwartych lub tytu∏y uczestnictwa funduszy zagranicznych nie mo˝e przewy˝szaç 30 % wartoÊci aktywów funduszu.
+3. Fundusz inwestycyjny otwarty nie może nabyć więcej niż 25 % ogólnej liczby jednostek uczestnictwa jednego funduszu inwestycyjnego otwartego, funduszu zagranicznego lub tytułów uczestnictwa jednej instytucji wspólnego inwestowania z siedzibą za granistytucji wspólnego inwestowania innych niż jednostki uczestnictwa funduszy inwestycyjnych otwartych lub tytuły uczestnictwa funduszy zagranicznych nie może przewyższać 30 % wartości aktywów funduszu.
 
-4. Je˝eli fundusz inwestycyjny otwarty lokuje swoje aktywa w jednostki uczestnictwa lub certyfikaty inwestycyjne innych funduszy inwestycyjnych zarzàdzanych przez to samo towarzystwo lub podmiot z grupy kapita∏owej towarzystwa, towarzystwo nie mo˝e pobieraç wynagrodzenia ani obcià˝aç funduszu kosztami zwiàzanymi z lokowaniem aktywów funduszu w takie jednostki uczestnictwa lub certyfikaty inwestycyjne.
+4. Jeżeli fundusz inwestycyjny otwarty lokuje swoje aktywa w jednostki uczestnictwa lub certyfikaty inwestycyjne innych funduszy inwestycyjnych zarządzanych przez to samo towarzystwo lub podmiot z grupy kapitałowej towarzystwa, towarzystwo nie może pobierać wynagrodzenia ani obciążać funduszu kosztami związanymi z lokowaniem aktywów funduszu w takie jednostki uczestnictwa lub certyfikaty inwestycyjne.
 
 **Art. 102.**
 
-1. Fundusz inwestycyjny otwarty mo˝e udzielaç innym podmiotom po˝yczek, których przedmiotem sà papiery wartoÊciowe dopuszczone do publicznego obrotu wy∏àcznie w trybie okreÊlonym cà oferujàcej publicznie tytu∏y uczestnictwa i umarzajàcej je na ˝àdanie uczestnika.
+1. Fundusz inwestycyjny otwarty może udzielać innym podmiotom pożyczek, których przedmiotem są papiery wartościowe dopuszczone do publicznego obrotu wyłącznie w trybie określonym cą oferującej publicznie tytuły uczestnictwa i umarzającej je na żądanie uczestnika.
 
-4. Fundusz inwestycyjny otwarty nie mo˝e nabyç wi´cej ni˝ 10 % wartoÊci nominalnej instrumentów rynku pieni´˝nego wyemitowanych przez jeden podmiot.
+4. Fundusz inwestycyjny otwarty nie może nabyć więcej niż 10 % wartości nominalnej instrumentów rynku pieniężnego wyemitowanych przez jeden podmiot.
 
-5. Fundusz inwestycyjny otwarty nie mo˝e nabyç wi´cej ni˝ 10 % wartoÊci nominalnej papierów d∏u˝nych wyemitowanych przez jeden podmiot.
+5. Fundusz inwestycyjny otwarty nie może nabyć więcej niż 10 % wartości nominalnej papierów dłużnych wyemitowanych przez jeden podmiot.
 
-6. Limitów, o których mowa w ust. 3—5, fundusz mo˝e nie stosowaç w chwili nabycia papierów wartoÊciowych, instrumentów rynku pieni´˝nego lub tytu∏ów uczestnictwa, je˝eli nie mo˝na ustaliç wartoÊci brutto papierów d∏u˝nych lub instrumentów rynku pieni´˝nego albo wartoÊci netto papierów wartoÊciowych w emisji.
+6. Limitów, o których mowa w ust. 3—5, fundusz może nie stosować w chwili nabycia papierów wartościowych, instrumentów rynku pieniężnego lub tytułów uczestnictwa, jeżeli nie można ustalić wartości brutto papierów dłużnych lub instrumentów rynku pieniężnego albo wartości netto papierów wartościowych w emisji.
 
-7. W przypadku gdy papiery wartoÊciowe nabyte przez fundusze inwestycyjne otwarte zarzàdzane przez to samo towarzystwo dawa∏yby wi´cej ni˝ 10 % ogólnej liczby g∏osów w organach emitenta, fundusze te mogà wykonywaç prawo g∏osu zpapierów wartoÊciowych dajàcych ∏àcznie 10 % ogólnej liczby g∏osów.
+7. W przypadku gdy papiery wartościowe nabyte przez fundusze inwestycyjne otwarte zarządzane przez to samo towarzystwo dawałyby więcej niż 10 % ogólnej liczby głosów w organach emitenta, fundusze te mogą wykonywać prawo głosu zpapierów wartościowych dających łącznie 10 % ogólnej liczby głosów.
 
-**Art. 105.** Fundusz inwestycyjny otwarty, nabywajàc papiery wartoÊciowe w wykonaniu umowy o subemisj´ inwestycyjnà, nie mo˝e naruszyç ograniczeƒ, o których mowa w art. 96—100.
+**Art. 105.** Fundusz inwestycyjny otwarty, nabywając papiery wartościowe w wykonaniu umowy o subemisję inwestycyjną, nie może naruszyć ograniczeń, o których mowa w art. 96—100.
 
 **Art. 106.**
 
-1. CzynnoÊci prawne dokonane znaruszeniem ograniczeƒ okreÊlonych w art. 93 ust. 1 pkt 5, art. 96 ust. 1—3 lub ust. 5, art. 97 ust. 1—3, art. 98, art. 99, art. 100, art. 101 ust. 2 lub ust. 3, art. 102 ust. 2 lub ust. 3, art. 104 ust. 1—5 oraz przepisach wydanych na podstawie art. 94 ust. 7 sà wa˝ne.
+1. Czynności prawne dokonane znaruszeniem ograniczeń określonych w art. 93 ust. 1 pkt 5, art. 96 ust. 1—3 lub ust. 5, art. 97 ust. 1—3, art. 98, art. 99, art. 100, art. 101 ust. 2 lub ust. 3, art. 102 ust. 2 lub ust. 3, art. 104 ust. 1—5 oraz przepisach wydanych na podstawie art. 94 ust. 7 są ważne.
 
-2. Ograniczenia inwestycyjne nie muszà byç zachowane wprzypadku wykonywania przez fundusz inwestycyjny otwarty prawa poboru z papierów wartoÊciowych b´dàcych w portfelu inwestycyjnym funduszu, z zastrze˝eniem ust. 3.
+2. Ograniczenia inwestycyjne nie muszą być zachowane wprzypadku wykonywania przez fundusz inwestycyjny otwarty prawa poboru z papierów wartościowych będących w portfelu inwestycyjnym funduszu, z zastrzeżeniem ust. 3.
 
-3. Fundusz inwestycyjny otwarty jest obowiàzany dostosowaç struktur´ portfela inwestycyjnego do wymagaƒ okreÊlonych w ustawie oraz statucie funduszu w terminie 6 miesi´cy od dnia rejestracji funduszu.
+3. Fundusz inwestycyjny otwarty jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych w ustawie oraz statucie funduszu w terminie 6 miesięcy od dnia rejestracji funduszu.
 
-4. Je˝eli fundusz inwestycyjny otwarty przekroczy ograniczenia okreÊlone w przepisach wymienionych wust. 1, jest obowiàzany do dostosowania, niezw∏ocznie, stanu swoich aktywów do wymagaƒ okreÊlonych w ustawie, uwzgl´dniajàc nale˝ycie interes uczestników funduszu.
+4. Jeżeli fundusz inwestycyjny otwarty przekroczy ograniczenia określone w przepisach wymienionych wust. 1, jest obowiązany do dostosowania, niezwłocznie, stanu swoich aktywów do wymagań określonych w ustawie, uwzględniając należycie interes uczestników funduszu.
 
 **Art. 107.**
 
-1. Fundusz inwestycyjny otwarty nie mo˝e:
+1. Fundusz inwestycyjny otwarty nie może:
 
-- **1)** zobowiàzywaç si´ do przeniesienia praw, które wchwili zawarcia umowy jeszcze nie zosta∏y przez fundusz nabyte, chyba ˝e ma roszczenie onabycie takich praw;
-- **2)** dokonywaç krótkiej sprzeda˝y;
-- **3)** udzielaç po˝yczek, por´czeƒ i gwarancji, z zastrze˝eniem art. 102;
-- **4)** nabywaç papierów wartoÊciowych lub zbywalnych praw majàtkowych, reprezentujàcych prawa do metali szlachetnych.
+- **1)** zobowiązywać się do przeniesienia praw, które wchwili zawarcia umowy jeszcze nie zostały przez fundusz nabyte, chyba że ma roszczenie onabycie takich praw;
+- **2)** dokonywać krótkiej sprzedaży;
+- **3)** udzielać pożyczek, poręczeń i gwarancji, z zastrzeżeniem art. 102;
+- **4)** nabywać papierów wartościowych lub zbywalnych praw majątkowych, reprezentujących prawa do metali szlachetnych.
 
-2. Fundusz inwestycyjny otwarty nie mo˝e:
+2. Fundusz inwestycyjny otwarty nie może:
 
-- **1)** lokowaç aktywów funduszu w papiery wartoÊciowe i wierzytelnoÊci towarzystwa zarzàdzajàcego tym funduszem, jego akcjonariuszy oraz podmiotów b´dàcych podmiotami dominujàcymi lub zale˝nymi wstosunku do tego towarzystwa lub jego akcjonariuszy;
-- **2)** zawieraç umów, których przedmiotem sà papiery wartoÊciowe iwierzytelnoÊci pieni´˝ne, oterminie
-    - **a)** cz∏onkami organów towarzystwa,
+- **1)** lokować aktywów funduszu w papiery wartościowe i wierzytelności towarzystwa zarządzającego tym funduszem, jego akcjonariuszy oraz podmiotów będących podmiotami dominującymi lub zależnymi wstosunku do tego towarzystwa lub jego akcjonariuszy;
+- **2)** zawierać umów, których przedmiotem są papiery wartościowe iwierzytelności pieniężne, oterminie
+    - **a)** członkami organów towarzystwa,
     - **b)** osobami zatrudnionymi w towarzystwie,
-    - **c)** osobami wyznaczonymi przez depozytariusza do wykonywania obowiàzków okreÊlonych w umowie o prowadzenie rejestru aktywów funduszu,
-    - **d)** osobami pozostajàcymi z osobami wymienionymi w lit. a—c w zwiàzku ma∏˝eƒskim,
-    - **e)** osobami, z którymi osoby wymienione w lit. a—c ∏àczy stosunek pokrewieƒstwa lub powinowactwa do drugiego stopnia w∏àcznie;
+    - **c)** osobami wyznaczonymi przez depozytariusza do wykonywania obowiązków określonych w umowie o prowadzenie rejestru aktywów funduszu,
+    - **d)** osobami pozostającymi z osobami wymienionymi w lit. a—c w związku małżeńskim,
+    - **e)** osobami, z którymi osoby wymienione w lit. a—c łączy stosunek pokrewieństwa lub powinowactwa do drugiego stopnia włącznie;
 
-- **3)** zawieraç umów, których przedmiotem sà papiery wartoÊciowe i prawa majàtkowe, z:
+- **3)** zawierać umów, których przedmiotem są papiery wartościowe i prawa majątkowe, z:
     - **a)** towarzystwem,
-    - **b)** depozytariuszem, z zastrze˝eniem ust. 8,
-    - **c)** podmiotami dominujàcymi lub zale˝nymi wstosunku do towarzystwa lub depozytariusza, wymagalnoÊci nie d∏u˝szym ni˝ rok, z:
+    - **b)** depozytariuszem, z zastrzeżeniem ust. 8,
+    - **c)** podmiotami dominującymi lub zależnymi wstosunku do towarzystwa lub depozytariusza, wymagalności nie dłuższym niż rok, z:
     - **d)** akcjonariuszami towarzystwa,
-    - **e)** akcjonariuszami lub wspólnikami podmiotów dominujàcych lub zale˝nych w stosunku do towarzystwa lub depozytariusza.
+    - **e)** akcjonariuszami lub wspólnikami podmiotów dominujących lub zależnych w stosunku do towarzystwa lub depozytariusza.
 
-3. Ograniczeƒ, o których mowa w ust. 2 pkt 1 i 3, nie stosuje si´ do papierów wartoÊciowych emitowanych przez Skarb Paƒstwa lub Narodowy Bank Polski.
+3. Ograniczeń, o których mowa w ust. 2 pkt 1 i 3, nie stosuje się do papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski.
 
-4. Ograniczeƒ, o których mowa w ust. 2 pkt 3 lit. d i e, nie stosuje si´ w przypadku, gdy podmioty, októrych mowa wtym przepisie, sà spó∏kami publicznymi, afundusz zawiera umow´ zakcjonariuszem posiadajàcym mniej ni˝ 5 % ogólnej liczby g∏osów na walnym zgromadzeniu akcjonariuszy.
+4. Ograniczeń, o których mowa w ust. 2 pkt 3 lit. d i e, nie stosuje się w przypadku, gdy podmioty, októrych mowa wtym przepisie, są spółkami publicznymi, afundusz zawiera umowę zakcjonariuszem posiadającym mniej niż 5 % ogólnej liczby głosów na walnym zgromadzeniu akcjonariuszy.
 
 5. Zawarcie umów, o których mowa w ust. 2, wymaga zgody Komisji.
 
-6. Komisja udziela zgody wterminie 14 dni od dnia wp∏yni´cia wniosku.
+6. Komisja udziela zgody wterminie 14 dni od dnia wpłynięcia wniosku.
 
-7. Komisja odmawia udzielenia zgody, je˝eli fundusz nie przedstawi∏ danych pozwalajàcych na stwierdzenie, ˝e zawarcie umowy nie jest sprzeczne zinteresem uczestników funduszu.
+7. Komisja odmawia udzielenia zgody, jeżeli fundusz nie przedstawił danych pozwalających na stwierdzenie, że zawarcie umowy nie jest sprzeczne zinteresem uczestników funduszu.
 
-8. Fundusz mo˝e, bez potrzeby uzyskiwania zgody Komisji, zawieraç z depozytariuszem umowy, o których mowa w ust. 2 pkt 3, pod warunkiem ˝e statut funduszu okreÊla szczegó∏owo zasady i zakres zawierania takich umów.
+8. Fundusz może, bez potrzeby uzyskiwania zgody Komisji, zawierać z depozytariuszem umowy, o których mowa w ust. 2 pkt 3, pod warunkiem że statut funduszu określa szczegółowo zasady i zakres zawierania takich umów.
 
-**Art. 108.** Fundusz inwestycyjny otwarty mo˝e zaciàgaç, wy∏àcznie w bankach krajowych lub instytucjach kredytowych, po˝yczki ikredyty, oterminie sp∏aty do roku, w ∏àcznej wysokoÊci nieprzekraczajàcej 10% wartoÊci aktywów netto funduszu w chwili zawarcia umowy po˝yczki lub kredytu.
+**Art. 108.** Fundusz inwestycyjny otwarty może zaciągać, wyłącznie w bankach krajowych lub instytucjach kredytowych, pożyczki ikredyty, oterminie spłaty do roku, w łącznej wysokości nieprzekraczającej 10% wartości aktywów netto funduszu w chwili zawarcia umowy pożyczki lub kredytu.
 
-**Art. 109.** Fundusz inwestycyjny otwarty utrzymuje, wy∏àcznie w zakresie niezb´dnym do zaspokojenia bie˝àcych zobowiàzaƒ funduszu, cz´Êç swoich aktywów na rachunkach bankowych.
+**Art. 109.** Fundusz inwestycyjny otwarty utrzymuje, wyłącznie w zakresie niezbędnym do zaspokojenia bieżących zobowiązań funduszu, część swoich aktywów na rachunkach bankowych.
 
 **Art. 110.**
 
-1. Do celu stosowania limitów inwestycyjnych papiery wartoÊciowe oraz instrumenty rynku pieni´˝nego emitowane przez emitentów zsiedzibà za granicà lub notowane na rynku zorganizowanym za granicà zalicza si´ do typu oraz rodzaju okreÊlonych wustawie papierów wartoÊciowych lub instrumentów rynku pieni´˝nego, które najbardziej odpowiadajà treÊci praw lub obowiàzków ich posiadaczy lub emitentów inkorporowanych w tych papierach lub instrumentach.
+1. Do celu stosowania limitów inwestycyjnych papiery wartościowe oraz instrumenty rynku pieniężnego emitowane przez emitentów zsiedzibą za granicą lub notowane na rynku zorganizowanym za granicą zalicza się do typu oraz rodzaju określonych wustawie papierów wartościowych lub instrumentów rynku pieniężnego, które najbardziej odpowiadają treści praw lub obowiązków ich posiadaczy lub emitentów inkorporowanych w tych papierach lub instrumentach.
 
-2. Fundusz niezw∏ocznie informuje Komisj´ o ka˝dym przypadku zastosowania przepisu ust. 1.
+2. Fundusz niezwłocznie informuje Komisję o każdym przypadku zastosowania przepisu ust. 1.
 
 **Art. 111.**
 
-1. Wrazie Êmierci uczestnika funduszu inwestycyjnego otwartego, fundusz jest obowiàzany na ˝àdanie:
+1. Wrazie śmierci uczestnika funduszu inwestycyjnego otwartego, fundusz jest obowiązany na żądanie:
 
-- **1)** osoby, która przedstawi rachunki stwierdzajàce wysokoÊç poniesionych przez nià wydatków zwiàzanych z pogrzebem uczestnika odkupiç jednostki uczestnictwa uczestnika zapisane w rejestrze uczestników funduszu, do wartoÊci nieprzekraczajàcej kosztów urzàdzenia pogrzebu zgodnie ze zwyczajami przyj´tymi w danym Êrodowisku, oraz wyp∏aciç tej osobie kwot´ uzyskanà z tego odkupienia;
-- **2)** osoby, którà uczestnik wskaza∏ wumowie zfunduszem odkupiç jednostki uczestnictwa uczestnika zapisane w rejestrze uczestników funduszu do wartoÊci nie wy˝szej ni˝ przypadajàce na ostatni miesiàc przed Êmiercià uczestnika funduszu dwudziestokrotne przeci´tne miesi´czne wynagrodzenie wsektorze przedsi´biorstw bez wyp∏at nagród z zysku, og∏aszane przez Prezesa G∏ównego Urz´du Statystycznego, oraz nieprzekraczajàcej ∏àcznej wartoÊci jednostek uczestnictwa zapisanych w rejestrze uczestnika, oraz wyp∏aciç tej osobie kwot´ uzyskanà z tego odkupienia.
+- **1)** osoby, która przedstawi rachunki stwierdzające wysokość poniesionych przez nią wydatków związanych z pogrzebem uczestnika odkupić jednostki uczestnictwa uczestnika zapisane w rejestrze uczestników funduszu, do wartości nieprzekraczającej kosztów urządzenia pogrzebu zgodnie ze zwyczajami przyjętymi w danym środowisku, oraz wypłacić tej osobie kwotę uzyskaną z tego odkupienia;
+- **2)** osoby, którą uczestnik wskazał wumowie zfunduszem odkupić jednostki uczestnictwa uczestnika zapisane w rejestrze uczestników funduszu do wartości nie wyższej niż przypadające na ostatni miesiąc przed śmiercią uczestnika funduszu dwudziestokrotne przeciętne miesięczne wynagrodzenie wsektorze przedsiębiorstw bez wypłat nagród z zysku, ogłaszane przez Prezesa Głównego Urzędu Statystycznego, oraz nieprzekraczającej łącznej wartości jednostek uczestnictwa zapisanych w rejestrze uczestnika, oraz wypłacić tej osobie kwotę uzyskaną z tego odkupienia.
 
 2. Przepis ust. 1 nie dotyczy jednostek uczestnictwa zapisanych we wspólnym rejestrze uczestnika iinnej osoby.
 
-3. Kwoty oraz jednostki uczestnictwa niewykupione przez fundusz, odpowiednio do wartoÊci, októrych mowa wust. 1, nie wchodzà do spadku po uczestniku. Rozdzia∏ 2 Specjalistyczne fundusze inwestycyjne otwarte
+3. Kwoty oraz jednostki uczestnictwa niewykupione przez fundusz, odpowiednio do wartości, októrych mowa wust. 1, nie wchodzą do spadku po uczestniku.
 
-**Art. 112.** Do specjalistycznych funduszy inwestycyjnych otwartych stosuje si´ przepisy o funduszach inwestycyjnych otwartych, o ile przepisy niniejszego rozdzia∏u nie stanowià inaczej.
+#### Rozdział 2 Specjalistyczne fundusze inwestycyjne otwarte
+
+**Art. 112.** Do specjalistycznych funduszy inwestycyjnych otwartych stosuje się przepisy o funduszach inwestycyjnych otwartych, o ile przepisy niniejszego rozdziału nie stanowią inaczej.
 
 **Art. 113.**
 
-1. Statut specjalistycznego funduszu inwestycyjnego otwartego stanowi, ˝e uczestnikami funduszu mogà zostaç podmioty okreÊlone wstatucie lub
+1. Statut specjalistycznego funduszu inwestycyjnego otwartego stanowi, że uczestnikami funduszu mogą zostać podmioty określone wstatucie lub
 
-2. W przypadku, o którym mowa w ust. 1, statut specjalistycznego funduszu inwestycyjnego otwartego mo˝e tak˝e okreÊlaç warunki, w jakich uczestnik mo˝e ˝àdaç odkupienia jednostki uczestnictwa przez fundusz, w tym w szczególnoÊci termin, w którym uczestnik powinien zg∏osiç zamiar ˝àdania odkupienia jednostki uczestnictwa, lub termin, w którym nastàpi wyp∏ata kwoty z tytu∏u odkupienia tych jednostek.
+2. W przypadku, o którym mowa w ust. 1, statut specjalistycznego funduszu inwestycyjnego otwartego może także określać warunki, w jakich uczestnik może żądać odkupienia jednostki uczestnictwa przez fundusz, w tym w szczególności termin, w którym uczestnik powinien zgłosić zamiar żądania odkupienia jednostki uczestnictwa, lub termin, w którym nastąpi wypłata kwoty z tytułu odkupienia tych jednostek.
 
-3. Je˝eli statut specjalistycznego funduszu inwestycyjnego otwartego przewiduje, ˝e jego uczestnikami mogà byç wy∏àcznie:
+3. Jeżeli statut specjalistycznego funduszu inwestycyjnego otwartego przewiduje, że jego uczestnikami mogą być wyłącznie:
 
 - **1)** osoby prawne,
-- **2)** jednostki organizacyjne nieposiadajàce osobowoÊci prawnej,
-- **3)** osoby fizyczne, które dokonajà jednorazowej wp∏aty do funduszu wwysokoÊci nie mniejszej ni˝ równowartoÊç w z∏otych 40 000 euro, ustalonà przy zastosowaniu Êredniego kursu walut obcych og∏aszanego przez Narodowy Bank Polski fundusz mo˝e, przy dokonywaniu lokat aktywów, stosowaç zasady i ograniczenia inwestycyjne okreÊlone dla funduszu inwestycyjnego zamkni´tego, je˝eli statut tak stanowi.
+- **2)** jednostki organizacyjne nieposiadające osobowości prawnej,
+- **3)** osoby fizyczne, które dokonają jednorazowej wpłaty do funduszu wwysokości nie mniejszej niż równowartość w złotych 40 000 euro, ustaloną przy zastosowaniu średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski fundusz może, przy dokonywaniu lokat aktywów, stosować zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego, jeżeli statut tak stanowi.
 
-4. Specjalistyczny fundusz inwestycyjny otwarty mo˝e lokowaç aktywa funduszu wjednostki uczestnictwa innych funduszy inwestycyjnych otwartych, tytu∏y uczestnictwa emitowane przez fundusze zagraniczne lub tytu∏y uczestnictwa emitowane przez instytucje wspólnego inwestowania z siedzibà za granicà spe∏niajàce wymogi okreÊlone w art. 101 ust. 1 pkt 3, które zgodnie z ich statutem lub regulaminem inwestujà powy˝ej 10 % aktywów w jednostki uczestnictwa innych funduszy inwestycyjnych otwartych oraz tytu∏y uczestnictwa funduszy zagranicznych i instytucji wspólnego inwestowania, je˝eli, zgodnie ze statutem funduszu, uczestnikami funduszu nie mogà byç fundusze inwestycyjne otwarte, fundusze zagraniczne lub instytucje wspólnego inwestowania z siedzibà za granicà zarzàdzane przez towarzystwo zarzàdzajàce funduszem lub podmiot z grupy kapita∏owej towarzystwa.
+4. Specjalistyczny fundusz inwestycyjny otwarty może lokować aktywa funduszu wjednostki uczestnictwa innych funduszy inwestycyjnych otwartych, tytuły uczestnictwa emitowane przez fundusze zagraniczne lub tytuły uczestnictwa emitowane przez instytucje wspólnego inwestowania z siedzibą za granicą spełniające wymogi określone w art. 101 ust. 1 pkt 3, które zgodnie z ich statutem lub regulaminem inwestują powyżej 10 % aktywów w jednostki uczestnictwa innych funduszy inwestycyjnych otwartych oraz tytuły uczestnictwa funduszy zagranicznych i instytucji wspólnego inwestowania, jeżeli, zgodnie ze statutem funduszu, uczestnikami funduszu nie mogą być fundusze inwestycyjne otwarte, fundusze zagraniczne lub instytucje wspólnego inwestowania z siedzibą za granicą zarządzane przez towarzystwo zarządzające funduszem lub podmiot z grupy kapitałowej towarzystwa.
 
-5. Specjalistyczny fundusz inwestycyjny otwarty mo˝e lokowaç powy˝ej 20 % swoich aktywów, nie wi´cej jednak ni˝ 50 % wartoÊci aktywów, w jednostki uczestnictwa jednego funduszu inwestycyjnego otwartego lub tytu∏y uczestnictwa funduszu zagranicznego lub instytucji wspólnego inwestowania, o której mowa w art. 101 ust. 1, je˝eli statut funduszu to przewiduje iwskazuje ten fundusz lub instytucj´ wspólnego inwestowania.
+5. Specjalistyczny fundusz inwestycyjny otwarty może lokować powyżej 20 % swoich aktywów, nie więcej jednak niż 50 % wartości aktywów, w jednostki uczestnictwa jednego funduszu inwestycyjnego otwartego lub tytuły uczestnictwa funduszu zagranicznego lub instytucji wspólnego inwestowania, o której mowa w art. 101 ust. 1, jeżeli statut funduszu to przewiduje iwskazuje ten fundusz lub instytucję wspólnego inwestowania.
 
-6. Je˝eli statut tak stanowi, specjalistyczny fundusz inwestycyjny otwarty mo˝e lokowaç do 100 % swoich aktywów w jednostki uczestnictwa jednego funduszu inwestycyjnego otwartego lub tytu∏y uczestnictwa funduszu zagranicznego lub instytucji wspóltakie, które spe∏niajà warunki okreÊlone wstatucie. nego inwestowania, o której mowa w art. 101 ust. 1, pod warunkiem ˝e statut:
+6. Jeżeli statut tak stanowi, specjalistyczny fundusz inwestycyjny otwarty może lokować do 100 % swoich aktywów w jednostki uczestnictwa jednego funduszu inwestycyjnego otwartego lub tytuły uczestnictwa funduszu zagranicznego lub instytucji wspóltakie, które spełniają warunki określone wstatucie. nego inwestowania, o której mowa w art. 101 ust. 1, pod warunkiem że statut:
 
-- **1)** wskazuje ten fundusz lub instytucj´ wspólnego inwestowania;
-- **2)** okreÊla, zgodnie z art. 20 ust. 1, zasady polityki inwestycyjnej tego funduszu lub instytucji wspólnego inwestowania;
-- **3)** wskazuje wysokoÊç op∏at za zarzàdzanie pobieranych przez podmiot zarzàdzajàcy funduszem inwestycyjnym otwartym, funduszem zagranicznym lub instytucjà wspólnego inwestowania, o której mowa w art. 101 ust. 1.
+- **1)** wskazuje ten fundusz lub instytucję wspólnego inwestowania;
+- **2)** określa, zgodnie z art. 20 ust. 1, zasady polityki inwestycyjnej tego funduszu lub instytucji wspólnego inwestowania;
+- **3)** wskazuje wysokość opłat za zarządzanie pobieranych przez podmiot zarządzający funduszem inwestycyjnym otwartym, funduszem zagranicznym lub instytucją wspólnego inwestowania, o której mowa w art. 101 ust. 1.
 
-7. Do wniosku oudzielenie zezwolenia na utworzenie specjalistycznego funduszu inwestycyjnego otwartego, dokonujàcego lokat w sposób okreÊlony w ust. 6, do∏àcza si´ dokumenty, o których mowa w art. 253 ust. 2 pkt 1—4, dotyczàce funduszu zagranicznego lub instytucji wspólnego inwestowania, których tytu∏y uczestnictwa b´dà przedmiotem lokat funduszu.
+7. Do wniosku oudzielenie zezwolenia na utworzenie specjalistycznego funduszu inwestycyjnego otwartego, dokonującego lokat w sposób określony w ust. 6, dołącza się dokumenty, o których mowa w art. 253 ust. 2 pkt 1—4, dotyczące funduszu zagranicznego lub instytucji wspólnego inwestowania, których tytuły uczestnictwa będą przedmiotem lokat funduszu.
 
-8. Specjalistyczny fundusz inwestycyjny otwarty, októrym mowa wust. 6, jest obowiàzany przy zbywaniu jednostek uczestnictwa udost´pniaç roczne i pó∏roczne sprawozdania finansowe dotyczàce funduszu zagranicznego lub instytucji wspólnego inwestowania, których tytu∏y uczestnictwa sà przedmiotem jego lokat.
+8. Specjalistyczny fundusz inwestycyjny otwarty, októrym mowa wust. 6, jest obowiązany przy zbywaniu jednostek uczestnictwa udostępniać roczne i półroczne sprawozdania finansowe dotyczące funduszu zagranicznego lub instytucji wspólnego inwestowania, których tytuły uczestnictwa są przedmiotem jego lokat.
 
 **Art. 114.**
 
-1. Statut specjalistycznego funduszu inwestycyjnego otwartego mo˝e przewidywaç utworzenie rady inwestorów jako organu kontrolnego.
+1. Statut specjalistycznego funduszu inwestycyjnego otwartego może przewidywać utworzenie rady inwestorów jako organu kontrolnego.
 
-2. Tryb dzia∏ania rady inwestorów okreÊla statut funduszu oraz regulamin przyj´ty przez rad´.
+2. Tryb działania rady inwestorów określa statut funduszu oraz regulamin przyjęty przez radę.
 
-3. Rada inwestorów kontroluje realizacj´ celu inwestycyjnego funduszu i polityki inwestycyjnej oraz stosowanie ograniczeƒ inwestycyjnych. W tym celu rada inwestorów mo˝e przeglàdaç ksi´gi idokumenty funduszu oraz ˝àdaç wyjaÊnieƒ od towarzystwa.
+3. Rada inwestorów kontroluje realizację celu inwestycyjnego funduszu i polityki inwestycyjnej oraz stosowanie ograniczeń inwestycyjnych. W tym celu rada inwestorów może przeglądać księgi idokumenty funduszu oraz żądać wyjaśnień od towarzystwa.
 
-4. Ksi´gi i dokumenty specjalistycznego funduszu inwestycyjnego otwartego powinny byç udost´pniane cz∏onkom rady inwestorów w sposób uniemo˝liwiajàcy identyfikacj´ innych uczestników funduszu przez tych cz∏onków, z tym ˝e obowiàzek udost´pnienia nie obejmuje rejestru uczestników funduszu.
+4. Księgi i dokumenty specjalistycznego funduszu inwestycyjnego otwartego powinny być udostępniane członkom rady inwestorów w sposób uniemożliwiający identyfikację innych uczestników funduszu przez tych członków, z tym że obowiązek udostępnienia nie obejmuje rejestru uczestników funduszu.
 
-5. W przypadku stwierdzenia nieprawid∏owoÊci w realizowaniu celu inwestycyjnego, polityki inwestycyjnej lub stosowaniu ograniczeƒ inwestycyjnych, rada inwestorów wzywa towarzystwo do niezw∏ocznego usuni´cia nieprawid∏owoÊci oraz zawiadamia o nich Komisj´.
+5. W przypadku stwierdzenia nieprawidłowości w realizowaniu celu inwestycyjnego, polityki inwestycyjnej lub stosowaniu ograniczeń inwestycyjnych, rada inwestorów wzywa towarzystwo do niezwłocznego usunięcia nieprawidłowości oraz zawiadamia o nich Komisję.
 
-6. Rada inwestorów mo˝e postanowiç o rozwiàzaniu specjalistycznego funduszu inwestycyjnego otwartego. Uchwa∏a orozwiàzaniu funduszu jest podj´ta, je˝eli g∏osy za rozwiàzaniem funduszu oddali uczestnicy reprezentujàcy ∏àcznie co najmniej 2/3 ogólnej liczby jednostek uczestnictwa danego funArt. 115. 1. Cz∏onkiem rady inwestorów specjalistycznego funduszu inwestycyjnego otwartego mo˝e byç wy∏àcznie:
+6. Rada inwestorów może postanowić o rozwiązaniu specjalistycznego funduszu inwestycyjnego otwartego. Uchwała orozwiązaniu funduszu jest podjęta, jeżeli głosy za rozwiązaniem funduszu oddali uczestnicy reprezentujący łącznie co najmniej 2/3 ogólnej liczby jednostek uczestnictwa danego funArt. 115. 1. Członkiem rady inwestorów specjalistycznego funduszu inwestycyjnego otwartego może być wyłącznie:
 
-- **1)** uczestnik funduszu posiadajàcy jednostki uczestnictwa reprezentujàce ponad 5 % ogólnej liczby jednostek w danym funduszu lub
-- **2)** przedstawiciel uczestników funduszu, ustanowiony zgodnie z ust. 2 je˝eli wyrazi∏ pisemnà zgod´ na udzia∏ w radzie.
+- **1)** uczestnik funduszu posiadający jednostki uczestnictwa reprezentujące ponad 5 % ogólnej liczby jednostek w danym funduszu lub
+- **2)** przedstawiciel uczestników funduszu, ustanowiony zgodnie z ust. 2 jeżeli wyraził pisemną zgodę na udział w radzie.
 
-2. Uczestnicy specjalistycznego funduszu inwestycyjnego otwartego reprezentujàcy ∏àcznie ponad 5 % ogólnej liczby jednostek uczestnictwa tego funduszu majà prawo wyboru wspólnego przedstawiciela do rady inwestorów, je˝eli statut tak stanowi. O zamiarze dokonania wyboru wspólnego przedstawiciela uczestnicy informujà fundusz, który niezw∏ocznie zawiadamia ospe∏nieniu przez nich wymagaƒ statutowych, po uprzednim zbadaniu uprawnieƒ tych uczestników. duszu.
+2. Uczestnicy specjalistycznego funduszu inwestycyjnego otwartego reprezentujący łącznie ponad 5 % ogólnej liczby jednostek uczestnictwa tego funduszu mają prawo wyboru wspólnego przedstawiciela do rady inwestorów, jeżeli statut tak stanowi. O zamiarze dokonania wyboru wspólnego przedstawiciela uczestnicy informują fundusz, który niezwłocznie zawiadamia ospełnieniu przez nich wymagań statutowych, po uprzednim zbadaniu uprawnień tych uczestników. duszu.
 
-3. Specjalistyczny fundusz inwestycyjny otwarty niezw∏ocznie zawiadamia uczestnika o posiadaniu przez niego jednostek uczestnictwa reprezentujàcych ponad 5 % ogólnej liczby jednostek w danym funduszu. Rada inwestorów rozpoczyna dzia∏alnoÊç w przypadku, gdy co najmniej trzy osoby spe∏nià warunki okreÊlone w ust. 1 lub ust. 2.
+3. Specjalistyczny fundusz inwestycyjny otwarty niezwłocznie zawiadamia uczestnika o posiadaniu przez niego jednostek uczestnictwa reprezentujących ponad 5 % ogólnej liczby jednostek w danym funduszu. Rada inwestorów rozpoczyna działalność w przypadku, gdy co najmniej trzy osoby spełnią warunki określone w ust. 1 lub ust. 2.
 
-4. Fundusz niezw∏ocznie zawiadamia cz∏onka rady inwestorów ozmniejszeniu liczby jednostek uczestnictwa poni˝ej wielkoÊci okreÊlonej w ust. 1 lub ust. 2.
+4. Fundusz niezwłocznie zawiadamia członka rady inwestorów ozmniejszeniu liczby jednostek uczestnictwa poniżej wielkości określonej w ust. 1 lub ust. 2.
 
-5. Cz∏onkostwo w radzie inwestorów ustaje z dniem z∏o˝enia przez cz∏onka rady rezygnacji lub z dniem zawiadomienia, o którym mowa w ust. 4.
+5. Członkostwo w radzie inwestorów ustaje z dniem złożenia przez członka rady rezygnacji lub z dniem zawiadomienia, o którym mowa w ust. 4.
 
-6. Rada inwestorów zawiesza dzia∏alnoÊç w przypadku, gdy mniej ni˝ trzy osoby spe∏niajà warunki, o których mowa w ust. 1 lub ust. 2.
+6. Rada inwestorów zawiesza działalność w przypadku, gdy mniej niż trzy osoby spełniają warunki, o których mowa w ust. 1 lub ust. 2.
 
-7. Rada inwestorów wznawia dzia∏alnoÊç, gdy co najmniej trzy osoby spe∏nià warunki, o których mowa w ust. 1 lub ust. 2.
+7. Rada inwestorów wznawia działalność, gdy co najmniej trzy osoby spełnią warunki, o których mowa w ust. 1 lub ust. 2.
 
-8. Uprawnienia i obowiàzki wynikajàce z cz∏onkostwa wradzie inwestorów cz∏onek rady wykonuje osobiÊcie, awprzypadku cz∏onków nieb´dàcych osobami fizycznymi przez osoby uprawnione do jego reprezentacji.
+8. Uprawnienia i obowiązki wynikające z członkostwa wradzie inwestorów członek rady wykonuje osobiście, awprzypadku członków niebędących osobami fizycznymi przez osoby uprawnione do jego reprezentacji.
 
-9. Ka˝da jednostka uczestnictwa posiadana przez cz∏onka rady lub uczestników, którzy ustanowili przedstawiciela, o którym mowa w ust. 1, daje prawo do jednego g∏osu wradzie. Uchwa∏y rady sà podejmowane bezwzgl´dnà wi´kszoÊcià g∏osów oddanych.
+9. Każda jednostka uczestnictwa posiadana przez członka rady lub uczestników, którzy ustanowili przedstawiciela, o którym mowa w ust. 1, daje prawo do jednego głosu wradzie. Uchwały rady są podejmowane bezwzględną większością głosów oddanych.
 
-**Art. 116.** Statut specjalistycznego funduszu inwestycyjnego otwartego mo˝e zezwoliç na dokonywanie wp∏at papierami wartoÊciowymi dopuszczonymi do publicznego obrotu, które uczestnicy nabyli na zasadach preferencyjnych lub nieodp∏atnie, zgodnie z odr´bnymi przepisami. W takim przypadku przepisu art. 38 ust. 3 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. 171, poz. 1397, z póên. zm. ) nie stosuje si´. Rozdzia∏ 3 Fundusze inwestycyjne zamkni´te
+**Art. 116.** Statut specjalistycznego funduszu inwestycyjnego otwartego może zezwolić na dokonywanie wpłat papierami wartościowymi dopuszczonymi do publicznego obrotu, które uczestnicy nabyli na zasadach preferencyjnych lub nieodpłatnie, zgodnie z odrębnymi przepisami. W takim przypadku przepisu art. 38 ust. 3 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. 171, poz. 1397, z póên. zm. ) nie stosuje się.
+
+#### Rozdział 3 Fundusze inwestycyjne zamknięte
 
 **Art. 117.**
 
-1. Fundusz inwestycyjny zamkni´ty emituje certyfikaty inwestycyjne:
+1. Fundusz inwestycyjny zamknięty emituje certyfikaty inwestycyjne:
 
-- **1)** podlegajàce wprowadzeniu do publicznego obrotu albo
-- **2)** niepodlegajàce wprowadzeniu do publicznego obrotu, na zasadach okreÊlonych w niniejszym rozdziale.
+- **1)** podlegające wprowadzeniu do publicznego obrotu albo
+- **2)** niepodlegające wprowadzeniu do publicznego obrotu, na zasadach określonych w niniejszym rozdziale.
 
-2. Statut funduszu okreÊla, czy emitowane przez fundusz certyfikaty podlegajà wprowadzeniu do publicznego obrotu, czy nie podlegajà wprowadzeniu do tego obrotu.
+2. Statut funduszu określa, czy emitowane przez fundusz certyfikaty podlegają wprowadzeniu do publicznego obrotu, czy nie podlegają wprowadzeniu do tego obrotu.
 
-3. Certyfikaty inwestycyjne, o których mowa w ust. 1 pkt 2, mogà zostaç dopuszczone do publicznego obrotu wy∏àcznie w przypadku, gdy dopuszczenie b´dzie obejmowaç równie˝ certyfikaty wczeÊniejszych emisji.
+3. Certyfikaty inwestycyjne, o których mowa w ust. 1 pkt 2, mogą zostać dopuszczone do publicznego obrotu wyłącznie w przypadku, gdy dopuszczenie będzie obejmować również certyfikaty wcześniejszych emisji.
 
 **Art. 118.**
 
-1. Do dopuszczenia certyfikatów inwestycyjnych do publicznego obrotu ido obrotu tymi certyfikatami stosuje si´ przepisy opublicznym obrocie papierami wartoÊciowymi, je˝eli ustawa nie stanowi inaczej.
+1. Do dopuszczenia certyfikatów inwestycyjnych do publicznego obrotu ido obrotu tymi certyfikatami stosuje się przepisy opublicznym obrocie papierami wartościowymi, jeżeli ustawa nie stanowi inaczej.
 
-2. Z wnioskiem o dopuszczenie pierwszej emisji certyfikatów inwestycyjnych do publicznego obrotu wyst´puje towarzystwo, awprzypadku, októrym mowa w art. 38 ust. 2, spó∏ka akcyjna ubiegajàca si´ o uzyskanie zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo.
+2. Z wnioskiem o dopuszczenie pierwszej emisji certyfikatów inwestycyjnych do publicznego obrotu występuje towarzystwo, awprzypadku, októrym mowa w art. 38 ust. 2, spółka akcyjna ubiegająca się o uzyskanie zezwolenia na wykonywanie działalności przez towarzystwo.
 
-3. Wniosek, o którym mowa w ust. 2, mo˝e dotyczyç tak˝e dopuszczenia do publicznego obrotu certyfikatów inwestycyjnych drugiej i nast´pnych emisji.
+3. Wniosek, o którym mowa w ust. 2, może dotyczyć także dopuszczenia do publicznego obrotu certyfikatów inwestycyjnych drugiej i następnych emisji.
 
 **Art. 119.**
 
-1. Wydanie przez Komisj´ zezwolenia na wi´cej ni˝ jednej emisji, statut funduszu powinien okreÊlaç liczb´ emisji, maksymalnà liczb´ certyfikatów inwestycyjnych kolejnych emisji oraz termin, przed up∏ywem którego fundusz zaoferuje certyfikaty inwestycyjne kolejnych emisji.
+1. Wydanie przez Komisję zezwolenia na więcej niż jednej emisji, statut funduszu powinien określać liczbę emisji, maksymalną liczbę certyfikatów inwestycyjnych kolejnych emisji oraz termin, przed upływem którego fundusz zaoferuje certyfikaty inwestycyjne kolejnych emisji.
 
 **Art. 120.**
 
-1. Fundusz inwestycyjny zamkni´ty emitujàcy certyfikaty inwestycyjne podlegajàce wprowadzeniu do publicznego obrotu jest obowiàzany, w terminie 7 dni od dnia wpisania funduszu do rejestru funduszy inwestycyjnych oraz od dnia zamkni´cia ka˝dej kolejnej emisji certyfikatów, do z∏o˝enia wniosku odopuszczenie certyfikatów inwestycyjnych do obrotu na rynku gie∏dowym lub regulowanym rynku pozagie∏dowym.
+1. Fundusz inwestycyjny zamknięty emitujący certyfikaty inwestycyjne podlegające wprowadzeniu do publicznego obrotu jest obowiązany, w terminie 7 dni od dnia wpisania funduszu do rejestru funduszy inwestycyjnych oraz od dnia zamknięcia każdej kolejnej emisji certyfikatów, do złożenia wniosku odopuszczenie certyfikatów inwestycyjnych do obrotu na rynku giełdowym lub regulowanym rynku pozagiełdowym.
 
-2. Komisja mo˝e przed∏u˝yç termin okreÊlony w ust. 1 o 7 dni na uzasadniony wniosek funduszu inwestycyjnego.
+2. Komisja może przedłużyć termin określony w ust. 1 o 7 dni na uzasadniony wniosek funduszu inwestycyjnego.
 
-3. W przypadku odmowy dopuszczenia certyfikatów inwestycyjnych do obrotu na rynkach wymienioutworzenie funduszu inwestycyjnego zamkni´tego jest równoznaczne z dopuszczeniem certyfikatów inwestycyjnych obj´tych wnioskiem, o którym mowa w art. 118 ust. 2, do obrotu publicznego.
+3. W przypadku odmowy dopuszczenia certyfikatów inwestycyjnych do obrotu na rynkach wymienioutworzenie funduszu inwestycyjnego zamkniętego jest równoznaczne z dopuszczeniem certyfikatów inwestycyjnych objętych wnioskiem, o którym mowa w art. 118 ust. 2, do obrotu publicznego.
 
-2. Fundusz inwestycyjny zamkni´ty emitujàcy certyfikaty podlegajàce wprowadzeniu do publicznego obrotu jest obowiàzany wprowadzaç do publicznego obrotu ka˝dà kolejnà emisj´ certyfikatów inwestycyjnych.
+2. Fundusz inwestycyjny zamknięty emitujący certyfikaty podlegające wprowadzeniu do publicznego obrotu jest obowiązany wprowadzać do publicznego obrotu każdą kolejną emisję certyfikatów inwestycyjnych.
 
-3. W przypadku gdy wniosek o dopuszczenie do publicznego obrotu obejmuje certyfikaty inwestycyjne nych w ust. 1, obrót nimi mo˝e byç prowadzony na podstawie zezwolenia Komisji, o którym mowa wart. 92 prawa opublicznym obrocie papierami wartoÊciowymi.
+3. W przypadku gdy wniosek o dopuszczenie do publicznego obrotu obejmuje certyfikaty inwestycyjne nych w ust. 1, obrót nimi może być prowadzony na podstawie zezwolenia Komisji, o którym mowa wart. 92 prawa opublicznym obrocie papierami wartościowymi.
 
 **Art. 121.**
 
-1. Certyfikaty inwestycyjne funduszu inwestycyjnego zamkni´tego mogà byç papierami wartoÊciowymi imiennymi lub na okaziciela, ztym ˝e certyfikaty inwestycyjne dopuszczone do publicznego obrotu mogà byç wy∏àcznie na okaziciela.
+1. Certyfikaty inwestycyjne funduszu inwestycyjnego zamkniętego mogą być papierami wartościowymi imiennymi lub na okaziciela, ztym że certyfikaty inwestycyjne dopuszczone do publicznego obrotu mogą być wyłącznie na okaziciela.
 
 2. Certyfikat inwestycyjny jest niepodzielny.
 
-3. Certyfikaty inwestycyjne na okaziciela danego funduszu reprezentujà jednakowe prawa majàtkowe, z zastrze˝eniem art. 163 pkt 2, art. 189 oraz art. 190.
+3. Certyfikaty inwestycyjne na okaziciela danego funduszu reprezentują jednakowe prawa majątkowe, z zastrzeżeniem art. 163 pkt 2, art. 189 oraz art. 190.
 
-4. Statut funduszu inwestycyjnego zamkni´tego mo˝e przyznaç certyfikatom imiennym ró˝nych serii ró˝ne uprawnienia, w szczególnoÊci certyfikaty inwestycyjne poszczególnych serii mogà ró˝niç si´ od siebie zwiàzanym z nimi sposobem pobierania op∏at obcià˝ajàcych aktywa funduszu, wysokoÊcià udzia∏u w dochodach funduszu, wysokoÊcià udzia∏u w aktywach netto funduszu w przypadku jego likwidacji.
+4. Statut funduszu inwestycyjnego zamkniętego może przyznać certyfikatom imiennym różnych serii różne uprawnienia, w szczególności certyfikaty inwestycyjne poszczególnych serii mogą różnić się od siebie związanym z nimi sposobem pobierania opłat obciążających aktywa funduszu, wysokością udziału w dochodach funduszu, wysokością udziału w aktywach netto funduszu w przypadku jego likwidacji.
 
-5. Certyfikaty inwestycyjne umarza si´ wy∏àcznie w przypadkach przewidzianych w ustawie.
+5. Certyfikaty inwestycyjne umarza się wyłącznie w przypadkach przewidzianych w ustawie.
 
-6. Certyfikat inwestycyjny daje na zgromadzeniu inwestorów prawo do jednego g∏osu, z zastrze˝eniem ust. 7.
+6. Certyfikat inwestycyjny daje na zgromadzeniu inwestorów prawo do jednego głosu, z zastrzeżeniem ust. 7.
 
-7. Statut funduszu mo˝e okreÊlaç, ˝e certyfikaty inwestycyjne imienne sà uprzywilejowane w zakresie prawa g∏osu, z tym ˝e jednemu certyfikatowi mo˝na przyznaç nie wi´cej ni˝ dwa g∏osy. ——————— 8. Zbycie certyfikatu inwestycyjnego imiennego statut funduszu mo˝e:
+7. Statut funduszu może określać, że certyfikaty inwestycyjne imienne są uprzywilejowane w zakresie prawa głosu, z tym że jednemu certyfikatowi można przyznać nie więcej niż dwa głosy. ——————— 8. Zbycie certyfikatu inwestycyjnego imiennego statut funduszu może:
 
-- **1)** uzale˝niç od zgody zgromadzenia inwestorów, oznaczajàc: p∏aty ceny albo
-    - **a)** form´ udzielenia zgody, 2. Prawa z certyfikatów inwestycyjnych funduszu
-    - **b)** termin do wskazania nabywcy wprzypadku od- inwestycyjnego zamkni´tego, które nie majà formy mowy zgody, nie d∏u˝szy jednak ni˝ 2 miesiàce dokumentu, powstajà z chwilà dokonania wpisu od dnia zg∏oszenia zamiaru zbycia, w ewidencji uczestników funduszu i przys∏ugujà osobie w niej wskazanej jako posiadacz certyfikatu inwec) cen´ lub sposób jej okreÊlenia oraz termin za- stycyjnego.
+- **1)** uzależnić od zgody zgromadzenia inwestorów, oznaczając: płaty ceny albo
+    - **a)** formę udzielenia zgody, 2. Prawa z certyfikatów inwestycyjnych funduszu
+    - **b)** termin do wskazania nabywcy wprzypadku od- inwestycyjnego zamkniętego, które nie mają formy mowy zgody, nie dłuższy jednak niż 2 miesiące dokumentu, powstają z chwilą dokonania wpisu od dnia zgłoszenia zamiaru zbycia, w ewidencji uczestników funduszu i przysługują osobie w niej wskazanej jako posiadacz certyfikatu inwec) cenę lub sposób jej określenia oraz termin za- stycyjnego.
 
-3. Ewidencja uczestników funduszu inwestycyjne2) w inny sposób ograniczyç, oznaczajàc termin oraz go zamkni´tego zawiera wszczególnoÊci dane identyszczegó∏owy tryb i warunki stosowania takiego ograniczenia. fikujàce uczestnika funduszu oraz w odniesieniu do certyfikatów inwestycyjnych poszczególnych emisji
+3. Ewidencja uczestników funduszu inwestycyjne2) w inny sposób ograniczyć, oznaczając termin oraz go zamkniętego zawiera wszczególności dane identyszczegółowy tryb i warunki stosowania takiego ograniczenia. fikujące uczestnika funduszu oraz w odniesieniu do certyfikatów inwestycyjnych poszczególnych emisji
 
-9. W przypadku braku któregokolwiek z postano- nale˝àcych do uczestnika: wieƒ statutu wymienionych w ust. 8 ograniczenie jest bezskuteczne. 1) liczb´, rodzaj i seri´ certyfikatów;
+9. W przypadku braku któregokolwiek z postano- należących do uczestnika: wień statutu wymienionych w ust. 8 ograniczenie jest bezskuteczne. 1) liczbę, rodzaj i serię certyfikatów;
 
-10. Statut mo˝e uzale˝niç ustanowienie zastawu 2) liczb´ g∏osów przypadajàcych na certyfikat imienna certyfikacie inwestycyjnym imiennym od zgody ny, który jest uprzywilejowany w zakresie prawa zgromadzenia inwestorów. g∏osu;
+10. Statut może uzależnić ustanowienie zastawu 2) liczbę głosów przypadających na certyfikat imienna certyfikacie inwestycyjnym imiennym od zgody ny, który jest uprzywilejowany w zakresie prawa zgromadzenia inwestorów. głosu;
 
 **Art. 122.**
 
-1. Certyfikat inwestycyjny niepodlegajàcy 3) wskazanie ograniczeƒ zbywalnoÊci certyfikatu; wprowadzeniu do publicznego obrotu wformie doku- 4) dat´ i czas zawarcia transakcji. mentu powinien zawieraç:
+1. Certyfikat inwestycyjny niepodlegający 3) wskazanie ograniczeń zbywalności certyfikatu; wprowadzeniu do publicznego obrotu wformie doku- 4) datę i czas zawarcia transakcji. mentu powinien zawierać:
 
-- **1)** nazw´ funduszu inwestycyjnego zamkni´tego oraz 4. Podmiotami uprawnionymi do prowadzenia wskazanie siedziby funduszu; ewidencji uczestników funduszu sà:
-- **2)** numer wpisu funduszu do rejestru funduszy inwe- 1) towarzystwo zarzàdzajàce tym funduszem; stycyjnych;
-- **2)** Krajowy Depozyt Papierów WartoÊciowych Spó∏ka
-- **3)** dat´ zarejestrowania funduszu i dat´ wyemitowa- Akcyjna; nia certyfikatu inwestycyjnego;
+- **1)** nazwę funduszu inwestycyjnego zamkniętego oraz 4. Podmiotami uprawnionymi do prowadzenia wskazanie siedziby funduszu; ewidencji uczestników funduszu są:
+- **2)** numer wpisu funduszu do rejestru funduszy inwe- 1) towarzystwo zarządzające tym funduszem; stycyjnych;
+- **2)** Krajowy Depozyt Papierów Wartościowych Spółka
+- **3)** datę zarejestrowania funduszu i datę wyemitowa- Akcyjna; nia certyfikatu inwestycyjnego;
 - **3)** dom maklerski;
-- **4)** czas trwania funduszu, je˝eli jest ograniczony;
+- **4)** czas trwania funduszu, jeżeli jest ograniczony;
 - **4)** bank krajowy lub instytucja kredytowa.
-- **5)** seri´ i numer certyfikatu inwestycyjnego;
+- **5)** serię i numer certyfikatu inwestycyjnego;
 
-5. Statut funduszu inwestycyjnego zamkni´tego
+5. Statut funduszu inwestycyjnego zamkniętego
 
-- **6)** oznaczenie, czy certyfikat inwestycyjny jest na oka- okreÊla jeden podmiot, spoÊród wymienionych ziciela, czy imienny; w ust. 4, prowadzàcy ewidencj´ uczestników fundu7) wskazanie, czy certyfikat inwestycyjny imienny szu. jest uprzywilejowany w zakresie prawa g∏osu, z okreÊleniem zakresu tego uprzywilejowania; 6. Umowa zobowiàzujàca do przeniesienia praw z certyfikatów inwestycyjnych nieposiadajàcych for8) wskazanie ograniczeƒ zbywalnoÊci certyfikatu in- my dokumentu przenosi te prawa z chwilà dokonania westycyjnego. wewidencji uczestników funduszu wpisu wskazujàcego nabywc´ oraz liczb´, rodzaj i seri´ nabytych certy2. Certyfikat inwestycyjny jest opatrzony piecz´cià fikatów inwestycyjnych. towarzystwa ipodpisami cz∏onków jego zarzàdu. Podpisy mogà byç mechanicznie odtwarzane. 7. Wprzypadku gdy nabycie certyfikatów inwesty3. Je˝eli certyfikaty inwestycyjne imienne w for- cyjnych nieposiadajàcych formy dokumentu nastàpi∏o mie dokumentu majà ograniczonà zbywalnoÊç lub na podstawie zdarzenia powodujàcego, z mocy pramogà byç wydane bez op∏acenia w ca∏oÊci ceny emi- wa, przeniesienie praw z tych certyfikatów, wpis syjnej, fundusz inwestycyjny jest obowiàzany prowa- w ewidencji uczestników funduszu jest dokonywany dziç ksi´g´ certyfikatów inwestycyjnych, do której na- na ˝àdanie nabywcy. le˝y wpisywaç nazwisko iimi´ albo firm´ (nazw´) oraz siedzib´ iadres uczestnika lub adres do dor´czeƒ, wy- Art. 124. Emisja certyfikatów inwestycyjnych, któsokoÊç dokonanych wp∏at, a tak˝e, na wniosek osoby re nie podlegajà wprowadzeniu do publicznego obrouprawnionej, wpis o przeniesieniu certyfikatów inwe- tu, mo˝e nastàpiç przez: stycyjnych na innà osob´ wraz z datà wpisu.
-- **1)** proponowanie nabycia certyfikatów inwestycyjArt. 123. 1. Je˝eli statut funduszu inwestycyjnego nych skierowane bez wykorzystania Êrodków mazamkni´tego tak stanowi, certyfikaty inwestycyjne, sowego przekazu do nie wi´cej ni˝ 300 osób albo które nie podlegajà wprowadzeniu do publicznego obrotu, mogà nie mieç formy dokumentu; w takim przy- 2) proponowanie nabycia certyfikatów inwestycyjpadku wszystkie certyfikaty inwestycyjne funduszu nie majà formy dokumentu. nych, októrych mowa wart. 125 ust. 1, na warunkach okreÊlonych w tym przepisie.
+- **6)** oznaczenie, czy certyfikat inwestycyjny jest na oka- określa jeden podmiot, spośród wymienionych ziciela, czy imienny; w ust. 4, prowadzący ewidencję uczestników fundu7) wskazanie, czy certyfikat inwestycyjny imienny szu. jest uprzywilejowany w zakresie prawa głosu, z określeniem zakresu tego uprzywilejowania; 6. Umowa zobowiązująca do przeniesienia praw z certyfikatów inwestycyjnych nieposiadających for8) wskazanie ograniczeń zbywalności certyfikatu in- my dokumentu przenosi te prawa z chwilą dokonania westycyjnego. wewidencji uczestników funduszu wpisu wskazującego nabywcę oraz liczbę, rodzaj i serię nabytych certy2. Certyfikat inwestycyjny jest opatrzony pieczęcią fikatów inwestycyjnych. towarzystwa ipodpisami członków jego zarządu. Podpisy mogą być mechanicznie odtwarzane. 7. Wprzypadku gdy nabycie certyfikatów inwesty3. Jeżeli certyfikaty inwestycyjne imienne w for- cyjnych nieposiadających formy dokumentu nastąpiło mie dokumentu mają ograniczoną zbywalność lub na podstawie zdarzenia powodującego, z mocy pramogą być wydane bez opłacenia w całości ceny emi- wa, przeniesienie praw z tych certyfikatów, wpis syjnej, fundusz inwestycyjny jest obowiązany prowa- w ewidencji uczestników funduszu jest dokonywany dzić księgę certyfikatów inwestycyjnych, do której na- na żądanie nabywcy. leży wpisywać nazwisko iimię albo firmę (nazwę) oraz siedzibę iadres uczestnika lub adres do doręczeń, wy- Art. 124. Emisja certyfikatów inwestycyjnych, któsokość dokonanych wpłat, a także, na wniosek osoby re nie podlegają wprowadzeniu do publicznego obrouprawnionej, wpis o przeniesieniu certyfikatów inwe- tu, może nastąpić przez: stycyjnych na inną osobę wraz z datą wpisu.
+- **1)** proponowanie nabycia certyfikatów inwestycyjArt. 123. 1. Jeżeli statut funduszu inwestycyjnego nych skierowane bez wykorzystania środków mazamkniętego tak stanowi, certyfikaty inwestycyjne, sowego przekazu do nie więcej niż 300 osób albo które nie podlegają wprowadzeniu do publicznego obrotu, mogą nie mieć formy dokumentu; w takim przy- 2) proponowanie nabycia certyfikatów inwestycyjpadku wszystkie certyfikaty inwestycyjne funduszu nie mają formy dokumentu. nych, októrych mowa wart. 125 ust. 1, na warunkach określonych w tym przepisie.
 
 **Art. 125.**
 
-1. Do proponowania nabycia certyfikatów inwestycyjnych, stanowiàcego publiczny obrót papierami wartoÊciowymi w rozumieniu prawa o publicznym obrocie papierami wartoÊciowymi, w przypadku gdy cena emisyjna jednego certyfikatu jest nie mniejsza ni˝ równowartoÊç wz∏otych 40 000 euro, ustalona przy zastosowaniu Êredniego kursu walut obcych og∏aszanego przez Narodowy Bank Polski, nie stosuje si´ przepisów prawa o publicznym obrocie papierami wartoÊciowymi, pod warunkiem ˝e emitent przeka˝e Komisji zawiadomienie o emisji nie póêniej ni˝ na 7 dni przed dniem rozpocz´cia przyjmowania zapisów. Cen´ emisyjnà certyfikatów przelicza si´ na z∏ote polskie wed∏ug Êredniego kursu walut obcych og∏aszanego przez Narodowy Bank Polski na dzieƒ z∏o˝enia zawiadomienia.
+1. Do proponowania nabycia certyfikatów inwestycyjnych, stanowiącego publiczny obrót papierami wartościowymi w rozumieniu prawa o publicznym obrocie papierami wartościowymi, w przypadku gdy cena emisyjna jednego certyfikatu jest nie mniejsza niż równowartość wzłotych 40 000 euro, ustalona przy zastosowaniu średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski, nie stosuje się przepisów prawa o publicznym obrocie papierami wartościowymi, pod warunkiem że emitent przekaże Komisji zawiadomienie o emisji nie póêniej niż na 7 dni przed dniem rozpoczęcia przyjmowania zapisów. Cenę emisyjną certyfikatów przelicza się na złote polskie według średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski na dzień złożenia zawiadomienia.
 
-2. Przepisów ust. 1 nie stosuje si´ do certyfikatów inwestycyjnych, które podlegajà wprowadzeniu do publicznego obrotu.
+2. Przepisów ust. 1 nie stosuje się do certyfikatów inwestycyjnych, które podlegają wprowadzeniu do publicznego obrotu.
 
-3. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, w drodze rozporzàdzenia, treÊç i wzór zawiadomienia, októrym mowa wust. 1, zawierajàcego podstawowe informacje o emitencie, certyfikatach inwestycyjnych oraz o trybie ich zbywania, majàc na wzgl´dzie koniecznoÊç sprawowania nadzoru przez Komisj´.
+3. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, treść i wzór zawiadomienia, októrym mowa wust. 1, zawierającego podstawowe informacje o emitencie, certyfikatach inwestycyjnych oraz o trybie ich zbywania, mając na względzie konieczność sprawowania nadzoru przez Komisję.
 
 **Art. 126.**
 
-1. Do propozycji nabycia, o której mowa w art. 124, nale˝y do∏àczyç:
+1. Do propozycji nabycia, o której mowa w art. 124, należy dołączyć:
 
-- **1)** informacj´ o miejscach, w których mo˝na zapoznaç si´ ztreÊcià statutu funduszu inwestycyjnego zamkni´tego;
+- **1)** informację o miejscach, w których można zapoznać się ztreścią statutu funduszu inwestycyjnego zamkniętego;
 - **2)** warunki emisji certyfikatów inwestycyjnych.
 
-2. Warunki emisji, o których mowa w ust. 1 pkt 2, powinny zawieraç w szczególnoÊci:
+2. Warunki emisji, o których mowa w ust. 1 pkt 2, powinny zawierać w szczególności:
 
-- **1)** nazw´, siedzib´ i adres emitenta certyfikatów inwestycyjnych;
-- **2)** dat´ i numer decyzji o udzieleniu zezwolenia na utworzenie funduszu;
+- **1)** nazwę, siedzibę i adres emitenta certyfikatów inwestycyjnych;
+- **2)** datę i numer decyzji o udzieleniu zezwolenia na utworzenie funduszu;
 - **3)** podstawowe dane o emitencie;
 - **4)** podstawowe dane o emisji;
 - **5)** wskazanie czynników ryzyka dla nabywców certyfikatów inwestycyjnych;
 - **6)** podstawowe dane o depozytariuszu;
 - **7)** podstawowe dane o towarzystwie oraz o podmiotach, o których mowa w art. 46 ust. 1—3;
-- **8)** zbadane sprawozdanie finansowe funduszu za ostatni rok obrotowy w przypadku drugiej i nast´pnych emisji certyfikatów inwestycyjnych.
+- **8)** zbadane sprawozdanie finansowe funduszu za ostatni rok obrotowy w przypadku drugiej i następnych emisji certyfikatów inwestycyjnych.
 
-3. Rada Ministrów okreÊla, w drodze rozporzàdzenia, szczegó∏owà treÊç warunków emisji certyfikatów inwestycyjnych funduszu inwestycyjnego zamkni´teobrotu, wcelu udost´pnienia nabywcom certyfikatów informacji niezb´dnych do oceny ryzyka zwiàzanego z inwestowaniem w te certyfikaty.
+3. Rada Ministrów określa, w drodze rozporządzenia, szczegółową treść warunków emisji certyfikatów inwestycyjnych funduszu inwestycyjnego zamknięteobrotu, wcelu udostępnienia nabywcom certyfikatów informacji niezbędnych do oceny ryzyka związanego z inwestowaniem w te certyfikaty.
 
-**Art. 127.** Statut funduszu inwestycyjnego zamkni´tego mo˝e dopuszczaç mo˝liwoÊç jednoczesnego przeprowadzania kilku emisji certyfikatów inwestycyjnych niepodlegajàcych wprowadzeniu do publicznego obrotu.
+**Art. 127.** Statut funduszu inwestycyjnego zamkniętego może dopuszczać możliwość jednoczesnego przeprowadzania kilku emisji certyfikatów inwestycyjnych niepodlegających wprowadzeniu do publicznego obrotu.
 
 **Art. 128.**
 
-1. Statut funduszu inwestycyjnego zamkni´tego mo˝e przewidywaç dokonywanie wp∏at na certyfikaty inwestycyjne papierami wartoÊciowymi lub udzia∏ami wspó∏kach zograniczonà odpowiedzialnoÊcià.
+1. Statut funduszu inwestycyjnego zamkniętego może przewidywać dokonywanie wpłat na certyfikaty inwestycyjne papierami wartościowymi lub udziałami współkach zograniczoną odpowiedzialnością.
 
-2. W przypadku, o którym mowa w ust. 1, papiery wartoÊciowe iudzia∏y wspó∏kach zograniczonà odpowiedzialnoÊcià b´dà wyceniane wed∏ug metody przyj´tej przez fundusz dla wyceny aktywów netto.
+2. W przypadku, o którym mowa w ust. 1, papiery wartościowe iudziały współkach zograniczoną odpowiedzialnością będą wyceniane według metody przyjętej przez fundusz dla wyceny aktywów netto.
 
-**Art. 129.** Rozpocz´cie przyjmowania zapisów na certyfikaty inwestycyjne drugiej i nast´pnych emisji wymaga zmiany statutu funduszu w zakresie danych wymienionych wart. 18 ust. 2 pkt 7—9, wodniesieniu do ka˝dej z tych emisji.
+**Art. 129.** Rozpoczęcie przyjmowania zapisów na certyfikaty inwestycyjne drugiej i następnych emisji wymaga zmiany statutu funduszu w zakresie danych wymienionych wart. 18 ust. 2 pkt 7—9, wodniesieniu do każdej z tych emisji.
 
 **Art. 130.**
 
-1. Wp∏aty na certyfikaty inwestycyjne drugiej i nast´pnych emisji funduszu inwestycyjnego zamkni´tego sà dokonywane na wydzielony rachunek bankowy lub rachunek papierów wartoÊciowych funduszu prowadzony przez depozytariusza, z zastrze˝eniem ust. 2.
+1. Wpłaty na certyfikaty inwestycyjne drugiej i następnych emisji funduszu inwestycyjnego zamkniętego są dokonywane na wydzielony rachunek bankowy lub rachunek papierów wartościowych funduszu prowadzony przez depozytariusza, z zastrzeżeniem ust. 2.
 
-2. Wprzypadku wp∏at do funduszu dokonywanych wpapierach wartoÊciowych niedopuszczonych do publicznego obrotu lub udzia∏ach w spó∏kach z ograniczonà odpowiedzialnoÊcià, osoba zapisujàca si´ na certyfikaty inwestycyjne przenosi, w drodze umowy, zgodnie z odr´bnymi przepisami, prawa z tych papierów lub udzia∏ów na fundusz oraz sk∏ada u depozytariusza kopi´ tej umowy, awprzypadku papierów wartoÊciowych tak˝e te papiery, je˝eli papiery wartoÊciowe nie majà formy dokumentu, dokument potwierdzajàcy ich posiadanie wydany na podstawie w∏aÊciwych przepisów.
+2. Wprzypadku wpłat do funduszu dokonywanych wpapierach wartościowych niedopuszczonych do publicznego obrotu lub udziałach w spółkach z ograniczoną odpowiedzialnością, osoba zapisująca się na certyfikaty inwestycyjne przenosi, w drodze umowy, zgodnie z odrębnymi przepisami, prawa z tych papierów lub udziałów na fundusz oraz składa u depozytariusza kopię tej umowy, awprzypadku papierów wartościowych także te papiery, jeżeli papiery wartościowe nie mają formy dokumentu, dokument potwierdzający ich posiadanie wydany na podstawie właściwych przepisów.
 
-3. Do dnia przydzia∏u certyfikatów inwestycyjnych, wp∏aty, o których mowa w ust. 1 i 2, nie powi´kszajà wartoÊci aktywów funduszu.
+3. Do dnia przydziału certyfikatów inwestycyjnych, wpłaty, o których mowa w ust. 1 i 2, nie powiększają wartości aktywów funduszu.
 
-**Art. 131.** Fundusz inwestycyjny zamkni´ty dokonuje wyceny aktywów funduszu i ustala wartoÊç aktywów netto oraz wartoÊç aktywów netto przypadajàcà na certyfikat inwestycyjny z cz´stotliwoÊcià okreÊlonà w statucie, nie rzadziej jednak ni˝ raz na 3 miesiàce oraz na 7 dni przed rozpocz´ciem przyjmowania zapisów na certyfikaty kolejnej emisji, a tak˝e w dniu wykupywania certyfikatów.
+**Art. 131.** Fundusz inwestycyjny zamknięty dokonuje wyceny aktywów funduszu i ustala wartość aktywów netto oraz wartość aktywów netto przypadającą na certyfikat inwestycyjny z częstotliwością określoną w statucie, nie rzadziej jednak niż raz na 3 miesiące oraz na 7 dni przed rozpoczęciem przyjmowania zapisów na certyfikaty kolejnej emisji, a także w dniu wykupywania certyfikatów.
 
 **Art. 132.**
 
-1. Cena emisyjna certyfikatów inwestycyjnych drugiej i nast´pnych emisji nie mo˝e byç ni˝sza ni˝ wartoÊç aktywów netto funduszu przypadajàca na certyfikat inwestycyjny wed∏ug wyceny aktywów go, które nie podlegajà wprowadzeniu do publicznego dokonanej na 7 dni przed dniem rozpocz´cia przyjmowania zapisów na certyfikaty kolejnej emisji, chyba ˝e 1) w chwili wpisania certyfikatu na rachunku papiestatut funduszu okreÊli maksymalnà wysokoÊç ró˝nicy rów wartoÊciowych uczestnika w przypadku mi´dzy wartoÊcià aktywów netto funduszu przypada- certyfikatów podlegajàcych wprowadzeniu do pujàcà na certyfikat inwestycyjny wed∏ug tej wyceny blicznego obrotu; a cenà emisyjnà certyfikatu kolejnej emisji.
+1. Cena emisyjna certyfikatów inwestycyjnych drugiej i następnych emisji nie może być niższa niż wartość aktywów netto funduszu przypadająca na certyfikat inwestycyjny według wyceny aktywów go, które nie podlegają wprowadzeniu do publicznego dokonanej na 7 dni przed dniem rozpoczęcia przyjmowania zapisów na certyfikaty kolejnej emisji, chyba że 1) w chwili wpisania certyfikatu na rachunku papiestatut funduszu określi maksymalną wysokość różnicy rów wartościowych uczestnika w przypadku między wartością aktywów netto funduszu przypada- certyfikatów podlegających wprowadzeniu do pującą na certyfikat inwestycyjny według tej wyceny blicznego obrotu; a ceną emisyjną certyfikatu kolejnej emisji.
 
 - **2)** w przypadku certyfikatu inwestycyjnego, który nie
 
-2. Przy zapisach na certyfikaty inwestycyjne mogà podlega wprowadzeniu do publicznego obrotu: byç pobierane op∏aty manipulacyjne, je˝eli statut fun- a) przez wr´czenie dokumentu, wprzypadku certyduszu tak stanowi i okreÊla maksymalnà wysokoÊç fikatu w formie dokumentu, albo i sposób pobierania tych op∏at.
+2. Przy zapisach na certyfikaty inwestycyjne mogą podlega wprowadzeniu do publicznego obrotu: być pobierane opłaty manipulacyjne, jeżeli statut fun- a) przez wręczenie dokumentu, wprzypadku certyduszu tak stanowi i określa maksymalną wysokość fikatu w formie dokumentu, albo i sposób pobierania tych opłat.
 
-- **b)** z chwilà wpisania certyfikatu w ewidencji
+- **b)** z chwilą wpisania certyfikatu w ewidencji
 
-3. Op∏ata manipulacyjna nie mo˝e byç uwzgl´d- uczestników funduszu w przypadku certyfikatu niana w cenie emisyjnej. niemajàcego formy dokumentu.
+3. Opłata manipulacyjna nie może być uwzględ- uczestników funduszu w przypadku certyfikatu niana w cenie emisyjnej. niemającego formy dokumentu.
 
-**Art. 133.** Statut funduszu inwestycyjnego zamkni´- 3. Na ˝àdanie uczestnika podmiot prowadzàcy tego mo˝e przyznaç dotychczasowym posiadaczom ewidencj´ uczestników funduszu wydaje mu zaÊwiadcertyfikatów inwestycyjnych prawo pierwszeƒstwa do czenie o wpisaniu certyfikatu w tej ewidencji. obj´cia nowych certyfikatów inwestycyjnych kolejnej emisji w stosunku do liczby posiadanych certyfikatów Art. 137.1. Certyfikat inwestycyjny imienny funduinwestycyjnych. Sposób, tryb izasady wykonania pra- szu inwestycyjnego zamkni´tego, który nie podlega wa pierwszeƒstwa okreÊla statut funduszu. wprowadzeniu do publicznego obrotu, mo˝e byç wydany uczestnikowi, który nie op∏aci∏ w ca∏oÊci ceny
+**Art. 133.** Statut funduszu inwestycyjnego zamknię- 3. Na żądanie uczestnika podmiot prowadzący tego może przyznać dotychczasowym posiadaczom ewidencję uczestników funduszu wydaje mu zaświadcertyfikatów inwestycyjnych prawo pierwszeństwa do czenie o wpisaniu certyfikatu w tej ewidencji. objęcia nowych certyfikatów inwestycyjnych kolejnej emisji w stosunku do liczby posiadanych certyfikatów Art. 137.1. Certyfikat inwestycyjny imienny funduinwestycyjnych. Sposób, tryb izasady wykonania pra- szu inwestycyjnego zamkniętego, który nie podlega wa pierwszeństwa określa statut funduszu. wprowadzeniu do publicznego obrotu, może być wydany uczestnikowi, który nie opłacił w całości ceny
 
 **Art. 134.**
 
-1. Emisja certyfikatów inwestycyjnych emisyjnej certyfikatu, je˝eli statut funduszu tak stanojest zamkni´ta po dokonaniu wp∏at na certyfikaty wi. wliczbie iterminie okreÊlonym wstatucie iprospekcie emisyjnym albo warunkach emisji. Termin ten nie mo- 2. Do zarejestrowania funduszu inwestycyjnego ˝e byç d∏u˝szy ni˝ 2 miesiàce od dnia rozpocz´cia zamkni´tego wymagane jest zebranie wp∏at do funduprzyjmowania zapisów. szu w wysokoÊci okreÊlonej w statucie.
+1. Emisja certyfikatów inwestycyjnych emisyjnej certyfikatu, jeżeli statut funduszu tak stanojest zamknięta po dokonaniu wpłat na certyfikaty wi. wliczbie iterminie określonym wstatucie iprospekcie emisyjnym albo warunkach emisji. Termin ten nie mo- 2. Do zarejestrowania funduszu inwestycyjnego że być dłuższy niż 2 miesiące od dnia rozpoczęcia zamkniętego wymagane jest zebranie wpłat do funduprzyjmowania zapisów. szu w wysokości określonej w statucie.
 
-2. Kolejna emisja certyfikatów inwestycyjnych jest 3. Uczestnik funduszu jest obowiàzany do ca∏kowimo˝liwa po zamkni´ciu poprzedniej emisji, z zastrze- tego op∏acenia certyfikatu inwestycyjnego, z wyjàt˝eniem art. 127, albo po dokonaniu zwrotu wp∏at do kiem przypadku, w którym otwarcie likwidacji funduszu nastàpi przed dokonaniem wezwania, o którym funduszu w przypadku, o którym mowa w ust. 4. mowa w ust. 5.
+2. Kolejna emisja certyfikatów inwestycyjnych jest 3. Uczestnik funduszu jest obowiązany do całkowimożliwa po zamknięciu poprzedniej emisji, z zastrze- tego opłacenia certyfikatu inwestycyjnego, z wyjątżeniem art. 127, albo po dokonaniu zwrotu wpłat do kiem przypadku, w którym otwarcie likwidacji funduszu nastąpi przed dokonaniem wezwania, o którym funduszu w przypadku, o którym mowa w ust. 4. mowa w ust. 5.
 
-3. Druga i nast´pne emisje certyfikatów inwesty- 4. Wp∏aty na certyfikaty inwestycyjne nieop∏acone cyjnych nie dochodzà do skutku, je˝eli nie zebrano wca∏oÊci powinny byç dokonywane równomiernie na wp∏at na certyfikaty wliczbie iterminie, októrych mo- wszystkie certyfikaty wterminach iwwysokoÊci okrewa w ust. 1. Êlonej w statucie funduszu.
+3. Druga i następne emisje certyfikatów inwesty- 4. Wpłaty na certyfikaty inwestycyjne nieopłacone cyjnych nie dochodzą do skutku, jeżeli nie zebrano wcałości powinny być dokonywane równomiernie na wpłat na certyfikaty wliczbie iterminie, októrych mo- wszystkie certyfikaty wterminach iwwysokości okrewa w ust. 1. ślonej w statucie funduszu.
 
-4. W przypadku niedojÊcia do skutku drugiej i na- 5. Uczestnik jest obowiàzany wnieÊç wp∏at´ na st´pnych emisji certyfikatów inwestycyjnych, fundusz certyfikaty nieop∏acone w ca∏oÊci po otrzymaniu od w terminie 14 dni od dnia up∏ywu terminu, o którym funduszu, listem poleconym, wezwania do dokonania mowa w ust. 1, zwraca wp∏aty do funduszu, w tym wp∏aty. Statut funduszu mo˝e okreÊliç inny sposób przenosi prawa z papierów wartoÊciowych lub udzia- dor´czenia wezwania, w tym przes∏anki uznania nie∏ów w spó∏kach z ograniczonà odpowiedzialnoÊcià, dor´czonego wezwania za dor´czone, w przypadku wraz z wartoÊcià otrzymanych po˝ytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wp∏aty na rachunek prowadzony przez depozytariusza do dnia up∏ywu terminu, o którym mowa w ust. 1, oraz pobrane op∏aty manipulacyjne.
+4. W przypadku niedojścia do skutku drugiej i na- 5. Uczestnik jest obowiązany wnieść wpłatę na stępnych emisji certyfikatów inwestycyjnych, fundusz certyfikaty nieopłacone w całości po otrzymaniu od w terminie 14 dni od dnia upływu terminu, o którym funduszu, listem poleconym, wezwania do dokonania mowa w ust. 1, zwraca wpłaty do funduszu, w tym wpłaty. Statut funduszu może określić inny sposób przenosi prawa z papierów wartościowych lub udzia- doręczenia wezwania, w tym przesłanki uznania niełów w spółkach z ograniczoną odpowiedzialnością, doręczonego wezwania za doręczone, w przypadku wraz z wartością otrzymanych pożytków i odsetkami naliczonymi przez depozytariusza za okres od dnia wpłaty na rachunek prowadzony przez depozytariusza do dnia upływu terminu, o którym mowa w ust. 1, oraz pobrane opłaty manipulacyjne.
 
-**Art. 135.** Fundusz inwestycyjny zamkni´ty dokonuje przydzia∏u certyfikatów inwestycyjnych drugiej inast´pnych emisji wterminie 14 dni od dnia zakoƒczenia przyjmowania zapisów.
+**Art. 135.** Fundusz inwestycyjny zamknięty dokonuje przydziału certyfikatów inwestycyjnych drugiej inastępnych emisji wterminie 14 dni od dnia zakończenia przyjmowania zapisów.
 
 **Art. 136.**
 
-1. Osobom, które dokona∏y wp∏aty na certyfikaty inwestycyjne drugiej inast´pnych emisji, fundusz inwestycyjny zamkni´ty jest obowiàzany wydaç przydzielone certyfikaty na warunkach i w sposób okreÊlony w statucie funduszu i w prospekcie emisyjnym albo warunkach emisji.
+1. Osobom, które dokonały wpłaty na certyfikaty inwestycyjne drugiej inastępnych emisji, fundusz inwestycyjny zamknięty jest obowiązany wydać przydzielone certyfikaty na warunkach i w sposób określony w statucie funduszu i w prospekcie emisyjnym albo warunkach emisji.
 
-2. Wydanie, o którym mowa w ust. 1, nast´puje: niemo˝noÊci dor´czenia wezwania w sposób okreÊlony wstatucie funduszu. Wezwanie powinno byç dokonane na miesiàc przed terminem wp∏aty, je˝eli statut nie okreÊli innego terminu.
+2. Wydanie, o którym mowa w ust. 1, następuje: niemożności doręczenia wezwania w sposób określony wstatucie funduszu. Wezwanie powinno być dokonane na miesiąc przed terminem wpłaty, jeżeli statut nie określi innego terminu.
 
-6. Je˝eli uczestnik nie dokona∏ wp∏aty w terminie, jest on obowiàzany do zap∏acenia odsetek ustawowych za opóênienie lub odszkodowania, chyba ˝e statut stanowi inaczej. Statut funduszu mo˝e okreÊlaç wysokoÊç odszkodowania lub sposób ustalenia wysokoÊci odszkodowania.
+6. Jeżeli uczestnik nie dokonał wpłaty w terminie, jest on obowiązany do zapłacenia odsetek ustawowych za opóênienie lub odszkodowania, chyba że statut stanowi inaczej. Statut funduszu może określać wysokość odszkodowania lub sposób ustalenia wysokości odszkodowania.
 
-7. Je˝eli uczestnik wterminie okreÊlonym wstatucie funduszu, nie d∏u˝szym jednak ni˝ 6 miesi´cy, po up∏ywie terminu p∏atnoÊci nie uiÊci∏ zaleg∏ej wp∏aty wraz z odsetkami lub odszkodowaniem przewidzianym przez statut, fundusz inwestycyjny zamkni´ty umarza certyfikat inwestycyjny i zwraca uczestnikowi ró˝nic´ mi´dzy wartoÊcià aktywów netto funduszu przypadajàcà na certyfikat inwestycyjny z dnia umorzenia certyfikatu asumà nale˝noÊci funduszu ztytu∏u nieop∏acenia w pe∏ni certyfikatu, odsetek lub odszkodowania, wterminie okreÊlonym wstatucie funduszu, nie d∏u˝szym jednak ni˝ rok od dnia umorzenia certyfikatu inwestycyjnego. Fundusz inwestycyjny zawiadamia uczestnika oraz jego prawnych poprzedników, którzy w okresie ostatnich pi´ciu lat byli wpisani do ksi´gi certyfikatów inwestycyjnych, o umorzeniu certyfikatów inwestycyjnych wraz ze wskazaniem serii i numerów tych certyfikatów. Zawiadomienia nale˝y wysy∏aç listami poleconymi na adresy wskazane w ksi´dze certyfikatów inwestycyjnych.
+7. Jeżeli uczestnik wterminie określonym wstatucie funduszu, nie dłuższym jednak niż 6 miesięcy, po upływie terminu płatności nie uiścił zaległej wpłaty wraz z odsetkami lub odszkodowaniem przewidzianym przez statut, fundusz inwestycyjny zamknięty umarza certyfikat inwestycyjny i zwraca uczestnikowi różnicę między wartością aktywów netto funduszu przypadającą na certyfikat inwestycyjny z dnia umorzenia certyfikatu asumą należności funduszu ztytułu nieopłacenia w pełni certyfikatu, odsetek lub odszkodowania, wterminie określonym wstatucie funduszu, nie dłuższym jednak niż rok od dnia umorzenia certyfikatu inwestycyjnego. Fundusz inwestycyjny zawiadamia uczestnika oraz jego prawnych poprzedników, którzy w okresie ostatnich pięciu lat byli wpisani do księgi certyfikatów inwestycyjnych, o umorzeniu certyfikatów inwestycyjnych wraz ze wskazaniem serii i numerów tych certyfikatów. Zawiadomienia należy wysyłać listami poleconymi na adresy wskazane w księdze certyfikatów inwestycyjnych.
 
-8. Po up∏ywie terminu p∏atnoÊci uczestnik nie mo˝e wykonywaç prawa g∏osu znieop∏aconych certyfikatów inwestycyjnych, chyba ˝e w terminie okreÊlonym wstatucie funduszu, nie d∏u˝szym jednak ni˝ 6 miesi´cy po up∏ywie terminu p∏atnoÊci, uiÊci∏ zaleg∏à wp∏at´ wraz z odsetkami lub odszkodowaniem.
+8. Po upływie terminu płatności uczestnik nie może wykonywać prawa głosu znieopłaconych certyfikatów inwestycyjnych, chyba że w terminie określonym wstatucie funduszu, nie dłuższym jednak niż 6 miesięcy po upływie terminu płatności, uiścił zaległą wpłatę wraz z odsetkami lub odszkodowaniem.
 
-**Art. 138.** Fundusz inwestycyjny zamkni´ty nie mo˝e nabywaç certyfikatów inwestycyjnych, które wyemitowa∏, z wyjàtkiem wykupu certyfikatów inwestycyjnych, w przypadku okreÊlonym w art. 139.
+**Art. 138.** Fundusz inwestycyjny zamknięty nie może nabywać certyfikatów inwestycyjnych, które wyemitował, z wyjątkiem wykupu certyfikatów inwestycyjnych, w przypadku określonym w art. 139.
 
 **Art. 139.**
 
-1. Fundusz inwestycyjny zamkni´ty mo˝e wykupywaç certyfikaty inwestycyjne, które wyemitowa∏, je˝eli statut funduszu tak stanowi.
+1. Fundusz inwestycyjny zamknięty może wykupywać certyfikaty inwestycyjne, które wyemitował, jeżeli statut funduszu tak stanowi.
 
-2. Fundusz inwestycyjny zamkni´ty mo˝e wykupywaç tylko certyfikaty w pe∏ni op∏acone.
+2. Fundusz inwestycyjny zamknięty może wykupywać tylko certyfikaty w pełni opłacone.
 
-3. Wstatucie funduszu inwestycyjnego zamkni´tego nale˝y okreÊliç przes∏anki, tryb i warunki wykupywania certyfikatów inwestycyjnych oraz terminy isposób dokonywania og∏oszeƒ o wykupie certyfikatów. W szczególnoÊci nale˝y okreÊliç, czy wykup certyfikatów inwestycyjnych nast´puje na ˝àdanie uczestnika, czy niezale˝nie od zg∏oszenia takiego ˝àdania, oraz przypadki, w których wykup certyfikatów mo˝e nastàpiç niezale˝nie od zg∏oszenia ˝àdania przez uczestnika funduszu.
+3. Wstatucie funduszu inwestycyjnego zamkniętego należy określić przesłanki, tryb i warunki wykupywania certyfikatów inwestycyjnych oraz terminy isposób dokonywania ogłoszeń o wykupie certyfikatów. W szczególności należy określić, czy wykup certyfikatów inwestycyjnych następuje na żądanie uczestnika, czy niezależnie od zgłoszenia takiego żądania, oraz przypadki, w których wykup certyfikatów może nastąpić niezależnie od zgłoszenia żądania przez uczestnika funduszu.
 
-4. Cena wykupu certyfikatu inwestycyjnego jest równa wartoÊci aktywów netto funduszu, przypadajàcej na certyfikat inwestycyjny, wed∏ug wyceny aktywów z dnia wykupu.
+4. Cena wykupu certyfikatu inwestycyjnego jest równa wartości aktywów netto funduszu, przypadającej na certyfikat inwestycyjny, według wyceny aktywów z dnia wykupu.
 
-5. Przy wykupywaniu certyfikatów inwestycyjnych mogà byç pobierane op∏aty manipulacyjne, je˝eli statut funduszu tak stanowi i okreÊla maksymalnà wysokoÊç i sposób pobierania tych op∏at.
+5. Przy wykupywaniu certyfikatów inwestycyjnych mogą być pobierane opłaty manipulacyjne, jeżeli statut funduszu tak stanowi i określa maksymalną wysokość i sposób pobierania tych opłat.
 
-6. Zchwilà wykupienia przez fundusz inwestycyjny zamkni´ty certyfikaty inwestycyjne sà umarzane zmocy prawa.
+6. Zchwilą wykupienia przez fundusz inwestycyjny zamknięty certyfikaty inwestycyjne są umarzane zmocy prawa.
 
-7. Fundusz inwestycyjny zamkni´ty niezw∏ocznie dokonuje wyp∏aty kwoty, o której mowa w ust. 4, w sposób okreÊlony w statucie funduszu.
+7. Fundusz inwestycyjny zamknięty niezwłocznie dokonuje wypłaty kwoty, o której mowa w ust. 4, w sposób określony w statucie funduszu.
 
 **Art. 140.**
 
-1. W funduszu inwestycyjnym zamkni´tym dzia∏a rada inwestorów, jako organ kontrolny, lub
+1. W funduszu inwestycyjnym zamkniętym działa rada inwestorów, jako organ kontrolny, lub
 
-2. Tryb dzia∏ania rady inwestorów okreÊla statut funduszu inwestycyjnego zamkni´tego oraz regulamin przyj´ty przez rad´.
+2. Tryb działania rady inwestorów określa statut funduszu inwestycyjnego zamkniętego oraz regulamin przyjęty przez radę.
 
-3. Rada inwestorów kontroluje realizacj´ celu inwestycyjnego funduszu inwestycyjnego zamkni´tego ipolityki inwestycyjnej oraz przestrzeganie ograniczeƒ inwestycyjnych. Wtym celu cz∏onkowie rady inwestorów mogà przeglàdaç ksi´gi i dokumenty funduszu oraz ˝àdaç wyjaÊnieƒ od towarzystwa.
+3. Rada inwestorów kontroluje realizację celu inwestycyjnego funduszu inwestycyjnego zamkniętego ipolityki inwestycyjnej oraz przestrzeganie ograniczeń inwestycyjnych. Wtym celu członkowie rady inwestorów mogą przeglądać księgi i dokumenty funduszu oraz żądać wyjaśnień od towarzystwa.
 
-4. Statut funduszu inwestycyjnego zamkni´tego mo˝e rozszerzyç uprawnienia rady inwestorów, przy czym statut mo˝e przyznawaç radzie inwestorów wp∏yw na polityk´ inwestycyjnà funduszu, w tym w szczególnoÊci przyznawaç prawo wià˝àcego dla towarzystwa sprzeciwu wobec przedstawianych projektów inwestycyjnych, je˝eli w sk∏ad rady inwestorów wchodzà uczestnicy posiadajàcy ∏àcznie co najmniej 50 % ogólnej liczby certyfikatów inwestycyjnych funduszu. zgromadzenie inwestorów.
+4. Statut funduszu inwestycyjnego zamkniętego może rozszerzyć uprawnienia rady inwestorów, przy czym statut może przyznawać radzie inwestorów wpływ na politykę inwestycyjną funduszu, w tym w szczególności przyznawać prawo wiążącego dla towarzystwa sprzeciwu wobec przedstawianych projektów inwestycyjnych, jeżeli w skład rady inwestorów wchodzą uczestnicy posiadający łącznie co najmniej 50 % ogólnej liczby certyfikatów inwestycyjnych funduszu. zgromadzenie inwestorów.
 
-5. W przypadku stwierdzenia nieprawid∏owoÊci w realizowaniu celu inwestycyjnego, polityki inwestycyjnej lub przestrzeganiu ograniczeƒ inwestycyjnych, rada inwestorów wzywa towarzystwo do niezw∏ocznego usuni´cia nieprawid∏owoÊci oraz zawiadamia o nich Komisj´.
+5. W przypadku stwierdzenia nieprawidłowości w realizowaniu celu inwestycyjnego, polityki inwestycyjnej lub przestrzeganiu ograniczeń inwestycyjnych, rada inwestorów wzywa towarzystwo do niezwłocznego usunięcia nieprawidłowości oraz zawiadamia o nich Komisję.
 
-6. Rada inwestorów mo˝e postanowiç o rozwiàzaniu funduszu inwestycyjnego zamkni´tego. Uchwa∏a o rozwiàzaniu funduszu jest podj´ta, je˝eli g∏osy za rozwiàzaniem funduszu oddali uczestnicy reprezentujàcy ∏àcznie co najmniej 2/3 ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
+6. Rada inwestorów może postanowić o rozwiązaniu funduszu inwestycyjnego zamkniętego. Uchwała o rozwiązaniu funduszu jest podjęta, jeżeli głosy za rozwiązaniem funduszu oddali uczestnicy reprezentujący łącznie co najmniej 2/3 ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
 
-7. Statut funduszu, októrym mowa wart. 196, którego certyfikaty nie podlegajà wprowadzeniu do publicznego obrotu lub cena emisyjna jednego certyfikatu tego funduszu wynosi nie mniej ni˝ równowartoÊç w z∏otych kwoty 40 000 euro, mo˝e przewidywaç, ˝e w przypadku, o którym mowa w ust. 6, towarzystwo zarzàdzajàce tym funduszem b´dzie uprawnione do pobrania op∏aty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków.
+7. Statut funduszu, októrym mowa wart. 196, którego certyfikaty nie podlegają wprowadzeniu do publicznego obrotu lub cena emisyjna jednego certyfikatu tego funduszu wynosi nie mniej niż równowartość w złotych kwoty 40 000 euro, może przewidywać, że w przypadku, o którym mowa w ust. 6, towarzystwo zarządzające tym funduszem będzie uprawnione do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków.
 
 **Art. 141.**
 
-1. Cz∏onkiem rady inwestorów mo˝e byç wy∏àcznie uczestnik funduszu inwestycyjnego zamkni´tego reprezentujàcy ponad 5 % ogólnej liczby certyfikatów inwestycyjnych wdanym funduszu, który wyrazi∏ pisemnà zgod´ na udzia∏ w radzie oraz:
+1. Członkiem rady inwestorów może być wyłącznie uczestnik funduszu inwestycyjnego zamkniętego reprezentujący ponad 5 % ogólnej liczby certyfikatów inwestycyjnych wdanym funduszu, który wyraził pisemną zgodę na udział w radzie oraz:
 
-- **1)** dokona∏ blokady certyfikatów inwestycyjnych w liczbie stanowiàcej ponad 5 % ogólnej liczby certyfikatów:
-    - **a)** na rachunku papierów wartoÊciowych w przypadku certyfikatów podlegajàcych wprowadzeniu do publicznego obrotu,
-    - **b)** w ewidencji uczestników w przypadku certyfikatów niepodlegajàcych wprowadzeniu do publicznego obrotu niemajàcych formy dokumentów, albo
+- **1)** dokonał blokady certyfikatów inwestycyjnych w liczbie stanowiącej ponad 5 % ogólnej liczby certyfikatów:
+    - **a)** na rachunku papierów wartościowych w przypadku certyfikatów podlegających wprowadzeniu do publicznego obrotu,
+    - **b)** w ewidencji uczestników w przypadku certyfikatów niepodlegających wprowadzeniu do publicznego obrotu niemających formy dokumentów, albo
 
-- **2)** z∏o˝y∏ u depozytariusza certyfikaty inwestycyjne niepodlegajàce wprowadzeniu do publicznego obrotu w formie dokumentu w liczbie stanowiàcej ponad 5 % ogólnej liczby certyfikatów.
+- **2)** złożył u depozytariusza certyfikaty inwestycyjne niepodlegające wprowadzeniu do publicznego obrotu w formie dokumentu w liczbie stanowiącej ponad 5 % ogólnej liczby certyfikatów.
 
-2. Rada inwestorów rozpoczyna dzia∏alnoÊç, gdy co najmniej trzech uczestników spe∏ni warunki, o których mowa w ust. 1.
+2. Rada inwestorów rozpoczyna działalność, gdy co najmniej trzech uczestników spełni warunki, o których mowa w ust. 1.
 
-3. Cz∏onkostwo wradzie inwestorów ustaje zdniem z∏o˝enia przez cz∏onka rady rezygnacji lub z dniem odwo∏ania blokady, októrej mowa wust. 1.
+3. Członkostwo wradzie inwestorów ustaje zdniem złożenia przez członka rady rezygnacji lub z dniem odwołania blokady, októrej mowa wust. 1.
 
-4. Rada inwestorów zawiesza dzia∏alnoÊç w przypadku, gdy mniej ni˝ trzech cz∏onków rady spe∏nia warunki, o których mowa w ust. 1.
+4. Rada inwestorów zawiesza działalność w przypadku, gdy mniej niż trzech członków rady spełnia warunki, o których mowa w ust. 1.
 
-5. Rada inwestorów wznawia dzia∏alnoÊç, gdy co najmniej trzech uczestników spe∏ni warunki, októrych mowa w ust. 1.
+5. Rada inwestorów wznawia działalność, gdy co najmniej trzech uczestników spełni warunki, októrych mowa w ust. 1.
 
-6. Uprawnienia i obowiàzki wynikajàce z cz∏onkostwa w radzie inwestorów uczestnik wykonuje osobiÊcie, a w przypadku uczestników nieb´dàcych osobami fizycznymi przez osoby uprawnione do reprezentacji uczestnika. W przypadku, o którym mowa w ust. 1, ka˝dy certyfikat inwestycyjny obj´ty blokadà daje prawo do jednego g∏osu w radzie.
+6. Uprawnienia i obowiązki wynikające z członkostwa w radzie inwestorów uczestnik wykonuje osobiście, a w przypadku uczestników niebędących osobami fizycznymi przez osoby uprawnione do reprezentacji uczestnika. W przypadku, o którym mowa w ust. 1, każdy certyfikat inwestycyjny objęty blokadą daje prawo do jednego głosu w radzie.
 
 **Art. 142.**
 
-1. Zgromadzenie inwestorów odbywa si´ wmiejscu siedziby funduszu albo winnym miejscu na terytorium Rzeczypospolitej Polskiej okreÊlonym w statucie.
+1. Zgromadzenie inwestorów odbywa się wmiejscu siedziby funduszu albo winnym miejscu na terytorium Rzeczypospolitej Polskiej określonym w statucie.
 
-2. Zgromadzenie inwestorów zwo∏uje towarzystwo zarzàdzajàce funduszem, og∏aszajàc o tym co najmniej na 21 dni przed terminem zgromadzenia.
+2. Zgromadzenie inwestorów zwołuje towarzystwo zarządzające funduszem, ogłaszając o tym co najmniej na 21 dni przed terminem zgromadzenia.
 
-3. Uczestnicy funduszu posiadajàcy co najmniej 10% wyemitowanych przez fundusz certyfikatów inwestycyjnych mogà domagaç si´ zwo∏ania zgromadzenia inwestorów, sk∏adajàc takie ˝àdanie na piÊmie zarzàdowi towarzystwa.
+3. Uczestnicy funduszu posiadający co najmniej 10% wyemitowanych przez fundusz certyfikatów inwestycyjnych mogą domagać się zwołania zgromadzenia inwestorów, składając takie żądanie na piśmie zarządowi towarzystwa.
 
-4. Je˝eli zarzàd towarzystwa nie zwo∏a zgromadzenia w terminie 14 dni od dnia zg∏oszenia ˝àdania, o którym mowa w ust. 3, sàd rejestrowy mo˝e upowa˝niç do zwo∏ania zgromadzenia, na koszt towarzystwa, uczestników wyst´pujàcych z tym ˝àdaniem.
+4. Jeżeli zarząd towarzystwa nie zwoła zgromadzenia w terminie 14 dni od dnia zgłoszenia żądania, o którym mowa w ust. 3, sąd rejestrowy może upoważnić do zwołania zgromadzenia, na koszt towarzystwa, uczestników występujących z tym żądaniem.
 
 **Art. 143.**
 
-1. Uprawnionymi do udzia∏u w zgromadzeniu inwestorów sà:
+1. Uprawnionymi do udziału w zgromadzeniu inwestorów są:
 
-- **1)** uczestnicy funduszu, o których mowa w art. 6 ust. 1 pkt 2, którzy nie póêniej ni˝ na 7 dni przed dniem odbycia zgromadzenia z∏o˝à towarzystwu Êwiadectwo depozytowe wydane zgodnie z przepisami art. 10 i11 prawa opublicznym obrocie papierami wartoÊciowymi;
-- **2)** uczestnicy funduszu, o których mowa w art. 6 ust. 1 pkt 3 lit. a, którzy nie póêniej ni˝ na 7 dni przed dniem odbycia zgromadzenia z∏o˝à towarzystwu zaÊwiadczenie wydane przez depozytariusza o z∏o˝eniu certyfikatów w depozycie u depozyta3) uczestnicy funduszu, o których mowa w art. 6 ust. 1 pkt 3 lit. b, którzy nie póêniej ni˝ na 7 dni przed dniem odbycia zgromadzenia:
-    - **a)** z∏o˝à towarzystwu zaÊwiadczenie wydane przez podmiot prowadzàcy ewidencj´ uczestników funduszu ozablokowaniu certyfikatów inwestycyjnych uczestnika w tej ewidencji, zawierajàce informacje okreÊlone w art. 123 ust. 3 pkt 1 i 2, albo
-    - **b)** zg∏oszà towarzystwu zamiar udzia∏u w zgromadzeniu w przypadku, gdy ewidencj´ uczestników funduszu prowadzi towarzystwo.
+- **1)** uczestnicy funduszu, o których mowa w art. 6 ust. 1 pkt 2, którzy nie póêniej niż na 7 dni przed dniem odbycia zgromadzenia złożą towarzystwu świadectwo depozytowe wydane zgodnie z przepisami art. 10 i11 prawa opublicznym obrocie papierami wartościowymi;
+- **2)** uczestnicy funduszu, o których mowa w art. 6 ust. 1 pkt 3 lit. a, którzy nie póêniej niż na 7 dni przed dniem odbycia zgromadzenia złożą towarzystwu zaświadczenie wydane przez depozytariusza o złożeniu certyfikatów w depozycie u depozyta3) uczestnicy funduszu, o których mowa w art. 6 ust. 1 pkt 3 lit. b, którzy nie póêniej niż na 7 dni przed dniem odbycia zgromadzenia:
+    - **a)** złożą towarzystwu zaświadczenie wydane przez podmiot prowadzący ewidencję uczestników funduszu ozablokowaniu certyfikatów inwestycyjnych uczestnika w tej ewidencji, zawierające informacje określone w art. 123 ust. 3 pkt 1 i 2, albo
+    - **b)** zgłoszą towarzystwu zamiar udziału w zgromadzeniu w przypadku, gdy ewidencję uczestników funduszu prowadzi towarzystwo.
 
-2. Sposób i warunki zwo∏ania zgromadzenia oraz podejmowania uchwa∏ okreÊla statut funduszu.
+2. Sposób i warunki zwołania zgromadzenia oraz podejmowania uchwał określa statut funduszu.
 
-3. Do czasu zakoƒczenia zgromadzenia inwestorów uczestnik nie mo˝e ˝àdaç wydania z∏o˝onych u depozytariusza certyfikatów inwestycyjnych.
+3. Do czasu zakończenia zgromadzenia inwestorów uczestnik nie może żądać wydania złożonych u depozytariusza certyfikatów inwestycyjnych.
 
-4. W przypadku, o którym mowa w ust. 1 pkt 3 riusza; lit. b, towarzystwo blokuje certyfikaty inwestycyjne uczestnika w ewidencji uczestników funduszu do czasu zakoƒczenia zgromadzenia inwestorów.
+4. W przypadku, o którym mowa w ust. 1 pkt 3 riusza; lit. b, towarzystwo blokuje certyfikaty inwestycyjne uczestnika w ewidencji uczestników funduszu do czasu zakończenia zgromadzenia inwestorów.
 
 **Art. 144.**
 
-1. Zgromadzenie inwestorów mo˝e podjàç uchwa∏´ o rozwiàzaniu funduszu inwestycyjnego zamkni´tego. Uchwa∏a o rozwiàzaniu funduszu jest podj´ta, je˝eli g∏osy za rozwiàzaniem funduszu oddali uczestnicy reprezentujàcy ∏àcznie co najmniej 2/3 ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
+1. Zgromadzenie inwestorów może podjąć uchwałę o rozwiązaniu funduszu inwestycyjnego zamkniętego. Uchwała o rozwiązaniu funduszu jest podjęta, jeżeli głosy za rozwiązaniem funduszu oddali uczestnicy reprezentujący łącznie co najmniej 2/3 ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
 
-2. Statut funduszu, októrym mowa wart. 196, którego certyfikaty nie podlegajà wprowadzeniu do publicznego obrotu lub cena emisyjna jednego certyfikatu tego funduszu wynosi nie mniej ni˝ równowartoÊç w z∏otych kwoty 40 000 euro, mo˝e przewidywaç, ˝e w przypadku, o którym mowa w ust. 1, towarzystwo zarzàdzajàce tym funduszem b´dzie uprawnione do pobrania op∏aty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków.
+2. Statut funduszu, októrym mowa wart. 196, którego certyfikaty nie podlegają wprowadzeniu do publicznego obrotu lub cena emisyjna jednego certyfikatu tego funduszu wynosi nie mniej niż równowartość w złotych kwoty 40 000 euro, może przewidywać, że w przypadku, o którym mowa w ust. 1, towarzystwo zarządzające tym funduszem będzie uprawnione do pobrania opłaty dodatkowej celem pokrycia kosztów organizacji funduszu i utraconych zysków.
 
-3. Zgromadzenie inwestorów wyra˝a zgod´ na:
+3. Zgromadzenie inwestorów wyraża zgodę na:
 
-- **1)** zmian´ depozytariusza;
-- **2)** emisj´ nowych certyfikatów inwestycyjnych;
-- **3)** zmiany statutu funduszu w zakresie wy∏àczenia prawa pierwszeƒstwa do nabycia nowej emisji certyfikatów inwestycyjnych;
-- **4)** emisj´ obligacji.
+- **1)** zmianę depozytariusza;
+- **2)** emisję nowych certyfikatów inwestycyjnych;
+- **3)** zmiany statutu funduszu w zakresie wyłączenia prawa pierwszeństwa do nabycia nowej emisji certyfikatów inwestycyjnych;
+- **4)** emisję obligacji.
 
-4. Uchwa∏a o emisji obligacji jest podj´ta, je˝eli g∏osy za emisjà obligacji oddali uczestnicy reprezentujàcy ∏àcznie co najmniej 2/3 ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
+4. Uchwała o emisji obligacji jest podjęta, jeżeli głosy za emisją obligacji oddali uczestnicy reprezentujący łącznie co najmniej 2/3 ogólnej liczby certyfikatów inwestycyjnych danego funduszu.
 
-5. Je˝eli statut funduszu nie stanowi inaczej, decyzja inwestycyjna dotyczàca aktywów funduszu, których wartoÊç przekracza 15 % wartoÊci aktywów funduszu, wymaga dla swojej wa˝noÊci zgody zgromadzenia inwestorów.
+5. Jeżeli statut funduszu nie stanowi inaczej, decyzja inwestycyjna dotycząca aktywów funduszu, których wartość przekracza 15 % wartości aktywów funduszu, wymaga dla swojej ważności zgody zgromadzenia inwestorów.
 
-6. Zgromadzenie inwestorów, wterminie 4 miesi´cy po up∏ywie ka˝dego roku obrotowego, rozpatruje i zatwierdza sprawozdanie finansowe funduszu, po∏àczone sprawozdanie finansowe funduszu z wydzielonymi subfunduszami, októrym mowa wart. 159, oraz sprawozdania jednostkowe subfunduszy za ten rok.
+6. Zgromadzenie inwestorów, wterminie 4 miesięcy po upływie każdego roku obrotowego, rozpatruje i zatwierdza sprawozdanie finansowe funduszu, połączone sprawozdanie finansowe funduszu z wydzielonymi subfunduszami, októrym mowa wart. 159, oraz sprawozdania jednostkowe subfunduszy za ten rok.
 
-7. Statut funduszu mo˝e rozszerzyç uprawnienia zgromadzenia inwestorów.
+7. Statut funduszu może rozszerzyć uprawnienia zgromadzenia inwestorów.
 
-8. Uchwa∏y zgromadzenia inwestorów wymagajà dla swojej wa˝noÊci zaprotoko∏owania przez notariusza.
+8. Uchwały zgromadzenia inwestorów wymagają dla swojej ważności zaprotokołowania przez notariusza.
 
 **Art. 145.**
 
-1. Fundusz inwestycyjny zamkni´ty, z zastrze˝eniem ust. 2—8, art. oraz art. 147, mo˝e lokowaç aktywa w:
+1. Fundusz inwestycyjny zamknięty, z zastrzeżeniem ust. 2—8, art. oraz art. 147, może lokować aktywa w:
 
-- **1)** papiery wartoÊciowe,
-- **2)** wierzytelnoÊci, z wyjàtkiem wierzytelnoÊci wobec osób fizycznych,
-- **3)** udzia∏y wspó∏kach zograniczonà odpowiedzialno7. Waluta obca jednego paƒstwa lub euro nie mo˝e stanowiç wi´cej ni˝ 20 % wartoÊci aktywów funduszu.
+- **1)** papiery wartościowe,
+- **2)** wierzytelności, z wyjątkiem wierzytelności wobec osób fizycznych,
+- **3)** udziały współkach zograniczoną odpowiedzialno7. Waluta obca jednego państwa lub euro nie może stanowić więcej niż 20 % wartości aktywów funduszu.
 
-8. Ograniczeƒ, októrych mowa wust. 3, nie stosuje si´ do papierów wartoÊciowych emitowanych, por´czonych lub gwarantowanych przez Skarb Paƒstwa, Narodowy Bank Polski, paƒstwa nale˝àce do OECD albo mi´dzynarodowe instytucje finansowe, których cz∏onkiem jest Rzeczpospolita Polska lub co najmniej jedno z paƒstw nale˝àcych do OECD.
+8. Ograniczeń, októrych mowa wust. 3, nie stosuje się do papierów wartościowych emitowanych, poręczonych lub gwarantowanych przez Skarb Państwa, Narodowy Bank Polski, państwa należące do OECD albo międzynarodowe instytucje finansowe, których członkiem jest Rzeczpospolita Polska lub co najmniej jedno z państw należących do OECD.
 
-9. Do lokat funduszu inwestycyjnego zamkni´tego stosuje si´ przepisy art. 107 ust. 2—8.
+9. Do lokat funduszu inwestycyjnego zamkniętego stosuje się przepisy art. 107 ust. 2—8.
 
 **Art. 146.**
 
-1. Fundusz inwestycyjny zamkni´ty mo˝e lokowaç nie wi´cej ni˝ 50 % wartoÊci swoich aktywów w jednostki uczestnictwa lub certyfikaty inwestycyjne jednego funduszu inwestycyjnego lub wtytu∏y uczestnictwa emitowane przez jednà instytucj´ wspólnego inwestowania, majàcà siedzib´ za granicà. Êcià,
+1. Fundusz inwestycyjny zamknięty może lokować nie więcej niż 50 % wartości swoich aktywów w jednostki uczestnictwa lub certyfikaty inwestycyjne jednego funduszu inwestycyjnego lub wtytuły uczestnictwa emitowane przez jedną instytucję wspólnego inwestowania, mającą siedzibę za granicą. ścią,
 
 - **4)** waluty,
 - **5)** instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne,
-- **6)** prawa majàtkowe, których cena zale˝y bezpoÊrednio lub poÊrednio od oznaczonych co do gatunku rzeczy, okreÊlonych rodzajów energii, mierników i limitów wielkoÊci produkcji, dopuszczone do obrotu na gie∏dach towarowych,
-- **7)** instrumenty rynku pieni´˝nego pod warunkiem ˝e sà zbywalne.
+- **6)** prawa majątkowe, których cena zależy bezpośrednio lub pośrednio od oznaczonych co do gatunku rzeczy, określonych rodzajów energii, mierników i limitów wielkości produkcji, dopuszczone do obrotu na giełdach towarowych,
+- **7)** instrumenty rynku pieniężnego pod warunkiem że są zbywalne.
 
-2. Fundusz inwestycyjny zamkni´ty, o którym mowa w art. 183 oraz art. 196, mo˝e lokowaç aktywa w zbywalne wierzytelnoÊci wobec osób fizycznych.
+2. Fundusz inwestycyjny zamknięty, o którym mowa w art. 183 oraz art. 196, może lokować aktywa w zbywalne wierzytelności wobec osób fizycznych.
 
-3. Papiery wartoÊciowe lub instrumenty rynku pieni´˝nego wyemitowane przez jeden podmiot, wierzytelnoÊci wobec tego podmiotu i udzia∏y w tym podmiocie nie mogà stanowiç, z zastrze˝eniem ust. 4, ∏àcznie wi´cej ni˝ 20 % wartoÊci aktywów funduszu, przy czym w przypadku zawarcia przez fundusz sekurytyzacyjny umowy, o której mowa w art. 183 ust. 5, ograniczenie, o którym mowa w niniejszym ust´pie, odnosi si´ do poszczególnych wierzytelnoÊci b´dàcych przedmiotem sekurytyzacji.
+3. Papiery wartościowe lub instrumenty rynku pieniężnego wyemitowane przez jeden podmiot, wierzytelności wobec tego podmiotu i udziały w tym podmiocie nie mogą stanowić, z zastrzeżeniem ust. 4, łącznie więcej niż 20 % wartości aktywów funduszu, przy czym w przypadku zawarcia przez fundusz sekurytyzacyjny umowy, o której mowa w art. 183 ust. 5, ograniczenie, o którym mowa w niniejszym ustępie, odnosi się do poszczególnych wierzytelności będących przedmiotem sekurytyzacji.
 
-4. Listy zastawne wyemitowane przez jeden bank hipoteczny nie mogà stanowiç wi´cej ni˝ 25 % wartoÊci aktywów funduszu.
+4. Listy zastawne wyemitowane przez jeden bank hipoteczny nie mogą stanowić więcej niż 25 % wartości aktywów funduszu.
 
-5. Fundusz inwestycyjny zamkni´ty mo˝e lokowaç aktywa wdepozyty wbankach krajowych, bankach zagranicznych lub w instytucjach kredytowych.
+5. Fundusz inwestycyjny zamknięty może lokować aktywa wdepozyty wbankach krajowych, bankach zagranicznych lub w instytucjach kredytowych.
 
-6. Depozyty wjednym banku krajowym, banku zagranicznym lub instytucji kredytowej nie mogà stanowiç wi´cej ni˝ 20 % wartoÊci aktywów funduszu.
+6. Depozyty wjednym banku krajowym, banku zagranicznym lub instytucji kredytowej nie mogą stanowić więcej niż 20 % wartości aktywów funduszu.
 
-2. Je˝eli statut tak przewiduje, fundusz inwestycyjny zamkni´ty mo˝e lokowaç do 100 % swoich aktywów wjednostki uczestnictwa lub certyfikaty inwestycyjne jednego funduszu inwestycyjnego lub w tytu∏y uczestnictwa emitowane przez jednà instytucj´ wspólnego inwestowania, majàcà siedzib´ za granicà, pod warunkiem ˝e statut:
+2. Jeżeli statut tak przewiduje, fundusz inwestycyjny zamknięty może lokować do 100 % swoich aktywów wjednostki uczestnictwa lub certyfikaty inwestycyjne jednego funduszu inwestycyjnego lub w tytuły uczestnictwa emitowane przez jedną instytucję wspólnego inwestowania, mającą siedzibę za granicą, pod warunkiem że statut:
 
-- **1)** wskazuje ten fundusz lub instytucj´ wspólnego inwestowania;
-- **2)** okreÊla, zgodnie z art. 20 ust. 1, zasady polityki inwestycyjnej tego funduszu lub instytucji wspólnego inwestowania;
-- **3)** wskazuje wysokoÊç op∏at za zarzàdzanie, pobieranych przez podmiot zarzàdzajàcy funduszem inwestycyjnym lub instytucjà wspólnego inwestowania, majàcà siedzib´ za granicà.
+- **1)** wskazuje ten fundusz lub instytucję wspólnego inwestowania;
+- **2)** określa, zgodnie z art. 20 ust. 1, zasady polityki inwestycyjnej tego funduszu lub instytucji wspólnego inwestowania;
+- **3)** wskazuje wysokość opłat za zarządzanie, pobieranych przez podmiot zarządzający funduszem inwestycyjnym lub instytucją wspólnego inwestowania, mającą siedzibę za granicą.
 
-3. Do wniosku oudzielenie zezwolenia na utworzenie funduszu inwestycyjnego zamkni´tego, dokonujàcego lokat w sposób okreÊlony w ust. 2, do∏àcza si´:
+3. Do wniosku oudzielenie zezwolenia na utworzenie funduszu inwestycyjnego zamkniętego, dokonującego lokat w sposób określony w ust. 2, dołącza się:
 
 - **1)** regulamin,
 - **2)** prospekt informacyjny lub emisyjny oraz skrót tego prospektu,
-- **3)** ostatni raport roczny i raport pó∏roczny, je˝eli zosta∏y sporzàdzone dotyczàce instytucji wspólnego inwestowania, majàcej siedzib´ za granicà, której tytu∏y uczestnictwa b´dà przedmiotem lokat funduszu.
+- **3)** ostatni raport roczny i raport półroczny, jeżeli zostały sporządzone dotyczące instytucji wspólnego inwestowania, mającej siedzibę za granicą, której tytuły uczestnictwa będą przedmiotem lokat funduszu.
 
-4. Fundusz inwestycyjny zamkni´ty mo˝e nabywaç jednostki uczestnictwa innych funduszy inwestycyjnych zarzàdzanych przez to samo towarzystwo, gdy mo˝liwoÊç nabywania jednostek uczestnictwa w takich funduszach zosta∏a okreÊlona w statucie funduszu; mo˝liwoÊç ta nie dotyczy nabywania jednostek uczestnictwa w trybie art. 26 ust. 1.
+4. Fundusz inwestycyjny zamknięty może nabywać jednostki uczestnictwa innych funduszy inwestycyjnych zarządzanych przez to samo towarzystwo, gdy możliwość nabywania jednostek uczestnictwa w takich funduszach została określona w statucie funduszu; możliwość ta nie dotyczy nabywania jednostek uczestnictwa w trybie art. 26 ust. 1.
 
-5. Fundusz inwestycyjny zamkni´ty nie mo˝e na- Art. 148.1. Fundusz inwestycyjny zamkni´ty mo˝e bywaç certyfikatów inwestycyjnych innego funduszu nabywaç wy∏àcznie prawa do nieruchomoÊci oureguzamkni´tego zarzàdzanego przez to samo towarzy- lowanym stanie prawnym inieb´dàcych przedmiotem stwo w ramach pierwszej emisji papierów wartoÊcio- zabezpieczenia lub egzekucji. Fundusz mo˝e nabywaç wych tego funduszu. nieruchomoÊci obcià˝one wy∏àcznie takimi prawami osób trzecich, których realizacja nie spowoduje ryzyka
+5. Fundusz inwestycyjny zamknięty nie może na- Art. 148.1. Fundusz inwestycyjny zamknięty może bywać certyfikatów inwestycyjnych innego funduszu nabywać wyłącznie prawa do nieruchomości oureguzamkniętego zarządzanego przez to samo towarzy- lowanym stanie prawnym iniebędących przedmiotem stwo w ramach pierwszej emisji papierów wartościo- zabezpieczenia lub egzekucji. Fundusz może nabywać wych tego funduszu. nieruchomości obciążone wyłącznie takimi prawami osób trzecich, których realizacja nie spowoduje ryzyka
 
-6. Certyfikaty inwestycyjne innego funduszu inwe- utraty w∏asnoÊci nieruchomoÊci. stycyjnego zamkni´tego zarzàdzanego przez to samo 2. Liczba nabytych przez fundusz nieruchomoÊci towarzystwo nie mogà stanowiç wi´cej ni˝ 20 % war- oraz u˝ytkowania wieczystego nie mo˝e byç mniejsza toÊci aktywów funduszu. ni˝ cztery.
+6. Certyfikaty inwestycyjne innego funduszu inwe- utraty własności nieruchomości. stycyjnego zamkniętego zarządzanego przez to samo 2. Liczba nabytych przez fundusz nieruchomości towarzystwo nie mogą stanowić więcej niż 20 % war- oraz użytkowania wieczystego nie może być mniejsza tości aktywów funduszu. niż cztery.
 
-7. Towarzystwo nie mo˝e pobieraç wynagrodzenia 3. Fundusz inwestycyjny zamkni´ty jest obowiàzaani obcià˝aç funduszu kosztami zwiàzanymi zlokowa- ny nabyç wszystkie nieruchomoÊci zgodnie z okreÊloniem aktywów funduszu w jednostki uczestnictwa al- nymi w statucie funduszu zasadami dywersyfikacji lobo certyfikaty inwestycyjne innych funduszy inwesty- kat w terminie 24 miesi´cy od dnia rejestracji funducyjnych zarzàdzanych przez to towarzystwo. szu, z zastrze˝eniem art. 197 ust. 2.
+7. Towarzystwo nie może pobierać wynagrodzenia 3. Fundusz inwestycyjny zamknięty jest obowiązaani obciążać funduszu kosztami związanymi zlokowa- ny nabyć wszystkie nieruchomości zgodnie z określoniem aktywów funduszu w jednostki uczestnictwa al- nymi w statucie funduszu zasadami dywersyfikacji lobo certyfikaty inwestycyjne innych funduszy inwesty- kat w terminie 24 miesięcy od dnia rejestracji funducyjnych zarządzanych przez to towarzystwo. szu, z zastrzeżeniem art. 197 ust. 2.
 
-8. Fundusz inwestycyjny zamkni´ty, o którym mo- 4. Fundusz nie mo˝e przeznaczyç wi´cej ni˝ wa wust. 2, jest obowiàzany udost´pniaç roczne ipó∏- 25% wartoÊci aktywów funduszu ∏àcznie na nabycie roczne sprawozdania finansowe dotyczàce instytucji jednego z przedmiotów lokat, o których mowa wspólnego inwestowania, których tytu∏y uczestnictwa w art. 147 ust. 1, oraz na inwestycje w ten przedmiot sà przedmiotem jego lokat: lokat.
+8. Fundusz inwestycyjny zamknięty, o którym mo- 4. Fundusz nie może przeznaczyć więcej niż wa wust. 2, jest obowiązany udostępniać roczne ipół- 25% wartości aktywów funduszu łącznie na nabycie roczne sprawozdania finansowe dotyczące instytucji jednego z przedmiotów lokat, o których mowa wspólnego inwestowania, których tytuły uczestnictwa w art. 147 ust. 1, oraz na inwestycje w ten przedmiot są przedmiotem jego lokat: lokat.
 
-- **1)** przy prowadzeniu zapisów na certyfikaty inwesty- 5. Przez inwestycje, októrych mowa wust. 4, rozumie si´ budow´ lub remont w rozumieniu ustawy cyjne funduszu; z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U.
-- **2)** niezw∏ocznie po ich sporzàdzeniu, nie póêniej jed- z 2003 r. 207, poz. 2016, z póên. zm. nak ni˝ w terminie podawania do publicznej wiadomoÊci raportów okresowych zgodnie z przepisami prawa o publicznym obrocie papierami wartoÊciowymi w przypadku funduszu inwestycyjnego zamkni´tego, którego certyfikaty podlegajà obowiàzkowi wprowadzenia do publicznego obrotu;
-- **3)** na ˝àdanie uczestnika wprzypadku funduszu inwestycyjnego zamkni´tego, którego certyfikaty nie podlegajà obowiàzkowi wprowadzenia do publicznego obrotu.
+- **1)** przy prowadzeniu zapisów na certyfikaty inwesty- 5. Przez inwestycje, októrych mowa wust. 4, rozumie się budowę lub remont w rozumieniu ustawy cyjne funduszu; z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U.
+- **2)** niezwłocznie po ich sporządzeniu, nie póêniej jed- z 2003 r. 207, poz. 2016, z póên. zm. nak niż w terminie podawania do publicznej wiadomości raportów okresowych zgodnie z przepisami prawa o publicznym obrocie papierami wartościowymi w przypadku funduszu inwestycyjnego zamkniętego, którego certyfikaty podlegają obowiązkowi wprowadzenia do publicznego obrotu;
+- **3)** na żądanie uczestnika wprzypadku funduszu inwestycyjnego zamkniętego, którego certyfikaty nie podlegają obowiązkowi wprowadzenia do publicznego obrotu.
 
 **Art. 147.**
 
-1. Przedmiotem lokat funduszu inwestycyjnego zamkni´tego mogà byç:
+1. Przedmiotem lokat funduszu inwestycyjnego zamkniętego mogą być:
 
-- **1)** w∏asnoÊç lub wspó∏w∏asnoÊç:
-    - **a)** nieruchomoÊci gruntowych w rozumieniu przepisów o gospodarce nieruchomoÊciami,
-    - **b)** budynków ilokali stanowiàcych odr´bne nieruchomoÊci,
+- **1)** własność lub współwłasność:
+    - **a)** nieruchomości gruntowych w rozumieniu przepisów o gospodarce nieruchomościami,
+    - **b)** budynków ilokali stanowiących odrębne nieruchomości,
     - **c)** statków morskich;
 
-- **2)** u˝ytkowanie wieczyste.
+- **2)** użytkowanie wieczyste.
 
-2. W sk∏ad aktywów funduszu wchodzà równie˝ przedmioty i urzàdzenia, w tym urzàdzenia infrastruktury technicznej, potrzebne do korzystania zprzedmiotu praw okreÊlonych w ust. 1 zgodnie z jego spo∏eczno-gospodarczym przeznaczeniem oraz niezb´dne do zachowania przedmiotu tych praw w stanie niepogorszonym lub zwi´kszajàce jego wartoÊç.
+2. W skład aktywów funduszu wchodzą również przedmioty i urządzenia, w tym urządzenia infrastruktury technicznej, potrzebne do korzystania zprzedmiotu praw określonych w ust. 1 zgodnie z jego społeczno-gospodarczym przeznaczeniem oraz niezbędne do zachowania przedmiotu tych praw w stanie niepogorszonym lub zwiększające jego wartość.
 
-3. Dochody i po˝ytki z lokat, o których mowa w ust. 1, sà przeznaczane w pierwszej kolejnoÊci na realizacj´ celów wynikajàcych z ust. 2. ).
+3. Dochody i pożytki z lokat, o których mowa w ust. 1, są przeznaczane w pierwszej kolejności na realizację celów wynikających z ust. 2. ).
 
-**Art. 149.** Fundusz inwestycyjny zamkni´ty mo˝e ustanawiaç obcià˝enia na aktywach okreÊlonych wart. 147 ust. 1 i2 o∏àcznej wysokoÊci nieprzekraczajàcej 50 % wartoÊci aktywów netto funduszu w chwili ustanowienia obcià˝enia, za zgodà depozytariusza ina warunkach okreÊlonych w statucie.
+**Art. 149.** Fundusz inwestycyjny zamknięty może ustanawiać obciążenia na aktywach określonych wart. 147 ust. 1 i2 ołącznej wysokości nieprzekraczającej 50 % wartości aktywów netto funduszu w chwili ustanowienia obciążenia, za zgodą depozytariusza ina warunkach określonych w statucie.
 
 **Art. 150.**
 
-1. Wycena aktywów funduszu okreÊlonych wart. 147 ust. 1 i2 jest dokonywana przez zespó∏ co najmniej trzech osób, wsk∏ad którego wchodzà wy∏àcznie rzeczoznawcy majàtkowi uprawnieni do szacowania nieruchomoÊci na podstawie przepisów o gospodarce nieruchomoÊciami, wybierani przez rad´ nadzorczà towarzystwa.
+1. Wycena aktywów funduszu określonych wart. 147 ust. 1 i2 jest dokonywana przez zespół co najmniej trzech osób, wskład którego wchodzą wyłącznie rzeczoznawcy majątkowi uprawnieni do szacowania nieruchomości na podstawie przepisów o gospodarce nieruchomościami, wybierani przez radę nadzorczą towarzystwa.
 
-2. Szczegó∏owy tryb iwarunki pracy zespo∏u, októrym mowa w ust. 1, okreÊla statut funduszu.
+2. Szczegółowy tryb iwarunki pracy zespołu, októrym mowa w ust. 1, określa statut funduszu.
 
-3. Wycena aktywów okreÊlonych w art. 147 ust. 1 i 2 jest dokonywana na jeden miesiàc przed zawarciem umowy kupna tych aktywów oraz po up∏ywie 2 lat od dokonania poprzedniej wyceny, atak˝e wka˝dym przypadku, w którym istnieje uzasadnione przypuszczenie, ˝e nastàpi∏y okolicznoÊci powodujàce istotnà zmian´ ich wartoÊci.
+3. Wycena aktywów określonych w art. 147 ust. 1 i 2 jest dokonywana na jeden miesiąc przed zawarciem umowy kupna tych aktywów oraz po upływie 2 lat od dokonania poprzedniej wyceny, atakże wkażdym przypadku, w którym istnieje uzasadnione przypuszczenie, że nastąpiły okoliczności powodujące istotną zmianę ich wartości.
 
-4. Nie rzadziej ni˝ raz na 6 miesi´cy dokonuje si´ aktualizacji wartoÊci aktywów okreÊlonych w art. 147 ust. 1 i2 zuwzgl´dnieniem zmian cen na rynku nieruchomoÊci, odpowiednio do rodzaju tych aktywów.
+4. Nie rzadziej niż raz na 6 miesięcy dokonuje się aktualizacji wartości aktywów określonych w art. 147 ust. 1 i2 zuwzględnieniem zmian cen na rynku nieruchomości, odpowiednio do rodzaju tych aktywów.
 
-5. Do ustalenia wartoÊci aktywów netto funduszu lub wartoÊci aktywów netto przypadajàcej na certyfikat inwestycyjny przyjmuje si´ wartoÊç aktywów okreÊlonych wart. 147 ust. 1 i2 wed∏ug ich ostatniej wyce——————— ny albo ostatniej aktualizacji, je˝eli taka aktualizacja by∏a dokonana.
+5. Do ustalenia wartości aktywów netto funduszu lub wartości aktywów netto przypadającej na certyfikat inwestycyjny przyjmuje się wartość aktywów określonych wart. 147 ust. 1 i2 według ich ostatniej wyce——————— ny albo ostatniej aktualizacji, jeżeli taka aktualizacja była dokonana.
 
 **Art. 151.**
 
-1. Fundusz inwestycyjny zamkni´ty mo˝e udzielaç innym podmiotom po˝yczek, których przedmiotem sà papiery wartoÊciowe.
+1. Fundusz inwestycyjny zamknięty może udzielać innym podmiotom pożyczek, których przedmiotem są papiery wartościowe.
 
-2. ¸àczna wartoÊç po˝yczonych papierów wartoÊciowych i papierów wartoÊciowych tego samego emitenta b´dàcych w portfelu inwestycyjnym funduszu inwestycyjnego zamkni´tego nie mo˝e przekroczyç limitu, o którym mowa w art. 145 ust. 3 i 4.
+2. Ęączna wartość pożyczonych papierów wartościowych i papierów wartościowych tego samego emitenta będących w portfelu inwestycyjnym funduszu inwestycyjnego zamkniętego nie może przekroczyć limitu, o którym mowa w art. 145 ust. 3 i 4.
 
 **Art. 152.**
 
-1. Fundusz inwestycyjny zamkni´ty mo˝e zaciàgaç, wy∏àcznie w bankach krajowych, instytucjach kredytowych lub bankach zagranicznych, po˝yczki ikredyty o∏àcznej wysokoÊci nieprzekraczajàcej 75 % wartoÊci aktywów netto funduszu w chwili zawarcia umowy po˝yczki lub kredytu, z zastrze˝eniem ust. 2.
+1. Fundusz inwestycyjny zamknięty może zaciągać, wyłącznie w bankach krajowych, instytucjach kredytowych lub bankach zagranicznych, pożyczki ikredyty ołącznej wysokości nieprzekraczającej 75 % wartości aktywów netto funduszu w chwili zawarcia umowy pożyczki lub kredytu, z zastrzeżeniem ust. 2.
 
-2. Je˝eli statut funduszu tak stanowi, fundusz inwestycyjny zamkni´ty, w którym dzia∏a zgromadzenie
+2. Jeżeli statut funduszu tak stanowi, fundusz inwestycyjny zamknięty, w którym działa zgromadzenie
 
-- **1)** kryteria, jakie powinien spe∏niaç po˝yczkobiorca, zasady sp∏aty po˝yczki oraz wskazywaç rodzaje i minimalnà wysokoÊç zabezpieczeƒ, jakich ustanowienia fundusz b´dzie wymaga∏ w przypadku udzielania przez fundusz po˝yczek;
-- **2)** kryteria, jakie powinien spe∏niaç podmiot, któremu fundusz mo˝e udzieliç por´czenia lub gwarancji, warunki udzielenia por´czenia lub gwarancji oraz wskazywaç rodzaje i minimalnà wysokoÊç zabezpieczeƒ, jakich ustanowienia fundusz b´dzie wymaga∏ w przypadku udzielania przez fundusz por´czeƒ lub gwarancji.
+- **1)** kryteria, jakie powinien spełniać pożyczkobiorca, zasady spłaty pożyczki oraz wskazywać rodzaje i minimalną wysokość zabezpieczeń, jakich ustanowienia fundusz będzie wymagał w przypadku udzielania przez fundusz pożyczek;
+- **2)** kryteria, jakie powinien spełniać podmiot, któremu fundusz może udzielić poręczenia lub gwarancji, warunki udzielenia poręczenia lub gwarancji oraz wskazywać rodzaje i minimalną wysokość zabezpieczeń, jakich ustanowienia fundusz będzie wymagał w przypadku udzielania przez fundusz poręczeń lub gwarancji.
 
 **Art. 154.**
 
-1. Przy stosowaniu limitów inwestycyjnych, o których mowa w art. 145 ust. 3, 4 lub 7, fundusz inwestycyjny zamkni´ty jest obowiàzany uwzgl´dniaç wartoÊç papierów wartoÊciowych lub instrumentów rynku pieni´˝nego, lub walut stanowiàcych baz´ instrumentów pochodnych.
+1. Przy stosowaniu limitów inwestycyjnych, o których mowa w art. 145 ust. 3, 4 lub 7, fundusz inwestycyjny zamknięty jest obowiązany uwzględniać wartość papierów wartościowych lub instrumentów rynku pieniężnego, lub walut stanowiących bazę instrumentów pochodnych.
 
-2. Przepisu ust. 1 nie stosuje si´ w przypadku instrumentów pochodnych, których baz´ stanowià inwestorów, mo˝e dokonywaç emisji obligacji w wy- uznane indeksy. sokoÊci nieprzekraczajàcej 15 % wartoÊci aktywów netto funduszu na dzieƒ poprzedzajàcy dzieƒ podj´cia 3. Je˝eli papier wartoÊciowy lub instrument rynku przez zgromadzenie inwestorów uchwa∏y o emisji ob- pieni´˝nego zawiera wbudowany instrument pochodligacji, z zastrze˝eniem art. 188 ust. 4. ny, instrument ten uwzgl´dnia si´ przy stosowaniu
+2. Przepisu ust. 1 nie stosuje się w przypadku instrumentów pochodnych, których bazę stanowią inwestorów, może dokonywać emisji obligacji w wy- uznane indeksy. sokości nieprzekraczającej 15 % wartości aktywów netto funduszu na dzień poprzedzający dzień podjęcia 3. Jeżeli papier wartościowy lub instrument rynku przez zgromadzenie inwestorów uchwały o emisji ob- pieniężnego zawiera wbudowany instrument pochodligacji, z zastrzeżeniem art. 188 ust. 4. ny, instrument ten uwzględnia się przy stosowaniu
 
-3. W przypadku wyemitowania przez fundusz in- przez fundusz limitów inwestycyjnych. westycyjny obligacji ∏àczna wartoÊç po˝yczek, kredytów oraz emisji obligacji nie mo˝e przekraczaç 4. Je˝eli fundusz inwestycyjny zamkni´ty zamierza 75 % wartoÊci aktywów netto funduszu. dokonywaç lokat, o których mowa w art. 145 ust. 1 pkt 5 i 6, statut funduszu powinien okreÊlaç warunki,
+3. W przypadku wyemitowania przez fundusz in- przez fundusz limitów inwestycyjnych. westycyjny obligacji łączna wartość pożyczek, kredytów oraz emisji obligacji nie może przekraczać 4. Jeżeli fundusz inwestycyjny zamknięty zamierza 75 % wartości aktywów netto funduszu. dokonywać lokat, o których mowa w art. 145 ust. 1 pkt 5 i 6, statut funduszu powinien określać warunki,
 
-4. Emisja obligacji przez fundusz zamkni´ty emitu- jakie powinny spe∏niaç niewystandaryzowane instrujàcy certyfikaty podlegajàce wprowadzeniu do pu- menty pochodne oraz podmioty b´dàce stronà umoblicznego obrotu mo˝e nastàpiç wy∏àcznie przez pro- wy z funduszem, warunki i zasady zajmowania przez ponowanie nabycia wsposób okreÊlony wart. 2 ust. 1 fundusz pozycji winstrumentach pochodnych, sposób prawa o publicznym obrocie papierami wartoÊciowy- ustalenia oraz maksymalnà wartoÊç ryzyka kontrahenmi i stanowiàcy publiczny obrót papierami wartoÊcio- ta wynikajàcà z transakcji, których przedmiotem sà wymi w rozumieniu prawa o publicznym obrocie pa- niewystandaryzowane instrumenty pochodne, spopierami wartoÊciowymi. sób wyznaczenia maksymalnego zaanga˝owania funduszu w instrumenty pochodne oraz rodzaje ryzyk
+4. Emisja obligacji przez fundusz zamknięty emitu- jakie powinny spełniać niewystandaryzowane instrujący certyfikaty podlegające wprowadzeniu do pu- menty pochodne oraz podmioty będące stroną umoblicznego obrotu może nastąpić wyłącznie przez pro- wy z funduszem, warunki i zasady zajmowania przez ponowanie nabycia wsposób określony wart. 2 ust. 1 fundusz pozycji winstrumentach pochodnych, sposób prawa o publicznym obrocie papierami wartościowy- ustalenia oraz maksymalną wartość ryzyka kontrahenmi i stanowiący publiczny obrót papierami wartościo- ta wynikającą z transakcji, których przedmiotem są wymi w rozumieniu prawa o publicznym obrocie pa- niewystandaryzowane instrumenty pochodne, spopierami wartościowymi. sób wyznaczenia maksymalnego zaangażowania funduszu w instrumenty pochodne oraz rodzaje ryzyk
 
 **Art. 153.**
 
-1. Fundusz inwestycyjny zamkni´ty mo˝e, zwiàzanych z instrumentami pochodnymi. przy uwzgl´dnieniu celu inwestycyjnego funduszu, udzielaç:
+1. Fundusz inwestycyjny zamknięty może, związanych z instrumentami pochodnymi. przy uwzględnieniu celu inwestycyjnego funduszu, udzielać:
 
-- **1)** po˝yczek pieni´˝nych do wysokoÊci nie wy˝szej ni˝ 50 % wartoÊci aktywów funduszu, z tym ˝e wysokoÊç po˝yczki pieni´˝nej udzielonej jednemu podmiotowi nie mo˝e przekroczyç 20 % wartoÊci aktywów funduszu;
-- **2)** por´czeƒ lub gwarancji do wysokoÊci nie wy˝szej ni˝ 50 % wartoÊci aktywów funduszu, ztym ˝e wysokoÊç por´czenia lub gwarancji udzielanych za zobowiàzania jednego podmiotu nie mo˝e przekroczyç 20 % wartoÊci aktywów funduszu.
+- **1)** pożyczek pieniężnych do wysokości nie wyższej niż 50 % wartości aktywów funduszu, z tym że wysokość pożyczki pieniężnej udzielonej jednemu podmiotowi nie może przekroczyć 20 % wartości aktywów funduszu;
+- **2)** poręczeń lub gwarancji do wysokości nie wyższej niż 50 % wartości aktywów funduszu, ztym że wysokość poręczenia lub gwarancji udzielanych za zobowiązania jednego podmiotu nie może przekroczyć 20 % wartości aktywów funduszu.
 
-2. Po˝yczkobiorca jest obowiàzany umo˝liwiç funduszowi podejmowanie czynnoÊci zwiàzanych zocenà sytuacji finansowej i gospodarczej po˝yczkobiorcy oraz kontrol´ wykorzystania i sp∏aty po˝yczki.
+2. Pożyczkobiorca jest obowiązany umożliwić funduszowi podejmowanie czynności związanych zoceną sytuacji finansowej i gospodarczej pożyczkobiorcy oraz kontrolę wykorzystania i spłaty pożyczki.
 
-3. Statut funduszu powinien okreÊlaç:
+3. Statut funduszu powinien określać:
 
 **Art. 155.**
 
-1. Fundusz inwestycyjny zamkni´ty, zawierajàcy umowy, których przedmiotem sà instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, oraz prawa majàtkowe, o których mowa w art. 145 ust. 1 pkt 6, jest obowiàzany opracowaç i wdro˝yç szczegó∏owe procedury podejmowania decyzji inwestycyjnych dotyczàcych tych instrumentów oraz procedury umo˝liwiajàce monitorowanie imierzenie wka˝dym czasie ryzyka zwiàzanego zposzczególnymi instrumentami pochodnymi oraz ryzyka portfela inwestycyjnego funduszu.
+1. Fundusz inwestycyjny zamknięty, zawierający umowy, których przedmiotem są instrumenty pochodne, w tym niewystandaryzowane instrumenty pochodne, oraz prawa majątkowe, o których mowa w art. 145 ust. 1 pkt 6, jest obowiązany opracować i wdrożyć szczegółowe procedury podejmowania decyzji inwestycyjnych dotyczących tych instrumentów oraz procedury umożliwiające monitorowanie imierzenie wkażdym czasie ryzyka związanego zposzczególnymi instrumentami pochodnymi oraz ryzyka portfela inwestycyjnego funduszu.
 
-2. Procedury, októrych mowa wust. 1, fundusz inwestycyjny zamkni´ty przekazuje depozytariuszowi.
+2. Procedury, októrych mowa wust. 1, fundusz inwestycyjny zamknięty przekazuje depozytariuszowi.
 
-**Art. 156.** Fundusz inwestycyjny zamkni´ty, obejmujàc papiery wartoÊciowe w wykonaniu umowy o subemisj´ inwestycyjnà, nie mo˝e naruszyç ograniczeƒ, o których mowa w art. 145 ust. 3 i 4.
+**Art. 156.** Fundusz inwestycyjny zamknięty, obejmując papiery wartościowe w wykonaniu umowy o subemisję inwestycyjną, nie może naruszyć ograniczeń, o których mowa w art. 145 ust. 3 i 4.
 
 **Art. 157.**
 
-1. CzynnoÊci prawne dokonane znaruszeniem ograniczeƒ, októrych mowa wart. 145 ust. 2—8, art. 146, art. 148 oraz art. 149, sà wa˝ne.
+1. Czynności prawne dokonane znaruszeniem ograniczeń, októrych mowa wart. 145 ust. 2—8, art. 146, art. 148 oraz art. 149, są ważne.
 
-2. Je˝eli fundusz inwestycyjny zamkni´ty przekroczy ograniczenia, októrych mowa wart. 145 ust. 2—8, art. 146, art. 148 oraz art. 149, jest obowiàzany do dostosowania, niezw∏ocznie, stanu swoich aktywów do wymagaƒ okreÊlonych w tych przepisach, uwzgl´dniajàc nale˝ycie interes uczestników funduszu.
+2. Jeżeli fundusz inwestycyjny zamknięty przekroczy ograniczenia, októrych mowa wart. 145 ust. 2—8, art. 146, art. 148 oraz art. 149, jest obowiązany do dostosowania, niezwłocznie, stanu swoich aktywów do wymagań określonych w tych przepisach, uwzględniając należycie interes uczestników funduszu.
 
-3. Fundusz inwestycyjny zamkni´ty jest obowiàzany dostosowaç struktur´ portfela inwestycyjnego do wymagaƒ okreÊlonych wustawie oraz statucie funduszu w terminie 12 miesi´cy od dnia rejestracji funduszu, z zastrze˝eniem art. 197 ust. 2. DZIA¸ VI Szczególne konstrukcje funduszy inwestycyjnych Rozdzia∏ 1 Fundusze inwestycyjne z ró˝nymi kategoriami jednostek uczestnictwa
+3. Fundusz inwestycyjny zamknięty jest obowiązany dostosować strukturę portfela inwestycyjnego do wymagań określonych wustawie oraz statucie funduszu w terminie 12 miesięcy od dnia rejestracji funduszu, z zastrzeżeniem art. 197 ust. 2. DZIAĘ VI Szczególne konstrukcje funduszy inwestycyjnych
+
+#### Rozdział 1 Fundusze inwestycyjne z różnymi kategoriami jednostek uczestnictwa
 
 **Art. 158.**
 
-1. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty mogà zbywaç jednostki uczestnictwa ró˝niàce si´ od siebie zwiàzanym z nimi sposobem pobierania op∏at manipulacyjnych lub op∏at obcià˝ajàcych aktywa funduszu.
+1. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty mogą zbywać jednostki uczestnictwa różniące się od siebie związanym z nimi sposobem pobierania opłat manipulacyjnych lub opłat obciążających aktywa funduszu.
 
-2. Je˝eli jednostki uczestnictwa funduszu ró˝nià si´ od siebie zwiàzanym z nimi sposobem pobierania op∏at obcià˝ajàcych aktywa funduszu, jednostki uczestnictwa danej kategorii sà zbywane i odkupywane po cenie wynikajàcej z podzielenia wartoÊci aktywów netto funduszu przypadajàcych na t´ kategori´ jednostek uczestnictwa przez liczb´ jednostek uczestnictwa tej kategorii ustalonà na podstawie rejestru uczestników funduszu w dniu wyceny.
+2. Jeżeli jednostki uczestnictwa funduszu różnią się od siebie związanym z nimi sposobem pobierania opłat obciążających aktywa funduszu, jednostki uczestnictwa danej kategorii są zbywane i odkupywane po cenie wynikającej z podzielenia wartości aktywów netto funduszu przypadających na tę kategorię jednostek uczestnictwa przez liczbę jednostek uczestnictwa tej kategorii ustaloną na podstawie rejestru uczestników funduszu w dniu wyceny.
 
-3. Statut funduszu powinien okreÊlaç kategorie jednostek zbywanych przez fundusz przez wskazanie praw i obowiàzków, jakie z nich wynikajà.
+3. Statut funduszu powinien określać kategorie jednostek zbywanych przez fundusz przez wskazanie praw i obowiązków, jakie z nich wynikają.
 
-4. Jednostki uczestnictwa, o których mowa w ust. 2, mo˝na ∏àczyç wy∏àcznie w ramach tej samej kategorii. Rozdzia∏ 2 Fundusze inwestycyjne z wydzielonymi subfunduszami
+4. Jednostki uczestnictwa, o których mowa w ust. 2, można łączyć wyłącznie w ramach tej samej kategorii.
+
+#### Rozdział 2 Fundusze inwestycyjne z wydzielonymi subfunduszami
 
 **Art. 159.**
 
-1. Fundusz inwestycyjny mo˝e prowadziç dzia∏alnoÊç jako fundusz sk∏adajàcy si´ z subfunduszy ró˝niàcych si´ w szczególnoÊci tym, ˝e ka˝dy mo˝e stosowaç innà polityk´ inwestycyjnà.
+1. Fundusz inwestycyjny może prowadzić działalność jako fundusz składający się z subfunduszy różniących się w szczególności tym, że każdy może stosować inną politykę inwestycyjną.
 
-2. Z wp∏at do funduszu, w wysokoÊci okreÊlonej w art. 15 ust. 2 lub 4, towarzystwo tworzy portfele inwestycyjne subfunduszy.
+2. Z wpłat do funduszu, w wysokości określonej w art. 15 ust. 2 lub 4, towarzystwo tworzy portfele inwestycyjne subfunduszy.
 
-3. Subfundusze nie posiadajà osobowoÊci prawArt. 160. 1. Statut funduszu z wydzielonymi subfunduszami powinien zawieraç informacje, o których mowa w art. 18 ust. 2 pkt 10—12, pkt 14 oraz pkt 16 i 17, w odniesieniu do ka˝dego subfunduszu oddzielnie, aponadto wskazywaç oznaczenia poszczególnych subfunduszy.
+3. Subfundusze nie posiadają osobowości prawArt. 160. 1. Statut funduszu z wydzielonymi subfunduszami powinien zawierać informacje, o których mowa w art. 18 ust. 2 pkt 10—12, pkt 14 oraz pkt 16 i 17, w odniesieniu do każdego subfunduszu oddzielnie, aponadto wskazywać oznaczenia poszczególnych subfunduszy.
 
-2. Ograniczenia inwestycyjne, zasady dotyczàce polityki w zakresie zaciàgania kredytów i po˝yczek, udzielania po˝yczek papierów wartoÊciowych okreÊlone wustawie dla danego rodzaju funduszu stosuje si´ osobno w odniesieniu do wartoÊci aktywów ka˝dego subfunduszu, a w przypadku funduszu inwestycyjnego otwartego tak˝e w odniesieniu do wartoÊci aktywów funduszu.
+2. Ograniczenia inwestycyjne, zasady dotyczące polityki w zakresie zaciągania kredytów i pożyczek, udzielania pożyczek papierów wartościowych określone wustawie dla danego rodzaju funduszu stosuje się osobno w odniesieniu do wartości aktywów każdego subfunduszu, a w przypadku funduszu inwestycyjnego otwartego także w odniesieniu do wartości aktywów funduszu.
 
-3. Do portfela inwestycyjnego subfunduszu nie mogà byç nabywane jednostki uczestnictwa lub certyfikaty inwestycyjne zwiàzane z innym subfunduszem wydzielonym wtym samym funduszu inwestycyjnym.
+3. Do portfela inwestycyjnego subfunduszu nie mogą być nabywane jednostki uczestnictwa lub certyfikaty inwestycyjne związane z innym subfunduszem wydzielonym wtym samym funduszu inwestycyjnym.
 
-4. Cz´stotliwoÊç i sposób dokonywania wyceny nej. aktywów funduszu sà takie same we wszystkich subfunduszach.
+4. Częstotliwość i sposób dokonywania wyceny nej. aktywów funduszu są takie same we wszystkich subfunduszach.
 
 **Art. 161.**
 
-1. Zobowiàzania wynikajàce zposzczególnych subfunduszy obcià˝ajà tylko te subfundusze.
+1. Zobowiązania wynikające zposzczególnych subfunduszy obciążają tylko te subfundusze.
 
-2. Egzekucja mo˝e nastàpiç tylko z aktywów subfunduszu, z którego wynikajà zobowiàzania.
+2. Egzekucja może nastąpić tylko z aktywów subfunduszu, z którego wynikają zobowiązania.
 
-3. Zobowiàzania, które dotyczà ca∏ego funduszu, obcià˝ajà poszczególne subfundusze proporcjonalnie do udzia∏u wartoÊci aktywów netto subfunduszu w wartoÊci aktywów netto funduszu.
+3. Zobowiązania, które dotyczą całego funduszu, obciążają poszczególne subfundusze proporcjonalnie do udziału wartości aktywów netto subfunduszu w wartości aktywów netto funduszu.
 
 **Art. 162.**
 
-1. Je˝eli funduszem z wydzielonymi subfunduszami jest fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty:
+1. Jeżeli funduszem z wydzielonymi subfunduszami jest fundusz inwestycyjny otwarty lub specjalistyczny fundusz inwestycyjny otwarty:
 
-- **1)** fundusz wydziela wramach rejestru, októrym mowa w art. 87, subrejestry uczestników funduszu dla ka˝dego subfunduszu;
-- **2)** fundusz zbywa i odkupuje jednostki uczestnictwa subfunduszy po cenie wynikajàcej z podzielenia wartoÊci aktywów netto ka˝dego z subfunduszy przez liczb´ jednostek uczestnictwa wtym subfunduszu ustalonà na podstawie subrejestru uczestników tego subfunduszu w dniu wyceny;
-- **3)** we wszystkich subfunduszach powinny obowiàzywaç jednakowe zasady zbywania i odkupywania oraz zawieszania i wznawiania odkupywania jednostek uczestnictwa, w tym jednakowe warunki odkupywania jednostek uczestnictwa tej samej kategorii;
-- **4)** jednostki uczestnictwa subfunduszu nie mogà ró˝niç si´ od siebie zwiàzanym z nimi sposobem pobierania op∏at obcià˝ajàcych aktywa subfunduszu;
-- **5)** jednostki uczestnictwa subfunduszu mogà byç zamieniane na jednostki uczestnictwa innych subfunduszy funduszu, na zasadach okreÊlonych w statucie, z zastrze˝eniem pkt 7;
-- **6)** jednostki uczestnictwa subfunduszu stosujàcego zasady i ograniczenia inwestycyjne okreÊlone dla funduszu inwestycyjnego zamkni´tego mogà nabywaç wy∏àcznie osoby, o których mowa w art. 113 ust. 3;
-- **7)** jednostki uczestnictwa subfunduszu stosujàcego zasady i ograniczenia inwestycyjne okreÊlone dla funduszu inwestycyjnego zamkni´tego nie mogà byç zamieniane na jednostki uczestnictwa innego subfunduszu specjalistycznego funduszu inwestycyjnego otwartego stosujàcego zasady inwestycyjne okreÊlone dla funduszu otwartego.
+- **1)** fundusz wydziela wramach rejestru, októrym mowa w art. 87, subrejestry uczestników funduszu dla każdego subfunduszu;
+- **2)** fundusz zbywa i odkupuje jednostki uczestnictwa subfunduszy po cenie wynikającej z podzielenia wartości aktywów netto każdego z subfunduszy przez liczbę jednostek uczestnictwa wtym subfunduszu ustaloną na podstawie subrejestru uczestników tego subfunduszu w dniu wyceny;
+- **3)** we wszystkich subfunduszach powinny obowiązywać jednakowe zasady zbywania i odkupywania oraz zawieszania i wznawiania odkupywania jednostek uczestnictwa, w tym jednakowe warunki odkupywania jednostek uczestnictwa tej samej kategorii;
+- **4)** jednostki uczestnictwa subfunduszu nie mogą różnić się od siebie związanym z nimi sposobem pobierania opłat obciążających aktywa subfunduszu;
+- **5)** jednostki uczestnictwa subfunduszu mogą być zamieniane na jednostki uczestnictwa innych subfunduszy funduszu, na zasadach określonych w statucie, z zastrzeżeniem pkt 7;
+- **6)** jednostki uczestnictwa subfunduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego mogą nabywać wyłącznie osoby, o których mowa w art. 113 ust. 3;
+- **7)** jednostki uczestnictwa subfunduszu stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego nie mogą być zamieniane na jednostki uczestnictwa innego subfunduszu specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady inwestycyjne określone dla funduszu otwartego.
 
-2. Przepisy art. 89 ust. 4 i5 mogà mieç zastosowanie oddzielnie do ka˝dego subfunduszu, je˝eli statut funduszu tak stanowi.
+2. Przepisy art. 89 ust. 4 i5 mogą mieć zastosowanie oddzielnie do każdego subfunduszu, jeżeli statut funduszu tak stanowi.
 
-**Art. 163.** Je˝eli funduszem zwydzielonymi subfunduszami jest fundusz inwestycyjny zamkni´ty:
+**Art. 163.** Jeżeli funduszem zwydzielonymi subfunduszami jest fundusz inwestycyjny zamknięty:
 
 **Art. 164.**
 
-1. Fundusz z wydzielonymi subfundusza2. Utworzenie nowego subfunduszu wymaga zmiany statutu funduszu, a w przypadku funduszu zamkni´tego emitujàcego certyfikaty podlegajàce wprowadzeniu do publicznego obrotu, tak˝e dopuszczenia certyfikatów inwestycyjnych, które b´dà zwiàzane z tym subfunduszem, do publicznego obrotu.
+1. Fundusz z wydzielonymi subfundusza2. Utworzenie nowego subfunduszu wymaga zmiany statutu funduszu, a w przypadku funduszu zamkniętego emitującego certyfikaty podlegające wprowadzeniu do publicznego obrotu, także dopuszczenia certyfikatów inwestycyjnych, które będą związane z tym subfunduszem, do publicznego obrotu.
 
-3. Statut funduszu powinien okreÊlaç zasady tworzenia nowych subfunduszy, w szczególnoÊci sposób i termin dokonywania wp∏at do subfunduszu.
+3. Statut funduszu powinien określać zasady tworzenia nowych subfunduszy, w szczególności sposób i termin dokonywania wpłat do subfunduszu.
 
-4. Utworzenie subfunduszy okreÊlonych wstatucie funduszu nie wymaga zmiany statutu funduszu.
+4. Utworzenie subfunduszy określonych wstatucie funduszu nie wymaga zmiany statutu funduszu.
 
 **Art. 165.**
 
-1. Fundusz z wydzielonymi subfunduszami mo˝e dokonaç likwidacji subfunduszu, o ile statut funduszu to przewiduje. W takim przypadku statut funduszu okreÊla czas, na jaki subfundusz jest utworzony, lub przes∏anki jego likwidacji oraz szczegó∏owy tryb, zasady i warunki likwidacji subfunduszu.
+1. Fundusz z wydzielonymi subfunduszami może dokonać likwidacji subfunduszu, o ile statut funduszu to przewiduje. W takim przypadku statut funduszu określa czas, na jaki subfundusz jest utworzony, lub przesłanki jego likwidacji oraz szczegółowy tryb, zasady i warunki likwidacji subfunduszu.
 
-2. Statut funduszu mo˝e dopuszczaç likwidacj´ mi mo˝e tworzyç nowe subfundusze. subfunduszu w przypadku zbycia przez fundusz wszystkich lokat wchodzàcych w sk∏ad portfela inwestycyjnego tego subfunduszu.
+2. Statut funduszu może dopuszczać likwidację mi może tworzyć nowe subfundusze. subfunduszu w przypadku zbycia przez fundusz wszystkich lokat wchodzących w skład portfela inwestycyjnego tego subfunduszu.
 
-3. W trybie, o którym mowa w ust. 1, fundusz nie mo˝e zlikwidowaç wszystkich subfunduszy.
+3. W trybie, o którym mowa w ust. 1, fundusz nie może zlikwidować wszystkich subfunduszy.
 
-4. Uchwa∏a w∏aÊciwego organu towarzystwa o likwidacji ostatniego istniejàcego subfunduszu stanowi przes∏ank´ rozwiàzania funduszu inwestycyjnego.
+4. Uchwała właściwego organu towarzystwa o likwidacji ostatniego istniejącego subfunduszu stanowi przesłankę rozwiązania funduszu inwestycyjnego.
 
-**Art. 166.** Je˝eli statut funduszu z wydzielonymi subfunduszami przewiduje, ˝e subfundusze mogà byç denominowane w ró˝nych walutach, powinien wskazywaç walut´, wktórej denominowany b´dzie fundusz inwestycyjny.
+**Art. 166.** Jeżeli statut funduszu z wydzielonymi subfunduszami przewiduje, że subfundusze mogą być denominowane w różnych walutach, powinien wskazywać walutę, wktórej denominowany będzie fundusz inwestycyjny.
 
 **Art. 167.**
 
-1. W przypadku gdy subfundusze ró˝nià si´ stosowanà politykà inwestycyjnà, mogà one byç zarzàdzane przez wi´cej ni˝ jeden podmiot, o którym mowa w art. 46 ust. 1—3.
+1. W przypadku gdy subfundusze różnią się stosowaną polityką inwestycyjną, mogą one być zarządzane przez więcej niż jeden podmiot, o którym mowa w art. 46 ust. 1—3.
 
-2. Wprzypadku, októrym mowa wust. 1, towarzystwo obowiàzane jest do stosowania procedur, których celem jest unikni´cie naruszenia przepisów odnoszàcych si´ do dywersyfikacji lokat funduszu inwestycyjnego.
+2. Wprzypadku, októrym mowa wust. 1, towarzystwo obowiązane jest do stosowania procedur, których celem jest uniknięcie naruszenia przepisów odnoszących się do dywersyfikacji lokat funduszu inwestycyjnego.
 
-**Art. 168.** Subfundusze funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zwydzielonymi subfunduszami mogà byç ∏àczone. Do ∏àczenia subfunduszy stosuje si´ odpowiednio przepisy dotyczàce ∏àczenia funduszy inwestycyjnych otwartych.
+**Art. 168.** Subfundusze funduszu inwestycyjnego otwartego lub specjalistycznego funduszu inwestycyjnego otwartego zwydzielonymi subfunduszami mogą być łączone. Do łączenia subfunduszy stosuje się odpowiednio przepisy dotyczące łączenia funduszy inwestycyjnych otwartych.
 
-**Art. 169.** Fundusz z wydzielonymi subfunduszami jest obowiàzany sporzàdzaç roczne i pó∏roczne po∏àczone sprawozdania finansowe obejmujàce wszystkie jego subfundusze oraz roczne i pó∏roczne jednostkowe sprawozdania finansowe dla ka˝dego subfunduszu. Rozdzia∏ 3 Fundusze inwestycyjne podstawowe i powiàzane
+**Art. 169.** Fundusz z wydzielonymi subfunduszami jest obowiązany sporządzać roczne i półroczne połączone sprawozdania finansowe obejmujące wszystkie jego subfundusze oraz roczne i półroczne jednostkowe sprawozdania finansowe dla każdego subfunduszu.
+
+#### Rozdział 3 Fundusze inwestycyjne podstawowe i powiązane
 
 **Art. 170.**
 
-1. Towarzystwo mo˝e utworzyç fundusz inwestycyjny (fundusz podstawowy), który b´dzie zbywa∏ jednostki uczestnictwa albo emitowa∏ certyfikaty inwestycyjne wy∏àcznie okreÊlonym w statucie innym funduszom inwestycyjnym utworzonym przez to samo towarzystwo (fundusze powiàzane).
+1. Towarzystwo może utworzyć fundusz inwestycyjny (fundusz podstawowy), który będzie zbywał jednostki uczestnictwa albo emitował certyfikaty inwestycyjne wyłącznie określonym w statucie innym funduszom inwestycyjnym utworzonym przez to samo towarzystwo (fundusze powiązane).
 
-2. Fundusze powiàzane mogà lokowaç swoje aktywa wy∏àcznie w jednostki uczestnictwa albo certyfikaty inwestycyjne funduszu podstawowego.
+2. Fundusze powiązane mogą lokować swoje aktywa wyłącznie w jednostki uczestnictwa albo certyfikaty inwestycyjne funduszu podstawowego.
 
-3. Fundusze powiàzane mogà utrzymywaç, wy∏àcznie wzakresie niezb´dnym do zaspokojenia bie˝àcych zobowiàzaƒ funduszu, cz´Êç swoich aktywów na rachunkach bankowych.
+3. Fundusze powiązane mogą utrzymywać, wyłącznie wzakresie niezbędnym do zaspokojenia bieżących zobowiązań funduszu, część swoich aktywów na rachunkach bankowych.
 
 **Art. 171.**
 
-1. Fundusz podstawowy lub fundusz powiàzany mo˝e byç utworzony jako jeden z funduszy inwestycyjnych, o których mowa w art. 14 ust. 3.
+1. Fundusz podstawowy lub fundusz powiązany może być utworzony jako jeden z funduszy inwestycyjnych, o których mowa w art. 14 ust. 3.
 
-2. Fundusz podstawowy i fundusze powiàzane mogà byç funduszami ró˝nego rodzaju.
+2. Fundusz podstawowy i fundusze powiązane mogą być funduszami różnego rodzaju.
 
-3. Fundusz podstawowy stosuje zasady i ograniczenia inwestycyjne okreÊlone w ustawie odpowiednio do rodzaju funduszu, w jakim zosta∏ utworzony.
+3. Fundusz podstawowy stosuje zasady i ograniczenia inwestycyjne określone w ustawie odpowiednio do rodzaju funduszu, w jakim został utworzony.
 
-4. Fundusz powiàzany nie mo˝e zaciàgaç kredytów i po˝yczek, udzielaç po˝yczek papierów wartoÊciowych lub Êrodków pieni´˝nych oraz udzielaç por´czeƒ lub gwarancji.
+4. Fundusz powiązany nie może zaciągać kredytów i pożyczek, udzielać pożyczek papierów wartościowych lub środków pieniężnych oraz udzielać poręczeń lub gwarancji.
 
-5. Je˝eli fundusz podstawowy jest funduszem inwestycyjnym zamkni´tym, a fundusze powiàzane sà funduszami inwestycyjnymi otwartymi, fundusz podstawowy jest obowiàzany utrzymywaç cz´Êç swoich aktywów w instrumentach rynku pieni´˝nego lub na rachunkach bankowych, wcelu zapewnienia sprawnego odkupywania jednostek uczestnictwa przez fundusze powiàzane.
+5. Jeżeli fundusz podstawowy jest funduszem inwestycyjnym zamkniętym, a fundusze powiązane są funduszami inwestycyjnymi otwartymi, fundusz podstawowy jest obowiązany utrzymywać część swoich aktywów w instrumentach rynku pieniężnego lub na rachunkach bankowych, wcelu zapewnienia sprawnego odkupywania jednostek uczestnictwa przez fundusze powiązane.
 
 **Art. 172.**
 
-1. Fundusz podstawowy ma prawo iobowiàzek u˝ywania w nazwie oznaczenia „podstawowy”.
+1. Fundusz podstawowy ma prawo iobowiązek używania w nazwie oznaczenia Ńpodstawowy”.
 
-2. Fundusz powiàzany ma prawo i obowiàzek u˝ywania w nazwie oznaczenia „powiàzany”.
+2. Fundusz powiązany ma prawo i obowiązek używania w nazwie oznaczenia Ńpowiązany”.
 
 **Art. 173.**
 
-1. Wraz zwnioskiem outworzenie funduszu podstawowego towarzystwo sk∏ada wniosek o utworzenie co najmniej dwóch funduszy powiàzanych.
+1. Wraz zwnioskiem outworzenie funduszu podstawowego towarzystwo składa wniosek o utworzenie co najmniej dwóch funduszy powiązanych.
 
-2. Je˝eli Komisja nie udzieli zezwolenia na utworzenie funduszu podstawowego, nie udziela zezwolenia na utworzenie funduszy powiàzanych.
+2. Jeżeli Komisja nie udzieli zezwolenia na utworzenie funduszu podstawowego, nie udziela zezwolenia na utworzenie funduszy powiązanych.
 
-3. Do utworzenia funduszu podstawowego jest twa albo certyfikaty inwestycyjne przez fundusze powiàzane.
+3. Do utworzenia funduszu podstawowego jest twa albo certyfikaty inwestycyjne przez fundusze powiązane.
 
-4. Przyjmowanie zapisów na jednostki uczestnictwa albo certyfikaty inwestycyjne funduszu podstawowego rozpoczyna si´ nie wczeÊniej ni˝ w dniu nast´pujàcym po dniu dor´czenia postanowieƒ sàdu owpisie funduszy powiàzanych do rejestru funduszy inwestycyjnych. Termin przyjmowania zapisów nie mo˝e byç d∏u˝szy ni˝ 7 dni.
+4. Przyjmowanie zapisów na jednostki uczestnictwa albo certyfikaty inwestycyjne funduszu podstawowego rozpoczyna się nie wcześniej niż w dniu następującym po dniu doręczenia postanowień sądu owpisie funduszy powiązanych do rejestru funduszy inwestycyjnych. Termin przyjmowania zapisów nie może być dłuższy niż 7 dni.
 
-5. W przypadku gdy funduszem podstawowym jest fundusz inwestycyjny zamkni´ty, do oferowania certyfikatów inwestycyjnych nie stosuje si´ przepisów o publicznym obrocie papierami wartoÊciowymi.
+5. W przypadku gdy funduszem podstawowym jest fundusz inwestycyjny zamknięty, do oferowania certyfikatów inwestycyjnych nie stosuje się przepisów o publicznym obrocie papierami wartościowymi.
 
-6. Uprawnionymi do z∏o˝enia zapisu na jednostki uczestnictwa lub certyfikaty inwestycyjne funduszu podstawowego sà wy∏àcznie fundusze powiàzane, o których mowa w statucie funduszu podstawowego.
+6. Uprawnionymi do złożenia zapisu na jednostki uczestnictwa lub certyfikaty inwestycyjne funduszu podstawowego są wyłącznie fundusze powiązane, o których mowa w statucie funduszu podstawowego.
 
-7. Wpis wszystkich funduszy powiàzanych z tym samym funduszem podstawowym do rejestru funduszy inwestycyjnych nast´puje jednoczeÊnie.
+7. Wpis wszystkich funduszy powiązanych z tym samym funduszem podstawowym do rejestru funduszy inwestycyjnych następuje jednocześnie.
 
-**Art. 174.** W przypadku rozwiàzania funduszu podstawowego ulegajà rozwiàzaniu fundusze powiàzane.
+**Art. 174.** W przypadku rozwiązania funduszu podstawowego ulegają rozwiązaniu fundusze powiązane.
 
 **Art. 175.**
 
-1. Fundusz podstawowy utworzony jako fundusz inwestycyjny otwarty albo specjalistyczny fundusz inwestycyjny otwarty nie ma obowiàzku sporzàdzania prospektu informacyjnego lub skrótu tego prospektu.
+1. Fundusz podstawowy utworzony jako fundusz inwestycyjny otwarty albo specjalistyczny fundusz inwestycyjny otwarty nie ma obowiązku sporządzania prospektu informacyjnego lub skrótu tego prospektu.
 
-2. Fundusz podstawowy utworzony jako fundusz inwestycyjny zamkni´ty nie ma obowiàzku sporzàdzania prospektu emisyjnego lub warunków emisji.
+2. Fundusz podstawowy utworzony jako fundusz inwestycyjny zamknięty nie ma obowiązku sporządzania prospektu emisyjnego lub warunków emisji.
 
-3. Fundusz powiàzany utworzony jako fundusz inwestycyjny otwarty albo specjalistyczny fundusz inwestycyjny otwarty ma obowiàzek zamieszczenia wprospekcie informacyjnym oraz wskrócie tego prospektu dodatkowo informacji o funduszu podstawowym oraz ryzyku inwestycyjnym zwiàzanym zpolitykà inwestycyjnà tego funduszu w takim samym zakresie, jaki jest wymagany dla funduszu powiàzanego.
+3. Fundusz powiązany utworzony jako fundusz inwestycyjny otwarty albo specjalistyczny fundusz inwestycyjny otwarty ma obowiązek zamieszczenia wprospekcie informacyjnym oraz wskrócie tego prospektu dodatkowo informacji o funduszu podstawowym oraz ryzyku inwestycyjnym związanym zpolityką inwestycyjną tego funduszu w takim samym zakresie, jaki jest wymagany dla funduszu powiązanego.
 
-4. Fundusz powiàzany, utworzony jako fundusz inwestycyjny zamkni´ty, ma obowiàzek zamieszczenia wprospekcie emisyjnym albo wwarunkach emisji dodatkowo informacji o funduszu podstawowym oraz ryzyku inwestycyjnym zwiàzanym z politykà inwestycyjnà tego funduszu wtakim samym zakresie, jaki jest wymagany dla funduszu powiàzanego.
+4. Fundusz powiązany, utworzony jako fundusz inwestycyjny zamknięty, ma obowiązek zamieszczenia wprospekcie emisyjnym albo wwarunkach emisji dodatkowo informacji o funduszu podstawowym oraz ryzyku inwestycyjnym związanym z polityką inwestycyjną tego funduszu wtakim samym zakresie, jaki jest wymagany dla funduszu powiązanego.
 
-**Art. 176.** Wymogi dotyczàce minimalnej wysokoÊci aktywów netto funduszu inwestycyjnego otwartego nie majà zastosowania do funduszu inwestycyjnego otwartego b´dàcego funduszem powiàzanym.
+**Art. 176.** Wymogi dotyczące minimalnej wysokości aktywów netto funduszu inwestycyjnego otwartego nie mają zastosowania do funduszu inwestycyjnego otwartego będącego funduszem powiązanym.
 
-**Art. 177.** Fundusz podstawowy oraz fundusze powymagane z∏o˝enie zapisów na jednostki uczestnicwiàzane nie mogà byç utworzone jako fundusze inwestycyjne z wydzielonymi subfunduszami. DZIA¸ VII Szczególne typy funduszy inwestycyjnych Rozdzia∏ 1 Fundusz rynku pieni´˝nego
+**Art. 177.** Fundusz podstawowy oraz fundusze powymagane złożenie zapisów na jednostki uczestnicwiązane nie mogą być utworzone jako fundusze inwestycyjne z wydzielonymi subfunduszami. DZIAĘ VII Szczególne typy funduszy inwestycyjnych
+
+#### Rozdział 1 Fundusz rynku pieniężnego
 
 **Art. 178.**
 
-1. Fundusz inwestycyjny otwarty mo˝e byç utworzony jako fundusz rynku pieni´˝nego pod warunkiem, ˝e fundusz lokuje aktywa wy∏àcznie w:
+1. Fundusz inwestycyjny otwarty może być utworzony jako fundusz rynku pieniężnego pod warunkiem, że fundusz lokuje aktywa wyłącznie w:
 
-- **1)** instrumenty rynku pieni´˝nego;
-- **2)** depozyty oterminie zapadalnoÊci nie d∏u˝szym ni˝ rok p∏atne na ˝àdanie lub które mo˝na wycofaç przed terminem zapadalnoÊci, w bankach krajowych, instytucjach kredytowych o wysokim stopniu bezpieczeƒstwa.
+- **1)** instrumenty rynku pieniężnego;
+- **2)** depozyty oterminie zapadalności nie dłuższym niż rok płatne na żądanie lub które można wycofać przed terminem zapadalności, w bankach krajowych, instytucjach kredytowych o wysokim stopniu bezpieczeństwa.
 
-2. Maksymalny, wa˝ony wartoÊcià lokat, Êredni termin do wykupu lokat wchodzàcych w sk∏ad portfela inwestycyjnego funduszu nie mo˝e byç d∏u˝szy ni˝ 90 dni.
+2. Maksymalny, ważony wartością lokat, średni termin do wykupu lokat wchodzących w skład portfela inwestycyjnego funduszu nie może być dłuższy niż 90 dni.
 
-3. Fundusz, októrym mowa wust. 1, ma wy∏àczne prawo u˝ywania w nazwie oznaczenia „rynku pieni´˝nego”.
+3. Fundusz, októrym mowa wust. 1, ma wyłączne prawo używania w nazwie oznaczenia Ńrynku pieniężnego”.
 
-4. Minister w∏aÊciwy do spraw instytucji finansowych okreÊli, w drodze rozporzàdzenia:
+4. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia:
 
-- **1)** warunki, jakie muszà spe∏niaç lokaty funduszu, emitenci, por´czyciele lub gwaranci instrumentów rynku pieni´˝nego, banki krajowe oraz instytucje kredytowe,
-- **2)** zasady oceny bezpieczeƒstwa lokat z uwzgl´dnieniem zdolnoÊci do wywiàzywania si´ emitentów lub banków krajowych, instytucji kredytowych z zobowiàzaƒ, w tym przez wskazanie minimalnego poziomu oceny inwestycyjnej (ratingu) dokonanej przez wyspecjalizowane instytucje okreÊlone w rozporzàdzeniu,
-- **3)** przypadki, w których fundusz jest obowiàzany zbyç instrumenty rynku pieni´˝nego,
-- **4)** sposób obliczania maksymalnego Êredniego wa˝onego wartoÊcià lokat terminu do wykupu lokat wchodzàcych w sk∏ad portfela inwestycyjnego funduszu wcelu zapewnienia odpowiedniego poziomu bezpieczeƒstwa lokat funduszu rynku pieni´˝nego. Rozdzia∏ 2 Fundusz portfelowy
+- **1)** warunki, jakie muszą spełniać lokaty funduszu, emitenci, poręczyciele lub gwaranci instrumentów rynku pieniężnego, banki krajowe oraz instytucje kredytowe,
+- **2)** zasady oceny bezpieczeństwa lokat z uwzględnieniem zdolności do wywiązywania się emitentów lub banków krajowych, instytucji kredytowych z zobowiązań, w tym przez wskazanie minimalnego poziomu oceny inwestycyjnej (ratingu) dokonanej przez wyspecjalizowane instytucje określone w rozporządzeniu,
+- **3)** przypadki, w których fundusz jest obowiązany zbyć instrumenty rynku pieniężnego,
+- **4)** sposób obliczania maksymalnego średniego ważonego wartością lokat terminu do wykupu lokat wchodzących w skład portfela inwestycyjnego funduszu wcelu zapewnienia odpowiedniego poziomu bezpieczeństwa lokat funduszu rynku pieniężnego.
+
+#### Rozdział 2 Fundusz portfelowy
 
 **Art. 179.**
 
-1. Fundusz inwestycyjny zamkni´ty mo˝e byç utworzony jako fundusz portfelowy dokonujàcy w sposób ciàg∏y emisji certyfikatów inwestycyjnych podlegajàcych wprowadzeniu do publicznego obrotu, pod warunkiem ˝e fundusz lokuje swoje aktywa wy2. Fundusz portfelowy nie mo˝e byç utworzony jako fundusz inwestycyjny z wydzielonymi subfunduszami.
+1. Fundusz inwestycyjny zamknięty może być utworzony jako fundusz portfelowy dokonujący w sposób ciągły emisji certyfikatów inwestycyjnych podlegających wprowadzeniu do publicznego obrotu, pod warunkiem że fundusz lokuje swoje aktywa wy2. Fundusz portfelowy nie może być utworzony jako fundusz inwestycyjny z wydzielonymi subfunduszami.
 
-3. Do emisji certyfikatów inwestycyjnych oraz do certyfikatów inwestycyjnych funduszu portfelowego nie stosuje si´ przepisów art. 119 i 120, art. 129 i 130, art. 132 oraz art. 134.
+3. Do emisji certyfikatów inwestycyjnych oraz do certyfikatów inwestycyjnych funduszu portfelowego nie stosuje się przepisów art. 119 i 120, art. 129 i 130, art. 132 oraz art. 134.
 
-4. Wydanie przez Komisj´ zezwolenia na utworzenie funduszu portfelowego jest równoznaczne z dopuszczeniem do publicznego obrotu wszystkich certyfikatów inwestycyjnych pierwszej i nast´pnych emisji tego funduszu, pod warunkiem zarejestrowania funduszu w rejestrze funduszy inwestycyjnych.
+4. Wydanie przez Komisję zezwolenia na utworzenie funduszu portfelowego jest równoznaczne z dopuszczeniem do publicznego obrotu wszystkich certyfikatów inwestycyjnych pierwszej i następnych emisji tego funduszu, pod warunkiem zarejestrowania funduszu w rejestrze funduszy inwestycyjnych.
 
-5. Fundusz portfelowy jest obowiàzany, wterminie 7 dni od dnia wpisania funduszu do rejestru funduszy inwestycyjnych, do z∏o˝enia wniosku o dopuszczenie certyfikatów inwestycyjnych do obrotu na rynku gie∏dowym lub regulowanym rynku pozagie∏dowym, przy czym dopuszczenie certyfikatów do obrotu na rynku ∏àcznie w sposób okreÊlony w art. 182. gie∏dowym lub regulowanym rynku pozagie∏dowym dotyczy certyfikatów inwestycyjnych pierwszej i nast´pnych emisji tego funduszu.
+5. Fundusz portfelowy jest obowiązany, wterminie 7 dni od dnia wpisania funduszu do rejestru funduszy inwestycyjnych, do złożenia wniosku o dopuszczenie certyfikatów inwestycyjnych do obrotu na rynku giełdowym lub regulowanym rynku pozagiełdowym, przy czym dopuszczenie certyfikatów do obrotu na rynku łącznie w sposób określony w art. 182. giełdowym lub regulowanym rynku pozagiełdowym dotyczy certyfikatów inwestycyjnych pierwszej i następnych emisji tego funduszu.
 
 **Art. 180.**
 
-1. Statut funduszu portfelowego okreÊla szczegó∏owo zasady emisji certyfikatów inwestycyjnych, w szczególnoÊci sposób ustalenia ceny emisyjnej, oraz zasady wykupu certyfikatów inwestycyjnych.
+1. Statut funduszu portfelowego określa szczegółowo zasady emisji certyfikatów inwestycyjnych, w szczególności sposób ustalenia ceny emisyjnej, oraz zasady wykupu certyfikatów inwestycyjnych.
 
-2. Emisja certyfikatów inwestycyjnych funduszu portfelowego mo˝e nast´powaç w wyniku wniesienia do funduszu, na zasadach okreÊlonych wstatucie, odpowiadajàcego certyfikatowi funduszu pakietu papierów wartoÊciowych lub jego wielokrotnoÊci lub pakietu tytu∏ów uczestnictwa w instytucjach wspólnego inwestowania majàcych siedzib´ za granicà lub jego wielokrotnoÊci oraz Êrodków pieni´˝nych, je˝eli statut funduszu tak stanowi.
+2. Emisja certyfikatów inwestycyjnych funduszu portfelowego może następować w wyniku wniesienia do funduszu, na zasadach określonych wstatucie, odpowiadającego certyfikatowi funduszu pakietu papierów wartościowych lub jego wielokrotności lub pakietu tytułów uczestnictwa w instytucjach wspólnego inwestowania mających siedzibę za granicą lub jego wielokrotności oraz środków pieniężnych, jeżeli statut funduszu tak stanowi.
 
-3. Wykupienie certyfikatów inwestycyjnych funduszu portfelowego mo˝e nastàpiç w drodze przeniesienia, na ˝àdanie uczestnika funduszu, w∏asnoÊci odpowiadajàcego certyfikatowi inwestycyjnemu pakietu papierów wartoÊciowych lub pakietu tytu∏ów uczestnictwa winstytucjach wspólnego inwestowania majàcych siedzib´ za granicà oraz Êrodków pieni´˝nych w proporcji okreÊlonej w statucie, je˝eli statut funduszu tak stanowi.
+3. Wykupienie certyfikatów inwestycyjnych funduszu portfelowego może nastąpić w drodze przeniesienia, na żądanie uczestnika funduszu, własności odpowiadającego certyfikatowi inwestycyjnemu pakietu papierów wartościowych lub pakietu tytułów uczestnictwa winstytucjach wspólnego inwestowania mających siedzibę za granicą oraz środków pieniężnych w proporcji określonej w statucie, jeżeli statut funduszu tak stanowi.
 
-4. Do papierów wartoÊciowych, o których mowa wust. 3, nie stosuje si´ wymogu dokonywania obrotu na rynku regulowanym, okreÊlonego w art. 5 ust. 1 pkt 2 prawa o publicznym obrocie papierami wartoÊciowymi.
+4. Do papierów wartościowych, o których mowa wust. 3, nie stosuje się wymogu dokonywania obrotu na rynku regulowanym, określonego w art. 5 ust. 1 pkt 2 prawa o publicznym obrocie papierami wartościowymi.
 
 **Art. 181.**
 
-1. Je˝eli statut funduszu portfelowego stanowi, ˝e jeden certyfikat inwestycyjny funduszu odzwierciedla ÊciÊle okreÊlony pakiet papierów wartoÊciowych, uczestnik funduszu mo˝e wykonywaç prawo g∏osu na walnych zgromadzeniach akcjonariuszy emitentów papierów wartoÊciowych wchodzàcych w sk∏ad pakietu osobiÊcie, pod warunkiem z∏o˝enia udanego emitenta, najpóêniej na tydzieƒ przed odbyciem walnego zgromadzenia akcjonariuszy, Êwiadectwa depozytowego wydanego przez fundusz, bàdê przez wydanie funduszowi dyspozycji dotyczàcych wykonywania prawa g∏osu zpapierów wartoÊciowych wchodzàcych w sk∏ad pakietu odzwierciedlonego wposiadanych przez uczestnika certyfikatach inwestycyjnych.
+1. Jeżeli statut funduszu portfelowego stanowi, że jeden certyfikat inwestycyjny funduszu odzwierciedla ściśle określony pakiet papierów wartościowych, uczestnik funduszu może wykonywać prawo głosu na walnych zgromadzeniach akcjonariuszy emitentów papierów wartościowych wchodzących w skład pakietu osobiście, pod warunkiem złożenia udanego emitenta, najpóêniej na tydzień przed odbyciem walnego zgromadzenia akcjonariuszy, świadectwa depozytowego wydanego przez fundusz, bądê przez wydanie funduszowi dyspozycji dotyczących wykonywania prawa głosu zpapierów wartościowych wchodzących w skład pakietu odzwierciedlonego wposiadanych przez uczestnika certyfikatach inwestycyjnych.
 
-2. Fundusz wydaje Êwiadectwo depozytowe po zablokowaniu na rachunku papierów wartoÊciowych funduszu liczby papierów wartoÊciowych, z których uczestnik mo˝e wykonywaç prawo g∏osu na walnym zgromadzeniu akcjonariuszy emitenta, którego dotyczy Êwiadectwo depozytowe, na podstawie przedstawionego przez uczestnika dokumentu wydanego przez dom maklerski potwierdzajàcego blokad´ certyfikatów inwestycyjnych na rachunku papierów wartoÊciowych tego uczestnika.
+2. Fundusz wydaje świadectwo depozytowe po zablokowaniu na rachunku papierów wartościowych funduszu liczby papierów wartościowych, z których uczestnik może wykonywać prawo głosu na walnym zgromadzeniu akcjonariuszy emitenta, którego dotyczy świadectwo depozytowe, na podstawie przedstawionego przez uczestnika dokumentu wydanego przez dom maklerski potwierdzającego blokadę certyfikatów inwestycyjnych na rachunku papierów wartościowych tego uczestnika.
 
-3. Liczb´ papierów wartoÊciowych, z których uczestnik mo˝e wykonywaç prawo g∏osu na walnym zgromadzeniu akcjonariuszy emitenta, fundusz ustala przez pomno˝enie liczby papierów danego emitenta odzwierciedlonych w certyfikacie inwestycyjnym przez liczb´ wszystkich zablokowanych przez uczestnika certyfikatów inwestycyjnych. Je˝eli ustalona w ten sposób liczba papierów wartoÊciowych nie jest liczbà ca∏kowità, liczb´ t´ fundusz zaokràgla w dó∏ do liczby ca∏kowitej.
+3. Liczbę papierów wartościowych, z których uczestnik może wykonywać prawo głosu na walnym zgromadzeniu akcjonariuszy emitenta, fundusz ustala przez pomnożenie liczby papierów danego emitenta odzwierciedlonych w certyfikacie inwestycyjnym przez liczbę wszystkich zablokowanych przez uczestnika certyfikatów inwestycyjnych. Jeżeli ustalona w ten sposób liczba papierów wartościowych nie jest liczbą całkowitą, liczbę tę fundusz zaokrągla w dół do liczby całkowitej.
 
-4. Wydanie przez fundusz Êwiadectwa depozytowego jest równoznaczne zupe∏nomocnieniem uczestnika funduszu do udzia∏u wwalnym zgromadzeniu akcjonariuszy emitenta i wykonywania prawa g∏osu z papierów wartoÊciowych wskazanych w Êwiadectwie.
+4. Wydanie przez fundusz świadectwa depozytowego jest równoznaczne zupełnomocnieniem uczestnika funduszu do udziału wwalnym zgromadzeniu akcjonariuszy emitenta i wykonywania prawa głosu z papierów wartościowych wskazanych w świadectwie.
 
-5. Fundusz nie mo˝e wydawaç uczestnikowi ˝adnych instrukcji w zakresie sposobu g∏osowania.
+5. Fundusz nie może wydawać uczestnikowi żadnych instrukcji w zakresie sposobu głosowania.
 
-6. Statut funduszu okreÊla tryb i terminy wydawania Êwiadectwa depozytowego, o którym mowa w ust. 1.
+6. Statut funduszu określa tryb i terminy wydawania świadectwa depozytowego, o którym mowa w ust. 1.
 
-7. Do Êwiadectwa depozytowego stosuje si´ przepisy art. 10 ust. 2 iart. 11 prawa opublicznym obrocie papierami wartoÊciowymi.
+7. Do świadectwa depozytowego stosuje się przepisy art. 10 ust. 2 iart. 11 prawa opublicznym obrocie papierami wartościowymi.
 
-8. Liczb´ papierów wartoÊciowych danego emitenta znajdujàcych si´ w portfelu inwestycyjnym funduszu, z których fundusz mo˝e wykonywaç prawo g∏osu na walnym zgromadzeniu akcjonariuszy tego emitenta, pomniejsza si´ o∏àcznà liczb´ papierów wartoÊciowych tego emitenta wskazanych we wszystkich wydanych przez fundusz Êwiadectwach depozytowych dotyczàcych papierów wartoÊciowych tego emitenta.
+8. Liczbę papierów wartościowych danego emitenta znajdujących się w portfelu inwestycyjnym funduszu, z których fundusz może wykonywać prawo głosu na walnym zgromadzeniu akcjonariuszy tego emitenta, pomniejsza się ołączną liczbę papierów wartościowych tego emitenta wskazanych we wszystkich wydanych przez fundusz świadectwach depozytowych dotyczących papierów wartościowych tego emitenta.
 
 **Art. 182.**
 
-1. Statut funduszu okreÊla zasady konstrukcji i sk∏ad portfela inwestycyjnego.
+1. Statut funduszu określa zasady konstrukcji i skład portfela inwestycyjnego.
 
 2. Portfel inwestycyjny funduszu powinien:
 
-- **1)** opieraç si´ na sk∏adzie portfela papierów wartoÊciowych stanowiàcego podstaw´ do ustalania urz´dowego papierów wartoÊciowych (portfel indeksowy) albo
-- **2)** stanowiç portfel o sk∏adzie okreÊlonym w statucie funduszu nieopartym na indeksie, októrym mowa w pkt 1 (portfel bazowy).
+- **1)** opierać się na składzie portfela papierów wartościowych stanowiącego podstawę do ustalania urzędowego papierów wartościowych (portfel indeksowy) albo
+- **2)** stanowić portfel o składzie określonym w statucie funduszu nieopartym na indeksie, októrym mowa w pkt 1 (portfel bazowy).
 
-3. Zmiana sk∏adu portfela inwestycyjnego funduszu jest dopuszczalna wy∏àcznie w przypadku:
+3. Zmiana składu portfela inwestycyjnego funduszu jest dopuszczalna wyłącznie w przypadku:
 
-- **1)** zmiany sposobu konstrukcji lub sk∏adu portfela papierów wartoÊciowych, na którym oparty jest portfel indeksowy;
-- **2)** przekszta∏cenia, po∏àczenia, podzia∏u lub innego zdarzenia o podobnym charakterze dotyczàcego emitenta papierów wartoÊciowych, które wchodzà w sk∏ad portfela bazowego, lub podzia∏u, wymiany, zmiany wartoÊci nominalnej lub innej zmiany warunków emisji takich papierów wartoÊciowych lub zajÊcia innego zdarzenia o podobnym charakterze powodujàcego zmian´ wartoÊci lub praw z papierów wartoÊciowych wchodzàcych w sk∏ad wartoÊci uznanego indeksu regulowanego rynku portfela bazowego;
-- **3)** wycofania z obrotu na regulowanym rynku urz´dowym papierów wartoÊciowych, wktóre zgodnie ze statutem fundusz dokonuje lokat;
-- **4)** zajÊcia innych zdarzeƒ okreÊlonych szczegó∏owo w statucie funduszu.
+- **1)** zmiany sposobu konstrukcji lub składu portfela papierów wartościowych, na którym oparty jest portfel indeksowy;
+- **2)** przekształcenia, połączenia, podziału lub innego zdarzenia o podobnym charakterze dotyczącego emitenta papierów wartościowych, które wchodzą w skład portfela bazowego, lub podziału, wymiany, zmiany wartości nominalnej lub innej zmiany warunków emisji takich papierów wartościowych lub zajścia innego zdarzenia o podobnym charakterze powodującego zmianę wartości lub praw z papierów wartościowych wchodzących w skład wartości uznanego indeksu regulowanego rynku portfela bazowego;
+- **3)** wycofania z obrotu na regulowanym rynku urzędowym papierów wartościowych, wktóre zgodnie ze statutem fundusz dokonuje lokat;
+- **4)** zajścia innych zdarzeń określonych szczegółowo w statucie funduszu.
 
-4. Limit, o którym mowa w art. 145 ust. 3, mo˝e byç podwy˝szony do 35 % wartoÊci aktywów funduszu w przypadku, gdy udzia∏ akcji lub d∏u˝nych papierów wartoÊciowych jednego emitenta w indeksie wzroÊnie. Limit ten mo˝e dotyczyç akcji lub d∏u˝nych papierów wartoÊciowych wy∏àcznie jednego emitenta. Rozdzia∏ 3 Fundusz sekurytyzacyjny
+4. Limit, o którym mowa w art. 145 ust. 3, może być podwyższony do 35 % wartości aktywów funduszu w przypadku, gdy udział akcji lub dłużnych papierów wartościowych jednego emitenta w indeksie wzrośnie. Limit ten może dotyczyć akcji lub dłużnych papierów wartościowych wyłącznie jednego emitenta.
+
+#### Rozdział 3 Fundusz sekurytyzacyjny
 
 **Art. 183.**
 
-1. Fundusz inwestycyjny zamkni´ty mo˝e byç utworzony jako fundusz sekurytyzacyjny dokonujàcy emisji certyfikatów inwestycyjnych w celu zgromadzenia Êrodków na nabycie wierzytelnoÊci, w tym wierzytelnoÊci finansowanych ze Êrodków publicznych wrozumieniu odr´bnych przepisów, lub praw do Êwiadczeƒ z tytu∏u okreÊlonych wierzytelnoÊci.
+1. Fundusz inwestycyjny zamknięty może być utworzony jako fundusz sekurytyzacyjny dokonujący emisji certyfikatów inwestycyjnych w celu zgromadzenia środków na nabycie wierzytelności, w tym wierzytelności finansowanych ze środków publicznych wrozumieniu odrębnych przepisów, lub praw do świadczeń z tytułu określonych wierzytelności.
 
-2. Fundusz sekurytyzacyjny mo˝e byç utworzony jako:
+2. Fundusz sekurytyzacyjny może być utworzony jako:
 
 - **1)** standaryzowany fundusz sekurytyzacyjny;
 - **2)** niestandaryzowany fundusz sekurytyzacyjny.
 
-3. Fundusz sekurytyzacyjny ma obowiàzek oraz wy∏àczne prawo u˝ywania w nazwie oznaczenia:
+3. Fundusz sekurytyzacyjny ma obowiązek oraz wyłączne prawo używania w nazwie oznaczenia:
 
-- **1)** „standaryzowany fundusz sekurytyzacyjny” w przypadku funduszu, o którym mowa w ust. 2 pkt 1;
-- **2)** „niestandaryzowany fundusz sekurytyzacyjny” w przypadku funduszu, o którym mowa w ust. 2 pkt 2.
+- **1)** Ństandaryzowany fundusz sekurytyzacyjny” w przypadku funduszu, o którym mowa w ust. 2 pkt 1;
+- **2)** Ńniestandaryzowany fundusz sekurytyzacyjny” w przypadku funduszu, o którym mowa w ust. 2 pkt 2.
 
-4. Umowa o przekazywanie funduszowi wszystkich Êwiadczeƒ otrzymywanych przez inicjatora sekurytyzacji lub uprawnionego z sekurytyzowanych wierzytelnoÊci z okreÊlonej puli wierzytelnoÊci lub z okreÊlonych wierzytelnoÊci (umowa o subpartycypacj´) powinna zawieraç zobowiàzanie tych podmiotów do przekazywania funduszowi:
+4. Umowa o przekazywanie funduszowi wszystkich świadczeń otrzymywanych przez inicjatora sekurytyzacji lub uprawnionego z sekurytyzowanych wierzytelności z określonej puli wierzytelności lub z określonych wierzytelności (umowa o subpartycypację) powinna zawierać zobowiązanie tych podmiotów do przekazywania funduszowi:
 
-- **1)** po˝ytków z sekurytyzowanych wierzytelnoÊci w ca∏oÊci;
-- **2)** kwot g∏ównych z sekurytyzowanych wierzytelnoÊci;
-- **3)** kwot uzyskanych z tytu∏u realizacji zabezpieczeƒ sekurytyzowanych wierzytelnoÊci w przypadku gdy zaspokojenie si´ inicjatora sekurytyzacji lub uprawnionego zsekurytyzowanych wierzytelnoÊci nastàpi∏o przez realizacj´ zabezpieczeƒ.
+- **1)** pożytków z sekurytyzowanych wierzytelności w całości;
+- **2)** kwot głównych z sekurytyzowanych wierzytelności;
+- **3)** kwot uzyskanych z tytułu realizacji zabezpieczeń sekurytyzowanych wierzytelności w przypadku gdy zaspokojenie się inicjatora sekurytyzacji lub uprawnionego zsekurytyzowanych wierzytelności nastąpiło przez realizację zabezpieczeń.
 
-5. Umowa zobowiàzujàca do nabycia puli wierzytelnoÊci oraz umowa o subpartycypacj´ powinna byç zawarta wformie pisemnej pod rygorem niewa˝noÊci.
+5. Umowa zobowiązująca do nabycia puli wierzytelności oraz umowa o subpartycypację powinna być zawarta wformie pisemnej pod rygorem nieważności.
 
-6. Umowa o subpartycypacj´ nie mo˝e zawieraç postanowieƒ oodroczeniu zap∏aty lub odokonywaniu zap∏aty w ratach za wierzytelnoÊci b´dàce jej przedmiotem.
+6. Umowa o subpartycypację nie może zawierać postanowień oodroczeniu zapłaty lub odokonywaniu zapłaty w ratach za wierzytelności będące jej przedmiotem.
 
 **Art. 184.**
 
-1. Towarzystwo lub fundusz sekurytyzacyjny mogà zawrzeç z:
+1. Towarzystwo lub fundusz sekurytyzacyjny mogą zawrzeć z:
 
-- **1)** bankiem krajowym lub instytucjà kredytowà, posiadajàcymi fundusze w∏asne w wysokoÊci nie mniejszej ni˝ równowartoÊç w z∏otych kwoty 10 000 000 euro, ustalonej przy zastosowaniu kursu Êredniego og∏aszanego przez Narodowy Bank Polski, lub
-- **2)** podmiotem, którego zdolnoÊç do terminowej sp∏aty zaciàgni´tych zobowiàzaƒ jest oceniona na poziomie inwestycyjnym przez wyspecjalizowanà agencj´ ratingowà, uznanà na mi´dzynarodowym rynku kapita∏owym umow´ por´czenia lub gwarancji wyp∏aty okreÊlonej kwoty pieni´˝nej na rzecz uczestników funduszu sekurytyzacyjnego posiadajàcych certyfikaty inwestycyjne danej serii wdniu otwarcia likwidacji funduszu albo subfunduszu.
+- **1)** bankiem krajowym lub instytucją kredytową, posiadającymi fundusze własne w wysokości nie mniejszej niż równowartość w złotych kwoty 10 000 000 euro, ustalonej przy zastosowaniu kursu średniego ogłaszanego przez Narodowy Bank Polski, lub
+- **2)** podmiotem, którego zdolność do terminowej spłaty zaciągniętych zobowiązań jest oceniona na poziomie inwestycyjnym przez wyspecjalizowaną agencję ratingową, uznaną na międzynarodowym rynku kapitałowym umowę poręczenia lub gwarancji wypłaty określonej kwoty pieniężnej na rzecz uczestników funduszu sekurytyzacyjnego posiadających certyfikaty inwestycyjne danej serii wdniu otwarcia likwidacji funduszu albo subfunduszu.
 
-2. Wykonanie zobowiàzaƒ wynikajàcych zumowy, o której mowa w ust. 1, nast´puje na wniosek i za poÊrednictwem likwidatora funduszu, a w przypadku likwidacji subfunduszu na wniosek i za poÊrednictwem depozytariusza.
+2. Wykonanie zobowiązań wynikających zumowy, o której mowa w ust. 1, następuje na wniosek i za pośrednictwem likwidatora funduszu, a w przypadku likwidacji subfunduszu na wniosek i za pośrednictwem depozytariusza.
 
 **Art. 185.**
 
 1. Standaryzowany fundusz sekurytyzacyjny jest tworzony jako fundusz z wydzielonymi subfunduszami.
 
-2. Do momentu utworzenia drugiego subfunduszu aktywa i zobowiàzania subfunduszu stanowià aktywa
+2. Do momentu utworzenia drugiego subfunduszu aktywa i zobowiązania subfunduszu stanowią aktywa
 
-3. Standaryzowany fundusz sekurytyzacyjny nie mo˝e dokonywaç kolejnych emisji certyfikatów zwiàzanych z danym subfunduszem.
+3. Standaryzowany fundusz sekurytyzacyjny nie może dokonywać kolejnych emisji certyfikatów związanych z danym subfunduszem.
 
-4. Standaryzowany fundusz sekurytyzacyjny ma obowiàzek lokowaç co najmniej 75 % wartoÊci aktywów danego subfunduszu wy∏àcznie w jednà pul´ wierzytelnoÊci lub prawa do wszystkich Êwiadczeƒ otrzymywanych przez inicjatora sekurytyzacji z tytu∏u jednej puli wierzytelnoÊci, z zastrze˝eniem ust. 5.
+4. Standaryzowany fundusz sekurytyzacyjny ma obowiązek lokować co najmniej 75 % wartości aktywów danego subfunduszu wyłącznie w jedną pulę wierzytelności lub prawa do wszystkich świadczeń otrzymywanych przez inicjatora sekurytyzacji z tytułu jednej puli wierzytelności, z zastrzeżeniem ust. 5.
 
-5. Je˝eli statut standaryzowanego funduszu sekurytyzacyjnego tak stanowi, fundusz mo˝e lokowaç co najmniej 75 % wartoÊci aktywów danego subfunduszu w kilka pul wierzytelnoÊci lub w prawa do Êwiadczeƒ otrzymywanych z tytu∏u kilku pul wierzytelnoÊci, pod warunkiem ˝e:
+5. Jeżeli statut standaryzowanego funduszu sekurytyzacyjnego tak stanowi, fundusz może lokować co najmniej 75 % wartości aktywów danego subfunduszu w kilka pul wierzytelności lub w prawa do świadczeń otrzymywanych z tytułu kilku pul wierzytelności, pod warunkiem że:
 
-- **1)** inicjatorami sekurytyzacji sà banki krajowe lub instytucje kredytowe;
-- **2)** wierzytelnoÊci wchodzàce w sk∏ad wszystkich pul sà jednolite rodzajowo;
-- **3)** umowy, októrych mowa wart. 183 ust. 5, wodniesieniu do ka˝dej z pul wierzytelnoÊci zostanà zawarte wterminie 3 miesi´cy od dnia zarejestrowania funduszu.
+- **1)** inicjatorami sekurytyzacji są banki krajowe lub instytucje kredytowe;
+- **2)** wierzytelności wchodzące w skład wszystkich pul są jednolite rodzajowo;
+- **3)** umowy, októrych mowa wart. 183 ust. 5, wodniesieniu do każdej z pul wierzytelności zostaną zawarte wterminie 3 miesięcy od dnia zarejestrowania funduszu.
 
-6. Standaryzowany fundusz sekurytyzacyjny ma obowiàzek w terminie 3 miesi´cy od dnia zarejestrowania funduszu zawrzeç:
+6. Standaryzowany fundusz sekurytyzacyjny ma obowiązek w terminie 3 miesięcy od dnia zarejestrowania funduszu zawrzeć:
 
-- **1)** umow´ zobowiàzujàcà do nabycia puli wierzytelnoÊci lub umow´ o subpartycypacj´ lub
-- **2)** umowy zobowiàzujàce do nabycia puli wierzytelnoÊci lub umowy osubpartycypacj´ wprzypadku, o którym mowa w ust. 5.
+- **1)** umowę zobowiązującą do nabycia puli wierzytelności lub umowę o subpartycypację lub
+- **2)** umowy zobowiązujące do nabycia puli wierzytelności lub umowy osubpartycypację wprzypadku, o którym mowa w ust. 5.
 
 **Art. 186.**
 
-1. Standaryzowany fundusz sekurytyzacyjny ma obowiàzek dokonaç likwidacji subfunduszu w przypadku, gdy:
+1. Standaryzowany fundusz sekurytyzacyjny ma obowiązek dokonać likwidacji subfunduszu w przypadku, gdy:
 
-- **1)** wszystkie wierzytelnoÊci wchodzàce wsk∏ad nabytych przez niego pul wierzytelnoÊci zosta∏y zaspokojone;
-- **2)** fundusz otrzyma∏ od inicjatorów sekurytyzacji wszystkie Êwiadczenia nale˝ne mu z tytu∏u okreÊlonych pul wierzytelnoÊci.
+- **1)** wszystkie wierzytelności wchodzące wskład nabytych przez niego pul wierzytelności zostały zaspokojone;
+- **2)** fundusz otrzymał od inicjatorów sekurytyzacji wszystkie świadczenia należne mu z tytułu określonych pul wierzytelności.
 
-2. Standaryzowany fundusz sekurytyzacyjny mo˝e dokonaç likwidacji subfunduszu w przypadku, gdy:
+2. Standaryzowany fundusz sekurytyzacyjny może dokonać likwidacji subfunduszu w przypadku, gdy:
 
-- **1)** wi´kszoÊç wierzytelnoÊci zosta∏a zaspokojona, a przewidywane koszty uzyskania zaspokojenia roszczeƒ wynikajàcych z pozosta∏ych wierzytelnoÊci przewy˝sza∏yby wartoÊç nale˝nych funduszowi Êwiadczeƒ,
-- **2)** fundusz otrzyma∏ od inicjatora albo inicjatorów sekurytyzacji wi´kszoÊç nale˝nych mu Êwiadczeƒ, a koszty funkcjonowania subfunduszu do przewidywanego momentu uzyskania pozosta∏ych nale˝i zobowiàzania funduszu. nych funduszowi Êwiadczeƒ przewy˝sza∏yby wartoÊç tych Êwiadczeƒ,
-- **3)** co do wierzytelnoÊci, które nie zosta∏y zaspokojone, istnieje orzeczenie wydane przez w∏aÊciwy organ stwierdzajàce brak mo˝liwoÊci zaspokojenia si´ z wierzytelnoÊci, które nie zosta∏y zaspokojone pod warunkiem ˝e likwidacja subfunduszu nie naruszy praw uczestników standaryzowanego funduszu sekurytyzacyjnego okreÊlonych w statucie funduszu.
+- **1)** większość wierzytelności została zaspokojona, a przewidywane koszty uzyskania zaspokojenia roszczeń wynikających z pozostałych wierzytelności przewyższałyby wartość należnych funduszowi świadczeń,
+- **2)** fundusz otrzymał od inicjatora albo inicjatorów sekurytyzacji większość należnych mu świadczeń, a koszty funkcjonowania subfunduszu do przewidywanego momentu uzyskania pozostałych należi zobowiązania funduszu. nych funduszowi świadczeń przewyższałyby wartość tych świadczeń,
+- **3)** co do wierzytelności, które nie zostały zaspokojone, istnieje orzeczenie wydane przez właściwy organ stwierdzające brak możliwości zaspokojenia się z wierzytelności, które nie zostały zaspokojone pod warunkiem że likwidacja subfunduszu nie naruszy praw uczestników standaryzowanego funduszu sekurytyzacyjnego określonych w statucie funduszu.
 
 **Art. 187.**
 
-1. Niestandaryzowany fundusz sekurytyzacyjny nie mo˝e byç utworzony jako fundusz z wydzielonymi subfunduszami.
+1. Niestandaryzowany fundusz sekurytyzacyjny nie może być utworzony jako fundusz z wydzielonymi subfunduszami.
 
-2. Niestandaryzowany fundusz sekurytyzacyjny jest obowiàzany lokowaç nie mniej ni˝ 75 % wartoÊci aktywów funduszu w:
+2. Niestandaryzowany fundusz sekurytyzacyjny jest obowiązany lokować nie mniej niż 75 % wartości aktywów funduszu w:
 
-- **1)** okreÊlone wierzytelnoÊci;
-- **2)** papiery wartoÊciowe inkorporujàce wierzytelnoÊci pieni´˝ne;
-- **3)** prawa do Êwiadczeƒ z tytu∏u okreÊlonych wierzytelnoÊci.
+- **1)** określone wierzytelności;
+- **2)** papiery wartościowe inkorporujące wierzytelności pieniężne;
+- **3)** prawa do świadczeń z tytułu określonych wierzytelności.
 
-3. Lokaty, o których mowa w ust. 2 pkt 2, nie mogà stanowiç wi´cej ni˝ 25 % wartoÊci aktywów netto funduszu.
+3. Lokaty, o których mowa w ust. 2 pkt 2, nie mogą stanowić więcej niż 25 % wartości aktywów netto funduszu.
 
-4. Uczestnikami niestandaryzowanego funduszu sekurytyzacyjnego mogà byç wy∏àcznie:
+4. Uczestnikami niestandaryzowanego funduszu sekurytyzacyjnego mogą być wyłącznie:
 
 - **1)** osoby prawne;
-- **2)** jednostki organizacyjne nieposiadajàce osobowoÊci prawnej.
+- **2)** jednostki organizacyjne nieposiadające osobowości prawnej.
 
-5. Statut funduszu mo˝e przewidywaç, ˝e uczestnikami niestandaryzowanego funduszu sekurytyzacyjnego mogà byç osoby fizyczne. W takim przypadku cena emisyjna jednego certyfikatu nie mo˝e byç ni˝sza ni˝ równowartoÊç w z∏otych 40 000 euro.
+5. Statut funduszu może przewidywać, że uczestnikami niestandaryzowanego funduszu sekurytyzacyjnego mogą być osoby fizyczne. W takim przypadku cena emisyjna jednego certyfikatu nie może być niższa niż równowartość w złotych 40 000 euro.
 
 **Art. 188.**
 
-1. Z zastrze˝eniem art. 185 ust. 4 i 5, art. 187 ust. 2 oraz przepisów post´powania egzekucyjnego, fundusz sekurytyzacyjny mo˝e lokowaç aktywa wy∏àcznie w:
+1. Z zastrzeżeniem art. 185 ust. 4 i 5, art. 187 ust. 2 oraz przepisów postępowania egzekucyjnego, fundusz sekurytyzacyjny może lokować aktywa wyłącznie w:
 
-- **1)** d∏u˝ne papiery wartoÊciowe;
-- **2)** jednostki uczestnictwa funduszy rynku pieni´˝nego;
+- **1)** dłużne papiery wartościowe;
+- **2)** jednostki uczestnictwa funduszy rynku pieniężnego;
 - **3)** depozyty w bankach krajowych lub instytucjach kredytowych;
-- **4)** instrumenty rynku pieni´˝nego;
+- **4)** instrumenty rynku pieniężnego;
 - **5)** instrumenty pochodne.
 
-2. Lokaty, októrych mowa wust. 1 pkt 5, mogà byç dokonywane wy∏àcznie wcelu ograniczenia ryzyka inwestycyjnego.
+2. Lokaty, októrych mowa wust. 1 pkt 5, mogą być dokonywane wyłącznie wcelu ograniczenia ryzyka inwestycyjnego.
 
-3. Fundusz sekurytyzacyjny nie mo˝e udzielaç po4. Fundusz sekurytyzacyjny, w którym dzia∏a zgromadzenie inwestorów, mo˝e dokonywaç emisji obligacji w wysokoÊci nieprzekraczajàcej:
+3. Fundusz sekurytyzacyjny nie może udzielać po4. Fundusz sekurytyzacyjny, w którym działa zgromadzenie inwestorów, może dokonywać emisji obligacji w wysokości nieprzekraczającej:
 
-- **1)** 25 % wartoÊci aktywów netto w przypadku standaryzowanego funduszu sekurytyzacyjnego,
-- **2)** 75 % wartoÊci aktywów netto wprzypadku niestandaryzowanego funduszu sekurytyzacyjnego na dzieƒ poprzedzajàcy dzieƒ podj´cia przez zgromadzenie inwestorów uchwa∏y o emisji obligacji, pod warunkiem ˝e statut funduszu sekurytyzacyjnego, za∏àczony do wniosku oudzielenie zezwolenia na utworzenie funduszu, b´dzie dopuszcza∏ dokonywanie emisji obligacji. Przepisy art. 144 ust. 3 i 4 stosuje si´ odpowiednio.
+- **1)** 25 % wartości aktywów netto w przypadku standaryzowanego funduszu sekurytyzacyjnego,
+- **2)** 75 % wartości aktywów netto wprzypadku niestandaryzowanego funduszu sekurytyzacyjnego na dzień poprzedzający dzień podjęcia przez zgromadzenie inwestorów uchwały o emisji obligacji, pod warunkiem że statut funduszu sekurytyzacyjnego, załączony do wniosku oudzielenie zezwolenia na utworzenie funduszu, będzie dopuszczał dokonywanie emisji obligacji. Przepisy art. 144 ust. 3 i 4 stosuje się odpowiednio.
 
 **Art. 189.**
 
-1. Poszczególne serie certyfikatów inwestycyjnych emitowanych przez fundusz sekurytyzacyjny mogà reprezentowaç ró˝ne prawa w zakresie:
+1. Poszczególne serie certyfikatów inwestycyjnych emitowanych przez fundusz sekurytyzacyjny mogą reprezentować różne prawa w zakresie:
 
-- **1)** wysokoÊci udzia∏u w dochodach funduszu albo ˝yczek, por´czeƒ lub gwarancji. subfunduszu;
-- **2)** wysokoÊci udzia∏u w aktywach netto funduszu albo subfunduszu, w przypadku ich likwidacji;
-- **3)** kolejnoÊci zaspokojenia roszczeƒ z tytu∏u posiadania certyfikatów inwestycyjnych.
+- **1)** wysokości udziału w dochodach funduszu albo życzek, poręczeń lub gwarancji. subfunduszu;
+- **2)** wysokości udziału w aktywach netto funduszu albo subfunduszu, w przypadku ich likwidacji;
+- **3)** kolejności zaspokojenia roszczeń z tytułu posiadania certyfikatów inwestycyjnych.
 
-2. Statut funduszu sekurytyzacyjnego mo˝e okreÊlaç minimalnà wysokoÊç udzia∏u w dochodach lub aktywach netto funduszu albo subfunduszu przypadajàcego na certyfikaty inwestycyjne danej serii.
+2. Statut funduszu sekurytyzacyjnego może określać minimalną wysokość udziału w dochodach lub aktywach netto funduszu albo subfunduszu przypadającego na certyfikaty inwestycyjne danej serii.
 
-3. Statut funduszu sekurytyzacyjnego mo˝e okreÊlaç, ˝e zaspokojenie roszczeƒ wynikajàcych z tytu∏u posiadania danej serii certyfikatów inwestycyjnych jest uzale˝nione od uprzedniego zaspokojenia roszczeƒ tego samego rodzaju wynikajàcych z tytu∏u posiadania innej serii certyfikatów inwestycyjnych funduszu, w szczególnoÊci roszczeƒ dotyczàcych wyp∏aty minimalnego udzia∏u, o którym mowa w ust. 2.
+3. Statut funduszu sekurytyzacyjnego może określać, że zaspokojenie roszczeń wynikających z tytułu posiadania danej serii certyfikatów inwestycyjnych jest uzależnione od uprzedniego zaspokojenia roszczeń tego samego rodzaju wynikających z tytułu posiadania innej serii certyfikatów inwestycyjnych funduszu, w szczególności roszczeń dotyczących wypłaty minimalnego udziału, o którym mowa w ust. 2.
 
 **Art. 190.**
 
-1. Statut funduszu sekurytyzacyjnego mo˝e stanowiç, ˝e fundusz emituje seri´ certyfikatów inwestycyjnych podporzàdkowanych dajàcych prawo do udzia∏u wdochodach lub aktywach netto funduszu albo subfunduszu w przypadku ich likwidacji po zaspokojeniu roszczeƒ wynikajàcych z wszystkich pozosta∏ych serii certyfikatów inwestycyjnych funduszu albo subfunduszu.
+1. Statut funduszu sekurytyzacyjnego może stanowić, że fundusz emituje serię certyfikatów inwestycyjnych podporządkowanych dających prawo do udziału wdochodach lub aktywach netto funduszu albo subfunduszu w przypadku ich likwidacji po zaspokojeniu roszczeń wynikających z wszystkich pozostałych serii certyfikatów inwestycyjnych funduszu albo subfunduszu.
 
-2. W przypadku, o którym mowa w ust. 1, statut okreÊla minimalnà wysokoÊç udzia∏u w dochodach lub aktywach netto funduszu albo subfunduszu w przypadku ich likwidacji przypadajàcego na poszczególne serie certyfikatów inwestycyjnych nieb´dàcych certyfikatami podporzàdkowanymi.
+2. W przypadku, o którym mowa w ust. 1, statut określa minimalną wysokość udziału w dochodach lub aktywach netto funduszu albo subfunduszu w przypadku ich likwidacji przypadającego na poszczególne serie certyfikatów inwestycyjnych niebędących certyfikatami podporządkowanymi.
 
-3. Minimalny udzia∏ w dochodach lub aktywach netto funduszu albo subfunduszu w przypadku ich likwidacji przypadajàcy na poszczególne serie certyfikatów inwestycyjnych nieb´dàcych certyfikatami podporzàdkowanymi nie mo˝e byç ni˝szy ni˝ udzia∏ w tych dochodach lub aktywach netto przypadajàcy na certyfikaty podporzàdkowane.
+3. Minimalny udział w dochodach lub aktywach netto funduszu albo subfunduszu w przypadku ich likwidacji przypadający na poszczególne serie certyfikatów inwestycyjnych niebędących certyfikatami podporządkowanymi nie może być niższy niż udział w tych dochodach lub aktywach netto przypadający na certyfikaty podporządkowane.
 
-**Art. 191.** Fundusz sekurytyzacyjny mo˝e, uwzgl´dniajàc interes uczestników funduszu, zawieraç umowy zwiàzane z procesem sekurytyzacji, w szczególnoÊci:
+**Art. 191.** Fundusz sekurytyzacyjny może, uwzględniając interes uczestników funduszu, zawierać umowy związane z procesem sekurytyzacji, w szczególności:
 
 **Art. 192.**
 
-1. Zawarcie umowy, o której mowa wart. 191 pkt 3, zpodmiotem innym ni˝ bank krajowy wymaga uzyskania przez ten podmiot zezwolenia Komisji.
+1. Zawarcie umowy, o której mowa wart. 191 pkt 3, zpodmiotem innym niż bank krajowy wymaga uzyskania przez ten podmiot zezwolenia Komisji.
 
-2. Podmiot, októrym mowa wust. 1, sk∏ada wniosek o uzyskanie zezwolenia za poÊrednictwem funduszu.
+2. Podmiot, októrym mowa wust. 1, składa wniosek o uzyskanie zezwolenia za pośrednictwem funduszu.
 
-3. Do wniosku, o którym mowa w ust. 2, za∏àcza si´:
+3. Do wniosku, o którym mowa w ust. 2, załącza się:
 
-- **1)** statut lub umow´ spó∏ki albo inny dokument okreÊlajàcy form´ prawnà wnioskodawcy oraz odpis z w∏aÊciwego rejestru;
-- **2)** projekt umowy o obs∏ug´ sekurytyzowanych wierzytelnoÊci;
-- **3)** schemat i opis powiàzaƒ kapita∏owych wnioskodawcy;
-- **4)** ostatnie sprawozdanie finansowe wraz z opinià podmiotu uprawnionego do badania sprawozdaƒ finansowych oraz raportem z badania, a w przypadku braku takiego sprawozdania inne dokumenty iinformacje przedstawiajàce rzetelnie aktualnà sytuacj´ finansowà wnioskodawcy;
-- **5)** opis posiadanych przez wnioskodawc´ warunków technicznych i organizacyjnych do wykonywania umowy oobs∏ug´ sekurytyzowanych wierzytelnoÊci;
-- **6)** wskazanie osób odpowiedzialnych za wykonywanie umowy o obs∏ug´ sekurytyzowanych wierzytelnoÊci;
-- **7)** procedury zapobiegajàce ujawnieniu lub wykorzystaniu informacji stanowiàcych tajemnic´ zawodowà;
-- **8)** zasady przechowywania i archiwizowania dokumentów zwiàzanych z zawarciem i wykonywaniem umowy o obs∏ug´ sekurytyzowanych wierzytelnoÊci;
-- **9)** dane osobowe cz∏onków zarzàdu irady nadzorczej wraz zopisem ich kwalifikacji idoÊwiadczeƒ zawodowych oraz informacjà zKrajowego Rejestru Kar10) zaÊwiadczenie o niezaleganiu w podatkach albo stwierdzajàce stan zaleg∏oÊci wydane na podstawie ustawy, o której mowa w art. 32 ust. 4 pkt 14.
+- **1)** statut lub umowę spółki albo inny dokument określający formę prawną wnioskodawcy oraz odpis z właściwego rejestru;
+- **2)** projekt umowy o obsługę sekurytyzowanych wierzytelności;
+- **3)** schemat i opis powiązań kapitałowych wnioskodawcy;
+- **4)** ostatnie sprawozdanie finansowe wraz z opinią podmiotu uprawnionego do badania sprawozdań finansowych oraz raportem z badania, a w przypadku braku takiego sprawozdania inne dokumenty iinformacje przedstawiające rzetelnie aktualną sytuację finansową wnioskodawcy;
+- **5)** opis posiadanych przez wnioskodawcę warunków technicznych i organizacyjnych do wykonywania umowy oobsługę sekurytyzowanych wierzytelności;
+- **6)** wskazanie osób odpowiedzialnych za wykonywanie umowy o obsługę sekurytyzowanych wierzytelności;
+- **7)** procedury zapobiegające ujawnieniu lub wykorzystaniu informacji stanowiących tajemnicę zawodową;
+- **8)** zasady przechowywania i archiwizowania dokumentów związanych z zawarciem i wykonywaniem umowy o obsługę sekurytyzowanych wierzytelności;
+- **9)** dane osobowe członków zarządu irady nadzorczej wraz zopisem ich kwalifikacji idoświadczeń zawodowych oraz informacją zKrajowego Rejestru Kar10) zaświadczenie o niezaleganiu w podatkach albo stwierdzające stan zaległości wydane na podstawie ustawy, o której mowa w art. 32 ust. 4 pkt 14.
 
 4. Komisja odmawia zezwolenia wprzypadku, gdy:
 
-- **1)** dokumenty za∏àczone do wniosku nie spe∏niajà wymogów, o których mowa w ust. 3;
-- **2)** wniosek lub za∏àczone do niego dokumenty nie sà zgodne zprzepisami prawa lub ze stanem faktycznym;
-- **3)** z analizy wniosku i za∏àczonych do niego dokumentów wynika, ˝e wnioskodawca mo˝e wykonywaç umow´ o obs∏ug´ sekurytyzowanych wierzytelnoÊci z naruszeniem zasad uczciwego obrotu lub w sposób nienale˝ycie zabezpieczajàcy interesy uczestników funduszu sekurytyzacyjnego.
+- **1)** dokumenty załączone do wniosku nie spełniają wymogów, o których mowa w ust. 3;
+- **2)** wniosek lub załączone do niego dokumenty nie są zgodne zprzepisami prawa lub ze stanem faktycznym;
+- **3)** z analizy wniosku i załączonych do niego dokumentów wynika, że wnioskodawca może wykonywać umowę o obsługę sekurytyzowanych wierzytelności z naruszeniem zasad uczciwego obrotu lub w sposób nienależycie zabezpieczający interesy uczestników funduszu sekurytyzacyjnego.
 
-**Art. 193.** Fundusz sekurytyzacyjny oraz podmiot, z którym fundusz zawar∏ umow´ o obs∏ug´ sekurytyzowanych wierzytelnoÊci, mogà zbieraç i przetwarzaç dane osobowe d∏u˝ników sekurytyzowanych wierzytelnoÊci jedynie dla celów zwiàzanych z administrowaniem wierzytelnoÊciami sekurytyzowanymi i ich obrotem.
+**Art. 193.** Fundusz sekurytyzacyjny oraz podmiot, z którym fundusz zawarł umowę o obsługę sekurytyzowanych wierzytelności, mogą zbierać i przetwarzać dane osobowe dłużników sekurytyzowanych wierzytelności jedynie dla celów związanych z administrowaniem wierzytelnościami sekurytyzowanymi i ich obrotem.
 
-**Art. 194.** Ksi´gi rachunkowe funduszu sekurytyzacyjnego, wyciàgi z tych ksiàg podpisane przez osoby upowa˝nione do sk∏adania oÊwiadczeƒ w zakresie praw i obowiàzków majàtkowych funduszu i opatrzone piecz´cià towarzystwa zarzàdzajàcego funduszem sekurytyzacyjnym oraz wszelkie wystawione w ten sposób oÊwiadczenia zawierajàce zobowiàzania, zwolnienie z zobowiàzaƒ, zrzeczenie si´ praw lub pokwitowanie odbioru nale˝noÊci majà moc prawnà dokumentów urz´dowych oraz stanowià podstaw´ do dokonania wpisów w ksi´gach wieczystych i rejestrach publicznych.
+**Art. 194.** Księgi rachunkowe funduszu sekurytyzacyjnego, wyciągi z tych ksiąg podpisane przez osoby upoważnione do składania oświadczeń w zakresie praw i obowiązków majątkowych funduszu i opatrzone pieczęcią towarzystwa zarządzającego funduszem sekurytyzacyjnym oraz wszelkie wystawione w ten sposób oświadczenia zawierające zobowiązania, zwolnienie z zobowiązań, zrzeczenie się praw lub pokwitowanie odbioru należności mają moc prawną dokumentów urzędowych oraz stanowią podstawę do dokonania wpisów w księgach wieczystych i rejestrach publicznych.
 
 **Art. 195.**
 
-1. Wprzypadku nabycia przez fundusz sekurytyzacyjny wierzytelnoÊci albo puli wierzytelnoÊci zabezpieczonych hipotekà lub zastawem rejestrowym sàd prowadzàcy ksi´g´ wieczystà lub rejestr zastawów, na wniosek funduszu o wpis zmiany dotychczasowego wierzyciela, dokonuje wpisu w ksi´dze wieczystej lub w rejestrze zastawów o zmianie wierzycienego; la, na rzecz którego by∏a ustanowiona hipoteka lub zastaw rejestrowy. Fundusz, sk∏adajàc wniosek do sàdu, do∏àcza wyciàg z ksiàg rachunkowych, podpisany przez osoby upowa˝nione do sk∏adania oÊwiadczeƒ wzakresie praw iobowiàzków majàtkowych funduszu iopatrzony piecz´cià towarzystwa zarzàdzajàcego funduszem sekurytyzacyjnym, potwierdzajàcy nabycie przez fundusz sekurytyzacyjny wierzytelnoÊci albo puli wierzytelnoÊci zabezpieczonych hipotekà lub zastawem rejestrowym.
+1. Wprzypadku nabycia przez fundusz sekurytyzacyjny wierzytelności albo puli wierzytelności zabezpieczonych hipoteką lub zastawem rejestrowym sąd prowadzący księgę wieczystą lub rejestr zastawów, na wniosek funduszu o wpis zmiany dotychczasowego wierzyciela, dokonuje wpisu w księdze wieczystej lub w rejestrze zastawów o zmianie wierzycienego; la, na rzecz którego była ustanowiona hipoteka lub zastaw rejestrowy. Fundusz, składając wniosek do sądu, dołącza wyciąg z ksiąg rachunkowych, podpisany przez osoby upoważnione do składania oświadczeń wzakresie praw iobowiązków majątkowych funduszu iopatrzony pieczęcią towarzystwa zarządzającego funduszem sekurytyzacyjnym, potwierdzający nabycie przez fundusz sekurytyzacyjny wierzytelności albo puli wierzytelności zabezpieczonych hipoteką lub zastawem rejestrowym.
 
-2. Wpis, októrym mowa wust. 1, podlega op∏acie sta∏ej w wysokoÊci 100 z∏. Rozdzia∏ 4 Fundusz aktywów niepublicznych
+2. Wpis, októrym mowa wust. 1, podlega opłacie stałej w wysokości 100 zł.
 
-**Art. 196.** Fundusz inwestycyjny zamkni´ty lub specjalistyczny fundusz inwestycyjny otwarty stosujàcy zasady iograniczenia inwestycyjne funduszu zamkni´tego mo˝e byç utworzony jako fundusz aktywów niepublicznych lokujàcy co najmniej 80% wartoÊci swoich aktywów w aktywa inne ni˝:
+#### Rozdział 4 Fundusz aktywów niepublicznych
+
+**Art. 196.** Fundusz inwestycyjny zamknięty lub specjalistyczny fundusz inwestycyjny otwarty stosujący zasady iograniczenia inwestycyjne funduszu zamkniętego może być utworzony jako fundusz aktywów niepublicznych lokujący co najmniej 80% wartości swoich aktywów w aktywa inne niż:
 
 **Art. 197.**
 
-1. W przypadku, o którym mowa w art. 119 ust. 3, do czasu up∏ywu terminu do zaoferowania certyfikatów inwestycyjnych wskazanego wstatucie funduszu, do lokat funduszu nie stosuje si´ art. 145 ust. 3.
+1. W przypadku, o którym mowa w art. 119 ust. 3, do czasu upływu terminu do zaoferowania certyfikatów inwestycyjnych wskazanego wstatucie funduszu, do lokat funduszu nie stosuje się art. 145 ust. 3.
 
-2. W przypadku funduszu inwestycyjnego aktywów niepublicznych termin okreÊlony w art. 148 ust. 3 lub art. 157 ust. 3 wynosi 36 miesi´cy.
+2. W przypadku funduszu inwestycyjnego aktywów niepublicznych termin określony w art. 148 ust. 3 lub art. 157 ust. 3 wynosi 36 miesięcy.
 
 **Art. 198.**
 
-1. Statut funduszu inwestycyjnego aktywów niepublicznych mo˝e przewidywaç wyp∏acanie na rzecz uczestników funduszu przychodów ze zbycia lokat funduszu, pomniejszonych o koszty dzia∏ania funduszu zwiàzane bezpoÊrednio ze zbytymi lokatami oraz ocz´Êç kosztów dzia∏ania funduszu przypadajàcà na takie lokaty proporcjonalnie do ich wartoÊci w stosunku do wartoÊci portfela inwestycyjnego funduszu.
+1. Statut funduszu inwestycyjnego aktywów niepublicznych może przewidywać wypłacanie na rzecz uczestników funduszu przychodów ze zbycia lokat funduszu, pomniejszonych o koszty działania funduszu związane bezpośrednio ze zbytymi lokatami oraz oczęść kosztów działania funduszu przypadającą na takie lokaty proporcjonalnie do ich wartości w stosunku do wartości portfela inwestycyjnego funduszu.
 
-2. Je˝eli statut funduszu przewiduje wyp∏acanie na rzecz uczestników funduszu przychodów ze zbycia lokat, zgodnie z ust. 1, powinien on okreÊlaç szczegó∏owo:
+2. Jeżeli statut funduszu przewiduje wypłacanie na rzecz uczestników funduszu przychodów ze zbycia lokat, zgodnie z ust. 1, powinien on określać szczegółowo:
 
-- **1)** warunki oraz tryb dokonywania wyp∏at przychodów na rzecz uczestników funduszu, w tym kategorie przychodów funduszu podlegajàcych wyp∏acie, sposób ustalenia kwot przypadajàcych na ka˝dego uczestnika, terminy dokonywania wyp∏at i zasady ustalania uczestników uprawnionych do otrzymania wyp∏aty oraz
-- **2)** rodzaje kosztów zaliczanych do kosztów dzia∏ania funduszu zwiàzanych bezpoÊrednio zlokatami, rodzaje kosztów zaliczanych do kosztów dzia∏ania funduszu oraz zasady ustalania wysokoÊci takich kosztów przypadajàcych na poszczególne lokaty.
+- **1)** warunki oraz tryb dokonywania wypłat przychodów na rzecz uczestników funduszu, w tym kategorie przychodów funduszu podlegających wypłacie, sposób ustalenia kwot przypadających na każdego uczestnika, terminy dokonywania wypłat i zasady ustalania uczestników uprawnionych do otrzymania wypłaty oraz
+- **2)** rodzaje kosztów zaliczanych do kosztów działania funduszu związanych bezpośrednio zlokatami, rodzaje kosztów zaliczanych do kosztów działania funduszu oraz zasady ustalania wysokości takich kosztów przypadających na poszczególne lokaty.
 
-3. Fundusz aktywów niepublicznych, który wyp∏aci∏ uczestnikom przychody ze zbycia lokat, jest obowiàzany do dostosowania, w terminie 12 miesi´cy od dnia wyp∏aty przychodów, stanu swoich aktywów do wymogów okreÊlonych wustawie oraz statucie funduszu, uwzgl´dniajàc nale˝ycie interes uczestników funduszu.
+3. Fundusz aktywów niepublicznych, który wypłacił uczestnikom przychody ze zbycia lokat, jest obowiązany do dostosowania, w terminie 12 miesięcy od dnia wypłaty przychodów, stanu swoich aktywów do wymogów określonych wustawie oraz statucie funduszu, uwzględniając należycie interes uczestników funduszu.
 
-4. Przepisu ust. 3 nie stosuje si´, je˝eli do okreÊlonego w statucie funduszu dnia rozpocz´cia likwidacji
+4. Przepisu ust. 3 nie stosuje się, jeżeli do określonego w statucie funduszu dnia rozpoczęcia likwidacji
 
-5. Do lokat funduszu aktywów niepublicznych, który wyp∏aci∏ uczestnikom przychody ze zbycia lokat, art. 145 ust. 3 nie stosuje si´:
+5. Do lokat funduszu aktywów niepublicznych, który wypłacił uczestnikom przychody ze zbycia lokat, art. 145 ust. 3 nie stosuje się:
 
-- **1)** do dnia dostosowania stanu aktywów funduszu do wymogów ustawy oraz statutu funduszu, jednak nie póêniej ni˝ do up∏ywu 12 miesi´cy od dnia wyp∏aty przychodów, albo
-- **2)** gdy do okreÊlonego w statucie funduszu dnia rozpocz´cia likwidacji funduszu pozosta∏o nie wi´cej ni˝ 36 miesi´cy.
+- **1)** do dnia dostosowania stanu aktywów funduszu do wymogów ustawy oraz statutu funduszu, jednak nie póêniej niż do upływu 12 miesięcy od dnia wypłaty przychodów, albo
+- **2)** gdy do określonego w statucie funduszu dnia rozpoczęcia likwidacji funduszu pozostało nie więcej niż 36 miesięcy.
 
 **Art. 199.**
 
-1. Wprzypadku funduszu inwestycyjnego aktywów niepublicznych, statut funduszu mo˝e okreÊlaç, ˝e cena wykupu certyfikatów inwestycyjnych mo˝e byç równa wartoÊci aktywów netto funduszu, przypadajàcej na certyfikat inwestycyjny, wed∏ug wyceny aktywów zdnia okreÊlonego wstatucie, pod warunkiem ˝e w statucie zostanà zawarte postanowienia zabezpieczajàce interesy wierzycieli funduszu, na wypadek powstania nowych zobowiàzaƒ funduszu przed dniem wykupu certyfikatów inwestycyjnych, zzastrze˝eniem ust. 2, oraz uczestników, którzy nie za˝àdali wykupienia certyfikatów inwestycyjnych.
+1. Wprzypadku funduszu inwestycyjnego aktywów niepublicznych, statut funduszu może określać, że cena wykupu certyfikatów inwestycyjnych może być równa wartości aktywów netto funduszu, przypadającej na certyfikat inwestycyjny, według wyceny aktywów zdnia określonego wstatucie, pod warunkiem że w statucie zostaną zawarte postanowienia zabezpieczające interesy wierzycieli funduszu, na wypadek powstania nowych zobowiązań funduszu przed dniem wykupu certyfikatów inwestycyjnych, zzastrzeżeniem ust. 2, oraz uczestników, którzy nie zażądali wykupienia certyfikatów inwestycyjnych.
 
-2. Towarzystwo nie mo˝e byç obowiàzane do sp∏aty wi´cej ni˝ 5 % ogólnej wartoÊci zobowiàzaƒ funduszu powsta∏ych mi´dzy dniem wyceny aktywów funduszu wskazanym wstatucie funduszu adniem wykupu certyfikatów. DZIA¸ VIII ¸àczenie funduszy inwestycyjnych otwartych oraz specjalistycznych funduszy inwestycyjnych otwartych
+2. Towarzystwo nie może być obowiązane do spłaty więcej niż 5 % ogólnej wartości zobowiązań funduszu powstałych między dniem wyceny aktywów funduszu wskazanym wstatucie funduszu adniem wykupu certyfikatów. DZIAĘ VIII Ęączenie funduszy inwestycyjnych otwartych oraz specjalistycznych funduszy inwestycyjnych otwartych
 
 **Art. 200.**
 
-1. Za zgodà Komisji mo˝e nastàpiç po∏àczenie dwóch funduszy inwestycyjnych otwartych albo dwóch specjalistycznych funduszy inwestycyjnych otwartych, zarzàdzanych przez to samo towarzystwo, z zastrze˝eniem art. 208. Z wnioskiem o udzielenie zgody wyst´puje towarzystwo.
+1. Za zgodą Komisji może nastąpić połączenie dwóch funduszy inwestycyjnych otwartych albo dwóch specjalistycznych funduszy inwestycyjnych otwartych, zarządzanych przez to samo towarzystwo, z zastrzeżeniem art. 208. Z wnioskiem o udzielenie zgody występuje towarzystwo.
 
-2. Po∏àczenie nast´puje przez przeniesienie majàtku funduszu przejmowanego do funduszu przejmujàcego oraz przydzielenie uczestnikom funduszu przejmowanego jednostek uczestnictwa funduszu przejmujàcego w zamian za jednostki uczestnictwa funduszu przejmowanego.
+2. Połączenie następuje przez przeniesienie majątku funduszu przejmowanego do funduszu przejmującego oraz przydzielenie uczestnikom funduszu przejmowanego jednostek uczestnictwa funduszu przejmującego w zamian za jednostki uczestnictwa funduszu przejmowanego.
 
-3. W wyniku po∏àczenia funduszy inwestycyjnych fundusz przejmowany podlega wykreÊleniu z rejestru funduszy.
+3. W wyniku połączenia funduszy inwestycyjnych fundusz przejmowany podlega wykreśleniu z rejestru funduszy.
 
 **Art. 201.**
 
-1. O zamiarze po∏àczenia funduszy inwestycyjnych towarzystwo og∏asza w dziennikach wskazanych wstatutach ∏àczàcych si´ funduszy, niezw∏ocznie po uzyskaniu zgody Komisji na po∏àczenie funduszy inwestycyjnych.
+1. O zamiarze połączenia funduszy inwestycyjnych towarzystwo ogłasza w dziennikach wskazanych wstatutach łączących się funduszy, niezwłocznie po uzyskaniu zgody Komisji na połączenie funduszy inwestycyjnych.
 
-2. Og∏oszenie o zamiarze po∏àczenia: funduszu pozosta∏o nie wi´cej ni˝ 36 miesi´cy.
+2. Ogłoszenie o zamiarze połączenia: funduszu pozostało nie więcej niż 36 miesięcy.
 
-- **1)** wskazuje fundusz przejmujàcy i fundusz przejmowany;
-- **2)** wskazuje termin, po up∏ywie którego fundusz przejmowany nie b´dzie zbywa∏ i odkupywa∏ jednostek uczestnictwa; termin ten nie mo˝e byç krótszy ni˝ miesiàc od dnia og∏oszenia;
-- **3)** zawiera treÊç statutu funduszu przejmujàcego.
+- **1)** wskazuje fundusz przejmujący i fundusz przejmowany;
+- **2)** wskazuje termin, po upływie którego fundusz przejmowany nie będzie zbywał i odkupywał jednostek uczestnictwa; termin ten nie może być krótszy niż miesiąc od dnia ogłoszenia;
+- **3)** zawiera treść statutu funduszu przejmującego.
 
-3. Od dnia og∏oszenia zamiaru po∏àczenia funduszy inwestycyjnych:
+3. Od dnia ogłoszenia zamiaru połączenia funduszy inwestycyjnych:
 
-- **1)** towarzystwo nie pobiera op∏at za odkupienie jednostek uczestnictwa funduszu przejmowanego;
-- **2)** do funduszu przejmowanego nie stosuje si´ art. 246.
+- **1)** towarzystwo nie pobiera opłat za odkupienie jednostek uczestnictwa funduszu przejmowanego;
+- **2)** do funduszu przejmowanego nie stosuje się art. 246.
 
 **Art. 202.**
 
-1. Wpierwszym dniu po up∏ywie terminu, o którym mowa w art. 201 ust. 2 pkt 2, towarzystwo:
+1. Wpierwszym dniu po upływie terminu, o którym mowa w art. 201 ust. 2 pkt 2, towarzystwo:
 
-- **1)** przydziela uczestnikowi funduszu przejmowanego jednostki uczestnictwa funduszu przejmujàcego w liczbie wynikajàcej z podzielenia iloczynu liczby jednostek uczestnictwa funduszu przejmowanego posiadanych przez tego uczestnika iwartoÊci aktywów netto funduszu przejmowanego przypadajàcego na jednostk´ uczestnictwa wdniu poprzedzajàcym dzieƒ przydzia∏u przez wartoÊç aktywów netto funduszu przejmujàcego przypadajàcego na jednostk´ uczestnictwa w tym funduszu w dniu poprzedzajàcym dzieƒ przydzia∏u oraz
-- **2)** niezw∏ocznie sk∏ada do sàdu wniosek o wykreÊlenie funduszu przejmowanego z rejestru funduszy inwestycyjnych; do wniosku towarzystwo do∏àcza zgod´ Komisji, o której mowa w art. 200 ust. 1.
+- **1)** przydziela uczestnikowi funduszu przejmowanego jednostki uczestnictwa funduszu przejmującego w liczbie wynikającej z podzielenia iloczynu liczby jednostek uczestnictwa funduszu przejmowanego posiadanych przez tego uczestnika iwartości aktywów netto funduszu przejmowanego przypadającego na jednostkę uczestnictwa wdniu poprzedzającym dzień przydziału przez wartość aktywów netto funduszu przejmującego przypadającego na jednostkę uczestnictwa w tym funduszu w dniu poprzedzającym dzień przydziału oraz
+- **2)** niezwłocznie składa do sądu wniosek o wykreślenie funduszu przejmowanego z rejestru funduszy inwestycyjnych; do wniosku towarzystwo dołącza zgodę Komisji, o której mowa w art. 200 ust. 1.
 
-2. Sàd rejestrowy rozpoznaje spraw´ w terminie 14 dni od dnia z∏o˝enia wniosku lub jego uzupe∏nienia.
+2. Sąd rejestrowy rozpoznaje sprawę w terminie 14 dni od dnia złożenia wniosku lub jego uzupełnienia.
 
 **Art. 203.**
 
-1. Przydzia∏, o którym mowa w art. 202 ust. 1 pkt 1, nast´puje przez wpisanie do rejestru uczestników funduszu przejmujàcego uczestnika funduszu przejmowanego oraz liczby przydzielonych mu jednostek uczestnictwa funduszu przejmujàcego.
+1. Przydział, o którym mowa w art. 202 ust. 1 pkt 1, następuje przez wpisanie do rejestru uczestników funduszu przejmującego uczestnika funduszu przejmowanego oraz liczby przydzielonych mu jednostek uczestnictwa funduszu przejmującego.
 
-2. Od chwili przydzia∏u, októrym mowa wart. 202 ust. 1 pkt 1, wartoÊç aktywów netto oraz wartoÊç aktywów netto na jednostk´ uczestnictwa funduszu przejmujàcego ustala si´ z uwzgl´dnieniem aktywów i zobowiàzaƒ funduszu przejmowanego.
+2. Od chwili przydziału, októrym mowa wart. 202 ust. 1 pkt 1, wartość aktywów netto oraz wartość aktywów netto na jednostkę uczestnictwa funduszu przejmującego ustala się z uwzględnieniem aktywów i zobowiązań funduszu przejmowanego.
 
-3. Przepisów ust. 1 i2 nie stosuje si´ wprzypadku, gdy postanowienie sàdu odmawiajàce wykreÊlenia funduszu przejmowanego z rejestru stanie si´ prawomocne.
+3. Przepisów ust. 1 i2 nie stosuje się wprzypadku, gdy postanowienie sądu odmawiające wykreślenia funduszu przejmowanego z rejestru stanie się prawomocne.
 
-4. W przypadku przydzia∏u, o którym mowa w art. 202 ust. 1 pkt 1, nie stosuje si´ przepisu art. 86 ust. 2.
+4. W przypadku przydziału, o którym mowa w art. 202 ust. 1 pkt 1, nie stosuje się przepisu art. 86 ust. 2.
 
-**Art. 204.** Z dniem wykreÊlenia funduszu przejmowanego z rejestru funduszy inwestycyjnych:
+**Art. 204.** Z dniem wykreślenia funduszu przejmowanego z rejestru funduszy inwestycyjnych:
 
 **Art. 205.**
 
-1. Depozytariusz funduszu przejmowanego wydaje depozytariuszowi funduszu przejmujàcego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty zwiàzane z wykonywaniem obowiàzków okreÊlonych wart. 72 niezw∏ocznie po wykreÊleniu funduszu przejmowanego z rejestru.
+1. Depozytariusz funduszu przejmowanego wydaje depozytariuszowi funduszu przejmującego rejestr aktywów i przechowywane aktywa funduszu przejmowanego oraz dokumenty związane z wykonywaniem obowiązków określonych wart. 72 niezwłocznie po wykreśleniu funduszu przejmowanego z rejestru.
 
-2. Przepis ust. 1 stosuje si´ odpowiednio do innych podmiotów przechowujàcych, zgodnie z art. 72 ust. 1 pkt 1, aktywa funduszu przejmowanego.
+2. Przepis ust. 1 stosuje się odpowiednio do innych podmiotów przechowujących, zgodnie z art. 72 ust. 1 pkt 1, aktywa funduszu przejmowanego.
 
-**Art. 206.** Fundusz przejmujàcy, w terminie 6 miesi´cy od dnia po∏àczenia funduszy, dostosowuje stan swoich aktywów do wymagaƒ okreÊlonych wustawie i statucie.
+**Art. 206.** Fundusz przejmujący, w terminie 6 miesięcy od dnia połączenia funduszy, dostosowuje stan swoich aktywów do wymagań określonych wustawie i statucie.
 
-**Art. 207.** Sprawozdanie finansowe funduszu przejmowanego sporzàdza si´ na dzieƒ poprzedzajàcy dzieƒ przydzia∏u jednostek uczestnictwa.
+**Art. 207.** Sprawozdanie finansowe funduszu przejmowanego sporządza się na dzień poprzedzający dzień przydziału jednostek uczestnictwa.
 
 **Art. 208.**
 
-1. Nie mogà byç po∏àczone fundusze inwestycyjne otwarte albo specjalistyczne fundusze inwestycyjne otwarte, które zbywajà jednostki uczestnictwa ró˝niàce si´ od siebie sposobem pobierania op∏at manipulacyjnych lub op∏at obcià˝ajàcych aktywa funduszu, chyba ˝e przed rozpocz´ciem procedury po∏àczenia wszystkie jednostki uczestnictwa zarówno w funduszu przejmujàcym, jak i funduszu przejmowanym zostanà zamienione na jednostki uczestnictwa tej samej kategorii.
+1. Nie mogą być połączone fundusze inwestycyjne otwarte albo specjalistyczne fundusze inwestycyjne otwarte, które zbywają jednostki uczestnictwa różniące się od siebie sposobem pobierania opłat manipulacyjnych lub opłat obciążających aktywa funduszu, chyba że przed rozpoczęciem procedury połączenia wszystkie jednostki uczestnictwa zarówno w funduszu przejmującym, jak i funduszu przejmowanym zostaną zamienione na jednostki uczestnictwa tej samej kategorii.
 
-2. Nie mogà byç po∏àczone fundusze inwestycyjne otwarte albo specjalistyczne fundusze inwestycyjne otwarte utworzone jako:
+2. Nie mogą być połączone fundusze inwestycyjne otwarte albo specjalistyczne fundusze inwestycyjne otwarte utworzone jako:
 
 - **1)** fundusze z wydzielonymi subfunduszami;
 - **2)** fundusze podstawowe;
-- **3)** fundusze powiàzane. ki funduszu przejmowanego; DZIA¸ IX Zarzàdzanie zbiorczym portfelem papierów wartoÊciowych
+- **3)** fundusze powiązane. ki funduszu przejmowanego; DZIAĘ IX Zarządzanie zbiorczym portfelem papierów wartościowych
 
-**Art. 209.** Za zezwoleniem Komisji, wydanym na wniosek towarzystwa, towarzystwo mo˝e zarzàdzaç zbiorczym portfelem papierów wartoÊciowych.
+**Art. 209.** Za zezwoleniem Komisji, wydanym na wniosek towarzystwa, towarzystwo może zarządzać zbiorczym portfelem papierów wartościowych.
 
-**Art. 210.** Do wniosku, o którym mowa w art. 209, za∏àcza si´:
+**Art. 210.** Do wniosku, o którym mowa w art. 209, załącza się:
 
-**Art. 211.** Do zezwolenia, o którym mowa w art. 209, stosuje si´ odpowiednio art. 23.
+**Art. 211.** Do zezwolenia, o którym mowa w art. 209, stosuje się odpowiednio art. 23.
 
 **Art. 212.**
 
-1. Zbiorczy portfel papierów wartoÊciowych stanowi wspó∏w∏asnoÊç ∏àcznà posiadaczy tytu∏ów uczestnictwa.
+1. Zbiorczy portfel papierów wartościowych stanowi współwłasność łączną posiadaczy tytułów uczestnictwa.
 
-2. Sk∏adniki zbiorczego portfela papierów wartoÊciowych nie podlegajà egzekucji prowadzonej z majàtku uczestnika zbiorczego portfela papierów wartoÊciowych. Egzekucja nast´puje wy∏àcznie przez odkupienie tytu∏ów uczestnictwa zbiorczego portfela papierów wartoÊciowych.
+2. Składniki zbiorczego portfela papierów wartościowych nie podlegają egzekucji prowadzonej z majątku uczestnika zbiorczego portfela papierów wartościowych. Egzekucja następuje wyłącznie przez odkupienie tytułów uczestnictwa zbiorczego portfela papierów wartościowych.
 
-3. Uczestnik zbiorczego portfela papierów wartoÊciowych nie mo˝e rozporzàdzaç udzia∏em w zbiorczym portfelu papierów wartoÊciowych ani udzia∏em w poszczególnych sk∏adnikach tego portfela.
+3. Uczestnik zbiorczego portfela papierów wartościowych nie może rozporządzać udziałem w zbiorczym portfelu papierów wartościowych ani udziałem w poszczególnych składnikach tego portfela.
 
 **Art. 213.**
 
-1. Do utworzenia zbiorczego portfela papierów wartoÊciowych jest niezb´dne:
+1. Do utworzenia zbiorczego portfela papierów wartościowych jest niezbędne:
 
 - **1)** uchwalenie regulaminu, októrym mowa wart. 210 pkt 5;
-- **2)** zebranie wdrodze zapisów wp∏at na tytu∏y uczestnictwa zbiorczego portfela papierów wartoÊciowych w wysokoÊci okreÊlonej w regulaminie, o którym mowa w art. 210 pkt 5;
-- **3)** przydzielenie tytu∏ów uczestnictwa osobom, które dokona∏y wp∏at na nabycie tytu∏ów uczestnictwa zbiorczego portfela papierów wartoÊciowych;
-- **4)** nabycie sk∏adników zbiorczego portfela papierów wartoÊciowych za Êrodki wp∏acone do tego portfela w ramach zapisów.
+- **2)** zebranie wdrodze zapisów wpłat na tytuły uczestnictwa zbiorczego portfela papierów wartościowych w wysokości określonej w regulaminie, o którym mowa w art. 210 pkt 5;
+- **3)** przydzielenie tytułów uczestnictwa osobom, które dokonały wpłat na nabycie tytułów uczestnictwa zbiorczego portfela papierów wartościowych;
+- **4)** nabycie składników zbiorczego portfela papierów wartościowych za środki wpłacone do tego portfela w ramach zapisów.
 
-2. W ramach zapisów, o których mowa w ust. 1 pkt 2, wp∏aty na nabycie tytu∏ów uczestnictwa zbiorczego portfela papierów wartoÊciowych sà dokonywane na wydzielony rachunek bankowy towarzystwa.
+2. W ramach zapisów, o których mowa w ust. 1 pkt 2, wpłaty na nabycie tytułów uczestnictwa zbiorczego portfela papierów wartościowych są dokonywane na wydzielony rachunek bankowy towarzystwa.
 
-3. Po zebraniu wp∏at, o których mowa w ust. 1 pkt 2, towarzystwo przydziela tytu∏y uczestnictwa zbiorczego portfela papierów wartoÊciowych osobom, które dokona∏y wp∏at na nabycie tytu∏ów uczestnictwa.
+3. Po zebraniu wpłat, o których mowa w ust. 1 pkt 2, towarzystwo przydziela tytuły uczestnictwa zbiorczego portfela papierów wartościowych osobom, które dokonały wpłat na nabycie tytułów uczestnictwa.
 
-4. Do chwili przydzielenia pierwszego tytu∏u Êciowych towarzystwo nie mo˝e rozporzàdzaç wp∏atami na tytu∏y uczestnictwa, pobranymi op∏atami manipulacyjnymi ani kwotami z tytu∏u oprocentowania tych wp∏at lub po˝ytkami, jakie wp∏aty te przynoszà, w innym celu ni˝ na nabycie sk∏adników zbiorczego portfela papierów wartoÊciowych zgodnie zregulaminem, o którym mowa w art. 210 pkt 5.
+4. Do chwili przydzielenia pierwszego tytułu ściowych towarzystwo nie może rozporządzać wpłatami na tytuły uczestnictwa, pobranymi opłatami manipulacyjnymi ani kwotami z tytułu oprocentowania tych wpłat lub pożytkami, jakie wpłaty te przynoszą, w innym celu niż na nabycie składników zbiorczego portfela papierów wartościowych zgodnie zregulaminem, o którym mowa w art. 210 pkt 5.
 
-5. Towarzystwo tworzy zbiorczy portfel papierów wartoÊciowych przez nabycie sk∏adników tego portfela na rachunek w∏asny towarzystwa.
+5. Towarzystwo tworzy zbiorczy portfel papierów wartościowych przez nabycie składników tego portfela na rachunek własny towarzystwa.
 
-6. W ramach zarzàdzania zbiorczym portfelem papierów wartoÊciowych towarzystwo mo˝e lokowaç Êrodki w kategorie lokat okreÊlone w art. 145 ust. 1 pkt 1, 4—7 oraz art. 146.
+6. W ramach zarządzania zbiorczym portfelem papierów wartościowych towarzystwo może lokować środki w kategorie lokat określone w art. 145 ust. 1 pkt 1, 4—7 oraz art. 146.
 
-7. Tytu∏ uczestnictwa zbiorczego portfela papierów wartoÊciowych reprezentuje prawo jego posiadacza do ˝àdania zbycia proporcjonalnej cz´Êci aktywów zbiorczego portfela papierów wartoÊciowych i przeniesienia na rzecz tego posiadacza Êrodków pieni´˝uczestnictwa w zbiorczym portfelu papierów wartonych uzyskanych w wyniku tego zbycia.
+7. Tytuł uczestnictwa zbiorczego portfela papierów wartościowych reprezentuje prawo jego posiadacza do żądania zbycia proporcjonalnej części aktywów zbiorczego portfela papierów wartościowych i przeniesienia na rzecz tego posiadacza środków pieniężuczestnictwa w zbiorczym portfelu papierów wartonych uzyskanych w wyniku tego zbycia.
 
-8. Towarzystwo wykonuje we w∏asnym imieniu prawa iobowiàzki wynikajàce zposzczególnych sk∏adników zbiorczego portfela papierów wartoÊciowych oraz obowiàzki wynikajàce z zarzàdzania tym portfelem.
+8. Towarzystwo wykonuje we własnym imieniu prawa iobowiązki wynikające zposzczególnych składników zbiorczego portfela papierów wartościowych oraz obowiązki wynikające z zarządzania tym portfelem.
 
 **Art. 214.**
 
-1. Zasady dzia∏ania, zarzàdzania ilikwidacji zbiorczego portfela papierów wartoÊciowych okreÊla regulamin, októrym mowa wart. 210 pkt 5, do którego stosuje si´ art. 384 Kodeksu cywilnego.
+1. Zasady działania, zarządzania ilikwidacji zbiorczego portfela papierów wartościowych określa regulamin, októrym mowa wart. 210 pkt 5, do którego stosuje się art. 384 Kodeksu cywilnego.
 
-2. Regulamin, o którym mowa w art. 210 pkt 5, okreÊla w szczególnoÊci:
+2. Regulamin, o którym mowa w art. 210 pkt 5, określa w szczególności:
 
-- **1)** kategorie lokat zbiorczego portfela papierów wartoÊciowych;
-- **2)** procentowy udzia∏ poszczególnych kategorii lokat w zbiorczym portfelu papierów wartoÊciowych;
-- **3)** sposób i zasady przyjmowania wp∏at do zbiorczego portfela papierów wartoÊciowych;
-- **4)** sposób i zasady przydzia∏u tytu∏ów uczestnictwa zbiorczego portfela papierów wartoÊciowych;
-- **5)** minimalnà imaksymalnà liczb´ tytu∏ów uczestnictwa zbiorczego portfela papierów wartoÊciowych;
-- **6)** liczb´ tytu∏ów uczestnictwa pozosta∏ych w zbiorczym portfelu papierów wartoÊciowych, która stanowi przes∏ank´ likwidacji tego portfela;
-- **7)** okolicznoÊci, o których mowa w art. 216 ust. 2 pkt 3;
-- **8)** polityk´ inwestycyjnà stosowanà przez zbiorczy portfel papierów wartoÊciowych;
-- **9)** sposób zarzàdzania zbiorczym portfelem papierów wartoÊciowych, z uwzgl´dnieniem po˝ytków z papierów wartoÊciowych ipraw majàtkowych wchodzàcych w sk∏ad zbiorczego portfela papierów wartoÊciowych oraz kosztów zwiàzanych z zarzàdzaniem tym portfelem, w tym kosztów transakcji dotyczàcych poszczególnych sk∏adników portfela oraz kosztów zwiàzanych ze zbywaniem i umarzaniem tytu∏ów uczestnictwa tego portfela.
+- **1)** kategorie lokat zbiorczego portfela papierów wartościowych;
+- **2)** procentowy udział poszczególnych kategorii lokat w zbiorczym portfelu papierów wartościowych;
+- **3)** sposób i zasady przyjmowania wpłat do zbiorczego portfela papierów wartościowych;
+- **4)** sposób i zasady przydziału tytułów uczestnictwa zbiorczego portfela papierów wartościowych;
+- **5)** minimalną imaksymalną liczbę tytułów uczestnictwa zbiorczego portfela papierów wartościowych;
+- **6)** liczbę tytułów uczestnictwa pozostałych w zbiorczym portfelu papierów wartościowych, która stanowi przesłankę likwidacji tego portfela;
+- **7)** okoliczności, o których mowa w art. 216 ust. 2 pkt 3;
+- **8)** politykę inwestycyjną stosowaną przez zbiorczy portfel papierów wartościowych;
+- **9)** sposób zarządzania zbiorczym portfelem papierów wartościowych, z uwzględnieniem pożytków z papierów wartościowych ipraw majątkowych wchodzących w skład zbiorczego portfela papierów wartościowych oraz kosztów związanych z zarządzaniem tym portfelem, w tym kosztów transakcji dotyczących poszczególnych składników portfela oraz kosztów związanych ze zbywaniem i umarzaniem tytułów uczestnictwa tego portfela.
 
-3. Postanowienia regulaminu, o którym mowa w art. 210 pkt 5, nie mogà uprzywilejowaç towarzystwa w stosunku do innych posiadaczy tytu∏ów uczestnictwa w zbiorczym portfelu papierów wartoÊciowych.
+3. Postanowienia regulaminu, o którym mowa w art. 210 pkt 5, nie mogą uprzywilejować towarzystwa w stosunku do innych posiadaczy tytułów uczestnictwa w zbiorczym portfelu papierów wartościowych.
 
 **Art. 215.**
 
-1. Maksymalnà liczbà tytu∏ów uczestnictwa w zbiorczym portfelu papierów wartoÊciowych jest liczba okreÊlona w regulaminie, o którym mowa w art. 210 pkt 5.
+1. Maksymalną liczbą tytułów uczestnictwa w zbiorczym portfelu papierów wartościowych jest liczba określona w regulaminie, o którym mowa w art. 210 pkt 5.
 
-2. Tytu∏ uczestnictwa w zbiorczym portfelu papierów wartoÊciowych jest niezbywalny i podlega umorzeniu na ˝àdanie jego posiadacza.
+2. Tytuł uczestnictwa w zbiorczym portfelu papierów wartościowych jest niezbywalny i podlega umorzeniu na żądanie jego posiadacza.
 
-3. Po utworzeniu zbiorczego portfela papierów wartoÊciowych towarzystwo mo˝e przyjmowaç kolejne wp∏aty na nabycie tytu∏ów uczestnictwa. W takim przypadku przepisy art. 213 ust. 2—4 stosuje si´ odpowiednio.
+3. Po utworzeniu zbiorczego portfela papierów wartościowych towarzystwo może przyjmować kolejne wpłaty na nabycie tytułów uczestnictwa. W takim przypadku przepisy art. 213 ust. 2—4 stosuje się odpowiednio.
 
 **Art. 216.**
 
-1. Procentowy sk∏ad portfela papierów wartoÊciowych nie mo˝e podlegaç zmianom, z zastrze˝eniem ust. 2.
+1. Procentowy skład portfela papierów wartościowych nie może podlegać zmianom, z zastrzeżeniem ust. 2.
 
-2. Zmiana sk∏adu portfela papierów wartoÊciowych jest dopuszczalna w przypadku:
+2. Zmiana składu portfela papierów wartościowych jest dopuszczalna w przypadku:
 
-- **1)** wystàpienia zdarzenia losowego lub prawnego, które powoduje umorzenie, wykup lub utrat´ z innej przyczyny przez dany sk∏adnik portfela dotychczasowego statusu;
-- **2)** wystàpienia takiej relacji wartoÊci sk∏adników portfela papierów wartoÊciowych do sk∏adu procentowego okreÊlonego wregulaminie, októrym mowa wart. 210 pkt 5, która uniemo˝liwia dok∏adne ustalenie tego sk∏adu; wtakim przypadku towarzystwo jest obowiàzane do dokonywania transakcji zbycia sk∏adników w sposób zapewniajàcy jak najmniejsze odchylenie rzeczywistego sk∏adu portfela od sk∏adu procentowego okreÊlonego wregulaminie;
-- **3)** wystàpienia okolicznoÊci, które ze wzgl´du na wa˝ny interes ekonomiczny uczestników zbiorczego portfela papierów wartoÊciowych wymagajà zmiany sk∏adu portfela, w szczególnoÊci w razie znacznego spadku wartoÊci sk∏adników portfela poni˝ej wysokoÊci okreÊlonej w regulaminie, o którym mowa w art. 210 pkt 5;
-- **4)** gdy zmiana wynika ze stosowanej przez zbiorczy portfel papierów wartoÊciowych polityki inwestycyjnej, a mo˝liwoÊç dokonania tej zmiany zosta∏a okreÊlona w regulaminie, o którym mowa w art. 210 pkt 5.
+- **1)** wystąpienia zdarzenia losowego lub prawnego, które powoduje umorzenie, wykup lub utratę z innej przyczyny przez dany składnik portfela dotychczasowego statusu;
+- **2)** wystąpienia takiej relacji wartości składników portfela papierów wartościowych do składu procentowego określonego wregulaminie, októrym mowa wart. 210 pkt 5, która uniemożliwia dokładne ustalenie tego składu; wtakim przypadku towarzystwo jest obowiązane do dokonywania transakcji zbycia składników w sposób zapewniający jak najmniejsze odchylenie rzeczywistego składu portfela od składu procentowego określonego wregulaminie;
+- **3)** wystąpienia okoliczności, które ze względu na ważny interes ekonomiczny uczestników zbiorczego portfela papierów wartościowych wymagają zmiany składu portfela, w szczególności w razie znacznego spadku wartości składników portfela poniżej wysokości określonej w regulaminie, o którym mowa w art. 210 pkt 5;
+- **4)** gdy zmiana wynika ze stosowanej przez zbiorczy portfel papierów wartościowych polityki inwestycyjnej, a możliwość dokonania tej zmiany została określona w regulaminie, o którym mowa w art. 210 pkt 5.
 
 **Art. 217.**
 
-1. Towarzystwo prowadzi rejestr tytu∏ów uczestnictwa zbiorczego portfela papierów wartoÊcio2. Do zbywania lub odkupywania tytu∏ów uczestnictwa zbiorczego portfela papierów wartoÊciowych stosuje si´ odpowiednio przepisy dotyczàce zbywania lub odkupywania jednostek uczestnictwa funduszy inwestycyjnych otwartych.
+1. Towarzystwo prowadzi rejestr tytułów uczestnictwa zbiorczego portfela papierów wartościo2. Do zbywania lub odkupywania tytułów uczestnictwa zbiorczego portfela papierów wartościowych stosuje się odpowiednio przepisy dotyczące zbywania lub odkupywania jednostek uczestnictwa funduszy inwestycyjnych otwartych.
 
-3. Do wyceny aktywów zbiorczego portfela papierów wartoÊciowych stosuje si´ odpowiednio przepisy dotyczàce wyceny aktywów funduszu inwestycyjnego.
+3. Do wyceny aktywów zbiorczego portfela papierów wartościowych stosuje się odpowiednio przepisy dotyczące wyceny aktywów funduszu inwestycyjnego.
 
-4. Do aktywów zbiorczego portfela papierów wartoÊciowych oraz do wp∏at dokonanych na rachunek, o którym mowa w art. 213 ust. 2, stosuje si´ odpowiednio przepis art. 81.
+4. Do aktywów zbiorczego portfela papierów wartościowych oraz do wpłat dokonanych na rachunek, o którym mowa w art. 213 ust. 2, stosuje się odpowiednio przepis art. 81.
 
-5. Rada Ministrów okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki wykonywania przez towarzystwo dzia∏alnoÊci w zakresie zarzàdzania zbiorczymi portfelami papierów wartoÊciowych, zuwzgl´dnieniem warunków finansowych i organizacyjnych, jakie musi spe∏niç towarzystwo wcelu zapewnienia bezpiewych. Przepis art. 87 ust. 2 stosuje si´ odpowiednio. czeƒstwa wykonywania tej dzia∏alnoÊci.
+5. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki wykonywania przez towarzystwo działalności w zakresie zarządzania zbiorczymi portfelami papierów wartościowych, zuwzględnieniem warunków finansowych i organizacyjnych, jakie musi spełnić towarzystwo wcelu zapewnienia bezpiewych. Przepis art. 87 ust. 2 stosuje się odpowiednio. czeństwa wykonywania tej działalności.
 
 **Art. 218.**
 
-1. Towarzystwo jest obowiàzane do sporzàdzania pó∏rocznych i rocznych sprawozdaƒ finansowych zbiorczego portfela papierów wartoÊciowych oraz do udost´pniania tych sprawozdaƒ na ˝àdanie uczestnika tego portfela.
+1. Towarzystwo jest obowiązane do sporządzania półrocznych i rocznych sprawozdań finansowych zbiorczego portfela papierów wartościowych oraz do udostępniania tych sprawozdań na żądanie uczestnika tego portfela.
 
-2. Rada Ministrów okreÊli, wdrodze rozporzàdzenia, zakres pó∏rocznych irocznych sprawozdaƒ finansowych zbiorczego portfela papierów wartoÊciowych, w celu umo˝liwienia nabywcom tytu∏ów uczestnictwa zbiorczego portfela papierów wartoÊciowych dokonania oceny ryzyka zwiàzanego zinwestowaniem wte tytu∏y. DZIA¸ X Obowiàzki informacyjne funduszy inwestycyjnych i nadzór Komisji Papierów WartoÊciowych i Gie∏d
+2. Rada Ministrów określi, wdrodze rozporządzenia, zakres półrocznych irocznych sprawozdań finansowych zbiorczego portfela papierów wartościowych, w celu umożliwienia nabywcom tytułów uczestnictwa zbiorczego portfela papierów wartościowych dokonania oceny ryzyka związanego zinwestowaniem wte tytuły. DZIAĘ X Obowiązki informacyjne funduszy inwestycyjnych i nadzór Komisji Papierów Wartościowych i Giełd
 
 **Art. 219.**
 
-1. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty majà obowiàzek publikowania prospektów informacyjnych oraz skrótów tych prospektów oraz pó∏rocznych sprawozdaƒ finansowych, w tym po∏àczonych sprawozdaƒ funduszy z wydzielonymi subfunduszami oraz sprawozdaƒ jednostkowych subfunduszy na stronach internetowych wskazanych w statucie funduszu.
+1. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty mają obowiązek publikowania prospektów informacyjnych oraz skrótów tych prospektów oraz półrocznych sprawozdań finansowych, w tym połączonych sprawozdań funduszy z wydzielonymi subfunduszami oraz sprawozdań jednostkowych subfunduszy na stronach internetowych wskazanych w statucie funduszu.
 
-2. Fundusz inwestycyjny zamkni´ty emitujàcy certyfikaty inwestycyjne podlegajàce wprowadzeniu do publicznego obrotu publikuje prospekt emisyjny oraz skrót tego prospektu w sposób okreÊlony przepisami o publicznym obrocie papierami wartoÊciowymi.
+2. Fundusz inwestycyjny zamknięty emitujący certyfikaty inwestycyjne podlegające wprowadzeniu do publicznego obrotu publikuje prospekt emisyjny oraz skrót tego prospektu w sposób określony przepisami o publicznym obrocie papierami wartościowymi.
 
-3. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty publikuje pó∏roczne sprawozdania finansowe, w tym po∏àczone sprawozdania funduszy z wydzielonymi subfunduszami oraz sprawozdania jednostkowe subfunduszy wterminie 2 miesi´cy od zakoƒczenia pierwszego pó∏rocza roku obrotowego.
+3. Fundusz inwestycyjny otwarty oraz specjalistyczny fundusz inwestycyjny otwarty publikuje półroczne sprawozdania finansowe, w tym połączone sprawozdania funduszy z wydzielonymi subfunduszami oraz sprawozdania jednostkowe subfunduszy wterminie 2 miesięcy od zakończenia pierwszego półrocza roku obrotowego.
 
 **Art. 220.**
 
-1. Prospekt informacyjny funduszu inwestycyjnego otwartego powinien zawieraç statut funduszu oraz wszelkie informacje niezb´dne do oceny ryzyka inwestycyjnego.
+1. Prospekt informacyjny funduszu inwestycyjnego otwartego powinien zawierać statut funduszu oraz wszelkie informacje niezbędne do oceny ryzyka inwestycyjnego.
 
-2. Na ˝àdanie uczestnika towarzystwo ma obowiàzek udzieliç dodatkowych informacji o limitach inwestycyjnych funduszu, sposobie zarzàdzania ryzykiem inwestycyjnym funduszu, a tak˝e o aktualnych zmianach iprzyrostach wartoÊci wzakresie g∏ównych lokat funduszu.
+2. Na żądanie uczestnika towarzystwo ma obowiązek udzielić dodatkowych informacji o limitach inwestycyjnych funduszu, sposobie zarządzania ryzykiem inwestycyjnym funduszu, a także o aktualnych zmianach iprzyrostach wartości wzakresie głównych lokat funduszu.
 
-**Art. 221.** Rada Ministrów okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki, jakim powinien odpowiadaç prospekt informacyjny funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego, a tak˝e skrót tego prospektu, majàc na uwadze umo˝liwienie nabywcom jednostek uczestnictwa dokonania oceny ryzyka zwiàzanego z lokatami funduszu oraz ryzyka zwiàzanego z inwestowaniem w te jednostki.
+**Art. 221.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki, jakim powinien odpowiadać prospekt informacyjny funduszu inwestycyjnego otwartego oraz specjalistycznego funduszu inwestycyjnego otwartego, a także skrót tego prospektu, mając na uwadze umożliwienie nabywcom jednostek uczestnictwa dokonania oceny ryzyka związanego z lokatami funduszu oraz ryzyka związanego z inwestowaniem w te jednostki.
 
 **Art. 222.**
 
-1. Przy zbywaniu jednostek uczestnictwa nym lub skrócie tego prospektu niezw∏ocznie po ich wprowadzeniu.
+1. Przy zbywaniu jednostek uczestnictwa nym lub skrócie tego prospektu niezwłocznie po ich wprowadzeniu.
 
-6. Fundusz inwestycyjny otwarty jest obowiàzany udost´pniaç we wszystkich miejscach zbywania jednostek uczestnictwa oraz na stronach internetowych wskazanych w statucie funduszu aktualne informacje o zmianach w prospekcie informacyjnym lub skrócie tego prospektu.
+6. Fundusz inwestycyjny otwarty jest obowiązany udostępniać we wszystkich miejscach zbywania jednostek uczestnictwa oraz na stronach internetowych wskazanych w statucie funduszu aktualne informacje o zmianach w prospekcie informacyjnym lub skrócie tego prospektu.
 
-**Art. 223.** Bieg∏y rewident jest obowiàzany, za poÊrednictwem podmiotu uprawnionego do badania sprawozdaƒ finansowych:
+**Art. 223.** Biegły rewident jest obowiązany, za pośrednictwem podmiotu uprawnionego do badania sprawozdań finansowych:
 
 **Art. 225.**
 
 1. Towarzystwo i fundusz inwestycyjny
 
-3. Roczne i pó∏roczne sprawozdania finansowe, majà obowiàzek dostarczania Komisji okresowych po∏àczone sprawozdania finansowe funduszu z wy- sprawozdaƒ oraz bie˝àcych informacji dotyczàcych dzielonymi subfunduszami oraz sprawozdania jed- ich dzia∏alnoÊci i sytuacji finansowej. nostkowe subfunduszy, atak˝e prospekt informacyjny powinny byç dost´pne w miejscach zbywania jedno- 2. Towarzystwo i fundusz inwestycyjny majà obostek uczestnictwa wskazanych w prospekcie informa- wiàzek dostarczania, na ˝àdanie Komisji lub jej upocyjnym lub skrócie tego prospektu. wa˝nionego przedstawiciela, innych informacji, dokumentów lub wyjaÊnieƒ niezb´dnych do wykonywania
+3. Roczne i półroczne sprawozdania finansowe, mają obowiązek dostarczania Komisji okresowych połączone sprawozdania finansowe funduszu z wy- sprawozdań oraz bieżących informacji dotyczących dzielonymi subfunduszami oraz sprawozdania jed- ich działalności i sytuacji finansowej. nostkowe subfunduszy, atakże prospekt informacyjny powinny być dostępne w miejscach zbywania jedno- 2. Towarzystwo i fundusz inwestycyjny mają obostek uczestnictwa wskazanych w prospekcie informa- wiązek dostarczania, na żądanie Komisji lub jej upocyjnym lub skrócie tego prospektu. ważnionego przedstawiciela, innych informacji, dokumentów lub wyjaśnień niezbędnych do wykonywania
 
 4. Fundusz inwestycyjny otwarty przekazuje Komi- efektywnego nadzoru. sji:
 
-3. Rada Ministrów okreÊli, w drodze rozporzàdze1) prospekty informacyjne i skróty tych prospektów nia, zakres sprawozdaƒ i informacji, o których mowa po ich sporzàdzeniu; w ust. 1, form´ oraz terminy ich dostarczania z uwzgl´dnieniem koniecznoÊci wykonywania przez
+3. Rada Ministrów określi, w drodze rozporządze1) prospekty informacyjne i skróty tych prospektów nia, zakres sprawozdań i informacji, o których mowa po ich sporządzeniu; w ust. 1, formę oraz terminy ich dostarczania z uwzględnieniem konieczności wykonywania przez
 
-- **2)** roczne sprawozdania finansowe, a w przypadku Komisj´ nadzoru nad dzia∏alnoÊcià towarzystwa ifunfunduszu z wydzielonymi subfunduszami rocz- duszu w zakresie okreÊlonym ustawà oraz oceny, czy ne po∏àczone sprawozdanie finansowe funduszu dzia∏alnoÊç ta jest wykonywana w interesie uczestnioraz roczne sprawozdania jednostkowe subfundu- ków funduszu, uczestników zbiorczego portfela papieszy niezw∏ocznie po ich zbadaniu przez bieg∏e- rów wartoÊciowych albo klientów, dla których towago rewidenta; rzystwo Êwiadczy us∏ugi zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradz3) pó∏roczne sprawozdania finansowe, a w przypad- twa w zakresie obrotu papierami wartoÊciowymi. ku funduszu z wydzielonymi subfunduszami pó∏roczne po∏àczone sprawozdanie finansowe Art. 226.1. Na podstawie upowa˝nienia wydanego funduszu oraz pó∏roczne sprawozdania jednostko- przez Przewodniczàcego Komisji osoba wnim wskazawe subfunduszy niezw∏ocznie po dokonaniu ich na ma prawo wst´pu do pomieszczeƒ: przeglàdu przez bieg∏ego rewidenta.
-- **1)** towarzystwa wcelu sprawdzenia, czy jego dzia5. Fundusz inwestycyjny otwarty przekazuje Komisji informacje o zmianach w prospekcie informacyj∏alnoÊç jest zgodna zprawem, statutem lub udzielonym zezwoleniem;
-- **2)** depozytariusza w celu sprawdzenia, czy jego dzia∏alnoÊç w zakresie wykonywania obowiàzków depozytariusza jest zgodna z prawem lub z umowà o prowadzenie rejestru aktywów funduszu inwestycyjnego;
-- **3)** podmiotu, októrym mowa wart. 32 ust. 2 wcelu sprawdzenia, czy jego dzia∏alnoÊç w zakresie poÊrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytu∏ów uczestnictwa lub wykupywaniu certyfikatów inwestycyjnych jest zgodna z prawem, umowà zawartà z funduszem i udzielonym zezwoleniem;
-- **4)** podmiotu, któremu towarzystwo powierzy∏o wykonywanie swoich obowiàzków w celu sprawdzenia, czy jego dzia∏alnoÊç wzakresie wykonywania obowiàzków wynikajàcych z umowy zawartej z towarzystwem jest zgodna z tà umowà oraz statutem funduszu inwestycyjnego;
-- **5)** podmiotu prowadzàcego rejestr uczestników funduszu inwestycyjnego w celu sprawdzenia, czy jego dzia∏alnoÊç w zakresie wykonywania obowiàzków wynikajàcych zumowy zawartej zfunduszem inwestycyjnym jest zgodna ztà umowà oraz statutem funduszu inwestycyjnego;
-- **6)** spó∏ki zarzàdzajàcej, oddzia∏u spó∏ki zarzàdzajàcej lub funduszu zagranicznego, spó∏ki zarzàdzajàcej funduszami inwestycyjnymi otwartymi z siedzibà w paƒstwach nale˝àcych do EEA lub OECD, oddzia∏u tej spó∏ki lub funduszu inwestycyjnego otwartego z siedzibà w paƒstwach nale˝àcych do EEA lub OECD, znajdujàcych si´ na terytorium Rzeczypospolitej Polskiej w celu sprawdzenia, czy ich dzia∏alnoÊç jest wykonywana zgodnie z przepisami obowiàzujàcymi na terytorium Rzeczypospolitej Polskiej;
-- **7)** podmiotu, o którym mowa w art. 192 ust. 1 w celu sprawdzenia, czy jego dzia∏alnoÊç w zakresie wykonywania obowiàzków wynikajàcych z umowy zawartej z funduszem inwestycyjnym jest zgodna ztà umowà oraz statutem funduszu inwestycyjnego.
+- **2)** roczne sprawozdania finansowe, a w przypadku Komisję nadzoru nad działalnością towarzystwa ifunfunduszu z wydzielonymi subfunduszami rocz- duszu w zakresie określonym ustawą oraz oceny, czy ne połączone sprawozdanie finansowe funduszu działalność ta jest wykonywana w interesie uczestnioraz roczne sprawozdania jednostkowe subfundu- ków funduszu, uczestników zbiorczego portfela papieszy niezwłocznie po ich zbadaniu przez biegłe- rów wartościowych albo klientów, dla których towago rewidenta; rzystwo świadczy usługi zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradz3) półroczne sprawozdania finansowe, a w przypad- twa w zakresie obrotu papierami wartościowymi. ku funduszu z wydzielonymi subfunduszami półroczne połączone sprawozdanie finansowe Art. 226.1. Na podstawie upoważnienia wydanego funduszu oraz półroczne sprawozdania jednostko- przez Przewodniczącego Komisji osoba wnim wskazawe subfunduszy niezwłocznie po dokonaniu ich na ma prawo wstępu do pomieszczeń: przeglądu przez biegłego rewidenta.
+- **1)** towarzystwa wcelu sprawdzenia, czy jego dzia5. Fundusz inwestycyjny otwarty przekazuje Komisji informacje o zmianach w prospekcie informacyjłalność jest zgodna zprawem, statutem lub udzielonym zezwoleniem;
+- **2)** depozytariusza w celu sprawdzenia, czy jego działalność w zakresie wykonywania obowiązków depozytariusza jest zgodna z prawem lub z umową o prowadzenie rejestru aktywów funduszu inwestycyjnego;
+- **3)** podmiotu, októrym mowa wart. 32 ust. 2 wcelu sprawdzenia, czy jego działalność w zakresie pośrednictwa w zbywaniu i odkupywaniu jednostek uczestnictwa lub tytułów uczestnictwa lub wykupywaniu certyfikatów inwestycyjnych jest zgodna z prawem, umową zawartą z funduszem i udzielonym zezwoleniem;
+- **4)** podmiotu, któremu towarzystwo powierzyło wykonywanie swoich obowiązków w celu sprawdzenia, czy jego działalność wzakresie wykonywania obowiązków wynikających z umowy zawartej z towarzystwem jest zgodna z tą umową oraz statutem funduszu inwestycyjnego;
+- **5)** podmiotu prowadzącego rejestr uczestników funduszu inwestycyjnego w celu sprawdzenia, czy jego działalność w zakresie wykonywania obowiązków wynikających zumowy zawartej zfunduszem inwestycyjnym jest zgodna ztą umową oraz statutem funduszu inwestycyjnego;
+- **6)** spółki zarządzającej, oddziału spółki zarządzającej lub funduszu zagranicznego, spółki zarządzającej funduszami inwestycyjnymi otwartymi z siedzibą w państwach należących do EEA lub OECD, oddziału tej spółki lub funduszu inwestycyjnego otwartego z siedzibą w państwach należących do EEA lub OECD, znajdujących się na terytorium Rzeczypospolitej Polskiej w celu sprawdzenia, czy ich działalność jest wykonywana zgodnie z przepisami obowiązującymi na terytorium Rzeczypospolitej Polskiej;
+- **7)** podmiotu, o którym mowa w art. 192 ust. 1 w celu sprawdzenia, czy jego działalność w zakresie wykonywania obowiązków wynikających z umowy zawartej z funduszem inwestycyjnym jest zgodna ztą umową oraz statutem funduszu inwestycyjnego.
 
-2. Kontrolujàcy ma prawo:
+2. Kontrolujący ma prawo:
 
-- **3)** termin wa˝noÊci upowa˝nienia;
-- **4)** podmiot lub podmioty, które majà byç kontrolowane.
+- **3)** termin ważności upoważnienia;
+- **4)** podmiot lub podmioty, które mają być kontrolowane.
 
-4. Do post´powania kontrolnego lub wyjaÊniajàcego wobec podmiotów, o których mowa w ust. 1, stosuje si´ przepisy o post´powaniu kontrolnym i wyjaÊniajàcym, o których mowa w przepisach o publicznym obrocie papierami wartoÊciowymi.
+4. Do postępowania kontrolnego lub wyjaśniającego wobec podmiotów, o których mowa w ust. 1, stosuje się przepisy o postępowaniu kontrolnym i wyjaśniającym, o których mowa w przepisach o publicznym obrocie papierami wartościowymi.
 
 **Art. 227.**
 
-1. Podmiot, o którym mowa w art. 32 ust. 2, który zaprzesta∏ wykonywania dzia∏alnoÊci okreÊlonej w ustawie, ma obowiàzek archiwizowania i przechowywania, przez 5 lat od dnia zaprzestania tej dzia∏alnoÊci, dokumentów oraz innych noÊników informacji zwiàzanych zwykonywaniem tej dzia∏alnoÊci.
+1. Podmiot, o którym mowa w art. 32 ust. 2, który zaprzestał wykonywania działalności określonej w ustawie, ma obowiązek archiwizowania i przechowywania, przez 5 lat od dnia zaprzestania tej działalności, dokumentów oraz innych nośników informacji związanych zwykonywaniem tej działalności.
 
-2. Upowa˝niony przedstawiciel Komisji ma prawo wst´pu do siedziby lub lokalu podmiotu przechowujàcego dokumenty i inne noÊniki informacji, o których mowa w ust. 1 lub art. 69, celem wglàdu do tych dokumentów i noÊników.
+2. Upoważniony przedstawiciel Komisji ma prawo wstępu do siedziby lub lokalu podmiotu przechowującego dokumenty i inne nośniki informacji, o których mowa w ust. 1 lub art. 69, celem wglądu do tych dokumentów i nośników.
 
-3. Na pisemne ˝àdanie Komisji lub jej upowa˝nionego przedstawiciela podmiot przechowujàcy dokumenty, o których mowa w ust. 1 lub art. 69, jest obowiàzany do niezw∏ocznego sporzàdzenia iprzekazania kopii tych dokumentów.
+3. Na pisemne żądanie Komisji lub jej upoważnionego przedstawiciela podmiot przechowujący dokumenty, o których mowa w ust. 1 lub art. 69, jest obowiązany do niezwłocznego sporządzenia iprzekazania kopii tych dokumentów.
 
 **Art. 228.**
 
-1. Wprzypadku gdy towarzystwo narusza przepisy prawa, nie wype∏nia warunków okreÊlonych w zezwoleniu, przekracza zakres zezwolenia lub narusza interes uczestników funduszu inwestycyjnego lub uczestników zbiorczego portfela papierów wartoÊciowych, Komisja mo˝e, w drodze decyzji:
+1. Wprzypadku gdy towarzystwo narusza przepisy prawa, nie wypełnia warunków określonych w zezwoleniu, przekracza zakres zezwolenia lub narusza interes uczestników funduszu inwestycyjnego lub uczestników zbiorczego portfela papierów wartościowych, Komisja może, w drodze decyzji:
 
-- **1)** cofnàç zezwolenie albo
-- **2)** na∏o˝yç kar´ pieni´˝nà do wysokoÊci 500 000 z∏, albo
-- **3)** zastosowaç ∏àcznie obie sankcje, o których mowa w pkt 1 i 2.
+- **1)** cofnąć zezwolenie albo
+- **2)** nałożyć karę pieniężną do wysokości 500 000 zł, albo
+- **3)** zastosować łącznie obie sankcje, o których mowa w pkt 1 i 2.
 
-2. Komisja mo˝e na∏o˝yç na towarzystwo sankcje, o których mowa w ust. 1, je˝eli stwierdzi, ˝e fundusz inwestycyjny narusza przepisy regulujàce dzia∏alnoÊç funduszy inwestycyjnych lub przepisy o publicznym
+2. Komisja może nałożyć na towarzystwo sankcje, o których mowa w ust. 1, jeżeli stwierdzi, że fundusz inwestycyjny narusza przepisy regulujące działalność funduszy inwestycyjnych lub przepisy o publicznym
 
-- **1)** wglàdu do ksiàg, dokumentów i innych noÊników obrocie papierami wartoÊciowymi, nie przestrzega informacji; przepisów statutu lub warunków okreÊlonych w ze2) ˝àdania sporzàdzenia, na koszt kontrolowanego, zwoleniu. oraz wydania kopii tych dokumentów i noÊników 3. Wprzypadku gdy towarzystwo narusza przepisy informacji; prawa, nie wype∏nia warunków okreÊlonych wzezwo3) ˝àdania udzielenia informacji lub wyjaÊnieƒ przez leniu na zarzàdzanie cudzym pakietem papierów warpracowników kontrolowanych podmiotów. toÊciowych na zlecenie lub w zezwoleniu na wykonywanie doradztwa w zakresie obrotu papierami warto3. Upowa˝nienie, októrym mowa wust. 1, jest wy- Êciowymi, przekracza zakres zezwolenia, nie przestrzedawane na piÊmie i okreÊla: ga zasad uczciwego obrotu lub narusza interes zleceniodawcy, Komisja mo˝e, w drodze decyzji:
-- **1)** imi´ i nazwisko kontrolujàcego oraz jego stanowisko s∏u˝bowe; 1) cofnàç zezwolenie na zarzàdzanie cudzym pakietem papierów wartoÊciowych na zlecenie lub ze2) seri´ i numer dowodu osobistego kontrolujàcego lub numer legitymacji s∏u˝bowej kontrolujàcego; zwolenie na wykonywanie doradztwa w zakresie obrotu papierami wartoÊciowymi albo
-- **2)** na∏o˝yç kar´ pieni´˝nà do wysokoÊci 500 000 z∏, albo
-- **3)** zastosowaç ∏àcznie sankcje, o których mowa w pkt 1 i 2.
+- **1)** wglądu do ksiąg, dokumentów i innych nośników obrocie papierami wartościowymi, nie przestrzega informacji; przepisów statutu lub warunków określonych w ze2) żądania sporządzenia, na koszt kontrolowanego, zwoleniu. oraz wydania kopii tych dokumentów i nośników 3. Wprzypadku gdy towarzystwo narusza przepisy informacji; prawa, nie wypełnia warunków określonych wzezwo3) żądania udzielenia informacji lub wyjaśnień przez leniu na zarządzanie cudzym pakietem papierów warpracowników kontrolowanych podmiotów. tościowych na zlecenie lub w zezwoleniu na wykonywanie doradztwa w zakresie obrotu papierami warto3. Upoważnienie, októrym mowa wust. 1, jest wy- ściowymi, przekracza zakres zezwolenia, nie przestrzedawane na piśmie i określa: ga zasad uczciwego obrotu lub narusza interes zleceniodawcy, Komisja może, w drodze decyzji:
+- **1)** imię i nazwisko kontrolującego oraz jego stanowisko służbowe; 1) cofnąć zezwolenie na zarządzanie cudzym pakietem papierów wartościowych na zlecenie lub ze2) serię i numer dowodu osobistego kontrolującego lub numer legitymacji służbowej kontrolującego; zwolenie na wykonywanie doradztwa w zakresie obrotu papierami wartościowymi albo
+- **2)** nałożyć karę pieniężną do wysokości 500 000 zł, albo
+- **3)** zastosować łącznie sankcje, o których mowa w pkt 1 i 2.
 
-4. Wprzypadku gdy umowa lub umowy, októrych mowa w art. 185 ust. 6, nie zostanà zawarte w terminie 3 miesi´cy od dnia zarejestrowania funduszu, Komisja mo˝e na∏o˝yç na towarzystwo kar´ pieni´˝nà w wysokoÊci do 500 000 z∏.
+4. Wprzypadku gdy umowa lub umowy, októrych mowa w art. 185 ust. 6, nie zostaną zawarte w terminie 3 miesięcy od dnia zarejestrowania funduszu, Komisja może nałożyć na towarzystwo karę pieniężną w wysokości do 500 000 zł.
 
-5. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy. Komisja mo˝e nadaç decyzji rygor natychmiastowej wykonalnoÊci.
+5. Wydanie decyzji następuje po przeprowadzeniu rozprawy. Komisja może nadać decyzji rygor natychmiastowej wykonalności.
 
-6. Decyzja podlega og∏oszeniu w Dzienniku Urz´dowym Komisji Papierów WartoÊciowych i Gie∏d. Komisja mo˝e nakazaç jej og∏oszenie w dwóch dziennikach ogólnopolskich na koszt towarzystwa, je˝eli jest to szczególnie istotne ze wzgl´du na ochron´ interesów uczestników.
+6. Decyzja podlega ogłoszeniu w Dzienniku Urzędowym Komisji Papierów Wartościowych i Giełd. Komisja może nakazać jej ogłoszenie w dwóch dziennikach ogólnopolskich na koszt towarzystwa, jeżeli jest to szczególnie istotne ze względu na ochronę interesów uczestników.
 
-7. Wydane przez Komisj´ decyzje dotyczàce funduszu inwestycyjnego, którego jednostki uczestnictwa lub certyfikaty inwestycyjne sà zbywane na terytorium paƒstw cz∏onkowskich Unii Europejskiej, a poza terytorium Rzeczypospolitej Polskiej, Komisja niezw∏ocznie przekazuje organom paƒstwa w∏aÊciwym dla nadzoru nad funduszami inwestycyjnymi, w którym te jednostki lub certyfikaty sà zbywane.
+7. Wydane przez Komisję decyzje dotyczące funduszu inwestycyjnego, którego jednostki uczestnictwa lub certyfikaty inwestycyjne są zbywane na terytorium państw członkowskich Unii Europejskiej, a poza terytorium Rzeczypospolitej Polskiej, Komisja niezwłocznie przekazuje organom państwa właściwym dla nadzoru nad funduszami inwestycyjnymi, w którym te jednostki lub certyfikaty są zbywane.
 
 **Art. 229.**
 
-1. Informacje dotyczàce funduszu inwestycyjnego albo zbiorczego portfela papierów wartoÊciowych publikowane przez towarzystwo, w tym informacje reklamowe, powinny rzetelnie przedstawiaç sytuacj´ finansowà funduszu albo zbiorczego portfela papierów wartoÊciowych oraz ryzyko zwiàzane z uczestnictwem w funduszu albo zbiorczym portfelu papierów wartoÊciowych, a w przypadku, o którym mowa wart. 100 ust. 3, tak˝e wskazywaç emitenta, por´czyciela lub gwaranta papierów wartoÊciowych. Publikowane informacje nie mogà wprowadzaç w b∏àd.
+1. Informacje dotyczące funduszu inwestycyjnego albo zbiorczego portfela papierów wartościowych publikowane przez towarzystwo, w tym informacje reklamowe, powinny rzetelnie przedstawiać sytuację finansową funduszu albo zbiorczego portfela papierów wartościowych oraz ryzyko związane z uczestnictwem w funduszu albo zbiorczym portfelu papierów wartościowych, a w przypadku, o którym mowa wart. 100 ust. 3, także wskazywać emitenta, poręczyciela lub gwaranta papierów wartościowych. Publikowane informacje nie mogą wprowadzać w błąd.
 
-2. Ka˝da informacja reklamowa odnoszàca si´ do nabywania jednostek uczestnictwa lub certyfikatów inwestycyjnych musi wskazywaç na istnienie odpoo których mowa w ust. 1, nale˝y zamieÊciç wyeksponowane stwierdzenie wskazujàce na t´ cech´.
+2. Każda informacja reklamowa odnosząca się do nabywania jednostek uczestnictwa lub certyfikatów inwestycyjnych musi wskazywać na istnienie odpoo których mowa w ust. 1, należy zamieścić wyeksponowane stwierdzenie wskazujące na tę cechę.
 
-5. Je˝eli Komisja stwierdzi, ˝e publikacje, októrych mowa w ust. 1, wprowadzajà lub mogà wprowadziç w b∏àd, mo˝e zakazaç ich og∏aszania i nakazaç og∏oszenie odpowiednich sprostowaƒ w wyznaczonym terminie.
+5. Jeżeli Komisja stwierdzi, że publikacje, októrych mowa w ust. 1, wprowadzają lub mogą wprowadzić w błąd, może zakazać ich ogłaszania i nakazać ogłoszenie odpowiednich sprostowań w wyznaczonym terminie.
 
-6. Je˝eli zakaz lub nakaz, októrych mowa wust. 5, nie zostanie wykonany, Komisja nak∏ada na towarzystwo kar´ pieni´˝nà w wysokoÊci do 500 000 z∏. W takim wypadku Komisja dokona og∏oszenia odpowiednich sprostowaƒ na koszt towarzystwa.
+6. Jeżeli zakaz lub nakaz, októrych mowa wust. 5, nie zostanie wykonany, Komisja nakłada na towarzystwo karę pieniężną w wysokości do 500 000 zł. W takim wypadku Komisja dokona ogłoszenia odpowiednich sprostowań na koszt towarzystwa.
 
-7. Fundusze inwestycyjne inne ni˝ fundusze inwestycyjne otwarte, jak równie˝ fundusze inwestycyjne otwarte dzia∏ajàce jako fundusze podstawowe lub powiàzane, nie mogà wswoich statutach, wprospektach lub w innych publikowanych i dost´pnych w sposób publiczny informacjach reklamowych wskazywaç, ˝e spe∏niajà wymagania okreÊlone w przepisach prawa wiednio prospektu informacyjnego, skrótu prospektu informacyjnego, prospektu emisyjnego albo warunków emisji iwskazywaç miejsce, wktórym dany dokument jest publicznie dost´pny.
+7. Fundusze inwestycyjne inne niż fundusze inwestycyjne otwarte, jak również fundusze inwestycyjne otwarte działające jako fundusze podstawowe lub powiązane, nie mogą wswoich statutach, wprospektach lub w innych publikowanych i dostępnych w sposób publiczny informacjach reklamowych wskazywać, że spełniają wymagania określone w przepisach prawa wiednio prospektu informacyjnego, skrótu prospektu informacyjnego, prospektu emisyjnego albo warunków emisji iwskazywać miejsce, wktórym dany dokument jest publicznie dostępny.
 
-3. Je˝eli wartoÊç aktywów netto funduszu inwestycyjnego cechuje si´ lub b´dzie si´ cechowaç du˝à zmiennoÊcià ze wzgl´du na sk∏ad portfela inwestycyjnego funduszu lub na stosowane techniki zarzàdzania tym portfelem, w informacjach o funduszu, o których mowa w ust. 1, nale˝y zamieÊciç wyeksponowane stwierdzenie wskazujàce na t´ cech´.
+3. Jeżeli wartość aktywów netto funduszu inwestycyjnego cechuje się lub będzie się cechować dużą zmiennością ze względu na skład portfela inwestycyjnego funduszu lub na stosowane techniki zarządzania tym portfelem, w informacjach o funduszu, o których mowa w ust. 1, należy zamieścić wyeksponowane stwierdzenie wskazujące na tę cechę.
 
-4. Je˝eli fundusz inwestycyjny otwarty lokuje wi´kszoÊç aktywów winne kategorie lokat ni˝ papiery wartoÊciowe lub instrumenty rynku pieni´˝nego albo odzwierciedla sk∏ad indeksu papierów wartoÊciowych, zgodnie z art. 99 ust. 1, w informacjach o funduszu, wspólnotowego regulujàcego zasady zbiorowego inwestowania w papiery wartoÊciowe lub sugerowaç, ˝e ich dzia∏alnoÊç jest zgodna z tymi przepisami.
+4. Jeżeli fundusz inwestycyjny otwarty lokuje większość aktywów winne kategorie lokat niż papiery wartościowe lub instrumenty rynku pieniężnego albo odzwierciedla skład indeksu papierów wartościowych, zgodnie z art. 99 ust. 1, w informacjach o funduszu, wspólnotowego regulującego zasady zbiorowego inwestowania w papiery wartościowe lub sugerować, że ich działalność jest zgodna z tymi przepisami.
 
 **Art. 230.**
 
-1. W uzasadnionych przypadkach Komisja mo˝e nakazaç funduszowi inwestycyjnemu zmian´ osób, októrych mowa wart. 22 pkt 4, 6 i7, wyznaczajàc termin na dokonanie tej zmiany, nie krótszy ni˝ 14 dni.
+1. W uzasadnionych przypadkach Komisja może nakazać funduszowi inwestycyjnemu zmianę osób, októrych mowa wart. 22 pkt 4, 6 i7, wyznaczając termin na dokonanie tej zmiany, nie krótszy niż 14 dni.
 
-2. Je˝eli zmiana, októrej mowa ust. 1, nie zostanie dokonana w okreÊlonym terminie, Komisja mo˝e na∏o˝yç na towarzystwo kar´ pieni´˝nà w wysokoÊci do 500 000 z∏.
+2. Jeżeli zmiana, októrej mowa ust. 1, nie zostanie dokonana w określonym terminie, Komisja może nałożyć na towarzystwo karę pieniężną w wysokości do 500 000 zł.
 
-3. Je˝eli pomimo na∏o˝enia kary pieni´˝nej zmiana nie zostanie dokonana, Komisja mo˝e cofnàç zezwolenie na utworzenie towarzystwa. W takim przypadku stosuje si´ przepis art. 68.
+3. Jeżeli pomimo nałożenia kary pieniężnej zmiana nie zostanie dokonana, Komisja może cofnąć zezwolenie na utworzenie towarzystwa. W takim przypadku stosuje się przepis art. 68.
 
-**Art. 231.** Depozytariusz jest obowiàzany niezw∏ocznie zawiadomiç Komisj´, ˝e fundusz dzia∏a znaruszeniem prawa lub nienale˝ycie uwzgl´dnia interes uczestników funduszu.
+**Art. 231.** Depozytariusz jest obowiązany niezwłocznie zawiadomić Komisję, że fundusz działa znaruszeniem prawa lub nienależycie uwzględnia interes uczestników funduszu.
 
 **Art. 232.**
 
-1. Je˝eli depozytariusz narusza przepisy ustawy lub nie wype∏nia obowiàzków okreÊlonych w umowie o prowadzenie rejestru aktywów funduszu inwestycyjnego, Komisja mo˝e nakazaç funduszowi zmian´ depozytariusza lub na∏o˝yç na depozytariusza kar´ pieni´˝nà w wysokoÊci do 500 000 z∏.
+1. Jeżeli depozytariusz narusza przepisy ustawy lub nie wypełnia obowiązków określonych w umowie o prowadzenie rejestru aktywów funduszu inwestycyjnego, Komisja może nakazać funduszowi zmianę depozytariusza lub nałożyć na depozytariusza karę pieniężną w wysokości do 500 000 zł.
 
-2. Je˝eli depozytariusz nie wype∏nia okreÊlonych w ustawie obowiàzków przekazywania informacji Komisji, Komisja mo˝e na∏o˝yç kar´ pieni´˝nà w wysokoÊci do 500 000 z∏.
+2. Jeżeli depozytariusz nie wypełnia określonych w ustawie obowiązków przekazywania informacji Komisji, Komisja może nałożyć karę pieniężną w wysokości do 500 000 zł.
 
-3. W razie powzi´cia wàtpliwoÊci co do prawid∏owoÊci lub rzetelnoÊci sprawozdaƒ finansowych towarzystwa lub funduszu inwestycyjnego albo innych informacji finansowych, których obowiàzek sporzàdzenia wynika zodr´bnych przepisów, lub prawid∏owoÊci prowadzenia ksiàg rachunkowych, Komisja mo˝e zleciç kontrol´ tych sprawozdaƒ, informacji i ksiàg rachunkowych podmiotowi uprawnionemu do badania sprawozdaƒ finansowych. W przypadku gdy kontrola wyka˝e, ˝e wàtpliwoÊci by∏y uzasadnione, towarzystwo zwraca Komisji koszty przeprowadzenia kontroli.
+3. W razie powzięcia wątpliwości co do prawidłowości lub rzetelności sprawozdań finansowych towarzystwa lub funduszu inwestycyjnego albo innych informacji finansowych, których obowiązek sporządzenia wynika zodrębnych przepisów, lub prawidłowości prowadzenia ksiąg rachunkowych, Komisja może zlecić kontrolę tych sprawozdań, informacji i ksiąg rachunkowych podmiotowi uprawnionemu do badania sprawozdań finansowych. W przypadku gdy kontrola wykaże, że wątpliwości były uzasadnione, towarzystwo zwraca Komisji koszty przeprowadzenia kontroli.
 
 **Art. 233.**
 
-1. W przypadku gdy podmiot, o którym mowa w art. 32 ust. 2, narusza przepisy ustawy, nie wype∏nia warunków okreÊlonych w zezwoleniu lub przekracza zakres zezwolenia, lub wykonuje dzia∏alnoÊç z naruszeniem interesów uczestników funduszy, Komisja mo˝e, w drodze decyzji:
+1. W przypadku gdy podmiot, o którym mowa w art. 32 ust. 2, narusza przepisy ustawy, nie wypełnia warunków określonych w zezwoleniu lub przekracza zakres zezwolenia, lub wykonuje działalność z naruszeniem interesów uczestników funduszy, Komisja może, w drodze decyzji:
 
-- **1)** cofnàç zezwolenie albo
-- **2)** na∏o˝yç kar´ pieni´˝nà do wysokoÊci 500 000 z∏, albo
-- **3)** zastosowaç ∏àcznie obie sankcje, o których mowa w pkt 1 i 2.
+- **1)** cofnąć zezwolenie albo
+- **2)** nałożyć karę pieniężną do wysokości 500 000 zł, albo
+- **3)** zastosować łącznie obie sankcje, o których mowa w pkt 1 i 2.
 
-2. W przypadku gdy podmiot, o którym mowa w art. 226 ust. 1 pkt 4, wykonuje dzia∏alnoÊç w zakresie wykonywania obowiàzków wynikajàcych zumowy zawartej ztowarzystwem niezgodnie ztà umowà oraz statutem funduszu inwestycyjnego, Komisja mo˝e na∏o˝yç na ten podmiot kar´ pieni´˝nà do wysokoÊci 500000 z∏ lub nakazaç towarzystwu odstàpienie od umowy.
+2. W przypadku gdy podmiot, o którym mowa w art. 226 ust. 1 pkt 4, wykonuje działalność w zakresie wykonywania obowiązków wynikających zumowy zawartej ztowarzystwem niezgodnie ztą umową oraz statutem funduszu inwestycyjnego, Komisja może nałożyć na ten podmiot karę pieniężną do wysokości 500000 zł lub nakazać towarzystwu odstąpienie od umowy.
 
-3. W przypadku gdy podmiot, o którym mowa w art. 226 ust. 1 pkt 5, wykonuje dzia∏alnoÊç w zakresie wykonywania obowiàzków wynikajàcych zumowy zawartej zfunduszem niezgodnie ztà umowà oraz statutem funduszu inwestycyjnego, Komisja mo˝e na∏o˝yç na ten podmiot kar´ pieni´˝nà do wysokoÊci 500000 z∏ lub nakazaç funduszowi odstàpienie od umowy.
+3. W przypadku gdy podmiot, o którym mowa w art. 226 ust. 1 pkt 5, wykonuje działalność w zakresie wykonywania obowiązków wynikających zumowy zawartej zfunduszem niezgodnie ztą umową oraz statutem funduszu inwestycyjnego, Komisja może nałożyć na ten podmiot karę pieniężną do wysokości 500000 zł lub nakazać funduszowi odstąpienie od umowy.
 
 **Art. 234.**
 
-1. W przypadku gdy podmiot, o którym mowa w art. 192 ust. 1, narusza przepisy prawa w zwiàzku z wykonywaniem umowy o obs∏ug´ sekurytyzowanych wierzytelnoÊci, Komisja mo˝e:
+1. W przypadku gdy podmiot, o którym mowa w art. 192 ust. 1, narusza przepisy prawa w związku z wykonywaniem umowy o obsługę sekurytyzowanych wierzytelności, Komisja może:
 
-- **1)** na∏o˝yç na ten podmiot kar´ pieni´˝nà w wysokoÊci do 500 000 z∏;
-- **2)** zobowiàzaç fundusz do zmiany tego podmiotu w terminie okreÊlonym w decyzji;
-- **3)** zastosowaç ∏àcznie sankcje, o których mowa w pkt 1 i 2.
+- **1)** nałożyć na ten podmiot karę pieniężną w wysokości do 500 000 zł;
+- **2)** zobowiązać fundusz do zmiany tego podmiotu w terminie określonym w decyzji;
+- **3)** zastosować łącznie sankcje, o których mowa w pkt 1 i 2.
 
-2. Za szkody spowodowane niewykonaniem lub nienale˝ytym wykonaniem umowy o obs∏ug´ sekurytyzowanych wierzytelnoÊci towarzystwo odpowiada wobec uczestników funduszu solidarnie zpodmiotem, októrym mowa wart. 192 ust. 1, chyba ˝e szkoda jest wynikiem okolicznoÊci, za które podmiot ten nie ponosi odpowiedzialnoÊci.
+2. Za szkody spowodowane niewykonaniem lub nienależytym wykonaniem umowy o obsługę sekurytyzowanych wierzytelności towarzystwo odpowiada wobec uczestników funduszu solidarnie zpodmiotem, októrym mowa wart. 192 ust. 1, chyba że szkoda jest wynikiem okoliczności, za które podmiot ten nie ponosi odpowiedzialności.
 
-**Art. 235.** W sprawach cywilnych z zakresu tworzenia i dzia∏ania funduszy inwestycyjnych Przewodniczàcemu Komisji przys∏ugujà uprawnienia prokuratora wynikajàce zw∏aÊciwych przepisów Kodeksu post´Art. 236. 1. Udzielenie przez Komisj´ zezwolenia albo zgody, o której mowa w art. 42 ust. 2, art. 80, art. 93 ust. 2 i3, art. 107 ust. 5, podlega op∏acie wwysokoÊci nie wi´kszej ni˝ równowartoÊç 4500 euro, ustalanej przy zastosowaniu Êredniego kursu walut obcych og∏aszanego przez Narodowy Bank Polski. 2. Wpis do rejestrów, o których mowa w art. 263 lub art. 278, odpowiednio funduszu zagranicznego, funduszu inwestycyjnego otwartego zsiedzibà wpaƒstwie nale˝àcym do EEA lub funduszu otwartego zsiedzibà wpaƒstwie nale˝àcym do OECD, innym ni˝ paƒstwo cz∏onkowskie lub paƒstwo nale˝àce do EEA, podlega op∏acie w wysokoÊci nie wi´kszej ni˝ równowartoÊç 4 500 euro, ustalanej przy zastosowaniu Êredniego kursu walut obcych og∏aszanego przez Narodowy Bank Polski. 3. Przeznaczenie i rozdysponowanie wp∏ywów z op∏at, o których mowa w ust. 1 i 2, nast´puje w trybie i na zasadach okreÊlonych w art. 21 prawa o publicznym obrocie papierami wartoÊciowymi. 4. Minister w∏aÊciwy do spraw instytucji finansowych, po zasi´gni´ciu opinii Przewodniczàcego Komisji, okreÊla, w drodze rozporzàdzenia, wysokoÊç, szczegó∏owy sposób ustalania oraz warunki i terminy uiszczania op∏at okreÊlonych w ust. 1 i 2, z uwzgl´dnieniem rodzaju op∏at i podmiotów uiszczajàcych te op∏aty. Op∏aty te nie powinny w istotny sposób wp∏ywaç na zwi´kszenie kosztów dzia∏alnoÊci tych podmiotów.
+**Art. 235.** W sprawach cywilnych z zakresu tworzenia i działania funduszy inwestycyjnych Przewodniczącemu Komisji przysługują uprawnienia prokuratora wynikające zwłaściwych przepisów Kodeksu postęArt. 236. 1. Udzielenie przez Komisję zezwolenia albo zgody, o której mowa w art. 42 ust. 2, art. 80, art. 93 ust. 2 i3, art. 107 ust. 5, podlega opłacie wwysokości nie większej niż równowartość 4500 euro, ustalanej przy zastosowaniu średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski. 2. Wpis do rejestrów, o których mowa w art. 263 lub art. 278, odpowiednio funduszu zagranicznego, funduszu inwestycyjnego otwartego zsiedzibą wpaństwie należącym do EEA lub funduszu otwartego zsiedzibą wpaństwie należącym do OECD, innym niż państwo członkowskie lub państwo należące do EEA, podlega opłacie w wysokości nie większej niż równowartość 4 500 euro, ustalanej przy zastosowaniu średniego kursu walut obcych ogłaszanego przez Narodowy Bank Polski. 3. Przeznaczenie i rozdysponowanie wpływów z opłat, o których mowa w ust. 1 i 2, następuje w trybie i na zasadach określonych w art. 21 prawa o publicznym obrocie papierami wartościowymi. 4. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Przewodniczącego Komisji, określa, w drodze rozporządzenia, wysokość, szczegółowy sposób ustalania oraz warunki i terminy uiszczania opłat określonych w ust. 1 i 2, z uwzględnieniem rodzaju opłat i podmiotów uiszczających te opłaty. Opłaty te nie powinny w istotny sposób wpływać na zwiększenie kosztów działalności tych podmiotów.
 
-**Art. 237.** Komisja mo˝e upowa˝niç Przewodniczàcego Komisji do podejmowania czynnoÊci lub za∏atwiania okreÊlonych spraw w drodze indywidualnych rozstrzygni´ç administracyjnych, z wyjàtkiem spraw zastrze˝onych do wy∏àcznej kompetencji Komisji wzakresie:
+**Art. 237.** Komisja może upoważnić Przewodniczącego Komisji do podejmowania czynności lub załatwiania określonych spraw w drodze indywidualnych rozstrzygnięć administracyjnych, z wyjątkiem spraw zastrzeżonych do wyłącznej kompetencji Komisji wzakresie:
 
 **Art. 238.**
 
-1. Towarzystwo mo˝e na podstawie umowy zawartej z innym towarzystwem b´dàcym organem funduszu inwestycyjnego przejàç zarzàdzanie tym funduszem.
+1. Towarzystwo może na podstawie umowy zawartej z innym towarzystwem będącym organem funduszu inwestycyjnego przejąć zarządzanie tym funduszem.
 
-2. Przej´cie zarzàdzania wymaga zmiany statutu funduszu przejmowanego wzakresie, októrym mowa w art. 18 ust. 2 pkt 2.
+2. Przejęcie zarządzania wymaga zmiany statutu funduszu przejmowanego wzakresie, októrym mowa w art. 18 ust. 2 pkt 2.
 
-3. Towarzystwo przejmujàce zarzàdzanie wst´puje w prawa i obowiàzki towarzystwa b´dàcego dotychczas organem funduszu, z chwilà wejÊcia w ˝ycie zmian wstatucie wzakresie, októrym mowa wust. 2. Postanowienia umowy wy∏àczajàce przej´cie okreÊlonych obowiàzków sà bezskuteczne wobec osób trzecich.
+3. Towarzystwo przejmujące zarządzanie wstępuje w prawa i obowiązki towarzystwa będącego dotychczas organem funduszu, z chwilą wejścia w życie zmian wstatucie wzakresie, októrym mowa wust. 2. Postanowienia umowy wyłączające przejęcie określonych obowiązków są bezskuteczne wobec osób trzecich.
 
 **Art. 239.**
 
-1. Specjalistyczny fundusz inwestycyjny otwarty mo˝e zostaç przekszta∏cony w fundusz inwe2. Przekszta∏cenia funduszu dokonuje towarzystwo funduszy inwestycyjnych przez zmian´ statutu funduszu.
+1. Specjalistyczny fundusz inwestycyjny otwarty może zostać przekształcony w fundusz inwe2. Przekształcenia funduszu dokonuje towarzystwo funduszy inwestycyjnych przez zmianę statutu funduszu.
 
 **Art. 240.**
 
-1. Za zezwoleniem Komisji fundusze inwestycyjne otwarte albo specjalistyczne fundusze inwestycyjne otwarte zarzàdzane przez to samo towarzystwo, nieb´dàce funduszami inwestycyjnymi o szczególnej konstrukcji okreÊlonej w dziale VI, z wyjàtkiem funduszy zbywajàcych jednostki uczestnictwa ró˝niàce si´ od siebie zwiàzanym z nimi sposobem pobierania op∏at, mogà byç przekszta∏cone w jeden fundusz inwestycyjny zwydzielonymi subfunduszami, oile rejestr aktywów dla tych funduszy jest prowadzony przez tego samego depozytariusza.
+1. Za zezwoleniem Komisji fundusze inwestycyjne otwarte albo specjalistyczne fundusze inwestycyjne otwarte zarządzane przez to samo towarzystwo, niebędące funduszami inwestycyjnymi o szczególnej konstrukcji określonej w dziale VI, z wyjątkiem funduszy zbywających jednostki uczestnictwa różniące się od siebie związanym z nimi sposobem pobierania opłat, mogą być przekształcone w jeden fundusz inwestycyjny zwydzielonymi subfunduszami, oile rejestr aktywów dla tych funduszy jest prowadzony przez tego samego depozytariusza.
 
-2. Przekszta∏cenie mo˝e polegaç wy∏àcznie na:
+2. Przekształcenie może polegać wyłącznie na:
 
-- **1)** przekszta∏ceniu funduszy inwestycyjnych otwartych w jeden fundusz inwestycyjny otwarty z wydzielonymi subfunduszami;
-- **2)** przekszta∏ceniu specjalistycznych funduszy inwestycyjnych otwartych w jeden specjalistyczny fundusz inwestycyjny otwarty z wydzielonymi subfunduszami.
+- **1)** przekształceniu funduszy inwestycyjnych otwartych w jeden fundusz inwestycyjny otwarty z wydzielonymi subfunduszami;
+- **2)** przekształceniu specjalistycznych funduszy inwestycyjnych otwartych w jeden specjalistyczny fundusz inwestycyjny otwarty z wydzielonymi subfunduszami.
 
-3. Fundusze inwestycyjne podlegajàce przekszta∏ceniu stajà si´ subfunduszami funduszu inwestycyjnego powsta∏ego w wyniku przekszta∏cenia.
+3. Fundusze inwestycyjne podlegające przekształceniu stają się subfunduszami funduszu inwestycyjnego powstałego w wyniku przekształcenia.
 
-4. Statut funduszu inwestycyjnego zwydzielonymi subfunduszami powinien wskazywaç nazwy funduszy inwestycyjnych, które zosta∏y przekszta∏cone w fundusz zwydzielonymi subfunduszami, oraz nazwy subfunduszy, które odpowiadajà przekszta∏conym funduszom inwestycyjnym.
+4. Statut funduszu inwestycyjnego zwydzielonymi subfunduszami powinien wskazywać nazwy funduszy inwestycyjnych, które zostały przekształcone w fundusz zwydzielonymi subfunduszami, oraz nazwy subfunduszy, które odpowiadają przekształconym funduszom inwestycyjnym.
 
-**Art. 241.** Przekszta∏cenie funduszy inwestycyjnych w jeden fundusz z wydzielonymi subfunduszami wymaga:
+**Art. 241.** Przekształcenie funduszy inwestycyjnych w jeden fundusz z wydzielonymi subfunduszami wymaga:
 
-**Art. 242.** Do wniosku o uzyskanie zezwolenia na przekszta∏cenie funduszy inwestycyjnych wjeden fundusz zwydzielonymi subfunduszami towarzystwo do∏àcza dokumenty okreÊlone w art. 22.
+**Art. 242.** Do wniosku o uzyskanie zezwolenia na przekształcenie funduszy inwestycyjnych wjeden fundusz zwydzielonymi subfunduszami towarzystwo dołącza dokumenty określone w art. 22.
 
 **Art. 243.**
 
-1. Po uzyskaniu zezwolenia, októrym mowa w art. 240 ust. 1, towarzystwo dokonuje dwukrotnego og∏oszenia o zamiarze przekszta∏cenia funduszy inwestycyjnych wfundusz inwestycyjny zwydzielonymi subfunduszami, ztym ˝e drugiego og∏oszenia nalestycyjny otwarty. ˝y dokonaç po up∏ywie co najmniej trzydziestu dni od dnia pierwszego og∏oszenia.
+1. Po uzyskaniu zezwolenia, októrym mowa w art. 240 ust. 1, towarzystwo dokonuje dwukrotnego ogłoszenia o zamiarze przekształcenia funduszy inwestycyjnych wfundusz inwestycyjny zwydzielonymi subfunduszami, ztym że drugiego ogłoszenia nalestycyjny otwarty. ży dokonać po upływie co najmniej trzydziestu dni od dnia pierwszego ogłoszenia.
 
-2. W og∏oszeniach nale˝y zamieÊciç informacj´ o tym, ˝e z chwilà przekszta∏cenia funduszy inwestycyjnych w fundusz inwestycyjny z wydzielonymi subfunduszami:
+2. W ogłoszeniach należy zamieścić informację o tym, że z chwilą przekształcenia funduszy inwestycyjnych w fundusz inwestycyjny z wydzielonymi subfunduszami:
 
-- **1)** fundusze inwestycyjne podlegajàce przekszta∏ceniu stajà si´ subfunduszami funduszu inwestycyjnego powsta∏ego w wyniku przekszta∏cenia;
-- **2)** jednostki uczestnictwa funduszy inwestycyjnych podlegajàcych przekszta∏ceniu stajà si´ jednostkami uczestnictwa funduszu zwiàzanymi z poszczególnymi subfunduszami odpowiadajàcymi, zgodnie ze statutem funduszu, przekszta∏conym funduszom inwestycyjnym.
+- **1)** fundusze inwestycyjne podlegające przekształceniu stają się subfunduszami funduszu inwestycyjnego powstałego w wyniku przekształcenia;
+- **2)** jednostki uczestnictwa funduszy inwestycyjnych podlegających przekształceniu stają się jednostkami uczestnictwa funduszu związanymi z poszczególnymi subfunduszami odpowiadającymi, zgodnie ze statutem funduszu, przekształconym funduszom inwestycyjnym.
 
-3. Po up∏ywie trzech miesi´cy od dnia dokonania drugiego og∏oszenia towarzystwo sk∏ada do sàdu rejestrowego wniosek o wpis funduszu z wydzielonymi subfunduszami do rejestru funduszy inwestycyjnych; przepisy art. 29 ust. 7—9 stosuje si´ odpowiednio.
+3. Po upływie trzech miesięcy od dnia dokonania drugiego ogłoszenia towarzystwo składa do sądu rejestrowego wniosek o wpis funduszu z wydzielonymi subfunduszami do rejestru funduszy inwestycyjnych; przepisy art. 29 ust. 7—9 stosuje się odpowiednio.
 
-4. Od dnia og∏oszenia zamiaru przekszta∏cenia funduszy inwestycyjnych w fundusz inwestycyjny z wydzielonymi subfunduszami:
+4. Od dnia ogłoszenia zamiaru przekształcenia funduszy inwestycyjnych w fundusz inwestycyjny z wydzielonymi subfunduszami:
 
-- **1)** towarzystwo nie pobiera op∏at za odkupienie jednostek uczestnictwa funduszy inwestycyjnych podlegajàcych przekszta∏ceniu;
-- **2)** do funduszy inwestycyjnych podlegajàcych przekszta∏ceniu nie stosuje si´ art. 246.
+- **1)** towarzystwo nie pobiera opłat za odkupienie jednostek uczestnictwa funduszy inwestycyjnych podlegających przekształceniu;
+- **2)** do funduszy inwestycyjnych podlegających przekształceniu nie stosuje się art. 246.
 
-**Art. 244.** Z chwilà wpisu funduszu z wydzielonymi subfunduszami do rejestru funduszy inwestycyjnych:
+**Art. 244.** Z chwilą wpisu funduszu z wydzielonymi subfunduszami do rejestru funduszy inwestycyjnych:
 
-**Art. 245.** Powstanie skutków, o których mowa wart. 244 pkt 5, nie stanowi ani nie jest nast´pstwem:
+**Art. 245.** Powstanie skutków, o których mowa wart. 244 pkt 5, nie stanowi ani nie jest następstwem:
 
 **Art. 246.**
 
-1. Rozwiàzanie funduszu powoduje:
+1. Rozwiązanie funduszu powoduje:
 
-- **1)** up∏yw okresu, na który, zgodnie ze statutem, fundusz zosta∏ utworzony;
-- **2)** nieprzej´cie zarzàdzania funduszem przez inne towarzystwo w trybie i terminie okreÊlonym w art. 68 ust. 2;
-- **3)** zaprzestanie wykonywania przez depozytariusza obowiàzków, je˝eli nie zawarto umowy o prowadzenie rejestru z innym depozytariuszem;
-- **4)** spadek wartoÊci aktywów netto funduszu inwestycyjnego otwartego poni˝ej wartoÊci okreÊlonej w art. 92 ust. 1;
-- **5)** podj´cie przez rad´ inwestorów albo zgromadzenie inwestorów uchwa∏y o rozwiàzaniu funduszu;
-- **6)** wystàpienie innych przyczyn okreÊlonych w statucie funduszu inwestycyjnego.
+- **1)** upływ okresu, na który, zgodnie ze statutem, fundusz został utworzony;
+- **2)** nieprzejęcie zarządzania funduszem przez inne towarzystwo w trybie i terminie określonym w art. 68 ust. 2;
+- **3)** zaprzestanie wykonywania przez depozytariusza obowiązków, jeżeli nie zawarto umowy o prowadzenie rejestru z innym depozytariuszem;
+- **4)** spadek wartości aktywów netto funduszu inwestycyjnego otwartego poniżej wartości określonej w art. 92 ust. 1;
+- **5)** podjęcie przez radę inwestorów albo zgromadzenie inwestorów uchwały o rozwiązaniu funduszu;
+- **6)** wystąpienie innych przyczyn określonych w statucie funduszu inwestycyjnego.
 
-2. Fundusz nie ulega rozwiàzaniu, je˝eli na wniosek towarzystwa, z∏o˝ony wterminie 7 dni od dnia wystàpienia zdarzenia, októrym mowa wust. 1 pkt 4, Komisja udzieli zgody na po∏àczenie funduszu inwestycyjnego z innym funduszem inwestycyjnym w trybie i na warunkach okreÊlonych w przepisach dzia∏u VIII.
+2. Fundusz nie ulega rozwiązaniu, jeżeli na wniosek towarzystwa, złożony wterminie 7 dni od dnia wystąpienia zdarzenia, októrym mowa wust. 1 pkt 4, Komisja udzieli zgody na połączenie funduszu inwestycyjnego z innym funduszem inwestycyjnym w trybie i na warunkach określonych w przepisach działu VIII.
 
-3. Rozwiàzanie funduszu inwestycyjnego nast´puje po przeprowadzeniu likwidacji. Zdniem rozpocz´cia likwidacji fundusz inwestycyjny nie mo˝e zbywaç jednostek uczestnictwa albo emitowaç certyfikatów inwestycyjnych, atak˝e odkupywaç jednostek uczestnictwa albo wykupywaç certyfikatów inwestycyjnych oraz wyp∏acaç dochodów lub przychodów funduszu.
+3. Rozwiązanie funduszu inwestycyjnego następuje po przeprowadzeniu likwidacji. Zdniem rozpoczęcia likwidacji fundusz inwestycyjny nie może zbywać jednostek uczestnictwa albo emitować certyfikatów inwestycyjnych, atakże odkupywać jednostek uczestnictwa albo wykupywać certyfikatów inwestycyjnych oraz wypłacać dochodów lub przychodów funduszu.
 
-4. Wprzypadku z∏o˝enia wniosku, októrym mowa w ust. 2, otwarcie likwidacji funduszu inwestycyjnego nast´puje zdniem, wktórym decyzja Komisji oodmowie zgody na po∏àczenie funduszy inwestycyjnych sta∏a si´ ostateczna.
+4. Wprzypadku złożenia wniosku, októrym mowa w ust. 2, otwarcie likwidacji funduszu inwestycyjnego następuje zdniem, wktórym decyzja Komisji oodmowie zgody na połączenie funduszy inwestycyjnych stała się ostateczna.
 
 **Art. 247.**
 
-1. Informacja owystàpieniu przyczyn rozwiàzania funduszu powinna byç niezw∏ocznie opublikowana przez towarzystwo lub depozytariusza, wsposób okreÊlony w statucie funduszu, oraz przekazana Komisji.
+1. Informacja owystąpieniu przyczyn rozwiązania funduszu powinna być niezwłocznie opublikowana przez towarzystwo lub depozytariusza, wsposób określony w statucie funduszu, oraz przekazana Komisji.
 
-2. Je˝eli publikacja informacji, o której mowa w ust. 1, nie zostanie dokonana przez podmiot wskazany wust. 1, Komisja dokonuje publikacji na koszt towarzystwa.
+2. Jeżeli publikacja informacji, o której mowa w ust. 1, nie zostanie dokonana przez podmiot wskazany wust. 1, Komisja dokonuje publikacji na koszt towarzystwa.
 
-3. Wzakresie okreÊlonym wust. 1 i2 wprzypadku funduszy inwestycyjnych zamkni´tych stosuje si´ równie˝ przepisy prawa o publicznym obrocie papierami wartoÊciowymi.
+3. Wzakresie określonym wust. 1 i2 wprzypadku funduszy inwestycyjnych zamkniętych stosuje się również przepisy prawa o publicznym obrocie papierami wartościowymi.
 
 **Art. 248.**
 
 1. Likwidatorem funduszu inwestycyjnego jest depozytariusz.
 
-2. Likwidatorem funduszu inwestycyjnego, który zosta∏ utworzony na czas okreÊlony, mo˝e byç towarzystwo zarzàdzajàce tym funduszem pod warunkiem, ˝e statut funduszu inwestycyjnego b´dzie wskazywa∏ towarzystwo jako likwidatora funduszu inwestycyjnego, w dniu z∏o˝enia wniosku o utworzenie funduszu inwestycyjnego.
+2. Likwidatorem funduszu inwestycyjnego, który został utworzony na czas określony, może być towarzystwo zarządzające tym funduszem pod warunkiem, że statut funduszu inwestycyjnego będzie wskazywał towarzystwo jako likwidatora funduszu inwestycyjnego, w dniu złożenia wniosku o utworzenie funduszu inwestycyjnego.
 
-3. Komisja mo˝e wyznaczyç innego likwidatora.
+3. Komisja może wyznaczyć innego likwidatora.
 
-4. Likwidator zg∏asza niezw∏ocznie do rejestru funduszy otwarcie likwidacji funduszu i dane likwidatora.
+4. Likwidator zgłasza niezwłocznie do rejestru funduszy otwarcie likwidacji funduszu i dane likwidatora.
 
 **Art. 249.**
 
-1. Likwidacja funduszu inwestycyjnego polega na zbyciu jego aktywów, Êciàgni´ciu nale˝noÊci funduszu, zaspokojeniu wierzycieli funduszu i umorzeniu jednostek uczestnictwa lub certyfikatów inwestycyjnych przez wyp∏at´ uzyskanych Êrodków pieni´˝nych uczestnikom funduszu, proporcjonalnie do liczby posiadanych przez nich jednostek uczestnictwa lub certyfikatów inwestycyjnych.
+1. Likwidacja funduszu inwestycyjnego polega na zbyciu jego aktywów, ściągnięciu należności funduszu, zaspokojeniu wierzycieli funduszu i umorzeniu jednostek uczestnictwa lub certyfikatów inwestycyjnych przez wypłatę uzyskanych środków pieniężnych uczestnikom funduszu, proporcjonalnie do liczby posiadanych przez nich jednostek uczestnictwa lub certyfikatów inwestycyjnych.
 
-2. Zbywanie aktywów funduszu powinno byç dokonywane z nale˝ytym uwzgl´dnieniem interesów uczestników funduszu inwestycyjnego.
+2. Zbywanie aktywów funduszu powinno być dokonywane z należytym uwzględnieniem interesów uczestników funduszu inwestycyjnego.
 
-**Art. 250.** Ârodki pieni´˝ne, których wyp∏acenie nie by∏o mo˝liwe, likwidator przekazuje do depozytu sàdowego.
+**Art. 250.** Ârodki pieniężne, których wypłacenie nie było możliwe, likwidator przekazuje do depozytu sądowego.
 
-**Art. 251.** O dokonaniu czynnoÊci okreÊlonych w art. 249 ust. 1 i art. 250 likwidator niezw∏ocznie zawiadamia Komisj´. Po dokonaniu tych czynnoÊci likwidator sk∏ada wniosek do sàdu rejestrowego o wykreÊlenie funduszu z rejestru funduszy inwestycyjnych.
+**Art. 251.** O dokonaniu czynności określonych w art. 249 ust. 1 i art. 250 likwidator niezwłocznie zawiadamia Komisję. Po dokonaniu tych czynności likwidator składa wniosek do sądu rejestrowego o wykreślenie funduszu z rejestru funduszy inwestycyjnych.
 
-**Art. 252.** Rada Ministrów okreÊli, w drodze rozporzàdzenia, tryb likwidacji funduszy inwestycyjnych, z uwzgl´dnieniem sposobu i terminów dokonywania poszczególnych czynnoÊci wramach post´powania likwidacyjnego, w celu sprawnego przeprowadzenia post´powania likwidacyjnego oraz zapewnienia ochrony uczestników funduszu inwestycyjnego oraz DZIA¸ XII Zbywanie tytu∏ów i jednostek uczestnictwa oraz tworzenie oddzia∏ów Rozdzia∏ 1 Zbywanie tytu∏ów uczestnictwa emitowanych przez fundusze zagraniczne na terytorium Rzeczypospolitej Polskiej oraz zbywanie jednostek uczestnictwa funduszy inwestycyjnych otwartych na terytorium paƒstw cz∏onkowskich
+**Art. 252.** Rada Ministrów określi, w drodze rozporządzenia, tryb likwidacji funduszy inwestycyjnych, z uwzględnieniem sposobu i terminów dokonywania poszczególnych czynności wramach postępowania likwidacyjnego, w celu sprawnego przeprowadzenia postępowania likwidacyjnego oraz zapewnienia ochrony uczestników funduszu inwestycyjnego oraz DZIAĘ XII Zbywanie tytułów i jednostek uczestnictwa oraz tworzenie oddziałów
+
+#### Rozdział 1 Zbywanie tytułów uczestnictwa emitowanych przez fundusze zagraniczne na terytorium Rzeczypospolitej Polskiej oraz zbywanie jednostek uczestnictwa funduszy inwestycyjnych otwartych na terytorium państw członkowskich
 
 **Art. 253.**
 
-1. Je˝eli fundusz zagraniczny zamierza zbywaç emitowane przez siebie tytu∏y uczestnictwa na terytorium Rzeczypospolitej Polskiej, fundusz lub spó∏ka nim zarzàdzajàca sà obowiàzane do pisemnego zawiadomienia Komisji o tym zamiarze.
+1. Jeżeli fundusz zagraniczny zamierza zbywać emitowane przez siebie tytuły uczestnictwa na terytorium Rzeczypospolitej Polskiej, fundusz lub spółka nim zarządzająca są obowiązane do pisemnego zawiadomienia Komisji o tym zamiarze.
 
-2. Do zawiadomienia, októrym mowa wust. 1, za∏àcza si´, sporzàdzony w j´zyku polskim lub przet∏umaczony przez t∏umacza przysi´g∏ego na j´zyk polski:
+2. Do zawiadomienia, októrym mowa wust. 1, załącza się, sporządzony w języku polskim lub przetłumaczony przez tłumacza przysięgłego na język polski:
 
-- **1)** dokument sporzàdzony przez w∏aÊciwe organy paƒstwa macierzystego funduszu zagranicznego stwierdzajàcy, ˝e fundusz zagraniczny dzia∏a zgodnie zprawem wspólnotowym regulujàcym zasady zbiorowego inwestowania w papiery wartoÊciowe;
+- **1)** dokument sporządzony przez właściwe organy państwa macierzystego funduszu zagranicznego stwierdzający, że fundusz zagraniczny działa zgodnie zprawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe;
 - **2)** regulamin funduszu zagranicznego;
 - **3)** prospekt informacyjny funduszu zagranicznego oraz skrót tego prospektu;
-- **4)** ostatni raport roczny i raport pó∏roczny funduszu zagranicznego, je˝eli zosta∏y sporzàdzone;
-- **5)** szczegó∏owy opis sposobów zbywania na terytorium Rzeczypospolitej Polskiej tytu∏ów uczestnictwa emitowanych przez fundusz zagraniczny, w tym zasad i warunków wp∏acania i wyp∏acania kwot zwiàzanych z nabywaniem i umarzaniem tytu∏ów uczestnictwa funduszy zagranicznych oraz sposobu udost´pniania informacji o funduszu;
+- **4)** ostatni raport roczny i raport półroczny funduszu zagranicznego, jeżeli zostały sporządzone;
+- **5)** szczegółowy opis sposobów zbywania na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa emitowanych przez fundusz zagraniczny, w tym zasad i warunków wpłacania i wypłacania kwot związanych z nabywaniem i umarzaniem tytułów uczestnictwa funduszy zagranicznych oraz sposobu udostępniania informacji o funduszu;
 - **6)** wskazanie imienia i nazwiska lub firmy (nazwy) oraz miejsca zamieszkania lub siedziby oraz adresu w Rzeczypospolitej Polskiej przedstawiciela funduszu zagranicznego na terytorium Rzeczypospolitej Polskiej;
-- **7)** wskazanie firmy oraz siedziby iadresu agenta p∏atnoÊci funduszu zagranicznego na terytorium Rzeczypospolitej Polskiej.
+- **7)** wskazanie firmy oraz siedziby iadresu agenta płatności funduszu zagranicznego na terytorium Rzeczypospolitej Polskiej.
 
-3. Przez regulamin funduszu zagranicznego, o którym mowa w ust. 2 pkt 2, rozumie si´ równie˝ statut tego funduszu lub te˝ statut albo regulamin spó∏ki, je˝eli fundusz utworzony jest w formie spó∏ki.
+3. Przez regulamin funduszu zagranicznego, o którym mowa w ust. 2 pkt 2, rozumie się również statut tego funduszu lub też statut albo regulamin spółki, jeżeli fundusz utworzony jest w formie spółki.
 
-4. Przez siedzib´ funduszu zagranicznego rozumie si´ siedzib´ spó∏ki zarzàdzajàcej, je˝eli fundusz ten nie jest osobà prawnà. jego wierzycieli.
+4. Przez siedzibę funduszu zagranicznego rozumie się siedzibę spółki zarządzającej, jeżeli fundusz ten nie jest osobą prawną. jego wierzycieli.
 
-5. Zbywanie tytu∏ów uczestnictwa emitowanych przez fundusz zagraniczny mo˝e rozpoczàç si´ po up∏ywie 2 miesi´cy od z∏o˝enia wszystkich wymaganych dokumentów, októrych mowa wust. 2, zzastrze˝eniem ust. 6.
+5. Zbywanie tytułów uczestnictwa emitowanych przez fundusz zagraniczny może rozpocząć się po upływie 2 miesięcy od złożenia wszystkich wymaganych dokumentów, októrych mowa wust. 2, zzastrzeżeniem ust. 6.
 
-6. Komisja mo˝e zakazaç, w drodze decyzji wydanej przed up∏ywem terminu, októrym mowa wust. 5, zbywania na terytorium Rzeczypospolitej Polskiej tytu∏ów uczestnictwa, je˝eli:
+6. Komisja może zakazać, w drodze decyzji wydanej przed upływem terminu, októrym mowa wust. 5, zbywania na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa, jeżeli:
 
-- **1)** przewidywane sposoby zbywania tytu∏ów uczestnictwa nie spe∏niajà warunków okreÊlonych w przepisach prawa obowiàzujàcych na terytorium Rzeczypospolitej Polskiej;
-- **2)** fundusz nie zapewnia sprawnego wp∏acania i wyp∏acania kwot zwiàzanych z nabywaniem i umarzaniem tytu∏ów uczestnictwa;
-- **3)** fundusz nie zapewnia uczestnikom dostatecznie ∏atwego dost´pu do informacji o funduszu.
+- **1)** przewidywane sposoby zbywania tytułów uczestnictwa nie spełniają warunków określonych w przepisach prawa obowiązujących na terytorium Rzeczypospolitej Polskiej;
+- **2)** fundusz nie zapewnia sprawnego wpłacania i wypłacania kwot związanych z nabywaniem i umarzaniem tytułów uczestnictwa;
+- **3)** fundusz nie zapewnia uczestnikom dostatecznie łatwego dostępu do informacji o funduszu.
 
-7. Przepisy ust. 1—6 stosuje si´ odpowiednio, w przypadku gdy fundusz zagraniczny prowadzàcy dzia∏alnoÊç jako fundusz sk∏adajàcy si´ z subfunduszy zamierza zbywaç na terytorium Rzeczypospolitej Polskiej tytu∏y uczestnictwa zwiàzane z subfunduszem, który nie by∏ wskazany wdokumentach, októrych mowa w ust. 2.
+7. Przepisy ust. 1—6 stosuje się odpowiednio, w przypadku gdy fundusz zagraniczny prowadzący działalność jako fundusz składający się z subfunduszy zamierza zbywać na terytorium Rzeczypospolitej Polskiej tytuły uczestnictwa związane z subfunduszem, który nie był wskazany wdokumentach, októrych mowa w ust. 2.
 
 **Art. 254.**
 
-1. Fundusz zagraniczny jest obowiàzany do publikowania na terytorium Rzeczypospolitej Polskiej oraz udost´pniania przy zbywaniu tytu∏ów uczestnictwa, wj´zyku polskim, prospektu informacyjnego, skrótu tego prospektu, zmian dokonanych wprospekcie informacyjnym iskrócie tego prospektu, rocznego i pó∏rocznego sprawozdania finansowego oraz innych informacji i dokumentów, zgodnie z przepisami prawa obowiàzujàcymi w paƒstwie macierzystym.
+1. Fundusz zagraniczny jest obowiązany do publikowania na terytorium Rzeczypospolitej Polskiej oraz udostępniania przy zbywaniu tytułów uczestnictwa, wjęzyku polskim, prospektu informacyjnego, skrótu tego prospektu, zmian dokonanych wprospekcie informacyjnym iskrócie tego prospektu, rocznego i półrocznego sprawozdania finansowego oraz innych informacji i dokumentów, zgodnie z przepisami prawa obowiązującymi w państwie macierzystym.
 
-2. Ka˝da informacja reklamowa, og∏oszenie oraz inna informacja przekazana przez fundusz zagraniczny na terytorium Rzeczypospolitej Polskiej powinny byç opublikowane w j´zyku polskim.
+2. Każda informacja reklamowa, ogłoszenie oraz inna informacja przekazana przez fundusz zagraniczny na terytorium Rzeczypospolitej Polskiej powinny być opublikowane w języku polskim.
 
-3. Do informacji reklamowych, og∏oszeƒ oraz innych informacji udost´pnianych przez fundusz zagraniczny na terytorium Rzeczypospolitej Polskiej stosuje si´ przepis art. 229.
+3. Do informacji reklamowych, ogłoszeń oraz innych informacji udostępnianych przez fundusz zagraniczny na terytorium Rzeczypospolitej Polskiej stosuje się przepis art. 229.
 
-4. Na ˝àdanie uczestnika fundusz zagraniczny lub spó∏ka nim zarzàdzajàca majà obowiàzek udzieliç, w j´zyku polskim, dodatkowych informacji o limitach inwestycyjnych funduszu, sposobie zarzàdzania ryzykiem inwestycyjnym funduszu, a tak˝e o aktualnych zmianach i przyrostach wartoÊci w zakresie g∏ównych lokat funduszu.
+4. Na żądanie uczestnika fundusz zagraniczny lub spółka nim zarządzająca mają obowiązek udzielić, w języku polskim, dodatkowych informacji o limitach inwestycyjnych funduszu, sposobie zarządzania ryzykiem inwestycyjnym funduszu, a także o aktualnych zmianach i przyrostach wartości w zakresie głównych lokat funduszu.
 
-**Art. 255.** Fundusz zagraniczny mo˝e u˝ywaç wnazwie oznaczeƒ w rodzaju „fundusz inwestycyjny” lub „spó∏ka inwestycyjna”, których u˝ywa w paƒstwie macierzystym, z tym ˝e oznaczenie to powinno byç u˝yte w j´zyku polskim oraz uzupe∏nione o okreÊlenie
+**Art. 255.** Fundusz zagraniczny może używać wnazwie oznaczeń w rodzaju Ńfundusz inwestycyjny” lub Ńspółka inwestycyjna”, których używa w państwie macierzystym, z tym że oznaczenie to powinno być użyte w języku polskim oraz uzupełnione o określenie
 
 **Art. 256.**
 
-1. Fundusz zagraniczny jest obowiàzany zapewniç uczestnikom funduszu:
+1. Fundusz zagraniczny jest obowiązany zapewnić uczestnikom funduszu:
 
-- **1)** sprawne wp∏acanie i wyp∏acanie kwot zwiàzanych znabywaniem iumarzaniem tytu∏ów uczestnictwa funduszu;
-- **2)** dost´p do informacji o funduszu;
-- **3)** co najmniej taki sam poziom ochrony jak w paƒstwie macierzystym;
-- **4)** dostarczanie potwierdzeƒ zbycia lub umorzenia tytu∏ów uczestnictwa w j´zyku polskim, z cz´stotliwoÊcià obowiàzujàcà fundusz zagraniczny zgodnie z przepisami prawa obowiàzujàcymi w paƒstwie macierzystym.
+- **1)** sprawne wpłacanie i wypłacanie kwot związanych znabywaniem iumarzaniem tytułów uczestnictwa funduszu;
+- **2)** dostęp do informacji o funduszu;
+- **3)** co najmniej taki sam poziom ochrony jak w państwie macierzystym;
+- **4)** dostarczanie potwierdzeń zbycia lub umorzenia tytułów uczestnictwa w języku polskim, z częstotliwością obowiązującą fundusz zagraniczny zgodnie z przepisami prawa obowiązującymi w państwie macierzystym.
 
-2. Przedstawiciel funduszu zagranicznego, na podstawie umowy z funduszem zagranicznym, jest obowiàzany w szczególnoÊci do:
+2. Przedstawiciel funduszu zagranicznego, na podstawie umowy z funduszem zagranicznym, jest obowiązany w szczególności do:
 
-- **1)** reprezentowania funduszu zagranicznego wpost´powaniu przed Komisjà;
+- **1)** reprezentowania funduszu zagranicznego wpostępowaniu przed Komisją;
 - **2)** reprezentowania funduszu zagranicznego wobec uczestników funduszu zagranicznego;
-- **3)** wykonywania czynnoÊci koniecznych do obs∏ugi uczestników funduszu zagranicznego, w tym przyjmowania reklamacji uczestników;
-- **4)** zapewnienia uczestnikom funduszu zagranicznego dost´pu do informacji o funduszu na zasadach okreÊlonych w ustawie;
+- **3)** wykonywania czynności koniecznych do obsługi uczestników funduszu zagranicznego, w tym przyjmowania reklamacji uczestników;
+- **4)** zapewnienia uczestnikom funduszu zagranicznego dostępu do informacji o funduszu na zasadach określonych w ustawie;
 - **5)** informowania Komisji o zmianach w dokumentach, o których mowa w art. 253 ust. 2.
 
-3. Z∏o˝enie oÊwiadczenia woli, dokumentu urz´dowego lub pisma procesowego przedstawicielowi uznaje si´ za z∏o˝enie go funduszowi zagranicznemu.
+3. Złożenie oświadczenia woli, dokumentu urzędowego lub pisma procesowego przedstawicielowi uznaje się za złożenie go funduszowi zagranicznemu.
 
-4. Przedstawiciel mo˝e równie˝ poÊredniczyç wzbywaniu iumarzaniu na terytorium Rzeczypospolitej Polskiej tytu∏ów uczestnictwa funduszu zagranicznego, je˝eli posiada zezwolenie Komisji, októrym mowa w art. 32 ust. 2.
+4. Przedstawiciel może również pośredniczyć wzbywaniu iumarzaniu na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa funduszu zagranicznego, jeżeli posiada zezwolenie Komisji, októrym mowa w art. 32 ust. 2.
 
 **Art. 257.**
 
-1. Agentem p∏atnoÊci mo˝e byç wy∏àcznie bank krajowy lub krajowy oddzia∏ instytucji kredytowej.
+1. Agentem płatności może być wyłącznie bank krajowy lub krajowy oddział instytucji kredytowej.
 
-2. Agent p∏atnoÊci, na podstawie umowy z funduszem zagranicznym, jest obowiàzany w szczególnoÊci do:
+2. Agent płatności, na podstawie umowy z funduszem zagranicznym, jest obowiązany w szczególności do:
 
-- **1)** przyjmowania wp∏at na nabycie tytu∏ów uczestnictwa funduszu zagranicznego;
-- **2)** dokonywania wyp∏at Êrodków z tytu∏u umorzenia tytu∏ów uczestnictwa funduszu zagranicznego;
-- **3)** dokonywania wyp∏at dochodów lub innych Êwiadodpowiednio „zagraniczny” albo „zagraniczna”. czeƒ nale˝nych uczestnikom funduszu zagranicznego.
+- **1)** przyjmowania wpłat na nabycie tytułów uczestnictwa funduszu zagranicznego;
+- **2)** dokonywania wypłat środków z tytułu umorzenia tytułów uczestnictwa funduszu zagranicznego;
+- **3)** dokonywania wypłat dochodów lub innych świadodpowiednio Ńzagraniczny” albo Ńzagraniczna”. czeń należnych uczestnikom funduszu zagranicznego.
 
-3. Agent p∏atnoÊci mo˝e równie˝ poÊredniczyç wzbywaniu iumarzaniu na terytorium Rzeczypospolitej Polskiej tytu∏ów uczestnictwa funduszu zagranicznego, je˝eli posiada zezwolenie Komisji, októrym mowa w art. 32 ust. 2.
+3. Agent płatności może również pośredniczyć wzbywaniu iumarzaniu na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa funduszu zagranicznego, jeżeli posiada zezwolenie Komisji, októrym mowa w art. 32 ust. 2.
 
-**Art. 258.** Fundusz zagraniczny mo˝e zbywaç tytu∏y uczestnictwa na terytorium Rzeczypospolitej Polskiej bezpoÊrednio, za poÊrednictwem spó∏ki zarzàdzajàcej lub oddzia∏u tej spó∏ki po spe∏nieniu warunków okreÊlonych w rozdziale 2 niniejszego dzia∏u, podmiotu prowadzàcego dzia∏alnoÊç maklerskà, towarzystwa oraz podmiotu, o którym mowa w art. 32 ust. 2.
+**Art. 258.** Fundusz zagraniczny może zbywać tytuły uczestnictwa na terytorium Rzeczypospolitej Polskiej bezpośrednio, za pośrednictwem spółki zarządzającej lub oddziału tej spółki po spełnieniu warunków określonych w rozdziale 2 niniejszego działu, podmiotu prowadzącego działalność maklerską, towarzystwa oraz podmiotu, o którym mowa w art. 32 ust. 2.
 
 **Art. 259.**
 
-1. Nadzór nad funduszami zagranicznymi wykonujà w∏aÊciwe organy paƒstwa macierzystego tych funduszy, z zastrze˝eniem ust. 4.
+1. Nadzór nad funduszami zagranicznymi wykonują właściwe organy państwa macierzystego tych funduszy, z zastrzeżeniem ust. 4.
 
-2. Wy∏àcznie w∏aÊciwe organy paƒstwa macierzystego funduszu zagranicznego sà uprawnione do podejmowania Êrodków nadzorczych wprzypadku naruszenia przez ten fundusz przepisów prawa, regulaminu, o którym mowa w art. 253 ust. 2 pkt 2, lub zasad uczciwego obrotu, z zastrze˝eniem ust. 5.
+2. Wyłącznie właściwe organy państwa macierzystego funduszu zagranicznego są uprawnione do podejmowania środków nadzorczych wprzypadku naruszenia przez ten fundusz przepisów prawa, regulaminu, o którym mowa w art. 253 ust. 2 pkt 2, lub zasad uczciwego obrotu, z zastrzeżeniem ust. 5.
 
-3. Komisja informuje w∏aÊciwe organy paƒstwa macierzystego funduszu zagranicznego o naruszeniu przez ten fundusz, na terytorium Rzeczypospolitej Polskiej, przepisów prawa, regulaminu lub zasad uczciwego obrotu.
+3. Komisja informuje właściwe organy państwa macierzystego funduszu zagranicznego o naruszeniu przez ten fundusz, na terytorium Rzeczypospolitej Polskiej, przepisów prawa, regulaminu lub zasad uczciwego obrotu.
 
-4. Komisja wykonuje nadzór nad zbywaniem na terytorium Rzeczypospolitej Polskiej tytu∏ów uczestnictwa emitowanych przez fundusze zagraniczne zgodnie z przepisami prawa i zasadami uczciwego obrotu.
+4. Komisja wykonuje nadzór nad zbywaniem na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa emitowanych przez fundusze zagraniczne zgodnie z przepisami prawa i zasadami uczciwego obrotu.
 
-5. W przypadku naruszenia przepisów prawa, regulaminu lub zasad uczciwego obrotu przy zbywaniu tytu∏ów uczestnictwa emitowanych przez fundusz zagraniczny na terytorium Rzeczypospolitej Polskiej, Komisja mo˝e w drodze decyzji:
+5. W przypadku naruszenia przepisów prawa, regulaminu lub zasad uczciwego obrotu przy zbywaniu tytułów uczestnictwa emitowanych przez fundusz zagraniczny na terytorium Rzeczypospolitej Polskiej, Komisja może w drodze decyzji:
 
-- **1)** zakazaç dalszego ich zbywania albo
-- **2)** na∏o˝yç na fundusz zagraniczny kar´ pieni´˝nà w wysokoÊci do 500 000 z∏, albo
-- **3)** zastosowaç ∏àcznie obie sankcje, o których mowa w pkt 1 i 2.
+- **1)** zakazać dalszego ich zbywania albo
+- **2)** nałożyć na fundusz zagraniczny karę pieniężną w wysokości do 500 000 zł, albo
+- **3)** zastosować łącznie obie sankcje, o których mowa w pkt 1 i 2.
 
-**Art. 260.** Do zbywania tytu∏ów uczestnictwa emitowanych przez fundusze zagraniczne nie stosuje si´ przepisów prawa o publicznym obrocie papierami wartoÊciowymi.
+**Art. 260.** Do zbywania tytułów uczestnictwa emitowanych przez fundusze zagraniczne nie stosuje się przepisów prawa o publicznym obrocie papierami wartościowymi.
 
 **Art. 261.**
 
-1. Je˝eli fundusz inwestycyjny otwarty majàcy siedzib´ na terytorium Rzeczypospolitej Polskiej zamierza zbywaç i odkupywaç jednostki uczestnictwa na terytorium paƒstwa cz∏onkowskiego, jest on zobowiàzany do pisemnego zawiadomienia w∏aÊciwych organów tego paƒstwa o tym zamiarze.
+1. Jeżeli fundusz inwestycyjny otwarty mający siedzibę na terytorium Rzeczypospolitej Polskiej zamierza zbywać i odkupywać jednostki uczestnictwa na terytorium państwa członkowskiego, jest on zobowiązany do pisemnego zawiadomienia właściwych organów tego państwa o tym zamiarze.
 
-2. Do zawiadomienia, októrym mowa wust. 1, za∏àcza si´:
+2. Do zawiadomienia, októrym mowa wust. 1, załącza się:
 
-- **1)** zaÊwiadczenie Komisji, ˝e fundusz dzia∏a zgodnie zbiorowego inwestowania w papiery wartoÊciowe;
+- **1)** zaświadczenie Komisji, że fundusz działa zgodnie zbiorowego inwestowania w papiery wartościowe;
 - **2)** statut funduszu;
 - **3)** prospekt informacyjny funduszu oraz skrót tego prospektu;
-- **4)** ostatni raport roczny i raport pó∏roczny funduszu, je˝eli zosta∏y sporzàdzone;
-- **5)** szczegó∏owy opis sposobów zbywania na terytorium paƒstwa goszczàcego jednostek uczestnictwa funduszu inwestycyjnego otwartego, w tym zasad i warunków wp∏acania i wyp∏acania kwot zwiàzanych z nabywaniem i odkupywaniem jednostek uczestnictwa oraz sposobu udost´pniania informacji o funduszu.
+- **4)** ostatni raport roczny i raport półroczny funduszu, jeżeli zostały sporządzone;
+- **5)** szczegółowy opis sposobów zbywania na terytorium państwa goszczącego jednostek uczestnictwa funduszu inwestycyjnego otwartego, w tym zasad i warunków wpłacania i wypłacania kwot związanych z nabywaniem i odkupywaniem jednostek uczestnictwa oraz sposobu udostępniania informacji o funduszu.
 
-**Art. 262.** Przepisy art. 253—261 stosuje si´ równie˝ do zbywania na terytorium Rzeczypospolitej Polskiej tytu∏ów uczestnictwa funduszy inwestycyjnych otwartych z siedzibà w paƒstwach nale˝àcych do EEA, pod z prawem wspólnotowym regulujàcym zasady warunkiem ˝e fundusze te dzia∏ajà zgodnie z prawem wspólnotowym regulujàcym zasady zbiorowego inwestowania w papiery wartoÊciowe, oraz do zbywania jednostek uczestnictwa funduszy inwestycyjnych otwartych zarzàdzanych przez towarzystwo na terytorium tych paƒstw.
+**Art. 262.** Przepisy art. 253—261 stosuje się również do zbywania na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa funduszy inwestycyjnych otwartych z siedzibą w państwach należących do EEA, pod z prawem wspólnotowym regulującym zasady warunkiem że fundusze te działają zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania w papiery wartościowe, oraz do zbywania jednostek uczestnictwa funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo na terytorium tych państw.
 
 **Art. 263.**
 
-1. Komisja prowadzi rejestr funduszy zagranicznych oraz funduszy, o których mowa w art. 262, które zbywajà tytu∏y uczestnictwa na terytorium Rzeczypospolitej Polskiej.
+1. Komisja prowadzi rejestr funduszy zagranicznych oraz funduszy, o których mowa w art. 262, które zbywają tytuły uczestnictwa na terytorium Rzeczypospolitej Polskiej.
 
 2. Rejestr, o którym mowa w ust. 1, zawiera:
 
-- **1)** firm´ (nazw´) oraz siedzib´ iadres funduszu zagranicznego oraz spó∏ki zarzàdzajàcej tym funduszem;
-- **2)** imi´ inazwisko albo firm´ (nazw´) oraz miejsce zamieszkania lub siedzib´ oraz adres w Rzeczypospolitej Polskiej przedstawiciela funduszu zagranicznego;
-- **3)** firm´ oraz siedzib´ i adres agenta p∏atnoÊci. Rozdzia∏ 2 Tworzenie oddzia∏ów i wykonywanie dzia∏alnoÊci przez towarzystwo na terytorium paƒstw cz∏onkowskich oraz tworzenie oddzia∏ów i wykonywanie dzia∏alnoÊci przez spó∏ki zarzàdzajàce na terytorium Rzeczypospolitej Polskiej
+- **1)** firmę (nazwę) oraz siedzibę iadres funduszu zagranicznego oraz spółki zarządzającej tym funduszem;
+- **2)** imię inazwisko albo firmę (nazwę) oraz miejsce zamieszkania lub siedzibę oraz adres w Rzeczypospolitej Polskiej przedstawiciela funduszu zagranicznego;
+- **3)** firmę oraz siedzibę i adres agenta płatności.
+
+#### Rozdział 2 Tworzenie oddziałów i wykonywanie działalności przez towarzystwo na terytorium państw członkowskich oraz tworzenie oddziałów i wykonywanie działalności przez spółki zarządzające na terytorium Rzeczypospolitej Polskiej
 
 **Art. 264.**
 
-1. Towarzystwo, które zarzàdza co najmniej jednym funduszem inwestycyjnym otwartym nieb´dàcym funduszem podstawowym lub powiàzanym, mo˝e prowadziç na terytorium paƒstwa cz∏onkowskiego dzia∏alnoÊç w formie oddzia∏u.
+1. Towarzystwo, które zarządza co najmniej jednym funduszem inwestycyjnym otwartym niebędącym funduszem podstawowym lub powiązanym, może prowadzić na terytorium państwa członkowskiego działalność w formie oddziału.
 
-2. Je˝eli towarzystwo zamierza ustanowiç oddzia∏ na terytorium paƒstwa cz∏onkowskiego, jest obowiàzane do pisemnego zawiadomienia Komisji o tym zamiarze.
+2. Jeżeli towarzystwo zamierza ustanowić oddział na terytorium państwa członkowskiego, jest obowiązane do pisemnego zawiadomienia Komisji o tym zamiarze.
 
-3. Zawiadomienie, o którym mowa w ust. 2, powinno zawieraç:
+3. Zawiadomienie, o którym mowa w ust. 2, powinno zawierać:
 
-- **1)** nazw´ paƒstwa cz∏onkowskiego, na którego terytorium towarzystwo planuje utworzenie oddzia∏u;
-- **2)** siedzib´ i adres oddzia∏u.
+- **1)** nazwę państwa członkowskiego, na którego terytorium towarzystwo planuje utworzenie oddziału;
+- **2)** siedzibę i adres oddziału.
 
-4. Do zawiadomienia, októrym mowa wust. 2, za∏àcza si´:
+4. Do zawiadomienia, októrym mowa wust. 2, załącza się:
 
-- **1)** struktur´ organizacyjnà oddzia∏u;
-- **2)** plan prowadzenia dzia∏alnoÊci, okreÊlajàcy zakres us∏ug Êwiadczonych przez oddzia∏;
-- **3)** dane osobowe osób odpowiedzialnych za zarzàdzanie oddzia∏em;
-- **4)** dokumenty, októrych mowa wart. 261 ust. 2, je˝eli zgodnie z planem, o którym mowa w pkt 2, oddzia∏ b´dzie zbywa∏ jednostki uczestnictwa funduszy inwestycyjnych otwartych zarzàdzanych przez towarzystwo.
+- **1)** strukturę organizacyjną oddziału;
+- **2)** plan prowadzenia działalności, określający zakres usług świadczonych przez oddział;
+- **3)** dane osobowe osób odpowiedzialnych za zarządzanie oddziałem;
+- **4)** dokumenty, októrych mowa wart. 261 ust. 2, jeżeli zgodnie z planem, o którym mowa w pkt 2, oddział będzie zbywał jednostki uczestnictwa funduszy inwestycyjnych otwartych zarządzanych przez towarzystwo.
 
-5. Komisja, w terminie 3 miesi´cy od otrzymania wszystkich informacji, o których mowa w ust. 3 i 4, przekazuje je w∏aÊciwym organom paƒstwa goszczàcego wraz z informacjà o obowiàzujàcym na terytorium Rzeczypospolitej Polskiej systemie rekompensat oraz informuje o tym towarzystwo, z zastrze˝eniem ust. 6.
+5. Komisja, w terminie 3 miesięcy od otrzymania wszystkich informacji, o których mowa w ust. 3 i 4, przekazuje je właściwym organom państwa goszczącego wraz z informacją o obowiązującym na terytorium Rzeczypospolitej Polskiej systemie rekompensat oraz informuje o tym towarzystwo, z zastrzeżeniem ust. 6.
 
-6. Komisja, w terminie 2 miesi´cy od otrzymania wszystkich informacji, o których mowa w ust. 3 i 4, mo˝e, wformie decyzji, odmówiç przekazania tych informacji w∏aÊciwym organom paƒstwa goszczàcego, je˝eli stwierdzi, ˝e:
+6. Komisja, w terminie 2 miesięcy od otrzymania wszystkich informacji, o których mowa w ust. 3 i 4, może, wformie decyzji, odmówić przekazania tych informacji właściwym organom państwa goszczącego, jeżeli stwierdzi, że:
 
-- **1)** sytuacja finansowa towarzystwa nie pozwala na prowadzenie dzia∏alnoÊci w zakresie wynikajàcym z planu, o którym mowa w ust. 4 pkt 2;
-- **2)** ze sposobu organizacji oddzia∏u wynika, ˝e mo˝e on prowadziç dzia∏alnoÊç z naruszeniem zasad uczciwego obrotu;
-- **3)** osoby, o których mowa w ust. 4 pkt 3, nie dajà r´kojmi prowadzenia przez towarzystwo dzia∏alnoÊci w sposób nale˝yty.
+- **1)** sytuacja finansowa towarzystwa nie pozwala na prowadzenie działalności w zakresie wynikającym z planu, o którym mowa w ust. 4 pkt 2;
+- **2)** ze sposobu organizacji oddziału wynika, że może on prowadzić działalność z naruszeniem zasad uczciwego obrotu;
+- **3)** osoby, o których mowa w ust. 4 pkt 3, nie dają rękojmi prowadzenia przez towarzystwo działalności w sposób należyty.
 
-7. Oddzia∏ mo˝e byç utworzony, po otrzymaniu przez towarzystwo, od w∏aÊciwych organów paƒstwa goszczàcego, informacji o warunkach i zasadach prowadzenia dzia∏alnoÊci obowiàzujàcych w tym paƒstwie albo bez otrzymania takich informacji, po up∏ywie 2 miesi´cy od otrzymania informacji, o których mowa w ust. 3—5, przez w∏aÊciwe organy paƒstwa goszczàcego.
+7. Oddział może być utworzony, po otrzymaniu przez towarzystwo, od właściwych organów państwa goszczącego, informacji o warunkach i zasadach prowadzenia działalności obowiązujących w tym państwie albo bez otrzymania takich informacji, po upływie 2 miesięcy od otrzymania informacji, o których mowa w ust. 3—5, przez właściwe organy państwa goszczącego.
 
-8. Od chwili utworzenia oddzia∏u towarzystwo modzanego przez siebie funduszu inwestycyjnego otwartego, chyba ˝e w∏aÊciwe organy paƒstwa goszczàcego nie wyra˝à na to zgody.
+8. Od chwili utworzenia oddziału towarzystwo modzanego przez siebie funduszu inwestycyjnego otwartego, chyba że właściwe organy państwa goszczącego nie wyrażą na to zgody.
 
-9. W przypadku planowanej zmiany w zakresie okreÊlonym w ust. 3 pkt 2 i ust. 4 towarzystwo ma obowiàzek zawiadomiç o tym, w formie pisemnej:
+9. W przypadku planowanej zmiany w zakresie określonym w ust. 3 pkt 2 i ust. 4 towarzystwo ma obowiązek zawiadomić o tym, w formie pisemnej:
 
-- **1)** Komisj´ na co najmniej 2 miesiàce przed jej wprowadzeniem;
-- **2)** w∏aÊciwe organy paƒstwa goszczàcego na co najmniej miesiàc przed jej wprowadzeniem.
+- **1)** Komisję na co najmniej 2 miesiące przed jej wprowadzeniem;
+- **2)** właściwe organy państwa goszczącego na co najmniej miesiąc przed jej wprowadzeniem.
 
 10. Komisja, w terminie 2 tygodni od dnia otrzymania wszystkich informacji o planowanych zmianach:
 
-- **1)** przekazuje te informacje w∏aÊciwym organom paƒstwa goszczàcego albo
-- **2)** odmawia, wformie decyzji administracyjnej, przekazania tych informacji w∏aÊciwym organom paƒ˝e rozpoczàç zbywanie jednostek uczestnictwa zarzàstwa goszczàcego, je˝eli stwierdzi, ˝e:
-    - **a)** sytuacja finansowa towarzystwa nie pozwala na prowadzenie dzia∏alnoÊci w zakresie wynikajàcym ze zmienionego planu, o którym mowa w ust. 4 pkt 2,
-    - **b)** z planowanych zmian w sposobie organizacji oddzia∏u wynika, ˝e mo˝e on prowadziç dzia∏alnoÊç z naruszeniem zasad uczciwego obrotu,
-    - **c)** osoby, o których mowa w ust. 4 pkt 3, nie dajà r´kojmi prowadzenia przez towarzystwo dzia∏alnoÊci w sposób nale˝yty.
+- **1)** przekazuje te informacje właściwym organom państwa goszczącego albo
+- **2)** odmawia, wformie decyzji administracyjnej, przekazania tych informacji właściwym organom pańże rozpocząć zbywanie jednostek uczestnictwa zarząstwa goszczącego, jeżeli stwierdzi, że:
+    - **a)** sytuacja finansowa towarzystwa nie pozwala na prowadzenie działalności w zakresie wynikającym ze zmienionego planu, o którym mowa w ust. 4 pkt 2,
+    - **b)** z planowanych zmian w sposobie organizacji oddziału wynika, że może on prowadzić działalność z naruszeniem zasad uczciwego obrotu,
+    - **c)** osoby, o których mowa w ust. 4 pkt 3, nie dają rękojmi prowadzenia przez towarzystwo działalności w sposób należyty.
 
-11. Komisja informuje w∏aÊciwe organy paƒstwa goszczàcego ozmianach dotyczàcych systemu rekompensat.
+11. Komisja informuje właściwe organy państwa goszczącego ozmianach dotyczących systemu rekompensat.
 
 **Art. 265.**
 
-1. Towarzystwo zarzàdzajàce co najmniej jednym funduszem inwestycyjnym otwartym nieb´dàcym funduszem podstawowym lub powiàzanym, które zamierza prowadziç dzia∏alnoÊç na terytorium paƒstwa cz∏onkowskiego w formie innej ni˝ oddzia∏, jest obowiàzane do pisemnego zawiadomienia Komisji o tym zamiarze.
+1. Towarzystwo zarządzające co najmniej jednym funduszem inwestycyjnym otwartym niebędącym funduszem podstawowym lub powiązanym, które zamierza prowadzić działalność na terytorium państwa członkowskiego w formie innej niż oddział, jest obowiązane do pisemnego zawiadomienia Komisji o tym zamiarze.
 
-2. Zawiadomienie, o którym mowa w ust. 1, powinno zawieraç:
+2. Zawiadomienie, o którym mowa w ust. 1, powinno zawierać:
 
-- **1)** nazw´ paƒstwa goszczàcego;
-- **2)** plan prowadzenia dzia∏alnoÊci, okreÊlajàcy zakres Êwiadczonych us∏ug.
+- **1)** nazwę państwa goszczącego;
+- **2)** plan prowadzenia działalności, określający zakres świadczonych usług.
 
-3. Komisja, w terminie miesiàca od otrzymania informacji, o których mowa w ust. 2, przesy∏a je w∏aÊciwym organom paƒstwa goszczàcego wraz z informacjà o obowiàzujàcym na terytorium Rzeczypospolitej Polskiej systemie rekompensat.
+3. Komisja, w terminie miesiąca od otrzymania informacji, o których mowa w ust. 2, przesyła je właściwym organom państwa goszczącego wraz z informacją o obowiązującym na terytorium Rzeczypospolitej Polskiej systemie rekompensat.
 
-4. Komisja informuje towarzystwo o dacie wys∏ania informacji, o których mowa w ust. 3.
+4. Komisja informuje towarzystwo o dacie wysłania informacji, o których mowa w ust. 3.
 
-5. Towarzystwo mo˝e rozpoczàç dzia∏alnoÊç na terytorium paƒstwa goszczàcego po otrzymaniu informacji, o której mowa w ust. 4, przy czym zbywanie jednostek uczestnictwa funduszy inwestycyjnych otwartych na terytorium tego paƒstwa wymaga uprzedniego spe∏nienia warunku, o którym mowa w art. 261.
+5. Towarzystwo może rozpocząć działalność na terytorium państwa goszczącego po otrzymaniu informacji, o której mowa w ust. 4, przy czym zbywanie jednostek uczestnictwa funduszy inwestycyjnych otwartych na terytorium tego państwa wymaga uprzedniego spełnienia warunku, o którym mowa w art. 261.
 
-6. W przypadku zmiany w zakresie planu prowadzenia dzia∏alnoÊci, o którym mowa w ust. 2 pkt 2, towarzystwo zawiadamia otym, wformie pisemnej, Komisj´, przed jej wprowadzeniem.
+6. W przypadku zmiany w zakresie planu prowadzenia działalności, o którym mowa w ust. 2 pkt 2, towarzystwo zawiadamia otym, wformie pisemnej, Komisję, przed jej wprowadzeniem.
 
-7. Komisja niezw∏ocznie przekazuje informacje, o których mowa w ust. 6, w∏aÊciwym organom paƒstwa goszczàcego.
+7. Komisja niezwłocznie przekazuje informacje, o których mowa w ust. 6, właściwym organom państwa goszczącego.
 
-8. Powierzenie osobie trzeciej zbywania jednostek uczestnictwa w paƒstwie goszczàcym nie zwalnia towarzystwa z obowiàzku zastosowania trybu, o którym mowa w ust. 1.
+8. Powierzenie osobie trzeciej zbywania jednostek uczestnictwa w państwie goszczącym nie zwalnia towarzystwa z obowiązku zastosowania trybu, o którym mowa w ust. 1.
 
-**Art. 266.** Towarzystwa, które utworzy∏y oddzia∏ lub prowadzà dzia∏alnoÊç na terytorium paƒstwa goszczàcego w formie innej ni˝ oddzia∏, majà obowiàzek dostarczaç w∏aÊciwym organom tego paƒstwa informacje wymagane przez przepisy paƒstwa goszczàcego.
+**Art. 266.** Towarzystwa, które utworzyły oddział lub prowadzą działalność na terytorium państwa goszczącego w formie innej niż oddział, mają obowiązek dostarczać właściwym organom tego państwa informacje wymagane przez przepisy państwa goszczącego.
 
-**Art. 267.** W przypadku powiadomienia Komisji przez w∏aÊciwe organy paƒstwa goszczàcego, ˝e towarzystwo, które prowadzi na terytorium tego paƒstwa dzia∏alnoÊç wformie oddzia∏u lub wformie innej ni˝ oddzia∏, narusza przepisy prawa obowiàzujàce wtym paƒstwie inie usun´∏o nieprawid∏owoÊci wterminie wyznaczonym przez te organy, Komisja mo˝e:
+**Art. 267.** W przypadku powiadomienia Komisji przez właściwe organy państwa goszczącego, że towarzystwo, które prowadzi na terytorium tego państwa działalność wformie oddziału lub wformie innej niż oddział, narusza przepisy prawa obowiązujące wtym państwie inie usunęło nieprawidłowości wterminie wyznaczonym przez te organy, Komisja może:
 
 **Art. 268.**
 
-1. Je˝eli towarzystwo prowadzi dzia∏alnoÊç na terytorium paƒstwa goszczàcego w formie oddzia∏u, upowa˝nieni przedstawiciele Komisji majà prawo, po uprzednim poinformowaniu w∏aÊciwych organów tego paƒstwa, wst´pu do pomieszczeƒ tego oddzia∏u wcelu sprawdzenia, czy jego dzia∏alnoÊç jest zgodna z przepisami prawa.
+1. Jeżeli towarzystwo prowadzi działalność na terytorium państwa goszczącego w formie oddziału, upoważnieni przedstawiciele Komisji mają prawo, po uprzednim poinformowaniu właściwych organów tego państwa, wstępu do pomieszczeń tego oddziału wcelu sprawdzenia, czy jego działalność jest zgodna z przepisami prawa.
 
-2. Komisja mo˝e zwróciç si´ do w∏aÊciwych organów paƒstwa goszczàcego oprzeprowadzenie kontroArt. 269. 1. Cofni´cie przez Komisj´ zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo jest równoznaczne z utratà przez towarzystwo prawa do wykonywania dzia∏alnoÊci w innym paƒstwie cz∏onkowskim.
+2. Komisja może zwrócić się do właściwych organów państwa goszczącego oprzeprowadzenie kontroArt. 269. 1. Cofnięcie przez Komisję zezwolenia na wykonywanie działalności przez towarzystwo jest równoznaczne z utratą przez towarzystwo prawa do wykonywania działalności w innym państwie członkowskim.
 
-2. W przypadku cofni´cia zezwolenia na wykonywanie dzia∏alnoÊci przez towarzystwo, Komisja informuje o tym w∏aÊciwe organy paƒstwa goszczàcego. li, o której mowa w ust. 1.
+2. W przypadku cofnięcia zezwolenia na wykonywanie działalności przez towarzystwo, Komisja informuje o tym właściwe organy państwa goszczącego. li, o której mowa w ust. 1.
 
 **Art. 270.**
 
-1. Spó∏ka zarzàdzajàca mo˝e utworzyç na terytorium Rzeczypospolitej Polskiej oddzia∏, pod warunkiem otrzymania przez Komisj´ od w∏aÊciwego organu paƒstwa macierzystego spó∏ki zarzàdzajàcej informacji, o których mowa w art. 264 ust. 3, ust. 4 pkt 1—3 oraz ust. 5, aje˝eli, zgodnie zplanem prowadzenia dzia∏alnoÊci oddzia∏u, oddzia∏ b´dzie zbywa∏ tytu∏y uczestnictwa funduszy zagranicznych zarzàdzanych przez spó∏k´ zarzàdzajàcà, tak˝e dokumenty, o których mowa w art. 253 ust. 2.
+1. Spółka zarządzająca może utworzyć na terytorium Rzeczypospolitej Polskiej oddział, pod warunkiem otrzymania przez Komisję od właściwego organu państwa macierzystego spółki zarządzającej informacji, o których mowa w art. 264 ust. 3, ust. 4 pkt 1—3 oraz ust. 5, ajeżeli, zgodnie zplanem prowadzenia działalności oddziału, oddział będzie zbywał tytuły uczestnictwa funduszy zagranicznych zarządzanych przez spółkę zarządzającą, także dokumenty, o których mowa w art. 253 ust. 2.
 
-2. Komisja informuje spó∏k´ zarzàdzajàcà o dniu otrzymania informacji, o których mowa w ust. 1.
+2. Komisja informuje spółkę zarządzającą o dniu otrzymania informacji, o których mowa w ust. 1.
 
-3. Komisja mo˝e, w terminie 2 miesi´cy od dnia otrzymania informacji, októrych mowa wust. 1, wskazaç, w formie decyzji, warunki prowadzenia przez oddzia∏ dzia∏alnoÊci na terytorium Rzeczypospolitej Polskiej, w tym zasady:
+3. Komisja może, w terminie 2 miesięcy od dnia otrzymania informacji, októrych mowa wust. 1, wskazać, w formie decyzji, warunki prowadzenia przez oddział działalności na terytorium Rzeczypospolitej Polskiej, w tym zasady:
 
-- **1)** zbywania tytu∏ów uczestnictwa;
-- **2)** prowadzenia dzia∏alnoÊci reklamowej;
-- **3)** post´powania, których nale˝y przestrzegaç w wypadku Êwiadczenia us∏ug zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa w zakresie obrotu papierami wartoÊciowymi, lub przechowywania iadministrowania tytu∏ami uczestnictwa.
+- **1)** zbywania tytułów uczestnictwa;
+- **2)** prowadzenia działalności reklamowej;
+- **3)** postępowania, których należy przestrzegać w wypadku świadczenia usług zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa w zakresie obrotu papierami wartościowymi, lub przechowywania iadministrowania tytułami uczestnictwa.
 
-4. Oddzia∏ mo˝e zostaç utworzony po up∏ywie 2 miesi´cy od dnia otrzymania przez Komisj´ informacji, o których mowa w ust. 1.
+4. Oddział może zostać utworzony po upływie 2 miesięcy od dnia otrzymania przez Komisję informacji, o których mowa w ust. 1.
 
-5. Zzastrze˝eniem ust. 6, od chwili utworzenia oddzia∏u spó∏ka zarzàdzajàca mo˝e rozpoczàç zbywanie tytu∏ów uczestnictwa funduszy zagranicznych, którymi zarzàdza.
+5. Zzastrzeżeniem ust. 6, od chwili utworzenia oddziału spółka zarządzająca może rozpocząć zbywanie tytułów uczestnictwa funduszy zagranicznych, którymi zarządza.
 
-6. Komisja mo˝e zakazaç spó∏ce zarzàdzajàcej, w drodze decyzji, wydanej przed up∏ywem terminu, októrym mowa wust. 4, zbywania na terytorium Rzeczypospolitej Polskiej tytu∏ów uczestnictwa funduszy zagranicznych, je˝eli:
+6. Komisja może zakazać spółce zarządzającej, w drodze decyzji, wydanej przed upływem terminu, októrym mowa wust. 4, zbywania na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa funduszy zagranicznych, jeżeli:
 
-- **1)** przewidywane sposoby zbywania tytu∏ów uczestnictwa nie spe∏niajà warunków okreÊlonych w przepisach prawa obowiàzujàcych na terytorium Rzeczypospolitej Polskiej;
-- **2)** fundusz zagraniczny, którym zarzàdza spó∏ka zarzàdzajàca, nie zapewnia sprawnego wp∏acania i wyp∏acania kwot zwiàzanych z nabywaniem i umarzaniem tytu∏ów uczestnictwa;
-- **3)** fundusz nie zapewnia uczestnikom dostatecznie ∏atwego dost´pu do informacji o funduszu.
+- **1)** przewidywane sposoby zbywania tytułów uczestnictwa nie spełniają warunków określonych w przepisach prawa obowiązujących na terytorium Rzeczypospolitej Polskiej;
+- **2)** fundusz zagraniczny, którym zarządza spółka zarządzająca, nie zapewnia sprawnego wpłacania i wypłacania kwot związanych z nabywaniem i umarzaniem tytułów uczestnictwa;
+- **3)** fundusz nie zapewnia uczestnikom dostatecznie łatwego dostępu do informacji o funduszu.
 
-7. O wydaniu decyzji, o której mowa w ust. 6, Komisja informuje w∏aÊciwe organy paƒstwa macierzystego spó∏ki zarzàdzajàcej.
+7. O wydaniu decyzji, o której mowa w ust. 6, Komisja informuje właściwe organy państwa macierzystego spółki zarządzającej.
 
-8. W przypadku gdy za poÊrednictwem oddzia∏u spó∏ka zarzàdzajàca b´dzie zbywaç tytu∏y uczestnictwa funduszy zagranicznych, które nie by∏y przedmiotem zg∏oszenia, októrym mowa wust. 1, do zbywania takich tytu∏ów uczestnictwa stosuje si´ art. 253.
+8. W przypadku gdy za pośrednictwem oddziału spółka zarządzająca będzie zbywać tytuły uczestnictwa funduszy zagranicznych, które nie były przedmiotem zgłoszenia, októrym mowa wust. 1, do zbywania takich tytułów uczestnictwa stosuje się art. 253.
 
-9. Do oddzia∏u, októrym mowa wust. 1, nie stosuje si´ przepisów art. 38 i 39, art. 40 pkt 3 oraz art. 41 ustawy zdnia 19 listopada 1999 r. Prawo dzia∏alnoÊci gospodarczej.
+9. Do oddziału, októrym mowa wust. 1, nie stosuje się przepisów art. 38 i 39, art. 40 pkt 3 oraz art. 41 ustawy zdnia 19 listopada 1999 r. Prawo działalności gospodarczej.
 
 **Art. 271.**
 
-1. Spó∏ka zarzàdzajàca mo˝e prowadziç na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç wformie innej ni˝ oddzia∏, pod warunkiem otrzymania przez Komisj´ od w∏aÊciwego organu paƒstwa macierzystego tej spó∏ki wszystkich dokumentów i informacji, o których mowa w art. 265 ust. 2, oraz informacji o obowiàzujàcym na terytorium tego paƒstwa systemie rekompensat.
+1. Spółka zarządzająca może prowadzić na terytorium Rzeczypospolitej Polskiej działalność wformie innej niż oddział, pod warunkiem otrzymania przez Komisję od właściwego organu państwa macierzystego tej spółki wszystkich dokumentów i informacji, o których mowa w art. 265 ust. 2, oraz informacji o obowiązującym na terytorium tego państwa systemie rekompensat.
 
-2. Komisja informuje spó∏k´ zarzàdzajàcà o dniu otrzymania informacji, o których mowa w ust. 1.
+2. Komisja informuje spółkę zarządzającą o dniu otrzymania informacji, o których mowa w ust. 1.
 
-3. Komisja, wterminie miesiàca po otrzymaniu informacji, o których mowa w ust. 1, mo˝e wskazaç spó∏ce zarzàdzajàcej, wformie decyzji, warunki, wtym zasady post´powania, których nale˝y przestrzegaç w wypadku Êwiadczenia us∏ug zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie oraz us∏ug w zakresie doradztwa w zakresie obrotu papierami wartoÊciowymi lub przechowywania i administrowania tytu∏ami uczestnictwa na terytorium Rzeczypospolitej Polskiej.
+3. Komisja, wterminie miesiąca po otrzymaniu informacji, o których mowa w ust. 1, może wskazać spółce zarządzającej, wformie decyzji, warunki, wtym zasady postępowania, których należy przestrzegać w wypadku świadczenia usług zarządzania cudzym pakietem papierów wartościowych na zlecenie oraz usług w zakresie doradztwa w zakresie obrotu papierami wartościowymi lub przechowywania i administrowania tytułami uczestnictwa na terytorium Rzeczypospolitej Polskiej.
 
-4. Spó∏ka zarzàdzajàca mo˝e rozpoczàç dzia∏alnoÊç na terytorium Rzeczypospolitej Polskiej po up∏ywie miesiàca od otrzymania przez Komisj´ informacji, októrych mowa wust. 1, przy czym zbywanie tytu∏ów uczestnictwa funduszy zagranicznych na terytorium Rzeczypospolitej Polskiej wymaga uprzedniego spe∏nienia warunków, o których mowa w art. 253.
+4. Spółka zarządzająca może rozpocząć działalność na terytorium Rzeczypospolitej Polskiej po upływie miesiąca od otrzymania przez Komisję informacji, októrych mowa wust. 1, przy czym zbywanie tytułów uczestnictwa funduszy zagranicznych na terytorium Rzeczypospolitej Polskiej wymaga uprzedniego spełnienia warunków, o których mowa w art. 253.
 
-5. W przypadku otrzymania przez Komisj´ od w∏aÊciwego organu paƒstwa macierzystego spó∏ki zarzàdzajàcej lub od spó∏ki zarzàdzajàcej informacji ozmianie informacji, októrych mowa wart. 265 ust. 2 pkt 2, przepis ust. 3 stosuje si´ odpowiednio.
+5. W przypadku otrzymania przez Komisję od właściwego organu państwa macierzystego spółki zarządzającej lub od spółki zarządzającej informacji ozmianie informacji, októrych mowa wart. 265 ust. 2 pkt 2, przepis ust. 3 stosuje się odpowiednio.
 
-6. Powierzenie osobie trzeciej zbywania tytu∏ów uczestnictwa na terytorium Rzeczypospolitej Polskiej nie zwalnia spó∏ki zarzàdzajàcej z obowiàzku zastosoArt. 272. 1. Spó∏ki zarzàdzajàce, które utworzy∏y oddzia∏y na terytorium Rzeczypospolitej Polskiej, sà obowiàzane dostarczaç Komisji, w celach statystycznych, okresowe sprawozdania ze swojej dzia∏alnoÊci na terytorium Rzeczypospolitej Polskiej oraz przedstawiaç inne informacje dotyczàce ich dzia∏alnoÊci w takim samym zakresie jak towarzystwa.
+6. Powierzenie osobie trzeciej zbywania tytułów uczestnictwa na terytorium Rzeczypospolitej Polskiej nie zwalnia spółki zarządzającej z obowiązku zastosoArt. 272. 1. Spółki zarządzające, które utworzyły oddziały na terytorium Rzeczypospolitej Polskiej, są obowiązane dostarczać Komisji, w celach statystycznych, okresowe sprawozdania ze swojej działalności na terytorium Rzeczypospolitej Polskiej oraz przedstawiać inne informacje dotyczące ich działalności w takim samym zakresie jak towarzystwa.
 
-2. Spó∏ki zarzàdzajàce, prowadzàce na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç w formie innej ni˝ oddzia∏, sà obowiàzane dostarczaç Komisji informacje dotyczàce ich dzia∏alnoÊci w takim samym zakresie jak towarzystwa, w celu umo˝liwienia jej sprawowania nadzoru nad przestrzeganiem przepisów obowiàzujàcych na terytorium Rzeczypospolitej Polskiej.
+2. Spółki zarządzające, prowadzące na terytorium Rzeczypospolitej Polskiej działalność w formie innej niż oddział, są obowiązane dostarczać Komisji informacje dotyczące ich działalności w takim samym zakresie jak towarzystwa, w celu umożliwienia jej sprawowania nadzoru nad przestrzeganiem przepisów obowiązujących na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 273.**
 
-1. Je˝eli Komisja stwierdzi, ˝e spó∏ka zarzàdzajàca narusza przepisy prawa w zakresie prowadzenia dzia∏alnoÊci na terytorium Rzeczypospolitej Polskiej w formie oddzia∏u lub w formie innej ni˝ oddzia∏, Komisja informuje t´ spó∏k´ o stwierdzonych wania trybu, o którym mowa w ust. 1. nieprawid∏owoÊciach i wyznacza termin do ich usuni´cia. W razie nieusuni´cia nieprawid∏owoÊci w wyznaczonym terminie, Komisja informuje otym w∏aÊciwe organy paƒstwa macierzystego spó∏ki zarzàdzajàcej.
+1. Jeżeli Komisja stwierdzi, że spółka zarządzająca narusza przepisy prawa w zakresie prowadzenia działalności na terytorium Rzeczypospolitej Polskiej w formie oddziału lub w formie innej niż oddział, Komisja informuje tę spółkę o stwierdzonych wania trybu, o którym mowa w ust. 1. nieprawidłowościach i wyznacza termin do ich usunięcia. W razie nieusunięcia nieprawidłowości w wyznaczonym terminie, Komisja informuje otym właściwe organy państwa macierzystego spółki zarządzającej.
 
-2. Je˝eli pomimo Êrodków podj´tych przez paƒstwo macierzyste albo z uwagi na to, ˝e okazujà si´ one niewystarczajàce lub nie mogà byç zastosowane wRzeczypospolitej Polskiej, spó∏ka zarzàdzajàca nadal narusza przepisy prawa w zakresie, o którym mowa w ust. 1, Komisja mo˝e, w drodze decyzji, po poinformowaniu w∏aÊciwych organów paƒstwa macierzystego spó∏ki zarzàdzajàcej:
+2. Jeżeli pomimo środków podjętych przez państwo macierzyste albo z uwagi na to, że okazują się one niewystarczające lub nie mogą być zastosowane wRzeczypospolitej Polskiej, spółka zarządzająca nadal narusza przepisy prawa w zakresie, o którym mowa w ust. 1, Komisja może, w drodze decyzji, po poinformowaniu właściwych organów państwa macierzystego spółki zarządzającej:
 
-- **1)** zakazaç wykonywania dzia∏alnoÊci przez spó∏k´ zarzàdzajàcà lub jej oddzia∏ na terytorium Rzeczypospolitej Polskiej;
-- **2)** na∏o˝yç na spó∏k´ zarzàdzajàcà kar´ pieni´˝nà w wysokoÊci do 500 000 z∏;
-- **3)** zastosowaç ∏àcznie sankcje, o których mowa w pkt 1 i 2;
-- **4)** zakazaç zawierania przez spó∏k´ zarzàdzajàcà jakichkolwiek transakcji na terytorium Rzeczypospolitej Polskiej.
+- **1)** zakazać wykonywania działalności przez spółkę zarządzającą lub jej oddział na terytorium Rzeczypospolitej Polskiej;
+- **2)** nałożyć na spółkę zarządzającą karę pieniężną w wysokości do 500 000 zł;
+- **3)** zastosować łącznie sankcje, o których mowa w pkt 1 i 2;
+- **4)** zakazać zawierania przez spółkę zarządzającą jakichkolwiek transakcji na terytorium Rzeczypospolitej Polskiej.
 
-3. Je˝eli wymaga tego ochrona interesów inwestorów lub innych podmiotów na rzecz których spó∏ka zarzàdzajàca Êwiadczy us∏ugi na terytorium Rzeczypospolitej Polskiej, Komisja mo˝e wydaç decyzj´, o której mowa wust. 2, zpomini´ciem trybu, októrym mowa wust. 1 i2. Ozastosowaniu takich Êrodków Komisja niezw∏ocznie informuje w∏aÊciwe organy paƒstwa macierzystego oraz Komisj´ Europejskà.
+3. Jeżeli wymaga tego ochrona interesów inwestorów lub innych podmiotów na rzecz których spółka zarządzająca świadczy usługi na terytorium Rzeczypospolitej Polskiej, Komisja może wydać decyzję, o której mowa wust. 2, zpominięciem trybu, októrym mowa wust. 1 i2. Ozastosowaniu takich środków Komisja niezwłocznie informuje właściwe organy państwa macierzystego oraz Komisję Europejską.
 
-4. Komisja uchyla lub zmienia decyzj´, o której mowa w ust. 3, w zwiàzku z otrzymaniem decyzji Komisji Europejskiej nakazujàcej zmian´ lub zniesienie zastosowanych Êrodków.
+4. Komisja uchyla lub zmienia decyzję, o której mowa w ust. 3, w związku z otrzymaniem decyzji Komisji Europejskiej nakazującej zmianę lub zniesienie zastosowanych środków.
 
 **Art. 274.**
 
-1. Je˝eli spó∏ka zarzàdzajàca prowadzi dzia∏alnoÊç na terytorium Rzeczypospolitej Polskiej w formie oddzia∏u, przedstawiciele w∏aÊciwych organów paƒstwa macierzystego tej spó∏ki majà prawo wst´pu, po uprzednim poinformowaniu Komisji, do pomieszczeƒ tych oddzia∏ów w celu sprawdzenia, czy prowadzà one dzia∏alnoÊç zgodnie z przepisami prawa.
+1. Jeżeli spółka zarządzająca prowadzi działalność na terytorium Rzeczypospolitej Polskiej w formie oddziału, przedstawiciele właściwych organów państwa macierzystego tej spółki mają prawo wstępu, po uprzednim poinformowaniu Komisji, do pomieszczeń tych oddziałów w celu sprawdzenia, czy prowadzą one działalność zgodnie z przepisami prawa.
 
-2. Na wniosek w∏aÊciwych organów paƒstwa macierzystego spó∏ki zarzàdzajàcej Komisja mo˝e przeprowadziç kontrol´, o której mowa w ust. 1.
+2. Na wniosek właściwych organów państwa macierzystego spółki zarządzającej Komisja może przeprowadzić kontrolę, o której mowa w ust. 1.
 
-**Art. 275.** Do zbywania na terytorium Rzeczypospolitej Polskiej tytu∏ów uczestnictwa zgodnie z przepisami tego rozdzia∏u stosuje si´ odpowiednio przepisy rozdzia∏u 1 niniejszego dzia∏u.
+**Art. 275.** Do zbywania na terytorium Rzeczypospolitej Polskiej tytułów uczestnictwa zgodnie z przepisami tego rozdziału stosuje się odpowiednio przepisy rozdziału 1 niniejszego działu.
 
 **Art. 276.**
 
-1. Przepisy oddzia∏u 1 niniejszego rozdzia∏u stosuje si´ do tworzenia oddzia∏ów iprowadzenia dzia∏alnoÊci przez towarzystwa w formie innej ni˝ oddzia∏ na terytorium paƒstw nale˝àcych do EEA.
+1. Przepisy oddziału 1 niniejszego rozdziału stosuje się do tworzenia oddziałów iprowadzenia działalności przez towarzystwa w formie innej niż oddział na terytorium państw należących do EEA.
 
-2. Przepisy niniejszego oddzia∏u stosuje si´ do tworzenia oddzia∏ów iprowadzenia dzia∏alnoÊci na terytorium Rzeczypospolitej Polskiej w formie innej ni˝ oddzia∏ przez spó∏ki, które zarzàdzajà funduszami inwestycyjnymi dzia∏ajàcymi zgodnie z prawem wspólnotowym regulujàcym zasady zbiorowego inwestowania wpapiery wartoÊciowe, zsiedzibà wpaƒstwach nale˝àcych do EEA. Rozdzia∏ 3 Zbywanie tytu∏ów uczestnictwa funduszy inwestycyjnych otwartych z siedzibà w paƒstwie nale˝àcym do OECD innym ni˝ paƒstwo cz∏onkowskie lub paƒstwo nale˝àce do EEA oraz zasady tworzenia oddzia∏ów przez spó∏ki zarzàdzajàce tymi funduszami z siedzibà w tych paƒstwach
+2. Przepisy niniejszego oddziału stosuje się do tworzenia oddziałów iprowadzenia działalności na terytorium Rzeczypospolitej Polskiej w formie innej niż oddział przez spółki, które zarządzają funduszami inwestycyjnymi działającymi zgodnie z prawem wspólnotowym regulującym zasady zbiorowego inwestowania wpapiery wartościowe, zsiedzibą wpaństwach należących do EEA.
+
+#### Rozdział 3 Zbywanie tytułów uczestnictwa funduszy inwestycyjnych otwartych z siedzibą w państwie należącym do OECD innym niż państwo członkowskie lub państwo należące do EEA oraz zasady tworzenia oddziałów przez spółki zarządzające tymi funduszami z siedzibą w tych państwach
 
 **Art. 277.**
 
-1. Na terytorium Rzeczypospolitej Polskiej mogà byç zbywane tytu∏y uczestnictwa emitowane przez fundusz inwestycyjny otwarty z siedzibà w paƒstwie nale˝àcym do OECD innym ni˝ paƒstwo cz∏onkowskie lub paƒstwo nale˝àce do EEA pod warunkiem, ˝e:
+1. Na terytorium Rzeczypospolitej Polskiej mogą być zbywane tytuły uczestnictwa emitowane przez fundusz inwestycyjny otwarty z siedzibą w państwie należącym do OECD innym niż państwo członkowskie lub państwo należące do EEA pod warunkiem, że:
 
-- **1)** fundusz inwestycyjny oferuje publicznie tytu∏y uczestnictwa i umarza je na ˝àdanie uczestnika;
-- **2)** ochrona posiadaczy tytu∏ów uczestnictwa tego funduszu jest taka sama jak posiadaczy jednostek uczestnictwa funduszy inwestycyjnych otwartych, w szczególnoÊci fundusz ten stosuje ograniczenia inwestycyjne co najmniej takie, jak okreÊlone w rozdziale 1 dzia∏u V;
-- **3)** fundusz inwestycyjny jest obowiàzany do sporzàdzania rocznych i pó∏rocznych sprawozdaƒ finansowych;
-- **4)** fundusz podlega nadzorowi w∏aÊciwego organu nadzoru nad rynkiem finansowym oraz jest zapewnione przekazywanie, na zasadzie wzajemnoi dzia∏alnoÊci funduszu mi´dzy Komisjà a tym organem nadzoru;
-- **5)** paƒstwo, w którym fundusz inwestycyjny ma siedzib´, zapewnia równy dost´p do swojego rynku funduszom inwestycyjnym otwartym zarzàdzanym przez towarzystwo.
+- **1)** fundusz inwestycyjny oferuje publicznie tytuły uczestnictwa i umarza je na żądanie uczestnika;
+- **2)** ochrona posiadaczy tytułów uczestnictwa tego funduszu jest taka sama jak posiadaczy jednostek uczestnictwa funduszy inwestycyjnych otwartych, w szczególności fundusz ten stosuje ograniczenia inwestycyjne co najmniej takie, jak określone w rozdziale 1 działu V;
+- **3)** fundusz inwestycyjny jest obowiązany do sporządzania rocznych i półrocznych sprawozdań finansowych;
+- **4)** fundusz podlega nadzorowi właściwego organu nadzoru nad rynkiem finansowym oraz jest zapewnione przekazywanie, na zasadzie wzajemnoi działalności funduszu między Komisją a tym organem nadzoru;
+- **5)** państwo, w którym fundusz inwestycyjny ma siedzibę, zapewnia równy dostęp do swojego rynku funduszom inwestycyjnym otwartym zarządzanym przez towarzystwo.
 
-2. Przez siedzib´ funduszu, o którym mowa w ust. 1, rozumie si´ siedzib´ spó∏ki, która zarzàdza tym funduszem, je˝eli fundusz ten nie jest osobà prawnà.
+2. Przez siedzibę funduszu, o którym mowa w ust. 1, rozumie się siedzibę spółki, która zarządza tym funduszem, jeżeli fundusz ten nie jest osobą prawną.
 
-3. Do zbywania tytu∏ów uczestnictwa funduszy, októrych mowa wust. 1, na terytorium Rzeczypospolitej Polskiej stosuje si´ odpowiednio przepisy rozdzia∏u 1 niniejszego dzia∏u.
+3. Do zbywania tytułów uczestnictwa funduszy, októrych mowa wust. 1, na terytorium Rzeczypospolitej Polskiej stosuje się odpowiednio przepisy rozdziału 1 niniejszego działu.
 
 **Art. 278.**
 
-1. Komisja prowadzi rejestr funduszy, o których mowa w art. 277, które zbywajà tytu∏y uczestnictwa na terytorium Rzeczypospolitej Polskiej.
+1. Komisja prowadzi rejestr funduszy, o których mowa w art. 277, które zbywają tytuły uczestnictwa na terytorium Rzeczypospolitej Polskiej.
 
 2. Rejestr, o którym mowa w ust. 1, zawiera:
 
-- **1)** firm´ (nazw´) oraz siedzib´ iadres funduszu, októrym mowa w art. 277 ust. 1, oraz spó∏ki zarzàdzajàcej tym funduszem;
-- **2)** imi´ inazwisko albo firm´ (nazw´) oraz miejsce zamieszkania lub siedzib´ oraz adres w Rzeczypospolitej Polskiej przedstawiciela funduszu, o którym mowa w art. 277 ust. 1;
-- **3)** firm´ oraz siedzib´ i adres agenta p∏atnoÊci.
+- **1)** firmę (nazwę) oraz siedzibę iadres funduszu, októrym mowa w art. 277 ust. 1, oraz spółki zarządzającej tym funduszem;
+- **2)** imię inazwisko albo firmę (nazwę) oraz miejsce zamieszkania lub siedzibę oraz adres w Rzeczypospolitej Polskiej przedstawiciela funduszu, o którym mowa w art. 277 ust. 1;
+- **3)** firmę oraz siedzibę i adres agenta płatności.
 
 **Art. 279.**
 
-1. Spó∏ka zarzàdzajàca funduszami inwestycyjnymi, o których mowa w art. 277, mo˝e utworzyç oddzia∏ na terytorium Rzeczypospolitej Polskiej pod warunkiem, ˝e:
+1. Spółka zarządzająca funduszami inwestycyjnymi, o których mowa w art. 277, może utworzyć oddział na terytorium Rzeczypospolitej Polskiej pod warunkiem, że:
 
-- **1)** spó∏ka podlega nadzorowi w∏aÊciwego organu nadzoru nad rynkiem finansowym oraz jest zapewnione przekazywanie na zasadzie wzajemnoÊci informacji dotyczàcych sytuacji finansowej i dzia∏alnoÊci spó∏ki mi´dzy Komisjà a tym organem nadzoru;
-- **2)** paƒstwo, wktórym spó∏ka ma siedzib´, umo˝liwia tworzenie na jego terytorium oddzia∏ów przez towarzystwa.
+- **1)** spółka podlega nadzorowi właściwego organu nadzoru nad rynkiem finansowym oraz jest zapewnione przekazywanie na zasadzie wzajemności informacji dotyczących sytuacji finansowej i działalności spółki między Komisją a tym organem nadzoru;
+- **2)** państwo, wktórym spółka ma siedzibę, umożliwia tworzenie na jego terytorium oddziałów przez towarzystwa.
 
-2. Do oddzia∏ów spó∏ek, o których mowa w ust. 1, stosuje si´ odpowiednio przepisy rozdzia∏u 2 niniejszego dzia∏u, z wyjàtkiem art. 270 ust. 9. DZIA¸ XIII Tajemnica zawodowa oraz wymiana informacji mi´dzy organami nadzoru Êci, informacji dotyczàcych sytuacji finansowej
+2. Do oddziałów spółek, o których mowa w ust. 1, stosuje się odpowiednio przepisy rozdziału 2 niniejszego działu, z wyjątkiem art. 270 ust. 9. DZIAĘ XIII Tajemnica zawodowa oraz wymiana informacji między organami nadzoru ści, informacji dotyczących sytuacji finansowej
 
 **Art. 280.**
 
-1. Do zachowania tajemnicy zawodowej obowiàzani sà:
+1. Do zachowania tajemnicy zawodowej obowiązani są:
 
-- **1)** osoby wchodzàce w sk∏ad organów oraz pracownicy:
+- **1)** osoby wchodzące w skład organów oraz pracownicy:
     - **a)** towarzystwa,
     - **b)** depozytariusza,
-    - **c)** podmiotu prowadzàcego rejestr uczestników funduszu,
-    - **d)** podmiotów poÊredniczàcych w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub
-    - **e)** podmiotów, którym towarzystwo zleci∏o wykonywanie czynnoÊci, o których mowa w art. 46 ust. 1—3,
-    - **f)** innych podmiotów pozostajàcych z towarzystwem lub funduszem w stosunku zlecenia lub innym stosunku prawnym opodobnym charakterze;
+    - **c)** podmiotu prowadzącego rejestr uczestników funduszu,
+    - **d)** podmiotów pośredniczących w zbywaniu i odkupywaniu jednostek uczestnictwa funduszy inwestycyjnych lub
+    - **e)** podmiotów, którym towarzystwo zleciło wykonywanie czynności, o których mowa w art. 46 ust. 1—3,
+    - **f)** innych podmiotów pozostających z towarzystwem lub funduszem w stosunku zlecenia lub innym stosunku prawnym opodobnym charakterze;
 
-- **2)** osoby pozostajàce z funduszem inwestycyjnym lub podmiotami, o których mowa w pkt 1, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze;
-- **3)** Przewodniczàcy Komisji, jego zast´pcy, cz∏onkowie Komisji i osoby uczestniczàce w posiedzeniach Komisji z g∏osem doradczym;
-- **4)** pracownicy urz´du Komisji oraz osoby pozostajàce z nim w stosunku, o którym mowa w pkt 2;
-- **5)** cz∏onkowie rady inwestorów b´dàcy osobami fizycznymi, awprzypadku cz∏onków b´dàcych osobami prawnymi lub jednostkami organizacyjnymi nieposiadajàcymi osobowoÊci prawnej osoby uprawnione do reprezentowania tych podmiotów;
-- **6)** osoby upowa˝nione przez Przewodniczàcego Komisji w trybie art. 226.
+- **2)** osoby pozostające z funduszem inwestycyjnym lub podmiotami, o których mowa w pkt 1, w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze;
+- **3)** Przewodniczący Komisji, jego zastępcy, członkowie Komisji i osoby uczestniczące w posiedzeniach Komisji z głosem doradczym;
+- **4)** pracownicy urzędu Komisji oraz osoby pozostające z nim w stosunku, o którym mowa w pkt 2;
+- **5)** członkowie rady inwestorów będący osobami fizycznymi, awprzypadku członków będących osobami prawnymi lub jednostkami organizacyjnymi nieposiadającymi osobowości prawnej osoby uprawnione do reprezentowania tych podmiotów;
+- **6)** osoby upoważnione przez Przewodniczącego Komisji w trybie art. 226.
 
-2. Tajemnic´ zawodowà wrozumieniu ust. 1 stanowi informacja zwiàzana zdzia∏alnoÊcià funduszu inwestycyjnego lub zbiorczego portfela papierów wartoÊciowych, w szczególnoÊci z lokatami oraz rejestrem uczestników funduszu lub zbiorczego portfela papierów wartoÊciowych, której ujawnienie mog∏oby naruszyç interes uczestników funduszu, interes uczestników zbiorczego portfela papierów wartoÊciowych lub interes uczestników publicznego obrotu papierami wartoÊciowymi.
+2. Tajemnicę zawodową wrozumieniu ust. 1 stanowi informacja związana zdziałalnością funduszu inwestycyjnego lub zbiorczego portfela papierów wartościowych, w szczególności z lokatami oraz rejestrem uczestników funduszu lub zbiorczego portfela papierów wartościowych, której ujawnienie mogłoby naruszyć interes uczestników funduszu, interes uczestników zbiorczego portfela papierów wartościowych lub interes uczestników publicznego obrotu papierami wartościowymi.
 
-3. Tajemnic´ zawodowà wrozumieniu ust. 1 stanowi równie˝ tajemnica zawodowa w rozumieniu art. 4 pkt 18 prawa o publicznym obrocie papierami wartoÊciowymi zwiàzana z wykonywanymi przez towarzystwo us∏ugami zarzàdzania cudzym pakietem papierów wartoÊciowych na zlecenie lub doradztwa w zakresie obrotu papierami wartoÊciowymi.
+3. Tajemnicę zawodową wrozumieniu ust. 1 stanowi również tajemnica zawodowa w rozumieniu art. 4 pkt 18 prawa o publicznym obrocie papierami wartościowymi związana z wykonywanymi przez towarzystwo usługami zarządzania cudzym pakietem papierów wartościowych na zlecenie lub doradztwa w zakresie obrotu papierami wartościowymi.
 
-4. Obowiàzek zachowania tajemnicy zawodowej istnieje równie˝ po ustaniu stosunków prawnych, o których mowa w ust. 1.
+4. Obowiązek zachowania tajemnicy zawodowej istnieje również po ustaniu stosunków prawnych, o których mowa w ust. 1.
 
 **Art. 281.**
 
-1. Zzastrze˝eniem art. 282 i283, informacje stanowiàce tajemnic´ zawodowà mogà byç ujawniane wy∏àcznie na ˝àdanie:
+1. Zzastrzeżeniem art. 282 i283, informacje stanowiące tajemnicę zawodową mogą być ujawniane wyłącznie na żądanie:
 
-- **1)** sàdu lub prokuratora, je˝eli sà niezb´dne w toczàcym si´ post´powaniu karnym, awpost´powaniu cywilnym, je˝eli informacje nie dotyczà osób trze2) Generalnego Inspektora Kontroli Skarbowej w zwiàzku z toczàcym si´ przed organem kontroli skarbowej post´powaniem w sprawie o przest´pstwo skarbowe lub o wykroczenie skarbowe, je˝eli sà niezb´dne w toczàcym si´ post´powaniu;
-- **3)** Prezesa Najwy˝szej Izby Kontroli lub upowa˝nionego przez niego kontrolera wzakresie danych dotyczàcych jednostki kontrolowanej, niezb´dnych do ustalenia stanu faktycznego w prowadzonym post´powaniu kontrolnym dotyczàcym tej jednostki okreÊlonym w ustawie z dnia 23 grudnia 1994 r. oNajwy˝szej Izbie Kontroli (Dz. U. z2001 r. 85, poz. 937 i 154, poz. 1800 oraz z 2002 r. 153, poz. 1271 oraz z 2004 r. 123, poz. 1291);
-- **4)** naczelnika urz´du skarbowego w zwiàzku z toczàcym si´ przed organem kontroli skarbowej post´powaniem w sprawie o przest´pstwo skarbowe lub o wykroczenie skarbowe, je˝eli sà niezb´dne w toczàcym si´ post´powaniu;
-- **5)** dyrektora urz´du kontroli skarbowej w zwiàzku cich nieb´dàcych stronà post´powania; z toczàcym si´ przed organem kontroli skarbowej post´powaniem w sprawie o przest´pstwo skarbowe lub o wykroczenie skarbowe, je˝eli sà niezb´dne w toczàcym si´ post´powaniu;
-- **6)** inspektora kontroli skarbowej w zwiàzku z toczàcym si´ przed organem kontroli skarbowej post´powaniem w sprawie o przest´pstwo skarbowe lub o wykroczenie skarbowe, je˝eli sà niezb´dne w toczàcym si´ post´powaniu;
-- **7)** bieg∏ego rewidenta upowa˝nionego do badania sprawozdaƒ finansowych podmiotu obowiàzanego do zachowania tajemnicy zawodowej, je˝eli jest to niezb´dne do celów tego badania, na podstawie zawartej z nim umowy;
-- **8)** s∏u˝b ochrony paƒstwa i ich upowa˝nionych pisemnie funkcjonariuszy lub ˝o∏nierzy w zakresie niezb´dnym do przeprowadzenia post´powania sprawdzajàcego na podstawie przepisów oochronie informacji niejawnych;
-- **9)** Policji, je˝eli jest to konieczne do skutecznego zapobie˝enia pope∏nieniu przest´pstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie okreÊlonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. 7, poz. 58, z póên. zm. );
-- **10)** komornika sàdowego w zwiàzku z toczàcym si´ post´powaniem egzekucyjnym, je˝eli sà niezb´dne w tym post´powaniu.
+- **1)** sądu lub prokuratora, jeżeli są niezbędne w toczącym się postępowaniu karnym, awpostępowaniu cywilnym, jeżeli informacje nie dotyczą osób trze2) Generalnego Inspektora Kontroli Skarbowej w związku z toczącym się przed organem kontroli skarbowej postępowaniem w sprawie o przestępstwo skarbowe lub o wykroczenie skarbowe, jeżeli są niezbędne w toczącym się postępowaniu;
+- **3)** Prezesa Najwyższej Izby Kontroli lub upoważnionego przez niego kontrolera wzakresie danych dotyczących jednostki kontrolowanej, niezbędnych do ustalenia stanu faktycznego w prowadzonym postępowaniu kontrolnym dotyczącym tej jednostki określonym w ustawie z dnia 23 grudnia 1994 r. oNajwyższej Izbie Kontroli (Dz. U. z2001 r. 85, poz. 937 i 154, poz. 1800 oraz z 2002 r. 153, poz. 1271 oraz z 2004 r. 123, poz. 1291);
+- **4)** naczelnika urzędu skarbowego w związku z toczącym się przed organem kontroli skarbowej postępowaniem w sprawie o przestępstwo skarbowe lub o wykroczenie skarbowe, jeżeli są niezbędne w toczącym się postępowaniu;
+- **5)** dyrektora urzędu kontroli skarbowej w związku cich niebędących stroną postępowania; z toczącym się przed organem kontroli skarbowej postępowaniem w sprawie o przestępstwo skarbowe lub o wykroczenie skarbowe, jeżeli są niezbędne w toczącym się postępowaniu;
+- **6)** inspektora kontroli skarbowej w związku z toczącym się przed organem kontroli skarbowej postępowaniem w sprawie o przestępstwo skarbowe lub o wykroczenie skarbowe, jeżeli są niezbędne w toczącym się postępowaniu;
+- **7)** biegłego rewidenta upoważnionego do badania sprawozdań finansowych podmiotu obowiązanego do zachowania tajemnicy zawodowej, jeżeli jest to niezbędne do celów tego badania, na podstawie zawartej z nim umowy;
+- **8)** służb ochrony państwa i ich upoważnionych pisemnie funkcjonariuszy lub żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów oochronie informacji niejawnych;
+- **9)** Policji, jeżeli jest to konieczne do skutecznego zapobieżenia popełnieniu przestępstwa, jego wykrycia albo ustalenia sprawców i uzyskania dowodów, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. 7, poz. 58, z póên. zm. );
+- **10)** komornika sądowego w związku z toczącym się postępowaniem egzekucyjnym, jeżeli są niezbędne w tym postępowaniu.
 
-2. Fundusz sekurytyzacyjny mo˝e ujawniaç informacje dotyczàce nabytych wierzytelnoÊci lub puli wie——————— rzytelnoÊci podmiotom, z którymi zawiera lub zawar∏ umowy, o których mowa w art. 191.
+2. Fundusz sekurytyzacyjny może ujawniać informacje dotyczące nabytych wierzytelności lub puli wie——————— rzytelności podmiotom, z którymi zawiera lub zawarł umowy, o których mowa w art. 191.
 
 **Art. 282.**
 
-1. Wzwiàzku zwykonywaniem ustawowo okreÊlonych zadaƒ w zakresie nadzoru, Komisja, jej upowa˝nieni przedstawiciele oraz pracownicy urz´du Komisji majà prawo dost´pu do informacji poufnych oraz do informacji stanowiàcych tajemnic´ zawodowà b´dàcych w posiadaniu podmiotów zobowiàzanych do zachowania tej tajemnicy.
+1. Wzwiązku zwykonywaniem ustawowo określonych zadań w zakresie nadzoru, Komisja, jej upoważnieni przedstawiciele oraz pracownicy urzędu Komisji mają prawo dostępu do informacji poufnych oraz do informacji stanowiących tajemnicę zawodową będących w posiadaniu podmiotów zobowiązanych do zachowania tej tajemnicy.
 
-2. Informacje, októrych mowa wust. 1, oraz informacje uzyskane przez Komisj´ zgodnie z art. 283 mogà byç wykorzystywane wy∏àcznie do wykonywania ustawowo okreÊlonych zadaƒ Komisji, w szczególnoÊci mogà stanowiç dowód w post´powaniu administracyjnym prowadzonym przez Komisj´.
+2. Informacje, októrych mowa wust. 1, oraz informacje uzyskane przez Komisję zgodnie z art. 283 mogą być wykorzystywane wyłącznie do wykonywania ustawowo określonych zadań Komisji, w szczególności mogą stanowić dowód w postępowaniu administracyjnym prowadzonym przez Komisję.
 
-3. Nie narusza obowiàzku zachowania tajemnicy zawodowej przekazywanie informacji stanowiàcych takà tajemnic´:
+3. Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie informacji stanowiących taką tajemnicę:
 
-- **1)** za zgodà osoby, której ta informacja dotyczy;
-- **2)** w zawiadomieniu o przest´pstwie oraz dokumentach przekazywanych w uzupe∏nieniu do zawiadomienia;
-- **3)** Generalnemu Inspektorowi Informacji Finansowej, Szefowi Krajowego Centrum Informacji Kryminalnych, organom podatkowym lub organom kontroli skarbowej w zakresie, trybie i na warunkach okreÊlonych w odr´bnych ustawach;
-- **4)** przez Komisj´ lub jej upowa˝nionego przedstawiciela:
-    - **a)** do publicznej wiadomoÊci w zakresie dotyczàcym, z zastrze˝eniem lit. b, treÊci podj´tych uchwa∏ i decyzji, tak˝e w sprawach indywidualnych, na podstawie których wydawane sà decyzje administracyjne je˝eli ze wzgl´du na interes uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartoÊciowych Komisja uzna∏a przekazanie takiej informacji za uzasadnione,
-    - **b)** do publicznej wiadomoÊci za poÊrednictwem agencji informacyjnej, o której mowa w art. 81 ust. 1a prawa o publicznym obrocie papierami wartoÊciowymi, o podejrzeniu pope∏nienia przest´pstwa pozostajàcego w zwiàzku z dzia∏alnoÊcià funduszu inwestycyjnego w przypadku gdy wymaga tego ochrona inwestorów przed poniesieniem uszczerbku majàtkowego na rynku papierów wartoÊciowych lub towarów gie∏dowych,
-    - **c)** w wykonaniu porozumieƒ, o których mowa w art. 283 ust. 1 i 3,
-    - **d)** w przypadkach okreÊlonych w art. 283 ust. 6;
+- **1)** za zgodą osoby, której ta informacja dotyczy;
+- **2)** w zawiadomieniu o przestępstwie oraz dokumentach przekazywanych w uzupełnieniu do zawiadomienia;
+- **3)** Generalnemu Inspektorowi Informacji Finansowej, Szefowi Krajowego Centrum Informacji Kryminalnych, organom podatkowym lub organom kontroli skarbowej w zakresie, trybie i na warunkach określonych w odrębnych ustawach;
+- **4)** przez Komisję lub jej upoważnionego przedstawiciela:
+    - **a)** do publicznej wiadomości w zakresie dotyczącym, z zastrzeżeniem lit. b, treści podjętych uchwał i decyzji, także w sprawach indywidualnych, na podstawie których wydawane są decyzje administracyjne jeżeli ze względu na interes uczestników funduszy inwestycyjnych lub zbiorczych portfeli papierów wartościowych Komisja uznała przekazanie takiej informacji za uzasadnione,
+    - **b)** do publicznej wiadomości za pośrednictwem agencji informacyjnej, o której mowa w art. 81 ust. 1a prawa o publicznym obrocie papierami wartościowymi, o podejrzeniu popełnienia przestępstwa pozostającego w związku z działalnością funduszu inwestycyjnego w przypadku gdy wymaga tego ochrona inwestorów przed poniesieniem uszczerbku majątkowego na rynku papierów wartościowych lub towarów giełdowych,
+    - **c)** w wykonaniu porozumień, o których mowa w art. 283 ust. 1 i 3,
+    - **d)** w przypadkach określonych w art. 283 ust. 6;
 
-- **5)** w wykonaniu obowiàzków informacyjnych, publikacyjnych lub sprawozdawczych okreÊlonych w niniejszej ustawie lub przepisach wykonawczych wydanych na jej podstawie, lub w przepiArt. 283.1. Komisja lub jej upowa˝niony przedstawiciel mo˝e, na zasadzie wzajemnoÊci, przekazywaç i otrzymywaç informacje od Komisji Nadzoru Ubezpieczeƒ iFunduszy Emerytalnych, Prezesa Narodowego Banku Polskiego oraz Komisji Nadzoru Bankowego niezb´dne do:
-- **1)** prawid∏owego wykonywania ustawowo okreÊlonych zadaƒ w zakresie nadzoru;
-- **2)** zapewnienia prawid∏owego toku post´powaƒ wyjaÊniajàcych, kontrolnych, administracyjnych lub sàdowych w sprawach zwiàzanych z wykonywaniem nadzoru.
+- **5)** w wykonaniu obowiązków informacyjnych, publikacyjnych lub sprawozdawczych określonych w niniejszej ustawie lub przepisach wykonawczych wydanych na jej podstawie, lub w przepiArt. 283.1. Komisja lub jej upoważniony przedstawiciel może, na zasadzie wzajemności, przekazywać i otrzymywać informacje od Komisji Nadzoru Ubezpieczeń iFunduszy Emerytalnych, Prezesa Narodowego Banku Polskiego oraz Komisji Nadzoru Bankowego niezbędne do:
+- **1)** prawidłowego wykonywania ustawowo określonych zadań w zakresie nadzoru;
+- **2)** zapewnienia prawidłowego toku postępowań wyjaśniających, kontrolnych, administracyjnych lub sądowych w sprawach związanych z wykonywaniem nadzoru.
 
-2. Zasady itryb udzielania informacji okreÊlajà porozumienia zawarte przez Komisj´ z tymi organami nadzoru.
+2. Zasady itryb udzielania informacji określają porozumienia zawarte przez Komisję z tymi organami nadzoru.
 
-3. Komisja lub jej upowa˝niony przedstawiciel mo˝e, na zasadzie wzajemnoÊci, przekazywaç i otrzymywaç informacje okreÊlone w ust. 1 od zagranicznego organu nadzoru nad rynkiem papierów wartoÊciowych lub rynkiem finansowym. Zasady i tryb udzielania informacji okreÊlajà porozumienia zawarte przez Komisj´ z tym organem nadzoru.
+3. Komisja lub jej upoważniony przedstawiciel może, na zasadzie wzajemności, przekazywać i otrzymywać informacje określone w ust. 1 od zagranicznego organu nadzoru nad rynkiem papierów wartościowych lub rynkiem finansowym. Zasady i tryb udzielania informacji określają porozumienia zawarte przez Komisję z tym organem nadzoru.
 
-4. Udzielenie przez Komisj´ informacji na podstawie porozumienia, októrym mowa wust. 3, mo˝e nastàpiç, je˝eli:
+4. Udzielenie przez Komisję informacji na podstawie porozumienia, októrym mowa wust. 3, może nastąpić, jeżeli:
 
-- **1)** nie spowoduje to niekorzystnego wp∏ywu na bezpieczeƒstwo lub interes gospodarczy Rzeczypospolitej Polskiej;
-- **2)** przepisy prawa obowiàzujàce wpaƒstwie siedziby zagranicznego organu nadzoru zapewniajà wykorzystanie takich informacji wy∏àcznie na potrzeby wykonywania nadzoru lub prowadzenia post´powaƒ administracyjnych lub sàdowych wsprawach zwiàzanych z wykonywaniem tego nadzoru;
-- **3)** jest zagwarantowane, ˝e dalsze przekazywanie udzielonych informacji poza zagraniczny organ nadzoru ka˝dorazowo b´dzie mo˝liwe wy∏àcznie po uprzednim uzyskaniu zgody Komisji.
+- **1)** nie spowoduje to niekorzystnego wpływu na bezpieczeństwo lub interes gospodarczy Rzeczypospolitej Polskiej;
+- **2)** przepisy prawa obowiązujące wpaństwie siedziby zagranicznego organu nadzoru zapewniają wykorzystanie takich informacji wyłącznie na potrzeby wykonywania nadzoru lub prowadzenia postępowań administracyjnych lub sądowych wsprawach związanych z wykonywaniem tego nadzoru;
+- **3)** jest zagwarantowane, że dalsze przekazywanie udzielonych informacji poza zagraniczny organ nadzoru każdorazowo będzie możliwe wyłącznie po uprzednim uzyskaniu zgody Komisji.
 
-5. Informacje uzyskane przez Komisj´ na podstawie porozumienia, októrym mowa wust. 3, nie mogà byç, bez zgody zagranicznego organu nadzoru, wykorzystywane winnych celach ni˝ okreÊlone wust. 1 lub przekazywane poza Komisj´ do w∏aÊciwego organu innego paƒstwa.
+5. Informacje uzyskane przez Komisję na podstawie porozumienia, októrym mowa wust. 3, nie mogą być, bez zgody zagranicznego organu nadzoru, wykorzystywane winnych celach niż określone wust. 1 lub przekazywane poza Komisję do właściwego organu innego państwa.
 
-6. Na ˝àdanie organu nadzoru w paƒstwie cz∏onkowskim Komisja lub jej upowa˝niony przedstawiciel przekazuje temu organowi informacje okreÊlone w ust. 1. Komisja mo˝e odmówiç udzielenia informacji, je˝eli:
+6. Na żądanie organu nadzoru w państwie członkowskim Komisja lub jej upoważniony przedstawiciel przekazuje temu organowi informacje określone w ust. 1. Komisja może odmówić udzielenia informacji, jeżeli:
 
-- **1)** udzielenie informacji mog∏oby niekorzystnie wp∏ynàç na bezpieczeƒstwo lub interes gospodarczy Rzeczypospolitej Polskiej; sach wykonawczych do ustawy o rachunkowoÊci.
-- **2)** ˝àdanie udzielenia informacji dotyczy sprawy tych samych naruszeƒ przepisów prawa lub zasad uczciwego obrotu obowiàzujàcych w paƒstwie cz∏onkowskim przez ten sam podmiot, co do których na terytorium Rzeczypospolitej Polskiej toczy si´ ju˝ post´powanie administracyjne lub sàdowe albo zosta∏a wydana przez Komisj´ ostateczna decyzja administracyjna o na∏o˝eniu kary lub zosta∏ wydany prawomocny wyrok.
+- **1)** udzielenie informacji mogłoby niekorzystnie wpłynąć na bezpieczeństwo lub interes gospodarczy Rzeczypospolitej Polskiej; sach wykonawczych do ustawy o rachunkowości.
+- **2)** żądanie udzielenia informacji dotyczy sprawy tych samych naruszeń przepisów prawa lub zasad uczciwego obrotu obowiązujących w państwie członkowskim przez ten sam podmiot, co do których na terytorium Rzeczypospolitej Polskiej toczy się już postępowanie administracyjne lub sądowe albo została wydana przez Komisję ostateczna decyzja administracyjna o nałożeniu kary lub został wydany prawomocny wyrok.
 
-7. Je˝eli Komisja wyrazi na to zgod´, informacje udzielone przez Komisj´ organowi nadzoru w paƒstwie cz∏onkowskim mogà byç wykorzystane winnych celach ni˝ okreÊlone wust. 1 lub przekazane przez ten organ do w∏aÊciwego organu innego paƒstwa.
+7. Jeżeli Komisja wyrazi na to zgodę, informacje udzielone przez Komisję organowi nadzoru w państwie członkowskim mogą być wykorzystane winnych celach niż określone wust. 1 lub przekazane przez ten organ do właściwego organu innego państwa.
 
-8. Informacje uzyskane przez Komisj´ od organu nadzoru w paƒstwie cz∏onkowskim nie mogà byç, bez zgody tego organu, wykorzystywane w innych celach ni˝ okreÊlone wust. 1 lub przekazywane poza Komisj´ do w∏aÊciwego organu innego paƒstwa.
+8. Informacje uzyskane przez Komisję od organu nadzoru w państwie członkowskim nie mogą być, bez zgody tego organu, wykorzystywane w innych celach niż określone wust. 1 lub przekazywane poza Komisję do właściwego organu innego państwa.
 
 **Art. 284.**
 
-1. Obowiàzek zachowania tajemnicy zawodowej rozciàga si´ równie˝ na osoby, którym informacje stanowiàce takà tajemnic´ zosta∏y ujawnione utworzy∏y oddzia∏ lub prowadzà dzia∏alnoÊç w formie innej ni˝ oddzia∏ na terytorium tych paƒstw.
+1. Obowiązek zachowania tajemnicy zawodowej rozciąga się również na osoby, którym informacje stanowiące taką tajemnicę zostały ujawnione utworzyły oddział lub prowadzą działalność w formie innej niż oddział na terytorium tych państw.
 
-2. Komisja dostarcza w∏aÊciwym organom paƒstw goszczàcych informacje otowarzystwach, które utworzy∏y oddzia∏ lub prowadzà dzia∏alnoÊç na terytorium tych paƒstw wformie innej ni˝ oddzia∏, oraz ostrukturze ich grupy kapita∏owej.
+2. Komisja dostarcza właściwym organom państw goszczących informacje otowarzystwach, które utworzyły oddział lub prowadzą działalność na terytorium tych państw wformie innej niż oddział, oraz ostrukturze ich grupy kapitałowej.
 
-3. Wzakresie niezb´dnym do wykonywania nadzoru Komisja informuje w∏aÊciwe organy paƒstw cz∏onkowskich, w których spó∏ka zarzàdzajàca ma siedzib´, o wydaniu decyzji, o której mowa w art. 273 ust. 3. DZIA¸ XIV Przepisy karne
+3. Wzakresie niezbędnym do wykonywania nadzoru Komisja informuje właściwe organy państw członkowskich, w których spółka zarządzająca ma siedzibę, o wydaniu decyzji, o której mowa w art. 273 ust. 3. DZIAĘ XIV Przepisy karne
 
-**Art. 287.** Kto bez wymaganego zezwolenia wykonuje dzia∏alnoÊç polegajàcà na lokowaniu, w papiery wartoÊciowe, instrumenty rynku pieni´˝nego lub inne prawa majàtkowe, Êrodków pieni´˝nych osób fizycznych, prawnych lub jednostek organizacyjnych niepona podstawie art. 281—283. siadajàcych osobowoÊci prawnej, zebranych wdrodze propozycji zawarcia umowy, której przedmiotem jest 2. Osoby, októrych mowa wart. 280, oraz podmio- udzia∏ w tym przedsi´wzi´ciu, ty, októrych mowa wust. 1, ponoszà, zzastrze˝eniem ust. 3, odpowiedzialnoÊç za szkody wynikajàce zujaw- podlega grzywnie do 5 000 000 z∏ lub karze pozbanienia informacji stanowiàcej tajemnic´ zawodowà wienia wolnoÊci do lat 5. i wykorzystania jej niezgodnie z przeznaczeniem.
+**Art. 287.** Kto bez wymaganego zezwolenia wykonuje działalność polegającą na lokowaniu, w papiery wartościowe, instrumenty rynku pieniężnego lub inne prawa majątkowe, środków pieniężnych osób fizycznych, prawnych lub jednostek organizacyjnych niepona podstawie art. 281—283. siadających osobowości prawnej, zebranych wdrodze propozycji zawarcia umowy, której przedmiotem jest 2. Osoby, októrych mowa wart. 280, oraz podmio- udział w tym przedsięwzięciu, ty, októrych mowa wust. 1, ponoszą, zzastrzeżeniem ust. 3, odpowiedzialność za szkody wynikające zujaw- podlega grzywnie do 5 000 000 zł lub karze pozbanienia informacji stanowiącej tajemnicę zawodową wienia wolności do lat 5. i wykorzystania jej niezgodnie z przeznaczeniem.
 
-**Art. 288.** Kto, b´dàc odpowiedzialnym za informa3. Osoby, o których mowa w art. 280, nie ponoszà cje zawarte wprospekcie informacyjnym, skrócie proodpowiedzialnoÊci za szkod´ wynikajàcà z ujawnienia spektu informacyjnego albo w warunkach emisji, poiwykorzystania niezgodnie zprzeznaczeniem informa- daje nieprawdziwe lub zataja prawdziwe dane wp∏ycji stanowiàcej tajemnic´ zawodowà przez osoby, któ- wajàce w istotny sposób na treÊç informacji, rym informacje takie zosta∏y przekazane na podstawie art. 281—283. podlega grzywnie do 5 000 000 z∏ lub karze pozbawienia wolnoÊci do lat 3.
+**Art. 288.** Kto, będąc odpowiedzialnym za informa3. Osoby, o których mowa w art. 280, nie ponoszą cje zawarte wprospekcie informacyjnym, skrócie proodpowiedzialności za szkodę wynikającą z ujawnienia spektu informacyjnego albo w warunkach emisji, poiwykorzystania niezgodnie zprzeznaczeniem informa- daje nieprawdziwe lub zataja prawdziwe dane wpłycji stanowiącej tajemnicę zawodową przez osoby, któ- wające w istotny sposób na treść informacji, rym informacje takie zostały przekazane na podstawie art. 281—283. podlega grzywnie do 5 000 000 zł lub karze pozbawienia wolności do lat 3.
 
 **Art. 285.**
 
-1. Komisja, wterminie miesiàca od udzielenia zezwolenia na wykonywanie dzia∏alnoÊci towa- Art. 289. 1. Kto, b´dàc obowiàzanym do zachowarzystwa, powiadamia Komisj´ Europejskà oraz w∏aÊci- nia tajemnicy zawodowej, o której mowa w art. 280 we organy nadzoru paƒstw cz∏onkowskich o: ust. 2 i 3, ujawnia jà lub wykorzystuje niezgodnie z jej
+1. Komisja, wterminie miesiąca od udzielenia zezwolenia na wykonywanie działalności towa- Art. 289. 1. Kto, będąc obowiązanym do zachowarzystwa, powiadamia Komisję Europejską oraz właści- nia tajemnicy zawodowej, o której mowa w art. 280 we organy nadzoru państw członkowskich o: ust. 2 i 3, ujawnia ją lub wykorzystuje niezgodnie z jej
 
-- **1)** udzieleniu zezwolenia na wykonywanie dzia∏alno- przeznaczeniem, Êci towarzystwa spó∏ce akcyjnej b´dàcej bezpoÊrednio lub poÊrednio zale˝nà od podmiotu podle- podlega grzywnie do 1 000 000 z∏ albo karze pogajàcego prawu paƒstwa nieb´dàcego paƒstwem cz∏onkowskim;
-- **2)** nabyciu pakietu akcji towarzystwa, je˝eli nabywcà by∏ podmiot podlegajàcy prawu paƒstwa nieb´dàcego paƒstwem cz∏onkowskim i w wyniku tej transakcji sta∏ si´ on podmiotem dominujàcym wobec podmiotu, którego akcje by∏y przedmiotem transakcji.
+- **1)** udzieleniu zezwolenia na wykonywanie działalno- przeznaczeniem, ści towarzystwa spółce akcyjnej będącej bezpośrednio lub pośrednio zależną od podmiotu podle- podlega grzywnie do 1 000 000 zł albo karze pogającego prawu państwa niebędącego państwem członkowskim;
+- **2)** nabyciu pakietu akcji towarzystwa, jeżeli nabywcą był podmiot podlegający prawu państwa niebędącego państwem członkowskim i w wyniku tej transakcji stał się on podmiotem dominującym wobec podmiotu, którego akcje były przedmiotem transakcji.
 
-2. Do zawiadomieƒ, o których mowa w ust. 1, Komisja do∏àcza opis struktury grupy kapita∏owej, z tym ˝e w przypadku zawiadomienia, o którym mowa wust. 1 pkt 2, opis powinien byç sporzàdzony wed∏ug stanu uwzgl´dniajàcego nabycie akcji towarzystwa.
+2. Do zawiadomień, o których mowa w ust. 1, Komisja dołącza opis struktury grupy kapitałowej, z tym że w przypadku zawiadomienia, o którym mowa wust. 1 pkt 2, opis powinien być sporządzony według stanu uwzględniającego nabycie akcji towarzystwa.
 
 **Art. 286.**
 
-1. Komisja wspó∏pracuje z w∏aÊciwymi organami paƒstw goszczàcych w zakresie nadzoru nad towarzystwami i spó∏kami zarzàdzajàcymi, które zbawienia wolnoÊci do lat 3.
+1. Komisja współpracuje z właściwymi organami państw goszczących w zakresie nadzoru nad towarzystwami i spółkami zarządzającymi, które zbawienia wolności do lat 3.
 
-2. Je˝eli sprawca dopuszcza si´ czynu okreÊlonego w ust. 1 w celu osiàgni´cia korzyÊci majàtkowej lub osobistej, podlega grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 5, albo obu tym karom ∏àcznie.
+2. Jeżeli sprawca dopuszcza się czynu określonego w ust. 1 w celu osiągnięcia korzyści majątkowej lub osobistej, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności do lat 5, albo obu tym karom łącznie.
 
-**Art. 290.** Kto bez spe∏nienia warunków, o których mowa w art. 253—256, art. 258 lub art. 270, zbywa tytu∏y uczestnictwa funduszy zagranicznych lub funduszy inwestycyjnych otwartych zsiedzibà wpaƒstwach nale˝àcych do EEA, podlega grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 5, albo obu tym karom ∏àcznie.
+**Art. 290.** Kto bez spełnienia warunków, o których mowa w art. 253—256, art. 258 lub art. 270, zbywa tytuły uczestnictwa funduszy zagranicznych lub funduszy inwestycyjnych otwartych zsiedzibą wpaństwach należących do EEA, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności do lat 5, albo obu tym karom łącznie.
 
-**Art. 291.** Kto bez spe∏nienia warunków, o których mowa w art. 277, zbywa tytu∏y uczestnictwa funduszy inwestycyjnych otwartych z siedzibà w paƒstwach OECD innych ni˝ paƒstwo cz∏onkowskie lub paƒstwo nale˝àce do EEA, podlega grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 5, albo obu tym karom ∏àcznie.
+**Art. 291.** Kto bez spełnienia warunków, o których mowa w art. 277, zbywa tytuły uczestnictwa funduszy inwestycyjnych otwartych z siedzibą w państwach OECD innych niż państwo członkowskie lub państwo należące do EEA, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności do lat 5, albo obu tym karom łącznie.
 
-**Art. 292.** Kto bez spe∏nienia warunków, o których mowa w art. 270, tworzy na terytorium Rzeczypospolitej Polskiej oddzia∏y spó∏ek zarzàdzajàcych, podlega grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 5, albo obu tym karom ∏àcznie.
+**Art. 292.** Kto bez spełnienia warunków, o których mowa w art. 270, tworzy na terytorium Rzeczypospolitej Polskiej oddziały spółek zarządzających, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności do lat 5, albo obu tym karom łącznie.
 
-**Art. 293.** Kto bez spe∏nienia warunków, o których mowa w art. 271, wykonuje na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç spó∏ek zarzàdzajàcych, podlega grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 5, albo obu tym karom ∏àcznie.
+**Art. 293.** Kto bez spełnienia warunków, o których mowa w art. 271, wykonuje na terytorium Rzeczypospolitej Polskiej działalność spółek zarządzających, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności do lat 5, albo obu tym karom łącznie.
 
-**Art. 294.** Kto bez spe∏nienia warunków, o których mowa w art. 279, tworzy na terytorium Rzeczypospolitej Polskiej oddzia∏y spó∏ek, które zarzàdzajà funduszami inwestycyjnymi w paƒstwach OECD innych ni˝ paƒstwo cz∏onkowskie lub paƒstwo nale˝àce do EEA, podlega grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 5, albo obu tym karom ∏àcznie.
+**Art. 294.** Kto bez spełnienia warunków, o których mowa w art. 279, tworzy na terytorium Rzeczypospolitej Polskiej oddziały spółek, które zarządzają funduszami inwestycyjnymi w państwach OECD innych niż państwo członkowskie lub państwo należące do EEA, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności do lat 5, albo obu tym karom łącznie.
 
-**Art. 295.** Kto bez wymaganego zezwolenia wykonuje dzia∏alnoÊç, októrej mowa wart. 32 ust. 2, art. 45 ust. 1 lub ust. 2 lub art. 209, podlega grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 5, albo obu tym karom ∏àcznie.
+**Art. 295.** Kto bez wymaganego zezwolenia wykonuje działalność, októrej mowa wart. 32 ust. 2, art. 45 ust. 1 lub ust. 2 lub art. 209, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności do lat 5, albo obu tym karom łącznie.
 
-**Art. 296.** Kto, nie b´dàc do tego uprawnionym, u˝ywa w firmie (nazwie), reklamie, informacji reklamowej lub do okreÊlenia wykonywanej przez siebie dzia∏alnoÊci gospodarczej okreÊleƒ, o których mowa w art. 14 ust. 4 i 6 lub art. 41 ust. 2, podlega grzywnie do 1 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 2, albo obu tym karom ∏àcznie.
+**Art. 296.** Kto, nie będąc do tego uprawnionym, używa w firmie (nazwie), reklamie, informacji reklamowej lub do określenia wykonywanej przez siebie działalności gospodarczej określeń, o których mowa w art. 14 ust. 4 i 6 lub art. 41 ust. 2, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.
 
-**Art. 297.** Kto uniemo˝liwia lub utrudnia przeprowadzenie czynnoÊci w post´powaniu wyjaÊniajàcym, kontrolnym lub administracyjnym, w tym czynnoÊci, o których mowa w art. 226 ust. 1 i 2 oraz w art. 227 ust. 2, podlega grzywnie, karze aresztu albo karze ograniArt. 298. Kto, dzia∏ajàc w imieniu lub w interesie osoby prawnej wbrew obowiàzkowi, o którym mowa w art. 226 ust. 2 oraz w art. 227 ust. 3, nie przekazuje niezw∏ocznie kopii dokumentów lub innych noÊników informacji albo nie udziela informacji lub wyjaÊnieƒ, podlega grzywnie, karze aresztu albo karze ograniczenia wolnoÊci.
+**Art. 297.** Kto uniemożliwia lub utrudnia przeprowadzenie czynności w postępowaniu wyjaśniającym, kontrolnym lub administracyjnym, w tym czynności, o których mowa w art. 226 ust. 1 i 2 oraz w art. 227 ust. 2, podlega grzywnie, karze aresztu albo karze ograniArt. 298. Kto, działając w imieniu lub w interesie osoby prawnej wbrew obowiązkowi, o którym mowa w art. 226 ust. 2 oraz w art. 227 ust. 3, nie przekazuje niezwłocznie kopii dokumentów lub innych nośników informacji albo nie udziela informacji lub wyjaśnień, podlega grzywnie, karze aresztu albo karze ograniczenia wolności.
 
-**Art. 299.** Kto wbrew obowiàzkowi, októrym mowa w art. 69 oraz art. 227 ust. 1, nie archiwizuje lub nie przechowuje dokumentów lub innych noÊników informacji zwiàzanych z prowadzeniem dzia∏alnoÊci towarzystwa lub funduszu inwestycyjnego, podlega grzywnie, karze aresztu albo karze ograniczenia wolnoÊci. DZIA¸ XV Zmiany w przepisach obowiàzujàcych czenia wolnoÊci.
+**Art. 299.** Kto wbrew obowiązkowi, októrym mowa w art. 69 oraz art. 227 ust. 1, nie archiwizuje lub nie przechowuje dokumentów lub innych nośników informacji związanych z prowadzeniem działalności towarzystwa lub funduszu inwestycyjnego, podlega grzywnie, karze aresztu albo karze ograniczenia wolności. DZIAĘ XV Zmiany w przepisach obowiązujących czenia wolności.
 
-**Art. 300.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomoÊci przez cudzoziemców (Dz. U. z 1996 r. 54, poz. 245, z póên. zm. ) w art. 7 dodaje si´ ust. 5 w brzmieniu: „5. Przepisów ustawy nie stosuje si´ do funduszu inwestycyjnego zamkni´tego oraz specjalistycznego funduszu inwestycyjnego otwartego stosujàcego zasady i ograniczenia inwestycyjne okreÊlone dla funduszu inwestycyjnego zamkni´tego w rozumieniu przepisów ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. 146, poz. 1546).”.
+**Art. 300.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 1996 r. 54, poz. 245, z póên. zm. ) w art. 7 dodaje się ust. 5 w brzmieniu: Ń5. Przepisów ustawy nie stosuje się do funduszu inwestycyjnego zamkniętego oraz specjalistycznego funduszu inwestycyjnego otwartego stosującego zasady i ograniczenia inwestycyjne określone dla funduszu inwestycyjnego zamkniętego w rozumieniu przepisów ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. 146, poz. 1546).”.
 
-**Art. 301.** Wustawie zdnia 28 lipca 1983 r. opodatku od spadków i darowizn (Dz. U. z 2004 r. 142, poz. 1514) wprowadza si´ nast´pujàce zmiany:
+**Art. 301.** Wustawie zdnia 28 lipca 1983 r. opodatku od spadków i darowizn (Dz. U. z 2004 r. 142, poz. 1514) wprowadza się następujące zmiany:
 
-**Art. 302.** W ustawie z dnia 20 grudnia 1990 r. oubezpieczeniu spo∏ecznym rolników (Dz. U. z1998 r. 7, poz. 25, z póên. zm. z 2000 r. 54, poz. 654, z póên. zm. ) w art. 81 w ust. 3 dodaje si´ pkt 3 w brzmieniu: „3) w jednostkach uczestnictwa funduszy rynku pieni´˝nego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. 146, poz. 1546).”.
+**Art. 302.** W ustawie z dnia 20 grudnia 1990 r. oubezpieczeniu społecznym rolników (Dz. U. z1998 r. 7, poz. 25, z póên. zm. z 2000 r. 54, poz. 654, z póên. zm. ) w art. 81 w ust. 3 dodaje się pkt 3 w brzmieniu: Ń3) w jednostkach uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. 146, poz. 1546).”.
 
-**Art. 303.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 303.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. ) wprowadza się następujące zmiany:
 
-**Art. 304.** Wustawie zdnia 29 wrzeÊnia 1994 r. orachunkowoÊci (Dz. U. z 2002 r. 76, poz. 694, z póên. zm. Êciowymi oraz przepisów o funduszach inwestycyjnych,”,
+**Art. 304.** Wustawie zdnia 29 września 1994 r. orachunkowości (Dz. U. z 2002 r. 76, poz. 694, z póên. zm. ściowymi oraz przepisów o funduszach inwestycyjnych,”,
 
-**Art. 305.** W ustawie z dnia 27 paêdziernika 1994 r. o autostradach p∏atnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. 110, poz. 1192, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 305.** W ustawie z dnia 27 paêdziernika 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz. U. z 2001 r. 110, poz. 1192, z póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 306.** W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z2000 r. 9, poz. 131, zpóên. zm.
 
-**Art. 307.** W ustawie z dnia 26 paêdziernika 1995 r. oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. 98, poz. 1070, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 307.** W ustawie z dnia 26 paêdziernika 1995 r. oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. 98, poz. 1070, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 308.** W ustawie z dnia 14 grudnia 1995 r. o spó∏dzielczych kasach oszcz´dnoÊciowo-kredytowych (Dz. U. z1996 r. 1, poz. 2, zpóên. zm. 149, poz. 703, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 308.** W ustawie z dnia 14 grudnia 1995 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z1996 r. 1, poz. 2, zpóên. zm. 149, poz. 703, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 309.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. ) w art. 1 w ust. 1 dodaje si´ pkt 9 w brzmieniu: „9) funduszu sekurytyzacyjnego w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. 146, poz. 1546).”.
+**Art. 309.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. ) w art. 1 w ust. 1 dodaje się pkt 9 w brzmieniu: Ń9) funduszu sekurytyzacyjnego w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. 146, poz. 1546).”.
 
-**Art. 310.** W ustawie z dnia 21 sierpnia 1997 r. Prawo o publicznym obrocie papierami wartoÊciowymi (Dz. U. z 2002 r. 49, poz. 447, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 310.** W ustawie z dnia 21 sierpnia 1997 r. Prawo o publicznym obrocie papierami wartościowymi (Dz. U. z 2002 r. 49, poz. 447, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 311.** Wustawie zdnia 28 sierpnia 1997 r. oorganizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. 139, poz. 934, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany: ——————— ———————
+**Art. 311.** Wustawie zdnia 28 sierpnia 1997 r. oorganizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. 139, poz. 934, zpóên. zm. ) wprowadza się następujące zmiany: ——————— ———————
 
-**Art. 312.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, z póên. zm. dàcà towarzystwem funduszy inwestycyjnych tworzàcym fundusz sekurytyzacyjny albo funduszem sekurytyzacyjnym, spó∏k´ kapita∏owà (podmiot emisyjny) w celu emisji przez ten podmiot papierów wartoÊciowych, których zabezpieczenie stanowià sekurytyzowane wierzytelnoÊci. 4. Podmiot emisyjny, na rzecz którego nastàpi∏o przeniesienie wierzytelnoÊci, nie mo˝e byç powiàzany kapita∏owo lub organizacyjnie z bankiem przenoszàcym wierzytelnoÊci, a przedmiotem jego dzia∏alnoÊci mo˝e byç wy∏àcznie nabywanie wierzytelnoÊci iemisja papierów wartoÊciowych, októrej mowa wust. 3, atak˝e wykonywanie czynnoÊci z tym zwiàzanych. 5. Bank nie mo˝e:
+**Art. 312.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, z póên. zm. dącą towarzystwem funduszy inwestycyjnych tworzącym fundusz sekurytyzacyjny albo funduszem sekurytyzacyjnym, spółkę kapitałową (podmiot emisyjny) w celu emisji przez ten podmiot papierów wartościowych, których zabezpieczenie stanowią sekurytyzowane wierzytelności. 4. Podmiot emisyjny, na rzecz którego nastąpiło przeniesienie wierzytelności, nie może być powiązany kapitałowo lub organizacyjnie z bankiem przenoszącym wierzytelności, a przedmiotem jego działalności może być wyłącznie nabywanie wierzytelności iemisja papierów wartościowych, októrej mowa wust. 3, atakże wykonywanie czynności z tym związanych. 5. Bank nie może:
 
 **Art. 92c.**
 
-1. Przelew wierzytelnoÊci banku na towarzystwo funduszy inwestycyjnych tworzàce fundusz sekurytyzacyjny albo na fundusz sekurytyzacyjny wymaga uzyskania przez bank zgody d∏u˝nika banku, b´dàcego stronà czynnoÊci dokonanej z bankiem, jak równie˝ zgody d∏u˝nika z tytu∏u zabezpieczenia wierzytelnoÊci banku wynikajàcej z dokonanej czynnoÊci oraz z∏o˝enia przez d∏u˝nika oÊwiadczenia o poddaniu si´ egzekucji na rzecz funduszu sekurytyzacyjnego, który nab´dzie wierzytelnoÊç. Zgoda i oÊwiadczenie powinny byç wyra˝one w formie pisemnej pod rygorem niewa˝noÊci.
+1. Przelew wierzytelności banku na towarzystwo funduszy inwestycyjnych tworzące fundusz sekurytyzacyjny albo na fundusz sekurytyzacyjny wymaga uzyskania przez bank zgody dłużnika banku, będącego stroną czynności dokonanej z bankiem, jak również zgody dłużnika z tytułu zabezpieczenia wierzytelności banku wynikającej z dokonanej czynności oraz złożenia przez dłużnika oświadczenia o poddaniu się egzekucji na rzecz funduszu sekurytyzacyjnego, który nabędzie wierzytelność. Zgoda i oświadczenie powinny być wyrażone w formie pisemnej pod rygorem nieważności.
 
-2. Bank w terminie 14 dni od daty zawarcia umowy, o której mowa wart. 92aust. 1 pkt 1, jest obowiàzany powiadomiç pisemnie d∏u˝nika towarzystwo funduszy inwestycyjnych tworzàce fundusz sekurytyzacyjny albo na fundusz sekurytyzacyjny.”;
+2. Bank w terminie 14 dni od daty zawarcia umowy, o której mowa wart. 92aust. 1 pkt 1, jest obowiązany powiadomić pisemnie dłużnika towarzystwo funduszy inwestycyjnych tworzące fundusz sekurytyzacyjny albo na fundusz sekurytyzacyjny.”;
 
-- **4)** art. 104 otrzymuje brzmienie: „Art. 104. 1. Bank, osoby w nim zatrudnione oraz osoby, za których poÊrednictwem bank wykonuje czynnoÊci bankowe, sà obowiàzane zachowaç tajemnic´ bankowà, która obejmuje wszystkie informacje dotyczàce czynnoÊci bankowej, uzyskane w czasie negocjacji, w trakcie zawierania i realizacji umowy, na podstawie której bank t´ czynnoÊç wykonuje.
+- **4)** art. 104 otrzymuje brzmienie: ŃArt. 104. 1. Bank, osoby w nim zatrudnione oraz osoby, za których pośrednictwem bank wykonuje czynności bankowe, są obowiązane zachować tajemnicę bankową, która obejmuje wszystkie informacje dotyczące czynności bankowej, uzyskane w czasie negocjacji, w trakcie zawierania i realizacji umowy, na podstawie której bank tę czynność wykonuje.
 
-2. Obowiàzek, o którym mowa w ust. 1, nie dotyczy przypadków, w których:
+2. Obowiązek, o którym mowa w ust. 1, nie dotyczy przypadków, w których:
 
-- **1)** bez ujawnienia informacji obj´tej tajemnicà bankowà ze wzgl´du na istot´ i charakter czynnoÊci bankowej lub obowiàzujàce przeo przelewie wierzytelnoÊci banku na pisy nie jest mo˝liwe nale˝yte wykonanie umowy, na podstawie której jest wykonywana ta czynnoÊç bankowa, lub nale˝yte wykonanie czynnoÊci pozostajàcych w zwiàzku z zawarciem i wykonaniem tej umowy,
-- **2)** nast´puje ujawnienie informacji obj´tych tajemnicà bankowà przedsi´biorcom lub przedsi´biorcom zagranicznym, którym bank, zgodnie z art. 6a—6d, powierzy∏ wykonywanie, stale lub okresowo, czynnoÊci zwiàzanych z wykonywaniem dzia∏alnoÊci bankowej, w zakresie niezb´dnym do nale˝ytego wykonywania tych czynnoÊci,
-- **3)** nast´puje udzielenie informacji obj´tych tajemnicà bankowà adwokatom lub radcom prawnym w zwiàzku ze Êwiadczeniem przez nich pomocy prawnej na rzecz banku,
-- **4)** udzielenie informacji obj´tych tajemnicà bankowà jest niezb´dne do zawarcia i wykonywania umów sprzeda˝y wierzytelnoÊci zaklasyfikowanych zgodnie z odr´bnymi przepisami do kategorii straconych,
-- **5)** udzielenie informacji obj´tych tajemnicà bankowà jest niezb´dne do zawarcia i wykonania umów, o których mowa w art. 92a ust. 1, oraz zwiàzanych z nimi umów:
-    - **a)** o nadanie oceny inwestycyjnej (rating) sekurytyzowanym wierzytelnoÊciom,
-    - **b)** ubezpieczenia od ryzyka niewyp∏acalnoÊci d∏u˝ników sekurytyzowanych wierzytelnoÊci,
+- **1)** bez ujawnienia informacji objętej tajemnicą bankową ze względu na istotę i charakter czynności bankowej lub obowiązujące przeo przelewie wierzytelności banku na pisy nie jest możliwe należyte wykonanie umowy, na podstawie której jest wykonywana ta czynność bankowa, lub należyte wykonanie czynności pozostających w związku z zawarciem i wykonaniem tej umowy,
+- **2)** następuje ujawnienie informacji objętych tajemnicą bankową przedsiębiorcom lub przedsiębiorcom zagranicznym, którym bank, zgodnie z art. 6a—6d, powierzył wykonywanie, stale lub okresowo, czynności związanych z wykonywaniem działalności bankowej, w zakresie niezbędnym do należytego wykonywania tych czynności,
+- **3)** następuje udzielenie informacji objętych tajemnicą bankową adwokatom lub radcom prawnym w związku ze świadczeniem przez nich pomocy prawnej na rzecz banku,
+- **4)** udzielenie informacji objętych tajemnicą bankową jest niezbędne do zawarcia i wykonywania umów sprzedaży wierzytelności zaklasyfikowanych zgodnie z odrębnymi przepisami do kategorii straconych,
+- **5)** udzielenie informacji objętych tajemnicą bankową jest niezbędne do zawarcia i wykonania umów, o których mowa w art. 92a ust. 1, oraz związanych z nimi umów:
+    - **a)** o nadanie oceny inwestycyjnej (rating) sekurytyzowanym wierzytelnościom,
+    - **b)** ubezpieczenia od ryzyka niewypłacalności dłużników sekurytyzowanych wierzytelności,
 
-- **6)** udzielenie informacji obj´tych tajemnicà bankowà jest niezb´dne do zawarcia i wykonania umowy z podmiotem, o którym mowa wart. 92aust. 3, apodmiot ten zawar∏ z bankiem, od którego naby∏ wierzytelnoÊci, umow´ o obs∏ug´ tych sekurytyzowanych wierzytelnoÊci.
+- **6)** udzielenie informacji objętych tajemnicą bankową jest niezbędne do zawarcia i wykonania umowy z podmiotem, o którym mowa wart. 92aust. 3, apodmiot ten zawarł z bankiem, od którego nabył wierzytelności, umowę o obsługę tych sekurytyzowanych wierzytelności.
 
-3. Banku nie obowiàzuje, z zastrze˝eniem ust. 4, zachowanie tajemnicy bankowej wobec osoby, której dotyczà informacje obj´te tajemnicà. Osobom trzecim informacje te mogà byç ujawnione, z zastrze˝eniem art. 105, 106a i 106b, wy∏àcznie gdy osoba, której informacje te dotyczà, na piÊmie upowa˝ni bank do przekazania okreÊlonych informacji wskazanej przez siebie osobie lub jednostce organizacyjnej.
+3. Banku nie obowiązuje, z zastrzeżeniem ust. 4, zachowanie tajemnicy bankowej wobec osoby, której dotyczą informacje objęte tajemnicą. Osobom trzecim informacje te mogą być ujawnione, z zastrzeżeniem art. 105, 106a i 106b, wyłącznie gdy osoba, której informacje te dotyczą, na piśmie upoważni bank do przekazania określonych informacji wskazanej przez siebie osobie lub jednostce organizacyjnej.
 
-4. Bank, osoby w nim zatrudnione oraz osoby, za których poÊrednictwem bank wykonuje czynnoÊci bankowe, sà obowiàzane zachowaç w tajemnicy informacje dotyczàce udzielania Policji informacji na zasadach okreÊlonych w art. 20 ust. 4—10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z2002 r. 7, poz. 58, zpóên. zm. „g) Przewodniczàcego Komisji Papierów WartoÊciowych i Gie∏d w zakresie niezb´dnym do wykonywania nadzoru, w tym post´powania wyjaÊniajàcego, na podstawie ustawy, októrej mowa w art. 4 ust. 1 pkt 8, oraz ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych,”;
+4. Bank, osoby w nim zatrudnione oraz osoby, za których pośrednictwem bank wykonuje czynności bankowe, są obowiązane zachować w tajemnicy informacje dotyczące udzielania Policji informacji na zasadach określonych w art. 20 ust. 4—10 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z2002 r. 7, poz. 58, zpóên. zm. Ńg) Przewodniczącego Komisji Papierów Wartościowych i Giełd w zakresie niezbędnym do wykonywania nadzoru, w tym postępowania wyjaśniającego, na podstawie ustawy, októrej mowa w art. 4 ust. 1 pkt 8, oraz ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych,”;
 
-- **6)** w art. 138 ust. 7 otrzymuje brzmienie: „7. Ârodki podejmowane w ramach nadzoru nie mogà naruszaç umów zawartych przez bank, z wy∏àczeniem umów:
-- **1)** o których mowa w art. 92a ust. 1, oraz umów, na podstawie których nast´puje przeniesienie wierzytelnoÊci, o których mowa w art. 92a ust. 3,
-- **2)** zawartych przez bank krajowy z podmiotami dzia∏ajàcymi w tym samym holdingu oraz umów zawartych przez bank krajowy zpodmiotami, zktórymi posiada bliskie powiàzania.”.
+- **6)** w art. 138 ust. 7 otrzymuje brzmienie: Ń7. Ârodki podejmowane w ramach nadzoru nie mogą naruszać umów zawartych przez bank, z wyłączeniem umów:
+- **1)** o których mowa w art. 92a ust. 1, oraz umów, na podstawie których następuje przeniesienie wierzytelności, o których mowa w art. 92a ust. 3,
+- **2)** zawartych przez bank krajowy z podmiotami działającymi w tym samym holdingu oraz umów zawartych przez bank krajowy zpodmiotami, zktórymi posiada bliskie powiązania.”.
 
-**Art. 313.** Wustawie zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 137, poz. 926, z póên. zm. ) oraz dotyczàce zawiadomienia, októrym mowa wart. 20 ust. 13 tej ustawy. Zachowanie tajemnicy obowiàzuje wobec stron umowy, innych osób, których dotyczà informacje, oraz osób trzecich. 5. Podmioty oraz osoby w nich zatrudnione, którym, zgodnie z przepisem ust. 2 pkt 1, 2 oraz pkt 4—6, udzielono lub ujawniono informacje obj´te tajemnicà bankowà, mogà wykorzystaç te informacje wy∏àcznie w celu zawarcia i wykonania umów, o których mowa w ust. 2 pkt 1, 2 oraz 4—6. 6. Przepis ust. 5 stosuje si´ odpowiednio do adwokatów i radców prawnych, którym udzielono informacji obj´tych tajemnicà bankowà w zwiàzku ze Êwiadczeniem przez nich pomocy prawnej na rzecz banku.”;
+**Art. 313.** Wustawie zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 137, poz. 926, z póên. zm. ) oraz dotyczące zawiadomienia, októrym mowa wart. 20 ust. 13 tej ustawy. Zachowanie tajemnicy obowiązuje wobec stron umowy, innych osób, których dotyczą informacje, oraz osób trzecich. 5. Podmioty oraz osoby w nich zatrudnione, którym, zgodnie z przepisem ust. 2 pkt 1, 2 oraz pkt 4—6, udzielono lub ujawniono informacje objęte tajemnicą bankową, mogą wykorzystać te informacje wyłącznie w celu zawarcia i wykonania umów, o których mowa w ust. 2 pkt 1, 2 oraz 4—6. 6. Przepis ust. 5 stosuje się odpowiednio do adwokatów i radców prawnych, którym udzielono informacji objętych tajemnicą bankową w związku ze świadczeniem przez nich pomocy prawnej na rzecz banku.”;
 
-**Art. 314.** W ustawie z dnia 17 lipca 1998 r. o po˝yczkach i kredytach studenckich (Dz. U. 108, poz. 685 oraz z 2000 r. 48, poz. 550) w art. 3 wprowadza si´ nast´pujàce zmiany:
+**Art. 314.** W ustawie z dnia 17 lipca 1998 r. o pożyczkach i kredytach studenckich (Dz. U. 108, poz. 685 oraz z 2000 r. 48, poz. 550) w art. 3 wprowadza się następujące zmiany:
 
-**Art. 315.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych (Dz. U. 137, poz. 887, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 315.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 137, poz. 887, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 316.** W ustawie z dnia 18 grudnia 1998 r. o wspieraniu przedsi´wzi´ç termomodernizacyjnych (Dz. U. 162, poz. 1121, z póên. zm. piery wartoÊciowe okreÊlajàce Êwiadczenia pieni´˝ne, por´czane lub gwarantowane przez Skarb Paƒstwa albo Narodowy Bank Polski, atak˝e wjednostki uczestnictwa funduszy rynku pieni´˝nego, o których mowa w art. 178 ustawy zdnia 27 maja 2004 r. ofunduszach inwestycyjnych (Dz. U. 146, poz. 1546),”;
+**Art. 316.** W ustawie z dnia 18 grudnia 1998 r. o wspieraniu przedsięwzięć termomodernizacyjnych (Dz. U. 162, poz. 1121, z póên. zm. piery wartościowe określające świadczenia pieniężne, poręczane lub gwarantowane przez Skarb Państwa albo Narodowy Bank Polski, atakże wjednostki uczestnictwa funduszy rynku pieniężnego, o których mowa w art. 178 ustawy zdnia 27 maja 2004 r. ofunduszach inwestycyjnych (Dz. U. 146, poz. 1546),”;
 
-**Art. 317.** W ustawie z dnia 5 grudnia 2002 r. o dop∏atach do oprocentowania kredytów mieszkaniowych o sta∏ej stopie procentowej (Dz. U. 230, poz. 1922 oraz z 2004 r. 19, poz. 177) w art. 5 w ust. 2 pkt 3 otrzymuje brzmienie: „3) dochody z tytu∏u inwestowania przejÊciowo wolnych Êrodków Funduszu w lokaty bankowe i papiery wartoÊciowe emitowane przez Skarb Paƒ) wprowadza si´ nast´pujàce zmiany:
+**Art. 317.** W ustawie z dnia 5 grudnia 2002 r. o dopłatach do oprocentowania kredytów mieszkaniowych o stałej stopie procentowej (Dz. U. 230, poz. 1922 oraz z 2004 r. 19, poz. 177) w art. 5 w ust. 2 pkt 3 otrzymuje brzmienie: Ń3) dochody z tytułu inwestowania przejściowo wolnych środków Funduszu w lokaty bankowe i papiery wartościowe emitowane przez Skarb Pań) wprowadza się następujące zmiany:
 
-**Art. 318.** Wustawie zdnia 23 stycznia 2003 r. opowszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia (Dz. U. 45, poz. 391, z póên. zm. ) w art. 133 wprowadza si´ nast´pujàce zmiany:
+**Art. 318.** Wustawie zdnia 23 stycznia 2003 r. opowszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia (Dz. U. 45, poz. 391, z póên. zm. ) w art. 133 wprowadza się następujące zmiany:
 
-**Art. 319.** Wustawie zdnia 28 lutego 2003 r. Prawo upad∏oÊciowe i naprawcze (Dz. U. 60, poz. 535, z póên. zm. ) dodaje si´ art. 65a w brzmieniu: ——————— „Art. 65a. 1. Wsk∏ad masy upad∏oÊci upad∏ego b´dàcego stronà umowy o subpartycypacj´, o której mowa w art. 183 ust. 4 ustawy zdnia 27 maja 2004 r. ofunduszach inwestycyjnych (Dz. U. 146, poz. 1546), ——————— nie wchodzà wierzytelnoÊci b´dàce przedmiotem tej umowy. 2. Fundusz sekurytyzacyjny wst´puje w prawa upad∏ego z tytu∏u wierzytelnoÊci podlegajàcych wy∏àczeniu zgodnie z ust. 1 oraz zabezpieczeƒ tych wierzytelnoÊci. 3. Syndyk lub zarzàdca przekazuje funduszowi sekurytyzacyjnemu Êwiadczenia otrzymane od d∏u˝ników ztytu∏u wierzytelnoÊci, o których mowa w ust. 1, oraz d∏u˝ników z tytu∏u zabezpieczeƒ tych wierzytelnoÊci.”. DZIA¸ XVI Przepisy przejÊciowe i koƒcowe
+**Art. 319.** Wustawie zdnia 28 lutego 2003 r. Prawo upadłościowe i naprawcze (Dz. U. 60, poz. 535, z póên. zm. ) dodaje się art. 65a w brzmieniu: ——————— ŃArt. 65a. 1. Wskład masy upadłości upadłego będącego stroną umowy o subpartycypację, o której mowa w art. 183 ust. 4 ustawy zdnia 27 maja 2004 r. ofunduszach inwestycyjnych (Dz. U. 146, poz. 1546), ——————— nie wchodzą wierzytelności będące przedmiotem tej umowy. 2. Fundusz sekurytyzacyjny wstępuje w prawa upadłego z tytułu wierzytelności podlegających wyłączeniu zgodnie z ust. 1 oraz zabezpieczeń tych wierzytelności. 3. Syndyk lub zarządca przekazuje funduszowi sekurytyzacyjnemu świadczenia otrzymane od dłużników ztytułu wierzytelności, o których mowa w ust. 1, oraz dłużników z tytułu zabezpieczeń tych wierzytelności.”. DZIAĘ XVI Przepisy przejściowe i końcowe
 
 **Art. 320.**
 
-1. Zezwolenia i zgody udzielone na podstawie przepisów dotychczasowych pozostajà w mocy.
+1. Zezwolenia i zgody udzielone na podstawie przepisów dotychczasowych pozostają w mocy.
 
-2. Towarzystwa posiadajàce zezwolenie na prowadzenie dzia∏alnoÊci udzielone przed wejÊciem w ˝ycie ustawy mogà tak˝e wykonywaç dzia∏alnoÊç, o której mowa w rozdziale 2 dzia∏u XII.
+2. Towarzystwa posiadające zezwolenie na prowadzenie działalności udzielone przed wejściem w życie ustawy mogą także wykonywać działalność, o której mowa w rozdziale 2 działu XII.
 
-3. Zezwolenie Komisji na poÊrednictwo w zbywaniu i odkupywaniu jednostek uczestnictwa funduszu inwestycyjnego otwartego udzielone przed dniem wejÊcia w ˝ycie ustawy uprawnia do poÊredniczenia w zbywaniu i odkupywaniu tytu∏ów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych zsiedzibà wpaƒstwach EEA oraz funduszy inwestycyjnych otwartych z siedzibà w paƒstwach nale˝àcych do OECD innych ni˝ paƒstwo cz∏onkowskie lub paƒstwo nale˝àce do EEA z dniem uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej.
+3. Zezwolenie Komisji na pośrednictwo w zbywaniu i odkupywaniu jednostek uczestnictwa funduszu inwestycyjnego otwartego udzielone przed dniem wejścia w życie ustawy uprawnia do pośredniczenia w zbywaniu i odkupywaniu tytułów uczestnictwa funduszy zagranicznych, funduszy inwestycyjnych otwartych zsiedzibą wpaństwach EEA oraz funduszy inwestycyjnych otwartych z siedzibą w państwach należących do OECD innych niż państwo członkowskie lub państwo należące do EEA z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
 **Art. 321.**
 
-1. Fundusze inwestycyjne mieszane oraz specjalistyczne fundusze inwestycyjne zamkni´te sà obowiàzane w terminie roku od dnia wejÊcia w ˝ycie ustawy przekszta∏ciç si´ w fundusz inwestycyjny zamkni´ty.
+1. Fundusze inwestycyjne mieszane oraz specjalistyczne fundusze inwestycyjne zamknięte są obowiązane w terminie roku od dnia wejścia w życie ustawy przekształcić się w fundusz inwestycyjny zamknięty.
 
-2. Specjalistyczny fundusz inwestycyjny zamkni´ty oraz fundusz inwestycyjny mieszany, których certyfikaty zosta∏y wprowadzone do publicznego obrotu, mogà si´ przekszta∏ciç wy∏àcznie w fundusz inwestycyjny zamkni´ty, którego certyfikaty podlegajà wprowadzeniu do publicznego obrotu.
+2. Specjalistyczny fundusz inwestycyjny zamknięty oraz fundusz inwestycyjny mieszany, których certyfikaty zostały wprowadzone do publicznego obrotu, mogą się przekształcić wyłącznie w fundusz inwestycyjny zamknięty, którego certyfikaty podlegają wprowadzeniu do publicznego obrotu.
 
-3. Specjalistyczny fundusz inwestycyjny zamkni´ty, którego certyfikaty nie podlegajà wprowadzeniu do publicznego obrotu, mo˝e zostaç przekszta∏cony w fundusz inwestycyjny zamkni´ty emitujàcy certyfikaty podlegajàce wprowadzeniu do publicznego obrotu, pod warunkiem uzyskania zezwolenia Komisji na wprowadzenie do publicznego obrotu wszystkich wyemitowanych certyfikatów inwestycyjnych.
+3. Specjalistyczny fundusz inwestycyjny zamknięty, którego certyfikaty nie podlegają wprowadzeniu do publicznego obrotu, może zostać przekształcony w fundusz inwestycyjny zamknięty emitujący certyfikaty podlegające wprowadzeniu do publicznego obrotu, pod warunkiem uzyskania zezwolenia Komisji na wprowadzenie do publicznego obrotu wszystkich wyemitowanych certyfikatów inwestycyjnych.
 
-4. Przekszta∏cenia dokonuje towarzystwo przez
+4. Przekształcenia dokonuje towarzystwo przez
 
-5. Do chwili przekszta∏cenia fundusze, o których mowa wust. 1, prowadzà dzia∏alnoÊç na dotychczasowych zasadach.
+5. Do chwili przekształcenia fundusze, o których mowa wust. 1, prowadzą działalność na dotychczasowych zasadach.
 
 **Art. 322.**
 
-1. Fundusze inwestycyjne utworzone przed dniem wejÊcia w ˝ycie ustawy sà obowiàzane, z zastrze˝eniem art. 321, w terminie roku od dnia jej wejÊcia w ˝ycie, do dostosowania treÊci statutów do przepisów tej ustawy.
+1. Fundusze inwestycyjne utworzone przed dniem wejścia w życie ustawy są obowiązane, z zastrzeżeniem art. 321, w terminie roku od dnia jej wejścia w życie, do dostosowania treści statutów do przepisów tej ustawy.
 
-2. Zmiana statutu wy∏àcznie w zakresie okreÊlonym w ust. 1 nie podlega op∏acie, o której mowa w art. 236 ust. 1.
+2. Zmiana statutu wyłącznie w zakresie określonym w ust. 1 nie podlega opłacie, o której mowa w art. 236 ust. 1.
 
-3. Towarzystwa utworzone przed dniem wejÊcia w˝ycie ustawy sà obowiàzane, wterminie 3 miesi´cy od dnia jej wejÊcia w ˝ycie, do dostosowania zasad wykonywania dzia∏alnoÊci do przepisów tej ustawy.
+3. Towarzystwa utworzone przed dniem wejścia wżycie ustawy są obowiązane, wterminie 3 miesięcy od dnia jej wejścia w życie, do dostosowania zasad wykonywania działalności do przepisów tej ustawy.
 
-**Art. 323.** W terminie 2 miesi´cy od dnia wejÊcia w ˝ycie ustawy towarzystwo jest obowiàzane dostarczyç Komisji:
+**Art. 323.** W terminie 2 miesięcy od dnia wejścia w życie ustawy towarzystwo jest obowiązane dostarczyć Komisji:
 
-**Art. 324.** Wprzypadku gdy towarzystwo zleci∏o zarzàdzanie portfelem inwestycyjnym funduszu lub jego cz´Êcià depozytariuszowi funduszu, fundusz inwestycyjny dokonuje zmiany depozytariusza w terminie 6 miesi´cy od dnia wejÊcia w ˝ycie ustawy, chyba ˝e towarzystwo w terminie miesiàca od dnia wejÊcia w˝ycie ustawy zleci zarzàdzanie innemu podmiotowi.
+**Art. 324.** Wprzypadku gdy towarzystwo zleciło zarządzanie portfelem inwestycyjnym funduszu lub jego częścią depozytariuszowi funduszu, fundusz inwestycyjny dokonuje zmiany depozytariusza w terminie 6 miesięcy od dnia wejścia w życie ustawy, chyba że towarzystwo w terminie miesiąca od dnia wejścia wżycie ustawy zleci zarządzanie innemu podmiotowi.
 
-**Art. 325.** W terminie 2 miesi´cy od dnia wejÊcia w ˝ycie ustawy podmiot posiadajàcy zezwolenie, o którym mowa w art. 32 ust. 2, jest obowiàzany dostarczyç Komisji:
+**Art. 325.** W terminie 2 miesięcy od dnia wejścia w życie ustawy podmiot posiadający zezwolenie, o którym mowa w art. 32 ust. 2, jest obowiązany dostarczyć Komisji:
 
 **Art. 326.**
 
-1. Do przelewu wierzytelnoÊci banku na fundusz sekurytyzacyjny, z tytu∏u umów zawartych przed dniem wejÊcia w ˝ycie ustawy, stosuje si´ przepisy art. 92a—92c ustawy, o której mowa w art. 312, zmian´ statutu funduszu. z zastrze˝eniem ust. 2—4.
+1. Do przelewu wierzytelności banku na fundusz sekurytyzacyjny, z tytułu umów zawartych przed dniem wejścia w życie ustawy, stosuje się przepisy art. 92a—92c ustawy, o której mowa w art. 312, zmianę statutu funduszu. z zastrzeżeniem ust. 2—4.
 
-2. Bank nie jest obowiàzany do uzyskania zgody d∏u˝nika banku na przelew wierzytelnoÊci banku z tytu∏u umów kredytu, w przypadku niedotrzymania przez kredytobiorc´ warunków udzielenia kredytu, okreÊlonych w umowie.
+2. Bank nie jest obowiązany do uzyskania zgody dłużnika banku na przelew wierzytelności banku z tytułu umów kredytu, w przypadku niedotrzymania przez kredytobiorcę warunków udzielenia kredytu, określonych w umowie.
 
-3. Bank przed zawarciem z funduszem sekurytyzacyjnym umowy przelewu wierzytelnoÊci banku z tytu∏u umów kredytu, spe∏niajàcych przes∏ank´, o której mowa w ust. 2, jest obowiàzany wezwaç do zap∏aty d∏u˝nika banku ztakich umów, wyznaczajàc mu jednoczeÊnie 30-dniowy termin do uregulowania nale˝noÊci wobec banku, do wysokoÊci kwoty okreÊlonej w wezwaniu.
+3. Bank przed zawarciem z funduszem sekurytyzacyjnym umowy przelewu wierzytelności banku z tytułu umów kredytu, spełniających przesłankę, o której mowa w ust. 2, jest obowiązany wezwać do zapłaty dłużnika banku ztakich umów, wyznaczając mu jednocześnie 30-dniowy termin do uregulowania należności wobec banku, do wysokości kwoty określonej w wezwaniu.
 
-4. Do wezwania bank obowiàzany jest do∏àczyç informacj´, ˝e w przypadku niewywiàzania si´ kredytobiorcy z obowiàzków okreÊlonych w wezwaniu, jak równie˝ po bezskutecznym up∏ywie terminu okreÊlonego wwezwaniu, wierzytelnoÊç banku zostanie przelana na fundusz sekurytyzacyjny, któremu b´dzie przys∏ugiwaç uprawnienie do prowadzenia egzekucji na podstawie sekurytyzacyjnego tytu∏u egzekucyjnego
+4. Do wezwania bank obowiązany jest dołączyć informację, że w przypadku niewywiązania się kredytobiorcy z obowiązków określonych w wezwaniu, jak również po bezskutecznym upływie terminu określonego wwezwaniu, wierzytelność banku zostanie przelana na fundusz sekurytyzacyjny, któremu będzie przysługiwać uprawnienie do prowadzenia egzekucji na podstawie sekurytyzacyjnego tytułu egzekucyjnego
 
 **Art. 329.**
 
-1. Fundusze zagraniczne, które rozpocz´∏y dzia∏alnoÊç na terytorium Rzeczypospolitej Polskiej, zgodnie zart. 144aust. 5 ustawy uchylonej przepisem art. 330, podlegajà wpisowi do rejestru, októrym mowa w art. 263.
+1. Fundusze zagraniczne, które rozpoczęły działalność na terytorium Rzeczypospolitej Polskiej, zgodnie zart. 144aust. 5 ustawy uchylonej przepisem art. 330, podlegają wpisowi do rejestru, októrym mowa w art. 263.
 
-2. Fundusze zagraniczne, októrych mowa wust. 1, oraz fundusze zagraniczne, w stosunku do których w dniu wejÊcia w ˝ycie ustawy nie up∏ynà∏ termin, o którym mowa w art. 144a ust. 5 ustawy uchylonej przepisem art. 330, obowiàzane sà dostarczyç Komisji niezw∏ocznie, nie póêniej jednak ni˝ w terminie 14 dni od dnia og∏oszenia ustawy, informacje, o których mowa w art. 253 ust. 2 pkt 3, 6 i 7.
+2. Fundusze zagraniczne, októrych mowa wust. 1, oraz fundusze zagraniczne, w stosunku do których w dniu wejścia w życie ustawy nie upłynął termin, o którym mowa w art. 144a ust. 5 ustawy uchylonej przepisem art. 330, obowiązane są dostarczyć Komisji niezwłocznie, nie póêniej jednak niż w terminie 14 dni od dnia ogłoszenia ustawy, informacje, o których mowa w art. 253 ust. 2 pkt 3, 6 i 7.
 
-3. Fundusze zagraniczne, które z∏o˝y∏y zawiadomienie o zamiarze zbywania tytu∏ów uczestnictwa na terytorium Rzeczypospolitej Polskiej przed dniem og∏oszenia ustawy, mogà rozpoczàç zbywanie tytu∏ów uczestnictwa wterminie okreÊlonym wart. 144aust. 5 ustawy uchylonej przepisem art. 330.
+3. Fundusze zagraniczne, które złożyły zawiadomienie o zamiarze zbywania tytułów uczestnictwa na terytorium Rzeczypospolitej Polskiej przed dniem ogłoszenia ustawy, mogą rozpocząć zbywanie tytułów uczestnictwa wterminie określonym wart. 144aust. 5 ustawy uchylonej przepisem art. 330.
 
-**Art. 330.** Traci moc ustawa z dnia 28 sierpnia po nadaniu mu przez sàd klauzuli wykonalnoÊci. 1997 r. o funduszach inwestycyjnych (Dz. U. z 2002 r. 49, poz. 448 iNr 141, poz. 1178 oraz z2003 r. 124,
+**Art. 330.** Traci moc ustawa z dnia 28 sierpnia po nadaniu mu przez sąd klauzuli wykonalności. 1997 r. o funduszach inwestycyjnych (Dz. U. z 2002 r. 49, poz. 448 iNr 141, poz. 1178 oraz z2003 r. 124,
 
-**Art. 327.** Do czasu wydania przepisów wykonaw- poz. 1151). czych na podstawie upowa˝nieƒ zawartych wustawie i zmienionych ustawà zachowujà moc przepisy do- Art. 331. Ustawa wchodzi w ˝ycie z dniem 1 lipca tychczasowe, nie d∏u˝ej jednak ni˝ przez 12 miesi´cy 2004 r., z wyjàtkiem przepisów art. 32 ust. 2, art. 33, od dnia wejÊcia w ˝ycie ustawy. art. 34, art. 54 ust. 5, art. 61 ust. 2 i 3, art. 71 pkt 2, art. 89 ust. 6 i 7, art. 226 ust. 1 pkt 6, art. 228 ust. 7,
+**Art. 327.** Do czasu wydania przepisów wykonaw- poz. 1151). czych na podstawie upoważnień zawartych wustawie i zmienionych ustawą zachowują moc przepisy do- Art. 331. Ustawa wchodzi w życie z dniem 1 lipca tychczasowe, nie dłużej jednak niż przez 12 miesięcy 2004 r., z wyjątkiem przepisów art. 32 ust. 2, art. 33, od dnia wejścia w życie ustawy. art. 34, art. 54 ust. 5, art. 61 ust. 2 i 3, art. 71 pkt 2, art. 89 ust. 6 i 7, art. 226 ust. 1 pkt 6, art. 228 ust. 7,
 
-**Art. 328.** Je˝eli obowiàzujàce przepisy powo∏ujà art. 236 ust. 2 oraz dzia∏u XII, które wchodzà w ˝ycie si´ na przepisy ustawy uchylonej przepisem art. 330, z dniem og∏oszenia. albo odsy∏ajà ogólnie do przepisów ustawy o funduszach inwestycyjnych, stosuje si´ wtym zakresie w∏aÊciwe przepisy ustawy. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski ISSN 0867-3411 Cena 9,40 z∏
+**Art. 328.** Jeżeli obowiązujące przepisy powołują art. 236 ust. 2 oraz działu XII, które wchodzą w życie się na przepisy ustawy uchylonej przepisem art. 330, z dniem ogłoszenia. albo odsyłają ogólnie do przepisów ustawy o funduszach inwestycyjnych, stosuje się wtym zakresie właściwe przepisy ustawy. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ISSN 0867-3411 Cena 9,40 zł
 

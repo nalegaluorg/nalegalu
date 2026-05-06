@@ -24,276 +24,276 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010850924) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/924/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 12 wrzeÊnia 1990 r. oszkol- poz. 110, z 1997 r. 28, poz. 153, 96, poz. 590, nictwie wy˝szym (Dz. U. 65, poz. 385, z 1991 r. 104, poz. 661, 121, poz. 770 141, poz. 943, USTAWA zdnia 20 lipca 2001 r. ozmianie ustawy oszkolnictwie wy˝szym, ustawy owy˝szych szko∏ach zawodowych oraz ozmianie niektórych innych ustaw.
+**Art. 1.** Wustawie zdnia 12 września 1990 r. oszkol- poz. 110, z 1997 r. 28, poz. 153, 96, poz. 590, nictwie wyższym (Dz. U. 65, poz. 385, z 1991 r. 104, poz. 661, 121, poz. 770 141, poz. 943, USTAWA zdnia 20 lipca 2001 r. ozmianie ustawy oszkolnictwie wyższym, ustawy owyższych szkołach zawodowych oraz ozmianie niektórych innych ustaw.
 
 **Art. 4b.**
 
-1. Uczelnia spe∏niajàca warunki okreÊlone w przepisach wydanych na podstawie art. 4aust. 2 mo˝e uzyskaç uprawnienie do prowadzenia studiów wy˝tacyjnej.
+1. Uczelnia spełniająca warunki określone w przepisach wydanych na podstawie art. 4aust. 2 może uzyskać uprawnienie do prowadzenia studiów wyżtacyjnej.
 
-2. Uczelnia, októrej mowa wart. 12 ust. 1, je˝eli spe∏nia warunki okreÊlone w przepisach wydanych na podstawie art. 4a ust. 2, mo˝e utworzyç prowadziç studia na okreÊlonym kierunku poziomie kszta∏cenia, bez uzyskania decyzji, októrej mowa wust. 1.
+2. Uczelnia, októrej mowa wart. 12 ust. 1, jeżeli spełnia warunki określone w przepisach wydanych na podstawie art. 4a ust. 2, może utworzyć prowadzić studia na określonym kierunku poziomie kształcenia, bez uzyskania decyzji, októrej mowa wust. 1.
 
-3. Uczelnia niezw∏ocznie zawiadamia ministra w∏aÊciwego do spraw szkolnictwa wy˝szego o utracie warunków do prowadzenia studiów wy˝szych, wtym o zmianach w stanie zatrudnienia, wp∏ywajàcych na uprawnienie do prowadzenia studiów. Je˝eli w ciàgu 6 miesi´cy od ich utraty uczelnia nie spe∏ni wymaganych warunków, minister w∏aÊciwy do spraw szkolnictwa wy˝szego, w drodze decyzji, zawiesza uprawnienia uczelni do prowadzenia studiów wy˝szych na okreÊlonym kierunku ipoziomie kszta∏cenia.
+3. Uczelnia niezwłocznie zawiadamia ministra właściwego do spraw szkolnictwa wyższego o utracie warunków do prowadzenia studiów wyższych, wtym o zmianach w stanie zatrudnienia, wpływających na uprawnienie do prowadzenia studiów. Jeżeli w ciągu 6 miesięcy od ich utraty uczelnia nie spełni wymaganych warunków, minister właściwy do spraw szkolnictwa wyższego, w drodze decyzji, zawiesza uprawnienia uczelni do prowadzenia studiów wyższych na określonym kierunku ipoziomie kształcenia.
 
-4. Wprzypadku negatywnej oceny kszta∏cenia dokonanej przez Paƒstwowà Komisj´ Akredytacyjnà, minister w∏aÊciwy do spraw szkolnictwa wy˝szego, uwzgl´dniajàc w szczególnoÊci rodzaj zakres stwierdzonych naruszeƒ, w drodze decyzji, cofa albo zawiesza uprawnienie do prowadzenia studiów wy˝szych na danym kierunku poziomie kszta∏cenia.
+4. Wprzypadku negatywnej oceny kształcenia dokonanej przez Państwową Komisję Akredytacyjną, minister właściwy do spraw szkolnictwa wyższego, uwzględniając w szczególności rodzaj zakres stwierdzonych naruszeń, w drodze decyzji, cofa albo zawiesza uprawnienie do prowadzenia studiów wyższych na danym kierunku poziomie kształcenia.
 
-5. W okresie zawieszenia uprawnieƒ uczelni do prowadzenia studiów wy˝szych na danym kierunku poziomie kszta∏cenia zostaje wstrzymana rekrutacja studentów na ten kierunek. Minister w∏aÊciwy do spraw szkolnictwa wy˝szego okreÊla termin, nie d∏u˝szy ni˝ trzy lata, wktórym uczelnia obowiàzana jest spe∏niç warunki do przywrócenia zawieszonych uprawnieƒ, szczegó∏owe zasady kontynuowania kszta∏cenia przez studentów oraz przeprowadzania w tym okresie egzaminów dyplomowych.
+5. W okresie zawieszenia uprawnień uczelni do prowadzenia studiów wyższych na danym kierunku poziomie kształcenia zostaje wstrzymana rekrutacja studentów na ten kierunek. Minister właściwy do spraw szkolnictwa wyższego określa termin, nie dłuższy niż trzy lata, wktórym uczelnia obowiązana jest spełnić warunki do przywrócenia zawieszonych uprawnień, szczegółowe zasady kontynuowania kształcenia przez studentów oraz przeprowadzania w tym okresie egzaminów dyplomowych.
 
-6. Przywrócenie zawieszonego na podstawie ust. 4 uprawnienia do prowadzenia studiów na okreÊlonym kierunku poziomie kszta∏cenia nast´puje na zasadach w trybie obowiàzujàcych przy przyznawaniu uprawnienia.”;
+6. Przywrócenie zawieszonego na podstawie ust. 4 uprawnienia do prowadzenia studiów na określonym kierunku poziomie kształcenia następuje na zasadach w trybie obowiązujących przy przyznawaniu uprawnienia.”;
 
-- **3)** wart. 15 wust. 1 wyrazy „Rady G∏ównej Szkolnictwa Wy˝szego” zast´puje wyrazami „Paƒstwowej Komisji Akredytacyjnej”;
-- **4)** wart. 18 wust. 2 kropk´ zast´puje przecinkiem dodaje wyrazy „z uwzgl´dnieniem zobowià„1a) dotacje na pomoc materialnà dla studentów,”;
-- **7)** wtytule dzia∏u II skreÊla wyraz „paƒstwowymi”;
-- **8)** wart. 34 wust. 2 wpkt 7 kropk´ zast´puje przecinkiem idodaje pkt 8 i9 wbrzmieniu: „8) utworzeniu lub zniesieniu kierunku studiów oraz o obsadzie kadrowej na prowadzonych kierunkach studiów,
-- **9)** utworzeniu filii lub wydzia∏u zamiejscowego.”;
-- **9)** w dziale II rozdziale 1 dodaje rozdzia∏ 1a wbrzmieniu: „Rozdzia∏ 1a Nadzór nad uczelniami niepaƒstwowymi
+- **3)** wart. 15 wust. 1 wyrazy ŃRady Głównej Szkolnictwa Wyższego” zastępuje wyrazami ŃPaństwowej Komisji Akredytacyjnej”;
+- **4)** wart. 18 wust. 2 kropkę zastępuje przecinkiem dodaje wyrazy Ńz uwzględnieniem zobowiąŃ1a) dotacje na pomoc materialną dla studentów,”;
+- **7)** wtytule działu II skreśla wyraz Ńpaństwowymi”;
+- **8)** wart. 34 wust. 2 wpkt 7 kropkę zastępuje przecinkiem idodaje pkt 8 i9 wbrzmieniu: Ń8) utworzeniu lub zniesieniu kierunku studiów oraz o obsadzie kadrowej na prowadzonych kierunkach studiów,
+- **9)** utworzeniu filii lub wydziału zamiejscowego.”;
+- **9)** w dziale II rozdziale 1 dodaje rozdział 1a wbrzmieniu: ŃRozdział 1a Nadzór nad uczelniami niepaństwowymi
 
 **Art. 34a.**
 
-1. Przepisy art. 31 ust. 1 2 stosuje odpowiednio do uczelni niepaƒstwowych.
+1. Przepisy art. 31 ust. 1 2 stosuje odpowiednio do uczelni niepaństwowych.
 
-2. Je˝eli uczelnia niepaƒstwowa prowadzi dzia∏alnoÊç niezgodnà zprzepisami ustawy, statutem albo pozwoleniem, októrym mowa wart. 15 ust. 2, minister w∏aÊciwy do spraw szkolnictwa wy˝szego wzywa do usuni´cia tych niezgodnoÊci woznaczonym terminie, awrazie ich nieusuni´cia mo˝e zawiesiç uprawnienia do prowadzenia studiów lub cofnàç pozwolenie, okreÊlajàc szczegó∏owe zasady kontynuowania kszta∏cenia przez studentów oraz przeprowadzania egzaminów dyplomowych.
+2. Jeżeli uczelnia niepaństwowa prowadzi działalność niezgodną zprzepisami ustawy, statutem albo pozwoleniem, októrym mowa wart. 15 ust. 2, minister właściwy do spraw szkolnictwa wyższego wzywa do usunięcia tych niezgodności woznaczonym terminie, awrazie ich nieusunięcia może zawiesić uprawnienia do prowadzenia studiów lub cofnąć pozwolenie, określając szczegółowe zasady kontynuowania kształcenia przez studentów oraz przeprowadzania egzaminów dyplomowych.
 
-3. Je˝eli uczelnia niepaƒstwowa lub jej za∏o˝yciel ra˝àco naruszajà przepisy ustawy, statutu albo pozwolenie, októrym mowa wart. 15 ust. 2, minister w∏aÊciwy do spraw szkolnictwa wy˝szego podejmuje decyzj´ o cofni´ciu pozwolenia.
+3. Jeżeli uczelnia niepaństwowa lub jej założyciel rażąco naruszają przepisy ustawy, statutu albo pozwolenie, októrym mowa wart. 15 ust. 2, minister właściwy do spraw szkolnictwa wyższego podejmuje decyzję o cofnięciu pozwolenia.
 
-4. Minister w∏aÊciwy do spraw szkolnictwa wy˝szego og∏asza wwydawanym przez siebie dzienniku urz´dowym obwieszczenia o utworzeniu lub likwidacji uczelni niepaƒstwowych, atak˝e informacje ozawieszeniu lub cofni´ciu uprawnieƒ do prowadzenia studiów.”;
+4. Minister właściwy do spraw szkolnictwa wyższego ogłasza wwydawanym przez siebie dzienniku urzędowym obwieszczenia o utworzeniu lub likwidacji uczelni niepaństwowych, atakże informacje ozawieszeniu lub cofnięciu uprawnień do prowadzenia studiów.”;
 
-- **10)** wdziale II : nictwa wy˝szego, awszczególnoÊci:
-    - **a)** wrozdziale 2 art. 35—37 otrzymujà brzmienie: „Art. 35. 1. Rada G∏ówna Szkolnictwa Wy˝szego, zwana dalej «Radà», jest wybieralnym organem przedstawicielskim szkolnictwa wy˝szego.
+- **10)** wdziale II : nictwa wyższego, awszczególności:
+    - **a)** wrozdziale 2 art. 35—37 otrzymują brzmienie: ŃArt. 35. 1. Rada Główna Szkolnictwa Wyższego, zwana dalej «Radą», jest wybieralnym organem przedstawicielskim szkolnictwa wyższego.
 
-- **1)** wyra˝a zw∏asnej inicjatywy opinie przedstawia wnioski we wszystkich sprawach dotyczàcych szkolnictwa wy˝szego nauki oraz mo˝e zwracaç wtych sprawach do organów w∏adzy publicznej iuczelni, wtym oudzielenie wyjaÊnieƒ iinformacji,
-- **2)** wyra˝a opinie winnych sprawach przedstawionych jej przez ministra w∏aÊciwego do spraw szkolnictwa wy˝szego, inne organy w∏adzy publicznej oraz Paƒstwowà Komisj´ Akredytacyjnà,
-- **3)** opiniuje projekty aktów prawnych, w tym projekty ustaw o utworzeniu, przekszta∏ceniu, zniesieniu izmianie nazwy uczelni, zawieranych przez Rzeczpospolità Polskà umów mi´dzynarodowych dotyczàcych szkolnictwa wy˝szego nauki, a tak˝e promocji nauki polskiej za granicà,
-- **4)** opiniuje projekt bud˝etu paƒstwa w zakresie cz´Êci, której dysponentem jest minister w∏aÊciwy do spraw szkolnictwa wy˝szego,oraz zasady przyznawania uczelniom dotacji zbud˝etu paƒstwa,
-- **5)** opiniuje projekty statutów uczelni nadawanych przez ministra w∏aÊciwego do spraw szkolnictwa wy˝szego.
+- **1)** wyraża zwłasnej inicjatywy opinie przedstawia wnioski we wszystkich sprawach dotyczących szkolnictwa wyższego nauki oraz może zwracać wtych sprawach do organów władzy publicznej iuczelni, wtym oudzielenie wyjaśnień iinformacji,
+- **2)** wyraża opinie winnych sprawach przedstawionych jej przez ministra właściwego do spraw szkolnictwa wyższego, inne organy władzy publicznej oraz Państwową Komisję Akredytacyjną,
+- **3)** opiniuje projekty aktów prawnych, w tym projekty ustaw o utworzeniu, przekształceniu, zniesieniu izmianie nazwy uczelni, zawieranych przez Rzeczpospolitą Polską umów międzynarodowych dotyczących szkolnictwa wyższego nauki, a także promocji nauki polskiej za granicą,
+- **4)** opiniuje projekt budżetu państwa w zakresie części, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego,oraz zasady przyznawania uczelniom dotacji zbudżetu państwa,
+- **5)** opiniuje projekty statutów uczelni nadawanych przez ministra właściwego do spraw szkolnictwa wyższego.
 
-3. Opinie wsprawach, októrych mowa wust. 2 pkt 3—5, Rada wyra˝a wterminie nie d∏u˝szym ni˝ dwa miesiàce od otrzymania projektu przedstawionego przez w∏aÊciwy organ.
+3. Opinie wsprawach, októrych mowa wust. 2 pkt 3—5, Rada wyraża wterminie nie dłuższym niż dwa miesiące od otrzymania projektu przedstawionego przez właściwy organ.
 
 **Art. 36.**
 
-1. Rada sk∏ada zprzedstawicieli:
+1. Rada składa zprzedstawicieli:
 
-- **1)** nauczycieli akademickich posiadajàcych tytu∏ naukowy profesora lub stopieƒ naukowy doktora habilitowanego wliczbie dwudziestu jeden,
-- **2)** nauczycieli akademickich posiadajàcych stopieƒ naukowy doktora wliczbie szeÊciu,
+- **1)** nauczycieli akademickich posiadających tytuł naukowy profesora lub stopień naukowy doktora habilitowanego wliczbie dwudziestu jeden,
+- **2)** nauczycieli akademickich posiadających stopień naukowy doktora wliczbie sześciu,
 - **3)** studentów wliczbie trzech.
 
 2. Kadencja Rady trwa trzy lata irozpoczyna 1 stycznia.
 
-3. Rada dzia∏a na posiedzeniach plenarnych oraz przez swoje organy. Organizacj´ tryb dzia∏ania Rady oraz jej nujà elektorzy zgromadzeni na ogólnopolskich spotkaniach wyborczych.
+3. Rada działa na posiedzeniach plenarnych oraz przez swoje organy. Organizację tryb działania Rady oraz jej nują elektorzy zgromadzeni na ogólnopolskich spotkaniach wyborczych.
 
-2. Elektorów wybiera wproporcji jeden elektor na ka˝dà grup´ pi´çdziesi´ciu nauczycieli akademickich posiadajàcych tytu∏ naukowy profesora lub stopieƒ naukowy doktora habilitowanego, zatrudnionych w danej uczelni w pe∏nym wymiarze czasu pracy, oraz jeden elektor na ka˝dà grup´ stu pi´çdziesi´ciu pozosta∏ych nauczycieli akademickich, zatrudnionych w danej uczelni w pe∏nym wymiarze czasu pracy.
+2. Elektorów wybiera wproporcji jeden elektor na każdą grupę pięćdziesięciu nauczycieli akademickich posiadających tytuł naukowy profesora lub stopień naukowy doktora habilitowanego, zatrudnionych w danej uczelni w pełnym wymiarze czasu pracy, oraz jeden elektor na każdą grupę stu pięćdziesięciu pozostałych nauczycieli akademickich, zatrudnionych w danej uczelni w pełnym wymiarze czasu pracy.
 
-3. Wyboru elektorów wgrupie, októrej mowa wart. 36 ust. 1 pkt 1, dokonujà nauczyciele akademiccy posiadajàcy tytu∏ naukowy profesora lub stopieƒ naukowy doktora habilitowanego, a w grupie, o której mowa wart.36 ust. 1 pkt 2, nauczyciele akademiccy posiadajàcy stopieƒ naukowy doktora.
+3. Wyboru elektorów wgrupie, októrej mowa wart. 36 ust. 1 pkt 1, dokonują nauczyciele akademiccy posiadający tytuł naukowy profesora lub stopień naukowy doktora habilitowanego, a w grupie, o której mowa wart.36 ust. 1 pkt 2, nauczyciele akademiccy posiadający stopień naukowy doktora.
 
-4. W uczelniach artystycznych wyboru elektorów w grupach nauczycieli akademickich, o których mowa w ust. 2, dokonuje odpowiednio w proporcji: jeden elektor na ka˝dà grup´ dwudziestu oraz na ka˝dà grup´ pi´çdziesi´ciu nauczycieli akademickich.
+4. W uczelniach artystycznych wyboru elektorów w grupach nauczycieli akademickich, o których mowa w ust. 2, dokonuje odpowiednio w proporcji: jeden elektor na każdą grupę dwudziestu oraz na każdą grupę pięćdziesięciu nauczycieli akademickich.
 
-5. Uczelnie, w których zgodnie z zasadami okreÊlonymi wust. 2 i3 nie mo˝e byç dokonany wybór ˝adnego elektora w danej grupie, tworzà wspólne okr´gi wyborcze, zgodnie z regulaminem wyborczym, o którym mowa wust. 9.
+5. Uczelnie, w których zgodnie z zasadami określonymi wust. 2 i3 nie może być dokonany wybór żadnego elektora w danej grupie, tworzą wspólne okręgi wyborcze, zgodnie z regulaminem wyborczym, o którym mowa wust. 9.
 
-6. Bierne prawo wyborcze nie przys∏uguje nauczycielom akademickim pe∏niàcym funkcje jednoosobowych organów uczelni oraz prorektora prodziekana. Cz∏onkostwa w Radzie nie mo˝na ∏àczyç zcz∏onkostwem wPaƒstwowej Komisji Akredytacyjnej.
+6. Bierne prawo wyborcze nie przysługuje nauczycielom akademickim pełniącym funkcje jednoosobowych organów uczelni oraz prorektora prodziekana. Członkostwa w Radzie nie można łączyć zczłonkostwem wPaństwowej Komisji Akredytacyjnej.
 
-7. Wyboru przedstawicieli studentów do Rady dokonuje, na rok, Parlament Studentów Rzeczypospolitej Polskiej, wtrybie okreÊlonym wjego regulaminie.
+7. Wyboru przedstawicieli studentów do Rady dokonuje, na rok, Parlament Studentów Rzeczypospolitej Polskiej, wtrybie określonym wjego regulaminie.
 
-8. W przypadku wygaÊni´cia mandatu cz∏onka Rady w trakcie jej kadencji, zwolniony mandat obejmuje osoba, która w wyborach uzyska∏a kolejnà, najwi´kszà liczb´ g∏osów. otrzymujà brzmienie: „Art. 38. 1. Paƒstwowà Komisj´ Akredytacyjnà, zwanà dalej «Komisjà», powo∏uje minister w∏aÊciwy do spraw szkolnictwa wy˝szego.
+8. W przypadku wygaśnięcia mandatu członka Rady w trakcie jej kadencji, zwolniony mandat obejmuje osoba, która w wyborach uzyskała kolejną, największą liczbę głosów. otrzymują brzmienie: ŃArt. 38. 1. Państwową Komisję Akredytacyjną, zwaną dalej «Komisją», powołuje minister właściwy do spraw szkolnictwa wyższego.
 
-2. Komisja przedstawia ministrowi w∏aÊciwemu do spraw szkolnictwa wy˝szego opinie wnioski dotyczàce wszczególnoÊci:
+2. Komisja przedstawia ministrowi właściwemu do spraw szkolnictwa wyższego opinie wnioski dotyczące wszczególności:
 
-- **1)** utworzenia uczelni, przyznania uczelni uprawnienia do prowadzenia studiów wy˝szych na okreÊlonym kierunku poziomie kszta∏cenia oraz utworzenia przez uczelni´ filii lub wydzia∏u zamiejscowego,
-- **2)** dokonanej oceny kszta∏cenia na danym kierunku, w tym kszta∏cenia nauczycieli oraz przestrzegania warunków prowadzenia studiów wy˝szych.
+- **1)** utworzenia uczelni, przyznania uczelni uprawnienia do prowadzenia studiów wyższych na określonym kierunku poziomie kształcenia oraz utworzenia przez uczelnię filii lub wydziału zamiejscowego,
+- **2)** dokonanej oceny kształcenia na danym kierunku, w tym kształcenia nauczycieli oraz przestrzegania warunków prowadzenia studiów wyższych.
 
-3. W sprawach, o których mowa w ust. 2, Komisja mo˝e zwracaç do uczelni o udzielenie wyjaÊnieƒ informacji oraz przeprowadzaç wizytacj´ uczelni.
+3. W sprawach, o których mowa w ust. 2, Komisja może zwracać do uczelni o udzielenie wyjaśnień informacji oraz przeprowadzać wizytację uczelni.
 
-4. Opinie wsprawach, októrych mowa wust. 2 pkt 1, Komisja wyra˝a wterminie nie d∏u˝szym ni˝ 3 miesiàce od otrzymania wniosku. W przypadku niewyra˝enia opinii w tym terminie minister w∏aÊciwy do spraw szkolnictwa wy˝szego podejmuje decyzj´ bez tej opinii. Oceny, októrych mowa w ust. 2 pkt 2, wraz z wynikajàcymi z nich wnioskami Komisja przedstawia wterminie miesiàca od ich dokonania.
+4. Opinie wsprawach, októrych mowa wust. 2 pkt 1, Komisja wyraża wterminie nie dłuższym niż 3 miesiące od otrzymania wniosku. W przypadku niewyrażenia opinii w tym terminie minister właściwy do spraw szkolnictwa wyższego podejmuje decyzję bez tej opinii. Oceny, októrych mowa w ust. 2 pkt 2, wraz z wynikającymi z nich wnioskami Komisja przedstawia wterminie miesiąca od ich dokonania.
 
-5. Komisja mo˝e wspó∏pracowaç zkrajowymi imi´dzynarodowymi organizacjami, których przedmiotem dzia∏ania jest ocena jakoÊci kszta∏cenia iakredytacja.
+5. Komisja może współpracować zkrajowymi imiędzynarodowymi organizacjami, których przedmiotem działania jest ocena jakości kształcenia iakredytacja.
 
 **Art. 39.**
 
-1. Cz∏onków Komisji powo∏uje minister w∏aÊciwy do spraw szkolnictwa wy˝szego spoÊród kandydatów zg∏oszonych przez Rad´, senaty uczelni, stowarzyszenia naukowe, zawodowe, twórcze oraz organizacje pracodawców. Kandydatem uczelni mo˝e byç nauczyciel akademicki posiadajàcy co najmniej stopieƒ naukowy doktora, zatrudniony w uczelni w pe∏nym wymiarze czasu pracy.
+1. Członków Komisji powołuje minister właściwy do spraw szkolnictwa wyższego spośród kandydatów zgłoszonych przez Radę, senaty uczelni, stowarzyszenia naukowe, zawodowe, twórcze oraz organizacje pracodawców. Kandydatem uczelni może być nauczyciel akademicki posiadający co najmniej stopień naukowy doktora, zatrudniony w uczelni w pełnym wymiarze czasu pracy.
 
-2. Komisja liczy nie mniej ni˝ pi´çdziesi´ciu inie wi´cej ni˝ siedemdziesi´ciu cz∏onków. Êciowo zobowiàzku prowadzenia zaj´ç dydaktycznych.
+2. Komisja liczy nie mniej niż pięćdziesięciu inie więcej niż siedemdziesięciu członków. ściowo zobowiązku prowadzenia zajęć dydaktycznych.
 
 **Art. 40.**
 
-1. Komisja dzia∏a na posiedzeniach plenarnych oraz przez swoje organy.
+1. Komisja działa na posiedzeniach plenarnych oraz przez swoje organy.
 
-2. Organami Komisji sà:
+2. Organami Komisji są:
 
-- **1)** przewodniczàcy,
+- **1)** przewodniczący,
 - **2)** sekretarz,
 - **3)** prezydium.
 
-3. Wsk∏ad prezydium wchodzà:
+3. Wskład prezydium wchodzą:
 
-- **1)** przewodniczàcy Komisji,
+- **1)** przewodniczący Komisji,
 - **2)** sekretarz,
-- **3)** przewodniczàcy zespo∏ów.
+- **3)** przewodniczący zespołów.
 
-4. W sk∏ad Komisji wchodzà zespo∏y kierunków studiów:
+4. W skład Komisji wchodzą zespoły kierunków studiów:
 
 - **1)** humanistycznych,
 - **2)** przyrodniczych,
 - **3)** matematyczno-fizyczno-chemicznych,
-- **4)** rolniczych, leÊnych weterynaryjnych,
+- **4)** rolniczych, leśnych weterynaryjnych,
 - **5)** medycznych,
 - **6)** wychowania fizycznego,
 - **7)** technicznych,
 - **8)** ekonomicznych,
-- **9)** spo∏ecznych iprawnych,
+- **9)** społecznych iprawnych,
 - **10)** artystycznych.
 
-5. W sk∏ad zespo∏u wchodzi co najmniej pi´ciu cz∏onków Komisji, b´dàcych przedstawicielami grupy kierunków studiów, w tym co najmniej trzech posiadajàcych tytu∏ naukowy profesora lub stopieƒ naukowy doktora habilitowanego wdziedzinie nauki lub dyscyplinie naukowej zwiàzanej zdanym kierunkiem studiów.
+5. W skład zespołu wchodzi co najmniej pięciu członków Komisji, będących przedstawicielami grupy kierunków studiów, w tym co najmniej trzech posiadających tytuł naukowy profesora lub stopień naukowy doktora habilitowanego wdziedzinie nauki lub dyscyplinie naukowej związanej zdanym kierunkiem studiów.
 
 **Art. 41.**
 
-1. Przewodniczàcego Komisji oraz jej sekretarza powo∏uje iodwo∏uje minister w∏aÊciwy do spraw szkolnictwa wy˝szego.
+1. Przewodniczącego Komisji oraz jej sekretarza powołuje iodwołuje minister właściwy do spraw szkolnictwa wyższego.
 
-2. Przewodniczàcy Komisji zwo∏uje posiedzenia plenarne Komisji, przewodniczy jej obradom, reprezentuje jà na zewnàtrz oraz podpisuje uchwa∏y Komisji.
+2. Przewodniczący Komisji zwołuje posiedzenia plenarne Komisji, przewodniczy jej obradom, reprezentuje ją na zewnątrz oraz podpisuje uchwały Komisji.
 
-3. Sekretarz zapewnia sprawne funkcjonowanie Komisji wykonywanie przez nià zadaƒ.
+3. Sekretarz zapewnia sprawne funkcjonowanie Komisji wykonywanie przez nią zadań.
 
-4. Przewodniczàcych zespo∏ów wybierajà ich cz∏onkowie spoÊród swego grona. októrych mowa wart. 38 ust. 2, mo˝e zwróciç zwnioskiem oponowne rozpatrzenie sprawy. Wniosek kieruje do Komisji w terminie czternastu dni od dnia dor´czenia uchwa∏y.
+4. Przewodniczących zespołów wybierają ich członkowie spośród swego grona. októrych mowa wart. 38 ust. 2, może zwrócić zwnioskiem oponowne rozpatrzenie sprawy. Wniosek kieruje do Komisji w terminie czternastu dni od dnia doręczenia uchwały.
 
-3. Wniosek, o którym mowa w ust. 2, rozpatrywany jest na wspólnym posiedzeniu zespo∏u iprezydium Komisji w terminie nie d∏u˝szym ni˝ trzydzieÊci dni od dnia otrzymania wniosku.
+3. Wniosek, o którym mowa w ust. 2, rozpatrywany jest na wspólnym posiedzeniu zespołu iprezydium Komisji w terminie nie dłuższym niż trzydzieści dni od dnia otrzymania wniosku.
 
-4. Organizacj´ tryb dzia∏ania Komisji, szczegó∏owe kompetencje jej organów, tryb dokonywania ocen, o których mowa wart. 38 ust. 2 pkt 2, oraz sposób wyznaczania recenzentów okreÊla statut uchwalony przez Komisj´ na posiedzeniu plenarnym.
+4. Organizację tryb działania Komisji, szczegółowe kompetencje jej organów, tryb dokonywania ocen, o których mowa wart. 38 ust. 2 pkt 2, oraz sposób wyznaczania recenzentów określa statut uchwalony przez Komisję na posiedzeniu plenarnym.
 
 **Art. 43.**
 
-1. Ârodki finansowe niezb´dne do funkcjonowania Rady Komisji zapewniane sà w cz´Êci bud˝etu paƒstwa, której dysponentem jest minister w∏aÊciwy do spraw szkolnictwa wy˝szego.
+1. Ârodki finansowe niezbędne do funkcjonowania Rady Komisji zapewniane są w części budżetu państwa, której dysponentem jest minister właściwy do spraw szkolnictwa wyższego.
 
-2. Minister w∏aÊciwy do spraw szkolnictwa wy˝szego okreÊla, w drodze rozporzàdzenia, sposób obs∏ugi administracyjnej finansowej prac Rady iKomisji, wysokoÊç wynagrodzenia ich cz∏onków oraz warunki zwrotu kosztów podró˝y cz∏onkom Rady iKomisji iwyznaczanym przez nie recenzentom, uwzgl´dniajàc w szczególnoÊci, ˝e wysokoÊç wynagrodzenia cz∏onków Rady Komisji b´dzie ustalana w relacji do minimalnej stawki wynagrodzenia zasadniczego profesora zwyczajnego, okreÊlonej na podstawie art. 117aust. 1.”;
+2. Minister właściwy do spraw szkolnictwa wyższego określa, w drodze rozporządzenia, sposób obsługi administracyjnej finansowej prac Rady iKomisji, wysokość wynagrodzenia ich członków oraz warunki zwrotu kosztów podróży członkom Rady iKomisji iwyznaczanym przez nie recenzentom, uwzględniając w szczególności, że wysokość wynagrodzenia członków Rady Komisji będzie ustalana w relacji do minimalnej stawki wynagrodzenia zasadniczego profesora zwyczajnego, określonej na podstawie art. 117aust. 1.”;
 
-- **11)** skreÊla art. 44 i45;
-- **12)** wart. 47 ust. 2 dodaje ust. 2awbrzmieniu: „2a. W sk∏ad senatu mogà tak˝e wchodziç przedstawiciele uczestników studiów doktoranckich wybrani na zasadach w trybie okreÊlonych wstatucie uczelni.”;
-- **13)** wart. 48 wust. 2 skreÊla drugie zdanie;
-- **14)** wart. 50 ust. 3 dodaje ust. 3awbrzmieniu: „3a. W sk∏ad rady wydzia∏u mogà tak˝e wchodziç przedstawiciele uczestników studiów doktoranckich wybrani na zasadach iwtrybie okreÊlonym wstatucie uczelni.”;
-- **15)** wart. 64 dodaje ust. 10 wbrzmieniu: dze decyzji, nakazuje likwidacj´ tej jednostki.”;
-- **16)** wart. 93 wust. 2 wpkt 1 i2 wyrazy „przez komisj´ lekarskà do spraw inwalidztwa zatrudnienia” zast´puje wyrazami „przez lekarza prowadzàcego badania okresowe lub kontrolne”;
-- **17)** wart. 94 wust. 1 wpkt 1 wyrazy „przez komisj´ lekarskà do spraw inwalidztwa izatrudnienia” zast´puje wyrazami „przez lekarza orzecznika w rozumieniu przepisów oemeryturach irentach zFunduszu Ubezpieczeƒ Spo∏ecznych” oraz wyrazy „badanie nauczyciela przez komisj´ lekarskà” zast´puje wyrazami „badanie nauczyciela przez lekarza”;
-- **18)** wart. 105 skreÊla ust. 2 i7;
-- **19)** skreÊla art. 106;
+- **11)** skreśla art. 44 i45;
+- **12)** wart. 47 ust. 2 dodaje ust. 2awbrzmieniu: Ń2a. W skład senatu mogą także wchodzić przedstawiciele uczestników studiów doktoranckich wybrani na zasadach w trybie określonych wstatucie uczelni.”;
+- **13)** wart. 48 wust. 2 skreśla drugie zdanie;
+- **14)** wart. 50 ust. 3 dodaje ust. 3awbrzmieniu: Ń3a. W skład rady wydziału mogą także wchodzić przedstawiciele uczestników studiów doktoranckich wybrani na zasadach iwtrybie określonym wstatucie uczelni.”;
+- **15)** wart. 64 dodaje ust. 10 wbrzmieniu: dze decyzji, nakazuje likwidację tej jednostki.”;
+- **16)** wart. 93 wust. 2 wpkt 1 i2 wyrazy Ńprzez komisję lekarską do spraw inwalidztwa zatrudnienia” zastępuje wyrazami Ńprzez lekarza prowadzącego badania okresowe lub kontrolne”;
+- **17)** wart. 94 wust. 1 wpkt 1 wyrazy Ńprzez komisję lekarską do spraw inwalidztwa izatrudnienia” zastępuje wyrazami Ńprzez lekarza orzecznika w rozumieniu przepisów oemeryturach irentach zFunduszu Ubezpieczeń Społecznych” oraz wyrazy Ńbadanie nauczyciela przez komisję lekarską” zastępuje wyrazami Ńbadanie nauczyciela przez lekarza”;
+- **18)** wart. 105 skreśla ust. 2 i7;
+- **19)** skreśla art. 106;
 - **20)** wart. 108:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Nauczycielowi akademickiemu przys∏uguje prawo do urlopu wypoczynkowego w wymiarze 36 dni roboczych w ciàgu roku. Tryb udzielania urlopów okreÊla senat uczelni, zuwzgl´dnieniem art. 163 Kodeksu pracy.”,
-    - **b)** w ust. 6 skreÊla kropk´ dodaje wyrazy „oraz, zgodnie ztymi zasadami, ekwiwalentu za okres niewykorzystanego urlopu.”;
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Nauczycielowi akademickiemu przysługuje prawo do urlopu wypoczynkowego w wymiarze 36 dni roboczych w ciągu roku. Tryb udzielania urlopów określa senat uczelni, zuwzględnieniem art. 163 Kodeksu pracy.”,
+    - **b)** w ust. 6 skreśla kropkę dodaje wyrazy Ńoraz, zgodnie ztymi zasadami, ekwiwalentu za okres niewykorzystanego urlopu.”;
 
-- **21)** skreÊla art. 116;
-- **22)** w dziale IV w rozdziale 6 dodaje art. 117a wbrzmieniu: „Art. 117a. 1. Warunki wynagradzania za prac´ przyznawania innych Êwiadczeƒ zwiàzanych zpracà dla pracowników zatrudnionych w uczelni paƒstwowej, do czasu obj´cia ich uk∏adem zbiorowym pracy lub regulaminem wynagradzania, okreÊli, w drodze rozporzàdzenia, minister w∏aÊciwy do spraw szkolnictwa wy˝szego, w porozumieniu z ministrem w∏aÊciwym do spraw pracy, ustalajàc wszczególnoÊci:
-- **1)** wysokoÊç minimalnej imaksymalnej stawki wynagrodzenia zasadniczego wodniesieniu do poszczególnych stanowisk oraz wysokoÊç warunki przyznawania innych sk∏adników wynagrodzenia, tak aby wysokoÊç przeci´tnego miesi´cznego wynagrodzenia wszkolnictwie wy˝szym, w poszczególnych grupach pracowników wrelacji do kwoty bazowej, okreÊlanej wustawie bud˝etowej dla pracowustaw (Dz. U. 110, poz. 1255 z 2000 r. 19, poz. 239), nie by∏a ni˝sza:
-    - **a)** od dnia 1 wrzeÊnia 2001 r.: wgrupie stanowisk profesorów od 294,3% w grupie stanowisk docentów, adiunktów starszych wyk∏adowców od 173,1% wgrupie stanowisk asystentów, wyk∏adowców, lektorów instruktorów od 104,8% w grupie pracowników nieb´dàcych nauczycielami akademickimi od 104,1% kwoty bazowej, okreÊlanej w ustawie bud˝etowej na 2001r.,
-    - **b)** od dnia 1 wrzeÊnia 2002 r.: wgrupie stanowisk profesorów od 343,1% w grupie stanowisk docentów, adiunktów starszych wyk∏adowców od 217,1% wgrupie stanowisk asystentów, wyk∏adowców, lektorów instruktorów od 117,7% w grupie pracowników nieb´dàcych nauczycielami akademickimi od 117,3% kwoty bazowej, okreÊlanej w ustawie bud˝etowej na 2002r.,
-    - **c)** od dnia 1 wrzeÊnia 2003 r.: wgrupie stanowisk profesorów od 391,8% w grupie stanowisk docentów, adiunktów starszych wyk∏adowców od 261,2% wgrupie stanowisk asystentów, wyk∏adowców, lektorów instruktorów od 130,6% w grupie pracowników nieb´dàcych nauczycielami akademickimi od 130,6% kwoty bazowej, okreÊlanej w ustawie bud˝etowej na 2003 r.,
+- **21)** skreśla art. 116;
+- **22)** w dziale IV w rozdziale 6 dodaje art. 117a wbrzmieniu: ŃArt. 117a. 1. Warunki wynagradzania za pracę przyznawania innych świadczeń związanych zpracą dla pracowników zatrudnionych w uczelni państwowej, do czasu objęcia ich układem zbiorowym pracy lub regulaminem wynagradzania, określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego, w porozumieniu z ministrem właściwym do spraw pracy, ustalając wszczególności:
+- **1)** wysokość minimalnej imaksymalnej stawki wynagrodzenia zasadniczego wodniesieniu do poszczególnych stanowisk oraz wysokość warunki przyznawania innych składników wynagrodzenia, tak aby wysokość przeciętnego miesięcznego wynagrodzenia wszkolnictwie wyższym, w poszczególnych grupach pracowników wrelacji do kwoty bazowej, określanej wustawie budżetowej dla pracowustaw (Dz. U. 110, poz. 1255 z 2000 r. 19, poz. 239), nie była niższa:
+    - **a)** od dnia 1 września 2001 r.: wgrupie stanowisk profesorów od 294,3% w grupie stanowisk docentów, adiunktów starszych wykładowców od 173,1% wgrupie stanowisk asystentów, wykładowców, lektorów instruktorów od 104,8% w grupie pracowników niebędących nauczycielami akademickimi od 104,1% kwoty bazowej, określanej w ustawie budżetowej na 2001r.,
+    - **b)** od dnia 1 września 2002 r.: wgrupie stanowisk profesorów od 343,1% w grupie stanowisk docentów, adiunktów starszych wykładowców od 217,1% wgrupie stanowisk asystentów, wykładowców, lektorów instruktorów od 117,7% w grupie pracowników niebędących nauczycielami akademickimi od 117,3% kwoty bazowej, określanej w ustawie budżetowej na 2002r.,
+    - **c)** od dnia 1 września 2003 r.: wgrupie stanowisk profesorów od 391,8% w grupie stanowisk docentów, adiunktów starszych wykładowców od 261,2% wgrupie stanowisk asystentów, wykładowców, lektorów instruktorów od 130,6% w grupie pracowników niebędących nauczycielami akademickimi od 130,6% kwoty bazowej, określanej w ustawie budżetowej na 2003 r.,
 
-- **2)** sk∏adniki wynagrodzenia, które wyp∏acane sà nauczycielowi akastosunek pracy, a nauczyciel akademicki zachowuje wyp∏acone za ten miesiàc wynagrodzenie,
-- **3)** wysokoÊç warunki ustalania wynagrodzenia za prowadzenie dzia∏alnoÊci, o której mowa w art. 100 ust. 2,
-- **4)** wykaz podstawowych stanowisk pracy wymagania kwalifikacyjne dla pracowników nieb´dàcych nauczycielami akademickimi.
+- **2)** składniki wynagrodzenia, które wypłacane są nauczycielowi akastosunek pracy, a nauczyciel akademicki zachowuje wypłacone za ten miesiąc wynagrodzenie,
+- **3)** wysokość warunki ustalania wynagrodzenia za prowadzenie działalności, o której mowa w art. 100 ust. 2,
+- **4)** wykaz podstawowych stanowisk pracy wymagania kwalifikacyjne dla pracowników niebędących nauczycielami akademickimi.
 
-2. Zdniem wejÊcia w˝ycie uk∏adu zbiorowego pracy lub regulaminu wynagradzania do pracowników uczelni obj´tych uk∏adem zbiorowym pracy lub regulaminem wynagrodzenia nie majà zastosowania przepisy rozporzàdzenia, októrym mowa wust. 1.
+2. Zdniem wejścia wżycie układu zbiorowego pracy lub regulaminu wynagradzania do pracowników uczelni objętych układem zbiorowym pracy lub regulaminem wynagrodzenia nie mają zastosowania przepisy rozporządzenia, októrym mowa wust. 1.
 
-3. Wynagrodzenie przys∏ugujàce rektorowi uczelni ustala w∏aÊciwy minister.
+3. Wynagrodzenie przysługujące rektorowi uczelni ustala właściwy minister.
 
-4. Wynagrodzenia rektorów, prorektorów, dyrektorów administracyjnych ikwestorów sà jawne inie podlegajà ochronie danych osobowych oraz tajemnicy handlowej.
+4. Wynagrodzenia rektorów, prorektorów, dyrektorów administracyjnych ikwestorów są jawne inie podlegają ochronie danych osobowych oraz tajemnicy handlowej.
 
-5. Senat uczelni mo˝e przeznaczyç dodatkowe Êrodki na zwi´kszenie wynagrodzeƒ, wtym tak˝e ponad wysokoÊç ustalonà na podstawie rozporzàdzenia, o którym mowa w ust. 1, je˝eli uczelnia posiada na ten cel Êrodki pochodzàce z innych êróde∏ ni˝ okreÊlone w art. 24 ust. 1 pkt 1, 1ai2. Zasady podzia∏u tych Êrodków sà ustalane z zachowaniem uprawnieƒ zwiàzków zawodowych.”;
+5. Senat uczelni może przeznaczyć dodatkowe środki na zwiększenie wynagrodzeń, wtym także ponad wysokość ustaloną na podstawie rozporządzenia, o którym mowa w ust. 1, jeżeli uczelnia posiada na ten cel środki pochodzące z innych êródeł niż określone w art. 24 ust. 1 pkt 1, 1ai2. Zasady podziału tych środków są ustalane z zachowaniem uprawnień związków zawodowych.”;
 
-- **23)** w art. 118 wyraz „inwalidzkà” zast´puje wyrazami „ztytu∏u niezdolnoÊci do pracy”;
-- **24)** wart. 119 ust. 2 otrzymuje brzmienie: „2. Minister w∏aÊciwy do spraw szkolnictwa wy˝szego okreÊli, wdrodze rozporzàdzenia, okresy pracy inne okresy uprawniajàce do nagrody jubileuszowej oraz zasady jej obliczania wyp∏acania, uwzgl´dniajàc wszczególnoÊci, ˝e:
-- **1)** pracownikowi pozostajàcemu jednoczeÊnie w wi´cej ni˝ jednym stosunku pracy okresy uprawniajàce do nagrody ustala odr´bnie dla ka˝dego stosunku pracy,
-- **2)** podstaw´ obliczenia nagrody stanowi wynagrodzenie przys∏ugujàce pracownikowi wdniu nabycia prawa do nagrody, aje˝eli dla pracownika jest to korzystniejsze, wynagrodzenie przys∏ugujàce mu w dniu jej wyp∏aty, przy czym uwzgl´dnia sk∏adniki wynagro4) w przypadku rozwiàzania stosunku pracy z powodu przejÊcia na emerytur´ lub rent´ ztytu∏u niezdolnoÊci do pracy nagrod´ t´ wyp∏aca wdniu rozwiàzania stosunku pracy, je˝eli do nabycia prawa do nagrody brakuje mniej ni˝ dwanaÊcie miesi´cy.”;
-- **25)** wart. 121 ust. 1 otrzymuje brzmienie: „1. Pracownikowi uczelni przys∏uguje dodatkowe wynagrodzenie roczne na zasadach okreÊlonych wodr´bnych przepisach .”;
-- **26)** art. 135 otrzymuje brzmienie: „Art. 135. Od prawomocnego orzeczenia dyscyplinarnego komisji dyscyplinarnej, októrej mowa w art. 129 ust. 1 pkt 2, s∏u˝y stronom odwo∏anie do Sàdu Apelacyjnego w Warszawie Sàdu Pracy Ubezpieczeƒ Spo∏ecznych. Do odwo∏ania stosuje przepisy Kodeksu post´powania cywilnego o apelacji. Od orzeczenia Sàdu Apelacyjnego nie s∏u˝y kasacja.”;
-- **27)** art. 161 otrzymuje brzmienie: „Art. 161. Do decyzji podj´tych przez organ uczelni w indywidualnych sprawach studenckich, a tak˝e w sprawach nadzoru nad dzia∏alnoÊcià uczelnianych organizacji studenckich oraz samorzàdu studenckiego stosuje odpowiednio przepisy Kodeksu post´powania administracyjnego przepisy o zaskar˝aniu decyzji do Naczelnego Sàdu Administracyjnego. Decyzje wydawane przez rektora w pierwszej instancji sà ostateczne.”;
-- **28)** wart. 171 dodaje ust. 3 wbrzmieniu: „3. Od prawomocnego orzeczenia dyscyplinarnego odwo∏awczej komisji dyscyplinarnej dla studentów s∏u˝y skarga do Naczelnego Sàdu Administracyjnego, na zasadach w trybie okreÊlonych w przepisach o Naczelnym Sàdzie Administracyjnym.”;
-- **29)** skreÊla art. 172;
-- **30)** wart. 178 wust.2 wyrazy „Ministrem Pracy iPolityki Socjalnej” zast´puje wyrazami „ministrem w∏aÊciwym do spraw pracy”;
-- **31)** u˝yty wustawie wró˝nych przypadkach wyraz „zezwolenie” zast´puje u˝ytym w odpowiednich przypadkach wyrazem „pozwolenie”;
-- **32)** u˝yte w ustawie w ró˝nych przypadkach wyrazy „Minister Edukacji Narodowej” zast´puje u˝ytymi wodpowiednich przypadkach wyrazami „minister w∏aÊciwy do spraw szkolnictwa wy˝szego”.
-- **1)** art. 4 dodaje art. 4awbrzmieniu: „Art. 4a. 1. Minister w∏aÊciwy do spraw szkolnictwa wy˝szego okreÊla, wdrodze rozporzàdzenia:
-- **1)** warunki, jakie powinna spe∏niaç uczelnia zawodowa, aby utworzyç iprowadziç kierunek lub specjalnoÊç zawodowà, uwzgl´dniajàc w szczególnoÊci proporcje nauczycieli akademickich do liczby studentów,
-- **2)** wymagania kadrowe niezb´dne do prowadzenia kierunku lub specjalnoÊci zawodowej, uwzgl´dniajàc liczb´ nauczycieli akademickich posiadajàcych tytu∏ naukowy profesora lub stopieƒ naukowy, zatrudnionych wpe∏nym wymiarze czasu pracy.
+- **23)** w art. 118 wyraz Ńinwalidzką” zastępuje wyrazami Ńztytułu niezdolności do pracy”;
+- **24)** wart. 119 ust. 2 otrzymuje brzmienie: Ń2. Minister właściwy do spraw szkolnictwa wyższego określi, wdrodze rozporządzenia, okresy pracy inne okresy uprawniające do nagrody jubileuszowej oraz zasady jej obliczania wypłacania, uwzględniając wszczególności, że:
+- **1)** pracownikowi pozostającemu jednocześnie w więcej niż jednym stosunku pracy okresy uprawniające do nagrody ustala odrębnie dla każdego stosunku pracy,
+- **2)** podstawę obliczenia nagrody stanowi wynagrodzenie przysługujące pracownikowi wdniu nabycia prawa do nagrody, ajeżeli dla pracownika jest to korzystniejsze, wynagrodzenie przysługujące mu w dniu jej wypłaty, przy czym uwzględnia składniki wynagro4) w przypadku rozwiązania stosunku pracy z powodu przejścia na emeryturę lub rentę ztytułu niezdolności do pracy nagrodę tę wypłaca wdniu rozwiązania stosunku pracy, jeżeli do nabycia prawa do nagrody brakuje mniej niż dwanaście miesięcy.”;
+- **25)** wart. 121 ust. 1 otrzymuje brzmienie: Ń1. Pracownikowi uczelni przysługuje dodatkowe wynagrodzenie roczne na zasadach określonych wodrębnych przepisach .”;
+- **26)** art. 135 otrzymuje brzmienie: ŃArt. 135. Od prawomocnego orzeczenia dyscyplinarnego komisji dyscyplinarnej, októrej mowa w art. 129 ust. 1 pkt 2, służy stronom odwołanie do Sądu Apelacyjnego w Warszawie Sądu Pracy Ubezpieczeń Społecznych. Do odwołania stosuje przepisy Kodeksu postępowania cywilnego o apelacji. Od orzeczenia Sądu Apelacyjnego nie służy kasacja.”;
+- **27)** art. 161 otrzymuje brzmienie: ŃArt. 161. Do decyzji podjętych przez organ uczelni w indywidualnych sprawach studenckich, a także w sprawach nadzoru nad działalnością uczelnianych organizacji studenckich oraz samorządu studenckiego stosuje odpowiednio przepisy Kodeksu postępowania administracyjnego przepisy o zaskarżaniu decyzji do Naczelnego Sądu Administracyjnego. Decyzje wydawane przez rektora w pierwszej instancji są ostateczne.”;
+- **28)** wart. 171 dodaje ust. 3 wbrzmieniu: Ń3. Od prawomocnego orzeczenia dyscyplinarnego odwoławczej komisji dyscyplinarnej dla studentów służy skarga do Naczelnego Sądu Administracyjnego, na zasadach w trybie określonych w przepisach o Naczelnym Sądzie Administracyjnym.”;
+- **29)** skreśla art. 172;
+- **30)** wart. 178 wust.2 wyrazy ŃMinistrem Pracy iPolityki Socjalnej” zastępuje wyrazami Ńministrem właściwym do spraw pracy”;
+- **31)** użyty wustawie wróżnych przypadkach wyraz Ńzezwolenie” zastępuje użytym w odpowiednich przypadkach wyrazem Ńpozwolenie”;
+- **32)** użyte w ustawie w różnych przypadkach wyrazy ŃMinister Edukacji Narodowej” zastępuje użytymi wodpowiednich przypadkach wyrazami Ńminister właściwy do spraw szkolnictwa wyższego”.
+- **1)** art. 4 dodaje art. 4awbrzmieniu: ŃArt. 4a. 1. Minister właściwy do spraw szkolnictwa wyższego określa, wdrodze rozporządzenia:
+- **1)** warunki, jakie powinna spełniać uczelnia zawodowa, aby utworzyć iprowadzić kierunek lub specjalność zawodową, uwzględniając w szczególności proporcje nauczycieli akademickich do liczby studentów,
+- **2)** wymagania kadrowe niezbędne do prowadzenia kierunku lub specjalności zawodowej, uwzględniając liczbę nauczycieli akademickich posiadających tytuł naukowy profesora lub stopień naukowy, zatrudnionych wpełnym wymiarze czasu pracy.
 
-2. Minister w∏aÊciwy do spraw szkolnictwa wy˝szego, w drodze decyzji administracyjnej, nadaje uczelni zawodowej uprawnienie do prowadzenia studiów wy˝szych na okreÊlonym kierunku lub specjalnoÊci zawodowej. Przy nadawaniu uprawnieƒ stosuje odpowiednio art. 4b ustawy o szkolnictwie wy˝szym.”;
+2. Minister właściwy do spraw szkolnictwa wyższego, w drodze decyzji administracyjnej, nadaje uczelni zawodowej uprawnienie do prowadzenia studiów wyższych na określonym kierunku lub specjalności zawodowej. Przy nadawaniu uprawnień stosuje odpowiednio art. 4b ustawy o szkolnictwie wyższym.”;
 
 - **2)** wart. 10:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Utworzenie, zniesienie ∏àczenie paƒstwowej uczelni zawodowej nast´puje na wniosek:
+    - **a)** ust. 2 otrzymuje brzmienie: Ń2. Utworzenie, zniesienie łączenie państwowej uczelni zawodowej następuje na wniosek:
 
-- **1)** ministra w∏aÊciwego do spraw szkolnictwa wy˝szego,
-- **2)** sejmiku województwa, w uzgodnieniu z ministrem w∏aÊciwym do spraw szkolnictwa wy˝szego, zaopiniowany przez Paƒstwowà Komisj´ Akredytacyjnà, powo∏anà na podstawie art.38 ustawy oszkolnictwie wy˝szym.”,
-    - **b)** ust. 2 dodaje ust. 2awbrzmieniu: „2a. Przepisy art. 38 ust. 2—4 ustawy oszkolnictwie wy˝szym stosuje odpowiednio.”;
+- **1)** ministra właściwego do spraw szkolnictwa wyższego,
+- **2)** sejmiku województwa, w uzgodnieniu z ministrem właściwym do spraw szkolnictwa wyższego, zaopiniowany przez Państwową Komisję Akredytacyjną, powołaną na podstawie art.38 ustawy oszkolnictwie wyższym.”,
+    - **b)** ust. 2 dodaje ust. 2awbrzmieniu: Ń2a. Przepisy art. 38 ust. 2—4 ustawy oszkolnictwie wyższym stosuje odpowiednio.”;
 
 - **3)** wart. 11:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Niepaƒstwowà uczelni´ zawodowà mo˝e za∏o˝yç osoba fizyczna lub osoba prawna, zwana dalej «za∏o˝ycielem», na podstawie pozwolenia udzielonego przez ministra w∏aÊciwego do spraw szkolnictwa wy˝szego, zasi´gni´ciu opinii Paƒstwowej Komisji Akredytacyjnej.”, „Art. 11a. 1. Niepaƒstwowa uczelnia zawodowa spe∏niajàca warunki do prowadzenia studiów na poziomie magisterskim okreÊlonych w przepisach ustawy oszkolnictwie wy˝szym mo˝e ubiegaç o przekszta∏cenie w uczelni´ dzia∏ajàcà na podstawie ustawy o szkolnictwie wy˝szym.
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Niepaństwową uczelnię zawodową może założyć osoba fizyczna lub osoba prawna, zwana dalej «założycielem», na podstawie pozwolenia udzielonego przez ministra właściwego do spraw szkolnictwa wyższego, zasięgnięciu opinii Państwowej Komisji Akredytacyjnej.”, ŃArt. 11a. 1. Niepaństwowa uczelnia zawodowa spełniająca warunki do prowadzenia studiów na poziomie magisterskim określonych w przepisach ustawy oszkolnictwie wyższym może ubiegać o przekształcenie w uczelnię działającą na podstawie ustawy o szkolnictwie wyższym.
 
-2. Do przekszta∏cenia, o którym mowa w ust. 1, stosuje odpowiednio art.15 i16 ustawy oszkolnictwie wy˝szym.”;
+2. Do przekształcenia, o którym mowa w ust. 1, stosuje odpowiednio art.15 i16 ustawy oszkolnictwie wyższym.”;
 
-- **5)** wart. 24 wust. 3 skreÊla wyrazy „iKomisji Akredytacyjnej Wy˝szego Szkolnictwa Zawodowego”;
+- **5)** wart. 24 wust. 3 skreśla wyrazy ŃiKomisji Akredytacyjnej Wyższego Szkolnictwa Zawodowego”;
 - **6)** wart. 27:
-    - **a)** wust. 3 wyrazy „Komisji Akredytacyjnej Wy˝szego Szkolnictwa Zawodowego” zast´puje wyrazami „Rady G∏ównej Szkolnictwa Wy˝szego”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Je˝eli uczelnia niepaƒstwowa prowadzi dzia∏alnoÊç niezgodnà z przepisami ustawy, statutem albo pozwoleniem, o którym mowa wart. 11 ust. 3, minister w∏aÊciwy do spraw szkolnictwa wy˝szego wzywa do usuni´cia tych niezgodnoÊci w oznaczonym terminie, awrazie ich nieusuni´cia mo˝e, uwzgl´dniajàc wszczególnoÊci rodzaj izakres stwierdzonych naruszeƒ, zawiesiç uprawnienia do prowadzenia studiów lub cofnàç pozwolenie, okreÊlajàc szczegó∏owe zasady kontynuowania kszta∏cenia przez studentów oraz przeprowadzania egzaminów dyplomowych.”,
-    - **c)** ust. 4 dodaje ust. 4a, 4bi4cwbrzmieniu: „4a. Je˝eli uczelnia niepaƒstwowa lub jej za∏o˝yciel ra˝àco naruszajà przepisy ustawy, statutu albo pozwolenie, o którym mowa wart. 11 ust. 3, minister w∏aÊciwy do spraw szkolnictwa wy˝szego podejmuje decyzj´ ocofni´ciu pozwolenia.
+    - **a)** wust. 3 wyrazy ŃKomisji Akredytacyjnej Wyższego Szkolnictwa Zawodowego” zastępuje wyrazami ŃRady Głównej Szkolnictwa Wyższego”,
+    - **b)** ust. 4 otrzymuje brzmienie: Ń4. Jeżeli uczelnia niepaństwowa prowadzi działalność niezgodną z przepisami ustawy, statutem albo pozwoleniem, o którym mowa wart. 11 ust. 3, minister właściwy do spraw szkolnictwa wyższego wzywa do usunięcia tych niezgodności w oznaczonym terminie, awrazie ich nieusunięcia może, uwzględniając wszczególności rodzaj izakres stwierdzonych naruszeń, zawiesić uprawnienia do prowadzenia studiów lub cofnąć pozwolenie, określając szczegółowe zasady kontynuowania kształcenia przez studentów oraz przeprowadzania egzaminów dyplomowych.”,
+    - **c)** ust. 4 dodaje ust. 4a, 4bi4cwbrzmieniu: Ń4a. Jeżeli uczelnia niepaństwowa lub jej założyciel rażąco naruszają przepisy ustawy, statutu albo pozwolenie, o którym mowa wart. 11 ust. 3, minister właściwy do spraw szkolnictwa wyższego podejmuje decyzję ocofnięciu pozwolenia.
 
-4b. W przypadku stwierdzenia, ˝e studia wy˝sze prowadzone sà bez pozwolenia, o którym mowa wart. 11 ust. 3, minister w∏aÊciwy do spraw szkolnictwa wy˝szego, wdrodze decyzji, zakazuje ich prowadzenia. Przepisy o post´powaniu egzekucyjnym w administracji stosuje odpowiednio.
+4b. W przypadku stwierdzenia, że studia wyższe prowadzone są bez pozwolenia, o którym mowa wart. 11 ust. 3, minister właściwy do spraw szkolnictwa wyższego, wdrodze decyzji, zakazuje ich prowadzenia. Przepisy o postępowaniu egzekucyjnym w administracji stosuje odpowiednio.
 
-4c. Minister w∏aÊciwy do spraw szkolnictwa wy˝szego og∏asza wwydawanym przez siebie dzienniku urz´dowym obwieszczenia o utworzeniu lub likwidacji uczelni niepaƒstwowych, a tak˝e informacje o zawieszeniu lub cofni´ciu uprawnieƒ do prowadzenia studiów.”,
+4c. Minister właściwy do spraw szkolnictwa wyższego ogłasza wwydawanym przez siebie dzienniku urzędowym obwieszczenia o utworzeniu lub likwidacji uczelni niepaństwowych, a także informacje o zawieszeniu lub cofnięciu uprawnień do prowadzenia studiów.”,
 
 - **d)** ust. 6 otrzymuje brzmienie: i30;
-- **8)** wart. 35 wpkt 10 kropk´ zast´puje przecinkiem idodaje pkt 11 wbrzmieniu: „11) przedstawianie ministrowi w∏aÊciwemu do spraw szkolnictwa wy˝szego kandydatów do Paƒstwowej Komisji Akredytacyjnej.”;
-- **9)** wart. 44 ust. 2 dodaje ust. 2awbrzmieniu: „2a. Uczelnia zawodowa mo˝e tworzyç zamiejscowe jednostki organizacyjne na zasadach w trybie okreÊlonych w ustawie o szkolnictwie wy˝szym.”;
-- **10)** wart. 59 skreÊla ust. 3 i4;
-- **11)** skreÊla art. 64;
-- **12)** w dziale V w rozdziale 4 dodaje art. 66a wbrzmieniu: „Art. 66a. 1. Warunki wynagradzania za prac´ przyznawania innych Êwiadczeƒ zwiàzanych z pracà dla pracowników zatrudnionych w paƒstwowej uczelni zawodowej, do czasu obj´cia ich uk∏adem zbiorowym pracy lub regulaminem wynagradzania, okreÊli, w drodze rozporzàdzenia, minister w∏aÊciwy do spraw szkolnictwa wy˝szego, w porozumieniu z ministrem w∏aÊciwym do spraw pracy, ustalajàc wszczególnoÊci:
-- **1)** wysokoÊç minimalnej maksymalnej stawki wynagrodzenia zasadniczego w odniesieniu do poszczególnych stanowisk oraz wysokoÊç warunki przyznawania innych sk∏adników wynagrodzenia, tak aby wysokoÊç przeci´tnego miesi´cznego wynagrodzenia w szkolnictwie wy˝szym, w poszczególnych grupach pracowników, w relacji do kwoty bazowej, okreÊlanej wustawie bud˝etowej dla pracowników wymienionych wart. 5 pkt 1 lit. a) ustawy z dnia 23 grudnia 1999 r. o kszta∏towaniu wynagrodzeƒ w paƒstwowej sferze bud˝etowej oraz o zmianie niektórych ustaw (Dz. U. 110, poz. 1255 iz2000r. 19, poz. 239), nie by∏a ni˝sza:
-    - **a)** od dnia 1 wrzeÊnia 2001 r.: w grupie stanowisk profesorów od 294,3% mickimi od 104,1% kwoty bazowej, okreÊlanej w ustawie bud˝etowej na 2001 r.,
-    - **b)** od dnia 1 wrzeÊnia 2002 r.: w grupie stanowisk profesorów od 343,1% w grupie stanowisk asystentów wyk∏adowców od 117,7% w grupie pracowników nieb´dàcych nauczycielami akademickimi od 117,3% kwoty bazowej, okreÊlanej wustawie bud˝etowej na 2002 r.,
-    - **c)** od dnia 1 wrzeÊnia 2003 r.: w grupie stanowisk profesorów od 391,8% w grupie stanowisk asystentów wyk∏adowców od 130,6% wgrupie pracowników nieb´dàcych nauczycielami akademickimi od 130,6% kwoty bazowej, okreÊlanej wustawie bud˝etowej na 2003 r.,
+- **8)** wart. 35 wpkt 10 kropkę zastępuje przecinkiem idodaje pkt 11 wbrzmieniu: Ń11) przedstawianie ministrowi właściwemu do spraw szkolnictwa wyższego kandydatów do Państwowej Komisji Akredytacyjnej.”;
+- **9)** wart. 44 ust. 2 dodaje ust. 2awbrzmieniu: Ń2a. Uczelnia zawodowa może tworzyć zamiejscowe jednostki organizacyjne na zasadach w trybie określonych w ustawie o szkolnictwie wyższym.”;
+- **10)** wart. 59 skreśla ust. 3 i4;
+- **11)** skreśla art. 64;
+- **12)** w dziale V w rozdziale 4 dodaje art. 66a wbrzmieniu: ŃArt. 66a. 1. Warunki wynagradzania za pracę przyznawania innych świadczeń związanych z pracą dla pracowników zatrudnionych w państwowej uczelni zawodowej, do czasu objęcia ich układem zbiorowym pracy lub regulaminem wynagradzania, określi, w drodze rozporządzenia, minister właściwy do spraw szkolnictwa wyższego, w porozumieniu z ministrem właściwym do spraw pracy, ustalając wszczególności:
+- **1)** wysokość minimalnej maksymalnej stawki wynagrodzenia zasadniczego w odniesieniu do poszczególnych stanowisk oraz wysokość warunki przyznawania innych składników wynagrodzenia, tak aby wysokość przeciętnego miesięcznego wynagrodzenia w szkolnictwie wyższym, w poszczególnych grupach pracowników, w relacji do kwoty bazowej, określanej wustawie budżetowej dla pracowników wymienionych wart. 5 pkt 1 lit. a) ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. 110, poz. 1255 iz2000r. 19, poz. 239), nie była niższa:
+    - **a)** od dnia 1 września 2001 r.: w grupie stanowisk profesorów od 294,3% mickimi od 104,1% kwoty bazowej, określanej w ustawie budżetowej na 2001 r.,
+    - **b)** od dnia 1 września 2002 r.: w grupie stanowisk profesorów od 343,1% w grupie stanowisk asystentów wykładowców od 117,7% w grupie pracowników niebędących nauczycielami akademickimi od 117,3% kwoty bazowej, określanej wustawie budżetowej na 2002 r.,
+    - **c)** od dnia 1 września 2003 r.: w grupie stanowisk profesorów od 391,8% w grupie stanowisk asystentów wykładowców od 130,6% wgrupie pracowników niebędących nauczycielami akademickimi od 130,6% kwoty bazowej, określanej wustawie budżetowej na 2003 r.,
 
-- **2)** sk∏adniki wynagrodzenia, które wyp∏acane sà miesi´cznie z góry, zuwzgl´dnieniem zasady, ˝e prawo do wyp∏acanego z góry wynagrodzenia wygasa z ostatnim dniem miesiàca, w którym usta∏ stosunek pracy, a nauczyciel akademicki zachowuje wyp∏acone za ten miesiàc wynagrodzenie,
-- **3)** wysokoÊç warunki ustalania wynagrodzenia za prowadzenie dzia∏alnoÊci, o której mowa w art. 100 ust. 2 ustawy o szkolnictwie wy˝szym,
-- **4)** wykaz podstawowych stanowisk pracy wymagania kwalifikacyjne dla pracowników nieb´dàcych nauczycielami akademickimi.
+- **2)** składniki wynagrodzenia, które wypłacane są miesięcznie z góry, zuwzględnieniem zasady, że prawo do wypłacanego z góry wynagrodzenia wygasa z ostatnim dniem miesiąca, w którym ustał stosunek pracy, a nauczyciel akademicki zachowuje wypłacone za ten miesiąc wynagrodzenie,
+- **3)** wysokość warunki ustalania wynagrodzenia za prowadzenie działalności, o której mowa w art. 100 ust. 2 ustawy o szkolnictwie wyższym,
+- **4)** wykaz podstawowych stanowisk pracy wymagania kwalifikacyjne dla pracowników niebędących nauczycielami akademickimi.
 
-2. Z dniem wejÊcia w ˝ycie uk∏adu zbiorowego pracy lub regulaminu wynagradzania do pracowników paƒstwowej uczelni zawodowej obj´tych uk∏adem zbiorowym pracy lub regulaminem wynagradzania nie majà zastosowania przepisy rozporzàdzenia, októrym mowa wust. 1.
+2. Z dniem wejścia w życie układu zbiorowego pracy lub regulaminu wynagradzania do pracowników państwowej uczelni zawodowej objętych układem zbiorowym pracy lub regulaminem wynagradzania nie mają zastosowania przepisy rozporządzenia, októrym mowa wust. 1.
 
-3. Wynagrodzenie przys∏ugujàce rektorowi ustala w∏aÊciwy minister.
+3. Wynagrodzenie przysługujące rektorowi ustala właściwy minister.
 
-4. Wynagrodzenia rektorów, prorektona zwi´kszenie wysokoÊci wynagrodzeƒ, w tym tak˝e ponad wysokoÊç ustalonà na podstawie rozporzàdzenia, o którym mowa w ust. 1, je˝eli uczelnia posiada na ten cel Êrodki pochodzàce z innych êróde∏ ni˝ okreÊlone wart. 23 ust. 1 oraz ust. 1a. Zasady podzia∏u tych Êrodków sà ustalane z zachowaniem uprawnieƒ zwiàzków zawodowych.”;
+4. Wynagrodzenia rektorów, prorektona zwiększenie wysokości wynagrodzeń, w tym także ponad wysokość ustaloną na podstawie rozporządzenia, o którym mowa w ust. 1, jeżeli uczelnia posiada na ten cel środki pochodzące z innych êródeł niż określone wart. 23 ust. 1 oraz ust. 1a. Zasady podziału tych środków są ustalane z zachowaniem uprawnień związków zawodowych.”;
 
 - **13)** wart. 67:
-    - **a)** skreÊla pkt 3,
-    - **b)** wpkt 5 kropk´ zast´puje przecinkiem idodaje wyrazy „oraz do dodatkowego wynagrodzenia rocznego na zasadach okreÊlonych wprzepisach odr´bnych.”;
+    - **a)** skreśla pkt 3,
+    - **b)** wpkt 5 kropkę zastępuje przecinkiem idodaje wyrazy Ńoraz do dodatkowego wynagrodzenia rocznego na zasadach określonych wprzepisach odrębnych.”;
 
-- **14)** wart. 91 skreÊla ust. 3;
-- **15)** u˝yty wustawie wró˝nych przypadkach wyraz „zezwolenie” zast´puje u˝ytym w odpowiednich przypadkach wyrazem „pozwolenie”;
-- **16)** u˝yte w ustawie w ró˝nych przypadkach wyrazy „Minister Edukacji Narodowej” zast´puje u˝ytymi wodpowiednich przypadkach wyrazami „minister w∏aÊciwy do spraw szkolnictwa wy˝szego”.
+- **14)** wart. 91 skreśla ust. 3;
+- **15)** użyty wustawie wróżnych przypadkach wyraz Ńzezwolenie” zastępuje użytym w odpowiednich przypadkach wyrazem Ńpozwolenie”;
+- **16)** użyte w ustawie w różnych przypadkach wyrazy ŃMinister Edukacji Narodowej” zastępuje użytymi wodpowiednich przypadkach wyrazami Ńminister właściwy do spraw szkolnictwa wyższego”.
 
-**Art. 3.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach rentach z Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. 162, poz. 1118, z1999 r. 38, poz. 360, 70, poz. 774, 72, poz. 801 802 iNr 106, poz.1215, z 2000 r. 2, poz. 26, 9, poz. 118, 19, poz. 238, 56, poz. 678 iNr 84, poz. 948 oraz z2001 r. 8, poz. 64 27, poz. 298) w art. 7 pkt 9 dodaje pkt 9ai9bwbrzmieniu: „9a) studiów doktoranckich aspirantury naukowej w wymiarze okreÊlonym w decyzji o ich utworzeniu, 9b) asystenckich studiów przygotowawczych,”.
+**Art. 3.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. 162, poz. 1118, z1999 r. 38, poz. 360, 70, poz. 774, 72, poz. 801 802 iNr 106, poz.1215, z 2000 r. 2, poz. 26, 9, poz. 118, 19, poz. 238, 56, poz. 678 iNr 84, poz. 948 oraz z2001 r. 8, poz. 64 27, poz. 298) w art. 7 pkt 9 dodaje pkt 9ai9bwbrzmieniu: Ń9a) studiów doktoranckich aspirantury naukowej w wymiarze określonym w decyzji o ich utworzeniu, 9b) asystenckich studiów przygotowawczych,”.
 
-**Art. 4.** Wustawie zdnia 23 grudnia 1999 r. okszta∏towaniu wynagrodzeƒ w paƒstwowej sferze bud˝etowej oraz o zmianie niektórych ustaw (Dz. U. 110, poz. 1255 z 2000 r. 19, poz. 239) w art. 9 w ust. 3 wpkt 3 wyrazy „art. 24 ust. 1 pkt 1 i2” zast´puje wyrazami „art. 24 ust. 1 pkt 1, 1ai2”.
+**Art. 4.** Wustawie zdnia 23 grudnia 1999 r. okształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. 110, poz. 1255 z 2000 r. 19, poz. 239) w art. 9 w ust. 3 wpkt 3 wyrazy Ńart. 24 ust. 1 pkt 1 i2” zastępuje wyrazami Ńart. 24 ust. 1 pkt 1, 1ai2”.
 
-**Art. 5.** Wustawie zdnia 3 marca 2000 r. owynagradzaniu osób kierujàcych niektórymi podmiotami prawnymi (Dz. U. 26, poz. 306) w art. 1 pkt 2 otrzymuje brzmienie: „2) paƒstwowych jednostek organizacyjnych posiadajàcych osobowoÊç prawnà, które nie sà jednoczeÊnie podmiotami, o których mowa wpkt 8, 9 i11, oraz nie sà szko∏ami wy˝szymi,”. oustroju sàdów powszechnych iustawy odzia∏ach administracji rzàdowej wzwiàzku zdostosowaniem do prawa Unii Europejskiej (Dz. U. 122, poz. 1314) art.17 otrzymuje brzmienie: „Art. 17. Ustawa wchodzi w˝ycie up∏ywie 14 dni od dnia og∏oszenia, zwyjàtkiem:
+**Art. 5.** Wustawie zdnia 3 marca 2000 r. owynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. 26, poz. 306) w art. 1 pkt 2 otrzymuje brzmienie: Ń2) państwowych jednostek organizacyjnych posiadających osobowość prawną, które nie są jednocześnie podmiotami, o których mowa wpkt 8, 9 i11, oraz nie są szkołami wyższymi,”. oustroju sądów powszechnych iustawy odziałach administracji rządowej wzwiązku zdostosowaniem do prawa Unii Europejskiej (Dz. U. 122, poz. 1314) art.17 otrzymuje brzmienie: ŃArt. 17. Ustawa wchodzi wżycie upływie 14 dni od dnia ogłoszenia, zwyjątkiem:
 
 **Art. 7.**
 
-1. Zdniem wejÊcia w˝ycie niniejszej ustawy Rada G∏ówna Szkolnictwa Wy˝szego staje Radà wrozumieniu przepisów tej ustawy, ztym ˝e wokresie do dnia 31 grudnia 2002 r. zachowuje dotychczasowy sk∏ad.
+1. Zdniem wejścia wżycie niniejszej ustawy Rada Główna Szkolnictwa Wyższego staje Radą wrozumieniu przepisów tej ustawy, ztym że wokresie do dnia 31 grudnia 2002 r. zachowuje dotychczasowy skład.
 
-2. Pierwszy sk∏ad Paƒstwowej Komisji Akredytacyjnej zostanie powo∏any z dniem 1 stycznia 2002 r. Wokresie od dnia wejÊcia w˝ycie ustawy do dnia powo∏ania Komisji Rada wykonuje tak˝e czynnoÊci, októrych mowa w art. 38 ust. 2 pkt 1 ustawy zmienianej wart. 1 niniejszej ustawy.
+2. Pierwszy skład Państwowej Komisji Akredytacyjnej zostanie powołany z dniem 1 stycznia 2002 r. Wokresie od dnia wejścia wżycie ustawy do dnia powołania Komisji Rada wykonuje także czynności, októrych mowa w art. 38 ust. 2 pkt 1 ustawy zmienianej wart. 1 niniejszej ustawy.
 
-3. Zdniem wejÊcia w˝ycie niniejszej ustawy organ przedstawicielski wy˝szego szkolnictwa artystycznego Rada Wy˝szego Szkolnictwa Artystycznego wykonuje wy∏àcznie funkcje wynikajàce z ustawy z dnia 12wrzeÊnia 1990 r. otytule naukowym istopniach naukowych (Dz. U. 65, poz. 386, z 1997 r. 43, poz.272 iz2000 r. 120, poz. 1268). Kadencja tej Rady up∏ywa zdniem 31 grudnia 2002 r. Do czasu zakoƒczenia kadencji Êrodki finansowe na dzia∏alnoÊç Rady zapewnia minister w∏aÊciwy do spraw kultury iochrony dziedzictwa narodowego.
+3. Zdniem wejścia wżycie niniejszej ustawy organ przedstawicielski wyższego szkolnictwa artystycznego Rada Wyższego Szkolnictwa Artystycznego wykonuje wyłącznie funkcje wynikające z ustawy z dnia 12września 1990 r. otytule naukowym istopniach naukowych (Dz. U. 65, poz. 386, z 1997 r. 43, poz.272 iz2000 r. 120, poz. 1268). Kadencja tej Rady upływa zdniem 31 grudnia 2002 r. Do czasu zakończenia kadencji środki finansowe na działalność Rady zapewnia minister właściwy do spraw kultury iochrony dziedzictwa narodowego.
 
 **Art. 8.**
 
-1. Do wniosków outworzenie wy˝szych szkó∏ niepaƒstwowych oraz do wniosków outworzenie iprowadzenie kierunków studiów lub specjalnoÊci albo o pozwolenie na prowadzenie studiów magisterskich, z∏o˝onych na zasadach w trybie okreÊlonych w ustawach zmienianych w art. 1 2 niniejszej ustawy, które uzyska∏y przed dniem wejÊcia w ˝ycie tej ustawy opinie odpowiednio Komisji Akredytacyjnej Wy˝szego Szkolnictwa Zawodowego lub Rady G∏ównej Szkolnictwa Wy˝szego, stosuje przepisy dotychczasowe.
+1. Do wniosków outworzenie wyższych szkół niepaństwowych oraz do wniosków outworzenie iprowadzenie kierunków studiów lub specjalności albo o pozwolenie na prowadzenie studiów magisterskich, złożonych na zasadach w trybie określonych w ustawach zmienianych w art. 1 2 niniejszej ustawy, które uzyskały przed dniem wejścia w życie tej ustawy opinie odpowiednio Komisji Akredytacyjnej Wyższego Szkolnictwa Zawodowego lub Rady Głównej Szkolnictwa Wyższego, stosuje przepisy dotychczasowe.
 
-2. Do wniosków, o których mowa w ust. 1, z∏o˝onych nierozpatrzonych odpowiednio przez Komisj´ Akredytacyjnà Wy˝szego Szkolnictwa Zawodowego lub Rad´ G∏ównà Szkolnictwa Wy˝szego przed dniem nych przed dniem wejÊcia w ˝ycie niniejszej ustawy, grodzeƒ wskaênikiem, o którym mowa w art. 6 ust. 2 stosuje dotychczasowe przepisy, chyba ˝e przepisy ustawy o kszta∏towaniu wynagrodzeƒ w paƒstwowej tej ustawy sà korzystniejsze dla obwinionego, z za- sferze bud˝etowej oraz o zmianie niektórych ustaw, strze˝eniem ust. 2 i3. stanowi wynagrodzenie zroku 2003, ∏àcznie zdodatkowym wynagrodzeniem rocznym bez zwi´kszeƒ, które
+2. Do wniosków, o których mowa w ust. 1, złożonych nierozpatrzonych odpowiednio przez Komisję Akredytacyjną Wyższego Szkolnictwa Zawodowego lub Radę Główną Szkolnictwa Wyższego przed dniem nych przed dniem wejścia w życie niniejszej ustawy, grodzeń wskaênikiem, o którym mowa w art. 6 ust. 2 stosuje dotychczasowe przepisy, chyba że przepisy ustawy o kształtowaniu wynagrodzeń w państwowej tej ustawy są korzystniejsze dla obwinionego, z za- sferze budżetowej oraz o zmianie niektórych ustaw, strzeżeniem ust. 2 i3. stanowi wynagrodzenie zroku 2003, łącznie zdodatkowym wynagrodzeniem rocznym bez zwiększeń, które
 
-2. Rewizje nadzwyczajne od prawomocnych orze- mogà wynikaç z przepisów wydanych na podstawie czeƒ dyscyplinarnych w sprawach dotyczàcych na- art. 9 ust. 3 pkt 1—4 wymienionej ustawy, powi´kszouczycieli akademickich istudentów, wniesione inieroz- ne oskutki podwy˝ki wynagrodzeƒ od dnia 1 wrzeÊnia patrzone do dnia wejÊcia w˝ycie niniejszej ustawy, nie 2003 r. podlegajà rozpoznaniu.
+2. Rewizje nadzwyczajne od prawomocnych orze- mogą wynikać z przepisów wydanych na podstawie czeń dyscyplinarnych w sprawach dotyczących na- art. 9 ust. 3 pkt 1—4 wymienionej ustawy, powiększouczycieli akademickich istudentów, wniesione inieroz- ne oskutki podwyżki wynagrodzeń od dnia 1 września patrzone do dnia wejścia wżycie niniejszej ustawy, nie 2003 r. podlegają rozpoznaniu.
 
-**Art. 11.** W∏aÊciwe organy szko∏y wy˝szej wokresie 3. Od orzeczeƒ, których dotyczy∏y rewizje nadzwy- roku od dnia wejÊcia w˝ycie niniejszej ustawy uchwaczajne, ukarany nauczyciel akademicki mo˝e wnieÊç là wymagane jej przepisami wewn´trzne akty normaodwo∏anie do Sàdu Apelacyjnego wWarszawie Sà- tywne. du Pracy iUbezpieczeƒ Spo∏ecznych, astudent skarg´ do Naczelnego Sàdu Administracyjnego, w termi- Art. 12. Do czasu wydania przepisów wykonawnie 30 dni od dnia wejÊcia w˝ycie niniejszej ustawy. czych na podstawie upowa˝nieƒ przewidzianych wustawach zmienianych wart. 1 i2 niniejszej ustawy,
+**Art. 11.** Właściwe organy szkoły wyższej wokresie 3. Od orzeczeń, których dotyczyły rewizje nadzwy- roku od dnia wejścia wżycie niniejszej ustawy uchwaczajne, ukarany nauczyciel akademicki może wnieść lą wymagane jej przepisami wewnętrzne akty normaodwołanie do Sądu Apelacyjnego wWarszawie Są- tywne. du Pracy iUbezpieczeń Społecznych, astudent skargę do Naczelnego Sądu Administracyjnego, w termi- Art. 12. Do czasu wydania przepisów wykonawnie 30 dni od dnia wejścia wżycie niniejszej ustawy. czych na podstawie upoważnień przewidzianych wustawach zmienianych wart. 1 i2 niniejszej ustawy,
 
 **Art. 10.**
 
-1. W 2001 r. Êrednioroczny wskaênik wzro- nie d∏u˝ej jednak ni˝ do dnia 30 czerwca 2002 r., pozostu wynagrodzeƒ pracowników paƒstwowych szkó∏ stajà w mocy przepisy dotychczasowych aktów wykowy˝szych mo˝e byç wy˝szy od wskaênika ustalonego wustawie bud˝etowej.
+1. W 2001 r. średnioroczny wskaênik wzro- nie dłużej jednak niż do dnia 30 czerwca 2002 r., pozostu wynagrodzeń pracowników państwowych szkół stają w mocy przepisy dotychczasowych aktów wykowyższych może być wyższy od wskaênika ustalonego wustawie budżetowej.
 
-2. W latach 2002—2003 nie stosuje art. 6 ust. 2 oraz art. 8 ustawy zdnia 23 grudnia 1999 r. okszta∏towaniu wynagrodzeƒ wpaƒstwowej sferze bud˝etowej oraz o zmianie niektórych ustaw (Dz. U. 110, poz. 1255, z2000 r. 19, poz. 239 iz2001 r.Nr 85, poz. 924), wodniesieniu do pracowników paƒstwowych szkó∏ wy˝szych. Podwy˝szenie wynagrodzeƒ nast´puje w terminach okreÊlonych w art. 117a ust. 1 ustawy zmienianej w art. 1 niniejszej ustawy oraz w art. 66a ust. 1 ustawy zmienianej wart. 2 niniejszej ustawy. nawczych, je˝eli nie sà sprzeczne zustawami zmienianymi wart. 1 i2.
+2. W latach 2002—2003 nie stosuje art. 6 ust. 2 oraz art. 8 ustawy zdnia 23 grudnia 1999 r. okształtowaniu wynagrodzeń wpaństwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. 110, poz. 1255, z2000 r. 19, poz. 239 iz2001 r.Nr 85, poz. 924), wodniesieniu do pracowników państwowych szkół wyższych. Podwyższenie wynagrodzeń następuje w terminach określonych w art. 117a ust. 1 ustawy zmienianej w art. 1 niniejszej ustawy oraz w art. 66a ust. 1 ustawy zmienianej wart. 2 niniejszej ustawy. nawczych, jeżeli nie są sprzeczne zustawami zmienianymi wart. 1 i2.
 
-**Art. 13.** Ustawa wchodzi w˝ycie up∏ywie 14 dni od dnia og∏oszenia, zwyjàtkiem:
+**Art. 13.** Ustawa wchodzi wżycie upływie 14 dni od dnia ogłoszenia, zwyjątkiem:
 
-**Art. 1.** Wustawie zdnia 4 wrzeÊnia 1997 r. odyscy- 2) wart. 3: plinie wojskowej (Dz. U. 141, poz. 944 160, poz.1083 oraz z2000 r. 48, poz. 553) wprowadza a) pkt 2 otrzymuje brzmienie: nast´pujàce zmiany: „2) prze∏o˝ony ˝o∏nierza lub osob´ nieb´dàcà ˝o∏nierzem, którym na mocy przepisu prawa,
+**Art. 1.** Wustawie zdnia 4 września 1997 r. odyscy- 2) wart. 3: plinie wojskowej (Dz. U. 141, poz. 944 160, poz.1083 oraz z2000 r. 48, poz. 553) wprowadza a) pkt 2 otrzymuje brzmienie: następujące zmiany: Ń2) przełożony żołnierza lub osobę niebędącą żołnierzem, którym na mocy przepisu prawa,
 

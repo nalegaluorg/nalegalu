@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Trybuna∏ Konstytucyjny w sk∏adzie: Wojciech Hermeliƒski przewodniczàcy, Miros∏aw Granat, Marian Grzybowski, Ewa ¸´towska sprawozdawca, Marek Mazurkiewicz, po rozpoznaniu, z udzia∏em skar˝àcej oraz Sejmu iProkuratora Generalnego, na rozprawie wdniu 1 lipca 2008 r., skargi konstytucyjnej El˝biety Chrostowskiej o zbadanie zgodnoÊci:
+# Trybunał Konstytucyjny w składzie: Wojciech Hermeliński przewodniczący, Mirosław Granat, Marian Grzybowski, Ewa Ęętowska sprawozdawca, Marek Mazurkiewicz, po rozpoznaniu, z udziałem skarżącej oraz Sejmu iProkuratora Generalnego, na rozprawie wdniu 1 lipca 2008 r., skargi konstytucyjnej Elżbiety Chrostowskiej o zbadanie zgodności:
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081200779) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/779/text.pdf) |
 
-1) art. 398 § 2 i3 wzwiàzku zart. 398
-2) art. 398 § 1 pkt 3 ustawy z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), w brzmieniu nadanym ustawà z dnia 22 grudnia 2004 r. o zmianie ustawy Kodeks post´powania cywilnego oraz ustawy Prawo o ustroju sàdów powszechnych (Dz. U. z 2005 r. Nr 13, poz. 98), wzakresie, wjakim wprowadzajà niedopuszczalne ograniczenia w zakresie korzystania z konstytucyjnych wolnoÊci i praw, skutkujàce pozbawieniem skar˝àcej prawa do sàdu, przez wprowadzenie sankcji z tytu∏u niedope∏nienia wymogów formalnych wniesienia skargi kasacyjnej nieproporcjonalnych w stosunku do celu regulacji, z art. 45 ust. 1 oraz art. 31 ust. 3 w zwiàzku z art. 45 ust. 1 i art. 2 Konstytucji, § 1 pkt 3 ustawy z dnia 17 listopada 1964r. powo∏anej w punkcie 1, w brzmieniu nadanym ustawà z dnia 22 grudnia 2004 r. powo∏anà w punkcie 1, w zakresie, w jakim wprowadza niedopuszczalne ograniczenia w zakresie korzystania z konstytucyjnych wolnoÊci i praw, skutkujàce pozbawieniem skar˝àcej prawa do sàdu, przez wprowadzenie nadmiernych wymogów formalnych wniesienia skargi kasacyjnej, nieuzasadnionych w stosunku do celu regulacji, z art. 45 ust. 1 oraz art. 31 ust. 3 w zwiàzku z art. 45 ust. 1 i art. 2 Konstytucji, orzeka:
-1. Art. 398 4 § 1 pkt 3 ustawy z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U.
-Nr 43, poz. 296, ze zm.) jest zgodny z art. 45 ust. 1 wzwiàzku zart. 31 ust. 3 iart. 2 Konstytucji Rzeczypospolitej Polskiej.
-2. Art. 398 6 § 2 i 3 w zwiàzku z art. 398 § 1 pkt 3 ustawy powo∏anej w punkcie 1 w zakresie, w jakim przewiduje odrzucenie bez wezwania do usuni´cia braków skargi kasacyjnej niespe∏niajàcej wymagaƒ okreÊlonych w art. 398 § 1 pkt 3 powo∏anej ustawy, jest niezgodny z art. 45 ust. 1 w zwiàzku z art. 31 ust. 3 i art. 2 Konstytucji.
-Wojciech Hermeliƒski Miros∏aw Granat Marian Grzybowski Ewa ¸´towska Marek Mazurkiewicz 779 WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 1 lipca 2008 r.
+1) art. 398 § 2 i3 wzwiązku zart. 398
+2) art. 398 § 1 pkt 3 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, ze zm.), w brzmieniu nadanym ustawą z dnia 22 grudnia 2004 r. o zmianie ustawy Kodeks postępowania cywilnego oraz ustawy Prawo o ustroju sądów powszechnych (Dz. U. z 2005 r. Nr 13, poz. 98), wzakresie, wjakim wprowadzają niedopuszczalne ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw, skutkujące pozbawieniem skarżącej prawa do sądu, przez wprowadzenie sankcji z tytułu niedopełnienia wymogów formalnych wniesienia skargi kasacyjnej nieproporcjonalnych w stosunku do celu regulacji, z art. 45 ust. 1 oraz art. 31 ust. 3 w związku z art. 45 ust. 1 i art. 2 Konstytucji, § 1 pkt 3 ustawy z dnia 17 listopada 1964r. powołanej w punkcie 1, w brzmieniu nadanym ustawą z dnia 22 grudnia 2004 r. powołaną w punkcie 1, w zakresie, w jakim wprowadza niedopuszczalne ograniczenia w zakresie korzystania z konstytucyjnych wolności i praw, skutkujące pozbawieniem skarżącej prawa do sądu, przez wprowadzenie nadmiernych wymogów formalnych wniesienia skargi kasacyjnej, nieuzasadnionych w stosunku do celu regulacji, z art. 45 ust. 1 oraz art. 31 ust. 3 w związku z art. 45 ust. 1 i art. 2 Konstytucji, orzeka:
+1. Art. 398 4 § 1 pkt 3 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U.
+Nr 43, poz. 296, ze zm.) jest zgodny z art. 45 ust. 1 wzwiązku zart. 31 ust. 3 iart. 2 Konstytucji Rzeczypospolitej Polskiej.
+2. Art. 398 6 § 2 i 3 w związku z art. 398 § 1 pkt 3 ustawy powołanej w punkcie 1 w zakresie, w jakim przewiduje odrzucenie bez wezwania do usunięcia braków skargi kasacyjnej niespełniającej wymagań określonych w art. 398 § 1 pkt 3 powołanej ustawy, jest niezgodny z art. 45 ust. 1 w związku z art. 31 ust. 3 i art. 2 Konstytucji.
+Wojciech Hermeliński Mirosław Granat Marian Grzybowski Ewa Ęętowska Marek Mazurkiewicz 779 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 1 lipca 2008 r.
 sygn. akt SK 40/07
 

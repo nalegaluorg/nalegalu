@@ -24,5 +24,5 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042772742) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2742/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji (Dz. U. z 2002 r. 7, poz. 58, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji (Dz. U. z 2002 r. 7, poz. 58, z póên. zm. ) wprowadza się następujące zmiany:
 

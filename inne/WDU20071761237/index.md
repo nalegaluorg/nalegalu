@@ -24,9 +24,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071761237) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1237/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 5lipca 1996 ozawodach piel´gniarki ipo∏o˝nej (Dz. U. z2001 57, 602, z póên. zm. ) wprowadza nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 5lipca 1996 ozawodach pielęgniarki ipołożnej (Dz. U. z2001 57, 602, z póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 3.** Wustawie zdnia 20 kwietnia 2004 ozmianie o zawodach piel´gniarki po∏o˝nej niektórych innych ustaw (Dz. U. 92, 885) art.11 ust. 3 4 otrzymujà brzmienie: „3. Studia, o których mowa ust. 1, sà prowadzone systemie stacjonarnym lub niestacjonarnym. TreÊci programowe studiów realizowanych wsystemie stacjonarnym iniestacjonarnym sà takie same, przy czym czas trwania studiów prowadzonych systemie niestacjonarnym nie mo˝e byç krótszy ni˝ czas trwania studiów prowadzonych wsystemie stacjonarnym. 4. Dokumentem potwierdzajàcym posiadanie kwalifikacji absolwenta studiów, o których mowa ust. 1, na kierunku piel´gniarstwo jest dyplom licencjata piel´gniarstwa, astudiów na kierunku po∏o˝nictwo dyplom licencjata po∏o˝nictwa.”.
+**Art. 3.** Wustawie zdnia 20 kwietnia 2004 ozmianie o zawodach pielęgniarki położnej niektórych innych ustaw (Dz. U. 92, 885) art.11 ust. 3 4 otrzymują brzmienie: Ń3. Studia, o których mowa ust. 1, są prowadzone systemie stacjonarnym lub niestacjonarnym. Treści programowe studiów realizowanych wsystemie stacjonarnym iniestacjonarnym są takie same, przy czym czas trwania studiów prowadzonych systemie niestacjonarnym nie może być krótszy niż czas trwania studiów prowadzonych wsystemie stacjonarnym. 4. Dokumentem potwierdzającym posiadanie kwalifikacji absolwenta studiów, o których mowa ust. 1, na kierunku pielęgniarstwo jest dyplom licencjata pielęgniarstwa, astudiów na kierunku położnictwo dyplom licencjata położnictwa.”.
 
-**Art. 4.** Post´powania wszcz´te niezakoƒczone przed dniem wejÊcia ˝ycie niniejszej toczà na podstawie przepisów dotychczasowych.
+**Art. 4.** Postępowania wszczęte niezakończone przed dniem wejścia życie niniejszej toczą na podstawie przepisów dotychczasowych.
 

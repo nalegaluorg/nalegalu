@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 wrzeÊnia 2004 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 września 2004 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,1360 +24,1383 @@ domain: null
 | Ostatnia zmiana | 2026-04-21 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042102135) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2135/text.pdf) |
 
-DZIA¸ I 1) warunki udzielania izakres Êwiadczeƒ opieki zdroPrzepisy ogólne wotnej finansowanych ze Êrodków publicznych;
-Rozdzia∏ 1 2) zasady i tryb finansowania Êwiadczeƒ, o których mowa w pkt 1;
-Zakres przedmiotowy i podmiotowy oraz objaÊnienia okreÊleƒ ustawowych 3) zadania w∏adz publicznych w zakresie zapewnienia równego dost´pu do Êwiadczeƒ, o których
+DZIAĘ I 1) warunki udzielania izakres świadczeń opieki zdroPrzepisy ogólne wotnej finansowanych ze środków publicznych;
+Zakres przedmiotowy i podmiotowy oraz objaśnienia określeń ustawowych 3) zadania władz publicznych w zakresie zapewnienia równego dostępu do świadczeń, o których
+1) tworzenie warunków funkcjonowania systemu ochrony zdrowia;
+2) analizę i ocenę potrzeb zdrowotnych oraz czynników powodujących ich zmiany;
+3) promocję zdrowia i profilaktykę, mające na celu tworzenie warunków sprzyjających zdrowiu;
+4) finansowanie w trybie i na zasadach określonych ustawą świadczeń opieki zdrowotnej.
 
-**Art. 1.** Ustawa okreÊla: mowa w pkt 1; USTAWA z dnia 27 sierpnia 2004 r. o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych
+#### Rozdział 1 2) zasady i tryb finansowania świadczeń, o których mowa w pkt 1;
+
+**Art. 1.** Ustawa określa: mowa w pkt 1; USTAWA z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych
 
 **Art. 2.**
 
-1. Do korzystania ze Êwiadczeƒ opieki zdrowotnej finansowanych ze Êrodków publicznych na zasadach okreÊlonych w ustawie majà prawo:
+1. Do korzystania ze świadczeń opieki zdrowotnej finansowanych ze środków publicznych na zasadach określonych w ustawie mają prawo:
 
-- **1)** osoby obj´te powszechnym obowiàzkowym i dobrowolnym ubezpieczeniem zdrowotnym, zwane dalej „ubezpieczonymi”,
-- **2)** inne, ni˝ ubezpieczeni, osoby posiadajàce obywatelstwo polskie i posiadajàce miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, które spe∏niajà kryterium dochodowe, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy spo∏ecznej (Dz. U. 64, poz. 593 i 99, poz.1001), co do których nie stwierdzono okolicznoÊci, októrej mowa wart. 12 tej ustawy, na zasadach iwzakresie okreÊlonych dla ubezpieczonych zwane dalej „Êwiadczeniobiorcami”.
+- **1)** osoby objęte powszechnym obowiązkowym i dobrowolnym ubezpieczeniem zdrowotnym, zwane dalej Ńubezpieczonymi”,
+- **2)** inne, niż ubezpieczeni, osoby posiadające obywatelstwo polskie i posiadające miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, które spełniają kryterium dochodowe, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. 64, poz. 593 i 99, poz.1001), co do których nie stwierdzono okoliczności, októrej mowa wart. 12 tej ustawy, na zasadach iwzakresie określonych dla ubezpieczonych zwane dalej Ńświadczeniobiorcami”.
 
-2. Osobom nieposiadajàcym obywatelstwa polskiego, innym ni˝ Êwiadczeniobiorcy, Êwiadczenia zdrowotne udzielane sà na zasadach okreÊlonych w przepisach odr´bnych i umowach mi´dzynarodowych.
+2. Osobom nieposiadającym obywatelstwa polskiego, innym niż świadczeniobiorcy, świadczenia zdrowotne udzielane są na zasadach określonych w przepisach odrębnych i umowach międzynarodowych.
 
 **Art. 3.**
 
-1. Ubezpieczonymi sà:
+1. Ubezpieczonymi są:
 
-- **1)** osoby posiadajàce obywatelstwo paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym zamieszkujàce na terytorium paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony
-- **2)** osoby nieposiadajàce obywatelstwa paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym przebywajàce na terytorium Rzeczypospolitej Polskiej na podstawie wizy pobytowej w celu wykonywania pracy, zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie si´, zgody na pobyt tolerowany lub posiadajàce status uchodêcy nadany w Rzeczypospolitej Polskiej albo korzystajàce z ochrony czasowej na jej terytorium,
-- **3)** osoby nieposiadajàce obywatelstwa paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym legalnie zamieszkujàce na terytorium innego ni˝ Rzeczpospolita Polska paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym je˝eli podlegajà zgodnie z art. 66 obowiàzkowi umowy o Europejskim Obszarze Gospodarczym, ubezpieczenia zdrowotnego albo ubezpieczajà si´ dobrowolnie na zasadach okreÊlonych w art. 68;
-- **4)** osoby posiadajàce obywatelstwo paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym niezamieszkujàce na terytorium paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia oWolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, je˝eli podlegajà obowiàzkowi ubezpieczenia zdrowotnego na terytorium Rzeczypospolitej Polskiej i sà obj´te:
-    - **a)** ubezpieczeniami emerytalnym i rentowymi na podstawie przepisów ustawy zdnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych (Dz. U. 137, poz. 887, z póên. zm. ),
-    - **b)** ubezpieczeniem spo∏ecznym rolników na podstawie przepisów ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu spo∏ecznym rolników (Dz. U. z 1998 r. 7, poz. 25, z póên. zm. ).
+- **1)** osoby posiadające obywatelstwo państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym zamieszkujące na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony
+- **2)** osoby nieposiadające obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym przebywające na terytorium Rzeczypospolitej Polskiej na podstawie wizy pobytowej w celu wykonywania pracy, zezwolenia na zamieszkanie na czas oznaczony, zezwolenia na osiedlenie się, zgody na pobyt tolerowany lub posiadające status uchodêcy nadany w Rzeczypospolitej Polskiej albo korzystające z ochrony czasowej na jej terytorium,
+- **3)** osoby nieposiadające obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym legalnie zamieszkujące na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym jeżeli podlegają zgodnie z art. 66 obowiązkowi umowy o Europejskim Obszarze Gospodarczym, ubezpieczenia zdrowotnego albo ubezpieczają się dobrowolnie na zasadach określonych w art. 68;
+- **4)** osoby posiadające obywatelstwo państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym niezamieszkujące na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia oWolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, jeżeli podlegają obowiązkowi ubezpieczenia zdrowotnego na terytorium Rzeczypospolitej Polskiej i są objęte:
+    - **a)** ubezpieczeniami emerytalnym i rentowymi na podstawie przepisów ustawy zdnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 137, poz. 887, z póên. zm. ),
+    - **b)** ubezpieczeniem społecznym rolników na podstawie przepisów ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników (Dz. U. z 1998 r. 7, poz. 25, z póên. zm. ).
 
-2. Ubezpieczonymi sà tak˝e:
+2. Ubezpieczonymi są także:
 
-- **1)** studenci i uczestnicy studiów doktoranckich, którzy studiujà w Rzeczypospolitej Polskiej, oraz absolwenci, którzy odbywajà wRzeczypospolitej Polskiej obowiàzkowy sta˝, nieposiadajàcy obywatelstwa paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia oWolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym i nieb´dàcy osobami, o których mowa w ust. 1 pkt 3,
-- **2)** cz∏onkowie zakonów oraz alumni wy˝szych seminariów duchownych i teologicznych, postulanci, nowicjusze ijunioryÊci zakonów iich odpowiednicy nieposiadajàcy obywatelstwa paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym i nieb´dàcy osobami, o których mowa w ust. 1 pkt 3, a przebywajàcy na terytorium Rzeczypospolitej Polskiej na podstawie wizy, zezwolenia na osiedlenie si´ lub zezwolenia na zamieszkanie na czas oznaczony,
-- **3)** odbywajàcy sta˝ adaptacyjny,
-- **4)** odbywajàcy kursy j´zyka polskiego oraz kursy przygotowawcze do podj´cia nauki w j´zyku polskim, októrych mowa wprzepisach oszkolnictwie wy˝szym, nieposiadajàcy obywatelstwa paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym i nieb´dàcy osobami, o których mowa w ust. 1 pkt 3 je˝eli ubezpieczajà si´ dobrowolnie na zasadach okreÊlonych w art. 68,
-- **5)** cz∏onkowie rodzin osób, o których mowa w ust. 1 pkt 1 i 3, zamieszkujàcy na terytorium paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, je˝eli nie sà osobami podlegajàcymi obowiàzkowi ubezpieczenia zdrowotnego, októrych mowa wart. 66 ust. 1, z zastrze˝eniem art. 66 ust. 2 i 3, ani nie sà osobami uprawnionymi do Êwiadczeƒ opieki zdrowotnej na podstawie przepisów o koordynacji,
-- **6)** cz∏onkowie rodzin osób, o których mowa w ust. 1 pkt 2, zamieszkujàcy na terytorium Rzeczypospolitej Polskiej, je˝eli nie sà osobami podlegajàcymi obowiàzkowi ubezpieczenia zdrowotnego, o których mowa wart. 66 ust. 1, zzastrze˝eniem art. 66 ust. 2 i 3.
+- **1)** studenci i uczestnicy studiów doktoranckich, którzy studiują w Rzeczypospolitej Polskiej, oraz absolwenci, którzy odbywają wRzeczypospolitej Polskiej obowiązkowy staż, nieposiadający obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia oWolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym i niebędący osobami, o których mowa w ust. 1 pkt 3,
+- **2)** członkowie zakonów oraz alumni wyższych seminariów duchownych i teologicznych, postulanci, nowicjusze ijunioryści zakonów iich odpowiednicy nieposiadający obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym i niebędący osobami, o których mowa w ust. 1 pkt 3, a przebywający na terytorium Rzeczypospolitej Polskiej na podstawie wizy, zezwolenia na osiedlenie się lub zezwolenia na zamieszkanie na czas oznaczony,
+- **3)** odbywający staż adaptacyjny,
+- **4)** odbywający kursy języka polskiego oraz kursy przygotowawcze do podjęcia nauki w języku polskim, októrych mowa wprzepisach oszkolnictwie wyższym, nieposiadający obywatelstwa państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym i niebędący osobami, o których mowa w ust. 1 pkt 3 jeżeli ubezpieczają się dobrowolnie na zasadach określonych w art. 68,
+- **5)** członkowie rodzin osób, o których mowa w ust. 1 pkt 1 i 3, zamieszkujący na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, jeżeli nie są osobami podlegającymi obowiązkowi ubezpieczenia zdrowotnego, októrych mowa wart. 66 ust. 1, z zastrzeżeniem art. 66 ust. 2 i 3, ani nie są osobami uprawnionymi do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji,
+- **6)** członkowie rodzin osób, o których mowa w ust. 1 pkt 2, zamieszkujący na terytorium Rzeczypospolitej Polskiej, jeżeli nie są osobami podlegającymi obowiązkowi ubezpieczenia zdrowotnego, o których mowa wart. 66 ust. 1, zzastrzeżeniem art. 66 ust. 2 i 3.
 
-**Art. 4.** Ubezpieczeniu nie podlegajà, z zastrze˝eniem art. 3, cudzoziemcy przebywajàcy na terytorium Rzeczypospolitej Polskiej, w tym cudzoziemcy zatrudnieni w obcych przedstawicielstwach dyplomatycznych, urz´dach konsularnych, misjach, misjach specjalnych lub mi´dzynarodowych instytucjach, chyba ˝e umowy mi´dzynarodowe ratyfikowane przez RzeczArt. 5. U˝yte w ustawie okreÊlenia oznaczajà:
+**Art. 4.** Ubezpieczeniu nie podlegają, z zastrzeżeniem art. 3, cudzoziemcy przebywający na terytorium Rzeczypospolitej Polskiej, w tym cudzoziemcy zatrudnieni w obcych przedstawicielstwach dyplomatycznych, urzędach konsularnych, misjach, misjach specjalnych lub międzynarodowych instytucjach, chyba że umowy międzynarodowe ratyfikowane przez RzeczArt. 5. Użyte w ustawie określenia oznaczają:
+
+#### Rozdział 2 Zadania władz publicznych
 
 **Art. 7.**
 
-1. Do zadaƒ w∏asnych gminy w zakresie zapewnienia równego dost´pu do Êwiadczeƒ opieki zdrowotnej nale˝y w szczególnoÊci:
+1. Do zadań własnych gminy w zakresie zapewnienia równego dostępu do świadczeń opieki zdrowotnej należy w szczególności:
 
-- **1)** opracowywanie i realizacja oraz ocena efektów programów zdrowotnych wynikajàcych z rozpoznanych potrzeb zdrowotnych i stanu zdrowia mieszkaƒców gminy;
+- **1)** opracowywanie i realizacja oraz ocena efektów programów zdrowotnych wynikających z rozpoznanych potrzeb zdrowotnych i stanu zdrowia mieszkańców gminy;
 - **2)** przekazywanie powiatowi informacji o realizowanych programach zdrowotnych;
 
-**Art. 6.** Zadania w∏adz publicznych w zakresie zapewnienia równego dost´pu do Êwiadczeƒ opieki zdrowotnej obejmujà w szczególnoÊci:
+**Art. 6.** Zadania władz publicznych w zakresie zapewnienia równego dostępu do świadczeń opieki zdrowotnej obejmują w szczególności:
 
-**Art. 8.** Do zadaƒ w∏asnych wzakresie zapewnienia równego dost´pu do Êwiadczeƒ opieki zdrowotnej realizowanych przez powiat nale˝y w szczególnoÊci:
+**Art. 8.** Do zadań własnych wzakresie zapewnienia równego dostępu do świadczeń opieki zdrowotnej realizowanych przez powiat należy w szczególności:
 
-**Art. 9.** Do zadaƒ w∏asnych wzakresie zapewnienia równego dost´pu do Êwiadczeƒ opieki zdrowotnej realizowanych przez samorzàd województwa nale˝y w szczególnoÊci:
+**Art. 9.** Do zadań własnych wzakresie zapewnienia równego dostępu do świadczeń opieki zdrowotnej realizowanych przez samorząd województwa należy w szczególności:
 
-**Art. 10.** Do zadaƒ wojewody w zakresie zapewnienia równego dost´pu do Êwiadczeƒ opieki zdrowotnej nale˝y w szczególnoÊci:
+**Art. 10.** Do zadań wojewody w zakresie zapewnienia równego dostępu do świadczeń opieki zdrowotnej należy w szczególności:
 
 **Art. 11.**
 
-1. Do zadaƒ ministra w∏aÊciwego do spraw zdrowia wzakresie obj´tym ustawà nale˝y wszczególnoÊci:
+1. Do zadań ministra właściwego do spraw zdrowia wzakresie objętym ustawą należy wszczególności:
 
-- **1)** prowadzenie oraz wspó∏uczestniczenie w prowadzeniu edukacji w zakresie zapobiegania i rozwiàzywania problemów zwiàzanych z negatywnym wp∏ywem na zdrowie czynników Êrodowiskowych i spo∏ecznych;
-- **2)** ocena dost´pnoÊci do Êwiadczeƒ opieki zdrowot3) opracowywanie i finansowanie oraz ocena efektów programów zdrowotnych, a tak˝e nadzór nad ich realizacjà;
-- **4)** finansowanie Êwiadczeƒ wysokospecjalistycznych w zakresie i na zasadach okreÊlonych w przepisach wydanych na podstawie art. 15 ust. 3;
-- **5)** wspó∏dzia∏anie z organizacjami pozarzàdowymi o charakterze regionalnym lub ogólnokrajowym dzia∏ajàcymi na rzecz ochrony zdrowia;
-- **6)** sprawowanie nadzoru nad ubezpieczeniem zdrowotnym w zakresie okreÊlonym w dziale VII;
-- **7)** zatwierdzanie planu finansowego Funduszu w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych;
+- **1)** prowadzenie oraz współuczestniczenie w prowadzeniu edukacji w zakresie zapobiegania i rozwiązywania problemów związanych z negatywnym wpływem na zdrowie czynników środowiskowych i społecznych;
+- **2)** ocena dostępności do świadczeń opieki zdrowot3) opracowywanie i finansowanie oraz ocena efektów programów zdrowotnych, a także nadzór nad ich realizacją;
+- **4)** finansowanie świadczeń wysokospecjalistycznych w zakresie i na zasadach określonych w przepisach wydanych na podstawie art. 15 ust. 3;
+- **5)** współdziałanie z organizacjami pozarządowymi o charakterze regionalnym lub ogólnokrajowym działającymi na rzecz ochrony zdrowia;
+- **6)** sprawowanie nadzoru nad ubezpieczeniem zdrowotnym w zakresie określonym w dziale VII;
+- **7)** zatwierdzanie planu finansowego Funduszu w porozumieniu z ministrem właściwym do spraw finansów publicznych;
 - **8)** opiniowanie sprawozdania finansowego Funduszu;
-- **9)** przedk∏adanie Sejmowi Rzeczypospolitej Polskiej nej w konsultacji z samorzàdami wojewódzkimi; do dnia 30 czerwca roku nast´pnego informacji o dost´pnoÊci do Êwiadczeƒ opieki zdrowotnej finansowanych ze Êrodków publicznych oraz sprawozdania finansowego Funduszu.
+- **9)** przedkładanie Sejmowi Rzeczypospolitej Polskiej nej w konsultacji z samorządami wojewódzkimi; do dnia 30 czerwca roku następnego informacji o dostępności do świadczeń opieki zdrowotnej finansowanych ze środków publicznych oraz sprawozdania finansowego Funduszu.
 
-2. Do zadaƒ ministra w∏aÊciwego do spraw finansów publicznych w zakresie obj´tym ustawà nale˝y w szczególnoÊci:
+2. Do zadań ministra właściwego do spraw finansów publicznych w zakresie objętym ustawą należy w szczególności:
 
 - **1)** sprawowanie nadzoru w zakresie gospodarki finansowej Funduszu na zasadach przewidzianych w niniejszej ustawie;
-- **2)** zatwierdzanie sprawozdania finansowego Funduszu po zasi´gni´ciu opinii ministra w∏aÊciwego do spraw zdrowia. DZIA¸ II Âwiadczenia opieki zdrowotnej Rozdzia∏ 1 Przepisy ogólne
+- **2)** zatwierdzanie sprawozdania finansowego Funduszu po zasięgnięciu opinii ministra właściwego do spraw zdrowia. DZIAĘ II Âwiadczenia opieki zdrowotnej
 
-**Art. 12.** Przepisy ustawy nie naruszajà przepisów o Êwiadczeniach opieki zdrowotnej udzielanych bezp∏atnie Êwiadczeniobiorcom bez wzgl´du na uprawnienia z tytu∏u ubezpieczenia zdrowotnego przez zak∏ady opieki zdrowotnej na podstawie:
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 12.** Przepisy ustawy nie naruszają przepisów o świadczeniach opieki zdrowotnej udzielanych bezpłatnie świadczeniobiorcom bez względu na uprawnienia z tytułu ubezpieczenia zdrowotnego przez zakłady opieki zdrowotnej na podstawie:
 
 **Art. 13.**
 
-1. Âwiadczeniobiorcy inni ni˝ ubezpieczeni, którzy:
+1. Âwiadczeniobiorcy inni niż ubezpieczeni, którzy:
 
-- **1)** nie ukoƒczyli 18. roku ˝ycia,
-- **2)** sà w okresie cià˝y, porodu i po∏ogu majà prawo do Êwiadczeƒ opieki zdrowotnej na zasadach i w zakresie okreÊlonych dla ubezpieczonych.
+- **1)** nie ukończyli 18. roku życia,
+- **2)** są w okresie ciąży, porodu i połogu mają prawo do świadczeń opieki zdrowotnej na zasadach i w zakresie określonych dla ubezpieczonych.
 
-2. Leki, wyroby medyczne i Êrodki pomocnicze sà wydawane osobom, o których mowa w ust. 1 pkt 2, o ile sà zwiàzane z cià˝à, porodem i po∏ogiem.
+2. Leki, wyroby medyczne i środki pomocnicze są wydawane osobom, o których mowa w ust. 1 pkt 2, o ile są związane z ciążą, porodem i połogiem.
 
-3. Âwiadczenia opieki zdrowotnej, októrych mowa w ust. 1 i 2 oraz w art. 12, udzielane Êwiadczeniobiorcom sà finansowane z:
+3. Âwiadczenia opieki zdrowotnej, októrych mowa w ust. 1 i 2 oraz w art. 12, udzielane świadczeniobiorcom są finansowane z:
 
-- **1)** bud˝etu paƒstwa wprzypadku Êwiadczeniobior4. Rada Ministrów okreÊli, w drodze rozporzàdzenia, sposób i tryb finansowania z bud˝etu paƒstwa Êwiadczeƒ opieki zdrowotnej, o których mowa w ust. 1 i 2 oraz art. 12 pkt 1—5, uwzgl´dniajàc zasady i sposób wydatkowania Êrodków publicznych.
+- **1)** budżetu państwa wprzypadku świadczeniobior4. Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb finansowania z budżetu państwa świadczeń opieki zdrowotnej, o których mowa w ust. 1 i 2 oraz art. 12 pkt 1—5, uwzględniając zasady i sposób wydatkowania środków publicznych.
 
-**Art. 14.** Na zasadach i w zakresie okreÊlonych wustawie podmiotami zobowiàzanymi do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych sà: w∏aÊciwi ministrowie lub Fundusz.
+**Art. 14.** Na zasadach i w zakresie określonych wustawie podmiotami zobowiązanymi do finansowania świadczeń opieki zdrowotnej ze środków publicznych są: właściwi ministrowie lub Fundusz.
 
 **Art. 15.**
 
-1. Âwiadczeniobiorcy majà, na zasadach okreÊlonych w ustawie, prawo do Êwiadczeƒ opieki zdrowotnej, których celem jest zachowanie zdrowia, zapobieganie chorobom i urazom, wczesne wykrywanie chorób, leczenie, piel´gnacja oraz zapobieganie niepe∏nosprawnoÊci i jej ograniczanie.
+1. Âwiadczeniobiorcy mają, na zasadach określonych w ustawie, prawo do świadczeń opieki zdrowotnej, których celem jest zachowanie zdrowia, zapobieganie chorobom i urazom, wczesne wykrywanie chorób, leczenie, pielęgnacja oraz zapobieganie niepełnosprawności i jej ograniczanie.
 
-2. Âwiadczeniobiorcy zapewnia si´ i finansuje ze Êrodków publicznych na zasadach i w zakresie okreÊlonych w ustawie:
+2. Âwiadczeniobiorcy zapewnia się i finansuje ze środków publicznych na zasadach i w zakresie określonych w ustawie:
 
-- **1)** badanie diagnostyczne, w tym medycznà diagnostyk´ laboratoryjnà;
-- **2)** Êwiadczenia na rzecz zachowania zdrowia, zapobiegania chorobom iwczesnego wykrywania chorób, w tym obowiàzkowe szczepienia ochronne;
-- **3)** podstawowà opiek´ zdrowotnà;
-- **4)** Êwiadczenia w Êrodowisku nauczania i wychowania;
-- **5)** ambulatoryjne Êwiadczenia specjalistyczne;
-- **6)** rehabilitacj´ leczniczà;
-- **7)** Êwiadczenia stomatologiczne;
+- **1)** badanie diagnostyczne, w tym medyczną diagnostykę laboratoryjną;
+- **2)** świadczenia na rzecz zachowania zdrowia, zapobiegania chorobom iwczesnego wykrywania chorób, w tym obowiązkowe szczepienia ochronne;
+- **3)** podstawową opiekę zdrowotną;
+- **4)** świadczenia w środowisku nauczania i wychowania;
+- **5)** ambulatoryjne świadczenia specjalistyczne;
+- **6)** rehabilitację leczniczą;
+- **7)** świadczenia stomatologiczne;
 - **8)** leczenie szpitalne;
-- **9)** Êwiadczenia wysokospecjalistyczne;
+- **9)** świadczenia wysokospecjalistyczne;
 - **10)** leczenie w domu chorego;
-- **11)** badanie i terapi´ psychologicznà;
-- **12)** badanie i terapi´ logopedycznà; ców innych ni˝ ubezpieczeni,
-- **2)** Funduszu w przypadku ubezpieczonych chyba ˝e przepisy odr´bne stanowià inaczej.
-- **13)** Êwiadczenia piel´gnacyjne i opiekuƒcze, w tym opiek´ paliatywno-hospicyjnà;
-- **14)** piel´gnacj´ niepe∏nosprawnych iopiek´ nad nimi;
-- **15)** opiek´ nad kobietà wokresie cià˝y, porodu ipo∏ogu;
-- **16)** opiek´ nad kobietà w okresie karmienia piersià;
-- **17)** opiek´ prenatalnà nad p∏odem iopiek´ nad noworodkiem oraz wst´pnà ocen´ stanu zdrowia i rozwoju niemowl´cia;
-- **18)** opiek´ nad zdrowym dzieckiem, w tym ocen´ stanu zdrowia i rozwoju dziecka do lat 18;
+- **11)** badanie i terapię psychologiczną;
+- **12)** badanie i terapię logopedyczną; ców innych niż ubezpieczeni,
+- **2)** Funduszu w przypadku ubezpieczonych chyba że przepisy odrębne stanowią inaczej.
+- **13)** świadczenia pielęgnacyjne i opiekuńcze, w tym opiekę paliatywno-hospicyjną;
+- **14)** pielęgnację niepełnosprawnych iopiekę nad nimi;
+- **15)** opiekę nad kobietą wokresie ciąży, porodu ipołogu;
+- **16)** opiekę nad kobietą w okresie karmienia piersią;
+- **17)** opiekę prenatalną nad płodem iopiekę nad noworodkiem oraz wstępną ocenę stanu zdrowia i rozwoju niemowlęcia;
+- **18)** opiekę nad zdrowym dzieckiem, w tym ocenę stanu zdrowia i rozwoju dziecka do lat 18;
 - **19)** leczenie uzdrowiskowe;
-- **20)** zaopatrzenie w produkty lecznicze, wyroby medyczne i Êrodki pomocnicze;
+- **20)** zaopatrzenie w produkty lecznicze, wyroby medyczne i środki pomocnicze;
 - **21)** transport sanitarny;
 - **22)** ratownictwo medyczne.
 
-3. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Naczelnej Rady Lekarskiej oraz Naczelnej Rady Piel´gniarek i Po∏o˝nych, okreÊli, w drodze rozporzàdzenia:
+3. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej oraz Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze rozporządzenia:
 
-- **1)** wykaz i zakres udzielania Êwiadczeƒ wysokospecjalistycznych, które sà finansowane z bud˝etu paƒstwa z cz´Êci pozostajàcej w dyspozycji ministra w∏aÊciwego do spraw zdrowia,
-- **2)** tryb przekazywania Êrodków publicznych z tytu∏u realizacji Êwiadczeƒ, o których mowa w pkt 1,
-- **3)** sposób ustalania ceny oraz finansowania Êwiadczeƒ, o których mowa w pkt 1,
-- **4)** podmioty dokonujàce oceny jakoÊci Êwiadczeƒ, o których mowa w pkt 1 kierujàc si´ w szczególnoÊci wymaganiami dotyczàcymi szczególnych kwalifikacji personelu udzielajàcego tych Êwiadczeƒ ikoniecznoÊcià u˝ycia specjalistycznej aparatury.
+- **1)** wykaz i zakres udzielania świadczeń wysokospecjalistycznych, które są finansowane z budżetu państwa z części pozostającej w dyspozycji ministra właściwego do spraw zdrowia,
+- **2)** tryb przekazywania środków publicznych z tytułu realizacji świadczeń, o których mowa w pkt 1,
+- **3)** sposób ustalania ceny oraz finansowania świadczeń, o których mowa w pkt 1,
+- **4)** podmioty dokonujące oceny jakości świadczeń, o których mowa w pkt 1 kierując się w szczególności wymaganiami dotyczącymi szczególnych kwalifikacji personelu udzielającego tych świadczeń ikoniecznością użycia specjalistycznej aparatury.
 
 **Art. 16.**
 
-1. Âwiadczeniobiorcy na podstawie ustawy nie przys∏ugujà:
+1. Âwiadczeniobiorcy na podstawie ustawy nie przysługują:
 
-- **1)** orzeczenia o zdolnoÊci do prowadzenia pojazdów mechanicznych oraz inne orzeczenia izaÊwiadczenia lekarskie wydawane na ˝yczenie Êwiadczeniobiorcy, je˝eli nie sà one zwiàzane z dalszym leczeniem, rehabilitacjà, niezdolnoÊcià do pracy, kontynuowaniem nauki, uczestnictwem dzieci, uczniów, s∏uchaczy zak∏adów kszta∏cenia nauczycieli i studentów w zaj´ciach sportowych i w zorganizowanym wypoczynku, a tak˝e je˝eli nie sà wydawane dla celów pomocy spo∏ecznej lub uzyskania zasi∏ku piel´gnacyjnego;
-- **2)** Êwiadczenia opieki zdrowotnej niezakwalifikowane jako gwarantowane.
+- **1)** orzeczenia o zdolności do prowadzenia pojazdów mechanicznych oraz inne orzeczenia izaświadczenia lekarskie wydawane na życzenie świadczeniobiorcy, jeżeli nie są one związane z dalszym leczeniem, rehabilitacją, niezdolnością do pracy, kontynuowaniem nauki, uczestnictwem dzieci, uczniów, słuchaczy zakładów kształcenia nauczycieli i studentów w zajęciach sportowych i w zorganizowanym wypoczynku, a także jeżeli nie są wydawane dla celów pomocy społecznej lub uzyskania zasiłku pielęgnacyjnego;
+- **2)** świadczenia opieki zdrowotnej niezakwalifikowane jako gwarantowane.
 
-2. Koszty badania, wydania orzeczenia lub zaÊwiadczenia, na zlecenie prokuratury albo sàdu, w zwiàzku z post´powaniem prowadzonym na podstawie odr´bnych ustaw, sà pokrywane z cz´Êci bud˝etu paƒstwa, której dysponentem jest, odpowiednio, Minister SprawiedliwoÊci, Pierwszy Prezes Sàdu Najwy˝szego albo Prezes Naczelnego Sàdu Administracyjnego.
+2. Koszty badania, wydania orzeczenia lub zaświadczenia, na zlecenie prokuratury albo sądu, w związku z postępowaniem prowadzonym na podstawie odrębnych ustaw, są pokrywane z części budżetu państwa, której dysponentem jest, odpowiednio, Minister Sprawiedliwości, Pierwszy Prezes Sądu Najwyższego albo Prezes Naczelnego Sądu Administracyjnego.
 
-3. Przepis ust. 2 nie wy∏àcza mo˝liwoÊci obcià˝enia strony post´powania kosztami badania lub wydawania orzeczenia lub zaÊwiadczenia, o których mowa w tym przepisie, na podstawie odr´bnych przepisów.
+3. Przepis ust. 2 nie wyłącza możliwości obciążenia strony postępowania kosztami badania lub wydawania orzeczenia lub zaświadczenia, o których mowa w tym przepisie, na podstawie odrębnych przepisów.
 
-4. Koszty badania, wydania orzeczenia lub zaÊwiadczenia, zwiàzanego z orzekaniem o niezdolnoÊci do pracy dla celów rentowych, orzekaniem o niepe∏nosprawnoÊci, ustalaniem uprawnieƒ wramach ubezpieczeƒ spo∏ecznych, sà finansowane przez podmiot, na którego zlecenie zostaje przeprowadzone badanie,
+4. Koszty badania, wydania orzeczenia lub zaświadczenia, związanego z orzekaniem o niezdolności do pracy dla celów rentowych, orzekaniem o niepełnosprawności, ustalaniem uprawnień wramach ubezpieczeń społecznych, są finansowane przez podmiot, na którego zlecenie zostaje przeprowadzone badanie,
 
-5. Rada Ministrów okreÊli, w drodze rozporzàdzenia, sposób i tryb finansowania kosztów, o których mowa wust. 4, uwzgl´dniajàc cel wydania orzeczenia lub zaÊwiadczenia oraz przeprowadzenia badania.
+5. Rada Ministrów określi, w drodze rozporządzenia, sposób i tryb finansowania kosztów, o których mowa wust. 4, uwzględniając cel wydania orzeczenia lub zaświadczenia oraz przeprowadzenia badania.
 
-**Art. 17.** Âwiadczeniobiorcom na podstawie ustawy nie przys∏ugujà Êwiadczenia opieki zdrowotnej okreÊlone w wykazie, stanowiàcym za∏àcznik do ustawy.
+**Art. 17.** Âwiadczeniobiorcom na podstawie ustawy nie przysługują świadczenia opieki zdrowotnej określone w wykazie, stanowiącym załącznik do ustawy.
 
 **Art. 18.**
 
-1. Âwiadczeniobiorca przebywajàcy w zak∏adzie opiekuƒczo-leczniczym, piel´gnacyjno-opiekuƒczym lub w zak∏adzie rehabilitacji leczniczej, który udziela Êwiadczeƒ ca∏odobowych, ponosi koszty wy˝ywienia i zakwaterowania. Miesi´cznà op∏at´ ustala si´ w wysokoÊci odpowiadajàcej 250 % najni˝szej emerytury, z tym ˝e op∏ata nie mo˝e byç wy˝sza ni˝ kwota odpowiadajàca 70 % miesi´cznego dochodu Êwiadczeniobiorcy wrozumieniu przepisów opomocy spo∏ecznej.
+1. Âwiadczeniobiorca przebywający w zakładzie opiekuńczo-leczniczym, pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej, który udziela świadczeń całodobowych, ponosi koszty wyżywienia i zakwaterowania. Miesięczną opłatę ustala się w wysokości odpowiadającej 250 % najniższej emerytury, z tym że opłata nie może być wyższa niż kwota odpowiadająca 70 % miesięcznego dochodu świadczeniobiorcy wrozumieniu przepisów opomocy społecznej.
 
-2. Miesi´cznà op∏at´ za wy˝ywienie i zakwaterowanie dziecka do ukoƒczenia 18. roku ˝ycia, a je˝eli kszta∏ci si´ dalej do ukoƒczenia 26. roku ˝ycia, przebywajàcego wzak∏adzie opiekuƒczo-leczniczym, piel´gnacyjno-opiekuƒczym lub w zak∏adzie rehabilitacji leczniczej, który udziela Êwiadczeƒ ca∏odobowych, ustala si´ w wysokoÊci odpowiadajàcej 200 % najni˝szej emerytury, z tym ˝e op∏ata nie mo˝e byç wy˝sza ni˝ kwota odpowiadajàca 70 % miesi´cznego dochodu na osob´ wrodzinie wrozumieniu przepisów opomocy spo∏ecznej.
+2. Miesięczną opłatę za wyżywienie i zakwaterowanie dziecka do ukończenia 18. roku życia, a jeżeli kształci się dalej do ukończenia 26. roku życia, przebywającego wzakładzie opiekuńczo-leczniczym, pielęgnacyjno-opiekuńczym lub w zakładzie rehabilitacji leczniczej, który udziela świadczeń całodobowych, ustala się w wysokości odpowiadającej 200 % najniższej emerytury, z tym że opłata nie może być wyższa niż kwota odpowiadająca 70 % miesięcznego dochodu na osobę wrodzinie wrozumieniu przepisów opomocy społecznej.
 
 **Art. 19.**
 
-1. W stanach nag∏ych Êwiadczenia opieki zdrowotnej sà udzielane Êwiadczeniobiorcy niezw∏ocznie.
+1. W stanach nagłych świadczenia opieki zdrowotnej są udzielane świadczeniobiorcy niezwłocznie.
 
-2. W przypadku gdy Êwiadczenia opieki zdrowotnej w stanie nag∏ym sà udzielane przez Êwiadczeniodawc´, który nie zawar∏ umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, Êwiadczeniobiorca ma prawo do tych Êwiadczeƒ w niezb´dnym zakresie.
+2. W przypadku gdy świadczenia opieki zdrowotnej w stanie nagłym są udzielane przez świadczeniodawcę, który nie zawarł umowy o udzielanie świadczeń opieki zdrowotnej, świadczeniobiorca ma prawo do tych świadczeń w niezbędnym zakresie.
 
-3. W razie braku mo˝liwoÊci udzielania Êwiadczeƒ opieki zdrowotnej okreÊlonych wumowie oudzielanie Êwiadczeƒ opieki zdrowotnej z przyczyn le˝àcych po stronie Êwiadczeniodawcy lub w zwiàzku z wystàpieniem si∏y wy˝szej, Êwiadczeniodawca zapewnia, w przypadku, o którym mowa w ust. 1, udzielenie Êwiadczeƒ opieki zdrowotnej przez innego Êwiadczeniodawc´.
+3. W razie braku możliwości udzielania świadczeń opieki zdrowotnej określonych wumowie oudzielanie świadczeń opieki zdrowotnej z przyczyn leżących po stronie świadczeniodawcy lub w związku z wystąpieniem siły wyższej, świadczeniodawca zapewnia, w przypadku, o którym mowa w ust. 1, udzielenie świadczeń opieki zdrowotnej przez innego świadczeniodawcę.
 
-4. Âwiadczeniodawca, który nie zawar∏ umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, ma prawo do wynagrodzenia za Êwiadczenie opieki zdrowotnej udzielone Êwiadczeniobiorcy w stanie nag∏ym. Wynagrodzenie uwzgl´dnia wy∏àcznie uzasadnione koszty udzielenia niezb´dnych Êwiadczeƒ opieki zdrowotnej.
+4. Âwiadczeniodawca, który nie zawarł umowy o udzielanie świadczeń opieki zdrowotnej, ma prawo do wynagrodzenia za świadczenie opieki zdrowotnej udzielone świadczeniobiorcy w stanie nagłym. Wynagrodzenie uwzględnia wyłącznie uzasadnione koszty udzielenia niezbędnych świadczeń opieki zdrowotnej.
 
-5. Wcelu uzyskania wynagrodzenia, októrym mowa w ust. 4, Êwiadczeniodawca sk∏ada wniosek do podmiotu zobowiàzanego do finansowania Êwiadczeƒ opieki zdrowotnej wraz zrachunkiem, wykazem udzielonych Êwiadczeƒ opieki zdrowotnej iich kosztów oraz pisemnym przedstawieniem okolicznoÊci udzielenia wydane orzeczenie lub zaÊwiadczenie. Êwiadczeƒ uzasadniajàcych ich sfinansowanie ze Êrodków publicznych.
+5. Wcelu uzyskania wynagrodzenia, októrym mowa w ust. 4, świadczeniodawca składa wniosek do podmiotu zobowiązanego do finansowania świadczeń opieki zdrowotnej wraz zrachunkiem, wykazem udzielonych świadczeń opieki zdrowotnej iich kosztów oraz pisemnym przedstawieniem okoliczności udzielenia wydane orzeczenie lub zaświadczenie. świadczeń uzasadniających ich sfinansowanie ze środków publicznych.
 
-6. Podmiotowi zobowiàzanemu do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych przys∏uguje prawo kontroli zasadnoÊci wniosku, októrym mowa w ust. 5. Przepisy art. 64 stosuje si´ odpowiednio.
+6. Podmiotowi zobowiązanemu do finansowania świadczeń opieki zdrowotnej ze środków publicznych przysługuje prawo kontroli zasadności wniosku, októrym mowa w ust. 5. Przepisy art. 64 stosuje się odpowiednio.
 
 **Art. 20.**
 
-1. Âwiadczenia opieki zdrowotnej wszpitalach i Êwiadczenia specjalistyczne w ambulatoryjnej opiece zdrowotnej sà udzielane wed∏ug kolejnoÊci zg∏oszenia w dniach i godzinach ich udzielania przez Êwiadczeniodawc´, który zawar∏ umow´ o udzielanie Êwiadczeƒ opieki zdrowotnej.
+1. Âwiadczenia opieki zdrowotnej wszpitalach i świadczenia specjalistyczne w ambulatoryjnej opiece zdrowotnej są udzielane według kolejności zgłoszenia w dniach i godzinach ich udzielania przez świadczeniodawcę, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej.
 
 2. Âwiadczeniodawca, o którym mowa w ust. 1:
 
-- **1)** ustala kolejnoÊç udzielenia Êwiadczenia opieki zdrowotnej na podstawie zg∏oszeƒ Êwiadczeniobiorcy;
-- **2)** informuje pisemnie Êwiadczeniobiorc´ o terminie udzielenia Êwiadczenia oraz uzasadnia przyczyny wyboru tego terminu;
-- **3)** wpisuje za zgodà Êwiadczeniobiorcy lub jego przedstawiciela ustawowego:
+- **1)** ustala kolejność udzielenia świadczenia opieki zdrowotnej na podstawie zgłoszeń świadczeniobiorcy;
+- **2)** informuje pisemnie świadczeniobiorcę o terminie udzielenia świadczenia oraz uzasadnia przyczyny wyboru tego terminu;
+- **3)** wpisuje za zgodą świadczeniobiorcy lub jego przedstawiciela ustawowego:
     - **a)** numer kolejny,
-    - **b)** dat´ i godzin´ wpisu,
-    - **c)** imi´ i nazwisko Êwiadczeniobiorcy,
-    - **d)** numer PESEL, awprzypadku jego braku numer dokumentu potwierdzajàcego to˝samoÊç Êwiadczeniobiorcy,
-    - **e)** rozpoznanie lub powód przyj´cia,
-    - **f)** adres Êwiadczeniobiorcy,
-    - **g)** numer telefonu lub oznaczenie innego sposobu komunikacji ze Êwiadczeniobiorcà lub jego opiekunem,
-    - **h)** termin udzielenia Êwiadczenia,
-    - **i)** imi´ i nazwisko oraz podpis osoby dokonujàcej wpisu w kolejnej pozycji prowadzonej przez siebie listy oczekujàcych na udzielenie Êwiadczenia;
+    - **b)** datę i godzinę wpisu,
+    - **c)** imię i nazwisko świadczeniobiorcy,
+    - **d)** numer PESEL, awprzypadku jego braku numer dokumentu potwierdzającego tożsamość świadczeniobiorcy,
+    - **e)** rozpoznanie lub powód przyjęcia,
+    - **f)** adres świadczeniobiorcy,
+    - **g)** numer telefonu lub oznaczenie innego sposobu komunikacji ze świadczeniobiorcą lub jego opiekunem,
+    - **h)** termin udzielenia świadczenia,
+    - **i)** imię i nazwisko oraz podpis osoby dokonującej wpisu w kolejnej pozycji prowadzonej przez siebie listy oczekujących na udzielenie świadczenia;
 
-- **4)** wpisuje dat´ i przyczyn´ skreÊlenia Êwiadczeniobiorcy z prowadzonej przez siebie listy oczekujàcych na udzielenie Êwiadczenia.
+- **4)** wpisuje datę i przyczynę skreślenia świadczeniobiorcy z prowadzonej przez siebie listy oczekujących na udzielenie świadczenia.
 
-3. Dokonanie przez Êwiadczeniodawc´ czynnoÊci, o których mowa w ust. 2 pkt 2 i 3, jest równoznaczne z zobowiàzaniem si´ do udzielenia danego Êwiadczenia opieki zdrowotnej.
+3. Dokonanie przez świadczeniodawcę czynności, o których mowa w ust. 2 pkt 2 i 3, jest równoznaczne z zobowiązaniem się do udzielenia danego świadczenia opieki zdrowotnej.
 
-4. Lista oczekujàcych na udzielenie Êwiadczenia stanowi integralnà cz´Êç dokumentacji medycznej prowadzonej przez Êwiadczeniodawc´.
+4. Lista oczekujących na udzielenie świadczenia stanowi integralną część dokumentacji medycznej prowadzonej przez świadczeniodawcę.
 
-5. List´ oczekujàcych prowadzi si´ w sposób zapewniajàcy poszanowanie zasady sprawiedliwego, równego, niedyskryminujàcego i przejrzystego dost´pu do Êwiadczeƒ opieki zdrowotnej oraz zgodnie zkryteriami medycznymi okreÊlonymi wprzepisach wyda6. Âwiadczeniodawca ustala kolejnoÊç przyj´ç izapewnia prawid∏owe prowadzenie list oczekujàcych albo wyznacza osoby odpowiedzialne za realizacj´ tych zadaƒ.
+5. Listę oczekujących prowadzi się w sposób zapewniający poszanowanie zasady sprawiedliwego, równego, niedyskryminującego i przejrzystego dostępu do świadczeń opieki zdrowotnej oraz zgodnie zkryteriami medycznymi określonymi wprzepisach wyda6. Âwiadczeniodawca ustala kolejność przyjęć izapewnia prawidłowe prowadzenie list oczekujących albo wyznacza osoby odpowiedzialne za realizację tych zadań.
 
-7. W razie zmiany stanu zdrowia Êwiadczeniobiorcy, wskazujàcej na potrzeb´ wczeÊniejszego ni˝ w ustalonym terminie udzielenia Êwiadczenia, Êwiadczeniobiorca informuje o tym Êwiadczeniodawc´, który, je˝eli wynika to z kryteriów medycznych, koryguje odpowiednio termin udzielenia Êwiadczenia iinformuje niezw∏ocznie Êwiadczeniobiorc´ onowym terminie.
+7. W razie zmiany stanu zdrowia świadczeniobiorcy, wskazującej na potrzebę wcześniejszego niż w ustalonym terminie udzielenia świadczenia, świadczeniobiorca informuje o tym świadczeniodawcę, który, jeżeli wynika to z kryteriów medycznych, koryguje odpowiednio termin udzielenia świadczenia iinformuje niezwłocznie świadczeniobiorcę onowym terminie.
 
-8. W razie wystàpienia okolicznoÊci, których nie mo˝na by∏o przewidzieç w chwili ustalania terminu udzielenia Êwiadczenia opieki zdrowotnej, a które uniemo˝liwiajà zachowanie terminu wynikajàcego zlisty oczekujàcych, Êwiadczeniodawca informuje Êwiadczeniobiorc´ w ka˝dy dost´pny sposób o zmianie terminu wynikajàcego ze zmiany kolejnoÊci udzielenia Êwiadczenia i jej przyczynie. Przepis ten dotyczy równie˝ przypadku zmiany terminu udzielenia Êwiadczenia opieki zdrowotnej na wczeÊniejszy.
+8. W razie wystąpienia okoliczności, których nie można było przewidzieć w chwili ustalania terminu udzielenia świadczenia opieki zdrowotnej, a które uniemożliwiają zachowanie terminu wynikającego zlisty oczekujących, świadczeniodawca informuje świadczeniobiorcę w każdy dostępny sposób o zmianie terminu wynikającego ze zmiany kolejności udzielenia świadczenia i jej przyczynie. Przepis ten dotyczy również przypadku zmiany terminu udzielenia świadczenia opieki zdrowotnej na wcześniejszy.
 
-9. W przypadku gdy Êwiadczeniobiorca nie mo˝e stawiç si´ u Êwiadczeniodawcy w terminie okreÊlonym w trybie ust. 2, 7 lub 8 lub gdy zrezygnowa∏ ze Êwiadczenia opieki zdrowotnej, jest on obowiàzany niezw∏ocznie powiadomiç o tym Êwiadczeniodawc´.
+9. W przypadku gdy świadczeniobiorca nie może stawić się u świadczeniodawcy w terminie określonym w trybie ust. 2, 7 lub 8 lub gdy zrezygnował ze świadczenia opieki zdrowotnej, jest on obowiązany niezwłocznie powiadomić o tym świadczeniodawcę.
 
-10. Wcelu otrzymania jednego Êwiadczenia opieki zdrowotnej na podstawie skierowania Êwiadczeniobiorca mo˝e wpisaç si´ na jednà list´ oczekujàcych u jednego Êwiadczeniodawcy.
+10. Wcelu otrzymania jednego świadczenia opieki zdrowotnej na podstawie skierowania świadczeniobiorca może wpisać się na jedną listę oczekujących u jednego świadczeniodawcy.
 
-11. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, po zasi´gni´ciu opinii Naczelnej Rady Lekarskiej i Naczelnej Rady Piel´gniarek i Po∏o˝nych, kryteria medyczne, jakimi powinni kierowaç si´ Êwiadczeniodawcy, umieszczajàc Êwiadczeniobiorców na listach oczekujàcych, uwzgl´dniajàc aktualnà wiedz´ medycznà.
+11. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, po zasięgnięciu opinii Naczelnej Rady Lekarskiej i Naczelnej Rady Pielęgniarek i Położnych, kryteria medyczne, jakimi powinni kierować się świadczeniodawcy, umieszczając świadczeniobiorców na listach oczekujących, uwzględniając aktualną wiedzę medyczną.
 
 **Art. 21.**
 
-1. Listy oczekujàcych na udzielenie Êwiadczenia podlegajà okresowej, co najmniej raz wmiesiàcu, ocenie zespo∏u oceny przyj´ç powo∏anego przez Êwiadczeniodawc´, który zawar∏ umow´ o udzielanie Êwiadczeƒ opieki zdrowotnej.
+1. Listy oczekujących na udzielenie świadczenia podlegają okresowej, co najmniej raz wmiesiącu, ocenie zespołu oceny przyjęć powołanego przez świadczeniodawcę, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej.
 
-2. W sk∏ad zespo∏u oceny przyj´ç wchodzà:
+2. W skład zespołu oceny przyjęć wchodzą:
 
-- **1)** lekarz specjalista w specjalnoÊci zabiegowej;
-- **2)** lekarz specjalista w specjalnoÊci niezabiegowej;
-- **3)** piel´gniarka naczelna, a w razie jej braku inna piel´gniarka albo po∏o˝na.
+- **1)** lekarz specjalista w specjalności zabiegowej;
+- **2)** lekarz specjalista w specjalności niezabiegowej;
+- **3)** pielęgniarka naczelna, a w razie jej braku inna pielęgniarka albo położna.
 
-3. Âwiadczeniodawca, o którym mowa w ust. 1, wyznacza przewodniczàcego zespo∏u spoÊród osób, o których mowa w ust. 2, a tak˝e okreÊla tryb pracy.
+3. Âwiadczeniodawca, o którym mowa w ust. 1, wyznacza przewodniczącego zespołu spośród osób, o których mowa w ust. 2, a także określa tryb pracy.
 
-4. Do zadaƒ zespo∏u oceny przyj´ç nale˝y przeprowadzanie oceny list oczekujàcych na udzielenie Êwiadczenia pod wzgl´dem: nych na podstawie ust. 11. 1) prawid∏owoÊci prowadzenia dokumentacji;
+4. Do zadań zespołu oceny przyjęć należy przeprowadzanie oceny list oczekujących na udzielenie świadczenia pod względem: nych na podstawie ust. 11. 1) prawidłowości prowadzenia dokumentacji;
 
-- **2)** czasu oczekiwania na udzielenie Êwiadczenia;
-- **3)** zasadnoÊci i przyczyn zmian terminów udzielenia Êwiadczeƒ.
+- **2)** czasu oczekiwania na udzielenie świadczenia;
+- **3)** zasadności i przyczyn zmian terminów udzielenia świadczeń.
 
-5. Zespó∏ oceny przyj´ç sporzàdza ka˝dorazowo raport z oceny i przedstawia go Êwiadczeniodawcy, o którym mowa w ust. 1.
+5. Zespół oceny przyjęć sporządza każdorazowo raport z oceny i przedstawia go świadczeniodawcy, o którym mowa w ust. 1.
 
-6. Je˝eli u Êwiadczeniodawcy nie udziela Êwiadczeƒ lekarz specjalista w specjalnoÊci zabiegowej, to w sk∏ad zespo∏u oceny przyj´ç wchodzà osoby, o których mowa w ust. 2 pkt 2 i 3.
+6. Jeżeli u świadczeniodawcy nie udziela świadczeń lekarz specjalista w specjalności zabiegowej, to w skład zespołu oceny przyjęć wchodzą osoby, o których mowa w ust. 2 pkt 2 i 3.
 
-7. Je˝eli w zak∏adzie opieki zdrowotnej b´dàcym Êwiadczeniodawcà, októrym mowa wust. 1, dzia∏a zespó∏ zarzàdzania jakoÊcià, spe∏niajàcy warunki okreÊlone w ust. 2, wykonuje on zadania, o których mowa w ust. 4 i 5.
+7. Jeżeli w zakładzie opieki zdrowotnej będącym świadczeniodawcą, októrym mowa wust. 1, działa zespół zarządzania jakością, spełniający warunki określone w ust. 2, wykonuje on zadania, o których mowa w ust. 4 i 5.
 
 **Art. 22.**
 
-1. Âwiadczeniodawca udzielajàcy Êwiadczeƒ wysokospecjalistycznych prowadzi list´ oczekujàcych na te Êwiadczenia zgodnie z zasadami, o których mowa w art. 20 i 21.
+1. Âwiadczeniodawca udzielający świadczeń wysokospecjalistycznych prowadzi listę oczekujących na te świadczenia zgodnie z zasadami, o których mowa w art. 20 i 21.
 
-2. Listy oczekujàcych na udzielenie Êwiadczeƒ wysokospecjalistycznych co najmniej raz w miesiàcu sà przekazywane do Funduszu i ministra w∏aÊciwego do spraw zdrowia. Przepisy art. 23 stosuje si´ odpowiednio.
+2. Listy oczekujących na udzielenie świadczeń wysokospecjalistycznych co najmniej raz w miesiącu są przekazywane do Funduszu i ministra właściwego do spraw zdrowia. Przepisy art. 23 stosuje się odpowiednio.
 
-3. Nadzór nad tworzeniem i prowadzeniem list oczekujàcych na Êwiadczenia wysokospecjalistyczne prowadzi minister w∏aÊciwy do spraw zdrowia, uwzgl´dniajàc wszczególnoÊci zmiany terminu, zmiany kolejnoÊci i ich przyczyny.
+3. Nadzór nad tworzeniem i prowadzeniem list oczekujących na świadczenia wysokospecjalistyczne prowadzi minister właściwy do spraw zdrowia, uwzględniając wszczególności zmiany terminu, zmiany kolejności i ich przyczyny.
 
-4. Minister w∏aÊciwy do spraw zdrowia udost´pnia na stronie internetowej ministerstwa informacj´ oliczbie oczekujàcych na udzielenie Êwiadczenia wysokospecjalistycznego i Êrednim czasie oczekiwania na te Êwiadczenia, aktualizujàc jà nie rzadziej ni˝ raz na miesiàc.
+4. Minister właściwy do spraw zdrowia udostępnia na stronie internetowej ministerstwa informację oliczbie oczekujących na udzielenie świadczenia wysokospecjalistycznego i średnim czasie oczekiwania na te świadczenia, aktualizując ją nie rzadziej niż raz na miesiąc.
 
 **Art. 23.**
 
-1. Âwiadczeniodawca, o którym mowa w art. 20 ust. 1, przekazuje co miesiàc oddzia∏owi wojewódzkiemu Funduszu w∏aÊciwemu ze wzgl´du na miejsce udzielania Êwiadczenia informacj´ o liczbie oczekujàcych na udzielenie Êwiadczenia opieki zdrowotnej i Êrednim czasie oczekiwania.
+1. Âwiadczeniodawca, o którym mowa w art. 20 ust. 1, przekazuje co miesiąc oddziałowi wojewódzkiemu Funduszu właściwemu ze względu na miejsce udzielania świadczenia informację o liczbie oczekujących na udzielenie świadczenia opieki zdrowotnej i średnim czasie oczekiwania.
 
-2. Informacje o prowadzonych przez poszczególnych Êwiadczeniodawców listach oczekujàcych, liczbie osób oczekujàcych i Êrednim czasie oczekiwania na udzielenie poszczególnych Êwiadczeƒ opieki zdrowotnej oraz o mo˝liwoÊci udzielenia Êwiadczenia przez innych Êwiadczeniodawców posiadajàcych umow´ o udzielanie Êwiadczeƒ opieki zdrowotnej oddzia∏ wojewódzki Funduszu, w∏aÊciwy ze wzgl´du na miejsce udzielania Êwiadczenia, publikuje na swojej stronie internetowej, aktualizujàc je co najmniej raz w miesiàcu.
+2. Informacje o prowadzonych przez poszczególnych świadczeniodawców listach oczekujących, liczbie osób oczekujących i średnim czasie oczekiwania na udzielenie poszczególnych świadczeń opieki zdrowotnej oraz o możliwości udzielenia świadczenia przez innych świadczeniodawców posiadających umowę o udzielanie świadczeń opieki zdrowotnej oddział wojewódzki Funduszu, właściwy ze względu na miejsce udzielania świadczenia, publikuje na swojej stronie internetowej, aktualizując je co najmniej raz w miesiącu.
 
-3. Oddzia∏ wojewódzki Funduszu, o którym mowa o mo˝liwoÊci udzielenia Êwiadczenia opieki zdrowotnej przez Êwiadczeniodawców posiadajàcych umow´ o udzielanie Êwiadczeƒ opieki zdrowotnej i Êrednim czasie oczekiwania na dane Êwiadczenie opieki zdrowotnej.
+3. Oddział wojewódzki Funduszu, o którym mowa o możliwości udzielenia świadczenia opieki zdrowotnej przez świadczeniodawców posiadających umowę o udzielanie świadczeń opieki zdrowotnej i średnim czasie oczekiwania na dane świadczenie opieki zdrowotnej.
 
-4. Âwiadczeniodawca, na umotywowany wniosek dyrektora w∏aÊciwego miejscowo oddzia∏u wojewódzkiego Funduszu, jest obowiàzany dostarczyç niezw∏ocznie inne ni˝ okreÊlone wust. 7 informacje dotyczàce realizacji obowiàzków, o których mowa w ust. 1—6.
+4. Âwiadczeniodawca, na umotywowany wniosek dyrektora właściwego miejscowo oddziału wojewódzkiego Funduszu, jest obowiązany dostarczyć niezwłocznie inne niż określone wust. 7 informacje dotyczące realizacji obowiązków, o których mowa w ust. 1—6.
 
-5. W przypadku uzasadnionego podejrzenia niewykonywania lub niew∏aÊciwego wykonywania przez Êwiadczeniodawc´ obowiàzków, o których mowa wart. 20—22, dyrektor w∏aÊciwego miejscowo oddzia∏u wojewódzkiego Funduszu przeprowadza kontrol´ w trybie art. 64.
+5. W przypadku uzasadnionego podejrzenia niewykonywania lub niewłaściwego wykonywania przez świadczeniodawcę obowiązków, o których mowa wart. 20—22, dyrektor właściwego miejscowo oddziału wojewódzkiego Funduszu przeprowadza kontrolę w trybie art. 64.
 
-6. Fundusz tworzy centralny wykaz informacji oliczbie oczekujàcych na udzielenie Êwiadczenia opieki zdrowotnej iÊrednim czasie oczekiwania wposzczególnych oddzia∏ach wojewódzkich Funduszu na podstawie informacji, o których mowa w ust. 2, przekazywanych przez te oddzia∏y.
+6. Fundusz tworzy centralny wykaz informacji oliczbie oczekujących na udzielenie świadczenia opieki zdrowotnej iśrednim czasie oczekiwania wposzczególnych oddziałach wojewódzkich Funduszu na podstawie informacji, o których mowa w ust. 2, przekazywanych przez te oddziały.
 
-7. Fundusz udziela Êwiadczeniobiorcom informacji o danych zawartych w wykazie, o którym mowa wust. 6, wszczególnoÊci poprzez bezp∏atnà lini´ telefonicznà.
+7. Fundusz udziela świadczeniobiorcom informacji o danych zawartych w wykazie, o którym mowa wust. 6, wszczególności poprzez bezpłatną linię telefoniczną.
 
-**Art. 24.** Przepisów art. 19—23 nie stosuje si´ do Êwiadczeƒ opieki zdrowotnej z zakresu przeszczepów udzielanych osobom, które sà wpisywane na krajowe listy osób oczekujàcych na przeszczepienie komórek, tkanek i narzàdów, zgodnie z przepisami o pobieraniu i przeszczepianiu komórek, tkanek i narzàdów.
+**Art. 24.** Przepisów art. 19—23 nie stosuje się do świadczeń opieki zdrowotnej z zakresu przeszczepów udzielanych osobom, które są wpisywane na krajowe listy osób oczekujących na przeszczepienie komórek, tkanek i narządów, zgodnie z przepisami o pobieraniu i przeszczepianiu komórek, tkanek i narządów.
 
 **Art. 25.**
 
-1. Fundusz nie finansuje kosztów leczenia ubezpieczonego lub badaƒ diagnostycznych poza granicami kraju, z wyjàtkiem kosztów Êwiadczeƒ opieki zdrowotnej udzielonych ubezpieczonemu zgodnie z przepisami o koordynacji.
+1. Fundusz nie finansuje kosztów leczenia ubezpieczonego lub badań diagnostycznych poza granicami kraju, z wyjątkiem kosztów świadczeń opieki zdrowotnej udzielonych ubezpieczonemu zgodnie z przepisami o koordynacji.
 
-2. Prezes Funduszu wydaje ubezpieczonemu, na wniosek: ubezpieczonego, jego przedstawiciela ustawowego lub ma∏˝onka, zwanego dalej „podmiotem uprawnionym”, zgod´ na przeprowadzenie leczenia lub badaƒ diagnostycznych w przypadku, o którym mowa w art. 22 ust. 2 rozporzàdzenia Rady (EWG) nr 1408/71.
+2. Prezes Funduszu wydaje ubezpieczonemu, na wniosek: ubezpieczonego, jego przedstawiciela ustawowego lub małżonka, zwanego dalej Ńpodmiotem uprawnionym”, zgodę na przeprowadzenie leczenia lub badań diagnostycznych w przypadku, o którym mowa w art. 22 ust. 2 rozporządzenia Rady (EWG) nr 1408/71.
 
-3. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, okreÊli, w drodze rozporzàdzenia:
+3. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia:
 
-- **1)** tryb sk∏adania i rozpatrywania wniosku o leczenie lub badania diagnostyczne poza granicami kraju, o których mowa w ust. 2,
-- **2)** wzór wniosku, o którym mowa w pkt 1 majàc na wzgl´dzie dobro ubezpieczonego oraz w ust. 2, informuje, na ˝àdanie, Êwiadczeniobiorc´ zasadnoÊç iskutecznoÊç takiego leczenia lub badania diagnostycznego poza granicami kraju.
+- **1)** tryb składania i rozpatrywania wniosku o leczenie lub badania diagnostyczne poza granicami kraju, o których mowa w ust. 2,
+- **2)** wzór wniosku, o którym mowa w pkt 1 mając na względzie dobro ubezpieczonego oraz w ust. 2, informuje, na żądanie, świadczeniobiorcę zasadność iskuteczność takiego leczenia lub badania diagnostycznego poza granicami kraju.
 
-4. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu i Naczelnej Rady Lekarskiej, okreÊli, w drodze rozporzàdzenia, sposób ikryteria ustalania dopuszczalnego czasu oczekiwania na wybrane Êwiadczenia opieki zdrowotnej, uwzgl´dniajàc aktualnà, opartà na potwierdzonych dowodach naukowych, wiedz´ ipraktyk´ medycznà oraz kierujàc si´ potrzebà w∏aÊciwej realizacji art. 22 ust. 2 rozporzàdzenia Rady (EWG) nr 1408/71.
+4. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu i Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, sposób ikryteria ustalania dopuszczalnego czasu oczekiwania na wybrane świadczenia opieki zdrowotnej, uwzględniając aktualną, opartą na potwierdzonych dowodach naukowych, wiedzę ipraktykę medyczną oraz kierując się potrzebą właściwej realizacji art. 22 ust. 2 rozporządzenia Rady (EWG) nr 1408/71.
 
 **Art. 26.**
 
-1. Minister w∏aÊciwy do spraw zdrowia mo˝e, na wniosek podmiotu uprawnionego, skierowaç Êwiadczeniobiorc´ do przeprowadzenia poza granicami kraju leczenia lub badaƒ diagnostycznych, których nie przeprowadza si´ w kraju, kierujàc si´ niezb´dnoÊcià udzielenia takiego Êwiadczenia w celu ratowania ˝ycia lub poprawy stanu zdrowia Êwiadczeniobiorcy, po zasi´gni´ciu opinii konsultanta krajowego w∏aÊciwego w danej dziedzinie medycyny.
+1. Minister właściwy do spraw zdrowia może, na wniosek podmiotu uprawnionego, skierować świadczeniobiorcę do przeprowadzenia poza granicami kraju leczenia lub badań diagnostycznych, których nie przeprowadza się w kraju, kierując się niezbędnością udzielenia takiego świadczenia w celu ratowania życia lub poprawy stanu zdrowia świadczeniobiorcy, po zasięgnięciu opinii konsultanta krajowego właściwego w danej dziedzinie medycyny.
 
-2. Koszty leczenia lub badaƒ diagnostycznych Êwiadczeniobiorcy poza granicami kraju:
+2. Koszty leczenia lub badań diagnostycznych świadczeniobiorcy poza granicami kraju:
 
-- **1)** wynikajàce zumów mi´dzynarodowych zawartych zpaƒstwami nieb´dàcymi cz∏onkami Unii Europejskiej lub cz∏onkami Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronami umowy o Europejskim Obszarze Gospodarczym,
-- **2)** powsta∏e na podstawie skierowania, októrym mowa w ust. 1, wraz z kosztami transportu Êwiadczeniobiorcy do miejsca leczenia za granicà ido miejsca leczenia lub zamieszkania w kraju sà finansowane z bud˝etu paƒstwa.
+- **1)** wynikające zumów międzynarodowych zawartych zpaństwami niebędącymi członkami Unii Europejskiej lub członkami Europejskiego Porozumienia o Wolnym Handlu (EFTA) stronami umowy o Europejskim Obszarze Gospodarczym,
+- **2)** powstałe na podstawie skierowania, októrym mowa w ust. 1, wraz z kosztami transportu świadczeniobiorcy do miejsca leczenia za granicą ido miejsca leczenia lub zamieszkania w kraju są finansowane z budżetu państwa.
 
-3. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia:
+3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** tryb sk∏adania i rozpatrywania wniosku o leczenie lub badania diagnostyczne poza granicami kraju, o którym mowa w ust. 1,
+- **1)** tryb składania i rozpatrywania wniosku o leczenie lub badania diagnostyczne poza granicami kraju, o którym mowa w ust. 1,
 - **2)** wzór wniosku, o którym mowa w ust. 1,
-- **3)** tryb pokrywania kosztów, októrych mowa wust. 2 pkt 2 majàc na wzgl´dzie dobro pacjenta oraz zasadnoÊç i skutecznoÊç takiego leczenia lub badania diagnostycznego poza granicami kraju.
+- **3)** tryb pokrywania kosztów, októrych mowa wust. 2 pkt 2 mając na względzie dobro pacjenta oraz zasadność i skuteczność takiego leczenia lub badania diagnostycznego poza granicami kraju.
 
 **Art. 27.**
 
-1. Âwiadczenia na rzecz zachowania zdrowia, zapobiegania chorobom i wczesnego wykrywania chorób obejmujà:
+1. Âwiadczenia na rzecz zachowania zdrowia, zapobiegania chorobom i wczesnego wykrywania chorób obejmują:
 
-- **1)** propagowanie zachowaƒ prozdrowotnych, w szczególnoÊci poprzez zach´canie do indywidualnej odpowiedzialnoÊci za w∏asne zdrowie;
-- **2)** wczesnà, wielospecjalistycznà i kompleksowà opiek´ nad dzieckiem zagro˝onym niepe∏nosprawnoÊcià lub niepe∏nosprawnym;
-- **3)** profilaktyczne badania lekarskie wcelu wczesnego rozpoznania chorób, ze szczególnym uwzgl´dnieniem chorób uk∏adu krà˝enia oraz chorób nowo4) promocj´ zdrowia i profilaktyk´, w tym profilaktyk´ stomatologicznà obejmujàcà dzieci i m∏odzie˝ do ukoƒczenia 19. roku ˝ycia,
-- **5)** prowadzenie badaƒ profilaktycznych obejmujàcych kobiety w cià˝y, w tym badaƒ prenatalnych zalecanych w grupach ryzyka i u kobiet powy˝ej
+- **1)** propagowanie zachowań prozdrowotnych, w szczególności poprzez zachęcanie do indywidualnej odpowiedzialności za własne zdrowie;
+- **2)** wczesną, wielospecjalistyczną i kompleksową opiekę nad dzieckiem zagrożonym niepełnosprawnością lub niepełnosprawnym;
+- **3)** profilaktyczne badania lekarskie wcelu wczesnego rozpoznania chorób, ze szczególnym uwzględnieniem chorób układu krążenia oraz chorób nowo4) promocję zdrowia i profilaktykę, w tym profilaktykę stomatologiczną obejmującą dzieci i młodzież do ukończenia 19. roku życia,
+- **5)** prowadzenie badań profilaktycznych obejmujących kobiety w ciąży, w tym badań prenatalnych zalecanych w grupach ryzyka i u kobiet powyżej
 
-40. roku ˝ycia oraz profilaktyki stomatologicznej,
+40. roku życia oraz profilaktyki stomatologicznej,
 
-- **6)** profilaktycznà opiek´ zdrowotnà nad dzieçmi i m∏odzie˝à w Êrodowisku nauczania i wychowania;
-- **7)** wykonywanie szczepieƒ ochronnych;
-- **8)** wykonywanie badaƒ z zakresu medycyny sportowej obejmujàcych dzieci im∏odzie˝ do ukoƒczenia
+- **6)** profilaktyczną opiekę zdrowotną nad dziećmi i młodzieżą w środowisku nauczania i wychowania;
+- **7)** wykonywanie szczepień ochronnych;
+- **8)** wykonywanie badań z zakresu medycyny sportowej obejmujących dzieci imłodzież do ukończenia
 
-21. roku ˝ycia uprawiajàcych sport amatorski.
+21. roku życia uprawiających sport amatorski.
 
-2. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej, Naczelnej Rady Piel´gniarek iPo∏o˝nych oraz Krajowej Rady Diagnostów Laboratoryjnych, okreÊli, w drodze rozporzàdzenia, w odniesieniu do dzia∏aƒ, o których mowa w ust. 1 pkt 3 i 5, zakres Êwiadczeƒ opieki zdrowotnej, w szczególnoÊci badaƒ przesiewowych, wraz z okresami, w których te badania sà przeprowadzane, uwzgl´dniajàc szczególnà rol´ profilaktyki.
+2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek iPołożnych oraz Krajowej Rady Diagnostów Laboratoryjnych, określi, w drodze rozporządzenia, w odniesieniu do działań, o których mowa w ust. 1 pkt 3 i 5, zakres świadczeń opieki zdrowotnej, w szczególności badań przesiewowych, wraz z okresami, w których te badania są przeprowadzane, uwzględniając szczególną rolę profilaktyki.
 
-3. Minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrem w∏aÊciwym do spraw oÊwiaty i wychowania, po zasi´gni´ciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej, Naczelnej Rady Piel´gniarek i Po∏o˝nych oraz Krajowej Rady Diagnostów Laboratoryjnych, okreÊli, wdrodze rozporzàdzenia, zakres i organizacj´ profilaktycznej opieki zdrowotnej nad dzieçmi i m∏odzie˝à obj´tymi obowiàzkiem szkolnym i obowiàzkiem nauki oraz kszta∏càcymi si´ wszko∏ach ponadgimnazjalnych do ukoƒczenia 19. roku ˝ycia, a tak˝e zakres informacji przekazywanych wojewodzie o Êwiadczeniodawcach sprawujàcych profilaktycznà opiek´ nad tymi osobami, uwzgl´dniajàc profilaktyk´ stomatologicznà i promocj´ zdrowia, a w przypadku dzieci i m∏odzie˝y kszta∏càcej si´ w szko∏ach profilaktyk´ w Êrodowisku nauczania.
+3. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw oświaty i wychowania, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek i Położnych oraz Krajowej Rady Diagnostów Laboratoryjnych, określi, wdrodze rozporządzenia, zakres i organizację profilaktycznej opieki zdrowotnej nad dziećmi i młodzieżą objętymi obowiązkiem szkolnym i obowiązkiem nauki oraz kształcącymi się wszkołach ponadgimnazjalnych do ukończenia 19. roku życia, a także zakres informacji przekazywanych wojewodzie o świadczeniodawcach sprawujących profilaktyczną opiekę nad tymi osobami, uwzględniając profilaktykę stomatologiczną i promocję zdrowia, a w przypadku dzieci i młodzieży kształcącej się w szkołach profilaktykę w środowisku nauczania.
 
-4. Minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrem w∏aÊciwym do spraw kultury fizycznej isportu, po zasi´gni´ciu opinii Prezesa Funduszu i Naczelnej Rady Lekarskiej, okreÊli, w drodze rozporzàdzenia, zakres koniecznych badaƒ lekarskich oraz cz´stotliwoÊç ich przeprowadzania w stosunku do dzieci i m∏odzie˝y do ukoƒczenia 21. roku ˝ycia ubiegajàcych si´ o przyznanie licencji albo posiadajàcych licencj´ na amatorskie uprawianie okreÊlonej dyscypliny sportu, uwzgl´dniajàc potrzeb´ szczególnej ochrony zdrowia dzieci i m∏odzie˝y.
+4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw kultury fizycznej isportu, po zasięgnięciu opinii Prezesa Funduszu i Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, zakres koniecznych badań lekarskich oraz częstotliwość ich przeprowadzania w stosunku do dzieci i młodzieży do ukończenia 21. roku życia ubiegających się o przyznanie licencji albo posiadających licencję na amatorskie uprawianie określonej dyscypliny sportu, uwzględniając potrzebę szczególnej ochrony zdrowia dzieci i młodzieży.
 
 **Art. 28.**
 
-1. Âwiadczeniobiorca ma prawo wyboru lekarza, piel´gniarki i po∏o˝nej podstawowej opieki zdrowotnej spoÊród lekarzy, piel´gniarek i po∏o˝nych ubezpieczenia zdrowotnego nie cz´Êciej ni˝ dwa razy wroku kalendarzowym, awprzypadku ka˝dej kolejnej tworowych; zmiany wnosi op∏at´ w wysokoÊci 80 z∏otych, z zastrze˝eniem art. 56b i art. 69b ustawy z dnia 21 listopada 1967 r. o powszechnym obowiàzku obrony Rzeczypospolitej Polskiej (Dz. U. z 2002 r. 21, poz. 205, z póên. zm. ), art. 153 ust. 7a ustawy z dnia 12 paêdziernika 1990 r. o Stra˝y Granicznej (Dz. U. z 2002 r. 171, poz. 1399, z póên. zm. ) iart. 115 § 1aKodeksu karnego wykonawczego. Nie dotyczy to przypadku zmiany miejsca zamieszkania i sytuacji zaprzestania udzielania Êwiadczeƒ opieki zdrowotnej przez wybranego lekarza, piel´gniark´ i po∏o˝nà podstawowej opieki zdrowotnej oraz innych przyczyn niezale˝nych od woli Êwiadczeniobiorcy.
+1. Âwiadczeniobiorca ma prawo wyboru lekarza, pielęgniarki i położnej podstawowej opieki zdrowotnej spośród lekarzy, pielęgniarek i położnych ubezpieczenia zdrowotnego nie częściej niż dwa razy wroku kalendarzowym, awprzypadku każdej kolejnej tworowych; zmiany wnosi opłatę w wysokości 80 złotych, z zastrzeżeniem art. 56b i art. 69b ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2002 r. 21, poz. 205, z póên. zm. ), art. 153 ust. 7a ustawy z dnia 12 paêdziernika 1990 r. o Straży Granicznej (Dz. U. z 2002 r. 171, poz. 1399, z póên. zm. ) iart. 115 § 1aKodeksu karnego wykonawczego. Nie dotyczy to przypadku zmiany miejsca zamieszkania i sytuacji zaprzestania udzielania świadczeń opieki zdrowotnej przez wybranego lekarza, pielęgniarkę i położną podstawowej opieki zdrowotnej oraz innych przyczyn niezależnych od woli świadczeniobiorcy.
 
-2. Op∏ata, o której mowa w ust. 1, stanowi przychód podmiotu zobowiàzanego do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych.
+2. Opłata, o której mowa w ust. 1, stanowi przychód podmiotu zobowiązanego do finansowania świadczeń opieki zdrowotnej ze środków publicznych.
 
-**Art. 29.** Âwiadczeniobiorca ma prawo wyboru Êwiadczeniodawcy udzielajàcego ambulatoryjnych Êwiadczeƒ specjalistycznych spoÊród tych Êwiadczeniodawców, którzy zawarli umowy oudzielanie Êwiadczeƒ opieki zdrowotnej, z zastrze˝eniem art. 56b i art. 69b ustawy z dnia 21 listopada 1967 r. o powszechnym obowiàzku obrony Rzeczypospolitej Poldodatkowych Êwiadczeƒ zdrowotnych lekarza dentysty oraz materia∏ów stomatologicznych stosowanych przy udzielaniu tych Êwiadczeƒ, zakwalifikowanych jako Êwiadczenia gwarantowane dla tych osób. 4. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, okreÊli, w drodze rozporzàdzenia, wykaz gwarantowanych Êwiadczeƒ lekarza dentysty, o których mowa w ust. 2 i 3, i materia∏ów stomatologicznych oraz rodzaj dokumentu potwierdzajàcego uprawnienia do tych Êwiadczeƒ, uwzgl´dniajàc dobro Êwiadczeniobiorcy oraz mo˝liwoÊci p∏atnicze Funduszu. Rozdzia∏ 2 Zakres Êwiadczeƒ opieki zdrowotnej
+**Art. 29.** Âwiadczeniobiorca ma prawo wyboru świadczeniodawcy udzielającego ambulatoryjnych świadczeń specjalistycznych spośród tych świadczeniodawców, którzy zawarli umowy oudzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 56b i art. 69b ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Poldodatkowych świadczeń zdrowotnych lekarza dentysty oraz materiałów stomatologicznych stosowanych przy udzielaniu tych świadczeń, zakwalifikowanych jako świadczenia gwarantowane dla tych osób. 4. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, wykaz gwarantowanych świadczeń lekarza dentysty, o których mowa w ust. 2 i 3, i materiałów stomatologicznych oraz rodzaj dokumentu potwierdzającego uprawnienia do tych świadczeń, uwzględniając dobro świadczeniobiorcy oraz możliwości płatnicze Funduszu.
 
-**Art. 32.** Âwiadczeniobiorca ma prawo do Êwiadczeƒ z zakresu badaƒ diagnostycznych, w tym medycznej diagnostyki laboratoryjnej, wykonywanych na podstawie skierowania lekarza ubezpieczenia zdroskiej, art. 153 ust. 7a ustawy z dnia 12 paêdziernika 1990 r. oStra˝y Granicznej iart. 115 § 1aKodeksu karnego wykonawczego.
+#### Rozdział 2 Zakres świadczeń opieki zdrowotnej
 
-**Art. 30.** Âwiadczeniobiorca ma prawo wyboru szpitala spoÊród szpitali, które zawar∏y umow´ oudzielanie Êwiadczeƒ opieki zdrowotnej, zzastrze˝eniem art. 56b i art. 69b ustawy z dnia 21 listopada 1967 r. o powszechnym obowiàzku obrony Rzeczypospolitej Polskiej, art. 153 ust. 7a ustawy z dnia 12 paêdziernika 1990 r. oStra˝y Granicznej iart. 115 § 1aKodeksu karnego wykonawczego.
+**Art. 32.** Âwiadczeniobiorca ma prawo do świadczeń z zakresu badań diagnostycznych, w tym medycznej diagnostyki laboratoryjnej, wykonywanych na podstawie skierowania lekarza ubezpieczenia zdroskiej, art. 153 ust. 7a ustawy z dnia 12 paêdziernika 1990 r. oStraży Granicznej iart. 115 § 1aKodeksu karnego wykonawczego.
+
+**Art. 30.** Âwiadczeniobiorca ma prawo wyboru szpitala spośród szpitali, które zawarły umowę oudzielanie świadczeń opieki zdrowotnej, zzastrzeżeniem art. 56b i art. 69b ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, art. 153 ust. 7a ustawy z dnia 12 paêdziernika 1990 r. oStraży Granicznej iart. 115 § 1aKodeksu karnego wykonawczego.
 
 **Art. 31.**
 
-1. Âwiadczeniobiorca ma prawo wyboru lekarza dentysty spoÊród lekarzy dentystów, którzy zawarli umow´ o udzielanie Êwiadczeƒ opieki zdrowotnej, z zastrze˝eniem art. 56b i art. 69b ustawy z dnia 21 listopada 1967 r. opowszechnym obowiàzku obrony Rzeczypospolitej Polskiej, art. 153 ust. 7a ustawy z dnia 12 paêdziernika 1990 r. o Stra˝y Granicznej i art. 115 § 1a Kodeksu karnego wykonawczego.
+1. Âwiadczeniobiorca ma prawo wyboru lekarza dentysty spośród lekarzy dentystów, którzy zawarli umowę o udzielanie świadczeń opieki zdrowotnej, z zastrzeżeniem art. 56b i art. 69b ustawy z dnia 21 listopada 1967 r. opowszechnym obowiązku obrony Rzeczypospolitej Polskiej, art. 153 ust. 7a ustawy z dnia 12 paêdziernika 1990 r. o Straży Granicznej i art. 115 § 1a Kodeksu karnego wykonawczego.
 
-2. Âwiadczeniobiorca ma prawo do Êwiadczeƒ zdrowotnych lekarza dentysty oraz materia∏ów stomatologicznych stosowanych przy udzielaniu tych Êwiadczeƒ, zakwalifikowanych jako Êwiadczenia gwarantowane.
+2. Âwiadczeniobiorca ma prawo do świadczeń zdrowotnych lekarza dentysty oraz materiałów stomatologicznych stosowanych przy udzielaniu tych świadczeń, zakwalifikowanych jako świadczenia gwarantowane.
 
-3. Dzieci i m∏odzie˝ do ukoƒczenia 18. roku ˝ycia oraz kobiety wcià˝y iwokresie po∏ogu majà prawo do wotnego lub felczera ubezpieczenia zdrowotnego, zakwalifikowanych jako Êwiadczenia gwarantowane.
+3. Dzieci i młodzież do ukończenia 18. roku życia oraz kobiety wciąży iwokresie połogu mają prawo do wotnego lub felczera ubezpieczenia zdrowotnego, zakwalifikowanych jako świadczenia gwarantowane.
 
 **Art. 33.**
 
-1. Leczenie uzdrowiskowe przys∏uguje Êwiadczeniobiorcy na podstawie skierowania wystawionego przez lekarza ubezpieczenia zdrowotnego.
+1. Leczenie uzdrowiskowe przysługuje świadczeniobiorcy na podstawie skierowania wystawionego przez lekarza ubezpieczenia zdrowotnego.
 
-2. Skierowanie, o którym mowa w ust. 1, wymaga potwierdzenia przez oddzia∏ wojewódzki Funduszu w∏aÊciwy ze wzgl´du na miejsce zamieszkania Êwiadczeniobiorcy, a je˝eli nie mo˝na ustaliç miejsca jego zamieszkania oddzia∏ wojewódzki Funduszu w∏aÊciwy dla siedziby Êwiadczeniodawcy, który wystawi∏ skierowanie.
+2. Skierowanie, o którym mowa w ust. 1, wymaga potwierdzenia przez oddział wojewódzki Funduszu właściwy ze względu na miejsce zamieszkania świadczeniobiorcy, a jeżeli nie można ustalić miejsca jego zamieszkania oddział wojewódzki Funduszu właściwy dla siedziby świadczeniodawcy, który wystawił skierowanie.
 
-3. Âwiadczeniobiorca ponosi koszty przejazdu na leczenie uzdrowiskowe i z leczenia uzdrowiskowego oraz cz´Êciowà odp∏atnoÊç za koszty wy˝ywienia i zakwaterowania w sanatorium uzdrowiskowym. Podmiot zobowiàzany do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych pokrywa do wysokoÊci okreÊlonej w umowie oddzia∏u wojewódzkiego Funduszu z sanatorium uzdrowiskowym ró˝nic´ kosztów wy˝ywienia i zakwaterowania ubezpieczonego.
+3. Âwiadczeniobiorca ponosi koszty przejazdu na leczenie uzdrowiskowe i z leczenia uzdrowiskowego oraz częściową odpłatność za koszty wyżywienia i zakwaterowania w sanatorium uzdrowiskowym. Podmiot zobowiązany do finansowania świadczeń opieki zdrowotnej ze środków publicznych pokrywa do wysokości określonej w umowie oddziału wojewódzkiego Funduszu z sanatorium uzdrowiskowym różnicę kosztów wyżywienia i zakwaterowania ubezpieczonego.
 
-4. Dzieci i m∏odzie˝ do ukoƒczenia lat 18, a je˝eli kszta∏cà si´ dalej do ukoƒczenia lat 26, dzieci niepe∏nosprawne w znacznym stopniu bez ograniczenia wieku, a tak˝e dzieci uprawnione do renty rodzinnej nie ponoszà odp∏atnoÊci za koszty wy˝ywienia i zakwaterowania wprewentorium isanatorium uzdrowiskowym.
+4. Dzieci i młodzież do ukończenia lat 18, a jeżeli kształcą się dalej do ukończenia lat 26, dzieci niepełnosprawne w znacznym stopniu bez ograniczenia wieku, a także dzieci uprawnione do renty rodzinnej nie ponoszą odpłatności za koszty wyżywienia i zakwaterowania wprewentorium isanatorium uzdrowiskowym.
 
-5. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, okreÊli, w drodze rozporzàdzenia:
+5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia:
 
 - **1)** sposób wystawiania skierowania na leczenie uzdrowiskowe przez lekarza ubezpieczenia zdrowotnego,
 - **2)** tryb potwierdzania skierowania, o którym mowa w pkt 1,
-- **3)** wysokoÊç cz´Êciowej odp∏atnoÊci Êwiadczeniobiorcy za koszty wy˝ywienia i zakwaterowania w sanatorium uzdrowiskowym,
-- **4)** poziomy warunków zakwaterowania w sanatorium uzdrowiskowym oraz okresy pobytu uwzgl´dniajàc koniecznoÊç weryfikacji celowoÊci skierowania na leczenie uzdrowiskowe, a tak˝e warunki bytowe i okresy, w których realizowane jest skierowanie na leczenie uzdrowiskowe.
+- **3)** wysokość częściowej odpłatności świadczeniobiorcy za koszty wyżywienia i zakwaterowania w sanatorium uzdrowiskowym,
+- **4)** poziomy warunków zakwaterowania w sanatorium uzdrowiskowym oraz okresy pobytu uwzględniając konieczność weryfikacji celowości skierowania na leczenie uzdrowiskowe, a także warunki bytowe i okresy, w których realizowane jest skierowanie na leczenie uzdrowiskowe.
 
 **Art. 34.**
 
-1. Zaopatrzenie w leki i wyroby medyczne przys∏uguje Êwiadczeniobiorcy na podstawie recepty wystawionej przez lekarza ubezpieczenia zdrowotnego, z zastrze˝eniem art. 40.
+1. Zaopatrzenie w leki i wyroby medyczne przysługuje świadczeniobiorcy na podstawie recepty wystawionej przez lekarza ubezpieczenia zdrowotnego, z zastrzeżeniem art. 40.
 
-2. Zaopatrzenie wleki iwyroby medyczne przys∏uguje Êwiadczeniobiorcy tak˝e na podstawie recepty wystawionej przez lekarza nieb´dàcego lekarzem ubezpieczenia zdrowotnego, je˝eli posiada on prawo wykonywania zawodu oraz zawar∏ z oddzia∏em wojewódzkim Funduszu umow´ upowa˝niajàcà go do wystawiania takich recept.
+2. Zaopatrzenie wleki iwyroby medyczne przysługuje świadczeniobiorcy także na podstawie recepty wystawionej przez lekarza niebędącego lekarzem ubezpieczenia zdrowotnego, jeżeli posiada on prawo wykonywania zawodu oraz zawarł z oddziałem wojewódzkim Funduszu umowę upoważniającą go do wystawiania takich recept.
 
-3. Przepisy ust. 1 i 2 stosuje si´ odpowiednio do felczera ubezpieczenia zdrowotnego oraz felczera i starszego felczera.
+3. Przepisy ust. 1 i 2 stosuje się odpowiednio do felczera ubezpieczenia zdrowotnego oraz felczera i starszego felczera.
 
-**Art. 35.** Âwiadczeniobiorcy przyj´temu do szpitala lub innego zak∏adu opieki zdrowotnej przeznaczonego dla osób potrzebujàcych ca∏odobowych lub ca∏odziennych Êwiadczeƒ opieki zdrowotnej, oraz przy wykonywaniu zabiegów leczniczych i piel´gnacyjnych, diagnostycznych i rehabilitacyjnych przez podmioty uprawnione do udzielania Êwiadczeƒ, a tak˝e przy udzielaniu przez te podmioty pomocy w stanach nag∏ych, zapewnia si´ bezp∏atnie leki i wyroby medyczne, je˝eli sà one konieczne do wykonania Êwiadczenia.
+**Art. 35.** Âwiadczeniobiorcy przyjętemu do szpitala lub innego zakładu opieki zdrowotnej przeznaczonego dla osób potrzebujących całodobowych lub całodziennych świadczeń opieki zdrowotnej, oraz przy wykonywaniu zabiegów leczniczych i pielęgnacyjnych, diagnostycznych i rehabilitacyjnych przez podmioty uprawnione do udzielania świadczeń, a także przy udzielaniu przez te podmioty pomocy w stanach nagłych, zapewnia się bezpłatnie leki i wyroby medyczne, jeżeli są one konieczne do wykonania świadczenia.
 
 **Art. 36.**
 
-1. Leki podstawowe, leki uzupe∏niajàce oraz leki recepturowe sà wydawane Êwiadczeniobiorcy na podstawie recepty, za odp∏atnoÊcià:
+1. Leki podstawowe, leki uzupełniające oraz leki recepturowe są wydawane świadczeniobiorcy na podstawie recepty, za odpłatnością:
 
-- **1)** rycza∏towà za leki podstawowe i recepturowe przygotowywane z surowców farmaceutycznych, o których mowa w ust. 5 pkt 4, lub z leków gotowych zamieszczonych w wykazach leków podstawowych i uzupe∏niajàcych, pod warunkiem ˝e przepisana dawka leku recepturowego jest mniejsza od najmniejszej dawki leku gotowego w formie sta∏ej stosowanej doustnie;
-- **2)** w wysokoÊci 30 % albo 50 % ceny leku za leki uzupe∏niajàce.
+- **1)** ryczałtową za leki podstawowe i recepturowe przygotowywane z surowców farmaceutycznych, o których mowa w ust. 5 pkt 4, lub z leków gotowych zamieszczonych w wykazach leków podstawowych i uzupełniających, pod warunkiem że przepisana dawka leku recepturowego jest mniejsza od najmniejszej dawki leku gotowego w formie stałej stosowanej doustnie;
+- **2)** w wysokości 30 % albo 50 % ceny leku za leki uzupełniające.
 
-2. Op∏ata rycza∏towa oraz cz´Êciowa odp∏atnoÊç dotyczy jednostkowego opakowania leku okreÊlonego w wykazach, o których mowa w ust. 5 pkt 1.
+2. Opłata ryczałtowa oraz częściowa odpłatność dotyczy jednostkowego opakowania leku określonego w wykazach, o których mowa w ust. 5 pkt 1.
 
-3. Op∏ata rycza∏towa nie mo˝e przekraczaç 0,5 % minimalnego wynagrodzenia wprzypadku leku podstawowego oraz 1,5 % minimalnego wynagrodzenia w przypadku leku recepturowego.
+3. Opłata ryczałtowa nie może przekraczać 0,5 % minimalnego wynagrodzenia wprzypadku leku podstawowego oraz 1,5 % minimalnego wynagrodzenia w przypadku leku recepturowego.
 
-4. Leki niewpisane do Rejestru Produktów Leczniczypospolitej Polskiej i sprowadzone z zagranicy na warunkach i w trybie okreÊlonych w art. 4 ustawy z dnia 6 wrzeÊnia 2001 r. Prawo farmaceutyczne (Dz. U. z 2004 r. 53, poz. 533, z póên. zm. czych Dopuszczonych do Obrotu na terytorium Rze) mogà byç wydawane po wniesieniu op∏aty rycza∏towej, pod warunkiem ˝e koniecznoÊç ich refundacji zosta∏a potwierdzona przez Prezesa Funduszu, który uwzgl´dnia wszczególnoÊci ich skutecznoÊç klinicznà, bezpieczeƒstwo icen´ wporównaniu do leków wpisanych do Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej otym samym wskazaniu terapeutycznym.
+4. Leki niewpisane do Rejestru Produktów Leczniczypospolitej Polskiej i sprowadzone z zagranicy na warunkach i w trybie określonych w art. 4 ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2004 r. 53, poz. 533, z póên. zm. czych Dopuszczonych do Obrotu na terytorium Rze) mogą być wydawane po wniesieniu opłaty ryczałtowej, pod warunkiem że konieczność ich refundacji została potwierdzona przez Prezesa Funduszu, który uwzględnia wszczególności ich skuteczność kliniczną, bezpieczeństwo icenę wporównaniu do leków wpisanych do Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej otym samym wskazaniu terapeutycznym.
 
-5. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, okreÊli, w drodze rozporzàdzenia:
+5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia:
 
-- **1)** wykaz leków podstawowych i uzupe∏niajàcych,
-- **2)** wysokoÊç op∏aty rycza∏towej za leki podstawowe i recepturowe,
-- **3)** wysokoÊç odp∏atnoÊci za leki uzupe∏niajàce,
-- **4)** wykaz leków, które mogà byç traktowane jako surowce farmaceutyczne przy sporzàdzaniu leków recepturowych,
-- **5)** iloÊç leku recepturowego, którego dotyczy op∏ata rycza∏towa, oraz sposób obliczania kosztu sporzàdzania leku recepturowego uwzgl´dniajàc w szczególnoÊci koniecznoÊç zapewnienia ochrony zdrowia spo∏eczeƒstwa, dost´pnoÊç do leków oraz bezpieczeƒstwo ich stosowania, znaczenie leku w zwalczaniu chorób o znacznym zagro˝eniu epidemiologicznym i cywilizacyjnym, wp∏yw leku na bezpoÊrednie koszty leczenia, a tak˝e mo˝liwoÊci p∏atnicze podmiotu zobowiàzanego do finansowania Êwiadczeƒ ze Êrodków publicznych.
+- **1)** wykaz leków podstawowych i uzupełniających,
+- **2)** wysokość opłaty ryczałtowej za leki podstawowe i recepturowe,
+- **3)** wysokość odpłatności za leki uzupełniające,
+- **4)** wykaz leków, które mogą być traktowane jako surowce farmaceutyczne przy sporządzaniu leków recepturowych,
+- **5)** ilość leku recepturowego, którego dotyczy opłata ryczałtowa, oraz sposób obliczania kosztu sporządzania leku recepturowego uwzględniając w szczególności konieczność zapewnienia ochrony zdrowia społeczeństwa, dostępność do leków oraz bezpieczeństwo ich stosowania, znaczenie leku w zwalczaniu chorób o znacznym zagrożeniu epidemiologicznym i cywilizacyjnym, wpływ leku na bezpośrednie koszty leczenia, a także możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych.
 
-6. Wykazy, októrych mowa wust. 5 pkt 1, sà aktualizowane co najmniej raz na 6 miesi´cy.
+6. Wykazy, októrych mowa wust. 5 pkt 1, są aktualizowane co najmniej raz na 6 miesięcy.
 
 **Art. 37.**
 
-1. Âwiadczeniobiorcom chorujàcym na choroby zakaêne lub psychiczne oraz upoÊledzonym umys∏owo, a tak˝e chorujàcym na niektóre choroby przewlek∏e, wrodzone lub nabyte, leki i wyroby medyczne sà przepisywane bezp∏atnie, za op∏atà rycza∏towà okreÊlonà w art. 36 ust. 1 pkt 1 lub za cz´Êciowà odp∏atnoÊcià okreÊlonà w art. 36 ust. 1 pkt 2.
+1. Âwiadczeniobiorcom chorującym na choroby zakaêne lub psychiczne oraz upośledzonym umysłowo, a także chorującym na niektóre choroby przewlekłe, wrodzone lub nabyte, leki i wyroby medyczne są przepisywane bezpłatnie, za opłatą ryczałtową określoną w art. 36 ust. 1 pkt 1 lub za częściową odpłatnością określoną w art. 36 ust. 1 pkt 2.
 
-2. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, okreÊli, w drodze rozporzàdzenia:
+2. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia:
 
 - **1)** wykaz chorób, o których mowa w ust. 1,
-- **2)** dla ka˝dej z chorób, o których mowa w ust. 1, wykaz leków iwyrobów medycznych, które ze wzgl´du na choroby okreÊlone wwykazie, októrym mowa w pkt 1, sà przepisywane bezp∏atnie, za op∏atà rycza∏towà lub za cz´Êciowà odp∏atnoÊcià uwzgl´dniajàc w szczególnoÊci koniecznoÊç zapewnienia ochrony zdrowia spo∏eczeƒstwa, dost´p——————— noÊç do leków, bezpieczeƒstwo ich stosowania oraz mo˝liwoÊci p∏atnicze podmiotu zobowiàzanego do finansowania Êwiadczeƒ ze Êrodków publicznych.
+- **2)** dla każdej z chorób, o których mowa w ust. 1, wykaz leków iwyrobów medycznych, które ze względu na choroby określone wwykazie, októrym mowa w pkt 1, są przepisywane bezpłatnie, za opłatą ryczałtową lub za częściową odpłatnością uwzględniając w szczególności konieczność zapewnienia ochrony zdrowia społeczeństwa, dostęp——————— ność do leków, bezpieczeństwo ich stosowania oraz możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych.
 
-3. Wykazy, o których mowa w ust. 2, aktualizowane sà co najmniej raz na 6 miesi´cy.
+3. Wykazy, o których mowa w ust. 2, aktualizowane są co najmniej raz na 6 miesięcy.
 
 **Art. 38.**
 
-1. Wprowadza si´ limity cen leków zawartych w wykazach, o których mowa w art. 36 ust. 5 pkt 1 oraz art. 37 ust. 2 pkt 2, posiadajàcych t´ samà nazw´ mi´dzynarodowà albo ró˝ne nazwy mi´dzynarodowe, ale podobne dzia∏anie terapeutyczne.
+1. Wprowadza się limity cen leków zawartych w wykazach, o których mowa w art. 36 ust. 5 pkt 1 oraz art. 37 ust. 2 pkt 2, posiadających tę samą nazwę międzynarodową albo różne nazwy międzynarodowe, ale podobne działanie terapeutyczne.
 
-2. Jednakowy limit ceny leku dotyczy leków, októrych mowa wust. 1, otej samej dawce, wielkoÊci opakowania i drodze podania.
+2. Jednakowy limit ceny leku dotyczy leków, októrych mowa wust. 1, otej samej dawce, wielkości opakowania i drodze podania.
 
-3. Apteka mo˝e wydaç lek, o którym mowa w ust. 1, którego cena przekracza limit ceny, pobierajàc dop∏at´ w wysokoÊci ró˝nicy mi´dzy cenà wydawanego leku a wysokoÊcià limitu ceny.
+3. Apteka może wydać lek, o którym mowa w ust. 1, którego cena przekracza limit ceny, pobierając dopłatę w wysokości różnicy między ceną wydawanego leku a wysokością limitu ceny.
 
-4. Apteka ma obowiàzek poinformowaç Êwiadczeniobiorc´ o mo˝liwoÊci nabycia leku, innego ni˝ przepisany na recepcie, otej samej nazwie mi´dzynarodowej, dawce, postaci farmaceutycznej i o tym samym wskazaniu terapeutycznym, którego cena nie przekracza limitu ceny. Nie dotyczy to sytuacji, kiedy wystawiajàcy recept´ dokona∏ odpowiedniej adnotacji na druku recepty wskazujàcej na niemo˝noÊç dokonania zamiany przepisanego leku.
+4. Apteka ma obowiązek poinformować świadczeniobiorcę o możliwości nabycia leku, innego niż przepisany na recepcie, otej samej nazwie międzynarodowej, dawce, postaci farmaceutycznej i o tym samym wskazaniu terapeutycznym, którego cena nie przekracza limitu ceny. Nie dotyczy to sytuacji, kiedy wystawiający receptę dokonał odpowiedniej adnotacji na druku recepty wskazującej na niemożność dokonania zamiany przepisanego leku.
 
-5. Je˝eli w wykazach, o których mowa w art. 36 ust. 5 pkt 1 iart. 37 ust. 2 pkt 2, zamieszczono lek onazwie mi´dzynarodowej, apteka mo˝e wydaç, na zasadach okreÊlonych w art. 36 ust. 1, art. 37 ust. 1 oraz art. 43—46, równie˝ inny lek dopuszczony do obrotu, niezamieszczony w tych wykazach, a o tej samej nazwie mi´dzynarodowej, pod warunkiem ˝e jego cena nie jest wy˝sza od limitu ceny, a je˝eli limit nie zosta∏ ustalony od ceny leku zamieszczonego w wykazach.
+5. Jeżeli w wykazach, o których mowa w art. 36 ust. 5 pkt 1 iart. 37 ust. 2 pkt 2, zamieszczono lek onazwie międzynarodowej, apteka może wydać, na zasadach określonych w art. 36 ust. 1, art. 37 ust. 1 oraz art. 43—46, również inny lek dopuszczony do obrotu, niezamieszczony w tych wykazach, a o tej samej nazwie międzynarodowej, pod warunkiem że jego cena nie jest wyższa od limitu ceny, a jeżeli limit nie został ustalony od ceny leku zamieszczonego w wykazach.
 
-6. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, ustala, w drodze rozporzàdzenia, limity cen leków posiadajàcych t´ samà nazw´ mi´dzynarodowà oraz leków o ró˝nych nazwach mi´dzynarodowych, ale o podobnym dzia∏aniu terapeutycznym, wymienionych w wykazach leków podstawowych i uzupe∏niajàcych, o których mowa wart. 36 ust. 5 pkt 1, oraz limity cen leków iwyrobów medycznych, o których mowa w art. 37 ust. 2 pkt 2, uwzgl´dniajàc w szczególnoÊci skutecznoÊç i bezpieczeƒstwo ich stosowania.
+6. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Aptekarskiej, ustala, w drodze rozporządzenia, limity cen leków posiadających tę samą nazwę międzynarodową oraz leków o różnych nazwach międzynarodowych, ale o podobnym działaniu terapeutycznym, wymienionych w wykazach leków podstawowych i uzupełniających, o których mowa wart. 36 ust. 5 pkt 1, oraz limity cen leków iwyrobów medycznych, o których mowa w art. 37 ust. 2 pkt 2, uwzględniając w szczególności skuteczność i bezpieczeństwo ich stosowania.
 
-7. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, kryteria kwalifikacji leków o ró˝nych nazwach mi´dzynarodowych, ale o podobnym dzia∏aniu terapeutycznym, do grupy obj´tej wspólnym limitem ceny, bioràc pod uwag´ wskazania terapeutyczne i bezpieczeƒstwo ich stosowania oraz skutecznoÊç leków.
+7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, kryteria kwalifikacji leków o różnych nazwach międzynarodowych, ale o podobnym działaniu terapeutycznym, do grupy objętej wspólnym limitem ceny, biorąc pod uwagę wskazania terapeutyczne i bezpieczeństwo ich stosowania oraz skuteczność leków.
 
 **Art. 39.**
 
-1. Podmiot odpowiedzialny, a tak˝e wyprzedstawiciel albo importer, zwani dalej „wnioskodawcà”, mogà sk∏adaç do ministra w∏aÊciwego do spraw zdrowia wnioski o umieszczenie leków lub wyrobów medycznych w wykazach, o których mowa w przepisach wydanych na podstawie art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2.
+1. Podmiot odpowiedzialny, a także wyprzedstawiciel albo importer, zwani dalej Ńwnioskodawcą”, mogą składać do ministra właściwego do spraw zdrowia wnioski o umieszczenie leków lub wyrobów medycznych w wykazach, o których mowa w przepisach wydanych na podstawie art. 36 ust. 5 pkt 1 i art. 37 ust. 2 pkt 2.
 
-2. Wnioski, o których mowa w ust. 1, zawierajà:
+2. Wnioski, o których mowa w ust. 1, zawierają:
 
-- **1)** oznaczenie (firm´) wnioskodawcy, jego siedzib´ i adres;
-- **2)** nazw´ i proponowanà cen´ leku lub wyrobu medycznego;
-- **3)** wielkoÊç realizowanych dostaw w okresie poprzedzajàcym z∏o˝enie wniosku i deklarowanych w okresie póêniejszym;
-- **4)** dzienny koszt terapii oraz Êredni koszt standardowej terapii;
+- **1)** oznaczenie (firmę) wnioskodawcy, jego siedzibę i adres;
+- **2)** nazwę i proponowaną cenę leku lub wyrobu medycznego;
+- **3)** wielkość realizowanych dostaw w okresie poprzedzającym złożenie wniosku i deklarowanych w okresie póêniejszym;
+- **4)** dzienny koszt terapii oraz średni koszt standardowej terapii;
 - **5)** uzasadnienie wniosku i proponowanej ceny;
-- **6)** analiz´ skutecznoÊci klinicznej, efektywnoÊci kosztowej oraz analiz´ wp∏ywu na ogólne koszty refundacji dla leku oryginalnego.
+- **6)** analizę skuteczności klinicznej, efektywności kosztowej oraz analizę wpływu na ogólne koszty refundacji dla leku oryginalnego.
 
-3. Wnioski okreÊlone wust. 1 rozpatruje Zespó∏ do Spraw Gospodarki Lekami, o którym mowa w art. 7 ustawy z dnia 5 lipca 2001 r. o cenach (Dz. U. 97, poz. 1050, z2002 r. 144, poz. 1204, z2003 r. 137, poz. 1302 oraz z 2004 r. 96, poz. 959), zwany dalej „Zespo∏em”.
+3. Wnioski określone wust. 1 rozpatruje Zespół do Spraw Gospodarki Lekami, o którym mowa w art. 7 ustawy z dnia 5 lipca 2001 r. o cenach (Dz. U. 97, poz. 1050, z2002 r. 144, poz. 1204, z2003 r. 137, poz. 1302 oraz z 2004 r. 96, poz. 959), zwany dalej ŃZespołem”.
 
-4. Zespó∏ nie rozpatruje wniosku, o którym mowa w ust. 1, je˝eli nie spe∏nia on wymogów okreÊlonych w ust. 2.
+4. Zespół nie rozpatruje wniosku, o którym mowa w ust. 1, jeżeli nie spełnia on wymogów określonych w ust. 2.
 
-5. Zespó∏ przekazuje wnioskodawcy stanowisko wsprawie nieuwzgl´dnienia wniosku, októrym mowa w ust. 1, wraz z uzasadnieniem. W terminie 14 dni od dnia otrzymania stanowiska wnioskodawca mo˝e zwróciç si´ do ministra w∏aÊciwego do spraw zdrowia o ponowne rozpatrzenie wniosku.
+5. Zespół przekazuje wnioskodawcy stanowisko wsprawie nieuwzględnienia wniosku, októrym mowa w ust. 1, wraz z uzasadnieniem. W terminie 14 dni od dnia otrzymania stanowiska wnioskodawca może zwrócić się do ministra właściwego do spraw zdrowia o ponowne rozpatrzenie wniosku.
 
-6. Rozpatrywanie wniosku nie powinno trwaç d∏u˝ej ni˝ 90 dni, liczàc od dnia jego z∏o˝enia, z tym ˝e w przypadku koniecznoÊci uzupe∏nienia danych niezb´dnych do umieszczenia danego leku i wyrobu medycznego we w∏aÊciwym wykazie bieg tego terminu ulega zawieszeniu do dnia otrzymania uzupe∏nienia wniosku.
+6. Rozpatrywanie wniosku nie powinno trwać dłużej niż 90 dni, licząc od dnia jego złożenia, z tym że w przypadku konieczności uzupełnienia danych niezbędnych do umieszczenia danego leku i wyrobu medycznego we właściwym wykazie bieg tego terminu ulega zawieszeniu do dnia otrzymania uzupełnienia wniosku.
 
-7. W przypadku gdy procedura umieszczenia leku lub wyrobu medycznego w wykazach, o których mowa wprzepisach wydanych na podstawie art. 36 ust. 5 pkt 1 iart. 37 ust. 2 pkt 2, wyst´puje ∏àcznie zrozpatrywaniem informacji lub wniosku oustalenie ceny urz´dowej, ∏àczny termin nie powinien przekroczyç 180 dni, awprzypadku koniecznoÊci uzupe∏nienia danych niezb´dnych do rozpatrzenia wniosków ∏àcznie bieg tego terminu ulega zawieszeniu do dnia otrzymania uzupe∏nienia wniosku. twórca wyrobów medycznych, jego autoryzowany
+7. W przypadku gdy procedura umieszczenia leku lub wyrobu medycznego w wykazach, o których mowa wprzepisach wydanych na podstawie art. 36 ust. 5 pkt 1 iart. 37 ust. 2 pkt 2, występuje łącznie zrozpatrywaniem informacji lub wniosku oustalenie ceny urzędowej, łączny termin nie powinien przekroczyć 180 dni, awprzypadku konieczności uzupełnienia danych niezbędnych do rozpatrzenia wniosków łącznie bieg tego terminu ulega zawieszeniu do dnia otrzymania uzupełnienia wniosku. twórca wyrobów medycznych, jego autoryzowany
 
-8. Od decyzji ministra w∏aÊciwego do spraw zdrowia przys∏uguje skarga do sàdu administracyjnego.
+8. Od decyzji ministra właściwego do spraw zdrowia przysługuje skarga do sądu administracyjnego.
 
-9. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia:
+9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** szczegó∏owy zakres informacji zawartych we wnioskach, o których mowa w ust. 1,
-- **2)** sposób sk∏adania oraz tryb i terminy rozpatrywania wniosków, o których mowa w ust. 1 z uwzgl´dnieniem przepisów ust. 2—7.
+- **1)** szczegółowy zakres informacji zawartych we wnioskach, o których mowa w ust. 1,
+- **2)** sposób składania oraz tryb i terminy rozpatrywania wniosków, o których mowa w ust. 1 z uwzględnieniem przepisów ust. 2—7.
 
 **Art. 40.**
 
-1. Zaopatrzenie wwyroby medyczne b´dàce przedmiotami ortopedycznymi oraz w Êrodki pomocnicze przys∏uguje Êwiadczeniobiorcom na zlecenie lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego, na zasadach okreÊlonych w ustawie.
+1. Zaopatrzenie wwyroby medyczne będące przedmiotami ortopedycznymi oraz w środki pomocnicze przysługuje świadczeniobiorcom na zlecenie lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego, na zasadach określonych w ustawie.
 
-2. Udzia∏ Êrodków publicznych w cenie wyrobu medycznego b´dàcego przedmiotem ortopedycznym lub Êrodka pomocniczego nie mo˝e byç ni˝szy ni˝ kwota stanowiàca 50 % limitu ceny okreÊlonego wprzepisach wydanych na podstawie ust. 4 dla wyrobu medycznego b´dàcego przedmiotem ortopedycznym lub Êrodka pomocniczego albo ceny nabycia przedmiotu ortopedycznego i Êrodka pomocniczego.
+2. Udział środków publicznych w cenie wyrobu medycznego będącego przedmiotem ortopedycznym lub środka pomocniczego nie może być niższy niż kwota stanowiąca 50 % limitu ceny określonego wprzepisach wydanych na podstawie ust. 4 dla wyrobu medycznego będącego przedmiotem ortopedycznym lub środka pomocniczego albo ceny nabycia przedmiotu ortopedycznego i środka pomocniczego.
 
-3. Limit ceny okreÊlony dla naprawy wyrobu medycznego b´dàcego przedmiotem ortopedycznym mo˝e byç wykorzystany przez Êwiadczeniobiorc´ do dokonania naprawy u˝ytkowanego przedmiotu ortopedycznego w okresie u˝ywalnoÊci ustalonym dla danego przedmiotu.
+3. Limit ceny określony dla naprawy wyrobu medycznego będącego przedmiotem ortopedycznym może być wykorzystany przez świadczeniobiorcę do dokonania naprawy użytkowanego przedmiotu ortopedycznego w okresie używalności ustalonym dla danego przedmiotu.
 
-4. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, okreÊli, w drodze rozporzàdzenia, limit cen dla wyrobów medycznych b´dàcych przedmiotami ortopedycznymi i Êrodków pomocniczych, otakim samym zastosowaniu, ale ró˝nych cenach w zakresie którego podmiot zobowiàzany do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych finansuje to Êwiadczenie, oraz limit cen dla napraw przedmiotów ortopedycznych, uwzgl´dniajàc dobro Êwiadczeniobiorcy oraz mo˝liwoÊci p∏atnicze podmiotu zobowiàzanego do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych.
+4. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, limit cen dla wyrobów medycznych będących przedmiotami ortopedycznymi i środków pomocniczych, otakim samym zastosowaniu, ale różnych cenach w zakresie którego podmiot zobowiązany do finansowania świadczeń opieki zdrowotnej ze środków publicznych finansuje to świadczenie, oraz limit cen dla napraw przedmiotów ortopedycznych, uwzględniając dobro świadczeniobiorcy oraz możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń opieki zdrowotnej ze środków publicznych.
 
-5. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej oraz Naczelnej Rady Piel´gniarek i Po∏o˝nych, okreÊli, w drodze rozporzàdzenia, szczegó∏owy wykaz wyrobów medycznych b´dàcych przedmiotami ortopedycznymi i Êrodków pomocniczych, wysokoÊç udzia∏u w∏asnego Êwiadczeniobiorcy w cenie ich nabycia, kryteria ich przyznawania, okresy u˝ytkowania, a tak˝e wyroby medyczne b´dàce przedmiotami ortopedycznymi podlegajàce naprawie w zale˝noÊci od wskazaƒ medycznych oraz wzór zlecenia, o którym mowa wust. 1 iwart. 47, uwzgl´dniajàc dobro Êwiadczeniobiorcy oraz mo˝liwoÊci p∏atnicze podmiotu zobowiàzanego do finansowania Êwiadczeƒ opieki zdroArt. 41. 1. Âwiadczeniobiorcy, na podstawie zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego, przys∏uguje bezp∏atny przejazd Êrodkami transportu sanitarnego, w tym lotniczego, do najbli˝szego zak∏adu opieki zdrowotnej udzielajàcego Êwiadczeƒ we w∏aÊciwym zakresie, i z powrotem, w przypadkach:
+5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej oraz Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze rozporządzenia, szczegółowy wykaz wyrobów medycznych będących przedmiotami ortopedycznymi i środków pomocniczych, wysokość udziału własnego świadczeniobiorcy w cenie ich nabycia, kryteria ich przyznawania, okresy użytkowania, a także wyroby medyczne będące przedmiotami ortopedycznymi podlegające naprawie w zależności od wskazań medycznych oraz wzór zlecenia, o którym mowa wust. 1 iwart. 47, uwzględniając dobro świadczeniobiorcy oraz możliwości płatnicze podmiotu zobowiązanego do finansowania świadczeń opieki zdroArt. 41. 1. Âwiadczeniobiorcy, na podstawie zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego, przysługuje bezpłatny przejazd środkami transportu sanitarnego, w tym lotniczego, do najbliższego zakładu opieki zdrowotnej udzielającego świadczeń we właściwym zakresie, i z powrotem, w przypadkach:
 
-- **1)** koniecznoÊci podj´cia natychmiastowego leczenia w zak∏adzie opieki zdrowotnej;
-- **2)** wynikajàcych z potrzeby zachowania ciàg∏oÊci leczenia.
+- **1)** konieczności podjęcia natychmiastowego leczenia w zakładzie opieki zdrowotnej;
+- **2)** wynikających z potrzeby zachowania ciągłości leczenia.
 
-2. Âwiadczeniobiorcy, na podstawie zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego, przys∏uguje bezp∏atny przejazd Êrodkami transportu sanitarnego wprzypadku dysfunkcji narzàdu ruchu uniemo˝liwiajàcej korzystanie ze Êrodków transportu publicznego, wcelu odbycia leczenia do najbli˝szego zak∏adu opieki zdrowotnej udzielajàcego Êwiadczeƒ we w∏aÊciwym zakresie, i z powrotem.
+2. Âwiadczeniobiorcy, na podstawie zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego, przysługuje bezpłatny przejazd środkami transportu sanitarnego wprzypadku dysfunkcji narządu ruchu uniemożliwiającej korzystanie ze środków transportu publicznego, wcelu odbycia leczenia do najbliższego zakładu opieki zdrowotnej udzielającego świadczeń we właściwym zakresie, i z powrotem.
 
-3. Wprzypadkach niewymienionych wust. 1 i2 na podstawie zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego Êwiadczeniobiorcy przys∏uguje przejazd Êrodkami transportu sanitarnego odp∏atnie lub za cz´Êciowà odp∏atnoÊcià.
+3. Wprzypadkach niewymienionych wust. 1 i2 na podstawie zlecenia lekarza ubezpieczenia zdrowotnego lub felczera ubezpieczenia zdrowotnego świadczeniobiorcy przysługuje przejazd środkami transportu sanitarnego odpłatnie lub za częściową odpłatnością.
 
-4. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, okreÊli, w drodze rozporzàdzenia, wykaz grup jednostek chorobowych, stopnie niesprawnoÊci oraz wysokoÊç udzia∏u w∏asnego Êwiadczeniobiorcy, w przypadkach okreÊlonych w ust. 3, w zale˝noÊci od wskazaƒ medycznych, uwzgl´dniajàc w szczególnoÊci mo˝liwoÊç samodzielnego poruszania si´ oraz Êrednie koszty przejazdu Êrodkami transportu sanitarnego.
+4. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu oraz Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, wykaz grup jednostek chorobowych, stopnie niesprawności oraz wysokość udziału własnego świadczeniobiorcy, w przypadkach określonych w ust. 3, w zależności od wskazań medycznych, uwzględniając w szczególności możliwość samodzielnego poruszania się oraz średnie koszty przejazdu środkami transportu sanitarnego.
 
 **Art. 42.**
 
-1. Âwiadczenia opieki zdrowotnej, o których mowa w za∏àczniku do ustawy, oraz odp∏atne Êwiadczenia opieki zdrowotnej udzielane ˝o∏nierzom w czynnej s∏u˝bie wojskowej i pracownikom wojska, o których mowa w art. 6 ustawy z dnia 17 grudnia 1998 r. o zasadach u˝ycia lub pobytu Si∏ Zbrojnych Rzeczypospolitej Polskiej poza granicami paƒstwa (Dz. U. 162, poz. 1117), oraz po ich zwolnieniu ze s∏u˝by lub ustaniu umowy oprac´, wzwiàzku zurazami nabytymi podczas wykonywania zadaƒ poza granicami paƒstwa, pokrywa si´ zbud˝etu paƒstwa zcz´Êci pozostajàcej w dyspozycji Ministra Obrony Narodowej.
+1. Âwiadczenia opieki zdrowotnej, o których mowa w załączniku do ustawy, oraz odpłatne świadczenia opieki zdrowotnej udzielane żołnierzom w czynnej służbie wojskowej i pracownikom wojska, o których mowa w art. 6 ustawy z dnia 17 grudnia 1998 r. o zasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. 162, poz. 1117), oraz po ich zwolnieniu ze służby lub ustaniu umowy opracę, wzwiązku zurazami nabytymi podczas wykonywania zadań poza granicami państwa, pokrywa się zbudżetu państwa zczęści pozostającej w dyspozycji Ministra Obrony Narodowej.
 
-2. Âwiadczenia opieki zdrowotnej, októrych mowa w za∏àczniku do ustawy, oraz odp∏atne Êwiadczenia opieki zdrowotnej udzielane policjantom, funkcjonariuszom Stra˝y Granicznej, funkcjonariuszom Biura Ochrony Rzàdu, stra˝akom Paƒstwowej Stra˝y Po˝arnej, atak˝e pracownikom tych s∏u˝b, oraz po ich zwolnieniu ze s∏u˝by lub ustaniu umowy oprac´, wzwiàzku z urazami nabytymi podczas wykonywania zadaƒ poza granicami paƒstwa, pokrywa si´ z bud˝etu paƒwotnej ze Êrodków publicznych. stwa z cz´Êci pozostajàcej w dyspozycji ministra w∏aÊciwego do spraw wewn´trznych. Rozdzia∏ 3 Szczególne uprawnienia do Êwiadczeƒ opieki zdrowotnej
+2. Âwiadczenia opieki zdrowotnej, októrych mowa w załączniku do ustawy, oraz odpłatne świadczenia opieki zdrowotnej udzielane policjantom, funkcjonariuszom Straży Granicznej, funkcjonariuszom Biura Ochrony Rządu, strażakom Państwowej Straży Pożarnej, atakże pracownikom tych służb, oraz po ich zwolnieniu ze służby lub ustaniu umowy opracę, wzwiązku z urazami nabytymi podczas wykonywania zadań poza granicami państwa, pokrywa się z budżetu pańwotnej ze środków publicznych. stwa z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych.
+
+#### Rozdział 3 Szczególne uprawnienia do świadczeń opieki zdrowotnej
 
 **Art. 43.**
 
-1. Âwiadczeniobiorcy, który posiada tytu∏ „Zas∏u˝onego Honorowego Dawcy Krwi” iprzedstawi legitymacj´ „Zas∏u˝onego Honorowego Dawcy Krwi”, przys∏uguje bezp∏atne zaopatrzenie w leki obj´te wykazami leków podstawowych i uzupe∏niajàcych do wysokoÊci limitu, októrym mowa wart. 38 ust. 1, oraz w okreÊlone, w drodze rozporzàdzenia, przez ministra w∏aÊciwego do spraw zdrowia leki, które zas∏u˝ony honorowy dawca krwi mo˝e stosowaç wzwiàzku zoddawaniem krwi, na podstawie recepty wystawionej przez lekarza ubezpieczenia zdrowotnego albo felczera ubezpieczenia zdrowotnego lub lekarza albo felczera nieb´dàcego lekarzem albo felczerem ubezpieczenia zdrowotnego, je˝eli posiada uprawnienia do wykonywania zawodu oraz zawar∏ z oddzia∏em wojewódzkim Funduszu umow´ upowa˝niajàcà go do wystawiania takich recept.
+1. Âwiadczeniobiorcy, który posiada tytuł ŃZasłużonego Honorowego Dawcy Krwi” iprzedstawi legitymację ŃZasłużonego Honorowego Dawcy Krwi”, przysługuje bezpłatne zaopatrzenie w leki objęte wykazami leków podstawowych i uzupełniających do wysokości limitu, októrym mowa wart. 38 ust. 1, oraz w określone, w drodze rozporządzenia, przez ministra właściwego do spraw zdrowia leki, które zasłużony honorowy dawca krwi może stosować wzwiązku zoddawaniem krwi, na podstawie recepty wystawionej przez lekarza ubezpieczenia zdrowotnego albo felczera ubezpieczenia zdrowotnego lub lekarza albo felczera niebędącego lekarzem albo felczerem ubezpieczenia zdrowotnego, jeżeli posiada uprawnienia do wykonywania zawodu oraz zawarł z oddziałem wojewódzkim Funduszu umowę upoważniającą go do wystawiania takich recept.
 
-2. Osoba przedstawiajàca recept´ do realizacji jest obowiàzana do okazania dokumentu, o którym mowa w ust. 1.
+2. Osoba przedstawiająca receptę do realizacji jest obowiązana do okazania dokumentu, o którym mowa w ust. 1.
 
 **Art. 44.**
 
-1. Osobom, o których mowa w art. 66 ust. 1 pkt 2, przys∏uguje bezp∏atne zaopatrzenie wleki umieszczone wwykazach leków podstawowych iuzupe∏niajàcych oraz leki recepturowe.
+1. Osobom, o których mowa w art. 66 ust. 1 pkt 2, przysługuje bezpłatne zaopatrzenie wleki umieszczone wwykazach leków podstawowych iuzupełniających oraz leki recepturowe.
 
-2. Osobom, o których mowa w ust. 1, recept´ mo˝e wystawiç lekarz ubezpieczenia zdrowotnego albo felczer ubezpieczenia zdrowotnego lub lekarz albo felczer nieb´dàcy lekarzem albo felczerem ubezpieczenia zdrowotnego, je˝eli posiada uprawnienia do wykonywania zawodu oraz zawar∏ z oddzia∏em wojewódzkim Funduszu umow´ upowa˝niajàcà go do wystawiania takich recept.
+2. Osobom, o których mowa w ust. 1, receptę może wystawić lekarz ubezpieczenia zdrowotnego albo felczer ubezpieczenia zdrowotnego lub lekarz albo felczer niebędący lekarzem albo felczerem ubezpieczenia zdrowotnego, jeżeli posiada uprawnienia do wykonywania zawodu oraz zawarł z oddziałem wojewódzkim Funduszu umowę upoważniającą go do wystawiania takich recept.
 
-3. Osoby, októrych mowa wust. 1, sà obowiàzane do okazania lekarzowi albo felczerowi wystawiajàcemu recept´ dokumentu potwierdzajàcego przys∏ugujàce uprawnienie.
+3. Osoby, októrych mowa wust. 1, są obowiązane do okazania lekarzowi albo felczerowi wystawiającemu receptę dokumentu potwierdzającego przysługujące uprawnienie.
 
-4. Osoba przedstawiajàca recept´ do realizacji jest obowiàzana do okazania dokumentu, o którym mowa w ust. 3.
+4. Osoba przedstawiająca receptę do realizacji jest obowiązana do okazania dokumentu, o którym mowa w ust. 3.
 
 **Art. 45.**
 
 1. Osobom:
 
-- **1)** które sà inwalidami wojskowymi,
-- **2)** które dozna∏y uszczerbku na zdrowiu w okolicznoÊciach okreÊlonych w art. 7 i 8 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych iwojskowych oraz ich rodzin, inie zosta∏y zaliczone do ˝adnej z grup inwalidów,
-- **3)** wymienionym w art. 42 i 59 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin przys∏uguje bezp∏atne zaopatrzenie w leki obj´te
+- **1)** które są inwalidami wojskowymi,
+- **2)** które doznały uszczerbku na zdrowiu w okolicznościach określonych w art. 7 i 8 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych iwojskowych oraz ich rodzin, inie zostały zaliczone do żadnej z grup inwalidów,
+- **3)** wymienionym w art. 42 i 59 ustawy z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin przysługuje bezpłatne zaopatrzenie w leki objęte
 
-2. Osobom, o których mowa w ust. 1, recept´ mo˝e wystawiç lekarz ubezpieczenia zdrowotnego albo felczer ubezpieczenia zdrowotnego lub lekarz albo felczer nieb´dàcy lekarzem albo felczerem ubezpieczenia zdrowotnego, je˝eli posiada uprawnienia do wykonywania zawodu oraz zawar∏ z oddzia∏em wojewódzkim Funduszu umow´ upowa˝niajàcà go do wystawiania takich recept.
+2. Osobom, o których mowa w ust. 1, receptę może wystawić lekarz ubezpieczenia zdrowotnego albo felczer ubezpieczenia zdrowotnego lub lekarz albo felczer niebędący lekarzem albo felczerem ubezpieczenia zdrowotnego, jeżeli posiada uprawnienia do wykonywania zawodu oraz zawarł z oddziałem wojewódzkim Funduszu umowę upoważniającą go do wystawiania takich recept.
 
-3. Osoby, októrych mowa wust. 1, sà obowiàzane do okazania lekarzowi albo felczerowi wystawiajàcemu recept´ dokumentu potwierdzajàcego przys∏ugujàce uprawnienie.
+3. Osoby, októrych mowa wust. 1, są obowiązane do okazania lekarzowi albo felczerowi wystawiającemu receptę dokumentu potwierdzającego przysługujące uprawnienie.
 
-4. Lekarz albo felczer wystawiajàcy recept´ obowiàzany jest wpisaç na recepcie numer PESEL osoby, o której mowa w ust. 1.
+4. Lekarz albo felczer wystawiający receptę obowiązany jest wpisać na recepcie numer PESEL osoby, o której mowa w ust. 1.
 
-5. Osoba przedstawiajàca recept´ do realizacji jest obowiàzana do okazania dokumentu, o którym mowa w ust. 3. wykazami leków podstawowych i uzupe∏niajàcych.
+5. Osoba przedstawiająca receptę do realizacji jest obowiązana do okazania dokumentu, o którym mowa w ust. 3. wykazami leków podstawowych i uzupełniających.
 
-6. Bezp∏atne zaopatrzenie w leki osób, o których mowa w ust. 1, przys∏uguje do wysokoÊci limitu, o którym mowa w art. 38 ust. 1.
+6. Bezpłatne zaopatrzenie w leki osób, o których mowa w ust. 1, przysługuje do wysokości limitu, o którym mowa w art. 38 ust. 1.
 
 **Art. 46.**
 
-1. Inwalidom wojennym, ich ma∏˝onkom pozostajàcym na ich wy∏àcznym utrzymaniu oraz wdowom iwdowcom po poleg∏ych ˝o∏nierzach izmar∏ych inwalidach wojennych uprawnionym do renty rodzinnej, a tak˝e osobom represjonowanym, przys∏uguje bezp∏atne zaopatrzenie w leki spe∏niajàce ∏àcznie nast´pujàce warunki:
+1. Inwalidom wojennym, ich małżonkom pozostającym na ich wyłącznym utrzymaniu oraz wdowom iwdowcom po poległych żołnierzach izmarłych inwalidach wojennych uprawnionym do renty rodzinnej, a także osobom represjonowanym, przysługuje bezpłatne zaopatrzenie w leki spełniające łącznie następujące warunki:
 
-- **1)** oznaczone symbolem Rp wdecyzji dopuszczajàcej do obrotu;
+- **1)** oznaczone symbolem Rp wdecyzji dopuszczającej do obrotu;
 - **2)** wpisane do Rejestru Produktów Leczniczych Dopuszczonych do Obrotu na terytorium Rzeczypospolitej Polskiej.
 
-2. Osobom, o których mowa w ust. 1, recept´ mo˝e wystawiç lekarz ubezpieczenia zdrowotnego albo felczer ubezpieczenia zdrowotnego lub lekarz albo felczer nieb´dàcy lekarzem albo felczerem ubezpieczenia zdrowotnego, je˝eli posiada uprawnienia do wykonywania zawodu oraz zawar∏ z Funduszem umow´ upowa˝niajàcà go do wystawiania takich recept.
+2. Osobom, o których mowa w ust. 1, receptę może wystawić lekarz ubezpieczenia zdrowotnego albo felczer ubezpieczenia zdrowotnego lub lekarz albo felczer niebędący lekarzem albo felczerem ubezpieczenia zdrowotnego, jeżeli posiada uprawnienia do wykonywania zawodu oraz zawarł z Funduszem umowę upoważniającą go do wystawiania takich recept.
 
-3. Lekarz albo felczer wystawiajàcy recept´ obowiàzany jest wpisaç na recepcie numer PESEL osoby, o której mowa w ust. 1.
+3. Lekarz albo felczer wystawiający receptę obowiązany jest wpisać na recepcie numer PESEL osoby, o której mowa w ust. 1.
 
-4. Osoby, októrych mowa wust. 1, sà obowiàzane do okazania lekarzowi albo felczerowi wystawiajàcemu recept´ dokumentu potwierdzajàcego przys∏ugujàce uprawnienie.
+4. Osoby, októrych mowa wust. 1, są obowiązane do okazania lekarzowi albo felczerowi wystawiającemu receptę dokumentu potwierdzającego przysługujące uprawnienie.
 
-5. Osoba przedstawiajàca recept´ do realizacji jest obowiàzana do okazania dokumentu, o którym mowa w ust. 4.
+5. Osoba przedstawiająca receptę do realizacji jest obowiązana do okazania dokumentu, o którym mowa w ust. 4.
 
 **Art. 47.**
 
-1. Inwalidom wojennym iwojskowym oraz osobom represjonowanym przys∏uguje prawo do bezp∏atnych wyrobów medycznych b´dàcych przedmiotami ortopedycznymi i Êrodków pomocniczych na zlecenie lekarza ubezpieczenia zdrowotnego albo felczera ubezpieczenia zdrowotnego lub lekarza albo felczera nieb´dàcego lekarzem albo felczerem ubezpieczenia zdrowotnego, je˝eli posiada uprawnienia do wykonywania zawodu oraz zawar∏ z oddzia∏em wojewódzkim Funduszu umow´ upowa˝niajàcà go do wystawiania takich recept, do wysokoÊci limitu ceny okreÊlonego w przepisach wydanych na podstawie art. 40 ust. 4.
+1. Inwalidom wojennym iwojskowym oraz osobom represjonowanym przysługuje prawo do bezpłatnych wyrobów medycznych będących przedmiotami ortopedycznymi i środków pomocniczych na zlecenie lekarza ubezpieczenia zdrowotnego albo felczera ubezpieczenia zdrowotnego lub lekarza albo felczera niebędącego lekarzem albo felczerem ubezpieczenia zdrowotnego, jeżeli posiada uprawnienia do wykonywania zawodu oraz zawarł z oddziałem wojewódzkim Funduszu umowę upoważniającą go do wystawiania takich recept, do wysokości limitu ceny określonego w przepisach wydanych na podstawie art. 40 ust. 4.
 
-2. Przepisy art. 40 ust. 2—5 stosuje si´ odpowiednio. Rozdzia∏ 4 Programy zdrowotne
+2. Przepisy art. 40 ust. 2—5 stosuje się odpowiednio.
+
+#### Rozdział 4 Programy zdrowotne
 
 **Art. 48.**
 
-1. Programy zdrowotne mogà opracowywaç, wdra˝aç, realizowaç i finansowaç ministrowie, jednostki samorzàdu terytorialnego lub Fundusz.
+1. Programy zdrowotne mogą opracowywać, wdrażać, realizować i finansować ministrowie, jednostki samorządu terytorialnego lub Fundusz.
 
-2. Programy zdrowotne dotyczà w szczególnoÊci:
+2. Programy zdrowotne dotyczą w szczególności:
 
-- **1)** wa˝nych zjawisk epidemiologicznych;
-- **2)** innych ni˝ okreÊlone wpkt 1 istotnych problemów zdrowotnych dotyczàcych ca∏ej lub okreÊlonej grupy Êwiadczeniobiorców przy istniejàcych mo˝liwoÊciach ich eliminowania bàdê ograniczania;
-- **3)** wdro˝enia nowych procedur medycznych i przedsi´wzi´ç profilaktycznych.
+- **1)** ważnych zjawisk epidemiologicznych;
+- **2)** innych niż określone wpkt 1 istotnych problemów zdrowotnych dotyczących całej lub określonej grupy świadczeniobiorców przy istniejących możliwościach ich eliminowania bądê ograniczania;
+- **3)** wdrożenia nowych procedur medycznych i przedsięwzięć profilaktycznych.
 
-3. Program zdrowotny mo˝e byç realizowany w okresie jednego roku albo wielu lat.
+3. Program zdrowotny może być realizowany w okresie jednego roku albo wielu lat.
 
-4. Wyboru realizatora programu zdrowotnego dokonuje si´ w drodze konkursu ofert przeprowadzanego przez podmiot, o którym mowa w ust. 1; nie dotyczy to Funduszu.
+4. Wyboru realizatora programu zdrowotnego dokonuje się w drodze konkursu ofert przeprowadzanego przez podmiot, o którym mowa w ust. 1; nie dotyczy to Funduszu.
 
-5. O przeprowadzeniu konkursu ofert, o którym mowa w ust. 4, podmiot, o którym mowa w ust. 1, og∏asza wswojej siedzibie ina swojej stronie internetowej co najmniej na 30 dni przed wyznaczonym up∏ywem terminu sk∏adania ofert.
+5. O przeprowadzeniu konkursu ofert, o którym mowa w ust. 4, podmiot, o którym mowa w ust. 1, ogłasza wswojej siedzibie ina swojej stronie internetowej co najmniej na 30 dni przed wyznaczonym upływem terminu składania ofert.
 
-6. W og∏oszeniu, o którym mowa w ust. 5, okreÊla si´ w szczególnoÊci:
+6. W ogłoszeniu, o którym mowa w ust. 5, określa się w szczególności:
 
 - **1)** przedmiot konkursu ofert;
-- **2)** wymagania stawiane oferentom, niezb´dne do realizacji programu zdrowotnego;
-- **3)** termin i miejsce sk∏adania ofert.
+- **2)** wymagania stawiane oferentom, niezbędne do realizacji programu zdrowotnego;
+- **3)** termin i miejsce składania ofert.
 
-7. W zakresie nieuregulowanym w ustawie do trybu przeprowadzenia konkursu ofert i zawarcia umów o realizacj´ programu zdrowotnego stosuje si´ odpowiednio przepisy Kodeksu cywilnego dotyczàce przetargu.
+7. W zakresie nieuregulowanym w ustawie do trybu przeprowadzenia konkursu ofert i zawarcia umów o realizację programu zdrowotnego stosuje się odpowiednio przepisy Kodeksu cywilnego dotyczące przetargu.
 
-8. W przypadku programów zdrowotnych opraconych przez Fundusz, dokonuje on wyboru realizatora programu zdrowotnego izawiera znim umowy, na zasadach i w trybie okreÊlonych dla umów zawieranych ze Êwiadczeniodawcami.
+8. W przypadku programów zdrowotnych opraconych przez Fundusz, dokonuje on wyboru realizatora programu zdrowotnego izawiera znim umowy, na zasadach i w trybie określonych dla umów zawieranych ze świadczeniodawcami.
 
-9. Do wyboru realizatora programu zdrowotnego nie stosuje si´ przepisów o zamówieniach publicznych. Rozdzia∏ 5 Dokumenty potwierdzajàce prawo do Êwiadczeƒ opieki zdrowotnej
+9. Do wyboru realizatora programu zdrowotnego nie stosuje się przepisów o zamówieniach publicznych.
+
+#### Rozdział 5 Dokumenty potwierdzające prawo do świadczeń opieki zdrowotnej
 
 **Art. 49.**
 
-1. Dokumentem potwierdzajàcym prawo ubezpieczonego do Êwiadczeƒ opieki zdrowotnej jest karta ubezpieczenia zdrowotnego.
+1. Dokumentem potwierdzającym prawo ubezpieczonego do świadczeń opieki zdrowotnej jest karta ubezpieczenia zdrowotnego.
 
-2. Karta ubezpieczenia zdrowotnego jest kartà typu elektronicznego.
+2. Karta ubezpieczenia zdrowotnego jest kartą typu elektronicznego.
 
-3. Karta ubezpieczenia zdrowotnego zawiera w szczególnoÊci nast´pujàce dane:
+3. Karta ubezpieczenia zdrowotnego zawiera w szczególności następujące dane:
 
-- **1)** imi´ (imiona) i nazwisko;
-- **2)** dat´ urodzenia;
-- **3)** numer PESEL, a w przypadku cudzoziemca numer paszportu lub innego dokumentu potwierdzajàcego to˝samoÊç;
-- **4)** kody, rodzaje oraz okresy wa˝noÊci uprawnieƒ;
+- **1)** imię (imiona) i nazwisko;
+- **2)** datę urodzenia;
+- **3)** numer PESEL, a w przypadku cudzoziemca numer paszportu lub innego dokumentu potwierdzającego tożsamość;
+- **4)** kody, rodzaje oraz okresy ważności uprawnień;
 - **5)** numer identyfikacyjny instytucji ubezpieczenia zdrowotnego;
 - **6)** kod ISO 3166-1 dla Rzeczypospolitej Polskiej;
-- **7)** nazw´ „Europejska Karta Ubezpieczenia Zdrowotnego”;
-- **8)** nazw´ „Karta Ubezpieczenia Zdrowotnego”;
-- **9)** dat´ wa˝noÊci karty;
+- **7)** nazwę ŃEuropejska Karta Ubezpieczenia Zdrowotnego”;
+- **8)** nazwę ŃKarta Ubezpieczenia Zdrowotnego”;
+- **9)** datę ważności karty;
 - **10)** numer identyfikacyjny karty.
 
-4. Karta ubezpieczenia zdrowotnego wydawana jest bezp∏atnie. W przypadku utraty karty ubezpieczenia zdrowotnego za wydanie nowej karty pobiera si´ op∏at´ w wysokoÊci 1,5 % minimalnego wynagrodzenia.
+4. Karta ubezpieczenia zdrowotnego wydawana jest bezpłatnie. W przypadku utraty karty ubezpieczenia zdrowotnego za wydanie nowej karty pobiera się opłatę w wysokości 1,5 % minimalnego wynagrodzenia.
 
-5. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, okreÊli, w drodze rozporzàdzenia:
+5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia:
 
-- **1)** wzór karty ubezpieczenia zdrowotnego, uwzgl´dniajàc przepisy Unii Europejskiej wsprawie wzoru Europejskiej Karty Ubezpieczenia Zdrowotnego;
-- **2)** wzór wniosku owydanie karty ubezpieczenia zdrowotnego, sposób jego sk∏adania do Funduszu oraz sposób dostarczenia karty ubezpieczenia zdrowotnego do ubezpieczonego, uwzgl´dniajàc koniecznoÊç weryfikacji danych ubezpieczonego zawarwywanych, wdra˝anych, realizowanych i finansowatych we wniosku oraz koniecznoÊç jego potwierdzenia.
+- **1)** wzór karty ubezpieczenia zdrowotnego, uwzględniając przepisy Unii Europejskiej wsprawie wzoru Europejskiej Karty Ubezpieczenia Zdrowotnego;
+- **2)** wzór wniosku owydanie karty ubezpieczenia zdrowotnego, sposób jego składania do Funduszu oraz sposób dostarczenia karty ubezpieczenia zdrowotnego do ubezpieczonego, uwzględniając konieczność weryfikacji danych ubezpieczonego zawarwywanych, wdrażanych, realizowanych i finansowatych we wniosku oraz konieczność jego potwierdzenia.
 
 **Art. 50.**
 
-1. Âwiadczeniobiorca ubiegajàcy si´ o udzielenie Êwiadczenia opieki zdrowotnej jest obowiàzany przedstawiç:
+1. Âwiadczeniobiorca ubiegający się o udzielenie świadczenia opieki zdrowotnej jest obowiązany przedstawić:
 
-- **1)** kart´ ubezpieczenia zdrowotnego w przypadku ubezpieczonego;
-- **2)** dokument, o którym mowa w art. 54 ust. 1 w przypadku Êwiadczeniobiorcy innego ni˝ ubezpieczony.
+- **1)** kartę ubezpieczenia zdrowotnego w przypadku ubezpieczonego;
+- **2)** dokument, o którym mowa w art. 54 ust. 1 w przypadku świadczeniobiorcy innego niż ubezpieczony.
 
-2. W przypadku stanu nag∏ego dokument, o którym mowa w ust. 1, mo˝e zostaç przedstawiony w innym czasie, nie póêniej ni˝ w terminie 30 dni od dnia rozpocz´cia udzielania Êwiadczenia opieki zdrowotnej, o ile chory nadal przebywa w szpitalu.
+2. W przypadku stanu nagłego dokument, o którym mowa w ust. 1, może zostać przedstawiony w innym czasie, nie póêniej niż w terminie 30 dni od dnia rozpoczęcia udzielania świadczenia opieki zdrowotnej, o ile chory nadal przebywa w szpitalu.
 
-3. Je˝eli przedstawienie dokumentu, októrym mowa w ust. 1, w terminie okreÊlonym w ust. 2 nie jest mo˝liwe, dokument ten mo˝e byç przedstawiony w terminie 7 dni od dnia zakoƒczenia udzielania Êwiadczeƒ opieki zdrowotnej.
+3. Jeżeli przedstawienie dokumentu, októrym mowa w ust. 1, w terminie określonym w ust. 2 nie jest możliwe, dokument ten może być przedstawiony w terminie 7 dni od dnia zakończenia udzielania świadczeń opieki zdrowotnej.
 
-4. Wrazie nieprzedstawienia dokumentu, októrym mowa w ust. 1, w terminach okreÊlonych w ust. 2 i 3, Êwiadczenie zostaje udzielone na koszt Êwiadczeniobiorcy.
+4. Wrazie nieprzedstawienia dokumentu, októrym mowa w ust. 1, w terminach określonych w ust. 2 i 3, świadczenie zostaje udzielone na koszt świadczeniobiorcy.
 
-5. W razie nieodprowadzenia przez zobowiàzanego p∏atnika przez okres d∏u˝szy ni˝ miesiàc sk∏adki na ubezpieczenie zdrowotne za ubezpieczonego, Fundusz obcià˝a tego p∏atnika poniesionymi kosztami udzielonych ubezpieczonemu Êwiadczeƒ opieki zdrowotnej.
+5. W razie nieodprowadzenia przez zobowiązanego płatnika przez okres dłuższy niż miesiąc składki na ubezpieczenie zdrowotne za ubezpieczonego, Fundusz obciąża tego płatnika poniesionymi kosztami udzielonych ubezpieczonemu świadczeń opieki zdrowotnej.
 
-6. Póêniejsze ni˝ przewidziane wust. 2 i3 przedstawienie dokumentu, o którym mowa w ust. 1, nie mo˝e stanowiç podstawy odmowy zwolnienia z kosztów, o których mowa w ust. 4, albo ich zwrotu.
+6. Póêniejsze niż przewidziane wust. 2 i3 przedstawienie dokumentu, o którym mowa w ust. 1, nie może stanowić podstawy odmowy zwolnienia z kosztów, o których mowa w ust. 4, albo ich zwrotu.
 
-7. Op∏acenie zaleg∏ych sk∏adek wraz z odsetkami nie zwalnia z obowiàzku pokrycia kosztów udzielonego Êwiadczenia opieki zdrowotnej.
+7. Opłacenie zaległych składek wraz z odsetkami nie zwalnia z obowiązku pokrycia kosztów udzielonego świadczenia opieki zdrowotnej.
 
-8. Roszczenia przys∏ugujàce na podstawie ust. 4 i5 ulegajà przedawnieniu zup∏ywem 5 lat od dnia, wktórym sta∏y si´ wymagalne.
+8. Roszczenia przysługujące na podstawie ust. 4 i5 ulegają przedawnieniu zupływem 5 lat od dnia, wktórym stały się wymagalne.
 
-9. Przepisów ust. 1—8 nie stosuje si´ do Êwiadczeƒ opieki zdrowotnej udzielanych dzieciom do ukoƒczenia 6. miesiàca ˝ycia.
+9. Przepisów ust. 1—8 nie stosuje się do świadczeń opieki zdrowotnej udzielanych dzieciom do ukończenia 6. miesiąca życia.
 
 **Art. 51.**
 
-1. W celu potwierdzenia prawa do Êwiadczeƒ opieki zdrowotnej przys∏ugujàcych ubezpieczonemu, zgodnie z przepisami o koordynacji, na terytorium innego ni˝ Rzeczpospolita Polska paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, oddzia∏ wojewódzki Funduszu wydaje zaÊwiadczenie o prawie do tych Êwiadczeƒ.
+1. W celu potwierdzenia prawa do świadczeń opieki zdrowotnej przysługujących ubezpieczonemu, zgodnie z przepisami o koordynacji, na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, oddział wojewódzki Funduszu wydaje zaświadczenie o prawie do tych świadczeń.
 
-2. ZaÊwiadczenie wydaje si´ na zasadach i w za3. ZaÊwiadczenie okreÊlone w ust. 1 dla osób, o których mowa w art. 66 ust. 1 pkt 16 i art. 67 ust. 7, zamieszka∏ych na terytorium innego ni˝ Rzeczpospolita Polska paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, wydaje Mazowiecki Oddzia∏ Wojewódzki Funduszu.
+2. Zaświadczenie wydaje się na zasadach i w za3. Zaświadczenie określone w ust. 1 dla osób, o których mowa w art. 66 ust. 1 pkt 16 i art. 67 ust. 7, zamieszkałych na terytorium innego niż Rzeczpospolita Polska państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, wydaje Mazowiecki Oddział Wojewódzki Funduszu.
 
 **Art. 52.**
 
-1. Osobie uprawnionej do Êwiadczeƒ opieki zdrowotnej na podstawie przepisów o koordynacji, w celu korzystania z tych Êwiadczeƒ z ubezpieczenia zdrowotnego na terytorium Rzeczypospolitej Polskiej, oddzia∏ wojewódzki Funduszu wydaje dokument potwierdzajàcy prawo do Êwiadczeƒ opieki zdrowotnej, zwany dalej „poÊwiadczeniem”.
+1. Osobie uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, w celu korzystania z tych świadczeń z ubezpieczenia zdrowotnego na terytorium Rzeczypospolitej Polskiej, oddział wojewódzki Funduszu wydaje dokument potwierdzający prawo do świadczeń opieki zdrowotnej, zwany dalej Ńpoświadczeniem”.
 
-2. PoÊwiadczenie zawiera nast´pujàce dane:
+2. Poświadczenie zawiera następujące dane:
 
 - **1)** imiona i nazwisko;
-- **2)** dat´ urodzenia; kresie okreÊlonych w przepisach o koordynacji.
-- **3)** numer PESEL, a w przypadku gdy osobie, o której mowa w ust. 1, nie nadano tego numeru seri´ i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego mo˝liwe jest ustalenie danych osobowych;
+- **2)** datę urodzenia; kresie określonych w przepisach o koordynacji.
+- **3)** numer PESEL, a w przypadku gdy osobie, o której mowa w ust. 1, nie nadano tego numeru serię i numer paszportu albo numer identyfikacyjny innego dokumentu, na podstawie którego możliwe jest ustalenie danych osobowych;
 - **4)** adres miejsca zamieszkania;
-- **5)** nazw´ instytucji zagranicznej, na koszt której b´dà udzielane Êwiadczenia opieki zdrowotnej;
+- **5)** nazwę instytucji zagranicznej, na koszt której będą udzielane świadczenia opieki zdrowotnej;
 - **6)** adres miejsca zamieszkania lub pobytu na terytorium Rzeczypospolitej Polskiej;
-- **7)** zakres Êwiadczeƒ opieki zdrowotnej przys∏ugujàcych uprawnionemu w rozumieniu przepisów o koordynacji;
-- **8)** okres przys∏ugiwania Êwiadczeƒ opieki zdrowotnej na terytorium Rzeczypospolitej Polskiej;
-- **9)** numer poÊwiadczenia.
+- **7)** zakres świadczeń opieki zdrowotnej przysługujących uprawnionemu w rozumieniu przepisów o koordynacji;
+- **8)** okres przysługiwania świadczeń opieki zdrowotnej na terytorium Rzeczypospolitej Polskiej;
+- **9)** numer poświadczenia.
 
-3. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, okreÊli, w drodze rozporzàdzenia, sposób wydawania poÊwiadczenia oraz jego wzór, uwzgl´dniajàc dane, o których mowa wust. 2, oraz dokumenty, na podstawie których sà wydawane poÊwiadczenia, kierujàc si´ koniecznoÊcià zapewnienia dost´pu do Êwiadczeƒ opieki zdrowotnej i rzetelnego potwierdzania prawa do tych Êwiadczeƒ.
+3. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, sposób wydawania poświadczenia oraz jego wzór, uwzględniając dane, o których mowa wust. 2, oraz dokumenty, na podstawie których są wydawane poświadczenia, kierując się koniecznością zapewnienia dostępu do świadczeń opieki zdrowotnej i rzetelnego potwierdzania prawa do tych świadczeń.
 
 **Art. 53.**
 
-1. Osoba uprawniona do Êwiadczeƒ opieki zdrowotnej na podstawie przepisów o koordynacji, ubiegajàca si´ o Êwiadczenie z ubezpieczenia zdrowotnego, jest obowiàzana przedstawiç poÊwiadczenie.
+1. Osoba uprawniona do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, ubiegająca się o świadczenie z ubezpieczenia zdrowotnego, jest obowiązana przedstawić poświadczenie.
 
-2. Osoba uprawniona do Êwiadczeƒ opieki zdrowotnej na podstawie przepisów o koordynacji, ubiegajàca si´ o Êwiadczenie z ubezpieczenia zdrowotnego na podstawie art. 22 ust. 1 lit. arozporzàdzenia Rady (EWG) nr 1408/71, jest obowiàzana do przedstawienia dokumentu potwierdzajàcego prawo do tych Êwiadczeƒ, wystawionego przez zagranicznà instytucj´ w∏aÊciwà.
+2. Osoba uprawniona do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, ubiegająca się o świadczenie z ubezpieczenia zdrowotnego na podstawie art. 22 ust. 1 lit. arozporządzenia Rady (EWG) nr 1408/71, jest obowiązana do przedstawienia dokumentu potwierdzającego prawo do tych świadczeń, wystawionego przez zagraniczną instytucję właściwą.
 
-3. Je˝eli poÊwiadczenie albo dokument, o którym mowa wust. 2, nie zostanà przedstawione wprzypadku:
+3. Jeżeli poświadczenie albo dokument, o którym mowa wust. 2, nie zostaną przedstawione wprzypadku:
 
-- **1)** stanu nag∏ego,
-- **2)** porodu przepisy art. 50 ust. 2—4, 6, 8 i9 stosuje si´ odpowiednio.
+- **1)** stanu nagłego,
+- **2)** porodu przepisy art. 50 ust. 2—4, 6, 8 i9 stosuje się odpowiednio.
 
 **Art. 54.**
 
-1. Dokumentem potwierdzajàcym prawo do Êwiadczeƒ opieki zdrowotnej Êwiadczeniobiorcy, o którym mowa w art. 2 ust. 1 pkt 2, jest decyzja wójta (burmistrza, prezydenta) gminy w∏aÊciwej ze wzgl´du na miejsce zamieszkania Êwiadczeniobiorcy, potwierdzajàca to prawo.
+1. Dokumentem potwierdzającym prawo do świadczeń opieki zdrowotnej świadczeniobiorcy, o którym mowa w art. 2 ust. 1 pkt 2, jest decyzja wójta (burmistrza, prezydenta) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy, potwierdzająca to prawo.
 
-2. Decyzj´, o której mowa w ust. 1, wydaje si´ po:
+2. Decyzję, o której mowa w ust. 1, wydaje się po:
 
-- **1)** przed∏o˝eniu przez Êwiadczeniobiorc´, o którym mowa w ust. 1, dokumentów potwierdzajàcych:
+- **1)** przedłożeniu przez świadczeniobiorcę, o którym mowa w ust. 1, dokumentów potwierdzających:
     - **a)** posiadanie obywatelstwa polskiego,
     - **b)** zamieszkiwanie na terytorium Rzeczypospolitej Polskiej;
 
-- **2)** przeprowadzeniu rodzinnego wywiadu Êrodowiskowego;
-- **3)** stwierdzeniu spe∏niania kryterium dochodowego, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy spo∏ecznej;
-- **4)** stwierdzeniu braku okolicznoÊci, o której mowa w art. 12 ustawy z dnia 12 marca 2004 r. o pomocy spo∏ecznej, w wyniku przeprowadzenia rodzinnego wywiadu Êrodowiskowego, o którym mowa w pkt 2.
+- **2)** przeprowadzeniu rodzinnego wywiadu środowiskowego;
+- **3)** stwierdzeniu spełniania kryterium dochodowego, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. o pomocy społecznej;
+- **4)** stwierdzeniu braku okoliczności, o której mowa w art. 12 ustawy z dnia 12 marca 2004 r. o pomocy społecznej, w wyniku przeprowadzenia rodzinnego wywiadu środowiskowego, o którym mowa w pkt 2.
 
-3. Decyzj´, o której mowa w ust. 1, wydaje si´ na wniosek Êwiadczeniobiorcy, a w przypadku stanu nag∏ego na wniosek Êwiadczeniodawcy udzielajàcego Êwiadczenia opieki zdrowotnej z∏o˝ony niezw∏ocznie po udzieleniu Êwiadczenia.
+3. Decyzję, o której mowa w ust. 1, wydaje się na wniosek świadczeniobiorcy, a w przypadku stanu nagłego na wniosek świadczeniodawcy udzielającego świadczenia opieki zdrowotnej złożony niezwłocznie po udzieleniu świadczenia.
 
-4. Wójt (burmistrz, prezydent) gminy w∏aÊciwej ze wzgl´du na miejsce zamieszkania Êwiadczeniobiorcy mo˝e wszczàç post´powanie w celu wydania decyzji, o której mowa w ust. 1, równie˝ z w∏asnej inicjatywy lub na wniosek w∏aÊciwego oddzia∏u wojewódzkiego Funduszu.
+4. Wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy może wszcząć postępowanie w celu wydania decyzji, o której mowa w ust. 1, również z własnej inicjatywy lub na wniosek właściwego oddziału wojewódzkiego Funduszu.
 
-5. W przypadku wydania decyzji, o której mowa w ust. 1, z w∏asnej inicjatywy lub na wniosek w∏aÊciwego oddzia∏u wojewódzkiego Funduszu, wójt (burmistrz, prezydent) gminy w∏aÊciwej ze wzgl´du na miejsce zamieszkania Êwiadczeniobiorcy jest obowiàzany dostarczyç niezw∏ocznie t´ decyzj´ w∏aÊciwemu oddzia∏owi wojewódzkiemu Funduszu.
+5. W przypadku wydania decyzji, o której mowa w ust. 1, z własnej inicjatywy lub na wniosek właściwego oddziału wojewódzkiego Funduszu, wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy jest obowiązany dostarczyć niezwłocznie tę decyzję właściwemu oddziałowi wojewódzkiemu Funduszu.
 
-6. Prawo do Êwiadczeƒ opieki zdrowotnej na podprzez okres 30 dni, chyba ˝e w tym okresie Êwiadczeniobiorca zostanie obj´ty ubezpieczeniem zdrowotnym.
+6. Prawo do świadczeń opieki zdrowotnej na podprzez okres 30 dni, chyba że w tym okresie świadczeniobiorca zostanie objęty ubezpieczeniem zdrowotnym.
 
-7. Wójt (burmistrz, prezydent) gminy w∏aÊciwej ze wzgl´du na miejsce zamieszkania Êwiadczeniobiorcy, októrym mowa wart. 7 ust. 2, niezw∏ocznie stwierdza wygaÊni´cie decyzji, o której mowa w ust. 1, w przypadku gdy w okresie, o którym mowa w ust. 6:
+7. Wójt (burmistrz, prezydent) gminy właściwej ze względu na miejsce zamieszkania świadczeniobiorcy, októrym mowa wart. 7 ust. 2, niezwłocznie stwierdza wygaśnięcie decyzji, o której mowa w ust. 1, w przypadku gdy w okresie, o którym mowa w ust. 6:
 
-- **1)** Êwiadczeniobiorca zostanie obj´ty ubezpieczeniem zdrowotnym lub
-- **2)** w przypadku wystàpienia okolicznoÊci, o których mowa w ust. 8.
+- **1)** świadczeniobiorca zostanie objęty ubezpieczeniem zdrowotnym lub
+- **2)** w przypadku wystąpienia okoliczności, o których mowa w ust. 8.
 
-8. Âwiadczeniobiorca, o którym mowa w art. 7 ust. 2, jest obowiàzany niezw∏ocznie poinformowaç wójta (burmistrza, prezydenta) gminy, w∏aÊciwej ze wzgl´du na swoje miejsce zamieszkania, o ka˝dej zmianie wsytuacji dochodowej lub majàtkowej, wp∏ywajàcej na podstaw´ do wydania decyzji, októrej mowa w ust. 1. DZIA¸ III Zasady udzielania Êwiadczeƒ opieki zdrowotnej
+8. Âwiadczeniobiorca, o którym mowa w art. 7 ust. 2, jest obowiązany niezwłocznie poinformować wójta (burmistrza, prezydenta) gminy, właściwej ze względu na swoje miejsce zamieszkania, o każdej zmianie wsytuacji dochodowej lub majątkowej, wpływającej na podstawę do wydania decyzji, októrej mowa w ust. 1. DZIAĘ III Zasady udzielania świadczeń opieki zdrowotnej
 
 **Art. 55.**
 
-1. Âwiadczeniodawca udzielajàcy Êwiadczeƒ z zakresu podstawowej opieki zdrowotnej jest obowiàzany w szczególnoÊci do post´powania zgodnie zzakresem zadaƒ okreÊlonych wprzepisach wydanych na podstawie ust. 6 odpowiednio dla lekarza, piel´gniarki i po∏o˝nej podstawowej opieki zdrowotnej.
+1. Âwiadczeniodawca udzielający świadczeń z zakresu podstawowej opieki zdrowotnej jest obowiązany w szczególności do postępowania zgodnie zzakresem zadań określonych wprzepisach wydanych na podstawie ust. 6 odpowiednio dla lekarza, pielęgniarki i położnej podstawowej opieki zdrowotnej.
 
-2. Âwiadczeniodawca udzielajàcy Êwiadczeƒ z zakresu podstawowej opieki zdrowotnej zapewnia Êwiadczeniobiorcom, wkosztach w∏asnej dzia∏alnoÊci, zgodnie zzakresem, októrym mowa wust. 1, wszczególnoÊci dost´p do:
+2. Âwiadczeniodawca udzielający świadczeń z zakresu podstawowej opieki zdrowotnej zapewnia świadczeniobiorcom, wkosztach własnej działalności, zgodnie zzakresem, októrym mowa wust. 1, wszczególności dostęp do:
 
 - **1)** opieki ambulatoryjnej, w tym opieki w domu chorego;
-- **2)** badaƒ diagnostycznych.
+- **2)** badań diagnostycznych.
 
-3. Na Êwiadczenia podstawowej opieki zdrowotnej udzielane w zwiàzku z zachorowaniem przez lekarzy, piel´gniarki i po∏o˝ne, poza godzinami pracy okreÊlonymi w umowie o udzielanie Êwiadczeƒ opieki zdrowotnej, a w szczególnoÊci w dni wolne od pracy i w Êwi´ta, oddzia∏ wojewódzki Funduszu zawiera odr´bnà umow´, oile jest to niezb´dne dla zapewnienia Êwiadczeniobiorcom ciàg∏oÊci udzielanych Êwiadczeƒ.
+3. Na świadczenia podstawowej opieki zdrowotnej udzielane w związku z zachorowaniem przez lekarzy, pielęgniarki i położne, poza godzinami pracy określonymi w umowie o udzielanie świadczeń opieki zdrowotnej, a w szczególności w dni wolne od pracy i w święta, oddział wojewódzki Funduszu zawiera odrębną umowę, oile jest to niezbędne dla zapewnienia świadczeniobiorcom ciągłości udzielanych świadczeń.
 
-4. Âwiadczeniodawca udzielajàcy Êwiadczeƒ z zakresu podstawowej opieki zdrowotnej jest obowiàzany do informowania Êwiadczeniobiorców o zasadach organizacji opieki, októrej mowa wust. 3, wszczególnoÊci poprzez umieszczenie informacji w miejscu udzielania Êwiadczeƒ iwsiedzibie Êwiadczeniodawcy.
+4. Âwiadczeniodawca udzielający świadczeń z zakresu podstawowej opieki zdrowotnej jest obowiązany do informowania świadczeniobiorców o zasadach organizacji opieki, októrej mowa wust. 3, wszczególności poprzez umieszczenie informacji w miejscu udzielania świadczeń iwsiedzibie świadczeniodawcy.
 
-5. Osoba udzielajàca Êwiadczeƒ opieki zdrowotnej stawie decyzji, o której mowa w ust. 1, przys∏uguje poza siedzibà Êwiadczeniodawcy i jednostkami organizacyjnymi Êwiadczeniodawcy korzysta z ochrony prawnej przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.
+5. Osoba udzielająca świadczeń opieki zdrowotnej stawie decyzji, o której mowa w ust. 1, przysługuje poza siedzibą świadczeniodawcy i jednostkami organizacyjnymi świadczeniodawcy korzysta z ochrony prawnej przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.
 
-6. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej oraz Naczelnej Rady Piel´gniarek iPo∏o˝nych, okreÊli, w drodze rozporzàdzenia, zakres zadaƒ lekarza, piel´gniarki i po∏o˝nej podstawowej opieki zdrowotnej, uwzgl´dniajàc koniecznoÊç zapewnienia kompleksowoÊci udzielanych Êwiadczeƒ oraz dobro pacjenta.
+6. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, Naczelnej Rady Lekarskiej oraz Naczelnej Rady Pielęgniarek iPołożnych, określi, w drodze rozporządzenia, zakres zadań lekarza, pielęgniarki i położnej podstawowej opieki zdrowotnej, uwzględniając konieczność zapewnienia kompleksowości udzielanych świadczeń oraz dobro pacjenta.
 
 **Art. 56.**
 
-1. Wybór lekarza, piel´gniarki i po∏o˝nej podstawowej opieki zdrowotnej Êwiadczeniobiorca potwierdza pisemnym oÊwiadczeniem woli, zwanym dalej „deklaracjà wyboru”.
+1. Wybór lekarza, pielęgniarki i położnej podstawowej opieki zdrowotnej świadczeniobiorca potwierdza pisemnym oświadczeniem woli, zwanym dalej Ńdeklaracją wyboru”.
 
 2. Deklaracja wyboru zawiera:
 
-- **1)** dane dotyczàce Êwiadczeniobiorcy:
-    - **a)** imi´ i nazwisko,
+- **1)** dane dotyczące świadczeniobiorcy:
+    - **a)** imię i nazwisko,
     - **b)** nazwisko rodowe,
-    - **c)** dat´ urodzenia,
-    - **d)** p∏eç,
-    - **e)** numer PESEL, o ile taki zosta∏ nadany,
+    - **c)** datę urodzenia,
+    - **d)** płeć,
+    - **e)** numer PESEL, o ile taki został nadany,
     - **f)** miejsce nauki wprzypadku uczniów istudentów,
     - **g)** adres zamieszkania,
     - **h)** numer telefonu;
 
-- **2)** okreÊlenie, który raz w danym roku dokonywany jest wybór;
+- **2)** określenie, który raz w danym roku dokonywany jest wybór;
 - **3)** numer karty ubezpieczenia zdrowotnego w przypadku ubezpieczonych;
-- **4)** kod oddzia∏u wojewódzkiego Funduszu;
-- **5)** dane dotyczàce lekarza, piel´gniarki i po∏o˝nej podstawowej opieki zdrowotnej:
-    - **a)** imi´ i nazwisko,
-    - **b)** siedzib´ Êwiadczeniodawcy udzielajàcego Êwiadczeƒ z zakresu podstawowej opieki zdrowotnej,
-    - **c)** miejsce udzielania Êwiadczeƒ opieki zdrowotnej;
+- **4)** kod oddziału wojewódzkiego Funduszu;
+- **5)** dane dotyczące lekarza, pielęgniarki i położnej podstawowej opieki zdrowotnej:
+    - **a)** imię i nazwisko,
+    - **b)** siedzibę świadczeniodawcy udzielającego świadczeń z zakresu podstawowej opieki zdrowotnej,
+    - **c)** miejsce udzielania świadczeń opieki zdrowotnej;
 
-- **6)** dat´ dokonania wyboru;
-- **7)** podpis Êwiadczeniobiorcy lub jego opiekuna prawnego;
-- **8)** podpis osoby przyjmujàcej deklaracj´ wyboru.
+- **6)** datę dokonania wyboru;
+- **7)** podpis świadczeniobiorcy lub jego opiekuna prawnego;
+- **8)** podpis osoby przyjmującej deklarację wyboru.
 
-3. Wzór deklaracji wyboru okreÊli Prezes Funduszu.
+3. Wzór deklaracji wyboru określi Prezes Funduszu.
 
-4. Âwiadczeniodawca udzielajàcy Êwiadczeƒ z zakresu podstawowej opieki zdrowotnej jest obowiàzany:
+4. Âwiadczeniodawca udzielający świadczeń z zakresu podstawowej opieki zdrowotnej jest obowiązany:
 
-- **1)** udost´pniç Êwiadczeniobiorcy deklaracj´ wyboru
-- **2)** przed przyj´ciem deklaracji wyboru sprawdziç uprawnienia do korzystania ze Êwiadczeƒ opieki zdrowotnej okreÊlonych w ustawie.
+- **1)** udostępnić świadczeniobiorcy deklarację wyboru
+- **2)** przed przyjęciem deklaracji wyboru sprawdzić uprawnienia do korzystania ze świadczeń opieki zdrowotnej określonych w ustawie.
 
-5. Wype∏nione deklaracje wyboru Êwiadczeniodawca przechowuje w swojej siedzibie, zapewniajàc ich dost´pnoÊç Êwiadczeniobiorcom, którzy je z∏o˝yli, z zachowaniem wymagaƒ wynikajàcych z ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. 101, poz. 926 i 153, poz. 1271 oraz z 2004 r. 25, poz. 219 i 33, poz. 285).
+5. Wypełnione deklaracje wyboru świadczeniodawca przechowuje w swojej siedzibie, zapewniając ich dostępność świadczeniobiorcom, którzy je złożyli, z zachowaniem wymagań wynikających z ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. 101, poz. 926 i 153, poz. 1271 oraz z 2004 r. 25, poz. 219 i 33, poz. 285).
 
 **Art. 57.**
 
-1. Ambulatoryjne Êwiadczenia specjalistyczne finansowane ze Êrodków publicznych sà udzielane na podstawie skierowania lekarza ubezpieczenia zdrowotnego.
+1. Ambulatoryjne świadczenia specjalistyczne finansowane ze środków publicznych są udzielane na podstawie skierowania lekarza ubezpieczenia zdrowotnego.
 
-2. Skierowanie, o którym mowa w ust. 1, nie jest wymagane do Êwiadczeƒ:
+2. Skierowanie, o którym mowa w ust. 1, nie jest wymagane do świadczeń:
 
-- **1)** ginekologa i po∏o˝nika; i sprawdziç poprawnoÊç jej wype∏nienia;
+- **1)** ginekologa i położnika; i sprawdzić poprawność jej wypełnienia;
 - **2)** dentysty;
 - **3)** dermatologa;
 - **4)** wenerologa;
 - **5)** onkologa;
 - **6)** okulisty;
 - **7)** psychiatry;
-- **8)** dla osób chorych na gruêlic´;
-- **9)** dla osób zaka˝onych wirusem HIV;
+- **8)** dla osób chorych na gruêlicę;
+- **9)** dla osób zakażonych wirusem HIV;
 - **10)** dla inwalidów wojennych i osób represjonowanych;
-- **11)** dla osób uzale˝nionych od alkoholu, Êrodków odurzajàcych i substancji psychotropowych w zakresie lecznictwa odwykowego.
+- **11)** dla osób uzależnionych od alkoholu, środków odurzających i substancji psychotropowych w zakresie lecznictwa odwykowego.
 
-**Art. 58.** Âwiadczeniobiorca ma prawo do leczenia szpitalnego wszpitalu, który zawar∏ umow´ oudzielanie Êwiadczeƒ opieki zdrowotnej, na podstawie skierowania lekarza, lekarza dentysty lub felczera, je˝eli cel leczenia nie mo˝e byç osiàgni´ty przez leczenie ambulatoryjne.
+**Art. 58.** Âwiadczeniobiorca ma prawo do leczenia szpitalnego wszpitalu, który zawarł umowę oudzielanie świadczeń opieki zdrowotnej, na podstawie skierowania lekarza, lekarza dentysty lub felczera, jeżeli cel leczenia nie może być osiągnięty przez leczenie ambulatoryjne.
 
-**Art. 59.** Âwiadczeniobiorca ma prawo do rehabilitacji leczniczej u Êwiadczeniodawcy, który zawar∏ umow´ o udzielanie Êwiadczeƒ opieki zdrowotnej, na podstawie skierowania lekarza ubezpieczenia zdrowotnego.
+**Art. 59.** Âwiadczeniobiorca ma prawo do rehabilitacji leczniczej u świadczeniodawcy, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej, na podstawie skierowania lekarza ubezpieczenia zdrowotnego.
 
-**Art. 60.** W stanach nag∏ych Êwiadczenia zdrowotne sà udzielane bez wymaganego skierowania.
+**Art. 60.** W stanach nagłych świadczenia zdrowotne są udzielane bez wymaganego skierowania.
 
-**Art. 61.** Ambulatoryjne Êwiadczenie specjalistyczne udzielone Êwiadczeniobiorcy bez skierowania lekarza ubezpieczenia zdrowotnego op∏aca Êwiadczeniobiorca, zwyjàtkiem przypadków okreÊlonych wart. 57 ust. 2 i art. 60.
+**Art. 61.** Ambulatoryjne świadczenie specjalistyczne udzielone świadczeniobiorcy bez skierowania lekarza ubezpieczenia zdrowotnego opłaca świadczeniobiorca, zwyjątkiem przypadków określonych wart. 57 ust. 2 i art. 60.
 
-**Art. 62.** Apteka ma w szczególnoÊci obowiàzek:
+**Art. 62.** Apteka ma w szczególności obowiązek:
 
 **Art. 63.**
 
-1. Apteka, po przedstawieniu podmiotowi zobowiàzanemu do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych zestawieƒ, o których mowa w ust. 6 pkt 1, oraz informacji, o których mowa w przepisach wydanych na podstawie art. 190 ust. 2, nie cz´Êciej ni˝ co 14 dni, otrzymuje refundacj´ ceny leku lub wyrobu medycznego wydawanego Êwiadczeniobiorcy bezp∏atnie lub za cz´Êciowà odp∏atnoÊcià.
+1. Apteka, po przedstawieniu podmiotowi zobowiązanemu do finansowania świadczeń opieki zdrowotnej ze środków publicznych zestawień, o których mowa w ust. 6 pkt 1, oraz informacji, o których mowa w przepisach wydanych na podstawie art. 190 ust. 2, nie częściej niż co 14 dni, otrzymuje refundację ceny leku lub wyrobu medycznego wydawanego świadczeniobiorcy bezpłatnie lub za częściową odpłatnością.
 
-2. Refundacja, o której mowa w ust. 1, nie mo˝e przekraczaç ustalonego limitu ceny, z zastrze˝eniem art. 44 i45 ust. 1, idokonywana jest przez podmiot zobowiàzany do finansowania Êwiadczeƒ ze Êrodków publicznych na zasadach, o których mowa w ust. 3—5.
+2. Refundacja, o której mowa w ust. 1, nie może przekraczać ustalonego limitu ceny, z zastrzeżeniem art. 44 i45 ust. 1, idokonywana jest przez podmiot zobowiązany do finansowania świadczeń ze środków publicznych na zasadach, o których mowa w ust. 3—5.
 
-3. Po przeprowadzeniu analizy przedstawionych przez aptek´ zbiorczych zestawieƒ recept i informacji, o których mowa w przepisach wydanych na podstawie art. 190 ust. 2, nie póêniej ni˝ 15 dni od dnia otrzymania zestawienia, podmiot zobowiàzany do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych dokonuje refundacji, októrej mowa wust. 1.
+3. Po przeprowadzeniu analizy przedstawionych przez aptekę zbiorczych zestawień recept i informacji, o których mowa w przepisach wydanych na podstawie art. 190 ust. 2, nie póêniej niż 15 dni od dnia otrzymania zestawienia, podmiot zobowiązany do finansowania świadczeń opieki zdrowotnej ze środków publicznych dokonuje refundacji, októrej mowa wust. 1.
 
-4. Wprzypadku przekroczenia przez podmiot zobowiàzany do finansowania Êwiadczeƒ ze Êrodków publicznych terminu, o którym mowa w ust. 3, aptece przys∏ugujà odsetki ustawowe.
+4. Wprzypadku przekroczenia przez podmiot zobowiązany do finansowania świadczeń ze środków publicznych terminu, o którym mowa w ust. 3, aptece przysługują odsetki ustawowe.
 
-5. W przypadku nieprzekazania lub przekazania niezgodnie zustawà danych, októrych mowa wart. 62 pkt 3, oraz danych okreÊlonych zgodnie z art. 188 i informacji, o których mowa w przepisach wydanych na podstawie art. 190 ust. 2, termin, o którym mowa w ust. 3, mo˝e zostaç przed∏u˝ony do czasu przekazania przez aptek´ kompletnych danych.
+5. W przypadku nieprzekazania lub przekazania niezgodnie zustawą danych, októrych mowa wart. 62 pkt 3, oraz danych określonych zgodnie z art. 188 i informacji, o których mowa w przepisach wydanych na podstawie art. 190 ust. 2, termin, o którym mowa w ust. 3, może zostać przedłużony do czasu przekazania przez aptekę kompletnych danych.
 
-6. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu i Naczelnej Rady Aptekarskiej, okreÊli, w drodze rozporzàdzenia:
+6. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu i Naczelnej Rady Aptekarskiej, określi, w drodze rozporządzenia:
 
-- **1)** sposób przedstawiania przez apteki podmiotom Êrodków publicznych zbiorczych zestawieƒ zrealizowanych recept podlegajàcych refundacji,
-- **2)** terminy przedstawiania zestawieƒ,
-- **3)** wzór zbiorczego zestawienia recept podlegajàcych refundacji uwzgl´dniajàc przepisy ust. 1—5 oraz dane, októrych mowa w art. 188 i art. 190 ust. 2.
+- **1)** sposób przedstawiania przez apteki podmiotom środków publicznych zbiorczych zestawień zrealizowanych recept podlegających refundacji,
+- **2)** terminy przedstawiania zestawień,
+- **3)** wzór zbiorczego zestawienia recept podlegających refundacji uwzględniając przepisy ust. 1—5 oraz dane, októrych mowa w art. 188 i art. 190 ust. 2.
 
 **Art. 64.**
 
-1. Podmiot zobowiàzany do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych mo˝e przeprowadziç kontrol´ udzielania Êwiadczeƒ Êwiadczeniobiorcom, a w szczególnoÊci kontrol´:
+1. Podmiot zobowiązany do finansowania świadczeń opieki zdrowotnej ze środków publicznych może przeprowadzić kontrolę udzielania świadczeń świadczeniobiorcom, a w szczególności kontrolę:
 
-- **1)** organizacji i sposobu udzielania Êwiadczeƒ opieki zdrowotnej oraz ich dost´pnoÊci;
-- **2)** udzielania Êwiadczeƒ opieki zdrowotnej pod wzgl´dem zgodnoÊci zwymaganiami okreÊlonymi wumowie oudzielanie Êwiadczeƒ opieki zdrowotnej;
-- **3)** zasadnoÊci wyboru leków iwyrobów medycznych, w tym przedmiotów ortopedycznych i Êrodków pomocniczych stosowanych w leczeniu, rehabilitacji i badaniach diagnostycznych;
+- **1)** organizacji i sposobu udzielania świadczeń opieki zdrowotnej oraz ich dostępności;
+- **2)** udzielania świadczeń opieki zdrowotnej pod względem zgodności zwymaganiami określonymi wumowie oudzielanie świadczeń opieki zdrowotnej;
+- **3)** zasadności wyboru leków iwyrobów medycznych, w tym przedmiotów ortopedycznych i środków pomocniczych stosowanych w leczeniu, rehabilitacji i badaniach diagnostycznych;
 - **4)** przestrzegania zasad wystawiania recept.
 
-2. Podmiot zobowiàzany do finansowania Êwiadczeƒ ze Êrodków publicznych wupowa˝nieniu do prowadzenia kontroli okreÊla przedmiot i zakres kontroli oraz wskazuje osob´ upowa˝nionà do przeprowadzenia kontroli. Przepisy art. 173 ust. 5—9 stosuje si´ odpowiednio.
+2. Podmiot zobowiązany do finansowania świadczeń ze środków publicznych wupoważnieniu do prowadzenia kontroli określa przedmiot i zakres kontroli oraz wskazuje osobę upoważnioną do przeprowadzenia kontroli. Przepisy art. 173 ust. 5—9 stosuje się odpowiednio.
 
-3. Kontrol´ dokumentacji medycznej, jakoÊci i zasadnoÊci udzielanych Êwiadczeƒ zdrowotnych przeprowadzajà upowa˝nieni pracownicy podmiotu zobowiàzanego do finansowania Êwiadczeƒ ze Êrodków publicznych, posiadajàcy wykszta∏cenie medyczne odpowiadajàce zakresowi prowadzonej kontroli.
+3. Kontrolę dokumentacji medycznej, jakości i zasadności udzielanych świadczeń zdrowotnych przeprowadzają upoważnieni pracownicy podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych, posiadający wykształcenie medyczne odpowiadające zakresowi prowadzonej kontroli.
 
-4. Kontrol´ dokumentacji medycznej, jakoÊci i zasadnoÊci udzielanych Êwiadczeƒ zdrowotnych podmiot zobowiàzany do finansowania Êwiadczeƒ ze Êrodków publicznych mo˝e zleciç, w razie potrzeby, osobie posiadajàcej wykszta∏cenie medyczne odpowiadajàce zakresowi prowadzonej kontroli.
+4. Kontrolę dokumentacji medycznej, jakości i zasadności udzielanych świadczeń zdrowotnych podmiot zobowiązany do finansowania świadczeń ze środków publicznych może zlecić, w razie potrzeby, osobie posiadającej wykształcenie medyczne odpowiadające zakresowi prowadzonej kontroli.
 
-5. Âwiadczeniodawca jest obowiàzany do przedk∏adania podmiotowi zobowiàzanemu do finansowania Êwiadczeƒ ze Êrodków publicznych ˝àdanej dokumentacji oraz udzielania wszelkich informacji i pomocy niezb´dnych w zwiàzku z prowadzonà kontrolà.
+5. Âwiadczeniodawca jest obowiązany do przedkładania podmiotowi zobowiązanemu do finansowania świadczeń ze środków publicznych żądanej dokumentacji oraz udzielania wszelkich informacji i pomocy niezbędnych w związku z prowadzoną kontrolą.
 
-6. Z przebiegu przeprowadzonej kontroli sporzàdza si´ protokó∏, który jest podpisywany przez osob´ przeprowadzajàcà kontrol´ i Êwiadczeniodawc´.
+6. Z przebiegu przeprowadzonej kontroli sporządza się protokół, który jest podpisywany przez osobę przeprowadzającą kontrolę i świadczeniodawcę.
 
-7. Podmiot zobowiàzany do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrodków publicznych sporzàdza wystàpienie pokontrolne zawierajàce ocen´ dzia∏alnoÊci kontrolowanego Êwiadczeniodawcy lub zobowiàzanym do finansowania Êwiadczeƒ ze zalecenia pokontrolne wsprawie usuni´cia stwierdzonych nieprawid∏owoÊci.
+7. Podmiot zobowiązany do finansowania świadczeń opieki zdrowotnej ze środków publicznych sporządza wystąpienie pokontrolne zawierające ocenę działalności kontrolowanego świadczeniodawcy lub zobowiązanym do finansowania świadczeń ze zalecenia pokontrolne wsprawie usunięcia stwierdzonych nieprawidłowości.
 
-8. Âwiadczeniodawca mo˝e, w terminie 7 dni od e) osobami wykonujàcymi prac´ na podstawie dnia otrzymania wystàpienia pokontrolnego, zg∏osiç umowy agencyjnej lub umowy zlecenia albo inzastrze˝enia podmiotowi zobowiàzanemu do finanso- nej umowy oÊwiadczenie us∏ug, do której zgodwania Êwiadczeƒ ze Êrodków publicznych. Zastrze˝e- nie zprzepisami Kodeksu cywilnego stosuje si´ nia rozpatruje si´ wterminie 14 dni. Wprzypadku nie- przepisy dotyczàce zlecenia, lub osobami znimi uwzgl´dnienia zastrze˝eƒ niezw∏ocznie informuje si´ wspó∏pracujàcymi, o tym Êwiadczeniodawc´. f) osobami duchownymi,
+8. Âwiadczeniodawca może, w terminie 7 dni od e) osobami wykonującymi pracę na podstawie dnia otrzymania wystąpienia pokontrolnego, zgłosić umowy agencyjnej lub umowy zlecenia albo inzastrzeżenia podmiotowi zobowiązanemu do finanso- nej umowy oświadczenie usług, do której zgodwania świadczeń ze środków publicznych. Zastrzeże- nie zprzepisami Kodeksu cywilnego stosuje się nia rozpatruje się wterminie 14 dni. Wprzypadku nie- przepisy dotyczące zlecenia, lub osobami znimi uwzględnienia zastrzeżeń niezwłocznie informuje się współpracującymi, o tym świadczeniodawcę. f) osobami duchownymi,
 
-9. Âwiadczeniodawca jest obowiàzany, w terminie g) cz∏onkami rolniczych spó∏dzielni produkcyj14 dni od dnia otrzymania wystàpienia pokontrolnego nych, spó∏dzielni kó∏ek rolniczych lub cz∏onkami albo od dnia otrzymania informacji o nieuwzgl´dnie- ich rodzin, niu zastrze˝eƒ, do poinformowania podmiotu zobo- h) osobami pobierajàcymi Êwiadczenie socjalne wiàzanego do finansowania Êwiadczeƒ ze Êrodków wyp∏acane w okresie urlopu oraz osobami popublicznych o sposobie wykorzystania uwag i wyko- bierajàcymi zasi∏ek socjalny wyp∏acany na czas nania wniosków pokontrolnych oraz opodj´tych dzia- przekwalifikowania zawodowego i poszukiwa∏aniach lub przyczynach niepodj´cia tych dzia∏aƒ. nia nowego zatrudnienia, a tak˝e osobami pobierajàcymi wynagrodzenie przys∏ugujàce
+9. Âwiadczeniodawca jest obowiązany, w terminie g) członkami rolniczych spółdzielni produkcyj14 dni od dnia otrzymania wystąpienia pokontrolnego nych, spółdzielni kółek rolniczych lub członkami albo od dnia otrzymania informacji o nieuwzględnie- ich rodzin, niu zastrzeżeń, do poinformowania podmiotu zobo- h) osobami pobierającymi świadczenie socjalne wiązanego do finansowania świadczeń ze środków wypłacane w okresie urlopu oraz osobami popublicznych o sposobie wykorzystania uwag i wyko- bierającymi zasiłek socjalny wypłacany na czas nania wniosków pokontrolnych oraz opodjętych dzia- przekwalifikowania zawodowego i poszukiwałaniach lub przyczynach niepodjęcia tych działań. nia nowego zatrudnienia, a także osobami pobierającymi wynagrodzenie przysługujące
 
-10. Minister w∏aÊciwy do spraw zdrowia okreÊli, w okresie korzystania ze Êwiadczenia górniczew drodze rozporzàdzenia, szczegó∏owy sposób i tryb go albo wokresie korzystania ze stypendium na przeprowadzania kontroli przez podmiot zobowiàzany przekwalifikowanie, wynikajàce z odr´bnych do finansowania Êwiadczeƒ opieki zdrowotnej ze Êrod- przepisów lub uk∏adów zbiorowych pracy, ków publicznych, uwzgl´dniajàc w∏aÊciwà realizacj´ celów kontroli oraz zapewnienie jej szybkoÊci i skutecznoÊci. DZIA¸ IV Zasady podlegania ubezpieczeniu zdrowotnemu Rozdzia∏ 1 Obowiàzek ubezpieczenia zdrowotnego
+10. Minister właściwy do spraw zdrowia określi, w okresie korzystania ze świadczenia górniczew drodze rozporządzenia, szczegółowy sposób i tryb go albo wokresie korzystania ze stypendium na przeprowadzania kontroli przez podmiot zobowiązany przekwalifikowanie, wynikające z odrębnych do finansowania świadczeń opieki zdrowotnej ze środ- przepisów lub układów zbiorowych pracy, ków publicznych, uwzględniając właściwą realizację celów kontroli oraz zapewnienie jej szybkości i skuteczności. DZIAĘ IV Zasady podlegania ubezpieczeniu zdrowotnemu
 
-**Art. 65.** Ubezpieczenie zdrowotne jest oparte w szczególnoÊci na zasadach:
+#### Rozdział 1 Obowiązek ubezpieczenia zdrowotnego
+
+**Art. 65.** Ubezpieczenie zdrowotne jest oparte w szczególności na zasadach:
 
 **Art. 66.**
 
-1. Obowiàzkowi ubezpieczenia zdrowotnego podlegajà:
+1. Obowiązkowi ubezpieczenia zdrowotnego podlegają:
 
-- **1)** osoby spe∏niajàce warunki do obj´cia ubezpieczeniami spo∏ecznymi lub ubezpieczeniem spo∏ecznym rolników, które sà:
-    - **a)** pracownikami wrozumieniu ustawy osystemie ubezpieczeƒ spo∏ecznych,
-    - **b)** rolnikami lub ich domownikami w rozumieniu przepisów o ubezpieczeniu spo∏ecznym rolników,
-    - **c)** osobami prowadzàcymi dzia∏alnoÊç pozarolniczà lub osobami z nimi wspó∏pracujàcymi,
-    - **d)** osobami wykonujàcymi prac´ nak∏adczà,
-    - **i)** osobami pobierajàcymi Êwiadczenie szkoleniowe wyp∏acane po ustaniu zatrudnienia;
+- **1)** osoby spełniające warunki do objęcia ubezpieczeniami społecznymi lub ubezpieczeniem społecznym rolników, które są:
+    - **a)** pracownikami wrozumieniu ustawy osystemie ubezpieczeń społecznych,
+    - **b)** rolnikami lub ich domownikami w rozumieniu przepisów o ubezpieczeniu społecznym rolników,
+    - **c)** osobami prowadzącymi działalność pozarolniczą lub osobami z nimi współpracującymi,
+    - **d)** osobami wykonującymi pracę nakładczą,
+    - **i)** osobami pobierającymi świadczenie szkoleniowe wypłacane po ustaniu zatrudnienia;
 
-- **2)** ˝o∏nierze odbywajàcy zasadniczà s∏u˝b´ wojskowà, przeszkolenie wojskowe, çwiczenia wojskowe, o ile nie podlegajà obowiàzkowi ubezpieczenia z innego tytu∏u, oraz pe∏niàcy s∏u˝b´ wojskowà w razie og∏oszenia mobilizacji i w czasie wojny, a tak˝e kandydaci na ˝o∏nierzy zawodowych;
-- **3)** poborowi odbywajàcy s∏u˝b´ zast´pczà;
-- **4)** poborowi pe∏niàcy s∏u˝b´ wPolicji, Stra˝y Granicznej i Biurze Ochrony Rzàdu;
-- **5)** ˝o∏nierze zawodowi oraz ˝o∏nierze odbywajàcy nadterminowà zasadniczà s∏u˝b´ wojskowà is∏u˝b´ okresowà;
+- **2)** żołnierze odbywający zasadniczą służbę wojskową, przeszkolenie wojskowe, ćwiczenia wojskowe, o ile nie podlegają obowiązkowi ubezpieczenia z innego tytułu, oraz pełniący służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny, a także kandydaci na żołnierzy zawodowych;
+- **3)** poborowi odbywający służbę zastępczą;
+- **4)** poborowi pełniący służbę wPolicji, Straży Granicznej i Biurze Ochrony Rządu;
+- **5)** żołnierze zawodowi oraz żołnierze odbywający nadterminową zasadniczą służbę wojskową isłużbę okresową;
 - **6)** policjanci;
-- **7)** funkcjonariusze Agencji Bezpieczeƒstwa Wewn´trznego;
+- **7)** funkcjonariusze Agencji Bezpieczeństwa Wewnętrznego;
 - **8)** funkcjonariusze Agencji Wywiadu;
-- **9)** funkcjonariusze Biura Ochrony Rzàdu;
-- **10)** funkcjonariusze Stra˝y Granicznej;
-- **11)** funkcjonariusze S∏u˝by Celnej;
-- **12)** funkcjonariusze S∏u˝by Wi´ziennej;
-- **13)** funkcjonariusze Paƒstwowej Stra˝y Po˝arnej;
-- **14)** pos∏owie pobierajàcy uposa˝enia poselskie, pos∏owie do Parlamentu Europejskiego wybrani w Rzeczypospolitej Polskiej, pobierajàcy z tego tytu∏u uposa˝enie oraz senatorowie pobierajàcy uposa˝enie senatorskie;
-- **15)** s´dziowie i prokuratorzy;
-- **16)** osoby pobierajàce emerytur´ lub rent´, osoby w stanie spoczynku pobierajàce uposa˝enie lub uposa˝enie rodzinne oraz osoby pobierajàce uposa˝enie po zwolnieniu ze s∏u˝by lub Êwiadczenie pieni´˝ne o takim samym charakterze;
-- **17)** uczniowie oraz s∏uchacze zak∏adów kszta∏cenia nauczycieli w rozumieniu przepisów o systemie oÊwiaty niepodlegajàcy obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u;
-- **18)** dzieci przebywajàce w placówkach pe∏niàcych funkcje resocjalizacyjne, wychowawcze lub opiekuƒcze lub w domach pomocy spo∏ecznej niepodlegajàce obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u;
-- **19)** dzieci do czasu rozpocz´cia realizacji obowiàzku szkolnego nieprzebywajàce w placówkach, o których mowa wpkt 18, niepodlegajàce obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u, z zastrze˝eniem art. 81 ust. 8 pkt 3;
-- **20)** studenci i uczestnicy studiów doktoranckich niepodlegajàcy obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u, z wy∏àczeniem osób, o których mowa w art. 3 ust. 2 pkt 1;
-- **21)** alumni wy˝szych seminariów duchownych iteologicznych, postulanci, nowicjusze i junioryÊci zakonów m´skich i ˝eƒskich i ich odpowiedników, z wy∏àczeniem osób, o których mowa w art. 3 ust. 2 pkt 2;
-- **22)** s∏uchacze Krajowej Szko∏y Administracji Publicznej;
-- **23)** osoby pobierajàce stypendium sportowe po ukoƒczeniu 15. roku ˝ycia niepodlegajàce obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u;
-- **24)** bezrobotni niepodlegajàcy obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u;
-- **25)** osoby pobierajàce zasi∏ek przedemerytalny lub Êwiadczenie przedemerytalne oraz osoby niepobierajàce zasi∏ku przedemerytalnego lub Êwiadczenia przedemerytalnego z przyczyn okreÊlonych w art. 27 ust. 1 pkt 3—6 i ust. 2 ustawy z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdzia∏aniu bezrobociu (Dz. U. z 2003 r. 58, poz. 514, z póên. zm.
-- **28)** osoby pobierajàce Êwiadczenie piel´gnacyjne lub dodatek do zasi∏ku rodzinnego ztytu∏u samotnego wychowywania dziecka i utraty prawa do zasi∏ku dla bezrobotnych na skutek up∏ywu ustawowego okresu jego pobierania, przyznane na podstawie przepisów o Êwiadczeniach rodzinnych, niepodlegajàce obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u;
-- **29)** osoby bezdomne wychodzàce z bezdomnoÊci niepodlegajàce obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u;
-- **30)** osoby obj´te indywidualnym programem zatrudnienia socjalnego, niepodlegajàce obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u;
-- **31)** kombatanci iosoby represjonowane niepodlegajàcy ubezpieczeniom spo∏ecznym w Rzeczypospolitej Polskiej lub niepobierajàcy emerytury lub renty;
-- **32)** osoby korzystajàce z urlopu wychowawczego niepodlegajàce obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u;
-- **33)** osoby uprawnione do Êwiadczeƒ alimentacyjnych na podstawie ugody sàdowej lub prawomocnego orzeczenia sàdu niepodlegajàce obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u;
-- **34)** rolnicy i ich domownicy, którzy nie podlegajà ubezpieczeniom spo∏ecznym rolników na podstawie ustawy oubezpieczeniu spo∏ecznym rolników, niepodlegajàcy obowiàzkowi ubezpieczenia zdrowotnego na podstawie pkt 1—33 i 35;
-- **35)** cz∏onkowie rad nadzorczych pobierajàcy ztego tytu∏u Êwiadczenia pieni´˝ne.
+- **9)** funkcjonariusze Biura Ochrony Rządu;
+- **10)** funkcjonariusze Straży Granicznej;
+- **11)** funkcjonariusze Służby Celnej;
+- **12)** funkcjonariusze Służby Więziennej;
+- **13)** funkcjonariusze Państwowej Straży Pożarnej;
+- **14)** posłowie pobierający uposażenia poselskie, posłowie do Parlamentu Europejskiego wybrani w Rzeczypospolitej Polskiej, pobierający z tego tytułu uposażenie oraz senatorowie pobierający uposażenie senatorskie;
+- **15)** sędziowie i prokuratorzy;
+- **16)** osoby pobierające emeryturę lub rentę, osoby w stanie spoczynku pobierające uposażenie lub uposażenie rodzinne oraz osoby pobierające uposażenie po zwolnieniu ze służby lub świadczenie pieniężne o takim samym charakterze;
+- **17)** uczniowie oraz słuchacze zakładów kształcenia nauczycieli w rozumieniu przepisów o systemie oświaty niepodlegający obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;
+- **18)** dzieci przebywające w placówkach pełniących funkcje resocjalizacyjne, wychowawcze lub opiekuńcze lub w domach pomocy społecznej niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;
+- **19)** dzieci do czasu rozpoczęcia realizacji obowiązku szkolnego nieprzebywające w placówkach, o których mowa wpkt 18, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu, z zastrzeżeniem art. 81 ust. 8 pkt 3;
+- **20)** studenci i uczestnicy studiów doktoranckich niepodlegający obowiązkowi ubezpieczenia zdrowotnego z innego tytułu, z wyłączeniem osób, o których mowa w art. 3 ust. 2 pkt 1;
+- **21)** alumni wyższych seminariów duchownych iteologicznych, postulanci, nowicjusze i junioryści zakonów męskich i żeńskich i ich odpowiedników, z wyłączeniem osób, o których mowa w art. 3 ust. 2 pkt 2;
+- **22)** słuchacze Krajowej Szkoły Administracji Publicznej;
+- **23)** osoby pobierające stypendium sportowe po ukończeniu 15. roku życia niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;
+- **24)** bezrobotni niepodlegający obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;
+- **25)** osoby pobierające zasiłek przedemerytalny lub świadczenie przedemerytalne oraz osoby niepobierające zasiłku przedemerytalnego lub świadczenia przedemerytalnego z przyczyn określonych w art. 27 ust. 1 pkt 3—6 i ust. 2 ustawy z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. z 2003 r. 58, poz. 514, z póên. zm.
+- **28)** osoby pobierające świadczenie pielęgnacyjne lub dodatek do zasiłku rodzinnego ztytułu samotnego wychowywania dziecka i utraty prawa do zasiłku dla bezrobotnych na skutek upływu ustawowego okresu jego pobierania, przyznane na podstawie przepisów o świadczeniach rodzinnych, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;
+- **29)** osoby bezdomne wychodzące z bezdomności niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;
+- **30)** osoby objęte indywidualnym programem zatrudnienia socjalnego, niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;
+- **31)** kombatanci iosoby represjonowane niepodlegający ubezpieczeniom społecznym w Rzeczypospolitej Polskiej lub niepobierający emerytury lub renty;
+- **32)** osoby korzystające z urlopu wychowawczego niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;
+- **33)** osoby uprawnione do świadczeń alimentacyjnych na podstawie ugody sądowej lub prawomocnego orzeczenia sądu niepodlegające obowiązkowi ubezpieczenia zdrowotnego z innego tytułu;
+- **34)** rolnicy i ich domownicy, którzy nie podlegają ubezpieczeniom społecznym rolników na podstawie ustawy oubezpieczeniu społecznym rolników, niepodlegający obowiązkowi ubezpieczenia zdrowotnego na podstawie pkt 1—33 i 35;
+- **35)** członkowie rad nadzorczych pobierający ztego tytułu świadczenia pieniężne.
 
-2. Status cz∏onka rodziny osoby ubezpieczonej oraz status cz∏onka rodziny b´dàcego osobà uprawnionà do Êwiadczeƒ opieki zdrowotnej na podstawie przepisów okoordynacji zwalnia zobowiàzku ubezpieczenia zdrowotnego osoby, o których mowa w ust. 1 pkt 17—20, 24, 26—28, 30 i 33.
+2. Status członka rodziny osoby ubezpieczonej oraz status członka rodziny będącego osobą uprawnioną do świadczeń opieki zdrowotnej na podstawie przepisów okoordynacji zwalnia zobowiązku ubezpieczenia zdrowotnego osoby, o których mowa w ust. 1 pkt 17—20, 24, 26—28, 30 i 33.
 
-3. Przepisu ust. 2 nie stosuje si´ do ma∏˝onków, ) niepodlegajàce obowiàzkowi ubez- wobec których orzeczono separacj´ prawomocnym pieczenia zdrowotnego z innego tytu∏u; wyrokiem sàdu.
+3. Przepisu ust. 2 nie stosuje się do małżonków, ) niepodlegające obowiązkowi ubez- wobec których orzeczono separację prawomocnym pieczenia zdrowotnego z innego tytułu; wyrokiem sądu.
 
-- **26)** osoby pobierajàce zasi∏ek sta∏y zpomocy spo∏ecz- Art. 67. 1. Obowiàzek ubezpieczenia zdrowotnego nej niepodlegajàce obowiàzkowi ubezpieczenia uwa˝a si´ za spe∏niony po zg∏oszeniu osoby podlegazdrowotnego z innego tytu∏u; jàcej temu obowiàzkowi do Funduszu zgodnie z przepisami art. 74—76 oraz op∏aceniu sk∏adki w terminie
-- **27)** uchodêcy obj´ci indywidualnym programem inte- i na zasadach okreÊlonych w ustawie. gracji na podstawie przepisów o pomocy spo∏ecznej niepodlegajàcy obowiàzkowi ubezpieczenia 2. Osoba podlegajàca obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u; zdrowotnego po zg∏oszeniu do Funduszu uzyskuje prawo do Êwiadczeƒ opieki zdrowotnej.
+- **26)** osoby pobierające zasiłek stały zpomocy społecz- Art. 67. 1. Obowiązek ubezpieczenia zdrowotnego nej niepodlegające obowiązkowi ubezpieczenia uważa się za spełniony po zgłoszeniu osoby podlegazdrowotnego z innego tytułu; jącej temu obowiązkowi do Funduszu zgodnie z przepisami art. 74—76 oraz opłaceniu składki w terminie
+- **27)** uchodêcy objęci indywidualnym programem inte- i na zasadach określonych w ustawie. gracji na podstawie przepisów o pomocy społecznej niepodlegający obowiązkowi ubezpieczenia 2. Osoba podlegająca obowiązkowi ubezpieczenia zdrowotnego z innego tytułu; zdrowotnego po zgłoszeniu do Funduszu uzyskuje prawo do świadczeń opieki zdrowotnej.
 
-3. Osoba podlegajàca obowiàzkowi ubezpieczenia zdrowotnego ma obowiàzek zg∏osiç do Funduszu cz∏onków rodziny, októrych mowa wart. 3 ust. 2 pkt 5 i6, którzy uzyskujà po zg∏oszeniu prawo do Êwiadczeƒ opieki zdrowotnej.
+3. Osoba podlegająca obowiązkowi ubezpieczenia zdrowotnego ma obowiązek zgłosić do Funduszu członków rodziny, októrych mowa wart. 3 ust. 2 pkt 5 i6, którzy uzyskują po zgłoszeniu prawo do świadczeń opieki zdrowotnej.
 
-4. Prawo do Êwiadczeƒ opieki zdrowotnej osób, o których mowa w ust. 2 i 3, ustaje po up∏ywie 30 dni od dnia wygaÊni´cia obowiàzku ubezpieczenia zdrowotnego.
+4. Prawo do świadczeń opieki zdrowotnej osób, o których mowa w ust. 2 i 3, ustaje po upływie 30 dni od dnia wygaśnięcia obowiązku ubezpieczenia zdrowotnego.
 
-5. Prawo do Êwiadczeƒ opieki zdrowotnej dla osób, które ukoƒczy∏y szko∏´ Êrednià lub wy˝szà, wygasa po up∏ywie 4 miesi´cy od zakoƒczenia nauki lub skreÊlenia z listy uczniów lub studentów.
+5. Prawo do świadczeń opieki zdrowotnej dla osób, które ukończyły szkołę średnią lub wyższą, wygasa po upływie 4 miesięcy od zakończenia nauki lub skreślenia z listy uczniów lub studentów.
 
-6. Osoba, o której mowa w ust. 2, pomimo wygaÊni´cia obowiàzku ubezpieczenia ma wraz zcz∏onkami rodziny, o których mowa w art. 3 ust. 2 pkt 5 i 6, prawo do Êwiadczeƒ opieki zdrowotnej w okresie pobierania przez t´ osob´ zasi∏ku przyznanego na podstawie przepisów o ubezpieczeniu chorobowym lub wypadkowym, którego nie zalicza si´ do podstawy wymiaru sk∏adki na ubezpieczenie zdrowotne.
+6. Osoba, o której mowa w ust. 2, pomimo wygaśnięcia obowiązku ubezpieczenia ma wraz zczłonkami rodziny, o których mowa w art. 3 ust. 2 pkt 5 i 6, prawo do świadczeń opieki zdrowotnej w okresie pobierania przez tę osobę zasiłku przyznanego na podstawie przepisów o ubezpieczeniu chorobowym lub wypadkowym, którego nie zalicza się do podstawy wymiaru składki na ubezpieczenie zdrowotne.
 
-7. Osoba ubiegajàca si´ o przyznanie emerytury lub renty pomimo wygaÊni´cia obowiàzku ubezpieczenia ma wraz z cz∏onkami rodziny, o których mowa wart. 3 ust. 2 pkt 5 i6, prawo do Êwiadczeƒ zubezpieczenia zdrowotnego w okresie trwania post´powania o przyznanie tych Êwiadczeƒ.
+7. Osoba ubiegająca się o przyznanie emerytury lub renty pomimo wygaśnięcia obowiązku ubezpieczenia ma wraz z członkami rodziny, o których mowa wart. 3 ust. 2 pkt 5 i6, prawo do świadczeń zubezpieczenia zdrowotnego w okresie trwania postępowania o przyznanie tych świadczeń.
 
 **Art. 68.**
 
-1. Osoba niewymieniona w art. 66 ust. 1 mo˝e ubezpieczyç si´ dobrowolnie na podstawie pisemnego wniosku z∏o˝onego w Funduszu, je˝eli ma miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, z zastrze˝eniem art. 9 rozporzàdzenia Rady (EWG) nr 1408/71.
+1. Osoba niewymieniona w art. 66 ust. 1 może ubezpieczyć się dobrowolnie na podstawie pisemnego wniosku złożonego w Funduszu, jeżeli ma miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem art. 9 rozporządzenia Rady (EWG) nr 1408/71.
 
-2. Korzystajàcy mo˝e zg∏osiç wolontariusza do ubezpieczenia zdrowotnego, je˝eli nie jest on obj´ty ubezpieczeniem zdrowotnym z innego tytu∏u.
+2. Korzystający może zgłosić wolontariusza do ubezpieczenia zdrowotnego, jeżeli nie jest on objęty ubezpieczeniem zdrowotnym z innego tytułu.
 
-3. Osoba, októrej mowa wust. 1, jest obowiàzana zg∏osiç do Funduszu cz∏onków rodziny, o których mowa w art. 3 ust. 2 pkt 5 i 6.
+3. Osoba, októrej mowa wust. 1, jest obowiązana zgłosić do Funduszu członków rodziny, o których mowa w art. 3 ust. 2 pkt 5 i 6.
 
-4. Podstaw´ wymiaru sk∏adki op∏acanej przez:
+4. Podstawę wymiaru składki opłacanej przez:
 
-- **1)** osob´, o której mowa w ust. 1, stanowi kwota deklarowanego miesi´cznego dochodu, nie ni˝sza jednak od kwoty odpowiadajàcej przeci´tnemu wynagrodzeniu;
-- **2)** korzystajàcego, o którym mowa w ust. 2, stanowi kwota odpowiadajàca minimalnemu wynagrodzeniu;
-- **3)** osob´, o której mowa w art. 3 ust. 2 pkt 1—4, stanowi kwota odpowiadajàca wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów o Êwiadczeniach rodzinnych.
+- **1)** osobę, o której mowa w ust. 1, stanowi kwota deklarowanego miesięcznego dochodu, nie niższa jednak od kwoty odpowiadającej przeciętnemu wynagrodzeniu;
+- **2)** korzystającego, o którym mowa w ust. 2, stanowi kwota odpowiadająca minimalnemu wynagrodzeniu;
+- **3)** osobę, o której mowa w art. 3 ust. 2 pkt 1—4, stanowi kwota odpowiadająca wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych.
 
-5. Osoba, o której mowa w ust. 1, zostaje obj´ta ubezpieczeniem zdrowotnym z dniem okreÊlonym w umowie zawartej przez t´ osob´ z Funduszem, a przestaje byç nim obj´ta z dniem rozwiàzania umowy lub po up∏ywie miesiàca nieprzerwanej zaleg∏oÊci w op∏acaniu sk∏adek.
+5. Osoba, o której mowa w ust. 1, zostaje objęta ubezpieczeniem zdrowotnym z dniem określonym w umowie zawartej przez tę osobę z Funduszem, a przestaje być nim objęta z dniem rozwiązania umowy lub po upływie miesiąca nieprzerwanej zaległości w opłacaniu składek.
 
-6. Wolontariusz, o którym mowa w ust. 2, zostaje nym w umowie zawartej przez korzystajàcego z Funduszem, aprzestaje byç nim obj´ty zdniem rozwiàzania umowy lub po up∏ywie miesiàca nieprzerwanej zaleg∏oÊci w op∏acaniu sk∏adek.
+6. Wolontariusz, o którym mowa w ust. 2, zostaje nym w umowie zawartej przez korzystającego z Funduszem, aprzestaje być nim objęty zdniem rozwiązania umowy lub po upływie miesiąca nieprzerwanej zaległości w opłacaniu składek.
 
-7. Obj´cie osoby, októrej mowa wust. 1, ubezpieczeniem zdrowotnym uzale˝nione jest od wniesienia op∏aty na rachunek Funduszu.
+7. Objęcie osoby, októrej mowa wust. 1, ubezpieczeniem zdrowotnym uzależnione jest od wniesienia opłaty na rachunek Funduszu.
 
-8. WysokoÊç op∏aty jest uzale˝niona od okresu, w którym osoba, o której mowa w ust. 1, nie by∏a obj´ta ubezpieczeniem zdrowotnym, i wynosi:
+8. Wysokość opłaty jest uzależniona od okresu, w którym osoba, o której mowa w ust. 1, nie była objęta ubezpieczeniem zdrowotnym, i wynosi:
 
-- **1)** 20 % dochodów przyj´tych jako podstawa wymiaru sk∏adki dla osoby, której przerwa wubezpieczeniu zdrowotnym i op∏acaniu sk∏adek wynosi nieprzerwanie od 3 miesi´cy do roku;
-- **2)** 50 % dochodów przyj´tych jako podstawa wymiaru sk∏adki dla osoby, której przerwa wubezpieczeniu zdrowotnym i op∏acaniu sk∏adek wynosi nieprzerwanie powy˝ej roku do 2 lat;
-- **3)** 100 % dochodów przyj´tych jako podstawa wymiaru sk∏adki dla osoby, której przerwa wubezpieczeniu zdrowotnym i op∏acaniu sk∏adek wynosi nieprzerwanie powy˝ej 2 lat do 5 lat;
-- **4)** 150 % dochodów przyj´tych jako podstawa wymiaru sk∏adki dla osoby, której przerwa wubezpieczeniu zdrowotnym i op∏acaniu sk∏adek wynosi nieprzerwanie powy˝ej 5 lat do 10 lat;
-- **5)** 200 % dochodów przyj´tych jako podstawa wymiaru sk∏adki dla osoby, której przerwa wubezpieczeniu zdrowotnym i op∏acaniu sk∏adek wynosi nieprzerwanie powy˝ej 10 lat.
+- **1)** 20 % dochodów przyjętych jako podstawa wymiaru składki dla osoby, której przerwa wubezpieczeniu zdrowotnym i opłacaniu składek wynosi nieprzerwanie od 3 miesięcy do roku;
+- **2)** 50 % dochodów przyjętych jako podstawa wymiaru składki dla osoby, której przerwa wubezpieczeniu zdrowotnym i opłacaniu składek wynosi nieprzerwanie powyżej roku do 2 lat;
+- **3)** 100 % dochodów przyjętych jako podstawa wymiaru składki dla osoby, której przerwa wubezpieczeniu zdrowotnym i opłacaniu składek wynosi nieprzerwanie powyżej 2 lat do 5 lat;
+- **4)** 150 % dochodów przyjętych jako podstawa wymiaru składki dla osoby, której przerwa wubezpieczeniu zdrowotnym i opłacaniu składek wynosi nieprzerwanie powyżej 5 lat do 10 lat;
+- **5)** 200 % dochodów przyjętych jako podstawa wymiaru składki dla osoby, której przerwa wubezpieczeniu zdrowotnym i opłacaniu składek wynosi nieprzerwanie powyżej 10 lat.
 
-9. Op∏ata nie dotyczy osób wymienionych w art. 3 ust. 2.
+9. Opłata nie dotyczy osób wymienionych w art. 3 ust. 2.
 
-10. Przy obliczaniu op∏aty do okresu, w którym osoba ubezpieczajàca si´ dobrowolnie nie by∏a ubezpieczona, dolicza si´ okres niepodlegania ubezpieczeniu zdrowotnemu na podstawie dotychczasowych przepisów.
+10. Przy obliczaniu opłaty do okresu, w którym osoba ubezpieczająca się dobrowolnie nie była ubezpieczona, dolicza się okres niepodlegania ubezpieczeniu zdrowotnemu na podstawie dotychczasowych przepisów.
 
-11. W uzasadnionych przypadkach, na wniosek osoby, o której mowa w ust. 1, Fundusz mo˝e odstàpiç od pobrania op∏aty lub roz∏o˝yç jà na raty miesi´czne, jednak nie wi´cej ni˝ na 12 rat.
+11. W uzasadnionych przypadkach, na wniosek osoby, o której mowa w ust. 1, Fundusz może odstąpić od pobrania opłaty lub rozłożyć ją na raty miesięczne, jednak nie więcej niż na 12 rat.
 
-12. Prawo do Êwiadczeƒ opieki zdrowotnej osoby, o której mowa w ust. 1, i zg∏oszonych do Funduszu cz∏onków jej rodziny, o których mowa w art. 3 ust. 2 pkt 5 i6, oraz wolontariusza, októrym mowa wust. 2, przys∏uguje od dnia obj´cia ubezpieczeniem zdrowotnym iwygasa po up∏ywie 30 dni od dnia ustania ubezpieczenia zdrowotnego w Funduszu.
+12. Prawo do świadczeń opieki zdrowotnej osoby, o której mowa w ust. 1, i zgłoszonych do Funduszu członków jej rodziny, o których mowa w art. 3 ust. 2 pkt 5 i6, oraz wolontariusza, októrym mowa wust. 2, przysługuje od dnia objęcia ubezpieczeniem zdrowotnym iwygasa po upływie 30 dni od dnia ustania ubezpieczenia zdrowotnego w Funduszu.
 
 **Art. 69.**
 
-1. Obowiàzek ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 1 lit. a i c—i, powstaje i wygasa w terminach okreÊlonych w przepisach o ubezpieczeniach spo∏ecznych. obj´ty ubezpieczeniem zdrowotnym z dniem okreÊlo2. Obowiàzek ubezpieczenia zdrowotnego osób, októrych mowa wart. 66 ust. 1 pkt 1 lit. bipkt 34, powstaje od dnia zg∏oszenia do ubezpieczenia w trybie przepisów o ubezpieczeniu spo∏ecznym rolników, a ustaje z ostatnim dniem miesiàca, w którym usta∏y okolicznoÊci uzasadniajàce podleganie ubezpieczeniu.
+1. Obowiązek ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 1 lit. a i c—i, powstaje i wygasa w terminach określonych w przepisach o ubezpieczeniach społecznych. objęty ubezpieczeniem zdrowotnym z dniem określo2. Obowiązek ubezpieczenia zdrowotnego osób, októrych mowa wart. 66 ust. 1 pkt 1 lit. bipkt 34, powstaje od dnia zgłoszenia do ubezpieczenia w trybie przepisów o ubezpieczeniu społecznym rolników, a ustaje z ostatnim dniem miesiąca, w którym ustały okoliczności uzasadniające podleganie ubezpieczeniu.
 
-3. Pracownik korzystajàcy z urlopu bezp∏atnego ma prawo do Êwiadczeƒ zubezpieczenia zdrowotnego na zasadach okreÊlonych w art. 67 ust. 4.
+3. Pracownik korzystający z urlopu bezpłatnego ma prawo do świadczeń zubezpieczenia zdrowotnego na zasadach określonych w art. 67 ust. 4.
 
-4. Po wygaÊni´ciu obowiàzku ubezpieczenia zdrowotnego ka˝da osoba mo˝e ubezpieczyç si´ na zasadach okreÊlonych w art. 68.
+4. Po wygaśnięciu obowiązku ubezpieczenia zdrowotnego każda osoba może ubezpieczyć się na zasadach określonych w art. 68.
 
 **Art. 70.**
 
-1. Obowiàzek ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 2—4, powstaje z dniem powo∏ania lub skierowania do s∏u˝by, a wygasa z dniem zwolnienia z tej s∏u˝by.
+1. Obowiązek ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 2—4, powstaje z dniem powołania lub skierowania do służby, a wygasa z dniem zwolnienia z tej służby.
 
-2. Obowiàzek ubezpieczenia zdrowotnego osób, októrych mowa wart. 66 ust. 1 pkt 5—13 i15, powstaje z dniem nawiàzania stosunku s∏u˝bowego, a wygasa z dniem jego ustania.
+2. Obowiązek ubezpieczenia zdrowotnego osób, októrych mowa wart. 66 ust. 1 pkt 5—13 i15, powstaje z dniem nawiązania stosunku służbowego, a wygasa z dniem jego ustania.
 
-**Art. 71.** Obowiàzek ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 14, powstaje z dniem przyznania im uposa˝enia, a wygasa z dniem utraty prawa do pobierania uposa˝enia.
+**Art. 71.** Obowiązek ubezpieczenia zdrowotnego osób, o których mowa w art. 66 ust. 1 pkt 14, powstaje z dniem przyznania im uposażenia, a wygasa z dniem utraty prawa do pobierania uposażenia.
 
 **Art. 72.**
 
-1. Obowiàzek ubezpieczenia zdrowotnego osób pobierajàcych emerytur´ lub rent´ powstaje od dnia, od którego przys∏uguje wyp∏ata emerytury lub renty, i wygasa z dniem zaprzestania pobierania Êwiadczenia.
+1. Obowiązek ubezpieczenia zdrowotnego osób pobierających emeryturę lub rentę powstaje od dnia, od którego przysługuje wypłata emerytury lub renty, i wygasa z dniem zaprzestania pobierania świadczenia.
 
-2. Wprzypadku zawieszenia prawa do renty socjalnej zprzyczyn, októrych mowa wart. 10 ust. 5 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. 135, poz. 1268 oraz z 2004 r. 96, poz. 959 i 120, poz. 1252), prawo do Êwiadczeƒ z ubezpieczenia zdrowotnego wygasa po up∏ywie 90 dni od dnia ustania ubezpieczenia zdrowotnego wFunduszu.
+2. Wprzypadku zawieszenia prawa do renty socjalnej zprzyczyn, októrych mowa wart. 10 ust. 5 ustawy z dnia 27 czerwca 2003 r. o rencie socjalnej (Dz. U. 135, poz. 1268 oraz z 2004 r. 96, poz. 959 i 120, poz. 1252), prawo do świadczeń z ubezpieczenia zdrowotnego wygasa po upływie 90 dni od dnia ustania ubezpieczenia zdrowotnego wFunduszu.
 
-3. Przepis ust. 1 stosuje si´ odpowiednio do osób w stanie spoczynku pobierajàcych uposa˝enie lub pobierajàcych uposa˝enie rodzinne oraz osób pobierajàcych uposa˝enie po zwolnieniu ze s∏u˝by lub Êwiadczenie pieni´˝ne o takim samym charakterze.
+3. Przepis ust. 1 stosuje się odpowiednio do osób w stanie spoczynku pobierających uposażenie lub pobierających uposażenie rodzinne oraz osób pobierających uposażenie po zwolnieniu ze służby lub świadczenie pieniężne o takim samym charakterze.
 
-**Art. 73.** Obowiàzek ubezpieczenia zdrowotnego:
+**Art. 73.** Obowiązek ubezpieczenia zdrowotnego:
 
 **Art. 74.**
 
-1. Do ubezpieczenia zdrowotnego osób obj´tych ubezpieczeniami spo∏ecznymi lub ubezpieczeniem spo∏ecznym rolników oraz wymienionych w art. 75 i 76 stosuje si´ odpowiednio przepisy dotyczàce zasad, trybu iterminu zg∏aszania do ubezpieczenia spo∏ecznego lub do ubezpieczenia spo∏ecznego rolników, z zastrze˝eniem art. 77 i 86 ust. 6.
+1. Do ubezpieczenia zdrowotnego osób objętych ubezpieczeniami społecznymi lub ubezpieczeniem społecznym rolników oraz wymienionych w art. 75 i 76 stosuje się odpowiednio przepisy dotyczące zasad, trybu iterminu zgłaszania do ubezpieczenia społecznego lub do ubezpieczenia społecznego rolników, z zastrzeżeniem art. 77 i 86 ust. 6.
 
-2. Do ubezpieczenia zdrowotnego osób, o których mowa wart. 66 ust. 1 pkt 2—15, stosuje si´ odpowiednio przepisy dotyczàce zasad, trybu i terminu zg∏aszania do ubezpieczeƒ spo∏ecznych, z zastrze˝eniem art. 77.
+2. Do ubezpieczenia zdrowotnego osób, o których mowa wart. 66 ust. 1 pkt 2—15, stosuje się odpowiednio przepisy dotyczące zasad, trybu i terminu zgłaszania do ubezpieczeń społecznych, z zastrzeżeniem art. 77.
 
 **Art. 75.**
 
-1. Osoby pobierajàce emerytur´ lub rent´ zg∏asza do ubezpieczenia zdrowotnego jednostka organizacyjna Zak∏adu Ubezpieczeƒ Spo∏ecznych okreÊlona w przepisach o systemie ubezpieczeƒ spo∏ecznych, w∏aÊciwa do wydania decyzji w sprawach Êwiadczeƒ, Kasa Rolniczego Ubezpieczenia Spo∏ecznego, w∏aÊciwy organ emerytalny lub instytucja wywyp∏aty emerytury lub renty z zagranicy do 15. dnia miesiàca nast´pujàcego po miesiàcu, w którym powsta∏ obowiàzek ubezpieczenia lub zaistnia∏y zmiany dotyczàce tego obowiàzku.
+1. Osoby pobierające emeryturę lub rentę zgłasza do ubezpieczenia zdrowotnego jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych, właściwa do wydania decyzji w sprawach świadczeń, Kasa Rolniczego Ubezpieczenia Społecznego, właściwy organ emerytalny lub instytucja wywypłaty emerytury lub renty z zagranicy do 15. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek ubezpieczenia lub zaistniały zmiany dotyczące tego obowiązku.
 
-2. Osoby pobierajàce zasi∏ek przedemerytalny lub Êwiadczenie przedemerytalne zg∏asza do ubezpieczenia zdrowotnego jednostka organizacyjna Zak∏adu Ubezpieczeƒ Spo∏ecznych okreÊlona w przepisach o systemie ubezpieczeƒ spo∏ecznych do 15. dnia miesiàca nast´pujàcego po miesiàcu, w którym powsta∏ obowiàzek ubezpieczenia lub zaistnia∏y zmiany dotyczàce tego obowiàzku.
+2. Osoby pobierające zasiłek przedemerytalny lub świadczenie przedemerytalne zgłasza do ubezpieczenia zdrowotnego jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych do 15. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek ubezpieczenia lub zaistniały zmiany dotyczące tego obowiązku.
 
-3. Osoby pobierajàce uposa˝enie w stanie spoczynku lub uposa˝enie rodzinne, a tak˝e osoby pobierajàce uposa˝enie po zwolnieniu ze s∏u˝by lub Êwiadczenie pieni´˝ne o takim samym charakterze zg∏asza do ubezpieczenia zdrowotnego podmiot wyp∏acajàcy to uposa˝enie lub Êwiadczenie.
+3. Osoby pobierające uposażenie w stanie spoczynku lub uposażenie rodzinne, a także osoby pobierające uposażenie po zwolnieniu ze służby lub świadczenie pieniężne o takim samym charakterze zgłasza do ubezpieczenia zdrowotnego podmiot wypłacający to uposażenie lub świadczenie.
 
-4. Osoby, o których mowa w art. 66 ust. 1 pkt 17, p∏acajàca emerytur´ lub rent´ albo bank dokonujàcy 18 i 20, zg∏aszajà do ubezpieczenia zdrowotnego odpowiednio szko∏y, zak∏ady kszta∏cenia nauczycieli, szko∏y wy˝sze, jednostki prowadzàce studia doktoranckie, placówki pe∏niàce funkcje resocjalizacyjne, wychowawcze lub opiekuƒcze i domy pomocy spo∏ecznej.
+4. Osoby, o których mowa w art. 66 ust. 1 pkt 17, płacająca emeryturę lub rentę albo bank dokonujący 18 i 20, zgłaszają do ubezpieczenia zdrowotnego odpowiednio szkoły, zakłady kształcenia nauczycieli, szkoły wyższe, jednostki prowadzące studia doktoranckie, placówki pełniące funkcje resocjalizacyjne, wychowawcze lub opiekuńcze i domy pomocy społecznej.
 
-5. Dzieci, o których mowa w art. 66 ust. 1 pkt 19, zg∏asza do ubezpieczenia zdrowotnego oÊrodek pomocy spo∏ecznej na wniosek opiekuna prawnego lub faktycznego dziecka albo z w∏asnej inicjatywy.
+5. Dzieci, o których mowa w art. 66 ust. 1 pkt 19, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej na wniosek opiekuna prawnego lub faktycznego dziecka albo z własnej inicjatywy.
 
-6. Osoby, o których mowa w art. 66 ust. 1 pkt 21, zg∏asza do ubezpieczenia zdrowotnego odpowiednio wy˝sze seminarium duchowne albo teologiczne lub zakon albo jego odpowiednik.
+6. Osoby, o których mowa w art. 66 ust. 1 pkt 21, zgłasza do ubezpieczenia zdrowotnego odpowiednio wyższe seminarium duchowne albo teologiczne lub zakon albo jego odpowiednik.
 
-7. Osoby, o których mowa w art. 66 ust. 1 pkt 22, zg∏asza do ubezpieczenia zdrowotnego Krajowa Szko∏a Administracji Publicznej.
+7. Osoby, o których mowa w art. 66 ust. 1 pkt 22, zgłasza do ubezpieczenia zdrowotnego Krajowa Szkoła Administracji Publicznej.
 
-8. Osoby, o których mowa w art. 66 ust. 1 pkt 23, zg∏asza do ubezpieczenia zdrowotnego podmiot wyp∏acajàcy stypendium.
+8. Osoby, o których mowa w art. 66 ust. 1 pkt 23, zgłasza do ubezpieczenia zdrowotnego podmiot wypłacający stypendium.
 
-9. Osoby, o których mowa w art. 66 ust. 1 pkt 24, zg∏asza do ubezpieczenia zdrowotnego w∏aÊciwy powiatowy urzàd pracy.
+9. Osoby, o których mowa w art. 66 ust. 1 pkt 24, zgłasza do ubezpieczenia zdrowotnego właściwy powiatowy urząd pracy.
 
-10. Osoby, o których mowa w art. 66 ust. 1 pkt 26, zg∏asza do ubezpieczenia zdrowotnego oÊrodek pomocy spo∏ecznej.
+10. Osoby, o których mowa w art. 66 ust. 1 pkt 26, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej.
 
-11. Osoby, o których mowa w art. 66 ust. 1 pkt 28, zg∏asza do ubezpieczenia zdrowotnego wójt, burmistrz lub prezydent miasta.
+11. Osoby, o których mowa w art. 66 ust. 1 pkt 28, zgłasza do ubezpieczenia zdrowotnego wójt, burmistrz lub prezydent miasta.
 
-12. Osoby, o których mowa w art. 66 ust. 1 pkt 29 i 30, zg∏asza do ubezpieczenia zdrowotnego oÊrodek pomocy spo∏ecznej realizujàcy indywidualny program wychodzenia z bezdomnoÊci lub indywidualny program zatrudnienia socjalnego.
+12. Osoby, o których mowa w art. 66 ust. 1 pkt 29 i 30, zgłasza do ubezpieczenia zdrowotnego ośrodek pomocy społecznej realizujący indywidualny program wychodzenia z bezdomności lub indywidualny program zatrudnienia socjalnego.
 
-13. Osoby, o których mowa w art. 66 ust. 1 pkt 27, zg∏asza do ubezpieczenia zdrowotnego powiatowe centrum pomocy rodzinie realizujàce indywidualny program integracji.
+13. Osoby, o których mowa w art. 66 ust. 1 pkt 27, zgłasza do ubezpieczenia zdrowotnego powiatowe centrum pomocy rodzinie realizujące indywidualny program integracji.
 
-14. Osoby, o których mowa w art. 66 ust. 1 pkt 31, zg∏asza do ubezpieczenia zdrowotnego Urzàd do Spraw Kombatantów i Osób Represjonowanych.
+14. Osoby, o których mowa w art. 66 ust. 1 pkt 31, zgłasza do ubezpieczenia zdrowotnego Urząd do Spraw Kombatantów i Osób Represjonowanych.
 
-15. Osoby, o których mowa w art. 66 ust. 1 pkt 32, zg∏asza do ubezpieczenia zdrowotnego w imiennym raporcie miesi´cznym kierowanym do Zak∏adu Ubezpieczeƒ Spo∏ecznych pracodawca albo rolnicza spó∏dzielnia produkcyjna.
+15. Osoby, o których mowa w art. 66 ust. 1 pkt 32, zgłasza do ubezpieczenia zdrowotnego w imiennym raporcie miesięcznym kierowanym do Zakładu Ubezpieczeń Społecznych pracodawca albo rolnicza spółdzielnia produkcyjna.
 
-16. Osoby, o których mowa w art. 66 ust. 1 pkt 34, zg∏asza do ubezpieczenia zdrowotnego Kasa Rolniczego Ubezpieczenia Spo∏ecznego. Osoby te obowiàzane sà zg∏osiç si´ niezw∏ocznie w Kasie Rolniczego Ubezpieczenia Spo∏ecznego w celu ich zarejestrowania.
+16. Osoby, o których mowa w art. 66 ust. 1 pkt 34, zgłasza do ubezpieczenia zdrowotnego Kasa Rolniczego Ubezpieczenia Społecznego. Osoby te obowiązane są zgłosić się niezwłocznie w Kasie Rolniczego Ubezpieczenia Społecznego w celu ich zarejestrowania.
 
-17. Osoby, o których mowa w art. 66 ust. 1 pkt 35, zg∏asza do ubezpieczenia zdrowotnego podmiot wyp∏acajàcy Êwiadczenie pieni´˝ne.
+17. Osoby, o których mowa w art. 66 ust. 1 pkt 35, zgłasza do ubezpieczenia zdrowotnego podmiot wypłacający świadczenie pieniężne.
 
-**Art. 76.** Osoby niewymienione w art. 74 i 75 do ubezpieczenia zdrowotnego zg∏aszajà si´ same.
+**Art. 76.** Osoby niewymienione w art. 74 i 75 do ubezpieczenia zdrowotnego zgłaszają się same.
 
 **Art. 77.**
 
-1. Zg∏oszenia, o których mowa w art. 74—76, kierowane sà do Zak∏adu Ubezpieczeƒ Spo∏ecznych albo Kasy Rolniczego Ubezpieczenia Spo∏ecznego.
+1. Zgłoszenia, o których mowa w art. 74—76, kierowane są do Zakładu Ubezpieczeń Społecznych albo Kasy Rolniczego Ubezpieczenia Społecznego.
 
-2. Zg∏oszenia, októrych mowa wust. 1, zawierajà:
+2. Zgłoszenia, októrych mowa wust. 1, zawierają:
 
-- **1)** wskazanie oddzia∏u wojewódzkiego Funduszu w∏aÊciwego ze wzgl´du na miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, awprzypadku braku miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej wskazanie oddzia∏u wojewódzkiego Funduszu wybranego przez osob´ zg∏aszanà do ubezpieczenia zdrowotnego;
-- **2)** wskazanie Mazowieckiego Oddzia∏u Wojewódzkiego Funduszu w przypadku osób, o których mowa w art. 66 ust. 1 pkt 16, je˝eli osoby te nie majà miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej;
-- **3)** nazwisko i imi´;
-- **4)** dat´ urodzenia;
+- **1)** wskazanie oddziału wojewódzkiego Funduszu właściwego ze względu na miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, awprzypadku braku miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej wskazanie oddziału wojewódzkiego Funduszu wybranego przez osobę zgłaszaną do ubezpieczenia zdrowotnego;
+- **2)** wskazanie Mazowieckiego Oddziału Wojewódzkiego Funduszu w przypadku osób, o których mowa w art. 66 ust. 1 pkt 16, jeżeli osoby te nie mają miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej;
+- **3)** nazwisko i imię;
+- **4)** datę urodzenia;
 - **5)** adres zamieszkania;
-- **6)** numery PESEL i NIP, a w przypadku gdy ubezpieczonemu nie nadano tych numerów lub jednego z nich seri´ i numer dowodu osobistego lub paszportu.
+- **6)** numery PESEL i NIP, a w przypadku gdy ubezpieczonemu nie nadano tych numerów lub jednego z nich serię i numer dowodu osobistego lub paszportu.
 
-3. W przypadku zg∏oszenia do ubezpieczenia zdrowotnego cz∏onków rodzin, o których mowa w art. 3 ust. 2 pkt 5 i 6, podmiot obowiàzany do zg∏oszenia ubezpieczonego przesy∏a równie˝ do Funduszu dane wymienione wust. 2 oraz nast´pujàce dane dotyczàce
+3. W przypadku zgłoszenia do ubezpieczenia zdrowotnego członków rodzin, o których mowa w art. 3 ust. 2 pkt 5 i 6, podmiot obowiązany do zgłoszenia ubezpieczonego przesyła również do Funduszu dane wymienione wust. 2 oraz następujące dane dotyczące
 
-- **1)** nazwisko i imi´;
-- **2)** dat´ urodzenia;
+- **1)** nazwisko i imię;
+- **2)** datę urodzenia;
 - **3)** adres zamieszkania;
-- **4)** stopieƒ pokrewieƒstwa;
-- **5)** informacj´ o znacznym stopniu niepe∏nosprawnoÊci;
-- **6)** numery PESEL iNIP, awprzypadku gdy cz∏onkowi rodziny nie nadano tych numerów lub jednego z nich seri´ i numer dowodu osobistego lub paszportu;
-- **7)** informacj´ o pozostawaniu we wspólnym gospodarstwie domowym z ubezpieczonym w przypadku osób, o których mowa w art. 5 pkt 3 lit c.
+- **4)** stopień pokrewieństwa;
+- **5)** informację o znacznym stopniu niepełnosprawności;
+- **6)** numery PESEL iNIP, awprzypadku gdy członkowi rodziny nie nadano tych numerów lub jednego z nich serię i numer dowodu osobistego lub paszportu;
+- **7)** informację o pozostawaniu we wspólnym gospodarstwie domowym z ubezpieczonym w przypadku osób, o których mowa w art. 5 pkt 3 lit c.
 
-**Art. 78.** Na wniosek ministra w∏aÊciwego do spraw finansów publicznych minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego przeprowadza kontrol´ w: cz∏onka rodziny:
+**Art. 78.** Na wniosek ministra właściwego do spraw finansów publicznych minister właściwy do spraw zabezpieczenia społecznego przeprowadza kontrolę w: członka rodziny:
+
+#### Rozdział 2 Składki na ubezpieczenie zdrowotne
 
 **Art. 79.**
 
-1. Sk∏adka na ubezpieczenie zdrowotne wynosi 9 % podstawy wymiaru sk∏adki, z zastrze˝eniem art. 80 ust. 1, art. 82 i 242.
+1. Składka na ubezpieczenie zdrowotne wynosi 9 % podstawy wymiaru składki, z zastrzeżeniem art. 80 ust. 1, art. 82 i 242.
 
-2. Sk∏adka jest miesi´czna i niepodzielna.
+2. Składka jest miesięczna i niepodzielna.
 
 **Art. 80.**
 
-1. Sk∏adka na ubezpieczenie zdrowotne rolnika podlegajàcego ubezpieczeniu spo∏ecznemu rolników jest równa kwocie odpowiadajàcej cenie po∏owy kwintala ˝yta z ka˝dego hektara przeliczeniowego u˝ytków rolnych w prowadzonym gospodarstwie rolnym, ustalonej dla celów wymiaru podatku rolnego.
+1. Składka na ubezpieczenie zdrowotne rolnika podlegającego ubezpieczeniu społecznemu rolników jest równa kwocie odpowiadającej cenie połowy kwintala żyta z każdego hektara przeliczeniowego użytków rolnych w prowadzonym gospodarstwie rolnym, ustalonej dla celów wymiaru podatku rolnego.
 
-2. Rolnik prowadzàcy dzia∏alnoÊç w zakresie dzia∏ów specjalnych produkcji rolnej wrozumieniu przepisów ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu spo∏ecznym rolników op∏aca ponadto sk∏adki na ubezpieczenie zdrowotne od deklarowanej podstawy wymiaru sk∏adki:
+2. Rolnik prowadzący działalność w zakresie działów specjalnych produkcji rolnej wrozumieniu przepisów ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników opłaca ponadto składki na ubezpieczenie zdrowotne od deklarowanej podstawy wymiaru składki:
 
-- **1)** odpowiadajàcej dochodowi ustalonemu dla opodatkowania podatkiem dochodowym od osób fizycznych wkwocie nie ni˝szej jednak ni˝ kwota odpowiadajàca wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów o Êwiadczeniach rodzinnych;
-- **2)** odpowiadajàcej wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów o Êwiadczeniach rodzinnych w przypadku prowadzenia dzia∏alnoÊci niepodlegajàcej opodatkowaniu podatkiem dochodowym od osób fizycznych.
+- **1)** odpowiadającej dochodowi ustalonemu dla opodatkowania podatkiem dochodowym od osób fizycznych wkwocie nie niższej jednak niż kwota odpowiadająca wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych;
+- **2)** odpowiadającej wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych w przypadku prowadzenia działalności niepodlegającej opodatkowaniu podatkiem dochodowym od osób fizycznych.
 
-3. Podstawà wymiaru sk∏adki dla rolnika, októrym mowa w art. 66 ust. 1 pkt 34, oraz dla domowników, októrych mowa wart. 66 ust. 1 pkt 1 lit. bipkt 34, jest kwota odpowiadajàca wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów o Êwiadczeniach rodzinnych.
+3. Podstawą wymiaru składki dla rolnika, októrym mowa w art. 66 ust. 1 pkt 34, oraz dla domowników, októrych mowa wart. 66 ust. 1 pkt 1 lit. bipkt 34, jest kwota odpowiadająca wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych.
 
-4. Sk∏adka rolnika na ubezpieczenie zdrowotne obejmuje cz∏onków jego rodziny, je˝eli nie sà oni domownikami w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu spo∏ecznym rolników.
+4. Składka rolnika na ubezpieczenie zdrowotne obejmuje członków jego rodziny, jeżeli nie są oni domownikami w rozumieniu ustawy z dnia 20 grudnia 1990 r. o ubezpieczeniu społecznym rolników.
 
 **Art. 81.**
 
-1. Do ustalenia podstawy wymiaru sk∏adek na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. a, d—i i pkt 3 i 11, stosuje si´ przepisy okreÊlajàce podstaw´ wymiaru sk∏adek na ubezpieczenia emerytalne i rentowe tych osób, z zastrze˝eniem ust. 5, 6 i 10.
+1. Do ustalenia podstawy wymiaru składek na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. a, d—i i pkt 3 i 11, stosuje się przepisy określające podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe tych osób, z zastrzeżeniem ust. 5, 6 i 10.
 
-2. Podstaw´ wymiaru sk∏adki na ubezpieczenie zdrowotne osób, októrych mowa wart. 66 ust. 1 pkt 1 lit. c, stanowi zadeklarowana kwota, nie ni˝sza jednak ni˝ 75 % przeci´tnego wynagrodzenia. Sk∏adka w nowej wysokoÊci obowiàzuje od trzeciego miesiàca nast´pnego kwarta∏u.
+2. Podstawę wymiaru składki na ubezpieczenie zdrowotne osób, októrych mowa wart. 66 ust. 1 pkt 1 lit. c, stanowi zadeklarowana kwota, nie niższa jednak niż 75 % przeciętnego wynagrodzenia. Składka w nowej wysokości obowiązuje od trzeciego miesiąca następnego kwartału.
 
-3. Podstaw´ wymiaru sk∏adek dla osób, o których mowa wart. 66 ust. 1 pkt 5—10, 12 i13, stanowi kwota odpowiadajàca uposa˝eniu tych osób.
+3. Podstawę wymiaru składek dla osób, o których mowa wart. 66 ust. 1 pkt 5—10, 12 i13, stanowi kwota odpowiadająca uposażeniu tych osób.
 
-4. Podstaw´ wymiaru sk∏adek dla osób, o których mowa w art. 66 ust. 1 pkt 2 i 4, stanowi kwota odpowiadajàca wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów o Êwiadczeniach rodzinnych.
+4. Podstawę wymiaru składek dla osób, o których mowa w art. 66 ust. 1 pkt 2 i 4, stanowi kwota odpowiadająca wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych.
 
-5. Przy ustalaniu podstawy wymiaru sk∏adki na ubezpieczenie zdrowotne osób, o których mowa w ust. 1, nie stosuje si´ wy∏àczeƒ wynagrodzeƒ za czas niezdolnoÊci do pracy wskutek choroby lub odosobnienia w zwiàzku z chorobà zakaênà oraz nie stosuje si´ ograniczenia, o którym mowa w art. 19 ust. 1 ustawy zdnia 13 paêdziernika 1998 r. osystemie ubezpieczeƒ spo∏ecznych.
+5. Przy ustalaniu podstawy wymiaru składki na ubezpieczenie zdrowotne osób, o których mowa w ust. 1, nie stosuje się wyłączeń wynagrodzeń za czas niezdolności do pracy wskutek choroby lub odosobnienia w związku z chorobą zakaêną oraz nie stosuje się ograniczenia, o którym mowa w art. 19 ust. 1 ustawy zdnia 13 paêdziernika 1998 r. osystemie ubezpieczeń społecznych.
 
-6. Podstaw´ wymiaru sk∏adki na ubezpieczenie zdrowotne pomniejsza si´ o kwoty sk∏adek na ubezpieczenia emerytalne, rentowe i chorobowe finansowanych przez ubezpieczonych nieb´dàcych p∏atnikami sk∏adek, potràconych przez p∏atników ze Êrodków ubezpieczonego, zgodnie z przepisami o systemie ubezpieczeƒ spo∏ecznych.
+6. Podstawę wymiaru składki na ubezpieczenie zdrowotne pomniejsza się o kwoty składek na ubezpieczenia emerytalne, rentowe i chorobowe finansowanych przez ubezpieczonych niebędących płatnikami składek, potrąconych przez płatników ze środków ubezpieczonego, zgodnie z przepisami o systemie ubezpieczeń społecznych.
 
-7. Podstaw´ wymiaru sk∏adek dla funkcjonariuszy Paƒstwowej Stra˝y Po˝arnej b´dàcych w s∏u˝bie kandydackiej stanowi kwota odpowiadajàca wysokoÊci minimalnego wynagrodzenia.
+7. Podstawę wymiaru składek dla funkcjonariuszy Państwowej Straży Pożarnej będących w służbie kandydackiej stanowi kwota odpowiadająca wysokości minimalnego wynagrodzenia.
 
-8. Podstawà wymiaru sk∏adek na ubezpieczenie zdrowotne dla:
+8. Podstawą wymiaru składek na ubezpieczenie zdrowotne dla:
 
-- **1)** osób, o których mowa w art. 66 ust. 1 pkt 14 i 15, jest kwota odpowiadajàca wysokoÊci uposa˝enia
-- **2)** osób, o których mowa w art. 66 ust. 1 pkt 16, jest kwota emerytury, renty pomniejszona o kwot´ sp∏aty nadp∏aty Êwiadczenia, z wy∏àczeniem dodatków, zasi∏ków, Êwiadczeƒ pieni´˝nych irycza∏tu energetycznego, ekwiwalentu pieni´˝nego ztytu∏u prawa do bezp∏atnego w´gla oraz deputatu w´glowego albo kwota uposa˝enia pobieranego w stanie spoczynku lub uposa˝enia rodzinnego, kwota uposa˝enia pobieranego po zwolnieniu ze s∏u˝by lub Êwiadczenia pieni´˝nego o takim samym charakterze;
-- **3)** osób, o których mowa w art. 66 ust. 1 pkt 17—20, jest kwota odpowiadajàca wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów o Êwiadczeniach rodzinnych;
-- **4)** osób, o których mowa w art. 66 ust. 1 pkt 22 i 23, jest kwota odpowiadajàca wysokoÊci pobieranego stypendium;
-- **5)** osób, o których mowa w art. 66 ust. 1 pkt 24, jest kwota odpowiadajàca wysokoÊci pobieranego zaalbo wynagrodzenia tych osób; si∏ku dla bezrobotnych lub stypendium, a w przypadku niepobierania przez bezrobotnego zasi∏ku lub stypendium kwota odpowiadajàca 80 % wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów oÊwiadczeniach rodzinnych, z zastrze˝eniem art. 243;
-- **6)** osób, o których mowa w art. 66 ust. 1 pkt 25, jest kwota odpowiadajàca wysokoÊci zasi∏ku przedemerytalnego lub Êwiadczenia przedemerytalnego, a w przypadku niepobierania zasi∏ku przedemerytalnego lub Êwiadczenia przedemerytalnego kwota odpowiadajàca 80 % wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów oÊwiadczeniach rodzinnych, z zastrze˝eniem art. 243;
-- **7)** osób, o których mowa w art. 66 ust. 1 pkt 26, jest kwota odpowiadajàca wysokoÊci przyznanego zasi∏ku sta∏ego z pomocy spo∏ecznej;
-- **8)** osób, o których mowa w art. 66 ust. 1 pkt 27, 29 i 30, jest maksymalna kwota zasi∏ku sta∏ego z pomocy spo∏ecznej;
-- **9)** osób, o których mowa w art. 66 ust. 1 pkt 28 i 31, jest kwota odpowiadajàca wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów o Êwiadczeniach rodzinnych;
-- **10)** osób, o których mowa w art. 66 ust. 1 pkt 32, jest kwota odpowiadajàca wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów o Êwiadczeniach rodzinnych;
-- **11)** osób, o których mowa w art. 66 ust. 1 pkt 33, jest kwota odpowiadajàca kwocie faktycznie otrzymanych alimentów, nie wy˝sza jednak od wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów oÊwiadczeniach rodzinnych;
-- **12)** osób, o których mowa w art. 66 ust. 1 pkt 35, jest przychód, w rozumieniu przepisów o podatku dochodowym od osób fizycznych, otrzymywany ztytu∏u pe∏nionej funkcji.
+- **1)** osób, o których mowa w art. 66 ust. 1 pkt 14 i 15, jest kwota odpowiadająca wysokości uposażenia
+- **2)** osób, o których mowa w art. 66 ust. 1 pkt 16, jest kwota emerytury, renty pomniejszona o kwotę spłaty nadpłaty świadczenia, z wyłączeniem dodatków, zasiłków, świadczeń pieniężnych iryczałtu energetycznego, ekwiwalentu pieniężnego ztytułu prawa do bezpłatnego węgla oraz deputatu węglowego albo kwota uposażenia pobieranego w stanie spoczynku lub uposażenia rodzinnego, kwota uposażenia pobieranego po zwolnieniu ze służby lub świadczenia pieniężnego o takim samym charakterze;
+- **3)** osób, o których mowa w art. 66 ust. 1 pkt 17—20, jest kwota odpowiadająca wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych;
+- **4)** osób, o których mowa w art. 66 ust. 1 pkt 22 i 23, jest kwota odpowiadająca wysokości pobieranego stypendium;
+- **5)** osób, o których mowa w art. 66 ust. 1 pkt 24, jest kwota odpowiadająca wysokości pobieranego zaalbo wynagrodzenia tych osób; siłku dla bezrobotnych lub stypendium, a w przypadku niepobierania przez bezrobotnego zasiłku lub stypendium kwota odpowiadająca 80 % wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów oświadczeniach rodzinnych, z zastrzeżeniem art. 243;
+- **6)** osób, o których mowa w art. 66 ust. 1 pkt 25, jest kwota odpowiadająca wysokości zasiłku przedemerytalnego lub świadczenia przedemerytalnego, a w przypadku niepobierania zasiłku przedemerytalnego lub świadczenia przedemerytalnego kwota odpowiadająca 80 % wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów oświadczeniach rodzinnych, z zastrzeżeniem art. 243;
+- **7)** osób, o których mowa w art. 66 ust. 1 pkt 26, jest kwota odpowiadająca wysokości przyznanego zasiłku stałego z pomocy społecznej;
+- **8)** osób, o których mowa w art. 66 ust. 1 pkt 27, 29 i 30, jest maksymalna kwota zasiłku stałego z pomocy społecznej;
+- **9)** osób, o których mowa w art. 66 ust. 1 pkt 28 i 31, jest kwota odpowiadająca wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych;
+- **10)** osób, o których mowa w art. 66 ust. 1 pkt 32, jest kwota odpowiadająca wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych;
+- **11)** osób, o których mowa w art. 66 ust. 1 pkt 33, jest kwota odpowiadająca kwocie faktycznie otrzymanych alimentów, nie wyższa jednak od wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów oświadczeniach rodzinnych;
+- **12)** osób, o których mowa w art. 66 ust. 1 pkt 35, jest przychód, w rozumieniu przepisów o podatku dochodowym od osób fizycznych, otrzymywany ztytułu pełnionej funkcji.
 
-9. Wprzypadku przyznania ubezpieczonemu prawa do emerytury, renty lub zasi∏ków z ubezpieczenia spo∏ecznego albo Êwiadczeƒ pieni´˝nych dla cywilnych ofiar wojny za okres, za który ubezpieczony pobiera∏ Êwiadczenie z innego w∏aÊciwego organu emerytalnego lub rentowego, zasi∏ek, dodatek szkoleniowy, stypendium lub inne Êwiadczenie pieni´˝ne ztytu∏u pozostawania bez pracy albo zasi∏ek przedemerytalny lub Êwiadczenie przedemerytalne w wysokoÊci uwzgl´dniajàcej zaliczk´ na podatek dochodowy od osób fizycznych i sk∏adk´ na ubezpieczenie zdrowotne Zak∏ad Ubezpieczeƒ Spo∏ecznych przy ustalaniu podstawy wymiaru sk∏adek na ubezpieczenie zdrowotne odejmuje te kwoty od przyznanego Êwiadczenia.
+9. Wprzypadku przyznania ubezpieczonemu prawa do emerytury, renty lub zasiłków z ubezpieczenia społecznego albo świadczeń pieniężnych dla cywilnych ofiar wojny za okres, za który ubezpieczony pobierał świadczenie z innego właściwego organu emerytalnego lub rentowego, zasiłek, dodatek szkoleniowy, stypendium lub inne świadczenie pieniężne ztytułu pozostawania bez pracy albo zasiłek przedemerytalny lub świadczenie przedemerytalne w wysokości uwzględniającej zaliczkę na podatek dochodowy od osób fizycznych i składkę na ubezpieczenie zdrowotne Zakład Ubezpieczeń Społecznych przy ustalaniu podstawy wymiaru składek na ubezpieczenie zdrowotne odejmuje te kwoty od przyznanego świadczenia.
 
-10. Podstawà wymiaru sk∏adek na ubezpieczenie zdrowotne dla osób, o których mowa w art. 66 ust. 1 pkt 1 lit. f i pkt 21, z wy∏àczeniem osób duchownych b´dàcych podatnikami podatku dochodowego od osób fizycznych lub zrycza∏towanego podatku dochodowego od przychodów osób duchownych, jest kwota odpowiadajàca wysokoÊci Êwiadczenia piel´gnacyjnego przys∏ugujàcego na podstawie przepisów o Êwiadczeniach rodzinnych.
+10. Podstawą wymiaru składek na ubezpieczenie zdrowotne dla osób, o których mowa w art. 66 ust. 1 pkt 1 lit. f i pkt 21, z wyłączeniem osób duchownych będących podatnikami podatku dochodowego od osób fizycznych lub zryczałtowanego podatku dochodowego od przychodów osób duchownych, jest kwota odpowiadająca wysokości świadczenia pielęgnacyjnego przysługującego na podstawie przepisów o świadczeniach rodzinnych.
 
-11. Rada Ministrów okreÊli, wdrodze rozporzàdzenia, szczegó∏owy sposób ustalania podstawy wymiaru sk∏adek na ubezpieczenie zdrowotne rolników, ich domowników oraz osób pobierajàcych emerytur´ lub rent´ rolniczà, a tak˝e terminy i tryb ich op∏acania, uwzgl´dniajàc potrzeb´ zapewnienia terminowego op∏acania sk∏adek.
+11. Rada Ministrów określi, wdrodze rozporządzenia, szczegółowy sposób ustalania podstawy wymiaru składek na ubezpieczenie zdrowotne rolników, ich domowników oraz osób pobierających emeryturę lub rentę rolniczą, a także terminy i tryb ich opłacania, uwzględniając potrzebę zapewnienia terminowego opłacania składek.
 
 **Art. 82.**
 
-1. Wprzypadku gdy ubezpieczony uzyskuje przychody z wi´cej ni˝ jednego tytu∏u do obj´cia obowiàzkiem ubezpieczenia zdrowotnego, o którym mowa w art. 66 ust. 1, sk∏adka na ubezpieczenie zdrowotne op∏acana jest z ka˝dego z tych tytu∏ów odr´bnie.
+1. Wprzypadku gdy ubezpieczony uzyskuje przychody z więcej niż jednego tytułu do objęcia obowiązkiem ubezpieczenia zdrowotnego, o którym mowa w art. 66 ust. 1, składka na ubezpieczenie zdrowotne opłacana jest z każdego z tych tytułów odrębnie.
 
-2. W przypadku gdy w ramach jednego z tytu∏ów do obj´cia obowiàzkiem ubezpieczenia zdrowotnego wymienionych w art. 66 ust. 1 pkt 1 lit. a, d—i, ubezpieczony uzyskuje wi´cej ni˝ jeden przychód, sk∏adka na ubezpieczenie zdrowotne jest op∏acana od ka˝dego z uzyskanych przychodów odr´bnie.
+2. W przypadku gdy w ramach jednego z tytułów do objęcia obowiązkiem ubezpieczenia zdrowotnego wymienionych w art. 66 ust. 1 pkt 1 lit. a, d—i, ubezpieczony uzyskuje więcej niż jeden przychód, składka na ubezpieczenie zdrowotne jest opłacana od każdego z uzyskanych przychodów odrębnie.
 
-3. Je˝eli ubezpieczony prowadzàcy dzia∏alnoÊç pozarolniczà uzyskuje przychody z wi´cej ni˝ jednego z rodzajów dzia∏alnoÊci okreÊlonych w ust. 5, sk∏adka na ubezpieczenie zdrowotne jest op∏acana odr´bnie od ka˝dego rodzaju dzia∏alnoÊci, z zastrze˝eniem ust. 4.
+3. Jeżeli ubezpieczony prowadzący działalność pozarolniczą uzyskuje przychody z więcej niż jednego z rodzajów działalności określonych w ust. 5, składka na ubezpieczenie zdrowotne jest opłacana odrębnie od każdego rodzaju działalności, z zastrzeżeniem ust. 4.
 
-4. Je˝eli ubezpieczony prowadzàcy dzia∏alnoÊç pozarolniczà uzyskuje przychody zwi´cej ni˝ jednej spó∏ki w ramach tego samego rodzaju dzia∏alnoÊci, o której mowa w ust. 5 pkt 1—5, sk∏adka na ubezpieczenie zdrowotne op∏acana jest odr´bnie od ka˝dej prowadzonej spó∏ki.
+4. Jeżeli ubezpieczony prowadzący działalność pozarolniczą uzyskuje przychody zwięcej niż jednej spółki w ramach tego samego rodzaju działalności, o której mowa w ust. 5 pkt 1—5, składka na ubezpieczenie zdrowotne opłacana jest odrębnie od każdej prowadzonej spółki.
 
-5. Rodzajami dzia∏alnoÊci sà:
+5. Rodzajami działalności są:
 
-- **1)** dzia∏alnoÊç gospodarcza prowadzona w formie
-- **2)** dzia∏alnoÊç gospodarcza prowadzona w formie jednoosobowej spó∏ki z ograniczonà odpowiedzialnoÊcià;
-- **3)** dzia∏alnoÊç gospodarcza prowadzona w formie spó∏ki jawnej;
-- **4)** dzia∏alnoÊç gospodarcza prowadzona w formie spó∏ki komandytowej;
-- **5)** dzia∏alnoÊç gospodarcza prowadzona w formie spó∏ki partnerskiej;
-- **6)** wykonywanie dzia∏alnoÊci twórczej lub artystycznej jako twórca lub artysta;
-- **7)** wykonywanie wolnego zawodu w rozumieniu przepisów o zrycza∏towanym podatku dochodowym od niektórych przychodów osiàganych przez osoby fizyczne;
-- **8)** wykonywanie wolnego zawodu, z którego przychody sà przychodami zdzia∏alnoÊci gospodarczej w rozumieniu przepisów o podatku dochodowym od osób fizycznych;
-- **9)** inna ni˝ okreÊlona wpkt 1—8 pozarolnicza dzia∏alnoÊç gospodarcza prowadzona na podstawie przepisów o dzia∏alnoÊci gospodarczej lub innych przepisów szczególnych.
+- **1)** działalność gospodarcza prowadzona w formie
+- **2)** działalność gospodarcza prowadzona w formie jednoosobowej spółki z ograniczoną odpowiedzialnością;
+- **3)** działalność gospodarcza prowadzona w formie spółki jawnej;
+- **4)** działalność gospodarcza prowadzona w formie spółki komandytowej;
+- **5)** działalność gospodarcza prowadzona w formie spółki partnerskiej;
+- **6)** wykonywanie działalności twórczej lub artystycznej jako twórca lub artysta;
+- **7)** wykonywanie wolnego zawodu w rozumieniu przepisów o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne;
+- **8)** wykonywanie wolnego zawodu, z którego przychody są przychodami zdziałalności gospodarczej w rozumieniu przepisów o podatku dochodowym od osób fizycznych;
+- **9)** inna niż określona wpkt 1—8 pozarolnicza działalność gospodarcza prowadzona na podstawie przepisów o działalności gospodarczej lub innych przepisów szczególnych.
 
-6. W przypadku zbiegu tytu∏ów do obj´cia obowiàzkiem ubezpieczenia zdrowotnego, o których mowa w art. 66 ust. 1, sk∏adka finansowana z bud˝etu paƒstwa jest op∏acana tylko wtedy, gdy nie ma innego tytu∏u do obj´cia obowiàzkiem ubezpieczenia zdrowotnego. W takim przypadku ubezpieczony ma obowiàzek poinformowaç p∏atnika sk∏adek o op∏acaniu sk∏adek zinnego tytu∏u do obj´cia obowiàzkiem ubezpieczenia zdrowotnego.
+6. W przypadku zbiegu tytułów do objęcia obowiązkiem ubezpieczenia zdrowotnego, o których mowa w art. 66 ust. 1, składka finansowana z budżetu państwa jest opłacana tylko wtedy, gdy nie ma innego tytułu do objęcia obowiązkiem ubezpieczenia zdrowotnego. W takim przypadku ubezpieczony ma obowiązek poinformować płatnika składek o opłacaniu składek zinnego tytułu do objęcia obowiązkiem ubezpieczenia zdrowotnego.
 
-7. W przypadku zbiegu tytu∏ów do obj´cia obowiàzkiem ubezpieczenia zdrowotnego, o których mowa wart. 66 ust. 1, gdy wramach ka˝dego ztych tytu∏ów sk∏adka finansowana jest z bud˝etu paƒstwa, sk∏adka jest op∏acana wy∏àcznie ztytu∏u, który powsta∏ najwczeÊniej. Je˝eli tytu∏y powsta∏y równoczeÊnie, sk∏adka jest op∏acana z pierwszego zg∏oszonego tytu∏u do obj´cia ubezpieczeniem zdrowotnym.
+7. W przypadku zbiegu tytułów do objęcia obowiązkiem ubezpieczenia zdrowotnego, o których mowa wart. 66 ust. 1, gdy wramach każdego ztych tytułów składka finansowana jest z budżetu państwa, składka jest opłacana wyłącznie ztytułu, który powstał najwcześniej. Jeżeli tytuły powstały równocześnie, składka jest opłacana z pierwszego zgłoszonego tytułu do objęcia ubezpieczeniem zdrowotnym.
 
-8. Sk∏adka na ubezpieczenie zdrowotne nie jest op∏acana przez osob´, której Êwiadczenie emerytalne lub rentowe nie przekracza miesi´cznie kwoty minimalnego wynagrodzenia, od tytu∏u do obj´cia obowiàzkiem ubezpieczenia zdrowotnego, o którym mowa w art. 66 ust. 1 pkt 1 lit. c, w przypadku gdy osoba ta:
+8. Składka na ubezpieczenie zdrowotne nie jest opłacana przez osobę, której świadczenie emerytalne lub rentowe nie przekracza miesięcznie kwoty minimalnego wynagrodzenia, od tytułu do objęcia obowiązkiem ubezpieczenia zdrowotnego, o którym mowa w art. 66 ust. 1 pkt 1 lit. c, w przypadku gdy osoba ta:
 
-- **1)** uzyskuje dodatkowe przychody ztego tytu∏u wwysokoÊci nieprzekraczajàcej miesi´cznie 50 % kwoty najni˝szej emerytury lub
-- **2)** op∏aca podatek dochodowy w formie karty podatkowej. spó∏ki cywilnej;
+- **1)** uzyskuje dodatkowe przychody ztego tytułu wwysokości nieprzekraczającej miesięcznie 50 % kwoty najniższej emerytury lub
+- **2)** opłaca podatek dochodowy w formie karty podatkowej. spółki cywilnej;
 
-9. Sk∏adka na ubezpieczenie zdrowotne nie jest op∏acana przez osob´ zaliczonà do umiarkowanego lub znacznego stopnia niepe∏nosprawnoÊci od tytu∏u do obj´cia obowiàzkiem ubezpieczenia zdrowotnego, októrym mowa wart. 66 ust. 1 pkt 1 lit. c, wprzypadku gdy osoba ta:
+9. Składka na ubezpieczenie zdrowotne nie jest opłacana przez osobę zaliczoną do umiarkowanego lub znacznego stopnia niepełnosprawności od tytułu do objęcia obowiązkiem ubezpieczenia zdrowotnego, októrym mowa wart. 66 ust. 1 pkt 1 lit. c, wprzypadku gdy osoba ta:
 
-- **1)** uzyskuje przychody ztego tytu∏u wwysokoÊci nieprzekraczajàcej miesi´cznie 50 % kwoty najni˝szej emerytury lub
-- **2)** op∏aca podatek dochodowy w formie karty podatkowej.
+- **1)** uzyskuje przychody ztego tytułu wwysokości nieprzekraczającej miesięcznie 50 % kwoty najniższej emerytury lub
+- **2)** opłaca podatek dochodowy w formie karty podatkowej.
 
-10. Sk∏adka na ubezpieczenie zdrowotne jest op∏acana w wysokoÊci nieprzekraczajàcej kwoty nale˝nej zaliczki na podatek dochodowy od osób fizycznych, w przypadku gdy osoba zaliczona do umiarkowanego lub znacznego stopnia niepe∏nosprawnoÊci uzyskuje przychód jedynie z tytu∏u do obj´cia obowiàzkiem ubezpieczenia zdrowotnego, októrym mowa wart. 66 ust. 1 pkt 1 lit. c.
+10. Składka na ubezpieczenie zdrowotne jest opłacana w wysokości nieprzekraczającej kwoty należnej zaliczki na podatek dochodowy od osób fizycznych, w przypadku gdy osoba zaliczona do umiarkowanego lub znacznego stopnia niepełnosprawności uzyskuje przychód jedynie z tytułu do objęcia obowiązkiem ubezpieczenia zdrowotnego, októrym mowa wart. 66 ust. 1 pkt 1 lit. c.
 
-11. W przypadku gdy osoba duchowna, która nie jest podatnikiem zrycza∏towanego podatku dochodowego od przychodów osób duchownych, uzyskuje przychód jedynie z tytu∏u do obj´cia obowiàzkiem ubezpieczenia zdrowotnego, o którym mowa w:
+11. W przypadku gdy osoba duchowna, która nie jest podatnikiem zryczałtowanego podatku dochodowego od przychodów osób duchownych, uzyskuje przychód jedynie z tytułu do objęcia obowiązkiem ubezpieczenia zdrowotnego, o którym mowa w:
 
 - **1)** art. 66 ust. 1 pkt 1 lit. a albo
-- **2)** art. 66 ust. 1 pkt 16 sk∏adka na ubezpieczenie zdrowotne op∏acana jest wy∏àcznie z tytu∏u, z którego osoba ta uzyskuje przychód.
+- **2)** art. 66 ust. 1 pkt 16 składka na ubezpieczenie zdrowotne opłacana jest wyłącznie z tytułu, z którego osoba ta uzyskuje przychód.
 
 **Art. 83.**
 
-1. W przypadku gdy sk∏adka na ubezpieczenie zdrowotne obliczona przez p∏atnika, o którym mowa w art. 85 ust. 1—13, zgodnie z przepisami art. 79—81 jest wy˝sza od zaliczki na podatek dochodowy od osób fizycznych obliczonej przez tego p∏atnika zgodnie zprzepisami ustawy zdnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, z póên. zm.
+1. W przypadku gdy składka na ubezpieczenie zdrowotne obliczona przez płatnika, o którym mowa w art. 85 ust. 1—13, zgodnie z przepisami art. 79—81 jest wyższa od zaliczki na podatek dochodowy od osób fizycznych obliczonej przez tego płatnika zgodnie zprzepisami ustawy zdnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, z póên. zm.
 
-- **1)** przychód ubezpieczonego wolny od podatku dochodowego na podstawie art. 21 ust. 1 pkt 46 ustawy zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych, od którego p∏atnik nie oblicza zaliczki na ten podatek,
-- **2)** przychód ubezpieczonego zwolniony od podatku na podstawie umów ounikaniu podwójnego opodatkowania lub innych umów mi´dzynarodowych, od którego p∏atnik nie oblicza zaliczki na ten podatek, wstosunku do ubezpieczonych, októrych mowa w art. 66 ust. 1 pkt 1 i 16,
-- **3)** przychód cz∏onka s∏u˝by zagranicznej wykonujàcego obowiàzki s∏u˝bowe w placówce zagranicznej, z wy∏àczeniem dodatku zagranicznego i innych Êwiadczeƒ przys∏ugujàcych tym osobom,
-- **4)** przychód ubezpieczonego wolny od podatku dochodowego na podstawie art. 21 ust. 1 pkt 74 ustawy zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych, od którego p∏atnik nie oblicza zaliczki na ten podatek, wstosunku do ubezpieczonych, o których mowa w art. 66 ust. 1 pkt 16 sk∏adk´ na ubezpieczenie zdrowotne p∏atnik oblicza zgodnie z przepisami art. 79—81.
+- **1)** przychód ubezpieczonego wolny od podatku dochodowego na podstawie art. 21 ust. 1 pkt 46 ustawy zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych, od którego płatnik nie oblicza zaliczki na ten podatek,
+- **2)** przychód ubezpieczonego zwolniony od podatku na podstawie umów ounikaniu podwójnego opodatkowania lub innych umów międzynarodowych, od którego płatnik nie oblicza zaliczki na ten podatek, wstosunku do ubezpieczonych, októrych mowa w art. 66 ust. 1 pkt 1 i 16,
+- **3)** przychód członka służby zagranicznej wykonującego obowiązki służbowe w placówce zagranicznej, z wyłączeniem dodatku zagranicznego i innych świadczeń przysługujących tym osobom,
+- **4)** przychód ubezpieczonego wolny od podatku dochodowego na podstawie art. 21 ust. 1 pkt 74 ustawy zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych, od którego płatnik nie oblicza zaliczki na ten podatek, wstosunku do ubezpieczonych, o których mowa w art. 66 ust. 1 pkt 16 składkę na ubezpieczenie zdrowotne płatnik oblicza zgodnie z przepisami art. 79—81.
 
-3. W przypadku nieobliczania zaliczki na podatek dochodowy od osób fizycznych przez p∏atnika, zgodnie zprzepisami ustawy zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych, od przychodów stanowiàcych podstaw´ wymiaru sk∏adki innych ni˝ okreÊlone w ust. 2 sk∏adk´ obliczonà za poszczególne miesiàce obni˝a si´ do wysokoÊci 0 z∏.
+3. W przypadku nieobliczania zaliczki na podatek dochodowy od osób fizycznych przez płatnika, zgodnie zprzepisami ustawy zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych, od przychodów stanowiących podstawę wymiaru składki innych niż określone w ust. 2 składkę obliczoną za poszczególne miesiące obniża się do wysokości 0 zł.
 
-4. P∏atnik sk∏adek przekazuje w formie elektronicznej do centrali Funduszu zestawienie sk∏adek na ubezpieczenie zdrowotne, pobranych z uwzgl´dnieniem obni˝enia okreÊlonego w ust. 1, zawierajàce informacj´ o wysokoÊci tych sk∏adek, je˝eli by∏y ustalane zgodnie z przepisami niniejszego rozdzia∏u. ), sk∏adk´ obliczonà za poszczególne miesiàce obni˝a si´ do wyso- 5. Zestawienie, o którym mowa w ust. 4, zawiera koÊci tej zaliczki. ponadto nast´pujàce dane:
+4. Płatnik składek przekazuje w formie elektronicznej do centrali Funduszu zestawienie składek na ubezpieczenie zdrowotne, pobranych z uwzględnieniem obniżenia określonego w ust. 1, zawierające informację o wysokości tych składek, jeżeli były ustalane zgodnie z przepisami niniejszego rozdziału. ), składkę obliczoną za poszczególne miesiące obniża się do wyso- 5. Zestawienie, o którym mowa w ust. 4, zawiera kości tej zaliczki. ponadto następujące dane:
 
-2. Je˝eli podstaw´ obliczenia sk∏adki na ubezpie- 1) imi´ i nazwisko ubezpieczonego; czenie zdrowotne stanowi: 2) adres zamieszkania ubezpieczonego;
+2. Jeżeli podstawę obliczenia składki na ubezpie- 1) imię i nazwisko ubezpieczonego; czenie zdrowotne stanowi: 2) adres zamieszkania ubezpieczonego;
 
 - **3)** numer PESEL oraz numer NIP ubezpieczonego;
-- **4)** seri´ i numer dowodu osobistego lub paszportu ubezpieczonego w przypadku nieposiadania numerów, o których mowa w pkt 3, albo jednego z nich;
-- **5)** nazw´ (firm´), adres siedziby oraz kod p∏atnika;
-- **6)** numer NIP oraz numer REGON p∏atnika.
+- **4)** serię i numer dowodu osobistego lub paszportu ubezpieczonego w przypadku nieposiadania numerów, o których mowa w pkt 3, albo jednego z nich;
+- **5)** nazwę (firmę), adres siedziby oraz kod płatnika;
+- **6)** numer NIP oraz numer REGON płatnika.
 
-6. P∏atnik sk∏adek rozliczajàcy sk∏adki nie wi´cej ni˝ za 5 osób mo˝e przekazywaç zestawienia sk∏adek, októrych mowa wust. 4, wformie dokumentu pisemnego wed∏ug ustalonego przez Fundusz wzoru.
+6. Płatnik składek rozliczający składki nie więcej niż za 5 osób może przekazywać zestawienia składek, októrych mowa wust. 4, wformie dokumentu pisemnego według ustalonego przez Fundusz wzoru.
 
 **Art. 84.**
 
-1. Sk∏adk´ na ubezpieczenie zdrowotne op∏aca osoba podlegajàca ubezpieczeniu zdrowotnemu, z zastrze˝eniem art. 85 i 86.
+1. Składkę na ubezpieczenie zdrowotne opłaca osoba podlegająca ubezpieczeniu zdrowotnemu, z zastrzeżeniem art. 85 i 86.
 
-2. W przypadku gdy wyp∏ata przychodu stanowiàcego podstaw´ wymiaru sk∏adek na ubezpieczenie zdrowotne jest dokonywana przez komornika, sk∏adk´ na ubezpieczenie zdrowotne op∏aca ubezpieczony bezpoÊrednio na rachunek bankowy wskazany przez w∏aÊciwy oddzia∏ wojewódzki Funduszu.
+2. W przypadku gdy wypłata przychodu stanowiącego podstawę wymiaru składek na ubezpieczenie zdrowotne jest dokonywana przez komornika, składkę na ubezpieczenie zdrowotne opłaca ubezpieczony bezpośrednio na rachunek bankowy wskazany przez właściwy oddział wojewódzki Funduszu.
 
 **Art. 85.**
 
-1. Za osob´ pozostajàcà wstosunku pracy, w stosunku s∏u˝bowym albo odbywajàcà s∏u˝b´ zast´pczà sk∏adk´ jako p∏atnik oblicza, pobiera z dochodu ubezpieczonego iodprowadza pracodawca, awrazie wyp∏aty Êwiadczeƒ pracowniczych z Funduszu Gwarantowanych Âwiadczeƒ Pracowniczych, o których mowa w ustawie z dnia 29 grudnia 1993 r. o ochronie roszczeƒ pracowniczych w razie niewyp∏acalnoÊci pracodawcy (Dz. U. z 2002 r. 9, poz. 85, z póên. zm.
+1. Za osobę pozostającą wstosunku pracy, w stosunku służbowym albo odbywającą służbę zastępczą składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego iodprowadza pracodawca, awrazie wypłaty świadczeń pracowniczych z Funduszu Gwarantowanych Âwiadczeń Pracowniczych, o których mowa w ustawie z dnia 29 grudnia 1993 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2002 r. 9, poz. 85, z póên. zm.
 
-9. Za osob´ pobierajàcà emerytur´ lub rent´ sk∏adk´ jako p∏atnik oblicza, pobiera zkwoty emerytury lub renty, októrej mowa wart. 81 ust. 8 pkt 2 iust. 9, iodprowadza jednostka organizacyjna Zak∏adu Ubezpieczeƒ Spo∏ecznych okreÊlona w przepisach o systemie ubezpieczeƒ spo∏ecznych, w∏aÊciwa do wydawania decyzji wsprawach Êwiadczeƒ, Kasa Rolniczego Ubezpieczenia Spo∏ecznego, inny w∏aÊciwy organ emerytalny lub rentowy lub instytucja wyp∏acajàca emerytur´ lub rent´ albo bank dokonujàcy wyp∏aty emerytury lub renty z zagranicy.
+9. Za osobę pobierającą emeryturę lub rentę składkę jako płatnik oblicza, pobiera zkwoty emerytury lub renty, októrej mowa wart. 81 ust. 8 pkt 2 iust. 9, iodprowadza jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych, właściwa do wydawania decyzji wsprawach świadczeń, Kasa Rolniczego Ubezpieczenia Społecznego, inny właściwy organ emerytalny lub rentowy lub instytucja wypłacająca emeryturę lub rentę albo bank dokonujący wypłaty emerytury lub renty z zagranicy.
 
-10. Za osob´ pobierajàcà zasi∏ek przedemerytalny lub Êwiadczenie przedemerytalne sk∏adk´ jako p∏atnik oblicza, pobiera z kwoty zasi∏ku przedemerytalnego lub Êwiadczenia przedemerytalnego i odprowadza ) podmiot obowiàzany do wyp∏aty jednostka organizacyjna Zak∏adu Ubezpieczeƒ Spotych Êwiadczeƒ. ∏ecznych okreÊlona w przepisach o systemie ubezpieczeƒ spo∏ecznych.
+10. Za osobę pobierającą zasiłek przedemerytalny lub świadczenie przedemerytalne składkę jako płatnik oblicza, pobiera z kwoty zasiłku przedemerytalnego lub świadczenia przedemerytalnego i odprowadza ) podmiot obowiązany do wypłaty jednostka organizacyjna Zakładu Ubezpieczeń Spotych świadczeń. łecznych określona w przepisach o systemie ubezpieczeń społecznych.
 
-2. Za osob´ pobierajàcà Êwiadczenie szkoleniowe wyp∏acane po ustaniu zatrudnienia sk∏adk´ jako p∏at- 11. Za osob´ pobierajàcà uposa˝enie wstanie sponik oblicza, pobiera z dochodu ubezpieczonego i od- czynku lub uposa˝enie rodzinne, uposa˝enie po zwolprowadza podmiot, który wyp∏aca to Êwiadczenie.
+2. Za osobę pobierającą świadczenie szkoleniowe wypłacane po ustaniu zatrudnienia składkę jako płat- 11. Za osobę pobierającą uposażenie wstanie sponik oblicza, pobiera z dochodu ubezpieczonego i od- czynku lub uposażenie rodzinne, uposażenie po zwolprowadza podmiot, który wypłaca to świadczenie.
 
-3. Za funkcjonariuszy, o których mowa w art. 81 ust. 7, sk∏adk´ oblicza, finansuje ze Êrodków w∏asnych i odprowadza szko∏a Paƒstwowej Stra˝y Po˝arnej.
+3. Za funkcjonariuszy, o których mowa w art. 81 ust. 7, składkę oblicza, finansuje ze środków własnych i odprowadza szkoła Państwowej Straży Pożarnej.
 
-4. Za osob´ wykonujàcà prac´ na podstawie umowy zlecenia, umowy agencyjnej lub innej umowy o Êwiadczenie us∏ug oraz za osob´ z nià wspó∏pracujàcà sk∏adk´ jako p∏atnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza zamawiajàcy.
+4. Za osobę wykonującą pracę na podstawie umowy zlecenia, umowy agencyjnej lub innej umowy o świadczenie usług oraz za osobę z nią współpracującą składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza zamawiający.
 
-5. Za osob´ pobierajàcà Êwiadczenie socjalne wyp∏acane w okresie urlopu lub zasi∏ek socjalny wyp∏acany na czas przekwalifikowania zawodowego i poszukiwania nowego zatrudnienia, osob´ pobierajàcà wynagrodzenie przys∏ugujàce w okresie korzystania ze stypendium na przekwalifikowanie lub w okresie korzystania ze Êwiadczenia górniczego sk∏adk´ jako p∏atnik oblicza, pobiera z dochodu ubezpieczonego iodprowadza podmiot wyp∏acajàcy Êwiadczenie, zasi∏ek lub wynagrodzenie.
+5. Za osobę pobierającą świadczenie socjalne wypłacane w okresie urlopu lub zasiłek socjalny wypłacany na czas przekwalifikowania zawodowego i poszukiwania nowego zatrudnienia, osobę pobierającą wynagrodzenie przysługujące w okresie korzystania ze stypendium na przekwalifikowanie lub w okresie korzystania ze świadczenia górniczego składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego iodprowadza podmiot wypłacający świadczenie, zasiłek lub wynagrodzenie.
 
-6. Za bezrobotnego pobierajàcego zasi∏ek lub stypendium sk∏adk´ jako p∏atnik oblicza, pobiera zdochodu ubezpieczonego i odprowadza w∏aÊciwy powiatowy urzàd pracy.
+6. Za bezrobotnego pobierającego zasiłek lub stypendium składkę jako płatnik oblicza, pobiera zdochodu ubezpieczonego i odprowadza właściwy powiatowy urząd pracy.
 
-7. Za cz∏onków rolniczych spó∏dzielni produkcyjnych i spó∏dzielni kó∏ek rolniczych oraz cz∏onków ich rodzin sk∏adk´ jako p∏atnik oblicza, pobiera zdochodu ubezpieczonego i odprowadza spó∏dzielnia.
+7. Za członków rolniczych spółdzielni produkcyjnych i spółdzielni kółek rolniczych oraz członków ich rodzin składkę jako płatnik oblicza, pobiera zdochodu ubezpieczonego i odprowadza spółdzielnia.
 
-8. Za osob´ pobierajàcà uposa˝enie pos∏a oraz pos∏a do Parlamentu Europejskiego wybranego w Rzeczypospolitej Polskiej sk∏adk´ jako p∏atnik oblicza, pobiera zdochodu ubezpieczonego iodprowadza Kancelaria Sejmu, a za osob´ pobierajàcà uposa˝enie senatora Kancelaria Senatu. nieniu ze s∏u˝by lub Êwiadczenie pieni´˝ne otakim samym charakterze sk∏adk´ jako p∏atnik oblicza, pobiera zdochodu ubezpieczonego iodprowadza wyp∏acajàcy to uposa˝enie lub Êwiadczenie.
+8. Za osobę pobierającą uposażenie posła oraz posła do Parlamentu Europejskiego wybranego w Rzeczypospolitej Polskiej składkę jako płatnik oblicza, pobiera zdochodu ubezpieczonego iodprowadza Kancelaria Sejmu, a za osobę pobierającą uposażenie senatora Kancelaria Senatu. nieniu ze służby lub świadczenie pieniężne otakim samym charakterze składkę jako płatnik oblicza, pobiera zdochodu ubezpieczonego iodprowadza wypłacający to uposażenie lub świadczenie.
 
-12. Za osob´, októrej mowa wart. 66 ust. 1 pkt 22, sk∏adk´ jako p∏atnik oblicza, pobiera z dochodu ubezpieczonego iodprowadza Krajowa Szko∏a Administracji Publicznej.
+12. Za osobę, októrej mowa wart. 66 ust. 1 pkt 22, składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego iodprowadza Krajowa Szkoła Administracji Publicznej.
 
-13. Za osob´, októrej mowa wart. 66 ust. 1 pkt 23, sk∏adk´ jako p∏atnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza podmiot wyp∏acajàcy stypendium.
+13. Za osobę, októrej mowa wart. 66 ust. 1 pkt 23, składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza podmiot wypłacający stypendium.
 
-14. Za osob´ wspó∏pracujàcà z osobà prowadzàcà pozarolniczà dzia∏alnoÊç sk∏adk´ oblicza, odprowadza i finansuje ze Êrodków w∏asnych osoba prowadzàca pozarolniczà dzia∏alnoÊç.
+14. Za osobę współpracującą z osobą prowadzącą pozarolniczą działalność składkę oblicza, odprowadza i finansuje ze środków własnych osoba prowadząca pozarolniczą działalność.
 
-15. Za osob´ korzystajàcà zurlopu wychowawczego sk∏adk´ na ubezpieczenie zdrowotne oblicza pracodawca albo rolnicza spó∏dzielnia produkcyjna.
+15. Za osobę korzystającą zurlopu wychowawczego składkę na ubezpieczenie zdrowotne oblicza pracodawca albo rolnicza spółdzielnia produkcyjna.
 
-16. Za cz∏onka rady nadzorczej sk∏adk´ jako p∏atnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza podmiot wyp∏acajàcy Êwiadczenie pieni´˝ne.
+16. Za członka rady nadzorczej składkę jako płatnik oblicza, pobiera z dochodu ubezpieczonego i odprowadza podmiot wypłacający świadczenie pieniężne.
 
 **Art. 86.**
 
-1. Sk∏adki na ubezpieczenie zdrowotne:
+1. Składki na ubezpieczenie zdrowotne:
 
-- **1)** rolników, o których mowa w art. 66 ust. 1 pkt 1 lit. b i pkt 34, oraz domowników, z wyjàtkiem rolników prowadzàcych dzia∏y specjalne produkcji rolnej, op∏aca Kasa Rolniczego Ubezpieczenia Spo∏ecznego;
-- **2)** osób, o których mowa w art. 66 ust. 1 pkt 2, op∏aca si´ z bud˝etu paƒstwa, z cz´Êci pozostajàcej w dyspozycji Ministra Obrony Narodowej;
-- **3)** osób, o których mowa w art. 66 ust. 1 pkt 4, op∏aca si´ z bud˝etu paƒstwa, z cz´Êci pozostajàcej w dyspozycji ministra w∏aÊciwego do spraw wewn´trznych;
-- **4)** dzieci, uczniów i s∏uchaczy, o których mowa wart. 66 ust. 1 pkt 17 i18, przebywajàcych wplacówce pe∏niàcej funkcje resocjalizacyjne, wychowawcze, opiekuƒcze lub lecznicze lub wdomu pomocy spo∏ecznej op∏aca placówka lub dom, a uczniów i s∏uchaczy nieprzebywajàcych w takiej placówce lub domu, je˝eli nie podlegajà obowiàzkowi ubezpieczenia zdrowotnego z innego tytu∏u, op∏aca szko∏a lub zak∏ad kszta∏cenia nauczycieli, do którego uczeƒ lub s∏uchacz ucz´szcza;
-- **5)** dzieci, októrych mowa wart. 66 ust. 1 pkt 19, op∏aca oÊrodek pomocy spo∏ecznej;
-- **6)** osób, októrych mowa wart. 66 ust. 1 pkt 20, op∏aca szko∏a wy˝sza lub jednostka organizacyjna prowadzàca studia doktoranckie, w której osoby te odbywajà studia;
-- **7)** bezrobotnych niepobierajàcych zasi∏ku lub stypendium oraz osób niepobierajàcych zasi∏ku przedemerytalnego lub Êwiadczenia przedemerytalnego, z przyczyn okreÊlonych w art. 27 ust. 1 pkt 3—6 i ust. 2 ustawy z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdzia∏aniu bezrobociu, op∏aca w∏aÊciwy urzàd pracy;
-- **8)** osób, októrych mowa wart. 66 ust. 1 pkt 26, op∏aca oÊrodek pomocy spo∏ecznej;
-- **9)** osób, októrych mowa wart. 66 ust. 1 pkt 28, op∏aca wójt, burmistrz lub prezydent miasta;
-- **10)** osób, októrych mowa wart. 66 ust. 1 pkt 27, op∏aca powiatowe centrum pomocy rodzinie realizujàce indywidualny program integracji;
-- **11)** osób, o których mowa w art. 66 ust. 1 pkt 29 i 30, op∏aca oÊrodek pomocy spo∏ecznej realizujàcy indywidualny program wychodzenia zbezdomnoÊci lub indywidualny program zatrudnienia socjalnego;
-- **12)** osób, októrych mowa wart. 66 ust. 1 pkt 31, op∏aca Urzàd do Spraw Kombatantów i Osób Represjonowanych;
-- **13)** osób, októrych mowa wart. 66 ust. 1 pkt 32, op∏aca Zak∏ad Ubezpieczeƒ Spo∏ecznych;
-- **14)** osób, októrych mowa wart. 3 ust. 2 pkt 1 i4, je˝eli zosta∏y uznane za osoby pochodzenia polskiego wrozumieniu przepisów orepatriacji, op∏aca szko∏a wy˝sza lub jednostka organizacyjna prowadzàca studia doktoranckie, wktórej osoby te odbywajà lub b´dà odbywaç studia.
+- **1)** rolników, o których mowa w art. 66 ust. 1 pkt 1 lit. b i pkt 34, oraz domowników, z wyjątkiem rolników prowadzących działy specjalne produkcji rolnej, opłaca Kasa Rolniczego Ubezpieczenia Społecznego;
+- **2)** osób, o których mowa w art. 66 ust. 1 pkt 2, opłaca się z budżetu państwa, z części pozostającej w dyspozycji Ministra Obrony Narodowej;
+- **3)** osób, o których mowa w art. 66 ust. 1 pkt 4, opłaca się z budżetu państwa, z części pozostającej w dyspozycji ministra właściwego do spraw wewnętrznych;
+- **4)** dzieci, uczniów i słuchaczy, o których mowa wart. 66 ust. 1 pkt 17 i18, przebywających wplacówce pełniącej funkcje resocjalizacyjne, wychowawcze, opiekuńcze lub lecznicze lub wdomu pomocy społecznej opłaca placówka lub dom, a uczniów i słuchaczy nieprzebywających w takiej placówce lub domu, jeżeli nie podlegają obowiązkowi ubezpieczenia zdrowotnego z innego tytułu, opłaca szkoła lub zakład kształcenia nauczycieli, do którego uczeń lub słuchacz uczęszcza;
+- **5)** dzieci, októrych mowa wart. 66 ust. 1 pkt 19, opłaca ośrodek pomocy społecznej;
+- **6)** osób, októrych mowa wart. 66 ust. 1 pkt 20, opłaca szkoła wyższa lub jednostka organizacyjna prowadząca studia doktoranckie, w której osoby te odbywają studia;
+- **7)** bezrobotnych niepobierających zasiłku lub stypendium oraz osób niepobierających zasiłku przedemerytalnego lub świadczenia przedemerytalnego, z przyczyn określonych w art. 27 ust. 1 pkt 3—6 i ust. 2 ustawy z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu, opłaca właściwy urząd pracy;
+- **8)** osób, októrych mowa wart. 66 ust. 1 pkt 26, opłaca ośrodek pomocy społecznej;
+- **9)** osób, októrych mowa wart. 66 ust. 1 pkt 28, opłaca wójt, burmistrz lub prezydent miasta;
+- **10)** osób, októrych mowa wart. 66 ust. 1 pkt 27, opłaca powiatowe centrum pomocy rodzinie realizujące indywidualny program integracji;
+- **11)** osób, o których mowa w art. 66 ust. 1 pkt 29 i 30, opłaca ośrodek pomocy społecznej realizujący indywidualny program wychodzenia zbezdomności lub indywidualny program zatrudnienia socjalnego;
+- **12)** osób, októrych mowa wart. 66 ust. 1 pkt 31, opłaca Urząd do Spraw Kombatantów i Osób Represjonowanych;
+- **13)** osób, októrych mowa wart. 66 ust. 1 pkt 32, opłaca Zakład Ubezpieczeń Społecznych;
+- **14)** osób, októrych mowa wart. 3 ust. 2 pkt 1 i4, jeżeli zostały uznane za osoby pochodzenia polskiego wrozumieniu przepisów orepatriacji, opłaca szkoła wyższa lub jednostka organizacyjna prowadząca studia doktoranckie, wktórej osoby te odbywają lub będą odbywać studia.
 
-2. Sk∏adki na ubezpieczenie zdrowotne osób, októrych mowa w ust. 1, osób, o których mowa w art. 66 ust. 1 pkt 34, atak˝e osób, którym przyznano renty na podstawie przepisów o zaopatrzeniu inwalidów wojennych i wojskowych oraz cz∏onków ich rodzin, jak równie˝ osób, które utraci∏y wzrok w wyniku dzia∏aƒ pa∏ów i niewybuchów pozosta∏ych po tych dzia∏aniach, otrzymujàcych dochody z tytu∏u emerytury lub renty zwolnione z podatku dochodowego od osób fizycznych na podstawie odr´bnych przepisów sà finansowane z bud˝etu paƒstwa.
+2. Składki na ubezpieczenie zdrowotne osób, októrych mowa w ust. 1, osób, o których mowa w art. 66 ust. 1 pkt 34, atakże osób, którym przyznano renty na podstawie przepisów o zaopatrzeniu inwalidów wojennych i wojskowych oraz członków ich rodzin, jak również osób, które utraciły wzrok w wyniku działań pałów i niewybuchów pozostałych po tych działaniach, otrzymujących dochody z tytułu emerytury lub renty zwolnione z podatku dochodowego od osób fizycznych na podstawie odrębnych przepisów są finansowane z budżetu państwa.
 
-3. Ârodki z bud˝etu paƒstwa na sk∏adki wymienione wust. 1 pkt 4 i7 otrzymujà jednostki samorzàdu terytorialnego jako dotacje celowe na zadania z zakresu administracji rzàdowej.
+3. Ârodki z budżetu państwa na składki wymienione wust. 1 pkt 4 i7 otrzymują jednostki samorządu terytorialnego jako dotacje celowe na zadania z zakresu administracji rządowej.
 
-4. Sk∏adki na ubezpieczenie zdrowotne duchownych oraz alumnów wy˝szych seminariów duchownych iteologicznych, postulantów, nowicjuszy ijuniorystów oraz ich odpowiedników, z wy∏àczeniem osób duchownych b´dàcych podatnikami podatku dochodowego od osób fizycznych lub zrycza∏towanego podatku dochodowego od przychodów osób duchownych, sà finansowane z Funduszu KoÊcielnego.
+4. Składki na ubezpieczenie zdrowotne duchownych oraz alumnów wyższych seminariów duchownych iteologicznych, postulantów, nowicjuszy ijuniorystów oraz ich odpowiedników, z wyłączeniem osób duchownych będących podatnikami podatku dochodowego od osób fizycznych lub zryczałtowanego podatku dochodowego od przychodów osób duchownych, są finansowane z Funduszu Kościelnego.
 
-5. Na op∏acenie sk∏adek, o których mowa w ust. 4, Fundusz KoÊcielny otrzymuje dotacje z bud˝etu paƒwojennych w latach 1939—1945 lub eksplozji niewystwa.
+5. Na opłacenie składek, o których mowa w ust. 4, Fundusz Kościelny otrzymuje dotacje z budżetu pańwojennych w latach 1939—1945 lub eksplozji niewystwa.
 
-6. Sk∏adka na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. b, op∏acana jest od pierwszego dnia miesiàca, w którym z∏o˝ono zg∏oszenie do ubezpieczenia w trybie przepisów o ubezpieczeniu spo∏ecznym rolników, do ostatniego dnia miesiàca, w którym usta∏y okolicznoÊci uzasadniajàce podleganie ubezpieczeniu zdrowotnemu.
+6. Składka na ubezpieczenie zdrowotne osób, o których mowa w art. 66 ust. 1 pkt 1 lit. b, opłacana jest od pierwszego dnia miesiąca, w którym złożono zgłoszenie do ubezpieczenia w trybie przepisów o ubezpieczeniu społecznym rolników, do ostatniego dnia miesiąca, w którym ustały okoliczności uzasadniające podleganie ubezpieczeniu zdrowotnemu.
 
 **Art. 87.**
 
-1. Osoby i jednostki organizacyjne, o których mowa wart. 84—86, sà obowiàzane, bez uprzedniego wezwania, op∏aciç irozliczyç sk∏adki na ubezpieczenie zdrowotne za ka˝dy miesiàc kalendarzowy wtrybie ina zasadach oraz wterminie przewidzianych dla sk∏adek na ubezpieczenie spo∏eczne, a je˝eli do tych osób i jednostek nie stosuje si´ przepisów oubezpieczeniu spo∏ecznym wterminie do 15. dnia nast´pnego miesiàca.
+1. Osoby i jednostki organizacyjne, o których mowa wart. 84—86, są obowiązane, bez uprzedniego wezwania, opłacić irozliczyć składki na ubezpieczenie zdrowotne za każdy miesiąc kalendarzowy wtrybie ina zasadach oraz wterminie przewidzianych dla składek na ubezpieczenie społeczne, a jeżeli do tych osób i jednostek nie stosuje się przepisów oubezpieczeniu społecznym wterminie do 15. dnia następnego miesiąca.
 
-2. W przypadku rozliczania sk∏adek na ubezpieczenie zdrowotne od emerytur, rent, zasi∏ków przedemerytalnych i Êwiadczeƒ przedemerytalnych jednostka organizacyjna Zak∏adu Ubezpieczeƒ Spo∏ecznych okreÊlona w przepisach o systemie ubezpieczeƒ spo∏ecznych:
+2. W przypadku rozliczania składek na ubezpieczenie zdrowotne od emerytur, rent, zasiłków przedemerytalnych i świadczeń przedemerytalnych jednostka organizacyjna Zakładu Ubezpieczeń Społecznych określona w przepisach o systemie ubezpieczeń społecznych:
 
-- **1)** nie przekazuje imiennych raportów miesi´cznych;
-- **2)** wykazuje sk∏adki wodr´bnej deklaracji rozliczeniowej.
+- **1)** nie przekazuje imiennych raportów miesięcznych;
+- **2)** wykazuje składki wodrębnej deklaracji rozliczeniowej.
 
-3. Od nieop∏aconych w terminie sk∏adek na ubezpieczenie zdrowotne pobiera si´ odsetki za zw∏ok´ na zasadach iwwysokoÊci okreÊlonych dla zaleg∏oÊci podatkowych.
+3. Od nieopłaconych w terminie składek na ubezpieczenie zdrowotne pobiera się odsetki za zwłokę na zasadach iwwysokości określonych dla zaległości podatkowych.
 
-4. Sk∏adki na ubezpieczenie zdrowotne:
+4. Składki na ubezpieczenie zdrowotne:
 
-- **1)** osób wymienionych w art. 66 ust. 1 pkt 1 lit. a i c—i, pkt 2—33 i 35 oraz w art. 68 sà op∏acane iewidencjonowane wZak∏adzie Ubezpieczeƒ Spo∏ecznych, z zastrze˝eniem pkt 2;
-- **2)** osób wymienionych w art. 66 ust. 1 pkt 1 lit. b i pkt 16 pobierajàcych Êwiadczenia emerytalno-rentowe z Kasy Rolniczego Ubezpieczenia Spo∏ecznego oraz osób wymienionych w art. 66 ust. 1 pkt 34 sà op∏acane iewidencjonowane wKasie Rolniczego Ubezpieczenia Spo∏ecznego.
+- **1)** osób wymienionych w art. 66 ust. 1 pkt 1 lit. a i c—i, pkt 2—33 i 35 oraz w art. 68 są opłacane iewidencjonowane wZakładzie Ubezpieczeń Społecznych, z zastrzeżeniem pkt 2;
+- **2)** osób wymienionych w art. 66 ust. 1 pkt 1 lit. b i pkt 16 pobierających świadczenia emerytalno-rentowe z Kasy Rolniczego Ubezpieczenia Społecznego oraz osób wymienionych w art. 66 ust. 1 pkt 34 są opłacane iewidencjonowane wKasie Rolniczego Ubezpieczenia Społecznego.
 
-5. Niezw∏ocznie, nie póêniej ni˝ wciàgu 3 dni roboczych od dnia wp∏ywu sk∏adek na ubezpieczenie zdrowotne, Kasa Rolniczego Ubezpieczenia Spo∏ecznego przekazuje pobrane sk∏adki na ubezpieczenie zdrowotne wraz z pobranymi odsetkami za zw∏ok´ do centrali Funduszu.
+5. Niezwłocznie, nie póêniej niż wciągu 3 dni roboczych od dnia wpływu składek na ubezpieczenie zdrowotne, Kasa Rolniczego Ubezpieczenia Społecznego przekazuje pobrane składki na ubezpieczenie zdrowotne wraz z pobranymi odsetkami za zwłokę do centrali Funduszu.
 
-6. Zak∏ad Ubezpieczeƒ Spo∏ecznych przekazuje pobrane sk∏adki na ubezpieczenie zdrowotne inale˝noÊci pochodne od sk∏adek niezw∏ocznie do centrali Funduszu, nie póêniej ni˝ w ciàgu 3 dni roboczych od dnia ich wp∏ywu na rachunek, o którym mowa w art. 47 ust. 4 pkt 2 ustawy z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych.
+6. Zakład Ubezpieczeń Społecznych przekazuje pobrane składki na ubezpieczenie zdrowotne inależności pochodne od składek niezwłocznie do centrali Funduszu, nie póêniej niż w ciągu 3 dni roboczych od dnia ich wpływu na rachunek, o którym mowa w art. 47 ust. 4 pkt 2 ustawy z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych.
 
-7. Zak∏ad Ubezpieczeƒ Spo∏ecznych i Kasa Rolniczego Ubezpieczenia Spo∏ecznego przekazujà do centrali Funduszu dane o ubezpieczonych, o których mowa w art. 188 ust. 4 pkt 1 i 7—9, i op∏aconych za nich sk∏adkach na ubezpieczenie zdrowotne, przekazane w zg∏oszeniu, o którym mowa w art. 77 ust. 1, iwimiennym raporcie miesi´cznym oraz oodsetkach za zw∏ok´, nie póêniej ni˝ wciàgu 15 dni roboczych od dnia wp∏ywu sk∏adek i odsetek oraz dokumentów umo˝liwiajàcych ustalenie ich wysokoÊci i rozdzielenie ich na ubezpieczonych.
+7. Zakład Ubezpieczeń Społecznych i Kasa Rolniczego Ubezpieczenia Społecznego przekazują do centrali Funduszu dane o ubezpieczonych, o których mowa w art. 188 ust. 4 pkt 1 i 7—9, i opłaconych za nich składkach na ubezpieczenie zdrowotne, przekazane w zgłoszeniu, o którym mowa w art. 77 ust. 1, iwimiennym raporcie miesięcznym oraz oodsetkach za zwłokę, nie póêniej niż wciągu 15 dni roboczych od dnia wpływu składek i odsetek oraz dokumentów umożliwiających ustalenie ich wysokości i rozdzielenie ich na ubezpieczonych.
 
-8. Fundusz jest uprawniony do nieodp∏atnego dost´pu do informacji o ubezpieczonym i op∏acanej przez niego sk∏adce, przekazywanych do centrali Funduszu, w zakresie niezb´dnym do realizacji ubezpieczenia zdrowotnego, znajdujàcych si´ w Zak∏adzie Ubezpieczeƒ Spo∏ecznych oraz w Kasie Rolniczego Ubezpieczenia Spo∏ecznego.
+8. Fundusz jest uprawniony do nieodpłatnego dostępu do informacji o ubezpieczonym i opłacanej przez niego składce, przekazywanych do centrali Funduszu, w zakresie niezbędnym do realizacji ubezpieczenia zdrowotnego, znajdujących się w Zakładzie Ubezpieczeń Społecznych oraz w Kasie Rolniczego Ubezpieczenia Społecznego.
 
-9. Zak∏ad Ubezpieczeƒ Spo∏ecznych i Kasa Rolniczego Ubezpieczenia Spo∏ecznego przekazujà do centrali Funduszu dane, o których mowa w art. 188 ust. 4 pkt 1, 3—4 i7—10, przekazane wzg∏oszeniu, októrym mowa w art. 77 ust. 1, po przeprowadzeniu ich weryfikacji, polegajàcej na stwierdzeniu ich zgodnoÊci zdanymi obj´tymi ewidencjà PESEL.
+9. Zakład Ubezpieczeń Społecznych i Kasa Rolniczego Ubezpieczenia Społecznego przekazują do centrali Funduszu dane, o których mowa w art. 188 ust. 4 pkt 1, 3—4 i7—10, przekazane wzgłoszeniu, októrym mowa w art. 77 ust. 1, po przeprowadzeniu ich weryfikacji, polegającej na stwierdzeniu ich zgodności zdanymi objętymi ewidencją PESEL.
 
-10. Zak∏ad Ubezpieczeƒ Spo∏ecznych oraz Kasa Rolniczego Ubezpieczenia Spo∏ecznego przekazujà do centrali Funduszu sprawozdanie zawierajàce informacje, w podziale na poszczególnych ubezpieczonych, o nale˝nej sk∏adce z tytu∏u ubezpieczenia zdrowotnego, podane w zg∏oszeniu, o którym mowa w art. 77 ust. 1, iwimiennych raportach miesi´cznych, za dany kwarta∏, nie póêniej ni˝ do ostatniego dnia drugiego miesiàca nast´pujàcego po tym kwartale.
+10. Zakład Ubezpieczeń Społecznych oraz Kasa Rolniczego Ubezpieczenia Społecznego przekazują do centrali Funduszu sprawozdanie zawierające informacje, w podziale na poszczególnych ubezpieczonych, o należnej składce z tytułu ubezpieczenia zdrowotnego, podane w zgłoszeniu, o którym mowa w art. 77 ust. 1, iwimiennych raportach miesięcznych, za dany kwartał, nie póêniej niż do ostatniego dnia drugiego miesiąca następującego po tym kwartale.
 
-11. Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego w porozumieniu z ministrem w∏aÊciwym do spraw zdrowia okreÊli, w drodze rozporzàdzenia, centrali Funduszu przez Zak∏ad Ubezpieczeƒ Spo∏ecznych i Kas´ Rolniczego Ubezpieczenia Spo∏ecznego danych dotyczàcych osób obj´tych ubezpieczeniem zdrowotnym i p∏atników sk∏adek, uwzgl´dniajàc koniecznoÊç zapewnienia poufnoÊci przekazywanych danych.
+11. Minister właściwy do spraw zabezpieczenia społecznego w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, centrali Funduszu przez Zakład Ubezpieczeń Społecznych i Kasę Rolniczego Ubezpieczenia Społecznego danych dotyczących osób objętych ubezpieczeniem zdrowotnym i płatników składek, uwzględniając konieczność zapewnienia poufności przekazywanych danych.
 
-12. Rada Ministrów okreÊli, wdrodze rozporzàdzenia, terminy, zakres i tryb weryfikacji danych ubezpieczonych, o której mowa w ust. 9, oraz sposób post´powania Zak∏adu Ubezpieczeƒ Spo∏ecznych i Kasy Rolniczego Ubezpieczenia Spo∏ecznego w razie stwierdzenia ich niezgodnoÊci itryb dokonywania niezb´dnych korekt w przypadku stwierdzenia niezgodnoÊci przekazywanych danych, uwzgl´dniajàc koniecznoÊç zapewnienia poufnoÊci przekazywanych danych.
+12. Rada Ministrów określi, wdrodze rozporządzenia, terminy, zakres i tryb weryfikacji danych ubezpieczonych, o której mowa w ust. 9, oraz sposób postępowania Zakładu Ubezpieczeń Społecznych i Kasy Rolniczego Ubezpieczenia Społecznego w razie stwierdzenia ich niezgodności itryb dokonywania niezbędnych korekt w przypadku stwierdzenia niezgodności przekazywanych danych, uwzględniając konieczność zapewnienia poufności przekazywanych danych.
 
-**Art. 88.** Koszty poboru i ewidencjonowania sk∏adek na ubezpieczenie zdrowotne potràcane sà przez Zak∏ad Ubezpieczeƒ Spo∏ecznych oraz przez Kas´ Rolniczego Ubezpieczenia Spo∏ecznego w wysokoÊci szczegó∏owy zakres oraz sposób przekazywania do 0,20% kwoty tej cz´Êci sk∏adek przekazanych do centrali Funduszu, które zosta∏y zidentyfikowane (przypisane do konkretnego ubezpieczonego) równie˝ w zakresie wysokoÊci wp∏at.
+**Art. 88.** Koszty poboru i ewidencjonowania składek na ubezpieczenie zdrowotne potrącane są przez Zakład Ubezpieczeń Społecznych oraz przez Kasę Rolniczego Ubezpieczenia Społecznego w wysokości szczegółowy zakres oraz sposób przekazywania do 0,20% kwoty tej części składek przekazanych do centrali Funduszu, które zostały zidentyfikowane (przypisane do konkretnego ubezpieczonego) również w zakresie wysokości wpłat.
 
-**Art. 89.** Od kwoty nieprzekazanych w terminie przez Zak∏ad Ubezpieczeƒ Spo∏ecznych i Kas´ Rolniczego Ubezpieczenia Spo∏ecznego sk∏adek na ubezpieczenie zdrowotne wraz znale˝nymi odsetkami Fundusz pobiera odsetki za zw∏ok´ na zasadach iwwysokoÊci okreÊlonych dla zaleg∏oÊci podatkowych.
+**Art. 89.** Od kwoty nieprzekazanych w terminie przez Zakład Ubezpieczeń Społecznych i Kasę Rolniczego Ubezpieczenia Społecznego składek na ubezpieczenie zdrowotne wraz znależnymi odsetkami Fundusz pobiera odsetki za zwłokę na zasadach iwwysokości określonych dla zaległości podatkowych.
 
 **Art. 90.**
 
-1. Zak∏ad Ubezpieczeƒ Spo∏ecznych oraz Kasa Rolniczego Ubezpieczenia Spo∏ecznego przeprowadzajà kontrol´ wykonywania obowiàzków p∏atników w zakresie zg∏oszenia ubezpieczonych do Funduszu i op∏acania sk∏adki.
+1. Zakład Ubezpieczeń Społecznych oraz Kasa Rolniczego Ubezpieczenia Społecznego przeprowadzają kontrolę wykonywania obowiązków płatników w zakresie zgłoszenia ubezpieczonych do Funduszu i opłacania składki.
 
-2. Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego, na wniosek ministra w∏aÊciwego do spraw zdrowia, mo˝e zobowiàzaç Zak∏ad Ubezpieczeƒ Spo∏ecznych lub Kas´ Rolniczego Ubezpieczenia Spo∏ecznego do przeprowadzenia kontroli, o której mowa w ust. 1, okreÊlajàc jednoczeÊnie jej zakres przedmiotowy i podmiotowy.
+2. Minister właściwy do spraw zabezpieczenia społecznego, na wniosek ministra właściwego do spraw zdrowia, może zobowiązać Zakład Ubezpieczeń Społecznych lub Kasę Rolniczego Ubezpieczenia Społecznego do przeprowadzenia kontroli, o której mowa w ust. 1, określając jednocześnie jej zakres przedmiotowy i podmiotowy.
 
-3. Do zakresu kontroli, októrej mowa wust. 1, nale˝y kontrola rzetelnoÊci:
+3. Do zakresu kontroli, októrej mowa wust. 1, należy kontrola rzetelności:
 
-- **1)** zg∏aszania do ubezpieczenia zdrowotnego osób obj´tych tym ubezpieczeniem;
-- **2)** deklarowanych podstaw obliczania sk∏adki na ubezpieczenie zdrowotne, prawid∏owoÊci obliczania, op∏acania i odprowadzania sk∏adki.
+- **1)** zgłaszania do ubezpieczenia zdrowotnego osób objętych tym ubezpieczeniem;
+- **2)** deklarowanych podstaw obliczania składki na ubezpieczenie zdrowotne, prawidłowości obliczania, opłacania i odprowadzania składki.
 
-4. Fundusz analizuje uzyskane z Zak∏adu Ubezpieczeƒ Spo∏ecznych oraz Kasy Rolniczego Ubezpieczenia Spo∏ecznego dane, o których mowa w ust. 3, oraz wyst´puje z wnioskami do tych instytucji.
+4. Fundusz analizuje uzyskane z Zakładu Ubezpieczeń Społecznych oraz Kasy Rolniczego Ubezpieczenia Społecznego dane, o których mowa w ust. 3, oraz występuje z wnioskami do tych instytucji.
 
 **Art. 91.**
 
-1. Zak∏ad Ubezpieczeƒ Spo∏ecznych i Kasa Rolniczego Ubezpieczenia Spo∏ecznego comiesi´cznie przekazujà ministrowi w∏aÊciwemu do spraw finansów publicznych i ministrowi w∏aÊciwemu do spraw zdrowia informacje dotyczàce wysokoÊci wp∏at z tytu∏u sk∏adek na ubezpieczenie zdrowotne i Êrodków przekazanych z tego tytu∏u do Funduszu.
+1. Zakład Ubezpieczeń Społecznych i Kasa Rolniczego Ubezpieczenia Społecznego comiesięcznie przekazują ministrowi właściwemu do spraw finansów publicznych i ministrowi właściwemu do spraw zdrowia informacje dotyczące wysokości wpłat z tytułu składek na ubezpieczenie zdrowotne i środków przekazanych z tego tytułu do Funduszu.
 
-2. Minister w∏aÊciwy do spraw finansów publicznych w porozumieniu z ministrem w∏aÊciwym do spraw zdrowia mo˝e okreÊliç, w drodze rozporzàdzenia, szczegó∏owy zakres danych zawartych winformacjach, októrych mowa wust. 1, bioràc pod uwag´ koniecznoÊç zapewnienia prawid∏owego irzetelnego gospodarowania Êrodkami publicznymi.
+2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw zdrowia może określić, w drodze rozporządzenia, szczegółowy zakres danych zawartych winformacjach, októrych mowa wust. 1, biorąc pod uwagę konieczność zapewnienia prawidłowego irzetelnego gospodarowania środkami publicznymi.
 
-**Art. 92.** Rada Ministrów okreÊli, w drodze rozporzàdzenia, odr´bny sposób ubezpieczania w stosunku do osób, o których mowa w art. 66 ust. 1 pkt 5—13, które ze wzgl´du na wymogi obronnoÊci lub bezpieczeƒstwa paƒstwa zosta∏y oddelegowane do wykonywania pracy lub wyznaczone do pe∏nienia s∏u˝by poza macierzystà jednostkà, uwzgl´dniajàc sposób zg∏aszania do ubezpieczenia zdrowotnego oraz op∏acania sk∏adki na ubezpieczenie zdrowotne oraz wzgl´dy obronnoÊci paƒstwa.
+**Art. 92.** Rada Ministrów określi, w drodze rozporządzenia, odrębny sposób ubezpieczania w stosunku do osób, o których mowa w art. 66 ust. 1 pkt 5—13, które ze względu na wymogi obronności lub bezpieczeństwa państwa zostały oddelegowane do wykonywania pracy lub wyznaczone do pełnienia służby poza macierzystą jednostką, uwzględniając sposób zgłaszania do ubezpieczenia zdrowotnego oraz opłacania składki na ubezpieczenie zdrowotne oraz względy obronności państwa.
 
 **Art. 93.**
 
-1. Sk∏adki na ubezpieczenie zdrowotne oraz nale˝noÊci z tytu∏u odsetek za zw∏ok´ nieop∏acone w terminie podlegajà Êciàgni´ciu na zasadach okreÊlonych w przepisach o systemie ubezpieczeƒ spo∏ecznych.
+1. Składki na ubezpieczenie zdrowotne oraz należności z tytułu odsetek za zwłokę nieopłacone w terminie podlegają ściągnięciu na zasadach określonych w przepisach o systemie ubezpieczeń społecznych.
 
-2. Nale˝noÊci z tytu∏u sk∏adek na ubezpieczenie zdrowotne ulegajà przedawnieniu na zasadach okreÊlonych w przepisach o systemie ubezpieczeƒ spo∏ecznych.
+2. Należności z tytułu składek na ubezpieczenie zdrowotne ulegają przedawnieniu na zasadach określonych w przepisach o systemie ubezpieczeń społecznych.
 
 **Art. 94.**
 
-1. Zwrot nienale˝nie op∏aconych sk∏adek na ubezpieczenie zdrowotne nast´puje na zasadach okreÊlonych w przepisach o systemie ubezpieczeƒ spo∏ecznych.
+1. Zwrot nienależnie opłaconych składek na ubezpieczenie zdrowotne następuje na zasadach określonych w przepisach o systemie ubezpieczeń społecznych.
 
-2. Zwrotu nienale˝nie op∏aconych sk∏adek na ubezpieczenie zdrowotne nie mo˝na dochodziç, je˝eli od dnia ich op∏acenia up∏yn´∏o 5 lat.
+2. Zwrotu nienależnie opłaconych składek na ubezpieczenie zdrowotne nie można dochodzić, jeżeli od dnia ich opłacenia upłynęło 5 lat.
 
-3. Od nienale˝nie pobranej emerytury, renty, zasi∏ku przedemerytalnego, Êwiadczenia przedemerytalnego albo Êwiadczenia pieni´˝nego dla cywilnych ofiar wojny sk∏adka na ubezpieczenie zdrowotne nie podlega zwrotowi.
+3. Od nienależnie pobranej emerytury, renty, zasiłku przedemerytalnego, świadczenia przedemerytalnego albo świadczenia pieniężnego dla cywilnych ofiar wojny składka na ubezpieczenie zdrowotne nie podlega zwrotowi.
 
 **Art. 95.**
 
-1. Sk∏adka na ubezpieczenie zdrowotne podlega odliczeniu:
+1. Składka na ubezpieczenie zdrowotne podlega odliczeniu:
 
-- **1)** od podatku dochodowego od osób fizycznych na zasadach okreÊlonych w ustawie z dnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych;
-- **2)** od rycza∏tu od przychodów ewidencjonowanych, karty podatkowej oraz zrycza∏towanego podatku dochodowego od przychodów osób duchownych na zasadach okreÊlonych wustawie zdnia 20 listopada 1998 r. ozrycza∏towanym podatku dochoprzez osoby fizyczne (Dz. U. 144, poz. 930, z póên. zm. dowym od niektórych przychodów osiàganych ).
+- **1)** od podatku dochodowego od osób fizycznych na zasadach określonych w ustawie z dnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych;
+- **2)** od ryczałtu od przychodów ewidencjonowanych, karty podatkowej oraz zryczałtowanego podatku dochodowego od przychodów osób duchownych na zasadach określonych wustawie zdnia 20 listopada 1998 r. ozryczałtowanym podatku dochoprzez osoby fizyczne (Dz. U. 144, poz. 930, z póên. zm. dowym od niektórych przychodów osiąganych ).
 
-2. Odliczenia, o których mowa w ust. 1, nie mogà powodowaç zmniejszenia dochodów jednostek samorzàdu terytorialnego. DZIA¸ V Narodowy Fundusz Zdrowia Rozdzia∏ 1 Przepisy ogólne
+2. Odliczenia, o których mowa w ust. 1, nie mogą powodować zmniejszenia dochodów jednostek samorządu terytorialnego. DZIAĘ V Narodowy Fundusz Zdrowia
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 96.**
 
-1. Tworzy si´ Narodowy Fundusz Zdrowia b´dàcy paƒstwowà jednostkà organizacyjnà posiadajàcà osobowoÊç prawnà.
+1. Tworzy się Narodowy Fundusz Zdrowia będący państwową jednostką organizacyjną posiadającą osobowość prawną.
 
-2. W sk∏ad Funduszu wchodzà:
+2. W skład Funduszu wchodzą:
 
 - **1)** centrala Funduszu;
-- **2)** oddzia∏y wojewódzkie Funduszu.
+- **2)** oddziały wojewódzkie Funduszu.
 
-3. Siedzibà Funduszu jest miasto sto∏eczne Warszawa.
+3. Siedzibą Funduszu jest miasto stołeczne Warszawa.
 
-4. W centrali Funduszu oraz w oddzia∏ach wojewódzkich Funduszu tworzy si´ komórki organizacyjne do spraw s∏u˝b mundurowych.
+4. W centrali Funduszu oraz w oddziałach wojewódzkich Funduszu tworzy się komórki organizacyjne do spraw służb mundurowych.
 
 5. Kierowników komórek organizacyjnych, o których mowa w ust. 4:
 
-- **1)** w centrali Funduszu powo∏uje Prezes Funduszu na wspólny wniosek Ministra Obrony Narodowej, ministra w∏aÊciwego do spraw wewn´trznych oraz Ministra SprawiedliwoÊci;
-- **2)** w oddzia∏ach wojewódzkich Funduszu powo∏uje dyrektor oddzia∏u wojewódzkiego Funduszu na wspólny wniosek Ministra Obrony Narodowej, ministra w∏aÊciwego do spraw wewn´trznych oraz Ministra SprawiedliwoÊci.
+- **1)** w centrali Funduszu powołuje Prezes Funduszu na wspólny wniosek Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych oraz Ministra Sprawiedliwości;
+- **2)** w oddziałach wojewódzkich Funduszu powołuje dyrektor oddziału wojewódzkiego Funduszu na wspólny wniosek Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych oraz Ministra Sprawiedliwości.
 
-6. Oddzia∏y wojewódzkie Funduszu tworzone sà zgodnie z podzia∏em terytorialnym paƒstwa. W oddzia∏ach wojewódzkich mogà byç tworzone placówki terenowe na zasadach okreÊlonych w statucie Funduszu.
+6. Oddziały wojewódzkie Funduszu tworzone są zgodnie z podziałem terytorialnym państwa. W oddziałach wojewódzkich mogą być tworzone placówki terenowe na zasadach określonych w statucie Funduszu.
 
-7. Fundusz dzia∏a na podstawie ustawy i statutu.
+7. Fundusz działa na podstawie ustawy i statutu.
 
-8. Prezes Rady Ministrów, w drodze rozporzàdzenia, nadaje Funduszowi statut, okreÊlajàc w szczególnoÊci struktur´ organizacyjnà Funduszu, w tym centrali i oddzia∏ów wojewódzkich Funduszu oraz siedziby tych oddzia∏ów, majàc na wzgl´dzie sprawne wykonywanie zadaƒ przez Fundusz.
+8. Prezes Rady Ministrów, w drodze rozporządzenia, nadaje Funduszowi statut, określając w szczególności strukturę organizacyjną Funduszu, w tym centrali i oddziałów wojewódzkich Funduszu oraz siedziby tych oddziałów, mając na względzie sprawne wykonywanie zadań przez Fundusz.
 
 **Art. 97.**
 
-1. Fundusz zarzàdza Êrodkami finansowymi, o których mowa w art. 116.
+1. Fundusz zarządza środkami finansowymi, o których mowa w art. 116.
 
-2. W zakresie Êrodków pochodzàcych ze sk∏adek na ubezpieczenie zdrowotne Fundusz dzia∏a wimieniu w∏asnym na rzecz ubezpieczonych oraz osób uprawnionych do tych Êwiadczeƒ na podstawie przepisów o koordynacji.
+2. W zakresie środków pochodzących ze składek na ubezpieczenie zdrowotne Fundusz działa wimieniu własnym na rzecz ubezpieczonych oraz osób uprawnionych do tych świadczeń na podstawie przepisów o koordynacji.
 
-3. Do zakresu dzia∏ania Funduszu nale˝y równie˝ w szczególnoÊci:
+3. Do zakresu działania Funduszu należy również w szczególności:
 
-- **1)** okreÊlanie jakoÊci i dost´pnoÊci oraz analiza kosztów Êwiadczeƒ opieki zdrowotnej w zakresie niezb´dnym dla prawid∏owego zawierania umów o udzielanie Êwiadczeƒ opieki zdrowotnej;
-- **2)** przeprowadzanie konkursów ofert, rokowaƒ i zawieranie umów o udzielanie Êwiadczeƒ opieki zdrowotnej, a tak˝e monitorowanie ich realizacji i rozliczanie;
-- **3)** finansowanie Êwiadczeƒ opieki zdrowotnej udzielanych Êwiadczeniobiorcom innym ni˝ ubezpieczeni spe∏niajàcym kryterium dochodowe, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. opomocy spo∏ecznej, co do których nie stwierdzono okolicznoÊci, o której mowa w art. 12 tej ustawy;
-- **4)** opracowywanie, wdra˝anie, realizowanie i finansowanie programów zdrowotnych;
-- **5)** wykonywanie zadaƒ zleconych, w tym finansowanych przez ministra w∏aÊciwego do spraw zdrowia, w szczególnoÊci realizacja programów zdrowotnych;
+- **1)** określanie jakości i dostępności oraz analiza kosztów świadczeń opieki zdrowotnej w zakresie niezbędnym dla prawidłowego zawierania umów o udzielanie świadczeń opieki zdrowotnej;
+- **2)** przeprowadzanie konkursów ofert, rokowań i zawieranie umów o udzielanie świadczeń opieki zdrowotnej, a także monitorowanie ich realizacji i rozliczanie;
+- **3)** finansowanie świadczeń opieki zdrowotnej udzielanych świadczeniobiorcom innym niż ubezpieczeni spełniającym kryterium dochodowe, o którym mowa w art. 8 ustawy z dnia 12 marca 2004 r. opomocy społecznej, co do których nie stwierdzono okoliczności, o której mowa w art. 12 tej ustawy;
+- **4)** opracowywanie, wdrażanie, realizowanie i finansowanie programów zdrowotnych;
+- **5)** wykonywanie zadań zleconych, w tym finansowanych przez ministra właściwego do spraw zdrowia, w szczególności realizacja programów zdrowotnych;
 - **6)** monitorowanie ordynacji lekarskich;
 - **7)** promocja zdrowia;
 - **8)** prowadzenie Centralnego Wykazu Ubezpieczonych;
-- **9)** prowadzenie wydawniczej dzia∏alnoÊci promocyjnej i informacyjnej w zakresie ochrony zdrowia.
+- **9)** prowadzenie wydawniczej działalności promocyjnej i informacyjnej w zakresie ochrony zdrowia.
 
 4. Fundusz prowadzi Centralny Wykaz Ubezpieczonych w celu:
 
-- **1)** potwierdzenia prawa do Êwiadczeƒ z ubezpieczenia zdrowotnego;
+- **1)** potwierdzenia prawa do świadczeń z ubezpieczenia zdrowotnego;
 - **2)** gromadzenia danych o ubezpieczonych w Funduszu;
-- **3)** gromadzenia danych o osobach uprawnionych do Êwiadczeƒ opieki zdrowotnej na podstawie przepisów o koordynacji;
-- **4)** wydawania poÊwiadczeƒ izaÊwiadczeƒ wzakresie
-- **5)** rozliczania kosztów Êwiadczeƒ opieki zdrowotnej, w tym udzielanych na podstawie przepisów o koordynacji.
+- **3)** gromadzenia danych o osobach uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;
+- **4)** wydawania poświadczeń izaświadczeń wzakresie
+- **5)** rozliczania kosztów świadczeń opieki zdrowotnej, w tym udzielanych na podstawie przepisów o koordynacji.
 
-5. Fundusz nie wykonuje dzia∏alnoÊci gospodarczej.
+5. Fundusz nie wykonuje działalności gospodarczej.
 
-6. Fundusz nie mo˝e byç w∏aÊcicielem zak∏adów opieki zdrowotnej ani nie mo˝e posiadaç w jakiejkolwiek formie praw w∏asnoÊci w stosunku do podmiotów prowadzàcych zak∏ady opieki zdrowotnej.
+6. Fundusz nie może być właścicielem zakładów opieki zdrowotnej ani nie może posiadać w jakiejkolwiek formie praw własności w stosunku do podmiotów prowadzących zakłady opieki zdrowotnej.
 
-7. Zadania Funduszu okreÊlone w ust. 3 pkt 1, 2, 4 i6 wodniesieniu do zak∏adów opieki zdrowotnej tworzonych i nadzorowanych przez Ministra Obrony Narodowej, Ministra SprawiedliwoÊci i ministra w∏aÊciwego do spraw wewn´trznych realizuje komórka organizacyjna oddzia∏u wojewódzkiego Funduszu, októrej mowa w art. 96 ust. 4.
+7. Zadania Funduszu określone w ust. 3 pkt 1, 2, 4 i6 wodniesieniu do zakładów opieki zdrowotnej tworzonych i nadzorowanych przez Ministra Obrony Narodowej, Ministra Sprawiedliwości i ministra właściwego do spraw wewnętrznych realizuje komórka organizacyjna oddziału wojewódzkiego Funduszu, októrej mowa w art. 96 ust. 4.
 
-8. Fundusz otrzymuje dotacj´ z bud˝etu paƒstwa na sfinansowanie kosztów realizacji zadania, októrym mowa w ust. 3 pkt 3.
+8. Fundusz otrzymuje dotację z budżetu państwa na sfinansowanie kosztów realizacji zadania, októrym mowa w ust. 3 pkt 3.
 
 **Art. 98.**
 
-1. Organami Funduszu sà:
+1. Organami Funduszu są:
 
 - **1)** Rada Funduszu;
 - **2)** Prezes Funduszu;
-- **3)** rady oddzia∏ów wojewódzkich Funduszu;
-- **4)** dyrektorzy oddzia∏ów wojewódzkich Funduszu.
+- **3)** rady oddziałów wojewódzkich Funduszu;
+- **4)** dyrektorzy oddziałów wojewódzkich Funduszu.
 
-2. Wsprawach niezastrze˝onych do zakresu zadaƒ Rady Funduszu, rady oddzia∏u wojewódzkiego Funduszu lub dyrektora oddzia∏u wojewódzkiego Funduszu organem w∏aÊciwym jest Prezes Funduszu.
+2. Wsprawach niezastrzeżonych do zakresu zadań Rady Funduszu, rady oddziału wojewódzkiego Funduszu lub dyrektora oddziału wojewódzkiego Funduszu organem właściwym jest Prezes Funduszu.
 
-3. Techniczno-organizacyjnà obs∏ug´:
+3. Techniczno-organizacyjną obsługę:
 
 - **1)** Rady Funduszu i Prezesa Funduszu zapewnia centrala Funduszu;
-- **2)** rady oddzia∏u wojewódzkiego Funduszu i dyrektora oddzia∏u wojewódzkiego Funduszu zapewnia oddzia∏ wojewódzki Funduszu.
+- **2)** rady oddziału wojewódzkiego Funduszu i dyrektora oddziału wojewódzkiego Funduszu zapewnia oddział wojewódzki Funduszu.
 
 **Art. 99.**
 
-1. Rada Funduszu sk∏ada si´ z dziewi´ciu osób powo∏ywanych przez Prezesa Rady Ministrów, przy czym:
+1. Rada Funduszu składa się z dziewięciu osób powoływanych przez Prezesa Rady Ministrów, przy czym:
 
-- **1)** jednego cz∏onka powo∏uje si´ spoÊród kandydatów wskazanych przez Rzecznika Praw Obywatelskich;
-- **2)** dwóch cz∏onków powo∏uje si´ spoÊród kandydatów wskazanych przez Trójstronnà Komisj´ do Spraw Spo∏eczno-Gospodarczych;
-- **3)** jednego cz∏onka powo∏uje si´ spoÊród kandydatów wskazanych przez stron´ samorzàdowà Komisji Wspólnej Rzàdu i Samorzàdu Terytorialnego;
-- **4)** jednego cz∏onka powo∏uje si´ spoÊród kandydaswojej dzia∏alnoÊci; tów wskazanych przez ministra w∏aÊciwego do spraw zdrowia;
-- **5)** jednego cz∏onka powo∏uje si´ spoÊród kandydatów wskazanych przez Rad´ Dzia∏alnoÊci Po˝ytku Publicznego;
-- **6)** jednego cz∏onka powo∏uje si´ spoÊród kandydatów wskazanych wspólnie przez Ministra Obrony Narodowej, Ministra SprawiedliwoÊci i ministra w∏aÊciwego do spraw wewn´trznych.
+- **1)** jednego członka powołuje się spośród kandydatów wskazanych przez Rzecznika Praw Obywatelskich;
+- **2)** dwóch członków powołuje się spośród kandydatów wskazanych przez Trójstronną Komisję do Spraw Społeczno-Gospodarczych;
+- **3)** jednego członka powołuje się spośród kandydatów wskazanych przez stronę samorządową Komisji Wspólnej Rządu i Samorządu Terytorialnego;
+- **4)** jednego członka powołuje się spośród kandydaswojej działalności; tów wskazanych przez ministra właściwego do spraw zdrowia;
+- **5)** jednego członka powołuje się spośród kandydatów wskazanych przez Radę Działalności Pożytku Publicznego;
+- **6)** jednego członka powołuje się spośród kandydatów wskazanych wspólnie przez Ministra Obrony Narodowej, Ministra Sprawiedliwości i ministra właściwego do spraw wewnętrznych.
 
-2. Kadencja cz∏onków Rady Funduszu trwa 5 lat.
+2. Kadencja członków Rady Funduszu trwa 5 lat.
 
-3. Rada Funduszu dzia∏a na podstawie uchwalonego przez siebie regulaminu.
+3. Rada Funduszu działa na podstawie uchwalonego przez siebie regulaminu.
 
-4. Rada Funduszu wybiera ze swego grona przewodniczàcego, który zwo∏uje posiedzenia i im przewodniczy.
+4. Rada Funduszu wybiera ze swego grona przewodniczącego, który zwołuje posiedzenia i im przewodniczy.
 
-5. W sk∏ad Rady Funduszu wchodzà osoby, które spe∏niajà ∏àcznie nast´pujàce kryteria:
+5. W skład Rady Funduszu wchodzą osoby, które spełniają łącznie następujące kryteria:
 
-- **1)** nie zosta∏y prawomocnie skazane za przest´pstwo pope∏nione umyÊlnie;
-- **2)** posiadajà wykszta∏cenie wy˝sze;
-- **3)** posiadajà wiedz´ i doÊwiadczenie dajàce r´kojmi´ prawid∏owego wykonywania obowiàzków cz∏onka Rady Funduszu;
-- **4)** posiadajà uprawnienia konieczne do zasiadania w radach nadzorczych jednoosobowych spó∏ek Skarbu Paƒstwa, zgodnie zodr´bnymi przepisami.
+- **1)** nie zostały prawomocnie skazane za przestępstwo popełnione umyślnie;
+- **2)** posiadają wykształcenie wyższe;
+- **3)** posiadają wiedzę i doświadczenie dające rękojmię prawidłowego wykonywania obowiązków członka Rady Funduszu;
+- **4)** posiadają uprawnienia konieczne do zasiadania w radach nadzorczych jednoosobowych spółek Skarbu Państwa, zgodnie zodrębnymi przepisami.
 
-6. Cz∏onkowie Rady Funduszu nie mogà byç jednoczeÊnie:
+6. Członkowie Rady Funduszu nie mogą być jednocześnie:
 
 - **1)** pracownikami Funduszu;
-- **2)** Êwiadczeniodawcami;
-- **3)** w∏aÊcicielami zak∏adów opieki zdrowotnej b´dàcych Êwiadczeniodawcami, o których mowa w art. 5 pkt 41 lit. a, ich pracownikami lub osobami wspó∏pracujàcymi ze Êwiadczeniodawcami;
-- **4)** cz∏onkami organów lub pracownikami podmiotów, które utworzy∏y zak∏ady opieki zdrowotnej;
-- **5)** cz∏onkami organów zak∏adu ubezpieczeƒ prowadzàcego dzia∏alnoÊç ubezpieczeniowà na podstawie ustawy z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej (Dz. U. 124, poz. 1151 oraz z 2004 r. 91, poz. 870 i 96, poz. 959);
-- **6)** w∏aÊcicielami apteki, hurtowni farmaceutycznej lub podmiotu wytwarzajàcego produkty lecznicze i wyroby medyczne;
-- **7)** w∏aÊcicielami akcji lub udzia∏ów w spó∏kach handlowych prowadzàcych podmioty, o których mowa w pkt 3 i 6.
+- **2)** świadczeniodawcami;
+- **3)** właścicielami zakładów opieki zdrowotnej będących świadczeniodawcami, o których mowa w art. 5 pkt 41 lit. a, ich pracownikami lub osobami współpracującymi ze świadczeniodawcami;
+- **4)** członkami organów lub pracownikami podmiotów, które utworzyły zakłady opieki zdrowotnej;
+- **5)** członkami organów zakładu ubezpieczeń prowadzącego działalność ubezpieczeniową na podstawie ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. 124, poz. 1151 oraz z 2004 r. 91, poz. 870 i 96, poz. 959);
+- **6)** właścicielami apteki, hurtowni farmaceutycznej lub podmiotu wytwarzającego produkty lecznicze i wyroby medyczne;
+- **7)** właścicielami akcji lub udziałów w spółkach handlowych prowadzących podmioty, o których mowa w pkt 3 i 6.
 
-7. Prezes Rady Ministrów okreÊli, w drodze zarzàdzenia, wynagrodzenie cz∏onków Rady Funduszu,
+7. Prezes Rady Ministrów określi, w drodze zarządzenia, wynagrodzenie członków Rady Funduszu,
 
 **Art. 100.**
 
-1. Do zadaƒ Rady Funduszu nale˝y:
+1. Do zadań Rady Funduszu należy:
 
-- **1)** kontrolowanie bie˝àcej dzia∏alnoÊci Funduszu we wszystkich dziedzinach jego dzia∏alnoÊci;
+- **1)** kontrolowanie bieżącej działalności Funduszu we wszystkich dziedzinach jego działalności;
 - **2)** uchwalanie:
     - **a)** planu pracy Funduszu na dany rok,
     - **b)** rzeczowego planu wydatków inwestycyjnych;
@@ -1388,1259 +1411,1261 @@ Zakres przedmiotowy i podmiotowy oraz objaÊnienia okreÊleƒ ustawowych 3) zada
 
 - **4)** przyjmowanie:
     - **a)** sprawozdania z wykonania planu finansowego Funduszu,
-    - **b)** okresowych irocznych sprawozdaƒ zdzia∏alnoÊci Funduszu;
+    - **b)** okresowych irocznych sprawozdań zdziałalności Funduszu;
 
-- **5)** podejmowanie uchwa∏ w sprawach dotyczàcych uwzgl´dniajàc zakres zadaƒ Rady. majàtku Funduszu i inwestycji przekraczajàcych zakres upowa˝nienia statutowego dla Prezesa Funduszu oraz nabywania, zbywania i obcià˝ania nieruchomoÊci stanowiàcych w∏asnoÊç Funduszu;
-- **6)** kontrola prawid∏owej realizacji planu finansowego Funduszu;
-- **7)** wnioskowanie do Prezesa Funduszu o przeprowadzenie kontroli prawid∏owoÊci post´powania wsprawie zawarcia umów oudzielanie Êwiadczeƒ opieki zdrowotnej lub ich realizacji;
-- **8)** powo∏ywanie i odwo∏ywanie Prezesa Funduszu w trybie okreÊlonym w art. 102 ust. 2;
-- **9)** odwo∏ywanie Prezesa Funduszu w przypadku, o którym mowa w art. 102 ust. 3;
-- **10)** powo∏ywanie i odwo∏ywanie zast´pców Prezesa Funduszu wtrybie okreÊlonym wart. 103 ust. 2 i3.
+- **5)** podejmowanie uchwał w sprawach dotyczących uwzględniając zakres zadań Rady. majątku Funduszu i inwestycji przekraczających zakres upoważnienia statutowego dla Prezesa Funduszu oraz nabywania, zbywania i obciążania nieruchomości stanowiących własność Funduszu;
+- **6)** kontrola prawidłowej realizacji planu finansowego Funduszu;
+- **7)** wnioskowanie do Prezesa Funduszu o przeprowadzenie kontroli prawidłowości postępowania wsprawie zawarcia umów oudzielanie świadczeń opieki zdrowotnej lub ich realizacji;
+- **8)** powoływanie i odwoływanie Prezesa Funduszu w trybie określonym w art. 102 ust. 2;
+- **9)** odwoływanie Prezesa Funduszu w przypadku, o którym mowa w art. 102 ust. 3;
+- **10)** powoływanie i odwoływanie zastępców Prezesa Funduszu wtrybie określonym wart. 103 ust. 2 i3.
 
-2. W celu wykonania swoich obowiàzków Rada mo˝e ˝àdaç od Prezesa Funduszu sprawozdaƒ i wyjaÊnieƒ.
+2. W celu wykonania swoich obowiązków Rada może żądać od Prezesa Funduszu sprawozdań i wyjaśnień.
 
-3. Rada Funduszu nie ma prawa wydawania Prezesowi Funduszu wià˝àcych poleceƒ dotyczàcych bie˝àcej dzia∏alnoÊci Funduszu.
+3. Rada Funduszu nie ma prawa wydawania Prezesowi Funduszu wiążących poleceń dotyczących bieżącej działalności Funduszu.
 
-4. Uchwa∏y w sprawach okreÊlonych w ust. 1 pkt 8—10 sà podejmowane przez Rad´ Funduszu wi´kszoÊcià 2/3 g∏osów, w obecnoÊci co najmniej po∏owy ustawowej liczby jej cz∏onków, a w innych sprawach wi´kszoÊcià g∏osów wobecnoÊci co najmniej po∏owy ustawowej liczby cz∏onków Rady. W przypadku równej liczby g∏osów rozstrzyga g∏os Przewodniczàcego Rady.
+4. Uchwały w sprawach określonych w ust. 1 pkt 8—10 są podejmowane przez Radę Funduszu większością 2/3 głosów, w obecności co najmniej połowy ustawowej liczby jej członków, a w innych sprawach większością głosów wobecności co najmniej połowy ustawowej liczby członków Rady. W przypadku równej liczby głosów rozstrzyga głos Przewodniczącego Rady.
 
-5. Prezes Rady Ministrów odwo∏uje cz∏onka Rady Funduszu przed up∏ywem kadencji, z zastrze˝eniem art. 166 ust. 1 pkt 1, w przypadku:
+5. Prezes Rady Ministrów odwołuje członka Rady Funduszu przed upływem kadencji, z zastrzeżeniem art. 166 ust. 1 pkt 1, w przypadku:
 
 - **1)** rezygnacji ze stanowiska;
-- **2)** utraty zdolnoÊci do pe∏nienia powierzonych obowiàzków na skutek d∏ugotrwa∏ej choroby, trwajàcej co najmniej szeÊç miesi´cy, potwierdzonej orzeczeniem lekarskim;
-- **3)** nieusprawiedliwionej nieobecnoÊci na 4 kolejnych posiedzeniach Rady Funduszu;
+- **2)** utraty zdolności do pełnienia powierzonych obowiązków na skutek długotrwałej choroby, trwającej co najmniej sześć miesięcy, potwierdzonej orzeczeniem lekarskim;
+- **3)** nieusprawiedliwionej nieobecności na 4 kolejnych posiedzeniach Rady Funduszu;
 - **4)** naruszenia przepisów art. 99 ust. 5 i 6;
-- **5)** prawomocnego skazania za przest´pstwo pope∏nione umyÊlnie.
+- **5)** prawomocnego skazania za przestępstwo popełnione umyślnie.
 
-6. Przed up∏ywem kadencji cz∏onka Rady Funduszu Prezes Rady Ministrów mo˝e odwo∏aç tak˝e na podstawie wniosku podmiotu, który wnioskowa∏ o jego powo∏anie.
+6. Przed upływem kadencji członka Rady Funduszu Prezes Rady Ministrów może odwołać także na podstawie wniosku podmiotu, który wnioskował o jego powołanie.
 
-7. Wprzypadku odwo∏ania cz∏onka Rady Funduszu albo jego Êmierci przed up∏ywem jego kadencji, Prezes Rady Ministrów powo∏uje nowego cz∏onka na okres do koƒca tej kadencji. Przepisy art. 99 ust. 1 stosuje si´ odpowiednio.
+7. Wprzypadku odwołania członka Rady Funduszu albo jego śmierci przed upływem jego kadencji, Prezes Rady Ministrów powołuje nowego członka na okres do końca tej kadencji. Przepisy art. 99 ust. 1 stosuje się odpowiednio.
 
-8. Przepisu ust. 7 nie stosuje si´ wprzypadku, gdy do koƒca kadencji cz∏onka Rady Funduszu pozosta∏o mniej ni˝ 3 miesiàce, liczàc od dnia odwo∏ania albo jego Êmierci.
+8. Przepisu ust. 7 nie stosuje się wprzypadku, gdy do końca kadencji członka Rady Funduszu pozostało mniej niż 3 miesiące, licząc od dnia odwołania albo jego śmierci.
 
-9. Przewodniczàcy Rady Funduszu zaprasza do udzia∏u w posiedzeniach Rady, w charakterze obserwatorów, przedstawicieli: Naczelnej Rady Lekarskiej, Naczelnej Rady Piel´gniarek i Po∏o˝nych, Naczelnej Rady Aptekarskiej, Krajowej Rady Diagnostów Laboratoryjnych.
+9. Przewodniczący Rady Funduszu zaprasza do udziału w posiedzeniach Rady, w charakterze obserwatorów, przedstawicieli: Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek i Położnych, Naczelnej Rady Aptekarskiej, Krajowej Rady Diagnostów Laboratoryjnych.
 
-10. Rada Funduszu w zwiàzku z zadaniem, o którym mowa w ust. 1 pkt 1:
+10. Rada Funduszu w związku z zadaniem, o którym mowa w ust. 1 pkt 1:
 
-- **1)** mo˝e delegowaç swoich cz∏onków do samodzielnego wykonywania czynnoÊci kontrolnych;
-- **2)** ma wglàd we wszelkie dokumenty zwiàzane zdzia∏alnoÊcià Funduszu.
+- **1)** może delegować swoich członków do samodzielnego wykonywania czynności kontrolnych;
+- **2)** ma wgląd we wszelkie dokumenty związane zdziałalnością Funduszu.
 
-11. W wyniku kontroli przeprowadzonej w ramach uprawnieƒ nadzorczych Rada Funduszu mo˝e zawiesiç, z wa˝nych powodów, w czynnoÊciach Prezesa Funduszu lub jego zast´pców do czasu podj´cia dzia∏aƒ, o których mowa w art. 166 ust. 1 pkt 2, oraz delegowaç swoich cz∏onków do czasowego wykonywania czynnoÊci Prezesa Funduszu lub jego zast´pców.
+11. W wyniku kontroli przeprowadzonej w ramach uprawnień nadzorczych Rada Funduszu może zawiesić, z ważnych powodów, w czynnościach Prezesa Funduszu lub jego zastępców do czasu podjęcia działań, o których mowa w art. 166 ust. 1 pkt 2, oraz delegować swoich członków do czasowego wykonywania czynności Prezesa Funduszu lub jego zastępców.
 
 **Art. 101.**
 
-1. Prezes Funduszu lub co najmniej trzech cz∏onków Rady Funduszu mo˝e ˝àdaç zwo∏ania posiedzenia Rady Funduszu, podajàc proponowany porzàdek obrad. Przewodniczàcy Rady Funduszu zwo∏uje posiedzenie nie póêniej ni˝ w terminie 14 dni od dnia otrzymania wniosku.
+1. Prezes Funduszu lub co najmniej trzech członków Rady Funduszu może żądać zwołania posiedzenia Rady Funduszu, podając proponowany porządek obrad. Przewodniczący Rady Funduszu zwołuje posiedzenie nie póêniej niż w terminie 14 dni od dnia otrzymania wniosku.
 
-2. Je˝eli przewodniczàcy Rady Funduszu nie zwo∏a posiedzenia zgodnie zust. 1, wnioskodawca mo˝e wystàpiç do ministra w∏aÊciwego do spraw zdrowia zwnioskiem ozwo∏anie posiedzenia, podajàc przyczyArt. 102. 1. Dzia∏alnoÊcià Funduszu kieruje Prezes Funduszu, który reprezentuje Fundusz na zewnàtrz.
+2. Jeżeli przewodniczący Rady Funduszu nie zwoła posiedzenia zgodnie zust. 1, wnioskodawca może wystąpić do ministra właściwego do spraw zdrowia zwnioskiem ozwołanie posiedzenia, podając przyczyArt. 102. 1. Działalnością Funduszu kieruje Prezes Funduszu, który reprezentuje Fundusz na zewnątrz.
 
-2. Prezesa Funduszu powo∏uje i odwo∏uje Rada Funduszu na wniosek ministra w∏aÊciwego do spraw zdrowia.
+2. Prezesa Funduszu powołuje i odwołuje Rada Funduszu na wniosek ministra właściwego do spraw zdrowia.
 
-3. W przypadku ra˝àcego naruszenia obowiàzków ustawowych Rada Funduszu mo˝e odwo∏aç Prezesa Funduszu bez wniosku, októrym mowa wust. 2. Wtakim przypadku Rada Funduszu niezw∏ocznie informuje ministra w∏aÊciwego do spraw zdrowia o podj´tej w tej sprawie uchwale, przedstawiajàc jej uzasadnienie.
+3. W przypadku rażącego naruszenia obowiązków ustawowych Rada Funduszu może odwołać Prezesa Funduszu bez wniosku, októrym mowa wust. 2. Wtakim przypadku Rada Funduszu niezwłocznie informuje ministra właściwego do spraw zdrowia o podjętej w tej sprawie uchwale, przedstawiając jej uzasadnienie.
 
 4. Rada Funduszu ustala wynagrodzenie Prezesa Funduszu.
 
-5. Do zakresu dzia∏ania Prezesa Funduszu wszczególnoÊci nale˝y:
+5. Do zakresu działania Prezesa Funduszu wszczególności należy:
 
-- **1)** prowadzenie gospodarki finansowej Funduszu; n´, dat´, miejsce i proponowany porzàdek obrad.
-- **2)** efektywne i bezpieczne zarzàdzanie funduszami i mieniem Funduszu, w tym gospodarowanie rezerwà ogólnà, o której mowa w art. 118 ust. 5;
-- **3)** zaciàganie, w imieniu Funduszu, zobowiàzaƒ, w tym po˝yczek i kredytów, z zastrze˝eniem art. 100 ust. 1 pkt 5;
-- **4)** przygotowywanie i przedstawianie Radzie Funduszu corocznych prognoz wp∏ywów i wydatków;
-- **5)** opracowywanie projektu planu finansowego Funduszu na podstawie projektów planów finansowych oddzia∏ów wojewódzkich Funduszu, prognoz, o których mowa w art. 120 ust. 1 i 2;
-- **6)** sporzàdzanie rocznego planu finansowego Funduszu po otrzymaniu opinii Rady Funduszu, komisji w∏aÊciwej do spraw finansów publicznych oraz komisji w∏aÊciwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej;
-- **7)** sporzàdzanie projektu planu pracy Funduszu;
+- **1)** prowadzenie gospodarki finansowej Funduszu; nę, datę, miejsce i proponowany porządek obrad.
+- **2)** efektywne i bezpieczne zarządzanie funduszami i mieniem Funduszu, w tym gospodarowanie rezerwą ogólną, o której mowa w art. 118 ust. 5;
+- **3)** zaciąganie, w imieniu Funduszu, zobowiązań, w tym pożyczek i kredytów, z zastrzeżeniem art. 100 ust. 1 pkt 5;
+- **4)** przygotowywanie i przedstawianie Radzie Funduszu corocznych prognoz wpływów i wydatków;
+- **5)** opracowywanie projektu planu finansowego Funduszu na podstawie projektów planów finansowych oddziałów wojewódzkich Funduszu, prognoz, o których mowa w art. 120 ust. 1 i 2;
+- **6)** sporządzanie rocznego planu finansowego Funduszu po otrzymaniu opinii Rady Funduszu, komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej;
+- **7)** sporządzanie projektu planu pracy Funduszu;
 - **8)** realizacja rocznego planu finansowego iplanu pracy Funduszu;
-- **9)** sporzàdzanie projektu rzeczowego planu wydatków inwestycyjnych na nast´pny rok;
-- **10)** sporzàdzanie sprawozdania z wykonania planu finansowego Funduszu za dany rok oraz niezw∏ocznie przedk∏adanie go ministrowi w∏aÊciwemu do spraw finansów publicznych;
-- **11)** sporzàdzanie okresowych i rocznych sprawozdaƒ z dzia∏alnoÊci Funduszu;
-- **12)** nadzorowanie rozliczeƒ dokonywanych w ramach wykonywania przepisów o koordynacji;
-- **13)** sporzàdzanie analiz i ocen na podstawie informacji, o których mowa w art. 106 ust. 10 pkt 5, przekazanych przez oddzia∏y wojewódzkie Funduszu;
+- **9)** sporządzanie projektu rzeczowego planu wydatków inwestycyjnych na następny rok;
+- **10)** sporządzanie sprawozdania z wykonania planu finansowego Funduszu za dany rok oraz niezwłocznie przedkładanie go ministrowi właściwemu do spraw finansów publicznych;
+- **11)** sporządzanie okresowych i rocznych sprawozdań z działalności Funduszu;
+- **12)** nadzorowanie rozliczeń dokonywanych w ramach wykonywania przepisów o koordynacji;
+- **13)** sporządzanie analiz i ocen na podstawie informacji, o których mowa w art. 106 ust. 10 pkt 5, przekazanych przez oddziały wojewódzkie Funduszu;
 - **14)** przedstawianie Radzie Funduszu projektu systemu wynagradzania pracowników Funduszu;
-- **15)** pe∏nienie funkcji pracodawcy w rozumieniu przepisów Kodeksu pracy w stosunku do osób zatrudnionych w centrali Funduszu;
-- **16)** powo∏ywanie i odwo∏ywanie dyrektora oddzia∏u wojewódzkiego, po zasi´gni´ciu opinii rady oddzia∏u wojewódzkiego Funduszu;
-- **17)** odwo∏ywanie dyrektora oddzia∏u wojewódzkiego Funduszu na wniosek rady oddzia∏u wojewódzkiego Funduszu w przypadku, o którym mowa w art. 107 ust. 4;
-- **18)** wykonywanie uchwa∏ Rady Funduszu;
-- **19)** przedstawianie Radzie Funduszu innych informacji o pracy Funduszu w formie, zakresie i terminach okreÊlonych przez Rad´ Funduszu;
-- **20)** przekazywanie ministrowi w∏aÊciwemu do spraw zdrowia uchwa∏ Rady Funduszu podlegajàcych badaniu wtrybie art. 163, wterminie 3 dni roboczych od dnia ich uchwalenia;
-- **21)** nadzór nad realizacjà zadaƒ oddzia∏ów wojewódzkich Funduszu;
-- **22)** koordynowanie wspó∏pracy Funduszu z organami administracji rzàdowej, instytucjami dzia∏ajàcymi na rzecz ochrony zdrowia, instytucjami ubezpieczeƒ spo∏ecznych, samorzàdami zawodów medycznych, zwiàzkami zawodowymi, organizacjami pracodawców, organizacjami Êwiadczeniodawców oraz ubezpieczonych;
-- **23)** przekazywanie oddzia∏om wojewódzkim Funduszu do realizacji programów zdrowotnych zleconych przez w∏aÊciwego ministra;
-- **24)** podejmowanie decyzji w sprawach okreÊlonych w ustawie;
-- **25)** ustalanie jednolitych sposobów realizacji ustawowych zadaƒ realizowanych przez oddzia∏y wojewódzkie Funduszu.
+- **15)** pełnienie funkcji pracodawcy w rozumieniu przepisów Kodeksu pracy w stosunku do osób zatrudnionych w centrali Funduszu;
+- **16)** powoływanie i odwoływanie dyrektora oddziału wojewódzkiego, po zasięgnięciu opinii rady oddziału wojewódzkiego Funduszu;
+- **17)** odwoływanie dyrektora oddziału wojewódzkiego Funduszu na wniosek rady oddziału wojewódzkiego Funduszu w przypadku, o którym mowa w art. 107 ust. 4;
+- **18)** wykonywanie uchwał Rady Funduszu;
+- **19)** przedstawianie Radzie Funduszu innych informacji o pracy Funduszu w formie, zakresie i terminach określonych przez Radę Funduszu;
+- **20)** przekazywanie ministrowi właściwemu do spraw zdrowia uchwał Rady Funduszu podlegających badaniu wtrybie art. 163, wterminie 3 dni roboczych od dnia ich uchwalenia;
+- **21)** nadzór nad realizacją zadań oddziałów wojewódzkich Funduszu;
+- **22)** koordynowanie współpracy Funduszu z organami administracji rządowej, instytucjami działającymi na rzecz ochrony zdrowia, instytucjami ubezpieczeń społecznych, samorządami zawodów medycznych, związkami zawodowymi, organizacjami pracodawców, organizacjami świadczeniodawców oraz ubezpieczonych;
+- **23)** przekazywanie oddziałom wojewódzkim Funduszu do realizacji programów zdrowotnych zleconych przez właściwego ministra;
+- **24)** podejmowanie decyzji w sprawach określonych w ustawie;
+- **25)** ustalanie jednolitych sposobów realizacji ustawowych zadań realizowanych przez oddziały wojewódzkie Funduszu.
 
-6. W przypadku nieobecnoÊci lub czasowej niemo˝noÊci sprawowania funkcji, w okresie nie d∏u˝szym ni˝ 6 miesi´cy, Prezesa Funduszu zast´puje, na podstawie jego pisemnego upowa˝nienia, jeden z zast´pców Prezesa Funduszu. Wprzypadku Êmierci osoby pe∏niàcej funkcj´ Prezesa Funduszu lub niemo˝noÊci udzielenia przez niego takiego upowa˝nienia upowa˝nienia udziela Rada Funduszu.
+6. W przypadku nieobecności lub czasowej niemożności sprawowania funkcji, w okresie nie dłuższym niż 6 miesięcy, Prezesa Funduszu zastępuje, na podstawie jego pisemnego upoważnienia, jeden z zastępców Prezesa Funduszu. Wprzypadku śmierci osoby pełniącej funkcję Prezesa Funduszu lub niemożności udzielenia przez niego takiego upoważnienia upoważnienia udziela Rada Funduszu.
 
-7. Prezes Funduszu mo˝e udzieliç zast´pcom Prezesa, g∏ównemu ksi´gowemu Funduszu oraz pracownikom centrali Funduszu pe∏nomocnictw do dokonywania okreÊlonych czynnoÊci prawnych i upowa˝nieƒ do dokonywania okreÊlonych czynnoÊci faktycznych w wykonaniu zadaƒ, o których mowa w ust. 5.
+7. Prezes Funduszu może udzielić zastępcom Prezesa, głównemu księgowemu Funduszu oraz pracownikom centrali Funduszu pełnomocnictw do dokonywania określonych czynności prawnych i upoważnień do dokonywania określonych czynności faktycznych w wykonaniu zadań, o których mowa w ust. 5.
 
-8. Pe∏nomocnictwa i upowa˝nienia, o których mowa w ust. 7, sà udzielane na piÊmie pod rygorem nieArt. 103.1. Prezes Funduszu wykonuje swoje zadania przy pomocy trzech zast´pców Prezesa.
+8. Pełnomocnictwa i upoważnienia, o których mowa w ust. 7, są udzielane na piśmie pod rygorem nieArt. 103.1. Prezes Funduszu wykonuje swoje zadania przy pomocy trzech zastępców Prezesa.
 
-2. Rada Funduszu, na wniosek Prezesa Funduszu, powo∏uje i odwo∏uje zast´pców Prezesa oraz ustala ich wynagrodzenie.
+2. Rada Funduszu, na wniosek Prezesa Funduszu, powołuje i odwołuje zastępców Prezesa oraz ustala ich wynagrodzenie.
 
-3. Zast´pc´ Prezesa do spraw s∏u˝b mundurowych powo∏uje i odwo∏uje Rada Funduszu, na wspólny wniosek Prezesa Funduszu, Ministra Obrony Narodowej, ministra w∏aÊciwego do spraw wewn´trznych oraz Ministra SprawiedliwoÊci.
+3. Zastępcę Prezesa do spraw służb mundurowych powołuje i odwołuje Rada Funduszu, na wspólny wniosek Prezesa Funduszu, Ministra Obrony Narodowej, ministra właściwego do spraw wewnętrznych oraz Ministra Sprawiedliwości.
 
-4. Szczegó∏owe zakresy obowiàzków zast´pców Prezesa okreÊla statut Funduszu.
+4. Szczegółowe zakresy obowiązków zastępców Prezesa określa statut Funduszu.
 
-5. Prezesem Funduszu ijego zast´pcà mo˝e zostaç osoba, która:
+5. Prezesem Funduszu ijego zastępcą może zostać osoba, która:
 
-- **1)** posiada wykszta∏cenie wy˝sze;
-- **2)** posiada wiedz´ i doÊwiadczenie dajàce r´kojmi´ prawid∏owego wykonywania obowiàzków prezesa lub zast´pcy prezesa;
-- **3)** nie by∏a prawomocnie skazana za przest´pstwo pope∏nione umyÊlnie.
+- **1)** posiada wykształcenie wyższe;
+- **2)** posiada wiedzę i doświadczenie dające rękojmię prawidłowego wykonywania obowiązków prezesa lub zastępcy prezesa;
+- **3)** nie była prawomocnie skazana za przestępstwo popełnione umyślnie.
 
-6. Prezes Funduszu, jego zast´pcy ig∏ówny ksi´gowy Funduszu nie mogà byç jednoczeÊnie:
+6. Prezes Funduszu, jego zastępcy igłówny księgowy Funduszu nie mogą być jednocześnie:
 
-- **1)** cz∏onkami Rady Funduszu i rady oddzia∏u wojewódzkiego Funduszu;
-- **2)** pracownikami oddzia∏ów wojewódzkich Funduszu;
-- **3)** Êwiadczeniodawcami;
-- **4)** w∏aÊcicielami zak∏adów opieki zdrowotnej b´dàcych Êwiadczeniodawcami, o których mowa w art. 5 pkt 41 lit. a, ich pracownikami lub osobami wspó∏pracujàcymi ze Êwiadczeniodawcami;
-- **5)** w∏aÊcicielami lub pracownikami apteki, hurtowni farmaceutycznej lub podmiotu wytwarzajàcego produkty lecznicze i wyroby medyczne;
-- **6)** cz∏onkami organów lub pracownikami podmiotów, które utworzy∏y zak∏ady opieki zdrowotnej;
-- **7)** cz∏onkami organów lub pracownikami jednostek samorzàdu terytorialnego;
-- **8)** cz∏onkami organów zak∏adu ubezpieczeƒ prowadzàcego dzia∏alnoÊç ubezpieczeniowà na podstawie ustawy z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej;
-- **9)** w∏aÊcicielami akcji lub udzia∏ów w spó∏kach prowadzàcych podmioty, októrych mowa wpkt 4 i5;
-- **10)** w∏aÊcicielami w spó∏kach handlowych wi´cej ni˝ 10 % akcji lub udzia∏ów przedstawiajàcych wi´cej ni˝ 10 % kapita∏u zak∏adowego w ka˝dej z tych spó∏ek, w przypadku spó∏ek innych ni˝ okreÊlone w pkt 9. wa˝noÊci.
+- **1)** członkami Rady Funduszu i rady oddziału wojewódzkiego Funduszu;
+- **2)** pracownikami oddziałów wojewódzkich Funduszu;
+- **3)** świadczeniodawcami;
+- **4)** właścicielami zakładów opieki zdrowotnej będących świadczeniodawcami, o których mowa w art. 5 pkt 41 lit. a, ich pracownikami lub osobami współpracującymi ze świadczeniodawcami;
+- **5)** właścicielami lub pracownikami apteki, hurtowni farmaceutycznej lub podmiotu wytwarzającego produkty lecznicze i wyroby medyczne;
+- **6)** członkami organów lub pracownikami podmiotów, które utworzyły zakłady opieki zdrowotnej;
+- **7)** członkami organów lub pracownikami jednostek samorządu terytorialnego;
+- **8)** członkami organów zakładu ubezpieczeń prowadzącego działalność ubezpieczeniową na podstawie ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej;
+- **9)** właścicielami akcji lub udziałów w spółkach prowadzących podmioty, októrych mowa wpkt 4 i5;
+- **10)** właścicielami w spółkach handlowych więcej niż 10 % akcji lub udziałów przedstawiających więcej niż 10 % kapitału zakładowego w każdej z tych spółek, w przypadku spółek innych niż określone w pkt 9. ważności.
 
-7. Prezes Funduszu nie mo˝e wykonywaç dzia∏alnoÊci gospodarczej.
+7. Prezes Funduszu nie może wykonywać działalności gospodarczej.
 
-8. Do zakresu obowiàzków zast´pcy Prezesa do spraw s∏u˝b mundurowych nale˝y w szczególnoÊci:
+8. Do zakresu obowiązków zastępcy Prezesa do spraw służb mundurowych należy w szczególności:
 
-- **1)** nadzorowanie i koordynowanie dzia∏aƒ komórek organizacyjnych do spraw s∏u˝b mundurowych;
-- **2)** koordynacja wspó∏pracy z Ministrem Obrony Narodowej, Ministrem SprawiedliwoÊci i ministrem w∏aÊciwym do spraw wewn´trznych.
+- **1)** nadzorowanie i koordynowanie działań komórek organizacyjnych do spraw służb mundurowych;
+- **2)** koordynacja współpracy z Ministrem Obrony Narodowej, Ministrem Sprawiedliwości i ministrem właściwym do spraw wewnętrznych.
 
 **Art. 104.**
 
-1. Roczny plan finansowy Funduszu, sprawozdanie finansowe Funduszu, sprawozdanie z dzia∏alnoÊci Funduszu Prezes Funduszu publikuje, w formie komunikatu, w Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski B”.
+1. Roczny plan finansowy Funduszu, sprawozdanie finansowe Funduszu, sprawozdanie z działalności Funduszu Prezes Funduszu publikuje, w formie komunikatu, w Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski B”.
 
-2. Plany i sprawozdania, o których mowa w ust. 1, oraz roczny plan pracy Funduszu publikuje si´ na stronie internetowej ministerstwa obs∏ugujàcego ministra w∏aÊciwego do spraw zdrowia oraz na stronie internetowej Funduszu.
+2. Plany i sprawozdania, o których mowa w ust. 1, oraz roczny plan pracy Funduszu publikuje się na stronie internetowej ministerstwa obsługującego ministra właściwego do spraw zdrowia oraz na stronie internetowej Funduszu.
 
 **Art. 105.** Prezes Funduszu w celach informacyjnych i promocyjnych wydaje Biuletyn Narodowego Funduszu Zdrowia.
 
 **Art. 106.**
 
-1. W oddzia∏ach wojewódzkich Funduszu dzia∏ajà rady oddzia∏ów wojewódzkich Funduszu o charakterze opiniodawczo-nadzorczym.
+1. W oddziałach wojewódzkich Funduszu działają rady oddziałów wojewódzkich Funduszu o charakterze opiniodawczo-nadzorczym.
 
-2. W sk∏ad rady oddzia∏u wojewódzkiego Funduszu wchodzi dziewi´ciu cz∏onków b´dàcych ubezpieczonymi zamieszkujàcych na obszarze dzia∏ania danego oddzia∏u wojewódzkiego Funduszu, powo∏ywani przez sejmik województwa, w tym:
+2. W skład rady oddziału wojewódzkiego Funduszu wchodzi dziewięciu członków będących ubezpieczonymi zamieszkujących na obszarze działania danego oddziału wojewódzkiego Funduszu, powoływani przez sejmik województwa, w tym:
 
-- **1)** dwóch cz∏onków powo∏ywanych z w∏asnej inicjatywy sejmiku;
-- **2)** dwóch cz∏onków spoÊród kandydatów wskazanych przez w∏aÊciwego wojewod´;
-- **3)** jeden cz∏onek spoÊród kandydatów wskazanych przez konwent powiatów z danego województwa;
-- **4)** dwóch cz∏onków spoÊród kandydatów wskazanych przez w∏aÊciwà miejscowo wojewódzkà komisj´ dialogu spo∏ecznego;
-- **5)** jeden cz∏onek spoÊród kandydatów wskazanych przez Rad´ Dzia∏alnoÊci Po˝ytku Publicznego;
-- **6)** jeden cz∏onek spoÊród kandydatów wskazanych wspólnie przez w∏aÊciwego szefa wojewódzkiego sztabu wojskowego, w∏aÊciwego komendanta wojewódzkiego Policji iw∏aÊciwego komendanta wojewódzkiego Paƒstwowej Stra˝y Po˝arnej.
+- **1)** dwóch członków powoływanych z własnej inicjatywy sejmiku;
+- **2)** dwóch członków spośród kandydatów wskazanych przez właściwego wojewodę;
+- **3)** jeden członek spośród kandydatów wskazanych przez konwent powiatów z danego województwa;
+- **4)** dwóch członków spośród kandydatów wskazanych przez właściwą miejscowo wojewódzką komisję dialogu społecznego;
+- **5)** jeden członek spośród kandydatów wskazanych przez Radę Działalności Pożytku Publicznego;
+- **6)** jeden członek spośród kandydatów wskazanych wspólnie przez właściwego szefa wojewódzkiego sztabu wojskowego, właściwego komendanta wojewódzkiego Policji iwłaściwego komendanta wojewódzkiego Państwowej Straży Pożarnej.
 
-3. Kadencja rady oddzia∏u wojewódzkiego Funduszu trwa cztery lata, liczàc od dnia pierwszego posiedzenia rady oddzia∏u. Pierwsze posiedzenie rady oddzia∏u wojewódzkiego Funduszu zwo∏uje marsza∏ek województwa.
+3. Kadencja rady oddziału wojewódzkiego Funduszu trwa cztery lata, licząc od dnia pierwszego posiedzenia rady oddziału. Pierwsze posiedzenie rady oddziału wojewódzkiego Funduszu zwołuje marszałek województwa.
 
-4. Przewodniczàcy rady oddzia∏u wojewódzkiego oddzia∏u wojewódzkiego Funduszu, wcharakterze obserwatorów, przedstawicieli w∏aÊciwej okr´gowej rady lekarskiej, okr´gowej rady piel´gniarek ipo∏o˝nych iokr´gowej rady aptekarskiej oraz Krajowej Rady Diagnostów Laboratoryjnych.
+4. Przewodniczący rady oddziału wojewódzkiego oddziału wojewódzkiego Funduszu, wcharakterze obserwatorów, przedstawicieli właściwej okręgowej rady lekarskiej, okręgowej rady pielęgniarek ipołożnych iokręgowej rady aptekarskiej oraz Krajowej Rady Diagnostów Laboratoryjnych.
 
-5. Wprzypadku gdy na terenie województwa dzia∏a wi´cej ni˝ jedna okr´gowa rada lekarska, okr´gowa rada piel´gniarek ipo∏o˝nych albo okr´gowa rada aptekarska, rady te delegujà wspólnego przedstawiciela do udzia∏u w posiedzeniach rady oddzia∏u wojewódzkiego Funduszu.
+5. Wprzypadku gdy na terenie województwa działa więcej niż jedna okręgowa rada lekarska, okręgowa rada pielęgniarek ipołożnych albo okręgowa rada aptekarska, rady te delegują wspólnego przedstawiciela do udziału w posiedzeniach rady oddziału wojewódzkiego Funduszu.
 
-6. Wsk∏ad rad oddzia∏ów wojewódzkich Funduszu mogà wchodziç wy∏àcznie osoby, które:
+6. Wskład rad oddziałów wojewódzkich Funduszu mogą wchodzić wyłącznie osoby, które:
 
-- **1)** korzystajà z pe∏ni praw publicznych;
-- **2)** posiadajà wykszta∏cenie wy˝sze;
-- **3)** nie zosta∏y prawomocnie skazane za przest´pstwo pope∏nione umyÊlnie. Funduszu zaprasza do udzia∏u w posiedzeniach rady
+- **1)** korzystają z pełni praw publicznych;
+- **2)** posiadają wykształcenie wyższe;
+- **3)** nie zostały prawomocnie skazane za przestępstwo popełnione umyślnie. Funduszu zaprasza do udziału w posiedzeniach rady
 
-7. Cz∏onkowie rady oddzia∏u wojewódzkiego Funduszu nie mogà byç jednoczeÊnie:
+7. Członkowie rady oddziału wojewódzkiego Funduszu nie mogą być jednocześnie:
 
-- **1)** dyrektorami oddzia∏ów wojewódzkich Funduszu oraz pracownikami oddzia∏u wojewódzkiego Funduszu;
+- **1)** dyrektorami oddziałów wojewódzkich Funduszu oraz pracownikami oddziału wojewódzkiego Funduszu;
 - **2)** Prezesem Funduszu;
-- **3)** zast´pcà Prezesa Funduszu;
+- **3)** zastępcą Prezesa Funduszu;
 - **4)** pracownikami centrali Funduszu;
-- **5)** Êwiadczeniodawcami;
-- **6)** w∏aÊcicielami zak∏adów opieki zdrowotnej b´dàcych Êwiadczeniodawcami, o których mowa w art. 5 pkt 41 lit. a, ich pracownikami lub osobami wspó∏pracujàcymi ze Êwiadczeniodawcami;
-- **7)** w∏aÊcicielami lub pracownikami apteki, hurtowni farmaceutycznej lub podmiotu wytwarzajàcego produkty lecznicze i wyroby medyczne;
-- **8)** cz∏onkami organów lub pracownikami podmiotów, które utworzy∏y zak∏ady opieki zdrowotnej;
-- **9)** cz∏onkami organów lub pracownikami jednostek samorzàdu terytorialnego, atak˝e cz∏onkami organów zak∏adu ubezpieczeƒ prowadzàcego dzia∏alnoÊç ubezpieczeniowà na podstawie ustawy z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej;
-- **10)** w∏aÊcicielami akcji lub udzia∏ów w spó∏kach handlowych prowadzàcych podmioty, o których mowa w pkt 6 i 7.
+- **5)** świadczeniodawcami;
+- **6)** właścicielami zakładów opieki zdrowotnej będących świadczeniodawcami, o których mowa w art. 5 pkt 41 lit. a, ich pracownikami lub osobami współpracującymi ze świadczeniodawcami;
+- **7)** właścicielami lub pracownikami apteki, hurtowni farmaceutycznej lub podmiotu wytwarzającego produkty lecznicze i wyroby medyczne;
+- **8)** członkami organów lub pracownikami podmiotów, które utworzyły zakłady opieki zdrowotnej;
+- **9)** członkami organów lub pracownikami jednostek samorządu terytorialnego, atakże członkami organów zakładu ubezpieczeń prowadzącego działalność ubezpieczeniową na podstawie ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej;
+- **10)** właścicielami akcji lub udziałów w spółkach handlowych prowadzących podmioty, o których mowa w pkt 6 i 7.
 
-8. Cz∏onkowie rad oddzia∏ów wojewódzkich Funduszu wybierajà spoÊród swojego grona przewodniczàcego.
+8. Członkowie rad oddziałów wojewódzkich Funduszu wybierają spośród swojego grona przewodniczącego.
 
-9. Rada wojewódzkiego oddzia∏u Funduszu dzia∏a na podstawie uchwalonego przez siebie regulaminu.
+9. Rada wojewódzkiego oddziału Funduszu działa na podstawie uchwalonego przez siebie regulaminu.
 
-10. Do zadaƒ rad oddzia∏u wojewódzkiego Funduszu nale˝y:
+10. Do zadań rad oddziału wojewódzkiego Funduszu należy:
 
-- **1)** opiniowanie projektu planu finansowego oddzia∏u wojewódzkiego Funduszu;
-- **2)** uchwalanie planu pracy oddzia∏u wojewódzkiego Funduszu;
-- **3)** opiniowanie sprawozdania z wykonania planu finansowego oddzia∏u wojewódzkiego Funduszu za dany rok;
-- **4)** monitorowanie prawid∏owoÊci post´powania wsprawie zawarcia umów oudzielanie Êwiadczeƒ opieki zdrowotnej oraz realizacji tych umów;
-- **5)** monitorowanie, na podstawie przekazanych przez dyrektora oddzia∏u wojewódzkiego informacji, o których mowa w art. 23 ust. 2 i 4, sposobu wykonywania przez Êwiadczeniodawców obowiàzków, o których mowa w art. 20—22;
-- **6)** kontrolowanie bie˝àcej dzia∏alnoÊci oddzia∏u wojewódzkiego Funduszu we wszystkich dziedzinach jego dzia∏alnoÊci;
-- **7)** wyst´powanie do dyrektora oddzia∏u wojewódzkiego z wnioskiem o wszcz´cie kontroli w trybie art. 64;
-- **8)** wyst´powanie do dyrektora oddzia∏u wojewódzkiego o przeprowadzenie kontroli realizacji zawartych umów o udzielanie Êwiadczeƒ opieki zdrowotnej;
-- **9)** dokonywanie okresowych analiz skarg iwniosków wnoszonych przez ubezpieczonych, z wy∏àczeniem spraw podlegajàcych nadzorowi medycznemu;
-- **10)** wyst´powanie do Prezesa Funduszu o przeprowadzenie kontroli oddzia∏u wojewódzkiego Funduszu;
-- **11)** wydawanie opinii okandydacie na stanowisko dyrektora oddzia∏u wojewódzkiego Funduszu;
-- **12)** wyst´powanie z wnioskiem do Prezesa Funduszu o odwo∏ywanie dyrektora oddzia∏u wojewódzkiego Funduszu w przypadkach, o których mowa w art. 107 ust. 4.
+- **1)** opiniowanie projektu planu finansowego oddziału wojewódzkiego Funduszu;
+- **2)** uchwalanie planu pracy oddziału wojewódzkiego Funduszu;
+- **3)** opiniowanie sprawozdania z wykonania planu finansowego oddziału wojewódzkiego Funduszu za dany rok;
+- **4)** monitorowanie prawidłowości postępowania wsprawie zawarcia umów oudzielanie świadczeń opieki zdrowotnej oraz realizacji tych umów;
+- **5)** monitorowanie, na podstawie przekazanych przez dyrektora oddziału wojewódzkiego informacji, o których mowa w art. 23 ust. 2 i 4, sposobu wykonywania przez świadczeniodawców obowiązków, o których mowa w art. 20—22;
+- **6)** kontrolowanie bieżącej działalności oddziału wojewódzkiego Funduszu we wszystkich dziedzinach jego działalności;
+- **7)** występowanie do dyrektora oddziału wojewódzkiego z wnioskiem o wszczęcie kontroli w trybie art. 64;
+- **8)** występowanie do dyrektora oddziału wojewódzkiego o przeprowadzenie kontroli realizacji zawartych umów o udzielanie świadczeń opieki zdrowotnej;
+- **9)** dokonywanie okresowych analiz skarg iwniosków wnoszonych przez ubezpieczonych, z wyłączeniem spraw podlegających nadzorowi medycznemu;
+- **10)** występowanie do Prezesa Funduszu o przeprowadzenie kontroli oddziału wojewódzkiego Funduszu;
+- **11)** wydawanie opinii okandydacie na stanowisko dyrektora oddziału wojewódzkiego Funduszu;
+- **12)** występowanie z wnioskiem do Prezesa Funduszu o odwoływanie dyrektora oddziału wojewódzkiego Funduszu w przypadkach, o których mowa w art. 107 ust. 4.
 
-11. Uchwa∏y rady oddzia∏u wojewódzkiego Funduszu zapadajà wi´kszoÊcià g∏osów przy obecnoÊci co najmniej po∏owy ustawowej liczby cz∏onków rady. W przypadku równej liczby g∏osów rozstrzyga g∏os przewodniczàcego rady.
+11. Uchwały rady oddziału wojewódzkiego Funduszu zapadają większością głosów przy obecności co najmniej połowy ustawowej liczby członków rady. W przypadku równej liczby głosów rozstrzyga głos przewodniczącego rady.
 
-12. Wcelu wykonywania swoich obowiàzków rada oddzia∏u wojewódzkiego Funduszu mo˝e ˝àdaç od dyrektora oddzia∏u wojewódzkiego sprawozdaƒ i wyjaÊnieƒ.
+12. Wcelu wykonywania swoich obowiązków rada oddziału wojewódzkiego Funduszu może żądać od dyrektora oddziału wojewódzkiego sprawozdań i wyjaśnień.
 
-13. Rada oddzia∏u wojewódzkiego Funduszu nie wódzkiego Funduszu wià˝àcych poleceƒ dotyczàcych bie˝àcej dzia∏alnoÊci oddzia∏u wojewódzkiego Funduszu.
+13. Rada oddziału wojewódzkiego Funduszu nie wódzkiego Funduszu wiążących poleceń dotyczących bieżącej działalności oddziału wojewódzkiego Funduszu.
 
-14. Rada oddzia∏u wojewódzkiego Funduszu wzwiàzku zzadaniem, októrym mowa wust. 10 pkt 6:
+14. Rada oddziału wojewódzkiego Funduszu wzwiązku zzadaniem, októrym mowa wust. 10 pkt 6:
 
-- **1)** mo˝e delegowaç swoich cz∏onków do samodzielnego wykonywania czynnoÊci kontrolnych;
-- **2)** ma wglàd we wszelkie dokumenty zwiàzane zdzia∏alnoÊcià oddzia∏u wojewódzkiego Funduszu.
+- **1)** może delegować swoich członków do samodzielnego wykonywania czynności kontrolnych;
+- **2)** ma wgląd we wszelkie dokumenty związane zdziałalnością oddziału wojewódzkiego Funduszu.
 
-15. Sejmik województwa odwo∏uje cz∏onka rady oddzia∏u wojewódzkiego Funduszu przed up∏ywem kadencji w przypadku:
+15. Sejmik województwa odwołuje członka rady oddziału wojewódzkiego Funduszu przed upływem kadencji w przypadku:
 
 - **1)** rezygnacji ze stanowiska;
-- **2)** utraty zdolnoÊci do pe∏nienia powierzonych obowiàzków na skutek d∏ugotrwa∏ej choroby, trwajàcej co najmniej 6 miesi´cy, potwierdzonej orzeczeniem lekarskim;
-- **3)** nieusprawiedliwionej nieobecnoÊci na 4 kolejnych posiedzeniach rady oddzia∏u wojewódzkiego Funduszu;
+- **2)** utraty zdolności do pełnienia powierzonych obowiązków na skutek długotrwałej choroby, trwającej co najmniej 6 miesięcy, potwierdzonej orzeczeniem lekarskim;
+- **3)** nieusprawiedliwionej nieobecności na 4 kolejnych posiedzeniach rady oddziału wojewódzkiego Funduszu;
 - **4)** naruszenia przepisów ust. 7;
-- **5)** prawomocnego skazania za przest´pstwo pope∏nione umyÊlnie.
+- **5)** prawomocnego skazania za przestępstwo popełnione umyślnie.
 
-16. W przypadku odwo∏ania cz∏onka rady oddzia∏u wojewódzkiego Funduszu albo jego Êmierci przed up∏ywem jego kadencji, sejmik województwa powo∏uje nowego cz∏onka na okres do koƒca tej kadencji. Przepisy ust. 2 stosuje si´ odpowiednio.
+16. W przypadku odwołania członka rady oddziału wojewódzkiego Funduszu albo jego śmierci przed upływem jego kadencji, sejmik województwa powołuje nowego członka na okres do końca tej kadencji. Przepisy ust. 2 stosuje się odpowiednio.
 
-17. Przepisu ust. 16 nie stosuje si´ w przypadku, gdy do koƒca kadencji cz∏onka rady oddzia∏u wojewódzkiego Funduszu pozosta∏o mniej ni˝ 3 miesiàce, liczàc od dnia jego odwo∏ania albo Êmierci.
+17. Przepisu ust. 16 nie stosuje się w przypadku, gdy do końca kadencji członka rady oddziału wojewódzkiego Funduszu pozostało mniej niż 3 miesiące, licząc od dnia jego odwołania albo śmierci.
 
-18. Cz∏onkom rady oddzia∏u wojewódzkiego Funduszu nie przys∏uguje wynagrodzenie.
+18. Członkom rady oddziału wojewódzkiego Funduszu nie przysługuje wynagrodzenie.
 
-19. Cz∏onkom rady oddzia∏u przys∏uguje zwrot kosztów podró˝y, zakwaterowania i diety na zasadach okreÊlonych w przepisach w sprawie wysokoÊci oraz warunków ustalania nale˝noÊci przys∏ugujàcych pracownikowi zatrudnionemu w paƒstwowej lub samorzàdowej jednostce sfery bud˝etowej ztytu∏u podró˝y s∏u˝bowej na obszarze kraju.
+19. Członkom rady oddziału przysługuje zwrot kosztów podróży, zakwaterowania i diety na zasadach określonych w przepisach w sprawie wysokości oraz warunków ustalania należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej ztytułu podróży służbowej na obszarze kraju.
 
 **Art. 107.**
 
-1. Dyrektor oddzia∏u wojewódzkiego Funduszu kieruje oddzia∏em wojewódzkim Funduszu.
+1. Dyrektor oddziału wojewódzkiego Funduszu kieruje oddziałem wojewódzkim Funduszu.
 
-2. Dyrektora oddzia∏u wojewódzkiego Funduszu powo∏uje iodwo∏uje Prezes Funduszu, po zasi´gni´ciu opinii rady oddzia∏u wojewódzkiego Funduszu. Niewydanie opinii przez rad´ oddzia∏u wojewódzkiego Funduszu w terminie 14 dni jest równoznaczne z akma prawa wydawania dyrektorowi oddzia∏u wojeceptacjà kandydata na dyrektora oddzia∏u wojewódzkiego albo zgodà na jego odwo∏anie.
+2. Dyrektora oddziału wojewódzkiego Funduszu powołuje iodwołuje Prezes Funduszu, po zasięgnięciu opinii rady oddziału wojewódzkiego Funduszu. Niewydanie opinii przez radę oddziału wojewódzkiego Funduszu w terminie 14 dni jest równoznaczne z akma prawa wydawania dyrektorowi oddziału wojeceptacją kandydata na dyrektora oddziału wojewódzkiego albo zgodą na jego odwołanie.
 
-3. Dyrektorem oddzia∏u wojewódzkiego Funduszu mo˝e zostaç osoba, która:
+3. Dyrektorem oddziału wojewódzkiego Funduszu może zostać osoba, która:
 
-- **1)** posiada wykszta∏cenie wy˝sze;
-- **2)** posiada wiedz´ i doÊwiadczenie dajàce r´kojmi´ prawid∏owego wykonywania obowiàzków dyrektora;
-- **3)** nie by∏a prawomocnie skazana za przest´pstwo pope∏nione umyÊlnie.
+- **1)** posiada wykształcenie wyższe;
+- **2)** posiada wiedzę i doświadczenie dające rękojmię prawidłowego wykonywania obowiązków dyrektora;
+- **3)** nie była prawomocnie skazana za przestępstwo popełnione umyślnie.
 
-4. Rada oddzia∏u wojewódzkiego Funduszu mo˝e wystàpiç zwnioskiem do Prezesa Funduszu oodwo∏anie dyrektora oddzia∏u wojewódzkiego Funduszu, w przypadku gdy dyrektor oddzia∏u wojewódzkiego:
+4. Rada oddziału wojewódzkiego Funduszu może wystąpić zwnioskiem do Prezesa Funduszu oodwołanie dyrektora oddziału wojewódzkiego Funduszu, w przypadku gdy dyrektor oddziału wojewódzkiego:
 
-- **1)** nie przedstawi radzie oddzia∏u wojewódzkiego Funduszu:
-    - **a)** projektu planu finansowego oddzia∏u wojewódzkiego Funduszu,
-    - **b)** projektu planu pracy oddzia∏u wojewódzkiego Funduszu,
-    - **c)** sprawozdania z wykonania planu finansowego oddzia∏u wojewódzkiego Funduszu za dany rok,
-    - **d)** corocznej prognozy wp∏ywów i wydatków oddzia∏u wojewódzkiego Funduszu;
+- **1)** nie przedstawi radzie oddziału wojewódzkiego Funduszu:
+    - **a)** projektu planu finansowego oddziału wojewódzkiego Funduszu,
+    - **b)** projektu planu pracy oddziału wojewódzkiego Funduszu,
+    - **c)** sprawozdania z wykonania planu finansowego oddziału wojewódzkiego Funduszu za dany rok,
+    - **d)** corocznej prognozy wpływów i wydatków oddziału wojewódzkiego Funduszu;
 
-- **2)** nie udzieli, w terminie wyznaczonym przez rad´ oddzia∏u wojewódzkiego Funduszu, informacji o bie˝àcej dzia∏alnoÊci oddzia∏u wojewódzkiego Funduszu;
-- **3)** ra˝àco narusza obowiàzki ustawowe.
+- **2)** nie udzieli, w terminie wyznaczonym przez radę oddziału wojewódzkiego Funduszu, informacji o bieżącej działalności oddziału wojewódzkiego Funduszu;
+- **3)** rażąco narusza obowiązki ustawowe.
 
-5. Do zadaƒ dyrektora oddzia∏u wojewódzkiego Funduszu nale˝y:
+5. Do zadań dyrektora oddziału wojewódzkiego Funduszu należy:
 
-- **1)** efektywne ibezpieczne gospodarowanie Êrodkami finansowymi oddzia∏u wojewódzkiego Funduszu;
-- **2)** przygotowanie i przedstawianie radzie oddzia∏u wojewódzkiego Funduszu corocznych prognoz wp∏ywów i wydatków;
-- **3)** przygotowywanie projektu planu finansowego oddzia∏u wojewódzkiego Funduszu;
-- **4)** sporzàdzanie projektu planu pracy oddzia∏u wojewódzkiego Funduszu;
-- **5)** realizacja planu finansowego oddzia∏u wojewódzkiego Funduszu i planu pracy oddzia∏u wojewódzkiego Funduszu;
-- **6)** sporzàdzanie sprawozdania z wykonania planu finansowego oddzia∏u wojewódzkiego Funduszu za dany rok;
-- **7)** sporzàdzanie okresowych i rocznych sprawozdaƒ z dzia∏alnoÊci oddzia∏u wojewódzkiego Funduszu;
-- **8)** przeprowadzanie post´powaƒ o zawarcie umów o udzielanie Êwiadczeƒ opieki zdrowotnej, w tym
+- **1)** efektywne ibezpieczne gospodarowanie środkami finansowymi oddziału wojewódzkiego Funduszu;
+- **2)** przygotowanie i przedstawianie radzie oddziału wojewódzkiego Funduszu corocznych prognoz wpływów i wydatków;
+- **3)** przygotowywanie projektu planu finansowego oddziału wojewódzkiego Funduszu;
+- **4)** sporządzanie projektu planu pracy oddziału wojewódzkiego Funduszu;
+- **5)** realizacja planu finansowego oddziału wojewódzkiego Funduszu i planu pracy oddziału wojewódzkiego Funduszu;
+- **6)** sporządzanie sprawozdania z wykonania planu finansowego oddziału wojewódzkiego Funduszu za dany rok;
+- **7)** sporządzanie okresowych i rocznych sprawozdań z działalności oddziału wojewódzkiego Funduszu;
+- **8)** przeprowadzanie postępowań o zawarcie umów o udzielanie świadczeń opieki zdrowotnej, w tym
 - **9)** dokonywanie wyboru realizatorów programów zdrowotnych, w tym w imieniu danego ministra;
-- **10)** zawieranie i rozliczanie umów o udzielanie Êwiadczeƒ opieki zdrowotnej, wtym Êwiadczeƒ wysokospecjalistycznych, oraz zawieranie i rozliczanie umów o realizacj´ programów zdrowotnych;
+- **10)** zawieranie i rozliczanie umów o udzielanie świadczeń opieki zdrowotnej, wtym świadczeń wysokospecjalistycznych, oraz zawieranie i rozliczanie umów o realizację programów zdrowotnych;
 - **11)** realizacja zadania, o którym mowa w art. 108;
 - **12)** kontrola i monitorowanie:
     - **a)** ordynacji lekarskich,
-    - **b)** realizacji umów o udzielanie Êwiadczeƒ opieki zdrowotnej;
+    - **b)** realizacji umów o udzielanie świadczeń opieki zdrowotnej;
 
-- **13)** przeprowadzanie kontroli Êwiadczeniodawców i aptek;
-- **14)** monitorowanie celowoÊci, udzielanych w ramach umów, Êwiadczeƒ opieki zdrowotnej;
-- **15)** pe∏nienie funkcji pracodawcy w rozumieniu przepisów Kodeksu pracy w stosunku do osób zatrudÊwiadczeƒ wysokospecjalistycznych; nionych w oddziale wojewódzkim Funduszu;
+- **13)** przeprowadzanie kontroli świadczeniodawców i aptek;
+- **14)** monitorowanie celowości, udzielanych w ramach umów, świadczeń opieki zdrowotnej;
+- **15)** pełnienie funkcji pracodawcy w rozumieniu przepisów Kodeksu pracy w stosunku do osób zatrudświadczeń wysokospecjalistycznych; nionych w oddziale wojewódzkim Funduszu;
 - **16)** wydawanie indywidualnych decyzji w sprawach ubezpieczenia zdrowotnego;
-- **17)** udzielanie, na ˝àdanie Prezesa Funduszu lub rady oddzia∏u wojewódzkiego Funduszu, informacji o bie˝àcej dzia∏alnoÊci oddzia∏u wojewódzkiego;
-- **18)** wykonywanie innych zadaƒ okreÊlonych w ustawie.
+- **17)** udzielanie, na żądanie Prezesa Funduszu lub rady oddziału wojewódzkiego Funduszu, informacji o bieżącej działalności oddziału wojewódzkiego;
+- **18)** wykonywanie innych zadań określonych w ustawie.
 
-6. Dyrektor oddzia∏u wojewódzkiego Funduszu nie mo˝e byç jednoczeÊnie:
+6. Dyrektor oddziału wojewódzkiego Funduszu nie może być jednocześnie:
 
-- **1)** Prezesem Funduszu albo jego zast´pcà;
-- **2)** g∏ównym ksi´gowym Funduszu;
-- **3)** cz∏onkiem Rady Funduszu;
-- **4)** cz∏onkiem rady oddzia∏u wojewódzkiego Funduszu;
+- **1)** Prezesem Funduszu albo jego zastępcą;
+- **2)** głównym księgowym Funduszu;
+- **3)** członkiem Rady Funduszu;
+- **4)** członkiem rady oddziału wojewódzkiego Funduszu;
 - **5)** pracownikiem centrali Funduszu;
-- **6)** Êwiadczeniodawcà;
-- **7)** w∏aÊcicielem zak∏adów opieki zdrowotnej b´dàcych Êwiadczeniodawcà, o którym mowa w art. 5 pkt 41 lit. a, ich pracownikiem lub osobà wspó∏pracujàcà ze Êwiadczeniodawcami;
-- **8)** w∏aÊcicielem lub pracownikiem apteki, hurtowni farmaceutycznej lub podmiotu wytwarzajàcego produkty lecznicze i wyroby medyczne;
-- **9)** cz∏onkiem organów lub pracownikiem podmiotów, które utworzy∏y zak∏ady opieki zdrowotnej;
-- **10)** cz∏onkiem organów lub pracownikiem jednostek samorzàdu terytorialnego;
-- **11)** cz∏onkiem organów zak∏adu ubezpieczeƒ prowadzàcego dzia∏alnoÊç ubezpieczeniowà na podstawie ustawy z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej;
-- **12)** w∏aÊcicielem akcji lub udzia∏ów w spó∏kach handlowych prowadzàcych podmioty, o których mowa w pkt 7 i 8;
-- **13)** w∏aÊcicielem w spó∏kach handlowych wi´cej ni˝ 10 % akcji lub udzia∏ów przedstawiajàcych wi´cej ni˝ 10 % kapita∏u zak∏adowego w ka˝dej z tych spó∏ek, w przypadku spó∏ek innych ni˝ okreÊlone w pkt 12.
+- **6)** świadczeniodawcą;
+- **7)** właścicielem zakładów opieki zdrowotnej będących świadczeniodawcą, o którym mowa w art. 5 pkt 41 lit. a, ich pracownikiem lub osobą współpracującą ze świadczeniodawcami;
+- **8)** właścicielem lub pracownikiem apteki, hurtowni farmaceutycznej lub podmiotu wytwarzającego produkty lecznicze i wyroby medyczne;
+- **9)** członkiem organów lub pracownikiem podmiotów, które utworzyły zakłady opieki zdrowotnej;
+- **10)** członkiem organów lub pracownikiem jednostek samorządu terytorialnego;
+- **11)** członkiem organów zakładu ubezpieczeń prowadzącego działalność ubezpieczeniową na podstawie ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej;
+- **12)** właścicielem akcji lub udziałów w spółkach handlowych prowadzących podmioty, o których mowa w pkt 7 i 8;
+- **13)** właścicielem w spółkach handlowych więcej niż 10 % akcji lub udziałów przedstawiających więcej niż 10 % kapitału zakładowego w każdej z tych spółek, w przypadku spółek innych niż określone w pkt 12.
 
-7. Dyrektor oddzia∏u wojewódzkiego Funduszu nie mo˝e wykonywaç dzia∏alnoÊci gospodarczej.
+7. Dyrektor oddziału wojewódzkiego Funduszu nie może wykonywać działalności gospodarczej.
 
-8. Dyrektor oddzia∏u wojewódzkiego, wykonujàc zadania, o których mowa w ust. 5, wspó∏pracuje z organami jednostek samorzàdu terytorialnego, organizacjami Êwiadczeniodawców i ubezpieczonych dzia∏ajàcymi w danym województwie, w celu sta∏ego monitorowania i zabezpieczenia potrzeb zdrowotnych Êwiadczeniobiorców na terenie danego województwa oraz prawid∏owej realizacji zadaƒ Funduszu.
+8. Dyrektor oddziału wojewódzkiego, wykonując zadania, o których mowa w ust. 5, współpracuje z organami jednostek samorządu terytorialnego, organizacjami świadczeniodawców i ubezpieczonych działającymi w danym województwie, w celu stałego monitorowania i zabezpieczenia potrzeb zdrowotnych świadczeniobiorców na terenie danego województwa oraz prawidłowej realizacji zadań Funduszu.
 
 **Art. 108.**
 
-1. Oddzia∏ wojewódzki Funduszu finansuje:
+1. Oddział wojewódzki Funduszu finansuje:
 
-- **1)** Êwiadczeniodawcy, majàcemu siedzib´ na terenie województwa, zktórym zawarto umow´ oudzielanie Êwiadczeƒ opieki zdrowotnej, koszty Êwiadczeƒ opieki zdrowotnej udzielonych na terenie danego województwa Êwiadczeniobiorcy innemu ni˝ ubezpieczony, spe∏niajàcemu kryterium dochodowe, októrym mowa wart. 8 ustawy zdnia 12 marca 2004 r. opomocy spo∏ecznej, co do którego nie stwierdzono istnienia okolicznoÊci, o której mowa w art. 12 tej ustawy, z zastrze˝eniem ust. 2,
-- **2)** aptece majàcej siedzib´ na terenie województwa, koszty leków, wyrobów medycznych iÊrodków pomocniczych wydawanych osobie okreÊlonej w pkt 1 oile finansowanie tych kosztów nie wynika zprzepisów okreÊlonych w art. 12 i 13 lub umów mi´dzynarodowych.
+- **1)** świadczeniodawcy, mającemu siedzibę na terenie województwa, zktórym zawarto umowę oudzielanie świadczeń opieki zdrowotnej, koszty świadczeń opieki zdrowotnej udzielonych na terenie danego województwa świadczeniobiorcy innemu niż ubezpieczony, spełniającemu kryterium dochodowe, októrym mowa wart. 8 ustawy zdnia 12 marca 2004 r. opomocy społecznej, co do którego nie stwierdzono istnienia okoliczności, o której mowa w art. 12 tej ustawy, z zastrzeżeniem ust. 2,
+- **2)** aptece mającej siedzibę na terenie województwa, koszty leków, wyrobów medycznych iśrodków pomocniczych wydawanych osobie określonej w pkt 1 oile finansowanie tych kosztów nie wynika zprzepisów określonych w art. 12 i 13 lub umów międzynarodowych.
 
-2. Koszty leczenia uzdrowiskowego Êwiadczeniobiorcy, o którym mowa w ust. 1 pkt 1, ponosi oddzia∏ wojewódzki Funduszu w∏aÊciwy ze wzgl´du na miejsce jego zamieszkania, aje˝eli nie mo˝na ustaliç miejsca zamieszkania oddzia∏ wojewódzki Funduszu w∏aÊciwy ze wzgl´du na miejsce wystawienia skierowania, o którym mowa w art. 33 ust. 1.
+2. Koszty leczenia uzdrowiskowego świadczeniobiorcy, o którym mowa w ust. 1 pkt 1, ponosi oddział wojewódzki Funduszu właściwy ze względu na miejsce jego zamieszkania, ajeżeli nie można ustalić miejsca zamieszkania oddział wojewódzki Funduszu właściwy ze względu na miejsce wystawienia skierowania, o którym mowa w art. 33 ust. 1.
 
 **Art. 109.**
 
-1. Dyrektor oddzia∏u wojewódzkiego Funduszu rozpatruje indywidualne sprawy zzakresu ubezpieczenia zdrowotnego. Do indywidualnych spraw z zakresu ubezpieczenia zdrowotnego zalicza si´ sprawy dotyczàce obj´cia ubezpieczeniem zdrowotnym i ustalenia prawa do Êwiadczeƒ.
+1. Dyrektor oddziału wojewódzkiego Funduszu rozpatruje indywidualne sprawy zzakresu ubezpieczenia zdrowotnego. Do indywidualnych spraw z zakresu ubezpieczenia zdrowotnego zalicza się sprawy dotyczące objęcia ubezpieczeniem zdrowotnym i ustalenia prawa do świadczeń.
 
-2. Do spraw, o których mowa w ust. 1, nie nale˝à sprawy zzakresu wymierzania ipobierania sk∏adek na ubezpieczenie zdrowotne nale˝àce do w∏aÊciwoÊci or3. Wniosek o rozpatrzenie sprawy, o której mowa w ust. 1, zg∏asza ubezpieczony.
+2. Do spraw, o których mowa w ust. 1, nie należą sprawy zzakresu wymierzania ipobierania składek na ubezpieczenie zdrowotne należące do właściwości or3. Wniosek o rozpatrzenie sprawy, o której mowa w ust. 1, zgłasza ubezpieczony.
 
-4. Dyrektor oddzia∏u wojewódzkiego Funduszu rozpatruje sprawy, o których mowa w ust. 1, w terminie nie d∏u˝szym ni˝ 30 dni od dnia ich wniesienia, wydajàc decyzj´. Uzasadnienie decyzji sporzàdza si´ z urz´du.
+4. Dyrektor oddziału wojewódzkiego Funduszu rozpatruje sprawy, o których mowa w ust. 1, w terminie nie dłuższym niż 30 dni od dnia ich wniesienia, wydając decyzję. Uzasadnienie decyzji sporządza się z urzędu.
 
-5. Odwo∏anie od decyzji wydanej w sprawach, októrych mowa wust. 1, wnosi si´ do Prezesa Funduszu w terminie 7 dni od dnia jej otrzymania.
+5. Odwołanie od decyzji wydanej w sprawach, októrych mowa wust. 1, wnosi się do Prezesa Funduszu w terminie 7 dni od dnia jej otrzymania.
 
-**Art. 110.** Od decyzji Prezesa Funduszu windywidualnych sprawach z zakresu ubezpieczenia zdrowotnego przys∏uguje skarga do sàdu administracyjnego.
+**Art. 110.** Od decyzji Prezesa Funduszu windywidualnych sprawach z zakresu ubezpieczenia zdrowotnego przysługuje skarga do sądu administracyjnego.
 
-**Art. 111.** Do post´powania w sprawach z zakresu ubezpieczenia zdrowotnego rolników i osób podlegajàcych ubezpieczeniu spo∏ecznemu rolników i pobierajàcych emerytury lub renty rolnicze stosuje si´ przepisy o ubezpieczeniu spo∏ecznym rolników, z wyjàtkiem osób podlegajàcych ubezpieczeniu spo∏ecznemu rolników ipobierajàcych renty strukturalne wyp∏acane przez innà instytucj´ ni˝ Kasa Rolniczego Ubezpieczenia Spo∏ecznego.
+**Art. 111.** Do postępowania w sprawach z zakresu ubezpieczenia zdrowotnego rolników i osób podlegających ubezpieczeniu społecznemu rolników i pobierających emerytury lub renty rolnicze stosuje się przepisy o ubezpieczeniu społecznym rolników, z wyjątkiem osób podlegających ubezpieczeniu społecznemu rolników ipobierających renty strukturalne wypłacane przez inną instytucję niż Kasa Rolniczego Ubezpieczenia Społecznego.
 
 **Art. 112.**
 
-1. Pracownicy Funduszu nie mogà byç jednoczeÊnie:
+1. Pracownicy Funduszu nie mogą być jednocześnie:
 
-- **1)** Êwiadczeniodawcami;
-- **2)** w∏aÊcicielami zak∏adów opieki zdrowotnej b´dàcych Êwiadczeniodawcami, o których mowa w art. 5 pkt 41 lit. a, ich pracownikami, pracownikami podmiotów wspó∏pracujàcych ze Êwiadczeniodawcami lub osobami wspó∏pracujàcymi ze Êwiadczeniodawcami;
-- **3)** cz∏onkami organów lub pracownikami podmiotów, które utworzy∏y zak∏ady opieki zdrowotnej;
-- **4)** cz∏onkami organów lub pracownikami jednostek samorzàdu terytorialnego;
-- **5)** cz∏onkami organów zak∏adu ubezpieczeƒ prowadzàcego dzia∏alnoÊç ubezpieczeniowà na podstawie ustawy z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej;
-- **6)** w∏aÊcicielami akcji lub udzia∏ów w spó∏kach handlowych prowadzàcych podmioty, o których mowa w pkt 2;
-- **7)** w∏aÊcicielami w spó∏kach handlowych wi´cej ni˝ 10 % akcji lub udzia∏ów przedstawiajàcych wi´cej ni˝ 10 % kapita∏u zak∏adowego w ka˝dej z tych spó∏ek, w przypadku spó∏ek innych ni˝ okreÊlone w pkt 6.
+- **1)** świadczeniodawcami;
+- **2)** właścicielami zakładów opieki zdrowotnej będących świadczeniodawcami, o których mowa w art. 5 pkt 41 lit. a, ich pracownikami, pracownikami podmiotów współpracujących ze świadczeniodawcami lub osobami współpracującymi ze świadczeniodawcami;
+- **3)** członkami organów lub pracownikami podmiotów, które utworzyły zakłady opieki zdrowotnej;
+- **4)** członkami organów lub pracownikami jednostek samorządu terytorialnego;
+- **5)** członkami organów zakładu ubezpieczeń prowadzącego działalność ubezpieczeniową na podstawie ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej;
+- **6)** właścicielami akcji lub udziałów w spółkach handlowych prowadzących podmioty, o których mowa w pkt 2;
+- **7)** właścicielami w spółkach handlowych więcej niż 10 % akcji lub udziałów przedstawiających więcej niż 10 % kapitału zakładowego w każdej z tych spółek, w przypadku spółek innych niż określone w pkt 6.
 
-2. Pracownicy Funduszu nie mogà:
+2. Pracownicy Funduszu nie mogą:
 
-- **1)** podejmowaç zatrudnienia u innego pracodawcy, bez zgody Prezesa Funduszu; ganów ubezpieczeƒ spo∏ecznych. 2) wykonywaç dzia∏alnoÊci gospodarczej. Rozdzia∏ 2 Gospodarka finansowa Funduszu
+- **1)** podejmować zatrudnienia u innego pracodawcy, bez zgody Prezesa Funduszu; ganów ubezpieczeń społecznych. 2) wykonywać działalności gospodarczej.
 
-**Art. 113.** Fundusz prowadzi gospodark´ finansowà na zasadach okreÊlonych w ustawie.
+#### Rozdział 2 Gospodarka finansowa Funduszu
+
+**Art. 113.** Fundusz prowadzi gospodarkę finansową na zasadach określonych w ustawie.
 
 **Art. 114.**
 
-1. Ârodki finansowe Funduszu sà Êrodkami publicznymi.
+1. Ârodki finansowe Funduszu są środkami publicznymi.
 
-2. Obs∏ug´ bankowà Funduszu prowadzi Bank Gospodarstwa Krajowego.
+2. Obsługę bankową Funduszu prowadzi Bank Gospodarstwa Krajowego.
 
 **Art. 115.**
 
-1. Tworzy si´ fundusz podstawowy i fundusz zapasowy Funduszu.
+1. Tworzy się fundusz podstawowy i fundusz zapasowy Funduszu.
 
-2. Fundusz zapasowy zwi´ksza si´ o zatwierdzony zysk netto za rok obrotowy.
+2. Fundusz zapasowy zwiększa się o zatwierdzony zysk netto za rok obrotowy.
 
-3. Fundusz zapasowy zmniejsza si´ ozatwierdzonà strat´ netto za rok obrotowy.
+3. Fundusz zapasowy zmniejsza się ozatwierdzoną stratę netto za rok obrotowy.
 
-**Art. 116.** Ârodki finansowe Funduszu pochodzà z nast´pujàcych êróde∏:
+**Art. 116.** Ârodki finansowe Funduszu pochodzą z następujących êródeł:
 
 **Art. 117.** Ârodki finansowe, o których mowa w art. 116, Prezes Funduszu przeznacza na:
 
 **Art. 118.**
 
-1. Prezes Funduszu sporzàdza corocznie plan finansowy Funduszu zrównowa˝ony w zakresie wp∏ywów iwydatków na podstawie projektów planów finansowych oddzia∏ów wojewódzkich Funduszu.
+1. Prezes Funduszu sporządza corocznie plan finansowy Funduszu zrównoważony w zakresie wpływów iwydatków na podstawie projektów planów finansowych oddziałów wojewódzkich Funduszu.
 
-2. W planie finansowym Funduszu Prezes Funduszu okreÊla:
+2. W planie finansowym Funduszu Prezes Funduszu określa:
 
-- **1)** wysokoÊç planowanych wydatków:
-    - **a)** dla centrali, w tym wydatków na realizacj´ zanoÊci finansowanie wydatków inwestycyjnych, daƒ wynikajàcych z przepisów o koordynacji oraz na finansowanie dzia∏alnoÊci centrali,
-    - **b)** dla poszczególnych oddzia∏ów wojewódzkich Funduszu, w tym na finansowanie dzia∏alnoÊci poszczególnych oddzia∏ów;
+- **1)** wysokość planowanych wydatków:
+    - **a)** dla centrali, w tym wydatków na realizację zaności finansowanie wydatków inwestycyjnych, dań wynikających z przepisów o koordynacji oraz na finansowanie działalności centrali,
+    - **b)** dla poszczególnych oddziałów wojewódzkich Funduszu, w tym na finansowanie działalności poszczególnych oddziałów;
 
-- **2)** wysokoÊç ∏àcznych wp∏ywów i wydatków Funduszu.
+- **2)** wysokość łącznych wpływów i wydatków Funduszu.
 
-3. Planowane wydatki Funduszu przeznaczone na finansowanie Êwiadczeƒ opieki zdrowotnej dla ubezpieczonych sà dzielone pomi´dzy oddzia∏y wojewódzkie Funduszu, przy czym:
+3. Planowane wydatki Funduszu przeznaczone na finansowanie świadczeń opieki zdrowotnej dla ubezpieczonych są dzielone pomiędzy oddziały wojewódzkie Funduszu, przy czym:
 
-- **1)** podstawà podzia∏u Êrodków jest liczba ubezpieczonych zarejestrowanych w oddziale wojewódzkim Funduszu z uwzgl´dnieniem ryzyka zdrowotnego przypisanego ubezpieczonym nale˝àcym do danej grupy wydzielonej wed∏ug struktury wieku i p∏ci w porównaniu z grupà odniesienia,
-- **2)** wysokoÊç Êrodków okreÊlonych w pkt 1 koryguje si´ przez uwzgl´dnienie migracji ubezpieczonych zarejestrowanych w oddziale wojewódzkim Funduszu do Êwiadczeniodawców z innego oddzia∏u Funduszu oraz wskaênika wynikajàcego z liczby i rodzaju wykonanych Êwiadczeƒ wysokospecjalistycznych wlatach poprzedzajàcych rok, wktórym ten plan jest tworzony, w podziale na województwa, w relacji do liczby tych Êwiadczeƒ ogó∏em.
+- **1)** podstawą podziału środków jest liczba ubezpieczonych zarejestrowanych w oddziale wojewódzkim Funduszu z uwzględnieniem ryzyka zdrowotnego przypisanego ubezpieczonym należącym do danej grupy wydzielonej według struktury wieku i płci w porównaniu z grupą odniesienia,
+- **2)** wysokość środków określonych w pkt 1 koryguje się przez uwzględnienie migracji ubezpieczonych zarejestrowanych w oddziale wojewódzkim Funduszu do świadczeniodawców z innego oddziału Funduszu oraz wskaênika wynikającego z liczby i rodzaju wykonanych świadczeń wysokospecjalistycznych wlatach poprzedzających rok, wktórym ten plan jest tworzony, w podziale na województwa, w relacji do liczby tych świadczeń ogółem.
 
-4. Planowane wydatki na finansowanie Êwiadczeƒ opieki zdrowotnej danego oddzia∏u wojewódzkiego Funduszu nie mogà byç ni˝sze ni˝ wysokoÊç wydatków zaplanowanych wplanie finansowym dla danego oddzia∏u na finansowanie Êwiadczeƒ opieki zdrowotnej dla ubezpieczonych w roku poprzednim.
+4. Planowane wydatki na finansowanie świadczeń opieki zdrowotnej danego oddziału wojewódzkiego Funduszu nie mogą być niższe niż wysokość wydatków zaplanowanych wplanie finansowym dla danego oddziału na finansowanie świadczeń opieki zdrowotnej dla ubezpieczonych w roku poprzednim.
 
-5. Na rezerw´ ogólnà przeznacza si´ 1 % planowanych wydatków Funduszu.
+5. Na rezerwę ogólną przeznacza się 1 % planowanych wydatków Funduszu.
 
-**Art. 119.** Minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych, po zasi´gni´ciu opinii Prezesa Funduszu, okreÊli, w drodze rozporzàdzenia, szczegó∏owy tryb i kryteria podzia∏u Êrodków pomi´dzy central´ i oddzia∏y wojewódzkie Funduszu z przeznaczeniem na finansowanie Êwiadczeƒ opieki zdrowotnej dla ubezpieczonych, uwzgl´dniajàc przepisy art. 118.
+**Art. 119.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, szczegółowy tryb i kryteria podziału środków pomiędzy centralę i oddziały wojewódzkie Funduszu z przeznaczeniem na finansowanie świadczeń opieki zdrowotnej dla ubezpieczonych, uwzględniając przepisy art. 118.
 
 **Art. 120.**
 
-1. Prezes Funduszu, w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych, w terminie do dnia 30 czerwca sporzàdza corocznà prognoz´ wp∏ywów na kolejne 3 lata.
+1. Prezes Funduszu, w porozumieniu z ministrem właściwym do spraw finansów publicznych, w terminie do dnia 30 czerwca sporządza coroczną prognozę wpływów na kolejne 3 lata.
 
-2. Prezes Funduszu, w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych oraz ministrem w∏aÊciwym do spraw zdrowia, w terminie do dnia 30 czerwca sporzàdza corocznà prognoz´ wydatków na kolejne 3 lata na podstawie informacji przekazanych przez dyrektorów oddzia∏ów wojewódzkich Funduszu.
+2. Prezes Funduszu, w porozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw zdrowia, w terminie do dnia 30 czerwca sporządza coroczną prognozę wydatków na kolejne 3 lata na podstawie informacji przekazanych przez dyrektorów oddziałów wojewódzkich Funduszu.
 
-3. Dyrektorzy oddzia∏ów wojewódzkich Funduszu przekazujà informacje, októrych mowa wust. 2, wterminie do dnia 15 maja.
+3. Dyrektorzy oddziałów wojewódzkich Funduszu przekazują informacje, októrych mowa wust. 2, wterminie do dnia 15 maja.
 
-4. Prezes Funduszu wterminie do dnia 15 lipca informuje dyrektorów oddzia∏ów wojewódzkich Funduszu o przewidywanych wp∏ywach Funduszu.
+4. Prezes Funduszu wterminie do dnia 15 lipca informuje dyrektorów oddziałów wojewódzkich Funduszu o przewidywanych wpływach Funduszu.
 
-5. Dyrektorzy oddzia∏ów wojewódzkich przekazujà Prezesowi Funduszu w terminie do dnia 31 lipca projekty planów finansowych oddzia∏ów wojewódzkich Funduszu.
+5. Dyrektorzy oddziałów wojewódzkich przekazują Prezesowi Funduszu w terminie do dnia 31 lipca projekty planów finansowych oddziałów wojewódzkich Funduszu.
 
-6. Prognozy, októrych mowa wust. 1 i2, oraz projekty planów, o których mowa w ust. 5, sà podstawà do sporzàdzenia projektu planu finansowego na rok nast´pny.
+6. Prognozy, októrych mowa wust. 1 i2, oraz projekty planów, o których mowa w ust. 5, są podstawą do sporządzenia projektu planu finansowego na rok następny.
 
-7. Zak∏ad Ubezpieczeƒ Spo∏ecznych, Kasa Rolniczego Ubezpieczenia Spo∏ecznego, organy administracji rzàdowej, jednostki samorzàdu terytorialnego, Êwiadczeniodawcy oraz inne instytucje udzielajà nieodp∏atnie Funduszowi informacji koniecznych do sporzàdzenia prognoz, o których mowa w ust. 1 i 2.
+7. Zakład Ubezpieczeń Społecznych, Kasa Rolniczego Ubezpieczenia Społecznego, organy administracji rządowej, jednostki samorządu terytorialnego, świadczeniodawcy oraz inne instytucje udzielają nieodpłatnie Funduszowi informacji koniecznych do sporządzenia prognoz, o których mowa w ust. 1 i 2.
 
 **Art. 121.**
 
-1. Prezes Funduszu opracowuje projekt planu finansowego Funduszu i przedstawia go w terminie do dnia 10 sierpnia roku poprzedzajàcego rok, którego dotyczy ten plan:
+1. Prezes Funduszu opracowuje projekt planu finansowego Funduszu i przedstawia go w terminie do dnia 10 sierpnia roku poprzedzającego rok, którego dotyczy ten plan:
 
 - **1)** Radzie Funduszu,
-- **2)** komisji w∏aÊciwej do spraw finansów publicznych oraz komisji w∏aÊciwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej w celu zaopiniowania.
+- **2)** komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej w celu zaopiniowania.
 
 2. Niewydanie opinii, o których mowa w ust. 1, w terminie 21 dni od dnia otrzymania projektu planu finansowego jest równoznaczne zwydaniem pozytywnej opinii.
 
-3. Prezes Funduszu po rozpatrzeniu opinii, o któplan finansowy Funduszu i przekazuje go wraz z tymi opiniami, w terminie do dnia 5 wrzeÊnia roku poprzedzajàcego rok, którego dotyczy ten plan, ministrowi w∏aÊciwemu do spraw zdrowia.
+3. Prezes Funduszu po rozpatrzeniu opinii, o któplan finansowy Funduszu i przekazuje go wraz z tymi opiniami, w terminie do dnia 5 września roku poprzedzającego rok, którego dotyczy ten plan, ministrowi właściwemu do spraw zdrowia.
 
-4. Minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych zatwierdza plan finansowy Funduszu, wterminie do dnia 20 wrzeÊnia roku poprzedzajàcego rok, którego dotyczy ten plan.
+4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych zatwierdza plan finansowy Funduszu, wterminie do dnia 20 września roku poprzedzającego rok, którego dotyczy ten plan.
 
-5. W przypadku gdy Prezes Funduszu nie przeka˝e wterminie, októrym mowa wust. 3, planu finansowego Funduszu, minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych ustala, w drodze zarzàdzenia, plan finansowy Funduszu do dnia 20 wrzeÊnia roku poprzedzajàcego rok, którego dotyczy ten plan. Minister w∏aÊciwy do spraw zdrowia podejmuje dzia∏ania, o których mowa w art. 166 ust. 1 pkt 2.
+5. W przypadku gdy Prezes Funduszu nie przekaże wterminie, októrym mowa wust. 3, planu finansowego Funduszu, minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych ustala, w drodze zarządzenia, plan finansowy Funduszu do dnia 20 września roku poprzedzającego rok, którego dotyczy ten plan. Minister właściwy do spraw zdrowia podejmuje działania, o których mowa w art. 166 ust. 1 pkt 2.
 
 **Art. 122.** W przypadku:
 
 **Art. 123.**
 
-1. W przypadku gdy plan finansowy Funduszu narusza prawo lub prowadzi do niezrównowa˝enia wp∏ywów i wydatków Funduszu, minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych odmawia zatwierdzenia planu finansowego Funduszu i zaleca Prezesowi Funduszu usuni´cie nieprawid∏owoÊci, okreÊlajàc termin wprowadzenia zmian nie d∏u˝szy ni˝ 7 dni.
+1. W przypadku gdy plan finansowy Funduszu narusza prawo lub prowadzi do niezrównoważenia wpływów i wydatków Funduszu, minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych odmawia zatwierdzenia planu finansowego Funduszu i zaleca Prezesowi Funduszu usunięcie nieprawidłowości, określając termin wprowadzenia zmian nie dłuższy niż 7 dni.
 
-2. Prezes Funduszu zmienia plan finansowy Funduszu z uwzgl´dnieniem zaleceƒ, o których mowa w ust. 1, i niezw∏ocznie przedstawia go ministrowi w∏aÊciwemu do spraw zdrowia w celu zatwierdzenia w trybie, o którym mowa w art. 121 ust. 4.
+2. Prezes Funduszu zmienia plan finansowy Funduszu z uwzględnieniem zaleceń, o których mowa w ust. 1, i niezwłocznie przedstawia go ministrowi właściwemu do spraw zdrowia w celu zatwierdzenia w trybie, o którym mowa w art. 121 ust. 4.
 
-3. Wprzypadku nieusuni´cia przez Prezesa Funduszu nieprawid∏owoÊci, o których mowa w ust. 1:
+3. Wprzypadku nieusunięcia przez Prezesa Funduszu nieprawidłowości, o których mowa w ust. 1:
 
-- **1)** minister w∏aÊciwy do spraw zdrowia wporozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych dokonuje zmian wplanie finansowym Funduszu oraz ustala go w drodze zarzàdzenia oraz
-- **2)** minister w∏aÊciwy do spraw zdrowia podejmuje dzia∏ania, o których mowa w art. 166 ust. 1 pkt 2.
+- **1)** minister właściwy do spraw zdrowia wporozumieniu z ministrem właściwym do spraw finansów publicznych dokonuje zmian wplanie finansowym Funduszu oraz ustala go w drodze zarządzenia oraz
+- **2)** minister właściwy do spraw zdrowia podejmuje działania, o których mowa w art. 166 ust. 1 pkt 2.
 
 **Art. 124.**
 
-1. Prezes Funduszu mo˝e dokonaç zmiany planu finansowego Funduszu w przypadku zaistnienia sytuacji zwiàzanych zwykonaniem planu finanrych mowa w ust. 1, je˝eli zosta∏y wydane, sporzàdza sowego Funduszu, których nie mo˝na by∏o przewidzieç w chwili zatwierdzania planu.
+1. Prezes Funduszu może dokonać zmiany planu finansowego Funduszu w przypadku zaistnienia sytuacji związanych zwykonaniem planu finanrych mowa w ust. 1, jeżeli zostały wydane, sporządza sowego Funduszu, których nie można było przewidzieć w chwili zatwierdzania planu.
 
-2. Ka˝dej zmiany planu finansowego dokonuje si´ zgodnie z zasadami, o których mowa w art. 118.
+2. Każdej zmiany planu finansowego dokonuje się zgodnie z zasadami, o których mowa w art. 118.
 
-3. Zmiana planu finansowego nast´puje w trybie okreÊlonym dla zatwierdzania planu.
+3. Zmiana planu finansowego następuje w trybie określonym dla zatwierdzania planu.
 
-4. Prezes Funduszu, po poinformowaniu ministra w∏aÊciwego do spraw finansów publicznych oraz ministra w∏aÊciwego do spraw zdrowia, mo˝e dokonaç przesuni´cia wydatków pomi´dzy poszczególnymi pozycjami planu finansowego.
+4. Prezes Funduszu, po poinformowaniu ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw zdrowia, może dokonać przesunięcia wydatków pomiędzy poszczególnymi pozycjami planu finansowego.
 
-5. Przesuni´cia wydatków, o których mowa w ust. 4, mo˝na dokonaç w planie finansowym oddzia∏u wojewódzkiego albo centrali Funduszu.
+5. Przesunięcia wydatków, o których mowa w ust. 4, można dokonać w planie finansowym oddziału wojewódzkiego albo centrali Funduszu.
 
-6. Dyrektor oddzia∏u wojewódzkiego Funduszu, po poinformowaniu Prezesa Funduszu, w planie finansowym Funduszu mo˝e przesuwaç wydatki przeznaczone na Êwiadczenia opieki zdrowotnej wplanie finansowym oddzia∏u wojewódzkiego.
+6. Dyrektor oddziału wojewódzkiego Funduszu, po poinformowaniu Prezesa Funduszu, w planie finansowym Funduszu może przesuwać wydatki przeznaczone na świadczenia opieki zdrowotnej wplanie finansowym oddziału wojewódzkiego.
 
-7. Przesuni´cie wydatków, o których mowa w ust. 4 lub 6, nie wymaga zmiany planu finansowego wtrybie okreÊlonym dla zatwierdzania planu finansowego.
+7. Przesunięcie wydatków, o których mowa w ust. 4 lub 6, nie wymaga zmiany planu finansowego wtrybie określonym dla zatwierdzania planu finansowego.
 
-8. Prezes Funduszu mo˝e uruchomiç rezerw´ ogólnà po uzyskaniu pozytywnych opinii ministra w∏aÊciwego do spraw finansów publicznych oraz ministra w∏aÊciwego do spraw zdrowia. Uruchomienie rezerwy ogólnej nie wymaga zmiany planu finansowego wtrybie okreÊlonym dla zatwierdzenia planu finansowego.
+8. Prezes Funduszu może uruchomić rezerwę ogólną po uzyskaniu pozytywnych opinii ministra właściwego do spraw finansów publicznych oraz ministra właściwego do spraw zdrowia. Uruchomienie rezerwy ogólnej nie wymaga zmiany planu finansowego wtrybie określonym dla zatwierdzenia planu finansowego.
 
-9. W przypadkach, o których mowa w art. 121 ust. 5 i art. 123 ust. 3, zmiany planu finansowego dokonuje minister w∏aÊciwy do spraw zdrowia wporozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych. Przepisy ust. 1—6 stosuje si´ odpowiednio.
+9. W przypadkach, o których mowa w art. 121 ust. 5 i art. 123 ust. 3, zmiany planu finansowego dokonuje minister właściwy do spraw zdrowia wporozumieniu z ministrem właściwym do spraw finansów publicznych. Przepisy ust. 1—6 stosuje się odpowiednio.
 
-**Art. 125.** Nadwy˝k´ powsta∏à w wyniku realizacji planu finansowego oddzia∏u wojewódzkiego Funduszu pozostawia si´ do dyspozycji dyrektora oddzia∏u wojewódzkiego Funduszu, z przeznaczeniem na Êwiadczenia zdrowotne.
+**Art. 125.** Nadwyżkę powstałą w wyniku realizacji planu finansowego oddziału wojewódzkiego Funduszu pozostawia się do dyspozycji dyrektora oddziału wojewódzkiego Funduszu, z przeznaczeniem na świadczenia zdrowotne.
 
 **Art. 126.**
 
-1. Dyrektor oddzia∏u wojewódzkiego Funduszu sporzàdza nie póêniej ni˝ wciàgu 2 miesi´cy od zakoƒczeniu roku roczne sprawozdanie z wykonania planu finansowego oddzia∏u wojewódzkiego Funduszu.
+1. Dyrektor oddziału wojewódzkiego Funduszu sporządza nie póêniej niż wciągu 2 miesięcy od zakończeniu roku roczne sprawozdanie z wykonania planu finansowego oddziału wojewódzkiego Funduszu.
 
-2. Sprawozdanie, o którym mowa w ust. 1, podlega zatwierdzeniu przez rad´ oddzia∏u w terminie 15 dni od dnia jego otrzymania.
+2. Sprawozdanie, o którym mowa w ust. 1, podlega zatwierdzeniu przez radę oddziału w terminie 15 dni od dnia jego otrzymania.
 
 **Art. 127.**
 
-1. Prezes Funduszu, w celu zapewnienia p∏ynnoÊci finansowej Funduszu, mo˝e zaciàgaç po˝yczki i kredyty, za zgodà ministra w∏aÊciwego do spraw finansów publicznych iministra w∏aÊciwego do spraw zdrowia. WysokoÊç rat kredytów i po˝yczek przypadajàcych do sp∏aty w danym roku nie mo˝e przekroczyç wysokoÊci rezerwy ogólnej przewidzianej
+1. Prezes Funduszu, w celu zapewnienia płynności finansowej Funduszu, może zaciągać pożyczki i kredyty, za zgodą ministra właściwego do spraw finansów publicznych iministra właściwego do spraw zdrowia. Wysokość rat kredytów i pożyczek przypadających do spłaty w danym roku nie może przekroczyć wysokości rezerwy ogólnej przewidzianej
 
-2. Przepisu ust. 1 zdanie drugie nie stosuje si´ do Êrodków pochodzàcych z bud˝etu paƒstwa.
+2. Przepisu ust. 1 zdanie drugie nie stosuje się do środków pochodzących z budżetu państwa.
 
 **Art. 128.**
 
-1. Fundusz prowadzi rachunkowoÊç na zasadach okreÊlonych w ustawie z dnia 29 wrzeÊnia 1994 r. o rachunkowoÊci (Dz. U. z 2002 r. 76, poz. 694, z póên. zm. w planie finansowym na dany rok. ), z wy∏àczeniem art. 80 ust. 3 tej ustawy.
+1. Fundusz prowadzi rachunkowość na zasadach określonych w ustawie z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. 76, poz. 694, z póên. zm. w planie finansowym na dany rok. ), z wyłączeniem art. 80 ust. 3 tej ustawy.
 
-2. Centrala Funduszu i oddzia∏y wojewódzkie Funduszu sporzàdzajà samodzielnie sprawozdania finansowe.
+2. Centrala Funduszu i oddziały wojewódzkie Funduszu sporządzają samodzielnie sprawozdania finansowe.
 
-3. ¸àczne sprawozdanie finansowe Funduszu, o którym mowa w art. 51 ustawy z dnia 29 wrzeÊnia 1994 r. o rachunkowoÊci, sporzàdza Prezes Funduszu.
+3. Ęączne sprawozdanie finansowe Funduszu, o którym mowa w art. 51 ustawy z dnia 29 września 1994 r. o rachunkowości, sporządza Prezes Funduszu.
 
-4. ¸àczne sprawozdanie finansowe, o którym mowa wust. 3, podlega badaniu przez bieg∏ego rewidenta oraz zatwierdzeniu przez ministra w∏aÊciwego do spraw finansów publicznych po zasi´gni´ciu opinii ministra w∏aÊciwego do spraw zdrowia.
+4. Ęączne sprawozdanie finansowe, o którym mowa wust. 3, podlega badaniu przez biegłego rewidenta oraz zatwierdzeniu przez ministra właściwego do spraw finansów publicznych po zasięgnięciu opinii ministra właściwego do spraw zdrowia.
 
-5. Minister w∏aÊciwy do spraw finansów publicznych lub minister w∏aÊciwy do spraw zdrowia mo˝e ˝àdaç dodatkowych danych dotyczàcych ∏àcznego sprawozdania finansowego Funduszu.
+5. Minister właściwy do spraw finansów publicznych lub minister właściwy do spraw zdrowia może żądać dodatkowych danych dotyczących łącznego sprawozdania finansowego Funduszu.
 
 **Art. 129.**
 
-1. Z zastrze˝eniem art. 125, zatwierdzony zysk netto za dany rok obrotowy przeznacza si´ w szczególnoÊci na:
+1. Z zastrzeżeniem art. 125, zatwierdzony zysk netto za dany rok obrotowy przeznacza się w szczególności na:
 
-- **1)** pokrycie strat z lat ubieg∏ych lub
+- **1)** pokrycie strat z lat ubiegłych lub
 - **2)** fundusz zapasowy Funduszu.
 
-2. O przeznaczeniu zysku decyduje Rada Funduszu, w drodze uchwa∏y, z uwzgl´dnieniem pierwszeƒstwa pokrycia strat zlat ubieg∏ych. Uchwa∏a Rady Funduszu mo˝e byç podj´ta po uzyskaniu pozytywnej opinii ministra w∏aÊciwego do spraw finansów publicznych odnoÊnie sposobu podzia∏u zysku.
+2. O przeznaczeniu zysku decyduje Rada Funduszu, w drodze uchwały, z uwzględnieniem pierwszeństwa pokrycia strat zlat ubiegłych. Uchwała Rady Funduszu może być podjęta po uzyskaniu pozytywnej opinii ministra właściwego do spraw finansów publicznych odnośnie sposobu podziału zysku.
 
 **Art. 130.**
 
-1. Prezes Funduszu, na podstawie sprawozdaƒ, októrych mowa wart. 126, sporzàdza roczne sprawozdanie zwykonania planu finansowego Funduszu, nie póêniej ni˝ wciàgu 3 miesi´cy od zakoƒczenia roku, którego dotyczy sprawozdanie.
+1. Prezes Funduszu, na podstawie sprawozdań, októrych mowa wart. 126, sporządza roczne sprawozdanie zwykonania planu finansowego Funduszu, nie póêniej niż wciągu 3 miesięcy od zakończenia roku, którego dotyczy sprawozdanie.
 
 2. Rada Funduszu przyjmuje sprawozdanie, o którym mowa w ust. 1, w terminie 15 dni od dnia jego otrzymania.
 
-3. Sprawozdanie, o którym mowa w ust. 1, podlega zatwierdzeniu przez ministra w∏aÊciwego do spraw finansów publicznych po zasi´gni´ciu opinii ministra w∏aÊciwego do spraw zdrowia i po uzyskaniu opinii komisji w∏aÊciwej do spraw finansów publicznych oraz komisji w∏aÊciwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
+3. Sprawozdanie, o którym mowa w ust. 1, podlega zatwierdzeniu przez ministra właściwego do spraw finansów publicznych po zasięgnięciu opinii ministra właściwego do spraw zdrowia i po uzyskaniu opinii komisji właściwej do spraw finansów publicznych oraz komisji właściwej do spraw zdrowia Sejmu Rzeczypospolitej Polskiej.
 
 **Art. 131.**
 
-1. Fundusz jest obowiàzany do sporzàdzania okresowych sprawozdaƒ dotyczàcych wykonania planu finansowego oraz przekazywania ich ministrowi w∏aÊciwemu do spraw finansów publicznych i ministrowi w∏aÊciwemu do spraw zdrowia.
+1. Fundusz jest obowiązany do sporządzania okresowych sprawozdań dotyczących wykonania planu finansowego oraz przekazywania ich ministrowi właściwemu do spraw finansów publicznych i ministrowi właściwemu do spraw zdrowia.
 
-2. Minister w∏aÊciwy do spraw finansów publicznych w porozumieniu z ministrem w∏aÊciwym do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owe zasady prowadzenia gospodarki finansowej Funduszu, w tym:
+2. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe zasady prowadzenia gospodarki finansowej Funduszu, w tym:
 
-- **1)** rodzaje sprawozdaƒ, o których mowa w ust. 1, sposób ich tworzenia oraz terminy przekazywania,
-- **2)** sposób tworzenia planu finansowego i rocznego sprawozdania z wykonania planu finansowego oraz ich wzory uwzgl´dniajàc koniecznoÊç zapewnienia prawid∏owego i rzetelnego gospodarowania Êrodkami publicznymi. DZIA¸ VI Post´powanie w sprawie zawarcia umów ze Êwiadczeniodawcami
+- **1)** rodzaje sprawozdań, o których mowa w ust. 1, sposób ich tworzenia oraz terminy przekazywania,
+- **2)** sposób tworzenia planu finansowego i rocznego sprawozdania z wykonania planu finansowego oraz ich wzory uwzględniając konieczność zapewnienia prawidłowego i rzetelnego gospodarowania środkami publicznymi. DZIAĘ VI Postępowanie w sprawie zawarcia umów ze świadczeniodawcami
 
 **Art. 132.**
 
-1. Podstawà udzielania Êwiadczeƒ opieki zdrowotnej finansowanych ze Êrodków publicznych przez Fundusz jest umowa o udzielanie Êwiadczeƒ opieki zdrowotnej zawarta pomi´dzy Êwiadczeniodawcà a dyrektorem oddzia∏u wojewódzkiego Funduszu, z zastrze˝eniem art. 159.
+1. Podstawą udzielania świadczeń opieki zdrowotnej finansowanych ze środków publicznych przez Fundusz jest umowa o udzielanie świadczeń opieki zdrowotnej zawarta pomiędzy świadczeniodawcą a dyrektorem oddziału wojewódzkiego Funduszu, z zastrzeżeniem art. 159.
 
-2. Umowa o udzielanie Êwiadczeƒ opieki zdrowotnej mo˝e byç zawarta wy∏àcznie ze Êwiadczeniodawcà, który zosta∏ wybrany do udzielania Êwiadczeƒ opieki zdrowotnej na zasadach okreÊlonych w niniejszym dziale.
+2. Umowa o udzielanie świadczeń opieki zdrowotnej może być zawarta wyłącznie ze świadczeniodawcą, który został wybrany do udzielania świadczeń opieki zdrowotnej na zasadach określonych w niniejszym dziale.
 
-3. Nie mo˝na zawrzeç umowy o udzielanie Êwiadczeƒ opieki zdrowotnej z lekarzem, piel´gniarkà, po∏o˝nà, innà osobà wykonujàcà zawód medyczny lub psychologiem, je˝eli udzielajà oni Êwiadczeƒ opieki zdrowotnej uÊwiadczeniodawcy, który zawar∏ umow´ o udzielanie Êwiadczeƒ opieki zdrowotnej z Funduszem.
+3. Nie można zawrzeć umowy o udzielanie świadczeń opieki zdrowotnej z lekarzem, pielęgniarką, położną, inną osobą wykonującą zawód medyczny lub psychologiem, jeżeli udzielają oni świadczeń opieki zdrowotnej uświadczeniodawcy, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej z Funduszem.
 
-4. Âwiadczenia opieki zdrowotnej nieokreÊlone w umowie o udzielanie Êwiadczeƒ opieki zdrowotnej finansowane przez Fundusz udzielane sà na rzecz osób ubezpieczonych wy∏àcznie w przypadkach i na zasadach okreÊlonych w ustawie.
+4. Âwiadczenia opieki zdrowotnej nieokreślone w umowie o udzielanie świadczeń opieki zdrowotnej finansowane przez Fundusz udzielane są na rzecz osób ubezpieczonych wyłącznie w przypadkach i na zasadach określonych w ustawie.
 
-5. WysokoÊç ∏àcznych zobowiàzaƒ Funduszu wynikajàcych z zawartych ze Êwiadczeniodawcami umów nie mo˝e przekroczyç wysokoÊci wydatków przewidzianych na ten cel w planie finansowym Funduszu.
+5. Wysokość łącznych zobowiązań Funduszu wynikających z zawartych ze świadczeniodawcami umów nie może przekroczyć wysokości wydatków przewidzianych na ten cel w planie finansowym Funduszu.
 
-**Art. 133.** Âwiadczeniodawcy mogà zlecaç podwykonawcom udzielanie Êwiadczeƒ opieki zdrowotnej wramach umowy oudzielanie Êwiadczeƒ opieki zdrowotnej zawartej zFunduszem, je˝eli umowa tak stanoArt. 134. 1. Fundusz jest obowiàzany zapewniç równe traktowanie wszystkich Êwiadczeniodawców ubiegajàcych si´ o zawarcie umowy o udzielanie Êwiadczeƒ opieki zdrowotnej i prowadziç post´powanie wsposób gwarantujàcy zachowanie uczciwej konkurencji. 2. Wszelkie wymagania, wyjaÊnienia i informacje, a tak˝e dokumenty zwiàzane z post´powaniem w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej udost´pniane sà Êwiadczeniodawcom na takich samych zasadach.
+**Art. 133.** Âwiadczeniodawcy mogą zlecać podwykonawcom udzielanie świadczeń opieki zdrowotnej wramach umowy oudzielanie świadczeń opieki zdrowotnej zawartej zFunduszem, jeżeli umowa tak stanoArt. 134. 1. Fundusz jest obowiązany zapewnić równe traktowanie wszystkich świadczeniodawców ubiegających się o zawarcie umowy o udzielanie świadczeń opieki zdrowotnej i prowadzić postępowanie wsposób gwarantujący zachowanie uczciwej konkurencji. 2. Wszelkie wymagania, wyjaśnienia i informacje, a także dokumenty związane z postępowaniem w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej udostępniane są świadczeniodawcom na takich samych zasadach.
 
 **Art. 135.**
 
-1. Umowy o udzielanie Êwiadczeƒ opieki zdrowotnej sà jawne.
+1. Umowy o udzielanie świadczeń opieki zdrowotnej są jawne.
 
-2. Fundusz realizuje zasad´ jawnoÊci umów poprzez zamieszczenie na swojej stronie internetowej informacji oka˝dej zawartej umowie, zuwzgl´dnieniem rodzaju, liczby i ceny zakupionych Êwiadczeƒ oraz maksymalnej kwoty zobowiàzaƒ Funduszu wobec Êwiadczeniodawcy wynikajàcej ze wszystkich zawartych umów.
+2. Fundusz realizuje zasadę jawności umów poprzez zamieszczenie na swojej stronie internetowej informacji okażdej zawartej umowie, zuwzględnieniem rodzaju, liczby i ceny zakupionych świadczeń oraz maksymalnej kwoty zobowiązań Funduszu wobec świadczeniodawcy wynikającej ze wszystkich zawartych umów.
 
-3. Informacj´, o której mowa w ust. 2, zamieszcza si´ w terminie 14 dni od dnia zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej.
+3. Informację, o której mowa w ust. 2, zamieszcza się w terminie 14 dni od dnia zawarcia umowy o udzielanie świadczeń opieki zdrowotnej.
 
-**Art. 136.** Umowa o udzielanie Êwiadczeƒ opieki zdrowotnej okreÊla w szczególnoÊci:
+**Art. 136.** Umowa o udzielanie świadczeń opieki zdrowotnej określa w szczególności:
 
 **Art. 137.**
 
-1. Prezes Funduszu, uwzgl´dniajàc przepisy niniejszego dzia∏u oraz przepisy odr´bne, przygotowuje projekt ogólnych warunków umów o udzielanie Êwiadczeƒ opieki zdrowotnej zawierajàcy w szczególnoÊci rodzaje Êwiadczeƒ opieki zdrowotnej, sposób wyceny tych Êwiadczeƒ oraz warunki ich udzielania.
+1. Prezes Funduszu, uwzględniając przepisy niniejszego działu oraz przepisy odrębne, przygotowuje projekt ogólnych warunków umów o udzielanie świadczeń opieki zdrowotnej zawierający w szczególności rodzaje świadczeń opieki zdrowotnej, sposób wyceny tych świadczeń oraz warunki ich udzielania.
 
-2. Prezes Funduszu, nie póêniej ni˝ do dnia 15 mawi. Przepis art. 132 ust. 3 stosuje si´ odpowiednio. ja, przesy∏a projekt, o którym mowa w ust. 1, do Naczelnej Rady Lekarskiej, Naczelnej Rady Piel´gniarek i Po∏o˝nych i reprezentatywnym organizacjom Êwiadczeniodawców.
+2. Prezes Funduszu, nie póêniej niż do dnia 15 mawi. Przepis art. 132 ust. 3 stosuje się odpowiednio. ja, przesyła projekt, o którym mowa w ust. 1, do Naczelnej Rady Lekarskiej, Naczelnej Rady Pielęgniarek i Położnych i reprezentatywnym organizacjom świadczeniodawców.
 
-3. Za reprezentatywnà organizacj´, o której mowa w ust. 2, uwa˝a si´ takà organizacj´:
+3. Za reprezentatywną organizację, o której mowa w ust. 2, uważa się taką organizację:
 
-- **1)** która zrzesza Êwiadczeniodawców, uktórych liczba osób zatrudnionych i osób udzielajàcych Êwiadczeƒ opieki zdrowotnej wynosi ∏àcznie co najmniej 10 000 osób oraz
-- **2)** której organ uprawniony do reprezentowania z∏o˝y ministrowi w∏aÊciwemu do spraw zdrowia oÊwiadczenie dotyczàce spe∏niania warunku, o którym mowa w pkt 1, pod rygorem odpowiedzialnoÊci karnej z art. 233 § 1 i 2 Kodeksu karnego, nie póêniej ni˝ do dnia 30 kwietnia.
+- **1)** która zrzesza świadczeniodawców, uktórych liczba osób zatrudnionych i osób udzielających świadczeń opieki zdrowotnej wynosi łącznie co najmniej 10 000 osób oraz
+- **2)** której organ uprawniony do reprezentowania złoży ministrowi właściwemu do spraw zdrowia oświadczenie dotyczące spełniania warunku, o którym mowa w pkt 1, pod rygorem odpowiedzialności karnej z art. 233 § 1 i 2 Kodeksu karnego, nie póêniej niż do dnia 30 kwietnia.
 
-4. Minister w∏aÊciwy do spraw zdrowia prowadzi jawny wykaz reprezentatywnych organizacji Êwiadczeniodawców.
+4. Minister właściwy do spraw zdrowia prowadzi jawny wykaz reprezentatywnych organizacji świadczeniodawców.
 
-5. Minister w∏aÊciwy do spraw zdrowia udost´pnia wykaz, októrym mowa wust. 4, wraz zoÊwiadczeniami, o których mowa w ust. 3 pkt 2, na stronie internetowej urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw zdrowia.
+5. Minister właściwy do spraw zdrowia udostępnia wykaz, októrym mowa wust. 4, wraz zoświadczeniami, o których mowa w ust. 3 pkt 2, na stronie internetowej urzędu obsługującego ministra właściwego do spraw zdrowia.
 
-6. Projekt, o którym mowa w ust. 1, podlega uzgodnieniu z podmiotami, o których mowa w ust. 2, wtrybie negocjacji nie póêniej ni˝ do dnia 30 czerwca. Projekt uwa˝a si´ za uzgodniony, je˝eli przedstawiciele wszystkich stron bioràcych udzia∏ w negocjacjach z∏o˝à pod nim w∏asnor´czne podpisy.
+6. Projekt, o którym mowa w ust. 1, podlega uzgodnieniu z podmiotami, o których mowa w ust. 2, wtrybie negocjacji nie póêniej niż do dnia 30 czerwca. Projekt uważa się za uzgodniony, jeżeli przedstawiciele wszystkich stron biorących udział w negocjacjach złożą pod nim własnoręczne podpisy.
 
-7. Uzgodniony w trybie ust. 6 projekt, o którym mowa wust. 1, Prezes Funduszu niezw∏ocznie przesy∏a ministrowi w∏aÊciwemu do spraw zdrowia.
+7. Uzgodniony w trybie ust. 6 projekt, o którym mowa wust. 1, Prezes Funduszu niezwłocznie przesyła ministrowi właściwemu do spraw zdrowia.
 
-8. Minister w∏aÊciwy do spraw zdrowia dokonuje przeglàdu projektu, o którym mowa w ust. 1, pod wzgl´dem zgodnoÊci z przepisami prawa oraz dokonuje niezb´dnych wynikajàcych z tego przeglàdu zmian wtym projekcie, niezw∏ocznie informujàc otym Prezesa Funduszu oraz podmioty, o których mowa w ust. 2.
+8. Minister właściwy do spraw zdrowia dokonuje przeglądu projektu, o którym mowa w ust. 1, pod względem zgodności z przepisami prawa oraz dokonuje niezbędnych wynikających z tego przeglądu zmian wtym projekcie, niezwłocznie informując otym Prezesa Funduszu oraz podmioty, o których mowa w ust. 2.
 
-9. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, ogólne warunki umów o udzielanie Êwiadczeƒ opieki zdrowotnej, uwzgl´dniajàc projekt uzgodniony w trybie ust. 6 z podmiotami, o których mowa w ust. 2, kierujàc si´ dobrem Êwiadczeniobiorców oraz koniecznoÊcià zapewnienia w∏aÊciwej realizacji umów.
+9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, ogólne warunki umów o udzielanie świadczeń opieki zdrowotnej, uwzględniając projekt uzgodniony w trybie ust. 6 z podmiotami, o których mowa w ust. 2, kierując się dobrem świadczeniobiorców oraz koniecznością zapewnienia właściwej realizacji umów.
 
-10. W przypadku nieuzgodnienia projektu, o którym mowa w ust. 1, w terminie, o którym mowa wust. 6, minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, ogólne warunki umów oudzielanie Êwiadczeƒ opieki zdrowotnej, kierujàc si´ dobrem Êwiadczeniobiorców oraz koniecznoÊcià zapewnienia w∏aÊciwej realizacji umów.
+10. W przypadku nieuzgodnienia projektu, o którym mowa w ust. 1, w terminie, o którym mowa wust. 6, minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, ogólne warunki umów oudzielanie świadczeń opieki zdrowotnej, kierując się dobrem świadczeniobiorców oraz koniecznością zapewnienia właściwej realizacji umów.
 
-11. Minister w∏aÊciwy do spraw zdrowia, po zasi´karskiej, Naczelnej Rady Piel´gniarek i Po∏o˝nych, okreÊli, w drodze rozporzàdzenia, regulamin negocjacji, o których mowa w ust. 6, uwzgl´dniajàc koniecznoÊç równego traktowania stron tych negocjacji.
+11. Minister właściwy do spraw zdrowia, po zasiękarskiej, Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze rozporządzenia, regulamin negocjacji, o których mowa w ust. 6, uwzględniając konieczność równego traktowania stron tych negocjacji.
 
-12. Ogólne warunki umów o udzielanie Êwiadczeƒ opieki zdrowotnej ustala si´ w trybie okreÊlonym w ust. 1—11, nie cz´Êciej ni˝ raz na 2 lata, w przypadku zaistnienia istotnej zmiany uwarunkowaƒ spo∏eczno-gospodarczych udzielania Êwiadczeƒ opieki zdrowotnej lub stwierdzonych nieprawid∏owoÊci wrealizacji tych umów wynikajàcych zprzepisów wydanych na podstawie ust. 9 albo 10.
+12. Ogólne warunki umów o udzielanie świadczeń opieki zdrowotnej ustala się w trybie określonym w ust. 1—11, nie częściej niż raz na 2 lata, w przypadku zaistnienia istotnej zmiany uwarunkowań społeczno-gospodarczych udzielania świadczeń opieki zdrowotnej lub stwierdzonych nieprawidłowości wrealizacji tych umów wynikających zprzepisów wydanych na podstawie ust. 9 albo 10.
 
-**Art. 138.** Do zawierania umów oudzielanie Êwiadczeƒ opieki zdrowotnej nie stosuje si´ przepisów ozamówieniach publicznych.
+**Art. 138.** Do zawierania umów oudzielanie świadczeń opieki zdrowotnej nie stosuje się przepisów ozamówieniach publicznych.
 
 **Art. 139.**
 
-1. Zawieranie przez Fundusz umów oudzielanie Êwiadczeƒ opieki zdrowotnej, zzastrze˝eniem art. 159, odbywa si´ po przeprowadzeniu post´powania w trybie: gni´ciu opinii Prezesa Funduszu, Naczelnej Rady Le1) konkursu ofert albo
+1. Zawieranie przez Fundusz umów oudzielanie świadczeń opieki zdrowotnej, zzastrzeżeniem art. 159, odbywa się po przeprowadzeniu postępowania w trybie: gnięciu opinii Prezesa Funduszu, Naczelnej Rady Le1) konkursu ofert albo
 
-- **2)** rokowaƒ.
+- **2)** rokowań.
 
-2. W celu przeprowadzenia post´powania w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej w trybie konkursu ofert Fundusz zamieszcza og∏oszenie zgodnie z przepisami wydanymi na podstawie ust. 5. W celu przeprowadzenia rokowaƒ po zamieszczeniu og∏oszenia Fundusz wysy∏a zaproszenia.
+2. W celu przeprowadzenia postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej w trybie konkursu ofert Fundusz zamieszcza ogłoszenie zgodnie z przepisami wydanymi na podstawie ust. 5. W celu przeprowadzenia rokowań po zamieszczeniu ogłoszenia Fundusz wysyła zaproszenia.
 
-3. Og∏oszenie zawiera w szczególnoÊci:
+3. Ogłoszenie zawiera w szczególności:
 
-- **1)** nazw´ i adres siedziby zamawiajàcego;
-- **2)** okreÊlenie wartoÊci i przedmiotu zamówienia;
-- **3)** wymagane kwalifikacje zawodowe i techniczne Êwiadczeniodawców, z uwzgl´dnieniem Polskich Norm wprowadzajàcych normy europejskie, europejskich aprobat technicznych lub norm paƒstw cz∏onkowskich Unii Europejskiej wprowadzajàcych europejskie normy zharmonizowane oraz klasyfikacji statystycznych wydanych na podstawie przepisów o statystyce publicznej;
-- **4)** wskazanie Êwiadczeniodawców zapraszanych do rokowaƒ w przypadku rokowaƒ.
+- **1)** nazwę i adres siedziby zamawiającego;
+- **2)** określenie wartości i przedmiotu zamówienia;
+- **3)** wymagane kwalifikacje zawodowe i techniczne świadczeniodawców, z uwzględnieniem Polskich Norm wprowadzających normy europejskie, europejskich aprobat technicznych lub norm państw członkowskich Unii Europejskiej wprowadzających europejskie normy zharmonizowane oraz klasyfikacji statystycznych wydanych na podstawie przepisów o statystyce publicznej;
+- **4)** wskazanie świadczeniodawców zapraszanych do rokowań w przypadku rokowań.
 
-4. W celu przeprowadzenia post´powania w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej dyrektor oddzia∏u wojewódzkiego Funduszu powo∏uje komisj´. Tryb pracy komisji okreÊla regulamin uchwalony przez Rad´ Funduszu.
+4. W celu przeprowadzenia postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej dyrektor oddziału wojewódzkiego Funduszu powołuje komisję. Tryb pracy komisji określa regulamin uchwalony przez Radę Funduszu.
 
-5. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, okreÊli, w drodze rozporzàdzenia, sposób og∏aszania o post´powaniu w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, zapraszania do udzia∏u w rokowaniach, sk∏adania ofert, powo∏ywania i odwo∏ywania komisji konkursowej oraz jej zadania, uwzgl´dniajàc równe traktowanie Êwiadczeniodawców oraz uczciwà konkurencj´.
+5. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, sposób ogłaszania o postępowaniu w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, zapraszania do udziału w rokowaniach, składania ofert, powoływania i odwoływania komisji konkursowej oraz jej zadania, uwzględniając równe traktowanie świadczeniodawców oraz uczciwą konkurencję.
 
 **Art. 140.**
 
-1. Przedmiot zamówienia opisuje si´ w sposób jednoznaczny i wyczerpujàcy, za pomocà dostatecznie dok∏adnych i zrozumia∏ych okreÊleƒ, uwzgl´dniajàc wszystkie wymagania i okolicznoÊci mogàce mieç wp∏yw na sporzàdzenie oferty.
+1. Przedmiot zamówienia opisuje się w sposób jednoznaczny i wyczerpujący, za pomocą dostatecznie dokładnych i zrozumiałych określeń, uwzględniając wszystkie wymagania i okoliczności mogące mieć wpływ na sporządzenie oferty.
 
-2. Przedmiotu zamówienia nie mo˝na opisywaç:
+2. Przedmiotu zamówienia nie można opisywać:
 
-- **1)** wsposób, który móg∏by utrudniaç uczciwà konkurencj´;
-- **2)** przez wskazanie znaków towarowych, patentów lub pochodzenia, chyba ˝e jest to uzasadnione specyfikà przedmiotu zamówienia lub zamawiajàcy nie mo˝e opisaç przedmiotu zamówienia za pomocà dostatecznie dok∏adnych okreÊleƒ, a wskazaniu takiemu towarzyszà wyrazy „lub równowa˝ne” lub inne równoznaczne wyrazy.
+- **1)** wsposób, który mógłby utrudniać uczciwą konkurencję;
+- **2)** przez wskazanie znaków towarowych, patentów lub pochodzenia, chyba że jest to uzasadnione specyfiką przedmiotu zamówienia lub zamawiający nie może opisać przedmiotu zamówienia za pomocą dostatecznie dokładnych określeń, a wskazaniu takiemu towarzyszą wyrazy Ńlub równoważne” lub inne równoznaczne wyrazy.
 
 **Art. 141.**
 
-1. Przedmiot zamówienia opisuje si´ za pomocà cech technicznych ijakoÊciowych, zuwzgl´dnieniem Polskich Norm wprowadzajàcych europejskie normy zharmonizowane.
+1. Przedmiot zamówienia opisuje się za pomocą cech technicznych ijakościowych, zuwzględnieniem Polskich Norm wprowadzających europejskie normy zharmonizowane.
 
-2. W przypadku braku Polskich Norm wprowadzajàcych europejskie normy zharmonizowane uwzgl´dnia si´:
+2. W przypadku braku Polskich Norm wprowadzających europejskie normy zharmonizowane uwzględnia się:
 
 - **1)** europejskie aprobaty techniczne;
 - **2)** wspólne specyfikacje techniczne;
-- **3)** Polskie Normy wprowadzajàce normy europejskie;
-- **4)** normy paƒstw cz∏onkowskich Unii Europejskiej wprowadzajàce europejskie normy zharmonizowane;
-- **5)** Polskie Normy wprowadzajàce normy mi´dzynarodowe;
+- **3)** Polskie Normy wprowadzające normy europejskie;
+- **4)** normy państw członkowskich Unii Europejskiej wprowadzające europejskie normy zharmonizowane;
+- **5)** Polskie Normy wprowadzające normy międzynarodowe;
 - **6)** Polskie Normy;
 - **7)** polskie aprobaty techniczne.
 
-3. Mo˝na odstàpiç od opisywania przedmiotu zamówienia z uwzgl´dnieniem Polskich Norm wprowadzajàcych europejskie normy zharmonizowane, europejskich aprobat technicznych lub wspólnych specyfikacji technicznych, je˝eli:
+3. Można odstąpić od opisywania przedmiotu zamówienia z uwzględnieniem Polskich Norm wprowadzających europejskie normy zharmonizowane, europejskich aprobat technicznych lub wspólnych specyfikacji technicznych, jeżeli:
 
-- **1)** nie zawierajà one ˝adnych wymagaƒ dotyczàcych zapewnienia zgodnoÊci z wymaganiami zasadniczymi lub
-- **2)** ich stosowanie nak∏ada∏oby na zamawiajàcego obowiàzek u˝ywania wyrobów niewspó∏dzia∏ajàcych z ju˝ stosowanymi urzàdzeniami, lub
-- **3)** ich stosowanie nie by∏oby w∏aÊciwe ze wzgl´du na innowacyjny charakter przedmiotu zamówienia.
+- **1)** nie zawierają one żadnych wymagań dotyczących zapewnienia zgodności z wymaganiami zasadniczymi lub
+- **2)** ich stosowanie nakładałoby na zamawiającego obowiązek używania wyrobów niewspółdziałających z już stosowanymi urządzeniami, lub
+- **3)** ich stosowanie nie byłoby właściwe ze względu na innowacyjny charakter przedmiotu zamówienia.
 
-4. Do opisu przedmiotu zamówienia stosuje si´ nawieƒ okreÊlonym w rozporzàdzeniu nr 2195/2002 zdnia 5 listopada 2002 r. wsprawie Wspólnego S∏ownika Zamówieƒ (Dz. Urz. WE L 340 z 16.12.2002, str. 1 i n.).
+4. Do opisu przedmiotu zamówienia stosuje się nawień określonym w rozporządzeniu nr 2195/2002 zdnia 5 listopada 2002 r. wsprawie Wspólnego Słownika Zamówień (Dz. Urz. WE L 340 z 16.12.2002, str. 1 i n.).
 
 **Art. 142.**
 
-1. Konkurs ofert sk∏ada si´ zcz´Êci jawnej i niejawnej.
+1. Konkurs ofert składa się zczęści jawnej i niejawnej.
 
-2. Wcz´Êci jawnej konkursu ofert komisja wobecnoÊci oferentów:
+2. Wczęści jawnej konkursu ofert komisja wobecności oferentów:
 
-- **1)** stwierdza prawid∏owoÊç og∏oszenia konkursu ofert oraz liczb´ z∏o˝onych ofert;
-- **2)** otwiera koperty lub paczki z ofertami i ustala, które z ofert spe∏niajà warunki, o których mowa w art. 146 pkt 3;
-- **3)** przyjmuje do protoko∏u zg∏oszone przez oferentów wyjaÊnienia lub oÊwiadczenia.
+- **1)** stwierdza prawidłowość ogłoszenia konkursu ofert oraz liczbę złożonych ofert;
+- **2)** otwiera koperty lub paczki z ofertami i ustala, które z ofert spełniają warunki, o których mowa w art. 146 pkt 3;
+- **3)** przyjmuje do protokołu zgłoszone przez oferentów wyjaśnienia lub oświadczenia.
 
-3. OÊwiadczenia lub wyjaÊnienia przekazane za pomocà teleksu, poczty elektronicznej lub telefaksu uwa˝a si´ za z∏o˝one wterminie, je˝eli ich treÊç dotar∏a do adresata przed up∏ywem terminu i zosta∏a niezw∏ocznie potwierdzona na piÊmie przez przekazujàcego.
+3. Oświadczenia lub wyjaśnienia przekazane za pomocą teleksu, poczty elektronicznej lub telefaksu uważa się za złożone wterminie, jeżeli ich treść dotarła do adresata przed upływem terminu i została niezwłocznie potwierdzona na piśmie przez przekazującego.
 
-4. Ofert´ sporzàdza si´ w j´zyku polskim, z zachowaniem formy pisemnej pod rygorem niewa˝noÊci.
+4. Ofertę sporządza się w języku polskim, z zachowaniem formy pisemnej pod rygorem nieważności.
 
-5. W cz´Êci niejawnej konkursu ofert komisja mo˝e:
+5. W części niejawnej konkursu ofert komisja może:
 
-- **1)** wybraç ofert´ lub wi´kszà liczb´ ofert, które zapewniajà ciàg∏oÊç udzielania Êwiadczeƒ opieki zdrowotnej, ich kompleksowoÊç idost´pnoÊç oraz przedstawiajà najkorzystniejszy bilans ceny w odniesieniu do przedmiotu zamówienia;
-- **2)** nie dokonaç wyboru ˝adnej oferty, je˝eli nie wynika znich mo˝liwoÊç w∏aÊciwego udzielania Êwiadczeƒ opieki zdrowotnej.
+- **1)** wybrać ofertę lub większą liczbę ofert, które zapewniają ciągłość udzielania świadczeń opieki zdrowotnej, ich kompleksowość idostępność oraz przedstawiają najkorzystniejszy bilans ceny w odniesieniu do przedmiotu zamówienia;
+- **2)** nie dokonać wyboru żadnej oferty, jeżeli nie wynika znich możliwość właściwego udzielania świadczeń opieki zdrowotnej.
 
-6. Komisja w cz´Êci niejawnej konkursu ofert mo˝e przeprowadziç negocjacje zoferentami wcelu ustalenia:
+6. Komisja w części niejawnej konkursu ofert może przeprowadzić negocjacje zoferentami wcelu ustalenia:
 
-- **1)** liczby planowanych do udzielenia Êwiadczeƒ opieki zdrowotnej;
-- **2)** ceny za udzielane Êwiadczenia opieki zdrowotnej.
+- **1)** liczby planowanych do udzielenia świadczeń opieki zdrowotnej;
+- **2)** ceny za udzielane świadczenia opieki zdrowotnej.
 
-7. Komisja ma obowiàzek przeprowadziç negocjacje co najmniej zdwoma oferentami, oile wkonkursie bierze udzia∏ wi´cej ni˝ jeden oferent.
+7. Komisja ma obowiązek przeprowadzić negocjacje co najmniej zdwoma oferentami, oile wkonkursie bierze udział więcej niż jeden oferent.
 
 **Art. 143.**
 
-1. Zawarcie umowy o udzielanie Êwiadczeƒ opieki zdrowotnej w trybie rokowaƒ nast´puje w przypadkach okreÊlonych w ustawie.
+1. Zawarcie umowy o udzielanie świadczeń opieki zdrowotnej w trybie rokowań następuje w przypadkach określonych w ustawie.
 
-2. Przez rokowania rozumie si´ tryb zawierania umów o udzielanie Êwiadczeƒ opieki zdrowotnej, wktórym prowadzi si´ post´powanie wsprawie ustalenia ceny i liczby Êwiadczeƒ opieki zdrowotnej i wazwy i kody okreÊlone we Wspólnym S∏owniku Zamórunków ich udzielania z takà liczbà Êwiadczeniodawców, która zapewni wybór najkorzystniejszej oferty lub wi´kszej liczby ofert oraz sprawny przebieg post´powania, nie mniejszà jednak ni˝ trzech, chyba ˝e ze wzgl´du na specjalistyczny charakter Êwiadczeƒ opieki zdrowotnej lub ograniczonà dost´pnoÊç do Êwiadczeƒ jest mniej Êwiadczeniodawców mogàcych ich udzielaç.
+2. Przez rokowania rozumie się tryb zawierania umów o udzielanie świadczeń opieki zdrowotnej, wktórym prowadzi się postępowanie wsprawie ustalenia ceny i liczby świadczeń opieki zdrowotnej i wazwy i kody określone we Wspólnym Słowniku Zamórunków ich udzielania z taką liczbą świadczeniodawców, która zapewni wybór najkorzystniejszej oferty lub większej liczby ofert oraz sprawny przebieg postępowania, nie mniejszą jednak niż trzech, chyba że ze względu na specjalistyczny charakter świadczeń opieki zdrowotnej lub ograniczoną dostępność do świadczeń jest mniej świadczeniodawców mogących ich udzielać.
 
-3. Rokowania sk∏adajà si´ z cz´Êci jawnej i niejawnej.
+3. Rokowania składają się z części jawnej i niejawnej.
 
-4. Do cz´Êci jawnej rokowaƒ stosuje si´ odpowiednio art. 142 ust. 2.
+4. Do części jawnej rokowań stosuje się odpowiednio art. 142 ust. 2.
 
-5. Do cz´Êci niejawnej rokowaƒ stosuje si´ odpowiednio art. 142 ust. 5.
+5. Do części niejawnej rokowań stosuje się odpowiednio art. 142 ust. 5.
 
-**Art. 144.** Post´powanie w trybie rokowaƒ mo˝e byç przeprowadzone, je˝eli:
+**Art. 144.** Postępowanie w trybie rokowań może być przeprowadzone, jeżeli:
 
 **Art. 145.**
 
-1. W przypadku, o którym mowa w art. 144 pkt 1, zaprasza si´ do udzia∏u w rokowaniach Êwiadczeniodawców, których oferty nie zosta∏y odrzucone w uniewa˝nionym konkursie ofert.
+1. W przypadku, o którym mowa w art. 144 pkt 1, zaprasza się do udziału w rokowaniach świadczeniodawców, których oferty nie zostały odrzucone w unieważnionym konkursie ofert.
 
-2. W przypadkach, o których mowa w art. 144 pkt 2 i 3, zaprasza si´ do udzia∏u w rokowaniach Êwiadczeniodawców mogàcych udzielaç Êwiadczeƒ zdrowotnych b´dàcych przedmiotem post´powania w sprawie zawarcia umów o udzielanie Êwiadczeƒ opieki zdrowotnej.
+2. W przypadkach, o których mowa w art. 144 pkt 2 i 3, zaprasza się do udziału w rokowaniach świadczeniodawców mogących udzielać świadczeń zdrowotnych będących przedmiotem postępowania w sprawie zawarcia umów o udzielanie świadczeń opieki zdrowotnej.
 
-**Art. 146.** Prezes Funduszu okreÊla:
+**Art. 146.** Prezes Funduszu określa:
 
-**Art. 147.** Kryteria oceny ofert iwarunki wymagane od Êwiadczeniodawców sà jawne i nie podlegajà zmianie w toku post´powania.
+**Art. 147.** Kryteria oceny ofert iwarunki wymagane od świadczeniodawców są jawne i nie podlegają zmianie w toku postępowania.
 
-**Art. 148.** Porównanie ofert w toku post´powania w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej obejmuje w szczególnoÊci:
+**Art. 148.** Porównanie ofert w toku postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej obejmuje w szczególności:
 
 **Art. 149.**
 
-1. Odrzuca si´ ofert´:
+1. Odrzuca się ofertę:
 
-- **1)** z∏o˝onà przez Êwiadczeniodawc´ po terminie;
-- **2)** gdy dostarczone przez Êwiadczeniodawc´ informacje sà nieprawdziwe;
-- **3)** gdy Êwiadczeniodawca nie okreÊli∏ przedmiotu oferty lub nie poda∏ proponowanej liczby lub ceny Êwiadczeƒ opieki zdrowotnej.
+- **1)** złożoną przez świadczeniodawcę po terminie;
+- **2)** gdy dostarczone przez świadczeniodawcę informacje są nieprawdziwe;
+- **3)** gdy świadczeniodawca nie określił przedmiotu oferty lub nie podał proponowanej liczby lub ceny świadczeń opieki zdrowotnej.
 
-2. W przypadku gdy braki, o których mowa wust. 1, dotyczà tylko cz´Êci oferty, ofert´ mo˝na odrzuciç w cz´Êci dotkni´tej brakiem. udzielanych Êwiadczeƒ, kwalifikacje personelu,
+2. W przypadku gdy braki, o których mowa wust. 1, dotyczą tylko części oferty, ofertę można odrzucić w części dotkniętej brakiem. udzielanych świadczeń, kwalifikacje personelu,
 
-3. W przypadku gdy Êwiadczeniodawca nie przedstawi∏ wszystkich wymaganych dokumentów lub gdy oferta zawiera braki formalne, komisja wzywa oferenta do usuni´cia tych braków wwyznaczonym terminie pod rygorem odrzucenia oferty.
+3. W przypadku gdy świadczeniodawca nie przedstawił wszystkich wymaganych dokumentów lub gdy oferta zawiera braki formalne, komisja wzywa oferenta do usunięcia tych braków wwyznaczonym terminie pod rygorem odrzucenia oferty.
 
 **Art. 150.**
 
-1. Dyrektor oddzia∏u wojewódzkiego Funduszu, na wniosek komisji, uniewa˝nia post´powanie w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, gdy:
+1. Dyrektor oddziału wojewódzkiego Funduszu, na wniosek komisji, unieważnia postępowanie w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, gdy:
 
-- **1)** nie wp∏yn´∏a ˝adna oferta;
-- **2)** wp∏yn´∏a jedna oferta niepodlegajàca odrzuceniu, z zastrze˝eniem ust. 2;
+- **1)** nie wpłynęła żadna oferta;
+- **2)** wpłynęła jedna oferta niepodlegająca odrzuceniu, z zastrzeżeniem ust. 2;
 - **3)** odrzucono wszystkie oferty;
-- **4)** kwota najkorzystniejszej oferty przewy˝sza kwot´, którà Fundusz przeznaczy∏ na finansowanie Êwiadczeƒ opieki zdrowotnej danego rodzaju;
-- **5)** nastàpi∏a istotna zmiana okolicznoÊci powodujàca, ˝e prowadzenie post´powania lub zawarcie umowy nie le˝y w interesie ubezpieczonych, czego nie mo˝na by∏o wczeÊniej przewidzieç.
+- **4)** kwota najkorzystniejszej oferty przewyższa kwotę, którą Fundusz przeznaczył na finansowanie świadczeń opieki zdrowotnej danego rodzaju;
+- **5)** nastąpiła istotna zmiana okoliczności powodująca, że prowadzenie postępowania lub zawarcie umowy nie leży w interesie ubezpieczonych, czego nie można było wcześniej przewidzieć.
 
-2. Je˝eli wtoku konkursu ofert wp∏yn´∏a tylko jedna oferta niepodlegajàca odrzuceniu, komisja mo˝e przyjàç t´ ofert´, gdy z okolicznoÊci wynika, ˝e na og∏oszony ponownie na tych samych warunkach konkurs ofert nie wp∏ynie wi´cej ofert.
+2. Jeżeli wtoku konkursu ofert wpłynęła tylko jedna oferta niepodlegająca odrzuceniu, komisja może przyjąć tę ofertę, gdy z okoliczności wynika, że na ogłoszony ponownie na tych samych warunkach konkurs ofert nie wpłynie więcej ofert.
 
 **Art. 151.**
 
-1. Je˝eli nie nastàpi∏o uniewa˝nienie post´powania w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, komisja og∏asza o rozstrzygni´ciu post´powania.
+1. Jeżeli nie nastąpiło unieważnienie postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, komisja ogłasza o rozstrzygnięciu postępowania.
 
-2. O rozstrzygni´ciu konkursu ofert og∏asza si´ wmiejscu iterminie okreÊlonych wog∏oszeniu okonkursie ofert.
+2. O rozstrzygnięciu konkursu ofert ogłasza się wmiejscu iterminie określonych wogłoszeniu okonkursie ofert.
 
-3. O rozstrzygni´ciu rokowaƒ og∏asza si´ na tablicy og∏oszeƒ oraz na stronie internetowej w∏aÊciwego oddzia∏u wojewódzkiego Funduszu, w terminie 2 dni od zakoƒczenia rokowaƒ.
+3. O rozstrzygnięciu rokowań ogłasza się na tablicy ogłoszeń oraz na stronie internetowej właściwego oddziału wojewódzkiego Funduszu, w terminie 2 dni od zakończenia rokowań.
 
-4. Og∏oszenia, o których mowa w ust. 2 i 3, zawierajà nazw´ (firm´) albo imi´ i nazwisko oraz siedzib´ albo miejsce zamieszkania i adres Êwiadczeniodawcy, który zosta∏ wybrany.
+4. Ogłoszenia, o których mowa w ust. 2 i 3, zawierają nazwę (firmę) albo imię i nazwisko oraz siedzibę albo miejsce zamieszkania i adres świadczeniodawcy, który został wybrany.
 
-5. Z chwilà og∏oszenia rozstrzygni´cia post´powania nast´puje jego zakoƒczenie i komisja ulega rozwiàzaniu.
+5. Z chwilą ogłoszenia rozstrzygnięcia postępowania następuje jego zakończenie i komisja ulega rozwiązaniu.
 
-6. Og∏oszenie o wyniku rozstrzygni´cia post´powania dyrektor oddzia∏u wojewódzkiego Funduszu przekazuje Urz´dowi Oficjalnych Publikacji Wspólnot Europejskich, je˝eli wartoÊç przedmiotu umowy o udzielanie Êwiadczeƒ opieki zdrowotnej przekracza wyra˝onà w z∏otych równowartoÊç kwoty 130 000 euro wed∏ug Êredniego kursu euro og∏oszonego przez Narodowy Bank Polski w dniu rozstrzygni´cia post´powania.
+6. Ogłoszenie o wyniku rozstrzygnięcia postępowania dyrektor oddziału wojewódzkiego Funduszu przekazuje Urzędowi Oficjalnych Publikacji Wspólnot Europejskich, jeżeli wartość przedmiotu umowy o udzielanie świadczeń opieki zdrowotnej przekracza wyrażoną w złotych równowartość kwoty 130 000 euro według średniego kursu euro ogłoszonego przez Narodowy Bank Polski w dniu rozstrzygnięcia postępowania.
 
-7. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Funduszu, okreÊli, w drodze rozporzàdzenia, wzór og∏oszenia, o którym mowa w ust. 6, uwzgl´dniajàc prawid∏owoÊç przekazywania danych o wyniku rozstrzygni´cia post´powania.
+7. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Funduszu, określi, w drodze rozporządzenia, wzór ogłoszenia, o którym mowa w ust. 6, uwzględniając prawidłowość przekazywania danych o wyniku rozstrzygnięcia postępowania.
 
 **Art. 152.**
 
-1. Âwiadczeniodawcom, których interes prawny dozna∏ uszczerbku wwyniku naruszenia przez Fundusz zasad przeprowadzania post´powania w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, przys∏ugujà Êrodki odwo∏awcze i skarga na zasadach okreÊlonych w art. 153 i 154.
+1. Âwiadczeniodawcom, których interes prawny doznał uszczerbku wwyniku naruszenia przez Fundusz zasad przeprowadzania postępowania w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, przysługują środki odwoławcze i skarga na zasadach określonych w art. 153 i 154.
 
-2. Ârodki odwo∏awcze nie przys∏ugujà na:
+2. Ârodki odwoławcze nie przysługują na:
 
-- **1)** wybór trybu post´powania;
-- **2)** niedokonanie wyboru Êwiadczeniodawcy;
-- **3)** uniewa˝nienie post´powania w sprawie zawarcia umowy oudzielanie Êwiadczeƒ opieki zdrowotnej.
+- **1)** wybór trybu postępowania;
+- **2)** niedokonanie wyboru świadczeniodawcy;
+- **3)** unieważnienie postępowania w sprawie zawarcia umowy oudzielanie świadczeń opieki zdrowotnej.
 
 **Art. 153.**
 
-1. W toku post´powania w sprawie zawarcia umowy oudzielanie Êwiadczeƒ opieki zdrowotnej, do czasu zakoƒczenia post´powania, oferent mo˝e z∏o˝yç do komisji umotywowany protest wterminie 7 dni roboczych od dnia dokonania zaskar˝onej czynnoÊci.
+1. W toku postępowania w sprawie zawarcia umowy oudzielanie świadczeń opieki zdrowotnej, do czasu zakończenia postępowania, oferent może złożyć do komisji umotywowany protest wterminie 7 dni roboczych od dnia dokonania zaskarżonej czynności.
 
-2. Do czasu rozpatrzenia protestu post´powanie w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej ulega zawieszeniu, chyba ˝e ztreÊci protestu wynika, ˝e jest on oczywiÊcie bezzasadny.
+2. Do czasu rozpatrzenia protestu postępowanie w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej ulega zawieszeniu, chyba że ztreści protestu wynika, że jest on oczywiście bezzasadny.
 
-3. Komisja rozpatruje i rozstrzyga protest w ciàgu 7 dni od dnia jego z∏o˝enia i udziela pisemnej odpowiedzi sk∏adajàcemu protest.
+3. Komisja rozpatruje i rozstrzyga protest w ciągu 7 dni od dnia jego złożenia i udziela pisemnej odpowiedzi składającemu protest.
 
-4. Protest z∏o˝ony po terminie nie podlega rozpatrzeniu.
+4. Protest złożony po terminie nie podlega rozpatrzeniu.
 
-5. Informacj´ owniesieniu protestu ijego rozstrzyszeƒ oraz na stronie internetowej w∏aÊciwego oddzia∏u wojewódzkiego Funduszu.
+5. Informację owniesieniu protestu ijego rozstrzyszeń oraz na stronie internetowej właściwego oddziału wojewódzkiego Funduszu.
 
-6. W przypadku uwzgl´dnienia protestu komisja powtarza zaskar˝onà czynnoÊç.
+6. W przypadku uwzględnienia protestu komisja powtarza zaskarżoną czynność.
 
 **Art. 154.**
 
-1. Âwiadczeniodawca bioràcy udzia∏ w post´powaniu mo˝e z∏o˝yç, w terminie 7 dni od dnia og∏oszenia o rozstrzygni´ciu post´powania, odwo∏anie dotyczàce rozstrzygni´cia post´powania do Prezesa Funduszu za poÊrednictwem dyrektora oddzia∏u wojewódzkiego Funduszu. Odwo∏anie wniesione po terminie nie podlega rozpatrzeniu.
+1. Âwiadczeniodawca biorący udział w postępowaniu może złożyć, w terminie 7 dni od dnia ogłoszenia o rozstrzygnięciu postępowania, odwołanie dotyczące rozstrzygnięcia postępowania do Prezesa Funduszu za pośrednictwem dyrektora oddziału wojewódzkiego Funduszu. Odwołanie wniesione po terminie nie podlega rozpatrzeniu.
 
-2. Wniesienie odwo∏ania wstrzymuje zawarcie umowy do czasu jego rozpatrzenia.
+2. Wniesienie odwołania wstrzymuje zawarcie umowy do czasu jego rozpatrzenia.
 
-3. Dyrektor oddzia∏u wojewódzkiego Funduszu mo˝e uwzgl´dniç odwo∏anie w terminie 7 dni od dnia jego z∏o˝enia iudzieliç pisemnej odpowiedzi sk∏adajàcemu odwo∏anie.
+3. Dyrektor oddziału wojewódzkiego Funduszu może uwzględnić odwołanie w terminie 7 dni od dnia jego złożenia iudzielić pisemnej odpowiedzi składającemu odwołanie.
 
-4. W przypadku nieuwzgl´dnienia odwo∏ania dyrektor oddzia∏u wojewódzkiego Funduszu przekazuje odwo∏anie niezw∏ocznie, nie póêniej ni˝ w terminie 2 dni od up∏ywu terminu, októrym mowa wust. 3, do Prezesa Funduszu.
+4. W przypadku nieuwzględnienia odwołania dyrektor oddziału wojewódzkiego Funduszu przekazuje odwołanie niezwłocznie, nie póêniej niż w terminie 2 dni od upływu terminu, októrym mowa wust. 3, do Prezesa Funduszu.
 
-5. Informacj´ o wniesieniu odwo∏ania i jego rozstrzygni´ciu niezw∏ocznie zamieszcza si´ na tablicy og∏oszeƒ oraz na stronie internetowej w∏aÊciwego oddzia∏u wojewódzkiego Funduszu.
+5. Informację o wniesieniu odwołania i jego rozstrzygnięciu niezwłocznie zamieszcza się na tablicy ogłoszeń oraz na stronie internetowej właściwego oddziału wojewódzkiego Funduszu.
 
-6. Prezes Funduszu rozpatruje odwo∏anie, wterminie 14 dni od dnia jego otrzymania, i wydaje decyzj´ administracyjnà wtej sprawie. Decyzja Prezesa podlega natychmiastowemu wykonaniu.
+6. Prezes Funduszu rozpatruje odwołanie, wterminie 14 dni od dnia jego otrzymania, i wydaje decyzję administracyjną wtej sprawie. Decyzja Prezesa podlega natychmiastowemu wykonaniu.
 
-7. Wprzypadku uwzgl´dnienia odwo∏ania przeprowadza si´ ponownie post´powanie w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej. Do ponownie przeprowadzanego post´powania stosuje si´ odpowiednio art. 144 pkt 1 oraz art. 145.
+7. Wprzypadku uwzględnienia odwołania przeprowadza się ponownie postępowanie w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej. Do ponownie przeprowadzanego postępowania stosuje się odpowiednio art. 144 pkt 1 oraz art. 145.
 
-8. Od decyzji, októrej mowa wust. 6, Êwiadczeniodawcy przys∏uguje skarga do sàdu administracyjnego.
+8. Od decyzji, októrej mowa wust. 6, świadczeniodawcy przysługuje skarga do sądu administracyjnego.
 
 **Art. 155.**
 
-1. Do umów oudzielanie Êwiadczeƒ opieki zdrowotnej stosuje si´ przepisy Kodeksu cywilnego, je˝eli przepisy ustawy nie stanowià inaczej.
+1. Do umów oudzielanie świadczeń opieki zdrowotnej stosuje się przepisy Kodeksu cywilnego, jeżeli przepisy ustawy nie stanowią inaczej.
 
-2. Umowa o udzielanie Êwiadczeƒ opieki zdrowotnej jest niewa˝na, je˝eli zawarto jà zoferentem, którego oferta podlega∏a odrzuceniu z przyczyn wskazanych w ustawie, lub zawarto jà w wyniku post´powania, które zosta∏o uniewa˝nione.
+2. Umowa o udzielanie świadczeń opieki zdrowotnej jest nieważna, jeżeli zawarto ją zoferentem, którego oferta podlegała odrzuceniu z przyczyn wskazanych w ustawie, lub zawarto ją w wyniku postępowania, które zostało unieważnione.
 
-3. Umowa o udzielanie Êwiadczeƒ opieki zdrowotnej jest niewa˝na w cz´Êci wykraczajàcej poza przedmiot post´powania w sprawie zawarcia tej umowy.
+3. Umowa o udzielanie świadczeń opieki zdrowotnej jest nieważna w części wykraczającej poza przedmiot postępowania w sprawie zawarcia tej umowy.
 
-4. Umowa o udzielanie Êwiadczeƒ opieki zdrowotgni´ciu niezw∏ocznie zamieszcza si´ na tablicy og∏onej wymaga formy pisemnej pod rygorem niewa˝noÊci.
+4. Umowa o udzielanie świadczeń opieki zdrowotgnięciu niezwłocznie zamieszcza się na tablicy ogłonej wymaga formy pisemnej pod rygorem nieważności.
 
-5. Je˝eli umowa o udzielanie Êwiadczeƒ opieki zdrowotnej nie stanowi inaczej, przeniesienie na osob´ trzecià praw i obowiàzków wynikajàcych z umowy wymaga pisemnej zgody dyrektora oddzia∏u wojewódzkiego Funduszu.
+5. Jeżeli umowa o udzielanie świadczeń opieki zdrowotnej nie stanowi inaczej, przeniesienie na osobę trzecią praw i obowiązków wynikających z umowy wymaga pisemnej zgody dyrektora oddziału wojewódzkiego Funduszu.
 
 **Art. 156.**
 
-1. Umowa o udzielanie Êwiadczeƒ opieki zdrowotnej nie mo˝e byç zawarta na czas nieoznaczony. Zawarcie umowy na czas d∏u˝szy ni˝ 3 lata wymaga zgody Prezesa Funduszu.
+1. Umowa o udzielanie świadczeń opieki zdrowotnej nie może być zawarta na czas nieoznaczony. Zawarcie umowy na czas dłuższy niż 3 lata wymaga zgody Prezesa Funduszu.
 
-2. W przypadku zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej na okres d∏u˝szy ni˝ rok Êwiadczeniodawca przez okres obowiàzywania umowy nie mo˝e ubiegaç si´ o zawarcie nowej umowy o udzielanie Êwiadczeƒ opieki zdrowotnej w tym samym zakresie i dotyczàcej tego samego przedmiotu. Nie dotyczy to przypadku, gdy spe∏nione sà przes∏anki do zawarcia umowy okreÊlone w art. 144 pkt 2 lub 3.
+2. W przypadku zawarcia umowy o udzielanie świadczeń opieki zdrowotnej na okres dłuższy niż rok świadczeniodawca przez okres obowiązywania umowy nie może ubiegać się o zawarcie nowej umowy o udzielanie świadczeń opieki zdrowotnej w tym samym zakresie i dotyczącej tego samego przedmiotu. Nie dotyczy to przypadku, gdy spełnione są przesłanki do zawarcia umowy określone w art. 144 pkt 2 lub 3.
 
-**Art. 157.** Do zmiany umowy nie stosuje si´ przepisów o post´powaniu w sprawie zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej.
+**Art. 157.** Do zmiany umowy nie stosuje się przepisów o postępowaniu w sprawie zawarcia umowy o udzielanie świadczeń opieki zdrowotnej.
 
 **Art. 158.**
 
-1. Niewa˝na jest zmiana zawartej umowy, je˝eli dotyczy ona warunków, które podlega∏y ocenie przy wyborze oferty, chyba ˝e koniecznoÊç wprowadzenia takich zmian wynika zokolicznoÊci, których nie mo˝na by∏o przewidzieç w chwili zawarcia umowy.
+1. Nieważna jest zmiana zawartej umowy, jeżeli dotyczy ona warunków, które podlegały ocenie przy wyborze oferty, chyba że konieczność wprowadzenia takich zmian wynika zokoliczności, których nie można było przewidzieć w chwili zawarcia umowy.
 
-2. W przypadku koniecznoÊci wprowadzenia zmian, o których mowa w ust. 1, umowa w nowym brzmieniu obowiàzuje do czasu zapewnienia Êwiadczeƒ na podstawie nowego post´powania w sprawie zawarcia umowy. Nowe post´powanie przeprowadza si´ niezw∏ocznie.
+2. W przypadku konieczności wprowadzenia zmian, o których mowa w ust. 1, umowa w nowym brzmieniu obowiązuje do czasu zapewnienia świadczeń na podstawie nowego postępowania w sprawie zawarcia umowy. Nowe postępowanie przeprowadza się niezwłocznie.
 
 **Art. 159.**
 
-1. Przepisów art. 136 pkt 5 oraz przepisów dotyczàcych konkursu ofert i rokowaƒ nie stosuje si´ do zawierania umów ze Êwiadczeniodawcami:
+1. Przepisów art. 136 pkt 5 oraz przepisów dotyczących konkursu ofert i rokowań nie stosuje się do zawierania umów ze świadczeniodawcami:
 
-- **1)** udzielajàcymi Êwiadczeƒ w zakresie podstawowej opieki zdrowotnej;
-- **2)** wykonujàcymi czynnoÊci w zakresie zaopatrzenia w Êrodki pomocnicze i wyroby medyczne b´dàce przedmiotami ortopedycznymi.
+- **1)** udzielającymi świadczeń w zakresie podstawowej opieki zdrowotnej;
+- **2)** wykonującymi czynności w zakresie zaopatrzenia w środki pomocnicze i wyroby medyczne będące przedmiotami ortopedycznymi.
 
-2. Wprzypadkach, októrych mowa wust. 1, zawiera si´ umow´ ze Êwiadczeniodawcà spe∏niajàcym warunki do zawarcia umowy okreÊlone przez Prezesa Funduszu.
+2. Wprzypadkach, októrych mowa wust. 1, zawiera się umowę ze świadczeniodawcą spełniającym warunki do zawarcia umowy określone przez Prezesa Funduszu.
 
-3. Dyrektor oddzia∏u wojewódzkiego Funduszu zamieszcza na stronie internetowej w∏aÊciwego oddzia∏u wojewódzkiego Funduszu oraz udost´pnia wsiedzibie tego oddzia∏u informacje o warunkach zawarcia umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, o których mowa w ust. 2.
+3. Dyrektor oddziału wojewódzkiego Funduszu zamieszcza na stronie internetowej właściwego oddziału wojewódzkiego Funduszu oraz udostępnia wsiedzibie tego oddziału informacje o warunkach zawarcia umowy o udzielanie świadczeń opieki zdrowotnej, o których mowa w ust. 2.
 
-4. Fundusz informuje o zabezpieczeniu Êwiadczeƒ opieki zdrowotnej, o których mowa w ust. 1, poprzez zamieszczenie informacji na stronie internetowej w∏a5. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owe wymagania, jakim powinien odpowiadaç lokal podmiotu wykonujàcego czynnoÊci z zakresu zaopatrzenia w Êrodki pomocnicze i wyroby medyczne b´dàce przedmiotami ortopedycznymi, w szczególnoÊci okreÊlajàc jego organizacj´ i wyposa˝enie, uwzgl´dniajàc rodzaj wykonywanych czynnoÊci oraz zapewnienie dost´pnoÊci dla Êwiadczeniobiorców.
+4. Fundusz informuje o zabezpieczeniu świadczeń opieki zdrowotnej, o których mowa w ust. 1, poprzez zamieszczenie informacji na stronie internetowej wła5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe wymagania, jakim powinien odpowiadać lokal podmiotu wykonującego czynności z zakresu zaopatrzenia w środki pomocnicze i wyroby medyczne będące przedmiotami ortopedycznymi, w szczególności określając jego organizację i wyposażenie, uwzględniając rodzaj wykonywanych czynności oraz zapewnienie dostępności dla świadczeniobiorców.
 
-**Art. 160.** Âwiadczeniodawcy, który zawar∏ umow´ oudzielanie Êwiadczeƒ opieki zdrowotnej, przys∏uguje za˝alenie na czynnoÊci dyrektora wojewódzkiego oddzia∏u Funduszu dotyczàce realizacji umowy.
+**Art. 160.** Âwiadczeniodawcy, który zawarł umowę oudzielanie świadczeń opieki zdrowotnej, przysługuje zażalenie na czynności dyrektora wojewódzkiego oddziału Funduszu dotyczące realizacji umowy.
 
 **Art. 161.**
 
-1. Za˝alenie, o którym mowa w art. 160, rozpatruje, wterminie 14 dni od dnia jego otrzymania, Prezes Funduszu.
+1. Zażalenie, o którym mowa w art. 160, rozpatruje, wterminie 14 dni od dnia jego otrzymania, Prezes Funduszu.
 
-2. Za˝alenie, o którym mowa w ust. 1, sk∏ada si´ wraz z uzasadnieniem za poÊrednictwem w∏aÊciwego miejscowo oddzia∏u wojewódzkiego Funduszu.
+2. Zażalenie, o którym mowa w ust. 1, składa się wraz z uzasadnieniem za pośrednictwem właściwego miejscowo oddziału wojewódzkiego Funduszu.
 
-3. W przypadku nieuwzgl´dnienia za˝alenia przez Prezesa Funduszu Êwiadczeniodawcy przys∏uguje wniosek o ponowne rozpatrzenie. Wniosek ten jest rozpatrywany niezw∏ocznie przez Prezesa Funduszu. Za˝alenie na ponowne rozpatrzenie nie przys∏uguje. DZIA¸ VII Nadzór
+3. W przypadku nieuwzględnienia zażalenia przez Prezesa Funduszu świadczeniodawcy przysługuje wniosek o ponowne rozpatrzenie. Wniosek ten jest rozpatrywany niezwłocznie przez Prezesa Funduszu. Zażalenie na ponowne rozpatrzenie nie przysługuje. DZIAĘ VII Nadzór
 
 **Art. 162.**
 
-1. Nadzór nad dzia∏alnoÊcià Funduszu sprawuje minister w∏aÊciwy do spraw zdrowia.
+1. Nadzór nad działalnością Funduszu sprawuje minister właściwy do spraw zdrowia.
 
-2. Na zasadach przewidzianych wustawie iprzepisach szczególnych nadzór w zakresie gospodarki finansowej Funduszu sprawuje minister w∏aÊciwy do spraw finansów publicznych, stosujàc kryterium legalnoÊci, rzetelnoÊci, celowoÊci i gospodarnoÊci.
+2. Na zasadach przewidzianych wustawie iprzepisach szczególnych nadzór w zakresie gospodarki finansowej Funduszu sprawuje minister właściwy do spraw finansów publicznych, stosując kryterium legalności, rzetelności, celowości i gospodarności.
 
 **Art. 163.**
 
-1. Minister w∏aÊciwy do spraw zdrowia sprawuje nadzór, stosujàc kryterium legalnoÊci, rzetelnoÊci i celowoÊci, nad dzia∏alnoÊcià: Êciwego oddzia∏u wojewódzkiego Funduszu.
+1. Minister właściwy do spraw zdrowia sprawuje nadzór, stosując kryterium legalności, rzetelności i celowości, nad działalnością: ściwego oddziału wojewódzkiego Funduszu.
 
 - **1)** Funduszu;
-- **2)** Êwiadczeniodawców, w zakresie realizacji umów z Funduszem;
-- **3)** podmiotów, którym Fundusz powierzy∏ wykonywanie niektórych czynnoÊci;
+- **2)** świadczeniodawców, w zakresie realizacji umów z Funduszem;
+- **3)** podmiotów, którym Fundusz powierzył wykonywanie niektórych czynności;
 - **4)** aptek, w zakresie refundacji leków.
 
-2. Minister w∏aÊciwy do spraw zdrowia bada uchwa∏y przyjmowane przez Rad´ Funduszu oraz decyzje podejmowane przez Prezesa Funduszu i stwierdza niewa˝noÊç uchwa∏y lub decyzji, w ca∏oÊci lub w cz´Êci, w przypadku gdy:
+2. Minister właściwy do spraw zdrowia bada uchwały przyjmowane przez Radę Funduszu oraz decyzje podejmowane przez Prezesa Funduszu i stwierdza nieważność uchwały lub decyzji, w całości lub w części, w przypadku gdy:
 
 - **1)** narusza ona prawo lub
-- **2)** prowadzi do niew∏aÊciwego zabezpieczenia Êwiadczeƒ opieki zdrowotnej, lub
-- **3)** prowadzi do niezrównowa˝enia wp∏ywów iwydatków Funduszu.
+- **2)** prowadzi do niewłaściwego zabezpieczenia świadczeń opieki zdrowotnej, lub
+- **3)** prowadzi do niezrównoważenia wpływów iwydatków Funduszu.
 
-3. Podj´cie przez ministra w∏aÊciwego do spraw zdrowia decyzji wsprawach, októrych mowa wust. 2, wymaga pozytywnej opinii ministra w∏aÊciwego do spraw finansów publicznych wzakresie, októrym mowa w ust. 2 pkt 3.
+3. Podjęcie przez ministra właściwego do spraw zdrowia decyzji wsprawach, októrych mowa wust. 2, wymaga pozytywnej opinii ministra właściwego do spraw finansów publicznych wzakresie, októrym mowa w ust. 2 pkt 3.
 
-4. Uchwa∏y Rady Funduszu i decyzje Prezesa Funduszu Prezes Funduszu przekazuje ministrowi w∏aÊciwemu do spraw zdrowia niezw∏ocznie, nie póêniej ni˝ w ciàgu 3 dni roboczych od dnia ich podj´cia.
+4. Uchwały Rady Funduszu i decyzje Prezesa Funduszu Prezes Funduszu przekazuje ministrowi właściwemu do spraw zdrowia niezwłocznie, nie póêniej niż w ciągu 3 dni roboczych od dnia ich podjęcia.
 
-5. Przepisów ust. 2—4 nie stosuje si´ do post´powania w sprawie zatwierdzenia planu finansowego, uchwa∏ dotyczàcych sprawozdania finansowego, sprawozdaƒ z wykonania planu finansowego oraz decyzji wydanych w wyniku wniesienia odwo∏ania w trakcie post´powania o zawarcie umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, w indywidualnych sprawach z ubezpieczenia zdrowotnego oraz w sprawach wynikajàcych z pe∏nienia funkcji pracodawcy w rozumieniu przepisów Kodeksu pracy.
+5. Przepisów ust. 2—4 nie stosuje się do postępowania w sprawie zatwierdzenia planu finansowego, uchwał dotyczących sprawozdania finansowego, sprawozdań z wykonania planu finansowego oraz decyzji wydanych w wyniku wniesienia odwołania w trakcie postępowania o zawarcie umowy o udzielanie świadczeń opieki zdrowotnej, w indywidualnych sprawach z ubezpieczenia zdrowotnego oraz w sprawach wynikających z pełnienia funkcji pracodawcy w rozumieniu przepisów Kodeksu pracy.
 
 **Art. 164.**
 
-1. Minister w∏aÊciwy do spraw zdrowia mo˝e badaç decyzje podejmowane przez dyrektora oddzia∏u wojewódzkiego Funduszu oraz uchwa∏y podejmowane przez rad´ oddzia∏u wojewódzkiego Funduszu.
+1. Minister właściwy do spraw zdrowia może badać decyzje podejmowane przez dyrektora oddziału wojewódzkiego Funduszu oraz uchwały podejmowane przez radę oddziału wojewódzkiego Funduszu.
 
-2. Przepisy art. 163 ust. 2, 3 i 5 stosuje si´ odpowiednio.
+2. Przepisy art. 163 ust. 2, 3 i 5 stosuje się odpowiednio.
 
 **Art. 165.**
 
-1. W ramach nadzoru minister w∏aÊciwy do spraw zdrowia jest uprawniony w szczególnoÊci do:
+1. W ramach nadzoru minister właściwy do spraw zdrowia jest uprawniony w szczególności do:
 
-- **1)** ˝àdania udost´pnienia mu przez Fundusz dokumentów zwiàzanych z dzia∏alnoÊcià Funduszu lub ich kopii oraz zapoznawania si´ z ich treÊcià;
-- **2)** ˝àdania przekazania wszelkich informacji i wyjaÊnieƒ, dotyczàcych dzia∏alnoÊci Funduszu, od Rady Funduszu, Prezesa i zast´pców Prezesa Funduszu, rad oddzia∏ów wojewódzkich Funduszu, dyrektorów oddzia∏ów wojewódzkich Funduszu, pracowników Funduszu oraz innych osób wykonujàcych prac´ na rzecz Funduszu na podstawie umowy zlecenia, umowy o dzie∏o albo innej umowy, do której zgodnie z Kodeksem cywilnym stosuje si´ przepisy dotyczàce zlecenia;
-- **3)** ˝àdania udost´pnienia przez Êwiadczeniodawc´ wszelkich informacji, dokumentów i wyjaÊnieƒ, dotyczàcych realizacji umowy o udzielanie Êwiadczeƒ opieki zdrowotnej;
-- **4)** ˝àdania udost´pnienia przez podmiot, o którym mowa wart. 163 ust. 1 pkt 3, wszelkich informacji, dokumentów i wyjaÊnieƒ, dotyczàcych czynnoÊci wykonywanych na rzecz Funduszu.
+- **1)** żądania udostępnienia mu przez Fundusz dokumentów związanych z działalnością Funduszu lub ich kopii oraz zapoznawania się z ich treścią;
+- **2)** żądania przekazania wszelkich informacji i wyjaśnień, dotyczących działalności Funduszu, od Rady Funduszu, Prezesa i zastępców Prezesa Funduszu, rad oddziałów wojewódzkich Funduszu, dyrektorów oddziałów wojewódzkich Funduszu, pracowników Funduszu oraz innych osób wykonujących pracę na rzecz Funduszu na podstawie umowy zlecenia, umowy o dzieło albo innej umowy, do której zgodnie z Kodeksem cywilnym stosuje się przepisy dotyczące zlecenia;
+- **3)** żądania udostępnienia przez świadczeniodawcę wszelkich informacji, dokumentów i wyjaśnień, dotyczących realizacji umowy o udzielanie świadczeń opieki zdrowotnej;
+- **4)** żądania udostępnienia przez podmiot, o którym mowa wart. 163 ust. 1 pkt 3, wszelkich informacji, dokumentów i wyjaśnień, dotyczących czynności wykonywanych na rzecz Funduszu.
 
-2. Minister w∏aÊciwy do spraw zdrowia, przedstawiajàc pisemne ˝àdanie, o którym mowa w ust. 1,
+2. Minister właściwy do spraw zdrowia, przedstawiając pisemne żądanie, o którym mowa w ust. 1,
 
-3. W razie stwierdzenia, na podstawie uzyskanych informacji, wyjaÊnieƒ i dokumentów, o których mowa w ust. 1, przypadków naruszeƒ prawa, statutu lub interesu Êwiadczeniobiorców minister w∏aÊciwy do spraw zdrowia powiadamia Fundusz, Êwiadczeniodawc´ i podmiot, o którym mowa w art. 163 ust. 1 pkt 3, ostwierdzonych nieprawid∏owoÊciach oraz wydaje zalecenia majàce na celu usuni´cie stwierdzonych nieprawid∏owoÊci i dostosowanie dzia∏alnoÊci powiadamianego podmiotu do przepisów prawa, wyznaczajàc termin do usuni´cia stwierdzonych nieprawid∏owoÊci i dostosowania dzia∏alnoÊci do przepisów prawa.
+3. W razie stwierdzenia, na podstawie uzyskanych informacji, wyjaśnień i dokumentów, o których mowa w ust. 1, przypadków naruszeń prawa, statutu lub interesu świadczeniobiorców minister właściwy do spraw zdrowia powiadamia Fundusz, świadczeniodawcę i podmiot, o którym mowa w art. 163 ust. 1 pkt 3, ostwierdzonych nieprawidłowościach oraz wydaje zalecenia mające na celu usunięcie stwierdzonych nieprawidłowości i dostosowanie działalności powiadamianego podmiotu do przepisów prawa, wyznaczając termin do usunięcia stwierdzonych nieprawidłowości i dostosowania działalności do przepisów prawa.
 
-4. W przypadku gdy zosta∏ z∏o˝ony wniosek o ponowne rozpatrzenie sprawy, termin do usuni´cia nieprawid∏owoÊci, o którym mowa w ust. 3, liczy si´ od dnia dor´czenia decyzji po rozpatrzeniu wniosku.
+4. W przypadku gdy został złożony wniosek o ponowne rozpatrzenie sprawy, termin do usunięcia nieprawidłowości, o którym mowa w ust. 3, liczy się od dnia doręczenia decyzji po rozpatrzeniu wniosku.
 
-5. W terminie 3 dni od dnia up∏ywu terminu wyznaczonego do usuni´cia nieprawid∏owoÊci Fundusz, Êwiadczeniodawca, podmiot, o którym mowa wskazuje termin jego wykonania. w art. 163 ust. 1 pkt 3, lub osoba trzecia informuje pisemnie ministra w∏aÊciwego do spraw zdrowia osposobie usuni´cia nieprawid∏owoÊci.
+5. W terminie 3 dni od dnia upływu terminu wyznaczonego do usunięcia nieprawidłowości Fundusz, świadczeniodawca, podmiot, o którym mowa wskazuje termin jego wykonania. w art. 163 ust. 1 pkt 3, lub osoba trzecia informuje pisemnie ministra właściwego do spraw zdrowia osposobie usunięcia nieprawidłowości.
 
 **Art. 166.**
 
-1. W razie nieusuni´cia przez Fundusz w wyznaczonym terminie nieprawid∏owoÊci, minister w∏aÊciwy do spraw zdrowia mo˝e wystàpiç do:
+1. W razie nieusunięcia przez Fundusz w wyznaczonym terminie nieprawidłowości, minister właściwy do spraw zdrowia może wystąpić do:
 
-- **1)** Prezesa Rady Ministrów o odwo∏anie wszystkich cz∏onków Rady Funduszu, je˝eli nieprawid∏owoÊci dotyczà zakresu dzia∏ania Rady Funduszu albo Rada Funduszu nie podj´∏a uchwa∏y oodwo∏aniu Prezesa lub zast´pców Prezesa Funduszu, a nieprawid∏owoÊci w dzia∏alnoÊci Funduszu nie zosta∏y usuni´te;
-- **2)** Rady Funduszu o odwo∏anie Prezesa Funduszu lub zast´pców Prezesa Funduszu, je˝eli nieprawid∏owoÊci dotyczà zakresu ich dzia∏ania;
-- **3)** Prezesa Funduszu o odwo∏anie dyrektora oddzia∏u wojewódzkiego Funduszu, je˝eli nieprawid∏owoÊci dotyczà zakresu jego dzia∏ania.
+- **1)** Prezesa Rady Ministrów o odwołanie wszystkich członków Rady Funduszu, jeżeli nieprawidłowości dotyczą zakresu działania Rady Funduszu albo Rada Funduszu nie podjęła uchwały oodwołaniu Prezesa lub zastępców Prezesa Funduszu, a nieprawidłowości w działalności Funduszu nie zostały usunięte;
+- **2)** Rady Funduszu o odwołanie Prezesa Funduszu lub zastępców Prezesa Funduszu, jeżeli nieprawidłowości dotyczą zakresu ich działania;
+- **3)** Prezesa Funduszu o odwołanie dyrektora oddziału wojewódzkiego Funduszu, jeżeli nieprawidłowości dotyczą zakresu jego działania.
 
-2. Wprzypadkach, októrych mowa wust. 1, wciàgu 30 dni od dnia odwo∏ania:
+2. Wprzypadkach, októrych mowa wust. 1, wciągu 30 dni od dnia odwołania:
 
-- **1)** Prezes Rady Ministrów powo∏uje nowych cz∏onków Rady Funduszu na pe∏nà kadencj´, z zachowaniem wymagaƒ okreÊlonych w art. 99 ust. 1, 5 i 6;
-- **2)** Rada Funduszu powo∏uje Prezesa Funduszu oraz zast´pców Prezesa Funduszu, z zachowaniem odpowiednio wymagaƒ okreÊlonych w art. 103 ust. 2, 3 i 6;
-- **3)** Prezes Funduszu powo∏uje nowego dyrektora oddzia∏u wojewódzkiego Funduszu na pe∏nà kadencj´, z zachowaniem wymagaƒ okreÊlonych w art. 107 ust. 2 i 3.
+- **1)** Prezes Rady Ministrów powołuje nowych członków Rady Funduszu na pełną kadencję, z zachowaniem wymagań określonych w art. 99 ust. 1, 5 i 6;
+- **2)** Rada Funduszu powołuje Prezesa Funduszu oraz zastępców Prezesa Funduszu, z zachowaniem odpowiednio wymagań określonych w art. 103 ust. 2, 3 i 6;
+- **3)** Prezes Funduszu powołuje nowego dyrektora oddziału wojewódzkiego Funduszu na pełną kadencję, z zachowaniem wymagań określonych w art. 107 ust. 2 i 3.
 
-3. Wprzypadkach, októrych mowa wust. 1, odpowiednio cz∏onkowie Rady Funduszu, Prezes Funduszu, zast´pcy Prezesa Funduszu, rada oddzia∏u wojewódzkiego Funduszu oraz dyrektor oddzia∏u wojewódzkiego Funduszu wykonujà jedynie czynnoÊci niezb´dne do zapewnienia ciàg∏oÊci dzia∏ania Funduszu.
+3. Wprzypadkach, októrych mowa wust. 1, odpowiednio członkowie Rady Funduszu, Prezes Funduszu, zastępcy Prezesa Funduszu, rada oddziału wojewódzkiego Funduszu oraz dyrektor oddziału wojewódzkiego Funduszu wykonują jedynie czynności niezbędne do zapewnienia ciągłości działania Funduszu.
 
-**Art. 167.** W przypadku naruszenia prawa, statutu lub interesów Êwiadczeniobiorców, atak˝e wprzypadku odmowy udzielenia wyjaÊnieƒ i informacji, o których mowa wart. 128 ust. 5 iwart. 165 ust. 1, minister w∏aÊciwy do spraw zdrowia mo˝e na∏o˝yç na Prezesa Funduszu lub zast´pc´ Prezesa Funduszu albo dyrektora oddzia∏u wojewódzkiego Funduszu, odpowiedzialnego za te naruszenia lub nieudzielanie wyjaÊnieƒ iinformacji, kar´ pieni´˝nà wwysokoÊci do trzykrotnego miesi´cznego wynagrodzenia tej osoby, wyliczonego na podstawie wynagrodzenia za ostatnie 3 miesiàce poprzedzajàce miesiàc, w którym na∏o˝ono kar´, niezale˝nie od innych Êrodków nadzoru przewidzianych przepisami prawa.
+**Art. 167.** W przypadku naruszenia prawa, statutu lub interesów świadczeniobiorców, atakże wprzypadku odmowy udzielenia wyjaśnień i informacji, o których mowa wart. 128 ust. 5 iwart. 165 ust. 1, minister właściwy do spraw zdrowia może nałożyć na Prezesa Funduszu lub zastępcę Prezesa Funduszu albo dyrektora oddziału wojewódzkiego Funduszu, odpowiedzialnego za te naruszenia lub nieudzielanie wyjaśnień iinformacji, karę pieniężną wwysokości do trzykrotnego miesięcznego wynagrodzenia tej osoby, wyliczonego na podstawie wynagrodzenia za ostatnie 3 miesiące poprzedzające miesiąc, w którym nałożono karę, niezależnie od innych środków nadzoru przewidzianych przepisami prawa.
 
 **Art. 168.**
 
-1. Minister w∏aÊciwy do spraw zdrowia mo˝e ˝àdaç pisemnie niezw∏ocznego rozpatrzenia sprawy przez Rad´ Funduszu, Prezesa Funduszu, zast´pców Prezesa Funduszu, rad´ oddzia∏u wojewódzkiego Funduszu lub dyrektorów oddzia∏ów wojewódzkich Funduszu, je˝eli uzna to za konieczne do prawid∏owego sprawowania nadzoru nad dzia∏alnoÊcià Funduszu.
+1. Minister właściwy do spraw zdrowia może żądać pisemnie niezwłocznego rozpatrzenia sprawy przez Radę Funduszu, Prezesa Funduszu, zastępców Prezesa Funduszu, radę oddziału wojewódzkiego Funduszu lub dyrektorów oddziałów wojewódzkich Funduszu, jeżeli uzna to za konieczne do prawidłowego sprawowania nadzoru nad działalnością Funduszu.
 
-2. W przypadkach, o których mowa w ust. 1, minister w∏aÊciwy do spraw zdrowia bierze udzia∏ albo deleguje swojego przedstawiciela do udzia∏u w posiedzeniu podmiotów, októrych mowa wust. 1. Minister w∏aÊciwy do spraw zdrowia albo jego przedstawiciel jest uprawniony do zabierania g∏osu w sprawach obj´tych porzàdkiem obrad tych podmiotów.
+2. W przypadkach, o których mowa w ust. 1, minister właściwy do spraw zdrowia bierze udział albo deleguje swojego przedstawiciela do udziału w posiedzeniu podmiotów, októrych mowa wust. 1. Minister właściwy do spraw zdrowia albo jego przedstawiciel jest uprawniony do zabierania głosu w sprawach objętych porządkiem obrad tych podmiotów.
 
-3. Minister w∏aÊciwy do spraw zdrowia mo˝e wystàpiç z pisemnym ˝àdaniem, o którym mowa w ust. 1, okreÊlajàc termin, przed którego up∏ywem posiedzenie podmiotów, októrych mowa wust. 1, powinno si´ odbyç.
+3. Minister właściwy do spraw zdrowia może wystąpić z pisemnym żądaniem, o którym mowa w ust. 1, określając termin, przed którego upływem posiedzenie podmiotów, októrych mowa wust. 1, powinno się odbyć.
 
-4. Podmioty, o których mowa w ust. 1, sà obowiàzane niezw∏ocznie poinformowaç ministra w∏aÊciwego do spraw zdrowia o ustalonym terminie i miejscu posiedzenia.
+4. Podmioty, o których mowa w ust. 1, są obowiązane niezwłocznie poinformować ministra właściwego do spraw zdrowia o ustalonym terminie i miejscu posiedzenia.
 
-5. Je˝eli w ciàgu 7 dni od dnia dor´czenia wezwania termin posiedzenia nie zostanie ustalony, zostanie ustalony z naruszeniem terminu okreÊlonego w wezwaniu lub minister w∏aÊciwy do spraw zdrowia nie zostanie poinformowany oustalonym terminie imiejscu posiedzenia, minister mo˝e zwo∏aç posiedzenie podmiotów, októrych mowa wust. 1, na koszt Funduszu.
+5. Jeżeli w ciągu 7 dni od dnia doręczenia wezwania termin posiedzenia nie zostanie ustalony, zostanie ustalony z naruszeniem terminu określonego w wezwaniu lub minister właściwy do spraw zdrowia nie zostanie poinformowany oustalonym terminie imiejscu posiedzenia, minister może zwołać posiedzenie podmiotów, októrych mowa wust. 1, na koszt Funduszu.
 
-6. Uprawnienia ministra w∏aÊciwego do spraw zdrowia okreÊlone wust. 1—5 przys∏ugujà równie˝ ministrowi w∏aÊciwemu do spraw finansów publicznych. Minister w∏aÊciwy do spraw finansów publicznych i minister w∏aÊciwy do spraw zdrowia informujà si´ wzajemnie o wystàpieniu z ˝àdaniem zwo∏ania posiedzenia, o którym mowa w ust. 1, oraz o podj´tych
+6. Uprawnienia ministra właściwego do spraw zdrowia określone wust. 1—5 przysługują również ministrowi właściwemu do spraw finansów publicznych. Minister właściwy do spraw finansów publicznych i minister właściwy do spraw zdrowia informują się wzajemnie o wystąpieniu z żądaniem zwołania posiedzenia, o którym mowa w ust. 1, oraz o podjętych
 
 **Art. 169.**
 
-1. Uprawnienia ministra w∏aÊciwego do spraw zdrowia okreÊlone wart. 165 przys∏ugujà odpowiednio ministrowi w∏aÊciwemu do spraw finansów publicznych, w zakresie nadzoru nad gospodarkà finansowà Funduszu.
+1. Uprawnienia ministra właściwego do spraw zdrowia określone wart. 165 przysługują odpowiednio ministrowi właściwemu do spraw finansów publicznych, w zakresie nadzoru nad gospodarką finansową Funduszu.
 
-2. Uprawnienia ministra w∏aÊciwego do spraw zdrowia okreÊlone w art. 166—168 przys∏ugujà odpowiednio ministrowi w∏aÊciwemu do spraw finansów publicznych, w szczególnoÊci w przypadku:
+2. Uprawnienia ministra właściwego do spraw zdrowia określone w art. 166—168 przysługują odpowiednio ministrowi właściwemu do spraw finansów publicznych, w szczególności w przypadku:
 
-- **1)** dzia∏aƒ powodujàcych niezrównowa˝enie wp∏ywów z wydatkami Funduszu;
+- **1)** działań powodujących niezrównoważenie wpływów z wydatkami Funduszu;
 - **2)** niezatwierdzenia sprawozdania finansowego Funduszu;
 - **3)** niezatwierdzenia rocznego sprawozdania z wykonania planu finansowego Funduszu;
-- **4)** przekroczenia terminów, o których mowa w rozdziale 2 dzia∏u V— zwy∏àczeniem przepisów dotyczàcych planu finansowego Funduszu;
-- **5)** nieprawid∏owoÊci w zakresie sprawozdaƒ, o których mowa w art. 131 ust. 1.
+- **4)** przekroczenia terminów, o których mowa w rozdziale 2 działu V— zwyłączeniem przepisów dotyczących planu finansowego Funduszu;
+- **5)** nieprawidłowości w zakresie sprawozdań, o których mowa w art. 131 ust. 1.
 
-**Art. 170.** Wrazie nieusuni´cia wwyznaczonym terminie przez Êwiadczeniodawc´ lub podmiot, októrym mowa wart. 163 ust. 1 pkt 3, stwierdzonych nieprawid∏owoÊci, minister w∏aÊciwy do spraw zdrowia mo˝e na∏o˝yç na te podmioty kar´ pieni´˝nà w wysokoÊci do miesi´cznej wartoÊci umowy ∏àczàcej te podmioty z Funduszem, której dotyczà nieprawid∏owoÊci.
+**Art. 170.** Wrazie nieusunięcia wwyznaczonym terminie przez świadczeniodawcę lub podmiot, októrym mowa wart. 163 ust. 1 pkt 3, stwierdzonych nieprawidłowości, minister właściwy do spraw zdrowia może nałożyć na te podmioty karę pieniężną w wysokości do miesięcznej wartości umowy łączącej te podmioty z Funduszem, której dotyczą nieprawidłowości.
 
-**Art. 171.** W przypadku stwierdzenia na podstawie uzyskanych informacji, wyjaÊnieƒ lub dokumentów, októrych mowa wart. 165 ust. 1, ra˝àcego naruszenia prawa lub ra˝àcego naruszenia interesu Êwiadczeniobiorców przez Êwiadczeniodawc´ lub podmiot, o którym mowa w art. 163 ust. 1 pkt 3, minister w∏aÊciwy do spraw zdrowia mo˝e na∏o˝yç na te podmioty kar´ pieni´˝nà w wysokoÊci do miesi´cznej wartoÊci umowy ∏àczàcej te podmioty z Funduszem, której dotyczà nieprawid∏owoÊci, bezpoÊrednio po stwierdzeniu tych naruszeƒ.
+**Art. 171.** W przypadku stwierdzenia na podstawie uzyskanych informacji, wyjaśnień lub dokumentów, októrych mowa wart. 165 ust. 1, rażącego naruszenia prawa lub rażącego naruszenia interesu świadczeniobiorców przez świadczeniodawcę lub podmiot, o którym mowa w art. 163 ust. 1 pkt 3, minister właściwy do spraw zdrowia może nałożyć na te podmioty karę pieniężną w wysokości do miesięcznej wartości umowy łączącej te podmioty z Funduszem, której dotyczą nieprawidłowości, bezpośrednio po stwierdzeniu tych naruszeń.
 
-**Art. 172.** W przypadkach okreÊlonych w art. 170 i 171 minister w∏aÊciwy do spraw zdrowia mo˝e wystàpiç do dyrektora oddzia∏u wojewódzkiego Funduszu o rozwiàzanie umowy ze Êwiadczeniodawcà albo podmiotem, o którym mowa w art. 163 ust. 1 pkt 3.
+**Art. 172.** W przypadkach określonych w art. 170 i 171 minister właściwy do spraw zdrowia może wystąpić do dyrektora oddziału wojewódzkiego Funduszu o rozwiązanie umowy ze świadczeniodawcą albo podmiotem, o którym mowa w art. 163 ust. 1 pkt 3.
 
 **Art. 173.**
 
-1. Minister w∏aÊciwy do spraw zdrowia mo˝e przeprowadziç w ka˝dym czasie kontrol´:
+1. Minister właściwy do spraw zdrowia może przeprowadzić w każdym czasie kontrolę:
 
-- **1)** dzia∏alnoÊci i stanu majàtkowego Funduszu, w celu sprawdzenia, czy dzia∏alnoÊç Funduszu jest zgodna zprawem, statutem Funduszu lub zinteresem Êwiadczeniobiorców;
-- **2)** Êwiadczeniodawców, w zakresie zgodnoÊci ich dzia∏alnoÊci zumowà oudzielanie Êwiadczeƒ opiedzia∏aniach. ki zdrowotnej lub z interesem Êwiadczeniobiorców;
-- **3)** podmiotów, o których mowa w art. 163 ust. 1 pkt 3, w zakresie wywiàzywania si´ z umowy zawartej z Funduszem.
+- **1)** działalności i stanu majątkowego Funduszu, w celu sprawdzenia, czy działalność Funduszu jest zgodna zprawem, statutem Funduszu lub zinteresem świadczeniobiorców;
+- **2)** świadczeniodawców, w zakresie zgodności ich działalności zumową oudzielanie świadczeń opiedziałaniach. ki zdrowotnej lub z interesem świadczeniobiorców;
+- **3)** podmiotów, o których mowa w art. 163 ust. 1 pkt 3, w zakresie wywiązywania się z umowy zawartej z Funduszem.
 
-2. Przy przeprowadzaniu kontroli minister w∏aÊciwy do spraw zdrowia mo˝e korzystaç zus∏ug podmiotów uprawnionych do badania sprawozdaƒ finansowych oraz podmiotów uprawnionych do kontroli jakoÊci i kosztów Êwiadczeƒ opieki zdrowotnej finansowanych przez Fundusz. Przepisy art. 64 ust. 3 i 4 stosuje si´ odpowiednio.
+2. Przy przeprowadzaniu kontroli minister właściwy do spraw zdrowia może korzystać zusług podmiotów uprawnionych do badania sprawozdań finansowych oraz podmiotów uprawnionych do kontroli jakości i kosztów świadczeń opieki zdrowotnej finansowanych przez Fundusz. Przepisy art. 64 ust. 3 i 4 stosuje się odpowiednio.
 
-3. Minister w∏aÊciwy do spraw zdrowia wupowa˝nieniu do prowadzenia kontroli okreÊla przedmiot izakres kontroli oraz wskazuje pracownika ministerstwa obs∏ugujàcego ministra w∏aÊciwego do spraw zdrowia, uprawnionego do przeprowadzenia kontroli, zwanego dalej „kontrolerem”.
+3. Minister właściwy do spraw zdrowia wupoważnieniu do prowadzenia kontroli określa przedmiot izakres kontroli oraz wskazuje pracownika ministerstwa obsługującego ministra właściwego do spraw zdrowia, uprawnionego do przeprowadzenia kontroli, zwanego dalej Ńkontrolerem”.
 
-4. Jednostka kontrolowana obowiàzana jest do przedk∏adania kontrolerowi ˝àdanej dokumentacji oraz udzielania wszelkich informacji i pomocy niezb´dnych w zwiàzku z prowadzonà kontrolà.
+4. Jednostka kontrolowana obowiązana jest do przedkładania kontrolerowi żądanej dokumentacji oraz udzielania wszelkich informacji i pomocy niezbędnych w związku z prowadzoną kontrolą.
 
-5. Kontroler nie mo˝e byç jednoczeÊnie:
+5. Kontroler nie może być jednocześnie:
 
 - **1)** pracownikiem Funduszu;
-- **2)** w∏aÊcicielem zak∏adu opieki zdrowotnej b´dàcego Êwiadczeniodawcà, októrym mowa wart. 5 pkt 41 lit. a, który zawar∏ umow´ o udzielanie Êwiadczeƒ opieki zdrowotnej;
-- **3)** Êwiadczeniodawcà, który zawar∏ umow´ oudzielanie Êwiadczeƒ opieki zdrowotnej;
-- **4)** pracownikiem Êwiadczeniodawcy, októrym mowa w pkt 3;
-- **5)** osobà wspó∏pracujàcà ze Êwiadczeniodawcà, o którym mowa w pkt 3;
-- **6)** cz∏onkiem organów lub pracownikiem podmiotu, który utworzy∏ zak∏ad opieki zdrowotnej;
-- **7)** cz∏onkiem organów zak∏adu ubezpieczeƒ prowadzàcego dzia∏alnoÊç ubezpieczeniowà na podstawie ustawy z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej (Dz. U. 124, poz. 1151 oraz z 2004 r. 91, poz. 870 i 96, poz. 959).
+- **2)** właścicielem zakładu opieki zdrowotnej będącego świadczeniodawcą, októrym mowa wart. 5 pkt 41 lit. a, który zawarł umowę o udzielanie świadczeń opieki zdrowotnej;
+- **3)** świadczeniodawcą, który zawarł umowę oudzielanie świadczeń opieki zdrowotnej;
+- **4)** pracownikiem świadczeniodawcy, októrym mowa w pkt 3;
+- **5)** osobą współpracującą ze świadczeniodawcą, o którym mowa w pkt 3;
+- **6)** członkiem organów lub pracownikiem podmiotu, który utworzył zakład opieki zdrowotnej;
+- **7)** członkiem organów zakładu ubezpieczeń prowadzącego działalność ubezpieczeniową na podstawie ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. 124, poz. 1151 oraz z 2004 r. 91, poz. 870 i 96, poz. 959).
 
-6. Kontroler podlega wy∏àczeniu od udzia∏u wkontroli z mocy ustawy, je˝eli:
+6. Kontroler podlega wyłączeniu od udziału wkontroli z mocy ustawy, jeżeli:
 
-- **1)** pozostaje z jednostkà kontrolowanà w takim stosunku prawnym lub faktycznym, ˝e wynik kontroli mo˝e mieç wp∏yw na jego prawa lub obowiàzki;
-- **2)** kontrola dotyczy jego ma∏˝onka lub krewnych ipowinowatych do drugiego stopnia;
-- **3)** kontrola dotyczy osoby zwiàzanej z nim z tytu∏u przysposobienia, opieki lub kurateli.
+- **1)** pozostaje z jednostką kontrolowaną w takim stosunku prawnym lub faktycznym, że wynik kontroli może mieć wpływ na jego prawa lub obowiązki;
+- **2)** kontrola dotyczy jego małżonka lub krewnych ipowinowatych do drugiego stopnia;
+- **3)** kontrola dotyczy osoby związanej z nim z tytułu przysposobienia, opieki lub kurateli.
 
-7. Powody wy∏àczenia, o których mowa w ust. 6, trwajà tak˝e po ustaniu uzasadniajàcego je ma∏˝eƒ8. Niezale˝nie od przyczyn wymienionych w ust. 6 minister w∏aÊciwy do spraw zdrowia wy∏àcza kontrolera na jego ˝àdanie lub na wniosek jednostki kontrolowanej, je˝eli mi´dzy nim a jednostkà kontrolowanà zachodzi stosunek osobisty tego rodzaju, ˝e móg∏by wywo∏aç wàtpliwoÊci co do bezstronnoÊci kontrolera.
+7. Powody wyłączenia, o których mowa w ust. 6, trwają także po ustaniu uzasadniającego je małżeń8. Niezależnie od przyczyn wymienionych w ust. 6 minister właściwy do spraw zdrowia wyłącza kontrolera na jego żądanie lub na wniosek jednostki kontrolowanej, jeżeli między nim a jednostką kontrolowaną zachodzi stosunek osobisty tego rodzaju, że mógłby wywołać wątpliwości co do bezstronności kontrolera.
 
-9. Wy∏àczony kontroler powinien podejmowaç tylko czynnoÊci niecierpiàce zw∏oki ze wzgl´du na interes spo∏eczny lub wa˝ny interes jednostki kontrolowanej.
+9. Wyłączony kontroler powinien podejmować tylko czynności niecierpiące zwłoki ze względu na interes społeczny lub ważny interes jednostki kontrolowanej.
 
-10. Przepisy ust. 1—9 stosuje si´ do kontroli przeprowadzanej przez ministra w∏aÊciwego do spraw finansów publicznych.
+10. Przepisy ust. 1—9 stosuje się do kontroli przeprowadzanej przez ministra właściwego do spraw finansów publicznych.
 
 **Art. 174.**
 
 1. Wyniki przeprowadzonej kontroli kontroler przedstawia w protokole kontroli.
 
-2. Protokó∏ kontroli zawiera opis stanu faktycznego stwierdzonego w toku kontroli dzia∏alnoÊci jednostki kontrolowanej, w tym ustalonych nieprawid∏owoÊci, z uwzgl´dnieniem przyczyn powstania, zakresu i skutków tych nieprawid∏owoÊci oraz osób za nie odpowiedzialnych.
+2. Protokół kontroli zawiera opis stanu faktycznego stwierdzonego w toku kontroli działalności jednostki kontrolowanej, w tym ustalonych nieprawidłowości, z uwzględnieniem przyczyn powstania, zakresu i skutków tych nieprawidłowości oraz osób za nie odpowiedzialnych.
 
-3. Protokó∏ kontroli podpisujà kontroler ikierownik jednostki kontrolowanej, a w razie jego nieobecnoÊci osoba przez niego upowa˝niona.
+3. Protokół kontroli podpisują kontroler ikierownik jednostki kontrolowanej, a w razie jego nieobecności osoba przez niego upoważniona.
 
 **Art. 175.**
 
-1. Kierownikowi jednostki kontrolowanej lub osobie przez niego upowa˝nionej przys∏uguje prawo zg∏oszenia, przed podpisaniem protoko∏u kontroli, umotywowanych zastrze˝eƒ co do ustaleƒ zawartych w protokole.
+1. Kierownikowi jednostki kontrolowanej lub osobie przez niego upoważnionej przysługuje prawo zgłoszenia, przed podpisaniem protokołu kontroli, umotywowanych zastrzeżeń co do ustaleń zawartych w protokole.
 
-2. Zastrze˝enia nale˝y zg∏osiç na piÊmie wterminie 14 dni od dnia otrzymania protoko∏u kontroli.
+2. Zastrzeżenia należy zgłosić na piśmie wterminie 14 dni od dnia otrzymania protokołu kontroli.
 
-3. W razie zg∏oszenia zastrze˝eƒ, o których mowa w ust. 1, kontroler jest obowiàzany dokonaç ich analizy i w miar´ potrzeby podjàç dodatkowe czynnoÊci kontrolne, a w przypadku stwierdzenia zasadnoÊci zastrze˝eƒ zmieniç lub uzupe∏niç odpowiednià cz´Êç protoko∏u kontroli. stwa, przysposobienia, opieki i kurateli.
+3. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 1, kontroler jest obowiązany dokonać ich analizy i w miarę potrzeby podjąć dodatkowe czynności kontrolne, a w przypadku stwierdzenia zasadności zastrzeżeń zmienić lub uzupełnić odpowiednią część protokołu kontroli. stwa, przysposobienia, opieki i kurateli.
 
-4. W razie nieuwzgl´dnienia zastrze˝eƒ w ca∏oÊci lub wcz´Êci kontroler przekazuje na piÊmie swoje stanowisko zg∏aszajàcemu zastrze˝enia.
+4. W razie nieuwzględnienia zastrzeżeń w całości lub wczęści kontroler przekazuje na piśmie swoje stanowisko zgłaszającemu zastrzeżenia.
 
 **Art. 176.**
 
-1. Kierownik jednostki kontrolowanej lub osoba przez niego upowa˝niona mo˝e w terminie 7 dni od dnia otrzymania stanowiska, októrym mowa w art. 175 ust. 4, zg∏osiç na piÊmie umotywowane zastrze˝enia do ministra w∏aÊciwego do spraw zdrowia.
+1. Kierownik jednostki kontrolowanej lub osoba przez niego upoważniona może w terminie 7 dni od dnia otrzymania stanowiska, októrym mowa w art. 175 ust. 4, zgłosić na piśmie umotywowane zastrzeżenia do ministra właściwego do spraw zdrowia.
 
-2. Minister w∏aÊciwy do spraw zdrowia rozpatruje niezw∏ocznie zastrze˝enia i dor´cza informacj´ o ich rozpatrzeniu, wraz z uzasadnieniem, zg∏aszajàcemu zastrze˝enia.
+2. Minister właściwy do spraw zdrowia rozpatruje niezwłocznie zastrzeżenia i doręcza informację o ich rozpatrzeniu, wraz z uzasadnieniem, zgłaszającemu zastrzeżenia.
 
 **Art. 177.**
 
-1. Kierownik jednostki kontrolowanej lub osoba przez niego upowa˝niona mo˝e odmówiç podpisania protoko∏u kontroli, sk∏adajàc w terminie 7 dni od jego otrzymania pisemne wyjaÊnienie tej odmowy.
+1. Kierownik jednostki kontrolowanej lub osoba przez niego upoważniona może odmówić podpisania protokołu kontroli, składając w terminie 7 dni od jego otrzymania pisemne wyjaśnienie tej odmowy.
 
-2. Wrazie zg∏oszenia zastrze˝eƒ termin do z∏o˝enia wyjaÊnienia oodmowie podpisania protoko∏u liczy si´ od dnia otrzymania ostatecznej decyzji wsprawie rozpatrzenia tych zastrze˝eƒ.
+2. Wrazie zgłoszenia zastrzeżeń termin do złożenia wyjaśnienia oodmowie podpisania protokołu liczy się od dnia otrzymania ostatecznej decyzji wsprawie rozpatrzenia tych zastrzeżeń.
 
-3. O odmowie podpisania protoko∏u kontroli i z∏o˝eniu wyjaÊnienia kontroler czyni wzmiank´ w protokole.
+3. O odmowie podpisania protokołu kontroli i złożeniu wyjaśnienia kontroler czyni wzmiankę w protokole.
 
-4. Odmowa podpisania protoko∏u kontroli przez osob´ wymienionà wust. 1 nie stanowi przeszkody do podpisania protoko∏u przez kontrolera irealizacji ustaleƒ kontroli.
+4. Odmowa podpisania protokołu kontroli przez osobę wymienioną wust. 1 nie stanowi przeszkody do podpisania protokołu przez kontrolera irealizacji ustaleń kontroli.
 
 **Art. 178.**
 
-1. Minister w∏aÊciwy do spraw zdrowia sporzàdza wystàpienie pokontrolne, które przekazuje kierownikowi jednostki kontrolowanej.
+1. Minister właściwy do spraw zdrowia sporządza wystąpienie pokontrolne, które przekazuje kierownikowi jednostki kontrolowanej.
 
-2. Wystàpienie pokontrolne zawiera ocen´ kontrolowanej dzia∏alnoÊci wynikajàcà z ustaleƒ opisanych w protokole kontroli, a tak˝e zalecenia majàce na celu usuni´cie stwierdzonych nieprawid∏owoÊci i dostosowanie dzia∏alnoÊci jednostki kontrolowanej do przepisów prawa.
+2. Wystąpienie pokontrolne zawiera ocenę kontrolowanej działalności wynikającą z ustaleń opisanych w protokole kontroli, a także zalecenia mające na celu usunięcie stwierdzonych nieprawidłowości i dostosowanie działalności jednostki kontrolowanej do przepisów prawa.
 
-3. Kierownik jednostki kontrolowanej lub osoba przez niego upowa˝niona sà obowiàzani, w terminie 14 dni od dnia otrzymania wystàpienia pokontrolnego, do poinformowania ministra w∏aÊciwego do spraw zdrowia o sposobie wykorzystania uwag i wykonania wniosków pokontrolnych oraz o podj´tych dzia∏aniach lub przyczynach niepodj´cia tych dzia∏aƒ.
+3. Kierownik jednostki kontrolowanej lub osoba przez niego upoważniona są obowiązani, w terminie 14 dni od dnia otrzymania wystąpienia pokontrolnego, do poinformowania ministra właściwego do spraw zdrowia o sposobie wykorzystania uwag i wykonania wniosków pokontrolnych oraz o podjętych działaniach lub przyczynach niepodjęcia tych działań.
 
-4. W razie niewykonania zaleceƒ, o których mowa w ust. 2, przepisy art. 166—171 stosuje si´ odpowiednio.
+4. W razie niewykonania zaleceń, o których mowa w ust. 2, przepisy art. 166—171 stosuje się odpowiednio.
 
 **Art. 179.**
 
-1. Kierownik jednostki kontrolowanej lub osoba przez niego upowa˝niona, w ciàgu 7 dni od dnia otrzymania wystàpienia pokontrolnego, mo˝e odwo∏aç si´ do ministra w∏aÊciwego do spraw zdrowia od zawartych w wystàpieniu pokontrolnym ocen, uwag, wniosków i zaleceƒ.
+1. Kierownik jednostki kontrolowanej lub osoba przez niego upoważniona, w ciągu 7 dni od dnia otrzymania wystąpienia pokontrolnego, może odwołać się do ministra właściwego do spraw zdrowia od zawartych w wystąpieniu pokontrolnym ocen, uwag, wniosków i zaleceń.
 
-2. Minister w∏aÊciwy do spraw zdrowia rozpatruje odwo∏anie w ciàgu 14 dni od dnia jego otrzymania i zajmuje stanowisko.
+2. Minister właściwy do spraw zdrowia rozpatruje odwołanie w ciągu 14 dni od dnia jego otrzymania i zajmuje stanowisko.
 
-3. Stanowisko ministra w∏aÊciwego do spraw zdrowia jest ostateczne i wraz z uzasadnieniem jest dor´czane jednostce kontrolowanej.
+3. Stanowisko ministra właściwego do spraw zdrowia jest ostateczne i wraz z uzasadnieniem jest doręczane jednostce kontrolowanej.
 
-**Art. 180.** Minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych okreÊli, wdrodze rozporzàdzenia, szczegó∏owy sposób i tryb przeprowadzania kontroli, uwzgl´dniajàc w∏aÊciwà realizacj´ celów kontroli oraz zapewnienie jej szybkoÊci i skutecznoÊci.
+**Art. 180.** Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, wdrodze rozporządzenia, szczegółowy sposób i tryb przeprowadzania kontroli, uwzględniając właściwą realizację celów kontroli oraz zapewnienie jej szybkości i skuteczności.
 
 **Art. 181.**
 
-1. Do post´powania przed ministrem w∏aÊciwym do spraw zdrowia w zakresie nadzoru stosuje si´ przepisy Kodeksu post´powania administracyjne2. W sprawach, o których mowa w art. 163 ust. 2 i3, art. 164, 165 ust. 3, art. 167, 170 i171, minister w∏aÊciwy do spraw zdrowia wydaje decyzje administracyjne.
+1. Do postępowania przed ministrem właściwym do spraw zdrowia w zakresie nadzoru stosuje się przepisy Kodeksu postępowania administracyjne2. W sprawach, o których mowa w art. 163 ust. 2 i3, art. 164, 165 ust. 3, art. 167, 170 i171, minister właściwy do spraw zdrowia wydaje decyzje administracyjne.
 
 **Art. 182.**
 
-1. Do post´powania przed ministrem w∏aÊciwym do spraw finansów publicznych w zakresie nadzoru nad gospodarkà finansowà Funduszu stosuje si´ przepisy Kodeksu post´powania administracyjnego, chyba ˝e ustawa stanowi inaczej.
+1. Do postępowania przed ministrem właściwym do spraw finansów publicznych w zakresie nadzoru nad gospodarką finansową Funduszu stosuje się przepisy Kodeksu postępowania administracyjnego, chyba że ustawa stanowi inaczej.
 
-2. W sprawach, o których mowa w art. 169, minister w∏aÊciwy do spraw finansów publicznych wydaje decyzje administracyjne.
+2. W sprawach, o których mowa w art. 169, minister właściwy do spraw finansów publicznych wydaje decyzje administracyjne.
 
 **Art. 183.**
 
-1. Kary pieni´˝ne, o których mowa w art. 167, 170 i 171, podlegajà egzekucji w trybie przepisów o post´powaniu egzekucyjnym w administracji.
+1. Kary pieniężne, o których mowa w art. 167, 170 i 171, podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
-2. Przy ustalaniu wysokoÊci kary pieni´˝nej nak∏adanej na podstawie przepisów ustawy minister w∏aÊciwy do spraw zdrowia jest obowiàzany uwzgl´dniaç rodzaj i wag´ stwierdzonych nieprawid∏owoÊci.
+2. Przy ustalaniu wysokości kary pieniężnej nakładanej na podstawie przepisów ustawy minister właściwy do spraw zdrowia jest obowiązany uwzględniać rodzaj i wagę stwierdzonych nieprawidłowości.
 
-3. Od decyzji wsprawie kar pieni´˝nych przys∏uguje skarga do sàdu administracyjnego.
+3. Od decyzji wsprawie kar pieniężnych przysługuje skarga do sądu administracyjnego.
 
-**Art. 184.** Od decyzji administracyjnych, o których mowa w niniejszym dziale, przys∏uguje skarga do sàdu administracyjnego.
+**Art. 184.** Od decyzji administracyjnych, o których mowa w niniejszym dziale, przysługuje skarga do sądu administracyjnego.
 
-**Art. 185.** Minister w∏aÊciwy do spraw zdrowia powiadamia podmiot, który utworzy∏ zak∏ad opieki zdrowotnej, o nieprawid∏owoÊciach stwierdzonych u Êwiadczeniodawcy oraz wydanych decyzjach majàcych na celu usuni´cie stwierdzonych nieprawid∏owoÊci idostosowanie dzia∏alnoÊci podmiotu, którego dotyczy decyzja, do przepisów prawa.
+**Art. 185.** Minister właściwy do spraw zdrowia powiadamia podmiot, który utworzył zakład opieki zdrowotnej, o nieprawidłowościach stwierdzonych u świadczeniodawcy oraz wydanych decyzjach mających na celu usunięcie stwierdzonych nieprawidłowości idostosowanie działalności podmiotu, którego dotyczy decyzja, do przepisów prawa.
 
-**Art. 186.** Osoby wykonujàce w imieniu ministra w∏aÊciwego do spraw zdrowia lub ministra w∏aÊciwego do spraw finansów publicznych czynnoÊci nadzoru nad Funduszem nie mogà:
+**Art. 186.** Osoby wykonujące w imieniu ministra właściwego do spraw zdrowia lub ministra właściwego do spraw finansów publicznych czynności nadzoru nad Funduszem nie mogą:
 
 **Art. 187.**
 
-1. Prezes Funduszu przedstawia corocznie ministrowi w∏aÊciwemu do spraw zdrowia oraz ministrowi w∏aÊciwemu do spraw finansów publicznych, nie póêniej ni˝ do dnia 30 kwietnia roku nast´pnego, przyj´te przez Rad´ Funduszu sprawozdanie z dzia∏alnoÊci Funduszu.
+1. Prezes Funduszu przedstawia corocznie ministrowi właściwemu do spraw zdrowia oraz ministrowi właściwemu do spraw finansów publicznych, nie póêniej niż do dnia 30 kwietnia roku następnego, przyjęte przez Radę Funduszu sprawozdanie z działalności Funduszu.
 
-2. Minister w∏aÊciwy do spraw zdrowia przedstawia corocznie Sejmowi, nie póêniej ni˝ do koƒca lipca roku nast´pnego, sprawozdanie z dzia∏alnoÊci Funduszu, o którym mowa w ust. 1, po zaopiniowaniu tego sprawozdania przez ministra w∏aÊciwego do spraw finansów publicznych, wraz ze stanowiskiem wsprawie tego sprawozdania. DZIA¸ VIII Przetwarzanie i ochrona danych
+2. Minister właściwy do spraw zdrowia przedstawia corocznie Sejmowi, nie póêniej niż do końca lipca roku następnego, sprawozdanie z działalności Funduszu, o którym mowa w ust. 1, po zaopiniowaniu tego sprawozdania przez ministra właściwego do spraw finansów publicznych, wraz ze stanowiskiem wsprawie tego sprawozdania. DZIAĘ VIII Przetwarzanie i ochrona danych
 
 **Art. 188.**
 
 1. Fundusz jest uprawniony do uzyskiwania i przetwarzania danych osobowych ubezpieczonych w celu:
 
-- **1)** stwierdzenia istnienia obowiàzku ubezpieczenia zdrowotnego;
-- **2)** wystawienia dokumentów uprawniajàcych do korzystania ze Êwiadczeƒ finansowanych przez Fundusz;
-- **3)** stwierdzenia obowiàzku p∏acenia sk∏adki i ustalenia kwoty sk∏adki;
-- **4)** kontroli rodzaju, zakresu i przyczyny udzielanych Êwiadczeƒ;
-- **5)** rozliczenia ze Êwiadczeniodawcami;
-- **6)** rozliczenia z innymi instytucjami lub osobami w zakresie ich zobowiàzaƒ wobec Funduszu;
-- **7)** kontroli przestrzegania zasad legalnoÊci, gospodarnoÊci, rzetelnoÊci i celowoÊci finansowania udzielanych Êwiadczeƒ zdrowotnych;
-- **8)** monitorowania stanu zdrowia i zapotrzebowania ubezpieczonych na Êwiadczenia zdrowotne oraz leki i wyroby medyczne.
+- **1)** stwierdzenia istnienia obowiązku ubezpieczenia zdrowotnego;
+- **2)** wystawienia dokumentów uprawniających do korzystania ze świadczeń finansowanych przez Fundusz;
+- **3)** stwierdzenia obowiązku płacenia składki i ustalenia kwoty składki;
+- **4)** kontroli rodzaju, zakresu i przyczyny udzielanych świadczeń;
+- **5)** rozliczenia ze świadczeniodawcami;
+- **6)** rozliczenia z innymi instytucjami lub osobami w zakresie ich zobowiązań wobec Funduszu;
+- **7)** kontroli przestrzegania zasad legalności, gospodarności, rzetelności i celowości finansowania udzielanych świadczeń zdrowotnych;
+- **8)** monitorowania stanu zdrowia i zapotrzebowania ubezpieczonych na świadczenia zdrowotne oraz leki i wyroby medyczne.
 
-2. Fundusz jest uprawniony do uzyskiwania iprzetwarzania danych osobowych osób uprawnionych do Êwiadczeƒ opieki zdrowotnej na podstawie przepisów o koordynacji w celu:
+2. Fundusz jest uprawniony do uzyskiwania iprzetwarzania danych osobowych osób uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji w celu:
 
-- **1)** potwierdzenia uprawnieƒ do Êwiadczeƒ opieki zdrowotnej;
-- **2)** rozliczania kosztów Êwiadczeƒ opieki zdrowotnej udzielonych osobom uprawnionym na podstawie przepisów o koordynacji;
-- **3)** rozliczania z innymi instytucjami lub osobami w zakresie ponoszonych przez Êwiadczeniodawców iFundusz kosztów Êwiadczeƒ opieki zdrowotnej;
+- **1)** potwierdzenia uprawnień do świadczeń opieki zdrowotnej;
+- **2)** rozliczania kosztów świadczeń opieki zdrowotnej udzielonych osobom uprawnionym na podstawie przepisów o koordynacji;
+- **3)** rozliczania z innymi instytucjami lub osobami w zakresie ponoszonych przez świadczeniodawców iFundusz kosztów świadczeń opieki zdrowotnej;
 - **4)** kontroli rodzaju, zakresu i przyczyny udzielanych
-- **5)** kontroli przestrzegania zasad legalnoÊci, gospodarnoÊci, rzetelnoÊci i celowoÊci finansowania udzielanych Êwiadczeƒ opieki zdrowotnej.
+- **5)** kontroli przestrzegania zasad legalności, gospodarności, rzetelności i celowości finansowania udzielanych świadczeń opieki zdrowotnej.
 
-3. Minister w∏aÊciwy do spraw zdrowia jest uprawniony do uzyskiwania i przetwarzania danych osobowych:
+3. Minister właściwy do spraw zdrowia jest uprawniony do uzyskiwania i przetwarzania danych osobowych:
 
 - **1)** osób ubezpieczonych, w celu, o którym mowa w ust. 1 pkt 4—8;
-- **2)** osób uprawnionych do Êwiadczeƒ opieki zdrowotnej na podstawie przepisów o koordynacji, w celu okreÊlonym w ust. 2 pkt 2 i 3.
+- **2)** osób uprawnionych do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji, w celu określonym w ust. 2 pkt 2 i 3.
 
-4. Dla realizacji zadaƒ, októrych mowa wust. 1—3, minister w∏aÊciwy do spraw zdrowia i Fundusz majà prawo do przetwarzania nast´pujàcych danych:
+4. Dla realizacji zadań, októrych mowa wust. 1—3, minister właściwy do spraw zdrowia i Fundusz mają prawo do przetwarzania następujących danych:
 
-- **1)** nazwisko i imi´ (imiona);
+- **1)** nazwisko i imię (imiona);
 - **2)** nazwisko rodowe;
 - **3)** data urodzenia;
-- **4)** p∏eç;
+- **4)** płeć;
 - **5)** obywatelstwo;
 - **6)** stan cywilny;
 - **7)** numer PESEL;
 - **8)** numer NIP w przypadku osób, którym nadano ten numer;
-- **9)** seria i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzajàcego to˝samoÊç w przypadku osób, które nie majà nadanego numeru PESEL lub numeru NIP;
+- **9)** seria i numer dowodu osobistego, paszportu lub innego dokumentu stwierdzającego tożsamość w przypadku osób, które nie mają nadanego numeru PESEL lub numeru NIP;
 - **10)** adres zamieszkania;
-- **11)** adres czasowego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, je˝eli dana osoba nie ma na terytorium Rzeczypospolitej Polskiej miejsca zamieszkania;
+- **11)** adres czasowego miejsca pobytu na terytorium Rzeczypospolitej Polskiej, jeżeli dana osoba nie ma na terytorium Rzeczypospolitej Polskiej miejsca zamieszkania;
 - **12)** numer ubezpieczenia;
-- **13)** stopieƒ pokrewieƒstwa z op∏acajàcym sk∏adk´;
-- **14)** stopieƒ niepe∏nosprawnoÊci wprzypadku cz∏onka rodziny;
-- **15)** rodzaj uprawnieƒ oraz numer i termin wa˝noÊci dokumentu potwierdzajàcego uprawnienia osób, o których mowa w art. 44 ust. 1 i art. 45 ust. 1, a tak˝e osób posiadajàcych na podstawie odr´bnych przepisów szersze uprawnienia do Êwiadczeƒ zdrowotnych lub produktów leczniczych ni˝ wynikajàce z ustawy;
-- **16)** dotyczàce udzielonych Êwiadczeƒ opieki zdrowotnej Êwiadczeniobiorcom, o których mowa w art. 13 ust. 1; Êwiadczeƒ;
-- **17)** przyczyn udzielonych Êwiadczeƒ opieki zdrowotnej;
-- **18)** nazwa instytucji w∏aÊciwej osoby uprawnionej do Êwiadczeƒ opieki zdrowotnej na podstawie przepisów o koordynacji;
-- **19)** dane dotyczàce lekarza lub felczera wystawiajàcego recept´ na refundowane leki lub wyroby medyczne;
-- **20)** dane dotyczàce Êwiadczeniodawcy zatrudniajàcego lekarza lub felczera, o którym mowa w pkt 19;
-- **21)** dane dotyczàce apteki realizujàcej recept´ na refundowane leki i wyroby medyczne.
+- **13)** stopień pokrewieństwa z opłacającym składkę;
+- **14)** stopień niepełnosprawności wprzypadku członka rodziny;
+- **15)** rodzaj uprawnień oraz numer i termin ważności dokumentu potwierdzającego uprawnienia osób, o których mowa w art. 44 ust. 1 i art. 45 ust. 1, a także osób posiadających na podstawie odrębnych przepisów szersze uprawnienia do świadczeń zdrowotnych lub produktów leczniczych niż wynikające z ustawy;
+- **16)** dotyczące udzielonych świadczeń opieki zdrowotnej świadczeniobiorcom, o których mowa w art. 13 ust. 1; świadczeń;
+- **17)** przyczyn udzielonych świadczeń opieki zdrowotnej;
+- **18)** nazwa instytucji właściwej osoby uprawnionej do świadczeń opieki zdrowotnej na podstawie przepisów o koordynacji;
+- **19)** dane dotyczące lekarza lub felczera wystawiającego receptę na refundowane leki lub wyroby medyczne;
+- **20)** dane dotyczące świadczeniodawcy zatrudniającego lekarza lub felczera, o którym mowa w pkt 19;
+- **21)** dane dotyczące apteki realizującej receptę na refundowane leki i wyroby medyczne.
 
-5. Âwiadczeniodawcy dzia∏ajàcy w ramach umów zFunduszem obowiàzani sà do gromadzenia iprzekazywania Funduszowi danych dotyczàcych udzielanych Êwiadczeƒ zdrowotnych.
+5. Âwiadczeniodawcy działający w ramach umów zFunduszem obowiązani są do gromadzenia iprzekazywania Funduszowi danych dotyczących udzielanych świadczeń zdrowotnych.
 
-6. Rada Ministrów mo˝e okreÊliç, w drodze rozporzàdzenia, osoby spoÊród wymienionych w art. 66 ust. 1 pkt 2—9, wobec których zuwagi na koniecznoÊç zapewnienia form i metod realizacji zadaƒ stanowiàcych tajemnic´ paƒstwowà stosuje si´ odr´bny tryb przetwarzania danych, o których mowa w ust. 4. Rozporzàdzenie powinno w szczególnoÊci okreÊlaç dane osobowe, które b´dà przetwarzane, sposób ich przetwarzania oraz podmiot uprawniony do ich gromadzenia i przetwarzania.
+6. Rada Ministrów może określić, w drodze rozporządzenia, osoby spośród wymienionych w art. 66 ust. 1 pkt 2—9, wobec których zuwagi na konieczność zapewnienia form i metod realizacji zadań stanowiących tajemnicę państwową stosuje się odrębny tryb przetwarzania danych, o których mowa w ust. 4. Rozporządzenie powinno w szczególności określać dane osobowe, które będą przetwarzane, sposób ich przetwarzania oraz podmiot uprawniony do ich gromadzenia i przetwarzania.
 
 **Art. 189.**
 
-1. Apteki sà obowiàzane udost´pniaç do kontroli na ˝àdanie podmiotu zobowiàzanego do finansowania Êwiadczeƒ ze Êrodków publicznych do wglàdu recepty i przekazywaç niezb´dne dane, o których mowa w art. 190 ust. 2.
+1. Apteki są obowiązane udostępniać do kontroli na żądanie podmiotu zobowiązanego do finansowania świadczeń ze środków publicznych do wglądu recepty i przekazywać niezbędne dane, o których mowa w art. 190 ust. 2.
 
-2. Âwiadczeniodawcy, którzy zawarli umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, sà obowiàzani do gromadzenia i przekazywania Funduszowi danych, o których mowa w art. 190 ust. 1.
+2. Âwiadczeniodawcy, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej, są obowiązani do gromadzenia i przekazywania Funduszowi danych, o których mowa w art. 190 ust. 1.
 
-3. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Naczelnej Rady Aptekarskiej, okreÊli, wdrodze rozporzàdzenia, tryb udost´pniania podmiotowi, o którym mowa w ust. 1, do kontroli recept zrealizowanych przez Êwiadczeniobiorców i zwiàzanych z tym informacji, uwzgl´dniajàc potrzeb´ ochrony danych osobowych.
+3. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Naczelnej Rady Aptekarskiej, określi, wdrodze rozporządzenia, tryb udostępniania podmiotowi, o którym mowa w ust. 1, do kontroli recept zrealizowanych przez świadczeniobiorców i związanych z tym informacji, uwzględniając potrzebę ochrony danych osobowych.
 
 **Art. 190.**
 
-1. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa G∏ównego Urz´du Statystycznego, Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Piel´gniarek i Po∏o˝nych, okreÊli, w drodze rozporzàdzenia, zakres niezb´dnych informacji gromadzonych przez Êwiadczeniodawców, szczegó∏owy sposób rejestrowania tych informacji oraz ich przekazywania ministrowi w∏aÊciwemu do spraw zdrowia, Funduszowi lub innemu podmiotowi zobowiàzanemu do finansowania Êwiadczeƒ ze Êrodków publicznych, w tym tak˝e rodzaje wykorzystywanych noÊników informacji oraz wzory dokumentów, bioràc pod uwag´ zakres zadaƒ wykonywanych przez te podmioty oraz uwzgl´dniajàc potrzeb´ ochrony danych osobowych.
+1. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, Prezesa Funduszu, Naczelnej Rady Lekarskiej i Naczelnej Rady Pielęgniarek i Położnych, określi, w drodze rozporządzenia, zakres niezbędnych informacji gromadzonych przez świadczeniodawców, szczegółowy sposób rejestrowania tych informacji oraz ich przekazywania ministrowi właściwemu do spraw zdrowia, Funduszowi lub innemu podmiotowi zobowiązanemu do finansowania świadczeń ze środków publicznych, w tym także rodzaje wykorzystywanych nośników informacji oraz wzory dokumentów, biorąc pod uwagę zakres zadań wykonywanych przez te podmioty oraz uwzględniając potrzebę ochrony danych osobowych.
 
-2. Minister w∏aÊciwy do spraw zdrowia, po zasi´tekarskiej, okreÊli, w drodze rozporzàdzenia, zakres niezb´dnych informacji gromadzonych przez apteki i sposób ich rejestrowania oraz zakres informacji i sposób ich przekazywania podmiotom zobowiàzanym do finansowania Êwiadczeƒ ze Êrodków publicznych, w tym tak˝e rodzaje wykorzystywanych noÊników informacji iwzory dokumentów, bioràc pod uwag´ zakres zadaƒ wykonywanych przez te podmioty.
+2. Minister właściwy do spraw zdrowia, po zasiętekarskiej, określi, w drodze rozporządzenia, zakres niezbędnych informacji gromadzonych przez apteki i sposób ich rejestrowania oraz zakres informacji i sposób ich przekazywania podmiotom zobowiązanym do finansowania świadczeń ze środków publicznych, w tym także rodzaje wykorzystywanych nośników informacji iwzory dokumentów, biorąc pod uwagę zakres zadań wykonywanych przez te podmioty.
 
-3. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa G∏ównego Urz´du Statystycznego, Prezesa Funduszu, wojewodów i marsza∏ków województw, okreÊli, wdrodze rozporzàdzenia, zakres niezb´dnych informacji gromadzonych wsystemie informatycznym Funduszu oraz zakres sprawozdaƒ okresowych i sposób ich przekazywania ministrowi w∏aÊciwemu do spraw zdrowia, atak˝e minimalny zakres zbiorczych informacji isposób ich przekazywania wojewodom isejmikom województw, wtym tak˝e rodzaje wykorzystywanych noÊników informacji i wzory dokumentów, uwzgl´dniajàc zakres zadaƒ wykonywanych przez te podmioty.
+3. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Głównego Urzędu Statystycznego, Prezesa Funduszu, wojewodów i marszałków województw, określi, wdrodze rozporządzenia, zakres niezbędnych informacji gromadzonych wsystemie informatycznym Funduszu oraz zakres sprawozdań okresowych i sposób ich przekazywania ministrowi właściwemu do spraw zdrowia, atakże minimalny zakres zbiorczych informacji isposób ich przekazywania wojewodom isejmikom województw, wtym także rodzaje wykorzystywanych nośników informacji i wzory dokumentów, uwzględniając zakres zadań wykonywanych przez te podmioty.
 
-4. Minister Obrony Narodowej, Minister SprawiedliwoÊci, minister w∏aÊciwy do spraw wewn´trznych, minister w∏aÊciwy do spraw finansów publicznych i minister w∏aÊciwy do spraw zdrowia sà obowiàzani do przekazywania Funduszowi danych ewidencyjnych zawierajàcych numer PESEL, imi´ i nazwisko osób, o których mowa w art. 66 ust. 1 pkt 2—13, oraz cz∏onków ich rodzin.
+4. Minister Obrony Narodowej, Minister Sprawiedliwości, minister właściwy do spraw wewnętrznych, minister właściwy do spraw finansów publicznych i minister właściwy do spraw zdrowia są obowiązani do przekazywania Funduszowi danych ewidencyjnych zawierających numer PESEL, imię i nazwisko osób, o których mowa w art. 66 ust. 1 pkt 2—13, oraz członków ich rodzin.
 
 **Art. 191.**
 
-1. Minister w∏aÊciwy do spraw zdrowia gromadzi i przetwarza dane dotyczàce ubezpieczenia zdrowotnego w zakresie niezb´dnym do realizacji zadaƒ wynikajàcych z ustawy.
+1. Minister właściwy do spraw zdrowia gromadzi i przetwarza dane dotyczące ubezpieczenia zdrowotnego w zakresie niezbędnym do realizacji zadań wynikających z ustawy.
 
-2. Minister w∏aÊciwy do spraw zdrowia oraz Fundusz sà uprawnieni do uzyskiwania i przetwarzania danych osobowych Êwiadczeniobiorców innych ni˝ ubezpieczeni, w celu:
+2. Minister właściwy do spraw zdrowia oraz Fundusz są uprawnieni do uzyskiwania i przetwarzania danych osobowych świadczeniobiorców innych niż ubezpieczeni, w celu:
 
-- **1)** rozliczania ze Êwiadczeniodawcami;
+- **1)** rozliczania ze świadczeniodawcami;
 - **2)** kontroli:
-    - **a)** rodzaju, zakresu i przyczyn udzielanych Êwiadczeƒ opieki zdrowotnej,
-    - **b)** przestrzegania zasad legalnoÊci, gospodarnoÊci, rzetelnoÊci i celowoÊci finansowania udzielanych Êwiadczeƒ opieki zdrowotnej;
+    - **a)** rodzaju, zakresu i przyczyn udzielanych świadczeń opieki zdrowotnej,
+    - **b)** przestrzegania zasad legalności, gospodarności, rzetelności i celowości finansowania udzielanych świadczeń opieki zdrowotnej;
 
-- **3)** monitorowania stanu zdrowia i zapotrzebowania Êwiadczeniobiorców innych ni˝ ubezpieczeni na Êwiadczenia opieki zdrowotnej, leki, wyroby medyczne b´dàce przedmiotami ortopedycznymi i Êrodki pomocnicze.
+- **3)** monitorowania stanu zdrowia i zapotrzebowania świadczeniobiorców innych niż ubezpieczeni na świadczenia opieki zdrowotnej, leki, wyroby medyczne będące przedmiotami ortopedycznymi i środki pomocnicze.
 
-3. W celu realizacji zadaƒ, o których mowa w ust. 1, minister w∏aÊciwy do spraw zdrowia oraz Fundusz majà prawo przetwarzania nast´pujàcych danych:
+3. W celu realizacji zadań, o których mowa w ust. 1, minister właściwy do spraw zdrowia oraz Fundusz mają prawo przetwarzania następujących danych:
 
-- **1)** nazwisko i imi´; gni´ciu opinii Prezesa Funduszu i Naczelnej Rady Ap- 2) numer PESEL;
+- **1)** nazwisko i imię; gnięciu opinii Prezesa Funduszu i Naczelnej Rady Ap- 2) numer PESEL;
 - **3)** numer NIP w przypadku osób, którym nadano ten numer;
-- **4)** seria inumer dowodu osobistego lub paszportu w przypadku osób, które nie majà nadanego numeru PESEL lub numeru NIP;
-- **5)** dane dotyczàce rodzaju i zakresu udzielonych Êwiadczeniobiorcom innym ni˝ ubezpieczeni Êwiadczeƒ opieki zdrowotnej, w zakresie okreÊlonym w przepisach wydanych na podstawie art. 190 ust. 1.
+- **4)** seria inumer dowodu osobistego lub paszportu w przypadku osób, które nie mają nadanego numeru PESEL lub numeru NIP;
+- **5)** dane dotyczące rodzaju i zakresu udzielonych świadczeniobiorcom innym niż ubezpieczeni świadczeń opieki zdrowotnej, w zakresie określonym w przepisach wydanych na podstawie art. 190 ust. 1.
 
-4. Minister Obrony Narodowej, Minister SprawiedliwoÊci, minister w∏aÊciwy do spraw wewn´trznych, minister w∏aÊciwy do spraw finansów publicznych oraz minister w∏aÊciwy do spraw zdrowia sà uprawnieni do uzyskiwania informacji niezb´dnych do realizacji zadaƒ wynikajàcych z ustawy.
+4. Minister Obrony Narodowej, Minister Sprawiedliwości, minister właściwy do spraw wewnętrznych, minister właściwy do spraw finansów publicznych oraz minister właściwy do spraw zdrowia są uprawnieni do uzyskiwania informacji niezbędnych do realizacji zadań wynikających z ustawy.
 
-**Art. 192.** Fundusz na ˝àdanie ubezpieczonego informuje go o udzielonych mu Êwiadczeniach opieki zdrowotnej oraz kwocie Êrodków finansowych wydatkowanych na sfinansowanie tych Êwiadczeƒ. DZIA¸ IX Przepisy karne
+**Art. 192.** Fundusz na żądanie ubezpieczonego informuje go o udzielonych mu świadczeniach opieki zdrowotnej oraz kwocie środków finansowych wydatkowanych na sfinansowanie tych świadczeń. DZIAĘ IX Przepisy karne
 
 **Art. 193.** Kto:
 
-**Art. 194.** OdpowiedzialnoÊci przewidzianej w art. 193 podlega tak˝e ten, kto dopuszcza si´ czynów okreÊlonych w tych przepisach, dzia∏ajàc w imieniu osoby prawnej albo jednostki organizacyjnej nieArt. 195. Orzekanie w sprawach, o których mowa w art. 193 i 194, nast´puje w trybie przepisów Kodeksu post´powania w sprawach o wykroczenia. DZIA¸ X Zmiany w przepisach obowiàzujàcych
+**Art. 194.** Odpowiedzialności przewidzianej w art. 193 podlega także ten, kto dopuszcza się czynów określonych w tych przepisach, działając w imieniu osoby prawnej albo jednostki organizacyjnej nieArt. 195. Orzekanie w sprawach, o których mowa w art. 193 i 194, następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia. DZIAĘ X Zmiany w przepisach obowiązujących
 
-**Art. 196.** Wustawie zdnia 20 lipca 1950 r. ozawodzie felczera (Dz. U. z 2004 r. 53, poz. 531) w art. 4 po ust. 1 dodaje si´ ust. 1a w brzmieniu: „1a. W przypadku gdy ustawa lub przepisy odr´bne uprawniajà felczera do wystawiania recept stosuje si´ odpowiednio przepisy wydane na podstawie art. 45 ust. 3 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z2002 r. 21, poz. 204, z póên. zm. posiadajàcej osobowoÊci prawnej. ).”.
+**Art. 196.** Wustawie zdnia 20 lipca 1950 r. ozawodzie felczera (Dz. U. z 2004 r. 53, poz. 531) w art. 4 po ust. 1 dodaje się ust. 1a w brzmieniu: Ń1a. W przypadku gdy ustawa lub przepisy odrębne uprawniają felczera do wystawiania recept stosuje się odpowiednio przepisy wydane na podstawie art. 45 ust. 3 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z2002 r. 21, poz. 204, z póên. zm. posiadającej osobowości prawnej. ).”.
 
-**Art. 197.** W ustawie z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. 43, poz. 296, z póên. zm. ) w art. 477 w § 2 uchyla si´ pkt 5.
+**Art. 197.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, z póên. zm. ) w art. 477 w § 2 uchyla się pkt 5.
 
-**Art. 198.** W ustawie z dnia 13 czerwca 1967 r. o kosztach sàdowych w sprawach cywilnych (Dz. U. z 2002 r. 9, poz. 88, z póên. zm. ) w art. 10 pkt 8 otrzymuje brzmienie: „8) wniosku owpis, októrym mowa wart. 234 ust. 1 ustawy zdnia 27 sierpnia 2004 r. oÊwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, poz. 2135),”.
+**Art. 198.** W ustawie z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. 9, poz. 88, z póên. zm. ) w art. 10 pkt 8 otrzymuje brzmienie: Ń8) wniosku owpis, októrym mowa wart. 234 ust. 1 ustawy zdnia 27 sierpnia 2004 r. oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, poz. 2135),”.
 
-**Art. 199.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiàzku obrony Rzeczypospolitej Polskiej (Dz. U. z2002 r. 21, poz. 205, zpóên. zm. Êwiadczeniodawcy spoÊród Êwiadczeniodawców, którzy zawarli umowy o udzielanie Êwiadczeƒ opieki zdrowotnej. 3. Koszty cz´Êciowej lub ca∏kowitej odp∏atnoÊci za leki wydawane poboro) wym, o których mowa w art. 56a, na wprowadza si´ nast´pujàce zmiany: zasadach i w zakresie okreÊlonych w ustawie z dnia 27 sierpnia 2004 r.
+**Art. 199.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z2002 r. 21, poz. 205, zpóên. zm. świadczeniodawcy spośród świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej. 3. Koszty częściowej lub całkowitej odpłatności za leki wydawane poboro) wym, o których mowa w art. 56a, na wprowadza się następujące zmiany: zasadach i w zakresie określonych w ustawie z dnia 27 sierpnia 2004 r.
 
 **Art. 56b.**
 
-1. Poborowi, októrych mowa wart. 56a, na zasadach okreÊlonych w ustawie z dnia 27 sierpnia 2004 r. o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych, majà prawo wyboru:
+1. Poborowi, októrych mowa wart. 56a, na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych, mają prawo wyboru:
 
-- **1)** lekarza i piel´gniarki podstawowej opieki zdrowotnej,
-- **2)** Êwiadczeniodawcy udzielajàcego ambulatoryjnych Êwiadczeƒ specjalistycznych,
+- **1)** lekarza i pielęgniarki podstawowej opieki zdrowotnej,
+- **2)** świadczeniodawcy udzielającego ambulatoryjnych świadczeń specjalistycznych,
 - **3)** lekarza dentysty,
-- **4)** szpitala w miejscu pe∏nienia s∏u˝by, spoÊród Êwiadczeniodawców, którzy zawarli umowy o udzielanie Êwiadczeƒ opieki zdrowotnej, b´dàcych jednostkami bud˝etowymi tworzonymi i nadzorowanymi przez ministra w∏aÊciwego do spraw wewn´trznych, posiadajàcych w strukturze organizacyjnej ambulatorium, ambulatorium z izbà chorych lub lekarza podstawowej opieki zdrowotnej, albo b´dàcych zak∏adami opieki zdrowotnej utworzonymi przez ministra w∏aÊciwego do spraw wewn´trznych.
+- **4)** szpitala w miejscu pełnienia służby, spośród świadczeniodawców, którzy zawarli umowy o udzielanie świadczeń opieki zdrowotnej, będących jednostkami budżetowymi tworzonymi i nadzorowanymi przez ministra właściwego do spraw wewnętrznych, posiadających w strukturze organizacyjnej ambulatorium, ambulatorium z izbą chorych lub lekarza podstawowej opieki zdrowotnej, albo będących zakładami opieki zdrowotnej utworzonymi przez ministra właściwego do spraw wewnętrznych.
 
-2. W przypadku gdy poborowi, o których mowa w ust. 1, nie mogà uzyskaç Êwiadczenia opieki zdrowotnej u Êwiadczeniodawcy okreÊlonego w ust. 1, majà prawo wyboru innego uwzgl´dniajàc zasady i sposób wydatkowania Êrodków publicznych.”;
+2. W przypadku gdy poborowi, o których mowa w ust. 1, nie mogą uzyskać świadczenia opieki zdrowotnej u świadczeniodawcy określonego w ust. 1, mają prawo wyboru innego uwzględniając zasady i sposób wydatkowania środków publicznych.”;
 
-- **2)** art. 69 i 69a otrzymujà brzmienie: „Art. 69. ˚o∏nierze odbywajàcy zasadniczà s∏u˝b´ wojskowà, przeszkolenie wojskowe i çwiczenia wojskowe oraz pe∏niàcy s∏u˝b´ wojskowà w razie og∏oszenia mobilizacji i w czasie wojny sà obj´ci obowiàzkiem ubezpieczenia zdrowotnego na zasadach okreÊlonych w ustawie z dnia 27 sierpnia 2004 r. oÊwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych.
+- **2)** art. 69 i 69a otrzymują brzmienie: ŃArt. 69. ˚ołnierze odbywający zasadniczą służbę wojskową, przeszkolenie wojskowe i ćwiczenia wojskowe oraz pełniący służbę wojskową w razie ogłoszenia mobilizacji i w czasie wojny są objęci obowiązkiem ubezpieczenia zdrowotnego na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
-**Art. 69a.** ˚o∏nierze odbywajàcy nadterminowà zasadniczà s∏u˝b´ wojskowà i s∏u˝b´ okresowà sà obj´ci obowiàzkiem ubezpieczenia zdrowotnego na zasadach okreÊlonych w ustawie z dnia 27 sierpnia 2004 r. oÊwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych.”;
+**Art. 69a.** ˚ołnierze odbywający nadterminową zasadniczą służbę wojskową i służbę okresową są objęci obowiązkiem ubezpieczenia zdrowotnego na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych.”;
 
-**Art. 200.** Wustawie zdnia 29 maja 1974 r. ozaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2002 r. 9, poz. 87, z póên. zm. )) uchyla si´ art. 13.
+**Art. 200.** Wustawie zdnia 29 maja 1974 r. ozaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2002 r. 9, poz. 87, z póên. zm. )) uchyla się art. 13.
 
-**Art. 201.** Wustawie zdnia 31 lipca 1981 r. owynagrodzeniu osób zajmujàcych kierownicze stanowiska paƒstwowe (Dz. U. 20, poz. 101, z póên. zm. ) art. 5a otrzymuje brzmienie: „Art. 5a. 1. Prezydentowi Rzeczypospolitej Polskiej, Marsza∏kowi Sejmu, Marsza∏koma∏˝onkom tych osób oraz cz∏onkom rodzin b´dàcym na ich utrzymaniu, przys∏uguje prawo do Êwiadczeƒ opieki zdrowotnej wrazie nag∏ego zachorowania lub urazu, wypadku, zatrucia lub koniecznoÊci natychmiastowego leczenia szpitalnego. 2. Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów oraz towarzyszàcym im cz∏onkom rodzin, a tak˝e Marsza∏kowi Sejmu i Marsza∏kowi Senatu, prawo do Êwiadczeƒ opieki leczniczej w zakresie okreÊlonym w ust. 1 przys∏uguje równie˝ w trakcie oficjalnych podró˝y krajowych i zagranicznych oraz oficjalnych wizyt zagranicznych. 3. Cz∏onkom personelu dyplomatycznego i konsularnego akredytowanego w Rzeczypospolitej Polskiej i ich rodzinom, wodniesieniu do paƒstw, zktórymi zosta∏y podpisane umowy o Êwiadczenie us∏ug medycznych, przys∏uguje prawo do Êwiadczeƒ zdrowotnych wzakresie okreÊlonym tymi umowami. 4. Âwiadczenia, o których mowa wust. 1—3, przys∏ugujà niezale˝nie od Êwiadczeƒ okreÊlonych w przepisach o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych i sà finansowane z bud˝etu paƒstwa w cz´Êci dotyczàcej ministra w∏aÊciwego do spraw wewn´trznych oraz udzielane przez zak∏ady opieki zdrowotnej tworzone przez ministra w∏aÊciwego do spraw wewn´trznych lub przez zak∏ady opieki zdrowotnej tworzone przez Ministra Obrony Narodowej. 5. Prezes Rady Ministrów okreÊli, w drodze rozporzàdzenia, po zasi´gni´ciu opinii Prezydenta Rzeczypospolitej Polskiej, Marsza∏ka Sejmu i Marsza∏ka Senatu, szczegó∏owy zakres oraz warunki udzielania Êwiadczeƒ opieki zdrowotnej, o których mowa w ust. 1, uwzgl´dniajàc rodzaj udzielanych wi Senatu, Prezesowi Rady Ministrów, Êwiadczeƒ oraz dost´p do uzyskania tych Êwiadczeƒ.”.
+**Art. 201.** Wustawie zdnia 31 lipca 1981 r. owynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. 20, poz. 101, z póên. zm. ) art. 5a otrzymuje brzmienie: ŃArt. 5a. 1. Prezydentowi Rzeczypospolitej Polskiej, Marszałkowi Sejmu, Marszałkomałżonkom tych osób oraz członkom rodzin będącym na ich utrzymaniu, przysługuje prawo do świadczeń opieki zdrowotnej wrazie nagłego zachorowania lub urazu, wypadku, zatrucia lub konieczności natychmiastowego leczenia szpitalnego. 2. Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów oraz towarzyszącym im członkom rodzin, a także Marszałkowi Sejmu i Marszałkowi Senatu, prawo do świadczeń opieki leczniczej w zakresie określonym w ust. 1 przysługuje również w trakcie oficjalnych podróży krajowych i zagranicznych oraz oficjalnych wizyt zagranicznych. 3. Członkom personelu dyplomatycznego i konsularnego akredytowanego w Rzeczypospolitej Polskiej i ich rodzinom, wodniesieniu do państw, zktórymi zostały podpisane umowy o świadczenie usług medycznych, przysługuje prawo do świadczeń zdrowotnych wzakresie określonym tymi umowami. 4. Âwiadczenia, o których mowa wust. 1—3, przysługują niezależnie od świadczeń określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych i są finansowane z budżetu państwa w części dotyczącej ministra właściwego do spraw wewnętrznych oraz udzielane przez zakłady opieki zdrowotnej tworzone przez ministra właściwego do spraw wewnętrznych lub przez zakłady opieki zdrowotnej tworzone przez Ministra Obrony Narodowej. 5. Prezes Rady Ministrów określi, w drodze rozporządzenia, po zasięgnięciu opinii Prezydenta Rzeczypospolitej Polskiej, Marszałka Sejmu i Marszałka Senatu, szczegółowy zakres oraz warunki udzielania świadczeń opieki zdrowotnej, o których mowa w ust. 1, uwzględniając rodzaj udzielanych wi Senatu, Prezesowi Rady Ministrów, świadczeń oraz dostęp do uzyskania tych świadczeń.”.
 
-**Art. 202.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. 7, poz. 58, z póên. zm. ) w art. 145f pkt 4 otrzymuje brzmienie: „4) warunki otrzymywania Êwiadczeƒ opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, poz. 2135), przez policjantów i pracowników, o których mowa w art. 145c, w zwiàzku z urazami nabytymi podczas wykonywania przez nich zadaƒ poza granicami paƒstwa oraz sposób itryb finansowania kosztów, uwzgl´dniajàc zasady isposób wydatkowania Êrodków publicznych,”.
+**Art. 202.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2002 r. 7, poz. 58, z póên. zm. ) w art. 145f pkt 4 otrzymuje brzmienie: Ń4) warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, poz. 2135), przez policjantów i pracowników, o których mowa w art. 145c, w związku z urazami nabytymi podczas wykonywania przez nich zadań poza granicami państwa oraz sposób itryb finansowania kosztów, uwzględniając zasady isposób wydatkowania środków publicznych,”.
 
-**Art. 203.** W ustawie z dnia 12 paêdziernika 1990 r. oStra˝y Granicznej (Dz. U. z2002 r. 171, poz. 1399, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 203.** W ustawie z dnia 12 paêdziernika 1990 r. oStraży Granicznej (Dz. U. z2002 r. 171, poz. 1399, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 205.** W ustawie z dnia 24 sierpnia 1991 r. oPaƒstwowej Stra˝y Po˝arnej (Dz. U. z2002 r. 147, poz. 1230 i 153, poz. 1271 oraz z 2003 r. 59, poz. 516 i 166, poz. 1609) po art. 59 dodaje si´ art. 59a w brzmieniu: „Art. 59a. Minister w∏aÊciwy do spraw wewn´trznych, w porozumieniu z ministrem w∏aÊciwym do spraw zdrowia, okreÊli, w drodze rozporzàdzenia, warunki otrzymywania Êwiadczeƒ opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, poz. 2135), przez stra˝aków, w zwiàzku z urazami nabytymi podczas wykonywania przez nich zadaƒ poza granicami paƒstwa oraz sposób i tryb finansowania kosztów, uwzgl´dniajàc zasady i sposób wydatkowania Êrodków publicznych.”.
+**Art. 205.** W ustawie z dnia 24 sierpnia 1991 r. oPaństwowej Straży Pożarnej (Dz. U. z2002 r. 147, poz. 1230 i 153, poz. 1271 oraz z 2003 r. 59, poz. 516 i 166, poz. 1609) po art. 59 dodaje się art. 59a w brzmieniu: ŃArt. 59a. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, poz. 2135), przez strażaków, w związku z urazami nabytymi podczas wykonywania przez nich zadań poza granicami państwa oraz sposób i tryb finansowania kosztów, uwzględniając zasady i sposób wydatkowania środków publicznych.”.
 
-**Art. 206.** Wustawie zdnia 30 sierpnia 1991 r. ozak∏adach opieki zdrowotnej (Dz. U. 91, poz. 408, z póên. zm.
+**Art. 206.** Wustawie zdnia 30 sierpnia 1991 r. ozakładach opieki zdrowotnej (Dz. U. 91, poz. 408, z póên. zm.
 
-**Art. 207.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z2000r. 54, poz. 654, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 207.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z2000r. 54, poz. 654, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 208.** W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu pos∏a i senatora (Dz. U. z 2003 r. 221, poz. 2199 oraz z 2004 r. 116, poz. 1202) wart. 36 wyrazy „powszechnym ubezpieczeniu wNarodowym Funduszu Zdrowia” zast´puje si´ wyrazami „Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych”.
+**Art. 208.** W ustawie z dnia 9 maja 1996 r. o wykonywaniu mandatu posła i senatora (Dz. U. z 2003 r. 221, poz. 2199 oraz z 2004 r. 116, poz. 1202) wart. 36 wyrazy Ńpowszechnym ubezpieczeniu wNarodowym Funduszu Zdrowia” zastępuje się wyrazami Ńświadczeniach opieki zdrowotnej finansowanych ze środków publicznych”.
 
 **Art. 209.** W ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2002 r. 21, poz. 204, z póên. zm. ) w art. 45:
 
-**Art. 210.** Wustawie zdnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. 90, poz. 557, z póên. zm. roby medyczne wydawane bezp∏atnie, za ) w art. 115 po § 1 dodaje si´ § 1a w brzmieniu: „§ 1a. Skazanemu odbywajàcemu kar´ pozbawienia wolnoÊci nie przys∏uguje prawo wyboru lekarza ipiel´gniarki podstawowej opieki zdrowotnej, Êwiadczeniodawcy udzielajàcego ambulatoryjnych Êwiadczeƒ opieki zdrowotnej, lekarza dentysty oraz szpitala, okreÊlone w ustawie z dnia 27 sierpnia 2004 r. o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, poz. 2135).”.
+**Art. 210.** Wustawie zdnia 6 czerwca 1997 r. Kodeks karny wykonawczy (Dz. U. 90, poz. 557, z póên. zm. roby medyczne wydawane bezpłatnie, za ) w art. 115 po § 1 dodaje się § 1a w brzmieniu: Ń§ 1a. Skazanemu odbywającemu karę pozbawienia wolności nie przysługuje prawo wyboru lekarza ipielęgniarki podstawowej opieki zdrowotnej, świadczeniodawcy udzielającego ambulatoryjnych świadczeń opieki zdrowotnej, lekarza dentysty oraz szpitala, określone w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, poz. 2135).”.
 
-**Art. 211.** W ustawie z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierajàcych azbest (Dz. U. z 2004 r. 3, poz. 20, 96, poz. 959 i 120, poz. 1252) wart. 7awust. 1 pkt 3 otrzymuje brzmienie: „3) korzystania raz w roku z leczenia uzdrowiskowego oraz zwolnienia z odp∏atnoÊci zwiàzanej z leczeniem uzdrowiskowym, o której mowa w przepisach o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych.”.
+**Art. 211.** W ustawie z dnia 19 czerwca 1997 r. o zakazie stosowania wyrobów zawierających azbest (Dz. U. z 2004 r. 3, poz. 20, 96, poz. 959 i 120, poz. 1252) wart. 7awust. 1 pkt 3 otrzymuje brzmienie: Ń3) korzystania raz w roku z leczenia uzdrowiskowego oraz zwolnienia z odpłatności związanej z leczeniem uzdrowiskowym, o której mowa w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.”.
 
-**Art. 212.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych (Dz. U. 137, poz. 887, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 212.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 137, poz. 887, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 213.** W ustawie z dnia 20 listopada 1998 r. o zrycza∏towanym podatku dochodowym od niektórych przychodów osiàganych przez osoby fizyczne (Dz. U. 144, poz. 930, zpóên. zm.
+**Art. 213.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 144, poz. 930, zpóên. zm.
 
-**Art. 215.** Wustawie zdnia 17 grudnia 1998 r. ozasadach u˝ycia lub pobytu Si∏ Zbrojnych Rzeczypospolitej Polskiej poza granicami paƒstwa (Dz. U. 162, poz. 1117) w art. 9 w ust. 1 dodaje si´ pkt 5 w brzmieniu: „5) warunki otrzymywania Êwiadczeƒ opieki zdrowotnej, o których mowa w art. 42 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, poz. 2135), oraz sposób itryb finansowania ponoszonych kosztów, uwzgl´dniajàc zasady wydatkowania Êrodków publicznych.”.
+**Art. 215.** Wustawie zdnia 17 grudnia 1998 r. ozasadach użycia lub pobytu Sił Zbrojnych Rzeczypospolitej Polskiej poza granicami państwa (Dz. U. 162, poz. 1117) w art. 9 w ust. 1 dodaje się pkt 5 w brzmieniu: Ń5) warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 1 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, poz. 2135), oraz sposób itryb finansowania ponoszonych kosztów, uwzględniając zasady wydatkowania środków publicznych.”.
 
-**Art. 216.** W ustawie z dnia 17 grudnia 1998 r. oemeryturach irentach zFunduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. z 2004 r. 39, poz. 353, z póên. zm. ) w art. 121 ust. 2 otrzymuje brzmienie: „2. W sprawach Êwiadczeƒ przewidzianych wustawie osoby zainteresowane iorgany rentowe sà zwolnione od wszelkich op∏at, z wy∏àczeniem op∏at ponoszonych na podstawie art. 16 ust. 4 ustawy z dnia 27 sierpnia 2004 r. oÊwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, poz. 2135.”.
+**Art. 216.** W ustawie z dnia 17 grudnia 1998 r. oemeryturach irentach zFunduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. 39, poz. 353, z póên. zm. ) w art. 121 ust. 2 otrzymuje brzmienie: Ń2. W sprawach świadczeń przewidzianych wustawie osoby zainteresowane iorgany rentowe są zwolnione od wszelkich opłat, z wyłączeniem opłat ponoszonych na podstawie art. 16 ust. 4 ustawy z dnia 27 sierpnia 2004 r. oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, poz. 2135.”.
 
-**Art. 217.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rzàdu (Dz. U. z 2004 r. 163, poz. 1712) po art. 61 dodaje si´ art. 61a w brzmieniu: „Art. 61a. Minister w∏aÊciwy do spraw wewn´trznych, w porozumieniu z ministrem w∏aÊciwym do spraw zdrowia, okreÊli, w drodze rozporzàdzenia, warunki otrzymywania Êwiadczeƒ opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o Êwiadczeniach opieki zdrowotnej finiektórymi chorobami przewlek∏ymi, wrodzonymi lub nabytymi. 2. Ceny urz´dowe ustala si´ równie˝ na produkty lecznicze i wyroby medyczne nabywane bezpoÊrednio od wytwórcy lub bezpoÊrednio z hurtowni farmaceutycznej przez zak∏ady lecznictwa zamkni´tego, w celu realizacji Êwiadczeƒ opieki zdrowotnej wykonywanych w ramach umów zawartych z Narodowym Funduszem Zdrowia. 3. Minister w∏aÊciwy do spraw zdrowia, po zasi´gni´ciu opinii Prezesa Narodowego Funduszu Zdrowia, okreÊli, wdrodze rozporzàdzenia, wykaz produktów leczniczych iwyrobów medycznych, októrych mowa w ust. 2, uwzgl´dniajàc w szczególnoÊci istotny udzia∏ kosztów danego produktu leczniczego lub wyrobu medycznego w kosztach Êwiadczeƒ opieki zdrowotnej, októrych mowa wust. 2. 4. Minister w∏aÊciwy do spraw zdrowia, nansowanych ze Êrodków publicznych w porozumieniu z ministrem w∏aÊci(Dz. U. 210, poz. 2135), przez funkcjo- wym do spraw finansów publicznych, nariuszy, wzwiàzku zurazami nabytymi okreÊli, w drodze rozporzàdzenia: podczas wykonywania przez nich zadaƒ 1) ceny urz´dowe hurtowe i detaliczne poza granicami paƒstwa oraz sposób w odniesieniu do produktów lecznii tryb finansowania kosztów, uwzgl´d- czych i wyrobów medycznych okreniajàc zasady i sposób wydatkowania Êlonych w ust. 1, majàc na wzgl´dzie Êrodków publicznych”. równowa˝enie interesów konsumentów i przedsi´biorców zajmujàcych
+**Art. 217.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2004 r. 163, poz. 1712) po art. 61 dodaje się art. 61a w brzmieniu: ŃArt. 61a. Minister właściwy do spraw wewnętrznych, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, w drodze rozporządzenia, warunki otrzymywania świadczeń opieki zdrowotnej, o których mowa w art. 42 ust. 2 ustawy z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finiektórymi chorobami przewlekłymi, wrodzonymi lub nabytymi. 2. Ceny urzędowe ustala się również na produkty lecznicze i wyroby medyczne nabywane bezpośrednio od wytwórcy lub bezpośrednio z hurtowni farmaceutycznej przez zakłady lecznictwa zamkniętego, w celu realizacji świadczeń opieki zdrowotnej wykonywanych w ramach umów zawartych z Narodowym Funduszem Zdrowia. 3. Minister właściwy do spraw zdrowia, po zasięgnięciu opinii Prezesa Narodowego Funduszu Zdrowia, określi, wdrodze rozporządzenia, wykaz produktów leczniczych iwyrobów medycznych, októrych mowa w ust. 2, uwzględniając w szczególności istotny udział kosztów danego produktu leczniczego lub wyrobu medycznego w kosztach świadczeń opieki zdrowotnej, októrych mowa wust. 2. 4. Minister właściwy do spraw zdrowia, nansowanych ze środków publicznych w porozumieniu z ministrem właści(Dz. U. 210, poz. 2135), przez funkcjo- wym do spraw finansów publicznych, nariuszy, wzwiązku zurazami nabytymi określi, w drodze rozporządzenia: podczas wykonywania przez nich zadań 1) ceny urzędowe hurtowe i detaliczne poza granicami państwa oraz sposób w odniesieniu do produktów lecznii tryb finansowania kosztów, uwzględ- czych i wyrobów medycznych okreniając zasady i sposób wydatkowania ślonych w ust. 1, mając na względzie środków publicznych”. równoważenie interesów konsumentów i przedsiębiorców zajmujących
 
-**Art. 218.** Wustawie zdnia 5 lipca 2001 r. ocenach si´ wytwarzaniem i obrotem tymi (Dz. U. 97, poz. 1050, z 2002 r. 144, poz. 1204, Êrodkami i materia∏ami oraz bioràc z 2003 r. 137, poz. 1302 oraz z 2004 r. 96, pod uwag´ mo˝liwoÊci p∏atnicze Napoz. 959) wprowadza si´ nast´pujàce zmiany: rodowego Funduszu Zdrowia, wopar1) u˝yte w art. 6 oraz w art. 7 ust. 2—5, w ró˝nej licz- ciu okryteria ustalone wart. 7 ust. 3, bie i przypadku, wyrazy „Êrodki farmaceutyczne” 2) ceny urz´dowe hurtowe w odniesiezast´puje si´ u˝ytymi w odpowiedniej liczbie niu do produktów leczniczych iwyroi przypadku wyrazami „produkty lecznicze”; bów medycznych okreÊlonych wust. 2, je˝eli nabywane sà przez za2) u˝yte w art. 6 oraz w art. 7 ust. 2—5, w ró˝nej licz- k∏ady lecznictwa zamkni´tego na zabie iprzypadku, wyrazy „materia∏y medyczne” za- sadach okreÊlonych w art. 42 ust. 1 st´puje si´ u˝ytymi w odpowiedniej liczbie i przy- pkt 1a ustawy z dnia 6 wrzeÊnia padku wyrazami „wyroby medyczne”; 2001 r. Prawo farmaceutyczne
+**Art. 218.** Wustawie zdnia 5 lipca 2001 r. ocenach się wytwarzaniem i obrotem tymi (Dz. U. 97, poz. 1050, z 2002 r. 144, poz. 1204, środkami i materiałami oraz biorąc z 2003 r. 137, poz. 1302 oraz z 2004 r. 96, pod uwagę możliwości płatnicze Napoz. 959) wprowadza się następujące zmiany: rodowego Funduszu Zdrowia, wopar1) użyte w art. 6 oraz w art. 7 ust. 2—5, w różnej licz- ciu okryteria ustalone wart. 7 ust. 3, bie i przypadku, wyrazy Ńśrodki farmaceutyczne” 2) ceny urzędowe hurtowe w odniesiezastępuje się użytymi w odpowiedniej liczbie niu do produktów leczniczych iwyroi przypadku wyrazami Ńprodukty lecznicze”; bów medycznych określonych wust. 2, jeżeli nabywane są przez za2) użyte w art. 6 oraz w art. 7 ust. 2—5, w różnej licz- kłady lecznictwa zamkniętego na zabie iprzypadku, wyrazy Ńmateriały medyczne” za- sadach określonych w art. 42 ust. 1 stępuje się użytymi w odpowiedniej liczbie i przy- pkt 1a ustawy z dnia 6 września padku wyrazami Ńwyroby medyczne”; 2001 r. Prawo farmaceutyczne
 
-**Art. 219.** W ustawie z dnia 25 lipca 2001 r. o Paƒstwowym Ratownictwie Medycznym (Dz. U. 113, poz. 1207, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 219.** W ustawie z dnia 25 lipca 2001 r. o Państwowym Ratownictwie Medycznym (Dz. U. 113, poz. 1207, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 220.** W ustawie z dnia 6 wrzeÊnia 2001 r. Prawo farmaceutyczne (Dz. U. z2004 r. 53, poz. 533, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 220.** W ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z2004 r. 53, poz. 533, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 221.** Wustawie zdnia 6 wrzeÊnia 2001 r. ochorobach zakaênych i zaka˝eniach (Dz. U. 126, poz. 1384, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 221.** Wustawie zdnia 6 września 2001 r. ochorobach zakaênych i zakażeniach (Dz. U. 126, poz. 1384, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 222.** W ustawie z dnia 30 paêdziernika 2002 r. o ubezpieczeniu spo∏ecznym z tytu∏u wypadków przy pracy ichorób zawodowych (Dz. U. 199, poz. 1673, z póên. zm.
+**Art. 222.** W ustawie z dnia 30 paêdziernika 2002 r. o ubezpieczeniu społecznym z tytułu wypadków przy pracy ichorób zawodowych (Dz. U. 199, poz. 1673, z póên. zm.
 
-**Art. 223.** W ustawie z dnia 30 paêdziernika 2002 r. ozaopatrzeniu ztytu∏u wypadków lub chorób zawodowych powsta∏ych w szczególnych okolicznoÊciach (Dz.U. 199, poz. 1674, z póên. zm. ) art. 23 otrzymuje brzmienie: „Art. 23. 1. Ze Êrodków funduszu wypadkowego sà pokrywane koszty skutków wypadków przy pracy lub chorób zawodowych, zwiàzane ze Êwiadczeniami zdrowotnymi z zakresu stomatologii i szczepieƒ ochronnych, na które ubezpieczony zosta∏ skierowany przez lekarza orzecznika na wniosek lekarza prowadzàcego, nierefundowane na podstawie odr´bnych przepisów. 2. Ze Êrodków funduszu wypadkowego sà pokrywane koszty wyrobów medycznych b´dàcych przedmiotami ortopedycznymi w wysokoÊci udzia∏u w∏asnego ubezpieczonego okreÊlonego w przepisach oÊwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych.”. ) wart. 3 ust. 1 otrzymuje brzmienie: „1. Osobom, które sta∏y si´ niezdolne do pracy wskutek wypadku w szczególnych okolicznoÊciach, o których mowa w art. 2 ust. 1, przys∏uguje:
+**Art. 223.** W ustawie z dnia 30 paêdziernika 2002 r. ozaopatrzeniu ztytułu wypadków lub chorób zawodowych powstałych w szczególnych okolicznościach (Dz.U. 199, poz. 1674, z póên. zm. ) art. 23 otrzymuje brzmienie: ŃArt. 23. 1. Ze środków funduszu wypadkowego są pokrywane koszty skutków wypadków przy pracy lub chorób zawodowych, związane ze świadczeniami zdrowotnymi z zakresu stomatologii i szczepień ochronnych, na które ubezpieczony został skierowany przez lekarza orzecznika na wniosek lekarza prowadzącego, nierefundowane na podstawie odrębnych przepisów. 2. Ze środków funduszu wypadkowego są pokrywane koszty wyrobów medycznych będących przedmiotami ortopedycznymi w wysokości udziału własnego ubezpieczonego określonego w przepisach oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych.”. ) wart. 3 ust. 1 otrzymuje brzmienie: Ń1. Osobom, które stały się niezdolne do pracy wskutek wypadku w szczególnych okolicznościach, o których mowa w art. 2 ust. 1, przysługuje:
 
-**Art. 224.** W ustawie z dnia 6 grudnia 2002 r. oÊwiadczeniu us∏ug ratownictwa medycznego (Dz. U. 241, poz. 2073 oraz z2003 r. 99, poz. 920) wprowadza si´ nast´pujàce zmiany:
+**Art. 224.** W ustawie z dnia 6 grudnia 2002 r. oświadczeniu usług ratownictwa medycznego (Dz. U. 241, poz. 2073 oraz z2003 r. 99, poz. 920) wprowadza się następujące zmiany:
 
-**Art. 225.** Wustawie zdnia 28 lutego 2003 r. Prawo upad∏oÊciowe i naprawcze (Dz. U. 60, poz. 535, z póên. zm. ) w art. 157 ust. 4 otrzymuje brzmienie: „4. Syndyk, nadzorca sàdowy, zarzàdca b´dàcy osobà fizycznà jest osobà prowadzàcà pozarolniczà dzia∏alnoÊç w rozumieniu przepisów o systemie ubezpieczeƒ spo∏ecznych oraz o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych.”.
+**Art. 225.** Wustawie zdnia 28 lutego 2003 r. Prawo upadłościowe i naprawcze (Dz. U. 60, poz. 535, z póên. zm. ) w art. 157 ust. 4 otrzymuje brzmienie: Ń4. Syndyk, nadzorca sądowy, zarządca będący osobą fizyczną jest osobą prowadzącą pozarolniczą działalność w rozumieniu przepisów o systemie ubezpieczeń społecznych oraz o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.”.
 
-**Art. 226.** Wustawie zdnia 24 kwietnia 2003 r. odzia∏alnoÊci po˝ytku publicznego i o wolontariacie (Dz. U. 96, poz. 873 oraz z 2004 r. 64, poz. 593 i 116, poz. 1203) wart. 46 ust. 1 otrzymuje brzmienie: ——————— ——————— „1. Wolontariuszowi mogà przys∏ugiwaç Êwiadczenia zdrowotne na zasadach przewidzianych w przepisach o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych.”.
+**Art. 226.** Wustawie zdnia 24 kwietnia 2003 r. odziałalności pożytku publicznego i o wolontariacie (Dz. U. 96, poz. 873 oraz z 2004 r. 64, poz. 593 i 116, poz. 1203) wart. 46 ust. 1 otrzymuje brzmienie: ——————— ——————— Ń1. Wolontariuszowi mogą przysługiwać świadczenia zdrowotne na zasadach przewidzianych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.”.
 
-**Art. 227.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. 128, poz. 1176 oraz z2004 r. 96, poz. 959 i 173, poz. 1808) wprowadza si´ nast´pujàce zmiany:
+**Art. 227.** W ustawie z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. 128, poz. 1176 oraz z2004 r. 96, poz. 959 i 173, poz. 1808) wprowadza się następujące zmiany:
 
-**Art. 228.** W ustawie z dnia 11 wrzeÊnia 2003 r. o s∏u˝bie wojskowej ˝o∏nierzy zawodowych (Dz. U. 179, poz. 1750 oraz z 2004 r. 116, poz. 1203) w art. 67 ust. 1 otrzymuje brzmienie: „1. ˚o∏nierze zawodowi sà obj´ci obowiàzkiem ubezpieczenia zdrowotnego i korzystajà ze Êwiadczeƒ na zasadach okreÊlonych w ustawie z dnia 27 sierpnia 2004 r. o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, poz. 2135).”. DZIA¸ XI Przepisy przejÊciowe, dostosowawcze i koƒcowe
+**Art. 228.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. 179, poz. 1750 oraz z 2004 r. 116, poz. 1203) w art. 67 ust. 1 otrzymuje brzmienie: Ń1. ˚ołnierze zawodowi są objęci obowiązkiem ubezpieczenia zdrowotnego i korzystają ze świadczeń na zasadach określonych w ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, poz. 2135).”. DZIAĘ XI Przepisy przejściowe, dostosowawcze i końcowe
 
-**Art. 229.** Ilekroç wobowiàzujàcych przepisach jest mowa o:
+**Art. 229.** Ilekroć wobowiązujących przepisach jest mowa o:
 
 **Art. 231.**
 
-1. Fundusz zapewnia ciàg∏oÊç udzielania Êwiadczeƒ zdrowotnych ubezpieczonym. ———————
+1. Fundusz zapewnia ciągłość udzielania świadczeń zdrowotnych ubezpieczonym. ———————
 
-2. Umowy oudzielanie Êwiadczeƒ zdrowotnych zawarte na okres d∏u˝szy ni˝ do dnia 31 grudnia 2004 r. podlegajà rozwiàzaniu zmocy prawa zdniem 31 grudnia 2004 r., chyba ˝e wterminie 14 dni od dnia wejÊcia ustawy w ˝ycie Êwiadczeniodawca, z którym zawarto takà umow´, oÊwiadczy Funduszowi, ˝e pozostaje nià zwiàzany. OÊwiadczenie sk∏ada si´ na piÊmie pod rygorem niewa˝noÊci.
+2. Umowy oudzielanie świadczeń zdrowotnych zawarte na okres dłuższy niż do dnia 31 grudnia 2004 r. podlegają rozwiązaniu zmocy prawa zdniem 31 grudnia 2004 r., chyba że wterminie 14 dni od dnia wejścia ustawy w życie świadczeniodawca, z którym zawarto taką umowę, oświadczy Funduszowi, że pozostaje nią związany. Oświadczenie składa się na piśmie pod rygorem nieważności.
 
-3. W razie niemo˝noÊci zawarcia do dnia 31 grudnia 2004 r. umów na 2005 r. o udzielanie Êwiadczeƒ opieki zdrowotnej obowiàzywanie dotychczasowych umów zawartych ze Êwiadczeniodawcami na okres do dnia 31 grudnia 2004 r. mo˝e zostaç przed∏u˝one na okres nie d∏u˝szy ni˝ do dnia 31 grudnia 2005 r., wdrodze zmiany umowy dokonanej nie póêniej ni˝ do dnia 31 grudnia 2004 r.
+3. W razie niemożności zawarcia do dnia 31 grudnia 2004 r. umów na 2005 r. o udzielanie świadczeń opieki zdrowotnej obowiązywanie dotychczasowych umów zawartych ze świadczeniodawcami na okres do dnia 31 grudnia 2004 r. może zostać przedłużone na okres nie dłuższy niż do dnia 31 grudnia 2005 r., wdrodze zmiany umowy dokonanej nie póêniej niż do dnia 31 grudnia 2004 r.
 
 **Art. 232.**
 
-1. Fundusz wst´puje w prawa i obowiàzki Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251.
+1. Fundusz wstępuje w prawa i obowiązki Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251.
 
-2. Mienie Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, staje si´ z dniem wejÊcia w ˝ycie ustawy z mocy prawa mieniem Funduszu, z tym ˝e mienie otrzymane od Skarbu Paƒstwa zalicza si´ na fundusz podstawowy Funduszu.
+2. Mienie Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, staje się z dniem wejścia w życie ustawy z mocy prawa mieniem Funduszu, z tym że mienie otrzymane od Skarbu Państwa zalicza się na fundusz podstawowy Funduszu.
 
-3. Umowy, na podstawie których Narodowy Fundusz Zdrowia utworzony na podstawie ustawy, o której mowa w art. 251, naby∏ prawo do u˝ywania nieruchomoÊci, wygasajà po up∏ywie 3 miesi´cy od dnia wejÊcia w˝ycie ustawy, chyba ˝e wterminie 2 miesi´cy od dnia wejÊcia ustawy w ˝ycie Prezes Funduszu oÊwiadczy drugiej stronie umowy, ˝e pozostaje nià zwiàzany. OÊwiadczenie Prezes Funduszu sk∏ada na piÊmie pod rygorem niewa˝noÊci.
+3. Umowy, na podstawie których Narodowy Fundusz Zdrowia utworzony na podstawie ustawy, o której mowa w art. 251, nabył prawo do używania nieruchomości, wygasają po upływie 3 miesięcy od dnia wejścia wżycie ustawy, chyba że wterminie 2 miesięcy od dnia wejścia ustawy w życie Prezes Funduszu oświadczy drugiej stronie umowy, że pozostaje nią związany. Oświadczenie Prezes Funduszu składa na piśmie pod rygorem nieważności.
 
-4. Przepis ust. 3 nie dotyczy umów, na podstawie których Narodowy Fundusz Zdrowia utworzony na podstawie ustawy, o której mowa w art. 251, naby∏ w∏asnoÊç lub u˝ytkowanie wieczyste nieruchomoÊci.
+4. Przepis ust. 3 nie dotyczy umów, na podstawie których Narodowy Fundusz Zdrowia utworzony na podstawie ustawy, o której mowa w art. 251, nabył własność lub użytkowanie wieczyste nieruchomości.
 
-5. PrzejÊcie praw i mienia Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, na Fundusz nast´puje nieodp∏atnie oraz jest wolne od podatków i op∏at.
+5. Przejście praw i mienia Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, na Fundusz następuje nieodpłatnie oraz jest wolne od podatków i opłat.
 
 **Art. 233.**
 
-1. Bilans zamkni´cia Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, októrej mowa w art. 251, staje si´ bilansem otwarcia Funduszu.
+1. Bilans zamknięcia Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, októrej mowa w art. 251, staje się bilansem otwarcia Funduszu.
 
-2. Plan finansowy na 2005 r. Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, októrej mowa w art. 251, staje si´ planem finansowym Funduszu. Przepisy ustawy dotyczàce planu finansowego Funduszu stosuje si´ odpowiednio.
+2. Plan finansowy na 2005 r. Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, októrej mowa w art. 251, staje się planem finansowym Funduszu. Przepisy ustawy dotyczące planu finansowego Funduszu stosuje się odpowiednio.
 
 3. Sprawozdanie finansowe za rok 2004 Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, jest zatwierdzane
 
 **Art. 234.**
 
-1. Ujawnienie w ksi´gach wieczystych praw w∏asnoÊci nieruchomoÊci i u˝ytkowania wieczystego nieruchomoÊci, wynikajàcych z przej´cia przez Fundusz mienia, októrym mowa wart. 232 ust. 2, nast´puje na wniosek Prezesa Funduszu, na podstawie oÊwiadczenia woli, o którym mowa w art. 239 ust. 2 pkt 5.
+1. Ujawnienie w księgach wieczystych praw własności nieruchomości i użytkowania wieczystego nieruchomości, wynikających z przejęcia przez Fundusz mienia, októrym mowa wart. 232 ust. 2, następuje na wniosek Prezesa Funduszu, na podstawie oświadczenia woli, o którym mowa w art. 239 ust. 2 pkt 5.
 
-2. Post´powanie w przedmiocie wpisów jest wolne od op∏at sàdowych.
+2. Postępowanie w przedmiocie wpisów jest wolne od opłat sądowych.
 
-**Art. 235.** Fundusz przejmuje zbiory danych prowadzone przez Narodowy Fundusz Zdrowia utworzony na podstawie ustawy, októrej mowa wart. 251, wtym zbiory danych osobowych. W przypadku zbiorów danych znajdujàcych si´ woddzia∏ach wojewódzkich Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, zbiory te stajà si´ zbiorami danych w∏aÊciwych oddzia∏ów wojewódzkich Funduszu.
+**Art. 235.** Fundusz przejmuje zbiory danych prowadzone przez Narodowy Fundusz Zdrowia utworzony na podstawie ustawy, októrej mowa wart. 251, wtym zbiory danych osobowych. W przypadku zbiorów danych znajdujących się woddziałach wojewódzkich Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, zbiory te stają się zbiorami danych właściwych oddziałów wojewódzkich Funduszu.
 
-**Art. 236.** Bank Gospodarstwa Krajowego przejmie w trybie okreÊlonym w art. 130 ust. 3. obs∏ug´ bankowà Funduszu nie póêniej ni˝ do dnia 31 grudnia 2004 r.
+**Art. 236.** Bank Gospodarstwa Krajowego przejmie w trybie określonym w art. 130 ust. 3. obsługę bankową Funduszu nie póêniej niż do dnia 31 grudnia 2004 r.
 
-**Art. 237.** Z dniem wejÊcia w ˝ycie ustawy:
+**Art. 237.** Z dniem wejścia w życie ustawy:
 
 **Art. 238.**
 
-1. Pracownicy oddzia∏ów wojewódzkich Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, októrej mowa wart. 251, zdniem wejÊcia w ˝ycie ustawy stajà si´, z mocy prawa, pracownikami Funduszu, zatrudnionymi na stanowiskach pracy we w∏aÊciwych oddzia∏ach wojewódzkich.
+1. Pracownicy oddziałów wojewódzkich Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, októrej mowa wart. 251, zdniem wejścia w życie ustawy stają się, z mocy prawa, pracownikami Funduszu, zatrudnionymi na stanowiskach pracy we właściwych oddziałach wojewódzkich.
 
-2. Pracownicy centrali Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa wart. 251, zdniem wejÊcia w˝ycie ustawy stajà si´, z mocy prawa, pracownikami Funduszu zatrudnionymi na stanowiskach pracy w centrali tego Funduszu.
+2. Pracownicy centrali Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa wart. 251, zdniem wejścia wżycie ustawy stają się, z mocy prawa, pracownikami Funduszu zatrudnionymi na stanowiskach pracy w centrali tego Funduszu.
 
 **Art. 239.**
 
-1. Minister w∏aÊciwy do spraw zdrowia sprawuje nadzór nad organizowaniem Funduszu.
+1. Minister właściwy do spraw zdrowia sprawuje nadzór nad organizowaniem Funduszu.
 
-2. Minister w∏aÊciwy do spraw zdrowia podejmuje dzia∏ania konieczne do realizacji celów ustawy, a w szczególnoÊci:
+2. Minister właściwy do spraw zdrowia podejmuje działania konieczne do realizacji celów ustawy, a w szczególności:
 
-- **1)** powo∏uje Komisj´ Inwentaryzacyjnà wcelu ustalenia mienia Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, o której mowa wart. 251, które zostanie przekazane do Funduszu, w tym okreÊlenia, które ze sk∏adników majàtkowych Narodowego Funduszu Zdrowia pochodzà z mienia Skarbu Paƒstwa;
-- **2)** sporzàdza wykazy mienia Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, októrej mowa wart. 251, oraz wszystkich jego jednostek organizacyjnych, w tym odr´bny wykaz mienia Skarbu Paƒstwa, które zosta∏o przej´te przez Narodowy Fundusz Zdrowia utworzony na podstawie ustawy, o której mowa w art. 251, po zlikwidowanych kasach chorych i ich jednostkach organizacyjnych;
-- **3)** przygotowuje przej´cie przez Fundusz mienia Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, o której mowa w art. 251, oraz wszystkich jego jednostek organizacyjnych, a w szczególnoÊci Êrodków trwa∏ych i wyposa˝enia;
-- **4)** przygotowuje przej´cie przez Fundusz praw majàtkowych i niemajàtkowych Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, októrej mowa wart. 251, oraz wszystkich jego jednostek organizacyjnych;
-- **5)** z∏o˝y, w formie aktu notarialnego, oÊwiadczenie woli o wniesieniu do Funduszu mienia Skarbu Paƒstwa, o którym mowa w pkt 2.
+- **1)** powołuje Komisję Inwentaryzacyjną wcelu ustalenia mienia Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, o której mowa wart. 251, które zostanie przekazane do Funduszu, w tym określenia, które ze składników majątkowych Narodowego Funduszu Zdrowia pochodzą z mienia Skarbu Państwa;
+- **2)** sporządza wykazy mienia Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, októrej mowa wart. 251, oraz wszystkich jego jednostek organizacyjnych, w tym odrębny wykaz mienia Skarbu Państwa, które zostało przejęte przez Narodowy Fundusz Zdrowia utworzony na podstawie ustawy, o której mowa w art. 251, po zlikwidowanych kasach chorych i ich jednostkach organizacyjnych;
+- **3)** przygotowuje przejęcie przez Fundusz mienia Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, o której mowa w art. 251, oraz wszystkich jego jednostek organizacyjnych, a w szczególności środków trwałych i wyposażenia;
+- **4)** przygotowuje przejęcie przez Fundusz praw majątkowych i niemajątkowych Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, októrej mowa wart. 251, oraz wszystkich jego jednostek organizacyjnych;
+- **5)** złoży, w formie aktu notarialnego, oświadczenie woli o wniesieniu do Funduszu mienia Skarbu Państwa, o którym mowa w pkt 2.
 
-3. Mienie Skarbu Paƒstwa, o którym mowa w ust. 2 pkt 2, zalicza si´ na poczet funduszu podstawowego Funduszu.
+3. Mienie Skarbu Państwa, o którym mowa w ust. 2 pkt 2, zalicza się na poczet funduszu podstawowego Funduszu.
 
-4. Do czasu z∏o˝enia oÊwiadczenia, o którym mowa wust. 2 pkt 5, Fundusz wykonuje uprawnienia Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, o której mowa w art. 251, w zakresie, w jakim ten fundusz wykonywa∏ te uprawnienia do dnia wejÊcia w ˝ycie ustawy.
+4. Do czasu złożenia oświadczenia, o którym mowa wust. 2 pkt 5, Fundusz wykonuje uprawnienia Narodowego Funduszu Zdrowia, utworzonego na podstawie ustawy, o której mowa w art. 251, w zakresie, w jakim ten fundusz wykonywał te uprawnienia do dnia wejścia w życie ustawy.
 
 **Art. 240.**
 
-1. Do czasu wydania ubezpieczonemu karty ubezpieczenia zdrowotnego dowodem ubezpieczenia zdrowotnego jest ka˝dy dokument, który potwierdza uprawnienia do Êwiadczeƒ opieki zdrowotnej, w szczególnoÊci dokument potwierdzajàcy op∏acanie sk∏adek na ubezpieczenie zdrowotne.
+1. Do czasu wydania ubezpieczonemu karty ubezpieczenia zdrowotnego dowodem ubezpieczenia zdrowotnego jest każdy dokument, który potwierdza uprawnienia do świadczeń opieki zdrowotnej, w szczególności dokument potwierdzający opłacanie składek na ubezpieczenie zdrowotne.
 
-2. W przypadku emerytów i rencistów dokumentem potwierdzajàcym op∏acanie sk∏adek na ubezpieczenie zdrowotne, októrym mowa wust. 1, jest dokument potwierdzajàcy kwot´ przekazanej emerytury lub renty, wtym wszczególnoÊci odcinek przekazu lub wyciàg.
+2. W przypadku emerytów i rencistów dokumentem potwierdzającym opłacanie składek na ubezpieczenie zdrowotne, októrym mowa wust. 1, jest dokument potwierdzający kwotę przekazanej emerytury lub renty, wtym wszczególności odcinek przekazu lub wyciąg.
 
-3. W przypadku emerytów i rencistów dokumentem potwierdzajàcym fakt obj´cia ubezpieczeniem zdrowotnym mo˝e byç legitymacja emeryta (rencisty) wydawana na podstawie odr´bnych przepisów.
+3. W przypadku emerytów i rencistów dokumentem potwierdzającym fakt objęcia ubezpieczeniem zdrowotnym może być legitymacja emeryta (rencisty) wydawana na podstawie odrębnych przepisów.
 
-**Art. 241.** Fundusz finansuje Êwiadczenia opieki zdrowotnej na podstawie art. 97 ust. 3 pkt 3 udzielone po dniu wejÊcia w ˝ycie ustawy.
+**Art. 241.** Fundusz finansuje świadczenia opieki zdrowotnej na podstawie art. 97 ust. 3 pkt 3 udzielone po dniu wejścia w życie ustawy.
 
-**Art. 242.** WysokoÊç sk∏adki na ubezpieczenie zdrowotne, o której mowa w art. 79 ust. 1, wynosi:
+**Art. 242.** Wysokość składki na ubezpieczenie zdrowotne, o której mowa w art. 79 ust. 1, wynosi:
 
-**Art. 243.** Podstawà wymiaru sk∏adki na ubezpieczenie zdrowotne, októrej mowa wart. 81 ust. 8 pkt 5 i6, dla osób, októrych mowa wart. 66 ust. 1 pkt 24 w przypadku niepobierania przez bezrobotnych zasi∏ku lub stypendium, oraz dla osób, o których mowa w art. 66 ust. 1 pkt 25 w przypadku niepobierania przez te osoby zasi∏ku przedemerytalnego lub Êwiadczenia przedemerytalnego, jest:
+**Art. 243.** Podstawą wymiaru składki na ubezpieczenie zdrowotne, októrej mowa wart. 81 ust. 8 pkt 5 i6, dla osób, októrych mowa wart. 66 ust. 1 pkt 24 w przypadku niepobierania przez bezrobotnych zasiłku lub stypendium, oraz dla osób, o których mowa w art. 66 ust. 1 pkt 25 w przypadku niepobierania przez te osoby zasiłku przedemerytalnego lub świadczenia przedemerytalnego, jest:
 
-**Art. 244.** OÊwiadczenia woli ubezpieczonych owyborze lekarza, piel´gniarki i po∏o˝nej podstawowej opieki zdrowotnej, z∏o˝one przed dniem wejÊcia w ˝ycie niniejszej ustawy, zachowujà wa˝noÊç.
+**Art. 244.** Oświadczenia woli ubezpieczonych owyborze lekarza, pielęgniarki i położnej podstawowej opieki zdrowotnej, złożone przed dniem wejścia w życie niniejszej ustawy, zachowują ważność.
 
-**Art. 245.** Osoby ubezpieczajàce si´ dobrowolnie nie wnoszà op∏aty, o której mowa w art. 68 ust. 7, je˝eli ubezpieczà si´ wterminie 3 miesi´cy od dnia wejÊcia w ˝ycie niniejszej ustawy.
+**Art. 245.** Osoby ubezpieczające się dobrowolnie nie wnoszą opłaty, o której mowa w art. 68 ust. 7, jeżeli ubezpieczą się wterminie 3 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 246.** Post´powania w indywidualnych sprawach z zakresu ubezpieczenia zdrowotnego wszcz´te i niezakoƒczone przed dniem wejÊcia w ˝ycie ustawy toczà si´ przed Prezesem Funduszu na dotychczasowych zasadach.
+**Art. 246.** Postępowania w indywidualnych sprawach z zakresu ubezpieczenia zdrowotnego wszczęte i niezakończone przed dniem wejścia w życie ustawy toczą się przed Prezesem Funduszu na dotychczasowych zasadach.
 
-**Art. 247.** Akty wykonawcze wydane na podstawie art. 20 ust. 4, art. 23 ust. 11, art. 29 ust. 10 i11, art. 31, art. 36 ust. 4, art. 41 ust. 12, art. 46 ust. 9, art. 47 ust.5, art. 50 ust. 3—5, art. 57 ust. 5, art. 58 ust. 2, art. 59 ust. 3, art. 61 ust. 1 i 2, art. 63, art. 65 ust. 4, art. 67, art. 68 ust. 5 i 6, art. 69 ust. 5 i 6, art. 70 ust. 4, art. 74, art. 78 ust. 5, art. 92 ust. 7, art. 103 ust. 1, art. 125 ust. 5, art. 142 ust. 3, art. 143 ust. 2, art. 197 ust. 6 iart.217 ust. 5 ustawy zdnia 23 stycznia 2003 r. opowszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia zachowujà moc do czasu wydania odpowiednich przepisów na podstawie ustawy, nie d∏u˝ej jednak ni˝ do dnia 31 grudnia 2004 r.
+**Art. 247.** Akty wykonawcze wydane na podstawie art. 20 ust. 4, art. 23 ust. 11, art. 29 ust. 10 i11, art. 31, art. 36 ust. 4, art. 41 ust. 12, art. 46 ust. 9, art. 47 ust.5, art. 50 ust. 3—5, art. 57 ust. 5, art. 58 ust. 2, art. 59 ust. 3, art. 61 ust. 1 i 2, art. 63, art. 65 ust. 4, art. 67, art. 68 ust. 5 i 6, art. 69 ust. 5 i 6, art. 70 ust. 4, art. 74, art. 78 ust. 5, art. 92 ust. 7, art. 103 ust. 1, art. 125 ust. 5, art. 142 ust. 3, art. 143 ust. 2, art. 197 ust. 6 iart.217 ust. 5 ustawy zdnia 23 stycznia 2003 r. opowszechnym ubezpieczeniu w Narodowym Funduszu Zdrowia zachowują moc do czasu wydania odpowiednich przepisów na podstawie ustawy, nie dłużej jednak niż do dnia 31 grudnia 2004 r.
 
-**Art. 248.** Do czasu wejÊcia w˝ycie przepisów wyko- gólnym uwzgl´dnieniem procedur medycznych b´dànawczych wydanych na podstawie upowa˝nienia, cych przedmiotem umów o udzielanie Êwiadczeƒ o którym mowa w art. 54 ust. 5 ustawy zmienianej opieki zdrowotnej. wart. 206 oraz wart. 52 ust. 3 pkt 4 ustawy zmienianej w art. 213, zachowujà moc przepisy dotychczasowe, Art. 251. Traci moc ustawa z dnia 23 stycznia nie d∏u˝ej jednak ni˝ do dnia 31 paêdziernika 2005r. 2003 r. opowszechnym ubezpieczeniu wNarodowym Funduszu Zdrowia (Dz. U. 45, poz. 391, z póên.
+**Art. 248.** Do czasu wejścia wżycie przepisów wyko- gólnym uwzględnieniem procedur medycznych będąnawczych wydanych na podstawie upoważnienia, cych przedmiotem umów o udzielanie świadczeń o którym mowa w art. 54 ust. 5 ustawy zmienianej opieki zdrowotnej. wart. 206 oraz wart. 52 ust. 3 pkt 4 ustawy zmienianej w art. 213, zachowują moc przepisy dotychczasowe, Art. 251. Traci moc ustawa z dnia 23 stycznia nie dłużej jednak niż do dnia 31 paêdziernika 2005r. 2003 r. opowszechnym ubezpieczeniu wNarodowym Funduszu Zdrowia (Dz. U. 45, poz. 391, z póên.
 
 **Art. 249.**
 
-1. Do czasu powo∏ania organów Fundu- zm. szu, o których mowa w art. 98 ust. 1, organy Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, oraz dyrektorzy oddzia∏ów wojewódzkich tego Funduszu pe∏nià swoje funkcje na dotychczasowych zasadach, przy czym Prezes Funduszu i dyrektorzy oddzia∏ów wojewódzkich Funduszu pe∏nià swoje funkcje nie d∏u˝ej ni˝ 3 miesiàce od dnia wejÊcia w ˝ycie niniejszej ustawy.
+1. Do czasu powołania organów Fundu- zm. szu, o których mowa w art. 98 ust. 1, organy Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, oraz dyrektorzy oddziałów wojewódzkich tego Funduszu pełnią swoje funkcje na dotychczasowych zasadach, przy czym Prezes Funduszu i dyrektorzy oddziałów wojewódzkich Funduszu pełnią swoje funkcje nie dłużej niż 3 miesiące od dnia wejścia w życie niniejszej ustawy.
 
-2. Z dniem powo∏ania organów Funduszu, o których mowa w art. 98 ust. 1, organy Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, stosunki pracy dyrektorów oddzia∏ów wojewódzkich tego Funduszu ulegajà rozwiàzaniu oraz wygasajà kadencje rad spo∏ecznych.
+2. Z dniem powołania organów Funduszu, o których mowa w art. 98 ust. 1, organy Narodowego Funduszu Zdrowia utworzonego na podstawie ustawy, o której mowa w art. 251, stosunki pracy dyrektorów oddziałów wojewódzkich tego Funduszu ulegają rozwiązaniu oraz wygasają kadencje rad społecznych.
 
-**Art. 250.** Minister w∏aÊciwy do spraw zdrowia podejmuje dzia∏ania zmierzajàce w szczególnoÊci do powo∏ania jednostki organizacyjnej majàcej za zadanie dokonywanie oceny procedur medycznych, ze szcze).
+**Art. 250.** Minister właściwy do spraw zdrowia podejmuje działania zmierzające w szczególności do powołania jednostki organizacyjnej mającej za zadanie dokonywanie oceny procedur medycznych, ze szcze).
 
-**Art. 252.** Ustawa wchodzi w ˝ycie z dniem 1 paêdziernika 2004 r., z wyjàtkiem:
+**Art. 252.** Ustawa wchodzi w życie z dniem 1 paêdziernika 2004 r., z wyjątkiem:
 

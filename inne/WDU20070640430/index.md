@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070640430) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/430/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 lipca 2006 r. o przekazaniu Êrodków finansowych Êwiadczeniodawcom na wzrost wynagrodzeƒ (Dz. U. Nr 149, poz. 1076) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 22 lipca 2006 r. o przekazaniu środków finansowych świadczeniodawcom na wzrost wynagrodzeń (Dz. U. Nr 149, poz. 1076) wprowadza się następujące zmiany:
 
-**Art. 10b.** Przepisy art. 5 ust. 1a iart. 5a stosuje si´ do Êrodków finansowych uzyskanych przez Êwiadczeniodawców:
+**Art. 10b.** Przepisy art. 5 ust. 1a iart. 5a stosuje się do środków finansowych uzyskanych przez świadczeniodawców:
 

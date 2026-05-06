@@ -10,9 +10,9 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 18 lipca 2002 r. o świadczeniu usług drogą elektroniczną.
 
-*USTAWA zdnia 18 lipca 2002 oÊwiadczeniu us∏ug drogà elektronicznà.*
+*USTAWA zdnia 18 lipca 2002 oświadczeniu usług drogą elektroniczną.*
 
 | Pole | Wartość |
 |---|---|
@@ -26,119 +26,126 @@ domain: null
 | Ostatnia zmiana | 2024-11-19 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021441204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1204/text.pdf) |
 
-1.Ustawa okreÊla:
-2) zasady wy∏àczania odpowiedzialnoÊci us∏ugodawcy tytu∏u Êwiadczenia us∏ug drogà elektronicznà,
-3) zasady ochrony danych osobowych osób fizyczosoby wykonujàcej zawód, której prawo wykonywania zawodu jest uzale˝nione od spe∏nienia wymagaƒ okreÊlonych w odr´bnych ustawach, wy∏àczeniem informacji umo˝liwiajàcej porozumiewanie si´ za pomocà Êrodków komunikacji elektronicznej okreÊlonà osobà oraz informacji otowarach ius∏ugach nies∏u˝àcej osiàgni´ciu efektu handlowego po˝àdanego przez podmiot, który zleca jej rozpowszechnianie, w szczególnoÊci bez wynagrodzenia lub innych korzyÊci od producentów, sprzedawców iÊwiadczàcych us∏ugi,
-3) system teleinformatyczny zespó∏ wspó∏pracujàcych ze sobà urzàdzeƒ informatycznych ioprogramowania, zapewniajàcy przetwarzanie i przechowywanie, a tak˝e wysy∏anie i odbieranie danych poprzez sieci telekomunikacyjne za pomocà w∏aÊciwego dla danego rodzaju sieci urzàdzenia koƒcowego w rozumieniu ustawy dnia 21 lipca 2000 Prawo telekomunikacyjne (Dz. U. 73, 852, 2001 122, 1321 i 154, 1800 i 1802 oraz 2002 25, 253 iNr74, 676),
-4) Êwiadczenie drogà elektronicznà wykonanie us∏ugi, które nast´puje przez wysy∏anie iodbieranie danych za pomocà systemów teleinformatycznych, na indywidualne ˝àdanie us∏ugobiorcy, bez jednoczesnej obecnoÊci stron, przy czym dane te sà transmitowane za poÊrednictwem sieci publicznych w rozumieniu ustawy, o której mowa wpkt 3,
-5) Êrodki komunikacji elektronicznej rozwiàzania techniczne, w tym urzàdzenia teleinformatyczne i wspó∏pracujàce nimi narz´dzia programowe, umo˝liwiajàce indywidualne porozumiewanie si´ na odleg∏oÊç przy wykorzystaniu transmisji danych mi´dzy systemami teleinformatycznymi, awszczególnoÊci poczt´ elektronicznà,
-6) us∏ugodawca osob´ fizycznà, osob´ prawnà albo jednostk´ organizacyjnà nieposiadajàcà osobowoÊci prawnej, która prowadzàc, chocia˝by ubocznie, dzia∏alnoÊç zarobkowà lub zawodowà Êwiadczy drogà elektronicznà,
-7) us∏ugobiorca osob´ fizycznà, osob´ prawnà albo jednostk´ organizacyjnà nieposiadajàcà osobowoÊci prawnej, która korzysta zus∏ugi Êwiadczonej drogà elektronicznà.
-3.Przepisów ustawy nie stosuje si´ do: wanym przez nie zawodem,
-3) Êwiadczenia przez operatora us∏ug telekomunikacyjnych polegajàcych na przekazywaniu danych lub sygna∏ów mi´dzy zakoƒczeniami sieci telekomunikacyjnej, je˝eli przekaz ten dokonywany jest woparciu ozasady okreÊlone wart. 12,
-4) przeprowadzania rozliczeƒ irozrachunków mi´dzybankowych za pomocà elektronicznych noÊników informacji,
-5) wydawania iwykorzystywania kart p∏atniczych oraz pieniàdza elektronicznego w rozumieniu ustawy zdnia 29 sierpnia 1997 Prawo bankowe (Dz. U.
+1.Ustawa określa:
+2) zasady wyłączania odpowiedzialności usługodawcy tytułu świadczenia usług drogą elektroniczną,
+3) zasady ochrony danych osobowych osób fizyczosoby wykonującej zawód, której prawo wykonywania zawodu jest uzależnione od spełnienia wymagań określonych w odrębnych ustawach, wyłączeniem informacji umożliwiającej porozumiewanie się za pomocą środków komunikacji elektronicznej określoną osobą oraz informacji otowarach iusługach niesłużącej osiągnięciu efektu handlowego pożądanego przez podmiot, który zleca jej rozpowszechnianie, w szczególności bez wynagrodzenia lub innych korzyści od producentów, sprzedawców iświadczących usługi,
+3) system teleinformatyczny zespół współpracujących ze sobą urządzeń informatycznych ioprogramowania, zapewniający przetwarzanie i przechowywanie, a także wysyłanie i odbieranie danych poprzez sieci telekomunikacyjne za pomocą właściwego dla danego rodzaju sieci urządzenia końcowego w rozumieniu ustawy dnia 21 lipca 2000 Prawo telekomunikacyjne (Dz. U. 73, 852, 2001 122, 1321 i 154, 1800 i 1802 oraz 2002 25, 253 iNr74, 676),
+4) świadczenie drogą elektroniczną wykonanie usługi, które następuje przez wysyłanie iodbieranie danych za pomocą systemów teleinformatycznych, na indywidualne żądanie usługobiorcy, bez jednoczesnej obecności stron, przy czym dane te są transmitowane za pośrednictwem sieci publicznych w rozumieniu ustawy, o której mowa wpkt 3,
+5) środki komunikacji elektronicznej rozwiązania techniczne, w tym urządzenia teleinformatyczne i współpracujące nimi narzędzia programowe, umożliwiające indywidualne porozumiewanie się na odległość przy wykorzystaniu transmisji danych między systemami teleinformatycznymi, awszczególności pocztę elektroniczną,
+6) usługodawca osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadząc, chociażby ubocznie, działalność zarobkową lub zawodową świadczy drogą elektroniczną,
+7) usługobiorca osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, która korzysta zusługi świadczonej drogą elektroniczną.
+3.Przepisów ustawy nie stosuje się do: wanym przez nie zawodem,
+3) świadczenia przez operatora usług telekomunikacyjnych polegających na przekazywaniu danych lub sygnałów między zakończeniami sieci telekomunikacyjnej, jeżeli przekaz ten dokonywany jest woparciu ozasady określone wart. 12,
+4) przeprowadzania rozliczeń irozrachunków międzybankowych za pomocą elektronicznych nośników informacji,
+5) wydawania iwykorzystywania kart płatniczych oraz pieniądza elektronicznego w rozumieniu ustawy zdnia 29 sierpnia 1997 Prawo bankowe (Dz. U.
 z2002 72, 665, 126, 1070 i 141,
 1178),
-6) Êwiadczenia us∏ug drogà elektronicznà, je˝eli odbywa si´ ono w ramach struktury organizacyjnej us∏ugodawcy, przy czym us∏uga Êwiadczona drogà elektronicznà s∏u˝y wy∏àcznie kierowania pracà lub procesami gospodarczymi tego podmiotu.
-4. 1. Je˝eli ustawa wymaga uzyskania zgody us∏ugobiorcy, to zgoda ta:
-1)nie mo˝e byç domniemana lub dorozumiana zoÊwiadczenia woli oinnej treÊci,
-2) mo˝e byç odwo∏ana wka˝dym czasie.
-2. Us∏ugodawca wykazuje uzyskanie zgody, o której mowa wust. 1, dla celów dowodowych.
-Rozdzia∏ 2 Obowiàzki us∏ugodawcy Êwiadczàcego drogà elektronicznà
-5.1. Us∏ugodawca podaje, wsposób wyraêny, jednoznaczny i bezpoÊrednio dost´pny poprzez system teleinformatyczny, którym pos∏uguje si´ us∏ugobiorca, informacje podstawowe okreÊlone wust. 2—5.
-2. Us∏ugodawca podaje:
+6) świadczenia usług drogą elektroniczną, jeżeli odbywa się ono w ramach struktury organizacyjnej usługodawcy, przy czym usługa świadczona drogą elektroniczną służy wyłącznie kierowania pracą lub procesami gospodarczymi tego podmiotu.
+4. 1. Jeżeli ustawa wymaga uzyskania zgody usługobiorcy, to zgoda ta:
+1)nie może być domniemana lub dorozumiana zoświadczenia woli oinnej treści,
+2) może być odwołana wkażdym czasie.
+2. Usługodawca wykazuje uzyskanie zgody, o której mowa wust. 1, dla celów dowodowych.
+5.1. Usługodawca podaje, wsposób wyraêny, jednoznaczny i bezpośrednio dostępny poprzez system teleinformatyczny, którym posługuje się usługobiorca, informacje podstawowe określone wust. 2—5.
+2. Usługodawca podaje:
 1) adresy elektroniczne,
-2) imi´, nazwisko, miejsce zamieszkania i adres albo nazw´ lub firm´ oraz siedzib´ iadres.
-3. Je˝eli us∏ugodawcà jest przedsi´biorca, podaje on równie˝ informacje dotyczàce w∏aÊciwego zezwolenia i organu zezwalajàcego, w razie gdy Êwiadczenie prawo wykonywania zawodu jest uzale˝nione od spe∏nienia okreÊlonych wodr´bnych ustawach wymagaƒ, podaje równie˝:
-1) w przypadku ustanowienia pe∏nomocnika, jego imi´, nazwisko, miejsce zamieszkania i adres albo jego nazw´ lub firm´ oraz siedzib´ iadres,
-2) samorzàd zawodowy, którego nale˝y,
-3) tytu∏ zawodowy, którego u˝ywa, oraz paƒstwo, wktórym zosta∏ on przyznany,
-4) numer wrejestrze publicznym, którego jest wpisany wraz ze wskazaniem nazwy rejestru i organu prowadzàcego rejestr,
-5) informacj´ o istnieniu w∏aÊciwych dla danego zawodu zasad etyki zawodowej oraz o sposobie dost´pu tych zasad.
-6. Us∏ugodawca jest obowiàzany zapewniç us∏ugobiorcy dost´p aktualnej informacji o:
-1) szczególnych zagro˝eniach zwiàzanych korzystaniem zus∏ugi Êwiadczonej drogà elektronicznà,
-2) funkcji icelu oprogramowania lub danych nieb´dàcych sk∏adnikiem treÊci us∏ugi, wprowadzanych przez us∏ugodawc´ systemu teleinformatycznego, którym pos∏uguje si´ us∏ugobiorca.
-7. Us∏ugodawca zapewnia dzia∏anie systemu teleinformatycznego, którym si´ pos∏uguje, umo˝liwiajàc nieodp∏atnie us∏ugobiorcy:
-1) wrazie, gdy wymaga tego w∏aÊciwoÊç us∏ugi:
-a) korzystanie przez us∏ugobiorc´ Êwiadczonej drogà elektronicznà, w sposób uniemo˝liwiajàcy dost´p osób nieuprawnionych treÊci przekazu sk∏adajàcego si´ na t´ us∏ug´, w szczególnoÊci przy wykorzystaniu technik kryptograficznych odpowiednich dla w∏aÊciwoÊci Êwiadczonej us∏ugi,
-b) jednoznacznà identyfikacj´ stron Êwiadczonej drogà elektronicznà oraz potwierdzenie faktu z∏o˝enia oÊwiadczeƒ woli i ich treÊci, niezb´dnych zawarcia drogà elektronicznà umowy o Êwiadczenie tej us∏ugi, w szczególnoÊci przy wykorzystaniu bezpiecznego podpisu elektronicznego w rozumieniu ustawy dnia 18 wrzeÊnia 2001 o podpisie elektronicznym (Dz. U. 130, 1450), formatycznego, którym pos∏uguje si´ us∏ugobiorca.
-2. Us∏ugobiorca nie jest zwiàzany tymi postanowieniami regulaminu, które nie zosta∏y mu udost´pnione wsposób, októrym mowa wust. 1 pkt 2.
-3. Regulamin okreÊla wszczególnoÊci:
-1) rodzaje izakres us∏ug Êwiadczonych drogà elektronicznà,
-2) warunki Êwiadczenia us∏ug drogà elektronicznà, wtym:
-a) wymagania techniczne niezb´dne wspó∏pracy systemem teleinformatycznym, którym pos∏uguje si´ us∏ugodawca,
-b)zakaz dostarczania przez us∏ugobiorc´ treÊci ocharakterze bezprawnym,
-3)warunki zawierania i rozwiàzywania umów oÊwiadczenie us∏ug drogà elektronicznà,
-4) tryb post´powania reklamacyjnego.
-4. Us∏ugodawca Êwiadczy drogà elektronicznà zgodnie zregulaminem.
-9.1. Informacja handlowa jest wyraênie wyodr´bniana i oznaczana w sposób niebudzàcy wàtpliwoÊci, ˝e jest to informacja handlowa.
+2) imię, nazwisko, miejsce zamieszkania i adres albo nazwę lub firmę oraz siedzibę iadres.
+3. Jeżeli usługodawcą jest przedsiębiorca, podaje on również informacje dotyczące właściwego zezwolenia i organu zezwalającego, w razie gdy świadczenie prawo wykonywania zawodu jest uzależnione od spełnienia określonych wodrębnych ustawach wymagań, podaje również:
+1) w przypadku ustanowienia pełnomocnika, jego imię, nazwisko, miejsce zamieszkania i adres albo jego nazwę lub firmę oraz siedzibę iadres,
+2) samorząd zawodowy, którego należy,
+3) tytuł zawodowy, którego używa, oraz państwo, wktórym został on przyznany,
+4) numer wrejestrze publicznym, którego jest wpisany wraz ze wskazaniem nazwy rejestru i organu prowadzącego rejestr,
+5) informację o istnieniu właściwych dla danego zawodu zasad etyki zawodowej oraz o sposobie dostępu tych zasad.
+6. Usługodawca jest obowiązany zapewnić usługobiorcy dostęp aktualnej informacji o:
+1) szczególnych zagrożeniach związanych korzystaniem zusługi świadczonej drogą elektroniczną,
+2) funkcji icelu oprogramowania lub danych niebędących składnikiem treści usługi, wprowadzanych przez usługodawcę systemu teleinformatycznego, którym posługuje się usługobiorca.
+7. Usługodawca zapewnia działanie systemu teleinformatycznego, którym się posługuje, umożliwiając nieodpłatnie usługobiorcy:
+1) wrazie, gdy wymaga tego właściwość usługi:
+a) korzystanie przez usługobiorcę świadczonej drogą elektroniczną, w sposób uniemożliwiający dostęp osób nieuprawnionych treści przekazu składającego się na tę usługę, w szczególności przy wykorzystaniu technik kryptograficznych odpowiednich dla właściwości świadczonej usługi,
+b) jednoznaczną identyfikację stron świadczonej drogą elektroniczną oraz potwierdzenie faktu złożenia oświadczeń woli i ich treści, niezbędnych zawarcia drogą elektroniczną umowy o świadczenie tej usługi, w szczególności przy wykorzystaniu bezpiecznego podpisu elektronicznego w rozumieniu ustawy dnia 18 września 2001 o podpisie elektronicznym (Dz. U. 130, 1450), formatycznego, którym posługuje się usługobiorca.
+2. Usługobiorca nie jest związany tymi postanowieniami regulaminu, które nie zostały mu udostępnione wsposób, októrym mowa wust. 1 pkt 2.
+3. Regulamin określa wszczególności:
+1) rodzaje izakres usług świadczonych drogą elektroniczną,
+2) warunki świadczenia usług drogą elektroniczną, wtym:
+a) wymagania techniczne niezbędne współpracy systemem teleinformatycznym, którym posługuje się usługodawca,
+b)zakaz dostarczania przez usługobiorcę treści ocharakterze bezprawnym,
+3)warunki zawierania i rozwiązywania umów oświadczenie usług drogą elektroniczną,
+4) tryb postępowania reklamacyjnego.
+4. Usługodawca świadczy drogą elektroniczną zgodnie zregulaminem.
+9.1. Informacja handlowa jest wyraênie wyodrębniana i oznaczana w sposób niebudzący wątpliwości, że jest to informacja handlowa.
 2. Informacja handlowa zawiera:
 1) oznaczenie podmiotu, na którego zlecenie jest ona rozpowszechniana, oraz jego adresy elektroniczne,
-2)wyraêny opis form dzia∏alnoÊci promocyjnej, w szczególnoÊci obni˝ek cen, nieodp∏atnych Êwiadczeƒ pieni´˝nych lub rzeczowych iinnych korzyÊci zwiàzanych promowanym towarem, us∏ugà lub wizerunkiem, atak˝e jednoznaczne okreÊlenie warunków niezb´dnych skorzystania tych korzyÊci, oile sà one sk∏adnikiem oferty,
-3) wszelkie informacje, które mogà mieç wp∏yw na okreÊlenie zakresu odpowiedzialnoÊci stron, wszczególnoÊci ostrze˝enia izastrze˝enia.
-3. Przepisy ust. 1 i2 nie naruszajà przepisów ustawy:
-1) zdnia 16 kwietnia 1993 ozwalczaniu nieuczciwej konkurencji (Dz. U. 47, 211, z1996 106, 496, z1997 88, 554, z1998 106, 668, z2000 29, 356 iNr 93, poz.1027 biorcy za pomocà Êrodków komunikacji elektronicznej, wszczególnoÊci poczty elektronicznej.
-2. Informacj´ handlowà uwa˝a si´ za zamówionà, je˝eli odbiorca wyrazi∏ zgod´ na otrzymywanie takiej informacji, w szczególnoÊci udost´pni∏ w tym celu identyfikujàcy go adres elektroniczny.
-3. Dzia∏anie, októrym mowa wust. 1, stanowi czyn nieuczciwej konkurencji wrozumieniu przepisów ustawy, októrej mowa wart. 9 ust. 3 pkt 1.
-11. Wsprawach nieuregulowanych wustawie Êwiadczenia us∏ug drogà elektronicznà, wszczególnoÊci sk∏adania oÊwiadczeƒ woli wpostaci elektronicznej, stosuje si´ przepisy Kodeksu cywilnego oraz innych ustaw.
-Rozdzia∏ 3 Wy∏àczenie odpowiedzialnoÊci us∏ugodawcy ztytu∏u Êwiadczenia us∏ug drogà elektronicznà
-12.1. Nie ponosi odpowiedzialnoÊci za przekazywane dane ten, kto transmitujàc dane:
+2)wyraêny opis form działalności promocyjnej, w szczególności obniżek cen, nieodpłatnych świadczeń pieniężnych lub rzeczowych iinnych korzyści związanych promowanym towarem, usługą lub wizerunkiem, atakże jednoznaczne określenie warunków niezbędnych skorzystania tych korzyści, oile są one składnikiem oferty,
+3) wszelkie informacje, które mogą mieć wpływ na określenie zakresu odpowiedzialności stron, wszczególności ostrzeżenia izastrzeżenia.
+3. Przepisy ust. 1 i2 nie naruszają przepisów ustawy:
+1) zdnia 16 kwietnia 1993 ozwalczaniu nieuczciwej konkurencji (Dz. U. 47, 211, z1996 106, 496, z1997 88, 554, z1998 106, 668, z2000 29, 356 iNr 93, poz.1027 biorcy za pomocą środków komunikacji elektronicznej, wszczególności poczty elektronicznej.
+2. Informację handlową uważa się za zamówioną, jeżeli odbiorca wyraził zgodę na otrzymywanie takiej informacji, w szczególności udostępnił w tym celu identyfikujący go adres elektroniczny.
+3. Działanie, októrym mowa wust. 1, stanowi czyn nieuczciwej konkurencji wrozumieniu przepisów ustawy, októrej mowa wart. 9 ust. 3 pkt 1.
+11. Wsprawach nieuregulowanych wustawie świadczenia usług drogą elektroniczną, wszczególności składania oświadczeń woli wpostaci elektronicznej, stosuje się przepisy Kodeksu cywilnego oraz innych ustaw.
+12.1. Nie ponosi odpowiedzialności za przekazywane dane ten, kto transmitując dane:
 1) nie jest inicjatorem transmisji,
 2) nie wybiera odbiorcy danych oraz
-3) nie usuwa albo nie modyfikuje danych b´dàcych przedmiotem transmisji.
-2. Wy∏àczenie odpowiedzialnoÊci, o którym mowa w ust. 1, obejmuje tak˝e automatyczne i krótkotrwa∏e poÊrednie przechowywanie transmitowanych danych, je˝eli dzia∏anie to ma wy∏àcznie na celu przeprowadzenie transmisji, adane nie sà przechowywane d∏u˝ej, ni˝ jest to w zwyk∏ych warunkach konieczne dla zrealizowania transmisji.
-13. 1. Nie ponosi odpowiedzialnoÊci za przechowywane dane ten, kto transmitujàc dane oraz zapewniajàc automatyczne i krótkotrwa∏e poÊrednie przechowywanie tych danych w celu przyspieszenia ponownego dost´pu nich na ˝àdanie innego podmiotu:
+3) nie usuwa albo nie modyfikuje danych będących przedmiotem transmisji.
+2. Wyłączenie odpowiedzialności, o którym mowa w ust. 1, obejmuje także automatyczne i krótkotrwałe pośrednie przechowywanie transmitowanych danych, jeżeli działanie to ma wyłącznie na celu przeprowadzenie transmisji, adane nie są przechowywane dłużej, niż jest to w zwykłych warunkach konieczne dla zrealizowania transmisji.
+13. 1. Nie ponosi odpowiedzialności za przechowywane dane ten, kto transmitując dane oraz zapewniając automatyczne i krótkotrwałe pośrednie przechowywanie tych danych w celu przyspieszenia ponownego dostępu nich na żądanie innego podmiotu:
 1) nie usuwa albo nie modyfikuje danych,
-2)pos∏uguje si´ uznanymi i stosowanymi zwykle w tego rodzaju dzia∏alnoÊci technikami informatycznymi okreÊlajàcymi parametry techniczne dost´pu danych iich aktualizowania oraz nakaza∏ usuni´cie danych lub uniemo˝liwienie nich dost´pu.
-14. 1. Nie ponosi odpowiedzialnoÊci za przechowywane dane ten, kto udost´pniajàc zasoby systemu teleinformatycznego w celu przechowywania danych przez us∏ugobiorc´ nie wie o bezprawnym charakterze danych lub zwiàzanej nimi dzia∏alnoÊci, a w razie otrzymania urz´dowego zawiadomienia lub uzyskania wiarygodnej wiadomoÊci o bezprawnym charakterze danych lub zwiàzanej nimi dzia∏alnoÊci niezw∏ocznie uniemo˝liwi dost´p tych danych.
-2. Us∏ugodawca, który otrzyma∏ urz´dowe zawiadomienie o bezprawnym charakterze przechowywanych danych dostarczonych przez us∏ugobiorc´ iuniemo˝liwi∏ dost´p tych danych, nie ponosi odpowiedzialnoÊci wzgl´dem tego us∏ugobiorcy za szkod´ powsta∏à wwyniku uniemo˝liwienia dost´pu tych danych.
-3. Us∏ugodawca, który uzyska∏ wiarygodnà wiadomoÊç o bezprawnym charakterze przechowywanych danych dostarczonych przez us∏ugobiorc´ iuniemo˝liwi∏ dost´p tych danych, nie odpowiada wzgl´dem tego us∏ugobiorcy za szkod´ powsta∏à wwyniku uniemo˝liwienia dost´pu tych danych, je˝eli niezw∏ocznie zawiadomi∏ us∏ugobiorc´ ozamiarze uniemo˝liwienia nich dost´pu.
-4. Przepisów ust. 1—3 nie stosuje si´, je˝eli us∏ugodawca przejà∏ kontrol´ nad us∏ugobiorcà wrozumieniu przepisów ustawy zdnia 15 grudnia 2000 oochronie konkurencji i konsumentów (Dz. U. 122, 1319, 2001 110, 1189 i 154, 1800 oraz 2002 129, 1102).
-15. Podmiot, który Êwiadczy okreÊlone wart. 12—14, nie jest obowiàzany sprawdzania przekazywanych, przechowywanych lub udost´pnianych przez niego danych, októrych mowa wart. 12—14.
-Rozdzia∏ 4 Zasady ochrony danych osobowych wzwiàzku ze Êwiadczeniem us∏ug drogà elektronicznà
+2)posługuje się uznanymi i stosowanymi zwykle w tego rodzaju działalności technikami informatycznymi określającymi parametry techniczne dostępu danych iich aktualizowania oraz nakazał usunięcie danych lub uniemożliwienie nich dostępu.
+14. 1. Nie ponosi odpowiedzialności za przechowywane dane ten, kto udostępniając zasoby systemu teleinformatycznego w celu przechowywania danych przez usługobiorcę nie wie o bezprawnym charakterze danych lub związanej nimi działalności, a w razie otrzymania urzędowego zawiadomienia lub uzyskania wiarygodnej wiadomości o bezprawnym charakterze danych lub związanej nimi działalności niezwłocznie uniemożliwi dostęp tych danych.
+2. Usługodawca, który otrzymał urzędowe zawiadomienie o bezprawnym charakterze przechowywanych danych dostarczonych przez usługobiorcę iuniemożliwił dostęp tych danych, nie ponosi odpowiedzialności względem tego usługobiorcy za szkodę powstałą wwyniku uniemożliwienia dostępu tych danych.
+3. Usługodawca, który uzyskał wiarygodną wiadomość o bezprawnym charakterze przechowywanych danych dostarczonych przez usługobiorcę iuniemożliwił dostęp tych danych, nie odpowiada względem tego usługobiorcy za szkodę powstałą wwyniku uniemożliwienia dostępu tych danych, jeżeli niezwłocznie zawiadomił usługobiorcę ozamiarze uniemożliwienia nich dostępu.
+4. Przepisów ust. 1—3 nie stosuje się, jeżeli usługodawca przejął kontrolę nad usługobiorcą wrozumieniu przepisów ustawy zdnia 15 grudnia 2000 oochronie konkurencji i konsumentów (Dz. U. 122, 1319, 2001 110, 1189 i 154, 1800 oraz 2002 129, 1102).
+15. Podmiot, który świadczy określone wart. 12—14, nie jest obowiązany sprawdzania przekazywanych, przechowywanych lub udostępnianych przez niego danych, októrych mowa wart. 12—14.
 16. 1. Do przetwarzania danych osobowych wrozumieniu ustawy zdnia 29 sierpnia 1997 oochronie danych osobowych (Dz. U. 2002 101,
-926), w zwiàzku ze Êwiadczeniem us∏ug drogà elektronicznà, stosuje si´ przepisy tej ustawy, o ile przepisy niniejszego rozdzia∏u nie stanowià inaczej.
-wiàzania, ukszta∏towania treÊci, zmiany lub rozwiàzania stosunku prawnego mi´dzy nimi:
-1) nazwisko iimiona us∏ugobiorcy,
+926), w związku ze świadczeniem usług drogą elektroniczną, stosuje się przepisy tej ustawy, o ile przepisy niniejszego rozdziału nie stanowią inaczej.
+wiązania, ukształtowania treści, zmiany lub rozwiązania stosunku prawnego między nimi:
+1) nazwisko iimiona usługobiorcy,
 2) numer ewidencyjny PESEL,
-3) adres zameldowania na pobyt sta∏y,
-4) adres korespondencji, je˝eli jest inny ni˝ adres, októrym mowa wpkt 3,
-5) dane s∏u˝àce weryfikacji podpisu elektronicznego us∏ugobiorcy,
-6) adresy elektroniczne us∏ugobiorcy.
-2. Wcelu realizacji umów lub dokonania innej czynnoÊci prawnej us∏ugobiorcà, us∏ugodawca mo˝e przetwarzaç inne dane niezb´dne ze wzgl´du na w∏aÊciwoÊç Êwiadczonej lub sposób jej rozliczenia.
-3. Us∏ugodawca wyró˝nia ioznacza te spoÊród danych, októrych mowa wust. 2, jako dane, których podanie jest niezb´dne Êwiadczenia drogà elektronicznà zgodnie zart. 22 ust. 1.
-4. Us∏ugodawca mo˝e przetwarzaç, za zgodà us∏ugobiorcy idla celów okreÊlonych wart. 19 ust. 2 pkt 2, inne dane dotyczàce us∏ugobiorcy, które nie sà niezb´dne Êwiadczenia drogà elektronicznà.
-5. Us∏ugodawca mo˝e przetwarzaç nast´pujàce dane charakteryzujàce sposób korzystania przez us∏ugobiorc´ zus∏ugi Êwiadczonej drogà elektronicznà (dane eksploatacyjne):
-1) oznaczenia identyfikujàce us∏ugobiorc´ nadawane na podstawie danych, októrych mowa wust. 1,
-2) oznaczenia identyfikujàce zakoƒczenie sieci telekomunikacyjnej lub system teleinformatyczny, którego korzysta∏ us∏ugobiorca,
-3) informacje o rozpocz´ciu, zakoƒczeniu oraz zakresie ka˝dorazowego korzystania Êwiadczonej drogà elektronicznà,
-4) informacje o skorzystaniu przez us∏ugobiorc´ zus∏ug Êwiadczonych drogà elektronicznà.
-6. Us∏ugodawca udziela informacji odanych, októrych mowa wust. 1—5, organom paƒstwa na potrzeby prowadzonych przez nie post´powaƒ.
-19. 1. Us∏ugodawca nie mo˝e przetwarzaç danych osobowych us∏ugobiorcy po zakoƒczeniu korzyczeniem wyników tych badaƒ na potrzeby polepszenia jakoÊci us∏ug Êwiadczonych przez us∏ugodawc´, za zgodà us∏ugobiorcy,
-3) niezb´dne wyjaÊnienia okolicznoÊci niedozwolonego korzystania us∏ugi, o którym mowa wart.21 ust. 1,
-4) dopuszczone przetwarzania na podstawie odr´bnych ustaw lub umowy.
-3. Rozliczenie Êwiadczonej drogà elektronicznà przedstawione us∏ugobiorcy nie mo˝e ujawniaç rodzaju, czasu trwania, cz´stotliwoÊci iinnych parametrów technicznych poszczególnych us∏ug, których skorzysta∏ us∏ugobiorca, chyba ˝e za˝àda∏ on szczegó∏owych informacji wtym zakresie.
-4. Dla celów, októrych mowa wust. 2 pkt 2, dopuszcza si´ jedynie zestawianie danych wymienionych wart. 18 ust. 4 i5 dotyczàcych korzystania przez us∏ugobiorc´ zró˝nych us∏ug Êwiadczonych drogà elektronicznà, pod warunkiem usuni´cia wszelkich oznaczeƒ identyfikujàcych us∏ugobiorc´ lub zakoƒczenie sieci telekomunikacyjnej albo system teleinformatyczny, którego korzysta∏ (anonimizacja danych), chyba ˝e us∏ugobiorca wyrazi∏ uprzednio zgod´ na nieusuwanie tych oznaczeƒ.
-5. Us∏ugodawca nie mo˝e zestawiaç danych osobowych us∏ugobiorcy zprzybranym przez niego pseudonimem.
-20. 1. Us∏ugodawca, który przetwarza dane osobowe us∏ugobiorcy, jest obowiàzany zapewniç us∏ugobiorcy dost´p aktualnej informacji o:
-1) mo˝liwoÊci korzystania zus∏ugi Êwiadczonej drogà elektronicznà anonimowo lub wykorzystaniem pseudonimu, oile sà spe∏nione warunki okreÊlone wart. 22 ust. 2,
-2) udost´pnianych przez us∏ugodawc´ Êrodkach technicznych zapobiegajàcych pozyskiwaniu i modyfikowaniu przez osoby nieuprawnione, danych osobowych przesy∏anych drogà elektronicznà,
-3) podmiocie, któremu powierza przetwarzanie danych, ich zakresie i zamierzonym terminie przekazania, je˝eli us∏ugodawca zawar∏ ztym podmiotem umow´ o powierzenie przetwarzania danych, októrych mowa wart. 18 ust. 1, 2, 4 i5.
-2. Informacje, októrych mowa wust. 1, powinny byç
-2. Us∏ugodawca mo˝e powiadomiç us∏ugobiorc´ o jego nieuprawnionych dzia∏aniach ˝àdaniem ich niezw∏ocznego zaprzestania, a tak˝e o skorzystaniu zuprawnienia, októrym mowa wust. 1.
-22.1. Odmowa Êwiadczenia drogà elektronicznà powodu nieudost´pnienia przez us∏ugobiorc´ danych, októrych mowa wart. 18 ust. 1 i2, jest dopuszczalna tylko wtedy, gdy przetwarzanie tych danych jest niezb´dne ze wzgl´du na sposób funkcjonowania systemu teleinformatycznego zapewniajàcego Êwiadczenie drogà elektronicznà lub w∏aÊciwoÊç albo wynika zodr´bnych ustaw.
-2. Us∏ugodawca umo˝liwia us∏ugobiorcy korzystanie lub uiszczanie op∏at za nià, je˝eli us∏uga Êwiadczona drogà elektronicznà jest odp∏atna, w sposób anonimowy albo przy u˝yciu pseudonimu, o ile jest to technicznie mo˝liwe oraz zwyczajowo przyj´te.
-Rozdzia∏ 5 Przepisy karne
-23. Kto wbrew obowiàzkom okreÊlonym w art.5 nie podaje danych, o których mowa w art. 5 ust.2, 3 lub 5, albo podaje dane nieprawdziwe lub niepe∏ne, podlega karze grzywny.
-24.1. Kto przesy∏a za pomocà Êrodków komunikacji elektronicznej niezamówione informacje handlowe, podlega karze grzywny.
-2. Âciganie wykroczenia, o którym mowa w ust. 1, nast´puje na wniosek pokrzywdzonego.
-25. Orzekanie w sprawach o czyny okreÊlone wart. 23 i24 nast´puje wtrybie przepisów opost´powaniu wsprawach owykroczenia.
-Rozdzia∏ 6 Zmiany wprzepisach obowiàzujàcych
-26. Wustawie zdnia 7 paêdziernika 1999 oj´zyku polskim (Dz. U. 90, 999 i 2000 29,
-358) wart. 8 wust. 3 kropk´ zast´puje si´ przecinkiem idodaje wyrazy „chyba ˝e jest to umowa oÊwiadczenie us∏ug drogà elektronicznà, okreÊlonych wustawie dnia 18 lipca 2002 o Êwiadczeniu us∏ug drogà elektronicznà (Dz. U. 144, 1204), zawarta zus∏ugodawcà nieb´dàcym podmiotem polskim.” wpostaci drukowanej lub elektronicznej, reklamy prasowej wydrukowanym formularzem zamówienia, reklamy w postaci elektronicznej, katalogu, telefonu, telefaksu, radia, telewizji, automatycznego urzàdzenia wywo∏ujàcego, wizjofonu, wideotekstu, poczty elektronicznej lub innych Êrodków komunikacji elektronicznej w rozumieniu ustawy dnia 18 lipca 2002 o Êwiadczeniu us∏ug drogà elektronicznà (Dz. U. 144, 1204), sà umowami na odleg∏oÊç, je˝eli kontrahentem konsumenta jest przedsi´biorca, który w taki sposób zorganizowa∏ swojà dzia∏alnoÊç.”;
-2) ust. 3 otrzymuje brzmienie: „3. Pos∏u˝enie si´ telefonem, wizjofonem, telefaksem, pocztà elektronicznà, automatycznym urzàdzeniem wywo∏ujàcym lub innym Êrodkiem komunikacji elektronicznej w celu z∏o˝enia propozycji zawarcia umowy mo˝e nastàpiç wy∏àcznie za uprzednià zgodà konsumenta.”
-28.Wustawie zdnia 16 listopada 2000 oprzeciwdzia∏aniu wprowadzaniu obrotu finansowego wartoÊci majàtkowych pochodzàcych nielegalnych lub nieujawnionych êróde∏ (Dz. U. 116, 1216, 2001 63, 641 oraz 2002 25, 253, 32, 299, 41, 365, 74, 676, 89, 804 i 141, 1178) w art. 9 ust. 1 otrzymuje brzmienie: „1. W celu wykonania obowiàzku rejestracji instytucje obowiàzane dokonujà identyfikacji swoich klientów w ka˝dym przypadku z∏o˝enia pisemnej, ustnej lub elektronicznej dyspozycji (zlecenia).”
-29. W ustawie dnia 5 lipca 2001 o cenach (Dz. U. 97, 1050) w art. 10 ust. 1 otrzymuje brzmienie: „1. Z zastrze˝eniem przepisów szczególnych, przy uzgadnianiu ceny umownej oraz przy stosowaniu ceny urz´dowej przedsi´biorca ma obowiàzek okreÊliç, wformie pisemnej, atak˝e, oile to mo˝liwe, w postaci elektronicznej, w sposób dost´pny dla kupujàcego, szczegó∏owà charakterystyk´ jakoÊciowà towaru (us∏ugi), a tak˝e wskazaç kraj pochodzenia towaru, je˝eli zosta∏ on wprowadzony na polski obszar celny.”
-30. Ustawa wchodzi w˝ycie po up∏ywie 6 miesi´cy od dnia og∏oszenia, zwyjàtkiem art. 5 ust. 5, który stosuje si´ od dnia uzyskania przez Rzeczpospolità Polskà cz∏onkostwa wUnii Europejskiej.
+3) adres zameldowania na pobyt stały,
+4) adres korespondencji, jeżeli jest inny niż adres, októrym mowa wpkt 3,
+5) dane służące weryfikacji podpisu elektronicznego usługobiorcy,
+6) adresy elektroniczne usługobiorcy.
+2. Wcelu realizacji umów lub dokonania innej czynności prawnej usługobiorcą, usługodawca może przetwarzać inne dane niezbędne ze względu na właściwość świadczonej lub sposób jej rozliczenia.
+3. Usługodawca wyróżnia ioznacza te spośród danych, októrych mowa wust. 2, jako dane, których podanie jest niezbędne świadczenia drogą elektroniczną zgodnie zart. 22 ust. 1.
+4. Usługodawca może przetwarzać, za zgodą usługobiorcy idla celów określonych wart. 19 ust. 2 pkt 2, inne dane dotyczące usługobiorcy, które nie są niezbędne świadczenia drogą elektroniczną.
+5. Usługodawca może przetwarzać następujące dane charakteryzujące sposób korzystania przez usługobiorcę zusługi świadczonej drogą elektroniczną (dane eksploatacyjne):
+1) oznaczenia identyfikujące usługobiorcę nadawane na podstawie danych, októrych mowa wust. 1,
+2) oznaczenia identyfikujące zakończenie sieci telekomunikacyjnej lub system teleinformatyczny, którego korzystał usługobiorca,
+3) informacje o rozpoczęciu, zakończeniu oraz zakresie każdorazowego korzystania świadczonej drogą elektroniczną,
+4) informacje o skorzystaniu przez usługobiorcę zusług świadczonych drogą elektroniczną.
+6. Usługodawca udziela informacji odanych, októrych mowa wust. 1—5, organom państwa na potrzeby prowadzonych przez nie postępowań.
+19. 1. Usługodawca nie może przetwarzać danych osobowych usługobiorcy po zakończeniu korzyczeniem wyników tych badań na potrzeby polepszenia jakości usług świadczonych przez usługodawcę, za zgodą usługobiorcy,
+3) niezbędne wyjaśnienia okoliczności niedozwolonego korzystania usługi, o którym mowa wart.21 ust. 1,
+4) dopuszczone przetwarzania na podstawie odrębnych ustaw lub umowy.
+3. Rozliczenie świadczonej drogą elektroniczną przedstawione usługobiorcy nie może ujawniać rodzaju, czasu trwania, częstotliwości iinnych parametrów technicznych poszczególnych usług, których skorzystał usługobiorca, chyba że zażądał on szczegółowych informacji wtym zakresie.
+4. Dla celów, októrych mowa wust. 2 pkt 2, dopuszcza się jedynie zestawianie danych wymienionych wart. 18 ust. 4 i5 dotyczących korzystania przez usługobiorcę zróżnych usług świadczonych drogą elektroniczną, pod warunkiem usunięcia wszelkich oznaczeń identyfikujących usługobiorcę lub zakończenie sieci telekomunikacyjnej albo system teleinformatyczny, którego korzystał (anonimizacja danych), chyba że usługobiorca wyraził uprzednio zgodę na nieusuwanie tych oznaczeń.
+5. Usługodawca nie może zestawiać danych osobowych usługobiorcy zprzybranym przez niego pseudonimem.
+20. 1. Usługodawca, który przetwarza dane osobowe usługobiorcy, jest obowiązany zapewnić usługobiorcy dostęp aktualnej informacji o:
+1) możliwości korzystania zusługi świadczonej drogą elektroniczną anonimowo lub wykorzystaniem pseudonimu, oile są spełnione warunki określone wart. 22 ust. 2,
+2) udostępnianych przez usługodawcę środkach technicznych zapobiegających pozyskiwaniu i modyfikowaniu przez osoby nieuprawnione, danych osobowych przesyłanych drogą elektroniczną,
+3) podmiocie, któremu powierza przetwarzanie danych, ich zakresie i zamierzonym terminie przekazania, jeżeli usługodawca zawarł ztym podmiotem umowę o powierzenie przetwarzania danych, októrych mowa wart. 18 ust. 1, 2, 4 i5.
+2. Informacje, októrych mowa wust. 1, powinny być
+2. Usługodawca może powiadomić usługobiorcę o jego nieuprawnionych działaniach żądaniem ich niezwłocznego zaprzestania, a także o skorzystaniu zuprawnienia, októrym mowa wust. 1.
+22.1. Odmowa świadczenia drogą elektroniczną powodu nieudostępnienia przez usługobiorcę danych, októrych mowa wart. 18 ust. 1 i2, jest dopuszczalna tylko wtedy, gdy przetwarzanie tych danych jest niezbędne ze względu na sposób funkcjonowania systemu teleinformatycznego zapewniającego świadczenie drogą elektroniczną lub właściwość albo wynika zodrębnych ustaw.
+2. Usługodawca umożliwia usługobiorcy korzystanie lub uiszczanie opłat za nią, jeżeli usługa świadczona drogą elektroniczną jest odpłatna, w sposób anonimowy albo przy użyciu pseudonimu, o ile jest to technicznie możliwe oraz zwyczajowo przyjęte.
+23. Kto wbrew obowiązkom określonym w art.5 nie podaje danych, o których mowa w art. 5 ust.2, 3 lub 5, albo podaje dane nieprawdziwe lub niepełne, podlega karze grzywny.
+24.1. Kto przesyła za pomocą środków komunikacji elektronicznej niezamówione informacje handlowe, podlega karze grzywny.
+2. Âciganie wykroczenia, o którym mowa w ust. 1, następuje na wniosek pokrzywdzonego.
+25. Orzekanie w sprawach o czyny określone wart. 23 i24 następuje wtrybie przepisów opostępowaniu wsprawach owykroczenia.
+26. Wustawie zdnia 7 paêdziernika 1999 ojęzyku polskim (Dz. U. 90, 999 i 2000 29,
+358) wart. 8 wust. 3 kropkę zastępuje się przecinkiem idodaje wyrazy Ńchyba że jest to umowa oświadczenie usług drogą elektroniczną, określonych wustawie dnia 18 lipca 2002 o świadczeniu usług drogą elektroniczną (Dz. U. 144, 1204), zawarta zusługodawcą niebędącym podmiotem polskim.” wpostaci drukowanej lub elektronicznej, reklamy prasowej wydrukowanym formularzem zamówienia, reklamy w postaci elektronicznej, katalogu, telefonu, telefaksu, radia, telewizji, automatycznego urządzenia wywołującego, wizjofonu, wideotekstu, poczty elektronicznej lub innych środków komunikacji elektronicznej w rozumieniu ustawy dnia 18 lipca 2002 o świadczeniu usług drogą elektroniczną (Dz. U. 144, 1204), są umowami na odległość, jeżeli kontrahentem konsumenta jest przedsiębiorca, który w taki sposób zorganizował swoją działalność.”;
+2) ust. 3 otrzymuje brzmienie: Ń3. Posłużenie się telefonem, wizjofonem, telefaksem, pocztą elektroniczną, automatycznym urządzeniem wywołującym lub innym środkiem komunikacji elektronicznej w celu złożenia propozycji zawarcia umowy może nastąpić wyłącznie za uprzednią zgodą konsumenta.”
+28.Wustawie zdnia 16 listopada 2000 oprzeciwdziałaniu wprowadzaniu obrotu finansowego wartości majątkowych pochodzących nielegalnych lub nieujawnionych êródeł (Dz. U. 116, 1216, 2001 63, 641 oraz 2002 25, 253, 32, 299, 41, 365, 74, 676, 89, 804 i 141, 1178) w art. 9 ust. 1 otrzymuje brzmienie: Ń1. W celu wykonania obowiązku rejestracji instytucje obowiązane dokonują identyfikacji swoich klientów w każdym przypadku złożenia pisemnej, ustnej lub elektronicznej dyspozycji (zlecenia).”
+29. W ustawie dnia 5 lipca 2001 o cenach (Dz. U. 97, 1050) w art. 10 ust. 1 otrzymuje brzmienie: Ń1. Z zastrzeżeniem przepisów szczególnych, przy uzgadnianiu ceny umownej oraz przy stosowaniu ceny urzędowej przedsiębiorca ma obowiązek określić, wformie pisemnej, atakże, oile to możliwe, w postaci elektronicznej, w sposób dostępny dla kupującego, szczegółową charakterystykę jakościową towaru (usługi), a także wskazać kraj pochodzenia towaru, jeżeli został on wprowadzony na polski obszar celny.”
+30. Ustawa wchodzi wżycie po upływie 6 miesięcy od dnia ogłoszenia, zwyjątkiem art. 5 ust. 5, który stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej.
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Obowiązki usługodawcy świadczącego drogą elektroniczną
+
+#### Rozdział 3 Wyłączenie odpowiedzialności usługodawcy ztytułu świadczenia usług drogą elektroniczną
+
+#### Rozdział 4 Zasady ochrony danych osobowych wzwiązku ze świadczeniem usług drogą elektroniczną
+
+#### Rozdział 5 Przepisy karne
+
+#### Rozdział 6 Zmiany wprzepisach obowiązujących
 

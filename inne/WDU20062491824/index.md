@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# ne uprawnienia przys∏ugujàce cywilnym niewidomym ofiarom dzia∏aƒ wojennych, zwanym dalej„osobami uprawnionymi”, a tak˝e zasady ustalania realizacji tego Êwiadczenia uprawnieƒ.
+# ne uprawnienia przysługujące cywilnym niewidomym ofiarom działań wojennych, zwanym dalejŃosobami uprawnionymi”, a także zasady ustalania realizacji tego świadczenia uprawnień.
 
 | Pole | Wartość |
 |---|---|
@@ -24,69 +24,45 @@ domain: null
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062491824) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1824/text.pdf) |
 
-2. Osobami uprawnionymi rozumieniu sà obywatele polscy, posiadajàcy sta∏e miejsce zamieszkania Rzeczypospolitej Polskiej, którzy, nie wchodzàc sk∏ad formacji wojskowych, zmilitaryzowanych s∏u˝b paƒstwowych lub formacji zbrojnych ruchu oporu, doznali naruszenia sprawnoÊci organizmu powodujàcego ca∏kowità niezdolnoÊç do pracy, poprzez utrat´ wzroku wyniku:
-1) dzia∏aƒ wojennych okresie wojny 1939—1945;
-2) eksplozji niewypa∏ów lub niewybuchów pozosta∏ych po wojnie 1939—1945, na terytorium Rzeczypospolitej Polskiej.
-2. 1. Osobie przys∏uguje Êwiadczenie pieni´˝ne okreÊlone ustawie, zwane dalej „Êwiadczeniem”.
-2. Âwiadczenie przyznaje si´ na wniosek osoby uprawnionej.
-3. Do wniosku, którym 2, nale˝y do∏àczyç oÊwiadczenie wnioskodawcy korzystaniu ze zwolnienia uzyskiwanych dochodów tytu∏u emerytury lub renty od podatku dochodowego, na podstawie 21 1pkt zdnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz.
-2000 14, 176, póên. zm.
-ku utratà wzroku;
-2) zaÊwiadczenie utracie przez wnioskodawc´ wzroku zpowodu urazu, wystawione przez lekarza okulist´;
-3) dowody poÊwiadczajàce okolicznoÊci skutki wypadku, który spowodowa∏ utrat´ wzroku, tym dokumentacj´ medycznà.
-5. Wprzypadku braku dokumentu, októrym 4 pkt 1, niezdolnoÊci do pracy, dacie jej powstania oraz zwiàzku tej niezdolnoÊci ze stanem narzàdu wzroku orzeka lekarz orzecznik Zak∏adu Ubezpieczeƒ Spo∏ecznych.
-6. Organ rentowy lub emerytalny, b´dàcy p∏atnikiem emerytury lub renty osoby, której 3, jest zobowiàzany do przekazania, na ˝àdanie jednostki organizacyjnej Zak∏adu Ubezpieczeƒ Spo∏ecznych, kopii dokumentów, okreÊlonych 21 1 pkt zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych, z∏o˝onych przez t´ osob´.
-3.1. Prawo do Êwiadczenia ustalajà organyrentowe wrozumieniu przepisów zdnia17grudnia 1998 emeryturach rentach Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. 2004 39, 353, zpóên. zm.
-), wraz ze wskazaniem organu rentowego lub emerytalnego, b´dàcego p∏atnikiem emerytury lub renty.
-4. W przypadku niekorzystania ze zwolnienia, októrym wust. 3, do wniosku nale˝y do∏àczyç:
-1) orzeczenie uznaniu wnioskodawcy za inwalid´ I lub II grupy zwiàzku utratà wzroku lub orze), wdrodze decyzji.
-2. Od decyzji organu rentowego przys∏ugujà osobie zainteresowanej Êrodki odwo∏awcze przewidziane wodr´bnych przepisach dla decyzji wsprawach emerytur rent.
-4. 1. Prawo do Êwiadczenia powstaje dniem spe∏nienia wszystkich warunków wymaganych przez ustaw´ do uzyskania tego prawa.
-2. Prawa do Êwiadczenia nie nabywa, anabyte traci osoba, je˝eli: ———————
-1) gdy ustanie którykolwiek warunków wymaganych do uzyskania Êwiadczenia;
-2) ze Êmiercià osoby uprawnionej.
-5. 1. Âwiadczenie dla osób uprawnionych przys∏uguje kwocie renty socjalnej, której ustawie 27 czerwca 2003 rencie socjalnej (Dz. 135, 1268, póên. zm.
-przys∏ugujàcych ˝o∏nierzom zast´pczej s∏u˝by wojskowej przymusowo zatrudnianym kopalniach w´gla, kamienio∏omach, zak∏adach rud uranu ibatalionach budowlanych,
-5) Êwiadczenia pieni´˝nego okreÊlonego przepisach Êwiadczeniu pieni´˝nym przys∏ugujàcym ). osobom deportowanym do pracy przymusowej oraz osadzonym obozach pracy przez III Rzesz´
-2. Do Êwiadczenia, którym 1, oso- Zwiàzek Socjalistycznych Republik Radzieckich bie przys∏uguje dodatek piel´gnacyjny przys∏uguje tylko jedno ztych Êwiadczeƒ lub jeden na zasadach okreÊlonych 75 tych dodatków wy˝szy lub wybrany przez za17grudnia 1998 oemeryturach irentach zFunduszu interesowanego.
-Ubezpieczeƒ Spo∏ecznych, ztym ˝e dodatek piel´gnacyjny ztytu∏u orzeczenia niezdolnoÊci do samodzielnej 9.Wrazie Êmierci osoby przys∏uegzystencji przys∏uguje wysokoÊci zwi´kszonej guje zasi∏ek pogrzebowy wysokoÊci na zasadach 50 %. okreÊlonych przepisach emeryturach rentach Funduszu Ubezpieczeƒ Spo∏ecznych.
-3. Wrazie zbiegu prawa do dodatku piel´gnacyjnego okreÊlonego ustawà prawem do dodatku piel´- 10. 1. Osobie przys∏uguje: gnacyjnego ustalonym na podstawie odr´bnych prze- 1) prawo do ulgi % przy przejazdach publicznypisów przys∏uguje tylko jeden dodatek. mi Êrodkami komunikacji miejskiej, bez wzgl´du na miejsce zamieszkania;
-6.1. Âwiadczenie iuprawnienia, októrych mowa ustawie, przys∏ugujà czasie pobytu osoby 2) pierwszeƒstwo umieszczeniu, na jej wniosek, na terytorium Rzeczypospolitej Polskiej. domu pomocy spo∏ecznej.
-2. Je˝eli osoba uprawniona pobiera emerytur´ lub 2. Osobie przys∏uguje tak˝e: rent´, tym Êwiadczenie charakterze rentowym 1) prawo do bezp∏atnych leków oraz przedmiotów instytucji zagranicznej, wyp∏acanà kwot´ Êwiadcze- ortopedycznych iÊrodków pomocniczych, na podnia, którym 5, zmniejsza si´ 50 % stawie 45 1 47 1 miesi´cznie, chyba ˝e wyp∏ata emerytury lub renty 27 sierpnia 2004 Êwiadczeniach opieki zdroinnego tytu∏u zosta∏a zawieszona. Przepis niniejszy wotnej finansowanych ze Êrodków publicznych nie narusza przepisów zbiegu uprawnieƒ emerytal- (Dz. 210, 2135, póên. zm.
-nych oraz rentowych innych tytu∏ów.
-7. 1. Âwiadczenie wyp∏acane jest miesi´cznie.
-2. Je˝eli osoba uprawniona pobiera emerytur´ bàdê rent´, Êwiadczenie wyp∏acane jest wraz zemeryturà lub rentà.
-3. Je˝eli osoba uprawniona nie pobiera emerytury lub renty, Êwiadczenie wyp∏aca organ rentowy, który wyda∏ decyzj´ jego przyznaniu. Przepisy dotyczàce wyp∏aty emerytur irent zFunduszu Ubezpieczeƒ Spo∏ecznych stosuje si´ odpowiednio.
-8. Osobie jednoczeÊnie do );
-2) prawo do ambulatoryjnych Êwiadczeƒ specjalistycznych finansowanych ze Êrodków publicznych bez wymaganego skierowania lekarza ubezpieczenia zdrowotnego, na podstawie 57 2 pkt 10a ustawy, której pkt 1;
-3) prawo do skierowania na pobyt sanatorium co najmniej raz na trzy lata, na zasadach których 33 ustawy, której pkt 1;
-4) prawo do ulgowych przejazdów Êrodkami publicznego transportu zbiorowego, na podstawie 2 7 oraz 4 3 20 czerwca 1992 uprawnieniach do ulgowych przejazdów Êrodkami publicznego transportu zbiorowe1) 1 pkt 1;
-2) 2 3 ustawy, której 2 pkt 4.
-11. 1. Dokumentem potwierdzajàcym prawo do korzystania uprawnieƒ, których ustawie, jest legitymacja cywilnej niewidomej ofiary dzia∏aƒ wojennych, wystawiona przez organ rentowy.
-2. Osoba uprawniona jest obowiàzana do okazywania legitymacji na ˝àdanie instytucji albo osoby realizujàcej przys∏ugujàce uprawnienie lub kontrolujàcej prawo do korzystania uprawnieƒ.
-3. Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego okreÊli, drodze rozporzàdzenia, wzór legitymacji cywilnej niewidomej ofiary dzia∏aƒ wojennych, tryb jej wydawania, wymiany anulowania, kierujàc si´ koniecznoÊcià zapewnienia sprawnoÊci post´powania przy wydawaniu tych legitymacji.
-12.Âwiadczenia, dodatki piel´gnacyjne izasi∏ki pogrzebowe, których niniejszej ustawie, koszty ich wyp∏at, koszty post´powania sprawie wniosków oprzyznanie Êwiadczenia oraz koszty wydawania legitymacji, których 11, finansowane sà bud˝etu paƒstwa.
-13. Wsprawach nieuregulowanych wustawie stosuje si´ odpowiednio przepisy oemeryturach irentach Funduszu Ubezpieczeƒ Spo∏ecznych.
-14. W ustawie 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. 2000 14, 176, póên. zm.
-publicznego transportu zbiorowego (Dz. 2002 175, 1440, póên. zm.
-) 21 1 po pkt 25a dodaje si´ pkt 25b brzmieniu: ) 2 dodaje si´ 7 brzmieniu: „7. Do ulgi 78 % przy przejazdach Êrodkami publicznego transportu zbiorowego kolejowego wpociàgach osobowych pospiesznych oraz autobusowego wkomunikacji zwyk∏ej, przyspieszonej ipospiesznej, na podstawie biletów jednorazowych, sà uprawnione cywilne niewidome ofiary dzia∏aƒ wojennych uznane za osoby niezdolne do samodzielnej egzystencji.”.
-16. W ustawie 27 sierpnia 2004 Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. 210, 2135, zpóên.
-zm. ) wprowadza si´ nast´pujàce zmiany:
-1) 5 po pkt 5 dodaje si´ pkt 5a brzmieniu: „5a) cywilna niewidoma ofiara dzia∏aƒ wojennych osob´, której 1 2 ustawy 16 listopada 2006 Êwiadczeniu pieni´˝nym uprawnieniach przys∏ugujàcych cywilnym niewidomym ofiarom dzia∏aƒ wojennych (Dz. 249, 1824);”;
-2) 45 1 otrzymuje brzmienie: „1. Osobom:
-1) które sà inwalidami wojskowymi,
-2) które dozna∏y uszczerbku na zdrowiu okolicznoÊciach okreÊlonych 7 8 29 maja 1974 zaopatrzeniu inwalidów wojennych iwojskowych oraz ich rodzin nie zosta∏y zaliczone do ˝adnej grup inwalidów, ———————
-3) 47 1 otrzymuje brzmienie: 8) 81 8 po pkt 9 dodaje si´ pkt 9a „1. Inwalidom wojennym iwojskowym, cywilnym brzmieniu: niewidomym ofiarom dzia∏aƒ wojennych oraz „9a) osób, októrych wart. 66 1pkt 31a, osobom represjonowanym przys∏uguje prawo jest kwota odpowiadajàca wysokoÊci renty do bezp∏atnych wyrobów medycznych b´dà- socjalnej;”;
-cych przedmiotami ortopedycznymi Êrodków 9) 86 1 pkt 13 otrzymuje brzmienie: pomocniczych na zlecenie lekarza ubezpieczenia zdrowotnego albo felczera ubezpieczenia „13) osób, októrych wart. 66 1pkt 31a zdrowotnego lub lekarza albo felczera nieb´- 32, op∏aca Zak∏ad Ubezpieczeƒ Spo∏eczdàcego lekarzem albo felczerem ubezpieczenia nych;”;
-zdrowotnego, je˝eli posiada uprawnienia do 10) 87 2 otrzymuje brzmienie: wykonywania zawodu oraz zawar∏ zoddzia∏em „2. W przypadku rozliczania sk∏adek na ubezpiewojewódzkim Funduszu umow´ upowa˝niajàcà go do wystawiania takich recept, do wysokoÊci limitu ceny okreÊlonego przepisach wydanych na podstawie 40 4.”;
-4) 57 2 po pkt 10 dodaje si´ pkt 10a brzmieniu: „10a) dla cywilnych niewidomych ofiar dzia∏aƒ wojennych;”;
-5) 66 1 po pkt 31 dodaje si´ pkt 31a brzmieniu: „31a) cywilne niewidome ofiary dzia∏aƒ wojennych, niepodlegajàce obowiàzkowi ubezpieczenia zdrowotnego innego tytu∏u;”;
-6) wart. 73 po pkt 14 dodaje si´ pkt 14a wbrzmieniu: „14a) osób, których 66 1 pkt 31a, powstaje dniem z∏o˝enia organie rentowym, rozumieniu przepisów emeryturach rentach Funduszu Ubezpieczeƒ Spo∏ecznych, oÊwiadczenia braku innego tytu∏u do obj´cia ubezpieczeniem zdrowotnym, a wygasa dniem ustania tego warunku;”;
-czenie zdrowotne od emerytur, rent, zasi∏ków przedemerytalnych Êwiadczeƒ przedemerytalnych oraz Êwiadczeƒ pieni´˝nych dla cywilnych niewidomych ofiar dzia∏aƒ wojennych jednostka organizacyjna Zak∏adu Ubezpieczeƒ Spo∏ecznych okreÊlona przepisach systemie ubezpieczeƒ spo∏ecznych:
-1) nie przekazuje imiennych raportów miesi´cznych;
-2) wykazuje sk∏adki odr´bnej deklaracji rozliczeniowej.”;
-11) 94 3 otrzymuje brzmienie: „3. Od nienale˝nie pobranej emerytury, renty, zasi∏ku przedemerytalnego, Êwiadczenia przedemerytalnego lub Êwiadczenia pieni´˝nego dla cywilnej niewidomej ofiary dzia∏aƒ wojennych sk∏adka na ubezpieczenie zdrowotne nie podlega zwrotowi.”.
-17. Ustawa wchodzi ˝ycie dniem 1 stycznia 2007 Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1825
-USTAWA 16 listopada 2006 zmianie podatku rolnym oraz podatku leÊnym
-1. Wustawie zdnia 15 listopada 1984 opodat- informatyzacji dzia∏alnoÊci podmiotów reali-
+2. Osobami uprawnionymi rozumieniu są obywatele polscy, posiadający stałe miejsce zamieszkania Rzeczypospolitej Polskiej, którzy, nie wchodząc skład formacji wojskowych, zmilitaryzowanych służb państwowych lub formacji zbrojnych ruchu oporu, doznali naruszenia sprawności organizmu powodującego całkowitą niezdolność pracy, poprzez utratę wzroku wyniku:
+1) działań wojennych okresie wojny 1939—1945;
+2) eksplozji niewypałów lub niewybuchów pozostałych po wojnie 1939—1945, na terytorium Rzeczypospolitej Polskiej.
+
+**Art. 2.** przysługuje świadczenie pieniężne określone ustawie, zwane dalej Ńświadczeniem”. 2. Âwiadczenie przyznaje się na wniosek osoby uprawnionej. 3. Do wniosku, którym 2, należy dołączyć oświadczenie wnioskodawcy korzystaniu ze zwolnienia uzyskiwanych dochodów tytułu emerytury lub renty od podatku dochodowego, na podstawie 21 1pkt zdnia 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2000 14, 176, póên. zm. ku utratą wzroku;
+
+**Art. 3.**
+
+1. Prawo świadczenia ustalają organyrentowe wrozumieniu przepisów zdnia17grudnia 1998 emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2004 39, 353, zpóên. zm. ), wraz ze wskazaniem organu rentowego lub emerytalnego, będącego płatnikiem emerytury lub renty.
+
+4. W przypadku niekorzystania ze zwolnienia, októrym wust. 3, wniosku należy dołączyć:
+
+- **1)** orzeczenie uznaniu wnioskodawcy za inwalidę I lub II grupy związku utratą wzroku lub orze), wdrodze decyzji.
+
+2. Od decyzji organu rentowego przysługują osobie zainteresowanej środki odwoławcze przewidziane wodrębnych przepisach dla decyzji wsprawach emerytur rent.
+
+**Art. 4.** Prawo świadczenia powstaje dniem spełnienia wszystkich warunków wymaganych przez ustawę uzyskania tego prawa. 2. Prawa świadczenia nie nabywa, anabyte traci osoba, jeżeli: ———————
+
+**Art. 5.** Âwiadczenie dla osób uprawnionych przysługuje kwocie renty socjalnej, której ustawie 27 czerwca 2003 rencie socjalnej (Dz. U. 135, 1268, póên. zm. przysługujących żołnierzom zastępczej służby wojskowej przymusowo zatrudnianym kopalniach węgla, kamieniołomach, zakładach rud uranu ibatalionach budowlanych,
+
+**Art. 6.**
+
+1. Âwiadczenie iuprawnienia, októrych mowa ustawie, przysługują czasie pobytu osoby 2) pierwszeństwo umieszczeniu, na jej wniosek, na terytorium Rzeczypospolitej Polskiej. domu pomocy społecznej.
+
+2. Jeżeli osoba uprawniona pobiera emeryturę lub 2. przysługuje także: rentę, tym świadczenie charakterze rentowym 1) prawo bezpłatnych leków przedmiotów instytucji zagranicznej, wypłacaną kwotę świadcze- ortopedycznych iśrodków pomocniczych, na podnia, którym 5, zmniejsza się 50 % stawie 45 47 miesięcznie, chyba że wypłata emerytury lub renty 27 sierpnia 2004 świadczeniach opieki zdroinnego tytułu została zawieszona. Przepis niniejszy wotnej finansowanych ze środków publicznych nie narusza przepisów zbiegu uprawnień emerytal- (Dz. U. 210, 2135, póên. zm. nych rentowych innych tytułów.
+
+**Art. 7.** Âwiadczenie wypłacane jest miesięcznie. 2. Jeżeli osoba uprawniona pobiera emeryturę bądê rentę, świadczenie wypłacane jest wraz zemeryturą lub rentą. 3. Jeżeli osoba uprawniona nie pobiera emerytury lub renty, świadczenie wypłaca organ rentowy, który wydał decyzję jego przyznaniu. Przepisy dotyczące wypłaty emerytur irent zFunduszu Ubezpieczeń Społecznych stosuje się odpowiednio.
+
+**Art. 8.** jednocześnie );
+
+**Art. 11.** Dokumentem potwierdzającym prawo korzystania uprawnień, których ustawie, jest legitymacja cywilnej niewidomej ofiary działań wojennych, wystawiona przez organ rentowy. 2. Osoba uprawniona jest obowiązana okazywania legitymacji na żądanie instytucji albo osoby realizującej przysługujące uprawnienie lub kontrolującej prawo korzystania uprawnień. 3. Minister właściwy spraw zabezpieczenia społecznego określi, drodze rozporządzenia, wzór legitymacji cywilnej niewidomej ofiary działań wojennych, tryb jej wydawania, wymiany anulowania, kierując się koniecznością zapewnienia sprawności postępowania przy wydawaniu tych legitymacji.
+
+**Art. 12.** Âwiadczenia, dodatki pielęgnacyjne izasiłki pogrzebowe, których niniejszej ustawie, koszty ich wypłat, koszty postępowania sprawie wniosków oprzyznanie świadczenia koszty wydawania legitymacji, których 11, finansowane są budżetu państwa.
+
+**Art. 13.** Wsprawach nieuregulowanych wustawie stosuje się odpowiednio przepisy oemeryturach irentach Funduszu Ubezpieczeń Społecznych.
+
+**Art. 14.** W ustawie 26 lipca 1991 podatku dochodowym od osób fizycznych (Dz. U. 2000 14, 176, póên. zm. publicznego transportu zbiorowego (Dz. U. 2002 175, 1440, póên. zm. ) 21 po pkt 25a dodaje się pkt 25b brzmieniu: ) 2 dodaje się 7 brzmieniu: Ń7. Do ulgi 78 % przy przejazdach środkami publicznego transportu zbiorowego kolejowego wpociągach osobowych pospiesznych autobusowego wkomunikacji zwykłej, przyspieszonej ipospiesznej, na podstawie biletów jednorazowych, są uprawnione cywilne niewidome ofiary działań wojennych uznane za osoby niezdolne samodzielnej egzystencji.”.
+
+**Art. 16.** W ustawie 27 sierpnia 2004 świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, 2135, zpóên. zm. ) wprowadza się następujące zmiany:
+
+**Art. 17.** Ustawa wchodzi życie dniem stycznia 2007 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1825 USTAWA 16 listopada 2006 zmianie podatku rolnym podatku leśnym Art. Wustawie zdnia 15 listopada 1984 opodat- informatyzacji działalności podmiotów reali-
 

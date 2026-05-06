@@ -25,66 +25,66 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042682662) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2662/text.pdf) |
 
 USTAWA z dnia 8 paêdziernika 2004 r.
-o ustanowieniu za Zas∏ugi dla Stra˝y Granicznej
+o ustanowieniu za Zasługi dla Straży Granicznej
 
-**Art. 1.** Ustanawia si´ Medal za Zas∏ugi dla Stra˝y Granicznej, zwany dalej „Medalem”, który nadaje si´ za wybitne zas∏ugi dla Stra˝y Granicznej.
+**Art. 1.** Ustanawia się Medal za Zasługi dla Straży Granicznej, zwany dalej ŃMedalem”, który nadaje się za wybitne zasługi dla Straży Granicznej.
 
-**Art. 2.** Medal mo˝e byç nadany:
+**Art. 2.** Medal może być nadany:
 
 **Art. 3.** Medal posiada trzy stopnie:
 
 **Art. 4.**
 
-1. Stopieƒ nadaje si´ odpowiednio do zas∏ug osoby, która ma byç wyró˝niona.
+1. Stopień nadaje się odpowiednio do zasług osoby, która ma być wyróżniona.
 
-2. Medal tego samego stopnia mo˝e byç nadany tej samej osobie tylko raz.
+2. Medal tego samego stopnia może być nadany tej samej osobie tylko raz.
 
-3. Osobie wyró˝nionej nie nadaje si´ w stopniu ni˝szym od posiadanego.
+3. Osobie wyróżnionej nie nadaje się w stopniu niższym od posiadanego.
 
 **Art. 5.**
 
-1. Medal nadaje minister w∏aÊciwy do spraw wewn´trznych na wniosek Komendanta G∏ównego Stra˝y Granicznej.
+1. Medal nadaje minister właściwy do spraw wewnętrznych na wniosek Komendanta Głównego Straży Granicznej.
 
-2. Osoba, której nadano Medal za Zas∏ugi dla Stra˝y Granicznej, otrzymuje odznak´ oraz legitymacj´ potwierdzajàcà jego nadanie.
+2. Osoba, której nadano Medal za Zasługi dla Straży Granicznej, otrzymuje odznakę oraz legitymację potwierdzającą jego nadanie.
 
 **Art. 6.**
 
-1. Medal mo˝e byç nadany poÊmiertnie.
+1. Medal może być nadany pośmiertnie.
 
-2. Je˝eli osoba, której nadano Medal, zmar∏a przed wr´czeniem odznaki Medalu, odznak´ dor´cza si´ najbli˝szej rodzinie zmar∏ego.
+2. Jeżeli osoba, której nadano Medal, zmarła przed wręczeniem odznaki Medalu, odznakę doręcza się najbliższej rodzinie zmarłego.
 
-3. Wrazie nadania poÊmiertnie stosuje si´ ceremonia∏ wr´czenia odznaki ustalany ka˝dorazowo stosownie do okolicznoÊci.
+3. Wrazie nadania pośmiertnie stosuje się ceremoniał wręczenia odznaki ustalany każdorazowo stosownie do okoliczności.
 
 **Art. 7.**
 
-1. Odznakà za Zas∏ugi dla Stra˝y Granicznej jest okràg∏y medal oÊrednicy 35 mm obramowany wieƒcem z liÊci laurowych i d´bowych. W Êrodku medalu umieszczony jest czteroramienny krzy˝ zakoƒczony na rogach ramion kulkami, które znajdujà si´ poza obr´bem medalu. Ramiona krzy˝a pokryte sà zielonà emalià. W Êrodku krzy˝a znajduje si´ wizerunek or∏a ustalony dla god∏a Rzeczypospolitej Polskiej. Wizerunek or∏a osadzony jest na tle s∏upa granicznego, którego pasy sà emaliowane w kolorze bia∏ym i czerwonym, a kontury w kolorze szarym. Na odwrotnej stronie odznaki w wypuk∏ym konturze przedstawiajàcym terytorium i granice Rzeczypospolitej Polskiej umieszczony jest napis „Za zas∏ugi dla Stra˝y Granicznej”. Obramowanie ramion krzy˝a, jak równie˝ pozosta∏a cz´Êç awersu odznaki oraz jej odwrotna strona, wzale˝noÊci od stopnia Medalu, sà z∏ocone, srebrzone albo patynowane na bràzowo.
+1. Odznaką za Zasługi dla Straży Granicznej jest okrągły medal ośrednicy 35 mm obramowany wieńcem z liści laurowych i dębowych. W środku medalu umieszczony jest czteroramienny krzyż zakończony na rogach ramion kulkami, które znajdują się poza obrębem medalu. Ramiona krzyża pokryte są zieloną emalią. W środku krzyża znajduje się wizerunek orła ustalony dla godła Rzeczypospolitej Polskiej. Wizerunek orła osadzony jest na tle słupa granicznego, którego pasy są emaliowane w kolorze białym i czerwonym, a kontury w kolorze szarym. Na odwrotnej stronie odznaki w wypukłym konturze przedstawiającym terytorium i granice Rzeczypospolitej Polskiej umieszczony jest napis ŃZa zasługi dla Straży Granicznej”. Obramowanie ramion krzyża, jak również pozostała część awersu odznaki oraz jej odwrotna strona, wzależności od stopnia Medalu, są złocone, srebrzone albo patynowane na brązowo.
 
-2. Odznaka jest zawieszona na zielonej wstà˝ce szerokoÊci 35 mm. Przez Êrodek wstà˝ki przebiega bia∏o-czerwono-bia∏y pasek szerokoÊci 15 mm.
+2. Odznaka jest zawieszona na zielonej wstążce szerokości 35 mm. Przez środek wstążki przebiega biało-czerwono-biały pasek szerokości 15 mm.
 
-3. Wzór graficzny odznaki wraz ze wstà˝kà i baretkami okreÊla za∏àcznik do ustawy.
+3. Wzór graficzny odznaki wraz ze wstążką i baretkami określa załącznik do ustawy.
 
-**Art. 8.** mierzenia jej przez sàd prawomocnym orzeczeniem Êrodka karnego pozbawienia praw publicznych.
+**Art. 8.** mierzenia jej przez sąd prawomocnym orzeczeniem środka karnego pozbawienia praw publicznych.
 
 **Art. 9.**
 
-1. Dane osobowe osób wyró˝nionych i pozbawionych podlegajà ewidencji.
+1. Dane osobowe osób wyróżnionych i pozbawionych podlegają ewidencji.
 
-2. Ewidencja, októrej mowa wust. 1, obejmuje nast´pujàce dane:
+2. Ewidencja, októrej mowa wust. 1, obejmuje następujące dane:
 
 - **1)** imiona i nazwisko oraz imiona rodziców;
-- **2)** dat´ i miejsce urodzenia;
+- **2)** datę i miejsce urodzenia;
 - **3)** obywatelstwo;
-- **4)** paƒstwo sta∏ego zamieszkania;
-- **5)** rodzaj i numer dokumentu to˝samoÊci;
-- **6)** dat´ z∏o˝enia wniosku o nadanie lub pozbawienie Medalu; Minister w∏aÊciwy do spraw wewn´trznych
-- **7)** numer i dat´ decyzji o nadaniu Medalu;
-- **8)** numer i dat´ decyzji o pozbawieniu oraz okreÊlenie aktu stanowiàcego podstaw´ tej decyzji.
+- **4)** państwo stałego zamieszkania;
+- **5)** rodzaj i numer dokumentu tożsamości;
+- **6)** datę złożenia wniosku o nadanie lub pozbawienie Medalu; Minister właściwy do spraw wewnętrznych
+- **7)** numer i datę decyzji o nadaniu Medalu;
+- **8)** numer i datę decyzji o pozbawieniu oraz określenie aktu stanowiącego podstawę tej decyzji.
 
-3. Do ewidencji do∏àcza si´ wniosek, októrym mowa w art. 5 ust. 1.
+3. Do ewidencji dołącza się wniosek, októrym mowa w art. 5 ust. 1.
 
-**Art. 10.** Minister w∏aÊciwy do spraw wewn´trznych okreÊli, w drodze rozporzàdzenia:
+**Art. 10.** Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia:
 
-**Art. 11.** Przechowywanie w ewidencji danych dotyczàcych podstawy decyzji o pozbawieniu Medalu, októrych mowa wart. 27 ust. 1 ustawy zdnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. 101, poz. 926 i 153, poz. 1271 oraz z 2004 r. 25, poz. 219 i 33, poz. 285), nie wymaga zgody osoby, której dane dotyczà.
+**Art. 11.** Przechowywanie w ewidencji danych dotyczących podstawy decyzji o pozbawieniu Medalu, októrych mowa wart. 27 ust. 1 ustawy zdnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. 101, poz. 926 i 153, poz. 1271 oraz z 2004 r. 25, poz. 219 i 33, poz. 285), nie wymaga zgody osoby, której dane dotyczą.
 
-**Art. 12.** Ustawa wchodzi w˝ycie po up∏ywie 30 dni od dnia og∏oszenia. WZÓR ODZNAKI MEDALU ZA ZAS¸UGI DLA STRA˚Y GRANICZNEJ AWERS z∏oty srebrny bràzowy REWERS z∏oty srebrny bràzowy BARETKA z∏oty srebrny bràzowy
+**Art. 12.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia. WZÓR ODZNAKI MEDALU ZA ZASĘUGI DLA STRA˚Y GRANICZNEJ AWERS złoty srebrny brązowy REWERS złoty srebrny brązowy BARETKA złoty srebrny brązowy
 

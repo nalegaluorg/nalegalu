@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# o s∏u˝bie funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego Rozdzia∏ 1 2. ZdolnoÊç fizycznà i psychicznà kandydatów do s∏u˝by w SKW i SWW ustala wojskowa komisja lekarPostanowienia ogólne ska, zwana dalej „komisjà lekarskà”.
+# o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
 *USTAWA z dnia 9 czerwca 2006 r.*
 
@@ -26,1239 +26,1253 @@ domain: null
 | Ostatnia zmiana | 2026-02-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061040710) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/710/text.pdf) |
 
-**Art. 1.** Ustawa okreÊla: 3. Orzeczenie o zaliczeniu danej osoby do jednej z kategorii, o których mowa w ust. 1, w∏aÊciwa komi1) zasady nawiàzywania stosunku s∏u˝bowego, sja lekarska wydaje na podstawie badania lekarskiego fizycznej i psychicznej zdolnoÊci tej osoby do s∏u˝by,
+#### Rozdział 1 2. Zdolność fizyczną i psychiczną kandydatów do służby w SKW i SWW ustala wojskowa komisja lekarPostanowienia ogólne ska, zwana dalej Ńkomisją lekarską”.
 
-**Art. 2.** Ilekroç w ustawie jest mowa o:
+**Art. 1.** Ustawa określa: 3. Orzeczenie o zaliczeniu danej osoby do jednej z kategorii, o których mowa w ust. 1, właściwa komi1) zasady nawiązywania stosunku służbowego, sja lekarska wydaje na podstawie badania lekarskiego fizycznej i psychicznej zdolności tej osoby do służby,
 
-**Art. 3.** Funkcjonariuszem SKW albo SWW mo˝e byç osoba:
+**Art. 2.** Ilekroć w ustawie jest mowa o:
+
+**Art. 3.** Funkcjonariuszem SKW albo SWW może być osoba:
 
 **Art. 4.**
 
-1. Ustala si´ nast´pujàce kategorie zdolnoÊci do s∏u˝by w SKW i SWW:
+1. Ustala się następujące kategorie zdolności do służby w SKW i SWW:
 
-- **1)** Z/SKW zdolny do s∏u˝by w SKW;
-- **2)** Z/SWW zdolny do s∏u˝by w SWW;
-- **3)** N/SKW trwale albo czasowo niezdolny do s∏u˝by w SKW;
-- **4)** N/SWW trwale albo czasowo niezdolny do s∏u˝by w SWW.
-- **1)** Szef SKW albo Szef SWW kandydatów do s∏u˝by odpowiednio w SKW albo SWW;
-- **2)** Szef SKW albo Szef SWW podleg∏ych sobie funkcjonariuszy;
-- **3)** sàd, prokurator albo inny organ, przed którym toczy si´ post´powanie wsprawach oprzest´pstwo lub wykroczenie, je˝eli orzeczenie komisji lekarskiej jest niezb´dne w post´powaniu karnym lub w post´powaniu w sprawach o wykroczenie;
+- **1)** Z/SKW zdolny do służby w SKW;
+- **2)** Z/SWW zdolny do służby w SWW;
+- **3)** N/SKW trwale albo czasowo niezdolny do służby w SKW;
+- **4)** N/SWW trwale albo czasowo niezdolny do służby w SWW.
+- **1)** Szef SKW albo Szef SWW kandydatów do służby odpowiednio w SKW albo SWW;
+- **2)** Szef SKW albo Szef SWW podległych sobie funkcjonariuszy;
+- **3)** sąd, prokurator albo inny organ, przed którym toczy się postępowanie wsprawach oprzestępstwo lub wykroczenie, jeżeli orzeczenie komisji lekarskiej jest niezbędne w postępowaniu karnym lub w postępowaniu w sprawach o wykroczenie;
 - **4)** Minister Obrony Narodowej wszystkich funkcjonariuszy.
 
-5. Minister Obrony Narodowej w porozumieniu zministrami w∏aÊciwymi do spraw wewn´trznych, zabezpieczenia spo∏ecznego izdrowia, okreÊli, wdrodze rozporzàdzenia:
+5. Minister Obrony Narodowej w porozumieniu zministrami właściwymi do spraw wewnętrznych, zabezpieczenia społecznego izdrowia, określi, wdrodze rozporządzenia:
 
-- **1)** w∏aÊciwoÊç itryb post´powania komisji lekarskich w sprawach, o których mowa w ust. 2 i 4;
-- **2)** wykaz chorób i u∏omnoÊci uwzgl´dniany przy orzekaniu o zdolnoÊci do s∏u˝by w SKW i SWW;
+- **1)** właściwość itryb postępowania komisji lekarskich w sprawach, o których mowa w ust. 2 i 4;
+- **2)** wykaz chorób i ułomności uwzględniany przy orzekaniu o zdolności do służby w SKW i SWW;
 - **3)** tryb kierowania do komisji lekarskich;
-- **4)** szczegó∏owe warunki orzekania w sprawach, o których mowa w ust. 2 i 4;
-- **5)** w∏aÊciwoÊç organów i tryb uchylania orzeczeƒ w ramach nadzoru.
+- **4)** szczegółowe warunki orzekania w sprawach, o których mowa w ust. 2 i 4;
+- **5)** właściwość organów i tryb uchylania orzeczeń w ramach nadzoru.
 
-6. W rozporzàdzeniu, o którym mowa w ust. 5, nale˝y w szczególnoÊci uwzgl´dniç niezb´dnà dokumentacj´ medycznà i inne dokumenty mogàce stanowiç podstaw´ orzeczenia, niezb´dne elementy orzeczeƒ i wzory orzeczeƒ, mo˝liwoÊç sk∏adania sprzeciwów przez cz∏onków komisji lekarskich, a tak˝e zatwierdzania orzeczeƒ przez komisje lekarskie wy˝szego szczebla.
+6. W rozporządzeniu, o którym mowa w ust. 5, należy w szczególności uwzględnić niezbędną dokumentację medyczną i inne dokumenty mogące stanowić podstawę orzeczenia, niezbędne elementy orzeczeń i wzory orzeczeń, możliwość składania sprzeciwów przez członków komisji lekarskich, a także zatwierdzania orzeczeń przez komisje lekarskie wyższego szczebla.
 
 **Art. 5.**
 
-1. Przyj´cie kandydata do s∏u˝by wSKW albo SWW nast´puje po przeprowadzeniu post´powania kwalifikacyjnego, na które sk∏adajà si´:
+1. Przyjęcie kandydata do służby wSKW albo SWW następuje po przeprowadzeniu postępowania kwalifikacyjnego, na które składają się:
 
-- **1)** przyj´cie podania o przyj´cie do s∏u˝by, kwestionariusza osobowego, atak˝e dokumentów stwierdzajàcych wymagane wykszta∏cenie i kwalifikacje zawodowe oraz zawierajàcych dane o uprzednim zatrudnieniu;
+- **1)** przyjęcie podania o przyjęcie do służby, kwestionariusza osobowego, atakże dokumentów stwierdzających wymagane wykształcenie i kwalifikacje zawodowe oraz zawierających dane o uprzednim zatrudnieniu;
 - **2)** przeprowadzenie rozmowy kwalifikacyjnej;
-- **3)** post´powanie sprawdzajàce, okreÊlone w przepisach o ochronie informacji niejawnych;
-- **4)** ustalenie zdolnoÊci fizycznej i psychicznej do s∏u˝by w SKW lub SWW.
+- **3)** postępowanie sprawdzające, określone w przepisach o ochronie informacji niejawnych;
+- **4)** ustalenie zdolności fizycznej i psychicznej do służby w SKW lub SWW.
 
-2. W stosunku do kandydata ubiegajàcego si´ o przyj´cie do s∏u˝by w SKW albo SWW na stanowisko wymagajàce szczególnych umiej´tnoÊci lub predyspozycji, post´powanie kwalifikacyjne mo˝e byç rozszerzone o czynnoÊci majàce na celu sprawdzenie przydatnoÊci kandydata do s∏u˝by na takim stanowisku, w tym o przeprowadzenie badania psychofizjologicznego.
+2. W stosunku do kandydata ubiegającego się o przyjęcie do służby w SKW albo SWW na stanowisko wymagające szczególnych umiejętności lub predyspozycji, postępowanie kwalifikacyjne może być rozszerzone o czynności mające na celu sprawdzenie przydatności kandydata do służby na takim stanowisku, w tym o przeprowadzenie badania psychofizjologicznego.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW iSWW, szczegó∏owe zasady i tryb przeprowadzania post´powania kwalifikacyjnego wobec kandydatów do s∏u˝by oraz wzór kwestionariusza osobowego, uwzgl´dniajàc potrzeb´ uzyskania takich informacji okandydacie, które sà niezb´dne do podj´cia decyzji o przyj´ciu do s∏u˝by w SKW lub SWW.
+3. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW iSWW, szczegółowe zasady i tryb przeprowadzania postępowania kwalifikacyjnego wobec kandydatów do służby oraz wzór kwestionariusza osobowego, uwzględniając potrzebę uzyskania takich informacji okandydacie, które są niezbędne do podjęcia decyzji o przyjęciu do służby w SKW lub SWW.
 
 **Art. 6.**
 
-1. Przed podj´ciem s∏u˝by funkcjonariusz SKW albo SWW sk∏ada przysi´g´ wed∏ug nast´pujàcej roty: „Ja, Obywatel Rzeczypospolitej Polskiej, Êwiadom podejmowanych obowiàzków funkcjonariusza S∏u˝by Kontrwywiadu Wojskowego (S∏u˝by Wywiadu Wojskowego), przysi´gam: s∏u˝yç wiernie Rzeczypospolitej Polskiej istaç na stra˝y Konstytucji. Przysi´gam sumiennie i bezstronnie wykonywaç obowiàzki funkcjonariusza, w potrzebie z nara˝eniem ˝ycia, a tak˝e strzec honoru, godnoÊci i dobrego imienia S∏u˝by.”. Przysi´ga mo˝e byç z∏o˝ona z dodaniem zdania „Tak mi dopomó˝ Bóg”.
+1. Przed podjęciem służby funkcjonariusz SKW albo SWW składa przysięgę według następującej roty: ŃJa, Obywatel Rzeczypospolitej Polskiej, świadom podejmowanych obowiązków funkcjonariusza Służby Kontrwywiadu Wojskowego (Służby Wywiadu Wojskowego), przysięgam: służyć wiernie Rzeczypospolitej Polskiej istać na straży Konstytucji. Przysięgam sumiennie i bezstronnie wykonywać obowiązki funkcjonariusza, w potrzebie z narażeniem życia, a także strzec honoru, godności i dobrego imienia Służby.”. Przysięga może być złożona z dodaniem zdania ŃTak mi dopomóż Bóg”.
 
-2. Minister Obrony Narodowej okreÊla, w drodze zarzàdzenia, szczegó∏owy ceremonia∏ sk∏adania przysi´gi, o której mowa w ust. 1.
+2. Minister Obrony Narodowej określa, w drodze zarządzenia, szczegółowy ceremoniał składania przysięgi, o której mowa w ust. 1.
 
 **Art. 7.**
 
-1. Stosunek s∏u˝bowy funkcjonariusza SKW albo SWW, zwanego dalej „funkcjonariuszem”, powstaje wdrodze mianowania na podstawie dobrowolnego zg∏oszenia si´ do s∏u˝by.
+1. Stosunek służbowy funkcjonariusza SKW albo SWW, zwanego dalej Ńfunkcjonariuszem”, powstaje wdrodze mianowania na podstawie dobrowolnego zgłoszenia się do służby.
 
-2. Poczàtek s∏u˝by funkcjonariusza liczy si´ od dnia okreÊlonego w rozkazie personalnym o przyj´ciu do s∏u˝by imianowaniu na stanowisko s∏u˝bowe wSKW albo SWW.
+2. Początek służby funkcjonariusza liczy się od dnia określonego w rozkazie personalnym o przyjęciu do służby imianowaniu na stanowisko służbowe wSKW albo SWW.
 
-3. Mianowanie mo˝e nastàpiç po odbyciu zasadniczej s∏u˝by wojskowej albo po przeniesieniu do rezerwy.
+3. Mianowanie może nastąpić po odbyciu zasadniczej służby wojskowej albo po przeniesieniu do rezerwy.
 
-4. Warunku okreÊlonego wust. 3 nie stosuje si´ do kobiet. Od warunku tego mo˝na odstàpiç równie˝
+4. Warunku określonego wust. 3 nie stosuje się do kobiet. Od warunku tego można odstąpić również
 
 **Art. 8.**
 
-1. Osob´ przyj´tà do s∏u˝by w SKW albo SWW mianuje si´ funkcjonariuszem ws∏u˝bie przygotowawczej na okres 3 lat.
+1. Osobę przyjętą do służby w SKW albo SWW mianuje się funkcjonariuszem wsłużbie przygotowawczej na okres 3 lat.
 
-2. Po up∏ywie okresu s∏u˝by przygotowawczej iuzyskaniu pozytywnej oceny ogólnej wopinii s∏u˝bowej funkcjonariusz zostaje mianowany na sta∏e.
+2. Po upływie okresu służby przygotowawczej iuzyskaniu pozytywnej oceny ogólnej wopinii służbowej funkcjonariusz zostaje mianowany na stałe.
 
-3. W przypadkach uzasadnionych szczególnymi kwalifikacjami funkcjonariusza Szef SKW i Szef SWW, ka˝dy w zakresie swojego dzia∏ania, mo˝e skróciç okres jego s∏u˝by przygotowawczej albo zwolniç funkcjonariusza od odbywania tej s∏u˝by.
+3. W przypadkach uzasadnionych szczególnymi kwalifikacjami funkcjonariusza Szef SKW i Szef SWW, każdy w zakresie swojego działania, może skrócić okres jego służby przygotowawczej albo zwolnić funkcjonariusza od odbywania tej służby.
 
-4. W razie przerwy w wykonywaniu przez funkcjonariusza obowiàzków s∏u˝bowych trwajàcej d∏u˝ej ni˝ 3 miesiàce Szef SKW albo Szef SWW mo˝e przed∏u˝yç okres jego s∏u˝by przygotowawczej.
+4. W razie przerwy w wykonywaniu przez funkcjonariusza obowiązków służbowych trwającej dłużej niż 3 miesiące Szef SKW albo Szef SWW może przedłużyć okres jego służby przygotowawczej.
 
 **Art. 9.**
 
-1. Szef SKW i Szef SWW, ka˝dy w zakresie swojego dzia∏ania, jest w∏aÊciwy do przyjmowania do s∏u˝by, mianowania funkcjonariuszy na stanowiska s∏u˝bowe oraz ich przenoszenia, delegowania, oddelew stosunku do absolwentów szkó∏ wy˝szych. gowania, zwalniania iodwo∏ywania ze stanowisk s∏u˝bowych, zawieszania i uchylania zawieszenia w czynnoÊciach s∏u˝bowych, zwalniania ze s∏u˝by oraz stwierdzania wygaÊni´cia stosunku s∏u˝bowego.
+1. Szef SKW i Szef SWW, każdy w zakresie swojego działania, jest właściwy do przyjmowania do służby, mianowania funkcjonariuszy na stanowiska służbowe oraz ich przenoszenia, delegowania, oddelew stosunku do absolwentów szkół wyższych. gowania, zwalniania iodwoływania ze stanowisk służbowych, zawieszania i uchylania zawieszenia w czynnościach służbowych, zwalniania ze służby oraz stwierdzania wygaśnięcia stosunku służbowego.
 
-2. W sprawach osobowych funkcjonariuszy innych, ni˝ wymienione wust. 1, sà w∏aÊciwi prze∏o˝eni, upowa˝nieni przez Szefa SKW albo Szefa SWW.
+2. W sprawach osobowych funkcjonariuszy innych, niż wymienione wust. 1, są właściwi przełożeni, upoważnieni przez Szefa SKW albo Szefa SWW.
 
-3. Sprawy osobowe, o których mowa w ust. 1, sà za∏atwiane przez wydanie rozkazu personalnego.
+3. Sprawy osobowe, o których mowa w ust. 1, są załatwiane przez wydanie rozkazu personalnego.
 
 **Art. 10.**
 
-1. Czas pe∏nienia s∏u˝by funkcjonariusza jest okreÊlany wymiarem jego obowiàzków, z uwzgl´dnieniem prawa do wypoczynku.
+1. Czas pełnienia służby funkcjonariusza jest określany wymiarem jego obowiązków, z uwzględnieniem prawa do wypoczynku.
 
-2. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, rozk∏ad czasu s∏u˝by, z uwzgl´dnieniem czasu na wypoczynek oraz przypadków przed∏u˝enia czasu s∏u˝by funkcjonariuszy SKW iSWW, uzasadnionych potrzebà zapewnienia niezak∏óconego toku s∏u˝by.
+2. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, rozkład czasu służby, z uwzględnieniem czasu na wypoczynek oraz przypadków przedłużenia czasu służby funkcjonariuszy SKW iSWW, uzasadnionych potrzebą zapewnienia niezakłóconego toku służby.
 
-**Art. 11.** Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, warunki bezpieczeƒstwa i higieny s∏u˝by oraz zakres, w jakim do tych warunków majà zastosowanie przepisy dzia∏u dziesiàtego ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ), uwzgl´dniajàc szczególny charakter s∏u˝by, zagro˝enia wyst´pujàce na niektórych stanowiskach s∏u˝bowych lub podczas wykonywania niektórych zadaƒ s∏u˝bowych oraz obowiàzki spoczywajàce na funkcjonariuszach oraz ich prze∏o˝onych w zakresie zapobiegania ewentualnym zagro˝eniom dla ˝ycia lub zdrowia, a tak˝e uwzgl´dniajàc przepisy prawa majàce zastosowanie do stanowisk s∏u˝bowych nieobj´tych specyfikà s∏u˝by w SKW albo SWW.
+**Art. 11.** Minister Obrony Narodowej określi, wdrodze rozporządzeń, odrębnie dla SKW i SWW, warunki bezpieczeństwa i higieny służby oraz zakres, w jakim do tych warunków mają zastosowanie przepisy działu dziesiątego ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ), uwzględniając szczególny charakter służby, zagrożenia występujące na niektórych stanowiskach służbowych lub podczas wykonywania niektórych zadań służbowych oraz obowiązki spoczywające na funkcjonariuszach oraz ich przełożonych w zakresie zapobiegania ewentualnym zagrożeniom dla życia lub zdrowia, a także uwzględniając przepisy prawa mające zastosowanie do stanowisk służbowych nieobjętych specyfiką służby w SKW albo SWW.
 
 **Art. 12.**
 
-1. Funkcjonariusz podlega okresowemu opiniowaniu s∏u˝bowemu, przeprowadzanemu:
+1. Funkcjonariusz podlega okresowemu opiniowaniu służbowemu, przeprowadzanemu:
 
-- **1)** w s∏u˝bie przygotowawczej nie rzadziej ni˝ raz na 6 miesi´cy;
-- **2)** w s∏u˝bie sta∏ej raz na 2 lata.
+- **1)** w służbie przygotowawczej nie rzadziej niż raz na 6 miesięcy;
+- **2)** w służbie stałej raz na 2 lata.
 
-2. Funkcjonariusza zapoznaje si´ z opinià s∏u˝bowà w ciàgu 7 dni od dnia jej sporzàdzenia; mo˝e on wterminie 14 dni od dnia zapoznania si´ zopinià s∏u˝bowà wnieÊç odwo∏anie do wy˝szego prze∏o˝onego.
+2. Funkcjonariusza zapoznaje się z opinią służbową w ciągu 7 dni od dnia jej sporządzenia; może on wterminie 14 dni od dnia zapoznania się zopinią służbową wnieść odwołanie do wyższego przełożonego.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, wzór formularza opinii s∏u˝bowej, szczegó∏owe zasady i tryb opiniowania funkcjonariuszy, uwzgl´dniajàc przes∏anki opiniowania i jego cz´stotliwoÊci, kryteria brane pod uwag´ przy opiniowaniu i skal´ ocen, przypadki opiniowania z pomini´ciem okresów przewidzianych wustawie, w∏aÊciwoÊç prze∏o˝onych wzakresie wydawania opinii, tryb zapoznawania funkcjonariuszy zopinià s∏u˝bowà oraz tryb wnoszenia irozpatrywania odwo∏aƒ od opinii.
+3. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, wzór formularza opinii służbowej, szczegółowe zasady i tryb opiniowania funkcjonariuszy, uwzględniając przesłanki opiniowania i jego częstotliwości, kryteria brane pod uwagę przy opiniowaniu i skalę ocen, przypadki opiniowania z pominięciem okresów przewidzianych wustawie, właściwość przełożonych wzakresie wydawania opinii, tryb zapoznawania funkcjonariuszy zopinią służbową oraz tryb wnoszenia irozpatrywania odwołań od opinii.
 
 **Art. 13.**
 
-1. Funkcjonariusza mo˝na odwo∏aç z zajmowanego stanowiska i przenieÊç do dyspozycji odpowiednio Szefa SKW albo Szefa SWW.
+1. Funkcjonariusza można odwołać z zajmowanego stanowiska i przenieść do dyspozycji odpowiednio Szefa SKW albo Szefa SWW.
 
-2. Funkcjonariusz mo˝e pozostawaç w dyspozycji odpowiednio Szefa SKW albo SWW, nieprzerwanie nie d∏u˝ej ni˝ 12 miesi´cy.
+2. Funkcjonariusz może pozostawać w dyspozycji odpowiednio Szefa SKW albo SWW, nieprzerwanie nie dłużej niż 12 miesięcy.
 
-3. Po up∏ywie okresu, o którym mowa w ust. 2, funkcjonariusza przenosi si´ na okreÊlone stanowisko s∏u˝bowe, a w razie niewyra˝enia przez niego pisemnej zgody na przeniesienie na to stanowisko, funkcjonariusza zwalnia si´ ze s∏u˝by z zachowaniem uprawnieƒ przewidzianych dla funkcjonariuszy zwalnianych na podstawie art. 19 ust. 2 pkt 7, chyba ˝e spe∏nia warunki do zwolnienia ze s∏u˝by na korzystniejszych zasadach.
+3. Po upływie okresu, o którym mowa w ust. 2, funkcjonariusza przenosi się na określone stanowisko służbowe, a w razie niewyrażenia przez niego pisemnej zgody na przeniesienie na to stanowisko, funkcjonariusza zwalnia się ze służby z zachowaniem uprawnień przewidzianych dla funkcjonariuszy zwalnianych na podstawie art. 19 ust. 2 pkt 7, chyba że spełnia warunki do zwolnienia ze służby na korzystniejszych zasadach.
 
-4. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, warunki i tryb przenoszenia funkcjonariuszy do dyspozycji odpowiednio Szefa SKW albo Szefa SWW, zuwzgl´dnieniem sposobu pe∏nienia s∏u˝by w okresie pozostawania w tej dyspozycji.
+4. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, warunki i tryb przenoszenia funkcjonariuszy do dyspozycji odpowiednio Szefa SKW albo Szefa SWW, zuwzględnieniem sposobu pełnienia służby w okresie pozostawania w tej dyspozycji.
 
 **Art. 14.**
 
-1. Funkcjonariusz z urz´du lub na w∏asnà proÊb´ mo˝e byç przeniesiony do pe∏nienia s∏u˝by albo delegowany na okres do 6 miesi´cy do czasowego pe∏nienia s∏u˝by w innej miejscowoÊci.
+1. Funkcjonariusz z urzędu lub na własną prośbę może być przeniesiony do pełnienia służby albo delegowany na okres do 6 miesięcy do czasowego pełnienia służby w innej miejscowości.
 
-2. Szef SKW i Szef SWW, ka˝dy w zakresie swojego dzia∏ania, w uzasadnionych przypadkach mo˝e przed∏u˝yç okres delegowania, o którym mowa
+2. Szef SKW i Szef SWW, każdy w zakresie swojego działania, w uzasadnionych przypadkach może przedłużyć okres delegowania, o którym mowa
 
 **Art. 15.**
 
-1. Funkcjonariuszowi mo˝na powierzyç, na okres do 6 miesi´cy, pe∏nienie obowiàzków s∏u˝bowych na innym stanowisku. W takim przypadku uposa˝enie funkcjonariusza nie mo˝e byç obni˝one.
+1. Funkcjonariuszowi można powierzyć, na okres do 6 miesięcy, pełnienie obowiązków służbowych na innym stanowisku. W takim przypadku uposażenie funkcjonariusza nie może być obniżone.
 
-2. Funkcjonariusza, gdy jest to uzasadnione realizacjà odpowiednio zadaƒ SKW albo SWW, za jego zgodà, mo˝na oddelegowaç do wykonywania zadaƒ s∏u˝bowych poza SKW albo SWW, po przeniesieniu go do dyspozycji odpowiednio Szefa SKW albo Szefa SWW. Przepisów art. 13 nie stosuje si´.
+2. Funkcjonariusza, gdy jest to uzasadnione realizacją odpowiednio zadań SKW albo SWW, za jego zgodą, można oddelegować do wykonywania zadań służbowych poza SKW albo SWW, po przeniesieniu go do dyspozycji odpowiednio Szefa SKW albo Szefa SWW. Przepisów art. 13 nie stosuje się.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, warunki i tryb oddelegowania, uprawnienia i obowiàzki funkcjonariusza w czasie oddelegowania, wysokoÊç i sposób wyp∏acania uposa˝enia i innych Êwiadczeƒ pieni´˝nych przys∏ugujàcych oddelegowanemu funkcjonariuszowi, uwzgl´dniajàc miejsce oraz charakter izakres wykonywanych przez niego zadaƒ s∏u˝bowych poza SKW albo SWW, atak˝e ustali, zuwzgl´dnieniem przepisów o ochronie informacji niejawnych, szczególne uprawnienia iobowiàzki funkcjonariusza pe∏niàw ust. 1, do 12 miesi´cy. cego s∏u˝b´ poza granicami kraju.
+3. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, warunki i tryb oddelegowania, uprawnienia i obowiązki funkcjonariusza w czasie oddelegowania, wysokość i sposób wypłacania uposażenia i innych świadczeń pieniężnych przysługujących oddelegowanemu funkcjonariuszowi, uwzględniając miejsce oraz charakter izakres wykonywanych przez niego zadań służbowych poza SKW albo SWW, atakże ustali, zuwzględnieniem przepisów o ochronie informacji niejawnych, szczególne uprawnienia iobowiązki funkcjonariusza pełniąw ust. 1, do 12 miesięcy. cego służbę poza granicami kraju.
 
 **Art. 16.**
 
-1. Funkcjonariusza przenosi si´ na ni˝sze stanowisko s∏u˝bowe wrazie wymierzenia kary dyscyplinarnej wyznaczenia na ni˝sze stanowisko s∏u˝bowe.
+1. Funkcjonariusza przenosi się na niższe stanowisko służbowe wrazie wymierzenia kary dyscyplinarnej wyznaczenia na niższe stanowisko służbowe.
 
-2. Funkcjonariusza mo˝na przenieÊç na ni˝sze stanowisko s∏u˝bowe w przypadku:
+2. Funkcjonariusza można przenieść na niższe stanowisko służbowe w przypadku:
 
-- **1)** orzeczenia przez w∏aÊciwà komisj´ lekarskà trwa∏ej niezdolnoÊci do pe∏nienia s∏u˝by na zajmowanym stanowisku s∏u˝bowym, je˝eli nie ma mo˝liwoÊci mianowania go na stanowisko równorz´dne;
-- **2)** nieprzydatnoÊci na zajmowanym stanowisku s∏u˝bowym, stwierdzonej w opinii s∏u˝bowej w okresie s∏u˝by przygotowawczej;
-- **3)** niewywiàzywania si´ z obowiàzków s∏u˝bowych na zajmowanym stanowisku s∏u˝bowym, stwierdzonego w okresie s∏u˝by sta∏ej w dwóch kolejnych opiniach s∏u˝bowych, mi´dzy którymi up∏yn´∏o co najmniej 6 miesi´cy;
-- **4)** likwidacji zajmowanego stanowiska s∏u˝bowego lub z innych przyczyn uzasadnionych potrzebami organizacyjnymi gdy nie ma mo˝liwoÊci mianowania go na równorz´dne stanowisko s∏u˝bowe.
+- **1)** orzeczenia przez właściwą komisję lekarską trwałej niezdolności do pełnienia służby na zajmowanym stanowisku służbowym, jeżeli nie ma możliwości mianowania go na stanowisko równorzędne;
+- **2)** nieprzydatności na zajmowanym stanowisku służbowym, stwierdzonej w opinii służbowej w okresie służby przygotowawczej;
+- **3)** niewywiązywania się z obowiązków służbowych na zajmowanym stanowisku służbowym, stwierdzonego w okresie służby stałej w dwóch kolejnych opiniach służbowych, między którymi upłynęło co najmniej 6 miesięcy;
+- **4)** likwidacji zajmowanego stanowiska służbowego lub z innych przyczyn uzasadnionych potrzebami organizacyjnymi gdy nie ma możliwości mianowania go na równorzędne stanowisko służbowe.
 
-3. Funkcjonariusza mo˝na przenieÊç na ni˝sze stanowisko s∏u˝bowe równie˝ na jego pisemnà proÊb´.
+3. Funkcjonariusza można przenieść na niższe stanowisko służbowe również na jego pisemną prośbę.
 
-4. Funkcjonariusz, który nie wyrazi∏ zgody na przeniesienie na ni˝sze stanowisko s∏u˝bowe z przyczyn okreÊlonych w ust. 2, mo˝e byç zwolniony ze s∏u˝by.
+4. Funkcjonariusz, który nie wyraził zgody na przeniesienie na niższe stanowisko służbowe z przyczyn określonych w ust. 2, może być zwolniony ze służby.
 
 **Art. 17.**
 
-1. Funkcjonariusza zawiesza si´, rozkazem personalnym odpowiednio Szefa SKW albo Szefa SWW, w czynnoÊciach s∏u˝bowych, na czas nie d∏u˝szy ni˝ 3 miesiàce, wrazie wszcz´cia przeciwko niemu post´powania karnego w sprawie o przest´pstwo umyÊlne Êcigane z oskar˝enia publicznego.
+1. Funkcjonariusza zawiesza się, rozkazem personalnym odpowiednio Szefa SKW albo Szefa SWW, w czynnościach służbowych, na czas nie dłuższy niż 3 miesiące, wrazie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo umyślne ścigane z oskarżenia publicznego.
 
-2. Funkcjonariusza mo˝na zawiesiç w czynnoÊciach s∏u˝bowych, na czas nie d∏u˝szy ni˝ 3 miesiàce, wrazie wszcz´cia przeciwko niemu post´powania karnego w sprawie o przest´pstwo nieumyÊlne Êcigane z oskar˝enia publicznego, post´powania w sprawie o wykroczenie oraz post´powania dyscyplinarnego, jeÊli jest to celowe z uwagi na dobro post´powania lub dobro s∏u˝by.
+2. Funkcjonariusza można zawiesić w czynnościach służbowych, na czas nie dłuższy niż 3 miesiące, wrazie wszczęcia przeciwko niemu postępowania karnego w sprawie o przestępstwo nieumyślne ścigane z oskarżenia publicznego, postępowania w sprawie o wykroczenie oraz postępowania dyscyplinarnego, jeśli jest to celowe z uwagi na dobro postępowania lub dobro służby.
 
-3. W szczególnie uzasadnionych przypadkach okres zawieszenia wczynnoÊciach s∏u˝bowych mo˝na przed∏u˝yç na dalszy czas oznaczony, nie d∏u˝szy ni˝ do dnia uprawomocnienia si´ orzeczenia wydanego wpost´powaniu karnym lub post´powaniu wsprawie o wykroczenie, a w pozosta∏ych przypadkach na czas nie d∏u˝szy ni˝ 12 miesi´cy.
+3. W szczególnie uzasadnionych przypadkach okres zawieszenia wczynnościach służbowych można przedłużyć na dalszy czas oznaczony, nie dłuższy niż do dnia uprawomocnienia się orzeczenia wydanego wpostępowaniu karnym lub postępowaniu wsprawie o wykroczenie, a w pozostałych przypadkach na czas nie dłuższy niż 12 miesięcy.
 
-4. Zawieszenie wczynnoÊciach s∏u˝bowych polega na odsuni´ciu funkcjonariusza od wykonywania obowiàzków s∏u˝bowych.
+4. Zawieszenie wczynnościach służbowych polega na odsunięciu funkcjonariusza od wykonywania obowiązków służbowych.
 
-5. W przypadku rozkazu personalnego o zawieszeniu funkcjonariusza w czynnoÊciach s∏u˝bowych, funkcjonariusz mo˝e zwróciç si´ odpowiednio do Szefa SKW albo Szefa SWW zwnioskiem oponowne rozpatrzenie sprawy.
+5. W przypadku rozkazu personalnego o zawieszeniu funkcjonariusza w czynnościach służbowych, funkcjonariusz może zwrócić się odpowiednio do Szefa SKW albo Szefa SWW zwnioskiem oponowne rozpatrzenie sprawy.
 
-6. Funkcjonariusz zawieszony w czynnoÊciach s∏u˝bowych jest obowiàzany:
+6. Funkcjonariusz zawieszony w czynnościach służbowych jest obowiązany:
 
-- **1)** niezw∏ocznie zdaç broƒ i legitymacj´ s∏u˝bowà oraz przedmioty zwiàzane z wykonywanymi przez niego zadaniami, a w szczególnoÊci akta i dokumenty prowadzonych przez niego spraw;
-- **2)** informowaç kierownika jednostki organizacyjnej o zamiarze opuszczenia miejsca zamieszkania na okres d∏u˝szy ni˝ 3 dni.
+- **1)** niezwłocznie zdać broń i legitymację służbową oraz przedmioty związane z wykonywanymi przez niego zadaniami, a w szczególności akta i dokumenty prowadzonych przez niego spraw;
+- **2)** informować kierownika jednostki organizacyjnej o zamiarze opuszczenia miejsca zamieszkania na okres dłuższy niż 3 dni.
 
 **Art. 18.**
 
-1. Funkcjonariusz mo˝e byç skierowany z urz´du lub na jego wniosek do komisji lekarskiej w celu okreÊlenia jego stanu zdrowia oraz ustalenia zdolnoÊci fizycznej ipsychicznej do s∏u˝by, jak równie˝ zwiàzku poszczególnych schorzeƒ ze s∏u˝bà.
+1. Funkcjonariusz może być skierowany z urzędu lub na jego wniosek do komisji lekarskiej w celu określenia jego stanu zdrowia oraz ustalenia zdolności fizycznej ipsychicznej do służby, jak również związku poszczególnych schorzeń ze służbą.
 
-2. Funkcjonariusz mo˝e byç równie˝ poddany badaniom psychofizjologicznym. Oskierowaniu funkcjonariusza na te badania decyduje odpowiednio Szef SKW albo Szef SWW.
+2. Funkcjonariusz może być również poddany badaniom psychofizjologicznym. Oskierowaniu funkcjonariusza na te badania decyduje odpowiednio Szef SKW albo Szef SWW.
 
 **Art. 19.**
 
-1. Funkcjonariusza zwalnia si´ ze s∏u˝by w przypadku:
+1. Funkcjonariusza zwalnia się ze służby w przypadku:
 
-- **1)** orzeczenia trwa∏ej niezdolnoÊci do s∏u˝by przez komisj´ lekarskà;
-- **2)** nieprzydatnoÊci do s∏u˝by, stwierdzonej w opinii s∏u˝bowej w okresie s∏u˝by przygotowawczej;
-- **3)** wymierzenia kary dyscyplinarnej wydalenia ze s∏u˝by;
-- **4)** skazania prawomocnym wyrokiem sàdu za przest´pstwo umyÊlne Êcigane zoskar˝enia publicznego;
-- **5)** utraty obywatelstwa polskiego lub nabycia oby2. Funkcjonariusza mo˝na zwolniç ze s∏u˝by w przypadku:
-- **1)** niewywiàzywania si´ z obowiàzków s∏u˝bowych wokresie odbywania s∏u˝by sta∏ej, stwierdzonego w dwóch kolejnych opiniach, mi´dzy którymi up∏yn´∏o co najmniej 6 miesi´cy;
-- **2)** skazania prawomocnym wyrokiem sàdu za przest´pstwo inne ni˝ okreÊlone w ust. 1 pkt 4;
-- **3)** nieobecnoÊci funkcjonariusza w s∏u˝bie przez okres powy˝ej 3 miesi´cy z powodu tymczasowego aresztowania;
-- **4)** obj´cia kierowniczego stanowiska paƒstwowego albo obj´cia funkcji z wyboru w organach samorzàdu terytorialnego;
-- **5)** nabycia prawa do emerytury wpe∏nym wymiarze, okreÊlonego w przepisach odr´bnych;
-- **6)** gdy wymaga tego wa˝ny interes s∏u˝by;
-- **7)** likwidacji jednostki organizacyjnej SKW albo watelstwa innego paƒstwa; SWW lub jej reorganizacji po∏àczonej ze zmniejszeniem obsady etatowej, je˝eli przeniesienie funkcjonariusza odpowiednio do innej jednostki organizacyjnej SKW albo SWW lub na ni˝sze stanowisko s∏u˝bowe nie jest mo˝liwe;
-- **8)** dwukrotnego niestawienia si´ bez usprawiedliwienia przed komisjà lekarskà do której zosta∏ skierowany w celu okreÊlenia jego stanu zdrowia.
+- **1)** orzeczenia trwałej niezdolności do służby przez komisję lekarską;
+- **2)** nieprzydatności do służby, stwierdzonej w opinii służbowej w okresie służby przygotowawczej;
+- **3)** wymierzenia kary dyscyplinarnej wydalenia ze służby;
+- **4)** skazania prawomocnym wyrokiem sądu za przestępstwo umyślne ścigane zoskarżenia publicznego;
+- **5)** utraty obywatelstwa polskiego lub nabycia oby2. Funkcjonariusza można zwolnić ze służby w przypadku:
+- **1)** niewywiązywania się z obowiązków służbowych wokresie odbywania służby stałej, stwierdzonego w dwóch kolejnych opiniach, między którymi upłynęło co najmniej 6 miesięcy;
+- **2)** skazania prawomocnym wyrokiem sądu za przestępstwo inne niż określone w ust. 1 pkt 4;
+- **3)** nieobecności funkcjonariusza w służbie przez okres powyżej 3 miesięcy z powodu tymczasowego aresztowania;
+- **4)** objęcia kierowniczego stanowiska państwowego albo objęcia funkcji z wyboru w organach samorządu terytorialnego;
+- **5)** nabycia prawa do emerytury wpełnym wymiarze, określonego w przepisach odrębnych;
+- **6)** gdy wymaga tego ważny interes służby;
+- **7)** likwidacji jednostki organizacyjnej SKW albo watelstwa innego państwa; SWW lub jej reorganizacji połączonej ze zmniejszeniem obsady etatowej, jeżeli przeniesienie funkcjonariusza odpowiednio do innej jednostki organizacyjnej SKW albo SWW lub na niższe stanowisko służbowe nie jest możliwe;
+- **8)** dwukrotnego niestawienia się bez usprawiedliwienia przed komisją lekarską do której został skierowany w celu określenia jego stanu zdrowia.
 
-3. Funkcjonariusza zwalnia si´ ze s∏u˝by w terminie do 6 miesi´cy od dnia pisemnego zg∏oszenia przez niego wystàpienia ze s∏u˝by.
+3. Funkcjonariusza zwalnia się ze służby w terminie do 6 miesięcy od dnia pisemnego zgłoszenia przez niego wystąpienia ze służby.
 
-4. Wprzypadkach okreÊlonych wust. 2 pkt 7 zwolnienie ze s∏u˝by nast´puje po up∏ywie 6 miesi´cy, aze s∏u˝by przygotowawczej po up∏ywie 3 miesi´cy od dnia podj´cia decyzji o likwidacji jednostki organizacyjnej SKW albo SWW lub jej reorganizacji.
+4. Wprzypadkach określonych wust. 2 pkt 7 zwolnienie ze służby następuje po upływie 6 miesięcy, aze służby przygotowawczej po upływie 3 miesięcy od dnia podjęcia decyzji o likwidacji jednostki organizacyjnej SKW albo SWW lub jej reorganizacji.
 
 **Art. 20.**
 
-1. Stosunek s∏u˝bowy funkcjonariusza wygasa w przypadku:
+1. Stosunek służbowy funkcjonariusza wygasa w przypadku:
 
-- **1)** Êmierci funkcjonariusza;
-- **2)** stwierdzenia zagini´cia funkcjonariusza.
+- **1)** śmierci funkcjonariusza;
+- **2)** stwierdzenia zaginięcia funkcjonariusza.
 
-2. Zagini´cie funkcjonariusza stwierdza, w drodze decyzji, Minister Obrony Narodowej.
+2. Zaginięcie funkcjonariusza stwierdza, w drodze decyzji, Minister Obrony Narodowej.
 
 **Art. 21.**
 
-1. Wrazie uchylenia prawomocnego wyroku skazujàcego lub prawomocnego orzeczenia o warunkowym umorzeniu post´powania karnego i wydania orzeczenia oumorzeniu post´powania karnego albo wrazie uchylenia kary dyscyplinarnej wyznaczenia na ni˝sze stanowisko s∏u˝bowe, obni˝enia stopnia s∏u˝bowego lub kary wydalenia ze s∏u˝by, ulegajà uchyleniu skutki, jakie wynik∏y dla funkcjonariusza wzwiàzku zwyznaczeniem na ni˝sze stanowisko s∏u˝bowe lub obni˝eniem stopnia s∏u˝bowego. O uchyleniu innych skutków decyduje odpowiednio Szef SKW albo Szef SWW.
+1. Wrazie uchylenia prawomocnego wyroku skazującego lub prawomocnego orzeczenia o warunkowym umorzeniu postępowania karnego i wydania orzeczenia oumorzeniu postępowania karnego albo wrazie uchylenia kary dyscyplinarnej wyznaczenia na niższe stanowisko służbowe, obniżenia stopnia służbowego lub kary wydalenia ze służby, ulegają uchyleniu skutki, jakie wynikły dla funkcjonariusza wzwiązku zwyznaczeniem na niższe stanowisko służbowe lub obniżeniem stopnia służbowego. O uchyleniu innych skutków decyduje odpowiednio Szef SKW albo Szef SWW.
 
-2. W razie uchylenia prawomocnego wyroku skazujàcego lub prawomocnego orzeczenia o warunkowym umorzeniu post´powania karnego i wydania prawomocnego wyroku uniewinniajàcego, ulegajà uchyleniu wszystkie skutki, jakie powsta∏y dla funkcjonariusza w wyniku post´powania dyscyplinarnego przeprowadzonego w zwiàzku z oskar˝eniem o pope∏nienie przest´pstwa stanowiàcego przedmiot rozstrzygni´cia sàdu.
+2. W razie uchylenia prawomocnego wyroku skazującego lub prawomocnego orzeczenia o warunkowym umorzeniu postępowania karnego i wydania prawomocnego wyroku uniewinniającego, ulegają uchyleniu wszystkie skutki, jakie powstały dla funkcjonariusza w wyniku postępowania dyscyplinarnego przeprowadzonego w związku z oskarżeniem o popełnienie przestępstwa stanowiącego przedmiot rozstrzygnięcia sądu.
 
-3. Je˝eli w przypadku, o którym mowa w ust. 2, podstaw´ orzeczenia kary dyscyplinarnej stanowi∏y przes∏anki inne ni˝ tylko oskar˝enie o pope∏nienie przest´pstwa, ouchyleniu skutków, jakie powsta∏y dla funkcjonariusza w wyniku post´powania dyscyplinarnego, decyduje odpowiednio Szef SKW albo Szef SWW. Przepis ust. 1 stosuje si´ odpowiednio.
+3. Jeżeli w przypadku, o którym mowa w ust. 2, podstawę orzeczenia kary dyscyplinarnej stanowiły przesłanki inne niż tylko oskarżenie o popełnienie przestępstwa, ouchyleniu skutków, jakie powstały dla funkcjonariusza w wyniku postępowania dyscyplinarnego, decyduje odpowiednio Szef SKW albo Szef SWW. Przepis ust. 1 stosuje się odpowiednio.
 
 **Art. 22.**
 
-1. Zwolnienie funkcjonariusza ze s∏u˝by na podstawie art. 13 ust. 3, art. 16 ust. 4 oraz art. 19 ust.1 pkt 1 i ust. 2 pkt 5 nie mo˝e nastàpiç przed up∏ywem 12 miesi´cy od dnia zaprzestania s∏u˝by z powodu choroby, chyba ˝e funkcjonariusz zg∏osi pisemnie wystàpienie ze s∏u˝by.
+1. Zwolnienie funkcjonariusza ze służby na podstawie art. 13 ust. 3, art. 16 ust. 4 oraz art. 19 ust.1 pkt 1 i ust. 2 pkt 5 nie może nastąpić przed upływem 12 miesięcy od dnia zaprzestania służby z powodu choroby, chyba że funkcjonariusz zgłosi pisemnie wystąpienie ze służby.
 
-2. Zwolnienie funkcjonariusza ze s∏u˝by na podstawie art. 19 ust. 1 pkt 2 i ust. 2 pkt 1 nie mo˝e nastàpiç przed up∏ywem 3 miesi´cy od dnia zaprzestania s∏u˝by z powodu choroby, chyba ˝e funkcjonariusz zg∏osi pisemnie wystàpienie ze s∏u˝by.
+2. Zwolnienie funkcjonariusza ze służby na podstawie art. 19 ust. 1 pkt 2 i ust. 2 pkt 1 nie może nastąpić przed upływem 3 miesięcy od dnia zaprzestania służby z powodu choroby, chyba że funkcjonariusz zgłosi pisemnie wystąpienie ze służby.
 
 **Art. 23.**
 
-1. Funkcjonariusza-kobiety nie mo˝na w okresie cià˝y i w czasie urlopu macierzyƒskiego zwolniç ze s∏u˝by, z wyjàtkiem przypadków okreÊlonych w art. 13 ust. 3, art. 19 ust. 1 pkt 3 i 4 oraz ust. 2 pkt 2—4, 6 i 7.
+1. Funkcjonariusza-kobiety nie można w okresie ciąży i w czasie urlopu macierzyńskiego zwolnić ze służby, z wyjątkiem przypadków określonych w art. 13 ust. 3, art. 19 ust. 1 pkt 3 i 4 oraz ust. 2 pkt 2—4, 6 i 7.
 
-2. W razie zwolnienia funkcjonariusza-kobiety ze s∏u˝by na podstawie art. 13 ust. 3 i art. 19 ust. 2 pkt 6 i 7, przys∏uguje mu uposa˝enie do koƒca urlopu macierzyƒskiego.
+2. W razie zwolnienia funkcjonariusza-kobiety ze służby na podstawie art. 13 ust. 3 i art. 19 ust. 2 pkt 6 i 7, przysługuje mu uposażenie do końca urlopu macierzyńskiego.
 
-3. Funkcjonariuszowi-kobiecie zwolnionej na podstawie art. 13 ust. 3 lub art. 19 ust. 2 pkt 6 i7 wczasie urlopu wychowawczego, przys∏ugujà do koƒca okresu, na który ten urlop zosta∏ udzielony:
+3. Funkcjonariuszowi-kobiecie zwolnionej na podstawie art. 13 ust. 3 lub art. 19 ust. 2 pkt 6 i7 wczasie urlopu wychowawczego, przysługują do końca okresu, na który ten urlop został udzielony:
 
-- **1)** Êwiadczenie pieni´˝ne, wyp∏acane na zasadach obowiàzujàcych przy wyp∏acaniu zasi∏ku wychowawczego;
-- **2)** inne uprawnienia przewidziane dla pracownic zwalnianych z pracy w czasie urlopu wychowawczego z przyczyn niedotyczàcych pracowników.
+- **1)** świadczenie pieniężne, wypłacane na zasadach obowiązujących przy wypłacaniu zasiłku wychowawczego;
+- **2)** inne uprawnienia przewidziane dla pracownic zwalnianych z pracy w czasie urlopu wychowawczego z przyczyn niedotyczących pracowników.
 
 **Art. 24.**
 
-1. Funkcjonariusz zwolniony ze s∏u˝by otrzymuje niezw∏ocznie Êwiadectwo s∏u˝by.
+1. Funkcjonariusz zwolniony ze służby otrzymuje niezwłocznie świadectwo służby.
 
-2. Funkcjonariusz mo˝e ˝àdaç sprostowania Êwiadectwa s∏u˝by wterminie 7 dni od dnia jego otrzymania.
+2. Funkcjonariusz może żądać sprostowania świadectwa służby wterminie 7 dni od dnia jego otrzymania.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, wzór formularza Êwiadectwa s∏u˝by, uwzgl´dniajàc dane, które nale˝y podaç w Êwiadectwie s∏u˝by, oraz tryb wydawania i sprostowania Êwiadectwa s∏u˝by, a tak˝e w∏aRozdzia∏ 2 Korpusy i stopnie s∏u˝bowe funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego
+3. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, wzór formularza świadectwa służby, uwzględniając dane, które należy podać w świadectwie służby, oraz tryb wydawania i sprostowania świadectwa służby, a także właRozdział 2 Korpusy i stopnie służbowe funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
-**Art. 25.** W SKW i SWW obowiàzujà nast´pujàce korpusy i stopnie s∏u˝bowe:
+**Art. 25.** W SKW i SWW obowiązują następujące korpusy i stopnie służbowe:
 
 **Art. 26.**
 
-1. Na stopieƒ szeregowego mianuje si´ funkcjonariusza z dniem mianowania na stanowisko s∏u˝bowe.
+1. Na stopień szeregowego mianuje się funkcjonariusza z dniem mianowania na stanowisko służbowe.
 
-2. Na stopnie w korpusie szeregowych i podoficerów mianujà prze∏o˝eni posiadajàcy uprawnienia w sprawach osobowych funkcjonariuszy.
+2. Na stopnie w korpusie szeregowych i podoficerów mianują przełożeni posiadający uprawnienia w sprawach osobowych funkcjonariuszy.
 
-3. Na stopnie wkorpusie chorà˝ych mianuje odpowiednio Szef SKW iSzef SWW lub upowa˝niony przez niego prze∏o˝ony.
+3. Na stopnie wkorpusie chorążych mianuje odpowiednio Szef SKW iSzef SWW lub upoważniony przez niego przełożony.
 
-4. Na pierwszy stopieƒ w korpusie oficerów oraz na stopieƒ genera∏a brygady mianuje Prezydent Rzeczypospolitej Polskiej na wniosek Ministra Obrony Narodowej. Na pozosta∏e stopnie w korpusie oficerów mianuje Minister Obrony Narodowej.
+4. Na pierwszy stopień w korpusie oficerów oraz na stopień generała brygady mianuje Prezydent Rzeczypospolitej Polskiej na wniosek Ministra Obrony Narodowej. Na pozostałe stopnie w korpusie oficerów mianuje Minister Obrony Narodowej.
 
-**Art. 27.** Mianowanie na stopieƒ wkorpusie podoficerów lub chorà˝ych jest uzale˝nione od pozytywnej opinii s∏u˝bowej i zajmowanego stanowiska s∏u˝bowego, a ponadto zdania odpowiedniego egzaminu.
+**Art. 27.** Mianowanie na stopień wkorpusie podoficerów lub chorążych jest uzależnione od pozytywnej opinii służbowej i zajmowanego stanowiska służbowego, a ponadto zdania odpowiedniego egzaminu.
 
-**Art. 28.** Warunkiem mianowania na pierwszy stopieƒ w korpusie oficerów jest pozytywna opinia s∏u˝bowa, zajmowanie stanowiska, zktórym zwiàzany jest stopieƒ oficera, posiadanie wy˝szego wykszta∏cenia oraz zdanie egzaminu na oficera.
+**Art. 28.** Warunkiem mianowania na pierwszy stopień w korpusie oficerów jest pozytywna opinia służbowa, zajmowanie stanowiska, zktórym związany jest stopień oficera, posiadanie wyższego wykształcenia oraz zdanie egzaminu na oficera.
 
 **Art. 29.**
 
-1. Funkcjonariusze odbywajàcy szkolenie zawodowe mogà pe∏niç s∏u˝b´ w systemie skoszarowanym.
+1. Funkcjonariusze odbywający szkolenie zawodowe mogą pełnić służbę w systemie skoszarowanym.
 
-2. Szef SKW i Szef SWW okreÊlà, w drodze zarzàdzeƒ, odr´bnie dla SKW i SWW, sposób organizacji s∏u˝by i jej pe∏nienia w systemie skoszarowanym, z uwzgl´dnieniem czasu pe∏nienia tej s∏u˝by oraz porzàdku dnia.
+2. Szef SKW i Szef SWW określą, w drodze zarządzeń, odrębnie dla SKW i SWW, sposób organizacji służby i jej pełnienia w systemie skoszarowanym, z uwzględnieniem czasu pełnienia tej służby oraz porządku dnia.
 
 **Art. 30.**
 
-1. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, szczegó∏owe zasady i tryb szkolenia zawodowego
+1. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, szczegółowe zasady i tryb szkolenia zawodowego
 
 **Art. 32.**
 
-1. W przypadkach zas∏ugujàcych na szczególne uwzgl´dnienie funkcjonariusza posiadajàcego pozytywnà opini´ s∏u˝bowà oraz szczególne kwalifikacje zawodowe lub umiej´tnoÊç do pe∏nienia s∏u˝by na odpowiednim stanowisku s∏u˝bowym mo˝na mianowaç na kolejny wy˝szy stopieƒ mimo niespe∏nienia innych warunków wymaganych do mianowania na ten stopieƒ albo przed up∏ywem ustalonych okresów. Okresy te nie mogà byç jednak skrócone wi´cej ni˝ opo∏ow´.
+1. W przypadkach zasługujących na szczególne uwzględnienie funkcjonariusza posiadającego pozytywną opinię służbową oraz szczególne kwalifikacje zawodowe lub umiejętność do pełnienia służby na odpowiednim stanowisku służbowym można mianować na kolejny wyższy stopień mimo niespełnienia innych warunków wymaganych do mianowania na ten stopień albo przed upływem ustalonych okresów. Okresy te nie mogą być jednak skrócone więcej niż opołowę.
 
-2. Funkcjonariusza zwolnionego ze s∏u˝by mo˝na mianowaç na kolejny wy˝szy stopieƒ za szczególne osiàgni´cia w s∏u˝bie.
+2. Funkcjonariusza zwolnionego ze służby można mianować na kolejny wyższy stopień za szczególne osiągnięcia w służbie.
 
 **Art. 33.**
 
-1. Stopnie podoficerów, chorà˝ych i oficerów sà do˝ywotnie.
+1. Stopnie podoficerów, chorążych i oficerów są dożywotnie.
 
-2. Funkcjonariusze zwolnieni ze s∏u˝by mogà u˝ywaç posiadanych stopni, o których mowa w art. 25, z dodaniem okreÊlenia:
+2. Funkcjonariusze zwolnieni ze służby mogą używać posiadanych stopni, o których mowa w art. 25, z dodaniem określenia:
 
-- **1)** „rezerwy”, je˝eli funkcjonariusz podlega obowiàzkowi s∏u˝by wojskowej i zosta∏ uznany za zdolnefunkcjonariuszy, uwzgl´dniajàc zakres tematyczny szkolenia izró˝nicowany sposób sk∏adania egzaminów na pierwszy stopieƒ w korpusie podoficerów, chorà˝ych lub oficerów przed komisjami egzaminacyjnymi.
+- **1)** Ńrezerwy”, jeżeli funkcjonariusz podlega obowiązkowi służby wojskowej i został uznany za zdolnefunkcjonariuszy, uwzględniając zakres tematyczny szkolenia izróżnicowany sposób składania egzaminów na pierwszy stopień w korpusie podoficerów, chorążych lub oficerów przed komisjami egzaminacyjnymi.
 
-2. Szef SKW i Szef SWW, ka˝dy w zakresie swojego dzia∏ania, w drodze zarzàdzeƒ, powo∏ujà komisje egzaminacyjne, o których mowa w ust. 1, okreÊlajàc ich sk∏ad osobowy, a tak˝e ustalajà terminy egzaminów i okreÊlajà wzór zaÊwiadczenia o zdaniu egzaminu oraz wysokoÊç wynagrodzenia cz∏onków komisji.
+2. Szef SKW i Szef SWW, każdy w zakresie swojego działania, w drodze zarządzeń, powołują komisje egzaminacyjne, o których mowa w ust. 1, określając ich skład osobowy, a także ustalają terminy egzaminów i określają wzór zaświadczenia o zdaniu egzaminu oraz wysokość wynagrodzenia członków komisji.
 
 **Art. 31.**
 
-1. Mianowanie na kolejny, wy˝szy stopieƒ nast´puje stosownie do zajmowanego stanowiska s∏u˝bowego, posiadanych kwalifikacji zawodowych oraz posiadania pozytywnej opinii s∏u˝bowej.
+1. Mianowanie na kolejny, wyższy stopień następuje stosownie do zajmowanego stanowiska służbowego, posiadanych kwalifikacji zawodowych oraz posiadania pozytywnej opinii służbowej.
 
-2. Nadanie kolejnego, wy˝szego stopnia nie mo˝e nastàpiç wczeÊniej ni˝ po przes∏u˝eniu w stopniu: kaprala 1 roku, starszego kaprala 1 roku, plutonowego 1 roku, starszego plutonowego 1 roku, sier˝anta 2 lat, starszego sier˝anta 2 lat, sier˝anta sztabowego 2 lat, m∏odszego chorà˝ego 3 lat, chorà˝ego 4 lat, starszego chorà˝ego 3 lat, m∏odszego chorà˝ego sztabowego 3 lat, chorà˝ego sztabowego 4 lat, podporucznika 3 lat, porucznika 3 lat, kapitana 4 lat, majora 4 lat, podpu∏kownika 4 lat. go do tej s∏u˝by;
+2. Nadanie kolejnego, wyższego stopnia nie może nastąpić wcześniej niż po przesłużeniu w stopniu: kaprala 1 roku, starszego kaprala 1 roku, plutonowego 1 roku, starszego plutonowego 1 roku, sierżanta 2 lat, starszego sierżanta 2 lat, sierżanta sztabowego 2 lat, młodszego chorążego 3 lat, chorążego 4 lat, starszego chorążego 3 lat, młodszego chorążego sztabowego 3 lat, chorążego sztabowego 4 lat, podporucznika 3 lat, porucznika 3 lat, kapitana 4 lat, majora 4 lat, podpułkownika 4 lat. go do tej służby;
 
-- **2)** „w stanie spoczynku”, je˝eli funkcjonariusz nie podlega obowiàzkowi s∏u˝by wojskowej.
+- **2)** Ńw stanie spoczynku”, jeżeli funkcjonariusz nie podlega obowiązkowi służby wojskowej.
 
-3. Utrata stopnia, októrym mowa wart. 25, nast´puje w razie:
+3. Utrata stopnia, októrym mowa wart. 25, następuje w razie:
 
 - **1)** utraty obywatelstwa polskiego;
-- **2)** prawomocnego orzeczenia Êrodka karnego pozbawienia praw publicznych;
-- **3)** skazania prawomocnym wyrokiem sàdu na kar´ pozbawienia wolnoÊci za przest´pstwo pope∏nione w wyniku motywacji zas∏ugujàcej na szczególne pot´pienie.
+- **2)** prawomocnego orzeczenia środka karnego pozbawienia praw publicznych;
+- **3)** skazania prawomocnym wyrokiem sądu na karę pozbawienia wolności za przestępstwo popełnione w wyniku motywacji zasługującej na szczególne potępienie.
 
-**Art. 34.** Outracie, pozbawieniu lub obni˝eniu stopnia decyduje prze∏o˝ony w∏aÊciwy do mianowania na ten stopieƒ. Outracie lub pozbawieniu stopnia podporucznika oraz stopnia genera∏a brygady decyduje Prezydent Rzeczypospolitej Polskiej; o utracie lub pozbawieniu pozosta∏ych stopni w korpusie oficerów decyduje Minister Obrony Narodowej.
+**Art. 34.** Outracie, pozbawieniu lub obniżeniu stopnia decyduje przełożony właściwy do mianowania na ten stopień. Outracie lub pozbawieniu stopnia podporucznika oraz stopnia generała brygady decyduje Prezydent Rzeczypospolitej Polskiej; o utracie lub pozbawieniu pozostałych stopni w korpusie oficerów decyduje Minister Obrony Narodowej.
 
 **Art. 35.**
 
-1. Funkcjonariuszowi przywraca si´ stopieƒ w razie uchylenia:
+1. Funkcjonariuszowi przywraca się stopień w razie uchylenia:
 
-- **1)** prawomocnego orzeczenia Êrodka karnego pozbawienia praw publicznych;
-- **2)** prawomocnego skazania na kar´ pozbawienia wolnoÊci za przest´pstwo pope∏nione w wyniku motywacji zas∏ugujàcej na szczególne pot´pienie;
-- **3)** decyzji, na podstawie której nastàpi∏a utrata lub pozbawienie stopnia;
-- **4)** kary dyscyplinarnej obni˝enia stopnia.
+- **1)** prawomocnego orzeczenia środka karnego pozbawienia praw publicznych;
+- **2)** prawomocnego skazania na karę pozbawienia wolności za przestępstwo popełnione w wyniku motywacji zasługującej na szczególne potępienie;
+- **3)** decyzji, na podstawie której nastąpiła utrata lub pozbawienie stopnia;
+- **4)** kary dyscyplinarnej obniżenia stopnia.
 
-2. O przywróceniu stopnia decyduje prze∏o˝ony w∏aÊciwy do mianowania na stopieƒ; o przywróceniu stopnia podporucznika oraz stopnia genera∏a brygady decyduje Prezydent Rzeczypospolitej Polskiej; o przywróceniu pozosta∏ych stopni w korpusie oficerów decyduje Minister Obrony Narodowej.
+2. O przywróceniu stopnia decyduje przełożony właściwy do mianowania na stopień; o przywróceniu stopnia podporucznika oraz stopnia generała brygady decyduje Prezydent Rzeczypospolitej Polskiej; o przywróceniu pozostałych stopni w korpusie oficerów decyduje Minister Obrony Narodowej.
 
 **Art. 36.**
 
-1. Osob´ przyjmowanà do s∏u˝by w SKW albo SWW i posiadajàcà stopieƒ wojskowy, policyjny, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej, S∏u˝by Wi´ziennej lub Urz´du Ochrony Paƒstwa mo˝na mianowaç na odpowiedni stopieƒ we w∏aÊciwej s∏u˝bie.
+1. Osobę przyjmowaną do służby w SKW albo SWW i posiadającą stopień wojskowy, policyjny, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej, Służby Więziennej lub Urzędu Ochrony Państwa można mianować na odpowiedni stopień we właściwej służbie.
 
-2. Osob´ przyj´tà do s∏u˝by w SKW albo SWW i posiadajàcà stopieƒ Agencji Bezpieczeƒstwa Wewn´trznego albo Agencji Wywiadu, odpowiednio Szef SKW albo Szef SWW mianuje na równorz´dny stopieƒ tej s∏u˝by.
+2. Osobę przyjętą do służby w SKW albo SWW i posiadającą stopień Agencji Bezpieczeństwa Wewnętrznego albo Agencji Wywiadu, odpowiednio Szef SKW albo Szef SWW mianuje na równorzędny stopień tej służby.
 
-3. Przy przyjmowaniu do s∏u˝by osoby posiadajàcej stopieƒ wojskowy podporucznika, stopieƒ podkomisarza Policji, stopieƒ podporucznika Stra˝y Granicznej, stopieƒ podporucznika Biura Ochrony Rzàdu, stopieƒ m∏odszego kapitana Paƒstwowej Stra˝y Po˝arnej, podporucznika S∏u˝by Wi´ziennej lub podporucznika Urz´du Ochrony Paƒstwa, mianuje si´ jà na stopieƒ podporucznika w∏aÊciwej s∏u˝by.
+3. Przy przyjmowaniu do służby osoby posiadającej stopień wojskowy podporucznika, stopień podkomisarza Policji, stopień podporucznika Straży Granicznej, stopień podporucznika Biura Ochrony Rządu, stopień młodszego kapitana Państwowej Straży Pożarnej, podporucznika Służby Więziennej lub podporucznika Urzędu Ochrony Państwa, mianuje się ją na stopień podporucznika właściwej służby.
 
-**Art. 37.** Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, wzór wniosku o mianowanie na stopieƒ s∏u˝bowy oraz wzór aktu mianowania na stopieƒ, a tak˝e szczegó∏owe zasady itryb mianowania funkcjonariuszy na stopnie, ustalajàc sposób post´powania z wnioskiem o mianowanie i terminy mianowania na stopieƒ, uwzgl´dniajàc zapewnienie maksymalnego uproszczenia procedur dotyczàcych obiegu dokumentów w tych sprawach. Rozdzia∏ 3 Obowiàzki i prawa funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego
+**Art. 37.** Minister Obrony Narodowej określi, wdrodze rozporządzeń, odrębnie dla SKW i SWW, wzór wniosku o mianowanie na stopień służbowy oraz wzór aktu mianowania na stopień, a także szczegółowe zasady itryb mianowania funkcjonariuszy na stopnie, ustalając sposób postępowania z wnioskiem o mianowanie i terminy mianowania na stopień, uwzględniając zapewnienie maksymalnego uproszczenia procedur dotyczących obiegu dokumentów w tych sprawach.
+
+#### Rozdział 3 Obowiązki i prawa funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
 **Art. 38.**
 
-1. Funkcjonariusz jest obowiàzany dochowaç obowiàzków wynikajàcych zroty z∏o˝onej przysi´gi.
+1. Funkcjonariusz jest obowiązany dochować obowiązków wynikających zroty złożonej przysięgi.
 
-2. Funkcjonariusz jest obowiàzany odmówiç wykonania rozkazu lub polecenia prze∏o˝onego, jeÊli wykonanie rozkazu lub polecenia ∏àczy∏oby si´ z pope∏nieniem przest´pstwa.
+2. Funkcjonariusz jest obowiązany odmówić wykonania rozkazu lub polecenia przełożonego, jeśli wykonanie rozkazu lub polecenia łączyłoby się z popełnieniem przestępstwa.
 
-3. O odmowie wykonania rozkazu lub polecenia, o których mowa w ust. 2, funkcjonariusz melduje odpowiednio Szefowi SKW albo Szefowi SWW, z pomini´ciem drogi s∏u˝bowej.
+3. O odmowie wykonania rozkazu lub polecenia, o których mowa w ust. 2, funkcjonariusz melduje odpowiednio Szefowi SKW albo Szefowi SWW, z pominięciem drogi służbowej.
 
 **Art. 39.**
 
-1. Funkcjonariuszowi, z zastrze˝eniem ust. 2, nie wolno podejmowaç zaj´cia zarobkowego poza s∏u˝bà.
+1. Funkcjonariuszowi, z zastrzeżeniem ust. 2, nie wolno podejmować zajęcia zarobkowego poza służbą.
 
-2. Szef SKW albo Szef SWW mo˝e zezwoliç funkcjonariuszowi na wykonywanie zaj´cia zarobkowego poza s∏u˝bà, jeÊli nie koliduje to z wykonywaniem przez niego zadaƒ s∏u˝bowych oraz nie narusza honoru, godnoÊci lub dobrego imienia s∏u˝by.
+2. Szef SKW albo Szef SWW może zezwolić funkcjonariuszowi na wykonywanie zajęcia zarobkowego poza służbą, jeśli nie koliduje to z wykonywaniem przez niego zadań służbowych oraz nie narusza honoru, godności lub dobrego imienia służby.
 
 **Art. 40.**
 
-1. Funkcjonariusz nie mo˝e byç cz∏onkiem partii politycznej ani uczestniczyç w dzia∏alnoÊci tej
+1. Funkcjonariusz nie może być członkiem partii politycznej ani uczestniczyć w działalności tej
 
-2. Funkcjonariusze nie mogà zrzeszaç si´ w zwiàzkach zawodowych.
+2. Funkcjonariusze nie mogą zrzeszać się w związkach zawodowych.
 
-3. Funkcjonariusz jest obowiàzany poinformowaç prze∏o˝onego oprzynale˝noÊci do stowarzyszeƒ krajowych.
+3. Funkcjonariusz jest obowiązany poinformować przełożonego oprzynależności do stowarzyszeń krajowych.
 
-4. Przynale˝noÊç funkcjonariusza do organizacji lub stowarzyszeƒ zagranicznych albo mi´dzynarodowych wymaga zezwolenia odpowiednio Szefa SKW i Szefa SWW.
+4. Przynależność funkcjonariusza do organizacji lub stowarzyszeń zagranicznych albo międzynarodowych wymaga zezwolenia odpowiednio Szefa SKW i Szefa SWW.
 
 **Art. 41.**
 
-1. Funkcjonariusz jest obowiàzany uzyskaç zezwolenie odpowiednio Szefa SKW i Szefa SWW na wyjazd za granic´.
+1. Funkcjonariusz jest obowiązany uzyskać zezwolenie odpowiednio Szefa SKW i Szefa SWW na wyjazd za granicę.
 
-2. Funkcjonariusz jest obowiàzany poinformowaç odpowiednio Szefa SKW iSzefa SWW, owyjeêdzie za granic´ dzieci pozostajàcych na jego utrzymaniu albo wspó∏ma∏˝onka.
+2. Funkcjonariusz jest obowiązany poinformować odpowiednio Szefa SKW iSzefa SWW, owyjeêdzie za granicę dzieci pozostających na jego utrzymaniu albo współmałżonka.
 
-3. Szef SKW i Szef SWW, ka˝dy w zakresie swojego dzia∏ania, okreÊlà, w drodze zarzàdzeƒ, przypadki, partii lub na jej rzecz. w których uzyskanie zezwolenia, o którym mowa w ust. 1, lub wykonanie obowiàzku, o którym mowa w ust. 2, nie jest wymagane, a tak˝e obowiàzki funkcjonariusza wyje˝d˝ajàcego za granic´ i powracajàcego z zagranicy.
+3. Szef SKW i Szef SWW, każdy w zakresie swojego działania, określą, w drodze zarządzeń, przypadki, partii lub na jej rzecz. w których uzyskanie zezwolenia, o którym mowa w ust. 1, lub wykonanie obowiązku, o którym mowa w ust. 2, nie jest wymagane, a także obowiązki funkcjonariusza wyjeżdżającego za granicę i powracającego z zagranicy.
 
-**Art. 42.** Funkcjonariusz w zwiàzku z wykonywaniem zadaƒ s∏u˝bowych korzysta z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.
+**Art. 42.** Funkcjonariusz w związku z wykonywaniem zadań służbowych korzysta z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy publicznych.
 
 **Art. 43.**
 
-1. Funkcjonariuszowi przys∏uguje zwrot kosztów poniesionych na ochron´ prawnà, je˝eli post´powanie karne wszcz´te przeciwko niemu o przest´pstwo pope∏nione w zwiàzku z wykonywaniem czynnoÊci s∏u˝bowych zostanie zakoƒczone prawomocnym orzeczeniem oumorzeniu wobec braku ustawowych znamion czynu zabronionego lub niepope∏nienia przest´pstwa albo wyrokiem uniewinniajàcym.
+1. Funkcjonariuszowi przysługuje zwrot kosztów poniesionych na ochronę prawną, jeżeli postępowanie karne wszczęte przeciwko niemu o przestępstwo popełnione w związku z wykonywaniem czynności służbowych zostanie zakończone prawomocnym orzeczeniem oumorzeniu wobec braku ustawowych znamion czynu zabronionego lub niepopełnienia przestępstwa albo wyrokiem uniewinniającym.
 
-2. Koszty w wysokoÊci odpowiadajàcej okreÊlonemu w odr´bnych przepisach wynagrodzeniu jednego obroƒcy zwraca si´ ze Êrodków odpowiednio SKW i SWW.
+2. Koszty w wysokości odpowiadającej określonemu w odrębnych przepisach wynagrodzeniu jednego obrońcy zwraca się ze środków odpowiednio SKW i SWW.
 
-**Art. 44.** Funkcjonariusz, który w zwiàzku ze s∏u˝bà dozna∏ uszczerbku na zdrowiu lub poniós∏ szkod´ w mieniu, otrzymuje odszkodowanie w trybie i na zasadach okreÊlonych dla ˝o∏nierzy zawodowych.
+**Art. 44.** Funkcjonariusz, który w związku ze służbą doznał uszczerbku na zdrowiu lub poniósł szkodę w mieniu, otrzymuje odszkodowanie w trybie i na zasadach określonych dla żołnierzy zawodowych.
 
 **Art. 45.**
 
-1. Funkcjonariusz otrzymuje nieodp∏atnie umundurowanie albo równowa˝nik pieni´˝ny w zamian za to umundurowanie, albo kwot´ na zakup ubrania typu cywilnego.
+1. Funkcjonariusz otrzymuje nieodpłatnie umundurowanie albo równoważnik pieniężny w zamian za to umundurowanie, albo kwotę na zakup ubrania typu cywilnego.
 
-2. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, wysokoÊç i warunki przyznawania funkcjonariuszom równowa˝nika pieni´˝nego oraz kwoty przeznaczonej na zakup ubrania typu cywilnego wzamian za umundurowanie. Rozporzàdzenie powinno ustalaç ekwiwalentnà wysokoÊç kwoty pieni´˝nej nale˝nej funkcjonariuszowi w przypadku nieotrzymania umundurowania, uwzgl´dniajàc zw∏aszcza ró˝nice wynikajàce z przynale˝noÊci do poszczególnych korpusów, oraz uwzgl´dniaç jego wysokoÊç proporcjonalnie do okresu pe∏nienia s∏u˝by w danym roku kalendarzowym, a tak˝e okreÊlaç termin wyp∏aty tego równowa˝nika.
+2. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, wysokość i warunki przyznawania funkcjonariuszom równoważnika pieniężnego oraz kwoty przeznaczonej na zakup ubrania typu cywilnego wzamian za umundurowanie. Rozporządzenie powinno ustalać ekwiwalentną wysokość kwoty pieniężnej należnej funkcjonariuszowi w przypadku nieotrzymania umundurowania, uwzględniając zwłaszcza różnice wynikające z przynależności do poszczególnych korpusów, oraz uwzględniać jego wysokość proporcjonalnie do okresu pełnienia służby w danym roku kalendarzowym, a także określać termin wypłaty tego równoważnika.
 
 **Art. 46.**
 
-1. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, wzory, barwy i normy umundurowania funkcjonariuszy oraz sposób noszenia umundurowania. Rozporzàdzenie powinno okreÊlaç wyglàd munduru funkcjonariusza SKW iSWW, jego barw´ oraz rodzaje umundurowania, a tak˝e okolicznoÊci wyst´powania przez funkcjonariuszy w poszczególnych rodzajach mundurów i sposób noszenia mundurów.
+1. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, wzory, barwy i normy umundurowania funkcjonariuszy oraz sposób noszenia umundurowania. Rozporządzenie powinno określać wygląd munduru funkcjonariusza SKW iSWW, jego barwę oraz rodzaje umundurowania, a także okoliczności występowania przez funkcjonariuszy w poszczególnych rodzajach mundurów i sposób noszenia mundurów.
 
-2. Odznaki orderów ioznaczeƒ nosi si´ na mundurze w sposób i w okolicznoÊciach okreÊlonych odr´bnymi przepisami.
+2. Odznaki orderów ioznaczeń nosi się na mundurze w sposób i w okolicznościach określonych odrębnymi przepisami.
 
-3. Szef SKW i Szef SWW, ka˝dy w zakresie swojego dzia∏ania, mogà ustanawiaç, w drodze zarzàdzeƒ, odznaki i oznaki noszone na mundurze.
+3. Szef SKW i Szef SWW, każdy w zakresie swojego działania, mogą ustanawiać, w drodze zarządzeń, odznaki i oznaki noszone na mundurze.
 
 **Art. 47.**
 
-1. Funkcjonariusze otrzymujà nieodp∏atnie uzbrojenie i wyposa˝enie niezb´dne do wykonywania czynnoÊci s∏u˝bowych.
+1. Funkcjonariusze otrzymują nieodpłatnie uzbrojenie i wyposażenie niezbędne do wykonywania czynności służbowych.
 
-2. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, normy wyposa˝enia i uzbrojenia, szczegó∏owe zasady dost´pu do uzbrojenia, jego przyznawania iu˝ytkowania, atak˝e mo˝e okreÊliç przypadki otrzymywania i wysokoÊç równowa˝nika pieni´˝nego w zamian za niektóre przedmioty tego wyposa˝enia, uwzgl´dniajàc okresy u˝ywalnoÊci tych przedmiotów, terminy ich wydawania lub wyp∏acania równowa˝nika pieni´˝nego.
+2. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, normy wyposażenia i uzbrojenia, szczegółowe zasady dostępu do uzbrojenia, jego przyznawania iużytkowania, atakże może określić przypadki otrzymywania i wysokość równoważnika pieniężnego w zamian za niektóre przedmioty tego wyposażenia, uwzględniając okresy używalności tych przedmiotów, terminy ich wydawania lub wypłacania równoważnika pieniężnego.
 
 **Art. 48.**
 
-1. Funkcjonariusze w czasie wykonywania zadaƒ s∏u˝bowych mogà otrzymywaç nieodp∏atnie wy˝ywienie lub równowa˝nik pieni´˝ny w zamian za wy˝ywienie.
+1. Funkcjonariusze w czasie wykonywania zadań służbowych mogą otrzymywać nieodpłatnie wyżywienie lub równoważnik pieniężny w zamian za wyżywienie.
 
-2. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW iSWW, normy wy˝ywienia i przypadki, w których funkcjonariusz otrzymuje wy˝ywienie lub równowa˝nik pieni´˝ny w zamian za wy˝ywienie, wysokoÊç równowa˝nika pieni´˝nego, sposób ustalania wartoÊci pieni´˝nej równowa˝nika, warunki itryb jego wyp∏acania, atak˝e organy w∏aÊciwe wtych sprawach, uwzgl´dniajàc zakres ispecyfik´ zadaƒ s∏u˝bowych wykonywanych przez funkcjonariuszy.
+2. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW iSWW, normy wyżywienia i przypadki, w których funkcjonariusz otrzymuje wyżywienie lub równoważnik pieniężny w zamian za wyżywienie, wysokość równoważnika pieniężnego, sposób ustalania wartości pieniężnej równoważnika, warunki itryb jego wypłacania, atakże organy właściwe wtych sprawach, uwzględniając zakres ispecyfikę zadań służbowych wykonywanych przez funkcjonariuszy.
 
 **Art. 49.**
 
-1. Funkcjonariuszowi i cz∏onkom jego rodziny przys∏uguje raz w roku prawo przejazdu, odpowiednio na koszt SKW i SWW, Êrodkami publicznego transportu zbiorowego, do jednej wybranej przez siebie miejscowoÊci w kraju i z powrotem.
+1. Funkcjonariuszowi i członkom jego rodziny przysługuje raz w roku prawo przejazdu, odpowiednio na koszt SKW i SWW, środkami publicznego transportu zbiorowego, do jednej wybranej przez siebie miejscowości w kraju i z powrotem.
 
-2. Wrazie niewykorzystania przys∏ugujàcego przejazdu osoba uprawniona otrzymuje zrycza∏towany równowa˝nik pieni´˝ny.
+2. Wrazie niewykorzystania przysługującego przejazdu osoba uprawniona otrzymuje zryczałtowany równoważnik pieniężny.
 
-3. Zwrot kosztów przejazdu lub zrycza∏towany równowa˝nik pieni´˝ny, o których mowa w ust. 1 i 2, nie przys∏ugujà funkcjonariuszowi w roku kalendarzonych przejazdów Êrodkami publicznego transportu zbiorowego.
+3. Zwrot kosztów przejazdu lub zryczałtowany równoważnik pieniężny, o których mowa w ust. 1 i 2, nie przysługują funkcjonariuszowi w roku kalendarzonych przejazdów środkami publicznego transportu zbiorowego.
 
-4. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW iSWW, sposób ustalania wysokoÊci równowa˝nika, o którym mowa w ust. 2, szczegó∏owe zasady korzystania przez funkcjonariuszy zuprawnieƒ, októrych mowa wust.1—3, oraz dokumenty, na podstawie których nast´puje realizacja tych uprawnieƒ.
+4. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW iSWW, sposób ustalania wysokości równoważnika, o którym mowa w ust. 2, szczegółowe zasady korzystania przez funkcjonariuszy zuprawnień, októrych mowa wust.1—3, oraz dokumenty, na podstawie których następuje realizacja tych uprawnień.
 
-5. Wrozporzàdzeniach, októrych mowa wust. 4, nale˝y uwzgl´dniç Êrodek transportu wybrany przez funkcjonariusza, sposób wyznaczania trasy przejazdu oraz obliczania kosztów tego przejazdu, atak˝e termin wyp∏aty zrycza∏towanego równowa˝nika pieni´˝nego w przypadku niewykorzystania przys∏ugujàcego przejazdu.
+5. Wrozporządzeniach, októrych mowa wust. 4, należy uwzględnić środek transportu wybrany przez funkcjonariusza, sposób wyznaczania trasy przejazdu oraz obliczania kosztów tego przejazdu, atakże termin wypłaty zryczałtowanego równoważnika pieniężnego w przypadku niewykorzystania przysługującego przejazdu.
 
-6. Osobom, o których mowa w ust. 1, mogà byç przyznane tak˝e inne Êwiadczenia socjalno-bytowe w postaci pomocy finansowej lub rzeczowej.
+6. Osobom, o których mowa w ust. 1, mogą być przyznane także inne świadczenia socjalno-bytowe w postaci pomocy finansowej lub rzeczowej.
 
-7. Minister Obrony Narodowej mo˝e okreÊliç, wym, w którym wykupiono uprawnienia do bezp∏atwdrodze rozporzàdzeƒ, odr´bnie dla SKW iSWW, rodzaj i zakres Êwiadczeƒ, o których mowa w ust. 6, uwzgl´dniajàc warunki korzystania z tego Êwiadczenia, sposób jego realizacji, a w przypadku Êwiadczeƒ finansowych ich wysokoÊç, sposób obliczania, terminy rozliczeƒ oraz terminy ich wyp∏aty.
+7. Minister Obrony Narodowej może określić, wym, w którym wykupiono uprawnienia do bezpłatwdrodze rozporządzeń, odrębnie dla SKW iSWW, rodzaj i zakres świadczeń, o których mowa w ust. 6, uwzględniając warunki korzystania z tego świadczenia, sposób jego realizacji, a w przypadku świadczeń finansowych ich wysokość, sposób obliczania, terminy rozliczeń oraz terminy ich wypłaty.
 
 **Art. 50.**
 
-1. Za cz∏onków rodziny funkcjonariusza uprawnionych do Êwiadczeƒ przewidzianych wart. 49 uwa˝a si´ ma∏˝onka i dzieci.
+1. Za członków rodziny funkcjonariusza uprawnionych do świadczeń przewidzianych wart. 49 uważa się małżonka i dzieci.
 
-2. Za dzieci uwa˝a si´ dzieci w∏asne, dzieci ma∏˝onka, dzieci przysposobione i dzieci przyj´te na wychowanie, które:
+2. Za dzieci uważa się dzieci własne, dzieci małżonka, dzieci przysposobione i dzieci przyjęte na wychowanie, które:
 
-- **1)** nie przekroczy∏y 18 roku ˝ycia, awrazie ucz´szczania do szko∏y 24 lat albo 25 lat, je˝eli odbywajà studia wszkole wy˝szej, aukoƒczenie 24 lat przypada na ostatni lub przedostatni rok studiów, albo
-- **2)** sta∏y si´ ca∏kowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiàgni´ciem wieku okreÊlonego w pkt 1.
+- **1)** nie przekroczyły 18 roku życia, awrazie uczęszczania do szkoły 24 lat albo 25 lat, jeżeli odbywają studia wszkole wyższej, aukończenie 24 lat przypada na ostatni lub przedostatni rok studiów, albo
+- **2)** stały się całkowicie niezdolne do pracy lub niezdolne do samodzielnej egzystencji przed osiągnięciem wieku określonego w pkt 1.
 
 **Art. 51.**
 
-1. Okres s∏u˝by funkcjonariusza traktuje si´ jako prac´ w szczególnych warunkach lub o szczególnym charakterze w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeƒ Spo∏ecznych.
+1. Okres służby funkcjonariusza traktuje się jako pracę w szczególnych warunkach lub o szczególnym charakterze w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-2. Funkcjonariuszowi, który po zwolnieniu ze s∏u˝by w SKW albo SWW podjà∏ prac´, okres tej s∏u˝by wlicza si´ do okresu zatrudnienia wzakresie wszelkich uprawnieƒ wynikajàcych z prawa pracy.
+2. Funkcjonariuszowi, który po zwolnieniu ze służby w SKW albo SWW podjął pracę, okres tej służby wlicza się do okresu zatrudnienia wzakresie wszelkich uprawnień wynikających z prawa pracy.
 
-3. Przepisu ust. 2 nie stosuje si´ do funkcjonariusza zwolnionego ze s∏u˝by w przypadku skazania go prawomocnym wyrokiem sàdu lub ukarania karà dyscyplinarnà wydalenia ze s∏u˝by.
+3. Przepisu ust. 2 nie stosuje się do funkcjonariusza zwolnionego ze służby w przypadku skazania go prawomocnym wyrokiem sądu lub ukarania karą dyscyplinarną wydalenia ze służby.
 
 **Art. 52.**
 
-1. Je˝eli funkcjonariusz zwolniony ze s∏u˝by nie spe∏nia warunków do nabycia prawa do emerytury policyjnej lub policyjnej renty inwalidzkiej, od uposa˝enia wyp∏aconego funkcjonariuszowi po dniu 31 grudnia 1998 r. do dnia zwolnienia ze s∏u˝by, od którego nie odprowadzono sk∏adki na ubezpieczenia emerytalne irentowe, przekazuje si´ do Zak∏adu Ubezpieczeƒ Spo∏ecznych sk∏adki za ten okres przewidziane w ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych (Dz. U. 137, poz. 887, z póên. zm. ).
+1. Jeżeli funkcjonariusz zwolniony ze służby nie spełnia warunków do nabycia prawa do emerytury policyjnej lub policyjnej renty inwalidzkiej, od uposażenia wypłaconego funkcjonariuszowi po dniu 31 grudnia 1998 r. do dnia zwolnienia ze służby, od którego nie odprowadzono składki na ubezpieczenia emerytalne irentowe, przekazuje się do Zakładu Ubezpieczeń Społecznych składki za ten okres przewidziane w ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 137, poz. 887, z póên. zm. ).
 
-2. Przez uposa˝enie stanowiàce podstaw´ wymiaru sk∏adek na ubezpieczenia emerytalne i rentowe, o którym mowa wust. 1, rozumie si´ uposa˝enie zasadnicze, dodatki do uposa˝enia oraz nagrody roczne i uznaniowe, odpowiednio przeliczone zgodnie zart. 110 ustawy, októrej mowa wust. 1.
+2. Przez uposażenie stanowiące podstawę wymiaru składek na ubezpieczenia emerytalne i rentowe, o którym mowa wust. 1, rozumie się uposażenie zasadnicze, dodatki do uposażenia oraz nagrody roczne i uznaniowe, odpowiednio przeliczone zgodnie zart. 110 ustawy, októrej mowa wust. 1.
 
-3. Sk∏adki przekazuje si´ równie˝ wprzypadku, gdy funkcjonariusz spe∏nia jedynie warunki do nabycia prawa do policyjnej renty inwalidzkiej. Przekazanie sk∏adek nast´puje na wniosek funkcjonariusza.
+3. Składki przekazuje się również wprzypadku, gdy funkcjonariusz spełnia jedynie warunki do nabycia prawa do policyjnej renty inwalidzkiej. Przekazanie składek następuje na wniosek funkcjonariusza.
 
-4. Sk∏adki podlegajà waloryzacji wskaênikiem waloryzacji sk∏adek okreÊlonym na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. z 2004 r. 39, poz. 353, z póên. zm. k∏ad Ubezpieczeƒ Spo∏ecznych o nabyciu przez funkcjonariusza prawa do emerytury przewidzianej wprzepisach, októrych mowa wust. 4.
+4. Składki podlegają waloryzacji wskaênikiem waloryzacji składek określonym na podstawie ustawy z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. 39, poz. 353, z póên. zm. kład Ubezpieczeń Społecznych o nabyciu przez funkcjonariusza prawa do emerytury przewidzianej wprzepisach, októrych mowa wust. 4.
 
-8. Kwota nale˝nych, zwaloryzowanych sk∏adek stanowi przychody Funduszu Ubezpieczeƒ Spo∏ecznych.
+8. Kwota należnych, zwaloryzowanych składek stanowi przychody Funduszu Ubezpieczeń Społecznych.
 
-9. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, tryb i terminy przekazywania do Zak∏adu Ubezpieczeƒ Spo∏ecznych sk∏adek, o których mowa w ust. 1, 3, 4 i 7, oraz jednostki do tego w∏aÊciwe, majàc na uwadze koniecznoÊç zapewnienia prawid∏owego i niezw∏ocznego wykonywania czynnoÊci zwiàzanych z przekazywaniem tych sk∏adek.
+9. Minister Obrony Narodowej określi, w drodze rozporządzenia, tryb i terminy przekazywania do Zakładu Ubezpieczeń Społecznych składek, o których mowa w ust. 1, 3, 4 i 7, oraz jednostki do tego właściwe, mając na uwadze konieczność zapewnienia prawidłowego i niezwłocznego wykonywania czynności związanych z przekazywaniem tych składek.
 
 **Art. 53.**
 
-1. Funkcjonariuszowi-kobiecie przys∏ugujà szczególne uprawnienia przewidziane dla pracownic wed∏ug przepisów prawa pracy, je˝eli przepisy niniejszej ustawy nie stanowià inaczej.
+1. Funkcjonariuszowi-kobiecie przysługują szczególne uprawnienia przewidziane dla pracownic według przepisów prawa pracy, jeżeli przepisy niniejszej ustawy nie stanowią inaczej.
 
-2. Przepis ust. 1 stosuje si´ do funkcjonariuszy-m´˝czyzn wzakresie, wjakim ze szczególnych upraw). nieƒ przewidzianych dla pracownic mogà korzystaç
+2. Przepis ust. 1 stosuje się do funkcjonariuszy-mężczyzn wzakresie, wjakim ze szczególnych upraw). nień przewidzianych dla pracownic mogą korzystać
 
-5. Przy obliczaniu kwoty nale˝nych sk∏adek, waloryzowanych na podstawie ust. 4, stosuje si´ odpowiednio art. 19 ust. 1 oraz art. 22 ust. 1 pkt 1 i 2 ustawy, o której mowa w ust. 1.
+5. Przy obliczaniu kwoty należnych składek, waloryzowanych na podstawie ust. 4, stosuje się odpowiednio art. 19 ust. 1 oraz art. 22 ust. 1 pkt 1 i 2 ustawy, o której mowa w ust. 1.
 
-6. Przepisy ust. 1—5 stosuje si´ równie˝ do funkcjonariusza, który pozostawa∏ w s∏u˝bie przed dniem 2stycznia 1999 r., je˝eli po zwolnieniu ze s∏u˝by, pomimo spe∏nienia warunków do nabycia prawa do emerytury policyjnej, zg∏osi∏ wniosek o przyznanie emerytury z tytu∏u podlegania ubezpieczeniom spo∏ecznym.
+6. Przepisy ust. 1—5 stosuje się również do funkcjonariusza, który pozostawał w służbie przed dniem 2stycznia 1999 r., jeżeli po zwolnieniu ze służby, pomimo spełnienia warunków do nabycia prawa do emerytury policyjnej, zgłosił wniosek o przyznanie emerytury z tytułu podlegania ubezpieczeniom społecznym.
 
-7. W przypadku, o którym mowa w ust. 6, kwot´ nale˝nych, zwaloryzowanych sk∏adek przekazuje si´ niezw∏ocznie na podstawie zawiadomienia przez Zapracownicy.
+7. W przypadku, o którym mowa w ust. 6, kwotę należnych, zwaloryzowanych składek przekazuje się niezwłocznie na podstawie zawiadomienia przez Zapracownicy.
 
-**Art. 54.** Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzeƒ, odr´bnie dla SKW iSWW, przebieg s∏u˝by funkcjonariuszy. Rozporzàdzenie powinno okreÊlaç zw∏aszcza:
+**Art. 54.** Minister Obrony Narodowej określi, wdrodze rozporządzeń, odrębnie dla SKW iSWW, przebieg służby funkcjonariuszy. Rozporządzenie powinno określać zwłaszcza:
 
 **Art. 55.**
 
-1. Funkcjonariuszowi przys∏uguje prawo do corocznego p∏atnego urlopu wypoczynkowego w wymiarze 26 dni roboczych.
+1. Funkcjonariuszowi przysługuje prawo do corocznego płatnego urlopu wypoczynkowego w wymiarze 26 dni roboczych.
 
-2. Funkcjonariusz nabywa prawo do pierwszego urlopu wypoczynkowego z up∏ywem 6 miesi´cy s∏u˝by, w wymiarze po∏owy urlopu przys∏ugujàcego mu po roku s∏u˝by.
+2. Funkcjonariusz nabywa prawo do pierwszego urlopu wypoczynkowego z upływem 6 miesięcy służby, w wymiarze połowy urlopu przysługującego mu po roku służby.
 
-3. Prawo do urlopu wypoczynkowego w pe∏nym wymiarze funkcjonariusz nabywa z up∏ywem roku s∏u˝by. Do urlopu tego wlicza si´ urlop, o którym mowa w ust. 2.
+3. Prawo do urlopu wypoczynkowego w pełnym wymiarze funkcjonariusz nabywa z upływem roku służby. Do urlopu tego wlicza się urlop, o którym mowa w ust. 2.
 
-4. Prawo do kolejnych urlopów funkcjonariusz nabywa w ka˝dym nast´pnym roku kalendarzowym.
+4. Prawo do kolejnych urlopów funkcjonariusz nabywa w każdym następnym roku kalendarzowym.
 
-5. Do okresu s∏u˝by, od którego zale˝y prawo do urlopu, wlicza si´ okresy poprzedniego zatrudnienia is∏u˝by, bez wzgl´du na przerwy wzatrudnieniu is∏u˝bie oraz sposób rozwiàzania stosunku pracy lub stosunku s∏u˝bowego.
+5. Do okresu służby, od którego zależy prawo do urlopu, wlicza się okresy poprzedniego zatrudnienia isłużby, bez względu na przerwy wzatrudnieniu isłużbie oraz sposób rozwiązania stosunku pracy lub stosunku służbowego.
 
-6. Przez dni robocze rozumie si´ dni od poniedzia∏ku do piàtku, z wy∏àczeniem dni ustawowo wolnych od pracy.
+6. Przez dni robocze rozumie się dni od poniedziałku do piątku, z wyłączeniem dni ustawowo wolnych od pracy.
 
 **Art. 56.**
 
-1. Z wa˝nych wzgl´dów s∏u˝bowych funkcjonariusza mo˝na odwo∏aç z urlopu wypoczynkowego, atak˝e wstrzymaç mu udzielenie urlopu wca∏oÊci lub w cz´Êci. Termin urlopu wypoczynkowego mo˝e byç tak˝e przesuni´ty na wniosek funkcjonariusza umotywowany wa˝nymi wzgl´dami.
+1. Z ważnych względów służbowych funkcjonariusza można odwołać z urlopu wypoczynkowego, atakże wstrzymać mu udzielenie urlopu wcałości lub w części. Termin urlopu wypoczynkowego może być także przesunięty na wniosek funkcjonariusza umotywowany ważnymi względami.
 
-2. Funkcjonariuszowi odwo∏anemu zurlopu wypoczynkowego przys∏uguje zwrot kosztów przejazdu poniesionych w zwiàzku z odwo∏aniem, wed∏ug norm ustalonych w przepisach o nale˝noÊciach s∏u˝bowych w przypadku przeniesienia lub delegowania, jak równie˝ innych kosztów, które okreÊli Minister Obrony Narodowej w drodze rozporzàdzenia. Zwrot kosztów powinien obejmowaç udokumentowane op∏aty dokonane przez funkcjonariusza, a niewykorzystane w zwiàzku z odwo∏aniem z urlopu, jak równie˝ op∏aty poniesione przez cz∏onków rodziny, o których mowa w art. 50, je˝eli odwo∏anie funkcjonariusza z urlopu spowodowa∏o równie˝ powrót tych osób.
+2. Funkcjonariuszowi odwołanemu zurlopu wypoczynkowego przysługuje zwrot kosztów przejazdu poniesionych w związku z odwołaniem, według norm ustalonych w przepisach o należnościach służbowych w przypadku przeniesienia lub delegowania, jak również innych kosztów, które określi Minister Obrony Narodowej w drodze rozporządzenia. Zwrot kosztów powinien obejmować udokumentowane opłaty dokonane przez funkcjonariusza, a niewykorzystane w związku z odwołaniem z urlopu, jak również opłaty poniesione przez członków rodziny, o których mowa w art. 50, jeżeli odwołanie funkcjonariusza z urlopu spowodowało również powrót tych osób.
 
-3. Odwo∏anie funkcjonariusza z urlopu wypoczynkowego ze wzgl´dów s∏u˝bowych wymaga zgody prze∏o˝onego.
+3. Odwołanie funkcjonariusza z urlopu wypoczynkowego ze względów służbowych wymaga zgody przełożonego.
 
-4. Funkcjonariuszowi, który nie wykorzysta∏ urlopu wypoczynkowego w danym roku kalendarzowym, urlopu tego nale˝y udzieliç wciàgu pierwszych 3 miesi´cy nast´pnego roku.
+4. Funkcjonariuszowi, który nie wykorzystał urlopu wypoczynkowego w danym roku kalendarzowym, urlopu tego należy udzielić wciągu pierwszych 3 miesięcy następnego roku.
 
 **Art. 57.**
 
-1. Funkcjonariuszowi, który pe∏ni s∏u˝b´ wwarunkach szczególnie ucià˝liwych lub szkodliwych dla zdrowia albo gdy jest to uzasadnione szczególnymi w∏aÊciwoÊciami s∏u˝by, mo˝e byç przyznany p∏atny urlop dodatkowy w wymiarze do 11 dni roboczych rocznie.
+1. Funkcjonariuszowi, który pełni służbę wwarunkach szczególnie uciążliwych lub szkodliwych dla zdrowia albo gdy jest to uzasadnione szczególnymi właściwościami służby, może być przyznany płatny urlop dodatkowy w wymiarze do 11 dni roboczych rocznie.
 
-2. Funkcjonariuszowi, który osiàgnà∏ okreÊlony wiek lub sta˝ s∏u˝by, przys∏uguje p∏atny urlop dodatkowy w ka˝dym roku kalendarzowym w wymiarze:
+2. Funkcjonariuszowi, który osiągnął określony wiek lub staż służby, przysługuje płatny urlop dodatkowy w każdym roku kalendarzowym w wymiarze:
 
-- **1)** 5 dni roboczych, je˝eli ukoƒczy∏ 40 lat lub posiada 10 lat s∏u˝by;
-- **2)** 8 dni roboczych, je˝eli ukoƒczy∏ 45 lat lub posiada 20 lat s∏u˝by;
-- **3)** 11 dni roboczych, je˝eli ukoƒczy∏ 55 lat lub posiada 25 lat s∏u˝by.
+- **1)** 5 dni roboczych, jeżeli ukończył 40 lat lub posiada 10 lat służby;
+- **2)** 8 dni roboczych, jeżeli ukończył 45 lat lub posiada 20 lat służby;
+- **3)** 11 dni roboczych, jeżeli ukończył 55 lat lub posiada 25 lat służby.
 
-3. ¸àczny wymiar urlopów dodatkowych, októrych mowa w ust. 1 i 2, nie mo˝e przekroczyç 11 dni roboczych rocznie.
+3. Ęączny wymiar urlopów dodatkowych, októrych mowa w ust. 1 i 2, nie może przekroczyć 11 dni roboczych rocznie.
 
-4. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, rodzaje stanowisk, na których wyst´pujà warunki szczególnie ucià˝liwe lub szkodliwe dla zdrowia, atak˝e rodzaje innych stanowisk, na których przys∏uguje prawo do urlopu dodatkowego, o którym mowa w ust. 1, albo gdy jest to uzasadnione szczególnymi w∏aÊciwoÊciami s∏u˝by, uwzgl´dniajàc specyfik´ s∏u˝by na poszczególnych stanowiskach.
+4. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, rodzaje stanowisk, na których występują warunki szczególnie uciążliwe lub szkodliwe dla zdrowia, atakże rodzaje innych stanowisk, na których przysługuje prawo do urlopu dodatkowego, o którym mowa w ust. 1, albo gdy jest to uzasadnione szczególnymi właściwościami służby, uwzględniając specyfikę służby na poszczególnych stanowiskach.
 
 **Art. 58.**
 
-1. Funkcjonariuszowi mo˝na udzieliç, na wniosek komisji lekarskiej, p∏atnego urlopu zdrowotnego jednorazowo na okres do 2 miesi´cy, ∏àcznie w cià2. Funkcjonariuszowi, który uzyska∏ zezwolenie na pobieranie nauki lub odbywanie studiów i nauk´ t´ pobiera lub odbywa studia, jak równie˝ uzyska∏ zezwolenie na przeprowadzenie przewodu doktorskiego lub habilitacyjnego, a tak˝e na odbycie aplikacji radcowskiej lub legislacyjnej, udziela si´ p∏atnego urlopu szkoleniowego w wymiarze:
+1. Funkcjonariuszowi można udzielić, na wniosek komisji lekarskiej, płatnego urlopu zdrowotnego jednorazowo na okres do 2 miesięcy, łącznie w cią2. Funkcjonariuszowi, który uzyskał zezwolenie na pobieranie nauki lub odbywanie studiów i naukę tę pobiera lub odbywa studia, jak również uzyskał zezwolenie na przeprowadzenie przewodu doktorskiego lub habilitacyjnego, a także na odbycie aplikacji radcowskiej lub legislacyjnej, udziela się płatnego urlopu szkoleniowego w wymiarze:
 
-- **1)** na przygotowanie si´ do egzaminu wst´pnego i jego z∏o˝enie 7 dni;
-- **2)** w szko∏ach wy˝szych, w ka˝dym roku studiów 21 dni;
-- **3)** dla funkcjonariuszy pobierajàcych nauk´ w szko∏ach pomaturalnych i na studiach podyplomowych 14 dni wcelu przygotowania si´ iz∏o˝enia egzaminu koƒcowego;
-- **4)** w celu przygotowania si´ do z∏o˝enia egzaminów doktorskich i obrony rozprawy doktorskiej lub dla przygotowania si´ do kolokwium oraz wyk∏adu habilitacyjnego 28 dni;
-- **5)** wcelu przygotowania si´ iz∏o˝enia egzaminu radcowskiego 30 dni;
-- **6)** w celu przygotowania si´ i z∏o˝enia egzaminu po zakoƒczeniu aplikacji legislacyjnej 14 dni.
+- **1)** na przygotowanie się do egzaminu wstępnego i jego złożenie 7 dni;
+- **2)** w szkołach wyższych, w każdym roku studiów 21 dni;
+- **3)** dla funkcjonariuszy pobierających naukę w szkołach pomaturalnych i na studiach podyplomowych 14 dni wcelu przygotowania się izłożenia egzaminu końcowego;
+- **4)** w celu przygotowania się do złożenia egzaminów doktorskich i obrony rozprawy doktorskiej lub dla przygotowania się do kolokwium oraz wykładu habilitacyjnego 28 dni;
+- **5)** wcelu przygotowania się izłożenia egzaminu radcowskiego 30 dni;
+- **6)** w celu przygotowania się i złożenia egzaminu po zakończeniu aplikacji legislacyjnej 14 dni.
 
-3. Funkcjonariuszowi udziela si´ urlopu okolicznoÊciowego w celu zawarcia zwiàzku ma∏˝eƒskiego, wprzypadku urodzenia si´ dziecka, Êlubu dziecka w∏asnego, przysposobionego, pasierba, dziecka obcego przyj´tego na wychowanie i utrzymanie, w tym tak˝e w ramach rodziny zast´pczej, a tak˝e z powodu pogrzebu ma∏˝onka, dziecka, rodziców, rodzeƒstwa, teÊciów, dziadków i opiekunów oraz innej osoby pozostajàcej na utrzymaniu funkcjonariusza lub pod jego bezpoÊrednià opiekà. Urlopu okolicznoÊciowego mo˝na tak˝e udzieliç funkcjonariuszowi wcelu za∏atwienia wa˝nych spraw osobistych albo w innych przypadkach zas∏ugujàcych na szczególne uwzgl´dnienie, w wymiarze do 5 dni.
+3. Funkcjonariuszowi udziela się urlopu okolicznościowego w celu zawarcia związku małżeńskiego, wprzypadku urodzenia się dziecka, ślubu dziecka własnego, przysposobionego, pasierba, dziecka obcego przyjętego na wychowanie i utrzymanie, w tym także w ramach rodziny zastępczej, a także z powodu pogrzebu małżonka, dziecka, rodziców, rodzeństwa, teściów, dziadków i opiekunów oraz innej osoby pozostającej na utrzymaniu funkcjonariusza lub pod jego bezpośrednią opieką. Urlopu okolicznościowego można także udzielić funkcjonariuszowi wcelu załatwienia ważnych spraw osobistych albo w innych przypadkach zasługujących na szczególne uwzględnienie, w wymiarze do 5 dni.
 
-4. Funkcjonariuszowi w s∏u˝bie sta∏ej, na pisemny wniosek uzasadniony wa˝nymi wzgl´dami osobistymi, mo˝na udzieliç urlopu bezp∏atnego wwymiarze do 6 miesi´cy.
+4. Funkcjonariuszowi w służbie stałej, na pisemny wniosek uzasadniony ważnymi względami osobistymi, można udzielić urlopu bezpłatnego wwymiarze do 6 miesięcy.
 
 **Art. 59.**
 
-1. Funkcjonariusz oddelegowany do pe∏nienia s∏u˝by poza SKW albo SWW ma prawo tylko do jednego urlopu wypoczynkowego, w wymiarze korzystniejszym.
+1. Funkcjonariusz oddelegowany do pełnienia służby poza SKW albo SWW ma prawo tylko do jednego urlopu wypoczynkowego, w wymiarze korzystniejszym.
 
-2. Niewykorzystanej wokresie oddelegowania cz´Êci urlopu wypoczynkowego, wynikajàcej z ró˝nicy w wymiarach urlopów, udziela si´ funkcjonariuszowi po powrocie z oddelegowania.
+2. Niewykorzystanej wokresie oddelegowania części urlopu wypoczynkowego, wynikającej z różnicy w wymiarach urlopów, udziela się funkcjonariuszowi po powrocie z oddelegowania.
 
-**Art. 60.** Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, warunki i tryb udzielania funkcjonariuszom urlopów, o których mowa w art. 55, art. 57 ust. 1 i art. 58, uwzgl´dniajàc:
+**Art. 60.** Minister Obrony Narodowej określi, wdrodze rozporządzeń, odrębnie dla SKW i SWW, warunki i tryb udzielania funkcjonariuszom urlopów, o których mowa w art. 55, art. 57 ust. 1 i art. 58, uwzględniając:
 
 **Art. 61.**
 
-1. Funkcjonariuszowi, który przejawia inicjatyw´ iosiàga znaczàce wyniki ws∏u˝bie, mogà byç udzielane wyró˝nienia:
+1. Funkcjonariuszowi, który przejawia inicjatywę iosiąga znaczące wyniki wsłużbie, mogą być udzielane wyróżnienia:
 
-- **1)** pochwa∏a w rozkazie;
-- **2)** krótkoterminowy urlop wypoczynkowy w wymiarze do 7 dni roboczych, nie wi´cej ni˝ 15 dni wroku;
-- **3)** nagroda pieni´˝na lub rzeczowa;
-- **4)** przedterminowe mianowanie na wy˝szy stopieƒ;
-- **5)** mianowanie na wy˝sze stanowisko s∏u˝bowe;
+- **1)** pochwała w rozkazie;
+- **2)** krótkoterminowy urlop wypoczynkowy w wymiarze do 7 dni roboczych, nie więcej niż 15 dni wroku;
+- **3)** nagroda pieniężna lub rzeczowa;
+- **4)** przedterminowe mianowanie na wyższy stopień;
+- **5)** mianowanie na wyższe stanowisko służbowe;
 - **6)** przedstawienie do orderu lub odznaczenia.
 
-2. W∏aÊciwi do udzielania wyró˝nieƒ sà Szef SKW albo Szef SWW, ka˝dy w zakresie swojego dzia∏ania, a tak˝e inni uprawnieni prze∏o˝eni.
+2. Właściwi do udzielania wyróżnień są Szef SKW albo Szef SWW, każdy w zakresie swojego działania, a także inni uprawnieni przełożeni.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW iSWW, tryb isposób udzielania wyró˝nieƒ oraz w∏aÊciwoÊç prze∏o˝onych w tych sprawach, uwzgl´dniajàc okolicznoÊci oraz uroczysty charakter udzielania wyró˝nieƒ. Rozdzia∏ 4 Mieszkania funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego
+3. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW iSWW, tryb isposób udzielania wyróżnień oraz właściwość przełożonych w tych sprawach, uwzględniając okoliczności oraz uroczysty charakter udzielania wyróżnień.
+
+#### Rozdział 4 Mieszkania funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
 **Art. 62.**
 
-1. Funkcjonariuszowi ws∏u˝bie sta∏ej przys∏uguje, z uwzgl´dnieniem cz∏onków rodziny, prawo do lokalu mieszkalnego w miejscowoÊci, w której pe∏ni s∏u˝b´, lub w miejscowoÊci pobliskiej.
+1. Funkcjonariuszowi wsłużbie stałej przysługuje, z uwzględnieniem członków rodziny, prawo do lokalu mieszkalnego w miejscowości, w której pełni służbę, lub w miejscowości pobliskiej.
 
-2. Przez miejscowoÊç pobliskà rozumie si´ miejscowoÊç, do której czas dojazdu kolejà lub autobusami, przewidziany w rozk∏adzie jazdy, ∏àcznie z przesiadkami nie przekracza wobie strony 2 godzin, liczàc od stacji (przystanku) najbli˝szej miejsca pe∏nienia s∏u˝by do stacji (przystanku) najbli˝szej miejsca zamieszkania, bez uwzgl´dnienia czasu dojazdu do i od stacji (przystanku) w obr´bie miejscowoÊci, z której funkcjonariusz doje˝d˝a, oraz miejscowoÊci, w której wykonuje obowiàzki s∏u˝bowe.
+2. Przez miejscowość pobliską rozumie się miejscowość, do której czas dojazdu koleją lub autobusami, przewidziany w rozkładzie jazdy, łącznie z przesiadkami nie przekracza wobie strony 2 godzin, licząc od stacji (przystanku) najbliższej miejsca pełnienia służby do stacji (przystanku) najbliższej miejsca zamieszkania, bez uwzględnienia czasu dojazdu do i od stacji (przystanku) w obrębie miejscowości, z której funkcjonariusz dojeżdża, oraz miejscowości, w której wykonuje obowiązki służbowe.
 
-3. Funkcjonariusz w s∏u˝bie przygotowawczej mo˝e otrzymaç tymczasowà kwater´.
+3. Funkcjonariusz w służbie przygotowawczej może otrzymać tymczasową kwaterę.
 
-**Art. 63.** Cz∏onkami rodziny funkcjonariusza, których uwzgl´dnia si´ przy przydziale lokalu mieszkalnego, sà pozostajàcy z funkcjonariuszem we wspólnym gospodarstwie domowym:
+**Art. 63.** Członkami rodziny funkcjonariusza, których uwzględnia się przy przydziale lokalu mieszkalnego, są pozostający z funkcjonariuszem we wspólnym gospodarstwie domowym:
 
 **Art. 64.**
 
-1. Na lokale mieszkalne dla funkcjonariuszy przeznacza si´ lokale uzyskane w wyniku dzia∏alnoÊci inwestycyjnej odpowiednio SKW i SWW oraz pozostajàce i przekazane do dyspozycji odpowiednio Szefa SKW i Szefa SWW.
+1. Na lokale mieszkalne dla funkcjonariuszy przeznacza się lokale uzyskane w wyniku działalności inwestycyjnej odpowiednio SKW i SWW oraz pozostające i przekazane do dyspozycji odpowiednio Szefa SKW i Szefa SWW.
 
-2. Przepisy ustawy nie naruszajà, wynikajàcych z prawa w∏asnoÊci, uprawnieƒ do rozporzàdzania loczej, pozostajàce na jego utrzymaniu do czasu kalem mieszkalnym w∏aÊciciela innego ni˝ Skarb Paƒstwa.
+2. Przepisy ustawy nie naruszają, wynikających z prawa własności, uprawnień do rozporządzania loczej, pozostające na jego utrzymaniu do czasu kalem mieszkalnym właściciela innego niż Skarb Państwa.
 
-**Art. 65.** Funkcjonariuszowi przys∏uguje równowa˝nik pieni´˝ny za remont zajmowanego lokalu mieszkalnego, z uwzgl´dnieniem liczby cz∏onków rodziny oraz jego uprawnieƒ wynikajàcych z rozporzàdzenia wydanego na podstawie art. 71.
+**Art. 65.** Funkcjonariuszowi przysługuje równoważnik pieniężny za remont zajmowanego lokalu mieszkalnego, z uwzględnieniem liczby członków rodziny oraz jego uprawnień wynikających z rozporządzenia wydanego na podstawie art. 71.
 
 **Art. 66.**
 
-1. Funkcjonariuszowi ws∏u˝bie sta∏ej przys∏uguje równowa˝nik pieni´˝ny za brak lokalu mieszkalnego, je˝eli on sam lub cz∏onkowie jego rodziny nie posiadajà lokalu mieszkalnego w miejscu pe∏nienia s∏u˝by lub w miejscowoÊci pobliskiej.
+1. Funkcjonariuszowi wsłużbie stałej przysługuje równoważnik pieniężny za brak lokalu mieszkalnego, jeżeli on sam lub członkowie jego rodziny nie posiadają lokalu mieszkalnego w miejscu pełnienia służby lub w miejscowości pobliskiej.
 
-2. Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, wysokoÊç oraz szczegó∏owe zasady przyznawania i zwracania równowa˝ników pieni´˝nych za remont zajmowanego lokalu mieszkalnego i za brak lokalu mieszkalnego, uwzgl´dniajàc sposób obliczania wysokoÊci tych równowa˝ników oraz przypadki, w których Êwiadczenia te sà przyznawane, iprzypadki, wktórych podlegajà zwrotowi.
+2. Minister Obrony Narodowej określi, wdrodze rozporządzeń, odrębnie dla SKW i SWW, wysokość oraz szczegółowe zasady przyznawania i zwracania równoważników pieniężnych za remont zajmowanego lokalu mieszkalnego i za brak lokalu mieszkalnego, uwzględniając sposób obliczania wysokości tych równoważników oraz przypadki, w których świadczenia te są przyznawane, iprzypadki, wktórych podlegają zwrotowi.
 
 **Art. 67.**
 
-1. Funkcjonariuszowi, który zajmuje lokal mieszkalny w miejscowoÊci pobliskiej miejsca pe∏nienia s∏u˝by, przys∏uguje zwrot kosztów dojazdu do miejsca pe∏nienia s∏u˝by i z powrotem.
+1. Funkcjonariuszowi, który zajmuje lokal mieszkalny w miejscowości pobliskiej miejsca pełnienia służby, przysługuje zwrot kosztów dojazdu do miejsca pełnienia służby i z powrotem.
 
-2. Zwrot kosztów, o których mowa w ust. 1, nie przys∏uguje w roku kalendarzowym, w którym odpowiednio SKW i SWW wykupi∏a uprawnienia do bezp∏atnych przejazdów Êrodkami komunikacji zbiorowej.
+2. Zwrot kosztów, o których mowa w ust. 1, nie przysługuje w roku kalendarzowym, w którym odpowiednio SKW i SWW wykupiła uprawnienia do bezpłatnych przejazdów środkami komunikacji zbiorowej.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW iSWW, szczegó∏owe zasady itryb zwrotu funkcjonariuszowi kosztów, októrych mowa w ust. 1, uwzgl´dniajàc sposób obliczania wysokoÊci tych kosztów oraz przypadki, w których koszty te sà zwracane.
+3. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW iSWW, szczegółowe zasady itryb zwrotu funkcjonariuszowi kosztów, októrych mowa w ust. 1, uwzględniając sposób obliczania wysokości tych kosztów oraz przypadki, w których koszty te są zwracane.
 
 **Art. 68.**
 
-1. Funkcjonariuszowi, który nie otrzyma∏ lokalu mieszkalnego na podstawie decyzji administracyjnej o przydziale, przys∏uguje pomoc finansowa na uzyskanie lokalu mieszkalnego w spó∏dzielni mieszkaniowej albo domu jednorodzinnego lub lokalu mieszkalnego stanowiàcego odr´bnà nieruchomoÊç.
+1. Funkcjonariuszowi, który nie otrzymał lokalu mieszkalnego na podstawie decyzji administracyjnej o przydziale, przysługuje pomoc finansowa na uzyskanie lokalu mieszkalnego w spółdzielni mieszkaniowej albo domu jednorodzinnego lub lokalu mieszkalnego stanowiącego odrębną nieruchomość.
 
-2. Pomoc finansowà, októrej mowa wust. 1, przyznaje si´ jednorazowo na wniosek funkcjonariusza w s∏u˝bie sta∏ej.
+2. Pomoc finansową, októrej mowa wust. 1, przyznaje się jednorazowo na wniosek funkcjonariusza w służbie stałej.
 
 3. Pomoc finansowa, októrej mowa wust. 2, podlega zwrotowi w przypadku:
 
-- **1)** wyp∏aty tej pomocy jako nienale˝nego Êwiadczenia;
-- **2)** zwolnienia funkcjonariusza ze s∏u˝by przed up∏ywem 10 lat s∏u˝by.
+- **1)** wypłaty tej pomocy jako nienależnego świadczenia;
+- **2)** zwolnienia funkcjonariusza ze służby przed upływem 10 lat służby.
 
-4. Przepisu ust. 3 pkt 2 nie stosuje si´ wobec funkcjonariusza zwolnionego ze s∏u˝by na podstawie art. 13 ust. 3 lub art. 19 ust. 1 pkt 1.
+4. Przepisu ust. 3 pkt 2 nie stosuje się wobec funkcjonariusza zwolnionego ze służby na podstawie art. 13 ust. 3 lub art. 19 ust. 1 pkt 1.
 
-5. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, wysokoÊç pomocy, o której mowa w ust. 1, tryb post´powania w sprawach zwiàzanych z jej przyznawaniem oraz zwrotem, a tak˝e wzór wniosku o jej przyznanie, uwzgl´dniajàc corocznà waloryzacj´ o prognozowany w ustawie bud˝etowej na dany rok wskaênik wzrostu cen towarów i us∏ug konsumpcyjnych, liczb´ cz∏onków rodziny funkcjonariusza ijego uprawnienia wynikajàce z rozporzàdzenia wydanego na podstawie art. 71, rodzaje dokumentów wymaganych przy ubieganiu si´ oprzyznanie tej pomocy oraz sposób post´powania przy jej przyznawaniu lub zwrocie.
+5. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, wysokość pomocy, o której mowa w ust. 1, tryb postępowania w sprawach związanych z jej przyznawaniem oraz zwrotem, a także wzór wniosku o jej przyznanie, uwzględniając coroczną waloryzację o prognozowany w ustawie budżetowej na dany rok wskaênik wzrostu cen towarów i usług konsumpcyjnych, liczbę członków rodziny funkcjonariusza ijego uprawnienia wynikające z rozporządzenia wydanego na podstawie art. 71, rodzaje dokumentów wymaganych przy ubieganiu się oprzyznanie tej pomocy oraz sposób postępowania przy jej przyznawaniu lub zwrocie.
 
-**Art. 69.** Lokalu mieszkalnego na podstawie decyzji administracyjnej nie przydziela si´ funkcjonariuszowi:
+**Art. 69.** Lokalu mieszkalnego na podstawie decyzji administracyjnej nie przydziela się funkcjonariuszowi:
 
 **Art. 70.**
 
-1. Funkcjonariuszowi przeniesionemu z urz´du do s∏u˝by w innej miejscowoÊci, który w poprzednim miejscu pe∏nienia s∏u˝by posiada∏ lokal mieszkalny, dom jednorodzinny lub dom mieszkalno-pensjonatowy, mo˝e byç przydzielony, na podstawie decyzji administracyjnej, lokal mieszkalny w nowym miejscu pe∏nienia s∏u˝by, je˝eli:
+1. Funkcjonariuszowi przeniesionemu z urzędu do służby w innej miejscowości, który w poprzednim miejscu pełnienia służby posiadał lokal mieszkalny, dom jednorodzinny lub dom mieszkalno-pensjonatowy, może być przydzielony, na podstawie decyzji administracyjnej, lokal mieszkalny w nowym miejscu pełnienia służby, jeżeli:
 
-- **1)** zwolni, wchodzàcy w sk∏ad mieszkaniowego zasobu gminnego lub innych jednostek samorzàdu terytorialnego lub stanowiàcy w∏asnoÊç Skarbu Paƒstwa albo paƒstwowych osób prawnych, zaj2) zwróci pomoc finansowà przyznanà na:
-    - **a)** wk∏ad mieszkaniowy lub wk∏ad budowlany w wysokoÊci zwaloryzowanej przez spó∏dzielni´,
-    - **b)** sp∏at´ innych nale˝noÊci w wysokoÊci przyznanej.
+- **1)** zwolni, wchodzący w skład mieszkaniowego zasobu gminnego lub innych jednostek samorządu terytorialnego lub stanowiący własność Skarbu Państwa albo państwowych osób prawnych, zaj2) zwróci pomoc finansową przyznaną na:
+    - **a)** wkład mieszkaniowy lub wkład budowlany w wysokości zwaloryzowanej przez spółdzielnię,
+    - **b)** spłatę innych należności w wysokości przyznanej.
 
-2. Funkcjonariuszowi, który skorzysta∏ zpomocy finansowej, o której mowa w art. 68 ust. 1, mo˝e byç przydzielony lokal mieszkalny na podstawie decyzji administracyjnej, je˝eli zwolni zajmowany lokal lub dom, o którym mowa w ust. 1, oraz zwróci pomoc finansowà na zasadach okreÊlonych w tym przepisie.
+2. Funkcjonariuszowi, który skorzystał zpomocy finansowej, o której mowa w art. 68 ust. 1, może być przydzielony lokal mieszkalny na podstawie decyzji administracyjnej, jeżeli zwolni zajmowany lokal lub dom, o którym mowa w ust. 1, oraz zwróci pomoc finansową na zasadach określonych w tym przepisie.
 
-3. Tryb przydzielania lokalu mieszkalnego, o którym mowa wust. 1 i2, szczegó∏owe zasady zwracania udzielonej pomocy finansowej oraz zasady zwalniania zajmowanych lokali mieszkalnych lub domów, okreÊlonych w ust. 1, ustala w drodze zarzàdzenia odpowiednio Szef SKW i Szef SWW.
+3. Tryb przydzielania lokalu mieszkalnego, o którym mowa wust. 1 i2, szczegółowe zasady zwracania udzielonej pomocy finansowej oraz zasady zwalniania zajmowanych lokali mieszkalnych lub domów, określonych w ust. 1, ustala w drodze zarządzenia odpowiednio Szef SKW i Szef SWW.
 
-4. Funkcjonariuszowi przeniesionemu z urz´du do mowany lokal mieszkalny lub dom; s∏u˝by winnej miejscowoÊci, który wpoprzednim miejscu pe∏nienia s∏u˝by nie zwolni∏ zajmowanego lokalu mieszkalnego lub domu, októrym mowa wust. 1 pkt 1, albo lokalu mieszkalnego lub domu stanowiàcego w∏asnoÊç funkcjonariusza lub jego ma∏˝onka, mo˝na, bez uwzgl´dnienia zamieszka∏ych z nim cz∏onków rodziny, przydzieliç tymczasowà kwater´ wed∏ug przys∏ugujàcych mu norm lub zapewniç zakwaterowanie wbursie, hotelu lub innym pomieszczeniu mieszkalnym.
+4. Funkcjonariuszowi przeniesionemu z urzędu do mowany lokal mieszkalny lub dom; służby winnej miejscowości, który wpoprzednim miejscu pełnienia służby nie zwolnił zajmowanego lokalu mieszkalnego lub domu, októrym mowa wust. 1 pkt 1, albo lokalu mieszkalnego lub domu stanowiącego własność funkcjonariusza lub jego małżonka, można, bez uwzględnienia zamieszkałych z nim członków rodziny, przydzielić tymczasową kwaterę według przysługujących mu norm lub zapewnić zakwaterowanie wbursie, hotelu lub innym pomieszczeniu mieszkalnym.
 
-5. Funkcjonariusz delegowany do czasowego pe∏nienia s∏u˝by winnej miejscowoÊci otrzymuje tymczasowà kwater´ lub zapewnia mu si´ zakwaterowanie w bursie, hotelu lub innym pomieszczeniu mieszkalnym. Koszt zakwaterowania pokrywa si´ odpowiednio ze Êrodków SKW i SWW.
+5. Funkcjonariusz delegowany do czasowego pełnienia służby winnej miejscowości otrzymuje tymczasową kwaterę lub zapewnia mu się zakwaterowanie w bursie, hotelu lub innym pomieszczeniu mieszkalnym. Koszt zakwaterowania pokrywa się odpowiednio ze środków SKW i SWW.
 
-**Art. 71.** Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzeƒ, odr´bnie dla SKW iSWW, szczegó∏owe zasady przydzia∏u, opró˝niania i norm zaludnienia lokali mieszkalnych oraz tymczasowych kwater przeznaczonych dla funkcjonariuszy SKW iSWW. Rozporzàdzenie powinno ustalaç sposób przydzia∏u lokali mieszkalnych i kwater tymczasowych oraz okreÊlaç ich wielkoÊç, zuwzgl´dnieniem uprawnieƒ funkcjonariusza i liczby cz∏onków jego rodziny, a tak˝e wymieniaç przes∏anki wydania decyzji o opró˝nieniu lokalu lub tymczasowej kwatery.
+**Art. 71.** Minister Obrony Narodowej określi, wdrodze rozporządzeń, odrębnie dla SKW iSWW, szczegółowe zasady przydziału, opróżniania i norm zaludnienia lokali mieszkalnych oraz tymczasowych kwater przeznaczonych dla funkcjonariuszy SKW iSWW. Rozporządzenie powinno ustalać sposób przydziału lokali mieszkalnych i kwater tymczasowych oraz określać ich wielkość, zuwzględnieniem uprawnień funkcjonariusza i liczby członków jego rodziny, a także wymieniać przesłanki wydania decyzji o opróżnieniu lokalu lub tymczasowej kwatery.
 
-**Art. 72.** Przydzia∏ iopró˝nienie lokali mieszkalnych i tymczasowych kwater oraz za∏atwienie spraw, o których mowa w art. 65, art. 66 ust. 1 oraz art. 68 ust. 1, nast´puje w drodze decyzji administracyjnej.
+**Art. 72.** Przydział iopróżnienie lokali mieszkalnych i tymczasowych kwater oraz załatwienie spraw, o których mowa w art. 65, art. 66 ust. 1 oraz art. 68 ust. 1, następuje w drodze decyzji administracyjnej.
 
-**Art. 73.** Funkcjonariusz SKW albo SWW zwolniony ze s∏u˝by, który nie posiada prawa do lokalu mieszkalnego na warunkach okreÊlonych w przepisach o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej i S∏u˝by Wi´ziennej oraz ich rodzin, zachowuje prawo do przydzielonego lokalu Art. 77. Funkcjonariusz przeniesiony na podstawie mieszkalnego wed∏ug norm powszechnie obowiàzujà- art. 13 ust. 1 do dyspozycji odpowiednio Szefa SKW cych lub mo˝e byç przeniesiony do zamiennego loka- iSzefa SWW otrzymuje uposa˝enie zasadnicze, dodatlu mieszkalnego. ki do uposa˝enia ocharakterze sta∏ym iinne Êwiadczenia pieni´˝ne nale˝ne na stanowisku zajmowanym Rozdzia∏ 5 bezpoÊrednio przed przeniesieniem do dyspozycji w∏aÊciwego Szefa, z uwzgl´dnieniem powsta∏ych Uposa˝enie i inne Êwiadczenia pieni´˝ne w tym okresie zmian majàcych wp∏yw na prawo do funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego uposa˝enia iinnych Êwiadczeƒ pieni´˝nych lub na ich oraz S∏u˝by Wywiadu Wojskowego wysokoÊç.
+**Art. 73.** Funkcjonariusz SKW albo SWW zwolniony ze służby, który nie posiada prawa do lokalu mieszkalnego na warunkach określonych w przepisach o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, zachowuje prawo do przydzielonego lokalu Art. 77. Funkcjonariusz przeniesiony na podstawie mieszkalnego według norm powszechnie obowiązują- art. 13 ust. 1 do dyspozycji odpowiednio Szefa SKW cych lub może być przeniesiony do zamiennego loka- iSzefa SWW otrzymuje uposażenie zasadnicze, dodatlu mieszkalnego. ki do uposażenia ocharakterze stałym iinne świadczenia pieniężne należne na stanowisku zajmowanym
+
+#### Rozdział 5 bezpośrednio przed przeniesieniem do dyspozycji właściwego Szefa, z uwzględnieniem powstałych Uposażenie i inne świadczenia pieniężne w tym okresie zmian mających wpływ na prawo do funkcjonariuszy Służby Kontrwywiadu Wojskowego uposażenia iinnych świadczeń pieniężnych lub na ich oraz Służby Wywiadu Wojskowego wysokość.
 
 **Art. 74.**
 
-1. Prawo do uposa˝enia powstaje z dniem Art. 78. 1. Funkcjonariusz przeniesiony na stanowimianowania funkcjonariusza na stanowisko s∏u˝bowe. sko s∏u˝bowe zaszeregowane do ni˝szej grupy uposa˝enia zasadniczego zachowuje prawo do kwoty uposa2. Z tytu∏u s∏u˝by funkcjonariusz otrzymuje jedno ˝enia pobieranego na poprzednio zajmowanym stanouposa˝enie i inne Êwiadczenia pieni´˝ne okreÊlone wisku do czasu uzyskania wy˝szej kwoty uposa˝enia w ustawie. wed∏ug stanowiska s∏u˝bowego.
+1. Prawo do uposażenia powstaje z dniem Art. 78. 1. Funkcjonariusz przeniesiony na stanowimianowania funkcjonariusza na stanowisko służbowe. sko służbowe zaszeregowane do niższej grupy uposażenia zasadniczego zachowuje prawo do kwoty uposa2. Z tytułu służby funkcjonariusz otrzymuje jedno żenia pobieranego na poprzednio zajmowanym stanouposażenie i inne świadczenia pieniężne określone wisku do czasu uzyskania wyższej kwoty uposażenia w ustawie. według stanowiska służbowego.
 
-3. Przeci´tne uposa˝enie funkcjonariuszy stanowi 2. Szef SKW i Szef SWW, ka˝dy w zakresie swojewielokrotnoÊç kwoty bazowej, której wysokoÊç ustalonà go dzia∏ania, w szczególnie uzasadnionych przypadwed∏ug odr´bnych zasad okreÊla ustawa bud˝etowa. kach, mogà zezwoliç na zachowanie przez funkcjonariusza przeniesionego na stanowisko s∏u˝bowe zasze4. WielokrotnoÊç, o której mowa w ust. 3, okreÊla regowane do ni˝szej grupy uposa˝enia zasadniczego Rada Ministrów, wdrodze rozporzàdzeƒ, odr´bnie dla prawa do zaszeregowania nale˝nego na poprzednio SKW i SWW. zajmowanym stanowisku, z jednoczesnym zachowaniem stopnia zwiàzanego z tym stanowiskiem.
+3. Przeciętne uposażenie funkcjonariuszy stanowi 2. Szef SKW i Szef SWW, każdy w zakresie swojewielokrotność kwoty bazowej, której wysokość ustaloną go działania, w szczególnie uzasadnionych przypadwedług odrębnych zasad określa ustawa budżetowa. kach, mogą zezwolić na zachowanie przez funkcjonariusza przeniesionego na stanowisko służbowe zasze4. Wielokrotność, o której mowa w ust. 3, określa regowane do niższej grupy uposażenia zasadniczego Rada Ministrów, wdrodze rozporządzeń, odrębnie dla prawa do zaszeregowania należnego na poprzednio SKW i SWW. zajmowanym stanowisku, z jednoczesnym zachowaniem stopnia związanego z tym stanowiskiem.
 
-**Art. 75.** Uposa˝enie funkcjonariusza sk∏ada si´ 3. Przepisu ust. 1 nie stosuje si´ do funkcjonariuzuposa˝enia zasadniczego idodatków do uposa˝enia. sza przeniesionego na ni˝sze stanowisko s∏u˝bowe na
+**Art. 75.** Uposażenie funkcjonariusza składa się 3. Przepisu ust. 1 nie stosuje się do funkcjonariuzuposażenia zasadniczego idodatków do uposażenia. sza przeniesionego na niższe stanowisko służbowe na
 
 **Art. 76.**
 
-1. Minister Obrony Narodowej okreÊli, podstawie art. 16 ust. 1 lub ust. 2 pkt 2 i 3 oraz funkw drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, cjonariusza przeniesionego na w∏asnà proÊb´. grupy zaszeregowania i stawki uposa˝enia zasadni- Art. 79. 1. Funkcjonariusze otrzymujà nast´pujàce czego funkcjonariuszy w tych grupach oraz wzrost dodatki do uposa˝enia: uposa˝enia zasadniczego z tytu∏u wys∏ugi lat.
+1. Minister Obrony Narodowej określi, podstawie art. 16 ust. 1 lub ust. 2 pkt 2 i 3 oraz funkw drodze rozporządzeń, odrębnie dla SKW i SWW, cjonariusza przeniesionego na własną prośbę. grupy zaszeregowania i stawki uposażenia zasadni- Art. 79. 1. Funkcjonariusze otrzymują następujące czego funkcjonariuszy w tych grupach oraz wzrost dodatki do uposażenia: uposażenia zasadniczego z tytułu wysługi lat.
 
-- **1)** dodatek za stopieƒ;
+- **1)** dodatek za stopień;
 
-2. Rozporzàdzenie, o którym mowa w ust. 1, po- 2) dodatek s∏u˝bowy; winno umo˝liwiç zró˝nicowanie grup uposa˝enia w zale˝noÊci od stanowiska, zakresu wykonywanych 3) dodatki uzasadnione szczególnymi w∏aÊciwoÊciazadaƒ s∏u˝bowych, ponoszonej odpowiedzialnoÊci mi, kwalifikacjami, warunkami albo miejscem pe∏i wymaganych kwalifikacji. Uwzgl´dniajàc powy˝sze nienia s∏u˝by. uwarunkowania, rozporzàdzenie mo˝e okreÊlaç jednà grup´ lub kilka grup uposa˝enia na stanowiskach s∏u˝- 2. Dodatkami do uposa˝enia o charakterze sta∏ym bowych wgrupie zaszeregowania. Wprzypadku wzro- sà dodatki ustalone w stawkach miesi´cznych. stu uposa˝enia zasadniczego z tytu∏u wys∏ugi lat, rozporzàdzenie powinno okreÊlaç okresy pe∏nienia s∏u˝- 3. Minister Obrony Narodowej okreÊli, w drodze by, od których jest uzale˝niona wysokoÊç dodatku, rozporzàdzeƒ, odr´bnie dla SKW i SWW, wysokoÊç a tak˝e szczegó∏owe warunki i tryb ich przyznawania, dodatków, o których mowa w ust. 1, zasady ich przyzawieszania, obni˝ania i wstrzymywania. znawania i obni˝ania, sposób ich wyp∏aty oraz rodzaje dodatków uzasadnionych szczególnymi w∏aÊciwo3. Minister Obrony Narodowej okreÊli, w drodze Êciami, kwalifikacjami, warunkami lub miejscem pe∏rozporzàdzeƒ, odr´bnie dla SKW iSWW, zasady itryb nienia s∏u˝by. zaliczania okresów s∏u˝by, pracy i innych okresów do wys∏ugi lat, uwzgl´dnianej przy ustalaniu wzrostu 4. Rozporzàdzenie, o którym mowa w ust. 3, okreuposa˝enia zasadniczego, uwzgl´dniajàc okresy innej Êlajàc wysokoÊç dodatków do uposa˝enia, powinno s∏u˝by traktowane jako równorz´dne ze s∏u˝bà wSKW uwzgl´dniaç charakter i zakres wykonywanych czynlub SWW, okresy zatrudnienia i inne okresy, które na noÊci, pracoch∏onnoÊç istopieƒ wykorzystywania czapodstawie odr´bnych przepisów podlegajà wliczeniu su pozas∏u˝bowego niezb´dnego przy ich wykonywado okresu pracy, od którego zale˝à uprawnienia pra- niu, a tak˝e kwalifikacje niezb´dne przy wykonywaniu cownicze. tych czynnoÊci.
+2. Rozporządzenie, o którym mowa w ust. 1, po- 2) dodatek służbowy; winno umożliwić zróżnicowanie grup uposażenia w zależności od stanowiska, zakresu wykonywanych 3) dodatki uzasadnione szczególnymi właściwościazadań służbowych, ponoszonej odpowiedzialności mi, kwalifikacjami, warunkami albo miejscem pełi wymaganych kwalifikacji. Uwzględniając powyższe nienia służby. uwarunkowania, rozporządzenie może określać jedną grupę lub kilka grup uposażenia na stanowiskach służ- 2. Dodatkami do uposażenia o charakterze stałym bowych wgrupie zaszeregowania. Wprzypadku wzro- są dodatki ustalone w stawkach miesięcznych. stu uposażenia zasadniczego z tytułu wysługi lat, rozporządzenie powinno określać okresy pełnienia służ- 3. Minister Obrony Narodowej określi, w drodze by, od których jest uzależniona wysokość dodatku, rozporządzeń, odrębnie dla SKW i SWW, wysokość a także szczegółowe warunki i tryb ich przyznawania, dodatków, o których mowa w ust. 1, zasady ich przyzawieszania, obniżania i wstrzymywania. znawania i obniżania, sposób ich wypłaty oraz rodzaje dodatków uzasadnionych szczególnymi właściwo3. Minister Obrony Narodowej określi, w drodze ściami, kwalifikacjami, warunkami lub miejscem pełrozporządzeń, odrębnie dla SKW iSWW, zasady itryb nienia służby. zaliczania okresów służby, pracy i innych okresów do wysługi lat, uwzględnianej przy ustalaniu wzrostu 4. Rozporządzenie, o którym mowa w ust. 3, okreuposażenia zasadniczego, uwzględniając okresy innej ślając wysokość dodatków do uposażenia, powinno służby traktowane jako równorzędne ze służbą wSKW uwzględniać charakter i zakres wykonywanych czynlub SWW, okresy zatrudnienia i inne okresy, które na ności, pracochłonność istopień wykorzystywania czapodstawie odrębnych przepisów podlegają wliczeniu su pozasłużbowego niezbędnego przy ich wykonywado okresu pracy, od którego zależą uprawnienia pra- niu, a także kwalifikacje niezbędne przy wykonywaniu cownicze. tych czynności.
 
-4. Szef SKW i Szef SWW, ka˝dy w zakresie swoje- Art. 80. Uposa˝enie zasadnicze idodatki do uposago dzia∏ania, okreÊlà, wdrodze zarzàdzeƒ, stanowiàce ˝enia ocharakterze sta∏ym sà p∏atne miesi´cznie zgótajemnic´ paƒstwowà stanowiska s∏u˝bowe i stopnie ry. Szef SKW i Szef SWW, ka˝dy w zakresie swojego etatowe, zaszeregowanie tych stanowisk do grup upo- dzia∏ania, mogà okreÊliç, w drodze zarzàdzeƒ, które sa˝enia i przypisanych im stopni etatowych. dodatki o charakterze sta∏ym sà p∏atne z do∏u.
+4. Szef SKW i Szef SWW, każdy w zakresie swoje- Art. 80. Uposażenie zasadnicze idodatki do uposago działania, określą, wdrodze zarządzeń, stanowiące żenia ocharakterze stałym są płatne miesięcznie zgótajemnicę państwową stanowiska służbowe i stopnie ry. Szef SKW i Szef SWW, każdy w zakresie swojego etatowe, zaszeregowanie tych stanowisk do grup upo- działania, mogą określić, w drodze zarządzeń, które sażenia i przypisanych im stopni etatowych. dodatki o charakterze stałym są płatne z dołu.
 
 **Art. 81.**
 
-1. Zmiana uposa˝enia nast´puje z dniem zaistnienia okolicznoÊci uzasadniajàcych t´ zmian´.
+1. Zmiana uposażenia następuje z dniem zaistnienia okoliczności uzasadniających tę zmianę.
 
-2. Je˝eli prawo do uposa˝enia powsta∏o lub zmiana uposa˝enia nastàpi∏a wciàgu miesiàca, uposa˝enie na czas do koƒca miesiàca oblicza si´ w wysokoÊci 1/30 cz´Êci miesi´cznego uposa˝enia za ka˝dy dzieƒ, gdy przepisy szczególne nie stanowià inaczej.
+2. Jeżeli prawo do uposażenia powstało lub zmiana uposażenia nastąpiła wciągu miesiąca, uposażenie na czas do końca miesiąca oblicza się w wysokości 1/30 części miesięcznego uposażenia za każdy dzień, gdy przepisy szczególne nie stanowią inaczej.
 
-3. Prawo do uposa˝enia wygasa z ostatnim dniem miesiàca, w którym nastàpi∏o zwolnienie funkcjonariusza ze s∏u˝by lub zaistnia∏y inne okolicznoÊci uzasadniajàce wygaÊni´cie tego prawa.
+3. Prawo do uposażenia wygasa z ostatnim dniem miesiąca, w którym nastąpiło zwolnienie funkcjonariusza ze służby lub zaistniały inne okoliczności uzasadniające wygaśnięcie tego prawa.
 
 **Art. 82.**
 
-1. Roszczenia z tytu∏u prawa do uposa˝enia i innych Êwiadczeƒ oraz nale˝noÊci pieni´˝nych ulegajà przedawnieniu zup∏ywem 3 lat od dnia, wktórym roszczenie sta∏o si´ wymagalne.
+1. Roszczenia z tytułu prawa do uposażenia i innych świadczeń oraz należności pieniężnych ulegają przedawnieniu zupływem 3 lat od dnia, wktórym roszczenie stało się wymagalne.
 
-2. Organ w∏aÊciwy do rozpatrywania roszczeƒ mo˝e nie uwzgl´dniç przedawnienia, je˝eli opóênienie w dochodzeniu roszczenia jest usprawiedliwione wyjàtkowymi okolicznoÊciami.
+2. Organ właściwy do rozpatrywania roszczeń może nie uwzględnić przedawnienia, jeżeli opóênienie w dochodzeniu roszczenia jest usprawiedliwione wyjątkowymi okolicznościami.
 
-3. Bieg przedawnienia roszczenia ztytu∏u uposa˝enia i innych Êwiadczeƒ oraz nale˝noÊci pieni´˝nych przerywa:
+3. Bieg przedawnienia roszczenia ztytułu uposażenia i innych świadczeń oraz należności pieniężnych przerywa:
 
-- **1)** ka˝da czynnoÊç przed odpowiednio Szefem SKW albo Szefem SWW lub kierownikiem jednostki organizacyjnej odpowiednio SKW albo SWW, podj´ta bezpoÊrednio wcelu dochodzenia lub ustalenia albo zaspokojenia roszczenia;
+- **1)** każda czynność przed odpowiednio Szefem SKW albo Szefem SWW lub kierownikiem jednostki organizacyjnej odpowiednio SKW albo SWW, podjęta bezpośrednio wcelu dochodzenia lub ustalenia albo zaspokojenia roszczenia;
 - **2)** uznanie roszczenia.
 
 **Art. 83.**
 
-1. Funkcjonariuszowi przys∏ugujà nast´pujàce Êwiadczenia pieni´˝ne:
+1. Funkcjonariuszowi przysługują następujące świadczenia pieniężne:
 
-- **1)** zasi∏ek na zagospodarowanie;
+- **1)** zasiłek na zagospodarowanie;
 - **2)** nagrody oraz zapomogi;
 - **3)** nagrody jubileuszowe;
-- **4)** nale˝noÊci za podró˝e s∏u˝bowe i przeniesienia;
-- **5)** Êwiadczenia zwiàzane ze zwolnieniem ze s∏u˝by.
+- **4)** należności za podróże służbowe i przeniesienia;
+- **5)** świadczenia związane ze zwolnieniem ze służby.
 
-2. Wrazie Êmierci funkcjonariusza lub cz∏onka jego rodziny przys∏ugujà:
+2. Wrazie śmierci funkcjonariusza lub członka jego rodziny przysługują:
 
-- **1)** zasi∏ek pogrzebowy;
-- **2)** odprawa poÊmiertna.
+- **1)** zasiłek pogrzebowy;
+- **2)** odprawa pośmiertna.
 
 **Art. 84.**
 
-1. Funkcjonariuszowi w zwiàzku z mianowaniem na sta∏e przys∏uguje zasi∏ek na zagospodarowanie w wysokoÊci jednomiesi´cznego uposa˝enia zasadniczego wraz z dodatkami o charakterze sta∏ym, nale˝nymi w dniu mianowania na sta∏e.
+1. Funkcjonariuszowi w związku z mianowaniem na stałe przysługuje zasiłek na zagospodarowanie w wysokości jednomiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym, należnymi w dniu mianowania na stałe.
 
-2. Zasi∏ek, októrym mowa wust. 1, nie przys∏uguje funkcjonariuszowi pe∏niàcemu s∏u˝b´ w SKW albo wSWW po zwolnieniu zzawodowej s∏u˝by wojskowej lub innej s∏u˝by, w czasie której otrzyma∏ taki zasi∏ek.
+2. Zasiłek, októrym mowa wust. 1, nie przysługuje funkcjonariuszowi pełniącemu służbę w SKW albo wSWW po zwolnieniu zzawodowej służby wojskowej lub innej służby, w czasie której otrzymał taki zasiłek.
 
 **Art. 85.**
 
-1. Funkcjonariuszowi mogà byç przyzna2. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, warunki przyznawania funkcjonariuszom nagród rocznych, nagród uznaniowych i zapomóg, uwzgl´dniajàc sposób ustalenia okresu s∏u˝by warunkujàcego nabycie prawa do nagrody rocznej, wysokoÊç tej nagrody, przes∏anki jej obni˝enia i przypadki, kiedy nagroda nie przys∏uguje, termin wyp∏aty nagrody rocznej, okolicznoÊci uzasadniajàce przyznanie funkcjonariuszowi nagrody uznaniowej i zapomogi, w∏aÊciwoÊç prze∏o˝onych oraz tryb post´powania w tych sprawach.
+1. Funkcjonariuszowi mogą być przyzna2. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, warunki przyznawania funkcjonariuszom nagród rocznych, nagród uznaniowych i zapomóg, uwzględniając sposób ustalenia okresu służby warunkującego nabycie prawa do nagrody rocznej, wysokość tej nagrody, przesłanki jej obniżenia i przypadki, kiedy nagroda nie przysługuje, termin wypłaty nagrody rocznej, okoliczności uzasadniające przyznanie funkcjonariuszowi nagrody uznaniowej i zapomogi, właściwość przełożonych oraz tryb postępowania w tych sprawach.
 
-3. Szef SKW i Szef SWW, ka˝dy w zakresie swojego dzia∏ania, okreÊlà, w drodze zarzàdzeƒ, wysokoÊç funduszu na nagrody i zapomogi, ustalajàc jednoczeÊnie wysokoÊç Êrodków finansowych przeznaczonych na nagrody roczne, uznaniowe i zapomogi oraz warunki zwi´kszania wysokoÊci funduszu na nagrody uznaniowe i zapomogi.
+3. Szef SKW i Szef SWW, każdy w zakresie swojego działania, określą, w drodze zarządzeń, wysokość funduszu na nagrody i zapomogi, ustalając jednocześnie wysokość środków finansowych przeznaczonych na nagrody roczne, uznaniowe i zapomogi oraz warunki zwiększania wysokości funduszu na nagrody uznaniowe i zapomogi.
 
 **Art. 86.**
 
-1. Funkcjonariuszowi przys∏ugujà nagrody jubileuszowe w wysokoÊci: wane nagrody roczne, uznaniowe i zapomogi.
+1. Funkcjonariuszowi przysługują nagrody jubileuszowe w wysokości: wane nagrody roczne, uznaniowe i zapomogi.
 
-- **1)** po 20 latach s∏u˝by 75 %,
-- **2)** po 25 latach s∏u˝by 100 %,
-- **3)** po 30 latach s∏u˝by 150 %,
-- **4)** po 35 latach s∏u˝by 200 %,
-- **5)** po 40 latach s∏u˝by 300 % miesi´cznego uposa˝enia zasadniczego, wraz z dodatkami o charakterze sta∏ym.
+- **1)** po 20 latach służby 75 %,
+- **2)** po 25 latach służby 100 %,
+- **3)** po 30 latach służby 150 %,
+- **4)** po 35 latach służby 200 %,
+- **5)** po 40 latach służby 300 % miesięcznego uposażenia zasadniczego, wraz z dodatkami o charakterze stałym.
 
-2. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, okresy wliczane do okresu s∏u˝by, od którego zale˝y nabycie prawa do nagrody jubileuszowej, oraz zasady jej obliczania i wyp∏acania, uwzgl´dniajàc sposób dokumentowania okresów, od których zale˝y nabycie prawa do tej nagrody.
+2. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW, okresy wliczane do okresu służby, od którego zależy nabycie prawa do nagrody jubileuszowej, oraz zasady jej obliczania i wypłacania, uwzględniając sposób dokumentowania okresów, od których zależy nabycie prawa do tej nagrody.
 
-**Art. 87.** Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, rodzaje Êwiadczeƒ przys∏ugujàcych funkcjonariuszom w razie przeniesienia lub delegowania do czasowego pe∏nienia s∏u˝by winnej miejscowoÊci albo podró˝y s∏u˝bowej poza sta∏e miejsce pe∏nienia s∏u˝by. Rozporzàdzenia powinny okreÊliç rodzaje, wysokoÊç i warunki przyznawania Êwiadczeƒ, a tak˝e sposób ich wyp∏aty.
+**Art. 87.** Minister Obrony Narodowej określi, wdrodze rozporządzeń, odrębnie dla SKW i SWW, rodzaje świadczeń przysługujących funkcjonariuszom w razie przeniesienia lub delegowania do czasowego pełnienia służby winnej miejscowości albo podróży służbowej poza stałe miejsce pełnienia służby. Rozporządzenia powinny określić rodzaje, wysokość i warunki przyznawania świadczeń, a także sposób ich wypłaty.
 
 **Art. 88.**
 
-1. Funkcjonariusz zwolniony ze s∏u˝by na podstawie art. 13 ust. 3, art. 16 ust. 4 i art. 19 ust. 1 pkt 1 i 2, ust. 2 pkt 1 i 4—7 oraz ust. 3 otrzymuje:
+1. Funkcjonariusz zwolniony ze służby na podstawie art. 13 ust. 3, art. 16 ust. 4 i art. 19 ust. 1 pkt 1 i 2, ust. 2 pkt 1 i 4—7 oraz ust. 3 otrzymuje:
 
-- **1)** odpraw´;
-- **2)** ekwiwalent pieni´˝ny za urlop wypoczynkowy niewykorzystany wroku zwolnienia ze s∏u˝by oraz za urlopy zaleg∏e;
-- **3)** zrycza∏towany ekwiwalent pieni´˝ny za niewykorzystany wdanym roku przejazd, ze Êrodków S∏u˝by;
-- **4)** zwrot kosztów przejazdu do obranego miejsca zamieszkania dla siebie, ma∏˝onka oraz dzieci pozostajàcych na jego utrzymaniu oraz zwrot kosztów przewozu urzàdzenia domowego wed∏ug zasad obowiàzujàcych przy przeniesieniach s∏u˝bowych;
-- **5)** niewykorzystane w danym roku Êwiadczenia pieni´˝ne przys∏ugujàce stosownie do przepisów wydanych na podstawie art. 49 ust. 4.
+- **1)** odprawę;
+- **2)** ekwiwalent pieniężny za urlop wypoczynkowy niewykorzystany wroku zwolnienia ze służby oraz za urlopy zaległe;
+- **3)** zryczałtowany ekwiwalent pieniężny za niewykorzystany wdanym roku przejazd, ze środków Służby;
+- **4)** zwrot kosztów przejazdu do obranego miejsca zamieszkania dla siebie, małżonka oraz dzieci pozostających na jego utrzymaniu oraz zwrot kosztów przewozu urządzenia domowego według zasad obowiązujących przy przeniesieniach służbowych;
+- **5)** niewykorzystane w danym roku świadczenia pieniężne przysługujące stosownie do przepisów wydanych na podstawie art. 49 ust. 4.
 
-2. Funkcjonariusz zwolniony na podstawie art. 19 ust. 1 pkt 3 iust. 2 pkt 3 otrzymuje wy∏àcznie 50 % odprawy oraz ekwiwalent pieni´˝ny za urlopy wypoczynkowe niewykorzystane w latach poprzedzajàcych rok zwolnienia ze s∏u˝by.
+2. Funkcjonariusz zwolniony na podstawie art. 19 ust. 1 pkt 3 iust. 2 pkt 3 otrzymuje wyłącznie 50 % odprawy oraz ekwiwalent pieniężny za urlopy wypoczynkowe niewykorzystane w latach poprzedzających rok zwolnienia ze służby.
 
-**Art. 89.** Szef SKW i Szef SWW, ka˝dy w zakresie swojego dzia∏ania, lub upowa˝nieni przez nich prze∏o˝eni mogà w przypadkach zas∏ugujàcych na szczególne uwzgl´dnienie przyznaç, z uwagi na uzasadnione potrzeby rodziny funkcjonariusza, odpraw´ wwysokoÊci nieprzekraczajàcej 50 % w razie zwolnienia go ze s∏u˝by na podstawie art. 19 ust. 1 pkt 4 i ust. 2 pkt 2.
+**Art. 89.** Szef SKW i Szef SWW, każdy w zakresie swojego działania, lub upoważnieni przez nich przełożeni mogą w przypadkach zasługujących na szczególne uwzględnienie przyznać, z uwagi na uzasadnione potrzeby rodziny funkcjonariusza, odprawę wwysokości nieprzekraczającej 50 % w razie zwolnienia go ze służby na podstawie art. 19 ust. 1 pkt 4 i ust. 2 pkt 2.
 
 **Art. 90.**
 
-1. WysokoÊç odprawy dla funkcjonariusza ws∏u˝bie sta∏ej równa si´ wysokoÊci trzymiesi´cznego uposa˝enia zasadniczego wraz zdodatkami ocharakterze sta∏ym, nale˝nymi na ostatnio zajmowanym stanowisku s∏u˝bowym albo w ostatnim dniu pozostawania wdyspozycji odpowiednio Szefa SKW iSzefa SWW na podstawie art. 13 ust. 1. Odprawa ulega zwi´kszeniu o 20 % uposa˝enia zasadniczego wraz z dodatkami o charakterze sta∏ym za ka˝dy dalszy pe∏ny rok wys∏ugi ponad 5 lat nieprzerwanej s∏u˝by, a˝ do wysokoÊci szeÊciomiesi´cznego uposa˝enia zasadniczego wraz z dodatkami o charakterze sta∏ym. Okres s∏u˝by przekraczajàcy 6 miesi´cy liczy si´ jako pe∏ny rok.
+1. Wysokość odprawy dla funkcjonariusza wsłużbie stałej równa się wysokości trzymiesięcznego uposażenia zasadniczego wraz zdodatkami ocharakterze stałym, należnymi na ostatnio zajmowanym stanowisku służbowym albo w ostatnim dniu pozostawania wdyspozycji odpowiednio Szefa SKW iSzefa SWW na podstawie art. 13 ust. 1. Odprawa ulega zwiększeniu o 20 % uposażenia zasadniczego wraz z dodatkami o charakterze stałym za każdy dalszy pełny rok wysługi ponad 5 lat nieprzerwanej służby, aż do wysokości sześciomiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym. Okres służby przekraczający 6 miesięcy liczy się jako pełny rok.
 
-2. Przy ustalaniu wysokoÊci odprawy uwzgl´dnia si´ równie˝ okresy nieprzerwanej zawodowej s∏u˝by wojskowej, je˝eli w ciàgu 90 dni po zwolnieniu z tej s∏u˝by ˝o∏nierz zosta∏ przyj´ty do s∏u˝by w SKW albo w SWW i nie otrzyma∏ odprawy z tytu∏u poprzednio pe∏nionej s∏u˝by.
+2. Przy ustalaniu wysokości odprawy uwzględnia się również okresy nieprzerwanej zawodowej służby wojskowej, jeżeli w ciągu 90 dni po zwolnieniu z tej służby żołnierz został przyjęty do służby w SKW albo w SWW i nie otrzymał odprawy z tytułu poprzednio pełnionej służby.
 
-3. Przepis ust. 2 stosuje si´ odpowiednio w przypadku podj´cia s∏u˝by w SKW albo SWW po zwolnieniu ze s∏u˝by winnych s∏u˝bach, wktórych przys∏ugujà Êwiadczenia tego rodzaju.
+3. Przepis ust. 2 stosuje się odpowiednio w przypadku podjęcia służby w SKW albo SWW po zwolnieniu ze służby winnych służbach, wktórych przysługują świadczenia tego rodzaju.
 
-4. Do okresu nieprzerwanej s∏u˝by w rozumieniu ust. 1—3 nie zalicza si´ okresów odbywania kary pozbawienia wolnoÊci oraz tymczasowego aresztowania, chyba ˝e funkcjonariusz zosta∏ uniewinniony lub post´powanie karne zosta∏o umorzone.
+4. Do okresu nieprzerwanej służby w rozumieniu ust. 1—3 nie zalicza się okresów odbywania kary pozbawienia wolności oraz tymczasowego aresztowania, chyba że funkcjonariusz został uniewinniony lub postępowanie karne zostało umorzone.
 
-5. WysokoÊç odprawy dla funkcjonariusza w s∏u˝bie przygotowawczej równa si´ wysokoÊci jednomiesi´cznego uposa˝enia zasadniczego wraz zdodatkami o charakterze sta∏ym nale˝nymi na ostatnio zajmowanym stanowisku s∏u˝bowym albo wostatnim dniu pozostawania wdyspozycji Szefa SKW albo Szefa SWW, na podstawie art. 13 ust. 1.
+5. Wysokość odprawy dla funkcjonariusza w służbie przygotowawczej równa się wysokości jednomiesięcznego uposażenia zasadniczego wraz zdodatkami o charakterze stałym należnymi na ostatnio zajmowanym stanowisku służbowym albo wostatnim dniu pozostawania wdyspozycji Szefa SKW albo Szefa SWW, na podstawie art. 13 ust. 1.
 
 **Art. 91.**
 
-1. Wrazie Êmierci funkcjonariusza pozosta∏ej po nim rodzinie przys∏uguje odprawa poÊmiertna w takiej wysokoÊci, w jakiej przys∏ugiwa∏aby temu funkcjonariuszowi odprawa, gdyby by∏ zwolniony ze s∏u˝by, oraz Êwiadczenia okreÊlone w art. 88 ust. 1
+1. Wrazie śmierci funkcjonariusza pozostałej po nim rodzinie przysługuje odprawa pośmiertna w takiej wysokości, w jakiej przysługiwałaby temu funkcjonariuszowi odprawa, gdyby był zwolniony ze służby, oraz świadczenia określone w art. 88 ust. 1
 
-2. Âwiadczenia, o których mowa w ust. 1, przys∏ugujà ma∏˝onkowi funkcjonariusza, który pozostawa∏ znim we wspólnoÊci ma∏˝eƒskiej, awdalszej kolejnoÊci dzieciom oraz rodzicom, je˝eli wdniu Êmierci funkcjonariusza spe∏niali warunki do uzyskania renty rodzinnej na podstawie przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej i S∏u˝by Wi´ziennej oraz ich rodzin.
+2. Âwiadczenia, o których mowa w ust. 1, przysługują małżonkowi funkcjonariusza, który pozostawał znim we wspólności małżeńskiej, awdalszej kolejności dzieciom oraz rodzicom, jeżeli wdniu śmierci funkcjonariusza spełniali warunki do uzyskania renty rodzinnej na podstawie przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin.
 
-3. Przepisy ust. 1 i 2 stosuje si´ tak˝e do zaginionych funkcjonariuszy.
+3. Przepisy ust. 1 i 2 stosuje się także do zaginionych funkcjonariuszy.
 
 **Art. 92.**
 
-1. Funkcjonariuszowi w s∏u˝bie sta∏ej, zwolnionemu ze s∏u˝by na podstawie art. 19 ust. 1 pkt 1 oraz ust. 2 pkt 5, wyp∏aca si´ co miesiàc przez okres roku po zwolnieniu ze s∏u˝by Êwiadczenie pieni´˝ne w wysokoÊci odpowiadajàcej uposa˝eniu zasadniczemu wraz z dodatkami o charakterze sta∏ym, nale˝nymi na ostatnio zajmowanym stanowisku s∏u˝bowym albo w ostatnim dniu pozostawania w dyspozycji odpowiednio Szefa SKW iSzefa SWW na podstawie art. 13 ust. 1.
+1. Funkcjonariuszowi w służbie stałej, zwolnionemu ze służby na podstawie art. 19 ust. 1 pkt 1 oraz ust. 2 pkt 5, wypłaca się co miesiąc przez okres roku po zwolnieniu ze służby świadczenie pieniężne w wysokości odpowiadającej uposażeniu zasadniczemu wraz z dodatkami o charakterze stałym, należnymi na ostatnio zajmowanym stanowisku służbowym albo w ostatnim dniu pozostawania w dyspozycji odpowiednio Szefa SKW iSzefa SWW na podstawie art. 13 ust. 1.
 
-2. Funkcjonariuszowi uprawnionemu do Êwiadczenia okreÊlonego wust. 1, który naby∏ prawo do zaopatrzenia emerytalnego, przys∏uguje prawo wyboru jednego z tych Êwiadczeƒ.
+2. Funkcjonariuszowi uprawnionemu do świadczenia określonego wust. 1, który nabył prawo do zaopatrzenia emerytalnego, przysługuje prawo wyboru jednego z tych świadczeń.
 
-3. Funkcjonariuszowi zwolnionemu ze s∏u˝by na podstawie art. 19 ust. 2 pkt 6 lub 7, który zpowodu nadal trwajàcej choroby nie mo˝e podjàç zatrudnienia, wyp∏aca si´ co miesiàc Êwiadczenie pieni´˝ne okreÊlone w ust. 1 przez okres choroby, nie d∏u˝ej jednak ni˝ przez okres 3 miesi´cy, chyba ˝e wczeÊniej w∏aÊciwa komisja lekarska wyda orzeczenie o inwalidztwie stanowiàce podstaw´ do ustalenia prawa do renty inwalidzkiej.
+3. Funkcjonariuszowi zwolnionemu ze służby na podstawie art. 19 ust. 2 pkt 6 lub 7, który zpowodu nadal trwającej choroby nie może podjąć zatrudnienia, wypłaca się co miesiąc świadczenie pieniężne określone w ust. 1 przez okres choroby, nie dłużej jednak niż przez okres 3 miesięcy, chyba że wcześniej właściwa komisja lekarska wyda orzeczenie o inwalidztwie stanowiące podstawę do ustalenia prawa do renty inwalidzkiej.
 
-**Art. 93.** Odprawa, o której mowa w art. 88 ust. 1 pkt 1, oraz Êwiadczenia okreÊlone w art. 92 nie przys∏ugujà funkcjonariuszowi, który bezpoÊrednio po pkt 2—4. zwolnieniu ze s∏u˝by zosta∏ przyj´ty do zawodowej s∏u˝by wojskowej lub do innej s∏u˝by, w której przys∏uguje prawo do takich Êwiadczeƒ.
+**Art. 93.** Odprawa, o której mowa w art. 88 ust. 1 pkt 1, oraz świadczenia określone w art. 92 nie przysługują funkcjonariuszowi, który bezpośrednio po pkt 2—4. zwolnieniu ze służby został przyjęty do zawodowej służby wojskowej lub do innej służby, w której przysługuje prawo do takich świadczeń.
 
 **Art. 94.**
 
-1. Wrazie Êmierci funkcjonariusza, niezale˝nie od odprawy poÊmiertnej, o której mowa w art. 91 ust. 1, przys∏uguje zasi∏ek pogrzebowy wwysokoÊci:
+1. Wrazie śmierci funkcjonariusza, niezależnie od odprawy pośmiertnej, o której mowa w art. 91 ust. 1, przysługuje zasiłek pogrzebowy wwysokości:
 
-- **1)** trzymiesi´cznego uposa˝enia zasadniczego wraz z dodatkami o charakterze sta∏ym, nale˝nymi na ostatnio zajmowanym stanowisku s∏u˝bowym albo w ostatnim dniu pozostawania w dyspozycji Szefa SKW albo Szefa SWW, na podstawie art. 13 ust. 1, je˝eli koszty pogrzebu ponosi ma∏˝onek, dzieci, wnuki, rodzeƒstwo lub rodzice;
-- **2)** kosztów rzeczywiÊcie poniesionych, najwy˝ej jednak do wysokoÊci okreÊlonej w pkt 1, je˝eli koszty pogrzebu ponosi inna osoba.
+- **1)** trzymiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym, należnymi na ostatnio zajmowanym stanowisku służbowym albo w ostatnim dniu pozostawania w dyspozycji Szefa SKW albo Szefa SWW, na podstawie art. 13 ust. 1, jeżeli koszty pogrzebu ponosi małżonek, dzieci, wnuki, rodzeństwo lub rodzice;
+- **2)** kosztów rzeczywiście poniesionych, najwyżej jednak do wysokości określonej w pkt 1, jeżeli koszty pogrzebu ponosi inna osoba.
 
-2. Je˝eli Êmierç funkcjonariusza nastàpi∏a na skutek wypadku pozostajàcego wzwiàzku ze s∏u˝bà, koszty pogrzebu pokrywa si´ ze Êrodków odpowiednio SKW albo SWW. Szef SKW albo Szef SWW, ka˝dy wzakresie swojej w∏aÊciwoÊci, mo˝e wyraziç zgod´ na pokrycie kosztów pogrzebu funkcjonariusza zmar∏ego wskutek choroby pozostajàcej w zwiàzku ze s∏u˝bà.
+2. Jeżeli śmierć funkcjonariusza nastąpiła na skutek wypadku pozostającego wzwiązku ze służbą, koszty pogrzebu pokrywa się ze środków odpowiednio SKW albo SWW. Szef SKW albo Szef SWW, każdy wzakresie swojej właściwości, może wyrazić zgodę na pokrycie kosztów pogrzebu funkcjonariusza zmarłego wskutek choroby pozostającej w związku ze służbą.
 
-3. W przypadku pokrycia kosztów pogrzebu funkcjonariusza ze Êrodków odpowiednio SKW albo SWW ma∏˝onkowi funkcjonariusza, awrazie jego braku kolejno jednej zosób wymienionych wust. 1 pkt 1, przys∏uguje po∏owa okreÊlonego tam zasi∏ku pogrzebowego.
+3. W przypadku pokrycia kosztów pogrzebu funkcjonariusza ze środków odpowiednio SKW albo SWW małżonkowi funkcjonariusza, awrazie jego braku kolejno jednej zosób wymienionych wust. 1 pkt 1, przysługuje połowa określonego tam zasiłku pogrzebowego.
 
 **Art. 95.**
 
-1. Wrazie Êmierci cz∏onka rodziny funkcjonariuszowi przys∏uguje, z zastrze˝eniem ust. 3, zasi∏ek pogrzebowy w wysokoÊci:
+1. Wrazie śmierci członka rodziny funkcjonariuszowi przysługuje, z zastrzeżeniem ust. 3, zasiłek pogrzebowy w wysokości:
 
-- **1)** dwumiesi´cznego uposa˝enia zasadniczego wraz z dodatkami o charakterze sta∏ym, nale˝nymi na ostatnio zajmowanym stanowisku s∏u˝bowym albo w ostatnim dniu pozostawania w dyspozycji Szefa SKW albo Szefa SWW, na podstawie art. 13 ust. 1 je˝eli koszty pogrzebu ponosi funkcjonariusz;
-- **2)** kosztów rzeczywiÊcie poniesionych, najwy˝ej jednak do wysokoÊci okreÊlonej wpkt 1 je˝eli koszty pogrzebu ponosi inna osoba.
+- **1)** dwumiesięcznego uposażenia zasadniczego wraz z dodatkami o charakterze stałym, należnymi na ostatnio zajmowanym stanowisku służbowym albo w ostatnim dniu pozostawania w dyspozycji Szefa SKW albo Szefa SWW, na podstawie art. 13 ust. 1 jeżeli koszty pogrzebu ponosi funkcjonariusz;
+- **2)** kosztów rzeczywiście poniesionych, najwyżej jednak do wysokości określonej wpkt 1 jeżeli koszty pogrzebu ponosi inna osoba.
 
-2. Zasi∏ek pogrzebowy, o którym mowa w ust. 1, przys∏uguje wrazie Êmierci cz∏onków rodziny funkcjonariusza:
+2. Zasiłek pogrzebowy, o którym mowa w ust. 1, przysługuje wrazie śmierci członków rodziny funkcjonariusza:
 
-- **1)** ma∏˝onka;
-- **2)** dzieci w∏asnych lub ma∏˝onka oraz dzieci przysposobionych;
-- **3)** dzieci wychowywanych wramach rodziny zast´pczej;
-- **4)** dzieci przyj´tych na wychowanie przed osiàgni´ciem pe∏noletnoÊci, je˝eli rodzice ich nie ˝yjà albo nie mogà zapewniç im utrzymania bàdê zostali pozbawieni lub ograniczeni w sprawowaniu w∏adzy rodzicielskiej;
-- **5)** rodziców funkcjonariusza oraz jego ma∏˝onka, a tak˝e ich ojczyma, macochy oraz osób ich przysposabiajàcych;
-- **6)** osób, których opiekunem prawnym zosta∏ ustanowiony funkcjonariusz lub jego ma∏˝onek.
+- **1)** małżonka;
+- **2)** dzieci własnych lub małżonka oraz dzieci przysposobionych;
+- **3)** dzieci wychowywanych wramach rodziny zastępczej;
+- **4)** dzieci przyjętych na wychowanie przed osiągnięciem pełnoletności, jeżeli rodzice ich nie żyją albo nie mogą zapewnić im utrzymania bądê zostali pozbawieni lub ograniczeni w sprawowaniu władzy rodzicielskiej;
+- **5)** rodziców funkcjonariusza oraz jego małżonka, a także ich ojczyma, macochy oraz osób ich przysposabiających;
+- **6)** osób, których opiekunem prawnym został ustanowiony funkcjonariusz lub jego małżonek.
 
-3. W razie zbiegu uprawnieƒ do zasi∏ku pogrzebowego okreÊlonego w ust. 1 z uprawnieniami do zasi∏ku pogrzebowego na podstawie przepisów odr´bnych funkcjonariuszowi przys∏uguje wy˝szy zasi∏ek, a je˝eli pobra∏ zasi∏ek ni˝szy odpowiednie wyrównanie.
+3. W razie zbiegu uprawnień do zasiłku pogrzebowego określonego w ust. 1 z uprawnieniami do zasiłku pogrzebowego na podstawie przepisów odrębnych funkcjonariuszowi przysługuje wyższy zasiłek, a jeżeli pobrał zasiłek niższy odpowiednie wyrównanie.
 
-**Art. 96.** Wrazie choroby, urlopu, zwolnienia od zaj´ç s∏u˝bowych oraz wokresie pozostawania wdyspozycji Szefa SKW albo Szefa SWW, na podstawie art. 13 ust. 1, funkcjonariusz otrzymuje uposa˝enie zasadnicze, dodatki do uposa˝enia ocharakterze sta∏ym iinne nale˝noÊci pieni´˝ne przys∏ugujàce na ostatnio zajmowanym stanowisku s∏u˝bowym, z uwzgl´dnieniem powsta∏ych w tym okresie zmian majàcych wp∏yw na prawo do uposa˝enia i innych Êwiadczeƒ pieni´˝nych
+**Art. 96.** Wrazie choroby, urlopu, zwolnienia od zajęć służbowych oraz wokresie pozostawania wdyspozycji Szefa SKW albo Szefa SWW, na podstawie art. 13 ust. 1, funkcjonariusz otrzymuje uposażenie zasadnicze, dodatki do uposażenia ocharakterze stałym iinne należności pieniężne przysługujące na ostatnio zajmowanym stanowisku służbowym, z uwzględnieniem powstałych w tym okresie zmian mających wpływ na prawo do uposażenia i innych świadczeń pieniężnych
 
-**Art. 97.** Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzeƒ, odr´bnie dla SKW i SWW, wysokoÊç oraz warunki wyp∏aty uposa˝enia iinnych Êwiadczeƒ funkcjonariuszom skierowanym do szko∏y, na przeszkolenie lub na studia. Rozporzàdzenie powinno okreÊlaç Êwiadczenia przys∏ugujàce funkcjonariuszowi w zwiàzku z pobieraniem nauki, a tak˝e ich wysokoÊç i warunki wyp∏aty.
+**Art. 97.** Minister Obrony Narodowej określi, wdrodze rozporządzeń, odrębnie dla SKW i SWW, wysokość oraz warunki wypłaty uposażenia iinnych świadczeń funkcjonariuszom skierowanym do szkoły, na przeszkolenie lub na studia. Rozporządzenie powinno określać świadczenia przysługujące funkcjonariuszowi w związku z pobieraniem nauki, a także ich wysokość i warunki wypłaty.
 
-**Art. 98.** W razie pobierania przez funkcjonariusza wynagrodzenia przewidzianego wprzepisach owynagrodzeniu osób zajmujàcych kierownicze stanowiska paƒstwowe, funkcjonariuszowi oraz cz∏onkom jego rodziny przys∏ugujà Êwiadczenia pieni´˝ne z tytu∏u s∏u˝by, okreÊlone wniniejszej ustawie, zwyjàtkiem uposa˝enia oraz Êwiadczenia pieni´˝nego, o którym mowa w art. 48.
+**Art. 98.** W razie pobierania przez funkcjonariusza wynagrodzenia przewidzianego wprzepisach owynagrodzeniu osób zajmujących kierownicze stanowiska państwowe, funkcjonariuszowi oraz członkom jego rodziny przysługują świadczenia pieniężne z tytułu służby, określone wniniejszej ustawie, zwyjątkiem uposażenia oraz świadczenia pieniężnego, o którym mowa w art. 48.
 
 **Art. 99.**
 
-1. Funkcjonariuszowi zawieszonemu w czynnoÊciach s∏u˝bowych zawiesza si´ od najbli˝szego terminu p∏atnoÊci 50 % ostatnio nale˝nego uposa˝enia.
+1. Funkcjonariuszowi zawieszonemu w czynnościach służbowych zawiesza się od najbliższego terminu płatności 50 % ostatnio należnego uposażenia.
 
-2. W razie uchylenia zawieszenia w czynnoÊciach s∏u˝bowych funkcjonariusz otrzymuje zawieszonà cz´Êç uposa˝enia oraz obligatoryjne podwy˝ki tego uposa˝enia, wprowadzone w okresie zawieszenia, chyba ˝e zosta∏ zwolniony ze s∏u˝by z powodu skazania prawomocnym wyrokiem sàdu albo ukarany karà dyscyplinarnà wydalenia ze s∏u˝by.
+2. W razie uchylenia zawieszenia w czynnościach służbowych funkcjonariusz otrzymuje zawieszoną część uposażenia oraz obligatoryjne podwyżki tego uposażenia, wprowadzone w okresie zawieszenia, chyba że został zwolniony ze służby z powodu skazania prawomocnym wyrokiem sądu albo ukarany karą dyscyplinarną wydalenia ze służby.
 
 **Art. 100.**
 
-1. Funkcjonariuszowi tymczasowo aresztowanemu zawiesza si´ od najbli˝szego terminu p∏atnoÊci 50 % ostatnio nale˝nego uposa˝enia.
+1. Funkcjonariuszowi tymczasowo aresztowanemu zawiesza się od najbliższego terminu płatności 50 % ostatnio należnego uposażenia.
 
-2. W razie umorzenia post´powania karnego lub uniewinnienia prawomocnym wyrokiem sàdu, funkcjonariusz otrzymuje zawieszonà cz´Êç uposa˝enia oraz obligatoryjne podwy˝ki tego uposa˝enia, wprowadzone w okresie zawieszenia, choçby umorzenie lub uniewinnienie nastàpi∏o po zwolnieniu funkcjonariusza ze s∏u˝by, z zastrze˝eniem ust. 3.
+2. W razie umorzenia postępowania karnego lub uniewinnienia prawomocnym wyrokiem sądu, funkcjonariusz otrzymuje zawieszoną część uposażenia oraz obligatoryjne podwyżki tego uposażenia, wprowadzone w okresie zawieszenia, choćby umorzenie lub uniewinnienie nastąpiło po zwolnieniu funkcjonariusza ze służby, z zastrzeżeniem ust. 3.
 
-3. Przepisu ust. 2 nie stosuje si´ wprzypadku, gdy post´powanie karne umorzono zpowodu przedawnienia lub amnestii, a tak˝e w razie warunkowego umorzenia post´powania karnego.
+3. Przepisu ust. 2 nie stosuje się wprzypadku, gdy postępowanie karne umorzono zpowodu przedawnienia lub amnestii, a także w razie warunkowego umorzenia postępowania karnego.
 
 **Art. 101.**
 
-1. Funkcjonariuszowi, który samowolnie opuÊci∏ miejsce pe∏nienia s∏u˝by albo pozostaje poza nim lub nie podejmuje s∏u˝by, zawiesza si´ uposa˝enie od najbli˝szego terminu p∏atnoÊci. Je˝eli funkcjonariusz pobra∏ ju˝ za czas nieusprawiedliwionej nieobecnoÊci uposa˝enie, potràca mu si´ odpowiednià cz´Êç uposa˝enia przy najbli˝szej wyp∏acie.
+1. Funkcjonariuszowi, który samowolnie opuścił miejsce pełnienia służby albo pozostaje poza nim lub nie podejmuje służby, zawiesza się uposażenie od najbliższego terminu płatności. Jeżeli funkcjonariusz pobrał już za czas nieusprawiedliwionej nieobecności uposażenie, potrąca mu się odpowiednią część uposażenia przy najbliższej wypłacie.
 
-2. W razie uznania nieobecnoÊci za usprawiedliwionà, wyp∏aca si´ funkcjonariuszowi zawieszone uposa˝enie; w przypadku nieobecnoÊci nieusprawiedliwionej funkcjonariusz traci za ka˝dy dzieƒ nieobecnoÊci 1/30 cz´Êç uposa˝enia miesi´cznego.
+2. W razie uznania nieobecności za usprawiedliwioną, wypłaca się funkcjonariuszowi zawieszone uposażenie; w przypadku nieobecności nieusprawiedliwionej funkcjonariusz traci za każdy dzień nieobecności 1/30 część uposażenia miesięcznego.
 
-3. Przepisy ust. 1 i2 stosuje si´ odpowiednio wrazie zawinionej niemo˝noÊci pe∏nienia przez funkcjonalub na ich wysokoÊç. riusza obowiàzków s∏u˝bowych.
+3. Przepisy ust. 1 i2 stosuje się odpowiednio wrazie zawinionej niemożności pełnienia przez funkcjonalub na ich wysokość. riusza obowiązków służbowych.
 
-4. Funkcjonariuszowi, który rozpoczyna urlop bezp∏atny wciàgu miesiàca kalendarzowego, przys∏uguje uposa˝enie w wysokoÊci 1/30 uposa˝enia miesi´cznego za ka˝dy dzieƒ poprzedzajàcy dzieƒ rozpocz´cia urlopu bezp∏atnego. Je˝eli funkcjonariusz pobra∏ ju˝ uposa˝enie za czas urlopu bezp∏atnego, potràca mu si´ odpowiednià cz´Êç uposa˝enia przy najbli˝szej wyp∏acie.
+4. Funkcjonariuszowi, który rozpoczyna urlop bezpłatny wciągu miesiąca kalendarzowego, przysługuje uposażenie w wysokości 1/30 uposażenia miesięcznego za każdy dzień poprzedzający dzień rozpoczęcia urlopu bezpłatnego. Jeżeli funkcjonariusz pobrał już uposażenie za czas urlopu bezpłatnego, potrąca mu się odpowiednią część uposażenia przy najbliższej wypłacie.
 
 **Art. 102.**
 
-1. Z uposa˝enia funkcjonariuszy mogà byç dokonywane potràcenia na podstawie sàdowych i administracyjnych tytu∏ów wykonawczych oraz na podstawie przepisów szczególnych na zasadach okreÊlonych wprzepisach oegzekucji sàdowej lub post´powaniu egzekucyjnym w administracji albo w innych przepisach szczególnych, je˝eli dalsze przepisy ustawy nie stanowià inaczej.
+1. Z uposażenia funkcjonariuszy mogą być dokonywane potrącenia na podstawie sądowych i administracyjnych tytułów wykonawczych oraz na podstawie przepisów szczególnych na zasadach określonych wprzepisach oegzekucji sądowej lub postępowaniu egzekucyjnym w administracji albo w innych przepisach szczególnych, jeżeli dalsze przepisy ustawy nie stanowią inaczej.
 
-2. Przez uposa˝enie, o którym mowa w ust. 1, rozumie si´ uposa˝enie zasadnicze, dodatki do uposa˝enia oraz Êwiadczenia pieni´˝ne wymienione w art. 83, art. 88, art. 89 i art. 92.
+2. Przez uposażenie, o którym mowa w ust. 1, rozumie się uposażenie zasadnicze, dodatki do uposażenia oraz świadczenia pieniężne wymienione w art. 83, art. 88, art. 89 i art. 92.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW iSWW, terminy p∏atnoÊci uposa˝enia iinnych Êwiadczeƒ pieni´˝nych oraz w∏aÊciwoÊç itryb post´powania wsprawach wyp∏acania Êwiadczeƒ pieni´˝nych oraz dokonywania potràceƒ z tych nale˝noÊci, uwzgl´dniajàc koniecznoÊç zapewnienia terminowej realizacji Êwiadczeƒ.
+3. Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW iSWW, terminy płatności uposażenia iinnych świadczeń pieniężnych oraz właściwość itryb postępowania wsprawach wypłacania świadczeń pieniężnych oraz dokonywania potrąceń z tych należności, uwzględniając konieczność zapewnienia terminowej realizacji świadczeń.
 
-**Art. 103.** Przepisu art. 102 ust. 1 i 2 nie stosuje si´ do zaliczek pobieranych do rozliczenia, a w szczególnoÊci na koszty podró˝y s∏u˝bowej, delegacji iprzeniesienia. Nale˝noÊci te potràca si´ zuposa˝enia wpe∏nej wysokoÊci, niezale˝nie od potràceƒ z innych tytu∏ów.
+**Art. 103.** Przepisu art. 102 ust. 1 i 2 nie stosuje się do zaliczek pobieranych do rozliczenia, a w szczególności na koszty podróży służbowej, delegacji iprzeniesienia. Należności te potrąca się zuposażenia wpełnej wysokości, niezależnie od potrąceń z innych tytułów.
 
-**Art. 104.** W przypadku zbiegu uprawnieƒ do Êwiadczeƒ socjalnych okreÊlonych w rozporzàdzeniach wydanych na podstawie art. 49 ust. 7 oraz do Êwiadczeƒ z tytu∏u przeniesienia do pe∏nienia s∏u˝by winnej miejscowoÊci, atak˝e do Êwiadczeƒ, októrych mowa w art. 65, art. 66 ust. 1 i art. 68 ust. 1, z tytu∏u s∏u˝by obojga ma∏˝onków w SKW albo s∏u˝by obojga ma∏˝onków w SWW, obojgu ma∏˝onkom przys∏uguje jedno Êwiadczenie. Wprzypadku zbiegu uprawnieƒ do Êwiadczeƒ w ró˝nej wysokoÊci wyp∏aca si´ Êwiadczenie w wy˝szej wysokoÊci. Rozdzia∏ 6 OdpowiedzialnoÊç dyscyplinarna funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego
+**Art. 104.** W przypadku zbiegu uprawnień do świadczeń socjalnych określonych w rozporządzeniach wydanych na podstawie art. 49 ust. 7 oraz do świadczeń z tytułu przeniesienia do pełnienia służby winnej miejscowości, atakże do świadczeń, októrych mowa w art. 65, art. 66 ust. 1 i art. 68 ust. 1, z tytułu służby obojga małżonków w SKW albo służby obojga małżonków w SWW, obojgu małżonkom przysługuje jedno świadczenie. Wprzypadku zbiegu uprawnień do świadczeń w różnej wysokości wypłaca się świadczenie w wyższej wysokości.
 
-**Art. 105.** Funkcjonariusz, niezale˝nie od odpowiedzialnoÊci karnej, ponosi odpowiedzialnoÊç dyscyplinarnà za pope∏nione przest´pstwa i wykroczenia.
+#### Rozdział 6 Odpowiedzialność dyscyplinarna funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
+
+**Art. 105.** Funkcjonariusz, niezależnie od odpowiedzialności karnej, ponosi odpowiedzialność dyscyplinarną za popełnione przestępstwa i wykroczenia.
 
 **Art. 106.**
 
-1. Funkcjonariusz podlega odpowiedzialnoÊci dyscyplinarnej za naruszenia dyscypliny s∏u˝bowej oraz winnych przypadkach okreÊlonych wustawie.
+1. Funkcjonariusz podlega odpowiedzialności dyscyplinarnej za naruszenia dyscypliny służbowej oraz winnych przypadkach określonych wustawie.
 
-2. Naruszeniem dyscypliny s∏u˝bowej jest wszcze1) odmowa wykonania albo niewykonanie rozkazu lub polecenia s∏u˝bowego, z wyjàtkiem przypadku, o którym mowa w art. 38 ust. 2 oraz gdy odmowa dotyczy wykonania polecenia s∏u˝bowego, które nie pozostaje wzwiàzku zpe∏nieniem s∏u˝by;
+2. Naruszeniem dyscypliny służbowej jest wszcze1) odmowa wykonania albo niewykonanie rozkazu lub polecenia służbowego, z wyjątkiem przypadku, o którym mowa w art. 38 ust. 2 oraz gdy odmowa dotyczy wykonania polecenia służbowego, które nie pozostaje wzwiązku zpełnieniem służby;
 
-- **2)** zaniechanie wykonania czynnoÊci s∏u˝bowej albo wykonanie jej w sposób nieprawid∏owy;
-- **3)** niedope∏nienie obowiàzków s∏u˝bowych albo przekroczenie uprawnieƒ okreÊlonych w przepisach prawa;
-- **4)** wprowadzenie w b∏àd prze∏o˝onego lub innego funkcjonariusza, je˝eli spowodowa∏o to lub mog∏o spowodowaç szkod´ s∏u˝bie, funkcjonariuszowi lub innej osobie;
-- **5)** post´powanie prze∏o˝onego wsposób przyczyniajàcy si´ do rozluênienia dyscypliny s∏u˝bowej wpodleg∏ej jednostce organizacyjnej lub komórce organizacyjnej;
-- **6)** stawienie si´ do s∏u˝by wstanie po u˝yciu alkoholu lub podobnie dzia∏ajàcego Êrodka oraz spo˝ywanie alkoholu lub podobnie dzia∏ajàcego Êrodka w czasie s∏u˝by albo w obiektach lub na terenach zajmowanych przez SKW albo SWW;
-- **7)** utrata s∏u˝bowej broni palnej, amunicji lub legitymacji s∏u˝bowej, a tak˝e dokumentu zawierajàcego informacje stanowiàce tajemnic´ paƒstwowà albo s∏u˝bowà;
-- **8)** utrata przedmiotu stanowiàcego wyposa˝enie s∏u˝bowe, którego wykorzystanie przez osoby nieuprawnione wyrzàdzi∏o szkod´ obywatelowi lub stworzy∏o zagro˝enie dla porzàdku publicznego lub bezpieczeƒstwa powszechnego;
-- **9)** nadu˝ycie zajmowanego stanowiska lub s∏u˝by dla osiàgni´cia korzyÊci majàtkowej lub osobistej;
-- **10)** samowolne oddalenie si´ funkcjonariusza z rejonu zakwaterowania, je˝eli pe∏ni s∏u˝b´ wsystemie skoszarowanym, a tak˝e nieusprawiedliwione opuszczenie lub niestawienie si´ w miejscu pe∏nienia s∏u˝by;
-- **11)** porzucenie s∏u˝by.
+- **2)** zaniechanie wykonania czynności służbowej albo wykonanie jej w sposób nieprawidłowy;
+- **3)** niedopełnienie obowiązków służbowych albo przekroczenie uprawnień określonych w przepisach prawa;
+- **4)** wprowadzenie w błąd przełożonego lub innego funkcjonariusza, jeżeli spowodowało to lub mogło spowodować szkodę służbie, funkcjonariuszowi lub innej osobie;
+- **5)** postępowanie przełożonego wsposób przyczyniający się do rozluênienia dyscypliny służbowej wpodległej jednostce organizacyjnej lub komórce organizacyjnej;
+- **6)** stawienie się do służby wstanie po użyciu alkoholu lub podobnie działającego środka oraz spożywanie alkoholu lub podobnie działającego środka w czasie służby albo w obiektach lub na terenach zajmowanych przez SKW albo SWW;
+- **7)** utrata służbowej broni palnej, amunicji lub legitymacji służbowej, a także dokumentu zawierającego informacje stanowiące tajemnicę państwową albo służbową;
+- **8)** utrata przedmiotu stanowiącego wyposażenie służbowe, którego wykorzystanie przez osoby nieuprawnione wyrządziło szkodę obywatelowi lub stworzyło zagrożenie dla porządku publicznego lub bezpieczeństwa powszechnego;
+- **9)** nadużycie zajmowanego stanowiska lub służby dla osiągnięcia korzyści majątkowej lub osobistej;
+- **10)** samowolne oddalenie się funkcjonariusza z rejonu zakwaterowania, jeżeli pełni służbę wsystemie skoszarowanym, a także nieusprawiedliwione opuszczenie lub niestawienie się w miejscu pełnienia służby;
+- **11)** porzucenie służby.
 
-3. JeÊli post´powanie dyscyplinarne zosta∏o wszcz´te na wniosek sàdu lub prokuratora, organ wnioskujàcy ma byç poinformowany o wyniku tego post´powania.
+3. Jeśli postępowanie dyscyplinarne zostało wszczęte na wniosek sądu lub prokuratora, organ wnioskujący ma być poinformowany o wyniku tego postępowania.
 
-4. Przepis ust. 3 stosuje si´ odpowiednio, gdy sàd nakaza∏ wymierzenie kary dyscyplinarnej funkcjonariuszowi, nie okreÊlajàc jednak jej rodzaju.
+4. Przepis ust. 3 stosuje się odpowiednio, gdy sąd nakazał wymierzenie kary dyscyplinarnej funkcjonariuszowi, nie określając jednak jej rodzaju.
 
 **Art. 107.**
 
-1. Funkcjonariusz nie pope∏nia przewinienia dyscyplinarnego, je˝eli nie mo˝na mu przypisaç winy.
+1. Funkcjonariusz nie popełnia przewinienia dyscyplinarnego, jeżeli nie można mu przypisać winy.
 
-2. Funkcjonariuszowi mo˝na przypisaç win´, gdy:
+2. Funkcjonariuszowi można przypisać winę, gdy:
 
-- **1)** ma zamiar pope∏nienia przewinienia, to jest chce gólnoÊci: je pope∏niç albo przewidujàc mo˝liwoÊç jego pope∏nienia, na to si´ godzi;
-- **2)** nie majàc zamiaru pope∏nienia przewinienia, pope∏nia je jednak na skutek niezachowania ostro˝noÊci wymaganej w danych okolicznoÊciach, mimo ˝e mo˝liwoÊç takà przewidywa∏ albo móg∏ i powinien przewidzieç.
+- **1)** ma zamiar popełnienia przewinienia, to jest chce gólności: je popełnić albo przewidując możliwość jego popełnienia, na to się godzi;
+- **2)** nie mając zamiaru popełnienia przewinienia, popełnia je jednak na skutek niezachowania ostrożności wymaganej w danych okolicznościach, mimo że możliwość taką przewidywał albo mógł i powinien przewidzieć.
 
 **Art. 108.**
 
-1. Funkcjonariusz odpowiada dyscyplinarnie, je˝eli pope∏nia przewinienie dyscyplinarne sam albo wspólnie lub wporozumieniu zinnà osobà, atak˝e w przypadku, gdy kieruje pope∏nieniem przez innego funkcjonariusza przewinienia dyscyplinarnego.
+1. Funkcjonariusz odpowiada dyscyplinarnie, jeżeli popełnia przewinienie dyscyplinarne sam albo wspólnie lub wporozumieniu zinną osobą, atakże w przypadku, gdy kieruje popełnieniem przez innego funkcjonariusza przewinienia dyscyplinarnego.
 
-2. Funkcjonariusz odpowiada dyscyplinarnie tak˝e wprzypadku, gdy nak∏ania innego funkcjonariusza do pope∏nienia przewinienia dyscyplinarnego albo u∏atwia jego pope∏nienie.
+2. Funkcjonariusz odpowiada dyscyplinarnie także wprzypadku, gdy nakłania innego funkcjonariusza do popełnienia przewinienia dyscyplinarnego albo ułatwia jego popełnienie.
 
-3. Ka˝dy zfunkcjonariuszy, októrych mowa wust.1 i 2, odpowiada w granicach swojej winy, niezale˝nie od odpowiedzialnoÊci pozosta∏ych osób.
+3. Każdy zfunkcjonariuszy, októrych mowa wust.1 i 2, odpowiada w granicach swojej winy, niezależnie od odpowiedzialności pozostałych osób.
 
 **Art. 109.**
 
-1. Funkcjonariuszowi mogà byç wymierzane kary dyscyplinarne:
+1. Funkcjonariuszowi mogą być wymierzane kary dyscyplinarne:
 
 - **1)** upomnienie;
 - **2)** nagana;
 - **3)** surowa nagana;
-- **4)** nagana z ostrze˝eniem;
-- **5)** ostrze˝enie o niepe∏nej przydatnoÊci do s∏u˝by na zajmowanym stanowisku;
-- **6)** wyznaczenie na ni˝sze stanowisko s∏u˝bowe;
-- **7)** obni˝enie stopnia;
+- **4)** nagana z ostrzeżeniem;
+- **5)** ostrzeżenie o niepełnej przydatności do służby na zajmowanym stanowisku;
+- **6)** wyznaczenie na niższe stanowisko służbowe;
+- **7)** obniżenie stopnia;
 - **8)** pozbawienie stopnia oficerskiego;
-- **9)** ostrze˝enie o niepe∏nej przydatnoÊci do s∏u˝by;
-- **10)** wydalenie ze s∏u˝by.
+- **9)** ostrzeżenie o niepełnej przydatności do służby;
+- **10)** wydalenie ze służby.
 
-2. Wuzasadnionych przypadkach mo˝na ∏àczyç kar´ wyznaczenia na ni˝sze stanowisko s∏u˝bowe oraz kar´ wydalenia ze s∏u˝by z karà obni˝enia stopnia.
+2. Wuzasadnionych przypadkach można łączyć karę wyznaczenia na niższe stanowisko służbowe oraz karę wydalenia ze służby z karą obniżenia stopnia.
 
-3. Wuzasadnionych przypadkach mo˝na ∏àczyç kar´ pozbawienia stopnia oficerskiego z karà wydalenia ze s∏u˝by.
+3. Wuzasadnionych przypadkach można łączyć karę pozbawienia stopnia oficerskiego z karą wydalenia ze służby.
 
-**Art. 110.** Kara upomnienia, nagany i surowej nagany polega na przeprowadzeniu rozmowy i wytkni´ciu ukaranemu niew∏aÊciwego post´powania.
+**Art. 110.** Kara upomnienia, nagany i surowej nagany polega na przeprowadzeniu rozmowy i wytknięciu ukaranemu niewłaściwego postępowania.
 
-**Art. 111.** Kara nagany z ostrze˝eniem oraz kara ostrze˝enia o niepe∏nej przydatnoÊci na zajmowanym stanowisku polega na przeprowadzeniu rozmowy, wytkni´ciu ukaranemu niew∏aÊciwego post´powania i uprzedzeniu go, ˝e je˝eli ponownie pope∏ni przewinienie dyscyplinarne, mo˝e zostaç ukarany surowszà karà dyscyplinarnà lub wyznaczony na ni˝sze stanowisko s∏u˝bowe w trybie dyscyplinarnym.
+**Art. 111.** Kara nagany z ostrzeżeniem oraz kara ostrzeżenia o niepełnej przydatności na zajmowanym stanowisku polega na przeprowadzeniu rozmowy, wytknięciu ukaranemu niewłaściwego postępowania i uprzedzeniu go, że jeżeli ponownie popełni przewinienie dyscyplinarne, może zostać ukarany surowszą karą dyscyplinarną lub wyznaczony na niższe stanowisko służbowe w trybie dyscyplinarnym.
 
 **Art. 112.**
 
-1. Kara wyznaczenia na ni˝sze stanowisko s∏u˝bowe polega na odwo∏aniu zdotychczas zajmowanego stanowiska s∏u˝bowego i mianowaniu na stano2. Przed zatarciem kary wyznaczenia na ni˝sze stanowisko s∏u˝bowe funkcjonariusza nie mo˝na mianowaç na wy˝sze stanowisko s∏u˝bowe.
+1. Kara wyznaczenia na niższe stanowisko służbowe polega na odwołaniu zdotychczas zajmowanego stanowiska służbowego i mianowaniu na stano2. Przed zatarciem kary wyznaczenia na niższe stanowisko służbowe funkcjonariusza nie można mianować na wyższe stanowisko służbowe.
 
-**Art. 113.** Kara obni˝enia stopnia polega na wydaniu rozkazu personalnego outracie posiadanego stopnia i powrocie do stopnia bezpoÊrednio ni˝szego.
+**Art. 113.** Kara obniżenia stopnia polega na wydaniu rozkazu personalnego outracie posiadanego stopnia i powrocie do stopnia bezpośrednio niższego.
 
 **Art. 114.** Kara pozbawienia stopnia oficerskiego polega na wydaniu rozkazu personalnego o utracie stopnia oficerskiego i powrocie do stopnia szeregowego.
 
-**Art. 115.** Kara ostrze˝enia oniepe∏nej przydatnoÊci do s∏u˝by polega na przeprowadzeniu rozmowy, wytkni´ciu niew∏aÊciwego post´powania i ostrze˝eniu, ˝e za ponowne pope∏nienie czynu ukarany mo˝e zostaç wydalony ze s∏u˝by.
+**Art. 115.** Kara ostrzeżenia oniepełnej przydatności do służby polega na przeprowadzeniu rozmowy, wytknięciu niewłaściwego postępowania i ostrzeżeniu, że za ponowne popełnienie czynu ukarany może zostać wydalony ze służby.
 
-**Art. 116.** Kara wydalenia ze s∏u˝by polega na zwolnieniu ze s∏u˝by w SKW albo SWW.
+**Art. 116.** Kara wydalenia ze służby polega na zwolnieniu ze służby w SKW albo SWW.
 
 **Art. 117.**
 
-1. Wymierzona kara powinna byç wspó∏mierna do pope∏nionego przewinienia dyscyplinarnego i stopnia zawinienia, w szczególnoÊci powinna uwzgl´dniaç okolicznoÊci pope∏nienia przewinienia dyscyplinarnego, jego skutki, w tym nast´pstwa dla s∏u˝by, rodzaj istopieƒ naruszenia cià˝àcych na obwinionym obowiàzków, pobudki dzia∏ania, zachowanie obwinionego przed pope∏nieniem przewinienia dyscyplinarnego i po jego pope∏nieniu oraz dotychczasowy przebieg s∏u˝by.
+1. Wymierzona kara powinna być współmierna do popełnionego przewinienia dyscyplinarnego i stopnia zawinienia, w szczególności powinna uwzględniać okoliczności popełnienia przewinienia dyscyplinarnego, jego skutki, w tym następstwa dla służby, rodzaj istopień naruszenia ciążących na obwinionym obowiązków, pobudki działania, zachowanie obwinionego przed popełnieniem przewinienia dyscyplinarnego i po jego popełnieniu oraz dotychczasowy przebieg służby.
 
-2. Na zaostrzenie wymiaru kary majà wp∏yw nast´pujàce okolicznoÊci pope∏nienia przewinienia dyscyplinarnego:
+2. Na zaostrzenie wymiaru kary mają wpływ następujące okoliczności popełnienia przewinienia dyscyplinarnego:
 
-- **1)** dzia∏anie z motywacji zas∏ugujàcej na szczególne pot´pienie albo wstanie po spo˝yciu alkoholu lub u˝yciu innego podobnie dzia∏ajàcego Êrodka;
-- **2)** pope∏nienie przewinienia dyscyplinarnego przez funkcjonariusza przed zatarciem wymierzonej mu kary dyscyplinarnej;
-- **3)** powa˝ne skutki przewinienia dyscyplinarnego, zw∏aszcza istotne zak∏ócenie realizacji zadaƒ SKW albo SWW lub naruszenie dobrego imienia SKW albo SWW;
-- **4)** dzia∏anie w obecnoÊci podw∏adnego, wspólnie z nim lub na jego szkod´.
+- **1)** działanie z motywacji zasługującej na szczególne potępienie albo wstanie po spożyciu alkoholu lub użyciu innego podobnie działającego środka;
+- **2)** popełnienie przewinienia dyscyplinarnego przez funkcjonariusza przed zatarciem wymierzonej mu kary dyscyplinarnej;
+- **3)** poważne skutki przewinienia dyscyplinarnego, zwłaszcza istotne zakłócenie realizacji zadań SKW albo SWW lub naruszenie dobrego imienia SKW albo SWW;
+- **4)** działanie w obecności podwładnego, wspólnie z nim lub na jego szkodę.
 
-3. Na z∏agodzenie wymiaru kary majà wp∏yw nast´pujàce okolicznoÊci pope∏nienia przewinienia dyscyplinarnego:
+3. Na złagodzenie wymiaru kary mają wpływ następujące okoliczności popełnienia przewinienia dyscyplinarnego:
 
-- **1)** nieumyÊlnoÊç jego pope∏nienia;
-- **2)** podj´cie przez funkcjonariusza staraƒ ozmniejszenie jego skutków;
-- **3)** brak nale˝ytego doÊwiadczenia zawodowego lub dostatecznych umiej´tnoÊci zawodowych;
-- **4)** dobrowolne poinformowanie prze∏o˝onego dyscyplinarnego o pope∏nieniu przewinienia dyscypliwisko s∏u˝bowe ni˝sze od dotychczas zajmowanego. narnego przed wszcz´ciem post´powania dyscyplinarnego.
+- **1)** nieumyślność jego popełnienia;
+- **2)** podjęcie przez funkcjonariusza starań ozmniejszenie jego skutków;
+- **3)** brak należytego doświadczenia zawodowego lub dostatecznych umiejętności zawodowych;
+- **4)** dobrowolne poinformowanie przełożonego dyscyplinarnego o popełnieniu przewinienia dyscypliwisko służbowe niższe od dotychczas zajmowanego. narnego przed wszczęciem postępowania dyscyplinarnego.
 
-4. Przy wymierzeniu kary dyscyplinarnej uwzgl´dnia si´ okolicznoÊci, o których mowa w ust. 1—3, wy∏àcznie w stosunku do funkcjonariusza, którego one dotyczà.
+4. Przy wymierzeniu kary dyscyplinarnej uwzględnia się okoliczności, o których mowa w ust. 1—3, wyłącznie w stosunku do funkcjonariusza, którego one dotyczą.
 
 **Art. 118.**
 
-1. Nie mo˝na wszczàç post´powania dyscyplinarnego po up∏ywie 90 dni od dnia otrzymania przez prze∏o˝onego, októrym mowa wart. 122, wiadomoÊci opope∏nieniu przewinienia lub naruszeniu dyscypliny s∏u˝bowej.
+1. Nie można wszcząć postępowania dyscyplinarnego po upływie 90 dni od dnia otrzymania przez przełożonego, októrym mowa wart. 122, wiadomości opopełnieniu przewinienia lub naruszeniu dyscypliny służbowej.
 
-2. Nie mo˝na wymierzyç funkcjonariuszowi kary dyscyplinarnej po up∏ywie 1 roku od dnia pope∏nienia czynu, o którym mowa w ust. 1.
+2. Nie można wymierzyć funkcjonariuszowi kary dyscyplinarnej po upływie 1 roku od dnia popełnienia czynu, o którym mowa w ust. 1.
 
-3. Wprzypadku gdy czyn, októrym mowa wust. 1, stanowi jednoczeÊnie przest´pstwo, przedawnienie karalnoÊci dyscyplinarnej nast´puje dopiero z up∏ywem okresu przedawnienia karalnoÊci przest´pstwa.
+3. Wprzypadku gdy czyn, októrym mowa wust. 1, stanowi jednocześnie przestępstwo, przedawnienie karalności dyscyplinarnej następuje dopiero z upływem okresu przedawnienia karalności przestępstwa.
 
 **Art. 119.**
 
-1. O pope∏nieniu przez funkcjonariusza wykroczenia, w tym tak˝e o odmowie przyj´cia mandatu karnego lub nieuiszczeniu w terminie grzywny na∏o˝onej wdrodze mandatu zaocznego, w∏aÊciwy organ zawiadamia odpowiednio Szefa SKW albo Szefa SWW.
+1. O popełnieniu przez funkcjonariusza wykroczenia, w tym także o odmowie przyjęcia mandatu karnego lub nieuiszczeniu w terminie grzywny nałożonej wdrodze mandatu zaocznego, właściwy organ zawiadamia odpowiednio Szefa SKW albo Szefa SWW.
 
-2. W stosunku do funkcjonariuszy SKW i SWW, w zakresie post´powania w sprawach o wykroczenia, uprawnienia Policji wynikajàce z przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks post´powania w sprawach o wykroczenia (Dz. U. 106, poz. 1148, z póên. zm. sie swojego dzia∏ania, a tak˝e inni uprawnieni prze∏o˝eni.
+2. W stosunku do funkcjonariuszy SKW i SWW, w zakresie postępowania w sprawach o wykroczenia, uprawnienia Policji wynikające z przepisów ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. 106, poz. 1148, z póên. zm. sie swojego działania, a także inni uprawnieni przełożeni.
 
 **Art. 123.**
 
-1. Za pope∏nione przewinienie dyscyplinarne mo˝na wymierzyç tylko jednà kar´ dyscyplinarnà.
+1. Za popełnione przewinienie dyscyplinarne można wymierzyć tylko jedną karę dyscyplinarną.
 
-2. Za pope∏nienie kilku przewinieƒ dyscyplinarnych mo˝na wymierzyç jednà kar´ dyscyplinarnà, odpowiednio surowszà.
+2. Za popełnienie kilku przewinień dyscyplinarnych można wymierzyć jedną karę dyscyplinarną, odpowiednio surowszą.
 
 **Art. 124.**
 
-1. Prze∏o˝ony dyscyplinarny, je˝eli zachodzi uzasadnione przypuszczenie pope∏nienia przez funkcjonariusza przewinienia dyscyplinarnego:
+1. Przełożony dyscyplinarny, jeżeli zachodzi uzasadnione przypuszczenie popełnienia przez funkcjonariusza przewinienia dyscyplinarnego:
 
-- **1)** wszczyna post´powanie dyscyplinarne:
-    - **a)** z w∏asnej inicjatywy,
-    - **b)** na wniosek bezpoÊredniego prze∏o˝onego funkcjonariusza,
-    - **c)** na ˝àdanie sàdu lub prokuratora;
+- **1)** wszczyna postępowanie dyscyplinarne:
+    - **a)** z własnej inicjatywy,
+    - **b)** na wniosek bezpośredniego przełożonego funkcjonariusza,
+    - **c)** na żądanie sądu lub prokuratora;
 
-- **2)** mo˝e wszczàç post´powanie dyscyplinarne na wniosek pokrzywdzonego.
+- **2)** może wszcząć postępowanie dyscyplinarne na wniosek pokrzywdzonego.
 
-2. W przypadku, o którym mowa w ust. 1 pkt 1 lit. cipkt 2, zawiadamia si´ odpowiednio sàd lub prokuratora albo pokrzywdzonego o wszcz´ciu post´powania dyscyplinarnego i wyniku tego post´powania, przesy∏ajàc odpis wydanego orzeczenia lub postanowienia. Materia∏y przekazane przez sàd, prokuratora albo pokrzywdzonego w∏àcza si´ do akt post´powania dyscyplinarnego. ) przys∏ugujà odpowiednio Szefowi SKW iSzefowi SWW lub upowa˝nionym przez nich funkcjo- 3. Je˝eli zachodzà wàtpliwoÊci co do pope∏nienia nariuszom. przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo to˝samoÊci sprawcy, przed wszcz´ciem poArt. 120. 1. Sàd rejonowy mo˝e odmówiç wszcz´- st´powania dyscyplinarnego prze∏o˝ony dyscyplinarcia post´powania, a wszcz´te umorzyç i spraw´ prze- ny zleca przeprowadzenie czynnoÊci wyjaÊniajàcych. kazaç Szefowi SKW albo Szefowi SWW z wnioskiem CzynnoÊci te nale˝y ukoƒczyç w terminie 30 dni. o wymierzenie kary dyscyplinarnej, je˝eli uzna to za wystarczajàcà reakcj´ na wykroczenie. 4. Post´powanie dyscyplinarne wszczyna si´ zdniem wydania postanowienia owszcz´ciu post´po2. Na postanowienie wskazane w ust. 1 pokrzyw- wania dyscyplinarnego. Funkcjonariusza, co do któredzonemu przys∏uguje za˝alenie. go wydano postanowienie o wszcz´ciu post´powania dyscyplinarnego, uwa˝a si´ za obwinionego.
+2. W przypadku, o którym mowa w ust. 1 pkt 1 lit. cipkt 2, zawiadamia się odpowiednio sąd lub prokuratora albo pokrzywdzonego o wszczęciu postępowania dyscyplinarnego i wyniku tego postępowania, przesyłając odpis wydanego orzeczenia lub postanowienia. Materiały przekazane przez sąd, prokuratora albo pokrzywdzonego włącza się do akt postępowania dyscyplinarnego. ) przysługują odpowiednio Szefowi SKW iSzefowi SWW lub upoważnionym przez nich funkcjo- 3. Jeżeli zachodzą wątpliwości co do popełnienia nariuszom. przewinienia dyscyplinarnego, jego kwalifikacji prawnej albo tożsamości sprawcy, przed wszczęciem poArt. 120. 1. Sąd rejonowy może odmówić wszczę- stępowania dyscyplinarnego przełożony dyscyplinarcia postępowania, a wszczęte umorzyć i sprawę prze- ny zleca przeprowadzenie czynności wyjaśniających. kazać Szefowi SKW albo Szefowi SWW z wnioskiem Czynności te należy ukończyć w terminie 30 dni. o wymierzenie kary dyscyplinarnej, jeżeli uzna to za wystarczającą reakcję na wykroczenie. 4. Postępowanie dyscyplinarne wszczyna się zdniem wydania postanowienia owszczęciu postępo2. Na postanowienie wskazane w ust. 1 pokrzyw- wania dyscyplinarnego. Funkcjonariusza, co do któredzonemu przysługuje zażalenie. go wydano postanowienie o wszczęciu postępowania dyscyplinarnego, uważa się za obwinionego.
 
 **Art. 121.**
 
-1. Za czyny, za które w myÊl odr´bnych przepisów w∏aÊciwe organy sà uprawnione do nak∏a- 5. Postanowienie o wszcz´ciu post´powania dysdania kar porzàdkowych, funkcjonariusze ponoszà wy- cyplinarnego zawiera: ∏àcznie odpowiedzialnoÊç dyscyplinarnà. 1) oznaczenie prze∏o˝onego dyscyplinarnego;
+1. Za czyny, za które w myśl odrębnych przepisów właściwe organy są uprawnione do nakła- 5. Postanowienie o wszczęciu postępowania dysdania kar porządkowych, funkcjonariusze ponoszą wy- cyplinarnego zawiera: łącznie odpowiedzialność dyscyplinarną. 1) oznaczenie przełożonego dyscyplinarnego;
 
-2. OdpowiedzialnoÊci dyscyplinarnej podlegajà 2) dat´ wydania postanowienia; równie˝ funkcjonariusze w przypadkach, gdy w∏aÊciwe organy sà uprawnione do stosowania grzywny, 3) stopieƒ, imi´ inazwisko oraz stanowisko s∏u˝bowe w celu przymuszenia. obwinionego;
+2. Odpowiedzialności dyscyplinarnej podlegają 2) datę wydania postanowienia; również funkcjonariusze w przypadkach, gdy właściwe organy są uprawnione do stosowania grzywny, 3) stopień, imię inazwisko oraz stanowisko służbowe w celu przymuszenia. obwinionego;
 
-3. O pociàgni´cie funkcjonariusza do odpowie- 4) opis przewinienia dyscyplinarnego zarzucanego dzialnoÊci dyscyplinarnej wyst´pujà organy, októrych obwinionemu wraz z jego kwalifikacjà prawnà; mowa w ust. 1 i 2, odpowiednio do Szefa SKW i Sze- 5) uzasadnienie faktyczne zarzucanego przewinienia fa SWW. dyscyplinarnego;
+3. O pociągnięcie funkcjonariusza do odpowie- 4) opis przewinienia dyscyplinarnego zarzucanego dzialności dyscyplinarnej występują organy, októrych obwinionemu wraz z jego kwalifikacją prawną; mowa w ust. 1 i 2, odpowiednio do Szefa SKW i Sze- 5) uzasadnienie faktyczne zarzucanego przewinienia fa SWW. dyscyplinarnego;
 
-**Art. 122.** W∏aÊciwi do wymierzania kar dyscypli- 6) stopieƒ, imi´ i nazwisko rzecznika dyscyplinarnenarnych sà Szef SKW albo Szef SWW, ka˝dy w zakre- go prowadzàcego post´powanie;
+**Art. 122.** Właściwi do wymierzania kar dyscypli- 6) stopień, imię i nazwisko rzecznika dyscyplinarnenarnych są Szef SKW albo Szef SWW, każdy w zakre- go prowadzącego postępowanie;
 
 **Art. 125.**
 
-1. Post´powania dyscyplinarnego nie wszczyna si´, a wszcz´te umarza:
+1. Postępowania dyscyplinarnego nie wszczyna się, a wszczęte umarza:
 
-- **1)** je˝eli czynnoÊci wyjaÊniajàce nie potwierdzi∏y zaistnienia przewinienia dyscyplinarnego;
-- **2)** po up∏ywie terminów okreÊlonych w art. 118 ust. 2 i 3;
-- **3)** w przypadku Êmierci funkcjonariusza;
-- **4)** je˝eli w tej samej sprawie zapad∏o prawomocne orzeczenie dyscyplinarne lub toczy si´ post´powanie dyscyplinarne.
+- **1)** jeżeli czynności wyjaśniające nie potwierdziły zaistnienia przewinienia dyscyplinarnego;
+- **2)** po upływie terminów określonych w art. 118 ust. 2 i 3;
+- **3)** w przypadku śmierci funkcjonariusza;
+- **4)** jeżeli w tej samej sprawie zapadło prawomocne orzeczenie dyscyplinarne lub toczy się postępowanie dyscyplinarne.
 
-2. Postanowienie o odmowie wszcz´cia post´powania dyscyplinarnego oraz orzeczenie o umorzeniu post´powania dyscyplinarnego dor´cza si´ pokrzywdzonemu, je˝eli z∏o˝y∏ on wniosek o wszcz´cie post´powania dyscyplinarnego. Na postanowienie oodmowie wszcz´cia post´powania dyscyplinarnego oraz na orzeczenie o umorzeniu tego post´powania pokrzywdzony mo˝e wnieÊç odpowiednio za˝alenie lub odwo∏anie do Szefa SKW albo Szefa SWW wterminie 7 dni od dnia ich dor´czenia.
+2. Postanowienie o odmowie wszczęcia postępowania dyscyplinarnego oraz orzeczenie o umorzeniu postępowania dyscyplinarnego doręcza się pokrzywdzonemu, jeżeli złożył on wniosek o wszczęcie postępowania dyscyplinarnego. Na postanowienie oodmowie wszczęcia postępowania dyscyplinarnego oraz na orzeczenie o umorzeniu tego postępowania pokrzywdzony może wnieść odpowiednio zażalenie lub odwołanie do Szefa SKW albo Szefa SWW wterminie 7 dni od dnia ich doręczenia.
 
-- **2)** jest ma∏˝onkiem, krewnym lub powinowatym obwinionego lub osoby przez niego pokrzywdzonej w rozumieniu przepisów ustawy z dnia 6 czerwca 1997 r. Kodeks post´powania karnego (Dz. U. 89, poz. 555, z póên. zm.
+- **2)** jest małżonkiem, krewnym lub powinowatym obwinionego lub osoby przez niego pokrzywdzonej w rozumieniu przepisów ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. 89, poz. 555, z póên. zm.
 
 **Art. 126.**
 
-1. Post´powanie dyscyplinarne oraz czynnoÊci wyjaÊniajàce, o których mowa w art. 124 ust. 3, prowadzi rzecznik dyscyplinarny.
+1. Postępowanie dyscyplinarne oraz czynności wyjaśniające, o których mowa w art. 124 ust. 3, prowadzi rzecznik dyscyplinarny.
 
-2. Szef SKW albo SWW powo∏uje w jednostce organizacyjnej SKW albo SWW, na wniosek jej kierownika, rzecznika dyscyplinarnego, spoÊród funkcjonariuszy tej jednostki.
+2. Szef SKW albo SWW powołuje w jednostce organizacyjnej SKW albo SWW, na wniosek jej kierownika, rzecznika dyscyplinarnego, spośród funkcjonariuszy tej jednostki.
 
-3. Wprzypadku, gdy ze wzgl´du na liczebnoÊç jednostki organizacyjnej SKW albo SWW powo∏anie rzecznika dyscyplinarnego dla tej jednostki nie jest uzasadnione, obowiàzki rzecznika dyscyplinarnego wtej jednostce wykonuje rzecznik dyscyplinarny innej jednostki organizacyjnej odpowiednio SKW albo SWW, wyznaczony przez Szefa SKW albo Szefa SWW.
+3. Wprzypadku, gdy ze względu na liczebność jednostki organizacyjnej SKW albo SWW powołanie rzecznika dyscyplinarnego dla tej jednostki nie jest uzasadnione, obowiązki rzecznika dyscyplinarnego wtej jednostce wykonuje rzecznik dyscyplinarny innej jednostki organizacyjnej odpowiednio SKW albo SWW, wyznaczony przez Szefa SKW albo Szefa SWW.
 
-4. Wjednostce organizacyjnej SKW albo SWW powo∏uje si´ co najmniej jednego inie wi´cej ni˝ 3 rzeczników dyscyplinarnych.
+4. Wjednostce organizacyjnej SKW albo SWW powołuje się co najmniej jednego inie więcej niż 3 rzeczników dyscyplinarnych.
 
-5. Powo∏anie rzecznika dyscyplinarnego nast´puje za jego pisemnà zgodà na okres 2 lat.
+5. Powołanie rzecznika dyscyplinarnego następuje za jego pisemną zgodą na okres 2 lat.
 
-6. Rzecznika dyscyplinarnego odwo∏uje si´ wprzypadkach:
+6. Rzecznika dyscyplinarnego odwołuje się wprzypadkach:
 
-- **1)** zaistnienia okolicznoÊci, które stanowià podstaw´ zwolnienia go ze s∏u˝by w SKW lub SWW;
-- **2)** prawomocnego ukarania go karà dyscyplinarnà.
+- **1)** zaistnienia okoliczności, które stanowią podstawę zwolnienia go ze służby w SKW lub SWW;
+- **2)** prawomocnego ukarania go karą dyscyplinarną.
 
-7. Rzecznik dyscyplinarny, za zgodà Szefa SKW albo Szefa SWW, mo˝e skorzystaç z pomocy innego rzecznika dyscyplinarnego przy przeprowadzaniu czynnoÊci dowodowych.
+7. Rzecznik dyscyplinarny, za zgodą Szefa SKW albo Szefa SWW, może skorzystać z pomocy innego rzecznika dyscyplinarnego przy przeprowadzaniu czynności dowodowych.
 
-8. Rzecznik dyscyplinarny lub prze∏o˝ony dyscyplinarny podlega wy∏àczeniu od udzia∏u wpost´powaniu dyscyplinarnym, je˝eli:
+8. Rzecznik dyscyplinarny lub przełożony dyscyplinarny podlega wyłączeniu od udziału wpostępowaniu dyscyplinarnym, jeżeli:
 
-- **1)** sprawa dotyczy go bezpoÊrednio; );
-- **3)** by∏ Êwiadkiem czynu;
-- **4)** mi´dzy nim aobwinionym lub osobà pokrzywdzonà przez obwinionego zachodzi stosunek osobisty mogàcy wywo∏aç wàtpliwoÊci co do jego bezstronnoÊci.
+- **1)** sprawa dotyczy go bezpośrednio; );
+- **3)** był świadkiem czynu;
+- **4)** między nim aobwinionym lub osobą pokrzywdzoną przez obwinionego zachodzi stosunek osobisty mogący wywołać wątpliwości co do jego bezstronności.
 
-9. Rzecznika dyscyplinarnego lub prze∏o˝onego dyscyplinarnego mo˝na wy∏àczyç od udzia∏u wpost´powaniu dyscyplinarnym tak˝e z innych uzasadnionych przyczyn.
+9. Rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego można wyłączyć od udziału wpostępowaniu dyscyplinarnym także z innych uzasadnionych przyczyn.
 
-10. O okolicznoÊciach uzasadniajàcych wy∏àczenie od udzia∏u w post´powaniu dyscyplinarnym rzecznik dyscyplinarny lub prze∏o˝ony dyscyplinarny zawiadamiajà niezw∏ocznie odpowiednio Szefa SKW albo Szefa SWW.
+10. O okolicznościach uzasadniających wyłączenie od udziału w postępowaniu dyscyplinarnym rzecznik dyscyplinarny lub przełożony dyscyplinarny zawiadamiają niezwłocznie odpowiednio Szefa SKW albo Szefa SWW.
 
-11. Wy∏àczenie rzecznika dyscyplinarnego lub prze∏o˝onego dyscyplinarnego od udzia∏u w post´powaniu dyscyplinarnym mo˝e nastàpiç równie˝ na wniosek obwinionego lub jego obroƒcy, je˝eli zosta∏ ustanowiony.
+11. Wyłączenie rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego od udziału w postępowaniu dyscyplinarnym może nastąpić również na wniosek obwinionego lub jego obrońcy, jeżeli został ustanowiony.
 
-12. Szef SKW i Szef SWW wydajà postanowienia o wy∏àczeniu lub odmowie wy∏àczenia rzecznika dyscyplinarnego lub prze∏o˝onego dyscyplinarnego od udzia∏u w post´powaniu dyscyplinarnym.
+12. Szef SKW i Szef SWW wydają postanowienia o wyłączeniu lub odmowie wyłączenia rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego od udziału w postępowaniu dyscyplinarnym.
 
 **Art. 127.**
 
-1. Wprzypadku wy∏àczenia prze∏o˝onego dyscyplinarnego od udzia∏u w post´powaniu dyscyplinarnym, na podstawie art. 126 ust. 8 i 9, post´powanie dyscyplinarne przejmuje odpowiednio Szef SKW i Szef SWW.
+1. Wprzypadku wyłączenia przełożonego dyscyplinarnego od udziału w postępowaniu dyscyplinarnym, na podstawie art. 126 ust. 8 i 9, postępowanie dyscyplinarne przejmuje odpowiednio Szef SKW i Szef SWW.
 
-2. W przypadku zaistnienia okolicznoÊci, o których mowa wart. 126 ust. 8 i9 wobec Szefa SKW albo Szefa SWW, post´powanie dyscyplinarne przejmuje jeden z jego zast´pców.
+2. W przypadku zaistnienia okoliczności, o których mowa wart. 126 ust. 8 i9 wobec Szefa SKW albo Szefa SWW, postępowanie dyscyplinarne przejmuje jeden z jego zastępców.
 
-3. W przypadku wy∏àczenia rzecznika dyscyplinarnego od udzia∏u w post´powaniu dyscyplinarnym na podstawie art. 126 ust. 8 i 9, post´powanie dyscyplinarne przejmuje do prowadzenia inny wyznaczony rzecznik dyscyplinarny.
+3. W przypadku wyłączenia rzecznika dyscyplinarnego od udziału w postępowaniu dyscyplinarnym na podstawie art. 126 ust. 8 i 9, postępowanie dyscyplinarne przejmuje do prowadzenia inny wyznaczony rzecznik dyscyplinarny.
 
-4. Do czasu wydania przez Szefa SKW albo Szefa SWW postanowienia owy∏àczeniu rzecznik dyscyplinarny podejmuje wy∏àcznie czynnoÊci niecierpiàce zw∏oki.
+4. Do czasu wydania przez Szefa SKW albo Szefa SWW postanowienia owyłączeniu rzecznik dyscyplinarny podejmuje wyłącznie czynności niecierpiące zwłoki.
 
 **Art. 128.**
 
-1. Rzecznik dyscyplinarny zbiera materia∏ dowodowy ipodejmuje czynnoÊci niezb´dne do wyjaÊnienia sprawy. W szczególnoÊci przes∏uchuje Êwiadków, obwinionego, przyjmuje od niego wyjaÊnienia, dokonuje ogl´dzin. Z czynnoÊci tych sporzàdza protoko∏y. Rzecznik dyscyplinarny mo˝e tak˝e zleciç przeprowadzenie odpowiednich badaƒ.
+1. Rzecznik dyscyplinarny zbiera materiał dowodowy ipodejmuje czynności niezbędne do wyjaśnienia sprawy. W szczególności przesłuchuje świadków, obwinionego, przyjmuje od niego wyjaśnienia, dokonuje oględzin. Z czynności tych sporządza protokoły. Rzecznik dyscyplinarny może także zlecić przeprowadzenie odpowiednich badań.
 
-2. ZczynnoÊci innych ni˝ wymienione wust. 1 sporzàdza si´ protokó∏, je˝eli przepis szczególny tego wymaga albo prze∏o˝ony dyscyplinarny lub rzecznik dyscyplinarny uzna to za potrzebne. W pozosta∏ych przypadkach mo˝na ograniczyç si´ do sporzàdzenia notatki urz´dowej.
+2. Zczynności innych niż wymienione wust. 1 sporządza się protokół, jeżeli przepis szczególny tego wymaga albo przełożony dyscyplinarny lub rzecznik dyscyplinarny uzna to za potrzebne. W pozostałych przypadkach można ograniczyć się do sporządzenia notatki urzędowej.
 
-3. Protokó∏ zawiera:
+3. Protokół zawiera:
 
-- **1)** oznaczenie czynnoÊci, jej czasu i miejsca, osób w niej uczestniczàcych lub obecnych oraz charakteru ich uczestnictwa;
-- **2)** opis przebiegu czynnoÊci;
-- **3)** w miar´ potrzeby:
-    - **a)** stwierdzenie innych okolicznoÊci dotyczàcych
+- **1)** oznaczenie czynności, jej czasu i miejsca, osób w niej uczestniczących lub obecnych oraz charakteru ich uczestnictwa;
+- **2)** opis przebiegu czynności;
+- **3)** w miarę potrzeby:
+    - **a)** stwierdzenie innych okoliczności dotyczących
 
-- **7)** pouczenie, czy i w jakim trybie przys∏uguje prawo z∏o˝enia za˝alenia;
-- **8)** podpis zpodaniem stopnia, imienia inazwiska wydajàcego postanowienie.
+- **7)** pouczenie, czy i w jakim trybie przysługuje prawo złożenia zażalenia;
+- **8)** podpis zpodaniem stopnia, imienia inazwiska wydającego postanowienie.
 
-8. W przypadku koniecznoÊci przeprowadzenia czynnoÊci poza miejscowoÊcià, w której toczy si´ post´powanie dyscyplinarne, prze∏o˝ony dyscyplinarny mo˝e zwróciç si´ o ich przeprowadzenie do kierownika jednostki organizacyjnej SKW albo SWW w∏aÊciwego wed∏ug miejsca, w którym czynnoÊç ma byç dokonana.
+8. W przypadku konieczności przeprowadzenia czynności poza miejscowością, w której toczy się postępowanie dyscyplinarne, przełożony dyscyplinarny może zwrócić się o ich przeprowadzenie do kierownika jednostki organizacyjnej SKW albo SWW właściwego według miejsca, w którym czynność ma być dokonana.
 
-9. Je˝eli czyn b´dàcy przedmiotem post´powania dyscyplinarnego jest lub by∏ przedmiotem innego post´powania, wtym post´powania przygotowawczego, prze∏o˝ony dyscyplinarny mo˝e zwróciç si´ do w∏aÊciwego organu o udost´pnienie akt tego post´powania wca∏oÊci lub wcz´Êci. Za zgodà tego organu, potrzebne odpisy lub wyciàgi zudost´pnionych akt w∏àcza si´ do akt post´powania dyscyplinarnego. przebiegu czynnoÊci,
+9. Jeżeli czyn będący przedmiotem postępowania dyscyplinarnego jest lub był przedmiotem innego postępowania, wtym postępowania przygotowawczego, przełożony dyscyplinarny może zwrócić się do właściwego organu o udostępnienie akt tego postępowania wcałości lub wczęści. Za zgodą tego organu, potrzebne odpisy lub wyciągi zudostępnionych akt włącza się do akt postępowania dyscyplinarnego. przebiegu czynności,
 
-- **b)** oÊwiadczenia i wnioski uczestników czynnoÊci,
-- **c)** pouczenie o uprawnieniach i obowiàzkach.
+- **b)** oświadczenia i wnioski uczestników czynności,
+- **c)** pouczenie o uprawnieniach i obowiązkach.
 
-4. WyjaÊnienia, zeznania, oÊwiadczenia i wnioski oraz stwierdzenia okreÊlonych okolicznoÊci przez rzecznika dyscyplinarnego lub kierownika jednostki organizacyjnej SKW albo SWW, o którym mowa wust. 8, zapisuje si´ wprotokole zmo˝liwà dok∏adnoÊcià, a osoby bioràce udzia∏ w czynnoÊci majà prawo ˝àdaç zapisania w protokole z pe∏nà dok∏adnoÊcià wszystkiego, co dotyczy ich praw i interesów.
+4. Wyjaśnienia, zeznania, oświadczenia i wnioski oraz stwierdzenia określonych okoliczności przez rzecznika dyscyplinarnego lub kierownika jednostki organizacyjnej SKW albo SWW, o którym mowa wust. 8, zapisuje się wprotokole zmożliwą dokładnością, a osoby biorące udział w czynności mają prawo żądać zapisania w protokole z pełną dokładnością wszystkiego, co dotyczy ich praw i interesów.
 
-5. Osoby bioràce udzia∏ w czynnoÊci, z której jest sporzàdzany protokó∏, atak˝e osoby obecne, po zapoznaniu si´ z treÊcià protoko∏u, podpisujà ka˝dà jego stron´. Odmow´ zapoznania si´ z treÊcià protoko∏u, atak˝e odmow´ lub brak podpisu którejkolwiek osoby nale˝y omówiç w protokole.
+5. Osoby biorące udział w czynności, z której jest sporządzany protokół, atakże osoby obecne, po zapoznaniu się z treścią protokołu, podpisują każdą jego stronę. Odmowę zapoznania się z treścią protokołu, atakże odmowę lub brak podpisu którejkolwiek osoby należy omówić w protokole.
 
-6. Rzecznik dyscyplinarny w toku post´powania wydaje postanowienia, je˝eli ich wydanie nie jest zastrze˝one do w∏aÊciwoÊci prze∏o˝onego dyscyplinarnego.
+6. Rzecznik dyscyplinarny w toku postępowania wydaje postanowienia, jeżeli ich wydanie nie jest zastrzeżone do właściwości przełożonego dyscyplinarnego.
 
-7. Postanowienie wydane w toku post´powania, zwyjàtkiem postanowienia owszcz´ciu post´powania dyscyplinarnego, powinno zawieraç:
+7. Postanowienie wydane w toku postępowania, zwyjątkiem postanowienia owszczęciu postępowania dyscyplinarnego, powinno zawierać:
 
-- **1)** stopieƒ, imi´ i nazwisko wydajàcego postanowienie rzecznika dyscyplinarnego lub prze∏o˝onego dyscyplinarnego;
-- **2)** dat´ wydania postanowienia;
-- **3)** podstaw´ prawnà wydania postanowienia;
-- **4)** stopieƒ, imi´ i nazwisko oraz stanowisko s∏u˝bowe obwinionego;
-- **5)** rozstrzygni´cie;
+- **1)** stopień, imię i nazwisko wydającego postanowienie rzecznika dyscyplinarnego lub przełożonego dyscyplinarnego;
+- **2)** datę wydania postanowienia;
+- **3)** podstawę prawną wydania postanowienia;
+- **4)** stopień, imię i nazwisko oraz stanowisko służbowe obwinionego;
+- **5)** rozstrzygnięcie;
 - **6)** uzasadnienie faktyczne i prawne;
 
-10. Je˝eli zebrany materia∏ dowodowy to uzasadnia, prze∏o˝ony dyscyplinarny wydaje postanowienie o zmianie lub uzupe∏nieniu zarzutów.
+10. Jeżeli zebrany materiał dowodowy to uzasadnia, przełożony dyscyplinarny wydaje postanowienie o zmianie lub uzupełnieniu zarzutów.
 
 **Art. 129.**
 
-1. Wtoku post´powania dyscyplinarnego obwiniony ma prawo do:
+1. Wtoku postępowania dyscyplinarnego obwiniony ma prawo do:
 
-- **1)** sk∏adania wyjaÊnieƒ;
-- **2)** odmowy sk∏adania wyjaÊnieƒ;
-- **3)** zg∏aszania wniosków dowodowych;
-- **4)** przeglàdania akt post´powania dyscyplinarnego oraz sporzàdzania z nich notatek;
-- **5)** ustanowienia obroƒcy spoÊród funkcjonariuszy;
-- **6)** wnoszenia do prze∏o˝onego dyscyplinarnego za˝aleƒ na postanowienia wydane w toku post´powania przez rzecznika dyscyplinarnego, w terminie 3 dni od dnia dor´czenia i w przypadkach wskazanych w ustawie; od postanowieƒ wydanych przez prze∏o˝onego dyscyplinarnego za˝alenie przys∏uguje odpowiednio do Szefa SKW iSzefa SWW.
+- **1)** składania wyjaśnień;
+- **2)** odmowy składania wyjaśnień;
+- **3)** zgłaszania wniosków dowodowych;
+- **4)** przeglądania akt postępowania dyscyplinarnego oraz sporządzania z nich notatek;
+- **5)** ustanowienia obrońcy spośród funkcjonariuszy;
+- **6)** wnoszenia do przełożonego dyscyplinarnego zażaleń na postanowienia wydane w toku postępowania przez rzecznika dyscyplinarnego, w terminie 3 dni od dnia doręczenia i w przypadkach wskazanych w ustawie; od postanowień wydanych przez przełożonego dyscyplinarnego zażalenie przysługuje odpowiednio do Szefa SKW iSzefa SWW.
 
-2. Rzecznik dyscyplinarny mo˝e, w drodze postanowienia, odmówiç udost´pnienia akt, je˝eli sprzeciwia si´ temu dobro post´powania dyscyplinarnego. Na postanowienie przys∏uguje za˝alenie.
+2. Rzecznik dyscyplinarny może, w drodze postanowienia, odmówić udostępnienia akt, jeżeli sprzeciwia się temu dobro postępowania dyscyplinarnego. Na postanowienie przysługuje zażalenie.
 
-3. Ustanowienie obroƒcy, je˝eli nie zawiera ograniczeƒ, uprawnia go do dzia∏ania w ca∏ym post´powaniu dyscyplinarnym, nie wy∏àczajàc czynnoÊci po uprawomocnieniu si´ orzeczenia. O zmianie zakresu pe∏nomocnictwa uprawniajàcego do dzia∏ania w post´powaniu dyscyplinarnym lub o jego cofni´ciu obwiniony niezw∏ocznie zawiadamia obroƒc´ oraz rzecznika dyscyplinarnego.
+3. Ustanowienie obrońcy, jeżeli nie zawiera ograniczeń, uprawnia go do działania w całym postępowaniu dyscyplinarnym, nie wyłączając czynności po uprawomocnieniu się orzeczenia. O zmianie zakresu pełnomocnictwa uprawniającego do działania w postępowaniu dyscyplinarnym lub o jego cofnięciu obwiniony niezwłocznie zawiadamia obrońcę oraz rzecznika dyscyplinarnego.
 
-4. Obroƒca nie mo˝e podejmowaç czynnoÊci na niekorzyÊç obwinionego. Mo˝e on zrezygnowaç z reprezentowania obwinionego w toku post´powania dyscyplinarnego, zawiadamiajàc o tym obwinionego oraz rzecznika dyscyplinarnego. Do czasu ustanowienia nowego obroƒcy, jednak nie d∏u˝ej ni˝ 14 dni od dnia zawiadomienia obwinionego, obroƒca jest obowiàzany podejmowaç niezb´dne czynnoÊci.
+4. Obrońca nie może podejmować czynności na niekorzyść obwinionego. Może on zrezygnować z reprezentowania obwinionego w toku postępowania dyscyplinarnego, zawiadamiając o tym obwinionego oraz rzecznika dyscyplinarnego. Do czasu ustanowienia nowego obrońcy, jednak nie dłużej niż 14 dni od dnia zawiadomienia obwinionego, obrońca jest obowiązany podejmować niezbędne czynności.
 
-5. Udzia∏ obroƒcy w post´powaniu dyscyplinarnym nie wy∏àcza osobistego dzia∏ania wnim obwinionego.
+5. Udział obrońcy w postępowaniu dyscyplinarnym nie wyłącza osobistego działania wnim obwinionego.
 
-6. Orzeczenia, postanowienia, zawiadomienia i inne pisma, wydane w toku post´powania dyscyplinarnego, dor´cza si´ obwinionemu oraz obroƒcy, je˝eli zosta∏ ustanowiony. W przypadku dor´czenia obwinionemu i obroƒcy w ró˝nych terminach pisma, od którego przys∏uguje odwo∏anie lub za˝alenie, termin do z∏o˝enia odwo∏ania lub za˝alenia liczy si´ od dnia dor´czenia, które nastàpi∏o wczeÊniej.
+6. Orzeczenia, postanowienia, zawiadomienia i inne pisma, wydane w toku postępowania dyscyplinarnego, doręcza się obwinionemu oraz obrońcy, jeżeli został ustanowiony. W przypadku doręczenia obwinionemu i obrońcy w różnych terminach pisma, od którego przysługuje odwołanie lub zażalenie, termin do złożenia odwołania lub zażalenia liczy się od dnia doręczenia, które nastąpiło wcześniej.
 
-7. Wniosek dowodowy obwiniony zg∏asza na piÊmie rzecznikowi dyscyplinarnemu, który rozstrzyga o uwzgl´dnieniu wniosku albo odmawia, w drodze postanowienia, uwzgl´dnienia wniosku, je˝eli:
+7. Wniosek dowodowy obwiniony zgłasza na piśmie rzecznikowi dyscyplinarnemu, który rozstrzyga o uwzględnieniu wniosku albo odmawia, w drodze postanowienia, uwzględnienia wniosku, jeżeli:
 
-- **1)** okolicznoÊç, która ma byç udowodniona, nie ma znaczenia dla rozstrzygni´cia sprawy albo jest ju˝ udowodniona zgodnie z twierdzeniem wnioskodawcy;
-- **2)** dowód jest nieprzydatny do stwierdzenia danej okolicznoÊci lub nie da si´ przeprowadziç;
+- **1)** okoliczność, która ma być udowodniona, nie ma znaczenia dla rozstrzygnięcia sprawy albo jest już udowodniona zgodnie z twierdzeniem wnioskodawcy;
+- **2)** dowód jest nieprzydatny do stwierdzenia danej okoliczności lub nie da się przeprowadzić;
 - **3)** przeprowadzenie dowodu jest sprzeczne z prawem.
 
-8. Na postanowienie w przedmiocie nieuwzgl´dnienia wniosku dowodowego przys∏uguje za˝alenie.
+8. Na postanowienie w przedmiocie nieuwzględnienia wniosku dowodowego przysługuje zażalenie.
 
-9. Nieusprawiedliwiona nieobecnoÊç obwinionego w s∏u˝bie, zwolnienie obwinionego od zaj´ç s∏u˝bowych z powodu choroby oraz nieusprawiedliwione niestawiennictwo na wezwanie rzecznika dyscyplinarnego nie wstrzymujà biegu post´powania dyscyplinarnego, a czynnoÊci, w których jest przewidziany udzia∏ obwinionego, nie przeprowadza si´ albo przeprowadza si´ w miejscu jego pobytu.
+9. Nieusprawiedliwiona nieobecność obwinionego w służbie, zwolnienie obwinionego od zajęć służbowych z powodu choroby oraz nieusprawiedliwione niestawiennictwo na wezwanie rzecznika dyscyplinarnego nie wstrzymują biegu postępowania dyscyplinarnego, a czynności, w których jest przewidziany udział obwinionego, nie przeprowadza się albo przeprowadza się w miejscu jego pobytu.
 
-10. Udzia∏ w czynnoÊciach dowodowych oraz zapoznanie zaktami post´powania dyscyplinarnego obwinionego zwolnionego od zaj´ç s∏u˝bowych zpowodu choroby wymaga zgody lekarza, który orzek∏ czasowà niezdolnoÊç obwinionego do s∏u˝by. W przypadku braku mo˝liwoÊci nawiàzania kontaktu z lekarzem lub zmiany lekarza zgody takiej mo˝e udzieliç lekarz, który obecnie leczy obwinionego, a w dalszej kolejnoÊci lekarz o takiej samej specjalnoÊci.
+10. Udział w czynnościach dowodowych oraz zapoznanie zaktami postępowania dyscyplinarnego obwinionego zwolnionego od zajęć służbowych zpowodu choroby wymaga zgody lekarza, który orzekł czasową niezdolność obwinionego do służby. W przypadku braku możliwości nawiązania kontaktu z lekarzem lub zmiany lekarza zgody takiej może udzielić lekarz, który obecnie leczy obwinionego, a w dalszej kolejności lekarz o takiej samej specjalności.
 
 **Art. 130.**
 
-1. Prze∏o˝ony dyscyplinarny i rzecznik dyscyplinarny sà obowiàzani badaç oraz uwzgl´dniaç okolicznoÊci przemawiajàce zarówno na korzyÊç, jak i na niekorzyÊç obwinionego.
+1. Przełożony dyscyplinarny i rzecznik dyscyplinarny są obowiązani badać oraz uwzględniać okoliczności przemawiające zarówno na korzyść, jak i na niekorzyść obwinionego.
 
-2. Obwinionego uwa˝a si´ za niewinnego, dopóki wina jego nie zostanie udowodniona i stwierdzona prawomocnym orzeczeniem. Niedajàce si´ usunàç wàtpliwoÊci rozstrzyga si´ na korzyÊç obwinionego.
+2. Obwinionego uważa się za niewinnego, dopóki wina jego nie zostanie udowodniona i stwierdzona prawomocnym orzeczeniem. Niedające się usunąć wątpliwości rozstrzyga się na korzyść obwinionego.
 
 **Art. 131.**
 
-1. CzynnoÊci dowodowe wpost´powaniu miesiàca od dnia wszcz´cia tego post´powania. Prze∏o˝ony dyscyplinarny, w drodze postanowienia, mo˝e przed∏u˝yç termin prowadzenia czynnoÊci dowodowych do 2 miesi´cy.
+1. Czynności dowodowe wpostępowaniu miesiąca od dnia wszczęcia tego postępowania. Przełożony dyscyplinarny, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych do 2 miesięcy.
 
-2. Szef SKW albo Szef SWW, w drodze postanowienia, mo˝e przed∏u˝yç termin prowadzenia czynnoÊci dowodowych na czas oznaczony powy˝ej 2 miesi´cy.
+2. Szef SKW albo Szef SWW, w drodze postanowienia, może przedłużyć termin prowadzenia czynności dowodowych na czas oznaczony powyżej 2 miesięcy.
 
-3. Prze∏o˝ony dyscyplinarny mo˝e zawiesiç post´powanie dyscyplinarne z powodu zaistnienia d∏ugotrwa∏ej przeszkody uniemo˝liwiajàcej prowadzenie post´powania. Na postanowienie o zawieszeniu post´powania dyscyplinarnego przys∏uguje za˝alenie w terminie 7 dni od dnia dor´czenia postanowienia. Je˝eli post´powanie dyscyplinarne zosta∏o wszcz´te z inicjatywy pokrzywdzonego, za˝alenie to mo˝e równie˝ z∏o˝yç pokrzywdzony.
+3. Przełożony dyscyplinarny może zawiesić postępowanie dyscyplinarne z powodu zaistnienia długotrwałej przeszkody uniemożliwiającej prowadzenie postępowania. Na postanowienie o zawieszeniu postępowania dyscyplinarnego przysługuje zażalenie w terminie 7 dni od dnia doręczenia postanowienia. Jeżeli postępowanie dyscyplinarne zostało wszczęte z inicjatywy pokrzywdzonego, zażalenie to może również złożyć pokrzywdzony.
 
-4. Prze∏o˝ony dyscyplinarny wydaje postanowienie o podj´ciu zawieszonego post´powania dyscyplinarnego po ustaniu przeszkody, o której mowa w ust. 3.
+4. Przełożony dyscyplinarny wydaje postanowienie o podjęciu zawieszonego postępowania dyscyplinarnego po ustaniu przeszkody, o której mowa w ust. 3.
 
 **Art. 132.**
 
-1. Rzecznik dyscyplinarny, po przeprowadzeniu czynnoÊci dowodowych i uznaniu, ˝e zosta∏y wyjaÊnione wszystkie istotne okolicznoÊci sprawy, zapoznaje obwinionego z aktami post´powania dyscyplinarnego.
+1. Rzecznik dyscyplinarny, po przeprowadzeniu czynności dowodowych i uznaniu, że zostały wyjaśnione wszystkie istotne okoliczności sprawy, zapoznaje obwinionego z aktami postępowania dyscyplinarnego.
 
-2. Obroƒca mo˝e zapoznaç si´ z aktami post´powania dyscyplinarnego, o których mowa w ust. 1, nie póêniej ni˝ do dnia zapoznania obwinionego ztymi aktami.
+2. Obrońca może zapoznać się z aktami postępowania dyscyplinarnego, o których mowa w ust. 1, nie póêniej niż do dnia zapoznania obwinionego ztymi aktami.
 
-3. Z czynnoÊci zapoznania z aktami post´powania dyscyplinarnego sporzàdza si´ protokó∏.
+3. Z czynności zapoznania z aktami postępowania dyscyplinarnego sporządza się protokół.
 
-4. Odmowa zapoznania si´ zaktami post´powania lub z∏o˝enia podpisu stwierdzajàcego t´ okolicznoÊç nie wstrzymuje post´powania. Rzecznik dyscyplinarny dokonuje wzmianki o odmowie w aktach post´powania.
+4. Odmowa zapoznania się zaktami postępowania lub złożenia podpisu stwierdzającego tę okoliczność nie wstrzymuje postępowania. Rzecznik dyscyplinarny dokonuje wzmianki o odmowie w aktach postępowania.
 
-5. Obwiniony ma prawo w terminie 3 dni od dnia zapoznania si´ z aktami post´powania dyscyplinarnego zg∏osiç wniosek o ich uzupe∏nienie. Na wydane przez rzecznika dyscyplinarnego postanowienie o odmowie uzupe∏nienia akt post´powania dyscyplinarnego obwinionemu s∏u˝y prawo z∏o˝enia za˝alenia.
+5. Obwiniony ma prawo w terminie 3 dni od dnia zapoznania się z aktami postępowania dyscyplinarnego zgłosić wniosek o ich uzupełnienie. Na wydane przez rzecznika dyscyplinarnego postanowienie o odmowie uzupełnienia akt postępowania dyscyplinarnego obwinionemu służy prawo złożenia zażalenia.
 
-6. Obwiniony ma prawo w terminie 3 dni od dnia zapoznania si´ z uzupe∏nionymi aktami post´powania dyscyplinarnego zg∏osiç wniosek o ich uzupe∏nienie w zakresie wynikajàcym z przeprowadzonych czynnoÊci dowodowych uzupe∏niajàcych akta tego post´powania.
+6. Obwiniony ma prawo w terminie 3 dni od dnia zapoznania się z uzupełnionymi aktami postępowania dyscyplinarnego zgłosić wniosek o ich uzupełnienie w zakresie wynikającym z przeprowadzonych czynności dowodowych uzupełniających akta tego postępowania.
 
-7. Rzecznik dyscyplinarny, po zapoznaniu obwinionego z aktami post´powania dyscyplinarnego, wydaje postanowienie o zakoƒczeniu czynnoÊci dowodowych oraz sporzàdza sprawozdanie, które:
+7. Rzecznik dyscyplinarny, po zapoznaniu obwinionego z aktami postępowania dyscyplinarnego, wydaje postanowienie o zakończeniu czynności dowodowych oraz sporządza sprawozdanie, które:
 
-- **1)** wskazuje prowadzàcego post´powanie iprze∏o˝odyscyplinarnym powinny byç zakoƒczone w terminie nego dyscyplinarnego, który wyda∏ postanowienie o wszcz´ciu post´powania dyscyplinarnego;
-- **2)** wskazuje obwinionego oraz okreÊla zarzucane mu 7. Orzeczenie, októrym mowa wust. 1, dor´cza si´ przewinienie dyscyplinarne, z opisem stanu fak- niezw∏ocznie obwinionemu. tycznego ustalonym na podstawie zebranych dowodów; 8. Je˝eli prze∏o˝ony dyscyplinarny uzna, ˝e nale˝y wymierzyç kar´ dyscyplinarnà, do której wymierzenia
-- **3)** przedstawia wnioski dotyczàce uniewinnienia, od- nie jest uprawniony, wniosek w tej sprawie wraz z akstàpienia od ukarania lub wymierzenia kary albo tami post´powania dyscyplinarnego przesy∏a odpoumorzenia post´powania. wiednio Szefowi SKW i Szefowi SWW.
+- **1)** wskazuje prowadzącego postępowanie iprzełożodyscyplinarnym powinny być zakończone w terminie nego dyscyplinarnego, który wydał postanowienie o wszczęciu postępowania dyscyplinarnego;
+- **2)** wskazuje obwinionego oraz określa zarzucane mu 7. Orzeczenie, októrym mowa wust. 1, doręcza się przewinienie dyscyplinarne, z opisem stanu fak- niezwłocznie obwinionemu. tycznego ustalonym na podstawie zebranych dowodów; 8. Jeżeli przełożony dyscyplinarny uzna, że należy wymierzyć karę dyscyplinarną, do której wymierzenia
+- **3)** przedstawia wnioski dotyczące uniewinnienia, od- nie jest uprawniony, wniosek w tej sprawie wraz z akstąpienia od ukarania lub wymierzenia kary albo tami postępowania dyscyplinarnego przesyła odpoumorzenia postępowania. wiednio Szefowi SKW i Szefowi SWW.
 
 **Art. 133.**
 
-1. Na podstawie oceny zebranego w po- 9. Wprzypadku zamiaru wymierzenia kary wydalest´powaniu dyscyplinarnym materia∏u dowodowego nia ze s∏u˝by w SKW albo SWW, odpowiednio Szef prze∏o˝ony dyscyplinarny wydaje orzeczenie o: SKW i Szef SWW, przed wydaniem orzeczenia dyscy1) uniewinnieniu albo plinarnego, wzywa obwinionego w celu wys∏uchania go. W wys∏uchaniu uczestniczy rzecznik dyscyplinar2) odstàpieniu od ukarania, albo ny. Obwinionemu dor´cza si´ sprawozdanie w terminie umo˝liwiajàcym zapoznanie si´ znim przed wys∏u3) ukaraniu, albo chaniem.
+1. Na podstawie oceny zebranego w po- 9. Wprzypadku zamiaru wymierzenia kary wydalestępowaniu dyscyplinarnym materiału dowodowego nia ze służby w SKW albo SWW, odpowiednio Szef przełożony dyscyplinarny wydaje orzeczenie o: SKW i Szef SWW, przed wydaniem orzeczenia dyscy1) uniewinnieniu albo plinarnego, wzywa obwinionego w celu wysłuchania go. W wysłuchaniu uczestniczy rzecznik dyscyplinar2) odstąpieniu od ukarania, albo ny. Obwinionemu doręcza się sprawozdanie w terminie umożliwiającym zapoznanie się znim przed wysłu3) ukaraniu, albo chaniem.
 
-- **4)** umorzeniu post´powania. 10. Przepisu ust. 9 nie stosuje si´ w przypadku:
+- **4)** umorzeniu postępowania. 10. Przepisu ust. 9 nie stosuje się w przypadku:
 
-2. Orzeczenie powinno zawieraç: 1) tymczasowego aresztowania obwinionego;
+2. Orzeczenie powinno zawierać: 1) tymczasowego aresztowania obwinionego;
 
-- **1)** oznaczenie prze∏o˝onego dyscyplinarnego; 2) odmowy obwinionego stawienia si´ lub nieuspra2) dat´ wydania orzeczenia; wiedliwionej nieobecnoÊci;
-- **3)** stopieƒ, imi´ i nazwisko oraz stanowisko s∏u˝bo- 3) zaistnienia innej przeszkody uniemo˝liwiajàcej obwe obwinionego; winionemu stawienie si´ w terminie 14 dni od dnia dor´czenia postanowienia o zakoƒczeniu
-- **4)** opis przewinienia dyscyplinarnego zarzucanego czynnoÊci dowodowych. obwinionemu wraz z kwalifikacjà prawnà;
+- **1)** oznaczenie przełożonego dyscyplinarnego; 2) odmowy obwinionego stawienia się lub nieuspra2) datę wydania orzeczenia; wiedliwionej nieobecności;
+- **3)** stopień, imię i nazwisko oraz stanowisko służbo- 3) zaistnienia innej przeszkody uniemożliwiającej obwe obwinionego; winionemu stawienie się w terminie 14 dni od dnia doręczenia postanowienia o zakończeniu
+- **4)** opis przewinienia dyscyplinarnego zarzucanego czynności dowodowych. obwinionemu wraz z kwalifikacją prawną;
 
 **Art. 134.**
 
-1. Post´powanie dyscyplinarne jest dwu5) rozstrzygni´cie o uniewinnieniu, stwierdzeniu wi- instancyjne. Od orzeczenia wydanego w pierwszej inny i odstàpieniu od ukarania lub wymierzeniu ka- stancji obwinionemu przys∏uguje odwo∏anie w termiry dyscyplinarnej albo umorzeniu post´powania nie 7 dni od dnia dor´czenia orzeczenia. dyscyplinarnego;
+1. Postępowanie dyscyplinarne jest dwu5) rozstrzygnięcie o uniewinnieniu, stwierdzeniu wi- instancyjne. Od orzeczenia wydanego w pierwszej inny i odstąpieniu od ukarania lub wymierzeniu ka- stancji obwinionemu przysługuje odwołanie w termiry dyscyplinarnej albo umorzeniu postępowania nie 7 dni od dnia doręczenia orzeczenia. dyscyplinarnego;
 
-2. Odwo∏anie sk∏ada si´ odpowiednio do Szefa
+2. Odwołanie składa się odpowiednio do Szefa
 
-- **6)** uzasadnienie faktyczne i prawne orzeczenia; SKW i Szefa SWW za poÊrednictwem prze∏o˝onego
-- **7)** pouczenie o prawie, terminie i trybie wniesienia dyscyplinarnego, który wyda∏ orzeczenie w pierwszej odwo∏ania; instancji.
-- **8)** podpis, z podaniem stopnia, imienia i nazwiska 3. Szef SKW albo Szef SWW odmawia przyj´cia prze∏o˝onego dyscyplinarnego, oraz piecz´ç jed- odwo∏ania, w drodze postanowienia, je˝eli zosta∏o nostki organizacyjnej SKW albo SWW. wniesione po terminie lub przez osob´ nieuprawnionà albo jest niedopuszczalne. Postanowienie w tej spra3. Prze∏o˝ony dyscyplinarny uchyla postanowie- wie jest ostateczne. nie, o którym mowa w art. 132 ust. 7, oraz przekazuje akta sprawy rzecznikowi dyscyplinarnemu do uzupe∏- 4. Je˝eli orzeczenie lub postanowienie wpierwszej nienia, wprzypadku stwierdzenia, ˝e nie zosta∏y wyja- instancji wyda∏ odpowiednio Szef SKW i Szef SWW, Ênione wszystkie okolicznoÊci sprawy. odwo∏anie lub za˝alenie nie przys∏uguje. Obwiniony mo˝e jednak w terminie, o którym mowa w ust. 1,
+- **6)** uzasadnienie faktyczne i prawne orzeczenia; SKW i Szefa SWW za pośrednictwem przełożonego
+- **7)** pouczenie o prawie, terminie i trybie wniesienia dyscyplinarnego, który wydał orzeczenie w pierwszej odwołania; instancji.
+- **8)** podpis, z podaniem stopnia, imienia i nazwiska 3. Szef SKW albo Szef SWW odmawia przyjęcia przełożonego dyscyplinarnego, oraz pieczęć jed- odwołania, w drodze postanowienia, jeżeli zostało nostki organizacyjnej SKW albo SWW. wniesione po terminie lub przez osobę nieuprawnioną albo jest niedopuszczalne. Postanowienie w tej spra3. Przełożony dyscyplinarny uchyla postanowie- wie jest ostateczne. nie, o którym mowa w art. 132 ust. 7, oraz przekazuje akta sprawy rzecznikowi dyscyplinarnemu do uzupeł- 4. Jeżeli orzeczenie lub postanowienie wpierwszej nienia, wprzypadku stwierdzenia, że nie zostały wyja- instancji wydał odpowiednio Szef SKW i Szef SWW, śnione wszystkie okoliczności sprawy. odwołanie lub zażalenie nie przysługuje. Obwiniony może jednak w terminie, o którym mowa w ust. 1,
 
-4. Prze∏o˝ony dyscyplinarny umarza post´powa- zwróciç si´ odpowiednio do Szefa SKW i Szefa SWW nie dyscyplinarne w przypadkach, o których mowa z wnioskiem o ponowne rozpatrzenie sprawy; do w art. 125 ust. 1, albo gdy sta∏o si´ ono bezprzed- wniosku tego stosuje si´ odpowiednio przepisy dotymiotowe z innej przyczyny. czàce odwo∏aƒ od orzeczeƒ.
+4. Przełożony dyscyplinarny umarza postępowa- zwrócić się odpowiednio do Szefa SKW i Szefa SWW nie dyscyplinarne w przypadkach, o których mowa z wnioskiem o ponowne rozpatrzenie sprawy; do w art. 125 ust. 1, albo gdy stało się ono bezprzed- wniosku tego stosuje się odpowiednio przepisy dotymiotowe z innej przyczyny. czące odwołań od orzeczeń.
 
-5. Prze∏o˝ony dyscyplinarny mo˝e odstàpiç od Art. 135. 1. Wpost´powaniu odwo∏awczym rozpoukarania, je˝eli stopieƒ winy lub stopieƒ szkodliwoÊci znanie sprawy nast´puje na podstawie stanu faktyczprzewinienia dyscyplinarnego dla s∏u˝by nie jest nego ustalonego w post´powaniu dyscyplinarnym. znaczny, a w∏aÊciwoÊci i warunki osobiste funkcjona- Je˝eli jest to potrzebne do prawid∏owego wydania riusza oraz dotychczasowy przebieg s∏u˝by uzasadnia- orzeczenia, Szef SKW albo Szef SWW mo˝e uzupe∏niç jà przypuszczenie, ˝e pomimo odstàpienia od ukara- materia∏ dowodowy, zlecajàc rzecznikowi dyscyplinarnia b´dzie on przestrzega∏ dyscypliny s∏u˝bowej oraz nemu prowadzàcemu post´powanie dyscyplinarne zasad etyki zawodowej. wykonanie czynnoÊci dowodowych, okreÊlajàc ich zakres.
+5. Przełożony dyscyplinarny może odstąpić od Art. 135. 1. Wpostępowaniu odwoławczym rozpoukarania, jeżeli stopień winy lub stopień szkodliwości znanie sprawy następuje na podstawie stanu faktyczprzewinienia dyscyplinarnego dla służby nie jest nego ustalonego w postępowaniu dyscyplinarnym. znaczny, a właściwości i warunki osobiste funkcjona- Jeżeli jest to potrzebne do prawidłowego wydania riusza oraz dotychczasowy przebieg służby uzasadnia- orzeczenia, Szef SKW albo Szef SWW może uzupełnić ją przypuszczenie, że pomimo odstąpienia od ukara- materiał dowodowy, zlecając rzecznikowi dyscyplinarnia będzie on przestrzegał dyscypliny służbowej oraz nemu prowadzącemu postępowanie dyscyplinarne zasad etyki zawodowej. wykonanie czynności dowodowych, określając ich zakres.
 
-6. Orzeczenie, októrym mowa wust. 1, wraz zuzasadnieniem sporzàdza si´ na piÊmie nie póêniej ni˝ 2. Z materia∏ami uzyskanymi w wyniku czynnoÊci w terminie 14 dni od dnia wydania postanowienia dowodowych, o których mowa w ust. 1, rzecznik dyso zakoƒczeniu czynnoÊci dowodowych. cyplinarny zapoznaje obwinionego. W terminie 3 dni od dnia zapoznania obwiniony ma prawo zg∏oszenia odpowiednio Szefowi SKW i Szefowi SWW uwag dotyczàcych przeprowadzonych czynnoÊci dowodowych.
+6. Orzeczenie, októrym mowa wust. 1, wraz zuzasadnieniem sporządza się na piśmie nie póêniej niż 2. Z materiałami uzyskanymi w wyniku czynności w terminie 14 dni od dnia wydania postanowienia dowodowych, o których mowa w ust. 1, rzecznik dyso zakończeniu czynności dowodowych. cyplinarny zapoznaje obwinionego. W terminie 3 dni od dnia zapoznania obwiniony ma prawo zgłoszenia odpowiednio Szefowi SKW i Szefowi SWW uwag dotyczących przeprowadzonych czynności dowodowych.
 
 **Art. 136.**
 
-1. Szef SKW albo Szef SWW, w terminie 7 dni od dnia wniesienia odwo∏ania mo˝e powo∏aç komisj´ do zbadania zaskar˝onego orzeczenia, zwanà dalej „komisjà”.
+1. Szef SKW albo Szef SWW, w terminie 7 dni od dnia wniesienia odwołania może powołać komisję do zbadania zaskarżonego orzeczenia, zwaną dalej Ńkomisją”.
 
-2. Komisja sk∏ada si´ z trzech funkcjonariuszy.
+2. Komisja składa się z trzech funkcjonariuszy.
 
-3. Przepisy art. 126 ust. 8 i9 stosuje si´ odpowiednio do cz∏onków komisji.
+3. Przepisy art. 126 ust. 8 i9 stosuje się odpowiednio do członków komisji.
 
-4. Komisja mo˝e wys∏uchaç rzecznika dyscyplinarnego, obwinionego lub jego obroƒc´.
+4. Komisja może wysłuchać rzecznika dyscyplinarnego, obwinionego lub jego obrońcę.
 
-5. Niestawiennictwo prawid∏owo zawiadomionych: rzecznika dyscyplinarnego, obwinionego lub jego obroƒcy nie wstrzymuje rozpoznawania sprawy.
+5. Niestawiennictwo prawidłowo zawiadomionych: rzecznika dyscyplinarnego, obwinionego lub jego obrońcy nie wstrzymuje rozpoznawania sprawy.
 
-6. Komisja mo˝e wystàpiç do wy˝szego prze∏o˝onego dyscyplinarnego o uzupe∏nienie materia∏u dowodowego w trybie art. 135 ust. 1.
+6. Komisja może wystąpić do wyższego przełożonego dyscyplinarnego o uzupełnienie materiału dowodowego w trybie art. 135 ust. 1.
 
 **Art. 137.**
 
-1. Z przeprowadzonych czynnoÊci komisja sporzàdza sprawozdanie wraz z wnioskiem dotyczàcym sposobu za∏atwienia odwo∏ania.
+1. Z przeprowadzonych czynności komisja sporządza sprawozdanie wraz z wnioskiem dotyczącym sposobu załatwienia odwołania.
 
-2. Komisja przedstawia odpowiednio Szefowi SKW i Szefowi SWW sprawozdanie, o którym mowa w ust. 1, w terminie 21 dni od dnia jej powo∏ania.
+2. Komisja przedstawia odpowiednio Szefowi SKW i Szefowi SWW sprawozdanie, o którym mowa w ust. 1, w terminie 21 dni od dnia jej powołania.
 
-3. Rozpatrzenie odwo∏ania przez Szefa SKW albo Szefa SWW powinno nastàpiç w terminie 14 dni od dnia wp∏ywu odwo∏ania, awprzypadku powo∏ania komisji wterminie 7 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1.
+3. Rozpatrzenie odwołania przez Szefa SKW albo Szefa SWW powinno nastąpić w terminie 14 dni od dnia wpływu odwołania, awprzypadku powołania komisji wterminie 7 dni od dnia otrzymania sprawozdania, o którym mowa w ust. 1.
 
-4. Szef SKW albo Szef SWW mo˝e zaskar˝one orzeczenie:
+4. Szef SKW albo Szef SWW może zaskarżone orzeczenie:
 
-- **1)** utrzymaç w mocy albo
-- **2)** uchyliç w ca∏oÊci albo w cz´Êci i w tym zakresie uniewinniç obwinionego, odstàpiç od ukarania, wzgl´dnie wymierzyç innà kar´, bàdê uchylajàc to orzeczenie umorzyç post´powanie dyscyplinarne w pierwszej instancji, albo
-- **3)** uchyliç wca∏oÊci iprzekazaç spraw´ do ponownego rozpatrzenia przez prze∏o˝onego dyscyplinarnego, gdy rozstrzygni´cie sprawy wymaga przeprowadzenia czynnoÊci dowodowych w ca∏oÊci lub w znacznej cz´Êci.
+- **1)** utrzymać w mocy albo
+- **2)** uchylić w całości albo w części i w tym zakresie uniewinnić obwinionego, odstąpić od ukarania, względnie wymierzyć inną karę, bądê uchylając to orzeczenie umorzyć postępowanie dyscyplinarne w pierwszej instancji, albo
+- **3)** uchylić wcałości iprzekazać sprawę do ponownego rozpatrzenia przez przełożonego dyscyplinarnego, gdy rozstrzygnięcie sprawy wymaga przeprowadzenia czynności dowodowych w całości lub w znacznej części.
 
-5. Post´powanie odwo∏awcze umarza si´ w przypadku cofni´cia odwo∏ania.
+5. Postępowanie odwoławcze umarza się w przypadku cofnięcia odwołania.
 
-6. W post´powaniu odwo∏awczym Szef SKW albo Szef SWW nie mo˝e wymierzyç surowszej kary dyscyplinarnej, chyba ˝e zaskar˝one orzeczenie ra˝àco narusza prawo lub interes s∏u˝by.
+6. W postępowaniu odwoławczym Szef SKW albo Szef SWW nie może wymierzyć surowszej kary dyscyplinarnej, chyba że zaskarżone orzeczenie rażąco narusza prawo lub interes służby.
 
 **Art. 138.**
 
-1. Orzeczenie lub postanowienie staje si´ prawomocne:
+1. Orzeczenie lub postanowienie staje się prawomocne:
 
-- **1)** z up∏ywem terminu do wniesienia odwo∏ania lub
-- **2)** w dniu wydania przez organ odwo∏awczy orzeczenia lub postanowienia koƒczàcego post´powanie.
+- **1)** z upływem terminu do wniesienia odwołania lub
+- **2)** w dniu wydania przez organ odwoławczy orzeczenia lub postanowienia kończącego postępowanie.
 
-2. Prze∏o˝ony dyscyplinarny, po uprawomocnieniu si´ orzeczenia lub postanowienia, niezw∏ocznie wykonuje orzeczonà kar´.
+2. Przełożony dyscyplinarny, po uprawomocnieniu się orzeczenia lub postanowienia, niezwłocznie wykonuje orzeczoną karę.
 
-3. Prze∏o˝ony w∏aÊciwy w sprawach osobowych po uprawomocnieniu si´ orzeczenia niezw∏ocznie wykonuje kar´ ostrze˝enia o niepe∏nej przydatnoÊci do s∏u˝by na zajmowanym stanowisku.
+3. Przełożony właściwy w sprawach osobowych po uprawomocnieniu się orzeczenia niezwłocznie wykonuje karę ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku.
 
-4. Prze∏o˝ony, o którym mowa w ust. 3, po uprawomocnieniu si´ orzeczenia niezw∏ocznie wykonuje kar´: wyznaczenia na ni˝sze stanowisko s∏u˝bowe, wydalenia ze s∏u˝by przez wydanie decyzji odpowiednio o: zwolnieniu lub odwo∏aniu ukaranego z dotychczas zajmowanego stanowiska s∏u˝bowego i mianowaniu go na ni˝sze stanowisko s∏u˝bowe albo zwolnieniu ukaranego funkcjonariusza ze s∏u˝by.
+4. Przełożony, o którym mowa w ust. 3, po uprawomocnieniu się orzeczenia niezwłocznie wykonuje karę: wyznaczenia na niższe stanowisko służbowe, wydalenia ze służby przez wydanie decyzji odpowiednio o: zwolnieniu lub odwołaniu ukaranego z dotychczas zajmowanego stanowiska służbowego i mianowaniu go na niższe stanowisko służbowe albo zwolnieniu ukaranego funkcjonariusza ze służby.
 
-5. Prawomocne orzeczenie oodstàpieniu od ukarania albo o ukaraniu oraz prawomocne postanowienie za˝alenia, je˝eli go nie wniesiono; oodstàpieniu od wszcz´cia post´powania dyscyplinarnego w∏àcza si´ do akt osobowych funkcjonariusza.
+5. Prawomocne orzeczenie oodstąpieniu od ukarania albo o ukaraniu oraz prawomocne postanowienie zażalenia, jeżeli go nie wniesiono; oodstąpieniu od wszczęcia postępowania dyscyplinarnego włącza się do akt osobowych funkcjonariusza.
 
 **Art. 139.**
 
-1. Wzakresie nieuregulowanym wniniejszej ustawie do post´powania dyscyplinarnego stosuje si´ odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks post´powania karnego, dotyczàce wezwaƒ, terminów, dor´czeƒ i Êwiadków, z wy∏àczeniem mo˝liwoÊci nak∏adania kar porzàdkowych oraz zatrzymania i doprowadzenia Êwiadków. W post´powaniu dyscyplinarnym do Êwiadków nie stosuje si´ art. 184 ustawy zdnia 6 czerwca 1997 r. Kodeks post´powania karnego.
+1. Wzakresie nieuregulowanym wniniejszej ustawie do postępowania dyscyplinarnego stosuje się odpowiednio przepisy ustawy z dnia 6 czerwca 1997 r. Kodeks postępowania karnego, dotyczące wezwań, terminów, doręczeń i świadków, z wyłączeniem możliwości nakładania kar porządkowych oraz zatrzymania i doprowadzenia świadków. W postępowaniu dyscyplinarnym do świadków nie stosuje się art. 184 ustawy zdnia 6 czerwca 1997 r. Kodeks postępowania karnego.
 
-2. Ozwolnieniu od z∏o˝enia zeznania lub odpowiedzi na pytania osoby pozostajàcej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga rzecznik dyscyplinarny. Na odmow´ zwolnienia od z∏o˝enia zeznania lub odpowiedzi na pytania s∏u˝y za˝alenie w terminie 3 dni od dnia dor´czenia postanowienia.
+2. Ozwolnieniu od złożenia zeznania lub odpowiedzi na pytania osoby pozostającej z obwinionym w szczególnie bliskim stosunku osobistym rozstrzyga rzecznik dyscyplinarny. Na odmowę zwolnienia od złożenia zeznania lub odpowiedzi na pytania służy zażalenie w terminie 3 dni od dnia doręczenia postanowienia.
 
 **Art. 140.**
 
-1. Zatarcie kary dyscyplinarnej oznacza uznanie kary za nieby∏à.
+1. Zatarcie kary dyscyplinarnej oznacza uznanie kary za niebyłą.
 
-2. Kary dyscyplinarne podlegajà zatarciu po up∏ywie:
+2. Kary dyscyplinarne podlegają zatarciu po upływie:
 
-- **1)** 3 miesi´cy od dnia wykonania kary upomnienia;
-- **2)** 6 miesi´cy od dnia wykonania kary nagany;
-- **3)** 9 miesi´cy od dnia wykonania kary surowej nagany i nagany z ostrze˝eniem;
-- **4)** 12 miesi´cy od dnia wykonania kary ostrze˝enia o niepe∏nej przydatnoÊci do s∏u˝by na zajmowanym stanowisku;
-- **5)** 15 miesi´cy od dnia wykonania kary wyznaczenia na ni˝sze stanowisko s∏u˝bowe oraz obni˝enia stopnia;
-- **6)** 18 miesi´cy od dnia wykonania kary pozbawienia stopnia oficerskiego;
-- **7)** 24 miesi´cy od dnia wykonania kary ostrze˝enia o niepe∏nej przydatnoÊci do s∏u˝by.
+- **1)** 3 miesięcy od dnia wykonania kary upomnienia;
+- **2)** 6 miesięcy od dnia wykonania kary nagany;
+- **3)** 9 miesięcy od dnia wykonania kary surowej nagany i nagany z ostrzeżeniem;
+- **4)** 12 miesięcy od dnia wykonania kary ostrzeżenia o niepełnej przydatności do służby na zajmowanym stanowisku;
+- **5)** 15 miesięcy od dnia wykonania kary wyznaczenia na niższe stanowisko służbowe oraz obniżenia stopnia;
+- **6)** 18 miesięcy od dnia wykonania kary pozbawienia stopnia oficerskiego;
+- **7)** 24 miesięcy od dnia wykonania kary ostrzeżenia o niepełnej przydatności do służby.
 
-3. W przypadku nienagannej s∏u˝by, stwierdzonej w opinii s∏u˝bowej, prze∏o˝ony dyscyplinarny mo˝e zatrzeç kar´ dyscyplinarnà przed up∏ywem terminu okreÊlonego w ust. 2, jednak w przypadku kar, o których mowa wart. 109 ust. 1 pkt 5—9 nie wczeÊniej ni˝ przed up∏ywem po∏owy terminów, okreÊlonych w ust. 2 pkt 4—7.
+3. W przypadku nienagannej służby, stwierdzonej w opinii służbowej, przełożony dyscyplinarny może zatrzeć karę dyscyplinarną przed upływem terminu określonego w ust. 2, jednak w przypadku kar, o których mowa wart. 109 ust. 1 pkt 5—9 nie wcześniej niż przed upływem połowy terminów, określonych w ust. 2 pkt 4—7.
 
-4. Za wykazanie m´stwa lub odwagi oraz znaczàce wyniki w s∏u˝bie prze∏o˝ony dyscyplinarny mo˝e w ka˝dym czasie zatrzeç kar´ dyscyplinarnà.
+4. Za wykazanie męstwa lub odwagi oraz znaczące wyniki w służbie przełożony dyscyplinarny może w każdym czasie zatrzeć karę dyscyplinarną.
 
-5. Je˝eli funkcjonariusz zostanie ponownie ukarany przed zatarciem kary dyscyplinarnej, okres wymagany do zatarcia nieodbytej kary biegnie na nowo od dnia orzeczenia nowej kary.
+5. Jeżeli funkcjonariusz zostanie ponownie ukarany przed zatarciem kary dyscyplinarnej, okres wymagany do zatarcia nieodbytej kary biegnie na nowo od dnia orzeczenia nowej kary.
 
-6. W przypadku jednoczesnego wykonywania wi´cej ni˝ jednej kary dyscyplinarnej zatarcie kar nast´puje zup∏ywem terminu przewidzianego dla kary surowszej.
+6. W przypadku jednoczesnego wykonywania więcej niż jednej kary dyscyplinarnej zatarcie kar następuje zupływem terminu przewidzianego dla kary surowszej.
 
-7. Zatarcie kary dyscyplinarnej powoduje usuni´cie zakt osobowych funkcjonariusza orzeczenia oukaraniu. Orzeczenie oodstàpieniu od ukarania usuwa si´ z akt osobowych po up∏ywie 6 miesi´cy od dnia jego uprawomocnienia si´, przepisy ust. 3 i 4 stosuje si´ odpowiednio.
+7. Zatarcie kary dyscyplinarnej powoduje usunięcie zakt osobowych funkcjonariusza orzeczenia oukaraniu. Orzeczenie oodstąpieniu od ukarania usuwa się z akt osobowych po upływie 6 miesięcy od dnia jego uprawomocnienia się, przepisy ust. 3 i 4 stosuje się odpowiednio.
 
 **Art. 141.**
 
-1. Post´powanie dyscyplinarne zakoƒczone prawomocnym orzeczeniem wznawia si´, je˝eli:
+1. Postępowanie dyscyplinarne zakończone prawomocnym orzeczeniem wznawia się, jeżeli:
 
-- **1)** dowody, na podstawie których ustalono istotne dla sprawy okolicznoÊci, okaza∏y si´ fa∏szywe;
-- **2)** zosta∏y ujawnione istotne dla sprawy okolicznoÊci, które nie by∏y znane w toku post´powania dyscyplinarnego;
-- **3)** orzeczenie wydano z naruszeniem obowiàzujàcych przepisów, je˝eli mog∏o to mieç wp∏yw na treÊç orzeczenia;
-- **4)** orzeczenie zosta∏o wydane woparciu oinnà decyzj´ lub orzeczenie sàdu, które zosta∏y nast´pnie uchylone lub zmienione.
+- **1)** dowody, na podstawie których ustalono istotne dla sprawy okoliczności, okazały się fałszywe;
+- **2)** zostały ujawnione istotne dla sprawy okoliczności, które nie były znane w toku postępowania dyscyplinarnego;
+- **3)** orzeczenie wydano z naruszeniem obowiązujących przepisów, jeżeli mogło to mieć wpływ na treść orzeczenia;
+- **4)** orzeczenie zostało wydane woparciu oinną decyzję lub orzeczenie sądu, które zostały następnie uchylone lub zmienione.
 
-2. Post´powanie dyscyplinarne wznawia si´ na wniosek ukaranego lub obwinionego, albo wprzypadku jego Êmierci na wniosek cz∏onka rodziny uprawnionego do renty rodzinnej, je˝eli w wyniku orzeczenia Trybuna∏u Konstytucyjnego straci∏ moc lub uleg∏ ci, na wniosek cz∏onka rodziny uprawnionego do renty rodzinnej. O wznowieniu post´powania dyscyplinarnego zurz´du zawiadamia si´ ukaranego lub obwinionego albo, w przypadku jego Êmierci, cz∏onka rodziny uprawnionego do renty rodzinnej.
+2. Postępowanie dyscyplinarne wznawia się na wniosek ukaranego lub obwinionego, albo wprzypadku jego śmierci na wniosek członka rodziny uprawnionego do renty rodzinnej, jeżeli w wyniku orzeczenia Trybunału Konstytucyjnego stracił moc lub uległ ci, na wniosek członka rodziny uprawnionego do renty rodzinnej. O wznowieniu postępowania dyscyplinarnego zurzędu zawiadamia się ukaranego lub obwinionego albo, w przypadku jego śmierci, członka rodziny uprawnionego do renty rodzinnej.
 
-7. Wniosek o wznowienie post´powania dyscyplinarnego wnosi si´ do prze∏o˝onego dyscyplinarnego, który wyda∏ orzeczenie wpierwszej instancji, wterminie 30 dni od dnia, w którym obwiniony lub ukarany dowiedzia∏ si´ o okolicznoÊci stanowiàcej podstaw´ do wznowienia post´powania.
+7. Wniosek o wznowienie postępowania dyscyplinarnego wnosi się do przełożonego dyscyplinarnego, który wydał orzeczenie wpierwszej instancji, wterminie 30 dni od dnia, w którym obwiniony lub ukarany dowiedział się o okoliczności stanowiącej podstawę do wznowienia postępowania.
 
-8. Je˝eli przyczynà wznowienia post´powania jest dzia∏alnoÊç prze∏o˝onego dyscyplinarnego, o którym mowa wust. 6, owznowieniu rozstrzyga wy˝szy prze∏o˝ony dyscyplinarny.
+8. Jeżeli przyczyną wznowienia postępowania jest działalność przełożonego dyscyplinarnego, o którym mowa wust. 6, owznowieniu rozstrzyga wyższy przełożony dyscyplinarny.
 
-9. Na postanowienie o odmowie wznowienia post´powania dyscyplinarnego ukaranemu oraz cz∏onkowi rodziny uprawnionemu do renty rodzinnej, o którym mowa w ust. 6, s∏u˝y za˝alenie odpowiednio do Szefa SKW albo SWW w terminie 7 dni od dnia dor´zmianie przepis prawny b´dàcy podstawà wydania orzeczenia dyscyplinarnego.
+9. Na postanowienie o odmowie wznowienia postępowania dyscyplinarnego ukaranemu oraz członkowi rodziny uprawnionemu do renty rodzinnej, o którym mowa w ust. 6, służy zażalenie odpowiednio do Szefa SKW albo SWW w terminie 7 dni od dnia doręzmianie przepis prawny będący podstawą wydania orzeczenia dyscyplinarnego.
 
-3. W przypadku, o którym mowa w ust. 2, wniosek o wznowienie sk∏ada si´ w terminie miesiàca od dnia wejÊcia w˝ycie orzeczenia Trybuna∏u Konstytucyjnego.
+3. W przypadku, o którym mowa w ust. 2, wniosek o wznowienie składa się w terminie miesiąca od dnia wejścia wżycie orzeczenia Trybunału Konstytucyjnego.
 
-4. Post´powania dyscyplinarnego, w przypadku Êmierci obwinionego lub ukaranego, nie wznawia si´ na niekorzyÊç ukaranego po ustaniu karalnoÊci przewinienia dyscyplinarnego.
+4. Postępowania dyscyplinarnego, w przypadku śmierci obwinionego lub ukaranego, nie wznawia się na niekorzyść ukaranego po ustaniu karalności przewinienia dyscyplinarnego.
 
-5. Post´powania dyscyplinarnego nie wznawia si´ po up∏ywie 5 lat od dnia uprawomocnienia si´ orzeczenia.
+5. Postępowania dyscyplinarnego nie wznawia się po upływie 5 lat od dnia uprawomocnienia się orzeczenia.
 
-6. Prze∏o˝ony dyscyplinarny, który wyda∏ prawomocne orzeczenie dyscyplinarne, wznawia post´powanie dyscyplinarne z urz´du lub na wniosek ukaranego lub obwinionego albo, w przypadku jego Êmierczenia, ztym ˝e na postanowienie wydane przez Szefa SKW albo SWW przys∏uguje jedynie w takim samym terminie wniosek oponowne rozpatrzenie sprawy.
+6. Przełożony dyscyplinarny, który wydał prawomocne orzeczenie dyscyplinarne, wznawia postępowanie dyscyplinarne z urzędu lub na wniosek ukaranego lub obwinionego albo, w przypadku jego śmierczenia, ztym że na postanowienie wydane przez Szefa SKW albo SWW przysługuje jedynie w takim samym terminie wniosek oponowne rozpatrzenie sprawy.
 
 **Art. 142.**
 
-1. Po wznowieniu post´powania dyscyplinarnego przeprowadza si´ czynnoÊci dowodowe ograniczone do przyczyn wznowienia, a po ich zakoƒczeniu, stosownie do poczynionych ustaleƒ, wydaje si´ orzeczenie:
+1. Po wznowieniu postępowania dyscyplinarnego przeprowadza się czynności dowodowe ograniczone do przyczyn wznowienia, a po ich zakończeniu, stosownie do poczynionych ustaleń, wydaje się orzeczenie:
 
-- **1)** uchylajàce dotychczasowe orzeczenie i stwierdzajàce uniewinnienie ukaranego lub umorzenie post´powania dyscyplinarnego albo
-- **2)** zmieniajàce dotychczasowe orzeczenie i wymierzajàce innà kar´ dyscyplinarnà, albo
-- **3)** odmawiajàce uchylenia dotychczasowego orzeczenia.
+- **1)** uchylające dotychczasowe orzeczenie i stwierdzające uniewinnienie ukaranego lub umorzenie postępowania dyscyplinarnego albo
+- **2)** zmieniające dotychczasowe orzeczenie i wymierzające inną karę dyscyplinarną, albo
+- **3)** odmawiające uchylenia dotychczasowego orzeczenia.
 
-2. Zmiana dotychczasowego orzeczenia i wymierzenie innej kary dyscyplinarnej nie mo˝e nastàpiç po ustaniu karalnoÊci przewinienia dyscyplinarnego.
+2. Zmiana dotychczasowego orzeczenia i wymierzenie innej kary dyscyplinarnej nie może nastąpić po ustaniu karalności przewinienia dyscyplinarnego.
 
-3. Orzeczenie kary surowszej od dotychczasowej jest mo˝liwe tylko wtedy, gdy wznowienie nast´puje z urz´du i orzeczona kara jest ra˝àco niewspó∏mierna do pope∏nionego przewinienia dyscyplinarnego.
+3. Orzeczenie kary surowszej od dotychczasowej jest możliwe tylko wtedy, gdy wznowienie następuje z urzędu i orzeczona kara jest rażąco niewspółmierna do popełnionego przewinienia dyscyplinarnego.
 
-4. Je˝eli wnast´pstwie wznowienia post´powania wymierzono kar´ ∏agodniejszà, ulegajà uchyleniu skutki kary dotychczasowej, awprzypadku wymierzenia kary surowszej, jej wykonanie rozpoczyna si´ od dnia wymierzenia.
+4. Jeżeli wnastępstwie wznowienia postępowania wymierzono karę łagodniejszą, ulegają uchyleniu skutki kary dotychczasowej, awprzypadku wymierzenia kary surowszej, jej wykonanie rozpoczyna się od dnia wymierzenia.
 
-5. Na orzeczenie i postanowienie wydane w trybie wznowienia post´powania dyscyplinarnego s∏u˝y ukaranemu lub obwinionemu, a w przypadku jego Êmierci, cz∏onkowi rodziny uprawnionemu do renty rodzinnej, odwo∏anie lub za˝alenie odpowiednio do Szefa SKW i Szefa SWW w terminie 7 dni od dnia dor´czenia, z tym ˝e na orzeczenia i postanowienia wydane przez Szefa SKW albo Szefa SWW przys∏uguje jedynie, w takim samym terminie, wniosek o ponowne rozpatrzenie sprawy.
+5. Na orzeczenie i postanowienie wydane w trybie wznowienia postępowania dyscyplinarnego służy ukaranemu lub obwinionemu, a w przypadku jego śmierci, członkowi rodziny uprawnionemu do renty rodzinnej, odwołanie lub zażalenie odpowiednio do Szefa SKW i Szefa SWW w terminie 7 dni od dnia doręczenia, z tym że na orzeczenia i postanowienia wydane przez Szefa SKW albo Szefa SWW przysługuje jedynie, w takim samym terminie, wniosek o ponowne rozpatrzenie sprawy.
 
-6. Termin zatarcia kary zmienionej w nast´pstwie wznowienia post´powania liczy si´ od dnia uprawomocnienia si´ orzeczenia o wymierzeniu nowej kary. Na poczet okresu zatarcia nowej kary zalicza si´ okres zatarcia, który up∏ynà∏ od uprawomocnienia si´ orzeczenia kary dotychczasowej.
+6. Termin zatarcia kary zmienionej w następstwie wznowienia postępowania liczy się od dnia uprawomocnienia się orzeczenia o wymierzeniu nowej kary. Na poczet okresu zatarcia nowej kary zalicza się okres zatarcia, który upłynął od uprawomocnienia się orzeczenia kary dotychczasowej.
 
-**Art. 143.** Na orzeczenie koƒczàce post´powanie dyscyplinarne wydane wwyniku rozpatrzenia odwo∏ania funkcjonariuszowi przys∏uguje skarga do sàdu administracyjnego.
+**Art. 143.** Na orzeczenie kończące postępowanie dyscyplinarne wydane wwyniku rozpatrzenia odwołania funkcjonariuszowi przysługuje skarga do sądu administracyjnego.
 
-**Art. 144.** Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW szczegó∏owy tryb wykonywania czynnoÊci zwiàzanych z post´powaniem dyscyplinarnym w stosunku do funkcjonariuszy, prze∏o˝onych którzy posiadajà w∏adz´ dyscyplinarnà, w tym obieg dokumentów zwiàzanych z post´powaniem dyscyplinarnym, prostowanie b∏´dów pisarskich i rachunkowych oraz innych oczywistych omy∏ek, oraz okreÊli wzory postanowieƒ i innych dokumentów sporzàdzanych w post´powaniu dyscyplinarnym, majàc na wzgl´dzie sprawnoÊç prowadzonego post´powania. (Dz.U. 88, poz. 553, zpóên. zm.
+**Art. 144.** Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW szczegółowy tryb wykonywania czynności związanych z postępowaniem dyscyplinarnym w stosunku do funkcjonariuszy, przełożonych którzy posiadają władzę dyscyplinarną, w tym obieg dokumentów związanych z postępowaniem dyscyplinarnym, prostowanie błędów pisarskich i rachunkowych oraz innych oczywistych omyłek, oraz określi wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie sprawność prowadzonego postępowania. (Dz.U. 88, poz. 553, zpóên. zm.
 
-**Art. 145.** Przepisy art. 115 § 18 oraz art. 318 i 344 ustawy z dnia 6 czerwca 1997 r. Kodeks karny ) stosuje si´ odpowiednio do funkcjonariuszy SKW oraz SWW. Rozdzia∏ 7 Przepis koƒcowy
+**Art. 145.** Przepisy art. 115 § 18 oraz art. 318 i 344 ustawy z dnia 6 czerwca 1997 r. Kodeks karny ) stosuje się odpowiednio do funkcjonariuszy SKW oraz SWW.
 
-**Art. 146.** Ustawa wchodzi w˝ycie wterminie okreÊlonym wustawie zdnia 9 czerwca 2006 r. Przepisy wprowadzajàce ustaw´ o S∏u˝bie Kontrwywiadu Wojskowego oraz S∏u˝bie Wywiadu Wojskowego oraz ustaw´ o s∏u˝bie funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 711 USTAWA z dnia 9 czerwca 2006 r. Przepisy wprowadzajàce ustaw´ o S∏u˝bie Kontrwywiadu Wojskowego oraz S∏u˝bie Wywiadu Wojskowego oraz ustaw´ o s∏u˝bie funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego Rozdzia∏ 1 Przepisy ogólne
+#### Rozdział 7 Przepis końcowy
 
-**Art. 1.** Ustawa z dnia 9 czerwca 2006 r. o S∏u˝bie Kontrwywiadu Wojskowego oraz S∏u˝bie Wywiadu Wojskowego wchodzi w ˝ycie z dniem 1 paêdziernika 2006 r., z wyjàtkiem art. 47, który wchodzi w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia niniejszej ustawy oraz art. 16 pkt 7, który wchodzi w˝ycie zdniem 1 paêdziernika 2008 r.
+**Art. 146.** Ustawa wchodzi wżycie wterminie określonym wustawie zdnia 9 czerwca 2006 r. Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 711 USTAWA z dnia 9 czerwca 2006 r. Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
-**Art. 2.** Ustawa z dnia 9 czerwca 2006 r. o s∏u˝bie funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego wchodzi w ˝ycie z dniem 1 paêdziernika 2006 r., z wyjàtkiem art. 4 i 5, które wchodzà w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia niniejszej ustawy.
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 3.** Zdniem30 wrzeÊnia2006 r. traci moc ustawa zdnia9 lipca2003 r. oWojskowych S∏u˝bach Informacyjnych (Dz. U. Nr139, poz.1326 iNr179, poz.1750 oraz z 2004 r. 19, poz. 177, 171, poz. 1800
+**Art. 1.** Ustawa z dnia 9 czerwca 2006 r. o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego wchodzi w życie z dniem 1 paêdziernika 2006 r., z wyjątkiem art. 47, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia niniejszej ustawy oraz art. 16 pkt 7, który wchodzi wżycie zdniem 1 paêdziernika 2008 r.
 
-**Art. 4.** Ilekroç w ustawie jest mowa o:
+**Art. 2.** Ustawa z dnia 9 czerwca 2006 r. o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego wchodzi w życie z dniem 1 paêdziernika 2006 r., z wyjątkiem art. 4 i 5, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia niniejszej ustawy.
+
+**Art. 3.** Zdniem30 września2006 r. traci moc ustawa zdnia9 lipca2003 r. oWojskowych Służbach Informacyjnych (Dz. U. Nr139, poz.1326 iNr179, poz.1750 oraz z 2004 r. 19, poz. 177, 171, poz. 1800
+
+**Art. 4.** Ilekroć w ustawie jest mowa o:
 

@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# przej´tych rejestrów i post´powaƒ przez w∏aÊciwych wojewodów. Art. 9. Ustawa wchodzi ˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem art. 1 pkt 13 lit. a,
+# przejętych rejestrów i postępowań przez właściwych wojewodów. Art. 9. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 13 lit. a,
 
 | Pole | Wartość |
 |---|---|
@@ -24,223 +24,223 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071150794) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/794/text.pdf) |
 
-**Art. 8.** Dotychczasowe przepisy wykonawcze wy- art.4 oraz art. 5 pkt 2, które wchodzà ˝ycie z dniem dane na podstawie art. 5 ust. 6 ustawy z dnia 1 lipca 2007 r. 13czerwca 2003 r. ozatrudnieniu socjalnym zachowujà moc do czasu wejÊcia ˝ycie nowych przepisów Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski USTAWA z dnia 15 czerwca 2007 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych oraz niektórych innych ustaw
+**Art. 8.** Dotychczasowe przepisy wykonawcze wy- art.4 oraz art. 5 pkt 2, które wchodzą życie z dniem dane na podstawie art. 5 ust. 6 ustawy z dnia 1 lipca 2007 r. 13czerwca 2003 r. ozatrudnieniu socjalnym zachowują moc do czasu wejścia życie nowych przepisów Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA z dnia 15 czerwca 2007 r. o zmianie ustawy o organizacji rynku mleka i przetworów mlecznych oraz niektórych innych ustaw
 
-**Art. 1.** Wustawie zdnia 20 kwietnia 2004 r. oorga- ewidencji ludnoÊci (PESEL) lub innego nizacji rynku mleka i przetworów mlecznych (Dz. U. dokumentu potwierdzajàcego to˝samoÊç z2005 r. 244, poz. 2081 oraz z2006 r. 50, poz. 363 oraz miejsce zamieszkania i adres albo iNr 208, poz. 1541) wprowadza si´ nast´pujàce zmiany: nazw´, numer identyfikacji podatkowej (NIP), numer Krajowego Rejestru Urz´do1) art. 4: wego Podmiotów Gospodarki Narodoa) ust. 2 i 3 otrzymujà brzmienie: wej (REGON), je˝eli zosta∏ nadany, oraz siedzib´ i adres wnioskodawcy; „2. Prezes Agencji dokonuje, drodze decyzji, wpisu do rejestru podmiotów po stwierdze- 2) wskazanie daty planowanego rozpocz´niu, wyniku kontroli, ˝e wnioskodawca: cia dzia∏alnoÊci zakresie skupu mleka;
+**Art. 1.** Wustawie zdnia 20 kwietnia 2004 r. oorga- ewidencji ludności (PESEL) lub innego nizacji rynku mleka i przetworów mlecznych (Dz. U. dokumentu potwierdzającego tożsamość z2005 r. 244, poz. 2081 oraz z2006 r. 50, poz. 363 oraz miejsce zamieszkania i adres albo iNr 208, poz. 1541) wprowadza się następujące zmiany: nazwę, numer identyfikacji podatkowej (NIP), numer Krajowego Rejestru Urzędo1) art. 4: wego Podmiotów Gospodarki Narodoa) ust. 2 i 3 otrzymują brzmienie: wej (REGON), jeżeli został nadany, oraz siedzibę i adres wnioskodawcy; Ń2. Prezes Agencji dokonuje, drodze decyzji, wpisu do rejestru podmiotów po stwierdze- 2) wskazanie daty planowanego rozpoczęniu, wyniku kontroli, że wnioskodawca: cia działalności zakresie skupu mleka;
 
-**Art. 23b.** Minister w∏aÊciwy do spraw rynków rol- 5. Do wniosku, o którym mowa ust. 4, nych okreÊli, drodze rozporzàdzenia, dostawca hurtowy lub dostawca bezmaksymalnà wielkoÊç indywidualnej ilo- poÊredni do∏àcza: Êci referencyjnej, za którà mo˝na uzyskaç 1) oÊwiadczenia, o których mowa rekompensat´, majàc na wzgl´dzie wy- art. 23a ust. 2 pkt 1—4; sokoÊç dost´pnych Êrodków finansowych oraz potrzeb´ restrukturyzacji sek- 2) kopi´ umowy z bankiem lub zatora mleczarskiego. Êwiadczenie dotyczàce prowadzenia rachunku bankowego, o którym
+**Art. 23b.** Minister właściwy do spraw rynków rol- 5. Do wniosku, o którym mowa ust. 4, nych określi, drodze rozporządzenia, dostawca hurtowy lub dostawca bezmaksymalną wielkość indywidualnej ilo- pośredni dołącza: ści referencyjnej, za którą można uzyskać 1) oświadczenia, o których mowa rekompensatę, mając na względzie wy- art. 23a ust. 2 pkt 1—4; sokość dostępnych środków finansowych oraz potrzebę restrukturyzacji sek- 2) kopię umowy z bankiem lub zatora mleczarskiego. świadczenie dotyczące prowadzenia rachunku bankowego, o którym
 
 **Art. 23c.**
 
-1. Decyzj´ wsprawie cofni´cia indywidu- mowa ust. 4 pkt 4; alnej iloÊci referencyjnej, stanowiàcej 3) zaÊwiadczenie potwierdzajàce pow∏asnoÊç dostawcy dniu wydania siadanie gospodarstwa rolnego wydecyzji i przyznania rekompensaty, dane przez wójta (burmistrza, prezyo której mowa art. 23a ust. 1, wyda- denta miasta). je, na wniosek dostawcy hurtowego lub dostawcy bezpoÊredniego, w∏aÊci- 6. Wniosek, o którym mowa ust. 4, wy miejscowo dyrektor oddzia∏u tere- sk∏ada si´ od dnia 1 wrzeÊnia do dnia nowego Agencji terminie do dnia 15 wrzeÊnia danego roku kwotowego 30 listopada roku kwotowego, któ- na formularzu opracowanym i udorym zosta∏ z∏o˝ony wniosek. st´pnianym przez Agencj´.
+1. Decyzję wsprawie cofnięcia indywidu- mowa ust. 4 pkt 4; alnej ilości referencyjnej, stanowiącej 3) zaświadczenie potwierdzające powłasność dostawcy dniu wydania siadanie gospodarstwa rolnego wydecyzji i przyznania rekompensaty, dane przez wójta (burmistrza, prezyo której mowa art. 23a ust. 1, wyda- denta miasta). je, na wniosek dostawcy hurtowego lub dostawcy bezpośredniego, właści- 6. Wniosek, o którym mowa ust. 4, wy miejscowo dyrektor oddziału tere- składa się od dnia 1 września do dnia nowego Agencji terminie do dnia 15 września danego roku kwotowego 30 listopada roku kwotowego, któ- na formularzu opracowanym i udorym został złożony wniosek. stępnianym przez Agencję.
 
-2. Rekompensata jest wyp∏acana ter- 7. Wroku kwotowym, wktórym jest sk∏aminie 30 dni od dnia wydania decyzji, dany wniosek, o którym mowa októrej mowa wust. 1, przez Agencj´, ust.4, dostawca hurtowy lub dona rachunek bankowy dostawcy hurto- stawca bezpoÊredni nie mo˝e byç strowego lub dostawcy bezpoÊredniego, nà umowy, o której mowa art. 22 o którym mowa ust. 4 pkt 4.
+2. Rekompensata jest wypłacana ter- 7. Wroku kwotowym, wktórym jest skłaminie 30 dni od dnia wydania decyzji, dany wniosek, o którym mowa októrej mowa wust. 1, przez Agencję, ust.4, dostawca hurtowy lub dona rachunek bankowy dostawcy hurto- stawca bezpośredni nie może być strowego lub dostawcy bezpośredniego, ną umowy, o której mowa art. 22 o którym mowa ust. 4 pkt 4.
 
-3. Od decyzji, o której mowa ust. 1, przys∏uguje odwo∏anie do Prezesa Agencji.
+3. Od decyzji, o której mowa ust. 1, przysługuje odwołanie do Prezesa Agencji.
 
 4. Wniosek o przyznanie rekompensaty zawiera:
 
-- **1)** imi´ i nazwisko, numer identyfikacji podatkowej (NIP), numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludnoÊci (PESEL) lub innego dokumentu potwierdzajàcego to˝samoÊç oraz miejsce zamieszkania i adres albo i art. 22a, oraz wnioskowaç o dokonanie konwersji indywidualnej iloÊci referencyjnej, o której mowa art. 24.
+- **1)** imię i nazwisko, numer identyfikacji podatkowej (NIP), numer ewidencyjny powszechnego elektronicznego systemu ewidencji ludności (PESEL) lub innego dokumentu potwierdzającego tożsamość oraz miejsce zamieszkania i adres albo i art. 22a, oraz wnioskować o dokonanie konwersji indywidualnej ilości referencyjnej, o której mowa art. 24.
 
-8. Je˝eli danym roku kwotowym dostawca hurtowy lub dostawca bezpoÊredni z∏o˝y∏ wniosek o przyznanie indywidualnej iloÊci referencyjnej z krajowej rezerwy, nie mo˝e ubiegaç si´ o przyznanie rekompensaty, o której mowa art. 23a ust. 1, tym roku kwotowym.
+8. Jeżeli danym roku kwotowym dostawca hurtowy lub dostawca bezpośredni złożył wniosek o przyznanie indywidualnej ilości referencyjnej z krajowej rezerwy, nie może ubiegać się o przyznanie rekompensaty, o której mowa art. 23a ust. 1, tym roku kwotowym.
 
 **Art. 23d.**
 
-1. Dyrektorzy oddzia∏ów terenowych Agencji na podstawie wniosków, ——————— o których mowa art. 23c ust. 6, do dnia 15 paêdziernika zg∏aszajà do Prezesa Agencji zapotrzebowanie na Êrodki finansowe przeznaczone na przyznanie rekompensat. pisach wydanych na podstawie art.23eiwielkoÊci indywidualnej iloÊci referencyjnej, stanowiàcej w∏asnoÊç producenta.
+1. Dyrektorzy oddziałów terenowych Agencji na podstawie wniosków, ——————— o których mowa art. 23c ust. 6, do dnia 15 paêdziernika zgłaszają do Prezesa Agencji zapotrzebowanie na środki finansowe przeznaczone na przyznanie rekompensat. pisach wydanych na podstawie art.23eiwielkości indywidualnej ilości referencyjnej, stanowiącej własność producenta.
 
-3. Stawka rekompensaty okreÊlona dla danego województwa jest stosowana do ustalenia wysokoÊci rekompensaty stosunku do producentów posiadajàcych gospodarstwa lub wi´ksze ich cz´Êci tym województwie.
+3. Stawka rekompensaty określona dla danego województwa jest stosowana do ustalenia wysokości rekompensaty stosunku do producentów posiadających gospodarstwa lub większe ich części tym województwie.
 
-4. W przypadku gdy suma Êrodków finansowych, októrych mowa wust. 1, jest wi´ksza ni˝ kwota Êrodków bud˝etu paƒstwa przeznaczonych na przyznanie rekompensat, Êrodki finansowe przys∏ugujàce poszczególnym dyrektorom oddzia∏ów terenowych na przyznanie rekompensat zostanà zredukowane stosunku do zg∏oszonego za3. Wprzypadku, októrym mowa wust. 2, dyrektor oddzia∏u terenowego Agencji zobowiàzuje, wdrodze decyzji, dostawc´ hurtowego lub dostawc´ bezpoÊredniego do zwrotu rekompensaty na rachunek bankowy Agencji terminie 14 dni od dnia, którym decyzja sta∏a si´ ostateczna.
+4. W przypadku gdy suma środków finansowych, októrych mowa wust. 1, jest większa niż kwota środków budżetu państwa przeznaczonych na przyznanie rekompensat, środki finansowe przysługujące poszczególnym dyrektorom oddziałów terenowych na przyznanie rekompensat zostaną zredukowane stosunku do zgłoszonego za3. Wprzypadku, októrym mowa wust. 2, dyrektor oddziału terenowego Agencji zobowiązuje, wdrodze decyzji, dostawcę hurtowego lub dostawcę bezpośredniego do zwrotu rekompensaty na rachunek bankowy Agencji terminie 14 dni od dnia, którym decyzja stała się ostateczna.
 
-4. W przypadku niedokonania przez dostawc´ hurtowego lub dostawc´ bezpoÊredniego zwrotu rekompensaty terminie, o którym mowa ust. 3, nalicza si´ odsetki wysokoÊci okreÊlonej jak dla zaleg∏oÊci podatkowych.
+4. W przypadku niedokonania przez dostawcę hurtowego lub dostawcę bezpośredniego zwrotu rekompensaty terminie, o którym mowa ust. 3, nalicza się odsetki wysokości określonej jak dla zaległości podatkowych.
 
-5. Od decyzji, o której mowa ust. 3, przys∏uguje odwo∏anie do Prezesa Agencji.
+5. Od decyzji, o której mowa ust. 3, przysługuje odwołanie do Prezesa Agencji.
 
-6. Do egzekucji nale˝noÊci, o których mopotrzebowania przy zastosowaniu wa ust. 3 i 4, stosuje si´ przepisy tego samego wspó∏czynnika redukcji o post´powaniu egzekucyjnym adustalonego przez Prezesa Agencji, tak ministracji. aby zapotrzebowanie by∏o równe kwocie Êrodków bud˝etowych. 7. Rekompensata nie podlega zwrotowi, z wy∏àczeniem przypadku wprowadza5. Wprzypadku, októrym mowa wust. 4, nia przez dostawc´ hurtowego lub downioski rozpatrywane sà do momentu, stawc´ bezpoÊredniego do obrotu mlekiedy mogà byç uwzgl´dnione ca∏o- ka lub przetworów mlecznych, sytuÊci, przy czym pierwszej kolejnoÊci acji wystàpienia gospodarstwie dorozpatrywane sà wnioski z najmniej- stawcy okresie, o którym mowa szymi indywidualnymi iloÊciami refe- art. 23a ust. 2 pkt 3, przypadków si∏y rencyjnymi, jakie zostanà przekazane wy˝szej rozumieniu rozporzàdzenia, do krajowej rezerwy. o którym mowa pkt 2 za∏àcznika,
+6. Do egzekucji należności, o których mopotrzebowania przy zastosowaniu wa ust. 3 i 4, stosuje się przepisy tego samego współczynnika redukcji o postępowaniu egzekucyjnym adustalonego przez Prezesa Agencji, tak ministracji. aby zapotrzebowanie było równe kwocie środków budżetowych. 7. Rekompensata nie podlega zwrotowi, z wyłączeniem przypadku wprowadza5. Wprzypadku, októrym mowa wust. 4, nia przez dostawcę hurtowego lub downioski rozpatrywane są do momentu, stawcę bezpośredniego do obrotu mlekiedy mogą być uwzględnione cało- ka lub przetworów mlecznych, sytuści, przy czym pierwszej kolejności acji wystąpienia gospodarstwie dorozpatrywane są wnioski z najmniej- stawcy okresie, o którym mowa szymi indywidualnymi ilościami refe- art. 23a ust. 2 pkt 3, przypadków siły rencyjnymi, jakie zostaną przekazane wyższej rozumieniu rozporządzenia, do krajowej rezerwy. o którym mowa pkt 2 załącznika,
 
-**Art. 23e.** Rada Ministrów okreÊli, drodze rozpo- wp∏ywajàcych na spe∏nienie zobowiàrzàdzenia, wysokoÊç stawek rekompen- zaƒ, o których mowa art. 23a ust. 2 sat stosowanych dla poszczególnych wo- pkt 3 i 4.”; jewództw, majàc na wzgl´dzie wysokoÊç 17) art. 24: przeci´tnych cen skupu mleka wposzczególnych województwach, potrzeb´ re- a) po ust. 6a dodaje si´ ust. 6b brzmieniu: strukturyzacji sektora mleczarskiego oraz „6b. W przypadku otrzymania indywidualnej wysokoÊç Êrodków finansowych przezna- iloÊci referencyjnej z krajowej rezerwy nie czonych na przyznanie rekompensat.
+**Art. 23e.** Rada Ministrów określi, drodze rozpo- wpływających na spełnienie zobowiąrządzenia, wysokość stawek rekompen- zań, o których mowa art. 23a ust. 2 sat stosowanych dla poszczególnych wo- pkt 3 i 4.”; jewództw, mając na względzie wysokość 17) art. 24: przeciętnych cen skupu mleka wposzczególnych województwach, potrzebę re- a) po ust. 6a dodaje się ust. 6b brzmieniu: strukturyzacji sektora mleczarskiego oraz Ń6b. W przypadku otrzymania indywidualnej wysokość środków finansowych przezna- ilości referencyjnej z krajowej rezerwy nie czonych na przyznanie rekompensat.
 
 **Art. 23f.**
 
-1. Wgospodarstwie dostawcy hurtowego lub dostawcy bezpoÊredniego, któremu przyznana zosta∏a rekompensata, wtrzecim roku okresu, októrym mowa wart. 23aust. 2 pkt 3, Agencja przeprowadza kontrol´, wramach której ustala spe∏nienie przez dostawc´ warunków okreÊlonych zobowiàzaniach, o których mowa art. 23a ust. 2 pkt 2—4.
+1. Wgospodarstwie dostawcy hurtowego lub dostawcy bezpośredniego, któremu przyznana została rekompensata, wtrzecim roku okresu, októrym mowa wart. 23aust. 2 pkt 3, Agencja przeprowadza kontrolę, wramach której ustala spełnienie przez dostawcę warunków określonych zobowiązaniach, o których mowa art. 23a ust. 2 pkt 2—4.
 
-2. Je˝eli wwyniku kontroli, októrej mowa ust. 1, lub przeprowadzenia czynnoÊci sprawdzajàcych, o których mowa art. 49 ust. 1 pkt 2, zostanie stwierdzone, ˝e którykolwiek z warunków okreÊlonych zobowiàzaniach, o których mowa art. 23a ust. 2 pkt 2—4, okresie obj´tym zobowiàzaniem, nie dokonuje si´ konwersji indywidualnej iloÊci referencyjnej okresie 2 lat od dnia, wktórym decyzja okreÊlona wart. 15 ust. 1 sta∏a si´ ostateczna.”,
+2. Jeżeli wwyniku kontroli, októrej mowa ust. 1, lub przeprowadzenia czynności sprawdzających, o których mowa art. 49 ust. 1 pkt 2, zostanie stwierdzone, że którykolwiek z warunków określonych zobowiązaniach, o których mowa art. 23a ust. 2 pkt 2—4, okresie objętym zobowiązaniem, nie dokonuje się konwersji indywidualnej ilości referencyjnej okresie 2 lat od dnia, wktórym decyzja określona wart. 15 ust. 1 stała się ostateczna.”,
 
-- **b)** ust. 7 otrzymuje brzmienie: „7. W przypadku konwersji sprzeda˝y bezpoÊredniej na dostawy referencyjna zawartoÊç t∏uszczu dla mleka obj´tego dostawami po dokonaniu konwersji pozostaje bez zmian stosunku do referencyjnej zawartoÊci t∏uszczu dla mleka obj´tego dostawami przed dokonaniem konwersji, je˝eli producent przed∏o˝y w∏aÊciwemu miejscowo dyrektorowi oddzia∏u terenowego Agencji dokument dotyczàcy oceny u˝ytkowoÊci krów mlecznych, za okres 12 miesi´cy poprzedzajàcych termin z∏o˝enia wniosku, potwierdzajàcy wy˝szà ni˝ 38 g/kg zawartoÊç t∏uszczu
-- **18)** art. 32 ust. 1 i 2 otrzymujà brzmienie: „1. W przypadku wprowadzenia przez producenta do obrotu roku kwotowym mleka lub przetworów mlecznych iloÊci mniejszej ni˝ 70 % indywidualnej iloÊci referencyjnej przys∏ugujàcej temu producentowi na dzieƒ 1kwietnia danego roku kwotowego, w∏aÊciwy miejscowo dyrektor oddzia∏u terenowego Agencji zmniejsza, wdrodze decyzji, indywidualnà iloÊç referencyjnà ojej niewykorzystanà cz´Êç.
+- **b)** ust. 7 otrzymuje brzmienie: Ń7. W przypadku konwersji sprzedaży bezpośredniej na dostawy referencyjna zawartość tłuszczu dla mleka objętego dostawami po dokonaniu konwersji pozostaje bez zmian stosunku do referencyjnej zawartości tłuszczu dla mleka objętego dostawami przed dokonaniem konwersji, jeżeli producent przedłoży właściwemu miejscowo dyrektorowi oddziału terenowego Agencji dokument dotyczący oceny użytkowości krów mlecznych, za okres 12 miesięcy poprzedzających termin złożenia wniosku, potwierdzający wyższą niż 38 g/kg zawartość tłuszczu
+- **18)** art. 32 ust. 1 i 2 otrzymują brzmienie: Ń1. W przypadku wprowadzenia przez producenta do obrotu roku kwotowym mleka lub przetworów mlecznych ilości mniejszej niż 70 % indywidualnej ilości referencyjnej przysługującej temu producentowi na dzień 1kwietnia danego roku kwotowego, właściwy miejscowo dyrektor oddziału terenowego Agencji zmniejsza, wdrodze decyzji, indywidualną ilość referencyjną ojej niewykorzystaną część.
 
-2. W przypadku gdy producent nie wprowadzi∏ do obrotu roku kwotowym mleka lub przetworów mlecznych ramach indywidualnej iloÊci referencyjnej przys∏ugujàcej temu producentowi na dzieƒ 1 kwietnia danego roku kwotowego, w∏aÊciwy miejscowo dyrektor oddzia∏u terenowego Agencji cofa, drodze decyzji, indywidualnà iloÊç referencyjnà.”;
+2. W przypadku gdy producent nie wprowadził do obrotu roku kwotowym mleka lub przetworów mlecznych ramach indywidualnej ilości referencyjnej przysługującej temu producentowi na dzień 1 kwietnia danego roku kwotowego, właściwy miejscowo dyrektor oddziału terenowego Agencji cofa, drodze decyzji, indywidualną ilość referencyjną.”;
 
 - **19)** art. 33:
-    - **a)** po ust. 1 dodaje si´ ust. 1a brzmieniu: „1a. Przepis ust. 1 stosuje si´ odpowiednio do producentów, którzy, pomimo oddania u˝ywanie lub zbycia ca∏oÊci indywidualnej iloÊci referencyjnej, przys∏ugujàcej tym producentom na dzieƒ 1 kwietnia danego roku kwotowego, lub pomimo otrzymania rekompensaty, o której mowa art. 23a ust. 1, wprowadzili do obrotu mleko lub przetwory mleczne.”,
-    - **b)** ust. 6 otrzymuje brzmienie: „6. Kwot´ z tytu∏u zwrotu zaliczek podmiot skupujàcy zwraca dostawcy hurtowemu terminie 7 dni od dnia, którym decyzja okreÊlona ust. 5 sta∏a si´ ostateczna.”,
-    - **c)** dodaje si´ ust. 7 brzmieniu: „7. Je˝eli podmiot skupujàcy zaprzesta∏ wykonywania dzia∏alnoÊci zakresie skupu mleka, jest obowiàzany do przekazania Êrodków pieni´˝nych, o których mowa art. 36 ust.4a, na wyodr´bniony rachunek bankowy oddzia∏u terenowego Agencji w∏aÊciwego ze wzgl´du na miejsce zamieszkania albo siedzib´ dostawcy hurtowego, terminie 7dni od dnia zaprzestania wykonywania tej dzia∏alnoÊci.”;
+    - **a)** po ust. 1 dodaje się ust. 1a brzmieniu: Ń1a. Przepis ust. 1 stosuje się odpowiednio do producentów, którzy, pomimo oddania używanie lub zbycia całości indywidualnej ilości referencyjnej, przysługującej tym producentom na dzień 1 kwietnia danego roku kwotowego, lub pomimo otrzymania rekompensaty, o której mowa art. 23a ust. 1, wprowadzili do obrotu mleko lub przetwory mleczne.”,
+    - **b)** ust. 6 otrzymuje brzmienie: Ń6. Kwotę z tytułu zwrotu zaliczek podmiot skupujący zwraca dostawcy hurtowemu terminie 7 dni od dnia, którym decyzja określona ust. 5 stała się ostateczna.”,
+    - **c)** dodaje się ust. 7 brzmieniu: Ń7. Jeżeli podmiot skupujący zaprzestał wykonywania działalności zakresie skupu mleka, jest obowiązany do przekazania środków pieniężnych, o których mowa art. 36 ust.4a, na wyodrębniony rachunek bankowy oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego, terminie 7dni od dnia zaprzestania wykonywania tej działalności.”;
 
 - **20)** art. 35 ust. 1:
-    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: „Prezes Agencji na podstawie informacji, o których mowa art. 10 ust. 1 pkt 5 i art. 11 ust. 3, ustala stopieƒ wykorzystania krajowej iloÊci referencyjnej, a przypadku jej przekroczenia Êciwego do spraw rynków rolnych o stopniu wykorzystania krajowej iloÊci referencyjnej.”;
+    - **a)** wprowadzenie do wyliczenia otrzymuje brzmienie: ŃPrezes Agencji na podstawie informacji, o których mowa art. 10 ust. 1 pkt 5 i art. 11 ust. 3, ustala stopień wykorzystania krajowej ilości referencyjnej, a przypadku jej przekroczenia ściwego do spraw rynków rolnych o stopniu wykorzystania krajowej ilości referencyjnej.”;
 
 - **21)** art. 36:
-    - **a)** wust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „Wodniesieniu do dostawców hurtowych, w∏aÊciwi miejscowo dyrektorzy oddzia∏ów terenowych Agencji dokonujà do dnia 15 wrzeÊnia na podstawie informacji, októrych mowa wart.10 ust. 1 pkt 5, rozliczenia:”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Dyrektorzy oddzia∏ów terenowych Agencji, o których mowa ust. 1, do dnia 15 wrzeÊnia okreÊlajà dostawcom hurtowym, drodze decyzji, wysokoÊç nale˝nych op∏at i zwiàzanych z tym dop∏at albo zwrotów zaliczek oraz przesy∏ajà do podmiotów skupujàcych, tak˝e wersji elektronicznej, zbiorcze informacje o wysokoÊci tych op∏at, dop∏at i zwrotów zaliczek.”,
-    - **c)** ust. 4 otrzymuje brzmienie: „4. Kwot´ z tytu∏u zwrotu zaliczek, o których mowa ust. 3 pkt 1, lub ich cz´Êci, o której mowa ust. 3 pkt 2, podmiot skupujàcy przekazuje dostawcom hurtowym terminie okreÊlonym wart. 13 ust. 2 rozporzàdzenia, o którym mowa pkt 2 za∏àcznika.”,
-    - **d)** po ust. 4 dodaje si´ ust. 4a brzmieniu: „4a. Zaliczk´, o której mowa art. 33 ust. 2, oraz dop∏at´, o której mowa ust. 3 pkt 3, podmiot skupujàcy gromadzi na wyodr´bnionym rachunku bankowym.”,
-    - **e)** ust. 6 otrzymuje brzmienie: „6. Dop∏at´, o której mowa ust. 5, wraz z wp∏aconymi zaliczkami, podmiot skupujàcy jest obowiàzany przekazaç na rachunek bankowy oddzia∏u terenowego Agencji w∏aÊciwego ze wzgl´du na miejsce zamieszkania albo siedzib´ dostawcy hurtowego terminie okreÊlonym art. 15 ust. 1 rozporzàdzenia, októrym mowa wpkt 1 za∏àcznika.”;
+    - **a)** wust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: ŃWodniesieniu do dostawców hurtowych, właściwi miejscowo dyrektorzy oddziałów terenowych Agencji dokonują do dnia 15 września na podstawie informacji, októrych mowa wart.10 ust. 1 pkt 5, rozliczenia:”,
+    - **b)** ust. 2 otrzymuje brzmienie: Ń2. Dyrektorzy oddziałów terenowych Agencji, o których mowa ust. 1, do dnia 15 września określają dostawcom hurtowym, drodze decyzji, wysokość należnych opłat i związanych z tym dopłat albo zwrotów zaliczek oraz przesyłają do podmiotów skupujących, także wersji elektronicznej, zbiorcze informacje o wysokości tych opłat, dopłat i zwrotów zaliczek.”,
+    - **c)** ust. 4 otrzymuje brzmienie: Ń4. Kwotę z tytułu zwrotu zaliczek, o których mowa ust. 3 pkt 1, lub ich części, o której mowa ust. 3 pkt 2, podmiot skupujący przekazuje dostawcom hurtowym terminie określonym wart. 13 ust. 2 rozporządzenia, o którym mowa pkt 2 załącznika.”,
+    - **d)** po ust. 4 dodaje się ust. 4a brzmieniu: Ń4a. Zaliczkę, o której mowa art. 33 ust. 2, oraz dopłatę, o której mowa ust. 3 pkt 3, podmiot skupujący gromadzi na wyodrębnionym rachunku bankowym.”,
+    - **e)** ust. 6 otrzymuje brzmienie: Ń6. Dopłatę, o której mowa ust. 5, wraz z wpłaconymi zaliczkami, podmiot skupujący jest obowiązany przekazać na rachunek bankowy oddziału terenowego Agencji właściwego ze względu na miejsce zamieszkania albo siedzibę dostawcy hurtowego terminie określonym art. 15 ust. 1 rozporządzenia, októrym mowa wpkt 1 załącznika.”;
 
 - **22)** art. 37:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. W odniesieniu do dostawców bezpoÊrednich, w∏aÊciwi miejscowo dyrektorzy oddzia∏ów terenowych Agencji, na podstawie informacji, októrych mowa wart. 11 ust. 3, dokonujà rozliczenia wykorzystania indywidualnych iloÊci referencyjnych przys∏ugujàcych na dany dzieƒ roku, wed∏ug stanu na ostatni dzieƒ roku kwotowego, ido dnia 15wrzeÊnia dokonujà, drodze decyzji, ustalenia wysokoÊci nale˝nej op∏aty, po uwzgl´dnieniu krajowego wspó∏czynnika realokacji, o którym okreÊla krajowy wspó∏czynnik realokacji:”, mowa wart. 35 ust. 1 pkt 2.”, wp∏aciç nale˝nà op∏at´ na rachunek bankowy w∏aÊciwego miejscowo oddzia∏u terenowego Agencji terminie okreÊlonym art. 15 ust. 1 rozporzàdzenia, o którym mowa pkt 1 za∏àcznika.”;
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. W odniesieniu do dostawców bezpośrednich, właściwi miejscowo dyrektorzy oddziałów terenowych Agencji, na podstawie informacji, októrych mowa wart. 11 ust. 3, dokonują rozliczenia wykorzystania indywidualnych ilości referencyjnych przysługujących na dany dzień roku, według stanu na ostatni dzień roku kwotowego, ido dnia 15września dokonują, drodze decyzji, ustalenia wysokości należnej opłaty, po uwzględnieniu krajowego współczynnika realokacji, o którym określa krajowy współczynnik realokacji:”, mowa wart. 35 ust. 1 pkt 2.”, wpłacić należną opłatę na rachunek bankowy właściwego miejscowo oddziału terenowego Agencji terminie określonym art. 15 ust. 1 rozporządzenia, o którym mowa pkt 1 załącznika.”;
 
-- **23)** art. 40 ust. 1 otrzymuje brzmienie: „1. W sprawach nieuregulowanych ustawie do op∏at, dop∏at i zaliczek na poczet op∏aty stosuje si´ odpowiednio przepisy dzia∏u III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2005 r. 8, poz. 60, z póên. zm. ), z wy∏àczeniem przepisów dotyczàcych umarzania nale˝noÊci, odraczania p∏atnoÊci oraz rozk∏adania p∏atnoÊci na raty, z zastrze˝eniem art. 15 ust. 2 rozporzàdzenia, o którym mowa pkt 1 za∏àcznika.”;
-- **24)** art. 41a ust. 1 otrzymuje brzmienie: „1. Prezes Agencji ustala, terminie okreÊlonym art. 9 ust. 1 rozporzàdzenia, o którym mowa pkt 1 za∏àcznika, Êrednià wa˝onà referencyjnych zawartoÊci t∏uszczu dla poprzedniego roku kwotowego.”;
-- **25)** art. 42 wprowadzenie do wyliczenia otrzymuje brzmienie: „Agencja realizuje zadania okreÊlone rozporzàdzeniach, o których mowa pkt 3—12 za∏àcznika, zakresie:”;
+- **23)** art. 40 ust. 1 otrzymuje brzmienie: Ń1. W sprawach nieuregulowanych ustawie do opłat, dopłat i zaliczek na poczet opłaty stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2005 r. 8, poz. 60, z póên. zm. ), z wyłączeniem przepisów dotyczących umarzania należności, odraczania płatności oraz rozkładania płatności na raty, z zastrzeżeniem art. 15 ust. 2 rozporządzenia, o którym mowa pkt 1 załącznika.”;
+- **24)** art. 41a ust. 1 otrzymuje brzmienie: Ń1. Prezes Agencji ustala, terminie określonym art. 9 ust. 1 rozporządzenia, o którym mowa pkt 1 załącznika, średnią ważoną referencyjnych zawartości tłuszczu dla poprzedniego roku kwotowego.”;
+- **25)** art. 42 wprowadzenie do wyliczenia otrzymuje brzmienie: ŃAgencja realizuje zadania określone rozporządzeniach, o których mowa pkt 3—12 załącznika, zakresie:”;
 - **26)** art. 43:
-    - **a)** wust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: „W zakresie okreÊlonym rozporzàdzeniach, o których mowa pkt 3—10 za∏àcznika, Prezes Agencji:”,
-    - **b)** ust. 2—4 otrzymujà brzmienie: „2. W zakresie okreÊlonym rozporzàdzeniu, o którym mowa pkt 10 za∏àcznika, w∏aÊciwy miejscowo dyrektor oddzia∏u terenoweprzekraczajàcej dozwolonà iloÊç okreÊlonà rozporzàdzeniu, o którym mowa pkt 12 za∏àcznika, producent jest obowiàzany do wniesienia kary pieni´˝nej wysokoÊci okreÊlonej rozporzàdzeniu, o którym mowa wpkt 12 za∏àcznika, na wyodr´bniony rachunek bankowy Agencji.”;
+    - **a)** wust. 1 wprowadzenie do wyliczenia otrzymuje brzmienie: ŃW zakresie określonym rozporządzeniach, o których mowa pkt 3—10 załącznika, Prezes Agencji:”,
+    - **b)** ust. 2—4 otrzymują brzmienie: Ń2. W zakresie określonym rozporządzeniu, o którym mowa pkt 10 załącznika, właściwy miejscowo dyrektor oddziału terenoweprzekraczającej dozwoloną ilość określoną rozporządzeniu, o którym mowa pkt 12 załącznika, producent jest obowiązany do wniesienia kary pieniężnej wysokości określonej rozporządzeniu, o którym mowa wpkt 12 załącznika, na wyodrębniony rachunek bankowy Agencji.”;
 
-- **27)** art. 44 ust. 1 otrzymuje brzmienie: „1. W zakresie okreÊlonym rozporzàdzeniu, o którym mowa pkt 4 za∏àcznika, Prezes Agencji, ramach dop∏at do zakupu mas∏a, wydaje podmiotom wymienionym art. 42 pkt 2 lit. f bony uprawniajàce do zakupu okreÊlonej iloÊci mas∏a od dostawców wpisanych do rejestru, o którym mowa art. 43 ust. 1 pkt2.”;
-- **28)** art. 45 otrzymuje brzmienie: go Agencji, realizujàc zadania, o których mowa art. 42 pkt 2 lit. g, prowadzi rejestr podmiotów ubiegajàcych si´ o dop∏aty.
+- **27)** art. 44 ust. 1 otrzymuje brzmienie: Ń1. W zakresie określonym rozporządzeniu, o którym mowa pkt 4 załącznika, Prezes Agencji, ramach dopłat do zakupu masła, wydaje podmiotom wymienionym art. 42 pkt 2 lit. f bony uprawniające do zakupu określonej ilości masła od dostawców wpisanych do rejestru, o którym mowa art. 43 ust. 1 pkt2.”;
+- **28)** art. 45 otrzymuje brzmienie: go Agencji, realizując zadania, o których mowa art. 42 pkt 2 lit. g, prowadzi rejestr podmiotów ubiegających się o dopłaty.
 
-3. W zakresie okreÊlonym rozporzàdzeniu, o którym mowa pkt 11 za∏àcznika, Prezes Agencji, realizujàc zadania, o których mowa art. 42 pkt 3, wydaje producentom serów, na ich wniosek, zezwolenia na wykorzystywanie kazeiny i kazeinianów do produkcji serów.
+3. W zakresie określonym rozporządzeniu, o którym mowa pkt 11 załącznika, Prezes Agencji, realizując zadania, o których mowa art. 42 pkt 3, wydaje producentom serów, na ich wniosek, zezwolenia na wykorzystywanie kazeiny i kazeinianów do produkcji serów.
 
-4. Wprzypadku wykorzystywania przez producentów kazeiny i kazeinianów do produkcji „Art. 45. W zakresie okreÊlonym rozporzàdzeniach, októrych mowa wpkt 4 i9 za∏àcznika, Prezes Agencji wydaje ipoÊwiadcza formularz kontrolny (formularz T5) zakresie przemieszczania przetworów mlecznych wykorzystywanych ramach dop∏at, o których mowa art. 42 pkt 2 lit.b, c oraz e.”;
+4. Wprzypadku wykorzystywania przez producentów kazeiny i kazeinianów do produkcji ŃArt. 45. W zakresie określonym rozporządzeniach, októrych mowa wpkt 4 i9 załącznika, Prezes Agencji wydaje ipoświadcza formularz kontrolny (formularz T5) zakresie przemieszczania przetworów mlecznych wykorzystywanych ramach dopłat, o których mowa art. 42 pkt 2 lit.b, c oraz e.”;
 
-- **29)** po art. 45 dodaje si´ art. 45a brzmieniu: „Art. 45a. Prezes Agencji, zakresie okreÊlonym rozporzàdzeniach, o których mowa pkt 4—6 za∏àcznika, wydaje certyfikat jakoÊci mas∏a, odt∏uszczonego mleka proszku i Êmietanki przeznaczonych do wykorzystania ramach mechanizmów Wspólnej Polityki Rolnej winnych paƒstwach cz∏onkowskich Unii Europejskiej.”;
-- **30)** art. 46 otrzymuje brzmienie: „Art. 46. 1. Poza dop∏atami, o których mowa art.42 pkt 2 lit. g, pochodzàcymi ze Êrodków Unii Europejskiej, spo˝ycie mleka iprzetworów mlecznych jest dofinansowywane:
-- **1)** ze Êrodków finansowych pochodzàcych z Funduszu Promocji Mleczarstwa przewidzianych wplanie finansowym tego Funduszu przedszkolach i szko∏ach, z wy∏àczeniem szkó∏ podstawowych i wy˝szych;
-- **2)** z przychodów Agencji pochodzàcych zdotacji bud˝etowej wszko∏ach podstawowych. ——————— 2. Dofinansowanie, o którym mowa wust. 1 pkt 2, zwane dalej „dop∏atà krajowà”, jest wyp∏acane przez Agencj´ inie mo˝e byç wy˝sze ni˝ 100 % maksymalnej ceny mleka ozawartoÊci co najszej ni˝ 0,20 l, ustalonej przepisach wydanych na podstawie art. 42a.
+- **29)** po art. 45 dodaje się art. 45a brzmieniu: ŃArt. 45a. Prezes Agencji, zakresie określonym rozporządzeniach, o których mowa pkt 4—6 załącznika, wydaje certyfikat jakości masła, odtłuszczonego mleka proszku i śmietanki przeznaczonych do wykorzystania ramach mechanizmów Wspólnej Polityki Rolnej winnych państwach członkowskich Unii Europejskiej.”;
+- **30)** art. 46 otrzymuje brzmienie: ŃArt. 46. 1. Poza dopłatami, o których mowa art.42 pkt 2 lit. g, pochodzącymi ze środków Unii Europejskiej, spożycie mleka iprzetworów mlecznych jest dofinansowywane:
+- **1)** ze środków finansowych pochodzących z Funduszu Promocji Mleczarstwa przewidzianych wplanie finansowym tego Funduszu przedszkolach i szkołach, z wyłączeniem szkół podstawowych i wyższych;
+- **2)** z przychodów Agencji pochodzących zdotacji budżetowej wszkołach podstawowych. ——————— 2. Dofinansowanie, o którym mowa wust. 1 pkt 2, zwane dalej Ńdopłatą krajową”, jest wypłacane przez Agencję inie może być wyższe niż 100 % maksymalnej ceny mleka ozawartości co najszej niż 0,20 l, ustalonej przepisach wydanych na podstawie art. 42a.
 
-3. Wprzypadku gdy cena mleka lub przetworu mlecznego dostarczonych do szkó∏ podstawowych jest ni˝sza ni˝ maksymalna cena mleka, o której mowa wust. 2, dofinansowanie zmniejsza si´ do ceny dostarczonego mleka lub przetworu mlecznego.
+3. Wprzypadku gdy cena mleka lub przetworu mlecznego dostarczonych do szkół podstawowych jest niższa niż maksymalna cena mleka, o której mowa wust. 2, dofinansowanie zmniejsza się do ceny dostarczonego mleka lub przetworu mlecznego.
 
-4. Dop∏ata krajowa jest przyznawana do maksymalnej iloÊci 0,25 l ekwiwalentu mleka na jednego ucznia na jeden dzieƒ nauki szkolnej, ustalonego zgodnie z art. 5 rozporzàdzenia, o którym mowa pkt 10 za∏àcznika.
+4. Dopłata krajowa jest przyznawana do maksymalnej ilości 0,25 l ekwiwalentu mleka na jednego ucznia na jeden dzień nauki szkolnej, ustalonego zgodnie z art. 5 rozporządzenia, o którym mowa pkt 10 załącznika.
 
-5. Warunkiem uzyskania dop∏aty krajowej jest dostarczanie mleka i przetworów mlecznych do szkó∏ podstawowych bezp∏atnie lub cenie nie wy˝szej ni˝ ró˝nica mi´dzy cenà maksymalnà dostarczonego mleka lub przetworu mlecznego a cenà maksymalnà okreÊlonà ust. 2.”;
+5. Warunkiem uzyskania dopłaty krajowej jest dostarczanie mleka i przetworów mlecznych do szkół podstawowych bezpłatnie lub cenie nie wyższej niż różnica między ceną maksymalną dostarczonego mleka lub przetworu mlecznego a ceną maksymalną określoną ust. 2.”;
 
-- **31)** po art. 46 dodaje si´ art. 46a i 46b brzmieniu: „Art. 46a. 1. Dop∏ata krajowa jest udzielana:
-- **1)** podmiotom wpisanym do rejestru podmiotów ubiegajàcych si´ o dop∏aty, o którym mowa art. 43 ust. 2, dostarczajàcym mleko lub przetwory mleczne do szkó∏ podstawowych, na zasadach i zgodnie zwarunkami okreÊlonymi wrozporzàdzeniu, o którym mowa pkt 10 za∏àcznika;
-- **2)** na wniosek sk∏adany do w∏aÊciwego miejscowo dyrektora oddzia∏u terenowego Agencji, na formularzu opracowanym i udost´pnionym przez Agencj´.
+- **31)** po art. 46 dodaje się art. 46a i 46b brzmieniu: ŃArt. 46a. 1. Dopłata krajowa jest udzielana:
+- **1)** podmiotom wpisanym do rejestru podmiotów ubiegających się o dopłaty, o którym mowa art. 43 ust. 2, dostarczającym mleko lub przetwory mleczne do szkół podstawowych, na zasadach i zgodnie zwarunkami określonymi wrozporządzeniu, o którym mowa pkt 10 załącznika;
+- **2)** na wniosek składany do właściwego miejscowo dyrektora oddziału terenowego Agencji, na formularzu opracowanym i udostępnionym przez Agencję.
 
-2. Kontrole dotyczàce wykorzystania dop∏at krajowych przeprowadza si´ na zasadach okreÊlonych przepisach rozporzàdzenia, o którym mowa pkt 10 za∏àcznika.
+2. Kontrole dotyczące wykorzystania dopłat krajowych przeprowadza się na zasadach określonych przepisach rozporządzenia, o którym mowa pkt 10 załącznika.
 
-3. Do kontroli, októrych mowa wust. 2, stosuje si´ przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. oAgencji Rynku Rolnego iorganizacji niektórych rynków rolnych (Dz. U. Nr42, poz. 386, z póên. zm. dop∏aty krajowej, a tak˝e szczegó∏owy zakres kontroli wykorzystania tej dop∏aty, majàc szczególnoÊci na uwadze okreÊlenie terminów dokonywania poszczególnych czynnoÊci zwiàzanych z wyp∏atà dop∏at krajowych, przepisy Unii Europejskiej zakresie dop∏at do spo˝ycia mleka iprzetworów mlecznych przedszkolach i szko∏ach, a tak˝e zabezpieczenie prawid∏owego wydatkowania tych Êrodków.”;
+3. Do kontroli, októrych mowa wust. 2, stosuje się przepisy art. 20 i art. 21 ustawy z dnia 11 marca 2004 r. oAgencji Rynku Rolnego iorganizacji niektórych rynków rolnych (Dz. U. Nr42, poz. 386, z póên. zm. dopłaty krajowej, a także szczegółowy zakres kontroli wykorzystania tej dopłaty, mając szczególności na uwadze określenie terminów dokonywania poszczególnych czynności związanych z wypłatą dopłat krajowych, przepisy Unii Europejskiej zakresie dopłat do spożycia mleka iprzetworów mlecznych przedszkolach i szkołach, a także zabezpieczenie prawidłowego wydatkowania tych środków.”;
 
-- **32)** rozdzia∏ 4 otrzymuje brzmienie: „Rozdzia∏ 4 Kontrole i czynnoÊci sprawdzajàce
+- **32)** rozdział 4 otrzymuje brzmienie: ŃRozdział 4 Kontrole i czynności sprawdzające
 
 **Art. 49.**
 
 1. Agencja przeprowadza:
 
-- **1)** kontrole podmiotów skupujàcych zakresie spe∏niania warunków okreÊlonych art. 4 ust. 2;
-- **2)** czynnoÊci sprawdzajàce dostawców hurtowych, dostawców bezpoÊrednich, tym dostawców, którym zosta∏a przyznana rekompensata, o której mowa art. 23a ust. 1, podmioty skupujàce oraz podmioty wymienione art. 42b i art. 43, zakresie wykonywania przez te podmioty obowiàzków zwiàzanych z kwotowaniem produkcji mleka, zakupem interwencyjnym i sprzeda˝à interwencyjnà, dop∏atami do przechowywania, przetwórstwa i konsumpcji przetworów mlecznych oraz wykorzystywaniem kazeiny i kazeinianów do produkcji serów, ramach realizacji zadaƒ okreÊlonych ustawie.
+- **1)** kontrole podmiotów skupujących zakresie spełniania warunków określonych art. 4 ust. 2;
+- **2)** czynności sprawdzające dostawców hurtowych, dostawców bezpośrednich, tym dostawców, którym została przyznana rekompensata, o której mowa art. 23a ust. 1, podmioty skupujące oraz podmioty wymienione art. 42b i art. 43, zakresie wykonywania przez te podmioty obowiązków związanych z kwotowaniem produkcji mleka, zakupem interwencyjnym i sprzedażą interwencyjną, dopłatami do przechowywania, przetwórstwa i konsumpcji przetworów mlecznych oraz wykorzystywaniem kazeiny i kazeinianów do produkcji serów, ramach realizacji zadań określonych ustawie.
 
-2. Kontrole, októrych mowa wust. 1 pkt 1, przeprowadza w∏aÊciwy miejscowo dy). rektor oddzia∏u terenowego Agencji.
+2. Kontrole, októrych mowa wust. 1 pkt 1, przeprowadza właściwy miejscowo dy). rektor oddziału terenowego Agencji.
 
-3. Do przeprowadzania przez Agencj´ kontroli oraz czynnoÊci sprawdzajàcych stosuje si´ przepisy art. 20 iart. 21 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych.”;
+3. Do przeprowadzania przez Agencję kontroli oraz czynności sprawdzających stosuje się przepisy art. 20 iart. 21 ustawy z dnia 11 marca 2004 r. o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych.”;
 
-- **33)** rozdzia∏ 6 otrzymuje brzmienie: „Rozdzia∏ 6 Kary pieni´˝ne
+- **33)** rozdział 6 otrzymuje brzmienie: ŃRozdział 6 Kary pieniężne
 
 **Art. 53.**
 
-1. Podmiot skupujàcy, który wykonuje dzia∏alnoÊç zakresie skupu mleka bez wpisu do rejestru podmiotów, podlega karze pieni´˝nej wysokoÊci stanowià——————— cej iloczyn: stru podmiotów i
+1. Podmiot skupujący, który wykonuje działalność zakresie skupu mleka bez wpisu do rejestru podmiotów, podlega karze pieniężnej wysokości stanowią——————— cej iloczyn: stru podmiotów i
 
-- **2)** wysokoÊci 50% op∏aty obowiàzujàcej dniu wydania decyzji o wymierzeniu kary pieni´˝nej.
+- **2)** wysokości 50% opłaty obowiązującej dniu wydania decyzji o wymierzeniu kary pieniężnej.
 
-2. Podmiot skupujàcy, który skupuje mleko od producentów nieposiadajàcych indywidualnych iloÊci referencyjnych, podlega karze pieni´˝nej wysokoÊci stanowiàcej iloczyn:
+2. Podmiot skupujący, który skupuje mleko od producentów nieposiadających indywidualnych ilości referencyjnych, podlega karze pieniężnej wysokości stanowiącej iloczyn:
 
-- **1)** wyra˝onej kilogramach iloÊci skupionego mleka od tych producentów i
-- **2)** wysokoÊci 50 % op∏aty obowiàzujàcej dniu wydania decyzji o wymierzeniu kary pieni´˝nej.
+- **1)** wyrażonej kilogramach ilości skupionego mleka od tych producentów i
+- **2)** wysokości 50 % opłaty obowiązującej dniu wydania decyzji o wymierzeniu kary pieniężnej.
 
-**Art. 54.** Podmiot skupujàcy, który nie przeÊle terminie okreÊlonym art. 8 ust. 2 rozporzàdzenia, o którym mowa pkt 1 za∏àcznika, informacji okreÊlonych art. 10 ust. 1 pkt 5, podlega karze pieni´˝nej wwysokoÊci ustalonej na podstawie art. 8 ust. 3 rozporzàdzenia, o którym mowa pkt 1 za∏àcznika.
+**Art. 54.** Podmiot skupujący, który nie prześle terminie określonym art. 8 ust. 2 rozporządzenia, o którym mowa pkt 1 załącznika, informacji określonych art. 10 ust. 1 pkt 5, podlega karze pieniężnej wwysokości ustalonej na podstawie art. 8 ust. 3 rozporządzenia, o którym mowa pkt 1 załącznika.
 
 **Art. 54a.**
 
-1. Podmiot skupujàcy, który podaje informacjach okreÊlonych wart. 10 ust. 1 pkt 5 iloÊç mleka dostarczonego podmiotowi skupujàcemu innà ni˝ iloÊç faktycznie skupiona, podlega karze pieni´˝nej wysokoÊci stanowiàcej iloczyn:
+1. Podmiot skupujący, który podaje informacjach określonych wart. 10 ust. 1 pkt 5 ilość mleka dostarczonego podmiotowi skupującemu inną niż ilość faktycznie skupiona, podlega karze pieniężnej wysokości stanowiącej iloczyn:
 
-- **1)** op∏aty obowiàzujàcej dniu wydania decyzji o wymierzeniu kary pieni´˝nej i
-- **2)** 0,01 % ró˝nicy, wyra˝onej wkilogramach, iloÊci mleka faktycznie skupionego iiloÊci mleka podanej winformacji, i
-- **3)** iloÊci dni za ka˝dy dzieƒ zw∏oki przes∏aniu prawid∏owej informacji.
+- **1)** opłaty obowiązującej dniu wydania decyzji o wymierzeniu kary pieniężnej i
+- **2)** 0,01 % różnicy, wyrażonej wkilogramach, ilości mleka faktycznie skupionego iilości mleka podanej winformacji, i
+- **3)** ilości dni za każdy dzień zwłoki przesłaniu prawidłowej informacji.
 
-2. WysokoÊç kary pieni´˝nej, o której mowa ust. 1, nie mo˝e byç wy˝sza ni˝ iloczyn:
+2. Wysokość kary pieniężnej, o której mowa ust. 1, nie może być wyższa niż iloczyn:
 
-- **1)** ró˝nicy mi´dzy iloÊcià mleka dostarczonego podmiotowi skupujàcemu ailoÊcià mleka podanà winformacji, o której mowa ust. 1, i
-- **2)** wysokoÊci op∏aty obowiàzujàcej wdniu wydania decyzji owymierzeniu kary pieni´˝nej.
+- **1)** różnicy między ilością mleka dostarczonego podmiotowi skupującemu ailością mleka podaną winformacji, o której mowa ust. 1, i
+- **2)** wysokości opłaty obowiązującej wdniu wydania decyzji owymierzeniu kary pieniężnej.
 
-**Art. 54b.** Podmiot skupujàcy, który wykazuje wdokumencie potwierdzajàcym dostaw´ mleka iloÊç innà ni˝ iloÊç ustalona przy jego roz∏adunku u podmiotu skupujàcego, podlega karze pieni´˝nej wysoko2) ró˝nicy, wyra˝onej kilogramach, iloÊci mleka okreÊlonej dokumencie potwierdzajàcym dostaw´ mleka iiloÊci mleka ustalonej przy roz∏adunku.
+**Art. 54b.** Podmiot skupujący, który wykazuje wdokumencie potwierdzającym dostawę mleka ilość inną niż ilość ustalona przy jego rozładunku u podmiotu skupującego, podlega karze pieniężnej wysoko2) różnicy, wyrażonej kilogramach, ilości mleka określonej dokumencie potwierdzającym dostawę mleka iilości mleka ustalonej przy rozładunku.
 
-**Art. 54c.** Podmiot skupujàcy, który uniemo˝liwia przeprowadzenie kontroli lub czynnoÊci sprawdzajàcych zakresie okreÊlonym ustawie oraz rozporzàdzeniu, o którym mowa pkt 1 za∏àcznika, podlega karze pieni´˝nej wysokoÊci od 5 000 z∏ do 20 000 z∏.
+**Art. 54c.** Podmiot skupujący, który uniemożliwia przeprowadzenie kontroli lub czynności sprawdzających zakresie określonym ustawie oraz rozporządzeniu, o którym mowa pkt 1 załącznika, podlega karze pieniężnej wysokości od 5 000 zł do 20 000 zł.
 
-**Art. 54d.** Podmiot skupujàcy, który utrudnia przeprowadzenie kontroli lub czynnoÊci sprawdzajàcych zakresie okreÊlonym ustawie oraz rozporzàdzeniu, o którym mowa pkt 1 za∏àcznika, podlega karze pieni´˝nej wysokoÊci od 2 000 z∏ do 10 000 z∏.
+**Art. 54d.** Podmiot skupujący, który utrudnia przeprowadzenie kontroli lub czynności sprawdzających zakresie określonym ustawie oraz rozporządzeniu, o którym mowa pkt 1 załącznika, podlega karze pieniężnej wysokości od 2 000 zł do 10 000 zł.
 
-**Art. 54e.** Podmiot skupujàcy, który nie wykonuje obowiàzków lub narusza wymagania okreÊlone wart. 24 rozporzàdzenia, októrym mowa pkt 1 za∏àcznika, podlega karze pieni´˝nej wysokoÊci od 2 000 z∏ do 20 000 z∏.
+**Art. 54e.** Podmiot skupujący, który nie wykonuje obowiązków lub narusza wymagania określone wart. 24 rozporządzenia, októrym mowa pkt 1 załącznika, podlega karze pieniężnej wysokości od 2 000 zł do 20 000 zł.
 
-**Art. 54f.** Podmiot skupujàcy, który nie spe∏nia obowiàzku okreÊlonego art. 10 ust. 1 pkt 6, podlega karze pieni´˝nej wysokoÊci 500 z∏.
+**Art. 54f.** Podmiot skupujący, który nie spełnia obowiązku określonego art. 10 ust. 1 pkt 6, podlega karze pieniężnej wysokości 500 zł.
 
-**Art. 54g.** Podmiot skupujàcy, który przekroczy∏ dopuszczalne odchylenia okreÊlone przepisach wykonawczych wydanych na podstawie art. 21 ust. 2, potwierdzone mi´dzylaboratoryjnymi badaniami porównawczymi wdwóch kolejnych badaniach zawartoÊci t∏uszczu wmleku, podlega karze pieni´˝nej wysokoÊci 2 000 z∏.
+**Art. 54g.** Podmiot skupujący, który przekroczył dopuszczalne odchylenia określone przepisach wykonawczych wydanych na podstawie art. 21 ust. 2, potwierdzone międzylaboratoryjnymi badaniami porównawczymi wdwóch kolejnych badaniach zawartości tłuszczu wmleku, podlega karze pieniężnej wysokości 2 000 zł.
 
-**Art. 54h.** Kto dostarcza mleko podmiotowi skupujàcemu niewpisanemu do rejestru podmiotów, podlega karze pieni´˝nej wysokoÊci od 500 z∏ do 2 000 z∏.
+**Art. 54h.** Kto dostarcza mleko podmiotowi skupującemu niewpisanemu do rejestru podmiotów, podlega karze pieniężnej wysokości od 500 zł do 2 000 zł.
 
 **Art. 54i.**
 
-1. Dostawca hurtowy lub dostawca bezpoÊredni, który wprowadza do obrotu mleko lub przetwory mleczne iloÊci przekraczajàcej oszacowane posiadane mo˝liwoÊci produkcyjne, podlega karze pieni´˝nej wysokoÊci stanowiàcej iloczyn:
+1. Dostawca hurtowy lub dostawca bezpośredni, który wprowadza do obrotu mleko lub przetwory mleczne ilości przekraczającej oszacowane posiadane możliwości produkcyjne, podlega karze pieniężnej wysokości stanowiącej iloczyn:
 
-- **1)** wyra˝onego kilogramach przekroczenia i
-- **2)** wysokoÊci 25% op∏aty obowiàzujàcej dniu wydania decyzji o wymierzeniu kary pieni´˝nej. Êci stanowiàcej iloczyn:
+- **1)** wyrażonego kilogramach przekroczenia i
+- **2)** wysokości 25% opłaty obowiązującej dniu wydania decyzji o wymierzeniu kary pieniężnej. ści stanowiącej iloczyn:
 
-2. Podstawà wymiaru kary pieni´˝nej, o której mowa ust. 1, jest nadwy˝ka poÊredniego okresie obj´tym czynnoÊciami sprawdzajàcymi, o których mowa wart. 49 ust. 1 pkt 2, nad iloÊcià mleka lub przetworów mlecznych oszacowanych zgodnie z art. 12a ust. 2, pomniejszonà o iloÊci mleka lub przetworów mlecznych wykorzystanych na spo˝ycie w∏asne lub do karmienia zwierzàt.
+2. Podstawą wymiaru kary pieniężnej, o której mowa ust. 1, jest nadwyżka pośredniego okresie objętym czynnościami sprawdzającymi, o których mowa wart. 49 ust. 1 pkt 2, nad ilością mleka lub przetworów mlecznych oszacowanych zgodnie z art. 12a ust. 2, pomniejszoną o ilości mleka lub przetworów mlecznych wykorzystanych na spożycie własne lub do karmienia zwierząt.
 
-3. Kary pieni´˝nej nie wymierza si´, je˝eli nadwy˝ka, o której mowa ust. 2, nie przekracza 30 % mo˝liwoÊci produkcyjnych posiadanych przez dostawc´ hurtowego lub dostawc´ bezpoÊredniego oszacowanych zgodnie z art. 12a ust. 2.
+3. Kary pieniężnej nie wymierza się, jeżeli nadwyżka, o której mowa ust. 2, nie przekracza 30 % możliwości produkcyjnych posiadanych przez dostawcę hurtowego lub dostawcę bezpośredniego oszacowanych zgodnie z art. 12a ust. 2.
 
-**Art. 54j.** Dostawca hurtowy lub dostawca bezpoÊredni, który uniemo˝liwia przeprowadzenie kontroli lub czynnoÊci sprawdzajàcych zakresie okreÊlonym ustawie oraz rozporzàdzeniu, o którym mowa pkt 1 za∏àcznika, podlega karze pieni´˝nej wysokoÊci od 200 z∏ do 500 z∏.
+**Art. 54j.** Dostawca hurtowy lub dostawca bezpośredni, który uniemożliwia przeprowadzenie kontroli lub czynności sprawdzających zakresie określonym ustawie oraz rozporządzeniu, o którym mowa pkt 1 załącznika, podlega karze pieniężnej wysokości od 200 zł do 500 zł.
 
-**Art. 54k.** Dostawca hurtowy lub dostawca bezpoÊredni, który utrudnia przeprowadzenie kontroli lub czynnoÊci sprawdzajàcych zakresie okreÊlonym ustawie oraz rozporzàdzeniu, o którym mowa pkt 1 za∏àcznika, podlega karze pieni´˝nej wysokoÊci od 50 z∏ do 200 z∏.
+**Art. 54k.** Dostawca hurtowy lub dostawca bezpośredni, który utrudnia przeprowadzenie kontroli lub czynności sprawdzających zakresie określonym ustawie oraz rozporządzeniu, o którym mowa pkt 1 załącznika, podlega karze pieniężnej wysokości od 50 zł do 200 zł.
 
-**Art. 54l.** Dostawca hurtowy lub dostawca bezpoÊredni, który nie wykonuje obowiàzków lub narusza wymagania okreÊlone art.24 rozporzàdzenia, o którym mowa wpkt 1 za∏àcznika, podlega karze pieni´˝nej wysokoÊci od 100 z∏ do 2 000 z∏.
+**Art. 54l.** Dostawca hurtowy lub dostawca bezpośredni, który nie wykonuje obowiązków lub narusza wymagania określone art.24 rozporządzenia, o którym mowa wpkt 1 załącznika, podlega karze pieniężnej wysokości od 100 zł do 2 000 zł.
 
-**Art. 54m.** Dostawca bezpoÊredni, który nie przeÊle terminie okreÊlonym art. 11 ust. 2 rozporzàdzenia, o którym mowa pkt 1 za∏àcznika, informacji okreÊlonych wart. 11 ust. 3, podlega karze pieni´˝nej wysokoÊci ustalonej na podstawie art. 11 ust. 3 rozporzàdzenia, o którym mowa pkt 1 za∏àcznika.
+**Art. 54m.** Dostawca bezpośredni, który nie prześle terminie określonym art. 11 ust. 2 rozporządzenia, o którym mowa pkt 1 załącznika, informacji określonych wart. 11 ust. 3, podlega karze pieniężnej wysokości ustalonej na podstawie art. 11 ust. 3 rozporządzenia, o którym mowa pkt 1 załącznika.
 
-**Art. 54n.** Dostawca bezpoÊredni, który podaje informacjach okreÊlonych art. 11 ust. 3 iloÊç mleka lub przetworów mlecznych innà ni˝ iloÊç, która zosta∏a przez niego wprowadzona do obrotu, podlega karze pieni´˝nej wysokoÊci stanowiàcej iloczyn:
+**Art. 54n.** Dostawca bezpośredni, który podaje informacjach określonych art. 11 ust. 3 ilość mleka lub przetworów mlecznych inną niż ilość, która została przez niego wprowadzona do obrotu, podlega karze pieniężnej wysokości stanowiącej iloczyn:
 
 **Art. 54o.**
 
-1. Dyrektor oddzia∏u terenowego Agencji w∏aÊciwy ze wzgl´du na miejsce zamieszkania albo siedzib´ producenta, albo siedzib´ podmiotu skupujàcego wydaje decyzj´ sprawie wymierzenia kary pieni´˝nej.
+1. Dyrektor oddziału terenowego Agencji właściwy ze względu na miejsce zamieszkania albo siedzibę producenta, albo siedzibę podmiotu skupującego wydaje decyzję sprawie wymierzenia kary pieniężnej.
 
-2. Od decyzji, o której mowa ust. 1, przys∏uguje odwo∏anie do Prezesa Agencji.
+2. Od decyzji, o której mowa ust. 1, przysługuje odwołanie do Prezesa Agencji.
 
-3. Wymierzajàc kar´ pieni´˝nà okreÊlonà art. 54c—54e, art. 54h i art. 54j—54l, dyrektor oddzia∏u terenowego Agencji, o którym mowa ust. 1, bierze pod uwag´ wp∏yw czynu zabronionego na prawid∏owe mach iloÊci mleka lub przetworów funkcjonowanie systemu kwotowania produkcji mleka.
+3. Wymierzając karę pieniężną określoną art. 54c—54e, art. 54h i art. 54j—54l, dyrektor oddziału terenowego Agencji, o którym mowa ust. 1, bierze pod uwagę wpływ czynu zabronionego na prawidłowe mach ilości mleka lub przetworów funkcjonowanie systemu kwotowania produkcji mleka.
 
-4. Op∏at´ przelicza si´ na z∏ote wed∏ug kursu Êredniego euro og∏aszanego przez Narodowy Bank Polski z dnia wydania decyzji, o której mowa ust.1.
+4. Opłatę przelicza się na złote według kursu średniego euro ogłaszanego przez Narodowy Bank Polski z dnia wydania decyzji, o której mowa ust.1.
 
 **Art. 55.**
 
-1. Kar pieni´˝nych nie wymierza si´, je˝eli od koƒca roku kwotowego, którym pope∏niono czyn zabroniony, up∏yn´∏y 3 lata.
+1. Kar pieniężnych nie wymierza się, jeżeli od końca roku kwotowego, którym popełniono czyn zabroniony, upłynęły 3 lata.
 
-2. Od nieuiszczonych terminie kar pieni´˝nych pobiera si´ odsetki za ka˝dy dzieƒ zw∏oki wwysokoÊci przewidzianej dla zaleg∏oÊci podatkowych.
+2. Od nieuiszczonych terminie kar pieniężnych pobiera się odsetki za każdy dzień zwłoki wwysokości przewidzianej dla zaległości podatkowych.
 
-3. Do egzekucji kary pieni´˝nej wraz z odsetkami za zw∏ok´ stosuje si´ przepisy opost´powaniu egzekucyjnym wadministracji.”;
+3. Do egzekucji kary pieniężnej wraz z odsetkami za zwłokę stosuje się przepisy opostępowaniu egzekucyjnym wadministracji.”;
 
-- **34)** za∏àcznik do ustawy otrzymuje brzmienie okreÊlone za∏àczniku do niniejszej ustawy.
+- **34)** załącznik do ustawy otrzymuje brzmienie określone załączniku do niniejszej ustawy.
 
-**Art. 2.** Wustawie zdnia 17 czerwca 1966 r. opost´powaniu egzekucyjnym administracji (Dz. U. z2005r. 229, poz. 1954, zpóên. zm. ) wart. 8 w§1 pkt 16 kropk´ zast´puje si´ Êrednikiem i dodaje si´ pkt 17 brzmieniu: „17) Êrodki pieni´˝ne zgromadzone na rachunku bankowym, o którym mowa art. 36 ust. 4a ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2005 r. 244, poz. 2081, z 2006 r. 50, poz. 363 i Nr208, poz. 1541 oraz z 2007 r. 115, poz. 794).”. ——————— Êrednikiem i dodaje si´ pkt 7 brzmieniu: „7) Êrodki pieni´˝ne zgromadzone na rachunku bankowym, o którym mowa art. 36 ust. 4a ustawy zdnia 20 kwietnia 2004 r. oorganizacji rynku mleka iprzetworów mlecznych (Dz. U. z2005 r. Nr244, poz. 2081, z 2006 r. 50, poz. 363 i Nr208, poz. 1541 oraz z2007 r.Nr 115, poz. 794).”.
+**Art. 2.** Wustawie zdnia 17 czerwca 1966 r. opostępowaniu egzekucyjnym administracji (Dz. U. z2005r. 229, poz. 1954, zpóên. zm. ) wart. 8 w§1 pkt 16 kropkę zastępuje się średnikiem i dodaje się pkt 17 brzmieniu: Ń17) środki pieniężne zgromadzone na rachunku bankowym, o którym mowa art. 36 ust. 4a ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2005 r. 244, poz. 2081, z 2006 r. 50, poz. 363 i Nr208, poz. 1541 oraz z 2007 r. 115, poz. 794).”. ——————— średnikiem i dodaje się pkt 7 brzmieniu: Ń7) środki pieniężne zgromadzone na rachunku bankowym, o którym mowa art. 36 ust. 4a ustawy zdnia 20 kwietnia 2004 r. oorganizacji rynku mleka iprzetworów mlecznych (Dz. U. z2005 r. Nr244, poz. 2081, z 2006 r. 50, poz. 363 i Nr208, poz. 1541 oraz z2007 r.Nr 115, poz. 794).”.
 
 **Art. 4.**
 
-1. Podmioty skupujàce wpisane, dniu wejÊcia ˝ycie niniejszej ustawy, do prowadzonego przez Prezesa Agencji Rynku Rolnego rejestru podmiotów skupujàcych mleko, przekazujà temu Prezesowi informacj´ o numerze posiadanego rachunku bankowego, o którym mowa art. 36 ust. 4a ustawy wymienionej wart. 1, wterminie 2 miesi´cy od dnia wejÊcia ˝ycie niniejszej ustawy.
+1. Podmioty skupujące wpisane, dniu wejścia życie niniejszej ustawy, do prowadzonego przez Prezesa Agencji Rynku Rolnego rejestru podmiotów skupujących mleko, przekazują temu Prezesowi informację o numerze posiadanego rachunku bankowego, o którym mowa art. 36 ust. 4a ustawy wymienionej wart. 1, wterminie 2 miesięcy od dnia wejścia życie niniejszej ustawy.
 
-2. W przypadku nieprzekazania terminie informacji, o której mowa ust. 1, Prezes Agencji Rynku suje si´ przepisy dotychczasowe, z zastrze˝eniem ust. 2 i 3.
+2. W przypadku nieprzekazania terminie informacji, o której mowa ust. 1, Prezes Agencji Rynku suje się przepisy dotychczasowe, z zastrzeżeniem ust. 2 i 3.
 
-2. Do spraw dotyczàcych wymierzenia kar pieni´˝nych na podstawie art. 54 ust. 1 pkt 3—6 ustawy, o której mowa ust. 1, stosuje si´ przepisy art. 54, art.54a, art. 54m i art. 54n tej ustawy, brzmieniu nadanym niniejszà ustawà.
+2. Do spraw dotyczących wymierzenia kar pieniężnych na podstawie art. 54 ust. 1 pkt 3—6 ustawy, o której mowa ust. 1, stosuje się przepisy art. 54, art.54a, art. 54m i art. 54n tej ustawy, brzmieniu nadanym niniejszą ustawą.
 
-3. Umarza si´ post´powania wszcz´te na podstawie art. 54 ust. 1 pkt 1, 2 i 7 ustawy, o której mowa ust. 1, niezakoƒczone przed dniem wejÊcia ˝ycie niniejszej ustawy.
+3. Umarza się postępowania wszczęte na podstawie art. 54 ust. 1 pkt 1, 2 i 7 ustawy, o której mowa ust. 1, niezakończone przed dniem wejścia życie niniejszej ustawy.
 
 **Art. 6.**
 
-1. Z dniem wejÊcia ˝ycie niniejszej ustawy dyrektorzy oddzia∏ów terenowych Agencji Rynku Rolnego, stosownie do swojej w∏aÊciwoÊci, przejmujà prowadzenie spraw prowadzonych przez ministra w∏aÊciwego do spraw rynków rolnych zwiàzanych Rolnego wykreÊla, wdrodze decyzji, podmiot skupujà- z wymierzaniem kar pieni´˝nych, o których mowa cy z rejestru podmiotów skupujàcych mleko. art. 54 ust. 1 ustawy wymienionej art. 1. ———————
+1. Z dniem wejścia życie niniejszej ustawy dyrektorzy oddziałów terenowych Agencji Rynku Rolnego, stosownie do swojej właściwości, przejmują prowadzenie spraw prowadzonych przez ministra właściwego do spraw rynków rolnych związanych Rolnego wykreśla, wdrodze decyzji, podmiot skupują- z wymierzaniem kar pieniężnych, o których mowa cy z rejestru podmiotów skupujących mleko. art. 54 ust. 1 ustawy wymienionej art. 1. ———————
 
-2. Przej´cie prowadzenia spraw, o którym mowa wust. 1, obejmuje przekazanie dokumentacji wformie papierowej lub formie danych zapisanych na elektronicznych noÊnikach informacji.
+2. Przejęcie prowadzenia spraw, o którym mowa wust. 1, obejmuje przekazanie dokumentacji wformie papierowej lub formie danych zapisanych na elektronicznych nośnikach informacji.
 
-3. Minister w∏aÊciwy do spraw rynków rolnych przeka˝e Prezesowi Agencji Rynku Rolnego terminie 14 dni od dnia wejÊcia ˝ycie niniejszej ustawy dokumentacj´, o której mowa ust. 2.
+3. Minister właściwy do spraw rynków rolnych przekaże Prezesowi Agencji Rynku Rolnego terminie 14 dni od dnia wejścia życie niniejszej ustawy dokumentację, o której mowa ust. 2.
 
-4. Prezes Agencji Rynku Rolnego przeka˝e niezw∏ocznie w∏aÊciwym miejscowo dyrektorom oddzia∏ów terenowych Agencji Rynku Rolnego dokumentacj´, o której mowa ust. 2, przekazanà przez ministra w∏aÊciwego do spraw rynków rolnych zgodnie z ust. 3.
+4. Prezes Agencji Rynku Rolnego przekaże niezwłocznie właściwym miejscowo dyrektorom oddziałów terenowych Agencji Rynku Rolnego dokumentację, o której mowa ust. 2, przekazaną przez ministra właściwego do spraw rynków rolnych zgodnie z ust. 3.
 
-**Art. 7.** Przepisu art. 24 ust. 6bustawy wymienionej art. 1, brzmieniu nadanym niniejszà ustawà, nie stosuje si´ do producenta, który otrzyma∏ indywidualnà iloÊç referencyjnà przyznanà z krajowej rezerwy przed dniem wejÊcia ˝ycie niniejszej ustawy.
+**Art. 7.** Przepisu art. 24 ust. 6bustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, nie stosuje się do producenta, który otrzymał indywidualną ilość referencyjną przyznaną z krajowej rezerwy przed dniem wejścia życie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi ˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem:
+**Art. 8.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 

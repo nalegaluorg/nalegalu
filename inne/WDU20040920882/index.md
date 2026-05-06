@@ -24,408 +24,408 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920882) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/882/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 6 wrzeÊnia 2001 r. Prawo farmaceutyczne (Dz. U. z 2004 r, 53. poz. 533. 69. poz. 625 i 91. poz. 877) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2004 r, 53. poz. 533. 69. poz. 625 i 91. poz. 877) wprowadza się następujące zmiany:
 
-**Art. 19b.** Minister w∏aÊciwy do spraw zdrowia okreÊli w drodze rozporzàdzenia szczegó∏owy tryb post´powania dotyczàcy procedury wzajemnego uznania oraz wzory wniosków, o których mowa w art. 19 ust. 9, uwzgl´dniajàc w szczególnoÊci przebieg procedury wzajemnego uznania obejmujàcej rozpatrzenie wniosku, wydanie decyzji ouznaniu pozwolenia oraz przed∏u˝enie wa˝noÊci pozwolenia na dopuszczenie do obrotu.
+**Art. 19b.** Minister właściwy do spraw zdrowia określi w drodze rozporządzenia szczegółowy tryb postępowania dotyczący procedury wzajemnego uznania oraz wzory wniosków, o których mowa w art. 19 ust. 9, uwzględniając w szczególności przebieg procedury wzajemnego uznania obejmującej rozpatrzenie wniosku, wydanie decyzji ouznaniu pozwolenia oraz przedłużenie ważności pozwolenia na dopuszczenie do obrotu.
 
-**Art. 19c.** W ramach procedury wzajemnego uznania pobierane sà op∏aty za:
+**Art. 19c.** W ramach procedury wzajemnego uznania pobierane są opłaty za:
 
 **Art. 37a.**
 
-1. Badania kliniczne przeprowadza si´ zgodnie z zasadami okreÊlonymi w art. 37b—37ag, a badania kliniczne weterynaryjne w art. 37ah—37ak.
+1. Badania kliniczne przeprowadza się zgodnie z zasadami określonymi w art. 37b—37ag, a badania kliniczne weterynaryjne w art. 37ah—37ak.
 
-2. Badanie kliniczne produktu leczniczego jest eksperymentem medycznym zu˝yciem produktu leczniczego przeprowadzanym na ludziach wrozumieniu przepisów ustawy z dnia 5 grudnia 1996 r. 21, poz. 204, 76, poz. 691, 152, poz. 1266 i 153, poz. 1271 oraz z 2003 r. 90, poz. 845), zwanej dalej „ustawà ozawodzie lekarza”.
+2. Badanie kliniczne produktu leczniczego jest eksperymentem medycznym zużyciem produktu leczniczego przeprowadzanym na ludziach wrozumieniu przepisów ustawy z dnia 5 grudnia 1996 r. 21, poz. 204, 76, poz. 691, 152, poz. 1266 i 153, poz. 1271 oraz z 2003 r. 90, poz. 845), zwanej dalej Ńustawą ozawodzie lekarza”.
 
 **Art. 37b.**
 
-1. Badania kliniczne, w tym badania dotyczàce dost´pnoÊci biologicznej i równowa˝noÊci biologicznej planuje si´ i prowadzi oraz przedstawia sprawozdania z badaƒ klinicznych zgodnie z zasadami Dobrej Praktyki Klinicznej.
+1. Badania kliniczne, w tym badania dotyczące dostępności biologicznej i równoważności biologicznej planuje się i prowadzi oraz przedstawia sprawozdania z badań klinicznych zgodnie z zasadami Dobrej Praktyki Klinicznej.
 
-2. Badanie kliniczne przeprowadza si´, uwzgl´dniajàc, ˝e dobro pacjenta jest nadrz´dne w stosunku do interesu nauki lub spo∏eczeƒstwa, je˝eli w szczególnoÊci:
+2. Badanie kliniczne przeprowadza się, uwzględniając, że dobro pacjenta jest nadrzędne w stosunku do interesu nauki lub społeczeństwa, jeżeli w szczególności:
 
-- **1)** porównano mo˝liwe do przewidzenia ryzyko iniedogodnoÊci zprzewidywanymi korzyÊciami dla poszczególnych uczestników badania klinicznego oraz dla obecnych i przysz∏ych pacjentów, a komisja bioetyczna, o której mowa w art. 29 ustawy o zawodzie lekarza oraz minister w∏aÊciwy do spraw zdrowia uznali, ˝e przewidywane korzyÊci terapeutyczne oraz korzyÊci dla zdrowia publicznego usprawiedliwiajà dopuszczenie ryzyka, przy czym badanie kliniczne mo˝e byç kontynuowane tylko wtedy, gdy zgodnoÊç zprotoko∏em badania jest stale monitorowana,
-- **2)** uczestnik badania klinicznego, awprzypadku gdy osoba ta nie jest zdolna do wyra˝enia Êwiadomej zgody jej przedstawiciel ustawowy, podczas przeprowadzonej przed badaniem klinicznym rozmowy zbadaczem lub zcz∏onkiem jego zespo∏u, zapoznali si´ z celami, ryzykiem i niedogodnoÊciami zwiàzanymi z tym badaniem klinicznym oraz warunkami, w jakich ma ono zostaç przeprowadzone, a tak˝e zostali poo zawodzie lekarza (Dz. U. z 2002 r. informowani o przys∏ugujàcym ich prawie do wycofania si´ z badania klinicznego w ka˝dej chwili;
-- **3)** przestrzegane jest prawo uczestnika badania klinicznego do zapewnienia jego integralnoÊci fizycznej i psychicznej, prywatnoÊci oraz ochrony danych osobowych;
-- **4)** uczestnik badania klinicznego, awprzypadku gdy osoba ta nie jest zdolna do wyra˝enia Êwiadomej zgody jej przedstawiciel ustawowy, po poinformowaniu go o istocie, znaczeniu, skutkach i ryzyku badania klinicznego wyrazi∏ Êwiadomà zgod´ na uczestniczenie w badaniu; dokument potwierdzajàcy wyra˝enie Êwiadomej zgody przechowuje si´ wraz z dokumentacjà badania klinicznego;
-- **5)** przewidziano post´powanie zapewniajàce, ˝e wycofanie si´ uczestnika z badania klinicznego nie spowoduje dla niego szkody;
-- **6)** sponsor i badacz zawarli umow´ obowiàzkowego ubezpieczenia odpowiedzialnoÊci cywilnej za szkody wyrzàdzone w zwiàzku z prowadzeniem badania klinicznego.
+- **1)** porównano możliwe do przewidzenia ryzyko iniedogodności zprzewidywanymi korzyściami dla poszczególnych uczestników badania klinicznego oraz dla obecnych i przyszłych pacjentów, a komisja bioetyczna, o której mowa w art. 29 ustawy o zawodzie lekarza oraz minister właściwy do spraw zdrowia uznali, że przewidywane korzyści terapeutyczne oraz korzyści dla zdrowia publicznego usprawiedliwiają dopuszczenie ryzyka, przy czym badanie kliniczne może być kontynuowane tylko wtedy, gdy zgodność zprotokołem badania jest stale monitorowana,
+- **2)** uczestnik badania klinicznego, awprzypadku gdy osoba ta nie jest zdolna do wyrażenia świadomej zgody jej przedstawiciel ustawowy, podczas przeprowadzonej przed badaniem klinicznym rozmowy zbadaczem lub zczłonkiem jego zespołu, zapoznali się z celami, ryzykiem i niedogodnościami związanymi z tym badaniem klinicznym oraz warunkami, w jakich ma ono zostać przeprowadzone, a także zostali poo zawodzie lekarza (Dz. U. z 2002 r. informowani o przysługującym ich prawie do wycofania się z badania klinicznego w każdej chwili;
+- **3)** przestrzegane jest prawo uczestnika badania klinicznego do zapewnienia jego integralności fizycznej i psychicznej, prywatności oraz ochrony danych osobowych;
+- **4)** uczestnik badania klinicznego, awprzypadku gdy osoba ta nie jest zdolna do wyrażenia świadomej zgody jej przedstawiciel ustawowy, po poinformowaniu go o istocie, znaczeniu, skutkach i ryzyku badania klinicznego wyraził świadomą zgodę na uczestniczenie w badaniu; dokument potwierdzający wyrażenie świadomej zgody przechowuje się wraz z dokumentacją badania klinicznego;
+- **5)** przewidziano postępowanie zapewniające, że wycofanie się uczestnika z badania klinicznego nie spowoduje dla niego szkody;
+- **6)** sponsor i badacz zawarli umowę obowiązkowego ubezpieczenia odpowiedzialności cywilnej za szkody wyrządzone w związku z prowadzeniem badania klinicznego.
 
-3. Minister w∏aÊciwy do spraw instytucji finansowych, w porozumieniu z ministrem w∏aÊciwym do spraw zdrowia, po zasi´gni´ciu opinii Polskiej Izby Ubezpieczeƒ, okreÊli, w drodze rozporzàdzenia, szczegó∏owy zakres ubezpieczenia obowiàzkowego, o którym mowa wust. 2 pkt 6, termin powstania obowiàzku ubezpieczenia oraz minimalnà sum´ gwarancyjnà, bioràc w szczególnoÊci pod uwag´ specyfik´ badania klinicznego.
+3. Minister właściwy do spraw instytucji finansowych, w porozumieniu z ministrem właściwym do spraw zdrowia, po zasięgnięciu opinii Polskiej Izby Ubezpieczeń, określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia obowiązkowego, o którym mowa wust. 2 pkt 6, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc w szczególności pod uwagę specyfikę badania klinicznego.
 
-**Art. 37c.** Prowadzenie badania klinicznego nie zwalnia sponsora i badacza od odpowiedzialnoÊci karnej lub cywilnej wynikajàcej z prowadzonego badania klinicznego.
+**Art. 37c.** Prowadzenie badania klinicznego nie zwalnia sponsora i badacza od odpowiedzialności karnej lub cywilnej wynikającej z prowadzonego badania klinicznego.
 
 **Art. 37d.**
 
-1. Uczestnik badania klinicznego mo˝e w ka˝dej chwili bez szkody dla siebie wycofaç si´ z badania klinicznego.
+1. Uczestnik badania klinicznego może w każdej chwili bez szkody dla siebie wycofać się z badania klinicznego.
 
-2. Uczestnika badania klinicznego, podmiot wskazany w wymaganiach Dobrej Praktyki Klinicznej, informuje o mo˝liwoÊci uzyskania dodatkowych informacji dotyczàcych przys∏ugujàcych mu praw.
+2. Uczestnika badania klinicznego, podmiot wskazany w wymaganiach Dobrej Praktyki Klinicznej, informuje o możliwości uzyskania dodatkowych informacji dotyczących przysługujących mu praw.
 
-**Art. 37e.** Wbadaniach klinicznych, zwyjàtkiem badaƒ klinicznych przeprowadzanych na pe∏noletnich izdrowych uczestnikach badania klinicznego, nie mo˝na stosowaç ˝adnych zach´t ani gratyfikacji finansowych z wyjàtkiem rekompensaty poniesionych kosztów.
+**Art. 37e.** Wbadaniach klinicznych, zwyjątkiem badań klinicznych przeprowadzanych na pełnoletnich izdrowych uczestnikach badania klinicznego, nie można stosować żadnych zachęt ani gratyfikacji finansowych z wyjątkiem rekompensaty poniesionych kosztów.
 
 **Art. 37f.**
 
-1. Za wyra˝enie Êwiadomej zgody uznaje si´ wyra˝one na piÊmie, opatrzone datà i podpisane oÊwiadczenie woli o wzi´ciu udzia∏u w badaniu klinicznym, z∏o˝one dobrowolnie przez osob´ zdolnà do z∏o˝enia takiego oÊwiadczenia, awprzypadku osoby niezdolnej do z∏o˝enia takiego oÊwiadczenia przez jej przedstawiciela ustawowego; oÊwiadczenie to zawiera równie˝ wzmiank´, i˝ zosta∏o z∏o˝one po otrzyÊmie, za równowa˝nà uznaje si´ zgod´ wyra˝onà ustnie w obecnoÊci co najmniej dwóch Êwiadków. Zgod´ tak z∏o˝onà odnotowuje si´ w dokumentacji badania klinicznego.
+1. Za wyrażenie świadomej zgody uznaje się wyrażone na piśmie, opatrzone datą i podpisane oświadczenie woli o wzięciu udziału w badaniu klinicznym, złożone dobrowolnie przez osobę zdolną do złożenia takiego oświadczenia, awprzypadku osoby niezdolnej do złożenia takiego oświadczenia przez jej przedstawiciela ustawowego; oświadczenie to zawiera również wzmiankę, iż zostało złożone po otrzyśmie, za równoważną uznaje się zgodę wyrażoną ustnie w obecności co najmniej dwóch świadków. Zgodę tak złożoną odnotowuje się w dokumentacji badania klinicznego.
 
-**Art. 37g.** Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owe wymagania Dobrej Praktyki Klinicznej, uwzgl´dniajàc w szczególnoÊci sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania wyników badaƒ klinicznych, kierujàc si´ przepisami obowiàzujàcymi w Unii Europejskiej w zakresie Dobrej Praktyki Klinicznej.
+**Art. 37g.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe wymagania Dobrej Praktyki Klinicznej, uwzględniając w szczególności sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania wyników badań klinicznych, kierując się przepisami obowiązującymi w Unii Europejskiej w zakresie Dobrej Praktyki Klinicznej.
 
 **Art. 37h.**
 
-1. Badanie kliniczne z udzia∏em ma∏oletnich mo˝e byç prowadzone, je˝eli sà spe∏nione dodatkowo nast´pujàce warunki:
+1. Badanie kliniczne z udziałem małoletnich może być prowadzone, jeżeli są spełnione dodatkowo następujące warunki:
 
-- **1)** uzyskano Êwiadomà zgod´ przedstawiciela ustawowego i ma∏oletniego na zasadach okreÊlonych w art. 25 ustawy o zawodzie lekarza;
-- **2)** badacz lub osoba wskazana przez badacza posiadajàca doÊwiadczenie w post´powaniu z ma∏oletnimi udzieli∏ ma∏oletniemu zrozumia∏ych dla niego informacji dotyczàcych badania klinicznego oraz zwiàzanego z nim ryzyka i korzyÊci;
-- **3)** badacz zapewni, ˝e w ka˝dej chwili uwzgl´dni ˝yczenie ma∏oletniego, zdolnego do wyra˝ania opinii i oceny powy˝szych informacji, dotyczàce jego odmowy udzia∏u w badaniu klinicznym lub wycofania si´ z tego badania;
-- **4)** grupa pacjentów potencjalnie odniesie bezpoÊrednie korzyÊci z badania klinicznego, a przeprowadzenie takiego badania klinicznego jest niezb´dne dla potwierdzenia danych uzyskanych w badaniach klinicznych, których uczestnikami by∏y osoby zdolne do wyra˝enia Êwiadomej zgody, lub w badaniach klinicznych prowadzonych innymi metodami naukowymi;
-- **5)** badanie kliniczne bezpoÊrednio dotyczy choroby wyst´pujàcej u danego ma∏oletniego lub jest mo˝liwe do przeprowadzenia tylko z udzia∏em ma∏oletnich;
-- **6)** badanie kliniczne zaplanowano wtamaniu odpowiednich informacji dotyczàcych istoty, znaczenia, skutków i ryzyka zwiàzanego z badaniem klinicznym.
+- **1)** uzyskano świadomą zgodę przedstawiciela ustawowego i małoletniego na zasadach określonych w art. 25 ustawy o zawodzie lekarza;
+- **2)** badacz lub osoba wskazana przez badacza posiadająca doświadczenie w postępowaniu z małoletnimi udzielił małoletniemu zrozumiałych dla niego informacji dotyczących badania klinicznego oraz związanego z nim ryzyka i korzyści;
+- **3)** badacz zapewni, że w każdej chwili uwzględni życzenie małoletniego, zdolnego do wyrażania opinii i oceny powyższych informacji, dotyczące jego odmowy udziału w badaniu klinicznym lub wycofania się z tego badania;
+- **4)** grupa pacjentów potencjalnie odniesie bezpośrednie korzyści z badania klinicznego, a przeprowadzenie takiego badania klinicznego jest niezbędne dla potwierdzenia danych uzyskanych w badaniach klinicznych, których uczestnikami były osoby zdolne do wyrażenia świadomej zgody, lub w badaniach klinicznych prowadzonych innymi metodami naukowymi;
+- **5)** badanie kliniczne bezpośrednio dotyczy choroby występującej u danego małoletniego lub jest możliwe do przeprowadzenia tylko z udziałem małoletnich;
+- **6)** badanie kliniczne zaplanowano wtamaniu odpowiednich informacji dotyczących istoty, znaczenia, skutków i ryzyka związanego z badaniem klinicznym.
 
-2. Je˝eli Êwiadoma zgoda, o której mowa w ust. 1, nie mo˝e byç z∏o˝ona na piki sposób, aby zminimalizowaç ból, l´k i wszelkie inne mo˝liwe do przewidzenia ryzyko zwiàzane z chorobà i wiekiem pacjenta.
+2. Jeżeli świadoma zgoda, o której mowa w ust. 1, nie może być złożona na piki sposób, aby zminimalizować ból, lęk i wszelkie inne możliwe do przewidzenia ryzyko związane z chorobą i wiekiem pacjenta.
 
-2. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, sposób prowadzenia badaƒ klinicznych z udzia∏em ma∏oletnich, uwzgl´dniajàc wszczególnoÊci zasadnoÊç udzia∏u ma∏oletnich w badaniu klinicznym, sposoby zminimalizowania ryzyka w takich badaniach klinicznych, kolejnoÊç wykonywania badaƒ klinicznych z uwzgl´dnieniem wieku pacjentów, klasyfikacj´ badaƒ klinicznych ze wzgl´du na rodzaj i charakter schorzenia, harmonogram przeprowadzania badaƒ klinicznych z udzia∏em ma∏oletnich z uwzgl´dnieniem stopnia zaawansowania badaƒ klinicznych nad badanym produktem leczniczym, rodzaj wykonywanych badaƒ, rodzaj dokumentacji klinicznej wymaganej przed rozpocz´ciem badaƒ klinicznych zudzia∏em ma∏oletnich, kierujàc si´ przepisami Unii Europejskiej dotyczàcymi zasad prowadzenia badaƒ klinicznych z udzia∏em dzieci.
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, sposób prowadzenia badań klinicznych z udziałem małoletnich, uwzględniając wszczególności zasadność udziału małoletnich w badaniu klinicznym, sposoby zminimalizowania ryzyka w takich badaniach klinicznych, kolejność wykonywania badań klinicznych z uwzględnieniem wieku pacjentów, klasyfikację badań klinicznych ze względu na rodzaj i charakter schorzenia, harmonogram przeprowadzania badań klinicznych z udziałem małoletnich z uwzględnieniem stopnia zaawansowania badań klinicznych nad badanym produktem leczniczym, rodzaj wykonywanych badań, rodzaj dokumentacji klinicznej wymaganej przed rozpoczęciem badań klinicznych zudziałem małoletnich, kierując się przepisami Unii Europejskiej dotyczącymi zasad prowadzenia badań klinicznych z udziałem dzieci.
 
 **Art. 37i.**
 
-1. W przypadku badania klinicznego z udzia∏em:
+1. W przypadku badania klinicznego z udziałem:
 
-- **1)** osoby ca∏kowicie ubezw∏asnowolnionej Êwiadomà zgod´ na udzia∏ tej osoby w badaniach klinicznych wyra˝a jej przedstawiciel ustawowy, aje˝eli osoba taka jest wstanie zrozeznaniem wyraziç opini´ wsprawie swojego uczestnictwa wbadaniu klinicznym, konieczne jest ponadto uzyskanie pisemnej zgody tej osoby;
-- **2)** osoby majàcej pe∏nà zdolnoÊç do czynnoÊci prawnych, która nie jest w stanie wyraziç opinii w sprawie swojego uczestnictwa wbadaniu klinicznym Êwiadomà zgod´ na udzia∏ tej osoby w badaniu klinicznym wydaje sàd opiekuƒczy, w∏aÊciwy ze wzgl´du na miejsce prowadzenia badania klinicznego.
+- **1)** osoby całkowicie ubezwłasnowolnionej świadomą zgodę na udział tej osoby w badaniach klinicznych wyraża jej przedstawiciel ustawowy, ajeżeli osoba taka jest wstanie zrozeznaniem wyrazić opinię wsprawie swojego uczestnictwa wbadaniu klinicznym, konieczne jest ponadto uzyskanie pisemnej zgody tej osoby;
+- **2)** osoby mającej pełną zdolność do czynności prawnych, która nie jest w stanie wyrazić opinii w sprawie swojego uczestnictwa wbadaniu klinicznym świadomą zgodę na udział tej osoby w badaniu klinicznym wydaje sąd opiekuńczy, właściwy ze względu na miejsce prowadzenia badania klinicznego.
 
-2. Osób wymienionych w ust. 1 w pkt 2 nie mo˝na poddaç badaniom klinicznym, je˝eli osoby te posiadajàc pe∏nà zdolnoÊç do czynnoÊci prawnych Êwia3) badanie kliniczne jest niezb´dne w celu potwierdzenia danych uzyskanych w badaniach klinicznych, których uczestnikami by∏y osoby zdolne do wyra˝enia Êwiadomej zgody oraz bezpoÊrednio dotyczy wyst´pujàcej u danej osoby choroby zagra˝ajàcej jej ˝yciu lub powodujàcej kalectwo;
+2. Osób wymienionych w ust. 1 w pkt 2 nie można poddać badaniom klinicznym, jeżeli osoby te posiadając pełną zdolność do czynności prawnych świa3) badanie kliniczne jest niezbędne w celu potwierdzenia danych uzyskanych w badaniach klinicznych, których uczestnikami były osoby zdolne do wyrażenia świadomej zgody oraz bezpośrednio dotyczy występującej u danej osoby choroby zagrażającej jej życiu lub powodującej kalectwo;
 
-- **4)** badanie kliniczne zaplanowano tak, aby zminimalizowaç ból, l´k i wszelkie inne mo˝liwe do przewidzenia ryzyko zwiàzane z chorobà i wiekiem pacjenta;
-- **5)** istniejà podstawy, aby przypuszczaç, ˝e zastosowanie badanego produktu leczniczego b´dzie wiàza∏o si´ z odniesieniem przez pacjenta korzyÊci i nie b´dzie wiàza∏o si´ z ˝adnym ryzykiem.
+- **4)** badanie kliniczne zaplanowano tak, aby zminimalizować ból, lęk i wszelkie inne możliwe do przewidzenia ryzyko związane z chorobą i wiekiem pacjenta;
+- **5)** istnieją podstawy, aby przypuszczać, że zastosowanie badanego produktu leczniczego będzie wiązało się z odniesieniem przez pacjenta korzyści i nie będzie wiązało się z żadnym ryzykiem.
 
-**Art. 37j.** Za szkody wyrzàdzone w zwiàzku z prowadzeniem badania klinicznego odpowiedzialny jest sponsor i badacz.
+**Art. 37j.** Za szkody wyrządzone w związku z prowadzeniem badania klinicznego odpowiedzialny jest sponsor i badacz.
 
 **Art. 37k.**
 
-1. Sponsor dostarcza bezp∏atnie uczestnikom badania klinicznego badane produkty lecznicze oraz urzàdzenia stosowane do ich podawania.
+1. Sponsor dostarcza bezpłatnie uczestnikom badania klinicznego badane produkty lecznicze oraz urządzenia stosowane do ich podawania.
 
-2. Badane produkty lecznicze, o których mowa w ust. 1, muszà spe∏niaç w zakresie wytwarzania wymagania Dobrej Praktyki Wytwarzania.
+2. Badane produkty lecznicze, o których mowa w ust. 1, muszą spełniać w zakresie wytwarzania wymagania Dobrej Praktyki Wytwarzania.
 
-3. Przywóz zzagranicy badanych produktów leczniczych oraz sprz´tu niezb´dnego do prowadzenia badaƒ klinicznych wymaga uzyskania zaÊwiadczenia Prezesa Urz´du, potwierdzajàcego, ˝e badanie kliniczne zosta∏o wpisane do Centralnej Ewidencji Badaƒ Klinicznych, badany produkt leczniczy spe∏nia wymagania, o których mowa w ust. 2, oraz ˝e dany produkt lub sprz´t jest sprowadzany na potrzeby domie odmówi∏y uczestnictwa w tych badaniach klinicznych.
+3. Przywóz zzagranicy badanych produktów leczniczych oraz sprzętu niezbędnego do prowadzenia badań klinicznych wymaga uzyskania zaświadczenia Prezesa Urzędu, potwierdzającego, że badanie kliniczne zostało wpisane do Centralnej Ewidencji Badań Klinicznych, badany produkt leczniczy spełnia wymagania, o których mowa w ust. 2, oraz że dany produkt lub sprzęt jest sprowadzany na potrzeby domie odmówiły uczestnictwa w tych badaniach klinicznych.
 
-3. Badanie kliniczne z udzia∏em osób, októrych mowa wust. 1, mo˝e byç prowadzone, je˝eli sà spe∏nione dodatkowo nast´pujàce warunki:
+3. Badanie kliniczne z udziałem osób, októrych mowa wust. 1, może być prowadzone, jeżeli są spełnione dodatkowo następujące warunki:
 
-- **1)** osobie tej udzielono zrozumia∏ych informacji dotyczàcych badania klinicznego oraz zwiàzanego z nim ryzyka i korzyÊci;
-- **2)** badacz zapewni, ˝e w ka˝dej chwili b´dzie uwzgl´dnione ˝yczenie tej osoby, zdolnej do wyra˝ania opinii ioceny powy˝szych informacji, dotyczàce odmowy udzia∏u w badaniu klinicznym lub wycofania si´ z tego badania; tego badania.
+- **1)** osobie tej udzielono zrozumiałych informacji dotyczących badania klinicznego oraz związanego z nim ryzyka i korzyści;
+- **2)** badacz zapewni, że w każdej chwili będzie uwzględnione życzenie tej osoby, zdolnej do wyrażania opinii ioceny powyższych informacji, dotyczące odmowy udziału w badaniu klinicznym lub wycofania się z tego badania; tego badania.
 
 **Art. 37l.**
 
-1. Badanie kliniczne mo˝na rozpoczàç, je˝eli komisja bioetyczna wyda∏a pozytywnà opini´ w sprawie prowadzenia badania oraz minister w∏aÊciwy do spraw zdrowia wyda∏ pozwolenie na prowadzenie badania klinicznego.
+1. Badanie kliniczne można rozpocząć, jeżeli komisja bioetyczna wydała pozytywną opinię w sprawie prowadzenia badania oraz minister właściwy do spraw zdrowia wydał pozwolenie na prowadzenie badania klinicznego.
 
-2. Badanie kliniczne mo˝na rozpoczàç równie˝, je˝eli minister w∏aÊciwy do spraw zdrowia nie wyda∏ w terminie okreÊlonym w art. 37p ust. 1 pozwolenia na prowadzenie badania klinicznego.
+2. Badanie kliniczne można rozpocząć również, jeżeli minister właściwy do spraw zdrowia nie wydał w terminie określonym w art. 37p ust. 1 pozwolenia na prowadzenie badania klinicznego.
 
-3. Przepis ust. 2 nie dotyczy badaƒ klinicznych badanych produktów leczniczych przeznaczonych do terapii genowej lub terapii komórkowej, bàdê badanych produktów leczniczych zawierajàcych organizmy genetycznie zmodyfikowane.
+3. Przepis ust. 2 nie dotyczy badań klinicznych badanych produktów leczniczych przeznaczonych do terapii genowej lub terapii komórkowej, bądê badanych produktów leczniczych zawierających organizmy genetycznie zmodyfikowane.
 
-4. Wydanie pozwolenia, o którym mowa wust. 1, iodmowa wydania takiego pozwolenia nast´puje w drodze decyzji administracyjnej.
+4. Wydanie pozwolenia, o którym mowa wust. 1, iodmowa wydania takiego pozwolenia następuje w drodze decyzji administracyjnej.
 
-5. Prezes Urz´du dokonuje wpisu badania klinicznego do Centralnej Ewidencji Badaƒ Klinicznych; wpis obejmuje równie˝ informacj´ o odmowie wydania pozwolenia na prowadzenie badania klinicznego.
+5. Prezes Urzędu dokonuje wpisu badania klinicznego do Centralnej Ewidencji Badań Klinicznych; wpis obejmuje również informację o odmowie wydania pozwolenia na prowadzenie badania klinicznego.
 
 **Art. 37m.**
 
-1. Wniosek o rozpocz´cie badania klinicznego sponsor albo badacz sk∏ada do ministra w∏aÊciwego do spraw zdrowia za poÊrednictwem Prezesa Urz´du.
+1. Wniosek o rozpoczęcie badania klinicznego sponsor albo badacz składa do ministra właściwego do spraw zdrowia za pośrednictwem Prezesa Urzędu.
 
-2. Do wniosku, októrym mowa wust. 1, do∏àcza si´ w szczególnoÊci:
+2. Do wniosku, októrym mowa wust. 1, dołącza się w szczególności:
 
-- **1)** dane dotyczàce badanego produktu leczniczego; daç od sponsora albo badacza dostarczenia informacji uzupe∏niajàcych, niezb´dnych do wydania pozwolenia. Termin na przekazanie informacji uzupe∏niajàcych nie mo˝e przekraczaç 90 dni.
+- **1)** dane dotyczące badanego produktu leczniczego; dać od sponsora albo badacza dostarczenia informacji uzupełniających, niezbędnych do wydania pozwolenia. Termin na przekazanie informacji uzupełniających nie może przekraczać 90 dni.
 
-**Art. 37o.** Brak zgodnoÊci dokumentacji zwymaganiami Dobrej Praktyki Klinicznej stanowi podstaw´ do odmowy wydania pozwolenia.
+**Art. 37o.** Brak zgodności dokumentacji zwymaganiami Dobrej Praktyki Klinicznej stanowi podstawę do odmowy wydania pozwolenia.
 
 **Art. 37p.**
 
-1. Wydania pozwolenia na prowadzenie badania klinicznego albo odmowy wydania takiego pozwolenia minister w∏aÊciwy do spraw zdrowia dokonuje w terminie nie d∏u˝szym ni˝ 60 dni.
+1. Wydania pozwolenia na prowadzenie badania klinicznego albo odmowy wydania takiego pozwolenia minister właściwy do spraw zdrowia dokonuje w terminie nie dłuższym niż 60 dni.
 
-2. Termin, o którym mowa w ust. 1, liczy si´ od dnia z∏o˝enia dokumentacji okreÊlonej w art. 37m.
+2. Termin, o którym mowa w ust. 1, liczy się od dnia złożenia dokumentacji określonej w art. 37m.
 
-3. Termin, októrym mowa wust. 1, mo˝e zostaç przed∏u˝ony nie wi´cej ni˝
+3. Termin, októrym mowa wust. 1, może zostać przedłużony nie więcej niż
 
-- **2)** protokó∏ badania klinicznego, który jest dokumentem opisujàcym cele, plan, metodologi´, zagadnienia statystyczne i organizacj´ badania klinicznego;
-- **3)** informacje dla pacjenta i formularz Êwiadomej zgody;
-- **4)** dokument potwierdzajàcy zawarcie umowy ubezpieczenia, októrej mowa w art. 37b ust. 2 pkt 6;
-- **5)** kart´ obserwacji klinicznej;
-- **6)** dane dotyczàce badaczy i oÊrodków uczestniczàcych wbadaniu klinicznym;
-- **7)** potwierdzenie uiszczenia op∏aty za z∏o˝enie wniosku;
-- **8)** podpisany i opatrzony datà opis dzia∏alnoÊci naukowej i zawodowej badacza;
-- **9)** umowy dotyczàce badania klinicznego zawierane mi´dzy stronami bioràcymi udzia∏ w badaniu klinicznym.
+- **2)** protokół badania klinicznego, który jest dokumentem opisującym cele, plan, metodologię, zagadnienia statystyczne i organizację badania klinicznego;
+- **3)** informacje dla pacjenta i formularz świadomej zgody;
+- **4)** dokument potwierdzający zawarcie umowy ubezpieczenia, októrej mowa w art. 37b ust. 2 pkt 6;
+- **5)** kartę obserwacji klinicznej;
+- **6)** dane dotyczące badaczy i ośrodków uczestniczących wbadaniu klinicznym;
+- **7)** potwierdzenie uiszczenia opłaty za złożenie wniosku;
+- **8)** podpisany i opatrzony datą opis działalności naukowej i zawodowej badacza;
+- **9)** umowy dotyczące badania klinicznego zawierane między stronami biorącymi udział w badaniu klinicznym.
 
-3. Za z∏o˝enie wniosku, o którym mowa w ust. 1, pobiera si´ op∏at´.
+3. Za złożenie wniosku, o którym mowa w ust. 1, pobiera się opłatę.
 
 **Art. 37n.**
 
-1. Je˝eli z∏o˝ona dokumentacja, o której mowa w art. 37m, wymaga uzupe∏nienia, minister w∏aÊciwy do spraw zdrowia wyznacza sponsorowi albo badaczowi termin do jej uzupe∏nienia, zpouczeniem, ˝e brak uzupe∏nienia spowoduje pozostawienie wniosku bez rozpoznania.
+1. Jeżeli złożona dokumentacja, o której mowa w art. 37m, wymaga uzupełnienia, minister właściwy do spraw zdrowia wyznacza sponsorowi albo badaczowi termin do jej uzupełnienia, zpouczeniem, że brak uzupełnienia spowoduje pozostawienie wniosku bez rozpoznania.
 
-2. W trakcie post´powania o wydanie pozwolenia na prowadzenie badania klinicznego, minister w∏aÊciwy do spraw zdrowia mo˝e jednorazowo ˝ào30 dni, awprzypadku zasi´gania opinii eksperta okolejne 90 dni wodniesieniu do badaƒ klinicznych dotyczàcych badanych produktów leczniczych przeznaczonych do terapii genowej lub terapii komórkowej, bàdê badanych produktów leczniczych zawierajàcych organizmy genetycznie zmodyfikowane.
+2. W trakcie postępowania o wydanie pozwolenia na prowadzenie badania klinicznego, minister właściwy do spraw zdrowia może jednorazowo żąo30 dni, awprzypadku zasięgania opinii eksperta okolejne 90 dni wodniesieniu do badań klinicznych dotyczących badanych produktów leczniczych przeznaczonych do terapii genowej lub terapii komórkowej, bądê badanych produktów leczniczych zawierających organizmy genetycznie zmodyfikowane.
 
-4. Termin, okreÊlony w ust. 1, ulega zawieszeniu do czasu uzyskania informacji, o których mowa w art. 37n ust. 2, nie d∏u˝ej jednak ni˝ o 90 dni.
+4. Termin, określony w ust. 1, ulega zawieszeniu do czasu uzyskania informacji, o których mowa w art. 37n ust. 2, nie dłużej jednak niż o 90 dni.
 
-5. Przepisów ust. 1—4 nie stosuje si´ do badaƒ klinicznych dotyczàcych terapii ksenogenicznej.
+5. Przepisów ust. 1—4 nie stosuje się do badań klinicznych dotyczących terapii ksenogenicznej.
 
 **Art. 37r.**
 
-1. Komisja bioetyczna wydaje opini´ obadaniu klinicznym na wniosek sponsora albo badacza z∏o˝ony wraz zdokumentacjà stanowiàcà podstaw´ jej wydania.
+1. Komisja bioetyczna wydaje opinię obadaniu klinicznym na wniosek sponsora albo badacza złożony wraz zdokumentacją stanowiącą podstawę jej wydania.
 
-2. Komisja bioetyczna, wydajàc opini´, októrej mowa wust. 1, ocenia wszczególnoÊci:
+2. Komisja bioetyczna, wydając opinię, októrej mowa wust. 1, ocenia wszczególności:
 
-- **1)** zasadnoÊç, wykonalnoÊç i plan badania klinicznego;
-- **2)** analiz´ przewidywanych korzyÊci i ryzyka;
-- **3)** poprawnoÊç protoko∏u badania klinicznego;
-- **4)** poprawnoÊç wyboru badacza i cz∏onków zespo∏u;
-- **5)** jakoÊç broszury badacza;
-- **6)** jakoÊç oÊrodka;
-- **7)** poziom i kompletnoÊç pisemnej informacji wr´czanej uczestnikowi badania klinicznego;
-- **8)** poprawnoÊç procedury, którà stosuje si´ przy uzyskiwaniu Êwiadomej zgody, a tak˝e uzasadnienie dla prowadzenia badania klinicznego z udzia∏em osób niezdolnych do wyra˝enia Êwiadomej zgody, z uwzgl´dnieniem szczególnych ograniczeƒ wymienionych w art. 37h i 37i;
-- **9)** wysokoÊç odszkodowania lub rekompensaty przewidzianych w przypadku ewentualnego uszkodzenia cia∏a lub zgonu spowodowanego uczestnictwem w badaniu klinicznym;
-- **10)** wysokoÊç wynagradzania lub rekompensaty dla prowadzàcych badanie kliniczne i uczestników badania klinicznego oraz umowy dotyczàce badania klinicznego mi´dzy sponsorem a oÊrodkiem;
+- **1)** zasadność, wykonalność i plan badania klinicznego;
+- **2)** analizę przewidywanych korzyści i ryzyka;
+- **3)** poprawność protokołu badania klinicznego;
+- **4)** poprawność wyboru badacza i członków zespołu;
+- **5)** jakość broszury badacza;
+- **6)** jakość ośrodka;
+- **7)** poziom i kompletność pisemnej informacji wręczanej uczestnikowi badania klinicznego;
+- **8)** poprawność procedury, którą stosuje się przy uzyskiwaniu świadomej zgody, a także uzasadnienie dla prowadzenia badania klinicznego z udziałem osób niezdolnych do wyrażenia świadomej zgody, z uwzględnieniem szczególnych ograniczeń wymienionych w art. 37h i 37i;
+- **9)** wysokość odszkodowania lub rekompensaty przewidzianych w przypadku ewentualnego uszkodzenia ciała lub zgonu spowodowanego uczestnictwem w badaniu klinicznym;
+- **10)** wysokość wynagradzania lub rekompensaty dla prowadzących badanie kliniczne i uczestników badania klinicznego oraz umowy dotyczące badania klinicznego między sponsorem a ośrodkiem;
 - **11)** zasady rekrutacji uczestników badania klinicznego;
-- **12)** umow´, o której mowa w art. 37b ust. 2 pkt 6.
+- **12)** umowę, o której mowa w art. 37b ust. 2 pkt 6.
 
 **Art. 37s.**
 
-1. Je˝eli badania kliniczne prowadzone sà przez ró˝nych badaczy na podstawie jednego protoko∏u iwwielu oÊrodkach badawczych po∏o˝onych na terytorium Rzeczypospolitej Polskiej lub innych paƒstw (wielooÊrodkowe badania kliniczne), sponsor wybiera, spoÊród wszystkich badaczy prowadzàcych badanie kliniczne na terytorium Rzeczypospolitej Polskiej, koordynatora badania klinicznego.
+1. Jeżeli badania kliniczne prowadzone są przez różnych badaczy na podstawie jednego protokołu iwwielu ośrodkach badawczych położonych na terytorium Rzeczypospolitej Polskiej lub innych państw (wieloośrodkowe badania kliniczne), sponsor wybiera, spośród wszystkich badaczy prowadzących badanie kliniczne na terytorium Rzeczypospolitej Polskiej, koordynatora badania klinicznego.
 
-2. W przypadku badaƒ klinicznych, o których mowa wust. 1, prowadzonych na terytorium Rzeczypospolitej Polskiej sponsor lub koordynator badania klinicznego sk∏ada wniosek do komisji bioetycznej w∏aÊciwej ze wzgl´du na siedzib´ koordynatora badania klinicznego.
+2. W przypadku badań klinicznych, o których mowa wust. 1, prowadzonych na terytorium Rzeczypospolitej Polskiej sponsor lub koordynator badania klinicznego składa wniosek do komisji bioetycznej właściwej ze względu na siedzibę koordynatora badania klinicznego.
 
-3. Opinia wydana przez komisj´, o której
+3. Opinia wydana przez komisję, o której
 
 **Art. 37t.**
 
-1. Komisja bioetyczna w terminie nie d∏u˝szym ni˝ 60 dni przedstawia opini´ sponsorowi albo badaczowi oraz ministrowi w∏aÊciwemu do spraw zdrowia za poÊrednictwem Prezesa Urz´du.
+1. Komisja bioetyczna w terminie nie dłuższym niż 60 dni przedstawia opinię sponsorowi albo badaczowi oraz ministrowi właściwemu do spraw zdrowia za pośrednictwem Prezesa Urzędu.
 
-2. Przepisy art. 37n oraz art. 37p stosuje si´ odpowiednio.
+2. Przepisy art. 37n oraz art. 37p stosuje się odpowiednio.
 
-3. Je˝eli w sk∏ad komisji bioetycznej wydajàcej opini´ o badaniu klinicznym:
+3. Jeżeli w skład komisji bioetycznej wydającej opinię o badaniu klinicznym:
 
-- **1)** z udzia∏em ma∏oletniego nie wchodzi lekarz specjalista pediatrii, komisja bioetyczna zasi´ga jego opinii;
-- **2)** z udzia∏em osób niezdolnych do samodzielnego wyra˝enia Êwiadomej zgody nie wchodzi lekarz specjalista z dziedziny medycyny, której dotyczy prowadzone badanie kliniczne, komisja bioetyczna zasi´ga jego opinii. mowa wust. 2, wià˝e wszystkie oÊrodki, wimieniu których sponsor lub koordynator badania klinicznego wystàpi∏ z wnioskiem o wydanie opinii.
+- **1)** z udziałem małoletniego nie wchodzi lekarz specjalista pediatrii, komisja bioetyczna zasięga jego opinii;
+- **2)** z udziałem osób niezdolnych do samodzielnego wyrażenia świadomej zgody nie wchodzi lekarz specjalista z dziedziny medycyny, której dotyczy prowadzone badanie kliniczne, komisja bioetyczna zasięga jego opinii. mowa wust. 2, wiąże wszystkie ośrodki, wimieniu których sponsor lub koordynator badania klinicznego wystąpił z wnioskiem o wydanie opinii.
 
-4. O planowanym udziale danego oÊrodka w badaniu klinicznym komisja bioetyczna, o której mowa w ust. 2, informuje wszystkie komisje bioetyczne w∏aÊciwe ze wzgl´du na miejsce prowadzenia badania klinicznego na terytorium Rzeczypospolitej Polskiej. Komisje te mogà w ciàgu 14 dni zg∏osiç zastrze˝enia co do udzia∏u badacza lub oÊrodka w danym badaniu klinicznym; niezg∏oszenie zastrze˝eƒ w wy˝ej wymienionym terminie oznacza akceptacj´ udzia∏u badacza ioÊrodka wdanym badaniu klinicznym.
+4. O planowanym udziale danego ośrodka w badaniu klinicznym komisja bioetyczna, o której mowa w ust. 2, informuje wszystkie komisje bioetyczne właściwe ze względu na miejsce prowadzenia badania klinicznego na terytorium Rzeczypospolitej Polskiej. Komisje te mogą w ciągu 14 dni zgłosić zastrzeżenia co do udziału badacza lub ośrodka w danym badaniu klinicznym; niezgłoszenie zastrzeżeń w wyżej wymienionym terminie oznacza akceptację udziału badacza iośrodka wdanym badaniu klinicznym.
 
-**Art. 37u.** Od negatywnej opinii komisji bioetycznej sponsorowi lub badaczowi przys∏uguje odwo∏anie do odwo∏awczej komisji bioetycznej, októrej mowa wart. 29 ustawy o zawodzie lekarza.
+**Art. 37u.** Od negatywnej opinii komisji bioetycznej sponsorowi lub badaczowi przysługuje odwołanie do odwoławczej komisji bioetycznej, októrej mowa wart. 29 ustawy o zawodzie lekarza.
 
-**Art. 37w.** Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia:
+**Art. 37w.** Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
 **Art. 37x.**
 
-1. Dokonanie istotnych i majàcych wp∏yw na bezpieczeƒstwo uczestników badania klinicznego zmian w protokole badania klinicznego, po rozpocz´ciu badania, wymaga uzyskania wtym zakresie opinii komisji bioetycznej, która wyrazi∏a opini´ o tym badaniu, oraz wyra˝enia zgody ministra w∏aÊciwego do spraw zdrowia.
+1. Dokonanie istotnych i mających wpływ na bezpieczeństwo uczestników badania klinicznego zmian w protokole badania klinicznego, po rozpoczęciu badania, wymaga uzyskania wtym zakresie opinii komisji bioetycznej, która wyraziła opinię o tym badaniu, oraz wyrażenia zgody ministra właściwego do spraw zdrowia.
 
-2. Zgod´, októrej mowa wust. 1, wydaje si´ w terminie nie d∏u˝szym ni˝ 35 dni od dnia z∏o˝enia wniosku.
+2. Zgodę, októrej mowa wust. 1, wydaje się w terminie nie dłuższym niż 35 dni od dnia złożenia wniosku.
 
-3. Dokonanie zmian, o których mowa w ust. 1, mo˝na równie˝ wprowadziç, je˝eli minister w∏aÊciwy do spraw zdrowia nie wyda zgody w terminie, o którym mowa w ust. 2.
+3. Dokonanie zmian, o których mowa w ust. 1, można również wprowadzić, jeżeli minister właściwy do spraw zdrowia nie wyda zgody w terminie, o którym mowa w ust. 2.
 
 **Art. 37y.**
 
-1. W przypadku wystàpienia jakiegokolwiek zdarzenia, które mog∏oby wp∏ynàç na bezpieczeƒstwo uczestników badania klinicznego, sponsor albo badacz odst´pujà od prowadzenia badania klinicznego zgodnie z obowiàzujàcym protoko∏em badania klinicznego. W takim przypadku sponsor i badacz majà obowiàzek zastosowaç odpowiednie Êrodki w celu zapewnienia bezpieczeƒstwa uczestnikom badania klinicznego.
+1. W przypadku wystąpienia jakiegokolwiek zdarzenia, które mogłoby wpłynąć na bezpieczeństwo uczestników badania klinicznego, sponsor albo badacz odstępują od prowadzenia badania klinicznego zgodnie z obowiązującym protokołem badania klinicznego. W takim przypadku sponsor i badacz mają obowiązek zastosować odpowiednie środki w celu zapewnienia bezpieczeństwa uczestnikom badania klinicznego.
 
-2. O zaistnia∏ej sytuacji i zastosowanych Êrodkach bezpieczeƒstwa sponsor niezw∏ocznie informuje Prezesa Urz´du i komisj´ bioetycznà, która opiniowa∏a badanie kliniczne.
+2. O zaistniałej sytuacji i zastosowanych środkach bezpieczeństwa sponsor niezwłocznie informuje Prezesa Urzędu i komisję bioetyczną, która opiniowała badanie kliniczne.
 
 **Art. 37z.**
 
-1. Do obowiàzków badacza prowadzàcego badanie kliniczne wdanym oÊrodku nale˝y w szczególnoÊci:
+1. Do obowiązków badacza prowadzącego badanie kliniczne wdanym ośrodku należy w szczególności:
 
 - **1)** zapewnienie opieki medycznej nad uczestnikami badania klinicznego;
-- **2)** monitorowanie zgodnoÊci przeprowadzanego badania klinicznego zzasadami Dobrej Praktyki Klinicznej;
-- **3)** zg∏aszanie sponsorowi ci´˝kiego niepo˝àdanego zdarzenia badanego produktu leczniczego, z wyjàtkiem tego zdarzenia, które protokó∏ lub broszura badacza okreÊla jako niewymagajàce niezw∏ocznego zg∏oszenia.
+- **2)** monitorowanie zgodności przeprowadzanego badania klinicznego zzasadami Dobrej Praktyki Klinicznej;
+- **3)** zgłaszanie sponsorowi ciężkiego niepożądanego zdarzenia badanego produktu leczniczego, z wyjątkiem tego zdarzenia, które protokół lub broszura badacza określa jako niewymagające niezwłocznego zgłoszenia.
 
-2. Wraz ze zg∏aszaniem zdarzenia, o którym mowa w ust. 1 pkt 3, badacz obowiàzany jest do sporzàdzenia, w formie pisemnej, sprawozdania zawierajàcego opis ci´˝kiego niepo˝àdanego zdarzenia, w którym uczestnicy badania klinicznego identyfikowani sà za pomocà numerów kodowych.
+2. Wraz ze zgłaszaniem zdarzenia, o którym mowa w ust. 1 pkt 3, badacz obowiązany jest do sporządzenia, w formie pisemnej, sprawozdania zawierającego opis ciężkiego niepożądanego zdarzenia, w którym uczestnicy badania klinicznego identyfikowani są za pomocą numerów kodowych.
 
-3. Zg∏aszanie sponsorowi, innych ni˝ okreÊlone w ust. 1 pkt 3, niepo˝àdanych zdarzeƒ oraz nieprawid∏owych wyników badaƒ laboratoryjnych odbywa si´ wsposób okreÊlony wprotokole badaƒ klinicznych.
+3. Zgłaszanie sponsorowi, innych niż określone w ust. 1 pkt 3, niepożądanych zdarzeń oraz nieprawidłowych wyników badań laboratoryjnych odbywa się wsposób określony wprotokole badań klinicznych.
 
-4. W przypadku zg∏oszenia zgonu uczestnika badania badacz, na wniosek sponsora lub komisji bioetycznej, przedstawia wszelkie dost´pne informacje nieuj´te wsprawozdaniu, októrym mowa w ust. 2.
+4. W przypadku zgłoszenia zgonu uczestnika badania badacz, na wniosek sponsora lub komisji bioetycznej, przedstawia wszelkie dostępne informacje nieujęte wsprawozdaniu, októrym mowa w ust. 2.
 
-5. Sponsor przechowuje dokumentacj´, o której mowa w ust. 2—4, zgodnie rych terytorium przeprowadzane jest dane badanie kliniczne, z zastrze˝eniem art. 37aa. Art. 37aa. 1. Je˝eli zachodzi podejrzenie, ˝e niepo˝àdane zdarzenie, o którym mowa wart. 37zust. 1 pkt 3, stanowi niespodziewane ci´˝kie niepo˝àdane dzia∏anie produktu leczniczego, które doprowadzi∏o do zgonu albo zagrozi∏o ˝yciu lub zdrowiu uczestnika badania klinicznego, sponsor niezw∏ocznie, nie póêniej jednak ni˝ w ciàgu 7 dni od dnia otrzymania informacji, przekazuje jà w∏aÊciwym organom paƒstw cz∏onkowskich Unii Europejskiej lub paƒstw cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy oEuropejskim Obszarze Gospodarczym, na terytorium których prowadzone jest dane badanie kliniczne, i komisji bioetycznej, która wyda∏a opini´ z zasadami Dobrej Praktyki Klinicznej i udost´pnia jà na wniosek paƒstw cz∏onkowskich Unii Europejskiej lub paƒstw cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, na któo tym badaniu klinicznym.
+5. Sponsor przechowuje dokumentację, o której mowa w ust. 2—4, zgodnie rych terytorium przeprowadzane jest dane badanie kliniczne, z zastrzeżeniem art. 37aa. Art. 37aa. 1. Jeżeli zachodzi podejrzenie, że niepożądane zdarzenie, o którym mowa wart. 37zust. 1 pkt 3, stanowi niespodziewane ciężkie niepożądane działanie produktu leczniczego, które doprowadziło do zgonu albo zagroziło życiu lub zdrowiu uczestnika badania klinicznego, sponsor niezwłocznie, nie póêniej jednak niż w ciągu 7 dni od dnia otrzymania informacji, przekazuje ją właściwym organom państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy oEuropejskim Obszarze Gospodarczym, na terytorium których prowadzone jest dane badanie kliniczne, i komisji bioetycznej, która wydała opinię z zasadami Dobrej Praktyki Klinicznej i udostępnia ją na wniosek państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, na któo tym badaniu klinicznym.
 
-2. Informacje, zawierajàce opis dotyczàcy niespodziewanego ci´˝kiego niepo˝àdanego dzia∏ania produktu leczniczego, sponsor przekazuje komisji bioetycznej, która wyda∏a opini´ otym badaniu klinicznym, wterminie 8 dni od dnia przes∏ania informacji, o której mowa w ust. 1.
+2. Informacje, zawierające opis dotyczący niespodziewanego ciężkiego niepożądanego działania produktu leczniczego, sponsor przekazuje komisji bioetycznej, która wydała opinię otym badaniu klinicznym, wterminie 8 dni od dnia przesłania informacji, o której mowa w ust. 1.
 
-3. Je˝eli zachodzi podejrzenie, ˝e niepo˝àdane zdarzenie stanowi niespodziewane ci´˝kie niepo˝àdane dzia∏anie produktu leczniczego, inne ni˝ okreÊlone w ust. 1, sponsor niezw∏ocznie, nie póêniej jednak ni˝ w ciàgu 15 dni od dnia otrzymania informacji, przekazuje jà w∏aÊciwym organom paƒstw cz∏onkowskich Unii Europejskiej lub paƒstw cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, na terytorium których prowadzone jest dane badanie kliniczne, oraz komisji bioetycznej, która wyda∏a opini´ o tym badaniu klinicznym.
+3. Jeżeli zachodzi podejrzenie, że niepożądane zdarzenie stanowi niespodziewane ciężkie niepożądane działanie produktu leczniczego, inne niż określone w ust. 1, sponsor niezwłocznie, nie póêniej jednak niż w ciągu 15 dni od dnia otrzymania informacji, przekazuje ją właściwym organom państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, na terytorium których prowadzone jest dane badanie kliniczne, oraz komisji bioetycznej, która wydała opinię o tym badaniu klinicznym.
 
-4. Niezale˝nie od informacji przekazywanych w sposób okreÊlony w ust. 1—3 sponsor o tym, ˝e zachodzi podejrzenie niespodziewanego ci´˝kiego niepo˝àdanego dzia∏ania, informuje wszystkich badaczy, prowadzàcych dane badanie kliniczne na terytorium Rzeczypospolitej Polskiej.
+4. Niezależnie od informacji przekazywanych w sposób określony w ust. 1—3 sponsor o tym, że zachodzi podejrzenie niespodziewanego ciężkiego niepożądanego działania, informuje wszystkich badaczy, prowadzących dane badanie kliniczne na terytorium Rzeczypospolitej Polskiej.
 
-5. Wka˝dym roku prowadzenia badania klinicznego sponsor przedk∏ada w∏aÊciwym organom paƒstw cz∏onkowskich Unii Europejskiej lub paƒstw cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, na terytorium których przeprowadzane jest badanie kliniczne, oraz komisji bioetycznej, która wyda∏a opini´ obadaniu klinicznym, wykaz zawierajàcy wszystkie podejrzenia o wystàpieniu ci´˝kich niepo˝àdanych dzia∏aƒ, które wystàpi∏y w danym roku, oraz dokumentacj´, o której mowa w art. 37z ust. 5.
+5. Wkażdym roku prowadzenia badania klinicznego sponsor przedkłada właściwym organom państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, na terytorium których przeprowadzane jest badanie kliniczne, oraz komisji bioetycznej, która wydała opinię obadaniu klinicznym, wykaz zawierający wszystkie podejrzenia o wystąpieniu ciężkich niepożądanych działań, które wystąpiły w danym roku, oraz dokumentację, o której mowa w art. 37z ust. 5.
 
-6. Prezes Urz´du gromadzi informacje dotyczàce niespodziewanych ci´˝kich niepo˝àdanych dzia∏aƒ produktu leczniczego, które wystàpi∏y w zwiàzku z prowadzeniem na terytorium Rzeczypospolitej Polskiej badaƒ klinicznych, oraz przekazuje je do europejskiej bazy danych dotyczàcej badaƒ klinicznych.
+6. Prezes Urzędu gromadzi informacje dotyczące niespodziewanych ciężkich niepożądanych działań produktu leczniczego, które wystąpiły w związku z prowadzeniem na terytorium Rzeczypospolitej Polskiej badań klinicznych, oraz przekazuje je do europejskiej bazy danych dotyczącej badań klinicznych.
 
-7. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, tryb zg∏aszania niespodziewanego ci´˝kiego niepo˝àdanego dzia∏ania produktu leczniczego, dane obj´te dokumentacjà, o której mowa wart. 37zust. 5, oraz wzory formularzy zg∏oszeniowych niespodziewanego ci´˝kiego niepo˝àdanego dzia∏ania, uwzgl´dniajàc w szczególnoÊci sposób zbierania, weryfikacji i przedstawiania informacji dotyczàcych niespodziewanego ci´˝kiego niepo˝àdanego dzia∏ania produktu leczniczego i niespodziewanego zdarzenia. Art. 37ab. 1. O zakoƒczeniu badania klinicznego prowadzonego na terytorium Rzeczypospolitej Polskiej sponsor informuje komisj´ bioetycznà, która wyda∏a opini´ o badaniu, oraz ministra w∏aÊciwego do spraw zdrowia za poÊrednictwem Prezesa Urz´du, w terminie 90 dni od dnia zakoƒczenia badania klinicznego.
+7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb zgłaszania niespodziewanego ciężkiego niepożądanego działania produktu leczniczego, dane objęte dokumentacją, o której mowa wart. 37zust. 5, oraz wzory formularzy zgłoszeniowych niespodziewanego ciężkiego niepożądanego działania, uwzględniając w szczególności sposób zbierania, weryfikacji i przedstawiania informacji dotyczących niespodziewanego ciężkiego niepożądanego działania produktu leczniczego i niespodziewanego zdarzenia. Art. 37ab. 1. O zakończeniu badania klinicznego prowadzonego na terytorium Rzeczypospolitej Polskiej sponsor informuje komisję bioetyczną, która wydała opinię o badaniu, oraz ministra właściwego do spraw zdrowia za pośrednictwem Prezesa Urzędu, w terminie 90 dni od dnia zakończenia badania klinicznego.
 
-2. W przypadku zakoƒczenia badania klinicznego przed up∏ywem zadeklarowanego terminu, sponsor informuje komisj´ bioetycznà, która wyda∏a opini´ o tym badaniu klinicznym, oraz ministra w∏aÊciwego do spraw zdrowia za poÊrednictwem Prezesa Urz´du, wterminie 15 dni od dnia zakoƒczenia tego badania, i podaje przyczyny wczeÊniejszego zakoƒczenia badania klinicznego. Art. 37ac. 1. Je˝eli istnieje uzasadnione podejrzenie, ˝e warunki okreÊlone wpozwole1) wydaç decyzj´ o zawieszeniu badania klinicznego,
+2. W przypadku zakończenia badania klinicznego przed upływem zadeklarowanego terminu, sponsor informuje komisję bioetyczną, która wydała opinię o tym badaniu klinicznym, oraz ministra właściwego do spraw zdrowia za pośrednictwem Prezesa Urzędu, wterminie 15 dni od dnia zakończenia tego badania, i podaje przyczyny wcześniejszego zakończenia badania klinicznego. Art. 37ac. 1. Jeżeli istnieje uzasadnione podejrzenie, że warunki określone wpozwole1) wydać decyzję o zawieszeniu badania klinicznego,
 
-- **2)** cofnàç pozwolenie na prowadzenie badania klinicznego,
-- **3)** wskazaç dzia∏ania, jakie muszà byç podj´te, aby badanie mog∏o byç kontynuowane.
+- **2)** cofnąć pozwolenie na prowadzenie badania klinicznego,
+- **3)** wskazać działania, jakie muszą być podjęte, aby badanie mogło być kontynuowane.
 
-2. Je˝eli nie wyst´puje bezpoÊrednie zagro˝enie bezpieczeƒstwa uczestników badania klinicznego, przed wydaniem decyzji, o których mowa wust. 1, minister w∏aÊciwy do spraw zdrowia zwraca si´ do sponsora ibadacza o zaj´cie w terminie 7 dni stanowiska.
+2. Jeżeli nie występuje bezpośrednie zagrożenie bezpieczeństwa uczestników badania klinicznego, przed wydaniem decyzji, o których mowa wust. 1, minister właściwy do spraw zdrowia zwraca się do sponsora ibadacza o zajęcie w terminie 7 dni stanowiska.
 
-3. O podj´ciu decyzji, o których mowa wust. 1, minister w∏aÊciwy do spraw zdrowia powiadamia sponsora, paƒstwa uczestniczàce w badaniu klinicznym, komisj´ bioetycznà, która wyda∏a opini´ otym badaniu klinicznym, Europejskà Agencj´ Oceny Produktów Leczniczych oraz Komisj´ Europejskà. Art. 37ad. 1. Prezes Urz´du wprowadza informacje dotyczàce badania klinicznego do europejskiej bazy danych dotyczàcej badaƒ klinicznych.
+3. O podjęciu decyzji, o których mowa wust. 1, minister właściwy do spraw zdrowia powiadamia sponsora, państwa uczestniczące w badaniu klinicznym, komisję bioetyczną, która wydała opinię otym badaniu klinicznym, Europejską Agencję Oceny Produktów Leczniczych oraz Komisję Europejską. Art. 37ad. 1. Prezes Urzędu wprowadza informacje dotyczące badania klinicznego do europejskiej bazy danych dotyczącej badań klinicznych.
 
-2. Informacje, o których mowa w ust. 1, obejmujà w szczególnoÊci:
+2. Informacje, o których mowa w ust. 1, obejmują w szczególności:
 
-- **1)** wymagane dane z wniosku o rozpocz´cie badania klinicznego,
-- **2)** wszelkie zmiany dokonane w z∏o˝onej dokumentacji,
-- **3)** dat´ otrzymania opinii komisji bioetycznej,
-- **4)** oÊwiadczenie o zakoƒczeniu badania klinicznego,
-- **5)** informacje dotyczàce kontroli badania klinicznego przeprowadzonego zgodnie z zasadami Dobrej niu na prowadzenie badania klinicznego przesta∏y byç spe∏niane lub uzyskane informacje poddajà w wàtpliwoÊç bezpieczeƒstwo lub naukowà zasadnoÊç prowadzonego badania klinicznego, minister w∏aÊciwy do spraw zdrowia mo˝e: Praktyki Klinicznej.
+- **1)** wymagane dane z wniosku o rozpoczęcie badania klinicznego,
+- **2)** wszelkie zmiany dokonane w złożonej dokumentacji,
+- **3)** datę otrzymania opinii komisji bioetycznej,
+- **4)** oświadczenie o zakończeniu badania klinicznego,
+- **5)** informacje dotyczące kontroli badania klinicznego przeprowadzonego zgodnie z zasadami Dobrej niu na prowadzenie badania klinicznego przestały być spełniane lub uzyskane informacje poddają w wątpliwość bezpieczeństwo lub naukową zasadność prowadzonego badania klinicznego, minister właściwy do spraw zdrowia może: Praktyki Klinicznej.
 
-3. Na uzasadniony wniosek paƒstw cz∏onkowskich Unii Europejskiej lub paƒstw cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Oceny Produktów Leczniczych lub Komisji Europejskiej, Prezes Urz´du, dostarcza dodatkowych informacji dotyczàcych danego badania klinicznego innych ni˝ ju˝ dost´pne w europejskiej bazie danych. Art. 37ae. 1. Kontrol´ badaƒ klinicznych w zakresie zgodnoÊci badaƒ z wymaganiami Dobrej Praktyki Klinicznej przeprowadza Inspekcja Badaƒ Klinicznych.
+3. Na uzasadniony wniosek państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, Europejskiej Agencji Oceny Produktów Leczniczych lub Komisji Europejskiej, Prezes Urzędu, dostarcza dodatkowych informacji dotyczących danego badania klinicznego innych niż już dostępne w europejskiej bazie danych. Art. 37ae. 1. Kontrolę badań klinicznych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej przeprowadza Inspekcja Badań Klinicznych.
 
-2. Kontroli, o której mowa w ust. 1, dokonuje osoba upowa˝niona przez Prezesa Urz´du, zwana dalej „przeprowadzajàcym kontrol´”.
+2. Kontroli, o której mowa w ust. 1, dokonuje osoba upoważniona przez Prezesa Urzędu, zwana dalej Ńprzeprowadzającym kontrolę”.
 
-3. Przeprowadzajàcy kontrol´ mo˝e w szczególnoÊci:
+3. Przeprowadzający kontrolę może w szczególności:
 
-- **1)** kontrolowaç oÊrodki przeprowadzajàce badanie kliniczne, siedzib´ sponsora, organizacj´ prowadzàcà badanie kliniczne na zlecenie lub inne miejsca uznane za istotne z punktu widzenia prowadzenia badania klinicznego;
-- **2)** ˝àdaç przedstawienia dokumentacji zwiàzanej z prowadzonym badaniem klinicznym;
-- **3)** ˝àdaç wyjaÊnieƒ dotyczàcych przeprowadzonego badania klinicznego oraz przedstawionej dokumentacji.
+- **1)** kontrolować ośrodki przeprowadzające badanie kliniczne, siedzibę sponsora, organizację prowadzącą badanie kliniczne na zlecenie lub inne miejsca uznane za istotne z punktu widzenia prowadzenia badania klinicznego;
+- **2)** żądać przedstawienia dokumentacji związanej z prowadzonym badaniem klinicznym;
+- **3)** żądać wyjaśnień dotyczących przeprowadzonego badania klinicznego oraz przedstawionej dokumentacji.
 
-4. Prezes Urz´du informuje Europejskà Agencj´ Oceny Produktów Leczniczych o wynikach kontroli oraz udost´pnia Europejskiej Agencji Oceny Produktów Leczniczych, innym paƒstwom cz∏onkowskim Unii Europejskiej lub paƒstwom cz∏onkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, komisji bioetycznej, która wyda∏a opini´ o tym badaniu klinicznym, na ich uzasadniony wniosek, raport z przeprowadzonej kontroli.
+4. Prezes Urzędu informuje Europejską Agencję Oceny Produktów Leczniczych o wynikach kontroli oraz udostępnia Europejskiej Agencji Oceny Produktów Leczniczych, innym państwom członkowskim Unii Europejskiej lub państwom członkowskim Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, komisji bioetycznej, która wydała opinię o tym badaniu klinicznym, na ich uzasadniony wniosek, raport z przeprowadzonej kontroli.
 
-5. Inspekcja Badaƒ Klinicznych mo˝e przeprowadziç kontrol´ równie˝ na wniosek Komisji Europejskiej.
+5. Inspekcja Badań Klinicznych może przeprowadzić kontrolę również na wniosek Komisji Europejskiej.
 
-6. Wyniki kontroli badaƒ klinicznych przeprowadzonej na terytorium innego paƒstwa cz∏onkowskiego Unii Europejskiej sà uznawane przez Prezesa Urz´du.
+6. Wyniki kontroli badań klinicznych przeprowadzonej na terytorium innego państwa członkowskiego Unii Europejskiej są uznawane przez Prezesa Urzędu.
 
-7. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, tryb izakres prowadzenia kontroli badaƒ klinicznych, uwzgl´dniajàc w szczególnoÊci charakter prowadzonych badaƒ, kierujàc si´ wymaganiami Dobrej Praktyki Klinicznej. Art. 37af. Minister w∏aÊciwy do spraw zdrowia wspó∏pracuje z Komisjà Europejskà, Europejskà Agencjà Oceny Produktów Leczniczych oraz w∏aÊciwymi organami paƒstw cz∏onkowskich Unii Europejskiej wystàpiç do Komisji Europejskiej zwnioskiem o przeprowadzenie kontroli wpaƒstwie spoza obszaru paƒstw cz∏onkowskich Unii Europejskiej lub paƒstw cz∏onkowskich Europejskiego Porozumienia oWolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym. Art. 37ag. Do badaƒ klinicznych badanego produktu leczniczego w zakresie nieuregulowanym w niniejszym rozdziale stosuje si´ przepisy o eksperymencie medycznym, o którym mowa w rozdziale IV ustawy o zawodzie lekarza. Art. 37ah. 1. Sponsor albo badacz wyst´puje z wnioskiem o wydanie pozwolenia na przeprowadzenie badania klinicznego weterynaryjnego do ministra w∏aÊciwego do spraw zdrowia za poÊrednictwem Prezesa Urz´du.
+7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb izakres prowadzenia kontroli badań klinicznych, uwzględniając w szczególności charakter prowadzonych badań, kierując się wymaganiami Dobrej Praktyki Klinicznej. Art. 37af. Minister właściwy do spraw zdrowia współpracuje z Komisją Europejską, Europejską Agencją Oceny Produktów Leczniczych oraz właściwymi organami państw członkowskich Unii Europejskiej wystąpić do Komisji Europejskiej zwnioskiem o przeprowadzenie kontroli wpaństwie spoza obszaru państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia oWolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym. Art. 37ag. Do badań klinicznych badanego produktu leczniczego w zakresie nieuregulowanym w niniejszym rozdziale stosuje się przepisy o eksperymencie medycznym, o którym mowa w rozdziale IV ustawy o zawodzie lekarza. Art. 37ah. 1. Sponsor albo badacz występuje z wnioskiem o wydanie pozwolenia na przeprowadzenie badania klinicznego weterynaryjnego do ministra właściwego do spraw zdrowia za pośrednictwem Prezesa Urzędu.
 
-2. Przepis ust. 1 stosuje si´ tak˝e do balub paƒstw cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym w zakresie przeprowadzenia kontroli badaƒ klinicznych; minister w∏aÊciwy do spraw zdrowia, na wniosek Prezesa Urz´du, mo˝e daƒ klinicznych weterynaryjnych dotyczàcych pozosta∏oÊci badanego produktu leczniczego weterynaryjnego wtkankach iinnych badaƒ klinicznych weterynaryjnych dotyczàcych zwierzàt, których tkanki lub produkty sà przeznaczone do spo˝ycia.
+2. Przepis ust. 1 stosuje się także do balub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym w zakresie przeprowadzenia kontroli badań klinicznych; minister właściwy do spraw zdrowia, na wniosek Prezesa Urzędu, może dań klinicznych weterynaryjnych dotyczących pozostałości badanego produktu leczniczego weterynaryjnego wtkankach iinnych badań klinicznych weterynaryjnych dotyczących zwierząt, których tkanki lub produkty są przeznaczone do spożycia.
 
-3. Za z∏o˝enie wniosku, o którym mowa w ust. 1, pobierane sà op∏aty.
+3. Za złożenie wniosku, o którym mowa w ust. 1, pobierane są opłaty.
 
-4. Badanie kliniczne weterynaryjne mo˝na rozpoczàç lub prowadziç po uzyskaniu pozwolenia ministra w∏aÊciwego do spraw zdrowia, je˝eli stwierdzi, ˝e proponowane badanie kliniczne jest zgodne z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej. Minister w∏aÊciwy do spraw zdrowia wydaje pozwolenie lub odmawia jego wydania w drodze decyzji.
+4. Badanie kliniczne weterynaryjne można rozpocząć lub prowadzić po uzyskaniu pozwolenia ministra właściwego do spraw zdrowia, jeżeli stwierdzi, że proponowane badanie kliniczne jest zgodne z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej. Minister właściwy do spraw zdrowia wydaje pozwolenie lub odmawia jego wydania w drodze decyzji.
 
-5. Prezes Urz´du dokonuje wpisu do Centralnej Ewidencji Badaƒ Klinicznych badania klinicznego weterynaryjnego, które uzyska∏o pozwolenie ministra w∏aÊciwego do spraw zdrowia albo jego odmow´.
+5. Prezes Urzędu dokonuje wpisu do Centralnej Ewidencji Badań Klinicznych badania klinicznego weterynaryjnego, które uzyskało pozwolenie ministra właściwego do spraw zdrowia albo jego odmowę.
 
-6. Przywóz z zagranicy badanych produktów leczniczych weterynaryjnych oraz sprz´tu niezb´dnego do prowadzenia badaƒ klinicznych weterynaryjnych wymaga uzyskania zaÊwiadczenia Prezesa Urz´du, potwierdzajàcego, ˝e badanie kliniczne weterynaryjne zosta∏o wpisane do Centralnej Ewidencji Badaƒ Klinicznych oraz ˝e dany produkt lub sprz´t jest sprowadzany na potrzeby tego badania. Art. 37ai. 1. Kontrol´ badaƒ klinicznych weterynaryjnych w zakresie zgodnoÊci badaƒ z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej przeprowadza Inspekcja Badaƒ Klinicznych.
+6. Przywóz z zagranicy badanych produktów leczniczych weterynaryjnych oraz sprzętu niezbędnego do prowadzenia badań klinicznych weterynaryjnych wymaga uzyskania zaświadczenia Prezesa Urzędu, potwierdzającego, że badanie kliniczne weterynaryjne zostało wpisane do Centralnej Ewidencji Badań Klinicznych oraz że dany produkt lub sprzęt jest sprowadzany na potrzeby tego badania. Art. 37ai. 1. Kontrolę badań klinicznych weterynaryjnych w zakresie zgodności badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej przeprowadza Inspekcja Badań Klinicznych.
 
-2. Przeprowadzajàcy kontrol´, upowa˝niony przez Prezesa Urz´du mo˝e w szczególnoÊci:
+2. Przeprowadzający kontrolę, upoważniony przez Prezesa Urzędu może w szczególności:
 
-- **1)** kontrolowaç oÊrodki przeprowadzajàce badanie kliniczne weterynaryjne, siedzib´ sponsora, organizacj´ prowadzàcà badanie kliniczne weterynaryjne na zlecenie lub inne miejsca uznane za istotne z punktu widzenia prowadzenia badania klinicznego weterynaryjnego;
-- **2)** ˝àdaç przedstawienia dokumentacji zwiàzanej z prowadzonym badaniem klinicznym weterynaryjnym;
-- **3)** ˝àdaç wyjaÊnieƒ dotyczàcych przeprowadzonego badania klinicznego weterynaryjnego oraz z∏o˝onej dokumentacji.
+- **1)** kontrolować ośrodki przeprowadzające badanie kliniczne weterynaryjne, siedzibę sponsora, organizację prowadzącą badanie kliniczne weterynaryjne na zlecenie lub inne miejsca uznane za istotne z punktu widzenia prowadzenia badania klinicznego weterynaryjnego;
+- **2)** żądać przedstawienia dokumentacji związanej z prowadzonym badaniem klinicznym weterynaryjnym;
+- **3)** żądać wyjaśnień dotyczących przeprowadzonego badania klinicznego weterynaryjnego oraz złożonej dokumentacji.
 
-3. Je˝eli badanie kliniczne badanego produktu leczniczego weterynaryjnego zagra˝a ˝yciu lub zdrowiu zwierzàt poddanych badaniu klinicznemu weterynaryjnemu lub jest prowadzone niezgodnie z protoko∏em badaƒ klinicznych weterynaryjnych, lub posiada znikomà wartoÊç naukowà, minister w∏aÊciwy do spraw zdrowia na wniosek Prezesa Urz´du, wdrodze decyzji, nakazuje wstrzymanie lub przerwanie badania klinicznego weterynaryjnego; Prezes Urz´du wyst´puje zwnioskiem po przeprowadzeniu kontroli badaƒ klinicznych weterynaryjnych. Art. 37aj. Minister w∏aÊciwy do spraw zdrowia wporozumieniu zministrem w∏aÊciwym do spraw rolnictwa okreÊli, w drodze rozporzàdzenia:
+3. Jeżeli badanie kliniczne badanego produktu leczniczego weterynaryjnego zagraża życiu lub zdrowiu zwierząt poddanych badaniu klinicznemu weterynaryjnemu lub jest prowadzone niezgodnie z protokołem badań klinicznych weterynaryjnych, lub posiada znikomą wartość naukową, minister właściwy do spraw zdrowia na wniosek Prezesa Urzędu, wdrodze decyzji, nakazuje wstrzymanie lub przerwanie badania klinicznego weterynaryjnego; Prezes Urzędu występuje zwnioskiem po przeprowadzeniu kontroli badań klinicznych weterynaryjnych. Art. 37aj. Minister właściwy do spraw zdrowia wporozumieniu zministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia:
 
 - **1)** wzór wniosku, o którym mowa w art. 37ah ust. 1,
-- **2)** sposób i zakres prowadzenia kontroli badaƒ klinicznych weterynaryjnych w zakresie zgodnoÊci tych badaƒ z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej, uwzgl´dniajàc rodzaj badanego produktu leczniczego weterynaryjnego oraz jego przeznaczenie, a tak˝e zakres prowadzonych badaƒ klinicznych weterynaryjnych,
-- **3)** sposób i tryb prowadzenia Centralnej Ewidencji Badaƒ Klinicznych w zakreuiszczania, uwzgl´dniajàc nak∏ad pracy zwiàzany z danà czynnoÊcià,
-- **5)** szczegó∏owe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, uwzgl´dniajàc w szczególnoÊci sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania wyników badaƒ klinicznych weterynaryjnych oraz obowiàzki podmiotów uczestniczàcych lub ubiegajàcych si´ oprzeprowadzenie badaƒ klinicznych. Art. 37ak. W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badaƒ klinicznych weterynaryjnych stosuje si´ przepisy ustawy z dnia 27 sierpnia 1997 r. o ochronie zwierzàt (Dz. U. z 2003 r. 106, poz. 1002). Art. 37al. Przepisów niniejszego rozdzia∏u nie stosuje si´ do nieinterwencyjnych badaƒ, w których:
-- **1)** produkty lecznicze sà stosowane w sposób okreÊlony w pozwoleniu na dopuszczenie do obrotu,
-- **2)** przydzielenie chorego do grupy, w której stosowana jest okreÊlona metoda leczenia, nie nast´puje na podstawie protoko∏u badania, ale zale˝y od aktualnej praktyki, a decyzja o podaniu leku jest jednoznacznie oddzielona od decyzji o w∏àczeniu pacjenta do badania,
-- **3)** u pacjentów nie wykonuje si´ ˝adnych dodatkowych procedur diagnostycznych ani monitorowania, a do analizy zebranych danych stosuje si´ metody epidemiologiczne.”;
-- **28)** tytu∏ rozdzia∏u 3 otrzymuje brzmienie: „Wytwarzanie i import produktów leczniczych”; sie badanego produktu leczniczego weterynaryjnego, uwzgl´dniajàc w szczególnoÊci dane obj´te ewidencjà,
-- **4)** wysokoÊç op∏at, o których mowa w art. 37ah ust. 3, oraz sposób ich
-- **29)** w art. 38: decyzj´ t´ G∏ówny Lekarz Weterynarii wydaje w porozumieniu z G∏ównym Inspektorem Farmaceutycznym; przepisy ust. 1, 2, 4 i 5, art. 41—44 i art. 48—50 stosuje si´ odpowiednio.”,
-    - **a)** po ust. 1 dodaje si´ ust. 1a w brzmieniu: „1a. Podj´cie dzia∏alnoÊci gospodarczej w zakresie importu produktu leczniczego wymaga, zzastrze˝eniem ust. 4, uzyskania zezwolenia na import.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Je˝eli zezwolenie dotyczy wytwarzania lub importu wy∏àcznie produktów leczniczych weterynaryjnych, w∏aÊciwym do wydania, odmowy wydania i cofni´cia oraz zmian zezwolenia jest G∏ówny Lekarz Weterynarii;
-    - **c)** po ust. 3 dodaje si´ ust 3a w brzmieniu: „3a. Do dzia∏alnoÊci gospodarczej prowadzonej w zakresie importu produktu leczniczego stosuje si´ przepisy niniejszego rozdzia∏u.”,
-    - **d)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: „G∏ówny Inspektor Farmaceutyczny mo˝e, w drodze decyzji, uznaç lub odmówiç uznania zezwolenia na wytwarzanie produktu leczniczego lub zezwolenia na import produktu leczniczego, wytwarzanego za granicà, wydanego przez uprawniony organ innego paƒstwa, je˝eli:”,
-    - **e)** ust. 7 otrzymuje brzmienie: „7. Przepisów ust. 4—6 nie stosuje si´ wodniesieniu do paƒstw cz∏onkowskich Unii Europejskiej lub paƒstw cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym innych, ni˝ Rzeczpospolita Polska oraz paƒstw majàcych równowa˝ne zUnià Europejskà wymagania Dobrej Praktyki Wytwarzania i równowa˝ny system inspekcji.”;
+- **2)** sposób i zakres prowadzenia kontroli badań klinicznych weterynaryjnych w zakresie zgodności tych badań z wymaganiami Dobrej Praktyki Klinicznej Weterynaryjnej, uwzględniając rodzaj badanego produktu leczniczego weterynaryjnego oraz jego przeznaczenie, a także zakres prowadzonych badań klinicznych weterynaryjnych,
+- **3)** sposób i tryb prowadzenia Centralnej Ewidencji Badań Klinicznych w zakreuiszczania, uwzględniając nakład pracy związany z daną czynnością,
+- **5)** szczegółowe wymagania Dobrej Praktyki Klinicznej Weterynaryjnej, uwzględniając w szczególności sposób planowania, prowadzenia, monitorowania, dokumentowania i raportowania wyników badań klinicznych weterynaryjnych oraz obowiązki podmiotów uczestniczących lub ubiegających się oprzeprowadzenie badań klinicznych. Art. 37ak. W zakresie spraw nieuregulowanych w ustawie do przeprowadzania badań klinicznych weterynaryjnych stosuje się przepisy ustawy z dnia 27 sierpnia 1997 r. o ochronie zwierząt (Dz. U. z 2003 r. 106, poz. 1002). Art. 37al. Przepisów niniejszego rozdziału nie stosuje się do nieinterwencyjnych badań, w których:
+- **1)** produkty lecznicze są stosowane w sposób określony w pozwoleniu na dopuszczenie do obrotu,
+- **2)** przydzielenie chorego do grupy, w której stosowana jest określona metoda leczenia, nie następuje na podstawie protokołu badania, ale zależy od aktualnej praktyki, a decyzja o podaniu leku jest jednoznacznie oddzielona od decyzji o włączeniu pacjenta do badania,
+- **3)** u pacjentów nie wykonuje się żadnych dodatkowych procedur diagnostycznych ani monitorowania, a do analizy zebranych danych stosuje się metody epidemiologiczne.”;
+- **28)** tytuł rozdziału 3 otrzymuje brzmienie: ŃWytwarzanie i import produktów leczniczych”; sie badanego produktu leczniczego weterynaryjnego, uwzględniając w szczególności dane objęte ewidencją,
+- **4)** wysokość opłat, o których mowa w art. 37ah ust. 3, oraz sposób ich
+- **29)** w art. 38: decyzję tę Główny Lekarz Weterynarii wydaje w porozumieniu z Głównym Inspektorem Farmaceutycznym; przepisy ust. 1, 2, 4 i 5, art. 41—44 i art. 48—50 stosuje się odpowiednio.”,
+    - **a)** po ust. 1 dodaje się ust. 1a w brzmieniu: Ń1a. Podjęcie działalności gospodarczej w zakresie importu produktu leczniczego wymaga, zzastrzeżeniem ust. 4, uzyskania zezwolenia na import.”,
+    - **b)** ust. 3 otrzymuje brzmienie: Ń3. Jeżeli zezwolenie dotyczy wytwarzania lub importu wyłącznie produktów leczniczych weterynaryjnych, właściwym do wydania, odmowy wydania i cofnięcia oraz zmian zezwolenia jest Główny Lekarz Weterynarii;
+    - **c)** po ust. 3 dodaje się ust 3a w brzmieniu: Ń3a. Do działalności gospodarczej prowadzonej w zakresie importu produktu leczniczego stosuje się przepisy niniejszego rozdziału.”,
+    - **d)** w ust. 4 wprowadzenie do wyliczenia otrzymuje brzmienie: ŃGłówny Inspektor Farmaceutyczny może, w drodze decyzji, uznać lub odmówić uznania zezwolenia na wytwarzanie produktu leczniczego lub zezwolenia na import produktu leczniczego, wytwarzanego za granicą, wydanego przez uprawniony organ innego państwa, jeżeli:”,
+    - **e)** ust. 7 otrzymuje brzmienie: Ń7. Przepisów ust. 4—6 nie stosuje się wodniesieniu do państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym innych, niż Rzeczpospolita Polska oraz państw mających równoważne zUnią Europejską wymagania Dobrej Praktyki Wytwarzania i równoważny system inspekcji.”;
 
-- **30)** po art. 47 dodaje si´ art. 47a i 47b w brzmieniu: „Art. 47a. 1. Wytwórca mo˝e wystàpiç do G∏ównego Inspektora Farmaceutycznego z wnioskiem o wydanie zaÊwiadczenia, stanowiàcego certyfikat potwierdzajàcy zgodnoÊç warunków wytwarzania z zasadami Dobrej Praktyki Wytwarzania.
+- **30)** po art. 47 dodaje się art. 47a i 47b w brzmieniu: ŃArt. 47a. 1. Wytwórca może wystąpić do Głównego Inspektora Farmaceutycznego z wnioskiem o wydanie zaświadczenia, stanowiącego certyfikat potwierdzający zgodność warunków wytwarzania z zasadami Dobrej Praktyki Wytwarzania.
 
-2. G∏ówny Inspektor Farmaceutyczny wydaje zaÊwiadczenie, o którym mowa w ust. 1, je˝eli wyniki inspekcji przeprowadzanej przez inspektora do spraw wytwarzania G∏ównego Inspektoratu Farmaceutycznego potwierdzà zgodnoÊç warunków wytwarzania z zasadami Dobrej Praktyki Wytwarzania.
+2. Główny Inspektor Farmaceutyczny wydaje zaświadczenie, o którym mowa w ust. 1, jeżeli wyniki inspekcji przeprowadzanej przez inspektora do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego potwierdzą zgodność warunków wytwarzania z zasadami Dobrej Praktyki Wytwarzania.
 
-3. Inspekcja, o której mowa w ust. 2, przeprowadzana jest na koszt wytwórcy ubiegajàcego si´ o wydanie zaÊwiadczenia, o którym mowa w ust. 1.
+3. Inspekcja, o której mowa w ust. 2, przeprowadzana jest na koszt wytwórcy ubiegającego się o wydanie zaświadczenia, o którym mowa w ust. 1.
 
 **Art. 47b.**
 
-1. Koszty przeprowadzenia inspekcji, o której mowa w art. 47a ust. 2, obejmujà w szczególnoÊci koszty podró˝y, pobytu i czasu pracy inspektora do spraw wytwarzania G∏ównego Inspektoratu Farmaceutycznego.
+1. Koszty przeprowadzenia inspekcji, o której mowa w art. 47a ust. 2, obejmują w szczególności koszty podróży, pobytu i czasu pracy inspektora do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego.
 
-2. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, wysokoÊç i sposób pokrywania kosztów zwiàzanych z przeprowadzeniem inspekcji, o których mowa w art. 10 si´ w szczególnoÊci nak∏adem pracy zwiàzanej z wykonywaniem danej czynnoÊci, poziomem kosztów ponoszonych przez G∏ówny Inspektorat Farmaceutyczny oraz wysokoÊcià op∏aty wpaƒstwach cz∏onkowskich Unii Europejskiej o zbli˝onym produkcie krajowym brutto na jednego mieszkaƒca.”;
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wysokość i sposób pokrywania kosztów związanych z przeprowadzeniem inspekcji, o których mowa w art. 10 się w szczególności nakładem pracy związanej z wykonywaniem danej czynności, poziomem kosztów ponoszonych przez Główny Inspektorat Farmaceutyczny oraz wysokością opłaty wpaństwach członkowskich Unii Europejskiej o zbliżonym produkcie krajowym brutto na jednego mieszkańca.”;
 
 - **31)** w art. 48:
-    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) w przypadku produktu leczniczego pochodzàcego z importu dla ka˝dej serii produktu leczniczego wykonano na terytorium Rzeczypospolitej Polskiej pe∏nà analiz´ jakoÊciowà iiloÊciowà przynajmniej wodniesieniu do substancji czynnych oraz wykonano badania, o których mowa w art. 10 ust. 2 pkt 2, niezb´dne, aby upewniç si´, ˝e jakoÊç produktu leczniczego jest zgodna z wymaganiami jakoÊciowymi okreÊlonymi wdokumentacji dopuszczenia do obrotu.”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Serie produktów leczniczych, które przesz∏y kontrol´ w jednym z paƒstw cz∏onkowskich Unii Europejskiej lub paƒstw cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, sà wy∏àczone z kontroli, o której mowa w ust. 1 pkt 2, je˝eli znajdujà si´ w obrocie w jednym z paƒstw cz∏onkowskich Unii Europejskiej lub paƒstw cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym i je˝eli zosta∏o przed∏o˝one Êwiadectwo zwolnienia serii podpisane przez osob´ wykwalifikowanà.”;
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: Ń2) w przypadku produktu leczniczego pochodzącego z importu dla każdej serii produktu leczniczego wykonano na terytorium Rzeczypospolitej Polskiej pełną analizę jakościową iilościową przynajmniej wodniesieniu do substancji czynnych oraz wykonano badania, o których mowa w art. 10 ust. 2 pkt 2, niezbędne, aby upewnić się, że jakość produktu leczniczego jest zgodna z wymaganiami jakościowymi określonymi wdokumentacji dopuszczenia do obrotu.”,
+    - **b)** ust. 2 otrzymuje brzmienie: Ń2. Serie produktów leczniczych, które przeszły kontrolę w jednym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym, są wyłączone z kontroli, o której mowa w ust. 1 pkt 2, jeżeli znajdują się w obrocie w jednym z państw członkowskich Unii Europejskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym i jeżeli zostało przedłożone świadectwo zwolnienia serii podpisane przez osobę wykwalifikowaną.”;
 
-- **32)** w art. 55 ust. 3a otrzymuje brzmienie: „3a. Reklama kierowana do publicznej wiadomoÊci nie mo˝e polegaç na:
-- **1)** prezentowaniu produktu leczniczego przez naukowców, osoby pe∏niàce funkcje publiczne bàdê osoby posiadajàce wykszta∏cenie medyczne lub farmaceutyczne, lub sugerujàce posiadanie takiego wykszta∏cenia;
-- **2)** odwo∏ywaniu si´ do zaleceƒ naukowców, osób pe∏niàcych funkcje publiczne, osób posiadajàcych wykszta∏cenie medyczne lub farmaceutyczne, lub sugerujàcych posiadanie takiego wykszta∏cenia.”;
+- **32)** w art. 55 ust. 3a otrzymuje brzmienie: Ń3a. Reklama kierowana do publicznej wiadomości nie może polegać na:
+- **1)** prezentowaniu produktu leczniczego przez naukowców, osoby pełniące funkcje publiczne bądê osoby posiadające wykształcenie medyczne lub farmaceutyczne, lub sugerujące posiadanie takiego wykształcenia;
+- **2)** odwoływaniu się do zaleceń naukowców, osób pełniących funkcje publiczne, osób posiadających wykształcenie medyczne lub farmaceutyczne, lub sugerujących posiadanie takiego wykształcenia.”;
 - **33)** w art. 62:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Organy, o których mowa w ust. 1, mogà w drodze decyzji nakazaç:
+    - **a)** ust. 2 otrzymuje brzmienie: Ń2. Organy, o których mowa w ust. 1, mogą w drodze decyzji nakazać:
 
-- **1)** zaprzestania ukazywania si´ lub prowadzenia reklamy produktów leczniczych ust. 5, art. 38 ust. 6 i art. 47a, kierujàc sprzecznej z obowiàzujàcymi przepisami;
-- **2)** publikacj´ wydanej decyzji w miejscach, w których ukaza∏a si´ reklama sprzeczna z obowiàzujàcymi przepisami, oraz publikacj´ sprostowania b∏´dnej reklamy;
-- **3)** usuni´cie stwierdzonych naruszeƒ.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Decyzje, o których mowa w ust. 2 pkt 1 i 3, majà rygor natychmiastowej wykonalnoÊci.”;
+- **1)** zaprzestania ukazywania się lub prowadzenia reklamy produktów leczniczych ust. 5, art. 38 ust. 6 i art. 47a, kierując sprzecznej z obowiązującymi przepisami;
+- **2)** publikację wydanej decyzji w miejscach, w których ukazała się reklama sprzeczna z obowiązującymi przepisami, oraz publikację sprostowania błędnej reklamy;
+- **3)** usunięcie stwierdzonych naruszeń.”,
+    - **b)** ust. 3 otrzymuje brzmienie: Ń3. Decyzje, o których mowa w ust. 2 pkt 1 i 3, mają rygor natychmiastowej wykonalności.”;
 
 - **34)** w art. 65 w ust. 4:
-    - **a)** pkt 3 otrzymuje brzmienie: „3) produkty lecznicze pochodzàce z importu;”,
-    - **b)** dodaje si´ pkt 4 w brzmieniu: „4) surowce do sporzàdzania leków recepturowych oraz leków aptecznych.”;
+    - **a)** pkt 3 otrzymuje brzmienie: Ń3) produkty lecznicze pochodzące z importu;”,
+    - **b)** dodaje się pkt 4 w brzmieniu: Ń4) surowce do sporządzania leków recepturowych oraz leków aptecznych.”;
 
-- **35)** w art. 68 po ust. 4 dodaje si´ ust. 4a w brzmieniu: „4a. Nie uznaje si´ za obrót detaliczny bezpoÊredniego zastosowania u zwierz´cia przez lekarza weterynarii produktów leczniczych weterynaryjnych lub produktów leczniczych, których potrzeba zastosowania wynika z rodzaju Êwiadczonej us∏ugi lekarsko-weterynaryjnej.”;
-- **36)** w art. 69 ust. 4 otrzymuje brzmienie: „4. Dokumentacj´, o której mowa w ust. 1 i 3 lekarz weterynarii, w∏aÊciciel zwierz´cia i osoba odpowiedzialna za zwierz´ta przechowuje przez okres 3 lat.”;
-- **37)** w art. 70 ust. 3 otrzymuje brzmienie: „3. Punkty apteczne tworzone po dniu wejÊcia w˝ycie ustawy mogà byç usytuowane jedynie na terenach wiejskich, je˝eli na terenie danej wsi nie jest prowadzona apteka ogólnodost´pna.”;
+- **35)** w art. 68 po ust. 4 dodaje się ust. 4a w brzmieniu: Ń4a. Nie uznaje się za obrót detaliczny bezpośredniego zastosowania u zwierzęcia przez lekarza weterynarii produktów leczniczych weterynaryjnych lub produktów leczniczych, których potrzeba zastosowania wynika z rodzaju świadczonej usługi lekarsko-weterynaryjnej.”;
+- **36)** w art. 69 ust. 4 otrzymuje brzmienie: Ń4. Dokumentację, o której mowa w ust. 1 i 3 lekarz weterynarii, właściciel zwierzęcia i osoba odpowiedzialna za zwierzęta przechowuje przez okres 3 lat.”;
+- **37)** w art. 70 ust. 3 otrzymuje brzmienie: Ń3. Punkty apteczne tworzone po dniu wejścia wżycie ustawy mogą być usytuowane jedynie na terenach wiejskich, jeżeli na terenie danej wsi nie jest prowadzona apteka ogólnodostępna.”;
 - **38)** w art. 72:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Obrót hurtowy produktami leczniczymi, z zastrze˝eniem ust. 8 pkt 2, mogà prowadziç wy∏àcznie hurtownie farmaceutyczne, sk∏ady celne i konsygnacyjne produktów leczniczych.”,
-    - **b)** ust. 4 otrzymuje brzmienie: „4. Obrotem hurtowym wrozumieniu ust. 3 jest wywóz produktów leczniczych z terytorium Rzeczypospolitej Polskiej oraz przywóz produktów leczniczych z terytorium paƒstw cz∏onkowskich Unii Europejskiej lub Paƒstw Cz∏onkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.”,
-    - **c)** w ust. 5 pkt 2 otrzymuje brzmienie: „2) Êrodkami spo˝ywczymi specjalnego prze39) w art. 75 w ust. 2:
-    - **a)** pkt 2 i 3 otrzymujà brzmienie: „2) tytu∏ prawny do pomieszczeƒ hurtowni lub komory prze∏adunkowej;
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Obrót hurtowy produktami leczniczymi, z zastrzeżeniem ust. 8 pkt 2, mogą prowadzić wyłącznie hurtownie farmaceutyczne, składy celne i konsygnacyjne produktów leczniczych.”,
+    - **b)** ust. 4 otrzymuje brzmienie: Ń4. Obrotem hurtowym wrozumieniu ust. 3 jest wywóz produktów leczniczych z terytorium Rzeczypospolitej Polskiej oraz przywóz produktów leczniczych z terytorium państw członkowskich Unii Europejskiej lub Państw Członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym.”,
+    - **c)** w ust. 5 pkt 2 otrzymuje brzmienie: Ń2) środkami spożywczymi specjalnego prze39) w art. 75 w ust. 2:
+    - **a)** pkt 2 i 3 otrzymują brzmienie: Ń2) tytuł prawny do pomieszczeń hurtowni lub komory przeładunkowej;
 
-- **3)** plan i opis techniczny pomieszczeƒ hurtowni, z uwzgl´dnieniem ust. 1 pkt 5, sporzàdzony przez osob´ uprawnionà do ich wykonania;”,
-    - **b)** po pkt 5 kropk´ zast´puje si´ Êrednikiem idodaje pkt 6 i 7 w brzmieniu: „6) opini´ wojewódzkiego inspektora farmaceutycznego o przydatnoÊci lokalu przeznaczonego na hurtowni´, a w przypadku hurtowni produktów leczniczych weterynaryjnych opini´ wojewódzkiego lekarza weterynarii;
+- **3)** plan i opis techniczny pomieszczeń hurtowni, z uwzględnieniem ust. 1 pkt 5, sporządzony przez osobę uprawnioną do ich wykonania;”,
+    - **b)** po pkt 5 kropkę zastępuje się średnikiem idodaje pkt 6 i 7 w brzmieniu: Ń6) opinię wojewódzkiego inspektora farmaceutycznego o przydatności lokalu przeznaczonego na hurtownię, a w przypadku hurtowni produktów leczniczych weterynaryjnych opinię wojewódzkiego lekarza weterynarii;
 
-- **7)** opini´ Paƒstwowej Inspekcji Sanitarnej o lokalu zgodnie z odr´bnymi przepisami.”;
-- **40)** w art. 76 uchyla si´ ust. 6;
-- **41)** po art. 76 dodaje si´ art. 76a w brzmieniu: „Art. 76a. 1. Uruchomienie komory prze∏adunkowej wymaga zmiany wzezwoleniu na prowadzenie hurtowni farmaceutycznej.
+- **7)** opinię Państwowej Inspekcji Sanitarnej o lokalu zgodnie z odrębnymi przepisami.”;
+- **40)** w art. 76 uchyla się ust. 6;
+- **41)** po art. 76 dodaje się art. 76a w brzmieniu: ŃArt. 76a. 1. Uruchomienie komory przeładunkowej wymaga zmiany wzezwoleniu na prowadzenie hurtowni farmaceutycznej.
 
-2. Wniosek o zmian´ zezwolenia, o którym mowa wust. 1, zawiera dane wymienione wart. 75 ust. 1 pkt 1, 2, 5 i7.
+2. Wniosek o zmianę zezwolenia, o którym mowa wust. 1, zawiera dane wymienione wart. 75 ust. 1 pkt 1, 2, 5 i7.
 
-3. Do wniosku do∏àcza si´:
+3. Do wniosku dołącza się:
 
-- **1)** tytu∏ prawny do pomieszczeƒ komory prze∏adunkowej;
-- **2)** plan i opis techniczny pomieszczeƒ komory prze∏adunkowej, sporzàdzony przez osob´ uprawnionà do ich wykonania;
+- **1)** tytuł prawny do pomieszczeń komory przeładunkowej;
+- **2)** plan i opis techniczny pomieszczeń komory przeładunkowej, sporządzony przez osobę uprawnioną do ich wykonania;
 - **3)** postanowienie, o którym mowa w art. 76 ust. 4.”;
 - **42)** w art. 88:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Kierownikiem apteki mo˝e byç farmaceuta, o którym mowa w ust. 1, który nie przekroczy∏ 65 roku ˝ycia i ma co najmniej 5-letni sta˝ pracy w aptece lub 3-letni sta˝ pracy waptece, wprzypadku, gdy posiada specjalizacj´ z zakresu farmacji aptecznej.”,
-    - **b)** uchyla si´ ust. 2a;
+    - **a)** ust. 2 otrzymuje brzmienie: Ń2. Kierownikiem apteki może być farmaceuta, o którym mowa w ust. 1, który nie przekroczył 65 roku życia i ma co najmniej 5-letni staż pracy w aptece lub 3-letni staż pracy waptece, wprzypadku, gdy posiada specjalizację z zakresu farmacji aptecznej.”,
+    - **b)** uchyla się ust. 2a;
 
-- **43)** w art. 99 w ust. 3 pkt 2 i 3 otrzymujà brzmienie: „2) prowadzi na terenie województwa wi´cej ni˝ znaczenia ˝ywieniowego,”; 1% aptek ogólnodost´pnych albo podmioty przez niego kontrolowane w sposób bezpoÊredni lub poÊredni, w szczególnoÊci podmioty zale˝ne w rozumieniu ustawy z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2003 r. 86, poz. 804, 170, poz. 1652), prowadzà ∏àcznie wi´cej ni˝ 1 % aptek na terenie województwa;
-- **3)** jest cz∏onkiem grupy kapita∏owej w rozumieniu ustawy o ochronie konkurencji i konsumentów, której cz∏onkowie prowadzà na terenie województwa wi´cej ni˝ 1 % aptek ogólnodost´pnych.”;
+- **43)** w art. 99 w ust. 3 pkt 2 i 3 otrzymują brzmienie: Ń2) prowadzi na terenie województwa więcej niż znaczenia żywieniowego,”; 1% aptek ogólnodostępnych albo podmioty przez niego kontrolowane w sposób bezpośredni lub pośredni, w szczególności podmioty zależne w rozumieniu ustawy z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2003 r. 86, poz. 804, 170, poz. 1652), prowadzą łącznie więcej niż 1 % aptek na terenie województwa;
+- **3)** jest członkiem grupy kapitałowej w rozumieniu ustawy o ochronie konkurencji i konsumentów, której członkowie prowadzą na terenie województwa więcej niż 1 % aptek ogólnodostępnych.”;
 - **44)** w art. 100:
-    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: „2) numer NIP oraz numer PESEL lub gdy ten numer nie zosta∏ nadany numer paszportu, dowodu osobistego lub innego dokumentu potwierdzajàcego to˝samoÊç, wprzypadku gdy podmiot jest osobà fizycznà;”,
-    - **b)** w ust. 2 po pkt 5 kropk´ zast´puje si´ Êrednikiem i dodaje si´ pkt 6 i 7 w brzmieniu: „6) oÊwiadczenie, w którym wymienione b´dà wszystkie podmioty kontrolowane przez wnioskodawc´ w sposób bezpoÊredni lub poÊredni, wszczególnoÊci podmioty zale˝ne w rozumieniu ustawy o ochronie konkurencji i konsumentów. Wnioskodawca podaje oznaczenie podmiotu, jego siedzib´ i adres, a w przypadku osoby fizycznej imi´, nazwisko oraz adres;
+    - **a)** w ust. 1 pkt 2 otrzymuje brzmienie: Ń2) numer NIP oraz numer PESEL lub gdy ten numer nie został nadany numer paszportu, dowodu osobistego lub innego dokumentu potwierdzającego tożsamość, wprzypadku gdy podmiot jest osobą fizyczną;”,
+    - **b)** w ust. 2 po pkt 5 kropkę zastępuje się średnikiem i dodaje się pkt 6 i 7 w brzmieniu: Ń6) oświadczenie, w którym wymienione będą wszystkie podmioty kontrolowane przez wnioskodawcę w sposób bezpośredni lub pośredni, wszczególności podmioty zależne w rozumieniu ustawy o ochronie konkurencji i konsumentów. Wnioskodawca podaje oznaczenie podmiotu, jego siedzibę i adres, a w przypadku osoby fizycznej imię, nazwisko oraz adres;
 
-- **7)** oÊwiadczenie, w którym wymienione b´dà wszystkie podmioty b´dàce cz∏onkami grupy kapita∏owej w rozumieniu ustawy oochronie konkurencji ikonsumentów, której cz∏onkiem jest wnioskodawca. Wnioskodawca podaje oznaczenie podmiotu, jego siedzib´ i adres, a w przypadku osoby fizycznej imi´, nazwisko oraz adres.”;
-- **45)** w art. 101 pkt 2 otrzymuje brzmienie: „2) wnioskodawcy w okresie trzech lat przed z∏o˝eniem wniosku cofni´to zezwolenie na prowadzenie apteki lub hurtowni farmaceutycznej,”;
-- **46)** tytu∏ rozdzia∏u 8 otrzymuje brzmienie: „Paƒstwowa Inspekcja Farmaceutyczna”;
-- **47)** w art. 108 ust. 1—3 otrzymujà brzmienie: „1. Paƒstwowa Inspekcja Farmaceutyczna, zwana dalej „Inspekcjà Farmaceutycznà”, sprawuje nadzór nad warunkami wytwarzania i importu produktów leczniczych, z zastrze˝eniem ust. 2, jak równie˝ nad jakoÊcià iobrotem produktami leczniczymi oraz wyrobami medycznymi, wcelu zabezpieczenia interesu spo∏ecznego w zakresie bezpieczeƒstwa zdrowia i ˝ycia obywateli przy stosowaniu produktów leczniczych nicze weterynaryjne, Inspekcja Farmaceutyczna sprawuje przy wspó∏udziale Inspekcji Weterynaryjnej.
+- **7)** oświadczenie, w którym wymienione będą wszystkie podmioty będące członkami grupy kapitałowej w rozumieniu ustawy oochronie konkurencji ikonsumentów, której członkiem jest wnioskodawca. Wnioskodawca podaje oznaczenie podmiotu, jego siedzibę i adres, a w przypadku osoby fizycznej imię, nazwisko oraz adres.”;
+- **45)** w art. 101 pkt 2 otrzymuje brzmienie: Ń2) wnioskodawcy w okresie trzech lat przed złożeniem wniosku cofnięto zezwolenie na prowadzenie apteki lub hurtowni farmaceutycznej,”;
+- **46)** tytuł rozdziału 8 otrzymuje brzmienie: ŃPaństwowa Inspekcja Farmaceutyczna”;
+- **47)** w art. 108 ust. 1—3 otrzymują brzmienie: Ń1. Państwowa Inspekcja Farmaceutyczna, zwana dalej ŃInspekcją Farmaceutyczną”, sprawuje nadzór nad warunkami wytwarzania i importu produktów leczniczych, z zastrzeżeniem ust. 2, jak również nad jakością iobrotem produktami leczniczymi oraz wyrobami medycznymi, wcelu zabezpieczenia interesu społecznego w zakresie bezpieczeństwa zdrowia i życia obywateli przy stosowaniu produktów leczniczych nicze weterynaryjne, Inspekcja Farmaceutyczna sprawuje przy współudziale Inspekcji Weterynaryjnej.
 
-3. Wspó∏udzia∏, októrym mowa wust. 2, dotyczy przeprowadzania kontroli tych warunków.”;
+3. Współudział, októrym mowa wust. 2, dotyczy przeprowadzania kontroli tych warunków.”;
 
-- **48)** w art. 109 pkt 1 otrzymuje brzmienie: „1) kontrolowanie warunków wytwarzania i importu produktów leczniczych oraz warunków transportu, prze∏adunku i przechowywania produktów leczniczych i wyrobów medycznych;”;
-- **49)** w art. 115 po pkt 5 dodaje si´ pkt 5a w brzmieniu: „5a) w ramach paƒstwowych badaƒ jakoÊci produktów leczniczych sprawuje nadzór nad jakoÊcià produktów leczniczych znajdujàcych si´ w obrocie;”;
-- **50)** w art. 118 ust. 2 otrzymuje brzmienie: „2. Wstosunku do produktów leczniczych weterynaryjnych iwyrobów medycznych przeznaczonych wy∏àcznie dla zwierzàt nadzór nad obrotem sprawuje G∏ówny Lekarz Weterynarii oraz wojewódzcy lekarze weterynarii, a w przypadku pasz leczniczych powiatowi lekarze weterynarii. Przepisy art. 119 ust. 3, art. 120 ust. 1 pkt 2, ust. 2 i 3, art. 121 ust. 1 i 2, art. 121a, art. 122 i art. 123 ust. 1 stosuje si´ odpowiednio.”;
+- **48)** w art. 109 pkt 1 otrzymuje brzmienie: Ń1) kontrolowanie warunków wytwarzania i importu produktów leczniczych oraz warunków transportu, przeładunku i przechowywania produktów leczniczych i wyrobów medycznych;”;
+- **49)** w art. 115 po pkt 5 dodaje się pkt 5a w brzmieniu: Ń5a) w ramach państwowych badań jakości produktów leczniczych sprawuje nadzór nad jakością produktów leczniczych znajdujących się w obrocie;”;
+- **50)** w art. 118 ust. 2 otrzymuje brzmienie: Ń2. Wstosunku do produktów leczniczych weterynaryjnych iwyrobów medycznych przeznaczonych wyłącznie dla zwierząt nadzór nad obrotem sprawuje Główny Lekarz Weterynarii oraz wojewódzcy lekarze weterynarii, a w przypadku pasz leczniczych powiatowi lekarze weterynarii. Przepisy art. 119 ust. 3, art. 120 ust. 1 pkt 2, ust. 2 i 3, art. 121 ust. 1 i 2, art. 121a, art. 122 i art. 123 ust. 1 stosuje się odpowiednio.”;
 - **51)** w art. 119:
-    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: „1) wst´pu do wszystkich pomieszczeƒ, w których wytwarza si´, kontroluje i dokonuje czynnoÊci zwiàzanych z importem produktów leczniczych;”,
-    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: „1) wst´pu o ka˝dej porze do wszystkich pomieszczeƒ, w których wytwarza si´, kontroluje i dokonuje czynnoÊci zwiàzanych z importem produktów leczniczych;”;
+    - **a)** w ust. 1 pkt 1 otrzymuje brzmienie: Ń1) wstępu do wszystkich pomieszczeń, w których wytwarza się, kontroluje i dokonuje czynności związanych z importem produktów leczniczych;”,
+    - **b)** w ust. 2 pkt 1 otrzymuje brzmienie: Ń1) wstępu o każdej porze do wszystkich pomieszczeń, w których wytwarza się, kontroluje i dokonuje czynności związanych z importem produktów leczniczych;”;
 
-- **52)** w art. 120 w ust. 1 pkt 1 otrzymuje brzmienie: „1) warunków wytwarzania i importu produktów leczniczych,”;
-- **53)** art. 125 otrzymuje brzmienie: „Art. 125. Kto bez wymaganego zezwolenia podejmuje dzia∏alnoÊç gospodarczà w zakresie wytwarzania lub importu produktu i wyrobów medycznych, znajdujàcych si´ w hurtowniach farmaceutycznych, aptekach, punktach aptecznych i placówkach obrotu pozaaptecznego.
+- **52)** w art. 120 w ust. 1 pkt 1 otrzymuje brzmienie: Ń1) warunków wytwarzania i importu produktów leczniczych,”;
+- **53)** art. 125 otrzymuje brzmienie: ŃArt. 125. Kto bez wymaganego zezwolenia podejmuje działalność gospodarczą w zakresie wytwarzania lub importu produktu i wyrobów medycznych, znajdujących się w hurtowniach farmaceutycznych, aptekach, punktach aptecznych i placówkach obrotu pozaaptecznego.
 
-2. Nadzór nad warunkami importu iwytwarzania wwytwórniach wytwarzajàcych produkty leczleczniczego, podlega grzywnie, karze ograniczenia wolnoÊci albo pozbawienia wolnoÊci do lat 2.”;
+2. Nadzór nad warunkami importu iwytwarzania wwytwórniach wytwarzających produkty leczleczniczego, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.”;
 
-- **54)** po art. 132b dodaje si´ art. 132c w brzmieniu: „Art. 132c. Kto prowadzàc obrót detaliczny produktami leczniczymi weterynaryjnymi lub paszami leczniczymi, nie prowadzi dokumentacji obrotu produktami leczniczymi weterynaryjnymi lub paszami leczniczymi, podlega grzywnie albo karze pozbawienia wolnoÊci do lat 2 albo obu tym karom ∏àcznie.”;
-- **55)** u˝yte wustawie wró˝nej liczbie iprzypadku wyrazy:
-    - **a)** „produkt homeopatyczny” zast´puje si´ u˝ytymi w odpowiedniej liczbie i przypadku wyrazami „produkt leczniczy homeopatyczny”,
-    - **b)** „przysz∏y produkt leczniczy” zast´puje si´ u˝ytymi wodpowiedniej liczbie iprzypadku wyrazami „badany produkt leczniczy”.
+- **54)** po art. 132b dodaje się art. 132c w brzmieniu: ŃArt. 132c. Kto prowadząc obrót detaliczny produktami leczniczymi weterynaryjnymi lub paszami leczniczymi, nie prowadzi dokumentacji obrotu produktami leczniczymi weterynaryjnymi lub paszami leczniczymi, podlega grzywnie albo karze pozbawienia wolności do lat 2 albo obu tym karom łącznie.”;
+- **55)** użyte wustawie wróżnej liczbie iprzypadku wyrazy:
+    - **a)** Ńprodukt homeopatyczny” zastępuje się użytymi w odpowiedniej liczbie i przypadku wyrazami Ńprodukt leczniczy homeopatyczny”,
+    - **b)** Ńprzyszły produkt leczniczy” zastępuje się użytymi wodpowiedniej liczbie iprzypadku wyrazami Ńbadany produkt leczniczy”.
 
-**Art. 2.** U˝yte w obowiàzujàcych przepisach w ró˝nej liczbie i przypadku wyrazy:
+**Art. 2.** Użyte w obowiązujących przepisach w różnej liczbie i przypadku wyrazy:
 
-**Art. 3.** W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz. U. z 2002 r. 21, poz. 204, z póên. zm. ) w art. 29 po ust. 2 dodaje si´ ust. 2a w brzmieniu: „2a. Komisje bioetyczne i Odwo∏awcza Komisja Bioetyczna wydajà tak˝e opinie dotyczàce badaƒ klinicznych, je˝eli inne ustawy tak stanowià, w zakresie okreÊlonym w tych ustawach.”.
+**Art. 3.** W ustawie z dnia 5 grudnia 1996 r. o zawodzie lekarza (Dz. U. z 2002 r. 21, poz. 204, z póên. zm. ) w art. 29 po ust. 2 dodaje się ust. 2a w brzmieniu: Ń2a. Komisje bioetyczne i Odwoławcza Komisja Bioetyczna wydają także opinie dotyczące badań klinicznych, jeżeli inne ustawy tak stanowią, w zakresie określonym w tych ustawach.”.
 
-**Art. 4.** Wustawie zdnia 6 wrzeÊnia 2001 r. Przepisy wprowadzajàce ustaw´ Prawo farmaceutyczne, ustaw´ o wyrobach medycznych oraz ustaw´ o Urz´dzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. 126, poz. 1382, zpóên. zm.
+**Art. 4.** Wustawie zdnia 6 września 2001 r. Przepisy wprowadzające ustawę Prawo farmaceutyczne, ustawę o wyrobach medycznych oraz ustawę o Urzędzie Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych (Dz. U. 126, poz. 1382, zpóên. zm.
 
-**Art. 6.** Âwiadectwa rejestracji i Êwiadectwa dopuszczenia do obrotu wydane przed dniem 1 paêdziernika 2002 r., które sta∏y si´ pozwoleniami w rozumieniu przepisów ustawy Prawo farmaceutyczne, dotyczàce Êrodków farmaceutycznych, które nie sà produktami leczniczymi w rozumieniu ustawy z dnia 6 wrzeÊnia 2001 r. Prawo farmaceutyczne, wygasajà z dniem wejÊcia w ˝ycie niniejszej ustawy.
+**Art. 6.** Âwiadectwa rejestracji i świadectwa dopuszczenia do obrotu wydane przed dniem 1 paêdziernika 2002 r., które stały się pozwoleniami w rozumieniu przepisów ustawy Prawo farmaceutyczne, dotyczące środków farmaceutycznych, które nie są produktami leczniczymi w rozumieniu ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, wygasają z dniem wejścia w życie niniejszej ustawy.
 
-**Art. 7.** Produkty lecznicze, posiadajàce pozwolenie na dopuszczenie do obrotu wydane przez Rad´ Unii Europejskiej lub Komisj´ Europejskà oraz pozwolenie na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej wydane przed dniem uzyskania cz∏onkostwa przez Rzeczpospolità Polskà w Unii Europejskiej, mogà byç przedmiotem obrotu na warunkach okreÊlonych wpozwoleniu na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej przez okres 12 miesi´cy od dnia uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej.
+**Art. 7.** Produkty lecznicze, posiadające pozwolenie na dopuszczenie do obrotu wydane przez Radę Unii Europejskiej lub Komisję Europejską oraz pozwolenie na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej wydane przed dniem uzyskania członkostwa przez Rzeczpospolitą Polską w Unii Europejskiej, mogą być przedmiotem obrotu na warunkach określonych wpozwoleniu na dopuszczenie do obrotu na terytorium Rzeczypospolitej Polskiej przez okres 12 miesięcy od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
 **Art. 8.**
 
-1. Do dnia 31 grudnia 2004 r. podmioty, które na podstawie dotychczasowych przepisów prowadzi∏y import produktów leczniczych, sà obowiàzane do uzyskania zezwolenia, o którym mowa w art. 38 ust. 1a, ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszà ustawà.
+1. Do dnia 31 grudnia 2004 r. podmioty, które na podstawie dotychczasowych przepisów prowadziły import produktów leczniczych, są obowiązane do uzyskania zezwolenia, o którym mowa w art. 38 ust. 1a, ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Do dnia 31 grudnia 2004 r. produkty lecznicze sprowadzane przez podmioty, o których mowa w ust. 1, podlegajà kontroli seryjnej wst´pnej, o której mowa w art. 65 ust. 4 pkt 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszà ustawà.
+2. Do dnia 31 grudnia 2004 r. produkty lecznicze sprowadzane przez podmioty, o których mowa w ust. 1, podlegają kontroli seryjnej wstępnej, o której mowa w art. 65 ust. 4 pkt 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Przepis art. 65 ust. 4 pkt 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszà ustawà, stosuje si´ do dnia 31 grudnia 2004 r.
+**Art. 9.** Przepis art. 65 ust. 4 pkt 3 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, stosuje się do dnia 31 grudnia 2004 r.
 
-**Art. 10.** Przepis art. 99 ust. 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszà ustawà nie narusza uprawnieƒ nabytych przez przedsi´biorców, którzy przed dniem wejÊcia w ˝ycie ustawy, o której ) wart. 19 ust. 3 otrzymu- mowa w art. 1, prowadzili apteki lub hurtownie zgodje brzmienie: nie z obowiàzujàcymi przepisami. „3. Do przed∏u˝enia okresu wa˝noÊci pozwoleƒ, o których mowa w ust. 1 i 2, przepisy art. 14 stosuje si´ odpowiednio.”.
+**Art. 10.** Przepis art. 99 ust. 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą nie narusza uprawnień nabytych przez przedsiębiorców, którzy przed dniem wejścia w życie ustawy, o której ) wart. 19 ust. 3 otrzymu- mowa w art. 1, prowadzili apteki lub hurtownie zgodje brzmienie: nie z obowiązującymi przepisami. Ń3. Do przedłużenia okresu ważności pozwoleń, o których mowa w ust. 1 i 2, przepisy art. 14 stosuje się odpowiednio.”.
 
-**Art. 5.** Z dniem 1 maja 2004 r. podmiot odpowiedzialny, który wystàpi∏ zwnioskiem odopuszczenie do obrotu produktu leczniczego, na podstawie dotychczasowych przepisów, mo˝e wystàpiç do ministra w∏aÊciwego do spraw zdrowia, za poÊrednictwem Prezesa Urz´du, z wnioskiem o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego w trybie, o którym mowa w art. 19 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszà ustawà.
+**Art. 5.** Z dniem 1 maja 2004 r. podmiot odpowiedzialny, który wystąpił zwnioskiem odopuszczenie do obrotu produktu leczniczego, na podstawie dotychczasowych przepisów, może wystąpić do ministra właściwego do spraw zdrowia, za pośrednictwem Prezesa Urzędu, z wnioskiem o wydanie pozwolenia na dopuszczenie do obrotu produktu leczniczego w trybie, o którym mowa w art. 19 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6, art. 17 ust. 3 oraz art. 36 ustawy, o której mowa w art. 1, zachowujà moc do czasu wydania nowych przepisów wykonawczych, na podstawie art. 17 ust. 3, art. 36a, art. 37w, art. 37ae ust. 7, art. 37aj, ustawy, o której mowa w art. 1, wbrzmieniu nadanym niniejszà ustawà, nie d∏u˝ej ni˝ do dnia 1 maja 2005 r.
+**Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 6, art. 17 ust. 3 oraz art. 36 ustawy, o której mowa w art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych, na podstawie art. 17 ust. 3, art. 36a, art. 37w, art. 37ae ust. 7, art. 37aj, ustawy, o której mowa w art. 1, wbrzmieniu nadanym niniejszą ustawą, nie dłużej niż do dnia 1 maja 2005 r.
 
-**Art. 12.** Ustawa wchodzi w ˝ycie z dniem uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej, z wyjàtkiem art. 1 pkt 29 lit. a, c, d oraz art. 6, 8 i 9, które wchodzà w ˝ycie z dniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+**Art. 12.** Ustawa wchodzi w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem art. 1 pkt 29 lit. a, c, d oraz art. 6, 8 i 9, które wchodzą w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

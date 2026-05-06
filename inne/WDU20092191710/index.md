@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092191710) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1710/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 26 czerwca 1997 r. ofinan- Art. 2. Wustawie zdnia 17 maja 1989 r. ostosunsowaniu Papieskiej Akademii Teologicznej w Krako- ku Paƒstwa do KoÊcio∏a Katolickiego wRzeczypospowie z bud˝etu paƒstwa (Dz. U. Nr 103, poz. 650 oraz litej Polskiej (Dz. U. Nr 29, poz. 154, z póên. zm. z2005 r. Nr 164, poz. 1365) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 26 czerwca 1997 r. ofinan- Art. 2. Wustawie zdnia 17 maja 1989 r. ostosunsowaniu Papieskiej Akademii Teologicznej w Krako- ku Państwa do Kościoła Katolickiego wRzeczypospowie z budżetu państwa (Dz. U. Nr 103, poz. 650 oraz litej Polskiej (Dz. U. Nr 29, poz. 154, z póên. zm. z2005 r. Nr 164, poz. 1365) wprowadza się następujące zmiany:
 
-**Art. 3.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1710 USTAWA zdnia 2 grudnia 2009 r. ozmianie ustawy ofinansowaniu Papieskiej Akademii Teologicznej wKrakowie zbud˝etu paƒstwa oraz ustawy ostosunku Paƒstwa do KoÊcio∏a Katolickiego wRzeczypospolitej Polskiej
+**Art. 3.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1710 USTAWA zdnia 2 grudnia 2009 r. ozmianie ustawy ofinansowaniu Papieskiej Akademii Teologicznej wKrakowie zbudżetu państwa oraz ustawy ostosunku Państwa do Kościoła Katolickiego wRzeczypospolitej Polskiej
 

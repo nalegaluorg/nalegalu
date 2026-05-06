@@ -24,5 +24,5 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080860523) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/523/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 9 listopada 2000 r. ozmianie ustawy — Kodeks pracy oraz niektórych innych ustaw (Dz. U. Nr 107, poz. 1127 oraz z 2003 r. Nr 213, poz. 2081) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 9 listopada 2000 r. ozmianie ustawy — Kodeks pracy oraz niektórych innych ustaw (Dz. U. Nr 107, poz. 1127 oraz z 2003 r. Nr 213, poz. 2081) wprowadza się następujące zmiany:
 

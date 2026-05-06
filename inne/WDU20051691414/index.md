@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# matycznego Biuletynu Informacji Publicznej, Przepisy ogólne zwanego dalej „Biuletynem Informacji Publicznej”, na której udost´pnieniu podlegaç b´dà do1. Ustawa okreÊla zasady jawnoÊci dzia∏alno- kumenty, których mowa 6.
+# matycznego Biuletynu Informacji Publicznej, Przepisy ogólne zwanego dalej ŃBiuletynem Informacji Publicznej”, na której udostępnieniu podlegać będą do1. Ustawa określa zasady jawności działalno- kumenty, o których mowa 6.
 
 | Pole | Wartość |
 |---|---|
@@ -24,101 +24,108 @@ domain: null
 | Ostatnia zmiana | 2026-03-03 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051691414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1414/text.pdf) |
 
-Êci lobbingowej procesie stanowienia prawa, zasady wykonywania zawodowej lobbingo- 3. W programie, którym mowa ust. 1, wej, formy kontroli zawodowej lobbingo- uwzgl´dnia si´ równie˝ fakt rezygnacji prac nad dawej zasady prowadzenia rejestru podmiotów wy- nym projektem ustawy, podajàc przyczyny tej rezykonujàcych lobbingowà. gnacji.
-2. 1. W rozumieniu ustawy dzia∏alnoÊcià lob- 4. Program, októrym mowa wust. 1, podlega udobingowà jest ka˝de dzia∏anie prowadzone metodami st´pnieniu Biuletynie Informacji Publicznej.
-prawnie dozwolonymi zmierzajàce do wywarcia wp∏ywu na organy w∏adzy publicznej wprocesie stanowie- 5. Program, którym mowa ust. 1, Rada Mininia prawa. strów przedstawia niezw∏ocznie Sejmowi.
-2. W rozumieniu ustawy dzia∏alnoÊcià 4. Rada Ministrów, Prezes Rady Ministrów lobbingowà jest zarobkowa lobbingowa iministrowie przygotowujà swoje programy prac legiprowadzona na rzecz osób trzecich celu uwzgl´d- slacyjnych dotyczàce projektów rozporzàdzeƒ. Przepinienia procesie stanowienia prawa interesów tych osób. sy 3 ust. 2—4 stosuje si´ odpowiednio.
-3. Zawodowa lobbingowa mo˝e byç 5. Projekty ustaw rozporzàdzeƒ podlegajà wykonywana przez przedsi´biorc´ przez osob´ fi- udost´pnieniu Biuletynie Informacji Publicznej zycznà nieb´dàcà przedsi´biorcà na podstawie umo- chwilà przekazania projektów do uzgodnieƒ cz∏onwy cywilnoprawnej. kami Rady Ministrów.
-Rozdzia∏ 2 6. Z chwilà udost´pnienia Biuletynie Informacji Publicznej programów prac legislacyjnych, Zasady jawnoÊci lobbingowej których mowa 3 4, przypadku, gdy procesie stanowienia prawa projekt nie by∏ zawarty programie prac legislacyjnych, zchwilà udost´pnienia projektu wBiuletynie In3. 1. Rada Ministrów przygotowuje, co naj- formacji Publicznej, udost´pnieniu Biuletynie Informniej raz na 6 miesi´cy, program prac legislacyjnych macji Publicznej podlegajà równie˝ wszelkie dokuRady Ministrów dotyczàcy projektów ustaw. menty dotyczàce prac nad projektem.
-2. Program, którym mowa ust. 1, zawiera szczególnoÊci:
-1) zwi´z∏à informacj´ przyczynach potrzebie wprowadzenia rozwiàzaƒ, które planuje si´ zawrzeç projekcie ustawy;
-2) wskazanie istoty rozwiàzaƒ, które planuje si´ zawrzeç projekcie ustawy;
+ści lobbingowej procesie stanowienia prawa, zasady wykonywania zawodowej lobbingo- 3. W programie, o którym mowa ust. 1, wej, formy kontroli zawodowej lobbingo- uwzględnia się również fakt rezygnacji prac nad dawej zasady prowadzenia rejestru podmiotów wy- nym projektem ustawy, podając przyczyny tej rezykonujących lobbingową. gnacji.
+2. 1. W rozumieniu ustawy działalnością lob- Program, októrym mowa wust. 1, podlega udobingową jest każde działanie prowadzone metodami stępnieniu Biuletynie Informacji Publicznej.
+prawnie dozwolonymi zmierzające wywarcia wpływu na organy władzy publicznej wprocesie stanowie- 5. Program, o którym mowa ust. 1, Rada Mininia prawa. strów przedstawia niezwłocznie Sejmowi.
+2. W rozumieniu ustawy działalnością Rada Ministrów, Prezes Rady Ministrów lobbingową jest zarobkowa lobbingowa iministrowie przygotowują swoje programy prac legiprowadzona na rzecz osób trzecich celu uwzględ- slacyjnych dotyczące projektów rozporządzeń. Przepinienia procesie stanowienia prawa interesów tych osób. sy 3 ust. 2—4 stosuje się odpowiednio.
+3. Zawodowa lobbingowa może być 5. Projekty ustaw rozporządzeń podlegają wykonywana przez przedsiębiorcę przez osobę fi- udostępnieniu Biuletynie Informacji Publicznej zyczną niebędącą przedsiębiorcą na podstawie umo- chwilą przekazania projektów uzgodnień członwy cywilnoprawnej. kami Rady Ministrów.
+2. Program, o którym mowa ust. 1, zawiera szczególności:
+1) zwięzłą informację o przyczynach potrzebie wprowadzenia rozwiązań, które planuje się zawrzeć projekcie ustawy;
+wskazanie istoty rozwiązań, które planuje się zawrzeć projekcie ustawy;
 3) wskazanie organu odpowiedzialnego za opracowanie projektu ustawy;
-4) imi´ inazwisko stanowisko funkcj´ osoby odpowiedzialnej za opracowanie projektu ustawy;
-7. 1. Z chwilà udost´pnienia Biuletynie Informacji Publicznej programów prac legislacyjnych, których mowa 3 4, przypadku, gdy projekt nie by∏ zawarty programie prac legislacyjnych, zchwilà udost´pnienia projektu wBiuletynie Informacji Publicznej, ka˝dy mo˝e zg∏osiç zainteresowanie pracami nad projektem ustawy rozporzàdzenia.
-2. Zg∏oszenie, którym mowa ust. 1, wnosi si´, na urz´dowym formularzu, do organu odpowiedzialnego za opracowanie projektu ustawy rozporzàdzenia.
+4) imię inazwisko stanowisko lub funkcję osoby odpowiedzialnej za opracowanie projektu ustawy;
+7. 1. Z chwilą udostępnienia Biuletynie Informacji Publicznej programów prac legislacyjnych, o których mowa 3 4, przypadku, gdy projekt nie był zawarty programie prac legislacyjnych, zchwilą udostępnienia projektu wBiuletynie Informacji Publicznej, każdy może zgłosić zainteresowanie pracami nad projektem ustawy lub rozporządzenia.
+2. Zgłoszenie, o którym mowa ust. 1, wnosi się, na urzędowym formularzu, organu odpowiedzialnego za opracowanie projektu ustawy rozporządzenia.
 ———————
-3) je˝eli wyst´puje na rzecz podmiotu innego ni˝ osoba prawna odpowiednio, jego imi´ nazwisko adres jego nazw´ siedzib´;
-4) interes, który odniesieniu do danej regulacji zamierza chroniç, rozwiàzanie prawne, którego uwzgl´dnienie b´dzie zabiegaç.
-5. Do zg∏oszenia, którym mowa ust. 1, za∏àcza si´:
-1) przypadku gdy dokonujàcy zg∏oszenia, wyst´puje ramach zawodowej lobbingowej zaÊwiadczenie wpisie do rejestru, którym mowa 11 ust. 8;
-2) przypadku gdy dokonujàcy zg∏oszenia, wyst´puje na rzecz osoby prawnej zarejestrowanej Krajowym Rejestrze Sàdowym wyciàg Krajowego Rejestru Sàdowego dotyczàcy tej osoby prawnej.
-6. Podmioty, które zg∏osi∏y zainteresowanie pracami nad projektem ustawy rozporzàdzenia, majà obowiàzek zg∏osiç organowi odpowiedzialnemu za opracowanie projektu ustawy rozporzàdzenia zmiany danych podlegajàcych zg∏oszeniu terminie 7 dni od dnia ich wystàpienia.
-7. Rada Ministrów okreÊli, drodze rozporzàdzenia, tryb zg∏aszania zainteresowania pracami nad projektem ustawy rozporzàdzenia, wtym wzór formularza zg∏oszenia, kierujàc si´ potrzebà u∏atwienia dokonywania zg∏oszeƒ.
-8.1. Po wniesieniu projektu ustawy do Sejmu mo˝e zostaç przeprowadzone, na zasadach okreÊlonych regulaminie Sejmu, wys∏uchanie publiczne dotyczàce tego projektu.
-2. Podmiot, który zg∏osi∏ zainteresowanie pracami nad projektem ustawy, mo˝e, na zasadach okreÊlonych regulaminie Sejmu, wziàç udzia∏ wys∏uchaniu publicznym dotyczàcym tego projektu.
-9.1. Podmiot odpowiedzialny za opracowanie projektu rozporzàdzenia mo˝e przeprowadziç wys∏uchanie publiczne dotyczàce tego projektu.
-2. Informacja terminie wys∏uchania publicznego dotyczàcego projektu rozporzàdzenia podlega udo1) zmieniç termin miejsce wys∏uchania publicznego, podajàc Biuletynie Informacji Publicznej przyczyny tej zmiany nowy termin miejsce wys∏uchania publicznego;
-2) odwo∏aç wys∏uchanie publiczne, podajàc Biuletynie Informacji Publicznej przyczyny odwo∏ania.
-5. Podmiot organizujàcy wys∏uchanie publiczne szczególnoÊci:
-1) kieruje przebiegiem wys∏uchania publicznego;
-2) zapewnia niezak∏ócony przebieg wys∏uchania publicznego;
-3) udziela g∏osu uczestnikom wys∏uchania publicznego.
-6. Rada Ministrów okreÊli, drodze rozporzàdzenia, tryb przeprowadzania wys∏uchania publicznego dotyczàcego projektów rozporzàdzeƒ sposób dokumentowania jego przebiegu, majàc na uwadze zapewnienie identyfikacji osób uczestniczàcych wwys∏uchaniu publicznym, swobody prezentacji racji argumentów uczestników wys∏uchania publicznego sprawnego przebiegu wys∏uchania.
-Rozdzia∏ 3 Rejestr podmiotów wykonujàcych dzia∏alnoÊç lobbingowà zasady wykonywania zawodowej lobbingowej
-10. 1. Tworzy si´ rejestr podmiotów wykonujàcych lobbingowà, zwany dalej „rejestrem”.
-2. Minister w∏aÊciwy do spraw administracji publicznej prowadzi rejestr postaci bazy danych zapisanej na informatycznych noÊnikach danych rozumieniu przepisów ustawy zdnia 17 lutego 2005 oinformatyzacji podmiotów realizujàcych zadania publiczne (Dz. U. 64, 565).
-3. Rejestr zawiera nast´pujàce dane:
-1) firm´, siedzib´ iadres przedsi´biorcy wykonujàcego lobbingowà imi´, nazwisko iadres osoby fizycznej nieb´dàcej przedsi´biorcà wykonujàcej lobbingowà;
-na urz´dowym formularzu podaje si´ nim:
-1) firm´, siedzib´ iadres przedsi´biorcy wykonujàcego lobbingowà imi´, nazwisko iadres osoby fizycznej nieb´dàcej przedsi´biorcà wykonujàcej lobbingowà;
-2) przypadku przedsi´biorców wykonujàcych zawodowà lobbingowà numer wrejestrze przedsi´biorców Krajowym Rejestrze Sàdowym numer ewidencji gospodarczej.
-3. Do zg∏oszenia, którym mowa ust. 1, za∏àcza byç wykonywana po uzyskaniu wpisu do rejestru.
-13.Wprzypadku wydania na podstawie 41 Kodeksu karnego 9 ust. 1 pkt ustawy dnia 28 paêdziernika 2002 odpowiedzialnoÊci podmiotów zbiorowych za czyny zabronione pod groêbà kary (Dz. U. 197, 1661, póên. zm.
-si´ dokumenty potwierdzajàce prawdziwoÊç danych podanych zg∏oszeniu.
-4. W przypadku stwierdzenia zg∏oszeniu, którym mowa wust. 1, braków formalnych, organ prowadzàcy rejestr wzywa dokonujàcy zg∏oszenia do usuni´cia braków.
-5. W przypadku oczywistej bezzasadnoÊci zg∏oszenia nieusuni´cia, terminie 7 dni, pomimo wezwania organu prowadzàcego rejestr, braków formalnych zg∏oszenia, organ prowadzàcy rejestr odmawia dokonania wpisu do rejestru. Odmowa dokonania wpisu nast´puje drodze decyzji administracyjnej.
-6. Wpis do rejestru jest odp∏atny. Op∏at´ za wpis do rejestru uiszcza si´, dokonujàc zg∏oszenia. Op∏ata nie mo˝e przekroczyç 100 z∏.
-7. Podmioty wpisane do rejestru majà obowiàzek zg∏osiç organowi prowadzàcemu rejestr zmiany danych podlegajàcych wpisowi do rejestru terminie 7 dni od dnia ich wystàpienia.
-8. Organ prowadzàcy rejestr wydaje na ˝àdanie podmiotu wpisanego do rejestru zaÊwiadczenie owpisie do rejestru. ZaÊwiadczenie jest wa˝ne 3 miesiàce od dnia wydania.
-9. Organ prowadzàcy rejestr na wniosek podmiotu wpisanego do rejestru wykreÊla ten rejestru.
-10. Minister w∏aÊciwy do spraw administracji publicznej okreÊli, drodze rozporzàdzenia:
-1) sposób zg∏aszania dokonywania wpisów reje), prawomocnego orzeczenia zakazujàcego wykonywania zawodowej lobbingowej, organ prowadzàcy rejestr wykreÊla rejestru przedsi´biorc´ osob´ fizycznà, których dotyczy to orzeczenie. WykreÊlenie rejestru nast´puje drodze decyzji administracyjnej.
-14.1. Podmiot wykonujàcy dzia∏alnoÊç lobbingowà ma prawo wykonywaç t´ dzia∏alnoÊç tak˝e siedzibie urz´du obs∏ugujàcego organ w∏adzy publicznej.
-2. Kierownik urz´du, którym mowa ust. 1, zapewnia podmiotom wykonujàcym dzia∏alnoÊç lobbingowà wpisanym do rejestru dost´p do kierowanego przez siebie urz´du celu umo˝liwienia w∏aÊciwego reprezentowania interesów podmiotów, na rzecz których jest wykonywana ta dzia∏alnoÊç.
-3. Zasady wykonywania zawodowej lobbingowej na terenie Sejmu Senatu okreÊlajà odpowiednio regulamin Sejmu regulamin Senatu.
-15. Podmiot wykonujàcy dzia∏alnoÊç lobbingowà jest obowiàzany dor´czyç organowi w∏adzy publicznej pracownikowi urz´du obs∏ugujàcego organ w∏adzy publicznej, przed którym wyst´puje, zaÊwiadczenie wpisie do rejestru, wraz pisemnym oÊwiadczeniem zawierajàcym wskazanie podmiotów, na rzecz których wykonuje t´ dzia∏alnoÊç.
-Rozdzia∏ 4 Kontrola zawodowej lobbingowej
-16. 1. Organy w∏adzy publicznej sà obowiàzane niezw∏ocznie udost´pniaç Biuletynie Informacji Publicznej informacje dzia∏aniach podejmowanych wobec nich przez podmioty wykonujàce lobbingowà, wraz ze wskazaniem oczekiwanego przez te podmioty sposobu rozstrzygni´cia.
-2. Kierownicy urz´dów obs∏ugujàcych organy w∏adzy publicznej, ka˝dy zakresie swojego dzia∏ania, okreÊlà szczegó∏owy sposób post´powania pracownirejestru, w∏aÊciwy organ w∏adzy publicznej niezw∏ocznie informuje otym na piÊmie ministra w∏aÊciwego do spraw administracji publicznej.
-18. 1. Kierownicy urz´dów obs∏ugujàcych organy w∏adzy publicznej opracowujà raz roku, do koƒca lutego, informacj´ dzia∏aniach podejmowanych wobec tych organów roku poprzednim przez podmioty wykonujàce lobbingowà.
-2. Informacja, której mowa ust. 1, zawiera:
-1) okreÊlenie spraw, których zawodowa dzia∏alnoÊç lobbingowa by∏a podejmowana;
-2) wskazanie podmiotów, które wykonywa∏y zawodowà lobbingowà;
-3) okreÊlenie form podj´tej zawodowej lobbingowej, wraz ze wskazaniem, czy polega∏a ona na wspieraniu okreÊlonych projektów, czy te˝ na wyst´powaniu przeciwko tym projektom;
-4) okreÊlenie wp∏ywu, jaki wywar∏ wykonujàcy lobbingowà procesie stanowienia prawa danej sprawie.
-3. Informacja, októrej mowa wust. 1, podlega niezw∏ocznie udost´pnieniu Biuletynie Informacji Publicznej.
-Rozdzia∏ Sankcje za naruszenie przepisów ustawy
-19. 1. Podmiot, który wykonuje czynnoÊci wchodzàce zakres zawodowej lobbingowej bez wpisu do rejestru, podlega karze pieni´˝nej wysokoÊci od 3 000 z∏ do 50 000 z∏.
-2. Kar´, której mowa ust. 1, nak∏ada drodze decyzji administracyjnej minister w∏aÊciwy do spraw administracji publicznej.
-3. Przy ustalaniu wysokoÊci kary pieni´˝nej uwzgl´dnia si´ stopieƒ wp∏ywu podmiotu, którym mowa ust. 1, na okreÊlone rozstrzygni´cie organu w∏adzy publicznej dotyczàce stanowienia prawa zakres charakter podj´tych przez ten czynnoÊci zakresu zawodowej lobbingowej.
-Rozdzia∏ 6 Zmiany przepisach obowiàzujàcych, przepisy przejÊciowe koƒcowe
-21.Wustawie zdnia 9 maja 1996 owykonywaniu mandatu pos∏a senatora (Dz. U. 2003 221, 2199, z2004 116, 1202 iNr 210, 2135 z2005 48, 446) wprowadza si´ nast´pujàce zmiany:
-1) 18 dodaje si´ ust. 3a 3b brzmieniu: „3a. Przewodniczàcy klubu ko∏a jest obowiàzany podaç odpowiednio Marsza∏kowi Sejmu Marsza∏kowi Senatu nast´pujàce dane dotyczàce pracowników biura klubu ko∏a spo∏ecznych wspó∏pracowników:
-1) imi´ (imiona) nazwisko;
-2) dat´ urodzenia;
-3) miejsce zatrudnienia trzyletnim okresie poprzedzajàcym dzieƒ, którym osoba zosta∏a pracownikiem biura klubu ko∏a spo∏ecznym wspó∏pracownikiem;
-4) êród∏a dochodów trzyletnim okresie poprzedzajàcym dzieƒ, którym osoba zosta∏a pracownikiem biura klubu ko∏a spo∏ecznym wspó∏pracownikiem;
-5) informacj´ wykonywanej gospodarczej trzyletnim okresie poprzedzajàcym dzieƒ, którym osoba zosta∏a pracownikiem biura klubu ko∏a spo∏ecznym wspó∏pracownikiem.
-3b. Dane, októrych mowa wust. 3a, sà jawne isà podawane do wiadomoÊci publicznej odpowiednio przez Marsza∏ka Sejmu Marsza∏ka Senatu wformie zapisu elektronicznego.”;
-2) 23 dodaje si´ ust. 4a 4b brzmieniu: „4a. Pose∏ senator jest obowiàzany podaç odpowiednio Marsza∏kowi Sejmu Marsza∏kowi Senatu nast´pujàce dane dotyczàce pracowników biura spo∏ecznych wspó∏pracowników:
-1) imi´ (imiona) nazwisko;
-2) dat´ urodzenia;
-4b. Dane, których mowa ust. 4a, sà jawne isà podawane do wiadomoÊci publicznej odpowiednio przez Marsza∏ka Sejmu Marsza∏ka Senatu formie zapisu elektronicznego.”.
-22. W ustawie dnia 8 sierpnia 1996 Radzie Ministrów (Dz. U. z2003 24, 199 iNr 80, 717 238, 2390 273,
-2703) dodaje si´ 39a brzmieniu: „Art. 39a. 1. Minister podaje Prezesowi Rady Ministrów nast´pujàce dane dotyczàce pracowników zatrudnionych gabinecie Publicznej.”.
-23.Wustawie zdnia 4 wrzeÊnia 1997 odzia∏ach administracji rzàdowej (Dz. U. 2003 159, 1548, póên. zm.
+3) jeżeli występuje na rzecz podmiotu innego niż osoba prawna odpowiednio, jego imię nazwisko adres jego nazwę siedzibę;
+4) interes, który odniesieniu danej regulacji zamierza chronić, rozwiązanie prawne, o którego uwzględnienie będzie zabiegać.
+5. Do zgłoszenia, o którym mowa ust. 1, załącza się:
+1) przypadku gdy podmiot dokonujący zgłoszenia, występuje ramach zawodowej lobbingowej zaświadczenie o wpisie rejestru, o którym mowa 11 ust. 8;
+przypadku gdy podmiot dokonujący zgłoszenia, występuje na rzecz osoby prawnej zarejestrowanej Krajowym Rejestrze Sądowym wyciąg Krajowego Rejestru Sądowego dotyczący tej osoby prawnej.
+6. Podmioty, które zgłosiły zainteresowanie pracami nad projektem ustawy lub rozporządzenia, mają obowiązek zgłosić organowi odpowiedzialnemu za opracowanie projektu ustawy rozporządzenia zmiany danych podlegających zgłoszeniu terminie 7 dni od dnia ich wystąpienia.
+7. Rada Ministrów określi, drodze rozporządzenia, tryb zgłaszania zainteresowania pracami nad projektem ustawy lub rozporządzenia, wtym wzór formularza zgłoszenia, kierując się potrzebą ułatwienia dokonywania zgłoszeń.
+8.1. Po wniesieniu projektu ustawy Sejmu może zostać przeprowadzone, na zasadach określonych regulaminie Sejmu, wysłuchanie publiczne dotyczące tego projektu.
+2. Podmiot, który zgłosił zainteresowanie pracami nad projektem ustawy, może, na zasadach określonych regulaminie Sejmu, wziąć udział wysłuchaniu publicznym dotyczącym tego projektu.
+9.1. Podmiot odpowiedzialny za opracowanie projektu rozporządzenia może przeprowadzić wysłuchanie publiczne dotyczące tego projektu.
+2. Informacja o terminie wysłuchania publicznego dotyczącego projektu rozporządzenia podlega udo1) zmienić termin lub miejsce wysłuchania publicznego, podając Biuletynie Informacji Publicznej przyczyny tej zmiany nowy termin lub miejsce wysłuchania publicznego;
+odwołać wysłuchanie publiczne, podając Biuletynie Informacji Publicznej przyczyny odwołania.
+5. Podmiot organizujący wysłuchanie publiczne szczególności:
+1) kieruje przebiegiem wysłuchania publicznego;
+zapewnia niezakłócony przebieg wysłuchania publicznego;
+3) udziela głosu uczestnikom wysłuchania publicznego.
+6. Rada Ministrów określi, drodze rozporządzenia, tryb przeprowadzania wysłuchania publicznego dotyczącego projektów rozporządzeń sposób dokumentowania jego przebiegu, mając na uwadze zapewnienie identyfikacji osób uczestniczących wwysłuchaniu publicznym, swobody prezentacji racji argumentów uczestników wysłuchania publicznego sprawnego przebiegu wysłuchania.
+10. 1. Tworzy się rejestr podmiotów wykonujących lobbingową, zwany dalej Ńrejestrem”.
+2. Minister właściwy spraw administracji publicznej prowadzi rejestr postaci bazy danych zapisanej na informatycznych nośnikach danych rozumieniu przepisów ustawy zdnia 17 lutego 2005 oinformatyzacji podmiotów realizujących zadania publiczne (Dz. U. 64, 565).
+3. Rejestr zawiera następujące dane:
+1) firmę, siedzibę iadres przedsiębiorcy wykonującego lobbingową imię, nazwisko iadres osoby fizycznej niebędącej przedsiębiorcą wykonującej lobbingową;
+na urzędowym formularzu podaje się nim:
+1) firmę, siedzibę iadres przedsiębiorcy wykonującego lobbingową imię, nazwisko iadres osoby fizycznej niebędącej przedsiębiorcą wykonującej lobbingową;
+przypadku przedsiębiorców wykonujących zawodową lobbingową numer wrejestrze przedsiębiorców Krajowym Rejestrze Sądowym numer ewidencji gospodarczej.
+3. Do zgłoszenia, o którym mowa ust. 1, załącza być wykonywana po uzyskaniu wpisu rejestru.
+13.Wprzypadku wydania na podstawie 41 Kodeksu karnego lub 9 ust. 1 pkt ustawy dnia 28 paêdziernika 2002 o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groêbą kary (Dz. U. 197, 1661, póên. zm.
+się dokumenty potwierdzające prawdziwość danych podanych zgłoszeniu.
+W przypadku stwierdzenia zgłoszeniu, o którym mowa wust. 1, braków formalnych, organ prowadzący rejestr wzywa podmiot dokonujący zgłoszenia usunięcia braków.
+5. W przypadku oczywistej bezzasadności zgłoszenia lub nieusunięcia, terminie 7 dni, pomimo wezwania organu prowadzącego rejestr, braków formalnych zgłoszenia, organ prowadzący rejestr odmawia dokonania wpisu rejestru. Odmowa dokonania wpisu następuje drodze decyzji administracyjnej.
+6. Wpis rejestru jest odpłatny. Opłatę za wpis rejestru uiszcza się, dokonując zgłoszenia. Opłata nie może przekroczyć 100 zł.
+7. Podmioty wpisane rejestru mają obowiązek zgłosić organowi prowadzącemu rejestr zmiany danych podlegających wpisowi rejestru terminie 7 dni od dnia ich wystąpienia.
+8. Organ prowadzący rejestr wydaje na żądanie podmiotu wpisanego rejestru zaświadczenie owpisie rejestru. Zaświadczenie jest ważne 3 miesiące od dnia wydania.
+9. Organ prowadzący rejestr na wniosek podmiotu wpisanego rejestru wykreśla ten podmiot rejestru.
+10. Minister właściwy spraw administracji publicznej określi, drodze rozporządzenia:
+1) sposób zgłaszania dokonywania wpisów reje), prawomocnego orzeczenia zakazującego wykonywania zawodowej lobbingowej, organ prowadzący rejestr wykreśla rejestru przedsiębiorcę osobę fizyczną, których dotyczy to orzeczenie. Wykreślenie rejestru następuje drodze decyzji administracyjnej.
+14.1. Podmiot wykonujący działalność lobbingową ma prawo wykonywać tę działalność także siedzibie urzędu obsługującego organ władzy publicznej.
+2. Kierownik urzędu, o którym mowa ust. 1, zapewnia podmiotom wykonującym działalność lobbingową wpisanym rejestru dostęp kierowanego przez siebie urzędu celu umożliwienia właściwego reprezentowania interesów podmiotów, na rzecz których jest wykonywana ta działalność.
+3. Zasady wykonywania zawodowej lobbingowej na terenie Sejmu Senatu określają odpowiednio regulamin Sejmu regulamin Senatu.
+15. Podmiot wykonujący działalność lobbingową jest obowiązany doręczyć organowi władzy publicznej lub pracownikowi urzędu obsługującego organ władzy publicznej, przed którym występuje, zaświadczenie o wpisie rejestru, wraz pisemnym oświadczeniem zawierającym wskazanie podmiotów, na rzecz których wykonuje tę działalność.
+16. 1. Organy władzy publicznej są obowiązane niezwłocznie udostępniać Biuletynie Informacji Publicznej informacje o działaniach podejmowanych wobec nich przez podmioty wykonujące lobbingową, wraz ze wskazaniem oczekiwanego przez te podmioty sposobu rozstrzygnięcia.
+2. Kierownicy urzędów obsługujących organy władzy publicznej, każdy zakresie swojego działania, określą szczegółowy sposób postępowania pracownirejestru, właściwy organ władzy publicznej niezwłocznie informuje otym na piśmie ministra właściwego spraw administracji publicznej.
+18. 1. Kierownicy urzędów obsługujących organy władzy publicznej opracowują raz roku, końca lutego, informację o działaniach podejmowanych wobec tych organów roku poprzednim przez podmioty wykonujące lobbingową.
+2. Informacja, o której mowa ust. 1, zawiera:
+1) określenie spraw, których zawodowa działalność lobbingowa była podejmowana;
+wskazanie podmiotów, które wykonywały zawodową lobbingową;
+3) określenie form podjętej zawodowej lobbingowej, wraz ze wskazaniem, czy polegała ona na wspieraniu określonych projektów, czy też na występowaniu przeciwko tym projektom;
+4) określenie wpływu, jaki wywarł podmiot wykonujący lobbingową procesie stanowienia prawa danej sprawie.
+3. Informacja, októrej mowa wust. 1, podlega niezwłocznie udostępnieniu Biuletynie Informacji Publicznej.
+19. 1. Podmiot, który wykonuje czynności wchodzące zakres zawodowej lobbingowej bez wpisu rejestru, podlega karze pieniężnej wysokości od 3 000 zł 50 000 zł.
+2. Karę, o której mowa ust. 1, nakłada drodze decyzji administracyjnej minister właściwy spraw administracji publicznej.
+3. Przy ustalaniu wysokości kary pieniężnej uwzględnia się stopień wpływu podmiotu, o którym mowa ust. 1, na określone rozstrzygnięcie organu władzy publicznej dotyczące stanowienia prawa zakres charakter podjętych przez ten podmiot czynności zakresu zawodowej lobbingowej.
+21.Wustawie zdnia 9 maja 1996 owykonywaniu mandatu posła senatora (Dz. U. 2003 221, 2199, z2004 116, 1202 iNr 210, 2135 z2005 48, 446) wprowadza się następujące zmiany:
+1) 18 dodaje się ust. 3a 3b brzmieniu: Ń3a. Przewodniczący klubu lub koła jest obowiązany podać odpowiednio Marszałkowi Sejmu Marszałkowi Senatu następujące dane dotyczące pracowników biura klubu lub koła społecznych współpracowników:
+1) imię (imiona) nazwisko;
+datę urodzenia;
+3) miejsce zatrudnienia trzyletnim okresie poprzedzającym dzień, którym osoba została pracownikiem biura klubu lub koła społecznym współpracownikiem;
+4) êródła dochodów trzyletnim okresie poprzedzającym dzień, którym osoba została pracownikiem biura klubu lub koła społecznym współpracownikiem;
+5) informację o wykonywanej gospodarczej trzyletnim okresie poprzedzającym dzień, którym osoba została pracownikiem biura klubu lub koła społecznym współpracownikiem.
+3b. Dane, októrych mowa wust. 3a, są jawne isą podawane wiadomości publicznej odpowiednio przez Marszałka Sejmu Marszałka Senatu wformie zapisu elektronicznego.”;
+23 dodaje się ust. 4a 4b brzmieniu: Ń4a. Poseł lub senator jest obowiązany podać odpowiednio Marszałkowi Sejmu Marszałkowi Senatu następujące dane dotyczące pracowników biura społecznych współpracowników:
+1) imię (imiona) nazwisko;
+datę urodzenia;
+4b. Dane, o których mowa ust. 4a, są jawne isą podawane wiadomości publicznej odpowiednio przez Marszałka Sejmu Marszałka Senatu formie zapisu elektronicznego.”.
+22. W ustawie dnia 8 sierpnia 1996 o Radzie Ministrów (Dz. U. z2003 24, 199 iNr 80, 717 238, 2390 273,
+2703) dodaje się 39a brzmieniu: ŃArt. 39a. 1. Minister podaje Prezesowi Rady Ministrów następujące dane dotyczące pracowników zatrudnionych gabinecie Publicznej.”.
+23.Wustawie zdnia 4 września 1997 odziałach administracji rządowej (Dz. U. 2003 159, 1548, póên. zm.
 politycznym ministra:
-1) imi´ (imiona) nazwisko;
-2) dat´ urodzenia;
-3) miejsce zatrudnienia trzyletnim okresie poprzedzajàcym dzieƒ, którym osoba zosta∏a zatrudniona gabinecie politycznym ministra;
-4) êród∏a dochodów wtrzyletnim okresie poprzedzajàcym dzieƒ, wktórym oso) wart. 6 wust. 1 wpkt 6 kropk´ zast´puje si´ Êrednikiem dodaje si´ pkt 7 brzmieniu: „7) prowadzenia rejestru podmiotów wykonujàcych lobbingowà.”.
-24.Ustawa wchodzi w˝ycie po up∏ywie 6 miesi´cy od dnia og∏oszenia.
-Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1415
-USTAWA dnia 7 lipca 2005 paƒstwowej kompensacie przys∏ugujàcej ofiarom niektórych przest´pstw umyÊlnych Rozdzia∏ 1 mocy, ponios∏a Êmierç dozna∏a naruszenia czynnoÊci narzàdu cia∏a rozstroju zdrowia Przepisy ogólne okreÊlonych 156 § 1 157 § 1 ustawy dnia 6 czerwca 1997 Kodeks karny (Dz. U.
-1. Ustawa okreÊla zasady tryb przyznawania 88, 553, póên. zm.
-kompensaty warunki wspó∏pracy organów wRzeczypospolitej Polskiej zorganami innych paƒstw cz∏onkowskich Unii Europejskiej w∏aÊciwymi sprawach post´powania uzyskanie tego Êwiadczenia.
-2. U˝yte ustawie okreÊlenia oznaczajà:
-1) ofiara osob´ fizycznà, która na skutek przest´pstwa umyÊlnego, pope∏nionego u˝yciem prze), zwanej dalej „Kodeks karny”;
-2) osoba najbli˝sza ma∏˝onka osob´ pozostajàcà ofiarà we wspólnym po˝yciu, wst´pnego, zst´pnego, osob´ pozostajàcà stosunku przy———————
+1) imię (imiona) nazwisko;
+datę urodzenia;
+3) miejsce zatrudnienia trzyletnim okresie poprzedzającym dzień, którym osoba została zatrudniona gabinecie politycznym ministra;
+4) êródła dochodów wtrzyletnim okresie poprzedzającym dzień, wktórym oso) wart. 6 wust. 1 wpkt 6 kropkę zastępuje się średnikiem dodaje się pkt 7 brzmieniu: Ń7) prowadzenia rejestru podmiotów wykonujących lobbingową.”.
+24.Ustawa wchodzi wżycie po upływie 6 miesięcy od dnia ogłoszenia.
+Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1415
+USTAWA dnia 7 lipca 2005 o państwowej kompensacie przysługującej ofiarom niektórych przestępstw umyślnych
+1. Ustawa określa zasady tryb przyznawania 88, 553, póên. zm.
+kompensaty warunki współpracy organów wRzeczypospolitej Polskiej zorganami innych państw członkowskich Unii Europejskiej właściwymi sprawach postępowania o uzyskanie tego świadczenia.
+2. Użyte ustawie określenia oznaczają:
+1) ofiara osobę fizyczną, która na skutek przestępstwa umyślnego, popełnionego użyciem prze), zwanej dalej ŃKodeks karny”;
+osoba najbliższa małżonka lub osobę pozostającą ofiarą we wspólnym pożyciu, wstępnego, zstępnego, osobę pozostającą stosunku przy———————
+
+#### Rozdział 2 6. Z chwilą udostępnienia Biuletynie Informacji Publicznej programów prac legislacyjnych, Zasady jawności lobbingowej o których mowa 3 4, przypadku, gdy procesie stanowienia prawa projekt nie był zawarty programie prac legislacyjnych, zchwilą udostępnienia projektu wBiuletynie In3. 1. Rada Ministrów przygotowuje, co naj- formacji Publicznej, udostępnieniu Biuletynie Informniej raz na 6 miesięcy, program prac legislacyjnych macji Publicznej podlegają również wszelkie dokuRady Ministrów dotyczący projektów ustaw. menty dotyczące prac nad projektem.
+
+#### Rozdział 3 Rejestr podmiotów wykonujących działalność lobbingową zasady wykonywania zawodowej lobbingowej
+
+#### Rozdział 4 Kontrola zawodowej lobbingowej
+
+#### Rozdział Sankcje za naruszenie przepisów ustawy
+
+#### Rozdział 6 Zmiany przepisach obowiązujących, przepisy przejściowe końcowe
+
+#### Rozdział 1 mocy, poniosła śmierć doznała naruszenia czynności narządu ciała lub rozstroju zdrowia Przepisy ogólne określonych 156 § 1 157 § 1 ustawy dnia 6 czerwca 1997 Kodeks karny (Dz. U.
 

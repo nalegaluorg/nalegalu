@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# o obrocie instrumentami finansowymi DZIA¸ I tami finansowymi, prawa i obowiàzki podmiotów uczestniczàcych w tym obrocie oraz wykonywanie Przepisy ogólne nadzoru w tym zakresie.
+# o obrocie instrumentami finansowymi DZIAĘ I tami finansowymi, prawa i obowiązki podmiotów uczestniczących w tym obrocie oraz wykonywanie Przepisy ogólne nadzoru w tym zakresie.
 
 *USTAWA z dnia 29 lipca 2005 r.*
 
@@ -26,2288 +26,2303 @@ domain: null
 | Ostatnia zmiana | 2026-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051831538) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1538/text.pdf) |
 
+3. Krajowy Depozyt może zarządzać środkami funduszu rozliczeniowego.
+4. Komisja, w terminie nie dłuższym niż 2 miesiące od dnia otrzymania zawiadomienia, o którym mowa w ust. 3, przygotuje się do sprawowania nadzoru nad działalnością tej firmy oraz informuje ją o warunkach prowadzenia działalności maklerskiej na terytorium Rzeczypospolitej Polskiej.
+
 **Art. 1.**
 
-1. Ustawa reguluje zasady, tryb i warunki 2. Przepisów ustawy nie stosuje si´ do weksli iczepodejmowania i prowadzenia dzia∏alnoÊci w zakresie ków w rozumieniu przepisów prawa wekslowego obrotu papierami wartoÊciowymi i innymi instrumen- i czekowego.
+1. Ustawa reguluje zasady, tryb i warunki 2. Przepisów ustawy nie stosuje się do weksli iczepodejmowania i prowadzenia działalności w zakresie ków w rozumieniu przepisów prawa wekslowego obrotu papierami wartościowymi i innymi instrumen- i czekowego.
 
 **Art. 2.**
 
-1. Instrumentami finansowymi w rozumieniu ustawy sà:
+1. Instrumentami finansowymi w rozumieniu ustawy są:
 
-- **1)** papiery wartoÊciowe;
-- **2)** nieb´dàce papierami wartoÊciowymi:
-    - **a)** tytu∏y uczestnictwa w instytucjach zbiorowego inwestowania,
-    - **b)** instrumenty rynku pieni´˝nego,
-    - **c)** finansowe kontrakty terminowe oraz inne równowa˝ne instrumenty finansowe rozliczane pieni´˝nie, umowy forward dotyczàce stóp procentowych, swapy akcyjne, swapy na stopy procentowe, swapy walutowe,
-    - **d)** opcje kupna lub sprzeda˝y instrumentów finansowych, opcje na stopy procentowe, opcje walutowe, opcje na takie opcje, oraz inne równowa˝ne instrumenty finansowe rozliczane pieni´˝nie,
-    - **e)** prawa majàtkowe, których cena zale˝y bezpoÊrednio lub poÊrednio od wartoÊci oznaczonych co do gatunku rzeczy, okreÊlonych rodzajów energii, mierników ilimitów wielkoÊci produkcji lub emisji zanieczyszczeƒ (pochodne instrumenty towarowe),
-    - **f)** inne instrumenty, je˝eli zosta∏y dopuszczone do obrotu na rynku regulowanym na terytorium paƒstwa cz∏onkowskiego lub sà przedmiotem ubiegania si´ o takie dopuszczenie.
+- **1)** papiery wartościowe;
+- **2)** niebędące papierami wartościowymi:
+    - **a)** tytuły uczestnictwa w instytucjach zbiorowego inwestowania,
+    - **b)** instrumenty rynku pieniężnego,
+    - **c)** finansowe kontrakty terminowe oraz inne równoważne instrumenty finansowe rozliczane pieniężnie, umowy forward dotyczące stóp procentowych, swapy akcyjne, swapy na stopy procentowe, swapy walutowe,
+    - **d)** opcje kupna lub sprzedaży instrumentów finansowych, opcje na stopy procentowe, opcje walutowe, opcje na takie opcje, oraz inne równoważne instrumenty finansowe rozliczane pieniężnie,
+    - **e)** prawa majątkowe, których cena zależy bezpośrednio lub pośrednio od wartości oznaczonych co do gatunku rzeczy, określonych rodzajów energii, mierników ilimitów wielkości produkcji lub emisji zanieczyszczeń (pochodne instrumenty towarowe),
+    - **f)** inne instrumenty, jeżeli zostały dopuszczone do obrotu na rynku regulowanym na terytorium państwa członkowskiego lub są przedmiotem ubiegania się o takie dopuszczenie.
 
-2. Maklerskimi instrumentami finansowymi sà instrumenty finansowe, o których mowa w ust. 1 pkt 1 i pkt 2 lit. a—d.
+2. Maklerskimi instrumentami finansowymi są instrumenty finansowe, o których mowa w ust. 1 pkt 1 i pkt 2 lit. a—d.
 
-**Art. 3.** Ilekroç w ustawie jest mowa o:
+**Art. 3.** Ilekroć w ustawie jest mowa o:
 
 **Art. 4.**
 
-1. Rachunkami papierów wartoÊciowych sà rachunki, na których zapisywane sà zdematerializowane papiery wartoÊciowe, prowadzone wy∏àcznie przez:
+1. Rachunkami papierów wartościowych są rachunki, na których zapisywane są zdematerializowane papiery wartościowe, prowadzone wyłącznie przez:
 
-- **1)** domy maklerskie i banki prowadzàce dzia∏alnoÊç maklerskà, banki powiernicze, zagraniczne firmy inwestycyjne i zagraniczne osoby prawne prowadzàce dzia∏alnoÊç maklerskà na terytorium Rzeczypospolitej Polskiej wformie oddzia∏u, Krajowy Depozyt oraz Narodowy Bank Polski je˝eli oznaczenie tych rachunków pozwala na identyfikacj´ osób, którym przys∏ugujà prawa z papierów wartoÊciowych;
-- **2)** inne podmioty b´dàce uczestnikami depozytu papierów wartoÊciowych lub systemu rejestracji papierów wartoÊciowych prowadzonego przez Narodowy Bank Polski, poÊredniczàce w zbywaniu papierów wartoÊciowych emitowanych przez Skarb Paƒstwa lub Narodowy Bank Polski je˝eli dokonywane przez nie zapisy dotyczà tych papierów i pozwalajà na identyfikacj´ osób, którym przys∏ugujà prawa z papierów wartoÊciowych.
+- **1)** domy maklerskie i banki prowadzące działalność maklerską, banki powiernicze, zagraniczne firmy inwestycyjne i zagraniczne osoby prawne prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej wformie oddziału, Krajowy Depozyt oraz Narodowy Bank Polski jeżeli oznaczenie tych rachunków pozwala na identyfikację osób, którym przysługują prawa z papierów wartościowych;
+- **2)** inne podmioty będące uczestnikami depozytu papierów wartościowych lub systemu rejestracji papierów wartościowych prowadzonego przez Narodowy Bank Polski, pośredniczące w zbywaniu papierów wartościowych emitowanych przez Skarb Państwa lub Narodowy Bank Polski jeżeli dokonywane przez nie zapisy dotyczą tych papierów i pozwalają na identyfikację osób, którym przysługują prawa z papierów wartościowych.
 
-2. Od chwili zarejestrowania papierów wartoÊciowych, na podstawie umowy, o której mowa w art. 5 ust. 3 lub 4, za rachunki papierów wartoÊciowych uwa˝a si´ równie˝ zapisy dotyczàce tych papierów, dokonywane wzwiàzku zich subskrypcjà lub sprzeda˝à w obrocie pierwotnym lub w pierwszej ofercie publicznej, przez:
+2. Od chwili zarejestrowania papierów wartościowych, na podstawie umowy, o której mowa w art. 5 ust. 3 lub 4, za rachunki papierów wartościowych uważa się również zapisy dotyczące tych papierów, dokonywane wzwiązku zich subskrypcją lub sprzedażą w obrocie pierwotnym lub w pierwszej ofercie publicznej, przez:
 
-- **1)** podmioty prowadzàce dzia∏alnoÊç maklerskà lub
-- **2)** banki powiernicze o ile identyfikujà one osoby, którym przys∏ugujà prawa z papierów wartoÊciowych.
+- **1)** podmioty prowadzące działalność maklerską lub
+- **2)** banki powiernicze o ile identyfikują one osoby, którym przysługują prawa z papierów wartościowych.
 
-3. Ilekroç w ustawie jest mowa o rachunkach papierów wartoÊciowych, rozumie si´ przez to równie˝ rachunki, na których sà zapisywane nieb´dàce papierami wartoÊciowymi maklerskie instrumenty finansowe dopuszczone do obrotu zorganizowanego.
+3. Ilekroć w ustawie jest mowa o rachunkach papierów wartościowych, rozumie się przez to również rachunki, na których są zapisywane niebędące papierami wartościowymi maklerskie instrumenty finansowe dopuszczone do obrotu zorganizowanego.
 
 **Art. 5.**
 
-1. Papiery wartoÊciowe:
+1. Papiery wartościowe:
 
-- **1)** b´dàce przedmiotem oferty publicznej lub
+- **1)** będące przedmiotem oferty publicznej lub
 - **2)** dopuszczone do obrotu na rynku regulowanym, lub
 - **3)** wprowadzone do alternatywnego systemu obrotu, lub
-- **4)** emitowane przez Skarb Paƒstwa lub Narodowy Bank Polski nie majà formy dokumentu, od chwili ich zarejestrowania na podstawie umowy, o której mowa w ust. 3—5 (dematerializacja). Papiery wartoÊciowe mogà nie mieç formy dokumentu równie˝ w przypadku, gdy przewidujà to odr´bne przepisy dotyczàce emisji tych papierów. do alternatywnego systemu obrotu nie jest poprzedzone ofertà publicznà przed z∏o˝eniem wniosku o dopuszczenie papierów wartoÊciowych do obrotu na rynku regulowanym albo owprowadzenie do alternatywnego systemu obrotu, do zawarcia z Narodowym Bankiem Polskim umowy, której przedmiotem jest rejestracja papierów wartoÊciowych w takim systemie.
+- **4)** emitowane przez Skarb Państwa lub Narodowy Bank Polski nie mają formy dokumentu, od chwili ich zarejestrowania na podstawie umowy, o której mowa w ust. 3—5 (dematerializacja). Papiery wartościowe mogą nie mieć formy dokumentu również w przypadku, gdy przewidują to odrębne przepisy dotyczące emisji tych papierów. do alternatywnego systemu obrotu nie jest poprzedzone ofertą publiczną przed złożeniem wniosku o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym albo owprowadzenie do alternatywnego systemu obrotu, do zawarcia z Narodowym Bankiem Polskim umowy, której przedmiotem jest rejestracja papierów wartościowych w takim systemie.
 
-6. Przed z∏o˝eniem wniosku odopuszczenie instrumentów finansowych nieb´dàcych papierami wartoÊciowymi do obrotu na rynku regulowanym, podmiot ubiegajàcy si´ o dopuszczenie do obrotu tych instrumentów jest obowiàzany do zawarcia zKrajowym Depozytem umowy, której przedmiotem jest rejestracja w depozycie papierów wartoÊciowych, instrumentów finansowych b´dàcych przedmiotem ubiegania si´ o dopuszczenie do obrotu na rynku regulowanym.
+6. Przed złożeniem wniosku odopuszczenie instrumentów finansowych niebędących papierami wartościowymi do obrotu na rynku regulowanym, podmiot ubiegający się o dopuszczenie do obrotu tych instrumentów jest obowiązany do zawarcia zKrajowym Depozytem umowy, której przedmiotem jest rejestracja w depozycie papierów wartościowych, instrumentów finansowych będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym.
 
-7. W przypadku papierów wartoÊciowych wyemitowanych poza terytorium Rzeczypospolitej Polskiej przedmiotem rejestracji mo˝e byç ta cz´Êç papierów wartoÊciowych, która stanowi przedmiot oferty publicznej, lub które majà byç dopuszczone do obrotu na rynku regulowanym albo wprowadzone do alterna2. Papiery wartoÊciowe: tywnego systemu obrotu na terytorium Rzeczypospo1) b´dàce przedmiotem oferty publicznej, które nie litej Polskiej. b´dà podlegaç dopuszczeniu do obrotu na rynku 8. Zawarcie umowy o rejestracj´ papierów wartoregulowanym, albo Êciowych, o której mowa w ust. 3 i 4, wymaga upo2) wprowadzone wy∏àcznie do alternatywnego syste- wa˝nienia zawartego w uchwale organu stanowiàcemu obrotu go emitenta, a w przypadku emitenta b´dàcego spó∏kà akcyjnà walnego zgromadzenia. mogà mieç form´ dokumentu, je˝eli emitent lub wprowadzajàcy tak postanowi. W takim przypadku Art. 6. 1. W przypadku papierów wartoÊciowych przepisów ust. 3—5 nie stosuje si´. wydanych w formie dokumentu, emitent jest obowiàzany, przed zawarciem umowy, októrej mowa wart. 5
+7. W przypadku papierów wartościowych wyemitowanych poza terytorium Rzeczypospolitej Polskiej przedmiotem rejestracji może być ta część papierów wartościowych, która stanowi przedmiot oferty publicznej, lub które mają być dopuszczone do obrotu na rynku regulowanym albo wprowadzone do alterna2. Papiery wartościowe: tywnego systemu obrotu na terytorium Rzeczypospo1) będące przedmiotem oferty publicznej, które nie litej Polskiej. będą podlegać dopuszczeniu do obrotu na rynku 8. Zawarcie umowy o rejestrację papierów wartoregulowanym, albo ściowych, o której mowa w ust. 3 i 4, wymaga upo2) wprowadzone wyłącznie do alternatywnego syste- ważnienia zawartego w uchwale organu stanowiącemu obrotu go emitenta, a w przypadku emitenta będącego spółką akcyjną walnego zgromadzenia. mogą mieć formę dokumentu, jeżeli emitent lub wprowadzający tak postanowi. W takim przypadku Art. 6. 1. W przypadku papierów wartościowych przepisów ust. 3—5 nie stosuje się. wydanych w formie dokumentu, emitent jest obowiązany, przed zawarciem umowy, októrej mowa wart. 5
 
-3. Przed rozpocz´ciem oferty publicznej emitent ust. 3—5, z∏o˝yç te papiery do depozytu prowadzonejest obowiàzany do zawarcia z Krajowym Depozytem go na terytorium Rzeczypospolitej Polskiej przez firm´ umowy, której przedmiotem jest rejestracja wdepozy- inwestycyjnà lub Krajowy Depozyt. Podmioty te sà cie papierów wartoÊciowych, papierów wartoÊcio- obowiàzane utworzyç rejestr osób uprawnionych wych obj´tych ofertà publicznà. z tych papierów.
+3. Przed rozpoczęciem oferty publicznej emitent ust. 3—5, złożyć te papiery do depozytu prowadzonejest obowiązany do zawarcia z Krajowym Depozytem go na terytorium Rzeczypospolitej Polskiej przez firmę umowy, której przedmiotem jest rejestracja wdepozy- inwestycyjną lub Krajowy Depozyt. Podmioty te są cie papierów wartościowych, papierów wartościo- obowiązane utworzyć rejestr osób uprawnionych wych objętych ofertą publiczną. z tych papierów.
 
-4. W przypadku gdy dopuszczenie papierów war- 2. W przypadku papierów wartoÊciowych wydatoÊciowych do obrotu na rynku regulowanym lub nych w formie dokumentu, zapisy w rejestrze, o któwprowadzenie do alternatywnego systemu obrotu nie rym mowa w ust. 1, uzyskujà znaczenie prawne zapijest poprzedzone ofertà publicznà, emitent jest obowiàzany do zawarcia z Krajowym Depozytem umowy, której przedmiotem jest rejestracja w depozycie papierów wartoÊciowych, papierów wartoÊciowych b´dàcych przedmiotem ubiegania si´ odopuszczenie do obrotu na rynku regulowanym albo o wprowadzenie do alternatywnego systemu obrotu, przed z∏o˝eniem wniosku o dopuszczenie papierów wartoÊciowych do obrotu na rynku regulowanym albo o wprowadzenie do alternatywnego systemu obrotu.
+4. W przypadku gdy dopuszczenie papierów war- 2. W przypadku papierów wartościowych wydatościowych do obrotu na rynku regulowanym lub nych w formie dokumentu, zapisy w rejestrze, o któwprowadzenie do alternatywnego systemu obrotu nie rym mowa w ust. 1, uzyskują znaczenie prawne zapijest poprzedzone ofertą publiczną, emitent jest obowiązany do zawarcia z Krajowym Depozytem umowy, której przedmiotem jest rejestracja w depozycie papierów wartościowych, papierów wartościowych będących przedmiotem ubiegania się odopuszczenie do obrotu na rynku regulowanym albo o wprowadzenie do alternatywnego systemu obrotu, przed złożeniem wniosku o dopuszczenie papierów wartościowych do obrotu na rynku regulowanym albo o wprowadzenie do alternatywnego systemu obrotu.
 
-5. Je˝eli system rejestracji papierów wartoÊciowych emitowanych przez Skarb Paƒstwa lub opiewajàcych na wynikajàce znich zbywalne prawa majàtkowe b´dzie prowadzony przez Narodowy Bank Polski, emitent b´dàcy Skarbem Paƒstwa jest obowiàzany, przed rozpocz´ciem oferty publicznej, a w przypadku gdy dopuszczenie takich papierów wartoÊciowych do obrotu na rynku regulowanym lub wprowadzenie ich sów na rachunkach papierów wartoÊciowych, a dokumenty z∏o˝one do depozytu zostajà pozbawione mocy prawnej zchwilà zarejestrowania tych papierów wdepozycie papierów wartoÊciowych.
+5. Jeżeli system rejestracji papierów wartościowych emitowanych przez Skarb Państwa lub opiewających na wynikające znich zbywalne prawa majątkowe będzie prowadzony przez Narodowy Bank Polski, emitent będący Skarbem Państwa jest obowiązany, przed rozpoczęciem oferty publicznej, a w przypadku gdy dopuszczenie takich papierów wartościowych do obrotu na rynku regulowanym lub wprowadzenie ich sów na rachunkach papierów wartościowych, a dokumenty złożone do depozytu zostają pozbawione mocy prawnej zchwilą zarejestrowania tych papierów wdepozycie papierów wartościowych.
 
-3. W przypadku papierów wartoÊciowych wydanych w formie dokumentu poza terytorium Rzeczypospolitej Polskiej obowiàzek okreÊlony w ust. 1 uznaje si´ za spe∏niony przez zarejestrowanie tych papierów wartoÊciowych, przed zawarciem umowy, októrej mowa wart. 5 ust. 3—5, przez osob´ prawnà lub innà jednostk´ organizacyjnà wykonujàcà poza terytorium Rzeczypospolitej Polskiej zadania w zakresie centralnej rejestracji papierów wartoÊciowych lub rozliczania transakcji zawieranych w obrocie papierami wartoÊciowymi.
+3. W przypadku papierów wartościowych wydanych w formie dokumentu poza terytorium Rzeczypospolitej Polskiej obowiązek określony w ust. 1 uznaje się za spełniony przez zarejestrowanie tych papierów wartościowych, przed zawarciem umowy, októrej mowa wart. 5 ust. 3—5, przez osobę prawną lub inną jednostkę organizacyjną wykonującą poza terytorium Rzeczypospolitej Polskiej zadania w zakresie centralnej rejestracji papierów wartościowych lub rozliczania transakcji zawieranych w obrocie papierami wartościowymi.
 
-4. Dokumenty, w formie których wydane zosta∏y papiery wartoÊciowe zarejestrowane przez podmiot, októrym mowa wust. 3, tracà moc prawnà na terytorium Rzeczypospolitej Polskiej z chwilà zarejestrowania tych papierów w depozycie papierów wartoÊciowych.
+4. Dokumenty, w formie których wydane zostały papiery wartościowe zarejestrowane przez podmiot, októrym mowa wust. 3, tracą moc prawną na terytorium Rzeczypospolitej Polskiej z chwilą zarejestrowania tych papierów w depozycie papierów wartościowych.
 
 **Art. 7.**
 
-1. Prawa ze zdematerializowanych papierów wartoÊciowych powstajà zchwilà zapisania ich po raz pierwszy na rachunku papierów wartoÊciowych i przys∏ugujà osobie b´dàcej posiadaczem tego rachunku.
+1. Prawa ze zdematerializowanych papierów wartościowych powstają zchwilą zapisania ich po raz pierwszy na rachunku papierów wartościowych i przysługują osobie będącej posiadaczem tego rachunku.
 
-2. Umowa zobowiàzujàca do przeniesienia zdematerializowanych papierów wartoÊciowych przenosi te papiery z chwilà dokonania odpowiedniego zapisu na rachunku papierów wartoÊciowych. W przypadku gdy ustalenie prawa do po˝ytków ze zdematerializowanych papierów wartoÊciowych nastàpi∏o w dniu, w którym w depozycie papierów wartoÊciowych powinno zostaç przeprowadzone rozliczenie transakcji, lub póêniej, apapiery te sà nadal zapisane na rachunku zbywcy, po˝ytki przypadajà nabywcy w chwili dokonania zapisu na jego rachunku papierów wartoÊciowych.
+2. Umowa zobowiązująca do przeniesienia zdematerializowanych papierów wartościowych przenosi te papiery z chwilą dokonania odpowiedniego zapisu na rachunku papierów wartościowych. W przypadku gdy ustalenie prawa do pożytków ze zdematerializowanych papierów wartościowych nastąpiło w dniu, w którym w depozycie papierów wartościowych powinno zostać przeprowadzone rozliczenie transakcji, lub póêniej, apapiery te są nadal zapisane na rachunku zbywcy, pożytki przypadają nabywcy w chwili dokonania zapisu na jego rachunku papierów wartościowych.
 
-3. W przypadku gdy nabycie zdematerializowanych papierów wartoÊciowych nastàpi∏o na podstawie zdarzenia prawnego powodujàcego z mocy ustawy przeniesienie tych papierów, zapis na rachunku papierów wartoÊciowych nabywcy jest dokonywany na jego ˝àdanie.
+3. W przypadku gdy nabycie zdematerializowanych papierów wartościowych nastąpiło na podstawie zdarzenia prawnego powodującego z mocy ustawy przeniesienie tych papierów, zapis na rachunku papierów wartościowych nabywcy jest dokonywany na jego żądanie.
 
-4. Dokonanie zapisu na rachunku papierów wartoÊciowych na podstawie umowy, o której mowa w ust.2, nast´puje po dokonaniu zarejestrowania przeniesienia papierów wartoÊciowych pomi´dzy odpowiednimi kontami depozytowymi, o których mowa w art. 57 ust. 1 pkt 1.
+4. Dokonanie zapisu na rachunku papierów wartościowych na podstawie umowy, o której mowa w ust.2, następuje po dokonaniu zarejestrowania przeniesienia papierów wartościowych pomiędzy odpowiednimi kontami depozytowymi, o których mowa w art. 57 ust. 1 pkt 1.
 
-5. Przepisy ust. 1—4 nie wy∏àczajà prawa do zobowiàzania si´ do zbycia papierów wartoÊciowych przed dokonaniem ich zapisu na rachunku papierów wartoÊciowych nabywcy, o ile do nabycia papierów wartoÊciowych dosz∏o w wyniku transakcji, której rozliczenie jest zabezpieczone przez fundusz, o którym mowa w art. 65 albo art. 68.
+5. Przepisy ust. 1—4 nie wyłączają prawa do zobowiązania się do zbycia papierów wartościowych przed dokonaniem ich zapisu na rachunku papierów wartościowych nabywcy, o ile do nabycia papierów wartościowych doszło w wyniku transakcji, której rozliczenie jest zabezpieczone przez fundusz, o którym mowa w art. 65 albo art. 68.
 
-6. Przepisy ust. 1—5 stosuje si´ do wyemitowadalej „Êwiadectwem”. Na ˝àdanie posiadacza rachunku w treÊci wystawianego Êwiadectwa mo˝e zostaç wskazana cz´Êç lub wszystkie papiery wartoÊciowe zapisane na tym rachunku.
+6. Przepisy ust. 1—5 stosuje się do wyemitowadalej Ńświadectwem”. Na żądanie posiadacza rachunku w treści wystawianego świadectwa może zostać wskazana część lub wszystkie papiery wartościowe zapisane na tym rachunku.
 
-2. Âwiadectwo potwierdza legitymacj´ do realizacji uprawnieƒ wynikajàcych z papierów wartoÊciowych wskazanych w jego treÊci, które nie sà lub nie mogà byç realizowane wy∏àcznie na podstawie zapisów na rachunku papierów wartoÊciowych.
+2. Âwiadectwo potwierdza legitymację do realizacji uprawnień wynikających z papierów wartościowych wskazanych w jego treści, które nie są lub nie mogą być realizowane wyłącznie na podstawie zapisów na rachunku papierów wartościowych.
 
-3. Warunkiem uczestnictwa wwalnym zgromadzeniu spó∏ki publicznej z siedzibà na terytorium Rzeczypospolitej Polskiej jest z∏o˝enie wjej siedzibie, najpóêniej na tydzieƒ przed terminem walnego zgromadzenia, Êwiadectwa wystawionego celem potwierdzenia uprawnieƒ posiadacza akcji zdematerializowanych do uczestnictwa w tym zgromadzeniu. W zakresie tym art. 406 § 2 ustawy z dnia 15 wrzeÊnia 2000 r. Kodeks spó∏ek handlowych nie stosuje si´.
+3. Warunkiem uczestnictwa wwalnym zgromadzeniu spółki publicznej z siedzibą na terytorium Rzeczypospolitej Polskiej jest złożenie wjej siedzibie, najpóêniej na tydzień przed terminem walnego zgromadzenia, świadectwa wystawionego celem potwierdzenia uprawnień posiadacza akcji zdematerializowanych do uczestnictwa w tym zgromadzeniu. W zakresie tym art. 406 § 2 ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych nie stosuje się.
 
 **Art. 10.**
 
 1. Âwiadectwo zawiera:
 
-- **1)** firm´ (nazw´), siedzib´ i adres wystawiajàcego oraz numer Êwiadectwa;
-- **2)** liczb´ papierów wartoÊciowych;
-- **3)** rodzaj i kod papieru wartoÊciowego;
-- **4)** firm´ (nazw´), siedzib´ i adres emitenta;
-- **5)** wartoÊç nominalnà papieru wartoÊciowego;
-- **6)** imi´ i nazwisko lub nazw´ (firm´) i siedzib´ oraz adres posiadacza rachunku papierów wartoÊciowych;
-- **7)** informacj´ o istniejàcych ograniczeniach przenoszenia papierów wartoÊciowych lub o ustanowionych na nich obcià˝eniach;
-- **8)** dat´ i miejsce wystawienia Êwiadectwa;
-- **9)** cel wystawienia Êwiadectwa;
-- **10)** termin wa˝noÊci Êwiadectwa;
-- **11)** w przypadku gdy poprzednio wystawione Êwianych poza terytorium Rzeczypospolitej Polskiej papie- dectwo, dotyczàce tych samych papierów wartorów wartoÊciowych b´dàcych przedmiotem oferty pu- Êciowych, by∏o niewa˝ne albo zosta∏o zniszczone blicznej lub dopuszczonych do obrotu na rynku regu- lub utracone przed up∏ywem terminu swojej wa˝lowanym albo wprowadzonych do alternatywnego noÊci wskazanie, ˝e jest to nowy dokument systemu obrotu, pod warunkiem zarejestrowania tych Êwiadectwa; papierów wartoÊciowych w depozycie papierów wartoÊciowych. 12) podpis osoby upowa˝nionej do wystawienia wimieniu wystawiajàcego Êwiadectwa, opatrzony
+- **1)** firmę (nazwę), siedzibę i adres wystawiającego oraz numer świadectwa;
+- **2)** liczbę papierów wartościowych;
+- **3)** rodzaj i kod papieru wartościowego;
+- **4)** firmę (nazwę), siedzibę i adres emitenta;
+- **5)** wartość nominalną papieru wartościowego;
+- **6)** imię i nazwisko lub nazwę (firmę) i siedzibę oraz adres posiadacza rachunku papierów wartościowych;
+- **7)** informację o istniejących ograniczeniach przenoszenia papierów wartościowych lub o ustanowionych na nich obciążeniach;
+- **8)** datę i miejsce wystawienia świadectwa;
+- **9)** cel wystawienia świadectwa;
+- **10)** termin ważności świadectwa;
+- **11)** w przypadku gdy poprzednio wystawione świanych poza terytorium Rzeczypospolitej Polskiej papie- dectwo, dotyczące tych samych papierów wartorów wartościowych będących przedmiotem oferty pu- ściowych, było nieważne albo zostało zniszczone blicznej lub dopuszczonych do obrotu na rynku regu- lub utracone przed upływem terminu swojej ważlowanym albo wprowadzonych do alternatywnego ności wskazanie, że jest to nowy dokument systemu obrotu, pod warunkiem zarejestrowania tych świadectwa; papierów wartościowych w depozycie papierów wartościowych. 12) podpis osoby upoważnionej do wystawienia wimieniu wystawiającego świadectwa, opatrzony
 
-**Art. 8.** Przepisy art. 7 stosuje si´ odpowiednio do piecz´cià wystawiajàcego. nieb´dàcych papierami wartoÊciowymi maklerskich instrumentów finansowych b´dàcych przedmiotem 2. Wodniesieniu do papierów wartoÊciowych emiobrotu zorganizowanego.
+**Art. 8.** Przepisy art. 7 stosuje się odpowiednio do pieczęcią wystawiającego. niebędących papierami wartościowymi maklerskich instrumentów finansowych będących przedmiotem 2. Wodniesieniu do papierów wartościowych emiobrotu zorganizowanego.
 
 **Art. 9.**
 
-1. Na ˝àdanie posiadacza rachunku papierów wartoÊciowych podmiot prowadzàcy ten rachunek, zwany „wystawiajàcym”, wystawia mu, na piÊmie, oddzielnie dla ka˝dego rodzaju papierów wartoÊciowych, imienne Êwiadectwo depozytowe, zwane tenta z siedzibà na terytorium Rzeczypospolitej Polskiej, zarejestrowanych na koncie depozytowym prowadzonym przez Krajowy Depozyt dla osoby prawnej lub innej jednostki organizacyjnej wykonujàcej poza terytorium Rzeczypospolitej Polskiej zadania w zakresie centralnej rejestracji papierów wartoÊciowych lub rozliczania transakcji zawieranych w obrocie papierami wartoÊciowymi, b´dàcej uczestnikiem Krajowego Depozytu zgodnie z art. 51 ust. 3 i 4, za Êwiadectwo uwa˝a si´ równie˝ dokument o treÊci wskazanej w ust.1, wystawiony przez podmiot wskazany Krajowemu Depozytowi przez tego uczestnika.
+1. Na żądanie posiadacza rachunku papierów wartościowych podmiot prowadzący ten rachunek, zwany Ńwystawiającym”, wystawia mu, na piśmie, oddzielnie dla każdego rodzaju papierów wartościowych, imienne świadectwo depozytowe, zwane tenta z siedzibą na terytorium Rzeczypospolitej Polskiej, zarejestrowanych na koncie depozytowym prowadzonym przez Krajowy Depozyt dla osoby prawnej lub innej jednostki organizacyjnej wykonującej poza terytorium Rzeczypospolitej Polskiej zadania w zakresie centralnej rejestracji papierów wartościowych lub rozliczania transakcji zawieranych w obrocie papierami wartościowymi, będącej uczestnikiem Krajowego Depozytu zgodnie z art. 51 ust. 3 i 4, za świadectwo uważa się również dokument o treści wskazanej w ust.1, wystawiony przez podmiot wskazany Krajowemu Depozytowi przez tego uczestnika.
 
-3. Dokument Êwiadectwa sporzàdzony lub wystawiony z naruszeniem ust. 1 pkt 1—3, 6, 8, 10, 12 lub ust. 2 jest niewa˝ny.
+3. Dokument świadectwa sporządzony lub wystawiony z naruszeniem ust. 1 pkt 1—3, 6, 8, 10, 12 lub ust. 2 jest nieważny.
 
 **Art. 11.**
 
-1. Od chwili wystawienia Êwiadectwa, papiery wartoÊciowe w liczbie wskazanej w treÊci Êwiadectwa nie mogà byç przedmiotem obrotu do chwili utraty jego wa˝noÊci albo zwrotu Êwiadectwa wystawiajàcemu przed up∏ywem terminu jego wa˝noÊci. Na okres ten wystawiajàcy dokonuje blokady odpowiedniej liczby papierów wartoÊciowych na tym rachunku.
+1. Od chwili wystawienia świadectwa, papiery wartościowe w liczbie wskazanej w treści świadectwa nie mogą być przedmiotem obrotu do chwili utraty jego ważności albo zwrotu świadectwa wystawiającemu przed upływem terminu jego ważności. Na okres ten wystawiający dokonuje blokady odpowiedniej liczby papierów wartościowych na tym rachunku.
 
-2. Wokresie, októrym mowa wust. 1, te same papiery wartoÊciowe mogà byç wskazane w treÊci kilku Êwiadectw, pod warunkiem ˝e cel wystawienia ka˝dego ze Êwiadectw jest odmienny. W takim przypadku w kolejnych Êwiadectwach zamieszcza si´ równie˝, zgodnie z art. 10 ust. 1 pkt 7, informacj´ o dokonaniu blokady papierów wartoÊciowych w zwiàzku z wczeÊniejszym wystawieniem innych Êwiadectw.
+2. Wokresie, októrym mowa wust. 1, te same papiery wartościowe mogą być wskazane w treści kilku świadectw, pod warunkiem że cel wystawienia każdego ze świadectw jest odmienny. W takim przypadku w kolejnych świadectwach zamieszcza się również, zgodnie z art. 10 ust. 1 pkt 7, informację o dokonaniu blokady papierów wartościowych w związku z wcześniejszym wystawieniem innych świadectw.
 
 **Art. 12.**
 
-1. Utrat´ wa˝noÊci Êwiadectwa powoduje:
+1. Utratę ważności świadectwa powoduje:
 
-- **1)** up∏yw terminu jego wa˝noÊci;
-- **2)** przeniesienie papierów wartoÊciowych obcià˝onych zastawem wcelu zaspokojenia zastawnika wprzypadku Êwiadectwa dotyczàcego tych papierów wartoÊciowych, wystawionego zastawcy;
-- **3)** przeniesienie papierów wartoÊciowych w trybie post´powania egzekucyjnego na podstawie odr´bnych przepisów w przypadku Êwiadectwa dotyczàcego papierów wartoÊciowych obj´tych egzekucjà, wystawionego d∏u˝nikowi;
-- **4)** zniszczenie lub utrata Êwiadectwa.
+- **1)** upływ terminu jego ważności;
+- **2)** przeniesienie papierów wartościowych obciążonych zastawem wcelu zaspokojenia zastawnika wprzypadku świadectwa dotyczącego tych papierów wartościowych, wystawionego zastawcy;
+- **3)** przeniesienie papierów wartościowych w trybie postępowania egzekucyjnego na podstawie odrębnych przepisów w przypadku świadectwa dotyczącego papierów wartościowych objętych egzekucją, wystawionego dłużnikowi;
+- **4)** zniszczenie lub utrata świadectwa.
 
-2. Utrata wa˝noÊci Êwiadectwa lub zwrot Êwiadectwa wystawiajàcemu, dokonany przed up∏ywem terminu jego wa˝noÊci, wy∏àcza mo˝liwoÊç realizacji, przy jego u˝yciu, uprawnienia wynikajàcego z celu wystawienia tego Êwiadectwa.
+2. Utrata ważności świadectwa lub zwrot świadectwa wystawiającemu, dokonany przed upływem terminu jego ważności, wyłącza możliwość realizacji, przy jego użyciu, uprawnienia wynikającego z celu wystawienia tego świadectwa.
 
-3. O utracie wa˝noÊci Êwiadectwa, z przyczyny okreÊlonej w ust. 1 pkt 2 lub 3, wystawionego w celu uczestnictwa w walnym zgromadzeniu spó∏ki publicznej wystawiajàcy niezw∏ocznie zawiadamia t´ spó∏k´.
+3. O utracie ważności świadectwa, z przyczyny określonej w ust. 1 pkt 2 lub 3, wystawionego w celu uczestnictwa w walnym zgromadzeniu spółki publicznej wystawiający niezwłocznie zawiadamia tę spółkę.
 
-4. W przypadku utraty wa˝noÊci Êwiadectwa zprzyczyny okreÊlonej wust. 1 pkt 4, wystawiajàcy, na ˝àdanie posiadacza rachunku zg∏oszone przed up∏ywem terminu wa˝noÊci tego Êwiadectwa, wystawia nowy dokument Êwiadectwa, po z∏o˝eniu przez posiadacza rachunku pisemnego oÊwiadczenia o fakcie posiadania Êwiadectwa oraz okolicznoÊci jego zniszczenia lub utraty.
+4. W przypadku utraty ważności świadectwa zprzyczyny określonej wust. 1 pkt 4, wystawiający, na żądanie posiadacza rachunku zgłoszone przed upływem terminu ważności tego świadectwa, wystawia nowy dokument świadectwa, po złożeniu przez posiadacza rachunku pisemnego oświadczenia o fakcie posiadania świadectwa oraz okoliczności jego zniszczenia lub utraty.
 
-**Art. 13.** toÊciowymi lub innymi instrumentami finansowymi na podstawie ustawy oraz innych czynnoÊci wykonywanych w ramach dzia∏alnoÊci podmiotów nadzorowanych w zakresie regulowanym ustawà, mogà byç sk∏adane w postaci elektronicznej, je˝eli strony w umowie tak postanowi∏y. 2. Dokumenty zwiàzane z czynnoÊciami, o których mowa w ust. 1, mogà byç sporzàdzane na noÊnikach elektronicznych, je˝eli dokumenty te b´dà w sposób nale˝yty utworzone, utrwalone, przekazane, przechowywane i zabezpieczone. 3. OÊwiadczenie woli z∏o˝one w postaci elektronicznej, zawarte w dokumencie zwiàzanym z czynnoÊciami, o których mowa w ust. 2, spe∏nia wymagania formy pisemnej tak˝e wtedy, gdy forma pisemna zosta∏a zastrze˝ona pod rygorem niewa˝noÊci. 4. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, w drodze rozporzàdzenia, sposób tworzenia, utrwalania, przekazywania, przechowywania i zabezpieczania dokumentów zwiàzanych z czynnoÊciami, o których mowa w ust. 1, z uwzgl´dnieniem zapewnienia bezpieczeƒstwa obrotu oraz ochrony interesów inwestorów. DZIA¸ II Wtórny obrót instrumentami finansowymi Rozdzia∏ 1 Przepisy ogólne
+**Art. 13.** tościowymi lub innymi instrumentami finansowymi na podstawie ustawy oraz innych czynności wykonywanych w ramach działalności podmiotów nadzorowanych w zakresie regulowanym ustawą, mogą być składane w postaci elektronicznej, jeżeli strony w umowie tak postanowiły. 2. Dokumenty związane z czynnościami, o których mowa w ust. 1, mogą być sporządzane na nośnikach elektronicznych, jeżeli dokumenty te będą w sposób należyty utworzone, utrwalone, przekazane, przechowywane i zabezpieczone. 3. Oświadczenie woli złożone w postaci elektronicznej, zawarte w dokumencie związanym z czynnościami, o których mowa w ust. 2, spełnia wymagania formy pisemnej także wtedy, gdy forma pisemna została zastrzeżona pod rygorem nieważności. 4. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, sposób tworzenia, utrwalania, przekazywania, przechowywania i zabezpieczania dokumentów związanych z czynnościami, o których mowa w ust. 1, z uwzględnieniem zapewnienia bezpieczeństwa obrotu oraz ochrony interesów inwestorów. DZIAĘ II Wtórny obrót instrumentami finansowymi
 
-**Art. 14.** Rynkiem regulowanym, w rozumieniu ustawy, jest dzia∏ajàcy w sposób sta∏y system obrotu instrumentami finansowymi dopuszczonymi do tego obrotu, zapewniajàcy inwestorom powszechny i równy dost´p do informacji rynkowej w tym samym czasie przy kojarzeniu ofert nabycia i zbycia instrumentów finansowych, oraz jednakowe warunki nabywania izbywania tych instrumentów, zorganizowany ipodlegajàcy nadzorowi w∏aÊciwego organu na zasadach okreÊlonych wprzepisach ustawy, jak równie˝ uznany 1. OÊwiadczenia woli w zwiàzku z dokonywaniem czynnoÊci dotyczàcych obrotu papierami warprzez paƒstwo cz∏onkowskie za spe∏niajàcy te warunki, i wskazany Komisji Europejskiej jako rynek regulowany.
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 14.** Rynkiem regulowanym, w rozumieniu ustawy, jest działający w sposób stały system obrotu instrumentami finansowymi dopuszczonymi do tego obrotu, zapewniający inwestorom powszechny i równy dostęp do informacji rynkowej w tym samym czasie przy kojarzeniu ofert nabycia i zbycia instrumentów finansowych, oraz jednakowe warunki nabywania izbywania tych instrumentów, zorganizowany ipodlegający nadzorowi właściwego organu na zasadach określonych wprzepisach ustawy, jak również uznany 1. Oświadczenia woli w związku z dokonywaniem czynności dotyczących obrotu papierami warprzez państwo członkowskie za spełniający te warunki, i wskazany Komisji Europejskiej jako rynek regulowany.
 
 **Art. 15.**
 
 1. Rynek regulowany na terytorium Rzeczypospolitej Polskiej obejmuje:
 
-- **1)** rynek gie∏dowy;
-- **2)** rynek pozagie∏dowy;
+- **1)** rynek giełdowy;
+- **2)** rynek pozagiełdowy;
 - **3)** towarowy rynek instrumentów finansowych.
 
-2. Rynek regulowany okreÊlony w:
+2. Rynek regulowany określony w:
 
-- **1)** ust. 1 pkt 1 jest organizowany przez spó∏k´ prowadzàcà gie∏d´;
-- **2)** ust. 1 pkt 2 jest organizowany przez spó∏k´ prowadzàcà rynek pozagie∏dowy;
-- **3)** ust. 1 pkt 3 jest organizowany przez gie∏d´ towarowà w rozumieniu ustawy z dnia 26 paêdziernika 2000 r. o gie∏dach towarowych (Dz. U. z 2005 r. 121, poz. 1019 i 183, poz. 1537) i obejmuje wy∏àcznie obrót instrumentami finansowymi, októrych mowa wart. 2 ust. 1 pkt 2 lit. cid.
+- **1)** ust. 1 pkt 1 jest organizowany przez spółkę prowadzącą giełdę;
+- **2)** ust. 1 pkt 2 jest organizowany przez spółkę prowadzącą rynek pozagiełdowy;
+- **3)** ust. 1 pkt 3 jest organizowany przez giełdę towarową w rozumieniu ustawy z dnia 26 paêdziernika 2000 r. o giełdach towarowych (Dz. U. z 2005 r. 121, poz. 1019 i 183, poz. 1537) i obejmuje wyłącznie obrót instrumentami finansowymi, októrych mowa wart. 2 ust. 1 pkt 2 lit. cid.
 
-3. Do towarowego rynku instrumentów finansowych oraz do gie∏dy towarowej prowadzàcej towarowy rynek instrumentów finansowych stosuje si´ odpowiednio przepisy art. 16, art. 18, art. 29 ust. 3 i art. 32. Do regulaminu gie∏dy towarowej prowadzàcej towarowy rynek instrumentów finansowych stosuje si´ przepis art. 28 ust. 2 pkt 15.
+3. Do towarowego rynku instrumentów finansowych oraz do giełdy towarowej prowadzącej towarowy rynek instrumentów finansowych stosuje się odpowiednio przepisy art. 16, art. 18, art. 29 ust. 3 i art. 32. Do regulaminu giełdy towarowej prowadzącej towarowy rynek instrumentów finansowych stosuje się przepis art. 28 ust. 2 pkt 15.
 
 **Art. 16.**
 
-1. Spó∏ka prowadzàca gie∏d´ lub spó∏ka prowadzàca rynek pozagie∏dowy mo˝e organizowaç rynki wyodr´bnione pod wzgl´dem rodzaju papierów wartoÊciowych lub innych instrumentów finansowych, jak równie˝ rodzaju ich emitentów.
+1. Spółka prowadząca giełdę lub spółka prowadząca rynek pozagiełdowy może organizować rynki wyodrębnione pod względem rodzaju papierów wartościowych lub innych instrumentów finansowych, jak również rodzaju ich emitentów.
 
-2. Spó∏ka prowadzàca gie∏d´ mo˝e, w ramach organizowania rynku gie∏dowego, wyodr´bniç rynek oficjalnych notowaƒ gie∏dowych, zwany dalej „rynkiem
+2. Spółka prowadząca giełdę może, w ramach organizowania rynku giełdowego, wyodrębnić rynek oficjalnych notowań giełdowych, zwany dalej Ńrynkiem
 
 - **2)** bezpieczny i sprawny przebieg transakcji;
-- **3)** upowszechnianie jednolitych informacji o kursach i obrotach instrumentami finansowymi, które sà przedmiotem obrotu na danym rynku organizowanym przez t´ spó∏k´.
+- **3)** upowszechnianie jednolitych informacji o kursach i obrotach instrumentami finansowymi, które są przedmiotem obrotu na danym rynku organizowanym przez tę spółkę.
 
-2. Je˝eli instrumenty finansowe b´dàce przedmiotem obrotu na rynku regulowanym sà jednoczeÊnie przedmiotem transakcji zawieranych w alternatywnym systemie obrotu lub przedmiotem transakcji bezpoÊrednich, o których mowa w art. 74 ust. 1, spó∏ka prowadzàca rynek regulowany dla danych instrumentów finansowych mo˝e upowszechniaç informacje, októrych mowa wust. 1 pkt 3, wzakresie dotyczàcym tych transakcji, na podstawie informacji otrzymywanych od firmy inwestycyjnej organizujàcej alternatywny system obrotu lub zawierajàcej transakcje bezpoÊrednie.
+2. Jeżeli instrumenty finansowe będące przedmiotem obrotu na rynku regulowanym są jednocześnie przedmiotem transakcji zawieranych w alternatywnym systemie obrotu lub przedmiotem transakcji bezpośrednich, o których mowa w art. 74 ust. 1, spółka prowadząca rynek regulowany dla danych instrumentów finansowych może upowszechniać informacje, októrych mowa wust. 1 pkt 3, wzakresie dotyczącym tych transakcji, na podstawie informacji otrzymywanych od firmy inwestycyjnej organizującej alternatywny system obrotu lub zawierającej transakcje bezpośrednie.
 
-3. Upowszechnianie informacji, o których mowa w ust. 2, nast´puje w trybie okreÊlonym w przepisach wydanych na podstawie art. 17 ust. 1 pkt 1. oficjalnych notowaƒ”, spe∏niajàcy dodatkowe, w sto- Art. 19. 1. Je˝eli ustawa nie stanowi inaczej: sunku do minimalnych wymogów okreÊlonych dla rynku regulowanego, wymogi dotyczàce emitentów 1) papiery wartoÊciowe obj´te zatwierdzonym propapierów wartoÊciowych oraz papierów wartoÊcio- spektem emisyjnym mogà byç przedmiotem obwych b´dàcych przedmiotem obrotu na tym rynku. rotu na rynku regulowanym wy∏àcznie po ich dopuszczeniu do tego obrotu;
+3. Upowszechnianie informacji, o których mowa w ust. 2, następuje w trybie określonym w przepisach wydanych na podstawie art. 17 ust. 1 pkt 1. oficjalnych notowań”, spełniający dodatkowe, w sto- Art. 19. 1. Jeżeli ustawa nie stanowi inaczej: sunku do minimalnych wymogów określonych dla rynku regulowanego, wymogi dotyczące emitentów 1) papiery wartościowe objęte zatwierdzonym propapierów wartościowych oraz papierów wartościo- spektem emisyjnym mogą być przedmiotem obwych będących przedmiotem obrotu na tym rynku. rotu na rynku regulowanym wyłącznie po ich dopuszczeniu do tego obrotu;
 
 **Art. 17.**
 
-1. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, w drodze rozporzàdzenia: 2) dokonywanie na terytorium Rzeczypospolitej Polskiej oferty publicznej albo obrotu papierami war1) warunki, jakie musi spe∏niaç rynek regulowany, toÊciowymi lub innymi instrumentami finansowyw tym warunki upowszechniania informacji mi na rynku regulowanym wymaga poÊrednictwa o transakcjach i obrotach na tych rynkach, firmy inwestycyjnej;
+1. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia: 2) dokonywanie na terytorium Rzeczypospolitej Polskiej oferty publicznej albo obrotu papierami war1) warunki, jakie musi spełniać rynek regulowany, tościowymi lub innymi instrumentami finansowyw tym warunki upowszechniania informacji mi na rynku regulowanym wymaga pośrednictwa o transakcjach i obrotach na tych rynkach, firmy inwestycyjnej;
 
-- **2)** szczegó∏owe warunki, jakie musi spe∏niaç rynek 3) proponowanie w sposób, o którym mowa w art. 3 oficjalnych notowaƒ oraz emitenci papierów war- ust. 1 ustawy o ofercie publicznej, nabycia instrutoÊciowych dopuszczonych do obrotu na tym ryn- mentów finansowych, o których mowa w art. 2 ku ust. 1 pkt 2 lit. c i d, inkorporujàcych uprawnienie przy uwzgl´dnieniu koniecznoÊci zapewnienia do nabycia papierów wartoÊciowych okreÊlonych bezpieczeƒstwa obrotu oraz ochrony interesów in- wart. 3 pkt 1 lit. a, mo˝e byç dokonywane wy∏àczwestorów uczestniczàcych w obrocie na tym rynku. nie na rynku regulowanym;
+- **2)** szczegółowe warunki, jakie musi spełniać rynek 3) proponowanie w sposób, o którym mowa w art. 3 oficjalnych notowań oraz emitenci papierów war- ust. 1 ustawy o ofercie publicznej, nabycia instrutościowych dopuszczonych do obrotu na tym ryn- mentów finansowych, o których mowa w art. 2 ku ust. 1 pkt 2 lit. c i d, inkorporujących uprawnienie przy uwzględnieniu konieczności zapewnienia do nabycia papierów wartościowych określonych bezpieczeństwa obrotu oraz ochrony interesów in- wart. 3 pkt 1 lit. a, może być dokonywane wyłączwestorów uczestniczących w obrocie na tym rynku. nie na rynku regulowanym;
 - **4)** instrumenty finansowe, o których mowa w art. 2
 
-2. Minister w∏aÊciwy do spraw instytucji finanso- ust. 1 pkt 2 lit. cid, inkorporujàce uprawnienie do wych uznaje, w drodze rozporzàdzenia, rynki regulowane.
+2. Minister właściwy do spraw instytucji finanso- ust. 1 pkt 2 lit. cid, inkorporujące uprawnienie do wych uznaje, w drodze rozporządzenia, rynki regulowane.
 
-3. Komisja przekazuje Komisji Europejskiej oraz innym paƒstwom cz∏onkowskim:
+3. Komisja przekazuje Komisji Europejskiej oraz innym państwom członkowskim:
 
-- **1)** rozporzàdzenie, o którym mowa w ust. 1 pkt 1, oraz informacje oka˝dej zmianie treÊci tego rozporzàdzenia;
+- **1)** rozporządzenie, o którym mowa w ust. 1 pkt 1, oraz informacje okażdej zmianie treści tego rozporządzenia;
 - **2)** regulaminy, o których mowa w art. 28 ust. 1 i art.37 ust. 1.
 
 **Art. 18.**
 
-1. Spó∏ka prowadzàca gie∏d´ oraz spó∏ka prowadzàca rynek pozagie∏dowy zapewnia:
+1. Spółka prowadząca giełdę oraz spółka prowadząca rynek pozagiełdowy zapewnia:
 
-- **1)** koncentracj´ poda˝y i popytu na instrumenty finansowe, b´dàce przedmiotem obrotu na danym rynku, w celu kszta∏towania ich powszechnego kursu; nabycia papierów wartoÊciowych okreÊlonych wart. 3 pkt 1 lit. a, mogà byç przedmiotem proponowania nabycia w sposób, o którym mowa wart. 3 ust. 1 ustawy oofercie publicznej, wy∏àcznie w przypadku gdy te papiery wartoÊciowe sà dopuszczone do obrotu na rynku regulowanym.
+- **1)** koncentrację podaży i popytu na instrumenty finansowe, będące przedmiotem obrotu na danym rynku, w celu kształtowania ich powszechnego kursu; nabycia papierów wartościowych określonych wart. 3 pkt 1 lit. a, mogą być przedmiotem proponowania nabycia w sposób, o którym mowa wart. 3 ust. 1 ustawy oofercie publicznej, wyłącznie w przypadku gdy te papiery wartościowe są dopuszczone do obrotu na rynku regulowanym.
 
-2. Transakcja, której przedmiotem jest nabycie lub zbycie nieb´dàcych papierami wartoÊciowymi instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym, lub która prowadzi do powstania takich instrumentów, nie stanowi gry ani zak∏adu wrozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, ani te˝ gry losowej lub zak∏adu wzajemnego w rozumieniu przepisów o grach losowych i zak∏adach wzajemnych, nawet je˝eli wed∏ug wyraênej lub dorozumianej woli stron rzeczywiste spe∏nienie wzajemnych Êwiadczeƒ jest wy∏àczone, a tylko jedna ze stron jest obowiàzana zap∏aciç ró˝nic´ mi´dzy umówionà cenà sprzeda˝y a cenà rynkowà w czasie wykonania umowy.
+2. Transakcja, której przedmiotem jest nabycie lub zbycie niebędących papierami wartościowymi instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym, lub która prowadzi do powstania takich instrumentów, nie stanowi gry ani zakładu wrozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, ani też gry losowej lub zakładu wzajemnego w rozumieniu przepisów o grach losowych i zakładach wzajemnych, nawet jeżeli według wyraênej lub dorozumianej woli stron rzeczywiste spełnienie wzajemnych świadczeń jest wyłączone, a tylko jedna ze stron jest obowiązana zapłacić różnicę między umówioną ceną sprzedaży a ceną rynkową w czasie wykonania umowy.
 
-3. Po˝yczanie maklerskich instrumentów finansowych z udzia∏em firm inwestycyjnych lub banków powierniczych odbywa si´ zgodnie z przepisami wydanymi na podstawie art. 94 ust. 1 pkt 3. Do po˝yczania maklerskich instrumentów finansowych z udzia∏em firm inwestycyjnych lub banków powierniczych nie stosuje si´ przepisów Kodeksu cywilnego o umowie po˝yczki.
+3. Pożyczanie maklerskich instrumentów finansowych z udziałem firm inwestycyjnych lub banków powierniczych odbywa się zgodnie z przepisami wydanymi na podstawie art. 94 ust. 1 pkt 3. Do pożyczania maklerskich instrumentów finansowych z udziałem firm inwestycyjnych lub banków powierniczych nie stosuje się przepisów Kodeksu cywilnego o umowie pożyczki.
 
 **Art. 20.**
 
-1. W przypadku gdy wymaga tego bezpieczeƒstwo obrotu na rynku regulowanym lub jest zagro˝ony interes inwestorów, spó∏ka prowadzàca rynek regulowany, na ˝àdanie Komisji, wstrzymuje dopuszczenie do obrotu na tym rynku lub rozpocz´cie notowaƒ wskazanymi przez Komisj´ papierami wartoÊciowymi lub innymi instrumentami finansowymi, na okres nie d∏u˝szy ni˝ 10 dni.
+1. W przypadku gdy wymaga tego bezpieczeństwo obrotu na rynku regulowanym lub jest zagrożony interes inwestorów, spółka prowadząca rynek regulowany, na żądanie Komisji, wstrzymuje dopuszczenie do obrotu na tym rynku lub rozpoczęcie notowań wskazanymi przez Komisję papierami wartościowymi lub innymi instrumentami finansowymi, na okres nie dłuższy niż 10 dni.
 
-2. W przypadku gdy obrót okreÊlonymi papierami wartoÊciowymi lub innymi instrumentami finansowymi jest dokonywany w okolicznoÊciach wskazujàcych na mo˝liwoÊç zagro˝enia prawid∏owego funkcjonowania rynku regulowanego lub bezpieczeƒstwa obrotu na tym rynku, albo naruszenia interesów inwestorów, na ˝àdanie Komisji, spó∏ka prowadzàca rynek regulowany zawiesza obrót tymi papierami lub instrumentami, na okres nie d∏u˝szy ni˝ miesiàc.
+2. W przypadku gdy obrót określonymi papierami wartościowymi lub innymi instrumentami finansowymi jest dokonywany w okolicznościach wskazujących na możliwość zagrożenia prawidłowego funkcjonowania rynku regulowanego lub bezpieczeństwa obrotu na tym rynku, albo naruszenia interesów inwestorów, na żądanie Komisji, spółka prowadząca rynek regulowany zawiesza obrót tymi papierami lub instrumentami, na okres nie dłuższy niż miesiąc.
 
-3. Na ˝àdanie Komisji, spó∏ka prowadzàca rynek regulowany wyklucza z obrotu wskazane przez Komisj´ papiery wartoÊciowe lub inne instrumenty finansowe, w przypadku gdy obrót nimi zagra˝a w sposób istotny prawid∏owemu funkcjonowaniu rynku regulowanego lub bezpieczeƒstwu obrotu na tym rynku, albo powoduje naruszenie interesów inwestorów.
+3. Na żądanie Komisji, spółka prowadząca rynek regulowany wyklucza z obrotu wskazane przez Komisję papiery wartościowe lub inne instrumenty finansowe, w przypadku gdy obrót nimi zagraża w sposób istotny prawidłowemu funkcjonowaniu rynku regulowanego lub bezpieczeństwu obrotu na tym rynku, albo powoduje naruszenie interesów inwestorów.
 
-4. ˚àdanie, o którym mowa w ust. 1—3, powinno wskazywaç szczegó∏owe przyczyny, które je uzasadniajà.
+4. ˚ądanie, o którym mowa w ust. 1—3, powinno wskazywać szczegółowe przyczyny, które je uzasadniają.
 
-5. Spó∏ka prowadzàca rynek regulowany przekazuje niezw∏ocznie do publicznej wiadomoÊci, za poÊrednictwem agencji informacyjnej, o której mowa w art. 58 ust. 1 ustawy o ofercie publicznej, informacj´ o wstrzymaniu, zawieszeniu lub wykluczeniu z obrotu okreÊlonych papierów wartoÊciowych lub instrumentów finansowych nieb´dàcych papierami wartoÊciowymi. Przepisy art. 19 ustawy oofercie publicznej stosuje si´ odpowiednio.
+5. Spółka prowadząca rynek regulowany przekazuje niezwłocznie do publicznej wiadomości, za pośrednictwem agencji informacyjnej, o której mowa w art. 58 ust. 1 ustawy o ofercie publicznej, informację o wstrzymaniu, zawieszeniu lub wykluczeniu z obrotu określonych papierów wartościowych lub instrumentów finansowych niebędących papierami wartościowymi. Przepisy art. 19 ustawy oofercie publicznej stosuje się odpowiednio.
 
-6. W przypadku gdy dane instrumenty finansowe sà równie˝ przedmiotem alternatywnego systemu obrotu, organizator tego systemu po powzi´ciu informacji opublikowanej zgodnie z ust. 5 jest obowiàzany podjàç dzia∏ania majàce na celu wype∏nienie wodnieRozdzia∏ 2 Rynek regulowany sieniu do tych instrumentów finansowych ˝àdania Komisji, o którym mowa w ust. 1, 2 lub 3.
+6. W przypadku gdy dane instrumenty finansowe są również przedmiotem alternatywnego systemu obrotu, organizator tego systemu po powzięciu informacji opublikowanej zgodnie z ust. 5 jest obowiązany podjąć działania mające na celu wypełnienie wodnieRozdział 2 Rynek regulowany sieniu do tych instrumentów finansowych żądania Komisji, o którym mowa w ust. 1, 2 lub 3.
 
-7. Spó∏ka prowadzàca rynek regulowany nie ponosi op∏at za czynnoÊci agencji informacyjnej wynikajàce z przekazywania informacji, o których mowa w ust. 5.
+7. Spółka prowadząca rynek regulowany nie ponosi opłat za czynności agencji informacyjnej wynikające z przekazywania informacji, o których mowa w ust. 5.
 
 **Art. 21.**
 
-1. Gie∏da mo˝e byç prowadzona wy∏àcznie przez spó∏k´ akcyjnà.
+1. Giełda może być prowadzona wyłącznie przez spółkę akcyjną.
 
-2. Przedmiotem dzia∏alnoÊci spó∏ki prowadzàcej gie∏d´ mo˝e byç wy∏àcznie prowadzenie gie∏dy lub innej dzia∏alnoÊci w zakresie organizowania obrotu instrumentami finansowymi oraz dzia∏alnoÊci zwiàzanej z tym obrotem, z zastrze˝eniem ust. 3.
+2. Przedmiotem działalności spółki prowadzącej giełdę może być wyłącznie prowadzenie giełdy lub innej działalności w zakresie organizowania obrotu instrumentami finansowymi oraz działalności związanej z tym obrotem, z zastrzeżeniem ust. 3.
 
-3. Spó∏ka prowadzàca gie∏d´ mo˝e prowadziç dzia∏alnoÊç w zakresie edukacji, promocji i informacji zwiàzanej z funkcjonowaniem rynku kapita∏owego.
+3. Spółka prowadząca giełdę może prowadzić działalność w zakresie edukacji, promocji i informacji związanej z funkcjonowaniem rynku kapitałowego.
 
-4. Spó∏ka prowadzàca gie∏d´ mo˝e organizowaç alternatywny system obrotu po uprzednim poinformowaniu Komisji i zatwierdzeniu przez Komisj´ regulaminu tego systemu.
+4. Spółka prowadząca giełdę może organizować alternatywny system obrotu po uprzednim poinformowaniu Komisji i zatwierdzeniu przez Komisję regulaminu tego systemu.
 
-5. Spó∏ka prowadzàca gie∏d´ ma obowiàzek i wy∏àczne prawo zamieszczania w firmie spó∏ki wyrazów „gie∏da papierów wartoÊciowych”.
+5. Spółka prowadząca giełdę ma obowiązek i wyłączne prawo zamieszczania w firmie spółki wyrazów Ńgiełda papierów wartościowych”.
 
-6. Do regulaminu alternatywnego systemu obrotu organizowanego przez spó∏k´ prowadzàcà gie∏d´ stosuje si´ odpowiednio przepisy art. 78 ust. 1, 2, 5 i 6.
+6. Do regulaminu alternatywnego systemu obrotu organizowanego przez spółkę prowadzącą giełdę stosuje się odpowiednio przepisy art. 78 ust. 1, 2, 5 i 6.
 
-7. Kapita∏ zak∏adowy spó∏ki prowadzàcej gie∏d´ wynosi co najmniej 40 000 000 z∏.
+7. Kapitał zakładowy spółki prowadzącej giełdę wynosi co najmniej 40 000 000 zł.
 
 **Art. 22.**
 
-1. Akcje spó∏ki prowadzàcej gie∏d´ mogà byç wy∏àcznie imienne.
+1. Akcje spółki prowadzącej giełdę mogą być wyłącznie imienne.
 
-2. Akcje spó∏ki prowadzàcej gie∏d´ mogà nabywaç wy∏àcznie Skarb Paƒstwa, firmy inwestycyjne, banki, towarzystwa funduszy inwestycyjnych, zak∏ady ubezpieczeƒ, powszechne towarzystwa emerytalne oraz emitenci papierów wartoÊciowych notowanych na tej gie∏dzie. Za zgodà Komisji akcje spó∏ki prowadzàcej gie∏d´ mogà nabywaç inne krajowe izagraniczne osoby prawne.
+2. Akcje spółki prowadzącej giełdę mogą nabywać wyłącznie Skarb Państwa, firmy inwestycyjne, banki, towarzystwa funduszy inwestycyjnych, zakłady ubezpieczeń, powszechne towarzystwa emerytalne oraz emitenci papierów wartościowych notowanych na tej giełdzie. Za zgodą Komisji akcje spółki prowadzącej giełdę mogą nabywać inne krajowe izagraniczne osoby prawne.
 
-3. Przepisów ust. 1 i2 nie stosuje si´ wprzypadku, gdy spó∏ka prowadzàca gie∏d´ jest spó∏kà publicznà.
+3. Przepisów ust. 1 i2 nie stosuje się wprzypadku, gdy spółka prowadząca giełdę jest spółką publiczną.
 
 **Art. 23.**
 
-1. Akcjonariusz spó∏ki prowadzàcej gie∏d´, z wyjàtkiem Skarbu Paƒstwa, jest uprawniony do wykonywania nie wi´cej ni˝ 5 % ogólnej liczby g∏osów tej spó∏ki. Wuzasadnionych przypadkach Komisja mo˝e, na wniosek akcjonariusza, zezwoliç na wykonywanie przez akcjonariusza wi´kszej liczby g∏osów, z zastrze˝eniem ust. 2.
+1. Akcjonariusz spółki prowadzącej giełdę, z wyjątkiem Skarbu Państwa, jest uprawniony do wykonywania nie więcej niż 5 % ogólnej liczby głosów tej spółki. Wuzasadnionych przypadkach Komisja może, na wniosek akcjonariusza, zezwolić na wykonywanie przez akcjonariusza większej liczby głosów, z zastrzeżeniem ust. 2.
 
-2. Akcjonariusze spó∏ki prowadzàcej gie∏d´ nieb´dàcy firmami inwestycyjnymi lub bankami sà uprawnieni ∏àcznie do wykonywania nie wi´cej ni˝ 50 % ogólnej liczby g∏osów. Ograniczenie to nie dotyczy Skarbu Paƒstwa oraz akcjonariusza, który otrzyma∏ zezwolenie, o którym mowa w ust. 1, na wykonywanie co najmniej 20 % ogólnej liczby g∏osów.
+2. Akcjonariusze spółki prowadzącej giełdę niebędący firmami inwestycyjnymi lub bankami są uprawnieni łącznie do wykonywania nie więcej niż 50 % ogólnej liczby głosów. Ograniczenie to nie dotyczy Skarbu Państwa oraz akcjonariusza, który otrzymał zezwolenie, o którym mowa w ust. 1, na wykonywanie co najmniej 20 % ogólnej liczby głosów.
 
-3. Szczegó∏owe zasady wykonywania prawa g∏osu okreÊla statut spó∏ki prowadzàcej gie∏d´.
+3. Szczegółowe zasady wykonywania prawa głosu określa statut spółki prowadzącej giełdę.
 
-4. Akcje spó∏ki prowadzàcej gie∏d´ nie dajà prawa do dywidendy w okresie, kiedy Skarb Paƒstwa jest uprawniony do wykonywania ponad 50 % ogólnej liczby g∏osów.
+4. Akcje spółki prowadzącej giełdę nie dają prawa do dywidendy w okresie, kiedy Skarb Państwa jest uprawniony do wykonywania ponad 50 % ogólnej liczby głosów.
 
-5. Przepisów ust. 1, 2 i4 nie stosuje si´ wprzypadku, gdy spó∏ka prowadzàca gie∏d´ jest spó∏kà publicznà.
+5. Przepisów ust. 1, 2 i4 nie stosuje się wprzypadku, gdy spółka prowadząca giełdę jest spółką publiczną.
 
 **Art. 24.**
 
-1. Zawiadomienia Komisji wymaga zamiar bezpoÊredniego lub poÊredniego nabycia lub obj´cia akcji spó∏ki prowadzàcej gie∏d´ w liczbie:
+1. Zawiadomienia Komisji wymaga zamiar bezpośredniego lub pośredniego nabycia lub objęcia akcji spółki prowadzącej giełdę w liczbie:
 
-- **1)** stanowiàcej co najmniej 10 % ogólnej liczby g∏osów lub kapita∏u zak∏adowego lub
-- **2)** powodujàcej osiàgni´cie lub przekroczenie 10 %, 20 %, 33 % lub 50 % ogólnej liczby g∏osów lub kapita∏u zak∏adowego przy czym posiadanie akcji spó∏ki prowadzàcej gie∏d´ przez podmioty pozostajàce w tej samej grupie kapita∏owej uwa˝a si´ za ich posiadanie przez jeden podmiot.
+- **1)** stanowiącej co najmniej 10 % ogólnej liczby głosów lub kapitału zakładowego lub
+- **2)** powodującej osiągnięcie lub przekroczenie 10 %, 20 %, 33 % lub 50 % ogólnej liczby głosów lub kapitału zakładowego przy czym posiadanie akcji spółki prowadzącej giełdę przez podmioty pozostające w tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden podmiot.
 
-2. Przez poÊrednie nabycie akcji spó∏ki prowadzàcej gie∏d´ rozumie si´ nabycie lub obj´cie akcji lub udzia∏ów podmiotu posiadajàcego bezpoÊrednio lub poÊrednio akcje spó∏ki prowadzàcej gie∏d´, je˝eli w wyniku nabycia lub obj´cia dojdzie do osiàgni´cia lub przekroczenia 50 % ogólnej liczby g∏osów lub 50% kapita∏u zak∏adowego tego podmiotu.
+2. Przez pośrednie nabycie akcji spółki prowadzącej giełdę rozumie się nabycie lub objęcie akcji lub udziałów podmiotu posiadającego bezpośrednio lub pośrednio akcje spółki prowadzącej giełdę, jeżeli w wyniku nabycia lub objęcia dojdzie do osiągnięcia lub przekroczenia 50 % ogólnej liczby głosów lub 50% kapitału zakładowego tego podmiotu.
 
-3. Komisji przys∏uguje prawo zg∏oszenia sprzeciwu wobec planowanego bezpoÊredniego lub poÊredniego nabycia lub obj´cia akcji spó∏ki prowadzàcej gie∏d´ wliczbie nabycia wterminie 3 miesi´cy od dnia dokonania zawiadomienia, o którym mowa w ust. 1, w przypadku gdy istnieje uzasadnione podejrzenie, ˝e podmiot zamierzajàcy nabyç akcje spó∏ki prowadzàcej gie∏d´ móg∏by wywieraç niekorzystny wp∏yw na zarzàdzanie tà spó∏kà. Wprzypadku niezg∏oszenia sprzeciwu Komisja mo˝e wyznaczyç termin, w ciàgu którego nabycie akcji spó∏ki prowadzàcej gie∏d´ mo˝e zostaç dokonane.
+3. Komisji przysługuje prawo zgłoszenia sprzeciwu wobec planowanego bezpośredniego lub pośredniego nabycia lub objęcia akcji spółki prowadzącej giełdę wliczbie nabycia wterminie 3 miesięcy od dnia dokonania zawiadomienia, o którym mowa w ust. 1, w przypadku gdy istnieje uzasadnione podejrzenie, że podmiot zamierzający nabyć akcje spółki prowadzącej giełdę mógłby wywierać niekorzystny wpływ na zarządzanie tą spółką. Wprzypadku niezgłoszenia sprzeciwu Komisja może wyznaczyć termin, w ciągu którego nabycie akcji spółki prowadzącej giełdę może zostać dokonane.
 
-4. Wykonywanie prawa g∏osu z akcji nabytych pomimo sprzeciwu, októrym mowa wust. 3, jest bezskuteczne.
+4. Wykonywanie prawa głosu z akcji nabytych pomimo sprzeciwu, októrym mowa wust. 3, jest bezskuteczne.
 
-5. Wprzypadku gdy podmiotem nabywajàcym akcje spó∏ki prowadzàcej gie∏d´ jest zagraniczna firma inwestycyjna, bank zagraniczny albo zagraniczny zak∏ad ubezpieczeƒ posiadajàcy zezwolenie na prowawadzàcej gie∏d´ jest podmiot dominujàcy wobec podmiotu, o którym mowa w ust. 5, lub podmiot wywierajàcy znaczny wp∏yw w rozumieniu art. 96 ust. 3 na podmiot, októrym mowa wust. 5, atak˝e wprzypadku je˝eli wwyniku poÊredniego nabycia podmiot, którego akcje sà przedmiotem nabycia, sta∏by si´ podmiotem zale˝nym od nabywcy albo podmiotem, na który nabywca zacznie wywieraç znaczny wp∏yw wrozumieniu art. 96 ust. 3.
+5. Wprzypadku gdy podmiotem nabywającym akcje spółki prowadzącej giełdę jest zagraniczna firma inwestycyjna, bank zagraniczny albo zagraniczny zakład ubezpieczeń posiadający zezwolenie na prowawadzącej giełdę jest podmiot dominujący wobec podmiotu, o którym mowa w ust. 5, lub podmiot wywierający znaczny wpływ w rozumieniu art. 96 ust. 3 na podmiot, októrym mowa wust. 5, atakże wprzypadku jeżeli wwyniku pośredniego nabycia podmiot, którego akcje są przedmiotem nabycia, stałby się podmiotem zależnym od nabywcy albo podmiotem, na który nabywca zacznie wywierać znaczny wpływ wrozumieniu art. 96 ust. 3.
 
-7. Zawiadomienie, októrym mowa wust. 1, zawiera wskazanie liczby akcji, które nabywca zamierza nabyç, ich udzia∏ wkapitale zak∏adowym oraz liczb´ g∏osów, jakà nabywca osiàgnie na walnym zgromadzeniu, oraz sk∏adane pod rygorem odpowiedzialnoÊci karnej oÊwiadczenie o êródle pochodzenia Êrodków pieni´˝nych przeznaczonych na zap∏at´ za obejmowane lub nabywane akcje spó∏ki prowadzàcej gie∏d´.
+7. Zawiadomienie, októrym mowa wust. 1, zawiera wskazanie liczby akcji, które nabywca zamierza nabyć, ich udział wkapitale zakładowym oraz liczbę głosów, jaką nabywca osiągnie na walnym zgromadzeniu, oraz składane pod rygorem odpowiedzialności karnej oświadczenie o êródle pochodzenia środków pieniężnych przeznaczonych na zapłatę za obejmowane lub nabywane akcje spółki prowadzącej giełdę.
 
-8. Niezg∏oszenie przez Komisj´ sprzeciwu wterminie, o którym mowa w ust. 3, oznacza zgod´ na nabycie akcji spó∏ki prowadzàcej gie∏d´, na warunkach wskazanych w zawiadomieniu.
+8. Niezgłoszenie przez Komisję sprzeciwu wterminie, o którym mowa w ust. 3, oznacza zgodę na nabycie akcji spółki prowadzącej giełdę, na warunkach wskazanych w zawiadomieniu.
 
 **Art. 25.**
 
-1. Z zastrze˝eniem ust. 4, prowadzenie gie∏dy wymaga zezwolenia, które wydaje minister w∏aÊciwy do spraw instytucji finansowych, na wniosek zainteresowanego, zaopiniowany przez Komisj´.
+1. Z zastrzeżeniem ust. 4, prowadzenie giełdy wymaga zezwolenia, które wydaje minister właściwy do spraw instytucji finansowych, na wniosek zainteresowanego, zaopiniowany przez Komisję.
 
-2. W celu uzyskania zezwolenia spó∏ka sk∏ada wniosek za poÊrednictwem Komisji zawierajàcy:
+2. W celu uzyskania zezwolenia spółka składa wniosek za pośrednictwem Komisji zawierający:
 
-- **1)** firm´ oraz siedzib´ spó∏ki;
-- **2)** dane osobowe cz∏onków zarzàdu irady nadzorczej spó∏ki prowadzàcej gie∏d´, zwanych dalej odpowiednio „zarzàdem gie∏dy” i „radà gie∏dy”, oraz innych osób, które odpowiadajà za rozpocz´cie dzia∏alnoÊci gie∏dy lub b´dà nià kierowaç;
-- **3)** przewidywanà wysokoÊç Êrodków w∏asnych i kredytów, przeznaczonà na uruchomienie gie∏dy, oraz okreÊlenie sposobu finansowania dzia∏alnoÊci;
-- **4)** dane o wysokoÊci i strukturze kapita∏u w∏asnego oraz êród∏ach jego pochodzenia;
-- **5)** dane oprzewidywanej lokalizacji gie∏dy oraz Êrodkach technicznych umo˝liwiajàcych funkcjonowanie gie∏dy, w szczególnoÊci zapewniajàcych sta∏à ∏àcznoÊç z Krajowym Depozytem;
-- **6)** zobowiàzanie co najmniej 10 firm inwestycyjnych do prowadzenia dzia∏alnoÊci na danej gie∏dzie.
+- **1)** firmę oraz siedzibę spółki;
+- **2)** dane osobowe członków zarządu irady nadzorczej spółki prowadzącej giełdę, zwanych dalej odpowiednio Ńzarządem giełdy” i Ńradą giełdy”, oraz innych osób, które odpowiadają za rozpoczęcie działalności giełdy lub będą nią kierować;
+- **3)** przewidywaną wysokość środków własnych i kredytów, przeznaczoną na uruchomienie giełdy, oraz określenie sposobu finansowania działalności;
+- **4)** dane o wysokości i strukturze kapitału własnego oraz êródłach jego pochodzenia;
+- **5)** dane oprzewidywanej lokalizacji giełdy oraz środkach technicznych umożliwiających funkcjonowanie giełdy, w szczególności zapewniających stałą łączność z Krajowym Depozytem;
+- **6)** zobowiązanie co najmniej 10 firm inwestycyjnych do prowadzenia działalności na danej giełdzie.
 
-3. Do wniosku nale˝y do∏àczyç statut spó∏ki, regulamin gie∏dy oraz analiz´ ekonomiczno-finansowà mo˝liwoÊci prowadzenia gie∏dy. W przypadku gdy dzenie dzia∏alnoÊci wydane przez w∏aÊciwy organ nadzoru innego paƒstwa cz∏onkowskiego, Komisja zasi´ga opinii o tym podmiocie od organu nadzoru, który udzieli∏ mu zezwolenia na prowadzenie dzia∏alnoÊci.
+3. Do wniosku należy dołączyć statut spółki, regulamin giełdy oraz analizę ekonomiczno-finansową możliwości prowadzenia giełdy. W przypadku gdy dzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego, Komisja zasięga opinii o tym podmiocie od organu nadzoru, który udzielił mu zezwolenia na prowadzenie działalności.
 
-6. Przepis ust. 5 stosuje si´ odpowiednio w przypadku gdy podmiotem nabywajàcym akcje spó∏ki prospó∏ka zamierza równie˝ organizowaç alternatywny system obrotu, do wniosku nale˝y do∏àczyç równie˝ regulamin tego systemu.
+6. Przepis ust. 5 stosuje się odpowiednio w przypadku gdy podmiotem nabywającym akcje spółki prospółka zamierza również organizować alternatywny system obrotu, do wniosku należy dołączyć również regulamin tego systemu.
 
-4. W przypadku stwierdzenia braków formalnych Komisja wydaje decyzj´ opozostawieniu wniosku bez rozpoznania.
+4. W przypadku stwierdzenia braków formalnych Komisja wydaje decyzję opozostawieniu wniosku bez rozpoznania.
 
-5. Wydajàc zezwolenie, minister w∏aÊciwy do spraw instytucji finansowych zatwierdza statut spó∏ki i regulamin gie∏dy.
+5. Wydając zezwolenie, minister właściwy do spraw instytucji finansowych zatwierdza statut spółki i regulamin giełdy.
 
-**Art. 26.** Minister w∏aÊciwy do spraw instytucji finansowych odmawia wydania zezwolenia na prowadzenie gie∏dy, je˝eli z analizy wniosku i do∏àczonych do niego dokumentów wynika, ˝e podmiot wyst´pujàcy z wnioskiem nie zapewni prowadzenia dzia∏alnoÊci w sposób niezagra˝ajàcy bezpieczeƒstwu obrotu instrumentami finansowymi lub nale˝ycie zabezpieczajàcy interesy uczestników tego obrotu.
+**Art. 26.** Minister właściwy do spraw instytucji finansowych odmawia wydania zezwolenia na prowadzenie giełdy, jeżeli z analizy wniosku i dołączonych do niego dokumentów wynika, że podmiot występujący z wnioskiem nie zapewni prowadzenia działalności w sposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi lub należycie zabezpieczający interesy uczestników tego obrotu.
 
-**Art. 27.** Dokonanie zmian w sk∏adzie zarzàdu gie∏dy wymaga zgody Komisji, udzielanej na wniosek organu uprawnionego do powo∏ywania i odwo∏ywania cz∏onków zarzàdu gie∏dy. Komisja odmawia udzielenia zgody, je˝eli proponowane zmiany nie zapewniajà prowadzenia dzia∏alnoÊci w sposób niezagra˝ajàcy bezpieczeƒstwu obrotu papierami wartoÊciowymi lub nale˝ycie zabezpieczajàcy interesy uczestników tego obrotu.
+**Art. 27.** Dokonanie zmian w składzie zarządu giełdy wymaga zgody Komisji, udzielanej na wniosek organu uprawnionego do powoływania i odwoływania członków zarządu giełdy. Komisja odmawia udzielenia zgody, jeżeli proponowane zmiany nie zapewniają prowadzenia działalności w sposób niezagrażający bezpieczeństwu obrotu papierami wartościowymi lub należycie zabezpieczający interesy uczestników tego obrotu.
 
 **Art. 28.**
 
-1. Rada gie∏dy, na wniosek zarzàdu gie∏dy, uchwala regulamin gie∏dy, atak˝e zmiany tego regulaminu.
+1. Rada giełdy, na wniosek zarządu giełdy, uchwala regulamin giełdy, atakże zmiany tego regulaminu.
 
-2. Regulamin gie∏dy okreÊla w szczególnoÊci:
+2. Regulamin giełdy określa w szczególności:
 
-- **1)** kryteria i warunki dopuszczania papierów wartoÊciowych i innych instrumentów finansowych do obrotu na poszczególnych rynkach gie∏dowych, w tym papierów wartoÊciowych dopuszczonych do obrotu na rynku regulowanym w innym paƒstwie cz∏onkowskim;
-- **2)** sposób i tryb rozstrzygania sporów dotyczàcych przebiegu transakcji gie∏dowych;
-- **3)** rodzaje transakcji zawieranych na gie∏dzie;
-- **4)** porzàdek obrotu papierami wartoÊciowymi i innymi instrumentami finansowymi na gie∏dzie;
-- **5)** warunki i tryb notowania, zawieszania i zaprzestania notowania papierów wartoÊciowych i innych instrumentów finansowych na gie∏dzie;
-- **6)** sposób ustalania i og∏aszania kursów;
+- **1)** kryteria i warunki dopuszczania papierów wartościowych i innych instrumentów finansowych do obrotu na poszczególnych rynkach giełdowych, w tym papierów wartościowych dopuszczonych do obrotu na rynku regulowanym w innym państwie członkowskim;
+- **2)** sposób i tryb rozstrzygania sporów dotyczących przebiegu transakcji giełdowych;
+- **3)** rodzaje transakcji zawieranych na giełdzie;
+- **4)** porządek obrotu papierami wartościowymi i innymi instrumentami finansowymi na giełdzie;
+- **5)** warunki i tryb notowania, zawieszania i zaprzestania notowania papierów wartościowych i innych instrumentów finansowych na giełdzie;
+- **6)** sposób ustalania i ogłaszania kursów;
 - **7)** dni sesyjne i godziny sesji;
 - **8)** zasady anulowania transakcji;
-- **9)** sposób klasyfikowania papierów wartoÊciowych i innych instrumentów finansowych notowanych na gie∏dzie;
-- **10)** system informacyjny gie∏dy;
-- **11)** wysokoÊç sta∏ej op∏aty rocznej za korzystanie gie∏dowym, nieb´dàcym rynkiem oficjalnych notowaƒ;
-- **14)** sposób post´powania w przypadku naruszenia przez emitentów obowiàzków informacyjnych okreÊlonych w regulaminie;
-- **15)** postanowienia s∏u˝àce przeciwdzia∏aniu iujawnianiu przypadków manipulacji, o której mowa w art.39.
+- **9)** sposób klasyfikowania papierów wartościowych i innych instrumentów finansowych notowanych na giełdzie;
+- **10)** system informacyjny giełdy;
+- **11)** wysokość stałej opłaty rocznej za korzystanie giełdowym, niebędącym rynkiem oficjalnych notowań;
+- **14)** sposób postępowania w przypadku naruszenia przez emitentów obowiązków informacyjnych określonych w regulaminie;
+- **15)** postanowienia służące przeciwdziałaniu iujawnianiu przypadków manipulacji, o której mowa w art.39.
 
-3. Regulamin gie∏dy mo˝e okreÊlaç dodatkowe warunki dopuszczania papierów wartoÊciowych do obrotu stosowane wy∏àcznie w celu ochrony interesu inwestorów. W takim przypadku podmiot sk∏adajàcy wniosek o dopuszczenie danych papierów wartoÊciowych do obrotu powinien zostaç powiadomiony o tych warunkach przed jego z∏o˝eniem.
+3. Regulamin giełdy może określać dodatkowe warunki dopuszczania papierów wartościowych do obrotu stosowane wyłącznie w celu ochrony interesu inwestorów. W takim przypadku podmiot składający wniosek o dopuszczenie danych papierów wartościowych do obrotu powinien zostać powiadomiony o tych warunkach przed jego złożeniem.
 
 **Art. 29.**
 
-1. Dokonywanie zmian w statucie spó∏ki prowadzàcej gie∏d´ iregulaminie gie∏dy wymaga zgody Komisji. Komisja odmawia udzielenia zgody na dokonanie zmian w statucie i regulaminie, je˝eli propoz urzàdzeƒ gie∏dy;
+1. Dokonywanie zmian w statucie spółki prowadzącej giełdę iregulaminie giełdy wymaga zgody Komisji. Komisja odmawia udzielenia zgody na dokonanie zmian w statucie i regulaminie, jeżeli propoz urządzeń giełdy;
 
-- **12)** wysokoÊç op∏at transakcyjnych i sposoby ich naliczania;
-- **13)** obowiàzki informacyjne emitentów, których papiery wartoÊciowe znajdujà si´ w obrocie na rynku nowane zmiany sà sprzeczne z przepisami prawa lub mog∏yby naruszyç bezpieczeƒstwo obrotu.
+- **12)** wysokość opłat transakcyjnych i sposoby ich naliczania;
+- **13)** obowiązki informacyjne emitentów, których papiery wartościowe znajdują się w obrocie na rynku nowane zmiany są sprzeczne z przepisami prawa lub mogłyby naruszyć bezpieczeństwo obrotu.
 
-2. Spó∏ka prowadzàca gie∏d´ jest obowiàzana informowaç Komisj´ o wszelkich zmianach danych, o których mowa w art. 25 ust. 2.
+2. Spółka prowadząca giełdę jest obowiązana informować Komisję o wszelkich zmianach danych, o których mowa w art. 25 ust. 2.
 
-3. Spó∏ka prowadzàca gie∏d´ udost´pnia uczestnikom obrotu regulamin gie∏dy i jego zmiany oraz inne ustanowione przez spó∏k´ regulacje obowiàzujàce na prowadzonym przez nià rynku, co najmniej na 2 tygodnie przed dniem ich wejÊcia w ˝ycie.
+3. Spółka prowadząca giełdę udostępnia uczestnikom obrotu regulamin giełdy i jego zmiany oraz inne ustanowione przez spółkę regulacje obowiązujące na prowadzonym przez nią rynku, co najmniej na 2 tygodnie przed dniem ich wejścia w życie.
 
 **Art. 30.**
 
-1. Przewodniczàcy Komisji lub osoba przez niego upowa˝niona ma prawo:
+1. Przewodniczący Komisji lub osoba przez niego upoważniona ma prawo:
 
-- **1)** wst´pu do siedziby ido lokalu spó∏ki prowadzàcej gie∏d´ celem wglàdu do ksiàg, dokumentów i innych noÊników informacji;
-- **2)** uczestniczyç w posiedzeniach rady gie∏dy oraz w walnych zgromadzeniach.
+- **1)** wstępu do siedziby ido lokalu spółki prowadzącej giełdę celem wglądu do ksiąg, dokumentów i innych nośników informacji;
+- **2)** uczestniczyć w posiedzeniach rady giełdy oraz w walnych zgromadzeniach.
 
-2. Na ˝àdanie Przewodniczàcego Komisji lub osoby przez niego upowa˝nionej, osoby uprawnione do reprezentowania spó∏ki prowadzàcej gie∏d´ lub wchodzàce w sk∏ad jej organów zarzàdzajàcych i nadzorczych albo pozostajàce z tà spó∏kà w stosunku pracy sà obowiàzane do niezw∏ocznego sporzàdzenia iprzekazania, na koszt spó∏ki, kopii dokumentów i innych noÊników informacji oraz do udzielenia pisemnych lub ustnych wyjaÊnieƒ.
+2. Na żądanie Przewodniczącego Komisji lub osoby przez niego upoważnionej, osoby uprawnione do reprezentowania spółki prowadzącej giełdę lub wchodzące w skład jej organów zarządzających i nadzorczych albo pozostające z tą spółką w stosunku pracy są obowiązane do niezwłocznego sporządzenia iprzekazania, na koszt spółki, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień.
 
-3. Obowiàzek, o którym mowa w ust. 2, spoczywa równie˝ na bieg∏ym rewidencie oraz osobach uprawnionych do reprezentowania podmiotu uprawnionego do badania sprawozdaƒ finansowych lub pozostajàcych z tym podmiotem w stosunku pracy w zakresie dotyczàcym czynnoÊci podejmowanych przez te osoby lub podmiot, w zwiàzku z badaniem sprawozdaƒ finansowych spó∏ki prowadzàcej gie∏d´ lub Êwiadczeniem na rzecz spó∏ki prowadzàcej gie∏d´ innych us∏ug wymienionych w art. 10 ust. 3 ustawy z dnia 13 paêdziernika 1994 r. o bieg∏ych rewidentach i ich samorzàdzie (Dz. U. z 2001 r. 31, poz. 359, z póên. zm. ). Nie narusza to obowiàzku zachowania tajemnicy, o której mowa w art. 4a tej ustawy.
+3. Obowiązek, o którym mowa w ust. 2, spoczywa również na biegłym rewidencie oraz osobach uprawnionych do reprezentowania podmiotu uprawnionego do badania sprawozdań finansowych lub pozostających z tym podmiotem w stosunku pracy w zakresie dotyczącym czynności podejmowanych przez te osoby lub podmiot, w związku z badaniem sprawozdań finansowych spółki prowadzącej giełdę lub świadczeniem na rzecz spółki prowadzącej giełdę innych usług wymienionych w art. 10 ust. 3 ustawy z dnia 13 paêdziernika 1994 r. o biegłych rewidentach i ich samorządzie (Dz. U. z 2001 r. 31, poz. 359, z póên. zm. ). Nie narusza to obowiązku zachowania tajemnicy, o której mowa w art. 4a tej ustawy.
 
-4. Na pisemne ˝àdanie Komisji zarzàd spó∏ki prowadzàcej gie∏d´ jest obowiàzany do:
+4. Na pisemne żądanie Komisji zarząd spółki prowadzącej giełdę jest obowiązany do:
 
-- **1)** zwo∏ania nadzwyczajnego walnego zgromadzenia lub
-- **2)** umieszczenia spraw wskazanych przez Komisj´ w porzàdku obrad walnego zgromadzenia.
+- **1)** zwołania nadzwyczajnego walnego zgromadzenia lub
+- **2)** umieszczenia spraw wskazanych przez Komisję w porządku obrad walnego zgromadzenia.
 
-5. W przypadku niewykonania obowiàzków, o których mowa w ust. 4, do ˝àdania Komisji stosuje si´ odpowiednio przepisy art. 401 § 1 i 3 ustawy z dnia 15wrzeÊnia 2000 r. Kodeks spó∏ek handlowych.
+5. W przypadku niewykonania obowiązków, o których mowa w ust. 4, do żądania Komisji stosuje się odpowiednio przepisy art. 401 § 1 i 3 ustawy z dnia 15września 2000 r. Kodeks spółek handlowych.
 
-6. Komisja mo˝e nakazaç radzie gie∏dy niezw∏oczne podj´cie, jednak nie póêniej ni˝ w terminie 10 dni roboczych, uchwa∏y w okreÊlonej sprawie.
+6. Komisja może nakazać radzie giełdy niezwłoczne podjęcie, jednak nie póêniej niż w terminie 10 dni roboczych, uchwały w określonej sprawie.
 
-7. Komisja mo˝e zaskar˝yç do sàdu uchwa∏´ walnego zgromadzenia lub rady gie∏dy, wterminie 30 dni od dnia powzi´cia wiadomoÊci o uchwale, w drodze powództwa o jej uchylenie, je˝eli uchwa∏a narusza przepisy prawa, postanowienia statutu, regulaminu lub zasady bezpieczeƒstwa obrotu albo je˝eli zosta∏a podj´ta znaruszeniem przepisów prawa, postanowieƒ statutu lub regulaminu.
+7. Komisja może zaskarżyć do sądu uchwałę walnego zgromadzenia lub rady giełdy, wterminie 30 dni od dnia powzięcia wiadomości o uchwale, w drodze powództwa o jej uchylenie, jeżeli uchwała narusza przepisy prawa, postanowienia statutu, regulaminu lub zasady bezpieczeństwa obrotu albo jeżeli została podjęta znaruszeniem przepisów prawa, postanowień statutu lub regulaminu.
 
-8. W razie powzi´cia wàtpliwoÊci co do prawid∏owoÊci lub rzetelnoÊci sprawozdaƒ finansowych albo innych informacji finansowych, których obowiàzek sporzàdzenia wynika z odr´bnych przepisów lub prawid∏owoÊci prowadzenia ksiàg rachunkowych, Komisja mo˝e zleciç kontrol´ tych sprawozdaƒ, informacji i ksiàg rachunkowych podmiotowi uprawnionemu do badania sprawozdaƒ finansowych. W przypadku gdy kontrola wyka˝e istnienie istotnych nieprawid∏owoÊci, spó∏ka prowadzàca gie∏d´ zwraca Komisji koszty przeprowadzenia kontroli.
+8. W razie powzięcia wątpliwości co do prawidłowości lub rzetelności sprawozdań finansowych albo innych informacji finansowych, których obowiązek sporządzenia wynika z odrębnych przepisów lub prawidłowości prowadzenia ksiąg rachunkowych, Komisja może zlecić kontrolę tych sprawozdań, informacji i ksiąg rachunkowych podmiotowi uprawnionemu do badania sprawozdań finansowych. W przypadku gdy kontrola wykaże istnienie istotnych nieprawidłowości, spółka prowadząca giełdę zwraca Komisji koszty przeprowadzenia kontroli.
 
 **Art. 31.**
 
-1. Stronami transakcji zawieranych na rynku gie∏dowym mogà byç wy∏àcznie firmy inwestycyjne oraz Krajowy Depozyt w przypadku, o którym mowa w art. 59 ust. 3.
+1. Stronami transakcji zawieranych na rynku giełdowym mogą być wyłącznie firmy inwestycyjne oraz Krajowy Depozyt w przypadku, o którym mowa w art. 59 ust. 3.
 
-3. CzynnoÊç prawna majàca za przedmiot transakcj´ zawieranà na rynku gie∏dowym dokonana przez podmioty inne ni˝ okreÊlone wust. 1 i2 jest niewa˝na.
+3. Czynność prawna mająca za przedmiot transakcję zawieraną na rynku giełdowym dokonana przez podmioty inne niż określone wust. 1 i2 jest nieważna.
 
 **Art. 32.**
 
-1. Uchwa∏´ w sprawie dopuszczenia instrumentów finansowych do obrotu na rynku gie∏dowym podejmuje zarzàd gie∏dy w terminie 14 dni od dnia z∏o˝enia wniosku.
+1. Uchwałę w sprawie dopuszczenia instrumentów finansowych do obrotu na rynku giełdowym podejmuje zarząd giełdy w terminie 14 dni od dnia złożenia wniosku.
 
-2. W przypadku gdy z∏o˝ony wniosek jest niekompletny lub konieczne jest uzyskanie dodatkowych informacji, odpowiednio zarzàd gie∏dy lub rada gie∏dy mo˝e w zakresie niezb´dnym do stwierdzenia, czy instrumenty finansowe b´dàce przedmiotem wniosku spe∏niajà kryteria i warunki, o których mowa w art. 28 ust. 2 pkt 1 ˝àdaç uzupe∏nienia wniosku lub przedstawienia tych informacji. Wtakim przypadku bieg terminów, októrych mowa wust. 1 i3, zaczyna si´ wmomencie spe∏nienia ˝àdania przez wnioskodawc´.
+2. W przypadku gdy złożony wniosek jest niekompletny lub konieczne jest uzyskanie dodatkowych informacji, odpowiednio zarząd giełdy lub rada giełdy może w zakresie niezbędnym do stwierdzenia, czy instrumenty finansowe będące przedmiotem wniosku spełniają kryteria i warunki, o których mowa w art. 28 ust. 2 pkt 1 żądać uzupełnienia wniosku lub przedstawienia tych informacji. Wtakim przypadku bieg terminów, októrych mowa wust. 1 i3, zaczyna się wmomencie spełnienia żądania przez wnioskodawcę.
 
-3. Zarzàd gie∏dy odmawia dopuszczenia instrumentów finansowych do obrotu na rynku gie∏dowym, je˝eli nie sà spe∏nione kryteria i warunki, o których mowa w art. 28 ust. 2 pkt 1. W przypadku odmowy, wnioskodawcy przys∏uguje odwo∏anie do rady gie∏dy, w terminie okreÊlonym w regulaminie gie∏dy. Rozpatrzenie odwo∏ania nast´puje w terminie miesiàca od dnia jego z∏o˝enia.
+3. Zarząd giełdy odmawia dopuszczenia instrumentów finansowych do obrotu na rynku giełdowym, jeżeli nie są spełnione kryteria i warunki, o których mowa w art. 28 ust. 2 pkt 1. W przypadku odmowy, wnioskodawcy przysługuje odwołanie do rady giełdy, w terminie określonym w regulaminie giełdy. Rozpatrzenie odwołania następuje w terminie miesiąca od dnia jego złożenia.
 
-4. Uchwa∏´ rady gie∏dy nieuwzgl´dniajàcà odwo∏ania wnioskodawca mo˝e zaskar˝yç do sàdu w∏aÊciwego miejscowo dla siedziby spó∏ki prowadzàcej rynek gie∏dowy, w terminie 14 dni od dnia powzi´cia wiadomoÊci o uchwale, je˝eli odmowa dopuszczenia narusza postanowienia regulaminu gie∏dy. Wyrok sàdu uwzgl´dniajàcy powództwo zast´puje uchwa∏´ odopuszczeniu instrumentów finansowych do obrotu na rynku gie∏dowym.
+4. Uchwałę rady giełdy nieuwzględniającą odwołania wnioskodawca może zaskarżyć do sądu właściwego miejscowo dla siedziby spółki prowadzącej rynek giełdowy, w terminie 14 dni od dnia powzięcia wiadomości o uchwale, jeżeli odmowa dopuszczenia narusza postanowienia regulaminu giełdy. Wyrok sądu uwzględniający powództwo zastępuje uchwałę odopuszczeniu instrumentów finansowych do obrotu na rynku giełdowym.
 
-5. Obligacje zamienne lub obligacje z prawem pierwszeƒstwa mogà byç dopuszczone do obrotu na rynku oficjalnych notowaƒ, pod warunkiem ˝e akcje emitowane w celu realizacji uprawnieƒ wynikajàcych z tych obligacji sà jednoczeÊnie obj´te wnioskiem odopuszczenie do obrotu na tym rynku albo sà ju˝ no2. Stronami transakcji zawieranych na rynku gie∏dowym mogà byç równie˝, na warunkach okreÊlonych w regulaminie gie∏dy, inne podmioty nabywajàce i zbywajàce instrumenty finansowe we w∏asnym imieniu i na w∏asny rachunek:
+5. Obligacje zamienne lub obligacje z prawem pierwszeństwa mogą być dopuszczone do obrotu na rynku oficjalnych notowań, pod warunkiem że akcje emitowane w celu realizacji uprawnień wynikających z tych obligacji są jednocześnie objęte wnioskiem odopuszczenie do obrotu na tym rynku albo są już no2. Stronami transakcji zawieranych na rynku giełdowym mogą być również, na warunkach określonych w regulaminie giełdy, inne podmioty nabywające i zbywające instrumenty finansowe we własnym imieniu i na własny rachunek:
 
-- **1)** b´dàce uczestnikami Krajowego Depozytu;
-- **2)** nieb´dàce uczestnikami Krajowego Depozytu pod warunkiem wskazania podmiotu b´dàcego uczestnikiem Krajowego Depozytu, który zobowiàza∏ si´ do wype∏niania obowiàzków w zwiàzku z rozliczaniem zawartych transakcji. towane na tym samym lub na innym rynku oficjalnych notowaƒ lub na rynku regulowanym w innym paƒstwie cz∏onkowskim.
+- **1)** będące uczestnikami Krajowego Depozytu;
+- **2)** niebędące uczestnikami Krajowego Depozytu pod warunkiem wskazania podmiotu będącego uczestnikiem Krajowego Depozytu, który zobowiązał się do wypełniania obowiązków w związku z rozliczaniem zawartych transakcji. towane na tym samym lub na innym rynku oficjalnych notowań lub na rynku regulowanym w innym państwie członkowskim.
 
-6. Spó∏ka, której akcje sà dopuszczone do obrotu na danym rynku oficjalnych notowaƒ, ma obowiàzek z∏o˝yç wniosek o dopuszczenie do obrotu na tym rynku akcji tego samego rodzaju nowej emisji, b´dàcych przedmiotem oferty publicznej, nie póêniej ni˝ w terminie 12 miesi´cy od dnia zakoƒczenia subskrypcji, albo ustania ograniczenia ich zbywalnoÊci je˝eli takie ograniczenie by∏o ustanowione.
+6. Spółka, której akcje są dopuszczone do obrotu na danym rynku oficjalnych notowań, ma obowiązek złożyć wniosek o dopuszczenie do obrotu na tym rynku akcji tego samego rodzaju nowej emisji, będących przedmiotem oferty publicznej, nie póêniej niż w terminie 12 miesięcy od dnia zakończenia subskrypcji, albo ustania ograniczenia ich zbywalności jeżeli takie ograniczenie było ustanowione.
 
 **Art. 33.**
 
-1. Rynek pozagie∏dowy mo˝e byç prowadzony wy∏àcznie przez spó∏k´ akcyjnà.
+1. Rynek pozagiełdowy może być prowadzony wyłącznie przez spółkę akcyjną.
 
-2. Przedmiotem dzia∏alnoÊci spó∏ki prowadzàcej rynek pozagie∏dowy mo˝e byç wy∏àcznie prowadzenie rynku pozagie∏dowego lub innej dzia∏alnoÊci w zakresie organizowania obrotu instrumentami finansowymi oraz dzia∏alnoÊci zwiàzanej z tym obrotem, z zastrze˝eniem ust. 3.
+2. Przedmiotem działalności spółki prowadzącej rynek pozagiełdowy może być wyłącznie prowadzenie rynku pozagiełdowego lub innej działalności w zakresie organizowania obrotu instrumentami finansowymi oraz działalności związanej z tym obrotem, z zastrzeżeniem ust. 3.
 
-3. Spó∏ka prowadzàca rynek pozagie∏dowy mo˝e prowadziç dzia∏alnoÊç w zakresie edukacji, promocji i informacji zwiàzanej z funkcjonowaniem rynku kapita∏owego.
+3. Spółka prowadząca rynek pozagiełdowy może prowadzić działalność w zakresie edukacji, promocji i informacji związanej z funkcjonowaniem rynku kapitałowego.
 
-4. Spó∏ka prowadzàca rynek pozagie∏dowy mo˝e organizowaç alternatywny system obrotu po uprzednim poinformowaniu Komisji i zatwierdzeniu przez Komisj´ regulaminu tego systemu.
+4. Spółka prowadząca rynek pozagiełdowy może organizować alternatywny system obrotu po uprzednim poinformowaniu Komisji i zatwierdzeniu przez Komisję regulaminu tego systemu.
 
-5. Do regulaminu alternatywnego systemu obrotu organizowanego przez spó∏k´ prowadzàcà rynek pozagie∏dowy stosuje si´ odpowiednio przepisy art. 78 ust. 1, 2, 5 i 6.
+5. Do regulaminu alternatywnego systemu obrotu organizowanego przez spółkę prowadzącą rynek pozagiełdowy stosuje się odpowiednio przepisy art. 78 ust. 1, 2, 5 i 6.
 
-6. Kapita∏ zak∏adowy spó∏ki prowadzàcej rynek pozagie∏dowy wynosi co najmniej 7 500 000 z∏.
+6. Kapitał zakładowy spółki prowadzącej rynek pozagiełdowy wynosi co najmniej 7 500 000 zł.
 
 **Art. 34.**
 
-1. Akcje spó∏ki prowadzàcej rynek pozagie∏dowy mogà byç wy∏àcznie imienne.
+1. Akcje spółki prowadzącej rynek pozagiełdowy mogą być wyłącznie imienne.
 
-2. Akcje spó∏ki prowadzàcej rynek pozagie∏dowy mogà nabywaç wy∏àcznie firmy inwestycyjne, banki, towarzystwa funduszy inwestycyjnych, zak∏ady ubezpieczeƒ, powszechne towarzystwa emerytalne oraz emitenci papierów wartoÊciowych notowanych w obrocie na tym rynku. Za zgodà Komisji akcje spó∏ki mogà nabywaç inne krajowe izagraniczne osoby prawne.
+2. Akcje spółki prowadzącej rynek pozagiełdowy mogą nabywać wyłącznie firmy inwestycyjne, banki, towarzystwa funduszy inwestycyjnych, zakłady ubezpieczeń, powszechne towarzystwa emerytalne oraz emitenci papierów wartościowych notowanych w obrocie na tym rynku. Za zgodą Komisji akcje spółki mogą nabywać inne krajowe izagraniczne osoby prawne.
 
-3. Przepisów ust. 1 i2 nie stosuje si´ wprzypadku, gdy spó∏ka prowadzàca rynek pozagie∏dowy jest spó∏kà publicznà.
+3. Przepisów ust. 1 i2 nie stosuje się wprzypadku, gdy spółka prowadząca rynek pozagiełdowy jest spółką publiczną.
 
 **Art. 35.**
 
-1. Akcjonariusz spó∏ki prowadzàcej rynek pozagie∏dowy jest uprawniony do wykonywania nie wi´cej ni˝ 10 % ogólnej liczby g∏osów. W uzasadnionych przypadkach Komisja mo˝e, na wniosek akcjonariusza, zezwoliç na wykonywanie przez akcjonariusza wi´kszej liczby g∏osów, z zastrze˝eniem ust. 2.
+1. Akcjonariusz spółki prowadzącej rynek pozagiełdowy jest uprawniony do wykonywania nie więcej niż 10 % ogólnej liczby głosów. W uzasadnionych przypadkach Komisja może, na wniosek akcjonariusza, zezwolić na wykonywanie przez akcjonariusza większej liczby głosów, z zastrzeżeniem ust. 2.
 
-2. Akcjonariusze spó∏ki prowadzàcej rynek poza2. Komisja rozpoznaje wniosek w terminie 2 miesi´cy od dnia jego z∏o˝enia.
+2. Akcjonariusze spółki prowadzącej rynek poza2. Komisja rozpoznaje wniosek w terminie 2 miesięcy od dnia jego złożenia.
 
-3. Komisja odmawia udzielenia zezwolenia na prowadzenie rynku pozagie∏dowego, w przypadku gdy wniosek o wydanie zezwolenia nie spe∏nia okreÊlonych dla niego warunków lub gdy z przedstawionych danych wynika, ˝e podmiot wyst´pujàcy z wnioskiem nie zapewni prowadzenia dzia∏alnoÊci wsposób niezagra˝ajàcy bezpieczeƒstwu obrotu instrumentami finansowymi lub nale˝ycie zabezpieczajàcy interesy uczestników tego obrotu.
+3. Komisja odmawia udzielenia zezwolenia na prowadzenie rynku pozagiełdowego, w przypadku gdy wniosek o wydanie zezwolenia nie spełnia określonych dla niego warunków lub gdy z przedstawionych danych wynika, że podmiot występujący z wnioskiem nie zapewni prowadzenia działalności wsposób niezagrażający bezpieczeństwu obrotu instrumentami finansowymi lub należycie zabezpieczający interesy uczestników tego obrotu.
 
 **Art. 37.**
 
-1. Rada nadzorcza spó∏ki prowadzàcej rynek pozagie∏dowy, na wniosek zarzàdu, uchwala regulamin obrotu na tym rynku.
+1. Rada nadzorcza spółki prowadzącej rynek pozagiełdowy, na wniosek zarządu, uchwala regulamin obrotu na tym rynku.
 
-2. Udzielajàc zezwolenia, októrym mowa wart. 36 ust. 1, Komisja zatwierdza statut spó∏ki prowadzàcej rynek pozagie∏dowy iregulamin obrotu na tym rynku.
+2. Udzielając zezwolenia, októrym mowa wart. 36 ust. 1, Komisja zatwierdza statut spółki prowadzącej rynek pozagiełdowy iregulamin obrotu na tym rynku.
 
-3. Do spó∏ki prowadzàcej rynek pozagie∏dowy oraz gie∏dowy, b´dàcy emitentami papierów wartoÊciowych notowanych na tym rynku, sà uprawnieni ∏àcznie do wykonywania nie wi´cej ni˝ 25 % ogólnej liczby g∏osów. Warunek ten dotyczy tak˝e towarzystw funduszy inwestycyjnych oraz towarzystw emerytalnych, ∏àcznie z zak∏adami ubezpieczeƒ.
+3. Do spółki prowadzącej rynek pozagiełdowy oraz giełdowy, będący emitentami papierów wartościowych notowanych na tym rynku, są uprawnieni łącznie do wykonywania nie więcej niż 25 % ogólnej liczby głosów. Warunek ten dotyczy także towarzystw funduszy inwestycyjnych oraz towarzystw emerytalnych, łącznie z zakładami ubezpieczeń.
 
-3. Szczegó∏owe zasady wykonywania prawa g∏osu okreÊla statut spó∏ki prowadzàcej rynek pozagie∏dowy.
+3. Szczegółowe zasady wykonywania prawa głosu określa statut spółki prowadzącej rynek pozagiełdowy.
 
-4. Przepisów ust. 1 i2 nie stosuje si´ wprzypadku, gdy spó∏ka prowadzàca rynek pozagie∏dowy jest spó∏kà publicznà.
+4. Przepisów ust. 1 i2 nie stosuje się wprzypadku, gdy spółka prowadząca rynek pozagiełdowy jest spółką publiczną.
 
 **Art. 36.**
 
-1. Prowadzenie rynku pozagie∏dowego wymaga zezwolenia Komisji, wydanego na wniosek zainteresowanego podmiotu. Przepisy art. 25 ust. 2 i3 stosuje si´ odpowiednio. wykonywania nadzoru nad takà spó∏kà stosuje si´ odpowiednio przepisy art. 27—30 i art. 32 ust. 1—4.
+1. Prowadzenie rynku pozagiełdowego wymaga zezwolenia Komisji, wydanego na wniosek zainteresowanego podmiotu. Przepisy art. 25 ust. 2 i3 stosuje się odpowiednio. wykonywania nadzoru nad taką spółką stosuje się odpowiednio przepisy art. 27—30 i art. 32 ust. 1—4.
 
 **Art. 38.**
 
-1. Do zawierania transakcji na rynku pozagie∏dowym stosuje si´ odpowiednio przepisy art. 31.
+1. Do zawierania transakcji na rynku pozagiełdowym stosuje się odpowiednio przepisy art. 31.
 
-2. Firmy inwestycyjne b´dàce stronami transakcji zawieranych na rynku pozagie∏dowym, wykonujàce zadania zwiàzane z organizacjà rynku regulowanego, okreÊlone regulaminem, o którym mowa w art. 37 ust.1, mogà zawieraç transakcje kupna lub sprzeda˝y papierów wartoÊciowych bezpoÊrednio zdajàcym zlecenie.
+2. Firmy inwestycyjne będące stronami transakcji zawieranych na rynku pozagiełdowym, wykonujące zadania związane z organizacją rynku regulowanego, określone regulaminem, o którym mowa w art. 37 ust.1, mogą zawierać transakcje kupna lub sprzedaży papierów wartościowych bezpośrednio zdającym zlecenie.
 
 **Art. 39.**
 
-1. Zakazana jest manipulacja instrumentem finansowym, zwana dalej „manipulacjà”.
+1. Zakazana jest manipulacja instrumentem finansowym, zwana dalej Ńmanipulacją”.
 
-2. Manipulacj´ stanowi:
+2. Manipulację stanowi:
 
-- **1)** sk∏adanie zleceƒ lub zawieranie transakcji wprowadzajàcych lub mogàcych wprowadziç wb∏àd co do rzeczywistego popytu, poda˝y lub ceny instrumentu finansowego, chyba ˝e powody tych dzia∏aƒ by∏y uprawnione, az∏o˝one zlecenia lub zawarte transakcje nie naruszy∏y przyj´tych praktyk rynkowych na danym rynku regulowanym;
-- **2)** sk∏adanie zleceƒ lub zawieranie transakcji powodujàcych nienaturalne lub sztuczne ustalenie si´ ceny jednego lub kilku instrumentów finansowych, chyba ˝e powody tych dzia∏aƒ by∏y uprawnione, a z∏o˝one zlecenia lub zawarte transakcje nie naruszy∏y przyj´tych praktyk rynkowych na danym rynku regulowanym;
-- **3)** sk∏adanie zleceƒ lub zawieranie transakcji, zzamiarem wywo∏ania innych skutków prawnych ni˝ te, dla osiàgni´cia których faktycznie jest dokonywana dana czynnoÊç prawna;
-- **4)** rozpowszechnianie za pomocà Êrodków masowego przekazu, w tym internetu, lub w inny sposób fa∏szywych lub nierzetelnych informacji albo pog∏osek, które wprowadzajà lub mogà wprowadzaç w b∏àd w zakresie instrumentów finansowych:
-    - **a)** przez dziennikarza je˝eli nie dzia∏a∏ z zachowaniem nale˝ytej starannoÊci zawodowej albo je˝eli uzyska∏ z rozpowszechniania takich informacji bezpoÊrednià lub poÊrednià korzyÊç majàtkowà lub osobistà dla siebie lub innej osoby, nawet dzia∏ajàc z zachowaniem tej starannoÊci,
-    - **b)** przez innà osob´ je˝eli wiedzia∏a lub przy do∏o˝eniu nale˝ytej starannoÊci mog∏a si´ dowiedzieç, ˝e sà to informacje nieprawdziwe lub wprowadzajàce w b∏àd;
+- **1)** składanie zleceń lub zawieranie transakcji wprowadzających lub mogących wprowadzić wbłąd co do rzeczywistego popytu, podaży lub ceny instrumentu finansowego, chyba że powody tych działań były uprawnione, azłożone zlecenia lub zawarte transakcje nie naruszyły przyjętych praktyk rynkowych na danym rynku regulowanym;
+- **2)** składanie zleceń lub zawieranie transakcji powodujących nienaturalne lub sztuczne ustalenie się ceny jednego lub kilku instrumentów finansowych, chyba że powody tych działań były uprawnione, a złożone zlecenia lub zawarte transakcje nie naruszyły przyjętych praktyk rynkowych na danym rynku regulowanym;
+- **3)** składanie zleceń lub zawieranie transakcji, zzamiarem wywołania innych skutków prawnych niż te, dla osiągnięcia których faktycznie jest dokonywana dana czynność prawna;
+- **4)** rozpowszechnianie za pomocą środków masowego przekazu, w tym internetu, lub w inny sposób fałszywych lub nierzetelnych informacji albo pogłosek, które wprowadzają lub mogą wprowadzać w błąd w zakresie instrumentów finansowych:
+    - **a)** przez dziennikarza jeżeli nie działał z zachowaniem należytej staranności zawodowej albo jeżeli uzyskał z rozpowszechniania takich informacji bezpośrednią lub pośrednią korzyść majątkową lub osobistą dla siebie lub innej osoby, nawet działając z zachowaniem tej staranności,
+    - **b)** przez inną osobę jeżeli wiedziała lub przy dołożeniu należytej staranności mogła się dowiedzieć, że są to informacje nieprawdziwe lub wprowadzające w błąd;
 
-- **5)** sk∏adanie zleceƒ lub zawieranie transakcji przy jednoczesnym wprowadzeniu uczestników rynku w b∏àd albo wykorzystanie ich b∏´du, co do ceny instrumentów finansowych;
-- **6)** zapewnianie kontroli nad popytem lub poda˝à instrumentu finansowego z naruszeniem zasad uczciwego obrotu lub w sposób powodujàcy bezpoÊrednie lub poÊrednie ustalanie cen nabycia lub zbycia instrumentów finansowych;
-- **7)** nabywanie lub zbywanie instrumentów finansowych na zakoƒczenie notowaƒ powodujàce wprowadzenie w b∏àd inwestorów dokonujàcych czynnoÊci na podstawie ceny ustalonej na tym etapie notowaƒ;
-- **8)** uzyskiwanie korzyÊci majàtkowej z wp∏ywu opinii dotyczàcych instrumentów finansowych lub ich emitentów wyra˝anych w Êrodkach masowego przekazu w sposób okazjonalny lub regularny, na cen´ posiadanych instrumentów finansowych, jeÊli nie zosta∏ publicznie ujawniony wsposób pe∏ny i rzetelny wyst´pujàcy konflikt interesu.
+- **5)** składanie zleceń lub zawieranie transakcji przy jednoczesnym wprowadzeniu uczestników rynku w błąd albo wykorzystanie ich błędu, co do ceny instrumentów finansowych;
+- **6)** zapewnianie kontroli nad popytem lub podażą instrumentu finansowego z naruszeniem zasad uczciwego obrotu lub w sposób powodujący bezpośrednie lub pośrednie ustalanie cen nabycia lub zbycia instrumentów finansowych;
+- **7)** nabywanie lub zbywanie instrumentów finansowych na zakończenie notowań powodujące wprowadzenie w błąd inwestorów dokonujących czynności na podstawie ceny ustalonej na tym etapie notowań;
+- **8)** uzyskiwanie korzyści majątkowej z wpływu opinii dotyczących instrumentów finansowych lub ich emitentów wyrażanych w środkach masowego przekazu w sposób okazjonalny lub regularny, na cenę posiadanych instrumentów finansowych, jeśli nie został publicznie ujawniony wsposób pełny i rzetelny występujący konflikt interesu.
 
-3. Przepisów ust. 2 nie stosuje si´ do:
+3. Przepisów ust. 2 nie stosuje się do:
 
-- **1)** nabywania akcji w∏asnych przez spó∏k´ publicznà lub podmiot dzia∏ajàcy na jej rachunek lub w jej imieniu, pod warunkiem ˝e nabywanie to odbywaç si´ b´dzie w trybie, terminie i na warunkach okreÊlonych w przepisach rozporzàdzenia Komisji (WE) nr 2273/2003 zdnia 22 grudnia 2003 r. wykonujàcego dyrektyw´ 2003/6/WE Parlamentu Europejskiego i Rady w odniesieniu do zwolnieƒ dla programów odkupu i stabilizacji instrumentów finansowych (Dz. Urz. WE L 336 z 23.12.2003);
-- **2)** transakcji s∏u˝àcych realizacji ustawowych zadaƒ w zakresie polityki pieni´˝nej lub dewizowej paƒstwa albo zarzàdzania d∏ugiem publicznym, zawieranych przez osoby uprawnione do reprezentowasi´ b´dzie w trybie, terminie i na warunkach okreÊlonych w przepisach, o których mowa w pkt 1.
+- **1)** nabywania akcji własnych przez spółkę publiczną lub podmiot działający na jej rachunek lub w jej imieniu, pod warunkiem że nabywanie to odbywać się będzie w trybie, terminie i na warunkach określonych w przepisach rozporządzenia Komisji (WE) nr 2273/2003 zdnia 22 grudnia 2003 r. wykonującego dyrektywę 2003/6/WE Parlamentu Europejskiego i Rady w odniesieniu do zwolnień dla programów odkupu i stabilizacji instrumentów finansowych (Dz. Urz. WE L 336 z 23.12.2003);
+- **2)** transakcji służących realizacji ustawowych zadań w zakresie polityki pieniężnej lub dewizowej państwa albo zarządzania długiem publicznym, zawieranych przez osoby uprawnione do reprezentowasię będzie w trybie, terminie i na warunkach określonych w przepisach, o których mowa w pkt 1.
 
-4. Zakazy i wymogi, o których mowa w ust. 1—3, majà zastosowanie do:
+4. Zakazy i wymogi, o których mowa w ust. 1—3, mają zastosowanie do:
 
-- **1)** zachowaƒ zaistnia∏ych na terytorium Rzeczypospolitej Polskiej lub innego paƒstwa cz∏onkowskiego, dotyczàcych instrumentów finansowych dopuszczonych lub b´dàcych przedmiotem ubiegania si´ odopuszczenie do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej;
-- **2)** zachowaƒ zaistnia∏ych na terytorium Rzeczypospolitej Polskiej dotyczàcych instrumentów finansowych dopuszczonych lub b´dàcych przedmiotem ubiegania si´ o dopuszczenie do obrotu na rynku regulowanym na terytorium któregokolwiek z innych paƒstw cz∏onkowskich;
+- **1)** zachowań zaistniałych na terytorium Rzeczypospolitej Polskiej lub innego państwa członkowskiego, dotyczących instrumentów finansowych dopuszczonych lub będących przedmiotem ubiegania się odopuszczenie do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej;
+- **2)** zachowań zaistniałych na terytorium Rzeczypospolitej Polskiej dotyczących instrumentów finansowych dopuszczonych lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na rynku regulowanym na terytorium któregokolwiek z innych państw członkowskich;
 - **3)** instrumentów finansowych wprowadzonych do alternatywnego systemu obrotu na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 40.**
 
-1. Podmioty nadzorowane, o których mowa w art. 5 pkt 1—3 oraz pkt 12 i 13 ustawy o nadzorze, sà obowiàzane do niezw∏ocznego przekazania Komisji je˝eli jest w∏aÊciwa ze wzgl´du na udzielone temu podmiotowi zezwolenie na prowadzenie dzia∏alnoÊci podlegajàcej nadzorowi, siedzib´ podmiotu lub siedzib´ jego oddzia∏u informacji oka˝dym uzasadnionym podejrzeniu manipulacji, zawierajàcej, z zastrze˝eniem ust. 2:
+1. Podmioty nadzorowane, o których mowa w art. 5 pkt 1—3 oraz pkt 12 i 13 ustawy o nadzorze, są obowiązane do niezwłocznego przekazania Komisji jeżeli jest właściwa ze względu na udzielone temu podmiotowi zezwolenie na prowadzenie działalności podlegającej nadzorowi, siedzibę podmiotu lub siedzibę jego oddziału informacji okażdym uzasadnionym podejrzeniu manipulacji, zawierającej, z zastrzeżeniem ust. 2:
 
-- **1)** szczegó∏owe dane dotyczàce podejrzanej transakcji, ze wskazaniem:
-    - **a)** instrumentu finansowego b´dàcego przedmiotem transakcji,
+- **1)** szczegółowe dane dotyczące podejrzanej transakcji, ze wskazaniem:
+    - **a)** instrumentu finansowego będącego przedmiotem transakcji,
     - **b)** rodzaju transakcji i trybu jej zawarcia,
     - **c)** daty i miejsca transakcji,
     - **d)** ceny i wolumenu transakcji,
-    - **e)** rodzaju rynku isystemu notowaƒ instrumentów finansowych, których dotyczy transakcja,
-    - **f)** opisu zlecenia dotyczàcego instrumentów finansowych, których dotyczy transakcja, w tym jego typu i wielkoÊci,
-    - **g)** osoby, która z∏o˝y∏a zlecenie lub zawar∏a transakcj´, z okreÊleniem w szczególnoÊci, czy dzia∏a∏a ona na rachunek w∏asny czy na rzecz osoby trzeciej;
+    - **e)** rodzaju rynku isystemu notowań instrumentów finansowych, których dotyczy transakcja,
+    - **f)** opisu zlecenia dotyczącego instrumentów finansowych, których dotyczy transakcja, w tym jego typu i wielkości,
+    - **g)** osoby, która złożyła zlecenie lub zawarła transakcję, z określeniem w szczególności, czy działała ona na rachunek własny czy na rzecz osoby trzeciej;
 
-- **2)** powody uzasadniajàce podejrzenie;
-- **3)** informacje pozwalajàce na identyfikacj´ osób, na rachunek których zlecenie zosta∏o z∏o˝one lub nia w∏aÊciwych organów paƒstwowych lub Narodowego Banku Polskiego, atak˝e przez Europejski System Banków Centralnych;
-- **3)** nabywania instrumentów finansowych wcelu stabilizacji ich ceny w obrocie na rynku regulowanym, pod warunkiem ˝e nabywanie to odbywaç transakcja zawarta, oraz innych osób majàcych zwiàzek z zawieranà transakcjà;
-- **4)** okreÊlenie zwiàzku podmiotu nadzorowanego z podejrzanà transakcjà i osobami, o których mowa wpkt 3, wynikajàcego zcharakteru wykonywanych przez ten podmiot czynnoÊci, w szczególnoÊci okreÊlonych w art. 69 ust. 2 pkt 2 lub 3;
-- **5)** inne informacje, które w ocenie podmiotu nadzorowanego, o którym mowa w art. 5 pkt 1—3, 12lub 13 ustawy o nadzorze, mogà mieç istotne znaczenie dla weryfikacji podejrzenia;
-- **6)** dat´ imiejsce sporzàdzenia informacji oraz podpis osoby przekazujàcej informacj´.
+- **2)** powody uzasadniające podejrzenie;
+- **3)** informacje pozwalające na identyfikację osób, na rachunek których zlecenie zostało złożone lub nia właściwych organów państwowych lub Narodowego Banku Polskiego, atakże przez Europejski System Banków Centralnych;
+- **3)** nabywania instrumentów finansowych wcelu stabilizacji ich ceny w obrocie na rynku regulowanym, pod warunkiem że nabywanie to odbywać transakcja zawarta, oraz innych osób mających związek z zawieraną transakcją;
+- **4)** określenie związku podmiotu nadzorowanego z podejrzaną transakcją i osobami, o których mowa wpkt 3, wynikającego zcharakteru wykonywanych przez ten podmiot czynności, w szczególności określonych w art. 69 ust. 2 pkt 2 lub 3;
+- **5)** inne informacje, które w ocenie podmiotu nadzorowanego, o którym mowa w art. 5 pkt 1—3, 12lub 13 ustawy o nadzorze, mogą mieć istotne znaczenie dla weryfikacji podejrzenia;
+- **6)** datę imiejsce sporządzenia informacji oraz podpis osoby przekazującej informację.
 
-2. W przypadku gdy wykonujàc obowiàzek, o którym mowa w ust. 1, podmiot nadzorowany nie posiada wszystkich informacji, przekazuje te informacje, które sà mu znane, co najmniej ze wskazaniem powodu powzi´cia podejrzenia manipulacji. Pozosta∏e informacje, w posiadanie których podmiot nadzorowany wszed∏ póêniej, podmiot ten przekazuje niezw∏ocznie po ich uzyskaniu.
+2. W przypadku gdy wykonując obowiązek, o którym mowa w ust. 1, podmiot nadzorowany nie posiada wszystkich informacji, przekazuje te informacje, które są mu znane, co najmniej ze wskazaniem powodu powzięcia podejrzenia manipulacji. Pozostałe informacje, w posiadanie których podmiot nadzorowany wszedł póêniej, podmiot ten przekazuje niezwłocznie po ich uzyskaniu.
 
-3. Informacje, o których mowa w ust. 1 i 2, mogà byç sporzàdzane i przekazywane przez podmiot nadzorowany winny sposób ni˝ na piÊmie, wszczególnoÊci na noÊnikach elektronicznych lub przy u˝yciu Êrodków porozumiewania si´ na odleg∏oÊç, z zachowaniem poufnoÊci tych informacji. W takim przypadku podmiot nadzorowany, na ˝àdanie Komisji, przedstawia dokument potwierdzajàcy na piÊmie fakt przekazania informacji.
+3. Informacje, o których mowa w ust. 1 i 2, mogą być sporządzane i przekazywane przez podmiot nadzorowany winny sposób niż na piśmie, wszczególności na nośnikach elektronicznych lub przy użyciu środków porozumiewania się na odległość, z zachowaniem poufności tych informacji. W takim przypadku podmiot nadzorowany, na żądanie Komisji, przedstawia dokument potwierdzający na piśmie fakt przekazania informacji.
 
-4. Po otrzymaniu informacji, o których mowa wust. 1 i2, Komisja niezw∏ocznie przekazuje je w∏aÊciwemu organowi nadzoru w innym paƒstwie cz∏onkowskim, w∏aÊciwemu dla rynku regulowanego, zfunkcjonowaniem którego informacja ta ma zwiàzek.
+4. Po otrzymaniu informacji, o których mowa wust. 1 i2, Komisja niezwłocznie przekazuje je właściwemu organowi nadzoru w innym państwie członkowskim, właściwemu dla rynku regulowanego, zfunkcjonowaniem którego informacja ta ma związek.
 
-5. Obowiàzek, o którym mowa w ust. 1, spoczywa równie˝ na innych, nieb´dàcych podmiotami nadzorowanymi, bankach krajowych i oddzia∏ach instytucji kredytowych, w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+5. Obowiązek, o którym mowa w ust. 1, spoczywa również na innych, niebędących podmiotami nadzorowanymi, bankach krajowych i oddziałach instytucji kredytowych, w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
 
-6. Podmiot wykonujàcy obowiàzek, o którym mowa wust. 1, zarówno ofakcie dokonania notyfikacji jak i jej treÊci nie mo˝e informowaç podmiotów innych ni˝ Komisja, w szczególnoÊci osób, na których rachunek transakcje przeprowadzono, lub podmiotów powiàzanych z tymi osobami, z wy∏àczeniem przypadków, wktórych obowiàzek przekazania tych informacji wynika z przepisów innych ustaw.
+6. Podmiot wykonujący obowiązek, o którym mowa wust. 1, zarówno ofakcie dokonania notyfikacji jak i jej treści nie może informować podmiotów innych niż Komisja, w szczególności osób, na których rachunek transakcje przeprowadzono, lub podmiotów powiązanych z tymi osobami, z wyłączeniem przypadków, wktórych obowiązek przekazania tych informacji wynika z przepisów innych ustaw.
 
 **Art. 41.**
 
-1. Komisja oraz uczestnicy rynku rozwa˝ajàc, czy sk∏adanie danych zleceƒ lub zawieranie danych transakcji mo˝e stanowiç manipulacj´, o której mowa w art. 39 ust. 2 pkt 1 i 2, biorà pod uwag´ w szczególnoÊci:
+1. Komisja oraz uczestnicy rynku rozważając, czy składanie danych zleceń lub zawieranie danych transakcji może stanowić manipulację, o której mowa w art. 39 ust. 2 pkt 1 i 2, biorą pod uwagę w szczególności:
 
-- **1)** jak znaczàcy udzia∏ w dziennym obrocie okreÊlonym instrumentem finansowym na danym rynku regulowanym majà dane zlecenia lub transakcje, awszczególnoÊci, czy powodujà one istotnà zmiaa) tego instrumentu finansowego lub
+- **1)** jak znaczący udział w dziennym obrocie określonym instrumentem finansowym na danym rynku regulowanym mają dane zlecenia lub transakcje, awszczególności, czy powodują one istotną zmiaa) tego instrumentu finansowego lub
     - **b)** instrumentu pochodnego od instrumentu, o którym mowa w lit. a, lub
-    - **c)** okreÊlonego prawa b´dàcego podstawà wystawienia instrumentu finansowego, które jest dopuszczone do obrotu na danym rynku regulowanym;
+    - **c)** określonego prawa będącego podstawą wystawienia instrumentu finansowego, które jest dopuszczone do obrotu na danym rynku regulowanym;
 
-- **3)** czy dane transakcje wp∏ywajà na zmian´ faktycznego stanu posiadania okreÊlonego instrumentu finansowego dopuszczonego do obrotu na danym rynku regulowanym;
-- **4)** na ile zmieniajàcy si´ w krótkich odst´pach czasu udzia∏ zleceƒ lub transakcji w ofertach kupna lub w kupnie na udzia∏ w ofertach sprzeda˝y lub w sprzeda˝y albo odwrotnie, które to zlecenia lub transakcje majà znaczàcy udzia∏ wdziennym obrocie okreÊlonym instrumentem finansowym na danym rynku regulowanym, powoduje w sposób bezpoÊredni lub poÊredni istotnà zmian´ ceny tego instrumentu finansowego;
-- **5)** na ile sk∏adanie wkrótkich odst´pach czasu zleceƒ lub zawieranie w ten sam sposób transakcji wywo∏uje krótkotrwa∏à zmian´ ceny instrumentu finansowego, która nast´pnie powraca do poziomu sprzed jej zmiany;
-- **6)** na ile dane zlecenia odwo∏ane przed ich realizacjà powodujà zmian´ w zakresie najlepszych pod wzgl´dem ceny ofert kupna lub sprzeda˝y albo pozosta∏ych ofert kupna lub sprzeda˝y instrumentu finansowego dopuszczonego do obrotu na danym rynku regulowanym;
-- **7)** na ile zlecenia sk∏adane w okresie, który stanowi podstaw´ do okreÊlenia ceny rozliczeniowej, ceny wykonania, ceny odniesienia lub wyceny wartoÊci danego instrumentu finansowego, lub w czasie poprzedzajàcym ten okres albo transakcje zawierane wtym samym czasie wp∏ywajà na cen´ danego instrumentu finansowego, na podstawie której ustala si´ cen´ rozliczeniowà, cen´ wykonania, cen´ odniesienia lub dokonuje wyceny.
+- **3)** czy dane transakcje wpływają na zmianę faktycznego stanu posiadania określonego instrumentu finansowego dopuszczonego do obrotu na danym rynku regulowanym;
+- **4)** na ile zmieniający się w krótkich odstępach czasu udział zleceń lub transakcji w ofertach kupna lub w kupnie na udział w ofertach sprzedaży lub w sprzedaży albo odwrotnie, które to zlecenia lub transakcje mają znaczący udział wdziennym obrocie określonym instrumentem finansowym na danym rynku regulowanym, powoduje w sposób bezpośredni lub pośredni istotną zmianę ceny tego instrumentu finansowego;
+- **5)** na ile składanie wkrótkich odstępach czasu zleceń lub zawieranie w ten sam sposób transakcji wywołuje krótkotrwałą zmianę ceny instrumentu finansowego, która następnie powraca do poziomu sprzed jej zmiany;
+- **6)** na ile dane zlecenia odwołane przed ich realizacją powodują zmianę w zakresie najlepszych pod względem ceny ofert kupna lub sprzedaży albo pozostałych ofert kupna lub sprzedaży instrumentu finansowego dopuszczonego do obrotu na danym rynku regulowanym;
+- **7)** na ile zlecenia składane w okresie, który stanowi podstawę do określenia ceny rozliczeniowej, ceny wykonania, ceny odniesienia lub wyceny wartości danego instrumentu finansowego, lub w czasie poprzedzającym ten okres albo transakcje zawierane wtym samym czasie wpływają na cenę danego instrumentu finansowego, na podstawie której ustala się cenę rozliczeniową, cenę wykonania, cenę odniesienia lub dokonuje wyceny.
 
-2. Przy rozwa˝aniu, czy sk∏adanie zleceƒ lub zawieranie transakcji nast´puje przy jednoczesnym wprowadzeniu uczestników rynku w b∏àd albo wyzyskaniu ich b∏´du, co do ceny instrumentów finansowych Komisja oraz uczestnicy rynku biorà pod uwag´ wszczególnoÊci:
+2. Przy rozważaniu, czy składanie zleceń lub zawieranie transakcji następuje przy jednoczesnym wprowadzeniu uczestników rynku w błąd albo wyzyskaniu ich błędu, co do ceny instrumentów finansowych Komisja oraz uczestnicy rynku biorą pod uwagę wszczególności:
 
-- **1)** czy sk∏adanie zleceƒ lub zawieranie transakcji przez okreÊlone osoby nast´puje w okresie poprzedzajàcym lub nast´pujàcym po rozpowszechnieniu przez te osoby lub osoby z nimi powiàzane n´ ceny instrumentu finansowego;
-- **2)** na ile zlecenia, które majà znaczàcy udzia∏ w ofertach kupna lub sprzeda˝y, albo transakcje, które majà znaczàcy udzia∏ wkupnie lub sprzeda˝y okreÊlonego instrumentu finansowego, powodujà istotnà zmian´ ceny: fa∏szywych lub wprowadzajàcych w b∏àd informacji;
-- **2)** czy sk∏adanie zleceƒ lub zawieranie transakcji przez okreÊlone osoby nast´puje w okresie poprzedzajàcym lub nast´pujàcym po sporzàdzeniu lub rozpowszechnieniu przez te osoby lub osoby z nimi powiàzane b∏´dnych, stronniczych lub w sposób wyraêny podyktowanych zamiarem osiàgni´cia korzyÊci majàtkowej lub osobistej rekomendacji.
+- **1)** czy składanie zleceń lub zawieranie transakcji przez określone osoby następuje w okresie poprzedzającym lub następującym po rozpowszechnieniu przez te osoby lub osoby z nimi powiązane nę ceny instrumentu finansowego;
+- **2)** na ile zlecenia, które mają znaczący udział w ofertach kupna lub sprzedaży, albo transakcje, które mają znaczący udział wkupnie lub sprzedaży określonego instrumentu finansowego, powodują istotną zmianę ceny: fałszywych lub wprowadzających w błąd informacji;
+- **2)** czy składanie zleceń lub zawieranie transakcji przez określone osoby następuje w okresie poprzedzającym lub następującym po sporządzeniu lub rozpowszechnieniu przez te osoby lub osoby z nimi powiązane błędnych, stronniczych lub w sposób wyraêny podyktowanych zamiarem osiągnięcia korzyści majątkowej lub osobistej rekomendacji.
 
 **Art. 42.**
 
-1. Osoby sporzàdzajàce rekomendacje dotyczàce instrumentów finansowych, ich emitentów lub wystawców, przeznaczone do rozpowszechniania wÊród inwestorów, oraz osoby zajmujàce si´ rozpowszechnianiem takich rekomendacji sà obowiàzane do zachowania nale˝ytej starannoÊci, zapewnienia rzetelnoÊci sporzàdzanych rekomendacji oraz ujawnienia s∏usznego interesu, a tak˝e konfliktów interesów istniejàcych w chwili ich sporzàdzania lub rozpowszechniania.
+1. Osoby sporządzające rekomendacje dotyczące instrumentów finansowych, ich emitentów lub wystawców, przeznaczone do rozpowszechniania wśród inwestorów, oraz osoby zajmujące się rozpowszechnianiem takich rekomendacji są obowiązane do zachowania należytej staranności, zapewnienia rzetelności sporządzanych rekomendacji oraz ujawnienia słusznego interesu, a także konfliktów interesów istniejących w chwili ich sporządzania lub rozpowszechniania.
 
-2. Minister w∏aÊciwy do spraw instytucji finansowych mo˝e okreÊliç, wdrodze rozporzàdzenia, rodzaje informacji stanowiàcych rekomendacje dotyczàce instrumentów finansowych, ich emitentów lub wystawców, sposób sporzàdzania i rozpowszechniania takich rekomendacji oraz szczegó∏owe warunki, jakim powinny odpowiadaç te rekomendacje, przy uwzgl´dnieniu koniecznoÊci zapewnienia ich rzetelnej prezentacji i ujawniania s∏usznego interesu oraz istnienia konfliktu interesów oraz bezpieczeƒstwa obrotu na rynku i zapobie˝enia naruszeniu interesu jego uczestników.
+2. Minister właściwy do spraw instytucji finansowych może określić, wdrodze rozporządzenia, rodzaje informacji stanowiących rekomendacje dotyczące instrumentów finansowych, ich emitentów lub wystawców, sposób sporządzania i rozpowszechniania takich rekomendacji oraz szczegółowe warunki, jakim powinny odpowiadać te rekomendacje, przy uwzględnieniu konieczności zapewnienia ich rzetelnej prezentacji i ujawniania słusznego interesu oraz istnienia konfliktu interesów oraz bezpieczeństwa obrotu na rynku i zapobieżenia naruszeniu interesu jego uczestników.
 
-3. Zakazy i wymogi, o których mowa w ust. 1, oraz wynikajàce z przepisów wydanych na podstawie ust. 2 majà zastosowanie w przypadkach okreÊlonych w art. 39 ust. 4.
+3. Zakazy i wymogi, o których mowa w ust. 1, oraz wynikające z przepisów wydanych na podstawie ust. 2 mają zastosowanie w przypadkach określonych w art. 39 ust. 4.
 
 **Art. 43.**
 
-1. Przepisy niniejszego oddzia∏u majà zastosowanie do instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub któregokolwiek zinnych paƒstw cz∏onkowskich lub b´dàcych przedmiotem ubiegania si´ o dopuszczenie do obrotu na takim rynku, niezale˝nie od tego, czy transakcje, których przedmiotem jest dany instrument, sà dokonywane na tym rynku, z uwzgl´dnieniem ust. 2.
+1. Przepisy niniejszego oddziału mają zastosowanie do instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub któregokolwiek zinnych państw członkowskich lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na takim rynku, niezależnie od tego, czy transakcje, których przedmiotem jest dany instrument, są dokonywane na tym rynku, z uwzględnieniem ust. 2.
 
-2. Przepis art. 39 ust. 2 pkt 4 lit. b stosuje si´ równie˝ do papierów wartoÊciowych b´dàcych przedmiotem oferty publicznej, które majà podlegaç dopuszczeniu do obrotu na rynku regulowanym lub wprowadzeniu do alternatywnego systemu obrotu.
+2. Przepis art. 39 ust. 2 pkt 4 lit. b stosuje się również do papierów wartościowych będących przedmiotem oferty publicznej, które mają podlegać dopuszczeniu do obrotu na rynku regulowanym lub wprowadzeniu do alternatywnego systemu obrotu.
 
-- **1)** przejrzystoÊç i zrozumia∏oÊç praktyki rynkowej dla uczestników rynku;
-- **2)** potrzeb´ ochrony prawid∏owego funkcjonowania rynku i w∏aÊciwego oddzia∏ywania popytu i poda˝y;
-- **3)** wp∏yw okreÊlonej praktyki rynkowej na p∏ynnoÊç i efektywnoÊç dzia∏ania rynku;
-- **4)** stopieƒ uwzgl´dnienia zasad obrotu wyst´pujàcych na danym rynku oraz umo˝liwienie uczestnikom rynku podj´cia w odpowiednim czasie w∏aÊciwych czynnoÊci wzwiàzku zwywo∏anà przez t´ praktyk´ zmianà sytuacji rynkowej;
-- **5)** ryzyko, jakie w odniesieniu do instrumentów finansowych niesie ze sobà okreÊlona praktyka rynkowa dla prawid∏owego funkcjonowania powiàzanych poÊrednio lub bezpoÊrednio rynków regulowanych lub nieregulowanych któregokolwiek z paƒstw cz∏onkowskich;
+- **1)** przejrzystość i zrozumiałość praktyki rynkowej dla uczestników rynku;
+- **2)** potrzebę ochrony prawidłowego funkcjonowania rynku i właściwego oddziaływania popytu i podaży;
+- **3)** wpływ określonej praktyki rynkowej na płynność i efektywność działania rynku;
+- **4)** stopień uwzględnienia zasad obrotu występujących na danym rynku oraz umożliwienie uczestnikom rynku podjęcia w odpowiednim czasie właściwych czynności wzwiązku zwywołaną przez tę praktykę zmianą sytuacji rynkowej;
+- **5)** ryzyko, jakie w odniesieniu do instrumentów finansowych niesie ze sobą określona praktyka rynkowa dla prawidłowego funkcjonowania powiązanych pośrednio lub bezpośrednio rynków regulowanych lub nieregulowanych któregokolwiek z państw członkowskich;
 
 **Art. 44.**
 
-1. Przyj´tymi praktykami rynkowymi sà zachowania, których zasadnie mo˝na oczekiwaç na jednym lub wielu rynkach finansowych i które sà, w drodze uchwa∏y, akceptowane przez Komisj´ zgodnie z wytycznymi okreÊlonymi w art. 45 ust. 1.
+1. Przyjętymi praktykami rynkowymi są zachowania, których zasadnie można oczekiwać na jednym lub wielu rynkach finansowych i które są, w drodze uchwały, akceptowane przez Komisję zgodnie z wytycznymi określonymi w art. 45 ust. 1.
 
-2. Uchwa∏a, októrej mowa wust. 1, podlega og∏oszeniu w Dzienniku Urz´dowym Komisji Papierów WartoÊciowych i Gie∏d.
+2. Uchwała, októrej mowa wust. 1, podlega ogłoszeniu w Dzienniku Urzędowym Komisji Papierów Wartościowych i Giełd.
 
 **Art. 45.**
 
-1. Komisja uznajàc, czy okreÊlone zachowanie stanowi przyj´tà praktyk´ rynkowà, bierze pod uwag´ w szczególnoÊci:
+1. Komisja uznając, czy określone zachowanie stanowi przyjętą praktykę rynkową, bierze pod uwagę w szczególności:
 
-- **6)** wyniki post´powaƒ prowadzonych przez w∏aÊciwy organ nadzoru i inne organy uprawnione do prowadzenia post´powaƒ w zakresie nadu˝yç dokonywanych wobrocie instrumentami finansowymi, dotyczàce okreÊlonej praktyki rynkowej, w szczególnoÊci je˝eli praktyka ta narusza∏a przepisy wprowadzone w celu przeciwdzia∏ania nadu˝yciom na danym rynku lub rynkach bezpoÊrednio lub poÊrednio zwiàzanych z którymkolwiek rynkiem paƒstwa cz∏onkowskiego lub narusza∏a postanowienia zawarte w regulacjach okreÊlajàcych zasady post´powania na tych rynkach;
-- **7)** charakterystyk´ okreÊlonego rynku regulowanego lub nieregulowanego, rodzaje instrumentów finansowych b´dàcych w obrocie, rodzaje uczestników rynku, w∏àczajàc wto wielkoÊç udzia∏u inwestorów indywidualnych wobrocie na danym rynku.
+- **6)** wyniki postępowań prowadzonych przez właściwy organ nadzoru i inne organy uprawnione do prowadzenia postępowań w zakresie nadużyć dokonywanych wobrocie instrumentami finansowymi, dotyczące określonej praktyki rynkowej, w szczególności jeżeli praktyka ta naruszała przepisy wprowadzone w celu przeciwdziałania nadużyciom na danym rynku lub rynkach bezpośrednio lub pośrednio związanych z którymkolwiek rynkiem państwa członkowskiego lub naruszała postanowienia zawarte w regulacjach określających zasady postępowania na tych rynkach;
+- **7)** charakterystykę określonego rynku regulowanego lub nieregulowanego, rodzaje instrumentów finansowych będących w obrocie, rodzaje uczestników rynku, włączając wto wielkość udziału inwestorów indywidualnych wobrocie na danym rynku.
 
-2. Komisja regularnie weryfikuje przyj´te praktyki rynkowe, bioràc przy tym pod uwag´ istotne zmiany wfunkcjonowaniu rynku, takie jak zmiany zasad obrotu lub zasad organizacji rynku.
+2. Komisja regularnie weryfikuje przyjęte praktyki rynkowe, biorąc przy tym pod uwagę istotne zmiany wfunkcjonowaniu rynku, takie jak zmiany zasad obrotu lub zasad organizacji rynku.
 
-3. Bioràc pod uwag´ potrzeb´ ochrony zasad uczciwego obrotu i w∏aÊciwego oddzia∏ywania si∏ popytu i poda˝y, nale˝y w szczególnoÊci analizowaç wp∏yw okreÊlonej praktyki rynkowej na g∏ówne parametry rynku, takie jak:
+3. Biorąc pod uwagę potrzebę ochrony zasad uczciwego obrotu i właściwego oddziaływania sił popytu i podaży, należy w szczególności analizować wpływ określonej praktyki rynkowej na główne parametry rynku, takie jak:
 
-- **1)** warunki wyst´pujàce na danym rynku;
-- **2)** Êrednià cen´ na sesji;
-- **3)** cen´ ustalanà na zakoƒczenie notowaƒ.
+- **1)** warunki występujące na danym rynku;
+- **2)** średnią cenę na sesji;
+- **3)** cenę ustalaną na zakończenie notowań.
 
-4. OkreÊlona, wszczególnoÊci nowa lub kszta∏tujàca si´, praktyka rynkowa mo˝e byç stosowana, nawet je˝eli nie zosta∏a zaakceptowana przez Komisj´.
+4. Określona, wszczególności nowa lub kształtująca się, praktyka rynkowa może być stosowana, nawet jeżeli nie została zaakceptowana przez Komisję.
 
-5. Przed zaakceptowaniem danego zachowania, jako przyj´tej praktyki rynkowej, Komisja przeprowadza konsultacje celem zasi´gni´cia opinii:
+5. Przed zaakceptowaniem danego zachowania, jako przyjętej praktyki rynkowej, Komisja przeprowadza konsultacje celem zasięgnięcia opinii:
 
-- **1)** w∏aÊciwych podmiotów b´dàcych uczestnikami odpowiednio rynku papierów wartoÊciowych lub innych instrumentów finansowych, towarów gie∏dowych lub us∏ug funduszy inwestycyjnych oraz stowarzyszeƒ i organizacji zrzeszajàcych uczestników tych rynków;
-- **2)** w∏aÊciwego organu nadzoru w innym paƒstwie cz∏onkowskim, wktórym rynek regulowany posiada podobne cechy, w szczególnoÊci pod wzgl´dem organizacji, wielkoÊci i rodzajów transakcji.
+- **1)** właściwych podmiotów będących uczestnikami odpowiednio rynku papierów wartościowych lub innych instrumentów finansowych, towarów giełdowych lub usług funduszy inwestycyjnych oraz stowarzyszeń i organizacji zrzeszających uczestników tych rynków;
+- **2)** właściwego organu nadzoru w innym państwie członkowskim, wktórym rynek regulowany posiada podobne cechy, w szczególności pod względem organizacji, wielkości i rodzajów transakcji.
 
-6. Wprowadzenie zmiany przyj´tej praktyki rynkowej wymaga uprzedniego przeprowadzenia konsultacji z podmiotami i organizacjami, o których mowa w ust. 5.
+6. Wprowadzenie zmiany przyjętej praktyki rynkowej wymaga uprzedniego przeprowadzenia konsultacji z podmiotami i organizacjami, o których mowa w ust. 5.
 
-7. Komisja przekazuje Komitetowi Europejskich Regulatorów Papierów WartoÊciowych oraz do publicznej wiadomoÊci treÊç uchwa∏y, o której mowa wart. 44 ust. 1, wskazujàc jednoczeÊnie wytyczne, które wzi´∏a pod uwag´ akceptujàc dane zachowanie jako przyj´tà praktyk´ rynkowà.
+7. Komisja przekazuje Komitetowi Europejskich Regulatorów Papierów Wartościowych oraz do publicznej wiadomości treść uchwały, o której mowa wart. 44 ust. 1, wskazując jednocześnie wytyczne, które wzięła pod uwagę akceptując dane zachowanie jako przyjętą praktykę rynkową.
 
-8. W przypadku wszcz´cia post´powania administracyjnego, wyjaÊniajàcego lub karnego w sprawie zwiàzanej z wykonywaniem nadzoru przez Komisj´ dotyczàcej zachowaƒ b´dàcych przedmiotem opinii, októrej mowa wust. 5, Komisja mo˝e zawiesiç prowadzenie konsultacji do chwili zakoƒczenia tego post´powania. DZIA¸ III Krajowy Depozyt. System depozytowo-rozliczeniowy
+8. W przypadku wszczęcia postępowania administracyjnego, wyjaśniającego lub karnego w sprawie związanej z wykonywaniem nadzoru przez Komisję dotyczącej zachowań będących przedmiotem opinii, októrej mowa wust. 5, Komisja może zawiesić prowadzenie konsultacji do chwili zakończenia tego postępowania. DZIAĘ III Krajowy Depozyt. System depozytowo-rozliczeniowy
 
 **Art. 46.**
 
-1. Krajowy Depozyt dzia∏a w formie spó∏ki akcyjnej.
+1. Krajowy Depozyt działa w formie spółki akcyjnej.
 
-2. Akcje Krajowego Depozytu mogà byç wy∏àcznie imienne.
+2. Akcje Krajowego Depozytu mogą być wyłącznie imienne.
 
-3. Akcjonariuszami Krajowego Depozytu mogà byç: spó∏ki prowadzàce gie∏d´, spó∏ki prowadzàce rynek pozagie∏dowy, firmy inwestycyjne, banki, Skarb Paƒstwa, Narodowy Bank Polski oraz osoby prawne ust. 1, oraz innych regulacji Krajowego Depozytu wydawanych na podstawie tych regulaminów, zarzàd lub rada nadzorcza Krajowego Depozytu zasi´ga opinii zespo∏u doradczego, sk∏adajàcego si´ z:
+3. Akcjonariuszami Krajowego Depozytu mogą być: spółki prowadzące giełdę, spółki prowadzące rynek pozagiełdowy, firmy inwestycyjne, banki, Skarb Państwa, Narodowy Bank Polski oraz osoby prawne ust. 1, oraz innych regulacji Krajowego Depozytu wydawanych na podstawie tych regulaminów, zarząd lub rada nadzorcza Krajowego Depozytu zasięga opinii zespołu doradczego, składającego się z:
 
-- **1)** 2 przedstawicieli reprezentatywnych stowarzyszeƒ lub organizacji zrzeszajàcych podmioty, o których mowa wart. 9 ust. 1 pkt 4 lit. dustawy onadzorze;
-- **2)** 2 przedstawicieli reprezentatywnych stowarzyszeƒ lub organizacji zrzeszajàcych podmioty, o których mowa wart. 9 ust. 1 pkt 4 lit. eustawy onadzorze;
+- **1)** 2 przedstawicieli reprezentatywnych stowarzyszeń lub organizacji zrzeszających podmioty, o których mowa wart. 9 ust. 1 pkt 4 lit. dustawy onadzorze;
+- **2)** 2 przedstawicieli reprezentatywnych stowarzyszeń lub organizacji zrzeszających podmioty, o których mowa wart. 9 ust. 1 pkt 4 lit. eustawy onadzorze;
 - **3)** 2 przedstawicieli izb gospodarczych, októrych mowa w art. 92 ust. 1;
 - **4)** 2 przedstawicieli podmiotów, o których mowa w art. 51 ust. 3 i 4;
-- **5)** 1 przedstawiciela ka˝dej ze spó∏ek prowadzàcych rynek regulowany.
+- **5)** 1 przedstawiciela każdej ze spółek prowadzących rynek regulowany.
 
-6. Zespó∏ doradczy mo˝e, zw∏asnej inicjatywy, wylub inne jednostki organizacyjne, które prowadzà dzia∏alnoÊç w zakresie rejestrowania papierów wartoÊciowych, jak równie˝ rozliczenia lub rozrachunku transakcji zawieranych w obrocie papierami wartoÊciowymi lub organizowania rynku regulowanego, zsiedzibà na terytorium paƒstwa cz∏onkowskiego lub paƒstwa nale˝àcego do OECD, podlegajàce nadzorowi w∏aÊciwego organu nadzoru tego paƒstwa.
+6. Zespół doradczy może, zwłasnej inicjatywy, wylub inne jednostki organizacyjne, które prowadzą działalność w zakresie rejestrowania papierów wartościowych, jak również rozliczenia lub rozrachunku transakcji zawieranych w obrocie papierami wartościowymi lub organizowania rynku regulowanego, zsiedzibą na terytorium państwa członkowskiego lub państwa należącego do OECD, podlegające nadzorowi właściwego organu nadzoru tego państwa.
 
-4. Akcje Krajowego Depozytu nie dajà prawa do dywidendy.
+4. Akcje Krajowego Depozytu nie dają prawa do dywidendy.
 
-5. W sprawach dotyczàcych sprawozdaƒ zarzàdu Krajowego Depozytu z dzia∏alnoÊci spó∏ki, planów dzia∏alnoÊci i planów finansowych Krajowego Depozytu, sprawozdania z dzia∏alnoÊci systemu rekompensat, o którym mowa w art. 146 ust. 1, regulaminów, októrych mowa wart. 50 ust. 1, art. 66 ust. 2, art. 134 dawaç i przedstawiaç zarzàdowi lub radzie nadzorczej Krajowego Depozytu opinie w sprawach, o których mowa w ust. 5.
+5. W sprawach dotyczących sprawozdań zarządu Krajowego Depozytu z działalności spółki, planów działalności i planów finansowych Krajowego Depozytu, sprawozdania z działalności systemu rekompensat, o którym mowa w art. 146 ust. 1, regulaminów, októrych mowa wart. 50 ust. 1, art. 66 ust. 2, art. 134 dawać i przedstawiać zarządowi lub radzie nadzorczej Krajowego Depozytu opinie w sprawach, o których mowa w ust. 5.
 
 **Art. 47.**
 
-1. Zawiadomienia Komisji wymaga zamiar bezpoÊredniego lub poÊredniego nabycia lub obj´cia akcji Krajowego Depozytu w liczbie:
+1. Zawiadomienia Komisji wymaga zamiar bezpośredniego lub pośredniego nabycia lub objęcia akcji Krajowego Depozytu w liczbie:
 
-- **1)** stanowiàcej co najmniej 10 % ogólnej liczby g∏osów lub kapita∏u zak∏adowego lub
-- **2)** powodujàcej osiàgni´cie lub przekroczenie 10 %, 20 %, 33 % lub 50 % ogólnej liczby g∏osów lub kapita∏u zak∏adowego przy czym posiadanie akcji Krajowego Depozytu przez podmioty pozostajàce w tej samej grupie kapita∏owej uwa˝a si´ za ich posiadanie przez jeden podmiot.
+- **1)** stanowiącej co najmniej 10 % ogólnej liczby głosów lub kapitału zakładowego lub
+- **2)** powodującej osiągnięcie lub przekroczenie 10 %, 20 %, 33 % lub 50 % ogólnej liczby głosów lub kapitału zakładowego przy czym posiadanie akcji Krajowego Depozytu przez podmioty pozostające w tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden podmiot.
 
-2. Przez poÊrednie nabycie akcji Krajowego Depozytu rozumie si´ nabycie lub obj´cie akcji lub udzia∏ów podmiotu posiadajàcego bezpoÊrednio lub poÊrednio akcje Krajowego Depozytu, je˝eli w wyniku nabycia lub obj´cia dojdzie do osiàgni´cia lub przekroczenia 50 % ogólnej liczby g∏osów lub 50 % kapita∏u zak∏adowego tego podmiotu.
+2. Przez pośrednie nabycie akcji Krajowego Depozytu rozumie się nabycie lub objęcie akcji lub udziałów podmiotu posiadającego bezpośrednio lub pośrednio akcje Krajowego Depozytu, jeżeli w wyniku nabycia lub objęcia dojdzie do osiągnięcia lub przekroczenia 50 % ogólnej liczby głosów lub 50 % kapitału zakładowego tego podmiotu.
 
-3. Komisji przys∏uguje prawo zg∏oszenia sprzeciwu wobec planowanego bezpoÊredniego lub poÊredniego nabycia lub obj´cia akcji Krajowego Depozytu wterminie 3 miesi´cy od dnia dokonania zawiadomienia, o którym mowa w ust. 1, w przypadku gdy istnieje uzasadnione podejrzenie, ˝e podmiot zamierzajàcy nabyç akcje Krajowego Depozytu móg∏by wywieraç niekorzystny wp∏yw na zarzàdzanie tà spó∏kà. W przypadku niezg∏oszenia sprzeciwu Komisja mo˝e wyznaczyç termin, w ciàgu którego nabycie akcji Krajowego Depozytu mo˝e zostaç dokonane.
+3. Komisji przysługuje prawo zgłoszenia sprzeciwu wobec planowanego bezpośredniego lub pośredniego nabycia lub objęcia akcji Krajowego Depozytu wterminie 3 miesięcy od dnia dokonania zawiadomienia, o którym mowa w ust. 1, w przypadku gdy istnieje uzasadnione podejrzenie, że podmiot zamierzający nabyć akcje Krajowego Depozytu mógłby wywierać niekorzystny wpływ na zarządzanie tą spółką. W przypadku niezgłoszenia sprzeciwu Komisja może wyznaczyć termin, w ciągu którego nabycie akcji Krajowego Depozytu może zostać dokonane.
 
-4. Wykonywanie prawa g∏osu z akcji Krajowego Depozytu nabytych pomimo sprzeciwu, o którym mowa w ust. 3, jest bezskuteczne.
+4. Wykonywanie prawa głosu z akcji Krajowego Depozytu nabytych pomimo sprzeciwu, o którym mowa w ust. 3, jest bezskuteczne.
 
-5. Wprzypadku gdy podmiotem nabywajàcym akcje Krajowego Depozytu jest zagraniczna firma inwestycyjna, bank zagraniczny albo zagraniczny zak∏ad ubezpieczeƒ posiadajàcy zezwolenie na prowadzenie dzia∏alnoÊci wydane przez w∏aÊciwy organ nadzoru innego paƒstwa cz∏onkowskiego, Komisja zasi´ga opinii organu nadzoru, który udzieli∏ zezwolenia na prowadzenie dzia∏alnoÊci przez te podmioty.
+5. Wprzypadku gdy podmiotem nabywającym akcje Krajowego Depozytu jest zagraniczna firma inwestycyjna, bank zagraniczny albo zagraniczny zakład ubezpieczeń posiadający zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego, Komisja zasięga opinii organu nadzoru, który udzielił zezwolenia na prowadzenie działalności przez te podmioty.
 
-6. Przepis ust. 5 stosuje si´ odpowiednio w przypadku, gdy podmiotem nabywajàcym akcje Krajowego Depozytu jest podmiot dominujàcy wobec podmiotu, októrym mowa wust. 5, lub podmiot wywierajàcy znaczny wp∏yw w rozumieniu art. 96 ust. 3 na podmiot, októrym mowa wust. 5, atak˝e wprzypadku je˝eli w wyniku poÊredniego nabycia podmiot, którego akcje sà przedmiotem nabycia, sta∏by si´ podmiotem zale˝nym od nabywcy albo podmiotem, na który nabywca zacznie wywieraç znaczny wp∏yw wrozumieniu art. 96 ust. 3.
+6. Przepis ust. 5 stosuje się odpowiednio w przypadku, gdy podmiotem nabywającym akcje Krajowego Depozytu jest podmiot dominujący wobec podmiotu, októrym mowa wust. 5, lub podmiot wywierający znaczny wpływ w rozumieniu art. 96 ust. 3 na podmiot, októrym mowa wust. 5, atakże wprzypadku jeżeli w wyniku pośredniego nabycia podmiot, którego akcje są przedmiotem nabycia, stałby się podmiotem zależnym od nabywcy albo podmiotem, na który nabywca zacznie wywierać znaczny wpływ wrozumieniu art. 96 ust. 3.
 
-7. Zawiadomienie, októrym mowa wust. 1, zawiera wskazanie liczby akcji, które nabywca zamierza nabyç, ich udzia∏ wkapitale zak∏adowym oraz liczb´ g∏osów, jakà nabywca osiàgnie na walnym zgromadzeniu, oraz sk∏adane pod rygorem odpowiedzialnoÊci karnej oÊwiadczenie o êródle pochodzenia Êrodków pieni´˝nych przeznaczonych na zap∏at´ za obejmowane lub nabywane akcje.
+7. Zawiadomienie, októrym mowa wust. 1, zawiera wskazanie liczby akcji, które nabywca zamierza nabyć, ich udział wkapitale zakładowym oraz liczbę głosów, jaką nabywca osiągnie na walnym zgromadzeniu, oraz składane pod rygorem odpowiedzialności karnej oświadczenie o êródle pochodzenia środków pieniężnych przeznaczonych na zapłatę za obejmowane lub nabywane akcje.
 
-8. Niezg∏oszenie przez Komisj´ sprzeciwu wterminie, o którym mowa w ust. 3, oznacza zgod´ na nabycie akcji Krajowego Depozytu, na warunkach wskazanych w zawiadomieniu.
+8. Niezgłoszenie przez Komisję sprzeciwu wterminie, o którym mowa w ust. 3, oznacza zgodę na nabycie akcji Krajowego Depozytu, na warunkach wskazanych w zawiadomieniu.
 
 **Art. 48.**
 
-1. Do zadaƒ Krajowego Depozytu nale˝y prowadzenie depozytu papierów wartoÊciowych, prowadzenie rozliczeƒ i rozrachunku transakcji w papierach wartoÊciowych, prowadzenie systemu zabezpieczania p∏ynnoÊci rozliczeƒ oraz wykonywanie czynnoÊci w zakresie prowadzenia systemu rejestracji, rozliczeƒ i rozrachunku instrumentów finansowych nieb´dàcych papierami wartoÊciowymi.
+1. Do zadań Krajowego Depozytu należy prowadzenie depozytu papierów wartościowych, prowadzenie rozliczeń i rozrachunku transakcji w papierach wartościowych, prowadzenie systemu zabezpieczania płynności rozliczeń oraz wykonywanie czynności w zakresie prowadzenia systemu rejestracji, rozliczeń i rozrachunku instrumentów finansowych niebędących papierami wartościowymi.
 
-2. Do zadaƒ Krajowego Depozytu nale˝y w szczególnoÊci:
+2. Do zadań Krajowego Depozytu należy w szczególności:
 
-- **1)** rejestrowanie, zzastrze˝eniem art. 49, zdemateria5) rozliczanie transakcji zawieranych w alternatywnym systemie obrotu w zakresie zdematerializowanych papierów wartoÊciowych;
-- **6)** czynnoÊci zwiàzane z wycofywaniem papierów wartoÊciowych z depozytu papierów wartoÊciowych;
-- **7)** dokonywanie rozrachunku winstrumentach finansowych i Êrodkach pieni´˝nych w zwiàzku z transakcjami, o których mowa w pkt 4 i 5;
-- **8)** prowadzenie systemu zabezpieczania p∏ynnoÊci rozliczeƒ, w tym systemu gwarantowania rozliczeƒ transakcji zawartych na rynku regulowanym gie∏dowym i pozagie∏dowym;
-- **9)** zapewnienie prawid∏owego funkcjonowania obowiàzkowego systemu rekompensat, o którym mowa w art. 133 ust. 1.
+- **1)** rejestrowanie, zzastrzeżeniem art. 49, zdemateria5) rozliczanie transakcji zawieranych w alternatywnym systemie obrotu w zakresie zdematerializowanych papierów wartościowych;
+- **6)** czynności związane z wycofywaniem papierów wartościowych z depozytu papierów wartościowych;
+- **7)** dokonywanie rozrachunku winstrumentach finansowych i środkach pieniężnych w związku z transakcjami, o których mowa w pkt 4 i 5;
+- **8)** prowadzenie systemu zabezpieczania płynności rozliczeń, w tym systemu gwarantowania rozliczeń transakcji zawartych na rynku regulowanym giełdowym i pozagiełdowym;
+- **9)** zapewnienie prawidłowego funkcjonowania obowiązkowego systemu rekompensat, o którym mowa w art. 133 ust. 1.
 
-3. Krajowy Depozyt mo˝e równie˝: lizowanych papierów wartoÊciowych oraz innych instrumentów finansowych nieb´dàcych papierami wartoÊciowymi, które zosta∏y dopuszczone do obrotu na rynku regulowanym gie∏dowym lub pozagie∏dowym lub wprowadzone do alternatywnego systemu obrotu;
+3. Krajowy Depozyt może również: lizowanych papierów wartościowych oraz innych instrumentów finansowych niebędących papierami wartościowymi, które zostały dopuszczone do obrotu na rynku regulowanym giełdowym lub pozagiełdowym lub wprowadzone do alternatywnego systemu obrotu;
 
-- **2)** nadzorowanie zgodnoÊci wielkoÊci emisji z liczbà papierów wartoÊciowych, zarejestrowanych wdepozycie papierów wartoÊciowych, znajdujàcych si´ w obrocie;
-- **3)** obs∏uga realizacji zobowiàzaƒ emitentów wobec uprawnionych z papierów wartoÊciowych zarejestrowanych w depozycie papierów wartoÊciowych;
-- **4)** rozliczanie, z zastrze˝eniem art. 49, transakcji zawieranych na rynku regulowanym gie∏dowym i pozagie∏dowym;
-- **1)** rejestrowaç inne instrumenty finansowe ni˝ okreÊlone w ust. 2 pkt 1;
-- **2)** dokonywaç rozliczenia i rozrachunku transakcji innych ni˝ okreÊlone w ust. 2 pkt 4 i 5, w tym w szczególnoÊci transakcji zawieranych na towarowym rynku instrumentów finansowych;
-- **3)** prowadziç system zabezpieczenia p∏ynnoÊci rozliczeƒ transakcji, o których mowa w pkt 2.
+- **2)** nadzorowanie zgodności wielkości emisji z liczbą papierów wartościowych, zarejestrowanych wdepozycie papierów wartościowych, znajdujących się w obrocie;
+- **3)** obsługa realizacji zobowiązań emitentów wobec uprawnionych z papierów wartościowych zarejestrowanych w depozycie papierów wartościowych;
+- **4)** rozliczanie, z zastrzeżeniem art. 49, transakcji zawieranych na rynku regulowanym giełdowym i pozagiełdowym;
+- **1)** rejestrować inne instrumenty finansowe niż określone w ust. 2 pkt 1;
+- **2)** dokonywać rozliczenia i rozrachunku transakcji innych niż określone w ust. 2 pkt 4 i 5, w tym w szczególności transakcji zawieranych na towarowym rynku instrumentów finansowych;
+- **3)** prowadzić system zabezpieczenia płynności rozliczeń transakcji, o których mowa w pkt 2.
 
-4. Krajowy Depozyt mo˝e obs∏ugiwaç obrót papierami wartoÊciowymi innymi ni˝ zdematerializowane. Do obs∏ugi tej stosuje si´ odpowiednio przepisy dotyczàce prowadzenia depozytu papierów wartoÊciowych, chyba ˝e ustawa stanowi inaczej.
+4. Krajowy Depozyt może obsługiwać obrót papierami wartościowymi innymi niż zdematerializowane. Do obsługi tej stosuje się odpowiednio przepisy dotyczące prowadzenia depozytu papierów wartościowych, chyba że ustawa stanowi inaczej.
 
-5. Krajowy Depozyt mo˝e prowadziç rachunki pieni´˝ne, dokonywaç rozliczeƒ pieni´˝nych, udzielaç po˝yczek oraz uczestniczyç w rozrachunkach dokonywanych przez Narodowy Bank Polski na zasadach stosowanych w przypadku rozrachunków mi´dzybankowych, wzakresie niezb´dnym do realizacji zadaƒ okreÊlonych w ust. 1—3.
+5. Krajowy Depozyt może prowadzić rachunki pieniężne, dokonywać rozliczeń pieniężnych, udzielać pożyczek oraz uczestniczyć w rozrachunkach dokonywanych przez Narodowy Bank Polski na zasadach stosowanych w przypadku rozrachunków międzybankowych, wzakresie niezbędnym do realizacji zadań określonych w ust. 1—3.
 
-6. Zadania okreÊlone wust. 2 pkt 1, 2 i9 mo˝e wykonywaç wy∏àcznie Krajowy Depozyt.
+6. Zadania określone wust. 2 pkt 1, 2 i9 może wykonywać wyłącznie Krajowy Depozyt.
 
-7. Za zgodà Komisji Krajowy Depozyt mo˝e powierzyç innemu podmiotowi, w drodze umowy, wykonywanie niektórych czynnoÊci zwiàzanych zrealizacjà zadaƒ, o których mowa w ust. 2 pkt 3—5.
+7. Za zgodą Komisji Krajowy Depozyt może powierzyć innemu podmiotowi, w drodze umowy, wykonywanie niektórych czynności związanych zrealizacją zadań, o których mowa w ust. 2 pkt 3—5.
 
-8. Krajowy Depozyt, w zakresie okreÊlonym w umowie, sprawuje nadzór nad dzia∏alnoÊcià podmiotu, o którym mowa w ust. 7, a w szczególnoÊci okreÊla zasady i tryb wykonywania powierzonych czynnoÊci, zakres tych czynnoÊci i kontroluje sposób ich wykonywania.
+8. Krajowy Depozyt, w zakresie określonym w umowie, sprawuje nadzór nad działalnością podmiotu, o którym mowa w ust. 7, a w szczególności określa zasady i tryb wykonywania powierzonych czynności, zakres tych czynności i kontroluje sposób ich wykonywania.
 
-9. Komisja cofa zgod´, je˝eli dalsze wykonywanie powierzonych czynnoÊci mog∏oby zagroziç bezpieczeƒstwu obrotu albo w przypadku rozwiàzania umowy, o której mowa w ust. 7.
+9. Komisja cofa zgodę, jeżeli dalsze wykonywanie powierzonych czynności mogłoby zagrozić bezpieczeństwu obrotu albo w przypadku rozwiązania umowy, o której mowa w ust. 7.
 
-10. Rozliczeniem, o którym mowa w ust. 1, jest ustalenie wysokoÊci Êwiadczeƒ pieni´˝nych i niepieni´˝nych wynikajàcych z zawartych transakcji, do spe∏nienia których zobowiàzani sà uczestnicy Krajowego Depozytu, zwani dalej „uczestnikami”, b´dàcy stronami tych transakcji lub inni uczestnicy, którzy zobowiàzali si´ do wype∏niania obowiàzków w zwiàzku z takimi rozliczeniami (strony rozliczenia).
+10. Rozliczeniem, o którym mowa w ust. 1, jest ustalenie wysokości świadczeń pieniężnych i niepieniężnych wynikających z zawartych transakcji, do spełnienia których zobowiązani są uczestnicy Krajowego Depozytu, zwani dalej Ńuczestnikami”, będący stronami tych transakcji lub inni uczestnicy, którzy zobowiązali się do wypełniania obowiązków w związku z takimi rozliczeniami (strony rozliczenia).
 
-11. Rozrachunkiem, o którym mowa w ust. 1, jest obcià˝enie lub uznanie konta depozytowego lub rachunku papierów wartoÊciowych prowadzonego przez Krajowy Depozyt odpowiednio w zwiàzku ztransakcjà zbycia lub nabycia instrumentów finansowych, a tak˝e, odpowiednio do ustalonych w trakcie rozliczenia kwot Êwiadczeƒ, uznanie lub obcià˝enie rachunku bankowego wskazanego przez uczestnika b´dàcego stronà rozliczenia.
+11. Rozrachunkiem, o którym mowa w ust. 1, jest obciążenie lub uznanie konta depozytowego lub rachunku papierów wartościowych prowadzonego przez Krajowy Depozyt odpowiednio w związku ztransakcją zbycia lub nabycia instrumentów finansowych, a także, odpowiednio do ustalonych w trakcie rozliczenia kwot świadczeń, uznanie lub obciążenie rachunku bankowego wskazanego przez uczestnika będącego stroną rozliczenia.
 
-**Art. 49.** Rejestracja irozliczanie transakcji wzakresie papierów wartoÊciowych:
+**Art. 49.** Rejestracja irozliczanie transakcji wzakresie papierów wartościowych:
 
 **Art. 50.**
 
-1. Rada nadzorcza Krajowego Depozytu, na wniosek zarzàdu, uchwala regulamin Krajowego Depozytu.
+1. Rada nadzorcza Krajowego Depozytu, na wniosek zarządu, uchwala regulamin Krajowego Depozytu.
 
-2. Regulamin Krajowego Depozytu i jego zmiany sà zatwierdzane przez Komisj´.
+2. Regulamin Krajowego Depozytu i jego zmiany są zatwierdzane przez Komisję.
 
-3. Komisja odmawia zatwierdzenia zmian regulaminu Krajowego Depozytu, je˝eli proponowane zmiany sà sprzeczne z przepisami prawa lub mog∏yby naruszyç bezpieczeƒstwo obrotu.
+3. Komisja odmawia zatwierdzenia zmian regulaminu Krajowego Depozytu, jeżeli proponowane zmiany są sprzeczne z przepisami prawa lub mogłyby naruszyć bezpieczeństwo obrotu.
 
-4. Regulamin Krajowego Depozytu okreÊla w szczególnoÊci:
+4. Regulamin Krajowego Depozytu określa w szczególności:
 
-- **1)** prawa iobowiàzki uczestników, tryb iszczegó∏owe zasady post´powania w zwiàzku z nabywaniem lub utratà statusu uczestnika;
-- **2)** sposób rejestracji instrumentów finansowych w Krajowym Depozycie, jak równie˝ prowadzenia przez uczestników rachunków papierów wartoÊciowych iinnych rachunków zwiàzanych zobs∏ugà rachunków papierów wartoÊciowych;
-- **3)** zasady dokonywania redukcji wartoÊci lub liczby akcji oraz tryb dokonywania przez emitenta zwro6) sposób obs∏ugi realizacji zobowiàzaƒ emitentów wobec uprawnionych z papierów wartoÊciowych;
-- **7)** tryb wystawiania Êwiadectw przez Krajowy Depozyt;
-- **8)** sposób naliczania iwysokoÊç op∏at, októrych mowa w art. 63;
-- **9)** Êrodki dyscyplinujàce i porzàdkowe, które mogà byç stosowane wobec uczestników naruszajàcych obowiàzki wynikajàce z uczestnictwa, oraz zasady i tryb ich stosowania;
-- **10)** sposób post´powania iÊrodki stosowane wzwiàzku z:
-    - **a)** nadzorem nad zgodnoÊcià wielkoÊci emisji rejestrowanej przez Krajowy Depozyt zliczbà papierów wartoÊciowych znajdujàcych si´ wobrocie,
-    - **b)** kontrolà uczestników w zakresie podejmowanych przez nich czynnoÊci w obrocie papierami wartoÊciowymi;
+- **1)** prawa iobowiązki uczestników, tryb iszczegółowe zasady postępowania w związku z nabywaniem lub utratą statusu uczestnika;
+- **2)** sposób rejestracji instrumentów finansowych w Krajowym Depozycie, jak również prowadzenia przez uczestników rachunków papierów wartościowych iinnych rachunków związanych zobsługą rachunków papierów wartościowych;
+- **3)** zasady dokonywania redukcji wartości lub liczby akcji oraz tryb dokonywania przez emitenta zwro6) sposób obsługi realizacji zobowiązań emitentów wobec uprawnionych z papierów wartościowych;
+- **7)** tryb wystawiania świadectw przez Krajowy Depozyt;
+- **8)** sposób naliczania iwysokość opłat, októrych mowa w art. 63;
+- **9)** środki dyscyplinujące i porządkowe, które mogą być stosowane wobec uczestników naruszających obowiązki wynikające z uczestnictwa, oraz zasady i tryb ich stosowania;
+- **10)** sposób postępowania iśrodki stosowane wzwiązku z:
+    - **a)** nadzorem nad zgodnością wielkości emisji rejestrowanej przez Krajowy Depozyt zliczbą papierów wartościowych znajdujących się wobrocie,
+    - **b)** kontrolą uczestników w zakresie podejmowanych przez nich czynności w obrocie papierami wartościowymi;
 
-- **11)** sposób funkcjonowania systemu rozliczeƒ i rozrachunku;
-- **12)** sposób organizacji systemu zabezpieczenia p∏ynnoÊci rozliczania transakcji, w szczególnoÊci okreÊlajàcy system gwarantowania rozliczeƒ transakcji zawieranych na rynku regulowanym gie∏dowym i pozagie∏dowym;
-- **13)** zasady funkcjonowania zespo∏u doradczego, októrym mowa wart. 46 ust. 5.
+- **11)** sposób funkcjonowania systemu rozliczeń i rozrachunku;
+- **12)** sposób organizacji systemu zabezpieczenia płynności rozliczania transakcji, w szczególności określający system gwarantowania rozliczeń transakcji zawieranych na rynku regulowanym giełdowym i pozagiełdowym;
+- **13)** zasady funkcjonowania zespołu doradczego, októrym mowa wart. 46 ust. 5.
 
-5. Regulamin Krajowego Depozytu, jego zmiany oraz inne, wydane na podstawie regulaminu regulacje dotyczàce praw i obowiàzków uczestników, Krajowy Depozyt udost´pnia do wiadomoÊci uczestników co najmniej na 2 tygodnie przed dniem ich wejÊcia w ˝ycie.
+5. Regulamin Krajowego Depozytu, jego zmiany oraz inne, wydane na podstawie regulaminu regulacje dotyczące praw i obowiązków uczestników, Krajowy Depozyt udostępnia do wiadomości uczestników co najmniej na 2 tygodnie przed dniem ich wejścia w życie.
 
-6. W przypadku, je˝eli zmiany regulaminu Krajowego Depozytu nie ograniczajà praw ani nie zwi´kszajà obowiàzków uczestników, Komisja mo˝e zezwoliç na skrócenie czasu ich wejÊcia w ˝ycie.
+6. W przypadku, jeżeli zmiany regulaminu Krajowego Depozytu nie ograniczają praw ani nie zwiększają obowiązków uczestników, Komisja może zezwolić na skrócenie czasu ich wejścia w życie.
 
 **Art. 51.**
 
-1. Zadania, októrych mowa wart. 48 ust.1 i 2, Krajowy Depozyt wykonuje wspó∏dzia∏ajàc z uczestnikami.
+1. Zadania, októrych mowa wart. 48 ust.1 i 2, Krajowy Depozyt wykonuje współdziałając z uczestnikami.
 
-2. Uczestnikami mogà byç wy∏àcznie podmioty, których przedmiot przedsi´biorstwa obejmuje prowadzenie rachunków papierów wartoÊciowych, emitenci zdematerializowanych papierów wartoÊciowych, jak równie˝ inne instytucje finansowe, je˝eli ich uczestnictwo ma na celu wspó∏dzia∏anie z Krajowym Depozytem wzakresie wykonywania zadaƒ Krajowego Depotu wartoÊci akcji w zakresie przeprowadzonej re- zytu. dukcji, w przypadku o którym mowa w art. 56; 3. Uczestnikami mogà byç równie˝ osoby prawne
+2. Uczestnikami mogą być wyłącznie podmioty, których przedmiot przedsiębiorstwa obejmuje prowadzenie rachunków papierów wartościowych, emitenci zdematerializowanych papierów wartościowych, jak również inne instytucje finansowe, jeżeli ich uczestnictwo ma na celu współdziałanie z Krajowym Depozytem wzakresie wykonywania zadań Krajowego Depotu wartości akcji w zakresie przeprowadzonej re- zytu. dukcji, w przypadku o którym mowa w art. 56; 3. Uczestnikami mogą być również osoby prawne
 
-- **4)** sposób i tryb rozliczania transakcji; lub inne jednostki organizacyjne z siedzibà poza terytorium Rzeczypospolitej Polskiej, wykonujàce zadania
-- **5)** sposób obs∏ugi rachunków pieni´˝nych uczestni- w zakresie centralnej rejestracji papierów wartoÊcioków; wych lub rozliczania transakcji zawieranych wobrocie papierami wartoÊciowymi, z zastrze˝eniem ˝e podmioty, których dzia∏alnoÊç nie podlega nadzorowi w∏aÊciwego organu sprawujàcego nadzór nad instytucjami finansowymi w paƒstwie cz∏onkowskim albo w paƒstwie nale˝àcym do OECD, mogà byç uczestnikami za zgodà i na warunkach okreÊlonych przez Komisj´.
+- **4)** sposób i tryb rozliczania transakcji; lub inne jednostki organizacyjne z siedzibą poza terytorium Rzeczypospolitej Polskiej, wykonujące zadania
+- **5)** sposób obsługi rachunków pieniężnych uczestni- w zakresie centralnej rejestracji papierów wartościoków; wych lub rozliczania transakcji zawieranych wobrocie papierami wartościowymi, z zastrzeżeniem że podmioty, których działalność nie podlega nadzorowi właściwego organu sprawującego nadzór nad instytucjami finansowymi w państwie członkowskim albo w państwie należącym do OECD, mogą być uczestnikami za zgodą i na warunkach określonych przez Komisję.
 
-4. Uczestnikami mogà byç tak˝e zagraniczne firmy inwestycyjne oraz zagraniczne osoby prawne prowadzàce dzia∏alnoÊç maklerskà na terytorium Rzeczypospolitej Polskiej.
+4. Uczestnikami mogą być także zagraniczne firmy inwestycyjne oraz zagraniczne osoby prawne prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 52.**
 
-1. Uczestnictwo powstaje przez zawarcie z Krajowym Depozytem umowy o uczestnictwo w depozycie papierów wartoÊciowych, zwanej dalej „umowà o uczestnictwo”.
+1. Uczestnictwo powstaje przez zawarcie z Krajowym Depozytem umowy o uczestnictwo w depozycie papierów wartościowych, zwanej dalej Ńumową o uczestnictwo”.
 
-2. Podmiotowi, który uzyska∏ zgod´ Komisji na prowadzenie rachunków papierów wartoÊciowych lub który prowadzi rachunki papierów wartoÊciowych na podstawie art. 117 i spe∏nia wymogi okreÊlone w regulaminie Krajowego Depozytu, przys∏uguje roszczenie o zawarcie umowy o uczestnictwo.
+2. Podmiotowi, który uzyskał zgodę Komisji na prowadzenie rachunków papierów wartościowych lub który prowadzi rachunki papierów wartościowych na podstawie art. 117 i spełnia wymogi określone w regulaminie Krajowego Depozytu, przysługuje roszczenie o zawarcie umowy o uczestnictwo.
 
-3. Zawarcie umowy o uczestnictwo nast´puje przez z∏o˝enie oÊwiadczenia o zamiarze jej zawarcia przez podmiot uprawniony, w terminie 2 tygodni od dnia z∏o˝enia tego oÊwiadczenia, chyba ˝e zarzàd Krajowego Depozytu podejmie w tym terminie uchwa∏´ o odmowie jej zawarcia.
+3. Zawarcie umowy o uczestnictwo następuje przez złożenie oświadczenia o zamiarze jej zawarcia przez podmiot uprawniony, w terminie 2 tygodni od dnia złożenia tego oświadczenia, chyba że zarząd Krajowego Depozytu podejmie w tym terminie uchwałę o odmowie jej zawarcia.
 
-4. Od uchwa∏y zarzàdu odmawiajàcej zawarcia umowy o uczestnictwo przys∏uguje odwo∏anie do rady nadzorczej Krajowego Depozytu. Rada nadzorcza rozpatruje odwo∏anie wterminie 2 tygodni od dnia jego z∏o˝enia.
+4. Od uchwały zarządu odmawiającej zawarcia umowy o uczestnictwo przysługuje odwołanie do rady nadzorczej Krajowego Depozytu. Rada nadzorcza rozpatruje odwołanie wterminie 2 tygodni od dnia jego złożenia.
 
 **Art. 53.**
 
-1. W razie ograniczenia albo pozbawienia uczestnictwa danego podmiotu w Krajowym Depozycie, w przypadkach okreÊlonych w regulaminie Krajowego Depozytu, spó∏ka prowadzàca gie∏d´ oraz spó∏ka prowadzàca rynek pozagie∏dowy sà obowiàzane do ograniczenia albo zawieszenia dzia∏ania uczestnika na rynku regulowanym, chyba ˝e inny uczestnik b´dzie wykonywa∏ zadania zwiàzane zrozliczaniem transakcji.
+1. W razie ograniczenia albo pozbawienia uczestnictwa danego podmiotu w Krajowym Depozycie, w przypadkach określonych w regulaminie Krajowego Depozytu, spółka prowadząca giełdę oraz spółka prowadząca rynek pozagiełdowy są obowiązane do ograniczenia albo zawieszenia działania uczestnika na rynku regulowanym, chyba że inny uczestnik będzie wykonywał zadania związane zrozliczaniem transakcji.
 
-2. O ograniczeniu albo pozbawieniu uczestnictwa Krajowy Depozyt informuje niezw∏ocznie spó∏k´ prowadzàcà gie∏d´ oraz spó∏k´ prowadzàcà rynek pozagie∏dowy.
+2. O ograniczeniu albo pozbawieniu uczestnictwa Krajowy Depozyt informuje niezwłocznie spółkę prowadzącą giełdę oraz spółkę prowadzącą rynek pozagiełdowy.
 
-**Art. 54.** Krajowy Depozyt w zwiàzku z wykonywaniem zadaƒ, o których mowa w art. 48 ust. 2 pkt 3 i 6, mo˝e otrzymywaç od uczestników dane umo˝liwiajàce identyfikacj´ ich klientów uprawnionych z okreÊlonych papierów wartoÊciowych oraz wskazujàce stany ich posiadania w tych papierach wartoÊciowych, wed∏ug stanu na dany dzieƒ, a w zwiàzku z wykonywaniem zadaƒ, októrych mowa wart. 48 ust. 2 pkt 8, Krajowy Depozyt mo˝e ˝àdaç od uczestnika przekazania tych danych oraz tych stanów.
+**Art. 54.** Krajowy Depozyt w związku z wykonywaniem zadań, o których mowa w art. 48 ust. 2 pkt 3 i 6, może otrzymywać od uczestników dane umożliwiające identyfikację ich klientów uprawnionych z określonych papierów wartościowych oraz wskazujące stany ich posiadania w tych papierach wartościowych, według stanu na dany dzień, a w związku z wykonywaniem zadań, októrych mowa wart. 48 ust. 2 pkt 8, Krajowy Depozyt może żądać od uczestnika przekazania tych danych oraz tych stanów.
 
-**Art. 55.** status w obrocie Krajowy Depozyt nadaje odr´bne oznaczenie, zwane dalej „kodem”. 2. Na wniosek emitenta papierom wartoÊciowym ró˝nych emisji dajàcym te same uprawnienia ich posiadaczom i posiadajàcym ten sam status w obrocie Krajowy Depozyt mo˝e nadaç jeden kod, je˝eli uprzednio zawiadomi∏ o tym spó∏k´ prowadzàcà rynek regulowany, na którym papiery te sà przedmiotem obrotu, lub podmiot organizujàcy dla nich alternatywny system obrotu. 3. Emitent nie mo˝e ró˝nicowaç praw z papierów wartoÊciowych oznaczonych tym samym kodem. Zmiana praw z papierów wartoÊciowych oznaczonych tym samym kodem wymaga nadania odr´bnego kodu.
+**Art. 55.** status w obrocie Krajowy Depozyt nadaje odrębne oznaczenie, zwane dalej Ńkodem”. 2. Na wniosek emitenta papierom wartościowym różnych emisji dającym te same uprawnienia ich posiadaczom i posiadającym ten sam status w obrocie Krajowy Depozyt może nadać jeden kod, jeżeli uprzednio zawiadomił o tym spółkę prowadzącą rynek regulowany, na którym papiery te są przedmiotem obrotu, lub podmiot organizujący dla nich alternatywny system obrotu. 3. Emitent nie może różnicować praw z papierów wartościowych oznaczonych tym samym kodem. Zmiana praw z papierów wartościowych oznaczonych tym samym kodem wymaga nadania odrębnego kodu.
 
 **Art. 56.**
 
 1. W przypadku gdy:
 
-- **1)** zosta∏o uchylone postanowienie sàdu o wpisie podwy˝szenia kapita∏u zak∏adowego spó∏ki publicznej do rejestru przedsi´biorców lub
-- **2)** uchwa∏a walnego zgromadzenia o podwy˝szeniu tego kapita∏u zosta∏a uchylona albo stwierdzono jej niewa˝noÊç aakcje wyemitowane wwyniku podwy˝szenia zosta∏y uprzednio obj´te tym samym kodem razem z innymi akcjami tej spó∏ki, w depozycie papierów wartoÊciowych przeprowadzana jest redukcja wartoÊci nominalnej wszystkich akcji oznaczonych tym kodem.
+- **1)** zostało uchylone postanowienie sądu o wpisie podwyższenia kapitału zakładowego spółki publicznej do rejestru przedsiębiorców lub
+- **2)** uchwała walnego zgromadzenia o podwyższeniu tego kapitału została uchylona albo stwierdzono jej nieważność aakcje wyemitowane wwyniku podwyższenia zostały uprzednio objęte tym samym kodem razem z innymi akcjami tej spółki, w depozycie papierów wartościowych przeprowadzana jest redukcja wartości nominalnej wszystkich akcji oznaczonych tym kodem.
 
-2. Je˝eli nie jest mo˝liwe przeprowadzenie redukcji, o której mowa w ust. 1, w depozycie papierów wartoÊciowych przeprowadzana jest redukcja ogólnej liczby akcji oznaczonych danym kodem.
+2. Jeżeli nie jest możliwe przeprowadzenie redukcji, o której mowa w ust. 1, w depozycie papierów wartościowych przeprowadzana jest redukcja ogólnej liczby akcji oznaczonych danym kodem.
 
-3. Na podstawie zawiadomienia o przeprowadzeniu redukcji z∏o˝onego przez Krajowy Depozyt w∏aÊciwy sàd rejestrowy dokonuje odpowiedniej zmiany w rejestrze przedsi´biorców, a nast´pnie wzywa spó∏k´ do dostosowania wokreÊlonym terminie brzmienia statutu do zmienionego stanu prawnego.
+3. Na podstawie zawiadomienia o przeprowadzeniu redukcji złożonego przez Krajowy Depozyt właściwy sąd rejestrowy dokonuje odpowiedniej zmiany w rejestrze przedsiębiorców, a następnie wzywa spółkę do dostosowania wokreślonym terminie brzmienia statutu do zmienionego stanu prawnego.
 
-4. Spó∏ka publiczna jest obowiàzana do zwrotu akcjonariuszom Êrodków uzyskanych w wyniku emisji
+4. Spółka publiczna jest obowiązana do zwrotu akcjonariuszom środków uzyskanych w wyniku emisji
 
-1. Papierom wartoÊciowym danej emisji dajàcym te same uprawnienia iposiadajàcym ten sam akcji, które sà zapisane na rachunkach akcjonariuszy i zosta∏y obj´te redukcjà, o której mowa w ust. 1 i 2. Udzia∏ poszczególnych akcjonariuszy wwartoÊci Êrodków zwracanych przez emitenta jest wyznaczony odpowiednio stosunkiem zredukowanej wartoÊci nominalnej akcji zapisanych na ich rachunkach papierów wartoÊciowych do wartoÊci nominalnej wszystkich akcji b´dàcych przedmiotem redukcji albo stosunkiem liczby akcji zapisanych na ich rachunkach papierów wartoÊciowych, które zosta∏y obj´te redukcjà, do ∏àcznej liczby zredukowanych akcji.
+1. Papierom wartościowym danej emisji dającym te same uprawnienia iposiadającym ten sam akcji, które są zapisane na rachunkach akcjonariuszy i zostały objęte redukcją, o której mowa w ust. 1 i 2. Udział poszczególnych akcjonariuszy wwartości środków zwracanych przez emitenta jest wyznaczony odpowiednio stosunkiem zredukowanej wartości nominalnej akcji zapisanych na ich rachunkach papierów wartościowych do wartości nominalnej wszystkich akcji będących przedmiotem redukcji albo stosunkiem liczby akcji zapisanych na ich rachunkach papierów wartościowych, które zostały objęte redukcją, do łącznej liczby zredukowanych akcji.
 
 **Art. 57.**
 
-1. Rejestracja papierów wartoÊciowych jest prowadzona przez Krajowy Depozyt na:
+1. Rejestracja papierów wartościowych jest prowadzona przez Krajowy Depozyt na:
 
-- **1)** kontach depozytowych, które nie pozwalajà na identyfikacj´ posiadacza rachunku, na którym te papiery zosta∏y zapisane;
-- **2)** rachunkach papierów wartoÊciowych.
+- **1)** kontach depozytowych, które nie pozwalają na identyfikację posiadacza rachunku, na którym te papiery zostały zapisane;
+- **2)** rachunkach papierów wartościowych.
 
-2. Stany na rachunkach papierów wartoÊciowych 2. Ârodki prawne, októrych mowa wust. 1, nie wyprowadzonych przez uczestników powinny byç zgod- wo∏ujà skutków prawnych wobec przedmiotu zabezne ze stanem na odpowiednim koncie depozytowym pieczenia ustanowionego przez uczestnika lub innego prowadzonym w Krajowym Depozycie. podmiotu bezpoÊrednio dzia∏ajàcego na rynku regulowanym na rzecz innego uczestnika lub na rzecz KrajoArt. 58. Zobowiàzanie emitenta opiewajàce na pa- wego Depozytu w ramach systemu zabezpieczania piery wartoÊciowe jest wykonane zchwilà otrzymania p∏ynnoÊci rozliczania transakcji, na zasadach okreÊloÊwiadczenia przez uczestnika prowadzàcego rachunek nych w regulaminie Krajowego Depozytu. papierów wartoÊciowych dla osoby uprawnionej do tego Êwiadczenia, zaÊ opiewajàce na pieniàdze 3. Przepis ust. 1 stosuje si´ tak˝e wprzypadku, gdy z chwilà dokonania przeniesienia Êrodków pieni´˝- system rejestracji papierów wartoÊciowych, októrych nych na rachunek bankowy wskazany przez tego mowa w art. 49, jest prowadzony przez Narodowy uczestnika. Bank Polski.
+2. Stany na rachunkach papierów wartościowych 2. Ârodki prawne, októrych mowa wust. 1, nie wyprowadzonych przez uczestników powinny być zgod- wołują skutków prawnych wobec przedmiotu zabezne ze stanem na odpowiednim koncie depozytowym pieczenia ustanowionego przez uczestnika lub innego prowadzonym w Krajowym Depozycie. podmiotu bezpośrednio działającego na rynku regulowanym na rzecz innego uczestnika lub na rzecz KrajoArt. 58. Zobowiązanie emitenta opiewające na pa- wego Depozytu w ramach systemu zabezpieczania piery wartościowe jest wykonane zchwilą otrzymania płynności rozliczania transakcji, na zasadach określoświadczenia przez uczestnika prowadzącego rachunek nych w regulaminie Krajowego Depozytu. papierów wartościowych dla osoby uprawnionej do tego świadczenia, zaś opiewające na pieniądze 3. Przepis ust. 1 stosuje się także wprzypadku, gdy z chwilą dokonania przeniesienia środków pienięż- system rejestracji papierów wartościowych, októrych nych na rachunek bankowy wskazany przez tego mowa w art. 49, jest prowadzony przez Narodowy uczestnika. Bank Polski.
 
 **Art. 59.**
 
-1. Organizujàc i prowadzàc rozliczanie Art. 62. 1. W przypadku braku Êrodków na koncie transakcji, o których mowa w art. 48 ust. 2 pkt 4, Kra- depozytowym, rachunku bankowym wskazanym jowy Depozyt okreÊla wszczególnoÊci zakres obowiàz- przez stron´ rozliczenia, rachunku papierów wartoków stron transakcji lub stron rozliczenia w przypad- Êciowych lub rachunku pieni´˝nym uczestnika b´dàku, gdy strony transakcji wykonujà swoje zobowiàza- cego stronà transakcji albo stronà rozliczenia potrzebnia poprzez inne podmioty, w celu prawid∏owego nych na rozliczenie transakcji, Krajowy Depozyt okrespe∏nienia przez strony Êwiadczeƒ pieni´˝nych lub Êla transakcje, których rozliczenia ulegajà zawieszeniu. niepieni´˝nych, wynikajàcych z zawartych transakcji.
+1. Organizując i prowadząc rozliczanie Art. 62. 1. W przypadku braku środków na koncie transakcji, o których mowa w art. 48 ust. 2 pkt 4, Kra- depozytowym, rachunku bankowym wskazanym jowy Depozyt określa wszczególności zakres obowiąz- przez stronę rozliczenia, rachunku papierów wartoków stron transakcji lub stron rozliczenia w przypad- ściowych lub rachunku pieniężnym uczestnika będąku, gdy strony transakcji wykonują swoje zobowiąza- cego stroną transakcji albo stroną rozliczenia potrzebnia poprzez inne podmioty, w celu prawidłowego nych na rozliczenie transakcji, Krajowy Depozyt okrespełnienia przez strony świadczeń pieniężnych lub śla transakcje, których rozliczenia ulegają zawieszeniu. niepieniężnych, wynikających z zawartych transakcji.
 
 2. System gwarantowania, o którym mowa
 
-2. Krajowy Depozyt organizuje i zarzàdza syste- w art.59 ust. 2, mo˝e przewidywaç niespe∏nienie mem gwarantujàcym prawid∏owe wykonanie zobo- Êwiadczeƒ na rzecz uczestnika, który spowodowa∏ zawiàzaƒ wynikajàcych z transakcji. wieszenie rozliczenia transakcji.
+2. Krajowy Depozyt organizuje i zarządza syste- w art.59 ust. 2, może przewidywać niespełnienie mem gwarantującym prawidłowe wykonanie zobo- świadczeń na rzecz uczestnika, który spowodował zawiązań wynikających z transakcji. wieszenie rozliczenia transakcji.
 
-3. Krajowy Depozyt mo˝e wystàpiç jako strona Art. 63. Krajowy Depozyt pobiera op∏aty za czyntransakcji zawartej na rynku regulowanym gie∏dowym lub pozagie∏dowym, wy∏àcznie w zwiàzku z wykorzy- noÊci dokonywane na rzecz uczestników. staniem Êrodków systemu, o którym mowa w ust. 2, zgodnie z jego celem. Art. 64.1. Przewodniczàcy Komisji lub osoba przez niego upowa˝niona ma prawo:
+3. Krajowy Depozyt może wystąpić jako strona Art. 63. Krajowy Depozyt pobiera opłaty za czyntransakcji zawartej na rynku regulowanym giełdowym lub pozagiełdowym, wyłącznie w związku z wykorzy- ności dokonywane na rzecz uczestników. staniem środków systemu, o którym mowa w ust. 2, zgodnie z jego celem. Art. 64.1. Przewodniczący Komisji lub osoba przez niego upoważniona ma prawo:
 
-**Art. 60.** Je˝eli sposób rozliczenia transakcji polega na spe∏nianiu przez stron´ transakcji albo stron´ rozli- 1) wst´pu do siedziby Krajowego Depozytu celem czenia Êwiadczenia wwysokoÊci stanowiàcej nadwy˝- wglàdu do ksiàg, dokumentów i innych noÊników k´ ponad wartoÊç nale˝nego jej Êwiadczenia pieni´˝- informacji; nego lub niepieni´˝nego, obowiàzek spe∏nienia przez 2) uczestniczyç wposiedzeniach rady nadzorczej Krauczestnika Êwiadczenia w tej wysokoÊci powstaje jowego Depozytu oraz w walnych zgromadzez chwilà zawarcia transakcji; nie wy∏àcza to mo˝liwo- niach. Êci ustalenia innej wysokoÊci Êwiadczenia w przypadkach okreÊlonych w art. 62. 2. Na ˝àdanie Przewodniczàcego Komisji lub osoArt. 61. 1. Wszcz´cie post´powania upad∏oÊciowe- by przez niego upowa˝nionej, osoby uprawnione do go, naprawczego, egzekucyjnego lub otwarcie likwi- reprezentowania Krajowego Depozytu lub wchodzàce dacji, a tak˝e podj´cie innych Êrodków prawnych wsk∏ad jego zarzàdu irady nadzorczej albo pozostajàwzgl´dem uczestnika lub innego podmiotu dzia∏ajàcego bezpoÊrednio na rynku regulowanym, skutkujàcych zawieszeniem lub zaprzestaniem dokonywania przez niego sp∏aty zad∏u˝eƒ albo ograniczajàcych jego zdolnoÊç wzakresie swobodnego rozporzàdzania mieniem, w tym zawieszenie dzia∏alnoÊci banku w trybie okreÊlonym przepisami ustawy z dnia 29 sierpnia 1997r. Prawo bankowe, nie wywo∏uje skutków prawnych wobec Êrodków znajdujàcych si´ na koncie depozytowym, rachunku papierów wartoÊciowych, rachunku pieni´˝nym lub rachunku bankowym tego uczestnika lub innego podmiotu dzia∏ajàcego na rynku regulowanym s∏u˝àcym do realizacji rozliczeƒ transakcji wzakresie, wjakim Êrodki te sà potrzebne do rozliczenia transakcji w Krajowym Depozycie, chocia˝by post´powanie zosta∏o wszcz´te, likwidacja otwarta lub inny Êrodek prawny zosta∏ podj´ty przed jej rozliczeniem. ce z nim w stosunku prac sà obowiàzane do niezw∏ocznego sporzàdzenia iprzekazania, na koszt spó∏ki, kopii dokumentów i innych noÊników informacji oraz do udzielenia pisemnych lub ustnych wyjaÊnieƒ. 3. Obowiàzek, o którym mowa w ust. 2, spoczywa równie˝ na bieg∏ym rewidencie oraz osobach uprawnionych do reprezentowania podmiotu uprawnionego do badania sprawozdaƒ finansowych lub pozostajàcych z tym podmiotem w stosunku pracy w zakresie dotyczàcym czynnoÊci podejmowanych przez te osoby lub podmiot, w zwiàzku z badaniem sprawozdaƒ finansowych Krajowego Depozytu lub Êwiadczeniem na jego rzecz innych us∏ug wymienionych w art.10 ust. 3 ustawy z dnia 13 paêdziernika 1994 r. obieg∏ych rewidentach iich samorzàdzie. Nie narusza to obowiàzku zachowania tajemnicy, o której mowa w art. 4a tej ustawy. 4. Na pisemne ˝àdanie Komisji zarzàd Krajowego Depozytu jest obowiàzany do:
+**Art. 60.** Jeżeli sposób rozliczenia transakcji polega na spełnianiu przez stronę transakcji albo stronę rozli- 1) wstępu do siedziby Krajowego Depozytu celem czenia świadczenia wwysokości stanowiącej nadwyż- wglądu do ksiąg, dokumentów i innych nośników kę ponad wartość należnego jej świadczenia pienięż- informacji; nego lub niepieniężnego, obowiązek spełnienia przez 2) uczestniczyć wposiedzeniach rady nadzorczej Krauczestnika świadczenia w tej wysokości powstaje jowego Depozytu oraz w walnych zgromadzez chwilą zawarcia transakcji; nie wyłącza to możliwo- niach. ści ustalenia innej wysokości świadczenia w przypadkach określonych w art. 62. 2. Na żądanie Przewodniczącego Komisji lub osoArt. 61. 1. Wszczęcie postępowania upadłościowe- by przez niego upoważnionej, osoby uprawnione do go, naprawczego, egzekucyjnego lub otwarcie likwi- reprezentowania Krajowego Depozytu lub wchodzące dacji, a także podjęcie innych środków prawnych wskład jego zarządu irady nadzorczej albo pozostająwzględem uczestnika lub innego podmiotu działającego bezpośrednio na rynku regulowanym, skutkujących zawieszeniem lub zaprzestaniem dokonywania przez niego spłaty zadłużeń albo ograniczających jego zdolność wzakresie swobodnego rozporządzania mieniem, w tym zawieszenie działalności banku w trybie określonym przepisami ustawy z dnia 29 sierpnia 1997r. Prawo bankowe, nie wywołuje skutków prawnych wobec środków znajdujących się na koncie depozytowym, rachunku papierów wartościowych, rachunku pieniężnym lub rachunku bankowym tego uczestnika lub innego podmiotu działającego na rynku regulowanym służącym do realizacji rozliczeń transakcji wzakresie, wjakim środki te są potrzebne do rozliczenia transakcji w Krajowym Depozycie, chociażby postępowanie zostało wszczęte, likwidacja otwarta lub inny środek prawny został podjęty przed jej rozliczeniem. ce z nim w stosunku prac są obowiązane do niezwłocznego sporządzenia iprzekazania, na koszt spółki, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień. 3. Obowiązek, o którym mowa w ust. 2, spoczywa również na biegłym rewidencie oraz osobach uprawnionych do reprezentowania podmiotu uprawnionego do badania sprawozdań finansowych lub pozostających z tym podmiotem w stosunku pracy w zakresie dotyczącym czynności podejmowanych przez te osoby lub podmiot, w związku z badaniem sprawozdań finansowych Krajowego Depozytu lub świadczeniem na jego rzecz innych usług wymienionych w art.10 ust. 3 ustawy z dnia 13 paêdziernika 1994 r. obiegłych rewidentach iich samorządzie. Nie narusza to obowiązku zachowania tajemnicy, o której mowa w art. 4a tej ustawy. 4. Na pisemne żądanie Komisji zarząd Krajowego Depozytu jest obowiązany do:
 
 **Art. 65.**
 
-1. Uczestnicy sà obowiàzani do wnoszenia do Krajowego Depozytu wp∏at, z których tworzy si´ fundusz zabezpieczajàcy prawid∏owe rozliczenie zawartych transakcji, zwany dalej „funduszem rozliczeniowym”.
+1. Uczestnicy są obowiązani do wnoszenia do Krajowego Depozytu wpłat, z których tworzy się fundusz zabezpieczający prawidłowe rozliczenie zawartych transakcji, zwany dalej Ńfunduszem rozliczeniowym”.
 
-2. Fundusz rozliczeniowy zapewnia rozliczanie transakcji zawieranych na rynku regulowanym, w zaArt. 67. 1. Masa majàtkowa funduszu rozliczeniowego stanowi wspó∏w∏asnoÊç ∏àcznà uczestników. Nie wy∏àcza to mo˝liwoÊci indywidualnego okreÊlania obowiàzków uczestnika w zwiàzku z wykorzystaniem funduszu rozliczeniowego, spowodowanym przez dzia∏ania tego uczestnika.
+2. Fundusz rozliczeniowy zapewnia rozliczanie transakcji zawieranych na rynku regulowanym, w zaArt. 67. 1. Masa majątkowa funduszu rozliczeniowego stanowi współwłasność łączną uczestników. Nie wyłącza to możliwości indywidualnego określania obowiązków uczestnika w związku z wykorzystaniem funduszu rozliczeniowego, spowodowanym przez działania tego uczestnika.
 
-2. Fundusz rozliczeniowy mo˝e sk∏adaç si´ zwyodr´bnionych funkcjonalnie cz´Êci, z których ka˝da zawiera Êrodki przeznaczone na zabezpieczenie rozliczenia transakcji zawieranych na poszczególnych rynkach lub na zabezpieczenie rozliczenia okreÊlonych rodzajów transakcji.
+2. Fundusz rozliczeniowy może składać się zwyodrębnionych funkcjonalnie części, z których każda zawiera środki przeznaczone na zabezpieczenie rozliczenia transakcji zawieranych na poszczególnych rynkach lub na zabezpieczenie rozliczenia określonych rodzajów transakcji.
 
-3. Do Êrodków funduszu rozliczeniowego stosuje si´ odpowiednio przepisy art. 61.
+3. Do środków funduszu rozliczeniowego stosuje się odpowiednio przepisy art. 61.
 
-**Art. 68.** Krajowy Depozyt mo˝e równie˝ na podstawie umowy z podmiotem organizujàcym alternatywny system obrotu prowadziç fundusz zabezpieczajàcy prawid∏owe rozliczanie transakcji w tym obrocie. DZIA¸ IV Uczestnictwo w obrocie instrumentami finansowymi Rozdzia∏ 1 Prowadzenie dzia∏alnoÊci przez firmy inwestycyjne kresie okreÊlonym w regulaminie funduszu rozliczeniowego. 3. Krajowy Depozyt mo˝e zarzàdzaç Êrodkami funduszu rozliczeniowego.
+**Art. 68.** Krajowy Depozyt może również na podstawie umowy z podmiotem organizującym alternatywny system obrotu prowadzić fundusz zabezpieczający prawidłowe rozliczanie transakcji w tym obrocie. DZIAĘ IV Uczestnictwo w obrocie instrumentami finansowymi
+
+#### Rozdział 1 Prowadzenie działalności przez firmy inwestycyjne kresie określonym w regulaminie funduszu rozliczeniowego.
 
 **Art. 66.**
 
-1. WysokoÊç wp∏at na fundusz rozliczeniowy okreÊla Krajowy Depozyt w zale˝noÊci od poziomu zobowiàzaƒ, które mogà powstaç wwyniku rozliczanej przez niego dzia∏alnoÊci uczestnika wzakresie wskazanym w art. 65 ust. 2. WysokoÊç wp∏at mo˝e byç równie˝ uzale˝niona od sytuacji finansowej uczestnika.
+1. Wysokość wpłat na fundusz rozliczeniowy określa Krajowy Depozyt w zależności od poziomu zobowiązań, które mogą powstać wwyniku rozliczanej przez niego działalności uczestnika wzakresie wskazanym w art. 65 ust. 2. Wysokość wpłat może być również uzależniona od sytuacji finansowej uczestnika.
 
-2. Rada nadzorcza Krajowego Depozytu, na wniosek zarzàdu, uchwala regulamin okreÊlajàcy sposób tworzenia i wykorzystywania funduszu rozliczeniowego. Regulamin i jego zmiany podlegajà zatwierdzeniu przez Komisj´.
+2. Rada nadzorcza Krajowego Depozytu, na wniosek zarządu, uchwala regulamin określający sposób tworzenia i wykorzystywania funduszu rozliczeniowego. Regulamin i jego zmiany podlegają zatwierdzeniu przez Komisję.
 
 **Art. 69.**
 
-1. Prowadzenie dzia∏alnoÊci maklerskiej wymaga zezwolenia Komisji wydanego na wniosek, októrym mowa wart. 82, z∏o˝ony przez zainteresowany podmiot.
+1. Prowadzenie działalności maklerskiej wymaga zezwolenia Komisji wydanego na wniosek, októrym mowa wart. 82, złożony przez zainteresowany podmiot.
 
-2. Dzia∏alnoÊç maklerska, z zastrze˝eniem art. 70 i 71, obejmuje wykonywanie czynnoÊci polegajàcych na:
+2. Działalność maklerska, z zastrzeżeniem art. 70 i 71, obejmuje wykonywanie czynności polegających na:
 
-- **1)** przyjmowaniu i przekazywaniu zleceƒ nabycia lub zbycia maklerskich instrumentów finansowych;
-- **2)** wykonywaniu zleceƒ, o których mowa w pkt 1, na rachunek dajàcego zlecenie;
-- **3)** nabywaniu lub zbywaniu na w∏asny rachunek maklerskich instrumentów finansowych;
-- **4)** zarzàdzaniu portfelami, w sk∏ad których wchodzi jeden lub wi´ksza liczba maklerskich instrumentów finansowych;
+- **1)** przyjmowaniu i przekazywaniu zleceń nabycia lub zbycia maklerskich instrumentów finansowych;
+- **2)** wykonywaniu zleceń, o których mowa w pkt 1, na rachunek dającego zlecenie;
+- **3)** nabywaniu lub zbywaniu na własny rachunek maklerskich instrumentów finansowych;
+- **4)** zarządzaniu portfelami, w skład których wchodzi jeden lub większa liczba maklerskich instrumentów finansowych;
 - **5)** oferowaniu maklerskich instrumentów finansowych;
-- **6)** Êwiadczeniu us∏ug w wykonaniu zawartych umów osubemisje inwestycyjne ius∏ugowe lub zawieraniu i wykonywaniu innych umów o podobnym charakterze, je˝eli ich przedmiotem sà maklerskie instrumenty finansowe.
+- **6)** świadczeniu usług w wykonaniu zawartych umów osubemisje inwestycyjne iusługowe lub zawieraniu i wykonywaniu innych umów o podobnym charakterze, jeżeli ich przedmiotem są maklerskie instrumenty finansowe.
 
-3. Dzia∏alnoÊcià maklerskà jest równie˝ wykonywanie czynnoÊci polegajàcych na:
+3. Działalnością maklerską jest również wykonywanie czynności polegających na:
 
-- **1)** prowadzeniu rachunków papierów wartoÊciowych oraz rachunków pieni´˝nych s∏u˝àcych do ich obs∏ugi, z wy∏àczeniem rachunków prowadzonych przez bank powierniczy;
+- **1)** prowadzeniu rachunków papierów wartościowych oraz rachunków pieniężnych służących do ich obsługi, z wyłączeniem rachunków prowadzonych przez bank powierniczy;
 - **2)** doradztwie inwestycyjnym wzakresie maklerskich instrumentów finansowych, dopuszczonych do obrotu zorganizowanego;
-- **3)** organizowaniu alternatywnego systemu obrotu, z zastrze˝eniem art. 21 ust. 3 i art. 33 ust. 3.
+- **3)** organizowaniu alternatywnego systemu obrotu, z zastrzeżeniem art. 21 ust. 3 i art. 33 ust. 3.
 
-4. Dzia∏alnoÊcià maklerskà jest równie˝ wykonywanie przez firm´ inwestycyjnà czynnoÊci polegajàcych na:
+4. Działalnością maklerską jest również wykonywanie przez firmę inwestycyjną czynności polegających na:
 
 - **1)** przechowywaniu i rejestrowaniu zmian stanu posiadania maklerskich instrumentów finansowych;
-- **2)** ewidencjonowaniu oraz prowadzeniu rachunków, na których sà zapisywane maklerskie instrumenty finansowe, z wy∏àczeniem rachunków papierów wartoÊciowych, oraz prowadzeniu rachunków pieni´˝nych s∏u˝àcych do obs∏ugi rachunków, na których sà zapisywane te instrumenty, zwy∏àczeniem obs∏ugi rachunków papierów wartoÊciowych, jak równie˝ rozliczaniu transakcji, których przedmiotem sà te instrumenty, z wy∏àczeniem transakcji, których przedmiotem sà zdematerializowane papiery wartoÊciowe lub inne maklerskie instrumenty finansowe dopuszczone do obrotu zorganizowanego;
-- **3)** udost´pnianiu skrytek sejfowych;
-- **4)** udzielaniu po˝yczek pieni´˝nych na dokonanie transakcji, której przedmiotem jest jeden lub wi´ksza liczba maklerskich instrumentów finansowych, w przypadku gdy transakcja jest dokonywana za poÊrednictwem firmy inwestycyjnej udzielajàcej po˝yczki;
-- **5)** doradztwie dla przedsi´biorstw wzakresie struktury kapita∏owej, strategii przedsi´biorstwa lub innych zagadnieƒ zwiàzanych z takà strukturà lub strategià;
-- **6)** doradztwie i innych us∏ugach w zakresie ∏àczenia, podzia∏u oraz przejmowania przedsi´biorstw;
-- **7)** doradztwie inwestycyjnym wzakresie maklerskich instrumentów finansowych, zwy∏àczeniem instrumentów finansowych dopuszczonych do obrotu zorganizowanego;
-- **8)** Êwiadczeniu us∏ug dodatkowych zwiàzanych z subemisjà us∏ugowà lub inwestycyjnà;
+- **2)** ewidencjonowaniu oraz prowadzeniu rachunków, na których są zapisywane maklerskie instrumenty finansowe, z wyłączeniem rachunków papierów wartościowych, oraz prowadzeniu rachunków pieniężnych służących do obsługi rachunków, na których są zapisywane te instrumenty, zwyłączeniem obsługi rachunków papierów wartościowych, jak również rozliczaniu transakcji, których przedmiotem są te instrumenty, z wyłączeniem transakcji, których przedmiotem są zdematerializowane papiery wartościowe lub inne maklerskie instrumenty finansowe dopuszczone do obrotu zorganizowanego;
+- **3)** udostępnianiu skrytek sejfowych;
+- **4)** udzielaniu pożyczek pieniężnych na dokonanie transakcji, której przedmiotem jest jeden lub większa liczba maklerskich instrumentów finansowych, w przypadku gdy transakcja jest dokonywana za pośrednictwem firmy inwestycyjnej udzielającej pożyczki;
+- **5)** doradztwie dla przedsiębiorstw wzakresie struktury kapitałowej, strategii przedsiębiorstwa lub innych zagadnień związanych z taką strukturą lub strategią;
+- **6)** doradztwie i innych usługach w zakresie łączenia, podziału oraz przejmowania przedsiębiorstw;
+- **7)** doradztwie inwestycyjnym wzakresie maklerskich instrumentów finansowych, zwyłączeniem instrumentów finansowych dopuszczonych do obrotu zorganizowanego;
+- **8)** świadczeniu usług dodatkowych związanych z subemisją usługową lub inwestycyjną;
 - **9)** wymianie walutowej, w przypadku gdy jest to
-- **2)** podmiotów wykonujàcych czynnoÊci okreÊlone w art. 69 ust. 2 wy∏àcznie na rzecz podmiotów nale˝àcych do tej samej grupy kapita∏owej, do której nale˝y podmiot wykonujàcy te czynnoÊci;
-- **3)** podmiotów prowadzàcych dzia∏alnoÊç gospodarczà w innym zakresie ni˝ dzia∏alnoÊç maklerska wykonujàcych czynnoÊci wskazane wart. 69 ust. 2 w sposób incydentalny w zwiàzku z prowadzonà dzia∏alnoÊcià, o ile ta dzia∏alnoÊç regulowana jest przepisami i o ile przepisy te nie wy∏àczajà mo˝liwoÊci wykonywania tych czynnoÊci;
-- **4)** podmiotów wykonujàcych wy∏àcznie czynnoÊci wskazane w art. 69 ust. 2 pkt 3, o ile czynnoÊci te nie sà wykonywane zawodowo i w sposób sta∏y, wszczególnoÊci je˝eli nie stanowià one przedmiotu podstawowej dzia∏alnoÊci gospodarczej danego podmiotu;
-- **5)** banków centralnych paƒstw cz∏onkowskich i innych krajowych podmiotów wykonujàcych podobne funkcje, jak równie˝ innych podmiotów publicznych powo∏anych do zarzàdzania d∏ugiem publicznym;
+- **2)** podmiotów wykonujących czynności określone w art. 69 ust. 2 wyłącznie na rzecz podmiotów należących do tej samej grupy kapitałowej, do której należy podmiot wykonujący te czynności;
+- **3)** podmiotów prowadzących działalność gospodarczą w innym zakresie niż działalność maklerska wykonujących czynności wskazane wart. 69 ust. 2 w sposób incydentalny w związku z prowadzoną działalnością, o ile ta działalność regulowana jest przepisami i o ile przepisy te nie wyłączają możliwości wykonywania tych czynności;
+- **4)** podmiotów wykonujących wyłącznie czynności wskazane w art. 69 ust. 2 pkt 3, o ile czynności te nie są wykonywane zawodowo i w sposób stały, wszczególności jeżeli nie stanowią one przedmiotu podstawowej działalności gospodarczej danego podmiotu;
+- **5)** banków centralnych państw członkowskich i innych krajowych podmiotów wykonujących podobne funkcje, jak również innych podmiotów publicznych powołanych do zarządzania długiem publicznym;
 - **6)** funduszy inwestycyjnych w rozumieniu ustawy z dnia 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. 146, poz. 1546 oraz z2005 r. 83, poz. 719 i 183, poz. 1537);
 - **7)** funduszy emerytalnych w rozumieniu ustawy zdnia 28 sierpnia 1997 r. oorganizacji ifunkcjonowaniu funduszy emerytalnych (Dz. U. z 2004 r. Nr159, poz. 1667 oraz z 2005 r. 143, poz. 1202);
-- **8)** przechowywania aktywów funduszy, o których mowa w pkt 6 lub 7, i zarzàdzania tymi funduszami;
-- **9)** podmiotów, których podstawowà dzia∏alnoÊcià gospodarczà jest inwestowanie na w∏asny rachunek w towary gie∏dowe w rozumieniu ustawy z dnia 26 paêdziernika 2000 r. o gie∏dach towarowych, Êwiadczàcych us∏ugi na rzecz producentów takich towarów lub profesjonalnych ich u˝ytkowników w zakresie zwiàzanym z ich podstawowà dzia∏alnoÊcià; zwiàzane z dzia∏alnoÊcià maklerskà w zakresie wskazanym w ust. 2.
+- **8)** przechowywania aktywów funduszy, o których mowa w pkt 6 lub 7, i zarządzania tymi funduszami;
+- **9)** podmiotów, których podstawową działalnością gospodarczą jest inwestowanie na własny rachunek w towary giełdowe w rozumieniu ustawy z dnia 26 paêdziernika 2000 r. o giełdach towarowych, świadczących usługi na rzecz producentów takich towarów lub profesjonalnych ich użytkowników w zakresie związanym z ich podstawową działalnością; związane z działalnością maklerską w zakresie wskazanym w ust. 2.
 
 **Art. 70.**
 
-1. Przepisów niniejszego dzia∏u nie stosuje si´ do:
+1. Przepisów niniejszego działu nie stosuje się do:
 
-- **1)** zak∏adów ubezpieczeƒ;
-- **10)** podmiotów zawierajàcych wramach prowadzonej dzia∏alnoÊci gospodarczej na w∏asny rachunek transakcje na rynkach kontraktów terminowych lub opcji, lub na rachunek innych cz∏onków takich rynków, o ile odpowiedzialnoÊç za wykonanie zobowiàzaƒ wynikajàcych z tych transakcji ponoszà uczestnicy rozliczajàcy tych rynków.
+- **1)** zakładów ubezpieczeń;
+- **10)** podmiotów zawierających wramach prowadzonej działalności gospodarczej na własny rachunek transakcje na rynkach kontraktów terminowych lub opcji, lub na rachunek innych członków takich rynków, o ile odpowiedzialność za wykonanie zobowiązań wynikających z tych transakcji ponoszą uczestnicy rozliczający tych rynków.
 
-2. Bank z siedzibà na terytorium Rzeczypospolitej Polskiej mo˝e, bez zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej, wykonywaç na zasadach okreÊlonych w odr´bnych przepisach czynnoÊci okreÊlone w:
+2. Bank z siedzibą na terytorium Rzeczypospolitej Polskiej może, bez zezwolenia na prowadzenie działalności maklerskiej, wykonywać na zasadach określonych w odrębnych przepisach czynności określone w:
 
-- **1)** art. 69 ust. 2 pkt 1—5 o ile przedmiotem tych czynnoÊci sà papiery wartoÊciowe, o których mowa w art. 4 ust. 1 pkt 2, lub inne niedopuszczone do obrotu zorganizowanego maklerskie instrumenty finansowe;
+- **1)** art. 69 ust. 2 pkt 1—5 o ile przedmiotem tych czynności są papiery wartościowe, o których mowa w art. 4 ust. 1 pkt 2, lub inne niedopuszczone do obrotu zorganizowanego maklerskie instrumenty finansowe;
 - **2)** art. 69 ust. 2 pkt 6.
 
-3. Wykonywanie przez bank, zgodnie zust. 2, czynnoÊci, o których mowa w art. 69 ust. 2, nie stanowi dzia∏alnoÊci maklerskiej.
+3. Wykonywanie przez bank, zgodnie zust. 2, czynności, o których mowa w art. 69 ust. 2, nie stanowi działalności maklerskiej.
 
 **Art. 71.**
 
-1. Nie stanowià dzia∏alnoÊci maklerskiej czynnoÊci polegajàce wy∏àcznie na przyjmowaniu i przekazywaniu zleceƒ nabycia lub zbycia papierów wartoÊciowych lub tytu∏ów uczestnictwa w instytucjach zbiorowego inwestowania, o ile podmiot wykonujàcy te czynnoÊci nie jest uprawniony do Êwiadczenia us∏ug w zakresie przechowywania Êrodków pieni´˝nych lub papierów wartoÊciowych nale˝àcych do osób trzecich oraz o ile czynnoÊci te sà wykonywane przez podmiot prowadzàcy dzia∏alnoÊç gospodarczà regulowanà odr´bnymi przepisami.
+1. Nie stanowią działalności maklerskiej czynności polegające wyłącznie na przyjmowaniu i przekazywaniu zleceń nabycia lub zbycia papierów wartościowych lub tytułów uczestnictwa w instytucjach zbiorowego inwestowania, o ile podmiot wykonujący te czynności nie jest uprawniony do świadczenia usług w zakresie przechowywania środków pieniężnych lub papierów wartościowych należących do osób trzecich oraz o ile czynności te są wykonywane przez podmiot prowadzący działalność gospodarczą regulowaną odrębnymi przepisami.
 
-2. Zlecenia przyjmowane zgodnie z ust. 1 mogà byç wy∏àcznie przekazywane do firmy inwestycyjnej albo instytucji zbiorowego inwestowania prowadzàcej dzia∏alnoÊç na terytorium Rzeczypospolitej Polskiej.
+2. Zlecenia przyjmowane zgodnie z ust. 1 mogą być wyłącznie przekazywane do firmy inwestycyjnej albo instytucji zbiorowego inwestowania prowadzącej działalność na terytorium Rzeczypospolitej Polskiej.
 
-3. Wykonywanie czynnoÊci, o których mowa w ust.1, wymaga zawiadomienia Komisji nie póêniej ni˝ na miesiàc przed ich podj´ciem. Do podmiotu wykonujàcego czynnoÊci, októrych mowa wust. 1, stosuje si´ odpowiednio przepisy art. 88, art. 90 ust. 1—4, przepisy wydane na podstawie art. 94 ust. 1 pkt 1 oraz art.26—37 ustawy onadzorze.
+3. Wykonywanie czynności, o których mowa w ust.1, wymaga zawiadomienia Komisji nie póêniej niż na miesiąc przed ich podjęciem. Do podmiotu wykonującego czynności, októrych mowa wust. 1, stosuje się odpowiednio przepisy art. 88, art. 90 ust. 1—4, przepisy wydane na podstawie art. 94 ust. 1 pkt 1 oraz art.26—37 ustawy onadzorze.
 
 **Art. 72.**
 
-1. Wumowie ooferowanie maklerskich instrumentów finansowych firma inwestycyjna zobowiàzuje si´ do poÊrednictwa w:
+1. Wumowie ooferowanie maklerskich instrumentów finansowych firma inwestycyjna zobowiązuje się do pośrednictwa w:
 
-- **1)** proponowaniu przez emitenta nabycia papierów wartoÊciowych nowej emisji lub w zbywaniu tych papierów,
-- **2)** proponowaniu przez podmiot wystawiajàcy maklerskie instrumenty finansowe nieb´dàce papierami wartoÊciowymi nabycia tych instrumentów lub w ich zbywaniu w wyniku tej propozycji,
-- **3)** proponowaniu przez wprowadzajàcego nabycia papierów wartoÊciowych lub w ich zbywaniu w wyniku tej propozycji lub
-- **4)** proponowaniu przez podmiot wprowadzajàcy maklerskie instrumenty finansowe nieb´dàce papienabycia lub zbycia we w∏asnym imieniu na rachunek dajàcego zlecenie papierów wartoÊciowych:
+- **1)** proponowaniu przez emitenta nabycia papierów wartościowych nowej emisji lub w zbywaniu tych papierów,
+- **2)** proponowaniu przez podmiot wystawiający maklerskie instrumenty finansowe niebędące papierami wartościowymi nabycia tych instrumentów lub w ich zbywaniu w wyniku tej propozycji,
+- **3)** proponowaniu przez wprowadzającego nabycia papierów wartościowych lub w ich zbywaniu w wyniku tej propozycji lub
+- **4)** proponowaniu przez podmiot wprowadzający maklerskie instrumenty finansowe niebędące papienabycia lub zbycia we własnym imieniu na rachunek dającego zlecenie papierów wartościowych:
     - **a)** w obrocie na rynku regulowanym lub
     - **b)** w alternatywnym systemie obrotu;
 
-- **2)** mo˝e równie˝ zobowiàzaç si´ do:
-    - **a)** przyjmowania i przekazywania zleceƒ nabycia lub zbycia papierów wartoÊciowych dopuszczonych do obrotu zorganizowanego, lub
-    - **b)** prowadzenia rachunku papierów wartoÊciowych lub rachunku pieni´˝nego s∏u˝àcego do obs∏ugi rachunku papierów wartoÊciowych, jak równie˝ do obs∏ugi realizacji innych zobowiàzaƒ firmy inwestycyjnej wobec klienta lub zobowiàzaƒ klienta wobec firmy inwestycyjnej z tytu∏u us∏ug Êwiadczonych przez t´ firm´ inwestycyjnà na jego rzecz.
+- **2)** może również zobowiązać się do:
+    - **a)** przyjmowania i przekazywania zleceń nabycia lub zbycia papierów wartościowych dopuszczonych do obrotu zorganizowanego, lub
+    - **b)** prowadzenia rachunku papierów wartościowych lub rachunku pieniężnego służącego do obsługi rachunku papierów wartościowych, jak również do obsługi realizacji innych zobowiązań firmy inwestycyjnej wobec klienta lub zobowiązań klienta wobec firmy inwestycyjnej z tytułu usług świadczonych przez tę firmę inwestycyjną na jego rzecz.
 
-3. Przyjmujàc do wykonania zlecenie, o którym mowa w ust. 1, firma inwestycyjna zobowiàzuje si´ rami wartoÊciowymi do obrotu na rynku regulowanym lub do alternatywnego systemu obrotu lub w ich zbywaniu w wyniku tej propozycji.
+3. Przyjmując do wykonania zlecenie, o którym mowa w ust. 1, firma inwestycyjna zobowiązuje się rami wartościowymi do obrotu na rynku regulowanym lub do alternatywnego systemu obrotu lub w ich zbywaniu w wyniku tej propozycji.
 
-2. Umowa o oferowanie instrumentów finansowych powinna byç zawarta wformie pisemnej pod rygorem niewa˝noÊci.
+2. Umowa o oferowanie instrumentów finansowych powinna być zawarta wformie pisemnej pod rygorem nieważności.
 
 **Art. 73.**
 
-1. Firma inwestycyjna, z zastrze˝eniem art.74, wykonuje zlecenia nabycia lub zbycia papierów wartoÊciowych dopuszczonych do obrotu zorganizowanego na podstawie umowy o Êwiadczenie us∏ug brokerskich.
+1. Firma inwestycyjna, z zastrzeżeniem art.74, wykonuje zlecenia nabycia lub zbycia papierów wartościowych dopuszczonych do obrotu zorganizowanego na podstawie umowy o świadczenie usług brokerskich.
 
-2. W umowie o Êwiadczenie us∏ug brokerskich firma inwestycyjna:
+2. W umowie o świadczenie usług brokerskich firma inwestycyjna:
 
-- **1)** zobowiàzuje si´ do przyjmowania i wykonywania, na warunkach okreÊlonych w tej umowie, zleceƒ wobec dajàcego zlecenie do nabycia lub zbycia oznaczonych papierów wartoÊciowych w imieniu w∏asnym, lecz na rachunek dajàcego zlecenie. Firma inwestycyjna odpowiada wobec dajàcego zlecenie zbycia za zap∏at´ ceny przez nabywc´ papierów wartoÊciowych.
+- **1)** zobowiązuje się do przyjmowania i wykonywania, na warunkach określonych w tej umowie, zleceń wobec dającego zlecenie do nabycia lub zbycia oznaczonych papierów wartościowych w imieniu własnym, lecz na rachunek dającego zlecenie. Firma inwestycyjna odpowiada wobec dającego zlecenie zbycia za zapłatę ceny przez nabywcę papierów wartościowych.
 
-4. Umowa oraz zlecenia, októrych mowa wust. 1, powinny mieç form´ pisemnà pod rygorem niewa˝noÊci.
+4. Umowa oraz zlecenia, októrych mowa wust. 1, powinny mieć formę pisemną pod rygorem nieważności.
 
 5. W zakresie nieuregulowanym w ust. 1—4 do:
 
-- **1)** umowy oÊwiadczenie us∏ug brokerskich stosuje si´ odpowiednio przepisy ustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny dotyczàce umowy zlecenia, zwy∏àczeniem art. 737;
-- **2)** wykonywania zleceƒ, o których mowa w ust. 1 stosuje si´ odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczàce umowy komisu, z wy∏àczeniem art. 768 § 3.
+- **1)** umowy oświadczenie usług brokerskich stosuje się odpowiednio przepisy ustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące umowy zlecenia, zwyłączeniem art. 737;
+- **2)** wykonywania zleceń, o których mowa w ust. 1 stosuje się odpowiednio przepisy ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny dotyczące umowy komisu, z wyłączeniem art. 768 § 3.
 
-6. Do rachunku pieni´˝nego s∏u˝àcego do obs∏ugi rachunku papierów wartoÊciowych stosuje si´ odpowiednio przepisy art. 725—733 ustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny, z wy∏àczeniem uprawnienia do czasowego obracania wolnymi Êrodkami pieni´˝nymi. Nie wy∏àcza to uprawnieƒ Komisji wynikajàcych z art. 88.
+6. Do rachunku pieniężnego służącego do obsługi rachunku papierów wartościowych stosuje się odpowiednio przepisy art. 725—733 ustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny, z wyłączeniem uprawnienia do czasowego obracania wolnymi środkami pieniężnymi. Nie wyłącza to uprawnień Komisji wynikających z art. 88.
 
-7. Przepisy ust. 1—5 stosuje si´ odpowiednio do wykonywania w obrocie zorganizowanym przez firm´ inwestycyjnà zleceƒ nabycia lub zbycia, na rachunek klienta nieb´dàcych papierami wartoÊciowymi maklerskich instrumentów finansowych, o ile ich konstrukcja umo˝liwia zastosowanie tych przepisów.
+7. Przepisy ust. 1—5 stosuje się odpowiednio do wykonywania w obrocie zorganizowanym przez firmę inwestycyjną zleceń nabycia lub zbycia, na rachunek klienta niebędących papierami wartościowymi maklerskich instrumentów finansowych, o ile ich konstrukcja umożliwia zastosowanie tych przepisów.
 
 **Art. 74.**
 
-1. Firma inwestycyjna mo˝e wykonaç zlecenie nabycia lub zbycia papierów wartoÊciowych dopuszczonych do obrotu zorganizowanego, poprzez zawarcie na w∏asny rachunek umowy sprzeda˝y (transakcji bezpoÊredniej) ze zleceniodawcà.
+1. Firma inwestycyjna może wykonać zlecenie nabycia lub zbycia papierów wartościowych dopuszczonych do obrotu zorganizowanego, poprzez zawarcie na własny rachunek umowy sprzedaży (transakcji bezpośredniej) ze zleceniodawcą.
 
-2. Wykonywanie zleceƒ w sposób wskazany w ust. 1 odbywa si´ na podstawie umowy o Êwiadczenie us∏ug brokerskich.
+2. Wykonywanie zleceń w sposób wskazany w ust. 1 odbywa się na podstawie umowy o świadczenie usług brokerskich.
 
 3. Firma inwestycyjna przyjmuje iprzekazuje zlecenia nabycia lub zbycia maklerskich instrumentów finansowych poprzez:
 
-- **1)** przyjmowanie i przekazywanie zleceƒ nabycia lub zbycia maklerskich instrumentów finansowych do innego podmiotu, w celu ich wykonania, lub
-- **2)** podejmowanie czynnoÊci majàcych na celu znalezienie podmiotu zainteresowanego zawarciem umowy sprzeda˝y maklerskich instrumentów finansowych ze zleceniodawcà.
+- **1)** przyjmowanie i przekazywanie zleceń nabycia lub zbycia maklerskich instrumentów finansowych do innego podmiotu, w celu ich wykonania, lub
+- **2)** podejmowanie czynności mających na celu znalezienie podmiotu zainteresowanego zawarciem umowy sprzedaży maklerskich instrumentów finansowych ze zleceniodawcą.
 
 **Art. 75.**
 
-1. W umowie o zarzàdzanie portfelem, wktórego sk∏ad wchodzi jeden lub wi´ksza liczba maklerskich instrumentów finansowych, firma inwestycyjna zobowiàzuje si´ do odp∏atnego podejmowania irealizacji decyzji inwestycyjnych na rachunek klienta, w ramach pozostawionych przez zleceniodawc´ do dyspozycji zarzàdzajàcego Êrodków pieni´˝nych lub maklerskich instrumentów finansowych.
+1. W umowie o zarządzanie portfelem, wktórego skład wchodzi jeden lub większa liczba maklerskich instrumentów finansowych, firma inwestycyjna zobowiązuje się do odpłatnego podejmowania irealizacji decyzji inwestycyjnych na rachunek klienta, w ramach pozostawionych przez zleceniodawcę do dyspozycji zarządzającego środków pieniężnych lub maklerskich instrumentów finansowych.
 
-2. Umowa, o której mowa w ust. 1, powinna byç zawarta wformie pisemnej pod rygorem niewa˝noÊci.
+2. Umowa, o której mowa w ust. 1, powinna być zawarta wformie pisemnej pod rygorem nieważności.
 
 **Art. 76.**
 
-1. W umowie o doradztwo inwestycyjne w zakresie maklerskich instrumentów finansowych, dopuszczonych do obrotu zorganizowanego, firma inwestycyjna zobowiàzuje si´ do przygotowywania w oparciu o potrzeby i sytuacj´ klienta i przekazywania mu pisemnej lub ustnej rekomendacji nabycia lub zbycia okreÊlonych maklerskich instrumentów finansowych albo powstrzymania si´ od zawarcia transakcji dotyczàcej tych instrumentów.
+1. W umowie o doradztwo inwestycyjne w zakresie maklerskich instrumentów finansowych, dopuszczonych do obrotu zorganizowanego, firma inwestycyjna zobowiązuje się do przygotowywania w oparciu o potrzeby i sytuację klienta i przekazywania mu pisemnej lub ustnej rekomendacji nabycia lub zbycia określonych maklerskich instrumentów finansowych albo powstrzymania się od zawarcia transakcji dotyczącej tych instrumentów.
 
-2. Umowa, o której mowa w ust. 1, powinna byç zawarta w formie pisemnej pod rygorem niewa˝noÊci.
+2. Umowa, o której mowa w ust. 1, powinna być zawarta w formie pisemnej pod rygorem nieważności.
 
 **Art. 77.**
 
-1. Przez us∏ug´ wymiany walutowej rozumie si´ przyjmowanie przez firm´ inwestycyjnà walut obcych i dokonywanie ich sprzeda˝y na rachunek klienta, jak równie˝ kupno walut obcych na rachunek klienta, w zwiàzku z obs∏ugà realizacji zobowiàzaƒ firmy inwestycyjnej wobec klienta lub zobowiàzaƒ klienta wobec firmy inwestycyjnej ztytu∏u us∏ug Êwiadczonych przez t´ firm´ inwestycyjnà na jego rzecz, lub zobowiàzaƒ klienta wobec emitenta papierów wartoÊciowych, w przypadku gdy firma inwestycyjna dzia∏a w imieniu i na rachunek emitenta, lub zobowiàzaƒ emitenta papierów wartoÊciowych wobec klienta, w przypadku gdy firma inwestycyjna dzia∏a w imieniu i na rachunek klienta w zakresie czynnoÊci wskazanych w art. 69 ust. 2.
+1. Przez usługę wymiany walutowej rozumie się przyjmowanie przez firmę inwestycyjną walut obcych i dokonywanie ich sprzedaży na rachunek klienta, jak również kupno walut obcych na rachunek klienta, w związku z obsługą realizacji zobowiązań firmy inwestycyjnej wobec klienta lub zobowiązań klienta wobec firmy inwestycyjnej ztytułu usług świadczonych przez tę firmę inwestycyjną na jego rzecz, lub zobowiązań klienta wobec emitenta papierów wartościowych, w przypadku gdy firma inwestycyjna działa w imieniu i na rachunek emitenta, lub zobowiązań emitenta papierów wartościowych wobec klienta, w przypadku gdy firma inwestycyjna działa w imieniu i na rachunek klienta w zakresie czynności wskazanych w art. 69 ust. 2.
 
 **Art. 78.**
 
-1. Firma inwestycyjna organizuje alternatywny system obrotu na podstawie regulaminu, który wymaga zatwierdzenia przez Komisj´. Regulamin alternatywnego systemu obrotu okreÊla w szczególnoÊci:
+1. Firma inwestycyjna organizuje alternatywny system obrotu na podstawie regulaminu, który wymaga zatwierdzenia przez Komisję. Regulamin alternatywnego systemu obrotu określa w szczególności:
 
-- **1)** rodzaj maklerskich instrumentów finansowych majàcych byç przedmiotem obrotu;
+- **1)** rodzaj maklerskich instrumentów finansowych mających być przedmiotem obrotu;
 - **2)** kryteria i warunki dopuszczania instrumentów finansowych, o których mowa w pkt 1, do obrotu;
 - **3)** tryb i warunki zawierania transakcji;
-- **4)** tryb rozstrzygania sporów dotyczàcych przebiegu i rozliczania transakcji;
+- **4)** tryb rozstrzygania sporów dotyczących przebiegu i rozliczania transakcji;
 - **5)** tryb i warunki notowania, zawieszania i zaprzestania notowania instrumentów finansowych, o których mowa w pkt 1;
 - **6)** dni otwarcia i godziny obrotu;
-- **7)** sposób ustalania i og∏aszania kursów lub cen notowania instrumentów finansowych, o których
+- **7)** sposób ustalania i ogłaszania kursów lub cen notowania instrumentów finansowych, o których
 
-2. Âwiadczenie przez firm´ inwestycyjnà us∏ugi wymiany walutowej nie stanowi dzia∏alnoÊci kantorowej wrozumieniu ustawy zdnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. 141, poz. 1178, z 2003 r. 228, poz. 2260 oraz z 2004 r. 91, poz. 870 i 173, poz. 1808). mowa w pkt 1;
+2. Âwiadczenie przez firmę inwestycyjną usługi wymiany walutowej nie stanowi działalności kantorowej wrozumieniu ustawy zdnia 27 lipca 2002 r. Prawo dewizowe (Dz. U. 141, poz. 1178, z 2003 r. 228, poz. 2260 oraz z 2004 r. 91, poz. 870 i 173, poz. 1808). mowa w pkt 1;
 
-- **8)** sposób klasyfikowania instrumentów finansowych, o których mowa w pkt 1, je˝eli taka klasyfikacja ma miejsce;
-- **9)** tryb i warunki upowszechniania informacji dotyczàcych sk∏adanych ofert oraz zawieranych transakcji;
-- **10)** opis systemu gwarantujàcego rozliczanie transakcji zawieranych w alternatywnym systemie obrotu, je˝eli firma inwestycyjna organizujàca alternatywny system obrotu utworzy∏a lub jest cz∏onkiem takiego systemu;
-- **11)** Êrodki s∏u˝àce przeciwdzia∏aniu i ujawnianiu przypadków manipulacji.
+- **8)** sposób klasyfikowania instrumentów finansowych, o których mowa w pkt 1, jeżeli taka klasyfikacja ma miejsce;
+- **9)** tryb i warunki upowszechniania informacji dotyczących składanych ofert oraz zawieranych transakcji;
+- **10)** opis systemu gwarantującego rozliczanie transakcji zawieranych w alternatywnym systemie obrotu, jeżeli firma inwestycyjna organizująca alternatywny system obrotu utworzyła lub jest członkiem takiego systemu;
+- **11)** środki służące przeciwdziałaniu i ujawnianiu przypadków manipulacji.
 
-2. W przypadku gdy przedmiotem transakcji sà instrumenty finansowe dopuszczone do obrotu na rynku regulowanym przez wykonanie obowiàzku upowszechniania przez podmiot organizujàcy alternatywny system obrotu informacji wskazanych w ust. 1 pkt9, rozumie si´ równie˝ ich przekazanie na rynek regulowany w celu ich publikacji zgodnie z przepisami wydanymi na podstawie art. 17 ust. 1 pkt 1. W takim przypadku regulamin, o którym mowa w ust. 1, okreÊla tryb i warunki przekazywania spó∏ce prowadzàcej rynek regulowany, na którym dany instrument finansowy jest przedmiotem obrotu, informacji dotyczàcych sk∏adanych ofert oraz zawieranych transakcji.
+2. W przypadku gdy przedmiotem transakcji są instrumenty finansowe dopuszczone do obrotu na rynku regulowanym przez wykonanie obowiązku upowszechniania przez podmiot organizujący alternatywny system obrotu informacji wskazanych w ust. 1 pkt9, rozumie się również ich przekazanie na rynek regulowany w celu ich publikacji zgodnie z przepisami wydanymi na podstawie art. 17 ust. 1 pkt 1. W takim przypadku regulamin, o którym mowa w ust. 1, określa tryb i warunki przekazywania spółce prowadzącej rynek regulowany, na którym dany instrument finansowy jest przedmiotem obrotu, informacji dotyczących składanych ofert oraz zawieranych transakcji.
 
-3. W przypadku gdy zakres czynnoÊci, o których mowa w art. 82 ust. 1 pkt 7, obejmuje organizowanie alternatywnego systemu obrotu, Komisja udzielajàc zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej zatwierdza regulamin tego systemu.
+3. W przypadku gdy zakres czynności, o których mowa w art. 82 ust. 1 pkt 7, obejmuje organizowanie alternatywnego systemu obrotu, Komisja udzielając zezwolenia na prowadzenie działalności maklerskiej zatwierdza regulamin tego systemu.
 
-4. Firma inwestycyjna, która zamierza rozpoczàç organizowanie alternatywnego systemu obrotu, zawiadamia otym wtrybie okreÊlonym wart. 87, wyst´pujàc jednoczeÊnie do Komisji zwnioskiem ozatwierdzenie regulaminu alternatywnego systemu obrotu.
+4. Firma inwestycyjna, która zamierza rozpocząć organizowanie alternatywnego systemu obrotu, zawiadamia otym wtrybie określonym wart. 87, występując jednocześnie do Komisji zwnioskiem ozatwierdzenie regulaminu alternatywnego systemu obrotu.
 
-5. Ka˝dorazowa zmiana regulaminu alternatywne- 7. W stosunku do agenta firmy inwestycyjnej Kogo systemu obrotu wymaga zatwierdzenia przez Ko- misji przys∏ugujà przewidziane w ustawie o nadzorze misj´. uprawnienia kontrolne, w zakresie dotyczàcym czynnoÊci wykonywanych na rzecz firmy inwestycyjnej
+5. Każdorazowa zmiana regulaminu alternatywne- 7. W stosunku do agenta firmy inwestycyjnej Kogo systemu obrotu wymaga zatwierdzenia przez Ko- misji przysługują przewidziane w ustawie o nadzorze misję. uprawnienia kontrolne, w zakresie dotyczącym czynności wykonywanych na rzecz firmy inwestycyjnej
 
-6. Komisja odmawia zatwierdzenia regulaminu al- oraz sporzàdzanych w zwiàzku z tymi czynnoÊciami ternatywnego systemu obrotu lub jego zmian, je˝eli dokumentów. regulamin lub proponowane zmiany sà sprzeczne z przepisami prawa lub nie gwarantujà bezpieczeƒ- 8. Komisja prowadzi rejestr agentów firm inwestystwa organizowanego obrotu. cyjnych.
+6. Komisja odmawia zatwierdzenia regulaminu al- oraz sporządzanych w związku z tymi czynnościami ternatywnego systemu obrotu lub jego zmian, jeżeli dokumentów. regulamin lub proponowane zmiany są sprzeczne z przepisami prawa lub nie gwarantują bezpieczeń- 8. Komisja prowadzi rejestr agentów firm inwestystwa organizowanego obrotu. cyjnych.
 
-7. Przepisów dotyczàcych obowiàzku zatwierdze- 9. Komisja skreÊla agenta firmy inwestycyjnej zrejenia przez Komisj´ regulaminu alternatywnego syste- stru, októrym mowa wust. 8, je˝eli wykonuje on czynmu obrotu oraz zmian tego regulaminu nie stosuje si´ noÊci, o których mowa w ust. 2, z naruszeniem przepido zagranicznej firmy inwestycyjnej. sów prawa lub nie dochowujàc nale˝ytej starannoÊci. Przepisy art. 130 ust. 2 i3 stosuje si´ odpowiednio.
+7. Przepisów dotyczących obowiązku zatwierdze- 9. Komisja skreśla agenta firmy inwestycyjnej zrejenia przez Komisję regulaminu alternatywnego syste- stru, októrym mowa wust. 8, jeżeli wykonuje on czynmu obrotu oraz zmian tego regulaminu nie stosuje się ności, o których mowa w ust. 2, z naruszeniem przepido zagranicznej firmy inwestycyjnej. sów prawa lub nie dochowując należytej staranności. Przepisy art. 130 ust. 2 i3 stosuje się odpowiednio.
 
 **Art. 79.**
 
-1. Firma inwestycyjna mo˝e w drodze 10. Podmiot, który zosta∏ skreÊlony zrejestru agenumowy zawartej wformie pisemnej powierzyç osobie tów firm inwestycyjnych z przyczyn, o których mowa fizycznej, osobie prawnej lub jednostce organizacyjnej wust. 4, nie mo˝e ponownie byç wpisany do tego rejenieposiadajàcej osobowoÊci prawnej wykonywanie stru przed up∏ywem 10 lat od dnia skreÊlenia, awprzysta∏e lub okresowe w imieniu i na rachunek firmy in- padku gdy skreÊlenie nastàpi∏o w zwiàzku z pope∏niewestycyjnej czynnoÊci poÊrednictwa w zakresie dzia- niem przez agenta firmy inwestycyjnej przest´pstwa ∏alnoÊci prowadzonej przez t´ firm´ inwestycyjnà tak˝e przed zatarciem skazania za to przest´pstwo. (agent firmy inwestycyjnej).
+1. Firma inwestycyjna może w drodze 10. Podmiot, który został skreślony zrejestru agenumowy zawartej wformie pisemnej powierzyć osobie tów firm inwestycyjnych z przyczyn, o których mowa fizycznej, osobie prawnej lub jednostce organizacyjnej wust. 4, nie może ponownie być wpisany do tego rejenieposiadającej osobowości prawnej wykonywanie stru przed upływem 10 lat od dnia skreślenia, awprzystałe lub okresowe w imieniu i na rachunek firmy in- padku gdy skreślenie nastąpiło w związku z popełniewestycyjnej czynności pośrednictwa w zakresie dzia- niem przez agenta firmy inwestycyjnej przestępstwa łalności prowadzonej przez tę firmę inwestycyjną także przed zatarciem skazania za to przestępstwo. (agent firmy inwestycyjnej).
 
-**Art. 80.** Agent firmy inwestycyjnej, który zawar∏ 2. Na podstawie umowy, o której mowa w ust. 1, z firmà inwestycyjnà umow´, o której mowa w art. 79 mogà byç wykonywane czynnoÊci zwiàzane zzawiera- ust. 1, jest przedsi´biorcà w rozumieniu art. 4 ustawy niem umów o Êwiadczenie us∏ug przez firm´ inwesty- z dnia 2 lipca 2004 r. o swobodzie dzia∏alnoÊci gospocyjnà lub umo˝liwiajàce realizacj´ tych umów, darczej (Dz. U. 173, poz. 1807, z póên. zm. w szczególnoÊci polegajàce na doradzaniu klientowi lub potencjalnemu klientowi w zakresie us∏ug danej firmy inwestycyjnej, przyjmowaniu zleceƒ, o których mowa w art. 69 ust. 2 pkt 1, oraz odbieraniu innych oÊwiadczeƒ woli dla firmy inwestycyjnej. Umowa, októrej mowa wust. 1, nie mo˝e przewidywaç powierzenia prowadzenia dzia∏alnoÊci maklerskiej. 3. Zakazane jest pozostawanie w stosunku umownym wynikajàcym z umowy, o której mowa w ust. 1, z wi´cej ni˝ jednà firmà inwestycyjnà. 4. Zakazane jest przyjmowanie przez agenta firmy inwestycyjnej jakichkolwiek wp∏at, w zwiàzku z czynnoÊciami wykonywanymi na podstawie umowy, októrej mowa w ust. 1, od osób, na rzecz których firma inwestycyjna Êwiadczy us∏ugi, jak równie˝ dokonywanych przez firm´ inwestycyjnà na rzecz tych osób. 5. Za szkod´ wyrzàdzonà przez agenta firmy inwestycyjnej w zwiàzku z wykonywaniem czynnoÊci wimieniu ina rachunek firmy inwestycyjnej odpowiada solidarnie ta firma inwestycyjna i agent, który wyrzàdzi∏ szkod´. OdpowiedzialnoÊç wy∏àczona jest w przypadku, gdy szkoda nastàpi∏a wskutek dzia∏ania si∏y wy˝szej lub wy∏àcznie z winy osoby trzeciej. 6. Agent firmy inwestycyjnej obowiàzany jest przy ka˝dej czynnoÊci wykonywanej na rzecz firmy inwestycyjnej okazywaç pe∏nomocnictwo firmy inwestycyjnej, w imieniu której dzia∏a. W przypadku gdy agentem firmy inwestycyjnej jest osoba wykonujàca zawód maklera papierów wartoÊciowych lub doradcy inwestycyjnego, obowiàzana jest ona ponadto okazywaç dokument potwierdzajàcy posiadanie uprawnieƒ do wykonywania zawodu maklera papierów wartoÊciowych lub doradcy inwestycyjnego. ).
+**Art. 80.** Agent firmy inwestycyjnej, który zawarł 2. Na podstawie umowy, o której mowa w ust. 1, z firmą inwestycyjną umowę, o której mowa w art. 79 mogą być wykonywane czynności związane zzawiera- ust. 1, jest przedsiębiorcą w rozumieniu art. 4 ustawy niem umów o świadczenie usług przez firmę inwesty- z dnia 2 lipca 2004 r. o swobodzie działalności gospocyjną lub umożliwiające realizację tych umów, darczej (Dz. U. 173, poz. 1807, z póên. zm. w szczególności polegające na doradzaniu klientowi lub potencjalnemu klientowi w zakresie usług danej firmy inwestycyjnej, przyjmowaniu zleceń, o których mowa w art. 69 ust. 2 pkt 1, oraz odbieraniu innych oświadczeń woli dla firmy inwestycyjnej. Umowa, októrej mowa wust. 1, nie może przewidywać powierzenia prowadzenia działalności maklerskiej. 3. Zakazane jest pozostawanie w stosunku umownym wynikającym z umowy, o której mowa w ust. 1, z więcej niż jedną firmą inwestycyjną. 4. Zakazane jest przyjmowanie przez agenta firmy inwestycyjnej jakichkolwiek wpłat, w związku z czynnościami wykonywanymi na podstawie umowy, októrej mowa w ust. 1, od osób, na rzecz których firma inwestycyjna świadczy usługi, jak również dokonywanych przez firmę inwestycyjną na rzecz tych osób. 5. Za szkodę wyrządzoną przez agenta firmy inwestycyjnej w związku z wykonywaniem czynności wimieniu ina rachunek firmy inwestycyjnej odpowiada solidarnie ta firma inwestycyjna i agent, który wyrządził szkodę. Odpowiedzialność wyłączona jest w przypadku, gdy szkoda nastąpiła wskutek działania siły wyższej lub wyłącznie z winy osoby trzeciej. 6. Agent firmy inwestycyjnej obowiązany jest przy każdej czynności wykonywanej na rzecz firmy inwestycyjnej okazywać pełnomocnictwo firmy inwestycyjnej, w imieniu której działa. W przypadku gdy agentem firmy inwestycyjnej jest osoba wykonująca zawód maklera papierów wartościowych lub doradcy inwestycyjnego, obowiązana jest ona ponadto okazywać dokument potwierdzający posiadanie uprawnień do wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego. ).
 
 **Art. 81.**
 
-1. W przypadku gdy agentem firmy inwestycyjnej ma byç osoba fizyczna, Komisja dokonuje, na wniosek zainteresowanego, wpisu do rejestru agentów firmy inwestycyjnej, je˝eli dana osoba posiada odpowiedni poziom wiedzy i doÊwiadczenia zawodowego z zakresu us∏ug poÊrednictwa finansowego, obowiàzujàcych przepisów prawa oraz standardów dzia∏alnoÊci firm inwestycyjnych, stwierdzony przez Komisj´ w wyniku przeprowadzonego egzaminu zgodnie zart. 128. Wniosek owpis sk∏adany jest wterminie 30 dni od dnia z∏o˝enia zwynikiem pozytywnym egzaminu dla agenta firmy inwestycyjnej.
+1. W przypadku gdy agentem firmy inwestycyjnej ma być osoba fizyczna, Komisja dokonuje, na wniosek zainteresowanego, wpisu do rejestru agentów firmy inwestycyjnej, jeżeli dana osoba posiada odpowiedni poziom wiedzy i doświadczenia zawodowego z zakresu usług pośrednictwa finansowego, obowiązujących przepisów prawa oraz standardów działalności firm inwestycyjnych, stwierdzony przez Komisję w wyniku przeprowadzonego egzaminu zgodnie zart. 128. Wniosek owpis składany jest wterminie 30 dni od dnia złożenia zwynikiem pozytywnym egzaminu dla agenta firmy inwestycyjnej.
 
-2. Warunki, októrych mowa wust. 1, uwa˝a si´ za spe∏nione w przypadku osób majàcych prawo wykonywania zawodu maklera papierów wartoÊciowych lub doradcy inwestycyjnego.
+2. Warunki, októrych mowa wust. 1, uważa się za spełnione w przypadku osób mających prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego.
 
-3. W przypadku gdy agentem firmy inwestycyjnej ma byç osoba prawna lub jednostka organizacyjna nieposiadajàca osobowoÊci prawnej, Komisja dokonuje, na wniosek zainteresowanego, wpisu do rejestru agentów firmy inwestycyjnej, je˝eli podmiot ten posiadanym doÊwiadczeniem z zakresu obrotu maklerskimi instrumentami finansowymi oraz strukturà organizacyjnà gwarantuje wykonywanie czynnoÊci, o których mowa w art. 79 ust. 2, w sposób prawid∏owy z do∏o˝eniem nale˝ytej starannoÊci.
+3. W przypadku gdy agentem firmy inwestycyjnej ma być osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, Komisja dokonuje, na wniosek zainteresowanego, wpisu do rejestru agentów firmy inwestycyjnej, jeżeli podmiot ten posiadanym doświadczeniem z zakresu obrotu maklerskimi instrumentami finansowymi oraz strukturą organizacyjną gwarantuje wykonywanie czynności, o których mowa w art. 79 ust. 2, w sposób prawidłowy z dołożeniem należytej staranności.
 
-4. W przypadku gdy agentem firmy inwestycyjnej ma byç podmiot prowadzàcy dzia∏alnoÊç gospodarczà nadzorowanà zgodnie z odr´bnymi przepisami przez organ, z którym Komisja zawar∏a porozumienie, o którym mowa wart. 20 ust. 2 ustawy onadzorze, Komisja, po otrzymaniu wniosku, o którym mowa w ust. 1, wyst´puje do odpowiedniego organu nadzoru oprzedstawienie opinii dotyczàcej sytuacji finansowej oraz sposobu prowadzenia dzia∏alnoÊci przez ten podmiot. Przedstawienie przez w∏aÊciwy organ nadzoru pozytywnej opinii rozumiane jest jako wype∏nianie przez podmiot ubiegajàcy si´ owpis do rejestru agentów firmy inwestycyjnej warunków, októrych mowa wust. 3.
+4. W przypadku gdy agentem firmy inwestycyjnej ma być podmiot prowadzący działalność gospodarczą nadzorowaną zgodnie z odrębnymi przepisami przez organ, z którym Komisja zawarła porozumienie, o którym mowa wart. 20 ust. 2 ustawy onadzorze, Komisja, po otrzymaniu wniosku, o którym mowa w ust. 1, występuje do odpowiedniego organu nadzoru oprzedstawienie opinii dotyczącej sytuacji finansowej oraz sposobu prowadzenia działalności przez ten podmiot. Przedstawienie przez właściwy organ nadzoru pozytywnej opinii rozumiane jest jako wypełnianie przez podmiot ubiegający się owpis do rejestru agentów firmy inwestycyjnej warunków, októrych mowa wust. 3.
 
-5. Komisja odmawia wpisu do rejestru agentów firmy inwestycyjnej w przypadku, gdy osoba fizyczna ubiegajàca si´ owpis lub osoba kierujàca dzia∏alnoÊcià podmiotu, o którym mowa w ust. 3, ubiegajàcego si´ o wpis zosta∏a uznana prawomocnym orzeczeniem za winnego przest´pstwa skarbowego, przest´pstwa przeciwko wiarygodnoÊci dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieni´dzmi ipapierami wartoÊciowymi, za przest´pstwa okreÊlone w art.305, 307 lub 308 ustawy zdnia 30 czerwca 2000r. Prawo w∏asnoÊci przemys∏owej (Dz. U. z2003 r. 119, poz. 1117, z póên. zm. ), za przest´pstwa okreÊlone w ustawie o gie∏dach towarowych lub za przest´pstwa okreÊlone wniniejszej ustawie.
+5. Komisja odmawia wpisu do rejestru agentów firmy inwestycyjnej w przypadku, gdy osoba fizyczna ubiegająca się owpis lub osoba kierująca działalnością podmiotu, o którym mowa w ust. 3, ubiegającego się o wpis została uznana prawomocnym orzeczeniem za winnego przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi ipapierami wartościowymi, za przestępstwa określone w art.305, 307 lub 308 ustawy zdnia 30 czerwca 2000r. Prawo własności przemysłowej (Dz. U. z2003 r. 119, poz. 1117, z póên. zm. ), za przestępstwa określone w ustawie o giełdach towarowych lub za przestępstwa określone wniniejszej ustawie.
 
-6. Komisja odmawia równie˝ dokonania wpisu podmiotu, o którym mowa w ust. 3, do rejestru agentów firmy inwestycyjnej, wprzypadku gdy wykonywanie przez ten podmiot czynnoÊci, o których mowa w art. 79 ust. 2, mog∏oby doprowadziç do naruszenia bezpieczeƒstwa obrotu lub interesów klientów firmy inwestycyjnej.
+6. Komisja odmawia również dokonania wpisu podmiotu, o którym mowa w ust. 3, do rejestru agentów firmy inwestycyjnej, wprzypadku gdy wykonywanie przez ten podmiot czynności, o których mowa w art. 79 ust. 2, mogłoby doprowadzić do naruszenia bezpieczeństwa obrotu lub interesów klientów firmy inwestycyjnej.
 
-7. Wniosek owpis do rejestru agentów firmy inwestycyjnej sk∏adany jest za poÊrednictwem firmy inwestycyjnej, na rzecz której majà byç wykonywane czynnoÊci, o których mowa w art. 79 ust. 2, i zawiera:
+7. Wniosek owpis do rejestru agentów firmy inwestycyjnej składany jest za pośrednictwem firmy inwestycyjnej, na rzecz której mają być wykonywane czynności, o których mowa w art. 79 ust. 2, i zawiera:
 
-- **1)** w przypadku osoby fizycznej dane osobowe oraz opis dotychczasowego przebiegu pracy zawodowej lub prowadzonej dzia∏alnoÊci gospodarczej, oÊwiadczenie o nieuznaniu za winnego przest´pstwa wskazanego wust. 5 oraz zaÊwiadczenie o z∏o˝eniu z wynikiem pozytywnym egzaminu dla agenta firmy inwestycyjnej;
-- **2)** w przypadku osób prawnych lub jednostek nieposiadajàcych osobowoÊci prawnej dane obejmujàce firm´ lub nazw´ oraz adres siedziby, opis prowadzonej dzia∏alnoÊci gospodarczej, aktualny odpis z w∏aÊciwego rejestru, dane osobowe osób kierujàcych dzia∏alnoÊcià podmiotu oraz ich oÊwiadczenia o nieuznaniu za winnego przest´pstwa wskazanego w ust. 5.
+- **1)** w przypadku osoby fizycznej dane osobowe oraz opis dotychczasowego przebiegu pracy zawodowej lub prowadzonej działalności gospodarczej, oświadczenie o nieuznaniu za winnego przestępstwa wskazanego wust. 5 oraz zaświadczenie o złożeniu z wynikiem pozytywnym egzaminu dla agenta firmy inwestycyjnej;
+- **2)** w przypadku osób prawnych lub jednostek nieposiadających osobowości prawnej dane obejmujące firmę lub nazwę oraz adres siedziby, opis prowadzonej działalności gospodarczej, aktualny odpis z właściwego rejestru, dane osobowe osób kierujących działalnością podmiotu oraz ich oświadczenia o nieuznaniu za winnego przestępstwa wskazanego w ust. 5.
 
-8. Podmiot wpisany do rejestru agentów firmy inwestycyjnej jest obowiàzany do niezw∏ocznego pisemnego informowania Komisji o:
+8. Podmiot wpisany do rejestru agentów firmy inwestycyjnej jest obowiązany do niezwłocznego pisemnego informowania Komisji o:
 
-- **2)** zawarciu umowy, októrej mowa wart. 79 ust. 1, ze wskazaniem daty zawarcia oraz firmy inwestycyjnej, z którà ta umowa zosta∏a zawarta;
-- **3)** rozwiàzaniu umowy, o której mowa w art. 79 ust. 1, ze wskazaniem daty iprzyczyn rozwiàzania oraz firmy inwestycyjnej, z którà umowa zosta∏a rozwiàzana.
+- **2)** zawarciu umowy, októrej mowa wart. 79 ust. 1, ze wskazaniem daty zawarcia oraz firmy inwestycyjnej, z którą ta umowa została zawarta;
+- **3)** rozwiązaniu umowy, o której mowa w art. 79 ust. 1, ze wskazaniem daty iprzyczyn rozwiązania oraz firmy inwestycyjnej, z którą umowa została rozwiązana.
 
 **Art. 82.**
 
-1. Wniosek oudzielenie zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej zawiera:
+1. Wniosek oudzielenie zezwolenia na prowadzenie działalności maklerskiej zawiera:
 
-- **1)** dane osobowe cz∏onków zarzàdu albo wspólników lub komplementariuszy w spó∏ce osobowej, rady nadzorczej, komisji rewizyjnej, o ile jest ustanowiona, jak równie˝ innych osób, które odpowiadajà za rozpocz´cie przez wnioskodawc´ dzia∏alnoÊci maklerskiej lub b´dà nià kierowaç, ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej;
-- **2)** list´ akcjonariuszy posiadajàcych akcje wnioskodawcy bezpoÊrednio lub poÊrednio przez podmioty zale˝ne wraz z okreÊleniem posiadanej przez nich liczby akcji oraz procentowym okreÊleniem posiadanych przez nich g∏osów w ogólnej liczbie g∏osów;
-- **3)** w przypadku akcjonariuszy b´dàcych osobami fizycznymi, posiadajàcych co najmniej 10 % ogólnej liczby g∏osów lub co najmniej 10 % kapita∏u zak∏adowego wnioskodawcy dane osobowe tych osób, informacje odotychczasowym przebiegu pracy zawodowej lub prowadzonej dzia∏alnoÊci gospodarczej;
-- **4)** w przypadku akcjonariuszy b´dàcych osobami prawnymi, posiadajàcych co najmniej 10 % ogólnej liczby g∏osów lub co najmniej 10 % kapita∏u zak∏adowego spó∏ki akcyjnej b´dàcej wnioskodawcà informacj´ na temat prowadzonej dzia∏alnoÊci gospodarczej, aktualny odpis z w∏aÊciwego rejestru oraz ostatnie sprawozdanie finansowe wraz zopinià podmiotu uprawnionego do badania sprawozdaƒ finansowych iraportem zbadania, je˝eli badanie jest wymagane przepisami prawa;
-- **5)** informacje opodmiotach wchodzàcych wsk∏ad tej
-- **1)** ka˝dorazowej zmianie danych obj´tych wnioskiem o wpis do rejestru agentów firmy inwestycyjnej; samej co wnioskodawca grupy kapita∏owej obejmujàce wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania i adresu, opis prowadzonej dzia∏alnoÊci gospodarczej oraz, w przypadku osoby prawnej b´dàcej podmiotem dominujàcym wobec wnioskodawcy, wskazanie osób wchodzàcych w sk∏ad jej organów;
-- **6)** informacje okreÊlone wpkt 5 wodniesieniu do akcjonariuszy lub wspólników podmiotu dominujàcego w grupie kapita∏owej, w której pozostaje wnioskodawca;
-- **7)** wskazanie zakresu czynnoÊci, od wykonywania których wnioskodawca zamierza rozpoczàç dzia∏alnoÊç maklerskà;
-- **8)** informacj´ o wysokoÊci kapita∏u za∏o˝ycielskiego, ze wskazaniem êróde∏ jego pochodzenia, albo informacj´ ozawartej umowie ubezpieczenia, októrej mowa w art. 98 ust. 9, w tym w szczególnoÊci wskazanie zak∏adu ubezpieczeƒ, z którym zosta∏a zawarta, oraz wysokoÊci sumy ubezpieczenia;
-- **9)** analiz´ ekonomiczno-finansowà mo˝liwoÊci prowadzenia dzia∏alnoÊci maklerskiej przez okres roku od dnia rozpocz´cia tej dzia∏alnoÊci;
-- **10)** oÊwiadczenia osób wymienionych wpkt 1, zwy∏àczeniem wspólników oraz komplementariuszy w spó∏ce osobowej, ˝e nie by∏y uznane prawomocnym orzeczeniem za winne pope∏nienia przest´pstwa skarbowego, przest´pstwa przeciwko wiarygodnoÊci dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieni´dzmi i papierami wartoÊciowymi, za przest´pstwa okreÊlone w art.305, 307 lub 308 ustawy z dnia 30 czerwca 2000 r. Prawo w∏asnoÊci przemys∏owej, za przest´pstwa okreÊlone w ustawie o gie∏dach towarowych lub za przest´pstwa okreÊlone w niniejszej ustawie;
-- **11)** informacje o planowanej organizacji przedsi´biorstwa, ze wskazaniem adresów centrali ioddzia∏ów, je˝eli jest planowane ich otwarcie, oraz oposiadanych urzàdzeniach telekomunikacyjnych i o warunkach lokalowych;
-- **12)** informacj´ o dotychczas prowadzonej przez wnioskodawc´ dzia∏alnoÊci gospodarczej iprzyczynach zaprzestania tej dzia∏alnoÊci;
-- **13)** informacj´ o podmiotach dominujàcych i zale˝nych wobec akcjonariuszy posiadajàcych co najmniej 10 % ogólnej liczby g∏osów lub 10 % kapita∏u zak∏adowego wnioskodawcy obejmujàcà wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania i adresu oraz opisu prowadzonej dzia∏alnoÊci gospodarczej.
+- **1)** dane osobowe członków zarządu albo wspólników lub komplementariuszy w spółce osobowej, rady nadzorczej, komisji rewizyjnej, o ile jest ustanowiona, jak również innych osób, które odpowiadają za rozpoczęcie przez wnioskodawcę działalności maklerskiej lub będą nią kierować, ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej;
+- **2)** listę akcjonariuszy posiadających akcje wnioskodawcy bezpośrednio lub pośrednio przez podmioty zależne wraz z określeniem posiadanej przez nich liczby akcji oraz procentowym określeniem posiadanych przez nich głosów w ogólnej liczbie głosów;
+- **3)** w przypadku akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 10 % ogólnej liczby głosów lub co najmniej 10 % kapitału zakładowego wnioskodawcy dane osobowe tych osób, informacje odotychczasowym przebiegu pracy zawodowej lub prowadzonej działalności gospodarczej;
+- **4)** w przypadku akcjonariuszy będących osobami prawnymi, posiadających co najmniej 10 % ogólnej liczby głosów lub co najmniej 10 % kapitału zakładowego spółki akcyjnej będącej wnioskodawcą informację na temat prowadzonej działalności gospodarczej, aktualny odpis z właściwego rejestru oraz ostatnie sprawozdanie finansowe wraz zopinią podmiotu uprawnionego do badania sprawozdań finansowych iraportem zbadania, jeżeli badanie jest wymagane przepisami prawa;
+- **5)** informacje opodmiotach wchodzących wskład tej
+- **1)** każdorazowej zmianie danych objętych wnioskiem o wpis do rejestru agentów firmy inwestycyjnej; samej co wnioskodawca grupy kapitałowej obejmujące wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania i adresu, opis prowadzonej działalności gospodarczej oraz, w przypadku osoby prawnej będącej podmiotem dominującym wobec wnioskodawcy, wskazanie osób wchodzących w skład jej organów;
+- **6)** informacje określone wpkt 5 wodniesieniu do akcjonariuszy lub wspólników podmiotu dominującego w grupie kapitałowej, w której pozostaje wnioskodawca;
+- **7)** wskazanie zakresu czynności, od wykonywania których wnioskodawca zamierza rozpocząć działalność maklerską;
+- **8)** informację o wysokości kapitału założycielskiego, ze wskazaniem êródeł jego pochodzenia, albo informację ozawartej umowie ubezpieczenia, októrej mowa w art. 98 ust. 9, w tym w szczególności wskazanie zakładu ubezpieczeń, z którym została zawarta, oraz wysokości sumy ubezpieczenia;
+- **9)** analizę ekonomiczno-finansową możliwości prowadzenia działalności maklerskiej przez okres roku od dnia rozpoczęcia tej działalności;
+- **10)** oświadczenia osób wymienionych wpkt 1, zwyłączeniem wspólników oraz komplementariuszy w spółce osobowej, że nie były uznane prawomocnym orzeczeniem za winne popełnienia przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, za przestępstwa określone w art.305, 307 lub 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, za przestępstwa określone w ustawie o giełdach towarowych lub za przestępstwa określone w niniejszej ustawie;
+- **11)** informacje o planowanej organizacji przedsiębiorstwa, ze wskazaniem adresów centrali ioddziałów, jeżeli jest planowane ich otwarcie, oraz oposiadanych urządzeniach telekomunikacyjnych i o warunkach lokalowych;
+- **12)** informację o dotychczas prowadzonej przez wnioskodawcę działalności gospodarczej iprzyczynach zaprzestania tej działalności;
+- **13)** informację o podmiotach dominujących i zależnych wobec akcjonariuszy posiadających co najmniej 10 % ogólnej liczby głosów lub 10 % kapitału zakładowego wnioskodawcy obejmującą wskazanie ich firmy (nazwy) lub imienia i nazwiska, siedziby i adresu lub miejsca zamieszkania i adresu oraz opisu prowadzonej działalności gospodarczej.
 
-2. Do wniosku za∏àcza si´:
+2. Do wniosku załącza się:
 
-- **1)** statut albo umow´ spó∏ki i odpis z rejestru przedsi´biorców lub, wprzypadku wnioskodawcy b´dàcego podmiotem zagranicznym, z odpowiedniego rejestru;
-- **2)** regulaminy okreÊlajàce sposób prowadzenia dzia∏alnoÊci w zakresie czynnoÊci, o których mowa w ust. 1 pkt 7;
-- **3)** regulamin organizacyjny i regulamin kontroli wewn´trznej;
-- **4)** regulamin ochrony przep∏ywu informacji poufnych oraz procedury wewn´trzne:
-    - **a)** zapobiegajàce wprowadzaniu do obrotu finansowego wartoÊci majàtkowych pochodzàcych z nielegalnych lub nieujawnionych êróde∏, oraz mandytowej lub komandytowo-akcyjnej oraz pracowników domu maklerskiego na w∏asny rachunek w maklerskie instrumenty finansowe;
+- **1)** statut albo umowę spółki i odpis z rejestru przedsiębiorców lub, wprzypadku wnioskodawcy będącego podmiotem zagranicznym, z odpowiedniego rejestru;
+- **2)** regulaminy określające sposób prowadzenia działalności w zakresie czynności, o których mowa w ust. 1 pkt 7;
+- **3)** regulamin organizacyjny i regulamin kontroli wewnętrznej;
+- **4)** regulamin ochrony przepływu informacji poufnych oraz procedury wewnętrzne:
+    - **a)** zapobiegające wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych êródeł, oraz mandytowej lub komandytowo-akcyjnej oraz pracowników domu maklerskiego na własny rachunek w maklerskie instrumenty finansowe;
 
-- **6)** procedury monitorowania i kontroli ryzyka stopy procentowej zwiàzanego z ca∏oÊcià prowadzonej dzia∏alnoÊci;
-- **7)** list´ maklerów papierów wartoÊciowych lub doradców inwestycyjnych zatrudnionych przez wnioskodawc´ zgodnie z art. 83;
-- **8)** w przypadku wnioskodawcy korzystajàcego z wy∏àczenia wynikajàcego z art. 98 ust. 9 kopi´ umowy ubezpieczenia, októrej mowa wtym przepisie;
-- **9)** z∏o˝one przez akcjonariuszy b´dàcych osobami fizycznymi, posiadajàcych co najmniej 10 % ogólnej liczby g∏osów lub co najmniej 10 % kapita∏u zak∏adowego wnioskodawcy, pod rygorem odpowiedzialnoÊci karnej, oÊwiadczenia o êródle pochodzenia Êrodków pieni´˝nych przeznaczonych na zap∏at´ za obejmowane lub nabywane akcje lub udzia∏y wnioskodawcy w przypadku gdy wnioskodawca ubiega si´ ozezwolenie na prowadzenie dzia∏alnoÊci maklerskiej w formie domu maklerskiego.
+- **6)** procedury monitorowania i kontroli ryzyka stopy procentowej związanego z całością prowadzonej działalności;
+- **7)** listę maklerów papierów wartościowych lub doradców inwestycyjnych zatrudnionych przez wnioskodawcę zgodnie z art. 83;
+- **8)** w przypadku wnioskodawcy korzystającego z wyłączenia wynikającego z art. 98 ust. 9 kopię umowy ubezpieczenia, októrej mowa wtym przepisie;
+- **9)** złożone przez akcjonariuszy będących osobami fizycznymi, posiadających co najmniej 10 % ogólnej liczby głosów lub co najmniej 10 % kapitału zakładowego wnioskodawcy, pod rygorem odpowiedzialności karnej, oświadczenia o êródle pochodzenia środków pieniężnych przeznaczonych na zapłatę za obejmowane lub nabywane akcje lub udziały wnioskodawcy w przypadku gdy wnioskodawca ubiega się ozezwolenie na prowadzenie działalności maklerskiej w formie domu maklerskiego.
 
-3. We wniosku, o którym mowa w ust. 1, nie zamieszcza si´ informacji okreÊlonych w ust. 1 pkt 5 i 6, w przypadku gdy dotyczà one:
+3. We wniosku, o którym mowa w ust. 1, nie zamieszcza się informacji określonych w ust. 1 pkt 5 i 6, w przypadku gdy dotyczą one:
 
-- **1)** podmiotu b´dàcego emitentem papierów wartoÊciowych lub innych instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym, firmà inwestycyjnà, towarowym domem maklerskim, bankiem, zak∏adem ubezpieczeƒ, funduszem inwestycyjnym, funduszem emerytalnym, funduszem zagranicznym lub spó∏kà zarzàdzajàcà w rozumieniu przepisów o funduszach inwestycyjnych, lub innym zagranicznym podmiotem nadzorowanym przez organ, z którym Komisja zawar∏a porozumienie, o którym mowa w art. 20 ust. 2 ustawy o nadzorze, lub porozumienie, o którym mowa wprzepisach ofunduszach inwestycyjnych;
-    - **b)** s∏u˝àce przeciwdzia∏aniu i ujawnianiu przypadków manipulacji;
+- **1)** podmiotu będącego emitentem papierów wartościowych lub innych instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym, firmą inwestycyjną, towarowym domem maklerskim, bankiem, zakładem ubezpieczeń, funduszem inwestycyjnym, funduszem emerytalnym, funduszem zagranicznym lub spółką zarządzającą w rozumieniu przepisów o funduszach inwestycyjnych, lub innym zagranicznym podmiotem nadzorowanym przez organ, z którym Komisja zawarła porozumienie, o którym mowa w art. 20 ust. 2 ustawy o nadzorze, lub porozumienie, o którym mowa wprzepisach ofunduszach inwestycyjnych;
+    - **b)** służące przeciwdziałaniu i ujawnianiu przypadków manipulacji;
 
-- **5)** regulamin inwestowania przez cz∏onków zarzàdu irady nadzorczej, wspólników wspó∏ce jawnej lub partnerskiej albo komplementariuszy wspó∏ce ko2) podmiotu dominujàcego lub zale˝nego od podmiotu, o którym mowa w pkt 1, lub
-- **3)** podmiotu zale˝nego od podmiotu dominujàcego wobec podmiotu, o którym mowa w pkt 1.
+- **5)** regulamin inwestowania przez członków zarządu irady nadzorczej, wspólników współce jawnej lub partnerskiej albo komplementariuszy współce ko2) podmiotu dominującego lub zależnego od podmiotu, o którym mowa w pkt 1, lub
+- **3)** podmiotu zależnego od podmiotu dominującego wobec podmiotu, o którym mowa w pkt 1.
 
-4. W celu ustalenia wp∏ywu wywieranego przez podmiot posiadajàcy poÊrednio lub bezpoÊrednio akcje lub udzia∏y wnioskodawcy w liczbie zapewniajàcej co najmniej 10 % ogólnej liczby g∏osów na sposób prowadzenia dzia∏alnoÊci maklerskiej, przestrzegania zasad uczciwego obrotu lub nale˝ytego zabezpieczenia interesów klientów, Komisja mo˝e ˝àdaç przedstawienia innych danych dotyczàcych sytuacji prawnej lub finansowej tego podmiotu.
+4. W celu ustalenia wpływu wywieranego przez podmiot posiadający pośrednio lub bezpośrednio akcje lub udziały wnioskodawcy w liczbie zapewniającej co najmniej 10 % ogólnej liczby głosów na sposób prowadzenia działalności maklerskiej, przestrzegania zasad uczciwego obrotu lub należytego zabezpieczenia interesów klientów, Komisja może żądać przedstawienia innych danych dotyczących sytuacji prawnej lub finansowej tego podmiotu.
 
-5. Przepisy ust. 1, ust. 2 pkt 9 iust. 4 dotyczàce akcji lub akcjonariuszy stosuje si´ odpowiednio do udzia∏ów lub wspólników w przypadku, gdy wnioskodawcà jest spó∏ka z ograniczonà odpowiedzialnoÊcià. Przepis ust. 2 pkt 9 dotyczàcy oÊwiadczenia o êródle pochodzenia Êrodków pieni´˝nych przeznaczonych na zap∏at´ za obejmowane lub nabywane akcje stosuje si´ odpowiednio do oÊwiadczenia o êródle pochodzenia Êrodków pieni´˝nych wnoszonych jako wk∏ad do spó∏ki osobowej wprzypadku, gdy wnioskodawcà jest spó∏ka jawna, partnerska lub komandytowa.
+5. Przepisy ust. 1, ust. 2 pkt 9 iust. 4 dotyczące akcji lub akcjonariuszy stosuje się odpowiednio do udziałów lub wspólników w przypadku, gdy wnioskodawcą jest spółka z ograniczoną odpowiedzialnością. Przepis ust. 2 pkt 9 dotyczący oświadczenia o êródle pochodzenia środków pieniężnych przeznaczonych na zapłatę za obejmowane lub nabywane akcje stosuje się odpowiednio do oświadczenia o êródle pochodzenia środków pieniężnych wnoszonych jako wkład do spółki osobowej wprzypadku, gdy wnioskodawcą jest spółka jawna, partnerska lub komandytowa.
 
 **Art. 83.**
 
-1. Firma inwestycyjna jest obowiàzana zatrudniaç co najmniej:
+1. Firma inwestycyjna jest obowiązana zatrudniać co najmniej:
 
-- **1)** jednego maklera papierów wartoÊciowych do wykonywania ka˝dej z czynnoÊci, o których mowa wart. 69 ust. 2 pkt 1, 2 i5, ust. 3 pkt 1 i3 oraz ust. 4 pkt 1 i 2, jak równie˝ do wykonywania czynnoÊci, októrych mowa wart. 69 ust. 2 pkt 3, je˝eli sà one zwiàzane zorganizacjà obrotu zorganizowanego;
-- **2)** dwóch doradców inwestycyjnych do wykonywania czynnoÊci, o których mowa w art. 69 ust. 2 pkt 4;
-- **3)** jednego doradc´ inwestycyjnego lub jednego maklera papierów wartoÊciowych do wykonywania czynnoÊci, o których mowa w art. 69 ust. 3 pkt2 oraz ust. 4 pkt 7.
+- **1)** jednego maklera papierów wartościowych do wykonywania każdej z czynności, o których mowa wart. 69 ust. 2 pkt 1, 2 i5, ust. 3 pkt 1 i3 oraz ust. 4 pkt 1 i 2, jak również do wykonywania czynności, októrych mowa wart. 69 ust. 2 pkt 3, jeżeli są one związane zorganizacją obrotu zorganizowanego;
+- **2)** dwóch doradców inwestycyjnych do wykonywania czynności, o których mowa w art. 69 ust. 2 pkt 4;
+- **3)** jednego doradcę inwestycyjnego lub jednego maklera papierów wartościowych do wykonywania czynności, o których mowa w art. 69 ust. 3 pkt2 oraz ust. 4 pkt 7.
 
-2. Warunki, októrych mowa wust. 1, uwa˝a si´ za spe∏nione, je˝eli czynnoÊci wymienione wtym przepisie wykonuje makler papierów wartoÊciowych lub doradca inwestycyjny b´dàcy komplementariuszem w spó∏ce komandytowo-akcyjnej lub komandytowej albo wspólnikiem wspó∏ce jawnej lub partnerskiej b´dàcej firmà inwestycyjnà.
+2. Warunki, októrych mowa wust. 1, uważa się za spełnione, jeżeli czynności wymienione wtym przepisie wykonuje makler papierów wartościowych lub doradca inwestycyjny będący komplementariuszem w spółce komandytowo-akcyjnej lub komandytowej albo wspólnikiem współce jawnej lub partnerskiej będącej firmą inwestycyjną.
 
-3. Przepisu ust. 1 nie stosuje si´ do zagranicznych firm inwestycyjnych prowadzàcych na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç maklerskà bez koniecznoÊci otwierania oddzia∏u.
+3. Przepisu ust. 1 nie stosuje się do zagranicznych firm inwestycyjnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską bez konieczności otwierania oddziału.
 
 **Art. 84.**
 
-1. Komisja rozpoznaje wniosek o zezwolenie na prowadzenie dzia∏alnoÊci maklerskiej w terminie 2 miesi´cy od dnia jego z∏o˝enia.
+1. Komisja rozpoznaje wniosek o zezwolenie na prowadzenie działalności maklerskiej w terminie 2 miesięcy od dnia jego złożenia.
 
 2. Zezwolenie zawiera:
 
-- **1)** firm´, siedzib´ oraz adres firmy inwestycyjnej;
-- **2)** wskazanie wszystkich czynnoÊci, o których mowa w art. 69 ust. 2—4;
-- **3)** termin rozpocz´cia dzia∏alnoÊci maklerskiej, nie d∏u˝szy ni˝ 12 miesi´cy od dnia, wktórym decyzja o udzieleniu zezwolenia sta∏a si´ ostateczna.
+- **1)** firmę, siedzibę oraz adres firmy inwestycyjnej;
+- **2)** wskazanie wszystkich czynności, o których mowa w art. 69 ust. 2—4;
+- **3)** termin rozpoczęcia działalności maklerskiej, nie dłuższy niż 12 miesięcy od dnia, wktórym decyzja o udzieleniu zezwolenia stała się ostateczna.
 
 **Art. 85.** Komisja odmawia udzielenia zezwolenia, w przypadku gdy:
 
-**Art. 86.** Firma inwestycyjna jest obowiàzana niezw∏ocznie informowaç Komisj´ o:
+**Art. 86.** Firma inwestycyjna jest obowiązana niezwłocznie informować Komisję o:
 
 **Art. 87.**
 
-1. Po uzyskaniu zezwolenia firma inwestycyjna jest obowiàzana zawiadamiaç Komisj´ o zamiarze rozpocz´cia dzia∏alnoÊci maklerskiej w zakresie innym ni˝ wskazany we wniosku, o którym mowa wart.82, co najmniej na 30 dni przed dniem jej rozpocz´cia.
+1. Po uzyskaniu zezwolenia firma inwestycyjna jest obowiązana zawiadamiać Komisję o zamiarze rozpoczęcia działalności maklerskiej w zakresie innym niż wskazany we wniosku, o którym mowa wart.82, co najmniej na 30 dni przed dniem jej rozpoczęcia.
 
 2. Zawiadomienie, októrym mowa wust. 1, zawiera:
 
-- **1)** zakres dzia∏alnoÊci maklerskiej, którà firma inwestycyjna zamierza wykonywaç;
-- **2)** regulaminy okreÊlajàce sposób prowadzenia planowanej dzia∏alnoÊci;
-- **3)** dane osobowe osób, które odpowiadajà za rozpocz´cie planowanej dzia∏alnoÊci, oraz osób, które b´dà kierowaç tà dzia∏alnoÊcià, informacje o ich kwalifikacjach i dotychczasowym przebiegu pracy zawodowej oraz o opinii zwiàzanej ze sprawowanymi funkcjami;
-- **4)** regulaminy, o których mowa w art. 82 ust. 2 pkt 3 i 4, dostosowane do zakresu planowanej dzia∏alnoÊci;
-- **5)** dokumenty potwierdzajàce zatrudnienie maklerów papierów wartoÊciowych lub doradców inwestycyjnych wliczbie wymaganej do prowadzenia planowanej dzia∏alnoÊci;
-- **6)** informacj´ o wysokoÊci posiadanego przez dom maklerski kapita∏u za∏o˝ycielskiego lub o wysokoÊci funduszu na prowadzenie dzia∏alnoÊci maklerskiej w przypadku zagranicznej osoby prawnej, o której mowa w art. 115 ust. 1 w przypadku gdy prowadzenie planowanej dzia∏alnoÊci powodowa∏oby koniecznoÊç zwi´kszenia odpowiednio dotychczasowej wysokoÊci kapita∏u za∏o˝ycielskiego lub funduszu na prowadzenie dzia∏alnoÊci maklerskiej, oraz wskazanie êróde∏ ich pochodzenia;
-- **7)** oÊwiadczenia osób wymienionych w pkt 3 o nieuznaniu prawomocnym orzeczeniem za winnego przest´pstwa skarbowego, przest´pstwa przeciwko wiarygodnoÊci dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieni´dzmi i papierami wartoÊciowymi, za przest´pstwa okreÊlone w art.305, 307 lub 308 ustawy z dnia 30 czerwca 2000 r. Prawo w∏asnoÊci przemys∏owej, za przest´pstwa okreÊlone w ustawie z dnia 26 paêdziernika 2000 r. o gie∏dach towarowych lub za przest´pstwa okreÊlone w niniejszej ustawie;
-- **8)** informacje o planowanej, w zwiàzku z rozszerzeniem zakresu dzia∏alnoÊci, organizacji przedsi´biorstwa spó∏ki lub oddzia∏u, w szczególnoÊci o przeznaczonych na ten cel urzàdzeniach telekomunikacyjnych i o warunkach lokalowych.
+- **1)** zakres działalności maklerskiej, którą firma inwestycyjna zamierza wykonywać;
+- **2)** regulaminy określające sposób prowadzenia planowanej działalności;
+- **3)** dane osobowe osób, które odpowiadają za rozpoczęcie planowanej działalności, oraz osób, które będą kierować tą działalnością, informacje o ich kwalifikacjach i dotychczasowym przebiegu pracy zawodowej oraz o opinii związanej ze sprawowanymi funkcjami;
+- **4)** regulaminy, o których mowa w art. 82 ust. 2 pkt 3 i 4, dostosowane do zakresu planowanej działalności;
+- **5)** dokumenty potwierdzające zatrudnienie maklerów papierów wartościowych lub doradców inwestycyjnych wliczbie wymaganej do prowadzenia planowanej działalności;
+- **6)** informację o wysokości posiadanego przez dom maklerski kapitału założycielskiego lub o wysokości funduszu na prowadzenie działalności maklerskiej w przypadku zagranicznej osoby prawnej, o której mowa w art. 115 ust. 1 w przypadku gdy prowadzenie planowanej działalności powodowałoby konieczność zwiększenia odpowiednio dotychczasowej wysokości kapitału założycielskiego lub funduszu na prowadzenie działalności maklerskiej, oraz wskazanie êródeł ich pochodzenia;
+- **7)** oświadczenia osób wymienionych w pkt 3 o nieuznaniu prawomocnym orzeczeniem za winnego przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, za przestępstwa określone w art.305, 307 lub 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, za przestępstwa określone w ustawie z dnia 26 paêdziernika 2000 r. o giełdach towarowych lub za przestępstwa określone w niniejszej ustawie;
+- **8)** informacje o planowanej, w związku z rozszerzeniem zakresu działalności, organizacji przedsiębiorstwa spółki lub oddziału, w szczególności o przeznaczonych na ten cel urządzeniach telekomunikacyjnych i o warunkach lokalowych.
 
-**Art. 88.** Na ˝àdanie Komisji lub jej upowa˝nionego przedstawiciela, osoby uprawnione do reprezentowania firmy inwestycyjnej lub wchodzàce w sk∏ad jej statutowych organów albo pozostajàce zfirmà inwestycyjnà wstosunku pracy sà obowiàzane do niezw∏ocznego sporzàdzenia i przekazania, na koszt tej firmy inwestycyjnej, kopii dokumentów iinnych noÊników informacji oraz do udzielenia pisemnych lub ustnych wyjaÊnieƒ wzakresie nadzoru sprawowanego przez Komisj´.
+**Art. 88.** Na żądanie Komisji lub jej upoważnionego przedstawiciela, osoby uprawnione do reprezentowania firmy inwestycyjnej lub wchodzące w skład jej statutowych organów albo pozostające zfirmą inwestycyjną wstosunku pracy są obowiązane do niezwłocznego sporządzenia i przekazania, na koszt tej firmy inwestycyjnej, kopii dokumentów iinnych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień wzakresie nadzoru sprawowanego przez Komisję.
 
 **Art. 89.**
 
-- **1)** w przypadku nierozpocz´cia dzia∏alnoÊci maklerskiej w terminie wskazanym w decyzji w sprawie udzielenia zezwolenia;
-- **2)** zchwilà og∏oszenia upad∏oÊci firmy inwestycyjnej;
-- **3)** w przypadku otwarcia likwidacji firmy inwestycyjnej z up∏ywem 3 miesi´cy od dnia jej otwarcia, z zastrze˝eniem ust. 2.
+- **1)** w przypadku nierozpoczęcia działalności maklerskiej w terminie wskazanym w decyzji w sprawie udzielenia zezwolenia;
+- **2)** zchwilą ogłoszenia upadłości firmy inwestycyjnej;
+- **3)** w przypadku otwarcia likwidacji firmy inwestycyjnej z upływem 3 miesięcy od dnia jej otwarcia, z zastrzeżeniem ust. 2.
 
-2. W razie koniecznoÊci zabezpieczenia interesu publicznego Komisja mo˝e w drodze decyzji skróciç termin wskazany w ust. 1 pkt 3.
+2. W razie konieczności zabezpieczenia interesu publicznego Komisja może w drodze decyzji skrócić termin wskazany w ust. 1 pkt 3.
 
-3. O ile w decyzji w sprawie cofni´cia zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej lub decyzji, o której mowa w ust. 2, nie okreÊlono inaczej, w przypadku otwarcia likwidacji do czasu wygaÊni´cia zezwolenia albo wprzypadku cofni´cia zezwolenia do czasu zaprzestania prowadzenia dzia∏alnoÊci firma inwestycyjna wykonuje wy∏àcznie czynnoÊci wynikajàce zprowadzenia rachunków papierów wartoÊciowych, rachunków, o których mowa w art. 69 ust. 4
+3. O ile w decyzji w sprawie cofnięcia zezwolenia na prowadzenie działalności maklerskiej lub decyzji, o której mowa w ust. 2, nie określono inaczej, w przypadku otwarcia likwidacji do czasu wygaśnięcia zezwolenia albo wprzypadku cofnięcia zezwolenia do czasu zaprzestania prowadzenia działalności firma inwestycyjna wykonuje wyłącznie czynności wynikające zprowadzenia rachunków papierów wartościowych, rachunków, o których mowa w art. 69 ust. 4
 
-1. Zezwolenie na prowadzenie dzia∏alnoÊci maklerskiej wygasa: pkt2, rachunków pieni´˝nych lub umów ozarzàdzanie portfelem maklerskich instrumentów finansowych bez mo˝liwoÊci zawierania nowych umów, oraz wynikajàce z nabytych na rachunek klientów maklerskich instrumentów finansowych, o których mowa w art. 2 ust. 1 pkt 2 lit. club d, czynnoÊci majàce na celu zakoƒczenie tych inwestycji przez klientów.
+1. Zezwolenie na prowadzenie działalności maklerskiej wygasa: pkt2, rachunków pieniężnych lub umów ozarządzanie portfelem maklerskich instrumentów finansowych bez możliwości zawierania nowych umów, oraz wynikające z nabytych na rachunek klientów maklerskich instrumentów finansowych, o których mowa w art. 2 ust. 1 pkt 2 lit. club d, czynności mające na celu zakończenie tych inwestycji przez klientów.
 
-4. W przypadku wygaÊni´cia lub cofni´cia zezwolenia lub zaprzestania prowadzenia rachunków papierów wartoÊciowych, rachunków, o których mowa w art. 69 ust. 4 pkt 2, i rachunków pieni´˝nych przez podmiot prowadzàcy dzia∏alnoÊç maklerskà Komisja mo˝e nakazaç przeniesienie papierów wartoÊciowych, innych maklerskich instrumentów finansowych iÊrodków pieni´˝nych oraz dokumentów zwiàzanych z prowadzeniem rachunków papierów wartoÊciowych, rachunków, o których mowa w art. 69 ust. 4 pkt 2, i rachunków pieni´˝nych do innej firmy inwestycyjnej, która uprzednio wyrazi∏a na to zgod´. W innych przypadkach do post´powania z dokumentami zwiàzanymi z prowadzeniem dzia∏alnoÊci maklerskiej stosuje si´ art. 476 § 3 ustawy zdnia 15 wrzeÊnia 2000 r. Kodeks spó∏ek handlowych. W∏aÊciwy sàd niezw∏ocznie zawiadamia Komisj´ o wyznaczonym przechowawcy.
+4. W przypadku wygaśnięcia lub cofnięcia zezwolenia lub zaprzestania prowadzenia rachunków papierów wartościowych, rachunków, o których mowa w art. 69 ust. 4 pkt 2, i rachunków pieniężnych przez podmiot prowadzący działalność maklerską Komisja może nakazać przeniesienie papierów wartościowych, innych maklerskich instrumentów finansowych iśrodków pieniężnych oraz dokumentów związanych z prowadzeniem rachunków papierów wartościowych, rachunków, o których mowa w art. 69 ust. 4 pkt 2, i rachunków pieniężnych do innej firmy inwestycyjnej, która uprzednio wyraziła na to zgodę. W innych przypadkach do postępowania z dokumentami związanymi z prowadzeniem działalności maklerskiej stosuje się art. 476 § 3 ustawy zdnia 15 września 2000 r. Kodeks spółek handlowych. Właściwy sąd niezwłocznie zawiadamia Komisję o wyznaczonym przechowawcy.
 
 **Art. 90.**
 
-1. Firma inwestycyjna, która zaprzesta∏a prowadzenia dzia∏alnoÊci maklerskiej, ma obowiàzek archiwizowania i przechowywania na terytorium Rzeczypospolitej Polskiej, przez okres 5 lat od dnia zaprzestania prowadzenia tej dzia∏alnoÊci, dokumentów oraz innych noÊników informacji zwiàzanych z prowadzeniem tej dzia∏alnoÊci. Obowiàzek uwa˝a si´ za wykonany w przypadku zapewnienia przez firm´ inwestycyjnà przechowywania dokumentów oraz innych noÊników informacji przez podmiot trzeci spe∏niajàcy wymagania okreÊlone w odr´bnych przepisach.
+1. Firma inwestycyjna, która zaprzestała prowadzenia działalności maklerskiej, ma obowiązek archiwizowania i przechowywania na terytorium Rzeczypospolitej Polskiej, przez okres 5 lat od dnia zaprzestania prowadzenia tej działalności, dokumentów oraz innych nośników informacji związanych z prowadzeniem tej działalności. Obowiązek uważa się za wykonany w przypadku zapewnienia przez firmę inwestycyjną przechowywania dokumentów oraz innych nośników informacji przez podmiot trzeci spełniający wymagania określone w odrębnych przepisach.
 
-2. Upowa˝niony przedstawiciel Komisji ma prawo wst´pu do siedziby lub lokalu podmiotu przechowujàcego dokumenty iinne noÊniki informacji celem wglàdu do tych dokumentów i noÊników.
+2. Upoważniony przedstawiciel Komisji ma prawo wstępu do siedziby lub lokalu podmiotu przechowującego dokumenty iinne nośniki informacji celem wglądu do tych dokumentów i nośników.
 
-3. Na pisemne ˝àdanie Komisji lub jej upowa˝nionego przedstawiciela podmiot przechowujàcy dokumenty jest obowiàzany do niezw∏ocznego sporzàdzenia na w∏asny koszt iprzekazania kopii tych dokumentów i noÊników.
+3. Na pisemne żądanie Komisji lub jej upoważnionego przedstawiciela podmiot przechowujący dokumenty jest obowiązany do niezwłocznego sporządzenia na własny koszt iprzekazania kopii tych dokumentów i nośników.
 
-4. Przepisy ust. 1 nie naruszajà przepisów ustawy z dnia 29 wrzeÊnia 1994 r. o rachunkowoÊci (Dz. U. z 2002 r. 76, poz. 694, z póên. zm. ).
+4. Przepisy ust. 1 nie naruszają przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. 76, poz. 694, z póên. zm. ).
 
-5. Przepisów ust. 1—4 nie stosuje si´ do zagranicznych firm inwestycyjnych prowadzàcych na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç maklerskà bez otwierania oddzia∏u.
+5. Przepisów ust. 1—4 nie stosuje się do zagranicznych firm inwestycyjnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską bez otwierania oddziału.
 
 **Art. 91.**
 
-1. Komisja prowadzi jawny rejestr firm inwestycyjnych zawierajàcy wskazanie firm lub nazw, adresów siedziby oraz zakresu czynnoÊci, które poszczególne firmy wykonujà na terytorium Rzeczypospolitej Polskiej w ramach posiadanego zezwolenia.
+1. Komisja prowadzi jawny rejestr firm inwestycyjnych zawierający wskazanie firm lub nazw, adresów siedziby oraz zakresu czynności, które poszczególne firmy wykonują na terytorium Rzeczypospolitej Polskiej w ramach posiadanego zezwolenia.
 
-2. Rejestr firm inwestycyjnych dost´pny jest na stronie internetowej Komisji.
+2. Rejestr firm inwestycyjnych dostępny jest na stronie internetowej Komisji.
 
 **Art. 92.**
 
-1. Firmy inwestycyjne, w liczbie co najmniej 25, mogà utworzyç, na zasadach okreÊlonych wodr´bnych przepisach, izb´ gospodarczà, zwanà dalej „izbà”.
+1. Firmy inwestycyjne, w liczbie co najmniej 25, mogą utworzyć, na zasadach określonych wodrębnych przepisach, izbę gospodarczą, zwaną dalej Ńizbą”.
 
-2. Organizacj´ w∏adz izby, tryb ich powo∏ywania, zakres kompetencji oraz zadania izby okreÊla statut izby.
+2. Organizację władz izby, tryb ich powoływania, zakres kompetencji oraz zadania izby określa statut izby.
 
-3. Firmy inwestycyjne prowadzàce dzia∏alnoÊç wy∏àcznie w zakresie zarzàdzania portfelami maklerskich instrumentów finansowych lub doradztwa inwestycyjnego w zakresie maklerskich instrumentów finansowych dopuszczonych do obrotu zorganizowanego mogà byç cz∏onkami izby, o której mowa w ust. 1, lub izby gospodarczej, októrej mowa wprzepisach ofunduszach inwestycyjnych.
+3. Firmy inwestycyjne prowadzące działalność wyłącznie w zakresie zarządzania portfelami maklerskich instrumentów finansowych lub doradztwa inwestycyjnego w zakresie maklerskich instrumentów finansowych dopuszczonych do obrotu zorganizowanego mogą być członkami izby, o której mowa w ust. 1, lub izby gospodarczej, októrej mowa wprzepisach ofunduszach inwestycyjnych.
 
 **Art. 93.**
 
-1. Przepisów art. 82, art. 84—87 oraz art. 89 ust. 1 i 2 nie stosuje si´ do zagranicznych firm inwestycyjnych.
+1. Przepisów art. 82, art. 84—87 oraz art. 89 ust. 1 i 2 nie stosuje się do zagranicznych firm inwestycyjnych.
 
-2. Przepisy art. 89 ust. 3 i 4 stosuje si´ odpowiednio do zagranicznych firm inwestycyjnych w przypadku zawieszenia lub zakazania, zgodnie z art. 169 ust. 3 pkt 1 lub 2, wca∏oÊci albo wcz´Êci prowadzenia dzia∏alnoÊci maklerskiej na terytorium Rzeczypospolitej Polskiej.
+2. Przepisy art. 89 ust. 3 i 4 stosuje się odpowiednio do zagranicznych firm inwestycyjnych w przypadku zawieszenia lub zakazania, zgodnie z art. 169 ust. 3 pkt 1 lub 2, wcałości albo wczęści prowadzenia działalności maklerskiej na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 94.**
 
-1. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, w drodze rozporzàdzenia:
+1. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia:
 
-- **1)** tryb i warunki post´powania firm inwestycyjnych oraz banków powierniczych w zakresie:
-    - **a)** promowania Êwiadczonych us∏ug maklerskich oraz kontaktów z potencjalnymi klientami,
-    - **b)** zawierania transakcji i dokonywania rozliczeƒ,
-    - **c)** Êwiadczenia us∏ug maklerskich, w tym w zakresie Êwiadczenia us∏ug maklerskich na rzecz klientów profesjonalnych,
-    - **d)** prowadzenia ewidencji zawieranych transakcji oraz archiwizacji dokumentów i innych noÊników informacji sporzàdzanych wzwiàzku zprowadzeniem dzia∏alnoÊci maklerskiej lub powierniczej,
-    - **e)** ustanawiania i realizacji zabezpieczeƒ sp∏aty kredytów i po˝yczek udzielonych na nabycie maklerskich instrumentów finansowych oraz zabezpieczania wierzytelnoÊci na maklerskich instrumentach finansowych, je˝eli konstrukcja tych instrumentów umo˝liwia ustanowienie zabezpieczenia,
-    - **f)** przenoszenia papierów wartoÊciowych w ramach transakcji bezpoÊrednich, o których mowa w art. 74 ust. 1, w tym w zakresie upowszechniania informacji o ofercie firmy inwestycyjnej oraz o zawieranych transakcjach,
-    - **g)** organizowania alternatywnych systemów obrotu, w tym przy przekazywaniu informacji dotyczàcych tych systemów przy zapewnieniu nale˝ytej starannoÊci, ochrony klienta oraz bezpiecznego isprawnego zawierania i rozliczania transakcji, a tak˝e przejrzystoÊci i bezpieczeƒstwa obrotu;
+- **1)** tryb i warunki postępowania firm inwestycyjnych oraz banków powierniczych w zakresie:
+    - **a)** promowania świadczonych usług maklerskich oraz kontaktów z potencjalnymi klientami,
+    - **b)** zawierania transakcji i dokonywania rozliczeń,
+    - **c)** świadczenia usług maklerskich, w tym w zakresie świadczenia usług maklerskich na rzecz klientów profesjonalnych,
+    - **d)** prowadzenia ewidencji zawieranych transakcji oraz archiwizacji dokumentów i innych nośników informacji sporządzanych wzwiązku zprowadzeniem działalności maklerskiej lub powierniczej,
+    - **e)** ustanawiania i realizacji zabezpieczeń spłaty kredytów i pożyczek udzielonych na nabycie maklerskich instrumentów finansowych oraz zabezpieczania wierzytelności na maklerskich instrumentach finansowych, jeżeli konstrukcja tych instrumentów umożliwia ustanowienie zabezpieczenia,
+    - **f)** przenoszenia papierów wartościowych w ramach transakcji bezpośrednich, o których mowa w art. 74 ust. 1, w tym w zakresie upowszechniania informacji o ofercie firmy inwestycyjnej oraz o zawieranych transakcjach,
+    - **g)** organizowania alternatywnych systemów obrotu, w tym przy przekazywaniu informacji dotyczących tych systemów przy zapewnieniu należytej staranności, ochrony klienta oraz bezpiecznego isprawnego zawierania i rozliczania transakcji, a także przejrzystości i bezpieczeństwa obrotu;
 
-- **2)** zakres i szczegó∏owe zasady wyznaczania wymogów kapita∏owych dla domów maklerskich i banków prowadzàcych dzia∏alnoÊç maklerskà, z wy∏àczeniem podmiotów prowadzàcych dzia∏alnoÊç maklerskà wy∏àcznie w zakresie czynnoÊci, o których mowa w art. 69 ust. 2 pkt 1 lub art. 69 ust. 3 pkt 2, oraz maksymalnà wysokoÊç kredytów, po˝yczek i wyemitowanych d∏u˝nych papierów wartoÊciowych w stosunku do kapita∏ów dla domów maklerskich i banków prowadzàcych dzia∏alnoÊç maklerskà, przy uwzgl´dnieniu koniecznoÊci odpowiedniego zabezpieczenia kapita∏owego w stosunku do wielkoÊci poszczególnych rodzajów ryzyka ponoszonego wdzia∏alnoÊci maklerskiej, wysokoÊci kosztów sta∏ych i zobowiàzaƒ w∏asnych oraz kapita∏ów za∏o˝ycielskich;
-- **3)** tryb i warunki po˝yczania maklerskich instrumentów finansowych, z udzia∏em firm inwestycyjnych oraz banków powierniczych poza systemem zabezpieczenia p∏ynnoÊci rozliczeƒ transakcji, o którym mowa wart. 50 ust. 4 pkt 12, przy uwzgl´dnieniu koniecznoÊci zapewnienia bezpiecznego i sprawnego funkcjonowania systemu rozliczeƒ;
-- **4)** zakres, tryb i form´ oraz terminy dostarczania, innych ni˝ wymienione wart. 86, informacji dotyczàcych dzia∏alnoÊci firm inwestycyjnych i banków powierniczych oraz sytuacji finansowej domów maklerskich, banków prowadzàcych dzia∏alnoÊç maklerskà i zagranicznych osób prawnych prowadzàcych na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç maklerskà, przy uwzgl´dnieniu koniecznoÊci umo˝liwienia Komisji, w zakresie okreÊlonym ustawà, wykonywanie nadzoru nad dzia∏alnoÊcià tych podmiotów;
-- **5)** warunki techniczne i organizacyjne wymagane do prowadzenia dzia∏alnoÊci maklerskiej przez firm´ inwestycyjnà oraz do prowadzenia rachunków papierów wartoÊciowych przez bank powierniczy, z uwzgl´dnieniem koniecznoÊci zapewnienia bezpiecznego isprawnego prowadzenia tej dzia∏alnoÊci;
-- **6)** obowiàzki sprawozdawcze domów maklerskich, banków prowadzàcych dzia∏alnoÊç maklerskà oraz zagranicznych firm inwestycyjnych prowadzàcych na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç maklerskà wformie oddzia∏u izagranicznych osób prawnych, o których mowa w art. 115, prowadzàcych na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç maklerskà, wzakresie wykonywania czynnoÊci poÊrednictwa wnabywaniu izbywaniu maklerskich instrumentów finansowych b´dàcych w obrocie na zagranicznych rynkach regulowanych, przy uwzgl´dnieniu koniecznoÊci umo˝liwienia Komisji, w zakresie okreÊlonym ustawà, wykonywanie nadzoru nad dzia∏alnoÊcià tych podmiotów;
-- **7)** tryb i warunki udzielania przez firmy inwestycyjne po˝yczek na nabycie maklerskich instrumentów finansowych, przy uwzgl´dnieniu koniecznoÊci zapewnienia warunków gwarantujàcych, ˝e Êrodki przeznaczone na po˝yczki nie b´dà pochodziç ze Êrodków pieni´˝nych zdeponowanych przez inwestorów na rachunkach pieni´˝nych s∏u˝àcych do obs∏ugi rachunków, na których rejestrowane sà maklerskie instrumenty finansowe, istnienia zabezpieczenia sp∏aty po˝yczek w celu zapewnienia bezpieczeƒstwa po˝yczkodawców oraz koniecznoÊci badania wiarygodnoÊci i wyp∏acalnoÊci po˝yczkobiorców.
+- **2)** zakres i szczegółowe zasady wyznaczania wymogów kapitałowych dla domów maklerskich i banków prowadzących działalność maklerską, z wyłączeniem podmiotów prowadzących działalność maklerską wyłącznie w zakresie czynności, o których mowa w art. 69 ust. 2 pkt 1 lub art. 69 ust. 3 pkt 2, oraz maksymalną wysokość kredytów, pożyczek i wyemitowanych dłużnych papierów wartościowych w stosunku do kapitałów dla domów maklerskich i banków prowadzących działalność maklerską, przy uwzględnieniu konieczności odpowiedniego zabezpieczenia kapitałowego w stosunku do wielkości poszczególnych rodzajów ryzyka ponoszonego wdziałalności maklerskiej, wysokości kosztów stałych i zobowiązań własnych oraz kapitałów założycielskich;
+- **3)** tryb i warunki pożyczania maklerskich instrumentów finansowych, z udziałem firm inwestycyjnych oraz banków powierniczych poza systemem zabezpieczenia płynności rozliczeń transakcji, o którym mowa wart. 50 ust. 4 pkt 12, przy uwzględnieniu konieczności zapewnienia bezpiecznego i sprawnego funkcjonowania systemu rozliczeń;
+- **4)** zakres, tryb i formę oraz terminy dostarczania, innych niż wymienione wart. 86, informacji dotyczących działalności firm inwestycyjnych i banków powierniczych oraz sytuacji finansowej domów maklerskich, banków prowadzących działalność maklerską i zagranicznych osób prawnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską, przy uwzględnieniu konieczności umożliwienia Komisji, w zakresie określonym ustawą, wykonywanie nadzoru nad działalnością tych podmiotów;
+- **5)** warunki techniczne i organizacyjne wymagane do prowadzenia działalności maklerskiej przez firmę inwestycyjną oraz do prowadzenia rachunków papierów wartościowych przez bank powierniczy, z uwzględnieniem konieczności zapewnienia bezpiecznego isprawnego prowadzenia tej działalności;
+- **6)** obowiązki sprawozdawcze domów maklerskich, banków prowadzących działalność maklerską oraz zagranicznych firm inwestycyjnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską wformie oddziału izagranicznych osób prawnych, o których mowa w art. 115, prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską, wzakresie wykonywania czynności pośrednictwa wnabywaniu izbywaniu maklerskich instrumentów finansowych będących w obrocie na zagranicznych rynkach regulowanych, przy uwzględnieniu konieczności umożliwienia Komisji, w zakresie określonym ustawą, wykonywanie nadzoru nad działalnością tych podmiotów;
+- **7)** tryb i warunki udzielania przez firmy inwestycyjne pożyczek na nabycie maklerskich instrumentów finansowych, przy uwzględnieniu konieczności zapewnienia warunków gwarantujących, że środki przeznaczone na pożyczki nie będą pochodzić ze środków pieniężnych zdeponowanych przez inwestorów na rachunkach pieniężnych służących do obsługi rachunków, na których rejestrowane są maklerskie instrumenty finansowe, istnienia zabezpieczenia spłaty pożyczek w celu zapewnienia bezpieczeństwa pożyczkodawców oraz konieczności badania wiarygodności i wypłacalności pożyczkobiorców.
 
-2. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, w drodze rozporzàdzenia, obowiàzki sprawozdawcze domów maklerskich, banków prowadzàcych dzia∏alnoÊç maklerskà oraz zagranicznych firm inwestycyjnych prowadzàcych na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç maklerskà w formie oddzia∏u i zagranicznych osób prawnych, o których mowa wart. 115, prowadzàcych na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç maklerskà wformie oddzia∏u, banków powierniczych, podmiotów, o których mowa w art. 4 ust. 1 pkt 2, oraz Krajowego Depozytu wzakresie obrotu papierami wartoÊciowymi emitowanymi przez Skarb Paƒstwa, tak aby sprawozdania sporzàdzane przez te podmioty pozwala∏y na dokonywanie analiz w zakresie stanu, dynamiki oraz struktury zad∏u˝enia bud˝etu paƒstwa w skarbowych papierach wartoÊciowych wed∏ug grup inwestorów oraz rodzajów tych papierów.
+2. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, obowiązki sprawozdawcze domów maklerskich, banków prowadzących działalność maklerską oraz zagranicznych firm inwestycyjnych prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską w formie oddziału i zagranicznych osób prawnych, o których mowa wart. 115, prowadzących na terytorium Rzeczypospolitej Polskiej działalność maklerską wformie oddziału, banków powierniczych, podmiotów, o których mowa w art. 4 ust. 1 pkt 2, oraz Krajowego Depozytu wzakresie obrotu papierami wartościowymi emitowanymi przez Skarb Państwa, tak aby sprawozdania sporządzane przez te podmioty pozwalały na dokonywanie analiz w zakresie stanu, dynamiki oraz struktury zadłużenia budżetu państwa w skarbowych papierach wartościowych według grup inwestorów oraz rodzajów tych papierów.
 
-- **2)** spó∏ka komandytowo-akcyjna, w której komplementariuszami sà wy∏àcznie osoby majàce prawo wykonywania zawodu maklera papierów wartoÊciowych lub doradcy inwestycyjnego, w liczbie co najmniej dwóch,
-- **3)** spó∏ka z ograniczonà odpowiedzialnoÊcià,
-- **4)** spó∏ka komandytowa, w której komplementariuszami sà wy∏àcznie osoby majàce prawo wykonywania zawodu maklera papierów wartoÊciowych lub doradcy inwestycyjnego, wliczbie co najmniej dwóch,
-- **5)** spó∏ka partnerska, wktórej wspólnikami (partnerami) sà wy∏àcznie osoby majàce prawo wykonywania zawodu maklera papierów wartoÊciowych lub doradcy inwestycyjnego, w liczbie co najmniej dwóch,
-- **6)** spó∏ka jawna, w której wspólnikami sà wy∏àcznie osoby majàce prawo wykonywania zawodu maklera papierów wartoÊciowych lub doradcy inweArt. 95. 1. Domem maklerskim mo˝e byç wy∏àcznie:
-- **1)** spó∏ka akcyjna, stycyjnego, w liczbie co najmniej dwóch zsiedzibà na terytorium Rzeczypospolitej Polskiej, zwana dalej „domem maklerskim”.
+- **2)** spółka komandytowo-akcyjna, w której komplementariuszami są wyłącznie osoby mające prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego, w liczbie co najmniej dwóch,
+- **3)** spółka z ograniczoną odpowiedzialnością,
+- **4)** spółka komandytowa, w której komplementariuszami są wyłącznie osoby mające prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego, wliczbie co najmniej dwóch,
+- **5)** spółka partnerska, wktórej wspólnikami (partnerami) są wyłącznie osoby mające prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego, w liczbie co najmniej dwóch,
+- **6)** spółka jawna, w której wspólnikami są wyłącznie osoby mające prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inweArt. 95. 1. Domem maklerskim może być wyłącznie:
+- **1)** spółka akcyjna, stycyjnego, w liczbie co najmniej dwóch zsiedzibą na terytorium Rzeczypospolitej Polskiej, zwana dalej Ńdomem maklerskim”.
 
-2. Dzia∏alnoÊç maklerska prowadzona przez spó∏k´, októrej mowa wust. 1 pkt 2, mo˝e obejmowaç wy∏àcznie czynnoÊci wskazane w art. 69 ust. 2 pkt 1 i 4, ust. 3 pkt 2 oraz w ust. 4 pkt 1 i 5—8.
+2. Działalność maklerska prowadzona przez spółkę, októrej mowa wust. 1 pkt 2, może obejmować wyłącznie czynności wskazane w art. 69 ust. 2 pkt 1 i 4, ust. 3 pkt 2 oraz w ust. 4 pkt 1 i 5—8.
 
-3. Dzia∏alnoÊç maklerska prowadzona przez spó∏k´, októrej mowa wust. 1 pkt 4—6, mo˝e obejmowaç wy∏àcznie czynnoÊci wskazane w art. 69 ust. 2 pkt 1, ust. 3 pkt 2 oraz w ust. 4 pkt 5—7.
+3. Działalność maklerska prowadzona przez spółkę, októrej mowa wust. 1 pkt 4—6, może obejmować wyłącznie czynności wskazane w art. 69 ust. 2 pkt 1, ust. 3 pkt 2 oraz w ust. 4 pkt 5—7.
 
-4. Akcje domu maklerskiego mogà byç wy∏àcznie imienne, chyba ˝e sà zdematerializowane.
+4. Akcje domu maklerskiego mogą być wyłącznie imienne, chyba że są zdematerializowane.
 
-5. Zap∏ata za obejmowane lub nabywane akcje lub udzia∏y domu maklerskiego, które nie sà zdematerializowane, nie mo˝e pochodziç zpo˝yczek, kredytów ani z nieudokumentowanych êróde∏.
+5. Zapłata za obejmowane lub nabywane akcje lub udziały domu maklerskiego, które nie są zdematerializowane, nie może pochodzić zpożyczek, kredytów ani z nieudokumentowanych êródeł.
 
-6. Ârodki pieni´˝ne wnoszone jako wk∏ad do b´dàcej domem maklerskim spó∏ki jawnej, partnerskiej oraz komandytowej nie mogà pochodziç z po˝yczek, kredytów ani z nieudokumentowanych êróde∏.
+6. Ârodki pieniężne wnoszone jako wkład do będącej domem maklerskim spółki jawnej, partnerskiej oraz komandytowej nie mogą pochodzić z pożyczek, kredytów ani z nieudokumentowanych êródeł.
 
-7. Jednoosobowym za∏o˝ycielem domu maklerskiego w formie spó∏ki akcyjnej mo˝e byç wy∏àcznie osoba prawna.
+7. Jednoosobowym założycielem domu maklerskiego w formie spółki akcyjnej może być wyłącznie osoba prawna.
 
-8. Jednoosobowym za∏o˝ycielem domu maklerskiego wformie spó∏ki zograniczonà odpowiedzialnoÊcià mo˝e byç wy∏àcznie osoba prawna lub osoba fizyczna majàca prawo wykonywania zawodu maklera papierów wartoÊciowych lub doradcy inwestycyjnego.
+8. Jednoosobowym założycielem domu maklerskiego wformie spółki zograniczoną odpowiedzialnością może być wyłącznie osoba prawna lub osoba fizyczna mająca prawo wykonywania zawodu maklera papierów wartościowych lub doradcy inwestycyjnego.
 
-9. W spó∏ce komandytowo-akcyjnej oraz w spó∏ce z ograniczonà odpowiedzialnoÊcià prowadzàcych dzia∏alnoÊç maklerskà ustanawia si´ rad´ nadzorczà.
+9. W spółce komandytowo-akcyjnej oraz w spółce z ograniczoną odpowiedzialnością prowadzących działalność maklerską ustanawia się radę nadzorczą.
 
-10. Wprzypadku gdy liczba komplementariuszy albo wspólników spe∏niajàcych warunek wskazany w ust. 1 pkt 2, 4—6 spadnie poni˝ej dwóch, dom maklerski, z zastrze˝eniem art. 83, jest obowiàzany do niezw∏ocznego doprowadzenia do stanu zgodnego z przepisem ust. 1, jednak˝e w terminie nie d∏u˝szym ni˝ 6 miesi´cy od dnia, wktórym dom maklerski przesta∏ spe∏niaç warunek wskazany wust. 1. Do czasu doprowadzenia do stanu zgodnego z przepisem ust. 1, dom maklerski wykonuje wy∏àcznie czynnoÊci wynikajàce z zawartych umów o Êwiadczenie us∏ug maklerskich bez mo˝liwoÊci zawierania nowych umów.
+10. Wprzypadku gdy liczba komplementariuszy albo wspólników spełniających warunek wskazany w ust. 1 pkt 2, 4—6 spadnie poniżej dwóch, dom maklerski, z zastrzeżeniem art. 83, jest obowiązany do niezwłocznego doprowadzenia do stanu zgodnego z przepisem ust. 1, jednakże w terminie nie dłuższym niż 6 miesięcy od dnia, wktórym dom maklerski przestał spełniać warunek wskazany wust. 1. Do czasu doprowadzenia do stanu zgodnego z przepisem ust. 1, dom maklerski wykonuje wyłącznie czynności wynikające z zawartych umów o świadczenie usług maklerskich bez możliwości zawierania nowych umów.
 
 **Art. 96.**
 
-1. Udzielenie przez Komisj´ zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej spó∏ce:
+1. Udzielenie przez Komisję zezwolenia na prowadzenie działalności maklerskiej spółce:
 
-- **1)** która jest podmiotem zale˝nym od zagranicznej firmy inwestycyjnej lub od osoby prawnej prowadzàcej dzia∏alnoÊç maklerskà na terytorium paƒstwa nale˝àcego do OECD lub WTO, lub od banku zagranicznego, lub
-- **2)** która jest podmiotem zale˝nym od podmiotu dominujàcego wobec zagranicznej firmy inwestycyjnej lub wobec osoby prawnej prowadzàcej dzia∏alnoÊç maklerskà na terytorium paƒstwa nale˝àcego do OECD lub WTO, lub wobec banku zagranicznego, lub
-- **3)** na którà znaczny wp∏yw wywierajà te same osoby fizyczne lub prawne, które wywierajà znaczny wp∏yw na zagranicznà firm´ inwestycyjnà, lub osob´ prawnà prowadzàcà dzia∏alnoÊç maklerskà na terytorium paƒstwa nale˝àcego do OECD lub WTO, lub na bank zagraniczny nast´puje po zasi´gni´ciu pisemnej opinii w∏aÊciwego organu nadzoru innego paƒstwa cz∏onkowskiego lub paƒstwa nale˝àcego do OECD lub WTO, który udzieli∏ zezwolenia na prowadzenie dzia∏alnoÊci wtym paƒstwie; przedmiotem opinii jest sposób prowadzenia tej dzia∏alnoÊci, wszczególnoÊci jego zgodnoÊç zprzepisami prawa obowiàzujàcymi wtym paƒstwie.
+- **1)** która jest podmiotem zależnym od zagranicznej firmy inwestycyjnej lub od osoby prawnej prowadzącej działalność maklerską na terytorium państwa należącego do OECD lub WTO, lub od banku zagranicznego, lub
+- **2)** która jest podmiotem zależnym od podmiotu dominującego wobec zagranicznej firmy inwestycyjnej lub wobec osoby prawnej prowadzącej działalność maklerską na terytorium państwa należącego do OECD lub WTO, lub wobec banku zagranicznego, lub
+- **3)** na którą znaczny wpływ wywierają te same osoby fizyczne lub prawne, które wywierają znaczny wpływ na zagraniczną firmę inwestycyjną, lub osobę prawną prowadzącą działalność maklerską na terytorium państwa należącego do OECD lub WTO, lub na bank zagraniczny następuje po zasięgnięciu pisemnej opinii właściwego organu nadzoru innego państwa członkowskiego lub państwa należącego do OECD lub WTO, który udzielił zezwolenia na prowadzenie działalności wtym państwie; przedmiotem opinii jest sposób prowadzenia tej działalności, wszczególności jego zgodność zprzepisami prawa obowiązującymi wtym państwie.
 
-2. Udzielenie przez Komisj´ zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej spó∏ce:
+2. Udzielenie przez Komisję zezwolenia na prowadzenie działalności maklerskiej spółce:
 
-- **1)** która jest podmiotem zale˝nym od instytucji kredytowej, w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo od zagranicznego zak∏adu ubezpieczeƒ posiadajàcego zezwolenie na prowadzenie dzia∏alnoÊci wydane przez w∏aÊciwy organ nadzoru innego paƒstwa cz∏onkowskiego,
-- **2)** która jest podmiotem zale˝nym od podmiotu dominujàcego wobec instytucji kredytowej, w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpwp∏yw na instytucj´ kredytowà, wrozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo na zagraniczny zak∏ad ubezpieczeƒ posiadajàcy zezwolenie na prowadzenie dzia∏alnoÊci wydane przez w∏aÊciwy organ nadzoru innego paƒstwa cz∏onkowskiego nast´puje po zasi´gni´ciu pisemnej opinii organu innego paƒstwa cz∏onkowskiego, który udzieli∏ podmiotowi, o którym mowa w pkt 1—3, zezwolenia na prowadzenie dzia∏alnoÊci w tym paƒstwie; celem uzyskania opinii jest dokonanie oceny akcjonariuszy podmiotu nale˝àcego do tej samej grupy kapita∏owej co wnioskodawca, jak równie˝ ocena wiarygodnoÊci i doÊwiadczenia cz∏onków zarzàdu podmiotu nale˝àcego do tej samej grupy kapita∏owej co wnioskodawca, lub innych osób majàcych wp∏yw na zarzàdzanie tym podmiotem.
+- **1)** która jest podmiotem zależnym od instytucji kredytowej, w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo od zagranicznego zakładu ubezpieczeń posiadającego zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego,
+- **2)** która jest podmiotem zależnym od podmiotu dominującego wobec instytucji kredytowej, w rozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpwpływ na instytucję kredytową, wrozumieniu art. 4 ust. 1 pkt 17 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, albo na zagraniczny zakład ubezpieczeń posiadający zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego następuje po zasięgnięciu pisemnej opinii organu innego państwa członkowskiego, który udzielił podmiotowi, o którym mowa w pkt 1—3, zezwolenia na prowadzenie działalności w tym państwie; celem uzyskania opinii jest dokonanie oceny akcjonariuszy podmiotu należącego do tej samej grupy kapitałowej co wnioskodawca, jak również ocena wiarygodności i doświadczenia członków zarządu podmiotu należącego do tej samej grupy kapitałowej co wnioskodawca, lub innych osób mających wpływ na zarządzanie tym podmiotem.
 
-3. Przez wywieranie znacznego wp∏ywu rozumie si´ posiadanie nie mniej ni˝ 20 % i nie wi´cej ni˝ 50 % g∏osów na walnym zgromadzeniu lub zgromadzeniu wspólników w przypadku spó∏ki akcyjnej, spó∏ki komandytowo-akcyjnej lub spó∏ki z ograniczonà odpowiedzialnoÊcià, lub uprawnienie do podejmowania decyzji dotyczàcej kszta∏towania polityki finansowej lub bie˝àcej dzia∏alnoÊci gospodarczej tej osoby prawnej.
+3. Przez wywieranie znacznego wpływu rozumie się posiadanie nie mniej niż 20 % i nie więcej niż 50 % głosów na walnym zgromadzeniu lub zgromadzeniu wspólników w przypadku spółki akcyjnej, spółki komandytowo-akcyjnej lub spółki z ograniczoną odpowiedzialnością, lub uprawnienie do podejmowania decyzji dotyczącej kształtowania polityki finansowej lub bieżącej działalności gospodarczej tej osoby prawnej.
 
 **Art. 97.**
 
-1. Przez kapita∏ za∏o˝ycielski domu maklerskiego rozumie si´ sum´ kapita∏u zak∏adowego wwielkoÊci, wjakiej zosta∏ wp∏acony, kapita∏u zapasowego, niepodzielonego zysku z lat ubieg∏ych i pomniejszonego o wielkoÊç dywidendy z zysku netto wtrakcie zatwierdzania, jedynie wprzypadku gdy zysk ten zosta∏ zweryfikowany przez osoby odpowiedzialne za badanie sprawozdaƒ finansowych, oraz kapita∏ów rezerwowych zwy∏àczeniem kapita∏u zaktualizacji wyceny, pomniejszonà o niepokrytà strat´ z lat ubieg∏ych.
+1. Przez kapitał założycielski domu maklerskiego rozumie się sumę kapitału zakładowego wwielkości, wjakiej został wpłacony, kapitału zapasowego, niepodzielonego zysku z lat ubiegłych i pomniejszonego o wielkość dywidendy z zysku netto wtrakcie zatwierdzania, jedynie wprzypadku gdy zysk ten został zweryfikowany przez osoby odpowiedzialne za badanie sprawozdań finansowych, oraz kapitałów rezerwowych zwyłączeniem kapitału zaktualizacji wyceny, pomniejszoną o niepokrytą stratę z lat ubiegłych.
 
-2. W przypadku spó∏ki jawnej, partnerskiej lub komandytowej przez kapita∏ zak∏adowy rozumie si´ sum´ wk∏adówwniesionych do spó∏ki przez jej wspólników.
+2. W przypadku spółki jawnej, partnerskiej lub komandytowej przez kapitał zakładowy rozumie się sumę wkładówwniesionych do spółki przez jej wspólników.
 
 **Art. 98.**
 
-1. Kapita∏ za∏o˝ycielski domu maklerskiego na prowadzenie dzia∏alnoÊci, o której mowa w art. 69 ust. 2 i 3, wynosi, z zastrze˝eniem ust. 2—9, co najmniej 625 000 z∏, nie mniej jednak ni˝ równowartoÊç 125 000 euro.
+1. Kapitał założycielski domu maklerskiego na prowadzenie działalności, o której mowa w art. 69 ust. 2 i 3, wynosi, z zastrzeżeniem ust. 2—9, co najmniej 625 000 zł, nie mniej jednak niż równowartość 125 000 euro.
 
-2. W przypadku prowadzenia przez dom maklerski wy∏àcznie dzia∏alnoÊci, o której mowa w art. 69 ust. 2 pkt 1 lub ust. 3 pkt 2, kapita∏ za∏o˝ycielski wynosi co najmniej 250 000 z∏, nie mniej jednak ni˝ równowartoÊç 50 000 euro. nia 1997 r. Prawo bankowe, albo zagranicznego 3. W przypadku prowadzenia przez dom maklerski zak∏adu ubezpieczeƒ posiadajàcego zezwolenie na wy∏àcznie dzia∏alnoÊci, o której mowa w art. 69 ust. 2 prowadzenie dzia∏alnoÊci wydane przez w∏aÊciwy pkt4, kapita∏ za∏o˝ycielski wynosi co najmniej 500000z∏, organ nadzoru innego paƒstwa cz∏onkowskiego, nie mniej jednak ni˝ równowartoÊç 100 000 euro.
+2. W przypadku prowadzenia przez dom maklerski wyłącznie działalności, o której mowa w art. 69 ust. 2 pkt 1 lub ust. 3 pkt 2, kapitał założycielski wynosi co najmniej 250 000 zł, nie mniej jednak niż równowartość 50 000 euro. nia 1997 r. Prawo bankowe, albo zagranicznego 3. W przypadku prowadzenia przez dom maklerski zakładu ubezpieczeń posiadającego zezwolenie na wyłącznie działalności, o której mowa w art. 69 ust. 2 prowadzenie działalności wydane przez właściwy pkt4, kapitał założycielski wynosi co najmniej 500000zł, organ nadzoru innego państwa członkowskiego, nie mniej jednak niż równowartość 100 000 euro.
 
-- **3)** na którà znaczny wp∏yw wywierajà te same osoby 4. W przypadku prowadzenia przez dom maklerski fizyczne lub prawne, które wywierajà znaczny wy∏àcznie dzia∏alnoÊci, o której mowa w art. 69 ust. 2 pkt 4 i ust. 3 pkt 2, kapita∏ za∏o˝ycielski wynosi co najmniej 500 000 z∏, nie mniej jednak ni˝ równowartoÊç 100 000 euro.
+- **3)** na którą znaczny wpływ wywierają te same osoby 4. W przypadku prowadzenia przez dom maklerski fizyczne lub prawne, które wywierają znaczny wyłącznie działalności, o której mowa w art. 69 ust. 2 pkt 4 i ust. 3 pkt 2, kapitał założycielski wynosi co najmniej 500 000 zł, nie mniej jednak niż równowartość 100 000 euro.
 
-5. W przypadku prowadzenia przez dom maklerski dzia∏alnoÊci, októrej mowa wart. 69 ust. 2 pkt 3 lub 6, kapita∏ za∏o˝ycielski wynosi, zzastrze˝eniem ust. 8, co najmniej 4 000 000 z∏, nie mniej jednak ni˝ równowartoÊç 800 000 euro.
+5. W przypadku prowadzenia przez dom maklerski działalności, októrej mowa wart. 69 ust. 2 pkt 3 lub 6, kapitał założycielski wynosi, zzastrzeżeniem ust. 8, co najmniej 4 000 000 zł, nie mniej jednak niż równowartość 800 000 euro.
 
-6. W przypadku prowadzenia przez dom maklerski dzia∏alnoÊci, o której mowa w art. 69 ust. 2 pkt 4 lub art. 69 ust. 3 pkt 2, oraz dzia∏alnoÊci, o której mowa w art. 69 ust. 4 pkt 1, 2 lub 3, kapita∏ za∏o˝ycielski wynosi co najmniej 625 000 z∏, nie mniej jednak ni˝ równowartoÊç 125 000 euro.
+6. W przypadku prowadzenia przez dom maklerski działalności, o której mowa w art. 69 ust. 2 pkt 4 lub art. 69 ust. 3 pkt 2, oraz działalności, o której mowa w art. 69 ust. 4 pkt 1, 2 lub 3, kapitał założycielski wynosi co najmniej 625 000 zł, nie mniej jednak niż równowartość 125 000 euro.
 
-7. W przypadku prowadzenia przez dom maklerski dzia∏alnoÊci, októrej mowa wart. 69 ust. 3 pkt 3, kapita∏ za∏o˝ycielski wynosi co najmniej 4 000 000 z∏, nie mniej jednak ni˝ równowartoÊç 800 000 euro.
+7. W przypadku prowadzenia przez dom maklerski działalności, októrej mowa wart. 69 ust. 3 pkt 3, kapitał założycielski wynosi co najmniej 4 000 000 zł, nie mniej jednak niż równowartość 800 000 euro.
 
-8. Nie wymaga kapita∏u za∏o˝ycielskiego w wysokoÊci ustalonej zgodnie z ust. 5 prowadzenie przez dom maklerski dzia∏alnoÊci, o której mowa w art. 69 ust. 2 pkt 3, wy∏àcznie w zakresie transakcji d∏ugoterminowych ocechach okreÊlonych wprzepisach wydanych na podstawie ust. 11.
+8. Nie wymaga kapitału założycielskiego w wysokości ustalonej zgodnie z ust. 5 prowadzenie przez dom maklerski działalności, o której mowa w art. 69 ust. 2 pkt 3, wyłącznie w zakresie transakcji długoterminowych ocechach określonych wprzepisach wydanych na podstawie ust. 11.
 
-9. Nie wymaga kapita∏u za∏o˝ycielskiego prowadzenie przez dom maklerski wy∏àcznie dzia∏alnoÊci, o której mowa w art. 69 ust. 2 pkt 1 lub art. 69 ust. 3 pkt 2, je˝eli dom maklerski zawar∏ z zak∏adem ubezpieczeƒ umow´ ubezpieczenia odpowiedzialnoÊci cywilnej za szkody powsta∏e z tytu∏u prowadzenia dzia∏alnoÊci maklerskiej, zgodnie z którà minimalna suma ubezpieczenia wynosi równowartoÊç w z∏otych 1 000 000 euro w odniesieniu do jednego zdarzenia, którego skutki sà obj´te umowà ubezpieczenia, oraz równowartoÊç wz∏otych 1 500 000 euro wodniesieniu do wszystkich takich zdarzeƒ. WartoÊç minimalnej sumy ubezpieczenia jest ustalana przy zastosowaniu Êredniego kursu euro og∏aszanego przez Narodowy Bank Polski po raz pierwszy wroku, wktórym umowa ubezpieczenia zosta∏a zawarta.
+9. Nie wymaga kapitału założycielskiego prowadzenie przez dom maklerski wyłącznie działalności, o której mowa w art. 69 ust. 2 pkt 1 lub art. 69 ust. 3 pkt 2, jeżeli dom maklerski zawarł z zakładem ubezpieczeń umowę ubezpieczenia odpowiedzialności cywilnej za szkody powstałe z tytułu prowadzenia działalności maklerskiej, zgodnie z którą minimalna suma ubezpieczenia wynosi równowartość w złotych 1 000 000 euro w odniesieniu do jednego zdarzenia, którego skutki są objęte umową ubezpieczenia, oraz równowartość wzłotych 1 500 000 euro wodniesieniu do wszystkich takich zdarzeń. Wartość minimalnej sumy ubezpieczenia jest ustalana przy zastosowaniu średniego kursu euro ogłaszanego przez Narodowy Bank Polski po raz pierwszy wroku, wktórym umowa ubezpieczenia została zawarta.
 
-10. RównowartoÊç kwot, o których mowa maganego poziomu, Komisja wzywa dom maklerski do doprowadzenia Êrodków w∏asnych do w∏aÊciwego poziomu, wyznaczajàc termin doprowadzenia poziomu Êrodków w∏asnych do stanu zgodnego z przepisami prawa.
+10. Równowartość kwot, o których mowa maganego poziomu, Komisja wzywa dom maklerski do doprowadzenia środków własnych do właściwego poziomu, wyznaczając termin doprowadzenia poziomu środków własnych do stanu zgodnego z przepisami prawa.
 
-2. W przypadku bezskutecznego up∏ywu terminu, o którym mowa w ust. 1, Komisja mo˝e zastosowaç jednà zsankcji, októrych mowa wart. 167 ust. 1. Przepisy art. 167 ust. 4, 5, 7 i 8 stosuje si´ odpowiednio.
+2. W przypadku bezskutecznego upływu terminu, o którym mowa w ust. 1, Komisja może zastosować jedną zsankcji, októrych mowa wart. 167 ust. 1. Przepisy art. 167 ust. 4, 5, 7 i 8 stosuje się odpowiednio.
 
 **Art. 100.**
 
-1. W razie powzi´cia wàtpliwoÊci co do prawid∏owoÊci lub rzetelnoÊci sprawozdaƒ finansowych albo innych informacji finansowych, których obowiàzek sporzàdzenia przez dom maklerski wynika z odr´bnych przepisów lub prawid∏owoÊci prowadzenia ksiàg rachunkowych, Komisja mo˝e zleciç kontrol´ tych sprawozdaƒ, informacji i ksiàg rachunkowych podmiotowi uprawnionemu do badania sprawozdaƒ finansowych. Wprzypadku gdy kontrola wyka˝e istotne nieprawid∏owoÊci, dom maklerski zwraca Komisji koszty przeprowadzenia kontroli.
+1. W razie powzięcia wątpliwości co do prawidłowości lub rzetelności sprawozdań finansowych albo innych informacji finansowych, których obowiązek sporządzenia przez dom maklerski wynika z odrębnych przepisów lub prawidłowości prowadzenia ksiąg rachunkowych, Komisja może zlecić kontrolę tych sprawozdań, informacji i ksiąg rachunkowych podmiotowi uprawnionemu do badania sprawozdań finansowych. Wprzypadku gdy kontrola wykaże istotne nieprawidłowości, dom maklerski zwraca Komisji koszty przeprowadzenia kontroli.
 
-2. W stosunku do oddzia∏u domu maklerskiego znajdujàcego si´ na terytorium innego paƒstwa cz∏onkowskiego, Komisji przys∏ugujà uprawnienia okreÊlone w ust. 1 oraz art. 88. Wykonanie uprawnieƒ nast´puje po uprzednim pisemnym poinformowaniu w∏aÊciwego organu nadzoru wpaƒstwie, na którego terytorium znajduje si´ oddzia∏ domu maklerskiego.
+2. W stosunku do oddziału domu maklerskiego znajdującego się na terytorium innego państwa członkowskiego, Komisji przysługują uprawnienia określone w ust. 1 oraz art. 88. Wykonanie uprawnień następuje po uprzednim pisemnym poinformowaniu właściwego organu nadzoru wpaństwie, na którego terytorium znajduje się oddział domu maklerskiego.
 
-3. Podmioty uprawnione do badania sprawozdaƒ finansowych domu maklerskiego, podmiotu dominujàcego wobec domu maklerskiego lub podmiotu wywierajàcego na dom maklerski znaczny wp∏yw wrozumieniu art. 96 ust. 3 sà obowiàzane niezw∏ocznie przekazaç Komisji informacje, w posiadanie których wesz∏y w zwiàzku z wykonywanymi czynnoÊciami, dotyczàce zdarzeƒ powodujàcych:
+3. Podmioty uprawnione do badania sprawozdań finansowych domu maklerskiego, podmiotu dominującego wobec domu maklerskiego lub podmiotu wywierającego na dom maklerski znaczny wpływ wrozumieniu art. 96 ust. 3 są obowiązane niezwłocznie przekazać Komisji informacje, w posiadanie których weszły w związku z wykonywanymi czynnościami, dotyczące zdarzeń powodujących:
 
-- **1)** powstanie uzasadnionego podejrzenia naruszenia przez ten dom maklerski, cz∏onków jego zarzàdu lub pracowników, przepisów prawa, zasad uczciwego obrotu lub interesów zleceniodawców;
-- **2)** powstanie zagro˝enia dla dalszego funkcjonowania tego domu maklerskiego; wust.1—7, wyra˝onych weuro jest okreÊlana przy zastosowaniu Êredniego kursu euro ustalanego przez 3) odmow´ wydania opinii dotyczàcej sprawozdania Narodowy Bank Polski, obowiàzujàcego na dzieƒ po- finansowego tego domu maklerskiego, wydanie przedzajàcy dat´ z∏o˝enia wniosku oudzielenie zezwo- opinii negatywnej dotyczàcej jej sprawozdania filenia na prowadzenie dzia∏alnoÊci maklerskiej. nansowego lub wniesienie zastrze˝eƒ wtej opinii.
+- **1)** powstanie uzasadnionego podejrzenia naruszenia przez ten dom maklerski, członków jego zarządu lub pracowników, przepisów prawa, zasad uczciwego obrotu lub interesów zleceniodawców;
+- **2)** powstanie zagrożenia dla dalszego funkcjonowania tego domu maklerskiego; wust.1—7, wyrażonych weuro jest określana przy zastosowaniu średniego kursu euro ustalanego przez 3) odmowę wydania opinii dotyczącej sprawozdania Narodowy Bank Polski, obowiązującego na dzień po- finansowego tego domu maklerskiego, wydanie przedzający datę złożenia wniosku oudzielenie zezwo- opinii negatywnej dotyczącej jej sprawozdania filenia na prowadzenie działalności maklerskiej. nansowego lub wniesienie zastrzeżeń wtej opinii.
 
-11. Minister w∏aÊciwy do spraw instytucji finanso- 4. Wykonanie obowiàzku, októrym mowa wust. 3, wych okreÊli, wdrodze rozporzàdzenia, cechy transak- nie narusza tajemnicy, októrej mowa wart. 4austawy cji d∏ugoterminowych, które mogà byç dokonywane z dnia 13 paêdziernika 1994 r. o bieg∏ych rewidentach przez dom maklerski bez obowiàzku posiadania kapi- i ich samorzàdzie. ta∏u za∏o˝ycielskiego wwysokoÊci okreÊlonej wust. 5, zuwzgl´dnieniem koniecznoÊci zapewnienia bezpiecznego prowadzenia dzia∏alnoÊci maklerskiej.
+11. Minister właściwy do spraw instytucji finanso- 4. Wykonanie obowiązku, októrym mowa wust. 3, wych określi, wdrodze rozporządzenia, cechy transak- nie narusza tajemnicy, októrej mowa wart. 4austawy cji długoterminowych, które mogą być dokonywane z dnia 13 paêdziernika 1994 r. o biegłych rewidentach przez dom maklerski bez obowiązku posiadania kapi- i ich samorządzie. tału założycielskiego wwysokości określonej wust. 5, zuwzględnieniem konieczności zapewnienia bezpiecznego prowadzenia działalności maklerskiej.
 
 **Art. 99.**
 
-1. W przypadku gdy poziom Êrodków w∏asnych domu maklerskiego, o których mowa w przepisach wydanych na podstawie art. 94 ust. 1 pkt 2, zwanych dalej „Êrodkami w∏asnymi”, spadnie poni˝ej wyArt. 101. 1. W przypadku zamiaru rozszerzenia zakresu dzia∏alnoÊci prowadzonej dotychczas przez dom maklerski b´dàcy spó∏kà komandytowo-akcyjnà oczynnoÊci inne ni˝ wskazane wart. 69 ust. 2 pkt 1 i4, ust. 3 pkt 2 oraz w ust. 4 pkt 5—7, zawiadomienie, o którym mowa w art. 87 ust. 1, jest dokonywane po przekszta∏ceniu tej spó∏ki w spó∏k´ akcyjnà lub spó∏k´ zograniczonà odpowiedzialnoÊcià. Do zawiadomienia za∏àcza si´ dokumenty potwierdzajàce fakt przekszta∏cenia.
+1. W przypadku gdy poziom środków własnych domu maklerskiego, o których mowa w przepisach wydanych na podstawie art. 94 ust. 1 pkt 2, zwanych dalej Ńśrodkami własnymi”, spadnie poniżej wyArt. 101. 1. W przypadku zamiaru rozszerzenia zakresu działalności prowadzonej dotychczas przez dom maklerski będący spółką komandytowo-akcyjną oczynności inne niż wskazane wart. 69 ust. 2 pkt 1 i4, ust. 3 pkt 2 oraz w ust. 4 pkt 5—7, zawiadomienie, o którym mowa w art. 87 ust. 1, jest dokonywane po przekształceniu tej spółki w spółkę akcyjną lub spółkę zograniczoną odpowiedzialnością. Do zawiadomienia załącza się dokumenty potwierdzające fakt przekształcenia.
 
-2. Wprzypadku zamiaru rozszerzenia zakresu dzia∏alnoÊci prowadzonej dotychczas przez dom maklerski b´dàcy spó∏kà jawnà, partnerskà albo komandytowà o czynnoÊci inne ni˝ wskazane w art. 69 ust. 2 pkt 1, ust. 3 pkt 2 oraz w ust. 4 pkt 5—7, zawiadomienie, o którym mowa w art. 87 ust. 1, jest dokonywane po przekszta∏ceniu tej spó∏ki w spó∏k´ akcyjnà lub spó∏k´ zograniczonà odpowiedzialnoÊcià. Do zawiadomienia za∏àcza si´ dokumenty potwierdzajàce fakt przekszta∏cenia.
+2. Wprzypadku zamiaru rozszerzenia zakresu działalności prowadzonej dotychczas przez dom maklerski będący spółką jawną, partnerską albo komandytową o czynności inne niż wskazane w art. 69 ust. 2 pkt 1, ust. 3 pkt 2 oraz w ust. 4 pkt 5—7, zawiadomienie, o którym mowa w art. 87 ust. 1, jest dokonywane po przekształceniu tej spółki w spółkę akcyjną lub spółkę zograniczoną odpowiedzialnością. Do zawiadomienia załącza się dokumenty potwierdzające fakt przekształcenia.
 
 **Art. 102.**
 
-1. Dom maklerski jest obowiàzany posiadaç central´ na terytorium Rzeczypospolitej Polskiej.
+1. Dom maklerski jest obowiązany posiadać centralę na terytorium Rzeczypospolitej Polskiej.
 
-2. Za central´ domu maklerskiego uwa˝a si´ jednostk´ organizacyjnà domu maklerskiego, w której wykonujà w sposób sta∏y dzia∏alnoÊç cz∏onkowie zarzàdu domu maklerskiego, komplementariusze w spó∏ce komandytowo-akcyjnej lub komandytowej albo wspólnicy wspó∏ce jawnej lub partnerskiej b´dàcej domem maklerskim.
+2. Za centralę domu maklerskiego uważa się jednostkę organizacyjną domu maklerskiego, w której wykonują w sposób stały działalność członkowie zarządu domu maklerskiego, komplementariusze w spółce komandytowo-akcyjnej lub komandytowej albo wspólnicy współce jawnej lub partnerskiej będącej domem maklerskim.
 
 **Art. 103.**
 
-1. W sk∏ad zarzàdu domu maklerskiego powinny wchodziç co najmniej dwie osoby posiadajàce wykszta∏cenie wy˝sze, co najmniej trzyletni sta˝ pracy w instytucjach rynku finansowego oraz dobrà opini´ w zwiàzku ze sprawowanymi funkcjami.
+1. W skład zarządu domu maklerskiego powinny wchodzić co najmniej dwie osoby posiadające wykształcenie wyższe, co najmniej trzyletni staż pracy w instytucjach rynku finansowego oraz dobrą opinię w związku ze sprawowanymi funkcjami.
 
-2. W przypadku domu maklerskiego posiadajàcego form´ spó∏ki osobowej wymogi wskazane w ust. 1 majà zastosowanie do komplementariuszy lub wspólników, którym przys∏uguje prawo prowadzenia spraw spó∏ki, zgodnie z przepisami ustawy z dnia 15 wrzeÊnia 2000 r. Kodeks spó∏ek handlowych.
+2. W przypadku domu maklerskiego posiadającego formę spółki osobowej wymogi wskazane w ust. 1 mają zastosowanie do komplementariuszy lub wspólników, którym przysługuje prawo prowadzenia spraw spółki, zgodnie z przepisami ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych.
 
 **Art. 104.**
 
-1. Zezwolenie na prowadzenie dzia∏alnoÊci maklerskiej, z zastrze˝eniem ust. 2—10, uprawnia dom maklerski do prowadzenia wformie oddzia∏u lub bez koniecznoÊci otwierania oddzia∏u dzia∏alnoÊci maklerskiej na terytorium wszystkich innych paƒstw cz∏onkowskich w zakresie czynnoÊci wykonywanych na podstawie tego zezwolenia na terytorium Rzeczypospolitej Polskiej.
+1. Zezwolenie na prowadzenie działalności maklerskiej, z zastrzeżeniem ust. 2—10, uprawnia dom maklerski do prowadzenia wformie oddziału lub bez konieczności otwierania oddziału działalności maklerskiej na terytorium wszystkich innych państw członkowskich w zakresie czynności wykonywanych na podstawie tego zezwolenia na terytorium Rzeczypospolitej Polskiej.
 
-2. Dom maklerski jest obowiàzany zawiadomiç Komisj´ o zamiarze prowadzenia dzia∏alnoÊci maklerskiej wformie oddzia∏u lub bez otwierania oddzia∏u na terytorium innego paƒstwa cz∏onkowskiego.
+2. Dom maklerski jest obowiązany zawiadomić Komisję o zamiarze prowadzenia działalności maklerskiej wformie oddziału lub bez otwierania oddziału na terytorium innego państwa członkowskiego.
 
 3. Zawiadomienie, októrym mowa wust. 2, zawiera:
 
-- **1)** wskazanie innego paƒstwa cz∏onkowskiego, na terytorium którego planuje si´ utworzenie oddzia∏u lub b´dzie prowadzona dzia∏alnoÊç bez otwierania oddzia∏u;
+- **1)** wskazanie innego państwa członkowskiego, na terytorium którego planuje się utworzenie oddziału lub będzie prowadzona działalność bez otwierania oddziału;
 
-4. Przepisów ust. 3 pkt 3 i 4 nie stosuje si´ w przypadku, gdy dzia∏alnoÊç maklerska b´dzie prowadzona bez otwierania oddzia∏u.
+4. Przepisów ust. 3 pkt 3 i 4 nie stosuje się w przypadku, gdy działalność maklerska będzie prowadzona bez otwierania oddziału.
 
-5. Komisja przekazuje informacje, októrych mowa w ust. 3, w terminie 3 miesi´cy w przypadku gdy dzia∏alnoÊç ma byç prowadzona w formie oddzia∏u, lub miesiàca w przypadku gdy dzia∏alnoÊç ma byç prowadzona bez otwierania oddzia∏u od ich otrzymania, w∏aÊciwemu organowi nadzoru innego paƒstwa cz∏onkowskiego, na terytorium którego ma dzia∏aç oddzia∏ lub b´dzie prowadzona dzia∏alnoÊç. W przypadku gdy dzia∏alnoÊç ma byç prowadzona w formie oddzia∏u, Komisja wraz z informacjami, o których mowa w ust. 3, przekazuje informacje oogólnych zasadach funkcjonowania polskiego systemu rekompensat.
+5. Komisja przekazuje informacje, októrych mowa w ust. 3, w terminie 3 miesięcy w przypadku gdy działalność ma być prowadzona w formie oddziału, lub miesiąca w przypadku gdy działalność ma być prowadzona bez otwierania oddziału od ich otrzymania, właściwemu organowi nadzoru innego państwa członkowskiego, na terytorium którego ma działać oddział lub będzie prowadzona działalność. W przypadku gdy działalność ma być prowadzona w formie oddziału, Komisja wraz z informacjami, o których mowa w ust. 3, przekazuje informacje oogólnych zasadach funkcjonowania polskiego systemu rekompensat.
 
-6. O przekazaniu informacji, o których mowa w ust. 3, w∏aÊciwemu organowi nadzoru innego paƒstwa cz∏onkowskiego Komisja informuje dom maklerski, którego te informacje dotyczà.
+6. O przekazaniu informacji, o których mowa w ust. 3, właściwemu organowi nadzoru innego państwa członkowskiego Komisja informuje dom maklerski, którego te informacje dotyczą.
 
-7. Wprzypadku zmiany zasad funkcjonowania systemu rekompensat, Komisja przekazuje informacj´ otych zmianach w∏aÊciwemu organowi nadzoru winnym paƒstwie cz∏onkowskim, na którego terytorium dzia∏a dom maklerski.
+7. Wprzypadku zmiany zasad funkcjonowania systemu rekompensat, Komisja przekazuje informację otych zmianach właściwemu organowi nadzoru winnym państwie członkowskim, na którego terytorium działa dom maklerski.
 
-8. Informacje o zmianie danych zawartych w zawiadomieniu dom maklerski przekazuje Komisji oraz w∏aÊciwemu organowi nadzoru innego paƒstwa cz∏onkowskiego, na terytorium którego dzia∏a oddzia∏ lub jest prowadzona dzia∏alnoÊç bez otwierania oddzia∏u, nie póêniej ni˝ na miesiàc przed dniem wejÊcia w ˝ycie tych zmian.
+8. Informacje o zmianie danych zawartych w zawiadomieniu dom maklerski przekazuje Komisji oraz właściwemu organowi nadzoru innego państwa członkowskiego, na terytorium którego działa oddział lub jest prowadzona działalność bez otwierania oddziału, nie póêniej niż na miesiąc przed dniem wejścia w życie tych zmian.
 
-9. Komisja mo˝e, wterminie 3 miesi´cy wprzypadku gdy dzia∏alnoÊç ma byç prowadzona w formie oddzia∏u, lub miesiàca wprzypadku gdy dzia∏alnoÊç ma byç prowadzona bez otwierania oddzia∏u od dnia z∏o˝enia zawiadomienia, zg∏osiç sprzeciw wobec zamiaru utworzenia oddzia∏u lub rozpocz´cia dzia∏alnoÊci bez otwierania oddzia∏u poza terytorium Rzeczypospolitej Polskiej, je˝eli stanowi∏oby to zagro˝enie dla funkcjonowania domu maklerskiego na terytorium
+9. Komisja może, wterminie 3 miesięcy wprzypadku gdy działalność ma być prowadzona w formie oddziału, lub miesiąca wprzypadku gdy działalność ma być prowadzona bez otwierania oddziału od dnia złożenia zawiadomienia, zgłosić sprzeciw wobec zamiaru utworzenia oddziału lub rozpoczęcia działalności bez otwierania oddziału poza terytorium Rzeczypospolitej Polskiej, jeżeli stanowiłoby to zagrożenie dla funkcjonowania domu maklerskiego na terytorium
 
-- **2)** przewidywany zakres dzia∏alnoÊci oraz struktur´ organizacyjnà;
-- **3)** adres, pod którym dost´pne b´dà dokumenty zwiàzane z prowadzonà dzia∏alnoÊcià;
-- **4)** dane osobowe osób kierujàcych dzia∏alnoÊcià. Rzeczypospolitej Polskiej.
+- **2)** przewidywany zakres działalności oraz strukturę organizacyjną;
+- **3)** adres, pod którym dostępne będą dokumenty związane z prowadzoną działalnością;
+- **4)** dane osobowe osób kierujących działalnością. Rzeczypospolitej Polskiej.
 
-10. Dzia∏alnoÊç maklerska na terytorium innego paƒstwa cz∏onkowskiego mo˝e byç rozpocz´ta po otrzymaniu od w∏aÊciwego organu nadzoru tego paƒstwa informacji wskazujàcej warunki prowadzenia tej dzia∏alnoÊci lub po up∏ywie 2 miesi´cy liczonych od dnia otrzymania przez w∏aÊciwy organ nadzoru w innym paƒstwie cz∏onkowskim, na którego terytorium dzia∏alnoÊç ma byç prowadzona, zawiadomienia, o którym mowa w ust. 2. Dzia∏alnoÊç, która ma byç prowadzona bez otwierania oddzia∏u, mo˝e byç podj´ta po otrzymaniu przez dom maklerski, od Komisji informacji, o której mowa w ust. 6.
+10. Działalność maklerska na terytorium innego państwa członkowskiego może być rozpoczęta po otrzymaniu od właściwego organu nadzoru tego państwa informacji wskazującej warunki prowadzenia tej działalności lub po upływie 2 miesięcy liczonych od dnia otrzymania przez właściwy organ nadzoru w innym państwie członkowskim, na którego terytorium działalność ma być prowadzona, zawiadomienia, o którym mowa w ust. 2. Działalność, która ma być prowadzona bez otwierania oddziału, może być podjęta po otrzymaniu przez dom maklerski, od Komisji informacji, o której mowa w ust. 6.
 
-11. Komisja niezw∏ocznie informuje w∏aÊciwy organ nadzoru innego paƒstwa cz∏onkowskiego, na którego terytorium dzia∏a dom maklerski, o cofni´ciu lub wygaÊni´ciu zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej b´dàcego podstawà prowadzenia dzia∏al- 2) powodujàcej osiàgni´cie lub przekroczenie 10 %, noÊci na terytorium danego paƒstwa. 20 %, 33 % lub 50 % ogólnej liczby g∏osów lub kapita∏u zak∏adowego
+11. Komisja niezwłocznie informuje właściwy organ nadzoru innego państwa członkowskiego, na którego terytorium działa dom maklerski, o cofnięciu lub wygaśnięciu zezwolenia na prowadzenie działalności maklerskiej będącego podstawą prowadzenia działal- 2) powodującej osiągnięcie lub przekroczenie 10 %, ności na terytorium danego państwa. 20 %, 33 % lub 50 % ogólnej liczby głosów lub kapitału zakładowego
 
-12. Komisja informuje Komisj´ Europejskà o liczbie przypadków zg∏oszenia sprzeciwu, októrym mowa przy czym posiadanie akcji domu maklerskiego w ust. 9. przez podmioty pozostajàce w tej samej grupie kapita∏owej uwa˝a si´ za ich posiadanie przez jeden pod13. Przepisów ust. 1—12 nie stosuje si´ do domu miot. maklerskiego prowadzàcego dzia∏alnoÊç maklerskà 2. Przez poÊrednie nabycie akcji domu maklerskiewy∏àcznie wzakresie wskazanym wart. 69 ust. 3 lub 4. go rozumie si´ nabycie lub obj´cie akcji lub udzia∏ów
+12. Komisja informuje Komisję Europejską o liczbie przypadków zgłoszenia sprzeciwu, októrym mowa przy czym posiadanie akcji domu maklerskiego w ust. 9. przez podmioty pozostające w tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden pod13. Przepisów ust. 1—12 nie stosuje się do domu miot. maklerskiego prowadzącego działalność maklerską 2. Przez pośrednie nabycie akcji domu maklerskiewyłącznie wzakresie wskazanym wart. 69 ust. 3 lub 4. go rozumie się nabycie lub objęcie akcji lub udziałów
 
-14. Dom maklerski mo˝e ubiegaç si´ o mo˝liwoÊç podmiotu posiadajàcego bezpoÊrednio lub poÊrednio akcje domu maklerskiego, je˝eli w wyniku nabycia prowadzenia dzia∏alnoÊci w formie oddzia∏u lub w in- lub obj´cia dojdzie do osiàgni´cia lub przekroczenia nej formie w kraju nieb´dàcym paƒstwem cz∏onkow- 50 % ogólnej liczby g∏osów lub 50 % kapita∏u zak∏askim pod warunkiem uprzedniego zawarcia przez Ko- dowego tego podmiotu. misj´ porozumienia, o którym mowa w art. 20 ust. 2 ustawy onadzorze, zorganem nadzoru wkraju, wktó- 3. Komisji przys∏uguje prawo zg∏oszenia sprzeciwu rym ma byç prowadzona ta dzia∏alnoÊç. W tym przy- wobec planowanego bezpoÊredniego lub poÊredniepadku przepisy ust. 2—4 i 9 stosuje si´ odpowiednio. go nabycia lub obj´cia akcji domu maklerskiego wliczbie nabycia wterminie 3 miesi´cy od dnia dokoArt. 105. 1. Zezwolenia Komisji, wydanego na nania zawiadomienia, o którym mowa w ust. 1, wniosek domu maklerskiego, wymaga: w przypadku gdy istnieje uzasadnione podejrzenie, ˝e
+14. Dom maklerski może ubiegać się o możliwość podmiotu posiadającego bezpośrednio lub pośrednio akcje domu maklerskiego, jeżeli w wyniku nabycia prowadzenia działalności w formie oddziału lub w in- lub objęcia dojdzie do osiągnięcia lub przekroczenia nej formie w kraju niebędącym państwem członkow- 50 % ogólnej liczby głosów lub 50 % kapitału zakłaskim pod warunkiem uprzedniego zawarcia przez Ko- dowego tego podmiotu. misję porozumienia, o którym mowa w art. 20 ust. 2 ustawy onadzorze, zorganem nadzoru wkraju, wktó- 3. Komisji przysługuje prawo zgłoszenia sprzeciwu rym ma być prowadzona ta działalność. W tym przy- wobec planowanego bezpośredniego lub pośredniepadku przepisy ust. 2—4 i 9 stosuje się odpowiednio. go nabycia lub objęcia akcji domu maklerskiego wliczbie nabycia wterminie 3 miesięcy od dnia dokoArt. 105. 1. Zezwolenia Komisji, wydanego na nania zawiadomienia, o którym mowa w ust. 1, wniosek domu maklerskiego, wymaga: w przypadku gdy istnieje uzasadnione podejrzenie, że
 
-- **1)** wczeÊniejsza ni˝ w dniu okreÊlonym w umowie sp∏ata przez dom maklerski zobowiàzaƒ:
-    - **a)** z tytu∏u papierów wartoÊciowych o nieoznaczonym terminie wymagalnoÊci oraz innych instrumentów finansowych o nieoznaczonym terminie wymagalnoÊci,
-    - **b)** z tytu∏u po˝yczki lub kredytu, w wyniku których powsta∏y zobowiàzania podporzàdkowane;
+- **1)** wcześniejsza niż w dniu określonym w umowie spłata przez dom maklerski zobowiązań:
+    - **a)** z tytułu papierów wartościowych o nieoznaczonym terminie wymagalności oraz innych instrumentów finansowych o nieoznaczonym terminie wymagalności,
+    - **b)** z tytułu pożyczki lub kredytu, w wyniku których powstały zobowiązania podporządkowane;
 
-- **2)** zaliczenie zobowiàzaƒ z tytu∏u papierów wartoÊciowych o nieoznaczonym terminie wymagalnoÊci oraz innych instrumentów finansowych o nieoznaczonym terminie wymagalnoÊci do kapita∏ów domu maklerskiego;
-- **3)** stosowanie przez dom maklerski innego ni˝ ustalony przez rynek regulowany modelu obliczania stosunku zmiany wartoÊci opcji do zmiany wartoÊci instrumentu bazowego b´dàcego przedmiotem tej opcji;
-- **4)** obliczanie wymogów kapita∏owych na pokrycie poszczególnych rodzajów ryzyka za pomocà stosowania w∏asnych wewn´trznych modeli zarzàdzania ryzykiem przez dom maklerski.
+- **2)** zaliczenie zobowiązań z tytułu papierów wartościowych o nieoznaczonym terminie wymagalności oraz innych instrumentów finansowych o nieoznaczonym terminie wymagalności do kapitałów domu maklerskiego;
+- **3)** stosowanie przez dom maklerski innego niż ustalony przez rynek regulowany modelu obliczania stosunku zmiany wartości opcji do zmiany wartości instrumentu bazowego będącego przedmiotem tej opcji;
+- **4)** obliczanie wymogów kapitałowych na pokrycie poszczególnych rodzajów ryzyka za pomocą stosowania własnych wewnętrznych modeli zarządzania ryzykiem przez dom maklerski.
 
-2. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, w drodze rozporzàdzenia, wymogi, jakim powinny odpowiadaç wnioski, o których mowa w ust. 1, uwzgl´dniajàc koniecznoÊç dokonywania na ich podstawie oceny skutków, jakie mogà spowodowaç czynnoÊci obj´te wnioskami, w zakresie sytuacji finansowej domu maklerskiego.
+2. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, wymogi, jakim powinny odpowiadać wnioski, o których mowa w ust. 1, uwzględniając konieczność dokonywania na ich podstawie oceny skutków, jakie mogą spowodować czynności objęte wnioskami, w zakresie sytuacji finansowej domu maklerskiego.
 
 **Art. 106.**
 
-1. Zawiadomienia Komisji wymaga zamiar bezpoÊredniego lub poÊredniego nabycia lub obj´cia akcji domu maklerskiego w liczbie:
+1. Zawiadomienia Komisji wymaga zamiar bezpośredniego lub pośredniego nabycia lub objęcia akcji domu maklerskiego w liczbie:
 
-- **1)** stanowiàcej co najmniej 10 % ogólnej liczby g∏osów lub kapita∏u zak∏adowego lub podmiot zamierzajàcy nabyç akcje domu maklerskiego móg∏by wywieraç niekorzystny wp∏yw na zarzàdzanie tym domem maklerskim. Wprzypadku niezg∏oszenia sprzeciwu Komisja mo˝e wyznaczyç termin, wciàgu którego nabycie akcji domu maklerskiego mo˝e zostaç dokonane.
+- **1)** stanowiącej co najmniej 10 % ogólnej liczby głosów lub kapitału zakładowego lub podmiot zamierzający nabyć akcje domu maklerskiego mógłby wywierać niekorzystny wpływ na zarządzanie tym domem maklerskim. Wprzypadku niezgłoszenia sprzeciwu Komisja może wyznaczyć termin, wciągu którego nabycie akcji domu maklerskiego może zostać dokonane.
 
-4. Wykonywanie prawa g∏osu z akcji nabytych pomimo sprzeciwu, októrym mowa wust. 3, jest bezskuteczne.
+4. Wykonywanie prawa głosu z akcji nabytych pomimo sprzeciwu, októrym mowa wust. 3, jest bezskuteczne.
 
-5. Wprzypadku gdy podmiotem nabywajàcym akcje domu maklerskiego jest zagraniczna firma inwestycyjna, bank zagraniczny albo zagraniczny zak∏ad ubezpieczeƒ posiadajàcy zezwolenie na prowadzenie dzia∏alnoÊci wydane przez w∏aÊciwy organ nadzoru innego paƒstwa cz∏onkowskiego, Komisja zasi´ga opinii organu nadzoru, który udzieli∏ zezwolenia na prowadzenie dzia∏alnoÊci przez te podmioty. Przedmiotem opinii jest sposób prowadzenia dzia∏alnoÊci przez podmiot, który zamierza nabyç akcje domu maklerskiego, w tym w szczególnoÊci jego zgodnoÊç z przepisami prawa.
+5. Wprzypadku gdy podmiotem nabywającym akcje domu maklerskiego jest zagraniczna firma inwestycyjna, bank zagraniczny albo zagraniczny zakład ubezpieczeń posiadający zezwolenie na prowadzenie działalności wydane przez właściwy organ nadzoru innego państwa członkowskiego, Komisja zasięga opinii organu nadzoru, który udzielił zezwolenia na prowadzenie działalności przez te podmioty. Przedmiotem opinii jest sposób prowadzenia działalności przez podmiot, który zamierza nabyć akcje domu maklerskiego, w tym w szczególności jego zgodność z przepisami prawa.
 
-6. Przepis ust. 5 stosuje si´ odpowiednio w przypadku, gdy podmiotem nabywajàcym akcje domu maklerskiego jest podmiot dominujàcy wobec podmiotu, o którym mowa w ust. 5, lub podmiot wywierajàcy znaczny wp∏yw w rozumieniu art. 96 ust. 3 na podmiot, októrym mowa wust. 5, atak˝e wprzypadku je˝eli wwyniku poÊredniego nabycia podmiot, którego akcje sà przedmiotem nabycia, sta∏by si´ podmiotem zale˝nym od nabywcy albo podmiotem, na który nabywca zacznie wywieraç znaczny wp∏yw wrozumieniu art. 96 ust. 3.
+6. Przepis ust. 5 stosuje się odpowiednio w przypadku, gdy podmiotem nabywającym akcje domu maklerskiego jest podmiot dominujący wobec podmiotu, o którym mowa w ust. 5, lub podmiot wywierający znaczny wpływ w rozumieniu art. 96 ust. 3 na podmiot, októrym mowa wust. 5, atakże wprzypadku jeżeli wwyniku pośredniego nabycia podmiot, którego akcje są przedmiotem nabycia, stałby się podmiotem zależnym od nabywcy albo podmiotem, na który nabywca zacznie wywierać znaczny wpływ wrozumieniu art. 96 ust. 3.
 
-7. Zawiadomienie, októrym mowa wust. 1, zawiera wskazanie liczby akcji, które nabywca zamierza nabyç, ich udzia∏ wkapitale zak∏adowym oraz liczb´ g∏osów, jakà nabywca osiàgnie na walnym zgromadzeniu, oraz sk∏adane pod rygorem odpowiedzialnoÊci karnej oÊwiadczenie o êródle pochodzenia Êrodków pieni´˝nych przeznaczonych na zap∏at´ za obejmowane lub nabywane akcje domu maklerskiego.
+7. Zawiadomienie, októrym mowa wust. 1, zawiera wskazanie liczby akcji, które nabywca zamierza nabyć, ich udział wkapitale zakładowym oraz liczbę głosów, jaką nabywca osiągnie na walnym zgromadzeniu, oraz składane pod rygorem odpowiedzialności karnej oświadczenie o êródle pochodzenia środków pieniężnych przeznaczonych na zapłatę za obejmowane lub nabywane akcje domu maklerskiego.
 
-8. Niezg∏oszenie przez Komisj´ sprzeciwu wterminie, o którym mowa w ust. 3, oznacza zgod´ na nabycie akcji domu maklerskiego, na warunkach wskazanych w zawiadomieniu.
+8. Niezgłoszenie przez Komisję sprzeciwu wterminie, o którym mowa w ust. 3, oznacza zgodę na nabycie akcji domu maklerskiego, na warunkach wskazanych w zawiadomieniu.
 
-9. Przepisy ust. 1—8 dotyczàce akcji domu maklerskiego stosuje si´ odpowiednio do udzia∏ów domu maklerskiego wformie spó∏ki zograniczonà odpowiedzialnoÊcià.
+9. Przepisy ust. 1—8 dotyczące akcji domu maklerskiego stosuje się odpowiednio do udziałów domu maklerskiego wformie spółki zograniczoną odpowiedzialnością.
 
 **Art. 107.**
 
 1. Zawiadomienia Komisji wymaga zamiar zbycia akcji domu maklerskiego:
 
-- **1)** w liczbie stanowiàcej co najmniej 10 % ogólnej liczby g∏osów lub kapita∏u zak∏adowego lub
-- **2)** przez podmiot posiadajàcy akcje domu maklerskiego w liczbie uprawniajàcej do wykonywania co najmniej 10 %, 20 %, 33 % lub 50 % ogólnej liczby g∏osów lub stanowiàcej co najmniej 10 %, 20 %, 33 % lub 50 % kapita∏u zak∏adowego, je˝eli zakazaç, na okres nie d∏u˝szy ni˝ 2 lata, wykonywania prawa g∏osu z akcji.
+- **1)** w liczbie stanowiącej co najmniej 10 % ogólnej liczby głosów lub kapitału zakładowego lub
+- **2)** przez podmiot posiadający akcje domu maklerskiego w liczbie uprawniającej do wykonywania co najmniej 10 %, 20 %, 33 % lub 50 % ogólnej liczby głosów lub stanowiącej co najmniej 10 %, 20 %, 33 % lub 50 % kapitału zakładowego, jeżeli zakazać, na okres nie dłuższy niż 2 lata, wykonywania prawa głosu z akcji.
 
-2. Je˝eli po up∏ywie okresu obowiàzywania zakazu, októrym mowa wust. 1, przyczyny b´dàce podstawà decyzji zakazujàcej wykonywania prawa g∏osu nie usta∏y, Komisja mo˝e nakazaç akcjonariuszowi lub akcjonariuszom, którzy podlegali temu zakazowi, w terminie okreÊlonym w decyzji, zbycie ca∏oÊci lub cz´Êci akcji.
+2. Jeżeli po upływie okresu obowiązywania zakazu, októrym mowa wust. 1, przyczyny będące podstawą decyzji zakazującej wykonywania prawa głosu nie ustały, Komisja może nakazać akcjonariuszowi lub akcjonariuszom, którzy podlegali temu zakazowi, w terminie określonym w decyzji, zbycie całości lub części akcji.
 
-3. Je˝eli osoby, które naby∏y poÊrednio akcje domu maklerskiego, wywierajà niekorzystny wp∏yw na zarzàdzanie tym domem maklerskim, Komisja mo˝e nakazaç zaprzestanie wywierania niekorzystnego wp∏ywu na zarzàdzanie domem maklerskim, wskazujàc termin oraz warunki i zakres podj´cia stosownych czynnoÊci.
+3. Jeżeli osoby, które nabyły pośrednio akcje domu maklerskiego, wywierają niekorzystny wpływ na zarządzanie tym domem maklerskim, Komisja może nakazać zaprzestanie wywierania niekorzystnego wpływu na zarządzanie domem maklerskim, wskazując termin oraz warunki i zakres podjęcia stosownych czynności.
 
-4. Przepisy ust. 1—3 dotyczàce akcjonariuszy lub akcji domu maklerskiego stosuje si´ odpowiednio do wspólników lub udzia∏ów domu maklerskiego w formie spó∏ki z ograniczonà odpowiedzialnoÊcià. wwyniku tego zbycia podmiot ten b´dzie posiada∏ Art. 109. 1. Dom maklerski nie mo˝e nabywaç na akcje w liczbie uprawniajàcej do wykonywania w∏asny rachunek akcji wyemitowanych przez podmiomniej ni˝ 10 %, 20 %, 33 % lub 50 % ogólnej licz- ty, wobec których jest podmiotem zale˝nym. by g∏osów lub stanowiàcej mniej ni˝ 10 %, 20 %, 33 % lub 50 % kapita∏u zak∏adowego 2. Przepisu ust. 1 nie stosuje si´ do nabywania akprzy czym posiadanie akcji domu maklerskiego cji znajdujàcych si´ w obrocie zorganizowanym: przez podmioty pozostajàce w tej samej grupie kapita∏owej uwa˝a si´ za ich posiadanie przez jeden pod- 1) w celu wskazanym w art. 39 ust. 3 pkt 3 oraz miot. Zawiadomienie dokonywane jest przez zbywa- 2) w celu dalszej odsprzeda˝y, w liczbie stanowiàcej jàcego nie póêniej ni˝ na 2 tygodnie przed planowa- ∏àcznie nie wi´cej ni˝ 5 % kapita∏u zak∏adowego. nym zbyciem akcji.
+4. Przepisy ust. 1—3 dotyczące akcjonariuszy lub akcji domu maklerskiego stosuje się odpowiednio do wspólników lub udziałów domu maklerskiego w formie spółki z ograniczoną odpowiedzialnością. wwyniku tego zbycia podmiot ten będzie posiadał Art. 109. 1. Dom maklerski nie może nabywać na akcje w liczbie uprawniającej do wykonywania własny rachunek akcji wyemitowanych przez podmiomniej niż 10 %, 20 %, 33 % lub 50 % ogólnej licz- ty, wobec których jest podmiotem zależnym. by głosów lub stanowiącej mniej niż 10 %, 20 %, 33 % lub 50 % kapitału zakładowego 2. Przepisu ust. 1 nie stosuje się do nabywania akprzy czym posiadanie akcji domu maklerskiego cji znajdujących się w obrocie zorganizowanym: przez podmioty pozostające w tej samej grupie kapitałowej uważa się za ich posiadanie przez jeden pod- 1) w celu wskazanym w art. 39 ust. 3 pkt 3 oraz miot. Zawiadomienie dokonywane jest przez zbywa- 2) w celu dalszej odsprzedaży, w liczbie stanowiącej jącego nie póêniej niż na 2 tygodnie przed planowa- łącznie nie więcej niż 5 % kapitału zakładowego. nym zbyciem akcji.
 
 **Art. 110.**
 
-1. Komisja zawiadamia Komisj´ Europej2. Zawiadomienie, októrym mowa wust. 1, zawie- skà o: ra wskazanie liczby akcji, które majà zostaç zbyte, ich udzia∏ w ogólnej liczbie g∏osów oraz w kapitale zak∏a- 1) udzieleniu zezwolenia na prowadzenie dzia∏alnodowym oraz liczb´ g∏osów, jakà zbywca osiàgnie na Êci maklerskiej osobie prawnej b´dàcej bezpowalnym zgromadzeniu w wyniku zbycia. Êrednio lub poÊrednio zale˝nà od podmiotu podlegajàcego prawu paƒstwa nieb´dàcego paƒstwem
+1. Komisja zawiadamia Komisję Europej2. Zawiadomienie, októrym mowa wust. 1, zawie- ską o: ra wskazanie liczby akcji, które mają zostać zbyte, ich udział w ogólnej liczbie głosów oraz w kapitale zakła- 1) udzieleniu zezwolenia na prowadzenie działalnodowym oraz liczbę głosów, jaką zbywca osiągnie na ści maklerskiej osobie prawnej będącej bezpowalnym zgromadzeniu w wyniku zbycia. średnio lub pośrednio zależną od podmiotu podlegającego prawu państwa niebędącego państwem
 
-3. Zawiadomienie Komisji o planowanym zbyciu cz∏onkowskim, wterminie miesiàca od dnia udzieakcji domu maklerskiego nie wy∏àcza obowiàzku do- lenia zezwolenia; konania zawiadomienia, o którym mowa w art. 106 ust. 1. 2) nabyciu pakietu akcji podmiotu prowadzàcego
+3. Zawiadomienie Komisji o planowanym zbyciu członkowskim, wterminie miesiąca od dnia udzieakcji domu maklerskiego nie wyłącza obowiązku do- lenia zezwolenia; konania zawiadomienia, o którym mowa w art. 106 ust. 1. 2) nabyciu pakietu akcji podmiotu prowadzącego
 
-4. Przepisu ust. 1 nie stosuje si´ do akcji domu maklerskiego dopuszczonych do obrotu na rynku regulowanym.
+4. Przepisu ust. 1 nie stosuje się do akcji domu maklerskiego dopuszczonych do obrotu na rynku regulowanym.
 
-5. Przepisy ust. 1—3 dotyczàce akcji domu maklerskiego stosuje si´ odpowiednio do udzia∏ów domu maklerskiego wformie spó∏ki zograniczonà odpowiedzialnoÊcià.
+5. Przepisy ust. 1—3 dotyczące akcji domu maklerskiego stosuje się odpowiednio do udziałów domu maklerskiego wformie spółki zograniczoną odpowiedzialnością.
 
 **Art. 108.**
 
-1. Je˝eli wp∏yw wywierany przez akcjonariusza lub akcjonariuszy domu maklerskiego posiadajàcych akcje reprezentujàce co najmniej 10 % ogólnej liczby g∏osów lub co najmniej 10 % kapita∏u zak∏adowego jest niekorzystny dla zarzàdzania tym domem maklerskim, Komisja mo˝e nakazaç zaprzestanie wywierania takiego wp∏ywu, wskazujàc termin oraz warunki i zakres podj´cia stosownych czynnoÊci, awprzypadku niezastosowania si´ do tego nakazu dzia∏alnoÊç maklerskà, je˝eli nabywcà by∏ podmiot podlegajàcy prawu paƒstwa nieb´dàcego paƒstwem cz∏onkowskim iwwyniku tej transakcji sta∏ si´ on podmiotem dominujàcym wobec podmiotu, którego akcje by∏y przedmiotem transakcji.
+1. Jeżeli wpływ wywierany przez akcjonariusza lub akcjonariuszy domu maklerskiego posiadających akcje reprezentujące co najmniej 10 % ogólnej liczby głosów lub co najmniej 10 % kapitału zakładowego jest niekorzystny dla zarządzania tym domem maklerskim, Komisja może nakazać zaprzestanie wywierania takiego wpływu, wskazując termin oraz warunki i zakres podjęcia stosownych czynności, awprzypadku niezastosowania się do tego nakazu działalność maklerską, jeżeli nabywcą był podmiot podlegający prawu państwa niebędącego państwem członkowskim iwwyniku tej transakcji stał się on podmiotem dominującym wobec podmiotu, którego akcje były przedmiotem transakcji.
 
-2. Do zawiadomieƒ, o których mowa w ust. 1, Komisja do∏àcza opis struktury grupy kapita∏owej, z tym ˝e w przypadku zawiadomienia, o którym mowa wust. 1 pkt 2, opis powinien byç sporzàdzony wed∏ug stanu uwzgl´dniajàcego nabycie akcji podmiotu prowadzàcego dzia∏alnoÊç maklerskà.
+2. Do zawiadomień, o których mowa w ust. 1, Komisja dołącza opis struktury grupy kapitałowej, z tym że w przypadku zawiadomienia, o którym mowa wust. 1 pkt 2, opis powinien być sporządzony według stanu uwzględniającego nabycie akcji podmiotu prowadzącego działalność maklerską.
 
-3. Komisja zawiadamia Komisj´ Europejskà oprzeszkodach prawnych, regulacyjnych i organizacyjnych, jakie napotykajà domy maklerskie lub banki prowadzàce dzia∏alnoÊç maklerskà w zwiàzku z prowadzeniem takiej dzia∏alnoÊci na terytorium paƒstw nieb´dàcych paƒstwami cz∏onkowskimi. banku prowadzàcego dzia∏alnoÊç maklerskà wy∏àcznie w zakresie przyjmowania i przekazywania zleceƒ nabycia lub zbycia maklerskich instrumentów finansowych.
+3. Komisja zawiadamia Komisję Europejską oprzeszkodach prawnych, regulacyjnych i organizacyjnych, jakie napotykają domy maklerskie lub banki prowadzące działalność maklerską w związku z prowadzeniem takiej działalności na terytorium państw niebędących państwami członkowskimi. banku prowadzącego działalność maklerską wyłącznie w zakresie przyjmowania i przekazywania zleceń nabycia lub zbycia maklerskich instrumentów finansowych.
 
 **Art. 111.**
 
-1. Bank z siedzibà na terytorium Rzeczypospolitej Polskiej mo˝e prowadziç dzia∏alnoÊç ma- 8. Bank prowadzàcy dzia∏alnoÊç maklerskà oboklerskà po uzyskaniu zezwolenia Komisji. wiàzany jest posiadaç central´ na terytorium Rzeczypospolitej Polskiej.
+1. Bank z siedzibą na terytorium Rzeczypospolitej Polskiej może prowadzić działalność ma- 8. Bank prowadzący działalność maklerską oboklerską po uzyskaniu zezwolenia Komisji. wiązany jest posiadać centralę na terytorium Rzeczypospolitej Polskiej.
 
-2. Wniosek o udzielenie zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej przez bank powinien do- 9. Za central´, o której mowa w ust. 8, uwa˝a si´ datkowo zawieraç: jednostk´ organizacyjnà banku, w której jest prowadzona dzia∏alnoÊç maklerska iwktórej wsposób sta∏y
+2. Wniosek o udzielenie zezwolenia na prowadzenie działalności maklerskiej przez bank powinien do- 9. Za centralę, o której mowa w ust. 8, uważa się datkowo zawierać: jednostkę organizacyjną banku, w której jest prowadzona działalność maklerska iwktórej wsposób stały
 
-- **1)** nazw´ jednostki organizacyjnej banku, w ramach wykonujà dzia∏alnoÊç osoby kierujàce dzia∏alnoÊcià której ma byç prowadzona dzia∏alnoÊç maklerska; maklerskà.
-- **2)** w przypadku banku b´dàcego spó∏kà akcyjnà 10. Minister w∏aÊciwy do spraw instytucji finansowskazanie akcjonariuszy posiadajàcych co naj- wych okreÊla, w drodze rozporzàdzenia, szczegó∏owe mniej 10 % ogólnej liczby g∏osów lub co najmniej zasady wydzielenia organizacyjnego dzia∏alnoÊci ma10 % kapita∏u zak∏adowego; klerskiej banku, uwzgl´dniajàc koniecznoÊç zapewnie3) informacje o podmiotach dominujàcych wobec nia zachowania poufnoÊci danych w wydzielonej jedwnioskodawcy; nostce organizacyjnej banku przy jednoczesnym zagwarantowaniu bezpiecznego isprawnego prowadze4) informacj´ o wysokoÊci funduszy w∏asnych; nia dzia∏alnoÊci maklerskiej.
-- **5)** informacj´ o wysokoÊci kapita∏u za∏o˝ycielskiego, Art. 112. 1. Za kapita∏ za∏o˝ycielski banku prowao którym mowa w art. 112 ust. 1; dzàcego dzia∏alnoÊç maklerskà uwa˝a si´ fundusz przeznaczony na prowadzenie dzia∏alnoÊci makler6) informacje okreÊlone wart. 82 ust. 1 pkt 1, 7, 9—11. skiej, wydzielony z funduszy w∏asnych banku w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r.
+- **1)** nazwę jednostki organizacyjnej banku, w ramach wykonują działalność osoby kierujące działalnością której ma być prowadzona działalność maklerska; maklerską.
+- **2)** w przypadku banku będącego spółką akcyjną 10. Minister właściwy do spraw instytucji finansowskazanie akcjonariuszy posiadających co naj- wych określa, w drodze rozporządzenia, szczegółowe mniej 10 % ogólnej liczby głosów lub co najmniej zasady wydzielenia organizacyjnego działalności ma10 % kapitału zakładowego; klerskiej banku, uwzględniając konieczność zapewnie3) informacje o podmiotach dominujących wobec nia zachowania poufności danych w wydzielonej jedwnioskodawcy; nostce organizacyjnej banku przy jednoczesnym zagwarantowaniu bezpiecznego isprawnego prowadze4) informację o wysokości funduszy własnych; nia działalności maklerskiej.
+- **5)** informację o wysokości kapitału założycielskiego, Art. 112. 1. Za kapitał założycielski banku prowao którym mowa w art. 112 ust. 1; dzącego działalność maklerską uważa się fundusz przeznaczony na prowadzenie działalności makler6) informacje określone wart. 82 ust. 1 pkt 1, 7, 9—11. skiej, wydzielony z funduszy własnych banku w rozumieniu przepisów ustawy z dnia 29 sierpnia 1997 r.
 
-3. W przypadku wniosku o udzielenie zezwolenia Prawo bankowe, powi´kszony o fundusze rezerwowe na prowadzenie dzia∏alnoÊci maklerskiej przez bank, utworzone przez bank prowadzàcy dzia∏alnoÊç maklerprzez regulamin, októrym mowa wart. 82 ust. 2 pkt 5, skà, z wy∏àczeniem funduszu aktualizacji wyceny. rozumie si´ regulamin inwestowania na w∏asny rachunek w maklerskie instrumenty finansowe przez 2. Zezwolenia Komisji, wydanego na wniosek banpracowników jednostki organizacyjnej banku prowa- ku prowadzàcego dzia∏alnoÊç maklerskà, wymaga: dzàcej dzia∏alnoÊç maklerskà oraz przez osoby kierujàce lub nadzorujàce dzia∏alnoÊç tej jednostki. 1) sp∏ata przez bank zobowiàzaƒ z tytu∏u papierów wartoÊciowych o nieoznaczonym terminie wyma4. Do wniosku, o którym mowa w ust. 2, dodatko- galnoÊci oraz innych instrumentów finansowych wo za∏àcza si´ informacje o sposobach monitorowa- o nieoznaczonym terminie wymagalnoÊci; nia i kontroli ryzyka stopy procentowej zwiàzanego z ca∏oÊcià prowadzonej dzia∏alnoÊci. 2) zaliczenie zobowiàzaƒ z tytu∏u papierów wartoÊciowych o nieoznaczonym terminie wymagalno5. Warunkiem uzyskania zezwolenia jest wydziele- Êci oraz innych instrumentów finansowych o nienie dzia∏alnoÊci maklerskiej w ramach banku, polega- oznaczonym terminie wymagalnoÊci do kapita∏ów jàce na: domu maklerskiego;
+3. W przypadku wniosku o udzielenie zezwolenia Prawo bankowe, powiększony o fundusze rezerwowe na prowadzenie działalności maklerskiej przez bank, utworzone przez bank prowadzący działalność maklerprzez regulamin, októrym mowa wart. 82 ust. 2 pkt 5, ską, z wyłączeniem funduszu aktualizacji wyceny. rozumie się regulamin inwestowania na własny rachunek w maklerskie instrumenty finansowe przez 2. Zezwolenia Komisji, wydanego na wniosek banpracowników jednostki organizacyjnej banku prowa- ku prowadzącego działalność maklerską, wymaga: dzącej działalność maklerską oraz przez osoby kierujące lub nadzorujące działalność tej jednostki. 1) spłata przez bank zobowiązań z tytułu papierów wartościowych o nieoznaczonym terminie wyma4. Do wniosku, o którym mowa w ust. 2, dodatko- galności oraz innych instrumentów finansowych wo załącza się informacje o sposobach monitorowa- o nieoznaczonym terminie wymagalności; nia i kontroli ryzyka stopy procentowej związanego z całością prowadzonej działalności. 2) zaliczenie zobowiązań z tytułu papierów wartościowych o nieoznaczonym terminie wymagalno5. Warunkiem uzyskania zezwolenia jest wydziele- ści oraz innych instrumentów finansowych o nienie działalności maklerskiej w ramach banku, polega- oznaczonym terminie wymagalności do kapitałów jące na: domu maklerskiego;
 
-- **1)** prowadzeniu tej dzia∏alnoÊci w sposób pozwalajà- 3) stosowanie przez bank innego ni˝ ustalony przez cy na jej organizacyjne wyodr´bnienie od pozosta- rynek regulowany modelu obliczania stosunku ∏ej dzia∏alnoÊci banku, z zastrze˝eniem art. 113 zmiany wartoÊci opcji do zmiany wartoÊci instru(wydzielenie organizacyjne); mentu bazowego b´dàcego przedmiotem tej opcji;
-- **2)** prowadzeniu odr´bnych ksiàg rachunkowych i sporzàdzaniu odr´bnych sprawozdaƒ finanso- 4) obliczanie wymogów kapita∏owych na pokrycie wych na zasadach okreÊlonych wodr´bnych prze- poszczególnych rodzajów ryzyka za pomocà stopisach (wydzielenie finansowe). sowania w∏asnych wewn´trznych modeli zarzàdzania ryzykiem przez bank.
+- **1)** prowadzeniu tej działalności w sposób pozwalają- 3) stosowanie przez bank innego niż ustalony przez cy na jej organizacyjne wyodrębnienie od pozosta- rynek regulowany modelu obliczania stosunku łej działalności banku, z zastrzeżeniem art. 113 zmiany wartości opcji do zmiany wartości instru(wydzielenie organizacyjne); mentu bazowego będącego przedmiotem tej opcji;
+- **2)** prowadzeniu odrębnych ksiąg rachunkowych i sporządzaniu odrębnych sprawozdań finanso- 4) obliczanie wymogów kapitałowych na pokrycie wych na zasadach określonych wodrębnych prze- poszczególnych rodzajów ryzyka za pomocą stopisach (wydzielenie finansowe). sowania własnych wewnętrznych modeli zarządzania ryzykiem przez bank.
 
-6. Wsk∏ad w∏adz jednostki organizacyjnej, októrej mowa w ust. 2 pkt 1, powinny wchodziç co najmniej 3. Minister w∏aÊciwy do spraw instytucji finansodwie osoby posiadajàce wykszta∏cenie wy˝sze, co naj- wych okreÊla, w drodze rozporzàdzenia, wymogi, jamniej trzyletni sta˝ pracy w instytucjach rynku finan- kim powinny odpowiadaç wnioski, o których mowa sowego oraz dobrà opini´ wzwiàzku ze sprawowany- w ust. 2, uwzgl´dniajàc koniecznoÊç dokonywania na mi funkcjami. ich podstawie oceny skutków, jakie mogà spowodowaç czynnoÊci obj´te wnioskami, w zakresie sytuacji
+6. Wskład władz jednostki organizacyjnej, októrej mowa w ust. 2 pkt 1, powinny wchodzić co najmniej 3. Minister właściwy do spraw instytucji finansodwie osoby posiadające wykształcenie wyższe, co naj- wych określa, w drodze rozporządzenia, wymogi, jamniej trzyletni staż pracy w instytucjach rynku finan- kim powinny odpowiadać wnioski, o których mowa sowego oraz dobrą opinię wzwiązku ze sprawowany- w ust. 2, uwzględniając konieczność dokonywania na mi funkcjami. ich podstawie oceny skutków, jakie mogą spowodować czynności objęte wnioskami, w zakresie sytuacji
 
-7. Przepisów owydzieleniu finansowym dzia∏alno- finansowej banku prowadzàcego dzia∏alnoÊç maklerÊci maklerskiej w ramach banku nie stosuje si´ do skà.
+7. Przepisów owydzieleniu finansowym działalno- finansowej banku prowadzącego działalność maklerści maklerskiej w ramach banku nie stosuje się do ską.
 
 **Art. 113.**
 
-1. CzynnoÊci zwiàzane z zawieraniem umów oÊwiadczenie us∏ug przez bank wramach prowadzonej dzia∏alnoÊci maklerskiej lub umo˝liwiajàce realizacj´ tych umów, w szczególnoÊci polegajàce na doradzaniu klientowi lub potencjalnemu klientowi w zakresie prowadzonej przez dany bank dzia∏alnoÊci maklerskiej, przyjmowaniu i przekazywaniu zleceƒ, októrych mowa wart. 69 ust. 2 pkt 1, oraz odbieraniu innych oÊwiadczeƒ woli dla banku w ramach prowadzonej dzia∏alnoÊci maklerskiej, mogà byç wykonywane poza wyodr´bnionà jednostkà banku, wktórej prowadzona jest dzia∏alnoÊç maklerska.
+1. Czynności związane z zawieraniem umów oświadczenie usług przez bank wramach prowadzonej działalności maklerskiej lub umożliwiające realizację tych umów, w szczególności polegające na doradzaniu klientowi lub potencjalnemu klientowi w zakresie prowadzonej przez dany bank działalności maklerskiej, przyjmowaniu i przekazywaniu zleceń, októrych mowa wart. 69 ust. 2 pkt 1, oraz odbieraniu innych oświadczeń woli dla banku w ramach prowadzonej działalności maklerskiej, mogą być wykonywane poza wyodrębnioną jednostką banku, wktórej prowadzona jest działalność maklerska.
 
-2. Podstawà wykonywania czynnoÊci, o których mowa wust. 1, poza jednostkà banku, wktórej prowadzona jest dzia∏alnoÊç maklerska, sà regulacje wewn´trzne banku okreÊlajàce w szczególnoÊci szczegó∏owy zakres tych czynnoÊci oraz sposób ich wykonywania. Nie póêniej ni˝ w terminie miesiàca przed rozpocz´ciem wykonywania czynnoÊci, o których mowa w ust. 1, poza jednostkà organizacyjnà, w której prowadzona jest dzia∏alnoÊç maklerska, bank jest obowiàzany przedstawiç Komisji regulacje wewn´trzne, zktórych wynika przyj´ty sposób post´powania.
+2. Podstawą wykonywania czynności, o których mowa wust. 1, poza jednostką banku, wktórej prowadzona jest działalność maklerska, są regulacje wewnętrzne banku określające w szczególności szczegółowy zakres tych czynności oraz sposób ich wykonywania. Nie póêniej niż w terminie miesiąca przed rozpoczęciem wykonywania czynności, o których mowa w ust. 1, poza jednostką organizacyjną, w której prowadzona jest działalność maklerska, bank jest obowiązany przedstawić Komisji regulacje wewnętrzne, zktórych wynika przyjęty sposób postępowania.
 
-3. Wprzypadku gdy przyj´ty przez bank sposób post´powania móg∏by doprowadziç do naruszenia bezpieczeƒstwa obrotu lub interesów klientów banku, Komisja mo˝e wterminie miesiàca od dnia dokonania zawiadomienia zg∏osiç sprzeciw wobec jego wdro˝enia.
+3. Wprzypadku gdy przyjęty przez bank sposób postępowania mógłby doprowadzić do naruszenia bezpieczeństwa obrotu lub interesów klientów banku, Komisja może wterminie miesiąca od dnia dokonania zawiadomienia zgłosić sprzeciw wobec jego wdrożenia.
 
-4. W stosunku do jednostek banku wykonujàcych czynnoÊci, o których mowa w ust. 1, Komisji przys∏ugujà przewidziane w ustawie o nadzorze uprawnienia kontrolne, w zakresie dotyczàcym tych czynnoÊci oraz sporzàdzanych w zwiàzku z tymi czynnoÊciami dokumentów.
+4. W stosunku do jednostek banku wykonujących czynności, o których mowa w ust. 1, Komisji przysługują przewidziane w ustawie o nadzorze uprawnienia kontrolne, w zakresie dotyczącym tych czynności oraz sporządzanych w związku z tymi czynnościami dokumentów.
 
 **Art. 114.**
 
-1. Wzakresie nieuregulowanym przepisami niniejszego oddzia∏u do banku prowadzàcego dzia∏alnoÊç maklerskà oraz wykonywania nadzoru nad takim bankiem stosuje si´ odpowiednio przepisy oddzia∏u 2, z wy∏àczeniem art. 95, art. 96 i art. 106—109.
+1. Wzakresie nieuregulowanym przepisami niniejszego oddziału do banku prowadzącego działalność maklerską oraz wykonywania nadzoru nad takim bankiem stosuje się odpowiednio przepisy oddziału 2, z wyłączeniem art. 95, art. 96 i art. 106—109.
 
-2. Przepis art. 100 ust. 1 stosuje si´ wy∏àcznie do sprawozdania finansowego jednostki organizacyjnej banku prowadzàcej dzia∏alnoÊç maklerskà. Przepis art.100 ust. 3 stosuje si´ do sprawozdania finansowego banku w cz´Êci dotyczàcej wy∏àcznie dzia∏alnoÊci maklerskiej.
+2. Przepis art. 100 ust. 1 stosuje się wyłącznie do sprawozdania finansowego jednostki organizacyjnej banku prowadzącej działalność maklerską. Przepis art.100 ust. 3 stosuje się do sprawozdania finansowego banku w części dotyczącej wyłącznie działalności maklerskiej.
 
-3. Zawiadomienie, o którym mowa w art. 104 ust.2, sporzàdzone przez bank prowadzàcy dzia∏alnoÊç maklerskà Komisja przekazuje za poÊrednictwem Komisji Nadzoru Bankowego w∏aÊciwemu organowi nadzoru winnym paƒstwie cz∏onkowskim, na którego terytorium bank zamierza otworzyç oddzia∏ lub prowadziç dzia∏alnoÊç maklerskà bez otwierania oddzia∏u.
+3. Zawiadomienie, o którym mowa w art. 104 ust.2, sporządzone przez bank prowadzący działalność maklerską Komisja przekazuje za pośrednictwem Komisji Nadzoru Bankowego właściwemu organowi nadzoru winnym państwie członkowskim, na którego terytorium bank zamierza otworzyć oddział lub prowadzić działalność maklerską bez otwierania oddziału.
 
-**Art. 115.** ˝àcego do OECD lub WTO zsiedzibà na terytorium tego paƒstwa mo˝e prowadziç na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç maklerskà w formie oddzia∏u. 2. Za oddzia∏ uwa˝a si´ wyodr´bnionà w strukturach zagranicznej osoby prawnej, o której mowa w ust. 1, jednostk´ organizacyjnà nieposiadajàcà osobowoÊci prawnej, która prowadzi dzia∏alnoÊç maklerskà na terytorium Rzeczypospolitej Polskiej. Za jeden oddzia∏ uwa˝a si´ wszystkie jednostki organizacyjne danej zagranicznej osoby prawnej, o której mowa wust. 1, zlokalizowane na terytorium Rzeczypospolitej Polskiej, w ramach których jest prowadzona dzia∏alnoÊç maklerska. 3. Udzielenie przez Komisj´ zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej zagranicznej osobie prawnej, o której mowa w ust. 1, nast´puje po zasi´gni´ciu pisemnej opinii organu nadzoru, który udzieli∏ zezwolenia na prowadzenie dzia∏alnoÊci w paƒstwie siedziby tej zagranicznej osoby prawnej. Przedmiotem 1. Zagraniczna osoba prawna prowadzàca dzia∏alnoÊç maklerskà na terytorium paƒstwa naleopinii jest sposób prowadzenia tej dzia∏alnoÊci, wszczególnoÊci jej zgodnoÊç zprzepisami prawa obowiàzujàcymi w tym paƒstwie. 4. Udzielenie zagranicznej osobie prawnej, októrej mowa w ust. 1, zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej nast´puje pod warunkiem:
+**Art. 115.** żącego do OECD lub WTO zsiedzibą na terytorium tego państwa może prowadzić na terytorium Rzeczypospolitej Polskiej działalność maklerską w formie oddziału. 2. Za oddział uważa się wyodrębnioną w strukturach zagranicznej osoby prawnej, o której mowa w ust. 1, jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadzi działalność maklerską na terytorium Rzeczypospolitej Polskiej. Za jeden oddział uważa się wszystkie jednostki organizacyjne danej zagranicznej osoby prawnej, o której mowa wust. 1, zlokalizowane na terytorium Rzeczypospolitej Polskiej, w ramach których jest prowadzona działalność maklerska. 3. Udzielenie przez Komisję zezwolenia na prowadzenie działalności maklerskiej zagranicznej osobie prawnej, o której mowa w ust. 1, następuje po zasięgnięciu pisemnej opinii organu nadzoru, który udzielił zezwolenia na prowadzenie działalności w państwie siedziby tej zagranicznej osoby prawnej. Przedmiotem 1. Zagraniczna osoba prawna prowadząca działalność maklerską na terytorium państwa naleopinii jest sposób prowadzenia tej działalności, wszczególności jej zgodność zprzepisami prawa obowiązującymi w tym państwie. 4. Udzielenie zagranicznej osobie prawnej, októrej mowa w ust. 1, zezwolenia na prowadzenie działalności maklerskiej następuje pod warunkiem:
 
 **Art. 116.**
 
-1. Zagraniczna firma inwestycyjna oraz zagraniczna osoba prawna, o której mowa w art. 115 ust. 1, mo˝e otworzyç przedstawicielstwo na terytorium Rzeczypospolitej Polskiej.
+1. Zagraniczna firma inwestycyjna oraz zagraniczna osoba prawna, o której mowa w art. 115 ust. 1, może otworzyć przedstawicielstwo na terytorium Rzeczypospolitej Polskiej.
 
-2. Za przedstawicielstwo uwa˝a si´ wyodr´bnionà w strukturach tej firmy lub osoby jednostk´ organizacyjnà nieposiadajàcà osobowoÊci prawnej, która prowadzi dzia∏alnoÊç wy∏àcznie w zakresie reklamy i promocji zagranicznej firmy inwestycyjnej lub zagranicznej osoby prawnej, októrej mowa wart. 115 ust. 1, na terytorium Rzeczypospolitej Polskiej.
+2. Za przedstawicielstwo uważa się wyodrębnioną w strukturach tej firmy lub osoby jednostkę organizacyjną nieposiadającą osobowości prawnej, która prowadzi działalność wyłącznie w zakresie reklamy i promocji zagranicznej firmy inwestycyjnej lub zagranicznej osoby prawnej, októrej mowa wart. 115 ust. 1, na terytorium Rzeczypospolitej Polskiej.
 
-3. O otwarciu przedstawicielstwa na terytorium Rzeczypospolitej Polskiej zagraniczna firma inwestycyjna lub zagraniczna osoba prawna, o której mowa w art. 115 ust. 1, niezw∏ocznie informuje Komisj´.
+3. O otwarciu przedstawicielstwa na terytorium Rzeczypospolitej Polskiej zagraniczna firma inwestycyjna lub zagraniczna osoba prawna, o której mowa w art. 115 ust. 1, niezwłocznie informuje Komisję.
 
 **Art. 117.**
 
-1. Zagraniczna firma inwestycyjna mo˝e bez zezwolenia, októrym mowa wart. 69 ust. 1, wykonywaç na terytorium Rzeczypospolitej Polskiej czynnoÊci stanowiàce zgodnie z art. 69 ust. 2—4 dzia∏alnoÊç maklerskà, pod warunkiem ˝e dana czynnoÊç jest obj´ta zezwoleniem udzielonym tej firmie inwestycyjnej przez w∏aÊciwy organ nadzoru w paƒstwie jej siedziby. Dzia∏alnoÊç maklerska mo˝e byç prowadzona poprzez utworzenie na terytorium Rzeczypospolitej Polskiej oddzia∏u, wrozumieniu art. 115 ust. 2, lub bez koniecznoÊci otwierania oddzia∏u.
+1. Zagraniczna firma inwestycyjna może bez zezwolenia, októrym mowa wart. 69 ust. 1, wykonywać na terytorium Rzeczypospolitej Polskiej czynności stanowiące zgodnie z art. 69 ust. 2—4 działalność maklerską, pod warunkiem że dana czynność jest objęta zezwoleniem udzielonym tej firmie inwestycyjnej przez właściwy organ nadzoru w państwie jej siedziby. Działalność maklerska może być prowadzona poprzez utworzenie na terytorium Rzeczypospolitej Polskiej oddziału, wrozumieniu art. 115 ust. 2, lub bez konieczności otwierania oddziału.
 
-2. Przepisu ust. 1 nie stosuje si´ do czynnoÊci wykonywanych na podstawie umowy z Narodowym Bankiem Polskim, Skarbem Paƒstwa lub organem paƒstwowym wykonujàcym czynnoÊci zwiàzane z politykà pieni´˝nà paƒstwa, kszta∏towaniem kursu wymiany walut, politykà zarzàdzania d∏ugiem publicznym oraz politykà zarzàdzania wolnymi Êrodkami Skarbu Paƒstwa.
+2. Przepisu ust. 1 nie stosuje się do czynności wykonywanych na podstawie umowy z Narodowym Bankiem Polskim, Skarbem Państwa lub organem państwowym wykonującym czynności związane z polityką pieniężną państwa, kształtowaniem kursu wymiany walut, polityką zarządzania długiem publicznym oraz polityką zarządzania wolnymi środkami Skarbu Państwa.
 
-3. Warunkiem rozpocz´cia na terytorium Rzeczypospolitej Polskiej prowadzenia przez zagranicznà firm´ inwestycyjnà dzia∏alnoÊci maklerskiej w zakresie
+3. Warunkiem rozpoczęcia na terytorium Rzeczypospolitej Polskiej prowadzenia przez zagraniczną firmę inwestycyjną działalności maklerskiej w zakresie
 
-5. Przez warunki prowadzenia dzia∏alnoÊci maklerskiej, o których mowa w ust. 4, rozumie si´ w szczególnoÊci:
+5. Przez warunki prowadzenia działalności maklerskiej, o których mowa w ust. 4, rozumie się w szczególności:
 
-- **1)** w przypadku prowadzenia dzia∏alnoÊci w formie oddzia∏u zasady okreÊlone w art. 83 i w przepisach wydanych na podstawie art. 94 ust. 1 pkt 1;
-- **2)** w przypadku prowadzenia dzia∏alnoÊci bez otwierania oddzia∏u zasady okreÊlone w przepisach wydanych na podstawie art. 94 ust. 1 pkt 1.
+- **1)** w przypadku prowadzenia działalności w formie oddziału zasady określone w art. 83 i w przepisach wydanych na podstawie art. 94 ust. 1 pkt 1;
+- **2)** w przypadku prowadzenia działalności bez otwierania oddziału zasady określone w przepisach wydanych na podstawie art. 94 ust. 1 pkt 1.
 
-6. Do tworzenia idzia∏alnoÊci oddzia∏ów zagranicznych firm inwestycyjnych nie stosuje si´ przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie dzia∏alnoÊci gospodarczej, z wy∏àczeniem art. 14 tej ustawy.
+6. Do tworzenia idziałalności oddziałów zagranicznych firm inwestycyjnych nie stosuje się przepisów ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej, z wyłączeniem art. 14 tej ustawy.
 
-**Art. 118.** Zagraniczna firma inwestycyjna prowadzàca dzia∏alnoÊç maklerskà na terytorium Rzeczypospolitej Polskiej podlega winnym paƒstwie cz∏onkowskim nadzorowi w∏aÊciwego organu, który udzieli∏ jej zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej z zastrze˝eniem, ˝e nadzór nad przestrzeganiem okreÊlonych w przepisach prawa polskiego zasad Êwiadczenia us∏ug maklerskich sprawuje Komisja. Rozdzia∏ 2 Szczególne typy uczestnictwa w obrocie instrumentami finansowymi okreÊlonym w ust. 1 jest poinformowanie Komisji przez w∏aÊciwy organ nadzoru, który udzieli∏ tej firmie inwestycyjnej zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej, ozamiarze rozpocz´cia dzia∏alnoÊci. Dzia∏alnoÊç maklerska bez otwierania oddzia∏u mo˝e zostaç podj´ta po otrzymaniu przez Komisj´ informacji od zagranicznego organu nadzoru, awprzypadku oddzia∏u zchwilà wskazania przez Komisj´ warunków prowadzenia tej dzia∏alnoÊci maklerskiej, lub z up∏ywem dwóch miesi´cy od dnia otrzymania przez Komisj´ informacji od zagranicznego organu nadzoru. 4. Komisja, w terminie nie d∏u˝szym ni˝ 2 miesiàce od dnia otrzymania zawiadomienia, o którym mowa w ust. 3, przygotuje si´ do sprawowania nadzoru nad dzia∏alnoÊcià tej firmy oraz informuje jà o warunkach prowadzenia dzia∏alnoÊci maklerskiej na terytorium Rzeczypospolitej Polskiej.
+**Art. 118.** Zagraniczna firma inwestycyjna prowadząca działalność maklerską na terytorium Rzeczypospolitej Polskiej podlega winnym państwie członkowskim nadzorowi właściwego organu, który udzielił jej zezwolenia na prowadzenie działalności maklerskiej z zastrzeżeniem, że nadzór nad przestrzeganiem określonych w przepisach prawa polskiego zasad świadczenia usług maklerskich sprawuje Komisja.
+
+#### Rozdział 2 Szczególne typy uczestnictwa w obrocie instrumentami finansowymi określonym w ust. 1 jest poinformowanie Komisji przez właściwy organ nadzoru, który udzielił tej firmie inwestycyjnej zezwolenia na prowadzenie działalności maklerskiej, ozamiarze rozpoczęcia działalności. Działalność maklerska bez otwierania oddziału może zostać podjęta po otrzymaniu przez Komisję informacji od zagranicznego organu nadzoru, awprzypadku oddziału zchwilą wskazania przez Komisję warunków prowadzenia tej działalności maklerskiej, lub z upływem dwóch miesięcy od dnia otrzymania przez Komisję informacji od zagranicznego organu nadzoru.
 
 **Art. 119.**
 
-1. Za zezwoleniem Komisji bank z siedzibà na terytorium Rzeczypospolitej Polskiej mo˝e prowadziç rachunki papierów wartoÊciowych (dzia∏alnoÊç powiernicza).
+1. Za zezwoleniem Komisji bank z siedzibą na terytorium Rzeczypospolitej Polskiej może prowadzić rachunki papierów wartościowych (działalność powiernicza).
 
-2. Prowadzenie przez bank rachunków papierów wartoÊciowych na terytorium innego paƒstwa cz∏onkowskiego wymaga zezwolenia, o którym mowa w ust. 1.
+2. Prowadzenie przez bank rachunków papierów wartościowych na terytorium innego państwa członkowskiego wymaga zezwolenia, o którym mowa w ust. 1.
 
-3. Zezwolenie, o którym mowa w ust. 1, mo˝e byç udzielone równie˝ w przypadku, gdy bank otrzyma∏ ju˝ zezwolenie na prowadzenie dzia∏alnoÊci maklerskiej. Wtakim przypadku prowadzenie rachunków papierów wartoÊciowych odbywa si´ poza jednostkà organizacyjnà banku prowadzàcà dzia∏alnoÊç maklerskà.
+3. Zezwolenie, o którym mowa w ust. 1, może być udzielone również w przypadku, gdy bank otrzymał już zezwolenie na prowadzenie działalności maklerskiej. Wtakim przypadku prowadzenie rachunków papierów wartościowych odbywa się poza jednostką organizacyjną banku prowadzącą działalność maklerską.
 
 4. Wniosek o udzielenie zezwolenia, o którym mowa w ust. 1, zawiera:
 
-- **1)** dane osobowe o cz∏onkach zarzàdu i rady nadzorczej banku, jak równie˝ innych osobach, które odpowiadajà za rozpocz´cie dzia∏alnoÊci obj´tej wnioskiem lub b´dà nià kierowaç, ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej;
-- **2)** w przypadku banku b´dàcego spó∏kà akcyjnà wskazanie akcjonariuszy posiadajàcych co najmniej 10 % ogólnej liczby g∏osów lub co najmniej 10 % kapita∏u zak∏adowego;
-- **3)** informacj´ o podmiotach dominujàcych i zale˝nych wobec wnioskodawcy;
-- **4)** informacj´ o wysokoÊci funduszy w∏asnych;
-- **5)** informacj´ oposiadanych urzàdzeniach telekomunikacyjnych i warunkach lokalowych niezb´dnych do prowadzenia rachunków papierów wartoÊciowych;
-- **6)** informacj´ o planowanej organizacji prowadzenia rachunków papierów wartoÊciowych;
-- **7)** oÊwiadczenia osób, które b´dà kierowaç dzia∏alnoÊcià obj´tà wnioskiem, o nieuznaniu prawomocnym orzeczeniem za winnego przest´pstwa skarbowego, przest´pstwa przeciwko wiarygodnoÊci dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieni´dzmi i papierami wartoÊciowymi, za przest´pstwa okreÊlone w art. 305, 307 lub 308 ustawy zdnia 30 czerwca 2000 r. Prawo w∏asnoÊci przemys∏owej, za przest´pstwa okreÊlone wustawie ogie∏dach towarowych lub za przest´pstwa okreÊlone w niniejszej ustawie.
+- **1)** dane osobowe o członkach zarządu i rady nadzorczej banku, jak również innych osobach, które odpowiadają za rozpoczęcie działalności objętej wnioskiem lub będą nią kierować, ich kwalifikacje zawodowe oraz dotychczasowy przebieg pracy zawodowej;
+- **2)** w przypadku banku będącego spółką akcyjną wskazanie akcjonariuszy posiadających co najmniej 10 % ogólnej liczby głosów lub co najmniej 10 % kapitału zakładowego;
+- **3)** informację o podmiotach dominujących i zależnych wobec wnioskodawcy;
+- **4)** informację o wysokości funduszy własnych;
+- **5)** informację oposiadanych urządzeniach telekomunikacyjnych i warunkach lokalowych niezbędnych do prowadzenia rachunków papierów wartościowych;
+- **6)** informację o planowanej organizacji prowadzenia rachunków papierów wartościowych;
+- **7)** oświadczenia osób, które będą kierować działalnością objętą wnioskiem, o nieuznaniu prawomocnym orzeczeniem za winnego przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, za przestępstwa określone w art. 305, 307 lub 308 ustawy zdnia 30 czerwca 2000 r. Prawo własności przemysłowej, za przestępstwa określone wustawie ogiełdach towarowych lub za przestępstwa określone w niniejszej ustawie.
 
-5. Do wniosku za∏àcza si´:
+5. Do wniosku załącza się:
 
-- **1)** statut banku i wyciàg z w∏aÊciwego rejestru;
-- **2)** regulamin prowadzenia rachunków papierów wartoÊciowych;
-- **3)** regulamin ochrony przep∏ywu informacji poufnych;
-- **4)** ostatnie roczne sprawozdanie finansowe wraz z opinià podmiotu uprawnionego do badania sprawozdaƒ finansowych i raportem z tego badania;
-- **5)** regulamin kontroli wewn´trznej.
+- **1)** statut banku i wyciąg z właściwego rejestru;
+- **2)** regulamin prowadzenia rachunków papierów wartościowych;
+- **3)** regulamin ochrony przepływu informacji poufnych;
+- **4)** ostatnie roczne sprawozdanie finansowe wraz z opinią podmiotu uprawnionego do badania sprawozdań finansowych i raportem z tego badania;
+- **5)** regulamin kontroli wewnętrznej.
 
-6. Dzia∏alnoÊcià banku polegajàcà na prowadzeniu rachunków papierów wartoÊciowych powinny kierowaç co najmniej dwie osoby posiadajàce wykszta∏cenie wy˝sze, co najmniej trzyletni sta˝ pracy w instytucjach rynku finansowego oraz dobrà opini´ wzwiàzku ze sprawowanymi funkcjami.
+6. Działalnością banku polegającą na prowadzeniu rachunków papierów wartościowych powinny kierować co najmniej dwie osoby posiadające wykształcenie wyższe, co najmniej trzyletni staż pracy w instytucjach rynku finansowego oraz dobrą opinię wzwiązku ze sprawowanymi funkcjami.
 
-**Art. 120.** Zezwolenie, o którym mowa w art. 119 ust. 1, zawiera firm´ (nazw´) isiedzib´ banku oraz termin rozpocz´cia dzia∏alnoÊci obj´tej zezwoleniem, nie d∏u˝szy ni˝ 12 miesi´cy od dnia, w którym decyzja o udzieleniu zezwolenia sta∏a si´ ostateczna.
+**Art. 120.** Zezwolenie, o którym mowa w art. 119 ust. 1, zawiera firmę (nazwę) isiedzibę banku oraz termin rozpoczęcia działalności objętej zezwoleniem, nie dłuższy niż 12 miesięcy od dnia, w którym decyzja o udzieleniu zezwolenia stała się ostateczna.
 
 **Art. 121.**
 
-1. Klient banku powierniczego mo˝e w umowie, której przedmiotem jest prowadzenie rachunku papierów wartoÊciowych, zastrzec, ˝e rozliczenie na rachunku klienta transakcji zawartej na podstawie zlecenia klienta nastàpi po dostarczeniu bankowi przez klienta potwierdzenia tej transakcji.
+1. Klient banku powierniczego może w umowie, której przedmiotem jest prowadzenie rachunku papierów wartościowych, zastrzec, że rozliczenie na rachunku klienta transakcji zawartej na podstawie zlecenia klienta nastąpi po dostarczeniu bankowi przez klienta potwierdzenia tej transakcji.
 
-2. Papiery wartoÊciowe nabyte w wyniku transakcji, o której mowa w ust. 1, zostajà zapisane na rachunku papierów wartoÊciowych:
+2. Papiery wartościowe nabyte w wyniku transakcji, o której mowa w ust. 1, zostają zapisane na rachunku papierów wartościowych:
 
-- **1)** firmy inwestycyjnej w przypadku gdy zlecenie, októrym mowa wust. 1, sk∏adane jest bezpoÊrednio w firmie inwestycyjnej, albo
+- **1)** firmy inwestycyjnej w przypadku gdy zlecenie, októrym mowa wust. 1, składane jest bezpośrednio w firmie inwestycyjnej, albo
 - **2)** zagranicznej firmy inwestycyjnej lub zagranicznej osoby prawnej, o której mowa w art. 115 ust. 1,
 
-7. Kapita∏ za∏o˝ycielski banku powierniczego nie mo˝e byç ni˝szy ni˝ wskazany w art. 32 ust. 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
+7. Kapitał założycielski banku powierniczego nie może być niższy niż wskazany w art. 32 ust. 1 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe.
 
-8. Bank powierniczy obowiàzany jest posiadaç central´ na terytorium Rzeczypospolitej Polskiej.
+8. Bank powierniczy obowiązany jest posiadać centralę na terytorium Rzeczypospolitej Polskiej.
 
-9. Za central´ banku powierniczego uwa˝a si´ jednostk´ organizacyjnà banku, w której w sposób sta∏y wykonujà dzia∏alnoÊç osoby kierujàce dzia∏alnoÊcià banku polegajàcà na prowadzeniu rachunków papierów wartoÊciowych.
+9. Za centralę banku powierniczego uważa się jednostkę organizacyjną banku, w której w sposób stały wykonują działalność osoby kierujące działalnością banku polegającą na prowadzeniu rachunków papierów wartościowych.
 
-10. Do wykonywania czynnoÊci prowadzenia rachunków papierów wartoÊciowych bank powierniczy zobowiàzany jest zatrudniaç co najmniej jednego maklera papierów wartoÊciowych. nieprowadzàcej dzia∏alnoÊci maklerskiej na terytorium Rzeczypospolitej Polskiej wprzypadku gdy osoba ta poÊredniczy w przekazywaniu zlecenia klienta do podmiotów wymienionych w pkt 1 prowadzonym w celu ewidencjonowania papierów wartoÊciowych nabywanych lub zbywanych na rzecz klientów, o których mowa w ust. 1.
+10. Do wykonywania czynności prowadzenia rachunków papierów wartościowych bank powierniczy zobowiązany jest zatrudniać co najmniej jednego maklera papierów wartościowych. nieprowadzącej działalności maklerskiej na terytorium Rzeczypospolitej Polskiej wprzypadku gdy osoba ta pośredniczy w przekazywaniu zlecenia klienta do podmiotów wymienionych w pkt 1 prowadzonym w celu ewidencjonowania papierów wartościowych nabywanych lub zbywanych na rzecz klientów, o których mowa w ust. 1.
 
-3. Przeniesienie papierów wartoÊciowych b´dàcych przedmiotem transakcji, o której mowa w ust. 1, zrachunku podmiotu, októrym mowa wust. 2, na rachunek papierów wartoÊciowych klienta nast´puje po dostarczeniu bankowi przez klienta i ten podmiot zgodnych potwierdzeƒ tej transakcji, wterminie wskazanym w potwierdzeniu z∏o˝onym przez klienta.
+3. Przeniesienie papierów wartościowych będących przedmiotem transakcji, o której mowa w ust. 1, zrachunku podmiotu, októrym mowa wust. 2, na rachunek papierów wartościowych klienta następuje po dostarczeniu bankowi przez klienta i ten podmiot zgodnych potwierdzeń tej transakcji, wterminie wskazanym w potwierdzeniu złożonym przez klienta.
 
-4. Papiery wartoÊciowe zbyte w wyniku transakcji, októrej mowa wust. 1, pozostajà zapisane na rachunku papierów wartoÊciowych klienta do chwili wskazanej w dostarczonym przez niego potwierdzeniu transakcji.
+4. Papiery wartościowe zbyte w wyniku transakcji, októrej mowa wust. 1, pozostają zapisane na rachunku papierów wartościowych klienta do chwili wskazanej w dostarczonym przez niego potwierdzeniu transakcji.
 
-5. W przypadku niedostarczenia zgodnych potwierdzeƒ transakcji, o której mowa w ust. 1, do dnia, w którym powinno nastàpiç jej rozliczenie w depozycie papierów wartoÊciowych, podmiot, o którym mowa w ust. 2 pkt 2, odpowiada wobec podmiotu, który na rachunek klienta zawar∏ transakcj´ na rynku regulowanym, za zap∏at´ ceny oraz dostarczenie papierów wartoÊciowych do rozliczenia. Wprzypadku gdy klient przekazuje zlecenie bezpoÊrednio podmiotowi, o którym mowa w ust. 2 pkt 1, podmiot ten odpowiada za rozliczenie zawartej transakcji.
+5. W przypadku niedostarczenia zgodnych potwierdzeń transakcji, o której mowa w ust. 1, do dnia, w którym powinno nastąpić jej rozliczenie w depozycie papierów wartościowych, podmiot, o którym mowa w ust. 2 pkt 2, odpowiada wobec podmiotu, który na rachunek klienta zawarł transakcję na rynku regulowanym, za zapłatę ceny oraz dostarczenie papierów wartościowych do rozliczenia. Wprzypadku gdy klient przekazuje zlecenie bezpośrednio podmiotowi, o którym mowa w ust. 2 pkt 1, podmiot ten odpowiada za rozliczenie zawartej transakcji.
 
-6. Przepisy ust. 1—5 nie majà zastosowania wprzypadku, gdy przed rozliczeniem transakcji, októrej mowa w ust. 1, w depozycie papierów wartoÊciowych nastàpi∏o wygaÊni´cie lub ustanie stosunku prawnego b´dàcego podstawà Êwiadczenia us∏ug przez podmiot, októrym mowa wust. 2, na rzecz klienta lub utrata przez ten podmiot uprawnieƒ do prowadzenia dzia∏alnoÊci maklerskiej.
+6. Przepisy ust. 1—5 nie mają zastosowania wprzypadku, gdy przed rozliczeniem transakcji, októrej mowa w ust. 1, w depozycie papierów wartościowych nastąpiło wygaśnięcie lub ustanie stosunku prawnego będącego podstawą świadczenia usług przez podmiot, októrym mowa wust. 2, na rzecz klienta lub utrata przez ten podmiot uprawnień do prowadzenia działalności maklerskiej.
 
-7. Przenoszenie papierów wartoÊciowych w wyni- 2. Zawiadomienie, októrym mowa wart. 99 ust. 2, ku transakcji, o której mowa w ust. 1, oraz po˝ytków pochodzàce od banku powierniczego Komisja, za poztych papierów wartoÊciowych pomi´dzy rachunkami Êrednictwem Komisji Nadzoru Bankowego, przekazupapierów wartoÊciowych klienta banku powierniczego je w∏aÊciwemu organowi nadzoru w innym paƒstwie i podmiotu okreÊlonego w ust. 2 oraz pomi´dzy ra- cz∏onkowskim, na którego terytorium bank zamierza chunkami podmiotów, októrych mowa wust. 2, uwa- prowadziç rachunki papierów wartoÊciowych. ˝a si´ za dokonywane na rynku regulowanym.
+7. Przenoszenie papierów wartościowych w wyni- 2. Zawiadomienie, októrym mowa wart. 99 ust. 2, ku transakcji, o której mowa w ust. 1, oraz pożytków pochodzące od banku powierniczego Komisja, za poztych papierów wartościowych pomiędzy rachunkami średnictwem Komisji Nadzoru Bankowego, przekazupapierów wartościowych klienta banku powierniczego je właściwemu organowi nadzoru w innym państwie i podmiotu określonego w ust. 2 oraz pomiędzy ra- członkowskim, na którego terytorium bank zamierza chunkami podmiotów, októrych mowa wust. 2, uwa- prowadzić rachunki papierów wartościowych. ża się za dokonywane na rynku regulowanym.
 
-8. Nabycie papierów wartoÊciowych w wyniku transakcji, o której mowa w ust. 1, przez podmiot, októrym mowa wust. 2, powoduje powstanie po stronie tego podmiotu obowiàzków okreÊlonych wprzepisach rozdzia∏u 4 ustawy oofercie publicznej wy∏àcznie wprzypadku, gdy papiery te pozostajà zapisane na jego rachunku papierów wartoÊciowych, o którym mowa w ust. 2, w dniu nast´pujàcym po dniu rozliczenia tej transakcji w depozycie papierów wartoÊciowych.
+8. Nabycie papierów wartościowych w wyniku transakcji, o której mowa w ust. 1, przez podmiot, októrym mowa wust. 2, powoduje powstanie po stronie tego podmiotu obowiązków określonych wprzepisach rozdziału 4 ustawy oofercie publicznej wyłącznie wprzypadku, gdy papiery te pozostają zapisane na jego rachunku papierów wartościowych, o którym mowa w ust. 2, w dniu następującym po dniu rozliczenia tej transakcji w depozycie papierów wartościowych.
 
-9. Przepisy ust. 2—8 stosuje si´ odpowiednio do nieb´dàcych papierami wartoÊciowymi maklerskich instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym.
+9. Przepisy ust. 2—8 stosuje się odpowiednio do niebędących papierami wartościowymi maklerskich instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym.
 
 **Art. 122.**
 
-1. Na ˝àdanie Komisji lub jej upowa˝nionego przedstawiciela, osoby uprawnione do reprezentowania banku powierniczego lub wchodzàce w sk∏ad jego statutowych organów albo zatrudnione w banku powierniczym sà obowiàzane do niezw∏ocznego sporzàdzenia iprzekazania, na koszt tego banku powierniczego, kopii dokumentów i innych noÊników informacji oraz do udzielenia pisemnych lub ustnych wyjaÊnieƒ dotyczàcych prowadzonej dzia∏alnoÊci powierniczej, w zakresie nadzoru sprawowanego przez Komisj´ nad zgodnoÊcià prowadzonej dzia∏alnoÊci z zasadami prowadzenia rachunków papierów wartoÊciowych.
+1. Na żądanie Komisji lub jej upoważnionego przedstawiciela, osoby uprawnione do reprezentowania banku powierniczego lub wchodzące w skład jego statutowych organów albo zatrudnione w banku powierniczym są obowiązane do niezwłocznego sporządzenia iprzekazania, na koszt tego banku powierniczego, kopii dokumentów i innych nośników informacji oraz do udzielenia pisemnych lub ustnych wyjaśnień dotyczących prowadzonej działalności powierniczej, w zakresie nadzoru sprawowanego przez Komisję nad zgodnością prowadzonej działalności z zasadami prowadzenia rachunków papierów wartościowych.
 
-2. Na ˝àdanie Komisji lub jej upowa˝nionego przedstawiciela bank powierniczy jest obowiàzany równie˝ do niezw∏ocznego przekazywania informacji dotyczàcych rejestrowanych na prowadzonych przez ten bank rachunkach bankowych Êrodków pieni´˝nych stanowiàcych zabezpieczenia okreÊlone w przepisach wydanych na podstawie art. 94 ust. 1 pkt 3 oraz Êrodków pieni´˝nych stanowiàcych depozyt zabezpieczajàcy w przypadku dokonywania transakcji maklerskimi instrumentami finansowymi, je˝eli z konstrukcji tego instrumentu wynika obowiàzek posiadania depozytu zabezpieczajàcego.
+2. Na żądanie Komisji lub jej upoważnionego przedstawiciela bank powierniczy jest obowiązany również do niezwłocznego przekazywania informacji dotyczących rejestrowanych na prowadzonych przez ten bank rachunkach bankowych środków pieniężnych stanowiących zabezpieczenia określone w przepisach wydanych na podstawie art. 94 ust. 1 pkt 3 oraz środków pieniężnych stanowiących depozyt zabezpieczający w przypadku dokonywania transakcji maklerskimi instrumentami finansowymi, jeżeli z konstrukcji tego instrumentu wynika obowiązek posiadania depozytu zabezpieczającego.
 
-3. W stosunku do oddzia∏u banku powierniczego znajdujàcego si´ na terytorium innego paƒstwa cz∏onkowskiego, Komisji przys∏ugujà wzakresie sprawowania nadzoru nad prowadzonà dzia∏alnoÊcià powierniczà uprawnienia okreÊlone w ust. 1. Wykonanie uprawnieƒ nast´puje po uprzednim pisemnym poinformowaniu w∏aÊciwego organu nadzoru wpaƒstwie, na którego terytorium znajduje si´ oddzia∏ banku powierniczego.
+3. W stosunku do oddziału banku powierniczego znajdującego się na terytorium innego państwa członkowskiego, Komisji przysługują wzakresie sprawowania nadzoru nad prowadzoną działalnością powierniczą uprawnienia określone w ust. 1. Wykonanie uprawnień następuje po uprzednim pisemnym poinformowaniu właściwego organu nadzoru wpaństwie, na którego terytorium znajduje się oddział banku powierniczego.
 
 **Art. 123.**
 
-1. Wzakresie nieuregulowanym wniniejszym oddziale do banku powierniczego oraz do wykonywania nadzoru nad takim bankiem stosuje si´ odpowiednio przepisy art. 85, 86, 89, 90, 92 i 99.
+1. Wzakresie nieuregulowanym wniniejszym oddziale do banku powierniczego oraz do wykonywania nadzoru nad takim bankiem stosuje się odpowiednio przepisy art. 85, 86, 89, 90, 92 i 99.
 
 **Art. 124.**
 
-1. Osoby fizyczne posiadajàce pe∏nà zdolnoÊç do czynnoÊci prawnych mogà, na podstawie umowy zawartej wformie pisemnej pod rygorem niewa˝noÊci, zrzeszaç si´ w klubach inwestora. W jednym klubie inwestora mo˝e byç zrzeszonych nie mniej ni˝ 3 i nie wi´cej ni˝ 20 osób.
+1. Osoby fizyczne posiadające pełną zdolność do czynności prawnych mogą, na podstawie umowy zawartej wformie pisemnej pod rygorem nieważności, zrzeszać się w klubach inwestora. W jednym klubie inwestora może być zrzeszonych nie mniej niż 3 i nie więcej niż 20 osób.
 
-2. W umowie, o której mowa w ust. 1, cz∏onkowie klubu inwestora zobowiàzujà si´ do:
+2. W umowie, o której mowa w ust. 1, członkowie klubu inwestora zobowiązują się do:
 
-- **1)** wspólnego dzia∏ania w celu zdobywania wiedzy ozasadach inwestowania wobrocie zorganizowanym, w szczególnoÊci poprzez wspólne inwestowanie wzdematerializowane papiery wartoÊciowe lub inne maklerskie instrumenty finansowe dopuszczone do obrotu na rynku regulowanym;
+- **1)** wspólnego działania w celu zdobywania wiedzy ozasadach inwestowania wobrocie zorganizowanym, w szczególności poprzez wspólne inwestowanie wzdematerializowane papiery wartościowe lub inne maklerskie instrumenty finansowe dopuszczone do obrotu na rynku regulowanym;
 - **2)** nieuczestniczenia w innych klubach inwestora;
-- **3)** niezaciàgania w zwiàzku z dzia∏alnoÊcià klubu inwestora zobowiàzaƒ o ∏àcznej wartoÊci przewy˝szajàcej wartoÊç aktywów zgromadzonych na prowadzonych dla klubu inwestora rachunkach papierów wartoÊciowych i rachunkach pieni´˝nych s∏u˝àcych do ich obs∏ugi.
+- **3)** niezaciągania w związku z działalnością klubu inwestora zobowiązań o łącznej wartości przewyższającej wartość aktywów zgromadzonych na prowadzonych dla klubu inwestora rachunkach papierów wartościowych i rachunkach pieniężnych służących do ich obsługi.
 
-3. Ka˝demu cz∏onkowi klubu inwestora przys∏uguje prawo wniesienia w ciàgu roku kalendarzowego na rachunki pieni´˝ne s∏u˝àce do obs∏ugi prowadzonych dla tego klubu rachunków papierów wartoÊciowych Êrodków pieni´˝nych w∏àcznej wysokoÊci nie wy˝szej ni˝ 20 000 z∏.
+3. Każdemu członkowi klubu inwestora przysługuje prawo wniesienia w ciągu roku kalendarzowego na rachunki pieniężne służące do obsługi prowadzonych dla tego klubu rachunków papierów wartościowych środków pieniężnych włącznej wysokości nie wyższej niż 20 000 zł.
 
-4. Klub inwestora ani jego cz∏onkowie nie sà przedsi´biorcami w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie dzia∏alnoÊci gospodarczej.
+4. Klub inwestora ani jego członkowie nie są przedsiębiorcami w rozumieniu ustawy z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej.
 
-5. W zakresie nieuregulowanym w ust. 1—4 do umowy, o której mowa w ust. 1, stosuje si´ przepisy art. 860—864, art. 865 § 1 iart. 866—875 ustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny. Rozdzia∏ 3 Maklerzy papierów wartoÊciowych i doradcy inwestycyjni
+5. W zakresie nieuregulowanym w ust. 1—4 do umowy, o której mowa w ust. 1, stosuje się przepisy art. 860—864, art. 865 § 1 iart. 866—875 ustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny.
+
+#### Rozdział 3 Maklerzy papierów wartościowych i doradcy inwestycyjni
 
 **Art. 125.**
 
-1. Przez wykonywanie zawodu maklera papierów wartoÊciowych, zwanego dalej „maklerem”, lub doradcy inwestycyjnego, zwanego dalej „doradcà”, rozumie si´ wykonywanie funkcji w organach zarzàdzajàcych lub nadzorczych firmy inwestycyjnej bàdê wykonywanie lub nadzorowanie wykonywania:
+1. Przez wykonywanie zawodu maklera papierów wartościowych, zwanego dalej Ńmaklerem”, lub doradcy inwestycyjnego, zwanego dalej Ńdoradcą”, rozumie się wykonywanie funkcji w organach zarządzających lub nadzorczych firmy inwestycyjnej bądê wykonywanie lub nadzorowanie wykonywania:
 
-- **1)** czynnoÊci stanowiàcych dzia∏alnoÊç maklerskà,
-- **2)** zwiàzanych z rynkiem finansowym czynnoÊci niestanowiàcych dzia∏alnoÊci maklerskiej,
-- **3)** innych czynnoÊci zwiàzanych z obs∏ugà klientów lub dost´pem do rachunków prowadzonych dla klientów wramach pozostawania tej osoby wstosunku pracy, zlecenia lub w innym stosunku prawnym o podobnym charakterze z firmà inwestycyjnà.
+- **1)** czynności stanowiących działalność maklerską,
+- **2)** związanych z rynkiem finansowym czynności niestanowiących działalności maklerskiej,
+- **3)** innych czynności związanych z obsługą klientów lub dostępem do rachunków prowadzonych dla klientów wramach pozostawania tej osoby wstosunku pracy, zlecenia lub w innym stosunku prawnym o podobnym charakterze z firmą inwestycyjną.
 
-2. Przez wykonywanie zawodu maklera lub doradcy rozumie si´ równie˝:
+2. Przez wykonywanie zawodu maklera lub doradcy rozumie się również:
 
-- **1)** pozostawanie maklera lub doradcy w stosunku pracy, zlecenia lub w innym stosunku prawnym opodobnym charakterze zbankiem powierniczym przy wykonywaniu lub nadzorowaniu wykonywania czynnoÊci prowadzenia rachunków papierów wartoÊciowych;
-- **2)** pozostawanie maklera lub doradcy w stosunku pracy, zlecenia lub w innym stosunku prawnym o podobnym charakterze z podmiotem, który jest obowiàzany do zatrudniania maklerów lub doradców na podstawie odr´bnych przepisów prawa przy wykonywaniu lub nadzorowaniu wykonywania czynnoÊci okreÊlonych w tych przepisach;
-- **3)** wykonywanie przez maklera lub doradc´ czynnoÊci, o których mowa w art. 79 ust. 2;
-- **4)** wykonywanie przez maklera lub doradc´ czynnoÊci, o których mowa w art. 71, w ramach prowadzonej dzia∏alnoÊci gospodarczej na w∏asny rachunek albo na podstawie umowy o prac´, zlecenia lub innego stosunku prawnego o podobnym charakterze z podmiotem wykonujàcym te czynnoÊci wramach prowadzonej dzia∏alnoÊci gospodarczej.
+- **1)** pozostawanie maklera lub doradcy w stosunku pracy, zlecenia lub w innym stosunku prawnym opodobnym charakterze zbankiem powierniczym przy wykonywaniu lub nadzorowaniu wykonywania czynności prowadzenia rachunków papierów wartościowych;
+- **2)** pozostawanie maklera lub doradcy w stosunku pracy, zlecenia lub w innym stosunku prawnym o podobnym charakterze z podmiotem, który jest obowiązany do zatrudniania maklerów lub doradców na podstawie odrębnych przepisów prawa przy wykonywaniu lub nadzorowaniu wykonywania czynności określonych w tych przepisach;
+- **3)** wykonywanie przez maklera lub doradcę czynności, o których mowa w art. 79 ust. 2;
+- **4)** wykonywanie przez maklera lub doradcę czynności, o których mowa w art. 71, w ramach prowadzonej działalności gospodarczej na własny rachunek albo na podstawie umowy o pracę, zlecenia lub innego stosunku prawnego o podobnym charakterze z podmiotem wykonującym te czynności wramach prowadzonej działalności gospodarczej.
 
 **Art. 126.**
 
-1. Makler idoradca, wykonujàc zawód, sà obowiàzani dzia∏aç zgodnie zprzepisami prawa izasadami uczciwego obrotu oraz mieç na wzgl´dzie s∏uszne interesy zleceniodawców.
+1. Makler idoradca, wykonując zawód, są obowiązani działać zgodnie zprzepisami prawa izasadami uczciwego obrotu oraz mieć na względzie słuszne interesy zleceniodawców.
 
-2. Tytu∏y zawodowe „makler papierów wartoÊciowych” i „doradca inwestycyjny” podlegajà ochronie prawnej.
+2. Tytuły zawodowe Ńmakler papierów wartościowych” i Ńdoradca inwestycyjny” podlegają ochronie prawnej.
 
-3. Prawo wykonywania zawodu maklera lub doradcy przys∏uguje osobom, które sà wpisane odpowiednio na list´ maklerów lub na list´ doradców, oile prawo to nie zosta∏o zawieszone zgodnie z przepisem art. 130 ust. 1.
+3. Prawo wykonywania zawodu maklera lub doradcy przysługuje osobom, które są wpisane odpowiednio na listę maklerów lub na listę doradców, oile prawo to nie zostało zawieszone zgodnie z przepisem art. 130 ust. 1.
 
 **Art. 127.**
 
-1. Na list´ maklerów lub na list´ doradców mo˝e byç wpisana osoba fizyczna:
+1. Na listę maklerów lub na listę doradców może być wpisana osoba fizyczna:
 
-- **1)** która posiada pe∏nà zdolnoÊç do czynnoÊci prawnych; mi i papierami wartoÊciowymi, za przest´pstwa okreÊlone w art. 305, 307 lub 308 ustawy z dnia 30 czerwca 2000 r. Prawo w∏asnoÊci przemys∏owej, za przest´pstwa okreÊlone w ustawie z dnia 26 paêdziernika 2000 r. ogie∏dach towarowych lub za przest´pstwa okreÊlone w niniejszej ustawie;
-- **4)** która z∏o˝y∏a, zzastrze˝eniem art. 129 ust. 2 i3, egzamin z wynikiem pozytywnym odpowiednio przed komisjà egzaminacyjnà dla maklerów albo przed komisjà egzaminacyjnà dla doradców.
+- **1)** która posiada pełną zdolność do czynności prawnych; mi i papierami wartościowymi, za przestępstwa określone w art. 305, 307 lub 308 ustawy z dnia 30 czerwca 2000 r. Prawo własności przemysłowej, za przestępstwa określone w ustawie z dnia 26 paêdziernika 2000 r. ogiełdach towarowych lub za przestępstwa określone w niniejszej ustawie;
+- **4)** która złożyła, zzastrzeżeniem art. 129 ust. 2 i3, egzamin z wynikiem pozytywnym odpowiednio przed komisją egzaminacyjną dla maklerów albo przed komisją egzaminacyjną dla doradców.
 
-2. W przypadku osoby nieposiadajàcej polskiego obywatelstwa do stwierdzenia pe∏ni praw publicznych w∏aÊciwe sà przepisy prawa paƒstwa, którego obywatelstwo posiada dana osoba.
+2. W przypadku osoby nieposiadającej polskiego obywatelstwa do stwierdzenia pełni praw publicznych właściwe są przepisy prawa państwa, którego obywatelstwo posiada dana osoba.
 
 **Art. 128.**
 
-1. Egzaminy na maklera, doradc´ oraz agenta firmy inwestycyjnej sà sprawdzianem teoretycznego przygotowania kandydatów znast´pujàcych dziedzin:
+1. Egzaminy na maklera, doradcę oraz agenta firmy inwestycyjnej są sprawdzianem teoretycznego przygotowania kandydatów znastępujących dziedzin:
 
 - **1)** prawo cywilne;
 - **2)** prawo gospodarcze;
 - **3)** prawo podatkowe i dewizowe;
-- **4)** prawo papierów wartoÊciowych, instrumenty finansowe oraz obrót takimi instrumentami;
-- **5)** dzia∏alnoÊç maklerska oraz dzia∏alnoÊç powiernicza;
+- **4)** prawo papierów wartościowych, instrumenty finansowe oraz obrót takimi instrumentami;
+- **5)** działalność maklerska oraz działalność powiernicza;
 - **6)** system depozytowo-rozliczeniowy w zakresie obrotu instrumentami finansowymi;
 - **7)** rynek finansowy;
 - **8)** tworzenie i funkcjonowanie funduszy inwestycyjnych;
-- **9)** komercjalizacja i prywatyzacja przedsi´biorstw;
-- **10)** zasady rachunkowoÊci;
-- **11)** rynek towarów gie∏dowych;
-- **2)** która korzysta z pe∏ni praw publicznych;
-- **3)** która nie by∏a uznana prawomocnym orzeczeniem za winnego przest´pstwa skarbowego, przest´pstwa przeciwko wiarygodnoÊci dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieni´dz12) matematyka finansowa;
+- **9)** komercjalizacja i prywatyzacja przedsiębiorstw;
+- **10)** zasady rachunkowości;
+- **11)** rynek towarów giełdowych;
+- **2)** która korzysta z pełni praw publicznych;
+- **3)** która nie była uznana prawomocnym orzeczeniem za winnego przestępstwa skarbowego, przestępstwa przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędz12) matematyka finansowa;
 - **13)** analiza finansowa;
 - **14)** strategie inwestycyjne;
 - **15)** etyka zawodowa.
 
-2. Egzamin dla doradców jest dodatkowo sprawdzianem teoretycznego przygotowania kandydatów znast´pujàcych dziedzin: ekonomia, statystyka, finanse publiczne, finanse przedsi´biorstw oraz zarzàdzanie portfelami, wsk∏ad których wchodzi jeden lub wi´ksza liczba maklerskich instrumentów finansowych.
+2. Egzamin dla doradców jest dodatkowo sprawdzianem teoretycznego przygotowania kandydatów znastępujących dziedzin: ekonomia, statystyka, finanse publiczne, finanse przedsiębiorstw oraz zarządzanie portfelami, wskład których wchodzi jeden lub większa liczba maklerskich instrumentów finansowych.
 
-3. Sprawdzian umiej´tnoÊci, o którym mowa w art.129 ust. 3, jest sprawdzianem teoretycznego przygotowania kandydatów z nast´pujàcych dziedzin:
+3. Sprawdzian umiejętności, o którym mowa w art.129 ust. 3, jest sprawdzianem teoretycznego przygotowania kandydatów z następujących dziedzin:
 
 - **1)** prawo cywilne;
-- **2)** prawo gospodarcze; 11. Minister w∏aÊciwy do spraw finansów publicznych okreÊla, w drodze rozporzàdzenia:
+- **2)** prawo gospodarcze; 11. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia:
 - **3)** prawo podatkowe i dewizowe;
-- **4)** prawo papierów wartoÊciowych, instrumenty fi- 1) wysokoÊç op∏at, o których mowa w ust. 10, majàc nansowe oraz obrót takimi instrumentami; na uwadze koszty przeprowadzania egzaminów lub sprawdzianu umiej´tnoÊci, o którym mowa
-- **5)** dzia∏alnoÊç maklerska oraz dzia∏alnoÊç powierni- w art. 129 ust. 3, oraz wydatki zwiàzane z funkcjocza; nowaniem komisji egzaminacyjnych;
-- **6)** system depozytowo-rozliczeniowy w zakresie ob- 2) regulamin przeprowadzania egzaminów na maklerotu instrumentami finansowymi; ra, doradc´ oraz agenta firmy inwestycyjnej oraz regulamin przeprowadzania sprawdzianu umiej´t7) rynek finansowy; noÊci, o którym mowa w art. 129 ust. 3, uwzgl´d8) tworzenie i funkcjonowanie funduszy inwestycyj- niajàc koniecznoÊç zapewnienia równego traktonych; wania osób sk∏adajàcych egzamin lub przyst´pujàcych do sprawdzianu umiej´tnoÊci, o którym
-- **9)** komercjalizacja i prywatyzacja przedsi´biorstw; mowa w art. 129 ust. 3, poufnoÊci sk∏adanego egzaminu lub sprawdzianu umiej´tnoÊci oraz ich
-- **10)** zasady rachunkowoÊci; sprawnej organizacji, oraz
-- **11)** rynek towarów gie∏dowych; 3) sposób ustalania i wysokoÊç wynagrodzeƒ cz∏on12) etyka zawodowa. ków komisji egzaminacyjnych za udzia∏ w posie4. Ustalony przez komisj´ egzaminacyjnà zakres tematyczny egzaminu lub sprawdzianu umiej´tnoÊci, o którym mowa w art. 129 ust. 3, w terminie co najmniej 90 dni przed wyznaczonym terminem egzaminu lub sprawdzianu podawany jest wraz z tym terminem do wiadomoÊci publicznej przez publikacj´ w Dzienniku Urz´dowym Komisji Papierów WartoÊciowych i Gie∏d oraz przez zamieszczenie tych informacji na stronie internetowej Komisji.
+- **4)** prawo papierów wartościowych, instrumenty fi- 1) wysokość opłat, o których mowa w ust. 10, mając nansowe oraz obrót takimi instrumentami; na uwadze koszty przeprowadzania egzaminów lub sprawdzianu umiejętności, o którym mowa
+- **5)** działalność maklerska oraz działalność powierni- w art. 129 ust. 3, oraz wydatki związane z funkcjocza; nowaniem komisji egzaminacyjnych;
+- **6)** system depozytowo-rozliczeniowy w zakresie ob- 2) regulamin przeprowadzania egzaminów na maklerotu instrumentami finansowymi; ra, doradcę oraz agenta firmy inwestycyjnej oraz regulamin przeprowadzania sprawdzianu umiejęt7) rynek finansowy; ności, o którym mowa w art. 129 ust. 3, uwzględ8) tworzenie i funkcjonowanie funduszy inwestycyj- niając konieczność zapewnienia równego traktonych; wania osób składających egzamin lub przystępujących do sprawdzianu umiejętności, o którym
+- **9)** komercjalizacja i prywatyzacja przedsiębiorstw; mowa w art. 129 ust. 3, poufności składanego egzaminu lub sprawdzianu umiejętności oraz ich
+- **10)** zasady rachunkowości; sprawnej organizacji, oraz
+- **11)** rynek towarów giełdowych; 3) sposób ustalania i wysokość wynagrodzeń człon12) etyka zawodowa. ków komisji egzaminacyjnych za udział w posie4. Ustalony przez komisję egzaminacyjną zakres tematyczny egzaminu lub sprawdzianu umiejętności, o którym mowa w art. 129 ust. 3, w terminie co najmniej 90 dni przed wyznaczonym terminem egzaminu lub sprawdzianu podawany jest wraz z tym terminem do wiadomości publicznej przez publikację w Dzienniku Urzędowym Komisji Papierów Wartościowych i Giełd oraz przez zamieszczenie tych informacji na stronie internetowej Komisji.
 
-5. Egzamin na maklera przeprowadza komisja egzaminacyjna dla maklerów, egzamin na doradc´ przeprowadza komisja egzaminacyjna dla doradców, natomiast egzamin na agenta firmy inwestycyjnej przeprowadza komisja egzaminacyjna dla agentów. Sprawdzian umiej´tnoÊci, o którym mowa w art. 129 ust. 3, przeprowadza komisja egzaminacyjna dla doradców.
+5. Egzamin na maklera przeprowadza komisja egzaminacyjna dla maklerów, egzamin na doradcę przeprowadza komisja egzaminacyjna dla doradców, natomiast egzamin na agenta firmy inwestycyjnej przeprowadza komisja egzaminacyjna dla agentów. Sprawdzian umiejętności, o którym mowa w art. 129 ust. 3, przeprowadza komisja egzaminacyjna dla doradców.
 
-6. Komisja egzaminacyjna sk∏ada si´ z 6 cz∏onków powo∏ywanych i odwo∏ywanych przez Przewodniczàcego Komisji. Przewodniczàcy Komisji powo∏uje przewodniczàcego komisji egzaminacyjnej spoÊród jej cz∏onków oraz, na wniosek przewodniczàcego komisji egzaminacyjnej, zast´pc´ przewodniczàcego komisji egzaminacyjnej i sekretarza komisji egzaminacyjnej.
+6. Komisja egzaminacyjna składa się z 6 członków powoływanych i odwoływanych przez Przewodniczącego Komisji. Przewodniczący Komisji powołuje przewodniczącego komisji egzaminacyjnej spośród jej członków oraz, na wniosek przewodniczącego komisji egzaminacyjnej, zastępcę przewodniczącego komisji egzaminacyjnej i sekretarza komisji egzaminacyjnej.
 
-7. Obs∏ug´ administracyjno-biurowà komisji egzaminacyjnych zapewnia urzàd Komisji.
+7. Obsługę administracyjno-biurową komisji egzaminacyjnych zapewnia urząd Komisji.
 
-8. Przewodniczàcy komisji egzaminacyjnej kieruje jej pracami oraz wyznacza terminy egzaminów. Przewodniczàcy komisji egzaminacyjnej dla doradców ustala terminy sprawdzianów umiej´tnoÊci, o których mowa w art. 129 ust. 3.
+8. Przewodniczący komisji egzaminacyjnej kieruje jej pracami oraz wyznacza terminy egzaminów. Przewodniczący komisji egzaminacyjnej dla doradców ustala terminy sprawdzianów umiejętności, o których mowa w art. 129 ust. 3.
 
-9. Cz∏onkom komisji egzaminacyjnych przys∏uguje wynagrodzenie za udzia∏ w pracach komisji.
+9. Członkom komisji egzaminacyjnych przysługuje wynagrodzenie za udział w pracach komisji.
 
-10. Za egzaminy oraz za sprawdzian umiej´tnoÊci, o którym mowa w art. 129 ust. 3, pobiera si´ op∏aty, które stanowià dochód bud˝etu paƒstwa. dzeniach tych komisji, przeprowadzanie egzaminów lub sprawdzianu umiej´tnoÊci, o którym mowa wart. 129 ust. 3, oraz przygotowywanie projektów pytaƒ i zadaƒ na egzaminy lub sprawdzian umiej´tnoÊci, uwzgl´dniajàc zakres obowiàzków poszczególnych cz∏onków.
+10. Za egzaminy oraz za sprawdzian umiejętności, o którym mowa w art. 129 ust. 3, pobiera się opłaty, które stanowią dochód budżetu państwa. dzeniach tych komisji, przeprowadzanie egzaminów lub sprawdzianu umiejętności, o którym mowa wart. 129 ust. 3, oraz przygotowywanie projektów pytań i zadań na egzaminy lub sprawdzian umiejętności, uwzględniając zakres obowiązków poszczególnych członków.
 
 **Art. 129.**
 
-1. Wpisu na list´ maklerów albo na list´ doradców dokonuje Komisja na wniosek zainteresowanego, z∏o˝ony wterminie 3 miesi´cy od dnia z∏o˝enia egzaminu z wynikiem pozytywnym, daty uznania przez Komisj´ uprawnieƒ do wykonywania zawodu albo dnia zdania z wynikiem pozytywnym sprawdzianu umiej´tnoÊci.
+1. Wpisu na listę maklerów albo na listę doradców dokonuje Komisja na wniosek zainteresowanego, złożony wterminie 3 miesięcy od dnia złożenia egzaminu z wynikiem pozytywnym, daty uznania przez Komisję uprawnień do wykonywania zawodu albo dnia zdania z wynikiem pozytywnym sprawdzianu umiejętności.
 
-2. Wpis na list´ maklerów lub doradców bez koniecznoÊci sk∏adania egzaminu mogà uzyskaç osoby, których kwalifikacje zosta∏y uznane na zasadach okreÊlonych wustawie zdnia 26 kwietnia 2001 r. o zasadach uznawania nabytych w paƒstwach cz∏onkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych (Dz. U. 87, poz. 954, z 2002 r. 71, poz. 655, z 2003 r. 190, poz. 1864 oraz z 2004 r. 96, poz. 959).
+2. Wpis na listę maklerów lub doradców bez konieczności składania egzaminu mogą uzyskać osoby, których kwalifikacje zostały uznane na zasadach określonych wustawie zdnia 26 kwietnia 2001 r. o zasadach uznawania nabytych w państwach członkowskich Unii Europejskiej kwalifikacji do wykonywania zawodów regulowanych (Dz. U. 87, poz. 954, z 2002 r. 71, poz. 655, z 2003 r. 190, poz. 1864 oraz z 2004 r. 96, poz. 959).
 
-3. Wpis na list´ doradców bez koniecznoÊci sk∏adania egzaminu mogà równie˝ uzyskaç osoby nieposiadajàce uprawnieƒ, o których mowa w ust. 2, o ile posiadajà okreÊlony w przepisach wydanych na podstawie ust. 4, nadany przez zagranicznà instytucj´, tytu∏, do uzyskania którego nale˝y wykazaç si´ wiedzà wzakresie zbli˝onym do zakresu tematycznego obowiàzujàcego na egzaminie dla doradców, oraz oile ich kwalifikacje stwierdzone w wyniku przeprowadzonego sprawdzianu umiej´tnoÊci gwarantujà, ˝e b´dà one wykonywaç zawód na terytorium Rzeczypospolitej Polskiej w sposób nale˝yty.
+3. Wpis na listę doradców bez konieczności składania egzaminu mogą również uzyskać osoby nieposiadające uprawnień, o których mowa w ust. 2, o ile posiadają określony w przepisach wydanych na podstawie ust. 4, nadany przez zagraniczną instytucję, tytuł, do uzyskania którego należy wykazać się wiedzą wzakresie zbliżonym do zakresu tematycznego obowiązującego na egzaminie dla doradców, oraz oile ich kwalifikacje stwierdzone w wyniku przeprowadzonego sprawdzianu umiejętności gwarantują, że będą one wykonywać zawód na terytorium Rzeczypospolitej Polskiej w sposób należyty.
 
-4. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, w drodze rozporzàdzenia, wykaz nadawanych przez okreÊlone zagraniczne instytucje tytu∏ów uprawniajàcych do ubiegania si´, zgodnie zust. 3, o wpis na list´ doradców bez koniecznoÊci sk∏adania egzaminu, uwzgl´dniajàc wy∏àcznie tytu∏y nadawane przez zagraniczne instytucje uznajàce w prowadzonych przez nie post´powaniach kwalifikacyjnych wynik egzaminu przed komisjà egzaminacyjnà dla doradców.
+4. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, wykaz nadawanych przez określone zagraniczne instytucje tytułów uprawniających do ubiegania się, zgodnie zust. 3, o wpis na listę doradców bez konieczności składania egzaminu, uwzględniając wyłącznie tytuły nadawane przez zagraniczne instytucje uznające w prowadzonych przez nie postępowaniach kwalifikacyjnych wynik egzaminu przed komisją egzaminacyjną dla doradców.
 
-5. Osoba wpisana na list´ maklerów lub na list´ doradców jest obowiàzana do niezw∏ocznego pisemnego informowania Komisji o:
+5. Osoba wpisana na listę maklerów lub na listę doradców jest obowiązana do niezwłocznego pisemnego informowania Komisji o:
 
-- **1)** podj´ciu wykonywania zawodu, ze wskazaniem daty jego podj´cia, podstawowego zakresu czynnoÊci i miejsca wykonywania zawodu;
-- **2)** ka˝dorazowej zmianie danych obj´tych wnioskiem, o którym mowa w ust. 1, oraz danych, o których mowa w pkt 1.
+- **1)** podjęciu wykonywania zawodu, ze wskazaniem daty jego podjęcia, podstawowego zakresu czynności i miejsca wykonywania zawodu;
+- **2)** każdorazowej zmianie danych objętych wnioskiem, o którym mowa w ust. 1, oraz danych, o których mowa w pkt 1.
 
-6. Listy maklerów i doradców, skreÊlenie z listy oraz zawieszenie uprawnieƒ do wykonywania zawodu maklera lub doradcy podlegajà og∏oszeniu w Dzienniku Urz´dowym Komisji Papierów WartoÊciowych i Gie∏d.
+6. Listy maklerów i doradców, skreślenie z listy oraz zawieszenie uprawnień do wykonywania zawodu maklera lub doradcy podlegają ogłoszeniu w Dzienniku Urzędowym Komisji Papierów Wartościowych i Giełd.
 
-7. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, w drodze rozporzàdzenia, wzór wniosku, októrym mowa wust. 1, zawierajàcy odniesienie do danych, októrych mowa wart. 127 ust. 1, awprzypadku danych dotyczàcych karalnoÊci oraz wyniku egzaminu, sprawdzianu umiej´tnoÊci lub uznania uprawnieƒ do wykonywania zawodu powinien zawieraç wymóg do∏àczenia odpowiednich dokumentów lub ich kopii. Dane wymagane we wniosku powinny zapewniaç Komisji mo˝liwoÊç weryfikacji wype∏niania przez wnioskodawc´ wymogów wskazanych w art.127 ust. 1.
+7. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia, wzór wniosku, októrym mowa wust. 1, zawierający odniesienie do danych, októrych mowa wart. 127 ust. 1, awprzypadku danych dotyczących karalności oraz wyniku egzaminu, sprawdzianu umiejętności lub uznania uprawnień do wykonywania zawodu powinien zawierać wymóg dołączenia odpowiednich dokumentów lub ich kopii. Dane wymagane we wniosku powinny zapewniać Komisji możliwość weryfikacji wypełniania przez wnioskodawcę wymogów wskazanych w art.127 ust. 1.
 
 **Art. 130.**
 
-1. Komisja mo˝e skreÊliç maklera lub doradc´ z listy albo zawiesiç jego uprawnienia do wykonywania zawodu na okres od 3 miesi´cy do 2 lat na skutek naruszenia w zwiàzku z wykonywaniem zawodu przepisów prawa lub regulaminów iinnych przepisów wewn´trznych, do których przestrzegania makler lub doradca jest zobowiàzany wzwiàzku zwykonywaniem zawodu.
+1. Komisja może skreślić maklera lub doradcę z listy albo zawiesić jego uprawnienia do wykonywania zawodu na okres od 3 miesięcy do 2 lat na skutek naruszenia w związku z wykonywaniem zawodu przepisów prawa lub regulaminów iinnych przepisów wewnętrznych, do których przestrzegania makler lub doradca jest zobowiązany wzwiązku zwykonywaniem zawodu.
 
-2. Komisja wydaje decyzj´ oskreÊleniu zlisty albo ozawieszeniu uprawnieƒ do wykonywania zawodu po przeprowadzeniu rozprawy.
+2. Komisja wydaje decyzję oskreśleniu zlisty albo ozawieszeniu uprawnień do wykonywania zawodu po przeprowadzeniu rozprawy.
 
-3. W razie koniecznoÊci zabezpieczenia interesu publicznego Komisja mo˝e, od chwili wszcz´cia post´powania wsprawach, októrych mowa wust. 1, zawiesiç uprawnienia maklera lub doradcy do czasu wydania decyzji w sprawie, jednak na okres nie d∏u˝szy ni˝ 6 miesi´cy. Przepisu ust. 2 nie stosuje si´.
+3. W razie konieczności zabezpieczenia interesu publicznego Komisja może, od chwili wszczęcia postępowania wsprawach, októrych mowa wust. 1, zawiesić uprawnienia maklera lub doradcy do czasu wydania decyzji w sprawie, jednak na okres nie dłuższy niż 6 miesięcy. Przepisu ust. 2 nie stosuje się.
 
-5. Z zastrze˝eniem ust. 6, osoba skreÊlona z listy maklerów lub listy doradców z przyczyn, o których mowa w ust. 1 lub w art. 131 pkt 3, nie mo˝e byç ponownie wpisana na list´ maklerów ani na list´ doradców przed up∏ywem 10 lat od dnia wydania decyzji. W przypadku gdy skreÊlenie nastàpi∏o z przyczyny, októrej mowa wart. 131 pkt 3, ponowne wpisanie nie mo˝e tak˝e nastàpiç wczeÊniej, ni˝ nastàpi zatarcie skazania za przest´pstwo, którego pope∏nienie stanowi∏o podstaw´ wydania decyzji oskreÊleniu zlisty maklerów lub z listy doradców.
+5. Z zastrzeżeniem ust. 6, osoba skreślona z listy maklerów lub listy doradców z przyczyn, o których mowa w ust. 1 lub w art. 131 pkt 3, nie może być ponownie wpisana na listę maklerów ani na listę doradców przed upływem 10 lat od dnia wydania decyzji. W przypadku gdy skreślenie nastąpiło z przyczyny, októrej mowa wart. 131 pkt 3, ponowne wpisanie nie może także nastąpić wcześniej, niż nastąpi zatarcie skazania za przestępstwo, którego popełnienie stanowiło podstawę wydania decyzji oskreśleniu zlisty maklerów lub z listy doradców.
 
-6. Wprzypadku, októrym mowa wust. 1, wydajàc decyzj´ o skreÊleniu z listy maklerów lub doradców, Komisja mo˝e skróciç termin, o którym mowa w ust.5.
+6. Wprzypadku, októrym mowa wust. 1, wydając decyzję o skreśleniu z listy maklerów lub doradców, Komisja może skrócić termin, o którym mowa w ust.5.
 
-**Art. 131.** SkreÊlenie zlisty maklerów lub doradców nast´puje:
+**Art. 131.** Skreślenie zlisty maklerów lub doradców następuje:
 
 **Art. 132.**
 
-1. W rozumieniu przepisów niniejszego dzia∏u:
+1. W rozumieniu przepisów niniejszego działu:
 
-- **1)** za inwestora uwa˝a si´ osob´ fizycznà, osob´ prawnà albo jednostk´ organizacyjnà nieposiadajàcà osobowoÊci prawnej, na rzecz której dom maklerski Êwiadczy jednà z us∏ug w zakresie czynnoÊci, októrych mowa wart. 69 ust. 2, ust. 3 pkt 1 i3 oraz ust. 4 pkt 1 i 2, z wy∏àczeniem:
-    - **a)** Skarbu Paƒstwa,
-    - **b)** Narodowego Banku Polskiego, banków z siedzibà na terytorium Rzeczypospolitej Polskiej oraz banków zagranicznych,
+- **1)** za inwestora uważa się osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, na rzecz której dom maklerski świadczy jedną z usług w zakresie czynności, októrych mowa wart. 69 ust. 2, ust. 3 pkt 1 i3 oraz ust. 4 pkt 1 i 2, z wyłączeniem:
+    - **a)** Skarbu Państwa,
+    - **b)** Narodowego Banku Polskiego, banków z siedzibą na terytorium Rzeczypospolitej Polskiej oraz banków zagranicznych,
     - **c)** firm inwestycyjnych,
-    - **d)** spó∏ek prowadzàcych rynki regulowane,
+    - **d)** spółek prowadzących rynki regulowane,
     - **e)** Krajowego Depozytu,
-    - **f)** podmiotów dzia∏ajàcych na podstawie ustawy z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej,
-    - **g)** podmiotów dzia∏ajàcych na podstawie ustawy zdnia 27 maja 2004 r. ofunduszach inwestycyjnych,
-    - **h)** podmiotów dzia∏ajàcych na podstawie ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych,
-    - **i)** spó∏ek prowadzàcych gie∏dy towarowe, spó∏ek prowadzàcych gie∏dowe izby rozrachunkowe, towarowych domów maklerskich, zagranicznych osób prawnych prowadzàcych dzia∏alnoÊç maklerskà w zakresie obrotu towarami gie∏dowymi, dzia∏ajàcych na podstawie ustawy z dnia 26 paêdziernika 2000 r. o gie∏dach towarowych,
-    - **j)** gmin, zwiàzków gmin, powiatów, zwiàzków powiatów i województw,
-    - **k)** paƒstw i ich jednostek terytorialnych posiadajàcych osobowoÊç prawnà,
-    - **l)** podmiotów, w stosunku do których podmiotem dominujàcym jest ten sam podmiot, który jest podmiotem dominujàcym w stosunku do domu maklerskiego,
-    - **m)** osób posiadajàcych 5 % lub wi´cej ogólnej liczby g∏osów lub kapita∏u zak∏adowego domu maklerskiego, a tak˝e osób, które w stosunku do domu maklerskiego sà podmiotami dominujàcymi lub zale˝nymi,
-    - **n)** cz∏onków zarzàdu, rady nadzorczej, komisji rewizyjnej domu maklerskiego oraz osób pe∏niàcych w domu maklerskim funkcje dyrektorów i zast´pców dyrektorów departamentów, jak równie˝ dyrektorów i zast´pców dyrektorów oddzia∏ów domu maklerskiego, w przypadku gdy osoby te pe∏ni∏y swoje funkcje w dniu og∏oszenia upad∏oÊci lub oddalenia wniosku oupad∏oÊç ze wzgl´du na to, ˝e majàtek domu maklerskiego nie wystarcza na zaspokojenie kosztów post´powania, w dniu stwierdzenia przez Komisj´ zaistnienia okolicznoÊci, októrej mowa w art. 133 ust. 2 pkt 3, bàdê w okresie bie˝àcego lub poprzedniego roku obrotowego,
-    - **o)** osób odpowiedzialnych za badanie sprawozdaƒ finansowych domu maklerskiego, osób zajmujàcych stanowisko g∏ównego ksi´gowego w domu maklerskim oraz osób odpowiedzialnych za sporzàdzanie iprowadzenie dokumentacji ksi´gowej domu maklerskiego,
-    - **p)** cz∏onków zarzàdu i rady nadzorczej, osób posiadajàcych 5 % lub wi´cej ogólnej liczby g∏osów lub kapita∏u zak∏adowego oraz osób odpowiedzialnych za badanie sprawozdaƒ finansowych podmiotu dominujàcego lub zale˝nego w stosunku do domu maklerskiego, bo do stwierdzenia przez Komisj´ zaistnienia okolicznoÊci, o której mowa w art. 133 ust. 2 pkt 3;
+    - **f)** podmiotów działających na podstawie ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej,
+    - **g)** podmiotów działających na podstawie ustawy zdnia 27 maja 2004 r. ofunduszach inwestycyjnych,
+    - **h)** podmiotów działających na podstawie ustawy z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaniu funduszy emerytalnych,
+    - **i)** spółek prowadzących giełdy towarowe, spółek prowadzących giełdowe izby rozrachunkowe, towarowych domów maklerskich, zagranicznych osób prawnych prowadzących działalność maklerską w zakresie obrotu towarami giełdowymi, działających na podstawie ustawy z dnia 26 paêdziernika 2000 r. o giełdach towarowych,
+    - **j)** gmin, związków gmin, powiatów, związków powiatów i województw,
+    - **k)** państw i ich jednostek terytorialnych posiadających osobowość prawną,
+    - **l)** podmiotów, w stosunku do których podmiotem dominującym jest ten sam podmiot, który jest podmiotem dominującym w stosunku do domu maklerskiego,
+    - **m)** osób posiadających 5 % lub więcej ogólnej liczby głosów lub kapitału zakładowego domu maklerskiego, a także osób, które w stosunku do domu maklerskiego są podmiotami dominującymi lub zależnymi,
+    - **n)** członków zarządu, rady nadzorczej, komisji rewizyjnej domu maklerskiego oraz osób pełniących w domu maklerskim funkcje dyrektorów i zastępców dyrektorów departamentów, jak również dyrektorów i zastępców dyrektorów oddziałów domu maklerskiego, w przypadku gdy osoby te pełniły swoje funkcje w dniu ogłoszenia upadłości lub oddalenia wniosku oupadłość ze względu na to, że majątek domu maklerskiego nie wystarcza na zaspokojenie kosztów postępowania, w dniu stwierdzenia przez Komisję zaistnienia okoliczności, októrej mowa w art. 133 ust. 2 pkt 3, bądê w okresie bieżącego lub poprzedniego roku obrotowego,
+    - **o)** osób odpowiedzialnych za badanie sprawozdań finansowych domu maklerskiego, osób zajmujących stanowisko głównego księgowego w domu maklerskim oraz osób odpowiedzialnych za sporządzanie iprowadzenie dokumentacji księgowej domu maklerskiego,
+    - **p)** członków zarządu i rady nadzorczej, osób posiadających 5 % lub więcej ogólnej liczby głosów lub kapitału zakładowego oraz osób odpowiedzialnych za badanie sprawozdań finansowych podmiotu dominującego lub zależnego w stosunku do domu maklerskiego, bo do stwierdzenia przez Komisję zaistnienia okoliczności, o której mowa w art. 133 ust. 2 pkt 3;
 
-- **2)** za Êrodki pieni´˝ne inwestorów uwa˝a si´ Êrodki pieni´˝ne zapisane na rachunkach pieni´˝nych oraz inne Êrodki pieni´˝ne nale˝ne inwestorom od domu maklerskiego z tytu∏u Êwiadczonych na ich rzecz us∏ug, wzakresie czynnoÊci, októrych mowa wart. 69 ust. 2, ust. 3 pkt 1 i3 oraz ust. 4 pkt 1 i2;
-- **3)** za dom maklerski uwa˝a si´ dom maklerski, bank prowadzàcy dzia∏alnoÊç maklerskà albo bank powierniczy;
-- **4)** przez zarzàd domu maklerskiego rozumie si´ równie˝ komplementariuszy domu maklerskiego, októrym mowa wart. 95 ust. 1 pkt 2 i4, albo osoby uprawnione do reprezentowania domu maklerskiego, o którym mowa w art. 95 ust. 1 pkt 5 i 6;
-- **5)** przez osoby posiadajàce udzia∏ wkapitale zak∏adowym domu maklerskiego rozumie si´ równie˝ odpowiednio wspólników wnoszàcych wk∏ad do domu maklerskiego, o którym mowa w art. 95 ust. 1 pkt 4—6.
+- **2)** za środki pieniężne inwestorów uważa się środki pieniężne zapisane na rachunkach pieniężnych oraz inne środki pieniężne należne inwestorom od domu maklerskiego z tytułu świadczonych na ich rzecz usług, wzakresie czynności, októrych mowa wart. 69 ust. 2, ust. 3 pkt 1 i3 oraz ust. 4 pkt 1 i2;
+- **3)** za dom maklerski uważa się dom maklerski, bank prowadzący działalność maklerską albo bank powierniczy;
+- **4)** przez zarząd domu maklerskiego rozumie się również komplementariuszy domu maklerskiego, októrym mowa wart. 95 ust. 1 pkt 2 i4, albo osoby uprawnione do reprezentowania domu maklerskiego, o którym mowa w art. 95 ust. 1 pkt 5 i 6;
+- **5)** przez osoby posiadające udział wkapitale zakładowym domu maklerskiego rozumie się również odpowiednio wspólników wnoszących wkład do domu maklerskiego, o którym mowa w art. 95 ust. 1 pkt 4—6.
 
-2. Przepisy niniejszego dzia∏u stosuje si´ odpowiednio do oddzia∏ów zagranicznych osób prawnych, októrych mowa wart. 115 ust. 1, oile nie sà uczestnikami systemu rekompensat obowiàzujàcego w paƒstwie ich siedziby lub system rekompensat w paƒstwie siedziby nie zapewnia odszkodowaƒ w wysokoÊci okreÊlonej w ustawie.
+2. Przepisy niniejszego działu stosuje się odpowiednio do oddziałów zagranicznych osób prawnych, októrych mowa wart. 115 ust. 1, oile nie są uczestnikami systemu rekompensat obowiązującego w państwie ich siedziby lub system rekompensat w państwie siedziby nie zapewnia odszkodowań w wysokości określonej w ustawie.
 
-3. W przypadku banków powierniczych system rekompensat obejmuje papiery wartoÊciowe i inne maklerskie instrumenty finansowe b´dàce przedmiotem obrotu na rynku zorganizowanym zapisane na rachunkach papierów wartoÊciowych prowadzonych przez te banki.
+3. W przypadku banków powierniczych system rekompensat obejmuje papiery wartościowe i inne maklerskie instrumenty finansowe będące przedmiotem obrotu na rynku zorganizowanym zapisane na rachunkach papierów wartościowych prowadzonych przez te banki.
 
 **Art. 133.**
 
-1. Krajowy Depozyt tworzy i prowadzi obowiàzkowy system rekompensat, wcelu gromadzenia Êrodków na wyp∏aty inwestorom rekompensat, pochodzàcych z wp∏at, o których mowa w art. 137 ust.1 i 5.
+1. Krajowy Depozyt tworzy i prowadzi obowiązkowy system rekompensat, wcelu gromadzenia środków na wypłaty inwestorom rekompensat, pochodzących z wpłat, o których mowa w art. 137 ust.1 i 5.
 
-2. Celem systemu rekompensat jest zapewnienie inwestorom wyp∏at do wysokoÊci okreÊlonej ustawà, Êrodków pieni´˝nych oraz zrekompensowanie wartoÊci utraconych maklerskich instrumentów finansowych, zgromadzonych przez nich w domach maklerskich, wtym wich oddzia∏ach poza terytorium Rzeczypospolitej Polskiej, z tytu∏u Êwiadczonych na ich rzecz us∏ug, wzakresie czynnoÊci, októrych mowa wart. 69 ust. 2, ust. 3 pkt 1 i 3 oraz ust. 4 pkt 1 i 2, w przypadr) krewnych ipowinowatych do drugiego stopnia osób, o których mowa w lit. m—p,
+2. Celem systemu rekompensat jest zapewnienie inwestorom wypłat do wysokości określonej ustawą, środków pieniężnych oraz zrekompensowanie wartości utraconych maklerskich instrumentów finansowych, zgromadzonych przez nich w domach maklerskich, wtym wich oddziałach poza terytorium Rzeczypospolitej Polskiej, z tytułu świadczonych na ich rzecz usług, wzakresie czynności, októrych mowa wart. 69 ust. 2, ust. 3 pkt 1 i 3 oraz ust. 4 pkt 1 i 2, w przypadr) krewnych ipowinowatych do drugiego stopnia osób, o których mowa w lit. m—p,
 
-- **s)** inwestorów, którzy wskutek niewywiàzywania si´ ze swoich zobowiàzaƒ wobec domu maklerskiego przyczynili si´ do jego upad∏oÊci alku:
-- **1)** og∏oszenia upad∏oÊci domu maklerskiego lub
-- **2)** prawomocnego oddalenia wniosku o og∏oszenie upad∏oÊci ze wzgl´du na to, ˝e majàtek tego domu maklerskiego nie wystarcza na zaspokojenie kosztów post´powania, lub
-- **3)** stwierdzenia przez Komisj´, ˝e dom maklerski nie jest wstanie, zpowodów ÊciÊle zwiàzanych zsytuacjà finansowà, wykonaç cià˝àcych na nim zobowiàzaƒ wynikajàcych z roszczeƒ inwestorów i nie jest mo˝liwe ich wykonanie w najbli˝szym czasie.
+- **s)** inwestorów, którzy wskutek niewywiązywania się ze swoich zobowiązań wobec domu maklerskiego przyczynili się do jego upadłości alku:
+- **1)** ogłoszenia upadłości domu maklerskiego lub
+- **2)** prawomocnego oddalenia wniosku o ogłoszenie upadłości ze względu na to, że majątek tego domu maklerskiego nie wystarcza na zaspokojenie kosztów postępowania, lub
+- **3)** stwierdzenia przez Komisję, że dom maklerski nie jest wstanie, zpowodów ściśle związanych zsytuacją finansową, wykonać ciążących na nim zobowiązań wynikających z roszczeń inwestorów i nie jest możliwe ich wykonanie w najbliższym czasie.
 
-3. Koszty prowadzenia przez Krajowy Depozyt systemu rekompensat oraz op∏aty nale˝ne z tytu∏u zarzàdzania systemem rekompensat sà pokrywane z aktywów tego systemu.
+3. Koszty prowadzenia przez Krajowy Depozyt systemu rekompensat oraz opłaty należne z tytułu zarządzania systemem rekompensat są pokrywane z aktywów tego systemu.
 
 **Art. 134.**
 
-1. Rada nadzorcza Krajowego Depozytu, na wniosek zarzàdu, uchwala regulamin funkcjonowania systemu rekompensat. Regulamin oraz jego zmiany wymagajà zatwierdzenia przez Komisj´. Komisja odmawia zatwierdzenia regulaminu lub jego zmian, je˝eli jego treÊç lub proponowane zmiany sà sprzeczne z przepisami prawa lub mog∏yby naruszyç bezpieczeƒstwo zarzàdzania systemem rekompensat lub wyp∏at rekompensat z tego systemu.
+1. Rada nadzorcza Krajowego Depozytu, na wniosek zarządu, uchwala regulamin funkcjonowania systemu rekompensat. Regulamin oraz jego zmiany wymagają zatwierdzenia przez Komisję. Komisja odmawia zatwierdzenia regulaminu lub jego zmian, jeżeli jego treść lub proponowane zmiany są sprzeczne z przepisami prawa lub mogłyby naruszyć bezpieczeństwo zarządzania systemem rekompensat lub wypłat rekompensat z tego systemu.
 
-2. Regulamin, o którym mowa w ust. 1, okreÊla szczegó∏owy sposób funkcjonowania systemu rekompensat, a w szczególnoÊci:
+2. Regulamin, o którym mowa w ust. 1, określa szczegółowy sposób funkcjonowania systemu rekompensat, a w szczególności:
 
 - **1)** sposób gospodarowania aktywami systemu rekompensat;
-- **2)** sposób zapewnienia wykonywania obowiàzków przez podmioty obj´te systemem rekompensat;
-- **3)** sposób itryb wnoszenia wp∏at do systemu rekompensat przez podmioty obj´te tym systemem;
-- **4)** warunki i tryb dokonywania zwrotu domom maklerskim nadwy˝ki wniesionych rocznych wp∏at, o której mowa w art. 137 ust. 20;
-- **5)** tryb dokonywania wyp∏at inwestorom;
-- **6)** sposób dokonywania rozliczeƒ z podmiotem obj´tym systemem rekompensat w przypadku zwolnienia z uczestnictwa tego podmiotu w systemie rekompensat oraz okres, po zwolnieniu uczestnictwa podmiotu w systemie rekompensat w ciàgu którego ujawnienie si´ okolicznoÊci stanowiàcych podstaw´ dokonania wyp∏at rekompensat powoduje brak zwrotu podmiotowi jego udzia∏u w systemie;
-- **7)** wysokoÊç op∏at nale˝nych z tytu∏u wykonywania przez Krajowy Depozyt obowiàzków wynikajàcych zfunkcjonowania systemu rekompensat oraz sposób dokonywania z podmiotami obj´tymi systemem rekompensat rozliczeƒ kosztów poniesionych wzwiàzku zfunkcjonowaniem tego systemu;
-- **8)** Êrodki dyscyplinujàce i porzàdkowe, które mogà byç stosowane wobec podmiotów obj´tych systemem rekompensat naruszajàcych obowiàzki wynikajàce z uczestnictwa w systemie rekompensat, zasady itryb ich stosowania oraz tryb informowania Komisji o naruszaniu obowiàzków wynikajàcych z uczestnictwa w tym systemie.
+- **2)** sposób zapewnienia wykonywania obowiązków przez podmioty objęte systemem rekompensat;
+- **3)** sposób itryb wnoszenia wpłat do systemu rekompensat przez podmioty objęte tym systemem;
+- **4)** warunki i tryb dokonywania zwrotu domom maklerskim nadwyżki wniesionych rocznych wpłat, o której mowa w art. 137 ust. 20;
+- **5)** tryb dokonywania wypłat inwestorom;
+- **6)** sposób dokonywania rozliczeń z podmiotem objętym systemem rekompensat w przypadku zwolnienia z uczestnictwa tego podmiotu w systemie rekompensat oraz okres, po zwolnieniu uczestnictwa podmiotu w systemie rekompensat w ciągu którego ujawnienie się okoliczności stanowiących podstawę dokonania wypłat rekompensat powoduje brak zwrotu podmiotowi jego udziału w systemie;
+- **7)** wysokość opłat należnych z tytułu wykonywania przez Krajowy Depozyt obowiązków wynikających zfunkcjonowania systemu rekompensat oraz sposób dokonywania z podmiotami objętymi systemem rekompensat rozliczeń kosztów poniesionych wzwiązku zfunkcjonowaniem tego systemu;
+- **8)** środki dyscyplinujące i porządkowe, które mogą być stosowane wobec podmiotów objętych systemem rekompensat naruszających obowiązki wynikające z uczestnictwa w systemie rekompensat, zasady itryb ich stosowania oraz tryb informowania Komisji o naruszaniu obowiązków wynikających z uczestnictwa w tym systemie.
 
 **Art. 135.**
 
-2. Dom maklerski jest zwolniony z uczestnictwa w systemie rekompensat z chwilà:
+2. Dom maklerski jest zwolniony z uczestnictwa w systemie rekompensat z chwilą:
 
-- **1)** zaprzestania dzia∏alnoÊci, okreÊlonej w decyzji o cofni´ciu lub uchyleniu zezwolenia, o którym mowa w art. 69 ust. 1, albo w decyzji o cofni´ciu lub uchyleniu zezwolenia na prowadzenie rachunków papierów wartoÊciowych przez bank;
-- **2)** wygaÊni´cia zezwolenia w przypadkach, o których mowa w art. 89 ust. 1.
+- **1)** zaprzestania działalności, określonej w decyzji o cofnięciu lub uchyleniu zezwolenia, o którym mowa w art. 69 ust. 1, albo w decyzji o cofnięciu lub uchyleniu zezwolenia na prowadzenie rachunków papierów wartościowych przez bank;
+- **2)** wygaśnięcia zezwolenia w przypadkach, o których mowa w art. 89 ust. 1.
 
 **Art. 136.**
 
-1. Wprzypadku gdy system rekompensat obowiàzujàcy w paƒstwie siedziby zagranicznej firmy inwestycyjnej prowadzàcej dzia∏alnoÊç maklerskà na terytorium Rzeczypospolitej Polskiej w formie oddzia∏u nie zapewnia rekompensat w wysokoÊci lub w zakresie okreÊlonym wustawie, oddzia∏ zagranicznej firmy inwestycyjnej mo˝e, w celu zagwarantowania inwestorom wyp∏at rekompensat do wysokoÊci lub zakresu okreÊlonego w ustawie, z∏o˝yç do Krajowego Depozytu wniosek oprzystàpienie do systemu rekompensat. Z∏o˝enie przez oddzia∏ zagranicznej firmy inwestycyjnej wniosku jest równoznaczne zjego uczestnictwem w tym systemie.
+1. Wprzypadku gdy system rekompensat obowiązujący w państwie siedziby zagranicznej firmy inwestycyjnej prowadzącej działalność maklerską na terytorium Rzeczypospolitej Polskiej w formie oddziału nie zapewnia rekompensat w wysokości lub w zakresie określonym wustawie, oddział zagranicznej firmy inwestycyjnej może, w celu zagwarantowania inwestorom wypłat rekompensat do wysokości lub zakresu określonego w ustawie, złożyć do Krajowego Depozytu wniosek oprzystąpienie do systemu rekompensat. Złożenie przez oddział zagranicznej firmy inwestycyjnej wniosku jest równoznaczne zjego uczestnictwem w tym systemie.
 
-2. Roczna wp∏ata, o której mowa w art. 137 ust. 1, dokonana przez oddzia∏ zagranicznej firmy inwestycyjnej ma na celu uzupe∏nienie poziomu rekompensat zapewnianego przez system rekompensat obowiàzujàcy w paƒstwie jej siedziby do wysokoÊci lub zakresu rekompensat zapewnianego przez system rekompensat.
+2. Roczna wpłata, o której mowa w art. 137 ust. 1, dokonana przez oddział zagranicznej firmy inwestycyjnej ma na celu uzupełnienie poziomu rekompensat zapewnianego przez system rekompensat obowiązujący w państwie jej siedziby do wysokości lub zakresu rekompensat zapewnianego przez system rekompensat.
 
-3. W przypadku gdy oddzia∏ zagranicznej firmy inwestycyjnej nie wykonuje bàdê nienale˝ycie wykonuje obowiàzki wynikajàce z uczestnictwa w systemie rekompensat, Krajowy Depozyt niezw∏ocznie informuje otym Komisj´. Komisja przekazuje w∏aÊciwemu organowi nadzoru, który udzieli∏ zagranicznej firmie inwestycyjnej zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej, informacje otrzymane od Krajowego Depozytu, wskazujàc jednoczeÊnie termin wykluczenia oddzia∏u zagranicznej firmy inwestycyjnej z systemu rekompensat, nie d∏u˝szy ni˝ 12 miesi´cy od dnia przekazania informacji.
+3. W przypadku gdy oddział zagranicznej firmy inwestycyjnej nie wykonuje bądê nienależycie wykonuje obowiązki wynikające z uczestnictwa w systemie rekompensat, Krajowy Depozyt niezwłocznie informuje otym Komisję. Komisja przekazuje właściwemu organowi nadzoru, który udzielił zagranicznej firmie inwestycyjnej zezwolenia na prowadzenie działalności maklerskiej, informacje otrzymane od Krajowego Depozytu, wskazując jednocześnie termin wykluczenia oddziału zagranicznej firmy inwestycyjnej z systemu rekompensat, nie dłuższy niż 12 miesięcy od dnia przekazania informacji.
 
-4. Krajowy Depozyt wspó∏pracuje z organem nadzoru, o którym mowa w ust. 3, przy podejmowaniu przez ten organ Êrodków majàcych na celu zapewnienie przez oddzia∏ zagranicznej firmy inwestycyjnej nale˝ytego wykonania obowiàzków wynikajàcych z uczestnictwa w systemie rekompensat.
+4. Krajowy Depozyt współpracuje z organem nadzoru, o którym mowa w ust. 3, przy podejmowaniu przez ten organ środków mających na celu zapewnienie przez oddział zagranicznej firmy inwestycyjnej należytego wykonania obowiązków wynikających z uczestnictwa w systemie rekompensat.
 
-5. W przypadku gdy po up∏ywie okresu, o którym mowa wust. 3, ipomimo podj´cia Êrodków, októrych mowa wust. 4, oddzia∏ zagranicznej firmy inwestycyjnej nie wykonuje lub nienale˝ycie wykonuje obowiàz1. Uczestnictwo domów maklerskich w systemie rekompensat jest obowiàzkowe. ki wynikajàce z uczestnictwa w systemie rekompensat, Krajowy Depozyt mo˝e, za zgodà organu nadzoru, októrym mowa wust. 3, wykluczyç oddzia∏ zagranicznej firmy inwestycyjnej z systemu rekompensat.
+5. W przypadku gdy po upływie okresu, o którym mowa wust. 3, ipomimo podjęcia środków, októrych mowa wust. 4, oddział zagranicznej firmy inwestycyjnej nie wykonuje lub nienależycie wykonuje obowiąz1. Uczestnictwo domów maklerskich w systemie rekompensat jest obowiązkowe. ki wynikające z uczestnictwa w systemie rekompensat, Krajowy Depozyt może, za zgodą organu nadzoru, októrym mowa wust. 3, wykluczyć oddział zagranicznej firmy inwestycyjnej z systemu rekompensat.
 
-6. Udzia∏ oddzia∏u zagranicznej firmy inwestycyjnej w systemie rekompensat nie ulega zwrotowi w przypadku wykluczenia z systemu, je˝eli w okresie wskazanym wregulaminie, októrym mowa wart. 134 ust. 1, przypadajàcym po tym wykluczeniu ujawnià si´ okolicznoÊci stanowiàce podstaw´ dokonania wyp∏at rekompensat inwestorom b´dàcym klientami tego oddzia∏u.
+6. Udział oddziału zagranicznej firmy inwestycyjnej w systemie rekompensat nie ulega zwrotowi w przypadku wykluczenia z systemu, jeżeli w okresie wskazanym wregulaminie, októrym mowa wart. 134 ust. 1, przypadającym po tym wykluczeniu ujawnią się okoliczności stanowiące podstawę dokonania wypłat rekompensat inwestorom będącym klientami tego oddziału.
 
-7. System rekompensat zapewnia inwestorom wyp∏at´ rekompensat ztytu∏u us∏ug Êwiadczonych na ich rzecz w zakresie czynnoÊci, o których mowa w art. 69 ust. 2, ust. 3 pkt 1 i 3 oraz ust. 4 pkt 1 i 2, przez zagranicznà firm´ inwestycyjnà w ramach jej oddzia∏u na terytorium Rzeczypospolitej Polskiej przed dniem jego wykluczenia z systemu.
+7. System rekompensat zapewnia inwestorom wypłatę rekompensat ztytułu usług świadczonych na ich rzecz w zakresie czynności, o których mowa w art. 69 ust. 2, ust. 3 pkt 1 i 3 oraz ust. 4 pkt 1 i 2, przez zagraniczną firmę inwestycyjną w ramach jej oddziału na terytorium Rzeczypospolitej Polskiej przed dniem jego wykluczenia z systemu.
 
-8. Oddzia∏ zagranicznej firmy inwestycyjnej informuje niezw∏ocznie klientów o wykluczeniu z systemu rekompensat, wskazujàc w szczególnoÊci dat´ wykluczenia.
+8. Oddział zagranicznej firmy inwestycyjnej informuje niezwłocznie klientów o wykluczeniu z systemu rekompensat, wskazując w szczególności datę wykluczenia.
 
-9. Wprzypadku, októrym mowa wust. 1, Krajowy Depozyt okreÊla zasady i tryb wyp∏aty rekompensat dla inwestorów z tytu∏u us∏ug Êwiadczonych na ich rzecz w zakresie czynnoÊci, o których mowa w art. 69 ust. 2, ust. 3 pkt 1 i 3 oraz ust. 4 pkt 1 i 2, przez zagranicznà firm´ inwestycyjnà prowadzàcà dzia∏alnoÊç maklerskà na terytorium Rzeczypospolitej Polskiej w formie oddzia∏u.
+9. Wprzypadku, októrym mowa wust. 1, Krajowy Depozyt określa zasady i tryb wypłaty rekompensat dla inwestorów z tytułu usług świadczonych na ich rzecz w zakresie czynności, o których mowa w art. 69 ust. 2, ust. 3 pkt 1 i 3 oraz ust. 4 pkt 1 i 2, przez zagraniczną firmę inwestycyjną prowadzącą działalność maklerską na terytorium Rzeczypospolitej Polskiej w formie oddziału.
 
-10. Zasady itryb, októrych mowa wust. 9, sà ustalane w porozumieniu z podmiotem zarzàdzajàcym systemem rekompensat obowiàzujàcym w paƒstwie siedziby zagranicznej firmy inwestycyjnej.
+10. Zasady itryb, októrych mowa wust. 9, są ustalane w porozumieniu z podmiotem zarządzającym systemem rekompensat obowiązującym w państwie siedziby zagranicznej firmy inwestycyjnej.
 
-11. Zasady itryb, októrych mowa wust. 9, powinny w szczególnoÊci zapewniaç:
+11. Zasady itryb, októrych mowa wust. 9, powinny w szczególności zapewniać:
 
-- **1)** mo˝liwoÊç ˝àdania przez Krajowy Depozyt przekazania przez zagranicznà firm´ inwestycyjnà informacji niezb´dnych do prawid∏owego wykonywania obowiàzków wynikajàcych z uczestnictwa w systemie rekompensat oraz mo˝liwoÊç wystàpienia do w∏aÊciwego organu nadzoru wpaƒstwie siedziby tej zagranicznej firmy inwestycyjnej oweryfikacj´ tych informacji;
-- **2)** wyp∏at´ rekompensat w wysokoÊci ró˝nicy mi´dzy wysokoÊcià rekompensat przys∏ugujàcych inwestorom a wysokoÊcià rekompensat wyp∏acanych przez system obowiàzujàcy w paƒstwie siedziby danej zagranicznej firmy inwestycyjnej, po otrzymaniu informacji od w∏aÊciwego organu nadzoru w paƒstwie siedziby danej zagranicznej firmy inwestycyjnej dotyczàcej zdarzeƒ, o których mowa w art. 133 ust. 2;
-- **3)** prawo weryfikacji przez Krajowy Depozyt praw przys∏ugujàcych inwestorom, na rzecz których Êwiadczone sà us∏ugi przez zagranicznà firm´ inwestycyjnà w ramach jej oddzia∏u na terytorium Rzeczypospolitej Polskiej;
+- **1)** możliwość żądania przez Krajowy Depozyt przekazania przez zagraniczną firmę inwestycyjną informacji niezbędnych do prawidłowego wykonywania obowiązków wynikających z uczestnictwa w systemie rekompensat oraz możliwość wystąpienia do właściwego organu nadzoru wpaństwie siedziby tej zagranicznej firmy inwestycyjnej oweryfikację tych informacji;
+- **2)** wypłatę rekompensat w wysokości różnicy między wysokością rekompensat przysługujących inwestorom a wysokością rekompensat wypłacanych przez system obowiązujący w państwie siedziby danej zagranicznej firmy inwestycyjnej, po otrzymaniu informacji od właściwego organu nadzoru w państwie siedziby danej zagranicznej firmy inwestycyjnej dotyczącej zdarzeń, o których mowa w art. 133 ust. 2;
+- **3)** prawo weryfikacji przez Krajowy Depozyt praw przysługujących inwestorom, na rzecz których świadczone są usługi przez zagraniczną firmę inwestycyjną w ramach jej oddziału na terytorium Rzeczypospolitej Polskiej;
 
-12. Zasady itryb, októrych mowa wust. 9, powinny przewidywaç sposób ustalania wysokoÊci rekompensat przys∏ugujàcych z poszczególnych systemów rekompensat inwestorom posiadajàcym roszczenie wzajemne wobec zagranicznej firmy inwestycyjnej prowadzàcej dzia∏alnoÊç maklerskà na terytorium Rzeczypospolitej Polskiej w formie oddzia∏u.
+12. Zasady itryb, októrych mowa wust. 9, powinny przewidywać sposób ustalania wysokości rekompensat przysługujących z poszczególnych systemów rekompensat inwestorom posiadającym roszczenie wzajemne wobec zagranicznej firmy inwestycyjnej prowadzącej działalność maklerską na terytorium Rzeczypospolitej Polskiej w formie oddziału.
 
-13. W zakresie nieuregulowanym przepisami ust.1—12, do uczestnictwa oddzia∏u zagranicznej firmy inwestycyjnej w systemie rekompensat, przepisy niniejszego dzia∏u stosuje si´ odpowiednio.
+13. W zakresie nieuregulowanym przepisami ust.1—12, do uczestnictwa oddziału zagranicznej firmy inwestycyjnej w systemie rekompensat, przepisy niniejszego działu stosuje się odpowiednio.
 
 **Art. 137.**
 
-1. Domy maklerskie, z zastrze˝eniem ust.5 oraz ust. 18—20, wnoszà do systemu rekompensat w ka˝dym roku kalendarzowym obowiàzkowe roczne wp∏aty, zwane dalej „rocznymi wp∏atami”, w wysokoÊci sumy iloczynów:
+1. Domy maklerskie, z zastrzeżeniem ust.5 oraz ust. 18—20, wnoszą do systemu rekompensat w każdym roku kalendarzowym obowiązkowe roczne wpłaty, zwane dalej Ńrocznymi wpłatami”, w wysokości sumy iloczynów:
 
-- **1)** stawki nie wy˝szej ni˝ 0,4 % oraz Êredniego stanu Êrodków pieni´˝nych inwestorów;
-- **2)** stawki nie wy˝szej ni˝ 0,01 % oraz Êredniej wartoÊci maklerskich instrumentów finansowych, z ostatnich 12 miesi´cy, posiadanych przez inwestorów.
+- **1)** stawki nie wyższej niż 0,4 % oraz średniego stanu środków pieniężnych inwestorów;
+- **2)** stawki nie wyższej niż 0,01 % oraz średniej wartości maklerskich instrumentów finansowych, z ostatnich 12 miesięcy, posiadanych przez inwestorów.
 
-2. Przez wartoÊç maklerskich instrumentów finansowych, posiadanych przez inwestorów, rozumie si´ cen´ bie˝àcà ustalonà zgodnie z zasadami zawartymi wprzepisach okreÊlajàcych szczególne zasady rachunkowoÊci domów maklerskich.
+2. Przez wartość maklerskich instrumentów finansowych, posiadanych przez inwestorów, rozumie się cenę bieżącą ustaloną zgodnie z zasadami zawartymi wprzepisach określających szczególne zasady rachunkowości domów maklerskich.
 
-3. Przez Êredni stan Êrodków pieni´˝nych inwestorów rozumie si´ stosunek sumy stanu Êrodków pieni´˝nych inwestorów na poszczególne dni robocze w ciàgu 12 miesi´cy do liczby dni roboczych przypadajàcych w tym okresie.
+3. Przez średni stan środków pieniężnych inwestorów rozumie się stosunek sumy stanu środków pieniężnych inwestorów na poszczególne dni robocze w ciągu 12 miesięcy do liczby dni roboczych przypadających w tym okresie.
 
-4. Przez Êrednià wartoÊç maklerskich instrumentów finansowych posiadanych przez inwestorów rozumie si´ stosunek sumy wartoÊci maklerskich instrumentów finansowych posiadanych przez inwestorów na poszczególne dni robocze w ciàgu 12 miesi´cy do liczby dni roboczych przypadajàcych w tym okresie.
+4. Przez średnią wartość maklerskich instrumentów finansowych posiadanych przez inwestorów rozumie się stosunek sumy wartości maklerskich instrumentów finansowych posiadanych przez inwestorów na poszczególne dni robocze w ciągu 12 miesięcy do liczby dni roboczych przypadających w tym okresie.
 
-- **4)** Êcis∏à wspó∏prac´ mi´dzy Krajowym Depozytem a podmiotem zarzàdzajàcym systemem rekompensat w paƒstwie siedziby zagranicznej firmy inwestycyjnej w celu zapewnienia inwestorom sprawnej wyp∏aty rekompensat w przys∏ugujàcej im wysokoÊci.
+- **4)** ścisłą współpracę między Krajowym Depozytem a podmiotem zarządzającym systemem rekompensat w państwie siedziby zagranicznej firmy inwestycyjnej w celu zapewnienia inwestorom sprawnej wypłaty rekompensat w przysługującej im wysokości.
 
-5. Banki powiernicze wnoszà obowiàzkowo do systemu rekompensat w ka˝dym roku kalendarzowym roczne wp∏aty w wysokoÊci iloczynu stawki, o której mowa w ust. 1 pkt 2, oraz, obliczanej zgodnie z zasadami okreÊlonymi w ust. 2 i 4, Êredniej wartoÊci maklerskich instrumentów finansowych b´dàcych przedmiotem obrotu na rynku zorganizowanym, zostatnich 12 miesi´cy, zapisanych na rachunkach inwestorów.
+5. Banki powiernicze wnoszą obowiązkowo do systemu rekompensat w każdym roku kalendarzowym roczne wpłaty w wysokości iloczynu stawki, o której mowa w ust. 1 pkt 2, oraz, obliczanej zgodnie z zasadami określonymi w ust. 2 i 4, średniej wartości maklerskich instrumentów finansowych będących przedmiotem obrotu na rynku zorganizowanym, zostatnich 12 miesięcy, zapisanych na rachunkach inwestorów.
 
-6. Do celów obliczenia Êredniego stanu Êrodków pieni´˝nych, o którym mowa w ust. 3, oraz Êredniej wartoÊci, októrej mowa wust. 4 i5, nie stosuje si´ wy∏àczenia, októrym mowa wart. 132 ust. 1 pkt 1 lit.s.
+6. Do celów obliczenia średniego stanu środków pieniężnych, o którym mowa w ust. 3, oraz średniej wartości, októrej mowa wust. 4 i5, nie stosuje się wyłączenia, októrym mowa wart. 132 ust. 1 pkt 1 lit.s.
 
-7. WysokoÊç stawek, o których mowa w ust. 1, na kolejny rok kalendarzowy okreÊla iprzekazuje domom maklerskim Krajowy Depozyt, nie póêniej ni˝ do koƒca roku kalendarzowego poprzedzajàcego rok, w którym wp∏ata ma byç wniesiona.
+7. Wysokość stawek, o których mowa w ust. 1, na kolejny rok kalendarzowy określa iprzekazuje domom maklerskim Krajowy Depozyt, nie póêniej niż do końca roku kalendarzowego poprzedzającego rok, w którym wpłata ma być wniesiona.
 
-8. Domy maklerskie wnoszà, z zastrze˝eniem ust. 18—20, roczne wp∏aty w czterech ratach wnoszonych do ostatniego dnia roboczego miesiàca koƒczàcego ka˝dy kwarta∏ kalendarzowy, z tym ˝e raty za pierwszy oraz drugi kwarta∏ sà równe i wnoszone wwysokoÊci okreÊlonej zgodnie zust. 1 i5, zaÊ raty za trzeci oraz czwarty kwarta∏ sà równe iwnoszone wwysokoÊci okreÊlonej zgodnie zust. 1 i5 wed∏ug Êredniego stanu Êrodków pieni´˝nych inwestorów oraz Êredniej wartoÊci maklerskich instrumentów finansowych posiadanych przez inwestorów z drugiego pó∏rocza poprzedniego roku kalendarzowego oraz pierwszego pó∏rocza roku kalendarzowego, w którym wp∏aty sà wnoszone, z zastrze˝eniem ust. 9 i 10.
+8. Domy maklerskie wnoszą, z zastrzeżeniem ust. 18—20, roczne wpłaty w czterech ratach wnoszonych do ostatniego dnia roboczego miesiąca kończącego każdy kwartał kalendarzowy, z tym że raty za pierwszy oraz drugi kwartał są równe i wnoszone wwysokości określonej zgodnie zust. 1 i5, zaś raty za trzeci oraz czwarty kwartał są równe iwnoszone wwysokości określonej zgodnie zust. 1 i5 według średniego stanu środków pieniężnych inwestorów oraz średniej wartości maklerskich instrumentów finansowych posiadanych przez inwestorów z drugiego półrocza poprzedniego roku kalendarzowego oraz pierwszego półrocza roku kalendarzowego, w którym wpłaty są wnoszone, z zastrzeżeniem ust. 9 i 10.
 
-9. W przypadku gdy suma roszczeƒ inwestorów z tytu∏u rekompensat przekroczy wysokoÊç Êrodków zgromadzonych wsystemie rekompensat, wartoÊç nale˝nych, a jeszcze niewp∏aconych rat na poczet rocznych wp∏at za dany rok kalendarzowy wnoszona jest w terminie 7 dni od og∏oszenia przez Krajowy Depozyt, w piÊmie o zasi´gu ogólnokrajowym, wezwania do ich wniesienia przez domy maklerskie.
+9. W przypadku gdy suma roszczeń inwestorów z tytułu rekompensat przekroczy wysokość środków zgromadzonych wsystemie rekompensat, wartość należnych, a jeszcze niewpłaconych rat na poczet rocznych wpłat za dany rok kalendarzowy wnoszona jest w terminie 7 dni od ogłoszenia przez Krajowy Depozyt, w piśmie o zasięgu ogólnokrajowym, wezwania do ich wniesienia przez domy maklerskie.
 
-10. W przypadku gdy suma roszczeƒ inwestorów z tytu∏u rekompensat przekroczy wysokoÊç Êrodków zgromadzonych wsystemie rekompensat inale˝nych, ajeszcze niewp∏aconych rat na poczet rocznych wp∏at za dany rok kalendarzowy, kwota rocznych wp∏at, które powinny zostaç wp∏acone do systemu w tym roku kalendarzowym, mo˝e zostaç podwy˝szona przez zastosowanie stawki nie wy˝szej jednak ni˝ 1,8 %.
+10. W przypadku gdy suma roszczeń inwestorów z tytułu rekompensat przekroczy wysokość środków zgromadzonych wsystemie rekompensat inależnych, ajeszcze niewpłaconych rat na poczet rocznych wpłat za dany rok kalendarzowy, kwota rocznych wpłat, które powinny zostać wpłacone do systemu w tym roku kalendarzowym, może zostać podwyższona przez zastosowanie stawki nie wyższej jednak niż 1,8 %.
 
-11. Minister w∏aÊciwy do spraw instytucji finansowych, po zasi´gni´ciu opinii Komisji i Krajowego Depozytu, dokonuje, w drodze rozporzàdzenia, podwy˝szenia, o którym mowa w ust. 10, oraz okreÊla termin jego p∏atnoÊci, zuwzgl´dnieniem koniecznoÊci zapewnienia realizacji roszczeƒ inwestorów.
+11. Minister właściwy do spraw instytucji finansowych, po zasięgnięciu opinii Komisji i Krajowego Depozytu, dokonuje, w drodze rozporządzenia, podwyższenia, o którym mowa w ust. 10, oraz określa termin jego płatności, zuwzględnieniem konieczności zapewnienia realizacji roszczeń inwestorów.
 
-12. W przypadku opóênienia w dokonaniu wp∏aty którejkolwiek z rat, o których mowa w ust. 8 i 9, lub kwoty okreÊlonej w ust. 11, Krajowemu Depozytowi przys∏uguje roszczenie o zap∏at´ do systemu rekompensat odsetek w wysokoÊci odsetek pobieranych od zaleg∏oÊci podatkowych. Wyciàgi z ksiàg Krajowego Depozytu, podpisane przez upowa˝nionych cz∏onków skim nie wykonuje bàdê nienale˝ycie wykonuje obowiàzki wynikajàce z uczestnictwa w systemie rekompensat, do którego przystàpi∏, Komisja po otrzymaniu od podmiotu zarzàdzajàcego tym systemem informacji o zaistnieniu tych okolicznoÊci wspó∏pracuje z tym podmiotem oraz podejmuje Êrodki, o których mowa w art. 167 ust. 1 lub 2, w zwiàzku z nienale˝ytym wykonywaniem przez oddzia∏ domu maklerskiego obowiàzków wynikajàcych z uczestnictwa w tym systemie.
+12. W przypadku opóênienia w dokonaniu wpłaty którejkolwiek z rat, o których mowa w ust. 8 i 9, lub kwoty określonej w ust. 11, Krajowemu Depozytowi przysługuje roszczenie o zapłatę do systemu rekompensat odsetek w wysokości odsetek pobieranych od zaległości podatkowych. Wyciągi z ksiąg Krajowego Depozytu, podpisane przez upoważnionych członków skim nie wykonuje bądê nienależycie wykonuje obowiązki wynikające z uczestnictwa w systemie rekompensat, do którego przystąpił, Komisja po otrzymaniu od podmiotu zarządzającego tym systemem informacji o zaistnieniu tych okoliczności współpracuje z tym podmiotem oraz podejmuje środki, o których mowa w art. 167 ust. 1 lub 2, w związku z nienależytym wykonywaniem przez oddział domu maklerskiego obowiązków wynikających z uczestnictwa w tym systemie.
 
-15. W przypadku gdy od poinformowania Komisji przez w∏aÊciwy podmiot zarzàdzajàcy systemem rekompensat up∏yn´∏o co najmniej 12 miesi´cy i pomimo podj´cia Êrodków, o których mowa w art. 167 ust. 1 i 2, oddzia∏ domu maklerskiego nie wykonuje lub nienale˝ycie wykonuje obowiàzki wynikajàce z uczestnictwa w systemie rekompensat innego paƒstwa cz∏onkowskiego, Komisja mo˝e, w sytuacji gdy wystàpi o to podmiot zarzàdzajàcy systemem rekompensat tego innego paƒstwa cz∏onkowskiego, udzieliç zgody na wykluczenie oddzia∏u domu maklerskiego z tego systemu.
+15. W przypadku gdy od poinformowania Komisji przez właściwy podmiot zarządzający systemem rekompensat upłynęło co najmniej 12 miesięcy i pomimo podjęcia środków, o których mowa w art. 167 ust. 1 i 2, oddział domu maklerskiego nie wykonuje lub nienależycie wykonuje obowiązki wynikające z uczestnictwa w systemie rekompensat innego państwa członkowskiego, Komisja może, w sytuacji gdy wystąpi o to podmiot zarządzający systemem rekompensat tego innego państwa członkowskiego, udzielić zgody na wykluczenie oddziału domu maklerskiego z tego systemu.
 
-16. Oddzia∏ domu maklerskiego informuje niezw∏ocznie klientów o wykluczeniu z systemu rekompensat innego paƒstwa cz∏onkowskiego, wskazujàc w szczególnoÊci dat´ wykluczenia.
+16. Oddział domu maklerskiego informuje niezwłocznie klientów o wykluczeniu z systemu rekompensat innego państwa członkowskiego, wskazując w szczególności datę wykluczenia.
 
-17. Komisja informuje w∏aÊciwy podmiot zarzàdzajàcy systemem rekompensat winnym paƒstwie cz∏onkowskim, do którego przystàpi∏ oddzia∏ domu maklerskiego, ozaistnieniu jednej zokolicznoÊci, októrej mowa w art. 133 ust. 2.
+17. Komisja informuje właściwy podmiot zarządzający systemem rekompensat winnym państwie członkowskim, do którego przystąpił oddział domu maklerskiego, ozaistnieniu jednej zokoliczności, októrej mowa w art. 133 ust. 2.
 
-18. Obowiàzek wnoszenia rocznych wp∏at do systemu rekompensat przez dom maklerski ulega zawieszeniu, wprzypadku gdy dotychczasowe wp∏aty domu maklerskiego do systemu osiàgnà wysokoÊç okreÊlonà zgodnie z ust. 19. Nie wy∏àcza to obowiàzku dokonania przez dom maklerski wp∏aty do systemu w zwiàzku z podwy˝szeniem stawek, o którym mowa w ust. 10.
+18. Obowiązek wnoszenia rocznych wpłat do systemu rekompensat przez dom maklerski ulega zawieszeniu, wprzypadku gdy dotychczasowe wpłaty domu maklerskiego do systemu osiągną wysokość określoną zgodnie z ust. 19. Nie wyłącza to obowiązku dokonania przez dom maklerski wpłaty do systemu w związku z podwyższeniem stawek, o którym mowa w ust. 10.
 
-19. WysokoÊç powodujàcà zawieszenie wp∏at domu maklerskiego do systemu rekompensat ustala si´ zarzàdu Krajowego Depozytu i opatrzone jego piecz´- odpowiednio, zgodnie z zasadami obliczania wysokocià, stwierdzajàce istnienie zobowiàzania podmiotu Êci rocznych wp∏at, jako dziesi´ciokrotnoÊç stawki, obj´tego systemem rekompensat i zaopatrzone o której mowa w: w oÊwiadczenie, ˝e oparte na nich roszczenia sà wymagalne, majà moc tytu∏ów wykonawczych bez po- 1) ust. 1 pkt 1, wodniesieniu do Êrodków pieni´˝nych trzeby uzyskiwania dla nich klauzul wykonalnoÊci. inwestorów;
+19. Wysokość powodującą zawieszenie wpłat domu maklerskiego do systemu rekompensat ustala się zarządu Krajowego Depozytu i opatrzone jego pieczę- odpowiednio, zgodnie z zasadami obliczania wysokocią, stwierdzające istnienie zobowiązania podmiotu ści rocznych wpłat, jako dziesięciokrotność stawki, objętego systemem rekompensat i zaopatrzone o której mowa w: w oświadczenie, że oparte na nich roszczenia są wymagalne, mają moc tytułów wykonawczych bez po- 1) ust. 1 pkt 1, wodniesieniu do środków pieniężnych trzeby uzyskiwania dla nich klauzul wykonalności. inwestorów;
 
-13. Wprzypadku gdy dom maklerski nie wykonuje 2) ust. 1 pkt 2, w odniesieniu do maklerskich instrubàdê nienale˝ycie wykonuje obowiàzki wynikajàce mentów finansowych inwestorów. z uczestnictwa w systemie rekompensat, Krajowy Depozyt niezw∏ocznie informuje o tym Komisj´. Komisja 20. W przypadku przekroczenia wysokoÊci wniepodejmuje Êrodki, o których mowa w art. 167 ust. 1 lub 2, wzwiàzku znienale˝ytym wykonywaniem przez dom maklerski obowiàzków wynikajàcych zuczestnictwa w systemie rekompensat.
+13. Wprzypadku gdy dom maklerski nie wykonuje 2) ust. 1 pkt 2, w odniesieniu do maklerskich instrubądê nienależycie wykonuje obowiązki wynikające mentów finansowych inwestorów. z uczestnictwa w systemie rekompensat, Krajowy Depozyt niezwłocznie informuje o tym Komisję. Komisja 20. W przypadku przekroczenia wysokości wniepodejmuje środki, o których mowa w art. 167 ust. 1 lub 2, wzwiązku znienależytym wykonywaniem przez dom maklerski obowiązków wynikających zuczestnictwa w systemie rekompensat.
 
-14. W przypadku gdy oddzia∏ domu maklerskiego prowadzàcy dzia∏alnoÊç w innym paƒstwie cz∏onkowsionych rocznych wp∏at do systemu rekompensat Krajowy Depozyt zwraca domowi maklerskiemu nadwy˝k´ wniesionych wp∏at. Zwrotu nadwy˝ki nie dokonuje si´ w przypadku, gdy nadwy˝ka ta jest skutkiem zaprzestania prowadzenia przez dom maklerski dzia∏alnoÊci, zktórà wià˝e si´ obowiàzek wnoszenia wp∏at do systemu.
+14. W przypadku gdy oddział domu maklerskiego prowadzący działalność w innym państwie członkowsionych rocznych wpłat do systemu rekompensat Krajowy Depozyt zwraca domowi maklerskiemu nadwyżkę wniesionych wpłat. Zwrotu nadwyżki nie dokonuje się w przypadku, gdy nadwyżka ta jest skutkiem zaprzestania prowadzenia przez dom maklerski działalności, zktórą wiąże się obowiązek wnoszenia wpłat do systemu.
 
-21. Przepisów ust. 18—20 nie stosuje si´ w przypadku, gdy z systemu rekompensat dokonano wyp∏at na rzecz inwestorów do czasu, gdy wartoÊç aktywów systemu rekompensat osiàgnie poziom wymagany przepisami prawa.
+21. Przepisów ust. 18—20 nie stosuje się w przypadku, gdy z systemu rekompensat dokonano wypłat na rzecz inwestorów do czasu, gdy wartość aktywów systemu rekompensat osiągnie poziom wymagany przepisami prawa.
 
 **Art. 138.**
 
-1. Ârodki wniesione przez domy maklerskie tytu∏em rocznych wp∏at iodsetki, októrych mowa wart. 137 ust. 12, atak˝e po˝ytki uzyskane ztytu∏u zarzàdzania tymi Êrodkami, stanowià wspó∏w∏asnoÊç ∏àcznà uczestników systemu. Wprzypadku zwolnienia zuczestnictwa wsystemie rekompensat, domowi maklerskiemu zwracany jest udzia∏ we wspó∏w∏asnoÊci, w wysokoÊci, która przys∏ugiwa∏aby domowi maklerskiemu w przypadku jej ustania. Udzia∏ jest zwracany, je˝eli w okresie wskazanym w regulaminie funkcjonowania systemu rekompensat nie ujawnià si´ okolicznoÊci stanowiàce podstaw´ dokonania wyp∏at rekompensat inwestorom b´dàcym klientami tego domu maklerskiego.
+1. Ârodki wniesione przez domy maklerskie tytułem rocznych wpłat iodsetki, októrych mowa wart. 137 ust. 12, atakże pożytki uzyskane ztytułu zarządzania tymi środkami, stanowią współwłasność łączną uczestników systemu. Wprzypadku zwolnienia zuczestnictwa wsystemie rekompensat, domowi maklerskiemu zwracany jest udział we współwłasności, w wysokości, która przysługiwałaby domowi maklerskiemu w przypadku jej ustania. Udział jest zwracany, jeżeli w okresie wskazanym w regulaminie funkcjonowania systemu rekompensat nie ujawnią się okoliczności stanowiące podstawę dokonania wypłat rekompensat inwestorom będącym klientami tego domu maklerskiego.
 
-2. W zwiàzku z uczestnictwem w systemie rekompensat domy maklerskie tworzà, w ci´˝ar kosztów, resiada∏ Êrodki, o których mowa w art. 133 ust. 2, lub z ilu wierzytelnoÊci przys∏ugujà mu nale˝noÊci w danym domu maklerskim.
+2. W związku z uczestnictwem w systemie rekompensat domy maklerskie tworzą, w ciężar kosztów, resiadał środki, o których mowa w art. 133 ust. 2, lub z ilu wierzytelności przysługują mu należności w danym domu maklerskim.
 
-5. Wprzypadku gdy maklerskie instrumenty finansowe i Êrodki pieni´˝ne sà przedmiotem wspó∏w∏asnoÊci, ka˝demu ze wspó∏w∏aÊcicieli przys∏uguje wobec systemu roszczenie w wysokoÊci proporcjonalnej do posiadanego udzia∏u, lecz nie wi´cej ni˝ wwysokoÊci okreÊlonej wust. 1 i2. Wprzypadku wspó∏w∏asnoÊci ∏àcznej wysokoÊç udzia∏u okreÊlajà przepisy odnoszàce si´ do tej wspó∏w∏asnoÊci w przypadku jej ustania.
+5. Wprzypadku gdy maklerskie instrumenty finansowe i środki pieniężne są przedmiotem współwłasności, każdemu ze współwłaścicieli przysługuje wobec systemu roszczenie w wysokości proporcjonalnej do posiadanego udziału, lecz nie więcej niż wwysokości określonej wust. 1 i2. Wprzypadku współwłasności łącznej wysokość udziału określają przepisy odnoszące się do tej współwłasności w przypadku jej ustania.
 
-6. Rekompensaty sà p∏atne wed∏ug terminarza wyp∏at nie póêniej jednak ni˝ w terminie 3 miesi´cy od dnia zatwierdzenia tego terminarza przez Krajowy Depozyt.
+6. Rekompensaty są płatne według terminarza wypłat nie póêniej jednak niż w terminie 3 miesięcy od dnia zatwierdzenia tego terminarza przez Krajowy Depozyt.
 
-7. W przypadku wystàpienia szczególnie uzasadnionych okolicznoÊci uniemo˝liwiajàcych wyp∏at´ rekompensat w terminie 3 miesi´cy, Komisja mo˝e, na wniosek Krajowego Depozytu, przed∏u˝yç termin wyzerwy do wysokoÊci wp∏at wniesionych do systemu. p∏at, nie d∏u˝ej jednak ni˝ o kolejne 3 miesiàce. W przypadku zwrotu nadwy˝ki wniesionych wp∏at dom maklerski zmniejsza utworzonà rezerw´ o wyso- 8. Krajowy Depozyt sk∏ada wniosek, o którym mokoÊç nadwy˝ki. wa w ust. 7, nie póêniej ni˝ na 14 dni przed up∏ywem terminu wyp∏at rekompensat.
+7. W przypadku wystąpienia szczególnie uzasadnionych okoliczności uniemożliwiających wypłatę rekompensat w terminie 3 miesięcy, Komisja może, na wniosek Krajowego Depozytu, przedłużyć termin wyzerwy do wysokości wpłat wniesionych do systemu. płat, nie dłużej jednak niż o kolejne 3 miesiące. W przypadku zwrotu nadwyżki wniesionych wpłat dom maklerski zmniejsza utworzoną rezerwę o wyso- 8. Krajowy Depozyt składa wniosek, o którym mokość nadwyżki. wa w ust. 7, nie póêniej niż na 14 dni przed upływem terminu wypłat rekompensat.
 
-3. Ârodki wniesione przez dom maklerski tytu∏em rocznych wp∏at, odsetki, o których mowa w art. 137 9. Roszczenia z tytu∏u rekompensaty przedawniajà ust. 12, a tak˝e po˝ytki uzyskane z tytu∏u zarzàdzania si´ z up∏ywem 10 lat od dnia zaistnienia okolicznoÊci tymi Êrodkami, nie podlegajà egzekucji prowadzonej stanowiàcej podstaw´ do wyp∏at rekompensat. z majàtku uczestnika systemu.
+3. Ârodki wniesione przez dom maklerski tytułem rocznych wpłat, odsetki, o których mowa w art. 137 9. Roszczenia z tytułu rekompensaty przedawniają ust. 12, a także pożytki uzyskane z tytułu zarządzania się z upływem 10 lat od dnia zaistnienia okoliczności tymi środkami, nie podlegają egzekucji prowadzonej stanowiącej podstawę do wypłat rekompensat. z majątku uczestnika systemu.
 
 10. Inwestor zachowuje prawo do dochodzenia od
 
 **Art. 139.**
 
-1. System rekompensat zabezpiecza wy- masy upad∏oÊci lub domu maklerskiego swoich roszp∏at´ Êrodków inwestorów, októrych mowa wart. 133 czeƒ ponad kwot´ okreÊlonà w ust. 1 i 2. ust. 2, pomniejszonych o nale˝noÊci domu maklerskiego od inwestora ztytu∏u Êwiadczonych us∏ug, we- Art. 140. 1. Syndyk lub zarzàdca jest obowiàzany, d∏ug stanu z dnia zaistnienia jednej z okolicznoÊci, wterminie 30 dni od dnia og∏oszenia upad∏oÊci domu o której mowa w art. 133 ust. 2, do wysokoÊci równo- maklerskiego, ustaliç na podstawie ksiàg tego domu wartoÊci w z∏otych 3 000 euro w 100 % wartoÊci maklerskiego i przedstawiç w formie pisemnej KrajoÊrodków obj´tych systemem rekompensat, oraz 90 % wemu Depozytowi: nadwy˝ki ponad t´ kwot´, z tym ˝e górna granica 1) list´ inwestorów uprawnionych do otrzymania reÊrodków obj´tych systemem rekompensat wynosi kompensat, wraz z wyszczególnieniem kwot ÊrodrównowartoÊç w z∏otych 22 000 euro, z zastrze˝eniem ków, za które przys∏uguje rekompensata; ust. 2.
+1. System rekompensat zabezpiecza wy- masy upadłości lub domu maklerskiego swoich roszpłatę środków inwestorów, októrych mowa wart. 133 czeń ponad kwotę określoną w ust. 1 i 2. ust. 2, pomniejszonych o należności domu maklerskiego od inwestora ztytułu świadczonych usług, we- Art. 140. 1. Syndyk lub zarządca jest obowiązany, dług stanu z dnia zaistnienia jednej z okoliczności, wterminie 30 dni od dnia ogłoszenia upadłości domu o której mowa w art. 133 ust. 2, do wysokości równo- maklerskiego, ustalić na podstawie ksiąg tego domu wartości w złotych 3 000 euro w 100 % wartości maklerskiego i przedstawić w formie pisemnej Krajośrodków objętych systemem rekompensat, oraz 90 % wemu Depozytowi: nadwyżki ponad tę kwotę, z tym że górna granica 1) listę inwestorów uprawnionych do otrzymania reśrodków objętych systemem rekompensat wynosi kompensat, wraz z wyszczególnieniem kwot środrównowartość w złotych 22 000 euro, z zastrzeżeniem ków, za które przysługuje rekompensata; ust. 2.
 
-- **2)** kwot´ p∏ynnych Êrodków domu maklerskiego
+- **2)** kwotę płynnych środków domu maklerskiego
 
-2. Górna granica Êrodków obj´tych systemem re- wchodzàcych wsk∏ad masy upad∏oÊci wed∏ug stakompensat wynosi: nu na dzieƒ og∏oszenia upad∏oÊci;
+2. Górna granica środków objętych systemem re- wchodzących wskład masy upadłości według stakompensat wynosi: nu na dzień ogłoszenia upadłości;
 
-- **1)** równowartoÊç w z∏otych 15 000 euro od dnia 3) wysokoÊç wydatków zwiàzanych z wyp∏atà wyna1 stycznia 2006 r. do dnia 31 grudnia 2006 r.; grodzeƒ pracownikom upad∏ego domu maklerskiego i wysokoÊç bie˝àcych wydatków zwiàza2) równowartoÊç w z∏otych 19 000 euro od dnia nych z kosztami post´powania upad∏oÊciowego, 1 stycznia 2007 r. do dnia 31 grudnia 2007 r. poniesionych do dnia sporzàdzenia listy inwestorów, powi´kszonà o wysokoÊç niezb´dnych wy3. Do obliczenia wartoÊci euro w z∏otych przyjmu- datków zwiàzanych z wyp∏atà rekompensat, wraz je si´ kurs Êredni Narodowego Banku Polskiego, zgod- z aktualnà wysokoÊcià Êrodków p∏ynnych domu nie zog∏aszanà tabelà kursowà, zdnia zaistnienia oko- maklerskiego znajdujàcych si´ w dyspozycji synlicznoÊci stanowiàcej podstaw´ do wyp∏at rekompen- dyka lub zarzàdcy; sat.
-- **4)** terminarz wyp∏at.
+- **1)** równowartość w złotych 15 000 euro od dnia 3) wysokość wydatków związanych z wypłatą wyna1 stycznia 2006 r. do dnia 31 grudnia 2006 r.; grodzeń pracownikom upadłego domu maklerskiego i wysokość bieżących wydatków związa2) równowartość w złotych 19 000 euro od dnia nych z kosztami postępowania upadłościowego, 1 stycznia 2007 r. do dnia 31 grudnia 2007 r. poniesionych do dnia sporządzenia listy inwestorów, powiększoną o wysokość niezbędnych wy3. Do obliczenia wartości euro w złotych przyjmu- datków związanych z wypłatą rekompensat, wraz je się kurs średni Narodowego Banku Polskiego, zgod- z aktualną wysokością środków płynnych domu nie zogłaszaną tabelą kursową, zdnia zaistnienia oko- maklerskiego znajdujących się w dyspozycji synliczności stanowiącej podstawę do wypłat rekompen- dyka lub zarządcy; sat.
+- **4)** terminarz wypłat.
 
-4. Kwoty, o których mowa w ust. 1 i 2, okreÊlajà maksymalnà wysokoÊç roszczeƒ inwestora niezale˝- 2. Krajowy Depozyt, w terminie 14 dni, sprawdza nie od tego, wjakiej wysokoÊci ina ilu rachunkach po- przedstawionà przez syndyka lub zarzàdc´ list´ inwestorów, wyliczenie kwot rekompensat pod wzgl´dem zgodnoÊci z ustawà i wymaganiami okreÊlonymi w ust. 1 pkt 1 oraz terminarz wyp∏at, o którym mowa w ust. 1 pkt 4.
+4. Kwoty, o których mowa w ust. 1 i 2, określają maksymalną wysokość roszczeń inwestora niezależ- 2. Krajowy Depozyt, w terminie 14 dni, sprawdza nie od tego, wjakiej wysokości ina ilu rachunkach po- przedstawioną przez syndyka lub zarządcę listę inwestorów, wyliczenie kwot rekompensat pod względem zgodności z ustawą i wymaganiami określonymi w ust. 1 pkt 1 oraz terminarz wypłat, o którym mowa w ust. 1 pkt 4.
 
-3. W przypadku powstania uzasadnionych wàtpliwoÊci co do podanej przez syndyka lub zarzàdc´ wysokoÊci wydatków okreÊlonych wust. 1 pkt 3, Krajowy Depozyt zwraca si´ do s´dziego-komisarza o zatwierdzenie wydatków wtrybie art. 168 ustawy zdnia 28 lutego 2003 r. Prawo upad∏oÊciowe i naprawcze (Dz.U. 60, poz. 535, z póên. zm. ), co nie wstrzymuje powzi´cia przez Krajowy Depozyt uchwa∏y o przekazaniu kwot na wyp∏at´ rekompensat.
+3. W przypadku powstania uzasadnionych wątpliwości co do podanej przez syndyka lub zarządcę wysokości wydatków określonych wust. 1 pkt 3, Krajowy Depozyt zwraca się do sędziego-komisarza o zatwierdzenie wydatków wtrybie art. 168 ustawy zdnia 28 lutego 2003 r. Prawo upadłościowe i naprawcze (Dz.U. 60, poz. 535, z póên. zm. ), co nie wstrzymuje powzięcia przez Krajowy Depozyt uchwały o przekazaniu kwot na wypłatę rekompensat.
 
-4. Je˝eli Krajowy Depozyt stwierdzi, ˝e lista inwestorów nie odpowiada warunkom okreÊlonym wust. 1 pkt 1, odmawia jej przyj´cia izwraca jà syndykowi lub zarzàdcy, o czym niezw∏ocznie powiadamia s´dziego-komisarza.
+4. Jeżeli Krajowy Depozyt stwierdzi, że lista inwestorów nie odpowiada warunkom określonym wust. 1 pkt 1, odmawia jej przyjęcia izwraca ją syndykowi lub zarządcy, o czym niezwłocznie powiadamia sędziego-komisarza.
 
-5. Syndyk lub zarzàdca jest obowiàzany do usuni´cia braków wskazanych przez Krajowy Depozyt w terminie nie d∏u˝szym ni˝ 7 dni.
+5. Syndyk lub zarządca jest obowiązany do usunięcia braków wskazanych przez Krajowy Depozyt w terminie nie dłuższym niż 7 dni.
 
-6. Po ustaleniu listy wierzytelnoÊci przez syndyka, nadzorc´ sàdowego lub zarzàdc´ lub po stwierdzeniu wierzytelnoÊci prawomocnym orzeczeniem sàdu, list´, o której mowa w ust. 1 pkt 1, uzupe∏nia si´ o wierzytelnoÊci inwestorów nieobj´te tà listà.
+6. Po ustaleniu listy wierzytelności przez syndyka, nadzorcę sądowego lub zarządcę lub po stwierdzeniu wierzytelności prawomocnym orzeczeniem sądu, listę, o której mowa w ust. 1 pkt 1, uzupełnia się o wierzytelności inwestorów nieobjęte tą listą.
 
-7. Przepisy ust. 1—6 nie wy∏àczajà uprawnienia inwestora do zg∏aszania do Krajowego Depozytu roszczeƒ z tytu∏u rekompensat nieobj´tych listà, o której mowa w ust. 1 pkt 1.
+7. Przepisy ust. 1—6 nie wyłączają uprawnienia inwestora do zgłaszania do Krajowego Depozytu roszczeń z tytułu rekompensat nieobjętych listą, o której mowa w ust. 1 pkt 1.
 
 **Art. 141.**
 
-1. Zarzàd Krajowego Depozytu, w terminie 7 dni od dnia przyj´cia listy, o której mowa w art.140 ust. 1 pkt 1, podejmuje i podaje do publicznej wiadomoÊci, wdrodze og∏oszenia wdwóch dziennikach o zasi´gu ogólnopolskim, uchwa∏´ o przekazaniu syndykowi lub zarzàdcy kwot na wyp∏at´ rekompensat, z zastrze˝eniem ust. 3.
+1. Zarząd Krajowego Depozytu, w terminie 7 dni od dnia przyjęcia listy, o której mowa w art.140 ust. 1 pkt 1, podejmuje i podaje do publicznej wiadomości, wdrodze ogłoszenia wdwóch dziennikach o zasięgu ogólnopolskim, uchwałę o przekazaniu syndykowi lub zarządcy kwot na wypłatę rekompensat, z zastrzeżeniem ust. 3.
 
-2. Uchwa∏a, o której mowa w ust. 1, okreÊla:
+2. Uchwała, o której mowa w ust. 1, określa:
 
-- **1)** kwot´ Êrodków przekazywanych syndykowi lub zarzàdcy na wyp∏at´ rekompensat, stanowiàcà ró˝nic´ sumy nale˝nych inwestorom rekompensat i Êrodków p∏ynnych domu maklerskiego, pomniejszonych owydatki okreÊlone wart. 140 ust. 1 pkt 3;
-- **2)** sposób dokonywania przez syndyka lub zarzàdc´ wyp∏at rekompensat, w tym terminy i miejsce dokonywania wyp∏at.
+- **1)** kwotę środków przekazywanych syndykowi lub zarządcy na wypłatę rekompensat, stanowiącą różnicę sumy należnych inwestorom rekompensat i środków płynnych domu maklerskiego, pomniejszonych owydatki określone wart. 140 ust. 1 pkt 3;
+- **2)** sposób dokonywania przez syndyka lub zarządcę wypłat rekompensat, w tym terminy i miejsce dokonywania wypłat.
 
-3. W kwocie na wyp∏at´ rekompensat uwzgl´dnia si´ w ca∏oÊci udzia∏ w systemie, jaki przys∏uguje do4. Kwoty na wyp∏at´ rekompensat, przekazane na podstawie uchwa∏y zarzàdu Krajowego Depozytu syndykowi lub zarzàdcy, nie wchodzà do masy upad∏oÊci i nie mogà byç wykorzystane przez syndyka lub zarzàdc´ na ˝aden inny cel ni˝ wyp∏ata rekompensat.
+3. W kwocie na wypłatę rekompensat uwzględnia się w całości udział w systemie, jaki przysługuje do4. Kwoty na wypłatę rekompensat, przekazane na podstawie uchwały zarządu Krajowego Depozytu syndykowi lub zarządcy, nie wchodzą do masy upadłości i nie mogą być wykorzystane przez syndyka lub zarządcę na żaden inny cel niż wypłata rekompensat.
 
-**Art. 142.** Z tytu∏u przekazania Êrodków syndykowi lub zarzàdcy, Krajowemu Depozytowi przys∏uguje roszczenie do masy upad∏oÊci o zwrot do systemu rekompensat przekazanych kwot, które ulegajà zaspokojeniu w kategorii pierwszej, o której mowa w art. 342 ust. 1 pkt 1 ustawy z dnia 28 lutego 2003 r. Prawo upad∏oÊciowe i naprawcze, bezpoÊrednio po kosztach post´powania oraz po zaspokojeniu nale˝noÊci za prac´. Art. 343 ust. 1 zdanie pierwsze tej ustawy stosuje si´ odpowiednio. Roszczenie o zwrot nie obejmuje jednak tej cz´Êci przekazanej kwoty, jaka odpowiada udzia∏owi w systemie rekompensat domu maklerskiego w stanie upad∏oÊci.
+**Art. 142.** Z tytułu przekazania środków syndykowi lub zarządcy, Krajowemu Depozytowi przysługuje roszczenie do masy upadłości o zwrot do systemu rekompensat przekazanych kwot, które ulegają zaspokojeniu w kategorii pierwszej, o której mowa w art. 342 ust. 1 pkt 1 ustawy z dnia 28 lutego 2003 r. Prawo upadłościowe i naprawcze, bezpośrednio po kosztach postępowania oraz po zaspokojeniu należności za pracę. Art. 343 ust. 1 zdanie pierwsze tej ustawy stosuje się odpowiednio. Roszczenie o zwrot nie obejmuje jednak tej części przekazanej kwoty, jaka odpowiada udziałowi w systemie rekompensat domu maklerskiego w stanie upadłości.
 
 **Art. 143.**
 
-1. Syndyk lub zarzàdca jest obowiàzany do dokonywania wyp∏at rekompensat na warunkach okreÊlonych ustawà oraz wuchwale zarzàdu Krajowego Depozytu, októrej mowa wart. 141 ust. 1, zgodnie z terminarzem wyp∏at.
+1. Syndyk lub zarządca jest obowiązany do dokonywania wypłat rekompensat na warunkach określonych ustawą oraz wuchwale zarządu Krajowego Depozytu, októrej mowa wart. 141 ust. 1, zgodnie z terminarzem wypłat.
 
-2. Po zakoƒczeniu wyp∏at syndyk lub zarzàdca dokonuje rozliczenia wyp∏aconych kwot i sporzàdza sprawozdanie, które przekazuje Krajowemu Depozytowi w terminie 21 dni od dnia zakoƒczenia wyp∏at. Wtym terminie syndyk lub zarzàdca przekazuje Krajowemu Depozytowi, zwracane do systemu rekompensat, kwoty niewyp∏acone inwestorom oraz odsetki naliczone od kwoty przekazanej przez Krajowy Depozyt na wyp∏at´ rekompensat przez bank prowadzàcy rachunek, na który wp∏acono t´ kwot´.
+2. Po zakończeniu wypłat syndyk lub zarządca dokonuje rozliczenia wypłaconych kwot i sporządza sprawozdanie, które przekazuje Krajowemu Depozytowi w terminie 21 dni od dnia zakończenia wypłat. Wtym terminie syndyk lub zarządca przekazuje Krajowemu Depozytowi, zwracane do systemu rekompensat, kwoty niewypłacone inwestorom oraz odsetki naliczone od kwoty przekazanej przez Krajowy Depozyt na wypłatę rekompensat przez bank prowadzący rachunek, na który wpłacono tę kwotę.
 
-3. Krajowy Depozyt sprawuje kontrol´ przestrzegania przez syndyka lub zarzàdc´ domu maklerskiego warunków wyp∏at rekompensat, okreÊlonych w ustawie oraz w uchwale zarzàdu Krajowego Depozytu, o której mowa w art. 141 ust. 1.
+3. Krajowy Depozyt sprawuje kontrolę przestrzegania przez syndyka lub zarządcę domu maklerskiego warunków wypłat rekompensat, określonych w ustawie oraz w uchwale zarządu Krajowego Depozytu, o której mowa w art. 141 ust. 1.
 
-4. O nieprawid∏owoÊciach ujawnionych w toku kontroli Krajowy Depozyt zawiadamia s´dziego-komisarza, wzywajàc syndyka lub zarzàdc´ do ich usuni´mowi maklerskiemu w stanie upad∏oÊci. cia.
+4. O nieprawidłowościach ujawnionych w toku kontroli Krajowy Depozyt zawiadamia sędziego-komisarza, wzywając syndyka lub zarządcę do ich usunięmowi maklerskiemu w stanie upadłości. cia.
 
 **Art. 144.**
 
-1. WierzytelnoÊci przys∏ugujàce inwestorowi w stosunku do masy upad∏oÊci, w wysokoÊci kwot wyp∏aconych z tytu∏u rekompensat przechodzà z mocy prawa na Krajowy Depozyt, który realizuje je na rzecz systemu rekompensat.
+1. Wierzytelności przysługujące inwestorowi w stosunku do masy upadłości, w wysokości kwot wypłaconych z tytułu rekompensat przechodzą z mocy prawa na Krajowy Depozyt, który realizuje je na rzecz systemu rekompensat.
 
-2. Kwoty zwrócone Krajowemu Depozytowi przez syndyka lub zarzàdc´ w trybie okreÊlonym w art. 143 ust. 2 nie zmniejszajà wierzytelnoÊci Krajowego Depozytu do masy upad∏oÊci z tytu∏u przekazania Êrodków pieni´˝nych na wyp∏at´ rekompensat.
+2. Kwoty zwrócone Krajowemu Depozytowi przez syndyka lub zarządcę w trybie określonym w art. 143 ust. 2 nie zmniejszają wierzytelności Krajowego Depozytu do masy upadłości z tytułu przekazania środków pieniężnych na wypłatę rekompensat.
 
 **Art. 145.**
 
-1. W przypadku gdy nastàpi prawomocne oddalenie wniosku o og∏oszenie upad∏oÊci ze wzgl´du na to, ˝e majàtek domu maklerskiego nie wystarcza na zaspokojenie kosztów post´powania, albo gdy nastàpi ustanowienie zarzàdu w∏asnego, o którym mowa wart. 76 ust. 1 ustawy zdnia 28 lutego 2003 r. Prawo upad∏oÊciowe i naprawcze, do ca∏oÊci majàtku domu maklerskiego, albo stwierdzenie przez Komisj´ zaistnienia okolicznoÊci, októrej mowa wart. 133 ust. 2 pkt 3:
+1. W przypadku gdy nastąpi prawomocne oddalenie wniosku o ogłoszenie upadłości ze względu na to, że majątek domu maklerskiego nie wystarcza na zaspokojenie kosztów postępowania, albo gdy nastąpi ustanowienie zarządu własnego, o którym mowa wart. 76 ust. 1 ustawy zdnia 28 lutego 2003 r. Prawo upadłościowe i naprawcze, do całości majątku domu maklerskiego, albo stwierdzenie przez Komisję zaistnienia okoliczności, októrej mowa wart. 133 ust. 2 pkt 3:
 
-- **1)** czynnoÊci, o których mowa w art. 140 ust. 1 i ust.5, art. 141 ust. 4 i art. 143 ust. 1 i 2, dokonywane przez syndyka lub zarzàdc´, wykonuje zarzàd uczestnika systemu rekompensat, komplementariusze uczestnika systemu, o którym mowa wart. 95 ust. 1 pkt 2 i4, albo osoby uprawnione do reprezentowania uczestnika systemu, o którym mowa w art. 95 ust. 1 pkt 5 i 6;
-- **2)** przepisy art. 140 ust. 2—4 i ust. 6—7, art. 141 ust.1—3, art. 142, art. 143 ust. 3 i 4 oraz art. 144 stosuje si´ odpowiednio.
+- **1)** czynności, o których mowa w art. 140 ust. 1 i ust.5, art. 141 ust. 4 i art. 143 ust. 1 i 2, dokonywane przez syndyka lub zarządcę, wykonuje zarząd uczestnika systemu rekompensat, komplementariusze uczestnika systemu, o którym mowa wart. 95 ust. 1 pkt 2 i4, albo osoby uprawnione do reprezentowania uczestnika systemu, o którym mowa w art. 95 ust. 1 pkt 5 i 6;
+- **2)** przepisy art. 140 ust. 2—4 i ust. 6—7, art. 141 ust.1—3, art. 142, art. 143 ust. 3 i 4 oraz art. 144 stosuje się odpowiednio.
 
-2. W przypadku og∏oszenia upad∏oÊci domu maklerskiego z mo˝liwoÊcià zawarcia uk∏adu, wierzytelnoÊci inwestorów wobec upad∏ego z tytu∏u us∏ug Êwiadczonych na ich rzecz wzakresie czynnoÊci, októrych mowa w art. 69 ust. 2, ust. 3 pkt 1 i 3 oraz ust. 4 pkt 1 i2, do wysokoÊci przys∏ugujàcych im rekompen3) dane o sytuacji majàtkowej strony umowy, w tym oznaczenie rachunku papierów wartoÊciowych, innego rachunku, na którym zapisywane sà instrumenty finansowe nieb´dàce papierami wartoÊciowymi, lub rachunku pieni´˝nego s∏u˝àcego do obs∏ugi tych rachunków, liczb´ i oznaczenie instrumentów finansowych, oraz wartoÊç Êrodków zgromadzonych na tych rachunkach.
+2. W przypadku ogłoszenia upadłości domu maklerskiego z możliwością zawarcia układu, wierzytelności inwestorów wobec upadłego z tytułu usług świadczonych na ich rzecz wzakresie czynności, októrych mowa w art. 69 ust. 2, ust. 3 pkt 1 i 3 oraz ust. 4 pkt 1 i2, do wysokości przysługujących im rekompen3) dane o sytuacji majątkowej strony umowy, w tym oznaczenie rachunku papierów wartościowych, innego rachunku, na którym zapisywane są instrumenty finansowe niebędące papierami wartościowymi, lub rachunku pieniężnego służącego do obsługi tych rachunków, liczbę i oznaczenie instrumentów finansowych, oraz wartość środków zgromadzonych na tych rachunkach.
 
 **Art. 148.**
 
-1. Do zachowania tajemnicy zawodowej sà obowiàzani:
+1. Do zachowania tajemnicy zawodowej są obowiązani:
 
 - **1)** maklerzy i doradcy;
-- **2)** osoby wchodzàce w sk∏ad statutowych organów:
+- **2)** osoby wchodzące w skład statutowych organów:
     - **a)** firmy inwestycyjnej,
-    - **b)** podmiotu wykonujàcego czynnoÊci, o których mowa w art. 71,
+    - **b)** podmiotu wykonującego czynności, o których mowa w art. 71,
     - **c)** banku powierniczego,
-    - **d)** towarowego domu maklerskiego, który wykonuje czynnoÊci zwiàzane z obrotem instrumentami finansowymi nieb´dàcymi papierami warsat, nie sà obj´te uk∏adem, a w g∏osowaniu nad uk∏adem, obok innych wierzycieli, mogà braç udzia∏ jedynie inwestorzy, których wierzytelnoÊci wobec upad∏ego sà wy˝sze od przys∏ugujàcych im rekompensat, i tylko w zakresie tej nadwy˝ki.
+    - **d)** towarowego domu maklerskiego, który wykonuje czynności związane z obrotem instrumentami finansowymi niebędącymi papierami warsat, nie są objęte układem, a w głosowaniu nad układem, obok innych wierzycieli, mogą brać udział jedynie inwestorzy, których wierzytelności wobec upadłego są wyższe od przysługujących im rekompensat, i tylko w zakresie tej nadwyżki.
 
 **Art. 146.**
 
-1. Krajowy Depozyt sk∏ada Komisji corocznie sprawozdanie z dzia∏alnoÊci systemu rekompensat za rok poprzedni, nie póêniej ni˝ w terminie 3 miesi´cy od dnia koƒczàcego poprzedni rok obrotowy.
+1. Krajowy Depozyt składa Komisji corocznie sprawozdanie z działalności systemu rekompensat za rok poprzedni, nie póêniej niż w terminie 3 miesięcy od dnia kończącego poprzedni rok obrotowy.
 
-2. Sprawozdanie z dzia∏alnoÊci systemu rekompensat podlega zbadaniu przez podmiot uprawniony do badania sprawozdaƒ finansowych. DZIA¸ VI Dost´p do informacji o szczególnym charakterze Rozdzia∏ 1 Tajemnica zawodowa
+2. Sprawozdanie z działalności systemu rekompensat podlega zbadaniu przez podmiot uprawniony do badania sprawozdań finansowych. DZIAĘ VI Dostęp do informacji o szczególnym charakterze
 
-**Art. 147.** Tajemnica zawodowa obejmuje informacj´ uzyskanà, przez osob´ wymienionà w art. 148 ust.1, w zwiàzku z podejmowanymi czynnoÊciami s∏u˝bowymi w ramach zatrudnienia, stosunku zlecenia lub innego stosunku prawnego o podobnym charakterze, dotyczàcà chronionych prawem interesów podmiotów dokonujàcych czynnoÊci zwiàzanych zobrotem instrumentami finansowymi, lub innych czynnoÊci w ramach regulowanej ustawà dzia∏alnoÊci obj´tej nadzorem Komisji lub zagranicznego organu nadzoru, jak równie˝ dotyczàcà czynnoÊci podejmowanych w ramach wykonywania tego nadzoru, w szczególnoÊci informacj´ zawierajàcà:
+#### Rozdział 1 Tajemnica zawodowa
 
-**Art. 149.** Zzastrze˝eniem art. 150—153 oraz art. 20, art. 21, art. 23 i art. 25 ustawy o nadzorze, informacje stanowiàce tajemnic´ zawodowà, b´dàce w posiadaniu osób fizycznych wymienionych wart. 148 ust. 1, sà ujawniane wy∏àcznie na ˝àdanie:
+**Art. 147.** Tajemnica zawodowa obejmuje informację uzyskaną, przez osobę wymienioną w art. 148 ust.1, w związku z podejmowanymi czynnościami służbowymi w ramach zatrudnienia, stosunku zlecenia lub innego stosunku prawnego o podobnym charakterze, dotyczącą chronionych prawem interesów podmiotów dokonujących czynności związanych zobrotem instrumentami finansowymi, lub innych czynności w ramach regulowanej ustawą działalności objętej nadzorem Komisji lub zagranicznego organu nadzoru, jak również dotyczącą czynności podejmowanych w ramach wykonywania tego nadzoru, w szczególności informację zawierającą:
+
+**Art. 149.** Zzastrzeżeniem art. 150—153 oraz art. 20, art. 21, art. 23 i art. 25 ustawy o nadzorze, informacje stanowiące tajemnicę zawodową, będące w posiadaniu osób fizycznych wymienionych wart. 148 ust. 1, są ujawniane wyłącznie na żądanie:
 
 **Art. 150.**
 
-1. Nie narusza obowiàzku zachowania tajemnicy zawodowej przekazywanie informacji stanowiàcych takà tajemnic´:
+1. Nie narusza obowiązku zachowania tajemnicy zawodowej przekazywanie informacji stanowiących taką tajemnicę:
 
-- **1)** bezpoÊrednio osobie, której ta informacja dotyczy, lub innemu podmiotowi, któremu osoba ta udzieli∏a pisemnego upowa˝nienia do otrzymania takich informacji, z zastrze˝eniem ust. 2;
-- **2)** w zawiadomieniu o przest´pstwie oraz dokumentach przekazywanych w uzupe∏nieniu do zawiadomienia;
-- **3)** Generalnemu Inspektorowi Informacji Finansowej wzakresie ina zasadach okreÊlonych wustawie z dnia 16 listopada 2000 r. o przeciwdzia∏aniu wprowadzaniu do obrotu finansowego wartoÊci majàtkowych pochodzàcych z nielegalnych lub nieujawnionych êróde∏ oraz o przeciwdzia∏aniu finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505 oraz z 2004 r. 62, poz. 577, 96, poz. 959 i 116, poz. 1203);
-- **4)** Generalnemu Inspektorowi Kontroli Skarbowej lub osobom przez niego upowa˝nionym wzakresie niezb´dnym do realizacji jego ustawowych zadaƒ;
-- **5)** Szefowi Krajowego Centrum Informacji Kryminalnych na zasadach okreÊlonych w odr´bnych przepisach, w zakresie niezb´dnym do realizacji jego ustawowych zadaƒ;
-- **6)** organom podatkowym na zasadach okreÊlonych wodr´bnych przepisach, wzakresie niezb´d); nym do realizacji ich ustawowych zadaƒ;
-- **7)** przez dom maklerski bankowi b´dàcemu w stosunku do tego domu maklerskiego podmiotem dominujàcym wrozumieniu art. 4 ust. 1 pkt 8 ustawy zdnia 29 sierpnia 1997 r. Prawo bankowe na potrzeby sporzàdzania skonsolidowanego sprawozdania finansowego, oraz Komisji Nadzoru Bankowego w zakresie niezb´dnym do wykonywania nadzoru skonsolidowanego nad tym bankiem, na zasadach okreÊlonych w tej ustawie;
+- **1)** bezpośrednio osobie, której ta informacja dotyczy, lub innemu podmiotowi, któremu osoba ta udzieliła pisemnego upoważnienia do otrzymania takich informacji, z zastrzeżeniem ust. 2;
+- **2)** w zawiadomieniu o przestępstwie oraz dokumentach przekazywanych w uzupełnieniu do zawiadomienia;
+- **3)** Generalnemu Inspektorowi Informacji Finansowej wzakresie ina zasadach określonych wustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych êródeł oraz o przeciwdziałaniu finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505 oraz z 2004 r. 62, poz. 577, 96, poz. 959 i 116, poz. 1203);
+- **4)** Generalnemu Inspektorowi Kontroli Skarbowej lub osobom przez niego upoważnionym wzakresie niezbędnym do realizacji jego ustawowych zadań;
+- **5)** Szefowi Krajowego Centrum Informacji Kryminalnych na zasadach określonych w odrębnych przepisach, w zakresie niezbędnym do realizacji jego ustawowych zadań;
+- **6)** organom podatkowym na zasadach określonych wodrębnych przepisach, wzakresie niezbęd); nym do realizacji ich ustawowych zadań;
+- **7)** przez dom maklerski bankowi będącemu w stosunku do tego domu maklerskiego podmiotem dominującym wrozumieniu art. 4 ust. 1 pkt 8 ustawy zdnia 29 sierpnia 1997 r. Prawo bankowe na potrzeby sporządzania skonsolidowanego sprawozdania finansowego, oraz Komisji Nadzoru Bankowego w zakresie niezbędnym do wykonywania nadzoru skonsolidowanego nad tym bankiem, na zasadach określonych w tej ustawie;
 - **8)** przez firmy inwestycyjne oraz banki powiernicze:
-    - **a)** w przypadku okreÊlonym w art. 54 i art. 152,
-    - **b)** wzakresie ina zasadach okreÊlonych wustawie z dnia 14 lutego 2003 r. o udost´pnianiu informacji gospodarczych (Dz. U. 50, poz. 424 oraz z 2004 r. 68, poz. 623 i 116, poz.1203);
+    - **a)** w przypadku określonym w art. 54 i art. 152,
+    - **b)** wzakresie ina zasadach określonych wustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. 50, poz. 424 oraz z 2004 r. 68, poz. 623 i 116, poz.1203);
 
-- **9)** przez dom maklerski, zagranicznà osob´ prawnà, o której mowa w art. 115 ust. 1, lub przez zagranicznà firm´ inwestycyjnà: o nadzorze uzupe∏niajàcym nad instytucjami kredytowymi, zak∏adami ubezpieczeƒ i firmami inwestycyjnymi wchodzàcymi w sk∏ad konglomeratu finansowego (Dz. U. 83, poz. 719), zwanej dalej „ustawà o nadzorze uzupe∏niajàcym”,
-    - **a)** podmiotowi wiodàcemu w rozumieniu art. 4 ust. 5 i 6 ustawy z dnia 15 kwietnia 2005 r.
-    - **b)** koordynatorowi wrozumieniu art. 3 pkt 19 ustawy o nadzorze uzupe∏niajàcym,
-    - **c)** koordynatorowi zagranicznemu w rozumieniu art. 3 pkt 20 ustawy o nadzorze uzupe∏niajàcym w wykonaniu obowiàzków okreÊlonych ustawà o nadzorze uzupe∏niajàcym;
+- **9)** przez dom maklerski, zagraniczną osobę prawną, o której mowa w art. 115 ust. 1, lub przez zagraniczną firmę inwestycyjną: o nadzorze uzupełniającym nad instytucjami kredytowymi, zakładami ubezpieczeń i firmami inwestycyjnymi wchodzącymi w skład konglomeratu finansowego (Dz. U. 83, poz. 719), zwanej dalej Ńustawą o nadzorze uzupełniającym”,
+    - **a)** podmiotowi wiodącemu w rozumieniu art. 4 ust. 5 i 6 ustawy z dnia 15 kwietnia 2005 r.
+    - **b)** koordynatorowi wrozumieniu art. 3 pkt 19 ustawy o nadzorze uzupełniającym,
+    - **c)** koordynatorowi zagranicznemu w rozumieniu art. 3 pkt 20 ustawy o nadzorze uzupełniającym w wykonaniu obowiązków określonych ustawą o nadzorze uzupełniającym;
 
-- **10)** przez Krajowy Depozyt, domy maklerskie, banki prowadzàce dzia∏alnoÊç maklerskà oraz banki powiernicze wzakresie okreÊlonym wart. 34 ust.4 ustawy z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej;
-- **11)** przez uczestników Krajowego Depozytu spó∏ce publicznej, wprzypadku okreÊlonym wart. 91 ust. 11 ustawy o ofercie publicznej;
-- **12)** mi´dzy Komisjà lub w∏aÊciwym organem nadzoru w innym paƒstwie cz∏onkowskim a:
-    - **a)** podmiotem uprawnionym do badania sprawozdaƒ finansowych domu maklerskiego, banku prowadzàcego dzia∏alnoÊç maklerskà, banku prowadzàcego rachunki papierów wartoÊciowych lub podmiotem uprawnionym do badania sprawozdaƒ finansowych zagranicznej firmy inwestycyjnej,
-    - **b)** s´dzià-komisarzem, nadzorcà sàdowym, syndykiem lub zarzàdcà albo likwidatorem domu maklerskiego, banku prowadzàcego dzia∏alnoÊç maklerskà, banku prowadzàcego rachunki papierów wartoÊciowych lub organem odpowiedzialnym za prowadzenie post´powania upad∏oÊciowego lub likwidacyjnego zagranicznej firmy inwestycyjnej je˝eli informacje te sà niezb´dne do wykonywania zadaƒ w zakresie nadzoru przez Komisj´ lub w∏aÊciwy organ nadzoru winnym paƒstwie cz∏onkowskim albo do skutecznego prowadzenia post´powania upad∏oÊciowego, sprawowania zarzàdu masà upad∏oÊci lub prowadzenia likwidacji, lub wzakresie informacji okreÊlonych przepisami orachunkowoÊci do celów badania sprawozdaƒ finansowych tych domów maklerskich, banków lub
+- **10)** przez Krajowy Depozyt, domy maklerskie, banki prowadzące działalność maklerską oraz banki powiernicze wzakresie określonym wart. 34 ust.4 ustawy z dnia 22 maja 2003 r. o działalności ubezpieczeniowej;
+- **11)** przez uczestników Krajowego Depozytu spółce publicznej, wprzypadku określonym wart. 91 ust. 11 ustawy o ofercie publicznej;
+- **12)** między Komisją lub właściwym organem nadzoru w innym państwie członkowskim a:
+    - **a)** podmiotem uprawnionym do badania sprawozdań finansowych domu maklerskiego, banku prowadzącego działalność maklerską, banku prowadzącego rachunki papierów wartościowych lub podmiotem uprawnionym do badania sprawozdań finansowych zagranicznej firmy inwestycyjnej,
+    - **b)** sędzią-komisarzem, nadzorcą sądowym, syndykiem lub zarządcą albo likwidatorem domu maklerskiego, banku prowadzącego działalność maklerską, banku prowadzącego rachunki papierów wartościowych lub organem odpowiedzialnym za prowadzenie postępowania upadłościowego lub likwidacyjnego zagranicznej firmy inwestycyjnej jeżeli informacje te są niezbędne do wykonywania zadań w zakresie nadzoru przez Komisję lub właściwy organ nadzoru winnym państwie członkowskim albo do skutecznego prowadzenia postępowania upadłościowego, sprawowania zarządu masą upadłości lub prowadzenia likwidacji, lub wzakresie informacji określonych przepisami orachunkowości do celów badania sprawozdań finansowych tych domów maklerskich, banków lub
 
-- **14)** przez Komisj´ lub jej upowa˝nionego przedstawiciela:
-    - **a)** do publicznej wiadomoÊci w zakresie dotyczàcym treÊci podj´tych uchwa∏ i decyzji, tak˝e wsprawach indywidualnych, na podstawie których wydawane sà decyzje administracyjne je˝eli ze wzgl´du na interes rynku papierów wartoÊciowych, rynku towarów gie∏dowych lub rynku dzia∏alnoÊci funduszy inwestycyjnych Komisja uzna∏a przekazanie takiej informacji za uzasadnione,
-    - **b)** do publicznej wiadomoÊci w trybie i na warunkach, o których mowa w art. 25 ust. 1 ustawy o nadzorze,
-    - **c)** w post´powaniu wyjaÊniajàcym, w przypadku okreÊlonym w art. 38 ust. 5 ustawy o nadzorze,
-    - **d)** w wykonaniu porozumieƒ, o których mowa w art. 20 i art. 23 ustawy o nadzorze,
-    - **e)** w przypadkach okreÊlonych w art. 151 oraz zagranicznych firm inwestycyjnych;
+- **14)** przez Komisję lub jej upoważnionego przedstawiciela:
+    - **a)** do publicznej wiadomości w zakresie dotyczącym treści podjętych uchwał i decyzji, także wsprawach indywidualnych, na podstawie których wydawane są decyzje administracyjne jeżeli ze względu na interes rynku papierów wartościowych, rynku towarów giełdowych lub rynku działalności funduszy inwestycyjnych Komisja uznała przekazanie takiej informacji za uzasadnione,
+    - **b)** do publicznej wiadomości w trybie i na warunkach, o których mowa w art. 25 ust. 1 ustawy o nadzorze,
+    - **c)** w postępowaniu wyjaśniającym, w przypadku określonym w art. 38 ust. 5 ustawy o nadzorze,
+    - **d)** w wykonaniu porozumień, o których mowa w art. 20 i art. 23 ustawy o nadzorze,
+    - **e)** w przypadkach określonych w art. 151 oraz zagranicznych firm inwestycyjnych;
 
-- **13)** Krajowemu Depozytowi je˝eli informacje te sà niezb´dne do wykonywania jego ustawowych zadaƒ, w szczególnoÊci zwiàzanych z tworzeniem, organizacjà i zarzàdzaniem systemem rekompensat; w art. 21 ust. 1 ustawy o nadzorze i w art. 96 ust. 11 ustawy o ofercie publicznej;
-- **15)** przez Komisj´: o gie∏dach towarowych, w zakresie przeprowadzania rozliczeƒ transakcji, których przedmiotem sà maklerskie instrumenty finansowe je˝eli informacje te sà niezb´dne do wykonywania ustawowych zadaƒ tej izby, wszczególnoÊci zwiàzanych zzapewnieniem prawid∏owoÊci wywiàzywania si´ cz∏onków izby zzobowiàzaƒ wynikajàcych z tych transakcji,
-    - **a)** gie∏dowej izbie rozrachunkowej dzia∏ajàcej na podstawie ustawy zdnia 26 paêdziernika 2000 r.
-    - **b)** Prezesowi Narodowego Banku Polskiego je˝eli informacje te sà niezb´dne wcelu realizacji ustawowych zadaƒ Narodowego Banku Polskiego w zakresie polityki pieni´˝nej oraz nadzoru nad systemem p∏atnoÊci;
+- **13)** Krajowemu Depozytowi jeżeli informacje te są niezbędne do wykonywania jego ustawowych zadań, w szczególności związanych z tworzeniem, organizacją i zarządzaniem systemem rekompensat; w art. 21 ust. 1 ustawy o nadzorze i w art. 96 ust. 11 ustawy o ofercie publicznej;
+- **15)** przez Komisję: o giełdach towarowych, w zakresie przeprowadzania rozliczeń transakcji, których przedmiotem są maklerskie instrumenty finansowe jeżeli informacje te są niezbędne do wykonywania ustawowych zadań tej izby, wszczególności związanych zzapewnieniem prawidłowości wywiązywania się członków izby zzobowiązań wynikających z tych transakcji,
+    - **a)** giełdowej izbie rozrachunkowej działającej na podstawie ustawy zdnia 26 paêdziernika 2000 r.
+    - **b)** Prezesowi Narodowego Banku Polskiego jeżeli informacje te są niezbędne wcelu realizacji ustawowych zadań Narodowego Banku Polskiego w zakresie polityki pieniężnej oraz nadzoru nad systemem płatności;
 
-- **16)** w przypadkach okreÊlonych w art. 40 i art. 89 ust. 4.
+- **16)** w przypadkach określonych w art. 40 i art. 89 ust. 4.
 
-2. Osoby, októrych mowa wart. 148 ust. 1, sà obowiàzane do zachowania w tajemnicy informacji dotyczàcych udzielania Policji informacji na zasadach okreÊlonych w art. 20 ust. 4—10 ustawy z dnia 6 kwietnia 1990 r. o Policji, oraz dotyczàce zawiadomienia, o którym mowa wart. 20 ust. 13 tej ustawy. Zachowanie tajemnicy obowiàzuje wobec osób, których ta informacja dotyczy, oraz osób trzecich, z wyjàtkiem osób reprezentujàcych Komisj´ oraz pracowników urz´du Komisji, którym informacje te sà przekazywane w zwiàzku z wykonywaniem ustawowo okreÊlonych zadaƒ w zakresie nadzoru.
+2. Osoby, októrych mowa wart. 148 ust. 1, są obowiązane do zachowania w tajemnicy informacji dotyczących udzielania Policji informacji na zasadach określonych w art. 20 ust. 4—10 ustawy z dnia 6 kwietnia 1990 r. o Policji, oraz dotyczące zawiadomienia, o którym mowa wart. 20 ust. 13 tej ustawy. Zachowanie tajemnicy obowiązuje wobec osób, których ta informacja dotyczy, oraz osób trzecich, z wyjątkiem osób reprezentujących Komisję oraz pracowników urzędu Komisji, którym informacje te są przekazywane w związku z wykonywaniem ustawowo określonych zadań w zakresie nadzoru.
 
-**Art. 151.** Komisja mo˝e równie˝ przekazaç b´dàce w jej posiadaniu informacje stanowiàce tajemnic´ zawodowà:
+**Art. 151.** Komisja może również przekazać będące w jej posiadaniu informacje stanowiące tajemnicę zawodową:
 
-**Art. 152.** Firmy inwestycyjne i banki powiernicze mogà przekazywaç sobie, obj´te tajemnicà zawodowà, informacje o wierzytelnoÊciach przys∏ugujàcych im wzgl´dem klientów ztytu∏u Êwiadczonych us∏ug w zakresie, w jakim informacje te sà niezb´dne do ochrony ich interesów przed nierzetelnymi klientami.
+**Art. 152.** Firmy inwestycyjne i banki powiernicze mogą przekazywać sobie, objęte tajemnicą zawodową, informacje o wierzytelnościach przysługujących im względem klientów ztytułu świadczonych usług w zakresie, w jakim informacje te są niezbędne do ochrony ich interesów przed nierzetelnymi klientami.
 
 **Art. 153.**
 
-1. Obowiàzek zachowania tajemnicy zawodowej majà tak˝e osoby, którym informacje stanowiàce takà tajemnic´ zosta∏y ujawnione w przypadkach okreÊlonych w art. 149—152 lub art. 20, art. 21 iart. 23 ustawy onadzorze, chyba ˝e na ujawnienie takich informacji przez te osoby zezwala przepis prawa.
+1. Obowiązek zachowania tajemnicy zawodowej mają także osoby, którym informacje stanowiące taką tajemnicę zostały ujawnione w przypadkach określonych w art. 149—152 lub art. 20, art. 21 iart. 23 ustawy onadzorze, chyba że na ujawnienie takich informacji przez te osoby zezwala przepis prawa.
 
-2. Osoby, o których mowa w art. 148 ust. 1, oraz osoby, o których mowa w ust. 1, ponoszà odpowiedzialnoÊç za szkody wynikajàce z nieuprawnionego ujawnienia informacji stanowiàcej tajemnic´ zawodowà i wykorzystania jej niezgodnie z przeznaczeniem.
+2. Osoby, o których mowa w art. 148 ust. 1, oraz osoby, o których mowa w ust. 1, ponoszą odpowiedzialność za szkody wynikające z nieuprawnionego ujawnienia informacji stanowiącej tajemnicę zawodową i wykorzystania jej niezgodnie z przeznaczeniem.
 
-3. Osoby, októrych mowa wart. 148 ust. 1, nie ponoszà odpowiedzialnoÊci za szkod´ wynikajàcà zujawnienia iwykorzystania niezgodnie zprzeznaczeniem informacji stanowiàcej tajemnic´ zawodowà przez osoby, którym informacje takie zosta∏y przekazane na podstawie art. 149—152 lub art. 20, art. 21 i art. 23 ustawy o nadzorze. Rozdzia∏ 2 Informacje poufne
+3. Osoby, októrych mowa wart. 148 ust. 1, nie ponoszą odpowiedzialności za szkodę wynikającą zujawnienia iwykorzystania niezgodnie zprzeznaczeniem informacji stanowiącej tajemnicę zawodową przez osoby, którym informacje takie zostały przekazane na podstawie art. 149—152 lub art. 20, art. 21 i art. 23 ustawy o nadzorze.
 
-**Art. 154.** Informacjà poufnà w rozumieniu ustawy jest okreÊlona w sposób precyzyjny informacja dotyczàca, bezpoÊrednio lub poÊrednio, jednego lub kilku emitentów instrumentów finansowych, jednego lub kilku takich instrumentów finansowych albo nabywania lub zbywania takich instrumentów, która nie zosta∏a przekazana do publicznej wiadomoÊci, aktóra po takim przekazaniu mog∏aby wistotny sposób wp∏ynàç oczekiwaç, ajej charakter wwystarczajàcym stopniu umo˝liwia dokonanie oceny potencjalnego wp∏ywu tych okolicznoÊci lub zdarzeƒ na cen´ lub wartoÊç instrumentów finansowych lub na cen´ powiàzanych z nimi pochodnych instrumentów finansowych;
+#### Rozdział 2 Informacje poufne
 
-**Art. 155.** W przypadku pochodnych instrumentów towarowych, za informacj´ poufnà uwa˝a si´ okreÊlonà wsposób precyzyjny informacj´, dotyczàcà bezpoÊrednio lub poÊrednio, jednego lub kilku pochodnych instrumentów towarowych b´dàcych przedmiotem obrotu na gie∏dach towarowych, która nie zosta∏a przekazana do publicznej wiadomoÊci, aktórej przekazania, zgodnie z przyj´tymi praktykami rynkowymi, mogliby oczekiwaç uczestnicy tego rynku. WszczególnoÊci mogà oni oczekiwaç przekazywania takich informacji, które powinny podlegaç regularnemu udost´pnianiu uczestnikom rynku lub których ujawnienie jest wymagane, zgodnie zprzepisami, umowami izwyczajami obowiàzujàcymi na danym gie∏dowym rynku towarowym.
+**Art. 154.** Informacją poufną w rozumieniu ustawy jest określona w sposób precyzyjny informacja dotycząca, bezpośrednio lub pośrednio, jednego lub kilku emitentów instrumentów finansowych, jednego lub kilku takich instrumentów finansowych albo nabywania lub zbywania takich instrumentów, która nie została przekazana do publicznej wiadomości, aktóra po takim przekazaniu mogłaby wistotny sposób wpłynąć oczekiwać, ajej charakter wwystarczającym stopniu umożliwia dokonanie oceny potencjalnego wpływu tych okoliczności lub zdarzeń na cenę lub wartość instrumentów finansowych lub na cenę powiązanych z nimi pochodnych instrumentów finansowych;
+
+**Art. 155.** W przypadku pochodnych instrumentów towarowych, za informację poufną uważa się określoną wsposób precyzyjny informację, dotyczącą bezpośrednio lub pośrednio, jednego lub kilku pochodnych instrumentów towarowych będących przedmiotem obrotu na giełdach towarowych, która nie została przekazana do publicznej wiadomości, aktórej przekazania, zgodnie z przyjętymi praktykami rynkowymi, mogliby oczekiwać uczestnicy tego rynku. Wszczególności mogą oni oczekiwać przekazywania takich informacji, które powinny podlegać regularnemu udostępnianiu uczestnikom rynku lub których ujawnienie jest wymagane, zgodnie zprzepisami, umowami izwyczajami obowiązującymi na danym giełdowym rynku towarowym.
 
 **Art. 156.**
 
-1. Ka˝dy kto:
+1. Każdy kto:
 
-- **1)** posiada informacj´ poufnà w zwiàzku z pe∏nieniem funkcji w organach spó∏ki, posiadaniem wspó∏ce akcji lub udzia∏ów lub wzwiàzku zdost´pem do informacji poufnej z racji zatrudnienia, wykonywania zawodu, a tak˝e stosunku zlecenia lub innego stosunku prawnego o podobnym charakterze, a w szczególnoÊci:
-    - **a)** cz∏onkowie zarzàdu, rady nadzorczej, prokurenci lub pe∏nomocnicy emitenta lub wystawcy, jego pracownicy, biegli rewidenci albo inne osoby pozostajàce z tym emitentem lub wystawcà w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze, lub na cen´ tych instrumentów finansowych lub na cen´ powiàzanych z nimi pochodnych instrumentów finansowych, przy czym dana informacja:
+- **1)** posiada informację poufną w związku z pełnieniem funkcji w organach spółki, posiadaniem współce akcji lub udziałów lub wzwiązku zdostępem do informacji poufnej z racji zatrudnienia, wykonywania zawodu, a także stosunku zlecenia lub innego stosunku prawnego o podobnym charakterze, a w szczególności:
+    - **a)** członkowie zarządu, rady nadzorczej, prokurenci lub pełnomocnicy emitenta lub wystawcy, jego pracownicy, biegli rewidenci albo inne osoby pozostające z tym emitentem lub wystawcą w stosunku zlecenia lub innym stosunku prawnym o podobnym charakterze, lub na cenę tych instrumentów finansowych lub na cenę powiązanych z nimi pochodnych instrumentów finansowych, przy czym dana informacja:
 
-- **1)** jest okreÊlona w sposób precyzyjny, wtedy gdy wskazuje na okolicznoÊci lub zdarzenia, które wystàpi∏y lub których wystàpienia mo˝na zasadnie
-    - **b)** akcjonariusze spó∏ki publicznej, lub
-    - **c)** osoby zatrudnione lub pe∏niàce funkcje, o których mowa w lit. a, w podmiocie zale˝nym lub dominujàcym wobec emitenta lub wystawcy instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym lub b´dàcych przedmiotem ubiegania si´ o dopuszczenie do obrotu na takim rynku, albo pozostajàce z tym podmiotem wstosunku zlecenia lub innym stosunku prawnym o podobnym charakterze, lub
+- **1)** jest określona w sposób precyzyjny, wtedy gdy wskazuje na okoliczności lub zdarzenia, które wystąpiły lub których wystąpienia można zasadnie
+    - **b)** akcjonariusze spółki publicznej, lub
+    - **c)** osoby zatrudnione lub pełniące funkcje, o których mowa w lit. a, w podmiocie zależnym lub dominującym wobec emitenta lub wystawcy instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym lub będących przedmiotem ubiegania się o dopuszczenie do obrotu na takim rynku, albo pozostające z tym podmiotem wstosunku zlecenia lub innym stosunku prawnym o podobnym charakterze, lub
     - **d)** maklerzy lub doradcy, lub
 
-- **2)** posiada informacj´ poufnà w wyniku pope∏nienia przest´pstwa, albo
-- **3)** posiada informacj´ poufnà pozyskanà w sposób inny ni˝ okreÊlony w pkt 1 i 2, je˝eli wiedzia∏ lub przy do∏o˝eniu nale˝ytej starannoÊci móg∏ si´ dowiedzieç, ˝e jest to informacja poufna nie mo˝e wykorzystywaç takiej informacji.
+- **2)** posiada informację poufną w wyniku popełnienia przestępstwa, albo
+- **3)** posiada informację poufną pozyskaną w sposób inny niż określony w pkt 1 i 2, jeżeli wiedział lub przy dołożeniu należytej staranności mógł się dowiedzieć, że jest to informacja poufna nie może wykorzystywać takiej informacji.
 
-2. Osoby, o których mowa w ust. 1, nie mogà:
+2. Osoby, o których mowa w ust. 1, nie mogą:
 
-- **1)** ujawniaç informacji poufnej;
-- **2)** udzielaç rekomendacji lub nak∏aniaç innà osob´ na podstawie informacji poufnej do nabycia lub zbycia instrumentów finansowych, których dotyczy ta informacja.
+- **1)** ujawniać informacji poufnej;
+- **2)** udzielać rekomendacji lub nakłaniać inną osobę na podstawie informacji poufnej do nabycia lub zbycia instrumentów finansowych, których dotyczy ta informacja.
 
-3. Wprzypadku uzyskania informacji poufnej przez osob´ prawnà lub jednostk´ organizacyjnà nieposiadajàcà osobowoÊci prawnej, zakaz, o którym mowa w ust. 1, dotyczy równie˝ osób fizycznych, które uczestniczà w podejmowaniu decyzji inwestycyjnych w imieniu lub na rzecz tej osoby prawnej lub jednostki organizacyjnej nieposiadajàcej osobowoÊci prawnej.
+3. Wprzypadku uzyskania informacji poufnej przez osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, zakaz, o którym mowa w ust. 1, dotyczy również osób fizycznych, które uczestniczą w podejmowaniu decyzji inwestycyjnych w imieniu lub na rzecz tej osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
-4. Wykorzystywaniem informacji poufnej jest nabywanie lub zbywanie, na rachunek w∏asny lub osoby trzeciej, instrumentów finansowych, w oparciu o informacj´ poufnà b´dàcà w posiadaniu tej osoby, albo dokonywanie, na rachunek w∏asny lub osoby trzeciej, innej czynnoÊci prawnej powodujàcej lub mogàcej powodowaç rozporzàdzenie takimi instrumentami finansowymi, je˝eli instrumenty te:
+4. Wykorzystywaniem informacji poufnej jest nabywanie lub zbywanie, na rachunek własny lub osoby trzeciej, instrumentów finansowych, w oparciu o informację poufną będącą w posiadaniu tej osoby, albo dokonywanie, na rachunek własny lub osoby trzeciej, innej czynności prawnej powodującej lub mogącej powodować rozporządzenie takimi instrumentami finansowymi, jeżeli instrumenty te:
 
-- **1)** sà dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub któregokolwiek z innych paƒstw cz∏onkowskich, lub sà przedmiotem ubiegania si´ odopuszczenie do obrotu na takim rynku, niezale˝nie od tego, czy transakcja, której przedmiotem jest dany instrument,
-- **3)** nabywania albo zbywania instrumentów finansowych okreÊlonych w ust. 4 pkt 1.
+- **1)** są dopuszczone do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub któregokolwiek z innych państw członkowskich, lub są przedmiotem ubiegania się odopuszczenie do obrotu na takim rynku, niezależnie od tego, czy transakcja, której przedmiotem jest dany instrument,
+- **3)** nabywania albo zbywania instrumentów finansowych określonych w ust. 4 pkt 1.
 
 6. Zakazu ujawniania informacji poufnej nie narusza przekazywanie takiej informacji:
 
-- **1)** przez osoby, o których mowa w ust. 1, je˝eli nale˝y to do normalnego trybu wykonywania przez nie czynnoÊci w ramach swojego zatrudnienia, zawodu lub obowiàzków, ajednoczeÊnie jest zapewnione, ˝e osoby, którym informacja zosta∏a wtym trybie przekazana, zachowajà poufnoÊç tej informacji;
-- **2)** w trybie i na warunkach okreÊlonych w art. 25 ust. 1 ustawy o nadzorze;
+- **1)** przez osoby, o których mowa w ust. 1, jeżeli należy to do normalnego trybu wykonywania przez nie czynności w ramach swojego zatrudnienia, zawodu lub obowiązków, ajednocześnie jest zapewnione, że osoby, którym informacja została wtym trybie przekazana, zachowają poufność tej informacji;
+- **2)** w trybie i na warunkach określonych w art. 25 ust. 1 ustawy o nadzorze;
 - **3)** na podstawie:
     - **a)** art. 160 ust. 3 i 4,
     - **b)** art. 24 ustawy o nadzorze,
     - **c)** art. 66 ustawy o ofercie publicznej;
 
-- **4)** przez Komisj´ lub jej upowa˝nionego przedstawiciela Generalnemu Inspektorowi Informacji Finansowej wzakresie ina zasadach okreÊlonych wodr´bnych przepisach;
-- **5)** w zwiàzku z dokonywaniem czynnoÊci, o których mowa w ust. 7 pkt 1—3.
+- **4)** przez Komisję lub jej upoważnionego przedstawiciela Generalnemu Inspektorowi Informacji Finansowej wzakresie ina zasadach określonych wodrębnych przepisach;
+- **5)** w związku z dokonywaniem czynności, o których mowa w ust. 7 pkt 1—3.
 
 7. Nie stanowi wykorzystywania informacji poufnej:
 
-- **1)** zawieranie transakcji s∏u˝àcych realizacji ustawowych zadaƒ w zakresie polityki pieni´˝nej lub dewizowej paƒstwa albo zarzàdzania d∏ugiem publicznym, zawieranych przez osoby uprawnione do reprezentowania w∏aÊciwych organów paƒstwowych, w tym Narodowego Banku Polskiego, a tak˝e przez Europejski System Banków Centralnych;
-- **2)** nabywanie instrumentów finansowych wcelu stabilizacji ich ceny w obrocie na rynku regulowanym, w trybie, terminie i na warunkach okreÊlonych w przepisach, o których mowa w art. 39 jest dokonywana na tym rynku, albo ust. 3 pkt 1;
-- **2)** nie sà dopuszczone do obrotu na rynku regulowa- 3) nabywanie akcji w∏asnych przez spó∏k´ publicznà nym na terytorium Rzeczypospolitej Polskiej lub lub podmiot dzia∏ajàcy na jej rachunek, w trybie, innego paƒstwa cz∏onkowskiego, a ich cena lub terminie i na warunkach okreÊlonych w przepiwartoÊç zale˝y bezpoÊrednio lub poÊrednio od ce- sach, o których mowa w art. 39 ust. 3 pkt 1; ny instrumentu finansowego okreÊlonego wpkt 1. 4) dokonywanie transakcji stanowiàcej wykonanie
+- **1)** zawieranie transakcji służących realizacji ustawowych zadań w zakresie polityki pieniężnej lub dewizowej państwa albo zarządzania długiem publicznym, zawieranych przez osoby uprawnione do reprezentowania właściwych organów państwowych, w tym Narodowego Banku Polskiego, a także przez Europejski System Banków Centralnych;
+- **2)** nabywanie instrumentów finansowych wcelu stabilizacji ich ceny w obrocie na rynku regulowanym, w trybie, terminie i na warunkach określonych w przepisach, o których mowa w art. 39 jest dokonywana na tym rynku, albo ust. 3 pkt 1;
+- **2)** nie są dopuszczone do obrotu na rynku regulowa- 3) nabywanie akcji własnych przez spółkę publiczną nym na terytorium Rzeczypospolitej Polskiej lub lub podmiot działający na jej rachunek, w trybie, innego państwa członkowskiego, a ich cena lub terminie i na warunkach określonych w przepiwartość zależy bezpośrednio lub pośrednio od ce- sach, o których mowa w art. 39 ust. 3 pkt 1; ny instrumentu finansowego określonego wpkt 1. 4) dokonywanie transakcji stanowiącej wykonanie
 
-5. Ujawnieniem informacji poufnej jest przekazy- umowy zobowiàzujàcej do zbycia lub nabycia inwanie, umo˝liwianie lub u∏atwianie wejÊcia w posia- strumentów finansowych, zawartej na piÊmie danie przez osob´ nieuprawnionà informacji poufnej z datà pewnà przed uzyskaniem informacji poufdotyczàcej: nej.
+5. Ujawnieniem informacji poufnej jest przekazy- umowy zobowiązującej do zbycia lub nabycia inwanie, umożliwianie lub ułatwianie wejścia w posia- strumentów finansowych, zawartej na piśmie danie przez osobę nieuprawnioną informacji poufnej z datą pewną przed uzyskaniem informacji poufdotyczącej: nej.
 
-- **1)** jednego lub kilku emitentów lub wystawców in- 8. Zakazu udzielania rekomendacji lub nak∏aniania strumentów finansowych, o których mowa innej osoby na podstawie informacji poufnej do nabyw ust. 4 pkt 1; cia lub zbycia instrumentów finansowych, których dotyczy ta informacja, nie narusza przekazywanie infor2) jednego lub kilku instrumentów finansowych okre- macji w zwiàzku z dokonywaniem czynnoÊci, o któÊlonych w ust. 4 pkt 1; rych mowa w ust. 7 pkt 1—3.
+- **1)** jednego lub kilku emitentów lub wystawców in- 8. Zakazu udzielania rekomendacji lub nakłaniania strumentów finansowych, o których mowa innej osoby na podstawie informacji poufnej do nabyw ust. 4 pkt 1; cia lub zbycia instrumentów finansowych, których dotyczy ta informacja, nie narusza przekazywanie infor2) jednego lub kilku instrumentów finansowych okre- macji w związku z dokonywaniem czynności, o któślonych w ust. 4 pkt 1; rych mowa w ust. 7 pkt 1—3.
 
-**Art. 157.** W przypadku gdy w toku wykonywania czynnoÊci okreÊlonych w art. 156 ust. 6 pkt 1, emitent lub wystawca instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub któregokolwiek z innych paƒstw cz∏onkowskich, niezale˝nie od tego, czy transakcje, których przedmiotem jest dany instrument, sà dokonywane na tym rynku, lub osoby dzia∏ajàce wjego imieniu lub na jego rzecz ujawnià informacj´ poufnà osobie nieuprawnionej jest obowiàzany, wprzypadku gdy ujawnienie by∏o zamierzone, do równoczesnego przekazania tej informacji Komisji i spó∏ce prowadzàcej rynek regulowany, na którym notowane sà papiery wartoÊciowe tego emitenta, oraz do publicznej wiadomoÊci, w trybie okreÊlonym w art. 56 ust. 1 ustawy o ofercie publicznej, a w przypadku gdy ujawnienie nastàpi∏o w sposób niezamierzony, do jej niezw∏ocznego przekazania, chyba ˝e zodr´bnych przepisów albo postanowieƒ stosownej umowy lub statutu wynika obowiàzek zachowania przez t´ osob´ poufnoÊci tego rodzaju informacji.
+**Art. 157.** W przypadku gdy w toku wykonywania czynności określonych w art. 156 ust. 6 pkt 1, emitent lub wystawca instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub któregokolwiek z innych państw członkowskich, niezależnie od tego, czy transakcje, których przedmiotem jest dany instrument, są dokonywane na tym rynku, lub osoby działające wjego imieniu lub na jego rzecz ujawnią informację poufną osobie nieuprawnionej jest obowiązany, wprzypadku gdy ujawnienie było zamierzone, do równoczesnego przekazania tej informacji Komisji i spółce prowadzącej rynek regulowany, na którym notowane są papiery wartościowe tego emitenta, oraz do publicznej wiadomości, w trybie określonym w art. 56 ust. 1 ustawy o ofercie publicznej, a w przypadku gdy ujawnienie nastąpiło w sposób niezamierzony, do jej niezwłocznego przekazania, chyba że zodrębnych przepisów albo postanowień stosownej umowy lub statutu wynika obowiązek zachowania przez tę osobę poufności tego rodzaju informacji.
 
 **Art. 158.**
 
-1. Emitent lub wystawca instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub któregokolwiek zinnych paƒstw cz∏onkowskich, niezale˝nie od tego, czy transakcje, których przedmiotem jest dany instrument, sà dokonywane na tym rynku, jest obowiàzany do sporzàdzenia i prowadzenia odr´bnych list osób fizycznych posiadajàcych dost´p do okreÊlonych informacji poufnych, które pozostajà z emitentem lub z innym podmiotem, dzia∏ajàcym w jego imieniu lub na jego rzecz, w stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze, w tym pe∏niàcych funkcje w organach nadzorczych emitenta.
+1. Emitent lub wystawca instrumentów finansowych dopuszczonych do obrotu na rynku regulowanym na terytorium Rzeczypospolitej Polskiej lub któregokolwiek zinnych państw członkowskich, niezależnie od tego, czy transakcje, których przedmiotem jest dany instrument, są dokonywane na tym rynku, jest obowiązany do sporządzenia i prowadzenia odrębnych list osób fizycznych posiadających dostęp do określonych informacji poufnych, które pozostają z emitentem lub z innym podmiotem, działającym w jego imieniu lub na jego rzecz, w stosunku pracy, zlecenia lub innym stosunku prawnym o podobnym charakterze, w tym pełniących funkcje w organach nadzorczych emitenta.
 
-2. Przy dokonywaniu wpisu osoby posiadajàcej dost´p do okreÊlonej informacji poufnej na list´, októrej mowa wust. 1, emitent poucza t´ osob´ okarnych i administracyjnych konsekwencjach zwiàzanych z bezprawnym ujawnieniem informacji poufnych, w tym wynikajàcych z ich nieodpowiedniego zabezpieczenia, lub wykorzystaniem takich informacji.
+2. Przy dokonywaniu wpisu osoby posiadającej dostęp do określonej informacji poufnej na listę, októrej mowa wust. 1, emitent poucza tę osobę okarnych i administracyjnych konsekwencjach związanych z bezprawnym ujawnieniem informacji poufnych, w tym wynikających z ich nieodpowiedniego zabezpieczenia, lub wykorzystaniem takich informacji.
 
-3. Na ˝àdanie Komisji lub jej upowa˝nionego przedstawiciela, emitent niezw∏ocznie przekazuje listy, o których mowa w ust. 1, informuje o wpisaniu kolejnych osób na list´ po dacie jej sporzàdzenia oraz o wszelkich zmianach danych w nich zawartych.
+3. Na żądanie Komisji lub jej upoważnionego przedstawiciela, emitent niezwłocznie przekazuje listy, o których mowa w ust. 1, informuje o wpisaniu kolejnych osób na listę po dacie jej sporządzenia oraz o wszelkich zmianach danych w nich zawartych.
 
 **Art. 159.**
 
-1. Osoby wymienione w art. 156 ust. 1 pkt 1 lit. anie mogà, wczasie trwania okresu zamkni´tego, nabywaç lub zbywaç, na rachunek w∏asny lub osoby trzeciej, akcji emitenta, praw pochodnych dotyczàcych akcji emitenta oraz innych instrumentów finansowych z nimi powiàzanych oraz dokonywaç, na rachunek w∏asny lub osoby trzeciej, innych czynnoÊci macji poufnej dotyczàcej emitenta lub instrumentów finansowych, o których mowa w ust. 1, spe∏niajàcych warunki okreÊlone w art. 156 ust. 4, do przekazania tej informacji do publicznej wiadomoÊci;
+1. Osoby wymienione w art. 156 ust. 1 pkt 1 lit. anie mogą, wczasie trwania okresu zamkniętego, nabywać lub zbywać, na rachunek własny lub osoby trzeciej, akcji emitenta, praw pochodnych dotyczących akcji emitenta oraz innych instrumentów finansowych z nimi powiązanych oraz dokonywać, na rachunek własny lub osoby trzeciej, innych czynności macji poufnej dotyczącej emitenta lub instrumentów finansowych, o których mowa w ust. 1, spełniających warunki określone w art. 156 ust. 4, do przekazania tej informacji do publicznej wiadomości;
 
-- **2)** w przypadku raportu rocznego dwa miesiàce przed przekazaniem raportu do publicznej wiadomoÊci lub okres pomi´dzy koƒcem roku obrotowego a przekazaniem tego raportu do publicznej wiadomoÊci, gdyby okres ten by∏ krótszy od pierwszego ze wskazanych chyba ˝e osoba fizyczna wymieniona wart. 156 ust. 1 pkt 1 lit. a nie posiada∏a dost´pu do danych finansowych, na podstawie których sporzàdzany jest dany raport;
-- **3)** wprzypadku raportu pó∏rocznego miesiàc przed przekazaniem raportu do publicznej wiadomoÊci lub okres pomi´dzy dniem zakoƒczenia danego pó∏rocza a przekazaniem tego raportu do publicznej wiadomoÊci, gdyby okres ten by∏ krótszy od pierwszego ze wskazanych chyba ˝e osoba fizyczna wymieniona wart. 156 ust. 1 pkt 1 lit. a nie posiada∏a dost´pu do danych finansowych, na podstawie których sporzàdzany jest dany raport;
-- **4)** wprzypadku raportu kwartalnego dwa tygodnie przed przekazaniem raportu do publicznej wiadomoÊci lub okres pomi´dzy dniem zakoƒczenia danego kwarta∏u aprzekazaniem tego raportu do publicznej wiadomoÊci, gdyby okres ten by∏ krótszy od pierwszego ze wskazanych chyba ˝e osoba fizyczna wymieniona w art. 156 ust. 1 pkt 1 lit. a nie posiada∏a dost´pu do danych finansowych, na podstawie których sporzàdzany jest dany raport.
+- **2)** w przypadku raportu rocznego dwa miesiące przed przekazaniem raportu do publicznej wiadomości lub okres pomiędzy końcem roku obrotowego a przekazaniem tego raportu do publicznej wiadomości, gdyby okres ten był krótszy od pierwszego ze wskazanych chyba że osoba fizyczna wymieniona wart. 156 ust. 1 pkt 1 lit. a nie posiadała dostępu do danych finansowych, na podstawie których sporządzany jest dany raport;
+- **3)** wprzypadku raportu półrocznego miesiąc przed przekazaniem raportu do publicznej wiadomości lub okres pomiędzy dniem zakończenia danego półrocza a przekazaniem tego raportu do publicznej wiadomości, gdyby okres ten był krótszy od pierwszego ze wskazanych chyba że osoba fizyczna wymieniona wart. 156 ust. 1 pkt 1 lit. a nie posiadała dostępu do danych finansowych, na podstawie których sporządzany jest dany raport;
+- **4)** wprzypadku raportu kwartalnego dwa tygodnie przed przekazaniem raportu do publicznej wiadomości lub okres pomiędzy dniem zakończenia danego kwartału aprzekazaniem tego raportu do publicznej wiadomości, gdyby okres ten był krótszy od pierwszego ze wskazanych chyba że osoba fizyczna wymieniona w art. 156 ust. 1 pkt 1 lit. a nie posiadała dostępu do danych finansowych, na podstawie których sporządzany jest dany raport.
 
 **Art. 160.**
 
 1. Osoby:
 
-- **1)** wchodzàce w sk∏ad organów zarzàdzajàcych lub nadzorczych emitenta albo b´dàce jego prokurentami,
-- **2)** inne, pe∏niàce wstrukturze organizacyjnej emitenta funkcje kierownicze, które posiadajà sta∏y dost´p do informacji poufnych dotyczàcych bezpoÊrednio lub poÊrednio tego emitenta oraz kompetencje w zakresie podejmowania decyzji wywierajàcych wp∏yw na jego rozwój i perspektywy prowadzenia dzia∏alnoÊci gospodarczej sà obowiàzane do przekazywania Komisji oraz temu emitentowi informacji o zawartych przez te osoby oraz osoby blisko z nimi zwiàzane, na w∏asny rachunek, transakcjach nabycia lub zbycia akcji emitenta, praw pochodnych dotyczàcych akcji emitenta oraz innych instrumentów finansowych powiàzanych ztymi papierami wartoÊciowymi, dopuszczonych do obrotu na rynku regulowanym lub b´dàcych przedmioprawnych powodujàcych lub mogàcych powodowaç rozporzàdzenie takimi instrumentami finansowymi.
+- **1)** wchodzące w skład organów zarządzających lub nadzorczych emitenta albo będące jego prokurentami,
+- **2)** inne, pełniące wstrukturze organizacyjnej emitenta funkcje kierownicze, które posiadają stały dostęp do informacji poufnych dotyczących bezpośrednio lub pośrednio tego emitenta oraz kompetencje w zakresie podejmowania decyzji wywierających wpływ na jego rozwój i perspektywy prowadzenia działalności gospodarczej są obowiązane do przekazywania Komisji oraz temu emitentowi informacji o zawartych przez te osoby oraz osoby blisko z nimi związane, na własny rachunek, transakcjach nabycia lub zbycia akcji emitenta, praw pochodnych dotyczących akcji emitenta oraz innych instrumentów finansowych powiązanych ztymi papierami wartościowymi, dopuszczonych do obrotu na rynku regulowanym lub będących przedmioprawnych powodujących lub mogących powodować rozporządzenie takimi instrumentami finansowymi.
 
-2. Okresem zamkni´tym jest:
+2. Okresem zamkniętym jest:
 
-- **1)** okres od wejÊcia w posiadanie przez osob´ fizycznà wymienionà w art. 156 ust. 1 pkt 1 lit. a infortem ubiegania si´ odopuszczenie do obrotu na takim rynku.
+- **1)** okres od wejścia w posiadanie przez osobę fizyczną wymienioną w art. 156 ust. 1 pkt 1 lit. a infortem ubiegania się odopuszczenie do obrotu na takim rynku.
 
-2. Przez osoby blisko zwiàzane z osobà, o której mowa w ust. 1, rozumie si´:
+2. Przez osoby blisko związane z osobą, o której mowa w ust. 1, rozumie się:
 
-- **1)** jej ma∏˝onka lub osob´ pozostajàcà z nià faktycznie we wspólnym po˝yciu;
-- **2)** dzieci pozostajàce na jej utrzymaniu bàdê osoby Art. 161. 1. Podmioty nadzorowane, októrych mozwiàzane z tà osobà z tytu∏u przysposobienia, wa wart. 5 pkt 1—3, 12 i13 ustawy onadzorze, sà oboopieki lub kurateli; wiàzane do niezw∏ocznego informowania Komisji o ka˝dym uzasadnionym podejrzeniu bezprawnego
-- **3)** innych krewnych i powinowatych, którzy pozosta- ujawnienia lub wykorzystania informacji poufnej, wzajà z nià we wspólnym gospodarstwie domowym kresie, trybie ina warunkach okreÊlonych wart. 40. przez okres co najmniej roku;
+- **1)** jej małżonka lub osobę pozostającą z nią faktycznie we wspólnym pożyciu;
+- **2)** dzieci pozostające na jej utrzymaniu bądê osoby Art. 161. 1. Podmioty nadzorowane, októrych mozwiązane z tą osobą z tytułu przysposobienia, wa wart. 5 pkt 1—3, 12 i13 ustawy onadzorze, są oboopieki lub kurateli; wiązane do niezwłocznego informowania Komisji o każdym uzasadnionym podejrzeniu bezprawnego
+- **3)** innych krewnych i powinowatych, którzy pozosta- ujawnienia lub wykorzystania informacji poufnej, wzają z nią we wspólnym gospodarstwie domowym kresie, trybie ina warunkach określonych wart. 40. przez okres co najmniej roku;
 
-2. Obowiàzek, o którym mowa w ust. 1, spoczywa
+2. Obowiązek, o którym mowa w ust. 1, spoczywa
 
-- **4)** podmioty: równie˝ na: dotyczàcych tego podmiotu oraz kompetencje w zakresie podejmowania decyzji wywierajà- 2) podmiotach wykonujàcych czynnoÊci, o których cych wp∏yw na jego rozwój i perspektywy pro- mowa w art. 70 ust. 1 pkt 2, 9 i 10 i art. 71 ust. 1. wadzenia dzia∏alnoÊci gospodarczej, lub
-    - **a)** w których osoba, o której mowa w ust. 1, lub osoba blisko z nià zwiàzana, o której mowa 1) innych, nieb´dàcych podmiotami nadzorowanywpkt 1—3, wchodzi wsk∏ad ich organów zarzà- mi, bankach krajowych i oddzia∏ach instytucji kredzajàcych lub nadzorczych, lub wktórych struk- dytowych, w rozumieniu przepisów ustawy z dnia turze organizacyjnej pe∏ni funkcje kierownicze 29 sierpnia 1997 r. Prawo bankowe, wykonujài posiada sta∏y dost´p do informacji poufnych cych czynnoÊci, o których mowa w art. 69 ust. 2;
+- **4)** podmioty: również na: dotyczących tego podmiotu oraz kompetencje w zakresie podejmowania decyzji wywierają- 2) podmiotach wykonujących czynności, o których cych wpływ na jego rozwój i perspektywy pro- mowa w art. 70 ust. 1 pkt 2, 9 i 10 i art. 71 ust. 1. wadzenia działalności gospodarczej, lub
+    - **a)** w których osoba, o której mowa w ust. 1, lub osoba blisko z nią związana, o której mowa 1) innych, niebędących podmiotami nadzorowanywpkt 1—3, wchodzi wskład ich organów zarzą- mi, bankach krajowych i oddziałach instytucji kredzających lub nadzorczych, lub wktórych struk- dytowych, w rozumieniu przepisów ustawy z dnia turze organizacyjnej pełni funkcje kierownicze 29 sierpnia 1997 r. Prawo bankowe, wykonująi posiada stały dostęp do informacji poufnych cych czynności, o których mowa w art. 69 ust. 2;
 
 3. Zakazy iwymogi, októrych mowa wart. 156—160, w pkt 1—3, lub o której mowa w pkt 1—3.
 
-- **b)** które sà bezpoÊrednio lub poÊrednio kontrolo- wtym wynikajàce zprzepisów wydanych na podstawie wane przez osob´, o której mowa w ust. 1, lub art. 160 ust. 5, majà zastosowanie w przypadkach okreosob´ blisko z nià zwiàzanà, o której mowa Êlonych wart. 39 ust. 4.
-- **c)** z dzia∏alnoÊci których osoba, o której mowa DZIA¸ VII w ust. 1, lub osoba blisko z nià zwiàzana, o której mowa w pkt 1—3, czerpià zyski, Op∏aty
-- **d)** których interesy ekonomiczne sà równowa˝ne Art. 162. Udzielenie zezwolenia lub zgody, przewiinteresom ekonomicznym osoby, o której mo- dzianych wustawie, podlega op∏acie wwysokoÊci nie wa w ust. 1, lub osoby blisko z nià zwiàzanej, wi´kszej ni˝ równowartoÊç w z∏otych 4 500 euro.
+- **b)** które są bezpośrednio lub pośrednio kontrolo- wtym wynikające zprzepisów wydanych na podstawie wane przez osobę, o której mowa w ust. 1, lub art. 160 ust. 5, mają zastosowanie w przypadkach okreosobę blisko z nią związaną, o której mowa ślonych wart. 39 ust. 4.
+- **c)** z działalności których osoba, o której mowa DZIAĘ VII w ust. 1, lub osoba blisko z nią związana, o której mowa w pkt 1—3, czerpią zyski, Opłaty
+- **d)** których interesy ekonomiczne są równoważne Art. 162. Udzielenie zezwolenia lub zgody, przewiinteresom ekonomicznym osoby, o której mo- dzianych wustawie, podlega opłacie wwysokości nie wa w ust. 1, lub osoby blisko z nią związanej, większej niż równowartość w złotych 4 500 euro.
 
 **Art. 163.**
 
-1. Od ka˝dej ze spó∏ek prowadzàcych ry3. Podmioty, o których mowa w ust. 2 pkt 4, sà nek regulowany oraz od Krajowego Depozytu pobiera obowiàzane do udost´pniania osobom, októrych mo- si´ op∏aty z tytu∏u nadzoru w ∏àcznej wysokoÊci nie wa w ust. 1, oraz osobom blisko zwiàzanym z tymi wi´kszej ni˝ 0,03 % wartoÊci umów przenoszàcych osobami informacji niezb´dnych do wykonania obo- prawa zawieranych na rynku regulowanym. wiàzku okreÊlonego w ust. 1.
+1. Od każdej ze spółek prowadzących ry3. Podmioty, o których mowa w ust. 2 pkt 4, są nek regulowany oraz od Krajowego Depozytu pobiera obowiązane do udostępniania osobom, októrych mo- się opłaty z tytułu nadzoru w łącznej wysokości nie wa w ust. 1, oraz osobom blisko związanym z tymi większej niż 0,03 % wartości umów przenoszących osobami informacji niezbędnych do wykonania obo- prawa zawieranych na rynku regulowanym. wiązku określonego w ust. 1.
 
-2. Od ka˝dego z podmiotów organizujàcych alter4. Emitent jest obowiàzany do niezw∏ocznego udo- natywny system obrotu pobiera si´ op∏aty z tytu∏u st´pniania informacji otrzymanych na podstawie nadzoru w ∏àcznej wysokoÊci nie wi´kszej ni˝ ust. 1, równoczeÊnie spó∏ce prowadzàcej rynek regu- 0,03 % wartoÊci umów przenoszàcych prawa w ralowany, na którym notowane sà papiery wartoÊciowe mach tego systemu, z wy∏àczeniem umów, których tego emitenta, oraz do publicznej wiadomoÊci, w try- przedmiotem sà papiery wartoÊciowe emitowane bie okreÊlonym w art. 56 ust. 1 ustawy o ofercie pu- przez Skarb Paƒstwa lub Narodowy Bank Polski lub blicznej. opiewajàce na zbywalne prawa majàtkowe wynikajà5. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, w drodze rozporzàdzenia:
+2. Od każdego z podmiotów organizujących alter4. Emitent jest obowiązany do niezwłocznego udo- natywny system obrotu pobiera się opłaty z tytułu stępniania informacji otrzymanych na podstawie nadzoru w łącznej wysokości nie większej niż ust. 1, równocześnie spółce prowadzącej rynek regu- 0,03 % wartości umów przenoszących prawa w ralowany, na którym notowane są papiery wartościowe mach tego systemu, z wyłączeniem umów, których tego emitenta, oraz do publicznej wiadomości, w try- przedmiotem są papiery wartościowe emitowane bie określonym w art. 56 ust. 1 ustawy o ofercie pu- przez Skarb Państwa lub Narodowy Bank Polski lub blicznej. opiewające na zbywalne prawa majątkowe wynikają5. Minister właściwy do spraw instytucji finansowych określa, w drodze rozporządzenia:
 
-- **1)** szczegó∏owy zakres informacji, o których mowa wust. 1, oraz tryb itermin ich przekazywania przez osoby obowiàzane,
-- **2)** szczegó∏owy zakres, tryb i termin udost´pniania tych informacji przez emitentów,
-- **3)** szczegó∏owe dane, jakie powinna zawieraç lista osób posiadajàcych dost´p do okreÊlonych informacji poufnych, októrej mowa wart. 158, sposób prowadzenia tej listy i jej aktualizacji oraz termin jej przechowywania majàc na uwadze zapewnienie prawid∏owego wykonywania przez Komisj´ zadaƒ w zakresie nadzoru oraz koniecznoÊç zapewnienia dost´pu uczestników rynku do informacji. ce z tych papierów.
+- **1)** szczegółowy zakres informacji, o których mowa wust. 1, oraz tryb itermin ich przekazywania przez osoby obowiązane,
+- **2)** szczegółowy zakres, tryb i termin udostępniania tych informacji przez emitentów,
+- **3)** szczegółowe dane, jakie powinna zawierać lista osób posiadających dostęp do określonych informacji poufnych, októrej mowa wart. 158, sposób prowadzenia tej listy i jej aktualizacji oraz termin jej przechowywania mając na uwadze zapewnienie prawidłowego wykonywania przez Komisję zadań w zakresie nadzoru oraz konieczność zapewnienia dostępu uczestników rynku do informacji. ce z tych papierów.
 
-3. Od ka˝dej z firm inwestycyjnych zawierajàcych transakcje, októrych mowa wart. 74 ust. 1, pobiera si´ op∏aty z tytu∏u nadzoru w ∏àcznej wysokoÊci nie wi´kszej ni˝ 0,015 % wartoÊci umów przenoszàcych prawa.
+3. Od każdej z firm inwestycyjnych zawierających transakcje, októrych mowa wart. 74 ust. 1, pobiera się opłaty z tytułu nadzoru w łącznej wysokości nie większej niż 0,015 % wartości umów przenoszących prawa.
 
-4. Od ka˝dej z firm inwestycyjnych zawierajàcych umowy sprzeda˝y na w∏asny rachunek z klientem dajàcym zlecenie, w przypadku gdy przedmiotem zlecenia jest nabycie lub zbycie maklerskich instrumentów finansowych nieb´dàcych papierami wartoÊciowymi dopuszczonymi do obrotu zorganizowanego, pobiera si´ op∏aty z tytu∏u nadzoru w ∏àcznej wysokoÊci nie wi´kszej ni˝ 0,015 % wartoÊci umów przenoszàcych prawa.
+4. Od każdej z firm inwestycyjnych zawierających umowy sprzedaży na własny rachunek z klientem dającym zlecenie, w przypadku gdy przedmiotem zlecenia jest nabycie lub zbycie maklerskich instrumentów finansowych niebędących papierami wartościowymi dopuszczonymi do obrotu zorganizowanego, pobiera się opłaty z tytułu nadzoru w łącznej wysokości nie większej niż 0,015 % wartości umów przenoszących prawa.
 
-5. Zagraniczne firmy inwestycyjne prowadzàce dzia∏alnoÊç maklerskà na terytorium Rzeczypospolitej Polskiej oraz zagraniczne osoby prawne prowadzàce takà dzia∏alnoÊç na terytorium Rzeczypospolitej Polskiej w formie oddzia∏u podlegajà op∏atom, o których mowa wust. 2, chyba ˝e na zasadzie wzajemnoÊci polskie podmioty prowadzàce dzia∏alnoÊç maklerskà w paƒstwach siedziby tych zagranicznych podmiotów nie podlegajà tego rodzaju op∏atom.
+5. Zagraniczne firmy inwestycyjne prowadzące działalność maklerską na terytorium Rzeczypospolitej Polskiej oraz zagraniczne osoby prawne prowadzące taką działalność na terytorium Rzeczypospolitej Polskiej w formie oddziału podlegają opłatom, o których mowa wust. 2, chyba że na zasadzie wzajemności polskie podmioty prowadzące działalność maklerską w państwach siedziby tych zagranicznych podmiotów nie podlegają tego rodzaju opłatom.
 
-**Art. 164.** Przeznaczenie i rozdysponowanie wp∏ywów zop∏at, októrych mowa wart. 162 iart. 163, oraz ustalenie wysokoÊci, naliczanie i uiszczanie tych op∏at nast´puje na zasadach, w trybie i na warunkach okreÊlonych w art. 17 ustawy o nadzorze. DZIA¸ VIII Sankcje administracyjne za naruszenie przepisów
+**Art. 164.** Przeznaczenie i rozdysponowanie wpływów zopłat, októrych mowa wart. 162 iart. 163, oraz ustalenie wysokości, naliczanie i uiszczanie tych opłat następuje na zasadach, w trybie i na warunkach określonych w art. 17 ustawy o nadzorze. DZIAĘ VIII Sankcje administracyjne za naruszenie przepisów
 
 **Art. 165.**
 
-1. W przypadku gdy spó∏ka prowadzàca gie∏d´ narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy uczestników obrotu, Komisja mo˝e na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏.
+1. W przypadku gdy spółka prowadząca giełdę narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy uczestników obrotu, Komisja może nałożyć karę pieniężną do wysokości 1 000 000 zł.
 
-2. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy.
+2. Wydanie decyzji następuje po przeprowadzeniu rozprawy.
 
-3. Komisja mo˝e równie˝ wystàpiç do ministra w∏aÊciwego do spraw instytucji finansowych z wnioskiem o uchylenie zezwolenia na prowadzenie gie∏dy, w przypadku gdy spó∏ka prowadzi gie∏d´ z naruszeniem prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy uczestników obrotu.
+3. Komisja może również wystąpić do ministra właściwego do spraw instytucji finansowych z wnioskiem o uchylenie zezwolenia na prowadzenie giełdy, w przypadku gdy spółka prowadzi giełdę z naruszeniem prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy uczestników obrotu.
 
 **Art. 166.**
 
-1. W przypadku gdy spó∏ka prowadzàca rynek pozagie∏dowy narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy uczestników obrotu, Komisja mo˝e:
+1. W przypadku gdy spółka prowadząca rynek pozagiełdowy narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy uczestników obrotu, Komisja może:
 
-- **1)** na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏ albo
-- **2)** uchyliç zezwolenie, o którym mowa w art. 36 ust. 1, albo
-- **3)** uchyliç zezwolenie, nak∏adajàc jednoczeÊnie kar´ pieni´˝nà, o której mowa w pkt 1.
+- **1)** nałożyć karę pieniężną do wysokości 1 000 000 zł albo
+- **2)** uchylić zezwolenie, o którym mowa w art. 36 ust. 1, albo
+- **3)** uchylić zezwolenie, nakładając jednocześnie karę pieniężną, o której mowa w pkt 1.
 
-2. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy.
+2. Wydanie decyzji następuje po przeprowadzeniu rozprawy.
 
 **Art. 167.**
 
-1. Komisja mo˝e, z zastrze˝eniem ust. 2, cofnàç zezwolenie na prowadzenie dzia∏alnoÊci maklerskiej albo ograniczyç zakres wykonywanej dzia∏alnoÊci maklerskiej, wprzypadku gdy firma inwestycyjna:
+1. Komisja może, z zastrzeżeniem ust. 2, cofnąć zezwolenie na prowadzenie działalności maklerskiej albo ograniczyć zakres wykonywanej działalności maklerskiej, wprzypadku gdy firma inwestycyjna:
 
-- **1)** istotnie narusza przepisy prawa, w szczególnoÊci przepisy wydane na podstawie art. 94 ust. 1 pkt 1—2 i 5;
-- **5)** przesta∏a spe∏niaç warunki, które by∏y podstawà udzielenia zezwolenia, z zastrze˝eniem przepisu art. 95 ust. 10;
-- **6)** otrzyma∏a zezwolenie na podstawie fa∏szywych oÊwiadczeƒ lub dokumentów zaÊwiadczajàcych nieprawd´.
+- **1)** istotnie narusza przepisy prawa, w szczególności przepisy wydane na podstawie art. 94 ust. 1 pkt 1—2 i 5;
+- **5)** przestała spełniać warunki, które były podstawą udzielenia zezwolenia, z zastrzeżeniem przepisu art. 95 ust. 10;
+- **6)** otrzymała zezwolenie na podstawie fałszywych oświadczeń lub dokumentów zaświadczających nieprawdę.
 
-2. Wprzypadkach, októrych mowa wust. 1 pkt 1—3 lub 6, Komisja mo˝e równie˝:
+2. Wprzypadkach, októrych mowa wust. 1 pkt 1—3 lub 6, Komisja może również:
 
-- **1)** odstàpiç od zastosowania sankcji, októrych mowa w ust. 1, i na∏o˝yç na firm´ inwestycyjnà kar´ pieni´˝nà do wysokoÊci 500 000 z∏ albo
-- **2)** zastosowaç jednà z sankcji okreÊlonych w ust. 1 ijednoczeÊnie na∏o˝yç kar´ pieni´˝nà, októrej mowa w pkt 1 je˝eli uzasadnia to charakter naruszeƒ, których dopuÊci∏a si´ firma inwestycyjna.
+- **1)** odstąpić od zastosowania sankcji, októrych mowa w ust. 1, i nałożyć na firmę inwestycyjną karę pieniężną do wysokości 500 000 zł albo
+- **2)** zastosować jedną z sankcji określonych w ust. 1 ijednocześnie nałożyć karę pieniężną, októrej mowa w pkt 1 jeżeli uzasadnia to charakter naruszeń, których dopuściła się firma inwestycyjna.
 
-3. Sankcje, októrych mowa wust. 1 lub 2, Komisja mo˝e zastosowaç równie˝ wobec firmy inwestycyjnej powierzajàcej do wykonywania czynnoÊci wskazane w art. 79 ust. 2 agentowi firmy inwestycyjnej, który w zwiàzku z wykonywaniem czynnoÊci na rzecz tej firmy inwestycyjnej narusza przepisy prawa, zasady uczciwego obrotu lub interesy zleceniodawców.
+3. Sankcje, októrych mowa wust. 1 lub 2, Komisja może zastosować również wobec firmy inwestycyjnej powierzającej do wykonywania czynności wskazane w art. 79 ust. 2 agentowi firmy inwestycyjnej, który w związku z wykonywaniem czynności na rzecz tej firmy inwestycyjnej narusza przepisy prawa, zasady uczciwego obrotu lub interesy zleceniodawców.
 
-4. Wprzypadku cofni´cia zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej, podmiot, który je utraci∏, nie mo˝e ponownie wystàpiç z wnioskiem o udzielenie zezwolenia na prowadzenie tej dzia∏alnoÊci przed up∏ywem 5 lat od dnia, w którym decyzja o cofni´ciu zezwolenia sta∏a si´ ostateczna, chyba ˝e Komisja wyrazi zgod´ na skrócenie tego terminu.
+4. Wprzypadku cofnięcia zezwolenia na prowadzenie działalności maklerskiej, podmiot, który je utracił, nie może ponownie wystąpić z wnioskiem o udzielenie zezwolenia na prowadzenie tej działalności przed upływem 5 lat od dnia, w którym decyzja o cofnięciu zezwolenia stała się ostateczna, chyba że Komisja wyrazi zgodę na skrócenie tego terminu.
 
-5. W razie koniecznoÊci zabezpieczenia interesu publicznego, Komisja mo˝e, od chwili wszcz´cia post´powania wsprawach, októrych mowa wust. 1, zawiesiç, na okres nie d∏u˝szy ni˝ miesiàc, mo˝liwoÊç wykonywania, wca∏oÊci lub wcz´Êci, dzia∏alnoÊci maklerskiej.
+5. W razie konieczności zabezpieczenia interesu publicznego, Komisja może, od chwili wszczęcia postępowania wsprawach, októrych mowa wust. 1, zawiesić, na okres nie dłuższy niż miesiąc, możliwość wykonywania, wcałości lub wczęści, działalności maklerskiej.
 
-6. Komisja mo˝e na∏o˝yç kar´ pieni´˝nà do wysokoÊci 500 000 z∏ na podmiot wykonujàcy czynnoÊci,
+6. Komisja może nałożyć karę pieniężną do wysokości 500 000 zł na podmiot wykonujący czynności,
 
 - **2)** nie przestrzega zasad uczciwego obrotu;
 - **3)** narusza interesy zleceniodawcy;
-- **4)** na okres co najmniej 6 miesi´cy przerwa∏a prowadzenie dzia∏alnoÊci obj´tej zezwoleniem; o których mowa w art. 71 ust. 1, w przypadku gdy narusza on przepisy wydane na podstawie art. 94 ust. 1 pkt 1.
+- **4)** na okres co najmniej 6 miesięcy przerwała prowadzenie działalności objętej zezwoleniem; o których mowa w art. 71 ust. 1, w przypadku gdy narusza on przepisy wydane na podstawie art. 94 ust. 1 pkt 1.
 
-7. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy.
+7. Wydanie decyzji następuje po przeprowadzeniu rozprawy.
 
-8. Uchwa∏a Komisji, b´dàca podstawà wydania decyzji, o której mowa w ust. 7, podlega og∏oszeniu w Dzienniku Urz´dowym Komisji Papierów WartoÊciowych i Gie∏d. Komisja mo˝e nakazaç jej og∏oszenie w dwóch dziennikach ogólnopolskich, na koszt podmiotu okreÊlonego w ust. 1 lub 6.
+8. Uchwała Komisji, będąca podstawą wydania decyzji, o której mowa w ust. 7, podlega ogłoszeniu w Dzienniku Urzędowym Komisji Papierów Wartościowych i Giełd. Komisja może nakazać jej ogłoszenie w dwóch dziennikach ogólnopolskich, na koszt podmiotu określonego w ust. 1 lub 6.
 
-9. Przepisy ust. 1—3, 7 i8 stosuje si´ odpowiednio wprzypadku powzi´cia przez Komisj´ informacji onaruszeniu przez dom maklerski prowadzàcy dzia∏alnoÊç maklerskà na terytorium innego paƒstwa cz∏onkowskiego przepisów regulujàcych prowadzenie dzia∏alnoÊci maklerskiej na terytorium tego paƒstwa. W takim przypadku o zastosowaniu sankcji Komisja informuje w∏aÊciwy organ nadzoru tego paƒstwa cz∏onkowskiego.
+9. Przepisy ust. 1—3, 7 i8 stosuje się odpowiednio wprzypadku powzięcia przez Komisję informacji onaruszeniu przez dom maklerski prowadzący działalność maklerską na terytorium innego państwa członkowskiego przepisów regulujących prowadzenie działalności maklerskiej na terytorium tego państwa. W takim przypadku o zastosowaniu sankcji Komisja informuje właściwy organ nadzoru tego państwa członkowskiego.
 
 **Art. 168.**
 
 1. W przypadku gdy bank powierniczy:
 
-- **1)** istotnie narusza przepisy prawa, w szczególnoÊci przepisy wydane na podstawie art. 94 ust. 1 pkt 1—2 i 5,
+- **1)** istotnie narusza przepisy prawa, w szczególności przepisy wydane na podstawie art. 94 ust. 1 pkt 1—2 i 5,
 - **2)** nie przestrzega zasad uczciwego obrotu,
-- **3)** narusza interesy zleceniodawcy Komisja mo˝e, z zastrze˝eniem ust. 2, na∏o˝yç na ten bank kar´ pieni´˝nà do wysokoÊci 500 000 z∏.
+- **3)** narusza interesy zleceniodawcy Komisja może, z zastrzeżeniem ust. 2, nałożyć na ten bank karę pieniężną do wysokości 500 000 zł.
 
-2. W przypadku gdy uzasadnia to charakter naruszeƒ, których dopuÊci∏ si´ bank powierniczy, Komisja mo˝e cofnàç zezwolenie na prowadzenie dzia∏alnoÊci powierniczej.
+2. W przypadku gdy uzasadnia to charakter naruszeń, których dopuścił się bank powierniczy, Komisja może cofnąć zezwolenie na prowadzenie działalności powierniczej.
 
-3. Przepisy art. 167 ust. 4, 5 i 7—9 stosuje si´ odpowiednio do banku powierniczego.
+3. Przepisy art. 167 ust. 4, 5 i 7—9 stosuje się odpowiednio do banku powierniczego.
 
 **Art. 169.**
 
-1. Wprzypadku stwierdzenia przez Komisj´, ˝e zagraniczna firma inwestycyjna lub agent firmy inwestycyjnej dzia∏ajàcy w imieniu zagranicznej firmy inwestycyjnej narusza przepisy prawa regulujàce prowadzenie dzia∏alnoÊci maklerskiej lub dzia∏alnoÊci powierniczej obowiàzujàce na terytorium Rzeczypospolitej Polskiej, Komisja, wdrodze decyzji, nakazuje zagranicznej firmie inwestycyjnej zaprzestanie tych naruszeƒ, wyznaczajàc termin ich usuni´cia.
+1. Wprzypadku stwierdzenia przez Komisję, że zagraniczna firma inwestycyjna lub agent firmy inwestycyjnej działający w imieniu zagranicznej firmy inwestycyjnej narusza przepisy prawa regulujące prowadzenie działalności maklerskiej lub działalności powierniczej obowiązujące na terytorium Rzeczypospolitej Polskiej, Komisja, wdrodze decyzji, nakazuje zagranicznej firmie inwestycyjnej zaprzestanie tych naruszeń, wyznaczając termin ich usunięcia.
 
-2. Komisja informuje w∏aÊciwy organ nadzoru zagranicznej firmy inwestycyjnej o stwierdzeniu naruszeƒ, o których mowa w ust. 1, oraz o uchybieniu terminowi do ich usuni´cia.
+2. Komisja informuje właściwy organ nadzoru zagranicznej firmy inwestycyjnej o stwierdzeniu naruszeń, o których mowa w ust. 1, oraz o uchybieniu terminowi do ich usunięcia.
 
-3. W przypadku gdy zagraniczna firma inwestycyjna, o której mowa w ust. 1, nie zaprzesta∏a naruszeƒ lub nie usun´∏a ich wwyznaczonym terminie, po up∏ywie miesiàca od poinformowania w∏aÊciwego organu nadzoru zgodnie z ust. 2, Komisja mo˝e, informujàc o tym ten organ:
+3. W przypadku gdy zagraniczna firma inwestycyjna, o której mowa w ust. 1, nie zaprzestała naruszeń lub nie usunęła ich wwyznaczonym terminie, po upływie miesiąca od poinformowania właściwego organu nadzoru zgodnie z ust. 2, Komisja może, informując o tym ten organ:
 
-- **1)** zakazaç wca∏oÊci albo wcz´Êci wykonywania dzia∏alnoÊci maklerskiej lub powierniczej na terytorium Rzeczypospolitej Polskiej albo
-- **2)** zawiesiç wca∏oÊci albo wcz´Êci, na okres nie d∏u˝szy ni˝ szeÊç miesi´cy, prawo wykonywania dzia∏alnoÊci maklerskiej lub powierniczej na terytorium Rzeczypospolitej Polskiej, albo
-- **3)** na∏o˝yç kar´ pieni´˝nà do wysokoÊci 500 000 z∏, albo
+- **1)** zakazać wcałości albo wczęści wykonywania działalności maklerskiej lub powierniczej na terytorium Rzeczypospolitej Polskiej albo
+- **2)** zawiesić wcałości albo wczęści, na okres nie dłuższy niż sześć miesięcy, prawo wykonywania działalności maklerskiej lub powierniczej na terytorium Rzeczypospolitej Polskiej, albo
+- **3)** nałożyć karę pieniężną do wysokości 500 000 zł, albo
 
-5. Uchwa∏a Komisji, b´dàca podstawà wydania decyzji, o której mowa w ust. 4, podlega og∏oszeniu w Dzienniku Urz´dowym Komisji Papierów WartoÊciowych i Gie∏d. Komisja mo˝e nakazaç jej og∏oszenie wdwóch dziennikach ogólnopolskich, na koszt zagranicznej firmy inwestycyjnej.
+5. Uchwała Komisji, będąca podstawą wydania decyzji, o której mowa w ust. 4, podlega ogłoszeniu w Dzienniku Urzędowym Komisji Papierów Wartościowych i Giełd. Komisja może nakazać jej ogłoszenie wdwóch dziennikach ogólnopolskich, na koszt zagranicznej firmy inwestycyjnej.
 
-6. W przypadku zakazania zagranicznej firmie inwestycyjnej prowadzenia dzia∏alnoÊci maklerskiej lub powierniczej na terytorium Rzeczypospolitej Polskiej, firma ta nie mo˝e podjàç tej dzia∏alnoÊci przed up∏ywem 5 lat od dnia, w którym decyzja zakazujàca prowadzenia dzia∏alnoÊci sta∏a si´ ostateczna, chyba ˝e Komisja wyrazi zgod´ na skrócenie tego terminu.
+6. W przypadku zakazania zagranicznej firmie inwestycyjnej prowadzenia działalności maklerskiej lub powierniczej na terytorium Rzeczypospolitej Polskiej, firma ta nie może podjąć tej działalności przed upływem 5 lat od dnia, w którym decyzja zakazująca prowadzenia działalności stała się ostateczna, chyba że Komisja wyrazi zgodę na skrócenie tego terminu.
 
-7. W razie koniecznoÊci zabezpieczenia interesu publicznego Komisja mo˝e przed podj´ciem czynnoÊci okreÊlonych w ust. 1—3 zawiesiç, na okres nie d∏u˝szy ni˝ miesiàc, mo˝liwoÊç wykonywania, w ca∏oÊci albo w cz´Êci, dzia∏alnoÊci maklerskiej lub powierniczej na terytorium Rzeczypospolitej Polskiej przez zagranicznà firm´ inwestycyjnà, informujàc o tym jednoczeÊnie Komisj´ Europejskà oraz w∏aÊciwy organ nadzoru w innym paƒstwie cz∏onkowskim, który udzieli∏ zezwolenia zagranicznej firmie inwestycyjnej.
+7. W razie konieczności zabezpieczenia interesu publicznego Komisja może przed podjęciem czynności określonych w ust. 1—3 zawiesić, na okres nie dłuższy niż miesiąc, możliwość wykonywania, w całości albo w części, działalności maklerskiej lub powierniczej na terytorium Rzeczypospolitej Polskiej przez zagraniczną firmę inwestycyjną, informując o tym jednocześnie Komisję Europejską oraz właściwy organ nadzoru w innym państwie członkowskim, który udzielił zezwolenia zagranicznej firmie inwestycyjnej.
 
-8. Komisja informuje Komisj´ Europejskà o sankcjach zastosowanych zgodnie z ust. 3.
+8. Komisja informuje Komisję Europejską o sankcjach zastosowanych zgodnie z ust. 3.
 
-9. Do zagranicznej firmy inwestycyjnej prowadzàcej dzia∏alnoÊç maklerskà na terytorium Rzeczypospolitej Polskiej nie stosuje si´ przepisów art. 167.
+9. Do zagranicznej firmy inwestycyjnej prowadzącej działalność maklerską na terytorium Rzeczypospolitej Polskiej nie stosuje się przepisów art. 167.
 
 **Art. 170.**
 
-1. W przypadku gdy Krajowy Depozyt narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy jego uczestników, Komisja mo˝e na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏.
+1. W przypadku gdy Krajowy Depozyt narusza przepisy prawa, nie przestrzega zasad uczciwego obrotu lub narusza interesy jego uczestników, Komisja może nałożyć karę pieniężną do wysokości 1 000 000 zł.
 
-2. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy.
+2. Wydanie decyzji następuje po przeprowadzeniu rozprawy.
 
 **Art. 171.**
 
-1. Na ka˝dego kto nie dokonuje zawiadomienia, o którym mowa w art. 24 ust. 1, art. 47 ust. 1, art. 106 ust. 1 lub w art. 107 ust. 1, lub dopuszcza si´ tego czynu, dzia∏ajàc w imieniu lub w interesie osoby
+1. Na każdego kto nie dokonuje zawiadomienia, o którym mowa w art. 24 ust. 1, art. 47 ust. 1, art. 106 ust. 1 lub w art. 107 ust. 1, lub dopuszcza się tego czynu, działając w imieniu lub w interesie osoby
 
-- **4)** zastosowaç jednà zsankcji okreÊlonych wpkt 1 i2 oraz na∏o˝yç kar´ pieni´˝nà, o której mowa w pkt 3.
+- **4)** zastosować jedną zsankcji określonych wpkt 1 i2 oraz nałożyć karę pieniężną, o której mowa w pkt 3.
 
-4. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy. prawnej lub jednostki organizacyjnej nieposiadajàcej osobowoÊci prawnej, Komisja mo˝e na∏o˝yç wdrodze decyzji kar´ pieni´˝nà do wysokoÊci 500 000 z∏.
+4. Wydanie decyzji następuje po przeprowadzeniu rozprawy. prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, Komisja może nałożyć wdrodze decyzji karę pieniężną do wysokości 500 000 zł.
 
-2. Komisja mo˝e, w drodze decyzji, na∏o˝yç kar´, októrej mowa wust. 1, równie˝ na osob´, która nabywa lub obejmuje akcje pomimo zg∏oszenia sprzeciwu, o którym mowa w art. 24 ust. 3, art. 47 ust. 3 lub art. 106 ust. 3, lub dopuszcza si´ tego czynu, dzia∏ajàc w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadajàcej osobowoÊci prawnej.
+2. Komisja może, w drodze decyzji, nałożyć karę, októrej mowa wust. 1, również na osobę, która nabywa lub obejmuje akcje pomimo zgłoszenia sprzeciwu, o którym mowa w art. 24 ust. 3, art. 47 ust. 3 lub art. 106 ust. 3, lub dopuszcza się tego czynu, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
-3. Wydanie decyzji, o której mowa w ust. 1 lub 2, nast´puje po przeprowadzeniu rozprawy.
+3. Wydanie decyzji, o której mowa w ust. 1 lub 2, następuje po przeprowadzeniu rozprawy.
 
-4. Uchwa∏a Komisji b´dàca podstawà wydania decyzji, októrej mowa wust. 1 lub 2, podlega og∏oszeniu wDzienniku Urz´dowym Komisji Papierów WartoÊciowych i Gie∏d. Komisja mo˝e nakazaç jej og∏oszenie wdwóch dziennikach ogólnopolskich na koszt strony.
+4. Uchwała Komisji będąca podstawą wydania decyzji, októrej mowa wust. 1 lub 2, podlega ogłoszeniu wDzienniku Urzędowym Komisji Papierów Wartościowych i Giełd. Komisja może nakazać jej ogłoszenie wdwóch dziennikach ogólnopolskich na koszt strony.
 
 **Art. 172.**
 
-1. Na ka˝dego kto dokonuje manipulacji, októrej mowa wart. 39 ust. 2 pkt 4 lit. blub pkt 8, Komisja mo˝e, w drodze decyzji, na∏o˝yç kar´ pieni´˝nà do wysokoÊci 200 000 z∏ lub kar´ pieni´˝nà do wysokoÊci dziesi´ciokrotnoÊci uzyskanej korzyÊci majàtkowej albo obie te kary ∏àcznie.
+1. Na każdego kto dokonuje manipulacji, októrej mowa wart. 39 ust. 2 pkt 4 lit. blub pkt 8, Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 200 000 zł lub karę pieniężną do wysokości dziesięciokrotności uzyskanej korzyści majątkowej albo obie te kary łącznie.
 
-2. Tej samej karze podlega, kto wchodzi wporozumienie majàce na celu dokonanie manipulacji.
+2. Tej samej karze podlega, kto wchodzi wporozumienie mające na celu dokonanie manipulacji.
 
-3. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy.
+3. Wydanie decyzji następuje po przeprowadzeniu rozprawy.
 
-4. Uchwa∏´ b´dàcà podstawà wydania decyzji, o której mowa w ust. 1, Komisja w ca∏oÊci lub w cz´Êci og∏asza w Dzienniku Urz´dowym Komisji Papierów WartoÊciowych i Gie∏d lub nakazuje jej opublikowanie w dwóch dziennikach ogólnopolskich, na koszt strony, chyba ˝e spowodowa∏oby to poniesienie przez uczestników obrotu niewspó∏miernej szkody lub narazi∏oby na powa˝ne niebezpieczeƒstwo rynki finansowe.
+4. Uchwałę będącą podstawą wydania decyzji, o której mowa w ust. 1, Komisja w całości lub w części ogłasza w Dzienniku Urzędowym Komisji Papierów Wartościowych i Giełd lub nakazuje jej opublikowanie w dwóch dziennikach ogólnopolskich, na koszt strony, chyba że spowodowałoby to poniesienie przez uczestników obrotu niewspółmiernej szkody lub naraziłoby na poważne niebezpieczeństwo rynki finansowe.
 
 **Art. 173.**
 
-1. Na ka˝dego kto dokonuje lub zleca dokonanie stabilizacji ceny instrumentów finansowych z naruszeniem zasad okreÊlonych w prospekcie emisyjnym lub znaruszeniem przepisów, októrych mowa wart. 39 ust. 3 pkt 1, Komisja mo˝e, wdrodze decyzji, na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏.
+1. Na każdego kto dokonuje lub zleca dokonanie stabilizacji ceny instrumentów finansowych z naruszeniem zasad określonych w prospekcie emisyjnym lub znaruszeniem przepisów, októrych mowa wart. 39 ust. 3 pkt 1, Komisja może, wdrodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
 
-2. Na ka˝dego kto nabywa akcje w∏asne znaruszeniem przepisów, októrych mowa wart. 39 ust. 3 pkt 1, Komisja mo˝e, wdrodze decyzji, na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏.
+2. Na każdego kto nabywa akcje własne znaruszeniem przepisów, októrych mowa wart. 39 ust. 3 pkt 1, Komisja może, wdrodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
 
-3. Na ka˝dego kto nabywa, nie b´dàc uprawnionym, akcje spó∏ki prowadzàcej rynek gie∏dowy lub spó∏ki prowadzàcej rynek pozagie∏dowy, Komisja mo˝e, w drodze decyzji, na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏.
+3. Na każdego kto nabywa, nie będąc uprawnionym, akcje spółki prowadzącej rynek giełdowy lub spółki prowadzącej rynek pozagiełdowy, Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
 
-4. Na ka˝dego kto nie przekazuje informacji, októrych mowa w art. 40, lub przekazuje je z naruszeniem warunków okreÊlonych w tych przepisach, Komisja mendacji, z naruszeniem przepisów rozporzàdzenia, októrym mowa wart. 42 ust. 2, lub te˝ nie zachowuje przy tym nale˝ytej starannoÊci lub nie zapewnia rzetelnoÊci sporzàdzanych rekomendacji albo nie ujawnia s∏usznego interesu, a tak˝e konfliktów interesów istniejàcych w chwili ich sporzàdzania lub rozpowszechniania, Komisja mo˝e, w drodze decyzji, na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏.
+4. Na każdego kto nie przekazuje informacji, októrych mowa w art. 40, lub przekazuje je z naruszeniem warunków określonych w tych przepisach, Komisja mendacji, z naruszeniem przepisów rozporządzenia, októrym mowa wart. 42 ust. 2, lub też nie zachowuje przy tym należytej staranności lub nie zapewnia rzetelności sporządzanych rekomendacji albo nie ujawnia słusznego interesu, a także konfliktów interesów istniejących w chwili ich sporządzania lub rozpowszechniania, Komisja może, w drodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
 
-8. W decyzji o na∏o˝eniu kary Komisja mo˝e wyznaczyç termin ponownego wykonania obowiàzku lub dokonania czynnoÊci wymaganej przepisami, których naruszenie by∏o podstawà na∏o˝enia kary pieni´˝nej. Wrazie bezskutecznego up∏ywu tego terminu Komisja mo˝e powtórnie wydaç decyzj´ o na∏o˝eniu kary pieni´˝nej.
+8. W decyzji o nałożeniu kary Komisja może wyznaczyć termin ponownego wykonania obowiązku lub dokonania czynności wymaganej przepisami, których naruszenie było podstawą nałożenia kary pieniężnej. Wrazie bezskutecznego upływu tego terminu Komisja może powtórnie wydać decyzję o nałożeniu kary pieniężnej.
 
-9. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy.
+9. Wydanie decyzji następuje po przeprowadzeniu rozprawy.
 
 **Art. 174.**
 
-1. Na osob´ wymienionà wart. 156 ust. 1 pkt 1 lit. a, która wczasie trwania okresu zamkni´tego mo˝e, wdrodze decyzji, na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏.
+1. Na osobę wymienioną wart. 156 ust. 1 pkt 1 lit. a, która wczasie trwania okresu zamkniętego może, wdrodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
 
-5. Na ka˝dego kto nie przekazuje informacji, októrych mowa wart. 161, lub przekazuje je znaruszeniem warunków okreÊlonych w tych przepisach, Komisja mo˝e, wdrodze decyzji, na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏.
+5. Na każdego kto nie przekazuje informacji, októrych mowa wart. 161, lub przekazuje je znaruszeniem warunków określonych w tych przepisach, Komisja może, wdrodze decyzji, nałożyć karę pieniężną do wysokości 1 000 000 zł.
 
-6. Tej samej karze podlega, kto dopuszcza si´ czynu okreÊlonego w ust. 1—5, dzia∏ajàc w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadajàcej osobowoÊci prawnej.
+6. Tej samej karze podlega, kto dopuszcza się czynu określonego w ust. 1—5, działając w imieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej.
 
-7. Na ka˝dego kto sporzàdza rekomendacje dotyczàce instrumentów finansowych lub ich emitentów przeznaczone do rozpowszechniania wÊród inwestorów lub zajmuje si´ rozpowszechnianiem takich rekodokonuje czynnoÊci, októrych mowa wart. 159 ust. 1, Komisja mo˝e na∏o˝yç, wdrodze decyzji, kar´ pieni´˝nà do wysokoÊci 200 000 z∏, chyba ˝e osoba ta zleci∏a uprawnionemu podmiotowi prowadzàcemu dzia∏alnoÊç maklerskà zarzàdzanie portfelem jej papierów wartoÊciowych, wsposób który wy∏àcza ingerencj´ tej osoby w podejmowane na jej rachunek decyzje.
+7. Na każdego kto sporządza rekomendacje dotyczące instrumentów finansowych lub ich emitentów przeznaczone do rozpowszechniania wśród inwestorów lub zajmuje się rozpowszechnianiem takich rekodokonuje czynności, októrych mowa wart. 159 ust. 1, Komisja może nałożyć, wdrodze decyzji, karę pieniężną do wysokości 200 000 zł, chyba że osoba ta zleciła uprawnionemu podmiotowi prowadzącemu działalność maklerską zarządzanie portfelem jej papierów wartościowych, wsposób który wyłącza ingerencję tej osoby w podejmowane na jej rachunek decyzje.
 
-2. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy.
+2. Wydanie decyzji następuje po przeprowadzeniu rozprawy.
 
-3. Uchwa∏´ b´dàcà podstawà wydania decyzji, o której mowa w ust. 1, Komisja w ca∏oÊci lub w cz´Êci og∏asza w Dzienniku Urz´dowym Komisji Papierów WartoÊciowych i Gie∏d lub nakazuje jej opublikowanie w dwóch dziennikach ogólnopolskich, na koszt strony, chyba ˝e spowodowa∏oby to poniesienie przez uczestników obrotu niewspó∏miernej szkody lub narazi∏oby na powa˝ne niebezpieczeƒstwo rynki finansowe.
+3. Uchwałę będącą podstawą wydania decyzji, o której mowa w ust. 1, Komisja w całości lub w części ogłasza w Dzienniku Urzędowym Komisji Papierów Wartościowych i Giełd lub nakazuje jej opublikowanie w dwóch dziennikach ogólnopolskich, na koszt strony, chyba że spowodowałoby to poniesienie przez uczestników obrotu niewspółmiernej szkody lub naraziłoby na poważne niebezpieczeństwo rynki finansowe.
 
-4. Uprawnienia Komisji, o których mowa w ust. 1, majà zastosowanie w przypadkach okreÊlonych w art. 39 ust. 4.
+4. Uprawnienia Komisji, o których mowa w ust. 1, mają zastosowanie w przypadkach określonych w art. 39 ust. 4.
 
 **Art. 175.**
 
-1. Na osob´, która nie wykona∏a lub nienale˝ycie wykona∏a obowiàzek, o którym mowa w art. 160 ust. 1, Komisja mo˝e na∏o˝yç, w drodze decyzji, kar´ pieni´˝nà wwysokoÊci do 100 000 z∏, chyba ˝e osoba ta:
+1. Na osobę, która nie wykonała lub nienależycie wykonała obowiązek, o którym mowa w art. 160 ust. 1, Komisja może nałożyć, w drodze decyzji, karę pieniężną wwysokości do 100 000 zł, chyba że osoba ta:
 
-- **1)** zleci∏a uprawnionemu podmiotowi prowadzàcemu dzia∏alnoÊç maklerskà zarzàdzanie portfelem jej papierów wartoÊciowych, wsposób który wy∏àcza wiedz´ tej osoby o transakcjach zawieranych w ramach tego zarzàdzania;
-- **2)** przy zachowaniu nale˝ytej starannoÊci nie wiedzia∏a lub nie mog∏a si´ dowiedzieç o dokonaniu transakcji.
+- **1)** zleciła uprawnionemu podmiotowi prowadzącemu działalność maklerską zarządzanie portfelem jej papierów wartościowych, wsposób który wyłącza wiedzę tej osoby o transakcjach zawieranych w ramach tego zarządzania;
+- **2)** przy zachowaniu należytej staranności nie wiedziała lub nie mogła się dowiedzieć o dokonaniu transakcji.
 
-2. Wydanie decyzji nast´puje po przeprowadzeniu rozprawy.
+2. Wydanie decyzji następuje po przeprowadzeniu rozprawy.
 
 **Art. 176.**
 
-1. Wprzypadku gdy emitent lub wprowadzajàcy nie wykonuje albo wykonuje nienale˝ycie obowiàzki, o których mowa w art. 157 i art. 158, lub wynikajàce z przepisów wydanych na podstawie art. 160 ust. 5, Komisja mo˝e:
+1. Wprzypadku gdy emitent lub wprowadzający nie wykonuje albo wykonuje nienależycie obowiązki, o których mowa w art. 157 i art. 158, lub wynikające z przepisów wydanych na podstawie art. 160 ust. 5, Komisja może:
 
-- **1)** wydaç decyzj´ owykluczeniu papierów wartoÊciowych z obrotu na rynku regulowanym albo
-- **2)** na∏o˝yç kar´ pieni´˝nà do wysokoÊci 1 000 000 z∏, albo
-- **3)** wydaç decyzj´ o wykluczeniu, na czas okreÊlony lub bezterminowo, papierów wartoÊciowych z obrotu na rynku regulowanym, nak∏adajàc jednoczeÊnie kar´ pieni´˝nà okreÊlonà w pkt 2.
+- **1)** wydać decyzję owykluczeniu papierów wartościowych z obrotu na rynku regulowanym albo
+- **2)** nałożyć karę pieniężną do wysokości 1 000 000 zł, albo
+- **3)** wydać decyzję o wykluczeniu, na czas określony lub bezterminowo, papierów wartościowych z obrotu na rynku regulowanym, nakładając jednocześnie karę pieniężną określoną w pkt 2.
 
-2. Przepisy art. 19 oraz art. 96 ust. 5—8, 10 i 11 ustawy o ofercie publicznej stosuje si´ odpowiednio. DZIA¸ IX OdpowiedzialnoÊç cywilna
+2. Przepisy art. 19 oraz art. 96 ust. 5—8, 10 i 11 ustawy o ofercie publicznej stosuje się odpowiednio. DZIAĘ IX Odpowiedzialność cywilna
 
 **Art. 177.**
 
-1. Wystawiajàcy Êwiadectwo odpowiada za szkod´ wyrzàdzonà wskutek wystawienia Êwiadectwa niewa˝nego, wydania Êwiadectwa osobie nieuprawnionej lub niedokonania blokady papierów wartoÊciowych w zwiàzku z wystawieniem Êwiadectwa, chyba ˝e szkoda nastàpi∏a z powodu si∏y wy˝szej albo wy∏àcznie zwiny poszkodowanego lub osoby trzeciej, za którà wystawiajàcy nie ponosi odpowiedzialnoÊci.
+1. Wystawiający świadectwo odpowiada za szkodę wyrządzoną wskutek wystawienia świadectwa nieważnego, wydania świadectwa osobie nieuprawnionej lub niedokonania blokady papierów wartościowych w związku z wystawieniem świadectwa, chyba że szkoda nastąpiła z powodu siły wyższej albo wyłącznie zwiny poszkodowanego lub osoby trzeciej, za którą wystawiający nie ponosi odpowiedzialności.
 
-2. Je˝eli wystawiajàcy Êwiadectwo dzia∏a∏ na zlecenie innej osoby, odpowiedzialnoÊç wystawiajàcego i zleceniodawcy jest solidarna i nie mo˝na jej ograniczyç lub wy∏àczyç z góry. DZIA¸ X Przepisy karne
+2. Jeżeli wystawiający świadectwo działał na zlecenie innej osoby, odpowiedzialność wystawiającego i zleceniodawcy jest solidarna i nie można jej ograniczyć lub wyłączyć z góry. DZIAĘ X Przepisy karne
 
-**Art. 178.** Kto bez wymaganego zezwolenia lub upowa˝nienia zawartego w odr´bnych przepisach albo nie b´dàc do tego uprawnionym w inny sposób okreÊlony w ustawie, prowadzi dzia∏alnoÊç w zakresie obrotu maklerskimi instrumentami finansowymi, podlega grzywnie do 5 000 000 z∏. 2. Je˝eli czynu okreÊlonego wust. 1 dopuszcza si´ osoba, októrej mowa wart. 156 ust. 1 pkt 1 lit. a, podlega ona grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8, albo obu tym karom ∏àcznie.
+**Art. 178.** Kto bez wymaganego zezwolenia lub upoważnienia zawartego w odrębnych przepisach albo nie będąc do tego uprawnionym w inny sposób określony w ustawie, prowadzi działalność w zakresie obrotu maklerskimi instrumentami finansowymi, podlega grzywnie do 5 000 000 zł. 2. Jeżeli czynu określonego wust. 1 dopuszcza się osoba, októrej mowa wart. 156 ust. 1 pkt 1 lit. a, podlega ona grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 6 miesięcy do lat 8, albo obu tym karom łącznie.
 
-**Art. 182.** Kto wbrew zakazowi, o którym mowa wart. 156 ust. 2 pkt 2, udziela rekomendacji lub nak∏ania do nabycia lub zbycia instrumentów finansowych, których dotyczy informacja poufna, podlega grzywnie do 2 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 3, albo obu tym karom ∏àcznie.
+**Art. 182.** Kto wbrew zakazowi, o którym mowa wart. 156 ust. 2 pkt 2, udziela rekomendacji lub nakłania do nabycia lub zbycia instrumentów finansowych, których dotyczy informacja poufna, podlega grzywnie do 2 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
 
 **Art. 183.**
 
-1. Kto dokonuje manipulacji, októrej mowa w art. 39 ust. 2 pkt 1—3, pkt 4 lit. a lub pkt 5—7, podlega grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci od 3 miesi´cy do lat 5, albo obu tym karom ∏àcznie.
+1. Kto dokonuje manipulacji, októrej mowa w art. 39 ust. 2 pkt 1—3, pkt 4 lit. a lub pkt 5—7, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 3 miesięcy do lat 5, albo obu tym karom łącznie.
 
-2. Kto wchodzi w porozumienie z innà osobà majàce na celu manipulacj´, o której mowa w art. 39 ust. 2 pkt 1—3, pkt 4 lit. alub pkt 5—7, podlega grzywArt. 179. Kto, b´dàc obowiàzany do zachowania tajemnicy zawodowej, ujawnia lub wykorzystuje w obrocie papierami wartoÊciowymi informacje stanowiàce tajemnic´ zawodowà, podlega grzywnie do 1 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 3, albo obu tym karom ∏àcznie.
+2. Kto wchodzi w porozumienie z inną osobą mające na celu manipulację, o której mowa w art. 39 ust. 2 pkt 1—3, pkt 4 lit. alub pkt 5—7, podlega grzywArt. 179. Kto, będąc obowiązany do zachowania tajemnicy zawodowej, ujawnia lub wykorzystuje w obrocie papierami wartościowymi informacje stanowiące tajemnicę zawodową, podlega grzywnie do 1 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
 
-**Art. 180.** Kto wbrew zakazowi, o którym mowa w art. 156 ust. 2 pkt 1, ujawnia informacj´ poufnà, podlega grzywnie do 2 000 000 z∏ albo karze pozbawienia wolnoÊci do lat 3, albo obu tym karom ∏àcznie.
+**Art. 180.** Kto wbrew zakazowi, o którym mowa w art. 156 ust. 2 pkt 1, ujawnia informację poufną, podlega grzywnie do 2 000 000 zł albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.
 
 **Art. 181.**
 
-1. Kto wbrew zakazowi, o którym mowa w art. 156 ust. 1, wykorzystuje informacj´ poufnà, podlega grzywnie do 5 000 000 z∏ albo karze pozbawienia wolnoÊci od 3 miesi´cy do lat 5, albo obu tym karom ∏àcznie. nie do 2 000 000 z∏.
+1. Kto wbrew zakazowi, o którym mowa w art. 156 ust. 1, wykorzystuje informację poufną, podlega grzywnie do 5 000 000 zł albo karze pozbawienia wolności od 3 miesięcy do lat 5, albo obu tym karom łącznie. nie do 2 000 000 zł.
 
 **Art. 184.**
 
-1. Kto uniemo˝liwia lub utrudnia przeprowadzanie czynnoÊci, o których mowa w art. 30 ust. 1—3, art. 37 w zwiàzku z art. 30 i art. 64, art. 88, art. 90 ust. 2 i 3 oraz art. 122, podlega karze aresztu, ograniczenia wolnoÊci albo grzywny.
+1. Kto uniemożliwia lub utrudnia przeprowadzanie czynności, o których mowa w art. 30 ust. 1—3, art. 37 w związku z art. 30 i art. 64, art. 88, art. 90 ust. 2 i 3 oraz art. 122, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-2. Tej samej karze podlega, kto dzia∏ajàc wimieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadajàcej osobowoÊci prawnej:
+2. Tej samej karze podlega, kto działając wimieniu lub w interesie osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej:
 
-- **1)** wbrew nakazowi okreÊlonemu w art. 89 ust. 4 nie dokonuje przeniesienia papierów wartoÊciowych, innych maklerskich instrumentów finansowych i Êrodków pieni´˝nych lub dokumentów zwiàzanych z prowadzeniem tych rachunków;
-- **2)** wbrew obowiàzkowi, o którym mowa w art. 90 ust. 1, nie archiwizuje lub nie przechowuje dokumentów lub innych noÊników informacji zwiàzanych z prowadzeniem dzia∏alnoÊci maklerskiej lub powierniczej.
+- **1)** wbrew nakazowi określonemu w art. 89 ust. 4 nie dokonuje przeniesienia papierów wartościowych, innych maklerskich instrumentów finansowych i środków pieniężnych lub dokumentów związanych z prowadzeniem tych rachunków;
+- **2)** wbrew obowiązkowi, o którym mowa w art. 90 ust. 1, nie archiwizuje lub nie przechowuje dokumentów lub innych nośników informacji związanych z prowadzeniem działalności maklerskiej lub powierniczej.
 
-3. Orzekanie w sprawach okreÊlonych w ust. 1 i 2 nast´puje wtrybie przepisów opost´powaniu wsprawach o wykroczenia. DZIA¸ XI Zmiany w przepisach obowiàzujàcych
+3. Orzekanie w sprawach określonych w ust. 1 i 2 następuje wtrybie przepisów opostępowaniu wsprawach o wykroczenia. DZIAĘ XI Zmiany w przepisach obowiązujących
 
-**Art. 185.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomoÊci przez cudzoziemców (Dz. U. z 2004 r. 167, poz. 1758 oraz z 2005 r. 94, poz. 788) w art. 3e ust. 3 otrzymuje brzmienie: „3. Przepisy ust. 1 i 2 nie dotyczà przypadków, gdy akcje spó∏ki sà dopuszczone do obrotu na rynku regulowanym albo spó∏ka jest w∏aÊcicielem lub wieczystym u˝ytkownikiem nieruchomoÊci okreÊlonej wart. 8 ust. 1 pkt 1, 1ai5, zzastrze˝eniem art. 8 ust. 3.”.
+**Art. 185.** W ustawie z dnia 24 marca 1920 r. o nabywaniu nieruchomości przez cudzoziemców (Dz. U. z 2004 r. 167, poz. 1758 oraz z 2005 r. 94, poz. 788) w art. 3e ust. 3 otrzymuje brzmienie: Ń3. Przepisy ust. 1 i 2 nie dotyczą przypadków, gdy akcje spółki są dopuszczone do obrotu na rynku regulowanym albo spółka jest właścicielem lub wieczystym użytkownikiem nieruchomości określonej wart. 8 ust. 1 pkt 1, 1ai5, zzastrzeżeniem art. 8 ust. 3.”.
 
-**Art. 186.** W ustawie z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. 43, poz. 296, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 186.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 187.** Wustawie zdnia 17 czerwca 1966 r. opost´powaniu egzekucyjnym w administracji (Dz. U. z 2002 r. 110, poz. 968, z póên. zm. z autorskich praw majàtkowych i praw pokrewnych oraz z praw w∏asnoÊci przemys∏owej, z udzia∏u w spó∏ce z ograniczonà odpowiedzialnoÊcià, z pozosta∏ych praw majàtkowych, z ruchomoÊci, z nieruchomoÊci,”;
+**Art. 187.** Wustawie zdnia 17 czerwca 1966 r. opostępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. 110, poz. 968, z póên. zm. z autorskich praw majątkowych i praw pokrewnych oraz z praw własności przemysłowej, z udziału w spółce z ograniczoną odpowiedzialnością, z pozostałych praw majątkowych, z ruchomości, z nieruchomości,”;
 
 **Art. 93.**
 
-§ 1. Organ egzekucyjny dokonuje zaj´cia praw z instrumentów finansowych w rozumieniu przepisów o obrocie instrumentami finansowymi, zapisanych na rachunku papierów wartoÊciowych lub innym rachunku, oraz wierzytelnoÊci z rachunku pieni´˝ne) wprowadza go zobowiàzanego przez przes∏anie si´ nast´pujàce zmiany: do podmiotu prowadzàcego te ra1) w art. 1a w pkt 12 lit. a otrzymuje brzmienie: chunki, zwanego dalej „prowadzàcym rachunki”, zawiadomienia o zaj´ciu „a) w post´powaniu egzekucyjnym dotyczàcym praw z instrumentów finansowych nale˝noÊci pieni´˝nych, egzekucj´: oraz wierzytelnoÊci z rachunku pieni´˝nego zobowiàzanego do wysokoz pieni´dzy, Êci dochodzonych nale˝noÊci, o któz wynagrodzenia za prac´, rych mowa w § 2. ze Êwiadczeƒ z zaopatrzenia emerytalnego § 2. Organ egzekucyjny wzywa prowadzàoraz ubezpieczenia spo∏ecznego, a tak˝e cego rachunki, aby przekaza∏ organoz renty socjalnej, wi egzekucyjnemu zrachunku pieni´˝nego zobowiàzanego Êrodki do wysoz rachunków bankowych, koÊci egzekwowanej nale˝noÊci wraz z innych wierzytelnoÊci pieni´˝nych, z odsetkami z tytu∏u niezap∏acenia nale˝noÊci wterminie ikosztami egzekuzpraw zinstrumentów finansowych wrozu- cyjnymi, a je˝eli Êrodki na rachunku mieniu przepisów o obrocie instrumentami finansowymi, zapisanych na rachunku papierów wartoÊciowych lub innym rachunku, oraz z wierzytelnoÊci z rachunku pieni´˝nego s∏u˝àcego do obs∏ugi takich rachunków, z papierów wartoÊciowych niezapisanych na rachunku papierów wartoÊciowych, z weksla, pieni´˝nym nie sà wystarczajàce do pokrycia egzekwowanych kwot, aby dokona∏ na ˝àdanie organu egzekucyjnego sprzeda˝y zaj´tych instrumentów finansowych i uzyskanà ze sprzeda˝y kwot´ wp∏aci∏ organowi egzekucyjnemu albo zawiadomi∏ ten organ w terminie 7 dni od dnia dor´czenia zawiadomienia o przeszkodzie w dokonaniu realizacji zaj´cia, w tym równie˝ o nieprowadzeniu rachunku pieni´˝nego, rachunku papierów wartoÊciowych lub innego rachunku zobowiàzanego.
+§ 1. Organ egzekucyjny dokonuje zajęcia praw z instrumentów finansowych w rozumieniu przepisów o obrocie instrumentami finansowymi, zapisanych na rachunku papierów wartościowych lub innym rachunku, oraz wierzytelności z rachunku pieniężne) wprowadza go zobowiązanego przez przesłanie się następujące zmiany: do podmiotu prowadzącego te ra1) w art. 1a w pkt 12 lit. a otrzymuje brzmienie: chunki, zwanego dalej Ńprowadzącym rachunki”, zawiadomienia o zajęciu Ńa) w postępowaniu egzekucyjnym dotyczącym praw z instrumentów finansowych należności pieniężnych, egzekucję: oraz wierzytelności z rachunku pieniężnego zobowiązanego do wysokoz pieniędzy, ści dochodzonych należności, o któz wynagrodzenia za pracę, rych mowa w § 2. ze świadczeń z zaopatrzenia emerytalnego § 2. Organ egzekucyjny wzywa prowadząoraz ubezpieczenia społecznego, a także cego rachunki, aby przekazał organoz renty socjalnej, wi egzekucyjnemu zrachunku pieniężnego zobowiązanego środki do wysoz rachunków bankowych, kości egzekwowanej należności wraz z innych wierzytelności pieniężnych, z odsetkami z tytułu niezapłacenia należności wterminie ikosztami egzekuzpraw zinstrumentów finansowych wrozu- cyjnymi, a jeżeli środki na rachunku mieniu przepisów o obrocie instrumentami finansowymi, zapisanych na rachunku papierów wartościowych lub innym rachunku, oraz z wierzytelności z rachunku pieniężnego służącego do obsługi takich rachunków, z papierów wartościowych niezapisanych na rachunku papierów wartościowych, z weksla, pieniężnym nie są wystarczające do pokrycia egzekwowanych kwot, aby dokonał na żądanie organu egzekucyjnego sprzedaży zajętych instrumentów finansowych i uzyskaną ze sprzedaży kwotę wpłacił organowi egzekucyjnemu albo zawiadomił ten organ w terminie 7 dni od dnia doręczenia zawiadomienia o przeszkodzie w dokonaniu realizacji zajęcia, w tym również o nieprowadzeniu rachunku pieniężnego, rachunku papierów wartościowych lub innego rachunku zobowiązanego.
 
-§ 3. Zaj´cie praw z instrumentów finansowych oraz wierzytelnoÊci z rachunku pieni´˝nego jest dokonane z chwilà dor´czenia prowadzàcemu rachunki zawiadomienia o zaj´ciu tych praw i obejmuje równie˝ prawa i wierzytelnoÊci, które nie zosta∏y zapisane lub nie znajdowa∏y si´ na rachunkach zobowiàzanego w chwili zaj´cia.
+§ 3. Zajęcie praw z instrumentów finansowych oraz wierzytelności z rachunku pieniężnego jest dokonane z chwilą doręczenia prowadzącemu rachunki zawiadomienia o zajęciu tych praw i obejmuje również prawa i wierzytelności, które nie zostały zapisane lub nie znajdowały się na rachunkach zobowiązanego w chwili zajęcia.
 
-§ 4. Zaj´cie praw z instrumentów finansowych oraz wierzytelnoÊci z rachunku pieni´˝nego jest skuteczne tak˝e wtedy, gdy zawiadomienie, októrym mowa w § 1, zawiera tylko imi´ i nazwisko lub firm´ oraz adres zobowiàzanego.
+§ 4. Zajęcie praw z instrumentów finansowych oraz wierzytelności z rachunku pieniężnego jest skuteczne także wtedy, gdy zawiadomienie, októrym mowa w § 1, zawiera tylko imię i nazwisko lub firmę oraz adres zobowiązanego.
 
-§ 5. JednoczeÊnie z przes∏aniem zawiadomienia, o którym mowa w § 1, organ egzekucyjny:
+§ 5. Jednocześnie z przesłaniem zawiadomienia, o którym mowa w § 1, organ egzekucyjny:
 
-- **1)** zawiadamia zobowiàzanego o zaj´ciu jego praw z instrumentów finansowych i wierzytelnoÊci z rachunku pieni´˝nego, dor´czajàc mu odpis tytu∏u wykonawczego, o ile nie zosta∏ wczeÊniej dor´czony, i odpis zawiadomienia skierowanego do prowadzàcego rachunki ozaj´ciu praw zinstrumentów finansowych i wierzytelnoÊci z rachunku pieni´˝nego, jak równie˝ zawiadamia zobowiàzanego, ˝e nie wolno mu zaj´tymi prawami rozporzàdzaç,
-- **2)** wzywa zobowiàzanego, aby w terminie 7 dni od dnia dor´czenia zawiadomienia, o którym mowa w pkt 1, poinformowa∏ organ egzekucyjny, w jakiej kolejnoÊci i po jakiej cenie instrumenty finansowe majà byç zbywane.
+- **1)** zawiadamia zobowiązanego o zajęciu jego praw z instrumentów finansowych i wierzytelności z rachunku pieniężnego, doręczając mu odpis tytułu wykonawczego, o ile nie został wcześniej doręczony, i odpis zawiadomienia skierowanego do prowadzącego rachunki ozajęciu praw zinstrumentów finansowych i wierzytelności z rachunku pieniężnego, jak również zawiadamia zobowiązanego, że nie wolno mu zajętymi prawami rozporządzać,
+- **2)** wzywa zobowiązanego, aby w terminie 7 dni od dnia doręczenia zawiadomienia, o którym mowa w pkt 1, poinformował organ egzekucyjny, w jakiej kolejności i po jakiej cenie instrumenty finansowe mają być zbywane.
 
-§ 6. W przypadku, o którym mowa w § 5 pkt 2, organ egzekucyjny, stosownie do dyspozycji zobowiàzanego, wystawia zlecenie sprzeda˝y instrumentów finansowych b´dàcych przedmiotem obrotu zorganizowanego w rozumieniu przepisów o obrocie instrumentami finansowymi.
+§ 6. W przypadku, o którym mowa w § 5 pkt 2, organ egzekucyjny, stosownie do dyspozycji zobowiązanego, wystawia zlecenie sprzedaży instrumentów finansowych będących przedmiotem obrotu zorganizowanego w rozumieniu przepisów o obrocie instrumentami finansowymi.
 
-§ 7. Je˝eli zobowiàzany w wyznaczonym terminie nie wskaza∏ ceny lub kolejnoÊci zbycia instrumentów finansowych lub je˝eli w terminie 5 kolejnych dni transakcyjnych sprzeda˝ instrumentów finansowych zgodnie z dyspozycjà zobowiàzanego nie dojdzie do skutku, organ egzekucyjny wystawia zlecenie sprzeda˝y instrumentów fiz dnia poprzedzajàcego dzieƒ zlecenia ich sprzeda˝y w obrocie zorganizowanym.
+§ 7. Jeżeli zobowiązany w wyznaczonym terminie nie wskazał ceny lub kolejności zbycia instrumentów finansowych lub jeżeli w terminie 5 kolejnych dni transakcyjnych sprzedaż instrumentów finansowych zgodnie z dyspozycją zobowiązanego nie dojdzie do skutku, organ egzekucyjny wystawia zlecenie sprzedaży instrumentów fiz dnia poprzedzającego dzień zlecenia ich sprzedaży w obrocie zorganizowanym.
 
-§ 9. Wpierwszej kolejnoÊci sprzeda˝y podlegajà instrumenty finansowe, których ceny w dniu poprzedzajàcym dzieƒ zlecenia sprzeda˝y zapewnia∏y najwy˝szy dochód lub najni˝szà strat´ liczonà w stosunku do wartoÊci nominalnej tych instrumentów.
+§ 9. Wpierwszej kolejności sprzedaży podlegają instrumenty finansowe, których ceny w dniu poprzedzającym dzień zlecenia sprzedaży zapewniały najwyższy dochód lub najniższą stratę liczoną w stosunku do wartości nominalnej tych instrumentów.
 
-§ 10. Je˝eli w pierwszym dniu transakcyjnym po up∏ywie okresu, októrym mowa w § 7, sprzeda˝ instrumentów finansowych nie dojdzie do skutku lub uzyskana ze sprzeda˝y kwota nie wystarcza na pokrycie dochodzonych nale˝noÊci, organ egzekucyjny zleca dokonanie sprzeda˝y uzupe∏niajàcych, stosujàc zasady okreÊlone w § 8 i 9.
+§ 10. Jeżeli w pierwszym dniu transakcyjnym po upływie okresu, októrym mowa w § 7, sprzedaż instrumentów finansowych nie dojdzie do skutku lub uzyskana ze sprzedaży kwota nie wystarcza na pokrycie dochodzonych należności, organ egzekucyjny zleca dokonanie sprzedaży uzupełniających, stosując zasady określone w § 8 i 9.
 
 **Art. 94.**
 
-§ 1. Do zaj´cia instrumentów finansowych zapisanych na rachunku papierów wartoÊciowych lub innym rachunku, lecz nieb´dàcych przedmiotem obrotu zorganizowanego, stosuje si´ odpowiednio przepisy art. 93 § 1, 3, 4 i § 5 pkt 1.
+§ 1. Do zajęcia instrumentów finansowych zapisanych na rachunku papierów wartościowych lub innym rachunku, lecz niebędących przedmiotem obrotu zorganizowanego, stosuje się odpowiednio przepisy art. 93 § 1, 3, 4 i § 5 pkt 1.
 
-§ 2. Po otrzymaniu zawiadomienia o zaj´ciu instrumentów finansowych, o których mowa w§ 1, prowadzàcy rachunki niezw∏ocznie przesy∏a organowi egzekucyjnemu wyciàg z rachunków zobowiàzanego.
+§ 2. Po otrzymaniu zawiadomienia o zajęciu instrumentów finansowych, o których mowa w§ 1, prowadzący rachunki niezwłocznie przesyła organowi egzekucyjnemu wyciąg z rachunków zobowiązanego.
 
-§ 3. Sprzeda˝ instrumentów finansowych, o których mowa w § 1, nast´puje na rzecz osób fizycznych w trybie przepisów dzia∏u II rozdzia∏u 6 oddzia∏u 2.
+§ 3. Sprzedaż instrumentów finansowych, o których mowa w § 1, następuje na rzecz osób fizycznych w trybie przepisów działu II rozdziału 6 oddziału 2.
 
-**Art. 94a.** Prowadzàcy rachunki dokonuje zapisu instrumentów finansowych nabywcy na jego rachunku na podstawie postanowienia, o którym mowa w art. 68b. nansowych po cenie umo˝liwiajàcej realizacj´ zlecenia w obrocie zorganizowanym.
+**Art. 94a.** Prowadzący rachunki dokonuje zapisu instrumentów finansowych nabywcy na jego rachunku na podstawie postanowienia, o którym mowa w art. 68b. nansowych po cenie umożliwiającej realizację zlecenia w obrocie zorganizowanym.
 
-**Art. 94b.** Wprzypadku dokonania przez prowadzàcego rachunki wyp∏aty zobowiàzanemu zaj´tych kwot lub kwot uzyskanych ze sprzeda˝y zaj´tych praw z instrumentów finansowych albo wykonania rozporzàdzeƒ zobowiàzanego powodujàcych nieskutecznoÊç prowadzonej egzekucji, stosuje si´ odpowiednio przepis art. 71b.
+**Art. 94b.** Wprzypadku dokonania przez prowadzącego rachunki wypłaty zobowiązanemu zajętych kwot lub kwot uzyskanych ze sprzedaży zajętych praw z instrumentów finansowych albo wykonania rozporządzeń zobowiązanego powodujących nieskuteczność prowadzonej egzekucji, stosuje się odpowiednio przepis art. 71b.
 
-**Art. 94c.** Je˝eli zaj´te prawa zinstrumentów finansowych zobowiàzanego i wierzytelnoÊci z rachunku pieni´˝nego zosta∏y uprzednio zaj´te przez inny organ egzekucyjny, prowadzàcy rachunki niezw∏ocznie zawiadamia o tym w∏aÊciwe organy egzekucyjne.”.
+**Art. 94c.** Jeżeli zajęte prawa zinstrumentów finansowych zobowiązanego i wierzytelności z rachunku pieniężnego zostały uprzednio zajęte przez inny organ egzekucyjny, prowadzący rachunki niezwłocznie zawiadamia o tym właściwe organy egzekucyjne.”.
 
-**Art. 188.** Wustawie zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, z póên. zm. ) wprowadza si´ nast´- b) po ust. 1b dodaje si´ ust. 1c w brzmieniu: pujàce zmiany: „1c. Nie ustala si´ przychodu ztytu∏u umorzenia jednostek uczestnictwa subfunduszu fun1) w art. 5a: duszu inwestycyjnego zwydzielonymi suba) pkt 11 otrzymuje brzmienie: funduszami, w przypadku zamiany jedno„11) papierach wartoÊciowych oznacza to stek uczestnictwa subfunduszu na jednostpapiery wartoÊciowe, o których mowa ki uczestnictwa innego subfunduszu tego wart. 3 pkt 1 ustawy zdnia 29 lipca 2005 r. samego funduszu inwestycyjnego, dokonao obrocie instrumentami finansowymi nej na podstawie ustawy z dnia 27 maja (Dz. U. 183, poz. 1538),”, 2004 r. ofunduszach inwestycyjnych (Dz. U. 146, poz. 1546 oraz z 2005 r. 183,
+**Art. 188.** Wustawie zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, z póên. zm. ) wprowadza się nastę- b) po ust. 1b dodaje się ust. 1c w brzmieniu: pujące zmiany: Ń1c. Nie ustala się przychodu ztytułu umorzenia jednostek uczestnictwa subfunduszu fun1) w art. 5a: duszu inwestycyjnego zwydzielonymi suba) pkt 11 otrzymuje brzmienie: funduszami, w przypadku zamiany jednoŃ11) papierach wartościowych oznacza to stek uczestnictwa subfunduszu na jednostpapiery wartościowe, o których mowa ki uczestnictwa innego subfunduszu tego wart. 3 pkt 1 ustawy zdnia 29 lipca 2005 r. samego funduszu inwestycyjnego, dokonao obrocie instrumentami finansowymi nej na podstawie ustawy z dnia 27 maja (Dz. U. 183, poz. 1538),”, 2004 r. ofunduszach inwestycyjnych (Dz. U. 146, poz. 1546 oraz z 2005 r. 183,
 
-**Art. 189.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. 54, poz. 654, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 189.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. 54, poz. 654, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 190.** W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z2000 r. 9, poz. 131, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 190.** W ustawie z dnia 14 grudnia 1994 r. o Bankowym Funduszu Gwarancyjnym (Dz. U. z2000 r. 9, poz. 131, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 191.** Wustawie zdnia 29 czerwca 1995 r. oobligacjach (Dz. U. z 2001 r. 120, poz. 1300, z 2002 r. 216, poz. 1824, z 2003 r. 217, poz. 2124 oraz z 2005 r. 157, poz. 1316) w art. 31 w ust. 2 po pkt 2 dodaje si´ pkt 2a w brzmieniu: „2a) z którym emitent zawar∏ umow´ o oferowanie papierów wartoÊciowych, o której mowa w art. 72 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538),”.
+**Art. 191.** Wustawie zdnia 29 czerwca 1995 r. oobligacjach (Dz. U. z 2001 r. 120, poz. 1300, z 2002 r. 216, poz. 1824, z 2003 r. 217, poz. 2124 oraz z 2005 r. 157, poz. 1316) w art. 31 w ust. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: Ń2a) z którym emitent zawarł umowę o oferowanie papierów wartościowych, o której mowa w art. 72 ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538),”.
 
-**Art. 192.** W ustawie z dnia 21 czerwca 1996 r. o urz´dach i izbach skarbowych (Dz. U. z 2004 r. 121, poz. 1267 i 273, poz. 2703) w art. 5 w ust. 9b pkt 4 otrzymuje brzmienie: „4) jednostek dzia∏ajàcych na podstawie przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538) oraz przepisów o funduszach inwestycyjnych;”.
+**Art. 192.** W ustawie z dnia 21 czerwca 1996 r. o urzędach i izbach skarbowych (Dz. U. z 2004 r. 121, poz. 1267 i 273, poz. 2703) w art. 5 w ust. 9b pkt 4 otrzymuje brzmienie: Ń4) jednostek działających na podstawie przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538) oraz przepisów o funduszach inwestycyjnych;”.
 
-**Art. 193.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnieƒ przys∏ugujàcych Skarbowi Paƒstwa (Dz. U. 106, poz. 493, z póên. zm. ) w art. 5a w ust. 3 pkt 3 otrzymuje brzmienie: „3) w zakresie rozporzàdzenia akcjami i obligacjami dopuszczonymi do obrotu na rynku regulowanym w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. oobrocie instrumentami finansowymi (Dz. U. 183, poz. 1538),”.
+**Art. 193.** W ustawie z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. 106, poz. 493, z póên. zm. ) w art. 5a w ust. 3 pkt 3 otrzymuje brzmienie: Ń3) w zakresie rozporządzenia akcjami i obligacjami dopuszczonymi do obrotu na rynku regulowanym w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. oobrocie instrumentami finansowymi (Dz. U. 183, poz. 1538),”.
 
-**Art. 194.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. 149, poz. 703, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 194.** W ustawie z dnia 6 grudnia 1996 r. o zastawie rejestrowym i rejestrze zastawów (Dz. U. 149, poz. 703, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 195.** W ustawie z dnia 8 maja 1997 r. o por´czeniach i gwarancjach udzielanych przez Skarb Paƒstwa oraz niektóre osoby prawne (Dz. U. z 2003 r. 174, poz. 1689, z póên. zm.
+**Art. 195.** W ustawie z dnia 8 maja 1997 r. o poręczeniach i gwarancjach udzielanych przez Skarb Państwa oraz niektóre osoby prawne (Dz. U. z 2003 r. 174, poz. 1689, z póên. zm.
 
-**Art. 196.** Wustawie zdnia 28 sierpnia 1997 r. oorganizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z2004 r. 159, poz. 1667 oraz z 2005 r. 143, poz. 1202) wprowadza si´ nast´pujàce zmiany:
+**Art. 196.** Wustawie zdnia 28 sierpnia 1997 r. oorganizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z2004 r. 159, poz. 1667 oraz z 2005 r. 143, poz. 1202) wprowadza się następujące zmiany:
 
-**Art. 197.** Wustawie zdnia 29 sierpnia 1997 r. okomornikach sàdowych i egzekucji (Dz. U. 133, poz. 882, z póên. zm. ) w art. 2 ust. 5 otrzymuje brzmienie: „5. Organy administracji publicznej, urz´dy skarbowe, organy rentowe, o których mowa w art. 476 § 4 Kodeksu post´powania cywilnego, banki, spó∏dzielcze kasy oszcz´dnoÊciowo-kredytowe i podmioty prowadzàce dzia∏alnoÊç maklerskà na podstawie przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538), zobowiàzane sà na pisemne ˝àdanie komornika udzieliç mu informacji niezb´dnych dla prawid∏owego prowadzenia post´powania egzekucyjnego. Przepisy art. 762 Kodeksu post´powania cywilnego stosuje si´ odpowiednio. W sprawach o egzekucj´ Êwiadczeƒ alimentacyjnych lub rent majàcych charakter alimentów informacje, o których mowa w niniejszym ust´pie, udzielane sà nieodp∏atnie.”.
+**Art. 197.** Wustawie zdnia 29 sierpnia 1997 r. okomornikach sądowych i egzekucji (Dz. U. 133, poz. 882, z póên. zm. ) w art. 2 ust. 5 otrzymuje brzmienie: Ń5. Organy administracji publicznej, urzędy skarbowe, organy rentowe, o których mowa w art. 476 § 4 Kodeksu postępowania cywilnego, banki, spółdzielcze kasy oszczędnościowo-kredytowe i podmioty prowadzące działalność maklerską na podstawie przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538), zobowiązane są na pisemne żądanie komornika udzielić mu informacji niezbędnych dla prawidłowego prowadzenia postępowania egzekucyjnego. Przepisy art. 762 Kodeksu postępowania cywilnego stosuje się odpowiednio. W sprawach o egzekucję świadczeń alimentacyjnych lub rent mających charakter alimentów informacje, o których mowa w niniejszym ustępie, udzielane są nieodpłatnie.”.
 
 **Art. 198.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, z póên. zm.
 
-**Art. 199.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych (Dz. U. 137, poz. 887, z póên. zm. ) w art. 65 w ust. 2 pkt 4 otrzymuje brzmienie: „4) akcjach i obligacjach zdematerializowanych zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538),”.
+**Art. 199.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. 137, poz. 887, z póên. zm. ) w art. 65 w ust. 2 pkt 4 otrzymuje brzmienie: Ń4) akcjach i obligacjach zdematerializowanych zgodnie z przepisami ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538),”.
 
-**Art. 200.** W ustawie z dnia 15 wrzeÊnia 2000 r. Kodeks spó∏ek handlowych (Dz. U. 94, poz. 1037, z póên. zm. go wk∏adami niepieni´˝nymi po dokonaniu rejestracji, nale˝y do∏àczyç oÊwiadczenie wszystkich cz∏onków zarzàdu, ˝e wniesienie tych wk∏adów do spó∏ki jest zapewnione zgodnie zpostanowieniami statutu przed up∏ywem terminu okreÊlonego w art. 309 § 3,”;
+**Art. 200.** W ustawie z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. 94, poz. 1037, z póên. zm. go wkładami niepieniężnymi po dokonaniu rejestracji, należy dołączyć oświadczenie wszystkich członków zarządu, że wniesienie tych wkładów do spółki jest zapewnione zgodnie zpostanowieniami statutu przed upływem terminu określonego w art. 309 § 3,”;
 
-**Art. 201.** W ustawie z dnia 26 paêdziernika 2000 r. o gie∏dach towarowych (Dz. U. z 2005 r. 121, poz. 1019 i 183, poz. 1537) wprowadza si´ nast´pujàce zmiany:
+**Art. 201.** W ustawie z dnia 26 paêdziernika 2000 r. o giełdach towarowych (Dz. U. z 2005 r. 121, poz. 1019 i 183, poz. 1537) wprowadza się następujące zmiany:
 
-**Art. 202.** W ustawie z dnia 16 listopada 2000 r. o domach sk∏adowych oraz o zmianie Kodeksu cywilnego, Kodeksu post´powania cywilnego i innych ustaw (Dz. U. 114, poz. 1191 oraz z 2004 r. 173, poz. 1808) w art. 3 ust. 3 otrzymuje brzmienie: „3. Dzia∏alnoÊcià przedsi´biorcy mogà kierowaç osoby, które nie sà skazane prawomocnym wyrokiem za przest´pstwo przeciwko wiarygodnoÊci dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieni´dzmi i papierami wartoÊciowymi, przest´pstwo skarbowe oraz za przest´pstwa okreÊlone w przepisach ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spó∏kach publicznych (Dz. U. 184, poz. 1539), ustawy z dnia obrotu wartoÊciami majàtkowymi, adwoka29 lipca 2005 r. o obrocie instrumentami finanso- tów wykonujàcych zawód, radców prawwymi (Dz. U. 183, poz. 1538), ustawy z dnia nych wykonujàcych zawód poza stosun29 lipca 2005 r. onadzorze nad rynkiem kapita∏o- kiem pracy, prawników zagranicznych wym (Dz. U. 183, poz. 1537) lub za przest´p- Êwiadczàcych pomoc prawnà poza stosunstwa okreÊlone w ustawie.”. kiem pracy, bieg∏ych rewidentów wykonujàcych zawód, doradców podatkowych wykoArt. 203. W ustawie z dnia 16 listopada 2000 r. nujàcych zawód, podmioty prowadzàce o przeciwdzia∏aniu wprowadzaniu do obrotu finanso- dzia∏alnoÊç kantorowà, przedsi´biorców wego wartoÊci majàtkowych pochodzàcych z nielegal- prowadzàcych: domy aukcyjne, antykwarianych lub nieujawnionych êróde∏ oraz o przeciwdzia∏a- ty, dzia∏alnoÊç leasingowà lub factoringoniu finansowaniu terroryzmu (Dz. U. z 2003 r. 153, wà, dzia∏alnoÊç wzakresie: obrotu metalami poz. 1505 oraz z 2004 r. 62, poz. 577, 96, poz. 959 lub kamieniami szlachetnymi i pó∏szlacheti 116, poz. 1203) wprowadza si´ nast´pujàce zmiany: nymi, sprzeda˝y komisowej, udzielania po˝yczek pod zastaw (lombardy) lub poÊred1) w art. 2: nictwa w obrocie nieruchomoÊciami oraz
+**Art. 202.** W ustawie z dnia 16 listopada 2000 r. o domach składowych oraz o zmianie Kodeksu cywilnego, Kodeksu postępowania cywilnego i innych ustaw (Dz. U. 114, poz. 1191 oraz z 2004 r. 173, poz. 1808) w art. 3 ust. 3 otrzymuje brzmienie: Ń3. Działalnością przedsiębiorcy mogą kierować osoby, które nie są skazane prawomocnym wyrokiem za przestępstwo przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, przestępstwo skarbowe oraz za przestępstwa określone w przepisach ustawy z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. 184, poz. 1539), ustawy z dnia obrotu wartościami majątkowymi, adwoka29 lipca 2005 r. o obrocie instrumentami finanso- tów wykonujących zawód, radców prawwymi (Dz. U. 183, poz. 1538), ustawy z dnia nych wykonujących zawód poza stosun29 lipca 2005 r. onadzorze nad rynkiem kapitało- kiem pracy, prawników zagranicznych wym (Dz. U. 183, poz. 1537) lub za przestęp- świadczących pomoc prawną poza stosunstwa określone w ustawie.”. kiem pracy, biegłych rewidentów wykonujących zawód, doradców podatkowych wykoArt. 203. W ustawie z dnia 16 listopada 2000 r. nujących zawód, podmioty prowadzące o przeciwdziałaniu wprowadzaniu do obrotu finanso- działalność kantorową, przedsiębiorców wego wartości majątkowych pochodzących z nielegal- prowadzących: domy aukcyjne, antykwarianych lub nieujawnionych êródeł oraz o przeciwdziała- ty, działalność leasingową lub factoringoniu finansowaniu terroryzmu (Dz. U. z 2003 r. 153, wą, działalność wzakresie: obrotu metalami poz. 1505 oraz z 2004 r. 62, poz. 577, 96, poz. 959 lub kamieniami szlachetnymi i półszlacheti 116, poz. 1203) wprowadza się następujące zmiany: nymi, sprzedaży komisowej, udzielania pożyczek pod zastaw (lombardy) lub pośred1) w art. 2: nictwa w obrocie nieruchomościami oraz
 
-**Art. 204.** W ustawie z dnia 24 sierpnia 2001 r. o ostatecznoÊci rozrachunku w systemach p∏atnoÊci i systemach rozrachunku papierów wartoÊciowych oraz zasadach nadzoru nad tymi systemami (Dz. U. 123, poz. 1351, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 204.** W ustawie z dnia 24 sierpnia 2001 r. o ostateczności rozrachunku w systemach płatności i systemach rozrachunku papierów wartościowych oraz zasadach nadzoru nad tymi systemami (Dz. U. 123, poz. 1351, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 205.** W ustawie z dnia 28 paêdziernika 2002 r. oodpowiedzialnoÊci podmiotów zbiorowych za czyny zabronione pod groêbà kary (Dz. U. 197, poz. 1661, z póên. zm. chunkowà, o której mowa w przepisach ustawy zdnia 26 paêdziernika 2000 r. ogie∏dach towarowych, oraz do systemów prowadzonych przez NBP.”;
+**Art. 205.** W ustawie z dnia 28 paêdziernika 2002 r. oodpowiedzialności podmiotów zbiorowych za czyny zabronione pod groêbą kary (Dz. U. 197, poz. 1661, z póên. zm. chunkową, o której mowa w przepisach ustawy zdnia 26 paêdziernika 2000 r. ogiełdach towarowych, oraz do systemów prowadzonych przez NBP.”;
 
-**Art. 206.** Wustawie zdnia 28 lutego 2003 r. Prawo upad∏oÊciowe i naprawcze (Dz. U. 60, poz. 535, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 206.** Wustawie zdnia 28 lutego 2003 r. Prawo upadłościowe i naprawcze (Dz. U. 60, poz. 535, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 207.** W ustawie z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej (Dz. U. 124, poz. 1151, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 207.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. 124, poz. 1151, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 208.** W ustawie z dnia 22 maja 2003 r. o poÊrednictwie ubezpieczeniowym (Dz. U. 124, poz. 1154, z2004 r. 96, poz. 959 oraz z2005 r. 48, poz. 447 i 167, poz. 1396) w art. 24 w ust. 1 pkt 4 otrzymuje brzmienie: „4) posiadaç akcji zak∏adu ubezpieczeƒ, z wyjàtkiem akcji dopuszczonych do obrotu na rynku regulowanym.”.
+**Art. 208.** W ustawie z dnia 22 maja 2003 r. o pośrednictwie ubezpieczeniowym (Dz. U. 124, poz. 1154, z2004 r. 96, poz. 959 oraz z2005 r. 48, poz. 447 i 167, poz. 1396) w art. 24 w ust. 1 pkt 4 otrzymuje brzmienie: Ń4) posiadać akcji zakładu ubezpieczeń, z wyjątkiem akcji dopuszczonych do obrotu na rynku regulowanym.”.
 
-**Art. 209.** Wustawie zdnia 2 kwietnia 2004 r. oniektórych zabezpieczeniach finansowych (Dz. U. 91, poz. 871 oraz z2005 r. 83, poz. 719) wprowadza si´ nast´pujàce zmiany:
+**Art. 209.** Wustawie zdnia 2 kwietnia 2004 r. oniektórych zabezpieczeniach finansowych (Dz. U. 91, poz. 871 oraz z2005 r. 83, poz. 719) wprowadza się następujące zmiany:
 
-**Art. 210.** Wustawie zdnia 20 kwietnia 2004 r. oindywidualnych kontach emerytalnych (Dz. U. 116, poz. 1205) wprowadza si´ nast´pujàce zmiany:
+**Art. 210.** Wustawie zdnia 20 kwietnia 2004 r. oindywidualnych kontach emerytalnych (Dz. U. 116, poz. 1205) wprowadza się następujące zmiany:
 
-**Art. 212.** Wustawie zdnia 2 lipca 2004 r. oswobodzie dzia∏alnoÊci gospodarczej (Dz. U. 173, poz. 1807, z póên. zm. publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spó∏kach publicznych (Dz. U. 184, poz. 1539);”;
+**Art. 212.** Wustawie zdnia 2 lipca 2004 r. oswobodzie działalności gospodarczej (Dz. U. 173, poz. 1807, z póên. zm. publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. 184, poz. 1539);”;
 
 **Art. 214.**
 
-1. Z dniem wejÊcia w ˝ycie ustawy, do „7a) ustawy zdnia 29 lipca 2005 r. oofercie pu- dzia∏alnoÊci spó∏ki Gie∏da Papierów WartoÊciowych blicznej iwarunkach wprowadzania instru- w Warszawie S.A. stosuje si´ przepisy tej ustawy, mentów finansowych do zorganizowane- z wy∏àczeniem art. 25 i art. 165 ust. 3. go systemu obrotu oraz o spó∏kach publicznych (Dz. U. 184, poz. 1539);”; 2. Komisja wyst´puje do ministra w∏aÊciwego do
+1. Z dniem wejścia w życie ustawy, do Ń7a) ustawy zdnia 29 lipca 2005 r. oofercie pu- działalności spółki Giełda Papierów Wartościowych blicznej iwarunkach wprowadzania instru- w Warszawie S.A. stosuje się przepisy tej ustawy, mentów finansowych do zorganizowane- z wyłączeniem art. 25 i art. 165 ust. 3. go systemu obrotu oraz o spółkach publicznych (Dz. U. 184, poz. 1539);”; 2. Komisja występuje do ministra właściwego do
 
-- **2)** w art. 84 pkt 2 otrzymuje brzmienie: spraw instytucji finansowych o zakazanie spó∏ce, októrej mowa wust. 1, prowadzenia rynku gie∏dowe„2) nadzorem nad rynkiem kapita∏owym, na pod- go, w przypadku gdy spó∏ka prowadzi t´ dzia∏alnoÊç stawie ustawy zdnia 29 lipca 2005 r. onadzorze z ra˝àcym naruszeniem prawa. nad rynkiem kapita∏owym (Dz. U. 183, poz.1537), ustawy z dnia 29 lipca 2005 r. o ob- 3. Papiery wartoÊciowe w rozumieniu art. 3 ust. 3 rocie instrumentami finansowymi, ustawy i 4 ustawy, o której mowa w art. 224, b´dàce w dniu zdnia 29 lipca 2005 r. oofercie publicznej iwa- wejÊcia w˝ycie niniejszej ustawy przedmiotem obrotu runkach wprowadzania instrumentów finanso- na rynku regulowanym, stajà si´ ztym dniem nieb´dàwych do zorganizowanego systemu obrotu cymi papierami wartoÊciowymi instrumentami finanoraz o spó∏kach publicznych, ustawy z dnia sowymi, októrych mowa wart. 2 ust. 1 pkt 2 lit. cid. 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. 146, poz. 1546 oraz z 2005 r. 83, poz. 719 i 183, poz. 1537 i 1538) oraz ustawy z dnia 26 paêdziernika 2000 r. o gie∏dach towarowych;”.
+- **2)** w art. 84 pkt 2 otrzymuje brzmienie: spraw instytucji finansowych o zakazanie spółce, októrej mowa wust. 1, prowadzenia rynku giełdoweŃ2) nadzorem nad rynkiem kapitałowym, na pod- go, w przypadku gdy spółka prowadzi tę działalność stawie ustawy zdnia 29 lipca 2005 r. onadzorze z rażącym naruszeniem prawa. nad rynkiem kapitałowym (Dz. U. 183, poz.1537), ustawy z dnia 29 lipca 2005 r. o ob- 3. Papiery wartościowe w rozumieniu art. 3 ust. 3 rocie instrumentami finansowymi, ustawy i 4 ustawy, o której mowa w art. 224, będące w dniu zdnia 29 lipca 2005 r. oofercie publicznej iwa- wejścia wżycie niniejszej ustawy przedmiotem obrotu runkach wprowadzania instrumentów finanso- na rynku regulowanym, stają się ztym dniem niebędąwych do zorganizowanego systemu obrotu cymi papierami wartościowymi instrumentami finanoraz o spółkach publicznych, ustawy z dnia sowymi, októrych mowa wart. 2 ust. 1 pkt 2 lit. cid. 27 maja 2004 r. o funduszach inwestycyjnych (Dz. U. 146, poz. 1546 oraz z 2005 r. 83, poz. 719 i 183, poz. 1537 i 1538) oraz ustawy z dnia 26 paêdziernika 2000 r. o giełdach towarowych;”.
 
-**Art. 213.** W ustawie z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spó∏ce europejskiej (Dz. U. 62, poz. 551) wprowadza si´ nast´pujàce zmiany:
+**Art. 213.** W ustawie z dnia 4 marca 2005 r. o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej (Dz. U. 62, poz. 551) wprowadza się następujące zmiany:
 
 **Art. 215.**
 
-1. Z dniem wejÊcia w ˝ycie ustawy, do dzia∏alnoÊci spó∏ki prowadzàcej rynek pozagie∏dowy stosuje si´ przepisy tej ustawy, z wy∏àczeniem art. 36, art. 37 ust. 2 i art. 166 ust. 1 pkt 2 i 3.
+1. Z dniem wejścia w życie ustawy, do działalności spółki prowadzącej rynek pozagiełdowy stosuje się przepisy tej ustawy, z wyłączeniem art. 36, art. 37 ust. 2 i art. 166 ust. 1 pkt 2 i 3.
 
-2. Komisja zakazuje spó∏ce, o której mowa wust. 1, prowadzenia rynku pozagie∏dowego, wprzypadku gdy spó∏ka prowadzi t´ dzia∏alnoÊç z ra˝àcym naruszeniem prawa.
+2. Komisja zakazuje spółce, o której mowa wust. 1, prowadzenia rynku pozagiełdowego, wprzypadku gdy spółka prowadzi tę działalność z rażącym naruszeniem prawa.
 
 **Art. 216.**
 
-1. Zezwolenia na prowadzenie dzia∏alnoÊci maklerskiej lub na prowadzenie rachunków papierów wartoÊciowych udzielone przez Komisj´ przed dniem wejÊcia w˝ycie ustawy uprawniajà do wykonywania czynnoÊci okreÊlonych odpowiednio w art. 69 ust. 2—4 albo w art. 119 ust. 1. W przypadku zamiaru wykonywania przez dom maklerski lub bank prowadzàcy dzia∏alnoÊç maklerskà czynnoÊci okreÊlonych w art. 69 ust. 2—4, które przed dniem wejÊcia w ˝ycie ustawy nie stanowi∏y dzia∏alnoÊci maklerskiej, przepisy art. 87 i art. 78 ust. 4 stosuje si´ odpowiednio.
+1. Zezwolenia na prowadzenie działalności maklerskiej lub na prowadzenie rachunków papierów wartościowych udzielone przez Komisję przed dniem wejścia wżycie ustawy uprawniają do wykonywania czynności określonych odpowiednio w art. 69 ust. 2—4 albo w art. 119 ust. 1. W przypadku zamiaru wykonywania przez dom maklerski lub bank prowadzący działalność maklerską czynności określonych w art. 69 ust. 2—4, które przed dniem wejścia w życie ustawy nie stanowiły działalności maklerskiej, przepisy art. 87 i art. 78 ust. 4 stosuje się odpowiednio.
 
-2. Podmioty prowadzàce dzia∏alnoÊç maklerskà na podstawie zezwoleƒ udzielonych przez Komisj´ przed dniem wejÊcia w ˝ycie ustawy sà obowiàzane, w terminie 6 miesi´cy od dnia jej wejÊcia w˝ycie, do dostosowania prowadzonej dzia∏alnoÊci do warunków wymaganych przepisami ustawy.
+2. Podmioty prowadzące działalność maklerską na podstawie zezwoleń udzielonych przez Komisję przed dniem wejścia w życie ustawy są obowiązane, w terminie 6 miesięcy od dnia jej wejścia wżycie, do dostosowania prowadzonej działalności do warunków wymaganych przepisami ustawy.
 
-3. Spó∏ki prowadzàce rynek regulowany w dniu wejÊcia w˝ycie ustawy sà obowiàzane do dostosowania treÊci regulaminów, októrych mowa odpowiednio wart. 105 ust. 1 iart. 115 ust. 1 ustawy, októrej mowa w art. 224, do zmian wynikajàcych z przepisów niniejszej ustawy, wterminie 3 miesi´cy od dnia jej wejÊcia w ˝ycie.
+3. Spółki prowadzące rynek regulowany w dniu wejścia wżycie ustawy są obowiązane do dostosowania treści regulaminów, októrych mowa odpowiednio wart. 105 ust. 1 iart. 115 ust. 1 ustawy, októrej mowa w art. 224, do zmian wynikających z przepisów niniejszej ustawy, wterminie 3 miesięcy od dnia jej wejścia w życie.
 
-4. Emitenci papierów wartoÊciowych dopuszczonych do publicznego obrotu na podstawie przepisów ustawy, o której mowa w art. 224, którzy nie zawarli umowy, o której mowa w art. 70 tej ustawy, przed dniem wejÊcia w˝ycie niniejszej ustawy, sà obowiàzani do zawarcia umowy, o której mowa w art. 5 ust. 3—5, w terminie 14 dni od dnia wejÊcia w ˝ycie niniejszej ustawy.
+4. Emitenci papierów wartościowych dopuszczonych do publicznego obrotu na podstawie przepisów ustawy, o której mowa w art. 224, którzy nie zawarli umowy, o której mowa w art. 70 tej ustawy, przed dniem wejścia wżycie niniejszej ustawy, są obowiązani do zawarcia umowy, o której mowa w art. 5 ust. 3—5, w terminie 14 dni od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 217.**
 
-1. Zachowujà wa˝noÊç wpisy na list´ maklerów papierów wartoÊciowych i list´ doradców inwestycyjnych dokonane przed dniem wejÊcia ustawy w zakresie dotyczàcym egzaminu przed komisjà egzaminacyjnà dla maklerów, zzastrze˝eniem, ˝e zakres tematyczny egzaminu uzupe∏niajàcego obejmuje wy∏àcznie zagadnienia zwiàzane z wykonywaniem czynnoÊci doradztwa inwestycyjnego.
+1. Zachowują ważność wpisy na listę maklerów papierów wartościowych i listę doradców inwestycyjnych dokonane przed dniem wejścia ustawy w zakresie dotyczącym egzaminu przed komisją egzaminacyjną dla maklerów, zzastrzeżeniem, że zakres tematyczny egzaminu uzupełniającego obejmuje wyłącznie zagadnienia związane z wykonywaniem czynności doradztwa inwestycyjnego.
 
-3. Wprzypadku maklera wpisanego na list´ maklerów papierów wartoÊciowych przed dniem wejÊcia w˝ycie ustawy, wymóg zatrudnienia, októrym mowa wart. 83 ust. 1 pkt 3, uwa˝a si´ za spe∏niony, je˝eli z∏o˝y∏ on z wynikiem pozytywnym egzamin uzupe∏niajàcy.
+3. Wprzypadku maklera wpisanego na listę maklerów papierów wartościowych przed dniem wejścia wżycie ustawy, wymóg zatrudnienia, októrym mowa wart. 83 ust. 1 pkt 3, uważa się za spełniony, jeżeli złożył on z wynikiem pozytywnym egzamin uzupełniający.
 
-4. Fakt z∏o˝enia egzaminu uzupe∏niajàcego, o którym mowa w ust. 1, podlega og∏oszeniu w Dzienniku Urz´dowym Komisji Papierów WartoÊciowych iGie∏d, o którym mowa w art. 7 ust. 4 ustawy o nadzorze.
+4. Fakt złożenia egzaminu uzupełniającego, o którym mowa w ust. 1, podlega ogłoszeniu w Dzienniku Urzędowym Komisji Papierów Wartościowych iGiełd, o którym mowa w art. 7 ust. 4 ustawy o nadzorze.
 
 **Art. 219.**
 
-1. W sprawach o przest´pstwa okreÊlone w art. 167—173 ustawy, o której mowa w art. 224, co do których post´powanie karne zosta∏o umorzone lub nastàpi∏a odmowa jego wszcz´cia ze wzgl´du na ustanie karalnoÊci tego przest´pstwa w zwiàzku z wejw ˝ycie.
+1. W sprawach o przestępstwa określone w art. 167—173 ustawy, o której mowa w art. 224, co do których postępowanie karne zostało umorzone lub nastąpiła odmowa jego wszczęcia ze względu na ustanie karalności tego przestępstwa w związku z wejw życie.
 
-2. Pozostajà w mocy zgody i zezwolenia udzielone przez Komisj´ przed dniem wejÊcia ustawy w ˝ycie.
+2. Pozostają w mocy zgody i zezwolenia udzielone przez Komisję przed dniem wejścia ustawy w życie.
 
 **Art. 218.**
 
-1. Maklerzy wpisani na list´ maklerów papierów wartoÊciowych przed dniem wejÊcia w ˝ycie ustawy w celu uzyskania uprawnieƒ do wykonywania czynnoÊci doradztwa inwestycyjnego sà zobowiàzani zdaç egzamin uzupe∏niajàcy. Wymóg ten dotyczy równie˝ doradztwa inwestycyjnego wramach wykonywania przez takiego maklera czynnoÊci agenta firmy inwestycyjnej.
+1. Maklerzy wpisani na listę maklerów papierów wartościowych przed dniem wejścia w życie ustawy w celu uzyskania uprawnień do wykonywania czynności doradztwa inwestycyjnego są zobowiązani zdać egzamin uzupełniający. Wymóg ten dotyczy również doradztwa inwestycyjnego wramach wykonywania przez takiego maklera czynności agenta firmy inwestycyjnej.
 
-2. Egzamin uzupe∏niajàcy przeprowadzany jest przez komisj´ egzaminacyjnà dla maklerów. Przepisy art. 128 ust. 1, 3 i 9 oraz przepisy wydane na podstawie art. 128 ust. 11 pkt 1 i 2 stosuje si´ odpowiednio Êciem w ˝ycie niniejszej ustawy, Przewodniczàcy Komisji mo˝e zwróciç si´ do sàdu lub prokuratora oudost´pnienie informacji lub kopii dokumentów dotyczàcych tych spraw, wzakresie niezb´dnym do wszcz´cia przez Komisj´ post´powania administracyjnego w sprawach o odpowiadajàce tym przest´pstwom czyny okreÊlone w art. 171 ust. 1, art. 172—174.
+2. Egzamin uzupełniający przeprowadzany jest przez komisję egzaminacyjną dla maklerów. Przepisy art. 128 ust. 1, 3 i 9 oraz przepisy wydane na podstawie art. 128 ust. 11 pkt 1 i 2 stosuje się odpowiednio ściem w życie niniejszej ustawy, Przewodniczący Komisji może zwrócić się do sądu lub prokuratora oudostępnienie informacji lub kopii dokumentów dotyczących tych spraw, wzakresie niezbędnym do wszczęcia przez Komisję postępowania administracyjnego w sprawach o odpowiadające tym przestępstwom czyny określone w art. 171 ust. 1, art. 172—174.
 
-2. Do czynów stanowiàcych przest´pstwa okreÊlone w art. 167—173 ustawy, o której mowa w art. 224, pope∏nionych przed dniem wejÊcia w ˝ycie niniejszej ustawy, a ujawnionych po tym dniu, stosuje si´ przepisy tej ustawy w zakresie dotyczàcym czynów okreÊlonych w art. 171 ust. 1, art. 172—174.
+2. Do czynów stanowiących przestępstwa określone w art. 167—173 ustawy, o której mowa w art. 224, popełnionych przed dniem wejścia w życie niniejszej ustawy, a ujawnionych po tym dniu, stosuje się przepisy tej ustawy w zakresie dotyczącym czynów określonych w art. 171 ust. 1, art. 172—174.
 
 **Art. 220.**
 
-1. Do spraw wszcz´tych i niezakoƒczonych przed dniem wejÊcia w ˝ycie ustawy stosuje si´, z zastrze˝eniem ust. 2, przepisy tej ustawy.
+1. Do spraw wszczętych i niezakończonych przed dniem wejścia w życie ustawy stosuje się, z zastrzeżeniem ust. 2, przepisy tej ustawy.
 
-2. Osoby, które w dniu wejÊcia w ˝ycie ustawy spe∏niajà, wed∏ug przepisów dotychczasowych, warunki do uzyskania wpisu na list´ maklerów lub list´ doradców, uzyskujà wpis na list´, po z∏o˝eniu stosownego wniosku, z zachowaniem 3-miesi´cznego terminu, o którym mowa w art. 129 ust. 1.
+2. Osoby, które w dniu wejścia w życie ustawy spełniają, według przepisów dotychczasowych, warunki do uzyskania wpisu na listę maklerów lub listę doradców, uzyskują wpis na listę, po złożeniu stosownego wniosku, z zachowaniem 3-miesięcznego terminu, o którym mowa w art. 129 ust. 1.
 
-**Art. 221.** Do dnia 31 grudnia 2005 r. system rekompensat, o którym mowa w przepisach dzia∏u V niniejszej ustawy, zabezpiecza wyp∏at´ Êrodków inwestorów, o których mowa w art. 133 ust. 2, do wysokoÊci równowartoÊci w z∏otych 3 000 euro w 100 % wartoÊci Êrodków obj´tych systemem rekompensat oraz 90 % nadwy˝ki ponad t´ kwot´, ztym ˝e górna granica Êrodków obj´tych systemem rekompensat wynosi równowartoÊç w z∏otych 11 000 euro obliczanej wed∏ug kursu Êredniego Narodowego Banku Polskiego, zgodnie zog∏aszanà tabelà kursowà, zdnia zaistnienia okolicznoÊci stanowiàcej podstaw´ do wyp∏at rekompensat.
+**Art. 221.** Do dnia 31 grudnia 2005 r. system rekompensat, o którym mowa w przepisach działu V niniejszej ustawy, zabezpiecza wypłatę środków inwestorów, o których mowa w art. 133 ust. 2, do wysokości równowartości w złotych 3 000 euro w 100 % wartości środków objętych systemem rekompensat oraz 90 % nadwyżki ponad tę kwotę, ztym że górna granica środków objętych systemem rekompensat wynosi równowartość w złotych 11 000 euro obliczanej według kursu średniego Narodowego Banku Polskiego, zgodnie zogłaszaną tabelą kursową, zdnia zaistnienia okoliczności stanowiącej podstawę do wypłat rekompensat.
 
-**Art. 222.** Do czasu wydania przepisów wykonawczych okreÊlonych w ustawie pozostajà w mocy, nie d∏u˝ej jednak ni˝ przez 6 miesi´cy od dnia jej wejÊcia Art. 224. Traci moc ustawa z dnia 21 sierpnia w ˝ycie, przepisy wykonawcze wydane na podstawie 1997 r. Prawo opublicznym obrocie papierami warart. 23 ust. 5 i 6, art. 31 ust. 2, art. 59c ust. 2, art. 60 toÊciowymi (Dz. U. z 2005 r. 111, poz. 937, 132, ust. 1, art. 60 ust. 3 pkt 2, art. 60 ust. 5, art. 90 ust. 2 poz. 1108, 143, poz. 1199 iNr 163, poz. 1362), zwyi 4, art. 97a ust. 2 i art. 161g ustawy, o której mowa jàtkiem art. 118—123 oraz art. 123a i 123b i art. 146a, w art. 224. z zastrze˝eniem art. 223, które tracà moc z dniem 31 grudnia 2005 r.
+**Art. 222.** Do czasu wydania przepisów wykonawczych określonych w ustawie pozostają w mocy, nie dłużej jednak niż przez 6 miesięcy od dnia jej wejścia Art. 224. Traci moc ustawa z dnia 21 sierpnia w życie, przepisy wykonawcze wydane na podstawie 1997 r. Prawo opublicznym obrocie papierami warart. 23 ust. 5 i 6, art. 31 ust. 2, art. 59c ust. 2, art. 60 tościowymi (Dz. U. z 2005 r. 111, poz. 937, 132, ust. 1, art. 60 ust. 3 pkt 2, art. 60 ust. 5, art. 90 ust. 2 poz. 1108, 143, poz. 1199 iNr 163, poz. 1362), zwyi 4, art. 97a ust. 2 i art. 161g ustawy, o której mowa jątkiem art. 118—123 oraz art. 123a i 123b i art. 146a, w art. 224. z zastrzeżeniem art. 223, które tracą moc z dniem 31 grudnia 2005 r.
 
-**Art. 223.** Do okreÊlenia przez Krajowy Depozyt wysokoÊci stawek obowiàzujàcych na rok 2006, na Art. 225. Ustawa wchodzi w ˝ycie po up∏ywie potrzeby ustalenia wysokoÊci wp∏at do systemu re- 30 dni od dnia og∏oszenia. kompensat, zgodnie zart. 121 ust. 6 ustawy, októrej mowa w art. 224, stosuje si´ przepisy niniejszej ustawy. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski ISSN 0867-3411 Cena 12,70 z∏
+**Art. 223.** Do określenia przez Krajowy Depozyt wysokości stawek obowiązujących na rok 2006, na Art. 225. Ustawa wchodzi w życie po upływie potrzeby ustalenia wysokości wpłat do systemu re- 30 dni od dnia ogłoszenia. kompensat, zgodnie zart. 121 ust. 6 ustawy, októrej mowa w art. 224, stosuje się przepisy niniejszej ustawy. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ISSN 0867-3411 Cena 12,70 zł
 

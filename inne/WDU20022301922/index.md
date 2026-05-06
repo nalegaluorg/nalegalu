@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Êciach, których dysponentami sà ministrowie nego przeprowadzania procedur, w∏aÊciwi realizujàcy te zadania.”; 2) tryb rozwiàzywania problemów nie3) wart. 14: uzgodnionych wyniku post´powaƒ, o których pkt 1, z uwzgl´dniea) 6 otrzymuje brzmienie: niem 2—4.”;
+# ściach, których dysponentami są ministrowie nego przeprowadzania procedur, właściwi realizujący te zadania.”; 2) tryb rozwiązywania problemów nie3) wart. 14: uzgodnionych wyniku postępowań, o których pkt 1, z uwzględniea) 6 otrzymuje brzmienie: niem 2—4.”;
 
 | Pole | Wartość |
 |---|---|
@@ -24,76 +24,81 @@ domain: null
 | Ostatnia zmiana | 2025-09-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022301922) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1922/text.pdf) |
 
-„6. Organy zarzàdzajàce podmiotów, o których 4) wart. 16 5 otrzymuje brzmienie: 2 2a, dysponent Êrodka specjalnego, októrym wart. 47busta- „5. Kontrakt jego zmiany, z zastrze˝eniem art. 21 wy zdnia 29 lipca 1992 ograch losowych, 4, po podpisaniu przez ministra marsza∏zak∏adach wzajemnych grach automa- ka województwa wymagajà zatwierdzenia tach, sà obowiàzani konsultowaç zzarzàdem przez sejmik województwa przez Rad´ Miwojewództwa programy iplany swojej dzia- nistrów.”;
-∏alnoÊci, tym plany finansowe, terenie województwa pod kàtem ich zgodnoÊci ze 5) wart. 21 dodaje si´ 4 i5 wbrzmieniu: strategià rozwoju województwa iprograma- „4. Zmiany kontraktu ramach limitów okreÊlomi wojewódzkimi.”, nych podstawie programu wsparcia uzgadb) dodaje si´ 9 wbrzmieniu: niajà zatwierdzajà minister marsza∏ek województwa formie pisemnego zgodnego „9. Rada Ministrów, drodze rozporzàdzenia, oÊwiadczenia stron.
-okreÊli:
-5. Zmiany, o których 4, wymagajà
-1) zakres, tryb terminy uzgodnieƒ, opinii powiadomienia sejmiku województwa Rady ikonsultacji: Ministrów.”.
-a) programów planów dzia∏alnoÊci podmiotów, o których 2, z za- Ustawa wchodzi ˝ycie z dniem 1 stycznia rzàdem województwa ich projek- 2003 tów zministrem,
-b) planu dzia∏alnoÊci podmiotu, o którym wust. 2a, zzarzàdem województwa jego projektu zministrem, Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
-USTAWA zdnia 5 grudnia 2002 odop∏atach oprocentowania kredytów mieszkaniowych stopie procentowej.
-Rozdzia∏ 1 Przepisy ogólne
-1. Ustawa okreÊla zasady stosowania dop∏at oprocentowania d∏ugoterminowych kredytów stopie procentowej, udzielanych przez banki cele zwiàzane zbudownictwem mieszkaniowym, realiU˝yte wustawie okreÊlenia oznaczajà:
-1) „budynek mieszkalny” budynek, wktórym ∏àczpowierzchnia wykorzystywanych zgodnie z przeznaczeniem lokali mieszkalnych wraz z powierzchnià pomieszczeƒ nich przynale˝nych jest wi´ksza od ∏àcznej powierzchni pozosta∏ych lokali ipomieszczeƒ nich przynale˝nych;
-bankowym rynku finansowym, notowanà przez agencj´ informacyjnà, wskazanà umowie mi´dzy Bankiem Gospodarstwa Krajowego a bankiem udzielajàcym stopie procentowej;
-5) „stopa referencyjna” zmiennà stop´ procentowà, stanowiàcà podstaw´ ustalenia wysokoÊci oprocentowania kredytów o stopie procentowej, równà przeci´tnej stopie WIBOR trzymiesi´czny, obliczanej jako Êrednia arytmetyczna notowaƒ kwartale poprzedzajàcym dany kwarta∏, powi´kszonej o mar˝´ okreÊlonà umowie mi´dzy Bankiem Gospodarstwa Krajowego abankiem udzielajàcym o stopie procentowej, wynoszàcà nie wi´cej ni˝ 1,5 punktu procentowego;
-6) „dop∏ata” kwot´ stanowiàcà ró˝nic´ mi´dzy odsetkami naliczonymi za dany okres wed∏ug stopy referencyjnej a odsetkami naliczonymi za ten sam okres wed∏ug stopy procentowej; podstawà naliczania odsetek wed∏ug obu stóp jest pozostajàcy sp∏aty kapita∏ kredytu.
-Rozdzia∏ 2 Kredyt stopie procentowej
-3. 1. Kredytów o stopie procentowej udzielajà banki, które zawar∏y umowy z Bankiem Gospodarstwa Krajowego, zwane dalej „bankami”.
-Kredytów stopie procentowej udziela si´:
-1) osobom fizycznym zaspokojenie w∏asnych potrzeb mieszkaniowych przez:
-a) budow´ domu jednorodzinnego,
-b) nadbudow´, przebudow´ lub rozbudow´ budynku mieszkalnego lub adaptacj´ budynku lub lokalu o innym przeznaczeniu cele mieszkalne, wcelu uzyskania lokalu mieszkalnego stanowiàcego odr´bnà nieruchomoÊç,
-c) zakup b´dàcego budowie lub nowo wybudowanego domu jednorodzinnego lub lokalu mieszkalnego, stanowiàcego odr´bnà nieruchomoÊç, od gminy albo od osoby, która wybudowa∏a ten budynek wramach wykonywanej dzia2) osobom fizycznym, osobom prawnym wspólnotom mieszkaniowym remont budynku mieszkalnego, zwy∏àczeniem remontów niewymagajàcych pozwolenia budow´ remontów lokali wbudynkach wielorodzinnych.
-3. Kredytów o stopie procentowej nie udziela si´ finansowanie przedsi´wzi´cia inwestycyjnego, które zaciàgni´to kredyt uprawniajàcy otrzymania premii termomodernizacyjnej podstawie przepisów ustawy zdnia 18 grudnia 1998 owspieraniu przedsi´wzi´ç termomodernizacyjnych 162, 1121, zpóên. zm. ).
-4. Kredytów stopie procentowej udziela si´:
-1) cele okreÊlone 2 pkt 1 okres od 20 25 lat;
-2) cel okreÊlony wust. 2 pkt 2 okres od 15 20 lat.
-5. Kredyty stopie procentowej sà udzielane isp∏acane wwalucie polskiej.
-6. Prowizje iop∏aty zwiàzane zudzielaniem stopie procentowej nie mogà byç doliczone kwoty ani zniej potràcone.
-7. Kredyt stopie procentowej jest sp∏acany równych ratach kapita∏owo-odsetkowych okresach miesi´cznych lub kwartalnych.
-8. Bank mo˝e odroczyç sp∏at´ rat kapita∏owych czasu postawienia ca∏ej kwoty o stopie procentowej dyspozycji kredytobiorcy, nie d∏u˝ej jednak ni˝ o24 miesiàce od dnia zawarcia umowy kredytu o stopie procentowej.
-4.1. Sta∏a stopa procentowa wynosi 7% wstosunku rocznym, zzastrze˝eniem Minister w∏aÊciwy spraw finansów publicznych, po zasi´gni´ciu opinii Prezesa Urz´du Mieszkalnictwa iRozwoju Miast Banku Gospodarstwa Krajowego, mo˝e, drodze rozporzàdzenia, zmieniç wysokoÊç stopy procentowej, bioràc pod uwag´ konkurencyjnoÊç stopy procentowej o októrym wust.
-Rozdzia∏ 3 Fundusz Dop∏at
-5. 1. W Banku Gospodarstwa Krajowego tworzy si´ Fundusz Dop∏at, zwany dalej „Funduszem”.
-Ârodki Funduszu tworzà:
-1) nadwy˝ki, októrych wart. 8 3;
-2) zwroty dop∏at, októrych wart. 9 3 iart. 10 2;
-3) dochody z tytu∏u inwestowania przejÊciowo wolnych Êrodków Funduszu wlokaty bankowe ipapiery wartoÊciowe emitowane przez Skarb Paƒstwa lub Narodowy Bank Polski, bàdê por´czane lub gwarantowane przez Skarb Paƒstwa, listy zastawne;
-4) Êrodki z bud˝etu paƒstwa wysokoÊci okreÊlonej wustawie bud˝etowej;
-5) inne wp∏ywy.
-3. Ârodki Funduszu przeznacza si´ na:
-1) dop∏aty;
-2) pokrycie kosztów dzia∏ania Funduszu.
+Ń6. Organy zarządzające podmiotów, o których 4) wart. 16 5 otrzymuje brzmienie: 2 2a, dysponent środka specjalnego, októrym wart. 47busta- Ń5. Kontrakt jego zmiany, z zastrzeżeniem art. 21 wy zdnia 29 lipca 1992 ograch losowych, 4, po podpisaniu przez ministra marszałzakładach wzajemnych grach automa- ka województwa wymagają zatwierdzenia tach, są obowiązani konsultować zzarządem przez sejmik województwa przez Radę Miwojewództwa programy iplany swojej dzia- nistrów.”;
+łalności, tym plany finansowe, terenie województwa pod kątem ich zgodności ze 5) wart. 21 dodaje się 4 i5 wbrzmieniu: strategią rozwoju województwa iprograma- Ń4. Zmiany kontraktu ramach limitów określomi wojewódzkimi.”, nych podstawie programu wsparcia uzgadb) dodaje się 9 wbrzmieniu: niają zatwierdzają minister marszałek województwa formie pisemnego zgodnego Ń9. Rada Ministrów, drodze rozporządzenia, oświadczenia stron.
+określi:
+5. Zmiany, o których 4, wymagają
+1) zakres, tryb terminy uzgodnień, opinii powiadomienia sejmiku województwa Rady ikonsultacji: Ministrów.”.
+a) programów planów działalności podmiotów, o których 2, z za- Ustawa wchodzi życie z dniem 1 stycznia rządem województwa ich projek- 2003 tów zministrem,
+b) planu działalności podmiotu, o którym wust. 2a, zzarządem województwa jego projektu zministrem, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
+USTAWA zdnia 5 grudnia 2002 odopłatach oprocentowania kredytów mieszkaniowych ostałej stopie procentowej.
+1. Ustawa określa zasady stosowania dopłat oprocentowania długoterminowych kredytów ostałej stopie procentowej, udzielanych przez banki cele związane zbudownictwem mieszkaniowym, realiUżyte wustawie określenia oznaczają:
+1) Ńbudynek mieszkalny” budynek, wktórym łączpowierzchnia wykorzystywanych zgodnie z przeznaczeniem lokali mieszkalnych wraz z powierzchnią pomieszczeń nich przynależnych jest większa od łącznej powierzchni pozostałych lokali ipomieszczeń nich przynależnych;
+bankowym rynku finansowym, notowaną przez agencję informacyjną, wskazaną umowie między Bankiem Gospodarstwa Krajowego a bankiem udzielającym ostałej stopie procentowej;
+5) Ństopa referencyjna” zmienną stopę procentową, stanowiącą podstawę ustalenia wysokości oprocentowania kredytów o stopie procentowej, równą przeciętnej stopie WIBOR trzymiesięczny, obliczanej jako średnia arytmetyczna notowań kwartale poprzedzającym dany kwartał, powiększonej o marżę określoną umowie między Bankiem Gospodarstwa Krajowego abankiem udzielającym o stopie procentowej, wynoszącą nie więcej niż 1,5 punktu procentowego;
+6) Ńdopłata” kwotę stanowiącą różnicę między odsetkami naliczonymi za dany okres według stopy referencyjnej a odsetkami naliczonymi za ten sam okres według stopy procentowej; podstawą naliczania odsetek według obu stóp jest pozostający spłaty kapitał kredytu.
+3. 1. Kredytów o stopie udzielają banki, które zawarły umowy z Bankiem Gospodarstwa Krajowego, zwane dalej Ńbankami”.
+Kredytów ostałej stopie udziela się:
+1) osobom fizycznym zaspokojenie własnych potrzeb mieszkaniowych przez:
+a) budowę domu jednorodzinnego,
+b) nadbudowę, przebudowę lub rozbudowę budynku mieszkalnego lub adaptację budynku lub lokalu o innym przeznaczeniu cele mieszkalne, wcelu uzyskania lokalu mieszkalnego stanowiącego odrębną nieruchomość,
+c) zakup będącego budowie lub nowo wybudowanego domu jednorodzinnego lub lokalu mieszkalnego, stanowiącego odrębną nieruchomość, od gminy albo od osoby, która wybudowała ten budynek wramach wykonywanej dzia2) osobom fizycznym, osobom prawnym wspólnotom mieszkaniowym remont budynku mieszkalnego, zwyłączeniem remontów niewymagających pozwolenia budowę remontów lokali wbudynkach wielorodzinnych.
+3. Kredytów o stopie nie udziela się finansowanie przedsięwzięcia inwestycyjnego, które zaciągnięto kredyt uprawniający otrzymania premii termomodernizacyjnej podstawie przepisów ustawy zdnia 18 grudnia 1998 owspieraniu przedsięwzięć termomodernizacyjnych 162, 1121, zpóên. zm. ).
+4. Kredytów ostałej stopie udziela się:
+1) cele określone 2 pkt 1 okres od 20 25 lat;
+2) cel określony wust. 2 pkt 2 okres od 15 20 lat.
+5. Kredyty ostałej stopie są udzielane ispłacane wwalucie polskiej.
+6. Prowizje iopłaty związane zudzielaniem ostałej stopie nie mogą być doliczone kwoty ani zniej potrącone.
+7. Kredyt ostałej stopie jest spłacany równych ratach kapitałowo-odsetkowych okresach miesięcznych lub kwartalnych.
+8. Bank może odroczyć spłatę rat kapitałowych czasu postawienia całej kwoty o stopie dyspozycji kredytobiorcy, nie dłużej jednak niż o24 miesiące od dnia zawarcia umowy kredytu o stopie procentowej.
+4.1. Stała stopa procentowa wynosi 7% wstosunku rocznym, zzastrzeżeniem Minister właściwy spraw finansów publicznych, po zasięgnięciu opinii Prezesa Urzędu Mieszkalnictwa iRozwoju Miast Banku Gospodarstwa Krajowego, może, drodze rozporządzenia, zmienić wysokość stopy procentowej, biorąc pod uwagę konkurencyjność stopy o októrym wust.
+5. 1. W Banku Gospodarstwa Krajowego tworzy się Fundusz Dopłat, zwany dalej ŃFunduszem”.
+Ârodki Funduszu tworzą:
+1) nadwyżki, októrych wart. 8 3;
+2) zwroty dopłat, októrych wart. 9 3 iart. 10 2;
+3) dochody z tytułu inwestowania przejściowo wolnych środków Funduszu wlokaty bankowe ipapiery wartościowe emitowane przez Skarb Państwa lub Narodowy Bank Polski, bądê poręczane lub gwarantowane przez Skarb Państwa, listy zastawne;
+4) środki z budżetu państwa wysokości określonej wustawie budżetowej;
+5) inne wpływy.
+3. Ârodki Funduszu przeznacza się na:
+1) dopłaty;
+2) pokrycie kosztów działania Funduszu.
 4. Bank Gospodarstwa Krajowego:
-1) sporzàdza dla Funduszu odr´bny bilans rachunek zysków istrat;
-2) wyodr´bnia plan finansowy Funduszu planie finansowym Banku Gospodarstwa Krajowego;
-3) przekazuje organom, o których 5, kwartalne informacje orealizacji planu finansowego Funduszu wterminie koƒca miesiàca nast´pujàcego po danym kwartale.
-5. Plan finansowy Funduszu, o którym wust. 4 pkt 2, jest opracowywany wuzgodnieniu zministrem w∏aÊciwym spraw finansów publicznych Prezesem Urz´du Mieszkalnictwa iRozwoju Miast.
+1) sporządza dla Funduszu odrębny bilans rachunek zysków istrat;
+2) wyodrębnia plan finansowy Funduszu planie finansowym Banku Gospodarstwa Krajowego;
+3) przekazuje organom, o których 5, kwartalne informacje orealizacji planu finansowego Funduszu wterminie końca miesiąca następującego po danym kwartale.
+5. Plan finansowy Funduszu, o którym wust. 4 pkt 2, jest opracowywany wuzgodnieniu zministrem właściwym spraw finansów publicznych Prezesem Urzędu Mieszkalnictwa iRozwoju Miast.
 6. Projekt planu finansowego dany rok jest przerachunkach Funduszu.
-Rozdzia∏ 4 Rozliczenia ztytu∏u dop∏at
-8. 1. Dop∏aty sà stosowane, je˝eli sta∏a stopa procentowa jest ni˝sza od stopy referencyjnej.
-Ârodki otrzymane przez banki dop∏aty sà ewidencjonowane odr´bnie dla rachunku ka˝dego kredytobiorcy.
-3. Je˝eli wdanym miesiàcu stopa referencyjna jest ni˝sza od stopy procentowej, Êrodki wp∏acone przez kredytobiorc´ banku, wkwocie odpowiadajàcej nadwy˝ce odsetek naliczonych za ten miesiàc wed∏ug stopy procentowej nad odsetkami naliczonymi za ten sam okres wed∏ug stopy referencyjnej, podlegajà przekazaniu Funduszu.
-4. Rozliczenia banków z Bankiem Gospodarstwa Krajowego, o których 3, odbywajà si´ okresach kwartalnych, terminie koƒca miesiàca nast´pujàcego po danym kwartale.
-5. Ârodki wp∏acone przez kredytobiorc´, o których 3, pomniejszajà kwot´ dop∏at ewidencjonowanych przez bank rachunku tego kredytobiorcy.
-9. 1. Dop∏aty sà przekazywane bankom pod warunkiem terminowej sp∏aty stopie procentowej wraz zodsetkami, zzastrze˝eniem Dop∏aty sà przekazywane bankom równie˝ wokresie odroczenia sp∏aty rat kapita∏owych, októrym wart. 3 8.
-3. Wprzypadku wystàpienia nieterminowej sp∏aty o stopie procentowej bank traci prawo dop∏at oprocentowania tego jest obowiàzany zwróciç Funduszu uzyskane dop∏aty pomniejszone o ewentualne nadwy˝ki, o których wart. 8 3, wterminie 6 miesi´cy od dnia wypowiedzenia umowy przez bank.
+8. 1. Dopłaty są stosowane, jeżeli stała stopa procentowa jest niższa od stopy referencyjnej.
+Ârodki otrzymane przez banki dopłaty są ewidencjonowane odrębnie dla rachunku każdego kredytobiorcy.
+3. Jeżeli wdanym miesiącu stopa referencyjna jest niższa od stopy procentowej, środki wpłacone przez kredytobiorcę banku, wkwocie odpowiadającej nadwyżce odsetek naliczonych za ten miesiąc według stopy nad odsetkami naliczonymi za ten sam okres według stopy referencyjnej, podlegają przekazaniu Funduszu.
+4. Rozliczenia banków z Bankiem Gospodarstwa Krajowego, o których 3, odbywają się okresach kwartalnych, terminie końca miesiąca następującego po danym kwartale.
+5. Ârodki wpłacone przez kredytobiorcę, o których 3, pomniejszają kwotę dopłat ewidencjonowanych przez bank rachunku tego kredytobiorcy.
+9. 1. Dopłaty są przekazywane bankom pod warunkiem terminowej spłaty ostałej stopie procentowej wraz zodsetkami, zzastrzeżeniem Dopłaty są przekazywane bankom również wokresie odroczenia spłaty rat kapitałowych, októrym wart. 3 8.
+3. Wprzypadku wystąpienia nieterminowej spłaty o stopie bank traci prawo dopłat oprocentowania tego jest obowiązany zwrócić Funduszu uzyskane dopłaty pomniejszone o ewentualne nadwyżki, o których wart. 8 3, wterminie 6 miesięcy od dnia wypowiedzenia umowy przez bank.
 ——————— wust. 3.
-10.1. Kredytobiorca mo˝e sp∏aciç kredyt osta∏ej stopie procentowej przed up∏ywem okresu, jaki ten kredyt zosta∏ udzielony, je˝eli:
-1) ∏àczna kwota nadwy˝ek, o których art. 8 3, przekroczy ∏àcznà kwot´ zastosowanych lub
-2) kredytobiorca sp∏aci kwot´ zastosowanych dop∏at, zaewidencjonowanych dla rachunku, októrym mowa wart. 8 W przypadku sp∏aty przez kredytobiorc´ kwoty zastosowanych dop∏at, o której 1 pkt 2, bank niezw∏ocznie zwraca t´ kwot´ Funduszu.
-3. Bank niezw∏ocznie informuje kredytobiorc´ o wystàpieniu sytuacji, o której 1 pkt 1, o przys∏ugujàcym mu prawie wczeÊniejszej sp∏aty.
-4. Przepis 1 nie narusza prawa banku ustalenia w∏asnych op∏at iprowizji zwiàzanych zwczeÊniejszà sp∏atà kredytu.
-11. 1. Bank Gospodarstwa Krajowego zawiera z bankami umowy sprawie udzielania kredytów o stopie procentowej rozliczeƒ finansowych ztytu∏u dop∏at.
-Do wyboru banków nie majà zastosowania przepisy ustawy zdnia 10 czerwca 1994 ozamówieniach publicznych z 2002 72, 664, 113, 984 197, 1661).
-3. Umowy, o których 1, okreÊlajà wszczególnoÊci tryb iterminy przekazywania bankom przez Bank Gospodarstwa Krajowego Êrodków p∏aty, a tak˝e tryb terminy przekazywania Bankowi Gospodarstwa Krajowego przez banki nadwy˝ek, októrych wart. 8 3.
-4. Je˝eli Êrodki Funduszu nie pozwalajà pokrycie nale˝noÊci banków z tytu∏u dop∏at, Bank Gospodarstwa Krajowego wyp∏aci bankom dop∏aty z w∏asnych Êrodków, aminister w∏aÊciwy spraw budownictwa, gospodarki przestrzennej imieszkaniowej zwróci Banczenia, o którym 1, uwzgl´dniajàc wszczególnoÊci dane dotyczàce kwot dop∏at przekazanych bankom kwot zwrotów nadwy˝ek, októrych art. 8 3, a tak˝e dane s∏u˝àce obliczeniu tych kwot.
-Rozdzia∏ 5 Zmiany wprzepisach obowiàzujàcych iprzepisy koƒcowe
-13. Wustawie zdnia 15 lutego 1992 opodatku dochodowym od osób prawnych z 2000 54, 654, zpóên. zm. ) wart. 17 wust. 1 dodaje si´ pkt 4ywbrzmieniu: „4y) dochody Banku Gospodarstwa Krajowego prowadzàcego Fundusz Dop∏at, stanowiàce równowartoÊç dochodów uzyskanych przez ten Fundusz ztytu∏ów okreÊlonych wprzepisach regulujàcych jego tworzenie ifunkcjonowanie wcz´Êci przeznaczonej wy∏àcznie realizacj´ celów wymienionych wtych przepisach,”.
-14. Kredytów o stopie procentowej udziela si´ dnia 31 grudnia 2005
-15. Minister w∏aÊciwy spraw Skarbu Paƒstwa dostosuje, trybie okreÊlonym odr´bnych przepisach, statut Banku Gospodarstwa Krajowego przepisów niniejszej ustawy.
-16. Projekt planu finansowego Funduszu, októrym wart. 5 4 pkt 2, rok 2003 przekazywany jest uzgodnienia organom wymienionym art. 5 5 terminie 30 dni od dnia wejÊcia ustawy w˝ycie.
-17. Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia.
-Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski ———————
+10.1. Kredytobiorca może spłacić kredyt ostałej stopie przed upływem okresu, jaki ten kredyt został udzielony, jeżeli:
+1) łączna kwota nadwyżek, o których art. 8 3, przekroczy łączną kwotę zastosowanych lub
+2) kredytobiorca spłaci kwotę zastosowanych dopłat, zaewidencjonowanych dla rachunku, októrym mowa wart. 8 W przypadku spłaty przez kredytobiorcę kwoty zastosowanych dopłat, o której 1 pkt 2, bank niezwłocznie zwraca tę kwotę Funduszu.
+3. Bank niezwłocznie informuje kredytobiorcę o wystąpieniu sytuacji, o której 1 pkt 1, o przysługującym mu prawie wcześniejszej spłaty.
+4. Przepis 1 nie narusza prawa banku ustalenia własnych opłat iprowizji związanych zwcześniejszą spłatą kredytu.
+11. 1. Bank Gospodarstwa Krajowego zawiera z bankami umowy sprawie udzielania kredytów o stopie rozliczeń finansowych ztytułu dopłat.
+Do wyboru banków nie mają zastosowania przepisy ustawy zdnia 10 czerwca 1994 ozamówieniach publicznych z 2002 72, 664, 113, 984 197, 1661).
+3. Umowy, o których 1, określają wszczególności tryb iterminy przekazywania bankom przez Bank Gospodarstwa Krajowego środków płaty, a także tryb terminy przekazywania Bankowi Gospodarstwa Krajowego przez banki nadwyżek, októrych wart. 8 3.
+4. Jeżeli środki Funduszu nie pozwalają pokrycie należności banków z tytułu dopłat, Bank Gospodarstwa Krajowego wypłaci bankom dopłaty z własnych środków, aminister właściwy spraw budownictwa, gospodarki przestrzennej imieszkaniowej zwróci Banczenia, o którym 1, uwzględniając wszczególności dane dotyczące kwot dopłat przekazanych bankom kwot zwrotów nadwyżek, októrych art. 8 3, a także dane służące obliczeniu tych kwot.
+13. Wustawie zdnia 15 lutego 1992 opodatku dochodowym od osób prawnych z 2000 54, 654, zpóên. zm. ) wart. 17 wust. 1 dodaje się pkt 4ywbrzmieniu: Ń4y) dochody Banku Gospodarstwa Krajowego prowadzącego Fundusz Dopłat, stanowiące równowartość dochodów uzyskanych przez ten Fundusz ztytułów określonych wprzepisach regulujących jego tworzenie ifunkcjonowanie wczęści przeznaczonej wyłącznie realizację celów wymienionych wtych przepisach,”.
+14. Kredytów o stopie udziela się dnia 31 grudnia 2005
+15. Minister właściwy spraw Skarbu Państwa dostosuje, trybie określonym odrębnych przepisach, statut Banku Gospodarstwa Krajowego przepisów niniejszej ustawy.
+16. Projekt planu finansowego Funduszu, októrym wart. 5 4 pkt 2, rok 2003 przekazywany jest uzgodnienia organom wymienionym art. 5 5 terminie 30 dni od dnia wejścia ustawy wżycie.
+17. Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia.
+Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ———————
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Kredyt ostałej stopie
+
+#### Rozdział 3 Fundusz Dopłat
+
+#### Rozdział 4 Rozliczenia ztytułu dopłat
+
+#### Rozdział 5 Zmiany wprzepisach obowiązujących iprzepisy końcowe
 

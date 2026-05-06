@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 wrzeÊnia 2002 r.
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 września 2002 r.
 
 | Pole | Wartość |
 |---|---|
@@ -28,21 +28,23 @@ Nr 155 1286
 USTAWA zdnia 29 sierpnia 2002 r.
 ozmianie ustawy oczasie pracy kierowców oraz ustawy — Prawo omiarach.
 
-**Art. 1.** Wustawie zdnia 24 sierpnia 2001 r. oczasie „Art. 38a. Przepisy art. 31 ust. 1, w zakresie karty pracy kierowców (Dz. U. Nr 123, poz. 1354) wprowadza drogowej, stosuje si´ do dnia 31 grudnia si´ nast´pujàce zmiany: 2002 r. — w odniesieniu do pojazdów,
+**Art. 1.** Wustawie zdnia 24 sierpnia 2001 r. oczasie ŃArt. 38a. Przepisy art. 31 ust. 1, w zakresie karty pracy kierowców (Dz. U. Nr 123, poz. 1354) wprowadza drogowej, stosuje się do dnia 31 grudnia się następujące zmiany: 2002 r. — w odniesieniu do pojazdów,
 
-**Art. 3.** Ustawa wchodzi w˝ycie zdniem 30 wrzeÊnia
+**Art. 3.** Ustawa wchodzi wżycie zdniem 30 września
 
-**Art. 2.** W ustawie z dnia 11 maja 2001 r. — Prawo 2002 r. o miarach (Dz. U. Nr 63, poz. 636 i Nr 154, poz. 1800) art. 27 otrzymuje brzmienie: „Art. 27. Przyrzàdy pomiarowe zalegalizowane lub uwierzytelnione przed dniem wejÊcia w ˝y- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1287 USTAWA zdnia 30 sierpnia 2002 r. orestrukturyzacji niektórych nale˝noÊci publicznoprawnych od przedsi´biorców. Rozdzia∏ 1 Przepisy ogólne
+**Art. 2.** W ustawie z dnia 11 maja 2001 r. — Prawo 2002 r. o miarach (Dz. U. Nr 63, poz. 636 i Nr 154, poz. 1800) art. 27 otrzymuje brzmienie: ŃArt. 27. Przyrządy pomiarowe zalegalizowane lub uwierzytelnione przed dniem wejścia w ży- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1287 USTAWA zdnia 30 sierpnia 2002 r. orestrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców.
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa okreÊla:
+1. Ustawa określa:
 
-- **1)** warunki restrukturyzacji nale˝noÊci publicznoprawnych od przedsi´biorców, zwanej dalej „restrukturyzacjà”;
-- **2)** zasady ustalania nale˝noÊci podlegajàcych restrukturyzacji i tryb post´powania restrukturyzacyjnego;
-- **3)** warunki uzyskania preferencji podatkowych dla przedsi´biorców nieposiadajàcych zaleg∏oÊci podatkowych.
+- **1)** warunki restrukturyzacji należności publicznoprawnych od przedsiębiorców, zwanej dalej Ńrestrukturyzacją”;
+- **2)** zasady ustalania należności podlegających restrukturyzacji i tryb postępowania restrukturyzacyjnego;
+- **3)** warunki uzyskania preferencji podatkowych dla przedsiębiorców nieposiadających zaległości podatkowych.
 
-2. Restrukturyzacjà sà obj´ci przedsi´biorcy, októrych mowa w przepisach o warunkach dopuszczalnoÊci i nadzorowaniu pomocy publicznej dla przedsi´biorców, wszczególnoÊci którzy tracà zdolnoÊç do konkurowania na rynku, wyra˝ajàcà si´ zw∏aszcza wznacznym stopniu: zmniejszeniem obrotów, nadmiernà zdolnoÊcià produkcyjnà, wzrostem zapasów, spadkiem zyskownoÊci lub ponoszeniem strat, jak równie˝ wzrostem zad∏u˝enia i brakiem mo˝liwoÊci uzyskania bankowych kredytów, por´czeƒ lub gwarancji.
+2. Restrukturyzacją są objęci przedsiębiorcy, októrych mowa w przepisach o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców, wszczególności którzy tracą zdolność do konkurowania na rynku, wyrażającą się zwłaszcza wznacznym stopniu: zmniejszeniem obrotów, nadmierną zdolnością produkcyjną, wzrostem zapasów, spadkiem zyskowności lub ponoszeniem strat, jak również wzrostem zadłużenia i brakiem możliwości uzyskania bankowych kredytów, poręczeń lub gwarancji.
 
-**Art. 2.** Ilekroç wustawie jest mowa o:
+**Art. 2.** Ilekroć wustawie jest mowa o:
 

@@ -26,13 +26,13 @@ domain: null
 
 **Art. 1.** W ustawie z dnia 29 sierpnia 1997 r. — Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, zpóên. zm.
 
-**Art. 2.** W ustawie z dnia 16 listopada 2006 r. oop∏acie skarbowej (Dz. U. Nr 225, poz. 1635, zpóên. ) wprowadza si´ nast´pujàce zmiany: zm.
+**Art. 2.** W ustawie z dnia 16 listopada 2006 r. oopłacie skarbowej (Dz. U. Nr 225, poz. 1635, zpóên. ) wprowadza się następujące zmiany: zm.
 
 **Art. 3.**
 
-1. Do zawiadomieƒ i zg∏oszeƒ, o których mowa w art. 3c § 1 i 2 ustawy zmienianej w art. 1, w brzmieniu obowiàzujàcym przed dniem wejÊcia w ˝ycie niniejszej ustawy, z∏o˝onych przed dniem wejÊcia w˝ycie niniejszej ustawy, stosuje si´ przepisy dotychczasowe.
+1. Do zawiadomień i zgłoszeń, o których mowa w art. 3c § 1 i 2 ustawy zmienianej w art. 1, w brzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, złożonych przed dniem wejścia wżycie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-2. Podatnicy i p∏atnicy posiadajàcy potwierdzenie zgodnoÊci danych zawartych w zawiadomieniu z danymi zawartymi w zg∏oszeniu, o którym mowa wart. 3c § 3 ustawy zmienianej wart. 1, wbrzmieniu obowiàzujàcym przed dniem wejÊcia w ˝ycie niniejszej ustawy, mogà sk∏adaç za pomocà Êrodków komunikacji elektronicznej deklaracje podpisane przez pe∏nomocnika bez koniecznoÊci sk∏adania pe∏nomocnictwa, o którym mowa w art. 80a § 2a ustawy zmienianej wart. 1, wbrzmieniu nadanym niniejszà ustawà.
+2. Podatnicy i płatnicy posiadający potwierdzenie zgodności danych zawartych w zawiadomieniu z danymi zawartymi w zgłoszeniu, o którym mowa wart. 3c § 3 ustawy zmienianej wart. 1, wbrzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy, mogą składać za pomocą środków komunikacji elektronicznej deklaracje podpisane przez pełnomocnika bez konieczności składania pełnomocnictwa, o którym mowa w art. 80a § 2a ustawy zmienianej wart. 1, wbrzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Ustawa wchodzi w ˝ycie z dniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 466 USTAWA zdnia 5 marca 2009 r. ozmianie ustawy — Ordynacja podatkowa oraz ustawy oop∏acie skarbowej ——————— ——————— w w w . r c l . o g v . p l
+**Art. 4.** Ustawa wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 466 USTAWA zdnia 5 marca 2009 r. ozmianie ustawy — Ordynacja podatkowa oraz ustawy oopłacie skarbowej ——————— ——————— w w w . r c l . o g v . p l
 

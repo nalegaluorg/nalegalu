@@ -24,7 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022301923) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1923/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 1 marca 2002 r. ozmianach a) pkt 6 otrzymuje brzmienie: w organizacji i funkcjonowaniu centralnych organów „6) art. 27 iart. 52 pkt 13 wzakresie dotyczàcym administracji rzàdowej ijednostkach im podporzàdko- art. 33a ust. 1 pkt 9, które wchodzà w ˝ycie wanych oraz ozmianie niektórych ustaw (Dz. U. Nr 25, zdniem 1 stycznia 2003 r.,”, poz. 253, Nr 93, poz. 820 i Nr 200, poz. 1689) wprowadza si´ nast´pujàce zmiany: b) dodaje si´ pkt 7 wbrzmieniu: „7) art. 2 ust. 1, art. 14, art. 33, art. 35, art. 46
+1) Ńustawie” — rozumie się przez to ustawę z dnia 21sierpnia 1997 r. ogospodarce nieruchomościami;
+1924 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 27 listopada 2002 r.
+wsprawie szczegółowych zasad wyceny nieruchomości oraz zasad itrybu sporządzania operatu szacunkowego.
 
-**Art. 3.** Ustawa wchodzi w˝ycie zdniem 31 grudnia „4) zdniem 31 grudnia 2003 r. — urzàd obs∏ugu- 2002 r. jàcy Prezesa Urz´du Mieszkalnictwa i Rozwoju Miast.”;
+**Art. 1.** Wustawie zdnia 1 marca 2002 r. ozmianach a) pkt 6 otrzymuje brzmienie: w organizacji i funkcjonowaniu centralnych organów Ń6) art. 27 iart. 52 pkt 13 wzakresie dotyczącym administracji rządowej ijednostkach im podporządko- art. 33a ust. 1 pkt 9, które wchodzą w życie wanych oraz ozmianie niektórych ustaw (Dz. U. Nr 25, zdniem 1 stycznia 2003 r.,”, poz. 253, Nr 93, poz. 820 i Nr 200, poz. 1689) wprowadza się następujące zmiany: b) dodaje się pkt 7 wbrzmieniu: Ń7) art. 2 ust. 1, art. 14, art. 33, art. 35, art. 46
+
+**Art. 3.** Ustawa wchodzi wżycie zdniem 31 grudnia Ń4) zdniem 31 grudnia 2003 r. — urząd obsługu- 2002 r. jący Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast.”;
+
+#### Rozdział 1 Przepisy ogólne § 1. Ilekroć wrozporządzeniu jest mowa o: poz. 1682) zarządza się, co następuje:
 

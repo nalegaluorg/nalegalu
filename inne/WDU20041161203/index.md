@@ -24,565 +24,565 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041161203) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1203/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Si∏ Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z2002 r. 42, poz. 368, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 22 czerwca 1995 r. o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z2002 r. 42, poz. 368, zpóên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 22.**
 
-1. ˚o∏nierzowi s∏u˝by sta∏ej zajmujàcemu kierownicze stanowisko s∏u˝bowe w Ministerstwie Obrony Narodowej, a tak˝e osobie zajmujàcej kierownicze stanowisko Ministerstwa Obrony Narodowej, mo˝na wydaç decyzj´ o prawie zamieszkiwania w kwaterze funkcyjnej na czas zajmowania tego stanobowe do dnia zwolnienia z zawodowej wiska.
+1. ˚ołnierzowi służby stałej zajmującemu kierownicze stanowisko służbowe w Ministerstwie Obrony Narodowej, a także osobie zajmującej kierownicze stanowisko Ministerstwa Obrony Narodowej, można wydać decyzję o prawie zamieszkiwania w kwaterze funkcyjnej na czas zajmowania tego stanobowe do dnia zwolnienia z zawodowej wiska.
 
-2. Do okreÊlenia wielkoÊci powierzchni kwater funkcyjnych nie stosuje si´ maksymalnych norm powierzchni u˝ytkowej podstawowej, o których mowa wart. 26. Pozosta∏e przepisy dotyczàce zakwaterowania ˝o∏nierzy s∏u˝by sta∏ej stosuje si´ odpowiednio, z wyjàtkiem art. 24 ust. 6—8 i art. 32a.
+2. Do określenia wielkości powierzchni kwater funkcyjnych nie stosuje się maksymalnych norm powierzchni użytkowej podstawowej, o których mowa wart. 26. Pozostałe przepisy dotyczące zakwaterowania żołnierzy służby stałej stosuje się odpowiednio, z wyjątkiem art. 24 ust. 6—8 i art. 32a.
 
-3. Decyzj´ o prawie zamieszkiwania wkwaterze funkcyjnej wydaje dyrektor oddzia∏u regionalnego Agencji na wniosek zainteresowanego.
+3. Decyzję o prawie zamieszkiwania wkwaterze funkcyjnej wydaje dyrektor oddziału regionalnego Agencji na wniosek zainteresowanego.
 
-4. ˚o∏nierz s∏u˝by sta∏ej, któremu przydzielono kwater´ funkcyjnà, nie ponosi op∏at za jej u˝ywanie wodniesieniu do powierzchni przekraczajàcej maksymalnà powierzchni´ u˝ytkowà podstawowà.
+4. ˚ołnierz służby stałej, któremu przydzielono kwaterę funkcyjną, nie ponosi opłat za jej używanie wodniesieniu do powierzchni przekraczającej maksymalną powierzchnię użytkową podstawową.
 
-5. Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzenia, wykaz stanowisk s∏u˝bowych uprawniajàcych do zajmowania kwater funkcyjnych, minimalnà norm´ powierzchni u˝ytkowej podstawowej kwater funkcyjnych oraz ich struktur´, sposób wnoszenia op∏at za u˝ywanie lokalu przez osoby zajmujàce te kwatery, terminy itryb zasiedlania oraz zwalniania tych kwater.
+5. Minister Obrony Narodowej określi, wdrodze rozporządzenia, wykaz stanowisk służbowych uprawniających do zajmowania kwater funkcyjnych, minimalną normę powierzchni użytkowej podstawowej kwater funkcyjnych oraz ich strukturę, sposób wnoszenia opłat za używanie lokalu przez osoby zajmujące te kwatery, terminy itryb zasiedlania oraz zwalniania tych kwater.
 
-6. W rozporzàdzeniu, o którym mowa w ust. 5, nale˝y uwzgl´dniç, aby:
+6. W rozporządzeniu, o którym mowa w ust. 5, należy uwzględnić, aby:
 
-- **1)** wykaz stanowisk s∏u˝bowych uprawniajàcych do zajmowania kwater funkcyjnych obejmowa∏ stanowiska dowódcze i kierownicze,
-- **2)** minimalne normy powierzchni u˝ytkowej podstawowej kwater funkcyjnych uwzgl´dnia∏y ich szczególny charakter,
-- **3)** zasiedlanie oraz zwalnianie kwater funkcyjnych zapewnia∏o ich efektywne wykorzystanie.
+- **1)** wykaz stanowisk służbowych uprawniających do zajmowania kwater funkcyjnych obejmował stanowiska dowódcze i kierownicze,
+- **2)** minimalne normy powierzchni użytkowej podstawowej kwater funkcyjnych uwzględniały ich szczególny charakter,
+- **3)** zasiedlanie oraz zwalnianie kwater funkcyjnych zapewniało ich efektywne wykorzystanie.
 
 **Art. 23.**
 
-1. ˚o∏nierzowi s∏u˝by sta∏ej zwalnianemu z zawodowej s∏u˝by wojskowej, zamieszka∏emu w kwaterze, przys∏uguje odprawa mieszkaniowa, o której mowa w art. 47, albo prawo do lokalu zamiennego, je˝eli Agencja zaproponuje go ˝o∏nierzowi do dnia zwolnienia zzawodowej s∏u˝by wojskowej, o ile naby∏ on prawo do emerytury wojskowej lub wojskowej renty inwalidzkiej lub zosta∏ zwolniony z zawodowej s∏u˝by wojskowej przed up∏ywem okresu wymaganego do nabycia uprawnieƒ do emerytury wojskowej, w przypadku wypowiedzenia mu stosunku s∏u˝bowego zawodowej s∏u˝by wojskowej przez w∏aÊciwy organ wojskowy.
+1. ˚ołnierzowi służby stałej zwalnianemu z zawodowej służby wojskowej, zamieszkałemu w kwaterze, przysługuje odprawa mieszkaniowa, o której mowa w art. 47, albo prawo do lokalu zamiennego, jeżeli Agencja zaproponuje go żołnierzowi do dnia zwolnienia zzawodowej służby wojskowej, o ile nabył on prawo do emerytury wojskowej lub wojskowej renty inwalidzkiej lub został zwolniony z zawodowej służby wojskowej przed upływem okresu wymaganego do nabycia uprawnień do emerytury wojskowej, w przypadku wypowiedzenia mu stosunku służbowego zawodowej służby wojskowej przez właściwy organ wojskowy.
 
-2. ˚o∏nierzowi s∏u˝by sta∏ej, który do dnia zwolnienia z zawodowej s∏u˝by wojskowej nie otrzyma∏ decyzji o prawie zamieszkiwania wlokalu mieszkalnym, z wy∏àczeniem przypadków, o których mowa wart. 24 ust. 5 pkt 3, przys∏uguje odprawa mieszkaniowa, o której mowa w art. 47, o ile naby∏ prawo do emerytury wojskowej lub wojskowej renty inwalidzkiej lub zosta∏ zwolniony z zawodowej s∏u˝by wojskowej przed up∏ywem okresu wymaganego do nabycia uprawnieƒ do emerytury wojskowej, w przypadku wypowiedzenia mu stosunku s∏u˝bowego zawodowej s∏u˝by wojskowej przez w∏aÊciwy organ wojskowy.
+2. ˚ołnierzowi służby stałej, który do dnia zwolnienia z zawodowej służby wojskowej nie otrzymał decyzji o prawie zamieszkiwania wlokalu mieszkalnym, z wyłączeniem przypadków, o których mowa wart. 24 ust. 5 pkt 3, przysługuje odprawa mieszkaniowa, o której mowa w art. 47, o ile nabył prawo do emerytury wojskowej lub wojskowej renty inwalidzkiej lub został zwolniony z zawodowej służby wojskowej przed upływem okresu wymaganego do nabycia uprawnień do emerytury wojskowej, w przypadku wypowiedzenia mu stosunku służbowego zawodowej służby wojskowej przez właściwy organ wojskowy.
 
-3. W razie Êmierci ˝o∏nierza s∏u˝by sta∏ej, który do dnia Êmierci mieszka∏ w kwaterze, oraz ˝o∏nierza s∏u˝by sta∏ej, który do dnia Êmierci nie otrzyma∏ decyzji o prawie zamieszkiwania, z wy∏àczeniem przypadków, o których mowa w art. 24 ust. 5 pkt 3, wspólnie zamieszka∏ym z nim ma∏˝onkowi, zst´pnym, wst´pnym, osobom przysposobionym i osobom przysposabiajàcym przys∏uguje:
+3. W razie śmierci żołnierza służby stałej, który do dnia śmierci mieszkał w kwaterze, oraz żołnierza służby stałej, który do dnia śmierci nie otrzymał decyzji o prawie zamieszkiwania, z wyłączeniem przypadków, o których mowa w art. 24 ust. 5 pkt 3, wspólnie zamieszkałym z nim małżonkowi, zstępnym, wstępnym, osobom przysposobionym i osobom przysposabiającym przysługuje:
 
 - **1)** odprawa mieszkaniowa, o której mowa w art. 47:
-    - **a)** w wysokoÊci obliczonej wed∏ug iloÊci norm przys∏ugujàcych zmar∏emu ˝o∏nierzowi w dniu Êmierci, oile wdniu Êmierci spe∏nia∏ warunki do uzyskania emerytury wojskowej lub wojskowej renty inwalidzkiej,
-    - **b)** w wysokoÊci 80% wartoÊci przys∏ugujàcego lokalu mieszkalnego, obliczonej wed∏ug zasad okreÊlorza pozostaje wzwiàzku ze s∏u˝bà wojskowà,
+    - **a)** w wysokości obliczonej według ilości norm przysługujących zmarłemu żołnierzowi w dniu śmierci, oile wdniu śmierci spełniał warunki do uzyskania emerytury wojskowej lub wojskowej renty inwalidzkiej,
+    - **b)** w wysokości 80% wartości przysługującego lokalu mieszkalnego, obliczonej według zasad określorza pozostaje wzwiązku ze służbą wojskową,
 
-- **2)** lokal zamienny, je˝eli Agencja ma taki wswoich zasobach mieszkaniowych za ich zgodà.
+- **2)** lokal zamienny, jeżeli Agencja ma taki wswoich zasobach mieszkaniowych za ich zgodą.
 
-4. Prezes Agencji, w uzgodnieniu z Ministrem Obrony Narodowej, zatwierdza wykazy kwater oraz wykaz kwater, które sta∏y si´ zb´dne na zakwaterowanie ˝o∏nierzy s∏u˝by sta∏ej, sporzàdzone przez dyrektorów oddzia∏ów regionalnych. W wykazie kwater umieszcza si´ lokale mieszkalne, o których mowa w art. 16 ust. 2 pkt 4, oraz kwatery funkcyjne i kwatery zast´pcze.
+4. Prezes Agencji, w uzgodnieniu z Ministrem Obrony Narodowej, zatwierdza wykazy kwater oraz wykaz kwater, które stały się zbędne na zakwaterowanie żołnierzy służby stałej, sporządzone przez dyrektorów oddziałów regionalnych. W wykazie kwater umieszcza się lokale mieszkalne, o których mowa w art. 16 ust. 2 pkt 4, oraz kwatery funkcyjne i kwatery zastępcze.
 
 **Art. 24.**
 
-1. Dyrektor oddzia∏u regionalnego Agencji w∏aÊciwy dla garnizonu, w którym ˝o∏nierza s∏u˝by sta∏ej wyznaczono na stanowisko s∏u˝bowe lub w którym zajmuje takie stanowisko, na wniosek dowódcy jednostki wojskowej, wydaje decyzj´ o prawie zamieszkiwania na czas pe∏nienia obowiàzków na tym stanowisku w lokalu mieszkalnym, w miejscowoÊci, w której ˝o∏nierz zosta∏ wyznaczony na stanowisko s∏u˝bowe lub zajmuje takie stanowisko albo w miejscowoÊci pobliskiej, bàdê wydaje decyzj´, o której mowa w ust. 6. Decyzja o prawie zamieszkiwania mo˝e obejmowaç zasób mieszkaniowy towarzystwa budownictwa spo∏ecznego oddanego Agencji do dyspozycji na podstawie umowy oraz zasób mieszkaniowy pozyskiwany przez Agencj´ na podstawie innych tytu∏ów prawnych.
+1. Dyrektor oddziału regionalnego Agencji właściwy dla garnizonu, w którym żołnierza służby stałej wyznaczono na stanowisko służbowe lub w którym zajmuje takie stanowisko, na wniosek dowódcy jednostki wojskowej, wydaje decyzję o prawie zamieszkiwania na czas pełnienia obowiązków na tym stanowisku w lokalu mieszkalnym, w miejscowości, w której żołnierz został wyznaczony na stanowisko służbowe lub zajmuje takie stanowisko albo w miejscowości pobliskiej, bądê wydaje decyzję, o której mowa w ust. 6. Decyzja o prawie zamieszkiwania może obejmować zasób mieszkaniowy towarzystwa budownictwa społecznego oddanego Agencji do dyspozycji na podstawie umowy oraz zasób mieszkaniowy pozyskiwany przez Agencję na podstawie innych tytułów prawnych.
 
-2. W przypadku braku mo˝liwoÊci zrealizowania wniosku dowódcy jednostki wojskowej o wydanie decyzji o prawie zamieszkiwania, dyrektor oddzia∏u regionalnego Agencji przedstawia temu dowódcy propozycj´ zakwaterowania tymczasowego na warunkach okreÊlonych wart. 47, oile Êmierç ˝o∏nienych w art. 53 ust. 1. Dyrektor oddzia∏u regionalnego Agencji jest obowiàzany informowaç w ka˝dym czasie dowódc´ jednostki wojskowej o mo˝liwoÊci realizacji jego wniosku.
+2. W przypadku braku możliwości zrealizowania wniosku dowódcy jednostki wojskowej o wydanie decyzji o prawie zamieszkiwania, dyrektor oddziału regionalnego Agencji przedstawia temu dowódcy propozycję zakwaterowania tymczasowego na warunkach określonych wart. 47, oile śmierć żołnienych w art. 53 ust. 1. Dyrektor oddziału regionalnego Agencji jest obowiązany informować w każdym czasie dowódcę jednostki wojskowej o możliwości realizacji jego wniosku.
 
-3. Odmowa zamieszkiwania w lokalu mieszkalnym znajdujàcym si´ w miejscowoÊci, w której ˝o∏nierz s∏u˝by sta∏ej zajmuje stanowisko s∏u˝bowe, lub w miejscowoÊci pobliskiej powoduje utrat´ uprawnieƒ zwiàzanych z zakwaterowaniem, przez czas zajmowania danego stanowiska s∏u˝bowego.
+3. Odmowa zamieszkiwania w lokalu mieszkalnym znajdującym się w miejscowości, w której żołnierz służby stałej zajmuje stanowisko służbowe, lub w miejscowości pobliskiej powoduje utratę uprawnień związanych z zakwaterowaniem, przez czas zajmowania danego stanowiska służbowego.
 
-4. W przypadku zwolnienia ˝o∏nierza s∏u˝by sta∏ej ze stanowiska s∏u˝bowego lub z zawodowej s∏u˝by wojskowej albo zmiany przys∏ugujàcych ˝o∏nierzowi uprawnieƒ do powierzchni u˝ytkowej podstawowej dowódca jednostki wojskowej jest obowiàzany powiadomiç o tym dyrektora oddzia∏u regionalnego Agencji. Przepis ust. 1 stosuje si´ odpowiednio.
+4. W przypadku zwolnienia żołnierza służby stałej ze stanowiska służbowego lub z zawodowej służby wojskowej albo zmiany przysługujących żołnierzowi uprawnień do powierzchni użytkowej podstawowej dowódca jednostki wojskowej jest obowiązany powiadomić o tym dyrektora oddziału regionalnego Agencji. Przepis ust. 1 stosuje się odpowiednio.
 
-5. Nie wydaje si´ decyzji o prawie zamieszkiwania w lokalu mieszkalnym:
+5. Nie wydaje się decyzji o prawie zamieszkiwania w lokalu mieszkalnym:
 
-- **1)** na pisemny wniosek ˝o∏nierza s∏u˝by sta∏ej, zg∏oszony do dowódcy jednostki wojskowej nie póêniej ni˝ czternaÊcie dni od dnia obj´cia stanowiska s∏u˝bowego w tej jednostce,
-- **2)** jednemu zma∏˝onków, wprzypadku gdy oboje ma∏˝onkowie sà ˝o∏nierzami s∏u˝by sta∏ej,
-- **3)** ˝o∏nierzowi s∏u˝by sta∏ej, który skorzysta∏ z uprawnieƒ, o których mowa wart. 87, lub nie zwolni∏ osobnej kwatery sta∏ej.
+- **1)** na pisemny wniosek żołnierza służby stałej, zgłoszony do dowódcy jednostki wojskowej nie póêniej niż czternaście dni od dnia objęcia stanowiska służbowego w tej jednostce,
+- **2)** jednemu zmałżonków, wprzypadku gdy oboje małżonkowie są żołnierzami służby stałej,
+- **3)** żołnierzowi służby stałej, który skorzystał z uprawnień, o których mowa wart. 87, lub nie zwolnił osobnej kwatery stałej.
 
-6. Wprzypadku, októrym mowa wust. 5 pkt 1, dyrektor oddzia∏u regionalnego Agencji wydaje decyzj´ w sprawie wyp∏acania zrycza∏towanego ekwiwalentu za rezygnacj´ z prawa do zamieszkiwania w lokalu mieszkalnym wwysokoÊci 50 % maksymalnej stawki op∏at za u˝ywanie lokalu, okreÊlonej w art. 36 ust. 1, za przys∏ugujàcà mu maksymalnà powierzchni´ u˝ytkowà podstawowà, o której mowa w art. 26.
+6. Wprzypadku, októrym mowa wust. 5 pkt 1, dyrektor oddziału regionalnego Agencji wydaje decyzję w sprawie wypłacania zryczałtowanego ekwiwalentu za rezygnację z prawa do zamieszkiwania w lokalu mieszkalnym wwysokości 50 % maksymalnej stawki opłat za używanie lokalu, określonej w art. 36 ust. 1, za przysługującą mu maksymalną powierzchnię użytkową podstawową, o której mowa w art. 26.
 
-7. Wprzypadku, októrym mowa wust. 5 pkt 2, gdy ma∏˝onkowie pe∏nià zawodowà s∏u˝b´ wojskowà w ró˝nych miejscowoÊciach i nie sà to miejscowoÊci pobliskie, jednemu z nich przys∏uguje nieodp∏atne zakwaterowanie tymczasowe.
+7. Wprzypadku, októrym mowa wust. 5 pkt 2, gdy małżonkowie pełnią zawodową służbę wojskową w różnych miejscowościach i nie są to miejscowości pobliskie, jednemu z nich przysługuje nieodpłatne zakwaterowanie tymczasowe.
 
-8. Wprzypadku, októrym mowa wust. 5 pkt 3, ˝o∏nierzowi s∏u˝by sta∏ej, który zajmuje stanowisko s∏u˝bowe w miejscowoÊci innej ni˝ miejscowoÊç jego zamieszkania lub miejscowoÊç pobliska, przys∏uguje zakwaterowanie tymczasowe za op∏atà wpe∏nej wysokoÊci.
+8. Wprzypadku, októrym mowa wust. 5 pkt 3, żołnierzowi służby stałej, który zajmuje stanowisko służbowe w miejscowości innej niż miejscowość jego zamieszkania lub miejscowość pobliska, przysługuje zakwaterowanie tymczasowe za opłatą wpełnej wysokości.
 
-9. Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzenia, uprawnienia i obowiàzki dowódców jednostek wojskowych w zakresie sk∏adania wniosków o przyznanie prawa do zamieszkiwania w lokalu mieszkalnym, terminy sk∏adania wniosków przez dowódców jednostek wojskowych do dyrektorów oddzia∏ów regionalnych Agencji oraz wzory dokumentów stosowanych w tych sprawach, uwzgl´dniajàc, aby czas mi´dzy obj´ciem stanowiska s∏u˝bowego a wydaniem decyzji o prawie zamieszkiwania by∏ jak najkrótszy, a wzory dokumentów by∏y mo˝liwie
+9. Minister Obrony Narodowej określi, wdrodze rozporządzenia, uprawnienia i obowiązki dowódców jednostek wojskowych w zakresie składania wniosków o przyznanie prawa do zamieszkiwania w lokalu mieszkalnym, terminy składania wniosków przez dowódców jednostek wojskowych do dyrektorów oddziałów regionalnych Agencji oraz wzory dokumentów stosowanych w tych sprawach, uwzględniając, aby czas między objęciem stanowiska służbowego a wydaniem decyzji o prawie zamieszkiwania był jak najkrótszy, a wzory dokumentów były możliwie
 
 **Art. 25.**
 
-1. ˚o∏nierzowi zawodowemu pe∏niàcemu zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by terminowej przys∏uguje zakwaterowanie tymczasowe:
+1. ˚ołnierzowi zawodowemu pełniącemu zawodową służbę wojskową na podstawie kontraktu na pełnienie służby terminowej przysługuje zakwaterowanie tymczasowe:
 
-- **1)** nieposiadajàcemu cz∏onków rodziny, o których mowa w art. 26 ust. 2 miejsce w internacie,
-- **2)** posiadajàcemu cz∏onków rodziny, októrych mowa wart. 26 ust. 2, pozostajàcych znim we wspólnym gospodarstwie domowym miejsce w internacie lub kwatera zast´pcza, o ile Agencja dysponuje takimi w miejscowoÊci, w której ˝o∏nierz zajmuje stanowisko s∏u˝bowe, lub w miejscowoÊci pobliskiej.
+- **1)** nieposiadającemu członków rodziny, o których mowa w art. 26 ust. 2 miejsce w internacie,
+- **2)** posiadającemu członków rodziny, októrych mowa wart. 26 ust. 2, pozostających znim we wspólnym gospodarstwie domowym miejsce w internacie lub kwatera zastępcza, o ile Agencja dysponuje takimi w miejscowości, w której żołnierz zajmuje stanowisko służbowe, lub w miejscowości pobliskiej.
 
-2. Przepisy art. 24 ust. 1 i4 stosuje si´ odpowiednio.
+2. Przepisy art. 24 ust. 1 i4 stosuje się odpowiednio.
 
 **Art. 26.**
 
-1. Przy ustalaniu powierzchni u˝ytkowej podstawowej uwzgl´dnia si´ zajmowane przez ˝o∏nierza s∏u˝by sta∏ej stanowisko s∏u˝bowe oraz stan rodzinny. Norma powierzchni u˝ytkowej podstawowej przys∏ugujàcej ˝o∏nierzowi z jednego tytu∏u wynosi 7—10 m uproszczone. .
+1. Przy ustalaniu powierzchni użytkowej podstawowej uwzględnia się zajmowane przez żołnierza służby stałej stanowisko służbowe oraz stan rodzinny. Norma powierzchni użytkowej podstawowej przysługującej żołnierzowi z jednego tytułu wynosi 7—10 m uproszczone. .
 
-2. Cz∏onkami rodziny ˝o∏nierza s∏u˝by sta∏ej, których uwzgl´dnia si´ przy ustalaniu przys∏ugujàcej powierzchni u˝ytkowej podstawowej, sà:
+2. Członkami rodziny żołnierza służby stałej, których uwzględnia się przy ustalaniu przysługującej powierzchni użytkowej podstawowej, są:
 
-- **1)** ma∏˝onek,
-- **2)** wspólnie zamieszka∏e dzieci w∏asne, przysposobione oraz przyj´te na wychowanie na podstawie orzeczenia sàdu opiekuƒczego, jak równie˝ dzieci ma∏˝onka, zwane dalej „dzieçmi”, do czasu zawarcia zwiàzku ma∏˝eƒskiego, nie d∏u˝ej jednak ni˝ do dnia ukoƒczenia dwudziestu pi´ciu lat ˝ycia, chyba ˝e przed tym dniem sta∏y si´ niezdolne do pracy oraz do samodzielnej egzystencji inie zawar∏y zwiàzku ma∏˝eƒskiego.
+- **1)** małżonek,
+- **2)** wspólnie zamieszkałe dzieci własne, przysposobione oraz przyjęte na wychowanie na podstawie orzeczenia sądu opiekuńczego, jak również dzieci małżonka, zwane dalej Ńdziećmi”, do czasu zawarcia związku małżeńskiego, nie dłużej jednak niż do dnia ukończenia dwudziestu pięciu lat życia, chyba że przed tym dniem stały się niezdolne do pracy oraz do samodzielnej egzystencji inie zawarły związku małżeńskiego.
 
-3. ˚o∏nierzowi s∏u˝by sta∏ej, który zawar∏ zwiàzek ma∏˝eƒski, przyznaje si´ dodatkowà powierzchni´ u˝ytkowà podstawowà w wysokoÊci jednej normy, je˝eli on ima∏˝onek nie posiadajà dzieci.
+3. ˚ołnierzowi służby stałej, który zawarł związek małżeński, przyznaje się dodatkową powierzchnię użytkową podstawową w wysokości jednej normy, jeżeli on imałżonek nie posiadają dzieci.
 
-4. Na wniosek ˝o∏nierza s∏u˝by sta∏ej lub za jego pisemnà zgodà mo˝na wydaç decyzj´ o prawie zamieszkiwania w lokalu mieszkalnym o powierzchni u˝ytkowej podstawowej mniejszej od przys∏ugujàcej.
+4. Na wniosek żołnierza służby stałej lub za jego pisemną zgodą można wydać decyzję o prawie zamieszkiwania w lokalu mieszkalnym o powierzchni użytkowej podstawowej mniejszej od przysługującej.
 
-5. W przypadku gdy ˝o∏nierzami s∏u˝by sta∏ej sà oboje ma∏˝onkowie, przy ustalaniu powierzchni, o której mowa w ust. 1, uwzgl´dnia si´ norm´ korzystniejszà.
+5. W przypadku gdy żołnierzami służby stałej są oboje małżonkowie, przy ustalaniu powierzchni, o której mowa w ust. 1, uwzględnia się normę korzystniejszą.
 
-6. Dyrektor oddzia∏u regionalnego Agencji mo˝e wydaç decyzj´ o prawie zamieszkiwania w lokalu mieszkalnym opowierzchni u˝ytkowej podstawowej do 10 m wi´kszej ni˝ wynikajàca z przys∏ugujàcych norm, o ile lokal nie jest niezb´dny na zakwaterowanie ˝o∏nierza s∏u˝by sta∏ej o wi´kszej liczbie przys∏ugujàcych norm. Prezes Agencji, na wniosek dyrektora oddzia∏u regionalnego Agencji, mo˝e wyraziç zgod´ na wydanie decyzji o prawie do zamieszkiwania w lokalu mieszkalnym wi´kszym o ponad 10 m powierzchni u˝ytkowej podstawowej ni˝ wynikajàcy z przys∏ugujàcych norm, o ile lokal nie jest niezb´dny na zakwaterowanie ˝o∏nierza s∏u˝by sta∏ej owi´kszej iloÊci przys∏ugujàcych norm.
+6. Dyrektor oddziału regionalnego Agencji może wydać decyzję o prawie zamieszkiwania w lokalu mieszkalnym opowierzchni użytkowej podstawowej do 10 m większej niż wynikająca z przysługujących norm, o ile lokal nie jest niezbędny na zakwaterowanie żołnierza służby stałej o większej liczbie przysługujących norm. Prezes Agencji, na wniosek dyrektora oddziału regionalnego Agencji, może wyrazić zgodę na wydanie decyzji o prawie do zamieszkiwania w lokalu mieszkalnym większym o ponad 10 m powierzchni użytkowej podstawowej niż wynikający z przysługujących norm, o ile lokal nie jest niezbędny na zakwaterowanie żołnierza służby stałej owiększej ilości przysługujących norm.
 
-7. Minister Obrony Narodowej, w drodze rozporzàdzenia:
+7. Minister Obrony Narodowej, w drodze rozporządzenia:
 
-- **1)** okreÊli iloÊç norm przys∏ugujàcych ˝o∏nierzom s∏u˝by sta∏ej, z uwzgl´dnieniem zajmowanego stanowiska s∏u˝bowego i stanu rodzinnego ˝o∏nierza,
-- **2)** mo˝e podwy˝szyç górnà granic´ normy, o której mowa w ust. 1, uwzgl´dniajàc wielkoÊç zasobów Agencji.”;
-- **18)** uchyla si´ art. 28;
-- **19)** art. 29 otrzymuje brzmienie: „Art. 29. W sytuacji wyjàtkowej dyrektor oddzia∏u regionalnego Agencji, za zgodà Ministra Obrony Narodowej, mo˝e wydaç decyzj´ oprawie zamieszkiwania wlokalu mieszkalnym, na czas oznaczony, innej osobie ni˝ ˝o∏nierz s∏u˝by sta∏ej.”;
-- **20)** uchyla si´ art. 30;
-- **21)** art. 31 i 32 otrzymujà brzmienie: „Art. 31. 1. Lokal mieszkalny nie mo˝e byç wca∏oÊci lub cz´Êci oddany w podnajem.
+- **1)** określi ilość norm przysługujących żołnierzom służby stałej, z uwzględnieniem zajmowanego stanowiska służbowego i stanu rodzinnego żołnierza,
+- **2)** może podwyższyć górną granicę normy, o której mowa w ust. 1, uwzględniając wielkość zasobów Agencji.”;
+- **18)** uchyla się art. 28;
+- **19)** art. 29 otrzymuje brzmienie: ŃArt. 29. W sytuacji wyjątkowej dyrektor oddziału regionalnego Agencji, za zgodą Ministra Obrony Narodowej, może wydać decyzję oprawie zamieszkiwania wlokalu mieszkalnym, na czas oznaczony, innej osobie niż żołnierz służby stałej.”;
+- **20)** uchyla się art. 30;
+- **21)** art. 31 i 32 otrzymują brzmienie: ŃArt. 31. 1. Lokal mieszkalny nie może być wcałości lub części oddany w podnajem.
 
-2. Lokal mieszkalny nie mo˝e byç wca∏oÊci lub cz´Êci u˝yczony bez zgody dyrektora oddzia∏u regionalnego Agencji.
+2. Lokal mieszkalny nie może być wcałości lub części użyczony bez zgody dyrektora oddziału regionalnego Agencji.
 
 **Art. 32.**
 
-1. Przekazanie i zdanie lokalu mieszkalnego nast´puje protoko∏em, sporzàdzonym przez przedstawiciela Agencji iosob´ uprawnionà, wktórym okreÊla si´ stan techniczny elementów iwyposa˝enia lokalu mieszkalnego oraz znajdujàcych si´ wnich urzàdzeƒ technicznych. Protokó∏ ten jest podstawà rozliczeƒ dokonywanych przy zwolnieniu lokalu mieszkalnego.
+1. Przekazanie i zdanie lokalu mieszkalnego następuje protokołem, sporządzonym przez przedstawiciela Agencji iosobę uprawnioną, wktórym określa się stan techniczny elementów iwyposażenia lokalu mieszkalnego oraz znajdujących się wnich urządzeń technicznych. Protokół ten jest podstawą rozliczeń dokonywanych przy zwolnieniu lokalu mieszkalnego.
 
-2. Osoba zamieszkujàca lokal mieszkalny jest obowiàzana u˝ywaç go zgodnie noÊcià. Koszty wymiany lub remontu wyposa˝enia i urzàdzeƒ technicznych zu˝ytych wprocesie normalnej eksploatacji kwater pokrywane sà z dotacji bud˝etowej, o której mowa w art. 19 ust. 4.
+2. Osoba zamieszkująca lokal mieszkalny jest obowiązana używać go zgodnie nością. Koszty wymiany lub remontu wyposażenia i urządzeń technicznych zużytych wprocesie normalnej eksploatacji kwater pokrywane są z dotacji budżetowej, o której mowa w art. 19 ust. 4.
 
-3. Osoba zamieszkujàca lokal mieszkalny nie mo˝e czyniç zmian naruszajàcych struktur´ lub konstrukcj´ lokalu mieszkalnego lub budynku.
+3. Osoba zamieszkująca lokal mieszkalny nie może czynić zmian naruszających strukturę lub konstrukcję lokalu mieszkalnego lub budynku.
 
-4. Osoba zamieszkujàca lokal mieszkalny ponosi koszty:
+4. Osoba zamieszkująca lokal mieszkalny ponosi koszty:
 
-- **1)** naprawy powsta∏ych w trakcie zamieszkiwania uszkodzeƒ elementów i wyposa˝enia lokalu mieszkalnego oraz znajdujàcych si´ w nich urzàdzeƒ technicznych,
-- **2)** wymiany uszkodzonych w trakcie zamieszkiwania elementów i wyposa˝enia lokalu mieszkalnego oraz znajdujàcych si´ w nich urzàdzeƒ z przeznaczeniem i z nale˝ytà starantechnicznych, których naprawa jest niemo˝liwa ze wzgl´dów technicznych lub ekonomicznie nieop∏acalna.”;
-- **22)** po art. 32 dodaje si´ art. 32a w brzmieniu: „Art. 32a. 1. ˚o∏nierz s∏u˝by sta∏ej obejmujàcy lokal mieszkalny na podstawie decyzji o prawie zamieszkiwania przed jego zasiedleniem otrzymuje rycza∏t remontowy.
+- **1)** naprawy powstałych w trakcie zamieszkiwania uszkodzeń elementów i wyposażenia lokalu mieszkalnego oraz znajdujących się w nich urządzeń technicznych,
+- **2)** wymiany uszkodzonych w trakcie zamieszkiwania elementów i wyposażenia lokalu mieszkalnego oraz znajdujących się w nich urządzeń z przeznaczeniem i z należytą starantechnicznych, których naprawa jest niemożliwa ze względów technicznych lub ekonomicznie nieopłacalna.”;
+- **22)** po art. 32 dodaje się art. 32a w brzmieniu: ŃArt. 32a. 1. ˚ołnierz służby stałej obejmujący lokal mieszkalny na podstawie decyzji o prawie zamieszkiwania przed jego zasiedleniem otrzymuje ryczałt remontowy.
 
-2. Rycza∏t remontowy, o którym mowa w ust. 1, przys∏uguje, o ile od dnia wybudowania lub remontu lokalu mieszkalnego up∏ynà∏ wi´cej ni˝ jeden rok i lokal by∏ zamieszkiwany przez innà osob´.
+2. Ryczałt remontowy, o którym mowa w ust. 1, przysługuje, o ile od dnia wybudowania lub remontu lokalu mieszkalnego upłynął więcej niż jeden rok i lokal był zamieszkiwany przez inną osobę.
 
-3. WysokoÊç rycza∏tu remontowego za ka˝dy rok zamieszkiwania w lokalu mieszkalnym przez poprzednià osob´, przy spe∏nieniu warunku, o którym mowa w ust. 2, jest iloczynem powierzchni u˝ytkowej lokalu i1/160wartoÊci lokalu, októrej mowa w art. 47 ust. 1 pkt 3.
+3. Wysokość ryczałtu remontowego za każdy rok zamieszkiwania w lokalu mieszkalnym przez poprzednią osobę, przy spełnieniu warunku, o którym mowa w ust. 2, jest iloczynem powierzchni użytkowej lokalu i1/160wartości lokalu, októrej mowa w art. 47 ust. 1 pkt 3.
 
-4. Rycza∏t remontowy wyp∏acany w pierwszych trzech latach od dnia wybudowania lub remontu lokalu mieszkalnego wyp∏aca si´ wwysokoÊci nale˝nej za jeden rok.
+4. Ryczałt remontowy wypłacany w pierwszych trzech latach od dnia wybudowania lub remontu lokalu mieszkalnego wypłaca się wwysokości należnej za jeden rok.
 
-5. Maksymalna wysokoÊç rycza∏tu remontowego nie mo˝e byç wy˝sza ni˝ pi´ciokrotnoÊç rocznego rycza∏tu remontowego, o którym mowa w ust. 3.
+5. Maksymalna wysokość ryczałtu remontowego nie może być wyższa niż pięciokrotność rocznego ryczałtu remontowego, o którym mowa w ust. 3.
 
-6. ˚o∏nierzowi s∏u˝by sta∏ej obejmujàcemu lokal mieszkalny na podstawie decyzji o prawie zamieszkiwania w lokalu mieszkalnym przed jego zasiedleniem Agencja wyp∏aca dodatkowo kwot´ nale˝nà od poprzedniej osoby, stanowiàcà równowartoÊç kosztów, o których mowa w art. 32 ust. 4.
+6. ˚ołnierzowi służby stałej obejmującemu lokal mieszkalny na podstawie decyzji o prawie zamieszkiwania w lokalu mieszkalnym przed jego zasiedleniem Agencja wypłaca dodatkowo kwotę należną od poprzedniej osoby, stanowiącą równowartość kosztów, o których mowa w art. 32 ust. 4.
 
-7. Rycza∏t remontowy wyp∏acany jest z dotacji bud˝etowej, o której mowa w art. 19 ust. 4, przekazywanej corocznie przez Ministra Obrony Narodowej.
+7. Ryczałt remontowy wypłacany jest z dotacji budżetowej, o której mowa w art. 19 ust. 4, przekazywanej corocznie przez Ministra Obrony Narodowej.
 
-8. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia:
+8. Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
-- **1)** tryb zasiedlenia lokali mieszkalnych, warunki i sposób wnoszenia op∏at za u˝ywanie lokalu i op∏at poÊrednich w okresie wykonywania prac remontowych,
-- **2)** normatywy zu˝ycia wyposa˝enia oraz urzàdzeƒ technicznych w lokalach mieszkalnych, sposób itryb obliczania ich wartoÊci, warunki wymiany lub zwrotu kosztów wzamian za wymian´ zu˝ytych: wyposa˝enia i urzàdzeƒ.
+- **1)** tryb zasiedlenia lokali mieszkalnych, warunki i sposób wnoszenia opłat za używanie lokalu i opłat pośrednich w okresie wykonywania prac remontowych,
+- **2)** normatywy zużycia wyposażenia oraz urządzeń technicznych w lokalach mieszkalnych, sposób itryb obliczania ich wartości, warunki wymiany lub zwrotu kosztów wzamian za wymianę zużytych: wyposażenia i urządzeń.
 
-9. Rozporzàdzenie, o którym mowa w ust. 8, w szczególnoÊci powinno:
+9. Rozporządzenie, o którym mowa w ust. 8, w szczególności powinno:
 
-- **1)** okreÊliç zakres czynnoÊci zwiàzanych zzasiedleniem, terminy przystàpienia uprawnionego do wykonania robót remontowych, form´ i miejsce zg∏oszenia zakoƒczenia robót remontowych, warunki, jakie powinny spe∏niaç osoby kontrolujàce iodbierajàce roboty remontowe, oraz terminy usuni´cia stwierdzonych usterek,
-- **2)** okreÊlajàc warunki i sposób ponoszenia op∏at za u˝ywanie lokalu iop∏at poÊrednich wokresie wykonywania prac remontowych, nale˝y przyjàç zasad´, i˝ uprawnionemu ˝o∏nierzowi przys∏uguje ulga w op∏atach za u˝ywanie lokalu w czasie wykonywania prac remontowych, która nie powinna byç wy˝sza ni˝ 50 % tych op∏at oraz trwaç nie d∏u˝ej ni˝ dwa miesiàce od dnia wydania decyzji o prawie zamieszkiwania.”;
-- **23)** art. 33 i 34 otrzymujà brzmienie: „Art. 33. 1. Wrazie koniecznoÊci natychmiastowego usuni´cia awarii gro˝àcej bezpoÊrednio powstaniem znacznych szkód w budynku, osoby zamieszkujàce sà obowiàzane do bezzw∏ocznego udost´pnienia zajmowanego lokalu mieszkalnego w celu usuni´cia awarii.
+- **1)** określić zakres czynności związanych zzasiedleniem, terminy przystąpienia uprawnionego do wykonania robót remontowych, formę i miejsce zgłoszenia zakończenia robót remontowych, warunki, jakie powinny spełniać osoby kontrolujące iodbierające roboty remontowe, oraz terminy usunięcia stwierdzonych usterek,
+- **2)** określając warunki i sposób ponoszenia opłat za używanie lokalu iopłat pośrednich wokresie wykonywania prac remontowych, należy przyjąć zasadę, iż uprawnionemu żołnierzowi przysługuje ulga w opłatach za używanie lokalu w czasie wykonywania prac remontowych, która nie powinna być wyższa niż 50 % tych opłat oraz trwać nie dłużej niż dwa miesiące od dnia wydania decyzji o prawie zamieszkiwania.”;
+- **23)** art. 33 i 34 otrzymują brzmienie: ŃArt. 33. 1. Wrazie konieczności natychmiastowego usunięcia awarii grożącej bezpośrednio powstaniem znacznych szkód w budynku, osoby zamieszkujące są obowiązane do bezzwłocznego udostępnienia zajmowanego lokalu mieszkalnego w celu usunięcia awarii.
 
-2. Je˝eli zamieszkujàcy sà nieobecni albo odmawiajà udost´pnienia lokalu mieszkalnego w celu usuni´cia awarii, do lokalu mieszkalnego wasyÊcie ˚andarmerii Wojskowej lub Policji.
+2. Jeżeli zamieszkujący są nieobecni albo odmawiają udostępnienia lokalu mieszkalnego w celu usunięcia awarii, do lokalu mieszkalnego wasyście ˚andarmerii Wojskowej lub Policji.
 
-3. W razie otwarcia lokalu mieszkalnego pod nieobecnoÊç pe∏noletnich osób zamieszkujàcych w tym lokalu, przedstawiciel Agencji sporzàdza protokó∏ przeprowadzonych czynnoÊci oraz zabezpiecza lokal mieszkalny iznajdujàce si´ w nim mienie do czasu przybycia pe∏noletniego mieszkaƒca.
+3. W razie otwarcia lokalu mieszkalnego pod nieobecność pełnoletnich osób zamieszkujących w tym lokalu, przedstawiciel Agencji sporządza protokół przeprowadzonych czynności oraz zabezpiecza lokal mieszkalny iznajdujące się w nim mienie do czasu przybycia pełnoletniego mieszkańca.
 
 **Art. 34.**
 
-1. Osoby zamieszkujàce lokal mieszkalny sà obowiàzane udost´pniç go Agencji, w uzgodnionym terminie, w celu dokonania przeglàdu technicznego albo napraw obcià˝ajàcych Agencj´ lub je˝eli osoby zamieszkujàce mimo uprzedniego wezwania nie dokona∏y napraw w wyznaczonym terminie.
+1. Osoby zamieszkujące lokal mieszkalny są obowiązane udostępnić go Agencji, w uzgodnionym terminie, w celu dokonania przeglądu technicznego albo napraw obciążających Agencję lub jeżeli osoby zamieszkujące mimo uprzedniego wezwania nie dokonały napraw w wyznaczonym terminie.
 
-2. Po zakoƒczeniu przeglàdu technicznego lub naprawy Agencja jest obowiàzana doprowadziç lokal mieszkalny do przedstawiciele Agencji mogà wejÊç stanu, w jakim znajdowa∏ si´ on wchwili udost´pnienia. Nie dotyczy to przypadków, w których dokonanie naprawy obcià˝a∏o osoby zamieszkujàce w lokalu mieszkalnym, oraz zmian dokonanych bez zgody Agencji.
+2. Po zakończeniu przeglądu technicznego lub naprawy Agencja jest obowiązana doprowadzić lokal mieszkalny do przedstawiciele Agencji mogą wejść stanu, w jakim znajdował się on wchwili udostępnienia. Nie dotyczy to przypadków, w których dokonanie naprawy obciążało osoby zamieszkujące w lokalu mieszkalnym, oraz zmian dokonanych bez zgody Agencji.
 
-3. Je˝eli rodzaj naprawy tego wymaga, a koniecznoÊç naprawy nie powsta∏a z winy osób zamieszkujàcych w lokalu mieszkalnym, osoby te sà obowiàzane opró˝niç lokal mieszkalny i przenieÊç si´ na koszt Agencji do wskazanego im lokalu zamiennego, na oznaczony i podany do wiadomoÊci czas trwania remontu, nie d∏u˝ej jednak ni˝ jeden rok.
+3. Jeżeli rodzaj naprawy tego wymaga, a konieczność naprawy nie powstała z winy osób zamieszkujących w lokalu mieszkalnym, osoby te są obowiązane opróżnić lokal mieszkalny i przenieść się na koszt Agencji do wskazanego im lokalu zamiennego, na oznaczony i podany do wiadomości czas trwania remontu, nie dłużej jednak niż jeden rok.
 
-4. W przypadkach, o których mowa wust. 3, dyrektor oddzia∏u regionalnego Agencji mo˝e zaproponowaç i za zgodà osoby, której wydano decyzj´ o prawie zamieszkiwania w lokalu mieszkalnym, wydaç decyzj´ o prawie zamieszkiwania winnym lokalu mieszkalnym, odpowiadajàcym uprawnieniom tej osoby.
+4. W przypadkach, o których mowa wust. 3, dyrektor oddziału regionalnego Agencji może zaproponować i za zgodą osoby, której wydano decyzję o prawie zamieszkiwania w lokalu mieszkalnym, wydać decyzję o prawie zamieszkiwania winnym lokalu mieszkalnym, odpowiadającym uprawnieniom tej osoby.
 
-5. Koszty naprawy uszkodzeƒ powsta∏ych w lokalu mieszkalnym obcià˝ajà osoby zamieszkujàce w tym lokalu, je˝eli uszkodzenia powsta∏y z ich winy.
+5. Koszty naprawy uszkodzeń powstałych w lokalu mieszkalnym obciążają osoby zamieszkujące w tym lokalu, jeżeli uszkodzenia powstały z ich winy.
 
-6. Koszty naprawy uszkodzeƒ powsta∏ych w urzàdzeniach s∏u˝àcych do wspólnego u˝ytku mieszkaƒców obcià˝ajà osob´, z której winy powsta∏y te uszkodzenia. Je˝eli osoby takiej nie mo˝na ustaliç, koszty naprawy ponoszà solidarnie osoby zamieszka∏e w budynku.
+6. Koszty naprawy uszkodzeń powstałych w urządzeniach służących do wspólnego użytku mieszkańców obciążają osobę, z której winy powstały te uszkodzenia. Jeżeli osoby takiej nie można ustalić, koszty naprawy ponoszą solidarnie osoby zamieszkałe w budynku.
 
-7. Decyzje w sprawie kosztów naprawy wydaje dyrektor oddzia∏u regionalnego Agencji.”;
+7. Decyzje w sprawie kosztów naprawy wydaje dyrektor oddziału regionalnego Agencji.”;
 
-- **24)** w art. 35 uchyla si´ ust. 2 i 3;
-- **25)** art. 36 i 37 otrzymujà brzmienie: „Art. 36. 1. Osoby zamieszkujàce w lokalach mieszkalnych od dnia wydania decyzji o prawie zamieszkiwania uiszczajà op∏aty za u˝ywanie lokalu wwysokoÊci nie wi´kszej ni˝ 3 % wartoÊci odtworzeniowej w skali rocznej, okreÊlonej na podstawie art. 47 ust. 1 pkt 3, oraz zaliczki na op∏aty poÊrednie wterminie do pi´tnastego dnia ka˝dego miesiàca, zzastrze˝eniem ust. 2 i3. Za dat´ wp∏aty przyjmuje si´ dzieƒ wp∏ywu op∏aty na rachunek bankowy Agencji lub wp∏aty do kasy Agencji.
+- **24)** w art. 35 uchyla się ust. 2 i 3;
+- **25)** art. 36 i 37 otrzymują brzmienie: ŃArt. 36. 1. Osoby zamieszkujące w lokalach mieszkalnych od dnia wydania decyzji o prawie zamieszkiwania uiszczają opłaty za używanie lokalu wwysokości nie większej niż 3 % wartości odtworzeniowej w skali rocznej, określonej na podstawie art. 47 ust. 1 pkt 3, oraz zaliczki na opłaty pośrednie wterminie do piętnastego dnia każdego miesiąca, zzastrzeżeniem ust. 2 i3. Za datę wpłaty przyjmuje się dzień wpływu opłaty na rachunek bankowy Agencji lub wpłaty do kasy Agencji.
 
-2. W budynkach wspólnot mieszkaniowych lub spó∏dzielni op∏aty za u˝ywanie lokalu wynoszà 3 % wartoÊci odtworzeniowej w skali rocznej, jednak nie mniej ni˝ stanowi uchwa∏a wspólnoty lub odpowiedniego organu spó∏dzielni.
+2. W budynkach wspólnot mieszkaniowych lub spółdzielni opłaty za używanie lokalu wynoszą 3 % wartości odtworzeniowej w skali rocznej, jednak nie mniej niż stanowi uchwała wspólnoty lub odpowiedniego organu spółdzielni.
 
-3. W kwaterach koszty op∏at za u˝ywanie lokalu i koszty energii cieplnej obliczonej na podstawie norm technicznych, potrzebnej do ogrzania mieszkaƒ w budynku w przeliczeniu na powierzchni´ u˝ytkowà mieszkania, nie mogà przekraczaç 4,8 % wartoÊci odtworzeniowej w skali rocznej.
+3. W kwaterach koszty opłat za używanie lokalu i koszty energii cieplnej obliczonej na podstawie norm technicznych, potrzebnej do ogrzania mieszkań w budynku w przeliczeniu na powierzchnię użytkową mieszkania, nie mogą przekraczać 4,8 % wartości odtworzeniowej w skali rocznej.
 
-4. Agencja ma prawo pobieraç zaliczki na op∏aty poÊrednie.
+4. Agencja ma prawo pobierać zaliczki na opłaty pośrednie.
 
-5. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, sposób naliczania i rozliczania op∏at za u˝ywanie lokali mieszkalnych iop∏at poÊrednich, uwzgl´dniajàc wszczególnoÊci sposób obliczania zaliczek na op∏aty poÊrednie.
+5. Minister Obrony Narodowej określi, w drodze rozporządzenia, sposób naliczania i rozliczania opłat za używanie lokali mieszkalnych iopłat pośrednich, uwzględniając wszczególności sposób obliczania zaliczek na opłaty pośrednie.
 
 **Art. 37.**
 
-1. Op∏aty za u˝ywanie lokalu i op∏aty poÊrednie z tytu∏u zajmowania lokalu mieszkalnego na podstawie decyzji o prawie zamieszkiwania, nieuiszczone w ustalonym terminie p∏atnoÊci, podlegajà, wraz z odsetkami w wysokoÊci ustawowej za zw∏ok´, przymusowemu Êciàgni´ciu na podstawie tytu∏u wykonawczego, w trybie przepisów ustawy zdnia 17 czerwca 1966 r. opost´powaniu egzekucyjnym w administracji (Dz. U. z 2002 r. 110, poz. 968, z póên. zm.
+1. Opłaty za używanie lokalu i opłaty pośrednie z tytułu zajmowania lokalu mieszkalnego na podstawie decyzji o prawie zamieszkiwania, nieuiszczone w ustalonym terminie płatności, podlegają, wraz z odsetkami w wysokości ustawowej za zwłokę, przymusowemu ściągnięciu na podstawie tytułu wykonawczego, w trybie przepisów ustawy zdnia 17 czerwca 1966 r. opostępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. 110, poz. 968, z póên. zm.
 
-2. Za uiszczenie op∏at za u˝ywanie lokalu i op∏at poÊrednich z tytu∏u zajmowania lokalu mieszkalnego odpowiadajà solidarnie pe∏noletnie osoby zamieszkujàce w tym lokalu.”;
+2. Za uiszczenie opłat za używanie lokalu i opłat pośrednich z tytułu zajmowania lokalu mieszkalnego odpowiadają solidarnie pełnoletnie osoby zamieszkujące w tym lokalu.”;
 
-- **26)** po art. 37 dodaje si´ art. 37a w brzmieniu: „Art. 37a. 1. Osoby zajmujàce lokal mieszkalny bez tytu∏u prawnego sà obowiàzane do jego opró˝nienia, uiszczenia op∏aty za u˝ywanie lokalu i op∏at poÊrednich oraz zap∏aty odszkodowania w wysokoÊci 200 % wartoÊci nale˝nych op∏at za u˝ywanie lokalu za ka˝dy rozpocz´ty miesiàc jego zajmowania.
+- **26)** po art. 37 dodaje się art. 37a w brzmieniu: ŃArt. 37a. 1. Osoby zajmujące lokal mieszkalny bez tytułu prawnego są obowiązane do jego opróżnienia, uiszczenia opłaty za używanie lokalu i opłat pośrednich oraz zapłaty odszkodowania w wysokości 200 % wartości należnych opłat za używanie lokalu za każdy rozpoczęty miesiąc jego zajmowania.
 
-2. W przypadku, o którym mowa w ust. 1, dyrektor oddzia∏u regionalnego Agencji wydaje decyzj´ w sprawie opró˝nienia lokalu mieszkalnego oraz wysokoÊci nale˝nych op∏at i odszkodowaƒ.”;
+2. W przypadku, o którym mowa w ust. 1, dyrektor oddziału regionalnego Agencji wydaje decyzję w sprawie opróżnienia lokalu mieszkalnego oraz wysokości należnych opłat i odszkodowań.”;
 
-- **27)** art. 38 otrzymuje brzmienie: „Art. 38. 1. W przypadku ˝o∏nierzy s∏u˝by sta∏ej, którzy nie uiszczajà pe∏nych op∏at za u˝ywanie lokalu lub pe∏nych op∏at poÊrednich z tytu∏u zajmowania lokalu mieszkalnego przez ∏àczny okres d∏u˝szy ni˝ trzy miesiàce, dyrektor oddzia∏u regionalnego Agencji wydaje decyzj´ o prawie zamieszkiwania w kwaterze zast´pczej, októrej mowa wart. 50 ust. 1 pkt 2, awprzypadku odmowy jej przyj´cia dyrektor oddzia∏u regionalnego Agencji zarzàdza, w trybie art. 45, przymusowe przekwaterowanie do tej kwatery zast´pczej, wraz ze wszystkimi wspólnie zamieszkujàcymi osobami.
+- **27)** art. 38 otrzymuje brzmienie: ŃArt. 38. 1. W przypadku żołnierzy służby stałej, którzy nie uiszczają pełnych opłat za używanie lokalu lub pełnych opłat pośrednich z tytułu zajmowania lokalu mieszkalnego przez łączny okres dłuższy niż trzy miesiące, dyrektor oddziału regionalnego Agencji wydaje decyzję o prawie zamieszkiwania w kwaterze zastępczej, októrej mowa wart. 50 ust. 1 pkt 2, awprzypadku odmowy jej przyjęcia dyrektor oddziału regionalnego Agencji zarządza, w trybie art. 45, przymusowe przekwaterowanie do tej kwatery zastępczej, wraz ze wszystkimi wspólnie zamieszkującymi osobami.
 
-2. W stosunku do osób nieb´dàcych ˝o∏nierzami s∏u˝by sta∏ej, które nie uiszczajà pe∏nych op∏at za u˝ywanie lokalu lub pe∏nych op∏at poÊrednich z tytu∏u zajmowanego lokalu mieszkalnego przez ∏àczny okres d∏u˝szy ni˝ trzy miesiàce, dyrektor oddzia∏u regionalnego Agencji zarzàdza przymusowe wykwaterowanie w trybie art. 45.”;
+2. W stosunku do osób niebędących żołnierzami służby stałej, które nie uiszczają pełnych opłat za używanie lokalu lub pełnych opłat pośrednich z tytułu zajmowanego lokalu mieszkalnego przez łączny okres dłuższy niż trzy miesiące, dyrektor oddziału regionalnego Agencji zarządza przymusowe wykwaterowanie w trybie art. 45.”;
 
-- **28)** uchyla si´ art. 39 i 40; ).
-- **29)** art. 41 i 42 otrzymujà brzmienie: „Art. 41. 1. ˚o∏nierz s∏u˝by sta∏ej iosoby wspólnie z nim zamieszkujàce sà obowiàzani przekazaç do dyspozycji Agencji lokal mieszkalny, je˝eli ˝o∏nierz:
-- **1)** otrzyma∏ odpraw´ mieszkaniowà,
-- **2)** skorzysta∏ z uprawnieƒ, o których ——————— mowa w art. 87,
-- **3)** otrzyma∏ decyzj´ o prawie zamieszkiwania wkolejnym lokalu mieszkalnym lub skorzysta∏ z uprawnienia, o którym mowa w art. 24 ust. 6,
-- **4)** i jego ma∏˝onek zamieszkujà oddzielne lokale mieszkalne, z których jeden odpowiada co najmniej ich uprawnieniom; w takim przypadku przys∏uguje im prawo wyboru lokalu mieszkalnego.
+- **28)** uchyla się art. 39 i 40; ).
+- **29)** art. 41 i 42 otrzymują brzmienie: ŃArt. 41. 1. ˚ołnierz służby stałej iosoby wspólnie z nim zamieszkujące są obowiązani przekazać do dyspozycji Agencji lokal mieszkalny, jeżeli żołnierz:
+- **1)** otrzymał odprawę mieszkaniową,
+- **2)** skorzystał z uprawnień, o których ——————— mowa w art. 87,
+- **3)** otrzymał decyzję o prawie zamieszkiwania wkolejnym lokalu mieszkalnym lub skorzystał z uprawnienia, o którym mowa w art. 24 ust. 6,
+- **4)** i jego małżonek zamieszkują oddzielne lokale mieszkalne, z których jeden odpowiada co najmniej ich uprawnieniom; w takim przypadku przysługuje im prawo wyboru lokalu mieszkalnego.
 
-2. By∏y ˝o∏nierz s∏u˝by sta∏ej, który naby∏ prawo do emerytury wojskowej lub do wojskowej renty inwalidzkiej albo zosta∏ zwolniony z zawodowej s∏u˝by wojskowej przed nabyciem prawa do emerytury wojskowej z przyczyn, o których mowa w art. 47 ust. 1 pkt 2, jest obowiàzany przekazaç do dyspozycji Agencji lokal mieszkalny, je˝eli:
+2. Były żołnierz służby stałej, który nabył prawo do emerytury wojskowej lub do wojskowej renty inwalidzkiej albo został zwolniony z zawodowej służby wojskowej przed nabyciem prawa do emerytury wojskowej z przyczyn, o których mowa w art. 47 ust. 1 pkt 2, jest obowiązany przekazać do dyspozycji Agencji lokal mieszkalny, jeżeli:
 
-- **1)** otrzyma∏ odpraw´ mieszkaniowà,
-- **2)** skorzysta∏ z uprawnieƒ, o których mowa w art. 87,
-- **3)** przyjà∏ zaproponowany lokal zamienny, o którym mowa w art. 23 ust. 1,
-- **4)** zosta∏ zwolniony z zawodowej s∏u˝by wojskowej, a lokal mieszkalny przydzielono mu na podstawie przepisów ustawy, obowiàzujàcych do dnia 30 czerwca 2004 r., tylko na czas pe∏nienia s∏u˝by w tej miejscowoÊci,
-- **5)** zamieszkuje w lokalu mieszkalnym znajdujàcym si´ w budynku przeznaczonym do przebudowy i wskazano mu lokal zamienny,
-- **6)** zamieszkuje on i jego ma∏˝onek w oddzielnych lokalach mieszkalnych, zktórych jeden odpowiada co najmniej ich uprawnieniom; w takim przypadku przys∏uguje im prawo wyboru lokalu mieszkalnego.
+- **1)** otrzymał odprawę mieszkaniową,
+- **2)** skorzystał z uprawnień, o których mowa w art. 87,
+- **3)** przyjął zaproponowany lokal zamienny, o którym mowa w art. 23 ust. 1,
+- **4)** został zwolniony z zawodowej służby wojskowej, a lokal mieszkalny przydzielono mu na podstawie przepisów ustawy, obowiązujących do dnia 30 czerwca 2004 r., tylko na czas pełnienia służby w tej miejscowości,
+- **5)** zamieszkuje w lokalu mieszkalnym znajdującym się w budynku przeznaczonym do przebudowy i wskazano mu lokal zamienny,
+- **6)** zamieszkuje on i jego małżonek w oddzielnych lokalach mieszkalnych, zktórych jeden odpowiada co najmniej ich uprawnieniom; w takim przypadku przysługuje im prawo wyboru lokalu mieszkalnego.
 
-3. ˚o∏nierz s∏u˝by sta∏ej iosoby wspólnie z nim zamieszkujàce sà obowiàzane przekazaç do dyspozycji Agencji kwater´, je˝eli ˝o∏nierz zosta∏ zwolniony z zawodowej s∏u˝by wojskowej przed nabyciem prawa do emerytury wojskowej zinnych przyczyn ni˝ okreÊlone wart. 47 ust. 1 pkt 2 inie naby∏ uprawnieƒ do wojskowej renty inwalidzkiej lub zmar∏ przed nabyciem prawa do emerytury wojskowej.
+3. ˚ołnierz służby stałej iosoby wspólnie z nim zamieszkujące są obowiązane przekazać do dyspozycji Agencji kwaterę, jeżeli żołnierz został zwolniony z zawodowej służby wojskowej przed nabyciem prawa do emerytury wojskowej zinnych przyczyn niż określone wart. 47 ust. 1 pkt 2 inie nabył uprawnień do wojskowej renty inwalidzkiej lub zmarł przed nabyciem prawa do emerytury wojskowej.
 
-4. Osoby wspólnie zamieszkujàce z ˝o∏nierzem s∏u˝by sta∏ej, który zmar∏ po nabyciu prawa do emerytury wojskowej lub którego Êmierç pozostaje wiàzane przekazaç do dyspozycji Agencji lokal mieszkalny, je˝eli:
+4. Osoby wspólnie zamieszkujące z żołnierzem służby stałej, który zmarł po nabyciu prawa do emerytury wojskowej lub którego śmierć pozostaje wiązane przekazać do dyspozycji Agencji lokal mieszkalny, jeżeli:
 
-- **1)** otrzyma∏y odpraw´ mieszkaniowà,
+- **1)** otrzymały odprawę mieszkaniową,
 - **2)** zaproponowano im lokal zamienny,
-- **3)** zamieszkujà lokal mieszkalny znajdujàcy si´ w budynku przeznaczonym do przebudowy i zaproponowano im lokal zamienny.
+- **3)** zamieszkują lokal mieszkalny znajdujący się w budynku przeznaczonym do przebudowy i zaproponowano im lokal zamienny.
 
-5. Osoby, którym wydano decyzj´ o prawie zamieszkiwania wtrybie art. 29, sà obowiàzane przekazaç do dyspozycji Agencji lokal mieszkalny po up∏ywie czasu, na który prawo to im przys∏ugiwa∏o.
+5. Osoby, którym wydano decyzję o prawie zamieszkiwania wtrybie art. 29, są obowiązane przekazać do dyspozycji Agencji lokal mieszkalny po upływie czasu, na który prawo to im przysługiwało.
 
-6. W przypadku nieopuszczenia lokalu mieszkalnego przez osoby, o których mowa w ust. 1—5, wraz z osobami wspólnie zamieszkujàcymi, w terminie trzydziestu dni od dnia dor´czenia tym osobom wezwania wydanego przez dyrektora oddzia∏u regionalnego Agencji do opuszczenia lokalu mieszkalnego, Agencji przys∏uguje, oprócz op∏at za u˝ywanie lokalu i op∏at poÊrednich, odszkodowanie wwysokoÊci 200 % wartoÊci op∏at za u˝ywanie lokalu za ka˝dy rozpocz´ty miesiàc.
+6. W przypadku nieopuszczenia lokalu mieszkalnego przez osoby, o których mowa w ust. 1—5, wraz z osobami wspólnie zamieszkującymi, w terminie trzydziestu dni od dnia doręczenia tym osobom wezwania wydanego przez dyrektora oddziału regionalnego Agencji do opuszczenia lokalu mieszkalnego, Agencji przysługuje, oprócz opłat za używanie lokalu i opłat pośrednich, odszkodowanie wwysokości 200 % wartości opłat za używanie lokalu za każdy rozpoczęty miesiąc.
 
-7. Zamieszkiwanie wlokalu mieszkalnym powy˝ej trzech miesi´cy od dnia up∏ywu terminu, o którym mowa w ust. 6, jest podstawà przymusowego wykwaterowania przez dyrektora oddzia∏u regionalnego Agencji w asyÊcie ˚andarmerii Wojskowej lub Policji osoby, októrej mowa wust. 1—5, wraz zosobami wspólnie zamieszkujàcymi.
+7. Zamieszkiwanie wlokalu mieszkalnym powyżej trzech miesięcy od dnia upływu terminu, o którym mowa w ust. 6, jest podstawą przymusowego wykwaterowania przez dyrektora oddziału regionalnego Agencji w asyście ˚andarmerii Wojskowej lub Policji osoby, októrej mowa wust. 1—5, wraz zosobami wspólnie zamieszkującymi.
 
-8. W zakresie spraw, o których mowa w ust. 6 i 7, przepis art. 37a ust. 2 stosuje si´ odpowiednio.
+8. W zakresie spraw, o których mowa w ust. 6 i 7, przepis art. 37a ust. 2 stosuje się odpowiednio.
 
 **Art. 42.**
 
-1. W przypadkach, o których mowa w art. 41 i 44, dyrektor oddzia∏u regionalnego Agencji wydaje decyzj´ o zwolnieniu lokalu mieszkalnego.
+1. W przypadkach, o których mowa w art. 41 i 44, dyrektor oddziału regionalnego Agencji wydaje decyzję o zwolnieniu lokalu mieszkalnego.
 
 2. Koszty przymusowego przekwaterowania wprzypadkach, októrych mowa w art. 41 ust. 2 pkt 5 i ust. 4 pkt 3, ponosi Agencja.
 
-3. Po uprawomocnieniu si´ decyzji, o której mowa w ust. 1, dyrektor oddzia∏u regionalnego Agencji zarzàdza odpowiednio przymusowe wykwaterowanie lub przekwaterowanie.”;
+3. Po uprawomocnieniu się decyzji, o której mowa w ust. 1, dyrektor oddziału regionalnego Agencji zarządza odpowiednio przymusowe wykwaterowanie lub przekwaterowanie.”;
 
-- **30)** uchyla si´ art. 43;
-- **31)** art. 44 i 45 otrzymujà brzmienie: wzwiàzku ze s∏u˝bà wojskowà, sà obo„Art. 44. Osoby nieb´dàce ˝o∏nierzami s∏u˝by sta∏ej zajmujàce kwatery, które odmówi∏y skorzystania z uprawnieƒ, o których mowa wart. 23 ust. 1 i3, podlegajà przymusowemu wykwaterowaniu.
+- **30)** uchyla się art. 43;
+- **31)** art. 44 i 45 otrzymują brzmienie: wzwiązku ze służbą wojskową, są oboŃArt. 44. Osoby niebędące żołnierzami służby stałej zajmujące kwatery, które odmówiły skorzystania z uprawnień, o których mowa wart. 23 ust. 1 i3, podlegają przymusowemu wykwaterowaniu.
 
 **Art. 45.**
 
-1. Przymusowego przekwaterowania lub wykwaterowania zlokali mieszkalnych pozostajàcych wzasobach Agencji dokonuje organ egzekucyjny, na wniosek dyrektora oddzia∏u regionalnego Agencji, w trybie przepisów ustawy zdnia 17 czerwca 1966 r. opost´powaniu egzekucyjnym w administracji.
+1. Przymusowego przekwaterowania lub wykwaterowania zlokali mieszkalnych pozostających wzasobach Agencji dokonuje organ egzekucyjny, na wniosek dyrektora oddziału regionalnego Agencji, w trybie przepisów ustawy zdnia 17 czerwca 1966 r. opostępowaniu egzekucyjnym w administracji.
 
-2. Egzekucja wydatków zwiàzanych zprzekwaterowaniem, októrym mowa w ust. 1, nast´puje w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o post´powaniu egzekucyjnym w administracji.
+2. Egzekucja wydatków związanych zprzekwaterowaniem, októrym mowa w ust. 1, następuje w trybie przepisów ustawy z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji.
 
 3. Do przymusowego wykwaterowania:
 
-- **1)** kobiety w cià˝y,
-- **2)** ma∏oletniego,
-- **3)** niepe∏nosprawnego w rozumieniu przepisów ustawy z dnia 12 marca 2004 r. o pomocy spo∏ecznej (Dz. U. 64, poz. 593 i 99, poz. 1001) lub ubezw∏asnowolnionego oraz sprawujàcego nad takà osobà opiek´ i wspólnie z nià zamieszka∏ego,
-- **4)** emeryta i rencisty spe∏niajàcego kryteria do otrzymania Êwiadczenia z pomocy spo∏ecznej nie stosuje si´ trybu, o którym mowa w ust. 1 i 2. W tym przypadku dyrektor oddzia∏u regionalnego Agencji wyst´puje do sàdu z pozwem o nakazanie opró˝nienia lokalu mieszkalnego, orzeczenie ouprawnieniu do otrzymania lokalu socjalnego, o wezwanie do udzia∏u w procesie gminy oraz okreÊlenie odszkodowania.”;
-- **32)** uchyla si´ art. 46;
-- **33)** art. 47 otrzymuje brzmienie: „Art. 47. 1. Odprawa mieszkaniowa wynosi 3% wartoÊci przys∏ugujàcego lokalu mieszkalnego za ka˝dy rok podlegajàcy zaliczeniu do wys∏ugi lat, od której jest uzale˝niona wysokoÊç dodatku za d∏ugoletnià s∏u˝b´ wojskowà, i nie mo˝e byç ni˝sza ni˝ 45 % oraz wy˝sza ni˝ 80 % wartoÊci przys∏ugujàcego lokalu mieszkalnego. Odpraw´ oblicza si´ i wyp∏aca wed∏ug nast´pujàcych zasad:
-- **1)** ˝o∏nierzowi s∏u˝by sta∏ej, zwolnionemu z zawodowej s∏u˝by wojskowej, przys∏uguje odprawa obliczona z uwzgl´dnieniem okresu s∏u˝by liczonego w pe∏nych latach, z tym ˝e rozpocz´ty rok przyjmuje si´ jako
-- **2)** ˝o∏nierzowi s∏u˝by sta∏ej, zwolnionemu z zawodowej s∏u˝by wojskowej, je˝eli nie naby∏ prawa do emerytury wojskowej, w przypadku wypowiedzenia stosunku s∏u˝bowego zawodowej s∏u˝by wojskowej przez w∏aÊciwy organ wojskowy lub któremu przyznano wojskowà rent´ inwalidzkà przed nabyciem prawa do emerytury wojskowej, przys∏uguje odprawa w wysokoÊci 45 % wartoÊci przys∏ugujàcego lokalu mieszkalnego,
-- **3)** Prezes Agencji raz w roku, nie póêniej ni˝ do koƒca roku kalendarzowego, og∏asza wformie komunikatu obowiàzujàcà w ca∏ej Agencji wartoÊç odtworzeniowà 1 m rok pe∏ny, powierzchni u˝ytkowej lokalu mieszkalnego, b´dàcà Êrednià arytmetycznà, wyliczonà na podstawie kosztu odtworzenia ustalanego przez wojewodów na podstawie odr´bnych przepisów dla poszczególnych powiatów, za pierwsze pó∏rocze, na rok nast´pny,
-- **4)** wartoÊç przys∏ugujàcego lokalu mieszkalnego jest iloczynem maksymalnej powierzchni u˝ytkowej podstawowej przypadajàcej na jednà norm´, o której mowa w art. 26 ust. 1, iloÊci norm nale˝nych ˝o∏nierzowi w dniu zawarcia umowy o wyp∏at´ odprawy mieszkaniowej, wskaênika 1,45 i wartoÊci 1 m powierzchni u˝ytkowej okreÊlonej w pkt 3.
+- **1)** kobiety w ciąży,
+- **2)** małoletniego,
+- **3)** niepełnosprawnego w rozumieniu przepisów ustawy z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. 64, poz. 593 i 99, poz. 1001) lub ubezwłasnowolnionego oraz sprawującego nad taką osobą opiekę i wspólnie z nią zamieszkałego,
+- **4)** emeryta i rencisty spełniającego kryteria do otrzymania świadczenia z pomocy społecznej nie stosuje się trybu, o którym mowa w ust. 1 i 2. W tym przypadku dyrektor oddziału regionalnego Agencji występuje do sądu z pozwem o nakazanie opróżnienia lokalu mieszkalnego, orzeczenie ouprawnieniu do otrzymania lokalu socjalnego, o wezwanie do udziału w procesie gminy oraz określenie odszkodowania.”;
+- **32)** uchyla się art. 46;
+- **33)** art. 47 otrzymuje brzmienie: ŃArt. 47. 1. Odprawa mieszkaniowa wynosi 3% wartości przysługującego lokalu mieszkalnego za każdy rok podlegający zaliczeniu do wysługi lat, od której jest uzależniona wysokość dodatku za długoletnią służbę wojskową, i nie może być niższa niż 45 % oraz wyższa niż 80 % wartości przysługującego lokalu mieszkalnego. Odprawę oblicza się i wypłaca według następujących zasad:
+- **1)** żołnierzowi służby stałej, zwolnionemu z zawodowej służby wojskowej, przysługuje odprawa obliczona z uwzględnieniem okresu służby liczonego w pełnych latach, z tym że rozpoczęty rok przyjmuje się jako
+- **2)** żołnierzowi służby stałej, zwolnionemu z zawodowej służby wojskowej, jeżeli nie nabył prawa do emerytury wojskowej, w przypadku wypowiedzenia stosunku służbowego zawodowej służby wojskowej przez właściwy organ wojskowy lub któremu przyznano wojskową rentę inwalidzką przed nabyciem prawa do emerytury wojskowej, przysługuje odprawa w wysokości 45 % wartości przysługującego lokalu mieszkalnego,
+- **3)** Prezes Agencji raz w roku, nie póêniej niż do końca roku kalendarzowego, ogłasza wformie komunikatu obowiązującą w całej Agencji wartość odtworzeniową 1 m rok pełny, powierzchni użytkowej lokalu mieszkalnego, będącą średnią arytmetyczną, wyliczoną na podstawie kosztu odtworzenia ustalanego przez wojewodów na podstawie odrębnych przepisów dla poszczególnych powiatów, za pierwsze półrocze, na rok następny,
+- **4)** wartość przysługującego lokalu mieszkalnego jest iloczynem maksymalnej powierzchni użytkowej podstawowej przypadającej na jedną normę, o której mowa w art. 26 ust. 1, ilości norm należnych żołnierzowi w dniu zawarcia umowy o wypłatę odprawy mieszkaniowej, wskaênika 1,45 i wartości 1 m powierzchni użytkowej określonej w pkt 3.
 
-2. Odpraw´ mieszkaniowà wyp∏aca si´ na podstawie umowy zawartej mi´dzy dyrektorem oddzia∏u regionalnego Agencji a osobà uprawnionà zwalniajàcà kwater´. Zawarcie umowy nast´puje po przedstawieniu przez osob´ uprawnionà jednego z nast´pujàcych dokumentów:
+2. Odprawę mieszkaniową wypłaca się na podstawie umowy zawartej między dyrektorem oddziału regionalnego Agencji a osobą uprawnioną zwalniającą kwaterę. Zawarcie umowy następuje po przedstawieniu przez osobę uprawnioną jednego z następujących dokumentów:
 
-- **1)** zaÊwiadczenia onabyciu uprawnieƒ do emerytury wojskowej lub do wojskowej renty inwalidzkiej wydanego przez wojskowy organ emerytalny,
-- **2)** zaÊwiadczenia o przyczynach zwolnienia z zawodowej s∏u˝by wojskowej wydanego przez dowódc´ jednostki wojskowej, w której ˝o∏nierz s∏u˝by sta∏ej pe∏ni∏ zawodowà s∏u˝b´ wojskowà, je˝eli nie naby∏ prawa do emerytury wojskowej lub nie uzyska∏ uprawnieƒ do wojskowej renty inwalidzkiej,
-- **3)** zaÊwiadczenia o zwiàzku Êmierci ˝o∏nierza s∏u˝by sta∏ej ze s∏u˝bà wojskowà wydanego przez w∏aÊciwy organ wojskowy.
+- **1)** zaświadczenia onabyciu uprawnień do emerytury wojskowej lub do wojskowej renty inwalidzkiej wydanego przez wojskowy organ emerytalny,
+- **2)** zaświadczenia o przyczynach zwolnienia z zawodowej służby wojskowej wydanego przez dowódcę jednostki wojskowej, w której żołnierz służby stałej pełnił zawodową służbę wojskową, jeżeli nie nabył prawa do emerytury wojskowej lub nie uzyskał uprawnień do wojskowej renty inwalidzkiej,
+- **3)** zaświadczenia o związku śmierci żołnierza służby stałej ze służbą wojskową wydanego przez właściwy organ wojskowy.
 
-3. W przypadku Êmierci ˝o∏nierza s∏u˝by sta∏ej odpraw´ mieszkaniowà oblicza si´, przyjmujàc wys∏ug´ lat, o której mowa wust. 1 pkt 1, ustalonà na dzieƒ jego Êmierci, i wyp∏aca wspólnie zamieszka∏ym: ma∏˝onkowi, zst´pnym, wst´pnym, osobom przysposobionym iosobom przysposabiajàcym, wwysokoÊci nie ni˝szej ni˝ 45 % wartoÊci przys∏ugujàcego lokalu mieszkalnego.
+3. W przypadku śmierci żołnierza służby stałej odprawę mieszkaniową oblicza się, przyjmując wysługę lat, o której mowa wust. 1 pkt 1, ustaloną na dzień jego śmierci, i wypłaca wspólnie zamieszkałym: małżonkowi, zstępnym, wstępnym, osobom przysposobionym iosobom przysposabiającym, wwysokości nie niższej niż 45 % wartości przysługującego lokalu mieszkalnego.
 
-4. Odprawa mieszkaniowa mo˝e, na pisemny wniosek osoby uprawnionej, byç zrealizowana wjednej znast´pujàcych form rzeczowych, przez:
+4. Odprawa mieszkaniowa może, na pisemny wniosek osoby uprawnionej, być zrealizowana wjednej znastępujących form rzeczowych, przez:
 
-- **1)** nieodp∏atne przeniesienie w∏asnoÊci nieruchomoÊci gruntowej zoferty Agencji, o wartoÊci do 130 % nale˝nej odprawy mieszkaniowej,
-- **2)** nieodp∏atne przeniesienie w∏asnoÊci lokalu mieszkalnego z oferty Agencji, nieb´dàcego lokalem zamiennym. Koszty zwiàzane z zawarciem umowy notarialnej ponosi nabywca nieruchomoÊci.
+- **1)** nieodpłatne przeniesienie własności nieruchomości gruntowej zoferty Agencji, o wartości do 130 % należnej odprawy mieszkaniowej,
+- **2)** nieodpłatne przeniesienie własności lokalu mieszkalnego z oferty Agencji, niebędącego lokalem zamiennym. Koszty związane z zawarciem umowy notarialnej ponosi nabywca nieruchomości.
 
-5. Odprawa mieszkaniowa po uprawomocnieniu si´ decyzji o wypowiedzeniu stosunku s∏u˝bowego zawodowej s∏u˝by wojskowej jest realizowana, na wniosek ˝o∏nierza, w jednej z nast´pujàcych form:
+5. Odprawa mieszkaniowa po uprawomocnieniu się decyzji o wypowiedzeniu stosunku służbowego zawodowej służby wojskowej jest realizowana, na wniosek żołnierza, w jednej z następujących form:
 
-- **1)** wyp∏aty zaliczkowej 50 % nale˝nej kwoty,
-- **2)** nieodp∏atnego nabycia w∏asnoÊci dzia∏ki, na warunkach okreÊlonych w ust. 4 pkt 1,
+- **1)** wypłaty zaliczkowej 50 % należnej kwoty,
+- **2)** nieodpłatnego nabycia własności działki, na warunkach określonych w ust. 4 pkt 1,
 - **3)** lokalu zamiennego,
-- **4)** nieodp∏atnego nabycia w∏asnoÊci innego lokalu mieszkalnego, nieb´dàcego lokalem zamiennym, je˝eli Agencja posiada taki lokal wswoich zasobach.
+- **4)** nieodpłatnego nabycia własności innego lokalu mieszkalnego, niebędącego lokalem zamiennym, jeżeli Agencja posiada taki lokal wswoich zasobach.
 
 6. Wprzypadku realizacji odprawy mieszkaniowej w formie, o której mowa w:
 
-- **1)** ust. 5 pkt 1 pozosta∏à cz´Êç odprawy wyp∏aca si´ w terminie trzydziestu dni od dnia zwolnienia z zawodowej s∏u˝by wojskowej,
-- **2)** ust. 5 pkt 2 ˝o∏nierz s∏u˝by sta∏ej ma obowiàzek zwolniç zajmowanà kwater´ w ciàgu dziewi´ciu miesi´cy od dnia przeniesienia w∏asnoÊci dzia∏ki, nie póêniej jednak ni˝ wdniu zwolnienia zzawodowej s∏u˝by woj3) ust. 5 pkt 3 i4 ˝o∏nierz s∏u˝by sta∏ej ma obowiàzek zwolniç zajmowanà kwater´ w ciàgu trzydziestu dni od dnia przyj´cia lub nabycia lokalu.
+- **1)** ust. 5 pkt 1 pozostałą część odprawy wypłaca się w terminie trzydziestu dni od dnia zwolnienia z zawodowej służby wojskowej,
+- **2)** ust. 5 pkt 2 żołnierz służby stałej ma obowiązek zwolnić zajmowaną kwaterę w ciągu dziewięciu miesięcy od dnia przeniesienia własności działki, nie póêniej jednak niż wdniu zwolnienia zzawodowej służby woj3) ust. 5 pkt 3 i4 żołnierz służby stałej ma obowiązek zwolnić zajmowaną kwaterę w ciągu trzydziestu dni od dnia przyjęcia lub nabycia lokalu.
 
-7. Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzenia, szczegó∏owe warunki itryb wyp∏aty odprawy mieszkaniowej, z uwzgl´dnieniem:
+7. Minister Obrony Narodowej określi, wdrodze rozporządzenia, szczegółowe warunki itryb wypłaty odprawy mieszkaniowej, z uwzględnieniem:
 
-- **1)** wyp∏acania i zabezpieczania zaliczek, októrych mowa wust. 5 pkt 1,
+- **1)** wypłacania i zabezpieczania zaliczek, októrych mowa wust. 5 pkt 1,
 - **2)** realizacji rzeczowych form odprawy mieszkaniowej, o których mowa w ust. 5 pkt 2—4.”;
-- **34)** uchyla si´ art. 48;
-- **35)** po art. 48 dodaje si´ art. 48a w brzmieniu: „Art. 48a. W razie samowolnego zaj´cia lokalu mieszkalnego przedstawiciel Agencji, w asyÊcie ˚andarmerii Wojskowej lub Policji, dokonuje wykwaterowania osób, które zaj´∏y lokal mieszkalny, na ich koszt, bez obowiàzku dostarczenia innego lokalu.”;
-- **36)** uchyla si´ art. 49;
-- **37)** art. 50—53 otrzymujà brzmienie: „Art. 50. 1. Na zakwaterowanie tymczasowe sà przeznaczone:
+- **34)** uchyla się art. 48;
+- **35)** po art. 48 dodaje się art. 48a w brzmieniu: ŃArt. 48a. W razie samowolnego zajęcia lokalu mieszkalnego przedstawiciel Agencji, w asyście ˚andarmerii Wojskowej lub Policji, dokonuje wykwaterowania osób, które zajęły lokal mieszkalny, na ich koszt, bez obowiązku dostarczenia innego lokalu.”;
+- **36)** uchyla się art. 49;
+- **37)** art. 50—53 otrzymują brzmienie: ŃArt. 50. 1. Na zakwaterowanie tymczasowe są przeznaczone:
 - **1)** internaty i kwatery internatowe,
-- **2)** kwatery zast´pcze.
+- **2)** kwatery zastępcze.
 
-2. W szczególnie uzasadnionych przypadkach lokale mieszkalne o niskim standardzie technicznym iu˝ytkowym mogà byç przydzielane jako kwatery zast´pcze, równie˝ wrazie przekroczenia normy, o której mowa w art. 1a pkt 7.
+2. W szczególnie uzasadnionych przypadkach lokale mieszkalne o niskim standardzie technicznym iużytkowym mogą być przydzielane jako kwatery zastępcze, również wrazie przekroczenia normy, o której mowa w art. 1a pkt 7.
 
 **Art. 51.**
 
-1. Zakwaterowanie tymczasowe w interskowej, nacie lub kwaterze internatowej, bez cz∏onków rodziny, przys∏uguje:
+1. Zakwaterowanie tymczasowe w interskowej, nacie lub kwaterze internatowej, bez członków rodziny, przysługuje:
 
-- **1)** ˝o∏nierzowi s∏u˝by sta∏ej,
-- **2)** ˝o∏nierzowi zawodowemu pe∏niàcemu zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by terminowej,
-- **3)** ˝o∏nierzowi odbywajàcemu okresowà s∏u˝b´ wojskowà,
-- **4)** pracownikowi zatrudnionemu w jednostce organizacyjnej podleg∏ej lub nadzorowanej przez Ministra Obrony Narodowej zamieszka∏emu w miejscowoÊci innej ni˝ miejscowoÊç, w której jest zatrudniony i nieb´dàcej miejscowoÊcià pobliskà, pod warunkiem zabezpieczenia potrzeb ˝o∏nierzy, o których mowa w pkt 1—3.
+- **1)** żołnierzowi służby stałej,
+- **2)** żołnierzowi zawodowemu pełniącemu zawodową służbę wojskową na podstawie kontraktu na pełnienie służby terminowej,
+- **3)** żołnierzowi odbywającemu okresową służbę wojskową,
+- **4)** pracownikowi zatrudnionemu w jednostce organizacyjnej podległej lub nadzorowanej przez Ministra Obrony Narodowej zamieszkałemu w miejscowości innej niż miejscowość, w której jest zatrudniony i niebędącej miejscowością pobliską, pod warunkiem zabezpieczenia potrzeb żołnierzy, o których mowa w pkt 1—3.
 
-2. Uprawnienie, októrym mowa wust. 1, nie przys∏uguje, je˝eli osoba, o której mowa w ust. 1, lub jej ma∏˝onek zamieszkuje w lokalu mieszkalnym w miejscowoÊci, w której ˝o∏nierz zajmuje stanowisko s∏u˝bowe albo pracownik jest zatrudniony, lub w miejscowoÊci pobliskiej.
+2. Uprawnienie, októrym mowa wust. 1, nie przysługuje, jeżeli osoba, o której mowa w ust. 1, lub jej małżonek zamieszkuje w lokalu mieszkalnym w miejscowości, w której żołnierz zajmuje stanowisko służbowe albo pracownik jest zatrudniony, lub w miejscowości pobliskiej.
 
-3. Uprawnienie, októrym mowa wust. 1, nie przys∏uguje, je˝eli ˝o∏nierzowi, o którym mowa w ust. 1 pkt 1—3, zapewniono zakwaterowanie we wspólnej kwaterze sta∏ej.
+3. Uprawnienie, októrym mowa wust. 1, nie przysługuje, jeżeli żołnierzowi, o którym mowa w ust. 1 pkt 1—3, zapewniono zakwaterowanie we wspólnej kwaterze stałej.
 
-4. Uprawnienie do zakwaterowania w internacie lub kwaterze internatowej przys∏uguje przez czas pe∏nienia czynnej s∏u˝by wojskowej w miejscowoÊci, w której ˝o∏nierz zajmuje stanowisko s∏u˝bowe albo pracownik jest zatrudniony, nie d∏u˝ej jednak ni˝ do trzydziestu dni od dnia dor´czenia decyzji o prawie zamieszkiwania w lokalu mieszkalnym lub zwolnienia ze stanowiska w tej miejscowoÊci. Przepisy art. 42 i 45 stosuje si´ odpowiednio.
+4. Uprawnienie do zakwaterowania w internacie lub kwaterze internatowej przysługuje przez czas pełnienia czynnej służby wojskowej w miejscowości, w której żołnierz zajmuje stanowisko służbowe albo pracownik jest zatrudniony, nie dłużej jednak niż do trzydziestu dni od dnia doręczenia decyzji o prawie zamieszkiwania w lokalu mieszkalnym lub zwolnienia ze stanowiska w tej miejscowości. Przepisy art. 42 i 45 stosuje się odpowiednio.
 
-5. Dyrektor oddzia∏u regionalnego Agencji mo˝e zakwaterowaç w internacie lub kwaterze internatowej dziecko ˝o∏nierza lub pracownika, októrym mowa w ust. 1, pobierajàce nauk´ poza miejscowoÊcià zamieszkania, nieb´dàcà miejscowoÊcià pobliskà, pod warunkiem zabezpieczenia potrzeb ˝o∏nierzy, o których mowa w ust. 1 pkt 1—3.
+5. Dyrektor oddziału regionalnego Agencji może zakwaterować w internacie lub kwaterze internatowej dziecko żołnierza lub pracownika, októrym mowa w ust. 1, pobierające naukę poza miejscowością zamieszkania, niebędącą miejscowością pobliską, pod warunkiem zabezpieczenia potrzeb żołnierzy, o których mowa w ust. 1 pkt 1—3.
 
 **Art. 52.**
 
-1. ˚o∏nierza s∏u˝by sta∏ej uprawnionego do zakwaterowania w internacie lub kwaterze internatowej dyrektor oddzia∏u regionalnego Agencji mo˝e, w miar´ posiadanych mo˝liwoÊci, na wniosek dowódcy jednostki wojskowej, tymczasowo zakwaterowaç, wraz z cz∏onkami rodziny, o których mowa w art. 26 ust. 2, w kwaterze zast´pczej lub kwaterze internatowej.
+1. ˚ołnierza służby stałej uprawnionego do zakwaterowania w internacie lub kwaterze internatowej dyrektor oddziału regionalnego Agencji może, w miarę posiadanych możliwości, na wniosek dowódcy jednostki wojskowej, tymczasowo zakwaterować, wraz z członkami rodziny, o których mowa w art. 26 ust. 2, w kwaterze zastępczej lub kwaterze internatowej.
 
-2. Dyrektor oddzia∏u regionalnego Agencji mo˝e, w miar´ posiadanych mo˝liwoÊci, zakwaterowaç ˝o∏nierza zawodowego pe∏niàcego zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by terminowej, posiadajàcego ma∏˝onka oraz dzieci, w internacie albo wkwaterze internatowej lub zast´pczej, wraz z tymi osobami.
+2. Dyrektor oddziału regionalnego Agencji może, w miarę posiadanych możliwości, zakwaterować żołnierza zawodowego pełniącego zawodową służbę wojskową na podstawie kontraktu na pełnienie służby terminowej, posiadającego małżonka oraz dzieci, w internacie albo wkwaterze internatowej lub zastępczej, wraz z tymi osobami.
 
 **Art. 53.**
 
-1. Zakwaterowanie w kwaterach zast´pczych jest odp∏atne na zasadach okreÊlonych w art. 36.
+1. Zakwaterowanie w kwaterach zastępczych jest odpłatne na zasadach określonych w art. 36.
 
-2. Zakwaterowanie w kwaterach internaokreÊlonych w art. 36, z tym ˝e op∏aty za u˝ywanie lokalu i op∏aty poÊrednie dzieli si´ proporcjonalnie na iloÊç osób zamieszkujàcych w tej kwaterze.
+2. Zakwaterowanie w kwaterach internaokreślonych w art. 36, z tym że opłaty za używanie lokalu i opłaty pośrednie dzieli się proporcjonalnie na ilość osób zamieszkujących w tej kwaterze.
 
-3. Do zakwaterowania ˝o∏nierzy, o których mowa w art. 51 ust. 1 pkt 1—3, w internacie stosuje si´ nast´pujàce zasady:
+3. Do zakwaterowania żołnierzy, o których mowa w art. 51 ust. 1 pkt 1—3, w internacie stosuje się następujące zasady:
 
-- **1)** ˝o∏nierzowi przys∏uguje od 5 do 10 m towych jest odp∏atne na zasadach powierzchni u˝ytkowej podstawowej,
-- **2)** op∏at´ za korzystanie z internatu wnosi si´ za zajmowanà powierzchni´ u˝ytkowà, w wysokoÊci okreÊlonej na podstawie sporzàdzonej kalkulacji kosztów utrzymania 1 m powierzchni u˝ytkowej, z uwzgl´dnieniem procentu wykorzystania miejsc internatowych za rok ubieg∏y, z zastrze˝eniem pkt 3,
-- **3)** w kosztach utrzymania 1 m powierzchni u˝ytkowej nie uwzgl´dnia si´ kosztów dostaw energii cieplnej, elektrycznej, gazu, wody oraz odbioru nieczystoÊci sta∏ych i p∏ynnych, które pokrywa si´ zdotacji bud˝etowej, o której mowa w art. 19 ust. 4.
+- **1)** żołnierzowi przysługuje od 5 do 10 m towych jest odpłatne na zasadach powierzchni użytkowej podstawowej,
+- **2)** opłatę za korzystanie z internatu wnosi się za zajmowaną powierzchnię użytkową, w wysokości określonej na podstawie sporządzonej kalkulacji kosztów utrzymania 1 m powierzchni użytkowej, z uwzględnieniem procentu wykorzystania miejsc internatowych za rok ubiegły, z zastrzeżeniem pkt 3,
+- **3)** w kosztach utrzymania 1 m powierzchni użytkowej nie uwzględnia się kosztów dostaw energii cieplnej, elektrycznej, gazu, wody oraz odbioru nieczystości stałych i płynnych, które pokrywa się zdotacji budżetowej, o której mowa w art. 19 ust. 4.
 
-4. Na wniosek ˝o∏nierza, o którym mowa w art. 51 ust. 1 pkt 1—3, mo˝na mu przydzieliç miejsce w internacie owi´kszej powierzchni u˝ytkowej podstawowej ni˝ powierzchnia maksymalna, októrej mowa wust. 3 pkt 1. Za powierzchni´ u˝ytkowà podstawowà wi´kszà ni˝ 10 m ˝o∏nierz wnosi op∏at´ w pe∏nej wysokoÊci. Op∏at´ wylicza si´ jako iloczyn powierzchni u˝ytkowej podstawowej faktycznie zajmowanej ponad 10 m , wskaênika 1,66 oraz kosztów utrzymania 1 m powierzchni u˝ytkowej bez ulg.
+4. Na wniosek żołnierza, o którym mowa w art. 51 ust. 1 pkt 1—3, można mu przydzielić miejsce w internacie owiększej powierzchni użytkowej podstawowej niż powierzchnia maksymalna, októrej mowa wust. 3 pkt 1. Za powierzchnię użytkową podstawową większą niż 10 m żołnierz wnosi opłatę w pełnej wysokości. Opłatę wylicza się jako iloczyn powierzchni użytkowej podstawowej faktycznie zajmowanej ponad 10 m , wskaênika 1,66 oraz kosztów utrzymania 1 m powierzchni użytkowej bez ulg.
 
-5. Inne osoby ni˝ ˝o∏nierze, októrych mowa wart. 51 ust. 1 pkt 1—3, zakwaterowane w internacie sà zobowiàzane uiszczaç op∏aty za korzystanie z internatu w pe∏nej wysokoÊci za zajmowanà powierzchni´ u˝ytkowà.
+5. Inne osoby niż żołnierze, októrych mowa wart. 51 ust. 1 pkt 1—3, zakwaterowane w internacie są zobowiązane uiszczać opłaty za korzystanie z internatu w pełnej wysokości za zajmowaną powierzchnię użytkową.
 
-6. Je˝eli Agencja nie dysponuje wolnymi miejscami winternacie lub nie posiada internatu wmiejscowoÊci, wktórej ˝o∏nierz, o którym mowa w art. 51 ust. 1 pkt 1—3, zajmuje stanowisko s∏u˝bowe lub w miejscowoÊci pobliskiej, do ˝o∏nierzy zajmujàcych kwatery internatowe stosuje si´ ust. 3.
+6. Jeżeli Agencja nie dysponuje wolnymi miejscami winternacie lub nie posiada internatu wmiejscowości, wktórej żołnierz, o którym mowa w art. 51 ust. 1 pkt 1—3, zajmuje stanowisko służbowe lub w miejscowości pobliskiej, do żołnierzy zajmujących kwatery internatowe stosuje się ust. 3.
 
-7. Do osób zakwaterowanych w kwaterach zast´pczych i kwaterach internatowych stosuje si´ odpowiednio przepis art. 37 ust. 2.
+7. Do osób zakwaterowanych w kwaterach zastępczych i kwaterach internatowych stosuje się odpowiednio przepis art. 37 ust. 2.
 
-8. Agencja mo˝e Êwiadczyç odp∏atnie us∏ugi dodatkowe na rzecz osób zakwaterowanych winternacie, aw szczególnoÊci wypo˝yczaç i praç poÊciel oraz sprzàtaç.
+8. Agencja może świadczyć odpłatnie usługi dodatkowe na rzecz osób zakwaterowanych winternacie, aw szczególności wypożyczać i prać pościel oraz sprzątać.
 
-9. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki zakwaterowania tymczasowego, sposób ustalania ipobierania op∏at za to zakwaterowanie, a tak˝e warunki i sposób przeznaczenia lokali mieszkalnych na zakwaterowanie tymczasowe.
+9. Minister Obrony Narodowej określi, w drodze rozporządzenia, szczegółowe warunki zakwaterowania tymczasowego, sposób ustalania ipobierania opłat za to zakwaterowanie, a także warunki i sposób przeznaczenia lokali mieszkalnych na zakwaterowanie tymczasowe.
 
-10. Rozporzàdzenie, o którym mowa w ust. 9, w szczególnoÊci powinno uwzgl´dniaç sposób kalkulacji odp∏atnoÊci za zakwaterowanie tymczasowe w internacie, terminy i sposób pobierania op∏at, wyposa˝enie kwater internatowych i internatów, tryb i sposób przyjmowania i zdawania kwatery zast´pczej, kwatery internatowej ipokoju w internacie.”;
+10. Rozporządzenie, o którym mowa w ust. 9, w szczególności powinno uwzględniać sposób kalkulacji odpłatności za zakwaterowanie tymczasowe w internacie, terminy i sposób pobierania opłat, wyposażenie kwater internatowych i internatów, tryb i sposób przyjmowania i zdawania kwatery zastępczej, kwatery internatowej ipokoju w internacie.”;
 
-- **38)** tytu∏ rozdzia∏u 6 otrzymuje brzmienie: „Sprzeda˝ lokali mieszkalnych”;
-- **39)** art. 55—58 otrzymujà brzmienie: „Art. 55. 1. Lokale mieszkalne, w stosunku do których Agencja wykonuje w imieniu Skarbu Paƒstwa prawo w∏asnoÊci lub inne prawa rzeczowe, mogà byç zbywane pod rygorem niewa˝noÊci, wy∏àcznie na zasadach okreÊlonych w niniejszej ustawie, z zastrze˝eniem ust. 2.
+- **38)** tytuł rozdziału 6 otrzymuje brzmienie: ŃSprzedaż lokali mieszkalnych”;
+- **39)** art. 55—58 otrzymują brzmienie: ŃArt. 55. 1. Lokale mieszkalne, w stosunku do których Agencja wykonuje w imieniu Skarbu Państwa prawo własności lub inne prawa rzeczowe, mogą być zbywane pod rygorem nieważności, wyłącznie na zasadach określonych w niniejszej ustawie, z zastrzeżeniem ust. 2.
 
-2. Nie mogà byç zbywane lokale mieszkalne:
+2. Nie mogą być zbywane lokale mieszkalne:
 
-- **1)** znajdujàce si´ w budynkach oddanych do u˝ytku po dniu 31 grudnia 2003 r., z zastrze˝eniem ust. 3,
-- **2)** stanowiàce kwatery,
-- **3)** stanowiàce kwatery funkcyjne,
-- **4)** stanowiàce kwatery zast´pcze.
+- **1)** znajdujące się w budynkach oddanych do użytku po dniu 31 grudnia 2003 r., z zastrzeżeniem ust. 3,
+- **2)** stanowiące kwatery,
+- **3)** stanowiące kwatery funkcyjne,
+- **4)** stanowiące kwatery zastępcze.
 
-3. W szczególnych przypadkach lokale mieszkalne po∏o˝one wbudynku oddanym do u˝ytku po dniu 31 grudnia 2003 r. mogà byç zbyte po uzyskaniu zgody Ministra Obrony Narodowej.
+3. W szczególnych przypadkach lokale mieszkalne położone wbudynku oddanym do użytku po dniu 31 grudnia 2003 r. mogą być zbyte po uzyskaniu zgody Ministra Obrony Narodowej.
 
-**Art. 56.** Prawo do nabycia lokalu mieszkalnego, innego ni˝ kwatera, kwatera funkcyjna ikwatera zast´pcza, przys∏uguje osobom posiadajàcym tytu∏ prawny do zamieszkiwania w tym lokalu mieszkalnym.
+**Art. 56.** Prawo do nabycia lokalu mieszkalnego, innego niż kwatera, kwatera funkcyjna ikwatera zastępcza, przysługuje osobom posiadającym tytuł prawny do zamieszkiwania w tym lokalu mieszkalnym.
 
 **Art. 57.**
 
-1. Sprzeda˝y lokali mieszkalnych dokonuje w drodze umowy dyrektor oddzia∏u regionalnego Agencji na pisemlokal mieszkalny zamieszczony jest w rocznym planie sprzeda˝y.
+1. Sprzedaży lokali mieszkalnych dokonuje w drodze umowy dyrektor oddziału regionalnego Agencji na pisemlokal mieszkalny zamieszczony jest w rocznym planie sprzedaży.
 
-2. Dyrektor oddzia∏u regionalnego Agencji ustala roczny plan sprzeda˝y lokali mieszkalnych na podstawie wykazu, o którym mowa w art. 23 ust. 4.
+2. Dyrektor oddziału regionalnego Agencji ustala roczny plan sprzedaży lokali mieszkalnych na podstawie wykazu, o którym mowa w art. 23 ust. 4.
 
 **Art. 58.**
 
-1. Sprzeda˝ lokalu mieszkalnego nast´puje na podstawie dokonanej przez rzeczoznawc´ majàtkowego wyceny wartoÊci rynkowej lokalu mieszkalnego iwartoÊci prawa w∏asnoÊci lub prawa u˝ytkowania wieczystego, w przypadku posiadania przez Agencj´ takiego prawa do u∏amkowej cz´Êci gruntu przypadajàcego na ten lokal, z tym ˝e przy wycenie lokalu mieszkalnego nie uwzgl´dnia si´ wartoÊci ulepszeƒ dokonanych przez nabywc´.
+1. Sprzedaż lokalu mieszkalnego następuje na podstawie dokonanej przez rzeczoznawcę majątkowego wyceny wartości rynkowej lokalu mieszkalnego iwartości prawa własności lub prawa użytkowania wieczystego, w przypadku posiadania przez Agencję takiego prawa do ułamkowej części gruntu przypadającego na ten lokal, z tym że przy wycenie lokalu mieszkalnego nie uwzględnia się wartości ulepszeń dokonanych przez nabywcę.
 
-2. Od wartoÊci rynkowej lokalu mieszkalnego dla osoby uprawnionej, o której mowa w art. 56, stosuje si´ pomniejszenia o:
+2. Od wartości rynkowej lokalu mieszkalnego dla osoby uprawnionej, o której mowa w art. 56, stosuje się pomniejszenia o:
 
-- **1)** 95 % ˝o∏nierzom s∏u˝by sta∏ej, którzy nabyli prawo do emerytury wojskowej, ˝o∏nierzom zwolnionym z zawodowej s∏u˝by wojskowej na skutek wypowiedzenia stosunku s∏u˝bowego zawodowej s∏u˝by wojskowej dokonanego przez organ wojskowy lub up∏ywu okresu pozostawania w rezerwie kadrowej, emerytom wojskowym, osobom uprawnionym do wojskowej renty inwalidzkiej oraz cz∏onkom rodziny, o których mowa w art. 26 ust. 2, wspólnie zamieszkujàcym z ˝o∏nierzem, emerytem wojskowym lub rencistà wojskowym w dniu jego Êmierci,
-- **2)** 90 % osobom niewymienionym w pkt 1 ztym ˝e pomniejszenie nie obejmuny wniosek osoby uprawnionej, je˝eli je przypadajàcych na lokal mieszkalny nak∏adów poniesionych przez Agencj´ w ciàgu ostatnich trzech lat przed dniem sprzeda˝y na modernizacj´ budynku, w którym jest po∏o˝ony sprzedawany lokal mieszkalny.
+- **1)** 95 % żołnierzom służby stałej, którzy nabyli prawo do emerytury wojskowej, żołnierzom zwolnionym z zawodowej służby wojskowej na skutek wypowiedzenia stosunku służbowego zawodowej służby wojskowej dokonanego przez organ wojskowy lub upływu okresu pozostawania w rezerwie kadrowej, emerytom wojskowym, osobom uprawnionym do wojskowej renty inwalidzkiej oraz członkom rodziny, o których mowa w art. 26 ust. 2, wspólnie zamieszkującym z żołnierzem, emerytem wojskowym lub rencistą wojskowym w dniu jego śmierci,
+- **2)** 90 % osobom niewymienionym w pkt 1 ztym że pomniejszenie nie obejmuny wniosek osoby uprawnionej, jeżeli je przypadających na lokal mieszkalny nakładów poniesionych przez Agencję w ciągu ostatnich trzech lat przed dniem sprzedaży na modernizację budynku, w którym jest położony sprzedawany lokal mieszkalny.
 
-3. Pomniejszeƒ, októrych mowa wust. 2, nie stosuje si´ do sprzeda˝y prawa w∏asnoÊci lub u˝ytkowania wieczystego, w przypadku posiadania przez Agencj´ takiego prawa, u∏amkowej cz´Êci gruntu przypadajàcej na sprzedawany lokal mieszkalny.
+3. Pomniejszeń, októrych mowa wust. 2, nie stosuje się do sprzedaży prawa własności lub użytkowania wieczystego, w przypadku posiadania przez Agencję takiego prawa, ułamkowej części gruntu przypadającej na sprzedawany lokal mieszkalny.
 
-4. Do sprzeda˝y lokali mieszkalnych nie stosuje si´ pomniejszeƒ okreÊlonych wprzepisach ustawy zdnia 21 sierpnia 1997 r. o gospodarce nieruchomoÊciami i ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach b´dàcych ofiarami represji wojennych i okresu powojennego (Dz. U. z 2002 r. 42, poz. 371 i 181, poz. 1515 oraz z 2003 r. 72, poz. 658).
+4. Do sprzedaży lokali mieszkalnych nie stosuje się pomniejszeń określonych wprzepisach ustawy zdnia 21 sierpnia 1997 r. o gospodarce nieruchomościami i ustawy z dnia 24 stycznia 1991 r. o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego (Dz. U. z 2002 r. 42, poz. 371 i 181, poz. 1515 oraz z 2003 r. 72, poz. 658).
 
-5. Na wniosek nabywcy lokalu mieszkalnego nale˝noÊç ztytu∏u sprzeda˝y mo˝e byç roz∏o˝ona na raty. Pierwszà rat´ w wysokoÊci 10 % nale˝noÊci wnosi si´ przed zawarciem umowy notarialnej, pozosta∏e raty mo˝na roz∏o˝yç na okres do pi´ciu lat, oprocentowane wwysokoÊci 5 % wstosunku rocznym od kwoty pozosta∏ej do sp∏aty. WierzytelnoÊç Agencji wstosunku do nabywcy z tego tytu∏u podlega zabezpieczeniu, w tym w szczególnoÊci zabezpieczeniu hipotecznemu na sprzedawanym lokalu mieszkalnym.
+5. Na wniosek nabywcy lokalu mieszkalnego należność ztytułu sprzedaży może być rozłożona na raty. Pierwszą ratę w wysokości 10 % należności wnosi się przed zawarciem umowy notarialnej, pozostałe raty można rozłożyć na okres do pięciu lat, oprocentowane wwysokości 5 % wstosunku rocznym od kwoty pozostałej do spłaty. Wierzytelność Agencji wstosunku do nabywcy z tego tytułu podlega zabezpieczeniu, w tym w szczególności zabezpieczeniu hipotecznemu na sprzedawanym lokalu mieszkalnym.
 
-6. Osoba uprawniona, o której mowa wart. 56, wraz zwnioskiem osprzeda˝ lokalu wnosi zrycza∏towane koszty przygotowania nieruchomoÊci do sprzeda˝y przypadajàce na zbywany lokal mieszkalny. Zrycza∏towane koszty oblicza si´ na podstawie Êrednich kosztów poniesionych wAgencji za rok ubieg∏y na ten cel.
+6. Osoba uprawniona, o której mowa wart. 56, wraz zwnioskiem osprzedaż lokalu wnosi zryczałtowane koszty przygotowania nieruchomości do sprzedaży przypadające na zbywany lokal mieszkalny. Zryczałtowane koszty oblicza się na podstawie średnich kosztów poniesionych wAgencji za rok ubiegły na ten cel.
 
-7. Koszty zwiàzane z zawarciem aktu notarialnego ponosi nabywca lokalu mieszkalnego.
+7. Koszty związane z zawarciem aktu notarialnego ponosi nabywca lokalu mieszkalnego.
 
-8. Minister Obrony Narodowej, w porozumieniu z ministrem w∏aÊciwym do spraw Skarbu Paƒstwa, okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki i tryb sprzeda˝y lokali mieszkalnych, terminy wnoszenia rat z tytu∏u sprzeda˝y tych lokali oraz wzór wniosku o nabycie lokalu mieszkalnego.
+8. Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw Skarbu Państwa, określi, w drodze rozporządzenia, szczegółowe warunki i tryb sprzedaży lokali mieszkalnych, terminy wnoszenia rat z tytułu sprzedaży tych lokali oraz wzór wniosku o nabycie lokalu mieszkalnego.
 
-9. W rozporzàdzeniu, o którym mowa w ust. 8, nale˝y uwzgl´dniç sposób sp∏aty nale˝noÊci w przypadku sprzeda˝y lokalu mieszkalnego obcià˝onego hipotekà, a w odniesieniu do wniosku o nabycie lokalu mieszkalnego aby zawiera∏ jedynie informacje niezb´dne do dokonania jego sprzeda˝y.”;
+9. W rozporządzeniu, o którym mowa w ust. 8, należy uwzględnić sposób spłaty należności w przypadku sprzedaży lokalu mieszkalnego obciążonego hipoteką, a w odniesieniu do wniosku o nabycie lokalu mieszkalnego aby zawierał jedynie informacje niezbędne do dokonania jego sprzedaży.”;
 
-- **40)** uchyla si´ art. 59;
-- **41)** art. 60 otrzymuje brzmienie: „Art. 60. Dyrektor oddzia∏u regionalnego Agencji mo˝e przekazaç wspólnocie mieszkaniowej, w drodze umowy, nieodp∏atnie, na jej w∏asnoÊç urzàdzenia oraz pomieszczenia lub budynki wchodzàce wsk∏ad infrastruktury technicznej zwiàzanej z budynkami mieszkalnymi, a tak˝e grunt niezb´dny do w∏aÊciwego ich funkcjonowa42) po art. 60 dodaje si´ art. 60a w brzmieniu: „Art. 60a. Art. 56—58 stosuje si´ odpowiednio do sprzeda˝y w∏asnoÊciowego spó∏dzielczego prawa do lokalu mieszkalnego.”;
-- **43)** po art. 61 dodaje si´ art. 61a w brzmieniu: „Art. 61a. W sprawach dotyczàcych sprzeda˝y lokali mieszkalnych, nieuregulowanych w niniejszej ustawie, stosuje si´ odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomoÊciami, ustawy zdnia 24 czerwca 1994 r. ow∏asnoÊci lokali iustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 16, poz. 93, z póên. zm. nia.”; ).”;
+- **40)** uchyla się art. 59;
+- **41)** art. 60 otrzymuje brzmienie: ŃArt. 60. Dyrektor oddziału regionalnego Agencji może przekazać wspólnocie mieszkaniowej, w drodze umowy, nieodpłatnie, na jej własność urządzenia oraz pomieszczenia lub budynki wchodzące wskład infrastruktury technicznej związanej z budynkami mieszkalnymi, a także grunt niezbędny do właściwego ich funkcjonowa42) po art. 60 dodaje się art. 60a w brzmieniu: ŃArt. 60a. Art. 56—58 stosuje się odpowiednio do sprzedaży własnościowego spółdzielczego prawa do lokalu mieszkalnego.”;
+- **43)** po art. 61 dodaje się art. 61a w brzmieniu: ŃArt. 61a. W sprawach dotyczących sprzedaży lokali mieszkalnych, nieuregulowanych w niniejszej ustawie, stosuje się odpowiednio przepisy ustawy z dnia 21 sierpnia 1997 r. o gospodarce nieruchomościami, ustawy zdnia 24 czerwca 1994 r. owłasności lokali iustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 16, poz. 93, z póên. zm. nia.”; ).”;
 - **44)** w art. 83:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia:
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
-- **1)** sposób i szczegó∏owe warunki:
-    - **a)** gospodarowania lokalami mieszkalnymi przez Agencj´,
-    - **b)** wydawania decyzji o prawie zamieszkiwania wlokalach mieszkalnych, kwaterach zast´pczych, kwaterach internatowych i internatach oraz ich zwalniania,
-    - **c)** wykonywania przeglàdów technicznych, konserwacji i remontów lokali mieszkalnych,
-    - **d)** napraw lokali mieszkalnych wzakresie obcià˝ajàcym Agencj´,
+- **1)** sposób i szczegółowe warunki:
+    - **a)** gospodarowania lokalami mieszkalnymi przez Agencję,
+    - **b)** wydawania decyzji o prawie zamieszkiwania wlokalach mieszkalnych, kwaterach zastępczych, kwaterach internatowych i internatach oraz ich zwalniania,
+    - **c)** wykonywania przeglądów technicznych, konserwacji i remontów lokali mieszkalnych,
+    - **d)** napraw lokali mieszkalnych wzakresie obciążającym Agencję,
 
-- **2)** szczegó∏owy tryb post´powania w sprawach przymusowego przekwaterowania lub wykwaterowania osób zamieszkujàcych w lokalach mieszkalnych oraz ustalania kosztów tych czynnoÊci,
-- **3)** wzory dokumentów stanowiàcych podstaw´ do zamieszkiwania wlokalu mieszkalnym, kwaterze zast´pczej, kwaterze internatowej lub internacie oraz ich zwalniania i rozliczania.”, ———————
-    - **b)** po ust. 1 dodaje si´ ust. 1a w brzmieniu: „1a. W rozporzàdzeniu, o którym mowa w ust. 1, nale˝y w szczególnoÊci okreÊliç:
+- **2)** szczegółowy tryb postępowania w sprawach przymusowego przekwaterowania lub wykwaterowania osób zamieszkujących w lokalach mieszkalnych oraz ustalania kosztów tych czynności,
+- **3)** wzory dokumentów stanowiących podstawę do zamieszkiwania wlokalu mieszkalnym, kwaterze zastępczej, kwaterze internatowej lub internacie oraz ich zwalniania i rozliczania.”, ———————
+    - **b)** po ust. 1 dodaje się ust. 1a w brzmieniu: Ń1a. W rozporządzeniu, o którym mowa w ust. 1, należy w szczególności określić:
 
-- **1)** zasób mieszkaniowy b´dàcy w dyspozycji Agencji, zuwzgl´dnieniem tytu∏ów w∏asnoÊci i sposobu gospodarowania nim,
-- **2)** mo˝liwie uproszczone wzory dokumentów, o których mowa w ust. 1 pkt 3,
-- **3)** terminy obowiàzujàcych Agencj´ przeglàdów technicznych, konserwacji i remontów lokali mieszkalnych oraz pomieszczeƒ przeznaczonych do wspólnego u˝ytku, z uwzgl´dnieniem instalacji i urzàdzeƒ stanowiàcych ich wyposa˝enie.”;
-- **45)** art. 84a otrzymuje brzmienie: „Art. 84a. 1. Zadania Agencji w stosunku do:
-- **1)** ˝o∏nierzy s∏u˝by sta∏ej, którzy w dniu 31 grudnia 2001 r. pe∏nili zawodowà s∏u˝b´ wojskowà w jednostkach organizacyjnych podleg∏ych lub nadzorowanych przez ministra w∏aÊciwego do spraw wewn´trznych albo pozostawali w dyspozycji tego ministra,
-- **2)** emerytów wojskowych irencistów wojskowych, którzy zostali zwolnieni z zawodowej s∏u˝by wojskowej z jednostek organizacyjnych podleg∏ych lub nadzorowanych przez ministra w∏aÊciwego do spraw wewn´trznych,
-- **3)** cz∏onków rodziny osób, o których mowa w pkt 1 i 2 oraz wymienionych w art. 26 ust. 2, wspólnie zamieszkujàcych z ˝o∏nierzem s∏u˝by sta∏ej, emerytem wojskowym lub rencistà wojskowym w dniu jego Êmierci,
-- **4)** osób innych ni˝ wymienione w pkt 1 i 2, które zajmujà lokal mieszkalny w zasobie ministra w∏aÊciwego do spraw wewn´trznych, na podstawie decyzji o przydziale lub umowy najmu na czas nieoznaczony wykonuje paƒstwowa jednostka bud˝etowa Zarzàd Zasobów Mieszkaniowych Ministerstwa Spraw Wewn´trznych i Administracji.
+- **1)** zasób mieszkaniowy będący w dyspozycji Agencji, zuwzględnieniem tytułów własności i sposobu gospodarowania nim,
+- **2)** możliwie uproszczone wzory dokumentów, o których mowa w ust. 1 pkt 3,
+- **3)** terminy obowiązujących Agencję przeglądów technicznych, konserwacji i remontów lokali mieszkalnych oraz pomieszczeń przeznaczonych do wspólnego użytku, z uwzględnieniem instalacji i urządzeń stanowiących ich wyposażenie.”;
+- **45)** art. 84a otrzymuje brzmienie: ŃArt. 84a. 1. Zadania Agencji w stosunku do:
+- **1)** żołnierzy służby stałej, którzy w dniu 31 grudnia 2001 r. pełnili zawodową służbę wojskową w jednostkach organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych albo pozostawali w dyspozycji tego ministra,
+- **2)** emerytów wojskowych irencistów wojskowych, którzy zostali zwolnieni z zawodowej służby wojskowej z jednostek organizacyjnych podległych lub nadzorowanych przez ministra właściwego do spraw wewnętrznych,
+- **3)** członków rodziny osób, o których mowa w pkt 1 i 2 oraz wymienionych w art. 26 ust. 2, wspólnie zamieszkujących z żołnierzem służby stałej, emerytem wojskowym lub rencistą wojskowym w dniu jego śmierci,
+- **4)** osób innych niż wymienione w pkt 1 i 2, które zajmują lokal mieszkalny w zasobie ministra właściwego do spraw wewnętrznych, na podstawie decyzji o przydziale lub umowy najmu na czas nieoznaczony wykonuje państwowa jednostka budżetowa Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji.
 
-2. W zakresie gospodarowania nieruchomoÊciami uprawnienia przewidziane dla dyrektorów oddzia∏ów regionalnych Agencji w art. 14 ust. 2a przys∏ugujà odpowiednio Dyrektorowi Zarzàdu Zasobów Mieszkaniowych Ministerstwa Spraw Wewn´trz3. Lokale mieszkalne b´dàce w trwa∏ym zarzàdzie Zarzàdu Zasobów Mieszkaniowych Ministerstwa Spraw Wewn´trznych i Administracji, po uprawomocnieniu si´ decyzji w∏aÊciwego organu o wygaÊni´ciu trwa∏ego zarzàdu, wimieniu Skarbu Paƒstwa ina zasadach okreÊlonych w rozdziale 6, mogà byç zbywane przez ten Zarzàd na rzecz osób, o których mowa w ust. 1, oraz funkcjonariuszy Stra˝y Granicznej, o których mowa w art. 154 ust. 5 ustawy z dnia 12 paêdziernika 1990 r. o Stra˝y Granicznej (Dz. U. z 2002 r. 171, poz.1399, zpóên. zm. nych i Administracji. ), ifunkcjonariuszy Biura Ochrony Rzàdu, o których mowa w art. 143 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rzàdu (Dz. U. 27, poz. 298, zpóên. zm. ), posiadajàcych decyzj´ oprzydziale lub umow´ najmu lokalu mieszkalnego na czas nieoznaczony.
+2. W zakresie gospodarowania nieruchomościami uprawnienia przewidziane dla dyrektorów oddziałów regionalnych Agencji w art. 14 ust. 2a przysługują odpowiednio Dyrektorowi Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrz3. Lokale mieszkalne będące w trwałym zarządzie Zarządu Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji, po uprawomocnieniu się decyzji właściwego organu o wygaśnięciu trwałego zarządu, wimieniu Skarbu Państwa ina zasadach określonych w rozdziale 6, mogą być zbywane przez ten Zarząd na rzecz osób, o których mowa w ust. 1, oraz funkcjonariuszy Straży Granicznej, o których mowa w art. 154 ust. 5 ustawy z dnia 12 paêdziernika 1990 r. o Straży Granicznej (Dz. U. z 2002 r. 171, poz.1399, zpóên. zm. nych i Administracji. ), ifunkcjonariuszy Biura Ochrony Rządu, o których mowa w art. 143 ustawy z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. 27, poz. 298, zpóên. zm. ), posiadających decyzję oprzydziale lub umowę najmu lokalu mieszkalnego na czas nieoznaczony.
 
-4. Uprawnienia przewidziane dla Ministra Obrony Narodowej w art. 32a ust. 8 i 9, art. 36 ust. 5, art. 54 ust. 2, art. 58 ust. 8 i 9 oraz art. 83 ust. 1 i 1a przys∏ugujà odpowiednio ministrowi w∏aÊciwemu do spraw wewn´trznych.”;
+4. Uprawnienia przewidziane dla Ministra Obrony Narodowej w art. 32a ust. 8 i 9, art. 36 ust. 5, art. 54 ust. 2, art. 58 ust. 8 i 9 oraz art. 83 ust. 1 i 1a przysługują odpowiednio ministrowi właściwemu do spraw wewnętrznych.”;
 
-- **46)** uchyla si´ art. 85;
-- **47)** art. 86 i 87 otrzymujà brzmienie: „Art. 86. 1. Je˝eli jednostka samorzàdu terytorialnego lub Skarb Paƒstwa dokonuje sprzeda˝y lokalu mieszkalnego zajmowanego przez emeryta wojskowego lub rencist´ wojskowego zwolnionego z zawodowej s∏u˝by wojskowej z jednostki organizacyjnej podleg∏ej lub nadzorowanej przez ministra w∏aÊciwego do spraw wewn´trznych lub cz∏onków jego rodziny uprawnionych do wojskowej renty rodzinnej, udziela tym osobom ulgi lub obni˝ki w cenie nabycia w wysokoÊci nie ni˝szej ni˝ okreÊlona w art. 58 ust. 1—5.
+- **46)** uchyla się art. 85;
+- **47)** art. 86 i 87 otrzymują brzmienie: ŃArt. 86. 1. Jeżeli jednostka samorządu terytorialnego lub Skarb Państwa dokonuje sprzedaży lokalu mieszkalnego zajmowanego przez emeryta wojskowego lub rencistę wojskowego zwolnionego z zawodowej służby wojskowej z jednostki organizacyjnej podległej lub nadzorowanej przez ministra właściwego do spraw wewnętrznych lub członków jego rodziny uprawnionych do wojskowej renty rodzinnej, udziela tym osobom ulgi lub obniżki w cenie nabycia w wysokości nie niższej niż określona w art. 58 ust. 1—5.
 
-2. Je˝eli ulgi lub obni˝ki w cenie nabycia lokalu mieszkalnego, o którym mowa w ust. 1, stosowane przez jednostk´ samorzàdu terytorialnego w innych transakcjach sà ni˝sze od pomniejszenia okreÊlonego w art. 58 ust. 1—5, na ——————— wniosek jednostki samorzàdu terytorialnego, Zarzàd Zasobów Mieszkaniowych Ministerstwa Spraw Wewn´trznych i Administracji przekazuje tej jednostce ró˝nic´ mi´dzy stosowanà przez sprzedajàcego cenà nabycia lokalu mieszkalnego z przypadajàcym udzia∏em u∏amkowym w gruncie a wartoÊcià lokalu mieszkalnego z przypadajàcym udzia∏em u∏amkowym w gruncie, obliczonà zgodnie z art. 58 ust. 1—5.
+2. Jeżeli ulgi lub obniżki w cenie nabycia lokalu mieszkalnego, o którym mowa w ust. 1, stosowane przez jednostkę samorządu terytorialnego w innych transakcjach są niższe od pomniejszenia określonego w art. 58 ust. 1—5, na ——————— wniosek jednostki samorządu terytorialnego, Zarząd Zasobów Mieszkaniowych Ministerstwa Spraw Wewnętrznych i Administracji przekazuje tej jednostce różnicę między stosowaną przez sprzedającego ceną nabycia lokalu mieszkalnego z przypadającym udziałem ułamkowym w gruncie a wartością lokalu mieszkalnego z przypadającym udziałem ułamkowym w gruncie, obliczoną zgodnie z art. 58 ust. 1—5.
 
-3. Przepisu ust. 2 nie stosuje si´ do lokali mieszkalnych nieodp∏atnie przekazanych jednostce samorzàdu terytorialnego z zasobu nieruchomoÊci Skarbu Paƒstwa.
+3. Przepisu ust. 2 nie stosuje się do lokali mieszkalnych nieodpłatnie przekazanych jednostce samorządu terytorialnego z zasobu nieruchomości Skarbu Państwa.
 
 **Art. 87.**
 
-1. Odprawa mieszkaniowa nie przys∏uguje osobom, które:
+1. Odprawa mieszkaniowa nie przysługuje osobom, które:
 
-- **1)** otrzyma∏y ekwiwalent pieni´˝ny w zamian za rezygnacj´ z osobnej kwatery sta∏ej wyp∏acony na podstawie przepisów obowiàzujàcych do dnia 30 czerwca 2004 r.,
-- **2)** naby∏y mieszkania od Skarbu Paƒstwa, Agencji lub jednostki samorzàdu terytorialnego, z bonifikatà lub z uwzgl´dnieniem pomniejszenia w cenie nabycia,
-- **3)** otrzyma∏y pomoc finansowà wyp∏aconà w formie zaliczkowej lub bezzwrotnej do dnia 31 grudnia 1995 r.,
-- **4)** naby∏y od Agencji w∏asnoÊciowe spó∏dzielcze prawo do lokalu mieszkalnego.
+- **1)** otrzymały ekwiwalent pieniężny w zamian za rezygnację z osobnej kwatery stałej wypłacony na podstawie przepisów obowiązujących do dnia 30 czerwca 2004 r.,
+- **2)** nabyły mieszkania od Skarbu Państwa, Agencji lub jednostki samorządu terytorialnego, z bonifikatą lub z uwzględnieniem pomniejszenia w cenie nabycia,
+- **3)** otrzymały pomoc finansową wypłaconą w formie zaliczkowej lub bezzwrotnej do dnia 31 grudnia 1995 r.,
+- **4)** nabyły od Agencji własnościowe spółdzielcze prawo do lokalu mieszkalnego.
 
-2. Osobie, która otrzyma∏a pomoc finansowà na budownictwo mieszkaniowe do dnia 31 grudnia 1995 r. izajmuje lokal spó∏dzielczy o powierzchni u˝ytkowej podstawowej mniejszej od przys∏ugujàcej minimalnej normy, wyp∏aca si´ odpraw´ mieszkaniowà w wysokoÊci odpowiadajàcej ró˝nicy mi´dzy zajmowanà powierzchnià u˝ytkowà podstawowà a powierzchnià przys∏ugujàcà wed∏ug zasad okreÊlonych wart. 26 i 47. Termin sk∏adania wniosków up∏ywa z dniem 31 grudnia 2004 r.
+2. Osobie, która otrzymała pomoc finansową na budownictwo mieszkaniowe do dnia 31 grudnia 1995 r. izajmuje lokal spółdzielczy o powierzchni użytkowej podstawowej mniejszej od przysługującej minimalnej normy, wypłaca się odprawę mieszkaniową w wysokości odpowiadającej różnicy między zajmowaną powierzchnią użytkową podstawową a powierzchnią przysługującą według zasad określonych wart. 26 i 47. Termin składania wniosków upływa z dniem 31 grudnia 2004 r.
 
-3. Je˝eli pozwolenie na budow´ domu jednorodzinnego zosta∏o wydane przed dniem 21 lutego 1994 r., zaliczkowà pomoc finansowà zamienia si´ na bezzwrotnà wed∏ug zasad i stawek, które obowiàzywa∏y w dotychczasowych przepisach na dzieƒ up∏ywu trzech lat od dnia otrzymania tego pozwolenia. Do osób, którym trzyletni okres od dnia otrzymania pozwolenia up∏ynà∏ po dniu 31 grudnia 1995 r., stosuje si´ wartoÊç odtworzeniowà, o której modania wniosków up∏ywa z dniem 31 grudnia 2004 r.
+3. Jeżeli pozwolenie na budowę domu jednorodzinnego zostało wydane przed dniem 21 lutego 1994 r., zaliczkową pomoc finansową zamienia się na bezzwrotną według zasad i stawek, które obowiązywały w dotychczasowych przepisach na dzień upływu trzech lat od dnia otrzymania tego pozwolenia. Do osób, którym trzyletni okres od dnia otrzymania pozwolenia upłynął po dniu 31 grudnia 1995 r., stosuje się wartość odtworzeniową, o której modania wniosków upływa z dniem 31 grudnia 2004 r.
 
-4. Organem w∏aÊciwym do zakoƒczenia spraw, októrych mowa wust. 1—3, jest dyrektor oddzia∏u regionalnego Agencji.
+4. Organem właściwym do zakończenia spraw, októrych mowa wust. 1—3, jest dyrektor oddziału regionalnego Agencji.
 
-5. Wydatki na cele, o których mowa w ust. 1—3, pokrywane sà ze Êrodków finansowych przeznaczonych na odpraw´ mieszkaniowà, o której mowa w art. 47.”;
+5. Wydatki na cele, o których mowa w ust. 1—3, pokrywane są ze środków finansowych przeznaczonych na odprawę mieszkaniową, o której mowa w art. 47.”;
 
-- **48)** uchyla si´ art. 88 i 89;
-- **49)** w art. 93 uchyla si´ ust. 2 i 3.
+- **48)** uchyla się art. 88 i 89;
+- **49)** w art. 93 uchyla się ust. 2 i 3.
 
-**Art. 2.** Wustawie zdnia 17 czerwca 1966 r. opost´powaniu egzekucyjnym w administracji (Dz. U. z 2002 r. 110, poz. 968, z póên. zm. wa w art. 47 ust. 1 pkt 3. Termin sk∏a) w art. 19 § 7 otrzymuje brzmienie: „§ 7. Dyrektor oddzia∏u regionalnego Wojskowej Agencji Mieszkaniowej jest organem egzekucyjnym uprawnionym do stosowania egzekucji z wynagrodzenia za prac´ oraz ze Êwiadczeƒ zzaopatrzenia emerytalnego albo zubezpieczenia spo∏ecznego, w egzekucji administracyjnej nale˝noÊci pieni´˝nych z tytu∏u op∏at za u˝ywanie lokalu i op∏at poÊrednich zwiàzanych z zajmowaniem lokali mieszkalnych b´dàcych w dyspozycji Wojskowej Agencji Mieszkaniowej.”.
+**Art. 2.** Wustawie zdnia 17 czerwca 1966 r. opostępowaniu egzekucyjnym w administracji (Dz. U. z 2002 r. 110, poz. 968, z póên. zm. wa w art. 47 ust. 1 pkt 3. Termin skła) w art. 19 § 7 otrzymuje brzmienie: Ń§ 7. Dyrektor oddziału regionalnego Wojskowej Agencji Mieszkaniowej jest organem egzekucyjnym uprawnionym do stosowania egzekucji z wynagrodzenia za pracę oraz ze świadczeń zzaopatrzenia emerytalnego albo zubezpieczenia społecznego, w egzekucji administracyjnej należności pieniężnych z tytułu opłat za używanie lokalu i opłat pośrednich związanych z zajmowaniem lokali mieszkalnych będących w dyspozycji Wojskowej Agencji Mieszkaniowej.”.
 
-**Art. 3.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiàzku obrony Rzeczypospolitej Polskiej (Dz. U. z2002 r. 21, poz. 205, zpóên. zm. ) po art. 3 dodaje si´ art. 3a w brzmieniu: „Art. 3a. 1. Jednostki wojskowe i ich zwiàzki organizacyjne sà rozmieszczone wgarnizonach. 2. Minister Obrony Narodowej powierza pe∏nienie funkcji dowódcy garnizonu ˝o∏nierzowi zawodowemu zajmujàcemu stanowisko s∏u˝bowe w tym garnizonie, a tak˝e zwalnia z tej funkcji. 3. Minister Obrony Narodowej, w drodze rozporzàdzenia, tworzy, przekszta∏ca i znosi garnizony, okreÊla zadania ich dowódców oraz siedziby i terytorialny zasi´g w∏aÊciwoÊci, z uwzgl´dnieniem ——————— w szczególnoÊci podzia∏u terytorialnego paƒstwa.”.
+**Art. 3.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z2002 r. 21, poz. 205, zpóên. zm. ) po art. 3 dodaje się art. 3a w brzmieniu: ŃArt. 3a. 1. Jednostki wojskowe i ich związki organizacyjne są rozmieszczone wgarnizonach. 2. Minister Obrony Narodowej powierza pełnienie funkcji dowódcy garnizonu żołnierzowi zawodowemu zajmującemu stanowisko służbowe w tym garnizonie, a także zwalnia z tej funkcji. 3. Minister Obrony Narodowej, w drodze rozporządzenia, tworzy, przekształca i znosi garnizony, określa zadania ich dowódców oraz siedziby i terytorialny zasięg właściwości, z uwzględnieniem ——————— w szczególności podziału terytorialnego państwa.”.
 
-**Art. 4.** Wustawie zdnia 8 marca 1990 r. osamorzàdzie gminnym (Dz. U. z 2001 r. 142, poz. 1591, zpóên. zm. ) po art. 8 dodaje si´ art. 8awbrzmieniu: „Art. 8a. Gmina ma obowiàzek przej´cia przekazanych przez Wojskowà Agencj´ Mieszkaniowà zb´dnych tej Agencji nieruchomoÊci gruntowych, budynków i lokali oraz urzàdzeƒ infrastruktury.”.
+**Art. 4.** Wustawie zdnia 8 marca 1990 r. osamorządzie gminnym (Dz. U. z 2001 r. 142, poz. 1591, zpóên. zm. ) po art. 8 dodaje się art. 8awbrzmieniu: ŃArt. 8a. Gmina ma obowiązek przejęcia przekazanych przez Wojskową Agencję Mieszkaniową zbędnych tej Agencji nieruchomości gruntowych, budynków i lokali oraz urządzeń infrastruktury.”.
 
-**Art. 5.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 5.** W ustawie z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. 54, poz. 654, z póên. zm. ) z tytu∏u odprawy mieszkaniowej,”;
+**Art. 6.** W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. 54, poz. 654, z póên. zm. ) z tytułu odprawy mieszkaniowej,”;
 
-**Art. 7.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi sk∏adnikami mienia Skarbu Paƒstwa oraz o Agencji Mienia Wojskowego (Dz. U. 90, poz. 405, z póên. zm. ) w art. 25a ust. 3 otrzymuje brzmienie: „3. NieruchomoÊci zabudowane budynkami mieszkalnymi, nieruchomoÊci lokalowe i nieruchomoÊci, które sà lub mogà byç wplanach zagospodarowania przestrzennego przeznaczone pod budownictwo mieszkaniowe, Agencja mo˝e przekazaç Wojskowej Agencji Mieszkaniowej nieodp∏atnie lub wzamian za przekazanie jej przez Wojskowà Agencj´ Mieszkaniowà Êrodków finansowych w wysokoÊci okreÊlonej w umowie przekazania, nie wi´cej jednak ni˝ wartoÊç przekazanych nieruchomoÊci.”.
+**Art. 7.** W ustawie z dnia 30 maja 1996 r. o gospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. 90, poz. 405, z póên. zm. ) w art. 25a ust. 3 otrzymuje brzmienie: Ń3. Nieruchomości zabudowane budynkami mieszkalnymi, nieruchomości lokalowe i nieruchomości, które są lub mogą być wplanach zagospodarowania przestrzennego przeznaczone pod budownictwo mieszkaniowe, Agencja może przekazać Wojskowej Agencji Mieszkaniowej nieodpłatnie lub wzamian za przekazanie jej przez Wojskową Agencję Mieszkaniową środków finansowych w wysokości określonej w umowie przekazania, nie więcej jednak niż wartość przekazanych nieruchomości.”.
 
-**Art. 8.** Wustawie zdnia 9 wrzeÊnia 2000 r. opodatku od czynnoÊci cywilnoprawnych (Dz. U. 86, poz. 959, z póên. zm. ——————— ) w art. 2 po pkt 2 dodaje si´ pkt 2a w brzmieniu: ——————— „2a) umowy sprzeda˝y lokali mieszkalnych, których stronà jest Wojskowa Agencja Mieszkaniowa,”.
+**Art. 8.** Wustawie zdnia 9 września 2000 r. opodatku od czynności cywilnoprawnych (Dz. U. 86, poz. 959, z póên. zm. ——————— ) w art. 2 po pkt 2 dodaje się pkt 2a w brzmieniu: ——————— Ń2a) umowy sprzedaży lokali mieszkalnych, których stroną jest Wojskowa Agencja Mieszkaniowa,”.
 
-**Art. 9.** Wustawie zdnia 16 listopada 2000 r. oprzeciwdzia∏aniu wprowadzaniu do obrotu finansowego wartoÊci majàtkowych pochodzàcych z nielegalnych lub nieujawnionych êróde∏ oraz o przeciwdzia∏aniu finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, 62, poz. 577 i 96, poz. 959) w art. 5 ust. 6 otrzymuje brzmienie: „6. Szczegó∏owe zasady i tryb post´powania przy wyznaczaniu ˝o∏nierzy zawodowych do pe∏nienia s∏u˝by wjednostce, októrej mowa wart. 3 ust. 4, atak˝e szczegó∏owe zasady przyznawania uposa˝enia oraz innych Êwiadczeƒ przys∏ugujàcych w czasie pe∏nienia s∏u˝by w tej jednostce okreÊla ustawa z dnia 11 wrzeÊnia 2003 r. o s∏u˝bie wojskowej ˝o∏nierzy zawodowych (Dz. U. 179, poz. 1750).”.
+**Art. 9.** Wustawie zdnia 16 listopada 2000 r. oprzeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych êródeł oraz o przeciwdziałaniu finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, 62, poz. 577 i 96, poz. 959) w art. 5 ust. 6 otrzymuje brzmienie: Ń6. Szczegółowe zasady i tryb postępowania przy wyznaczaniu żołnierzy zawodowych do pełnienia służby wjednostce, októrej mowa wart. 3 ust. 4, atakże szczegółowe zasady przyznawania uposażenia oraz innych świadczeń przysługujących w czasie pełnienia służby w tej jednostce określa ustawa z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. 179, poz. 1750).”.
 
-**Art. 10.** W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. 71, poz. 733, z 2002 r. 113, poz. 984 i 168, poz. 1383 oraz z 2003 r. 113, poz. 1069) po art. 1 dodaje si´ art. 1a w brzmieniu: „Art. 1a. Przepisów ustawy nie stosuje si´ do lokali b´dàcych w dyspozycji Wojskowej Agencji Mieszkaniowej.”.
+**Art. 10.** W ustawie z dnia 21 czerwca 2001 r. o ochronie praw lokatorów, mieszkaniowym zasobie gminy i o zmianie Kodeksu cywilnego (Dz. U. 71, poz. 733, z 2002 r. 113, poz. 984 i 168, poz. 1383 oraz z 2003 r. 113, poz. 1069) po art. 1 dodaje się art. 1a w brzmieniu: ŃArt. 1a. Przepisów ustawy nie stosuje się do lokali będących w dyspozycji Wojskowej Agencji Mieszkaniowej.”.
 
-**Art. 11.** Wustawie zdnia 24 sierpnia 2001 r. o˚andarmerii Wojskowej i wojskowych organach porzàdkowych (Dz. U. 123, poz. 1353, z póên. zm. „2) „przedsi´biorcy” rozumie si´ przez to przedsi´biorc´ w rozumieniu przepisów ustawy zdnia 19 listopada 1999 r. Prawo dzia∏alnoÊci gospodarczej (Dz. U. 101, poz. 1178, z póên. zm. ) w art. 4 ust. 3 otrzymuje brzmienie: „3. ˚andarmeria Wojskowa wykonuje równie˝ czynnoÊci na polecenie sàdu wojskowego iprokuratora wojskowego oraz sàdu powszechnego iprokuratora powszechnej jednostki organizacyjnej prokuratury, atak˝e organów administracji rzàdowej, wojskowej i samorzàdu terytorialnego oraz Wojskowej Agencji Mieszkaniowej w zakresie, w jakim obowiàzek ten wynika z odr´bnych przepisów.”.
+**Art. 11.** Wustawie zdnia 24 sierpnia 2001 r. o˚andarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. 123, poz. 1353, z póên. zm. Ń2) Ńprzedsiębiorcy” rozumie się przez to przedsiębiorcę w rozumieniu przepisów ustawy zdnia 19 listopada 1999 r. Prawo działalności gospodarczej (Dz. U. 101, poz. 1178, z póên. zm. ) w art. 4 ust. 3 otrzymuje brzmienie: Ń3. ˚andarmeria Wojskowa wykonuje również czynności na polecenie sądu wojskowego iprokuratora wojskowego oraz sądu powszechnego iprokuratora powszechnej jednostki organizacyjnej prokuratury, atakże organów administracji rządowej, wojskowej i samorządu terytorialnego oraz Wojskowej Agencji Mieszkaniowej w zakresie, w jakim obowiązek ten wynika z odrębnych przepisów.”.
 
-**Art. 12.** Wustawie zdnia 5 grudnia 2002 r. ozmianie ustawy ozasadach wykonywania uprawnieƒ przys∏ugujàcych Skarbowi Paƒstwa, ustawy o komercjalizacji i prywatyzacji przedsi´biorstw paƒstwowych oraz niektórych innych ustaw (Dz. U. 240, poz. 2055) uchyla si´ art. 19.
+**Art. 12.** Wustawie zdnia 5 grudnia 2002 r. ozmianie ustawy ozasadach wykonywania uprawnień przysługujących Skarbowi Państwa, ustawy o komercjalizacji i prywatyzacji przedsiębiorstw państwowych oraz niektórych innych ustaw (Dz. U. 240, poz. 2055) uchyla się art. 19.
 
-**Art. 13.** W ustawie z dnia 14 lutego 2003 r. o udost´pnianiu informacji gospodarczych (Dz. U. 50, poz. 424 oraz z2004 r. 68, poz. 623) wprowadza si´ nast´pujàce zmiany:
+**Art. 13.** W ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. 50, poz. 424 oraz z2004 r. 68, poz. 623) wprowadza się następujące zmiany:
 
-**Art. 14.** Wustawie zdnia 24 kwietnia 2003 r. odzia∏alnoÊci po˝ytku publicznego i o wolontariacie (Dz. U. 96, poz. 873 oraz z 2004 r. 64, poz. 593) w art. 4 w ust. 1 po pkt 1 dodaje si´ pkt 1a w brzmieniu: „1a) zapewnienia zorganizowanej opieki by∏ym ˝o∏nierzom zawodowym, którzy uzyskali uprawnienie do emerytury wojskowej lub wojskowej renty inwalidzkiej, inwalidom wojennym i wojskowym oraz kombatantom;”.
+**Art. 14.** Wustawie zdnia 24 kwietnia 2003 r. odziałalności pożytku publicznego i o wolontariacie (Dz. U. 96, poz. 873 oraz z 2004 r. 64, poz. 593) w art. 4 w ust. 1 po pkt 1 dodaje się pkt 1a w brzmieniu: Ń1a) zapewnienia zorganizowanej opieki byłym żołnierzom zawodowym, którzy uzyskali uprawnienie do emerytury wojskowej lub wojskowej renty inwalidzkiej, inwalidom wojennym i wojskowym oraz kombatantom;”.
 
-**Art. 15.** Wustawie zdnia 11 wrzeÊnia 2003 r. os∏u˝bie wojskowej ˝o∏nierzy zawodowych (Dz. U. 179, poz. 1750) wprowadza si´ nast´pujàce zmiany:
+**Art. 15.** Wustawie zdnia 11 września 2003 r. osłużbie wojskowej żołnierzy zawodowych (Dz. U. 179, poz. 1750) wprowadza się następujące zmiany:
 
-**Art. 16.** W ustawie z dnia 29 paêdziernika 2003 r. o zmianie ustawy o powszechnym obowiàzku obrony Rzeczypospolitej Polskiej oraz ozmianie niektórych innych ustaw (Dz. U. 210, poz. 2036) wprowadza si´ nast´pujàce zmiany:
+**Art. 16.** W ustawie z dnia 29 paêdziernika 2003 r. o zmianie ustawy o powszechnym obowiązku obrony Rzeczypospolitej Polskiej oraz ozmianie niektórych innych ustaw (Dz. U. 210, poz. 2036) wprowadza się następujące zmiany:
 
-**Art. 25b.** Do oczyszczania terenów z materia∏ów wybuchowych i niebezpiecznych pochodzenia wojskowego mogà byç u˝yte Si∏y Zbrojne Rzeczypospolitej Polskiej.
+**Art. 25b.** Do oczyszczania terenów z materiałów wybuchowych i niebezpiecznych pochodzenia wojskowego mogą być użyte Siły Zbrojne Rzeczypospolitej Polskiej.
 
-**Art. 25c.** Rada Ministrów okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki oczyszczania terenów z materia∏ów wybuchowych i niebezpiecznych, a w szczególnoÊci tryb zg∏aszania i zabezpieczenia tych materia∏ów, wtym sposób izakres udzia∏u Si∏ Zbrojnych Rzeczypospolitej Polskiej w realizacji czynnoÊci, o których mowa w art. 25b, oraz warunki wyznaczania miejsc przeznaczonych do niszczenia materia∏ów wybuchowych i niebezpiecznych.””.
+**Art. 25c.** Rada Ministrów określi, w drodze rozporządzenia, szczegółowe warunki oczyszczania terenów z materiałów wybuchowych i niebezpiecznych, a w szczególności tryb zgłaszania i zabezpieczenia tych materiałów, wtym sposób izakres udziału Sił Zbrojnych Rzeczypospolitej Polskiej w realizacji czynności, o których mowa w art. 25b, oraz warunki wyznaczania miejsc przeznaczonych do niszczenia materiałów wybuchowych i niebezpiecznych.””.
 
 **Art. 17.**
 
-1. Âwiadczenie finansowe umo˝liwiajàce pokrycie kosztów najmu lokalu mieszkalnego wyp∏acane na podstawie dotychczasowych przepisów przys∏uguje ˝o∏nierzowi do czasu, na jaki zosta∏a wydana decyzja uprawniajàca do zawarcia umowy najmu lokalu mieszkalnego, której koszty sà pokrywane tym Êwiadczeniem, chyba ˝e przed up∏ywem tego terminu zostanie wydana decyzja o prawie zamieszkiwania na czas okreÊlony wlokalu mieszkalnym znajdujàcym si´ w zasobie Wojskowej Agencji Mieszkaniowej.
+1. Âwiadczenie finansowe umożliwiające pokrycie kosztów najmu lokalu mieszkalnego wypłacane na podstawie dotychczasowych przepisów przysługuje żołnierzowi do czasu, na jaki została wydana decyzja uprawniająca do zawarcia umowy najmu lokalu mieszkalnego, której koszty są pokrywane tym świadczeniem, chyba że przed upływem tego terminu zostanie wydana decyzja o prawie zamieszkiwania na czas określony wlokalu mieszkalnym znajdującym się w zasobie Wojskowej Agencji Mieszkaniowej.
 
-2. Âwiadczenie, o którym mowa w ust. 1, jest wyp∏acane na zasadach okreÊlonych w art. 49 ustawy, o której mowa w art. 1, w brzmieniu obowiàzujàcym w dniu 30 czerwca 2004 r.
+2. Âwiadczenie, o którym mowa w ust. 1, jest wypłacane na zasadach określonych w art. 49 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym w dniu 30 czerwca 2004 r.
 
-3. ˚o∏nierzom pobierajàcym Êwiadczenie, o którym mowa w ust. 1, nie wyp∏aca si´ ekwiwalentu, októrym mowa wart. 24 ust. 6 ustawy, októrej mowa w art. 1, w brzmieniu nadanym niniejszà ustawà.
+3. ˚ołnierzom pobierającym świadczenie, o którym mowa w ust. 1, nie wypłaca się ekwiwalentu, októrym mowa wart. 24 ust. 6 ustawy, októrej mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-4. Na realizacj´ zadania, o którym mowa w ust. 1, Wojskowa Agencja Mieszkaniowa otrzymuje dotacje wowej Stra˝y Po˝arnej. bud˝etowe, ustalane corocznie przez Ministra Obrony Narodowej.
+4. Na realizację zadania, o którym mowa w ust. 1, Wojskowa Agencja Mieszkaniowa otrzymuje dotacje wowej Straży Pożarnej. budżetowe, ustalane corocznie przez Ministra Obrony Narodowej.
 
 **Art. 18.**
 
-1. Oddzia∏y rejonowe Wojskowej Agencji Mieszkaniowej stajà si´ oddzia∏ami regionalnymi Wojskowej Agencji Mieszkaniowej z dniem wejÊcia w ˝ycie ustawy.
+1. Oddziały rejonowe Wojskowej Agencji Mieszkaniowej stają się oddziałami regionalnymi Wojskowej Agencji Mieszkaniowej z dniem wejścia w życie ustawy.
 
-2. Sprawy dotychczas prowadzone przez oddzia∏y terenowe Wojskowej Agencji Mieszkaniowej, a niezakoƒczone z dniem wejÊcia w ˝ycie ustawy, oraz ich w∏aÊciwoÊç rzeczowà imiejscowà przejmujà w∏aÊciwe miejscowo oddzia∏y regionalne Wojskowej Agencji Mieszkaniowej.
+2. Sprawy dotychczas prowadzone przez oddziały terenowe Wojskowej Agencji Mieszkaniowej, a niezakończone z dniem wejścia w życie ustawy, oraz ich właściwość rzeczową imiejscową przejmują właściwe miejscowo oddziały regionalne Wojskowej Agencji Mieszkaniowej.
 
-3. Likwidacj´ oddzia∏ów terenowych Wojskowej Agencji Mieszkaniowej przeprowadzà ich dyrektorzy w terminie do dnia 31 grudnia 2004 r., przekazujàc mienie do w∏aÊciwych miejscowo oddzia∏ówregionalnych Wojskowej Agencji Mieszkaniowej.
+3. Likwidację oddziałów terenowych Wojskowej Agencji Mieszkaniowej przeprowadzą ich dyrektorzy w terminie do dnia 31 grudnia 2004 r., przekazując mienie do właściwych miejscowo oddziałówregionalnych Wojskowej Agencji Mieszkaniowej.
 
-4. Zobowiàzania i wierzytelnoÊci zlikwidowanego oddzia∏u terenowego Wojskowej Agencji Mieszkaniowej stajà si´ zdniem wejÊcia w˝ycie ustawy zobowiàzaniami i wierzytelnoÊciami w∏aÊciwego miejscowo oddzia∏u regionalnego Wojskowej Agencji Mieszkaniowej.
+4. Zobowiązania i wierzytelności zlikwidowanego oddziału terenowego Wojskowej Agencji Mieszkaniowej stają się zdniem wejścia wżycie ustawy zobowiązaniami i wierzytelnościami właściwego miejscowo oddziału regionalnego Wojskowej Agencji Mieszkaniowej.
 
-5. Z dniem wejÊcia w ˝ycie ustawy organem wy˝szego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks post´powania administracyjnego w stosunku do decyzji wydanych przez dyrektorów oddzia∏ów terenowych Wojskowej Agencji Mieszkaniowej jest Prezes Wojskowej Agencji Mieszkaniowej.
+5. Z dniem wejścia w życie ustawy organem wyższego stopnia w rozumieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego w stosunku do decyzji wydanych przez dyrektorów oddziałów terenowych Wojskowej Agencji Mieszkaniowej jest Prezes Wojskowej Agencji Mieszkaniowej.
 
 **Art. 19.**
 
-1. Do spraw wszcz´tych do dnia wejÊcia w ˝ycie niniejszej ustawy, lecz niezakoƒczonych ostatecznymi decyzjami lub umowami, stosuje si´ przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszà ustawà, z wyjàtkiem post´powaƒ egzekucyjnych i z zastrze˝eniem ust. 2—5.
+1. Do spraw wszczętych do dnia wejścia w życie niniejszej ustawy, lecz niezakończonych ostatecznymi decyzjami lub umowami, stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, z wyjątkiem postępowań egzekucyjnych i z zastrzeżeniem ust. 2—5.
 
-2. Do spraw wszcz´tych na podstawie art. 42 ust. 2, art. 43 lub art. 44 ustawy, o której mowa w art. 1, w brzmieniu obowiàzujàcym do dnia 30 czerwca 2004 r., stosuje si´ przepisy tej ustawy obowiàzujàce do dnia 30 czerwca 2004 r.
+2. Do spraw wszczętych na podstawie art. 42 ust. 2, art. 43 lub art. 44 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 30 czerwca 2004 r., stosuje się przepisy tej ustawy obowiązujące do dnia 30 czerwca 2004 r.
 
-3. Wsprawach wyp∏aty ekwiwalentu za rezygnacj´ z kwatery dyrektor oddzia∏u regionalnego Wojskowej Agencji Mieszkaniowej rozpatrujàc wniosek osoby uprawnionej o wyp∏at´ ekwiwalentu pieni´˝nego w zamian za rezygnacj´ z kwatery, z∏o˝ony do dnia 30 czerwca 2004 r., a niezakoƒczony zawarciem umowy, stosuje przepisy ustawy obowiàzujàce do dnia 30czerwca 2004 r., uwzgl´dniajàc uprawnienia do powierzchni u˝ytkowej podstawowej przys∏ugujàce wnioskodawcy wdniu wyp∏aty ekwiwalentu, przyjmujàc jako podstaw´ obliczenia ekwiwalentu Êrednià cen´ metra kwadratowego tej powierzchni, ustalonà przez dyrektora oddzia∏u regionalnego Wojskowej Agencji Mieszkaniowej w dniu wejÊcia w ˝ycie niniejszej ustawy.
+3. Wsprawach wypłaty ekwiwalentu za rezygnację z kwatery dyrektor oddziału regionalnego Wojskowej Agencji Mieszkaniowej rozpatrując wniosek osoby uprawnionej o wypłatę ekwiwalentu pieniężnego w zamian za rezygnację z kwatery, złożony do dnia 30 czerwca 2004 r., a niezakończony zawarciem umowy, stosuje przepisy ustawy obowiązujące do dnia 30czerwca 2004 r., uwzględniając uprawnienia do powierzchni użytkowej podstawowej przysługujące wnioskodawcy wdniu wypłaty ekwiwalentu, przyjmując jako podstawę obliczenia ekwiwalentu średnią cenę metra kwadratowego tej powierzchni, ustaloną przez dyrektora oddziału regionalnego Wojskowej Agencji Mieszkaniowej w dniu wejścia w życie niniejszej ustawy.
 
-4. ˚o∏nierzowi zawodowemu pe∏niàcemu czynnà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej przys∏uguje w terminie do dnia 30 wrzeÊnia 2004 r. uprawnienie do wycofania wniosku, októrym mowa w ust. 3. W tym przypadku ˝o∏nierz sk∏ada oÊwiadczenie o wycofaniu wniosku w∏aÊciwemu miejscowo dyrektorowi oddzia∏u regionalnego WojoÊwiadczenia do ˝o∏nierza stosuje si´ przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszà ustawà.
+4. ˚ołnierzowi zawodowemu pełniącemu czynną służbę wojskową na podstawie kontraktu na pełnienie służby stałej przysługuje w terminie do dnia 30 września 2004 r. uprawnienie do wycofania wniosku, októrym mowa w ust. 3. W tym przypadku żołnierz składa oświadczenie o wycofaniu wniosku właściwemu miejscowo dyrektorowi oddziału regionalnego Wojoświadczenia do żołnierza stosuje się przepisy ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-5. Post´powania w sprawach wniosków o przydzia∏ osobnej kwatery sta∏ej dyrektorzy oddzia∏ów regionalnych Wojskowej Agencji Mieszkaniowej umarzajà, a czas oczekiwania ˝o∏nierza zawodowego pe∏niàcego zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej na przydzia∏ tej kwatery wlicza si´ temu ˝o∏nierzowi do czasu oczekiwania na wydanie decyzji o prawie zamieszkiwania wlokalu mieszkalnym znajdujàcym si´ wzasobie Wojskowej Agencji Mieszkaniowej.
+5. Postępowania w sprawach wniosków o przydział osobnej kwatery stałej dyrektorzy oddziałów regionalnych Wojskowej Agencji Mieszkaniowej umarzają, a czas oczekiwania żołnierza zawodowego pełniącego zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej na przydział tej kwatery wlicza się temu żołnierzowi do czasu oczekiwania na wydanie decyzji o prawie zamieszkiwania wlokalu mieszkalnym znajdującym się wzasobie Wojskowej Agencji Mieszkaniowej.
 
-6. Listy oczekujàcych na przydzia∏ osobnej kwatery sta∏ej prowadzone do dnia 30 czerwca 2004 r. przez dyrektorów oddzia∏ów terenowych Wojskowej Agencji Mieszkaniowej przekazywane sà dyrektorom w∏aÊciwych oddzia∏ów regionalnych Wojskowej Agencji Mieszkaniowej w terminie do dnia 15 lipca 2004 r. i stajà si´ wnioskami, o których mowa w art. 24 ustawy, o której mowa w art. 1, i realizowane sà w pierwskowej Agencji Mieszkaniowej; od dnia z∏o˝enia szej kolejnoÊci.
+6. Listy oczekujących na przydział osobnej kwatery stałej prowadzone do dnia 30 czerwca 2004 r. przez dyrektorów oddziałów terenowych Wojskowej Agencji Mieszkaniowej przekazywane są dyrektorom właściwych oddziałów regionalnych Wojskowej Agencji Mieszkaniowej w terminie do dnia 15 lipca 2004 r. i stają się wnioskami, o których mowa w art. 24 ustawy, o której mowa w art. 1, i realizowane są w pierwskowej Agencji Mieszkaniowej; od dnia złożenia szej kolejności.
 
 **Art. 20.**
 
-1. Osobie nieb´dàcej ˝o∏nierzem zawodowym pe∏niàcym zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej, zamieszkujàcej na podstawie umowy najmu lub innego ni˝ decyzja administracyjna tytu∏u prawnego, w lokalu mieszkalnym przeznaczonym na zakwaterowanie ˝o∏nierzy zawodowych pe∏niàcych zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej, oile nie posiada ona lub jej ma∏˝onek tytu∏u prawnego do innego lokalu mieszkalnego lub lokalu zamiennego, przys∏uguje prawo do zamieszkiwania w tym lokalu przez okres dwóch lat od dnia wejÊcia w ˝ycie niniejszej ustawy.
+1. Osobie niebędącej żołnierzem zawodowym pełniącym zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej, zamieszkującej na podstawie umowy najmu lub innego niż decyzja administracyjna tytułu prawnego, w lokalu mieszkalnym przeznaczonym na zakwaterowanie żołnierzy zawodowych pełniących zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej, oile nie posiada ona lub jej małżonek tytułu prawnego do innego lokalu mieszkalnego lub lokalu zamiennego, przysługuje prawo do zamieszkiwania w tym lokalu przez okres dwóch lat od dnia wejścia w życie niniejszej ustawy.
 
-2. Po up∏ywie terminu, o którym mowa w ust. 1, umowa najmu lub inny ni˝ decyzja administracyjna tytu∏ prawny wygasa z mocy prawa.
+2. Po upływie terminu, o którym mowa w ust. 1, umowa najmu lub inny niż decyzja administracyjna tytuł prawny wygasa z mocy prawa.
 
-3. Wterminie, októrym mowa wust. 1, Wojskowa Agencja Mieszkaniowa mo˝e zaproponowaç wzamian za wczeÊniejsze opuszczenie lokalu mieszkalnego lokal zamienny albo Êwiadczenie wwysokoÊci 40%wartoÊci rynkowej zajmowanego lokalu.
+3. Wterminie, októrym mowa wust. 1, Wojskowa Agencja Mieszkaniowa może zaproponować wzamian za wcześniejsze opuszczenie lokalu mieszkalnego lokal zamienny albo świadczenie wwysokości 40%wartości rynkowej zajmowanego lokalu.
 
-4. Osoby nieb´dàce ˝o∏nierzami zawodowymi pe∏niàcymi zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej zajmujàce lokal mieszkalny przeznaczony na zakwaterowanie ˝o∏nierzy zawodowych pe∏niàcych zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej, które nie zwolni∏y zajmowanego lokalu mieszkalnego w przypadku, o którym mowa w ust. 1, albo odmówi∏y skorzystania z uprawnieƒ okreÊlonych w ust. 3, podlegajà przymusowemu wykwaterowaniu.
+4. Osoby niebędące żołnierzami zawodowymi pełniącymi zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej zajmujące lokal mieszkalny przeznaczony na zakwaterowanie żołnierzy zawodowych pełniących zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej, które nie zwolniły zajmowanego lokalu mieszkalnego w przypadku, o którym mowa w ust. 1, albo odmówiły skorzystania z uprawnień określonych w ust. 3, podlegają przymusowemu wykwaterowaniu.
 
-**Art. 21.** Osobne kwatery sta∏e przeznaczone do sprzeda˝y wdniu 30 czerwca 2004 r. stajà si´ kwaterami zb´dnymi na zakwaterowanie ˝o∏nierzy zawodowych pe∏niàcych zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej, znajdujàcymi si´ w wykazie, o którym mowa w art. 23 ust. 4 ustawy, októrej mowa wart. 1, wbrzmieniu nadanym niniejszà ustawà.
+**Art. 21.** Osobne kwatery stałe przeznaczone do sprzedaży wdniu 30 czerwca 2004 r. stają się kwaterami zbędnymi na zakwaterowanie żołnierzy zawodowych pełniących zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej, znajdującymi się w wykazie, o którym mowa w art. 23 ust. 4 ustawy, októrej mowa wart. 1, wbrzmieniu nadanym niniejszą ustawą.
 
 **Art. 22.**
 
-1. Osoby inne ni˝ wymienione w art. 41 ust. 1—4 ustawy, októrej mowa wart. 1, wbrzmieniu nadanym niniejszà ustawà, zajmujàce lokale mieszkalne w zasobie Wojskowej Agencji Mieszkaniowej sà obowiàzane przekazaç zajmowany lokal do jej dyspozycji na zasadach okreÊlonych w art. 20 ust. 1 lub 3, w przypadku gdy lokale te sà przeznaczone na zakwaterowanie ˝o∏nierzy zawodowych pe∏niàcych zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej.
+1. Osoby inne niż wymienione w art. 41 ust. 1—4 ustawy, októrej mowa wart. 1, wbrzmieniu nadanym niniejszą ustawą, zajmujące lokale mieszkalne w zasobie Wojskowej Agencji Mieszkaniowej są obowiązane przekazać zajmowany lokal do jej dyspozycji na zasadach określonych w art. 20 ust. 1 lub 3, w przypadku gdy lokale te są przeznaczone na zakwaterowanie żołnierzy zawodowych pełniących zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej.
 
-2. Osoby, które naby∏y prawo do emerytury wojskowej lub wojskowej renty inwalidzkiej, oraz cz∏onkowie rodzin, októrych mowa wart. 26 ust. 2 ustawy, októrej mowa w art. 1, zajmujàce lokale mieszkalne w zasobie Wojskowej Agencji Mieszkaniowej, w przypadku gdy lokale te sà przeznaczone wy∏àcznie na zakwaterowanie ˝o∏nierzy zawodowych pe∏niàcych zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej, w przypadku przekazania do dyspozycji Woskowej Agencji Mieszkaniowej zajmowanego lokalu mieszkalnego otrzymujà ekwiwalent pieni´˝ny w zamian za rezygnacj´ z osobnej kwatery sta∏ej, na zasadach okreÊlonych w art. 19 ust. 3, a w przypadku niedokonania takiego przekazania podlegajà z urz´du przekwaterowaniu do lokalu zamiennego.
+2. Osoby, które nabyły prawo do emerytury wojskowej lub wojskowej renty inwalidzkiej, oraz członkowie rodzin, októrych mowa wart. 26 ust. 2 ustawy, októrej mowa w art. 1, zajmujące lokale mieszkalne w zasobie Wojskowej Agencji Mieszkaniowej, w przypadku gdy lokale te są przeznaczone wyłącznie na zakwaterowanie żołnierzy zawodowych pełniących zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej, w przypadku przekazania do dyspozycji Woskowej Agencji Mieszkaniowej zajmowanego lokalu mieszkalnego otrzymują ekwiwalent pieniężny w zamian za rezygnację z osobnej kwatery stałej, na zasadach określonych w art. 19 ust. 3, a w przypadku niedokonania takiego przekazania podlegają z urzędu przekwaterowaniu do lokalu zamiennego.
 
 **Art. 23.**
 
-1. Osoby, którym do dnia wejÊcia w ˝ycie niniejszej ustawy przydzielono osobnà kwater´ sta∏à, zachowujà nabyte do tego dnia uprawnienia na czas zajmowania tej kwatery.
+1. Osoby, którym do dnia wejścia w życie niniejszej ustawy przydzielono osobną kwaterę stałą, zachowują nabyte do tego dnia uprawnienia na czas zajmowania tej kwatery.
 
-2. Sprawy rozwiedzionych ma∏˝onków wszcz´te na podstawie art. 28 ust. 2 lub 4 ustawy, o której mowa w art. 1, w brzmieniu obowiàzujàcym do dnia 30 czerwca 2004 r., niezakoƒczone do dnia wejÊcia w ˝ycie niniejszej ustawy, za∏atwia si´ w terminie do dnia 31 grudnia 2006 r. przez:
+2. Sprawy rozwiedzionych małżonków wszczęte na podstawie art. 28 ust. 2 lub 4 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 30 czerwca 2004 r., niezakończone do dnia wejścia w życie niniejszej ustawy, załatwia się w terminie do dnia 31 grudnia 2006 r. przez:
 
-- **1)** w stosunku do ˝o∏nierza zawodowego pe∏niàcego zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej, emeryta wojskowego i rencisty wojskowego wydanie decyzji o prawie zamieszkiwania w lokalu mieszkalnym b´dàcym w dyspozycji Wojskowej Agencji Mieszkaniowej, o powierzchni u˝ytkowej podstawowej okreÊlonej w art. 26 ustawy, o której mowa w art. 1, przys∏ugujàcej w dniu wydania decyzji;
-- **2)** by∏emu ma∏˝onkowi osoby okreÊlonej w pkt 1 wyp∏at´ Êwiadczenia pieni´˝nego w wysokoÊci odpowiadajàcej iloczynowi siedmiokrotnoÊci wartoÊci odtworzeniowej 1 m powierzchni u˝ytkowej lokalu mieszkalnego, okreÊlonej na podstawie art. 47 ust. 1 pkt 3 ustawy, októrej mowa wart. 1, obowiàzujàcej w dniu 1 stycznia danego roku kalendarzowego oraz sumy osób, w sk∏ad której wchodzi by∏y ma∏˝onek oraz dzieci, nad którymi rozwiedzionemu ma∏˝onkowi sàd w wyroku orzerodzicielskiej iorzek∏ oich zamieszkaniu ztym rozwiedzionym ma∏˝onkiem, chyba ˝e dzieci zosta∏y uwzgl´dnione w decyzji o prawie zamieszkiwania w lokalu mieszkalnym wydanej na podstawie pkt 1.
+- **1)** w stosunku do żołnierza zawodowego pełniącego zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej, emeryta wojskowego i rencisty wojskowego wydanie decyzji o prawie zamieszkiwania w lokalu mieszkalnym będącym w dyspozycji Wojskowej Agencji Mieszkaniowej, o powierzchni użytkowej podstawowej określonej w art. 26 ustawy, o której mowa w art. 1, przysługującej w dniu wydania decyzji;
+- **2)** byłemu małżonkowi osoby określonej w pkt 1 wypłatę świadczenia pieniężnego w wysokości odpowiadającej iloczynowi siedmiokrotności wartości odtworzeniowej 1 m powierzchni użytkowej lokalu mieszkalnego, określonej na podstawie art. 47 ust. 1 pkt 3 ustawy, októrej mowa wart. 1, obowiązującej w dniu 1 stycznia danego roku kalendarzowego oraz sumy osób, w skład której wchodzi były małżonek oraz dzieci, nad którymi rozwiedzionemu małżonkowi sąd w wyroku orzerodzicielskiej iorzekł oich zamieszkaniu ztym rozwiedzionym małżonkiem, chyba że dzieci zostały uwzględnione w decyzji o prawie zamieszkiwania w lokalu mieszkalnym wydanej na podstawie pkt 1.
 
 **Art. 24.**
 
-1. Osoby zajmujàce w dniu 30 czerwca 2004 r. lokale mieszkalne znajdujàce si´ w zasobie Wojskowej Agencji Mieszkaniowej uiszczajà op∏aty za ich zajmowanie w wysokoÊci i na zasadach okreÊlonych w art. 36 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszà ustawà.
+1. Osoby zajmujące w dniu 30 czerwca 2004 r. lokale mieszkalne znajdujące się w zasobie Wojskowej Agencji Mieszkaniowej uiszczają opłaty za ich zajmowanie w wysokości i na zasadach określonych w art. 36 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
-2. Op∏aty za u˝ywanie lokalu i op∏aty poÊrednie, o których mowa w art. 1a pkt 12 i 13 ustawy, o której mowa wart. 1, ztytu∏u zajmowania lokalu mieszkalnego b´dàcego w dyspozycji Wojskowej Agencji Mieszkaniowej na podstawie umowy najmu, nieuiszczone wustalonym terminie p∏atnoÊci, podlegajà, wraz zodsetkami w wysokoÊci ustawowej za zw∏ok´, przymusowemu Êciàgni´ciu na podstawie tytu∏u wykonawczego, w trybie przepisów ustawy z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. kajàcym rozwód powierzy∏ wykonywanie w∏adzy 43, poz. 296, z póên. zm. ).
+2. Opłaty za używanie lokalu i opłaty pośrednie, o których mowa w art. 1a pkt 12 i 13 ustawy, o której mowa wart. 1, ztytułu zajmowania lokalu mieszkalnego będącego w dyspozycji Wojskowej Agencji Mieszkaniowej na podstawie umowy najmu, nieuiszczone wustalonym terminie płatności, podlegają, wraz zodsetkami w wysokości ustawowej za zwłokę, przymusowemu ściągnięciu na podstawie tytułu wykonawczego, w trybie przepisów ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. kającym rozwód powierzył wykonywanie władzy 43, poz. 296, z póên. zm. ).
 
-**Art. 25.** W stosunku do osób zajmujàcych lokal mieszkalny b´dàcy w dyspozycji Wojskowej Agencji Mieszkaniowej na podstawie umowy najmu, które wykraczajà w sposób ra˝àcy lub uporczywy przeciwko porzàdkowi domowemu, czyniàc ucià˝liwym korzystanie z innych lokali, dyrektor oddzia∏u regionalnego Wojskowej Agencji Mieszkaniowej, za wypowiedzeniem, rozwiàzuje umow´ najmu, a w przypadku nieopuszczenia lokalu po okresie wypowiedzenia wyst´puje do sàdu o pozbawienie prawa zajmowania tego lokalu i eksmisj´. ———————
+**Art. 25.** W stosunku do osób zajmujących lokal mieszkalny będący w dyspozycji Wojskowej Agencji Mieszkaniowej na podstawie umowy najmu, które wykraczają w sposób rażący lub uporczywy przeciwko porządkowi domowemu, czyniąc uciążliwym korzystanie z innych lokali, dyrektor oddziału regionalnego Wojskowej Agencji Mieszkaniowej, za wypowiedzeniem, rozwiązuje umowę najmu, a w przypadku nieopuszczenia lokalu po okresie wypowiedzenia występuje do sądu o pozbawienie prawa zajmowania tego lokalu i eksmisję. ———————
 
 **Art. 26.**
 
-1. Osobom uprawnionym do równowa˝nika mieszkaniowego, októrym mowa wart. 39 ust. 1 i2 ustawy, o której mowa w art. 1, w brzmieniu obowiàzujàcym do dnia 30 czerwca 2004 r., oddzia∏ regionalny Wojskowej Agencji Mieszkaniowej na ich wniosek z∏o˝ony do dnia 31 sierpnia 2004 r., wyp∏aca ten równowa˝nik w terminie do dnia 31 grudnia 2004 r.
+1. Osobom uprawnionym do równoważnika mieszkaniowego, októrym mowa wart. 39 ust. 1 i2 ustawy, o której mowa w art. 1, w brzmieniu obowiązującym do dnia 30 czerwca 2004 r., oddział regionalny Wojskowej Agencji Mieszkaniowej na ich wniosek złożony do dnia 31 sierpnia 2004 r., wypłaca ten równoważnik w terminie do dnia 31 grudnia 2004 r.
 
-2. Równowa˝nik mieszkaniowy, o którym mowa w ust. 1, przys∏uguje osobom uprawnionym zajmujàcym:
+2. Równoważnik mieszkaniowy, o którym mowa w ust. 1, przysługuje osobom uprawnionym zajmującym:
 
-- **1)** osobnà kwater´ sta∏à;
-- **2)** kwater´ zast´pczà lub inne pomieszczenie mieszkalne na zakwaterowanie tymczasowe z rodzinà;
-- **3)** lokal mieszkalny nieb´dàcy w zasobach Wojskowej Agencji Mieszkaniowej, za który jest uiszczany czynsz regulowany;
-- **4)** w∏asnoÊciowy lub spó∏dzielczy lokal mieszkalny uzyskany bez pomocy finansowej resortu obrony narodowej;
-- **5)** lokal mieszkalny wynaj´ty, za który ˝o∏nierz zawodowy pe∏niàcy zawodowà s∏u˝b´ wojskowà na podstawie kontraktu na pe∏nienie s∏u˝by sta∏ej otrzymuje Êwiadczenie finansowe umo˝liwiajàce pokrycie kosztów najmu tego lokalu na podstawie przepisu art. 49 ust. 1 pkt 1 ustawy, októrej mowa w art. 1, w brzmieniu obowiàzujàcym do dnia 30 czerwca 2004 r.
+- **1)** osobną kwaterę stałą;
+- **2)** kwaterę zastępczą lub inne pomieszczenie mieszkalne na zakwaterowanie tymczasowe z rodziną;
+- **3)** lokal mieszkalny niebędący w zasobach Wojskowej Agencji Mieszkaniowej, za który jest uiszczany czynsz regulowany;
+- **4)** własnościowy lub spółdzielczy lokal mieszkalny uzyskany bez pomocy finansowej resortu obrony narodowej;
+- **5)** lokal mieszkalny wynajęty, za który żołnierz zawodowy pełniący zawodową służbę wojskową na podstawie kontraktu na pełnienie służby stałej otrzymuje świadczenie finansowe umożliwiające pokrycie kosztów najmu tego lokalu na podstawie przepisu art. 49 ust. 1 pkt 1 ustawy, októrej mowa w art. 1, w brzmieniu obowiązującym do dnia 30 czerwca 2004 r.
 
-3. Stawka równowa˝nika mieszkaniowego, o którym mowa w ust. 1, wynosi za jeden miesiàc 1 z∏ za 1 m 30 czerwca 2004 r., w ciàgu których dana osoba by∏a uprawniona do tego równowa˝nika.
+3. Stawka równoważnika mieszkaniowego, o którym mowa w ust. 1, wynosi za jeden miesiąc 1 zł za 1 m 30 czerwca 2004 r., w ciągu których dana osoba była uprawniona do tego równoważnika.
 
-5. Na realizacj´ zadania, o którym mowa w ust. 1, Wojskowa Agencja Mieszkaniowa otrzymuje dotacj´ bud˝etowà.
+5. Na realizację zadania, o którym mowa w ust. 1, Wojskowa Agencja Mieszkaniowa otrzymuje dotację budżetową.
 
 **Art. 27.**
 
-1. Wstosunku do osób zajmujàcych wdniu 30 czerwca 2004 r. lokale mieszkalne znajdujàce si´ w zasobie Wojskowej Agencji Mieszkaniowej w przypadkach, o których mowa w art. 41 i 44 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszà ustawà, dyrektor oddzia∏u regionalnego Wojskowej Agencji Mieszkaniowej wydaje decyzj´ o zwolnieniu lokalu mieszkalnego lub wypowiada umow´ najmu.
+1. Wstosunku do osób zajmujących wdniu 30 czerwca 2004 r. lokale mieszkalne znajdujące się w zasobie Wojskowej Agencji Mieszkaniowej w przypadkach, o których mowa w art. 41 i 44 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, dyrektor oddziału regionalnego Wojskowej Agencji Mieszkaniowej wydaje decyzję o zwolnieniu lokalu mieszkalnego lub wypowiada umowę najmu.
 
-2. Po uprawomocnieniu si´ decyzji lub up∏ywie terminu wypowiedzenia, októrych mowa wust. 1, dyrektor oddzia∏u regionalnego Wojskowej Agencji Mieszkaniowej zarzàdza odpowiednio przymusowe wykwaterowanie lub przekwaterowanie.
+2. Po uprawomocnieniu się decyzji lub upływie terminu wypowiedzenia, októrych mowa wust. 1, dyrektor oddziału regionalnego Wojskowej Agencji Mieszkaniowej zarządza odpowiednio przymusowe wykwaterowanie lub przekwaterowanie.
 
-**Art. 28.** Mienie stanowiàce w∏asnoÊç Wojskowej powierzchni u˝ytkowej podstawowej. 4. WysokoÊç równowa˝nika mieszkaniowego, o którym mowa w ust. 1, oblicza si´, mno˝àc stawk´, októrej mowa wust. 3, przez maksymalnà powierzchni´ u˝ytkowà podstawowà nale˝nà w dniu 1 stycznia 2004 r., anast´pnie przez iloÊç pe∏nych miesi´cy przypadajàcych w okresie od dnia 1 stycznia do dnia Agencji Mieszkaniowej staje si´ mieniem Skarbu Paƒstwa z dniem wejÊcia w ˝ycie ustawy.
+**Art. 28.** Mienie stanowiące własność Wojskowej powierzchni użytkowej podstawowej. 4. Wysokość równoważnika mieszkaniowego, o którym mowa w ust. 1, oblicza się, mnożąc stawkę, októrej mowa wust. 3, przez maksymalną powierzchnię użytkową podstawową należną w dniu 1 stycznia 2004 r., anastępnie przez ilość pełnych miesięcy przypadających w okresie od dnia 1 stycznia do dnia Agencji Mieszkaniowej staje się mieniem Skarbu Państwa z dniem wejścia w życie ustawy.
 
-**Art. 29.** Przepisy wykonawcze wydane na podstawie upowa˝nieƒ uchylonych lub zmienionych niniejszà ustawà pozostajà wmocy do czasu zastàpienia ich nowymi, nie d∏u˝ej jednak ni˝ do dnia 30 czerwca 2005 r.
+**Art. 29.** Przepisy wykonawcze wydane na podstawie upoważnień uchylonych lub zmienionych niniejszą ustawą pozostają wmocy do czasu zastąpienia ich nowymi, nie dłużej jednak niż do dnia 30 czerwca 2005 r.
 
-**Art. 30.** Ustawa wchodzi w ˝ycie z dniem 1 lipca 2004 r., z wyjàtkiem:
+**Art. 30.** Ustawa wchodzi w życie z dniem 1 lipca 2004 r., z wyjątkiem:
 
-**Art. 1.** Wustawie zdnia 2 marca 2000 r. oochronie niektórych praw konsumentów oraz o odpowiedzialnoÊci za szkod´ wyrzàdzonà przez produkt niebezpieczny (Dz. U. 22, poz. 271, zpóên. zm.
+**Art. 1.** Wustawie zdnia 2 marca 2000 r. oochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny (Dz. U. 22, poz. 271, zpóên. zm.
 

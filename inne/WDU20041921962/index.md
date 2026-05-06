@@ -26,21 +26,21 @@ domain: null
 
 **Art. 1.**
 
-1. W zwiàzku z przypadajàcà w roku 2011 czterechsetnà rocznicà utworzenia przez króla Polski Zygmunta III Waz´ Uniwersytetu w Poznaniu ustanawia si´ program wieloletni „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004—2011”, zwany dalej „Programem”.
+1. W związku z przypadającą w roku 2011 czterechsetną rocznicą utworzenia przez króla Polski Zygmunta III Wazę Uniwersytetu w Poznaniu ustanawia się program wieloletni ŃUniwersytet im. Adama Mickiewicza w Poznaniu 2004—2011”, zwany dalej ŃProgramem”.
 
-2. Ustala si´ okres realizacji Programu na lata 2004—2011.
+2. Ustala się okres realizacji Programu na lata 2004—2011.
 
-**Art. 2.** Nadzór nad realizacjà Programu sprawuje minister w∏aÊciwy do spraw szkolnictwa wy˝szego.
+**Art. 2.** Nadzór nad realizacją Programu sprawuje minister właściwy do spraw szkolnictwa wyższego.
 
 **Art. 3.**
 
-1. ¸àczne nak∏ady bud˝etu paƒstwa na dofinansowanie Programu wca∏ym okresie jego realizacji nie mogà przekroczyç kwoty 311 726 tys. z∏, przy wartoÊci kosztorysowej zadaƒ inwestycyjnych obj´tych Programem wynoszàcej 415 726 tys. z∏ wcenach roku
+1. Ęączne nakłady budżetu państwa na dofinansowanie Programu wcałym okresie jego realizacji nie mogą przekroczyć kwoty 311 726 tys. zł, przy wartości kosztorysowej zadań inwestycyjnych objętych Programem wynoszącej 415 726 tys. zł wcenach roku
 
 2004.
 
-2. Ârodki finansowe z bud˝etu paƒstwa, o których mowa w ust. 1, uwzgl´dnia si´ ka˝dego roku w ustawie bud˝etowej.
+2. Ârodki finansowe z budżetu państwa, o których mowa w ust. 1, uwzględnia się każdego roku w ustawie budżetowej.
 
-**Art. 4.** Ustawa wchodzi w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1962 USTAWA z dnia 22 lipca 2004 r. o ustanowieniu programu wieloletniego „Uniwersytet im. Adama Mickiewicza w Poznaniu 2004—2011” 1963 USTAWA z dnia 30 lipca 2004 r. o zmianie ustawy o Êwiadczeniach rodzinnych
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1962 USTAWA z dnia 22 lipca 2004 r. o ustanowieniu programu wieloletniego ŃUniwersytet im. Adama Mickiewicza w Poznaniu 2004—2011” 1963 USTAWA z dnia 30 lipca 2004 r. o zmianie ustawy o świadczeniach rodzinnych
 
-**Art. 1.** W ustawie z dnia 28 listopada 2003 r. o Êwiadczeniach rodzinnych (Dz. U. Nr 228, poz. 2255 oraz z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593 i Nr 99, poz. 1001) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 28 listopada 2003 r. o świadczeniach rodzinnych (Dz. U. Nr 228, poz. 2255 oraz z 2004 r. Nr 35, poz. 305, Nr 64, poz. 593 i Nr 99, poz. 1001) wprowadza się następujące zmiany:
 

@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# ust. 1 i art. 11 ust. 2, zostanà wydane do dnia 30 listo- kwoty B.
+# ust. 1 i art. 11 ust. 2, zostaną wydane do dnia 30 listo- kwoty B.
 
 | Pole | Wartość |
 |---|---|
@@ -25,444 +25,454 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010760811) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/811/text.pdf) |
 
 pada 2001 r.
-3. Agencja Restrukturyzacji i Modernizacji Rolnic22. 1. Agencja Restrukturyzacji i Modernizacji twa przeka˝e posiadanà dokumentacj´ dotyczàcà op∏at Rolnictwa do dnia 31 marca 2002 r. dokona koƒcowe- i dop∏at do eksportu cukru Agencji Rynku Rolnego go rozliczenia iprzekazania dop∏at producentom cukru wterminie do dnia 30 wrzeÊnia 2002 r.
-do wyeksportowanego cukru wkwocie Bw2001 r. Dop∏aty te b´dà realizowane przez Agencj´ do wysokoÊci 23. Ustawa wchodzi w˝ycie po up∏ywie 30 dni Êrodków zgromadzonych na wydzielonym rachunku od dnia og∏oszenia, zwyjàtkiem: Agencji, pochodzàcych zop∏at wnoszonych przez pod- 1) art. 17 i22, które wchodzà w˝ycie zdniem 1 styczmioty nabywajàce cukier od producentów cukru na za- nia 2002 r., opatrzenie rynku krajowego, w okresie od 1 stycznia 2001 r. do 31 grudnia 2001 r., powi´kszone oniewyko- 2) art. 19 pkt 1—3, które wchodzà w ˝ycie z dniem rzystane Êrodki na dop∏aty producentom cukru wokre- 1paêdziernika 2002 r.,iart. 19 pkt 4, który wchodzi sie od 1 stycznia 2000 r. do 31 grudnia 2000 r. w˝ycie zdniem 1 stycznia 2002 r.
-2. Agencja Restrukturyzacji i Modernizacji Rolnictwa przeka˝e na rachunek Agencji Rynku Rolnego, Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+3. Agencja Restrukturyzacji i Modernizacji Rolnic22. 1. Agencja Restrukturyzacji i Modernizacji twa przekaże posiadaną dokumentację dotyczącą opłat Rolnictwa do dnia 31 marca 2002 r. dokona końcowe- i dopłat do eksportu cukru Agencji Rynku Rolnego go rozliczenia iprzekazania dopłat producentom cukru wterminie do dnia 30 września 2002 r.
+do wyeksportowanego cukru wkwocie Bw2001 r. Dopłaty te będą realizowane przez Agencję do wysokości 23. Ustawa wchodzi wżycie po upływie 30 dni środków zgromadzonych na wydzielonym rachunku od dnia ogłoszenia, zwyjątkiem: Agencji, pochodzących zopłat wnoszonych przez pod- 1) art. 17 i22, które wchodzą wżycie zdniem 1 styczmioty nabywające cukier od producentów cukru na za- nia 2002 r., opatrzenie rynku krajowego, w okresie od 1 stycznia 2001 r. do 31 grudnia 2001 r., powiększone oniewyko- 2) art. 19 pkt 1—3, które wchodzą w życie z dniem rzystane środki na dopłaty producentom cukru wokre- 1paêdziernika 2002 r.,iart. 19 pkt 4, który wchodzi sie od 1 stycznia 2000 r. do 31 grudnia 2000 r. wżycie zdniem 1 stycznia 2002 r.
+2. Agencja Restrukturyzacji i Modernizacji Rolnictwa przekaże na rachunek Agencji Rynku Rolnego, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 USTAWA zdnia 22 czerwca 2001 r.
 oorganizmach genetycznie zmodyfikowanych.
-Rozdzia∏ 1 Przepisy ogólne
 1.Ustawa reguluje:
-1) zamkni´te u˝ycie organizmów genetycznie zmodyfikowanych, zwanych dalej „GMO”,
-2) zamierzone uwalnianie GMO do Êrodowiska, wcelach innych ni˝ wprowadzanie do obrotu,
+1) zamknięte użycie organizmów genetycznie zmodyfikowanych, zwanych dalej ŃGMO”,
+2) zamierzone uwalnianie GMO do środowiska, wcelach innych niż wprowadzanie do obrotu,
 3) wprowadzanie do obrotu produktów GMO,
-4) wywóz za granic´ itranzyt produktów GMO,
-5) w∏aÊciwoÊç organów administracji rzàdowej do spraw GMO.
-2. 1. Ustawy nie stosuje si´ do modyfikacji genetycznych genomu ludzkiego.
-2. W sprawach dotyczàcych ˝ywnoÊci i Êrodków farmaceutycznych stosuje si´ przepisy o warunkach zdrowotnych ˝ywnoÊci i˝ywienia iprzepisy oÊrodkach farmaceutycznych, o ile nie sà sprzeczne z przepisami ustawy.
-3.Ilekroç wustawie jest mowa o:
-1) organizmie rozumie si´ przez to ka˝dà jednostk´ biologicznà, komórkowà lub niekomórkowà, zdolnà do replikacji iprzenoszenia materia∏u genetycznego, ∏àcznie z wirusami i wiroidami; przez organizm rozumie si´ równie˝ kultury komórkowe
-2) organizmie genetycznie zmodyfikowanym rozumie si´ przez to organizm inny ni˝ organizm cz∏owieka, w którym materia∏ genetyczny zosta∏ zmieniony w sposób niezachodzàcy w warunkach naturalnych wskutek krzy˝owania lub naturalnej rekombinacji, w szczególnoÊci przy zastosowaniu:
-a) technik rekombinacji DNA z u˝yciem wektorów, w tym tworzenia materia∏u genetycznego poprzez w∏àczenie do wirusa, plazmidu lub ka˝dego innego wektora czàsteczek DNA wytworzonych poza organizmem iw∏àczenie ich do orgaitkankowe roÊlin izwierzàt oraz plazmidy, nizmu biorcy, w którym w warunkach naturalnych nie wyst´pujà, ale w którym sà zdolne do ciàg∏ego powielania,
-b) technik stosujàcych bezpoÊrednie w∏àczenie materia∏u dziedzicznego przygotowanego poza organizmem, a w szczególnoÊci: mikroiniekcji, makroiniekcji imikrokapsu∏kowania,
-c) metod niewyst´pujàcych wprzyrodzie dla po∏àczenia materia∏u genetycznego co najmniej dwóch ró˝nych komórek, gdzie wwyniku zastosowanej procedury powstaje nowa komórka zdolna do przekazywania swego materia∏u genetycznego odmiennego od materia∏u wyjÊciowego komórkom potomnym,
-3) zamkni´tym u˝yciu GMO rozumie si´ przez to ka˝de dzia∏anie polegajàce na modyfikacji genetycznej organizmów oraz procedury, wed∏ug których GMO sà hodowane, przechowywane, transstosowane sà specjalne zabezpieczenia w celu ograniczenia kontaktu GMO z ludêmi i Êrodowiskiem,
-4) zamierzonym uwolnieniu GMO do Êrodowiska rozumie si´ przez to ka˝de dzia∏anie polegajàce na zamierzonym wprowadzeniu do Êrodowiska GMO albo ich kombinacji, bez zabezpieczeƒ ograniczajàcych rozprzestrzenianie, takich jak bariery fizyczne lub po∏àczenie barier fizycznych z barierami chemicznymi lub biologicznymi, majàcych na celu ograniczenie kontaktu GMO z ludêmi i Êrodowiskiem,
-5) wprowadzeniu do obrotu rozumie si´ przez to zamierzone uwolnienie GMO do Êrodowiska,polegajàce na dostarczaniu lub udost´pnianiu osobom trzecim, odp∏atnie lub nieodp∏atnie, produktu GMO, w tym wprowadzanie na rynek w wyniku produkcji lub dopuszczenie do obrotu na polskim obszarze celnym wramach obrotu handlowego,
-6) produkcie GMO rozumie si´ przez to GMO lub ka˝dy wyrób sk∏adajàcy si´ zGMO lub zawierajàcy GMO lub ich fragmenty lub kombinacj´ GMO, który jest wprowadzany do obrotu lub wywo˝ony za granic´ bàdê przewo˝ony tranzytem przez terytorium Rzeczypospolitej Polskiej,
-7) u˝ytkowniku GMO rozumie si´ przez to osob´ fizycznà lub prawnà bàdê te˝ jednostk´ organizacyjnà nieposiadajàcà osobowoÊci prawnej, dokonujàcà na w∏asny rachunek operacji zamkni´tego u˝ycia GMO lub dzia∏ania polegajàcego na zamierzonym uwolnieniu GMO do Êrodowiska, wtym wprowadzenia do obrotu produktów GMO,
-8) awarii rozumie si´ przez to ka˝dy przypadek niezamierzonego uwolnienia GMO w trakcie ich zamkni´tego u˝ycia, który mo˝e stanowiç bezpoÊrednie lub opóênione zagro˝enie dla zdrowia ludzi lub Êrodowiska,
-9) dobrej praktyce laboratoryjnej rozumie si´ przez to sposób planowania, przeprowadzania i dokumentowania badaƒ laboratoryjnych zapewniajàcy wykorzystanie najnowszej wiedzy biologicznej itechnicznej oraz wiarygodnoÊç ipewnoÊç uzyskanych wyników,
-10) dawcy rozumie si´ przez to organizm, zktórego pobierane jest DNA,
-11) biorcy rozumie si´ przez to organizm, do którego wprowadzane jest DNA,
-12) wektorze rozumie si´ przez to czàsteczk´ DNA, która pozwala na wprowadzenie i stabilne utrzymanie czàsteczek DNA worganizmie biorcy,
-13) insercie rozumie si´ przez to odcinek DNA w∏àczony do genomu biorcy,
-14) mikroiniekcji, makroiniekcji, mikrokapsu∏kowaniu rozumie si´ przez to metody modyfikacji genetycznych s∏u˝àce do przenoszenia DNA z jednego organizmu do drugiego,
-15) fuzji protoplastów rozumie si´ przez to proces prowadzàcy do po∏àczenia si´ co najmniej dwóch wbakteriach,
-17) mutagenezie rozumie si´ przez to indukowanie mutacji, czyli skokowych zmian dziedzicznych, w szczególnoÊci za pomocà promieniowania jonizujàcego albo substancji chemicznych,
-18) plazmidzie rozumie si´ przez to kolistà pozachromosomowà struktur´ zdolnà do niezale˝nej od biorcy replikacji czàstek DNA,
-19) poliploidyzacji rozumie si´ przez to metod´ hodowlanà polegajàcà na sztucznym wytwarzaniu osobników o zwi´kszonej liczbie chromosomów.
-4.Za techniki prowadzàce do otrzymania GMO nie uwa˝a si´, wrozumieniu ustawy:
-1) zap∏odnienia in vitro,
-2) procesów naturalnych, awszczególnoÊci koniugacji, transdukcji itransformacji, protoplastów wjeden protoplast mieszaƒcowy,
+4) wywóz za granicę itranzyt produktów GMO,
+5) właściwość organów administracji rządowej do spraw GMO.
+2. 1. Ustawy nie stosuje się do modyfikacji genetycznych genomu ludzkiego.
+2. W sprawach dotyczących żywności i środków farmaceutycznych stosuje się przepisy o warunkach zdrowotnych żywności iżywienia iprzepisy ośrodkach farmaceutycznych, o ile nie są sprzeczne z przepisami ustawy.
+3.Ilekroć wustawie jest mowa o:
+1) organizmie rozumie się przez to każdą jednostkę biologiczną, komórkową lub niekomórkową, zdolną do replikacji iprzenoszenia materiału genetycznego, łącznie z wirusami i wiroidami; przez organizm rozumie się również kultury komórkowe
+2) organizmie genetycznie zmodyfikowanym rozumie się przez to organizm inny niż organizm człowieka, w którym materiał genetyczny został zmieniony w sposób niezachodzący w warunkach naturalnych wskutek krzyżowania lub naturalnej rekombinacji, w szczególności przy zastosowaniu:
+a) technik rekombinacji DNA z użyciem wektorów, w tym tworzenia materiału genetycznego poprzez włączenie do wirusa, plazmidu lub każdego innego wektora cząsteczek DNA wytworzonych poza organizmem iwłączenie ich do orgaitkankowe roślin izwierząt oraz plazmidy, nizmu biorcy, w którym w warunkach naturalnych nie występują, ale w którym są zdolne do ciągłego powielania,
+b) technik stosujących bezpośrednie włączenie materiału dziedzicznego przygotowanego poza organizmem, a w szczególności: mikroiniekcji, makroiniekcji imikrokapsułkowania,
+c) metod niewystępujących wprzyrodzie dla połączenia materiału genetycznego co najmniej dwóch różnych komórek, gdzie wwyniku zastosowanej procedury powstaje nowa komórka zdolna do przekazywania swego materiału genetycznego odmiennego od materiału wyjściowego komórkom potomnym,
+3) zamkniętym użyciu GMO rozumie się przez to każde działanie polegające na modyfikacji genetycznej organizmów oraz procedury, według których GMO są hodowane, przechowywane, transstosowane są specjalne zabezpieczenia w celu ograniczenia kontaktu GMO z ludêmi i środowiskiem,
+4) zamierzonym uwolnieniu GMO do środowiska rozumie się przez to każde działanie polegające na zamierzonym wprowadzeniu do środowiska GMO albo ich kombinacji, bez zabezpieczeń ograniczających rozprzestrzenianie, takich jak bariery fizyczne lub połączenie barier fizycznych z barierami chemicznymi lub biologicznymi, mających na celu ograniczenie kontaktu GMO z ludêmi i środowiskiem,
+5) wprowadzeniu do obrotu rozumie się przez to zamierzone uwolnienie GMO do środowiska,polegające na dostarczaniu lub udostępnianiu osobom trzecim, odpłatnie lub nieodpłatnie, produktu GMO, w tym wprowadzanie na rynek w wyniku produkcji lub dopuszczenie do obrotu na polskim obszarze celnym wramach obrotu handlowego,
+6) produkcie GMO rozumie się przez to GMO lub każdy wyrób składający się zGMO lub zawierający GMO lub ich fragmenty lub kombinację GMO, który jest wprowadzany do obrotu lub wywożony za granicę bądê przewożony tranzytem przez terytorium Rzeczypospolitej Polskiej,
+7) użytkowniku GMO rozumie się przez to osobę fizyczną lub prawną bądê też jednostkę organizacyjną nieposiadającą osobowości prawnej, dokonującą na własny rachunek operacji zamkniętego użycia GMO lub działania polegającego na zamierzonym uwolnieniu GMO do środowiska, wtym wprowadzenia do obrotu produktów GMO,
+8) awarii rozumie się przez to każdy przypadek niezamierzonego uwolnienia GMO w trakcie ich zamkniętego użycia, który może stanowić bezpośrednie lub opóênione zagrożenie dla zdrowia ludzi lub środowiska,
+9) dobrej praktyce laboratoryjnej rozumie się przez to sposób planowania, przeprowadzania i dokumentowania badań laboratoryjnych zapewniający wykorzystanie najnowszej wiedzy biologicznej itechnicznej oraz wiarygodność ipewność uzyskanych wyników,
+10) dawcy rozumie się przez to organizm, zktórego pobierane jest DNA,
+11) biorcy rozumie się przez to organizm, do którego wprowadzane jest DNA,
+12) wektorze rozumie się przez to cząsteczkę DNA, która pozwala na wprowadzenie i stabilne utrzymanie cząsteczek DNA worganizmie biorcy,
+13) insercie rozumie się przez to odcinek DNA włączony do genomu biorcy,
+14) mikroiniekcji, makroiniekcji, mikrokapsułkowaniu rozumie się przez to metody modyfikacji genetycznych służące do przenoszenia DNA z jednego organizmu do drugiego,
+15) fuzji protoplastów rozumie się przez to proces prowadzący do połączenia się co najmniej dwóch wbakteriach,
+17) mutagenezie rozumie się przez to indukowanie mutacji, czyli skokowych zmian dziedzicznych, w szczególności za pomocą promieniowania jonizującego albo substancji chemicznych,
+18) plazmidzie rozumie się przez to kolistą pozachromosomową strukturę zdolną do niezależnej od biorcy replikacji cząstek DNA,
+19) poliploidyzacji rozumie się przez to metodę hodowlaną polegającą na sztucznym wytwarzaniu osobników o zwiększonej liczbie chromosomów.
+4.Za techniki prowadzące do otrzymania GMO nie uważa się, wrozumieniu ustawy:
+1) zapłodnienia in vitro,
+2) procesów naturalnych, awszczególności koniugacji, transdukcji itransformacji, protoplastów wjeden protoplast mieszańcowy,
 3) klonowania komórek somatycznych irozrodczych,
-4) technik zwiàzanych z tradycyjnà genetykà, awszczególnoÊci mutagenezy ipoliploidyzacji, je˝eli w ramach tych technik nie wykorzystuje si´ GMO jako biorców lub organizmów rodzicielskich,
-5) konstruowania i u˝ytkowania komórek somatycznych zwierz´cych, w tym hybryd, fuzji komórek, wtym fuzji protoplastów, zktórych to komórek mogà byç regenerowane pe∏ne uk∏ady biologiczne, je˝eli w ramach tych technik nie wykorzystuje si´ GMO jako biorców lub organizmów rodzicielskich, je˝eli nie obejmujà one wykorzystywania czàstek rekombinowanego DNA lub GMO.
-5. 1. Uzyskanie zgody na zamkni´te u˝ycie GMO lub na zamierzone uwolnienie GMO do Êrodowiska oraz zezwolenia na wprowadzenie do obrotu produktów GMO nie zwalnia od obowiàzku uzyskania zezwoleƒ lub innych decyzji zwiàzanych z podejmowaniem takich dzia∏aƒ, wymaganych na podstawie odr´bnych przepisów.
-2. Za wydanie zgód i zezwoleƒ, októrych mowa w rozdzia∏ach 3—6 ustawy, pobiera si´ op∏at´ skarbowà.
-6.1. Podj´cie operacji polegajàcej na zamkni´tym u˝yciu GMO lub dzia∏aƒ polegajàcych na zamierzonym uwolnieniu GMO do Êrodowiska, wtym wprowadzeniu do obrotu produktów GMO, wymaga przeprowadzenia oceny zagro˝eƒ dla zdrowia ludzi i Êrodowiska, zwanej dalej „ocenà zagro˝eƒ”, oraz zastosowania niezb´dnych Êrodków wcelu unikni´cia tych zagro˝eƒ.
-2. Szczególne Êrodki bezpieczeƒstwa sà wymagane wodniesieniu do GMO zawierajàcych geny odpornoÊci na antybiotyki stosowane wleczeniu ludzi izwierzàt.
-3. Ocen´ zagro˝eƒ nale˝y przeprowadzaç wsposób poddajàcy si´ weryfikacji na podstawie dost´pnych danych naukowo-technicznych, bioràc pod uwag´ zagro˝enia bezpoÊrednie ipoÊrednie, które mogà wystàpiç zarówno wkrótkim, jak id∏u˝szym okresie.
-ministrem w∏aÊciwym do spraw rolnictwa iministrem w∏aÊciwym do spraw nauki, okreÊli, wdrodze rozporzàdzenia, szczegó∏owy sposób przeprowadzania oceny, októrej mowa wust. 1, oraz wymagania dotyczàce dokumentacji zawierajàcej ustalenia takiej oceny, bioràc pod uwag´ wymagania okreÊlone wart. 7 iart. 8.
-7. 1. Przeprowadzajàc ocen´ zagro˝eƒ zamkni´tego u˝ycia GMO, nale˝y wszczególnoÊci:
-1) zidentyfikowaç cechy biorcy, dawcy, wektora, insertu oraz powsta∏ego GMO, w∏àczajàc wto mo˝liwe zmiany cech biorcy,
-2) okreÊliç mogàce wystàpiç szkodliwe skutki przeprowadzenia zamkni´tego u˝ycia GMO oraz prawdopodobieƒstwo wystàpienia tych skutków,
-3) opisaç planowany sposób post´powania zodpadami powstajàcymi wskutek zamkni´tego u˝ycia GMO.
-2. Przez szkodliwe skutki, októrych mowa wust. 1 pkt 2, nale˝y rozumieç wszczególnoÊci:
-1) chorobotwórczy wp∏yw GMO na ludzi,
-2) chorobotwórczy wp∏yw GMO na roÊliny i zwierz´ta,
-3) niepo˝àdane efekty wynikajàce z niemo˝noÊci leczenia chorób lub prowadzenia skutecznej profilaktyki,
-4) niepo˝àdane efekty wynikajàce z przedostania si´ GMO do Êrodowiska irozprzestrzeniania si´ wnim,
-5) zdolnoÊç naturalnego przenoszenia zawartego materia∏u genetycznego do innych organizmów.
-8. Przeprowadzajàc ocen´ zagro˝eƒ w odniesieniu do dzia∏aƒ polegajàcych na zamierzonym uwolnieniu GMO do Êrodowiska, w tym wprowadzeniu do obrotu produktów GMO, nale˝y wszczególnoÊci:
-1) zidentyfikowaç cechy lub sposób u˝ycia GMO, które mogà wywo∏ywaç szkodliwe skutki,oraz porównaç je z cechami organizmu niezmodyfikowanego ijego u˝yciem wpodobnych warunkach,
-2) oceniç potencjalne skutki ka˝dego szkodliwego oddzia∏ywania, bioràc pod uwag´ cechy Êrodowiska, do którego nast´puje uwolnienie, oraz sposób uwolnienia,
-3) oszacowaç prawdopodobieƒstwo wystàpienia ka˝dego z potencjalnych skutków, o których mowa wpkt 2,
-4) okreÊliç sposoby przeciwdzia∏ania zagro˝eniom iich potencjalnym skutkom.
-Rozdzia∏ 2 Organ administracji rzàdowej w∏aÊciwy do spraw GMO
-9. Organem administracji rzàdowej w∏aÊciwym do spraw GMO jest minister w∏aÊciwy do spraw Êrodo1) wydawanie zgody na:
-a) zamierzone uwolnienie GMO do Êrodowiska,
-b) zamkni´te u˝ycie GMO,
-2) wydawanie zezwoleƒ na:
+4) technik związanych z tradycyjną genetyką, awszczególności mutagenezy ipoliploidyzacji, jeżeli w ramach tych technik nie wykorzystuje się GMO jako biorców lub organizmów rodzicielskich,
+5) konstruowania i użytkowania komórek somatycznych zwierzęcych, w tym hybryd, fuzji komórek, wtym fuzji protoplastów, zktórych to komórek mogą być regenerowane pełne układy biologiczne, jeżeli w ramach tych technik nie wykorzystuje się GMO jako biorców lub organizmów rodzicielskich, jeżeli nie obejmują one wykorzystywania cząstek rekombinowanego DNA lub GMO.
+5. 1. Uzyskanie zgody na zamknięte użycie GMO lub na zamierzone uwolnienie GMO do środowiska oraz zezwolenia na wprowadzenie do obrotu produktów GMO nie zwalnia od obowiązku uzyskania zezwoleń lub innych decyzji związanych z podejmowaniem takich działań, wymaganych na podstawie odrębnych przepisów.
+2. Za wydanie zgód i zezwoleń, októrych mowa w rozdziałach 3—6 ustawy, pobiera się opłatę skarbową.
+6.1. Podjęcie operacji polegającej na zamkniętym użyciu GMO lub działań polegających na zamierzonym uwolnieniu GMO do środowiska, wtym wprowadzeniu do obrotu produktów GMO, wymaga przeprowadzenia oceny zagrożeń dla zdrowia ludzi i środowiska, zwanej dalej Ńoceną zagrożeń”, oraz zastosowania niezbędnych środków wcelu uniknięcia tych zagrożeń.
+2. Szczególne środki bezpieczeństwa są wymagane wodniesieniu do GMO zawierających geny odporności na antybiotyki stosowane wleczeniu ludzi izwierząt.
+3. Ocenę zagrożeń należy przeprowadzać wsposób poddający się weryfikacji na podstawie dostępnych danych naukowo-technicznych, biorąc pod uwagę zagrożenia bezpośrednie ipośrednie, które mogą wystąpić zarówno wkrótkim, jak idłuższym okresie.
+ministrem właściwym do spraw rolnictwa iministrem właściwym do spraw nauki, określi, wdrodze rozporządzenia, szczegółowy sposób przeprowadzania oceny, októrej mowa wust. 1, oraz wymagania dotyczące dokumentacji zawierającej ustalenia takiej oceny, biorąc pod uwagę wymagania określone wart. 7 iart. 8.
+7. 1. Przeprowadzając ocenę zagrożeń zamkniętego użycia GMO, należy wszczególności:
+1) zidentyfikować cechy biorcy, dawcy, wektora, insertu oraz powstałego GMO, włączając wto możliwe zmiany cech biorcy,
+2) określić mogące wystąpić szkodliwe skutki przeprowadzenia zamkniętego użycia GMO oraz prawdopodobieństwo wystąpienia tych skutków,
+3) opisać planowany sposób postępowania zodpadami powstającymi wskutek zamkniętego użycia GMO.
+2. Przez szkodliwe skutki, októrych mowa wust. 1 pkt 2, należy rozumieć wszczególności:
+1) chorobotwórczy wpływ GMO na ludzi,
+2) chorobotwórczy wpływ GMO na rośliny i zwierzęta,
+3) niepożądane efekty wynikające z niemożności leczenia chorób lub prowadzenia skutecznej profilaktyki,
+4) niepożądane efekty wynikające z przedostania się GMO do środowiska irozprzestrzeniania się wnim,
+5) zdolność naturalnego przenoszenia zawartego materiału genetycznego do innych organizmów.
+8. Przeprowadzając ocenę zagrożeń w odniesieniu do działań polegających na zamierzonym uwolnieniu GMO do środowiska, w tym wprowadzeniu do obrotu produktów GMO, należy wszczególności:
+1) zidentyfikować cechy lub sposób użycia GMO, które mogą wywoływać szkodliwe skutki,oraz porównać je z cechami organizmu niezmodyfikowanego ijego użyciem wpodobnych warunkach,
+2) ocenić potencjalne skutki każdego szkodliwego oddziaływania, biorąc pod uwagę cechy środowiska, do którego następuje uwolnienie, oraz sposób uwolnienia,
+3) oszacować prawdopodobieństwo wystąpienia każdego z potencjalnych skutków, o których mowa wpkt 2,
+4) określić sposoby przeciwdziałania zagrożeniom iich potencjalnym skutkom.
+9. Organem administracji rządowej właściwym do spraw GMO jest minister właściwy do spraw środo1) wydawanie zgody na:
+a) zamierzone uwolnienie GMO do środowiska,
+b) zamknięte użycie GMO,
+2) wydawanie zezwoleń na:
 a) wprowadzenie do obrotu produktów GMO,
 b) wywóz lub tranzyt produktów GMO,
-3) koordynacja kontroli i monitorowania dzia∏alnoÊci regulowanej ustawà,
-4) koordynacja gromadzenia iwymiany informacji dotyczàcych zapewnienia bezpieczeƒstwa ludzi iÊrodowiska wzakresie GMO.
-11. 1. Minister sprawuje nadzór oraz kontrol´ przestrzegania przepisów ustawy.
-2. Kontrolujàcy jest uprawniony w szczególnoÊci do:
-1) wst´pu, wraz zniezb´dnym sprz´tem, na teren niewiska, zwany dalej „ministrem”.
-ruchomoÊci, obiektu, lokalu lub ich cz´Êci, gdzie sà wykonywane operacje zamkni´tego u˝ycia GMO, dzia∏ania polegajàce na zamierzonym uwolnieniu GMO do Êrodowiska, wtym wprowadzeniu do obrotu produktów GMO,
-2) ˝àdania ustnych lub pisemnych wyjaÊnieƒ, okazania dokumentów lub innych noÊników informacji oraz udost´pnienia danych majàcych zwiàzek zprzedmiotem kontroli.
-3. CzynnoÊci kontrolnych dokonuje si´ wobecnoÊci kontrolowanego, osoby zast´pujàcej kontrolowanego lub przez niego zatrudnionej.
-4. Kontrol´ przestrzegania przepisów ustawy sprawujà ponadto, w zakresie obj´tym swojà w∏aÊciwoÊcià:
+3) koordynacja kontroli i monitorowania działalności regulowanej ustawą,
+4) koordynacja gromadzenia iwymiany informacji dotyczących zapewnienia bezpieczeństwa ludzi iśrodowiska wzakresie GMO.
+11. 1. Minister sprawuje nadzór oraz kontrolę przestrzegania przepisów ustawy.
+2. Kontrolujący jest uprawniony w szczególności do:
+1) wstępu, wraz zniezbędnym sprzętem, na teren niewiska, zwany dalej Ńministrem”.
+ruchomości, obiektu, lokalu lub ich części, gdzie są wykonywane operacje zamkniętego użycia GMO, działania polegające na zamierzonym uwolnieniu GMO do środowiska, wtym wprowadzeniu do obrotu produktów GMO,
+2) żądania ustnych lub pisemnych wyjaśnień, okazania dokumentów lub innych nośników informacji oraz udostępnienia danych mających związek zprzedmiotem kontroli.
+3. Czynności kontrolnych dokonuje się wobecności kontrolowanego, osoby zastępującej kontrolowanego lub przez niego zatrudnionej.
+4. Kontrolę przestrzegania przepisów ustawy sprawują ponadto, w zakresie objętym swoją właściwością:
 1) Inspekcja Sanitarna,
-2) Inspekcja Ochrony RoÊlin,
+2) Inspekcja Ochrony Roślin,
 3) Inspekcja Nasienna,
 4) Inspekcja Ochrony Ârodowiska,
 5) Inspekcja Weterynaryjna,
 6) Inspekcja Handlowa,
-7) Paƒstwowa Inspekcja Pracy,
+7) Państwowa Inspekcja Pracy,
 8) organy administracji celnej w zakresie kontroli legalnego obrotu GMO,
-9) Inspekcja Skupu i Przetwórstwa Artyku∏ów Rolnych.
-5. Organy, októrych mowa wust. 4, przeprowadzajà kontrol´ na wniosek ministra.
-6. Organy, o których mowa w ust. 4, sà obowiàzane niezw∏ocznie powiadomiç ministra ostwierdzonych zagro˝eniach zwiàzanych z GMO i podj´tych w zwiàzku ztym dzia∏aniach.
-12.1. Tworzy si´ Komisj´ do spraw GMO, zwanà dalej „Komisjà”, jako organ opiniodawczo-doradczy ministra wzakresie GMO.
+9) Inspekcja Skupu i Przetwórstwa Artykułów Rolnych.
+5. Organy, októrych mowa wust. 4, przeprowadzają kontrolę na wniosek ministra.
+6. Organy, o których mowa w ust. 4, są obowiązane niezwłocznie powiadomić ministra ostwierdzonych zagrożeniach związanych z GMO i podjętych w związku ztym działaniach.
+12.1. Tworzy się Komisję do spraw GMO, zwaną dalej ŃKomisją”, jako organ opiniodawczo-doradczy ministra wzakresie GMO.
 1) po jednym przedstawicielu wskazanym przez:
-a) ministra w∏aÊciwego do spraw zdrowia,
-b) ministra w∏aÊciwego do spraw rolnictwa,
+a) ministra właściwego do spraw zdrowia,
+b) ministra właściwego do spraw rolnictwa,
 c) Ministra Obrony Narodowej,
-d) ministra w∏aÊciwego do spraw gospodarki,
-e) ministra w∏aÊciwego do spraw transportu,
-f) ministra w∏aÊciwego do spraw nauki,
-g) ministra w∏aÊciwego do spraw Êrodowiska,
-h) Prezesa Urz´du Ochrony Konkurencji i Konsumentów,
-2) siedmiu przedstawicieli nauki, ouznanym autorytecie ikompetencjach wdziedzinach ochrony Êrodowiska, ochrony zdrowia, bezpieczeƒstwa biologicznego, biotechnologii, hodowli roÊlin oraz etyki, powo∏ywanych po zasi´gni´ciu opinii ministra w∏aÊciwego do spraw nauki, ministra w∏aÊciwego do spraw zdrowia iministra w∏aÊciwego do spraw rolnictwa,
-3) przedstawiciel przedsi´biorców zwiàzanych z biotechnologià, powo∏ywany po zasi´gni´ciu opinii ministra w∏aÊciwego do spraw gospodarki i organizacji pracodawców,
-4) dwaj przedstawiciele pozarzàdowych organizacji ekologicznych, zg∏oszeniprzez te organizacje,
+d) ministra właściwego do spraw gospodarki,
+e) ministra właściwego do spraw transportu,
+f) ministra właściwego do spraw nauki,
+g) ministra właściwego do spraw środowiska,
+h) Prezesa Urzędu Ochrony Konkurencji i Konsumentów,
+2) siedmiu przedstawicieli nauki, ouznanym autorytecie ikompetencjach wdziedzinach ochrony środowiska, ochrony zdrowia, bezpieczeństwa biologicznego, biotechnologii, hodowli roślin oraz etyki, powoływanych po zasięgnięciu opinii ministra właściwego do spraw nauki, ministra właściwego do spraw zdrowia iministra właściwego do spraw rolnictwa,
+3) przedstawiciel przedsiębiorców związanych z biotechnologią, powoływany po zasięgnięciu opinii ministra właściwego do spraw gospodarki i organizacji pracodawców,
+4) dwaj przedstawiciele pozarządowych organizacji ekologicznych, zgłoszeniprzez te organizacje,
 5) przedstawiciel organizacji konsumenckich.
-3. Przewodniczàcego Komisji, zast´pców przewodniczàcego i sekretarza Komisji powo∏uje i odwo∏uje minister spoÊród cz∏onków Komisji.
-4. Cz∏onkostwo wKomisji ustaje przed up∏ywem jej kadencji wskutek Êmierci lub rezygnacji cz∏onka Komisji, atak˝e zpowodu odwo∏ania przez w∏aÊciwy organ przedstawicieli, októrych mowa wust. 2 pkt 1.
-5. W przypadkach, o których mowa w ust. 4, nowych cz∏onków Komisji powo∏uje si´ na okres pozosta∏y do koƒca kadencji.
-6. Cz∏onkom Komisji, októrych mowa w ust.2, bioràcym udzia∏ w posiedzeniach odbywajàcych si´ poza miejscowoÊcià ich zamieszkania, przys∏ugujà diety izwrot kosztów podró˝y inoclegów.
-7. Wydatki zwiàzane zdzia∏alnoÊcià Komisji pokrywane sà z bud˝etu paƒstwa z cz´Êci, której dysponentem jest minister.
-13. 1. Do zadaƒ Komisji nale˝y:
-1) opiniowanie wniosków w sprawach wydawania zgód lub zezwoleƒ, októrych mowa wart. 10 pkt 1 i2,
-2) wydawanie opinii w sprawach przedstawianych przez ministra w zakresie jego uprawnieƒ wynikajàcych zustawy,
-3) opiniowanie projektów aktów prawnych dotyczàcych GMO oraz bezpieczeƒstwa biologicznego,
-4) opiniowanie projektów za∏o˝eƒ polityki paƒstwa w dziedzinie zastosowaƒ GMO i bezpieczeƒstwa tur´ organizacyjnà oraz tryb pracy Komisji, bioràc pod uwag´ przypisane jej zadania.
-14. 1. Minister og∏asza w Dzienniku Urz´dowym, z zastrze˝eniem ust. 2, informacje o awariach, októrych mowa wart. 33, ich skutkach izagro˝eniach.
-2. Informacje dotyczàce danych technicznych, technologicznych, handlowych lub organizacyjnych, których ujawnienie mog∏oby naruszyç przepisy o ochronie informacji niejawnych lub danych jednostkowych w rozumieniu ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. 88, poz. 439, z 1996 r.
-156, poz. 775, z 1997 r. 88, poz. 554 i 121, poz.769 oraz z1998 r. 99, poz. 632 iNr 106, poz. 668) oraz informacje dotyczàce:
-1) spraw b´dàcych przedmiotem praw autorskich oraz patentowych, je˝eli ich udost´pnienie mog∏oby naruszyç te prawa,
+3. Przewodniczącego Komisji, zastępców przewodniczącego i sekretarza Komisji powołuje i odwołuje minister spośród członków Komisji.
+4. Członkostwo wKomisji ustaje przed upływem jej kadencji wskutek śmierci lub rezygnacji członka Komisji, atakże zpowodu odwołania przez właściwy organ przedstawicieli, októrych mowa wust. 2 pkt 1.
+5. W przypadkach, o których mowa w ust. 4, nowych członków Komisji powołuje się na okres pozostały do końca kadencji.
+6. Członkom Komisji, októrych mowa w ust.2, biorącym udział w posiedzeniach odbywających się poza miejscowością ich zamieszkania, przysługują diety izwrot kosztów podróży inoclegów.
+7. Wydatki związane zdziałalnością Komisji pokrywane są z budżetu państwa z części, której dysponentem jest minister.
+13. 1. Do zadań Komisji należy:
+1) opiniowanie wniosków w sprawach wydawania zgód lub zezwoleń, októrych mowa wart. 10 pkt 1 i2,
+2) wydawanie opinii w sprawach przedstawianych przez ministra w zakresie jego uprawnień wynikających zustawy,
+3) opiniowanie projektów aktów prawnych dotyczących GMO oraz bezpieczeństwa biologicznego,
+4) opiniowanie projektów założeń polityki państwa w dziedzinie zastosowań GMO i bezpieczeństwa turę organizacyjną oraz tryb pracy Komisji, biorąc pod uwagę przypisane jej zadania.
+14. 1. Minister ogłasza w Dzienniku Urzędowym, z zastrzeżeniem ust. 2, informacje o awariach, októrych mowa wart. 33, ich skutkach izagrożeniach.
+2. Informacje dotyczące danych technicznych, technologicznych, handlowych lub organizacyjnych, których ujawnienie mogłoby naruszyć przepisy o ochronie informacji niejawnych lub danych jednostkowych w rozumieniu ustawy z dnia 29 czerwca 1995 r. o statystyce publicznej (Dz. U. 88, poz. 439, z 1996 r.
+156, poz. 775, z 1997 r. 88, poz. 554 i 121, poz.769 oraz z1998 r. 99, poz. 632 iNr 106, poz. 668) oraz informacje dotyczące:
+1) spraw będących przedmiotem praw autorskich oraz patentowych, jeżeli ich udostępnienie mogłoby naruszyć te prawa,
 2) dokumentów lub danych dostarczonych przez osobiologicznego.
-by trzecie, je˝eli nie mia∏y one obowiàzku ich dostarczenia i z∏o˝y∏y zastrze˝enie o ich nieudost´pnianiu,
-3) dokumentów lub danych, których ujawnienie mog∏o spowodowaç zagro˝enie Êrodowiska, nie sà og∏aszane przez ministra.
-15.1. Minister wydaje zezwolenie, na przeprowadzanie badaƒ i wydawanie opinii w zakresie GMO, podmiotom ubiegajàcym si´ o przeprowadzanie badaƒ iwydawanie opinii wzakresie GMO, je˝eli podmioty te posiadajà:
-1) odpowiednie wyposa˝enie techniczne umo˝liwiajàce przeprowadzanie badaƒ GMO,
-2) wyspecjalizowany personel, o odpowiednim wykszta∏ceniu, mogàcy zagwarantowaç w∏aÊciwà prac´ jednostki,
-3) pi´cioletnie doÊwiadczenie wbadaniach GMO,
-4) ustalone procedury reklamacyjne oraz odwo∏awcze wzakresie prowadzonej dzia∏alnoÊci,
-5) ubezpieczenie od odpowiedzialnoÊci cywilnej dla ryzyka zwiàzanego zprowadzonà dzia∏alnoÊcià.
-2. Minister w∏aÊciwy do spraw Êrodowiska, wporozumieniu zministrem w∏aÊciwym do spraw rolnictwa, okreÊli, w drodze rozporzàdzenia, zakres przedmiotowy badaƒ dla podmiotów ubiegajàcych si´ oich przeprowadzanie i wydawanie opinii w dziedzinie GMO, uwzgl´dniajàc wszczególnoÊci profil dzia∏alnoÊci tych podmiotów, kwalifikacje zatrudnionych w nich pracowników oraz posiadane wyposa˝enie techniczne.
-Rozdzia∏ 3 Zamkni´te u˝ycie GMO
-16.Zamkni´te u˝ycie GMO wymaga uzyskania zgody ministra, chyba ˝e przepisy niniejszego rozdzia∏u stanowià inaczej.
-rie dzia∏aƒ zamkni´tego u˝ycia GMO:
-1) kategoria I— dzia∏ania niepowodujàce zagro˝eƒ,
-2) kategoria II dzia∏ania oniewielkich zagro˝eniach,
-3) kategoria III dzia∏ania oumiarkowanych zagro˝eniach,
-4) kategoria IV dzia∏ania niosàce du˝e zagro˝enia.
-2. Klasyfikacji dzia∏aƒ zamkni´tego u˝ycia GMO do jednej z kategorii, o których mowa w ust. 1, dokonuje u˝ytkownik GMO, przeprowadzajàc ocen´ zagro˝eƒ.
-3. U˝ytkownik GMO ma obowiàzek przestrzegania szczegó∏owych wymagaƒ odnoÊnie do poziomów irodzajów zabezpieczeƒ, okreÊlonych dla poszczególnych kategorii dzia∏aƒ zamkni´tego u˝ycia GMO.
-4. W razie wàtpliwoÊci, do której kategorii dzia∏aƒ zamkni´tego u˝ycia GMO powinno byç zaliczone dane dzia∏anie, u˝ytkownik GMO jest obowiàzany stosowaç poziomy i rodzaje zabezpieczeƒ okreÊlone dla kategorii dzia∏ania owy˝szym stopniu zagro˝enia.
-5. Podzia∏ na kategorie dzia∏aƒ, o których mowa w ust. 1, nast´puje na podstawie uprzednio przeprowadzonej oceny zagro˝eƒ, jakie mogà stwarzaç dzia∏ania zamkni´tego u˝ycia GMO dla zdrowia ludzi iÊrodowiska.
-6. Ocena zagro˝eƒ opiera si´ na:
-1) identyfikacji wszelkich mo˝liwych szkodliwych skutków, w szczególnoÊci zwiàzanych z organizmem biorcy, wprowadzonym materia∏em genetycznym pochodzàcym zorganizmu dawcy lub mikroorganizmem dawcy, tak d∏ugo jak mikroorganizm jest wykorzystywany do dzia∏ania, wektorem oraz powsta∏ym GMO,
-2) opisie charakteru czynnoÊci, wtym okreÊleniu skali dzia∏ania,
-3) okreÊleniu mo˝liwych szkodliwych skutków oraz mo˝liwoÊci ich wystàpienia.
-7. Czynniki wp∏ywajàce na rzeczywiste zagro˝enie imogàce podwy˝szyç lub obni˝yç kategori´ zagro˝enia to:
-1) skala dzia∏ania,
-2) mo˝liwoÊç rozprzestrzeniania w Êrodowisku na skutek krzy˝owania, rozsiewania, przenoszenia do innych gatunków,
-3) mo˝liwoÊç uzyskania przewagi selekcyjnej lub zmiany cech lub równowagi ekosystemu wwypadku niekontrolowanego uwolnienia do Êrodowiska,
-4) odpornoÊç ludzi, zwierzàt i roÊlin na dany czynnik chorobotwórczy,
-5) mo˝liwoÊç leczenia.
-8. Ostateczna klasyfikacja wykorzystania wwarunkach zamkni´tych powinna byç potwierdzona weryfi1) istnieje znikome prawdopodobieƒstwo, ˝e biorca lub organizm macierzysty wywo∏a chorob´ worganizmie ludzkim, zwierz´cym lub roÊlinnym,
-2) natura noÊnika iwprowadzenie materia∏u jest takie, ˝e nie powoduje przeniesienia fenotypu, który móg∏by wywo∏aç chorob´ u cz∏owieka, zwierzàt lub roÊlin albo który móg∏by wywo∏ywaç szkodliwe skutki wÊrodowisku,
-3) znikome jest prawdopodobieƒstwo, aby organizm genetycznie zmodyfikowany wywo∏ywa∏ choroby ucz∏owieka, zwierzàt lub roÊlin oraz wywiera∏ szkodliwy wp∏yw na Êrodowisko.
-10. Po dokonaniu klasyfikacji dzia∏ania zamkni´tego u˝ycia GMO na poszczególne kategorie, o których mowa w ust. 1, wybiera si´ Êrodki zapewniajàce hermetycznoÊç iinne Êrodki ochrony przy uwzgl´dnieniu:
-1) cech Êrodowiska, na które mogà wp∏ywaç GMO wykorzystywane w warunkach zamkni´tego u˝ycia,
-2) wszelkich czynnoÊci standardowych i niestandardowych.
-11. Przy wykonywaniu dzia∏aƒ zamkni´tego u˝ycia GMO wyró˝nia si´ cztery stopnie hermetycznoÊci odpowiadajàce kategorii dzia∏aƒ.
-12. Przy podziale na stopnie hermetycznoÊci, októrych mowa w ust. 11, bierze si´ pod uwag´ trzy zintegrowane elementy:
-1) konstrukcj´ pomieszczenia,
-2) wyposa˝enie techniczne pomieszczeƒ,
-3) dobrà praktyk´ laboratoryjnà.
-13. Minister w∏aÊciwy do spraw Êrodowiska, wporozumieniu zministrem w∏aÊciwym do spraw zdrowia, ministrem w∏aÊciwym do spraw rolnictwa iministrem w∏aÊciwym do spraw nauki, okreÊli, wdrodze rozporzàdzenia, list´ organizmów patogennych oraz ich klasyfikacj´, a tak˝e Êrodki niezb´dne dla poszczególnych stopni hermetycznoÊci, bioràc pod uwag´ koniecznoÊç zapewnienia bezpieczeƒstwa ludzi iÊrodowiska.
-18. U˝ytkownik GMO jest obowiàzany do przestrzegania zasad dobrej praktyki laboratoryjnej i ogólnych zasad bezpieczeƒstwa, awszczególnoÊci do:
-1) utrzymania miejsca pracy na mo˝liwie najni˝szym poziomie nara˝enia na dzia∏ania wywo∏ywane przez GMO,
-2) stosowania technicznych Êrodków kontroli uêród∏a zagro˝enia, je˝eli jest to konieczne, obowiàzku stosowania przez pracowników odzie˝y ochronnej iodpowiedniego sprz´tu,
-3) regularnej kontroli sprawnoÊci urzàdzeƒ izabezpieczeƒ instalacji,
-4) regularnego sprawdzania obecnoÊci GMO poza strefà zamkni´tego u˝ycia, kacjà oceny zagro˝enia. 5) nale˝ytego wyszkolenia pracowników,
-7) wprowadzenia wewn´trznych regulaminów bezpieczeƒstwa dla pracowników,
-8) umieszczania, wodpowiednich miejscach, znaków zagro˝enia biologicznego,
+by trzecie, jeżeli nie miały one obowiązku ich dostarczenia i złożyły zastrzeżenie o ich nieudostępnianiu,
+3) dokumentów lub danych, których ujawnienie mogło spowodować zagrożenie środowiska, nie są ogłaszane przez ministra.
+15.1. Minister wydaje zezwolenie, na przeprowadzanie badań i wydawanie opinii w zakresie GMO, podmiotom ubiegającym się o przeprowadzanie badań iwydawanie opinii wzakresie GMO, jeżeli podmioty te posiadają:
+1) odpowiednie wyposażenie techniczne umożliwiające przeprowadzanie badań GMO,
+2) wyspecjalizowany personel, o odpowiednim wykształceniu, mogący zagwarantować właściwą pracę jednostki,
+3) pięcioletnie doświadczenie wbadaniach GMO,
+4) ustalone procedury reklamacyjne oraz odwoławcze wzakresie prowadzonej działalności,
+5) ubezpieczenie od odpowiedzialności cywilnej dla ryzyka związanego zprowadzoną działalnością.
+2. Minister właściwy do spraw środowiska, wporozumieniu zministrem właściwym do spraw rolnictwa, określi, w drodze rozporządzenia, zakres przedmiotowy badań dla podmiotów ubiegających się oich przeprowadzanie i wydawanie opinii w dziedzinie GMO, uwzględniając wszczególności profil działalności tych podmiotów, kwalifikacje zatrudnionych w nich pracowników oraz posiadane wyposażenie techniczne.
+16.Zamknięte użycie GMO wymaga uzyskania zgody ministra, chyba że przepisy niniejszego rozdziału stanowią inaczej.
+rie działań zamkniętego użycia GMO:
+1) kategoria I— działania niepowodujące zagrożeń,
+2) kategoria II działania oniewielkich zagrożeniach,
+3) kategoria III działania oumiarkowanych zagrożeniach,
+4) kategoria IV działania niosące duże zagrożenia.
+2. Klasyfikacji działań zamkniętego użycia GMO do jednej z kategorii, o których mowa w ust. 1, dokonuje użytkownik GMO, przeprowadzając ocenę zagrożeń.
+3. Użytkownik GMO ma obowiązek przestrzegania szczegółowych wymagań odnośnie do poziomów irodzajów zabezpieczeń, określonych dla poszczególnych kategorii działań zamkniętego użycia GMO.
+4. W razie wątpliwości, do której kategorii działań zamkniętego użycia GMO powinno być zaliczone dane działanie, użytkownik GMO jest obowiązany stosować poziomy i rodzaje zabezpieczeń określone dla kategorii działania owyższym stopniu zagrożenia.
+5. Podział na kategorie działań, o których mowa w ust. 1, następuje na podstawie uprzednio przeprowadzonej oceny zagrożeń, jakie mogą stwarzać działania zamkniętego użycia GMO dla zdrowia ludzi iśrodowiska.
+6. Ocena zagrożeń opiera się na:
+1) identyfikacji wszelkich możliwych szkodliwych skutków, w szczególności związanych z organizmem biorcy, wprowadzonym materiałem genetycznym pochodzącym zorganizmu dawcy lub mikroorganizmem dawcy, tak długo jak mikroorganizm jest wykorzystywany do działania, wektorem oraz powstałym GMO,
+2) opisie charakteru czynności, wtym określeniu skali działania,
+3) określeniu możliwych szkodliwych skutków oraz możliwości ich wystąpienia.
+7. Czynniki wpływające na rzeczywiste zagrożenie imogące podwyższyć lub obniżyć kategorię zagrożenia to:
+1) skala działania,
+2) możliwość rozprzestrzeniania w środowisku na skutek krzyżowania, rozsiewania, przenoszenia do innych gatunków,
+3) możliwość uzyskania przewagi selekcyjnej lub zmiany cech lub równowagi ekosystemu wwypadku niekontrolowanego uwolnienia do środowiska,
+4) odporność ludzi, zwierząt i roślin na dany czynnik chorobotwórczy,
+5) możliwość leczenia.
+8. Ostateczna klasyfikacja wykorzystania wwarunkach zamkniętych powinna być potwierdzona weryfi1) istnieje znikome prawdopodobieństwo, że biorca lub organizm macierzysty wywoła chorobę worganizmie ludzkim, zwierzęcym lub roślinnym,
+2) natura nośnika iwprowadzenie materiału jest takie, że nie powoduje przeniesienia fenotypu, który mógłby wywołać chorobę u człowieka, zwierząt lub roślin albo który mógłby wywoływać szkodliwe skutki wśrodowisku,
+3) znikome jest prawdopodobieństwo, aby organizm genetycznie zmodyfikowany wywoływał choroby uczłowieka, zwierząt lub roślin oraz wywierał szkodliwy wpływ na środowisko.
+10. Po dokonaniu klasyfikacji działania zamkniętego użycia GMO na poszczególne kategorie, o których mowa w ust. 1, wybiera się środki zapewniające hermetyczność iinne środki ochrony przy uwzględnieniu:
+1) cech środowiska, na które mogą wpływać GMO wykorzystywane w warunkach zamkniętego użycia,
+2) wszelkich czynności standardowych i niestandardowych.
+11. Przy wykonywaniu działań zamkniętego użycia GMO wyróżnia się cztery stopnie hermetyczności odpowiadające kategorii działań.
+12. Przy podziale na stopnie hermetyczności, októrych mowa w ust. 11, bierze się pod uwagę trzy zintegrowane elementy:
+1) konstrukcję pomieszczenia,
+2) wyposażenie techniczne pomieszczeń,
+3) dobrą praktykę laboratoryjną.
+13. Minister właściwy do spraw środowiska, wporozumieniu zministrem właściwym do spraw zdrowia, ministrem właściwym do spraw rolnictwa iministrem właściwym do spraw nauki, określi, wdrodze rozporządzenia, listę organizmów patogennych oraz ich klasyfikację, a także środki niezbędne dla poszczególnych stopni hermetyczności, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa ludzi iśrodowiska.
+18. Użytkownik GMO jest obowiązany do przestrzegania zasad dobrej praktyki laboratoryjnej i ogólnych zasad bezpieczeństwa, awszczególności do:
+1) utrzymania miejsca pracy na możliwie najniższym poziomie narażenia na działania wywoływane przez GMO,
+2) stosowania technicznych środków kontroli uêródła zagrożenia, jeżeli jest to konieczne, obowiązku stosowania przez pracowników odzieży ochronnej iodpowiedniego sprzętu,
+3) regularnej kontroli sprawności urządzeń izabezpieczeń instalacji,
+4) regularnego sprawdzania obecności GMO poza strefą zamkniętego użycia, kacją oceny zagrożenia. 5) należytego wyszkolenia pracowników,
+7) wprowadzenia wewnętrznych regulaminów bezpieczeństwa dla pracowników,
+8) umieszczania, wodpowiednich miejscach, znaków zagrożenia biologicznego,
 9) wprowadzenia zakazu stosowania pipet doustnych wmiejscu pracy,
-10) posiadania skutecznych Êrodków dezynfekujàcych iokreÊlenia procedur przeprowadzania dezynfekcji wwypadku rozprzestrzeniania si´ GMO,
-11) post´powania zodpadami wsposób zapewniajàcy ochron´ ˝ycia i zdrowia ludzi oraz ochron´ Êrodowiska, awszczególnoÊci zapewnienia zabezpieczonych miejsc do magazynowania, je˝eli b´dzie to konieczne, zaka˝onego sprz´tu laboratoryjnego iinnych materia∏ów.
-19.1. Warunkiem przystàpienia do zamkni´tego u˝ycia GMO jest posiadanie przez u˝ytkownika GMO planu post´powania na wypadek awarii powodujàcej niekontrolowane rozprzestrzenianie si´ GMO zagra˝ajàce zdrowiu ludzi lub Êrodowisku w sposób bezpoÊredni lub zopóênieniem.
-2. Plan post´powania, októrym mowa wust. 1, powinien byç zgodny z kategorià dzia∏ania i zawieraç wszczególnoÊci:
-1) informacje o Êrodkach bezpieczeƒstwa, które osoby nara˝one na zagro˝enie powinny zastosowaç wprzypadku awarii,
-2) informacje osposobach przeciwdzia∏ania skutkom niekontrolowanego rozprzestrzeniania si´ GMO, wtym informacje odzia∏aniach, które powinny byç podj´te przez s∏u˝by ratownicze dzia∏ajàce w ramach krajowego systemu ratowniczo-gaÊniczego.
-3. U˝ytkownik GMO przekazuje plan post´powania na wypadek awarii, októrym mowa wust. 1, organom w∏aÊciwej gminy, które, wterminie 7 dni od daty otrzymania planu, podajà go do publicznej wiadomoÊci w sposób zwyczajowo przyj´ty oraz udost´pniajà do wglàdu wsiedzibie gminy.
-4. U˝ytkownik GMO jest obowiàzany do do∏o˝enia nale˝ytych staraƒ zmierzajàcych do zapoznania si´ zplanem post´powania, októrym mowa wust. 1, przez osoby nara˝one na bezpoÊrednie zagro˝enie spowodowane niekontrolowanym rozprzestrzenianiem si´ GMO.
-5. W przypadku zamkni´tego u˝ycia GMO zaliczonego do III lub IV kategorii zagro˝enia u˝ytkownik GMO ma obowiàzek uzgodnienia planu post´powania, októrym mowa wust. 1, zw∏aÊciwym miejscowo wojewodà.
-6. Organ, októrym mowa wust. 5, zg∏asza, wdrodze decyzji administracyjnej, zastrze˝enia do planu post´powania lub potwierdza ich brak w terminie 30 dni w miejscu dokonywania operacji zamkni´tego u˝ycia GMO oraz wswojej siedzibie, wsposób umo˝liwiajàcy swobodny dost´p do niego wprzypadku awarii lub powstania innego zagro˝enia.
-20.1. U˝ytkownik GMO ma obowiàzek okresowej weryfikacji, nie rzadziej ni˝ co 2 lata, uwzgl´dniajàc post´p techniki i wiedzy, ustaleƒ oceny zagro˝eƒ oraz podj´tych Êrodków bezpieczeƒstwa, w tym wymagaƒ co do poziomów irodzajów zabezpieczeƒ, atak˝e planu post´powania.
-2. U˝ytkownik GMO ma obowiàzek niezw∏ocznego przystàpienia do weryfikacji, o której mowa w ust. 1, wsytuacji, gdy zachodzà podstawy do stwierdzenia, ˝e podj´te dzia∏ania ochronne nie sà ju˝ wystarczajàce albo zachodzà przes∏anki do zaliczenia danego dzia∏ania do wy˝szej kategorii zagro˝enia.
-21.1. Wniosek owydanie zgody na zamkni´te u˝ycie GMO, októrej mowa wart. 16, powinien zawieod dnia otrzymania wniosku.
-raç wszczególnoÊci:
-1) informacje ou˝ytkowniku GMO, wtym jego nazw´ isiedzib´ lub imi´, nazwisko iadres, oraz imi´ inazwisko osoby bezpoÊrednio odpowiedzialnej za planowane zamkni´te u˝ycie GMO,
-2) informacje oplanowanym dzia∏aniu, wtym charakterystyk´ GMO lub kombinacji GMO:
-a) wykorzystywane organizmy biorcy idawcy oraz stosowany system noÊnika,
-b) êród∏o i planowanà funkcj´ materia∏u genetycznego u˝ywanego przy modyfikacji,
-c) cechy identyfikujàce GMO,
-3) informacje o planowanych poziomach i rodzajach zabezpieczeƒ,
-4) informacje o Êrodkach bezpieczeƒstwa pracy zGMO,
-5) informacje oplanowanym sposobie post´powania zodpadami zawierajàcymi GMO.
-2. Do wniosku owydanie zgody na zamkni´te u˝ycie GMO, októrym mowa wust. 1, nale˝y do∏àczyç:
-1) dokumentacj´ oceny zagro˝eƒ, o której mowa wart. 6,
-2) plan post´powania na wypadek awarii, o którym mowa wart. 19.
-3. We wniosku dotyczàcym zgody na ponowne zamkni´te u˝ycie GMO umieszcza si´ tak˝e informacje owynikach poprzedniego zamkni´tego u˝ycia GMO.
-22. Minister w∏aÊciwy do spraw Êrodowiska, wporozumieniu zministrem w∏aÊciwym do spraw nauki, okreÊli, w drodze rozporzàdzenia, wzory wniosków, o których mowa w art. 21 ust. 1, art. 36 ust. 2, art. 43 ust. 1, art. 52 ust. 3, dotyczàcych zgód i zezwoleƒ, októrych mowa wart. 10 pkt 1 i2, bioràc pod uwag´ koniecznoÊç zapewnienia bezpieczeƒstwa ludzi i Êrodowiska, potrzeb´ ujednolicenia tych dokumentów oraz koniecznoÊç uwzgl´dnienia wnich wszystkich potrzebnych danych.
-wymagane prawem warunki dokonania zamkni´tego u˝ycia GMO, zzastrze˝eniem ust. 4.
-2. Przed wydaniem zgody mo˝na:
-1) wezwaç, w razie potrzeby, wyst´pujàcego z wnioskiem u˝ytkownika GMO do uzupe∏nienia, w wyznaczonym terminie, brakujàcej dokumentacji stwierdzajàcej, ˝e spe∏nia on warunki okreÊlone przepisami prawa, wymagane do dokonania zamkni´tego u˝ycia GMO,
-2) za˝àdaç od u˝ytkownika GMO przed∏o˝enia dodatkowych informacji niezb´dnych dla wszechstronnego rozpatrzenia sprawy, w tym opinii, o której mowa wart. 15,
-3) dokonaç kontrolnego sprawdzenia faktów podanych we wniosku oudzielenie zgody wcelu stwierdzenia, czy wyst´pujàcy z wnioskiem u˝ytkownik GMO spe∏nia warunki dokonywania obj´tego zgodà zamkni´tego u˝ycia GMO.
-3. Koszty przed∏o˝enia dodatkowych informacji iopinii, októrych mowa wust. 2, ponosi wnioskodawca.
-4. Minister odmawia wydania zgody na III iIV kategori´ dzia∏aƒ, je˝eli istniejà uzasadnione powody do przypuszczeƒ, i˝ przewidziane zabezpieczenia nie stanowià wystarczajàcej gwarancji unikni´cia powa˝nych lub niemo˝liwych do naprawienia konsekwencji awarii lub ryzyka wystàpienia takiej awarii wzwiàzku zzamierzonym sposobem zamkni´tego u˝ycia GMO.
-24. 1. Zgod´ na zamkni´te u˝ycie GMO wydaje si´ wterminie 3 miesi´cy od dnia otrzymania wniosku. Bieg terminu zawiesza si´ w przypadkach, o których mowa wart. 23 ust. 2 pkt 1 i2.
-2. W przypadku stwierdzenia, ˝e dzia∏anie zosta∏o zaliczone do ni˝szej kategorii zagro˝enia ni˝ kategoria, do której w Êwietle zgromadzonej dokumentacji powinno byç zaliczone, mo˝na za˝àdaç od u˝ytkownika GMO zmiany zaliczenia do kategorii dzia∏aƒ.
-3. W przypadku odmowy zmiany kategorii dzia∏aƒ minister odmawia wydania zgody albo cofa wydanà zgod´.
-4. Je˝eli przemawia za tym koniecznoÊç ochrony zdrowia ludzi lub Êrodowiska, wzgodzie na zamkni´te u˝ycie GMO mo˝na okreÊliç dodatkowe warunki przeprowadzenia zamkni´tego u˝ycia GMO, dotyczàce wymagaƒ odnoÊnie do poziomów i rodzajów zabezpieczeƒ i bezpieczeƒstwa pracowników, wykraczajàcych poza wymagania okreÊlone na podstawie art. 17 iart.18.
-25. 1. Je˝eli przemawia za tym szczególnie wa˝ny interes spo∏eczny zwiàzany z potrzebà ochrony Êrodowiska, a w szczególnoÊci z zagro˝eniem pogorszenia stanu Êrodowiska, wzgodzie na zamkni´te u˝ycie GMO mo˝e byç ustanowione zabezpieczenie roszczeƒ ztytu∏u wystàpienia negatywnych skutków wÊrote u˝ycie GMO.
-3. Zabezpieczenie, o którym mowa w ust. 1, mo˝e mieç form´ depozytu, gwarancji bankowej lub polisy ubezpieczeniowej.
-4. Zabezpieczenie wformie depozytu jest wp∏acane na odr´bny rachunek bankowy wskazany przez organ wydajàcy zgod´, azabezpieczenie wformie gwarancji bankowej lub polisy ubezpieczeniowej jest sk∏adane do organu wydajàcego zgod´.
-5. Gwarancja bankowa lub polisa ubezpieczeniowa powinna stwierdzaç, ˝e w razie wystàpienia negatywnych skutków wÊrodowisku wwyniku niewywiàzywania si´ przez podmiot z obowiàzków okreÊlonych wzgodzie, októrych mowa wrozdziale 3, bank lub firma ubezpieczeniowa ureguluje zobowiàzania na rzecz organu wydajàcego zgod´.
-26.1. Po wydaniu decyzji ocofni´ciu zgody lub po jej wygaÊni´ciu, je˝eli u˝ytkownik GMO usunà∏ negatywne skutki wÊrodowisku powsta∏e wwyniku prowadzonej dzia∏alnoÊci lub skutki takie nie wystàpi∏y, minister orzeka, na wniosek u˝ytkownika GMO, ouchyleniu ustanowionego zabezpieczenia.
-2. W razie stwierdzenia, i˝ nie usuni´to w wyznaczonym terminie negatywnych skutków powsta∏ych wÊrodowisku wwyniku zamkni´tego u˝ycia GMO, minister orzeka oprzeznaczeniu na ten cel zabezpieczenia wwysokoÊci niezb´dnej do usuni´cia tych skutków.
-27.Wrazie og∏oszenia likwidacji lub upad∏oÊci u˝ytkownika GMO przepisy art. 26 stosuje si´ odpowiednio wzakresie orzekania ozwrocie zabezpieczenia albo ojego przeznaczeniu na usuni´cie szkód.
-28. 1. Zgod´, októrej mowa wart. 16, cofa si´, w przypadku gdy u˝ytkownik GMO narusza przepisy ustawy lub nie usunà∏ wwyznaczonym terminie stanu faktycznego lub prawnego niezgodnego z przepisami prawa.
-2. Zgod´, októrej mowa wart. 16, cofa si´ tak˝e, je˝eli istniejà uzasadnione powody do przypuszczeƒ, i˝ przewidziane zabezpieczenia nie stanowià wystarczajàcej gwarancji unikni´cia powa˝nych lub niemo˝liwych do naprawienia skutków awarii, albo je˝eli mo˝liwoÊç wystàpienia takiej awarii przekracza granice dopuszczalnego ryzyka.
-29. Udzia∏ spo∏eczeƒstwa w post´powaniu, którego przedmiotem jest wydanie zgody na zamkni´te u˝ycie GMO, regulujà przepisy oudziale spo∏eczeƒstwa wpost´powaniu wsprawie ochrony Êrodowiska.
+10) posiadania skutecznych środków dezynfekujących iokreślenia procedur przeprowadzania dezynfekcji wwypadku rozprzestrzeniania się GMO,
+11) postępowania zodpadami wsposób zapewniający ochronę życia i zdrowia ludzi oraz ochronę środowiska, awszczególności zapewnienia zabezpieczonych miejsc do magazynowania, jeżeli będzie to konieczne, zakażonego sprzętu laboratoryjnego iinnych materiałów.
+19.1. Warunkiem przystąpienia do zamkniętego użycia GMO jest posiadanie przez użytkownika GMO planu postępowania na wypadek awarii powodującej niekontrolowane rozprzestrzenianie się GMO zagrażające zdrowiu ludzi lub środowisku w sposób bezpośredni lub zopóênieniem.
+2. Plan postępowania, októrym mowa wust. 1, powinien być zgodny z kategorią działania i zawierać wszczególności:
+1) informacje o środkach bezpieczeństwa, które osoby narażone na zagrożenie powinny zastosować wprzypadku awarii,
+2) informacje osposobach przeciwdziałania skutkom niekontrolowanego rozprzestrzeniania się GMO, wtym informacje odziałaniach, które powinny być podjęte przez służby ratownicze działające w ramach krajowego systemu ratowniczo-gaśniczego.
+3. Użytkownik GMO przekazuje plan postępowania na wypadek awarii, októrym mowa wust. 1, organom właściwej gminy, które, wterminie 7 dni od daty otrzymania planu, podają go do publicznej wiadomości w sposób zwyczajowo przyjęty oraz udostępniają do wglądu wsiedzibie gminy.
+4. Użytkownik GMO jest obowiązany do dołożenia należytych starań zmierzających do zapoznania się zplanem postępowania, októrym mowa wust. 1, przez osoby narażone na bezpośrednie zagrożenie spowodowane niekontrolowanym rozprzestrzenianiem się GMO.
+5. W przypadku zamkniętego użycia GMO zaliczonego do III lub IV kategorii zagrożenia użytkownik GMO ma obowiązek uzgodnienia planu postępowania, októrym mowa wust. 1, zwłaściwym miejscowo wojewodą.
+6. Organ, októrym mowa wust. 5, zgłasza, wdrodze decyzji administracyjnej, zastrzeżenia do planu postępowania lub potwierdza ich brak w terminie 30 dni w miejscu dokonywania operacji zamkniętego użycia GMO oraz wswojej siedzibie, wsposób umożliwiający swobodny dostęp do niego wprzypadku awarii lub powstania innego zagrożenia.
+20.1. Użytkownik GMO ma obowiązek okresowej weryfikacji, nie rzadziej niż co 2 lata, uwzględniając postęp techniki i wiedzy, ustaleń oceny zagrożeń oraz podjętych środków bezpieczeństwa, w tym wymagań co do poziomów irodzajów zabezpieczeń, atakże planu postępowania.
+2. Użytkownik GMO ma obowiązek niezwłocznego przystąpienia do weryfikacji, o której mowa w ust. 1, wsytuacji, gdy zachodzą podstawy do stwierdzenia, że podjęte działania ochronne nie są już wystarczające albo zachodzą przesłanki do zaliczenia danego działania do wyższej kategorii zagrożenia.
+21.1. Wniosek owydanie zgody na zamknięte użycie GMO, októrej mowa wart. 16, powinien zawieod dnia otrzymania wniosku.
+rać wszczególności:
+1) informacje oużytkowniku GMO, wtym jego nazwę isiedzibę lub imię, nazwisko iadres, oraz imię inazwisko osoby bezpośrednio odpowiedzialnej za planowane zamknięte użycie GMO,
+2) informacje oplanowanym działaniu, wtym charakterystykę GMO lub kombinacji GMO:
+a) wykorzystywane organizmy biorcy idawcy oraz stosowany system nośnika,
+b) êródło i planowaną funkcję materiału genetycznego używanego przy modyfikacji,
+c) cechy identyfikujące GMO,
+3) informacje o planowanych poziomach i rodzajach zabezpieczeń,
+4) informacje o środkach bezpieczeństwa pracy zGMO,
+5) informacje oplanowanym sposobie postępowania zodpadami zawierającymi GMO.
+2. Do wniosku owydanie zgody na zamknięte użycie GMO, októrym mowa wust. 1, należy dołączyć:
+1) dokumentację oceny zagrożeń, o której mowa wart. 6,
+2) plan postępowania na wypadek awarii, o którym mowa wart. 19.
+3. We wniosku dotyczącym zgody na ponowne zamknięte użycie GMO umieszcza się także informacje owynikach poprzedniego zamkniętego użycia GMO.
+22. Minister właściwy do spraw środowiska, wporozumieniu zministrem właściwym do spraw nauki, określi, w drodze rozporządzenia, wzory wniosków, o których mowa w art. 21 ust. 1, art. 36 ust. 2, art. 43 ust. 1, art. 52 ust. 3, dotyczących zgód i zezwoleń, októrych mowa wart. 10 pkt 1 i2, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa ludzi i środowiska, potrzebę ujednolicenia tych dokumentów oraz konieczność uwzględnienia wnich wszystkich potrzebnych danych.
+wymagane prawem warunki dokonania zamkniętego użycia GMO, zzastrzeżeniem ust. 4.
+2. Przed wydaniem zgody można:
+1) wezwać, w razie potrzeby, występującego z wnioskiem użytkownika GMO do uzupełnienia, w wyznaczonym terminie, brakującej dokumentacji stwierdzającej, że spełnia on warunki określone przepisami prawa, wymagane do dokonania zamkniętego użycia GMO,
+2) zażądać od użytkownika GMO przedłożenia dodatkowych informacji niezbędnych dla wszechstronnego rozpatrzenia sprawy, w tym opinii, o której mowa wart. 15,
+3) dokonać kontrolnego sprawdzenia faktów podanych we wniosku oudzielenie zgody wcelu stwierdzenia, czy występujący z wnioskiem użytkownik GMO spełnia warunki dokonywania objętego zgodą zamkniętego użycia GMO.
+3. Koszty przedłożenia dodatkowych informacji iopinii, októrych mowa wust. 2, ponosi wnioskodawca.
+4. Minister odmawia wydania zgody na III iIV kategorię działań, jeżeli istnieją uzasadnione powody do przypuszczeń, iż przewidziane zabezpieczenia nie stanowią wystarczającej gwarancji uniknięcia poważnych lub niemożliwych do naprawienia konsekwencji awarii lub ryzyka wystąpienia takiej awarii wzwiązku zzamierzonym sposobem zamkniętego użycia GMO.
+24. 1. Zgodę na zamknięte użycie GMO wydaje się wterminie 3 miesięcy od dnia otrzymania wniosku. Bieg terminu zawiesza się w przypadkach, o których mowa wart. 23 ust. 2 pkt 1 i2.
+2. W przypadku stwierdzenia, że działanie zostało zaliczone do niższej kategorii zagrożenia niż kategoria, do której w świetle zgromadzonej dokumentacji powinno być zaliczone, można zażądać od użytkownika GMO zmiany zaliczenia do kategorii działań.
+3. W przypadku odmowy zmiany kategorii działań minister odmawia wydania zgody albo cofa wydaną zgodę.
+4. Jeżeli przemawia za tym konieczność ochrony zdrowia ludzi lub środowiska, wzgodzie na zamknięte użycie GMO można określić dodatkowe warunki przeprowadzenia zamkniętego użycia GMO, dotyczące wymagań odnośnie do poziomów i rodzajów zabezpieczeń i bezpieczeństwa pracowników, wykraczających poza wymagania określone na podstawie art. 17 iart.18.
+25. 1. Jeżeli przemawia za tym szczególnie ważny interes społeczny związany z potrzebą ochrony środowiska, a w szczególności z zagrożeniem pogorszenia stanu środowiska, wzgodzie na zamknięte użycie GMO może być ustanowione zabezpieczenie roszczeń ztytułu wystąpienia negatywnych skutków wśrote użycie GMO.
+3. Zabezpieczenie, o którym mowa w ust. 1, może mieć formę depozytu, gwarancji bankowej lub polisy ubezpieczeniowej.
+4. Zabezpieczenie wformie depozytu jest wpłacane na odrębny rachunek bankowy wskazany przez organ wydający zgodę, azabezpieczenie wformie gwarancji bankowej lub polisy ubezpieczeniowej jest składane do organu wydającego zgodę.
+5. Gwarancja bankowa lub polisa ubezpieczeniowa powinna stwierdzać, że w razie wystąpienia negatywnych skutków wśrodowisku wwyniku niewywiązywania się przez podmiot z obowiązków określonych wzgodzie, októrych mowa wrozdziale 3, bank lub firma ubezpieczeniowa ureguluje zobowiązania na rzecz organu wydającego zgodę.
+26.1. Po wydaniu decyzji ocofnięciu zgody lub po jej wygaśnięciu, jeżeli użytkownik GMO usunął negatywne skutki wśrodowisku powstałe wwyniku prowadzonej działalności lub skutki takie nie wystąpiły, minister orzeka, na wniosek użytkownika GMO, ouchyleniu ustanowionego zabezpieczenia.
+2. W razie stwierdzenia, iż nie usunięto w wyznaczonym terminie negatywnych skutków powstałych wśrodowisku wwyniku zamkniętego użycia GMO, minister orzeka oprzeznaczeniu na ten cel zabezpieczenia wwysokości niezbędnej do usunięcia tych skutków.
+27.Wrazie ogłoszenia likwidacji lub upadłości użytkownika GMO przepisy art. 26 stosuje się odpowiednio wzakresie orzekania ozwrocie zabezpieczenia albo ojego przeznaczeniu na usunięcie szkód.
+28. 1. Zgodę, októrej mowa wart. 16, cofa się, w przypadku gdy użytkownik GMO narusza przepisy ustawy lub nie usunął wwyznaczonym terminie stanu faktycznego lub prawnego niezgodnego z przepisami prawa.
+2. Zgodę, októrej mowa wart. 16, cofa się także, jeżeli istnieją uzasadnione powody do przypuszczeń, iż przewidziane zabezpieczenia nie stanowią wystarczającej gwarancji uniknięcia poważnych lub niemożliwych do naprawienia skutków awarii, albo jeżeli możliwość wystąpienia takiej awarii przekracza granice dopuszczalnego ryzyka.
+29. Udział społeczeństwa w postępowaniu, którego przedmiotem jest wydanie zgody na zamknięte użycie GMO, regulują przepisy oudziale społeczeństwa wpostępowaniu wsprawie ochrony środowiska.
 dowisku.
-30. 1. Wydanie, odmowa wydania i cofni´cie zgody nast´puje wdrodze decyzji administracyjnej.
-2. Decyzje ocofni´ciu zgody podlegajà natychmiastowemu wykonaniu.
-31. 1. Ponowienie przez tego samego u˝ytkownika zamkni´tego u˝ycia GMO zaliczonego do I lub zamkni´te u˝ycie GMO, zzastrze˝eniem art. 24 ust. 2.
-2. Oplanowanym ponowieniu zamkni´tego u˝ycia GMO, o którym mowa w ust. 1, u˝ytkownik GMO powiadamia ministra wterminie:
-1) 2 miesi´cy przed planowanym zamkni´tym u˝yciem GMO wodniesieniu do dzia∏ania zaliczonego do Ikategorii zagro˝enia,
-2) 3 miesi´cy przed planowanym zamkni´tym u˝yciem GMO wodniesieniu do dzia∏ania zaliczonego do II kategorii zagro˝enia.
-3. Powiadomienie, októrym mowa wust. 2, powinno spe∏niaç wymagania okreÊlone wart. 21.
-32. 1. U˝ytkownik GMO jest obowiàzany do niezw∏ocznego poinformowania ministra oraz organu, októrym mowa wart. 19 ust. 5, o:
-1) ka˝dorazowej zmianie warunków zamkni´tego u˝ycia GMO mogàcej mieç wp∏yw na zwi´kszenie zagro˝enia dla zdrowia ludzi lub Êrodowiska,
+30. 1. Wydanie, odmowa wydania i cofnięcie zgody następuje wdrodze decyzji administracyjnej.
+2. Decyzje ocofnięciu zgody podlegają natychmiastowemu wykonaniu.
+31. 1. Ponowienie przez tego samego użytkownika zamkniętego użycia GMO zaliczonego do I lub zamknięte użycie GMO, zzastrzeżeniem art. 24 ust. 2.
+2. Oplanowanym ponowieniu zamkniętego użycia GMO, o którym mowa w ust. 1, użytkownik GMO powiadamia ministra wterminie:
+1) 2 miesięcy przed planowanym zamkniętym użyciem GMO wodniesieniu do działania zaliczonego do Ikategorii zagrożenia,
+2) 3 miesięcy przed planowanym zamkniętym użyciem GMO wodniesieniu do działania zaliczonego do II kategorii zagrożenia.
+3. Powiadomienie, októrym mowa wust. 2, powinno spełniać wymagania określone wart. 21.
+32. 1. Użytkownik GMO jest obowiązany do niezwłocznego poinformowania ministra oraz organu, októrym mowa wart. 19 ust. 5, o:
+1) każdorazowej zmianie warunków zamkniętego użycia GMO mogącej mieć wpływ na zwiększenie zagrożenia dla zdrowia ludzi lub środowiska,
 2) wszelkich zmianach danych, o których mowa wart.21.
-2. Wprzypadku, októrym mowa wust. 1 pkt 1, minister, bioràc pod uwag´ wzgl´dy bezpieczeƒstwa ludzi lub Êrodowiska, nakazuje u˝ytkownikowi GMO dokonanie stosownej modyfikacji warunków bàdê te˝ zawieszenie lub zakoƒczenie operacji zamkni´tego u˝ycia GMO, wyznaczajàc u˝ytkownikowi GMO termin na podj´cie tych dzia∏aƒ.
-33.1. Wprzypadku awarii powodujàcej niekontrolowane rozprzestrzenianie si´ GMO u˝ytkownik GMO obowiàzany jest do niezw∏ocznego przystàpienia do akcji ratowniczej iusuwania skutków awarii.
-2. Dzia∏ania ratownicze powinny mieç na celu przede wszystkim ochron´ osób nara˝onych na kontakt zrozprzestrzeniajàcym si´ GMO.
-3. U˝ytkownik GMO obowiàzany jest do natychmiastowego zawiadomienia s∏u˝b ratowniczych dzia∏ajàcych wramach krajowego systemu ratowniczo-gaÊniczego owystàpieniu awarii, aje˝eli jest to mo˝liwe równie˝ obezpoÊrednim niebezpieczeƒstwie jej wystàpienia.
-4. Wzawiadomieniu, októrym mowa wust. 3, u˝ytkownik wskazuje:
-1) okolicznoÊci awarii,
-2) nazw´, cechy identyfikujàce i iloÊç uwolnionych GMO oraz charakterystyk´ zagro˝enia, które mo˝e wystàpiç,
-3) podj´te Êrodki zaradcze iratownicze,
-4) wszelkie informacje niezb´dne do oceny rozmiarów awarii i jej skutków dla zdrowia ludzi i Êrodowiska.
-5. U˝ytkownik GMO informuje ministra oraz organ, o którym mowa w art. 19 ust. 5, o wystàpieniu awarii
+2. Wprzypadku, októrym mowa wust. 1 pkt 1, minister, biorąc pod uwagę względy bezpieczeństwa ludzi lub środowiska, nakazuje użytkownikowi GMO dokonanie stosownej modyfikacji warunków bądê też zawieszenie lub zakończenie operacji zamkniętego użycia GMO, wyznaczając użytkownikowi GMO termin na podjęcie tych działań.
+33.1. Wprzypadku awarii powodującej niekontrolowane rozprzestrzenianie się GMO użytkownik GMO obowiązany jest do niezwłocznego przystąpienia do akcji ratowniczej iusuwania skutków awarii.
+2. Działania ratownicze powinny mieć na celu przede wszystkim ochronę osób narażonych na kontakt zrozprzestrzeniającym się GMO.
+3. Użytkownik GMO obowiązany jest do natychmiastowego zawiadomienia służb ratowniczych działających wramach krajowego systemu ratowniczo-gaśniczego owystąpieniu awarii, ajeżeli jest to możliwe również obezpośrednim niebezpieczeństwie jej wystąpienia.
+4. Wzawiadomieniu, októrym mowa wust. 3, użytkownik wskazuje:
+1) okoliczności awarii,
+2) nazwę, cechy identyfikujące i ilość uwolnionych GMO oraz charakterystykę zagrożenia, które może wystąpić,
+3) podjęte środki zaradcze iratownicze,
+4) wszelkie informacje niezbędne do oceny rozmiarów awarii i jej skutków dla zdrowia ludzi i środowiska.
+5. Użytkownik GMO informuje ministra oraz organ, o którym mowa w art. 19 ust. 5, o wystąpieniu awarii
 2. Rejestr, októrym mowa wust. 1, zawiera:
-1) wnioski owydanie zgody na zamkni´te u˝ycie GMO wraz zdokumentacjà,
-2) powiadomienia o ponownym zamkni´tym u˝yciu GMO,
-3) zgody na zamkni´te u˝ycie GMO wraz zuzasadnieniami oraz informacje ocofni´ciu izmianie tej zgody,
+1) wnioski owydanie zgody na zamknięte użycie GMO wraz zdokumentacją,
+2) powiadomienia o ponownym zamkniętym użyciu GMO,
+3) zgody na zamknięte użycie GMO wraz zuzasadnieniami oraz informacje ocofnięciu izmianie tej zgody,
 4) opinie Komisji,
 5) informacje oawariach, wtym:
-a) list´ awarii,
-b) analiz´ przyczyn poszczególnych awarii,
-c) opis doÊwiadczeƒ zdobytych podczas akcji ratowniczej iusuwania skutków awarii,
-d) wykaz Êrodków podj´tych przez u˝ytkownika GMO w celu unikni´cia podobnych awarii wprzysz∏oÊci,
-e) ocen´ skutków awarii.
-3. Rejestr jest jawny; przepisy art. 14 ust. 2 stosuje si´ odpowiednio.
-4. Wglàd do rejestru jest zwolniony zop∏at.
-35. U˝ytkownik GMO obowiàzany jest do prowadzenia systematycznej ewidencji i dokumentacji prowadzonych dzia∏aƒ i przechowywania jej przez okres co najmniej pi´ciu lat od ich zakoƒczenia, atak˝e bezp∏atnego iniezw∏ocznego udost´pniania jej na ˝àdanie ministra oraz organu, o którym mowa w art. 19 ust. 5.
-Rozdzia∏ 4 Zamierzone uwolnienie GMO do Êrodowiska wcelach innych ni˝ wprowadzenie do obrotu
-36. 1. Zamierzone uwolnienie GMO do Êrodowiska w celach innych ni˝ wprowadzenie do obrotu wymaga zgody ministra, wydawanej na wniosek zainteresowanego. Przepisy art. 23, art. 24 ust. 1 iart. 25—30 stosuje si´ odpowiednio, chyba ˝e przepisy niniejszego rozdzia∏u stanowià inaczej.
-2. Wniosek o wydanie zgody na zamierzone uwolnienie GMO do Êrodowiska, o którym mowa w ust. 1, zawiera wszczególnoÊci:
-1) informacje ou˝ytkowniku GMO, wtym jego nazw´ isiedzib´ lub imi´, nazwisko iadres,
+a) listę awarii,
+b) analizę przyczyn poszczególnych awarii,
+c) opis doświadczeń zdobytych podczas akcji ratowniczej iusuwania skutków awarii,
+d) wykaz środków podjętych przez użytkownika GMO w celu uniknięcia podobnych awarii wprzyszłości,
+e) ocenę skutków awarii.
+3. Rejestr jest jawny; przepisy art. 14 ust. 2 stosuje się odpowiednio.
+4. Wgląd do rejestru jest zwolniony zopłat.
+35. Użytkownik GMO obowiązany jest do prowadzenia systematycznej ewidencji i dokumentacji prowadzonych działań i przechowywania jej przez okres co najmniej pięciu lat od ich zakończenia, atakże bezpłatnego iniezwłocznego udostępniania jej na żądanie ministra oraz organu, o którym mowa w art. 19 ust. 5.
+36. 1. Zamierzone uwolnienie GMO do środowiska w celach innych niż wprowadzenie do obrotu wymaga zgody ministra, wydawanej na wniosek zainteresowanego. Przepisy art. 23, art. 24 ust. 1 iart. 25—30 stosuje się odpowiednio, chyba że przepisy niniejszego rozdziału stanowią inaczej.
+2. Wniosek o wydanie zgody na zamierzone uwolnienie GMO do środowiska, o którym mowa w ust. 1, zawiera wszczególności:
+1) informacje oużytkowniku GMO, wtym jego nazwę isiedzibę lub imię, nazwisko iadres,
 2) dane oGMO:
-a) charakterystyk´ dawcy, biorcy i organizmu rodzicielskiego, je˝eli wyst´puje,
-b) charakterystyk´ wektora,
-c) charakterystyk´ GMO,
-3) informacje dotyczàce warunków zamierzonego uwolnienia GMO do Êrodowiska:
+a) charakterystykę dawcy, biorcy i organizmu rodzicielskiego, jeżeli występuje,
+b) charakterystykę wektora,
+c) charakterystykę GMO,
+3) informacje dotyczące warunków zamierzonego uwolnienia GMO do środowiska:
 a) informacje owarunkach miejscu zamierzoneoraz oprzebiegu akcji ratowniczej ijej wynikach.
-go uwolnienia iszerszym Êrodowisku, do którego nastàpi zamierzone uwolnienie,
-c) charakterystyk´ Êrodowiska, do którego ma nastàpiç uwolnienie,
-4) informacje dotyczàce interakcji pomi´dzy GMO lub kombinacjà GMO aÊrodowiskiem, wtym omo˝liwoÊci krzy˝owaƒ:
-a) charakterystyk´ oddzia∏ywaƒ Êrodowiska na prze˝ycie, rozmna˝anie i rozpowszechnianie GMO,
-b) oddzia∏ywanie ipotencjalny wp∏yw GMO na Êrodowisko,
-5) informacje dotyczàce przygotowania zawodowego pracowników,
-6) informacje dotyczàce trybu kontroli i monitorowania procesu uwalniania GMO do Êrodowiska, oraz sugestie dotyczàce izolacji przestrzennej:
+go uwolnienia iszerszym środowisku, do którego nastąpi zamierzone uwolnienie,
+c) charakterystykę środowiska, do którego ma nastąpić uwolnienie,
+4) informacje dotyczące interakcji pomiędzy GMO lub kombinacją GMO aśrodowiskiem, wtym omożliwości krzyżowań:
+a) charakterystykę oddziaływań środowiska na przeżycie, rozmnażanie i rozpowszechnianie GMO,
+b) oddziaływanie ipotencjalny wpływ GMO na środowisko,
+5) informacje dotyczące przygotowania zawodowego pracowników,
+6) informacje dotyczące trybu kontroli i monitorowania procesu uwalniania GMO do środowiska, oraz sugestie dotyczące izolacji przestrzennej:
 a) informacje otechnice monitorowania,
-b) informacje o kontroli zamierzonego uwolnienia do Êrodowiska,
-c) plany reagowania na zagro˝enie,
-7) informacje dotyczàce deaktywacji GMO i post´powania zodpadami,
-8) informacje dotyczàce wyników poprzedniego zamierzonego uwolnienia do Êrodowiska tego samego GMO lub tej samej kombinacji GMO, na które wnioskodawca uzyska∏ zgod´.
-3. Do wniosku o wydanie zgody na zamierzone uwolnienie GMO do Êrodowiska, o którym mowa wust. 1, nale˝y do∏àczyç:
-1) dokumentacj´ oceny zagro˝eƒ wraz ze wskazaniem metod przeprowadzenia oceny,
-2) technicznà dokumentacj´ zamierzonego uwolnienia GMO do Êrodowiska,
-3) program dzia∏ania na wypadek zagro˝enia zdrowia ludzi lub Êrodowiska.
-37. Zgoda na uwolnienie do Êrodowiska tego samego GMO w ró˝nych miejscach okreÊlonych wzgodzie lub ró˝nych kombinacji GMO wtym samym miejscu, jeÊli uwolnienia majà ten sam cel inast´pujà w okreÊlonym w decyzji przedziale czasu, mo˝e byç udzielona wjednej decyzji.
-38. 1. Wprzypadku gdy po uzyskaniu zgody nastàpi zmiana wprzygotowaniu lub wprocesie uwalniania GMO do Êrodowiska mogàca spowodowaç zagro˝enia dla zdrowia ludzi lub Êrodowiska albo gdy wnioskodawca uzyska nowe informacje o takich zagro˝eniach, ma on obowiàzek:
-1) podjàç niezw∏ocznie Êrodki konieczne do ochrony zdrowia ludzi lub Êrodowiska,
-2) zweryfikowaç Êrodki bezpieczeƒstwa w dokumentacji przed∏o˝onej wraz zwnioskiem,
-3) niezw∏ocznie poinformowaç ministra o wszystkich nowych informacjach dotyczàcych zagro˝eƒ dla zdrowia ludzi idla Êrodowiska.
-2. U˝ytkownik GMO dokonujàcy zamierzonego wyników uwolnienia, w tym informacje o wszystkich zagro˝eniach dla zdrowia ludzi lub dla Êrodowiska zaobserwowane wzwiàzku zzamierzonym uwolnieniem GMO do Êrodowiska.
-39. Zgoda wsprawie zamierzonego uwolnienia GMO do Êrodowiska mo˝e byç cofni´ta lub zmieniona tak˝e, je˝eli pojawià si´ nowe informacje majàce znaczenie dla oceny zagro˝eƒ dla zdrowia ludzi lub dla Êrodowiska zwiàzanych z zamierzonym uwalnianiem GMO do Êrodowiska.
+b) informacje o kontroli zamierzonego uwolnienia do środowiska,
+c) plany reagowania na zagrożenie,
+7) informacje dotyczące deaktywacji GMO i postępowania zodpadami,
+8) informacje dotyczące wyników poprzedniego zamierzonego uwolnienia do środowiska tego samego GMO lub tej samej kombinacji GMO, na które wnioskodawca uzyskał zgodę.
+3. Do wniosku o wydanie zgody na zamierzone uwolnienie GMO do środowiska, o którym mowa wust. 1, należy dołączyć:
+1) dokumentację oceny zagrożeń wraz ze wskazaniem metod przeprowadzenia oceny,
+2) techniczną dokumentację zamierzonego uwolnienia GMO do środowiska,
+3) program działania na wypadek zagrożenia zdrowia ludzi lub środowiska.
+37. Zgoda na uwolnienie do środowiska tego samego GMO w różnych miejscach określonych wzgodzie lub różnych kombinacji GMO wtym samym miejscu, jeśli uwolnienia mają ten sam cel inastępują w określonym w decyzji przedziale czasu, może być udzielona wjednej decyzji.
+38. 1. Wprzypadku gdy po uzyskaniu zgody nastąpi zmiana wprzygotowaniu lub wprocesie uwalniania GMO do środowiska mogąca spowodować zagrożenia dla zdrowia ludzi lub środowiska albo gdy wnioskodawca uzyska nowe informacje o takich zagrożeniach, ma on obowiązek:
+1) podjąć niezwłocznie środki konieczne do ochrony zdrowia ludzi lub środowiska,
+2) zweryfikować środki bezpieczeństwa w dokumentacji przedłożonej wraz zwnioskiem,
+3) niezwłocznie poinformować ministra o wszystkich nowych informacjach dotyczących zagrożeń dla zdrowia ludzi idla środowiska.
+2. Użytkownik GMO dokonujący zamierzonego wyników uwolnienia, w tym informacje o wszystkich zagrożeniach dla zdrowia ludzi lub dla środowiska zaobserwowane wzwiązku zzamierzonym uwolnieniem GMO do środowiska.
+39. Zgoda wsprawie zamierzonego uwolnienia GMO do środowiska może być cofnięta lub zmieniona także, jeżeli pojawią się nowe informacje mające znaczenie dla oceny zagrożeń dla zdrowia ludzi lub dla środowiska związanych z zamierzonym uwalnianiem GMO do środowiska.
 40.1. Minister prowadzi Rejestr Zamierzonego Uwalniania GMO do Ârodowiska.
 2. Rejestr, októrym mowa wust. 1, zawiera:
-1) wnioski o wydanie zgody na zamierzone uwolnienie GMO do Êrodowiska wraz zdokumentacjà,
-2) zgody na zamierzone uwolnienie GMO do Êrodowiska wraz z uzasadnieniami oraz informacje o cofuwolnienia GMO do Êrodowiska ma obowiàzek przedni´ciu izmianie tej zgody,
+1) wnioski o wydanie zgody na zamierzone uwolnienie GMO do środowiska wraz zdokumentacją,
+2) zgody na zamierzone uwolnienie GMO do środowiska wraz z uzasadnieniami oraz informacje o cofuwolnienia GMO do środowiska ma obowiązek przednięciu izmianie tej zgody,
 3) opinie Komisji,
 4) sprawozdania, októrych mowa wart. 38 ust. 2.
-3. Rejestr jest jawny; przepis art. 14 ust. 2 stosuje si´ odpowiednio.
-4. Wglàd do rejestru jest zwolniony zop∏at.
-Rozdzia∏ 5 Wprowadzenie do obrotu produktów GMO
-41. 1. Wprowadzenie do obrotu na terytorium Rzeczypospolitej Polskiej produktów GMO wymaga zezwolenia ministra, wydawanego na wniosek zainteresowanego u˝ytkownika GMO. Przepisy art. 23, art. 24 ust. 1 i art. 25—30 stosuje si´ odpowiednio, chyba ˝e przepisy niniejszego rozdzia∏u stanowià inaczej.
-2. W przypadku obejmowania produktów GMO wprowadzanych na polski obszar celny procedurà dopuszczenia do obrotu do zg∏oszenia celnego nale˝y do∏àczyç kopi´ zezwolenia, októrym mowa wust. 1.
-42. 1. Obowiàzek uzyskania zezwolenia cià˝y na u˝ytkowniku GMO zamierzajàcym wprowadziç produkt GMO do obrotu.
-2. Wprowadzenie do obrotu produktu zawierajàcego GMO lub wyprodukowanego przy u˝yciu produktu GMO lub produktów GMO, na których wprowadzenie do obrotu uzyskano zezwolenie zgodnie zprzepisami ustawy, nie wymaga uzyskania odr´bnego zezwolenia.
-3. Wprowadzenie do obrotu produktu GMO, który sk∏ada si´ z tych samych GMO lub kombinacji GMO, ale ma byç wykorzystywany winny sposób ni˝ produkt GMO, na którego wprowadzenie do obrotu uzyskano ju˝ zezwolenie zgodnie z przepisami ustawy, wymaga uzyskania odr´bnego zezwolenia.
-1) informacje ou˝ytkowniku GMO, wtym jego nazw´ isiedzib´ lub imi´, nazwisko iadres,
+3. Rejestr jest jawny; przepis art. 14 ust. 2 stosuje się odpowiednio.
+4. Wgląd do rejestru jest zwolniony zopłat.
+41. 1. Wprowadzenie do obrotu na terytorium Rzeczypospolitej Polskiej produktów GMO wymaga zezwolenia ministra, wydawanego na wniosek zainteresowanego użytkownika GMO. Przepisy art. 23, art. 24 ust. 1 i art. 25—30 stosuje się odpowiednio, chyba że przepisy niniejszego rozdziału stanowią inaczej.
+2. W przypadku obejmowania produktów GMO wprowadzanych na polski obszar celny procedurą dopuszczenia do obrotu do zgłoszenia celnego należy dołączyć kopię zezwolenia, októrym mowa wust. 1.
+42. 1. Obowiązek uzyskania zezwolenia ciąży na użytkowniku GMO zamierzającym wprowadzić produkt GMO do obrotu.
+2. Wprowadzenie do obrotu produktu zawierającego GMO lub wyprodukowanego przy użyciu produktu GMO lub produktów GMO, na których wprowadzenie do obrotu uzyskano zezwolenie zgodnie zprzepisami ustawy, nie wymaga uzyskania odrębnego zezwolenia.
+3. Wprowadzenie do obrotu produktu GMO, który składa się z tych samych GMO lub kombinacji GMO, ale ma być wykorzystywany winny sposób niż produkt GMO, na którego wprowadzenie do obrotu uzyskano już zezwolenie zgodnie z przepisami ustawy, wymaga uzyskania odrębnego zezwolenia.
+1) informacje oużytkowniku GMO, wtym jego nazwę isiedzibę lub imię, nazwisko iadres,
 2) informacje oprodukcie GMO:
 a) opis produktu,
-b) instrukcje lub zalecenia dotyczàce przechowywania iu˝ytkowania,
-c) informacje oGMO zawartym wprodukcie, wtym charakterystyk´ GMO, charakterystyk´ biorców lub organizmów rodzicielskich, z których otrzymano GMO,
-3) informacje o zalecanych Êrodkach ostro˝noÊci zwiàzanych z bezpiecznym u˝ywaniem produktu GMO i o ewentualnych zagro˝eniach dla zdrowia ludzi lub Êrodowiska mogàcych wystàpiç wkonsekwencji niezgodnego z przeznaczeniem u˝ywania produktu GMO,
-4) informacje dotyczàce opakowania i oznakowania produktu GMO,
-5) informacje ouzyskanych przez dany produkt GMO zezwoleniach na wprowadzanie do obrotu na terenie innych krajów oraz oewentualnych odmowach uzyskania takich zezwoleƒ.
-2. Do wniosku owydanie zezwolenia, októrym mowa wust. 1, nale˝y do∏àczyç:
-1) dokumentacj´ potwierdzajàcà, ˝e GMO, z których sk∏ada si´ produkt lub które sà zawarte w produkcie, by∏y uprzednio u˝yte w procesie zamkni´tym albo uwolnione do Êrodowiska zgodnie z odpowiednimi przepisami,
-2) dokumentacj´ potwierdzajàcà, i˝ w rezultacie zamkni´tego u˝ycia lub uwalniania do Êrodowiska GMO nie wystàpi∏y zagro˝enia dla zdrowia ludzi lub Êrodowiska,
-3) dokumentacj´ oceny zagro˝eƒ.
-44. Zezwolenie na wprowadzenie produktu GMO do obrotu wydawane jest na czas okreÊlony, nie d∏u˝szy ni˝ 10 lat.
-45. 1. U˝ytkownik GMO ma obowiàzek monitoGMO z obrotu, do czasu zatwierdzenia przez ministra, w drodze decyzji administracyjnej, przed∏o˝onego przez u˝ytkownika GMO sprawozdania zdzia∏aƒ podj´tych w celu zagwarantowania przestrzegania ustawy, zw∏aszcza wzakresie ochrony zdrowia ludzi lub ochrony Êrodowiska.
-46. W przypadkach uzasadnionych koniecznoÊcià ochrony zdrowia ludzi lub ochrony Êrodowiska w zezwoleniu nak∏ada si´ na u˝ytkownika GMO obowiàzek zastosowania dodatkowego opakowania zabezpieczajàcego przed rozprzestrzenieniem si´ GMO do Êrodowiska podczas przewozu, magazynowania lub na póêniejszych etapach wprowadzania do obrotu lub okreÊla si´ inne dodatkowe wymagania dotyczàce wprowadzenia do obrotu produktów GMO.
-47.1. Wprowadza si´ obowiàzek oznakowania produktów GMO, zzastrze˝eniem ust. 5.
-2. Oznakowanie produktu GMO powinno zawieraç nast´pujàce informacje:
-1) nazw´ produktu GMO i nazwy zawartych w nim GMO,
-2) imi´ inazwisko lub nazw´ producenta lub importera oraz adres,
-3) przewidywany obszar stosowania produktu GMO: przemys∏, rolnictwo, leÊnictwo, powszechne u˝ytkowanie przez konsumentów lub inne specjalistyczne zastosowanie,
-4) zastosowanie produktu GMO i dok∏adne warunki u˝ytkowania wraz z informacjà, w uzasadnionych przypadkach, o rodzaju Êrodowiska, dla którego produkt jest odpowiedni,
-5) szczególne wymagania dotyczàce magazynowania itransportu, je˝eli zosta∏y okreÊlone wzezwoleniu,
-6) informacje o ró˝nicy wartoÊci u˝ytkowej mi´dzy produktem GMO a jego tradycyjnym odpowiednikiem,
-7) Êrodki, jakie powinny byç podj´te wprzypadku niezamierzonego uwolnienia GMO, niezgodnego rowania obrotu produktami GMO, na których wpro- z wymaganiami dotyczàcymi wprowadzenia prowadzenie uzyska∏ zezwolenie. duktu GMO do obrotu, je˝eli zosta∏y okreÊlone wzezwoleniu,
-2. U˝ytkownik GMO ma obowiàzek niezw∏ocznego 8) numer zezwolenia.
-poinformowania ministra w przypadku stwierdzenia nowych okolicznoÊci majàcych wp∏yw na treÊç doku- 3. W przypadku gdy ca∏y produkt jest genetycznie mentacji do∏àczonej do wniosku. zmodyfikowany, oznakowanie, o którym mowa w ust.1, powinno byç uzupe∏nione informacjà: „produkt
-3. JeÊli nowe informacje o zagro˝eniach dla zdro- genetycznie zmodyfikowany”. JeÊli tylko niektóre wia ludzi lub Êrodowiska, zwiàzane z wprowadzeniem sk∏adniki sà genetycznie zmodyfikowane, obok nazwy produktów GMO do obrotu, stanà si´ dost´pne u˝yt- sk∏adnika nale˝y umieÊciç napis „genetycznie zmodykownikowi GMO, ma on obowiàzek: fikowany”. Napis i informacja powinny byç czytelne
-1) podj´cia stosownych dzia∏aƒ interwencyjnych, izapisane czcionkà tej samej wielkoÊci co nazwa sk∏ad2) wycofania produktów GMO z obrotu, jeÊli jest to nika lub produktu.
-uzasadnione koniecznoÊcià ochrony przed zagro- 4. Szczegó∏owe wymagania dotyczàce sposobu ˝eniem dla zdrowia ludzi lub Êrodowiska,
+b) instrukcje lub zalecenia dotyczące przechowywania iużytkowania,
+c) informacje oGMO zawartym wprodukcie, wtym charakterystykę GMO, charakterystykę biorców lub organizmów rodzicielskich, z których otrzymano GMO,
+3) informacje o zalecanych środkach ostrożności związanych z bezpiecznym używaniem produktu GMO i o ewentualnych zagrożeniach dla zdrowia ludzi lub środowiska mogących wystąpić wkonsekwencji niezgodnego z przeznaczeniem używania produktu GMO,
+4) informacje dotyczące opakowania i oznakowania produktu GMO,
+5) informacje ouzyskanych przez dany produkt GMO zezwoleniach na wprowadzanie do obrotu na terenie innych krajów oraz oewentualnych odmowach uzyskania takich zezwoleń.
+2. Do wniosku owydanie zezwolenia, októrym mowa wust. 1, należy dołączyć:
+1) dokumentację potwierdzającą, że GMO, z których składa się produkt lub które są zawarte w produkcie, były uprzednio użyte w procesie zamkniętym albo uwolnione do środowiska zgodnie z odpowiednimi przepisami,
+2) dokumentację potwierdzającą, iż w rezultacie zamkniętego użycia lub uwalniania do środowiska GMO nie wystąpiły zagrożenia dla zdrowia ludzi lub środowiska,
+3) dokumentację oceny zagrożeń.
+44. Zezwolenie na wprowadzenie produktu GMO do obrotu wydawane jest na czas określony, nie dłuższy niż 10 lat.
+45. 1. Użytkownik GMO ma obowiązek monitoGMO z obrotu, do czasu zatwierdzenia przez ministra, w drodze decyzji administracyjnej, przedłożonego przez użytkownika GMO sprawozdania zdziałań podjętych w celu zagwarantowania przestrzegania ustawy, zwłaszcza wzakresie ochrony zdrowia ludzi lub ochrony środowiska.
+46. W przypadkach uzasadnionych koniecznością ochrony zdrowia ludzi lub ochrony środowiska w zezwoleniu nakłada się na użytkownika GMO obowiązek zastosowania dodatkowego opakowania zabezpieczającego przed rozprzestrzenieniem się GMO do środowiska podczas przewozu, magazynowania lub na póêniejszych etapach wprowadzania do obrotu lub określa się inne dodatkowe wymagania dotyczące wprowadzenia do obrotu produktów GMO.
+47.1. Wprowadza się obowiązek oznakowania produktów GMO, zzastrzeżeniem ust. 5.
+2. Oznakowanie produktu GMO powinno zawierać następujące informacje:
+1) nazwę produktu GMO i nazwy zawartych w nim GMO,
+2) imię inazwisko lub nazwę producenta lub importera oraz adres,
+3) przewidywany obszar stosowania produktu GMO: przemysł, rolnictwo, leśnictwo, powszechne użytkowanie przez konsumentów lub inne specjalistyczne zastosowanie,
+4) zastosowanie produktu GMO i dokładne warunki użytkowania wraz z informacją, w uzasadnionych przypadkach, o rodzaju środowiska, dla którego produkt jest odpowiedni,
+5) szczególne wymagania dotyczące magazynowania itransportu, jeżeli zostały określone wzezwoleniu,
+6) informacje o różnicy wartości użytkowej między produktem GMO a jego tradycyjnym odpowiednikiem,
+7) środki, jakie powinny być podjęte wprzypadku niezamierzonego uwolnienia GMO, niezgodnego rowania obrotu produktami GMO, na których wpro- z wymaganiami dotyczącymi wprowadzenia prowadzenie uzyskał zezwolenie. duktu GMO do obrotu, jeżeli zostały określone wzezwoleniu,
+2. Użytkownik GMO ma obowiązek niezwłocznego 8) numer zezwolenia.
+poinformowania ministra w przypadku stwierdzenia nowych okoliczności mających wpływ na treść doku- 3. W przypadku gdy cały produkt jest genetycznie mentacji dołączonej do wniosku. zmodyfikowany, oznakowanie, o którym mowa w ust.1, powinno być uzupełnione informacją: Ńprodukt
+3. Jeśli nowe informacje o zagrożeniach dla zdro- genetycznie zmodyfikowany”. Jeśli tylko niektóre wia ludzi lub środowiska, związane z wprowadzeniem składniki są genetycznie zmodyfikowane, obok nazwy produktów GMO do obrotu, staną się dostępne użyt- składnika należy umieścić napis Ńgenetycznie zmodykownikowi GMO, ma on obowiązek: fikowany”. Napis i informacja powinny być czytelne
+1) podjęcia stosownych działań interwencyjnych, izapisane czcionką tej samej wielkości co nazwa skład2) wycofania produktów GMO z obrotu, jeśli jest to nika lub produktu.
+uzasadnione koniecznością ochrony przed zagro- 4. Szczegółowe wymagania dotyczące sposobu żeniem dla zdrowia ludzi lub środowiska,
 3) natychmiastowego powiadomienia ministra.
-oznakowania produktu GMO okreÊla si´ wzezwoleniu, októrym mowa wart. 41.
-czajàcej 1% masy w sumie sk∏adników w tym produkcie, o ile obecnoÊç bia∏ka lub DNA z GMO jest niezamierzona.
-48. 1. Minister, w drodze decyzji, tymczasowo zakazuje lub ogranicza obrót handlowy produktem GMO, jeÊli istniejà podejrzenia, ˝e zagra˝a on zdrowiu ludzi lub Êrodowisku.
-2. Decyzje, októrych mowa wust. 1, podlegajà natychmiastowemu wykonaniu.
-49. Zezwolenie na wprowadzenie do obrotu produktu GMO mo˝e byç cofni´te lub zmienione tak˝e, je˝eli pojawià si´ nowe informacje majàce znaczenie dla oceny zagro˝eƒ dla zdrowia ludzi lub dla Êrodowiska zwiàzanych zwprowadzaniem do obrotu produktu GMO.
+oznakowania produktu GMO określa się wzezwoleniu, októrym mowa wart. 41.
+czającej 1% masy w sumie składników w tym produkcie, o ile obecność białka lub DNA z GMO jest niezamierzona.
+48. 1. Minister, w drodze decyzji, tymczasowo zakazuje lub ogranicza obrót handlowy produktem GMO, jeśli istnieją podejrzenia, że zagraża on zdrowiu ludzi lub środowisku.
+2. Decyzje, októrych mowa wust. 1, podlegają natychmiastowemu wykonaniu.
+49. Zezwolenie na wprowadzenie do obrotu produktu GMO może być cofnięte lub zmienione także, jeżeli pojawią się nowe informacje mające znaczenie dla oceny zagrożeń dla zdrowia ludzi lub dla środowiska związanych zwprowadzaniem do obrotu produktu GMO.
 50. 1. Minister prowadzi Rejestr Produktów GMO.
 2. Rejestr, októrym mowa wust. 1, zawiera:
-1) wnioski o wydanie zezwolenia na wprowadzenie doobrotu produktu GMO wraz zdokumentacjà,
-2) zezwolenia na wprowadzenie do obrotu produktu GMO wraz zuzasadnieniami oraz informacje ocofni´ciu lub zmianach tych zezwoleƒ,
+1) wnioski o wydanie zezwolenia na wprowadzenie doobrotu produktu GMO wraz zdokumentacją,
+2) zezwolenia na wprowadzenie do obrotu produktu GMO wraz zuzasadnieniami oraz informacje ocofnięciu lub zmianach tych zezwoleń,
 3) decyzje w sprawie zakazu lub ograniczenia obrotu handlowego produktem GMO wraz z uzasadnieniem,
 4) opinie Komisji,
-5) informacje ozagro˝eniach dla zdrowia ludzi lub dla Êrodowiska i podj´tych dzia∏aniach interwencyjnych, októrych mowa wart. 45.
-3. Rejestr jest jawny; art. 14 ust. 2 stosuje si´ odpowiednio.
-4. Wglàd do rejestru jest zwolniony zop∏at.
-Rozdzia∏ 6 Wywóz za granic´ itranzyt produktów GMO
-51. 1. Wywóz za granic´ itranzyt, októrym mowa w art. 97 § 1 pkt 1 Kodeksu celnego, przez terytorium Rzeczypospolitej Polskiej produktów GMO wymaga zezwolenia ministra. Przepisy art. 23, art. 24 ust.1, art. 25—30 iart. 37 stosuje si´ odpowiednio, chyba ˝e przepisy niniejszego rozdzia∏u stanowià inaczej.
-2. W przypadku obejmowania produktów GMO procedurà wywozu za granic´ i tranzytu przez terytorium Rzeczypospolitej Polskiej do zg∏oszenia celnego nale˝y do∏àczyç kopi´ zezwolenia, o którym mowa wust. 1.
-52. 1. Zezwolenie na wywóz za granic´ produktów GMO mo˝e byç udzielone, je˝eli:
-1) spe∏nione sà wymagania bezpieczeƒstwa okreÊloktórych terytoria produkt GMO b´dzie przewo˝ony, wyra˝ajà zgod´ na jego przyj´cie oraz tranzyt.
-2. Zezwolenie na wywóz za granic´ produktu GMO wydaje si´ na czas okreÊlony, nie d∏u˝szy ni˝ 5 lat.
-3. Wniosek owydanie zezwolenia na wywóz za granic´ produktu GMO, poza spe∏nieniem wymagaƒ okreÊlonych wart. 43, powinien zawieraç wskazanie:
-1) trasy wywozu irodzaju Êrodka transportu,
-2) nazwy isiedziby lub imienia inazwiska oraz adresu podmiotu odbierajàcego produkt GMO oraz sposobu jego wykorzystania.
-53. 1. Zezwolenie na tranzyt produktów GMO przez terytorium Rzeczypospolitej Polskiej mo˝e byç udzielone, je˝eli:
-1) spe∏nione sà wymagania bezpieczeƒstwa okreÊlone wustawie dla produktów GMO, ne wustawie dla produktów GMO,
-2) w∏aÊciwe organy paƒstwa, dla którego dany produkt GMO jest przeznaczony, oraz paƒstw, przez których terytoria produkt GMO b´dzie przewo˝ony, wyra˝ajà zgod´ na jego przyj´cie oraz tranzyt.
-2. Zezwolenie na tranzyt produktów GMO przez terytorium Rzeczypospolitej Polskiej wydaje si´ na czas okreÊlony, nie d∏u˝szy ni˝ 5 lat.
-3. Wniosek o zezwolenie na tranzyt produktów GMO, poza spe∏nieniem wymagaƒ okreÊlonych wart.43, powinien zawieraç ponadto:
-1) informacje o iloÊci produktu GMO okreÊlone wsztukach lub kilogramach,
-2) wskazanie trasy tranzytu irodzaju Êrodka transportu,
-3) wskazanie nazwy i siedziby lub imienia i nazwiska oraz adresu podmiotu odbierajàcego produkt GMO,
-4) potwierdzenie zgody w∏aÊciwych organów paƒstwa, dla którego dany produkt GMO jest przeznaczony na jego przyj´cie,
-5) potwierdzenie zgody paƒstw, przez których terytorium produkt GMO b´dzie przewo˝ony na jego tranzyt.
-54. 1. Minister niezw∏ocznie informuje Prezesa G∏ównego Urz´du Ce∏ oraz Komendanta G∏ównego Stra˝y Granicznej o udzieleniu zezwolenia na wywóz lub tranzyt produktów GMO oraz oudzieleniu importerowi zezwolenia na wprowadzenie produktów GMO do obrotu, jak równie˝ ocofni´ciu takich zezwoleƒ.
-2. W przypadku cofni´cia zezwolenia orygina∏ zezwolenia nale˝y niezw∏ocznie zwróciç organowi, który je wyda∏.
-55. Minister w∏aÊciwy do spraw finansów publicznych, wporozumieniu zministrem w∏aÊciwym do spraw gospodarki, okreÊli, w drodze rozporzàdzenia, urz´dy celne w∏aÊciwe dla przywozu lub wywozu pro56. 1. Minister prowadzi Rejestr Wywozu za Granic´ i Tranzytu przez terytorium Rzeczypospolitej Polskiej produktów GMO.
+5) informacje ozagrożeniach dla zdrowia ludzi lub dla środowiska i podjętych działaniach interwencyjnych, októrych mowa wart. 45.
+3. Rejestr jest jawny; art. 14 ust. 2 stosuje się odpowiednio.
+4. Wgląd do rejestru jest zwolniony zopłat.
+51. 1. Wywóz za granicę itranzyt, októrym mowa w art. 97 § 1 pkt 1 Kodeksu celnego, przez terytorium Rzeczypospolitej Polskiej produktów GMO wymaga zezwolenia ministra. Przepisy art. 23, art. 24 ust.1, art. 25—30 iart. 37 stosuje się odpowiednio, chyba że przepisy niniejszego rozdziału stanowią inaczej.
+2. W przypadku obejmowania produktów GMO procedurą wywozu za granicę i tranzytu przez terytorium Rzeczypospolitej Polskiej do zgłoszenia celnego należy dołączyć kopię zezwolenia, o którym mowa wust. 1.
+52. 1. Zezwolenie na wywóz za granicę produktów GMO może być udzielone, jeżeli:
+1) spełnione są wymagania bezpieczeństwa określoktórych terytoria produkt GMO będzie przewożony, wyrażają zgodę na jego przyjęcie oraz tranzyt.
+2. Zezwolenie na wywóz za granicę produktu GMO wydaje się na czas określony, nie dłuższy niż 5 lat.
+3. Wniosek owydanie zezwolenia na wywóz za granicę produktu GMO, poza spełnieniem wymagań określonych wart. 43, powinien zawierać wskazanie:
+1) trasy wywozu irodzaju środka transportu,
+2) nazwy isiedziby lub imienia inazwiska oraz adresu podmiotu odbierającego produkt GMO oraz sposobu jego wykorzystania.
+53. 1. Zezwolenie na tranzyt produktów GMO przez terytorium Rzeczypospolitej Polskiej może być udzielone, jeżeli:
+1) spełnione są wymagania bezpieczeństwa określone wustawie dla produktów GMO, ne wustawie dla produktów GMO,
+2) właściwe organy państwa, dla którego dany produkt GMO jest przeznaczony, oraz państw, przez których terytoria produkt GMO będzie przewożony, wyrażają zgodę na jego przyjęcie oraz tranzyt.
+2. Zezwolenie na tranzyt produktów GMO przez terytorium Rzeczypospolitej Polskiej wydaje się na czas określony, nie dłuższy niż 5 lat.
+3. Wniosek o zezwolenie na tranzyt produktów GMO, poza spełnieniem wymagań określonych wart.43, powinien zawierać ponadto:
+1) informacje o ilości produktu GMO określone wsztukach lub kilogramach,
+2) wskazanie trasy tranzytu irodzaju środka transportu,
+3) wskazanie nazwy i siedziby lub imienia i nazwiska oraz adresu podmiotu odbierającego produkt GMO,
+4) potwierdzenie zgody właściwych organów państwa, dla którego dany produkt GMO jest przeznaczony na jego przyjęcie,
+5) potwierdzenie zgody państw, przez których terytorium produkt GMO będzie przewożony na jego tranzyt.
+54. 1. Minister niezwłocznie informuje Prezesa Głównego Urzędu Ceł oraz Komendanta Głównego Straży Granicznej o udzieleniu zezwolenia na wywóz lub tranzyt produktów GMO oraz oudzieleniu importerowi zezwolenia na wprowadzenie produktów GMO do obrotu, jak również ocofnięciu takich zezwoleń.
+2. W przypadku cofnięcia zezwolenia oryginał zezwolenia należy niezwłocznie zwrócić organowi, który je wydał.
+55. Minister właściwy do spraw finansów publicznych, wporozumieniu zministrem właściwym do spraw gospodarki, określi, w drodze rozporządzenia, urzędy celne właściwe dla przywozu lub wywozu pro56. 1. Minister prowadzi Rejestr Wywozu za Granicę i Tranzytu przez terytorium Rzeczypospolitej Polskiej produktów GMO.
 2. Rejestr, októrym mowa wust. 1, zawiera:
-1) wnioski owydanie zezwoleƒ na wywóz za granic´ produktów GMO zdokumentacjà,
-2) wnioski o wydanie zezwoleƒ na tranzyt przez terytorium Rzeczypospolitej Polskiej produktów GMO zdokumentacjà,
-3) zezwolenia na wywóz za granic´ wraz zuzasadnieniami,
+1) wnioski owydanie zezwoleń na wywóz za granicę produktów GMO zdokumentacją,
+2) wnioski o wydanie zezwoleń na tranzyt przez terytorium Rzeczypospolitej Polskiej produktów GMO zdokumentacją,
+3) zezwolenia na wywóz za granicę wraz zuzasadnieniami,
 4) zezwolenia na tranzyt przez terytorium Rzeczypospolitej Polskiej produktów GMO wraz zuzasadnieniami,
 5) opinie Komisji.
-3. Rejestr jest jawny; art. 14 ust. 2 stosuje si´ odpowiednio.
-4. Wglàd do rejestru jest zwolniony zop∏at.
-Rozdzia∏ 7 Zasady odpowiedzialnoÊci cywilnej ikarnej
-57. 1. U˝ytkownik GMO ponosi przewidzianà prawem cywilnym odpowiedzialnoÊç za szkod´ na osobie, wmieniu lub Êrodowisku, wyrzàdzonà na skutek przeprowadzenia dzia∏ania zamkni´tego u˝ycia GMO, dzia∏aƒ polegajàcych na zamierzonym uwolnieniu GMO do Êrodowiska, w tym wprowadzeniu produktów GMO do obrotu, chyba ˝e szkoda nastàpi∏a na skutek si∏y wy˝szej albo wy∏àcznie zwiny poszkodowanego lub osoby trzeciej, za którà u˝ytkownik GMO nie ponosi odpowiedzialnoÊci.
-2. Je˝eli szkoda dotyczy Êrodowiska jako dobra wspólnego, z roszczeniem odszkodowawczym mo˝e wystàpiç Skarb Paƒstwa, jednostka samorzàdu terytorialnego, atak˝e organizacja ekologiczna.
-3. OdpowiedzialnoÊci za szkody, o których mowa wust. 1, nie wy∏àcza okolicznoÊç, ˝e dzia∏alnoÊç b´dàca przyczynà powstania szkód jest prowadzona na podstawie decyzji administracyjnej iwjej granicach.
-4. Przepisy ust. 1—3 stosuje si´ odpowiednio do tranzytu produktów GMO przez terytorium Rzeczypospolitej Polskiej. Wtym wypadku odpowiedzialnoÊç za szkod´ ponosi osoba obowiàzana do uzyskania zezwolenia, októrym mowa wart. 51.
-5. Ka˝dy, komu przys∏uguje roszczenie na podstawie niniejszego artyku∏u, wraz zwniesieniem powództwa mo˝e ˝àdaç, aby sàd zobowiàza∏ podmiot, zktórego dzia∏alnoÊcià wià˝e si´ dochodzone roszczenie, do udzielenia informacji potrzebnych do ustalenia zakresu jego odpowiedzialnoÊci.
-6. Koszty przygotowania informacji, októrej mowa wust. 5, ponosi pozwany, chyba ˝e powództwo okazaoperacji zamkni´tego u˝ycia GMO albo dzia∏aƒ zwiàzanych z zamierzonym uwolnieniem GMO do Êrodowiska, wtym wprowadzeniem do obrotu produktu GMO, albo wywozu za granic´ lub tranzytu produktów GMO, podlega karze pozbawienia wolnoÊci do lat 3.
-2. Wprzypadku pope∏nienia czynów, októrych mowa w ust. 1, mo˝na równie˝ orzec przepadek towaru lub technologii zwiàzanej z u˝yciem GMO na rzecz Skarbu Paƒstwa.
-3. Je˝eli w wyniku czynów, o których mowa wust.1, nastàpi∏o zagro˝enie dla ˝ycia lub zdrowia ludzi lub Êrodowiska, sprawca podlega karze pozbawienia wolnoÊci od 3miesi´cy do lat 5.
-59. 1. Kto sprowadza niebezpieczeƒstwo dla ˝ycia lub zdrowia wielu osób lub mienia lub Êrodowiska, powodujàc zagro˝enie podczas zamkni´tego u˝ycia GMO w trakcie dzia∏aƒ zwiàzanych z zamierzonym uwolnieniem GMO do Êrodowiska lub nie stosujàc si´ do nakazu wycofania produktu GMO zobrotu, podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.
-2. Je˝eli sprawca dzia∏a nieumyÊlnie, podlega karze pozbawienia wolnoÊci do lat 3.
-3. Je˝eli nast´pstwem czynu, o którym mowa wust. 1, jest Êmierç cz∏owieka lub ci´˝ki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolnoÊci od lat 2 do lat12.
-4. Je˝eli nast´pstwem czynu okreÊlonego wust. 2 jest Êmierç cz∏owieka lub ci´˝ki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.
-5. Je˝eli nast´pstwem czynu, o którym mowa wust. 1, jest zniszczenie Êrodowiska wznacznych rozmiarach, sprawca podlega karze pozbawienia wolnoÊci do lat 5.
-6. Je˝eli nast´pstwem czynu okreÊlonego w ust. 2 jest zniszczenie Êrodowiska w znacznych rozmiarach, sprawca podlega grzywnie, karze ograniczenia wolnoÊci albo pozbawienia wolnoÊci do lat 3.
-∏o si´ oczywiÊcie bezzasadne.
-60. Kto, wbrew obowiàzkowi, w przypadku awarii powodujàcej niekontrolowane rozprzestrzenianie si´ GMO, nie przyst´puje niezw∏ocznie do akcji ratowniczej i usuwania skutków awarii lub nie zawiadamia w∏aÊciwych s∏u˝b ratowniczych o wystàpieniu awarii, podlega karze pozbawienia wolnoÊci do lat 3.
-dowiska nastàpi jakakolwiek zmiana wprzygotowaniu lub wprocesie uwalniania GMO do Êrodowiska, mogàca spowodowaç zagro˝enia dla zdrowia ludzi lub dla Êrodowiska albo wrazie powzi´cia nowych informacji otakich zagro˝eniach, nie podejmuje dzia∏aƒ, októrych mowa wart. 32, podlega karze pozbawienia wolnoÊci do lat 3.
-62. Kto dokonuje dzia∏aƒ zamkni´tego u˝ycia GMO bez uprzedniego sporzàdzenia oceny zagro˝eƒ lub nie przestrzegajàc szczegó∏owych wymagaƒ odnoÊnie do poziomów irodzajów zabezpieczeƒ albo dokonuje dzia∏aƒ zwiàzanych z zamierzonym uwolnieniem GMO do Êrodowiska bez uprzedniego przeprowadzenia oceny zagro˝eƒ dla zdrowia ludzi idla Êrodowiska, podlega karze pozbawienia wolnoÊci do lat 3.
-63. Kto dokonuje dzia∏aƒ zamkni´tego u˝ycia GMO bez uprzedniego sporzàdzenia planu post´powania na wypadek awarii, podlega karze pozbawienia wolnoÊci do lat 3.
-64.Kto, wbrew obowiàzkowi, nie dokonuje weryfikacji ustaleƒ oceny zagro˝eƒ dla zdrowia ludzi idla Êrodowiska oraz podj´tych Êrodków ochronnych, atak˝e planu post´powania na wypadek awarii, podlega karze pozbawienia wolnoÊci do lat 3.
-65. Kto, wbrew obowiàzkowi:
-1) nie informuje w∏aÊciwych organów oka˝dorazowej zmianie warunków operacji zamkni´tego u˝ycia GMO, mogàcej mieç wp∏yw na zwi´kszenie zagro˝enia dla zdrowia ludzi idla Êrodowiska,
-2) nie prowadzi systematycznej dokumentacji prowadzonych operacji zamkni´tego u˝ycia GMO i nie przechowuje jej przez wymagany okres,
+3. Rejestr jest jawny; art. 14 ust. 2 stosuje się odpowiednio.
+4. Wgląd do rejestru jest zwolniony zopłat.
+57. 1. Użytkownik GMO ponosi przewidzianą prawem cywilnym odpowiedzialność za szkodę na osobie, wmieniu lub środowisku, wyrządzoną na skutek przeprowadzenia działania zamkniętego użycia GMO, działań polegających na zamierzonym uwolnieniu GMO do środowiska, w tym wprowadzeniu produktów GMO do obrotu, chyba że szkoda nastąpiła na skutek siły wyższej albo wyłącznie zwiny poszkodowanego lub osoby trzeciej, za którą użytkownik GMO nie ponosi odpowiedzialności.
+2. Jeżeli szkoda dotyczy środowiska jako dobra wspólnego, z roszczeniem odszkodowawczym może wystąpić Skarb Państwa, jednostka samorządu terytorialnego, atakże organizacja ekologiczna.
+3. Odpowiedzialności za szkody, o których mowa wust. 1, nie wyłącza okoliczność, że działalność będąca przyczyną powstania szkód jest prowadzona na podstawie decyzji administracyjnej iwjej granicach.
+4. Przepisy ust. 1—3 stosuje się odpowiednio do tranzytu produktów GMO przez terytorium Rzeczypospolitej Polskiej. Wtym wypadku odpowiedzialność za szkodę ponosi osoba obowiązana do uzyskania zezwolenia, októrym mowa wart. 51.
+5. Każdy, komu przysługuje roszczenie na podstawie niniejszego artykułu, wraz zwniesieniem powództwa może żądać, aby sąd zobowiązał podmiot, zktórego działalnością wiąże się dochodzone roszczenie, do udzielenia informacji potrzebnych do ustalenia zakresu jego odpowiedzialności.
+6. Koszty przygotowania informacji, októrej mowa wust. 5, ponosi pozwany, chyba że powództwo okazaoperacji zamkniętego użycia GMO albo działań związanych z zamierzonym uwolnieniem GMO do środowiska, wtym wprowadzeniem do obrotu produktu GMO, albo wywozu za granicę lub tranzytu produktów GMO, podlega karze pozbawienia wolności do lat 3.
+2. Wprzypadku popełnienia czynów, októrych mowa w ust. 1, można również orzec przepadek towaru lub technologii związanej z użyciem GMO na rzecz Skarbu Państwa.
+3. Jeżeli w wyniku czynów, o których mowa wust.1, nastąpiło zagrożenie dla życia lub zdrowia ludzi lub środowiska, sprawca podlega karze pozbawienia wolności od 3miesięcy do lat 5.
+59. 1. Kto sprowadza niebezpieczeństwo dla życia lub zdrowia wielu osób lub mienia lub środowiska, powodując zagrożenie podczas zamkniętego użycia GMO w trakcie działań związanych z zamierzonym uwolnieniem GMO do środowiska lub nie stosując się do nakazu wycofania produktu GMO zobrotu, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+2. Jeżeli sprawca działa nieumyślnie, podlega karze pozbawienia wolności do lat 3.
+3. Jeżeli następstwem czynu, o którym mowa wust. 1, jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od lat 2 do lat12.
+4. Jeżeli następstwem czynu określonego wust. 2 jest śmierć człowieka lub ciężki uszczerbek na zdrowiu wielu osób, sprawca podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+5. Jeżeli następstwem czynu, o którym mowa wust. 1, jest zniszczenie środowiska wznacznych rozmiarach, sprawca podlega karze pozbawienia wolności do lat 5.
+6. Jeżeli następstwem czynu określonego w ust. 2 jest zniszczenie środowiska w znacznych rozmiarach, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 3.
+ło się oczywiście bezzasadne.
+60. Kto, wbrew obowiązkowi, w przypadku awarii powodującej niekontrolowane rozprzestrzenianie się GMO, nie przystępuje niezwłocznie do akcji ratowniczej i usuwania skutków awarii lub nie zawiadamia właściwych służb ratowniczych o wystąpieniu awarii, podlega karze pozbawienia wolności do lat 3.
+dowiska nastąpi jakakolwiek zmiana wprzygotowaniu lub wprocesie uwalniania GMO do środowiska, mogąca spowodować zagrożenia dla zdrowia ludzi lub dla środowiska albo wrazie powzięcia nowych informacji otakich zagrożeniach, nie podejmuje działań, októrych mowa wart. 32, podlega karze pozbawienia wolności do lat 3.
+62. Kto dokonuje działań zamkniętego użycia GMO bez uprzedniego sporządzenia oceny zagrożeń lub nie przestrzegając szczegółowych wymagań odnośnie do poziomów irodzajów zabezpieczeń albo dokonuje działań związanych z zamierzonym uwolnieniem GMO do środowiska bez uprzedniego przeprowadzenia oceny zagrożeń dla zdrowia ludzi idla środowiska, podlega karze pozbawienia wolności do lat 3.
+63. Kto dokonuje działań zamkniętego użycia GMO bez uprzedniego sporządzenia planu postępowania na wypadek awarii, podlega karze pozbawienia wolności do lat 3.
+64.Kto, wbrew obowiązkowi, nie dokonuje weryfikacji ustaleń oceny zagrożeń dla zdrowia ludzi idla środowiska oraz podjętych środków ochronnych, atakże planu postępowania na wypadek awarii, podlega karze pozbawienia wolności do lat 3.
+65. Kto, wbrew obowiązkowi:
+1) nie informuje właściwych organów okażdorazowej zmianie warunków operacji zamkniętego użycia GMO, mogącej mieć wpływ na zwiększenie zagrożenia dla zdrowia ludzi idla środowiska,
+2) nie prowadzi systematycznej dokumentacji prowadzonych operacji zamkniętego użycia GMO i nie przechowuje jej przez wymagany okres,
 3) nie oznacza produktów GMO zgodnie z wymaganiami ustawy podlega karze grzywny.
-Rozdzia∏ 8 Zmiany wprzepisach obowiàzujàcych oraz przepisy przejÊciowe ikoƒcowe
-66. W ustawie z dnia 6 marca 1981 r. o Paƒstwowej Inspekcji Pracy (Dz. U. z1985 r. 54, poz. 276, z 1989 r. 34, poz. 178, z 1996 r. 24, poz. 110 i 106, poz. 496, z 1998 r. 113, poz. 717 i 162, poz. 1126, z1999 r. 49, poz. 483 oraz z 2001 r. 76, poz. 809) w art. 8 w ust. 1 po pkt 7 dodaje si´ pkt 7a wbrzmieniu: „7a) kontrola przestrzegania wymagaƒ bezpieczeƒstwa i higieny pracy, o których mowa w ustawie zdnia 22 czerwca 2001 r. oorganizmach genetycznie zmodyfikowanych (Dz. U. 76, poz.811),”.
+66. W ustawie z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy (Dz. U. z1985 r. 54, poz. 276, z 1989 r. 34, poz. 178, z 1996 r. 24, poz. 110 i 106, poz. 496, z 1998 r. 113, poz. 717 i 162, poz. 1126, z1999 r. 49, poz. 483 oraz z 2001 r. 76, poz. 809) w art. 8 w ust. 1 po pkt 7 dodaje się pkt 7a wbrzmieniu: Ń7a) kontrola przestrzegania wymagań bezpieczeństwa i higieny pracy, o których mowa w ustawie zdnia 22 czerwca 2001 r. oorganizmach genetycznie zmodyfikowanych (Dz. U. 76, poz.811),”.
 67.Wustawie zdnia 20 lipca 1991 r. oInspekcji Ochrony Ârodowiska (Dz. U. 77, poz. 335, z1996r.
-38, poz. 452 i 63, poz. 638 i 639) wart. 2 wust. 1 wpkt 12 kropk´ zast´puje si´ przecinkiem idodaje si´ pkt 13 wbrzmieniu: „13) kontrola przestrzegania przepisów i uzyskanych na ich podstawie zezwoleƒ, z wy∏àczeniem kontroli laboratoryjnej, w zakresie post´powania zorganizmami genetycznie zmodyfikowanymi.”
-68. W ustawie z dnia 12 lipca 1995 r. o ochronie roÊlin uprawnych (Dz. U. z 1999 r. 66, poz. 751 i 101, poz. 1178 oraz z 2001 r. 22, poz. 248) w art. 40 dotychczasowà treÊç oznacza si´ jako ust. 1 idodaje si´ ust. 2 wbrzmieniu: „2. Do zadaƒ Inspekcji, zgodnie z ust. 1, nale˝y równie˝ kontrola przestrzegania przepisów ustawy zdnia 22 czerwca 2001 r. oorganizmach genetycznie zmodyfikowanych (Dz. U. 76, poz. 811).”
-69.Wustawie zdnia 24 listopada 1995 r. onasiennictwie (Dz. U. z 2001 r. 53, poz. 563) po art. 51 106, poz. 496, z 1997 r. 121, poz. 770, 133, dodaje si´ art. 51awbrzmieniu: „Art. 51a. Do zadaƒ Inspekcji Nasiennej nale˝y równie˝ kontrola przestrzegania przepisów ustawy z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. 76, poz. 811), w zakresie jej w∏aÊciwoÊci.”
-70.Wustawie zdnia 4 wrzeÊnia 1997 r. odzia∏ach administracji rzàdowej (Dz. U. z 1999 r. 82, poz.928, z2000 r. 12, poz. 136, 43, poz. 489, Nr48, poz. 550, 62, poz. 718, 70, poz. 816, 73, poz. 852, 109, poz. 1158 i 122, poz. 1314 i 1321 oraz z 2001 r. 3, poz. 18, 5, poz. 43 i 44, 42, poz.475, 63, poz. 634 i 73, poz. 761) wprowadza si´ nast´pujàce zmiany:
-1) wart. 28 wust. 1 wpkt 9 kropk´ zast´puje si´ przecinkiem idodaje si´ pkt 10 wbrzmieniu: „10) organizmów genetycznie zmodyfikowanych, zwyjàtkiem spraw zwiàzanych zwydawaniem zezwoleƒ na wprowadzenie do obrotu ˝ywnoÊci iÊrodków farmaceutycznych.”;
-2) wart. 33 wust. 1 wpkt 6 kropk´ zast´puje si´ przecinkiem idodaje si´ pkt 7 wbrzmieniu: „7) organizmów genetycznie zmodyfikowanych w zakresie wydawania zezwoleƒ na wprowadzenie do obrotu ˝ywnoÊci i Êrodków farmaceutycznych.”
-71.Wustawie zdnia 9 wrzeÊnia 2000 r. oop∏acie skarbowej (Dz. U. 86, poz. 960 oraz z2001 r. Nr5, poz. 43 i 60, poz. 610) wza∏àczniku do ustawy:
-1) w rubryce „Przedmiot op∏aty skarbowej” w cz´Êci IV po pkt47 dodaje si´ pkt47awbrzmieniu: „47a. Od zgód izezwoleƒ wydanych na podstawie przepisów o organizmach genetycznie zmodyfikowanych:
+38, poz. 452 i 63, poz. 638 i 639) wart. 2 wust. 1 wpkt 12 kropkę zastępuje się przecinkiem idodaje się pkt 13 wbrzmieniu: Ń13) kontrola przestrzegania przepisów i uzyskanych na ich podstawie zezwoleń, z wyłączeniem kontroli laboratoryjnej, w zakresie postępowania zorganizmami genetycznie zmodyfikowanymi.”
+68. W ustawie z dnia 12 lipca 1995 r. o ochronie roślin uprawnych (Dz. U. z 1999 r. 66, poz. 751 i 101, poz. 1178 oraz z 2001 r. 22, poz. 248) w art. 40 dotychczasową treść oznacza się jako ust. 1 idodaje się ust. 2 wbrzmieniu: Ń2. Do zadań Inspekcji, zgodnie z ust. 1, należy również kontrola przestrzegania przepisów ustawy zdnia 22 czerwca 2001 r. oorganizmach genetycznie zmodyfikowanych (Dz. U. 76, poz. 811).”
+69.Wustawie zdnia 24 listopada 1995 r. onasiennictwie (Dz. U. z 2001 r. 53, poz. 563) po art. 51 106, poz. 496, z 1997 r. 121, poz. 770, 133, dodaje się art. 51awbrzmieniu: ŃArt. 51a. Do zadań Inspekcji Nasiennej należy również kontrola przestrzegania przepisów ustawy z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. 76, poz. 811), w zakresie jej właściwości.”
+70.Wustawie zdnia 4 września 1997 r. odziałach administracji rządowej (Dz. U. z 1999 r. 82, poz.928, z2000 r. 12, poz. 136, 43, poz. 489, Nr48, poz. 550, 62, poz. 718, 70, poz. 816, 73, poz. 852, 109, poz. 1158 i 122, poz. 1314 i 1321 oraz z 2001 r. 3, poz. 18, 5, poz. 43 i 44, 42, poz.475, 63, poz. 634 i 73, poz. 761) wprowadza się następujące zmiany:
+1) wart. 28 wust. 1 wpkt 9 kropkę zastępuje się przecinkiem idodaje się pkt 10 wbrzmieniu: Ń10) organizmów genetycznie zmodyfikowanych, zwyjątkiem spraw związanych zwydawaniem zezwoleń na wprowadzenie do obrotu żywności iśrodków farmaceutycznych.”;
+2) wart. 33 wust. 1 wpkt 6 kropkę zastępuje się przecinkiem idodaje się pkt 7 wbrzmieniu: Ń7) organizmów genetycznie zmodyfikowanych w zakresie wydawania zezwoleń na wprowadzenie do obrotu żywności i środków farmaceutycznych.”
+71.Wustawie zdnia 9 września 2000 r. oopłacie skarbowej (Dz. U. 86, poz. 960 oraz z2001 r. Nr5, poz. 43 i 60, poz. 610) wzałączniku do ustawy:
+1) w rubryce ŃPrzedmiot opłaty skarbowej” w części IV po pkt47 dodaje się pkt47awbrzmieniu: Ń47a. Od zgód izezwoleń wydanych na podstawie przepisów o organizmach genetycznie zmodyfikowanych:
 1) wydanie zgody na:
-a) uwolnienie GMO do Êrodowiska,
-b) zamkni´te u˝ycie GMO,
+a) uwolnienie GMO do środowiska,
+b) zamknięte użycie GMO,
 a) wprowadzenie do obrotu produktów GMO,
 b) wywóz lub tranzyt produktów GMO.”;
-2) wrubryce „Stawka” przy pkt47adodaje si´ kwot´ „3400 z∏”.
-72. W ustawie z dnia 9 listopada 2000 r. o dost´pie do informacji oÊrodowisku ijego ochronie oraz o ocenach oddzia∏ywania na Êrodowisko (Dz. U.
+2) wrubryce ŃStawka” przy pkt47adodaje się kwotę Ń3400 zł”.
+72. W ustawie z dnia 9 listopada 2000 r. o dostępie do informacji ośrodowisku ijego ochronie oraz o ocenach oddziaływania na środowisko (Dz. U.
 109, poz. 1157 i z 2001 r. 73, poz. 761) w art. 5 wust. 2:
-a) wpkt 1 po wyrazach „pkt 5 lit. a) ib)” dodaje si´ wyrazy „ , pkt 5a”,
-b) po pkt 5 dodaje si´ pkt 5awbrzmieniu: „5a) zzakresu przepisów oorganizmach genetycznie zmodyfikowanych:
-a) zgody na zamkni´te u˝ycie GMO,
-b) zgody na zamierzone uwalnianie GMO do Êrodowiska,
+a) wpkt 1 po wyrazach Ńpkt 5 lit. a) ib)” dodaje się wyrazy Ń , pkt 5a”,
+b) po pkt 5 dodaje się pkt 5awbrzmieniu: Ń5a) zzakresu przepisów oorganizmach genetycznie zmodyfikowanych:
+a) zgody na zamknięte użycie GMO,
+b) zgody na zamierzone uwalnianie GMO do środowiska,
 c) zezwolenia na wprowadzanie do obrotu 46, poz. 296, 96, poz. 592, 121, poz. 770 i 133, poz. 885, z 1998 r. 106, poz. 668, z 1999 r.
 101, poz. 1178, z 2000 r. 12, poz. 136, 48, poz. 550, 62, poz. 718 i 109, poz. 1157 oraz z2001r. 38, poz. 452,Nr 45, poz. 497, 63, poz. 634 i 73, poz.764).
-74. Do czasu wydania przepisów wykonawczych przewidzianych w ustawie zachowuje moc rozporzàdzenie dotychczas obowiàzujàce, wydane na podstawie ustawy, o której mowa w art. 73, nie d∏u˝ej jednak ni˝ przez okres 9 miesi´cy od dnia wejÊcia w˝ycie ustawy.
-75. 1. Do spraw wszcz´tych przed dniem wejÊcia w ˝ycie ustawy a niezakoƒczonych decyzjà ostatecznà stosuje si´ przepisy ustawy.
-2. Decyzje ostateczne wydane przed dniem wejÊcia w˝ycie ustawy na podstawie dotychczasowych przepisów zachowujà moc na okres, na jaki zosta∏y wydane.
-produktów GMO, 76.Ustawa wchodzi w˝ycie po up∏ywie trzech
-d) zezwolenia na wywóz lub tranzyt produk- miesi´cy od dnia og∏oszenia, z wyjàtkiem przepisów tów GMO,”. art. 9, art. 10, art. 12 i art. 13, które wchodzà w ˝ycie zdniem og∏oszenia.
-73. Traci moc art. 37a ustawy z dnia 31 stycznia 1980 r. o ochronie i kszta∏towaniu Êrodowiska Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 812
+74. Do czasu wydania przepisów wykonawczych przewidzianych w ustawie zachowuje moc rozporządzenie dotychczas obowiązujące, wydane na podstawie ustawy, o której mowa w art. 73, nie dłużej jednak niż przez okres 9 miesięcy od dnia wejścia wżycie ustawy.
+75. 1. Do spraw wszczętych przed dniem wejścia w życie ustawy a niezakończonych decyzją ostateczną stosuje się przepisy ustawy.
+2. Decyzje ostateczne wydane przed dniem wejścia wżycie ustawy na podstawie dotychczasowych przepisów zachowują moc na okres, na jaki zostały wydane.
+produktów GMO, 76.Ustawa wchodzi wżycie po upływie trzech
+d) zezwolenia na wywóz lub tranzyt produk- miesięcy od dnia ogłoszenia, z wyjątkiem przepisów tów GMO,”. art. 9, art. 10, art. 12 i art. 13, które wchodzą w życie zdniem ogłoszenia.
+73. Traci moc art. 37a ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 812
 USTAWA zdnia 22 czerwca 2001 r.
-owykonywaniu Konwencji ozakazie prowadzenia badaƒ, produkcji, sk∏adowania iu˝ycia broni chemicznej oraz ozniszczeniu jej zapasów.
-Rozdzia∏ 1 Przepisy ogólne
-1.Ustawa okreÊla zasady wykonywania na terytorium Rzeczypospolitej Polskiej zobowiàzaƒ wynikajàcych z Konwencji o zakazie prowadzenia badaƒ, produkcji, sk∏adowania i u˝ycia broni chemicznej oraz ozniszczeniu jej zapasów, sporzàdzonej wPary˝u dnia 13 stycznia 1993 r. (Dz. U. z1999 r. 63, poz.703), zwanej dalej „Konwencjà”.
-2. 1. Przepisy ustawy stosuje si´ wobec osób fizycznych przebywajàcych na terytorium Rzeczypospolitej Polskiej, osób prawnych i jednostek organizacyjnych nieposiadajàcych osobowoÊci prawnej oraz innych podmiotów majàcych siedzib´ na terytorium Rzeczypospolitej Polskiej, a tak˝e przedsi´biorców zagranicznych prowadzàcych na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç z wykorzystaniem zwiàzków chemicznych iich prekursorów, obj´tych postanowieniami Konwencji.
-2. Terytorium Rzeczypospolitej Polskiej stanowià nostki p∏ywajàce, o polskiej przynale˝noÊci paƒstwowej.
-3.1. Ilekroç wustawie jest mowa o„broni chemicznej”, „toksycznych zwiàzkach chemicznych”, „organicznych zwiàzkach chemicznych”, „prekursorach”, „chemicznych Êrodkach policyjnych”, „obiektach do produkcji broni chemicznej” oraz „celach niezabronionych przez Konwencj´”, poj´cia te nale˝y rozumieç wznaczeniu u˝ytym wKonwencji.
-2. U˝yte wustawie okreÊlenie „zespó∏ eskortujàcy” oznacza wyra˝enie „eskorta w kraju” w rozumieniu Konwencji.
-Rozdzia∏ 2 Zakazy i ograniczenia
-4.Zabrania si´ na terytorium Rzeczypospolitej Polskiej, zzastrze˝eniem art. 5:
-1) prowadzenia badaƒ, produkcji, wytwarzania, przetwarzania, zu˝ycia lub nabywania wjakikolwiek inny sposób, gromadzenia, przechowywania, zbyrównie˝ statki powietrzne oraz statki morskie iinne jedwania lub przekazywania komukolwiek broni chemicznej,
+owykonywaniu Konwencji ozakazie prowadzenia badań, produkcji, składowania iużycia broni chemicznej oraz ozniszczeniu jej zapasów.
+1.Ustawa określa zasady wykonywania na terytorium Rzeczypospolitej Polskiej zobowiązań wynikających z Konwencji o zakazie prowadzenia badań, produkcji, składowania i użycia broni chemicznej oraz ozniszczeniu jej zapasów, sporządzonej wParyżu dnia 13 stycznia 1993 r. (Dz. U. z1999 r. 63, poz.703), zwanej dalej ŃKonwencją”.
+2. 1. Przepisy ustawy stosuje się wobec osób fizycznych przebywających na terytorium Rzeczypospolitej Polskiej, osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej oraz innych podmiotów mających siedzibę na terytorium Rzeczypospolitej Polskiej, a także przedsiębiorców zagranicznych prowadzących na terytorium Rzeczypospolitej Polskiej działalność z wykorzystaniem związków chemicznych iich prekursorów, objętych postanowieniami Konwencji.
+2. Terytorium Rzeczypospolitej Polskiej stanowią nostki pływające, o polskiej przynależności państwowej.
+3.1. Ilekroć wustawie jest mowa oŃbroni chemicznej”, Ńtoksycznych związkach chemicznych”, Ńorganicznych związkach chemicznych”, Ńprekursorach”, Ńchemicznych środkach policyjnych”, Ńobiektach do produkcji broni chemicznej” oraz Ńcelach niezabronionych przez Konwencję”, pojęcia te należy rozumieć wznaczeniu użytym wKonwencji.
+2. Użyte wustawie określenie Ńzespół eskortujący” oznacza wyrażenie Ńeskorta w kraju” w rozumieniu Konwencji.
+4.Zabrania się na terytorium Rzeczypospolitej Polskiej, zzastrzeżeniem art. 5:
+1) prowadzenia badań, produkcji, wytwarzania, przetwarzania, zużycia lub nabywania wjakikolwiek inny sposób, gromadzenia, przechowywania, zbyrównież statki powietrzne oraz statki morskie iinne jedwania lub przekazywania komukolwiek broni chemicznej,
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Organ administracji rządowej właściwy do spraw GMO
+
+#### Rozdział 3 Zamknięte użycie GMO
+
+#### Rozdział 4 Zamierzone uwolnienie GMO do środowiska wcelach innych niż wprowadzenie do obrotu
+
+#### Rozdział 5 Wprowadzenie do obrotu produktów GMO
+
+#### Rozdział 6 Wywóz za granicę itranzyt produktów GMO
+
+#### Rozdział 7 Zasady odpowiedzialności cywilnej ikarnej
+
+#### Rozdział 8 Zmiany wprzepisach obowiązujących oraz przepisy przejściowe ikońcowe
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Zakazy i ograniczenia
 

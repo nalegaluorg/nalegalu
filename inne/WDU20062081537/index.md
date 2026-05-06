@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# datkach mieszkaniowych (Dz. U. 71, 734, póên. zm.
+# datkach mieszkaniowych (Dz. U. 71, poz. 734, póên. zm.
 
 | Pole | Wartość |
 |---|---|
@@ -24,80 +24,84 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062081537) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1537/text.pdf) |
 
-Êwiadczeƒ pomocy materialnej dla uczniów, do) art. 3 ust. 3 otrzymuje brzmie- datków dla sierot zupe∏nych, jednorazowych zanie: pomóg tytu∏u urodzenia dziecka, dodatku „3. Za dochód uwa˝a wszelkie przychody odli- tytu∏u urodzenia dziecka, pomocy zakresie czeniu kosztów uzyskania oraz odliczeniu do˝ywiania, zasi∏ków piel´gnacyjnych, zasi∏ków sk∏adek ubezpieczenie emerytalne rentowe okresowych pomocy spo∏ecznej, jednorazooraz ubezpieczenie chorobowe, okreÊlonych wych Êwiadczeƒ pieni´˝nych iÊwiadczeƒ wnatuprzepisach systemie ubezpieczeƒ spo∏ecz- rze pomocy spo∏ecznej oraz dodatku mieszkanych, chyba ˝e zosta∏y ju˝ zaliczone kosztów niowego.”.
-Ustawa wchodzi ˝ycie dniem 1 stycznia 2007 r.
-Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1536
-USTAWA dnia 22 wrzeÊnia 2006 r.
-zmianie ustawy Prawo post´powaniu przed sàdami administracyjnymi
-1. W ustawie dnia 30 sierpnia 2002 r. Prawo post´powaniu przed sàdami administracyjnymi (Dz. U. 153, 1270, póên. zm.
-„Art. 19. Niezale˝nie od przyczyn wymienionych art. 18, wy∏àcza s´dziego jego ˝à) art. 19 otrzy- danie lub wniosek strony, je˝eli istnieje muje brzmienie: okolicznoÊç tego rodzaju, ˝e mog∏aby wywo∏aç uzasadnionà wàtpliwoÊç co jego bezstronnoÊci danej sprawie.”.
-Ustawa wchodzi ˝ycie up∏ywie 14 dni od dnia og∏oszenia.
-Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+świadczeń pomocy materialnej dla uczniów, do) art. 3 ust. 3 otrzymuje brzmie- datków dla sierot zupełnych, jednorazowych zanie: pomóg tytułu urodzenia dziecka, dodatku Ń3. Za dochód uważa wszelkie przychody odli- tytułu urodzenia dziecka, pomocy zakresie czeniu kosztów uzyskania oraz odliczeniu dożywiania, zasiłków pielęgnacyjnych, zasiłków składek ubezpieczenie emerytalne rentowe okresowych pomocy społecznej, jednorazooraz ubezpieczenie chorobowe, określonych wych świadczeń pieniężnych iświadczeń wnatuprzepisach systemie ubezpieczeń społecz- rze pomocy społecznej oraz dodatku mieszkanych, chyba że zostały już zaliczone kosztów niowego.”.
+Ustawa wchodzi życie dniem 1 stycznia 2007 r.
+Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1536
+USTAWA dnia 22 września 2006 r.
+zmianie ustawy Prawo postępowaniu przed sądami administracyjnymi
+1. W ustawie dnia 30 sierpnia 2002 r. Prawo postępowaniu przed sądami administracyjnymi (Dz. U. 153, poz. 1270, póên. zm.
+ŃArt. 19. Niezależnie od przyczyn wymienionych art. 18, wyłącza sędziego jego żą) art. 19 otrzy- danie lub wniosek strony, jeżeli istnieje muje brzmienie: okoliczność tego rodzaju, że mogłaby wywołać uzasadnioną wątpliwość co jego bezstronności danej sprawie.”.
+Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia.
+Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 USTAWA dnia 18 paêdziernika 2006 r.
-likwidacji niepodj´tych depozytów
-1.Ustawa reguluje zasady itryb likwidacji nie- 1) depozytami sà: ——————— ———————
-3. Ustawy stosuje rzeczy, pieni´dzy papierów wartoÊciowych z∏o˝onych depozytu, je˝eli szczególne regulujà post´powanie zwiàzane ze z∏o˝eniem ilikwidacjà wrazie niepodj´cia.
-4. 1. Likwidacja niepodj´tego mocy prawa nast´puje razie niepodj´cia przez uprawnionego, mimo up∏ywu terminu odbioru depozytu.
-Termin odbioru wynosi 3 lata od dnia dor´czenia wezwania odbioru uprawnionemu lub wezwania, którym mowa art. 6 ust. 5.
-5. 1. Z chwilà likwidacji niepodj´tego depozytu Skarb Paƒstwa przechodzà wszelkie korzyÊci ci´˝ary, jakie przyniós∏ od dnia, którym znalaz∏ dyspozycji przechowujàcego depozyt.
-Likwidacja niepodj´tego uchyla skutków prawnych wynikajàcych ze z∏o˝enia przedmiotu Êwiadczenia depozytu, okreÊlonych wodr´bnych przepisach.
-6. 1. Przechowujàcy jest obowiàzany wezwaç uprawnionego odbioru terminie, którym mowa art. 4 ust. 2, oraz pouczyç go skutkach jego niepodj´cia.
-Wezwanie odbioru powinno nastàpiç niezw∏ocznie jego z∏o˝eniu lub uzyskaniu wiadomoÊci wystàpieniu okolicznoÊci, która umo˝liwia odebranie tego depozytu.
-3. W przypadku gdy jest znane miejsce zasprzedaç wolnej r´ki.
-Depozyt, którego przechowywanie by∏oby zwiàzane kosztami niewspó∏miernie wysokimi stosunku jego wartoÊci lub nadmiernymi trudnoÊciami albo powodowa∏oby znaczne obni˝enie jego wartoÊci, sàd, wniosek przechowujàcego depozyt, postanowi sprzedaç wed∏ug przepisów ustawy dnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U.
-43, 296, póên. zm.
-mieszkania lub siedziba uprawnionego, przechowujàcy wyst´puje organu prowadzàcego w∏aÊciwà ewidencj´, rejestr lub zbiór danych oudzielenie informacji umo˝liwiajàcych ustalenie tego miejsca.
-4. W przypadku gdy uprawniony jest znany albo jest mo˝liwe ustalenie jego miejsca zamieszkania albo siedziby podstawie ewidencji, rejestrów lub zbiorów danych, wezwanie odbioru mo˝e nastàpiç up∏ywie 3 lat od dnia z∏o˝enia przedmiotu depozytu.
-) egzekucji ruchomoÊci.
-3. Wniosek, którym mowa ust. 2, rozpoznaje rejonowy w∏aÊciwy ze wzgl´du miejsce z∏o˝enia depozytu, stosujàc odpowiednio ustawy zdnia 17 listopada 1964 r. Kodeks post´powania cywilnego post´powaniu nieprocesowym.
-4. Na postanowienie sàdu przys∏uguje za˝alenie.
-3. W przypadku gdy uprawniony jest znany albo jest mo˝liwe ustalenie jego miejsca zamieszkania albo siedziby, koszty okreÊlone ust. 1 ponosi Skarb Paƒstwa.
-9. 1. Likwidacj´ niepodj´tego stwierdza wniosek przechowujàcego depozyt.
-Je˝eli przechowujàcym jest sàd, likwidacj´ niepodj´tego stwierdza urz´du.
-10. Depozyt, który przeszed∏ w∏asnoÊç Skarbu Paƒstwa, przechowujàcy przekazuje naczelnikowi w∏aÊciwego urz´du skarbowego.
+likwidacji niepodjętych depozytów
+1.Ustawa reguluje zasady itryb likwidacji nie- 1) depozytami są: ——————— ———————
+3. Ustawy stosuje rzeczy, pieniędzy papierów wartościowych złożonych depozytu, jeżeli szczególne regulują postępowanie związane ze złożeniem ilikwidacją wrazie niepodjęcia.
+4. 1. Likwidacja niepodjętego mocy prawa następuje razie niepodjęcia przez uprawnionego, mimo upływu terminu odbioru depozytu.
+Termin odbioru wynosi 3 lata od dnia doręczenia wezwania odbioru uprawnionemu lub wezwania, którym mowa art. 6 ust. 5.
+5. 1. Z chwilą likwidacji niepodjętego depozytu Skarb Państwa przechodzą wszelkie korzyści ciężary, jakie przyniósł od dnia, którym znalazł dyspozycji przechowującego depozyt.
+Likwidacja niepodjętego uchyla skutków prawnych wynikających ze złożenia przedmiotu świadczenia depozytu, określonych wodrębnych przepisach.
+6. 1. Przechowujący jest obowiązany wezwać uprawnionego odbioru terminie, którym mowa art. 4 ust. 2, oraz pouczyć go skutkach jego niepodjęcia.
+Wezwanie odbioru powinno nastąpić niezwłocznie jego złożeniu lub uzyskaniu wiadomości wystąpieniu okoliczności, która umożliwia odebranie tego depozytu.
+3. W przypadku gdy jest znane miejsce zasprzedać wolnej ręki.
+Depozyt, którego przechowywanie byłoby związane kosztami niewspółmiernie wysokimi stosunku jego wartości lub nadmiernymi trudnościami albo powodowałoby znaczne obniżenie jego wartości, sąd, wniosek przechowującego depozyt, postanowi sprzedać według przepisów ustawy dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U.
+43, poz. 296, póên. zm.
+mieszkania lub siedziba uprawnionego, przechowujący występuje organu prowadzącego właściwą ewidencję, rejestr lub zbiór danych oudzielenie informacji umożliwiających ustalenie tego miejsca.
+4. W przypadku gdy uprawniony jest znany albo jest możliwe ustalenie jego miejsca zamieszkania albo siedziby podstawie ewidencji, rejestrów lub zbiorów danych, wezwanie odbioru może nastąpić upływie 3 lat od dnia złożenia przedmiotu depozytu.
+) egzekucji ruchomości.
+3. Wniosek, którym mowa ust. 2, rozpoznaje rejonowy właściwy ze względu miejsce złożenia depozytu, stosując odpowiednio ustawy zdnia 17 listopada 1964 r. Kodeks postępowania cywilnego postępowaniu nieprocesowym.
+4. Na postanowienie sądu przysługuje zażalenie.
+3. W przypadku gdy uprawniony jest znany albo jest możliwe ustalenie jego miejsca zamieszkania albo siedziby, koszty określone ust. 1 ponosi Skarb Państwa.
+9. 1. Likwidację niepodjętego stwierdza wniosek przechowującego depozyt.
+Jeżeli przechowującym jest sąd, likwidację niepodjętego stwierdza urzędu.
+10. Depozyt, który przeszedł własność Skarbu Państwa, przechowujący przekazuje naczelnikowi właściwego urzędu skarbowego.
 11. W ustawie dnia 17 listopada 1964 r.
-Kodeks post´powania cywilnego (Dz. U. 43, 296, póên. zm. ) wprowadza nast´pujàce zmiany: Sprawy depozytowe Rozdzia∏ 1 Z∏o˝enie przedmiotu Êwiadczenia sàdowego
-692. W sprawach z∏o˝enie przedmiotu Êwiadczenia sàdowego w∏aÊciwy jest miejsca wykonania zobowiàzania. Je˝eli miejsca tego da ustaliç, w∏aÊciwy jest miejsca zamieszkania wierzyciela, a gdy wierzyciel jest nieznany lub gdy jest znane miejsce jego zamieszkania miejsca zamieszkania d∏u˝nika. Je˝eli zobowiàzanie jest zabezpieczone wpisem ksi´dze wieczystej, w∏aÊciwy jest miejsca po∏o˝enia nieruchomoÊci.
-693. We wniosku z∏o˝enie przedmiotu Êwiadczenia sàdowego nale˝y:
-1) okreÊliç zobowiàzanie, przy wykonaniu którego sk∏ada przedmiot;
-2) przytoczyç okolicznoÊci uzasadniajàce z∏o˝enie;
-3) dok∏adnie oznaczyç przedmiot, który ma byç z∏o˝ony;
-4) wskazaç osob´, której przedmiot ma byç wydany, oraz warunki, pod którymi wydanie ma nastàpiç.
-693 . W post´powaniu z∏o˝enie przedmiotu Êwiadczenia sàdowego bada prawdziwoÊci twierdzeƒ zawartych we wniosku, ograniczajàc oceny, czy wed∏ug przytoczonych okolicznoÊci z∏o˝enie jest prawuzasadnione.
-693 . § 1. Z∏o˝enie przedmiotu Êwiadczenia sàdowego mo˝e byç dokonane dopiero uzyskaniu zezwolenia sàdu.
-§ Je˝eli jednak przedmiotem Êwiadczenia sà pieniàdze polskie, z∏o˝enie mo˝e byç dokonane równie˝ przed uzyskaniem zezwolenia sàdu. W takim wypadku d∏u˝nik sposób wiadomoÊci publicznej;
-mo˝e je równie˝ og∏osiç Monitorze Sàdowym Gospodarczym.
-§ Og∏oszenie powinno zawieraç dane okreÊlone art. 693 pkt 1, 3 4 oraz wezwanie wierzyciela odbioru depozytu.
-§ 3. Je˝eli wierzyciel lub jego miejsce zamieszkania sà znane, ustanawia kuratora. Przepis art. 510 § 2 stosuje odpowiednio.
-693 . § 1. Sàd mo˝e za˝àdaç, aby zosta∏ z∏o˝ony wodpowiednim opakowaniu.
-§ Przed przyj´ciem kosztownoÊci sàdowego poddaje je opisowi oszacowaniu przez bieg∏ego obecnoÊci d∏u˝nika lub wyznaczonej przez niego osoby.
-693 . § 1. Je˝eli d∏u˝nik jest zobowiàzany Êwiadczeƒ powtarzajàcych si´, a zachodzà warunki z∏o˝enia depozytu sàdowego Êwiadczeƒ ju˝ wymagalnych, mo˝e zezwoliç d∏u˝nikowi sk∏adanie przysz∏oÊci dalszych Êwiadczeƒ chwili, gdy stanà wymagalne.
-Oz∏o˝eniu ka˝dego Êwiadczenia zawiadamia wierzyciela.
-§ Na wniosek wierzyciela uchyli postanowienie zezwoleniu d∏u˝nikowi sk∏adanie Êwiadczeƒ zasadach okreÊlonych § 1, je˝eli wierzyciel wyrazi gotowoÊç przyjmowania pokwitowania odbioru dalszych Êwiadczeƒ wymagalnych.
-693 . § 1. Pieniàdze, kosztownoÊci, ksià˝eczki oszcz´dnoÊciowe, papiery wartoÊciowe inne dokumenty oraz przedmioty, które majà byç przyj´te sàdowego podstawie przepisów szczególnych, przechowuje sàdzie lub banku.
-˝alenie.
-§ Do dozorcy stosuje odpowiednio dotyczàce dozorcy toku egzekucji sàdowej.
+Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, póên. zm. ) wprowadza następujące zmiany: Sprawy depozytowe
+692. W sprawach złożenie przedmiotu świadczenia sądowego właściwy jest miejsca wykonania zobowiązania. Jeżeli miejsca tego da ustalić, właściwy jest miejsca zamieszkania wierzyciela, a gdy wierzyciel jest nieznany lub gdy jest znane miejsce jego zamieszkania miejsca zamieszkania dłużnika. Jeżeli zobowiązanie jest zabezpieczone wpisem księdze wieczystej, właściwy jest miejsca położenia nieruchomości.
+693. We wniosku złożenie przedmiotu świadczenia sądowego należy:
+1) określić zobowiązanie, przy wykonaniu którego składa przedmiot;
+2) przytoczyć okoliczności uzasadniające złożenie;
+3) dokładnie oznaczyć przedmiot, który ma być złożony;
+4) wskazać osobę, której przedmiot ma być wydany, oraz warunki, pod którymi wydanie ma nastąpić.
+693 . W postępowaniu złożenie przedmiotu świadczenia sądowego bada prawdziwości twierdzeń zawartych we wniosku, ograniczając oceny, czy według przytoczonych okoliczności złożenie jest prawuzasadnione.
+693 . § 1. Złożenie przedmiotu świadczenia sądowego może być dokonane dopiero uzyskaniu zezwolenia sądu.
+§ Jeżeli jednak przedmiotem świadczenia są pieniądze polskie, złożenie może być dokonane również przed uzyskaniem zezwolenia sądu. W takim wypadku dłużnik sposób wiadomości publicznej;
+może je również ogłosić Monitorze Sądowym Gospodarczym.
+§ Ogłoszenie powinno zawierać dane określone art. 693 pkt 1, 3 4 oraz wezwanie wierzyciela odbioru depozytu.
+§ 3. Jeżeli wierzyciel lub jego miejsce zamieszkania są znane, ustanawia kuratora. Przepis art. 510 § 2 stosuje odpowiednio.
+693 . § 1. Sąd może zażądać, aby został złożony wodpowiednim opakowaniu.
+§ Przed przyjęciem kosztowności sądowego poddaje je opisowi oszacowaniu przez biegłego obecności dłużnika lub wyznaczonej przez niego osoby.
+693 . § 1. Jeżeli dłużnik jest zobowiązany świadczeń powtarzających się, a zachodzą warunki złożenia depozytu sądowego świadczeń już wymagalnych, może zezwolić dłużnikowi składanie przyszłości dalszych świadczeń chwili, gdy staną wymagalne.
+Ozłożeniu każdego świadczenia zawiadamia wierzyciela.
+§ Na wniosek wierzyciela uchyli postanowienie zezwoleniu dłużnikowi składanie świadczeń zasadach określonych § 1, jeżeli wierzyciel wyrazi gotowość przyjmowania pokwitowania odbioru dalszych świadczeń wymagalnych.
+693 . § 1. Pieniądze, kosztowności, książeczki oszczędnościowe, papiery wartościowe inne dokumenty oraz przedmioty, które mają być przyjęte sądowego podstawie przepisów szczególnych, przechowuje sądzie lub banku.
+żalenie.
+§ Do dozorcy stosuje odpowiednio dotyczące dozorcy toku egzekucji sądowej.
 693 . Dokumenty inne depozyty rzeczowe przechowuje stanie niezmienionym.
-693 . § 1. Je˝eli przedmiotem Êwiadczenia, które ma byç z∏o˝one sàdowego, jest rzecz ruchoma ulegajàca ∏atwemu zepsuciu, jak równie˝ rzecz ruchoma, której przechowywanie by∏oby zwiàzane kosztami niewspó∏miernie wysokimi stosunku jej wartoÊci lub nadmiernymi trudnoÊciami albo powodowa∏oby znaczne obni˝enie jej wartoÊci, wniosek d∏u˝nika zarzàdzi postanowieniem sprzeda˝ rzeczy wed∏ug przepisów egzekucji ruchomoÊci.
-§ Uzyskanà ze sprzeda˝y kwot´ komornik sk∏ada sàdowego.
-693 . Po przyj´ciu wyda d∏u˝nikowi pokwitowanie.
-Rozdzia∏ 2 Zwrot sàdowego sk∏adajàcemu wydanie sàdowego uprawnionemu 693 . § 1. Na ˝àdanie d∏u˝nika zwróci mu depozyt, je˝eli wierzyciel za˝àda∏ wydania depozytu.
-§ Je˝eli wniosek d∏u˝nika ozwrot depozytu wniosek wierzyciela wydanie zosta∏y zg∏oszone równoczeÊnie, postanowi wydaç depozyt wierzycielowi.
-693 . W razie z∏o˝enia skutek orzeczenia sàdu lub innego organu, depozyt mo˝e byç zwrócony d∏u˝nikone wpisem ksi´dze wieczystej, a skutek z∏o˝enia przedmiotu Êwiadczenia nastàpi∏o wykreÊlenie tego wpisu, d∏u˝nik mo˝e ˝àdaç wydania mu tylko za zgodà wierzyciela, chyba ˝e przepis szczególny stanowi inaczej.
-693 . Na ˝àdanie d∏u˝nika, zg∏oszone przed wydaniem przez postanowienia wydaniu depozytu, przyzna mu od wierzyciela zwrot kosztów post´powania.
-693 . Je˝eli z∏o˝enie sàdowego nastàpi∏o ˝àdanie w∏aÊciwego organu, wydaje osobie uprawnionej dopiero wykazaniu przez nià, ˝e warunki, pod którymi wydanie depozytu mog∏o nastàpiç, zosta∏y spe∏nione.
-Rozdzia∏ 3 Post´powanie sprawach stwierdzenie likwidacji niepodj´tego 693 . § 1. Przepisy niniejszego rozdzia∏u stosuje wsprawach ostwierdzenie likwidacji niepodj´tych depozytów, oile innych ustaw stanowià inaczej.
-§ W sprawach, których mowa § 1, w∏aÊciwy jest miejsca z∏o˝enia depozytu.
-693 . § 1. We wniosku ostwierdzenie likwidacji niepodj´tego nale˝y:
-1) wskazaç okolicznoÊci, których przedstawiç dowody potwierdzajàce dokonanie czynnoÊci majàcych celu wyjaÊnienie tych okolicznoÊci.
-693 nastàpi∏o z∏o˝enie depozytu;
-. W sprawie stwierdzenie likwidacji niepodj´tego mo˝e wszczàç post´powanie urz´du.
-693 . Uczestników, którzy sà znani lub których miejsce zamieszkania lub siedziba jest znane, wzywa udzia∏u wpost´powaniu przez obwieszczenie publiczne budynku sàdowym.
-693 . Do wykonania orzeczenia stwierdzeniu likwidacji niepodj´tego jest obowiàzany naczelnik w∏aÊciwego urz´du skarbowego trybie zasadach okreÊlonych przepisach post´powaniu egzekucyjnym administracji.”.
-12. Do likwidacji niepodj´tych depozytów istniejàcych dniu wejÊcia ˝ycie ustawy stosuje tej ustawy, przy czym poczet terminu przewidzianego art. 6 ust. 4 zalicza okres, przez jaki znajdowa∏ dyspozycji przechowujàcego depozyt.
-13.Traci moc dekret zdnia 18 wrzeÊnia 1954 r.
-olikwidacji podj´tych depozytów inie odebranych rzeczy (Dz. U. 41, 184, 1965 r. 16, 94 oraz 2004 r. 51, 514).
-14. Ustawa wchodzi w˝ycie up∏ywie 3 miesi´cy od dnia og∏oszenia.
-Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1538
+693 . § 1. Jeżeli przedmiotem świadczenia, które ma być złożone sądowego, jest rzecz ruchoma ulegająca łatwemu zepsuciu, jak również rzecz ruchoma, której przechowywanie byłoby związane kosztami niewspółmiernie wysokimi stosunku jej wartości lub nadmiernymi trudnościami albo powodowałoby znaczne obniżenie jej wartości, wniosek dłużnika zarządzi postanowieniem sprzedaż rzeczy według przepisów egzekucji ruchomości.
+§ Uzyskaną ze sprzedaży kwotę komornik składa sądowego.
+693 . Po przyjęciu wyda dłużnikowi pokwitowanie.
+§ Jeżeli wniosek dłużnika ozwrot depozytu wniosek wierzyciela wydanie zostały zgłoszone równocześnie, postanowi wydać depozyt wierzycielowi.
+693 . W razie złożenia skutek orzeczenia sądu lub innego organu, depozyt może być zwrócony dłużnikone wpisem księdze wieczystej, a skutek złożenia przedmiotu świadczenia nastąpiło wykreślenie tego wpisu, dłużnik może żądać wydania mu tylko za zgodą wierzyciela, chyba że przepis szczególny stanowi inaczej.
+693 . Na żądanie dłużnika, zgłoszone przed wydaniem przez postanowienia wydaniu depozytu, przyzna mu od wierzyciela zwrot kosztów postępowania.
+693 . Jeżeli złożenie sądowego nastąpiło żądanie właściwego organu, wydaje osobie uprawnionej dopiero wykazaniu przez nią, że warunki, pod którymi wydanie depozytu mogło nastąpić, zostały spełnione.
+§ W sprawach, których mowa § 1, właściwy jest miejsca złożenia depozytu.
+693 . § 1. We wniosku ostwierdzenie likwidacji niepodjętego należy:
+1) wskazać okoliczności, których przedstawić dowody potwierdzające dokonanie czynności mających celu wyjaśnienie tych okoliczności.
+693 nastąpiło złożenie depozytu;
+. W sprawie stwierdzenie likwidacji niepodjętego może wszcząć postępowanie urzędu.
+693 . Uczestników, którzy są znani lub których miejsce zamieszkania lub siedziba jest znane, wzywa udziału wpostępowaniu przez obwieszczenie publiczne budynku sądowym.
+693 . Do wykonania orzeczenia stwierdzeniu likwidacji niepodjętego jest obowiązany naczelnik właściwego urzędu skarbowego trybie zasadach określonych przepisach postępowaniu egzekucyjnym administracji.”.
+12. Do likwidacji niepodjętych depozytów istniejących dniu wejścia życie ustawy stosuje tej ustawy, przy czym poczet terminu przewidzianego art. 6 ust. 4 zalicza okres, przez jaki znajdował dyspozycji przechowującego depozyt.
+13.Traci moc dekret zdnia 18 września 1954 r.
+olikwidacji podjętych depozytów inie odebranych rzeczy (Dz. U. 41, poz. 184, 1965 r. 16, poz. 94 oraz 2004 r. 51, poz. 514).
+14. Ustawa wchodzi wżycie upływie 3 miesięcy od dnia ogłoszenia.
+Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1538
 USTAWA dnia 18 paêdziernika 2006 r.
+
+#### Rozdział 1 Złożenie przedmiotu świadczenia sądowego
+
+#### Rozdział 2 Zwrot sądowego składającemu wydanie sądowego uprawnionemu 693 . § 1. Na żądanie dłużnika zwróci mu depozyt, jeżeli wierzyciel zażądał wydania depozytu.
+
+#### Rozdział 3 Postępowanie sprawach stwierdzenie likwidacji niepodjętego 693 . § 1. Przepisy niniejszego rozdziału stosuje wsprawach ostwierdzenie likwidacji niepodjętych depozytów, oile innych ustaw stanowią inaczej.
 

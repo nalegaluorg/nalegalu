@@ -26,153 +26,144 @@ domain: null
 
 **Art. 1.**
 
-1. Ustawa okreÊla zasady przyznawania okresowej zwrotnej pomocy paƒstwa osobom fizycznym zobowiàzanym do sp∏aty kredytu mieszkaniowego, które utraci∏y prac´, zwanej dalej „pomocà”, warunki korzystania zpomocy ijej zwrotu.
+1. Ustawa określa zasady przyznawania okresowej zwrotnej pomocy państwa osobom fizycznym zobowiązanym do spłaty kredytu mieszkaniowego, które utraciły pracę, zwanej dalej Ńpomocą”, oraz warunki korzystania zpomocy ijej zwrotu.
 
-2. Pomoc jest realizowana za poÊrednictwem Banku Gospodarstwa Krajowego. èród∏em finansowania pomocy kosztów jej realizacji jest Fundusz Pracy.
+2. Pomoc jest realizowana za pośrednictwem Banku Gospodarstwa Krajowego. èródłem finansowania pomocy oraz kosztów jej realizacji jest Fundusz Pracy.
 
 **Art. 2.**
 
-1. U˝yte wustawie okreÊlenia oznaczajà:
+1. Użyte wustawie określenia oznaczają:
 
-- **1)** lokal mieszkalny samodzielny lokal mieszkalny wrozumieniu art. 2ust. 2zdanie pierwsze ustawy zdnia 24 czerwca 1994 ow∏asnoÊci lokali (Dz. U. 2000 80, 903 2004 141, poz.1492), po∏o˝ony na terytorium RzeczypospoliPolskiej, taki lokal mieszkalny wraz pomieszczeniami przynale˝nymi rozumieniu art.2ust. 4tej ustawy;
-- **2)** dom jednorodzinny budynek mieszkalny rozumieniu przepisów ustawy dnia 7 lipca 1994 Prawo budowlane (Dz. U. 2006 156, poz.1118, póên. zm. ), po∏o˝ony na terytorium Rzeczypospolitej Polskiej, którym nie znajduje si´ b´dàcy w∏asnoÊcià kredytobiorcy lokal u˝ytkowy;
-- **3)** instytucja kredytujàca bank krajowy, oddzia∏ instytucji kredytowej, oddzia∏ banku zagranicznego, których mowa art. 4 ust. 1 pkt 1, 18 20 ustawy dnia 29 sierpnia 1997 Prawo bankowe (Dz. U. z2002 72, 665, zpóên. zm.
+- **1)** lokal mieszkalny samodzielny lokal mieszkalny wrozumieniu art. 2ust. 2zdanie pierwsze ustawy zdnia 24 czerwca 1994 owłasności lokali (Dz. U. 2000 80, 903 oraz 2004 141, poz.1492), położony na terytorium RzeczypospoliPolskiej, oraz taki lokal mieszkalny wraz pomieszczeniami przynależnymi rozumieniu art.2ust. 4tej ustawy; dom jednorodzinny budynek mieszkalny rozumieniu przepisów ustawy dnia 7 lipca 1994 Prawo budowlane (Dz. U. 2006 156, poz.1118, póên. zm. ), położony na terytorium Rzeczypospolitej Polskiej, którym nie znajduje będący własnością kredytobiorcy lokal użytkowy;
+- **3)** instytucja kredytująca bank krajowy, oddział instytucji kredytowej, oddział banku zagranicznego, których mowa art. 4 ust. 1 pkt 1, 18 20 ustawy dnia 29 sierpnia 1997 Prawo bankowe (Dz. U. z2002 72, 665, zpóên. zm.
 
 2. Kredytem mieszkaniowym rozumieniu ustawy jest kredyt udzielony na:
 
-- **1)** budow´ domu jednorodzinnego, je˝eli przed z∏o˝eniem wniosku pomoc w∏aÊciwy organ nie zg∏osi∏ wterminie sprzeciwu wzwiàzku zzawiadomieniem zakoƒczeniu budowy albo zosta∏a wydana ostateczna decyzja pozwoleniu na u˝ytkowanie obiektu budowlanego,
-- **2)** nabycie: wbudynku wielorodzinnym,
-    - **a)** prawa w∏asnoÊci domu jednorodzinnego lub prawa odr´bnej w∏asnoÊci lokalu mieszkalnego ) albo spó∏dzielczà kas´ oszcz´dnoÊciowo-kredytowà, które udzieli∏y kredytu mieszkaniowego.
-    - **b)** spó∏dzielczego w∏asnoÊciowego prawa do lokalu mieszkalnego,
-    - **c)** prawa odr´bnej w∏asnoÊci lokalu mieszkalnego wspó∏dzielni mieszkaniowej którego sp∏at´ zabezpieczono hipotekà ustanowionà na przedmiocie kredytowania.
+- **1)** budowę domu jednorodzinnego, jeżeli przed złożeniem wniosku pomoc właściwy organ nie zgłosił wterminie sprzeciwu wzwiązku zzawiadomieniem zakończeniu budowy albo została wydana ostateczna decyzja pozwoleniu na użytkowanie obiektu budowlanego, nabycie: wbudynku wielorodzinnym,
+    - **a)** prawa własności domu jednorodzinnego lub prawa odrębnej własności lokalu mieszkalnego ) albo spółdzielczą kasę oszczędnościowo-kredytową, które udzieliły kredytu mieszkaniowego.
+    - **b)** spółdzielczego własnościowego prawa do lokalu mieszkalnego,
+    - **c)** prawa odrębnej własności lokalu mieszkalnego współdzielni mieszkaniowej którego spłatę zabezpieczono hipoteką ustanowioną na przedmiocie kredytowania.
 
-3. Kredytem mieszkaniowym rozumieniu ustawy jest równie˝:
+3. Kredytem mieszkaniowym rozumieniu ustawy jest również:
 
-- **1)** kredyt udzielony na sp∏at´ kredytu mieszkaniowego, którym mowa ust. 2, je˝eli kredyt ten zosta∏ zabezpieczony hipotekà na przedmiocie kredytowania;
-- **2)** ta cz´Êç kredytu udzielonego na sp∏at´ ró˝nych zobowiàzaƒ kredytowych, która jest przeznaczona na sp∏at´ kredytu mieszkaniowego, którym mowa wust. 2, je˝eli kredyt ten zosta∏ zabezpieczony wsposób, októrym mowa wpkt 1.
+- **1)** kredyt udzielony na spłatę kredytu mieszkaniowego, którym mowa ust. 2, jeżeli kredyt ten został zabezpieczony hipoteką na przedmiocie kredytowania; ta część kredytu udzielonego na spłatę różnych zobowiązań kredytowych, która jest przeznaczona na spłatę kredytu mieszkaniowego, którym mowa wust. 2, jeżeli kredyt ten został zabezpieczony wsposób, októrym mowa wpkt 1.
 
 **Art. 3.**
 
-1. Pomoc mo˝e byç przyznana kredytobiorcy zobowiàzanemu do sp∏aty kredytu mieszkaniowego, który po dniu 1lipca 2008 utraci∏ prac´ rozumianà jako:
+1. Pomoc może być przyznana kredytobiorcy zobowiązanemu do spłaty kredytu mieszkaniowego, który po dniu 1lipca 2008 utracił pracę rozumianą jako:
 
-- **1)** zatrudnienie lub innà prac´ zarobkowà lub
-- **2)** prowadzenie dzia∏alnoÊci gospodarczej, podlegajàcej wpisowi do ewidencji dzia∏alnoÊci gospodarczej, jako przedsi´biorca niezatrudniajàcy pracowników zarejestrowa∏ si´ jako bezrobotny któremu ——————— c jàtkowa, akredytobiorca nie utraci∏ pracy, pomoc mo˝e byç przyznana, je˝eli ma∏˝onek nieb´dàcy kredytobiorcà spe∏nia warunki, októrych mowa wust. 1, inie utraci∏ zatrudnienia wsposób okreÊlony wust. 3.
+- **1)** zatrudnienie lub inną pracę zarobkową lub prowadzenie działalności gospodarczej, podlegającej wpisowi do ewidencji działalności gospodarczej, jako przedsiębiorca niezatrudniający pracowników oraz zarejestrował jako bezrobotny któremu ——————— r c jątkowa, akredytobiorca nie utracił pracy, pomoc może być przyznana, jeżeli małżonek niebędący kredytobiorcą spełnia warunki, októrych mowa wust. 1, inie utracił zatrudnienia wsposób określony wust. 3.
 
-5. Pomoc nie mo˝e byç przyznana na sp∏at´ kredytu mieszkaniowego, je˝eli jeden kredytobiorców uzyska∏ pomoc na zasadach okreÊlonych ustawie, chyba ˝e pomoc nie jest ju˝ udzielana, a okres udzielonej pomocy nie przekroczy∏ 11 miesi´cy. W takim przypadku ∏àczny okres pomocy przyznanej kredytobiorcom na sp∏at´ kredytu mieszkaniowego, zabezpieczonego hipotekà ustanowionà na tym samym przedmiocie kredytowania, nie mo˝e przekroczyç 12 miesi´cy.
+5. Pomoc nie może być przyznana na spłatę kredytu mieszkaniowego, jeżeli jeden kredytobiorców uzyskał pomoc na zasadach określonych ustawie, chyba że pomoc nie jest już udzielana, a okres udzielonej pomocy nie przekroczył 11 miesięcy. W takim przypadku łączny okres pomocy przyznanej kredytobiorcom na spłatę kredytu mieszkaniowego, zabezpieczonego hipoteką ustanowioną na tym samym przedmiocie kredytowania, nie może przekroczyć 12 miesięcy.
 
-3. Pomoc jest przekazywana ratach miesi´cznych, nie wy˝szych ni˝ 1200z∏, na wskazany przez instytucj´ kredytujàcà rachunek przeznaczony do przekazywania pomocy na sp∏at´ kredytu mieszkaniowego, przy czym liczba rat nie mo˝e byç wi´ksza ni˝ 12.
+3. Pomoc jest przekazywana ratach miesięcznych, nie wyższych niż 1200zł, na wskazany przez instytucję kredytującą rachunek przeznaczony do przekazywania pomocy na spłatę kredytu mieszkaniowego, przy czym liczba rat nie może być większa niż 12.
 
-4. WysokoÊç pomocy terminy jej przekazywania sà okreÊlane decyzji, której mowa art. 6 ust. 1, na podstawie informacji zawartych oÊwiadczeniu instytucji kredytujàcej, októrym mowa wart. 6ust. 4.
+4. Wysokość pomocy terminy jej przekazywania są określane decyzji, której mowa art. 6 ust. 1, na podstawie informacji zawartych oświadczeniu instytucji kredytującej, októrym mowa wart. 6ust. 4.
 
-5. W przypadku gdy kredyt mieszkaniowy jest sp∏acany wwalucie obcej, Bank Gospodarstwa Krajo6. Pomoc nie mo˝e byç przyznana, je˝eli umowa kredytu mieszkaniowego zosta∏a wypowiedziana.
+5. W przypadku gdy kredyt mieszkaniowy jest spłacany wwalucie obcej, Bank Gospodarstwa Krajo6. Pomoc nie może być przyznana, jeżeli umowa kredytu mieszkaniowego została wypowiedziana.
 
-**Art. 4.** Pomoc nie mo˝e byç przyznana, je˝eli wdniu z∏o˝enia wniosku opomoc uprawniony lub jego ma∏˝onek:
+**Art. 4.** Pomoc nie może być przyznana, jeżeli wdniu złożenia wniosku opomoc uprawniony lub jego małżonek:
 
 **Art. 5.**
 
-1. Pomoc polega na przekazywaniu przez Bank Gospodarstwa Krajowego instytucji kredytujàcej kwoty Êrodków pieni´˝nych okreÊlonej decyzji, której mowa art. 6 ust. 1, przeznaczeniem na wego przekazuje pomoc wwalucie sp∏aty kredytu, dokonujàc przeliczenia wysokoÊci raty pomocy wynikajàcej zdecyzji, októrej mowa wart. 6ust. 1, na walut´ sp∏aty kredytu wed∏ug kursu sprzeda˝y og∏oszonego przez Narodowy Bank Polski, obowiàzujàcego dniu poprzedzajàcym dzieƒ przekazania Êrodków pieni´˝nych ztytu∏u pomocy.
+1. Pomoc polega na przekazywaniu przez Bank Gospodarstwa Krajowego instytucji kredytującej kwoty środków pieniężnych określonej decyzji, której mowa art. 6 ust. 1, przeznaczeniem na wego przekazuje pomoc wwalucie spłaty kredytu, dokonując przeliczenia wysokości raty pomocy wynikającej zdecyzji, októrej mowa wart. 6ust. 1, na walutę spłaty kredytu według kursu sprzedaży ogłoszonego przez Narodowy Bank Polski, obowiązującego dniu poprzedzającym dzień przekazania środków pieniężnych ztytułu pomocy.
 
-6. W przypadku gdy uprawniony zawar∏ umow´, której mowa art. 6 ust. 2 pkt 2 lit. b, przekazywanie rat pomocy rozpoczyna si´ po up∏ywie okresu wyp∏aty Êwiadczenia ztytu∏u umowy.
+6. W przypadku gdy uprawniony zawarł umowę, której mowa art. 6 ust. 2 pkt 2 lit. b, przekazywanie rat pomocy rozpoczyna po upływie okresu wypłaty świadczenia ztytułu umowy.
 
-7. Pomocy przyznanej na podstawie ustawy nie uwzgl´dnia si´ przy ocenie zdolnoÊci uprawnionego do pokrywania ca∏oÊci lub cz´Êci Êwiadczeƒ wynikajàcych zumowy kredytu mieszkaniowego.
+7. Pomocy przyznanej na podstawie ustawy nie uwzględnia przy ocenie zdolności uprawnionego do pokrywania całości lub części świadczeń wynikających zumowy kredytu mieszkaniowego.
 
 **Art. 6.**
 
-1. Pomoc jest przyznawana na podstawie decyzji w∏aÊciwego starosty, zwanej dalej „decyzjà”, na wniosek uprawnionego z∏o˝ony wed∏ug ustalonego wzoru, terminie do dnia 31 grudnia 2010 r., wpowiatowym urz´dzie pracy, wktórym zosta∏ on zarejestrowany jako bezrobotny.
+1. Pomoc jest przyznawana na podstawie decyzji właściwego starosty, zwanej dalej Ńdecyzją”, na wniosek uprawnionego złożony według ustalonego wzoru, terminie do dnia 31 grudnia 2010 r., wpowiatowym urzędzie pracy, wktórym został on zarejestrowany jako bezrobotny.
 
 2. We wniosku, którym mowa ust. 1, uprawniony:
 
-- **1)** podaje imi´ nazwisko, adres miejsca zamieszkania, numer PESEL, oile zosta∏ nadany, numer dowodu osobistego lub rodzaj inumer innego dokumentu potwierdzajàcego to˝samoÊç;
-- **2)** sk∏ada, pod rygorem odpowiedzialnoÊci karnej za sk∏adanie fa∏szywych oÊwiadczeƒ, oÊwiadczenie o:
-    - **a)** istnieniu okolicznoÊci stanowiàcych podstaw´ przyznania pomocy, ——————— c
+- **1)** podaje imię nazwisko, adres miejsca zamieszkania, numer PESEL, oile został nadany, oraz numer dowodu osobistego lub rodzaj inumer innego dokumentu potwierdzającego tożsamość; składa, pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń, oświadczenie o:
+    - **a)** istnieniu okoliczności stanowiących podstawę przyznania pomocy, ——————— r c dane kredytobiorcy zakresie określonym wust.2pkt 1;
 
-- **2)** dane kredytobiorcy zakresie okreÊlonym wust.2pkt 1;
 - **3)** numer umowy kredytu mieszkaniowego;
-- **4)** numer rachunku wskazany przez instytucj´ kredytujàcà przeznaczony do przekazywania pomocy na sp∏at´ kredytu mieszkaniowego;
-- **5)** walut´ sp∏aty kredytu mieszkaniowego;
-- **6)** terminy p∏atnoÊci wysokoÊç z∏otych kolejnych 12 niewymagalnych miesi´cznych rat kapita∏owych odsetkowych, a przypadku zawarcia umowy, której mowa ust. 2 pkt 2 lit. b terminy p∏atnoÊci tych rat rozpoczynajàce si´ od miesiàca nast´pujàcego po up∏ywie okresu wyp∏aty Êwiadczenia ztytu∏u umowy; wprzypadku kredytów indeksowanych walutowych przy przeliczeniu na z∏ote stosuje si´ kurs Êredni og∏oszony przez Narodowy Bank Polski wdniu wymagalnoÊci ostatniej raty kredytu mieszkaniowego.
+- **4)** numer rachunku wskazany przez instytucję kredytującą przeznaczony do przekazywania pomocy na spłatę kredytu mieszkaniowego;
+- **5)** walutę spłaty kredytu mieszkaniowego;
+- **6)** terminy płatności oraz wysokość złotych kolejnych 12 niewymagalnych miesięcznych rat kapitałowych odsetkowych, a przypadku zawarcia umowy, której mowa ust. 2 pkt 2 lit. b terminy płatności tych rat rozpoczynające od miesiąca następującego po upływie okresu wypłaty świadczenia ztytułu umowy; wprzypadku kredytów indeksowanych walutowych przy przeliczeniu na złote stosuje kurs średni ogłoszony przez Narodowy Bank Polski wdniu wymagalności ostatniej raty kredytu mieszkaniowego.
 
-5. Wprzypadku gdy kredytobiorca zawar∏ umow´, októrej mowa wust. 2pkt 2lit. b, jest obowiàzany podaç we wniosku, októrym mowa wust. 4, informacj´ warunkach wszystkich umów ubezpieczenia, na podstawie których przys∏uguje mu Êwiadczenie ztytu∏u utraty pracy, tym terminie, którym up∏ywa okres wyp∏aty Êwiadczeƒ tytu∏u tych umów, chyba ˝e instytucja kredytujàca jest wposiadaniu tych informacji.
+5. Wprzypadku gdy kredytobiorca zawarł umowę, októrej mowa wust. 2pkt 2lit. b, jest obowiązany podać we wniosku, októrym mowa wust. 4, informację warunkach wszystkich umów ubezpieczenia, na podstawie których przysługuje mu świadczenie ztytułu utraty pracy, tym terminie, którym upływa okres wypłaty świadczeń tytułu tych umów, chyba że instytucja kredytująca jest wposiadaniu tych informacji.
 
-6. Minister w∏aÊciwy do spraw pracy porozumieniu ministrem w∏aÊciwym do spraw instytucji finansowych okreÊli, wdrodze rozporzàdzenia:
+6. Minister właściwy do spraw pracy porozumieniu ministrem właściwym do spraw instytucji finansowych określi, wdrodze rozporządzenia:
 
-- **1)** wzór wniosku, którym mowa ust. 1, uwzgl´dnieniem treÊci oÊwiadczenia, którym mowa wust. 2pkt 2, koniecznoÊci pouczenia wnioskodawcy odpowiedzialnoÊci karnej za sk∏adanie fa∏szywych oÊwiadczeƒ, a tak˝e skutkach otrzymania pomocy nienale˝nej,
-- **2)** wzór oÊwiadczenia instytucji kredytujàcej, którym mowa wust. 4 kierujàc si´ potrzebà rzetelnego udokumentowania danych niezb´dnych do przyznania pomocy.
+- **1)** wzór wniosku, którym mowa ust. 1, uwzględnieniem treści oświadczenia, którym mowa wust. 2pkt 2, oraz konieczności pouczenia wnioskodawcy odpowiedzialności karnej za składanie fałszywych oświadczeń, a także skutkach otrzymania pomocy nienależnej, wzór oświadczenia instytucji kredytującej, którym mowa wust. 4 kierując potrzebą rzetelnego udokumentowania danych niezbędnych do przyznania pomocy.
 
 **Art. 7.**
 
 1. Decyzja, októrej mowa wart. 6ust. 1, zawiera:
 
-- **1)** okreÊlenie uprawnionego ze wskazaniem informacji, októrych mowa wart. 6ust. 2pkt 1;
+- **1)** określenie uprawnionego ze wskazaniem informacji, októrych mowa wart. 6ust. 2pkt 1;
 
-4. Decyzj´ dor´cza si´ uprawnionemu, akopi´ decyzji przekazuje Bankowi Gospodarstwa Krajowego instytucji kredytujàcej.
+4. Decyzję doręcza uprawnionemu, akopię decyzji przekazuje Bankowi Gospodarstwa Krajowego oraz instytucji kredytującej.
 
-5. Je˝eli decyzja zawiera oczywiste omy∏ki uniemo˝liwiajàce realizacj´ przez Bank Gospodarstwa Krajowego decyzji albo nie zawiera danych umo˝liwiajàcych jej realizacj´, Bank informuje niezw∏ocznie tym fakcie starost´ uprawnionego. W takim przypadku Bank nie przekazuje rat pomocy wynikajàcych zdecyzji do czasu otrzymania od starosty kopii postanowienia sprostowaniu b∏´dów wydanej decyzji albo informacji obraku podstaw do wydania postanowienia.
+5. Jeżeli decyzja zawiera oczywiste omyłki uniemożliwiające realizację przez Bank Gospodarstwa Krajowego decyzji albo nie zawiera danych umożliwiających jej realizację, Bank informuje niezwłocznie tym fakcie starostę uprawnionego. W takim przypadku Bank nie przekazuje rat pomocy wynikających zdecyzji do czasu otrzymania od starosty kopii postanowienia sprostowaniu błędów wydanej decyzji albo informacji obraku podstaw do wydania postanowienia.
 
 **Art. 8.**
 
 1. Bank Gospodarstwa Krajowego przekazuje pomoc na podstawie decyzji.
 
-2. Wprzypadku otrzymania przez Bank Gospodarstwa Krajowego kopii decyzji wterminie póêniejszym ni˝ 3dni robocze przed terminem najbli˝szej p∏atnoÊci raty pomocy wynikajàcej decyzji, Bank dokona pierwszej p∏atnoÊci raty pomocy terminie 3 dni roboczych od dnia otrzymania kopii decyzji.
+2. Wprzypadku otrzymania przez Bank Gospodarstwa Krajowego kopii decyzji wterminie póêniejszym niż 3dni robocze przed terminem najbliższej płatności raty pomocy wynikającej decyzji, Bank dokona pierwszej płatności raty pomocy terminie 3 dni roboczych od dnia otrzymania kopii decyzji.
 
-3. W przypadku, którym mowa art. 7 ust. 5, Bank Gospodarstwa Krajowego dokona pierwszej p∏atnoÊci raty terminie 3 dni roboczych od dnia otrzymania kopii postanowienia sprostowaniu b∏´dów wydanej decyzji albo informacji braku podstaw do wydania postanowienia.
+3. W przypadku, którym mowa art. 7 ust. 5, Bank Gospodarstwa Krajowego dokona pierwszej płatności raty terminie 3 dni roboczych od dnia otrzymania kopii postanowienia sprostowaniu błędów wydanej decyzji albo informacji braku podstaw do wydania postanowienia.
 
 **Art. 9.**
 
-1. Bank Gospodarstwa Krajowego jest niezw∏ocznie powiadamiany przez:
+1. Bank Gospodarstwa Krajowego jest niezwłocznie powiadamiany przez:
 
-- **1)** powiatowy urzàd pracy outracie statusu bezrobotnego przez uprawnionego;
-- **2)** instytucj´ kredytujàcà ozbyciu przedmiotu kredytowania, wypowiedzeniu umowy kredytu mieszkaniowego albo dokonaniu jego sp∏aty;
-- **3)** uprawnionego ozbyciu przedmiotu kredytowania, wypowiedzeniu umowy kredytu mieszkaniowego albo podj´ciu czynnoÊci egzekucyjnych zprzedmiotu kredytowania.
+- **1)** powiatowy urząd pracy outracie statusu bezrobotnego przez uprawnionego; instytucję kredytującą ozbyciu przedmiotu kredytowania, wypowiedzeniu umowy kredytu mieszkaniowego albo dokonaniu jego spłaty;
+- **3)** uprawnionego ozbyciu przedmiotu kredytowania, wypowiedzeniu umowy kredytu mieszkaniowego albo podjęciu czynności egzekucyjnych zprzedmiotu kredytowania.
 
-2. Bank Gospodarstwa Krajowego zaprzestaje przekazywania rat pomocy dniem otrzymania informacji, których mowa ust. 1, zastrze˝eniem art.10 pkt 1. Ozaprzestaniu przekazywania rat pomoc
+2. Bank Gospodarstwa Krajowego zaprzestaje przekazywania rat pomocy dniem otrzymania informacji, których mowa ust. 1, zastrzeżeniem art.10 pkt 1. Ozaprzestaniu przekazywania rat pomor c
 
 **Art. 11.**
 
-1. Ârodki Funduszu Pracy, których jest finansowana pomoc koszty jej realizacji przez Bank Gospodarstwa Krajowego sà przekazywane na wyodr´bniony rachunek wBanku przez ministra w∏aÊciwego do spraw pracy zutworzonej na ten cel rezerwy.
+1. Ârodki Funduszu Pracy, których jest finansowana pomoc oraz koszty jej realizacji przez Bank Gospodarstwa Krajowego są przekazywane na wyodrębniony rachunek wBanku przez ministra właściwego do spraw pracy zutworzonej na ten cel rezerwy.
 
-2. Sposób przekazywania rozliczania Êrodków, októrych mowa wust. 1, zuwzgl´dnieniem przypadku okreÊlonego wust. 6, okreÊla umowa zawarta mi´dzy Bankiem Gospodarstwa Krajowego a dysponentem Funduszu Pracy.
+2. Sposób przekazywania rozliczania środków, októrych mowa wust. 1, zuwzględnieniem przypadku określonego wust. 6, określa umowa zawarta między Bankiem Gospodarstwa Krajowego a dysponentem Funduszu Pracy.
 
-3. Dysponent Funduszu Pracy przekazuje Êrodki, októrych mowa wust. 1, na wyodr´bniony rachunek Banku Gospodarstwa Krajowego terminie 7 dni od dnia z∏o˝enia zapotrzebowania na te Êrodki.
+3. Dysponent Funduszu Pracy przekazuje środki, októrych mowa wust. 1, na wyodrębniony rachunek Banku Gospodarstwa Krajowego terminie 7 dni od dnia złożenia zapotrzebowania na te środki.
 
-4. Bank Gospodarstwa Krajowego dokonuje rozliczenia otrzymanych Êrodków terminie 20 dni po up∏ywie miesiàca, którym przekazano Êrodki na realizacj´ pomocy.
+4. Bank Gospodarstwa Krajowego dokonuje rozliczenia otrzymanych środków terminie 20 dni po upływie miesiąca, którym przekazano środki na realizację pomocy.
 
-5. Bankowi Gospodarstwa Krajowego przys∏uguje prowizja ztytu∏u realizacji zadaƒ wynikajàcych zprzepisów ustawy wysokoÊci okreÊlonej umowie, której mowa ust. 2, nie wy˝szej jednak ni˝ 1,5 % kwoty Êrodków przekazanych przez Bank tytu∏u pomocy.
+5. Bankowi Gospodarstwa Krajowego przysługuje prowizja ztytułu realizacji zadań wynikających zprzepisów ustawy wysokości określonej umowie, której mowa ust. 2, nie wyższej jednak niż 1,5 % kwoty środków przekazanych przez Bank tytułu pomocy.
 
-6. Je˝eli wysokoÊç Êrodków, których mowa ust. 1, nie pozwala na dokonanie p∏atnoÊci rat pomocy wwysokoÊci wynikajàcej zdecyzji, Bank Gospodarstwa Krajowego dokona p∏atnoÊci w∏asnych Êrodków, a dysponent Funduszu Pracy zwróci Bankowi wyp∏aconà kwot´ wraz odsetkami okreÊlonymi wumowie, októrej mowa wust. 2.
+6. Jeżeli wysokość środków, których mowa ust. 1, nie pozwala na dokonanie płatności rat pomocy wwysokości wynikającej zdecyzji, Bank Gospodarstwa Krajowego dokona płatności własnych środków, a dysponent Funduszu Pracy zwróci Bankowi wypłaconą kwotę wraz odsetkami określonymi wumowie, októrej mowa wust. 2.
 
-**Art. 12.** Bank Gospodarstwa Krajowego informuje w∏aÊciwego starost´ wysokoÊci Êrodków przekazanych tytu∏u dokonywanych p∏atnoÊci rat pomocy terminach ich przekazania na rachunek instytucji kredytujàcej.
+**Art. 12.** Bank Gospodarstwa Krajowego informuje właściwego starostę wysokości środków przekazanych tytułu dokonywanych płatności rat pomocy oraz terminach ich przekazania na rachunek instytucji kredytującej.
 
 **Art. 13.**
 
-1. Zwrot pomocy przyznanej na podstawie ustawy rozpoczyna si´ miesiàcu nast´pujàcym po miesiàcu, wktórym up∏yn´∏y dwa lata od zaprzestania p∏atnoÊci rat pomocy ijest dokonywany przez 8kolejnych lat równych nieoprocentowanych miesi´cznych ratach, p∏atnych do 15 dnia ka˝dego miesiàca, na rachunek bankowy Funduszu Pracy w∏aÊciwego powiatowego urz´du pracy.
+1. Zwrot pomocy przyznanej na podstawie ustawy rozpoczyna miesiącu następującym po miesiącu, wktórym upłynęły dwa lata od zaprzestania płatności rat pomocy ijest dokonywany przez 8kolejnych lat równych nieoprocentowanych miesięcznych ratach, płatnych do 15 dnia każdego miesiąca, na rachunek bankowy Funduszu Pracy właściwego powiatowego urzędu pracy.
 
 **Art. 15.**
 
-1. W przypadku uchybienia terminowi, którym mowa art. 13 ust. 1 lub art. 14, w∏aÊciwy starosta wzywa uprawnionego do dokonania p∏atnoÊci, wyznaczajàc termin jej dokonania nie d∏u˝szy ni˝ 30 dni.
+1. W przypadku uchybienia terminowi, którym mowa art. 13 ust. 1 lub art. 14, właściwy starosta wzywa uprawnionego do dokonania płatności, wyznaczając termin jej dokonania nie dłuższy niż 30 dni.
 
-2. W przypadku niedokonania p∏atnoÊci terminie okreÊlonym wwezwaniu, starosta wydaje decyzj´ wsprawie zwrotu pomocy.
+2. W przypadku niedokonania płatności terminie określonym wwezwaniu, starosta wydaje decyzję wsprawie zwrotu pomocy.
 
 **Art. 16.**
 
-1. Osoba, która otrzyma∏a pomoc nienale˝nà na podstawie przepisów ustawy, dokonuje zwrotu Êrodków równych kwocie przyznanej pomocy wraz zodsetkami ustawowymi naliczonymi od dnia przekazania przez Bank Gospodarstwa Krajowego na rachunek instytucji kredytujàcej Êrodków tytu∏u pomocy. Zwrot Êrodków nast´puje na rachunek bankowy Funduszu Pracy w∏aÊciwego powiatowego urz´du pracy terminie 30 dni od dnia dor´czenia decyzji sprawie pomocy nienale˝nej.
+1. Osoba, która otrzymała pomoc nienależną na podstawie przepisów ustawy, dokonuje zwrotu środków równych kwocie przyznanej pomocy wraz zodsetkami ustawowymi naliczonymi od dnia przekazania przez Bank Gospodarstwa Krajowego na rachunek instytucji kredytującej środków tytułu pomocy. Zwrot środków następuje na rachunek bankowy Funduszu Pracy właściwego powiatowego urzędu pracy terminie 30 dni od dnia doręczenia decyzji sprawie pomocy nienależnej.
 
-2. Za pomoc nienale˝nà uwa˝a si´ pomoc wyp∏aconà:
+2. Za pomoc nienależną uważa pomoc wypłaconą:
 
-- **1)** pomimo zaistnienia okolicznoÊci stanowiàcych podstaw´ zaprzestania p∏atnoÊci rat pomocy;
-- **2)** na podstawie nieprawdziwych informacji lub sfa∏szowanych dokumentów albo innych przypadkach Êwiadomego wprowadzenia b∏àd starosty przez osob´, której pomoc przyznano.
+- **1)** pomimo zaistnienia okoliczności stanowiących podstawę zaprzestania płatności rat pomocy; na podstawie nieprawdziwych informacji lub sfałszowanych dokumentów albo innych przypadkach świadomego wprowadzenia błąd starosty przez osobę, której pomoc przyznano.
 
-3. Decyzj´ sprawie pomocy nienale˝nej wydaje starosta, który pomoc przyzna∏. Decyzj´ dor´cza si´ osobie, której pomoc przyznano.
+3. Decyzję sprawie pomocy nienależnej wydaje starosta, który pomoc przyznał. Decyzję doręcza osobie, której pomoc przyznano.
 
 **Art. 17.**
 
-1. W zakresie nieuregulowanym ustawà do nale˝noÊci tytu∏u zwrotów pomocy, których mowa wart. 13, 14 i16, stosuje si´ odpowiednio przepisy dzia∏u III ustawy dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 2005 8, 60, zpóên. zm. ), ztym ˝e zamiast odsetek za zw∏ok´ nalicza si´ odsetki ustawowe.
+1. W zakresie nieuregulowanym ustawą do należności tytułu zwrotów pomocy, których mowa wart. 13, 14 i16, stosuje odpowiednio przepisy działu III ustawy dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 2005 8, 60, zpóên. zm. ), ztym że zamiast odsetek za zwłokę nalicza odsetki ustawowe.
 
-2. Egzekucj´ nale˝noÊci ztytu∏u zwrotów pomocy, których mowa art. 13, 14 16, prowadzi starosta trybie przepisów post´powaniu egzekucyjnym wadministracji. ——————— c jewoda.
+2. Egzekucję należności ztytułu zwrotów pomocy, których mowa art. 13, 14 16, prowadzi starosta trybie przepisów postępowaniu egzekucyjnym wadministracji. ——————— r c jewoda.
 
-**Art. 19.** Bank Gospodarstwa Krajowego sporzàdza kwartalne informacje wysokoÊci przebiegu wyp∏aty pomocy przyznanej na podstawie ustawy przekazuje je dysponentowi Funduszu Pracy do 20 dnia miesiàca nast´pujàcego po up∏ywie kwarta∏u.
+**Art. 19.** Bank Gospodarstwa Krajowego sporządza kwartalne informacje wysokości przebiegu wypłaty pomocy przyznanej na podstawie ustawy przekazuje je dysponentowi Funduszu Pracy do 20 dnia miesiąca następującego po upływie kwartału.
 
-**Art. 20.** Wustawie zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych (Dz. U. 2000 14, 176, zpóên. zm. ) wart. 21 wust. 1dodaje si´ pkt 134 wbrzmieniu: nast´pujàce zmiany:
+**Art. 20.** Wustawie zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych (Dz. U. 2000 14, 176, zpóên. zm. ) wart. 21 wust. 1dodaje pkt 134 wbrzmieniu: następujące zmiany:
 
-**Art. 22.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski ——————— c
+**Art. 22.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— r c
 

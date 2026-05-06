@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# sów sporzàdzanych aktów notarialnych, dotyczàcych czynnoÊci, z tytu∏u których sà p∏atnikami podatku.”;
+# sów sporządzanych aktów notarialnych, dotyczących czynności, z tytułu których są płatnikami podatku.”;
 
 | Pole | Wartość |
 |---|---|
@@ -25,51 +25,51 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001682) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1682/text.pdf) |
 
 11) wart. 19:
-a) ust. 3 otrzymuje brzmienie: „3. Osoby prawne jednostki organizacyjne niemajàce osobowoÊci prawnej, b´dàce d∏u˝nikiem spadkodawcy, sà obowiàzane, przy zap∏acie d∏ugu, potràciç przekazaç w∏aÊciwego urz´du skarbowego podatek nabycia spadku, nale˝ny spadkobiercy wysokoÊci ustalonej przez ten urzàd. Zap∏ata d∏ugu bez potràcenia podatku nabyktórego notariusz ma uwierzytelniç podpis, ma byç zbycie praw spadku albo zbycie lub obcià˝enie rzeczy lub praw majàtkowych uzyskanych przez zbywc´ drodze spadku lub zasiedzenia, notariusz mo˝e sporzàdziç akt lub uwierzytelniç w∏asnor´cznoÊç podpisu tylko za uprzednià pisemnà zgodà urz´du skarbowego albo po stwierdzeniu przez urzàd skarbowy, ˝e nabycie spadku jest zwolnione podatku lub ˝e nale˝ny podatek zosta∏ zap∏acony albo prawo wydania decyzji ustalajàcej wysokoÊç zobowiàzania podatkowego uleg∏o przedawnieniu.”.
-cia spadku mo˝e nastàpiç tylko za uprzednià pisemnà zgodà urz´du skarbowego albo po stwierdzeniu przez urzàd skarbowy, ˝e nabycie spadku jest zwolnione podatku lub ˝e
-2. Ustawa wchodzi ˝ycie z dniem 1 stycznia 2003 r.
-Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+a) ust. 3 otrzymuje brzmienie: Ń3. Osoby prawne jednostki organizacyjne niemające osobowości prawnej, będące dłużnikiem spadkodawcy, są obowiązane, przy zapłacie długu, potrącić przekazać właściwego urzędu skarbowego podatek nabycia spadku, należny spadkobiercy wysokości ustalonej przez ten urząd. Zapłata długu bez potrącenia podatku nabyktórego notariusz ma uwierzytelnić podpis, ma być zbycie praw spadku albo zbycie lub obciążenie rzeczy lub praw majątkowych uzyskanych przez zbywcę drodze spadku lub zasiedzenia, notariusz może sporządzić akt lub uwierzytelnić własnoręczność podpisu tylko za uprzednią pisemną zgodą urzędu skarbowego albo po stwierdzeniu przez urząd skarbowy, że nabycie spadku jest zwolnione podatku lub że należny podatek został zapłacony albo prawo wydania decyzji ustalającej wysokość zobowiązania podatkowego uległo przedawnieniu.”.
+cia spadku może nastąpić tylko za uprzednią pisemną zgodą urzędu skarbowego albo po stwierdzeniu przez urząd skarbowy, że nabycie spadku jest zwolnione podatku lub że
+2. Ustawa wchodzi życie z dniem 1 stycznia 2003 r.
+Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 USTAWA zdnia 30 paêdziernika 2002 r.
-opodatku leÊnym.
-1. 1. Opodatkowaniu podatkiem leÊnym podle- 3) u˝ytkownikami wieczystymi lasów;
-gajà okreÊlone wustawie lasy, zwyjàtkiem lasów zaj´tych wykonywanie innej dzia∏alnoÊci gospodarczej 4) posiadaczami lasów, stanowiàcych w∏asnoÊç Skarni˝ dzia∏alnoÊç leÊna. bu Paƒstwa lub jednostki samorzàdu terytorialnego.
-2. Lasem rozumieniu ustawy sà grunty leÊne sklasyfikowane wewidencji gruntów ibudynków jako 2. Obowiàzek podatkowy wzakresie podatku leÊnelasy. go lasów pozostajàcych wzarzàdzie Paƒstwowego Gospodarstwa LeÊnego Lasy Paƒstwowe, zwanego
-3. Za dzia∏alnoÊç leÊnà, wrozumieniu ustawy, uwa- dalej „Lasami Paƒstwowymi”, wchodzàcych ˝a si´ dzia∏alnoÊç w∏aÊcicieli, posiadaczy lub zarzàd- wsk∏ad Zasobu W∏asnoÊci Rolnej Skarbu Paƒstwa, nieców lasów zakresie urzàdzania, ochrony zagospo- obj´tych obowiàzkiem podatkowym podstawie darowania lasu, utrzymywania powi´kszania zasobów iupraw leÊnych, gospodarowania zwierzynà, po- ust. 1 pkt 4, cià˝y odpowiednio jednostkach organizyskiwania z wyjàtkiem skupu drewna, ˝ywicy, zacyjnych Agencji W∏asnoÊci Rolnej Skarbu Paƒstwa choinek, karpiny, kory, igliwia, zwierzyny p∏odów iLasów Paƒstwowych.
-runa leÊnego, a tak˝e sprzeda˝ tych produktów stanie nieprzerobionym. 3. Je˝eli las znajduje si´ wposiadaniu samoistnym, obowiàzek podatkowy wzakresie podatku leÊnego cià2. 1. Podatnikami podatku leÊnego, zzastrze˝e- ˝y posiadaczu samoistnym.
-niem ust. 2, sà osoby fizyczne, osoby prawne, jednostki organizacyjne, wtym spó∏ki, nieposiadajàce osobo- 4. Je˝eli las jest wspó∏w∏asnoÊcià lub znajduje si´ woÊci prawnej, b´dàce: posiadaniu dwóch lub wi´cej podmiotów, stanowi wówczas odr´bny przedmiot opodatkowania podat1) w∏aÊcicielami lasów, zzastrze˝eniem ust. 3;
-pierwsze trzy kwarta∏y roku poprzedzajàcego rok podatkowy.
-2. Do ceny, o której mowa ust. 1, nie wlicza si´ kwoty podatku towarów ius∏ug.
-3. Dla lasów ochronnych lasów wchodzàcych sk∏ad rezerwatów przyrody parków narodowych stawka podatku leÊnego, októrej mowa wust. 1, ulega obni˝eniu o50%.
-4. Ârednià cen´ sprzeda˝y drewna, o której mowa ust. 1, ustala si´ podstawie komunikatu Prezesa G∏ównego Urz´du Statystycznego, og∏aszanego Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski” wterminie 20 dni po up∏ywie trzeciego kwarta∏u.
-5. Rada gminy mo˝e obni˝yç kwot´ stanowiàcà Êrednià cen´ sprzeda˝y drewna, okreÊlonà ust. 4, przyjmowanà jako podstawa obliczania podatku leÊnego obszarze gminy.
-5. 1. Obowiàzek podatkowy zakresie podatku leÊnego powstaje pierwszego dnia miesiàca nast´pujàcego po miesiàcu, którym zaistnia∏y okolicznoÊci uzasadniajàce powstanie tego obowiàzku.
-2. Obowiàzek podatkowy wygasa ostatniego dnia miesiàca, którym przesta∏y istnieç okolicznoÊci uzasadniajàce ten obowiàzek.
-3. Je˝eli obowiàzek podatkowy powsta∏ lub wygas∏ wtrakcie roku podatkowego, podatek leÊny za ten rok ustala si´ proporcjonalnie liczby miesi´cy, których istnia∏ obowiàzek.
-4. Je˝eli wtrakcie roku podatkowego las zosta∏ zaj´ty wykonywanie dzia∏alnoÊci gospodarczej innej ni˝ dzia∏alnoÊç leÊna lub po zaprzestaniu wykonywania tej dzia∏alnoÊci przywrócono dzia∏alnoÊç leÊnà, albo z innych powodów jego powierzchnia uleg∏a zmniejszeniu lub zwi´kszeniu kwota nale˝nego podatku leÊnego ulega obni˝eniu lub podwy˝szeniu, poczynajàc pierwszego dnia miesiàca nast´pujàcego po miesiàcu, wktórym nastàpi∏a ta zmiana.
-6. 1. Organem podatkowym w∏aÊciwym wsprawach podatku leÊnego jest wójt (burmistrz, prezydent miasta).
-2. Osoby fizyczne, z zastrze˝eniem ust. 7, sà obowiàzane z∏o˝yç organowi podatkowemu, w∏aÊciwemu ze wzgl´du miejsce po∏o˝enia lasu, informacje olasach, sporzàdzone formularzach wed∏ug ustaloneterminach dnia 15 marca, 15 maja, 15 wrzeÊnia i15 listopada roku podatkowego.
-4. Je˝eli wtrakcie roku podatkowego nastàpi∏o wygaÊni´cie obowiàzku podatkowego wzakresie podatku leÊnego lub zaistnia∏y zmiany, októrych mowa wart. 5 ust. 4, organ podatkowy dokonuje zmiany decyzji, którà ustalono ten podatek.
-5. Osoby prawne, jednostki organizacyjne, tym spó∏ki, nieposiadajàce osobowoÊci prawnej, jednostki organizacyjne Lasów Paƒstwowych, a tak˝e jednostki organizacyjne Agencji W∏asnoÊci Rolnej Skarbu Paƒstwa sà obowiàzane:
-1) sk∏adaç, terminie dnia 15 stycznia, organowi podatkowemu, w∏aÊciwemu ze wzgl´du miejsce po∏o˝enia lasów, deklaracje podatek leÊny dany rok podatkowy, sporzàdzone formularzu wed∏ug ustalonego wzoru, a je˝eli obowiàzek podatkowy powsta∏ po tym dniu terminie 14 dni dnia wystàpienia okolicznoÊci uzasadniajàcych powstanie tego obowiàzku;
-2) odpowiednio skorygowaç deklaracje, wrazie zaistnienia zmian, októrych mowa wart. 5 ust. 4, wterminie 14 dni dnia zaistnienia tych zmian;
-3) wp∏acaç wratach proporcjonalnych czasu trwania obowiàzku podatkowego obliczony deklaracji podatek leÊny rachunek bud˝etu w∏aÊciwej gminy, za poszczególne miesiàce, dnia 15 ka˝dego miesiàca.
-6. Obowiàzek sk∏adania informacji olasach deklaracji podatek leÊny, o którym mowa ust. 2 5 pkt 1, dotyczy równie˝ podatników korzystajàcych ze zwolnieƒ mocy przepisów ustawy.
-7. Je˝eli las stanowi wspó∏w∏asnoÊç lub znajduje si´ wposiadaniu osób fizycznych osób prawnych, jednostek organizacyjnych, wtym spó∏ek, nieposiadajàcych osobowoÊci prawnej osoby fizyczne sk∏adajà deklaracj´ podatek leÊny op∏acajà podatek zasadach obowiàzujàcych osoby prawne.
-8. Rada gminy, drodze uchwa∏y, mo˝e zarzàdziç pobór podatku leÊnego osób wymienionych ust. 2 drodze inkasa wyznaczyç inkasentów iokreÊliç wysokoÊç wynagrodzenia za inkaso.
-9. Rada gminy okreÊla, drodze uchwa∏y, wzory formularzy, októrych mowa wust. 2 i5 pkt 1. Wformularzach b´dà zawarte dane dotyczàce podmiotu
-1) szko∏y wy˝sze, wy˝sze szko∏y zawodowe wy˝sze szko∏y wojskowe;
-2) szko∏y, placówki, zak∏ady kszta∏cenia iplacówki doskonalenia nauczycieli publiczne iniepubliczne, organy prowadzàce te szko∏y, placówki izak∏ady odpowiednio z tytu∏u zarzàdu, u˝ytkowania lub u˝ytkowania wieczystego nieruchomoÊci szkolnych;
+opodatku leśnym.
+1. 1. Opodatkowaniu podatkiem leśnym podle- 3) użytkownikami wieczystymi lasów;
+gają określone wustawie lasy, zwyjątkiem lasów zajętych wykonywanie innej działalności gospodarczej 4) posiadaczami lasów, stanowiących własność Skarniż działalność leśna. bu Państwa lub jednostki samorządu terytorialnego.
+2. Lasem rozumieniu ustawy są grunty leśne sklasyfikowane wewidencji gruntów ibudynków jako 2. Obowiązek podatkowy wzakresie podatku leśnelasy. go lasów pozostających wzarządzie Państwowego Gospodarstwa Leśnego Lasy Państwowe, zwanego
+3. Za działalność leśną, wrozumieniu ustawy, uwa- dalej ŃLasami Państwowymi”, wchodzących ża się działalność właścicieli, posiadaczy lub zarząd- wskład Zasobu Własności Rolnej Skarbu Państwa, nieców lasów zakresie urządzania, ochrony zagospo- objętych obowiązkiem podatkowym podstawie darowania lasu, utrzymywania powiększania zasobów iupraw leśnych, gospodarowania zwierzyną, po- ust. 1 pkt 4, ciąży odpowiednio jednostkach organizyskiwania z wyjątkiem skupu drewna, żywicy, zacyjnych Agencji Własności Rolnej Skarbu Państwa choinek, karpiny, kory, igliwia, zwierzyny płodów iLasów Państwowych.
+runa leśnego, a także sprzedaż tych produktów stanie nieprzerobionym. 3. Jeżeli las znajduje się wposiadaniu samoistnym, obowiązek podatkowy wzakresie podatku leśnego cią2. 1. Podatnikami podatku leśnego, zzastrzeże- ży posiadaczu samoistnym.
+niem ust. 2, są osoby fizyczne, osoby prawne, jednostki organizacyjne, wtym spółki, nieposiadające osobo- 4. Jeżeli las jest współwłasnością lub znajduje się wości prawnej, będące: posiadaniu dwóch lub więcej podmiotów, stanowi wówczas odrębny przedmiot opodatkowania podat1) właścicielami lasów, zzastrzeżeniem ust. 3;
+pierwsze trzy kwartały roku poprzedzającego rok podatkowy.
+2. Do ceny, o której mowa ust. 1, nie wlicza się kwoty podatku towarów iusług.
+3. Dla lasów ochronnych lasów wchodzących skład rezerwatów przyrody parków narodowych stawka podatku leśnego, októrej mowa wust. 1, ulega obniżeniu o50%.
+4. Ârednią cenę sprzedaży drewna, o której mowa ust. 1, ustala się podstawie komunikatu Prezesa Głównego Urzędu Statystycznego, ogłaszanego Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” wterminie 20 dni po upływie trzeciego kwartału.
+5. Rada gminy może obniżyć kwotę stanowiącą średnią cenę sprzedaży drewna, określoną ust. 4, przyjmowaną jako podstawa obliczania podatku leśnego obszarze gminy.
+5. 1. Obowiązek podatkowy zakresie podatku leśnego powstaje pierwszego dnia miesiąca następującego po miesiącu, którym zaistniały okoliczności uzasadniające powstanie tego obowiązku.
+2. Obowiązek podatkowy wygasa ostatniego dnia miesiąca, którym przestały istnieć okoliczności uzasadniające ten obowiązek.
+3. Jeżeli obowiązek podatkowy powstał lub wygasł wtrakcie roku podatkowego, podatek leśny za ten rok ustala się proporcjonalnie liczby miesięcy, których istniał obowiązek.
+4. Jeżeli wtrakcie roku podatkowego las został zajęty wykonywanie działalności gospodarczej innej niż działalność leśna lub po zaprzestaniu wykonywania tej działalności przywrócono działalność leśną, albo z innych powodów jego powierzchnia uległa zmniejszeniu lub zwiększeniu kwota należnego podatku leśnego ulega obniżeniu lub podwyższeniu, poczynając pierwszego dnia miesiąca następującego po miesiącu, wktórym nastąpiła ta zmiana.
+6. 1. Organem podatkowym właściwym wsprawach podatku leśnego jest wójt (burmistrz, prezydent miasta).
+2. Osoby fizyczne, z zastrzeżeniem ust. 7, są obowiązane złożyć organowi podatkowemu, właściwemu ze względu miejsce położenia lasu, informacje olasach, sporządzone formularzach według ustaloneterminach dnia 15 marca, 15 maja, 15 września i15 listopada roku podatkowego.
+4. Jeżeli wtrakcie roku podatkowego nastąpiło wygaśnięcie obowiązku podatkowego wzakresie podatku leśnego lub zaistniały zmiany, októrych mowa wart. 5 ust. 4, organ podatkowy dokonuje zmiany decyzji, którą ustalono ten podatek.
+5. Osoby prawne, jednostki organizacyjne, tym spółki, nieposiadające osobowości prawnej, jednostki organizacyjne Lasów Państwowych, a także jednostki organizacyjne Agencji Własności Rolnej Skarbu Państwa są obowiązane:
+1) składać, terminie dnia 15 stycznia, organowi podatkowemu, właściwemu ze względu miejsce położenia lasów, deklaracje podatek leśny dany rok podatkowy, sporządzone formularzu według ustalonego wzoru, a jeżeli obowiązek podatkowy powstał po tym dniu terminie 14 dni dnia wystąpienia okoliczności uzasadniających powstanie tego obowiązku;
+2) odpowiednio skorygować deklaracje, wrazie zaistnienia zmian, októrych mowa wart. 5 ust. 4, wterminie 14 dni dnia zaistnienia tych zmian;
+3) wpłacać wratach proporcjonalnych czasu trwania obowiązku podatkowego obliczony deklaracji podatek leśny rachunek budżetu właściwej gminy, za poszczególne miesiące, dnia 15 każdego miesiąca.
+6. Obowiązek składania informacji olasach deklaracji podatek leśny, o którym mowa ust. 2 5 pkt 1, dotyczy również podatników korzystających ze zwolnień mocy przepisów ustawy.
+7. Jeżeli las stanowi współwłasność lub znajduje się wposiadaniu osób fizycznych osób prawnych, jednostek organizacyjnych, wtym spółek, nieposiadających osobowości prawnej osoby fizyczne składają deklarację podatek leśny opłacają podatek zasadach obowiązujących osoby prawne.
+8. Rada gminy, drodze uchwały, może zarządzić pobór podatku leśnego osób wymienionych ust. 2 drodze inkasa wyznaczyć inkasentów iokreślić wysokość wynagrodzenia za inkaso.
+9. Rada gminy określa, drodze uchwały, wzory formularzy, októrych mowa wust. 2 i5 pkt 1. Wformularzach będą zawarte dane dotyczące podmiotu
+1) szkoły wyższe, wyższe szkoły zawodowe wyższe szkoły wojskowe;
+2) szkoły, placówki, zakłady kształcenia iplacówki doskonalenia nauczycieli publiczne iniepubliczne, organy prowadzące te szkoły, placówki izakłady odpowiednio z tytułu zarządu, użytkowania lub użytkowania wieczystego nieruchomości szkolnych;
 3) placówki naukowe Polskiej Akademii Nauk;
-4) prowadzàcych zak∏ady pracy chronionej lub zak∏ady aktywnoÊci zawodowej zakresie lasów wymienionych wdecyzji wsprawie przyznania statunych pe∏ni liczba hektarów przeliczeniowych, ustalana zgodnie z przepisami o podatku rolnym.”.
-10. Wustawie zdnia 26 listopada 1998 r. odochodach jednostek samorzàdu terytorialnego wlatach 1999—2002 (Dz. U. 150, poz. 983 162, poz. 1119, z2000 r. 95, poz. 1041 z2001 r. 39, poz. 459, 55, poz. 574 145, poz. 1623) art. 24 pkt 2 wlit. a tiret drugie otrzymuje brzmienie: „— art. 7 ust. 1 pkt 1 2 ust. 2 pkt 4 5 ustawy z dnia 30 paêdziernika 2002 r. o podatku leÊnym (Dz. U. 200, poz. 1682),”.
-su zak∏adu pracy chronionej lub zak∏adu aktywno- 11. Wstosunku prowadzàcych zak∏ady praÊci zawodowej lub zg∏oszonych wojewodzie za- cy chronionej lub zak∏ady aktywnoÊci zawodowej, któj´tych prowadzenie tego zak∏adu, z wy∏àcze- rzy uzyskali status prowadzàcych te zak∏ady przed wejniem lasów, które znajdujà si´ wposiadaniu zale˝- Êciem ˝ycie ustawy, zwolnienie z podatku leÊnego nym podmiotów nieb´dàcych prowadzàcymi za- stosuje si´ zasadach dotychczasowych nie d∏u˝ej k∏ad pracy chronionej lub zak∏ad aktywnoÊci zawo- ni˝ up∏ywu 3-letniego terminu wynikajàcego zdecydowej; zji wydanej przed dniem 1 stycznia 2003 r. przyznajàcej
-5) jednostki badawczo-rozwojowe. status prowadzàcego zak∏ad.
-3. Rada gminy, drodze uchwa∏y, mo˝e wprowa- 12. Do ustalania wysokoÊci podatku leÊnego dziç inne zwolnienia przedmiotowe ni˝ okreÊlone 2003 r. stosuje si´ Êrednià cen´ sprzeda˝y drewna wust. 1. og∏oszonà podstawie przepisów dotychczasowych.
-8. Wustawie zdnia 28 wrzeÊnia 1991 r. olasach 13. Ustawa wchodzi w˝ycie zdniem 1 stycznia (Dz. U. z2000 r. 56, poz. 679, 86, poz. 958 iNr 120, 2003 r., zwyjàtkiem art. 6 ust. 9, który wchodzi w˝ycie poz. 1268, z2001 r. 110, poz. 1189 iNr 145, poz. 1623 zdniem og∏oszenia.
-z 2002 r. 25, poz. 253 113, poz. 984) wprowadza si´ nast´pujàce zmiany:
-1) wart. 6 uchyla si´ ust. 2;
-2) uchyla si´ rozdzia∏ 9. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1683
+4) prowadzących zakłady pracy chronionej lub zakłady aktywności zawodowej zakresie lasów wymienionych wdecyzji wsprawie przyznania statunych pełni liczba hektarów przeliczeniowych, ustalana zgodnie z przepisami o podatku rolnym.”.
+10. Wustawie zdnia 26 listopada 1998 r. odochodach jednostek samorządu terytorialnego wlatach 1999—2002 (Dz. U. 150, poz. 983 162, poz. 1119, z2000 r. 95, poz. 1041 z2001 r. 39, poz. 459, 55, poz. 574 145, poz. 1623) art. 24 pkt 2 wlit. a tiret drugie otrzymuje brzmienie: Ń— art. 7 ust. 1 pkt 1 2 ust. 2 pkt 4 5 ustawy z dnia 30 paêdziernika 2002 r. o podatku leśnym (Dz. U. 200, poz. 1682),”.
+su zakładu pracy chronionej lub zakładu aktywno- 11. Wstosunku prowadzących zakłady praści zawodowej lub zgłoszonych wojewodzie za- cy chronionej lub zakłady aktywności zawodowej, któjętych prowadzenie tego zakładu, z wyłącze- rzy uzyskali status prowadzących te zakłady przed wejniem lasów, które znajdują się wposiadaniu zależ- ściem życie ustawy, zwolnienie z podatku leśnego nym podmiotów niebędących prowadzącymi za- stosuje się zasadach dotychczasowych nie dłużej kład pracy chronionej lub zakład aktywności zawo- niż upływu 3-letniego terminu wynikającego zdecydowej; zji wydanej przed dniem 1 stycznia 2003 r. przyznającej
+5) jednostki badawczo-rozwojowe. status prowadzącego zakład.
+3. Rada gminy, drodze uchwały, może wprowa- 12. Do ustalania wysokości podatku leśnego dzić inne zwolnienia przedmiotowe niż określone 2003 r. stosuje się średnią cenę sprzedaży drewna wust. 1. ogłoszoną podstawie przepisów dotychczasowych.
+8. Wustawie zdnia 28 września 1991 r. olasach 13. Ustawa wchodzi wżycie zdniem 1 stycznia (Dz. U. z2000 r. 56, poz. 679, 86, poz. 958 iNr 120, 2003 r., zwyjątkiem art. 6 ust. 9, który wchodzi wżycie poz. 1268, z2001 r. 110, poz. 1189 iNr 145, poz. 1623 zdniem ogłoszenia.
+z 2002 r. 25, poz. 253 113, poz. 984) wprowadza się następujące zmiany:
+1) wart. 6 uchyla się ust. 2;
+2) uchyla się rozdział 9. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1683
 USTAWA zdnia 30 paêdziernika 2002 r.
-ozmianie ustawy opodatkach iop∏atach lokalnych ozmianie niektórych innych ustaw.
-1.Wustawie zdnia 12 stycznia 1991 r. opodat- wprowadza si´ nast´pujàce zmiany: kach iop∏atach lokalnych (Dz. U. z2002 r. 9, poz. 84) ———————
+ozmianie ustawy opodatkach iopłatach lokalnych ozmianie niektórych innych ustaw.
+1.Wustawie zdnia 12 stycznia 1991 r. opodat- wprowadza się następujące zmiany: kach iopłatach lokalnych (Dz. U. z2002 r. 9, poz. 84) ———————
 

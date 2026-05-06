@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091441174) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1174/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 12 stycznia 2007r. oustanowieniu „Programu modernizacji Policji, Stra˝y Granicznej, Paƒstwowej Stra˝y Po˝arnej i Biura Ochrony Rzàdu latach 2007—2009” (Dz. U. 35, poz. 213) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 12 stycznia 2007r. oustanowieniu ŃProgramu modernizacji Policji, Straży Granicznej, Państwowej Straży Pożarnej i Biura Ochrony Rządu latach 2007—2009” (Dz. U. 35, poz. 213) wprowadza się następujące zmiany:
 
-**Art. 2.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni
+**Art. 2.** Ustawa wchodzi wżycie po upływie 14 dni
 

@@ -24,9 +24,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090080038) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/38/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 paêdziernika 1998 r. systemie ubezpieczeƒ spo∏ecznych (Dz. U. z 2007 r. 11, poz. 74, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 13 paêdziernika 1998 r. systemie ubezpieczeń społecznych (Dz. U. z 2007 r. 11, poz. 74, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 17 grudnia 1998 r. oemeryturach i rentach z Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. z 2004 r. 39, poz. 353, z póên. zm.
+**Art. 2.** Wustawie zdnia 17 grudnia 1998 r. oemeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. 39, poz. 353, z póên. zm.
 
-**Art. 4.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem art. 1, który wchodzi w˝ycie zpierwszym dniem miesiàca kalendarzowego nast´pujàcego po up∏ywie 30 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 4.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1, który wchodzi wżycie zpierwszym dniem miesiąca kalendarzowego następującego po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

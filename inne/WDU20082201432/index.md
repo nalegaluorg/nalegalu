@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201432) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1432/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 20 kwietnia 2004 oindywidualnych kontach emerytalnych (Dz. U. 116, poz. 1205, z 2005 183, poz. 1538 z 2006 Nr157, poz. 1119) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 20 kwietnia 2004 oindywidualnych kontach emerytalnych (Dz. U. 116, poz. 1205, z 2005 183, poz. 1538 z 2006 Nr157, poz. 1119) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych (Dz. U. z 2000 14, poz. 176, z póên. zm. mo˝e ponownie za∏o˝yç IKE.”,
+**Art. 2.** Wustawie zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych (Dz. U. z 2000 14, poz. 176, z póên. zm. może ponownie założyć IKE.”,
 
-**Art. 3.** Wustawie zdnia 20 kwietnia 2004 opracowniczych programach emerytalnych (Dz. U. 116, poz. 1207, z 2005 143, poz. 1202 z 2006 ——————— 157, poz. 1119) wprowadza si´ nast´pujàce zmiany:
+**Art. 3.** Wustawie zdnia 20 kwietnia 2004 opracowniczych programach emerytalnych (Dz. U. 116, poz. 1207, z 2005 143, poz. 1202 z 2006 ——————— 157, poz. 1119) wprowadza się następujące zmiany:
 
-**Art. 4.** Ustawa wchodzi w˝ycie zdniem 1 stycznia 2009 r., z wyjàtkiem art. 1 pkt 3 i art. 3 pkt 2, które wchodzà w˝ycie zdniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 4.** Ustawa wchodzi wżycie zdniem 1 stycznia 2009 r., z wyjątkiem art. 1 pkt 3 i art. 3 pkt 2, które wchodzą wżycie zdniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

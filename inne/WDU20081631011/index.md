@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081631011) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1011/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 28 wrzeÊnia 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z póên. zm. „2) ponownego wprowadzania roÊlinnoÊci leÊnej ) (upraw leÊnych) w lasach w okresie do 5 lat od wart. 13 ust. 1 pkt 2 otrzymuje brzmienie: usuni´cia drzewostanu;”.
+**Art. 1.** W ustawie z dnia 28 września 1991 r. o lasach (Dz. U. z 2005 r. Nr 45, poz. 435, z póên. zm. Ń2) ponownego wprowadzania roślinności leśnej ) (upraw leśnych) w lasach w okresie do 5 lat od wart. 13 ust. 1 pkt 2 otrzymuje brzmienie: usunięcia drzewostanu;”.
 
-**Art. 2.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1011 USTAWA zdnia 10 lipca 2008 r. ozmianie ustawy olasach
+**Art. 2.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1011 USTAWA zdnia 10 lipca 2008 r. ozmianie ustawy olasach
 

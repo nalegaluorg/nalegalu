@@ -24,35 +24,35 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062021483) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1483/text.pdf) |
 
-**Art. 2.** U˝yte w ustawie okreÊlenia oznaczajà:
+**Art. 2.** Użyte w ustawie określenia oznaczają:
 
-**Art. 3.** Dotacj´ przeznacza si´ na dofinansowanie przedsi´wzi´cia „Ochrona G∏ównego Zbiornika Wód Podziemnych 330 — Gliwice, poprzez kompleksowe unieszkodliwienie odpadów wraz z rekultywacjà terenów ska˝onych Zak∏adów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
+**Art. 3.** Dotację przeznacza się na dofinansowanie przedsięwzięcia ŃOchrona Głównego Zbiornika Wód Podziemnych 330 — Gliwice, poprzez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych ŃTarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
 
 **Art. 5.**
 
-1. Podstawà przyznania dotacji na wykonanie dzia∏aƒ okreÊlonych w art. 3 jest umowa zawarta pomi´dzy wojewodà Êlàskim a zak∏adem.
+1. Podstawą przyznania dotacji na wykonanie działań określonych w art. 3 jest umowa zawarta pomiędzy wojewodą śląskim a zakładem.
 
-2. Umowa, o której mowa w ust. 1, okreÊla w szczególnoÊci:
+2. Umowa, o której mowa w ust. 1, określa w szczególności:
 
-- **1)** zobowiàzanie zak∏adu do wykonywania dzia∏aƒ okreÊlonych w art. 3;
-- **2)** wysokoÊç dotacji i terminy jej przekazywania;
+- **1)** zobowiązanie zakładu do wykonywania działań określonych w art. 3;
+- **2)** wysokość dotacji i terminy jej przekazywania;
 - **3)** zasady rozliczania i przyczyny ewentualnego zwrotu dotacji.
 
-**Art. 6.** Przyznana przez wojewod´ Êlàskiego dotacja jest wyp∏acana w terminach okreÊlonych w umowie, októrej mowa wart. 5 ust. 1, na specjalnie wtym nym Sk∏adowisku Odpadów nale˝àcym do zak∏adu odpadów zalegajàcych na terenie i w rejonie zak∏adu,
+**Art. 6.** Przyznana przez wojewodę śląskiego dotacja jest wypłacana w terminach określonych w umowie, októrej mowa wart. 5 ust. 1, na specjalnie wtym nym Składowisku Odpadów należącym do zakładu odpadów zalegających na terenie i w rejonie zakładu,
 
-**Art. 4.** Dotacj´ na wykonanie dzia∏aƒ okreÊlonych w art. 3 przyznaje si´ na wniosek zak∏adu, w oparciu o zaakceptowany przez wojewod´ Êlàskiego: celu wyodr´bniony przez zak∏ad, rachunek bankowy. Dziennik Ustaw Nr 202 — 10142 — Poz. 1482 i 1483
+**Art. 4.** Dotację na wykonanie działań określonych w art. 3 przyznaje się na wniosek zakładu, w oparciu o zaakceptowany przez wojewodę śląskiego: celu wyodrębniony przez zakład, rachunek bankowy. Dziennik Ustaw Nr 202 — 10142 — Poz. 1482 i 1483
 
-**Art. 7.** Zak∏ad przedstawia wojewodzie Êlàskiemu, do dnia 31 stycznia 2007 r., sprawozdanie z realizacji dzia∏aƒ wykonanych w2006 r. wraz zrozliczeniem rzeczowo-finansowym.
+**Art. 7.** Zakład przedstawia wojewodzie śląskiemu, do dnia 31 stycznia 2007 r., sprawozdanie z realizacji działań wykonanych w2006 r. wraz zrozliczeniem rzeczowo-finansowym.
 
-**Art. 8.** Dysponentem dotacji na wykonanie dzia∏aƒ okreÊlonych w art. 3 jest wojewoda Êlàski.
+**Art. 8.** Dysponentem dotacji na wykonanie działań określonych w art. 3 jest wojewoda śląski.
 
-**Art. 9.** Ustawa ma zastosowanie do wydatków ponoszonych przez zak∏ad od dnia 1 stycznia 2006 r. do dnia 31 grudnia 2006 r.
+**Art. 9.** Ustawa ma zastosowanie do wydatków ponoszonych przez zakład od dnia 1 stycznia 2006 r. do dnia 31 grudnia 2006 r.
 
-**Art. 10.** Ustawa wchodzi w ˝ycie z dniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1483 USTAWA z dnia 18 paêdziernika 2006 r. o nadaniu nowych nazw niektórym publicznym uczelniom akademickim
+**Art. 10.** Ustawa wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1483 USTAWA z dnia 18 paêdziernika 2006 r. o nadaniu nowych nazw niektórym publicznym uczelniom akademickim
 
-**Art. 1.** Akademii Techniczno-Rolniczej im. Jana Art. 3. Pomorskiej Akademii Pedagogicznej iJ´drzeja Âniadeckich wBydgoszczy nadaje si´ nazw´ w S∏upsku nadaje si´ nazw´ „Akademia Pomorska „Uniwersytet Technologiczno-Przyrodniczy im. Jana w S∏upsku”. i J´drzeja Âniadeckich w Bydgoszczy”.
+**Art. 1.** Akademii Techniczno-Rolniczej im. Jana Art. 3. Pomorskiej Akademii Pedagogicznej iJędrzeja Âniadeckich wBydgoszczy nadaje się nazwę w Słupsku nadaje się nazwę ŃAkademia Pomorska ŃUniwersytet Technologiczno-Przyrodniczy im. Jana w Słupsku”. i Jędrzeja Âniadeckich w Bydgoszczy”.
 
-**Art. 4.** Ustawa wchodzi w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia.
+**Art. 4.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-**Art. 2.** Akademii Rolniczej we Wroc∏awiu nadaje si´ nazw´ „Uniwersytet Przyrodniczy we Wroc∏awiu”. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 2.** Akademii Rolniczej we Wrocławiu nadaje się nazwę ŃUniwersytet Przyrodniczy we Wrocławiu”. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

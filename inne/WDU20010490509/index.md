@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# kszta∏ca si´, z dniem wejÊcia ˝ycie ustawy, stosunek pracy na podstawie umowy o prac´ na czas nieokreÊlony.
+# kształca się, z dniem wejścia życie ustawy, stosunek pracy na podstawie umowy o pracę na czas nieokreślony.
 
 | Pole | Wartość |
 |---|---|
@@ -24,555 +24,569 @@ domain: null
 | Ostatnia zmiana | 2026-03-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010490509) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/509/text.pdf) |
 
-3. Warunkiem nadania pracownikowi, o którym mowa wust. 1, upowa˝nienia do orzekania po up∏ywie trzech lat od dnia wejÊcia ustawy w˝ycie, jest z∏o˝enie egzaminu. Przepisy art. 267 ust. 3 i4 stosuje si´ odpowiednio.
-4. Pracownik, który z∏o˝y∏ egzamin wymagany zgodnie z ust. 3, mo˝e uzyskaç uprawnienia eksperta zpomini´ciem okresu asesury.
+3. Warunkiem nadania pracownikowi, o którym mowa wust. 1, upoważnienia do orzekania po upływie trzech lat od dnia wejścia ustawy wżycie, jest złożenie egzaminu. Przepisy art. 267 ust. 3 i4 stosuje się odpowiednio.
+4. Pracownik, który złożył egzamin wymagany zgodnie z ust. 3, może uzyskać uprawnienia eksperta zpominięciem okresu asesury.
 
-**Art. 324.** Do ustalania wynagrodzeƒ oraz limitów zatrudnienia ekspertów i asesorów Urz´dzie Patentowym stosuje si´ odpowiednio, o ile ustawa nie stanowi inaczej, przepisy o kszta∏towaniu wynagrodzeƒ paƒstwowej sferze bud˝etowej, odnoszàce si´ do cz∏onków korpusu s∏u˝by cywilnej.
+**Art. 324.** Do ustalania wynagrodzeń oraz limitów zatrudnienia ekspertów i asesorów Urzędzie Patentowym stosuje się odpowiednio, o ile ustawa nie stanowi inaczej, przepisy o kształtowaniu wynagrodzeń państwowej sferze budżetowej, odnoszące się do członków korpusu służby cywilnej.
 
 **Art. 325.**
 
-1. W przypadku jednostek organizacyjnych niemajàcych osobowoÊci prawnej, patent, prawo
+1. W przypadku jednostek organizacyjnych niemających osobowości prawnej, patent, prawo
 
-**Art. 326.** Tracà moc:
+**Art. 326.** Tracą moc:
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa okreÊla zasady iwarunki wykonywania zawodu rzecznika patentowego oraz organizacj´ izakres dzia∏ania samorzàdu rzeczników patentowych.
+1. Ustawa określa zasady iwarunki wykonywania zawodu rzecznika patentowego oraz organizację izakres działania samorządu rzeczników patentowych.
 
 2. Zawód rzecznika patentowego jest zawodem zaufania publicznego.
 
-3. Tytu∏ zawodowy „rzecznik patentowy” podlega ochronie prawnej.
+3. Tytuł zawodowy Ńrzecznik patentowy” podlega ochronie prawnej.
 
-**Art. 2.** Ilekroç niniejszej ustawie jest mowa o sprawach w∏asnoÊci przemys∏owej rozumie si´ przez to:
+**Art. 2.** Ilekroć niniejszej ustawie jest mowa o sprawach własności przemysłowej rozumie się przez to:
 
 **Art. 3.**
 
-1. Zawód rzecznika patentowego mo˝e wyioznaczeƒ geograficznych, konywaç osoba, która spe∏nia wymagania okreÊlone niniejszà ustawà.
+1. Zawód rzecznika patentowego może wyioznaczeń geograficznych, konywać osoba, która spełnia wymagania określone niniejszą ustawą.
 
 2. Rzecznik patentowy wykonywaniu zawodu podlega tylko ustawom.
 
-3. Rzecznik patentowy ma obowiàzek wykonywaç zawód zgodnie zzasadami etyki zawodowej iznale˝ytà starannoÊcià.
+3. Rzecznik patentowy ma obowiązek wykonywać zawód zgodnie zzasadami etyki zawodowej iznależytą starannością.
 
-4. Wykonywania zawodu rzecznika patentowego nie mo˝na ∏àczyç zzatrudnieniem wUrz´dzie Patentowym Rzeczypospolitej Polskiej, zwanym dalej „Urz´dem Patentowym”,lub Naczelnym Sàdzie Administracyjnym.
+4. Wykonywania zawodu rzecznika patentowego nie można łączyć zzatrudnieniem wUrzędzie Patentowym Rzeczypospolitej Polskiej, zwanym dalej ŃUrzędem Patentowym”,lub Naczelnym Sądzie Administracyjnym.
 
 **Art. 4.**
 
-1. Zawód rzecznika patentowego polega na Êwiadczeniu pomocy sprawach w∏asnoÊci przemys∏owej osobom fizycznym, osobom prawnym oraz jednostkom organizacyjnym nieposiadajàcym osobowoÊci prawnej. lub na rzecz pracodawcy.
+1. Zawód rzecznika patentowego polega na świadczeniu pomocy sprawach własności przemysłowej osobom fizycznym, osobom prawnym oraz jednostkom organizacyjnym nieposiadającym osobowości prawnej. lub na rzecz pracodawcy.
 
-3. Rzecznik patentowy mo˝e wykonywaç zawód, na warunkach okreÊlonych wustawie, tak˝e na podstawie umów cywilnoprawnych.
+3. Rzecznik patentowy może wykonywać zawód, na warunkach określonych wustawie, także na podstawie umów cywilnoprawnych.
 
 **Art. 5.**
 
-1. Kancelaria patentowa mo˝e byç utworzona iprowadzona wy∏àcznie wcelu wykonywania zawodu rzecznika patentowego.
+1. Kancelaria patentowa może być utworzona iprowadzona wyłącznie wcelu wykonywania zawodu rzecznika patentowego.
 
-2. Kancelaria patentowa mo˝e byç prowadzona przez rzecznika patentowego jednoosobowo, jako spó∏ka cywilna lub jawna, wktórej przynajmniej po∏owa wspólników to rzecznicy patentowi, spó∏ka partnerska, spó∏ka komandytowa, której komplementariuszami sà wy∏àcznie rzecznicy patentowi, albo spó∏ka zograniczonà odpowiedzialnoÊcià, wktórej wi´kszoÊç udzia∏ów majà rzecznicy patentowi.
+2. Kancelaria patentowa może być prowadzona przez rzecznika patentowego jednoosobowo, jako spółka cywilna lub jawna, wktórej przynajmniej połowa wspólników to rzecznicy patentowi, spółka partnerska, spółka komandytowa, której komplementariuszami są wyłącznie rzecznicy patentowi, albo spółka zograniczoną odpowiedzialnością, wktórej większość udziałów mają rzecznicy patentowi.
 
-3. Przedmiotem dzia∏alnoÊci spó∏ki, o której mowa ust. 2, mo˝e byç wy∏àcznie prowadzenie kancelarii patentowej.
+3. Przedmiotem działalności spółki, o której mowa ust. 2, może być wyłącznie prowadzenie kancelarii patentowej.
 
-4. Przepisy ust. 1—3 nie ograniczajà zatrudniania wkancelariach patentowych: rzeczników patentowych, aplikantów rzecznikowskich, zwanych dalej „aplikantami”,oraz innych pracowników.
+4. Przepisy ust. 1—3 nie ograniczają zatrudniania wkancelariach patentowych: rzeczników patentowych, aplikantów rzecznikowskich, zwanych dalej Ńaplikantami”,oraz innych pracowników.
 
-**Art. 6.** Przepisy niniejszej ustawy, dotyczàce organizacji iform wykonywania zawodu rzecznika patentowego, stosuje si´ do wykonywania tego zawodu na terytorium Rzeczypospolitej Polskiej.
+**Art. 6.** Przepisy niniejszej ustawy, dotyczące organizacji iform wykonywania zawodu rzecznika patentowego, stosuje się do wykonywania tego zawodu na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 7.**
 
-1. Ogó∏ rzeczników patentowych i aplikantów rzecznikowskich tworzy Polskà Izb´ Rzeczników Patentowych.
+1. Ogół rzeczników patentowych i aplikantów rzecznikowskich tworzy Polską Izbę Rzeczników Patentowych.
 
-2. Polska Izba Rzeczników Patentowych reprezentuje jej cz∏onków isprawuje piecz´ nad nale˝ytym wykonywaniem zawodu rzecznika patentowego granicach interesu publicznego oraz dla jego ochrony.
+2. Polska Izba Rzeczników Patentowych reprezentuje jej członków isprawuje pieczę nad należytym wykonywaniem zawodu rzecznika patentowego granicach interesu publicznego oraz dla jego ochrony.
 
-3. Polska Izba Rzeczników Patentowych ma osobowoÊç prawnà. Jej samodzielnoÊç podlega ochronie sàdowej.
+3. Polska Izba Rzeczników Patentowych ma osobowość prawną. Jej samodzielność podlega ochronie sądowej.
 
-4. Ilekroç niniejszej ustawie jest mowa o samorzàdzie rozumie si´ przez to Polskà Izb´ Rzeczników Patentowych. Rozdzia∏ 2 Wykonywanie zawodu rzecznika patentowego
+4. Ilekroć niniejszej ustawie jest mowa o samorządzie rozumie się przez to Polską Izbę Rzeczników Patentowych.
+
+#### Rozdział 2 Wykonywanie zawodu rzecznika patentowego
 
 **Art. 8.**
 
-1. Rzecznik patentowy obowiàzany jest, z wy∏àczeniem przypadków okreÊlonych ust. 4, wykonywaç nieprzerwanie zawód rzecznika patentowego.
+1. Rzecznik patentowy obowiązany jest, z wyłączeniem przypadków określonych ust. 4, wykonywać nieprzerwanie zawód rzecznika patentowego.
 
-2. Okres niewykonywania zawodu, trwajàcy krócej ni˝ dwa lata, nie przerywa ciàg∏oÊci wykonywania zawodu, wrozumieniu ust. 1.
+2. Okres niewykonywania zawodu, trwający krócej niż dwa lata, nie przerywa ciągłości wykonywania zawodu, wrozumieniu ust. 1.
 
-3. Na wniosek rzecznika patentowego, z∏o˝ony przed up∏ywem dwóch lat, okres, o którym mowa ust. 2, mo˝e byç przed∏u˝ony, jednak˝e o okres nie d∏u˝szy ni˝ 2 lata, przez Krajowà Rad´ Rzeczników Pa1) zatrudnionych Urz´dzie Patentowym lub Naczelnym Sàdzie Administracyjnym przez czas zatrudnienia,
+3. Na wniosek rzecznika patentowego, złożony przed upływem dwóch lat, okres, o którym mowa ust. 2, może być przedłużony, jednakże o okres nie dłuższy niż 2 lata, przez Krajową Radę Rzeczników Pa1) zatrudnionych Urzędzie Patentowym lub Naczelnym Sądzie Administracyjnym przez czas zatrudnienia,
 
-- **2)** wykonujàcych przewidziane wustawach funkcje publiczne zwyboru zwy∏àczeniem funkcji wykonywanych wsamorzàdzie zawodowym lub organizacjach spo∏ecznych przez czas wykonywania funkcji,
-- **3)** wobec których orzeczono kar´ zawieszenia prawa wykonywania zawodu rzecznika patentowego przez okres zawieszenia,
-- **4)** korzystajàcych zurlopu wychowawczego,
-- **5)** którym przyznane zosta∏o Êwiadczenie emerytalne lub rentowe.
+- **2)** wykonujących przewidziane wustawach funkcje publiczne zwyboru zwyłączeniem funkcji wykonywanych wsamorządzie zawodowym lub organizacjach społecznych przez czas wykonywania funkcji,
+- **3)** wobec których orzeczono karę zawieszenia prawa wykonywania zawodu rzecznika patentowego przez okres zawieszenia,
+- **4)** korzystających zurlopu wychowawczego,
+- **5)** którym przyznane zostało świadczenie emerytalne lub rentowe.
 
-5. Do okresów przypadajàcych po ustaniu okolicznoÊci zwalniajàcych z obowiàzku wykonywania zawodu rzecznika patentowego, zgodnie z ust. 4, przepis ust.2 i3 stosuje si´ odpowiednio. tentowych.
+5. Do okresów przypadających po ustaniu okoliczności zwalniających z obowiązku wykonywania zawodu rzecznika patentowego, zgodnie z ust. 4, przepis ust.2 i3 stosuje się odpowiednio. tentowych.
 
-6. Wrazie wszcz´cia post´powania dyscyplinarnego z powodu naruszenia przez rzecznika patentowego obowiàzku, októrym mowa wust. 1, od dnia uprawomocnienia si´ orzeczenia dyscyplinarnego biegnie na nowo okres, o którym mowa ust. 2, bez mo˝liwoÊci jego przed∏u˝enia. Przepisu niniejszego nie stosuje si´ przypadku orzeczenia kary pozbawienia prawa wykonywania zawodu rzecznika patentowego.
+6. Wrazie wszczęcia postępowania dyscyplinarnego z powodu naruszenia przez rzecznika patentowego obowiązku, októrym mowa wust. 1, od dnia uprawomocnienia się orzeczenia dyscyplinarnego biegnie na nowo okres, o którym mowa ust. 2, bez możliwości jego przedłużenia. Przepisu niniejszego nie stosuje się przypadku orzeczenia kary pozbawienia prawa wykonywania zawodu rzecznika patentowego.
 
 **Art. 9.**
 
-1. Rzecznik patentowy wyst´puje charakterze pe∏nomocnika post´powaniu przed Urz´dem Patentowym, Naczelnym Sàdem Administracyjnym oraz przed innymi sàdami i organami orzekajàcymi wsprawach w∏asnoÊci przemys∏owej.
+1. Rzecznik patentowy występuje charakterze pełnomocnika postępowaniu przed Urzędem Patentowym, Naczelnym Sądem Administracyjnym oraz przed innymi sądami i organami orzekającymi wsprawach własności przemysłowej.
 
-2. Rzecznik patentowy mo˝e udzieliç dalszego pe∏nomocnictwa (substytucji) innemu rzecznikowi patentowemu, atak˝e wzakresie okreÊlonym wart. 36 ust.1 —aplikantowi.
+2. Rzecznik patentowy może udzielić dalszego pełnomocnictwa (substytucji) innemu rzecznikowi patentowemu, atakże wzakresie określonym wart. 36 ust.1 —aplikantowi.
 
 **Art. 10.**
 
-1. Rzecznik patentowy mo˝e odmówiç udzielenia pomocy wsprawach w∏asnoÊci przemys∏owej lub wypowiedzieç pe∏nomocnictwo tylko zwa˝nych powodów, októrych informuje zainteresowanego.
+1. Rzecznik patentowy może odmówić udzielenia pomocy wsprawach własności przemysłowej lub wypowiedzieć pełnomocnictwo tylko zważnych powodów, októrych informuje zainteresowanego.
 
-2. Rzecznik patentowy, wypowiadajàc pe∏nomocnictwo lub umow´ o prac´, obowiàzany jest wykonaç wszystkie niezb´dne czynnoÊci,aby okolicznoÊç ta nie mia∏a negatywnego wp∏ywu na dalszy tok prowadzonych przez niego spraw. Wprzypadku wypowiedzenia pe∏nomocnictwa powinien on wykonywaç wszystkie niezb´dne czynnoÊci jeszcze przez dwa miesiàce, je˝eli nie nastàpi∏o wczeÊniejsze obj´cie sprawy przez innego rzecznika patentowego lub odwo∏anie przez osob´, która udzieli∏a pe∏nomocnictwa.
+2. Rzecznik patentowy, wypowiadając pełnomocnictwo lub umowę o pracę, obowiązany jest wykonać wszystkie niezbędne czynności,aby okoliczność ta nie miała negatywnego wpływu na dalszy tok prowadzonych przez niego spraw. Wprzypadku wypowiedzenia pełnomocnictwa powinien on wykonywać wszystkie niezbędne czynności jeszcze przez dwa miesiące, jeżeli nie nastąpiło wcześniejsze objęcie sprawy przez innego rzecznika patentowego lub odwołanie przez osobę, która udzieliła pełnomocnictwa.
 
-3. Rzecznik patentowy jest obowiàzany niezw∏ocznie zawiadomiç Urzàd Patentowy oraz Krajowà Rad´ Rzeczników Patentowych opodj´ciu wykonywania zawodu imiejscu oraz formie jego wykonywania, oprzejÊciu na emerytur´ lub rent´, a tak˝e o ka˝dej zmianie tych informacji.
+3. Rzecznik patentowy jest obowiązany niezwłocznie zawiadomić Urząd Patentowy oraz Krajową Radę Rzeczników Patentowych opodjęciu wykonywania zawodu imiejscu oraz formie jego wykonywania, oprzejściu na emeryturę lub rentę, a także o każdej zmianie tych informacji.
 
-4. W przypadku zawieszenia prawa wykonywania zawodu lub skreÊlenia rzecznika patentowego z listy wych mo˝e równie˝ ustanowiç tymczasowego zast´pc´ rzecznika patentowego, który czasowo nie mo˝e wykonywaç zawodu, asam nie ustanowi∏ zast´pcy.
+4. W przypadku zawieszenia prawa wykonywania zawodu lub skreślenia rzecznika patentowego z listy wych może również ustanowić tymczasowego zastępcę rzecznika patentowego, który czasowo nie może wykonywać zawodu, asam nie ustanowił zastępcy.
 
-5. W przypadku zdarzenia powodujàcego trwa∏à utrat´ mo˝liwoÊci Êwiadczenia przez kancelari´ patentowà pomocy sprawach w∏asnoÊci przemys∏owej, Krajowa Rada Rzeczników Patentowych ustanawia tymczasowego zarzàdc´ kancelarii. Do czasu ustanowienia przez osoby majàce sprawy wtej kancelarii nowych pe∏nomocników, tymczasowy zarzàdca obowiàzany jest zapewniç wykonywanie bie˝àcych, niezb´dnych czynnoÊci.
+5. W przypadku zdarzenia powodującego trwałą utratę możliwości świadczenia przez kancelarię patentową pomocy sprawach własności przemysłowej, Krajowa Rada Rzeczników Patentowych ustanawia tymczasowego zarządcę kancelarii. Do czasu ustanowienia przez osoby mające sprawy wtej kancelarii nowych pełnomocników, tymczasowy zarządca obowiązany jest zapewnić wykonywanie bieżących, niezbędnych czynności.
 
 **Art. 11.**
 
-1. Rzecznik patentowy przy wykonywaniu czynnoÊci zawodowych korzysta zwolnoÊci s∏owa ipisma granicach okreÊlonych przepisami prawa i rzeczowà potrzebà.
+1. Rzecznik patentowy przy wykonywaniu czynności zawodowych korzysta zwolności słowa ipisma granicach określonych przepisami prawa i rzeczową potrzebą.
 
-2. Nadu˝ycie wolnoÊci, októrej mowa wust. 1, stanowiàce Êciganà z oskar˝enia prywatnego zniewag´ lub znies∏awienie strony lub jej pe∏nomocnika, Êwiadka, bieg∏ego albo t∏umacza, podlega wy∏àcznie odpowiedzialnoÊci dyscyplinarnej.
+2. Nadużycie wolności, októrej mowa wust. 1, stanowiące ściganą z oskarżenia prywatnego zniewagę lub zniesławienie strony lub jej pełnomocnika, świadka, biegłego albo tłumacza, podlega wyłącznie odpowiedzialności dyscyplinarnej.
 
-3. Rzecznik patentowy podczas iwzwiàzku zwykonywaniem czynnoÊci zawodowych korzysta z ochrony prawnej przys∏ugujàcej adwokatowi.
+3. Rzecznik patentowy podczas iwzwiązku zwykonywaniem czynności zawodowych korzysta z ochrony prawnej przysługującej adwokatowi.
 
-4. Rzecznik patentowy nie mo˝e byç zwiàzany poleceniem s∏u˝bowym co do treÊci wydawanej opinii lub porady.
+4. Rzecznik patentowy nie może być związany poleceniem służbowym co do treści wydawanej opinii lub porady.
 
-**Art. 12.** Rzecznik patentowy nie mo˝e przyjàç zast´pstwa lub udzieliç pomocy, je˝eli zast´powa∏ stron´ przeciwnà lub udzieli∏ jej pomocy tej samej bàdê zwiàzanej z nià sprawie; nie mo˝e równie˝ przyjàç zast´pstwa lub udzieliç pomocy wsprawie, wktórej bra∏ lub bierze udzia∏ zupowa˝nienia organów administracji rzàdowej lub samorzàdowej.
+**Art. 12.** Rzecznik patentowy nie może przyjąć zastępstwa lub udzielić pomocy, jeżeli zastępował stronę przeciwną lub udzielił jej pomocy tej samej bądê związanej z nią sprawie; nie może również przyjąć zastępstwa lub udzielić pomocy wsprawie, wktórej brał lub bierze udział zupoważnienia organów administracji rządowej lub samorządowej.
 
 **Art. 13.**
 
-1. Op∏aty za czynnoÊci rzeczników patentowych, wykonujàcych zawód kancelariach patentowych oraz zatrudnionych na podstawie umowy cywilnoprawnej, ustala umowa zklientem.
+1. Opłaty za czynności rzeczników patentowych, wykonujących zawód kancelariach patentowych oraz zatrudnionych na podstawie umowy cywilnoprawnej, ustala umowa zklientem.
 
-2. Minister SprawiedliwoÊci, po zasi´gni´ciu opinii Prezesa Urz´du Patentowego oraz Krajowej Rady Rzeczników Patentowych, okreÊli, drodze rozporzàdzenia, wysokoÊç op∏at za czynnoÊci rzeczników patentowych przed organami wymiaru sprawiedliwoÊci oraz przed Urz´dem Patentowym dzia∏ajàcym trybie post´powania spornego, stanowiàce podstaw´ do ustalenia kosztów zast´pstwa, które mogà byç zasàdzone przez sàd lub orzeczone przez Urzàd Patentowy.
+2. Minister Sprawiedliwości, po zasięgnięciu opinii Prezesa Urzędu Patentowego oraz Krajowej Rady Rzeczników Patentowych, określi, drodze rozporządzenia, wysokość opłat za czynności rzeczników patentowych przed organami wymiaru sprawiedliwości oraz przed Urzędem Patentowym działającym trybie postępowania spornego, stanowiące podstawę do ustalenia kosztów zastępstwa, które mogą być zasądzone przez sąd lub orzeczone przez Urząd Patentowy.
 
-3. Minister SprawiedliwoÊci, po zasi´gni´ciu opinii Prezesa Urz´du Patentowego oraz Krajowej Rady Rzeczników Patentowych, okreÊli, drodze rozporzàdzenia, stawki minimalne za czynnoÊci rzeczników patentowych, októrych mowa wust. 1.
+3. Minister Sprawiedliwości, po zasięgnięciu opinii Prezesa Urzędu Patentowego oraz Krajowej Rady Rzeczników Patentowych, określi, drodze rozporządzenia, stawki minimalne za czynności rzeczników patentowych, októrych mowa wust. 1.
 
-**Art. 14.** Rzecznik patentowy jest obowiàzany zachowaç tajemnicy wszelkie informacje, które uzyska∏ sk∏adki na potrzeby samorzàdu, której wysokoÊç ustala corocznie Krajowa Rada Rzeczników Patentowych. 2. Rzecznicy patentowi wymienieni art. 8 ust. 4 pkt 1 op∏acajà sk∏adk´ na potrzeby samorzàdu wwysokoÊci 30 % sk∏adki, októrej mowa wust. 1.
+**Art. 14.** Rzecznik patentowy jest obowiązany zachować tajemnicy wszelkie informacje, które uzyskał składki na potrzeby samorządu, której wysokość ustala corocznie Krajowa Rada Rzeczników Patentowych. 2. Rzecznicy patentowi wymienieni art. 8 ust. 4 pkt 1 opłacają składkę na potrzeby samorządu wwysokości 30 % składki, októrej mowa wust. 1.
 
 **Art. 16.**
 
-1. Rzecznik patentowy wykonujàcy zawód kancelarii patentowej lub na podstawie umowy cywilnoprawnej podlega obowiàzkowemu ubezpieczeniu od odpowiedzialnoÊci cywilnej za szkody wyrzàdzone przy Êwiadczeniu pomocy sprawach w∏asnoÊci przemys∏owej.
+1. Rzecznik patentowy wykonujący zawód kancelarii patentowej lub na podstawie umowy cywilnoprawnej podlega obowiązkowemu ubezpieczeniu od odpowiedzialności cywilnej za szkody wyrządzone przy świadczeniu pomocy sprawach własności przemysłowej.
 
-2. Obowiàzek okreÊlony wust. 1 nie dotyczy rzeczników patentowych niewykonujàcych zawodu.
+2. Obowiązek określony wust. 1 nie dotyczy rzeczników patentowych niewykonujących zawodu.
 
-3. Minister w∏aÊciwy do spraw finansów publicznych, po zasi´gni´ciu opinii Krajowej Rady Rzeczników Patentowych i Polskiej Izby Ubezpieczeƒ, okreÊli, wdrodze rozporzàdzenia, ogólne warunki ubezpieczewzwiàzku zwykonywaniem czynnoÊci zawodowych. nia, októrym mowa wust. 1:
+3. Minister właściwy do spraw finansów publicznych, po zasięgnięciu opinii Krajowej Rady Rzeczników Patentowych i Polskiej Izby Ubezpieczeń, określi, wdrodze rozporządzenia, ogólne warunki ubezpieczewzwiązku zwykonywaniem czynności zawodowych. nia, októrym mowa wust. 1:
 
-- **1)** dat´ powstania obowiàzku zawarcia umowy ubezpieczenia,
-- **2)** podstawowy zakres odpowiedzialnoÊci zak∏adu ubezpieczeƒ,
-- **3)** minimalnà sum´ gwarancyjnà ubezpieczenia okreÊlonà kwotowo,
-- **4)** zakres praw iobowiàzków ubezpieczonego izak∏adu ubezpieczeƒ wynikajàcych z umowy ubezpieczenia.
+- **1)** datę powstania obowiązku zawarcia umowy ubezpieczenia,
+- **2)** podstawowy zakres odpowiedzialności zakładu ubezpieczeń,
+- **3)** minimalną sumę gwarancyjną ubezpieczenia określoną kwotowo,
+- **4)** zakres praw iobowiązków ubezpieczonego izakładu ubezpieczeń wynikających z umowy ubezpieczenia.
 
 **Art. 17.**
 
-1. Przepisy art. 11—15 stosuje si´ odpowiednio do aplikantów, zzastrze˝eniem ust. 2.
+1. Przepisy art. 11—15 stosuje się odpowiednio do aplikantów, zzastrzeżeniem ust. 2.
 
-2. Sk∏adka op∏acana przez aplikanta na potrzeby samorzàdu wynosi 50% sk∏adki, októrej mowa wart. 15 ust. 1. Rozdzia∏ 3 Uprawnienia do wykonywania zawodu rzecznika patentowego
+2. Składka opłacana przez aplikanta na potrzeby samorządu wynosi 50% składki, októrej mowa wart. 15 ust. 1.
+
+#### Rozdział 3 Uprawnienia do wykonywania zawodu rzecznika patentowego
 
 **Art. 18.**
 
-1. Prawo wykonywania zawodu rzecznika patentowego powstaje po z∏o˝eniu Êlubowania, zdniem dokonania wpisu na list´ rzeczników patentowych.
+1. Prawo wykonywania zawodu rzecznika patentowego powstaje po złożeniu ślubowania, zdniem dokonania wpisu na listę rzeczników patentowych.
 
-2. List´ rzeczników patentowych prowadzi Urzàd Patentowy.
+2. Listę rzeczników patentowych prowadzi Urząd Patentowy.
 
 3. Lista rzeczników patentowych jest jawna.
 
-4. Wpisu na list´ rzeczników patentowych dokonuje si´ na wniosek zainteresowanego.
+4. Wpisu na listę rzeczników patentowych dokonuje się na wniosek zainteresowanego.
 
 **Art. 19.**
 
-1. Na list´ rzeczników patentowych mo˝e byç wpisany, kto:
+1. Na listę rzeczników patentowych może być wpisany, kto:
 
-- **1)** posiada, zzastrze˝eniem ust. 2, obywatelstwo polskie,
-- **2)** ma pe∏nà zdolnoÊç do czynnoÊci prawnych ikorzysta zpe∏ni praw publicznych,
-- **4)** ukoƒczy∏ magisterskie studia wy˝sze o kierunku przydatnym do wykonywania zawodu rzecznika patentowego, szczególnoÊci techniczne lub prawnicze,
-- **5)** odby∏ aplikacj´ rzecznikowskà na warunkach okreÊlonych ustawie i z∏o˝y∏ egzamin kwalifikacyjny przed Komisjà Egzaminacyjnà, o której mowa wart. 33.
+- **1)** posiada, zzastrzeżeniem ust. 2, obywatelstwo polskie,
+- **2)** ma pełną zdolność do czynności prawnych ikorzysta zpełni praw publicznych,
+- **4)** ukończył magisterskie studia wyższe o kierunku przydatnym do wykonywania zawodu rzecznika patentowego, szczególności techniczne lub prawnicze,
+- **5)** odbył aplikację rzecznikowską na warunkach określonych ustawie i złożył egzamin kwalifikacyjny przed Komisją Egzaminacyjną, o której mowa wart. 33.
 
-2. Przepis ust. 1 pkt 1 nie narusza postanowieƒ umów mi´dzynarodowych, których stronà jest Rzeczpospolita Polska.
+2. Przepis ust. 1 pkt 1 nie narusza postanowień umów międzynarodowych, których stroną jest Rzeczpospolita Polska.
 
-3. O ile postanowienia umów mi´dzynarodowych, których stronà jest Rzeczpospolita Polska, przewidujà mo˝liwoÊç ubiegania si´ owpis na list´ rzeczników patentowych osób posiadajàcych inne ni˝ polskie obywatelstwo, osoba taka, spe∏niajàca warunki okreÊlone ust. 1 pkt 2—5, mo˝e byç wpisana na t´ list´, je˝eli wyka˝e, ˝e w∏ada j´zykiem polskim wmowie ipiÊmie, stopniu niezb´dnym do prawid∏owego wykonywania zawodu rzecznika patentowego.
+3. O ile postanowienia umów międzynarodowych, których stroną jest Rzeczpospolita Polska, przewidują możliwość ubiegania się owpis na listę rzeczników patentowych osób posiadających inne niż polskie obywatelstwo, osoba taka, spełniająca warunki określone ust. 1 pkt 2—5, może być wpisana na tę listę, jeżeli wykaże, że włada językiem polskim wmowie ipiśmie, stopniu niezbędnym do prawidłowego wykonywania zawodu rzecznika patentowego.
 
 **Art. 20.**
 
-1. Wniosek o wpis na list´ rzeczników patentowych, o którym mowa art. 18 ust. 4, powinien byç z∏o˝ony wciàgu szeÊciu miesi´cy od dnia z∏o˝enia egzaminu kwalifikacyjnego.
+1. Wniosek o wpis na listę rzeczników patentowych, o którym mowa art. 18 ust. 4, powinien być złożony wciągu sześciu miesięcy od dnia złożenia egzaminu kwalifikacyjnego.
 
-2. Z∏o˝enie wniosku po up∏ywie terminu, o którym mowa wust. 1, stanowi podstaw´ do wydania decyzji oodmowie wpisu.
+2. Złożenie wniosku po upływie terminu, o którym mowa wust. 1, stanowi podstawę do wydania decyzji oodmowie wpisu.
 
 **Art. 21.**
 
-1. Od wymogu odbycia aplikacji rzecznikowskiej mo˝na zwolniç, wca∏oÊci lub odpowiedniej cz´Êci, osob´, która wyka˝e, ˝e posiada okreÊlonà wiedz´ lub praktyk´ wsprawach w∏asnoÊci przemys∏owej, przydatnà dowykonywania zawodu rzecznika patentowego.
+1. Od wymogu odbycia aplikacji rzecznikowskiej można zwolnić, wcałości lub odpowiedniej części, osobę, która wykaże, że posiada określoną wiedzę lub praktykę wsprawach własności przemysłowej, przydatną dowykonywania zawodu rzecznika patentowego.
 
-2. Zwolnienie od odbycia aplikacji rzecznikowskiej, zgodnie z ust. 1, nast´puje, na wniosek kandydata, wdrodze uchwa∏y Krajowej Rady Rzeczników Patentowych. Krajowa Rada Rzeczników Patentowych przesy∏a kopi´ uchwa∏y, wraz z uzasadnieniem, Prezesowi Urz´du Patentowego.
+2. Zwolnienie od odbycia aplikacji rzecznikowskiej, zgodnie z ust. 1, następuje, na wniosek kandydata, wdrodze uchwały Krajowej Rady Rzeczników Patentowych. Krajowa Rada Rzeczników Patentowych przesyła kopię uchwały, wraz z uzasadnieniem, Prezesowi Urzędu Patentowego.
 
-3. Na uchwa∏´ sprawie zwolnienia od odbycia aplikacji rzecznikowskiej kandydatowi s∏u˝y skarga do Naczelnego Sàdu Administracyjnego.
+3. Na uchwałę sprawie zwolnienia od odbycia aplikacji rzecznikowskiej kandydatowi służy skarga do Naczelnego Sądu Administracyjnego.
 
 **Art. 22.**
 
-1. Rota Êlubowania sk∏adanego przez rzecznika patentowego ma nast´pujàce brzmienie: „Âlubuj´ uroczyÊcie wykonywaç zawód rzecznika patentowego sumiennie i zgodnie z prawem Rzeczypospolitej Polskiej, zachowywaç tajemnic´ zawodowà, post´powaç godnie i uczciwie, kierujàc si´ zasadami etyki rzecznika patentowego.”
+1. Rota ślubowania składanego przez rzecznika patentowego ma następujące brzmienie: ŃÂlubuję uroczyście wykonywać zawód rzecznika patentowego sumiennie i zgodnie z prawem Rzeczypospolitej Polskiej, zachowywać tajemnicę zawodową, postępować godnie i uczciwie, kierując się zasadami etyki rzecznika patentowego.”
 
-2. Do roty Êlubowania, o której mowa ust. 1, rzecznik patentowy mo˝e dodaç s∏owa „Tak mi dopomó˝ Bóg”.
+2. Do roty ślubowania, o której mowa ust. 1, rzecznik patentowy może dodać słowa ŃTak mi dopomóż Bóg”.
 
-3. Âlubowanie odbiera Prezes Urz´du Patentowego wobecnoÊci przedstawiciela samorzàdu.
+3. Âlubowanie odbiera Prezes Urzędu Patentowego wobecności przedstawiciela samorządu.
 
-**Art. 23.** Urzàd Patentowy wydaje rzecznikowi paArt. 24. 1. Rzecznik patentowy traci prawo do wykonywania zawodu z dniem skreÊlenia z listy rzeczników patentowych. 2. SkreÊlenie zlisty rzeczników patentowych nast´puje wprzypadku:
+**Art. 23.** Urząd Patentowy wydaje rzecznikowi paArt. 24. 1. Rzecznik patentowy traci prawo do wykonywania zawodu z dniem skreślenia z listy rzeczników patentowych. 2. Skreślenie zlisty rzeczników patentowych następuje wprzypadku:
 
 **Art. 25.**
 
-1. Decyzj´ owpisie lub odmowie wpisu na list´ rzeczników patentowych ioskreÊleniu lub odmowie skreÊlenia z tej listy, a tak˝e decyzj´ uzale˝niajàcà go, wydaje Prezes Urz´du Patentowego.
+1. Decyzję owpisie lub odmowie wpisu na listę rzeczników patentowych ioskreśleniu lub odmowie skreślenia z tej listy, a także decyzję uzależniającą go, wydaje Prezes Urzędu Patentowego.
 
-2. Na decyzje, októrych mowa wust. 1, s∏u˝y skarga do Naczelnego Sàdu Administracyjnego.
+2. Na decyzje, októrych mowa wust. 1, służy skarga do Naczelnego Sądu Administracyjnego.
 
-3. O wpisie na list´ rzeczników patentowych i o skreÊleniu z tej listy og∏asza si´ organie urz´dowym „WiadomoÊci Urz´du Patentowego”.
+3. O wpisie na listę rzeczników patentowych i o skreśleniu z tej listy ogłasza się organie urzędowym ŃWiadomości Urzędu Patentowego”.
 
-4. Urzàd Patentowy przesy∏a kopi´ decyzji o skreÊleniu rzecznika patentowego zlisty rzeczników patentowych pracodawcy tego rzecznika.
+4. Urząd Patentowy przesyła kopię decyzji o skreśleniu rzecznika patentowego zlisty rzeczników patentowych pracodawcy tego rzecznika.
 
-**Art. 26.** Prezes Rady Ministrów okreÊli, drodze rozporzàdzenia, wzór i sposób prowadzenia listy rzeczników patentowych oraz wzór legitymacji rzecznika patentowego, a tak˝e wysokoÊç op∏at pobieranych przez Urzàd Patentowy od wniosku o wpis bàdê zmian´ wpisu na liÊcie rzeczników patentowych. Lista rzeczników patentowych powinna zawieraç szczególnoÊci dane dotyczàce rzecznika patentowego, jego wykszta∏cenia, z∏o˝enia egzaminu kwalifikacyjnego oraz wpisu na list´, aktualnego miejsca iformy wykonywania zawodu oraz przerw jego wykonywaniu, bàdê skreÊlenia zlisty rzeczników patentowych, atak˝e adnotacje wskazujàce na znajdujàce si´ aktach osobowych rzecznika patentowego dokumenty lub odpisy orzeczeƒ dyscyplinarnych, a tak˝e informacje o funkcjach pe∏nionych przez rzecznika patentowego worganach samorzàdu. Rozdzia∏ 4 Aplikacja rzecznikowska
+**Art. 26.** Prezes Rady Ministrów określi, drodze rozporządzenia, wzór i sposób prowadzenia listy rzeczników patentowych oraz wzór legitymacji rzecznika patentowego, a także wysokość opłat pobieranych przez Urząd Patentowy od wniosku o wpis bądê zmianę wpisu na liście rzeczników patentowych. Lista rzeczników patentowych powinna zawierać szczególności dane dotyczące rzecznika patentowego, jego wykształcenia, złożenia egzaminu kwalifikacyjnego oraz wpisu na listę, aktualnego miejsca iformy wykonywania zawodu oraz przerw jego wykonywaniu, bądê skreślenia zlisty rzeczników patentowych, atakże adnotacje wskazujące na znajdujące się aktach osobowych rzecznika patentowego dokumenty lub odpisy orzeczeń dyscyplinarnych, a także informacje o funkcjach pełnionych przez rzecznika patentowego worganach samorządu.
+
+#### Rozdział 4 Aplikacja rzecznikowska
 
 **Art. 27.**
 
-1. Celem aplikacji rzecznikowskiej, zwanej dalej „aplikacjà”, jest przygotowanie aplikanta do samodzielnego inale˝ytego wykonywania zawodu rzecznika patentowego.
+1. Celem aplikacji rzecznikowskiej, zwanej dalej Ńaplikacją”, jest przygotowanie aplikanta do samodzielnego inależytego wykonywania zawodu rzecznika patentowego.
 
-2. Aplikacja trwa trzy lata i koƒczy si´ egzaminem kwalifikacyjnym.
+2. Aplikacja trwa trzy lata i kończy się egzaminem kwalifikacyjnym.
 
-3. Aplikacj´ organizuje i prowadzi Krajowa Rada Rzeczników Patentowych.
+3. Aplikację organizuje i prowadzi Krajowa Rada Rzeczników Patentowych.
 
 **Art. 28.**
 
-1. Aplikacja odbywa si´ pod kierunkiem patrona.
+1. Aplikacja odbywa się pod kierunkiem patrona.
 
-2. Patronem, októrym mowa wust. 1, mo˝e byç tylko rzecznik patentowy.
+2. Patronem, októrym mowa wust. 1, może być tylko rzecznik patentowy.
 
-3. Aplikant otrzymuje zlecane mu systematycznie przez patrona prace i zadania praktyczne, które mogà byç równie˝ wykonywane poza miejscem odbywania aplikacji.
+3. Aplikant otrzymuje zlecane mu systematycznie przez patrona prace i zadania praktyczne, które mogą być również wykonywane poza miejscem odbywania aplikacji.
 
 **Art. 29.**
 
-1. Na list´ aplikantów mo˝e byç wpisana osoba, która spe∏nia warunki okreÊlone art. 19 ust. 1 pkt1—4 iz∏o˝y oÊwiadczenie opokryciu kosztów aplikacji.
+1. Na listę aplikantów może być wpisana osoba, która spełnia warunki określone art. 19 ust. 1 pkt1—4 izłoży oświadczenie opokryciu kosztów aplikacji.
 
-2. Wpis na list´ aplikantów nast´puje po przeprowadzeniu konkursu kandydatów.
+2. Wpis na listę aplikantów następuje po przeprowadzeniu konkursu kandydatów.
 
-3. Przed przeprowadzeniem konkursu, o którym mowa ust. 2, Krajowa Rada Rzeczników Patentowych og∏asza omo˝liwoÊci sk∏adania przez zainteresodu Patentowego zamieszcza organie urz´dowym Urz´du Patentowego „WiadomoÊci Urz´du Patentowego”.
+3. Przed przeprowadzeniem konkursu, o którym mowa ust. 2, Krajowa Rada Rzeczników Patentowych ogłasza omożliwości składania przez zainteresodu Patentowego zamieszcza organie urzędowym Urzędu Patentowego ŃWiadomości Urzędu Patentowego”.
 
-5. Termin sk∏adania wniosków, o których mowa wust. 3, nie mo˝e byç krótszy ni˝ dwa miesiàce od dnia og∏oszenia.
+5. Termin składania wniosków, o których mowa wust. 3, nie może być krótszy niż dwa miesiące od dnia ogłoszenia.
 
-6. Podstawà wpisu kandydata na list´ aplikantów jest uchwa∏a Krajowej Rady Rzeczników Patentowych, stwierdzajàca pozytywny wynik konkursu.
+6. Podstawą wpisu kandydata na listę aplikantów jest uchwała Krajowej Rady Rzeczników Patentowych, stwierdzająca pozytywny wynik konkursu.
 
-7. Aplikantowi wpisanemu na list´ aplikantów Krajowa Rada Rzeczników Patentowych wydaje legitymacj´, wa˝nà na czas okreÊlony.
+7. Aplikantowi wpisanemu na listę aplikantów Krajowa Rada Rzeczników Patentowych wydaje legitymację, ważną na czas określony.
 
-8. Po podj´ciu uchwa∏y, o której mowa ust. 6, Krajowa Rada Rzeczników Patentowych przekazuje Prezesowi Urz´du Patentowego wykaz osób wpisanych na list´, obejmujàcy nast´pujàce dane tych osób:
+8. Po podjęciu uchwały, o której mowa ust. 6, Krajowa Rada Rzeczników Patentowych przekazuje Prezesowi Urzędu Patentowego wykaz osób wpisanych na listę, obejmujący następujące dane tych osób:
 
-- **1)** imi´ inazwisko,
-- **2)** dat´urodzenia,
+- **1)** imię inazwisko,
+- **2)** datęurodzenia,
 - **3)** adres miejsca zamieszkania,
 - **4)** adres miejsca pracy.
 
 **Art. 30.**
 
-1. Do obowiàzków aplikanta nale˝y:
+1. Do obowiązków aplikanta należy:
 
-- **1)** uczestniczenie wprzewidzianych programem zaj´ciach teoretycznych ipraktycznych,
-- **2)** samodzielne pog∏´bianie wiedzy niezb´dnej do prawid∏owego wykonywania zawodu rzecznika patentowego oraz praktycznych umiej´tnoÊci zawodowych,
+- **1)** uczestniczenie wprzewidzianych programem zajęciach teoretycznych ipraktycznych,
+- **2)** samodzielne pogłębianie wiedzy niezbędnej do prawidłowego wykonywania zawodu rzecznika patentowego oraz praktycznych umiejętności zawodowych,
 - **3)** przestrzeganie dyscypliny szkolenia ipracy,
-- **4)** przystàpienie do egzaminu kwalifikacyjnego wwyznaczonym terminie.
+- **4)** przystąpienie do egzaminu kwalifikacyjnego wwyznaczonym terminie.
 
-2. Obowiàzek przystàpienia do egzaminu kwalifikacyjnego dotyczy równie˝ osób zwolnionych ca∏oÊci od odbycia aplikacji rzecznikowskiej.
+2. Obowiązek przystąpienia do egzaminu kwalifikacyjnego dotyczy również osób zwolnionych całości od odbycia aplikacji rzecznikowskiej.
 
-**Art. 31.** Aplikacja polega wszczególnoÊci na systematycznym szkoleniu obejmujàcym, niezb´dnym wymiarze, wyk∏ady i çwiczenia z ca∏okszta∏tu wiedzy teoretycznej oraz samodzielnym wykonywaniu prac izadaƒ praktycznych.
+**Art. 31.** Aplikacja polega wszczególności na systematycznym szkoleniu obejmującym, niezbędnym wymiarze, wykłady i ćwiczenia z całokształtu wiedzy teoretycznej oraz samodzielnym wykonywaniu prac izadań praktycznych.
 
 **Art. 32.**
 
-1. Do egzaminu kwalifikacyjnego dopuszcza si´ aplikanta, który zaliczy∏ wszystkie przedmioty szkolenia.
+1. Do egzaminu kwalifikacyjnego dopuszcza się aplikanta, który zaliczył wszystkie przedmioty szkolenia.
 
-2. Egzamin mo˝e byç powtórzony wrazie niepomyÊlnego wyniku jeden raz, terminie ustalonym przez Krajowà Rad´ Rzeczników Patentowych, nie wczeÊniej jednak ni˝ szeÊç miesi´cy inie póêniej ni˝ rok od poprzedniego egzaminu.
+2. Egzamin może być powtórzony wrazie niepomyślnego wyniku jeden raz, terminie ustalonym przez Krajową Radę Rzeczników Patentowych, nie wcześniej jednak niż sześć miesięcy inie póêniej niż rok od poprzedniego egzaminu.
 
 **Art. 33.**
 
-1. Egzamin kwalifikacyjny, októrym mowa art. 32, przeprowadza Komisja Egzaminacyjna powo∏ana przez Krajowà Rad´ Rzeczników Patentowych.
+1. Egzamin kwalifikacyjny, októrym mowa art. 32, przeprowadza Komisja Egzaminacyjna powołana przez Krajową Radę Rzeczników Patentowych.
 
-2. Wsk∏ad Komisji Egzaminacyjnej wchodzà: wane osoby wniosków owpis na list´ aplikantów.
+2. Wskład Komisji Egzaminacyjnej wchodzą: wane osoby wniosków owpis na listę aplikantów.
 
-- **1)** przedstawiciel Krajowej Rady Rzeczników Patentowych jako przewodniczàcy,
-- **3)** trzej rzecznicy patentowi wybrani przez Krajowà Rad´ Rzeczników Patentowych.
+- **1)** przedstawiciel Krajowej Rady Rzeczników Patentowych jako przewodniczący,
+- **3)** trzej rzecznicy patentowi wybrani przez Krajową Radę Rzeczników Patentowych.
 
 **Art. 34.**
 
-1. Za przeprowadzenie egzaminu pobierana jest od aplikantów op∏ata.
+1. Za przeprowadzenie egzaminu pobierana jest od aplikantów opłata.
 
-2. Op∏aty przeznacza si´ na pokrycie kosztów egzaminu, wtym wynagrodzenia dla cz∏onków Komisji Egzaminacyjnej.
+2. Opłaty przeznacza się na pokrycie kosztów egzaminu, wtym wynagrodzenia dla członków Komisji Egzaminacyjnej.
 
-3. WysokoÊç op∏aty okreÊla Krajowa Rada Rzeczników Patentowych.
+3. Wysokość opłaty określa Krajowa Rada Rzeczników Patentowych.
 
-**Art. 35.** Po pomyÊlnym z∏o˝eniu egzaminu kwalifikacyjnego aplikant otrzymuje Êwiadectwo.
+**Art. 35.** Po pomyślnym złożeniu egzaminu kwalifikacyjnego aplikant otrzymuje świadectwo.
 
 **Art. 36.**
 
-1. Po up∏ywie osiemnastu miesi´cy od rozpocz´cia aplikacji rzecznik patentowy kierujàcy aplikacjà (patron) mo˝e upowa˝niç swojego aplikanta do zast´powania go we wszystkich czynnoÊciach, z wyjàtkiem wyst´powania charakterze pe∏nomocnika przed Sàdem Najwy˝szym.
+1. Po upływie osiemnastu miesięcy od rozpoczęcia aplikacji rzecznik patentowy kierujący aplikacją (patron) może upoważnić swojego aplikanta do zastępowania go we wszystkich czynnościach, z wyjątkiem występowania charakterze pełnomocnika przed Sądem Najwyższym.
 
-2. Za czynnoÊci, októrych mowa wust. 1, wykonywane przez aplikanta odpowiedzialnoÊç ponosi rzecznik patentowy kierujàcy aplikacjà (patron).
+2. Za czynności, októrych mowa wust. 1, wykonywane przez aplikanta odpowiedzialność ponosi rzecznik patentowy kierujący aplikacją (patron).
 
-**Art. 37.** Aplikanta skreÊla si´ z listy aplikantów wdrodze uchwa∏y Krajowej Rady Rzeczników Patentowych:
+**Art. 37.** Aplikanta skreśla się z listy aplikantów wdrodze uchwały Krajowej Rady Rzeczników Patentowych:
 
-**Art. 38.** Na uchwa∏´ oodmowie wpisu na list´ aplikantów oraz oskreÊleniu zlisty s∏u˝y skarga do Naczelnego Sàdu Administracyjnego.
+**Art. 38.** Na uchwałę oodmowie wpisu na listę aplikantów oraz oskreśleniu zlisty służy skarga do Naczelnego Sądu Administracyjnego.
 
-**Art. 39.** Prezes Rady Ministrów okreÊli, drodze rozporzàdzenia, sposób przeprowadzenia konkursu owpis na list´ aplikantów, wzór isposób prowadzenia tej listy oraz wzór legitymacji aplikanta, a tak˝e przedmiot iwymiar szkolenia oraz przedmiot egzaminu kwalifikacyjnego, jak równie˝ wysokoÊç wynagrodzenia dla cz∏onków Komisji Egzaminacyjnej. Lista aplikantów powinna zawieraç szczególnoÊci dane dotyczàce aplikanta, jego wykszta∏cenia, miejsca zamieszkania i miejsca pracy, daty ukoƒczenia szkolenia oraz daty iwyniku egzaminu kwalifikacyjnego, jak te˝ skreÊlenia
+**Art. 39.** Prezes Rady Ministrów określi, drodze rozporządzenia, sposób przeprowadzenia konkursu owpis na listę aplikantów, wzór isposób prowadzenia tej listy oraz wzór legitymacji aplikanta, a także przedmiot iwymiar szkolenia oraz przedmiot egzaminu kwalifikacyjnego, jak również wysokość wynagrodzenia dla członków Komisji Egzaminacyjnej. Lista aplikantów powinna zawierać szczególności dane dotyczące aplikanta, jego wykształcenia, miejsca zamieszkania i miejsca pracy, daty ukończenia szkolenia oraz daty iwyniku egzaminu kwalifikacyjnego, jak też skreślenia
 
-**Art. 40.** Krajowa Rada Rzeczników Patentowych okreÊla, drodze uchwa∏y, program, regulamin i szczegó∏owe zasady odbywania aplikacji z uwzgl´dnieniem organizacji iformy szkolenia, atak˝e tryb przeprowadzenia egzaminu kwalifikacyjnego i wzór Êwiadectwa z∏o˝enia egzaminu. Program aplikacji oraz organizacja szkolenia powinny uwzgl´dniaç zakres czynnoÊci praktycznych, jakie mo˝e podejmowaç aplikant wtoku aplikacji.
+**Art. 40.** Krajowa Rada Rzeczników Patentowych określa, drodze uchwały, program, regulamin i szczegółowe zasady odbywania aplikacji z uwzględnieniem organizacji iformy szkolenia, atakże tryb przeprowadzenia egzaminu kwalifikacyjnego i wzór świadectwa złożenia egzaminu. Program aplikacji oraz organizacja szkolenia powinny uwzględniać zakres czynności praktycznych, jakie może podejmować aplikant wtoku aplikacji.
 
 **Art. 41.**
 
-1. Do aplikanta stosuje si´ odpowiednio, zzastrze˝eniem ust. 2 i3, przepisy art.18 ust. 1 iart. 24 ust. 1 oraz ust. 3 i4.
+1. Do aplikanta stosuje się odpowiednio, zzastrzeżeniem ust. 2 i3, przepisy art.18 ust. 1 iart. 24 ust. 1 oraz ust. 3 i4.
 
-2. Rota Êlubowania sk∏adanego przez aplikanta ma nast´pujàce brzmienie: „Âlubuj´ uroczyÊcie wykonywaç obowiàzki aplikanta rzecznikowskiego sumiennie i zgodnie z prawem Rzeczypospolitej Polskiej, zachowywaç tajemnic´ zawodowà, post´powaç godnie iuczciwie, kierujàc si´ zasadami etyki rzecznika patentowego.”
+2. Rota ślubowania składanego przez aplikanta ma następujące brzmienie: ŃÂlubuję uroczyście wykonywać obowiązki aplikanta rzecznikowskiego sumiennie i zgodnie z prawem Rzeczypospolitej Polskiej, zachowywać tajemnicę zawodową, postępować godnie iuczciwie, kierując się zasadami etyki rzecznika patentowego.”
 
-3. Do roty Êlubowania, októrej mowa wust. 2, aplikant mo˝e dodaç s∏owa „Tak mi dopomó˝ Bóg”.
+3. Do roty ślubowania, októrej mowa wust. 2, aplikant może dodać słowa ŃTak mi dopomóż Bóg”.
 
-4. Âlubowanie sk∏adane przez aplikanta odbiera Prezes Polskiej Izby Rzeczników Patentowych obecnoÊci przedstawiciela Urz´du Patentowego wyznaczonego przez Prezesa Urz´du Patentowego. Rozdzia∏ 5 Samorzàd rzeczników patentowych
+4. Âlubowanie składane przez aplikanta odbiera Prezes Polskiej Izby Rzeczników Patentowych obecności przedstawiciela Urzędu Patentowego wyznaczonego przez Prezesa Urzędu Patentowego.
 
-**Art. 42.** Przynale˝noÊç rzeczników patentowych iaplikantów do Polskiej Izby Rzeczników Patentowych jest obowiàzkowa.
+#### Rozdział 5 Samorząd rzeczników patentowych
+
+**Art. 42.** Przynależność rzeczników patentowych iaplikantów do Polskiej Izby Rzeczników Patentowych jest obowiązkowa.
 
 **Art. 43.**
 
-1. Do zadaƒ samorzàdu nale˝y wszczególnoÊci:
+1. Do zadań samorządu należy wszczególności:
 
-- **1)** podejmowanie dzia∏aƒ wcelu zapewnienia warunków nale˝ytego wykonywania zawodu rzecznika patentowego,
+- **1)** podejmowanie działań wcelu zapewnienia warunków należytego wykonywania zawodu rzecznika patentowego,
 - **2)** reprezentowanie rzeczników patentowych i aplikantów oraz ochrona ich interesów zawodowych,
-- **3)** wspó∏dzia∏anie kszta∏towaniu i stosowaniu prawa w∏asnoÊci przemys∏owej, atak˝e wzakresie organizowania iwykonywania zawodu rzecznika patentowego,
-- **4)** doskonalenie zawodowe rzeczników patentowych ikszta∏cenie aplikantów,
-- **5)** sprawowanie nadzoru nad nale˝ytym wykonywaniem zawodu przez rzeczników patentowych iaplikantów,
-- **6)** prowadzenie badaƒ sprawach w∏asnoÊci przemys∏owej.
+- **3)** współdziałanie kształtowaniu i stosowaniu prawa własności przemysłowej, atakże wzakresie organizowania iwykonywania zawodu rzecznika patentowego,
+- **4)** doskonalenie zawodowe rzeczników patentowych ikształcenie aplikantów,
+- **5)** sprawowanie nadzoru nad należytym wykonywaniem zawodu przez rzeczników patentowych iaplikantów,
+- **6)** prowadzenie badań sprawach własności przemysłowej.
 
-2. Wykonujàc zadania, októrych mowa wust. 1, samorzàd wspó∏dzia∏a zorganami w∏adzy iadministracji rzàdowej oraz samorzàdowej, a tak˝e z innymi samorzàdami zawodowymi iorganizacjami spo∏ecznymi, jak z listy aplikantów, a tak˝e adnotacje wskazujàce na równie˝ sprawuje orzecznictwo dyscyplinarne oraz prowadzi dzia∏alnoÊç wydawniczà. tentowych, Komisja Rewizyjna, Odwo∏awczy Sàd Dyscyplinarny, Sàd Dyscyplinarny i Rzecznik Dyscyplinarny oraz okr´gowe zgromadzenia rzeczników patentowych.
+2. Wykonując zadania, októrych mowa wust. 1, samorząd współdziała zorganami władzy iadministracji rządowej oraz samorządowej, a także z innymi samorządami zawodowymi iorganizacjami społecznymi, jak z listy aplikantów, a także adnotacje wskazujące na również sprawuje orzecznictwo dyscyplinarne oraz prowadzi działalność wydawniczą. tentowych, Komisja Rewizyjna, Odwoławczy Sąd Dyscyplinarny, Sąd Dyscyplinarny i Rzecznik Dyscyplinarny oraz okręgowe zgromadzenia rzeczników patentowych.
 
-2. Cz∏onkami organów samorzàdu, zzastrze˝eniem ust. 3, mogà byç tylko rzecznicy patentowi majàcy miejsce zamieszkania i wykonujàcy zawód na terytorium Rzeczypospolitej Polskiej.
+2. Członkami organów samorządu, zzastrzeżeniem ust. 3, mogą być tylko rzecznicy patentowi mający miejsce zamieszkania i wykonujący zawód na terytorium Rzeczypospolitej Polskiej.
 
-3. Rzecznicy patentowi, niespe∏niajàcy warunku okreÊlonego wust. 2, mogà uczestniczyç wKrajowym Zjeêdzie Rzeczników Patentowych.
+3. Rzecznicy patentowi, niespełniający warunku określonego wust. 2, mogą uczestniczyć wKrajowym Zjeêdzie Rzeczników Patentowych.
 
-4. Kadencja organów samorzàdu trwa cztery lata, jednak˝e organy sà obowiàzane dzia∏aç do czasu ukonstytuowania si´ nowo wybranych organów.
+4. Kadencja organów samorządu trwa cztery lata, jednakże organy są obowiązane działać do czasu ukonstytuowania się nowo wybranych organów.
 
-5. Cz∏onkowie organów mogà byç odwo∏ani przez organ, który ich wybra∏.
+5. Członkowie organów mogą być odwołani przez organ, który ich wybrał.
 
-6. Wybory do organów samorzàdu odbywajà si´ g∏osowaniu tajnym, przy nieograniczonej liczbie kandydatów.
+6. Wybory do organów samorządu odbywają się głosowaniu tajnym, przy nieograniczonej liczbie kandydatów.
 
-**Art. 45.** Szczegó∏owà struktur´ organizacyjnà, liczb´ i granice okr´gów oraz szczegó∏owe zasady dzia∏ania samorzàdu ijego organów, tryb powo∏ywania iodwo∏ywania cz∏onków tych organów oraz uzupe∏niania ich sk∏adu, atak˝e ogólne zasady ustalania liczby delegatów na Krajowe Zjazdy Rzeczników Patentowych, okreÊla statut Polskiej Izby Rzeczników Patentowych.
+**Art. 45.** Szczegółową strukturę organizacyjną, liczbę i granice okręgów oraz szczegółowe zasady działania samorządu ijego organów, tryb powoływania iodwoływania członków tych organów oraz uzupełniania ich składu, atakże ogólne zasady ustalania liczby delegatów na Krajowe Zjazdy Rzeczników Patentowych, określa statut Polskiej Izby Rzeczników Patentowych.
 
 **Art. 46.**
 
-1. Organy samorzàdu podejmujà uchwa∏y zwyk∏à wi´kszoÊcià g∏osów, oile statut nie stanowi inaczej.
+1. Organy samorządu podejmują uchwały zwykłą większością głosów, oile statut nie stanowi inaczej.
 
-2. Uchwa∏y dor´cza si´ niezw∏ocznie Prezesowi Urz´du Patentowego.
+2. Uchwały doręcza się niezwłocznie Prezesowi Urzędu Patentowego.
 
 **Art. 47.**
 
-1. WKrajowym Zjeêdzie Rzeczników Patentowych udzia∏ biorà, z zastrze˝eniem ust. 2, rzecznicy patentowi, którym przys∏uguje czynne prawo wyborcze,oraz,bez prawa g∏osowania,aplikanci.
+1. WKrajowym Zjeêdzie Rzeczników Patentowych udział biorą, z zastrzeżeniem ust. 2, rzecznicy patentowi, którym przysługuje czynne prawo wyborcze,oraz,bez prawa głosowania,aplikanci.
 
-2. Z upowa˝nienia Krajowego Zjazdu Rzeczników Patentowych, Krajowa Rada Rzeczników Patentowych zwo∏uje kolejny Zjazd jako zjazd delegatów, okreÊlajàc wregulaminie sposób przeprowadzenia wyborów delegatów oraz liczb´ delegatów zposzczególnych okr´gów.
+2. Z upoważnienia Krajowego Zjazdu Rzeczników Patentowych, Krajowa Rada Rzeczników Patentowych zwołuje kolejny Zjazd jako zjazd delegatów, określając wregulaminie sposób przeprowadzenia wyborów delegatów oraz liczbę delegatów zposzczególnych okręgów.
 
-3. WKrajowym Zjeêdzie Rzeczników Patentowych, odbywajàcym si´ jako zjazd delegatów, udzia∏ biorà delegaci wybrani okr´gach spoÊród ogó∏u rzeczników patentowych oraz,zg∏osem doradczym,nieb´dàcy delegatami cz∏onkowie ust´pujàcej Krajowej Rady Rzeczników Patentowych, Przewodniczàcy Odwo∏awczego Sàdu Dyscyplinarnego, Przewodniczàcy Sàdu Dyscyplinarnego, Przewodniczàcy Komisji Rewizyjnej oraz Rzecznik Dyscyplinarny.
+3. WKrajowym Zjeêdzie Rzeczników Patentowych, odbywającym się jako zjazd delegatów, udział biorą delegaci wybrani okręgach spośród ogółu rzeczników patentowych oraz,zgłosem doradczym,niebędący delegatami członkowie ustępującej Krajowej Rady Rzeczników Patentowych, Przewodniczący Odwoławczego Sądu Dyscyplinarnego, Przewodniczący Sądu Dyscyplinarnego, Przewodniczący Komisji Rewizyjnej oraz Rzecznik Dyscyplinarny.
 
-4. Krajowy Zjazd Rzeczników Patentowych zwo∏uje Krajowa Rada Rzeczników Patentowych nie póêniej ni˝ na 7 dni przed up∏ywem kadencji organów samorzàdu.
+4. Krajowy Zjazd Rzeczników Patentowych zwołuje Krajowa Rada Rzeczników Patentowych nie póêniej niż na 7 dni przed upływem kadencji organów samorządu.
 
 **Art. 48.**
 
-1. Krajowy Zjazd Rzeczników Patentowych, zwany dalej „Krajowym Zjazdem”, stanowi najwy˝szà towych,
+1. Krajowy Zjazd Rzeczników Patentowych, zwany dalej ŃKrajowym Zjazdem”, stanowi najwyższą towych,
 
-- **2)** uchwalanie wytycznych dzia∏ania samorzàdu ijego organów,
+- **2)** uchwalanie wytycznych działania samorządu ijego organów,
 - **3)** uchwalanie zasad etyki rzecznika patentowego,
-- **4)** okreÊlanie zasad przeprowadzania wyborów do organów samorzàdu iliczby cz∏onków tych organów,
-- **5)** wybór Prezesa Polskiej Izby Rzeczników Patentowych, b´dàcego jednoczeÊnie przewodniczàcym Krajowej Rady Rzeczników Patentowych,
-- **6)** wybór cz∏onków Krajowej Rady Rzeczników Patentowych, Komisji Rewizyjnej, Odwo∏awczego Sàdu Dyscyplinarnego, Sàdu Dyscyplinarnego, Rzecznika Dyscyplinarnego ijego zast´pców,
-- **7)** ustalanie zasad gospodarki finansowej samorzàdu i wytycznych sprawie okreÊlania wysokoÊci sk∏adki cz∏onkowskiej,
-- **8)** rozpatrywanie i zatwierdzanie sprawozdaƒ Krajowej Rady Rzeczników Patentowych, Komisji Rewizyjnej, Odwo∏awczego Sàdu Dyscyplinarnego, Sàdu Dyscyplinarnego iRzecznika Dyscyplinarnego,
-- **9)** podejmowanie innych uchwa∏.
+- **4)** określanie zasad przeprowadzania wyborów do organów samorządu iliczby członków tych organów,
+- **5)** wybór Prezesa Polskiej Izby Rzeczników Patentowych, będącego jednocześnie przewodniczącym Krajowej Rady Rzeczników Patentowych,
+- **6)** wybór członków Krajowej Rady Rzeczników Patentowych, Komisji Rewizyjnej, Odwoławczego Sądu Dyscyplinarnego, Sądu Dyscyplinarnego, Rzecznika Dyscyplinarnego ijego zastępców,
+- **7)** ustalanie zasad gospodarki finansowej samorządu i wytycznych sprawie określania wysokości składki członkowskiej,
+- **8)** rozpatrywanie i zatwierdzanie sprawozdań Krajowej Rady Rzeczników Patentowych, Komisji Rewizyjnej, Odwoławczego Sądu Dyscyplinarnego, Sądu Dyscyplinarnego iRzecznika Dyscyplinarnego,
+- **9)** podejmowanie innych uchwał.
 
 **Art. 49.**
 
-1. Nadzwyczajny Krajowy Zjazd Rzeczników Patentowych, zwany dalej „Nadzwyczajnym Krajowym Zjazdem”, zwo∏uje Krajowa Rada Rzeczników Patentowych:
+1. Nadzwyczajny Krajowy Zjazd Rzeczników Patentowych, zwany dalej ŃNadzwyczajnym Krajowym Zjazdem”, zwołuje Krajowa Rada Rzeczników Patentowych:
 
-- **1)** zw∏asnej inicjatywy,
+- **1)** zwłasnej inicjatywy,
 - **2)** na wniosek swego prezydium lub Komisji Rewizyjnej,
-- **3)** na wniosek co najmniej jednej piàtej ogólnej liczby cz∏onków samorzàdu, zawierajàcy uzgodniony przez nich porzàdek obrad.
+- **3)** na wniosek co najmniej jednej piątej ogólnej liczby członków samorządu, zawierający uzgodniony przez nich porządek obrad.
 
-2. Nadzwyczajny Krajowy Zjazd powinien byç zwo∏any, ze wskazaniem porzàdku obrad, ciàgu dwóch miesi´cy od dnia wp∏ywu wniosku ozwo∏anie Zjazdu.
+2. Nadzwyczajny Krajowy Zjazd powinien być zwołany, ze wskazaniem porządku obrad, ciągu dwóch miesięcy od dnia wpływu wniosku ozwołanie Zjazdu.
 
-3. Porzàdek obrad Nadzwyczajnego Krajowego Zjazdu mo˝e byç na Zjeêdzie, drogà g∏osowania, rozszerzony. Nie dotyczy to rozszerzenia porzàdku obrad owybór nowych organów samorzàdu.
+3. Porządek obrad Nadzwyczajnego Krajowego Zjazdu może być na Zjeêdzie, drogą głosowania, rozszerzony. Nie dotyczy to rozszerzenia porządku obrad owybór nowych organów samorządu.
 
 **Art. 50.**
 
-1. Krajowà Rad´ Rzeczników Patentowych stanowià przewodniczàcy i cz∏onkowie wybrani przez Krajowy Zjazd oraz dziekani.
+1. Krajową Radę Rzeczników Patentowych stanowią przewodniczący i członkowie wybrani przez Krajowy Zjazd oraz dziekani.
 
-2. Prezydium Krajowej Rady Rzeczników Patentowych stanowià przewodniczàcy oraz wybrani przez Krajowà Rad´ ze swojego grona zast´pcy przewodniczàcego, sekretarz, skarbnik icz∏onkowie.
+2. Prezydium Krajowej Rady Rzeczników Patentowych stanowią przewodniczący oraz wybrani przez Krajową Radę ze swojego grona zastępcy przewodniczącego, sekretarz, skarbnik iczłonkowie.
 
-3. Prezydium Krajowej Rady Rzeczników Patentowych jest organem wykonawczym tej Rady i zdaje jej spraw´ ze swej dzia∏alnoÊci.
+3. Prezydium Krajowej Rady Rzeczników Patentowych jest organem wykonawczym tej Rady i zdaje jej sprawę ze swej działalności.
 
-**Art. 51.** Do Krajowej Rady Rzeczników Patentowych nale˝y:
+**Art. 51.** Do Krajowej Rady Rzeczników Patentowych należy:
 
-**Art. 52.** Komisja Rewizyjna sprawuje kontrol´ dzia∏alnoÊci statutowej Krajowej Rady Rzeczników Patentowych.
+**Art. 52.** Komisja Rewizyjna sprawuje kontrolę działalności statutowej Krajowej Rady Rzeczników Patentowych.
 
 **Art. 53.**
 
-1. Sàd Dyscyplinarny rozpatruje sprawy dyscyplinarne rzeczników patentowych i aplikantów, wniesione przez Rzecznika Dyscyplinarnego, oraz za˝alenia na postanowienia Rzecznika Dyscyplinarnego.
+1. Sąd Dyscyplinarny rozpatruje sprawy dyscyplinarne rzeczników patentowych i aplikantów, wniesione przez Rzecznika Dyscyplinarnego, oraz zażalenia na postanowienia Rzecznika Dyscyplinarnego.
 
-2. Odwo∏awczy Sàd Dyscyplinarny rozpatruje Êrodki odwo∏awcze od orzeczeƒ Sàdu Dyscyplinarnego.
+2. Odwoławczy Sąd Dyscyplinarny rozpatruje środki odwoławcze od orzeczeń Sądu Dyscyplinarnego.
 
-3. Rzecznik Dyscyplinarny prowadzi post´powanie wyjaÊniajàce oraz sk∏ada wnioski owszcz´cie post´powania dyscyplinarnego.
+3. Rzecznik Dyscyplinarny prowadzi postępowanie wyjaśniające oraz składa wnioski owszczęcie postępowania dyscyplinarnego.
 
 **Art. 54.**
 
-1. Rzecznicy patentowi iaplikanci zamieszkali wdanym okr´gu tworzà Okr´gowe Zgromadzenie Rzeczników Patentowych.
+1. Rzecznicy patentowi iaplikanci zamieszkali wdanym okręgu tworzą Okręgowe Zgromadzenie Rzeczników Patentowych.
 
-2. Rzecznicy patentowi iaplikanci zamieszkali poza terytorium Rzeczypospolitej Polskiej przynale˝à do okr´gu obejmujàcego m. st. Warszaw´.
+2. Rzecznicy patentowi iaplikanci zamieszkali poza terytorium Rzeczypospolitej Polskiej przynależą do okręgu obejmującego m. st. Warszawę.
 
-3. Do Okr´gowego Zgromadzenia Rzeczników Pa3) uchwalanie wniosków do przed∏o˝enia Krajowemu Zjazdowi,
+3. Do Okręgowego Zgromadzenia Rzeczników Pa3) uchwalanie wniosków do przedłożenia Krajowemu Zjazdowi,
 
-- **4)** wykonywanie innych zadaƒ, przewidzianych wstatucie.
+- **4)** wykonywanie innych zadań, przewidzianych wstatucie.
 
-4. Okr´gowe Zgromadzenie Rzeczników Patentowych zwo∏uje dziekan.
+4. Okręgowe Zgromadzenie Rzeczników Patentowych zwołuje dziekan.
 
-**Art. 55.** Dzia∏alnoÊç samorzàdu jest finansowana:
+**Art. 55.** Działalność samorządu jest finansowana:
 
 **Art. 56.**
 
-1. Prezes Urz´du Patentowego mo˝e zaskar˝yç do Sàdu Najwy˝szego sprzecznà zprawem uchwa∏´ organu samorzàdu, terminie trzech miesi´cy od tentowych nale˝y: dnia jej dor´czenia. Sàd Najwy˝szy utrzymuje zaskar˝onà uchwa∏´ wmocy bàdê uchyla jà iprzekazuje spraw´ do ponownego rozpoznania w∏aÊciwemu organowi samorzàdu, ustalajàc wytyczne co do sposobu jej za∏atwienia. Wytyczne te sà wià˝àce dla organu samorzàdu.
+1. Prezes Urzędu Patentowego może zaskarżyć do Sądu Najwyższego sprzeczną zprawem uchwałę organu samorządu, terminie trzech miesięcy od tentowych należy: dnia jej doręczenia. Sąd Najwyższy utrzymuje zaskarżoną uchwałę wmocy bądê uchyla ją iprzekazuje sprawę do ponownego rozpoznania właściwemu organowi samorządu, ustalając wytyczne co do sposobu jej załatwienia. Wytyczne te są wiążące dla organu samorządu.
 
-2. Prezes Urz´du Patentowego mo˝e zwróciç si´ do Krajowego Zjazdu lub Krajowej Rady Rzeczników Patentowych o podj´cie uchwa∏y okreÊlonej sprawie nale˝àcej do w∏aÊciwoÊci samorzàdu. Uchwa∏a Krajowej Rady Rzeczników Patentowych powinna byç podj´ta wterminie dwóch miesi´cy, auchwa∏a Krajowego Zjazdu—na najbli˝szym Zjeêdzie.
+2. Prezes Urzędu Patentowego może zwrócić się do Krajowego Zjazdu lub Krajowej Rady Rzeczników Patentowych o podjęcie uchwały określonej sprawie należącej do właściwości samorządu. Uchwała Krajowej Rady Rzeczników Patentowych powinna być podjęta wterminie dwóch miesięcy, auchwała Krajowego Zjazdu—na najbliższym Zjeêdzie.
 
-3. Krajowa Rada Rzeczników Patentowych przedstawia corocznie Prezesowi Urz´du Patentowego pisemnà informacj´ o dzia∏alnoÊci samorzàdu, a tak˝e, na bie˝àco, o funkcjach pe∏nionych przez rzeczników patentowych worganach samorzàdu. Rozdzia∏ 6 OdpowiedzialnoÊç dyscyplinarna
+3. Krajowa Rada Rzeczników Patentowych przedstawia corocznie Prezesowi Urzędu Patentowego pisemną informację o działalności samorządu, a także, na bieżąco, o funkcjach pełnionych przez rzeczników patentowych worganach samorządu.
+
+#### Rozdział 6 Odpowiedzialność dyscyplinarna
 
 **Art. 57.**
 
-1. Rzecznik patentowy iaplikant podlegajà odpowiedzialnoÊci dyscyplinarnej za zawinione, nienale˝yte wykonywanie zawodu rzecznika patentowego iinnych obowiàzków okreÊlonych wustawie, azw∏aszcza za czyny sprzeczne ze Êlubowaniem.
+1. Rzecznik patentowy iaplikant podlegają odpowiedzialności dyscyplinarnej za zawinione, nienależyte wykonywanie zawodu rzecznika patentowego iinnych obowiązków określonych wustawie, azwłaszcza za czyny sprzeczne ze ślubowaniem.
 
-2. Od odpowiedzialnoÊci dyscyplinarnej wy∏àczone sà czyny, do których majà zastosowanie przepisy Kodeksu pracy dotyczàce porzàdku idyscypliny pracy.
+2. Od odpowiedzialności dyscyplinarnej wyłączone są czyny, do których mają zastosowanie przepisy Kodeksu pracy dotyczące porządku idyscypliny pracy.
 
 **Art. 58.**
 
-1. Karami dyscyplinarnymi sà:
+1. Karami dyscyplinarnymi są:
 
 - **1)** upomnienie,
-- **2)** nagana zostrze˝eniem,
-- **3)** kara pieni´˝na nie ni˝sza od 10-krotnoÊci inie wy˝sza od 50-krotnoÊci miesi´cznej sk∏adki cz∏onkowskiej obowiàzujàcej dacie orzeczenia dyscyplinarnego,
-- **4)** zawieszenie prawa wykonywania zawodu rzecznika patentowego na czas od trzech miesi´cy do pi´ciu lat, wydalenie zaplikacji.
+- **2)** nagana zostrzeżeniem,
+- **3)** kara pieniężna nie niższa od 10-krotności inie wyższa od 50-krotności miesięcznej składki członkowskiej obowiązującej dacie orzeczenia dyscyplinarnego,
+- **4)** zawieszenie prawa wykonywania zawodu rzecznika patentowego na czas od trzech miesięcy do pięciu lat, wydalenie zaplikacji.
 
-2. Wrazie wszcz´cia post´powania dyscyplinarnego zpowodu pope∏nienia kilku przewinieƒ dyscyplinarnych, Sàd Dyscyplinarny ocenia je iwymierza jednà kar´, bioràc pod uwag´ wszystkie okolicznoÊci pope∏nienia tych przewinieƒ.
+2. Wrazie wszczęcia postępowania dyscyplinarnego zpowodu popełnienia kilku przewinień dyscyplinarnych, Sąd Dyscyplinarny ocenia je iwymierza jedną karę, biorąc pod uwagę wszystkie okoliczności popełnienia tych przewinień.
 
-3. Kara zawieszenia prawa wykonywania zawodu rzecznika patentowego pociàga za sobà utrat´ biernego i czynnego prawa wyborczego do organów samorzàdu na czas zawieszenia iokres trzech lat nast´pujàcy po odbyciu kary.
+3. Kara zawieszenia prawa wykonywania zawodu rzecznika patentowego pociąga za sobą utratę biernego i czynnego prawa wyborczego do organów samorządu na czas zawieszenia iokres trzech lat następujący po odbyciu kary.
 
-4. Kara nagany zostrze˝eniem oraz kara pieni´˝na pociàga za sobà utrat´ biernego prawa wyborczego do organów samorzàdu na okres trzech lat od dnia uprawomocnienia si´ orzeczenia.
+4. Kara nagany zostrzeżeniem oraz kara pieniężna pociąga za sobą utratę biernego prawa wyborczego do organów samorządu na okres trzech lat od dnia uprawomocnienia się orzeczenia.
 
-5. Obok kary nagany z ostrze˝eniem oraz kary pieni´˝nej mo˝na stosunku do rzecznika patentowego orzec dodatkowo zakaz wykonywania patronatu na czas od roku do pi´ciu lat.
+5. Obok kary nagany z ostrzeżeniem oraz kary pieniężnej można stosunku do rzecznika patentowego orzec dodatkowo zakaz wykonywania patronatu na czas od roku do pięciu lat.
 
-6. Obok kary zawieszenia prawa wykonywania zawodu rzecznika patentowego orzeka si´ dodatkowo zakaz wykonywania patronatu na czas od dwóch lat do lat dziesi´ciu, jednak˝e nie krócej ni˝ na okres zawieszenia.
+6. Obok kary zawieszenia prawa wykonywania zawodu rzecznika patentowego orzeka się dodatkowo zakaz wykonywania patronatu na czas od dwóch lat do lat dziesięciu, jednakże nie krócej niż na okres zawieszenia.
 
-7. Wobec aplikantów nie orzeka si´ kar, o których mowa wust. 1 pkt 3 i4.
+7. Wobec aplikantów nie orzeka się kar, o których mowa wust. 1 pkt 3 i4.
 
-8. Orzekajàc wobec aplikanta kar´ wydalenia zaplikacji, mo˝na orzec jednoczeÊnie zakaz ponownego ubiegania si´ owpis na list´ aplikantów.
+8. Orzekając wobec aplikanta karę wydalenia zaplikacji, można orzec jednocześnie zakaz ponownego ubiegania się owpis na listę aplikantów.
 
-9. W razie orzeczenia wobec aplikanta kary dyscyplinarnej wydalenia zaplikacji, ponowne przystàpienie do konkursu owpis na list´ aplikantów mo˝e nastàpiç po up∏ywie trzech lat od dnia uprawomocnienia si´ orzeczenia dyscyplinarnego, chyba ˝e orzeczenie to przewiduje jednoczeÊnie zakaz ponownego ubiegania si´ owpis na list´ aplikantów.
+9. W razie orzeczenia wobec aplikanta kary dyscyplinarnej wydalenia zaplikacji, ponowne przystąpienie do konkursu owpis na listę aplikantów może nastąpić po upływie trzech lat od dnia uprawomocnienia się orzeczenia dyscyplinarnego, chyba że orzeczenie to przewiduje jednocześnie zakaz ponownego ubiegania się owpis na listę aplikantów.
 
 **Art. 59.**
 
-1. Post´powanie dyscyplinarne o ten sam czyn toczy si´ niezale˝nie od post´powania karnego lub odr´bnego post´powania dyscyplinarnego wynikajàcego zprzepisów szczególnych, którym podlega obwiniony. Post´powanie dyscyplinarne mo˝e byç zawieszone do czasu zakoƒczenia post´powania karnego.
+1. Postępowanie dyscyplinarne o ten sam czyn toczy się niezależnie od postępowania karnego lub odrębnego postępowania dyscyplinarnego wynikającego zprzepisów szczególnych, którym podlega obwiniony. Postępowanie dyscyplinarne może być zawieszone do czasu zakończenia postępowania karnego.
 
-2. Wrazie wszcz´cia przeciwko rzecznikowi patentowemu post´powania karnego, Sàd Dyscyplinarny mo˝e zawiesiç prawo wykonywania zawodu na okres do zakoƒczenia toczàcego si´ post´powania. Zawieszenie prawa wykonywania zawodu mo˝e nastàpiç równie˝ wprzypadku uporczywego uchylania si´ obwinionego od udzia∏u wpost´powaniu dyscyplinarnym.
+2. Wrazie wszczęcia przeciwko rzecznikowi patentowemu postępowania karnego, Sąd Dyscyplinarny może zawiesić prawo wykonywania zawodu na okres do zakończenia toczącego się postępowania. Zawieszenie prawa wykonywania zawodu może nastąpić również wprzypadku uporczywego uchylania się obwinionego od udziału wpostępowaniu dyscyplinarnym.
 
-3. Na postanowienia wsprawach, októrych mowa ust. 2, przys∏uguje za˝alenie do Odwo∏awczego Sàdu Dyscyplinarnego, terminie miesiàca od dnia dor´czenia odpisu postanowienia.
+3. Na postanowienia wsprawach, októrych mowa ust. 2, przysługuje zażalenie do Odwoławczego Sądu Dyscyplinarnego, terminie miesiąca od dnia doręczenia odpisu postanowienia.
 
-4. Zawieszenie prawa wykonywania zawodu, októArt. 60. 1. Post´powanie dyscyplinarne przed Sàdem Dyscyplinarnym wszczyna si´ na wniosek Rzecznika Dyscyplinarnego, po przeprowadzeniu post´powania wyjaÊniajàcego.
+4. Zawieszenie prawa wykonywania zawodu, októArt. 60. 1. Postępowanie dyscyplinarne przed Sądem Dyscyplinarnym wszczyna się na wniosek Rzecznika Dyscyplinarnego, po przeprowadzeniu postępowania wyjaśniającego.
 
-2. Rzecznik Dyscyplinarny wszczyna post´powanie wyjaÊniajàce zw∏asnej inicjatywy lub na wniosek Prezesa Polskiej Izby Rzeczników Patentowych albo Prezesa Urz´du Patentowego.
+2. Rzecznik Dyscyplinarny wszczyna postępowanie wyjaśniające zwłasnej inicjatywy lub na wniosek Prezesa Polskiej Izby Rzeczników Patentowych albo Prezesa Urzędu Patentowego.
 
 **Art. 61.**
 
-1. Post´powania dyscyplinarnego nie wszczyna si´, awszcz´te umarza si´, je˝eli zasz∏a okolicznoÊç, która zgodnie zprzepisami Kodeksu post´powania karnego wy∏àcza Êciganie.
+1. Postępowania dyscyplinarnego nie wszczyna się, awszczęte umarza się, jeżeli zaszła okoliczność, która zgodnie zprzepisami Kodeksu postępowania karnego wyłącza ściganie.
 
-2. Nie mo˝na wszczàç post´powania dyscyplinarnego:
+2. Nie można wszcząć postępowania dyscyplinarnego:
 
-- **1)** je˝eli od chwili pope∏nienia przewinienia up∏yn´∏y trzy lata, awprzypadku przewinienia polegajàcego na nadu˝yciu wolnoÊci s∏owa ipisma szeÊç miesi´cy,
-- **2)** po up∏ywie szeÊciu miesi´cy od dnia powzi´cia wiadomoÊci przez Rzecznika Dyscyplinarnego opope∏nieniu przewinienia.
+- **1)** jeżeli od chwili popełnienia przewinienia upłynęły trzy lata, awprzypadku przewinienia polegającego na nadużyciu wolności słowa ipisma sześć miesięcy,
+- **2)** po upływie sześciu miesięcy od dnia powzięcia wiadomości przez Rzecznika Dyscyplinarnego opopełnieniu przewinienia.
 
-3. Je˝eli jednak czyn zawiera znamiona przest´pstwa, przedawnienie dyscyplinarne nie nast´puje wczeÊniej ni˝ przedawnienie przewidziane ustawie Kodeks karny.
+3. Jeżeli jednak czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie następuje wcześniej niż przedawnienie przewidziane ustawie Kodeks karny.
 
-4. Bieg przedawnienia dyscyplinarnego przerywa ka˝da czynnoÊç Rzecznika Dyscyplinarnego wsprawie.
+4. Bieg przedawnienia dyscyplinarnego przerywa każda czynność Rzecznika Dyscyplinarnego wsprawie.
 
-5. Wrazie Êmierci obwinionego przed ukoƒczeniem post´powania dyscyplinarnego, toczy si´ ono nadal, je˝eli za˝àda tego terminie dwóch miesi´cy od dnia zgonu obwinionego jego ma∏˝onek, krewny wlinii prostej, brat lub siostra.
+5. Wrazie śmierci obwinionego przed ukończeniem postępowania dyscyplinarnego, toczy się ono nadal, jeżeli zażąda tego terminie dwóch miesięcy od dnia zgonu obwinionego jego małżonek, krewny wlinii prostej, brat lub siostra.
 
-6. Postanowienie oumorzeniu post´powania wyjaÊniajàcego wydane przez Rzecznika Dyscyplinarnego traci moc, je˝eli post´powanie wyjaÊniajàce wszcz´te zosta∏o na wniosek Prezesa Polskiej Izby Rzeczników Patentowych lub Prezesa Urz´du Patentowego i umorym mowa ust. 2, pociàga za sobà utrat´ biernego rzeniu post´powania terminie trzech miesi´cy od dnia dor´czenia odpisu postanowienia sprzeciwi si´ wnioskodawca.
+6. Postanowienie oumorzeniu postępowania wyjaśniającego wydane przez Rzecznika Dyscyplinarnego traci moc, jeżeli postępowanie wyjaśniające wszczęte zostało na wniosek Prezesa Polskiej Izby Rzeczników Patentowych lub Prezesa Urzędu Patentowego i umorym mowa ust. 2, pociąga za sobą utratę biernego rzeniu postępowania terminie trzech miesięcy od dnia doręczenia odpisu postanowienia sprzeciwi się wnioskodawca.
 
 **Art. 62.**
 
-1. Rozprawa przed Sàdem Dyscyplinarnym jest jawna dla rzeczników patentowych i aplikantów. Na rozprawie mo˝e byç obecny poszkodowany.
+1. Rozprawa przed Sądem Dyscyplinarnym jest jawna dla rzeczników patentowych i aplikantów. Na rozprawie może być obecny poszkodowany.
 
-2. Wpost´powaniu dyscyplinarnym obwiniony ma prawo korzystaç zwybranego przez siebie obroƒcy.
+2. Wpostępowaniu dyscyplinarnym obwiniony ma prawo korzystać zwybranego przez siebie obrońcy.
 
-3. Sàd Dyscyplinarny mo˝e odstàpiç od wymierzenia kary dyscyplinarnej, je˝eli przewinienie jest mniejszej wagi.
+3. Sąd Dyscyplinarny może odstąpić od wymierzenia kary dyscyplinarnej, jeżeli przewinienie jest mniejszej wagi.
 
 **Art. 63.**
 
-1. Od orzeczenia Sàdu Dyscyplinarnego obwinionemu oraz Rzecznikowi Dyscyplinarnemu przys∏uguje odwo∏anie do Odwo∏awczego Sàdu Dyscyplinarnego, terminie miesiàca od dnia dor´czenia odpisu orzeczenia. ust. 5 stosuje si´ odpowiednio.
+1. Od orzeczenia Sądu Dyscyplinarnego obwinionemu oraz Rzecznikowi Dyscyplinarnemu przysługuje odwołanie do Odwoławczego Sądu Dyscyplinarnego, terminie miesiąca od dnia doręczenia odpisu orzeczenia. ust. 5 stosuje się odpowiednio.
 
-3. Do post´powania przed Odwo∏awczym Sàdem Dyscyplinarnym przepis art. 62 stosuje si´ odpowiednio.
+3. Do postępowania przed Odwoławczym Sądem Dyscyplinarnym przepis art. 62 stosuje się odpowiednio.
 
 **Art. 64.**
 
-1. Cz∏onkowie Sàdu Dyscyplinarnego oraz Odwo∏awczego Sàdu Dyscyplinarnego sà zakresie orzekania niezawiÊli i podlegajà wy∏àcznie przepisom prawa.
+1. Członkowie Sądu Dyscyplinarnego oraz Odwoławczego Sądu Dyscyplinarnego są zakresie orzekania niezawiśli i podlegają wyłącznie przepisom prawa.
 
-2. Cz∏onkowie Sàdu Dyscyplinarnego i Odwo∏awczego Sàdu Dyscyplinarnego orzekajà na podstawie swego przekonania opartego na swobodnej ocenie ca∏okszta∏tu dowodów z uwzgl´dnieniem okolicznoÊci przemawiajàcych zarówno na korzyÊç, jak i na niekorzyÊç obwinionego.
+2. Członkowie Sądu Dyscyplinarnego i Odwoławczego Sądu Dyscyplinarnego orzekają na podstawie swego przekonania opartego na swobodnej ocenie całokształtu dowodów z uwzględnieniem okoliczności przemawiających zarówno na korzyść, jak i na niekorzyść obwinionego.
 
 **Art. 65.**
 
-1. Odpis prawomocnego orzeczenia skazujàcego na kar´ dyscyplinarnà do∏àcza si´ do akt osobowych obwinionego, prowadzonych wraz zlistà rzeczników patentowych lub odpowiednio zlistà aplikantów.
+1. Odpis prawomocnego orzeczenia skazującego na karę dyscyplinarną dołącza się do akt osobowych obwinionego, prowadzonych wraz zlistą rzeczników patentowych lub odpowiednio zlistą aplikantów.
 
-2. Wprzypadku orzeczenia wobec aplikanta kary wydalenia zaplikacji, odpis prawomocnego orzeczenia przekazywany jest tak˝e Prezesowi Urz´du Patentowego.
+2. Wprzypadku orzeczenia wobec aplikanta kary wydalenia zaplikacji, odpis prawomocnego orzeczenia przekazywany jest także Prezesowi Urzędu Patentowego.
 
 **Art. 66.**
 
-1. Orzeczenie wraz zuzasadnieniem wydane przez Odwo∏awczy Sàd Dyscyplinarny dor´cza si´ obwinionemu, Ministrowi SprawiedliwoÊci, Prezesowi Urz´du Patentowego, Prezesowi Polskiej Izby Rzeczników Patentowych iRzecznikowi Dyscyplinarnemu, którym przys∏uguje kasacja do Sàdu Najwy˝szego.
+1. Orzeczenie wraz zuzasadnieniem wydane przez Odwoławczy Sąd Dyscyplinarny doręcza się obwinionemu, Ministrowi Sprawiedliwości, Prezesowi Urzędu Patentowego, Prezesowi Polskiej Izby Rzeczników Patentowych iRzecznikowi Dyscyplinarnemu, którym przysługuje kasacja do Sądu Najwyższego.
 
-2. Orzeczenie, od którego s∏u˝y kasacja, nie podlega wykonaniu do czasu wniesienia kasacji lub bezskutecznego up∏ywu terminu do jej wniesienia.
+2. Orzeczenie, od którego służy kasacja, nie podlega wykonaniu do czasu wniesienia kasacji lub bezskutecznego upływu terminu do jej wniesienia.
 
-3. Kasacja mo˝e byç wniesiona zpowodu ra˝àcego naruszenia prawa, jak równie˝ ra˝àcej niewspó∏miernoÊci kary dyscyplinarnej.
+3. Kasacja może być wniesiona zpowodu rażącego naruszenia prawa, jak również rażącej niewspółmierności kary dyscyplinarnej.
 
-4. Kasacj´ wnosi si´ do Sàdu Najwy˝szego za poÊrednictwem Odwo∏awczego Sàdu Dyscyplinarnego wterminie trzydziestu dni od dnia dor´czenia orzeczenia zuzasadnieniem.
+4. Kasację wnosi się do Sądu Najwyższego za pośrednictwem Odwoławczego Sądu Dyscyplinarnego wterminie trzydziestu dni od dnia doręczenia orzeczenia zuzasadnieniem.
 
-5. Od kasacji, októrej mowa wust. 1, nie uiszcza si´ op∏aty sàdowej.
+5. Od kasacji, októrej mowa wust. 1, nie uiszcza się opłaty sądowej.
 
-6. Orzeczenie, od którego wniesiono kasacj´, nie podlega wykonaniu do czasu rozpoznania kasacji.
+6. Orzeczenie, od którego wniesiono kasację, nie podlega wykonaniu do czasu rozpoznania kasacji.
 
-7. Sàd Najwy˝szy rozpoznaje kasacj´ na rozprawie wsk∏adzie trzech s´dziów.
+7. Sąd Najwyższy rozpoznaje kasację na rozprawie wskładzie trzech sędziów.
 
-8. Do rozpoznania kasacji, o której mowa ust. 1, stosuje si´ odpowiednio przepisy Kodeksu post´powania karnego, zwy∏àczeniem art. 526 § 2 oraz art. 530 § 2 i3.
+8. Do rozpoznania kasacji, o której mowa ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania karnego, zwyłączeniem art. 526 § 2 oraz art. 530 § 2 i3.
 
 **Art. 67.**
 
-1. Usuni´cie adnotacji na liÊcie rzeczników patentowych lub liÊcie aplikantów, atak˝e odpisu orzeczenia dyscyplinarnego zakt osobowych obwinionego nast´puje zurz´du po up∏ywie:
+1. Usunięcie adnotacji na liście rzeczników patentowych lub liście aplikantów, atakże odpisu orzeczenia dyscyplinarnego zakt osobowych obwinionego następuje zurzędu po upływie:
 
-- **1)** trzech lat od uprawomocnienia si´ orzeczenia dys2) pi´ciu lat od up∏ywu okresu zawieszenia prawa wykonywania zawodu rzecznika patentowego. Pomimo usuni´cia zlisty rzeczników patentowych adnotacji o zawieszeniu prawa wykonywania zawodu, zakt osobowych nie usuwa si´ odpisu orzeczenia do dnia up∏ywu okresu kar dodatkowych bàdê okresu utraty biernego lub czynnego prawa wyborczego do organów samorzàdu.
+- **1)** trzech lat od uprawomocnienia się orzeczenia dys2) pięciu lat od upływu okresu zawieszenia prawa wykonywania zawodu rzecznika patentowego. Pomimo usunięcia zlisty rzeczników patentowych adnotacji o zawieszeniu prawa wykonywania zawodu, zakt osobowych nie usuwa się odpisu orzeczenia do dnia upływu okresu kar dodatkowych bądê okresu utraty biernego lub czynnego prawa wyborczego do organów samorządu.
 
-2. Nie usuwa si´ z akt odpisu orzeczenia dyscyplinarnego ani adnotacji na liÊcie rzeczników patentowych lub liÊcie aplikantów przypadku kary pozbawienia prawa wykonywania zawodu rzecznika patentowego lub wydalenia aplikanta z aplikacji z jednoczesnym orzeczeniem zakazu ponownego ubiegania si´ owpis na list´ aplikantów.
+2. Nie usuwa się z akt odpisu orzeczenia dyscyplinarnego ani adnotacji na liście rzeczników patentowych lub liście aplikantów przypadku kary pozbawienia prawa wykonywania zawodu rzecznika patentowego lub wydalenia aplikanta z aplikacji z jednoczesnym orzeczeniem zakazu ponownego ubiegania się owpis na listę aplikantów.
 
-**Art. 68.** Minister SprawiedliwoÊci, po zasi´gni´ciu opinii Prezesa Urz´du Patentowego oraz Krajowej Rady Rzeczników Patentowych okreÊli, drodze rozporzàcyplinarnego upomnienia, nagany z ostrze˝eniem dzenia, szczegó∏owe zasady itryb post´powania dyscyplinarnego, wtym orzekania, atak˝e w∏aÊciwoÊç isk∏ad sàdów dyscyplinarnych oraz tryb powo∏ywania cz∏onków sk∏adów orzekajàcych, jak równie˝ sposób wykonywania orzeczeƒ iobliczania kosztów post´powania. Rozdzia∏ 7 Zmiany wprzepisach obowiàzujàcych oraz przepisy przejÊciowe ikoƒcowe
+**Art. 68.** Minister Sprawiedliwości, po zasięgnięciu opinii Prezesa Urzędu Patentowego oraz Krajowej Rady Rzeczników Patentowych określi, drodze rozporzącyplinarnego upomnienia, nagany z ostrzeżeniem dzenia, szczegółowe zasady itryb postępowania dyscyplinarnego, wtym orzekania, atakże właściwość iskład sądów dyscyplinarnych oraz tryb powoływania członków składów orzekających, jak również sposób wykonywania orzeczeń iobliczania kosztów postępowania.
 
-**Art. 69.** Wustawie zdnia 14 czerwca 1960 r. Kodeks post´powania administracyjnego (Dz. U. z2000 r. 98, poz. 1071) art. 33 § 3 po wyrazach „radca prawny” dodaje si´ wyrazy „oraz rzecznik patentowy”.
+#### Rozdział 7 Zmiany wprzepisach obowiązujących oraz przepisy przejściowe ikońcowe
 
-**Art. 70.** Wustawie zdnia 11 maja 1995 r. oNaczelnym Sàdzie Administracyjnym (Dz.U. 74, poz. 368 iNr 104, poz. 515, z1997 r. 75, poz. 471, 106, poz. 679, 114, poz. 739 iNr 144, poz. 971, z1998 r. 162, poz. 1126, z1999 r. 75, poz. 853,z2000 r. 2, poz.5, 48, poz. 552, 60, poz. 704 iNr 91, poz. 1008oraz z 2001 r. 49, poz. 508) art. 55 dodaje si´ ust. 4 wbrzmieniu: „4. W sprawach skarg na dzia∏ania lub bezczynnoÊç Urz´du Patentowego Rzeczypospolitej Polskiej ust. 3 stosuje si´ odpowiednio do uczestnika post´powania reprezentowanego przez rzecznika patentowego.”
+**Art. 69.** Wustawie zdnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z2000 r. 98, poz. 1071) art. 33 § 3 po wyrazach Ńradca prawny” dodaje się wyrazy Ńoraz rzecznik patentowy”.
 
-**Art. 71.** W ustawie z dnia 29 sierpnia 1997 r. oochronie danych osobowych (Dz.U. 133, poz. 883, z 2000 r. 12, poz. 136, 50, poz. 580 i 116, poz. 1216 oraz z 2001 r. 42, poz. 474) art. 43 wust.1 wpkt 5 po wyrazach „radcy prawnego,” dodaje si´ wyrazy „rzecznika patentowego,”.
+**Art. 70.** Wustawie zdnia 11 maja 1995 r. oNaczelnym Sądzie Administracyjnym (Dz.U. 74, poz. 368 iNr 104, poz. 515, z1997 r. 75, poz. 471, 106, poz. 679, 114, poz. 739 iNr 144, poz. 971, z1998 r. 162, poz. 1126, z1999 r. 75, poz. 853,z2000 r. 2, poz.5, 48, poz. 552, 60, poz. 704 iNr 91, poz. 1008oraz z 2001 r. 49, poz. 508) art. 55 dodaje się ust. 4 wbrzmieniu: Ń4. W sprawach skarg na działania lub bezczynność Urzędu Patentowego Rzeczypospolitej Polskiej ust. 3 stosuje się odpowiednio do uczestnika postępowania reprezentowanego przez rzecznika patentowego.”
 
-**Art. 72.** Wustawie zdnia 19 listopada 1999 r. Prawo dzia∏alnoÊci gospodarczej (Dz.U. 101, poz. 1178 oraz z 2000 r. 86, poz. 958 i 114, poz. 1193) dotychczasowà treÊç art. 87 oznacza si´ jako ust. 1 idodaje ust. 2 wbrzmieniu: „2. Âwiadczàcy pomoc wzakresie w∏asnoÊci przemys∏owej nie jest przedsi´biorcà wrozumieniu prze11 kwietnia 2001 r. o rzecznikach patentowych (Dz.U. 49,poz. 509).”
+**Art. 71.** W ustawie z dnia 29 sierpnia 1997 r. oochronie danych osobowych (Dz.U. 133, poz. 883, z 2000 r. 12, poz. 136, 50, poz. 580 i 116, poz. 1216 oraz z 2001 r. 42, poz. 474) art. 43 wust.1 wpkt 5 po wyrazach Ńradcy prawnego,” dodaje się wyrazy Ńrzecznika patentowego,”.
+
+**Art. 72.** Wustawie zdnia 19 listopada 1999 r. Prawo działalności gospodarczej (Dz.U. 101, poz. 1178 oraz z 2000 r. 86, poz. 958 i 114, poz. 1193) dotychczasową treść art. 87 oznacza się jako ust. 1 idodaje ust. 2 wbrzmieniu: Ń2. Âwiadczący pomoc wzakresie własności przemysłowej nie jest przedsiębiorcą wrozumieniu prze11 kwietnia 2001 r. o rzecznikach patentowych (Dz.U. 49,poz. 509).”
 
 **Art. 73.**
 
-1. Rzecznicy patentowi wpisani na list´ rzeczników patentowych przed dniem wejÊcia ˝ycie ustawy stajà si´ rzecznikami patentowymi wrozumieniu niniejszej ustawy.
+1. Rzecznicy patentowi wpisani na listę rzeczników patentowych przed dniem wejścia życie ustawy stają się rzecznikami patentowymi wrozumieniu niniejszej ustawy.
 
-2. Rzecznicy patentowi, o których mowa ust. 1, obowiàzani sà terminie szeÊciu miesi´cy od dnia wejÊcia ˝ycie ustawy do z∏o˝enia Urz´dzie Patentowym oraz Krajowej Radzie Rzeczników Patentowych oÊwiadczenia sprawie wykonywania zawodu. Niez∏o˝enie oÊwiadczenia terminie jest podstawà do skreÊlenia rzecznika patentowego zlisty rzeczników patentowych.
+2. Rzecznicy patentowi, o których mowa ust. 1, obowiązani są terminie sześciu miesięcy od dnia wejścia życie ustawy do złożenia Urzędzie Patentowym oraz Krajowej Radzie Rzeczników Patentowych oświadczenia sprawie wykonywania zawodu. Niezłożenie oświadczenia terminie jest podstawą do skreślenia rzecznika patentowego zlisty rzeczników patentowych.
 
-3. Z dniem wejÊcia ˝ycie ustawy powstaje obowiàzek wykonywania zawodu rzecznika patentowego na zasadach okreÊlonych wart. 8, równie˝ wodniesieniu do rzeczników patentowych, o których mowa
+3. Z dniem wejścia życie ustawy powstaje obowiązek wykonywania zawodu rzecznika patentowego na zasadach określonych wart. 8, również wodniesieniu do rzeczników patentowych, o których mowa
 
-2. Do osób, o których mowa ust. 1, wymóg wykszta∏cenia warunkujàcy wpis na list´ rzeczników patentowych ocenia si´ na podstawie przepisów dotychczasowych.
+2. Do osób, o których mowa ust. 1, wymóg wykształcenia warunkujący wpis na listę rzeczników patentowych ocenia się na podstawie przepisów dotychczasowych.
 
-**Art. 76.** Jednostki organizacyjne rzeczników patentowych dzia∏ajàce przed dniem wejÊcia w˝ycie ustawy formie nieodpowiadajàcej warunkom dla kancelarii patentowych, okreÊlonym wniniejszej ustawie, dostosujà form´, sk∏ad osobowy iprzedmiot dzia∏alnoÊci do przepisów tej ustawy wterminie pi´ciu lat od dnia wejÊcia ˝ycie ustawy albo zakoƒczà swà dzia∏alnoÊç wzakresie Êwiadczenia pomocy wsprawach w∏asnoÊci przemys∏owej.
+**Art. 76.** Jednostki organizacyjne rzeczników patentowych działające przed dniem wejścia wżycie ustawy formie nieodpowiadającej warunkom dla kancelarii patentowych, określonym wniniejszej ustawie, dostosują formę, skład osobowy iprzedmiot działalności do przepisów tej ustawy wterminie pięciu lat od dnia wejścia życie ustawy albo zakończą swą działalność wzakresie świadczenia pomocy wsprawach własności przemysłowej.
 
-**Art. 77.** Post´powanie dyscyplinarne wobec rzeczników patentowych, wszcz´te i niezakoƒczone przed dniem wejÊcia ˝ycie ustawy, toczy si´ wed∏ug przepisów dotychczasowych.
+**Art. 77.** Postępowanie dyscyplinarne wobec rzeczników patentowych, wszczęte i niezakończone przed dniem wejścia życie ustawy, toczy się według przepisów dotychczasowych.
 
 **Art. 78.**
 
-1. Organy samorzàdu, istniejàce dniu ust. 1, niewykonujàcych zawodu dniu wejÊcia wejÊcia w˝ycie ustawy, stajà si´ organami samorzàdu w˝ycie ustawy. rozumieniu niniejszej ustawy i prowadzà swà dzia∏alnoÊç do koƒca kadencji.
+1. Organy samorządu, istniejące dniu ust. 1, niewykonujących zawodu dniu wejścia wejścia wżycie ustawy, stają się organami samorządu wżycie ustawy. rozumieniu niniejszej ustawy i prowadzą swą działalność do końca kadencji.
 
-**Art. 74.** Osoby, które przed dniem wejÊcia ˝ycie 2. Krajowa Rada Rzeczników Patentowych przygoustawy naby∏y uprawnienia do wpisu na list´ rzeczni- tuje iuchwali tymczasowy statut, wcelu dostosowania ków patentowych na podstawie dotychczasowych go do wymogów okreÊlonych ustawie przed zwo∏aprzepisów, mogà ubiegaç si´, okresie szeÊciu mie- niem pierwszego, po dniu wejÊcia w˝ycie ustawy, Krasi´cy od dnia wejÊcia ˝ycie ustawy, o wpis na list´ jowego Zjazdu. rzeczników patentowych. Póêniejsze z∏o˝enie wniosku owpis na list´ jest podstawà do wydania decyzji ood- Art. 79. Traci moc ustawa z dnia 9 stycznia 1993 r. mowie wpisu. orzecznikach patentowych (Dz. U. 10, poz. 46).
+**Art. 74.** Osoby, które przed dniem wejścia życie 2. Krajowa Rada Rzeczników Patentowych przygoustawy nabyły uprawnienia do wpisu na listę rzeczni- tuje iuchwali tymczasowy statut, wcelu dostosowania ków patentowych na podstawie dotychczasowych go do wymogów określonych ustawie przed zwołaprzepisów, mogą ubiegać się, okresie sześciu mie- niem pierwszego, po dniu wejścia wżycie ustawy, Krasięcy od dnia wejścia życie ustawy, o wpis na listę jowego Zjazdu. rzeczników patentowych. Póêniejsze złożenie wniosku owpis na listę jest podstawą do wydania decyzji ood- Art. 79. Traci moc ustawa z dnia 9 stycznia 1993 r. mowie wpisu. orzecznikach patentowych (Dz. U. 10, poz. 46).
 
 **Art. 75.**
 
-1. Osoby, które wdniu wejÊcia w˝ycie usta- Art. 80. Ustawa wchodzi w˝ycie po up∏ywie 3 miewy odbywajà szkolenia na rzeczników patentowych na si´cy od dnia og∏oszenia. podstawie dotychczasowych przepisów i ukoƒczà je przewidzianym terminie, przyst´pujà do egzaminu kwalifikacyjnego i ubiegajà si´ o wpis na list´ rzeczni- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 510 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 12 maja 2001 r. zmieniajàce rozporzàdzenie wsprawie ustanowienia Pe∏nomocnika Rzàdu do Spraw Obs∏ugi Ârodków Finansowych Pochodzàcych zUnii Europejskiej. Na podstawie art. 10 ust. 1 i4 ustawy zdnia 8 sierpnia 1996 r. oorganizacji itrybie pracy Rady Ministrów oraz o zakresie dzia∏ania ministrów (Dz. U. z 1999 r. 82, poz. 929 i z 2000 r. 120, poz. 1268) zarzàdza si´, co nast´puje: § 1. W rozporzàdzeniu Rady Ministrów z dnia 16czerwca 1998 r. wsprawie ustanowienia Pe∏nomocPochodzàcych z Unii Europejskiej (Dz. U. 76, poz.494) § 2 otrzymuje brzmienie: „§ 2. 1. Funkcj´ Pe∏nomocnika pe∏ni Podsekretarz Stanu wMinisterstwie Finansów.
+1. Osoby, które wdniu wejścia wżycie usta- Art. 80. Ustawa wchodzi wżycie po upływie 3 miewy odbywają szkolenia na rzeczników patentowych na sięcy od dnia ogłoszenia. podstawie dotychczasowych przepisów i ukończą je przewidzianym terminie, przystępują do egzaminu kwalifikacyjnego i ubiegają się o wpis na listę rzeczni- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 510 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 12 maja 2001 r. zmieniające rozporządzenie wsprawie ustanowienia Pełnomocnika Rządu do Spraw Obsługi Ârodków Finansowych Pochodzących zUnii Europejskiej. Na podstawie art. 10 ust. 1 i4 ustawy zdnia 8 sierpnia 1996 r. oorganizacji itrybie pracy Rady Ministrów oraz o zakresie działania ministrów (Dz. U. z 1999 r. 82, poz. 929 i z 2000 r. 120, poz. 1268) zarządza się, co następuje: § 1. W rozporządzeniu Rady Ministrów z dnia 16czerwca 1998 r. wsprawie ustanowienia PełnomocPochodzących z Unii Europejskiej (Dz. U. 76, poz.494) § 2 otrzymuje brzmienie: Ń§ 2. 1. Funkcję Pełnomocnika pełni Podsekretarz Stanu wMinisterstwie Finansów.
 
-2. Do zadaƒ Pe∏nomocnika nale˝à zagadnienia z zakresu zarzàdzania finansowego Êrodkami nika Rzàdu do Spraw Obs∏ugi Ârodków Finansowych pomocy przedakcesyjnej, tym szczególnoÊci:
+2. Do zadań Pełnomocnika należą zagadnienia z zakresu zarządzania finansowego środkami nika Rządu do Spraw Obsługi Ârodków Finansowych pomocy przedakcesyjnej, tym szczególności:
 
 

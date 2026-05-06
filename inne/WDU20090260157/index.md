@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 23 stycznia 2009 r. o Krajowej Szkole Sądownictwa i Prokuratury
 
 | Pole | Wartość |
 |---|---|
@@ -24,733 +24,747 @@ domain: null
 | Ostatnia zmiana | 2026-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090260157) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/157/text.pdf) |
 
+#### Rozdział 1 Przepisy ogólne
+
 **Art. 1.**
 
-1. Tworzy si´ Krajowà Szko∏´ Sàdownictwa iProkuratury, zwanà dalej „Krajowà Szko∏à”.
+1. Tworzy się Krajową Szkołę Sądownictwa iProkuratury, zwaną dalej ŃKrajową Szkołą”.
 
-2. Krajowa Szko∏a posiada osobowoÊç prawnà.
+2. Krajowa Szkoła posiada osobowość prawną.
 
-3. Minister SprawiedliwoÊci sprawuje nadzór nad Krajowà Szko∏à w zakresie zgodnoÊci jej dzia∏ania zprzepisami ustawowymi istatutem.
+3. Minister Sprawiedliwości sprawuje nadzór nad Krajową Szkołą w zakresie zgodności jej działania zprzepisami ustawowymi istatutem.
 
 **Art. 2.**
 
-1. Do zadaƒ Krajowej Szko∏y nale˝y:
+1. Do zadań Krajowej Szkoły należy:
 
-- **1)** prowadzenie aplikacji: ogólnej, s´dziowskiej i prokuratorskiej, których celem jest uzyskanie przez aplikantów niezb´dnej wiedzy ipraktycznego przygotowania do zajmowania stanowiska s´dziego, prokuratora, asesora prokuratury, asystenta s´dziego, asystenta prokuratora ireferendarza sàdowego;
-- **2)** szkolenie i doskonalenie zawodowe s´dziów, prokuratorów, asesorów sàdowych iasesorów prokuratury, w celu uzupe∏nienia ich specjalistycznej wiedzy iumiej´tnoÊci zawodowych;
-- **3)** szkolenie i doskonalenie zawodowe referendarzy sàdowych, asystentów s´dziów, asystentów prokuratorów, kuratorów sàdowych oraz urz´dników sàdów i prokuratury, podnoszàce ich kwalifikacje zawodowe;
-- **4)** prowadzenie analiz i badaƒ s∏u˝àcych ustaleniu kompetencji i kwalifikacji przypisanych do stanowisk pracy wsàdach iprokuraturze, celem ich wykorzystania wdzia∏alnoÊci szkoleniowej.
+- **1)** prowadzenie aplikacji: ogólnej, sędziowskiej i prokuratorskiej, których celem jest uzyskanie przez aplikantów niezbędnej wiedzy ipraktycznego przygotowania do zajmowania stanowiska sędziego, prokuratora, asesora prokuratury, asystenta sędziego, asystenta prokuratora ireferendarza sądowego;
+- **2)** szkolenie i doskonalenie zawodowe sędziów, prokuratorów, asesorów sądowych iasesorów prokuratury, w celu uzupełnienia ich specjalistycznej wiedzy iumiejętności zawodowych;
+- **3)** szkolenie i doskonalenie zawodowe referendarzy sądowych, asystentów sędziów, asystentów prokuratorów, kuratorów sądowych oraz urzędników sądów i prokuratury, podnoszące ich kwalifikacje zawodowe;
+- **4)** prowadzenie analiz i badań służących ustaleniu kompetencji i kwalifikacji przypisanych do stanowisk pracy wsądach iprokuraturze, celem ich wykorzystania wdziałalności szkoleniowej.
 
-2. Zadania Krajowej Szko∏y realizowane sà wszczególnoÊci przez:
+2. Zadania Krajowej Szkoły realizowane są wszczególności przez:
 
-- **1)** opracowywanie programów aplikacji: ogólnej, s´3) przygotowywanie iorganizowanie egzaminów s´dziowskiego iprokuratorskiego;
-- **4)** opracowywanie programów iorganizowanie szkoleƒ i innych cyklicznych form doskonalenia zawodowego;
-- **5)** koordynowanie dzia∏alnoÊci szkoleniowej sàdów iprokuratury;
+- **1)** opracowywanie programów aplikacji: ogólnej, sę3) przygotowywanie iorganizowanie egzaminów sędziowskiego iprokuratorskiego;
+- **4)** opracowywanie programów iorganizowanie szkoleń i innych cyklicznych form doskonalenia zawodowego;
+- **5)** koordynowanie działalności szkoleniowej sądów iprokuratury;
 - **6)** przygotowywanie oraz organizowanie konferencji, sympozjów iseminariów;
-- **7)** wspó∏prac´ mi´dzynarodowà oraz wspó∏dzia∏anie z podstawowymi jednostkami organizacyjnymi szkó∏ wy˝szych prowadzàcymi kszta∏cenie na kierunku prawo, jednostkami badawczo-rozwojowymi oraz placówkami naukowymi Polskiej Akademii Nauk, w zakresie dzia∏alnoÊci szkoleniowej oraz innych form doskonalenia zawodowego;
-- **8)** prowadzenie dzia∏alnoÊci wydawniczej zwiàzanej zrealizacjà zadaƒ, októrych mowa wust. 1;
-- **9)** pozyskiwanie i wykorzystywanie funduszy pomocowych przeznaczonych na finansowanie zadaƒ, októrych mowa wust. 1;
-- **10)** wykonywanie innych zadaƒ zwiàzanych z doskonaleniem kadr sàdów i prokuratury, wskazanych przez Ministra SprawiedliwoÊci.
+- **7)** współpracę międzynarodową oraz współdziałanie z podstawowymi jednostkami organizacyjnymi szkół wyższych prowadzącymi kształcenie na kierunku prawo, jednostkami badawczo-rozwojowymi oraz placówkami naukowymi Polskiej Akademii Nauk, w zakresie działalności szkoleniowej oraz innych form doskonalenia zawodowego;
+- **8)** prowadzenie działalności wydawniczej związanej zrealizacją zadań, októrych mowa wust. 1;
+- **9)** pozyskiwanie i wykorzystywanie funduszy pomocowych przeznaczonych na finansowanie zadań, októrych mowa wust. 1;
+- **10)** wykonywanie innych zadań związanych z doskonaleniem kadr sądów i prokuratury, wskazanych przez Ministra Sprawiedliwości.
 
-**Art. 3.** Minister SprawiedliwoÊci, w drodze rozporzàdzenia, nadaje statut Krajowej Szko∏y, okreÊlajàc jej ustrój, organizacj´, siedzib´, symbole oraz sposób i tryb realizowania dzia∏alnoÊci szkoleniowej, majàc na uwadze stworzenie odpowiednich warunków organizacyjnych niezb´dnych dla prawid∏owej realizacji zadaƒ Krajowej Szko∏y.
+**Art. 3.** Minister Sprawiedliwości, w drodze rozporządzenia, nadaje statut Krajowej Szkoły, określając jej ustrój, organizację, siedzibę, symbole oraz sposób i tryb realizowania działalności szkoleniowej, mając na uwadze stworzenie odpowiednich warunków organizacyjnych niezbędnych dla prawidłowej realizacji zadań Krajowej Szkoły.
 
-**Art. 4.** Do mienia i finansów Krajowej Szko∏y stosuje si´ odpowiednio przepisy dotyczàce paƒstwowych szkó∏ wy˝szych. Uprawnienia ministra w∏aÊcidziowskiej i prokuratorskiej oraz organizowanie wego wrozumieniu tych przepisów wodniesieniu do przebiegu tych aplikacji; Krajowej Szko∏y wykonuje Minister SprawiedliwoÊci.
+**Art. 4.** Do mienia i finansów Krajowej Szkoły stosuje się odpowiednio przepisy dotyczące państwowych szkół wyższych. Uprawnienia ministra właścidziowskiej i prokuratorskiej oraz organizowanie wego wrozumieniu tych przepisów wodniesieniu do przebiegu tych aplikacji; Krajowej Szkoły wykonuje Minister Sprawiedliwości.
 
-**Art. 5.** Organami Krajowej Szko∏y sà:
+**Art. 5.** Organami Krajowej Szkoły są:
 
 **Art. 6.**
 
-1. Rad´ Programowà, zwanà dalej „Radà”, powo∏uje Minister SprawiedliwoÊci.
+1. Radę Programową, zwaną dalej ŃRadą”, powołuje Minister Sprawiedliwości.
 
-2. Rada sk∏ada si´ z nie wi´cej ni˝ 15 cz∏onków, wtym:
+2. Rada składa się z nie więcej niż 15 członków, wtym:
 
-- **1)** 3 cz∏onków wskazanych przez Ministra SprawiedliwoÊci; USTAWA zdnia 23 stycznia 2009 r. oKrajowej Szkole Sàdownictwa iProkuratury ———————
-- **2)** 3 cz∏onków wskazanych przez Krajowà Rad´ Sàdownictwa;
-- **3)** 3 cz∏onków wskazanych przez Rad´ Prokuratorów przy Prokuratorze Generalnym;
-- **4)** cz∏onka wskazanego przez Pierwszego Prezesa Sàdu Najwy˝szego;
-- **5)** cz∏onka wskazanego przez Prezesa Naczelnego Sàdu Administracyjnego;
-- **6)** cz∏onka wskazanego przez podstawowe jednostki organizacyjne szkó∏ wy˝szych prowadzàce kszta∏cenie na kierunku prawo;
-- **7)** cz∏onka wskazanego przez Prezesa Naczelnej Rady Adwokackiej;
-- **8)** cz∏onka wskazanego przez Prezesa Krajowej Rady Radców Prawnych;
-- **9)** cz∏onka wskazanego przez Prezesa Krajowej Rady Notarialnej.
+- **1)** 3 członków wskazanych przez Ministra Sprawiedliwości; USTAWA zdnia 23 stycznia 2009 r. oKrajowej Szkole Sądownictwa iProkuratury ———————
+- **2)** 3 członków wskazanych przez Krajową Radę Sądownictwa;
+- **3)** 3 członków wskazanych przez Radę Prokuratorów przy Prokuratorze Generalnym;
+- **4)** członka wskazanego przez Pierwszego Prezesa Sądu Najwyższego;
+- **5)** członka wskazanego przez Prezesa Naczelnego Sądu Administracyjnego;
+- **6)** członka wskazanego przez podstawowe jednostki organizacyjne szkół wyższych prowadzące kształcenie na kierunku prawo;
+- **7)** członka wskazanego przez Prezesa Naczelnej Rady Adwokackiej;
+- **8)** członka wskazanego przez Prezesa Krajowej Rady Radców Prawnych;
+- **9)** członka wskazanego przez Prezesa Krajowej Rady Notarialnej.
 
-3. Cz∏onkiem Rady mo˝e byç wy∏àcznie s´dzia, prokurator, osoba posiadajàca tytu∏ naukowy profesora albo stopieƒ naukowy doktora habilitowanego nauk prawnych, s´dzia albo prokurator w stanie spoczynku.
+3. Członkiem Rady może być wyłącznie sędzia, prokurator, osoba posiadająca tytuł naukowy profesora albo stopień naukowy doktora habilitowanego nauk prawnych, sędzia albo prokurator w stanie spoczynku.
 
-4. Kadencja cz∏onków Rady trwa 4 lata. Wrazie odwo∏ania cz∏onka Rady z przyczyn, o których mowa w art. 8 albo jego Êmierci, jego nast´pca pe∏ni obowiàzki do koƒca kadencji zast´powanego cz∏onka Rady.
+4. Kadencja członków Rady trwa 4 lata. Wrazie odwołania członka Rady z przyczyn, o których mowa w art. 8 albo jego śmierci, jego następca pełni obowiązki do końca kadencji zastępowanego członka Rady.
 
-5. Cz∏onkowie Rady mogà byç powo∏ani tylko raz na jeszcze jednà kadencj´.
+5. Członkowie Rady mogą być powołani tylko raz na jeszcze jedną kadencję.
 
-6. Minister SprawiedliwoÊci na 3 miesiàce przed dniem up∏ywu kadencji cz∏onków Rady zwraca si´ do Krajowej Rady Sàdownictwa, Rady Prokuratorów przy Prokuratorze Generalnym, Pierwszego Prezesa Sàdu Najwy˝szego, Prezesa Naczelnego Sàdu Administracyjnego oraz podstawowych jednostek organizacyjnych szkó∏ wy˝szych prowadzàcych kszta∏cenie na kierunku prawo o wskazanie kandydatów na cz∏onków Rady. Wskazanie kandydatów nast´puje najpóêniej na 30 dni przed dniem up∏ywu kadencji cz∏onków Rady.
+6. Minister Sprawiedliwości na 3 miesiące przed dniem upływu kadencji członków Rady zwraca się do Krajowej Rady Sądownictwa, Rady Prokuratorów przy Prokuratorze Generalnym, Pierwszego Prezesa Sądu Najwyższego, Prezesa Naczelnego Sądu Administracyjnego oraz podstawowych jednostek organizacyjnych szkół wyższych prowadzących kształcenie na kierunku prawo o wskazanie kandydatów na członków Rady. Wskazanie kandydatów następuje najpóêniej na 30 dni przed dniem upływu kadencji członków Rady.
 
 **Art. 7.**
 
-1. Cz∏onkowie Rady wybierajà spoÊród siebie Przewodniczàcego izast´pc´ Przewodniczàcego.
+1. Członkowie Rady wybierają spośród siebie Przewodniczącego izastępcę Przewodniczącego.
 
-2. Przewodniczàcy Rady kieruje jej pracami.
+2. Przewodniczący Rady kieruje jej pracami.
 
-3. Kadencja Przewodniczàcego Rady ijego zast´pcy trwa 4 lata, nie d∏u˝ej jednak ni˝ cz∏onkostwo wRadzie.
+3. Kadencja Przewodniczącego Rady ijego zastępcy trwa 4 lata, nie dłużej jednak niż członkostwo wRadzie.
 
 **Art. 8.**
 
-1. Minister SprawiedliwoÊci odwo∏uje cz∏onka Rady, je˝eli cz∏onek Rady:
+1. Minister Sprawiedliwości odwołuje członka Rady, jeżeli członek Rady:
 
-- **1)** nie realizuje obowiàzków zwiàzanych z cz∏onko4) zosta∏ skazany prawomocnym wyrokiem sàdu za przest´pstwo Êcigane z oskar˝enia publicznego lub przest´pstwo skarbowe;
-- **5)** przesta∏ spe∏niaç wymagania okreÊlone w art. 6 ust. 3.
+- **1)** nie realizuje obowiązków związanych z członko4) został skazany prawomocnym wyrokiem sądu za przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **5)** przestał spełniać wymagania określone w art. 6 ust. 3.
 
-2. Cz∏onkostwo w Radzie ustaje z chwilà Êmierci cz∏onka Rady.
+2. Członkostwo w Radzie ustaje z chwilą śmierci członka Rady.
 
-**Art. 9.** Minister SprawiedliwoÊci niezw∏ocznie uzupe∏nia sk∏ad Rady, wprzypadku odwo∏ania jej cz∏onka, wtrybie ina zasadach okreÊlonych wart. 6.
+**Art. 9.** Minister Sprawiedliwości niezwłocznie uzupełnia skład Rady, wprzypadku odwołania jej członka, wtrybie ina zasadach określonych wart. 6.
 
 **Art. 10.**
 
-1. Do zadaƒ Rady nale˝y:
+1. Do zadań Rady należy:
 
-- **1)** ustalanie ogólnych kierunków dzia∏alnoÊci Krajowej Szko∏y;
-- **2)** opracowywanie rocznych harmonogramów dzia∏alnoÊci szkoleniowej Krajowej Szko∏y;
+- **1)** ustalanie ogólnych kierunków działalności Krajowej Szkoły;
+- **2)** opracowywanie rocznych harmonogramów działalności szkoleniowej Krajowej Szkoły;
 - **3)** uchwalanie programów aplikacji;
-- **4)** opiniowanie sk∏adu zespo∏ów i komisji konkursowych oraz zespo∏ów ikomisji egzaminacyjnych;
-- **5)** ustalanie rocznych planów wydawniczych Krajowej Szko∏y;
+- **4)** opiniowanie składu zespołów i komisji konkursowych oraz zespołów ikomisji egzaminacyjnych;
+- **5)** ustalanie rocznych planów wydawniczych Krajowej Szkoły;
 - **6)** ustalanie zasad rekrutacji na szkolenia;
-- **7)** uchwalanie regulaminu organizacyjnego Krajowej Szko∏y;
+- **7)** uchwalanie regulaminu organizacyjnego Krajowej Szkoły;
 - **8)** uchwalanie regulaminu organizacyjnego Rady;
-- **9)** uchwalanie regulaminu dzia∏alnoÊci szkoleniowej Krajowej Szko∏y;
-- **10)** zg∏aszanie i opiniowanie kandydatów na wyk∏adowców Krajowej Szko∏y;
-- **11)** zatwierdzanie rocznego sprawozdania zdzia∏alnoÊci Krajowej Szko∏y, przedstawianego przez Dyrektora Krajowej Szko∏y;
-- **12)** wyra˝anie opinii w sprawie odwo∏ania Dyrektora Krajowej Szko∏y;
-- **13)** wyra˝anie opinii we wszystkich sprawach dotyczàcych dzia∏alnoÊci Krajowej Szko∏y.
+- **9)** uchwalanie regulaminu działalności szkoleniowej Krajowej Szkoły;
+- **10)** zgłaszanie i opiniowanie kandydatów na wykładowców Krajowej Szkoły;
+- **11)** zatwierdzanie rocznego sprawozdania zdziałalności Krajowej Szkoły, przedstawianego przez Dyrektora Krajowej Szkoły;
+- **12)** wyrażanie opinii w sprawie odwołania Dyrektora Krajowej Szkoły;
+- **13)** wyrażanie opinii we wszystkich sprawach dotyczących działalności Krajowej Szkoły.
 
-2. Dokumenty, o których mowa w ust. 1 pkt 1 i 2, wzakresie zgodnoÊci zplanem finansowym wymagajà zatwierdzenia przez Ministra SprawiedliwoÊci.
+2. Dokumenty, o których mowa w ust. 1 pkt 1 i 2, wzakresie zgodności zplanem finansowym wymagają zatwierdzenia przez Ministra Sprawiedliwości.
 
 **Art. 11.**
 
-1. Cz∏onkowie Rady w zwiàzku z pe∏nieniem obowiàzków wRadzie otrzymujà:
+1. Członkowie Rady w związku z pełnieniem obowiązków wRadzie otrzymują:
 
-- **1)** diety; stwem wRadzie; 2) zwrot kosztów podró˝y i noclegów, na zasadach okreÊlonych odpowiednio wprzepisach wsprawie
-- **2)** sta∏ si´ trwale niezdolny do pe∏nienia obowiàzków wysokoÊci oraz warunków ustalania nale˝noÊzwiàzanych z cz∏onkostwem w Radzie na skutek ci przys∏ugujàcych pracownikowi zatrudnionemu choroby; w paƒstwowej lub samorzàdowej jednostce sfery
-- **3)** zrzek∏ si´ cz∏onkostwa wRadzie; bud˝etowej z tytu∏u podró˝y s∏u˝bowej na obszarze kraju albo poza granicami kraju.
+- **1)** diety; stwem wRadzie; 2) zwrot kosztów podróży i noclegów, na zasadach określonych odpowiednio wprzepisach wsprawie
+- **2)** stał się trwale niezdolny do pełnienia obowiązków wysokości oraz warunków ustalania należnośzwiązanych z członkostwem w Radzie na skutek ci przysługujących pracownikowi zatrudnionemu choroby; w państwowej lub samorządowej jednostce sfery
+- **3)** zrzekł się członkostwa wRadzie; budżetowej z tytułu podróży służbowej na obszarze kraju albo poza granicami kraju.
 
-2. Minister SprawiedliwoÊci okreÊli, wdrodze rozporzàdzenia, wysokoÊç diet, októrych mowa wust. 1 pkt 1, nie wy˝szà ni˝ 20 % kwoty bazowej stanowiàcej podstaw´ obliczenia wynagrodzenia zasadniczego s´dziego, bioràc pod uwag´ zakres obowiàzków cz∏onków Rady.
+2. Minister Sprawiedliwości określi, wdrodze rozporządzenia, wysokość diet, októrych mowa wust. 1 pkt 1, nie wyższą niż 20 % kwoty bazowej stanowiącej podstawę obliczenia wynagrodzenia zasadniczego sędziego, biorąc pod uwagę zakres obowiązków członków Rady.
 
 **Art. 12.**
 
-1. Dyrektora Krajowej Szko∏y powo∏uje Minister SprawiedliwoÊci na okres 5 lat, po zasi´gni´ciu opinii Krajowej Rady Sàdownictwa i Rady Prokuratorów przy Prokuratorze Generalnym.
+1. Dyrektora Krajowej Szkoły powołuje Minister Sprawiedliwości na okres 5 lat, po zasięgnięciu opinii Krajowej Rady Sądownictwa i Rady Prokuratorów przy Prokuratorze Generalnym.
 
-2. Termin do wyra˝enia opinii wynosi 30 dni. Nieprzedstawienie opinii w terminie oznacza rezygnacj´ zprawa jej wyra˝enia.
+2. Termin do wyrażenia opinii wynosi 30 dni. Nieprzedstawienie opinii w terminie oznacza rezygnację zprawa jej wyrażenia.
 
-3. Dyrektorem Krajowej Szko∏y mo˝e byç wy∏àcznie s´dzia, prokurator, osoba posiadajàca tytu∏ naukowy profesora albo stopieƒ naukowy doktora habilitowanego nauk prawnych, s´dzia albo prokurator wstanie spoczynku.
+3. Dyrektorem Krajowej Szkoły może być wyłącznie sędzia, prokurator, osoba posiadająca tytuł naukowy profesora albo stopień naukowy doktora habilitowanego nauk prawnych, sędzia albo prokurator wstanie spoczynku.
 
-4. Wprzypadku powo∏ania s´dziego lub prokuratora do pe∏nienia funkcji Dyrektora Krajowej Szko∏y, Minister SprawiedliwoÊci deleguje go do Krajowej Szko∏y na czas trwania kadencji na zasadach okreÊlonych odpowiednio wustawie zdnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych (Dz. U. 98, poz. 1070, zpóên. zm.
+4. Wprzypadku powołania sędziego lub prokuratora do pełnienia funkcji Dyrektora Krajowej Szkoły, Minister Sprawiedliwości deleguje go do Krajowej Szkoły na czas trwania kadencji na zasadach określonych odpowiednio wustawie zdnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. 98, poz. 1070, zpóên. zm.
 
 **Art. 14.**
 
-1. Minister SprawiedliwoÊci zawiesza wczynnoÊciach s∏u˝bowych Dyrektora Krajowej Szko∏y b´dàcego s´dzià lub prokuratorem, przeciwko któremu wszcz´to post´powanie dyscyplinarne na zasadach okreÊlonych odpowiednio w ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych lub ustawie zdnia 20 czerwca 1985 r. oprokuraturze.
+1. Minister Sprawiedliwości zawiesza wczynnościach służbowych Dyrektora Krajowej Szkoły będącego sędzią lub prokuratorem, przeciwko któremu wszczęto postępowanie dyscyplinarne na zasadach określonych odpowiednio w ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych lub ustawie zdnia 20 czerwca 1985 r. oprokuraturze.
 
-2. Dyrektora Krajowej Szko∏y nieb´dàcego s´dzià lub prokuratorem Minister SprawiedliwoÊci zawiesza w czynnoÊciach s∏u˝bowych w przypadkach okreÊlonych wart. 12b ustawy zdnia 18 grudnia 1998 r. opracownikach sàdów i prokuratury (Dz. U. 162, poz.1125, zpóên. zm. ) lub ustawie zdnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. 7, poz. 39 oraz z 2009 r. 1, poz. 4 i 26, poz. 156).
+2. Dyrektora Krajowej Szkoły niebędącego sędzią lub prokuratorem Minister Sprawiedliwości zawiesza w czynnościach służbowych w przypadkach określonych wart. 12b ustawy zdnia 18 grudnia 1998 r. opracownikach sądów i prokuratury (Dz. U. 162, poz.1125, zpóên. zm. ) lub ustawie zdnia 20 czerwca 1985 r. o prokuraturze (Dz. U. z 2008 r. 7, poz. 39 oraz z 2009 r. 1, poz. 4 i 26, poz. 156).
 
-5. Powo∏anie Dyrektora Krajowej Szko∏y na kolejnà kadencj´ nast´puje w trybie okreÊlonym w ust. 1. Dyrektor Krajowej Szko∏y mo˝e byç powo∏any najwy˝ej na dwie kolejne kadencje.
+5. Powołanie Dyrektora Krajowej Szkoły na kolejną kadencję następuje w trybie określonym w ust. 1. Dyrektor Krajowej Szkoły może być powołany najwyżej na dwie kolejne kadencje.
 
 **Art. 13.**
 
-1. Minister SprawiedliwoÊci odwo∏uje Dyrektora Krajowej Szko∏y, je˝eli Dyrektor Krajowej Szko∏y:
+1. Minister Sprawiedliwości odwołuje Dyrektora Krajowej Szkoły, jeżeli Dyrektor Krajowej Szkoły:
 
-- **1)** nie realizuje obowiàzków zwiàzanych z pe∏nionà funkcjà;
-- **2)** sta∏ si´ trwale niezdolny do pe∏nienia obowiàzków zwiàzanych zpe∏nionà funkcjà na skutek choroby;
-- **3)** zrzek∏ si´ stanowiska;
-- **4)** zosta∏ skazany prawomocnym wyrokiem sàdu za przest´pstwo Êcigane z oskar˝enia publicznego lub przest´pstwo skarbowe;
-- **5)** przesta∏ spe∏niaç wymagania okreÊlone w art. 12 ust. 3.
+- **1)** nie realizuje obowiązków związanych z pełnioną funkcją;
+- **2)** stał się trwale niezdolny do pełnienia obowiązków związanych zpełnioną funkcją na skutek choroby;
+- **3)** zrzekł się stanowiska;
+- **4)** został skazany prawomocnym wyrokiem sądu za przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **5)** przestał spełniać wymagania określone w art. 12 ust. 3.
 
-2. Odwo∏anie Dyrektora Krajowej Szko∏y z przyczyn, októrych mowa wust. 1 pkt 1, nast´puje po uzyskaniu opinii Rady. ).
+2. Odwołanie Dyrektora Krajowej Szkoły z przyczyn, októrych mowa wust. 1 pkt 1, następuje po uzyskaniu opinii Rady. ).
 
-3. Minister SprawiedliwoÊci wyznacza osob´, której powierza pe∏nienie obowiàzków Dyrektora Krajowej Szko∏y na czas jego zawieszenia w czynnoÊciach s∏u˝bowych. Osoba ta powinna spe∏niaç wymagania okreÊlone wart. 12 ust. 3.
+3. Minister Sprawiedliwości wyznacza osobę, której powierza pełnienie obowiązków Dyrektora Krajowej Szkoły na czas jego zawieszenia w czynnościach służbowych. Osoba ta powinna spełniać wymagania określone wart. 12 ust. 3.
 
 **Art. 15.**
 
-1. Dyrektor Krajowej Szko∏y kieruje dzia∏alnoÊcià Krajowej Szko∏y ireprezentuje jà na zewnàtrz.
+1. Dyrektor Krajowej Szkoły kieruje działalnością Krajowej Szkoły ireprezentuje ją na zewnątrz.
 
-2. Do zadaƒ Dyrektora Krajowej Szko∏y nale˝y wszczególnoÊci:
+2. Do zadań Dyrektora Krajowej Szkoły należy wszczególności:
 
-- **1)** opracowywanie regulaminu organizacyjnego Krajowej Szko∏y;
-- **2)** sprawowanie bezpoÊredniego nadzoru nad komórkami organizacyjnymi Krajowej Szko∏y;
-- **3)** wykonywanie czynnoÊci w sprawach z zakresu prawa pracy;
-- **4)** zapewnianie realizacji procesów dydaktycznych oraz opracowywanie regulaminu dzia∏alnoÊci szkoleniowej Krajowej Szko∏y;
-- **5)** ustalanie szczegó∏owego programu aplikacji;
-- **6)** realizowanie rocznych harmonogramów dzia∏alnoÊci szkoleniowej Krajowej Szko∏y;
-- **7)** realizowanie rocznych planów wydawniczych Krajowej Szko∏y;
-- **8)** realizowanie zadaƒ zwiàzanych z przygotowywaniem i przeprowadzaniem naboru na aplikacj´ ogólnà, s´dziowskà i prokuratorskà, a tak˝e prowadzaniem tych aplikacji oraz przygotowywaniem i przeprowadzaniem egzaminów s´dziowskiego iprokuratorskiego; ——————— 9) sporzàdzanie i przedstawianie Ministrowi SprawiedliwoÊci oraz Radzie corocznych sprawozdaƒ zdzia∏alnoÊci Krajowej Szko∏y;
-- **10)** realizowanie zadaƒ wyznaczonych przez Ministra SprawiedliwoÊci, zwiàzanych z dzia∏alnoÊcià Krajowej Szko∏y;
-- **11)** wydawanie zarzàdzeƒ ipoleceƒ porzàdkowych. ——————— Rozdzia∏ 3 Aplikacja ogólna, s´dziowska iprokuratorska
+- **1)** opracowywanie regulaminu organizacyjnego Krajowej Szkoły;
+- **2)** sprawowanie bezpośredniego nadzoru nad komórkami organizacyjnymi Krajowej Szkoły;
+- **3)** wykonywanie czynności w sprawach z zakresu prawa pracy;
+- **4)** zapewnianie realizacji procesów dydaktycznych oraz opracowywanie regulaminu działalności szkoleniowej Krajowej Szkoły;
+- **5)** ustalanie szczegółowego programu aplikacji;
+- **6)** realizowanie rocznych harmonogramów działalności szkoleniowej Krajowej Szkoły;
+- **7)** realizowanie rocznych planów wydawniczych Krajowej Szkoły;
+- **8)** realizowanie zadań związanych z przygotowywaniem i przeprowadzaniem naboru na aplikację ogólną, sędziowską i prokuratorską, a także prowadzaniem tych aplikacji oraz przygotowywaniem i przeprowadzaniem egzaminów sędziowskiego iprokuratorskiego; ——————— 9) sporządzanie i przedstawianie Ministrowi Sprawiedliwości oraz Radzie corocznych sprawozdań zdziałalności Krajowej Szkoły;
+- **10)** realizowanie zadań wyznaczonych przez Ministra Sprawiedliwości, związanych z działalnością Krajowej Szkoły;
+- **11)** wydawanie zarządzeń ipoleceń porządkowych. ———————
+
+#### Rozdział 3 Aplikacja ogólna, sędziowska iprokuratorska
 
 **Art. 16.**
 
-1. Minister SprawiedliwoÊci sprawuje nadzór merytoryczny nad aplikacjami: ogólnà, s´dziowskà iprokuratorskà.
+1. Minister Sprawiedliwości sprawuje nadzór merytoryczny nad aplikacjami: ogólną, sędziowską iprokuratorską.
 
-2. Minister SprawiedliwoÊci zarzàdza, wzale˝noÊci od potrzeb kadrowych sàdów iprokuratury, nabór na aplikacj´ ogólnà, s´dziowskà oraz prokuratorskà ijednoczeÊnie wyznacza limit miejsc na te aplikacje.
+2. Minister Sprawiedliwości zarządza, wzależności od potrzeb kadrowych sądów iprokuratury, nabór na aplikację ogólną, sędziowską oraz prokuratorską ijednocześnie wyznacza limit miejsc na te aplikacje.
 
-3. Dyrektor Krajowej Szko∏y zamieszcza, w dwóch dziennikach o zasi´gu ogólnopolskim oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 wrzeÊnia 2001 r. o dost´pie do informacji publicznej (Dz. U. 112, poz. 1198, z póên. zm. ), zwanym dalej „Biuletynem Informacji Publicznej”, ina stronie internetowej Krajowej Szko∏y, zarzàdzenie Ministra SprawiedliwoÊci o naborze na aplikacje w danym roku, okreÊlajàce limit miejsc na poszczególne aplikacje, a tak˝e og∏oszenie o naborze na aplikacj´ ogólnà.
+3. Dyrektor Krajowej Szkoły zamieszcza, w dwóch dziennikach o zasięgu ogólnopolskim oraz w Biuletynie Informacji Publicznej, o którym mowa w ustawie z dnia 6 września 2001 r. o dostępie do informacji publicznej (Dz. U. 112, poz. 1198, z póên. zm. ), zwanym dalej ŃBiuletynem Informacji Publicznej”, ina stronie internetowej Krajowej Szkoły, zarządzenie Ministra Sprawiedliwości o naborze na aplikacje w danym roku, określające limit miejsc na poszczególne aplikacje, a także ogłoszenie o naborze na aplikację ogólną.
 
-4. Wog∏oszeniu, októrym mowa wust. 3, podaje si´ wszczególnoÊci:
+4. Wogłoszeniu, októrym mowa wust. 3, podaje się wszczególności:
 
 - **1)** termin przeprowadzenia konkursu;
-- **2)** termin, miejsce i sposób z∏o˝enia zg∏oszenia do konkursu;
-- **3)** wysokoÊç i sposób uiszczenia op∏aty za udzia∏ wkonkursie.
+- **2)** termin, miejsce i sposób złożenia zgłoszenia do konkursu;
+- **3)** wysokość i sposób uiszczenia opłaty za udział wkonkursie.
 
-5. Zg∏oszenie, o którym mowa w ust. 4 pkt 2, powinno zawieraç:
+5. Zgłoszenie, o którym mowa w ust. 4 pkt 2, powinno zawierać:
 
 - **1)** wniosek odopuszczenie do konkursu;
-- **2)** ankiet´ personalnà;
-- **3)** ˝yciorys;
-- **4)** orygina∏ albo urz´dowo poÊwiadczony odpis dyplomu ukoƒczenia wy˝szych studiów prawniczych w Rzeczypospolitej Polskiej i uzyskania tytu∏u zawodowego magistra lub zagranicznych studiów prawniczych uznanych w Rzeczypospolitej Polskiej albo zaÊwiadczenie ozdanym egzaminie magisterskim;
-- **5)** orygina∏ dowodu uiszczenia op∏aty za udzia∏ wkonkursie;
-- **6)** informacj´ o niekaralnoÊci z Krajowego Rejestru Karnego opatrzonà datà nie wczeÊniejszà ni˝ dwa miesiàce przed dniem jej z∏o˝enia;
-- **7)** oÊwiadczenie sk∏adajàcego zg∏oszenie, ˝e nie jest prowadzone przeciwko niemu post´powanie o przest´pstwo Êcigane z oskar˝enia publicznego lub przest´pstwo skarbowe;
-- **8)** kopi´ dowodu osobistego;
+- **2)** ankietę personalną;
+- **3)** życiorys;
+- **4)** oryginał albo urzędowo poświadczony odpis dyplomu ukończenia wyższych studiów prawniczych w Rzeczypospolitej Polskiej i uzyskania tytułu zawodowego magistra lub zagranicznych studiów prawniczych uznanych w Rzeczypospolitej Polskiej albo zaświadczenie ozdanym egzaminie magisterskim;
+- **5)** oryginał dowodu uiszczenia opłaty za udział wkonkursie;
+- **6)** informację o niekaralności z Krajowego Rejestru Karnego opatrzoną datą nie wcześniejszą niż dwa miesiące przed dniem jej złożenia;
+- **7)** oświadczenie składającego zgłoszenie, że nie jest prowadzone przeciwko niemu postępowanie o przestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe;
+- **8)** kopię dowodu osobistego;
 
 **Art. 17.**
 
-1. Nabór na aplikacj´ ogólnà odbywa si´ wdrodze konkursu sk∏adajàcego si´ z2 etapów:
+1. Nabór na aplikację ogólną odbywa się wdrodze konkursu składającego się z2 etapów:
 
-- **1)** testu sprawdzajàcego wiedz´ z poszczególnych dziedzin prawa;
-- **2)** pracy pisemnej sprawdzajàcej umiej´tnoÊç stosowania argumentacji prawniczej, zasad wyk∏adni oraz kwalifikowania stanów faktycznych.
+- **1)** testu sprawdzającego wiedzę z poszczególnych dziedzin prawa;
+- **2)** pracy pisemnej sprawdzającej umiejętność stosowania argumentacji prawniczej, zasad wykładni oraz kwalifikowania stanów faktycznych.
 
-2. Warunkiem dopuszczenia do drugiego etapu konkursu, o którym mowa w ust. 1 pkt 2, jest uzyskanie z testu minimum punktów okreÊlonego przez Ministra SprawiedliwoÊci.
+2. Warunkiem dopuszczenia do drugiego etapu konkursu, o którym mowa w ust. 1 pkt 2, jest uzyskanie z testu minimum punktów określonego przez Ministra Sprawiedliwości.
 
-3. Test oraz zadania w ramach pracy pisemnej ze wskazaniem form ich przygotowania opracowuje zespó∏ konkursowy powo∏any, po uzyskaniu opinii Rady, przez Dyrektora Krajowej Szko∏y. Testy oraz zadania i formy ich przygotowania sà zatwierdzane przez Ministra SprawiedliwoÊci.
+3. Test oraz zadania w ramach pracy pisemnej ze wskazaniem form ich przygotowania opracowuje zespół konkursowy powołany, po uzyskaniu opinii Rady, przez Dyrektora Krajowej Szkoły. Testy oraz zadania i formy ich przygotowania są zatwierdzane przez Ministra Sprawiedliwości.
 
-4. W sk∏ad zespo∏u konkursowego, o którym mowa wust. 3, wchodzi:
+4. W skład zespołu konkursowego, o którym mowa wust. 3, wchodzi:
 
-- **1)** 5 s´dziów co najmniej sàdu okr´gowego i 2 prokuratorów co najmniej prokuratury okr´gowej, specjalistów z poszczególnych dziedzin prawa podlegajàcych sprawdzeniu wtoku konkursu, wybranych przez Dyrektora Krajowej Szko∏y spoÊród kandydatów zg∏oszonych przez prezesów sàdów apelacyjnych iprokuratorów apelacyjnych;
-- **2)** 2 s´dziów lub prokuratorów wyk∏adowców Krajowej Szko∏y, specjalistów zposzczególnych dziedzin prawa podlegajàcych sprawdzeniu wtoku konkursu, wskazanych przez Dyrektora Krajowej Szko∏y;
-- **3)** pracownik naukowy, naukowo-dydaktyczny lub dydaktyczny szko∏y wy˝szej w Rzeczypospolitej Polskiej, posiadajàcy co najmniej stopieƒ naukowy doktora habilitowanego z zakresu nauk prawnych, wskazany przez Dyrektora Krajowej Szko∏y spoÊród nauczycieli akademickich b´dàcych wyk∏adowcami Krajowej Szko∏y.
+- **1)** 5 sędziów co najmniej sądu okręgowego i 2 prokuratorów co najmniej prokuratury okręgowej, specjalistów z poszczególnych dziedzin prawa podlegających sprawdzeniu wtoku konkursu, wybranych przez Dyrektora Krajowej Szkoły spośród kandydatów zgłoszonych przez prezesów sądów apelacyjnych iprokuratorów apelacyjnych;
+- **2)** 2 sędziów lub prokuratorów wykładowców Krajowej Szkoły, specjalistów zposzczególnych dziedzin prawa podlegających sprawdzeniu wtoku konkursu, wskazanych przez Dyrektora Krajowej Szkoły;
+- **3)** pracownik naukowy, naukowo-dydaktyczny lub dydaktyczny szkoły wyższej w Rzeczypospolitej Polskiej, posiadający co najmniej stopień naukowy doktora habilitowanego z zakresu nauk prawnych, wskazany przez Dyrektora Krajowej Szkoły spośród nauczycieli akademickich będących wykładowcami Krajowej Szkoły.
 
-5. Cz∏onkami zespo∏u konkursowego, o których mowa w ust. 4, mogà byç s´dziowie w stanie spoczynku lub prokuratorzy wstanie spoczynku.
+5. Członkami zespołu konkursowego, o których mowa w ust. 4, mogą być sędziowie w stanie spoczynku lub prokuratorzy wstanie spoczynku.
 
-6. Przewodniczàcego zespo∏u konkursowego wskazuje, spoÊród jego cz∏onków, Dyrektor Krajowej Szko∏y.
+6. Przewodniczącego zespołu konkursowego wskazuje, spośród jego członków, Dyrektor Krajowej Szkoły.
 
-7. Minister SprawiedliwoÊci odwo∏uje cz∏onka zespo∏u konkursowego wprzypadku:
+7. Minister Sprawiedliwości odwołuje członka zespołu konkursowego wprzypadku:
 
-- **1)** z∏o˝enia rezygnacji;
-- **2)** choroby trwale uniemo˝liwiajàcej wykonywanie obowiàzków cz∏onka zespo∏u;
-- **3)** cofni´cia rekomendacji przez organ zg∏aszajàcy kandydata, októrym mowa wust. 4 pkt 1;
-- **9)** 3 zdj´cia zgodne zwymaganiami obowiàzujàcymi przy wydawaniu dowodów osobistych.
-- **4)** niewykonywania lub nienale˝ytego wykonywania obowiàzków;
-- **5)** skazania prawomocnym wyrokiem sàdu za przest´pstwo lub przest´pstwo skarbowe;
-- **6)** wszcz´cia przeciwko niemu post´powania karnego o przest´pstwo umyÊlne Êcigane z oskar˝enia ——————— publicznego lub umyÊlne przest´pstwo skarbowe.
+- **1)** złożenia rezygnacji;
+- **2)** choroby trwale uniemożliwiającej wykonywanie obowiązków członka zespołu;
+- **3)** cofnięcia rekomendacji przez organ zgłaszający kandydata, októrym mowa wust. 4 pkt 1;
+- **9)** 3 zdjęcia zgodne zwymaganiami obowiązującymi przy wydawaniu dowodów osobistych.
+- **4)** niewykonywania lub nienależytego wykonywania obowiązków;
+- **5)** skazania prawomocnym wyrokiem sądu za przestępstwo lub przestępstwo skarbowe;
+- **6)** wszczęcia przeciwko niemu postępowania karnego o przestępstwo umyślne ścigane z oskarżenia ——————— publicznego lub umyślne przestępstwo skarbowe.
 
-8. Cz∏onek zespo∏u konkursowego podlega wy∏àczeniu od udzia∏u wjego pracach, je˝eli kandydat pozostaje znim wstosunku:
+8. Członek zespołu konkursowego podlega wyłączeniu od udziału wjego pracach, jeżeli kandydat pozostaje znim wstosunku:
 
-- **1)** ma∏˝eƒstwa lub we wspólnym po˝yciu;
-- **2)** pokrewieƒstwa albo powinowactwa do trzeciego stopnia;
+- **1)** małżeństwa lub we wspólnym pożyciu;
+- **2)** pokrewieństwa albo powinowactwa do trzeciego stopnia;
 - **3)** przysposobienia, opieki lub kurateli;
-- **4)** zale˝noÊci s∏u˝bowej;
-- **5)** osobistym tego rodzaju, ˝e móg∏by wywo∏aç wàtpliwoÊci co do jego obiektywizmu.
+- **4)** zależności służbowej;
+- **5)** osobistym tego rodzaju, że mógłby wywołać wątpliwości co do jego obiektywizmu.
 
-9. Powody wy∏àczenia trwajà pomimo ustania ma∏˝eƒstwa, przysposobienia, opieki lub kurateli.
+9. Powody wyłączenia trwają pomimo ustania małżeństwa, przysposobienia, opieki lub kurateli.
 
-10. Cz∏onkowie zespo∏u konkursowego przed rozpocz´ciem prac zespo∏u sk∏adajà pisemne oÊwiadczenie, i˝ nie zachodzà wich przypadku powody wy∏àczenia, o których mowa w ust. 8, oraz powody odwo∏ania, októrych mowa wust. 7 pkt 2, 5 i6.
+10. Członkowie zespołu konkursowego przed rozpoczęciem prac zespołu składają pisemne oświadczenie, iż nie zachodzą wich przypadku powody wyłączenia, o których mowa w ust. 8, oraz powody odwołania, októrych mowa wust. 7 pkt 2, 5 i6.
 
-11. Konkurs przeprowadzajà komisje konkursowe powo∏ywane przez Ministra SprawiedliwoÊci na zaopiniowany przez Rad´ wniosek Dyrektora Krajowej Szko∏y spoÊród osób, których wiedza, doÊwiadczenie zawodowe i autorytet dajà r´kojmi´ prawid∏owego przebiegu konkursu. Konkurs przeprowadzany jest wKrajowej Szkole.
+11. Konkurs przeprowadzają komisje konkursowe powoływane przez Ministra Sprawiedliwości na zaopiniowany przez Radę wniosek Dyrektora Krajowej Szkoły spośród osób, których wiedza, doświadczenie zawodowe i autorytet dają rękojmię prawidłowego przebiegu konkursu. Konkurs przeprowadzany jest wKrajowej Szkole.
 
-12. Wsk∏ad komisji konkursowej wchodzi:
+12. Wskład komisji konkursowej wchodzi:
 
-- **1)** sekretarz wskazany przez Dyrektora Krajowej Szko∏y spoÊród s´dziów i prokuratorów delegowanych do Krajowej Szko∏y;
-- **2)** 5 s´dziów co najmniej sàdu okr´gowego i 2 prokuratorów co najmniej prokuratury okr´gowej, specjalistów z poszczególnych dziedzin prawa podlegajàcych sprawdzeniu wtoku konkursu, wybranych przez Ministra SprawiedliwoÊci spoÊród kandydatów zg∏oszonych przez prezesów sàdów apelacyjnych iprokuratorów apelacyjnych;
-- **3)** 2 wyk∏adowców Krajowej Szko∏y, specjalistów z poszczególnych dziedzin prawa podlegajàcych sprawdzeniu w toku konkursu, wskazanych przez Dyrektora Krajowej Szko∏y spoÊród s´dziów iprokuratorów;
-- **4)** pracownik naukowy, naukowo-dydaktyczny lub dydaktyczny szko∏y wy˝szej w Rzeczypospolitej Polskiej posiadajàcy co najmniej stopieƒ naukowy doktora habilitowanego zzakresu nauk prawnych, wskazany przez Dyrektora Krajowej Szko∏y spoÊród nauczycieli akademickich b´dàcych wyk∏adowcami Krajowej Szko∏y;
-- **5)** przedstawiciel Krajowej Rady Sàdownictwa;
+- **1)** sekretarz wskazany przez Dyrektora Krajowej Szkoły spośród sędziów i prokuratorów delegowanych do Krajowej Szkoły;
+- **2)** 5 sędziów co najmniej sądu okręgowego i 2 prokuratorów co najmniej prokuratury okręgowej, specjalistów z poszczególnych dziedzin prawa podlegających sprawdzeniu wtoku konkursu, wybranych przez Ministra Sprawiedliwości spośród kandydatów zgłoszonych przez prezesów sądów apelacyjnych iprokuratorów apelacyjnych;
+- **3)** 2 wykładowców Krajowej Szkoły, specjalistów z poszczególnych dziedzin prawa podlegających sprawdzeniu w toku konkursu, wskazanych przez Dyrektora Krajowej Szkoły spośród sędziów iprokuratorów;
+- **4)** pracownik naukowy, naukowo-dydaktyczny lub dydaktyczny szkoły wyższej w Rzeczypospolitej Polskiej posiadający co najmniej stopień naukowy doktora habilitowanego zzakresu nauk prawnych, wskazany przez Dyrektora Krajowej Szkoły spośród nauczycieli akademickich będących wykładowcami Krajowej Szkoły;
+- **5)** przedstawiciel Krajowej Rady Sądownictwa;
 - **6)** przedstawiciel Rady Prokuratorów przy Prokuratorze Generalnym.
 
-13. Minister SprawiedliwoÊci wyznacza przewodniczàcego komisji konkursowej spoÊród jej cz∏onków.
+13. Minister Sprawiedliwości wyznacza przewodniczącego komisji konkursowej spośród jej członków.
 
-14. Do cz∏onków komisji konkursowej stosuje si´
+14. Do członków komisji konkursowej stosuje się
 
-15. Minister SprawiedliwoÊci na wniosek Dyrektora Krajowej Szko∏y, je˝eli wymagajà tego wzgl´dy organizacyjne wynikajàce z du˝ej liczby kandydatów, mo˝e zarzàdziç przeprowadzenie testu w wybranych siedzibach sàdów apelacyjnych lub prokuratur apelacyjnych. Przebieg testu nadzorujà zespo∏y powo∏ane przez Ministra SprawiedliwoÊci, wuzgodnieniu zprezesem sàdu apelacyjnego i prokuratorem apelacyjnym, w∏aÊciwymi ze wzgl´du na miejsce przeprowadzania testu.
+15. Minister Sprawiedliwości na wniosek Dyrektora Krajowej Szkoły, jeżeli wymagają tego względy organizacyjne wynikające z dużej liczby kandydatów, może zarządzić przeprowadzenie testu w wybranych siedzibach sądów apelacyjnych lub prokuratur apelacyjnych. Przebieg testu nadzorują zespoły powołane przez Ministra Sprawiedliwości, wuzgodnieniu zprezesem sądu apelacyjnego i prokuratorem apelacyjnym, właściwymi ze względu na miejsce przeprowadzania testu.
 
-16. Wsk∏ad zespo∏ów wchodzà s´dziowie iprokuratorzy oraz urz´dnicy sàdów iprokuratury, zokr´gów sàdów apelacyjnych iprokuratur apelacyjnych, októrych mowa w ust. 15. Liczba cz∏onków zespo∏u jest uwarunkowana liczbà kandydatów dopuszczonych do testu, nie mo˝e byç jednak wi´ksza ni˝ siedem osób.
+16. Wskład zespołów wchodzą sędziowie iprokuratorzy oraz urzędnicy sądów iprokuratury, zokręgów sądów apelacyjnych iprokuratur apelacyjnych, októrych mowa w ust. 15. Liczba członków zespołu jest uwarunkowana liczbą kandydatów dopuszczonych do testu, nie może być jednak większa niż siedem osób.
 
-17. Pracami zespo∏ów kieruje wyznaczony przez Ministra SprawiedliwoÊci cz∏onek komisji konkursowej. Do cz∏onków zespo∏ów stosuje si´ odpowiednio przepisy ust. 7—10.
+17. Pracami zespołów kieruje wyznaczony przez Ministra Sprawiedliwości członek komisji konkursowej. Do członków zespołów stosuje się odpowiednio przepisy ust. 7—10.
 
 **Art. 18.**
 
-1. Po przeprowadzeniu konkursu komisja konkursowa przedstawia Dyrektorowi Krajowej Szko∏y list´ kwalifikacyjnà kandydatów na aplikantów aplikacji ogólnej, zwanà dalej „listà kwalifikacyjnà”, zawierajàcà imiona i nazwiska kandydatów z podaniem liczby punktów uzyskanych przez ka˝dego kandydata i liczby porzàdkowej wskazujàcej jego miejsce na tej liÊcie wraz z dokumentacjà oraz og∏asza list´ kwalifikacyjnà wBiuletynie Informacji Publicznej.
+1. Po przeprowadzeniu konkursu komisja konkursowa przedstawia Dyrektorowi Krajowej Szkoły listę kwalifikacyjną kandydatów na aplikantów aplikacji ogólnej, zwaną dalej Ńlistą kwalifikacyjną”, zawierającą imiona i nazwiska kandydatów z podaniem liczby punktów uzyskanych przez każdego kandydata i liczby porządkowej wskazującej jego miejsce na tej liście wraz z dokumentacją oraz ogłasza listę kwalifikacyjną wBiuletynie Informacji Publicznej.
 
-2. OkolejnoÊci miejsca na liÊcie kwalifikacyjnej decyduje suma punktów uzyskanych przez kandydatów z obu etapów konkursu. Je˝eli 2 lub wi´cej kandydatów uzyska takà samà liczb´ punktów, o kolejnoÊci miejsca na liÊcie kwalifikacyjnej decyduje liczba punktów uzyskanych z pracy pisemnej, a jeÊli liczba punktów uzyskanych z pracy pisemnej jest taka sama, wszystkich tych kandydatów umieszcza si´ na jednym miejscu na liÊcie kwalifikacyjnej. W przypadku gdy miejsce na liÊcie kwalifikacyjnej, w którym nast´puje wyczerpanie limitu, o którym mowa w art. 16 ust. 2, zajmuje wi´cej ni˝ jedna osoba, limit ulega podwy˝szeniu oliczb´ osób umieszczonych na tym miejscu.
+2. Okolejności miejsca na liście kwalifikacyjnej decyduje suma punktów uzyskanych przez kandydatów z obu etapów konkursu. Jeżeli 2 lub więcej kandydatów uzyska taką samą liczbę punktów, o kolejności miejsca na liście kwalifikacyjnej decyduje liczba punktów uzyskanych z pracy pisemnej, a jeśli liczba punktów uzyskanych z pracy pisemnej jest taka sama, wszystkich tych kandydatów umieszcza się na jednym miejscu na liście kwalifikacyjnej. W przypadku gdy miejsce na liście kwalifikacyjnej, w którym następuje wyczerpanie limitu, o którym mowa w art. 16 ust. 2, zajmuje więcej niż jedna osoba, limit ulega podwyższeniu oliczbę osób umieszczonych na tym miejscu.
 
 **Art. 19.**
 
-1. Dyrektor Krajowej Szko∏y na podstawie odpowiednio przepisy ust. 7—10. listy kwalifikacyjnej ustala list´ kandydatów zakwalifikowanych na aplikacj´ ogólnà zawierajàcà ich imiona i nazwiska. Na liÊcie tej kandydaci sà umieszczeni wed∏ug kolejnoÊci miejsc zajmowanych na liÊcie kwalifikacyjnej, w liczbie odpowiadajàcej limitowi przyj´ç na aplikacj´ ogólnà wyznaczonemu w danym roku. Przepis art. 18 ust. 2 zdanie drugie stosuje si´ odpowiednio.
+1. Dyrektor Krajowej Szkoły na podstawie odpowiednio przepisy ust. 7—10. listy kwalifikacyjnej ustala listę kandydatów zakwalifikowanych na aplikację ogólną zawierającą ich imiona i nazwiska. Na liście tej kandydaci są umieszczeni według kolejności miejsc zajmowanych na liście kwalifikacyjnej, w liczbie odpowiadającej limitowi przyjęć na aplikację ogólną wyznaczonemu w danym roku. Przepis art. 18 ust. 2 zdanie drugie stosuje się odpowiednio.
 
-2. Dyrektor Krajowej Szko∏y og∏asza list´ kandydatów zakwalifikowanych na aplikacj´ ogólnà wBiuletynie Informacji Publicznej i zawiadamia pisemnie kandydatów o umieszczeniu na tej liÊcie. Osoba umieszczona na tej liÊcie, wterminie 14 dni od dnia zawiadomienia, sk∏ada pisemne oÊwiadczenie o gotowoÊci podj´cia aplikacji ogólnej.
+2. Dyrektor Krajowej Szkoły ogłasza listę kandydatów zakwalifikowanych na aplikację ogólną wBiuletynie Informacji Publicznej i zawiadamia pisemnie kandydatów o umieszczeniu na tej liście. Osoba umieszczona na tej liście, wterminie 14 dni od dnia zawiadomienia, składa pisemne oświadczenie o gotowości podjęcia aplikacji ogólnej.
 
-3. Wprzypadku niez∏o˝enia wterminie oÊwiadczenia, o którym mowa w ust. 2, lub nieusprawiedliwionego niepodj´cia aplikacji ogólnej w terminie 30 dni od dnia jej rozpocz´cia, Dyrektor Krajowej Szko∏y uzupe∏nia list´ kandydatów zakwalifikowanych na aplikacj´ ogólnà o kandydata umieszczonego na kolejnym miejscu na liÊcie kwalifikacyjnej. Przepis ust. 2 stosuje si´ odpowiednio.
+3. Wprzypadku niezłożenia wterminie oświadczenia, o którym mowa w ust. 2, lub nieusprawiedliwionego niepodjęcia aplikacji ogólnej w terminie 30 dni od dnia jej rozpoczęcia, Dyrektor Krajowej Szkoły uzupełnia listę kandydatów zakwalifikowanych na aplikację ogólną o kandydata umieszczonego na kolejnym miejscu na liście kwalifikacyjnej. Przepis ust. 2 stosuje się odpowiednio.
 
 **Art. 20.**
 
-1. Dyrektor Krajowej Szko∏y, po przeprowadzeniu konkursu i ustaleniu listy kandydatów zakwalifikowanych na aplikacj´ ogólnà, zasi´ga informacji z Krajowego Rejestru Karnego o ka˝dej osobie umieszczonej na tej liÊcie oraz zwraca si´ do w∏aÊciwego komendanta wojewódzkiego Policji o nades∏anie informacji oka˝dej ztych osób, zawierajàcej istotne dla oceny spe∏niania wymogu posiadania nieposzlakowanej opinii, dane o:
+1. Dyrektor Krajowej Szkoły, po przeprowadzeniu konkursu i ustaleniu listy kandydatów zakwalifikowanych na aplikację ogólną, zasięga informacji z Krajowego Rejestru Karnego o każdej osobie umieszczonej na tej liście oraz zwraca się do właściwego komendanta wojewódzkiego Policji o nadesłanie informacji okażdej ztych osób, zawierającej istotne dla oceny spełniania wymogu posiadania nieposzlakowanej opinii, dane o:
 
-- **1)** zachowaniach Êwiadczàcych o naruszeniu przez nià porzàdku prawnego;
-- **2)** kontaktach ze Êrodowiskami przest´pczymi lub grupami Êrodowiskowymi patologii spo∏ecznej iocharakterze tych kontaktów;
-- **3)** okolicznoÊciach wskazujàcych na uzale˝nienie od alkoholu, Êrodków odurzajàcych lub substancji psychotropowych.
+- **1)** zachowaniach świadczących o naruszeniu przez nią porządku prawnego;
+- **2)** kontaktach ze środowiskami przestępczymi lub grupami środowiskowymi patologii społecznej iocharakterze tych kontaktów;
+- **3)** okolicznościach wskazujących na uzależnienie od alkoholu, środków odurzających lub substancji psychotropowych.
 
-2. Minister SprawiedliwoÊci, w porozumieniu z ministrem w∏aÊciwym do spraw wewn´trznych, okreÊli, w drodze rozporzàdzenia, szczegó∏owy sposób i tryb uzyskiwania, sporzàdzania i przekazywania przez w∏aÊciwego komendanta wojewódzkiego Policji informacji oosobie ubiegajàcej si´ oprzyj´cie na aplikacj´ ogólnà, s´dziowskà lub prokuratorskà oraz wzór kwestionariusza tej informacji, majàc na wzgl´dzie charakter i zakres obowiàzków aplikanta oraz prawa iwolnoÊci chronione konstytucyjnie.
+2. Minister Sprawiedliwości, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia, szczegółowy sposób i tryb uzyskiwania, sporządzania i przekazywania przez właściwego komendanta wojewódzkiego Policji informacji oosobie ubiegającej się oprzyjęcie na aplikację ogólną, sędziowską lub prokuratorską oraz wzór kwestionariusza tej informacji, mając na względzie charakter i zakres obowiązków aplikanta oraz prawa iwolności chronione konstytucyjnie.
 
 **Art. 21.**
 
-1. Przed przystàpieniem do konkursu kandydat uiszcza op∏at´ za udzia∏ wkonkursie. Op∏ata stanowi dochód bud˝etu paƒstwa.
+1. Przed przystąpieniem do konkursu kandydat uiszcza opłatę za udział wkonkursie. Opłata stanowi dochód budżetu państwa.
 
-2. Minister SprawiedliwoÊci po zasi´gni´ciu opinii Dyrektora Krajowej Szko∏y okreÊli, wdrodze rozporzàdzenia, wysokoÊç op∏aty, októrej mowa wust. 1 nie wy˝szà ni˝ równowartoÊç 50 % minimalnego wynagrodzenia za prac´, o którym mowa w ustawie z dnia 10 paêdziernika 2002 r. ominimalnym wynagrodzeniu za prac´ (Dz. U. 200, poz. 1679, z 2004 r. 240, poz.2407 oraz z2005 r. 157, poz. 1314) uwzgl´dniajàc koniecznoÊç prawid∏owego iefektywnego przeprowadzenia naboru.
+2. Minister Sprawiedliwości po zasięgnięciu opinii Dyrektora Krajowej Szkoły określi, wdrodze rozporządzenia, wysokość opłaty, októrej mowa wust. 1 nie wyższą niż równowartość 50 % minimalnego wynagrodzenia za pracę, o którym mowa w ustawie z dnia 10 paêdziernika 2002 r. ominimalnym wynagrodzeniu za pracę (Dz. U. 200, poz. 1679, z 2004 r. 240, poz.2407 oraz z2005 r. 157, poz. 1314) uwzględniając konieczność prawidłowego iefektywnego przeprowadzenia naboru.
 
-**Art. 22.** Aplikantem aplikacji ogólnej mo˝e zostaç osoba:
+**Art. 22.** Aplikantem aplikacji ogólnej może zostać osoba:
 
 **Art. 23.**
 
-1. Dyrektor Krajowej Szko∏y, po uzyskaniu informacji, o których mowa w art. 20 ust. 1, wydaje decyzj´ wsprawie przyj´cia na aplikacj´ ogólnà.
+1. Dyrektor Krajowej Szkoły, po uzyskaniu informacji, o których mowa w art. 20 ust. 1, wydaje decyzję wsprawie przyjęcia na aplikację ogólną.
 
-2. Od decyzji, októrej mowa wust. 1, przys∏uguje odwo∏anie do Ministra SprawiedliwoÊci, w terminie 14 dni od dnia jej dor´czenia. Rozpoznanie odwo∏ania nast´puje wterminie 14 dni od dnia jego wniesienia.
+2. Od decyzji, októrej mowa wust. 1, przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia. Rozpoznanie odwołania następuje wterminie 14 dni od dnia jego wniesienia.
 
-3. Od decyzji Ministra SprawiedliwoÊci, o której mowa wust. 2, przys∏uguje skarga do wojewódzkiego sàdu administracyjnego, w terminie 14 dni od dnia dor´czenia tej decyzji.
+3. Od decyzji Ministra Sprawiedliwości, o której mowa wust. 2, przysługuje skarga do wojewódzkiego sądu administracyjnego, w terminie 14 dni od dnia doręczenia tej decyzji.
 
-4. Wprzypadku uwzgl´dnienia skargi, októrej mowa w ust. 3, Dyrektor Krajowej Szko∏y wydaje niezw∏ocznie decyzj´ oprzyj´ciu na aplikacj´ ogólnà, którà aplikant odbywa zgodnie zindywidualnym programem ustalonym przez Dyrektora Krajowej Szko∏y.
+4. Wprzypadku uwzględnienia skargi, októrej mowa w ust. 3, Dyrektor Krajowej Szkoły wydaje niezwłocznie decyzję oprzyjęciu na aplikację ogólną, którą aplikant odbywa zgodnie zindywidualnym programem ustalonym przez Dyrektora Krajowej Szkoły.
 
-**Art. 24.** Przed obj´ciem obowiàzków aplikant aplikacji ogólnej sk∏ada Êlubowanie wobec Dyrektora Krajowej Szko∏y wed∏ug nast´pujàcej roty: „Âlubuj´ uroczyÊcie sumiennie wype∏niaç obowiàzki aplikanta Krawart. 19 ust. 2. jowej Szko∏y Sàdownictwa i Prokuratury, w post´powaniu kierowaç si´ zasadami godnoÊci i uczciwoÊci, dbaç o dobre imi´ Krajowej Szko∏y Sàdownictwa i Prokuratury oraz dochowaç tajemnicy paƒstwowej, s∏u˝bowej i zawodowej”; sk∏adajàcy Êlubowanie mo˝e dodaç zwrot: „Tak mi dopomó˝ Bóg”.
+**Art. 24.** Przed objęciem obowiązków aplikant aplikacji ogólnej składa ślubowanie wobec Dyrektora Krajowej Szkoły według następującej roty: ŃÂlubuję uroczyście sumiennie wypełniać obowiązki aplikanta Krawart. 19 ust. 2. jowej Szkoły Sądownictwa i Prokuratury, w postępowaniu kierować się zasadami godności i uczciwości, dbać o dobre imię Krajowej Szkoły Sądownictwa i Prokuratury oraz dochować tajemnicy państwowej, służbowej i zawodowej”; składający ślubowanie może dodać zwrot: ŃTak mi dopomóż Bóg”.
 
 **Art. 25.**
 
-1. Aplikacja ogólna trwa 12 miesi´cy.
+1. Aplikacja ogólna trwa 12 miesięcy.
 
-2. Aplikacja ogólna rozpoczyna si´ nie póêniej ni˝ w terminie 3 miesi´cy od dnia og∏oszenia listy, o której mowa w art. 19 ust. 2. Minister SprawiedliwoÊci, wdrodze zarzàdzenia, okreÊla termin rozpocz´cia aplikacji ogólnej. Zarzàdzenie to zamieszcza w Biuletynie Informacji Publicznej.
+2. Aplikacja ogólna rozpoczyna się nie póêniej niż w terminie 3 miesięcy od dnia ogłoszenia listy, o której mowa w art. 19 ust. 2. Minister Sprawiedliwości, wdrodze zarządzenia, określa termin rozpoczęcia aplikacji ogólnej. Zarządzenie to zamieszcza w Biuletynie Informacji Publicznej.
 
-3. W trakcie aplikacji ogólnej aplikanci odbywajà zaj´cia wKrajowej Szkole oraz praktyki zgodnie zprogramem aplikacji.
+3. W trakcie aplikacji ogólnej aplikanci odbywają zajęcia wKrajowej Szkole oraz praktyki zgodnie zprogramem aplikacji.
 
-4. Dyrektor Krajowej Szko∏y wyznacza aplikantowi patrona koordynatora, który s∏u˝y aplikantowi pomocà merytorycznà oraz nadzoruje i koordynuje prawid∏owy przebieg jego praktyk, zgodny z programem aplikacji ogólnej.
+4. Dyrektor Krajowej Szkoły wyznacza aplikantowi patrona koordynatora, który służy aplikantowi pomocą merytoryczną oraz nadzoruje i koordynuje prawidłowy przebieg jego praktyk, zgodny z programem aplikacji ogólnej.
 
-5. Na czas odbywania przez aplikanta praktyk, zgodnie z programem aplikacji ogólnej, Dyrektor Krajowej Szko∏y, w uzgodnieniu z patronem koordynatorem, wyznacza aplikantowi patrona ka˝dej z praktyk, który zapoznaje aplikanta z czynnoÊciami nale˝àcymi do zakresu jego obowiàzków w trakcie praktyki i niezw∏ocznie po jej zakoƒczeniu przedstawia patronowi koordynatorowi pisemnà opini´ wraz zocenà przebiegu praktyki. Woparciu ote opinie ioceny patron koordynator sporzàdza koƒcowà opini´ wraz z ∏àcznà ocenà przebiegu wszystkich praktyk, które odby∏ aplikant.
+5. Na czas odbywania przez aplikanta praktyk, zgodnie z programem aplikacji ogólnej, Dyrektor Krajowej Szkoły, w uzgodnieniu z patronem koordynatorem, wyznacza aplikantowi patrona każdej z praktyk, który zapoznaje aplikanta z czynnościami należącymi do zakresu jego obowiązków w trakcie praktyki i niezwłocznie po jej zakończeniu przedstawia patronowi koordynatorowi pisemną opinię wraz zoceną przebiegu praktyki. Woparciu ote opinie ioceny patron koordynator sporządza końcową opinię wraz z łączną oceną przebiegu wszystkich praktyk, które odbył aplikant.
 
 **Art. 26.**
 
-1. Warunkiem ukoƒczenia aplikacji ogólnej jest uzyskanie pozytywnych ocen ze wszystkich sprawdzianów ipraktyk obj´tych programem aplikacji.
+1. Warunkiem ukończenia aplikacji ogólnej jest uzyskanie pozytywnych ocen ze wszystkich sprawdzianów ipraktyk objętych programem aplikacji.
 
-2. Dyrektor Krajowej Szko∏y, w terminie 14 dni od dnia zakoƒczenia aplikacji ogólnej, og∏asza wBiuletynie Informacji Publicznej list´ klasyfikacyjnà aplikantów. Lista zawiera imiona, nazwiska aplikantów, zpodaniem liczby punktów uzyskanych przez ka˝dego aplikanta w trakcie aplikacji ogólnej, oraz liczby porzàdkowej wskazujàcej jego miejsce na liÊcie.
+2. Dyrektor Krajowej Szkoły, w terminie 14 dni od dnia zakończenia aplikacji ogólnej, ogłasza wBiuletynie Informacji Publicznej listę klasyfikacyjną aplikantów. Lista zawiera imiona, nazwiska aplikantów, zpodaniem liczby punktów uzyskanych przez każdego aplikanta w trakcie aplikacji ogólnej, oraz liczby porządkowej wskazującej jego miejsce na liście.
 
-3. O kolejnoÊci miejsca na liÊcie klasyfikacyjnej aplikantów decyduje suma punktów uzyskanych przez aplikanta ze wszystkich sprawdzianów ipraktyk wczasie aplikacji ogólnej. Wprzypadku równej liczby punktów uzyskanych przez aplikantów o kolejnoÊci decyduje suma punktów uzyskanych ze sprawdzianów. Przepis art. 18 ust. 2 stosuje si´ odpowiednio.
+3. O kolejności miejsca na liście klasyfikacyjnej aplikantów decyduje suma punktów uzyskanych przez aplikanta ze wszystkich sprawdzianów ipraktyk wczasie aplikacji ogólnej. Wprzypadku równej liczby punktów uzyskanych przez aplikantów o kolejności decyduje suma punktów uzyskanych ze sprawdzianów. Przepis art. 18 ust. 2 stosuje się odpowiednio.
 
-4. Âwiadectwem ukoƒczenia aplikacji ogólnej jest dyplom wydawany przez Dyrektora Krajowej Szko∏y.
+4. Âwiadectwem ukończenia aplikacji ogólnej jest dyplom wydawany przez Dyrektora Krajowej Szkoły.
 
 **Art. 27.**
 
-1. Osoba, która ukoƒczy∏a aplikacj´ ogólnà mo˝e z∏o˝yç wniosek oumieszczenie na liÊcie klasyfikacyjnej aplikantów, o której mowa w art. ust. 2, tak˝e w kolejnych latach szkoleniowych, nie póêniej ni˝ wterminie 3 lat od dnia ukoƒczenia przez nià aplikacji ogólnej. W takim przypadku podstawà ustalenia kolejnoÊci umieszczenia na liÊcie jest liczba punktów uzyskanych w trakcie ukoƒczonej przez nià aplikacji ogólnej.
+1. Osoba, która ukończyła aplikację ogólną może złożyć wniosek oumieszczenie na liście klasyfikacyjnej aplikantów, o której mowa w art. ust. 2, także w kolejnych latach szkoleniowych, nie póêniej niż wterminie 3 lat od dnia ukończenia przez nią aplikacji ogólnej. W takim przypadku podstawą ustalenia kolejności umieszczenia na liście jest liczba punktów uzyskanych w trakcie ukończonej przez nią aplikacji ogólnej.
 
-2. Wniosek sk∏ada si´ do Dyrektora Krajowej Szko∏y nie póêniej ni˝ do dnia ukoƒczenia aplikacji ogólnej wdanym roku.
+2. Wniosek składa się do Dyrektora Krajowej Szkoły nie póêniej niż do dnia ukończenia aplikacji ogólnej wdanym roku.
 
 **Art. 28.**
 
-1. Osoba, która ukoƒczy∏a aplikacj´ ogólnà oraz spe∏nia kryteria okreÊlone wart. 22 pkt 1—4 mo˝e, wterminie 14 dni od dnia og∏oszenia wBiuletynie Informacji Publicznej listy klasyfikacyjnej aplikantów, o której mowa w art. ust. 2, z∏o˝yç do Dyrektora Krajowej Szko∏y wniosek o kontynuowanie szkolenia na aplikacji s´dziowskiej lub prokuratorskiej.
+1. Osoba, która ukończyła aplikację ogólną oraz spełnia kryteria określone wart. 22 pkt 1—4 może, wterminie 14 dni od dnia ogłoszenia wBiuletynie Informacji Publicznej listy klasyfikacyjnej aplikantów, o której mowa w art. ust. 2, złożyć do Dyrektora Krajowej Szkoły wniosek o kontynuowanie szkolenia na aplikacji sędziowskiej lub prokuratorskiej.
 
-2. Kandydaci na aplikacj´ s´dziowskà lub prokuratorskà przedstawiajà dodatkowo zaÊwiadczenie ozdolnoÊci do pe∏nienia obowiàzków odpowiednio s´dziego, októrym mowa wart. 57 § 1 ustawy zdnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych, lub prokuratora, októrym mowa wart. 11 ust. 2 ustawy zdnia 20 czerwca 1985 r. oprokuraturze.
+2. Kandydaci na aplikację sędziowską lub prokuratorską przedstawiają dodatkowo zaświadczenie ozdolności do pełnienia obowiązków odpowiednio sędziego, októrym mowa wart. 57 § 1 ustawy zdnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, lub prokuratora, októrym mowa wart. 11 ust. 2 ustawy zdnia 20 czerwca 1985 r. oprokuraturze.
 
 **Art. 29.**
 
-1. Dyrektor Krajowej Szko∏y wydaje decyzj´ w sprawie przyj´cia na aplikacj´ s´dziowskà albo prokuratorskà.
+1. Dyrektor Krajowej Szkoły wydaje decyzję w sprawie przyjęcia na aplikację sędziowską albo prokuratorską.
 
-2. Decyzj´ o przyj´ciu na aplikacj´ s´dziowskà albo prokuratorskà Dyrektor Krajowej Szko∏y wydaje wed∏ug kolejnoÊci umieszczenia kandydatów na liÊcie klasyfikacyjnej aplikantów, o której mowa w art. ust. 2, do miejsca wyczerpania limitu przyj´ç na te aplikacje.
+2. Decyzję o przyjęciu na aplikację sędziowską albo prokuratorską Dyrektor Krajowej Szkoły wydaje według kolejności umieszczenia kandydatów na liście klasyfikacyjnej aplikantów, o której mowa w art. ust. 2, do miejsca wyczerpania limitu przyjęć na te aplikacje.
 
-3. Listy kandydatów przyj´tych na aplikacj´ s´dziowskà i prokuratorskà Dyrektor Krajowej Szko∏y og∏asza niezw∏ocznie w Biuletynie Informacji Publicznej. Listy zawierajà imiona i nazwiska kandydatów
+3. Listy kandydatów przyjętych na aplikację sędziowską i prokuratorską Dyrektor Krajowej Szkoły ogłasza niezwłocznie w Biuletynie Informacji Publicznej. Listy zawierają imiona i nazwiska kandydatów
 
-5. Od decyzji Ministra SprawiedliwoÊci, o której mowa wust. 4, przys∏uguje skarga do wojewódzkiego sàdu administracyjnego, w terminie 14 dni od dnia dor´czenia tej decyzji.
+5. Od decyzji Ministra Sprawiedliwości, o której mowa wust. 4, przysługuje skarga do wojewódzkiego sądu administracyjnego, w terminie 14 dni od dnia doręczenia tej decyzji.
 
-6. Wprzypadku uwzgl´dnienia skargi, októrej mowa w ust. 5, przepis art. 23 ust. 4 stosuje si´ odpowiednio.
+6. Wprzypadku uwzględnienia skargi, októrej mowa w ust. 5, przepis art. 23 ust. 4 stosuje się odpowiednio.
 
-**Art. 30.** Przed obj´ciem obowiàzków aplikant aplikacji s´dziowskiej albo prokuratorskiej sk∏ada Êlubowanie wobec Dyrektora Krajowej Szko∏y wed∏ug nast´pujàcej roty: „Âlubuj´ uroczyÊcie sumiennie wype∏niaç obowiàzki aplikanta Krajowej Szko∏y Sàdownictwa i Prokuratury, w post´powaniu kierowaç si´ zasadami godnoÊci i uczciwoÊci, dbaç o dobre imi´ Krajowej Szko∏y Sàdownictwa i Prokuratury oraz dochowaç tajemnicy paƒstwowej, s∏u˝bowej i zawodowej”; sk∏adajàcy Êlubowanie mo˝e dodaç zwrot: „Tak mi dopomó˝ Bóg”.
+**Art. 30.** Przed objęciem obowiązków aplikant aplikacji sędziowskiej albo prokuratorskiej składa ślubowanie wobec Dyrektora Krajowej Szkoły według następującej roty: ŃÂlubuję uroczyście sumiennie wypełniać obowiązki aplikanta Krajowej Szkoły Sądownictwa i Prokuratury, w postępowaniu kierować się zasadami godności i uczciwości, dbać o dobre imię Krajowej Szkoły Sądownictwa i Prokuratury oraz dochować tajemnicy państwowej, służbowej i zawodowej”; składający ślubowanie może dodać zwrot: ŃTak mi dopomóż Bóg”.
 
 **Art. 31.**
 
-1. Aplikacja s´dziowska trwa 54 miesiàce i rozpoczyna si´ nie póêniej ni˝ w terminie 2 miesi´cy od dnia og∏oszenia listy, októrej mowa wart. 29 ust. 3.
+1. Aplikacja sędziowska trwa 54 miesiące i rozpoczyna się nie póêniej niż w terminie 2 miesięcy od dnia ogłoszenia listy, októrej mowa wart. 29 ust. 3.
 
-2. Wramach aplikacji s´dziowskiej aplikanci odbywajà wokresie 30 miesi´cy zaj´cia wKrajowej Szkole ipraktyki zgodnie zprogramem aplikacji oraz wokresie kolejnych 24 miesi´cy sta˝ na stanowiskach: asystenta s´dziego, a nast´pnie referendarza sàdowego, zgodnie z programem aplikacji. Przepisy art. 25 ust.3—5 oraz art. ust. 1 i4 stosuje si´ odpowiednio.
+2. Wramach aplikacji sędziowskiej aplikanci odbywają wokresie 30 miesięcy zajęcia wKrajowej Szkole ipraktyki zgodnie zprogramem aplikacji oraz wokresie kolejnych 24 miesięcy staż na stanowiskach: asystenta sędziego, a następnie referendarza sądowego, zgodnie z programem aplikacji. Przepisy art. 25 ust.3—5 oraz art. ust. 1 i4 stosuje się odpowiednio.
 
-3. W okresie sta˝u aplikant aplikacji s´dziowskiej zostaje zatrudniony na stanowisku asystenta s´dziego na podstawie umowy oprac´ na czas okreÊlony, anast´pnie na stanowisku referendarza sàdowego na czas nieokreÊlony.
+3. W okresie stażu aplikant aplikacji sędziowskiej zostaje zatrudniony na stanowisku asystenta sędziego na podstawie umowy opracę na czas określony, anastępnie na stanowisku referendarza sądowego na czas nieokreślony.
 
 **Art. 32.**
 
-1. W trzydziestym miesiàcu aplikacji s´dziowskiej aplikanci przyst´pujà do egzaminu s´dziowskiego.
+1. W trzydziestym miesiącu aplikacji sędziowskiej aplikanci przystępują do egzaminu sędziowskiego.
 
-2. Warunkiem przystàpienia do egzaminu s´dziowskiego jest uzyskanie pozytywnych ocen ze wszystkich sprawdzianów i praktyk, obj´tych programem aplikacji.
+2. Warunkiem przystąpienia do egzaminu sędziowskiego jest uzyskanie pozytywnych ocen ze wszystkich sprawdzianów i praktyk, objętych programem aplikacji.
 
 **Art. 33.**
 
-1. Egzamin s´dziowski sk∏ada si´ z cz´Êci pisemnej iustnej.
+1. Egzamin sędziowski składa się z części pisemnej iustnej.
 
-2. Zadania praktyczne na cz´Êç pisemnà oraz kazusy na cz´Êç ustnà egzaminu s´dziowskiego opracowuje zespó∏ egzaminacyjny powo∏any przez Ministra SprawiedliwoÊci na wniosek Dyrektora Krajowej Szko∏y zaopiniowany przez Rad´.
+2. Zadania praktyczne na część pisemną oraz kazusy na część ustną egzaminu sędziowskiego opracowuje zespół egzaminacyjny powołany przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowej Szkoły zaopiniowany przez Radę.
 
-3. Wsk∏ad zespo∏u egzaminacyjnego wchodzi:
+3. Wskład zespołu egzaminacyjnego wchodzi:
 
-- **1)** 7 s´dziów co najmniej sàdu okr´gowego, specjalistów z poszczególnych dziedzin prawa obj´tych z podaniem liczby porzàdkowej wskazujàcej miejsce kandydata na danej liÊcie.
+- **1)** 7 sędziów co najmniej sądu okręgowego, specjalistów z poszczególnych dziedzin prawa objętych z podaniem liczby porządkowej wskazującej miejsce kandydata na danej liście.
 
-4. Od decyzji, októrej mowa wust. 1, przys∏uguje odwo∏anie do Ministra SprawiedliwoÊci, w terminie 14 dni od dnia jej dor´czenia. Rozpoznanie odwo∏ania nast´puje wterminie 14 dni od dnia jego wniesienia. zakresem egzaminu, wybranych przez Ministra SprawiedliwoÊci spoÊród kandydatów zg∏oszonych przez prezesów sàdów apelacyjnych;
+4. Od decyzji, októrej mowa wust. 1, przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia. Rozpoznanie odwołania następuje wterminie 14 dni od dnia jego wniesienia. zakresem egzaminu, wybranych przez Ministra Sprawiedliwości spośród kandydatów zgłoszonych przez prezesów sądów apelacyjnych;
 
-- **2)** jeden s´dzia co najmniej sàdu okr´gowego, wyk∏adowca Krajowej Szko∏y, specjalista z dziedzin prawa obj´tych zakresem egzaminu, wskazany przez Dyrektora Krajowej Szko∏y.
+- **2)** jeden sędzia co najmniej sądu okręgowego, wykładowca Krajowej Szkoły, specjalista z dziedzin prawa objętych zakresem egzaminu, wskazany przez Dyrektora Krajowej Szkoły.
 
-4. Przewodniczàcy zespo∏u egzaminacyjnego kieruje jego pracami.
+4. Przewodniczący zespołu egzaminacyjnego kieruje jego pracami.
 
-5. Egzamin s´dziowski przeprowadza komisja egzaminacyjna powo∏ana przez Ministra SprawiedliwoÊci na wniosek Dyrektora Krajowej Szko∏y zaopiniowany przez Rad´.
+5. Egzamin sędziowski przeprowadza komisja egzaminacyjna powołana przez Ministra Sprawiedliwości na wniosek Dyrektora Krajowej Szkoły zaopiniowany przez Radę.
 
-6. Komisja egzaminacyjna sk∏ada si´ z:
+6. Komisja egzaminacyjna składa się z:
 
-- **1)** przewodniczàcego, którym jest s´dzia;
-- **2)** sekretarza, wskazanego przez Dyrektora Krajowej Szko∏y spoÊród s´dziów delegowanych do Krajowej Szko∏y;
-- **3)** 7 s´dziów co najmniej sàdu okr´gowego, specjalistów z poszczególnych dziedzin prawa obj´tych zakresem egzaminu, wybranych przez Ministra SprawiedliwoÊci spoÊród kandydatów zg∏oszonych przez prezesów sàdów apelacyjnych;
-- **4)** jednego s´dziego co najmniej sàdu okr´gowego, wyk∏adowcy Krajowej Szko∏y, specjalisty z dziedzin prawa obj´tych zakresem egzaminu, wskazanego przez Dyrektora Krajowej Szko∏y;
-- **5)** przedstawiciela Krajowej Rady Sàdownictwa.
+- **1)** przewodniczącego, którym jest sędzia;
+- **2)** sekretarza, wskazanego przez Dyrektora Krajowej Szkoły spośród sędziów delegowanych do Krajowej Szkoły;
+- **3)** 7 sędziów co najmniej sądu okręgowego, specjalistów z poszczególnych dziedzin prawa objętych zakresem egzaminu, wybranych przez Ministra Sprawiedliwości spośród kandydatów zgłoszonych przez prezesów sądów apelacyjnych;
+- **4)** jednego sędziego co najmniej sądu okręgowego, wykładowcy Krajowej Szkoły, specjalisty z dziedzin prawa objętych zakresem egzaminu, wskazanego przez Dyrektora Krajowej Szkoły;
+- **5)** przedstawiciela Krajowej Rady Sądownictwa.
 
-7. Cz∏onkiem komisji egzaminacyjnej nie mo˝e byç cz∏onek zespo∏u egzaminacyjnego.
+7. Członkiem komisji egzaminacyjnej nie może być członek zespołu egzaminacyjnego.
 
-8. Przewodniczàcy komisji egzaminacyjnej kieruje jej pracami ireprezentuje jà na zewnàtrz.
+8. Przewodniczący komisji egzaminacyjnej kieruje jej pracami ireprezentuje ją na zewnątrz.
 
-9. Do cz∏onków zespo∏u egzaminacyjnego oraz cz∏onków komisji egzaminacyjnej stosuje si´ odpowiednio przepisy art. 17 ust. 7—10.
+9. Do członków zespołu egzaminacyjnego oraz członków komisji egzaminacyjnej stosuje się odpowiednio przepisy art. 17 ust. 7—10.
 
 **Art. 34.**
 
-1. Dyrektor Krajowej Szko∏y mo˝e udzieliç aplikantowi zezwolenia na przystàpienie do egzaminu s´dziowskiego wterminie póêniejszym, je˝eli uzna, ˝e choroba, wypadek losowy lub inna wskazana iudokumentowana przez aplikanta przyczyna uniemo˝liwiajà przystàpienie do egzaminu w terminie, o którym mowa wart. 32 ust. 1.
+1. Dyrektor Krajowej Szkoły może udzielić aplikantowi zezwolenia na przystąpienie do egzaminu sędziowskiego wterminie póêniejszym, jeżeli uzna, że choroba, wypadek losowy lub inna wskazana iudokumentowana przez aplikanta przyczyna uniemożliwiają przystąpienie do egzaminu w terminie, o którym mowa wart. 32 ust. 1.
 
-2. Wniosek ozezwolenie, októrym mowa wust. 1, sk∏ada si´ w terminie miesiàca od dnia ustania przyczyny uzasadniajàcej nieprzystàpienie do egzaminu s´dziowskiego.
+2. Wniosek ozezwolenie, októrym mowa wust. 1, składa się w terminie miesiąca od dnia ustania przyczyny uzasadniającej nieprzystąpienie do egzaminu sędziowskiego.
 
-3. Aplikant, który nie przystàpi∏ do egzaminu s´dziowskiego w wyznaczonym terminie i nie uzyska∏ zezwolenia, o którym mowa w ust. 1, odstàpi∏ bez usprawiedliwienia od egzaminu w czasie jego trwania, atak˝e aplikant, który nie zda∏ egzaminu s´dziowskiego, mogà przystàpiç ponownie do egzaminu tylko raz, nie póêniej jednak ni˝ w terminie 18 miesi´cy od
+3. Aplikant, który nie przystąpił do egzaminu sędziowskiego w wyznaczonym terminie i nie uzyskał zezwolenia, o którym mowa w ust. 1, odstąpił bez usprawiedliwienia od egzaminu w czasie jego trwania, atakże aplikant, który nie zdał egzaminu sędziowskiego, mogą przystąpić ponownie do egzaminu tylko raz, nie póêniej jednak niż w terminie 18 miesięcy od
 
 **Art. 35.**
 
-1. W terminie 30 dni od dnia z∏o˝enia egzaminu s´dziowskiego z wynikiem pozytywnym, Dyrektor Krajowej Szko∏y kieruje aplikanta do odbycia sta˝u, kolejno na stanowisku asystenta s´dziego i referendarza sàdowego. Przepisy art. 34 ust. 1—3 stosuje si´ odpowiednio.
+1. W terminie 30 dni od dnia złożenia egzaminu sędziowskiego z wynikiem pozytywnym, Dyrektor Krajowej Szkoły kieruje aplikanta do odbycia stażu, kolejno na stanowisku asystenta sędziego i referendarza sądowego. Przepisy art. 34 ust. 1—3 stosuje się odpowiednio.
 
-2. Wterminie 14 dni od dnia zakoƒczenia sta˝u Dyrektor Krajowej Szko∏y wydaje aplikantowi dyplom ukoƒczenia aplikacji s´dziowskiej.
+2. Wterminie 14 dni od dnia zakończenia stażu Dyrektor Krajowej Szkoły wydaje aplikantowi dyplom ukończenia aplikacji sędziowskiej.
 
 **Art. 36.**
 
-1. Aplikacja prokuratorska trwa 30 miesi´cy i rozpoczyna si´ nie póêniej ni˝ w terminie 2 miesi´cy od dnia og∏oszenia listy, októrej mowa wart. 29 ust. 3.
+1. Aplikacja prokuratorska trwa 30 miesięcy i rozpoczyna się nie póêniej niż w terminie 2 miesięcy od dnia ogłoszenia listy, októrej mowa wart. 29 ust. 3.
 
-2. Wramach aplikacji prokuratorskiej aplikanci odbywajà zaj´cia w Krajowej Szkole i praktyki zgodnie z programem aplikacji. Przepisy art. 25 ust. 3—5 oraz art. ust. 1 i4 stosuje si´ odpowiednio.
+2. Wramach aplikacji prokuratorskiej aplikanci odbywają zajęcia w Krajowej Szkole i praktyki zgodnie z programem aplikacji. Przepisy art. 25 ust. 3—5 oraz art. ust. 1 i4 stosuje się odpowiednio.
 
-3. W ostatnim miesiàcu aplikacji prokuratorskiej aplikanci przyst´pujà do egzaminu prokuratorskiego. Do egzaminu prokuratorskiego stosuje si´ odpowiednio przepisy art. 32 ust. 2, art. 33 ust. 1, 2, 4, 5, 7—9 oraz art. 34.
+3. W ostatnim miesiącu aplikacji prokuratorskiej aplikanci przystępują do egzaminu prokuratorskiego. Do egzaminu prokuratorskiego stosuje się odpowiednio przepisy art. 32 ust. 2, art. 33 ust. 1, 2, 4, 5, 7—9 oraz art. 34.
 
-4. W sk∏ad zespo∏u egzaminacyjnego opracowujàcego zadania praktyczne na cz´Êç pisemnà oraz kazusy na cz´Êç ustnà egzaminu prokuratorskiego wchodzi:
+4. W skład zespołu egzaminacyjnego opracowującego zadania praktyczne na część pisemną oraz kazusy na część ustną egzaminu prokuratorskiego wchodzi:
 
-- **1)** 6 prokuratorów co najmniej prokuratury okr´gowej, specjalistów z poszczególnych dziedzin prawa inauk pokrewnych obj´tych zakresem egzaminu, wybranych przez Ministra SprawiedliwoÊci spoÊród kandydatów zg∏oszonych przez prokuratorów apelacyjnych;
-- **2)** jeden prokurator co najmniej prokuratury okr´gowej, wyk∏adowca Krajowej Szko∏y, specjalista z dziedzin prawa i nauk pokrewnych obj´tych zakresem egzaminu, wskazany przez Dyrektora Krajowej Szko∏y.
+- **1)** 6 prokuratorów co najmniej prokuratury okręgowej, specjalistów z poszczególnych dziedzin prawa inauk pokrewnych objętych zakresem egzaminu, wybranych przez Ministra Sprawiedliwości spośród kandydatów zgłoszonych przez prokuratorów apelacyjnych;
+- **2)** jeden prokurator co najmniej prokuratury okręgowej, wykładowca Krajowej Szkoły, specjalista z dziedzin prawa i nauk pokrewnych objętych zakresem egzaminu, wskazany przez Dyrektora Krajowej Szkoły.
 
-5. Komisja egzaminacyjna, powo∏ana przez Ministra SprawiedliwoÊci Prokuratora Generalnego do przeprowadzenia egzaminu prokuratorskiego, sk∏ada si´ z:
+5. Komisja egzaminacyjna, powołana przez Ministra Sprawiedliwości Prokuratora Generalnego do przeprowadzenia egzaminu prokuratorskiego, składa się z:
 
-- **1)** przewodniczàcego, którym jest prokurator;
-- **2)** sekretarza, wskazanego przez Dyrektora Krajowej Szko∏y spoÊród prokuratorów delegowanych do Krajowej Szko∏y;
-- **3)** 6 prokuratorów co najmniej prokuratury okr´gowej, specjalistów z poszczególnych dziedzin prawa inauk pokrewnych obj´tych zakresem egzaminu, wybranych przez Ministra SprawiedliwoÊci spoÊród kandydatów zg∏oszonych przez prokuratorów apelacyjnych; dnia zakoƒczenia poprzedniego egzaminu. 4) jednego prokuratora co najmniej prokuratury okr´gowej, wyk∏adowcy Krajowej Szko∏y, specjali4. Ponowny egzamin s´dziowski przeprowadza sty z poszczególnych dziedzin prawa i nauk pokomisja egzaminacyjna w terminie wyznaczonym krewnych obj´tych zakresem egzaminu, wskazanego przez Dyrektora Krajowej Szko∏y; przez Ministra SprawiedliwoÊci, uzgodnionym z Dyrektorem Krajowej Szko∏y. Przepisy ust. 1 i 2 oraz art.32 ust. 2 iart. 33 stosuje si´ odpowiednio.
+- **1)** przewodniczącego, którym jest prokurator;
+- **2)** sekretarza, wskazanego przez Dyrektora Krajowej Szkoły spośród prokuratorów delegowanych do Krajowej Szkoły;
+- **3)** 6 prokuratorów co najmniej prokuratury okręgowej, specjalistów z poszczególnych dziedzin prawa inauk pokrewnych objętych zakresem egzaminu, wybranych przez Ministra Sprawiedliwości spośród kandydatów zgłoszonych przez prokuratorów apelacyjnych; dnia zakończenia poprzedniego egzaminu. 4) jednego prokuratora co najmniej prokuratury okręgowej, wykładowcy Krajowej Szkoły, specjali4. Ponowny egzamin sędziowski przeprowadza sty z poszczególnych dziedzin prawa i nauk pokomisja egzaminacyjna w terminie wyznaczonym krewnych objętych zakresem egzaminu, wskazanego przez Dyrektora Krajowej Szkoły; przez Ministra Sprawiedliwości, uzgodnionym z Dyrektorem Krajowej Szkoły. Przepisy ust. 1 i 2 oraz art.32 ust. 2 iart. 33 stosuje się odpowiednio.
 - **5)** przedstawiciela Rady Prokuratorów przy Prokuratorze Generalnym.
 
-6. Dyrektor Krajowej Szko∏y, w terminie 14 dni od dnia zakoƒczenia egzaminu prokuratorskiego, sporzàdza i przekazuje Ministrowi SprawiedliwoÊci list´ klasyfikacyjnà egzaminowanych aplikantów aplikacji prokuratorskiej, zwanà dalej „listà egzaminowanych aplikantów”. Warunkiem umieszczenia na tej liÊcie jest z∏o˝enie egzaminu prokuratorskiego z wynikiem pozytywnym. Lista ta zawiera imiona inazwiska egzaminowanych aplikantów z podaniem liczby punktów uzyskanych na egzaminie przez ka˝dego aplikanta oraz liczby porzàdkowej wskazujàcej jego miejsce na liÊcie.
+6. Dyrektor Krajowej Szkoły, w terminie 14 dni od dnia zakończenia egzaminu prokuratorskiego, sporządza i przekazuje Ministrowi Sprawiedliwości listę klasyfikacyjną egzaminowanych aplikantów aplikacji prokuratorskiej, zwaną dalej Ńlistą egzaminowanych aplikantów”. Warunkiem umieszczenia na tej liście jest złożenie egzaminu prokuratorskiego z wynikiem pozytywnym. Lista ta zawiera imiona inazwiska egzaminowanych aplikantów z podaniem liczby punktów uzyskanych na egzaminie przez każdego aplikanta oraz liczby porządkowej wskazującej jego miejsce na liście.
 
-7. O kolejnoÊci miejsca na liÊcie, o której mowa w ust. 6, decyduje suma punktów uzyskanych przez aplikanta z egzaminu prokuratorskiego. W przypadku równej liczby punktów uzyskanych przez dwóch lub wi´kszà liczb´ aplikantów okolejnoÊci miejsca na tej liÊcie decyduje suma punktów uzyskanych przez aplikanta ze wszystkich praktyk i sprawdzianów w czasie aplikacji. Przepis art. 18 ust. 2 stosuje si´ odpowiednio.
+7. O kolejności miejsca na liście, o której mowa w ust. 6, decyduje suma punktów uzyskanych przez aplikanta z egzaminu prokuratorskiego. W przypadku równej liczby punktów uzyskanych przez dwóch lub większą liczbę aplikantów okolejności miejsca na tej liście decyduje suma punktów uzyskanych przez aplikanta ze wszystkich praktyk i sprawdzianów w czasie aplikacji. Przepis art. 18 ust. 2 stosuje się odpowiednio.
 
-8. Minister SprawiedliwoÊci przedstawia egzaminowanemu aplikantowi propozycj´ pracy na stanowisku asesora powszechnej jednostki organizacyjnej prokuratury lub wojskowej jednostki organizacyjnej prokuratury wed∏ug kolejnoÊci miejsca zajmowanego na liÊcie egzaminowanych aplikantów.
+8. Minister Sprawiedliwości przedstawia egzaminowanemu aplikantowi propozycję pracy na stanowisku asesora powszechnej jednostki organizacyjnej prokuratury lub wojskowej jednostki organizacyjnej prokuratury według kolejności miejsca zajmowanego na liście egzaminowanych aplikantów.
 
-9. Minister Obrony Narodowej w porozumieniu zMinistrem SprawiedliwoÊci okreÊla, wdrodze zarzàdzenia, corocznie liczb´ stanowisk asesorów wojskowych jednostek organizacyjnych prokuratury, przewidzianych dla egzaminowanych aplikantów, uwzgl´dniajàc potrzeby Si∏ Zbrojnych Rzeczypospolitej Polskiej.
+9. Minister Obrony Narodowej w porozumieniu zMinistrem Sprawiedliwości określa, wdrodze zarządzenia, corocznie liczbę stanowisk asesorów wojskowych jednostek organizacyjnych prokuratury, przewidzianych dla egzaminowanych aplikantów, uwzględniając potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 **Art. 37.**
 
-1. Cz∏onkom zespo∏u konkursowego i zespo∏u egzaminacyjnego oraz komisji konkursowej ikomisji egzaminacyjnej za udzia∏ wpracach przys∏uguje wynagrodzenie.
+1. Członkom zespołu konkursowego i zespołu egzaminacyjnego oraz komisji konkursowej ikomisji egzaminacyjnej za udział wpracach przysługuje wynagrodzenie.
 
-2. Minister SprawiedliwoÊci okreÊli, wdrodze rozporzàdzenia, wysokoÊç wynagrodzenia cz∏onków zespo∏u konkursowego izespo∏u egzaminacyjnego oraz komisji konkursowej i komisji egzaminacyjnej, w wymiarze nie wi´kszym ni˝ miesi´czne wynagrodzenie zasadnicze s´dziego sàdu okr´gowego w pierwszej stawce awansowej uwzgl´dniajàc zakres i rodzaj obowiàzków oraz nak∏ad pracy. Rozdzia∏ 4 Prawa iobowiàzki aplikantów
+2. Minister Sprawiedliwości określi, wdrodze rozporządzenia, wysokość wynagrodzenia członków zespołu konkursowego izespołu egzaminacyjnego oraz komisji konkursowej i komisji egzaminacyjnej, w wymiarze nie większym niż miesięczne wynagrodzenie zasadnicze sędziego sądu okręgowego w pierwszej stawce awansowej uwzględniając zakres i rodzaj obowiązków oraz nakład pracy.
 
-**Art. 38.** Aplikant jest uprawniony do bezp∏atnego korzystania z bazy dydaktycznej i informatycznej oraz wyposa˝enia i sprz´tu Krajowej Szko∏y w celu pog∏´biania wiedzy idoskonalenia swoich umiej´tnoÊci, na warunkach okreÊlonych przez Dyrektora Krajowej Szko∏y.
+#### Rozdział 4 Prawa iobowiązki aplikantów
 
-**Art. 39.** Do obowiàzków aplikanta nale˝y:
+**Art. 38.** Aplikant jest uprawniony do bezpłatnego korzystania z bazy dydaktycznej i informatycznej oraz wyposażenia i sprzętu Krajowej Szkoły w celu pogłębiania wiedzy idoskonalenia swoich umiejętności, na warunkach określonych przez Dyrektora Krajowej Szkoły.
+
+**Art. 39.** Do obowiązków aplikanta należy:
 
 **Art. 40.**
 
-1. Dyrektor Krajowej Szko∏y, wdrodze decyzji, zawiesza aplikanta w jego prawach i obowiàzkach, je˝eli:
+1. Dyrektor Krajowej Szkoły, wdrodze decyzji, zawiesza aplikanta w jego prawach i obowiązkach, jeżeli:
 
-- **1)** prowadzone jest przeciwko aplikantowi post´powanie opope∏nione umyÊlnie przest´pstwo Êcigane z oskar˝enia publicznego lub pope∏nione umyÊlnie przest´pstwo skarbowe;
-- **2)** przy wszcz´ciu lub w toku post´powania o cz´Êciowe bàdê ca∏kowite ubezw∏asnowolnienie aplikanta sàd ustanowi∏ doradc´ tymczasowego.
+- **1)** prowadzone jest przeciwko aplikantowi postępowanie opopełnione umyślnie przestępstwo ścigane z oskarżenia publicznego lub popełnione umyślnie przestępstwo skarbowe;
+- **2)** przy wszczęciu lub w toku postępowania o częściowe bądê całkowite ubezwłasnowolnienie aplikanta sąd ustanowił doradcę tymczasowego.
 
-2. Dyrektor Krajowej Szko∏y, wdrodze decyzji, mo˝e zawiesiç aplikanta w jego prawach i obowiàzkach, je˝eli:
+2. Dyrektor Krajowej Szkoły, wdrodze decyzji, może zawiesić aplikanta w jego prawach i obowiązkach, jeżeli:
 
-- **1)** prowadzone jest przeciwko aplikantowi post´powanie o pope∏nione nieumyÊlnie przest´pstwo Êcigane z oskar˝enia publicznego lub pope∏nione nieumyÊlnie przest´pstwo skarbowe;
-- **2)** wniós∏ o to sam aplikant z powodu d∏ugotrwa∏ej choroby lub zinnych wa˝nych przyczyn.
+- **1)** prowadzone jest przeciwko aplikantowi postępowanie o popełnione nieumyślnie przestępstwo ścigane z oskarżenia publicznego lub popełnione nieumyślnie przestępstwo skarbowe;
+- **2)** wniósł o to sam aplikant z powodu długotrwałej choroby lub zinnych ważnych przyczyn.
 
-3. Wokresie zawieszenia nie wyp∏aca si´ przyznanego aplikantowi stypendium.
+3. Wokresie zawieszenia nie wypłaca się przyznanego aplikantowi stypendium.
 
-4. Dyrektor Krajowej Szko∏y uchyla decyzj´ o zawieszeniu wprzypadku, októrym mowa w:
+4. Dyrektor Krajowej Szkoły uchyla decyzję o zawieszeniu wprzypadku, októrym mowa w:
 
-- **1)** ust. 1 pkt 1 oraz wust. 2 pkt 1 je˝eli post´powanie zosta∏o umorzone lub zakoƒczy∏o si´ uniewinnieniem;
+- **1)** ust. 1 pkt 1 oraz wust. 2 pkt 1 jeżeli postępowanie zostało umorzone lub zakończyło się uniewinnieniem;
 - **2)** ust. 1 pkt 2 po ustaniu przyczyny zawieszenia;
 - **3)** ust. 2 pkt 2 na wniosek aplikanta.
 
-5. W przypadku, o którym mowa w ust. 4 pkt 1, aplikantowi wyp∏aca si´ wstrzymane stypendium.
+5. W przypadku, o którym mowa w ust. 4 pkt 1, aplikantowi wypłaca się wstrzymane stypendium.
 
-6. Od decyzji Dyrektora Krajowej Szko∏y o zawieszeniu, aplikantowi przys∏uguje odwo∏anie do Ministra SprawiedliwoÊci, w terminie 14 dni od dnia jej dor´czenia.
+6. Od decyzji Dyrektora Krajowej Szkoły o zawieszeniu, aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia jej doręczenia.
 
-7. Je˝eli od momentu zawieszenia nie up∏ynà∏ okres d∏u˝szy ni˝ 2 lata, po uchyleniu decyzji ozawieszeniu aplikant kontynuuje aplikacj´ od etapu, na którym zosta∏a ona przerwana, je˝eli umo˝liwia to program aplikacji. W pozosta∏ych przypadkach aplikant kontynuuje aplikacj´ na warunkach wyznaczonych przez Dyrektora Krajowej Szko∏y.
+7. Jeżeli od momentu zawieszenia nie upłynął okres dłuższy niż 2 lata, po uchyleniu decyzji ozawieszeniu aplikant kontynuuje aplikację od etapu, na którym została ona przerwana, jeżeli umożliwia to program aplikacji. W pozostałych przypadkach aplikant kontynuuje aplikację na warunkach wyznaczonych przez Dyrektora Krajowej Szkoły.
 
 **Art. 41.**
 
-1. Dyrektor Krajowej Szko∏y skreÊla aplikanta zlisty aplikantów, je˝eli aplikant:
+1. Dyrektor Krajowej Szkoły skreśla aplikanta zlisty aplikantów, jeżeli aplikant:
 
-- **1)** nie podjà∏ aplikacji wwyznaczonym terminie;
-- **2)** przesta∏ spe∏niaç wymagania okreÊlone w art. 22 praktycznych, obj´tych programem aplikacji; pkt 1 i2;
-- **3)** zosta∏ prawomocnie skazany za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe;
-- **4)** z∏o˝y∏ pisemne oÊwiadczenie o rezygnacji z odbywania aplikacji;
-- **5)** ra˝àco naruszy∏ obowiàzki aplikanta;
-- **6)** w sposób ra˝àcy uchybi∏ godnoÊci aplikanta lub jego zachowanie godzi w dobre imi´ Krajowej Szko∏y;
-- **7)** nie przystàpi∏ do egzaminu s´dziowskiego i nie z∏o˝y∏ wniosku o zezwolenie, o którym mowa wart. 34 ust. 2;
-- **8)** nie rozpoczà∏ lub przerwa∏ odbywanie sta˝u, októrym mowa wart. 31 ust. 2.
+- **1)** nie podjął aplikacji wwyznaczonym terminie;
+- **2)** przestał spełniać wymagania określone w art. 22 praktycznych, objętych programem aplikacji; pkt 1 i2;
+- **3)** został prawomocnie skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+- **4)** złożył pisemne oświadczenie o rezygnacji z odbywania aplikacji;
+- **5)** rażąco naruszył obowiązki aplikanta;
+- **6)** w sposób rażący uchybił godności aplikanta lub jego zachowanie godzi w dobre imię Krajowej Szkoły;
+- **7)** nie przystąpił do egzaminu sędziowskiego i nie złożył wniosku o zezwolenie, o którym mowa wart. 34 ust. 2;
+- **8)** nie rozpoczął lub przerwał odbywanie stażu, októrym mowa wart. 31 ust. 2.
 
-2. Dyrektor Krajowej Szko∏y mo˝e skreÊliç aplikanta zlisty aplikantów, je˝eli aplikant:
+2. Dyrektor Krajowej Szkoły może skreślić aplikanta zlisty aplikantów, jeżeli aplikant:
 
-- **1)** zosta∏ prawomocnie skazany za nieumyÊlne przest´pstwo lub nieumyÊlne przest´pstwo skarbowe;
-- **2)** opuÊci∏ z przyczyn nieusprawiedliwionych ponad 20 % zaj´ç lub praktyk obj´tych programem aplikacji wdanym roku szkoleniowym;
-- **3)** nie przystàpi∏ w wyznaczonym terminie, bez usprawiedliwienia, do co najmniej dwóch sprawdzianów przewidzianych wprogramie aplikacji lub sprawdzianów tych nie zaliczy∏;
-- **4)** zosta∏ dwukrotnie ukarany karà nagany.
+- **1)** został prawomocnie skazany za nieumyślne przestępstwo lub nieumyślne przestępstwo skarbowe;
+- **2)** opuścił z przyczyn nieusprawiedliwionych ponad 20 % zajęć lub praktyk objętych programem aplikacji wdanym roku szkoleniowym;
+- **3)** nie przystąpił w wyznaczonym terminie, bez usprawiedliwienia, do co najmniej dwóch sprawdzianów przewidzianych wprogramie aplikacji lub sprawdzianów tych nie zaliczył;
+- **4)** został dwukrotnie ukarany karą nagany.
 
-3. Dyrektor Krajowej Szko∏y przed podj´ciem decyzji o skreÊleniu aplikanta z listy aplikantów umo˝liwia aplikantowi z∏o˝enie wyjaÊnieƒ.
+3. Dyrektor Krajowej Szkoły przed podjęciem decyzji o skreśleniu aplikanta z listy aplikantów umożliwia aplikantowi złożenie wyjaśnień.
 
-4. Od decyzji, októrej mowa wust. 3, aplikantowi przys∏uguje odwo∏anie do Ministra SprawiedliwoÊci, wterminie 14 dni od dnia jej dor´czenia. Rozpoznanie odwo∏ania nast´puje w terminie 14 dni od dnia jego wniesienia.
+4. Od decyzji, októrej mowa wust. 3, aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, wterminie 14 dni od dnia jej doręczenia. Rozpoznanie odwołania następuje w terminie 14 dni od dnia jego wniesienia.
 
-5. Od decyzji Ministra SprawiedliwoÊci, o której mowa wust. 4, przys∏uguje skarga do wojewódzkiego sàdu administracyjnego, w terminie 14 dni od dnia dor´czenia tej decyzji.
+5. Od decyzji Ministra Sprawiedliwości, o której mowa wust. 4, przysługuje skarga do wojewódzkiego sądu administracyjnego, w terminie 14 dni od dnia doręczenia tej decyzji.
 
 **Art. 42.**
 
-1. Dyrektor Krajowej Szko∏y przyznaje aplikantowi, na jego wniosek, stypendium na czas aplikacji ogólnej, aplikacji s´dziowskiej oraz aplikacji prokuratorskiej, z wy∏àczeniem okresu sta˝u, o którym mowa wart. 31 ust. 2.
+1. Dyrektor Krajowej Szkoły przyznaje aplikantowi, na jego wniosek, stypendium na czas aplikacji ogólnej, aplikacji sędziowskiej oraz aplikacji prokuratorskiej, z wyłączeniem okresu stażu, o którym mowa wart. 31 ust. 2.
 
-2. WysokoÊç stypendium aplikanta aplikacji ogólnej nie mo˝e przekroczyç 70 % wysokoÊci wynagrodzenia zasadniczego w stawce podstawowej referendarza sàdowego.
+2. Wysokość stypendium aplikanta aplikacji ogólnej nie może przekroczyć 70 % wysokości wynagrodzenia zasadniczego w stawce podstawowej referendarza sądowego.
 
-3. WysokoÊç stypendium aplikanta s´dziowskiego i aplikanta prokuratorskiego odpowiada wysokoÊci wynagrodzenia zasadniczego w stawce podstawowej referendarza sàdowego.
+3. Wysokość stypendium aplikanta sędziowskiego i aplikanta prokuratorskiego odpowiada wysokości wynagrodzenia zasadniczego w stawce podstawowej referendarza sądowego.
 
-4. Aplikant aplikacji ogólnej, który ubiega si´ o kontynuowanie szkolenia na aplikacji s´dziowskiej lub prokuratorskiej, zachowuje prawo do pobierania przys∏ugujàcego mu stypendium do koƒca miesiàca nast´pujàcego po miesiàcu, w którym zakoƒczy∏ apliArt. 43. Stypendium nie przys∏uguje za dni nieusprawiedliwionej nieobecnoÊci aplikanta na zaj´ciach lub praktykach, przy czym za dzieƒ nieobecnoÊci uwa˝a si´ tak˝e nieobecnoÊç na 6 godzinach zaj´ç w poszczególnych dniach, w okresie miesiàca kalendarzowego.
+4. Aplikant aplikacji ogólnej, który ubiega się o kontynuowanie szkolenia na aplikacji sędziowskiej lub prokuratorskiej, zachowuje prawo do pobierania przysługującego mu stypendium do końca miesiąca następującego po miesiącu, w którym zakończył apliArt. 43. Stypendium nie przysługuje za dni nieusprawiedliwionej nieobecności aplikanta na zajęciach lub praktykach, przy czym za dzień nieobecności uważa się także nieobecność na 6 godzinach zajęć w poszczególnych dniach, w okresie miesiąca kalendarzowego.
 
 **Art. 44.**
 
-1. Aplikant, który pobiera∏ stypendium w okresie aplikacji s´dziowskiej jest obowiàzany do jego zwrotu, je˝eli:
+1. Aplikant, który pobierał stypendium w okresie aplikacji sędziowskiej jest obowiązany do jego zwrotu, jeżeli:
 
-- **1)** zosta∏ skreÊlony zlisty aplikantów;
-- **2)** w terminie 3 lat od dnia ukoƒczenia aplikacji nie podjà∏ zatrudnienia na stanowisku s´dziego, referendarza sàdowego, asystenta s´dziego lub asystenta prokuratora albo zrzek∏ si´ stanowiska s´dziego;
-- **3)** w terminie nie d∏u˝szym ni˝ 3 lata od dnia ukoƒczenia aplikacji po podj´ciu zatrudnienia na stanowisku, októrym mowa wpkt 2, rozwiàza∏ stosunek pracy albo rozwiàzano z nim stosunek pracy bez wypowiedzenia zjego winy.
+- **1)** został skreślony zlisty aplikantów;
+- **2)** w terminie 3 lat od dnia ukończenia aplikacji nie podjął zatrudnienia na stanowisku sędziego, referendarza sądowego, asystenta sędziego lub asystenta prokuratora albo zrzekł się stanowiska sędziego;
+- **3)** w terminie nie dłuższym niż 3 lata od dnia ukończenia aplikacji po podjęciu zatrudnienia na stanowisku, októrym mowa wpkt 2, rozwiązał stosunek pracy albo rozwiązano z nim stosunek pracy bez wypowiedzenia zjego winy.
 
-2. Aplikant, który pobiera∏ stypendium w okresie aplikacji prokuratorskiej jest obowiàzany do jego zwrotu, je˝eli:
+2. Aplikant, który pobierał stypendium w okresie aplikacji prokuratorskiej jest obowiązany do jego zwrotu, jeżeli:
 
-- **1)** zosta∏ skreÊlony zlisty aplikantów;
-- **2)** odmówi∏ podj´cia zatrudnienia na stanowisku asesora prokuratury zaproponowanym przez Ministra SprawiedliwoÊci, wed∏ug kolejnoÊci miejsca zajmowanego na liÊcie egzaminowanych aplikantów;
-- **3)** w terminie 3 lat od dnia ukoƒczenia aplikacji nie podjà∏ zatrudnienia na stanowisku referendarza sàdowego, asystenta s´dziego lub asystenta prokuratora;
-- **4)** w terminie nie d∏u˝szym ni˝ 3 lata od dnia ukoƒczenia aplikacji po podj´ciu zatrudnienia na stanowisku, o którym mowa w pkt 2 i 3, rozwiàza∏ stosunek pracy albo rozwiàzano z nim stosunek pracy bez wypowiedzenia zjego winy.
+- **1)** został skreślony zlisty aplikantów;
+- **2)** odmówił podjęcia zatrudnienia na stanowisku asesora prokuratury zaproponowanym przez Ministra Sprawiedliwości, według kolejności miejsca zajmowanego na liście egzaminowanych aplikantów;
+- **3)** w terminie 3 lat od dnia ukończenia aplikacji nie podjął zatrudnienia na stanowisku referendarza sądowego, asystenta sędziego lub asystenta prokuratora;
+- **4)** w terminie nie dłuższym niż 3 lata od dnia ukończenia aplikacji po podjęciu zatrudnienia na stanowisku, o którym mowa w pkt 2 i 3, rozwiązał stosunek pracy albo rozwiązano z nim stosunek pracy bez wypowiedzenia zjego winy.
 
-3. Stypendium podlega zwrotowi w wysokoÊci proporcjonalnej do czasu jego pobierania lub do okresu zatrudnienia na stanowisku, o którym mowa wust.1 pkt 2 oraz ust. 2 pkt 2 i3, wokresie krótszym kacj´ ogólnà. ni˝ 3 lata od dnia jego podj´cia.
+3. Stypendium podlega zwrotowi w wysokości proporcjonalnej do czasu jego pobierania lub do okresu zatrudnienia na stanowisku, o którym mowa wust.1 pkt 2 oraz ust. 2 pkt 2 i3, wokresie krótszym kację ogólną. niż 3 lata od dnia jego podjęcia.
 
-4. Aplikant nie ma obowiàzku zwrotu stypendium, wprzypadku:
+4. Aplikant nie ma obowiązku zwrotu stypendium, wprzypadku:
 
-- **1)** skreÊlenia z listy aplikantów z przyczyn zdrowotnych lub koniecznoÊci sprawowania przez aplikanta samotnie wychowujàcego dziecko opieki nad dzieckiem do lat dwóch lub dzieckiem szczególnej troski;
-- **2)** niepodj´cia zatrudnienia lub rezygnacji z zatrudnienia na stanowisku, o którym mowa w ust. 1 pkt2 oraz ust. 2 pkt 2 i3, zprzyczyn zdrowotnych;
-- **3)** niepodj´cia zatrudnienia lub rezygnacji z zatrudnienia na stanowisku, o którym mowa w ust. 1 pkt 2 oraz ust. 2 pkt 2 i 3, za zgodà Ministra SprawiedliwoÊci.
+- **1)** skreślenia z listy aplikantów z przyczyn zdrowotnych lub konieczności sprawowania przez aplikanta samotnie wychowującego dziecko opieki nad dzieckiem do lat dwóch lub dzieckiem szczególnej troski;
+- **2)** niepodjęcia zatrudnienia lub rezygnacji z zatrudnienia na stanowisku, o którym mowa w ust. 1 pkt2 oraz ust. 2 pkt 2 i3, zprzyczyn zdrowotnych;
+- **3)** niepodjęcia zatrudnienia lub rezygnacji z zatrudnienia na stanowisku, o którym mowa w ust. 1 pkt 2 oraz ust. 2 pkt 2 i 3, za zgodą Ministra Sprawiedliwości.
 
-5. Decyzj´ w sprawie zwrotu stypendium wydaje Dyrektor Krajowej Szko∏y.
+5. Decyzję w sprawie zwrotu stypendium wydaje Dyrektor Krajowej Szkoły.
 
-6. W∏aÊciwy prezes sàdu informuje Dyrektora Krajowej Szko∏y ookolicznoÊciach wymienionych wust.1 pkt 2 i3.
+6. Właściwy prezes sądu informuje Dyrektora Krajowej Szkoły ookolicznościach wymienionych wust.1 pkt 2 i3.
 
-7. W∏aÊciwy prokurator apelacyjny informuje Dyrektora Krajowej Szko∏y o okolicznoÊciach wymienionych wust. 2 pkt 4.
+7. Właściwy prokurator apelacyjny informuje Dyrektora Krajowej Szkoły o okolicznościach wymienionych wust. 2 pkt 4.
 
-8. Dyrektor Krajowej Szko∏y mo˝e, w szczególnie uzasadnionych przypadkach, umorzyç, w ca∏oÊci lub wcz´Êci, nale˝noÊç ztytu∏u zwrotu stypendium. Przed podj´ciem decyzji Dyrektor Krajowej Szko∏y zasi´ga opinii w∏aÊciwego prezesa sàdu albo w∏aÊciwego prokuratora apelacyjnego.
+8. Dyrektor Krajowej Szkoły może, w szczególnie uzasadnionych przypadkach, umorzyć, w całości lub wczęści, należność ztytułu zwrotu stypendium. Przed podjęciem decyzji Dyrektor Krajowej Szkoły zasięga opinii właściwego prezesa sądu albo właściwego prokuratora apelacyjnego.
 
-9. Od decyzji w sprawie zwrotu stypendium albo umorzenia nale˝noÊci z tytu∏u zwrotu stypendium przys∏uguje odwo∏anie do Ministra SprawiedliwoÊci, wterminie 14 dni od dnia jej dor´czenia. Rozpoznanie odwo∏ania nast´puje w terminie 14 dni od dnia jego wniesienia.
+9. Od decyzji w sprawie zwrotu stypendium albo umorzenia należności z tytułu zwrotu stypendium przysługuje odwołanie do Ministra Sprawiedliwości, wterminie 14 dni od dnia jej doręczenia. Rozpoznanie odwołania następuje w terminie 14 dni od dnia jego wniesienia.
 
-10. Od decyzji Ministra SprawiedliwoÊci, o której mowa wust. 9, przys∏uguje skarga do wojewódzkiego sàdu administracyjnego, w terminie 14 dni od dnia dor´czenia tej decyzji.
+10. Od decyzji Ministra Sprawiedliwości, o której mowa wust. 9, przysługuje skarga do wojewódzkiego sądu administracyjnego, w terminie 14 dni od dnia doręczenia tej decyzji.
 
-**Art. 45.** Wokresie sta˝u aplikant aplikacji s´dziowskiej otrzymuje wynagrodzenie za prac´ ustalone wwysokoÊci odpowiadajàcej wysokoÊci wynagrodzenia zasadniczego w stawce podstawowej referendarza sàdowego.
+**Art. 45.** Wokresie stażu aplikant aplikacji sędziowskiej otrzymuje wynagrodzenie za pracę ustalone wwysokości odpowiadającej wysokości wynagrodzenia zasadniczego w stawce podstawowej referendarza sądowego.
 
-**Art. 46.** Okres aplikacji wlicza si´ do okresów zatrudnienia, od których zale˝à uprawnienia pracownicze, pod warunkiem ukoƒczenia aplikacji.
+**Art. 46.** Okres aplikacji wlicza się do okresów zatrudnienia, od których zależą uprawnienia pracownicze, pod warunkiem ukończenia aplikacji.
 
 **Art. 47.**
 
-1. Aplikant nie mo˝e podejmowaç zatrudnienia lub zaj´cia, zwyjàtkiem zatrudnienia na stanowisku dydaktycznym, naukowo-dydaktycznym lub naukowym oraz zaj´cia o charakterze naukowym, dydaktycznym lub publicystycznym, je˝eli wykonywanie tego zatrudnienia lub zaj´cia nie przeszkadza wwykonywaniu obowiàzków aplikanta.
+1. Aplikant nie może podejmować zatrudnienia lub zajęcia, zwyjątkiem zatrudnienia na stanowisku dydaktycznym, naukowo-dydaktycznym lub naukowym oraz zajęcia o charakterze naukowym, dydaktycznym lub publicystycznym, jeżeli wykonywanie tego zatrudnienia lub zajęcia nie przeszkadza wwykonywaniu obowiązków aplikanta.
 
-2. Aplikant jest obowiàzany zawiadomiç Dyrektora Krajowej Szko∏y o zamiarze podj´cia zatrudnienia lub zaj´cia, októrych mowa wust. 1.
+2. Aplikant jest obowiązany zawiadomić Dyrektora Krajowej Szkoły o zamiarze podjęcia zatrudnienia lub zajęcia, októrych mowa wust. 1.
 
-3. Dyrektor Krajowej Szko∏y mo˝e wyraziç sprzeciw wobec zamiaru podj´cia przez aplikanta zatrudnienia lub zaj´cia, je˝eli uzna, ˝e b´dzie to przeszkadza∏o wwykonywaniu obowiàzków aplikanta.
+3. Dyrektor Krajowej Szkoły może wyrazić sprzeciw wobec zamiaru podjęcia przez aplikanta zatrudnienia lub zajęcia, jeżeli uzna, że będzie to przeszkadzało wwykonywaniu obowiązków aplikanta.
 
-4. Od sprzeciwu, októrym mowa wust. 3, przys∏uguje odwo∏anie do Ministra SprawiedliwoÊci, w terminie 14 dni od dnia dor´czenia sprzeciwu.
+4. Od sprzeciwu, októrym mowa wust. 3, przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 14 dni od dnia doręczenia sprzeciwu.
 
 **Art. 48.**
 
-1. Aplikant mo˝e braç udzia∏ wwykonywaniu w kraju lub za granicà zadaƒ naukowo-szkoleniowych oraz w sta˝ach nieobj´tych programem aplikacji, zlecanych przez Dyrektora Krajowej Szko∏y.
+1. Aplikant może brać udział wwykonywaniu w kraju lub za granicą zadań naukowo-szkoleniowych oraz w stażach nieobjętych programem aplikacji, zlecanych przez Dyrektora Krajowej Szkoły.
 
-2. Wprzypadku, októrym mowa wust. 1, aplikantowi przys∏uguje dieta oraz zwrot kosztów podró˝y i noclegów, na zasadach okreÊlonych odpowiednio w przepisach w sprawie wysokoÊci oraz warunków zatrudnionemu wpaƒstwowej lub samorzàdowej jednostce sfery bud˝etowej z tytu∏u podró˝y s∏u˝bowej na obszarze kraju albo poza granicami kraju.
+2. Wprzypadku, októrym mowa wust. 1, aplikantowi przysługuje dieta oraz zwrot kosztów podróży i noclegów, na zasadach określonych odpowiednio w przepisach w sprawie wysokości oraz warunków zatrudnionemu wpaństwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju albo poza granicami kraju.
 
 **Art. 49.**
 
-1. Dyrektor Krajowej Szko∏y powo∏uje patronów koordynatorów oraz patronów praktyk ista˝y, które odbywajà aplikanci zgodnie z programem, odpowiednio, aplikacji ogólnej, s´dziowskiej albo prokuratorskiej, odpowiednio spoÊród s´dziów iprokuratorów, za ich zgodà. Za sprawowanie patronatu przys∏uguje wynagrodzenie.
+1. Dyrektor Krajowej Szkoły powołuje patronów koordynatorów oraz patronów praktyk istaży, które odbywają aplikanci zgodnie z programem, odpowiednio, aplikacji ogólnej, sędziowskiej albo prokuratorskiej, odpowiednio spośród sędziów iprokuratorów, za ich zgodą. Za sprawowanie patronatu przysługuje wynagrodzenie.
 
-2. Minister SprawiedliwoÊci okreÊli, wdrodze rozporzàdzenia, szczegó∏owy tryb wyznaczania patronów koordynatorów oraz patronów praktyk i sta˝y, zakres ich obowiàzków oraz warunki sprawowania patronatu nad aplikantami, uwzgl´dniajàc zakres wiedzy teoretycznej i praktyki niezb´dny do zajmowania stanowiska s´dziego, prokuratora, asystenta s´dziego, referendarza sàdowego lub asystenta prokuratora, a tak˝e specyfik´ tych urz´dów.
+2. Minister Sprawiedliwości określi, wdrodze rozporządzenia, szczegółowy tryb wyznaczania patronów koordynatorów oraz patronów praktyk i staży, zakres ich obowiązków oraz warunki sprawowania patronatu nad aplikantami, uwzględniając zakres wiedzy teoretycznej i praktyki niezbędny do zajmowania stanowiska sędziego, prokuratora, asystenta sędziego, referendarza sądowego lub asystenta prokuratora, a także specyfikę tych urzędów.
 
-3. Minister SprawiedliwoÊci okreÊli, wdrodze rozporzàdzenia, wysokoÊç wynagrodzenia patronów koordynatorów oraz patronów poszczególnych praktyk ista˝y, wwymiarze nie wi´kszym ni˝ 50 % kwoty bazowej stanowiàcej podstaw´ wynagrodzenia zasadniczego s´dziów i prokuratorów, ustalonej w ustawie bud˝etowej na dany rok, uwzgl´dniajàc zakres i nak∏ad ich pracy.
+3. Minister Sprawiedliwości określi, wdrodze rozporządzenia, wysokość wynagrodzenia patronów koordynatorów oraz patronów poszczególnych praktyk istaży, wwymiarze nie większym niż 50 % kwoty bazowej stanowiącej podstawę wynagrodzenia zasadniczego sędziów i prokuratorów, ustalonej w ustawie budżetowej na dany rok, uwzględniając zakres i nakład ich pracy.
 
 **Art. 50.**
 
-1. Dyrektor Krajowej Szko∏y mo˝e przyznaç aplikantowi nagrod´ za szczególne osiàgni´cia lub zadania wykonywane na rzecz Krajowej Szko∏y poza jego obowiàzkami.
+1. Dyrektor Krajowej Szkoły może przyznać aplikantowi nagrodę za szczególne osiągnięcia lub zadania wykonywane na rzecz Krajowej Szkoły poza jego obowiązkami.
 
-2. Nagrodami sà:
+2. Nagrodami są:
 
-- **1)** nagroda pieni´˝na w wysokoÊci do 30 % kwoty przyznanego stypendium;
-- **2)** pochwa∏a pisemna udzielona przez Dyrektora Krajowej Szko∏y.
+- **1)** nagroda pieniężna w wysokości do 30 % kwoty przyznanego stypendium;
+- **2)** pochwała pisemna udzielona przez Dyrektora Krajowej Szkoły.
 
 3. Informacja onagrodzie zamieszczana jest waktach osobowych aplikanta.
 
 **Art. 51.**
 
-1. Dyrektor Krajowej Szko∏y mo˝e ukaraç aplikanta karà porzàdkowà za przewinienie polegajàce ustalania nale˝noÊci przys∏ugujàcych pracownikowi na naruszeniu obowiàzków lub uchybieniu godnoÊci aplikanta.
+1. Dyrektor Krajowej Szkoły może ukarać aplikanta karą porządkową za przewinienie polegające ustalania należności przysługujących pracownikowi na naruszeniu obowiązków lub uchybieniu godności aplikanta.
 
-2. Karami porzàdkowymi sà:
+2. Karami porządkowymi są:
 
 - **1)** upomnienie;
 - **2)** nagana.
 
-3. Nie mo˝na ukaraç aplikanta po up∏ywie 30 dni od dnia powzi´cia wiadomoÊci o przewinieniu lub 3miesi´cy od dnia jego pope∏nienia.
+3. Nie można ukarać aplikanta po upływie 30 dni od dnia powzięcia wiadomości o przewinieniu lub 3miesięcy od dnia jego popełnienia.
 
-4. Przed ukaraniem karà porzàdkowà aplikantowi umo˝liwia si´ z∏o˝enie wyjaÊnieƒ.
+4. Przed ukaraniem karą porządkową aplikantowi umożliwia się złożenie wyjaśnień.
 
-5. Od decyzji o ukaraniu aplikantowi przys∏uguje odwo∏anie do Ministra SprawiedliwoÊci, w terminie 7dni od dnia jej dor´czenia.
+5. Od decyzji o ukaraniu aplikantowi przysługuje odwołanie do Ministra Sprawiedliwości, w terminie 7dni od dnia jej doręczenia.
 
-6. Odpis prawomocnej decyzji oukaraniu karà porzàdkowà do∏àcza si´ do akt osobowych aplikanta.
+6. Odpis prawomocnej decyzji oukaraniu karą porządkową dołącza się do akt osobowych aplikanta.
 
-7. Po up∏ywie roku od uprawomocnienia si´ decyzji o ukaraniu karà porzàdkowà Dyrektor Krajowej Szko∏y zarzàdza usuni´cie odpisu decyzji zakt osobowych aplikanta, je˝eli w tym czasie nie ukarano aplikanta innà karà.
+7. Po upływie roku od uprawomocnienia się decyzji o ukaraniu karą porządkową Dyrektor Krajowej Szkoły zarządza usunięcie odpisu decyzji zakt osobowych aplikanta, jeżeli w tym czasie nie ukarano aplikanta inną karą.
 
-**Art. 52.** Minister SprawiedliwoÊci okreÊli, w drodze rozporzàdzenia:
+**Art. 52.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
-**Art. 53.** Wyk∏adowcami Krajowej Szko∏y mogà byç s´dziowie, prokuratorzy i nauczyciele akademiccy oraz inne osoby posiadajàce specjalistycznà wiedz´ z okreÊlonej dziedziny, a tak˝e s´dziowie i prokuratorzy wstanie spoczynku. ).
+#### Rozdział 5 Wykładowcy ipracownicy Krajowej Szkoły
+
+**Art. 53.** Wykładowcami Krajowej Szkoły mogą być sędziowie, prokuratorzy i nauczyciele akademiccy oraz inne osoby posiadające specjalistyczną wiedzę z określonej dziedziny, a także sędziowie i prokuratorzy wstanie spoczynku. ).
 
 **Art. 55.**
 
-1. Minister SprawiedliwoÊci, wporozumieniu z ministrem w∏aÊciwym do spraw pracy, okreÊli, w drodze rozporzàdzenia, warunki wynagradzania za prac´ dla pracowników, októrych mowa wart. 54, i przyznawania im innych Êwiadczeƒ zwiàzanych zpracà.
+1. Minister Sprawiedliwości, wporozumieniu z ministrem właściwym do spraw pracy, określi, w drodze rozporządzenia, warunki wynagradzania za pracę dla pracowników, októrych mowa wart. 54, i przyznawania im innych świadczeń związanych zpracą.
 
-2. Rozporzàdzenie, o którym mowa w ust. 1, powinno wszczególnoÊci okreÊlaç:
+2. Rozporządzenie, o którym mowa w ust. 1, powinno wszczególności określać:
 
-- **1)** kwoty wynagrodzenia zasadniczego pracowników Krajowej Szko∏y;
-- **2)** inne, poza wynagrodzeniem zasadniczym, sk∏adniki uzasadnione zw∏aszcza pe∏nieniem okreÊlonej funkcji lub zajmowaniem okreÊlonego stanowiska, szczególnymi w∏aÊciwoÊciami pracy, warunkami wykonywanej pracy oraz kwalifikacjami zawodowymi pracowników. Rozdzia∏ 6 Przetwarzanie danych osobowych
+- **1)** kwoty wynagrodzenia zasadniczego pracowników Krajowej Szkoły;
+- **2)** inne, poza wynagrodzeniem zasadniczym, składniki uzasadnione zwłaszcza pełnieniem określonej funkcji lub zajmowaniem określonego stanowiska, szczególnymi właściwościami pracy, warunkami wykonywanej pracy oraz kwalifikacjami zawodowymi pracowników.
+
+#### Rozdział 6 Przetwarzanie danych osobowych
 
 **Art. 56.**
 
-1. Dyrektor Krajowej Szko∏y przetwarza dane osobowe aplikantów wzakresie niezb´dnym do realizacji programu aplikacji izadaƒ Krajowej Szko∏y.
+1. Dyrektor Krajowej Szkoły przetwarza dane osobowe aplikantów wzakresie niezbędnym do realizacji programu aplikacji izadań Krajowej Szkoły.
 
-2. Do przetwarzania danych osobowych, októrych mowa w ust. 1, przepis art. 43 ust. 1 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. 101, poz. 926, z póên. zm. ) stosuje si´ odpowiednio. Rozdzia∏ 7 Zmiany wprzepisach obowiàzujàcych
+2. Do przetwarzania danych osobowych, októrych mowa w ust. 1, przepis art. 43 ust. 1 pkt 4 ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz. U. z 2002 r. 101, poz. 926, z póên. zm. ) stosuje się odpowiednio.
 
-**Art. 57.** Wustawie zdnia 20 czerwca 1985 r. oprokuraturze (Dz. U. z 2008 r. 7, poz. 39 oraz z 2009 r. 1, poz. 4 i 26, poz. 156) wprowadza si´ nast´pujàce zmiany:
+#### Rozdział 7 Zmiany wprzepisach obowiązujących
 
-**Art. 58.** Wustawie zdnia 21 sierpnia 1997 r. Prawo o ustroju sàdów wojskowych (Dz. U. z 2007 r. 226, poz. 1676 oraz z 2008 r. 237, poz. 1651) wprowadza si´ nast´pujàce zmiany:
+**Art. 57.** Wustawie zdnia 20 czerwca 1985 r. oprokuraturze (Dz. U. z 2008 r. 7, poz. 39 oraz z 2009 r. 1, poz. 4 i 26, poz. 156) wprowadza się następujące zmiany:
 
-**Art. 59.** Wustawie zdnia 18 grudnia 1998 r. opracownikach sàdów i prokuratury (Dz. U. 162, poz. 1125, z póên. zm. mieniu zMinistrem Obrony Narodowej, Zgromadzenie S´dziów Sàdów Wojskowych, kolegium wojskowego sàdu okr´gowego, prezesi sàdów wojskowych i prezes sàdu dyscyplinarnego, a czynnoÊci iuprawnienia prezesa sàdu apelacyjnego w zakresie nadzoru administracyjnego Minister SprawiedliwoÊci za poÊrednictwem dyrektora departamentu, októrym mowa wart. 5 § 4;
+**Art. 58.** Wustawie zdnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych (Dz. U. z 2007 r. 226, poz. 1676 oraz z 2008 r. 237, poz. 1651) wprowadza się następujące zmiany:
 
-**Art. 60.** Wustawie zdnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych (Dz. U. 98, poz. 1070, z póên. zm. ) wprowadza si´ nast´pujàce zmiany: ———————
+**Art. 59.** Wustawie zdnia 18 grudnia 1998 r. opracownikach sądów i prokuratury (Dz. U. 162, poz. 1125, z póên. zm. mieniu zMinistrem Obrony Narodowej, Zgromadzenie Sędziów Sądów Wojskowych, kolegium wojskowego sądu okręgowego, prezesi sądów wojskowych i prezes sądu dyscyplinarnego, a czynności iuprawnienia prezesa sądu apelacyjnego w zakresie nadzoru administracyjnego Minister Sprawiedliwości za pośrednictwem dyrektora departamentu, októrym mowa wart. 5 § 4;
 
-**Art. 61.** W ustawie z dnia 27 lipca 2001 r. o Krajowej Radzie Sàdownictwa (Dz. U. 100, poz. 1082, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 60.** Wustawie zdnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. 98, poz. 1070, z póên. zm. ) wprowadza się następujące zmiany: ———————
 
-**Art. 62.** W ustawie z dnia 11 wrzeÊnia 2003 r. o s∏u˝bie wojskowej ˝o∏nierzy zawodowych (Dz. U. z 2008 r. 141, poz. 892, 206, poz. 1288 i 208, poz. 1308) wprowadza si´ nast´pujàce zmiany:
+**Art. 61.** W ustawie z dnia 27 lipca 2001 r. o Krajowej Radzie Sądownictwa (Dz. U. 100, poz. 1082, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 63.** W ustawie z dnia 27 sierpnia 2004 r. oÊwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. z 2008 r. 164, poz. 1027, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 62.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2008 r. 141, poz. 892, 206, poz. 1288 i 208, poz. 1308) wprowadza się następujące zmiany:
 
-**Art. 64.** Wustawie zdnia 9 maja 2007 r. ozmianie ustawy o pracownikach sàdów i prokuratury (Dz. U. 102, poz. 690) wart. 2 ust. 2 otrzymuje brzmienie: „2. Zobowiàzku, októrym mowa wust. 1, zwolnieni sà urz´dnicy, którzy najpóêniej w dniu wejÊcia w ˝ycie niniejszej ustawy ukoƒczyli 40 rok ˝ycia i posiadajà co najmniej 15-letni sta˝ pracy w sàdzie lub prokuraturze, pod warunkiem ˝e wokresie 10 lat od dnia wejÊcia w˝ycie ustawy ukoƒczà studium zawodowe jako cyklicznà form´ doskonalenia zawodowego w Krajowej Szkole Sàdownictwa iProkuratury.”. Rozdzia∏ 8 Przepisy przejÊciowe ikoƒcowe
+**Art. 63.** W ustawie z dnia 27 sierpnia 2004 r. oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. 164, poz. 1027, z póên. zm. ) wprowadza się następujące zmiany:
+
+**Art. 64.** Wustawie zdnia 9 maja 2007 r. ozmianie ustawy o pracownikach sądów i prokuratury (Dz. U. 102, poz. 690) wart. 2 ust. 2 otrzymuje brzmienie: Ń2. Zobowiązku, októrym mowa wust. 1, zwolnieni są urzędnicy, którzy najpóêniej w dniu wejścia w życie niniejszej ustawy ukończyli 40 rok życia i posiadają co najmniej 15-letni staż pracy w sądzie lub prokuraturze, pod warunkiem że wokresie 10 lat od dnia wejścia wżycie ustawy ukończą studium zawodowe jako cykliczną formę doskonalenia zawodowego w Krajowej Szkole Sądownictwa iProkuratury.”.
+
+#### Rozdział 8 Przepisy przejściowe ikońcowe
 
 **Art. 65.**
 
-1. Na stanowisko s´dziego sàdu rejonowego mo˝e byç powo∏ana osoba, która spe∏nia wymagania okreÊlone w art. 61 § 1 pkt 1—6 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych, w brzmieniu nadanym niniejszà ustawà, i pracowa∏a w charakterze asesora sàdowego co najmniej przez 3 lata.
+1. Na stanowisko sędziego sądu rejonowego może być powołana osoba, która spełnia wymagania określone w art. 61 § 1 pkt 1—6 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą, i pracowała w charakterze asesora sądowego co najmniej przez 3 lata.
 
-2. Na stanowisko s´dziego sàdu rejonowego mo˝e byç powo∏ana osoba mianowana na stanowisko asesora sàdowego wokresie od 5 listopada 2005 r. do 4 listopada 2007 r., je˝eli spe∏nia wymagania okreÊlone wart. 61 § 1 pkt 1—4 ipkt 6 ustawy zdnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych, w brzmieniu nadanym niniejszà ustawà, ukoƒczy∏a 28lat ipracowa∏a wcharakterze asesora sàdowego co najmniej przez rok.
+2. Na stanowisko sędziego sądu rejonowego może być powołana osoba mianowana na stanowisko asesora sądowego wokresie od 5 listopada 2005 r. do 4 listopada 2007 r., jeżeli spełnia wymagania określone wart. 61 § 1 pkt 1—4 ipkt 6 ustawy zdnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą, ukończyła 28lat ipracowała wcharakterze asesora sądowego co najmniej przez rok.
 
-3. Na stanowisko s´dziego sàdu rejonowego mo˝e byç powo∏ana osoba, która spe∏nia wymagania okreÊlone w art. 61 § 1 pkt 1—5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych, w brzmieniu nadanym niniejszà ustawà, ukoƒczy∏a aplikacj´ sàdowà i z∏o˝y∏a egzamin s´dziowski na podstawie przepisów obowiàzujàcych do dnia wejÊcia w ˝ycie niniejszej ustawy, a po z∏o˝eniu tego egzaminu by∏a zatrudniona na stanowisku:
+3. Na stanowisko sędziego sądu rejonowego może być powołana osoba, która spełnia wymagania określone w art. 61 § 1 pkt 1—5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą, ukończyła aplikację sądową i złożyła egzamin sędziowski na podstawie przepisów obowiązujących do dnia wejścia w życie niniejszej ustawy, a po złożeniu tego egzaminu była zatrudniona na stanowisku:
 
-- **1)** referendarza sàdowego co najmniej przez okres 2 lat wpe∏nym wymiarze czasu pracy lub
-- **2)** asystenta s´dziego co najmniej przez okres 2 lat wpe∏nym wymiarze czasu pracy.
+- **1)** referendarza sądowego co najmniej przez okres 2 lat wpełnym wymiarze czasu pracy lub
+- **2)** asystenta sędziego co najmniej przez okres 2 lat wpełnym wymiarze czasu pracy.
 
-4. Na stanowisko s´dziego sàdu rejonowego mo1) referendarza sàdowego co najmniej przez okres 6 lat wpe∏nym wymiarze czasu pracy albo
+4. Na stanowisko sędziego sądu rejonowego mo1) referendarza sądowego co najmniej przez okres 6 lat wpełnym wymiarze czasu pracy albo
 
-- **2)** asystenta s´dziego co najmniej przez okres 6 lat wpe∏nym wymiarze czasu pracy.
+- **2)** asystenta sędziego co najmniej przez okres 6 lat wpełnym wymiarze czasu pracy.
 
-5. Do okresu, o którym mowa w ust. 3 i 4, wlicza si´ okresy pracy odpowiednio na stanowisku asystenta s´dziego albo referendarza sàdowego w pe∏nym wymiarze czasu pracy.
+5. Do okresu, o którym mowa w ust. 3 i 4, wlicza się okresy pracy odpowiednio na stanowisku asystenta sędziego albo referendarza sądowego w pełnym wymiarze czasu pracy.
 
-6. W przypadku wykonywania pracy w niepe∏nym wymiarze czasu pracy okres, o którym mowa wust.3—5, wyd∏u˝a si´ proporcjonalnie.
+6. W przypadku wykonywania pracy w niepełnym wymiarze czasu pracy okres, o którym mowa wust.3—5, wydłuża się proporcjonalnie.
 
-7. Warunkiem powo∏ania na stanowisko s´dziego sàdu rejonowego jest zajmowanie stanowiska okreÊlonego w ust. 3—4 w okresie 3 lat przed dniem zg∏oszenia na wolne stanowisko s´dziowskie.
+7. Warunkiem powołania na stanowisko sędziego sądu rejonowego jest zajmowanie stanowiska określonego w ust. 3—4 w okresie 3 lat przed dniem zgłoszenia na wolne stanowisko sędziowskie.
 
 **Art. 66.**
 
-1. Warunek okreÊlony w art. 149 § 1 pkt 5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych, w brzmieniu nadanym niniejszà ustawà, spe∏nia osoba, która na podstawie przepisów ˝e byç powo∏ana osoba, która nie ukoƒczy∏a aplikacji sàdowej lub prokuratorskiej albo aplikacji okreÊlonej w art. 149 § 1 pkt 5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych, w brzmieniu nadanym niniejszà ustawà, je˝eli spe∏nia wymagania okreÊlone w art. 61 § 1 pkt 1—6 tej ustawy i by∏a zatrudniona na stanowisku: obowiàzujàcych przed dniem wejÊcia w ˝ycie niniejszej ustawy odby∏a aplikacj´ referendarskà i z∏o˝y∏a egzamin referendarski lub odby∏a aplikacj´ sàdowà lub prokuratorskà, bàdê z∏o˝y∏a egzamin referendarski.
+1. Warunek określony w art. 149 § 1 pkt 5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą, spełnia osoba, która na podstawie przepisów że być powołana osoba, która nie ukończyła aplikacji sądowej lub prokuratorskiej albo aplikacji określonej w art. 149 § 1 pkt 5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, w brzmieniu nadanym niniejszą ustawą, jeżeli spełnia wymagania określone w art. 61 § 1 pkt 1—6 tej ustawy i była zatrudniona na stanowisku: obowiązujących przed dniem wejścia w życie niniejszej ustawy odbyła aplikację referendarską i złożyła egzamin referendarski lub odbyła aplikację sądową lub prokuratorską, bądê złożyła egzamin referendarski.
 
-2. Warunek okreÊlony w art. 155 § 2 pkt 5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych, wbrzmieniu nadanym niniejszà ustawà, spe∏nia osoba, która wdniu wejÊcia w˝ycie niniejszej ustawy by∏a zatrudniona na stanowisku asystenta s´dziego, oraz osoba, która na podstawie przepisów obowiàzujàcych przed dniem wejÊcia w ˝ycie niniejszej ustawy odby∏a aplikacj´ referendarskà i z∏o˝y∏a egzamin referendarski albo odby∏a aplikacj´ sàdowà lub prokuratorskà bàdê z∏o˝y∏a egzamin referendarski.
+2. Warunek określony w art. 155 § 2 pkt 5 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych, wbrzmieniu nadanym niniejszą ustawą, spełnia osoba, która wdniu wejścia wżycie niniejszej ustawy była zatrudniona na stanowisku asystenta sędziego, oraz osoba, która na podstawie przepisów obowiązujących przed dniem wejścia w życie niniejszej ustawy odbyła aplikację referendarską i złożyła egzamin referendarski albo odbyła aplikację sądową lub prokuratorską bądê złożyła egzamin referendarski.
 
-3. Osoba zatrudniona w dniu wejÊcia w ˝ycie niniejszej ustawy na stanowisku referendarza sàdowego mo˝e przystàpiç do egzaminu s´dziowskiego okreÊlonego w art. 70 ust. 1, je˝eli zajmowa∏a to stanowisko co najmniej przez okres 3 lat izg∏osi∏a prezesowi prze∏o˝onego sàdu apelacyjnego zamiar przystàpienia do egzaminu na miesiàc przed jego przeprowadzeniem. W takim przypadku referendarz sàdowy jest dopuszczany do egzaminu s´dziowskiego, wnajbli˝szym terminie przewidzianym dla aplikantów sàdowych.
+3. Osoba zatrudniona w dniu wejścia w życie niniejszej ustawy na stanowisku referendarza sądowego może przystąpić do egzaminu sędziowskiego określonego w art. 70 ust. 1, jeżeli zajmowała to stanowisko co najmniej przez okres 3 lat izgłosiła prezesowi przełożonego sądu apelacyjnego zamiar przystąpienia do egzaminu na miesiąc przed jego przeprowadzeniem. W takim przypadku referendarz sądowy jest dopuszczany do egzaminu sędziowskiego, wnajbliższym terminie przewidzianym dla aplikantów sądowych.
 
-4. Osoba zatrudniona w dniu wejÊcia w ˝ycie niniejszej ustawy na stanowisku asystenta s´dziego mo˝e przystàpiç do egzaminu s´dziowskiego okreÊlonego w art. 70 ust. 1, je˝eli zajmowa∏a to stanowisko co najmniej przez okres 3 lat izg∏osi∏a prezesowi prze∏o˝onego sàdu apelacyjnego zamiar przystàpienia do egzaminu na miesiàc przed jego przeprowadzeniem. Wtakim przypadku asystent s´dziego jest dopuszczany do egzaminu s´dziowskiego, w najbli˝szym terminie przewidzianym dla aplikantów sàdowych.
+4. Osoba zatrudniona w dniu wejścia w życie niniejszej ustawy na stanowisku asystenta sędziego może przystąpić do egzaminu sędziowskiego określonego w art. 70 ust. 1, jeżeli zajmowała to stanowisko co najmniej przez okres 3 lat izgłosiła prezesowi przełożonego sądu apelacyjnego zamiar przystąpienia do egzaminu na miesiąc przed jego przeprowadzeniem. Wtakim przypadku asystent sędziego jest dopuszczany do egzaminu sędziowskiego, w najbliższym terminie przewidzianym dla aplikantów sądowych.
 
-5. Do okresu, o którym mowa w ust. 4, wlicza si´ okres pracy na stanowisku referendarza sàdowego wpe∏nym wymiarze czasu pracy.
+5. Do okresu, o którym mowa w ust. 4, wlicza się okres pracy na stanowisku referendarza sądowego wpełnym wymiarze czasu pracy.
 
-6. W przypadku wykonywania pracy w niepe∏nym wymiarze czasu pracy okres, o którym mowa wust.3—5, wyd∏u˝a si´ proporcjonalnie.
+6. W przypadku wykonywania pracy w niepełnym wymiarze czasu pracy okres, o którym mowa wust.3—5, wydłuża się proporcjonalnie.
 
 **Art. 67.**
 
-1. Na stanowisko s´dziego wojskowego sàdu garnizonowego mo˝e byç powo∏ana osoba, która spe∏nia wymagania okreÊlone wart. 22 § 1 pkt 1—5 i7 ustawy zdnia 21 sierpnia 1997 r. Prawo oustroju sàdów wojskowych, w brzmieniu nadanym niniejszà ustawà, i pracowa∏a w charakterze asesora sàdu wojskowego co najmniej przez 3 lata.
+1. Na stanowisko sędziego wojskowego sądu garnizonowego może być powołana osoba, która spełnia wymagania określone wart. 22 § 1 pkt 1—5 i7 ustawy zdnia 21 sierpnia 1997 r. Prawo oustroju sądów wojskowych, w brzmieniu nadanym niniejszą ustawą, i pracowała w charakterze asesora sądu wojskowego co najmniej przez 3 lata.
 
-2. Na stanowisko s´dziego wojskowego sàdu garnizonowego mo˝e byç powo∏ana osoba mianowana na stanowisko asesora sàdu wojskowego w okresie od dnia 5 listopada 2005 r. do dnia 5 listopada 2007 r., je˝eli spe∏nia wymagania okreÊlone w art. 22 § 1 pkt1—3 i5 ustawy zdnia 21 sierpnia 1997 r. Prawo o ustroju sàdów wojskowych, w brzmieniu nadanym niniejszà ustawà, ukoƒczy∏a 28 lat ipracowa∏a wcharakterze asesora sàdu wojskowego co najmniej przez rok.
+2. Na stanowisko sędziego wojskowego sądu garnizonowego może być powołana osoba mianowana na stanowisko asesora sądu wojskowego w okresie od dnia 5 listopada 2005 r. do dnia 5 listopada 2007 r., jeżeli spełnia wymagania określone w art. 22 § 1 pkt1—3 i5 ustawy zdnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych, w brzmieniu nadanym niniejszą ustawą, ukończyła 28 lat ipracowała wcharakterze asesora sądu wojskowego co najmniej przez rok.
 
-3. Na stanowisko s´dziego wojskowego sàdu garnizonowego mo˝e byç powo∏ana osoba, która spe∏nia wymagania okreÊlone w art. 22 § 1 pkt 1—5 i 7 ustawy zdnia 21 sierpnia 1997 r. Prawo oustroju sàdów wojskowych, wbrzmieniu nadanym niniejszà ustawà, ukoƒczy∏a aplikacj´ sàdowà i z∏o˝y∏a egzamin s´dziowski na podstawie przepisów obowiàzujàcych do dnia wejÊcia w ˝ycie niniejszej ustawy, a po z∏o˝eniu tego egzaminu by∏a zatrudniona na stanowisku:
+3. Na stanowisko sędziego wojskowego sądu garnizonowego może być powołana osoba, która spełnia wymagania określone w art. 22 § 1 pkt 1—5 i 7 ustawy zdnia 21 sierpnia 1997 r. Prawo oustroju sądów wojskowych, wbrzmieniu nadanym niniejszą ustawą, ukończyła aplikację sądową i złożyła egzamin sędziowski na podstawie przepisów obowiązujących do dnia wejścia w życie niniejszej ustawy, a po złożeniu tego egzaminu była zatrudniona na stanowisku:
 
-- **1)** referendarza sàdowego co najmniej przez okres 2lat wpe∏nym wymiarze czasu pracy lub
-- **2)** asystenta s´dziego co najmniej przez okres 2 lat wpe∏nym wymiarze czasu pracy.
+- **1)** referendarza sądowego co najmniej przez okres 2lat wpełnym wymiarze czasu pracy lub
+- **2)** asystenta sędziego co najmniej przez okres 2 lat wpełnym wymiarze czasu pracy.
 
-4. Prezes w∏aÊciwego wojskowego sàdu okr´gowego, po zasi´gni´ciu opinii kolegium wojskowego sàdu okr´gowego, wyst´puje do dyrektora komórki organizacyjnej, o której mowa w art. 5 § 4 ustawy z dnia 21 sierpnia 1997 r. Prawo o ustroju sàdów wojskowych, zwnioskiem ozg∏oszenie Zgromadzeniu S´dziów Sàdów Wojskowych kandydatury asesora sàdu wojskowego na stanowisko s´dziego sàdu wojskowego.
+4. Prezes właściwego wojskowego sądu okręgowego, po zasięgnięciu opinii kolegium wojskowego sądu okręgowego, występuje do dyrektora komórki organizacyjnej, o której mowa w art. 5 § 4 ustawy z dnia 21 sierpnia 1997 r. Prawo o ustroju sądów wojskowych, zwnioskiem ozgłoszenie Zgromadzeniu Sędziów Sądów Wojskowych kandydatury asesora sądu wojskowego na stanowisko sędziego sądu wojskowego.
 
 **Art. 68.**
 
-1. Zdniem 5 maja 2009 r. ustaje powierzenie asesorom sàdowym pe∏nienia czynnoÊci s´dziowskich.
+1. Zdniem 5 maja 2009 r. ustaje powierzenie asesorom sądowym pełnienia czynności sędziowskich.
 
-2. Stosunki pracy nawiàzane zasesorami sàdowymi na podstawie mianowania przed dniem wejÊcia w ˝ycie niniejszej ustawy wygasajà po up∏ywie 4 lat od dnia mianowania, chyba ˝e wczeÊniej zostanà rozwiàzane lub wygasnà.
+2. Stosunki pracy nawiązane zasesorami sądowymi na podstawie mianowania przed dniem wejścia w życie niniejszej ustawy wygasają po upływie 4 lat od dnia mianowania, chyba że wcześniej zostaną rozwiązane lub wygasną.
 
-3. Do czasu ustania stosunku pracy asesor sàdowy jest upowa˝niony do wykonywania czynnoÊci referendarza sàdowego.
+3. Do czasu ustania stosunku pracy asesor sądowy jest upoważniony do wykonywania czynności referendarza sądowego.
 
-4. Wynagrodzenie zasadnicze asesora sàdowego ustala si´ na podstawie przepisów obowiàzujàcych przed dniem wejÊcia w˝ycie niniejszej ustawy.
+4. Wynagrodzenie zasadnicze asesora sądowego ustala się na podstawie przepisów obowiązujących przed dniem wejścia wżycie niniejszej ustawy.
 
-5. Minister SprawiedliwoÊci mo˝e rozwiàzaç stosunek pracy zasesorem sàdowym po uprzednim wy6. Minister SprawiedliwoÊci przetwarza dane osobowe asesorów sàdowych wzakresie niezb´dnym do prawid∏owego realizowania obowiàzków i praw pracodawcy wynikajàcych ze stosunku pracy bàdê innych stosunków s∏u˝bowych.
+5. Minister Sprawiedliwości może rozwiązać stosunek pracy zasesorem sądowym po uprzednim wy6. Minister Sprawiedliwości przetwarza dane osobowe asesorów sądowych wzakresie niezbędnym do prawidłowego realizowania obowiązków i praw pracodawcy wynikających ze stosunku pracy bądê innych stosunków służbowych.
 
 **Art. 69.**
 
-1. Zdniem 5 maja 2009 r. ustaje powierzenie asesorom sàdów wojskowych pe∏nienia czynnoÊci s´dziowskich.
+1. Zdniem 5 maja 2009 r. ustaje powierzenie asesorom sądów wojskowych pełnienia czynności sędziowskich.
 
-2. Stosunki s∏u˝bowe zawodowej s∏u˝by wojskowej nawiàzane z asesorami sàdów wojskowych na podstawie mianowania przed dniem wejÊcia w ˝ycie niniejszej ustawy wygasajà po up∏ywie 4 lat od dnia mianowania, chyba ˝e wczeÊniej zostanà rozwiàzane lub wygasnà.
+2. Stosunki służbowe zawodowej służby wojskowej nawiązane z asesorami sądów wojskowych na podstawie mianowania przed dniem wejścia w życie niniejszej ustawy wygasają po upływie 4 lat od dnia mianowania, chyba że wcześniej zostaną rozwiązane lub wygasną.
 
-3. Do czasu ustania stosunku s∏u˝bowego zawodowej s∏u˝by wojskowej asesor sàdu wojskowego jest upowa˝niony do wykonywania czynnoÊci sekretarsko-administracyjnych wwojskowym sàdzie garnizonowym.
+3. Do czasu ustania stosunku służbowego zawodowej służby wojskowej asesor sądu wojskowego jest upoważniony do wykonywania czynności sekretarsko-administracyjnych wwojskowym sądzie garnizonowym.
 
-4. Wynagrodzenie zasadnicze asesora sàdu wojskowego ustala si´ na podstawie przepisów obowiàzujàcych przed dniem wejÊcia w˝ycie niniejszej ustawy.
+4. Wynagrodzenie zasadnicze asesora sądu wojskowego ustala się na podstawie przepisów obowiązujących przed dniem wejścia wżycie niniejszej ustawy.
 
-5. Minister SprawiedliwoÊci przetwarza dane osobowe asesorów sàdów wojskowych w zakresie niezb´dnym do prawid∏owego realizowania obowiàzków i praw pracodawcy wynikajàcych ze stosunku pracy bàdê innych stosunków s∏u˝bowych.
+5. Minister Sprawiedliwości przetwarza dane osobowe asesorów sądów wojskowych w zakresie niezbędnym do prawidłowego realizowania obowiązków i praw pracodawcy wynikających ze stosunku pracy bądê innych stosunków służbowych.
 
-6. Minister SprawiedliwoÊci w porozumieniu zMinistrem Obrony Narodowej mo˝e odwo∏aç asesora sàdu wojskowego. Do asesora sàdu wojskowego odwo∏anego z zajmowanego stanowiska stosuje si´ przepisy dotyczàce ˝o∏nierzy zawodowej s∏u˝by sta∏ej.
+6. Minister Sprawiedliwości w porozumieniu zMinistrem Obrony Narodowej może odwołać asesora sądu wojskowego. Do asesora sądu wojskowego odwołanego z zajmowanego stanowiska stosuje się przepisy dotyczące żołnierzy zawodowej służby stałej.
 
 **Art. 70.**
 
-1. Aplikacja sàdowa rozpocz´ta przed dniem 1 stycznia 2008 r. oraz koƒczàcy jà egzamin s´dziowski odbywajà si´ na podstawie przepisów obowiàzujàcych przed tym dniem.
+1. Aplikacja sądowa rozpoczęta przed dniem 1 stycznia 2008 r. oraz kończący ją egzamin sędziowski odbywają się na podstawie przepisów obowiązujących przed tym dniem.
 
-2. Aplikacja sàdowa wwojskowym sàdzie garnizonowym rozpocz´ta przed dniem 1 stycznia 2008 r. oraz koƒczàcy jà egzamin s´dziowski odbywajà si´ na podstawie przepisów obowiàzujàcych przed tym dniem.
+2. Aplikacja sądowa wwojskowym sądzie garnizonowym rozpoczęta przed dniem 1 stycznia 2008 r. oraz kończący ją egzamin sędziowski odbywają się na podstawie przepisów obowiązujących przed tym dniem.
 
-3. Aplikacja prokuratorska w powszechnych jednostkach organizacyjnych prokuratury rozpocz´ta przed dniem 1 stycznia 2008 r. oraz koƒczàcy jà egzamin prokuratorski odbywajà si´ na podstawie przepisów obowiàzujàcych przed tym dniem.
+3. Aplikacja prokuratorska w powszechnych jednostkach organizacyjnych prokuratury rozpoczęta przed dniem 1 stycznia 2008 r. oraz kończący ją egzamin prokuratorski odbywają się na podstawie przepisów obowiązujących przed tym dniem.
 
-4. Aplikacja prokuratorska wwojskowych jednostkach organizacyjnych prokuratury rozpocz´ta przed powiedzeniu za zgodà kolegium sàdu okr´gowego. dniem 1 stycznia 2008 r. oraz koƒczàcy jà egzamin prokuratorski odbywajà si´ na podstawie przepisów obowiàzujàcych przed tym dniem.
+4. Aplikacja prokuratorska wwojskowych jednostkach organizacyjnych prokuratury rozpoczęta przed powiedzeniu za zgodą kolegium sądu okręgowego. dniem 1 stycznia 2008 r. oraz kończący ją egzamin prokuratorski odbywają się na podstawie przepisów obowiązujących przed tym dniem.
 
-5. Aplikacja referendarska rozpocz´ta przed dniem 1 stycznia 2009 r. oraz koƒczàcy jà egzamin referendarski odbywajà si´ na podstawie przepisów obowiàzujàcych przed tym dniem.
+5. Aplikacja referendarska rozpoczęta przed dniem 1 stycznia 2009 r. oraz kończący ją egzamin referendarski odbywają się na podstawie przepisów obowiązujących przed tym dniem.
 
-6. Warunek okreÊlony wart. 3 ust. 3 ustawy zdnia 2. Dyrektor Krajowego Centrum Szkolenia Kadr 18 grudnia 1998 r. opracownikach sàdów iprokuratu- Sàdów Powszechnych i Prokuratury pe∏ni obowiàzki ry, w brzmieniu nadanym niniejszà ustawà, spe∏nia Dyrektora Krajowej Szko∏y, do czasu powo∏ania tego tak˝e ten, kto na podstawie przepisów obowiàzujà- organu na podstawie iwtrybie okreÊlonym wprzepicych przed dniem wejÊcia w ˝ycie niniejszej ustawy sach niniejszej ustawy. odby∏ aplikacj´ sàdowà lub prokuratorskà.
+6. Warunek określony wart. 3 ust. 3 ustawy zdnia 2. Dyrektor Krajowego Centrum Szkolenia Kadr 18 grudnia 1998 r. opracownikach sądów iprokuratu- Sądów Powszechnych i Prokuratury pełni obowiązki ry, w brzmieniu nadanym niniejszą ustawą, spełnia Dyrektora Krajowej Szkoły, do czasu powołania tego także ten, kto na podstawie przepisów obowiązują- organu na podstawie iwtrybie określonym wprzepicych przed dniem wejścia w życie niniejszej ustawy sach niniejszej ustawy. odbył aplikację sądową lub prokuratorską.
 
-3. Kadencja Rady Programowej Krajowego Cen7. Przepisy art. 94 ust. 10 ustawy, o której mowa trum Szkolenia Kadr Sàdów Powszechnych i Prokuw art. 57 oraz przepisy art. 23, 25 ust. 1 i 1a, art. 34 ratury wygasa z dniem wejÊcia w ˝ycie niniejszej ust.4, art. 37 ust. 5, art. 45 ust. 4, art. 47 ust. 3 iart. 85 ustawy. ust. 3 ustawy, o której mowa w art. 62, w brzmieniu okreÊlonym przed dniem wejÊcia w ˝ycie niniejszej 4. Pracownicy administracyjni ipracownicy obs∏uustawy, stosuje si´ wobec wojskowych aplikantów gi zatrudnieni w Krajowym Centrum Szkolenia Kadr prokuratorskich do czasu zakoƒczenia przez nich apli- Sàdów Powszechnych i Prokuratury z dniem wejÊcia kacji prokuratorskiej. w˝ycie niniejszej ustawy stajà si´ pracownikami Krajowej Szko∏y.
+3. Kadencja Rady Programowej Krajowego Cen7. Przepisy art. 94 ust. 10 ustawy, o której mowa trum Szkolenia Kadr Sądów Powszechnych i Prokuw art. 57 oraz przepisy art. 23, 25 ust. 1 i 1a, art. 34 ratury wygasa z dniem wejścia w życie niniejszej ust.4, art. 37 ust. 5, art. 45 ust. 4, art. 47 ust. 3 iart. 85 ustawy. ust. 3 ustawy, o której mowa w art. 62, w brzmieniu określonym przed dniem wejścia w życie niniejszej 4. Pracownicy administracyjni ipracownicy obsłuustawy, stosuje się wobec wojskowych aplikantów gi zatrudnieni w Krajowym Centrum Szkolenia Kadr prokuratorskich do czasu zakończenia przez nich apli- Sądów Powszechnych i Prokuratury z dniem wejścia kacji prokuratorskiej. wżycie niniejszej ustawy stają się pracownikami Krajowej Szkoły.
 
 **Art. 71.**
 
-1. S´dziemu lub prokuratorowi sprawujàcemu funkcj´ patrona co najmniej nad jednym etato- Art. 73. 1. Dotychczasowe przepisy wykonawcze wym aplikantem sàdowym lub prokuratorskim bàdê wydane na podstawie art. 50 ust. 10 ustawy, o której trzema pozaetatowymi aplikantami sàdowymi lub pro- mowa wart. 57, zachowujà moc do dnia wejÊcia w˝ykuratorskimi jednoczeÊnie, którzy rozpocz´li aplikacj´ cie przepisów wykonawczych wydanych na podstaprzed dniem 1 stycznia 2008 r., przys∏uguje wynagro- wie art. 50 ust. 10 ustawy, o której mowa w art. 57, dzenie wwysokoÊci 15 % kwoty bazowej, stanowiàcej wbrzmieniu nadanym niniejszà ustawà. podstaw´ wynagrodzenia zasadniczego s´dziów iprokuratorów, ustalonej w ustawie bud˝etowej na dany 2. Dotychczasowe przepisy wykonawcze wydane rok, za ka˝dy miesiàc sprawowania patronatu. na podstawie art. 78 § 5 ustawy, o której mowa
+1. Sędziemu lub prokuratorowi sprawującemu funkcję patrona co najmniej nad jednym etato- Art. 73. 1. Dotychczasowe przepisy wykonawcze wym aplikantem sądowym lub prokuratorskim bądê wydane na podstawie art. 50 ust. 10 ustawy, o której trzema pozaetatowymi aplikantami sądowymi lub pro- mowa wart. 57, zachowują moc do dnia wejścia wżykuratorskimi jednocześnie, którzy rozpoczęli aplikację cie przepisów wykonawczych wydanych na podstaprzed dniem 1 stycznia 2008 r., przysługuje wynagro- wie art. 50 ust. 10 ustawy, o której mowa w art. 57, dzenie wwysokości 15 % kwoty bazowej, stanowiącej wbrzmieniu nadanym niniejszą ustawą. podstawę wynagrodzenia zasadniczego sędziów iprokuratorów, ustalonej w ustawie budżetowej na dany 2. Dotychczasowe przepisy wykonawcze wydane rok, za każdy miesiąc sprawowania patronatu. na podstawie art. 78 § 5 ustawy, o której mowa
 
-2. S´dziemu sprawujàcemu funkcj´ patrona co w art. 60, zachowujà moc do dnia wejÊcia w ˝ycie najmniej nad jednym aplikantem referendarskim, któ- przepisów wykonawczych wydanych na podstawie ry rozpoczà∏ aplikacj´ referendarskà przed dniem art. 78 § 5 ustawy, októrej mowa wart. 60, wbrzmie1 stycznia 2009 r., przys∏uguje wynagrodzenie w wy- niu nadanym niniejszà ustawà. sokoÊci 15 % kwoty bazowej, stanowiàcej podstaw´ wynagrodzenia zasadniczego s´dziego, ustalonej 3. Dotychczasowe przepisy wykonawcze wydane w ustawie bud˝etowej na dany rok, za ka˝dy miesiàc na podstawie art. 13 ust. 1 i 2 ustawy, o której mowa sprawowania patronatu. w art. 74, zachowujà moc do dnia wejÊcia w ˝ycie przepisów wykonawczych wydanych na podstawie
+2. Sędziemu sprawującemu funkcję patrona co w art. 60, zachowują moc do dnia wejścia w życie najmniej nad jednym aplikantem referendarskim, któ- przepisów wykonawczych wydanych na podstawie ry rozpoczął aplikację referendarską przed dniem art. 78 § 5 ustawy, októrej mowa wart. 60, wbrzmie1 stycznia 2009 r., przysługuje wynagrodzenie w wy- niu nadanym niniejszą ustawą. sokości 15 % kwoty bazowej, stanowiącej podstawę wynagrodzenia zasadniczego sędziego, ustalonej 3. Dotychczasowe przepisy wykonawcze wydane w ustawie budżetowej na dany rok, za każdy miesiąc na podstawie art. 13 ust. 1 i 2 ustawy, o której mowa sprawowania patronatu. w art. 74, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie
 
-3. Przerwy w sprawowaniu patronatu z powodu art. 55 niniejszej ustawy, nie d∏u˝ej jednak ni˝ przez nieobecnoÊci patrona lub aplikanta, trwajàce do 7 dni okres 6 miesi´cy od dnia wejÊcia w ˝ycie niniejszej nie powodujà utraty prawa do wynagrodzenia za da- ustawy. ny miesiàc.
+3. Przerwy w sprawowaniu patronatu z powodu art. 55 niniejszej ustawy, nie dłużej jednak niż przez nieobecności patrona lub aplikanta, trwające do 7 dni okres 6 miesięcy od dnia wejścia w życie niniejszej nie powodują utraty prawa do wynagrodzenia za da- ustawy. ny miesiąc.
 
-**Art. 74.** Traci moc ustawa z dnia 1 lipca 2005 r. 4. W odniesieniu do s´dziów przepisy ust. 1—3, o Krajowym Centrum Szkolenia Kadr Sàdów PozaÊ w odniesieniu do prokuratorów przepisy ust. 1 wszechnych i Prokuratury (Dz. U. 169, poz. 1410 oraz ust. 3 majà zastosowanie do patronatu sprawo- iNr 264, poz. 2204 oraz z2007 r. 64, poz. 433). wanego od dnia 1 stycznia 2008 r. 5. Za okres otrzymywania przez s´dziego lub pro- Art. 75. Ustawa wchodzi w˝ycie wterminie 14 dni kuratora dodatku funkcyjnego z tytu∏u sprawowania od dnia og∏oszenia, zwyjàtkiem przepisów: art. 57, 58, patronatu wynagrodzenie, o którym mowa w ust. 1 60 pkt 1—5 i 19, art. 65 ust. 1 i 3—7, art. 66 ust. 1 i 2, i2, nie przys∏uguje. art. 67 ust. 1 i3, które wchodzà w˝ycie zdniem 5 maja 2009 r.
+**Art. 74.** Traci moc ustawa z dnia 1 lipca 2005 r. 4. W odniesieniu do sędziów przepisy ust. 1—3, o Krajowym Centrum Szkolenia Kadr Sądów Pozaś w odniesieniu do prokuratorów przepisy ust. 1 wszechnych i Prokuratury (Dz. U. 169, poz. 1410 oraz ust. 3 mają zastosowanie do patronatu sprawo- iNr 264, poz. 2204 oraz z2007 r. 64, poz. 433). wanego od dnia 1 stycznia 2008 r. 5. Za okres otrzymywania przez sędziego lub pro- Art. 75. Ustawa wchodzi wżycie wterminie 14 dni kuratora dodatku funkcyjnego z tytułu sprawowania od dnia ogłoszenia, zwyjątkiem przepisów: art. 57, 58, patronatu wynagrodzenie, o którym mowa w ust. 1 60 pkt 1—5 i 19, art. 65 ust. 1 i 3—7, art. 66 ust. 1 i 2, i2, nie przysługuje. art. 67 ust. 1 i3, które wchodzą wżycie zdniem 5 maja 2009 r.
 
 **Art. 72.**
 
-1. Krajowa Szko∏a jest nast´pcà prawnym Krajowego Centrum Szkolenia Kadr Sàdów Powszechnych iProkuratury. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+1. Krajowa Szkoła jest następcą prawnym Krajowego Centrum Szkolenia Kadr Sądów Powszechnych iProkuratury. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 
 

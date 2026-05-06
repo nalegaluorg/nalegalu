@@ -24,58 +24,58 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031711663) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1663/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. 100, poz. 1083, z2002 r. 153, poz. 1271 i 240, poz. 2052 oraz z 2003 r. 45, poz. 391) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 27 lipca 2001 r. o diagnostyce laboratoryjnej (Dz. U. 100, poz. 1083, z2002 r. 153, poz. 1271 i 240, poz. 2052 oraz z 2003 r. 45, poz. 391) wprowadza się następujące zmiany:
 
-**Art. 10b.** Wpis na list´ diagnostów laboratoryjnych poprzedza z∏o˝enie przez wnioskodawc´ Êlubowania.”;
+**Art. 10b.** Wpis na listę diagnostów laboratoryjnych poprzedza złożenie przez wnioskodawcę ślubowania.”;
 
-**Art. 30c.** Minister w∏aÊciwy do spraw zdrowia okreÊli, wdrodze rozporzàdzenia:
+**Art. 30c.** Minister właściwy do spraw zdrowia określi, wdrodze rozporządzenia:
 
 **Art. 30d.**
 
-1. Minister w∏aÊciwy do spraw zdrowia uznaje uzyskany za granicà tytu∏ specjalisty dziedzinie majàcej zastosowanie ochronie zdrowia za równowa˝ny ztytu∏em specjalisty wRzeczypospolitej Polskiej, je˝eli zosta∏y spe∏nione nast´pujàce warunki:
+1. Minister właściwy do spraw zdrowia uznaje uzyskany za granicą tytuł specjalisty dziedzinie mającej zastosowanie ochronie zdrowia za równoważny ztytułem specjalisty wRzeczypospolitej Polskiej, jeżeli zostały spełnione następujące warunki:
 
-- **1)** czas specjalizacji odbytej za granicà nie odbiega od czasu okreÊlonego programie specjalizacji danej dziedzinie majàcej zastosowanie ochronie zdrowia realizowanego wRzeczypospolitej Polskiej,
-- **2)** program specjalizacji zakresie wymaganej wiedzy teoretycznej oraz umiej´tnoÊci praktycznych odpowiada istotnych elementach programowi specjalizacji danej
+- **1)** czas specjalizacji odbytej za granicą nie odbiega od czasu określonego programie specjalizacji danej dziedzinie mającej zastosowanie ochronie zdrowia realizowanego wRzeczypospolitej Polskiej,
+- **2)** program specjalizacji zakresie wymaganej wiedzy teoretycznej oraz umiejętności praktycznych odpowiada istotnych elementach programowi specjalizacji danej
 
-2. Osoba, która uzyska∏a za granicà tytu∏ specjalisty, o którym mowa ust. 1, wyst´puje do ministra w∏aÊciwego do spraw zdrowia zwnioskiem, do którego do∏àcza, wraz z t∏umaczeniem na j´zyk polski, nast´pujàce dokumenty:
+2. Osoba, która uzyskała za granicą tytuł specjalisty, o którym mowa ust. 1, występuje do ministra właściwego do spraw zdrowia zwnioskiem, do którego dołącza, wraz z tłumaczeniem na język polski, następujące dokumenty:
 
-- **1)** orygina∏ dokumentu nadania tytu∏u specjalisty,
-- **2)** dokument zawierajàcy dane omiejscu odbycia specjalizacji iczasie jej trwania oraz zrealizowanym programie,
-- **3)** informacje o sposobie i trybie z∏o˝enia egzaminu koƒcowego lub innej formie potwierdzajàcej nabytà wiedz´ iumiej´tnoÊci praktyczne,
-- **4)** zaÊwiadczenia o miejscu i okresie trwania i rodzaju czynnoÊci zawodowych wykonywanych po uzyskaniu tytu∏u specjalisty.
+- **1)** oryginał dokumentu nadania tytułu specjalisty,
+- **2)** dokument zawierający dane omiejscu odbycia specjalizacji iczasie jej trwania oraz zrealizowanym programie,
+- **3)** informacje o sposobie i trybie złożenia egzaminu końcowego lub innej formie potwierdzającej nabytą wiedzę iumiejętności praktyczne,
+- **4)** zaświadczenia o miejscu i okresie trwania i rodzaju czynności zawodowych wykonywanych po uzyskaniu tytułu specjalisty.
 
-3. Minister w∏aÊciwy do spraw zdrowia uznaje lub odmawia uznania tytu∏u specjalisty wdziedzinie majàcej zastosowanie ochronie zdrowia, drodze decyzji, na podstawie opinii sporzàdzonej przez dyrektora Centrum.
+3. Minister właściwy do spraw zdrowia uznaje lub odmawia uznania tytułu specjalisty wdziedzinie mającej zastosowanie ochronie zdrowia, drodze decyzji, na podstawie opinii sporządzonej przez dyrektora Centrum.
 
-4. Opinia, o której mowa ust. 3, jest sporzàdzona na podstawie oceny merytorycznej wniosku, dokonanej przez zespó∏ ekspertów, o którym mowa wart. 30bust. 2. Wwyniku dokonania oceny, zespó∏ ekspertów mo˝e wnioskowaç opodj´cie jednej znast´pujàcych decyzji:
+4. Opinia, o której mowa ust. 3, jest sporządzona na podstawie oceny merytorycznej wniosku, dokonanej przez zespół ekspertów, o którym mowa wart. 30bust. 2. Wwyniku dokonania oceny, zespół ekspertów może wnioskować opodjęcie jednej znastępujących decyzji:
 
-- **1)** uznanie tytu∏u specjalisty bez ˝adnych dodatkowych warunków,
-- **2)** uznanie tytu∏u specjalisty po odbyciu sta˝u adaptacyjnego wjednostce prowadzàcej specjalizacj´, którego zakres iprogram okreÊli windywidualnych przypadkach zespó∏ ekspertów,
-- **24)** uchyla si´ rozdzia∏ 5;
-- **25)** art. 39 dotychczasowà treÊç oznacza si´ jako ust. 1 oraz dodaje si´ ust. 2 i3 wbrzmieniu: „2. Krajowa Rada Diagnostów Laboratoryjnych przesy∏a ministrowi w∏aÊciwemu do spraw zdrowia uchwa∏y Krajowej Rady Diagnostów Laboratoryjnych terminie nie d∏u˝szym ni˝ 30 dni od dnia ich podj´cia.
+- **1)** uznanie tytułu specjalisty bez żadnych dodatkowych warunków,
+- **2)** uznanie tytułu specjalisty po odbyciu stażu adaptacyjnego wjednostce prowadzącej specjalizację, którego zakres iprogram określi windywidualnych przypadkach zespół ekspertów,
+- **24)** uchyla się rozdział 5;
+- **25)** art. 39 dotychczasową treść oznacza się jako ust. 1 oraz dodaje się ust. 2 i3 wbrzmieniu: Ń2. Krajowa Rada Diagnostów Laboratoryjnych przesyła ministrowi właściwemu do spraw zdrowia uchwały Krajowej Rady Diagnostów Laboratoryjnych terminie nie dłuższym niż 30 dni od dnia ich podjęcia.
 
-3. Krajowa Rada Diagnostów Laboratoryjnych przesy∏a ministrowi w∏aÊciwemu do spraw zdrowia, wterminie do dnia 31 maja, sprawozdanie zdzia∏alnoÊci samorzàdu diagnostów laboratoryjnych za rok ubieg∏y.”;
+3. Krajowa Rada Diagnostów Laboratoryjnych przesyła ministrowi właściwemu do spraw zdrowia, wterminie do dnia 31 maja, sprawozdanie zdziałalności samorządu diagnostów laboratoryjnych za rok ubiegły.”;
 
-- **26)** uchyla si´ art. 40;
-- **27)** wart. 46 dodaje si´ ust. 4 wbrzmieniu: „4. Prezydium dzia∏a imieniu Krajowej Rady sprawach okreÊlonych jej uchwa∏à, z wyjàtkiem uchwalania bud˝etu.”;
-- **28)** wart. 47 wpkt 9 uchyla si´ lit. c;
-- **29)** uchyla si´ art. 68;
-- **30)** wart. 71 wust. 1 po wyrazach „czynnoÊci diagnostyki laboratoryjnej” dodaje si´ wyrazy „wlaboratorium”.
+- **26)** uchyla się art. 40;
+- **27)** wart. 46 dodaje się ust. 4 wbrzmieniu: Ń4. Prezydium działa imieniu Krajowej Rady sprawach określonych jej uchwałą, z wyjątkiem uchwalania budżetu.”;
+- **28)** wart. 47 wpkt 9 uchyla się lit. c;
+- **29)** uchyla się art. 68;
+- **30)** wart. 71 wust. 1 po wyrazach Ńczynności diagnostyki laboratoryjnej” dodaje się wyrazy Ńwlaboratorium”.
 
-**Art. 2.** W ustawie z dnia 30 sierpnia 1991 r. o zak∏adach opieki zdrowotnej (Dz. U. 91, poz. 408, zpóên. zm.
+**Art. 2.** W ustawie z dnia 30 sierpnia 1991 r. o zakładach opieki zdrowotnej (Dz. U. 91, poz. 408, zpóên. zm.
 
-**Art. 3.** Wustawie zdnia 30 sierpnia 2002 r. Przepisy wprowadzajàce ustaw´ Prawo oustroju sàdów administracyjnych iustaw´ Prawo opost´powaniu przed sàdami administracyjnymi (Dz. U. 153, poz. 1271 i 240, poz. 2052 oraz z 2003 r. 124, poz. 1153) uchyla si´ art. 79.
+**Art. 3.** Wustawie zdnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę Prawo oustroju sądów administracyjnych iustawę Prawo opostępowaniu przed sądami administracyjnymi (Dz. U. 153, poz. 1271 i 240, poz. 2052 oraz z 2003 r. 124, poz. 1153) uchyla się art. 79.
 
 **Art. 4.**
 
-1. Prawo samodzielnego wykonywania czynnoÊci diagnostyki laboratoryjnej powsta∏e zchwilà do——————— konania wpisu na list´ diagnostów laboratoryjnych diagnostyki laboratoryjnej, rozumieniu dotychczas przed dniem wejÊcia ˝ycie ustawy zachowuje moc obowiàzujàcych przepisów, zachowujà to prawo. istaje si´ prawem wykonywania zawodu diagnosty laboratoryjnego, októrym mowa wniniejszej ustawie. Art. 7. 1. Podmioty, które dniu wejÊcia ˝ycie ustawy prowadzà laboratoria, sà obowiàzane wystàpiç
+1. Prawo samodzielnego wykonywania czynności diagnostyki laboratoryjnej powstałe zchwilą do——————— konania wpisu na listę diagnostów laboratoryjnych diagnostyki laboratoryjnej, rozumieniu dotychczas przed dniem wejścia życie ustawy zachowuje moc obowiązujących przepisów, zachowują to prawo. istaje się prawem wykonywania zawodu diagnosty laboratoryjnego, októrym mowa wniniejszej ustawie. Art. 7. 1. Podmioty, które dniu wejścia życie ustawy prowadzą laboratoria, są obowiązane wystąpić
 
-2. W sprawach dotyczàcych przyznania prawa sa- do Krajowej Rady Diagnostów Laboratoryjnych zwniomodzielnego wykonywania czynnoÊci diagnostyki la- skiem owpis tego laboratorium do ewidencji wtermiboratoryjnej, wszcz´tych iniezakoƒczonych podj´ciem nie 12 miesi´cy od dnia wejÊcia niniejszej ustawy w˝yuchwa∏y przed dniem wejÊcia ˝ycie ustawy, stosuje cie. si´ przepisy ustawy, októrej mowa wart. 1, wbrzmieniu nadanym niniejszà ustawà. 2. Podmioty, które nie dope∏ni∏y obowiàzku, o którym mowa wust. 1, nie mogà prowadziç laboratorium
+2. W sprawach dotyczących przyznania prawa sa- do Krajowej Rady Diagnostów Laboratoryjnych zwniomodzielnego wykonywania czynności diagnostyki la- skiem owpis tego laboratorium do ewidencji wtermiboratoryjnej, wszczętych iniezakończonych podjęciem nie 12 miesięcy od dnia wejścia niniejszej ustawy wżyuchwały przed dniem wejścia życie ustawy, stosuje cie. się przepisy ustawy, októrej mowa wart. 1, wbrzmieniu nadanym niniejszą ustawą. 2. Podmioty, które nie dopełniły obowiązku, o którym mowa wust. 1, nie mogą prowadzić laboratorium
 
 **Art. 5.**
 
-1. Diagnosta laboratoryjny jest obowiàzany do czasu uzyskania wpisu do ewidencji. wystàpiç do Krajowej Rady Diagnostów Laboratoryjnych ostwierdzenie prawa wykonywania zawodu dia- Art. 8. Przepisy art. 7 pkt 5, art. 9 ust. 3 i art. 14 gnosty laboratoryjnego terminie 12 miesi´cy od ust. 4 ustawy, o której mowa art. 1, brzmieniu dnia wejÊcia niniejszej ustawy w˝ycie. nadanym niniejszà ustawà stosuje si´ do obywateli paƒstw cz∏onkowskich Unii Europejskiej z dniem uzy2. Osoby, które nie dope∏ni∏y obowiàzku, októrym skania przez Rzeczpospolità Polskà cz∏onkostwa wUnii mowa wust. 1, nie mogà wykonywaç zawodu diagno- Europejskiej. sty laboratoryjnego do czasu stwierdzenia prawa wykonywania zawodu diagnosty laboratoryjnego. Art. 9. Ustawa wchodzi ˝ycie po up∏ywie 14 dni
+1. Diagnosta laboratoryjny jest obowiązany do czasu uzyskania wpisu do ewidencji. wystąpić do Krajowej Rady Diagnostów Laboratoryjnych ostwierdzenie prawa wykonywania zawodu dia- Art. 8. Przepisy art. 7 pkt 5, art. 9 ust. 3 i art. 14 gnosty laboratoryjnego terminie 12 miesięcy od ust. 4 ustawy, o której mowa art. 1, brzmieniu dnia wejścia niniejszej ustawy wżycie. nadanym niniejszą ustawą stosuje się do obywateli państw członkowskich Unii Europejskiej z dniem uzy2. Osoby, które nie dopełniły obowiązku, októrym skania przez Rzeczpospolitą Polską członkostwa wUnii mowa wust. 1, nie mogą wykonywać zawodu diagno- Europejskiej. sty laboratoryjnego do czasu stwierdzenia prawa wykonywania zawodu diagnosty laboratoryjnego. Art. 9. Ustawa wchodzi życie po upływie 14 dni
 
-**Art. 6.** Osoby, które dniu 1 paêdziernika 2003 r. posiada∏y uprawnienia do wykonywania czynnoÊci od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1664 USTAWA zdnia 29 sierpnia 2003 r. ozmianie ustawy Prawo probiercze
+**Art. 6.** Osoby, które dniu 1 paêdziernika 2003 r. posiadały uprawnienia do wykonywania czynności od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1664 USTAWA zdnia 29 sierpnia 2003 r. ozmianie ustawy Prawo probiercze
 
-**Art. 1.** Wustawie zdnia 3 kwietnia 1993 r. Prawo probiercze (Dz. U. 55, poz. 249, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 3 kwietnia 1993 r. Prawo probiercze (Dz. U. 55, poz. 249, z póên. zm. ) wprowadza się następujące zmiany:
 

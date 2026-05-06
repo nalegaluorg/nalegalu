@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# nych wed∏ug poziomu spe∏niania Art. 107g. Je˝eli stosunek pracy osoby wy∏onionej przez nich wymagaƒ okreÊlonych drodze naboru usta∏ ciàgu 3 miesi´og∏oszeniu o naborze; cy od dnia nawiàzania stosunku pracy, mo˝na zatrudniç na tym samym stanowi2) informacj´ o zastosowanych meto- sku kolejnà osob´ spoÊród najlepszych dach i technikach naboru; kandydatów wymienionych protokole
+# nych według poziomu spełniania Art. 107g. Jeżeli stosunek pracy osoby wyłonionej przez nich wymagań określonych drodze naboru ustał ciągu 3 miesięogłoszeniu o naborze; cy od dnia nawiązania stosunku pracy, można zatrudnić na tym samym stanowi2) informację o zastosowanych meto- sku kolejną osobę spośród najlepszych dach i technikach naboru; kandydatów wymienionych protokole
 
 | Pole | Wartość |
 |---|---|
@@ -24,223 +24,228 @@ domain: null
 | Ostatnia zmiana | 2025-03-26 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051321111) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1111/text.pdf) |
 
-3) uzasadnienie dokonanego wyboru. tego naboru. Przepisy art.107fstosuje si´ odpowiednio.”.
+3) uzasadnienie dokonanego wyboru. tego naboru. Przepisy art.107fstosuje się odpowiednio.”.
+2) istotne elementy umów cywilnoprawnych, o których mowa ust. 3 uwzględniając konieczność realizacji celów, określonych art. 3 ust. 1, efektywnego i skutecznego wykorzystania dofinansowania przedsięwzięcia oraz zapewnienia przejrzystości jego udzielania.
 
 **Art. 107f.**
 
-1. Informacj´ o wyniku naboru upowszechnia si´ terminie 14 dni od Art. 19. Sprawy, które zosta∏y wszcz´te, a niezadnia zatrudnienia wybranego kandy- koƒczone przed dniem wejÊcia w˝ycie niniejszej ustadata albo zakoƒczenia naboru, przy- wy, podlegajà rozpoznaniu wed∏ug przepisów ustaw, padku gdy jego wyniku nie dosz∏o o których mowa art. 1—18, brzmieniu nadanym do zatrudnienia ˝adnego kandydata. niniejszà ustawà.
+1. Informację o wyniku naboru upowszechnia się terminie 14 dni od Art. 19. Sprawy, które zostały wszczęte, a niezadnia zatrudnienia wybranego kandy- kończone przed dniem wejścia wżycie niniejszej ustadata albo zakończenia naboru, przy- wy, podlegają rozpoznaniu według przepisów ustaw, padku gdy jego wyniku nie doszło o których mowa art. 1—18, brzmieniu nadanym do zatrudnienia żadnego kandydata. niniejszą ustawą.
 
-2. Informacja, októrej mowa wust. 1, za- Art. 20. 1. Powo∏anie osoby wy∏onionej drodze wiera: konkursu na stanowisko Szefa S∏u˝by Cywilnej nastàpi po zakoƒczeniu kadencji, na którà zosta∏a powo∏ana
+2. Informacja, októrej mowa wust. 1, za- Art. 20. 1. Powołanie osoby wyłonionej drodze wiera: konkursu na stanowisko Szefa Służby Cywilnej nastąpi po zakończeniu kadencji, na którą została powołana
 
-- **1)** nazw´ i adres urz´du; osoba zajmujàca to stanowisko dniu wejÊcia ˝y2) okreÊlenie stanowiska pracy; cie niniejszej ustawy.
-- **3)** imi´ inazwisko kandydata oraz jego 2. Osoba, która dniu wejÊcia ˝ycie niniejszej miejsce zamieszkania wrozumieniu ustawy zajmuje stanowisko zast´pcy Szefa S∏u˝by Cyprzepisów Kodeksu cywilnego; wilnej, pe∏ni swoje obowiàzki do czasu powo∏ania na4) uzasadnienie dokonanego wyboru st´pcy, wy∏onionego drodze konkursu. kandydata albo uzasadnienie niezatrudnienia ˝adnego kandydata. Art. 21.Ustawa wchodzi w˝ycie po up∏ywie 30 dni od dnia og∏oszenia.
+- **1)** nazwę i adres urzędu; osoba zajmująca to stanowisko dniu wejścia ży2) określenie stanowiska pracy; cie niniejszej ustawy.
+- **3)** imię inazwisko kandydata oraz jego 2. Osoba, która dniu wejścia życie niniejszej miejsce zamieszkania wrozumieniu ustawy zajmuje stanowisko zastępcy Szefa Służby Cyprzepisów Kodeksu cywilnego; wilnej, pełni swoje obowiązki do czasu powołania na4) uzasadnienie dokonanego wyboru stępcy, wyłonionego drodze konkursu. kandydata albo uzasadnienie niezatrudnienia żadnego kandydata. Art. 21.Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia.
 
-3. Informacj´ o wyniku naboru upowszechnia si´ Biuletynie Informacji Publicznej iwmiejscu powszechnie do- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA z dnia 30 czerwca 2005 r. o kinematografii Rozdzia∏ 1 Przepisy ogólne
+3. Informację o wyniku naboru upowszechnia się Biuletynie Informacji Publicznej iwmiejscu powszechnie do- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA z dnia 30 czerwca 2005 r. o kinematografii
 
-**Art. 1.** Ustawa okreÊla zasady wspierania twórczoÊci filmowej iinnej dzia∏alnoÊci wdziedzinie kinematografii oraz ochrony zasobów sztuki filmowej.
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 2.** Ustawy nie stosuje si´ do:
+**Art. 1.** Ustawa określa zasady wspierania twórczości filmowej iinnej działalności wdziedzinie kinematografii oraz ochrony zasobów sztuki filmowej.
+
+**Art. 2.** Ustawy nie stosuje się do:
 
 **Art. 3.**
 
-1. Paƒstwo sprawuje mecenat nad dzia∏alnoÊcià wdziedzinie kinematografii, jako cz´Êci kultury narodowej, polegajàcy wszczególnoÊci na wspieraniu produkcji i promocji filmu, upowszechnianiu kultury filmowej oraz ochronie dziedzictwa kulturalnego dziedzinie filmu.
+1. Państwo sprawuje mecenat nad działalnością wdziedzinie kinematografii, jako części kultury narodowej, polegający wszczególności na wspieraniu produkcji i promocji filmu, upowszechnianiu kultury filmowej oraz ochronie dziedzictwa kulturalnego dziedzinie filmu.
 
-2. Kinematografia obejmuje twórczoÊç filmowà, produkcj´ filmów, us∏ugi filmowe, dystrybucj´ irozpowszechnianie filmów, tym dzia∏alnoÊç kin, upowszechnianie kultury filmowej, promocj´ polskiej twórczoÊci filmowej oraz gromadzenie, ochron´ iupowszechnianie zasobów sztuki filmowej.
+2. Kinematografia obejmuje twórczość filmową, produkcję filmów, usługi filmowe, dystrybucję irozpowszechnianie filmów, tym działalność kin, upowszechnianie kultury filmowej, promocję polskiej twórczości filmowej oraz gromadzenie, ochronę iupowszechnianie zasobów sztuki filmowej.
 
 **Art. 4.**
 
-1. Filmem jest utwór dowolnej d∏ugoÊci, tym utwór dokumentalny lub animowany, z∏o˝ony zserii nast´pujàcych po sobie obrazówzdêwi´kiem lub bez dêwi´ku, utrwalonych na jakimkolwiek noÊniku umo˝liwiajàcym wielokrotne odtwarzanie, wywo∏ujàcych wra˝enie ruchu i sk∏adajàcych si´ na oryginalnà ca∏oÊç, wyra˝ajàcà akcj´ (treÊç) indywidualnej formie, aponadto, zwyjàtkiem utworów dokumentalnych ianimowanych, przeznaczony do wyÊwietlania wkinie jako pierwszym polu eksploatacji rozumieniu przepisówoprawie autorskim iprawach pokrewnych.
+1. Filmem jest utwór dowolnej długości, tym utwór dokumentalny lub animowany, złożony zserii następujących po sobie obrazówzdêwiękiem lub bez dêwięku, utrwalonych na jakimkolwiek nośniku umożliwiającym wielokrotne odtwarzanie, wywołujących wrażenie ruchu i składających się na oryginalną całość, wyrażającą akcję (treść) indywidualnej formie, aponadto, zwyjątkiem utworów dokumentalnych ianimowanych, przeznaczony do wyświetlania wkinie jako pierwszym polu eksploatacji rozumieniu przepisówoprawie autorskim iprawach pokrewnych.
 
-2. Film uznaje si´ za film polski, je˝eli jego producentem lub koproducentem jest podmiot majàcy siedzib´ na terytorium Rzeczypospolitej Polskiej, a ponadto spe∏niony jest co najmniej jeden z warunków:
+2. Film uznaje się za film polski, jeżeli jego producentem lub koproducentem jest podmiot mający siedzibę na terytorium Rzeczypospolitej Polskiej, a ponadto spełniony jest co najmniej jeden z warunków:
 
-- **1)** autor scenariusza lub adaptowanego utworu literackiego, re˝yser oraz wykonawca jednej z g∏ównych ról sà obywatelami polskimi, udzia∏ Êrodków finansowych producenta majàcego siedzib´ na terytorium Rzeczypospolitej Polskiej kosztach produkcji filmu stanowi 100 %, przy czym Êrodki te, do wysokoÊci 80 % kosztów produkcji filmu, muszà byç wydatkowane na terytorium Rzeczypospolitej Polskiej, a ponadto kopia wzorcowa jest wykonana j´zyku polskim;
-- **2)** autor scenariusza lub adaptowanego utworu literackiego lub re˝yser, lub wykonawca jednej z g∏ównych ról sà obywatelami polskimi, udzia∏ Êrodków finansowych koproducenta majàcego siedzib´ na terytorium Rzeczypospolitej Polskiej kosztach produkcji filmu stanowi co najmniej 20% przy filmie b´dàcym koprodukcjà dwustronnà oraz co najmniej 10 % przy filmie b´dàcym koprodukcjà wielostronnà, przy czym Êrodki te, do wysokoÊci 80 % kosztów produkcji filmu, muszà byç wydatkowane na terytorium Rzeczypospolitej Polskiej, a ponadto g∏ówna wersja j´zykowa wykonana jest j´zyku polskim.
+- **1)** autor scenariusza lub adaptowanego utworu literackiego, reżyser oraz wykonawca jednej z głównych ról są obywatelami polskimi, udział środków finansowych producenta mającego siedzibę na terytorium Rzeczypospolitej Polskiej kosztach produkcji filmu stanowi 100 %, przy czym środki te, do wysokości 80 % kosztów produkcji filmu, muszą być wydatkowane na terytorium Rzeczypospolitej Polskiej, a ponadto kopia wzorcowa jest wykonana języku polskim;
+- **2)** autor scenariusza lub adaptowanego utworu literackiego lub reżyser, lub wykonawca jednej z głównych ról są obywatelami polskimi, udział środków finansowych koproducenta mającego siedzibę na terytorium Rzeczypospolitej Polskiej kosztach produkcji filmu stanowi co najmniej 20% przy filmie będącym koprodukcją dwustronną oraz co najmniej 10 % przy filmie będącym koprodukcją wielostronną, przy czym środki te, do wysokości 80 % kosztów produkcji filmu, muszą być wydatkowane na terytorium Rzeczypospolitej Polskiej, a ponadto główna wersja językowa wykonana jest języku polskim.
 
-**Art. 5.** U˝yte ustawie okreÊlenia oznaczajà:
+**Art. 5.** Użyte ustawie określenia oznaczają:
 
 **Art. 6.**
 
-1. Zadania organów administracji rzàdowej zakresie kinematografii realizuje minister w∏aÊciwy do spraw kultury i ochrony dziedzictwa narodowego, zwany dalej „ministrem”.
+1. Zadania organów administracji rządowej zakresie kinematografii realizuje minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, zwany dalej Ńministrem”.
 
-2. Do zakresu dzia∏ania ministra nale˝y wszczególnoÊci:
+2. Do zakresu działania ministra należy wszczególności:
 
-- **1)** projektowanie kierunków realizacji polityki kulturalnej paƒstwa dziedzinie kinematografii;
-- **3)** tworzenie warunków do rozwoju wszystkich gatunków i rodzajów twórczoÊci filmowej;
-- **4)** wspieranie rozwoju artystycznego m∏odych twórców;
+- **1)** projektowanie kierunków realizacji polityki kulturalnej państwa dziedzinie kinematografii;
+- **3)** tworzenie warunków do rozwoju wszystkich gatunków i rodzajów twórczości filmowej;
+- **4)** wspieranie rozwoju artystycznego młodych twórców;
 - **5)** wspieranie edukacji i doskonalenia zawodowego oraz ochrony zawodów filmowych;
-- **6)** wspieranie upowszechniania kultury filmowej idzia∏anie na rzecz rozwoju spo∏ecznego ruchu filmowego oraz piÊmiennictwa filmowego. Rozdzia∏ 2 Polski Instytut Sztuki Filmowej
+- **6)** wspieranie upowszechniania kultury filmowej idziałanie na rzecz rozwoju społecznego ruchu filmowego oraz piśmiennictwa filmowego.
+
+#### Rozdział 2 Polski Instytut Sztuki Filmowej
 
 **Art. 7.**
 
-1. W celu wspierania rozwoju kinematografii tworzy si´ Polski Instytut Sztuki Filmowej, zwany dalej „Instytutem”, b´dàcy paƒstwowà osobà prawnà.
+1. W celu wspierania rozwoju kinematografii tworzy się Polski Instytut Sztuki Filmowej, zwany dalej ŃInstytutem”, będący państwową osobą prawną.
 
-2. Siedzibà Instytutu jest miasto sto∏eczne Warszawa.
+2. Siedzibą Instytutu jest miasto stołeczne Warszawa.
 
 **Art. 8.**
 
-1. Instytut realizuje zadania zzakresu polityki paƒstwa wdziedzinie kinematografii, wszczególnoÊci przez:
+1. Instytut realizuje zadania zzakresu polityki państwa wdziedzinie kinematografii, wszczególności przez:
 
 - **1)** tworzenie warunków do rozwoju polskiej produkcji filmów i koprodukcji filmowej;
-- **2)** inspirowanie i wspieranie rozwoju wszystkich gatunków polskiej twórczoÊci filmowej, a szczególnoÊci filmów artystycznych wtym przygotowania projektów filmowych, produkcji filmów i rozpowszechniania filmów;
-- **3)** wspieranie dzia∏aƒ majàcych na celu tworzenie warunków powszechnego dost´pu do dorobku polskiej, europejskiej i Êwiatowej sztuki filmowej;
-- **4)** wspieranie debiutów filmowych oraz rozwoju artystycznego m∏odych twórców filmowych;
-- **5)** promocj´ polskiej twórczoÊci filmowej;
-- **6)** dofinansowywanie przedsi´wzi´ç z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczoÊci filmowej iupowszechniania kultury filmowej, tym produkcji filmów podejmowanych przez Êrodowiska polonijne;
-- **7)** Êwiadczenie us∏ug eksperckich organom administracji publicznej;
+- **2)** inspirowanie i wspieranie rozwoju wszystkich gatunków polskiej twórczości filmowej, a szczególności filmów artystycznych wtym przygotowania projektów filmowych, produkcji filmów i rozpowszechniania filmów;
+- **3)** wspieranie działań mających na celu tworzenie warunków powszechnego dostępu do dorobku polskiej, europejskiej i światowej sztuki filmowej;
+- **4)** wspieranie debiutów filmowych oraz rozwoju artystycznego młodych twórców filmowych;
+- **5)** promocję polskiej twórczości filmowej;
+- **6)** dofinansowywanie przedsięwzięć z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej iupowszechniania kultury filmowej, tym produkcji filmów podejmowanych przez środowiska polonijne;
+- **7)** świadczenie usług eksperckich organom administracji publicznej;
 - **8)** wspieranie utrzymywania archiwów filmowych;
-- **9)** wspieranie rozwoju potencja∏u polskiego niezale˝nego przemys∏u kinematograficznego, a szczególnoÊci ma∏ych i Êrednich przedsi´biorców dziaArt. 9. 1. Instytut samodzielnie gospodaruje mieniem oraz prowadzi samodzielnà gospodark´ ramach posiadanych Êrodków, kierujàc si´ zasadà efektywnego ich wykorzystania.
+- **9)** wspieranie rozwoju potencjału polskiego niezależnego przemysłu kinematograficznego, a szczególności małych i średnich przedsiębiorców dziaArt. 9. 1. Instytut samodzielnie gospodaruje mieniem oraz prowadzi samodzielną gospodarkę ramach posiadanych środków, kierując się zasadą efektywnego ich wykorzystania.
 
-2. Instytut nie mo˝e wykonywaç dzia∏alnoÊci gospodarczej.
+2. Instytut nie może wykonywać działalności gospodarczej.
 
 **Art. 10.**
 
-1. Nadzór nad dzia∏alnoÊcià Instytutu sprawuje minister.
+1. Nadzór nad działalnością Instytutu sprawuje minister.
 
-2. Minister, terminie 30 dni, bada uchwa∏y podejmowane przez Rad´ Instytutu i przesy∏ane mu niezw∏ocznie przez ten organ, wzakresie zgodnoÊci zprawem, i stwierdza niewa˝noÊç uchwa∏y ca∏oÊci lub cz´Êci, je˝eli narusza ona prawo lub stwarza zagro˝enie wystàpienia ujemnego wyniku finansowego.
+2. Minister, terminie 30 dni, bada uchwały podejmowane przez Radę Instytutu i przesyłane mu niezwłocznie przez ten organ, wzakresie zgodności zprawem, i stwierdza nieważność uchwały całości lub części, jeżeli narusza ona prawo lub stwarza zagrożenie wystąpienia ujemnego wyniku finansowego.
 
-3. Minister zatwierdza roczny plan dzia∏alnoÊci oraz roczny plan finansowy Instytutu.
+3. Minister zatwierdza roczny plan działalności oraz roczny plan finansowy Instytutu.
 
-4. Minister rozpatruje izatwierdza roczne sprawozdanie z dzia∏alnoÊci oraz roczne sprawozdanie finansowe Instytutu.
+4. Minister rozpatruje izatwierdza roczne sprawozdanie z działalności oraz roczne sprawozdanie finansowe Instytutu.
 
-5. Minister wskazuje bieg∏ego rewidenta do badania rocznego sprawozdania finansowego.
+5. Minister wskazuje biegłego rewidenta do badania rocznego sprawozdania finansowego.
 
 **Art. 11.**
 
-1. Instytut dzia∏a na podstawie ustawy i statutu.
+1. Instytut działa na podstawie ustawy i statutu.
 
-2. Minister, drodze zarzàdzenia, nadaje Instytutowi statut, którym okreÊla szczególnoÊci:
+2. Minister, drodze zarządzenia, nadaje Instytutowi statut, którym określa szczególności:
 
-- **1)** szczegó∏owy zakres dzia∏ania Instytutu,
-- **2)** organizacj´ wewn´trznà Instytutu,
-- **3)** szczegó∏owe zadania organów Instytutu oraz tryb ich dzia∏ania uwzgl´dniajàc stworzenie w∏aÊciwych warunków do prawid∏owej realizacji zadaƒ przez Instytut.
+- **1)** szczegółowy zakres działania Instytutu,
+- **2)** organizację wewnętrzną Instytutu,
+- **3)** szczegółowe zadania organów Instytutu oraz tryb ich działania uwzględniając stworzenie właściwych warunków do prawidłowej realizacji zadań przez Instytut.
 
-3. Zarzàdzenie, o którym mowa ust. 2, og∏asza si´ wDzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”.
+3. Zarządzenie, o którym mowa ust. 2, ogłasza się wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”.
 
-**Art. 12.** Organami Instytutu sà:
+**Art. 12.** Organami Instytutu są:
 
 **Art. 13.**
 
-1. Dyrektor kieruje Instytutem ireprezentuje go na zewnàtrz.
+1. Dyrektor kieruje Instytutem ireprezentuje go na zewnątrz.
 
-2. Do zadaƒ Dyrektora nale˝y szczególnoÊci:
+2. Do zadań Dyrektora należy szczególności:
 
-- **1)** opracowanie rocznego planu dzia∏alnoÊci oraz rocznego planu finansowego Instytutu, a tak˝e ∏ajàcych kinematografii. wyst´powanie do ministra zwnioskami wsprawie wysokoÊci dotacji na realizacj´ zadaƒ Instytutu;
-- **3)** dofinansowywanie przedsi´wzi´ç z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji i rozpowszechniania filmów, promocji twórczoÊci filmowej oraz upowszechniania kultury filmowej, po zasi´gni´ciu opinii ekspertów wskazanych przez ministra spoÊród przedstawicieli Êrodowisk filmowych;
-- **4)** sprawowanie zarzàdu majàtkiem Instytutu;
+- **1)** opracowanie rocznego planu działalności oraz rocznego planu finansowego Instytutu, a także łających kinematografii. występowanie do ministra zwnioskami wsprawie wysokości dotacji na realizację zadań Instytutu;
+- **3)** dofinansowywanie przedsięwzięć z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji i rozpowszechniania filmów, promocji twórczości filmowej oraz upowszechniania kultury filmowej, po zasięgnięciu opinii ekspertów wskazanych przez ministra spośród przedstawicieli środowisk filmowych;
+- **4)** sprawowanie zarządu majątkiem Instytutu;
 - **5)** prowadzenie gospodarki finansowej Instytutu.
 
-3. Dyrektor mo˝e ustanawiaç stypendia i nagrody ze Êrodków Instytutu.
+3. Dyrektor może ustanawiać stypendia i nagrody ze środków Instytutu.
 
 **Art. 14.**
 
-1. Dyrektora powo∏uje minister po przeprowadzeniu konkursu. Komisj´ konkursowà powo∏uje minister, szczególnoÊci spoÊród kandydatów zg∏oszonych przez Êrodowiska filmowe, tym twórców iproducentów filmowych oraz zwiàzki zawodowe dzia∏ajàce kinematografii.
+1. Dyrektora powołuje minister po przeprowadzeniu konkursu. Komisję konkursową powołuje minister, szczególności spośród kandydatów zgłoszonych przez środowiska filmowe, tym twórców iproducentów filmowych oraz związki zawodowe działające kinematografii.
 
 2. Kadencja Dyrektora trwa 5 lat.
 
-3. Funkcj´ Dyrektora mo˝na pe∏niç nie wi´cej ni˝ przez dwie kadencje.
+3. Funkcję Dyrektora można pełnić nie więcej niż przez dwie kadencje.
 
-4. Zast´pc´ Dyrektora powo∏uje i odwo∏uje minister na wniosek Dyrektora.
+4. Zastępcę Dyrektora powołuje i odwołuje minister na wniosek Dyrektora.
 
-5. Dyrektor i jego zast´pca sà zatrudniani na podstawie powo∏ania, z tym ˝e do Dyrektora nie stosuje si´ art. 70 § 1 Kodeksu pracy.
+5. Dyrektor i jego zastępca są zatrudniani na podstawie powołania, z tym że do Dyrektora nie stosuje się art. 70 § 1 Kodeksu pracy.
 
-6. Minister mo˝e odwo∏aç Dyrektora, po zasi´gni´ciu opinii Rady, przed up∏ywem kadencji wprzypadku:
+6. Minister może odwołać Dyrektora, po zasięgnięciu opinii Rady, przed upływem kadencji wprzypadku:
 
-- **1)** dzia∏ania z naruszeniem prawa;
-- **2)** zrzeczenia si´ funkcji;
-- **3)** choroby uniemo˝liwiajàcej sprawowanie funkcji;
-- **4)** skazania prawomocnym wyrokiem za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe;
+- **1)** działania z naruszeniem prawa;
+- **2)** zrzeczenia się funkcji;
+- **3)** choroby uniemożliwiającej sprawowanie funkcji;
+- **4)** skazania prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
 - **5)** niezatwierdzenia rocznego sprawozdania finansowego Instytutu;
 - **6)** negatywnej opinii Rady zakresie, o którym mowa art. 17 ust. 1 pkt 3.
 
-7. W przypadkach, o których mowa ust. 6, minister mo˝e odwo∏aç Dyrektora równie˝ na wniosek Rady.
+7. W przypadkach, o których mowa ust. 6, minister może odwołać Dyrektora również na wniosek Rady.
 
-8. W okresie kierowania Instytutem Dyrektor nie mo˝e wykonywaç innej dzia∏alnoÊci zwiàzanej z kinematografià, a szczególnoÊci byç zatrudniony instytucjach kultury oraz podmiotach wykonujàcych dzia∏alnoÊç gospodarczà zakresie produkcji filmów idystrybucji filmów, posiadaç akcji lub udzia∏ów wtania komisji konkursowej, uwzgl´dniajàc wszczególnoÊci potrzeb´ sprawnego przeprowadzenia konkursu oraz wszechstronnej oceny kwalifikacji kandydatów.
+8. W okresie kierowania Instytutem Dyrektor nie może wykonywać innej działalności związanej z kinematografią, a szczególności być zatrudniony instytucjach kultury oraz podmiotach wykonujących działalność gospodarczą zakresie produkcji filmów idystrybucji filmów, posiadać akcji lub udziałów wtania komisji konkursowej, uwzględniając wszczególności potrzebę sprawnego przeprowadzenia konkursu oraz wszechstronnej oceny kwalifikacji kandydatów.
 
 **Art. 15.**
 
-1. Rada sk∏ada si´ z jedenastu cz∏onków powo∏ywanych na okres 3 lat przez ministra.
+1. Rada składa się z jedenastu członków powoływanych na okres 3 lat przez ministra.
 
-2. W sk∏ad Rady minister powo∏uje:
+2. W skład Rady minister powołuje:
 
-- **1)** trzech cz∏onków zg∏oszonych przez twórców filmowych;
-- **2)** jednego cz∏onka zg∏oszonego przez producentów filmowych;
-- **3)** jednego cz∏onka zg∏oszonego przez zwiàzki zawodowe dzia∏ajàce sferze kinematografii;
-- **4)** pi´ciu cz∏onków zg∏oszonych przez podmioty, o których mowa art. 19 ust. 1—5;
-- **5)** jednego cz∏onka reprezentujàcego ministra.
+- **1)** trzech członków zgłoszonych przez twórców filmowych;
+- **2)** jednego członka zgłoszonego przez producentów filmowych;
+- **3)** jednego członka zgłoszonego przez związki zawodowe działające sferze kinematografii;
+- **4)** pięciu członków zgłoszonych przez podmioty, o których mowa art. 19 ust. 1—5;
+- **5)** jednego członka reprezentującego ministra.
 
-3. Pracami Rady kieruje przewodniczàcy wybierany przez Rad´ spoÊród jej cz∏onków wg∏osowaniu tajnym, zwyk∏à wi´kszoÊcià g∏osów obecnoÊci co najmniej szeÊciu cz∏onków. Rada mo˝e czasie kadencji dokonaç, tym samym trybie, zmiany jej przewodniczàcego.
+3. Pracami Rady kieruje przewodniczący wybierany przez Radę spośród jej członków wgłosowaniu tajnym, zwykłą większością głosów obecności co najmniej sześciu członków. Rada może czasie kadencji dokonać, tym samym trybie, zmiany jej przewodniczącego.
 
-4. Nie mo˝na pe∏niç funkcji cz∏onka Rady przez wi´cej ni˝ dwie kolejno po sobie nast´pujàce kadencje.
+4. Nie można pełnić funkcji członka Rady przez więcej niż dwie kolejno po sobie następujące kadencje.
 
-5. Za pe∏nienie funkcji cz∏onka Rady nie przys∏uguje wynagrodzenie.
+5. Za pełnienie funkcji członka Rady nie przysługuje wynagrodzenie.
 
 **Art. 16.**
 
-1. Minister mo˝e odwo∏aç cz∏onka Rady przed up∏ywem kadencji przypadku:
+1. Minister może odwołać członka Rady przed upływem kadencji przypadku:
 
-- **1)** zrzeczenia si´ funkcji;
-- **2)** choroby uniemo˝liwiajàcej sprawowanie funkcji;
-- **3)** skazania prawomocnym wyrokiem za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe.
+- **1)** zrzeczenia się funkcji;
+- **2)** choroby uniemożliwiającej sprawowanie funkcji;
+- **3)** skazania prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
-2. W przypadku odwo∏ania cz∏onka Rady przed up∏ywem kadencji minister powo∏uje nowego cz∏onka Rady na okres do koƒca tej kadencji.
+2. W przypadku odwołania członka Rady przed upływem kadencji minister powołuje nowego członka Rady na okres do końca tej kadencji.
 
 **Art. 17.**
 
-1. Do zadaƒ Rady nale˝y szczególnoÊci:
+1. Do zadań Rady należy szczególności:
 
-- **1)** wytyczanie kierunków dzia∏ania Instytutu;
-- **2)** opiniowanie rocznego planu dzia∏alnoÊci oraz rocznego planu finansowego Instytutu;
-- **3)** opiniowanie rocznego sprawozdania z dzia∏alnoÊci oraz rocznego sprawozdania finansowego Instytutu; kich podmiotach, a tak˝e byç cz∏onkiem ich organów. 4) opiniowanie zmian statutu. tyczàcych Instytutu i kinematografii.
+- **1)** wytyczanie kierunków działania Instytutu;
+- **2)** opiniowanie rocznego planu działalności oraz rocznego planu finansowego Instytutu;
+- **3)** opiniowanie rocznego sprawozdania z działalności oraz rocznego sprawozdania finansowego Instytutu; kich podmiotach, a także być członkiem ich organów. 4) opiniowanie zmian statutu. tyczących Instytutu i kinematografii.
 
 **Art. 18.**
 
-1. Przychodami Instytutu sà:
+1. Przychodami Instytutu są:
 
-- **1)** dotacje podmiotowe zbud˝etu paƒstwa, przekazywane przez ministra ze Êrodków uj´tych cz´Êci bud˝etowej, której jest dysponentem;
-- **2)** przychody zeksploatacji filmów, do których autorskie prawa majàtkowe przys∏ugujà Instytutowi;
+- **1)** dotacje podmiotowe zbudżetu państwa, przekazywane przez ministra ze środków ujętych części budżetowej, której jest dysponentem;
+- **2)** przychody zeksploatacji filmów, do których autorskie prawa majątkowe przysługują Instytutowi;
 - **3)** darowizny, spadki i zapisy;
-- **4)** przychody z majàtku Instytutu;
-- **5)** Êrodki przyznawane przez ministra z Funduszu Promocji Kultury, októrym mowa wart. 47eustawy zdnia 29 lipca 1992 r. ograch izak∏adach wzajemnych (Dz. U. z 2004 r. 4, poz. 27 i 273, poz. 2703);
-- **6)** wp∏aty, o których mowa art. 19 ust. 1—5, 6 i 7;
-- **7)** przychody, o których mowa art. 27a pkt 4 oraz art. 45b ustawy z dnia 16 lipca 1987 r. o paƒstwowych instytucjach filmowych (Dz. U. z 2003 r. Nr58, poz.513 oraz z 2005 r. 132, poz. 1111).
+- **4)** przychody z majątku Instytutu;
+- **5)** środki przyznawane przez ministra z Funduszu Promocji Kultury, októrym mowa wart. 47eustawy zdnia 29 lipca 1992 r. ograch izakładach wzajemnych (Dz. U. z 2004 r. 4, poz. 27 i 273, poz. 2703);
+- **6)** wpłaty, o których mowa art. 19 ust. 1—5, 6 i 7;
+- **7)** przychody, o których mowa art. 27a pkt 4 oraz art. 45b ustawy z dnia 16 lipca 1987 r. o państwowych instytucjach filmowych (Dz. U. z 2003 r. Nr58, poz.513 oraz z 2005 r. 132, poz. 1111).
 
-2. Instytut mo˝e otrzymywaç dotacje celowe z bud˝etu paƒstwa na realizacj´ zadaƒ inwestycyjnych.
+2. Instytut może otrzymywać dotacje celowe z budżetu państwa na realizację zadań inwestycyjnych.
 
-3. Koszty dzia∏alnoÊci Instytutu pokrywane sà z przychodów, o których mowa ust. 1 pkt 1, 3 i 4.
+3. Koszty działalności Instytutu pokrywane są z przychodów, o których mowa ust. 1 pkt 1, 3 i 4.
 
 **Art. 19.**
 
-1. Podmiot prowadzàcy kino dokonuje wp∏aty na rzecz Instytutu wwysokoÊci 1,5 % przychodu uzyskanego z tytu∏u wyÊwietlania filmów i reklam kinie, przed podzia∏em z podmiotem prowadzàcym dystrybucj´.
+1. Podmiot prowadzący kino dokonuje wpłaty na rzecz Instytutu wwysokości 1,5 % przychodu uzyskanego z tytułu wyświetlania filmów i reklam kinie, przed podziałem z podmiotem prowadzącym dystrybucję.
 
-2. Podmiot prowadzàcy dystrybucj´ dokonuje wp∏aty na rzecz Instytutu wysokoÊci 1,5 % przychodu uzyskanego ze sprzeda˝y oraz wynajmu noÊników z nagranymi na nich filmami oraz z umów upowa˝niajàcych inne podmioty do takiej sprzeda˝y lub wynajmu.
+2. Podmiot prowadzący dystrybucję dokonuje wpłaty na rzecz Instytutu wysokości 1,5 % przychodu uzyskanego ze sprzedaży oraz wynajmu nośników z nagranymi na nich filmami oraz z umów upoważniających inne podmioty do takiej sprzedaży lub wynajmu.
 
-3. Nadawca programu telewizyjnego dokonuje wp∏aty na rzecz Instytutu wwysokoÊci 1,5 % przychodu uzyskanego z tytu∏u emisji reklam, telesprzeda˝y i audycji sponsorowanych albo przychodu pochodzàcego z pobranych bezpoÊrednio od abonentów op∏at za dost´p do nadawanych programów, je˝eli przychód ten danym okresie rozliczeniowym jest wy˝szy.
+3. Nadawca programu telewizyjnego dokonuje wpłaty na rzecz Instytutu wwysokości 1,5 % przychodu uzyskanego z tytułu emisji reklam, telesprzedaży i audycji sponsorowanych albo przychodu pochodzącego z pobranych bezpośrednio od abonentów opłat za dostęp do nadawanych programów, jeżeli przychód ten danym okresie rozliczeniowym jest wyższy.
 
-4. Operator platformy cyfrowej dokonuje wp∏aty na rzecz Instytutu wysokoÊci 1,5 % przychodu uzyskanego ztytu∏u przychodów pochodzàcych zop∏at za dost´p do programów telewizyjnych nadawanych lub reemitowanych na platformie cyfrowej.
+4. Operator platformy cyfrowej dokonuje wpłaty na rzecz Instytutu wysokości 1,5 % przychodu uzyskanego ztytułu przychodów pochodzących zopłat za dostęp do programów telewizyjnych nadawanych lub reemitowanych na platformie cyfrowej.
 
-5. Operator telewizji kablowej dokonuje wp∏aty na rzecz Instytutu wysokoÊci 1,5 % przychodu uzyska6. Podmiot kontrolowany ramach grupy kapita∏owej rozumieniu ustawy z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2003r. 86, poz. 804 i 170, poz. 1652 oraz z 2004r. 93, poz. 891 i 96, poz. 959) przez podmiot, októrym mowa wust. 1—5, dokonuje wp∏aty na rzecz Instytutu wysokoÊci 1,5 % przychodu uzyskanego z tytu∏ów, o których mowa ust. 1—5. W takim przypadku podmiot kontrolujàcy mo˝e od kwoty nale˝nej Instytutowi z tytu∏u, o którym mowa ust. 1—5, odliczyç, danym okresie rozliczeniowym, kwoty faktycznie wp∏acone na rzecz Instytutu z tego tytu∏u, tym samym okresie rozliczeniowym, przez podmiot kontrolowany ramach grupy kapita∏owej.
+5. Operator telewizji kablowej dokonuje wpłaty na rzecz Instytutu wysokości 1,5 % przychodu uzyska6. Podmiot kontrolowany ramach grupy kapitałowej rozumieniu ustawy z dnia 15 grudnia 2000 r. o ochronie konkurencji i konsumentów (Dz. U. z 2003r. 86, poz. 804 i 170, poz. 1652 oraz z 2004r. 93, poz. 891 i 96, poz. 959) przez podmiot, októrym mowa wust. 1—5, dokonuje wpłaty na rzecz Instytutu wysokości 1,5 % przychodu uzyskanego z tytułów, o których mowa ust. 1—5. W takim przypadku podmiot kontrolujący może od kwoty należnej Instytutowi z tytułu, o którym mowa ust. 1—5, odliczyć, danym okresie rozliczeniowym, kwoty faktycznie wpłacone na rzecz Instytutu z tego tytułu, tym samym okresie rozliczeniowym, przez podmiot kontrolowany ramach grupy kapitałowej.
 
-7. Publiczny nadawca telewizyjny jest zobowiàzany przeznaczyç na produkcj´ filmów nie mniej ni˝ 1,5% rocznych wp∏ywów zabonamentu za posiadanie odbiorników telewizyjnych. Z wykonania tego obowiàzku nadawca przekazuje Dyrektorowi roczne sprawozdanie terminie do koƒca pierwszego kwarta∏u roku kalendarzowego. W przypadku gdy kwota, o której mowa zdaniu pierwszym, nie zostanie ca∏oÊci wydatkowana na produkcj´ filmów, nadawca przekazuje Instytutowi ró˝nic´ wynikajàcà zrozliczenia wterminie 1 miesiàca po up∏ywie pierwszego kwarta∏u roku kalendarzowego.
+7. Publiczny nadawca telewizyjny jest zobowiązany przeznaczyć na produkcję filmów nie mniej niż 1,5% rocznych wpływów zabonamentu za posiadanie odbiorników telewizyjnych. Z wykonania tego obowiązku nadawca przekazuje Dyrektorowi roczne sprawozdanie terminie do końca pierwszego kwartału roku kalendarzowego. W przypadku gdy kwota, o której mowa zdaniu pierwszym, nie zostanie całości wydatkowana na produkcję filmów, nadawca przekazuje Instytutowi różnicę wynikającą zrozliczenia wterminie 1 miesiąca po upływie pierwszego kwartału roku kalendarzowego.
 
-8. Wp∏aty, októrych mowa wust. 1—5 i6, sà przekazywane okresach kwartalnych, terminie 30 dni po up∏ywie kwarta∏u.
+8. Wpłaty, októrych mowa wust. 1—5 i6, są przekazywane okresach kwartalnych, terminie 30 dni po upływie kwartału.
 
-9. Do nale˝noÊci z tytu∏u wp∏at, o których mowa ust. 1—5, 6 i 7, stosuje si´ odpowiednio przepisy dzia∏u III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2005 r. 8, poz. 60, 85, poz. 727 i 86, poz. 732), ztym ˝e uprawnienia organu podatkowego przys∏ugujà Dyrektorowi, a uprawnienia organu odwo∏awczego ministrowi.
+9. Do należności z tytułu wpłat, o których mowa ust. 1—5, 6 i 7, stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2005 r. 8, poz. 60, 85, poz. 727 i 86, poz. 732), ztym że uprawnienia organu podatkowego przysługują Dyrektorowi, a uprawnienia organu odwoławczego ministrowi.
 
-10. Wp∏aty, o których mowa ust. 1—5, 6 i 7, stanowià koszty uzyskania przychodów, rozumieniu przepisów o podatku dochodowym, dacie ich poniesienia.
+10. Wpłaty, o których mowa ust. 1—5, 6 i 7, stanowią koszty uzyskania przychodów, rozumieniu przepisów o podatku dochodowym, dacie ich poniesienia.
 
 **Art. 20.**
 
-1. Podstawà gospodarki finansowej Instytutu jest roczny plan finansowy.
+1. Podstawą gospodarki finansowej Instytutu jest roczny plan finansowy.
 
-2. Roczny plan finansowy obejmuje wszczególnoÊci:
+2. Roczny plan finansowy obejmuje wszczególności:
 
-- **1)** przychody, tym dotacje z wyodr´bnieniem ich rodzajów;
-- **2)** koszty operacyjne, wtym wydatki na wynagrodzenia i sk∏adki naliczane od wynagrodzeƒ;
-- **3)** wydatki inwestycyjne; nego ztytu∏u przychodów pochodzàcych zop∏at za do4) stan Êrodków obrotowych na poczàtek ikoniec roku obrotowego.
+- **1)** przychody, tym dotacje z wyodrębnieniem ich rodzajów;
+- **2)** koszty operacyjne, wtym wydatki na wynagrodzenia i składki naliczane od wynagrodzeń;
+- **3)** wydatki inwestycyjne; nego ztytułu przychodów pochodzących zopłat za do4) stan środków obrotowych na początek ikoniec roku obrotowego.
 
-4. Instytut prowadzi rachunkowoÊç na zasadach okreÊlonych przepisach o rachunkowoÊci.
+4. Instytut prowadzi rachunkowość na zasadach określonych przepisach o rachunkowości.
 
-5. Roczne sprawozdanie finansowe Instytutu podlega badaniu przez bieg∏ego rewidenta.
+5. Roczne sprawozdanie finansowe Instytutu podlega badaniu przez biegłego rewidenta.
 
 **Art. 21.**
 
@@ -248,144 +253,150 @@ domain: null
 
 - **1)** fundusz statutowy;
 - **2)** fundusz rezerwowy;
-- **3)** inne fundusze, je˝eli obowiàzek ich utworzenia wynika z odr´bnych przepisów.
+- **3)** inne fundusze, jeżeli obowiązek ich utworzenia wynika z odrębnych przepisów.
 
-2. Fundusz statutowy odzwierciedla wartoÊç mienia otrzymanego przez Instytut momencie utworzenia.
+2. Fundusz statutowy odzwierciedla wartość mienia otrzymanego przez Instytut momencie utworzenia.
 
-3. Fundusz statutowy zwi´ksza si´ o:
+3. Fundusz statutowy zwiększa się o:
 
-- **1)** dotacje celowe na inwestycje s∏u˝àce realizacji zadaƒ Instytutu;
-- **2)** wartoÊç mienia otrzymanego nieodp∏atnie na podstawie decyzji w∏aÊciwych organów lub na podstawie odr´bnych przepisów;
-- **3)** zysk netto, z uwzgl´dnieniem ust. 5.
+- **1)** dotacje celowe na inwestycje służące realizacji zadań Instytutu;
+- **2)** wartość mienia otrzymanego nieodpłatnie na podstawie decyzji właściwych organów lub na podstawie odrębnych przepisów;
+- **3)** zysk netto, z uwzględnieniem ust. 5.
 
-4. Fundusz statutowy zmniejsza si´ o:
+4. Fundusz statutowy zmniejsza się o:
 
-- **1)** wartoÊç mienia przekazanego nieodp∏atnie na podstawie decyzji w∏aÊciwych organów lub na podstawie odr´bnych przepisów;
-- **2)** straty netto nieznajdujàce pokrycia wfunduszu rezerwowym.
+- **1)** wartość mienia przekazanego nieodpłatnie na podstawie decyzji właściwych organów lub na podstawie odrębnych przepisów;
+- **2)** straty netto nieznajdujące pokrycia wfunduszu rezerwowym.
 
-5. Fundusz rezerwowy tworzy si´ z zysku netto. Odpis na fundusz rezerwowy nie mo˝e byç ni˝szy ni˝ 10 % zysku netto. Instytut mo˝e zaniechaç odpisu, gdy stan funduszu rezerwowego przekroczy równowartoÊç 2 % kosztów dzia∏alnoÊci Instytutu wroku obrotowym.
+5. Fundusz rezerwowy tworzy się z zysku netto. Odpis na fundusz rezerwowy nie może być niższy niż 10 % zysku netto. Instytut może zaniechać odpisu, gdy stan funduszu rezerwowego przekroczy równowartość 2 % kosztów działalności Instytutu wroku obrotowym.
 
-6. Fundusz rezerwowy przeznacza si´ na pokrycie straty netto. Rozdzia∏ 3 Dofinansowywanie przedsi´wzi´ç z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczoÊci filmowej i upowszechniania kultury filmowej
+6. Fundusz rezerwowy przeznacza się na pokrycie straty netto.
+
+#### Rozdział 3 Dofinansowywanie przedsięwzięć z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej
 
 **Art. 22.**
 
-1. Z wnioskiem o dofinansowanie przedsi´wzi´cia z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczoÊci filmowej i upowszechniania kultury filmowej, zwanego dalej „dofinansowaniem przedsi´wzi´cia”, mo˝e wystàpiç ka˝dy podmiot prowadzàcy dzia∏alnoÊç wzakreObszarze Gospodarczym, bez wzgl´du na form´ organizacyjno-prawnà oraz struktur´ w∏asnoÊci, z zastrze˝eniem ust. 2.
+1. Z wnioskiem o dofinansowanie przedsięwzięcia z zakresu przygotowania projektów filmowych, produkcji filmów, dystrybucji filmów i rozpowszechniania filmów, promocji polskiej twórczości filmowej i upowszechniania kultury filmowej, zwanego dalej Ńdofinansowaniem przedsięwzięcia”, może wystąpić każdy podmiot prowadzący działalność wzakreObszarze Gospodarczym, bez względu na formę organizacyjno-prawną oraz strukturę własności, z zastrzeżeniem ust. 2.
 
-2. Instytut nie mo˝e udzieliç dofinansowania przedsi´wzi´cia:
+2. Instytut nie może udzielić dofinansowania przedsięwzięcia:
 
-- **1)** osobie fizycznej skazanej prawomocnym wyrokiem za przest´pstwo sk∏adania fa∏szywych zeznaƒ, przekupstwa, przeciwko wiarygodnoÊci dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieni´dzmi i papierami wartoÊciowymi, systemowi bankowemu, przest´pstwo skarbowe albo inne zwiàzane z wykonywaniem dzia∏alnoÊci gospodarczej lub pope∏nione celu osiàgni´cia korzyÊci majàtkowej;
-- **2)** osobie prawnej lub jednostce organizacyjnej nieb´dàcej osobà prawnà, której osoba b´dàca cz∏onkiem jego organów zarzàdzajàcych bàdê wspólnikiem zosta∏a skazana prawomocnym wyrokiem za przest´pstwo, o którym mowa pkt 1;
+- **1)** osobie fizycznej skazanej prawomocnym wyrokiem za przestępstwo składania fałszywych zeznań, przekupstwa, przeciwko wiarygodności dokumentów, mieniu, obrotowi gospodarczemu, obrotowi pieniędzmi i papierami wartościowymi, systemowi bankowemu, przestępstwo skarbowe albo inne związane z wykonywaniem działalności gospodarczej lub popełnione celu osiągnięcia korzyści majątkowej;
+- **2)** osobie prawnej lub jednostce organizacyjnej niebędącej osobą prawną, której osoba będąca członkiem jego organów zarządzających bądê wspólnikiem została skazana prawomocnym wyrokiem za przestępstwo, o którym mowa pkt 1;
 - **3)** podmiotowi, który:
-    - **a)** posiada zaleg∏oÊci z tytu∏u nale˝noÊci publicznoprawnych lub
-    - **b)** pozostaje pod zarzàdem komisarycznym bàdê znajduje si´ toku likwidacji, post´powania upad∏oÊciowego, post´powania naprawczego, lub
-    - **c)** okresie 3 lat przed z∏o˝eniem wniosku o udzielenie dofinansowania przedsi´wzi´cia naruszy∏ wsposób istotny umow´ zawartà zInstytutem.
+    - **a)** posiada zaległości z tytułu należności publicznoprawnych lub
+    - **b)** pozostaje pod zarządem komisarycznym bądê znajduje się toku likwidacji, postępowania upadłościowego, postępowania naprawczego, lub
+    - **c)** okresie 3 lat przed złożeniem wniosku o udzielenie dofinansowania przedsięwzięcia naruszył wsposób istotny umowę zawartą zInstytutem.
 
-3. Dofinansowanie przedsi´wzi´cia udzielane jest oparciu o nast´pujàce kryteria:
+3. Dofinansowanie przedsięwzięcia udzielane jest oparciu o następujące kryteria:
 
 - **1)** walory artystyczne, poznawcze i etyczne;
-- **2)** znaczenie dla kultury narodowej oraz umacnianie tradycji polskiej i j´zyka ojczystego;
-- **3)** wzbogacenie europejskiej ró˝norodnoÊci kulturalnej;
-- **4)** przewidywane skutki planowanego przedsi´wzi´cia;
+- **2)** znaczenie dla kultury narodowej oraz umacnianie tradycji polskiej i języka ojczystego;
+- **3)** wzbogacenie europejskiej różnorodności kulturalnej;
+- **4)** przewidywane skutki planowanego przedsięwzięcia;
 - **5)** warunki ekonomiczno-finansowe realizacji.
 
 **Art. 23.**
 
-1. Dofinansowanie przedsi´wzi´cia odbywa si´ formie dotacji, a odniesieniu do przedsi´wzi´ç z zakresu przygotowania projektów filmowych i produkcji filmów równie˝ formie udzielenia po˝yczki lub por´czenia.
+1. Dofinansowanie przedsięwzięcia odbywa się formie dotacji, a odniesieniu do przedsięwzięć z zakresu przygotowania projektów filmowych i produkcji filmów również formie udzielenia pożyczki lub poręczenia.
 
-2. Dofinansowanie przedsi´wzi´cia nie mo˝e przekroczyç 50 % bud˝etu filmu, z wyjàtkiem filmów, których treÊç iforma majà charakter ambitny artystycznie i które majà ograniczone walory komercyjne lub desie kinematografii, zarówno polski, jak i z innego paƒbiutów re˝yserskich (film trudny) oraz filmów niskobud˝etowych. Wka˝dym przypadku kwota dofinansowa3. Instytut udziela dofinansowania przedsi´wzi´cia wdrodze umowy cywilnoprawnej, którà wimieniu Instytutu zawiera Dyrektor, po zasi´gni´ciu opinii ekspertów.
+2. Dofinansowanie przedsięwzięcia nie może przekroczyć 50 % budżetu filmu, z wyjątkiem filmów, których treść iforma mają charakter ambitny artystycznie i które mają ograniczone walory komercyjne lub desie kinematografii, zarówno polski, jak i z innego pańbiutów reżyserskich (film trudny) oraz filmów niskobudżetowych. Wkażdym przypadku kwota dofinansowa3. Instytut udziela dofinansowania przedsięwzięcia wdrodze umowy cywilnoprawnej, którą wimieniu Instytutu zawiera Dyrektor, po zasięgnięciu opinii ekspertów.
 
-4. Instytut jako organ udzielajàcy dofinansowania przedsi´wzi´cia zobowiàzany jest do kontroli rozliczenia przychodów ikosztów dofinansowanego przedsi´wzi´cia. Kontroli podlega równie˝ przebieg i sposób realizacji przedsi´wzi´cia oraz prawid∏owoÊç wykorzystania otrzymanego z Instytutu dofinansowania.
+4. Instytut jako organ udzielający dofinansowania przedsięwzięcia zobowiązany jest do kontroli rozliczenia przychodów ikosztów dofinansowanego przedsięwzięcia. Kontroli podlega również przebieg i sposób realizacji przedsięwzięcia oraz prawidłowość wykorzystania otrzymanego z Instytutu dofinansowania.
 
-5. Podmiot otrzymujàcy dofinansowanie przedsi´wzi´cia jest zobowiàzany, wprzypadku osiàgni´cia zysku z przedsi´wzi´cia, do zwrotu dofinansowania przedsi´wzi´cia na zasadach okreÊlonych przepisach o finansach publicznych.
+5. Podmiot otrzymujący dofinansowanie przedsięwzięcia jest zobowiązany, wprzypadku osiągnięcia zysku z przedsięwzięcia, do zwrotu dofinansowania przedsięwzięcia na zasadach określonych przepisach o finansach publicznych.
 
-6. Minister okreÊli, drodze rozporzàdzenia:
+6. Minister określi, drodze rozporządzenia:
 
-- **1)** szczegó∏owe warunki i tryb udzielania dofinansonansowania przedsi´wzi´cia.
+- **1)** szczegółowe warunki i tryb udzielania dofinansonansowania przedsięwzięcia.
 
 **Art. 27.**
 
-1. Instytut mo˝e odstàpiç od umowy o udzielenie dofinansowania przedsi´wzi´cia przypadku wykorzystania dofinansowania przedsi´wzi´cia niezgodnie z przeznaczeniem, nieterminowego lub nienale˝ytego wykonywania umowy, tym szczególnoÊci zmniejszenia zakresu obj´tego dofinansowaniem przedsi´wzi´cia stwierdzonego na podstawie wyników kontroli oraz oceny realizacji wniosków i zaleceƒ pokontrolnych.
+1. Instytut może odstąpić od umowy o udzielenie dofinansowania przedsięwzięcia przypadku wykorzystania dofinansowania przedsięwzięcia niezgodnie z przeznaczeniem, nieterminowego lub nienależytego wykonywania umowy, tym szczególności zmniejszenia zakresu objętego dofinansowaniem przedsięwzięcia stwierdzonego na podstawie wyników kontroli oraz oceny realizacji wniosków i zaleceń pokontrolnych.
 
-2. Odst´pujàc od umowy Instytut okreÊla kwot´ wykorzystanà niezgodnie z przeznaczeniem wraz zustawowymi odsetkami naliczanymi od dnia przekazania Êrodków, termin jej zwrotu oraz nazw´ i numer konta, na które powinna byç dokonana wp∏ata. Rozdzia∏ 4 wania przedsi´wzi´cia, a tak˝e istotne elementy wniosku o udzielenie dofinansowania przedsi´wzi´cia,
+2. Odstępując od umowy Instytut określa kwotę wykorzystaną niezgodnie z przeznaczeniem wraz zustawowymi odsetkami naliczanymi od dnia przekazania środków, termin jej zwrotu oraz nazwę i numer konta, na które powinna być dokonana wpłata.
 
-- **2)** istotne elementy umów cywilnoprawnych, o których mowa ust. 3 uwzgl´dniajàc koniecznoÊç realizacji celów, okreÊlonych art. 3 ust. 1, efektywnego i skutecznego wykorzystania dofinansowania przedsi´wzi´cia oraz zapewnienia przejrzystoÊci jego udzielania.
+#### Rozdział 4 wania przedsięwzięcia, a także istotne elementy wniosku o udzielenie dofinansowania przedsięwzięcia,
 
 **Art. 24.**
 
-1. Ekspertów, o których mowa art. 23 ust. 3, powo∏uje, wliczbie co najmniej 7, minister spoÊród przedstawicieli Êrodowisk filmowych oraz Êrodowisk opiniotwórczych na okres 12 miesi´cy.
+1. Ekspertów, o których mowa art. 23 ust. 3, powołuje, wliczbie co najmniej 7, minister spośród przedstawicieli środowisk filmowych oraz środowisk opiniotwórczych na okres 12 miesięcy.
 
-2. Opinie ekspertów sà sporzàdzane na piÊmie izawierajà szczegó∏owà analiz´ przedsi´wzi´cia pod kàtem kryteriów, o których mowa art. 22 ust. 3.
+2. Opinie ekspertów są sporządzane na piśmie izawierają szczegółową analizę przedsięwzięcia pod kątem kryteriów, o których mowa art. 22 ust. 3.
 
-3. Ekspert sporzàdzajàcy opini´ nie mo˝e byç wjakikolwiek sposób zwiàzany zrealizacjà analizowanego przedsi´wzi´cia.
+3. Ekspert sporządzający opinię nie może być wjakikolwiek sposób związany zrealizacją analizowanego przedsięwzięcia.
 
-**Art. 25.** Otrzymujàcy dofinansowanie przedsi´wzi´cia ma obowiàzek wykorzystaç uzyskane Êrodki zgodnie zcelem, na jaki je uzyska∏, izgodnie zumowà o dofinansowanie przedsi´wzi´cia. Dotyczy to tak˝e odsetek bankowych od uzyskanych Êrodków ramach dofinansowania przedsi´wzi´cia.
+**Art. 25.** Otrzymujący dofinansowanie przedsięwzięcia ma obowiązek wykorzystać uzyskane środki zgodnie zcelem, na jaki je uzyskał, izgodnie zumową o dofinansowanie przedsięwzięcia. Dotyczy to także odsetek bankowych od uzyskanych środków ramach dofinansowania przedsięwzięcia.
 
 **Art. 26.**
 
-1. W ramach kontroli, o których mowa art. 23 ust. 4, upowa˝nieni pracownicy Instytutu mogà badaç dokumenty iinne noÊniki informacji, które majà lub mogà mieç znaczenie dla oceny prawid∏owoÊci wykorzystania dofinansowania przedsi´wzi´cia, oraz ˝àdaç udzielenia ustnie lub na piÊmie informacji dotyczàcych wykonania obj´tego dofinansowaniem przedsi´wzi´cia.
+1. W ramach kontroli, o których mowa art. 23 ust. 4, upoważnieni pracownicy Instytutu mogą badać dokumenty iinne nośniki informacji, które mają lub mogą mieć znaczenie dla oceny prawidłowości wykorzystania dofinansowania przedsięwzięcia, oraz żądać udzielenia ustnie lub na piśmie informacji dotyczących wykonania objętego dofinansowaniem przedsięwzięcia.
 
-2. Minister okreÊli, drodze rozporzàdzenia, szczegó∏owy tryb i sposób przeprowadzania kontroli, Gromadzenie, ochrona i upowszechnianie zasobów sztuki filmowej
+2. Minister określi, drodze rozporządzenia, szczegółowy tryb i sposób przeprowadzania kontroli, Gromadzenie, ochrona i upowszechnianie zasobów sztuki filmowej
 
 **Art. 28.**
 
-1. Dzia∏alnoÊç zakresie ochrony narodowego dziedzictwa kulturalnego wdziedzinie kinematografii prowadzi Filmoteka Narodowa oraz filmoteki regionalne.
+1. Działalność zakresie ochrony narodowego dziedzictwa kulturalnego wdziedzinie kinematografii prowadzi Filmoteka Narodowa oraz filmoteki regionalne.
 
-2. Do zadaƒ Filmoteki Narodowej nale˝y szczególnoÊci:
+2. Do zadań Filmoteki Narodowej należy szczególności:
 
 - **1)** gromadzenie i zabezpieczanie:
-    - **a)** materia∏ów negatywowych, kopii wzorcowych oraz innych archiwalnych kopii filmowych filmów polskich,
-    - **b)** archiwalnych kopii filmowych filmów nieb´dàcych filmami polskimi, je˝eli filmy te majà istotne znaczenie dla polskiej kultury, nauki lub ˝ycia spo∏ecznego;
+    - **a)** materiałów negatywowych, kopii wzorcowych oraz innych archiwalnych kopii filmowych filmów polskich,
+    - **b)** archiwalnych kopii filmowych filmów niebędących filmami polskimi, jeżeli filmy te mają istotne znaczenie dla polskiej kultury, nauki lub życia społecznego;
 
 - **2)** wypracowywanie metodologii archiwizacji filmów polskich i polskiej dokumentacji historyczno-filmowej;
-- **3)** gromadzenie iarchiwizacja dokumentacji dotyczàcej produkcji filmów i rozpowszechniania filmów;
-- **4)** upowszechnianie kultury filmowej, tym udost´pnianie zasobów sztuki filmowej;
-- **5)** gromadzenie zbiorów bibliotecznych oraz eksponatów dotyczàcych historii filmu i kinematografii;
-- **6)** prowadzenie katalogu dzie∏ filmowych;
-- **7)** wspó∏praca z krajowymi i zagranicznymi podmiotami;
-- **8)** dzia∏alnoÊç kulturalno-oÊwiatowa oraz wydawnicza.
+- **3)** gromadzenie iarchiwizacja dokumentacji dotyczącej produkcji filmów i rozpowszechniania filmów;
+- **4)** upowszechnianie kultury filmowej, tym udostępnianie zasobów sztuki filmowej;
+- **5)** gromadzenie zbiorów bibliotecznych oraz eksponatów dotyczących historii filmu i kinematografii;
+- **6)** prowadzenie katalogu dzieł filmowych;
+- **7)** współpraca z krajowymi i zagranicznymi podmiotami;
+- **8)** działalność kulturalno-oświatowa oraz wydawnicza.
 
-3. Filmoteka Narodowa udost´pnia Instytutowi zgromadzone materia∏y filmowe, tym materia∏y wyjÊciowe i promocyjne, celu wykorzystania ich do
+3. Filmoteka Narodowa udostępnia Instytutowi zgromadzone materiały filmowe, tym materiały wyjściowe i promocyjne, celu wykorzystania ich do
 
-4. Samorzàdy lokalne mogà tworzyç filmoteki regionalne formie samorzàdowych instytucji kultury rozumieniu ustawy z dnia 25 paêdziernika 1991 r. o organizowaniu i prowadzeniu dzia∏alnoÊci kulturalnej (Dz. U. z 2001 r. 13, poz. 123, z póên. zm. ). Zakres dzia∏ania filmotek regionalnych okreÊla ust. 2, ze szczególnym uwzgl´dnieniem dziedzictwa kulturalnego kinematografii regionie.
+4. Samorządy lokalne mogą tworzyć filmoteki regionalne formie samorządowych instytucji kultury rozumieniu ustawy z dnia 25 paêdziernika 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. 13, poz. 123, z póên. zm. ). Zakres działania filmotek regionalnych określa ust. 2, ze szczególnym uwzględnieniem dziedzictwa kulturalnego kinematografii regionie.
 
-5. Do dzia∏alnoÊci Filmoteki Narodowej i filmotek regionalnych zakresie paƒstwowego zasobu archiwalnego, okreÊlonej wust. 2 pkt 1—3, stosuje si´ ustaw´ zdnia 14 lipca 1983 r. onarodowym zasobie archiwalnym iarchiwach (Dz. U. z2002 r. 171, poz. 1396, z póên. zm. ).
+5. Do działalności Filmoteki Narodowej i filmotek regionalnych zakresie państwowego zasobu archiwalnego, określonej wust. 2 pkt 1—3, stosuje się ustawę zdnia 14 lipca 1983 r. onarodowym zasobie archiwalnym iarchiwach (Dz. U. z2002 r. 171, poz. 1396, z póên. zm. ).
 
-**Art. 29.** Filmoteka Narodowa otrzymuje na swojà dzia∏alnoÊç dotacj´ bud˝etowà. Przychodami Filmoteki Narodowej sà tak˝e przychody zdystrybucji filmów, do których przys∏ugujà jej autorskie prawa majàtkowe oraz op∏aty wynikajàce ze Êwiadczonych us∏ug.
+**Art. 29.** Filmoteka Narodowa otrzymuje na swoją działalność dotację budżetową. Przychodami Filmoteki Narodowej są także przychody zdystrybucji filmów, do których przysługują jej autorskie prawa majątkowe oraz opłaty wynikające ze świadczonych usług.
 
-**Art. 30.** Producent filmu przekazuje nieodp∏atnie Filmotece Narodowej jeden egzemplarz nieeksploatowanej kopii ka˝dego wyprodukowanego filmu oraz materia∏y dokumentacyjne zwiàzane z produkcjà filmu, szczególnoÊci scenariusz, list´ monta˝owà i dialogowà, fotosy, plakaty, list´ napisów i materia∏y reklamowe terminie 30 dni po zakoƒczeniu produkcji, nie póêniej jednak ni˝ dniu rozpocz´cia dystrybucji filmu. Rozdzia∏ 5 Zmiany przepisach obowiàzujàcych
+**Art. 30.** Producent filmu przekazuje nieodpłatnie Filmotece Narodowej jeden egzemplarz nieeksploatowanej kopii każdego wyprodukowanego filmu oraz materiały dokumentacyjne związane z produkcją filmu, szczególności scenariusz, listę montażową i dialogową, fotosy, plakaty, listę napisów i materiały reklamowe terminie 30 dni po zakończeniu produkcji, nie póêniej jednak niż dniu rozpoczęcia dystrybucji filmu.
 
-**Art. 31.** Wustawie zdnia 16 lipca 1987 r. okinematografii (Dz. U. z2003 r. 58, poz. 513) wprowadza si´ nast´pujàce zmiany:
+#### Rozdział 5 Zmiany przepisach obowiązujących
 
-**Art. 32.** W ustawie z dnia 25 paêdziernika 1991 r. o organizowaniu i prowadzeniu dzia∏alnoÊci kulturalnej (Dz. U. z2001 r. 13, poz. 123, zpóên. zm. Rozdzia∏ 6 Przepisy przejÊciowe i dostosowujàce
+**Art. 31.** Wustawie zdnia 16 lipca 1987 r. okinematografii (Dz. U. z2003 r. 58, poz. 513) wprowadza się następujące zmiany:
 
-**Art. 34.** Zdniem wejÊcia ustawy w˝ycie podlegajà umorzeniu post´powania sprawie stwierdzenia kwalifikacji do wykonywania zawodów filmowych, prowadzone na podstawie ustawy, o której mowa art. 31.
+**Art. 32.** W ustawie z dnia 25 paêdziernika 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z2001 r. 13, poz. 123, zpóên. zm.
+
+#### Rozdział 6 Przepisy przejściowe i dostosowujące
+
+**Art. 34.** Zdniem wejścia ustawy wżycie podlegają umorzeniu postępowania sprawie stwierdzenia kwalifikacji do wykonywania zawodów filmowych, prowadzone na podstawie ustawy, o której mowa art. 31.
 
 **Art. 35.**
 
-1. WierzytelnoÊci paƒstwowych instytucji filmowych, stosunku do których toczy si´ post´powanie likwidacyjne lub upad∏oÊciowe, wymagalne dniu wejÊcia ustawy ˝ycie z tym dniem stajà si´ nieodp∏atnie mieniem Instytutu.
+1. Wierzytelności państwowych instytucji filmowych, stosunku do których toczy się postępowanie likwidacyjne lub upadłościowe, wymagalne dniu wejścia ustawy życie z tym dniem stają się nieodpłatnie mieniem Instytutu.
 
-2. WierzytelnoÊci Skarbu Paƒstwa wobec paƒstwowych instytucji filmowych z tytu∏u odp∏atnego ) art.2 otrzymuje brzmienie: „Art. 2. Formami organizacyjnymi dzia∏alnoÊci kulturalnej sà szczególnoÊci: teatry, opery, operetki, filharmonie, orkiestry, instytucje filmowe, kina, muzea, biblioteki, domy kultury, ogniska artystyczne, galerie sztuki oraz oÊrodki badaƒ i dokumentacji ró˝nych dziedzinach kultury.”.
+2. Wierzytelności Skarbu Państwa wobec państwowych instytucji filmowych z tytułu odpłatnego ) art.2 otrzymuje brzmienie: ŃArt. 2. Formami organizacyjnymi działalności kulturalnej są szczególności: teatry, opery, operetki, filharmonie, orkiestry, instytucje filmowe, kina, muzea, biblioteki, domy kultury, ogniska artystyczne, galerie sztuki oraz ośrodki badań i dokumentacji różnych dziedzinach kultury.”.
 
-**Art. 33.** W ustawie z dnia 29 lipca 1992 r. o grach i zak∏adach wzajemnych (Dz. U. z 2004 r. 4, poz. 27 iNr 273, poz. 2703) wart. 47ewprowadza si´ nast´pujàce zmiany:
+**Art. 33.** W ustawie z dnia 29 lipca 1992 r. o grach i zakładach wzajemnych (Dz. U. z 2004 r. 4, poz. 27 iNr 273, poz. 2703) wart. 47ewprowadza się następujące zmiany:
 
-**Art. 36.** Rozporzàdzenie wydane na podstawie art.22 ust. 5 ustawy, o której mowa art. 31, zachowuje moc do czasu wydania rozporzàdzenia na podstawie art. 22 ust. 5 ustawy, o której mowa art. 31, brzmieniu nadanym niniejszà ustawà.
+**Art. 36.** Rozporządzenie wydane na podstawie art.22 ust. 5 ustawy, o której mowa art. 31, zachowuje moc do czasu wydania rozporządzenia na podstawie art. 22 ust. 5 ustawy, o której mowa art. 31, brzmieniu nadanym niniejszą ustawą.
 
 **Art. 37.**
 
-1. Pierwszego Dyrektora minister powo∏uje na okres do czasu powo∏ania Dyrektora trybie art. 14 ust. 1, nie d∏u˝szy ni˝ 6 miesi´cy od dnia wejÊcia niniejszej ustawy ˝ycie.
+1. Pierwszego Dyrektora minister powołuje na okres do czasu powołania Dyrektora trybie art. 14 ust. 1, nie dłuższy niż 6 miesięcy od dnia wejścia niniejszej ustawy życie.
 
-2. Okresu pe∏nienia funkcji Dyrektora, o którym mowa ust. 1, nie zalicza si´ na poczet kadencji, o których mowa art. 14 ust. 2 i 3. ——————— Art. 38. Z dniem wejÊcia ˝ycie ustawy samorzàdowe instytucje filmowe, utworzone na podstawie ustawy z dnia 16 lipca 1987 r. o kinematografii, stajà si´ samorzàdowymi instytucjami kultury rozumieniu ustawy z dnia 25 paêdziernika 1991 r. o organizowaniu i prowadzeniu dzia∏alnoÊci kulturalnej. mieniu ustawy zdnia 25 paêdziernika 1991 r. oorganizo- o której mowa art. 38. waniu iprowadzeniu dzia∏alnoÊci kulturalnej.
+2. Okresu pełnienia funkcji Dyrektora, o którym mowa ust. 1, nie zalicza się na poczet kadencji, o których mowa art. 14 ust. 2 i 3. ——————— Art. 38. Z dniem wejścia życie ustawy samorządowe instytucje filmowe, utworzone na podstawie ustawy z dnia 16 lipca 1987 r. o kinematografii, stają się samorządowymi instytucjami kultury rozumieniu ustawy z dnia 25 paêdziernika 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej. mieniu ustawy zdnia 25 paêdziernika 1991 r. oorganizo- o której mowa art. 38. waniu iprowadzeniu działalności kulturalnej.
 
-6. Samorzàdowa instytucja kultury, o której mowa
+6. Samorządowa instytucja kultury, o której mowa
 
-2. Organizator, o którym mowa ust. 1, termi- wart. 38, wst´puje we wszystkie stosunki prawne, któnie 30 dni od dnia wejÊcia ˝ycie ustawy nada statut rych podmiotem by∏a samorzàdowa instytucja filmosamorzàdowej instytucji kultury, o której mowa wa, o której mowa ust. 1, bez wzgl´du na charakter art.38. prawny tych stosunków.
+2. Organizator, o którym mowa ust. 1, termi- wart. 38, wstępuje we wszystkie stosunki prawne, któnie 30 dni od dnia wejścia życie ustawy nada statut rych podmiotem była samorządowa instytucja filmosamorządowej instytucji kultury, o której mowa wa, o której mowa ust. 1, bez względu na charakter art.38. prawny tych stosunków.
 
-3. Organy samorzàdowej instytucji filmowej, októ- Rozdzia∏ 7 rej mowa ust. 1, pe∏nià funkcj´ do czasu powo∏ania organów zarzàdzajàcych samorzàdowej instytucji kul- Przepis koƒcowy tury, o której mowa art. 38, nie d∏u˝ej ni˝ przez 3miesiàce od dnia wejÊcia ˝ycie ustawy. Art. 40.Ustawa wchodzi w˝ycie po up∏ywie 30 dni od dnia og∏oszenia, z wyjàtkiem art. 19 oraz art. 31
+3. Organy samorządowej instytucji filmowej, októ- Rozdział 7 rej mowa ust. 1, pełnią funkcję do czasu powołania organów zarządzających samorządowej instytucji kul- Przepis końcowy tury, o której mowa art. 38, nie dłużej niż przez 3miesiące od dnia wejścia życie ustawy. Art. 40.Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 19 oraz art. 31
 
-4. Pracownicy samorzàdowej instytucji filmowej, pkt23 zakresie art. 45b, które wchodzà ˝ycie októrej mowa wust. 1, stajà si´, zdniem wejÊcia w˝y- z dniem 1 stycznia 2006 r. cie ustawy, pracownikami samorzàdowej instytucji kultury, o której mowa art. 38. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski Na podstawie art. 13 ust. 7 ustawy z dnia rych odpowiednio naczelnicy i dyrektorzy sà w∏aÊciwi 23 stycznia 2004 r. o podatku akcyzowym (Dz. U. do wykonywania zadaƒ zakresie akcyzy na teryto29, poz. 257 i 68, poz. 623) zarzàdza si´, co na- rium kraju (Dz. U. 82, poz. 751 i 277, poz. 2749) st´puje: za∏àczniku wprowadza si´ nast´pujàce zmiany: § 1. W rozporzàdzeniu Ministra Finansów z dnia 1) lp. IV: 19kwietnia 2004 r. sprawie wykazu i terytorialnego zasi´gu dzia∏ania urz´dów celnych i izb celnych, któ- a) pkt 1 i 2 otrzymujà brzmienie: 1112 ROZPORZÑDZENIE MINISTRA FINANSÓW z dnia 12 lipca 2005 r. zmieniajàce rozporzàdzenie sprawie wykazu i terytorialnego zasi´gu dzia∏ania urz´dów celnych i izb celnych, których odpowiednio naczelnicy i dyrektorzy sà w∏aÊciwi do wykonywania zadaƒ zakresie akcyzy na terytorium kraju
+4. Pracownicy samorządowej instytucji filmowej, pkt23 zakresie art. 45b, które wchodzą życie októrej mowa wust. 1, stają się, zdniem wejścia wży- z dniem 1 stycznia 2006 r. cie ustawy, pracownikami samorządowej instytucji kultury, o której mowa art. 38. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski Na podstawie art. 13 ust. 7 ustawy z dnia rych odpowiednio naczelnicy i dyrektorzy są właściwi 23 stycznia 2004 r. o podatku akcyzowym (Dz. U. do wykonywania zadań zakresie akcyzy na teryto29, poz. 257 i 68, poz. 623) zarządza się, co na- rium kraju (Dz. U. 82, poz. 751 i 277, poz. 2749) stępuje: załączniku wprowadza się następujące zmiany: § 1. W rozporządzeniu Ministra Finansów z dnia 1) lp. IV: 19kwietnia 2004 r. sprawie wykazu i terytorialnego zasięgu działania urzędów celnych i izb celnych, któ- a) pkt 1 i 2 otrzymują brzmienie: 1112 ROZPORZÑDZENIE MINISTRA FINANSÓW z dnia 12 lipca 2005 r. zmieniające rozporządzenie sprawie wykazu i terytorialnego zasięgu działania urzędów celnych i izb celnych, których odpowiednio naczelnicy i dyrektorzy są właściwi do wykonywania zadań zakresie akcyzy na terytorium kraju
 
-1. Urzàd Celny Katowicach powiaty: b´dziƒski, bieruƒsko-l´dziƒski, miko∏owski, gmina O˝arowice z powiatu tarnogórskiego oraz miasta: Chorzów, Dàbrowa Górnicza, Jaworzno, Katowice, Mys∏owice, Siemianowice Âlàskie, Sosnowiec, Tychy
+1. Urząd Celny Katowicach powiaty: będziński, bieruńsko-lędziński, mikołowski, gmina Ożarowice z powiatu tarnogórskiego oraz miasta: Chorzów, Dąbrowa Górnicza, Jaworzno, Katowice, Mysłowice, Siemianowice Âląskie, Sosnowiec, Tychy
 
-2. Urzàd Celny Gliwicach powiaty: gliwicki, raciborski, rybnicki, tarnogórski zwy∏àczeniem gminy O˝arowice, wodzis∏awski, gmina Paw∏owice z powiatu pszczyƒskiego oraz miasta: Bytom, Gliwice, Jastrz´bie-Zdrój, Piekary Âlàskie, Ruda Âlàska, Rybnik, Âwi´toch∏owice, Zabrze, ˚ory ———————
+2. Urząd Celny Gliwicach powiaty: gliwicki, raciborski, rybnicki, tarnogórski zwyłączeniem gminy Ożarowice, wodzisławski, gmina Pawłowice z powiatu pszczyńskiego oraz miasta: Bytom, Gliwice, Jastrzębie-Zdrój, Piekary Âląskie, Ruda Âląska, Rybnik, Âwiętochłowice, Zabrze, ˚ory ———————
 
 

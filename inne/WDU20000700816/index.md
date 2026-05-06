@@ -25,39 +25,39 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000700816) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/816/text.pdf) |
 
 USTAWA zdnia 26 maja 2000 r.
-ozmianie ustawy ograch losowych izak∏adach wzajemnych oraz ozmianie niektórych innych ustaw.
+ozmianie ustawy ograch losowych izakładach wzajemnych oraz ozmianie niektórych innych ustaw.
 
-**Art. 1.** Wustawie zdnia 29 lipca 1992 r. ograch lo- i 160, poz. 1061 oraz z 2000 r. 9, poz. 117) wpro„ograch losowych, zak∏adach wzajemnych igrach na automatach”;
+**Art. 1.** Wustawie zdnia 29 lipca 1992 r. ograch lo- i 160, poz. 1061 oraz z 2000 r. 9, poz. 117) wproŃograch losowych, zakładach wzajemnych igrach na automatach”;
 
 **Art. 46.**
 
-1. Podmioty prowadzàce dzia∏alnoÊç zakresie gier losowych, zak∏adów wzajemnych lub gier na automatach prowadzà ksi´gi rachunkowe wed∏ug zasad przewidzianych przepisami o rachunkowoÊci.
+1. Podmioty prowadzące działalność zakresie gier losowych, zakładów wzajemnych lub gier na automatach prowadzą księgi rachunkowe według zasad przewidzianych przepisami o rachunkowości.
 
-2. Przepis ust. 1 nie dotyczy osób fizycznych i spó∏ek cywilnych osób fizycznych urzàdzajàcych gry losowe, o których mowa art. 6 ust. 1, chyba ˝e zodr´bnych przepisów wynika dla nich obowiàzek prowadzenia ksiàg rachunkowych.
+2. Przepis ust. 1 nie dotyczy osób fizycznych i spółek cywilnych osób fizycznych urządzających gry losowe, o których mowa art. 6 ust. 1, chyba że zodrębnych przepisów wynika dla nich obowiązek prowadzenia ksiąg rachunkowych.
 
-3. Minister w∏aÊciwy do spraw finansów publicznych okreÊla, drodze rozporzàdzenia, warunki prowadzenia ewidencji celu ustalenia podstawy opodatkowania i obliczania wysokoÊci podatku od gier.”;
+3. Minister właściwy do spraw finansów publicznych określa, drodze rozporządzenia, warunki prowadzenia ewidencji celu ustalenia podstawy opodatkowania i obliczania wysokości podatku od gier.”;
 
 - **41)** wart. 48:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister w∏aÊciwy do spraw finansów publicznych sprawuje nadzór i kontrol´ nad dzia∏alnoÊcià podmiotów urzàdzajàcych i prowadzàcych gry losowe, zak∏ady wzajemne lub gry na automatach zakresie zgodnoÊci tej dzia∏alnoÊci zprzepisami ustawe, zak∏ady wzajemne lub gry na automatach.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister w∏aÊciwy do spraw finansów publicznych sprawuje równie˝ szczególny nadzór podatkowy zwiàzany z kontrolà obliczania rezultatów gry na sto∏ach i na automatach.”;
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Minister właściwy do spraw finansów publicznych sprawuje nadzór i kontrolę nad działalnością podmiotów urządzających i prowadzących gry losowe, zakłady wzajemne lub gry na automatach zakresie zgodności tej działalności zprzepisami ustawe, zakłady wzajemne lub gry na automatach.”,
+    - **b)** ust. 3 otrzymuje brzmienie: Ń3. Minister właściwy do spraw finansów publicznych sprawuje również szczególny nadzór podatkowy związany z kontrolą obliczania rezultatów gry na stołach i na automatach.”;
 
 - **42)** wart. 49:
-    - **a)** wust. 1 wpkt 1 wyrazy „gry lub zak∏adu” zast´puje si´ wyrazami „gier losowych, zak∏adów wzajemnych lub gier na automatach”,
-    - **b)** ust. 2 otrzymuje brzmienie: „2. Przy dokonywaniu czynnoÊci nadzorczych ikontrolnych, októrych mowa wust. 1, stosuje si´ odpowiednio przepisy o kontroli skarbowej.”;
+    - **a)** wust. 1 wpkt 1 wyrazy Ńgry lub zakładu” zastępuje się wyrazami Ńgier losowych, zakładów wzajemnych lub gier na automatach”,
+    - **b)** ust. 2 otrzymuje brzmienie: Ń2. Przy dokonywaniu czynności nadzorczych ikontrolnych, októrych mowa wust. 1, stosuje się odpowiednio przepisy o kontroli skarbowej.”;
 
-- **43)** art. 51 otrzymuje brzmienie: „Art. 51. Wramach sprawowanego nadzoru ikontroli minister w∏aÊciwy do spraw finansów publicznych, drodze rozporzàdzenia, mo˝e: na∏o˝yç obowiàzek prowadzenia ewidencji i obs∏ugi kasowej wszystkich gier losowych, zak∏adów wzajemnych i gier na automatach na szczególnych zasadach; szczególnoÊci mo˝e ustaliç procedur´ zwiàzanà z otwarciem i zamkni´ciem sto∏ów gry kasynach gry oraz obliczaniem rezultatów gry na sto∏ach ina automatach, tam gdzie si´ one znajdujà,
-- **2)** okreÊlaç szczególne zasady prowadzenia rachunkowoÊci odnoszàce si´ do wszystkich gier losowych, zak∏adów wzajemnych igier na automatach oraz okreÊlaç warunki zwiàzane ze sta∏à kontrolà rachunkowoÊci prowadzonej przez podmioty urzàdzajàce gry, awszczególnoÊci obowiàzek sk∏adania okresowych sprawozdaƒ rachunkowych,
-- **3)** szczegó∏owo okreÊlaç obowiàzki iograniczenia niezb´dne do zagwarantowania skutecznoÊci nadzoru wynikajàcego zprzepisów ustawy,
-- **4)** okreÊliç zasady ewidencjonowania napiwków wkasynach gry.”;
+- **43)** art. 51 otrzymuje brzmienie: ŃArt. 51. Wramach sprawowanego nadzoru ikontroli minister właściwy do spraw finansów publicznych, drodze rozporządzenia, może: nałożyć obowiązek prowadzenia ewidencji i obsługi kasowej wszystkich gier losowych, zakładów wzajemnych i gier na automatach na szczególnych zasadach; szczególności może ustalić procedurę związaną z otwarciem i zamknięciem stołów gry kasynach gry oraz obliczaniem rezultatów gry na stołach ina automatach, tam gdzie się one znajdują,
+- **2)** określać szczególne zasady prowadzenia rachunkowości odnoszące się do wszystkich gier losowych, zakładów wzajemnych igier na automatach oraz określać warunki związane ze stałą kontrolą rachunkowości prowadzonej przez podmioty urządzające gry, awszczególności obowiązek składania okresowych sprawozdań rachunkowych,
+- **3)** szczegółowo określać obowiązki iograniczenia niezbędne do zagwarantowania skuteczności nadzoru wynikającego zprzepisów ustawy,
+- **4)** określić zasady ewidencjonowania napiwków wkasynach gry.”;
 - **44)** wart. 52:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Minister w∏aÊciwy do spraw finansów publicznych wydaje wformie decyzji polecenie usuni´cia nieprawid∏owoÊci razie stwier2) uchybia przepisom regulaminów.”,
-    - **b)** wust. 2 wpkt 2 kropk´ zast´puje si´ przecinkiem idodaje si´ pkt 3 wbrzmieniu: „3) zawieszenia prowadzonej dzia∏alnoÊci przez okres d∏u˝szy ni˝ 3 miesiàce,chyba ˝e zawieszenie takie jest nast´pstwem dzia∏ania si∏y wy˝szej.”;
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Minister właściwy do spraw finansów publicznych wydaje wformie decyzji polecenie usunięcia nieprawidłowości razie stwier2) uchybia przepisom regulaminów.”,
+    - **b)** wust. 2 wpkt 2 kropkę zastępuje się przecinkiem idodaje się pkt 3 wbrzmieniu: Ń3) zawieszenia prowadzonej działalności przez okres dłuższy niż 3 miesiące,chyba że zawieszenie takie jest następstwem działania siły wyższej.”;
 
-- **45)** u˝yte ustawie ró˝nych przypadkach wyrazy „Minister Finansów” zast´puje si´ u˝ytymi odpowiednich przypadkach wyrazami „minister w∏aÊciwy do spraw finansów publicznych”.
+- **45)** użyte ustawie różnych przypadkach wyrazy ŃMinister Finansów” zastępuje się użytymi odpowiednich przypadkach wyrazami Ńminister właściwy do spraw finansów publicznych”.
 
-**Art. 2.** Wustawie zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176,Nr 22, poz. 270i 60, poz. 703) wart. 21 wust. 1 pkt 6 otrzymuje brzmienie: „6) wygrane grach losowych, zak∏adach wzajemnych lub grach na automatach urzàdzanych iprowadzonych na podstawie przepisów o grach losowych, zak∏adach wzajemnych
+**Art. 2.** Wustawie zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176,Nr 22, poz. 270i 60, poz. 703) wart. 21 wust. 1 pkt 6 otrzymuje brzmienie: Ń6) wygrane grach losowych, zakładach wzajemnych lub grach na automatach urządzanych iprowadzonych na podstawie przepisów o grach losowych, zakładach wzajemnych
 
-**Art. 3.** Wustawie zdnia 28 wrzeÊnia 1991 r. okon- 48, poz. 550 i 62, poz. 718) wart. 8 wust. 2 pkt 6 troli skarbowej (Dz. U. z1999 r. 54, poz. 572 iNr 83, otrzymuje brzmienie: poz. 931) wprowadza si´ nast´pujàce zmiany: „6) gry losowe, zak∏ady wzajemne igry na automawart. 35bpo ust. 1 dodaje si´ ust. 1awbrzmieniu: tach,”. „1a. Szczególny nadzór podatkowy obejmuje równie˝ kontrol´ zwiàzanà zotwarciem iza- Art. 5. Przepisy art. 25 i38 ust.1 ustawy zmienianej mkni´ciem sto∏ów gry wkasynach gry oraz wart. 1 dotyczà spó∏ek ubiegajàcych si´ ozezwolenie obliczaniem rezultatów gier na sto∏ach ina na prowadzenie dzia∏alnoÊci wzakresie gier losowych, automatach, tam gdzie si´ one znajdujà.”; zak∏adów wzajemnych lub gier na automatach po dniu wejÊcia ˝ycie ustawy i obowiàzujà od dnia z∏o˝enia
+**Art. 3.** Wustawie zdnia 28 września 1991 r. okon- 48, poz. 550 i 62, poz. 718) wart. 8 wust. 2 pkt 6 troli skarbowej (Dz. U. z1999 r. 54, poz. 572 iNr 83, otrzymuje brzmienie: poz. 931) wprowadza się następujące zmiany: Ń6) gry losowe, zakłady wzajemne igry na automawart. 35bpo ust. 1 dodaje się ust. 1awbrzmieniu: tach,”. Ń1a. Szczególny nadzór podatkowy obejmuje również kontrolę związaną zotwarciem iza- Art. 5. Przepisy art. 25 i38 ust.1 ustawy zmienianej mknięciem stołów gry wkasynach gry oraz wart. 1 dotyczą spółek ubiegających się ozezwolenie obliczaniem rezultatów gier na stołach ina na prowadzenie działalności wzakresie gier losowych, automatach, tam gdzie się one znajdują.”; zakładów wzajemnych lub gier na automatach po dniu wejścia życie ustawy i obowiązują od dnia złożenia
 
-**Art. 1.** Wyra˝a si´ zgod´ na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Protoko∏u poprawek do Europejskiej konwencji otelewizji ponadArt. 2. Ustawa wchodzi ˝ycie po up∏ywie 14 dni od dnia og∏oszenia. 817 USTAWA zdnia 29 czerwca 2000 r. oratyfikacji Protoko∏u poprawek do Europejskiej konwencji otelewizji ponadgranicznej.
+**Art. 1.** Wyraża się zgodę na dokonanie przez Prezydenta Rzeczypospolitej Polskiej ratyfikacji Protokołu poprawek do Europejskiej konwencji otelewizji ponadArt. 2. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. 817 USTAWA zdnia 29 czerwca 2000 r. oratyfikacji Protokołu poprawek do Europejskiej konwencji otelewizji ponadgranicznej.
 

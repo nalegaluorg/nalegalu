@@ -26,34 +26,34 @@ domain: null
 
 2) uchyla 160;
 161 uchyla § 5.
-3. W ustawie dnia 30 sierpnia 2002 Prawo o post´powaniu przed sàdami administracyjnymi 153, 1270) 287 brzmienie: „Art. 287. W przypadku gdy sàd orzeczeniu:
-1) uchyli zaskar˝onà decyzj´, a organ rozpatrujàc spraw´ ponownie umorzy post´powanie,
-2) stwierdzi niewa˝noÊç aktu albo ustali przeszkod´ prawnà uniemo˝liwiajàcà stwierdzenie niewa˝noÊci aktu, stronie, która ponios∏a szkod´, s∏u˝y odszkodowanie od organu, który wyda∏ decyzj´.”.
-„§ 1. Do odszkodowania stosuje przepisy Kodeksu cywilnego.”.
-5. Do zdarzeƒ stanów prawnych powsta∏ych przed dniem wejÊcia w˝ycie niniejszej ustawy stosuje przepisy 417, 419, 420, 420 , art.420 iart. 421 ustawy, októrej mowa wart. 1, oraz 153, 160 161 § 5 ustawy, o której mowa 2, brzmieniu obowiàzujàcym do dnia wejÊcia ˝ycie niniejszej ustawy.
-6. Ustawa wchodzi w˝ycie zdniem 1 wrzeÊnia 2004 Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+3. W ustawie dnia 30 sierpnia 2002 Prawo o postępowaniu przed sądami administracyjnymi 153, 1270) 287 brzmienie: ŃArt. 287. W przypadku gdy sąd orzeczeniu:
+1) uchyli zaskarżoną decyzję, a organ rozpatrując sprawę ponownie umorzy postępowanie,
+2) stwierdzi nieważność aktu albo ustali przeszkodę prawną uniemożliwiającą stwierdzenie nieważności aktu, stronie, która poniosła szkodę, służy odszkodowanie od organu, który wydał decyzję.”.
+Ń§ 1. Do odszkodowania stosuje przepisy Kodeksu cywilnego.”.
+5. Do zdarzeń stanów prawnych powstałych przed dniem wejścia wżycie niniejszej ustawy stosuje przepisy 417, 419, 420, 420 , art.420 iart. 421 ustawy, októrej mowa wart. 1, oraz 153, 160 161 § 5 ustawy, o której mowa 2, brzmieniu obowiązującym do dnia wejścia życie niniejszej ustawy.
+6. Ustawa wchodzi wżycie zdniem 1 września 2004 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 USTAWA dnia 17 czerwca 2004 o zmianie ustawy o zwalczaniu nieuczciwej konkurencji oraz ustawy o kredycie konsumenckim
-1.Wustawie zdnia 16 kwietnia 1993 ozwalczaniu nieuczciwej konkurencji z2003 153, 1503 oraz z2004 96, 959) wprowadza nast´pujàce zmiany:
-1) 3 ust. 2 brzmienie: „2. Czynami nieuczciwej konkurencji sà szczególnoÊci: wprowadzajàce b∏àd oznaczenie przedsi´biorstwa, fa∏szywe lub oszukaƒcze oznaczenie pochodzenia geograficznego towarów albo us∏ug, wprowadzajàce b∏àd oznaczenie towarów lub us∏ug, naruszenie tajemnicy przedsi´biorstwa, nak∏anianie do rozwiàzania lub niewykonania umowy, naÊladownictwo produktów, pomawianie lub nieuczciwe zachwalanie, utrudnianie dost´pu do rynku, przekupstwo osoby pe∏niàcej funkcj´ winowej oraz prowadzenie lub organizowanie dzia∏alnoÊci systemie konsorcyjnym.”;
-2) po 17d dodaje 17e brzmieniu: „Art. 17e. 1. Czynem nieuczciwej konkurencji jest prowadzenie dzia∏alnoÊci gospodarczej polegajàcej na zarzàdzaniu mieniem gromadzonym wramach grupy zudzia∏em konsumentów utworzonej celu finansowania zakupu praw, rzeczy ruchomych, nieruchomoÊci lub us∏ug na rzecz uczestników grupy (system konsorcyjny).
-2. Czynem nieuczciwej konkurencji jest równie˝ organizowanie grupy zudzia∏em konsumentów wcelu finansowaustawie, prowadzi dzia∏alnoÊç gospodarczà polegajàcà na zarzàdzaniu mieniem gromadzonym ramach grupy udzia∏em konsumentów wcelu finansowania zakupów wsystemie konsorcyjnym, podlega karze pozbawienia wolnoÊci od 3 miesi´cy do lat 5.
-2. Tej samej karze podlega, kto, wbrew warunkom okreÊlonym ustawie, organizuje grup´ konsumentów, o której mowa ust. 1.
-3. Je˝eli wartoÊç mienia zgromadzonego celu finansowania zakupów systemie konsorcyjnym jest wielka, sprawca czynu okreÊlonego ust. 1 lub 2 podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.
-Nr109, 1030 oraz 2004 96, 959) wprowadza nast´pujàce zmiany:
-1) wart. 2 wust. 2 wpkt 5 na koƒcu przecinek zast´puje kropkà uchyla pkt 6;
+1.Wustawie zdnia 16 kwietnia 1993 ozwalczaniu nieuczciwej konkurencji z2003 153, 1503 oraz z2004 96, 959) wprowadza następujące zmiany:
+1) 3 ust. 2 brzmienie: Ń2. Czynami nieuczciwej konkurencji są szczególności: wprowadzające błąd oznaczenie przedsiębiorstwa, fałszywe lub oszukańcze oznaczenie pochodzenia geograficznego towarów albo usług, wprowadzające błąd oznaczenie towarów lub usług, naruszenie tajemnicy przedsiębiorstwa, nakłanianie do rozwiązania lub niewykonania umowy, naśladownictwo produktów, pomawianie lub nieuczciwe zachwalanie, utrudnianie dostępu do rynku, przekupstwo osoby pełniącej funkcję winowej oraz prowadzenie lub organizowanie działalności systemie konsorcyjnym.”;
+2) po 17d dodaje 17e brzmieniu: ŃArt. 17e. 1. Czynem nieuczciwej konkurencji jest prowadzenie działalności gospodarczej polegającej na zarządzaniu mieniem gromadzonym wramach grupy zudziałem konsumentów utworzonej celu finansowania zakupu praw, rzeczy ruchomych, nieruchomości lub usług na rzecz uczestników grupy (system konsorcyjny).
+2. Czynem nieuczciwej konkurencji jest również organizowanie grupy zudziałem konsumentów wcelu finansowaustawie, prowadzi działalność gospodarczą polegającą na zarządzaniu mieniem gromadzonym ramach grupy udziałem konsumentów wcelu finansowania zakupów wsystemie konsorcyjnym, podlega karze pozbawienia wolności od 3 miesięcy do lat 5.
+2. Tej samej karze podlega, kto, wbrew warunkom określonym ustawie, organizuje grupę konsumentów, o której mowa ust. 1.
+3. Jeżeli wartość mienia zgromadzonego celu finansowania zakupów systemie konsorcyjnym jest wielka, sprawca czynu określonego ust. 1 lub 2 podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+Nr109, 1030 oraz 2004 96, 959) wprowadza następujące zmiany:
+1) wart. 2 wust. 2 wpkt 5 na końcu przecinek zastępuje kropką uchyla pkt 6;
 2) 4 uchyla ust. 4;
 7:
-a) ust. 1 zdanie wst´pne brzmienie: „Ca∏kowity koszt kredytu oznacza wszystkie koszty wraz odsetkami innymi op∏atami iprowizjami, które konsument jest zobowiàzany zap∏aciç za kredyt, wyjàtkiem kosztów:”,
+a) ust. 1 zdanie wstępne brzmienie: ŃCałkowity koszt kredytu oznacza wszystkie koszty wraz odsetkami innymi opłatami iprowizjami, które konsument jest zobowiązany zapłacić za kredyt, wyjątkiem kosztów:”,
 b) uchyla ust. 3—5;
 4) 11 uchyla ust. 7 8;
-5) uchyla cz´Êç II za∏àcznika „Wzór obliczenia rzeczywistej rocznej stopy oprocentowania dla kredytu, o którym mowa 2 ust. 2 pkt 6”.
-4. Karom okreÊlonym ust. 1—3 pod- 3.Przedsi´biorcy prowadzàcy dzia∏alnoÊç okrelega tak˝e ten, kto dopuszcza czy- Êlonà wart. 17eustawy, októrej mowa wart. 1, nie monów nich okreÊlonych, dzia∏ajàc gà po dniu wejÊcia ˝ycie niniejszej ustawy zawieraç imieniu lub interesie przedsi´- nowych umów ramach systemu konsorcyjnego. Do biorcy prowadzàcego dzia∏alnoÊç go- umów zawartych przed dniem wejÊcia ˝ycie niniejspodarczà okreÊlonà wart. 17eust. 1 szej ustawy stosuje przepisy dotychczasowe.
+5) uchyla część II załącznika ŃWzór obliczenia rzeczywistej rocznej stopy oprocentowania dla kredytu, o którym mowa 2 ust. 2 pkt 6”.
+4. Karom określonym ust. 1—3 pod- 3.Przedsiębiorcy prowadzący działalność okrelega także ten, kto dopuszcza czy- śloną wart. 17eustawy, októrej mowa wart. 1, nie monów nich określonych, działając gą po dniu wejścia życie niniejszej ustawy zawierać imieniu lub interesie przedsię- nowych umów ramach systemu konsorcyjnego. Do biorcy prowadzącego działalność go- umów zawartych przed dniem wejścia życie niniejspodarczą określoną wart. 17eust. 1 szej ustawy stosuje przepisy dotychczasowe.
 lub 2.”;
-4) 27 po ust. 1 dodaje ust. 1a brzmieniu: 4. Ustawa wchodzi ˝ycie po up∏ywie 14 dni od dnia og∏oszenia.
-„1a. Z wnioskiem o Êciganie przest´pstw okreÊlonych 24b mogà wystàpiç tak˝e podmioty, o których mowa 19 ust. 1.”. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1694
-USTAWA dnia 18 czerwca 2004 o zmianie ustawy o grupach producentów rolnych ich zwiàzkach oraz o zmianie innych ustaw
-1. Wustawie zdnia 15 wrzeÊnia 2000 ogrupach producentów rolnych ich zwiàzkach oraz o zmianie innych ustaw 88, 983 oraz 2003 229, 2273) wprowadza nast´pujàce zmiany:
-1) 2 brzmienie: „Art. 2. Osoby fizyczne, jednostki organizacyjne nieposiadajàce osobowoÊci prawnej oraz osoby prawne prowadzàce gospodarstwo rolne rozumieniu przepisów o podatku rolnym lub prowadzàce dzia∏alnoÊç rolnipy producentów rolnych celu dostosowania produkcji rolnej do warunków rynkowych, poprawy efektywnoÊci gospodarowania, planowania produkcji ze szczególnym uwzgl´dnieniem jej iloÊci ijakoÊci, koncentracji poda˝y oraz organizowania sprzeda˝y produktów rolnych, a tak˝e ochrony Êrodowiska naturalnego.”;
+4) 27 po ust. 1 dodaje ust. 1a brzmieniu: 4. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+Ń1a. Z wnioskiem o ściganie przestępstw określonych 24b mogą wystąpić także podmioty, o których mowa 19 ust. 1.”. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1694
+USTAWA dnia 18 czerwca 2004 o zmianie ustawy o grupach producentów rolnych ich związkach oraz o zmianie innych ustaw
+1. Wustawie zdnia 15 września 2000 ogrupach producentów rolnych ich związkach oraz o zmianie innych ustaw 88, 983 oraz 2003 229, 2273) wprowadza następujące zmiany:
+1) 2 brzmienie: ŃArt. 2. Osoby fizyczne, jednostki organizacyjne nieposiadające osobowości prawnej oraz osoby prawne prowadzące gospodarstwo rolne rozumieniu przepisów o podatku rolnym lub prowadzące działalność rolnipy producentów rolnych celu dostosowania produkcji rolnej do warunków rynkowych, poprawy efektywności gospodarowania, planowania produkcji ze szczególnym uwzględnieniem jej ilości ijakości, koncentracji podaży oraz organizowania sprzedaży produktów rolnych, a także ochrony środowiska naturalnego.”;
 2) 3:
-a) ust. 1 pkt 4 brzmienie: „4) przychody ze sprzeda˝y produktów lub
+a) ust. 1 pkt 4 brzmienie: Ń4) przychody ze sprzedaży produktów lub
 

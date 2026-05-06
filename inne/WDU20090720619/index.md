@@ -24,61 +24,61 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090720619) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/619/text.pdf) |
 
-**Art. 1.** Ustawa okreÊla:
+**Art. 1.** Ustawa określa:
 
 **Art. 2.**
 
-1. Minister w∏aÊciwy do spraw rybo∏ówstwa opracowuje:
+1. Minister właściwy do spraw rybołówstwa opracowuje:
 
-- **1)** projekt krajowego planu strategicznego okreÊlonego wart. 15 rozporzàdzenia nr 1198/2006;
-- **2)** projekt programu operacyjnego wrozumieniu art. 3 lit. rozporzàdzenia nr 1198/2006 oraz okreÊlonego wprzepisach rozporzàdzenia nr 498/2007.
+- **1)** projekt krajowego planu strategicznego określonego wart. 15 rozporządzenia nr 1198/2006;
+- **2)** projekt programu operacyjnego wrozumieniu art. 3 lit. rozporządzenia nr 1198/2006 oraz określonego wprzepisach rozporządzenia nr 498/2007.
 
-2. Rada Ministrów, drodze uchwa∏y, przyjmuje krajowy plan strategiczny oraz zatwierdza projekt programu operacyjnego.
+2. Rada Ministrów, drodze uchwały, przyjmuje krajowy plan strategiczny oraz zatwierdza projekt programu operacyjnego.
 
-3. Minister w∏aÊciwy do spraw rybo∏ówstwa:
+3. Minister właściwy do spraw rybołówstwa:
 
 - **1)** przekazuje Komisji Europejskiej:
-    - **a)** przyj´ty przez Rad´ Ministrów krajowy plan strategiczny,
-    - **b)** zatwierdzony przez Rad´ Ministrów projekt programu operacyjnego;
+    - **a)** przyjęty przez Radę Ministrów krajowy plan strategiczny,
+    - **b)** zatwierdzony przez Radę Ministrów projekt programu operacyjnego;
 
-- **2)** dokonuje zKomisjà Europejskà ustaleƒ wzakresie krajowego planu strategicznego;
-- **3)** wspó∏pracuje z Komisjà Europejskà zakresie
+- **2)** dokonuje zKomisją Europejską ustaleń wzakresie krajowego planu strategicznego;
+- **3)** współpracuje z Komisją Europejską zakresie
 
-4. Minister w∏aÊciwy do spraw rybo∏ówstwa przedk∏ada Radzie Ministrów informacj´ ustaleniach dokonanych wsprawie krajowego planu strategicznego.
+4. Minister właściwy do spraw rybołówstwa przedkłada Radzie Ministrów informację ustaleniach dokonanych wsprawie krajowego planu strategicznego.
 
-5. Minister w∏aÊciwy do spraw rybo∏ówstwa, po zatwierdzeniu programu operacyjnego przez Komisj´ Europejskà, og∏asza program operacyjny, drodze obwieszczenia, Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”.
+5. Minister właściwy do spraw rybołówstwa, po zatwierdzeniu programu operacyjnego przez Komisję Europejską, ogłasza program operacyjny, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”.
 
-6. Minister w∏aÊciwy do spraw rybo∏ówstwa opracowuje projekt zmiany programu operacyjnego oraz krajowego planu strategicznego po zasi´gni´ciu opinii komitetu monitorujàcego, októrym mowa wart. 63 rozporzàdzenia nr 1198/2006. Do zmiany programu operacyjnego oraz krajowego planu strategicznego przepisy ust. 2—4 stosuje si´ odpowiednio.
+6. Minister właściwy do spraw rybołówstwa opracowuje projekt zmiany programu operacyjnego oraz krajowego planu strategicznego po zasięgnięciu opinii komitetu monitorującego, októrym mowa wart. 63 rozporządzenia nr 1198/2006. Do zmiany programu operacyjnego oraz krajowego planu strategicznego przepisy ust. 2—4 stosuje się odpowiednio.
 
-**Art. 3.** Program operacyjny zawiera nast´pujàce osie priorytetowe:
+**Art. 3.** Program operacyjny zawiera następujące osie priorytetowe:
 
 **Art. 5.**
 
-1. Zadania instytucji zarzàdzajàcej zakresie wdra˝ania Êrodków obj´tych programem operacyjnym, tym zwiàzane z przyznawaniem pomocy, mach którego mogà byç realizowane operacje wykonuje jako instytucja poÊredniczàca, której mowzakresie okreÊlonym wart. 38 ust. 1 i2 rozpo- wa wart. 58 ust. 2 rozporzàdzenia nr 1198/2006: rzàdzenia nr 1198/2006,
+1. Zadania instytucji zarządzającej zakresie wdrażania środków objętych programem operacyjnym, tym związane z przyznawaniem pomocy, mach którego mogą być realizowane operacje wykonuje jako instytucja pośrednicząca, której mowzakresie określonym wart. 38 ust. 1 i2 rozpo- wa wart. 58 ust. 2 rozporządzenia nr 1198/2006: rządzenia nr 1198/2006,
 
-- **1)** Agencja Restrukturyzacji Modernizacji Rolnicc) inwestycje portach rybackich, miejscach wy- twa, zwana dalej „Agencjà” dla osi prioryteto∏adunku przystaniach, ramach którego mo- wych, októrych mowa wart. 3 pkt 1—3; gà byç realizowane operacje wzakresie okreÊlonym wart. 39 rozporzàdzenia nr 1198/2006, 2) samorzàd województwa dla osi priorytetowej, ne, ramach którego mogà byç realizowane operacje wzakresie okreÊlonym wart. 40 ust. 1 3) jednostka sektora finansów publicznych lub funi3 rozporzàdzenia nr 1198/2006, dacja, której jedynym fundatorem jest Skarb Paƒstwa, którym minister w∏aÊciwy do spraw ryboe) projekty pilota˝owe, ramach którego mogà ∏ówstwa powierzy∏ wykonywanie zadaƒ instytucji byç realizowane operacje wzakresie okreÊlonym zarzàdzajàcej dla osi priorytetowej, októrej mowart. 41 ust. 1 i2 rozporzàdzenia nr 1198/2006, wa wart. 3 pkt 5.
+- **1)** Agencja Restrukturyzacji Modernizacji Rolnicc) inwestycje portach rybackich, miejscach wy- twa, zwana dalej ŃAgencją” dla osi priorytetoładunku przystaniach, ramach którego mo- wych, októrych mowa wart. 3 pkt 1—3; gą być realizowane operacje wzakresie określonym wart. 39 rozporządzenia nr 1198/2006, 2) samorząd województwa dla osi priorytetowej, ne, ramach którego mogą być realizowane operacje wzakresie określonym wart. 40 ust. 1 3) jednostka sektora finansów publicznych lub funi3 rozporządzenia nr 1198/2006, dacja, której jedynym fundatorem jest Skarb Państwa, którym minister właściwy do spraw ryboe) projekty pilotażowe, ramach którego mogą łówstwa powierzył wykonywanie zadań instytucji być realizowane operacje wzakresie określonym zarządzającej dla osi priorytetowej, októrej mowart. 41 ust. 1 i2 rozporządzenia nr 1198/2006, wa wart. 3 pkt 5.
     - **d)** rozwój nowych rynków kampanie promocyj- októrej mowa wart. 3 pkt 4;
-    - **f)** modyfikacja celu zmiany przeznaczenia statków rybackich, wramach którego mogà byç re- 2. Wprzypadku instytucji poÊredniczàcych wymiealizowane operacje zakresie okreÊlonym nionych ust. 1 pkt 1 3, zadania, których mowa wart. 42 rozporzàdzenia nr 1198/2006; wust. 1, sà wykonywane na podstawie umowy.
+    - **f)** modyfikacja celu zmiany przeznaczenia statków rybackich, wramach którego mogą być re- 2. Wprzypadku instytucji pośredniczących wymiealizowane operacje zakresie określonym nionych ust. 1 pkt 1 3, zadania, których mowa wart. 42 rozporządzenia nr 1198/2006; wust. 1, są wykonywane na podstawie umowy.
 
-- **4)** oÊ priorytetowa 4 Zrównowa˝ony rozwój ob- 3. W umowie, której mowa ust. 2, sà okreÊloszarów zale˝nych od rybactwa, która obejmuje na- ne szczególnoÊci zakres powierzonych zadaƒ, spost´pujàce Êrodki:
-    - **a)** rozwój obszarów zale˝nych od rybactwa, ramach którego mogà byç realizowane operacje wzakresie okreÊlonym wart. 44 ust. 1 lit. a—g, ioraz j rozporzàdzenia nr 1198/2006,
-    - **b)** wsparcie na rzecz wspó∏pracy mi´dzyregionalnej imi´dzynarodowej, wramach którego mogà byç realizowane operacje zakresie okreÊlonym wart. 44 ust. 1 lit. h rozporzàdzenia nr 1198/2006;
+- **4)** oś priorytetowa 4 Zrównoważony rozwój ob- 3. W umowie, której mowa ust. 2, są określoszarów zależnych od rybactwa, która obejmuje na- ne szczególności zakres powierzonych zadań, spostępujące środki:
+    - **a)** rozwój obszarów zależnych od rybactwa, ramach którego mogą być realizowane operacje wzakresie określonym wart. 44 ust. 1 lit. a—g, ioraz j rozporządzenia nr 1198/2006,
+    - **b)** wsparcie na rzecz współpracy międzyregionalnej imiędzynarodowej, wramach którego mogą być realizowane operacje zakresie określonym wart. 44 ust. 1 lit. h rozporządzenia nr 1198/2006;
 
-- **5)** oÊ priorytetowa 5 Pomoc techniczna, która obejmuje Êrodek pomoc techniczna, ramach którego mogà byç realizowane operacje zakresie okreÊlonym art. 46 ust. 1—3 rozporzàdzenia nr 1198/2006.
+- **5)** oś priorytetowa 5 Pomoc techniczna, która obejmuje środek pomoc techniczna, ramach którego mogą być realizowane operacje zakresie określonym art. 46 ust. 1—3 rozporządzenia nr 1198/2006.
 
-**Art. 4.** Minister w∏aÊciwy do spraw rybo∏ówstwa: sób ich wykonywania iwarunki rozwiàzania umowy. 4. Do powierzenia zadaƒ podmiotom, których mowa ust. 1 pkt 3, nie stosuje si´ przepisów ustawy z dnia 29 stycznia 2004 Prawo zamówieƒ publicznych (Dz. U. z2007 223, poz. 1655, zpóên. zm. ). 5. Minister w∏aÊciwy do spraw rybo∏ówstwa okreÊli, drodze rozporzàdzenia, warunki sposób wykonywania zadaƒ instytucji zarzàdzajàcej przez samorzàd województwa, majàc na wzgl´dzie zapewnienie prawid∏owoÊci, skutecznoÊci efektywnoÊci zarzàdzania programem oraz prawid∏owego wykonywania zadaƒ instytucji zarzàdzajàcej. ——————— cej, której mowa art. 58 ust. 1 lit. b rozporzàdzenia nr 1198/2006. 2. Szczegó∏owe warunki wspó∏pracy mi´dzy instytucjà certyfikujàcà ainstytucjà zarzàdzajàcà wzakresie zarzàdzania Êrodkami finansowymi pochodzàcymi z Europejskiego Funduszu Rybackiego sà okreÊlone porozumieniu zawartym mi´dzy ministrem w∏aÊciwym do spraw rybo∏ówstwa a ministrem w∏aÊciwym do spraw finansów publicznych.
+**Art. 4.** Minister właściwy do spraw rybołówstwa: sób ich wykonywania iwarunki rozwiązania umowy. 4. Do powierzenia zadań podmiotom, których mowa ust. 1 pkt 3, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 Prawo zamówień publicznych (Dz. U. z2007 223, poz. 1655, zpóên. zm. ). 5. Minister właściwy do spraw rybołówstwa określi, drodze rozporządzenia, warunki sposób wykonywania zadań instytucji zarządzającej przez samorząd województwa, mając na względzie zapewnienie prawidłowości, skuteczności efektywności zarządzania programem oraz prawidłowego wykonywania zadań instytucji zarządzającej. ——————— cej, której mowa art. 58 ust. 1 lit. b rozporządzenia nr 1198/2006. 2. Szczegółowe warunki współpracy między instytucją certyfikującą ainstytucją zarządzającą wzakresie zarządzania środkami finansowymi pochodzącymi z Europejskiego Funduszu Rybackiego są określone porozumieniu zawartym między ministrem właściwym do spraw rybołówstwa a ministrem właściwym do spraw finansów publicznych.
 
-**Art. 7.** Generalny Inspektor Kontroli Skarbowej wykonuje zadania instytucji audytowej, której mowa wart. 58 ust. 1 lit. rozporzàdzenia nr 1198/2006.
+**Art. 7.** Generalny Inspektor Kontroli Skarbowej wykonuje zadania instytucji audytowej, której mowa wart. 58 ust. 1 lit. rozporządzenia nr 1198/2006.
 
 **Art. 8.**
 
-1. Minister w∏aÊciwy do spraw rybo∏ówstwa okreÊli, drodze rozporzàdzenia, podzia∏ Êrodków finansowych na realizacj´ programu operacyjnego ramach okreÊlonych osi priorytetowych, których mowa art. 3, ustalajàc limity na poszczególne Êrodki obj´te tymi osiami, majàc na wzgl´dzie zapewnienie efektywnoÊci wdra˝ania programu operacyjnego oraz wykorzystanie Êrodków finansowych przeznaczonych na jego realizacj´.
+1. Minister właściwy do spraw rybołówstwa określi, drodze rozporządzenia, podział środków finansowych na realizację programu operacyjnego ramach określonych osi priorytetowych, których mowa art. 3, ustalając limity na poszczególne środki objęte tymi osiami, mając na względzie zapewnienie efektywności wdrażania programu operacyjnego oraz wykorzystanie środków finansowych przeznaczonych na jego realizację.
 
-2. Pomoc ramach programu operacyjnego jest przyznawana do wysokoÊci limitu stanowiàcego równowartoÊç wz∏otych kwoty weuro okreÊlonej wprzepisach wydanych na podstawie ust. 1 na poszczególne Êrodki, októrych mowa wart. 3.
+2. Pomoc ramach programu operacyjnego jest przyznawana do wysokości limitu stanowiącego równowartość wzłotych kwoty weuro określonej wprzepisach wydanych na podstawie ust. 1 na poszczególne środki, októrych mowa wart. 3.
 
-3. Na wniosek instytucji poÊredniczàcej minister w∏aÊciwy do spraw rybo∏ówstwa porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych mo˝e wyraziç zgod´ na przyznawanie pomocy do okreÊlonej wysokoÊci, przekraczajàcej wysokoÊç limitu, októrym mowa wust. 2.
+3. Na wniosek instytucji pośredniczącej minister właściwy do spraw rybołówstwa porozumieniu z ministrem właściwym do spraw finansów publicznych może wyrazić zgodę na przyznawanie pomocy do określonej wysokości, przekraczającej wysokość limitu, októrym mowa wust. 2.
 
-4. W przypadku wyra˝enia zgody, której mowa
+4. W przypadku wyrażenia zgody, której mowa
 
 **Art. 9.** W ramach programu operacyjnego pomoc jest przyznawana:
 
@@ -86,173 +86,173 @@ domain: null
 
 1. Wzór wniosku odofinansowanie:
 
-- **1)** przygotowuje instytucja zarzàdzajàca;
-- **2)** jest umieszczany na stronie internetowej urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw wust. 3, instytucja zarzàdzajàca iinstytucja poÊredniczàca umieszczajà komunikat zawierajàcy takà informacj´ na stronie internetowej urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw rybo∏ówstwa oraz na stronie internetowej administrowanej przez instytucj´ poÊredniczàcà. W komunikacie tym jest podawana tak˝e wysokoÊç Êrodków finansowych, do jakiej mo˝e byç przyznawana pomoc.
+- **1)** przygotowuje instytucja zarządzająca;
+- **2)** jest umieszczany na stronie internetowej urzędu obsługującego ministra właściwego do spraw wust. 3, instytucja zarządzająca iinstytucja pośrednicząca umieszczają komunikat zawierający taką informację na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa oraz na stronie internetowej administrowanej przez instytucję pośredniczącą. W komunikacie tym jest podawana także wysokość środków finansowych, do jakiej może być przyznawana pomoc.
 
-5. Minister w∏aÊciwy do spraw rybo∏ówstwa mo˝e okreÊliç, drodze rozporzàdzenia, podzia∏ Êrodków finansowych na realizacj´ programu operacyjnego ramach Êrodków, których mowa art. 3, na poszczególne województwa lub na lata realizacji tego programu, majàc na wzgl´dzie zapewnienie zrównorybo∏ówstwa oraz na stronach internetowych administrowanych przez instytucje poÊredniczàce, októrych mowa wart. 5 ust. 1.
+5. Minister właściwy do spraw rybołówstwa może określić, drodze rozporządzenia, podział środków finansowych na realizację programu operacyjnego ramach środków, których mowa art. 3, na poszczególne województwa lub na lata realizacji tego programu, mając na względzie zapewnienie zrównorybołówstwa oraz na stronach internetowych administrowanych przez instytucje pośredniczące, októrych mowa wart. 5 ust. 1.
 
-2. Wniosek dofinansowanie sk∏ada si´ do instytucji poÊredniczàcej, wyznaczonej dla danej osi priorytetowej zgodnie zart. 5 ust. 1, przy czym wprzypadku Êrodka, októrym mowa wart. 3:
+2. Wniosek dofinansowanie składa się do instytucji pośredniczącej, wyznaczonej dla danej osi priorytetowej zgodnie zart. 5 ust. 1, przy czym wprzypadku środka, októrym mowa wart. 3:
 
-- **1)** pkt 4 lit. a, wniosek odofinansowanie sk∏ada si´ za poÊrednictwem lokalnej grupy rybackiej;
-- **2)** pkt 5, gdy wnioskodawcà jest instytucja poÊredniczàca, októrej mowa wart. 5 ust. 1 pkt 3, wniosek dofinansowanie sk∏ada si´ do instytucji zarzàdzajàcej.
+- **1)** pkt 4 lit. a, wniosek odofinansowanie składa się za pośrednictwem lokalnej grupy rybackiej;
+- **2)** pkt 5, gdy wnioskodawcą jest instytucja pośrednicząca, októrej mowa wart. 5 ust. 1 pkt 3, wniosek dofinansowanie składa się do instytucji zarządzającej.
 
-4. Oceny wniosku dofinansowanie dokonuje si´ terminie niezb´dnym do nale˝ytego wyjaÊnienia sprawy.
+4. Oceny wniosku dofinansowanie dokonuje się terminie niezbędnym do należytego wyjaśnienia sprawy.
 
 **Art. 11.**
 
-1. Pomoc ramach Êrodków, których mowa art. 3 pkt 2 lit. oraz pkt 3 lit. d, mo˝e byç równie˝ przyznana, wdrodze umowy odofinansowanie zawieranej z inicjatywy instytucji zarzàdzajàcej, bez koniecznoÊci sk∏adania wniosku dofinansowanie na realizacj´ okreÊlonych operacji s∏u˝àcych wskazanym przez t´ instytucj´ celom oistotnym znaczeniu dla sektora rybackiego.
+1. Pomoc ramach środków, których mowa art. 3 pkt 2 lit. oraz pkt 3 lit. d, może być również przyznana, wdrodze umowy odofinansowanie zawieranej z inicjatywy instytucji zarządzającej, bez konieczności składania wniosku dofinansowanie na realizację określonych operacji służących wskazanym przez tę instytucję celom oistotnym znaczeniu dla sektora rybackiego.
 
-2. Pomoc zgodnie zust. 1 mo˝e byç przyznana organowi administracji publicznej, organizacji po˝ytku publicznego, jednostkom badawczo-rozwojowym lub uczelniom publicznym.
+2. Pomoc zgodnie zust. 1 może być przyznana organowi administracji publicznej, organizacji pożytku publicznego, jednostkom badawczo-rozwojowym lub uczelniom publicznym.
 
-3. W przypadku przyznania pomocy zgodnie z ust. 1, instytucja zarzàdzajàca umieszcza na stronie internetowej urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw rybo∏ówstwa informacj´ konkursie ofert zawierajàcà okreÊlenie:
+3. W przypadku przyznania pomocy zgodnie z ust. 1, instytucja zarządzająca umieszcza na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa informację konkursie ofert zawierającą określenie:
 
-- **1)** Êrodka izakresu operacji;
-- **2)** wysokoÊci Êrodków finansowych przeznaczonych na realizacj´ operacji;
-- **3)** terminu zg∏aszania ofert;
+- **1)** środka izakresu operacji;
+- **2)** wysokości środków finansowych przeznaczonych na realizację operacji;
+- **3)** terminu zgłaszania ofert;
 - **4)** kryteriów oceny ofert;
 - **5)** warunków isposobu przeprowadzenia konkursu.
 
-4. Instytucja zarzàdzajàca niezw∏ocznie po rozstrzygni´ciu konkursu ofert zawiera umow´ dofinansowanie operacji, której mowa ust. 3 pkt 1. Do konkursu ofert nie stosuje si´ przepisów ustawy zdnia 29 stycznia 2004 Prawo zamówieƒ publicznych.
+4. Instytucja zarządzająca niezwłocznie po rozstrzygnięciu konkursu ofert zawiera umowę dofinansowanie operacji, której mowa ust. 3 pkt 1. Do konkursu ofert nie stosuje się przepisów ustawy zdnia 29 stycznia 2004 Prawo zamówień publicznych.
 
 **Art. 12.**
 
 1. Pomoc ramach programu operacyjnego polega na:
 
-- **1)** zwrocie okreÊlonych wumowie odofinansowanie kosztów kwalifikowalnych, poniesionych przez beneficjenta na realizacj´ operacji;
-- **2)** wyp∏acie premii lub rekompensaty okreÊlonej wdecyzji, októrej mowa wart. 9 pkt 4 lit. a.
+- **1)** zwrocie określonych wumowie odofinansowanie kosztów kwalifikowalnych, poniesionych przez beneficjenta na realizację operacji;
+- **2)** wypłacie premii lub rekompensaty określonej wdecyzji, októrej mowa wart. 9 pkt 4 lit. a.
 
-2. Kosztami kwalifikowalnymi sà koszty poniesione przez beneficjenta ztytu∏u realizacji operacji lub jej cz´Êci, które zosta∏y potwierdzone sposób okreÊlony wumowie odofinansowanie.
+2. Kosztami kwalifikowalnymi są koszty poniesione przez beneficjenta ztytułu realizacji operacji lub jej części, które zostały potwierdzone sposób określony wumowie odofinansowanie.
 
 **Art. 13.**
 
-1. Do post´powaƒ sprawach indywidu4. Odwo∏anie od decyzji wsprawie przyznania pomocy:
+1. Do postępowań sprawach indywidu4. Odwołanie od decyzji wsprawie przyznania pomocy:
 
-- **1)** wnosi si´ do Prezesa Agencji za poÊrednictwem dyrektora oddzia∏u regionalnego Agencji, który wyda∏ decyzj´ wpierwszej instancji;
-- **2)** rozpatruje si´ wterminie dwóch miesi´cy od dnia otrzymania odwo∏ania;
+- **1)** wnosi się do Prezesa Agencji za pośrednictwem dyrektora oddziału regionalnego Agencji, który wydał decyzję wpierwszej instancji;
+- **2)** rozpatruje się wterminie dwóch miesięcy od dnia otrzymania odwołania;
 - **3)** nie wstrzymuje jej wykonania.
 
-5. Wprzypadku, októrym mowa wart. 155 Kodeksu post´powania administracyjnego, organ wy˝szego stopnia mo˝e zmieniç decyzj´ ostatecznà sprawie przyznania pomocy, na mocy której strona naby∏a prawo, równie˝ bez zgody strony, je˝eli nie ograniczy to nabytych przez nià praw.
+5. Wprzypadku, októrym mowa wart. 155 Kodeksu postępowania administracyjnego, organ wyższego stopnia może zmienić decyzję ostateczną sprawie przyznania pomocy, na mocy której strona nabyła prawo, również bez zgody strony, jeżeli nie ograniczy to nabytych przez nią praw.
 
-6. Strony oraz inne osoby uczestniczàce post´powaniu, którym mowa ust. 1, sà obowiàzane przedstawiaç dowody oraz dawaç wyjaÊnienia co do okolicznoÊci sprawy zgodnie z prawdà bez zatajania czegokolwiek; ci´˝ar udowodnienia faktu spoczywa na osobie, która z tego faktu wywodzi skutki prawne. Przepisu art. 81 Kodeksu post´powania administracyjnego nie stosuje si´.
+6. Strony oraz inne osoby uczestniczące postępowaniu, którym mowa ust. 1, są obowiązane przedstawiać dowody oraz dawać wyjaśnienia co do okoliczności sprawy zgodnie z prawdą bez zatajania czegokolwiek; ciężar udowodnienia faktu spoczywa na osobie, która z tego faktu wywodzi skutki prawne. Przepisu art. 81 Kodeksu postępowania administracyjnego nie stosuje się.
 
 **Art. 14.**
 
-1. Do post´powania sprawach przyznawania pomocy na podstawie umowy dofinansowanie nie stosuje si´ przepisów Kodeksu post´powania administracyjnego, z wyjàtkiem przepisów dotyczàcych w∏aÊciwoÊci miejscowej organów, wy∏àczenia pracowników organu, dor´czeƒ wezwaƒ, udost´pnienia akt, atak˝e skarg iwniosków.
+1. Do postępowania sprawach przyznawania pomocy na podstawie umowy dofinansowanie nie stosuje się przepisów Kodeksu postępowania administracyjnego, z wyjątkiem przepisów dotyczących właściwości miejscowej organów, wyłączenia pracowników organu, doręczeń wezwań, udostępnienia akt, atakże skarg iwniosków.
 
-2. W post´powaniu sprawie przyznawania pomocy na podstawie umowy odofinansowanie organ, przed którym toczy si´ post´powanie:
+2. W postępowaniu sprawie przyznawania pomocy na podstawie umowy odofinansowanie organ, przed którym toczy się postępowanie:
 
-- **1)** stoi na stra˝y praworzàdnoÊci;
-- **2)** jest obowiàzany sposób wyczerpujàcy rozpatrzyç ca∏y materia∏ dowodowy;
-- **3)** udziela stronom, na ich ˝àdanie, niezb´dnych pouczeƒ co do okolicznoÊci faktycznych prawnych, które mogà mieç wp∏yw na ustalenie ich praw iobowiàzków b´dàcych przedmiotem post´powania;
-- **4)** zapewnia stronom, na ich ˝àdanie, czynny udzia∏ wka˝dym stadium post´powania.
+- **1)** stoi na straży praworządności;
+- **2)** jest obowiązany sposób wyczerpujący rozpatrzyć cały materiał dowodowy;
+- **3)** udziela stronom, na ich żądanie, niezbędnych pouczeń co do okoliczności faktycznych prawnych, które mogą mieć wpływ na ustalenie ich praw iobowiązków będących przedmiotem postępowania;
+- **4)** zapewnia stronom, na ich żądanie, czynny udział wkażdym stadium postępowania.
 
-3. Strony oraz inne osoby uczestniczàce post´powaniu, którym mowa ust. 2, sà obowiàzane czynnoÊci, których mowa art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 Prawo post´powaniu przed sàdami administracyjnymi (Dz. U. 153, poz. 1270, zpóên. zm. rozwoju obszarów rybackich zakresie okreÊlonym wjego statucie; ). 4) stowarzyszenie, oprócz walnego zebrania cz∏onków albo zebrania delegatów, zarzàdu organu
+3. Strony oraz inne osoby uczestniczące postępowaniu, którym mowa ust. 2, są obowiązane czynności, których mowa art. 3 § 2 pkt 4 ustawy z dnia 30 sierpnia 2002 Prawo postępowaniu przed sądami administracyjnymi (Dz. U. 153, poz. 1270, zpóên. zm. rozwoju obszarów rybackich zakresie określonym wjego statucie; ). 4) stowarzyszenie, oprócz walnego zebrania członków albo zebrania delegatów, zarządu organu
 
 **Art. 15.**
 
-1. Umowa odofinansowanie: kontroli wewn´trznej, jest obowiàzane posiadaç komitet, do którego wy∏àcznej w∏aÊciwoÊci nale˝y
+1. Umowa odofinansowanie: kontroli wewnętrznej, jest obowiązane posiadać komitet, do którego wyłącznej właściwości należy
 
-- **1)** jest zawierana, pod rygorem niewa˝noÊci, for- wybór operacji, które majà byç realizowane ramie pisemnej; mach opracowanej lokalnej strategii rozwoju ob2) zawiera wszczególnoÊci: szarów rybackich; warunków terminów wyp∏aty Êrodków finansowych ztytu∏u pomocy, 2. Instytucja zarzàdzajàca wybiera stowarzyszenie, warunków rozwiàzania umowy, którym mowa ust. 1, do realizacji opracowanej przez nie lokalnej strategii rozwoju obszarów rybacwarunków sposobu zwrotu Êrodków finan- kich, drodze zaproszenia do sk∏adania wniosków, sowych z tytu∏u pomocy, przypadku gdy bioràc pod uwag´ wszczególnoÊci: pomoc jest nienale˝na lub zosta∏a wykorzystana niezgodnie zprzeznaczeniem. 1) struktur´ stowarzyszenia iliczb´ jego cz∏onków;
-    - **a)** oznaczenie przedmiotu istron umowy, 5) komitet, którym mowa pkt 4, jest wybierany przez walne zebranie cz∏onków stowarzyszenia
-    - **b)** okreÊlenie: albo zebrania delegatów spoÊród cz∏onków tego warunków, terminu miejsca realizacji ope- stowarzyszenia. Co najmniej po∏ow´ cz∏onków racji, komitetu stanowià podmioty, których mowa wart. 8 ust. 1 lit. b ic rozporzàdzenia nr 1198/2006, wysokoÊci pomocy, lub ich przedstawiciele, art. 23 ust. 1 akapit 4 sposobu potwierdzenia poniesienia kosztów rozporzàdzenia nr 498/2007, ztym ˝e cz∏onek komikwalifikowalnych, tetu nie mo˝e byç równoczeÊnie cz∏onkiem innego organu stowarzyszenia.
+- **1)** jest zawierana, pod rygorem nieważności, for- wybór operacji, które mają być realizowane ramie pisemnej; mach opracowanej lokalnej strategii rozwoju ob2) zawiera wszczególności: szarów rybackich; warunków terminów wypłaty środków finansowych ztytułu pomocy, 2. Instytucja zarządzająca wybiera stowarzyszenie, warunków rozwiązania umowy, którym mowa ust. 1, do realizacji opracowanej przez nie lokalnej strategii rozwoju obszarów rybacwarunków sposobu zwrotu środków finan- kich, drodze zaproszenia do składania wniosków, sowych z tytułu pomocy, przypadku gdy biorąc pod uwagę wszczególności: pomoc jest nienależna lub została wykorzystana niezgodnie zprzeznaczeniem. 1) strukturę stowarzyszenia iliczbę jego członków;
+    - **a)** oznaczenie przedmiotu istron umowy, 5) komitet, którym mowa pkt 4, jest wybierany przez walne zebranie członków stowarzyszenia
+    - **b)** określenie: albo zebrania delegatów spośród członków tego warunków, terminu miejsca realizacji ope- stowarzyszenia. Co najmniej połowę członków racji, komitetu stanowią podmioty, których mowa wart. 8 ust. 1 lit. b ic rozporządzenia nr 1198/2006, wysokości pomocy, lub ich przedstawiciele, art. 23 ust. 1 akapit 4 sposobu potwierdzenia poniesienia kosztów rozporządzenia nr 498/2007, ztym że członek komikwalifikowalnych, tetu nie może być równocześnie członkiem innego organu stowarzyszenia.
 
-2. Wzór umowy odofinansowanie: 2) obszar obj´ty lokalnà strategià rozwoju obszarów rybackich;
+2. Wzór umowy odofinansowanie: 2) obszar objęty lokalną strategią rozwoju obszarów rybackich;
 
-- **1)** przygotowuje instytucja zarzàdzajàca;
-- **3)** za∏o˝enia, cele oraz spójnoÊç opracowanej lokal2) jest umieszczany na stronie internetowej urz´du nej strategii rozwoju obszarów rybackich. obs∏ugujàcego ministra w∏aÊciwego do spraw rybo∏ówstwa oraz na stronach internetowych ad- 3. Stowarzyszenie wybrane zgodnie z ust. 2 uznaministrowanych przez instytucje poÊredniczàce, je si´ za lokalnà grup´ rybackà, októrej mowa wart. 45 októrych mowa wart. 5 ust. 1. ust. 1 rozporzàdzenia nr 1198/2006.
+- **1)** przygotowuje instytucja zarządzająca;
+- **3)** założenia, cele oraz spójność opracowanej lokal2) jest umieszczany na stronie internetowej urzędu nej strategii rozwoju obszarów rybackich. obsługującego ministra właściwego do spraw rybołówstwa oraz na stronach internetowych ad- 3. Stowarzyszenie wybrane zgodnie z ust. 2 uznaministrowanych przez instytucje pośredniczące, je się za lokalną grupę rybacką, októrej mowa wart. 45 októrych mowa wart. 5 ust. 1. ust. 1 rozporządzenia nr 1198/2006.
 
-3. Umowa dofinansowanie jest niewa˝na Art. 17. 1. Instytucja zarzàdzajàca, niezw∏ocznie po wprzypadkach okreÊlonych wKodeksie cywilnym lub dokonaniu wyboru, którym mowa art. 16 ust. 2, wprzypadku gdy sprzeciwia si´ przepisom, októrych zawiera z lokalnà grupà rybackà umow´ dotyczàcà mowa wart. 1 pkt 1, lub przepisom ustawy. warunków sposobu realizacji lokalnej strategii rozwoju obszarów rybackich, której okreÊla si´ tak˝e
+3. Umowa dofinansowanie jest nieważna Art. 17. 1. Instytucja zarządzająca, niezwłocznie po wprzypadkach określonych wKodeksie cywilnym lub dokonaniu wyboru, którym mowa art. 16 ust. 2, wprzypadku gdy sprzeciwia się przepisom, októrych zawiera z lokalną grupą rybacką umowę dotyczącą mowa wart. 1 pkt 1, lub przepisom ustawy. warunków sposobu realizacji lokalnej strategii rozwoju obszarów rybackich, której określa się także
 
 **Art. 16.**
 
-1. Lokalnà strategi´ rozwoju obszarów maksymalnà wysokoÊç Êrodków finansowych na rybackich opracowuje stowarzyszenie, rozumieniu wdra˝anie lokalnej strategii rozwoju obszarów rybacustawy zdnia 7 kwietnia 1989 Prawo ostowarzy- kich. szeniach (Dz. U. z 2001 79, poz. 855, z 2003 96, poz. 874, z 2004 102, poz. 1055 oraz 2. Minister w∏aÊciwy do spraw rybo∏ówstwa okreÊz2007 112, poz. 766), ztym ˝e: li, wdrodze rozporzàdzenia:
+1. Lokalną strategię rozwoju obszarów maksymalną wysokość środków finansowych na rybackich opracowuje stowarzyszenie, rozumieniu wdrażanie lokalnej strategii rozwoju obszarów rybacustawy zdnia 7 kwietnia 1989 Prawo ostowarzy- kich. szeniach (Dz. U. z 2001 79, poz. 855, z 2003 96, poz. 874, z 2004 102, poz. 1055 oraz 2. Minister właściwy do spraw rybołówstwa okreśz2007 112, poz. 766), ztym że: li, wdrodze rozporządzenia:
 
-- **1)** szczegó∏owe warunki, jakim powinna odpowiadaç lokalna strategia rozwoju obszarów rybackich, ——————— osoby prawnej lub jednostki organizacyjnej nieposiadajàcej osobowoÊci prawnej, przekszta∏cenia wnioskodawcy lub innego zdarzenia prawnego, wyniku których zaistnieje nast´pstwo prawne, albo razie zbycia ca∏oÊci lub cz´Êci przedsi´biorstwa, ca∏oÊci lub cz´Êci gospodarstwa rolnego wnioskodawcy przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych toku post´powania, nast´pca prawny wnioskodawcy albo nabywca przedsi´biorstwa lub jego cz´Êci albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego cz´Êci mo˝e, po z∏o˝eniu wniosku, wstàpiç do toczàcego si´ post´powania na miejsce wnioskodawcy, je˝eli nie sprzeciwia si´ to istocie celowi Êrodka, ramach którego ma byç przyznana pomoc, okreÊlonych wprzepisach, októrych mowa wart. 1 pkt 1, oraz wprogramie operacyjnym.
+- **1)** szczegółowe warunki, jakim powinna odpowiadać lokalna strategia rozwoju obszarów rybackich, ——————— osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, przekształcenia wnioskodawcy lub innego zdarzenia prawnego, wyniku których zaistnieje następstwo prawne, albo razie zbycia całości lub części przedsiębiorstwa, całości lub części gospodarstwa rolnego wnioskodawcy przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych toku postępowania, następca prawny wnioskodawcy albo nabywca przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części może, po złożeniu wniosku, wstąpić do toczącego się postępowania na miejsce wnioskodawcy, jeżeli nie sprzeciwia się to istocie celowi środka, ramach którego ma być przyznana pomoc, określonych wprzepisach, októrych mowa wart. 1 pkt 1, oraz wprogramie operacyjnym.
 
-2. Wrazie Êmierci beneficjenta, rozwiàzania osoby prawnej lub jednostki organizacyjnej nieposiadajàcej osobowoÊci prawnej, przekszta∏cenia beneficjenta lub innego zdarzenia prawnego, wyniku których zaistnieje nast´pstwo prawne, albo razie zbycia ca∏oÊci lub cz´Êci przedsi´biorstwa, ca∏oÊci lub cz´Êci gospodarstwa rolnego beneficjenta przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych po przyznaniu pomocy, nast´pcy prawnemu beneficjenta albo nabywcy przedsi´biorstwa lub jego cz´Êci albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego cz´Êci pomoc mo˝e byç przyznana, po z∏o˝eniu wniosku, je˝eli:
+2. Wrazie śmierci beneficjenta, rozwiązania osoby prawnej lub jednostki organizacyjnej nieposiadającej osobowości prawnej, przekształcenia beneficjenta lub innego zdarzenia prawnego, wyniku których zaistnieje następstwo prawne, albo razie zbycia całości lub części przedsiębiorstwa, całości lub części gospodarstwa rolnego beneficjenta przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych po przyznaniu pomocy, następcy prawnemu beneficjenta albo nabywcy przedsiębiorstwa lub jego części albo gospodarstwa rolnego przeznaczonego do chowu lub hodowli ryb lub innych organizmów wodnych lub jego części pomoc może być przyznana, po złożeniu wniosku, jeżeli:
 
-- **1)** spe∏nia on warunki przyznania pomocy;
-- **2)** nie sprzeciwia si´ to przepisom, których mowa art. 1 pkt 1, oraz istocie celowi Êrodka, ramach którego przyznano pomoc;
-- **3)** zostanà przez niego przej´te zobowiàzania zwiàzane zprzyznanà pomocà;
-- **4)** Êrodki finansowe z tytu∏u pomocy nie zosta∏y wca∏oÊci wyp∏acone.
+- **1)** spełnia on warunki przyznania pomocy;
+- **2)** nie sprzeciwia się to przepisom, których mowa art. 1 pkt 1, oraz istocie celowi środka, ramach którego przyznano pomoc;
+- **3)** zostaną przez niego przejęte zobowiązania związane zprzyznaną pomocą;
+- **4)** środki finansowe z tytułu pomocy nie zostały wcałości wypłacone.
 
-**Art. 19.** Minister w∏aÊciwy do spraw rybo∏ówstwa okreÊli, drodze rozporzàdzenia, szczegó∏owe warunki tryb przyznawania, wyp∏aty lub zwracania pomocy, ramach poszczególnych osi priorytetowych, których mowa art. 3, uwzgl´dniajàc koszty kwalifikowalne imajàc na wzgl´dzie:
+**Art. 19.** Minister właściwy do spraw rybołówstwa określi, drodze rozporządzenia, szczegółowe warunki tryb przyznawania, wypłaty lub zwracania pomocy, ramach poszczególnych osi priorytetowych, których mowa art. 3, uwzględniając koszty kwalifikowalne imając na względzie:
 
 **Art. 20.**
 
-1. Instytucje poÊredniczàce, októrych mowa wart. 5 ust. 1, przekazujà ministrowi w∏aÊciwemu do spraw rybo∏ówstwa dane niezb´dne do sporzàdzenia wykazu beneficjentów, którym mowa art. 31 zdanie drugie lit. d zdanie trzecie rozporzàdzenia nr 498/2007.
+1. Instytucje pośredniczące, októrych mowa wart. 5 ust. 1, przekazują ministrowi właściwemu do spraw rybołówstwa dane niezbędne do sporządzenia wykazu beneficjentów, którym mowa art. 31 zdanie drugie lit. d zdanie trzecie rozporządzenia nr 498/2007.
 
 2. Wykaz beneficjentów:
 
-- **1)** zawiera imi´ nazwisko albo nazw´ podmiotu, który otrzyma∏ pomoc, jego miejsce zamieszkania albo siedzib´ oraz wysokoÊç pomocy przyznanej wdanym roku;
-- **2)** jest umieszczany na stronie internetowej urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw rybo∏ówstwa, co roku, do dnia 30 czerwca izawiera dane za poprzedni rok.
+- **1)** zawiera imię nazwisko albo nazwę podmiotu, który otrzymał pomoc, jego miejsce zamieszkania albo siedzibę oraz wysokość pomocy przyznanej wdanym roku;
+- **2)** jest umieszczany na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa, co roku, do dnia 30 czerwca izawiera dane za poprzedni rok.
 
-**Art. 21.** Wyp∏aty pomocy przyznanej wramach programu operacyjnego dokonuje Agencja na podstawie:
+**Art. 21.** Wypłaty pomocy przyznanej wramach programu operacyjnego dokonuje Agencja na podstawie:
 
 **Art. 22.**
 
 1. Wramach realizacji programu operacyjnego:
 
-- **1)** instytucje poÊredniczàce, których mowa art. 5 ust. 1 sporzàdzajà sprawozdania roczne isprawozdanie koƒcowe odniesieniu do osi priorytetowych, októrych mowa wart. 3, oraz wodniesieniu do programu operacyjnego;
+- **1)** instytucje pośredniczące, których mowa art. 5 ust. 1 sporządzają sprawozdania roczne isprawozdanie końcowe odniesieniu do osi priorytetowych, októrych mowa wart. 3, oraz wodniesieniu do programu operacyjnego;
 
 3. Wzór sprawozdania, którym mowa ust. 1 pkt 2:
 
-- **1)** przygotowuje instytucja zarzàdzajàca;
-- **2)** jest umieszczany na stronie internetowej urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw rybo∏ówstwa oraz na stronach internetowych administrowanych przez instytucje poÊredniczàce, októrych mowa wart. 5 ust. 1 pkt 1 i2.
+- **1)** przygotowuje instytucja zarządzająca;
+- **2)** jest umieszczany na stronie internetowej urzędu obsługującego ministra właściwego do spraw rybołówstwa oraz na stronach internetowych administrowanych przez instytucje pośredniczące, októrych mowa wart. 5 ust. 1 pkt 1 i2.
 
-4. W celu przygotowania sprawozdaƒ, których mowa ust. 1 pkt 1, instytucje poÊredniczàce, których mowa art. 5 ust. 1, gromadzà opracowujà uzyskane od beneficjentów dane zwiàzane z wykonyrealizowania.
+4. W celu przygotowania sprawozdań, których mowa ust. 1 pkt 1, instytucje pośredniczące, których mowa art. 5 ust. 1, gromadzą opracowują uzyskane od beneficjentów dane związane z wykonyrealizowania.
 
-3. Kontrola, októrej mowa wust. 1, mo˝e byç tak˝e przeprowadzana sposób okreÊlony art. 39 ust. 3 rozporzàdzenia nr 498/2007.
+3. Kontrola, októrej mowa wust. 1, może być także przeprowadzana sposób określony art. 39 ust. 3 rozporządzenia nr 498/2007.
 
-4. Instytucja zarzàdzajàca mo˝e powierzyç przeprowadzenie kontroli zakresie, którym mowa ust. 1, instytucjom poÊredniczàcym, których mowa wart. 5 ust. 1.
+4. Instytucja zarządzająca może powierzyć przeprowadzenie kontroli zakresie, którym mowa ust. 1, instytucjom pośredniczącym, których mowa wart. 5 ust. 1.
 
 **Art. 25.**
 
-1. Instytucja zarzàdzajàca sporzàdza plan kontroli na ka˝dy kolejny rok kalendarzowy realizacji programu operacyjnego. waniem przez nie zadaƒ instytucji zarzàdzajàcej. 2. Plan kontroli jest umieszczany na stronie internetowej urz´du obs∏ugujàcego ministra w∏aÊciwego
+1. Instytucja zarządzająca sporządza plan kontroli na każdy kolejny rok kalendarzowy realizacji programu operacyjnego. waniem przez nie zadań instytucji zarządzającej. 2. Plan kontroli jest umieszczany na stronie internetowej urzędu obsługującego ministra właściwego
 
-5. Sprawozdania roczne isprawozdanie koƒcowe: do spraw rybo∏ówstwa.
+5. Sprawozdania roczne isprawozdanie końcowe: do spraw rybołówstwa.
 
-- **1)** instytucje poÊredniczàce, októrych mowa wart. 5 Art. 26. 1. Kontrole, których mowa art. 23 ust. 1, przekazujà instytucji zarzàdzajàcej; pkt 1 art. 24 ust. 1, sà przeprowadzane przez osoby
-- **2)** beneficjent przekazuje instytucji poÊredniczàcej. posiadajàce imienne upowa˝nienie do wykonywania czynnoÊci kontrolnych.
+- **1)** instytucje pośredniczące, októrych mowa wart. 5 Art. 26. 1. Kontrole, których mowa art. 23 ust. 1, przekazują instytucji zarządzającej; pkt 1 art. 24 ust. 1, są przeprowadzane przez osoby
+- **2)** beneficjent przekazuje instytucji pośredniczącej. posiadające imienne upoważnienie do wykonywania czynności kontrolnych.
 
-6. Minister w∏aÊciwy do spraw rybo∏ówstwa okreÊ- 2. Upowa˝nienie, októrym mowa wust. 1, zawieli, wdrodze rozporzàdzenia: ra wskazanie podstawy prawnej przeprowadzenia
+6. Minister właściwy do spraw rybołówstwa okreś- 2. Upoważnienie, októrym mowa wust. 1, zawieli, wdrodze rozporządzenia: ra wskazanie podstawy prawnej przeprowadzenia
 
-- **1)** szczegó∏owy zakres sprawozdaƒ, októrych mowa kontroli, osoby upowa˝nionej do wykonywania czynwust. 1, oraz tryb iterminy ich przekazywania, noÊci kontrolnych oraz miejsca izakresu kontroli.
+- **1)** szczegółowy zakres sprawozdań, októrych mowa kontroli, osoby upoważnionej do wykonywania czynwust. 1, oraz tryb iterminy ich przekazywania, ności kontrolnych oraz miejsca izakresu kontroli.
 
-3. Przed przystàpieniem do czynnoÊci kontrolnych
+3. Przed przystąpieniem do czynności kontrolnych
 
-- **2)** tryb zakres rozliczeƒ odniesieniu do operacji osoba upowa˝niona do ich wykonywania jest obowiàoraz programu operacyjnego zana okazaç upowa˝nienie, októrym mowa wust. 1. majàc na wzgl´dzie zapewnienie prawid∏owoÊci iskutecznoÊci zarzàdzania programem operacyjnym 4. Osoba upowa˝niona do wykonywania czynnooraz efektywnoÊci wykorzystania Êrodków finanso- Êci kontrolnych jest uprawniona do: wych s∏u˝àcych jego realizacji. 1) wst´pu do siedziby podmiotu, miejsca wykonywania przez ten podmiot dzia∏alnoÊci lub miejsca
+- **2)** tryb zakres rozliczeń odniesieniu do operacji osoba upoważniona do ich wykonywania jest obowiąoraz programu operacyjnego zana okazać upoważnienie, októrym mowa wust. 1. mając na względzie zapewnienie prawidłowości iskuteczności zarządzania programem operacyjnym 4. Osoba upoważniona do wykonywania czynnooraz efektywności wykorzystania środków finanso- ści kontrolnych jest uprawniona do: wych służących jego realizacji. 1) wstępu do siedziby podmiotu, miejsca wykonywania przez ten podmiot działalności lub miejsca
 
-**Art. 23.** Instytucja zarzàdzajàca odniesieniu do realizacji operacji; instytucji poÊredniczàcych, których mowa art. 5 ust. 1: 2) kontroli dokumentów zwiàzanych zzakresem kontroli, sporzàdzania z nich odpisów, wyciàgów lub
+**Art. 23.** Instytucja zarządzająca odniesieniu do realizacji operacji; instytucji pośredniczących, których mowa art. 5 ust. 1: 2) kontroli dokumentów związanych zzakresem kontroli, sporządzania z nich odpisów, wyciągów lub
 
 **Art. 24.**
 
-1. Instytucja zarzàdzajàca przeprowadza informacji pokontrolnej przez osob´ upowa˝nionà do
+1. Instytucja zarządzająca przeprowadza informacji pokontrolnej przez osobę upoważnioną do
 
 **Art. 27.**
 
-1. Pomoc pobrana nienale˝nie lub wykorzystana niezgodnie z przeznaczeniem podlega zwrotowi wraz z odsetkami okreÊlonymi jak dla zaleg∏oÊci podatkowych.
+1. Pomoc pobrana nienależnie lub wykorzystana niezgodnie z przeznaczeniem podlega zwrotowi wraz z odsetkami określonymi jak dla zaległości podatkowych.
 
-2. Pomocà pobranà nienale˝nie, jest szczególnoÊci pomoc:
+2. Pomocą pobraną nienależnie, jest szczególności pomoc:
 
-- **1)** wyp∏acona beneficjentowi, który nie realizuje operacji ca∏oÊci lub cz´Êci, lub nie realizuje obowiàzków znià zwiàzanych;
-- **2)** wyp∏acona bez podstawy prawnej lub wysokoÊci wy˝szej ni˝ okreÊlona na realizacj´ operacji umowie dofinansowanie lub decyzji, której mowa wart. 9 pkt 4 lit. b;
-- **3)** wyp∏acona beneficjentowi, który nie wykonuje zobowiàzaƒ zwiàzanych zprzyznaniem pomocy.
+- **1)** wypłacona beneficjentowi, który nie realizuje operacji całości lub części, lub nie realizuje obowiązków znią związanych;
+- **2)** wypłacona bez podstawy prawnej lub wysokości wyższej niż określona na realizację operacji umowie dofinansowanie lub decyzji, której mowa wart. 9 pkt 4 lit. b;
+- **3)** wypłacona beneficjentowi, który nie wykonuje zobowiązań związanych zprzyznaniem pomocy.
 
-3. Do pomocy pobranej nienale˝nie lub wykorzystanej niezgodnie z przeznaczeniem stosuje si´ przepisy ustawy z dnia 30 czerwca 2005 finansach publicznych (Dz. U. 249, poz. 2104, z póên. zm. ) dotyczàce zwrotu Êrodków pochodzàcych z bud˝etu Unii Europejskiej innych Êrodków pochodzàcych ze êróde∏ zagranicznych, które nie podlegajà zwrotowi.
+3. Do pomocy pobranej nienależnie lub wykorzystanej niezgodnie z przeznaczeniem stosuje się przepisy ustawy z dnia 30 czerwca 2005 finansach publicznych (Dz. U. 249, poz. 2104, z póên. zm. ) dotyczące zwrotu środków pochodzących z budżetu Unii Europejskiej innych środków pochodzących ze êródeł zagranicznych, które nie podlegają zwrotowi.
 
-4. Dochodzenie zwrotu pomocy pobranej nienale˝nie lub wykorzystanej niezgodnie z przeznaczeniem, wraz zodsetkami, nast´puje wtrybie przepisów opost´powaniu egzekucyjnym wadministracji.
+4. Dochodzenie zwrotu pomocy pobranej nienależnie lub wykorzystanej niezgodnie z przeznaczeniem, wraz zodsetkami, następuje wtrybie przepisów opostępowaniu egzekucyjnym wadministracji.
 
 **Art. 28.** W ustawie z dnia 30 czerwca 2005 finansach publicznych (Dz. U. 249, poz. 2104, zpóên. zm.
 
-**Art. 29.** W ustawie z dnia 16 listopada 2006 oop∏acie skarbowej (Dz. U. 225, poz. 1635, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 29.** W ustawie z dnia 16 listopada 2006 oopłacie skarbowej (Dz. U. 225, poz. 1635, zpóên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 30.**
 
-1. Za∏àcznik do uchwa∏y nr 99/2007 Rady Ministrów z dnia 29 maja 2007 sprawie przyj´cia Strategii Rozwoju Rybo∏ówstwa staje si´ krajowym planem strategicznym, októrym mowa wart. 2.
+1. Załącznik do uchwały nr 99/2007 Rady Ministrów z dnia 29 maja 2007 sprawie przyjęcia Strategii Rozwoju Rybołówstwa staje się krajowym planem strategicznym, októrym mowa wart. 2.
 
-2. Program operacyjny „Zrównowa˝ony rozwój sektora rybo∏ówstwa inadbrze˝nych obszarów rybackich 2007—2013” przyj´ty przez Rad´ Ministrów na posiedzeniu dniu 29 maja 2007 zatwierdzony przez Komisj´ Europejskà decyzjà z dnia 16 paêdziernika 2008 zatwierdzajàcà program operacyjny dotyczàcy pomocy wspólnotowej z Europejskiego Funduszu Rybackiego Polsce na okres programowania 2007—2013 staje si´ programem operacyjnym, októrym mowa wart. 2. ——————— ——————— nym niniejszà ustawà, nie d∏u˝ej jednak ni˝ przez 2 la- wart. 3 pkt 5, do dnia wejÊcia w˝ycie niniejszej ustata od dnia wejÊcia w˝ycie niniejszej ustawy. wy, uznaje si´ za pomoc przyznanà koszty poniesione zgodnie zprzepisami niniejszej ustawy.
+2. Program operacyjny ŃZrównoważony rozwój sektora rybołówstwa inadbrzeżnych obszarów rybackich 2007—2013” przyjęty przez Radę Ministrów na posiedzeniu dniu 29 maja 2007 zatwierdzony przez Komisję Europejską decyzją z dnia 16 paêdziernika 2008 zatwierdzającą program operacyjny dotyczący pomocy wspólnotowej z Europejskiego Funduszu Rybackiego Polsce na okres programowania 2007—2013 staje się programem operacyjnym, októrym mowa wart. 2. ——————— ——————— nym niniejszą ustawą, nie dłużej jednak niż przez 2 la- wart. 3 pkt 5, do dnia wejścia wżycie niniejszej ustata od dnia wejścia wżycie niniejszej ustawy. wy, uznaje się za pomoc przyznaną koszty poniesione zgodnie zprzepisami niniejszej ustawy.
 
-2. Przepisów, których mowa ust. 1, nie stosuje si´ do szczegó∏owego sposobu dokonywania wy- Art. 34. Ustawa wchodzi w˝ycie po up∏ywie 14 dni datków zwiàzanych zrealizacjà programu operacyjne- od dnia og∏oszenia. go finansowanego zudzia∏em Êrodków zEuropejskiego Funduszu Rybackiego. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+2. Przepisów, których mowa ust. 1, nie stosuje się do szczegółowego sposobu dokonywania wy- Art. 34. Ustawa wchodzi wżycie po upływie 14 dni datków związanych zrealizacją programu operacyjne- od dnia ogłoszenia. go finansowanego zudziałem środków zEuropejskiego Funduszu Rybackiego. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 
 

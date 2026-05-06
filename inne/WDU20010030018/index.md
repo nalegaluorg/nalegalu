@@ -26,534 +26,553 @@ domain: null
 
 USTAWA zdnia 29 listopada 2000 r.
 Prawo atomowe.
-Rozdzia∏ 1 Przepisy ogólne
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa okreÊla:
+1. Ustawa określa:
 
-- **1)** dzia∏alnoÊç w zakresie pokojowego wykorzystywania energii atomowej zwiàzanà zrzeczywistym i potencjalnym nara˝eniem na promieniowanie jonizujàce od sztucznych êróde∏ promieniotwórczych, materia∏ów jàdrowych, urzàdzeƒ wytwarzajàcych promieniowanie jonizujàce, odpadów promieniotwórczych i wypalonego paliwa jàdrowego,
-- **2)** obowiàzki kierownika jednostki organizacyjnej wykonujàcej t´ dzia∏alnoÊç,
-- **3)** organy w∏aÊciwe w sprawach bezpieczeƒstwa jàdrowego iochrony radiologicznej,
-- **4)** zasady odpowiedzialnoÊci cywilnej za szkody jàdrowe.
+- **1)** działalność w zakresie pokojowego wykorzystywania energii atomowej związaną zrzeczywistym i potencjalnym narażeniem na promieniowanie jonizujące od sztucznych êródeł promieniotwórczych, materiałów jądrowych, urządzeń wytwarzających promieniowanie jonizujące, odpadów promieniotwórczych i wypalonego paliwa jądrowego,
+- **2)** obowiązki kierownika jednostki organizacyjnej wykonującej tę działalność,
+- **3)** organy właściwe w sprawach bezpieczeństwa jądrowego iochrony radiologicznej,
+- **4)** zasady odpowiedzialności cywilnej za szkody jądrowe.
 
-2. Ustawa okreÊla tak˝e kary pieni´˝ne za naruszenie przepisów dotyczàcych bezpieczeƒstwa jàdrowego iochrony radiologicznej oraz tryb ich nak∏adania.
+2. Ustawa określa także kary pieniężne za naruszenie przepisów dotyczących bezpieczeństwa jądrowego iochrony radiologicznej oraz tryb ich nakładania.
 
-3. Ustaw´ stosuje si´ równie˝ do dzia∏alnoÊci wykonywanej w warunkach zwi´kszonego, w wyniku dzia∏ania cz∏owieka, nara˝enia na naturalne promie4. Ustawa ponadto okreÊla zasady monitorowania ska˝eƒ promieniotwórczych oraz reguluje dzia∏ania podejmowane wprzypadku zdarzeƒ radiacyjnych, jak równie˝ w przypadku d∏ugotrwa∏ego nara˝enia w nast´pstwie zdarzenia radiacyjnego lub dawnej dzia∏alnoÊci.
+3. Ustawę stosuje się również do działalności wykonywanej w warunkach zwiększonego, w wyniku działania człowieka, narażenia na naturalne promie4. Ustawa ponadto określa zasady monitorowania skażeń promieniotwórczych oraz reguluje działania podejmowane wprzypadku zdarzeń radiacyjnych, jak również w przypadku długotrwałego narażenia w następstwie zdarzenia radiacyjnego lub dawnej działalności.
 
-**Art. 2.** Wykonywanie dzia∏alnoÊci, o której mowa wart. 1 ust. 1 pkt 1 iust. 3, jest dopuszczalne po zastosowaniu okreÊlonych w przepisach Êrodków dla zapewnienia bezpieczeƒstwa oraz ochrony ˝ycia i zdrowia ludzi, jak równie˝ bezpieczeƒstwa mienia iochroniowanie jonizujàce. ny Êrodowiska.
+**Art. 2.** Wykonywanie działalności, o której mowa wart. 1 ust. 1 pkt 1 iust. 3, jest dopuszczalne po zastosowaniu określonych w przepisach środków dla zapewnienia bezpieczeństwa oraz ochrony życia i zdrowia ludzi, jak również bezpieczeństwa mienia iochroniowanie jonizujące. ny środowiska.
 
-**Art. 3.** U˝yte wustawie okreÊlenia oznaczajà:
+**Art. 3.** Użyte wustawie określenia oznaczają:
+
+#### Rozdział 2 Zezwolenia wzakresie bezpieczeństwa jądrowego iochrony radiologicznej
 
 **Art. 4.**
 
-1. Wykonywanie dzia∏alnoÊci zwiàzanej znara˝eniem, polegajàcej na:
+1. Wykonywanie działalności związanej znarażeniem, polegającej na:
 
-- **1)** wytwarzaniu, przetwarzaniu, przechowywaniu, sk∏adowaniu, transporcie lub stosowaniu materia∏ów jàdrowych, êróde∏ i odpadów promieniotwórczych oraz wypalonego paliwa jàdrowego iobrocie nimi,
-- **2)** budowie, rozruchu, próbnej i sta∏ej eksploatacji oraz likwidacji obiektów jàdrowych,
-- **3)** budowie, eksploatacji, zamkni´ciu ilikwidacji sk∏adowisk odpadów promieniotwórczych i sk∏adowisk wypalonego paliwa jàdrowego oraz budowie i eksploatacji przechowalników wypalonego paliwa jàdrowego,
-- **4)** produkowaniu, instalowaniu, stosowaniu i obs∏udze urzàdzeƒ zawierajàcych êród∏a promieniotwórcze oraz obrocie tymi urzàdzeniami,
-- **5)** produkowaniu, nabywaniu, uruchamianiu i stosowaniu urzàdzeƒ wytwarzajàcych promieniowanie jonizujàce,
-- **6)** uruchamianiu laboratoriów i pracowni, w których majà byç stosowane êród∏a promieniowania joni7) zamierzonym dodawaniu substancji promieniotwórczych wprocesie produkcyjnym wyrobów powszechnego u˝ytku i artyku∏ów medycznych oraz obrocie tymi wyrobami iartyku∏ami,
-- **8)** zamierzonym podawaniu substancji promieniotwórczych ludziom izwierz´tom wcelu medycznej lub weterynaryjnej diagnostyki, leczenia lub badaƒ naukowych wymaga zezwolenia albo zg∏oszenia w zakresie bezpieczeƒstwa jàdrowego i ochrony radiologicznej, zzastrze˝eniem art. 6 pkt 1.
+- **1)** wytwarzaniu, przetwarzaniu, przechowywaniu, składowaniu, transporcie lub stosowaniu materiałów jądrowych, êródeł i odpadów promieniotwórczych oraz wypalonego paliwa jądrowego iobrocie nimi,
+- **2)** budowie, rozruchu, próbnej i stałej eksploatacji oraz likwidacji obiektów jądrowych,
+- **3)** budowie, eksploatacji, zamknięciu ilikwidacji składowisk odpadów promieniotwórczych i składowisk wypalonego paliwa jądrowego oraz budowie i eksploatacji przechowalników wypalonego paliwa jądrowego,
+- **4)** produkowaniu, instalowaniu, stosowaniu i obsłudze urządzeń zawierających êródła promieniotwórcze oraz obrocie tymi urządzeniami,
+- **5)** produkowaniu, nabywaniu, uruchamianiu i stosowaniu urządzeń wytwarzających promieniowanie jonizujące,
+- **6)** uruchamianiu laboratoriów i pracowni, w których mają być stosowane êródła promieniowania joni7) zamierzonym dodawaniu substancji promieniotwórczych wprocesie produkcyjnym wyrobów powszechnego użytku i artykułów medycznych oraz obrocie tymi wyrobami iartykułami,
+- **8)** zamierzonym podawaniu substancji promieniotwórczych ludziom izwierzętom wcelu medycznej lub weterynaryjnej diagnostyki, leczenia lub badań naukowych wymaga zezwolenia albo zgłoszenia w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej, zzastrzeżeniem art. 6 pkt 1.
 
-2. Dzia∏alnoÊç polegajàca na dodawaniu substancji promieniotwórczych do ˝ywnoÊci, zabawek, osobistych ozdób lub kosmetyków, jak równie˝ przywóz na polski obszar celny iwywóz zpolskiego obszaru celnego takich wyrobów sà zabronione.
+2. Działalność polegająca na dodawaniu substancji promieniotwórczych do żywności, zabawek, osobistych ozdób lub kosmetyków, jak również przywóz na polski obszar celny iwywóz zpolskiego obszaru celnego takich wyrobów są zabronione.
 
 **Art. 5.**
 
-1. Z∏o˝enia wniosku o wydanie zezwolenia na wykonywanie dzia∏alnoÊci okreÊlonej wart. 4 ust. 1 albo zg∏oszenia wykonywania tej dzia∏alnoÊci dokonuje kierownik jednostki organizacyjnej.
+1. Złożenia wniosku o wydanie zezwolenia na wykonywanie działalności określonej wart. 4 ust. 1 albo zgłoszenia wykonywania tej działalności dokonuje kierownik jednostki organizacyjnej.
 
-2. Prezes Paƒstwowej Agencji Atomistyki, zwany dalej „Prezesem Agencji”, wydaje zezwolenia i przyjmuje zg∏oszenia, zzastrze˝eniem ust. 3.
+2. Prezes Państwowej Agencji Atomistyki, zwany dalej ŃPrezesem Agencji”, wydaje zezwolenia i przyjmuje zgłoszenia, zzastrzeżeniem ust. 3.
 
-3. Zezwolenie na produkowanie, nabywanie, uruchamianie istosowanie aparatów rentgenowskich oenergii promieniowania do 300 keV (kiloelektronowoltów) wcelach medycznych wydaje wojewódzki inspektor sanitarny, adla jednostek organizacyjnych podleg∏ych lub podporzàdkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez niego albo dla których jest on organem za∏o˝ycielskim wojskowy inspektor sanitarny.
+3. Zezwolenie na produkowanie, nabywanie, uruchamianie istosowanie aparatów rentgenowskich oenergii promieniowania do 300 keV (kiloelektronowoltów) wcelach medycznych wydaje wojewódzki inspektor sanitarny, adla jednostek organizacyjnych podległych lub podporządkowanych Ministrowi Obrony Narodowej lub nadzorowanych przez niego albo dla których jest on organem założycielskim wojskowy inspektor sanitarny.
 
-4. Organy, o których mowa w ust. 2 i 3, prowadzà rejestr jednostek organizacyjnych, których dzia∏alnoÊç wymaga co najmniej zg∏oszenia.
+4. Organy, o których mowa w ust. 2 i 3, prowadzą rejestr jednostek organizacyjnych, których działalność wymaga co najmniej zgłoszenia.
 
-5. Wdecyzji ocofni´ciu zezwolenia nale˝y okreÊliç sposób zabezpieczenia posiadanych przez jednostk´ organizacyjnà materia∏ów jàdrowych, êróde∏ promieniowania jonizujàcego, odpadów promieniotwórczych lub wypalonego paliwa jàdrowego.
+5. Wdecyzji ocofnięciu zezwolenia należy określić sposób zabezpieczenia posiadanych przez jednostkę organizacyjną materiałów jądrowych, êródeł promieniowania jonizującego, odpadów promieniotwórczych lub wypalonego paliwa jądrowego.
 
-6. Wsprawach nieuregulowanych dotyczàcych zezwoleƒ stosuje si´ przepisy ustawy zdnia 19 listopada 1999 r. Prawo dzia∏alnoÊci gospodarczej (Dz. U. 101, poz. 1178 oraz z2000 r. 86, poz. 958 i 114, poz. 1193).
+6. Wsprawach nieuregulowanych dotyczących zezwoleń stosuje się przepisy ustawy zdnia 19 listopada 1999 r. Prawo działalności gospodarczej (Dz. U. 101, poz. 1178 oraz z2000 r. 86, poz. 958 i 114, poz. 1193).
 
-7. Wykorzystywanie odpadów przemys∏owych zawierajàcych naturalne izotopy promieniotwórcze wcelach gospodarczych nast´puje na zasadach okreÊlonych wprzepisach oochronie Êrodowiska.
+7. Wykorzystywanie odpadów przemysłowych zawierających naturalne izotopy promieniotwórcze wcelach gospodarczych następuje na zasadach określonych wprzepisach oochronie środowiska.
 
-**Art. 6.** Rada Ministrów okreÊli, w drodze rozporzàdzenia:
+**Art. 6.** Rada Ministrów określi, w drodze rozporządzenia:
+
+#### Rozdział Bezpieczeństwo jądrowe iochrona radiologiczna oraz ochrona zdrowia pracowników
 
 **Art. 7.**
 
-1. Za przestrzeganie wymagaƒ bezpieczeƒstwa jàdrowego i ochrony radiologicznej odpowiedzialny jest kierownik jednostki organizacyjnej wykonujàcej dzia∏alnoÊç zwiàzanà znara˝eniem.
+1. Za przestrzeganie wymagań bezpieczeństwa jądrowego i ochrony radiologicznej odpowiedzialny jest kierownik jednostki organizacyjnej wykonującej działalność związaną znarażeniem.
 
-2. Wjednostce organizacyjnej wykonujàcej dzia∏alnoÊç wymagajàcà zezwolenia istnieje obowiàzek opracowania iwdro˝enia programu zapewnienia jakoÊci.
+2. Wjednostce organizacyjnej wykonującej działalność wymagającą zezwolenia istnieje obowiązek opracowania iwdrożenia programu zapewnienia jakości.
 
-3. Wjednostce organizacyjnej wykonujàcej dzia∏alnoÊç wymagajàcà zezwolenia wewn´trzny nadzór nad przestrzeganiem wymagaƒ bezpieczeƒstwa jàdrowego iochrony radiologicznej sprawuje osoba, która posiada uprawnienia inspektora ochrony radiologicznej.
+3. Wjednostce organizacyjnej wykonującej działalność wymagającą zezwolenia wewnętrzny nadzór nad przestrzeganiem wymagań bezpieczeństwa jądrowego iochrony radiologicznej sprawuje osoba, która posiada uprawnienia inspektora ochrony radiologicznej.
 
-4. Z wnioskiem o nadanie uprawnieƒ inspektora ochrony radiologicznej mo˝e wystàpiç zainteresowana osoba lub kierownik jednostki organizacyjnej.
+4. Z wnioskiem o nadanie uprawnień inspektora ochrony radiologicznej może wystąpić zainteresowana osoba lub kierownik jednostki organizacyjnej.
 
-5. Uprawnienia inspektora ochrony radiologicznej nadaje si´ osobie, która:
+5. Uprawnienia inspektora ochrony radiologicznej nadaje się osobie, która:
 
-- **1)** posiada pe∏nà zdolnoÊç do czynnoÊci prawnych,
-- **2)** posiada co najmniej Êrednie wykszta∏cenie,
-- **3)** zda∏a egzamin z zakresu szkolenia okreÊlonego wprzepisach wydanych na podstawie art. 12 ust. 2,
-- **4)** posiada orzeczenie lekarskie obraku przeciwwskazaƒ do pracy wwarunkach nara˝enia.
+- **1)** posiada pełną zdolność do czynności prawnych,
+- **2)** posiada co najmniej średnie wykształcenie,
+- **3)** zdała egzamin z zakresu szkolenia określonego wprzepisach wydanych na podstawie art. 12 ust. 2,
+- **4)** posiada orzeczenie lekarskie obraku przeciwwskazań do pracy wwarunkach narażenia.
 
-6. Uprawnienia inspektora ochrony radiologicznej nadaje Prezes Agencji, zzastrze˝eniem ust. 7.
+6. Uprawnienia inspektora ochrony radiologicznej nadaje Prezes Agencji, zzastrzeżeniem ust. 7.
 
-7. Minister w∏aÊciwy do spraw zdrowia okreÊli, wdrodze rozporzàdzenia, organ w∏aÊciwy do nadawania uprawnieƒ inspektora ochrony radiologicznej w pracowniach rentgenowskich stosujàcych aparaty rentgenowskie o energii promieniowania do 300 keV
+7. Minister właściwy do spraw zdrowia określi, wdrodze rozporządzenia, organ właściwy do nadawania uprawnień inspektora ochrony radiologicznej w pracowniach rentgenowskich stosujących aparaty rentgenowskie o energii promieniowania do 300 keV
 
-8. Koszty uzyskania uprawnieƒ ponosi wyst´pujàcy zwnioskiem onadanie uprawnieƒ.
+8. Koszty uzyskania uprawnień ponosi występujący zwnioskiem onadanie uprawnień.
 
 **Art. 8.**
 
-1. Kierownik jednostki organizacyjnej przed podj´ciem dzia∏alnoÊci sporzàdza uzasadnienie, które powinno wykazaç, ˝e spodziewane wwyniku wykonywania tej dzia∏alnoÊci korzyÊci naukowe, ekonomiczne, spo∏eczne i inne b´dà wi´ksze ni˝ mo˝liwe, powodowane przez t´ dzia∏alnoÊç, szkody dla zdrowia cz∏owieka istanu Êrodowiska.
+1. Kierownik jednostki organizacyjnej przed podjęciem działalności sporządza uzasadnienie, które powinno wykazać, że spodziewane wwyniku wykonywania tej działalności korzyści naukowe, ekonomiczne, społeczne i inne będą większe niż możliwe, powodowane przez tę działalność, szkody dla zdrowia człowieka istanu środowiska.
 
-2. W przypadku zaistnienia nowych istotnych okolicznoÊci dotyczàcych skutków wykonywanej dzia∏alnoÊci kierownik jednostki organizacyjnej jest obowiàzany dokonaç weryfikacji uzasadnienia, uwzgl´dniajàc te same czynniki, których uwzgl´dnienie jest wymagane przy sporzàdzaniu uzasadnienia.
+2. W przypadku zaistnienia nowych istotnych okoliczności dotyczących skutków wykonywanej działalności kierownik jednostki organizacyjnej jest obowiązany dokonać weryfikacji uzasadnienia, uwzględniając te same czynniki, których uwzględnienie jest wymagane przy sporządzaniu uzasadnienia.
 
 **Art. 9.**
 
-1. Kierownik jednostki organizacyjnej zapewnia wykonywanie dzia∏alnoÊci zgodnie z zasadà optymalizacji, wymagajàcà, aby przy rozsàdnym uwzgl´dnieniu czynników ekonomicznych i spo∏ecznych liczba osób nara˝onych by∏a jak najmniejsza, aotrzymywane przez te osoby dawki promieniowania by∏y mo˝liwie ma∏e, zzastrze˝eniem art. 15 ust. 3.
+1. Kierownik jednostki organizacyjnej zapewnia wykonywanie działalności zgodnie z zasadą optymalizacji, wymagającą, aby przy rozsądnym uwzględnieniu czynników ekonomicznych i społecznych liczba osób narażonych była jak najmniejsza, aotrzymywane przez te osoby dawki promieniowania były możliwie małe, zzastrzeżeniem art. 15 ust. 3.
 
-2. Je˝eli limity u˝ytkowe dawek zostanà ustalone wzezwoleniu, to mo˝liwoÊç ich przekroczenia podlega zg∏oszeniu przez kierownika jednostki organizacyjnej organowi, który wyda∏ zezwolenie.
+2. Jeżeli limity użytkowe dawek zostaną ustalone wzezwoleniu, to możliwość ich przekroczenia podlega zgłoszeniu przez kierownika jednostki organizacyjnej organowi, który wydał zezwolenie.
 
 **Art. 10.**
 
-1. Pracownik mo˝e byç zatrudniony w warunkach nara˝enia po orzeczeniu braku przeciwwskazaƒ do takiego zatrudnienia wydanym przez lekarza posiadajàcego odpowiednie kwalifikacje, zwanego dalej „uprawnionym lekarzem”.
+1. Pracownik może być zatrudniony w warunkach narażenia po orzeczeniu braku przeciwwskazań do takiego zatrudnienia wydanym przez lekarza posiadającego odpowiednie kwalifikacje, zwanego dalej Ńuprawnionym lekarzem”.
 
-2. Kwalifikacje uprawnionego lekarza, tryb wydawania i przechowywania orzeczeƒ oraz rodzaje i cz´stotliwoÊç badaƒ stanu zdrowia pracowników zatrudnionych w warunkach nara˝enia okreÊlajà przepisy prawa pracy, chyba ˝e ustawa stanowi inaczej.
+2. Kwalifikacje uprawnionego lekarza, tryb wydawania i przechowywania orzeczeń oraz rodzaje i częstotliwość badań stanu zdrowia pracowników zatrudnionych w warunkach narażenia określają przepisy prawa pracy, chyba że ustawa stanowi inaczej.
 
 **Art. 11.**
 
-1. Do pracy przy materiale jàdrowym, êródle promieniowania jonizujàcego, odpadach promieniotwórczych lub wypalonym paliwie jàdrowym mo˝na dopuÊciç pracownika, który posiada odpowiednià do stanowiska pracy znajomoÊç przepisów z zakresu bezpieczeƒstwa jàdrowego i ochrony radiologicznej oraz niezb´dne umiej´tnoÊci.
+1. Do pracy przy materiale jądrowym, êródle promieniowania jonizującego, odpadach promieniotwórczych lub wypalonym paliwie jądrowym można dopuścić pracownika, który posiada odpowiednią do stanowiska pracy znajomość przepisów z zakresu bezpieczeństwa jądrowego i ochrony radiologicznej oraz niezbędne umiejętności.
 
-2. Kierownik jednostki organizacyjnej obowiàzany jest zapewniç prowadzenie wst´pnych i okresowych szkoleƒ pracowników, praktykantów, studentów w zakresie bezpieczeƒstwa jàdrowego i ochrony radiologicznej, zgodnie z opracowanym przez siebie programem. Szkoleniem obj´ci sà równie˝ pracownicy uczestniczàcy w transporcie materia∏ów jàdrowych, êróde∏ promieniotwórczych, odpadów promieniotwórczych iwypalonego paliwa jàdrowego.
+2. Kierownik jednostki organizacyjnej obowiązany jest zapewnić prowadzenie wstępnych i okresowych szkoleń pracowników, praktykantów, studentów w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej, zgodnie z opracowanym przez siebie programem. Szkoleniem objęci są również pracownicy uczestniczący w transporcie materiałów jądrowych, êródeł promieniotwórczych, odpadów promieniotwórczych iwypalonego paliwa jądrowego.
 
-3. Programy szkoleƒ uwzgl´dniajàce informacje dotyczàce ochrony zdrowia, opracowane przez kierownika jednostki organizacyjnej dzia∏ajàcej na podstawie wcelach medycznych. zezwolenia, podlegajà zatwierdzeniu przez organ, który wyda∏ zezwolenie.
+3. Programy szkoleń uwzględniające informacje dotyczące ochrony zdrowia, opracowane przez kierownika jednostki organizacyjnej działającej na podstawie wcelach medycznych. zezwolenia, podlegają zatwierdzeniu przez organ, który wydał zezwolenie.
 
 **Art. 12.**
 
-1. W jednostce organizacyjnej na stanowisku majàcym istotne znaczenie dla zapewnienia bezpieczeƒstwa jàdrowego iochrony radiologicznej mo˝e byç zatrudniona wy∏àcznie osoba posiadajàca uprawnienia nadane przez Prezesa Agencji.
+1. W jednostce organizacyjnej na stanowisku mającym istotne znaczenie dla zapewnienia bezpieczeństwa jądrowego iochrony radiologicznej może być zatrudniona wyłącznie osoba posiadająca uprawnienia nadane przez Prezesa Agencji.
 
-2. Rada Ministrów okreÊli, w drodze rozporzàdzenia, rodzaje stanowisk, októrych mowa wust. 1, szczegó∏owe warunki itryb nadawania przez Prezesa Agencji uprawnieƒ inspektora ochrony radiologicznej oraz uprawnieƒ dla osób, które mogà byç zatrudnione na stanowiskach okreÊlonych wust. 1, wymagany zakres szkolenia, warunki, jakie muszà spe∏niaç jednostki przeprowadzajàce szkolenie, uwzgl´dniajàc program i formy organizowania szkoleƒ, wzór zaÊwiadczenia ouzyskaniu uprawnienia oraz ramowy zakres obowiàzków iuprawnieƒ inspektora ochrony radiologicznej.
+2. Rada Ministrów określi, w drodze rozporządzenia, rodzaje stanowisk, októrych mowa wust. 1, szczegółowe warunki itryb nadawania przez Prezesa Agencji uprawnień inspektora ochrony radiologicznej oraz uprawnień dla osób, które mogą być zatrudnione na stanowiskach określonych wust. 1, wymagany zakres szkolenia, warunki, jakie muszą spełniać jednostki przeprowadzające szkolenie, uwzględniając program i formy organizowania szkoleń, wzór zaświadczenia ouzyskaniu uprawnienia oraz ramowy zakres obowiązków iuprawnień inspektora ochrony radiologicznej.
 
-3. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki i tryb nadawania uprawnieƒ inspektora ochrony radiologicznej wpracowniach rentgenowskich stosujàcych aparaty rentgenowskie oenergii promieniowania do 300 keV wcelach medycznych, uwzgl´dniajàc wszczególnoÊci wzory zaÊwiadczeƒ ouzyskaniu odpowiednich kwalifikacji, sposób przeprowadzania egzaminów i powo∏ywania komisji egzaminacyjnych oraz szczegó∏owe programy szkoleƒ.
+3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki i tryb nadawania uprawnień inspektora ochrony radiologicznej wpracowniach rentgenowskich stosujących aparaty rentgenowskie oenergii promieniowania do 300 keV wcelach medycznych, uwzględniając wszczególności wzory zaświadczeń ouzyskaniu odpowiednich kwalifikacji, sposób przeprowadzania egzaminów i powoływania komisji egzaminacyjnych oraz szczegółowe programy szkoleń.
 
 **Art. 13.**
 
-1. Dawki graniczne obejmujà sum´ dawek pochodzàcych od nara˝enia zewn´trznego iwewn´trznego.
+1. Dawki graniczne obejmują sumę dawek pochodzących od narażenia zewnętrznego iwewnętrznego.
 
-2. Dawki graniczne nie obejmujà nara˝enia na promieniowanie naturalne, je˝eli nara˝enie to nie zosta∏o zwi´kszone w wyniku dzia∏alnoÊci cz∏owieka, w szczególnoÊci nie obejmujà nara˝enia pochodzàcego od radonu w budynkach mieszkalnych, od naturalnych nuklidów promieniotwórczych wchodzàcych wsk∏ad cia∏a ludzkiego, od promieniowania kosmicznego na poziomie ziemi, jak równie˝ nara˝enia nad powierzchnià ziemi od nuklidów promieniotwórczych znajdujàcych si´ wnienaruszonej skorupie ziemskiej.
+2. Dawki graniczne nie obejmują narażenia na promieniowanie naturalne, jeżeli narażenie to nie zostało zwiększone w wyniku działalności człowieka, w szczególności nie obejmują narażenia pochodzącego od radonu w budynkach mieszkalnych, od naturalnych nuklidów promieniotwórczych wchodzących wskład ciała ludzkiego, od promieniowania kosmicznego na poziomie ziemi, jak również narażenia nad powierzchnią ziemi od nuklidów promieniotwórczych znajdujących się wnienaruszonej skorupie ziemskiej.
 
 **Art. 14.**
 
-1. Suma dawek promieniowania jonizujàcego dla pracowników oraz ogó∏u ludnoÊci, pochodzàcych od wszystkich rodzajów wykonywanej dzia∏alnoÊci ∏àcznie, nie mo˝e, zzastrze˝eniem art. 19 ust. 1 iart.20 ust. 2 i 3, przekraczaç dawek granicznych okreÊlonych wprzepisach wydanych na podstawie art. 25 pkt 1.
+1. Suma dawek promieniowania jonizującego dla pracowników oraz ogółu ludności, pochodzących od wszystkich rodzajów wykonywanej działalności łącznie, nie może, zzastrzeżeniem art. 19 ust. 1 iart.20 ust. 2 i 3, przekraczać dawek granicznych określonych wprzepisach wydanych na podstawie art. 25 pkt 1.
 
-2. Dawek granicznych nie stosuje si´ do osób poddawanych dzia∏aniu promieniowania jonizujàcego wcelach medycznych.
+2. Dawek granicznych nie stosuje się do osób poddawanych działaniu promieniowania jonizującego wcelach medycznych.
 
 **Art. 15.**
 
-1. Stosowanie promieniowania jonizujàcego wcelach medycznych obejmuje:
+1. Stosowanie promieniowania jonizującego wcelach medycznych obejmuje:
 
-- **1)** ekspozycj´ pacjentów wynikajàcà z badaƒ lekarskich ileczenia, wtym równie˝ zbadaƒ wst´pnych iokresowych,
-- **2)** ekspozycj´ osób poddawanych przesiewowym badaniom radiologicznym,
-- **3)** ekspozycj´ zdrowych osób lub pacjentów uczestniczàcych weksperymentach medycznych,
-- **4)** ekspozycj´ osób wtrakcie badaƒ wcelach prawno5) ekspozycj´ osób, które Êwiadomie i z w∏asnej woli udzielajà pomocy pacjentom iopiekujà si´ nimi.
+- **1)** ekspozycję pacjentów wynikającą z badań lekarskich ileczenia, wtym również zbadań wstępnych iokresowych,
+- **2)** ekspozycję osób poddawanych przesiewowym badaniom radiologicznym,
+- **3)** ekspozycję zdrowych osób lub pacjentów uczestniczących weksperymentach medycznych,
+- **4)** ekspozycję osób wtrakcie badań wcelach prawno5) ekspozycję osób, które świadomie i z własnej woli udzielają pomocy pacjentom iopiekują się nimi.
 
-2. Skierowanie na badanie lub zabieg zzastosowaniem promieniowania jonizujàcego powinno byç oparte na przekonaniu lekarza kierujàcego, ˝e wykonanie tego badania lub zabiegu dostarczy informacji, które przyczynià si´ do prawid∏owego rozpoznania lub wykluczenia choroby, okreÊlenia jej przebiegu, niezb´dnej oceny skutecznoÊci leczenia, i˝e korzyÊci ztego tytu∏u b´dà przewy˝sza∏y mo˝liwe ujemne nast´pstwa dla zdrowia z powodu nara˝enia na promieniowanie jonizujàce.
+2. Skierowanie na badanie lub zabieg zzastosowaniem promieniowania jonizującego powinno być oparte na przekonaniu lekarza kierującego, że wykonanie tego badania lub zabiegu dostarczy informacji, które przyczynią się do prawidłowego rozpoznania lub wykluczenia choroby, określenia jej przebiegu, niezbędnej oceny skuteczności leczenia, iże korzyści ztego tytułu będą przewyższały możliwe ujemne następstwa dla zdrowia z powodu narażenia na promieniowanie jonizujące.
 
-3. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, warunki bezpiecznego stosowania promieniowania, o którym mowa w ust. 1, oraz sposób wykonywania kontroli wewn´trznej nad przestrzeganiem tych warunków, uwzgl´dniajàc wszczególnoÊci zasad´ optymalizacji, limity u˝ytkowe dawek dla osób, októrych mowa wust. 1 pkt 5, szczególne zasady dotyczàce ekspozycji na promieniowanie wzwiàzku zbadaniami izabiegami przeprowadzanymi -medycznych, na dzieciach, kobietach wcià˝y ikobietach karmiàcych piersià, a tak˝e zapobieganie nieszcz´Êliwym wypadkom, oraz wymagania dotyczàce systemu zapewnienia i kontroli jakoÊci w rentgenodiagnostyce, medycynie nuklearnej iradioterapii.
+3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, warunki bezpiecznego stosowania promieniowania, o którym mowa w ust. 1, oraz sposób wykonywania kontroli wewnętrznej nad przestrzeganiem tych warunków, uwzględniając wszczególności zasadę optymalizacji, limity użytkowe dawek dla osób, októrych mowa wust. 1 pkt 5, szczególne zasady dotyczące ekspozycji na promieniowanie wzwiązku zbadaniami izabiegami przeprowadzanymi -medycznych, na dzieciach, kobietach wciąży ikobietach karmiących piersią, a także zapobieganie nieszczęśliwym wypadkom, oraz wymagania dotyczące systemu zapewnienia i kontroli jakości w rentgenodiagnostyce, medycynie nuklearnej iradioterapii.
 
 **Art. 16.**
 
-1. Wsytuacji nara˝enia na skutek przypadku ocenie podlegajà dawki promieniowania jonizujàcego otrzymane przez nara˝onà osob´. Nara˝enie to nie dotyczy sytuacji, októrej mowa wart. 20 ust. 1.
+1. Wsytuacji narażenia na skutek przypadku ocenie podlegają dawki promieniowania jonizującego otrzymane przez narażoną osobę. Narażenie to nie dotyczy sytuacji, októrej mowa wart. 20 ust. 1.
 
-2. Oceny nara˝enia, októrym mowa wust. 1, dokonuje kierownik jednostki organizacyjnej, na terenie której nastàpi∏o nara˝enie, albo Prezes Agencji, je˝eli ustalenie takiej jednostki nie jest mo˝liwe.
+2. Oceny narażenia, októrym mowa wust. 1, dokonuje kierownik jednostki organizacyjnej, na terenie której nastąpiło narażenie, albo Prezes Agencji, jeżeli ustalenie takiej jednostki nie jest możliwe.
 
 **Art. 17.**
 
-1. Wcelu dostosowania sposobu oceny zagro˝enia pracowników wjednostkach organizacyjnych do jego spodziewanego poziomu, w zale˝noÊci od wielkoÊci zagro˝enia, wprowadza si´ dwie kategorie pracowników:
+1. Wcelu dostosowania sposobu oceny zagrożenia pracowników wjednostkach organizacyjnych do jego spodziewanego poziomu, w zależności od wielkości zagrożenia, wprowadza się dwie kategorie pracowników:
 
-- **1)** kategori´ Aobejmujàcà pracowników, którzy mogà byç nara˝eni na dawk´ skutecznà przekraczajàcà 6 mSv (milisiwertów) w ciàgu roku lub na dawk´ równowa˝nà przekraczajàcà jednà trzecià wartoÊci dawek granicznych dla soczewek oczu, skóry ikoƒczyn, okreÊlonych wprzepisach wydanych na podstawie art. 25 pkt 1,
-- **2)** kategori´ Bobejmujàcà pracowników, którzy mogà byç nara˝eni na dawk´ skutecznà przekraczajàcà 1 mSv w ciàgu roku lub na dawk´ równowa˝nà równà jednej dwudziestej wartoÊci dawek granicznych dla soczewek oczu, skóry i koƒczyn, okreÊlonych wprzepisach wydanych na podstawie art. 25 pkt 1, iktórzy nie zostali zaliczeni do kategorii A.
+- **1)** kategorię Aobejmującą pracowników, którzy mogą być narażeni na dawkę skuteczną przekraczającą 6 mSv (milisiwertów) w ciągu roku lub na dawkę równoważną przekraczającą jedną trzecią wartości dawek granicznych dla soczewek oczu, skóry ikończyn, określonych wprzepisach wydanych na podstawie art. 25 pkt 1,
+- **2)** kategorię Bobejmującą pracowników, którzy mogą być narażeni na dawkę skuteczną przekraczającą 1 mSv w ciągu roku lub na dawkę równoważną równą jednej dwudziestej wartości dawek granicznych dla soczewek oczu, skóry i kończyn, określonych wprzepisach wydanych na podstawie art. 25 pkt 1, iktórzy nie zostali zaliczeni do kategorii A.
 
-2. Ocena nara˝enia pracowników prowadzona jest na podstawie kontrolnych pomiarów dawek indywidualnych lub pomiarów dozymetrycznych w Êrodowisku pracy.
+2. Ocena narażenia pracowników prowadzona jest na podstawie kontrolnych pomiarów dawek indywidualnych lub pomiarów dozymetrycznych w środowisku pracy.
 
-3. Pracownicy kategorii Apodlegajà ocenie nara˝enia prowadzonej na podstawie systematycznych pomiarów dawek indywidualnych, a je˝eli mogà byç nara˝eni na ska˝enie wewn´trzne majàce wp∏yw na poziom dawki skutecznej dla tej kategorii pracowników, podlegajà równie˝ pomiarom ska˝eƒ wewn´trznych.
+3. Pracownicy kategorii Apodlegają ocenie narażenia prowadzonej na podstawie systematycznych pomiarów dawek indywidualnych, a jeżeli mogą być narażeni na skażenie wewnętrzne mające wpływ na poziom dawki skutecznej dla tej kategorii pracowników, podlegają również pomiarom skażeń wewnętrznych.
 
-4. Pracownicy kategorii Bpodlegajà ocenie nara˝enia prowadzonej na podstawie pomiarów dozymetrycznych w Êrodowisku pracy w sposób pozwalajàcy stwierdziç prawid∏owoÊç zaliczenia pracowników do tej kategorii. Zezwolenie mo˝e zawieraç warunek prowadzenia oceny nara˝enia pracowników kategorii Bwykonujàcych prace okreÊlone wtym zezwoleniu na podstawie pomiarów dawek indywidualnych.
+4. Pracownicy kategorii Bpodlegają ocenie narażenia prowadzonej na podstawie pomiarów dozymetrycznych w środowisku pracy w sposób pozwalający stwierdzić prawidłowość zaliczenia pracowników do tej kategorii. Zezwolenie może zawierać warunek prowadzenia oceny narażenia pracowników kategorii Bwykonujących prace określone wtym zezwoleniu na podstawie pomiarów dawek indywidualnych.
 
-5. W przypadku gdy pomiar dawki indywidualnej jest niemo˝liwy lub niewystarczajàcy, ocena dawki indywidualnej otrzymanej przez pracownika kategorii A mo˝e byç dokonana na podstawie wyników pomiarów dawek indywidualnych przeprowadzonych dla innych nara˝onych pracowników tej kategorii albo na podstawie wyników pomiarów dozymetrycznych wÊrodowisku pracy.
+5. W przypadku gdy pomiar dawki indywidualnej jest niemożliwy lub niewystarczający, ocena dawki indywidualnej otrzymanej przez pracownika kategorii A może być dokonana na podstawie wyników pomiarów dawek indywidualnych przeprowadzonych dla innych narażonych pracowników tej kategorii albo na podstawie wyników pomiarów dozymetrycznych wśrodowisku pracy.
 
-6. Zaliczenia pracowników zatrudnionych wwarunkach nara˝enia do kategorii A lub B dokonuje kierownik jednostki organizacyjnej, wzale˝noÊci od przewidywanego poziomu nara˝enia tych pracowników.
+6. Zaliczenia pracowników zatrudnionych wwarunkach narażenia do kategorii A lub B dokonuje kierownik jednostki organizacyjnej, wzależności od przewidywanego poziomu narażenia tych pracowników.
 
-7. Ze wzgl´du na zdolnoÊç do wykonywania pracy w grupie pracowników kategorii A ustala si´ nast´pujàcà klasyfikacj´ medycznà: zdolny, zdolny pod pewnymi warunkami, niezdolny.
+7. Ze względu na zdolność do wykonywania pracy w grupie pracowników kategorii A ustala się następującą klasyfikację medyczną: zdolny, zdolny pod pewnymi warunkami, niezdolny.
 
-8. Pracownik nie mo˝e byç zatrudniony na okreÊlonym stanowisku w kategorii A, je˝eli uprawniony lekarz wyda∏ orzeczenie, ˝e jest on niezdolny do wykonywania takiej pracy.
+8. Pracownik nie może być zatrudniony na określonym stanowisku w kategorii A, jeżeli uprawniony lekarz wydał orzeczenie, że jest on niezdolny do wykonywania takiej pracy.
 
 **Art. 18.**
 
-1. W celu dostosowania dzia∏aƒ i Êrodków ochrony radiologicznej pracowników do wielkoÊci irodzajów zagro˝eƒ wprowadza si´ podzia∏ lokalizacji miejsc pracy na:
+1. W celu dostosowania działań i środków ochrony radiologicznej pracowników do wielkości irodzajów zagrożeń wprowadza się podział lokalizacji miejsc pracy na:
 
-- **1)** tereny kontrolowane, na których istnieje mo˝liwoÊç otrzymania dawek okreÊlonych dla pracowników kategorii A lub mo˝liwoÊç rozprzestrzeniania si´ ska˝eƒ promieniotwórczych,
-- **2)** tereny nadzorowane, na których istnieje mo˝liwoÊç otrzymania dawek okreÊlonych dla pracowników kategorii Biktóre nie zosta∏y zaliczone do terenów kontrolowanych.
+- **1)** tereny kontrolowane, na których istnieje możliwość otrzymania dawek określonych dla pracowników kategorii A lub możliwość rozprzestrzeniania się skażeń promieniotwórczych,
+- **2)** tereny nadzorowane, na których istnieje możliwość otrzymania dawek określonych dla pracowników kategorii Biktóre nie zostały zaliczone do terenów kontrolowanych.
 
-2. Za spe∏nienie wymagaƒ okreÊlonych w przepisach wydanych na podstawie art. 25 pkt 2 dla terenów kontrolowanych inadzorowanych odpowiedzialny jest kierownik jednostki organizacyjnej.
+2. Za spełnienie wymagań określonych w przepisach wydanych na podstawie art. 25 pkt 2 dla terenów kontrolowanych inadzorowanych odpowiedzialny jest kierownik jednostki organizacyjnej.
 
 **Art. 19.**
 
-1. W szczególnych przypadkach, z wy∏àczeniem zdarzeƒ radiacyjnych, pracownicy kategorii A, za ich zgodà i za zgodà Prezesa Agencji, mogà otrzymaç dawki przekraczajàce wartoÊci dawek granicznych, je˝eli jest to konieczne dla wykonania okreÊlonego zadania.
+1. W szczególnych przypadkach, z wyłączeniem zdarzeń radiacyjnych, pracownicy kategorii A, za ich zgodą i za zgodą Prezesa Agencji, mogą otrzymać dawki przekraczające wartości dawek granicznych, jeżeli jest to konieczne dla wykonania określonego zadania.
 
-2. Niedopuszczalne jest nara˝enie, októrym mowa wust. 1, praktykantów, studentów, kobiet wcià˝y oraz kobiet karmiàcych piersià, je˝eli w wyniku nara˝enia jest prawdopodobne powstanie ska˝eƒ promienio3. Kierownik jednostki organizacyjnej obowiàzany jest uzasadniç koniecznoÊç nara˝enia, októrym mowa wust. 1, izwyprzedzeniem szczegó∏owo omówiç zwiàzane z tym kwestie z zainteresowanymi pracownikami—ochotnikami lub ich przedstawicielami oraz zuprawnionym lekarzem iinspektorem ochrony radiologicznej.
+2. Niedopuszczalne jest narażenie, októrym mowa wust. 1, praktykantów, studentów, kobiet wciąży oraz kobiet karmiących piersią, jeżeli w wyniku narażenia jest prawdopodobne powstanie skażeń promienio3. Kierownik jednostki organizacyjnej obowiązany jest uzasadnić konieczność narażenia, októrym mowa wust. 1, izwyprzedzeniem szczegółowo omówić związane z tym kwestie z zainteresowanymi pracownikami—ochotnikami lub ich przedstawicielami oraz zuprawnionym lekarzem iinspektorem ochrony radiologicznej.
 
-4. Post´powanie w sprawach, o których mowa w ust. 1 i 3, wymaga udokumentowania w formie pisemnej.
+4. Postępowanie w sprawach, o których mowa w ust. 1 i 3, wymaga udokumentowania w formie pisemnej.
 
-5. Otrzymane przez pracownika dawki, o których mowa w ust. 1, sà oddzielnie rejestrowane w dokumentacji okreÊlonej w art. 30 ust. 3. Otrzymanie tych dawek nie mo˝e powodowaç odsuni´cia pracownika od normalnych zaj´ç lub przesuni´cia go na inne stanowisko bez jego zgody, z zastrze˝eniem art. 31 ust. 2 i3.
+5. Otrzymane przez pracownika dawki, o których mowa w ust. 1, są oddzielnie rejestrowane w dokumentacji określonej w art. 30 ust. 3. Otrzymanie tych dawek nie może powodować odsunięcia pracownika od normalnych zajęć lub przesunięcia go na inne stanowisko bez jego zgody, z zastrzeżeniem art. 31 ust. 2 i3.
 
 **Art. 20.**
 
-1. Osoba uczestniczàca w usuwaniu skutków zdarzenia radiacyjnego oraz w dzia∏aniach interwencyjnych (nara˝enie wyjàtkowe) nie mo˝e otrzymaç twórczych cia∏a. w czasie trwania tych dzia∏aƒ dawki przekraczajàcej wartoÊç rocznej skutecznej dawki granicznej dla pracowników, zzastrze˝eniem ust. 2 i3.
+1. Osoba uczestnicząca w usuwaniu skutków zdarzenia radiacyjnego oraz w działaniach interwencyjnych (narażenie wyjątkowe) nie może otrzymać twórczych ciała. w czasie trwania tych działań dawki przekraczającej wartość rocznej skutecznej dawki granicznej dla pracowników, zzastrzeżeniem ust. 2 i3.
 
-2. Osoba uczestniczàca wdzia∏aniach majàcych na celu:
+2. Osoba uczestnicząca wdziałaniach mających na celu:
 
-- **1)** zapobie˝enie powa˝nej utracie zdrowia,
-- **2)** unikni´cie du˝ego napromieniowania znacznej liczby osób,
-- **3)** zapobie˝enie katastrofie na wi´kszà skal´ nie mo˝e otrzymaç dawki skutecznej przekraczajàcej wartoÊç 100 mSv.
+- **1)** zapobieżenie poważnej utracie zdrowia,
+- **2)** uniknięcie dużego napromieniowania znacznej liczby osób,
+- **3)** zapobieżenie katastrofie na większą skalę nie może otrzymać dawki skutecznej przekraczającej wartość 100 mSv.
 
-3. Osoba uczestniczàca w ratowaniu ˝ycia ludzkiego nie mo˝e otrzymaç dawki skutecznej przekraczajàcej wartoÊç 500 mSv.
+3. Osoba uczestnicząca w ratowaniu życia ludzkiego nie może otrzymać dawki skutecznej przekraczającej wartość 500 mSv.
 
-4. Osobami podejmujàcymi dzia∏ania, o których mowa wust. 2 i3, mogà byç wy∏àcznie ochotnicy, którzy przed podj´ciem tych dzia∏aƒ zostali poinformowani o zwiàzanym z ich dzia∏aniem ryzyku dla zdrowia, a nast´pnie dobrowolnie podj´li decyzj´ o udziale w dzia∏aniach. Rezygnacja z udzia∏u w dzia∏aniach nie mo˝e stanowiç podstawy do rozwiàzania stosunku pracy.
+4. Osobami podejmującymi działania, o których mowa wust. 2 i3, mogą być wyłącznie ochotnicy, którzy przed podjęciem tych działań zostali poinformowani o związanym z ich działaniem ryzyku dla zdrowia, a następnie dobrowolnie podjęli decyzję o udziale w działaniach. Rezygnacja z udziału w działaniach nie może stanowić podstawy do rozwiązania stosunku pracy.
 
-5. Podczas dzia∏aƒ, októrych mowa wust. 1—3, podejmuje si´ wszelkie Êrodki wcelu zapewnienia odpowiedniej ochrony osób bioràcych udzia∏ wdzia∏aniach oraz dokonania oceny i udokumentowania dawek otrzymywanych przez te osoby. Po zakoƒczeniu dzia∏aƒ osoby te sà informowane o otrzymanych dawkach iwynikajàcym ztego ryzyku dla zdrowia.
+5. Podczas działań, októrych mowa wust. 1—3, podejmuje się wszelkie środki wcelu zapewnienia odpowiedniej ochrony osób biorących udział wdziałaniach oraz dokonania oceny i udokumentowania dawek otrzymywanych przez te osoby. Po zakończeniu działań osoby te są informowane o otrzymanych dawkach iwynikającym ztego ryzyku dla zdrowia.
 
-6. Osoby, które otrzyma∏y dawki okreÊlone wust. 1 i 2, nie mogà byç odsuni´te od dalszej pracy zawodowej wwarunkach nara˝enia bez ich zgody, zzastrze˝eniem art. 31 ust. 2 i3.
+6. Osoby, które otrzymały dawki określone wust. 1 i 2, nie mogą być odsunięte od dalszej pracy zawodowej wwarunkach narażenia bez ich zgody, zzastrzeżeniem art. 31 ust. 2 i3.
 
-7. Osob´, która otrzyma∏a dawk´ okreÊlonà w ust. 3, kierownik jednostki organizacyjnej jest obowiàzany skierowaç na badania lekarskie. Art. 31 ust. 2 i3 stosuje si´ odpowiednio.
+7. Osobę, która otrzymała dawkę określoną w ust. 3, kierownik jednostki organizacyjnej jest obowiązany skierować na badania lekarskie. Art. 31 ust. 2 i3 stosuje się odpowiednio.
 
 **Art. 21.**
 
-1. Kierownik jednostki organizacyjnej obowiàzany jest prowadziç rejestr dawek indywidualnych otrzymywanych przez pracowników zaliczonych do kategorii A na podstawie wyników pomiarów i ocen, októrych mowa wust. 2.
+1. Kierownik jednostki organizacyjnej obowiązany jest prowadzić rejestr dawek indywidualnych otrzymywanych przez pracowników zaliczonych do kategorii A na podstawie wyników pomiarów i ocen, októrych mowa wust. 2.
 
-2. Pomiary dawek indywidualnych oraz oceny dawek od nara˝enia wewn´trznego sà dokonywane przez podmioty posiadajàce akredytacj´ otrzymanà na podstawie odr´bnych przepisów.
+2. Pomiary dawek indywidualnych oraz oceny dawek od narażenia wewnętrznego są dokonywane przez podmioty posiadające akredytację otrzymaną na podstawie odrębnych przepisów.
 
 3. Centralny rejestr dawek, o których mowa w ust. 1, prowadzi Prezes Agencji na podstawie wyników pomiarów iocen, októrych mowa wust. 2, otrzymywanych od kierownika jednostki organizacyjnej.
 
-**Art. 22.** Przed zatrudnieniem pracownika wwarunkach nara˝enia kierownik jednostki organizacyjnej jest obowiàzany uzyskaç z centralnego rejestru dawek informacj´ odawkach dotychczas otrzymanych przez tego pracownika.
+**Art. 22.** Przed zatrudnieniem pracownika wwarunkach narażenia kierownik jednostki organizacyjnej jest obowiązany uzyskać z centralnego rejestru dawek informację odawkach dotychczas otrzymanych przez tego pracownika.
 
 **Art. 23.**
 
-1. Dzia∏alnoÊç zawodowa zwiàzana zwyst´powaniem promieniowania naturalnego prowadzàcego do wzrostu nara˝enia pracowników lub ludnoÊci, istotnego z punktu widzenia ochrony radiologicznej, wymaga oceny tego nara˝enia.
+1. Działalność zawodowa związana zwystępowaniem promieniowania naturalnego prowadzącego do wzrostu narażenia pracowników lub ludności, istotnego z punktu widzenia ochrony radiologicznej, wymaga oceny tego narażenia.
 
-2. Ocena nara˝enia dokonywana jest na podstawie pomiarów dozymetrycznych wÊrodowisku pracy.
+2. Ocena narażenia dokonywana jest na podstawie pomiarów dozymetrycznych wśrodowisku pracy.
 
-3. Do dzia∏alnoÊci, o której mowa w ust. 1, zalicza si´ wszczególnoÊci dzia∏alnoÊç zwiàzanà zwykonywaniem prac:
+3. Do działalności, o której mowa w ust. 1, zalicza się wszczególności działalność związaną zwykonywaniem prac:
 
-- **1)** wkopalniach, jaskiniach iinnych miejscach pod powierzchnià ziemi,
-- **2)** w lotnictwie, z wy∏àczeniem prac wykonywanych przez personel naziemny.
+- **1)** wkopalniach, jaskiniach iinnych miejscach pod powierzchnią ziemi,
+- **2)** w lotnictwie, z wyłączeniem prac wykonywanych przez personel naziemny.
 
-4. Kierownik jednostki organizacyjnej okreÊla sposób dokonywania oceny nara˝enia itryb post´powania majàcego na celu zmniejszenie tego nara˝enia, uwzgl´dniajàc przepisy wydane na podstawie art. 25 pkt 1 ispecyfik´ pracy osoby nara˝onej.
+4. Kierownik jednostki organizacyjnej określa sposób dokonywania oceny narażenia itryb postępowania mającego na celu zmniejszenie tego narażenia, uwzględniając przepisy wydane na podstawie art. 25 pkt 1 ispecyfikę pracy osoby narażonej.
 
-**Art. 24.** Nara˝enie ogó∏u ludnoÊci wwyniku stosowania promieniowania jonizujàcego podlega regularnej ocenie dokonywanej przez Prezesa Agencji i jest przedstawiane w sprawozdaniu, o którym mowa wart.110 pkt 13.
+**Art. 24.** Narażenie ogółu ludności wwyniku stosowania promieniowania jonizującego podlega regularnej ocenie dokonywanej przez Prezesa Agencji i jest przedstawiane w sprawozdaniu, o którym mowa wart.110 pkt 13.
 
-**Art. 25.** Rada Ministrów okreÊli, wdrodze rozporzàdzenia:
+**Art. 25.** Rada Ministrów określi, wdrodze rozporządzenia:
 
-**Art. 26.** Kierownik jednostki organizacyjnej zatrudniajàcej pracowników w warunkach nara˝enia jest obowiàzany zapewniç:
+**Art. 26.** Kierownik jednostki organizacyjnej zatrudniającej pracowników w warunkach narażenia jest obowiązany zapewnić:
 
 **Art. 27.**
 
-1. Przyrzàdy dozymetryczne stosowane do kontroli ioceny nara˝enia, niepodlegajàce obowiàzkowi kontroli metrologicznej okreÊlonej wprzepisach omiarach, powinny posiadaç Êwiadectwo wzorcowania.
+1. Przyrządy dozymetryczne stosowane do kontroli ioceny narażenia, niepodlegające obowiązkowi kontroli metrologicznej określonej wprzepisach omiarach, powinny posiadać świadectwo wzorcowania.
 
-2. Âwiadectwo wzorcowania, o którym mowa runki, jakie muszà byç spe∏nione dla wykonywania wust. 1, wydaje laboratorium pomiarowe posiadajàce akredytacj´ otrzymanà na podstawie odr´bnych przepisów.
+2. Âwiadectwo wzorcowania, o którym mowa runki, jakie muszą być spełnione dla wykonywania wust. 1, wydaje laboratorium pomiarowe posiadające akredytację otrzymaną na podstawie odrębnych przepisów.
 
-**Art. 28.** Rada Ministrów okreÊli, wdrodze rozporzàdzenia, wymagania dotyczàce:
+**Art. 28.** Rada Ministrów określi, wdrodze rozporządzenia, wymagania dotyczące:
 
 **Art. 29.**
 
-1. Kierownik jednostki organizacyjnej jest obowiàzany zapewniç pracownikom zatrudnionym przez innego pracodawc´ (pracodawca zewn´trzny) lub pracownikom samodzielnym wykonujàcym dowolnà dzia∏alnoÊç na terenie kontrolowanym (pracownicy zewn´trzni) ochron´ równowa˝nà ochronie, jakà zapewnia pracownikom zatrudnionym wjednostce organizacyjnej.
+1. Kierownik jednostki organizacyjnej jest obowiązany zapewnić pracownikom zatrudnionym przez innego pracodawcę (pracodawca zewnętrzny) lub pracownikom samodzielnym wykonującym dowolną działalność na terenie kontrolowanym (pracownicy zewnętrzni) ochronę równoważną ochronie, jaką zapewnia pracownikom zatrudnionym wjednostce organizacyjnej.
 
-2. Kierownik jednostki organizacyjnej, po zakoƒczeniu przez pracownika zewn´trznego dzia∏alnoÊci na terenie kontrolowanym, wydaje mu dokument, który zawiera dane dotyczàce:
+2. Kierownik jednostki organizacyjnej, po zakończeniu przez pracownika zewnętrznego działalności na terenie kontrolowanym, wydaje mu dokument, który zawiera dane dotyczące:
 
 - **1)** rodzaju wykonywanej pracy iokresu jej trwania,
-- **2)** oceny dawki wyra˝onej w wielkoÊciach stosowanych do dawek granicznych odpowiednio dla nara˝enia ca∏ego cia∏a, nara˝enia niejednorodnego inara˝enia wewn´trznego.
+- **2)** oceny dawki wyrażonej w wielkościach stosowanych do dawek granicznych odpowiednio dla narażenia całego ciała, narażenia niejednorodnego inarażenia wewnętrznego.
 
-3. Rada Ministrów okreÊli, w drodze rozporzàdzenia, szczegó∏owe obowiàzki kierownika jednostki organizacyjnej, pracodawcy zewn´trznego ipracownika zewn´trznego w zakresie ochrony przed promieniowaniem jonizujàcym pracowników zewn´trznych nara˝onych podczas pracy na terenie kontrolowanym, uwzgl´dniajàc sposoby ochrony stosowane wobec pracowników jednostki organizacyjnej.
+3. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe obowiązki kierownika jednostki organizacyjnej, pracodawcy zewnętrznego ipracownika zewnętrznego w zakresie ochrony przed promieniowaniem jonizującym pracowników zewnętrznych narażonych podczas pracy na terenie kontrolowanym, uwzględniając sposoby ochrony stosowane wobec pracowników jednostki organizacyjnej.
 
 **Art. 30.**
 
-1. Za nadzór medyczny nad pracownikami kategorii Aodpowiedzialny jest kierownik jednostki organizacyjnej oraz uprawniony lekarz, któremu zapewnia si´ dost´p do informacji niezb´dnych do wydania orzeczenia o zdolnoÊci tych pracowników do wykonywania okreÊlonej pracy, ∏àcznie z informacjà o warunkach Êrodowiskowych wmiejscu pracy.
+1. Za nadzór medyczny nad pracownikami kategorii Aodpowiedzialny jest kierownik jednostki organizacyjnej oraz uprawniony lekarz, któremu zapewnia się dostęp do informacji niezbędnych do wydania orzeczenia o zdolności tych pracowników do wykonywania określonej pracy, łącznie z informacją o warunkach środowiskowych wmiejscu pracy.
 
-2. Nadzór medyczny, októrym mowa wust. 1, obejmuje wst´pne badania lekarskie pracownika przed jego zatrudnieniem dla okreÊlenia, czy pracownik mo˝e byç zatrudniony wkategorii A, oraz okresowe badania lekarskie przeprowadzane co najmniej raz wroku, które pozwalajà stwierdziç, czy pracownik mo˝e nadal wykonywaç swoje obowiàzki.
+2. Nadzór medyczny, októrym mowa wust. 1, obejmuje wstępne badania lekarskie pracownika przed jego zatrudnieniem dla określenia, czy pracownik może być zatrudniony wkategorii A, oraz okresowe badania lekarskie przeprowadzane co najmniej raz wroku, które pozwalają stwierdzić, czy pracownik może nadal wykonywać swoje obowiązki.
 
-3. Dla ka˝dego pracownika kategorii Auprawniony lekarz zak∏ada dokumentacj´ medycznà, prowadzonà iaktualizowanà przez ca∏y okres zaliczenia do tej kategorii. Dokumentacja jest przechowywana do dnia osiàgni´cia przez pracownika wieku 75 lat, jednak nie krócej ni˝ przez 30 lat od dnia zakoƒczenia przez niego pracy wwarunkach nara˝enia.
+3. Dla każdego pracownika kategorii Auprawniony lekarz zakłada dokumentację medyczną, prowadzoną iaktualizowaną przez cały okres zaliczenia do tej kategorii. Dokumentacja jest przechowywana do dnia osiągnięcia przez pracownika wieku 75 lat, jednak nie krócej niż przez 30 lat od dnia zakończenia przez niego pracy wwarunkach narażenia.
 
-4. Dokumentacja medyczna obejmuje informacje o rodzaju wykonywanej pracy, wynikach badaƒ lekarskich przeprowadzonych przed podj´ciem zatrudnienia wkategorii Aiowynikach badaƒ okresowych oraz rejestr dawek, októrym mowa wart. 21 ust. 1.
+4. Dokumentacja medyczna obejmuje informacje o rodzaju wykonywanej pracy, wynikach badań lekarskich przeprowadzonych przed podjęciem zatrudnienia wkategorii Aiowynikach badań okresowych oraz rejestr dawek, októrym mowa wart. 21 ust. 1.
 
-5. Po ustaniu zatrudnienia w warunkach nara˝enia uprawniony lekarz mo˝e zaleciç kontynuacj´ nadzoru medycznego, je˝eli uzna to za konieczne dla ochrony zdrowia pracownika.
+5. Po ustaniu zatrudnienia w warunkach narażenia uprawniony lekarz może zalecić kontynuację nadzoru medycznego, jeżeli uzna to za konieczne dla ochrony zdrowia pracownika.
 
 **Art. 31.**
 
-1. Wprzypadku stwierdzonego przekroczenia którejkolwiek z dawek granicznych, okreÊlonych wprzepisach wydanych na podstawie art. 25 pkt 1, kierownik jednostki organizacyjnej jest obowiàzany skierowaç pracownika na badania lekarskie.
+1. Wprzypadku stwierdzonego przekroczenia którejkolwiek z dawek granicznych, określonych wprzepisach wydanych na podstawie art. 25 pkt 1, kierownik jednostki organizacyjnej jest obowiązany skierować pracownika na badania lekarskie.
 
-2. Dalsza praca w warunkach nara˝enia wymaga zgody uprawnionego lekarza.
+2. Dalsza praca w warunkach narażenia wymaga zgody uprawnionego lekarza.
 
-3. Wprzypadku braku zgody uprawnionego lekarza na dalsze zatrudnienie pracownika wwarunkach nara˝enia stosuje si´ odpowiednio przepisy prawa pracy odnoszàce si´ do pracownika, u którego stwierdzono objawy wskazujàce na powstanie choroby zawodowej.
+3. Wprzypadku braku zgody uprawnionego lekarza na dalsze zatrudnienie pracownika wwarunkach narażenia stosuje się odpowiednio przepisy prawa pracy odnoszące się do pracownika, u którego stwierdzono objawy wskazujące na powstanie choroby zawodowej.
 
-**Art. 32.** Od orzeczeƒ lekarskich, o których mowa wart. 17 ust. 8 oraz wart. 31 ust. 2, pracownikowi s∏u˝y odwo∏anie do sàdu pracy.
+**Art. 32.** Od orzeczeń lekarskich, o których mowa wart. 17 ust. 8 oraz wart. 31 ust. 2, pracownikowi służy odwołanie do sądu pracy.
 
 **Art. 33.**
 
-1. W celu zapewnienia bezpieczeƒstwa jàdrowego i ochrony radiologicznej kraju przy stosowaniu promieniowania jonizujàcego w warunkach normalnych iwsytuacji zdarzeƒ radiacyjnych wykonywanie dzia∏alnoÊci, októrej mowa wust. 2, mo˝e byç dofinansowywane z bud˝etu paƒstwa w formie dotacji celowej, zwanej dalej „dotacjà”.
+1. W celu zapewnienia bezpieczeństwa jądrowego i ochrony radiologicznej kraju przy stosowaniu promieniowania jonizującego w warunkach normalnych iwsytuacji zdarzeń radiacyjnych wykonywanie działalności, októrej mowa wust. 2, może być dofinansowywane z budżetu państwa w formie dotacji celowej, zwanej dalej Ńdotacją”.
 
-2. Dotacja mo˝e byç przeznaczona na:
+2. Dotacja może być przeznaczona na:
 
-- **1)** eksploatacj´ ilikwidacj´ badawczych reaktorów jàdrowych,
-- **2)** eksploatacj´ zlokalizowanych wjednostkach naukoratów rentgenowskich i êróde∏ promieniowania gamma wykorzystywanych na potrzeby s∏u˝by zdrowia wcelach innych ni˝ diagnostyka iradioterapia,
-- **3)** dzia∏alnoÊç s∏u˝b ochrony radiologicznej, bezpieczeƒstwa jàdrowego iochrony fizycznej zapewniajàcych bezpieczeƒstwo oÊrodka jàdrowego wOtwocku-Âwierku,
-- **4)** sporzàdzanie ocen oddzia∏ywania obiektów jàdrowych, akceleratorów, aparatów rentgenowskich i êróde∏ promieniowania gamma na Êrodowisko i zdrowie ludzi oraz wykonywanie badaƒ i analiz niezb´dnych do sporzàdzenia tych ocen, a tak˝e wykonywanie prac kontrolno-rozpoznawczych b´dàcych nast´pstwem nieprawid∏owoÊci zg∏aszanych przez s∏u˝by graniczne iratownicze,
-- **5)** prowadzenie dzia∏aƒ majàcych na celu likwidacj´ skutków zdarzeƒ radiacyjnych w obiektach jàdrowych iwjednostkach organizacyjnych stosujàcych êród∏a promieniowania jonizujàcego,
-- **6)** wykonywanie pomiarów mocy dawki promieniowania jonizujàcego lub ska˝eƒ promieniotwórwych ibadawczo-rozwojowych akceleratorów, apaczych kraju, w tym w jednostkach organizacyjnych stosujàcych êród∏a promieniowania jonizujàcego,
-- **7)** wzorcowanie przyrzàdów dozymetrycznych,
-- **8)** tworzenie i wykorzystywanie modeli obliczeniowych s∏u˝àcych do oceny sytuacji radiacyjnych, niezb´dnych do podj´cia odpowiednich dzia∏aƒ wkraju na wypadek zdarzeƒ radiacyjnych,
-- **9)** inwestycje s∏u˝àce wykonywaniu dzia∏alnoÊci, októrej mowa wpkt 1—8.
+- **1)** eksploatację ilikwidację badawczych reaktorów jądrowych,
+- **2)** eksploatację zlokalizowanych wjednostkach naukoratów rentgenowskich i êródeł promieniowania gamma wykorzystywanych na potrzeby służby zdrowia wcelach innych niż diagnostyka iradioterapia,
+- **3)** działalność służb ochrony radiologicznej, bezpieczeństwa jądrowego iochrony fizycznej zapewniających bezpieczeństwo ośrodka jądrowego wOtwocku-Âwierku,
+- **4)** sporządzanie ocen oddziaływania obiektów jądrowych, akceleratorów, aparatów rentgenowskich i êródeł promieniowania gamma na środowisko i zdrowie ludzi oraz wykonywanie badań i analiz niezbędnych do sporządzenia tych ocen, a także wykonywanie prac kontrolno-rozpoznawczych będących następstwem nieprawidłowości zgłaszanych przez służby graniczne iratownicze,
+- **5)** prowadzenie działań mających na celu likwidację skutków zdarzeń radiacyjnych w obiektach jądrowych iwjednostkach organizacyjnych stosujących êródła promieniowania jonizującego,
+- **6)** wykonywanie pomiarów mocy dawki promieniowania jonizującego lub skażeń promieniotwórwych ibadawczo-rozwojowych akceleratorów, apaczych kraju, w tym w jednostkach organizacyjnych stosujących êródła promieniowania jonizującego,
+- **7)** wzorcowanie przyrządów dozymetrycznych,
+- **8)** tworzenie i wykorzystywanie modeli obliczeniowych służących do oceny sytuacji radiacyjnych, niezbędnych do podjęcia odpowiednich działań wkraju na wypadek zdarzeń radiacyjnych,
+- **9)** inwestycje służące wykonywaniu działalności, októrej mowa wpkt 1—8.
 
-3. Dotacji udziela Prezes Agencji ze Êrodków przewidzianych na ten cel wustawie bud˝etowej.
+3. Dotacji udziela Prezes Agencji ze środków przewidzianych na ten cel wustawie budżetowej.
 
-4. WysokoÊç dotacji nie mo˝e byç wi´ksza ni˝ koszty poniesione w zwiàzku z wykonywanà dzia∏alnoÊcià, pomniejszone o dochody uzyskane z tej dzia∏alnoÊci, i nie mo˝e przekraczaç 85% kosztów wykonywanej dzia∏alnoÊci.
+4. Wysokość dotacji nie może być większa niż koszty poniesione w związku z wykonywaną działalnością, pomniejszone o dochody uzyskane z tej działalności, i nie może przekraczać 85% kosztów wykonywanej działalności.
 
-5. Rada Ministrów okreÊli, w drodze rozporzàdzenia, szczegó∏owe zasady i tryb udzielania, rozliczania oraz zwrotu dotacji, zuwzgl´dnieniem wzoru wniosku o udzielenie dotacji i niezb´dnych za∏àczników oraz sposobu dokumentowania realizacji zadania i wykorzystania dotacji. Rozdzia∏ 4 Obiekty jàdrowe
+5. Rada Ministrów określi, w drodze rozporządzenia, szczegółowe zasady i tryb udzielania, rozliczania oraz zwrotu dotacji, zuwzględnieniem wzoru wniosku o udzielenie dotacji i niezbędnych załączników oraz sposobu dokumentowania realizacji zadania i wykorzystania dotacji.
+
+#### Rozdział 4 Obiekty jądrowe
 
 **Art. 34.**
 
-1. Do obiektów jàdrowych nale˝à w szczególnoÊci:
+1. Do obiektów jądrowych należą w szczególności:
 
-- **1)** elektrownie, elektrociep∏ownie i ciep∏ownie jàdrowe zenergetycznymi reaktorami jàdrowymi,
-- **2)** badawcze, doÊwiadczalne iinne reaktory jàdrowe,
-- **3)** obiekty przeznaczone do wytwarzania, przetwarzania, przechowywania isk∏adowania materia∏ów jàdrowych ipaliwa jàdrowego od rozpocz´cia budowy do zakoƒczenia ich likwidacji.
+- **1)** elektrownie, elektrociepłownie i ciepłownie jądrowe zenergetycznymi reaktorami jądrowymi,
+- **2)** badawcze, doświadczalne iinne reaktory jądrowe,
+- **3)** obiekty przeznaczone do wytwarzania, przetwarzania, przechowywania iskładowania materiałów jądrowych ipaliwa jądrowego od rozpoczęcia budowy do zakończenia ich likwidacji.
 
-2. Obiekty jàdrowe podlegajà ochronie fizycznej.
+2. Obiekty jądrowe podlegają ochronie fizycznej.
 
 **Art. 35.**
 
-1. Obowiàzek spe∏nienia wymagaƒ bezpieczeƒstwa jàdrowego i ochrony radiologicznej oraz ochrony fizycznej obiektu jàdrowego wokresie ustalania lokalizacji, projektowania, budowy, rozruchu i próbnej eksploatacji spoczywa na inwestorze, awokresie sta∏ej eksploatacji lub likwidacji obiektu na kierowniku jednostki eksploatujàcej.
+1. Obowiązek spełnienia wymagań bezpieczeństwa jądrowego i ochrony radiologicznej oraz ochrony fizycznej obiektu jądrowego wokresie ustalania lokalizacji, projektowania, budowy, rozruchu i próbnej eksploatacji spoczywa na inwestorze, awokresie stałej eksploatacji lub likwidacji obiektu na kierowniku jednostki eksploatującej.
 
-2. Niezale˝nie od obowiàzków inwestora obowiàzek spe∏nienia wymagaƒ bezpieczeƒstwa jàdrowego iochrony radiologicznej spoczywa na innych uczestnikach procesu inwestycyjnego, odpowiednio do zakresu ich zadaƒ.
+2. Niezależnie od obowiązków inwestora obowiązek spełnienia wymagań bezpieczeństwa jądrowego iochrony radiologicznej spoczywa na innych uczestnikach procesu inwestycyjnego, odpowiednio do zakresu ich zadań.
 
-3. W okresie projektowania, budowy, rozruchu i eksploatacji obiektu jàdrowego nale˝y stosowaç rozwiàzania techniczne i organizacyjne, które w Êwietle osiàgni´ç nauki itechniki sà niezb´dne do tego, aby na wszystkich etapach eksploatacji nara˝enie osób przebywajàcych wobiekcie lub innych osób iska˝enie Êrodowiska by∏o mo˝liwie jak najmniejsze przy rozsàdnym uwzgl´dnieniu czynników ekonomicznych i spo∏ecznych inie przekracza∏o dawek granicznych okreÊlonych w przepisach wydanych na podstawie art. 25 pkt1.
+3. W okresie projektowania, budowy, rozruchu i eksploatacji obiektu jądrowego należy stosować rozwiązania techniczne i organizacyjne, które w świetle osiągnięć nauki itechniki są niezbędne do tego, aby na wszystkich etapach eksploatacji narażenie osób przebywających wobiekcie lub innych osób iskażenie środowiska było możliwie jak najmniejsze przy rozsądnym uwzględnieniu czynników ekonomicznych i społecznych inie przekraczało dawek granicznych określonych w przepisach wydanych na podstawie art. 25 pkt1.
 
-**Art. 36.** Organ w∏aÊciwy do wydania decyzji o warunkach zabudowy i zagospodarowania terenu przeznaczonego pod budow´ obiektu jàdrowego, na podstawie przepisów ustawy zdnia 7 lipca 1994 r. ozagospodarowaniu przestrzennym (Dz. U. z 1999 r. 15, poz. 139, 41, poz. 412 i 111, poz. 1279 oraz z 2000 r. 12, poz. 136, 109, poz. 1157 i 120, poz. 1268), wydaje t´ decyzj´ po uzyskaniu pozytywnej opinii Prezesa Agencji w zakresie bezpieczeƒstwa jàdrowego iochrony radiologicznej.
+**Art. 36.** Organ właściwy do wydania decyzji o warunkach zabudowy i zagospodarowania terenu przeznaczonego pod budowę obiektu jądrowego, na podstawie przepisów ustawy zdnia 7 lipca 1994 r. ozagospodarowaniu przestrzennym (Dz. U. z 1999 r. 15, poz. 139, 41, poz. 412 i 111, poz. 1279 oraz z 2000 r. 12, poz. 136, 109, poz. 1157 i 120, poz. 1268), wydaje tę decyzję po uzyskaniu pozytywnej opinii Prezesa Agencji w zakresie bezpieczeństwa jądrowego iochrony radiologicznej.
 
-**Art. 37.** Prezes Agencji wydaje zezwolenie na budow´, rozruch i próbnà eksploatacj´ obiektu jàdrowego na wniosek inwestora, azezwolenie na sta∏à eksploatacj´ ilikwidacj´ na wniosek kierownika jednostki eksploatujàcej. Zezwolenie jest warunkiem uzyskania pozwolenia na budow´, u˝ytkowanie i rozbiórk´ obiektu jàdrowego wydawanego na podstawie ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2000 r. 106, poz. 1126, 109, poz. 1157 i 120, poz. 1268).
+**Art. 37.** Prezes Agencji wydaje zezwolenie na budowę, rozruch i próbną eksploatację obiektu jądrowego na wniosek inwestora, azezwolenie na stałą eksploatację ilikwidację na wniosek kierownika jednostki eksploatującej. Zezwolenie jest warunkiem uzyskania pozwolenia na budowę, użytkowanie i rozbiórkę obiektu jądrowego wydawanego na podstawie ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2000 r. 106, poz. 1126, 109, poz. 1157 i 120, poz. 1268).
 
 **Art. 38.**
 
-1. Wokó∏ obiektu jàdrowego wojewoda tworzy obszar ograniczonego u˝ytkowania, o którym mowa w ustawie z dnia 31 stycznia 1980 r. o ochronie i kszta∏towaniu Êrodowiska (Dz. U. z 1994 r. 49, poz. 196, z 1995 r. 90, poz. 446, z 1996 r. 106, poz. 496 i 132, poz. 622, z 1997 r. 46, poz. 296, 96, poz. 592, 121, poz. 770 i 133, poz. 885, z 1998 r. 106, poz. 668, z 1999 r. 101, poz. 1178 oraz z2000 r. 12, poz. 136, 48, poz. 550,Nr 62, poz. 718 i 109, poz. 1157).
+1. Wokół obiektu jądrowego wojewoda tworzy obszar ograniczonego użytkowania, o którym mowa w ustawie z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. 49, poz. 196, z 1995 r. 90, poz. 446, z 1996 r. 106, poz. 496 i 132, poz. 622, z 1997 r. 46, poz. 296, 96, poz. 592, 121, poz. 770 i 133, poz. 885, z 1998 r. 106, poz. 668, z 1999 r. 101, poz. 1178 oraz z2000 r. 12, poz. 136, 48, poz. 550,Nr 62, poz. 718 i 109, poz. 1157).
 
-2. Minister w∏aÊciwy do spraw Êrodowiska, po zasi´gni´ciu opinii Prezesa Agencji, okreÊli, w drodze ru ograniczonego u˝ytkowania wokó∏ obiektu jàdrowego ze wskazaniem ograniczeƒ w jego u˝ytkowaniu, uwzgl´dniajàc w szczególnoÊci charakterystyk´ i warunki lokalizacji obiektu jàdrowego, mo˝liwe sytuacje awaryjne oraz rozk∏ad dawek promieniowania jonizujàcego dla ró˝nych odleg∏oÊci od obiektu.
+2. Minister właściwy do spraw środowiska, po zasięgnięciu opinii Prezesa Agencji, określi, w drodze ru ograniczonego użytkowania wokół obiektu jądrowego ze wskazaniem ograniczeń w jego użytkowaniu, uwzględniając w szczególności charakterystykę i warunki lokalizacji obiektu jądrowego, możliwe sytuacje awaryjne oraz rozkład dawek promieniowania jonizującego dla różnych odległości od obiektu.
 
-3. Wsprawach dotyczàcych naprawienia szkód powsta∏ych wwyniku utworzenia obszaru ograniczonego u˝ytkowania stosuje si´ przepisy ustawy, o której mowa wust. 1.
+3. Wsprawach dotyczących naprawienia szkód powstałych wwyniku utworzenia obszaru ograniczonego użytkowania stosuje się przepisy ustawy, o której mowa wust. 1.
 
-**Art. 39.** Prezes Agencji wydaje nakaz zmniejszenia mocy lub wy∏àczenia obiektu jàdrowego zeksploatacji, je˝eli zjego oceny wynika, ˝e dalsza eksploatacja takiego obiektu zagra˝a bezpieczeƒstwu jàdrowemu. Ponowne zwi´kszenie mocy lub uruchomienie obiektu jàdrowego wymaga zgody Prezesa Agencji. Rozdzia∏ 5 Materia∏y jàdrowe
+**Art. 39.** Prezes Agencji wydaje nakaz zmniejszenia mocy lub wyłączenia obiektu jądrowego zeksploatacji, jeżeli zjego oceny wynika, że dalsza eksploatacja takiego obiektu zagraża bezpieczeństwu jądrowemu. Ponowne zwiększenie mocy lub uruchomienie obiektu jądrowego wymaga zgody Prezesa Agencji.
+
+#### Rozdział 5 Materiały jądrowe
 
 **Art. 40.**
 
-1. Kierownik jednostki organizacyjnej obowiàzany jest prowadziç ewidencj´ oraz zapewniç ochron´ fizycznà materia∏ów jàdrowych okreÊlonych w przepisach wydanych na podstawie art. 42 pkt 1 i 2.
+1. Kierownik jednostki organizacyjnej obowiązany jest prowadzić ewidencję oraz zapewnić ochronę fizyczną materiałów jądrowych określonych w przepisach wydanych na podstawie art. 42 pkt 1 i 2.
 
-2. Na system ewidencji materia∏ów jàdrowych sk∏adajà si´:
+2. Na system ewidencji materiałów jądrowych składają się:
 
-- **1)** wewnàtrzzak∏adowe ewidencje, systemy rachunkowoÊci materia∏owej i kontrole materia∏ów jàdrowych, które sà prowadzone wjednostkach organizacyjnych wykonujàcych dzia∏alnoÊç zwiàzanà zmateria∏ami jàdrowymi,
-- **2)** centralna ewidencja oparta na strukturze obszarów ewidencji materia∏ów jàdrowych, zwanych dalej „rejonami bilansu materia∏owego”.
+- **1)** wewnątrzzakładowe ewidencje, systemy rachunkowości materiałowej i kontrole materiałów jądrowych, które są prowadzone wjednostkach organizacyjnych wykonujących działalność związaną zmateriałami jądrowymi,
+- **2)** centralna ewidencja oparta na strukturze obszarów ewidencji materiałów jądrowych, zwanych dalej Ńrejonami bilansu materiałowego”.
 
-3. Centralnà ewidencj´ materia∏ów jàdrowych prowadzi Prezes Agencji we wspó∏pracy zw∏aÊciwymi organizacjami mi´dzynarodowymi.
+3. Centralną ewidencję materiałów jądrowych prowadzi Prezes Agencji we współpracy zwłaściwymi organizacjami międzynarodowymi.
 
 **Art. 41.**
 
-1. Materia∏y jàdrowe wczasie ich wytwarzania, przetwarzania, przechowywania, stosowania, transportu i sk∏adowania oraz obrotu nimi podlegajà ochronie fizycznej.
+1. Materiały jądrowe wczasie ich wytwarzania, przetwarzania, przechowywania, stosowania, transportu i składowania oraz obrotu nimi podlegają ochronie fizycznej.
 
-2. Kierownik jednostki organizacyjnej wykonujàcej dzia∏alnoÊç zwiàzanà zmateria∏ami jàdrowymi opracowuje system ochrony fizycznej, który, po zatwierdzeniu przez Prezesa Agencji, jest uzgadniany zw∏aÊciwym terytorialnie komendantem wojewódzkim Policji.
+2. Kierownik jednostki organizacyjnej wykonującej działalność związaną zmateriałami jądrowymi opracowuje system ochrony fizycznej, który, po zatwierdzeniu przez Prezesa Agencji, jest uzgadniany zwłaściwym terytorialnie komendantem wojewódzkim Policji.
 
-3. Okresowà kontrol´ systemu, o którym mowa wust. 2, przeprowadza Prezes Agencji.
+3. Okresową kontrolę systemu, o którym mowa wust. 2, przeprowadza Prezes Agencji.
 
-**Art. 42.** Rada Ministrów okreÊli, wdrodze rozporzàdzenia:
+**Art. 42.** Rada Ministrów określi, wdrodze rozporządzenia:
+
+#### Rozdział 6 èródła promieniowania jonizującego
 
 **Art. 43.**
 
-1. èród∏a promieniowania jonizujàcego podlegajà kontroli, a êród∏a promieniotwórcze podlegajà tak˝e ewidencji.
+1. èródła promieniowania jonizującego podlegają kontroli, a êródła promieniotwórcze podlegają także ewidencji.
 
-2. Obowiàzek prowadzenia kontroli êróde∏ promieniowania jonizujàcego oraz ewidencji stanu i ruchu êróde∏ promieniotwórczych spoczywa na kierowniku jednostki organizacyjnej wykonujàcej dzia∏alnoÊç zwiàzanà ztymi êród∏ami.
+2. Obowiązek prowadzenia kontroli êródeł promieniowania jonizującego oraz ewidencji stanu i ruchu êródeł promieniotwórczych spoczywa na kierowniku jednostki organizacyjnej wykonującej działalność związaną ztymi êródłami.
 
 **Art. 44.**
 
-1. Urzàdzenia zawierajàce êród∏a promieniotwórcze lub wytwarzajàce promieniowanie jonizujàce przed wprowadzeniem ich do eksploatacji podlegajà kontroli w zakresie ochrony radiologicznej. Kontrola ta nie obejmuje urzàdzeƒ, które mogà byç stosowane wdzia∏alnoÊci niewymagajàcej zezwolenia.
+1. Urządzenia zawierające êródła promieniotwórcze lub wytwarzające promieniowanie jonizujące przed wprowadzeniem ich do eksploatacji podlegają kontroli w zakresie ochrony radiologicznej. Kontrola ta nie obejmuje urządzeń, które mogą być stosowane wdziałalności niewymagającej zezwolenia.
 
-2. Kontroli dokonuje jednostka organizacyjna, która ma zezwolenie na instalowanie urzàdzeƒ lub obrót nimi.
+2. Kontroli dokonuje jednostka organizacyjna, która ma zezwolenie na instalowanie urządzeń lub obrót nimi.
 
-**Art. 45.** Rada Ministrów okreÊli, wdrodze rozporzàdzenia, szczegó∏owe warunki bezpiecznej pracy ze êród∏ami promieniowania jonizujàcego, uwzgl´dniajàc:
+**Art. 45.** Rada Ministrów określi, wdrodze rozporządzenia, szczegółowe warunki bezpiecznej pracy ze êródłami promieniowania jonizującego, uwzględniając:
+
+#### Rozdział 7 Odpady promieniotwórcze iwypalone paliwo jądrowe
 
 **Art. 47.**
 
-1. Odpady promieniotwórcze kwalifikowane sà ze wzgl´du na poziom aktywnoÊci lub moc dawki na powierzchni do kategorii odpadów: niskoaktywnych, Êrednioaktywnych i wysokoaktywnych. Kategorie mogà byç podzielone na podkategorie ze wzgl´du na okres po∏owicznego rozpadu zawartych w odpadach izotopów promieniotwórczych lub wydzielanà moc cieplnà.
+1. Odpady promieniotwórcze kwalifikowane są ze względu na poziom aktywności lub moc dawki na powierzchni do kategorii odpadów: niskoaktywnych, średnioaktywnych i wysokoaktywnych. Kategorie mogą być podzielone na podkategorie ze względu na okres połowicznego rozpadu zawartych w odpadach izotopów promieniotwórczych lub wydzielaną moc cieplną.
 
-2. Wycofane zu˝ytkowania (zu˝yte) zamkni´te êród∏a promieniotwórcze tworzà dodatkowà kategori´ odpadów promieniotwórczych.
+2. Wycofane zużytkowania (zużyte) zamknięte êródła promieniotwórcze tworzą dodatkową kategorię odpadów promieniotwórczych.
 
-3. Zu˝yte zamkni´te êród∏a promieniotwórcze kwalifikowane sà ze wzgl´du na poziom aktywnoÊci do podkategorii zu˝ytych zamkni´tych êróde∏: niskoaktywnych, Êrednioaktywnych iwysokoaktywnych, które ze wzgl´du na okres po∏owicznego rozpadu zawartych wnich izotopów dzieli si´ na krótko˝yciowe id∏ugo˝yciowe.
+3. Zużyte zamknięte êródła promieniotwórcze kwalifikowane są ze względu na poziom aktywności do podkategorii zużytych zamkniętych êródeł: niskoaktywnych, średnioaktywnych iwysokoaktywnych, które ze względu na okres połowicznego rozpadu zawartych wnich izotopów dzieli się na krótkożyciowe idługożyciowe.
 
 **Art. 48.**
 
-1. Kwalifikacji odpadów promieniotwórczych dokonuje kierownik jednostki organizacyjnej, na terenie której znajdujà si´ odpady.
+1. Kwalifikacji odpadów promieniotwórczych dokonuje kierownik jednostki organizacyjnej, na terenie której znajdują się odpady.
 
-2. Kwalifikacji odpadów promieniotwórczych mo˝e dokonaç Prezes Agencji wprzypadku:
+2. Kwalifikacji odpadów promieniotwórczych może dokonać Prezes Agencji wprzypadku:
 
-- **1)** rozbie˝noÊci mi´dzy kwalifikacjà dokonanà przez kierownika jednostki organizacyjnej, na terenie której znajdujà si´ odpady, akwalifikacjà dokonanà przez kierownika jednostki organizacyjnej przyjmujàcej odpady,
-- **2)** stwierdzenia nieprawid∏owoÊci wkwalifikacji dokonanej przez kierownika jednostki organizacyjnej, na terenie której znajdujà si´ odpady.
+- **1)** rozbieżności między kwalifikacją dokonaną przez kierownika jednostki organizacyjnej, na terenie której znajdują się odpady, akwalifikacją dokonaną przez kierownika jednostki organizacyjnej przyjmującej odpady,
+- **2)** stwierdzenia nieprawidłowości wkwalifikacji dokonanej przez kierownika jednostki organizacyjnej, na terenie której znajdują się odpady.
 
 **Art. 49.**
 
-1. Kierownik jednostki organizacyjnej, na terenie której znajdujà si´ odpady promieniotwórcze lub wypalone paliwo jàdrowe, obowiàzany jest prowadzeniami wytwarzajàcymi promieniowanie jonizu- dziç ich ewidencj´. Ewidencjonowanie obejmuje ka˝dy jàce, stosowanymi poza pracowniami, o których z rodzajów dzia∏aƒ w post´powaniu z odpadami promowa wpkt 1, mieniotwórczymi lub wypalonym paliwem jàdrowym.
+1. Kierownik jednostki organizacyjnej, na terenie której znajdują się odpady promieniotwórcze lub wypalone paliwo jądrowe, obowiązany jest prowadzeniami wytwarzającymi promieniowanie jonizu- dzić ich ewidencję. Ewidencjonowanie obejmuje każdy jące, stosowanymi poza pracowniami, o których z rodzajów działań w postępowaniu z odpadami promowa wpkt 1, mieniotwórczymi lub wypalonym paliwem jądrowym.
 
-- **3)** sposób prowadzenia kontroli iewidencji, októrych 2. Odpady promieniotwórcze zawierajàce materia∏ mowa wart. 43 ust. 1, wtym ustali wzór karty ewi- jàdrowy oraz wypalone paliwo jàdrowe podlegajà dencyjnej do prowadzenia ewidencji êróde∏ pro- ochronie fizycznej. mieniotwórczych.
+- **3)** sposób prowadzenia kontroli iewidencji, októrych 2. Odpady promieniotwórcze zawierające materiał mowa wart. 43 ust. 1, wtym ustali wzór karty ewi- jądrowy oraz wypalone paliwo jądrowe podlegają dencyjnej do prowadzenia ewidencji êródeł pro- ochronie fizycznej. mieniotwórczych.
 
-**Art. 46.** Minister w∏aÊciwy do spraw zdrowia okre- Art. 50. Odpady promieniotwórcze i wypalone paÊli, w drodze rozporzàdzenia, szczegó∏owe warunki liwo jàdrowe przechowuje si´ w warunkach umo˝libezpiecznej pracy zaparatami rentgenowskimi oener- wiajàcych ich segregacj´ oraz wsposób zapewniajàcy gii promieniowania do 300 keV stosowanymi wcelach ochron´ ludzi iÊrodowiska. medycznych, uwzgl´dniajàc: Art. 51. Rada Ministrów okreÊli, wdrodze rozporzà1) wymagania techniczne i wymagania ochrony ra- dzenia: diologicznej dotyczàce takich aparatów ipracowni 1) sposób kwalifikowania odpadów promieniotwórje stosujàcych,
+**Art. 46.** Minister właściwy do spraw zdrowia okre- Art. 50. Odpady promieniotwórcze i wypalone paśli, w drodze rozporządzenia, szczegółowe warunki liwo jądrowe przechowuje się w warunkach umożlibezpiecznej pracy zaparatami rentgenowskimi oener- wiających ich segregację oraz wsposób zapewniający gii promieniowania do 300 keV stosowanymi wcelach ochronę ludzi iśrodowiska. medycznych, uwzględniając: Art. 51. Rada Ministrów określi, wdrodze rozporzą1) wymagania techniczne i wymagania ochrony ra- dzenia: diologicznej dotyczące takich aparatów ipracowni 1) sposób kwalifikowania odpadów promieniotwórje stosujących,
 
 **Art. 52.**
 
-1. Odpady promieniotwórcze ciek∏e lub gazowe, powsta∏e w wyniku dzia∏alnoÊci okreÊlonej w art. 4 ust. 1, mogà byç odprowadzane do Êrodowiska, oile ich st´˝enie promieniotwórcze wÊrodowisku mo˝e byç pomini´te zpunktu widzenia ochrony radiologicznej. Sposób odprowadzania odpadów i ich dopuszczalnà aktywnoÊç okreÊla si´ wzezwoleniu.
+1. Odpady promieniotwórcze ciekłe lub gazowe, powstałe w wyniku działalności określonej w art. 4 ust. 1, mogą być odprowadzane do środowiska, oile ich stężenie promieniotwórcze wśrodowisku może być pominięte zpunktu widzenia ochrony radiologicznej. Sposób odprowadzania odpadów i ich dopuszczalną aktywność określa się wzezwoleniu.
 
-2. Odpady promieniotwórcze, które zosta∏y przetworzone lub nie wymagajà przetwarzania, oraz wypalone paliwo jàdrowe, które nie b´dzie przerabiane sà sk∏adowane wsk∏adowiskach.
+2. Odpady promieniotwórcze, które zostały przetworzone lub nie wymagają przetwarzania, oraz wypalone paliwo jądrowe, które nie będzie przerabiane są składowane wskładowiskach.
 
-3. Wypalone paliwo jàdrowe przeznaczone do sk∏adowania traktuje si´ jak odpady wysokoaktywne.
+3. Wypalone paliwo jądrowe przeznaczone do składowania traktuje się jak odpady wysokoaktywne.
 
-4. Odpady promieniotwórcze mo˝na sk∏adowaç wy∏àcznie wstanie sta∏ym, wopakowaniach zapewniajàcych bezpieczeƒstwo ludzi i Êrodowiska pod wzgl´dem ochrony radiologicznej, przy zapewnieniu odprowadzania ciep∏a iniedopuszczeniu do powstania masy krytycznej oraz prowadzeniu sta∏ej kontroli tych czynników w okresie sk∏adowania, a tak˝e po zamkni´ciu sk∏adowiska.
+4. Odpady promieniotwórcze można składować wyłącznie wstanie stałym, wopakowaniach zapewniających bezpieczeństwo ludzi i środowiska pod względem ochrony radiologicznej, przy zapewnieniu odprowadzania ciepła iniedopuszczeniu do powstania masy krytycznej oraz prowadzeniu stałej kontroli tych czynników w okresie składowania, a także po zamknięciu składowiska.
 
 **Art. 53.**
 
-1. Sk∏adowiska odpadów promieniotwórczych dzieli si´ na powierzchniowe ig∏´bokie.
+1. Składowiska odpadów promieniotwórczych dzieli się na powierzchniowe igłębokie.
 
-2. Sk∏adowisko odpadów promieniotwórczych mo˝e byç uznane, w drodze decyzji Prezesa Agencji, za Krajowe Sk∏adowisko Odpadów Promieniotwórczych.
+2. Składowisko odpadów promieniotwórczych może być uznane, w drodze decyzji Prezesa Agencji, za Krajowe Składowisko Odpadów Promieniotwórczych.
 
-**Art. 54.** Organ w∏aÊciwy na podstawie ustawy, októrej mowa wart. 36, do wydania decyzji wsprawie ustalenia warunków zabudowy i zagospodarowania terenu przeznaczonego pod budow´ sk∏adowiska wydaje t´ decyzj´ po uzyskaniu pozytywnej opinii Prezesa Agencji w zakresie bezpieczeƒstwa jàdrowego iochrony radiologicznej oraz ochrony fizycznej.
+**Art. 54.** Organ właściwy na podstawie ustawy, októrej mowa wart. 36, do wydania decyzji wsprawie ustalenia warunków zabudowy i zagospodarowania terenu przeznaczonego pod budowę składowiska wydaje tę decyzję po uzyskaniu pozytywnej opinii Prezesa Agencji w zakresie bezpieczeństwa jądrowego iochrony radiologicznej oraz ochrony fizycznej.
 
-**Art. 55.** Rada Ministrów okreÊli, wdrodze rozporzàdzenia:
+**Art. 55.** Rada Ministrów określi, wdrodze rozporządzenia:
 
 **Art. 56.**
 
-1. Dzia∏alnoÊç w zakresie post´powania zodpadami promieniotwórczymi iwypalonym paliwem jàdrowym wykonywana jest przez przedsi´biorstwo u˝ytecznoÊci publicznej, októrym mowa wrozdziale 14.
+1. Działalność w zakresie postępowania zodpadami promieniotwórczymi iwypalonym paliwem jądrowym wykonywana jest przez przedsiębiorstwo użyteczności publicznej, októrym mowa wrozdziale 14.
 
-2. Dzia∏alnoÊç, o której mowa w ust. 1, z wy∏àczeniem dzia∏alnoÊci polegajàcej na sk∏adowaniu odpadów promieniotwórczych i wypalonego paliwa jàdrowego oraz ich transporcie do sk∏adowiska, mo˝e byç wykonywana przez innà jednostk´ organizacyjnà, je˝elokalizacji, budowy, eksploatacji i zamkni´cia, li spe∏nia ona wymagania dotyczàce bezpieczeƒstwa jàdrowego i ochrony radiologicznej i uzyska zezwolenie. WszczególnoÊci jednostka organizacyjna, wktórej powsta∏y odpady promieniotwórcze lub wypalone paliwo jàdrowe, mo˝e je przetwarzaç i przechowywaç przez czas okreÊlony wzezwoleniu.
+2. Działalność, o której mowa w ust. 1, z wyłączeniem działalności polegającej na składowaniu odpadów promieniotwórczych i wypalonego paliwa jądrowego oraz ich transporcie do składowiska, może być wykonywana przez inną jednostkę organizacyjną, jeżelokalizacji, budowy, eksploatacji i zamknięcia, li spełnia ona wymagania dotyczące bezpieczeństwa jądrowego i ochrony radiologicznej i uzyska zezwolenie. Wszczególności jednostka organizacyjna, wktórej powstały odpady promieniotwórcze lub wypalone paliwo jądrowe, może je przetwarzać i przechowywać przez czas określony wzezwoleniu.
 
 **Art. 57.**
 
-1. Gminie, na której terenie znajduje si´ Krajowe Sk∏adowisko Odpadów Promieniotwórczych, przys∏uguje coroczna op∏ata zbud˝etu paƒstwa:
+1. Gminie, na której terenie znajduje się Krajowe Składowisko Odpadów Promieniotwórczych, przysługuje coroczna opłata zbudżetu państwa:
 
-- **1)** od dnia przyj´cia pierwszego odpadu do sk∏adowiska do dnia podj´cia decyzji o zamkni´ciu sk∏adowiska wwysokoÊci 400% dochodów ztytu∏u podatku od nieruchomoÊci znajdujàcych si´ na terenie gminy, uzyskanych w roku poprzednim, powi´kszonych wstopniu odpowiadajàcym wskaênikowi wzrostu cen detalicznych towarów i us∏ug konsumpcyjnych, ustalanemu w trybie okreÊlonym w ustawie z dnia 12 stycznia 1991 r. o podatkach i op∏atach lokalnych (Dz. U. 9, poz. 31 iNr101, poz. 444, z1992 r. 21, poz. 86, z1994 r. 123, poz. 600, z1996 r. 91, poz. 409 iNr 149, poz. 704, z 1997 r. 5, poz. 24, 107, poz. 689, Nr121, poz. 770 iNr 123, poz. 780, z1998 r. 106, poz. 668, 150, poz. 983 i 160, poz. 1058 oraz z2000 r. 88, poz. 983,Nr 95, poz. 1041 i 122, poz. 1315),
-- **2)** po podj´ciu decyzji o zamkni´ciu sk∏adowiska w wysokoÊci 50% op∏aty, o której mowa w pkt 1, przez okres odpowiadajàcy okresowi eksploatacji sk∏adowiska.
+- **1)** od dnia przyjęcia pierwszego odpadu do składowiska do dnia podjęcia decyzji o zamknięciu składowiska wwysokości 400% dochodów ztytułu podatku od nieruchomości znajdujących się na terenie gminy, uzyskanych w roku poprzednim, powiększonych wstopniu odpowiadającym wskaênikowi wzrostu cen detalicznych towarów i usług konsumpcyjnych, ustalanemu w trybie określonym w ustawie z dnia 12 stycznia 1991 r. o podatkach i opłatach lokalnych (Dz. U. 9, poz. 31 iNr101, poz. 444, z1992 r. 21, poz. 86, z1994 r. 123, poz. 600, z1996 r. 91, poz. 409 iNr 149, poz. 704, z 1997 r. 5, poz. 24, 107, poz. 689, Nr121, poz. 770 iNr 123, poz. 780, z1998 r. 106, poz. 668, 150, poz. 983 i 160, poz. 1058 oraz z2000 r. 88, poz. 983,Nr 95, poz. 1041 i 122, poz. 1315),
+- **2)** po podjęciu decyzji o zamknięciu składowiska w wysokości 50% opłaty, o której mowa w pkt 1, przez okres odpowiadający okresowi eksploatacji składowiska.
 
-2. Op∏ata, októrej mowa wust. 1, jest przekazywana gminie zbud˝etu paƒstwa wrównych ratach kwartalnych, w terminie do 14 dni od up∏ywu ostatniego miesiàca kwarta∏u.
+2. Opłata, októrej mowa wust. 1, jest przekazywana gminie zbudżetu państwa wrównych ratach kwartalnych, w terminie do 14 dni od upływu ostatniego miesiąca kwartału.
 
-3. Rata kwartalna nie przys∏uguje gminie, je˝eli w nast´pstwie decyzji organów gminy albo powiatu, na którego obszarze po∏o˝ona jest gmina, nie by∏o mo˝liwe wdowolnym okresie wdanym kwartale przyjmowanie odpadów promieniotwórczych do sk∏adowiska. Rozdzia∏ 8 Transport materia∏ów jàdrowych, êróde∏ promieniowania jonizujàcego, odpadów promieniotwórczych iwypalonego paliwa jàdrowego
+3. Rata kwartalna nie przysługuje gminie, jeżeli w następstwie decyzji organów gminy albo powiatu, na którego obszarze położona jest gmina, nie było możliwe wdowolnym okresie wdanym kwartale przyjmowanie odpadów promieniotwórczych do składowiska.
 
-**Art. 58.** Materia∏y jàdrowe przygotowuje si´ do transportu i transportuje w sposób uniemo˝liwiajàcy wystàpienie samopodtrzymujàcej si´ reakcji ∏aƒcuchowej rozszczepienia jàdrowego i z zachowaniem zasad ochrony fizycznej.
+#### Rozdział 8 Transport materiałów jądrowych, êródeł promieniowania jonizującego, odpadów promieniotwórczych iwypalonego paliwa jądrowego
 
-**Art. 59.** Przygotowujàc do transportu i transportujàc materia∏y jàdrowe, êród∏a promieniowania jonizujàcego, odpady promieniotwórcze i wypalone paliwo jàdrowe nale˝y uwzgl´dniç zagro˝enia, jakie mogà stwarzaç ich w∏aÊciwoÊci fizykochemiczne, a tak˝e spe∏niç wymagania i warunki obowiàzujàce w transporcie materia∏ów niebezpiecznych, okreÊlone w odr´bnych przepisach.
+**Art. 58.** Materiały jądrowe przygotowuje się do transportu i transportuje w sposób uniemożliwiający wystąpienie samopodtrzymującej się reakcji łańcuchowej rozszczepienia jądrowego i z zachowaniem zasad ochrony fizycznej.
 
-**Art. 60.** Nara˝enie osób uczestniczàcych w transporcie, wtym równie˝ dokonujàcych za∏adunku iwy∏adunku przewo˝onych materia∏ów jàdrowych, êróde∏ promieniowania jonizujàcego, odpadów promieniotwórczych i wypalonego paliwa jàdrowego, podlega kontroli, aotrzymane przez te osoby dawki promieniowania nie mogà przekraczaç dawek granicznych okreÊlonych dla pracowników w przepisach wydanych na podstawie art. 25 pkt 1.
+**Art. 59.** Przygotowując do transportu i transportując materiały jądrowe, êródła promieniowania jonizującego, odpady promieniotwórcze i wypalone paliwo jądrowe należy uwzględnić zagrożenia, jakie mogą stwarzać ich właściwości fizykochemiczne, a także spełnić wymagania i warunki obowiązujące w transporcie materiałów niebezpiecznych, określone w odrębnych przepisach.
 
-**Art. 61.** Wymagania i warunki dotyczàce transportu na terenie jednostek organizacyjnych, które wytwarzajà, przetwarzajà, stosujà, przechowujà i sk∏adujà materia∏y jàdrowe, êród∏a promieniowania jonizujàcego, z wy∏àczeniem urzàdzeƒ wytwarzajàcych promieniowanie jonizujàce, odpady promieniotwórcze i wypalone paliwo jàdrowe okreÊla Prezes Agencji w zezwoleniu.
+**Art. 60.** Narażenie osób uczestniczących w transporcie, wtym również dokonujących załadunku iwyładunku przewożonych materiałów jądrowych, êródeł promieniowania jonizującego, odpadów promieniotwórczych i wypalonego paliwa jądrowego, podlega kontroli, aotrzymane przez te osoby dawki promieniowania nie mogą przekraczać dawek granicznych określonych dla pracowników w przepisach wydanych na podstawie art. 25 pkt 1.
+
+**Art. 61.** Wymagania i warunki dotyczące transportu na terenie jednostek organizacyjnych, które wytwarzają, przetwarzają, stosują, przechowują i składują materiały jądrowe, êródła promieniowania jonizującego, z wyłączeniem urządzeń wytwarzających promieniowanie jonizujące, odpady promieniotwórcze i wypalone paliwo jądrowe określa Prezes Agencji w zezwoleniu.
 
 **Art. 62.**
 
-1. Przywóz na polski obszar celny i wywóz z polskiego obszaru celnego materia∏ów jàdrowych, êróde∏ promieniotwórczych i urzàdzeƒ zawierajàcych takie êród∏a oraz przywóz wyrobów powszechnego u˝ytku emitujàcych promieniowanie jonizujàce, a tak˝e przywóz, wywóz odpadów promieniotwórczych i wypalonego paliwa jàdrowego odbywa si´ na podstawie zezwolenia na wykonywanie dzia∏alnoÊci okreÊlonej wart. 4 ust. 1, zzastrze˝eniem ust. 2.
+1. Przywóz na polski obszar celny i wywóz z polskiego obszaru celnego materiałów jądrowych, êródeł promieniotwórczych i urządzeń zawierających takie êródła oraz przywóz wyrobów powszechnego użytku emitujących promieniowanie jonizujące, a także przywóz, wywóz odpadów promieniotwórczych i wypalonego paliwa jądrowego odbywa się na podstawie zezwolenia na wykonywanie działalności określonej wart. 4 ust. 1, zzastrzeżeniem ust. 2.
 
-2. Przywóz na polski obszar celny, wywóz zpolskiego obszaru celnego itranzyt przez ten obszar odpadów promieniotwórczych i wypalonego paliwa jàdrowego wymaga zgody Prezesa Agencji.
+2. Przywóz na polski obszar celny, wywóz zpolskiego obszaru celnego itranzyt przez ten obszar odpadów promieniotwórczych i wypalonego paliwa jądrowego wymaga zgody Prezesa Agencji.
 
-3. Zakazany jest wywóz zpolskiego obszaru celnego itranzyt przez ten obszar odpadów promieniotwórczych i wypalonego paliwa jàdrowego, je˝eli miejsce ich przeznaczenia by∏oby po∏o˝one na po∏udnie od 60°szerokoÊci geograficznej po∏udniowej.
+3. Zakazany jest wywóz zpolskiego obszaru celnego itranzyt przez ten obszar odpadów promieniotwórczych i wypalonego paliwa jądrowego, jeżeli miejsce ich przeznaczenia byłoby położone na południe od 60°szerokości geograficznej południowej.
 
-4. Rada Ministrów okreÊli, w drodze rozporzàdzenia:
+4. Rada Ministrów określi, w drodze rozporządzenia:
 
-- **1)** warunki przywozu na polski obszar celny, wywozu zpolskiego obszaru celnego oraz tranzytu przez ten obszar materia∏ów jàdrowych, êróde∏ promienio2) przes∏anki udzielania zgody, októrej mowa wust.2, sposób post´powania w sprawie ubiegania si´ o zgod´ oraz wzór dokumentu zwiàzanego z tym post´powaniem. Rozdzia∏ 9 Nadzór ikontrola wzakresie przestrzegania warunków bezpieczeƒstwa jàdrowego iochrony radiologicznej
+- **1)** warunki przywozu na polski obszar celny, wywozu zpolskiego obszaru celnego oraz tranzytu przez ten obszar materiałów jądrowych, êródeł promienio2) przesłanki udzielania zgody, októrej mowa wust.2, sposób postępowania w sprawie ubiegania się o zgodę oraz wzór dokumentu związanego z tym postępowaniem.
+
+#### Rozdział 9 Nadzór ikontrola wzakresie przestrzegania warunków bezpieczeństwa jądrowego iochrony radiologicznej
 
 **Art. 63.**
 
-1. Wykonywanie dzia∏alnoÊci powodujàcej lub mogàcej powodowaç nara˝enie ludzi iÊrodowiska na promieniowanie jonizujàce podlega nadzorowi i kontroli w zakresie bezpieczeƒstwa jàdrowego iochrony radiologicznej.
+1. Wykonywanie działalności powodującej lub mogącej powodować narażenie ludzi iśrodowiska na promieniowanie jonizujące podlega nadzorowi i kontroli w zakresie bezpieczeństwa jądrowego iochrony radiologicznej.
 
-2. Nadzór ikontrola, októrych mowa wust. 1, wykonywane sà:
+2. Nadzór ikontrola, októrych mowa wust. 1, wykonywane są:
 
-- **1)** przez organy dozoru jàdrowego je˝eli organem w∏aÊciwym do wydania zezwolenia albo przyj´cia zg∏oszenia jest Prezes Agencji,
-- **2)** przez wojewódzkiego inspektora sanitarnego lub wojskowego inspektora sanitarnego w zakresie dzia∏alnoÊci, na której wykonywanie organy te wydajà zezwolenia.
+- **1)** przez organy dozoru jądrowego jeżeli organem właściwym do wydania zezwolenia albo przyjęcia zgłoszenia jest Prezes Agencji,
+- **2)** przez wojewódzkiego inspektora sanitarnego lub wojskowego inspektora sanitarnego w zakresie działalności, na której wykonywanie organy te wydają zezwolenia.
 
-3. Minister w∏aÊciwy do spraw zdrowia okreÊli, wdrodze rozporzàdzenia, sposób sprawowania nadzoru nad warunkami bezpiecznego stosowania aparatów rentgenowskich oenergii promieniowania do 300 keV w celach medycznych i przeprowadzania kontroli wtym zakresie.
+3. Minister właściwy do spraw zdrowia określi, wdrodze rozporządzenia, sposób sprawowania nadzoru nad warunkami bezpiecznego stosowania aparatów rentgenowskich oenergii promieniowania do 300 keV w celach medycznych i przeprowadzania kontroli wtym zakresie.
 
-4. Prezes Rady Ministrów okreÊli, w drodze rozporzàdzenia, sposób sprawowania nadzoru i przeprowadzania kontroli wUrz´dzie Ochrony Paƒstwa przez organy dozoru jàdrowego, zuwzgl´dnieniem trybu przygotowania kontroli, dokumentowania czynnoÊci kontrolnych, sporzàdzania protoko∏u kontroli, wystàpienia pokontrolnego iinformacji owynikach kontroli.
+4. Prezes Rady Ministrów określi, w drodze rozporządzenia, sposób sprawowania nadzoru i przeprowadzania kontroli wUrzędzie Ochrony Państwa przez organy dozoru jądrowego, zuwzględnieniem trybu przygotowania kontroli, dokumentowania czynności kontrolnych, sporządzania protokołu kontroli, wystąpienia pokontrolnego iinformacji owynikach kontroli.
 
 **Art. 64.**
 
-1. Organami dozoru jàdrowego, o których mowa wart. 63 ust. 2 pkt 1, sà:
+1. Organami dozoru jądrowego, o których mowa wart. 63 ust. 2 pkt 1, są:
 
-- **1)** Prezes Agencji jako naczelny organ dozoru jàdrowego,
-- **2)** G∏ówny Inspektor Dozoru Jàdrowego jako organ wy˝szego stopnia w stosunku do inspektorów dozoru jàdrowego,
-- **3)** inspektorzy dozoru jàdrowego.
+- **1)** Prezes Agencji jako naczelny organ dozoru jądrowego,
+- **2)** Główny Inspektor Dozoru Jądrowego jako organ wyższego stopnia w stosunku do inspektorów dozoru jądrowego,
+- **3)** inspektorzy dozoru jądrowego.
 
-2. G∏ównego Inspektora Dozoru Jàdrowego powo∏uje, spoÊród inspektorów dozoru jàdrowego, i odwo∏uje Prezes Agencji.
+2. Głównego Inspektora Dozoru Jądrowego powołuje, spośród inspektorów dozoru jądrowego, i odwołuje Prezes Agencji.
 
-3. Inspektorów dozoru jàdrowego powo∏uje i odwo∏uje Prezes Agencji na wniosek G∏ównego Inspektora Dozoru Jàdrowego.
+3. Inspektorów dozoru jądrowego powołuje i odwołuje Prezes Agencji na wniosek Głównego Inspektora Dozoru Jądrowego.
 
-4. Do zadaƒ organów dozoru jàdrowego nale˝y wszczególnoÊci:
+4. Do zadań organów dozoru jądrowego należy wszczególności:
 
-- **1)** wydawanie zezwoleƒ i innych decyzji w sprawach zwiàzanych zbezpieczeƒstwem jàdrowym iochrotwórczych iurzàdzeƒ zawierajàcych takie êród∏a, nà radiologicznà, na zasadach i w trybie okreÊlonych wustawie,
-- **2)** przeprowadzanie kontroli w obiektach jàdrowych oraz w jednostkach organizacyjnych posiadajàcych materia∏y jàdrowe, êród∏a promieniowania jonizujàcego, odpady promieniotwórcze i wypalone paliwo jàdrowe,
-- **3)** wydawanie poleceƒ doraênych, o których mowa wart. 68,
-- **4)** zatwierdzanie programów szkoleƒ, októrych mowa wart. 11 ust. 3, zwy∏àczeniem programów szkoleƒ opracowywanych przez kierowników jednostek organizacyjnych stosujàcych aparaty rentgenowskie oenergii promieniowania do 300 keV wcelach medycznych.
+- **1)** wydawanie zezwoleń i innych decyzji w sprawach związanych zbezpieczeństwem jądrowym iochrotwórczych iurządzeń zawierających takie êródła, ną radiologiczną, na zasadach i w trybie określonych wustawie,
+- **2)** przeprowadzanie kontroli w obiektach jądrowych oraz w jednostkach organizacyjnych posiadających materiały jądrowe, êródła promieniowania jonizującego, odpady promieniotwórcze i wypalone paliwo jądrowe,
+- **3)** wydawanie poleceń doraênych, o których mowa wart. 68,
+- **4)** zatwierdzanie programów szkoleń, októrych mowa wart. 11 ust. 3, zwyłączeniem programów szkoleń opracowywanych przez kierowników jednostek organizacyjnych stosujących aparaty rentgenowskie oenergii promieniowania do 300 keV wcelach medycznych.
 
-5. Inspektorzy dozoru jàdrowego prowadzà kontrol´ na polecenie Prezesa Agencji lub G∏ównego Inspektora Dozoru Jàdrowego.
+5. Inspektorzy dozoru jądrowego prowadzą kontrolę na polecenie Prezesa Agencji lub Głównego Inspektora Dozoru Jądrowego.
 
 **Art. 65.**
 
-1. Inspektorem dozoru jàdrowego mo˝e byç osoba, która:
+1. Inspektorem dozoru jądrowego może być osoba, która:
 
-- **1)** posiada wykszta∏cenie wy˝sze w zakresie fizyki, chemii, kierunków technicznych lub innych wspecjalnoÊciach przydatnych wdozorze jàdrowym,
-- **2)** nie by∏a karana za przest´pstwa umyÊlne,
-- **3)** odby∏a praktyk´ i zda∏a egzamin kwalifikacyjny na stanowisko inspektora dozoru jàdrowego wzakresie bezpieczeƒstwa jàdrowego i ochrony radiologicznej przed komisjà powo∏anà przez Prezesa Agencji,
-- **4)** posiada orzeczenie lekarskie obraku przeciwwskazaƒ do pracy wwarunkach nara˝enia.
+- **1)** posiada wykształcenie wyższe w zakresie fizyki, chemii, kierunków technicznych lub innych wspecjalnościach przydatnych wdozorze jądrowym,
+- **2)** nie była karana za przestępstwa umyślne,
+- **3)** odbyła praktykę i zdała egzamin kwalifikacyjny na stanowisko inspektora dozoru jądrowego wzakresie bezpieczeństwa jądrowego i ochrony radiologicznej przed komisją powołaną przez Prezesa Agencji,
+- **4)** posiada orzeczenie lekarskie obraku przeciwwskazań do pracy wwarunkach narażenia.
 
-2. Koszty zwiàzane z pracà komisji, o której mowa w ust. 1 pkt 3, pokrywane sà z bud˝etu Paƒstwowej Agencji Atomistyki.
+2. Koszty związane z pracą komisji, o której mowa w ust. 1 pkt 3, pokrywane są z budżetu Państwowej Agencji Atomistyki.
 
 **Art. 66.**
 
-1. Organy dozoru jàdrowego w zwiàzku zprowadzonà kontrolà majà prawo:
+1. Organy dozoru jądrowego w związku zprowadzoną kontrolą mają prawo:
 
-- **1)** wst´pu o ka˝dej porze do Êrodków transportu i na teren jednostek organizacyjnych, wktórych sà wytwarzane, stosowane, przechowywane, sk∏adowane lub transportowane materia∏y jàdrowe, êród∏a promieniowania jonizujàcego, odpady promieniotwórcze lub wypalone paliwo jàdrowe,
-- **2)** wglàdu do dokumentów dotyczàcych bezpieczeƒstwa jàdrowego iochrony radiologicznej wkontrolowanej jednostce organizacyjnej,
-- **3)** sprawdzaç, czy dzia∏alnoÊç okreÊlona wart. 4 ust. 1 jest wykonywana zgodnie zprzepisami dotyczàcymi bezpieczeƒstwa jàdrowego i ochrony radiologicznej oraz z wymaganiami i warunkami okreÊlonymi wzezwoleniach,
-- **4)** przeprowadziç, wzale˝noÊci od potrzeb, niezale˝ne pomiary techniczne idozymetryczne,
-- **5)** ˝àdaç pisemnych lub ustnych informacji, je˝eli jest to niezb´dne do wyjaÊnienia sprawy.
+- **1)** wstępu o każdej porze do środków transportu i na teren jednostek organizacyjnych, wktórych są wytwarzane, stosowane, przechowywane, składowane lub transportowane materiały jądrowe, êródła promieniowania jonizującego, odpady promieniotwórcze lub wypalone paliwo jądrowe,
+- **2)** wglądu do dokumentów dotyczących bezpieczeństwa jądrowego iochrony radiologicznej wkontrolowanej jednostce organizacyjnej,
+- **3)** sprawdzać, czy działalność określona wart. 4 ust. 1 jest wykonywana zgodnie zprzepisami dotyczącymi bezpieczeństwa jądrowego i ochrony radiologicznej oraz z wymaganiami i warunkami określonymi wzezwoleniach,
+- **4)** przeprowadzić, wzależności od potrzeb, niezależne pomiary techniczne idozymetryczne,
+- **5)** żądać pisemnych lub ustnych informacji, jeżeli jest to niezbędne do wyjaśnienia sprawy.
 
-2. Organy dozoru jàdrowego w zwiàzku z wykonywaniem czynnoÊci kontrolnych korzystajà z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy
+2. Organy dozoru jądrowego w związku z wykonywaniem czynności kontrolnych korzystają z ochrony przewidzianej w Kodeksie karnym dla funkcjonariuszy
 
 **Art. 67.**
 
-1. Kierownik kontrolowanej jednostki organizacyjnej jest obowiàzany zapewniç warunki niezb´dne do przeprowadzenia kontroli oraz udost´pniç dokumenty, októrych mowa wart. 66 ust. 1 pkt 2.
+1. Kierownik kontrolowanej jednostki organizacyjnej jest obowiązany zapewnić warunki niezbędne do przeprowadzenia kontroli oraz udostępnić dokumenty, októrych mowa wart. 66 ust. 1 pkt 2.
 
-2. Pracownicy kontrolowanej jednostki organizacyjnej sà obowiàzani udzielaç organom dozoru jàdrowego pisemnych lub ustnych wyjaÊnieƒ w sprawach dotyczàcych przedmiotu kontroli.
+2. Pracownicy kontrolowanej jednostki organizacyjnej są obowiązani udzielać organom dozoru jądrowego pisemnych lub ustnych wyjaśnień w sprawach dotyczących przedmiotu kontroli.
 
-3. Osoba przeprowadzajàca kontrol´ sporzàdza protokó∏ podpisywany przez nià ikierownika kontrolowanej jednostki organizacyjnej.
+3. Osoba przeprowadzająca kontrolę sporządza protokół podpisywany przez nią ikierownika kontrolowanej jednostki organizacyjnej.
 
-4. Na podstawie protoko∏u stwierdzajàcego nieprawid∏owoÊci powsta∏e w wyniku naruszenia przepisów obezpieczeƒstwie jàdrowym iochronie radiologicznej, polegajàce w szczególnoÊci na braku zezwolenia lub odst´pstwie od wymagaƒ i warunków okreÊlonych w zezwoleniu, G∏ówny Inspektor Dozoru Jàdrowego wydaje decyzj´ nakazujàcà usuni´cie nieprawid∏owoÊci wokreÊlonym terminie.
+4. Na podstawie protokołu stwierdzającego nieprawidłowości powstałe w wyniku naruszenia przepisów obezpieczeństwie jądrowym iochronie radiologicznej, polegające w szczególności na braku zezwolenia lub odstępstwie od wymagań i warunków określonych w zezwoleniu, Główny Inspektor Dozoru Jądrowego wydaje decyzję nakazującą usunięcie nieprawidłowości wokreślonym terminie.
 
 **Art. 68.**
 
-1. Wrazie stwierdzenia wczasie kontroli zagro˝enia bezpieczeƒstwa jàdrowego iochrony radiologicznej organy dozoru jàdrowego, wcelu usuni´cia takiego zagro˝enia, wydajà polecenia doraêne zawierajàce nakazy lub zakazy okreÊlonych dzia∏aƒ.
+1. Wrazie stwierdzenia wczasie kontroli zagrożenia bezpieczeństwa jądrowego iochrony radiologicznej organy dozoru jądrowego, wcelu usunięcia takiego zagrożenia, wydają polecenia doraêne zawierające nakazy lub zakazy określonych działań.
 
-2. Polecenia doraêne majàce na celu usuni´cie bezpoÊredniego zagro˝enia podlegajà natychmiastowemu wykonaniu. Polecenia te sà wydawane wformie pisemnej, awwyjàtkowych przypadkach ustnej, przy czym powinny byç niezw∏ocznie potwierdzone na piÊmie.
+2. Polecenia doraêne mające na celu usunięcie bezpośredniego zagrożenia podlegają natychmiastowemu wykonaniu. Polecenia te są wydawane wformie pisemnej, awwyjątkowych przypadkach ustnej, przy czym powinny być niezwłocznie potwierdzone na piśmie.
 
-3. Polecenie doraêne dotyczàce zagro˝eƒ innych ni˝ okreÊlone wust. 2 podlega wykonaniu wterminie wyznaczonym wpoleceniu.
+3. Polecenie doraêne dotyczące zagrożeń innych niż określone wust. 2 podlega wykonaniu wterminie wyznaczonym wpoleceniu.
 
-4. Kierownik kontrolowanej jednostki organizacyjnej mo˝e wystàpiç zwnioskiem ouchylenie lub zmian´ polecenia doraênego, o którym mowa w ust. 3, do G∏ównego Inspektora Dozoru Jàdrowego, je˝eli polecenie to zosta∏o wydane przez inspektora dozoru jàdrowego, albo do Prezesa Agencji, je˝eli zosta∏o ono wydane przez G∏ównego Inspektora Dozoru Jàdrowego.
+4. Kierownik kontrolowanej jednostki organizacyjnej może wystąpić zwnioskiem ouchylenie lub zmianę polecenia doraênego, o którym mowa w ust. 3, do Głównego Inspektora Dozoru Jądrowego, jeżeli polecenie to zostało wydane przez inspektora dozoru jądrowego, albo do Prezesa Agencji, jeżeli zostało ono wydane przez Głównego Inspektora Dozoru Jądrowego.
 
-5. Wystàpienie zwnioskiem, októrym mowa wust.4, nie wstrzymuje wykonania polecenia doraênego.
+5. Wystąpienie zwnioskiem, októrym mowa wust.4, nie wstrzymuje wykonania polecenia doraênego.
 
 **Art. 69.**
 
-1. W razie stwierdzenia w czasie kontroli nieprawid∏owoÊci mogàcych mieç wp∏yw na bezpieczeƒstwo jàdrowe i ochron´ radiologicznà, Prezes Agencji mo˝e skierowaç wystàpienie do kierownika kontrolowanej jednostki organizacyjnej lub kierownika jednostki nadrz´dnej wsprawie usuni´cia tych nieprawid∏owoÊci.
+1. W razie stwierdzenia w czasie kontroli nieprawidłowości mogących mieć wpływ na bezpieczeństwo jądrowe i ochronę radiologiczną, Prezes Agencji może skierować wystąpienie do kierownika kontrolowanej jednostki organizacyjnej lub kierownika jednostki nadrzędnej wsprawie usunięcia tych nieprawidłowości.
 
-2. Kierownik jednostki, do której skierowano wystàpienie, jest obowiàzany, w terminie 30 dni od dnia jego otrzymania, do zawiadomienia Prezesa Agencji oterminie isposobie usuni´cia nieprawid∏owoÊci.
+2. Kierownik jednostki, do której skierowano wystąpienie, jest obowiązany, w terminie 30 dni od dnia jego otrzymania, do zawiadomienia Prezesa Agencji oterminie isposobie usunięcia nieprawidłowości.
 
-**Art. 70.** W post´powaniu w sprawach nadzoru publicznych. i kontroli stosuje si´ przepisy Kodeksu post´powania administracyjnego.
+**Art. 70.** W postępowaniu w sprawach nadzoru publicznych. i kontroli stosuje się przepisy Kodeksu postępowania administracyjnego.
 
-**Art. 71.** Rada Ministrów, wdrodze rozporzàdzenia:
+**Art. 71.** Rada Ministrów, wdrodze rozporządzenia:
+
+#### Rozdział 10 Ocena sytuacji radiacyjnej kraju
 
 **Art. 72.**
 
@@ -561,427 +580,441 @@ Rozdzia∏ 1 Przepisy ogólne
 
 2. Wcelu dokonania oceny, októrej mowa wust. 1, Prezes Agencji:
 
-- **1)** zbiera, weryfikuje i analizuje informacje otrzymywane ze stacji wczesnego wykrywania ska˝eƒ promieniotwórczych, zwanych dalej „stacjami”, zplacówek prowadzàcych pomiary ska˝eƒ promieniotwórczych, zwanych dalej „placówkami”, oraz od s∏u˝b, które dysponujà danymi potrzebnymi do oceny sytuacji radiacyjnej kraju, wtym s∏u˝by meteorologicznej,
-- **2)** weryfikuje i analizuje informacje uzyskiwane z innych êróde∏,
+- **1)** zbiera, weryfikuje i analizuje informacje otrzymywane ze stacji wczesnego wykrywania skażeń promieniotwórczych, zwanych dalej Ństacjami”, zplacówek prowadzących pomiary skażeń promieniotwórczych, zwanych dalej Ńplacówkami”, oraz od służb, które dysponują danymi potrzebnymi do oceny sytuacji radiacyjnej kraju, wtym służby meteorologicznej,
+- **2)** weryfikuje i analizuje informacje uzyskiwane z innych êródeł,
 - **3)** tworzy bazy danych isystemy informatyczne istotne dla oceny sytuacji radiacyjnej kraju,
-- **4)** analizuje i prognozuje rozwój sytuacji radiacyjnej kraju oraz zagro˝enia ludnoÊci i Êrodowiska na podstawie informacji, októrych mowa wpkt 1 i2, oraz danych zawartych wbazach, októrych mowa wpkt 3.
+- **4)** analizuje i prognozuje rozwój sytuacji radiacyjnej kraju oraz zagrożenia ludności i środowiska na podstawie informacji, októrych mowa wpkt 1 i2, oraz danych zawartych wbazach, októrych mowa wpkt 3.
 
-3. Zadania, októrych mowa wust. 2, Prezes Agencji realizuje przy pomocy wydzielonego w strukturze Paƒstwowej Agencji Atomistyki Centrum do Spraw Zdarzeƒ Radiacyjnych.
+3. Zadania, októrych mowa wust. 2, Prezes Agencji realizuje przy pomocy wydzielonego w strukturze Państwowej Agencji Atomistyki Centrum do Spraw Zdarzeń Radiacyjnych.
 
 **Art. 73.**
 
-1. Stacje i placówki, o których mowa w art. 72 ust. 2 pkt 1, dzia∏ajà w Paƒstwowej Agencji Atomistyki, wjednostkach Paƒstwowej Agencji Atomistyki i w jednostkach ministrów w∏aÊciwych do spraw wewn´trznych, Êrodowiska, szkolnictwa wy˝szego, rolnictwa, zdrowia oraz Ministra Obrony Narodowej.
+1. Stacje i placówki, o których mowa w art. 72 ust. 2 pkt 1, działają w Państwowej Agencji Atomistyki, wjednostkach Państwowej Agencji Atomistyki i w jednostkach ministrów właściwych do spraw wewnętrznych, środowiska, szkolnictwa wyższego, rolnictwa, zdrowia oraz Ministra Obrony Narodowej.
 
-2. Do zadaƒ stacji nale˝y:
+2. Do zadań stacji należy:
 
-- **1)** prowadzenie ciàg∏ych pomiarów mocy dawki promieniowania gamma,
-- **2)** automatyczne wykrywanie i sygnalizowanie przekroczenia o 15% wartoÊci mocy dawki, spowodowanego obecnoÊcià sztucznych substancji promieniotwórczych,
-- **3)** natychmiastowe, automatyczne przesy∏anie danych pomiarowych do Centrum do Spraw Zdarzeƒ Radiacyjnych,
-- **4)** zapewnienie przesy∏ania danych pomiarowych wsposób dostosowany do modeli obliczeniowych
+- **1)** prowadzenie ciągłych pomiarów mocy dawki promieniowania gamma,
+- **2)** automatyczne wykrywanie i sygnalizowanie przekroczenia o 15% wartości mocy dawki, spowodowanego obecnością sztucznych substancji promieniotwórczych,
+- **3)** natychmiastowe, automatyczne przesyłanie danych pomiarowych do Centrum do Spraw Zdarzeń Radiacyjnych,
+- **4)** zapewnienie przesyłania danych pomiarowych wsposób dostosowany do modeli obliczeniowych
 
-3. Do zadaƒ placówek nale˝y:
+3. Do zadań placówek należy:
 
-- **1)** wykrywanie, identyfikacja ipomiar ska˝eƒ promieniotwórczych wÊrodowisku, artyku∏ach rolno-spo˝ywczych iproduktach ˝ywnoÊciowych,
-- **2)** wst´pne opracowywanie wyników pomiarów iprzekazywanie ich Prezesowi Agencji.
+- **1)** wykrywanie, identyfikacja ipomiar skażeń promieniotwórczych wśrodowisku, artykułach rolno-spożywczych iproduktach żywnościowych,
+- **2)** wstępne opracowywanie wyników pomiarów iprzekazywanie ich Prezesowi Agencji.
 
-**Art. 74.** Prezes Agencji koordynuje dzia∏ania stacji iplacówek, awszczególnoÊci:
+**Art. 74.** Prezes Agencji koordynuje działania stacji iplacówek, awszczególności:
 
-**Art. 75.** Rada Ministrów okreÊli, wdrodze rozporzàdzenia, wykaz stacji i placówek oraz ich szczegó∏owe s∏u˝àcych do oceny sytuacji radiacyjnej. zadania, jak równie˝ sposoby wykonywania tych zadaƒ, przyjmujàc za kryterium mo˝liwoÊç uzyskiwania danych niezb´dnych dla dokonania oceny sytuacji radiacyjnej kraju.
+**Art. 75.** Rada Ministrów określi, wdrodze rozporządzenia, wykaz stacji i placówek oraz ich szczegółowe służących do oceny sytuacji radiacyjnej. zadania, jak również sposoby wykonywania tych zadań, przyjmując za kryterium możliwość uzyskiwania danych niezbędnych dla dokonania oceny sytuacji radiacyjnej kraju.
 
-**Art. 76.** Prezes Agencji przyjmuje informacje ozdarzeniach radiacyjnych na terenie kraju, w szczególnoÊci uzyskiwane na podstawie art. 83 i85 ust. 1, awrazie potrzeby udziela, woparciu ouzyskane informacje, bezzw∏ocznej pomocy w ocenie wielkoÊci powsta∏ego zagro˝enia radiacyjnego.
+**Art. 76.** Prezes Agencji przyjmuje informacje ozdarzeniach radiacyjnych na terenie kraju, w szczególności uzyskiwane na podstawie art. 83 i85 ust. 1, awrazie potrzeby udziela, woparciu ouzyskane informacje, bezzwłocznej pomocy w ocenie wielkości powstałego zagrożenia radiacyjnego.
 
 **Art. 77.**
 
-1. Prezes Agencji, wykonujàc zadania wynikajàce z mi´dzynarodowego systemu powiadamiania o zdarzeniach radiacyjnych w zakresie wczesnego powiadamiania o awarii jàdrowej, pomocy w przypadku awarii jàdrowej lub zagro˝enia radiacyjnego, ochrony fizycznej materia∏ów jàdrowych i o nielegalnym obrocie tymi materia∏ami, jak równie˝ realizujàc zobowiàzania Rzeczypospolitej Polskiej wynikajàce z dwustronnych umów mi´dzynarodowych, powo∏uje krajowy punkt kontaktowy.
+1. Prezes Agencji, wykonując zadania wynikające z międzynarodowego systemu powiadamiania o zdarzeniach radiacyjnych w zakresie wczesnego powiadamiania o awarii jądrowej, pomocy w przypadku awarii jądrowej lub zagrożenia radiacyjnego, ochrony fizycznej materiałów jądrowych i o nielegalnym obrocie tymi materiałami, jak również realizując zobowiązania Rzeczypospolitej Polskiej wynikające z dwustronnych umów międzynarodowych, powołuje krajowy punkt kontaktowy.
 
-2. Do zadaƒ krajowego punktu kontaktowego nale˝y wszczególnoÊci:
+2. Do zadań krajowego punktu kontaktowego należy wszczególności:
 
-- **1)** przyjmowanie zMi´dzynarodowej Agencji Energii Atomowej (MAEA) i punktów kontaktowych innych paƒstw powiadomieƒ oawariach jàdrowych, o bezprawnym u˝yciu, przemieszczeniu lub przetworzeniu materia∏ów jàdrowych albo o realnej groêbie pope∏nienia któregokolwiek z tych czynów, a tak˝e przyjmowanie próÊb tych paƒstw oudzielenie pomocy wprzypadku zdarzenia radiacyjnego,
-- **2)** przekazywanie do MAEA ipunktów kontaktowych, o których mowa w pkt 1, powiadomieƒ o powsta∏ych na terytorium Rzeczypospolitej Polskiej zdarzeniach radiacyjnych oraz faktach bezprawnego u˝ycia, przemieszczenia lub przetworzenia materia∏ów jàdrowych albo o realnej groêbie pope∏nienia któregokolwiek ztych czynów, atak˝e przekazywanie próÊb Rzeczypospolitej Polskiej oudzielenie pomocy wprzypadku zdarzenia radiacyjnego,
-- **3)** przekazywanie do punktów kontaktowych, októrych mowa wpkt 1, innych informacji, do których udzielania Rzeczpospolita Polska jest obowiàzana zgodnie zzawartymi umowami mi´dzynarodowymi.
+- **1)** przyjmowanie zMiędzynarodowej Agencji Energii Atomowej (MAEA) i punktów kontaktowych innych państw powiadomień oawariach jądrowych, o bezprawnym użyciu, przemieszczeniu lub przetworzeniu materiałów jądrowych albo o realnej groêbie popełnienia któregokolwiek z tych czynów, a także przyjmowanie próśb tych państw oudzielenie pomocy wprzypadku zdarzenia radiacyjnego,
+- **2)** przekazywanie do MAEA ipunktów kontaktowych, o których mowa w pkt 1, powiadomień o powstałych na terytorium Rzeczypospolitej Polskiej zdarzeniach radiacyjnych oraz faktach bezprawnego użycia, przemieszczenia lub przetworzenia materiałów jądrowych albo o realnej groêbie popełnienia któregokolwiek ztych czynów, atakże przekazywanie próśb Rzeczypospolitej Polskiej oudzielenie pomocy wprzypadku zdarzenia radiacyjnego,
+- **3)** przekazywanie do punktów kontaktowych, októrych mowa wpkt 1, innych informacji, do których udzielania Rzeczpospolita Polska jest obowiązana zgodnie zzawartymi umowami międzynarodowymi.
 
-**Art. 78.** Prezes Agencji mo˝e powierzyç wykonywanie zadaƒ, októrych mowa wart. 74, art. 76 iart. 77, instytucji wyspecjalizowanej wdziedzinie ochrony radiologicznej.
+**Art. 78.** Prezes Agencji może powierzyć wykonywanie zadań, októrych mowa wart. 74, art. 76 iart. 77, instytucji wyspecjalizowanej wdziedzinie ochrony radiologicznej.
 
-**Art. 79.** Na ˝àdanie Prezesa Agencji instytucje, organizacje i osoby posiadajàce dane i informacje niezb´dne dla analizy i oceny sytuacji radiacyjnej kraju obowiàzane sà do ich nieodp∏atnego udost´pnienia.
+**Art. 79.** Na żądanie Prezesa Agencji instytucje, organizacje i osoby posiadające dane i informacje niezbędne dla analizy i oceny sytuacji radiacyjnej kraju obowiązane są do ich nieodpłatnego udostępnienia.
 
 **Art. 80.** Na podstawie oceny sytuacji radiacyjnej kraju Prezes Agencji:
 
-**Art. 81.** Kwartalne komunikaty dla ludnoÊci osytuacji radiacyjnej kraju Prezes Agencji og∏asza w Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”. Wprzypadku zdarzenia radiacyjnego informowanie ludnoÊci nast´puje w trybie okreÊlonym wart.92 ust. i4. Rozdzia∏ 11 Post´powanie wprzypadku zdarzeƒ radiacyjnych
+**Art. 81.** Kwartalne komunikaty dla ludności osytuacji radiacyjnej kraju Prezes Agencji ogłasza w Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”. Wprzypadku zdarzenia radiacyjnego informowanie ludności następuje w trybie określonym wart.92 ust. i4.
+
+#### Rozdział 11 Postępowanie wprzypadku zdarzeń radiacyjnych
 
 **Art. 82.**
 
-1. Ze wzgl´du na zasi´g skutków wyró˝nia si´ nast´pujàce rodzaje zdarzeƒ radiacyjnych:
+1. Ze względu na zasięg skutków wyróżnia się następujące rodzaje zdarzeń radiacyjnych:
 
-- **1)** zdarzenie powodujàce zagro˝enie jednostki organizacyjnej zdarzenie radiacyjne, które powsta∏o na terenie tej jednostki, a zasi´g jego skutków nie przekracza granic jej terenu,
-- **2)** zdarzenie powodujàce zagro˝enie publiczne o zasi´gu wojewódzkim zdarzenie radiacyjne, które powsta∏o na terenie jednostki organizacyjnej albo poza nià w czasie prowadzenia prac w terenie lub w czasie transportu materia∏ów jàdrowych, êróde∏ promieniowania jonizujàcego, odpadów promieniotwórczych i wypalonego paliwa jàdrowego, a zasi´g jego skutków nie przekracza obszaru jednego województwa,
-- **3)** zdarzenie powodujàce zagro˝enie publiczne o zasi´gu krajowym zdarzenie radiacyjne okreÊlone w pkt 2, je˝eli zasi´g jego skutków przekracza lub mo˝e przekroczyç obszar jednego województwa.
+- **1)** zdarzenie powodujące zagrożenie jednostki organizacyjnej zdarzenie radiacyjne, które powstało na terenie tej jednostki, a zasięg jego skutków nie przekracza granic jej terenu,
+- **2)** zdarzenie powodujące zagrożenie publiczne o zasięgu wojewódzkim zdarzenie radiacyjne, które powstało na terenie jednostki organizacyjnej albo poza nią w czasie prowadzenia prac w terenie lub w czasie transportu materiałów jądrowych, êródeł promieniowania jonizującego, odpadów promieniotwórczych i wypalonego paliwa jądrowego, a zasięg jego skutków nie przekracza obszaru jednego województwa,
+- **3)** zdarzenie powodujące zagrożenie publiczne o zasięgu krajowym zdarzenie radiacyjne określone w pkt 2, jeżeli zasięg jego skutków przekracza lub może przekroczyć obszar jednego województwa.
 
-2. Ka˝de zdarzenie radiacyjne zaistnia∏e na terenie kraju lub poza jego granicami, którego zasi´g skutków przekracza granice Rzeczypospolitej Polskiej, stanowi zdarzenie powodujàce zagro˝enie publiczne o zasi´gu
+2. Każde zdarzenie radiacyjne zaistniałe na terenie kraju lub poza jego granicami, którego zasięg skutków przekracza granice Rzeczypospolitej Polskiej, stanowi zdarzenie powodujące zagrożenie publiczne o zasięgu
 
-**Art. 83.** W razie zdarzenia radiacyjnego kierownik jednostki organizacyjnej wykonujàcej dzia∏alnoÊç okreÊlonà wart. 4 ust. 1 obowiàzany jest zabezpieczyç miejsce zdarzenia iniezw∏ocznie zg∏osiç to zdarzenie Prezesowi Agencji, awuzasadnionych przypadkach równie˝ innym organom is∏u˝bom, zgodnie zzak∏adowym planem post´powania awaryjnego.
+**Art. 83.** W razie zdarzenia radiacyjnego kierownik jednostki organizacyjnej wykonującej działalność określoną wart. 4 ust. 1 obowiązany jest zabezpieczyć miejsce zdarzenia iniezwłocznie zgłosić to zdarzenie Prezesowi Agencji, awuzasadnionych przypadkach również innym organom isłużbom, zgodnie zzakładowym planem postępowania awaryjnego.
 
 **Art. 84.**
 
-1. Zdarzenie radiacyjne powodujàce zagro˝enie jednostki organizacyjnej, województwa albo kraju wymaga podj´cia stosownych dzia∏aƒ okreÊlonych odpowiednio wzak∏adowym, wojewódzkim albo krajowym planie post´powania awaryjnego.
+1. Zdarzenie radiacyjne powodujące zagrożenie jednostki organizacyjnej, województwa albo kraju wymaga podjęcia stosownych działań określonych odpowiednio wzakładowym, wojewódzkim albo krajowym planie postępowania awaryjnego.
 
-2. Podczas zdarzenia radiacyjnego powodujàcego zagro˝enie jednostki organizacyjnej akcjà likwidacji zagro˝enia iusuwania skutków zdarzenia kieruje kierownik jednostki, na której terenie nastàpi∏o zdarzenie.
+2. Podczas zdarzenia radiacyjnego powodującego zagrożenie jednostki organizacyjnej akcją likwidacji zagrożenia iusuwania skutków zdarzenia kieruje kierownik jednostki, na której terenie nastąpiło zdarzenie.
 
-3. Podczas zdarzenia radiacyjnego powodujàcego zagro˝enie ozasi´gu wojewódzkim akcjà likwidacji zagro˝enia i usuwania skutków zdarzenia kieruje wojewoda, zzastrze˝eniem ust. 4.
+3. Podczas zdarzenia radiacyjnego powodującego zagrożenie ozasięgu wojewódzkim akcją likwidacji zagrożenia i usuwania skutków zdarzenia kieruje wojewoda, zzastrzeżeniem ust. 4.
 
-4. Je˝eli zdarzenie radiacyjne mia∏o miejsce podczas transportu, akcjà likwidacji zagro˝enia iusuwania skutków zdarzenia kieruje osoba odpowiedzialna za bezpieczeƒstwo przesy∏ki w czasie transportu w porozumieniu z wojewodà w∏aÊciwym dla miejsca zdarzenia.
+4. Jeżeli zdarzenie radiacyjne miało miejsce podczas transportu, akcją likwidacji zagrożenia iusuwania skutków zdarzenia kieruje osoba odpowiedzialna za bezpieczeństwo przesyłki w czasie transportu w porozumieniu z wojewodą właściwym dla miejsca zdarzenia.
 
-5. Podczas zdarzenia radiacyjnego powodujàcego zagro˝enie o zasi´gu krajowym akcjà likwidacji zagro˝enia i usuwania skutków zdarzenia kieruje minister w∏aÊciwy do spraw wewn´trznych przy pomocy Prezesa Agencji.
+5. Podczas zdarzenia radiacyjnego powodującego zagrożenie o zasięgu krajowym akcją likwidacji zagrożenia i usuwania skutków zdarzenia kieruje minister właściwy do spraw wewnętrznych przy pomocy Prezesa Agencji.
 
 **Art. 85.**
 
-1. W razie zdarzenia radiacyjnego spowodowanego przez nieznanego sprawc´ s∏u˝ba, która pierwsza uzyska∏a informacj´ ozdarzeniu, zabezpiecza miejsce zdarzenia i powiadamia o zdarzeniu Prezesa Agencji oraz wojewod´ w∏aÊciwego dla miejsca zdarzenia.
+1. W razie zdarzenia radiacyjnego spowodowanego przez nieznanego sprawcę służba, która pierwsza uzyskała informację ozdarzeniu, zabezpiecza miejsce zdarzenia i powiadamia o zdarzeniu Prezesa Agencji oraz wojewodę właściwego dla miejsca zdarzenia.
 
-2. W przypadku, o którym mowa w ust. 1, akcjà likwidacji zagro˝enia iusuwania skutków zdarzenia kieruje wojewoda w∏aÊciwy dla miejsca zdarzenia, z zastrze˝eniem art. 84 ust. 5.
+2. W przypadku, o którym mowa w ust. 1, akcją likwidacji zagrożenia iusuwania skutków zdarzenia kieruje wojewoda właściwy dla miejsca zdarzenia, z zastrzeżeniem art. 84 ust. 5.
 
-**Art. 86.** W przypadku stwierdzenia zwi´kszonego promieniowania, którego êród∏o nie jest znane, akcjà likwidacji zagro˝enia iusuwania skutków zdarzenia kieruje wojewoda w∏aÊciwy dla województwa, na obszarze którego promieniowanie zosta∏o stwierdzone, zzastrze˝eniem art. 84 ust. 5.
+**Art. 86.** W przypadku stwierdzenia zwiększonego promieniowania, którego êródło nie jest znane, akcją likwidacji zagrożenia iusuwania skutków zdarzenia kieruje wojewoda właściwy dla województwa, na obszarze którego promieniowanie zostało stwierdzone, zzastrzeżeniem art. 84 ust. 5.
 
-**Art. 87.** Rada Ministrów okreÊli, wdrodze rozporzàdzenia:
+**Art. 87.** Rada Ministrów określi, wdrodze rozporządzenia:
 
 **Art. 88.**
 
-1. Decyzja o wprowadzeniu dzia∏aƒ interwencyjnych mo˝e byç podj´ta po:
+1. Decyzja o wprowadzeniu działań interwencyjnych może być podjęta po:
 
-- **1)** przekazaniu przez Prezesa Agencji informacji, ˝e w wyniku zdarzenia radiacyjnego powodujàcego zagro˝enia, o których mowa w art. 82 ust. 1 pkt 2 i 3, mo˝e nastàpiç przekroczenie poziomów interwencyjnych,
-- **2)** dokonaniu analizy celowoÊci prowadzenia tych dzia∏aƒ.
+- **1)** przekazaniu przez Prezesa Agencji informacji, że w wyniku zdarzenia radiacyjnego powodującego zagrożenia, o których mowa w art. 82 ust. 1 pkt 2 i 3, może nastąpić przekroczenie poziomów interwencyjnych,
+- **2)** dokonaniu analizy celowości prowadzenia tych działań.
 
-2. Przy dokonywaniu analizy celowoÊci prowadzenia dzia∏aƒ interwencyjnych nale˝y uwzgl´dniç:
+2. Przy dokonywaniu analizy celowości prowadzenia działań interwencyjnych należy uwzględnić:
 
-- **1)** dotychczasowy oraz przewidywany przebieg i zasi´g zdarzenia,
-- **2)** wyst´pujàce lub mogàce wystàpiç wartoÊci dawek promieniowania jonizujàcego,
-- **3)** liczebnoÊç grup osób zagro˝onych,
-- **4)** skutki zdrowotne tych dzia∏aƒ,
-- **5)** przewidywanà wysokoÊç kosztów oraz skal´ skutków ekonomicznych ispo∏ecznych tych dzia∏aƒ.
+- **1)** dotychczasowy oraz przewidywany przebieg i zasięg zdarzenia,
+- **2)** występujące lub mogące wystąpić wartości dawek promieniowania jonizującego,
+- **3)** liczebność grup osób zagrożonych,
+- **4)** skutki zdrowotne tych działań,
+- **5)** przewidywaną wysokość kosztów oraz skalę skutków ekonomicznych ispołecznych tych działań.
 
 **Art. 89.**
 
-1. Wprowadzenie dzia∏aƒ interwencyjnych w zwiàzku ze zdarzeniem radiacyjnym, którego zasi´g skutków nie przekracza obszaru jednego województwa, nast´puje w drodze rozporzàdzenia porzàdkowego wydanego przez wojewod´ w∏aÊciwego dla miejsca zdarzenia. Og∏oszenie rozporzàdzenia porzàdkowego nast´puje w trybie przewidzianym dla og∏aszania aktów prawa miejscowego.
+1. Wprowadzenie działań interwencyjnych w związku ze zdarzeniem radiacyjnym, którego zasięg skutków nie przekracza obszaru jednego województwa, następuje w drodze rozporządzenia porządkowego wydanego przez wojewodę właściwego dla miejsca zdarzenia. Ogłoszenie rozporządzenia porządkowego następuje w trybie przewidzianym dla ogłaszania aktów prawa miejscowego.
 
-2. Wprowadzenie dzia∏aƒ interwencyjnych wzwiàzku ze zdarzeniem radiacyjnym, którego zasi´g skutków przekracza obszar jednego województwa, nast´puje wdrodze rozporzàdzenia Rady Ministrów.
+2. Wprowadzenie działań interwencyjnych wzwiązku ze zdarzeniem radiacyjnym, którego zasięg skutków przekracza obszar jednego województwa, następuje wdrodze rozporządzenia Rady Ministrów.
 
-3. Rozporzàdzenie, októrym mowa wust. 2, oprócz og∏oszenia go w Dzienniku Rzeczypospolitej Polskiej, podaje si´ do publicznej wiadomoÊci przez rozplakatowanie wmiejscach publicznych na obszarze obj´tym dzia∏aniami interwencyjnymi.
+3. Rozporządzenie, októrym mowa wust. 2, oprócz ogłoszenia go w Dzienniku Rzeczypospolitej Polskiej, podaje się do publicznej wiadomości przez rozplakatowanie wmiejscach publicznych na obszarze objętym działaniami interwencyjnymi.
 
-4. Wrozporzàdzeniach, októrych mowa wust. 1 i2, okreÊla si´ przyczyny, dat´ wprowadzenia oraz obszar iprzewidywany czas obowiàzywania dzia∏aƒ interwencyjnych, a tak˝e rodzaj niezb´dnych dzia∏aƒ interwencyjnych.
+4. Wrozporządzeniach, októrych mowa wust. 1 i2, określa się przyczyny, datę wprowadzenia oraz obszar iprzewidywany czas obowiązywania działań interwencyjnych, a także rodzaj niezbędnych działań interwencyjnych.
 
-5. W sprawach publikacji rozporzàdzeƒ, o których mowa w ust. 1 i 2, stosuje si´ przepisy ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. 5, poz. 24, z 1988 r. 41, poz. 324, z 1989 r. 34, poz. 187, z 1990 r. 29, poz. 173, z 1991 r. 100, poz. 442, z 1996 r. 114, poz. 542, z 1997 r. 88, poz.554 iNr 121, poz. 770 oraz z1999 r. 90, poz. 999).
+5. W sprawach publikacji rozporządzeń, o których mowa w ust. 1 i 2, stosuje się przepisy ustawy z dnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. 5, poz. 24, z 1988 r. 41, poz. 324, z 1989 r. 34, poz. 187, z 1990 r. 29, poz. 173, z 1991 r. 100, poz. 442, z 1996 r. 114, poz. 542, z 1997 r. 88, poz.554 iNr 121, poz. 770 oraz z1999 r. 90, poz. 999).
 
-6. Odwo∏anie dzia∏aƒ interwencyjnych na ca∏ym obszarze ich obowiàzywania lub na cz´Êci tego obszaru nast´puje w trybie przewidzianym dla ich og∏oszeArt. 90.Dzia∏aniami interwencyjnymi sà:
+6. Odwołanie działań interwencyjnych na całym obszarze ich obowiązywania lub na części tego obszaru następuje w trybie przewidzianym dla ich ogłoszeArt. 90.Działaniami interwencyjnymi są:
 
-- **1)** czasowe przesiedlenie ludnoÊci,
-- **2)** nakaz pozostania wpomieszczeniach zamkni´tych,
+- **1)** czasowe przesiedlenie ludności,
+- **2)** nakaz pozostania wpomieszczeniach zamkniętych,
 - **3)** podanie preparatów ze stabilnym jodem,
-- **4)** zakaz lub ograniczenie spo˝ywania ska˝onej ˝ywnoÊci i wody pitnej, karmienia zwierzàt hodowlanych ska˝onà paszà i pojenia ska˝onà wodà oraz wypasu byd∏a na ska˝onym terenie.
+- **4)** zakaz lub ograniczenie spożywania skażonej żywności i wody pitnej, karmienia zwierząt hodowlanych skażoną paszą i pojenia skażoną wodą oraz wypasu bydła na skażonym terenie.
 
-**Art. 91.** Dzia∏aniami interwencyjnymi kieruje:
+**Art. 91.** Działaniami interwencyjnymi kieruje:
 
 **Art. 92.**
 
-1. W przypadku wystàpienia zdarzenia radiacyjnego, wwyniku którego ludnoÊç mo˝e otrzymaç dawk´ przekraczajàcà dawk´ granicznà, zostaje ona powiadomiona przez Prezesa Agencji o:
+1. W przypadku wystąpienia zdarzenia radiacyjnego, wwyniku którego ludność może otrzymać dawkę przekraczającą dawkę graniczną, zostaje ona powiadomiona przez Prezesa Agencji o:
 
-- **1)** sytuacji radiacyjnej, wtym wszczególnoÊci omiejscu powstania zdarzenia, przewidywanym rozwoju sytuacji iskutkach zdarzenia dla ludzi iÊrodowiska,
-- **2)** mo˝liwych do zastosowania Êrodkach idzia∏aniach dla ochrony zdrowia.
+- **1)** sytuacji radiacyjnej, wtym wszczególności omiejscu powstania zdarzenia, przewidywanym rozwoju sytuacji iskutkach zdarzenia dla ludzi iśrodowiska,
+- **2)** możliwych do zastosowania środkach idziałaniach dla ochrony zdrowia.
 
-2. Informacj´, októrej mowa wust. 1 pkt 2, Prezes Agencji przekazuje po uzgodnieniu zministrem w∏aÊciwym do spraw zdrowia.
+2. Informację, októrej mowa wust. 1 pkt 2, Prezes Agencji przekazuje po uzgodnieniu zministrem właściwym do spraw zdrowia.
 
-3. Wsprawach publikacji informacji, októrych mowa wust. 1, stosuje si´ przepisy ustawy Prawo prasowe, zzastrze˝eniem ust. 4.
+3. Wsprawach publikacji informacji, októrych mowa wust. 1, stosuje się przepisy ustawy Prawo prasowe, zzastrzeżeniem ust. 4.
 
-4. Publikacja informacji, o których mowa w ust. 1, nie wymaga nades∏ania ich przez rzecznika prasowego rzàdu.
+4. Publikacja informacji, o których mowa w ust. 1, nie wymaga nadesłania ich przez rzecznika prasowego rządu.
 
-**Art. 93.** Koszty dzia∏aƒ interwencyjnych iusuwania skutków zdarzenia radiacyjnego pokrywane sà przez jednostk´ organizacyjnà, z której przyczyny powsta∏o zdarzenie radiacyjne, awrazie zdarzeƒ, których sprawca nie jest znany, lub powsta∏ych poza granicami Rzeczypospolitej Polskiej zbud˝etu paƒstwa.
+**Art. 93.** Koszty działań interwencyjnych iusuwania skutków zdarzenia radiacyjnego pokrywane są przez jednostkę organizacyjną, z której przyczyny powstało zdarzenie radiacyjne, awrazie zdarzeń, których sprawca nie jest znany, lub powstałych poza granicami Rzeczypospolitej Polskiej zbudżetu państwa.
 
-**Art. 94.** Raport ozdarzeniu radiacyjnym, po zakoƒczeniu dzia∏aƒ interwencyjnych, przekazujà:
+**Art. 94.** Raport ozdarzeniu radiacyjnym, po zakończeniu działań interwencyjnych, przekazują:
 
-**Art. 95.** nia. 1. Je˝eli Êrodki, którymi dysponuje organ kierujàcy akcjà likwidacji zagro˝enia i usuwania skutków zdarzenia, sà niewystarczajàce, organ ten mo˝e wprowadziç obowiàzek Êwiadczeƒ osobistych irzeczowych. 2. Do spraw zwiàzanych ze Êwiadczeniami, o których mowa wust. 1, stosuje si´ odpowiednio przepisy dotyczàce Êwiadczeƒ wcelu zwalczania kl´sk ˝ywio∏owych.
+**Art. 95.** nia. 1. Jeżeli środki, którymi dysponuje organ kierujący akcją likwidacji zagrożenia i usuwania skutków zdarzenia, są niewystarczające, organ ten może wprowadzić obowiązek świadczeń osobistych irzeczowych. 2. Do spraw związanych ze świadczeniami, o których mowa wust. 1, stosuje się odpowiednio przepisy dotyczące świadczeń wcelu zwalczania klęsk żywiołowych.
 
 **Art. 96.**
 
-1. Kierownik jednostki organizacyjnej iwojewoda, ka˝dy wswoim zakresie, przeprowadzajà okresowe çwiczenia wcelu przeglàdu iaktualizacji planów post´powania awaryjnego. W przypadku obiektu jàdrowego çwiczenia przeprowadza kierownik jednostki organizacyjnej poczàwszy od czynnoÊci obj´tych planem post´powania awaryjnego dla etapu rozruchu obiektu. Koszty çwiczeƒ ponoszà odpowiednio jednostka organizacyjna lub wojewoda.
+1. Kierownik jednostki organizacyjnej iwojewoda, każdy wswoim zakresie, przeprowadzają okresowe ćwiczenia wcelu przeglądu iaktualizacji planów postępowania awaryjnego. W przypadku obiektu jądrowego ćwiczenia przeprowadza kierownik jednostki organizacyjnej począwszy od czynności objętych planem postępowania awaryjnego dla etapu rozruchu obiektu. Koszty ćwiczeń ponoszą odpowiednio jednostka organizacyjna lub wojewoda.
 
-2. Minister w∏aÊciwy do spraw wewn´trznych przeprowadza okresowo, nie rzadziej ni˝ raz na trzy lata, çwiczenia wcelu sprawdzenia krajowego planu post´powania awaryjnego. Koszty zwiàzane z przygotowaniem i przeprowadzeniem çwiczeƒ pokrywane sà z bud˝etu ministra w∏aÊciwego do spraw wewn´trznych.
+2. Minister właściwy do spraw wewnętrznych przeprowadza okresowo, nie rzadziej niż raz na trzy lata, ćwiczenia wcelu sprawdzenia krajowego planu postępowania awaryjnego. Koszty związane z przygotowaniem i przeprowadzeniem ćwiczeń pokrywane są z budżetu ministra właściwego do spraw wewnętrznych.
 
 **Art. 97.**
 
-1. Przywo˝one na polski obszar celny ˝ywnoÊç, woda pitna ipasza, dla których krajem pochodzenia jest kraj okreÊlony wprzepisach wydanych na podstawie art. 99 pkt 1 lit. b), powinny posiadaç Êwiadectwo eksportowe wydane przez w∏aÊciwy organ kraju eksportujàcego, stwierdzajàce, ˝e zawartoÊç substancji promieniotwórczych nie przekracza poziomów okreÊlonych w przepisach wydanych na podstawie art. 99 pkt 1 lit. a).
+1. Przywożone na polski obszar celny żywność, woda pitna ipasza, dla których krajem pochodzenia jest kraj określony wprzepisach wydanych na podstawie art. 99 pkt 1 lit. b), powinny posiadać świadectwo eksportowe wydane przez właściwy organ kraju eksportującego, stwierdzające, że zawartość substancji promieniotwórczych nie przekracza poziomów określonych w przepisach wydanych na podstawie art. 99 pkt 1 lit. a).
 
-2. W przypadku uzasadnionego podejrzenia, ˝e wprzywo˝onych na polski obszar celny ˝ywnoÊci, wodzie pitnej i paszy zawartoÊç substancji promieniotwórczych przekracza poziomy okreÊlone wprzepisach wydanych na podstawie art. 99 pkt 1 lit. a), organy celne mogà ˝àdaç przeprowadzenia pomiarów kontrolnych.
+2. W przypadku uzasadnionego podejrzenia, że wprzywożonych na polski obszar celny żywności, wodzie pitnej i paszy zawartość substancji promieniotwórczych przekracza poziomy określone wprzepisach wydanych na podstawie art. 99 pkt 1 lit. a), organy celne mogą żądać przeprowadzenia pomiarów kontrolnych.
 
-3. Pomiary przeprowadzajà jednostki posiadajàce uprawnienia do wykonywania takich pomiarów, uzyskane w trybie odr´bnych przepisów, oraz inne jednostki wskazane przez Prezesa Agencji wuzgodnieniu zw∏aÊciwym ministrem.
+3. Pomiary przeprowadzają jednostki posiadające uprawnienia do wykonywania takich pomiarów, uzyskane w trybie odrębnych przepisów, oraz inne jednostki wskazane przez Prezesa Agencji wuzgodnieniu zwłaściwym ministrem.
 
-4. Pobieranie próbek Êrodków spo˝ywczych, u˝ywek ipasz wcelu przeprowadzenia pomiarów odbywa si´ na podstawie odr´bnych przepisów.
+4. Pobieranie próbek środków spożywczych, używek ipasz wcelu przeprowadzenia pomiarów odbywa się na podstawie odrębnych przepisów.
 
-5. Pomiary wykonywane sà na koszt importera.
+5. Pomiary wykonywane są na koszt importera.
 
 **Art. 98.**
 
-1. Po zdarzeniach radiacyjnych ˝ywnoÊç, woda pitna i pasza, wyprodukowane w kraju, przed wprowadzeniem ich do obrotu podlegajà kontroli w celu stwierdzenia, ˝e zawartoÊç substancji promieniotwórczych nie przekracza poziomów okreÊlonych w przepisach wydanych na podstawie art. 99 pkt 1 lit.a).
+1. Po zdarzeniach radiacyjnych żywność, woda pitna i pasza, wyprodukowane w kraju, przed wprowadzeniem ich do obrotu podlegają kontroli w celu stwierdzenia, że zawartość substancji promieniotwórczych nie przekracza poziomów określonych w przepisach wydanych na podstawie art. 99 pkt 1 lit.a).
 
-2. Do pomiarów zawartoÊci substancji promieniodokonaniu pomiarów jednostki wydajà zaÊwiadczenia oich wynikach.
+2. Do pomiarów zawartości substancji promieniodokonaniu pomiarów jednostki wydają zaświadczenia oich wynikach.
 
-3. ˚ywnoÊç, wod´ pitnà i pasz´, w których zawartoÊç substancji promieniotwórczych przekracza poziomy okreÊlone w przepisach wydanych na podstawie art. 99 pkt 1 lit. a), uwa˝a si´ za ˝ywnoÊç o niew∏aÊciwej jakoÊci zdrowotnej. Zasady post´powania z takà ˝ywnoÊcià regulujà odr´bne przepisy.
+3. ˚ywność, wodę pitną i paszę, w których zawartość substancji promieniotwórczych przekracza poziomy określone w przepisach wydanych na podstawie art. 99 pkt 1 lit. a), uważa się za żywność o niewłaściwej jakości zdrowotnej. Zasady postępowania z taką żywnością regulują odrębne przepisy.
 
-**Art. 99.** Rada Ministrów, wdrodze rozporzàdzenia:
+**Art. 99.** Rada Ministrów, wdrodze rozporządzenia:
 
-**Art. 100.** Wrozumieniu niniejszego rozdzia∏u u˝yte okreÊlenia oznaczajà:
+#### Rozdział 12 Odpowiedzialność cywilna za szkody jądrowe
+
+**Art. 100.** Wrozumieniu niniejszego rozdziału użyte określenia oznaczają:
 
 **Art. 101.**
 
-1. Osoba eksploatujàca ponosi wy∏àcznà odpowiedzialnoÊç za szkod´ jàdrowà spowodowanà wypadkiem jàdrowym w urzàdzeniu jàdrowym lub zwiàzanà ztym urzàdzeniem, chyba ˝e szkoda nastàpi∏a bezpoÊrednio wskutek dzia∏aƒ wojennych lub konfliktu zbrojnego.
+1. Osoba eksploatująca ponosi wyłączną odpowiedzialność za szkodę jądrową spowodowaną wypadkiem jądrowym w urządzeniu jądrowym lub związaną ztym urządzeniem, chyba że szkoda nastąpiła bezpośrednio wskutek działań wojennych lub konfliktu zbrojnego.
 
-2. W czasie transportu materia∏ów jàdrowych odpowiedzialnoÊç ponosi osoba eksploatujàca urzàdzenie jàdrowe, zktórego ten materia∏ zosta∏ wys∏any, chyba ˝e umowa zodbiorcà stanowi inaczej.
+2. W czasie transportu materiałów jądrowych odpowiedzialność ponosi osoba eksploatująca urządzenie jądrowe, zktórego ten materiał został wysłany, chyba że umowa zodbiorcą stanowi inaczej.
 
-3. Je˝eli poszkodowany, na skutek umyÊlnego zachowania, przyczyni∏ si´ do powstania lub zwi´kszenia szkody, sàd mo˝e zwolniç ca∏kowicie lub cz´Êciowo osob´ eksploatujàcà zobowiàzku naprawienia szkody wodniesieniu do szkody doznanej przez poszkodowanego.
+3. Jeżeli poszkodowany, na skutek umyślnego zachowania, przyczynił się do powstania lub zwiększenia szkody, sąd może zwolnić całkowicie lub częściowo osobę eksploatującą zobowiązku naprawienia szkody wodniesieniu do szkody doznanej przez poszkodowanego.
 
 **Art. 102.**
 
-1. Granicà odpowiedzialnoÊci osoby eksploatujàcej za szkod´ jàdrowà w mieniu lub w Êrodowisku jest kwota stanowiàca równowartoÊç 150 milionów SDR, z tym ˝e wysokoÊç odszkodowania za nieznaczne naruszenie Êrodowiska jest ograniczona do zwrotu kosztów, które zosta∏y lub zostanà poniesione wcelu przywrócenia stanu Êrodowiska sprzed jego naruszenia.
+1. Granicą odpowiedzialności osoby eksploatującej za szkodę jądrową w mieniu lub w środowisku jest kwota stanowiąca równowartość 150 milionów SDR, z tym że wysokość odszkodowania za nieznaczne naruszenie środowiska jest ograniczona do zwrotu kosztów, które zostały lub zostaną poniesione wcelu przywrócenia stanu środowiska sprzed jego naruszenia.
 
-2. Je˝eli roszczenia z tytu∏u szkód w mieniu lub w Êrodowisku przekraczajà kwot´, o której mowa wust. 1, osoba eksploatujàca mo˝e ustanowiç fundusz ograniczenia odpowiedzialnoÊci. Do post´powania w sprawie ustanowienia funduszu i jego podzia∏u stosuje si´ odpowiednio przepisy Kodeksu morskiego o ograniczeniu odpowiedzialnoÊci za roszczenia morskie, zzastrze˝eniem ust. 3—5.
+2. Jeżeli roszczenia z tytułu szkód w mieniu lub w środowisku przekraczają kwotę, o której mowa wust. 1, osoba eksploatująca może ustanowić fundusz ograniczenia odpowiedzialności. Do postępowania w sprawie ustanowienia funduszu i jego podziału stosuje się odpowiednio przepisy Kodeksu morskiego o ograniczeniu odpowiedzialności za roszczenia morskie, zzastrzeżeniem ust. 3—5.
 
-3. W sprawach dotyczàcych ustanowienia funduszu ijego podzia∏u w∏aÊciwy jest Sàd Okr´gowy wWarszawie.
+3. W sprawach dotyczących ustanowienia funduszu ijego podziału właściwy jest Sąd Okręgowy wWarszawie.
 
-4. Wniosek o wszcz´cie post´powania w sprawie ustanowienia funduszu ijego podzia∏u powinien odpowiadaç ogólnym warunkom wniosku o wszcz´cie post´powania, aponadto zawieraç:
+4. Wniosek o wszczęcie postępowania w sprawie ustanowienia funduszu ijego podziału powinien odpowiadać ogólnym warunkom wniosku o wszczęcie postępowania, aponadto zawierać:
 
-- **1)** nazw´ urzàdzenia jàdrowego,
-- **2)** okreÊlenie wypadku jàdrowego, z którego wynikajà roszczenia, iinformacje opost´powaniach zmierzajàcych do ustalenia przebiegu tego wypadku,
-- **3)** okreÊlenie rodzaju roszczeƒ iwierzycieli, na których zaspokojenie fundusz ma byç przekazany, a tak˝e informacj´ oznanych wnioskodawcy roszczeniach ju˝ dochodzonych przed sàdem,
-- **4)** oÊwiadczenie ogotowoÊci ustanowienia funduszu, uzasadnienie jego wysokoÊci, a tak˝e okreÊlenie sposobu jego ustanowienia.
+- **1)** nazwę urządzenia jądrowego,
+- **2)** określenie wypadku jądrowego, z którego wynikają roszczenia, iinformacje opostępowaniach zmierzających do ustalenia przebiegu tego wypadku,
+- **3)** określenie rodzaju roszczeń iwierzycieli, na których zaspokojenie fundusz ma być przekazany, a także informację oznanych wnioskodawcy roszczeniach już dochodzonych przed sądem,
+- **4)** oświadczenie ogotowości ustanowienia funduszu, uzasadnienie jego wysokości, a także określenie sposobu jego ustanowienia.
 
-5. Do wniosku nale˝y do∏àczyç dokumenty obejmujàce dane wp∏ywajàce na wysokoÊç funduszu.
+5. Do wniosku należy dołączyć dokumenty obejmujące dane wpływające na wysokość funduszu.
 
 **Art. 103.**
 
-1. Osoba eksploatujàca jest obowiàzana posiadaç finansowe zabezpieczenie jej odpowiedzialnoÊci. Je˝eli wypadek jàdrowy, oprócz szkody w miewy z dnia grudnia 1998 r. Prawo dewizowe niu lub w Êrodowisku, wyrzàdzi∏ równie˝ szkod´ na osobie, 10% kwoty tego zabezpieczenia przeznacza si´ na zabezpieczenie roszczeƒ ztytu∏u szkody jàdrowej na osobie.
+1. Osoba eksploatująca jest obowiązana posiadać finansowe zabezpieczenie jej odpowiedzialności. Jeżeli wypadek jądrowy, oprócz szkody w miewy z dnia grudnia 1998 r. Prawo dewizowe niu lub w środowisku, wyrządził również szkodę na osobie, 10% kwoty tego zabezpieczenia przeznacza się na zabezpieczenie roszczeń ztytułu szkody jądrowej na osobie.
 
-2. Je˝eli wokresie 5 lat od dnia wypadku jàdrowego roszczenia ztytu∏u szkody na osobie dochodzone od osoby eksploatujàcej nie przewy˝szajà ∏àcznie kwoty zabezpieczenia przeznaczonego wy∏àcznie na zaspokojenie takich roszczeƒ, pozosta∏a cz´Êç zabezpieczenia b´dzie przeznaczona na zaspokojenie roszczeƒ ztytu∏u szkody w mieniu lub w Êrodowisku, a tak˝e roszczeƒ z tytu∏u szkody na osobie, dochodzonych przed up∏ywem 10 lat od dnia wypadku jàdrowego.
+2. Jeżeli wokresie 5 lat od dnia wypadku jądrowego roszczenia ztytułu szkody na osobie dochodzone od osoby eksploatującej nie przewyższają łącznie kwoty zabezpieczenia przeznaczonego wyłącznie na zaspokojenie takich roszczeń, pozostała część zabezpieczenia będzie przeznaczona na zaspokojenie roszczeń ztytułu szkody w mieniu lub w środowisku, a także roszczeń z tytułu szkody na osobie, dochodzonych przed upływem 10 lat od dnia wypadku jądrowego.
 
-3. Skarb Paƒstwa gwarantuje wyp∏at´ odszkodowania z tytu∏u szkody jàdrowej na osobie w zakresie, wjakim nie mog∏a byç zaspokojona zzabezpieczenia finansowego, októrym mowa wust. 1 i 2.
+3. Skarb Państwa gwarantuje wypłatę odszkodowania z tytułu szkody jądrowej na osobie w zakresie, wjakim nie mogła być zaspokojona zzabezpieczenia finansowego, októrym mowa wust. 1 i 2.
 
-4. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia, sposób zabezpieczenia finansowego, o którym mowa w ust. 1, uwzgl´dniajàc wysokoÊç, rodzaj i warunki tego zabezpieczenia.
+4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, sposób zabezpieczenia finansowego, o którym mowa w ust. 1, uwzględniając wysokość, rodzaj i warunki tego zabezpieczenia.
 
 **Art. 104.**
 
-1. Roszczenie o odszkodowanie z tytu∏u szkody jàdrowej mo˝e byç dochodzone bezpoÊrednio od osoby dajàcej finansowe zabezpieczenie odpowiedzialnoÊci osoby eksploatujàcej.
+1. Roszczenie o odszkodowanie z tytułu szkody jądrowej może być dochodzone bezpośrednio od osoby dającej finansowe zabezpieczenie odpowiedzialności osoby eksploatującej.
 
-2. Wprzypadku, októrym mowa wust. 1, osoba dajàca zabezpieczenie mo˝e skorzystaç z ograniczenia odpowiedzialnoÊci oraz innych Êrodków obrony przys∏ugujàcych osobie eksploatujàcej.
+2. Wprzypadku, októrym mowa wust. 1, osoba dająca zabezpieczenie może skorzystać z ograniczenia odpowiedzialności oraz innych środków obrony przysługujących osobie eksploatującej.
 
 **Art. 105.**
 
-1. Roszczenie onaprawienie szkody jàdrowej na osobie nie przedawnia si´.
+1. Roszczenie onaprawienie szkody jądrowej na osobie nie przedawnia się.
 
-2. Roszczenie o naprawienie szkody jàdrowej wmieniu lub wÊrodowisku przedawnia si´ zup∏ywem trzech lat od dnia, wktórym poszkodowany dowiedzia∏ si´ lub powinien by∏ si´ dowiedzieç oszkodzie iosobie odpowiedzialnej. Jednak˝e roszczenie wygasa z up∏ywem dziesi´ciu lat od dnia wypadku jàdrowego.
+2. Roszczenie o naprawienie szkody jądrowej wmieniu lub wśrodowisku przedawnia się zupływem trzech lat od dnia, wktórym poszkodowany dowiedział się lub powinien był się dowiedzieć oszkodzie iosobie odpowiedzialnej. Jednakże roszczenie wygasa z upływem dziesięciu lat od dnia wypadku jądrowego.
 
-3. Roszczenie o naprawienie szkody w Êrodowisku przys∏uguje ministrowi w∏aÊciwemu do spraw Êrodowiska.
+3. Roszczenie o naprawienie szkody w środowisku przysługuje ministrowi właściwemu do spraw środowiska.
 
 **Art. 106.**
 
-1. W przypadku gdy szkoda jàdrowa powsta∏a w wyniku wypadku jàdrowego na terytorium Rzeczypospolitej Polskiej, sàdami w∏aÊciwymi do rozpatrywania pozwów w sprawach odszkodowaƒ za szkody jàdrowe sà sàdy okr´gowe.
+1. W przypadku gdy szkoda jądrowa powstała w wyniku wypadku jądrowego na terytorium Rzeczypospolitej Polskiej, sądami właściwymi do rozpatrywania pozwów w sprawach odszkodowań za szkody jądrowe są sądy okręgowe.
 
-2. Wsprawach post´powania wzakresie odszkodowaƒ stosuje si´ przepisy Kodeksu post´powania cywilnego.
+2. Wsprawach postępowania wzakresie odszkodowań stosuje się przepisy Kodeksu postępowania cywilnego.
 
-3. W przypadku gdy szkoda jàdrowa powsta∏a wwyniku wypadku jàdrowego poza terytorium Rzeczypospolitej Polskiej, w∏aÊciwoÊç sàdów do rozpatrywania pozwów w sprawach odszkodowaƒ za szkody jàdrowe okreÊla Konwencja wiedeƒska o odpowiedzialnoÊci cywilnej za szkod´ jàdrowà, sporzàdzona w Wiedniu dnia 21 maja 1963 r. (Dz.U. z 1990 r. 63,
+3. W przypadku gdy szkoda jądrowa powstała wwyniku wypadku jądrowego poza terytorium Rzeczypospolitej Polskiej, właściwość sądów do rozpatrywania pozwów w sprawach odszkodowań za szkody jądrowe określa Konwencja wiedeńska o odpowiedzialności cywilnej za szkodę jądrową, sporządzona w Wiedniu dnia 21 maja 1963 r. (Dz.U. z 1990 r. 63,
 
 **Art. 107.**
 
-1. Do urzàdzeƒ jàdrowych, w sprawach nieuregulowanych w niniejszym rozdziale, stosuje si´ odpowiednio przepisy dotyczàce obiektów jàdrowych.
+1. Do urządzeń jądrowych, w sprawach nieuregulowanych w niniejszym rozdziale, stosuje się odpowiednio przepisy dotyczące obiektów jądrowych.
 
-2. Wsprawach odszkodowaƒ, wzakresie nieuregulowanym w niniejszym rozdziale, stosuje si´ przepisy Kodeksu cywilnego.
+2. Wsprawach odszkodowań, wzakresie nieuregulowanym w niniejszym rozdziale, stosuje się przepisy Kodeksu cywilnego.
 
-**Art. 108.** Przepisy niniejszego rozdzia∏u nie naruszajà przepisów o Êwiadczeniach z tytu∏u wypadków przy pracy ichorób zawodowych. Rozdzia∏ 13 Prezes Paƒstwowej Agencji Atomistyki
+**Art. 108.** Przepisy niniejszego rozdziału nie naruszają przepisów o świadczeniach z tytułu wypadków przy pracy ichorób zawodowych.
+
+#### Rozdział 13 Prezes Państwowej Agencji Atomistyki
 
 **Art. 109.**
 
-1. Prezes Paƒstwowej Agencji Atomistyki jest centralnym organem administracji rzàdowej w∏aÊciwym w sprawach bezpieczeƒstwa jàdrowego i ochrony radiologicznej w zakresie okreÊlonym ustawà.
+1. Prezes Państwowej Agencji Atomistyki jest centralnym organem administracji rządowej właściwym w sprawach bezpieczeństwa jądrowego i ochrony radiologicznej w zakresie określonym ustawą.
 
-2. Prezesa Agencji powo∏uje iodwo∏uje Prezes Rapoz. 370 i 371). dy Ministrów.
+2. Prezesa Agencji powołuje iodwołuje Prezes Rapoz. 370 i 371). dy Ministrów.
 
-3. Prezes Rady Ministrów, na wniosek Prezesa Agencji, powo∏uje iodwo∏uje wiceprezesów Agencji.
+3. Prezes Rady Ministrów, na wniosek Prezesa Agencji, powołuje iodwołuje wiceprezesów Agencji.
 
 4. Prezes Rady Ministrów sprawuje nadzór nad Prezesem Agencji.
 
-**Art. 110.** Do zakresu dzia∏ania Prezesa Agencji nale˝y wykonywanie zadaƒ zwiàzanych z zapewnieniem bezpieczeƒstwa jàdrowego i ochrony radiologicznej kraju, awszczególnoÊci:
+**Art. 110.** Do zakresu działania Prezesa Agencji należy wykonywanie zadań związanych z zapewnieniem bezpieczeństwa jądrowego i ochrony radiologicznej kraju, awszczególności:
 
-**Art. 111.** Prezes Rady Ministrów mo˝e okreÊliç, w drodze rozporzàdzenia, szczegó∏owy zakres dzia∏ania Prezesa Agencji.
+**Art. 111.** Prezes Rady Ministrów może określić, w drodze rozporządzenia, szczegółowy zakres działania Prezesa Agencji.
 
 **Art. 112.**
 
-1. Prezes Agencji wykonuje swoje zadania przy pomocy Paƒstwowej Agencji Atomistyki, zwanej dalej „Agencjà”.
+1. Prezes Agencji wykonuje swoje zadania przy pomocy Państwowej Agencji Atomistyki, zwanej dalej ŃAgencją”.
 
-2. Przy Agencji dzia∏a Rada do Spraw Atomistyki, zwana dalej „Radà”, jako organ doradczy iopiniodawczy Prezesa Agencji.
+2. Przy Agencji działa Rada do Spraw Atomistyki, zwana dalej ŃRadą”, jako organ doradczy iopiniodawczy Prezesa Agencji.
 
-3. Prezes Rady Ministrów okreÊli, w drodze rozporzàdzenia, sk∏ad Rady oraz zakres i tryb jej dzia∏ania, ustalajàc regulamin pracy iliczb´ jej cz∏onków.
+3. Prezes Rady Ministrów określi, w drodze rozporządzenia, skład Rady oraz zakres i tryb jej działania, ustalając regulamin pracy iliczbę jej członków.
 
-4. Prezes Rady Ministrów, na wniosek Prezesa Agencji, powo∏uje iodwo∏uje Przewodniczàcego Rady.
+4. Prezes Rady Ministrów, na wniosek Prezesa Agencji, powołuje iodwołuje Przewodniczącego Rady.
 
-5. Cz∏onków Rady powo∏uje i odwo∏uje Prezes Agencji.
+5. Członków Rady powołuje i odwołuje Prezes Agencji.
 
 **Art. 113.**
 
-1. Prezes Rady Ministrów, wdrodze rozporzàdzenia, nadaje statut Agencji, okreÊlajàcy jej organizacj´ wewn´trznà.
+1. Prezes Rady Ministrów, wdrodze rozporządzenia, nadaje statut Agencji, określający jej organizację wewnętrzną.
 
-2. Szczegó∏owà organizacj´ oraz tryb pracy Agencji izakres zadaƒ jej komórek organizacyjnych okreÊla regulamin organizacyjny nadany, w drodze zarzàdzenia, Rozdzia∏ 14 Paƒstwowe przedsi´biorstwo u˝ytecznoÊci publicznej „Zak∏ad Unieszkodliwiania Odpadów Promieniotwórczych”
+2. Szczegółową organizację oraz tryb pracy Agencji izakres zadań jej komórek organizacyjnych określa regulamin organizacyjny nadany, w drodze zarządzenia,
+
+#### Rozdział 14 Państwowe przedsiębiorstwo użyteczności publicznej ŃZakład Unieszkodliwiania Odpadów Promieniotwórczych”
 
 **Art. 114.**
 
-1. Tworzy si´ paƒstwowe przedsi´biorstwo u˝ytecznoÊci publicznej pod nazwà „Zak∏ad Unieszkodliwiania Odpadów Promieniotwórczych” z siedzibà w Otwocku-Âwierku, zwane dalej „Zak∏adem”, powo∏ane do wykonywania dzia∏alnoÊci w zakresie post´powania zodpadami promieniotwórczymi i wypalonym paliwem jàdrowym, a przede wszystkim do zapewnienia sta∏ej mo˝liwoÊci sk∏adowania odpadów promieniotwórczych i wypalonego paliwa jàdrowego.
+1. Tworzy się państwowe przedsiębiorstwo użyteczności publicznej pod nazwą ŃZakład Unieszkodliwiania Odpadów Promieniotwórczych” z siedzibą w Otwocku-Âwierku, zwane dalej ŃZakładem”, powołane do wykonywania działalności w zakresie postępowania zodpadami promieniotwórczymi i wypalonym paliwem jądrowym, a przede wszystkim do zapewnienia stałej możliwości składowania odpadów promieniotwórczych i wypalonego paliwa jądrowego.
 
-2. Zak∏ad mo˝e równie˝ wykonywaç dzia∏alnoÊç w zakresie post´powania z odpadami niebezpiecznymi, o których mowa w przepisach dotyczàcych odpadów, oraz innà dzia∏alnoÊç okreÊlonà wstatucie, októrym mowa wart. 121.
+2. Zakład może również wykonywać działalność w zakresie postępowania z odpadami niebezpiecznymi, o których mowa w przepisach dotyczących odpadów, oraz inną działalność określoną wstatucie, októrym mowa wart. 121.
 
 **Art. 115.**
 
-1. Zak∏ad posiada osobowoÊç prawnà.
+1. Zakład posiada osobowość prawną.
 
-2. Organy paƒstwowe mogà podejmowaç decyzje w zakresie dzia∏alnoÊci Zak∏adu tylko w przypadkach przewidzianych ustawà.
+2. Organy państwowe mogą podejmować decyzje w zakresie działalności Zakładu tylko w przypadkach przewidzianych ustawą.
 
 **Art. 116.**
 
-1. Nadzór nad Zak∏adem oraz funkcj´ organu za∏o˝ycielskiego sprawuje minister w∏aÊciwy do spraw gospodarki.
+1. Nadzór nad Zakładem oraz funkcję organu założycielskiego sprawuje minister właściwy do spraw gospodarki.
 
-2. Minister w∏aÊciwy do spraw gospodarki przeprowadza kontrol´ i dokonuje corocznej oceny dzia∏alnoÊci Zak∏adu, którà przedstawia Prezesowi Rady Ministrów do dnia 30 marca roku nast´pnego.
+2. Minister właściwy do spraw gospodarki przeprowadza kontrolę i dokonuje corocznej oceny działalności Zakładu, którą przedstawia Prezesowi Rady Ministrów do dnia 30 marca roku następnego.
 
-3. Minister w∏aÊciwy do spraw gospodarki mo˝e powo∏aç komisj´ wcelu zbadania gospodarki Zak∏adu i sformu∏owania wniosków wynikajàcych z oceny tej gospodarki.
+3. Minister właściwy do spraw gospodarki może powołać komisję wcelu zbadania gospodarki Zakładu i sformułowania wniosków wynikających z oceny tej gospodarki.
 
-4. Na podstawie wniosków komisji minister w∏aÊciwy do spraw gospodarki mo˝e zobowiàzaç dyrektora Zak∏adu do poprawy gospodarki Zak∏adu lub przedstawienia programu naprawczego i jego realizacji. Program ten podlega zatwierdzeniu przez ministra w∏aÊciwego do spraw gospodarki.
+4. Na podstawie wniosków komisji minister właściwy do spraw gospodarki może zobowiązać dyrektora Zakładu do poprawy gospodarki Zakładu lub przedstawienia programu naprawczego i jego realizacji. Program ten podlega zatwierdzeniu przez ministra właściwego do spraw gospodarki.
 
-5. Minister w∏aÊciwy do spraw gospodarki w razie stwierdzenia, ˝e decyzja dyrektora Zak∏adu jest sprzeczna zprawem, wstrzymuje jej wykonanie izobowiàzuje dyrektora do jej zmiany lub uchylenia.
+5. Minister właściwy do spraw gospodarki w razie stwierdzenia, że decyzja dyrektora Zakładu jest sprzeczna zprawem, wstrzymuje jej wykonanie izobowiązuje dyrektora do jej zmiany lub uchylenia.
 
-6. Dyrektorowi Zak∏adu przys∏uguje prawo wniesienia sprzeciwu w stosunku do decyzji podj´tych przez ministra w∏aÊciwego do spraw gospodarki, na zasadach i w trybie okreÊlonych w przepisach o przedsi´biorstwach paƒstwowych.
+6. Dyrektorowi Zakładu przysługuje prawo wniesienia sprzeciwu w stosunku do decyzji podjętych przez ministra właściwego do spraw gospodarki, na zasadach i w trybie określonych w przepisach o przedsiębiorstwach państwowych.
 
 **Art. 117.**
 
-1. Organem Zak∏adu jest dyrektor, który zarzàdza Zak∏adem ireprezentuje go na zewnàtrz. przez Prezesa Agencji.
+1. Organem Zakładu jest dyrektor, który zarządza Zakładem ireprezentuje go na zewnątrz. przez Prezesa Agencji.
 
-2. Dyrektora Zak∏adu powo∏uje iodwo∏uje minister w∏aÊciwy do spraw gospodarki.
+2. Dyrektora Zakładu powołuje iodwołuje minister właściwy do spraw gospodarki.
 
-3. Dyrektor mo˝e powo∏ywaç i odwo∏ywaç zast´pców dyrektora oraz pe∏nomocników Zak∏adu, którzy dzia∏ajà samodzielnie wgranicach ich umocowania.
+3. Dyrektor może powoływać i odwoływać zastępców dyrektora oraz pełnomocników Zakładu, którzy działają samodzielnie wgranicach ich umocowania.
 
-4. Udzielenie pe∏nomocnictwa wymaga formy pisemnej pod rygorem niewa˝noÊci.
+4. Udzielenie pełnomocnictwa wymaga formy pisemnej pod rygorem nieważności.
 
-5. Udzielenie iodwo∏anie pe∏nomocnictwa podlega ujawnieniu wrejestrze przedsi´biorstw paƒstwowych, z wy∏àczeniem pe∏nomocnictwa do dokonywania poszczególnych czynnoÊci oraz pe∏nomocnictw procesowych.
+5. Udzielenie iodwołanie pełnomocnictwa podlega ujawnieniu wrejestrze przedsiębiorstw państwowych, z wyłączeniem pełnomocnictwa do dokonywania poszczególnych czynności oraz pełnomocnictw procesowych.
 
-6. WZak∏adzie nie dzia∏ajà organy samorzàdu za∏ogi przedsi´biorstwa.
+6. WZakładzie nie działają organy samorządu załogi przedsiębiorstwa.
 
 **Art. 118.**
 
-1. Zak∏ad wyst´puje w obrocie we w∏asnym imieniu ina w∏asny rachunek.
+1. Zakład występuje w obrocie we własnym imieniu ina własny rachunek.
 
-2. Zak∏ad ztytu∏u wykonywania dzia∏alnoÊci pobiera op∏aty.
+2. Zakład ztytułu wykonywania działalności pobiera opłaty.
 
-3. Do sprzeda˝y przez Zak∏ad Êrodków trwa∏ych lub zorganizowanych cz´Êci mienia i gospodarowania nimi stosuje si´ przepisy obowiàzujàce przedsi´biorstwa paƒstwowe.
+3. Do sprzedaży przez Zakład środków trwałych lub zorganizowanych części mienia i gospodarowania nimi stosuje się przepisy obowiązujące przedsiębiorstwa państwowe.
 
-4. Ârodki trwa∏e nie mogà s∏u˝yç do zaspokojenia zobowiàzaƒ pieni´˝nych Zak∏adu.
+4. Ârodki trwałe nie mogą służyć do zaspokojenia zobowiązań pieniężnych Zakładu.
 
 **Art. 119.**
 
-1. Zak∏ad otrzymuje zbud˝etu paƒstwa dotacj´ podmiotowà na post´powanie z odpadami promieniotwórczymi iwypalonym paliwem jàdrowym.
+1. Zakład otrzymuje zbudżetu państwa dotację podmiotową na postępowanie z odpadami promieniotwórczymi iwypalonym paliwem jądrowym.
 
-2. WysokoÊç dotacji okreÊla ustawa bud˝etowa na wniosek ministra w∏aÊciwego do spraw gospodarki.
+2. Wysokość dotacji określa ustawa budżetowa na wniosek ministra właściwego do spraw gospodarki.
 
-3. Dyrektor Zak∏adu przedstawia ministrowi w∏aÊciwemu do spraw gospodarki rozliczenie z otrzymanej dotacji, zgodnie zprzepisami wydanymi na podstawie art. 120 ust. 2.
+3. Dyrektor Zakładu przedstawia ministrowi właściwemu do spraw gospodarki rozliczenie z otrzymanej dotacji, zgodnie zprzepisami wydanymi na podstawie art. 120 ust. 2.
 
 **Art. 120.**
 
-1. Zak∏ad prowadzi gospodark´ finansowà na zasadach okreÊlonych w przepisach o gospodarce finansowej przedsi´biorstw paƒstwowych, oile przepisy ustawy nie stanowià inaczej.
+1. Zakład prowadzi gospodarkę finansową na zasadach określonych w przepisach o gospodarce finansowej przedsiębiorstw państwowych, oile przepisy ustawy nie stanowią inaczej.
 
-2. Rada Ministrów okreÊli, w drodze rozporzàdzenia, sposób rozliczania dotacji, o której mowa wart.119 ust. 1, wtym rodzaje dokumentów idanych, jakie powinny byç uwzgl´dnione przy rozliczaniu dotacji, sposób ustalania op∏at, októrych mowa wart. 118 ust. 2, uwzgl´dniajàc czynniki, jakie nale˝y braç pod uwag´ przy ustalaniu op∏at, tryb i termin podawania informacji o op∏atach do publicznej wiadomoÊci oraz sposób prowadzenia gospodarki finansowej Zak∏adu, wtym kontroli sprawozdaƒ finansowych iwyboru bieg∏ych do ich badania, oraz organ w∏aÊciwy do zatwierdzania rocznych sprawozdaƒ finansowych Zak∏adu, tryb zbywania sk∏adników majàtkowych, sposób finansowania wynagrodzeƒ iinwestycji, atak˝e tryb podejmowania decyzji wsprawach finansowych.
+2. Rada Ministrów określi, w drodze rozporządzenia, sposób rozliczania dotacji, o której mowa wart.119 ust. 1, wtym rodzaje dokumentów idanych, jakie powinny być uwzględnione przy rozliczaniu dotacji, sposób ustalania opłat, októrych mowa wart. 118 ust. 2, uwzględniając czynniki, jakie należy brać pod uwagę przy ustalaniu opłat, tryb i termin podawania informacji o opłatach do publicznej wiadomości oraz sposób prowadzenia gospodarki finansowej Zakładu, wtym kontroli sprawozdań finansowych iwyboru biegłych do ich badania, oraz organ właściwy do zatwierdzania rocznych sprawozdań finansowych Zakładu, tryb zbywania składników majątkowych, sposób finansowania wynagrodzeń iinwestycji, atakże tryb podejmowania decyzji wsprawach finansowych.
 
 **Art. 121.**
 
-1. Szczegó∏owe zadania, organizacj´, tryb tworzenia jednostek zamiejscowych iich uprawnienia, system kontroli wewn´trznej isposób dzia∏ania Zak∏adu okreÊla statut Zak∏adu, uwzgl´dniajàcy przy ustalaniu zadaƒ dodatkowych koniecznoÊç zapewnienia reutworzony, podzia∏ Zak∏adu na jednostki merytoryczne i jednostki obs∏ugi, zakres spraw, jakie nie mogà byç powierzone jednostkom zamiejscowym.
+1. Szczegółowe zadania, organizację, tryb tworzenia jednostek zamiejscowych iich uprawnienia, system kontroli wewnętrznej isposób działania Zakładu określa statut Zakładu, uwzględniający przy ustalaniu zadań dodatkowych konieczność zapewnienia reutworzony, podział Zakładu na jednostki merytoryczne i jednostki obsługi, zakres spraw, jakie nie mogą być powierzone jednostkom zamiejscowym.
 
-2. Statut mo˝e przewidywaç powo∏anie organów doradczych iopiniodawczych dyrektora Zak∏adu.
+2. Statut może przewidywać powołanie organów doradczych iopiniodawczych dyrektora Zakładu.
 
-3. Statut nadaje Zak∏adowi, w drodze zarzàdzenia, minister w∏aÊciwy do spraw gospodarki.
+3. Statut nadaje Zakładowi, w drodze zarządzenia, minister właściwy do spraw gospodarki.
 
-**Art. 122.** Do Zak∏adu nie stosuje si´ przepisów ustawy zdnia 30 sierpnia 1996 r. okomercjalizacji iprywatyzacji przedsi´biorstw paƒstwowych (Dz. U. 118, poz. 561 iNr 156, poz. 775, z1997 r. 32, poz. 184, 98, poz. 603, 106, poz. 673, 121, poz. 770, 137, poz. 926 i 141, poz. 945, z 1998 r. 106, poz. 668, z1999 r. 40, poz. 400 iNr 101, poz. 1178 oraz z2000r. 15, poz. 180, 26, poz. 306, 31, poz. 383, 60, poz. 703,Nr 84, poz. 948 i 122, poz. 1315). Rozdzia∏ 15 Przepisy karne
+**Art. 122.** Do Zakładu nie stosuje się przepisów ustawy zdnia 30 sierpnia 1996 r. okomercjalizacji iprywatyzacji przedsiębiorstw państwowych (Dz. U. 118, poz. 561 iNr 156, poz. 775, z1997 r. 32, poz. 184, 98, poz. 603, 106, poz. 673, 121, poz. 770, 137, poz. 926 i 141, poz. 945, z 1998 r. 106, poz. 668, z1999 r. 40, poz. 400 iNr 101, poz. 1178 oraz z2000r. 15, poz. 180, 26, poz. 306, 31, poz. 383, 60, poz. 703,Nr 84, poz. 948 i 122, poz. 1315).
+
+#### Rozdział 15 Przepisy karne
 
 **Art. 123.**
 
-1. Kierownikowi jednostki organizacyjnej, alizacji zadaƒ, dla których wykonywania Zak∏ad zosta∏ który:
+1. Kierownikowi jednostki organizacyjnej, alizacji zadań, dla których wykonywania Zakład został który:
 
-- **1)** bez wymaganego zezwolenia lub wbrew jego warunkom podejmuje dzia∏alnoÊç okreÊlonà w art. 4 ust. 1 albo dokonuje przywozu lub wywozu, októrym mowa wart. 62 ust. 1, albo zatrudnia pracowników bez uprawnieƒ, kwalifikacji lub umiej´tnoÊci okreÊlonych wprzepisach ustawy,
-- **2)** b´dàc odpowiedzialnym za bezpieczeƒstwo jàdrowe i ochron´ radiologicznà, dopuszcza do nara˝enia pracownika lub innej osoby z naruszeniem przepisów art. 14 ust. 1 w zwiàzku z art. 25 pkt 1 oraz art. 19 ust. 1 iart. 20 ust. 1—3,
-- **3)** nie dope∏nia obowiàzków w zakresie bezpieczeƒstwa jàdrowego iochrony radiologicznej przy pracy z materia∏ami jàdrowymi, êród∏ami promieniowania jonizujàcego, odpadami promieniotwórczymi i wypalonym paliwem jàdrowym oraz przy ich przygotowaniu do transportu isk∏adowaniu,
-- **4)** utraci∏ lub pozostawi∏ bez w∏aÊciwego zabezpieczenia powierzony mu materia∏ jàdrowy, êród∏o promieniowania jonizujàcego albo odpady promieniotwórcze lub wypalone paliwo jàdrowe,
-- **5)** nie dope∏nia obowiàzku kontroli dozymetrycznej lub prowadzenia ewidencji materia∏ów jàdrowych, êróde∏ promieniowania jonizujàcego, odpadów promieniotwórczych iwypalonego paliwa jàdrowego,
-- **6)** uniemo˝liwia lub utrudnia przeprowadzenie czynnoÊci kontrolnych w zakresie bezpieczeƒstwa jàdrowego i ochrony radiologicznej albo nie udziela informacji lub udziela informacji nieprawdziwej albo zataja prawd´ wzakresie bezpieczeƒstwa jàdrowego iochrony radiologicznej wymierza si´ kar´ pieni´˝nà wwysokoÊci nieprzekraczajàcej pi´ciokrotnoÊci przeci´tnego miesi´cznego wynagrodzenia w gospodarce narodowej w okresie trzech kwarta∏ów roku poprzedzajàcego pope∏nienie czynu, og∏aszanego przez Prezesa G∏ównego Urz´du Statystycznego na podstawie ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, 22, poz. 270, 60, poz. 703, 70, poz. 816, 104, poz. 1104, 117, poz. 1228 i 122, poz. 1324).
+- **1)** bez wymaganego zezwolenia lub wbrew jego warunkom podejmuje działalność określoną w art. 4 ust. 1 albo dokonuje przywozu lub wywozu, októrym mowa wart. 62 ust. 1, albo zatrudnia pracowników bez uprawnień, kwalifikacji lub umiejętności określonych wprzepisach ustawy,
+- **2)** będąc odpowiedzialnym za bezpieczeństwo jądrowe i ochronę radiologiczną, dopuszcza do narażenia pracownika lub innej osoby z naruszeniem przepisów art. 14 ust. 1 w związku z art. 25 pkt 1 oraz art. 19 ust. 1 iart. 20 ust. 1—3,
+- **3)** nie dopełnia obowiązków w zakresie bezpieczeństwa jądrowego iochrony radiologicznej przy pracy z materiałami jądrowymi, êródłami promieniowania jonizującego, odpadami promieniotwórczymi i wypalonym paliwem jądrowym oraz przy ich przygotowaniu do transportu iskładowaniu,
+- **4)** utracił lub pozostawił bez właściwego zabezpieczenia powierzony mu materiał jądrowy, êródło promieniowania jonizującego albo odpady promieniotwórcze lub wypalone paliwo jądrowe,
+- **5)** nie dopełnia obowiązku kontroli dozymetrycznej lub prowadzenia ewidencji materiałów jądrowych, êródeł promieniowania jonizującego, odpadów promieniotwórczych iwypalonego paliwa jądrowego,
+- **6)** uniemożliwia lub utrudnia przeprowadzenie czynności kontrolnych w zakresie bezpieczeństwa jądrowego i ochrony radiologicznej albo nie udziela informacji lub udziela informacji nieprawdziwej albo zataja prawdę wzakresie bezpieczeństwa jądrowego iochrony radiologicznej wymierza się karę pieniężną wwysokości nieprzekraczającej pięciokrotności przeciętnego miesięcznego wynagrodzenia w gospodarce narodowej w okresie trzech kwartałów roku poprzedzającego popełnienie czynu, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego na podstawie ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, 22, poz. 270, 60, poz. 703, 70, poz. 816, 104, poz. 1104, 117, poz. 1228 i 122, poz. 1324).
 
-2. Pracownikowi zatrudnionemu w obiekcie jàdrowym, który nie zawiadamia prze∏o˝onego lub organu dozoru jàdrowego o zdarzeniu lub stanie mogàcym sprowadziç zagro˝enie dla bezpieczeƒstwa jàdrowego i ochrony radiologicznej, wymierza si´ kar´ pieni´˝nà wwysokoÊci nieprzekraczajàcej dwukrotnoÊci przeci´tnego miesi´cznego wynagrodzenia, o którym mowa wust. 1.
+2. Pracownikowi zatrudnionemu w obiekcie jądrowym, który nie zawiadamia przełożonego lub organu dozoru jądrowego o zdarzeniu lub stanie mogącym sprowadzić zagrożenie dla bezpieczeństwa jądrowego i ochrony radiologicznej, wymierza się karę pieniężną wwysokości nieprzekraczającej dwukrotności przeciętnego miesięcznego wynagrodzenia, o którym mowa wust. 1.
 
 **Art. 124.**
 
-1. Kary pieni´˝ne, o których mowa wart.123, nak∏ada, wformie decyzji administracyjnej:
+1. Kary pieniężne, o których mowa wart.123, nakłada, wformie decyzji administracyjnej:
 
-- **1)** G∏ówny Inspektor Dozoru Jàdrowego je˝eli organem w∏aÊciwym do wydania zezwolenia albo przyj´cia zg∏oszenia jest Prezes Agencji,
-- **2)** wojewódzki inspektor sanitarny lub wojskowy inspektor sanitarny je˝eli organy te sà w∏aÊciwe do wydania zezwolenia.
+- **1)** Główny Inspektor Dozoru Jądrowego jeżeli organem właściwym do wydania zezwolenia albo przyjęcia zgłoszenia jest Prezes Agencji,
+- **2)** wojewódzki inspektor sanitarny lub wojskowy inspektor sanitarny jeżeli organy te są właściwe do wydania zezwolenia.
 
-2. Decyzji, októrej mowa wust. 1, nadaje si´ rygor natychmiastowej wykonalnoÊci.
+2. Decyzji, októrej mowa wust. 1, nadaje się rygor natychmiastowej wykonalności.
 
 **Art. 125.**
 
-1. Nie mo˝na na∏o˝yç kary pieni´˝nej, je˝eli od dnia pope∏nienia czynu up∏yn´∏o 5 lat.
+1. Nie można nałożyć kary pieniężnej, jeżeli od dnia popełnienia czynu upłynęło 5 lat.
 
-2. Kary pieni´˝nej nie pobiera si´ po up∏ywie 5 lat od dnia wydania ostatecznej decyzji ona∏o˝eniu kary.
+2. Kary pieniężnej nie pobiera się po upływie 5 lat od dnia wydania ostatecznej decyzji onałożeniu kary.
 
 **Art. 126.**
 
-1. Kary, októrych mowa wart. 123, podlegajà, wraz z odsetkami za zw∏ok´, egzekucji w trybie okreÊlonym w przepisach o post´powaniu egzekucyjnym wadministracji.
+1. Kary, októrych mowa wart. 123, podlegają, wraz z odsetkami za zwłokę, egzekucji w trybie określonym w przepisach o postępowaniu egzekucyjnym wadministracji.
 
-2. Ârodki uzyskane ztytu∏u kar pieni´˝nych sà przychodami bud˝etu paƒstwa.
+2. Ârodki uzyskane ztytułu kar pieniężnych są przychodami budżetu państwa.
 
-**Art. 127.** Kto nie stosuje si´ do:
+**Art. 127.** Kto nie stosuje się do:
 
-**Art. 128.** Wyodr´bnione pod wzgl´dem prawnym iorganizacyjnym zmienia jednostki badawczo-rozwojowej Instytut Energii Atomowej zsiedzibà wOtwocku-Âwierku mienie Zak∏adu DoÊwiadczalnego Unieszkodliwiania Odpadów Promieniotwórczych staje si´ mieniem Zak∏adu, októrym mowa wart. 114 ust. 1.
+#### Rozdział 16 Przepisy przejściowe, dostosowujące ikońcowe
 
-**Art. 129.** Minister w∏aÊciwy do spraw gospodarki, w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych, mo˝e wyposa˝yç Zak∏ad w mienie inne ni˝ okreÊlone wart. 128.
+**Art. 128.** Wyodrębnione pod względem prawnym iorganizacyjnym zmienia jednostki badawczo-rozwojowej Instytut Energii Atomowej zsiedzibą wOtwocku-Âwierku mienie Zakładu Doświadczalnego Unieszkodliwiania Odpadów Promieniotwórczych staje się mieniem Zakładu, októrym mowa wart. 114 ust. 1.
 
-**Art. 130.** Do czasu powo∏ania dyrektora Zak∏adu minister w∏aÊciwy do spraw gospodarki powo∏uje do kierowania Zak∏adem, na czas nie d∏u˝szy ni˝ 6 miesi´Art. 131. Pracownicy zatrudnieni w Zak∏adzie DoÊwiadczalnym Unieszkodliwiania Odpadów Promieniotwórczych Instytutu Energii Atomowej stajà si´ pracownikami Zak∏adu zgodnie zart. 23 cy, tymczasowego kierownika Zak∏adu. Kodeksu pracy.
+**Art. 129.** Minister właściwy do spraw gospodarki, w porozumieniu z ministrem właściwym do spraw finansów publicznych, może wyposażyć Zakład w mienie inne niż określone wart. 128.
 
-**Art. 132.** Minister Obrony Narodowej w odniesieniu do podleg∏ych mu jednostek organizacyjnych iminister w∏aÊciwy do spraw wewn´trznych w odniesieniu do Policji, Paƒstwowej Stra˝y Po˝arnej, Stra˝y Granicznej ipodleg∏ych mu jednostek organizacyjnych, po zasi´gni´ciu opinii Prezesa Agencji, okreÊlajà, w drodze zarzàdzenia, sposób wykonywania przepisów ustawy wtych jednostkach.
+**Art. 130.** Do czasu powołania dyrektora Zakładu minister właściwy do spraw gospodarki powołuje do kierowania Zakładem, na czas nie dłuższy niż 6 miesięArt. 131. Pracownicy zatrudnieni w Zakładzie Doświadczalnym Unieszkodliwiania Odpadów Promieniotwórczych Instytutu Energii Atomowej stają się pracownikami Zakładu zgodnie zart. 23 cy, tymczasowego kierownika Zakładu. Kodeksu pracy.
+
+**Art. 132.** Minister Obrony Narodowej w odniesieniu do podległych mu jednostek organizacyjnych iminister właściwy do spraw wewnętrznych w odniesieniu do Policji, Państwowej Straży Pożarnej, Straży Granicznej ipodległych mu jednostek organizacyjnych, po zasięgnięciu opinii Prezesa Agencji, określają, w drodze zarządzenia, sposób wykonywania przepisów ustawy wtych jednostkach.
 
 **Art. 133.**
 
-1. G∏ówny Inspektor Dozoru Jàdrowego iinspektorzy dozoru jàdrowego, którzy zostali powo∏ani lub uzyskali uprawnienia przed dniem wejÊcia w˝ycie ustawy, stajà si´ odpowiednio G∏ównym Inspektorem Dozoru Jàdrowego i inspektorami dozoru jàdrowego wrozumieniu ustawy.
+1. Główny Inspektor Dozoru Jądrowego iinspektorzy dozoru jądrowego, którzy zostali powołani lub uzyskali uprawnienia przed dniem wejścia wżycie ustawy, stają się odpowiednio Głównym Inspektorem Dozoru Jądrowego i inspektorami dozoru jądrowego wrozumieniu ustawy.
 
-2. Zezwolenia wydane na podstawie ustawy, októrej mowa w art. 138, zachowujà wa˝noÊç do up∏ywu terminu okreÊlonego wzezwoleniu.
+2. Zezwolenia wydane na podstawie ustawy, októrej mowa w art. 138, zachowują ważność do upływu terminu określonego wzezwoleniu.
 
-3. Uprawnienia uzyskane na podstawie art. 33 ust.3 pkt 1 oraz ust. 4 ustawy, októrej mowa wart. 138, zachowujà wa˝noÊç do up∏ywu terminu okreÊlonego wuprawnieniu.
+3. Uprawnienia uzyskane na podstawie art. 33 ust.3 pkt 1 oraz ust. 4 ustawy, októrej mowa wart. 138, zachowują ważność do upływu terminu określonego wuprawnieniu.
 
-4. Zezwolenia zwiàzane z nabywaniem i stosowaniem substancji promieniotwórczych, wydane na podstawie przepisów obowiàzujàcych przed dniem wejÊcia w˝ycie ustawy, októrej mowa wart. 138, wszczególnoÊci na podstawie przepisów:
+4. Zezwolenia związane z nabywaniem i stosowaniem substancji promieniotwórczych, wydane na podstawie przepisów obowiązujących przed dniem wejścia wżycie ustawy, októrej mowa wart. 138, wszczególności na podstawie przepisów:
 
-- **1)** rozporzàdzenia Rady Ministrów z dnia czerwca 1968 r. w sprawie bezpieczeƒstwa i higieny pracy przy stosowaniu promieniowania jonizujàcego (Dz. U. 20, poz. 122),
-- **2)** uchwa∏y nr 266/64 Rady Ministrów zdnia 29 sierpnia 1964 r. w sprawie u˝ytkowania substancji promieniotwórczych,
-- **3)** zarzàdzenia nr 23/70 Pe∏nomocnika Rzàdu do Spraw Wykorzystania Energii Jàdrowej z dnia 21lipca 1970 r. wsprawie nabywania istosowania substancji promieniotwórczych zachowujà wa˝noÊç do czasu zastàpienia ich zezwoleniami wydanymi na podstawie ustawy, jednak nie d∏u˝ej ni˝ przez 24 miesiàce od dnia jej wejÊcia w˝ycie.
+- **1)** rozporządzenia Rady Ministrów z dnia czerwca 1968 r. w sprawie bezpieczeństwa i higieny pracy przy stosowaniu promieniowania jonizującego (Dz. U. 20, poz. 122),
+- **2)** uchwały nr 266/64 Rady Ministrów zdnia 29 sierpnia 1964 r. w sprawie użytkowania substancji promieniotwórczych,
+- **3)** zarządzenia nr 23/70 Pełnomocnika Rządu do Spraw Wykorzystania Energii Jądrowej z dnia 21lipca 1970 r. wsprawie nabywania istosowania substancji promieniotwórczych zachowują ważność do czasu zastąpienia ich zezwoleniami wydanymi na podstawie ustawy, jednak nie dłużej niż przez 24 miesiące od dnia jej wejścia wżycie.
 
-5. Krajowe Sk∏adowisko Odpadów Promieniotwórczych wRó˝anie, okreÊlone wprzepisach wydanych na podstawie ustawy, októrej mowa wart. 138, uznaje si´ za Krajowe Sk∏adowisko Odpadów Promieniotwórczych wrozumieniu ustawy.
+5. Krajowe Składowisko Odpadów Promieniotwórczych wRóżanie, określone wprzepisach wydanych na podstawie ustawy, októrej mowa wart. 138, uznaje się za Krajowe Składowisko Odpadów Promieniotwórczych wrozumieniu ustawy.
 
-6. Post´powania wszcz´te przed dniem wejÊcia w ˝ycie ustawy toczà si´ do chwili ich zakoƒczenia zgodnie zprzepisami dotychczasowymi.
+6. Postępowania wszczęte przed dniem wejścia w życie ustawy toczą się do chwili ich zakończenia zgodnie zprzepisami dotychczasowymi.
 
-**Art. 134.** W rozporzàdzeniu Prezydenta Rzeczypospolitej zdnia 24 paêdziernika 1934 r. Prawo upad∏oÊciowe (Dz. U. z1991 r. 118, poz. 512, z1994 r. 1, poz. 1, z1995 r. 85, poz. 426, z1996 r. 6, poz. 43, 43, poz. 189, 106, poz. 496 i 149, poz. 703, z 1997 r. 28, poz. 153, 54, poz. 349, 117, poz. 751, 121, poz. 770 i 140, poz. 940, z 1998 r. 117, poz. 756 oraz z 2000 r. 26, poz. 306, 84, poz. 948, 94, poz. 1037 i 114, poz. 1193) w art. w § 2 po wyrazach „Porty Lotnicze” wyraz „oraz” zast´puje si´ przecinkiem, a po wyrazach „Poczta Polska” dodaje si´ wyrazy „oraz paƒstwowego przedsi´biorstwa u˝ytecznoÊci publicznej «Zak∏ad Unieszkodliwiania Odpadów Promieniotwórczych»”.
+**Art. 134.** W rozporządzeniu Prezydenta Rzeczypospolitej zdnia 24 paêdziernika 1934 r. Prawo upadłościowe (Dz. U. z1991 r. 118, poz. 512, z1994 r. 1, poz. 1, z1995 r. 85, poz. 426, z1996 r. 6, poz. 43, 43, poz. 189, 106, poz. 496 i 149, poz. 703, z 1997 r. 28, poz. 153, 54, poz. 349, 117, poz. 751, 121, poz. 770 i 140, poz. 940, z 1998 r. 117, poz. 756 oraz z 2000 r. 26, poz. 306, 84, poz. 948, 94, poz. 1037 i 114, poz. 1193) w art. w § 2 po wyrazach ŃPorty Lotnicze” wyraz Ńoraz” zastępuje się przecinkiem, a po wyrazach ŃPoczta Polska” dodaje się wyrazy Ńoraz państwowego przedsiębiorstwa użyteczności publicznej «Zakład Unieszkodliwiania Odpadów Promieniotwórczych»”.
 
-**Art. 135.** W ustawie z dnia 25 wrzeÊnia 1981 r. o przedsi´biorstwach paƒstwowych (Dz. U. z 1991 r. Nr18, poz. 80, 75, poz. 329, 101, poz. 444 iNr 107, poz. 464, z 1993 r. 18, poz. 82 i 60, poz. 280, z1994r. 1, poz. 3, 80, poz. 368 iNr 113, poz. 547, z1995 r. 1, poz. 2, 95, poz. 474 iNr 154, poz. 791, z 1996 r. 90, poz. 405, 106, poz. 496, 118, poz. 561 i 156, poz. 775, z 1997 r. 43, poz. 272, 106, poz. 675, 121, poz. 769 i 770 i 123, poz. 777 oraz z2000 r. 26, poz. 306 i 84, poz. 948) wart. 4 wust. 2 dodaje si´ pkt wbrzmieniu: „3) paƒstwowego przedsi´biorstwa u˝ytecznoÊci publicznej «Zak∏ad Unieszkodliwiania Odpadów Propoz. 852, 109, poz. 1158 i 122, poz. 1314 i 1321) wprowadza si´ nast´pujàce zmiany:
+**Art. 135.** W ustawie z dnia 25 września 1981 r. o przedsiębiorstwach państwowych (Dz. U. z 1991 r. Nr18, poz. 80, 75, poz. 329, 101, poz. 444 iNr 107, poz. 464, z 1993 r. 18, poz. 82 i 60, poz. 280, z1994r. 1, poz. 3, 80, poz. 368 iNr 113, poz. 547, z1995 r. 1, poz. 2, 95, poz. 474 iNr 154, poz. 791, z 1996 r. 90, poz. 405, 106, poz. 496, 118, poz. 561 i 156, poz. 775, z 1997 r. 43, poz. 272, 106, poz. 675, 121, poz. 769 i 770 i 123, poz. 777 oraz z2000 r. 26, poz. 306 i 84, poz. 948) wart. 4 wust. 2 dodaje się pkt wbrzmieniu: Ń3) państwowego przedsiębiorstwa użyteczności publicznej «Zakład Unieszkodliwiania Odpadów Propoz. 852, 109, poz. 1158 i 122, poz. 1314 i 1321) wprowadza się następujące zmiany:
 
-**Art. 137.** Przepisy wykonawcze wydane na podstawie przepisów ustawy, o której mowa w art. 138, zachowujà moc do czasu wejÊcia w ˝ycie aktów wykonawczych wydanych na podstawie upowa˝nieƒ ustawowych w brzmieniu nadanym ustawà, w zakresie, w jakim nie sà z nià sprzeczne, jednak nie d∏u˝ej ni˝ przez 12 miesi´cy od dnia jej wejÊcia w˝ycie.
+**Art. 137.** Przepisy wykonawcze wydane na podstawie przepisów ustawy, o której mowa w art. 138, zachowują moc do czasu wejścia w życie aktów wykonawczych wydanych na podstawie upoważnień ustawowych w brzmieniu nadanym ustawą, w zakresie, w jakim nie są z nią sprzeczne, jednak nie dłużej niż przez 12 miesięcy od dnia jej wejścia wżycie.
 
 **Art. 138.** Traci moc ustawa zdnia 10 kwietnia 1986r. Prawo atomowe (Dz. U. 12, poz. 70, z 1987 r. 33, poz. 180, z 1991 r. 8, poz. 28, z 1994 r. 90, poz. 418, z1995 r. 104, poz. 515 oraz z1996 r. 24, poz. 110 iNr 106, poz. 496).
 
-**Art. 139.** Ustawa wchodzi w ˝ycie z dniem 1 stycznia 2002 r., zwyjàtkiem:
+**Art. 139.** Ustawa wchodzi w życie z dniem 1 stycznia 2002 r., zwyjątkiem:
 
-**Art. 136.** Wustawie zdnia 4 wrzeÊnia 1997 r. odzia- 2) art. 21 ust. 2 iart. 27 ust. 2, które wchodzà w˝ycie ∏ach administracji rzàdowej (Dz. U. z 1999 r. 82, po up∏ywie 24 miesi´cy od dnia og∏oszenia. poz.928 oraz z2000 r. 12, poz. 136, 43, poz. 489, 48, poz. 550, 62, poz. 718, 70, poz. 816,Nr 73, Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 19 USTAWA zdnia 29 listopada 2000 r. oorganizacji rynków owoców iwarzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego. Rozdzia∏ 1 Przepisy ogólne
+**Art. 136.** Wustawie zdnia 4 września 1997 r. odzia- 2) art. 21 ust. 2 iart. 27 ust. 2, które wchodzą wżycie łach administracji rządowej (Dz. U. z 1999 r. 82, po upływie 24 miesięcy od dnia ogłoszenia. poz.928 oraz z2000 r. 12, poz. 136, 43, poz. 489, 48, poz. 550, 62, poz. 718, 70, poz. 816,Nr 73, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 19 USTAWA zdnia 29 listopada 2000 r. oorganizacji rynków owoców iwarzyw, rynku chmielu, rynku tytoniu oraz rynku suszu paszowego.
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa reguluje organizacj´ rynków:
+1. Ustawa reguluje organizację rynków:
 
-- **1)** owoców iwarzyw, wymienionych wza∏àczniku nr 1 do ustawy,
+- **1)** owoców iwarzyw, wymienionych wzałączniku nr 1 do ustawy,
 - **2)** chmielu,
 - **3)** tytoniu,
 - **4)** suszu paszowego.
 
-2. Do organizacji rynków, októrych mowa wust. 1, nie stosuje si´ przepisów o przeciwdzia∏aniu praktykom monopolistycznym i ochronie interesów konsumentów.
+2. Do organizacji rynków, októrych mowa wust. 1, nie stosuje się przepisów o przeciwdziałaniu praktykom monopolistycznym i ochronie interesów konsumentów.
 
-**Art. 2.** U˝yte wustawie okreÊlenia oznaczajà:
+**Art. 2.** Użyte wustawie określenia oznaczają:
 

@@ -24,58 +24,59 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011011088) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1088/text.pdf) |
 
-USTAWA zdnia 19 lipca outworzeniu Akademii Techniczno-Humanistycznej wBielsku-Bia∏ej.
+USTAWA zdnia 19 lipca outworzeniu Akademii Techniczno-Humanistycznej wBielsku-Białej.
+1) sposób, tryb i zakres przeprowadzania przez organy Służby Geodezyjnej i Kartograficznej kontroli w zakresie przestrzegania przepisów dotyczących geodezji ikartografii,
+2) podział zadań kontrolnych między poszczególne organy Służby Geodezyjnej iKartograficznej oraz ich obowiązki i uprawnienia podczas wykonywania kontroli,
+3) obowiązki i uprawnienia podmiotów kontrolowanych.
+§ 2. Ilekroć wrozporządzeniu jest mowa oustawie, urzędów, instytucji publicznych i przedsiębiorców należy przez to rozumieć ustawę zdnia 17 maja 1989 Prawo geodezyjne ikartograficzne.
+1090
 
 **Art. 1.**
 
-1. Tworzy si´ zdniem 1 paêdziernika Akademi´ Techniczno-Humanistycznà w Bielsku-Bia∏ej, zwanà dalej „Akademià”.
+1. Tworzy się zdniem 1 paêdziernika Akademię Techniczno-Humanistyczną w Bielsku-Białej, zwaną dalej ŃAkademią”.
 
-2. Siedzibà Akademii jest miasto Bielsko-Bia∏a.
+2. Siedzibą Akademii jest miasto Bielsko-Biała.
 
-3. Akademia jest uczelnià paƒstwowà.
+3. Akademia jest uczelnią państwową.
 
-**Art. 2.** Podstawowym kierunkiem dzia∏alnoÊci Akademii jest kszta∏cenie oraz prowadzenie badaƒ naukowych w zakresie nauk humanistycznych, ekonomicznych itechnicznych.
+**Art. 2.** Podstawowym kierunkiem działalności Akademii jest kształcenie oraz prowadzenie badań naukowych w zakresie nauk humanistycznych, ekonomicznych itechnicznych.
 
-**Art. 3.** Nadzór nad Akademià sprawuje minister w∏aÊciwy do spraw szkolnictwa wy˝szego.
+**Art. 3.** Nadzór nad Akademią sprawuje minister właściwy do spraw szkolnictwa wyższego.
 
 **Art. 4.**
 
-1. Akademi´ tworzy si´ z Filii Politechniki ¸ódzkiej w¸odzi.
+1. Akademię tworzy się z Filii Politechniki Ęódzkiej wĘodzi.
 
-2. Zdniem utworzenia Akademii znosi si´ Fili´ Politechniki ¸ódzkiej wBielsku-Bia∏ej.
+2. Zdniem utworzenia Akademii znosi się Filię Politechniki Ęódzkiej wBielsku-Białej.
 
 **Art. 5.**
 
-1. Mienie Politechniki ¸ódzkiej, obejmujàce w∏asnoÊç iinne prawa majàtkowe b´dàce wzarzàdzie Filii Politechniki ¸ódzkiej wBielsku-Bia∏ej,staje si´ mie2. Akademia, zdniem utworzenia, przyjmuje prawa izobowiàzania Politechniki ¸ódzkiej dotyczàce Filii Politechniki ¸ódzkiej wBielsku-Bia∏ej.
+1. Mienie Politechniki Ęódzkiej, obejmujące własność iinne prawa majątkowe będące wzarządzie Filii Politechniki Ęódzkiej wBielsku-Białej,staje się mie2. Akademia, zdniem utworzenia, przyjmuje prawa izobowiązania Politechniki Ęódzkiej dotyczące Filii Politechniki Ęódzkiej wBielsku-Białej.
 
-3. Stan gospodarki finansowej jednostki wymienionej wart. 4 ust. 1 zostanie wykazany wbilansie sporzàdzonym przez t´ jednostk´ na dzieƒ poprzedzajàcy utworzenie Akademii.
+3. Stan gospodarki finansowej jednostki wymienionej wart. 4 ust. 1 zostanie wykazany wbilansie sporządzonym przez tę jednostkę na dzień poprzedzający utworzenie Akademii.
 
 **Art. 6.**
 
 1. Zdniem 1 paêdziernika r.:
 
-- **1)** pracownicy Politechniki ¸ódzkiej zatrudnieni wFilii wBielsku-Bia∏ej stajà si´ pracownikami Akademii,
-- **2)** studenci Politechniki ¸ódzkiej studiujàcy w Filii wBielsku-Bia∏ej stajà si´ studentami Akademii.
+- **1)** pracownicy Politechniki Ęódzkiej zatrudnieni wFilii wBielsku-Białej stają się pracownikami Akademii,
+- **2)** studenci Politechniki Ęódzkiej studiujący w Filii wBielsku-Białej stają się studentami Akademii.
 
-2. Osoby przyj´te na pierwszy rok studiów na rok akademicki 2001/2002 do Filii Politechniki ¸ódzkiej wBielsku-Bia∏ej zdniem utworzenia Akademii stajà si´ jej studentami.
+2. Osoby przyjęte na pierwszy rok studiów na rok akademicki 2001/2002 do Filii Politechniki Ęódzkiej wBielsku-Białej zdniem utworzenia Akademii stają się jej studentami.
 
-3. Podstawowe jednostki organizacyjne Filii Politechniki ¸ódzkiej w Bielsku-Bia∏ej stajà si´ podstawowymi jednostkami organizacyjnymi Akademii. niem Akademii.
+3. Podstawowe jednostki organizacyjne Filii Politechniki Ęódzkiej w Bielsku-Białej stają się podstawowymi jednostkami organizacyjnymi Akademii. niem Akademii.
 
-4. Jednostki organizacyjne Filii Politechniki ¸ódzkiej wBielsku-Bia∏ej, które przed dniem utworzenia Akademii Na podstawie art. 9 ustawy z dnia 17 maja 1989 Prawo geodezyjne i kartograficzne (Dz. U. z 2000 100, poz. 1086 i 120, poz. 1268) zarzàdza si´, co nast´puje: Rozdzia∏ 1 Przepisy ogólne § 1. Rozporzàdzenie okreÊla:
+4. Jednostki organizacyjne Filii Politechniki Ęódzkiej wBielsku-Białej, które przed dniem utworzenia Akademii Na podstawie art. 9 ustawy z dnia 17 maja 1989 Prawo geodezyjne i kartograficzne (Dz. U. z 2000 100, poz. 1086 i 120, poz. 1268) zarządza się, co następuje:
 
-- **1)** sposób, tryb i zakres przeprowadzania przez organy S∏u˝by Geodezyjnej i Kartograficznej kontroli w zakresie przestrzegania przepisów dotyczàcych geodezji ikartografii,
-- **2)** podzia∏ zadaƒ kontrolnych mi´dzy poszczególne organy S∏u˝by Geodezyjnej iKartograficznej oraz ich obowiàzki i uprawnienia podczas wykonywania kontroli,
-- **3)** obowiàzki i uprawnienia podmiotów kontrolowanych.
-
-§ 2. Ilekroç wrozporzàdzeniu jest mowa oustawie, urz´dów, instytucji publicznych i przedsi´biorców nale˝y przez to rozumieç ustaw´ zdnia 17 maja 1989 Prawo geodezyjne ikartograficzne. 1090
+#### Rozdział 1 Przepisy ogólne § 1. Rozporządzenie określa:
 
 **Art. 7.**
 
-1. Dotychczasowe organy kolegialne ijedno- kanów i rad wydzia∏ów w trybie i na okres ustalony osobowe Filii Politechniki ¸ódzkiej wBielsku-Bia∏ej sta- wstatucie Akademii. jà si´ zdniem 1 paêdziernika organami Akademii. Art. 8. Ustawa wchodzi w ˝ycie po up∏ywie 14 dni
+1. Dotychczasowe organy kolegialne ijedno- kanów i rad wydziałów w trybie i na okres ustalony osobowe Filii Politechniki Ęódzkiej wBielsku-Białej sta- wstatucie Akademii. ją się zdniem 1 paêdziernika organami Akademii. Art. 8. Ustawa wchodzi w życie po upływie 14 dni
 
-2. Cz∏onkowie Senatu Politechniki ¸ódzkiej repre- od dnia og∏oszenia. zentujàcy Fili´ Politechniki ¸ódzkiej w Bielsku-Bia∏ej pe∏nià funkcj´ Senatu Akademii do dnia grudnia Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski ROZPORZÑDZENIE RADY MINISTRÓW zdnia 28 sierpnia wsprawie kontroli urz´dów, instytucji publicznych iprzedsi´biorców wzakresie przestrzegania przepisów dotyczàcych geodezji ikartografii. 1089 USTAWA zdnia 23 sierpnia ozmianie ustawy ozawodzie lekarza weterynarii iizbach lekarsko-weterynaryjnych.
+2. Członkowie Senatu Politechniki Ęódzkiej repre- od dnia ogłoszenia. zentujący Filię Politechniki Ęódzkiej w Bielsku-Białej pełnią funkcję Senatu Akademii do dnia grudnia Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ROZPORZÑDZENIE RADY MINISTRÓW zdnia 28 sierpnia wsprawie kontroli urzędów, instytucji publicznych iprzedsiębiorców wzakresie przestrzegania przepisów dotyczących geodezji ikartografii. 1089 USTAWA zdnia 23 sierpnia ozmianie ustawy ozawodzie lekarza weterynarii iizbach lekarsko-weterynaryjnych.
 
-**Art. 1.** Wustawie zdnia 21 grudnia 1990 ozawo- by nieposiadajàce tytu∏u lekarza weterynarii,oraz dzie lekarza weterynarii i izbach lekarsko-weterynaryj- okreÊli kwalifikacje tych osób, uwzgl´dniajàc konych (Dz. U. z 1991 8, poz. 27, z 1995 120, niecznoÊç sprawowania nadzoru przez lekarza wepoz. 576, z 1997 60, poz. 369, z 1998 106, terynarii przy wykonywaniu niektórych czynnopoz.668 oraz z2000 114, poz. 1189) wart. 68 ust.1 Êci.” otrzymuje brzmienie:
+**Art. 1.** Wustawie zdnia 21 grudnia 1990 ozawo- by nieposiadające tytułu lekarza weterynarii,oraz dzie lekarza weterynarii i izbach lekarsko-weterynaryj- określi kwalifikacje tych osób, uwzględniając konych (Dz. U. z 1991 8, poz. 27, z 1995 120, nieczność sprawowania nadzoru przez lekarza wepoz. 576, z 1997 60, poz. 369, z 1998 106, terynarii przy wykonywaniu niektórych czynnopoz.668 oraz z2000 114, poz. 1189) wart. 68 ust.1 ści.” otrzymuje brzmienie:
 
-**Art. 2.** Ustawa wchodzi w ˝ycie po up∏ywie 14 dni „1. Minister w∏aÊciwy do spraw rolnictwa okreÊli, od dnia og∏oszenia. w drodze rozporzàdzenia, jakie czynnoÊci z zakresu zadaƒ lekarza weterynarii, o których mowa wart. 1 ust. 1, mogà byç wykonywane przez oso- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni Ń1. Minister właściwy do spraw rolnictwa określi, od dnia ogłoszenia. w drodze rozporządzenia, jakie czynności z zakresu zadań lekarza weterynarii, o których mowa wart. 1 ust. 1, mogą być wykonywane przez oso- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

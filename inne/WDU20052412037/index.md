@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Trybuna∏ Konstytucyjny w sk∏adzie: Ewa ¸´towska przewodniczàcy, Biruta Lewaszkiewicz-Petrykowska, Jerzy St´pieƒ, Miros∏aw Wyrzykowski sprawozdawca, Bohdan Zdziennicki, po rozpoznaniu, z udzia∏em Sejmu i Prokuratora Generalnego, na rozprawie w dniu 29 listopada 2005 r., pytania prawnego Wojewódzkiego Sàdu Adorzeka:
+# Trybunał Konstytucyjny w składzie: Ewa Ęętowska przewodniczący, Biruta Lewaszkiewicz-Petrykowska, Jerzy Stępień, Mirosław Wyrzykowski sprawozdawca, Bohdan Zdziennicki, po rozpoznaniu, z udziałem Sejmu i Prokuratora Generalnego, na rozprawie w dniu 29 listopada 2005 r., pytania prawnego Wojewódzkiego Sądu Adorzeka:
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +24,12 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20052412037) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/2037/text.pdf) |
 
-Art. 160 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych (Dz. U. Nr 98, poz. 1070 i Nr 154, poz. 1787, z 2002 r. Nr 153, poz.1271, Nr 213, poz. 1802 iNr 240, poz. 2052, z2003 r.
-Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 iNr 273, poz. 2702 i 2703 oraz z 2005 r. Nr 13, poz. 98 i Nr 169, poz. 1413) w zakresie, w jakim upowa˝nia rady gmin do wy∏àcznego wyboru ∏awników, jest zgodny z art. 10, art. 173 oraz art. 186 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
+Art. 160 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070 i Nr 154, poz. 1787, z 2002 r. Nr 153, poz.1271, Nr 213, poz. 1802 iNr 240, poz. 2052, z2003 r.
+Nr 188, poz. 1838 i Nr 228, poz. 2256, z 2004 r. Nr 34, poz. 304, Nr 130, poz. 1376, Nr 185, poz. 1907 iNr 273, poz. 2702 i 2703 oraz z 2005 r. Nr 13, poz. 98 i Nr 169, poz. 1413) w zakresie, w jakim upoważnia rady gmin do wyłącznego wyboru ławników, jest zgodny z art. 10, art. 173 oraz art. 186 ust. 1 Konstytucji Rzeczypospolitej Polskiej.
 ministracyjnego w Warszawie o zbadanie czy:
-1) art. 160 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych (Dz. U. Nr 98, poz. 1070, ze zm.) w zakresie, w jakim upowa˝nia rady gmin do wy∏àcznego wyboru ∏awników, jest zgodny zart. 10, art. 173 iart. 186 ust. 1 Konstytucji,
-2) art. 161, art. 162, art. 163 § 2 i art. 164 § 1 ustawy powo∏anej w pkt 1 w zakresie, w jakim okreÊlajà kompetencje rad gmin do wy∏àcznego wyboru ∏awników, jest zgodny z art. 10, art. 173 i art. 186 ust. 1 Konstytucji, ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 wzwiàzku zart. 39 ust. 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r.
-Nr 48, poz. 552 i Nr 53, poz. 638 oraz z 2001 r. Nr 98, poz. 1070) umorzyç post´powanie w pozosta∏ym zakresie ze wzgl´du na niedopuszczalnoÊç wydania orzeczenia.
-Ewa ¸´towska Biruta Lewaszkiewicz-Petrykowska Jerzy St´pieƒ Miros∏aw Wyrzykowski Bohdan Zdziennicki 2037 WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 29 listopada 2005 r.
-sygn. akt P 16/04 ISSN 0867-3411 Cena 4,30 z∏
+1) art. 160 ustawy z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. Nr 98, poz. 1070, ze zm.) w zakresie, w jakim upoważnia rady gmin do wyłącznego wyboru ławników, jest zgodny zart. 10, art. 173 iart. 186 ust. 1 Konstytucji,
+2) art. 161, art. 162, art. 163 § 2 i art. 164 § 1 ustawy powołanej w pkt 1 w zakresie, w jakim określają kompetencje rad gmin do wyłącznego wyboru ławników, jest zgodny z art. 10, art. 173 i art. 186 ust. 1 Konstytucji, ponadto postanawia: na podstawie art. 39 ust. 1 pkt 1 wzwiązku zart. 39 ust. 2 ustawy z dnia 1 sierpnia 1997 r. o Trybunale Konstytucyjnym (Dz. U. Nr 102, poz. 643, z 2000 r.
+Nr 48, poz. 552 i Nr 53, poz. 638 oraz z 2001 r. Nr 98, poz. 1070) umorzyć postępowanie w pozostałym zakresie ze względu na niedopuszczalność wydania orzeczenia.
+Ewa Ęętowska Biruta Lewaszkiewicz-Petrykowska Jerzy Stępień Mirosław Wyrzykowski Bohdan Zdziennicki 2037 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 29 listopada 2005 r.
+sygn. akt P 16/04 ISSN 0867-3411 Cena 4,30 zł
 

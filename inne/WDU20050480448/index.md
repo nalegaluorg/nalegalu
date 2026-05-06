@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# cyjna wygasa zup∏ywem 12 miesi´cy od dnia wejÊcia nia warunków okreÊlonych wart. 28 ustawy wymieniow˝ycie niniejszej ustawy, azak∏ad ubezpieczeƒ sk∏ada nej wart. 1 lub osoby fizyczne, októrych wust.
+# cyjna wygasa zupływem 12 miesięcy od dnia wejścia nia warunków określonych wart. 28 ustawy wymieniowżycie niniejszej ustawy, azakład ubezpieczeń składa nej wart. 1 lub osoby fizyczne, októrych wust.
 
 | Pole | Wartość |
 |---|---|
@@ -24,53 +24,53 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050480448) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/448/text.pdf) |
 
-wniosek, o którym art. 42 ustawy wymienio- 1, nie spe∏niajà wymogów okreÊlonych wart.28 3 nej art. 1. pkt 1 lit. a—eustawy wymienionej wart. 1.
-9. Agenci ubezpieczeniowi, o których 12. Przepisy art. 7 2 iart. 28 3 ustawy wart. 9 1austawy wymienionej wart. 1 wbrzmie- wymienionej art. 1 brzmieniu nadanym niniejszà niu nadanym niniejszà ustawà, zarejestrowani przed ustawà stosuje si´ poÊredników ubezpieczeniodniem wejÊcia ˝ycie niniejszej ustawy, mogà nie wych prawomocnie pozbawionych prawa prowadzespe∏niaç warunku okreÊlonego w: nia dzia∏alnoÊci gospodarczej od dnia wejÊcia ˝ycie
+wniosek, o którym art. 42 ustawy wymienio- 1, nie spełniają wymogów określonych wart.28 3 nej art. 1. pkt 1 lit. a—eustawy wymienionej wart. 1.
+9. Agenci ubezpieczeniowi, o których 12. Przepisy art. 7 2 iart. 28 3 ustawy wart. 9 1austawy wymienionej wart. 1 wbrzmie- wymienionej art. 1 brzmieniu nadanym niniejszą niu nadanym niniejszą ustawą, zarejestrowani przed ustawą stosuje się pośredników ubezpieczeniodniem wejścia życie niniejszej ustawy, mogą nie wych prawomocnie pozbawionych prawa prowadzespełniać warunku określonego w: nia działalności gospodarczej od dnia wejścia życie
 1) art. 9 1 pkt 2 ustawy wymienionej art. 1 niniejszej ustawy.
-je˝eli prawomocny wyrok skazujàcy zapad∏ przed dniem wejÊcia ˝ycie niniejszej ustawy, lub 13. Przepisy wykonawcze wydane podstawie przepisów upowa˝niajàcych zmienianych niniej2) art. 9 1 pkt 4 ustawy wymienionej art. 1. szà ustawà pozostajà mocy czasu wejÊcia ˝ycie przepisów wydanych podstawie przepisów
-10. W terminie 30 dni od dnia wejÊcia ˝ycie upowa˝niajàcych brzmieniu nadanym niniejszà ustawy zak∏ady ubezpieczeƒ sk∏adajà wnioski o zmia- ustawà, nie d∏u˝ej jednak ni˝ okres 3 miesi´cy n´ danych obj´tych wpisem rejestru agentów od dnia wejÊcia ˝ycie ustawy.
-ubezpieczeniowych zakresie dotyczàcym zak∏adu ubezpieczeƒ, z którym agent ubezpieczeniowy zawar∏ 14.Ustawa wchodzi w˝ycie po up∏ywie 14 dni umow´ ubezpieczenia, o której art. 11 3 od dnia og∏oszenia, z wyjàtkiem: ustawy wymienionej art. 1 brzmieniu nadanym niniejszà ustawà, terminu obowiàzywania tej 1) art. 1 pkt 3 zakresie dodawanego art. 4c, który oraz informacji, ˝e agent ubezpieczeniowy jest ban- wchodzi ˝ycie po up∏ywie 3 miesi´cy od dnia kiem, spó∏dzielczà kasà oszcz´dnoÊciowo-kredytowà og∏oszenia;
-albo innym podmiotem, którego stosuje si´ szcze- 2) art. 1 pkt 26 lit. a tiret drugie, lit. c i d, pkt 31 gólne zasady wzakresie spe∏niania osoby wyko- lit. boraz art. 3, które wchodzà w˝ycie po up∏ywie nujàce czynnoÊci agencyjne warunku, októrym 12 miesi´cy od dnia og∏oszenia;
+jeżeli prawomocny wyrok skazujący zapadł przed dniem wejścia życie niniejszej ustawy, lub 13. Przepisy wykonawcze wydane podstawie przepisów upoważniających zmienianych niniej2) art. 9 1 pkt 4 ustawy wymienionej art. 1. szą ustawą pozostają mocy czasu wejścia życie przepisów wydanych podstawie przepisów
+10. W terminie 30 dni od dnia wejścia życie upoważniających brzmieniu nadanym niniejszą ustawy zakłady ubezpieczeń składają wnioski o zmia- ustawą, nie dłużej jednak niż okres 3 miesięcy nę danych objętych wpisem rejestru agentów od dnia wejścia życie ustawy.
+ubezpieczeniowych zakresie dotyczącym zakładu ubezpieczeń, z którym agent ubezpieczeniowy zawarł 14.Ustawa wchodzi wżycie po upływie 14 dni umowę ubezpieczenia, o której art. 11 3 od dnia ogłoszenia, z wyjątkiem: ustawy wymienionej art. 1 brzmieniu nadanym niniejszą ustawą, terminu obowiązywania tej 1) art. 1 pkt 3 zakresie dodawanego art. 4c, który oraz informacji, że agent ubezpieczeniowy jest ban- wchodzi życie po upływie 3 miesięcy od dnia kiem, spółdzielczą kasą oszczędnościowo-kredytową ogłoszenia;
+albo innym podmiotem, którego stosuje się szcze- 2) art. 1 pkt 26 lit. a tiret drugie, lit. c i d, pkt 31 gólne zasady wzakresie spełniania osoby wyko- lit. boraz art. 3, które wchodzą wżycie po upływie nujące czynności agencyjne warunku, októrym 12 miesięcy od dnia ogłoszenia;
 art. 9 1 pkt 5.
-3) art. 5, który wchodzi ˝ycie z dniem og∏oszenia.
-11. 1. W terminie 6 miesi´cy od dnia wejÊcia ˝ycie ustawy brokerzy ubezpieczeniowi sà obowiàzani z∏o˝yç wniosek ozmian´ wpisu rejestru broke- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+3) art. 5, który wchodzi życie z dniem ogłoszenia.
+11. 1. W terminie 6 miesięcy od dnia wejścia życie ustawy brokerzy ubezpieczeniowi są obowiązani złożyć wniosek ozmianę wpisu rejestru broke- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 USTAWA z dnia 3 marca 2005 r.
-o dop∏atach umów budow´ niektórych typów statków morskich
-1. 1. Ustawa okreÊla sposób udzielania z dnia 27 czerwca 2002 r. dotyczàcym tymczasowego obowiàzywania o dop∏at´.
-2. Dop∏aty mogà byç udzielane przypadku: 5. 1. Procedur´ udzielania dop∏aty uruchamia
-1) udokumentowania stoczni´ polskà, ˝e stocz- z∏o˝enie stoczni´ polskà kompletnego i prawinia koreaƒska konkurujàca o umow´ budow´ d∏owo wype∏nionego wniosku BGK.
-statku zaoferowa∏a ni˝szà cen´ od oferty stoczni polskiej przed udzieleniem dop∏aty; 2. We wniosku, o którym 1, okreÊla si´ szczególnoÊci:
-2) dostarczenia statku terminie nie póêniejszym ni˝ trzy lata od dnia zawarcia budow´ 1) nazw´ (firm´), siedzib´ oraz adres wnioskodawcy;
-statku. 2) numer identyfikacji podatkowej (NIP) wniosko3. Ilekroç ustawie jest o: dawcy;
-1) rozporzàdzeniu Rady nale˝y to rozumieç 3) przedmiot wykonywanej wnioskodawc´ rozporzàdzenie Rady (WE) nr 1177/2002 z dnia dzia∏alnoÊci gospodarczej wed∏ug Polskiej Klasyfi27 czerwca 2002 r. dotyczàce tymczasowego mecha- kacji Dzia∏alnoÊci (PKD);
-nizmu ochronnego dla przemys∏u stoczniowego; 4) dat´ zawarcia budow´ statku, odop∏a2) dop∏acie nale˝y to rozumieç dop∏at´ zbu- t´ której wyst´puje wnioskodawca;
-d˝etu paƒstwa budow´ typu statku 5) wartoÊç budow´ statku;
-okreÊlonego rozporzàdzeniu Rady;
-6) wskazanie êróde∏ finansowania budowy statku;
-3) stoczni polskiej nale˝y to rozumieç przedsi´biorc´ z siedzibà Rzeczypospolitej Polskiej 7) cen´ oferowanà budow´ analogicznego statku prowadzàcego dzia∏alnoÊç zakresie budowy stoczni´ koreaƒskà;
+o dopłatach umów budowę niektórych typów statków morskich
+1. 1. Ustawa określa sposób udzielania z dnia 27 czerwca 2002 r. dotyczącym tymczasowego obowiązywania o dopłatę.
+2. Dopłaty mogą być udzielane przypadku: 5. 1. Procedurę udzielania dopłaty uruchamia
+1) udokumentowania stocznię polską, że stocz- złożenie stocznię polską kompletnego i prawinia koreańska konkurująca o umowę budowę dłowo wypełnionego wniosku BGK.
+statku zaoferowała niższą cenę od oferty stoczni polskiej przed udzieleniem dopłaty; 2. We wniosku, o którym 1, określa się szczególności:
+2) dostarczenia statku terminie nie póêniejszym niż trzy lata od dnia zawarcia budowę 1) nazwę (firmę), siedzibę oraz adres wnioskodawcy;
+statku. 2) numer identyfikacji podatkowej (NIP) wniosko3. Ilekroć ustawie jest o: dawcy;
+1) rozporządzeniu Rady należy to rozumieć 3) przedmiot wykonywanej wnioskodawcę rozporządzenie Rady (WE) nr 1177/2002 z dnia działalności gospodarczej według Polskiej Klasyfi27 czerwca 2002 r. dotyczące tymczasowego mecha- kacji Działalności (PKD);
+nizmu ochronnego dla przemysłu stoczniowego; 4) datę zawarcia budowę statku, odopła2) dopłacie należy to rozumieć dopłatę zbu- tę której występuje wnioskodawca;
+dżetu państwa budowę typu statku 5) wartość budowę statku;
+określonego rozporządzeniu Rady;
+6) wskazanie êródeł finansowania budowy statku;
+3) stoczni polskiej należy to rozumieć przedsiębiorcę z siedzibą Rzeczypospolitej Polskiej 7) cenę oferowaną budowę analogicznego statku prowadzącego działalność zakresie budowy stocznię koreańską;
 statków;
-8) cen´ zaoferowanà stoczni´ polskà.
-4) stoczni koreaƒskiej nale˝y to rozumieç podmiot zsiedzibà wRepublice Korei prowadzàcy 3. Do wniosku, októrym wust. 1, za∏àcza si´ dzia∏alnoÊç zakresie budowy statków; szczególnoÊci:
-5) dostarczeniu statku nale˝y to rozumieç 1) dokument potwierdzajàcy, ˝e o zawarcie przeniesienie w∏asnoÊci statku kupujàcego ubiega∏a si´ stocznia koreaƒska, oferujàc ni˝szà podpisanie protoko∏u zdawczo-odbiorczego; cen´;
-6) nale˝y to rozumieç Bank Gospodar- 2) analiz´ wykazujàcà rentownoÊç budow´ statku wmomencie jej zawarcia, zuwzgl´dniestwa Krajowego. niem dop∏aty;
-4.1. Organem udzielajàcym dop∏aty jest mini- 3) oÊwiadczenie, ˝e typ statku b´dàcy przedmiotem ster w∏aÊciwy spraw gospodarki. kwalifikuje si´ ubiegania o dop∏at´, zgodnie z rozporzàdzeniem Rady;
-2. Minister w∏aÊciwy spraw gospodarki wykonuje zadanie, o którym 1, za poÊrednic- 4) uwierzytelnionà kopi´ budow´ statku.
+8) cenę zaoferowaną stocznię polską.
+4) stoczni koreańskiej należy to rozumieć podmiot zsiedzibą wRepublice Korei prowadzący 3. Do wniosku, októrym wust. 1, załącza się działalność zakresie budowy statków; szczególności:
+5) dostarczeniu statku należy to rozumieć 1) dokument potwierdzający, że o zawarcie przeniesienie własności statku kupującego ubiegała się stocznia koreańska, oferując niższą podpisanie protokołu zdawczo-odbiorczego; cenę;
+6) należy to rozumieć Bank Gospodar- 2) analizę wykazującą rentowność budowę statku wmomencie jej zawarcia, zuwzględniestwa Krajowego. niem dopłaty;
+4.1. Organem udzielającym dopłaty jest mini- 3) oświadczenie, że typ statku będący przedmiotem ster właściwy spraw gospodarki. kwalifikuje się ubiegania o dopłatę, zgodnie z rozporządzeniem Rady;
+2. Minister właściwy spraw gospodarki wykonuje zadanie, o którym 1, za pośrednic- 4) uwierzytelnioną kopię budowę statku.
 twem BGK.
-4. Przez wartoÊç umowy, o której 2
-3. Minister w∏aÊciwy spraw gospodarki zawiera pkt 5, nale˝y rozumieç ca∏kowità cen´ kontraktowà z umow´, która okreÊla szczególnoÊci: z uwzgl´dnieniem prac dodatkowych zleconych kupujàcego wtrakcie budowy statku, kupujàce1) elementy o dop∏at´, o których go i upustów wed∏ug stanu dzieƒ sk∏adania wnio8. niezw∏ocznie przekazuje kopi´ kompletne- 2) negatywna ocena analizy, o której art. 5 go wniosku wraz z dokumentami, o których 3 pkt 2;
-wust. 3 pkt 1 i3, Prezesowi Agencji Rozwoju Przemy- 3) niespe∏nienie warunków okreÊlonych rozporzàs∏u S.A., zwanemu dalej „Prezesem”, celu jego za- dzeniu Rady.
-opiniowania, wszczególnoÊci wzakresie wiarygodnoÊci informacji zawartych tych dokumentach. 6. informuje wnioskodawc´ ostanowisku ministra w∏aÊciwego spraw gospodarki, podajàc
-9. Prezes, wterminie 14 dni od dnia otrzymania ko- przypadku odmowy wyra˝enia zgody zawarcie pii wniosku wraz z za∏àcznikami, przekazuje o udzielenie dop∏aty jej przyczyny.
-opini´, o której 8.
-7. Wnioskodawca mo˝e zwróciç si´, terminie
-10. BGK, terminie nie d∏u˝szym ni˝ 45 dni od 14dni od dnia otrzymania informacji, o której dnia otrzymania wniosku oudzielenie dop∏aty, przeka- wust. 6, ministra w∏aÊciwego spraw gospodarzuje go ministrowi w∏aÊciwemu spraw gospodarki ki o ponowne rozpatrzenie wniosku. Ponowne rozpawraz z pisemnà opinià sprawie wniosku, uwzgl´d- trzenie wniosku ministra w∏aÊciwego spraw niajàcà ocen´ analizy, o której 3 pkt 2, gospodarki nast´puje wterminie 30 dni od dnia otrzyoraz opini´ Prezesa. mania tego wniosku.
-11. Minister w∏aÊciwy spraw gospodarki okre- 7.1. Udzielenie dop∏aty oraz przekazanie ÊrodÊli, drodze rozporzàdzenia, wzór wniosku, o którym ków pieni´˝nych z tego tytu∏u odbywa si´ podsta1, i jego dodatkowe elementy oraz do- wie zawartej z wnioskodawcà.
-datkowe informacje idokumenty niezb´dne prawid∏owej oceny wniosku, które powinny byç niego 2. Umowa, o której 1, okreÊla za∏àczone, wtym rodzaje dokumentów, októrych mo- szczególnoÊci: wa 3 pkt 1, bioràc pod uwag´ koniecznoÊç za- 1) wysokoÊç dop∏aty;
-pewnienia przejrzystoÊci informacji niezb´dnych ubiegania si´ o dop∏at´. 2) sposób dokonywania kontroli zakresie przestrzegania wnioskodawc´ obowiàz6. 1. Minister w∏aÊciwy spraw gospodarki, ków wynikajàcych z umowy;
-po uzyskaniu opinii ministra w∏aÊciwego spraw fi- 3) rodzaje dokumentów umo˝liwiajàcych stwierdzenansów publicznych wzakresie mo˝liwoÊci udzielenia dop∏aty z punktu widzenia wysokoÊci Êrodków bud˝e- nie spe∏nienia wnioskodawc´ warunków, od towych przeznaczonych ten cel wustawie bud˝eto- których jest uzale˝nione przekazanie Êrodków piewej, wyra˝onej terminie 14 dni, udziela zgody albo ni´˝nych z tytu∏u dop∏aty.
-odmawia udzielenia zgody zawarcie 8. Minister w∏aÊciwy spraw gospodarki uruo udzielenie dop∏aty, terminie 30 dni od chamia Êrodki bud˝etu paƒstwa przeznaczone dodnia otrzymania wniosku wraz zopinià, októrej p∏at´ budowy statku, zgodnie zart. 29 4 ustawy wart. 5 10, niezw∏ocznie informujàc oswoim z dnia 26 listopada 1998 r. o finansach publicznych stanowisku. (Dz.U. z 2003 r. 15, poz. 148, z póên. zm.
-2. W przypadku wyra˝enia zgody zawarcie o udzielenie dop∏aty minister w∏aÊciwy spraw gospodarki okreÊla wysokoÊç dop∏aty, z uwzgl´dnieniem 4, oraz wskazuje termin podpisania umowy.
-3. W przypadku umów budow´ statków, których dostarczenie nastàpi po 2005 r., termin, ). Ârodki przekazuje si´ rachunek bankowy terminie umo˝liwiajàcym przekazanie ich rachunek bankowy wnioskodawcy wterminie 30dni od dnia dostarczenia statku stoczni´ polskà.
-9. Ustawa wchodzi ˝ycie z dniem og∏oszenia.
-Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+4. Przez wartość umowy, o której 2
+3. Minister właściwy spraw gospodarki zawiera pkt 5, należy rozumieć całkowitą cenę kontraktową z umowę, która określa szczególności: z uwzględnieniem prac dodatkowych zleconych kupującego wtrakcie budowy statku, kupujące1) elementy o dopłatę, o których go i upustów według stanu dzień składania wnio8. niezwłocznie przekazuje kopię kompletne- 2) negatywna ocena analizy, o której art. 5 go wniosku wraz z dokumentami, o których 3 pkt 2;
+wust. 3 pkt 1 i3, Prezesowi Agencji Rozwoju Przemy- 3) niespełnienie warunków określonych rozporząsłu S.A., zwanemu dalej ŃPrezesem”, celu jego za- dzeniu Rady.
+opiniowania, wszczególności wzakresie wiarygodności informacji zawartych tych dokumentach. 6. informuje wnioskodawcę ostanowisku ministra właściwego spraw gospodarki, podając
+9. Prezes, wterminie 14 dni od dnia otrzymania ko- przypadku odmowy wyrażenia zgody zawarcie pii wniosku wraz z załącznikami, przekazuje o udzielenie dopłaty jej przyczyny.
+opinię, o której 8.
+7. Wnioskodawca może zwrócić się, terminie
+10. BGK, terminie nie dłuższym niż 45 dni od 14dni od dnia otrzymania informacji, o której dnia otrzymania wniosku oudzielenie dopłaty, przeka- wust. 6, ministra właściwego spraw gospodarzuje go ministrowi właściwemu spraw gospodarki ki o ponowne rozpatrzenie wniosku. Ponowne rozpawraz z pisemną opinią sprawie wniosku, uwzględ- trzenie wniosku ministra właściwego spraw niającą ocenę analizy, o której 3 pkt 2, gospodarki następuje wterminie 30 dni od dnia otrzyoraz opinię Prezesa. mania tego wniosku.
+11. Minister właściwy spraw gospodarki okre- 7.1. Udzielenie dopłaty oraz przekazanie środśli, drodze rozporządzenia, wzór wniosku, o którym ków pieniężnych z tego tytułu odbywa się podsta1, i jego dodatkowe elementy oraz do- wie zawartej z wnioskodawcą.
+datkowe informacje idokumenty niezbędne prawidłowej oceny wniosku, które powinny być niego 2. Umowa, o której 1, określa załączone, wtym rodzaje dokumentów, októrych mo- szczególności: wa 3 pkt 1, biorąc pod uwagę konieczność za- 1) wysokość dopłaty;
+pewnienia przejrzystości informacji niezbędnych ubiegania się o dopłatę. 2) sposób dokonywania kontroli zakresie przestrzegania wnioskodawcę obowiąz6. 1. Minister właściwy spraw gospodarki, ków wynikających z umowy;
+po uzyskaniu opinii ministra właściwego spraw fi- 3) rodzaje dokumentów umożliwiających stwierdzenansów publicznych wzakresie możliwości udzielenia dopłaty z punktu widzenia wysokości środków budże- nie spełnienia wnioskodawcę warunków, od towych przeznaczonych ten cel wustawie budżeto- których jest uzależnione przekazanie środków piewej, wyrażonej terminie 14 dni, udziela zgody albo niężnych z tytułu dopłaty.
+odmawia udzielenia zgody zawarcie 8. Minister właściwy spraw gospodarki uruo udzielenie dopłaty, terminie 30 dni od chamia środki budżetu państwa przeznaczone dodnia otrzymania wniosku wraz zopinią, októrej płatę budowy statku, zgodnie zart. 29 4 ustawy wart. 5 10, niezwłocznie informując oswoim z dnia 26 listopada 1998 r. o finansach publicznych stanowisku. (Dz.U. z 2003 r. 15, poz. 148, z póên. zm.
+2. W przypadku wyrażenia zgody zawarcie o udzielenie dopłaty minister właściwy spraw gospodarki określa wysokość dopłaty, z uwzględnieniem 4, oraz wskazuje termin podpisania umowy.
+3. W przypadku umów budowę statków, których dostarczenie nastąpi po 2005 r., termin, ). Ârodki przekazuje się rachunek bankowy terminie umożliwiającym przekazanie ich rachunek bankowy wnioskodawcy wterminie 30dni od dnia dostarczenia statku stocznię polską.
+9. Ustawa wchodzi życie z dniem ogłoszenia.
+Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

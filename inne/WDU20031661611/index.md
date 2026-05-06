@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# puje si´ wyrazami „art. 21 ”;
+# puje się wyrazami Ńart. 21 ”;
 
 | Pole | Wartość |
 |---|---|
@@ -24,100 +24,109 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031661611) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1611/text.pdf) |
 
-6) art. 108 ust. 5 wyrazy „w art. 21 ust. 3” zast´puje si´ wyrazami „wart. 21 ust. 1”.
+6) art. 108 ust. 5 wyrazy Ńw art. 21 ust. 3” zastępuje się wyrazami Ńwart. 21 ust. 1”.
+Przepisy ogólne
+2) kolonia jednostkę osadniczą powstałą jako rezulArt. 1. 1. Ustawa określa: tat ekspansji miejscowości poza obszar wcześniej istniejącej zabudowy, szczególności: kolonię
+1) zasady tryb ustalania, dokonywania zmian zno- miasta, kolonię wsi;
+szenia urzędowych nazw miejscowości iich części urzędowych nazw obiektów fizjograficznych; 3) miasto jednostkę osadniczą oprzewadze zwartej zabudowy funkcjach nierolniczych posiadającą
+2) zasady działania Komisji Nazw Miejscowości prawa miejskie bądê status miasta nadany wtrybie iObiektów Fizjograficznych; określonym odrębnymi przepisami;
+3) sposób ustalania ogłaszania wykazów urzędo- 4) miejscowość jednostkę osadniczą lub inny obwych nazw miejscowości iich części obiektów fizjograficznych.
+2. Przepisów ustawy nie stosuje się do ustalania, dokonywania zmian znoszenia urzędowych nazw wzakresie uregulowanym przepisami oochronie przyrody, a także przypadkach, gdy urzędową nazwę określa odrębna ustawa.
 
-**Art. 2.** Przepis art. 24 ust. 4 ustawy, októrej mowa art. 1, brzmieniu nadanym niniejszà ustawà traci moc dniem uzyskania przez Rzeczpospolità Polskà cz∏onkostwa wUnii Europejskiej. art. 95 ust. 2 art. 108 ust. 5 ustawy, której mowa art. 1, brzmieniu nadanym niniejszà ustawà stosuje si´ zdniem uzyskania przez Rzeczpospolità Polskà cz∏onkostwa wUnii Europejskiej. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA zdnia 30 lipca 2003 ouruchamianiu Êrodków pochodzàcych zSekcji Gwarancji Europejskiego Funduszu Orientacji iGwarancji Rolnej
+**Art. 2.** Przepis art. 24 ust. 4 ustawy, októrej mowa art. 1, brzmieniu nadanym niniejszą ustawą traci moc dniem uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej. art. 95 ust. 2 art. 108 ust. 5 ustawy, której mowa art. 1, brzmieniu nadanym niniejszą ustawą stosuje się zdniem uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 30 lipca 2003 ouruchamianiu środków pochodzących zSekcji Gwarancji Europejskiego Funduszu Orientacji iGwarancji Rolnej
 
-**Art. 1.** Ustawa okreÊla zasady uruchamiania Êrod- 2) warunki przekazania niektórych funkcji agencji p∏atków pochodzàcych Sekcji Gwarancji Europejskiego niczej innym jednostkom organizacyjnym; Funduszu Orientacji iGwarancji Rolnej, zwanego dalej „Funduszem”. 3) tryb tworzenia procedur dotyczàcych realizacji p∏atnoÊci ipodzia∏u obowiàzków;
+**Art. 1.** Ustawa określa zasady uruchamiania środ- 2) warunki przekazania niektórych funkcji agencji płatków pochodzących Sekcji Gwarancji Europejskiego niczej innym jednostkom organizacyjnym; Funduszu Orientacji iGwarancji Rolnej, zwanego dalej ŃFunduszem”. 3) tryb tworzenia procedur dotyczących realizacji płatności ipodziału obowiązków;
 
 **Art. 2.**
 
-1. Ârodki pochodzàce zFunduszu mogà byç 4) koniecznoÊç zapewnienia przez agencj´ bezpiewydatkowane przez jednostki organizacyjne, którym czeƒstwa systemów informatycznych; minister w∏aÊciwy do spraw finansów publicznych udzieli∏ akredytacji jako agencjom p∏atniczym. 5) koniecznoÊç zapewnienia przez agencj´ prowadzenia rachunkowoÊci iewidencji d∏u˝ników;
+1. Ârodki pochodzące zFunduszu mogą być 4) konieczność zapewnienia przez agencję bezpiewydatkowane przez jednostki organizacyjne, którym czeństwa systemów informatycznych; minister właściwy do spraw finansów publicznych udzielił akredytacji jako agencjom płatniczym. 5) konieczność zapewnienia przez agencję prowadzenia rachunkowości iewidencji dłużników;
 
-2. Minister w∏aÊciwy do spraw finansów publicznych przed udzieleniem akredytacji dokonuje spraw- 6) rozliczanie zaliczek i stosowanie zabezpieczeƒ nadzenia stanu przygotowania jednostki organizacyjnej le˝noÊci; do obs∏ugi Êrodków pochodzàcych Funduszu i ustala, czy procedury i struktura organizacyjna danej jed- 7) prawid∏owe funkcjonowanie audytu wewn´trznenostki gwarantujà, ˝e: go;
+2. Minister właściwy do spraw finansów publicznych przed udzieleniem akredytacji dokonuje spraw- 6) rozliczanie zaliczek stosowanie zabezpieczeń nadzenia stanu przygotowania jednostki organizacyjnej leżności; do obsługi środków pochodzących Funduszu ustala, czy procedury struktura organizacyjna danej jed- 7) prawidłowe funkcjonowanie audytu wewnętrznenostki gwarantują, że: go;
 
-- **1)** udzielenie zgody na dokonanie p∏atnoÊci ze Êrod- 8) tryb post´powania zp∏atnoÊciami nienale˝nymi. ków Funduszu b´dzie poprzedzone sprawdzeniem Art. 3. 1. Minister w∏aÊciwy do spraw finansów puwniosku p∏atnoÊç pod wzgl´dem formalnym blicznych ustanawia agencj´ p∏atniczà, drodze rozimerytorycznym; porzàdzenia, okreÊlajàc:
-- **2)** p∏atnoÊci b´dà rejestrowane wksi´gach rachunko- 1) nazw´ isiedzib´ agencji p∏atniczej; wych;
+- **1)** udzielenie zgody na dokonanie płatności ze środ- 8) tryb postępowania zpłatnościami nienależnymi. ków Funduszu będzie poprzedzone sprawdzeniem Art. 3. 1. Minister właściwy do spraw finansów puwniosku płatność pod względem formalnym blicznych ustanawia agencję płatniczą, drodze rozimerytorycznym; porządzenia, określając:
+- **2)** płatności będą rejestrowane wksięgach rachunko- 1) nazwę isiedzibę agencji płatniczej; wych;
 - **2)** zakres udzielonej akredytacji;
-- **3)** niezb´dne dokumenty b´dà sk∏adane wustalonym terminie iwymaganej formie. 3) dat´ udzielenia akredytacji.
+- **3)** niezbędne dokumenty będą składane wustalonym terminie iwymaganej formie. 3) datę udzielenia akredytacji.
 
-3. Minister w∏aÊciwy do spraw finansów publicz- 2. Minister w∏aÊciwy do spraw finansów publicznych mo˝e powierzyç sprawdzenie, którym mowa nych przekazuje Komisji Europejskiej informacje i dowust. 2, innym podmiotom uprawnionym do przepro- kumenty dotyczàce ustanowienia agencji p∏atniczej wadzania audytu zewn´trznego. wszelkich zmian wtym zakresie.
+3. Minister właściwy do spraw finansów publicz- 2. Minister właściwy do spraw finansów publicznych może powierzyć sprawdzenie, którym mowa nych przekazuje Komisji Europejskiej informacje dowust. 2, innym podmiotom uprawnionym do przepro- kumenty dotyczące ustanowienia agencji płatniczej wadzania audytu zewnętrznego. wszelkich zmian wtym zakresie.
 
 - **2)** zakres udzielonej akredytacji;
-- **3)** dat´ udzielenia akredytacji;
-- **4)** zmiany, które powinny byç wprowadzone celu spe∏nienia wszystkich kryteriów akredytacyjnych, termin wprowadzenia tych zmian.
+- **3)** datę udzielenia akredytacji;
+- **4)** zmiany, które powinny być wprowadzone celu spełnienia wszystkich kryteriów akredytacyjnych, termin wprowadzenia tych zmian.
 
-2. Minister w∏aÊciwy do spraw finansów publicznych przekazuje Komisji Europejskiej informacje i dokumenty dotyczàce warunkowego ustanowienia agencji p∏atniczej wszelkich zmian wtym zakresie.
+2. Minister właściwy do spraw finansów publicznych przekazuje Komisji Europejskiej informacje dokumenty dotyczące warunkowego ustanowienia agencji płatniczej wszelkich zmian wtym zakresie.
 
 **Art. 5.**
 
-1. Agencje p∏atnicze, ka˝da zakresie swojej w∏aÊciwoÊci, przekazujà odpowiednio ministrowi w∏aÊciwemu do spraw rozwoju wsi iministrowi w∏aÊciwemu do spraw rynków rolnych, zwanych dalej „jednostkà koordynujàcà”, wymagane przepisami Unii Europejskiej sprawozdania iinformacje, wszczególnoÊci zzakresu:
+1. Agencje płatnicze, każda zakresie swojej właściwości, przekazują odpowiednio ministrowi właściwemu do spraw rozwoju wsi iministrowi właściwemu do spraw rynków rolnych, zwanych dalej Ńjednostką koordynującą”, wymagane przepisami Unii Europejskiej sprawozdania iinformacje, wszczególności zzakresu:
 
 - **1)** planowanych wydatków zFunduszu;
 - **2)** dokonanych wydatków zFunduszu;
-- **3)** danych sprawozdawczych dotyczàcych wydatków zFunduszu.
+- **3)** danych sprawozdawczych dotyczących wydatków zFunduszu.
 
-2. Jednostka koordynujàca na podstawie otrzymanych sprawozdaƒ i informacji, których mowa ust. 1, sporzàdza sprawozdania i informacje, które przesy∏a Komisji Europejskiej terminach okreÊlonych przepisami Unii Europejskiej.
+2. Jednostka koordynująca na podstawie otrzymanych sprawozdań informacji, których mowa ust. 1, sporządza sprawozdania informacje, które przesyła Komisji Europejskiej terminach określonych przepisami Unii Europejskiej.
 
-3. W uzasadnionych przypadkach jednostka koordynujàca mo˝e wystàpiç do Komisji Europejskiej oprzed∏u˝enie terminów przekazania sprawozdaƒ iinformacji, októrych mowa wust. 2.
+3. W uzasadnionych przypadkach jednostka koordynująca może wystąpić do Komisji Europejskiej oprzedłużenie terminów przekazania sprawozdań iinformacji, októrych mowa wust. 2.
 
-4. Minister w∏aÊciwy do spraw rozwoju wsi iminister w∏aÊciwy do spraw rynków rolnych okreÊlà, drodze rozporzàdzenia, zakres, tryb terminy przekazywania sprawozdaƒ iinformacji, októrych mowa wust. 1, uwzgl´dniajàc przepisy Unii Europejskiej dotyczàce obowiàzków sprawozdawczych zwiàzanych wydatkowaniem Êrodków pochodzàcych Funduszu.
+4. Minister właściwy do spraw rozwoju wsi iminister właściwy do spraw rynków rolnych określą, drodze rozporządzenia, zakres, tryb terminy przekazywania sprawozdań iinformacji, októrych mowa wust. 1, uwzględniając przepisy Unii Europejskiej dotyczące obowiązków sprawozdawczych związanych wydatkowaniem środków pochodzących Funduszu.
 
-**Art. 6.** Minister w∏aÊciwy do spraw rolnictwa przekazuje Komisji Europejskiej wymagane przepisami Unii Europejskiej informacje dotyczàce funkcjonowania jednostki koordynujàcej.
+**Art. 6.** Minister właściwy do spraw rolnictwa przekazuje Komisji Europejskiej wymagane przepisami Unii Europejskiej informacje dotyczące funkcjonowania jednostki koordynującej.
 
 **Art. 7.**
 
-1. Minister w∏aÊciwy do spraw finansów publicznych sprawuje nadzór nad agencjami p∏atniczymi zakresie spe∏niania przez te agencje kryteriów akredytacyjnych, októrych mowa 2 ust. 4.
+1. Minister właściwy do spraw finansów publicznych sprawuje nadzór nad agencjami płatniczymi zakresie spełniania przez te agencje kryteriów akredytacyjnych, októrych mowa 2 ust. 4.
 
 **Art. 8.**
 
-1. Minister w∏aÊciwy do spraw finansów publicznych, drodze rozporzàdzenia, cofa akredytacj´, je˝eli agencja p∏atnicza nie spe∏nia wymaganych kryteriów akredytacyjnych inie wprowadzi wwyznaczonym terminie zmian, które powinny byç wprowadzone celu spe∏nienia wszystkich kryteriów akredytacyjnych, okreÊlajàc wszczególnoÊci:
+1. Minister właściwy do spraw finansów publicznych, drodze rozporządzenia, cofa akredytację, jeżeli agencja płatnicza nie spełnia wymaganych kryteriów akredytacyjnych inie wprowadzi wwyznaczonym terminie zmian, które powinny być wprowadzone celu spełnienia wszystkich kryteriów akredytacyjnych, określając wszczególności:
 
-- **1)** nazw´ i siedzib´ agencji p∏atniczej, której cofni´to akredytacj´;
-- **2)** przyczyny cofni´cia akredytacji;
-- **3)** dat´ cofni´cia akredytacji.
+- **1)** nazwę siedzibę agencji płatniczej, której cofnięto akredytację;
+- **2)** przyczyny cofnięcia akredytacji;
+- **3)** datę cofnięcia akredytacji.
 
-2. Agencja p∏atnicza, której zosta∏a cofni´ta akredytacja, niezw∏ocznie przekazuje pe∏nà dokumentacj´ ibazy danych wzakresie udzielonej akredytacji agencji p∏atniczej wskazanej przez ministra w∏aÊciwego do spraw finansów publicznych.
+2. Agencja płatnicza, której została cofnięta akredytacja, niezwłocznie przekazuje pełną dokumentację ibazy danych wzakresie udzielonej akredytacji agencji płatniczej wskazanej przez ministra właściwego do spraw finansów publicznych.
 
 **Art. 9.**
 
-1. Ârodki pochodzàce zFunduszu sà gromadzone na wyodr´bnionym rachunku bankowym ministra w∏aÊciwego do spraw finansów publicznych, prowadzonym przez Narodowy Bank Polski.
+1. Ârodki pochodzące zFunduszu są gromadzone na wyodrębnionym rachunku bankowym ministra właściwego do spraw finansów publicznych, prowadzonym przez Narodowy Bank Polski.
 
-2. Ârodki pochodzàce zFunduszu zgromadzone na rachunku bankowym, októrym mowa wust. 1, sà przekazywane przez ministra w∏aÊciwego do spraw finansów publicznych agencjom p∏atniczym na podstawie wniosków ministra w∏aÊciwego do spraw rozwoju wsi iministra w∏aÊciwego do spraw rynków rolnych.
+2. Ârodki pochodzące zFunduszu zgromadzone na rachunku bankowym, októrym mowa wust. 1, są przekazywane przez ministra właściwego do spraw finansów publicznych agencjom płatniczym na podstawie wniosków ministra właściwego do spraw rozwoju wsi iministra właściwego do spraw rynków rolnych.
 
-3. Obs∏ug´ bankowà rachunków agencji p∏atniczych zakresie Êrodków pochodzàcych Funduszu i krajowych Êrodków publicznych przeznaczonych na wspó∏finansowanie prowadzi Narodowy Bank Polski na podstawie umów rachunku bankowego.
+3. Obsługę bankową rachunków agencji płatniczych zakresie środków pochodzących Funduszu krajowych środków publicznych przeznaczonych na współfinansowanie prowadzi Narodowy Bank Polski na podstawie umów rachunku bankowego.
 
-**Art. 10.** W∏aÊciwoÊç poszczególnych agencji p∏atniczych zakresie realizacji p∏atnoÊci Funduszu okreÊlajà odr´bne przepisy.
+**Art. 10.** Właściwość poszczególnych agencji płatniczych zakresie realizacji płatności Funduszu określają odrębne przepisy.
 
-**Art. 11.** Wustawie zdnia 29 grudnia 1993 outworzeniu Agencji Restrukturyzacji i Modernizacji Rolnictwa (Dz. U. z1994 1, 2, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 11.** Wustawie zdnia 29 grudnia 1993 outworzeniu Agencji Restrukturyzacji Modernizacji Rolnictwa (Dz. U. z1994 1, 2, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 12.** Wustawie zdnia 7 czerwca 1990 outworzeniu Agencji Rynku Rolnego (Dz. U. z1997 142, 951, póên. zm. ) po art. 9 dodaje si´ art. 9a—9cwbrzmieniu: „Art. 9a. Wprzypadku pe∏nienia przez Agencj´ funkcji agencji p∏atniczej rozumieniu ustawy dnia 30 lipca 2003 uruchamianiu Êrodków pochodzàcych Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej (Dz. U. 166, 1611) dla Êrodków pochodzàcych Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej, Agencja realizuje p∏atnoÊci i prowadzi ewidencj´ Êrodków tego Funduszu, odr´bnych ksi´gach rachunkowych.
+**Art. 12.** Wustawie zdnia 7 czerwca 1990 outworzeniu Agencji Rynku Rolnego (Dz. U. z1997 142, 951, póên. zm. ) po art. 9 dodaje się art. 9a—9cwbrzmieniu: ŃArt. 9a. Wprzypadku pełnienia przez Agencję funkcji agencji płatniczej rozumieniu ustawy dnia 30 lipca 2003 uruchamianiu środków pochodzących Sekcji Gwarancji Europejskiego Funduszu Orientacji Gwarancji Rolnej (Dz. U. 166, 1611) dla środków pochodzących Sekcji Gwarancji Europejskiego Funduszu Orientacji Gwarancji Rolnej, Agencja realizuje płatności prowadzi ewidencję środków tego Funduszu, odrębnych księgach rachunkowych.
 
 **Art. 9b.**
 
 1. Prezes Agencji ustala, drodze decyzji administracyjnej:
 
-- **1)** kwoty nienale˝nie lub nadmiernie pobranych Êrodków:
-    - **a)** pochodzàcych zSekcji Gwarancji Europejskiego Funduszu Orientacji iGwarancji Rolnej, ——————— b) krajowych przeznaczonych na realizacj´ Wspólnej Polityki Rolnej,
+- **1)** kwoty nienależnie lub nadmiernie pobranych środków:
+    - **a)** pochodzących zSekcji Gwarancji Europejskiego Funduszu Orientacji iGwarancji Rolnej, ——————— b) krajowych przeznaczonych na realizację Wspólnej Polityki Rolnej,
 
-- **2)** nale˝noÊci wraz odsetkami od zale2. Do nale˝noÊci, których mowa ust. 1, stosuje si´ przepisy dzia∏u III ustawy zdnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 137, 926, póên. zm. ).
+- **2)** należności wraz odsetkami od zale2. Do należności, których mowa ust. 1, stosuje się przepisy działu III ustawy zdnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. 137, 926, póên. zm. ).
 
-3. Uprawnienia organu podatkowego okreÊlone ustawie, której mowa ust. 2, przys∏ugujà Prezesowi Agencji, jako organowi pierwszej instancji. Prezes Agencji mo˝e upowa˝niaç pracowników Agencji do wydawania decyzji wsprawach, októrych mowa wust. 1.
+3. Uprawnienia organu podatkowego określone ustawie, której mowa ust. 2, przysługują Prezesowi Agencji, jako organowi pierwszej instancji. Prezes Agencji może upoważniać pracowników Agencji do wydawania decyzji wsprawach, októrych mowa wust. 1.
 
-4. Od decyzji, której mowa ust. 1, przys∏uguje odwo∏anie do ministra w∏aÊciwego do spraw rynków rolnych.
+4. Od decyzji, której mowa ust. 1, przysługuje odwołanie do ministra właściwego do spraw rynków rolnych.
 
-5. Do egzekucji nale˝noÊci, których mowa ust. 1, stosuje si´ przepisy post´powaniu egzekucyjnym wadministracji.
+5. Do egzekucji należności, których mowa ust. 1, stosuje się przepisy postępowaniu egzekucyjnym wadministracji.
 
 **Art. 9c.**
 
-1. Wsprawach dotyczàcych ustalenia nienale˝nie lub nadmiernie pobranych Êrodków, które zosta∏y przekazane przez Agencj´ na podstawie umowy cywilnoprawnej zwiàzku realizacjà Wspólnej Polityki Rolnej:
+1. Wsprawach dotyczących ustalenia nienależnie lub nadmiernie pobranych środków, które zostały przekazane przez Agencję na podstawie umowy cywilnoprawnej związku realizacją Wspólnej Polityki Rolnej:
 
-- **1)** pochodzàcych Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej,
-- **2)** krajowych, przeznaczonych na realizacj´ Wspólnej Polityki Rolnej stosuje si´ przepisy Kodeksu post´powania cywilnego.
+- **1)** pochodzących Sekcji Gwarancji Europejskiego Funduszu Orientacji Gwarancji Rolnej,
+- **2)** krajowych, przeznaczonych na realizację Wspólnej Polityki Rolnej stosuje się przepisy Kodeksu postępowania cywilnego.
 
-2. Do egzekucji nale˝noÊci, których mowa wust. 1, na rzecz Agencji, stosuje si´ przepisy opost´powaniu egzekucyjnym wadministracji.”.
+2. Do egzekucji należności, których mowa wust. 1, na rzecz Agencji, stosuje się przepisy opostępowaniu egzekucyjnym wadministracji.”.
 
 **Art. 13.** W ustawie dnia 26 listopada 1998 finansach publicznych (Dz. U. 2003 15, 148, 45, 391, 65, 594 96, 874) wproRolnej;”;
 
-**Art. 2.** U˝yte wustawie okreÊlenia oznaczajà:
+#### Rozdział 1 tami infrastruktury technicznej zamieszkany przez ludzi;
+
+**Art. 2.** Użyte wustawie określenia oznaczają:
 

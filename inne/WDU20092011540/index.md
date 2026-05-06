@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 19 listopada 2009 r. o grach hazardowych
 
 | Pole | Wartość |
 |---|---|
@@ -24,654 +24,662 @@ domain: null
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092011540) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1540/text.pdf) |
 
-1. Ustawa okreÊla warunki urzàdzania i zasady prowadzenia dzia∏alnoÊci zakresie gier losowych, zak∏adów wzajemnych igier na automatach.
-2. 1. Grami losowymi sà gry wygrane pieni´˝ne lub rzeczowe, których wynik szczególnoÊci zale˝y od przypadku, a warunki gry okreÊla regulamin. Sà to:
-1) gry liczbowe gry, których wygranà uzyskuje si´ przez prawid∏owe wytypowanie liczb, znaków
-3) gra telebingo, wktórej uczestniczy si´ przez nabycie dowodu udzia∏u grze zawierajàcego przypadkowe zestawy liczb lub znaków z góry ustalonego zbioru liczb lub znaków, przeprowadzana na skal´ ogólnokrajowà z losowaniem nadawanym jako audycja telewizyjna, a podmiot urzàdzajàcy gr´ oferuje wygrane pieni´˝ne lub rzeczowe;
-4) gry cylindryczne, wktórych uczestniczy si´ wgrze przez wytypowanie liczb, znaków lub innych wyró˝ników, awysokoÊç wygranej zale˝y od okreÊlonego zgóry stosunku wp∏aty do wygranej, zaÊ wynik gry ustalany jest za pomocà urzàdzenia obrotowego;
-lub innych wyró˝ników, a wysokoÊç wygranych zale˝y od ∏àcznej kwoty wp∏aconych stawek, oraz gra liczbowa keno, której wygranà uzyskuje si´ przez prawid∏owe wytypowanie liczb, a wysokoÊç wygranych stanowi iloczyn wp∏aconej stawki i mno˝nika ustalonego dla poszczególnych stopni wygranych;
-2) loterie pieni´˝ne, których uczestniczy si´ przez nabycie losu lub innego dowodu udzia∏u grze, a podmiot urzàdzajàcy loteri´ oferuje wy∏àcznie wygrane pieni´˝ne;
+1. Ustawa określa warunki urządzania i zasady prowadzenia działalności zakresie gier losowych, zakładów wzajemnych igier na automatach.
+2. 1. Grami losowymi są gry wygrane pieniężne lub rzeczowe, których wynik szczególności zależy od przypadku, a warunki gry określa regulamin. Są to:
+1) gry liczbowe gry, których wygraną uzyskuje się przez prawidłowe wytypowanie liczb, znaków
+3) gra telebingo, wktórej uczestniczy się przez nabycie dowodu udziału grze zawierającego przypadkowe zestawy liczb lub znaków z góry ustalonego zbioru liczb lub znaków, przeprowadzana na skalę ogólnokrajową z losowaniem nadawanym jako audycja telewizyjna, a podmiot urządzający grę oferuje wygrane pieniężne lub rzeczowe;
+4) gry cylindryczne, wktórych uczestniczy się wgrze przez wytypowanie liczb, znaków lub innych wyróżników, awysokość wygranej zależy od określonego zgóry stosunku wpłaty do wygranej, zaś wynik gry ustalany jest za pomocą urządzenia obrotowego;
+lub innych wyróżników, a wysokość wygranych zależy od łącznej kwoty wpłaconych stawek, oraz gra liczbowa keno, której wygraną uzyskuje się przez prawidłowe wytypowanie liczb, a wysokość wygranych stanowi iloczyn wpłaconej stawki i mnożnika ustalonego dla poszczególnych stopni wygranych;
+2) loterie pieniężne, których uczestniczy się przez nabycie losu lub innego dowodu udziału grze, a podmiot urządzający loterię oferuje wyłącznie wygrane pieniężne;
 5) gry wkarty: black jack, poker, baccarat;
-6) gry wkoÊci;
-7) gra bingo pieni´˝ne, wktórej uczestniczy si´ przez nabycie przypadkowych zestawów liczb z ustalonego z góry zbioru liczb, a podmiot urzàdzajàcy gr´ oferuje wy∏àcznie wygrane pieni´˝ne, których wysokoÊç zale˝y od ∏àcznej kwoty wp∏aconych stawek;
-8) gra bingo fantowe, której uczestniczy si´ przez nabycie przypadkowych zestawów liczb z ustalonego z góry zbioru liczb, a podmiot urzàdzajàcy gr´ oferuje wy∏àcznie wygrane rzeczowe;
-9) loterie fantowe, których uczestniczy si´ przez nabycie losu lub innego dowodu udzia∏u grze, a podmiot urzàdzajàcy loteri´ oferuje wy∏àcznie wygrane rzeczowe;
-10) loterie promocyjne, których uczestniczy si´ przez nabycie towaru, us∏ugi lub innego dowodu udzia∏u grze i tym samym nieodp∏atnie uczestniczy si´ loterii, a podmiot urzàdzajàcy loteri´ oferuje wygrane pieni´˝ne lub rzeczowe;
-11) loterie audioteksowe, których uczestniczy si´ przez:
-a) odp∏atne po∏àczenie telefoniczne lub
-b) wysy∏anie krótkich wiadomoÊci tekstowych (SMS) zu˝yciem publicznej sieci telekomunikacyjnej a podmiot urzàdzajàcy loteri´ oferuje wygrane pieni´˝ne lub rzeczowe.
-2. Zak∏adami wzajemnymi sà zak∏ady wygrane pieni´˝ne lub rzeczowe, polegajàce na odgadywaniu:
-1) wyników sportowego wspó∏zawodnictwa ludzi lub zwierzàt, których uczestnicy wp∏acajà staw——————— nicznych, wtym komputerowych, owygrane pieni´˝ne lub rzeczowe, wktórych gra zawiera element losowoÊci.
-4. Wygranà rzeczowà wgrach na automatach jest równie˝ wygrana polegajàca na mo˝liwoÊci przed∏u˝ania gry bez koniecznoÊci wp∏aty stawki za udzia∏ grze, a tak˝e mo˝liwoÊç rozpocz´cia nowej gry przez wykorzystanie wygranej rzeczowej uzyskanej wpoprzedniej grze.
-5. Grami na automatach sà tak˝e gry na urzàdzeniach mechanicznych, elektromechanicznych lub elektronicznych, wtym komputerowych, organizowane celach komercyjnych, których grajàcy nie ma mo˝liwoÊci uzyskania wygranej pieni´˝nej lub rzeczowej, ale gra ma charakter losowy.
-6. Minister w∏aÊciwy do spraw finansów publicznych rozstrzyga, drodze decyzji, czy gra lub zak∏ad posiadajàce cechy wymienione ust. 1—5 sà grà losowà, zak∏adem wzajemnym albo grà na automacie wrozumieniu ustawy.
-3.Urzàdzanie iprowadzenie dzia∏alnoÊci wzakresie gier losowych, zak∏adów wzajemnych i gier na automatach jest dozwolone wy∏àcznie na zasadach okreÊlonych wustawie.
-4.1. Ilekroç wustawie jest mowa o:
-1) oÊrodkach gier rozumie si´ przez to:
-a) kasyno gry jako wydzielone miejsce, którym prowadzi si´ gry cylindryczne, gry wkarty, gry koÊci lub gry na automatach, na podstawie zatwierdzonego regulaminu, przy czym minimalna ∏àczna liczba urzàdzanych gier cylindrycznych igier wkarty wynosi 4, aliczba zainstalowanych automatów wynosi od 5 do 70sztuk,
-b) salon gry bingo pieni´˝ne jako wydzielone miejsce, którym prowadzi si´ gr´ bingo pieni´˝ne na podstawie zatwierdzonego regulaminu;
-2) punkcie przyjmowania zak∏adów wzajemnych rozumie si´ przez to wydzielone miejsce, którym przyjmowane sà zak∏ady totalizatora lub bukmacherstwa, na podstawie zatwierdzonego regulaminu.
-2. Ilekroç ustawie jest mowa grach hazardowych, rozumie si´ przez to gry losowe, zak∏ady wzajemne igry na automatach, októrych mowa wart. 2.
-5.1. Prowadzenie dzia∏alnoÊci wzakresie gier konkurencji i konsumentów zakresie ochrony konkurencji.
-6. 1. Dzia∏alnoÊç zakresie gier cylindrycznych, gier karty, gier koÊci oraz gier na automatach mo˝e byç prowadzona na podstawie udzielonej koncesji na prowadzenie kasyna gry.
-2. Dzia∏alnoÊç wzakresie gry bingo pieni´˝ne mo˝e byç prowadzona na podstawie udzielonego zezwolenia na prowadzenie salonu gry bingo pieni´˝ne.
-3. Dzia∏alnoÊç zakresie zak∏adów wzajemnych mo˝e byç prowadzona na podstawie udzielonego zezwolenia na urzàdzanie zak∏adów wzajemnych.
-4. Dzia∏alnoÊç zakresie okreÊlonym ust. 1—3 mo˝e byç prowadzona wy∏àcznie formie spó∏ki akcyjnej lub spó∏ki z ograniczonà odpowiedzialnoÊcià, majàcej siedzib´ na terytorium Rzeczypospolitej Polskiej.
-5. Akcje (udzia∏y) spó∏kach, których mowa wust. 4, mo˝e nabywaç lub obejmowaç:
-1) osoba prawna lub spó∏ka niemajàca osobowoÊci prawnej, której siedziba znajduje si´ na terytorium paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy oEuropejskim Obszarze Gospodarczym;
-2) osoba fizyczna b´dàca obywatelem paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa cz∏onkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy oEuropejskim Obszarze Gospodarczym.
-6. Do spó∏ek, októrych mowa wust. 4, stosuje si´ przepisy ustawy z dnia 15 wrzeÊnia 2000 r. Kodeks spó∏ek handlowych (Dz. U. 94, poz. 1037, z póên.
-zm. ), chyba ˝e ustawa stanowi inaczej.
-7. 1. Loterie fantowe, gry bingo fantowe i loterie promocyjne mogà byç urzàdzane, na podstawie udzielonego zezwolenia, przez osoby fizyczne, osoby prawne lub jednostki organizacyjne niemajàce osobowoÊci prawnej.
-2. Loterie audioteksowe mogà byç urzàdzane, na podstawie udzielonego zezwolenia, wy∏àcznie przez spó∏ki akcyjne lub spó∏ki zograniczonà odpowiedzialnoÊcià, majàce siedzib´ na terytorium Rzeczypospolitej Polskiej. Do tych spó∏ek stosuje si´ przepisy ustawy zdnia 15 wrzeÊnia 2000 r. Kodeks spó∏ek handlowych, chyba ˝e ustawa stanowi inaczej.
-——————— Warunki urzàdzania gier hazardowych
-9. Warunkiem urzàdzania gier obj´tych monopolem paƒstwa jest zatwierdzenie ich regulaminu przez ministra w∏aÊciwego do spraw finansów publicznych.
-10. 1. WysokoÊç kapita∏u zak∏adowego spó∏ki akcyjnej lub spó∏ki zograniczonà odpowiedzialnoÊcià prowadzàcej dzia∏alnoÊç wzakresie:
-1) gier urzàdzanych wkasynie gry nie mo˝e wynosiç mniej ni˝ 4 000 000 z∏;
-2) gier urzàdzanych salonie gry bingo pieni´˝ne lub przyjmowania zak∏adów wzajemnych nie mo˝e wynosiç mniej ni˝ 2 000 000 z∏.
-2. Wspó∏kach, októrych mowa wust. 1, nie mo˝e byç akcji (udzia∏ów) uprzywilejowanych, amaksymalna wartoÊç akcji (udzia∏ów) przys∏ugujàcych jednemu podmiotowi nie mo˝e przekraczaç jednej trzeciej wartoÊci kapita∏u zak∏adowego spó∏ki.
-3. Przepisu ust. 2 nie stosuje si´ do jednoosobowych spó∏ek Skarbu Paƒstwa.
-4. W spó∏kach, których mowa ust. 1, powo∏uje si´ rady nadzorcze.
-5. Wspó∏ce akcyjnej, októrej mowa wust. 1, mogà byç wydawane wy∏àcznie akcje imienne.
-11. Dzia∏alnoÊç zakresie okreÊlonym art. 6 ust. 1—3 mo˝e byç prowadzona, pod warunkiem ˝e:
-1) akcjonariuszami (wspólnikami) posiadajàcymi akcje (udzia∏y), których wartoÊç przekracza jednà
-3) przed organami wymiaru sprawiedliwoÊci nie toczy si´ post´powanie przeciwko osobom wymienionym pkt 1 sprawach przest´pstw okreÊlonych wart. 299 ustawy zdnia 6 czerwca 1997 r.
+6) gry wkości;
+7) gra bingo pieniężne, wktórej uczestniczy się przez nabycie przypadkowych zestawów liczb z ustalonego z góry zbioru liczb, a podmiot urządzający grę oferuje wyłącznie wygrane pieniężne, których wysokość zależy od łącznej kwoty wpłaconych stawek;
+8) gra bingo fantowe, której uczestniczy się przez nabycie przypadkowych zestawów liczb z ustalonego z góry zbioru liczb, a podmiot urządzający grę oferuje wyłącznie wygrane rzeczowe;
+9) loterie fantowe, których uczestniczy się przez nabycie losu lub innego dowodu udziału grze, a podmiot urządzający loterię oferuje wyłącznie wygrane rzeczowe;
+10) loterie promocyjne, których uczestniczy się przez nabycie towaru, usługi lub innego dowodu udziału grze i tym samym nieodpłatnie uczestniczy się loterii, a podmiot urządzający loterię oferuje wygrane pieniężne lub rzeczowe;
+11) loterie audioteksowe, których uczestniczy się przez:
+a) odpłatne połączenie telefoniczne lub
+b) wysyłanie krótkich wiadomości tekstowych (SMS) zużyciem publicznej sieci telekomunikacyjnej a podmiot urządzający loterię oferuje wygrane pieniężne lub rzeczowe.
+2. Zakładami wzajemnymi są zakłady wygrane pieniężne lub rzeczowe, polegające na odgadywaniu:
+1) wyników sportowego współzawodnictwa ludzi lub zwierząt, których uczestnicy wpłacają staw——————— nicznych, wtym komputerowych, owygrane pieniężne lub rzeczowe, wktórych gra zawiera element losowości.
+4. Wygraną rzeczową wgrach na automatach jest również wygrana polegająca na możliwości przedłużania gry bez konieczności wpłaty stawki za udział grze, a także możliwość rozpoczęcia nowej gry przez wykorzystanie wygranej rzeczowej uzyskanej wpoprzedniej grze.
+5. Grami na automatach są także gry na urządzeniach mechanicznych, elektromechanicznych lub elektronicznych, wtym komputerowych, organizowane celach komercyjnych, których grający nie ma możliwości uzyskania wygranej pieniężnej lub rzeczowej, ale gra ma charakter losowy.
+6. Minister właściwy do spraw finansów publicznych rozstrzyga, drodze decyzji, czy gra lub zakład posiadające cechy wymienione ust. 1—5 są grą losową, zakładem wzajemnym albo grą na automacie wrozumieniu ustawy.
+3.Urządzanie iprowadzenie działalności wzakresie gier losowych, zakładów wzajemnych i gier na automatach jest dozwolone wyłącznie na zasadach określonych wustawie.
+4.1. Ilekroć wustawie jest mowa o:
+1) ośrodkach gier rozumie się przez to:
+a) kasyno gry jako wydzielone miejsce, którym prowadzi się gry cylindryczne, gry wkarty, gry kości lub gry na automatach, na podstawie zatwierdzonego regulaminu, przy czym minimalna łączna liczba urządzanych gier cylindrycznych igier wkarty wynosi 4, aliczba zainstalowanych automatów wynosi od 5 do 70sztuk,
+b) salon gry bingo pieniężne jako wydzielone miejsce, którym prowadzi się grę bingo pieniężne na podstawie zatwierdzonego regulaminu;
+2) punkcie przyjmowania zakładów wzajemnych rozumie się przez to wydzielone miejsce, którym przyjmowane są zakłady totalizatora lub bukmacherstwa, na podstawie zatwierdzonego regulaminu.
+2. Ilekroć ustawie jest mowa grach hazardowych, rozumie się przez to gry losowe, zakłady wzajemne igry na automatach, októrych mowa wart. 2.
+5.1. Prowadzenie działalności wzakresie gier konkurencji i konsumentów zakresie ochrony konkurencji.
+6. 1. Działalność zakresie gier cylindrycznych, gier karty, gier kości oraz gier na automatach może być prowadzona na podstawie udzielonej koncesji na prowadzenie kasyna gry.
+2. Działalność wzakresie gry bingo pieniężne może być prowadzona na podstawie udzielonego zezwolenia na prowadzenie salonu gry bingo pieniężne.
+3. Działalność zakresie zakładów wzajemnych może być prowadzona na podstawie udzielonego zezwolenia na urządzanie zakładów wzajemnych.
+4. Działalność zakresie określonym ust. 1—3 może być prowadzona wyłącznie formie spółki akcyjnej lub spółki z ograniczoną odpowiedzialnością, mającej siedzibę na terytorium Rzeczypospolitej Polskiej.
+5. Akcje (udziały) spółkach, których mowa wust. 4, może nabywać lub obejmować:
+1) osoba prawna lub spółka niemająca osobowości prawnej, której siedziba znajduje się na terytorium państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy oEuropejskim Obszarze Gospodarczym;
+2) osoba fizyczna będąca obywatelem państwa członkowskiego Unii Europejskiej lub państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy oEuropejskim Obszarze Gospodarczym.
+6. Do spółek, októrych mowa wust. 4, stosuje się przepisy ustawy z dnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. 94, poz. 1037, z póên.
+zm. ), chyba że ustawa stanowi inaczej.
+7. 1. Loterie fantowe, gry bingo fantowe i loterie promocyjne mogą być urządzane, na podstawie udzielonego zezwolenia, przez osoby fizyczne, osoby prawne lub jednostki organizacyjne niemające osobowości prawnej.
+2. Loterie audioteksowe mogą być urządzane, na podstawie udzielonego zezwolenia, wyłącznie przez spółki akcyjne lub spółki zograniczoną odpowiedzialnością, mające siedzibę na terytorium Rzeczypospolitej Polskiej. Do tych spółek stosuje się przepisy ustawy zdnia 15 września 2000 r. Kodeks spółek handlowych, chyba że ustawa stanowi inaczej.
+——————— Warunki urządzania gier hazardowych
+9. Warunkiem urządzania gier objętych monopolem państwa jest zatwierdzenie ich regulaminu przez ministra właściwego do spraw finansów publicznych.
+10. 1. Wysokość kapitału zakładowego spółki akcyjnej lub spółki zograniczoną odpowiedzialnością prowadzącej działalność wzakresie:
+1) gier urządzanych wkasynie gry nie może wynosić mniej niż 4 000 000 zł;
+2) gier urządzanych salonie gry bingo pieniężne lub przyjmowania zakładów wzajemnych nie może wynosić mniej niż 2 000 000 zł.
+2. Współkach, októrych mowa wust. 1, nie może być akcji (udziałów) uprzywilejowanych, amaksymalna wartość akcji (udziałów) przysługujących jednemu podmiotowi nie może przekraczać jednej trzeciej wartości kapitału zakładowego spółki.
+3. Przepisu ust. 2 nie stosuje się do jednoosobowych spółek Skarbu Państwa.
+4. W spółkach, których mowa ust. 1, powołuje się rady nadzorcze.
+5. Współce akcyjnej, októrej mowa wust. 1, mogą być wydawane wyłącznie akcje imienne.
+11. Działalność zakresie określonym art. 6 ust. 1—3 może być prowadzona, pod warunkiem że:
+1) akcjonariuszami (wspólnikami) posiadającymi akcje (udziały), których wartość przekracza jedną
+3) przed organami wymiaru sprawiedliwości nie toczy się postępowanie przeciwko osobom wymienionym pkt 1 sprawach przestępstw określonych wart. 299 ustawy zdnia 6 czerwca 1997 r.
 Kodeks karny (Dz. U. 88, poz. 553, z póên.
 zm.
-setnà kapita∏u zak∏adowego spó∏ki, lub cz∏onkami zarzàdu, rady nadzorczej lub komisji rewizyjnej spó∏ki sà osoby fizyczne, osoby prawne lub spó∏ki niemajàce osobowoÊci prawnej, co do których nie istniejà uzasadnione zastrze˝enia z punktu widzenia bezpieczeƒstwa paƒstwa, porzàdku publicznego lub bezpieczeƒstwa interesów ekonomicznych paƒstwa;
-), zwanej dalej „Kodeksem karnym”.
-12. 1. Osoby fizyczne b´dàce wspólnikami (akcjonariuszami) spó∏ki prowadzàcej dzia∏alnoÊç zakresie okreÊlonym art. 6 ust. 1—3, reprezentujàce co najmniej jednà setnà kapita∏u zak∏adowego, oraz cz∏onkowie zarzàdu, rady nadzorczej lub komisji rewizyjnej takiej spó∏ki powinni posiadaç nienagannà opini´, szczególnoÊci nie mogà byç osobami skazanymi za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe.
-2. Osoby zarzàdzajàce podmiotem urzàdzajàcym loterie fantowe lub gr´ bingo fantowe oraz osoby reprezentujàce taki podmiot nie mogà byç osobami skazanymi za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe.
-3. Osoby, októrych mowa wust. 1 i2, sà obowiàzane, na ˝àdanie organu udzielajàcego koncesji lub zezwolenia, przedstawiç aktualne zaÊwiadczenie, ˝e nie by∏y skazane za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe.
-4. Przepisy ust. 1—3 stosuje si´ odpowiednio do nierezydentów b´dàcych osobami fizycznymi. Osoby te powinny ponadto przedstawiç odpowiednie, uwierzytelnione, aktualne zaÊwiadczenia, wystawione przez w∏aÊciwe w∏adze paƒstwa, którego sà obywatelami lub sta∏ymi mieszkaƒcami.
-13. Loterie fantowe, gry bingo fantowe, loterie promocyjne iloterie audioteksowe mogà byç urzàdzane jednorazowo skali ogólnokrajowej lub lokalnej zgodnie zzatwierdzonym regulaminem.
-14. 1. Urzàdzanie gier cylindrycznych, gier wkarty, gier wkoÊci oraz gier na automatach dozwolone jest wy∏àcznie wkasynach gry.
-——————— ——————— towej, grze telebingo oraz grze bingo fantowe nie moców 1 kasyno. Na ka˝de kolejne rozpocz´te 250 tys. ˝e byç ni˝sza ni˝ 30 % ∏àcznej ceny przeznaczonych do mieszkaƒców liczb´ dozwolonych kasyn gry zwi´ksza sprzeda˝y losów lub innych dowodów udzia∏u wgrze.
-si´ 1. ¸àczna liczba kasyn gry województwie nie mo˝e byç jednak wy˝sza ni˝ 1 kasyno na ka˝de pe∏ne 19. 1. Wygrane grach hazardowych wyp∏a650 tys. mieszkaƒców województwa. ca si´ (wydaje) okazicielom losów lub innych dowo2. Salony gry bingo pieni´˝ne mogà byç lokalizo- dów udzia∏u wtych grach lub za zwrotem tych dowowane wmiejscowoÊciach liczàcych do 100 tys. miesz- dów, chyba ˝e regulamin tych gier stanowi inaczej.
-kaƒców 1 salon. Na ka˝de kolejne rozpocz´te 100 tys. mieszkaƒców liczb´ dozwolonych salonów 2. Wyp∏ata (wydanie) wygranej mo˝e nastàpiç takzwi´ksza si´ o1. ¸àczna liczba salonów gry bingo pie- ˝e na rzecz innej osoby ni˝ okaziciel, którym mowa ni´˝ne województwie nie mo˝e jednak wy˝sza ni˝ ust. 1, je˝eli przedstawi on pe∏nomocnictwo z pod1 salon na ka˝de pe∏ne 300 tys. mieszkaƒców woje- pisem poÊwiadczonym notarialnie udzielone przez tawództwa. kà osob´ i sposób okreÊlony pe∏nomocnictwie, je˝eli jest zgodny z regulaminem gry. Pe∏nomocnic3. Liczb´ mieszkaƒców, októrej mowa wust. 1 i2, two mo˝e obejmowaç równie˝ upowa˝nienie do odustala Prezes G∏ównego Urz´du Statystycznego jako bioru zaÊwiadczenia ouzyskanej wygranej.
-liczb´ ludnoÊci faktycznie zamieszka∏ej na obszarze danej miejscowoÊci oraz województwa, wed∏ug stanu 3. Podmiot urzàdzajàcy gry hazardowe nie ma obona dzieƒ 31 grudnia roku poprzedzajàcego rok, wktó- wiàzku badania uprawnieƒ okaziciela losu lub innego rym prowadzàcy gry z∏o˝y∏ wniosek oudzielenie kon- dowodu udzia∏u grze, mo˝e jednak wstrzymaç wycesji na prowadzenie kasyna gry lub zezwolenia na p∏at´ (wydanie) wygranej na okres nieprzekraczajàcy prowadzenie salonu gry bingo pieni´˝ne. 30 dni, je˝eli zachodzà wàtpliwoÊci co do uprawnieƒ okaziciela do rozporzàdzania losem lub innym dowo4. Kasyna gry mogà byç tak˝e lokalizowane na dem udzia∏u grze. W przypadku nieuzasadnionego pe∏nomorskich statkach pasa˝erskich ipromach pasa- wstrzymania wyp∏aty (wydania) wygranej podmiot ˝erskich polskiej przynale˝noÊci, pod warunkiem ˝e urzàdzajàcy takà gr´ jest obowiàzany zap∏aciç odsetki gra prowadzona jest czasie rejsu i rozpoczyna si´ ustawowe za okres wstrzymania wyp∏aty (wydania).
-nie wczeÊniej ni˝ po up∏ywie 30 minut po wyp∏yni´ciu z portu i koƒczy si´ nie póêniej ni˝ na 30 minut przed 4. Nie dokonuje si´ wyp∏aty (wydania) wygranej wp∏yni´ciem do portu przeznaczenia. na podstawie losu lub innego dowodu udzia∏u wgrze hazardowej, je˝eli nie mo˝na stwierdziç jego auten16. 1. Dochód z loterii fantowej i gry bingo tycznoÊci lub ustaliç jego numeru.
-fantowe przeznaczany jest ca∏oÊci na realizacj´ okreÊlonych zezwoleniu i regulaminie gry celów 5. W razie utraty lub zniszczenia losu albo innego spo∏ecznie u˝ytecznych, szczególnoÊci dobroczyn- dowodu udzia∏u grze hazardowej wystawionego nych. imiennie albo na okaziciela, stwierdzajàcego udzia∏
-2. Podmiot urzàdzajàcy loteri´ fantowà lub gr´ takiej grze, uczestnikowi takiej gry nie przys∏ugujà bingo fantowe jest obowiàzany przedstawiç organo- ˝adne roszczenia wobec podmiotu urzàdzajàcego gr´, wi, który udzieli∏ zezwolenia, terminie 30 dni od chyba ˝e regulamin takiej gry stanowi inaczej.
-dnia zakoƒczenia urzàdzanej gry, szczegó∏owà informacj´ orealizacji obowiàzku okreÊlonego wust. 1. 20. 1. Podmiot urzàdzajàcy gr´ hazardowà jest obowiàzany, na ˝àdanie uczestnika takiej gry, wysta17. 1. Podmiot urzàdzajàcy loteri´ pieni´˝nà, wiç imienne zaÊwiadczenie uzyskanej przez niego loteri´ fantowà lub gr´ bingo fantowe jest obowià- wygranej. ZaÊwiadczenie jest drukiem Êcis∏ego zarazany zabezpieczyç losy lub inne dowody udzia∏u chowania.
-takiej grze przed sfa∏szowaniem oraz przedwczesnym odczytaniem wyniku gry, szczególnoÊci 2. ZaÊwiadczenie mo˝e byç wystawione najpóêprzed przeÊwietleniem, otwarciem lub zdrapaniem niej dniu nast´pujàcym po dniu, którym uzyskafarby ochronnej izamkni´ciem lub ponownym nanie- no wygranà, lub po dniu, wktórym nastàpi∏a wyp∏ata sieniem farby ochronnej bez naruszenia struktury pa- (wydanie) wygranej.
+setną kapitału zakładowego spółki, lub członkami zarządu, rady nadzorczej lub komisji rewizyjnej spółki są osoby fizyczne, osoby prawne lub spółki niemające osobowości prawnej, co do których nie istnieją uzasadnione zastrzeżenia z punktu widzenia bezpieczeństwa państwa, porządku publicznego lub bezpieczeństwa interesów ekonomicznych państwa;
+), zwanej dalej ŃKodeksem karnym”.
+12. 1. Osoby fizyczne będące wspólnikami (akcjonariuszami) spółki prowadzącej działalność zakresie określonym art. 6 ust. 1—3, reprezentujące co najmniej jedną setną kapitału zakładowego, oraz członkowie zarządu, rady nadzorczej lub komisji rewizyjnej takiej spółki powinni posiadać nienaganną opinię, szczególności nie mogą być osobami skazanymi za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+2. Osoby zarządzające podmiotem urządzającym loterie fantowe lub grę bingo fantowe oraz osoby reprezentujące taki podmiot nie mogą być osobami skazanymi za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+3. Osoby, októrych mowa wust. 1 i2, są obowiązane, na żądanie organu udzielającego koncesji lub zezwolenia, przedstawić aktualne zaświadczenie, że nie były skazane za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+4. Przepisy ust. 1—3 stosuje się odpowiednio do nierezydentów będących osobami fizycznymi. Osoby te powinny ponadto przedstawić odpowiednie, uwierzytelnione, aktualne zaświadczenia, wystawione przez właściwe władze państwa, którego są obywatelami lub stałymi mieszkańcami.
+13. Loterie fantowe, gry bingo fantowe, loterie promocyjne iloterie audioteksowe mogą być urządzane jednorazowo skali ogólnokrajowej lub lokalnej zgodnie zzatwierdzonym regulaminem.
+14. 1. Urządzanie gier cylindrycznych, gier wkarty, gier wkości oraz gier na automatach dozwolone jest wyłącznie wkasynach gry.
+——————— ——————— towej, grze telebingo oraz grze bingo fantowe nie moców 1 kasyno. Na każde kolejne rozpoczęte 250 tys. że być niższa niż 30 % łącznej ceny przeznaczonych do mieszkańców liczbę dozwolonych kasyn gry zwiększa sprzedaży losów lub innych dowodów udziału wgrze.
+się 1. Ęączna liczba kasyn gry województwie nie może być jednak wyższa niż 1 kasyno na każde pełne 19. 1. Wygrane grach hazardowych wypła650 tys. mieszkańców województwa. ca się (wydaje) okazicielom losów lub innych dowo2. Salony gry bingo pieniężne mogą być lokalizo- dów udziału wtych grach lub za zwrotem tych dowowane wmiejscowościach liczących do 100 tys. miesz- dów, chyba że regulamin tych gier stanowi inaczej.
+kańców 1 salon. Na każde kolejne rozpoczęte 100 tys. mieszkańców liczbę dozwolonych salonów 2. Wypłata (wydanie) wygranej może nastąpić takzwiększa się o1. Ęączna liczba salonów gry bingo pie- że na rzecz innej osoby niż okaziciel, którym mowa niężne województwie nie może jednak wyższa niż ust. 1, jeżeli przedstawi on pełnomocnictwo z pod1 salon na każde pełne 300 tys. mieszkańców woje- pisem poświadczonym notarialnie udzielone przez tawództwa. ką osobę i sposób określony pełnomocnictwie, jeżeli jest zgodny z regulaminem gry. Pełnomocnic3. Liczbę mieszkańców, októrej mowa wust. 1 i2, two może obejmować również upoważnienie do odustala Prezes Głównego Urzędu Statystycznego jako bioru zaświadczenia ouzyskanej wygranej.
+liczbę ludności faktycznie zamieszkałej na obszarze danej miejscowości oraz województwa, według stanu 3. Podmiot urządzający gry hazardowe nie ma obona dzień 31 grudnia roku poprzedzającego rok, wktó- wiązku badania uprawnień okaziciela losu lub innego rym prowadzący gry złożył wniosek oudzielenie kon- dowodu udziału grze, może jednak wstrzymać wycesji na prowadzenie kasyna gry lub zezwolenia na płatę (wydanie) wygranej na okres nieprzekraczający prowadzenie salonu gry bingo pieniężne. 30 dni, jeżeli zachodzą wątpliwości co do uprawnień okaziciela do rozporządzania losem lub innym dowo4. Kasyna gry mogą być także lokalizowane na dem udziału grze. W przypadku nieuzasadnionego pełnomorskich statkach pasażerskich ipromach pasa- wstrzymania wypłaty (wydania) wygranej podmiot żerskich polskiej przynależności, pod warunkiem że urządzający taką grę jest obowiązany zapłacić odsetki gra prowadzona jest czasie rejsu i rozpoczyna się ustawowe za okres wstrzymania wypłaty (wydania).
+nie wcześniej niż po upływie 30 minut po wypłynięciu z portu i kończy się nie póêniej niż na 30 minut przed 4. Nie dokonuje się wypłaty (wydania) wygranej wpłynięciem do portu przeznaczenia. na podstawie losu lub innego dowodu udziału wgrze hazardowej, jeżeli nie można stwierdzić jego auten16. 1. Dochód z loterii fantowej i gry bingo tyczności lub ustalić jego numeru.
+fantowe przeznaczany jest całości na realizację określonych zezwoleniu i regulaminie gry celów 5. W razie utraty lub zniszczenia losu albo innego społecznie użytecznych, szczególności dobroczyn- dowodu udziału grze hazardowej wystawionego nych. imiennie albo na okaziciela, stwierdzającego udział
+2. Podmiot urządzający loterię fantową lub grę takiej grze, uczestnikowi takiej gry nie przysługują bingo fantowe jest obowiązany przedstawić organo- żadne roszczenia wobec podmiotu urządzającego grę, wi, który udzielił zezwolenia, terminie 30 dni od chyba że regulamin takiej gry stanowi inaczej.
+dnia zakończenia urządzanej gry, szczegółową informację orealizacji obowiązku określonego wust. 1. 20. 1. Podmiot urządzający grę hazardową jest obowiązany, na żądanie uczestnika takiej gry, wysta17. 1. Podmiot urządzający loterię pieniężną, wić imienne zaświadczenie uzyskanej przez niego loterię fantową lub grę bingo fantowe jest obowią- wygranej. Zaświadczenie jest drukiem ścisłego zarazany zabezpieczyć losy lub inne dowody udziału chowania.
+takiej grze przed sfałszowaniem oraz przedwczesnym odczytaniem wyniku gry, szczególności 2. Zaświadczenie może być wystawione najpóêprzed prześwietleniem, otwarciem lub zdrapaniem niej dniu następującym po dniu, którym uzyskafarby ochronnej izamknięciem lub ponownym nanie- no wygraną, lub po dniu, wktórym nastąpiła wypłata sieniem farby ochronnej bez naruszenia struktury pa- (wydanie) wygranej.
 pieru.
-2. Podmiot urzàdzajàcy loteri´ pieni´˝nà, loteri´ fantowà igr´ bingo fantowe jest obowiàzany zg∏aszaç pisemnie w∏aÊciwemu naczelnikowi urz´du celnego zamiar zniszczenia losów, kartonów lub innych dowodów udzia∏u takiej grze co najmniej na 7 dni przed
-3. Podmiot urzàdzajàcy gr´ hazardowà jest obowiàzany prowadziç ewidencj´ zaÊwiadczeƒ oraz przechowywaç odpisy wydanych zaÊwiadczeƒ przez okres 5 lat, liczàc od koƒca roku kalendarzowego, wktórym uzyskano wygranà lub nastàpi∏a wyp∏ata (wydanie) wygranej. Ewidencja zaÊwiadczeƒ jest udost´pniana, mniej 20 000 z∏.
-6. Podmiot urzàdzajàcy gry hazardowe przechowuje ewidencje, których mowa ust. 3 i 5, przez okres 5 lat, liczàc od koƒca roku kalendarzowego, wktórym uzyskano wygranà lub nastàpi∏a jej wyp∏ata (wydanie).
-7. Wewidencji, októrej mowa wust. 5, umieszcza si´:
-1) dane osoby wygrywajàcej (imi´ i nazwisko, rodzaj i numer dokumentu potwierdzajàcego to˝samoÊç, numer PESEL, awprzypadku braku numeru PESEL adres zamieszkania, dat´ urodzenia i obywatelstwo);
-2) wartoÊç wyp∏aconej (wydanej) wygranej;
-3) dat´ wyp∏aty (wydania).
-8. WysokoÊç wygranej albo przegranej wgrze hazardowej stanowi tajemnic´ jej uczestnika, której jest obowiàzany przestrzegaç podmiot urzàdzajàcy t´ gr´.
-Informacje wysokoÊci wygranej albo przegranej sà ujawniane wy∏àcznie na ˝àdanie Generalnego Inspektora Informacji Finansowej, funkcjonariusza celnego oraz inspektora kontroli skarbowej, atak˝e sàdu iprokuratora wzwiàzku ztoczàcym si´ post´powaniem.
-9. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, wdrodze rozporzàdzenia:
-1) wzór zaÊwiadczenia uzyskanej wygranej oraz sposób wydawania zaÊwiadczeƒ, uwzgl´dniajàc koniecznoÊç okreÊlenia we wzorze zaÊwiadczenia szczególnoÊci danych osobowych osoby ubiegajàcej si´ wydanie zaÊwiadczenia, rodzaju gry hazardowej oraz terminu uzyskania iwartoÊci wyp∏aconej (wydanej) wygranej;
-2) sposób ewidencjonowania zaÊwiadczeƒ, prowadzenia ewidencji, których mowa ust. 3 i 5, uwzgl´dniajàc zapewnienie mo˝liwoÊci weryfikacji danych osoby, która uzyska∏a wygranà, i wartoÊci wygranej.
-10. Minister w∏aÊciwy do spraw finansów publicznych wyznaczy, drodze rozporzàdzenia, naczelnika lub naczelników urz´dów celnych w∏aÊciwych do prowadzenia spraw, których mowa ust. 4, uwzgl´dniajàc potrzeb´ sprawnego wykonywania zadania.
-21. 1. Roszczenia zwiàzane z udzia∏em grze hazardowej przedawniajà si´ z up∏ywem 6 miesi´cy od dnia wymagalnoÊci.
-2. Bieg przedawnienia roszczeƒ ulega zawieszeniu oÊrodka gier i punktu przyjmowania zak∏adów wzajemnych.
-2. Podmiot urzàdzajàcy gry hazardowe jest obowiàzany zapoznaç uczestników gier przed przystàpieniem do gry:
-1) ze sposobem dzia∏ania automatu lub urzàdzenia do gier;
-2) z zasadami gry i mo˝liwoÊciami wyboru wariantów gry lub zak∏adu wzajemnego;
-3) z innymi, wymienionymi regulaminie, zastrze˝eniami dotyczàcymi sposobu gry.
-3. Podmiot urzàdzajàcy gry hazardowe utrzymuje automaty oraz urzàdzenia do gier izak∏adów wzajemnych wstanie gwarantujàcym gr´ zgodnà zregulaminem, a uczestnikom gry bezpieczne korzystanie znich.
-4. Podmiot, którym mowa ust. 1, celu ochrony interesu uczestników gry lub zak∏adu wzajemnego i osób trzecich mo˝e odmówiç wst´pu albo usunàç z oÊrodka gier albo punktu przyjmowania zak∏adów wzajemnych osob´, która nie przestrzega postanowieƒ regulaminu gry lub zak∏adu wzajemnego lub stosuje techniki gry mogàce wp∏ynàç na przypadkowoÊç wyniku gry przez:
-1) sporzàdzanie notatek dotyczàcych przebiegu gry przy u˝yciu notesów, elektronicznych urzàdzeƒ obliczeniowych, zapisów audio lub wideo;
-2) pos∏ugiwanie si´ ∏àcznoÊcià telefonicznà, radiowà lub podobnà wcelu sporzàdzania lub wykorzystania analiz przebiegu gry.
-23.1. Automaty iurzàdzenia do gier powinny byç przystosowane do ochrony praw grajàcych irealizacji przepisów ustawy.
-2. Automaty i urzàdzenia do gier nie mogà stanowiç w∏asnoÊci osób trzecich, z wyjàtkiem przypadku gdy sà one przedmiotem umowy leasingu.
-3. Przepisu ust. 2 nie stosuje si´ wprzypadku loterii promocyjnej, loterii audioteksowej, loterii fantowej igry bingo fantowe oraz zak∏adów wzajemnych.
-Rozdzia∏ 3 Âwiadectwa zawodowe
-24. 1. Osoby pe∏niàce funkcj´ lub zajmujàce stanowisko, zktórym wià˝e si´ obowiàzek:
-1) nadzorowania gier hazardowych, wszczególnoÊci: dyrektorzy oddzia∏ów, oÊrodków gier oraz ich zast´pcy, kierownicy i ich zast´pcy, osoby nadzorujàce gry telebingo, loterie fantowe, gry bingo fan2. Obowiàzek okreÊlony wust. 1 nie dotyczy:
-1) osób dystrybuujàcych losy loterii pieni´˝nych iloterii fantowych, dowody udzia∏u wgrze telebingo, bingo pieni´˝ne i bingo fantowe oraz dowody udzia∏u wloterii promocyjnej;
-2) osób sprzedajàcych ˝etony lub kredytujàcych stawki wautomacie;
-3) osób obs∏ugujàcych terminale kasowe wsklepach, na terenie których znajduje si´ kolektura gier liczbowych, sprzedajàcych dowody udzia∏u grach liczbowych wystandaryzowanych parametrach, przez co rozumie si´ sprzeda˝ dowodów udzia∏u grach liczbowych wy∏àcznie z wykorzystaniem specjalnych kart metodà chybi∏–trafi∏ lub z zapisanymi przez gracza w∏asnymi ustawieniami gry.
-3. Osoby pierwszy raz zatrudnione do bezpoÊredniego prowadzenia gier hazardowych majà obowiàzek uzyskaç Êwiadectwo zawodowe terminie nie d∏u˝szym ni˝ 4 miesiàce od dnia ich zatrudnienia.
-4. Przepis ust. 3 stosuje si´ odpowiednio do osób wykonujàcych czynnoÊci bezpoÊredniego prowadzenia gier hazardowych na innej podstawie ni˝ umowa oprac´.
-25.1. Âwiadectwo zawodowe wydaje minister w∏aÊciwy do spraw finansów publicznych osobie, która spe∏nia ∏àcznie nast´pujàce warunki:
-1) ma nienagannà opini´;
-2) pos∏uguje si´ j´zykiem polskim wstopniu wystarczajàcym do pe∏nienia funkcji lub zajmowania stanowiska, októre si´ ubiega;
-3) nie by∏a skazana za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe;
-4) posiada wiedz´ potwierdzonà egzaminem zawodowym.
-2. Âwiadectwo zawodowe wydaje si´ na okres 3 lat.
-3. Egzamin zawodowy polega na sprawdzeniu znajomoÊci przepisów ograch hazardowych, wzakresie niezb´dnym do pe∏nienia funkcji lub zajmowania stanowiska. Warunkiem przystàpienia do egzaminu zawodowego jest wniesienie op∏aty egzaminacyjnej.
-4. Egzamin zawodowy przeprowadza komisja egegzaminacyjnej nie mo˝e byç osoba, która prowadzi szkolenia dla kandydatów zakresie tematyki obj´tej egzaminem lub jest autorem pozycji dydaktycznych obejmujàcych tematyk´ gier hazardowych.
-5. Cz∏onkowie komisji egzaminacyjnej otrzymujà wynagrodzenie za przeprowadzenie egzaminu zawodowego, nie wy˝sze ni˝ 40 % minimalnego wynagrodzenia za prac´, ustalonego na podstawie przepisów ustawy z dnia 10 paêdziernika 2002 r. minimalnym wynagrodzeniu za prac´ (Dz. U. 200, poz. 1679, z 2004 r. 240, poz. 2407 oraz z 2005 r. 157, poz. 1314).
-6. W zakresie gier obj´tych monopolem paƒstwa minister w∏aÊciwy do spraw finansów publicznych mo˝e uznaç za równowa˝ne ze Êwiadectwami zawodowymi Êwiadectwa wydane przez wyspecjalizowanà organizacj´ prowadzàcà szkolenia zakresie gier hazardowych. Podmiot wykonujàcy monopol jest obowiàzany przed∏o˝yç ministrowi w∏aÊciwemu do spraw finansów publicznych program tych szkoleƒ.
-7. Owydanie Êwiadectwa zawodowego albo uznanie Êwiadectwa, którym mowa ust. 6, wyst´puje podmiot urzàdzajàcy gry hazardowe.
-8. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, wdrodze rozporzàdzenia:
-1) sposób uzyskiwania Êwiadectwa zawodowego, tym warunki organizowania i regulamin przeprowadzania egzaminu zawodowego oraz sposób dzia∏ania komisji egzaminacyjnej, uwzgl´dniajàc potrzeb´ w∏aÊciwego sprawdzenia wiedzy zakresie przepisów ograch hazardowych;
-2) wysokoÊç wynagrodzenia cz∏onków komisji egzaminacyjnej, uwzgl´dniajàc nak∏ad pracy niezb´dny do przeprowadzenia egzaminu zawodowego;
-3) wzór Êwiadectwa zawodowego, uwzgl´dniajàc wszczególnoÊci okreÊlenie wÊwiadectwie danych osobowych osoby ubiegajàcej si´ wydanie Êwiadectwa oraz zajmowanego stanowiska lub pe∏nionej funkcji.
-26. Minister w∏aÊciwy do spraw finansów publicznych mo˝e cofnàç, wdrodze decyzji, Êwiadectwo zawodowe lub uznanie Êwiadectwa, je˝eli osoba, która je uzyska∏a, przesta∏a spe∏niaç warunki okreÊlone art. 25 ust. 1 pkt 1 lub 3.
-zaminacyjna sk∏adajàca si´ z3 osób, wtym: Rozdzia∏ 4
-1) 2 osób wyznaczonych przez ministra w∏aÊciwego Ograniczenia wurzàdzaniu gier hazardowych do spraw finansów publicznych spoÊród urz´dników zatrudnionych wurz´dzie obs∏ugujàcym tego 27. 1. Wst´p do oÊrodków gier oraz do punkwgrach osób, które nie ukoƒczy∏y 18 roku ˝ycia.
-4. Wprzypadku wàtpliwoÊci co do wieku uczestnika gry hazardowej, osoba kierujàca oÊrodkiem gier lub przez nià upowa˝niona, osoba sprzedajàca losy lub inne dowody udzia∏u wgrach losowych oraz osoba przyjmujàca zak∏ady wzajemne jest upowa˝niona do ˝àdania okazania dokumentu potwierdzajàcego to˝samoÊç iwiek uczestnika gry hazardowej.
-28. 1. Podmiot prowadzàcy dzia∏alnoÊç zakresie gier hazardowych nie mo˝e powierzyç innemu podmiotowi wykonywania czynnoÊci zwiàzanych zurzàdzaniem tych gier, zzastrze˝eniem ust. 2—5.
-2. Spó∏ka prowadzàca dzia∏alnoÊç zakresie gier liczbowych, loterii pieni´˝nych lub zak∏adów wzajemnych mo˝e powierzyç innemu podmiotowi, na podstawie umowy agencyjnej, sprzeda˝ losów lub innych dowodów udzia∏u wgrze oraz przyjmowanie zak∏adów i stawek, a tak˝e wyp∏at´ (wydanie) wygranych do wysokoÊci okreÊlonej regulaminie gry lub zak∏adu.
-3. Powierzenie wykonywania czynnoÊci okreÊlonych wust. 2 mo˝e nastàpiç wy∏àcznie, je˝eli:
-1) podmiot, który ma wykonywaç powierzone czynnoÊci, posiada nienagannà opini´, wszczególnoÊci nie by∏ skazany za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe;
-2) podmiot, który ma wykonywaç powierzone czynnoÊci, nie zalega z zap∏atà podatków stanowiàcych dochód bud˝etu paƒstwa oraz nale˝noÊci celnych, sk∏adek na ubezpieczenia spo∏eczne oraz sk∏adek na ubezpieczenie zdrowotne;
-3) wobec podmiotu, który ma wykonywaç powierzone czynnoÊci, nie istniejà uzasadnione zastrze˝enia z punktu widzenia bezpieczeƒstwa paƒstwa, porzàdku publicznego lub bezpieczeƒstwa interesów ekonomicznych paƒstwa;
-4) kapita∏ zak∏adowy, Êrodki finansowe lub inny majàtek przeznaczony na wykonywanie powierzonych czynnoÊci nie pochodzi z nielegalnych lub nieujawnionych êróde∏.
-4. Wprzypadku osób prawnych ijednostek niemajàcych osobowoÊci prawnej wymogi okreÊlone ust. 3 pkt 1 i 3 dotyczà odpowiednio akcjonariuszy (wspólników) reprezentujàcych co najmniej jednà setnà kapita∏u zak∏adowego, cz∏onków zarzàdu, rady nadzorczej i komisji rewizyjnej albo osób zarzàdzajàcych oraz osób reprezentujàcych dany podmiot.
-5. Agent nie mo˝e zleciç innemu podmiotowi wyust. 3 lub nie przeka˝e na ˝àdanie ministra w∏aÊciwego do spraw finansów publicznych dokumentów, których mowa ust. 6, podmiot prowadzàcy dzia∏alnoÊç wzakresie gier liczbowych, loterii pieni´˝nych lub zak∏adów wzajemnych jest zobowiàzany do natychmiastowego rozwiàzania umowy agencyjnej.
-29. 1. Zabrania si´ reklamy ipromocji gier cylindrycznych, gier wkarty, gier wkoÊci, zak∏adów wzajemnych oraz gier na automatach.
-2. Zabrania si´ informowania sponsorowaniu przez podmiot prowadzàcy dzia∏alnoÊç wzakresie gier cylindrycznych, gier wkarty, gier wkoÊci, przyjmowania zak∏adów wzajemnych oraz gier na automatach.
-3. Dopuszcza si´ informowanie sponsorowaniu przez podmiot prowadzàcy dzia∏alnoÊç wy∏àcznie zakresie przyjmowania zak∏adów wzajemnych albo t´ dzia∏alnoÊç ∏àcznie zinnà dzia∏alnoÊcià niepodlegajàcà ograniczeniom zakresie reklamy, promocji lub informowania sponsorowaniu wy∏àcznie przez prezentowanie informacji zawierajàcej nazw´ lub innego oznaczenia indywidualizujàcego sponsora.
-4. Zakazy okreÊlone ust. 1 i 2 dotyczà osób fizycznych, osób prawnych oraz jednostek organizacyjnych niemajàcych osobowoÊci prawnej, które zlecajà lub prowadzà czynnoÊci, których mowa ust. 1 i 2, umieszczajà reklam´ lub informacj´ albo czerpià korzyÊci ztakich czynnoÊci.
-5. Zakazy okreÊlone wust. 1 i2 nie obejmujà reklamy i promocji prowadzonej wewnàtrz kasyna gry i punktu przyjmowania zak∏adów wzajemnych oraz oznaczenia nazwà, na zewnàtrz budynku, miejsca, którym znajduje si´ kasyno gry lub punkt przyjmowania zak∏adów wzajemnych.
-6. Przez reklam´ gier cylindrycznych, gier wkarty, gier koÊci, zak∏adów wzajemnych lub gier na automatach rozumie si´ publiczne rozpowszechnianie znaków towarowych lub symboli graficznych iinnych oznaczeƒ z nimi zwiàzanych, a tak˝e nazw i symboli graficznych podmiotów prowadzàcych dzia∏alnoÊç zakresie gier cylindrycznych, gier karty, gier wkoÊci, zak∏adów wzajemnych lub gier na automatach oraz informacji omiejscach, wktórych takie gry lub zak∏ady sà urzàdzane, imo˝liwoÊciach uczestnictwa.
-7. Przez promocj´ gier cylindrycznych, gier karty, gier wkoÊci, zak∏adów wzajemnych lub gier na automatach rozumie si´ publicznà prezentacj´ tych gier lub zak∏adów, rozdawanie rekwizytów z nimi zwiàzanych, wr´czanie ˝etonów lub dowodów uczestnictwa tych grach albo ich sprzeda˝ miejscach publicznych, a tak˝e inne formy publicznego zach´cania do uczestnictwa wnich lub przekonywania oich zaletach przyjmowania zak∏adów wzajemnych albo zfirmà, nazwà lub oznaczeniem podmiotu prowadzàcego dzia∏alnoÊç zakresie gier cylindrycznych, gier karty, gier koÊci, zak∏adów wzajemnych lub gier na automatach.
-9. Za reklam´ ipromocj´ gier cylindrycznych, gier wkarty, gier wkoÊci, zak∏adów wzajemnych oraz gier na automatach uwa˝a si´ równie˝ reklam´ ipromocj´ podmiotów, których wizerunek reklamowy wykorzystuje podobieƒstwo lub jest to˝samy z oznaczeniem gier cylindrycznych, gier karty, gier koÊci, zak∏adów wzajemnych, gier na automatach, kasyna gry lub punktu przyjmowania zak∏adów wzajemnych albo zfirmà, nazwà lub oznaczeniem podmiotu prowadzàcego dzia∏alnoÊç zakresie gier cylindrycznych, gier karty, gier koÊci, zak∏adów wzajemnych, gier na automatach lub innym symbolem obiektywnie odnoszàcym si´ do takich oznaczeƒ.
-10. Przez sponsorowanie rozumie si´ bezpoÊrednie lub poÊrednie finansowanie lub wspó∏finansowanie dzia∏alnoÊci osób fizycznych, osób prawnych lub jednostek organizacyjnych niemajàcych osobowoÊci prawnej, celu upowszechniania, utrwalania lub podniesienia renomy gier cylindrycznych, gier wkarty, gier koÊci, zak∏adów wzajemnych oraz gier na automatach, podmiotów prowadzàcych dzia∏alnoÊç zakresie tych gier lub zak∏adów lub innego oznaczenia indywidualizujàcego podmiot prowadzàcy dzia∏alnoÊç zakresie tych gier lub zak∏adów lub jego dzia∏alnoÊç, wzamian za informowanie osponsorowaniu.
-11. Przez informowanie osponsorowaniu rozumie si´ prezentowanie informacji zawierajàcej nazw´ lub innego oznaczenia indywidualizujàcego sponsora, wzwiàzku ze sponsorowaniem.
-30. 1. Zakazane jest urzàdzanie kasynach gry pokera, którym uczestnicy grajà mi´dzy sobà, z wyjàtkiem urzàdzania turniejów gry pokera na podstawie udzielonego zezwolenia.
-2. Warunkiem udzielenia zezwolenia na urzàdzanie turnieju gry pokera jest uczestnictwo wturnieju co najmniej 10 graczy.
-3. Podmiot urzàdzajàcy turniej gry pokera jest obowiàzany przedstawiç organowi, który udzieli∏ zezwolenia, terminie do 25 dnia miesiàca nast´pujàcego po miesiàcu, którym nastàpi∏o zakoƒczenie turnieju, szczegó∏owà pisemnà informacj´ oosobach, które uzyska∏y wygrane turnieju, oraz rozliczeniu podatku od gier.
-31.1. Zakazane jest zawieranie i przyjmowaRozdzia∏ 5 Koncesje izezwolenia
-32. 1. Koncesji na prowadzenie kasyna gry udziela minister w∏aÊciwy do spraw finansów publicznych.
-2. Zezwolenia na prowadzenie salonu gry bingo pieni´˝ne, na urzàdzanie zak∏adów wzajemnych oraz na urzàdzanie turnieju gry pokera udziela minister w∏aÊciwy do spraw finansów publicznych.
-3. Zezwolenia na urzàdzanie loterii fantowej, loterii audioteksowej, gry bingo fantowe lub loterii promocyjnej urzàdzanych na obszarze w∏aÊciwoÊci miejscowej jednego dyrektora izby celnej udziela dyrektor izby celnej, na którego obszarze w∏aÊciwoÊci miejscowej sà urzàdzane iprowadzone takie gry.
-4. Zezwolenia na urzàdzanie loterii fantowej, loterii audioteksowej, gry bingo fantowe lub loterii promocyjnej urzàdzanych na obszarze w∏aÊciwoÊci miejscowej wi´cej ni˝ jednego dyrektora izby celnej udziela dyrektor izby celnej w∏aÊciwy wed∏ug miejsca zamieszkania lub siedziby wnioskodawcy.
-5. W post´powaniu udzielenie koncesji na prowadzenie kasyna gry nie stosuje si´ art. 143 ustawy zdnia 29 sierpnia 1997 r. Ordynacja podatkowa.
-6. W sprawach dotyczàcych udzielenia, odmowy udzielenia, zmiany i cofni´cia koncesji na prowadzenie kasyna gry nie stosuje si´ przepisów ustawy zdnia 2 lipca 2004 r. oswobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 r. 155, poz. 1095, z póên.
+2. Podmiot urządzający loterię pieniężną, loterię fantową igrę bingo fantowe jest obowiązany zgłaszać pisemnie właściwemu naczelnikowi urzędu celnego zamiar zniszczenia losów, kartonów lub innych dowodów udziału takiej grze co najmniej na 7 dni przed
+3. Podmiot urządzający grę hazardową jest obowiązany prowadzić ewidencję zaświadczeń oraz przechowywać odpisy wydanych zaświadczeń przez okres 5 lat, licząc od końca roku kalendarzowego, wktórym uzyskano wygraną lub nastąpiła wypłata (wydanie) wygranej. Ewidencja zaświadczeń jest udostępniana, mniej 20 000 zł.
+6. Podmiot urządzający gry hazardowe przechowuje ewidencje, których mowa ust. 3 i 5, przez okres 5 lat, licząc od końca roku kalendarzowego, wktórym uzyskano wygraną lub nastąpiła jej wypłata (wydanie).
+7. Wewidencji, októrej mowa wust. 5, umieszcza się:
+1) dane osoby wygrywającej (imię i nazwisko, rodzaj i numer dokumentu potwierdzającego tożsamość, numer PESEL, awprzypadku braku numeru PESEL adres zamieszkania, datę urodzenia i obywatelstwo);
+2) wartość wypłaconej (wydanej) wygranej;
+3) datę wypłaty (wydania).
+8. Wysokość wygranej albo przegranej wgrze hazardowej stanowi tajemnicę jej uczestnika, której jest obowiązany przestrzegać podmiot urządzający tę grę.
+Informacje wysokości wygranej albo przegranej są ujawniane wyłącznie na żądanie Generalnego Inspektora Informacji Finansowej, funkcjonariusza celnego oraz inspektora kontroli skarbowej, atakże sądu iprokuratora wzwiązku ztoczącym się postępowaniem.
+9. Minister właściwy do spraw finansów publicznych określi, wdrodze rozporządzenia:
+1) wzór zaświadczenia uzyskanej wygranej oraz sposób wydawania zaświadczeń, uwzględniając konieczność określenia we wzorze zaświadczenia szczególności danych osobowych osoby ubiegającej się wydanie zaświadczenia, rodzaju gry hazardowej oraz terminu uzyskania iwartości wypłaconej (wydanej) wygranej;
+2) sposób ewidencjonowania zaświadczeń, prowadzenia ewidencji, których mowa ust. 3 i 5, uwzględniając zapewnienie możliwości weryfikacji danych osoby, która uzyskała wygraną, i wartości wygranej.
+10. Minister właściwy do spraw finansów publicznych wyznaczy, drodze rozporządzenia, naczelnika lub naczelników urzędów celnych właściwych do prowadzenia spraw, których mowa ust. 4, uwzględniając potrzebę sprawnego wykonywania zadania.
+21. 1. Roszczenia związane z udziałem grze hazardowej przedawniają się z upływem 6 miesięcy od dnia wymagalności.
+2. Bieg przedawnienia roszczeń ulega zawieszeniu ośrodka gier i punktu przyjmowania zakładów wzajemnych.
+2. Podmiot urządzający gry hazardowe jest obowiązany zapoznać uczestników gier przed przystąpieniem do gry:
+1) ze sposobem działania automatu lub urządzenia do gier;
+2) z zasadami gry i możliwościami wyboru wariantów gry lub zakładu wzajemnego;
+3) z innymi, wymienionymi regulaminie, zastrzeżeniami dotyczącymi sposobu gry.
+3. Podmiot urządzający gry hazardowe utrzymuje automaty oraz urządzenia do gier izakładów wzajemnych wstanie gwarantującym grę zgodną zregulaminem, a uczestnikom gry bezpieczne korzystanie znich.
+4. Podmiot, którym mowa ust. 1, celu ochrony interesu uczestników gry lub zakładu wzajemnego i osób trzecich może odmówić wstępu albo usunąć z ośrodka gier albo punktu przyjmowania zakładów wzajemnych osobę, która nie przestrzega postanowień regulaminu gry lub zakładu wzajemnego lub stosuje techniki gry mogące wpłynąć na przypadkowość wyniku gry przez:
+1) sporządzanie notatek dotyczących przebiegu gry przy użyciu notesów, elektronicznych urządzeń obliczeniowych, zapisów audio lub wideo;
+2) posługiwanie się łącznością telefoniczną, radiową lub podobną wcelu sporządzania lub wykorzystania analiz przebiegu gry.
+23.1. Automaty iurządzenia do gier powinny być przystosowane do ochrony praw grających irealizacji przepisów ustawy.
+2. Automaty i urządzenia do gier nie mogą stanowić własności osób trzecich, z wyjątkiem przypadku gdy są one przedmiotem umowy leasingu.
+3. Przepisu ust. 2 nie stosuje się wprzypadku loterii promocyjnej, loterii audioteksowej, loterii fantowej igry bingo fantowe oraz zakładów wzajemnych.
+24. 1. Osoby pełniące funkcję lub zajmujące stanowisko, zktórym wiąże się obowiązek:
+1) nadzorowania gier hazardowych, wszczególności: dyrektorzy oddziałów, ośrodków gier oraz ich zastępcy, kierownicy i ich zastępcy, osoby nadzorujące gry telebingo, loterie fantowe, gry bingo fan2. Obowiązek określony wust. 1 nie dotyczy:
+1) osób dystrybuujących losy loterii pieniężnych iloterii fantowych, dowody udziału wgrze telebingo, bingo pieniężne i bingo fantowe oraz dowody udziału wloterii promocyjnej;
+2) osób sprzedających żetony lub kredytujących stawki wautomacie;
+3) osób obsługujących terminale kasowe wsklepach, na terenie których znajduje się kolektura gier liczbowych, sprzedających dowody udziału grach liczbowych wystandaryzowanych parametrach, przez co rozumie się sprzedaż dowodów udziału grach liczbowych wyłącznie z wykorzystaniem specjalnych kart metodą chybił–trafił lub z zapisanymi przez gracza własnymi ustawieniami gry.
+3. Osoby pierwszy raz zatrudnione do bezpośredniego prowadzenia gier hazardowych mają obowiązek uzyskać świadectwo zawodowe terminie nie dłuższym niż 4 miesiące od dnia ich zatrudnienia.
+4. Przepis ust. 3 stosuje się odpowiednio do osób wykonujących czynności bezpośredniego prowadzenia gier hazardowych na innej podstawie niż umowa opracę.
+25.1. Âwiadectwo zawodowe wydaje minister właściwy do spraw finansów publicznych osobie, która spełnia łącznie następujące warunki:
+1) ma nienaganną opinię;
+2) posługuje się językiem polskim wstopniu wystarczającym do pełnienia funkcji lub zajmowania stanowiska, októre się ubiega;
+3) nie była skazana za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+4) posiada wiedzę potwierdzoną egzaminem zawodowym.
+2. Âwiadectwo zawodowe wydaje się na okres 3 lat.
+3. Egzamin zawodowy polega na sprawdzeniu znajomości przepisów ograch hazardowych, wzakresie niezbędnym do pełnienia funkcji lub zajmowania stanowiska. Warunkiem przystąpienia do egzaminu zawodowego jest wniesienie opłaty egzaminacyjnej.
+4. Egzamin zawodowy przeprowadza komisja egegzaminacyjnej nie może być osoba, która prowadzi szkolenia dla kandydatów zakresie tematyki objętej egzaminem lub jest autorem pozycji dydaktycznych obejmujących tematykę gier hazardowych.
+5. Członkowie komisji egzaminacyjnej otrzymują wynagrodzenie za przeprowadzenie egzaminu zawodowego, nie wyższe niż 40 % minimalnego wynagrodzenia za pracę, ustalonego na podstawie przepisów ustawy z dnia 10 paêdziernika 2002 r. minimalnym wynagrodzeniu za pracę (Dz. U. 200, poz. 1679, z 2004 r. 240, poz. 2407 oraz z 2005 r. 157, poz. 1314).
+6. W zakresie gier objętych monopolem państwa minister właściwy do spraw finansów publicznych może uznać za równoważne ze świadectwami zawodowymi świadectwa wydane przez wyspecjalizowaną organizację prowadzącą szkolenia zakresie gier hazardowych. Podmiot wykonujący monopol jest obowiązany przedłożyć ministrowi właściwemu do spraw finansów publicznych program tych szkoleń.
+7. Owydanie świadectwa zawodowego albo uznanie świadectwa, którym mowa ust. 6, występuje podmiot urządzający gry hazardowe.
+8. Minister właściwy do spraw finansów publicznych określi, wdrodze rozporządzenia:
+1) sposób uzyskiwania świadectwa zawodowego, tym warunki organizowania i regulamin przeprowadzania egzaminu zawodowego oraz sposób działania komisji egzaminacyjnej, uwzględniając potrzebę właściwego sprawdzenia wiedzy zakresie przepisów ograch hazardowych;
+2) wysokość wynagrodzenia członków komisji egzaminacyjnej, uwzględniając nakład pracy niezbędny do przeprowadzenia egzaminu zawodowego;
+3) wzór świadectwa zawodowego, uwzględniając wszczególności określenie wświadectwie danych osobowych osoby ubiegającej się wydanie świadectwa oraz zajmowanego stanowiska lub pełnionej funkcji.
+26. Minister właściwy do spraw finansów publicznych może cofnąć, wdrodze decyzji, świadectwo zawodowe lub uznanie świadectwa, jeżeli osoba, która je uzyskała, przestała spełniać warunki określone art. 25 ust. 1 pkt 1 lub 3.
+zaminacyjna składająca się z3 osób, wtym: Rozdział 4
+1) 2 osób wyznaczonych przez ministra właściwego Ograniczenia wurządzaniu gier hazardowych do spraw finansów publicznych spośród urzędników zatrudnionych wurzędzie obsługującym tego 27. 1. Wstęp do ośrodków gier oraz do punkwgrach osób, które nie ukończyły 18 roku życia.
+4. Wprzypadku wątpliwości co do wieku uczestnika gry hazardowej, osoba kierująca ośrodkiem gier lub przez nią upoważniona, osoba sprzedająca losy lub inne dowody udziału wgrach losowych oraz osoba przyjmująca zakłady wzajemne jest upoważniona do żądania okazania dokumentu potwierdzającego tożsamość iwiek uczestnika gry hazardowej.
+28. 1. Podmiot prowadzący działalność zakresie gier hazardowych nie może powierzyć innemu podmiotowi wykonywania czynności związanych zurządzaniem tych gier, zzastrzeżeniem ust. 2—5.
+2. Spółka prowadząca działalność zakresie gier liczbowych, loterii pieniężnych lub zakładów wzajemnych może powierzyć innemu podmiotowi, na podstawie umowy agencyjnej, sprzedaż losów lub innych dowodów udziału wgrze oraz przyjmowanie zakładów i stawek, a także wypłatę (wydanie) wygranych do wysokości określonej regulaminie gry lub zakładu.
+3. Powierzenie wykonywania czynności określonych wust. 2 może nastąpić wyłącznie, jeżeli:
+1) podmiot, który ma wykonywać powierzone czynności, posiada nienaganną opinię, wszczególności nie był skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
+2) podmiot, który ma wykonywać powierzone czynności, nie zalega z zapłatą podatków stanowiących dochód budżetu państwa oraz należności celnych, składek na ubezpieczenia społeczne oraz składek na ubezpieczenie zdrowotne;
+3) wobec podmiotu, który ma wykonywać powierzone czynności, nie istnieją uzasadnione zastrzeżenia z punktu widzenia bezpieczeństwa państwa, porządku publicznego lub bezpieczeństwa interesów ekonomicznych państwa;
+4) kapitał zakładowy, środki finansowe lub inny majątek przeznaczony na wykonywanie powierzonych czynności nie pochodzi z nielegalnych lub nieujawnionych êródeł.
+4. Wprzypadku osób prawnych ijednostek niemających osobowości prawnej wymogi określone ust. 3 pkt 1 i 3 dotyczą odpowiednio akcjonariuszy (wspólników) reprezentujących co najmniej jedną setną kapitału zakładowego, członków zarządu, rady nadzorczej i komisji rewizyjnej albo osób zarządzających oraz osób reprezentujących dany podmiot.
+5. Agent nie może zlecić innemu podmiotowi wyust. 3 lub nie przekaże na żądanie ministra właściwego do spraw finansów publicznych dokumentów, których mowa ust. 6, podmiot prowadzący działalność wzakresie gier liczbowych, loterii pieniężnych lub zakładów wzajemnych jest zobowiązany do natychmiastowego rozwiązania umowy agencyjnej.
+29. 1. Zabrania się reklamy ipromocji gier cylindrycznych, gier wkarty, gier wkości, zakładów wzajemnych oraz gier na automatach.
+2. Zabrania się informowania sponsorowaniu przez podmiot prowadzący działalność wzakresie gier cylindrycznych, gier wkarty, gier wkości, przyjmowania zakładów wzajemnych oraz gier na automatach.
+3. Dopuszcza się informowanie sponsorowaniu przez podmiot prowadzący działalność wyłącznie zakresie przyjmowania zakładów wzajemnych albo tę działalność łącznie zinną działalnością niepodlegającą ograniczeniom zakresie reklamy, promocji lub informowania sponsorowaniu wyłącznie przez prezentowanie informacji zawierającej nazwę lub innego oznaczenia indywidualizującego sponsora.
+4. Zakazy określone ust. 1 i 2 dotyczą osób fizycznych, osób prawnych oraz jednostek organizacyjnych niemających osobowości prawnej, które zlecają lub prowadzą czynności, których mowa ust. 1 i 2, umieszczają reklamę lub informację albo czerpią korzyści ztakich czynności.
+5. Zakazy określone wust. 1 i2 nie obejmują reklamy i promocji prowadzonej wewnątrz kasyna gry i punktu przyjmowania zakładów wzajemnych oraz oznaczenia nazwą, na zewnątrz budynku, miejsca, którym znajduje się kasyno gry lub punkt przyjmowania zakładów wzajemnych.
+6. Przez reklamę gier cylindrycznych, gier wkarty, gier kości, zakładów wzajemnych lub gier na automatach rozumie się publiczne rozpowszechnianie znaków towarowych lub symboli graficznych iinnych oznaczeń z nimi związanych, a także nazw i symboli graficznych podmiotów prowadzących działalność zakresie gier cylindrycznych, gier karty, gier wkości, zakładów wzajemnych lub gier na automatach oraz informacji omiejscach, wktórych takie gry lub zakłady są urządzane, imożliwościach uczestnictwa.
+7. Przez promocję gier cylindrycznych, gier karty, gier wkości, zakładów wzajemnych lub gier na automatach rozumie się publiczną prezentację tych gier lub zakładów, rozdawanie rekwizytów z nimi związanych, wręczanie żetonów lub dowodów uczestnictwa tych grach albo ich sprzedaż miejscach publicznych, a także inne formy publicznego zachęcania do uczestnictwa wnich lub przekonywania oich zaletach przyjmowania zakładów wzajemnych albo zfirmą, nazwą lub oznaczeniem podmiotu prowadzącego działalność zakresie gier cylindrycznych, gier karty, gier kości, zakładów wzajemnych lub gier na automatach.
+9. Za reklamę ipromocję gier cylindrycznych, gier wkarty, gier wkości, zakładów wzajemnych oraz gier na automatach uważa się również reklamę ipromocję podmiotów, których wizerunek reklamowy wykorzystuje podobieństwo lub jest tożsamy z oznaczeniem gier cylindrycznych, gier karty, gier kości, zakładów wzajemnych, gier na automatach, kasyna gry lub punktu przyjmowania zakładów wzajemnych albo zfirmą, nazwą lub oznaczeniem podmiotu prowadzącego działalność zakresie gier cylindrycznych, gier karty, gier kości, zakładów wzajemnych, gier na automatach lub innym symbolem obiektywnie odnoszącym się do takich oznaczeń.
+10. Przez sponsorowanie rozumie się bezpośrednie lub pośrednie finansowanie lub współfinansowanie działalności osób fizycznych, osób prawnych lub jednostek organizacyjnych niemających osobowości prawnej, celu upowszechniania, utrwalania lub podniesienia renomy gier cylindrycznych, gier wkarty, gier kości, zakładów wzajemnych oraz gier na automatach, podmiotów prowadzących działalność zakresie tych gier lub zakładów lub innego oznaczenia indywidualizującego podmiot prowadzący działalność zakresie tych gier lub zakładów lub jego działalność, wzamian za informowanie osponsorowaniu.
+11. Przez informowanie osponsorowaniu rozumie się prezentowanie informacji zawierającej nazwę lub innego oznaczenia indywidualizującego sponsora, wzwiązku ze sponsorowaniem.
+30. 1. Zakazane jest urządzanie kasynach gry pokera, którym uczestnicy grają między sobą, z wyjątkiem urządzania turniejów gry pokera na podstawie udzielonego zezwolenia.
+2. Warunkiem udzielenia zezwolenia na urządzanie turnieju gry pokera jest uczestnictwo wturnieju co najmniej 10 graczy.
+3. Podmiot urządzający turniej gry pokera jest obowiązany przedstawić organowi, który udzielił zezwolenia, terminie do 25 dnia miesiąca następującego po miesiącu, którym nastąpiło zakończenie turnieju, szczegółową pisemną informację oosobach, które uzyskały wygrane turnieju, oraz rozliczeniu podatku od gier.
+31.1. Zakazane jest zawieranie i przyjmowaRozdział 5 Koncesje izezwolenia
+32. 1. Koncesji na prowadzenie kasyna gry udziela minister właściwy do spraw finansów publicznych.
+2. Zezwolenia na prowadzenie salonu gry bingo pieniężne, na urządzanie zakładów wzajemnych oraz na urządzanie turnieju gry pokera udziela minister właściwy do spraw finansów publicznych.
+3. Zezwolenia na urządzanie loterii fantowej, loterii audioteksowej, gry bingo fantowe lub loterii promocyjnej urządzanych na obszarze właściwości miejscowej jednego dyrektora izby celnej udziela dyrektor izby celnej, na którego obszarze właściwości miejscowej są urządzane iprowadzone takie gry.
+4. Zezwolenia na urządzanie loterii fantowej, loterii audioteksowej, gry bingo fantowe lub loterii promocyjnej urządzanych na obszarze właściwości miejscowej więcej niż jednego dyrektora izby celnej udziela dyrektor izby celnej właściwy według miejsca zamieszkania lub siedziby wnioskodawcy.
+5. W postępowaniu udzielenie koncesji na prowadzenie kasyna gry nie stosuje się art. 143 ustawy zdnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+6. W sprawach dotyczących udzielenia, odmowy udzielenia, zmiany i cofnięcia koncesji na prowadzenie kasyna gry nie stosuje się przepisów ustawy zdnia 2 lipca 2004 r. oswobodzie działalności gospodarczej (Dz. U. z 2007 r. 155, poz. 1095, z póên.
 zm. ).
-7. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, obszary w∏aÊciwoÊci miejscowej dyrektorów izb celnych do udzielania zezwoleƒ na urzàdzanie loterii fantowej, loterii audioteksowej, gry bingo fantowe i loterii promocyjnej, uwzgl´dniajàc potrzeb´ sprawnego wykonywania zadaƒ.
-33.1. Wprzypadku z∏o˝enia wniosku oudzielenie koncesji albo zezwolenia, których wydanie podlega ograniczeniom iloÊciowym, minister w∏aÊciwy do spraw finansów publicznych og∏asza na stronie internetowej urz´du obs∏ugujàcego tego ministra informacj´ oz∏o˝eniu wniosku, wraz ze wskazaniem nazwy podmiotu, przedmiotu wniosku oraz miejscowoÊci, której wniosek dotyczy.
-——————— komisj´ przetargowà, sk∏adajàcà si´ co najmniej z 3 osób spoÊród urz´dników zatrudnionych urz´dzie obs∏ugujàcym tego ministra lub funkcjonariuszy celnych pe∏niàcych s∏u˝b´ wtym urz´dzie.
-4. Minister w∏aÊciwy do spraw finansów publicznych uniewa˝nia przetarg, wdrodze decyzji, je˝eli zosta∏y ra˝àco naruszone przepisy prawa lub interes publiczny.
-5. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, szczegó∏owe warunki przeprowadzenia przetargu, uwzgl´dniajàc wszczególnoÊci, aby:
-1) sposób og∏oszenia przetargu zapewnia∏ w∏aÊciwe poinformowanie podmiotów zainteresowanych przetargiem;
-2) warunki uczestnictwa przetargu nie eliminowa∏y podmiotów spe∏niajàcych wymagania warunkujàce uzyskanie koncesji albo zezwolenia;
-3) oceny ofert mia∏y charakter obiektywny, przejrzysty i niedyskryminujàcy ˝adnego uczestnika przetargu.
-34.Okoncesj´ lub zezwolenie mogà si´ ubiegaç wy∏àcznie podmioty, które udokumentujà:
-1) legalnoÊç êróde∏ pochodzenia kapita∏u;
-2) niezaleganie z zap∏atà podatków stanowiàcych dochód bud˝etu paƒstwa oraz zzap∏atà nale˝noÊci celnych;
-3) niezaleganie z zap∏atà sk∏adek na ubezpieczenia spo∏eczne oraz na ubezpieczenie zdrowotne.
-35. Wniosek udzielenie koncesji na prowadzenie kasyna gry powinien zawieraç:
-1) odpis aktu notarialnego umowy lub statutu spó∏ki oraz aktualny odpis z Krajowego Rejestru Sàdowego;
-2) oznaczenie imienne akcji lub udzia∏ów zokreÊlonà ich wartoÊcià nominalnà;
-3) informacje obecnym i przesz∏ym statusie prawnym oraz osytuacji finansowej;
-4) dane osobowe (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz seri´ i numer dokumentu to˝samoÊci, informacje dotyczàce posiadanego wykszta∏cenia oraz doÊwiadczenia zawodowego) akcjonariuszy (wspólników) b´dàcych osobami fizycznymi, reprezentujàcych co najmniej jednà setnà kapita∏u zak∏adowego spó∏ki,
-6) odpis dokumentów wskazujàcych na prawo do w∏adania budynkiem (lokalem) lub umowy zobowiàzujàcej do oddania we w∏adanie budynku (lokalu), wktórym b´dà urzàdzane gry;
-7) przewidywanà dat´ rozpocz´cia dzia∏alnoÊci;
-8) przewidywany rodzaj oraz liczb´ gier, wraz zinformacjà oplanowanej kolejnoÊci ich uruchomienia;
-9) szacunkowà wielkoÊç zatrudnienia, z okreÊleniem stanowisk pracy, oraz projektowane warunki zatrudnienia osoby majàcej sprawowaç zarzàd nad kasynem gry;
-10) opis organizacji i funkcjonowania kasyna gry, szczególnoÊci zasady przechowywania i ewidencjonowania kapita∏u gry losowej lub gry na automatach;
-11) studium ekonomiczno-finansowe, zawierajàce co najmniej okreÊlenie inwestycji i przewidywanej rentownoÊci;
+7. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, obszary właściwości miejscowej dyrektorów izb celnych do udzielania zezwoleń na urządzanie loterii fantowej, loterii audioteksowej, gry bingo fantowe i loterii promocyjnej, uwzględniając potrzebę sprawnego wykonywania zadań.
+33.1. Wprzypadku złożenia wniosku oudzielenie koncesji albo zezwolenia, których wydanie podlega ograniczeniom ilościowym, minister właściwy do spraw finansów publicznych ogłasza na stronie internetowej urzędu obsługującego tego ministra informację ozłożeniu wniosku, wraz ze wskazaniem nazwy podmiotu, przedmiotu wniosku oraz miejscowości, której wniosek dotyczy.
+——————— komisję przetargową, składającą się co najmniej z 3 osób spośród urzędników zatrudnionych urzędzie obsługującym tego ministra lub funkcjonariuszy celnych pełniących służbę wtym urzędzie.
+4. Minister właściwy do spraw finansów publicznych unieważnia przetarg, wdrodze decyzji, jeżeli zostały rażąco naruszone przepisy prawa lub interes publiczny.
+5. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, szczegółowe warunki przeprowadzenia przetargu, uwzględniając wszczególności, aby:
+1) sposób ogłoszenia przetargu zapewniał właściwe poinformowanie podmiotów zainteresowanych przetargiem;
+2) warunki uczestnictwa przetargu nie eliminowały podmiotów spełniających wymagania warunkujące uzyskanie koncesji albo zezwolenia;
+3) oceny ofert miały charakter obiektywny, przejrzysty i niedyskryminujący żadnego uczestnika przetargu.
+34.Okoncesję lub zezwolenie mogą się ubiegać wyłącznie podmioty, które udokumentują:
+1) legalność êródeł pochodzenia kapitału;
+2) niezaleganie z zapłatą podatków stanowiących dochód budżetu państwa oraz zzapłatą należności celnych;
+3) niezaleganie z zapłatą składek na ubezpieczenia społeczne oraz na ubezpieczenie zdrowotne.
+35. Wniosek udzielenie koncesji na prowadzenie kasyna gry powinien zawierać:
+1) odpis aktu notarialnego umowy lub statutu spółki oraz aktualny odpis z Krajowego Rejestru Sądowego;
+2) oznaczenie imienne akcji lub udziałów zokreśloną ich wartością nominalną;
+3) informacje obecnym i przeszłym statusie prawnym oraz osytuacji finansowej;
+4) dane osobowe (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości, informacje dotyczące posiadanego wykształcenia oraz doświadczenia zawodowego) akcjonariuszy (wspólników) będących osobami fizycznymi, reprezentujących co najmniej jedną setną kapitału zakładowego spółki,
+6) odpis dokumentów wskazujących na prawo do władania budynkiem (lokalem) lub umowy zobowiązującej do oddania we władanie budynku (lokalu), wktórym będą urządzane gry;
+7) przewidywaną datę rozpoczęcia działalności;
+8) przewidywany rodzaj oraz liczbę gier, wraz zinformacją oplanowanej kolejności ich uruchomienia;
+9) szacunkową wielkość zatrudnienia, z określeniem stanowisk pracy, oraz projektowane warunki zatrudnienia osoby mającej sprawować zarząd nad kasynem gry;
+10) opis organizacji i funkcjonowania kasyna gry, szczególności zasady przechowywania i ewidencjonowania kapitału gry losowej lub gry na automatach;
+11) studium ekonomiczno-finansowe, zawierające co najmniej określenie inwestycji i przewidywanej rentowności;
 12) projekty regulaminów gier;
-13) projekt systemu s∏u˝àcego rejestracji goÊci;
-14) proponowane warunki z∏o˝enia zabezpieczenia okreÊlonego wart. 63;
-15) pozytywnà opini´ rady gminy lokalizacji kasyna gry;
-16) dokumenty potwierdzajàce legalnoÊç êróde∏ pochodzenia kapita∏u, awszczególnoÊci:
-a) wprzypadku akcjonariusza (wspólnika) b´dàcego osobà fizycznà, reprezentujàcego co najmniej jednà setnà kapita∏u zak∏adowego spó∏ki zaÊwiadczenie w∏aÊciwego naczelnika urz´du skarbowego pokryciu udzia∏ów lub akcji zujawnionych êróde∏ przychodów,
-b) wprzypadku akcjonariuszy (wspólników) b´dàcych osobami prawnymi sprawozdanie finansowe sporzàdzone sposób okreÊlony wodr´bnych przepisach;
-17) aktualne zaÊwiadczenia niezaleganiu podatkach stanowiàcych dochód bud˝etu paƒstwa oraz oniezaleganiu zzap∏atà sk∏adek na ubezpieczenia spo∏eczne oraz ubezpieczenie zdrowotne;
-18) oÊwiadczenia akcjonariuszy (wspólników) posiadajàcych akcje (udzia∏y), których wartoÊç przekracza jednà setnà kapita∏u zak∏adowego spó∏ki, lub cz∏onków zarzàdu, rady nadzorczej i komisji rewizyjnej, ˝e nie toczy si´ przeciwko nim post´powanie przed organami wymiaru sprawiedliwoÊci
-36. Wniosek udzielenie zezwolenia na prowadzenie salonu gry bingo pieni´˝ne lub urzàdzanie zak∏adów wzajemnych powinien zawieraç:
-1) odpis aktu notarialnego umowy lub statutu spó∏ki oraz aktualny odpis z Krajowego Rejestru Sàdowego;
-2) oznaczenie imienne akcji lub udzia∏ów zokreÊlonà ich wartoÊcià nominalnà;
-3) informacje obecnym i przesz∏ym statusie prawnym oraz osytuacji finansowej;
-4) dane osobowe (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz seri´ i numer dokumentu to˝samoÊci, informacje dotyczàce posiadanego wykszta∏cenia oraz doÊwiadczenia zawodowego) akcjonariuszy (wspólników) b´dàcych osobami fizycznymi, reprezentujàcych co najmniej jednà setnà kapita∏u zak∏adowego spó∏ki, cz∏onków zarzàdu, rady nadzorczej i komisji rewizyjnej spó∏ki oraz osób majàcych sprawowaç zarzàd nad salonem gry bingo pieni´˝ne; wprzypadku spó∏ek handlowych b´dàcych akcjonariuszami (wspólnikami) równie˝ informacje ich obecnym i przesz∏ym statusie prawnym oraz sytuacji finansowej;
-5) opis usytuowania geograficznego budynku lub miejsca, którym ma byç ulokowany salon gry bingo pieni´˝ne, okreÊlenie jego rozmiarów, wraz zplanem budynku;
-6) odpis dokumentów wskazujàcych na prawo do w∏adania budynkiem (lokalem) lub umowy zobowiàzujàcej do oddania we w∏adanie budynku (lokalu), którym b´dzie urzàdzana gra bingo pieni´˝ne, a przypadku punktu przyjmowania zak∏adów wzajemnych zgod´ w∏adajàcego budynkiem (lokalem) na korzystanie zbudynku (lokalu);
-7) przewidywanà dat´ rozpocz´cia dzia∏alnoÊci;
-8) przypadku zak∏adów wzajemnych przewidywany rodzaj oraz liczb´ zak∏adów;
-9) szacunkowà wielkoÊç zatrudnienia, z okreÊleniem stanowisk pracy;
-10) opis organizacji i funkcjonowania salonu gry bingo pieni´˝ne lub punktu przyjmowania zak∏adów wykorzystywanie ich wyników;
-15) przypadku salonu gry bingo pieni´˝ne pozytywnà opini´ rady gminy olokalizacji salonu;
-16) dokumenty potwierdzajàce legalnoÊç êróde∏ pochodzenia kapita∏u, awszczególnoÊci:
-a) wprzypadku akcjonariusza (wspólnika) b´dàcego osobà fizycznà, reprezentujàcego co najmniej jednà setnà kapita∏u zak∏adowego spó∏ki zaÊwiadczenia w∏aÊciwego naczelnika urz´du skarbowego pokryciu udzia∏ów lub akcji zujawnionych êróde∏ przychodów,
-b) wprzypadku akcjonariuszy (wspólników) b´dàwzajemnych, szczególnoÊci zasady przechowywania i ewidencjonowania kapita∏u gry losowej lub zak∏adu wzajemnego;
-11) studium ekonomiczno-finansowe, zawierajàce co cych osobami prawnymi sprawozdanie finansowe sporzàdzone sposób okreÊlony wodr´bnych przepisach;
-17) aktualne zaÊwiadczenia niezaleganiu podatkach stanowiàcych dochód bud˝etu paƒstwa oraz oniezaleganiu zzap∏atà sk∏adek na ubezpieczenia spo∏eczne oraz ubezpieczenie zdrowotne;
-18) oÊwiadczenia akcjonariuszy (wspólników) posiadajàcych akcje (udzia∏y), których wartoÊç przekracza jednà setnà kapita∏u zak∏adowego spó∏ki, lub cz∏onkami zarzàdu, rady nadzorczej ikomisji rewizyjnej, ˝e nie toczy si´ przeciwko nim post´powanie przed organami wymiaru sprawiedliwoÊci sprawach przest´pstw, okreÊlonych art. 299 Kodeksu karnego;
-19) aktualne zaÊwiadczenia, ˝e akcjonariusze (wspólnicy) b´dàcy osobami fizycznymi, reprezentujàcy co najmniej jednà setnà kapita∏u zak∏adowego spó∏ki, oraz cz∏onkowie zarzàdu, rady nadzorczej i komisji rewizyjnej spó∏ki nie byli skazani za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe.
-37. Wniosek udzielenie zezwolenia na urzàdzenie turnieju gry pokera powinien zawieraç:
-1) nazw´ spó∏ki wyst´pujàcej zwnioskiem;
-2) nazw´ turnieju gry pokera;
-3) okreÊlenie czasu, wktórym planuje si´ urzàdzenie turnieju gry pokera oraz miejsca jego urzàdzania;
+13) projekt systemu służącego rejestracji gości;
+14) proponowane warunki złożenia zabezpieczenia określonego wart. 63;
+15) pozytywną opinię rady gminy lokalizacji kasyna gry;
+16) dokumenty potwierdzające legalność êródeł pochodzenia kapitału, awszczególności:
+a) wprzypadku akcjonariusza (wspólnika) będącego osobą fizyczną, reprezentującego co najmniej jedną setną kapitału zakładowego spółki zaświadczenie właściwego naczelnika urzędu skarbowego pokryciu udziałów lub akcji zujawnionych êródeł przychodów,
+b) wprzypadku akcjonariuszy (wspólników) będących osobami prawnymi sprawozdanie finansowe sporządzone sposób określony wodrębnych przepisach;
+17) aktualne zaświadczenia niezaleganiu podatkach stanowiących dochód budżetu państwa oraz oniezaleganiu zzapłatą składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne;
+18) oświadczenia akcjonariuszy (wspólników) posiadających akcje (udziały), których wartość przekracza jedną setną kapitału zakładowego spółki, lub członków zarządu, rady nadzorczej i komisji rewizyjnej, że nie toczy się przeciwko nim postępowanie przed organami wymiaru sprawiedliwości
+36. Wniosek udzielenie zezwolenia na prowadzenie salonu gry bingo pieniężne lub urządzanie zakładów wzajemnych powinien zawierać:
+1) odpis aktu notarialnego umowy lub statutu spółki oraz aktualny odpis z Krajowego Rejestru Sądowego;
+2) oznaczenie imienne akcji lub udziałów zokreśloną ich wartością nominalną;
+3) informacje obecnym i przeszłym statusie prawnym oraz osytuacji finansowej;
+4) dane osobowe (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości, informacje dotyczące posiadanego wykształcenia oraz doświadczenia zawodowego) akcjonariuszy (wspólników) będących osobami fizycznymi, reprezentujących co najmniej jedną setną kapitału zakładowego spółki, członków zarządu, rady nadzorczej i komisji rewizyjnej spółki oraz osób mających sprawować zarząd nad salonem gry bingo pieniężne; wprzypadku spółek handlowych będących akcjonariuszami (wspólnikami) również informacje ich obecnym i przeszłym statusie prawnym oraz sytuacji finansowej;
+5) opis usytuowania geograficznego budynku lub miejsca, którym ma być ulokowany salon gry bingo pieniężne, określenie jego rozmiarów, wraz zplanem budynku;
+6) odpis dokumentów wskazujących na prawo do władania budynkiem (lokalem) lub umowy zobowiązującej do oddania we władanie budynku (lokalu), którym będzie urządzana gra bingo pieniężne, a przypadku punktu przyjmowania zakładów wzajemnych zgodę władającego budynkiem (lokalem) na korzystanie zbudynku (lokalu);
+7) przewidywaną datę rozpoczęcia działalności;
+8) przypadku zakładów wzajemnych przewidywany rodzaj oraz liczbę zakładów;
+9) szacunkową wielkość zatrudnienia, z określeniem stanowisk pracy;
+10) opis organizacji i funkcjonowania salonu gry bingo pieniężne lub punktu przyjmowania zakładów wykorzystywanie ich wyników;
+15) przypadku salonu gry bingo pieniężne pozytywną opinię rady gminy olokalizacji salonu;
+16) dokumenty potwierdzające legalność êródeł pochodzenia kapitału, awszczególności:
+a) wprzypadku akcjonariusza (wspólnika) będącego osobą fizyczną, reprezentującego co najmniej jedną setną kapitału zakładowego spółki zaświadczenia właściwego naczelnika urzędu skarbowego pokryciu udziałów lub akcji zujawnionych êródeł przychodów,
+b) wprzypadku akcjonariuszy (wspólników) będąwzajemnych, szczególności zasady przechowywania i ewidencjonowania kapitału gry losowej lub zakładu wzajemnego;
+11) studium ekonomiczno-finansowe, zawierające co cych osobami prawnymi sprawozdanie finansowe sporządzone sposób określony wodrębnych przepisach;
+17) aktualne zaświadczenia niezaleganiu podatkach stanowiących dochód budżetu państwa oraz oniezaleganiu zzapłatą składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne;
+18) oświadczenia akcjonariuszy (wspólników) posiadających akcje (udziały), których wartość przekracza jedną setną kapitału zakładowego spółki, lub członkami zarządu, rady nadzorczej ikomisji rewizyjnej, że nie toczy się przeciwko nim postępowanie przed organami wymiaru sprawiedliwości sprawach przestępstw, określonych art. 299 Kodeksu karnego;
+19) aktualne zaświadczenia, że akcjonariusze (wspólnicy) będący osobami fizycznymi, reprezentujący co najmniej jedną setną kapitału zakładowego spółki, oraz członkowie zarządu, rady nadzorczej i komisji rewizyjnej spółki nie byli skazani za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+37. Wniosek udzielenie zezwolenia na urządzenie turnieju gry pokera powinien zawierać:
+1) nazwę spółki występującej zwnioskiem;
+2) nazwę turnieju gry pokera;
+3) określenie czasu, wktórym planuje się urządzenie turnieju gry pokera oraz miejsca jego urządzania;
 4) projekt regulaminu turnieju gry pokera;
-5) przewidywanà liczb´ uczestników.
-38. 1. Wniosek udzielenie zezwolenia na urzàdzenie loterii fantowej lub gry bingo fantowe powinien zawieraç: siadanego wykszta∏cenia oraz doÊwiadczenia zawodowego) osób zarzàdzajàcych podmiotem oraz reprezentujàcych podmiot wyst´pujàcy z wnioskiem;
-4) okreÊlenie obszaru, na którym planowane jest urzàdzenie gry;
-5) okreÊlenie czasu, wktórym planuje si´ urzàdzenie gry;
-6) dok∏adne wyznaczenie celu, na który przeznacza si´ dochód zurzàdzanej gry;
-7) okreÊlenie planowanej wielkoÊci sprzeda˝y losów lub kartonów;
-8) gwarancje wyp∏acalnoÊci nagród;
+5) przewidywaną liczbę uczestników.
+38. 1. Wniosek udzielenie zezwolenia na urządzenie loterii fantowej lub gry bingo fantowe powinien zawierać: siadanego wykształcenia oraz doświadczenia zawodowego) osób zarządzających podmiotem oraz reprezentujących podmiot występujący z wnioskiem;
+4) określenie obszaru, na którym planowane jest urządzenie gry;
+5) określenie czasu, wktórym planuje się urządzenie gry;
+6) dokładne wyznaczenie celu, na który przeznacza się dochód zurządzanej gry;
+7) określenie planowanej wielkości sprzedaży losów lub kartonów;
+8) gwarancje wypłacalności nagród;
 9) projekt regulaminu gry;
-10) dokumenty potwierdzajàce legalnoÊç êróde∏ pochodzenia kapita∏u zak∏adowego, Êrodków finansowych lub innego majàtku przeznaczonego na urzàdzenie loterii fantowej lub gry bingo fantowe, awszczególnoÊci:
-a) zaÊwiadczenie w∏aÊciwego naczelnika urz´du skarbowego pokryciu kapita∏u zak∏adowego z ujawnionych êróde∏ przychodów przypadku akcjonariusza (wspólnika) b´dàcego osobà fizycznà, reprezentujàcego co najmniej jednà setnà kapita∏u zak∏adowego spó∏ki, je˝eli podmiotem wyst´pujàcym z wnioskiem jest spó∏ka handlowa,
-b) sprawozdanie finansowe sporzàdzone sposób okreÊlony odr´bnych przepisach wprzypadku akcjonariusza (wspólnika) b´dàcego osobà prawnà, je˝eli podmiotem wyst´pujàcym zwnioskiem jest spó∏ka handlowa,
-c) zaÊwiadczenie w∏aÊciwego naczelnika urz´du skarbowego pokryciu Êrodków finansowych lub innego majàtku przeznaczonego na urzàdzenie loterii fantowej lub gry bingo fantowe, z ujawnionych êróde∏ przychodów przypadkach innych ni˝ wskazane wlit. aib;
-11) aktualne zaÊwiadczenia niezaleganiu podatkach stanowiàcych dochód bud˝etu paƒstwa oraz oniezaleganiu zzap∏atà sk∏adek na ubezpieczenia spo∏eczne oraz ubezpieczenie zdrowotne;
-12) ekspertyz´ losów, innych dowodów udzia∏u toÊç puli wygranych nie przekracza wysokoÊci kwoty bazowej, której mowa art. 70, zawiera, zamiast dokumentów, októrych mowa wust. 1 pkt 10—12, odpowiednio:
-1) oÊwiadczenie olegalnoÊci êróde∏ pochodzenia kapita∏u zak∏adowego, Êrodków finansowych lub innego majàtku przeznaczonego na urzàdzenie loterii fantowej lub gry bingo fantowe;
-2) oÊwiadczenie niezaleganiu z zap∏atà podatków stanowiàcych dochód bud˝etu paƒstwa oraz sk∏adek na ubezpieczenia spo∏eczne oraz ubezpieczenie zdrowotne;
-3) wzór losu, innego dowodu udzia∏u wgrze lub karwgrze lub kartonów, potwierdzajàcà zabezpieczenie przed sfa∏szowaniem oraz przedwczesnym odczytaniem wyniku gry, szczególnoÊci przed przeÊwietleniem, otwarciem lub zdrapaniem farby ochronnej i zamkni´ciem lub ponownym nanietonu.
-39. Wniosek udzielenie zezwolenia na urzàdzenie loterii promocyjnej lub audioteksowej powinien zawieraç:
-1) okreÊlenie rodzaju loterii;
-2) nazw´ i status prawny podmiotu wyst´pujàcego z wnioskiem, a przypadku spó∏ek handlowych równie˝ aktualny odpis z Krajowego Rejestru Sàdowego;
-3) dane osobowe (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz seri´ i numer dokumentu to˝samoÊci) osób zarzàdzajàcych podmiotem oraz reprezentujàcych podmiot wyst´pujàcy zwnioskiem;
-4) okreÊlenie obszaru, na którym planuje si´ urzàdzenie loterii;
-5) okreÊlenie czasu, wktórym planuje si´ urzàdzenie loterii;
-6) bankowe gwarancje wyp∏at nagród;
+10) dokumenty potwierdzające legalność êródeł pochodzenia kapitału zakładowego, środków finansowych lub innego majątku przeznaczonego na urządzenie loterii fantowej lub gry bingo fantowe, awszczególności:
+a) zaświadczenie właściwego naczelnika urzędu skarbowego pokryciu kapitału zakładowego z ujawnionych êródeł przychodów przypadku akcjonariusza (wspólnika) będącego osobą fizyczną, reprezentującego co najmniej jedną setną kapitału zakładowego spółki, jeżeli podmiotem występującym z wnioskiem jest spółka handlowa,
+b) sprawozdanie finansowe sporządzone sposób określony odrębnych przepisach wprzypadku akcjonariusza (wspólnika) będącego osobą prawną, jeżeli podmiotem występującym zwnioskiem jest spółka handlowa,
+c) zaświadczenie właściwego naczelnika urzędu skarbowego pokryciu środków finansowych lub innego majątku przeznaczonego na urządzenie loterii fantowej lub gry bingo fantowe, z ujawnionych êródeł przychodów przypadkach innych niż wskazane wlit. aib;
+11) aktualne zaświadczenia niezaleganiu podatkach stanowiących dochód budżetu państwa oraz oniezaleganiu zzapłatą składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne;
+12) ekspertyzę losów, innych dowodów udziału tość puli wygranych nie przekracza wysokości kwoty bazowej, której mowa art. 70, zawiera, zamiast dokumentów, októrych mowa wust. 1 pkt 10—12, odpowiednio:
+1) oświadczenie olegalności êródeł pochodzenia kapitału zakładowego, środków finansowych lub innego majątku przeznaczonego na urządzenie loterii fantowej lub gry bingo fantowe;
+2) oświadczenie niezaleganiu z zapłatą podatków stanowiących dochód budżetu państwa oraz składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne;
+3) wzór losu, innego dowodu udziału wgrze lub karwgrze lub kartonów, potwierdzającą zabezpieczenie przed sfałszowaniem oraz przedwczesnym odczytaniem wyniku gry, szczególności przed prześwietleniem, otwarciem lub zdrapaniem farby ochronnej i zamknięciem lub ponownym nanietonu.
+39. Wniosek udzielenie zezwolenia na urządzenie loterii promocyjnej lub audioteksowej powinien zawierać:
+1) określenie rodzaju loterii;
+2) nazwę i status prawny podmiotu występującego z wnioskiem, a przypadku spółek handlowych również aktualny odpis z Krajowego Rejestru Sądowego;
+3) dane osobowe (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości) osób zarządzających podmiotem oraz reprezentujących podmiot występujący zwnioskiem;
+4) określenie obszaru, na którym planuje się urządzenie loterii;
+5) określenie czasu, wktórym planuje się urządzenie loterii;
+6) bankowe gwarancje wypłat nagród;
 7) projekt regulaminu loterii;
-8) dokumenty potwierdzajàce legalnoÊç êróde∏ pochodzenia Êrodków finansowych przeznaczonych na organizacj´ loterii;
-9) aktualne zaÊwiadczenia niezaleganiu podatkach stanowiàcych dochód bud˝etu paƒstwa, oniezaleganiu zzap∏atà sk∏adek na ubezpieczenia spo∏eczne oraz ubezpieczenie zdrowotne.
-40. 1. Rozpatrzenie wniosków udzielenie koncesji albo zezwolenia nast´puje wterminie 6 miesi´cy od dnia z∏o˝enia wniosku.
-2. Rozpatrzenie wniosków, których mowa wust. 1, odnoszàcych si´ do loterii promocyjnej, lote42.Koncesja na prowadzenie kasyna gry obejmuje:
-1) nazw´ spó∏ki;
-2) zatwierdzonà struktur´ udzia∏ów lub akcji imiennych, a tak˝e nazwiska cz∏onków zarzàdu i rady nadzorczej spó∏ki;
-3) miejsce urzàdzania gier;
-4) rodzaj iminimalnà oraz maksymalnà liczb´ gier;
-5) warunki, które powinna spe∏niaç spó∏ka, szczególnoÊci dotyczàce zabezpieczeƒ, októrych mowa wart. 63;
-6) zatwierdzone warunki techniczne prowadzenia rejestracji goÊci;
-7) nieprzekraczalny termin rozpocz´cia dzia∏alnoÊci.
-43. 1. Zezwolenie na prowadzenie salonu gry bingo pieni´˝ne oraz na urzàdzanie zak∏adów wzajemnych obejmuje:
-1) nazw´ spó∏ki;
-2) zatwierdzonà struktur´ udzia∏ów lub akcji imiennych, a tak˝e nazwiska cz∏onków zarzàdu i rady nadzorczej spó∏ki;
-3) miejsce urzàdzania gry lub zak∏adów;
-4) rodzaj zak∏adów;
-5) warunki, które powinna spe∏niaç spó∏ka, szczególnoÊci dotyczàce zabezpieczeƒ, októrych mowa wart. 63;
-6) nieprzekraczalny termin rozpocz´cia dzia∏alnoÊci.
-2. Wprzypadku prowadzenia dzia∏alnoÊci wzakresie zak∏adów wzajemnych termin, którym mowa ust. 1 pkt 6, dotyczy rozpocz´cia dzia∏alnoÊci we wszystkich punktach przyjmowania zak∏adów wzajemnych.
-44.Zezwolenie na urzàdzenie turnieju gry pokera obejmuje:
-1) nazw´ spó∏ki;
-2) nazw´ turnieju gry pokera;
-3) czas imiejsce urzàdzania turnieju gry pokera.
-7) planowanà wielkoÊç sprzeda˝y losów lub kartonów;
-8) nieprzekraczalny termin rozpocz´cia dzia∏alnoÊci.
-46. Zezwolenie na urzàdzenie loterii promocyjnej lub loterii audioteksowej obejmuje:
-1) nazw´ podmiotu urzàdzajàcego loteri´;
-2) nazw´ loterii;
-3) nazwiska osób zarzàdzajàcych podmiotem urzàdzajàcym loteri´;
-4) obszar, na którym loteria b´dzie urzàdzana;
-5) czas urzàdzania loterii;
-6) nieprzekraczalny termin rozpocz´cia dzia∏alnoÊci.
-47.Do koncesji izezwoleƒ do∏àcza si´ zatwierdzone regulaminy gier lub zak∏adów.
-48. 1. Podmiot posiadajàcy koncesj´ lub zezwolenie mo˝e wystàpiç przed∏u˝enie okreÊlonego nich terminu rozpocz´cia dzia∏alnoÊci. Termin ten mo˝e zostaç przed∏u˝ony jednokrotnie, na okres nie d∏u˝szy ni˝ 6 miesi´cy.
-2. W przypadku nierozpocz´cia dzia∏alnoÊci terminie okreÊlonym koncesji lub zezwoleniu, koncesja lub zezwolenie wygasajà ca∏oÊci lub cz´Êci, wktórej nie podj´to dzia∏alnoÊci.
-49. 1. Koncesji na prowadzenie kasyna gry udziela si´ na okres 6 lat.
-2. Zezwolenia na prowadzenie salonu gry bingo pieni´˝ne oraz zezwolenia na urzàdzanie zak∏adów wzajemnych udziela si´ na okres 6 lat.
-3. Zezwolenia na urzàdzenie turnieju gry pokera udziela si´ na czas jego urzàdzania, nie d∏u˝ej jednak ni˝ na 3 miesiàce.
-4. Zezwolenia na urzàdzenie loterii fantowej, gry bingo fantowe, loterii promocyjnej oraz loterii audioteksowej udziela si´ na okres trwania loterii lub gry, nie d∏u˝ej jednak ni˝ na 2 lata.
-45. Zezwolenie na urzàdzenie loterii fantowej oraz gry bingo fantowe obejmuje:
-1) nazw´ podmiotu urzàdzajàcego gr´;
-5. Podmiot posiadajàcy zezwolenie, októrym mowa wust. 2, które wygasa zuwagi na up∏yw terminu, na jaki zosta∏o ono udzielone, mo˝e wystàpiç jednorazowo ojego przed∏u˝enie na okres 6 lat.
-6. Do wniosku oprzed∏u˝enie zezwolenia przepisy nych lokalizacjach wmiejscowoÊci oraz województwie.
-2. Je˝eli z informacji, której mowa ust. 1, wynika, ˝e wchwili wygaÊni´cia koncesji lub zezwolenia brak b´dzie innych wolnych lokalizacji, wniosek udzielenie koncesji lub zezwolenia sk∏ada si´ terminie 3 miesi´cy od opublikowania informacji, której mowa wust. 1.
-51. 1. Organ w∏aÊciwy sprawie udzielenia koncesji lub zezwolenia mo˝e, na wniosek podmiotu, który je uzyska∏, dokonaç zmiany koncesji lub zezwolenia.
-2. Zmiana, októrej mowa wust. 1, mo˝e dotyczyç:
-1) przypadku koncesji na prowadzenie kasyna gry lub zezwolenia na prowadzenie salonu gry bingo pieni´˝ne lub na urzàdzanie zak∏adów wzajemnych:
-a) miejsca urzàdzania gier lub zak∏adów, z tym ˝e wskutek zmiany zezwolenia nie mo˝e nastàpiç zwi´kszenie pierwotnej liczby punktów przyjmowania zak∏adów wzajemnych,
-b) rodzaju i minimalnej oraz maksymalnej liczby gier cylindrycznych, gier karty, gier koÊci, a tak˝e minimalnej oraz maksymalnej liczby gier na automatach oraz rodzaju zak∏adów wzajemnych,
-c) warunków, które powinna spe∏niaç spó∏ka, szczególnoÊci dotyczàcych zabezpieczeƒ finansowych, októrych mowa wart. 63,
-d) zatwierdzonych warunków technicznych prowadzenia rejestracji goÊci;
-2) wprzypadku zezwolenia na urzàdzanie loterii fantowej lub gry bingo fantowe:
-a) nazwy podmiotu urzàdzajàcego gr´,
-b) nazwisk osób zarzàdzajàcych podmiotem urzàdzajàcym gr´,
-c) czasu urzàdzania gry, z wyjàtkiem skrócenia czasu jej urzàdzania;
-3) wprzypadku zezwolenia na urzàdzanie loterii promocyjnej lub loterii audioteksowej:
-a) nazwy podmiotu urzàdzajàcego loteri´,
-b) nazwisk osób zarzàdzajàcych podmiotem urzàdzajàcym loteri´,
-c) czasu urzàdzania loterii, z wyjàtkiem skrócenia czasu jej urzàdzania.
-3. Do wniosku zmian´ koncesji lub zezwolenia, zale˝noÊci od zakresu wnioskowanej zmiany, za∏à2. Wniosek wyra˝enie zgody, której mowa wust. 1, powinien zawieraç:
-1) imienne oznaczenie akcjonariuszy (wspólników), zokreÊleniem wartoÊci ich akcji (udzia∏ów);
-2) wskazanie nabywcy (zastawnika) razie nabycia (zastawu) akcji lub udzia∏ów:
-a) wprzypadku spó∏ek handlowych przez podanie pe∏nej nazwy iadresu siedziby spó∏ki,
-b) przypadku osoby fizycznej przez podanie danych osobowych tej osoby (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz seri´ inumer dokumentu to˝samoÊci, informacje dotyczàce posiadanego wykszta∏cenia oraz doÊwiadczenia zawodowego);
-3) wskazanie êróde∏ pochodzenia Êrodków na nabycie lub obj´cie akcji (udzia∏ów).
-3. Do wniosku do∏àcza si´:
-1) odpis aktu notarialnego statutu lub umowy spó∏ki oraz aktualny odpis z Krajowego Rejestru Sàdowego;
-2) aktualny odpis umowy lub statutu spó∏ki oraz aktualny odpis z Krajowego Rejestru Sàdowego, przypadku spó∏ki, której mowa ust. 2 pkt 2 lit. a;
-3) aktualne zaÊwiadczenie, ˝e osoba, której mowa ust. 2 pkt 2 lit. b, nie by∏a skazana za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe oraz oÊwiadczenie tej osoby, ˝e nie toczy si´ przeciwko niej post´powanie przed organami wymiaru sprawiedliwoÊci sprawach przest´pstw okreÊlonych wart. 299 Kodeksu karnego;
-4) dokumenty potwierdzajàce stan finansowy spó∏ki, której akcje (udzia∏y) sà zbywane, oraz sytuacj´ finansowà nabywcy;
-5) dokumenty potwierdzajàce legalnoÊç Êrodków na nabycie akcji (udzia∏ów), wszczególnoÊci:
-a) przypadku spó∏ki, której mowa ust. 2 pkt2 lit. a sprawozdanie finansowe sporzàdzone wsposób okreÊlony wodr´bnych przepisach,
-b) przypadku osoby, której mowa ust. 2 pkt2 lit. b— zaÊwiadczenie w∏aÊciwego naczelnika urz´du skarbowego pokryciu Êrodków zujawnionych êróde∏ przychodów.
-4. W przypadku gdy zmiana strukturze kapita∏u zak∏adowego dotyczy akcji (udzia∏ów) akcjonariusza (wspólnika) dysponujàcego akcjami (udzia∏ami), któkresie takich gier lub zak∏adów wzajemnych.
-2. Wniosek wyra˝enie zgody, której mowa ust. 1, powinien zawieraç dane osobowe nowego cz∏onka zarzàdu lub rady nadzorczej (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz seri´ i numer dokumentu to˝samoÊci, informacje dotyczàce posiadanego wykszta∏cenia oraz doÊwiadczenia zawodowego).
-3. Do wniosku do∏àcza si´ aktualne zaÊwiadczenie, potwierdzajàce, ˝e nowy cz∏onek zarzàdu lub rady nadzorczej nie by∏ skazany za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe, oraz z∏o˝one przez niego oÊwiadczenie, ˝e nie toczy si´ przeciwko niemu post´powanie przed organami wymiaru sprawiedliwoÊci sprawach przest´pstwa okreÊlone wart. 299 Kodeksu karnego.
-54. 1. Po uzyskaniu zgody, której mowa wart. 52 ust. 1 lub art. 53 ust. 1, spó∏ka informuje organ, który udzieli∏ jej koncesji lub zezwolenia, odokonaniu zmian strukturze kapita∏u zak∏adowego lub sk∏adzie zarzàdu lub rady nadzorczej, terminie 7 dni od dnia zarejestrowania tych zmian wKrajowym Rejestrze Sàdowym lub od zg∏oszenia ich wsàdzie rejestrowym, przedk∏adajàc dokumenty potwierdzajàce dokonanie tych zmian lub dokonanie zg∏oszenia.
-2. W terminie 14 dni od dnia otrzymania informacji, której mowa ust. 1, organ, który udzieli∏ spó∏ce koncesji lub zezwolenia, dokonuje odpowiedniej zmiany tej koncesji lub tego zezwolenia.
-55. 1. O dokonaniu innych ni˝ okreÊlone art.52 i 53 zmian dotyczàcych spó∏ki, spó∏ka obowiàzana jest poinformowaç organ, który udzieli∏ jej koncesji lub zezwolenia, terminie 7 dni od dnia zarejestrowania tych zmian Krajowym Rejestrze Sàdowym, przedk∏adajàc dokumenty potwierdzajàce ich dokonanie.
-2. Wterminie 14 dni od dnia otrzymania informacji, której mowa ust. 1, organ, który udzieli∏ spó∏ce koncesji lub zezwolenia, dokonuje odpowiedniej ich zmiany, je˝eli wymaga tego rodzaj zg∏oszonej zmiany.
-56. 1. Aktualny odpis z Krajowego Rejestru Sàdowego nie mo˝e byç wystawiony wczeÊniej ni˝ na miesiàc przed dniem z∏o˝enia wniosku.
-2. ZaÊwiadczenia oniezaleganiu wpodatkach stanowiàcych dochód bud˝etu paƒstwa oraz sk∏adkach na ubezpieczenia spo∏eczne i ubezpieczenie zdrowotne uwa˝a si´ za aktualne, je˝eli zosta∏y wystasà obywatelami lub sta∏ymi mieszkaƒcami, wystawione nie wczeÊniej ni˝ na 6 miesi´cy przed dniem ich przedstawienia.
-57. Dokumenty do∏àczane do wniosków powinny zostaç przed∏o˝one formie orygina∏ów lub kopii poÊwiadczonych za zgodnoÊç z orygina∏em przez notariusza, adwokata lub radc´ prawnego.
-58.Organ udzielajàcy koncesji lub zezwolenia mo˝e wezwaç podmiot, któremu udzielono koncesji lub zezwolenia, do usuni´cia stwierdzonych uchybieƒ wwyznaczonym terminie ipowiadomienia tego organu oterminie isposobie ich usuni´cia.
-59. Organ w∏aÊciwy wsprawie udzielenia koncesji lub zezwolenia, drodze decyzji, cofa koncesj´ lub zezwolenie, wca∏oÊci lub wcz´Êci, wprzypadku:
-1) nieusuni´cia wyznaczonym terminie stanu faktycznego lub prawnego niezgodnego zprzepisami regulujàcymi dzia∏alnoÊç obj´tà koncesjà lub zezwoleniem, lub z warunkami okreÊlonymi koncesji, zezwoleniu lub regulaminie;
-2) ra˝àcego naruszenia warunków okreÊlonych koncesji, zezwoleniu lub regulaminie, lub innych okreÊlonych przepisami prawa warunków wykonywania dzia∏alnoÊci, na którà udzielono koncesji lub zezwolenia;
-3) obni˝enia kapita∏u zak∏adowego spó∏ki poni˝ej granicy okreÊlonej wart. 10 ust. 1;
-4) zaprzestania lub niewykonywania przez okres d∏u˝szy ni˝ 6 miesi´cy dzia∏alnoÊci obj´tej koncesjà lub zezwoleniem, chyba ˝e niewykonywanie tej dzia∏alnoÊci jest nast´pstwem dzia∏ania si∏y wy˝szej;
-5) skazania osoby b´dàcej akcjonariuszem (wspólnikiem), cz∏onkiem organów zarzàdzajàcych lub nadzorczych spó∏ki za przest´pstwo okreÊlone wart. 299 Kodeksu karnego;
-6) dwukrotnego stwierdzenia uczestnictwa grach hazardowych osoby poni˝ej 18 roku ˝ycia, tym samym oÊrodku gier lub punkcie przyjmowania zak∏adów wzajemnych.
-60. 1. Podmiot ubiegajàcy si´ koncesj´ lub zezwolenie przedstawia organowi w∏aÊciwemu do ich udzielenia, do zatwierdzenia, projekt regulaminu urzàdzanej gry lub zak∏adu wzajemnego albo turnieju gry pokera. Podmiot wykonujàcy monopol paƒstwa wzakresie gier losowych przedstawia ministrowi w∏aÊcitor izby celnej.
-4. Rozpatrzenie wniosku sprawie zatwierdzenia regulaminu lub jego zmiany nast´puje terminie 6miesi´cy od dnia jego z∏o˝enia, z wyjàtkiem wniosku dotyczàcego regulaminu lub zmiany regulaminu loterii promocyjnej lub loterii audioteksowej, a tak˝e zmiany regulaminu turnieju gry pokera, których rozpatrzenie nast´puje terminie 2 miesi´cy od dnia z∏o˝enia wniosku.
-61.1. Regulamin gry hazardowej, zzastrze˝eniem ust. 2 i 3, oraz regulamin turnieju gry pokera okreÊla:
-1) nazw´ podmiotu urzàdzajàcego gr´ lub turniej;
-2) szczegó∏owe warunki i zasady gry lub turnieju, tym okreÊlenie wygranych, terminu oraz miejsca gry lub turnieju;
-3) prawa iobowiàzki uczestników gry lub turnieju;
-4) tryb i terminy rozpatrywania reklamacji oraz tryb i termin zg∏aszania roszczeƒ zg∏aszanych przez uczestników gry lub turnieju;
-5) wysokoÊç kapita∏u gry lub turnieju, przeznaczonego do natychmiastowej wyp∏aty wygranych.
-2. Regulamin loterii fantowej lub gry bingo fantowe okreÊla:
-1) nazw´ gry;
-2) nazw´ podmiotu urzàdzajàcego gr´;
-3) wskazanie organu wydajàcego zezwolenie;
-4) obszar, na którym b´dzie urzàdzana gra, oraz miejsce itermin losowania nagród;
-5) liczb´ losów lub kartonów przeznaczonych do sprzeda˝y;
-6) cen´ jednego losu lub kartonu;
+8) dokumenty potwierdzające legalność êródeł pochodzenia środków finansowych przeznaczonych na organizację loterii;
+9) aktualne zaświadczenia niezaleganiu podatkach stanowiących dochód budżetu państwa, oniezaleganiu zzapłatą składek na ubezpieczenia społeczne oraz ubezpieczenie zdrowotne.
+40. 1. Rozpatrzenie wniosków udzielenie koncesji albo zezwolenia następuje wterminie 6 miesięcy od dnia złożenia wniosku.
+2. Rozpatrzenie wniosków, których mowa wust. 1, odnoszących się do loterii promocyjnej, lote42.Koncesja na prowadzenie kasyna gry obejmuje:
+1) nazwę spółki;
+2) zatwierdzoną strukturę udziałów lub akcji imiennych, a także nazwiska członków zarządu i rady nadzorczej spółki;
+3) miejsce urządzania gier;
+4) rodzaj iminimalną oraz maksymalną liczbę gier;
+5) warunki, które powinna spełniać spółka, szczególności dotyczące zabezpieczeń, októrych mowa wart. 63;
+6) zatwierdzone warunki techniczne prowadzenia rejestracji gości;
+7) nieprzekraczalny termin rozpoczęcia działalności.
+43. 1. Zezwolenie na prowadzenie salonu gry bingo pieniężne oraz na urządzanie zakładów wzajemnych obejmuje:
+1) nazwę spółki;
+2) zatwierdzoną strukturę udziałów lub akcji imiennych, a także nazwiska członków zarządu i rady nadzorczej spółki;
+3) miejsce urządzania gry lub zakładów;
+4) rodzaj zakładów;
+5) warunki, które powinna spełniać spółka, szczególności dotyczące zabezpieczeń, októrych mowa wart. 63;
+6) nieprzekraczalny termin rozpoczęcia działalności.
+2. Wprzypadku prowadzenia działalności wzakresie zakładów wzajemnych termin, którym mowa ust. 1 pkt 6, dotyczy rozpoczęcia działalności we wszystkich punktach przyjmowania zakładów wzajemnych.
+44.Zezwolenie na urządzenie turnieju gry pokera obejmuje:
+1) nazwę spółki;
+2) nazwę turnieju gry pokera;
+3) czas imiejsce urządzania turnieju gry pokera.
+7) planowaną wielkość sprzedaży losów lub kartonów;
+8) nieprzekraczalny termin rozpoczęcia działalności.
+46. Zezwolenie na urządzenie loterii promocyjnej lub loterii audioteksowej obejmuje:
+1) nazwę podmiotu urządzającego loterię;
+2) nazwę loterii;
+3) nazwiska osób zarządzających podmiotem urządzającym loterię;
+4) obszar, na którym loteria będzie urządzana;
+5) czas urządzania loterii;
+6) nieprzekraczalny termin rozpoczęcia działalności.
+47.Do koncesji izezwoleń dołącza się zatwierdzone regulaminy gier lub zakładów.
+48. 1. Podmiot posiadający koncesję lub zezwolenie może wystąpić przedłużenie określonego nich terminu rozpoczęcia działalności. Termin ten może zostać przedłużony jednokrotnie, na okres nie dłuższy niż 6 miesięcy.
+2. W przypadku nierozpoczęcia działalności terminie określonym koncesji lub zezwoleniu, koncesja lub zezwolenie wygasają całości lub części, wktórej nie podjęto działalności.
+49. 1. Koncesji na prowadzenie kasyna gry udziela się na okres 6 lat.
+2. Zezwolenia na prowadzenie salonu gry bingo pieniężne oraz zezwolenia na urządzanie zakładów wzajemnych udziela się na okres 6 lat.
+3. Zezwolenia na urządzenie turnieju gry pokera udziela się na czas jego urządzania, nie dłużej jednak niż na 3 miesiące.
+4. Zezwolenia na urządzenie loterii fantowej, gry bingo fantowe, loterii promocyjnej oraz loterii audioteksowej udziela się na okres trwania loterii lub gry, nie dłużej jednak niż na 2 lata.
+45. Zezwolenie na urządzenie loterii fantowej oraz gry bingo fantowe obejmuje:
+1) nazwę podmiotu urządzającego grę;
+5. Podmiot posiadający zezwolenie, októrym mowa wust. 2, które wygasa zuwagi na upływ terminu, na jaki zostało ono udzielone, może wystąpić jednorazowo ojego przedłużenie na okres 6 lat.
+6. Do wniosku oprzedłużenie zezwolenia przepisy nych lokalizacjach wmiejscowości oraz województwie.
+2. Jeżeli z informacji, której mowa ust. 1, wynika, że wchwili wygaśnięcia koncesji lub zezwolenia brak będzie innych wolnych lokalizacji, wniosek udzielenie koncesji lub zezwolenia składa się terminie 3 miesięcy od opublikowania informacji, której mowa wust. 1.
+51. 1. Organ właściwy sprawie udzielenia koncesji lub zezwolenia może, na wniosek podmiotu, który je uzyskał, dokonać zmiany koncesji lub zezwolenia.
+2. Zmiana, októrej mowa wust. 1, może dotyczyć:
+1) przypadku koncesji na prowadzenie kasyna gry lub zezwolenia na prowadzenie salonu gry bingo pieniężne lub na urządzanie zakładów wzajemnych:
+a) miejsca urządzania gier lub zakładów, z tym że wskutek zmiany zezwolenia nie może nastąpić zwiększenie pierwotnej liczby punktów przyjmowania zakładów wzajemnych,
+b) rodzaju i minimalnej oraz maksymalnej liczby gier cylindrycznych, gier karty, gier kości, a także minimalnej oraz maksymalnej liczby gier na automatach oraz rodzaju zakładów wzajemnych,
+c) warunków, które powinna spełniać spółka, szczególności dotyczących zabezpieczeń finansowych, októrych mowa wart. 63,
+d) zatwierdzonych warunków technicznych prowadzenia rejestracji gości;
+2) wprzypadku zezwolenia na urządzanie loterii fantowej lub gry bingo fantowe:
+a) nazwy podmiotu urządzającego grę,
+b) nazwisk osób zarządzających podmiotem urządzającym grę,
+c) czasu urządzania gry, z wyjątkiem skrócenia czasu jej urządzania;
+3) wprzypadku zezwolenia na urządzanie loterii promocyjnej lub loterii audioteksowej:
+a) nazwy podmiotu urządzającego loterię,
+b) nazwisk osób zarządzających podmiotem urządzającym loterię,
+c) czasu urządzania loterii, z wyjątkiem skrócenia czasu jej urządzania.
+3. Do wniosku zmianę koncesji lub zezwolenia, zależności od zakresu wnioskowanej zmiany, załą2. Wniosek wyrażenie zgody, której mowa wust. 1, powinien zawierać:
+1) imienne oznaczenie akcjonariuszy (wspólników), zokreśleniem wartości ich akcji (udziałów);
+2) wskazanie nabywcy (zastawnika) razie nabycia (zastawu) akcji lub udziałów:
+a) wprzypadku spółek handlowych przez podanie pełnej nazwy iadresu siedziby spółki,
+b) przypadku osoby fizycznej przez podanie danych osobowych tej osoby (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię inumer dokumentu tożsamości, informacje dotyczące posiadanego wykształcenia oraz doświadczenia zawodowego);
+3) wskazanie êródeł pochodzenia środków na nabycie lub objęcie akcji (udziałów).
+3. Do wniosku dołącza się:
+1) odpis aktu notarialnego statutu lub umowy spółki oraz aktualny odpis z Krajowego Rejestru Sądowego;
+2) aktualny odpis umowy lub statutu spółki oraz aktualny odpis z Krajowego Rejestru Sądowego, przypadku spółki, której mowa ust. 2 pkt 2 lit. a;
+3) aktualne zaświadczenie, że osoba, której mowa ust. 2 pkt 2 lit. b, nie była skazana za umyślne przestępstwo lub umyślne przestępstwo skarbowe oraz oświadczenie tej osoby, że nie toczy się przeciwko niej postępowanie przed organami wymiaru sprawiedliwości sprawach przestępstw określonych wart. 299 Kodeksu karnego;
+4) dokumenty potwierdzające stan finansowy spółki, której akcje (udziały) są zbywane, oraz sytuację finansową nabywcy;
+5) dokumenty potwierdzające legalność środków na nabycie akcji (udziałów), wszczególności:
+a) przypadku spółki, której mowa ust. 2 pkt2 lit. a sprawozdanie finansowe sporządzone wsposób określony wodrębnych przepisach,
+b) przypadku osoby, której mowa ust. 2 pkt2 lit. b— zaświadczenie właściwego naczelnika urzędu skarbowego pokryciu środków zujawnionych êródeł przychodów.
+4. W przypadku gdy zmiana strukturze kapitału zakładowego dotyczy akcji (udziałów) akcjonariusza (wspólnika) dysponującego akcjami (udziałami), któkresie takich gier lub zakładów wzajemnych.
+2. Wniosek wyrażenie zgody, której mowa ust. 1, powinien zawierać dane osobowe nowego członka zarządu lub rady nadzorczej (imiona, nazwiska, obywatelstwo, miejsce zamieszkania, rodzaj oraz serię i numer dokumentu tożsamości, informacje dotyczące posiadanego wykształcenia oraz doświadczenia zawodowego).
+3. Do wniosku dołącza się aktualne zaświadczenie, potwierdzające, że nowy członek zarządu lub rady nadzorczej nie był skazany za umyślne przestępstwo lub umyślne przestępstwo skarbowe, oraz złożone przez niego oświadczenie, że nie toczy się przeciwko niemu postępowanie przed organami wymiaru sprawiedliwości sprawach przestępstwa określone wart. 299 Kodeksu karnego.
+54. 1. Po uzyskaniu zgody, której mowa wart. 52 ust. 1 lub art. 53 ust. 1, spółka informuje organ, który udzielił jej koncesji lub zezwolenia, odokonaniu zmian strukturze kapitału zakładowego lub składzie zarządu lub rady nadzorczej, terminie 7 dni od dnia zarejestrowania tych zmian wKrajowym Rejestrze Sądowym lub od zgłoszenia ich wsądzie rejestrowym, przedkładając dokumenty potwierdzające dokonanie tych zmian lub dokonanie zgłoszenia.
+2. W terminie 14 dni od dnia otrzymania informacji, której mowa ust. 1, organ, który udzielił spółce koncesji lub zezwolenia, dokonuje odpowiedniej zmiany tej koncesji lub tego zezwolenia.
+55. 1. O dokonaniu innych niż określone art.52 i 53 zmian dotyczących spółki, spółka obowiązana jest poinformować organ, który udzielił jej koncesji lub zezwolenia, terminie 7 dni od dnia zarejestrowania tych zmian Krajowym Rejestrze Sądowym, przedkładając dokumenty potwierdzające ich dokonanie.
+2. Wterminie 14 dni od dnia otrzymania informacji, której mowa ust. 1, organ, który udzielił spółce koncesji lub zezwolenia, dokonuje odpowiedniej ich zmiany, jeżeli wymaga tego rodzaj zgłoszonej zmiany.
+56. 1. Aktualny odpis z Krajowego Rejestru Sądowego nie może być wystawiony wcześniej niż na miesiąc przed dniem złożenia wniosku.
+2. Zaświadczenia oniezaleganiu wpodatkach stanowiących dochód budżetu państwa oraz składkach na ubezpieczenia społeczne i ubezpieczenie zdrowotne uważa się za aktualne, jeżeli zostały wystasą obywatelami lub stałymi mieszkańcami, wystawione nie wcześniej niż na 6 miesięcy przed dniem ich przedstawienia.
+57. Dokumenty dołączane do wniosków powinny zostać przedłożone formie oryginałów lub kopii poświadczonych za zgodność z oryginałem przez notariusza, adwokata lub radcę prawnego.
+58.Organ udzielający koncesji lub zezwolenia może wezwać podmiot, któremu udzielono koncesji lub zezwolenia, do usunięcia stwierdzonych uchybień wwyznaczonym terminie ipowiadomienia tego organu oterminie isposobie ich usunięcia.
+59. Organ właściwy wsprawie udzielenia koncesji lub zezwolenia, drodze decyzji, cofa koncesję lub zezwolenie, wcałości lub wczęści, wprzypadku:
+1) nieusunięcia wyznaczonym terminie stanu faktycznego lub prawnego niezgodnego zprzepisami regulującymi działalność objętą koncesją lub zezwoleniem, lub z warunkami określonymi koncesji, zezwoleniu lub regulaminie;
+2) rażącego naruszenia warunków określonych koncesji, zezwoleniu lub regulaminie, lub innych określonych przepisami prawa warunków wykonywania działalności, na którą udzielono koncesji lub zezwolenia;
+3) obniżenia kapitału zakładowego spółki poniżej granicy określonej wart. 10 ust. 1;
+4) zaprzestania lub niewykonywania przez okres dłuższy niż 6 miesięcy działalności objętej koncesją lub zezwoleniem, chyba że niewykonywanie tej działalności jest następstwem działania siły wyższej;
+5) skazania osoby będącej akcjonariuszem (wspólnikiem), członkiem organów zarządzających lub nadzorczych spółki za przestępstwo określone wart. 299 Kodeksu karnego;
+6) dwukrotnego stwierdzenia uczestnictwa grach hazardowych osoby poniżej 18 roku życia, tym samym ośrodku gier lub punkcie przyjmowania zakładów wzajemnych.
+60. 1. Podmiot ubiegający się koncesję lub zezwolenie przedstawia organowi właściwemu do ich udzielenia, do zatwierdzenia, projekt regulaminu urządzanej gry lub zakładu wzajemnego albo turnieju gry pokera. Podmiot wykonujący monopol państwa wzakresie gier losowych przedstawia ministrowi właścitor izby celnej.
+4. Rozpatrzenie wniosku sprawie zatwierdzenia regulaminu lub jego zmiany następuje terminie 6miesięcy od dnia jego złożenia, z wyjątkiem wniosku dotyczącego regulaminu lub zmiany regulaminu loterii promocyjnej lub loterii audioteksowej, a także zmiany regulaminu turnieju gry pokera, których rozpatrzenie następuje terminie 2 miesięcy od dnia złożenia wniosku.
+61.1. Regulamin gry hazardowej, zzastrzeżeniem ust. 2 i 3, oraz regulamin turnieju gry pokera określa:
+1) nazwę podmiotu urządzającego grę lub turniej;
+2) szczegółowe warunki i zasady gry lub turnieju, tym określenie wygranych, terminu oraz miejsca gry lub turnieju;
+3) prawa iobowiązki uczestników gry lub turnieju;
+4) tryb i terminy rozpatrywania reklamacji oraz tryb i termin zgłaszania roszczeń zgłaszanych przez uczestników gry lub turnieju;
+5) wysokość kapitału gry lub turnieju, przeznaczonego do natychmiastowej wypłaty wygranych.
+2. Regulamin loterii fantowej lub gry bingo fantowe określa:
+1) nazwę gry;
+2) nazwę podmiotu urządzającego grę;
+3) wskazanie organu wydającego zezwolenie;
+4) obszar, na którym będzie urządzana gra, oraz miejsce itermin losowania nagród;
+5) liczbę losów lub kartonów przeznaczonych do sprzedaży;
+6) cenę jednego losu lub kartonu;
 7) sposób prowadzenia gry;
-8) sposób zapewnienia prawid∏owoÊci urzàdzania gry;
-9) terminy rozpocz´cia i zakoƒczenia sprzeda˝y losprzeda˝y losów lub kartonów.
-3. Regulamin loterii promocyjnej lub loterii audioteksowej okreÊla:
-1) nazw´ loterii;
-2) nazw´ podmiotu urzàdzajàcego loteri´;
-3) wskazanie organu wydajàcego zezwolenie;
+8) sposób zapewnienia prawidłowości urządzania gry;
+9) terminy rozpoczęcia i zakończenia sprzedaży losprzedaży losów lub kartonów.
+3. Regulamin loterii promocyjnej lub loterii audioteksowej określa:
+1) nazwę loterii;
+2) nazwę podmiotu urządzającego loterię;
+3) wskazanie organu wydającego zezwolenie;
 4) zasady prowadzenia loterii;
-5) obszar, na którym b´dzie urzàdzana loteria;
+5) obszar, na którym będzie urządzana loteria;
 6) czas trwania loterii;
-7) sposób urzàdzania loterii, szczególnoÊci miejsce itermin losowania nagród;
-8) sposób zapewnienia prawid∏owoÊci urzàdzania loterii;
-9) sposób itermin og∏aszania wyników;
+7) sposób urządzania loterii, szczególności miejsce itermin losowania nagród;
+8) sposób zapewnienia prawidłowości urządzania loterii;
+9) sposób itermin ogłaszania wyników;
 10) miejsce itermin wydawania wygranych;
-11) tryb i terminy rozpatrywania reklamacji i zg∏aszania roszczeƒ;
-12) wartoÊç puli nagród;
-13) przypadku loterii promocyjnej termin rozpocz´cia i zakoƒczenia sprzeda˝y towarów lub innych dowodów udzia∏u wloterii promocyjnej.
-4. Podmiot urzàdzajàcy gry hazardowe jest obowiàzany zapewniç ich uczestnikom mo˝liwoÊç zapoznania si´ ztreÊcià regulaminu tych gier.
-62. 1. W przypadku naruszenia ustawy lub uchybienia przepisom regulaminów gier przez spó∏k´ urzàdzajàcà gry stanowiàce monopol paƒstwa minister w∏aÊciwy do spraw finansów publicznych wydaje, drodze decyzji, polecenie usuni´cia stwierdzonych naruszeƒ lub uchybieƒ wterminie 30 dni od dnia otrzymania decyzji.
-2. Minister w∏aÊciwy do spraw finansów publicznych informuje ministra w∏aÊciwego do spraw Skarbu Paƒstwa, nieusuni´ciu terminie stwierdzonych naruszeƒ lub uchybieƒ przekazujàc mu szczegó∏owà informacj´ otych naruszeniach iuchybieniach.
+11) tryb i terminy rozpatrywania reklamacji i zgłaszania roszczeń;
+12) wartość puli nagród;
+13) przypadku loterii promocyjnej termin rozpoczęcia i zakończenia sprzedaży towarów lub innych dowodów udziału wloterii promocyjnej.
+4. Podmiot urządzający gry hazardowe jest obowiązany zapewnić ich uczestnikom możliwość zapoznania się ztreścią regulaminu tych gier.
+62. 1. W przypadku naruszenia ustawy lub uchybienia przepisom regulaminów gier przez spółkę urządzającą gry stanowiące monopol państwa minister właściwy do spraw finansów publicznych wydaje, drodze decyzji, polecenie usunięcia stwierdzonych naruszeń lub uchybień wterminie 30 dni od dnia otrzymania decyzji.
+2. Minister właściwy do spraw finansów publicznych informuje ministra właściwego do spraw Skarbu Państwa, nieusunięciu terminie stwierdzonych naruszeń lub uchybień przekazując mu szczegółową informację otych naruszeniach iuchybieniach.
 sów lub kartonów;
-10) cel spo∏ecznie u˝yteczny, szczególnoÊci dobro- 3. Minister w∏aÊciwy do spraw Skarbu Paƒstwa czynny, na który zostanie przeznaczony dochód podejmuje czynnoÊci majàce na celu usuni´cie zgry; stwierdzonych naruszeƒ lub uchybieƒ i niezw∏ocznie Liczba (kasyn, salonów lub punktów) KrotnoÊç zabezpieczeƒ od 1 do 3 1 zabezpieczenie od 4 do 6 2 zabezpieczenia od 7 do 9 3 zabezpieczenia od 10 do 20 4 zabezpieczenia od 21 do 30 5 zabezpieczeƒ od 31 do 40 6 zabezpieczeƒ z tym, ˝e krotnoÊç zabezpieczeƒ zwi´ksza si´ 1 na ka˝de rozpocz´te 10 oÊrodków powy˝ej 40.
-3. Zabezpieczenia finansowe mogà polegaç na: zgodnie zart. 63 ust. 4, organ udzielajàcy koncesji lub zezwolenia mo˝e wezwaç gwaranta do zap∏aty, obcià1) przedstawieniu gwarancji bankowych lub ubez- ˝yç rachunek bankowy, którym mowa art. 63 pieczeniowych; ust. 3 pkt 2, bàdê wszczàç post´powanie wcelu zaspokojenia zaleg∏oÊci podatkowej lub zg∏oszonego rosz2) z∏o˝eniu w∏aÊciwej kwoty na rachunku bankowym czenia znieruchomoÊci obcià˝onej hipotekà.
-wskazanym przez organ udzielajàcy koncesji lub zezwoleƒ, lub 65.1. Zabezpieczenie finansowe zostaje zwol3) zabezpieczeniu hipotecznym. nione przypadku, gdy zobowiàzanie podatkowe podatku od gier wygaÊnie albo nie b´dzie mog∏o
-4. Wgwarancjach, októrych mowa wust. 3 pkt 1, ju˝ powstaç lub up∏ynie termin, którym uczestnicy gwarant zobowiàzuje si´ na piÊmie do zap∏acenia, gier hazardowych mogà wystàpiç z roszczeniami bezwarunkowo i nieodwo∏alnie, na ka˝de wezwanie stosunku do podmiotu prowadzàcego dzia∏alnoÊç organu udzielajàcego koncesji lub zezwolenia, kwoty wzakresie okreÊlonym wart. 6 ust. 1—3.
-nale˝nego podatku od gier wraz zodsetkami za zw∏o- 2. Zwolnienie zabezpieczenia nast´puje na wniok´ oraz kwoty na pokrycie roszczeƒ uczestników gier sek podmiotu, który je z∏o˝y∏, wterminie 7 dni. Kwoty hazardowych za zgodà podmiotu je urzàdzajàcego zgromadzone na rachunku, którym mowa art. 63 albo okreÊlonych prawomocnym orzeczeniu sàdo- ust. 3 pkt 2, sà zwracane wraz z odsetkami, je˝eli rawym.
-5. Gwarantem mo˝e byç wy∏àcznie osoba prawna majàca siedzib´ na terytorium Wspólnoty Europejskiej lub terytorium paƒstwa cz∏onkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy Europejskim Obszarze Gospodarczym, oddzia∏ banku zagranicznego oraz g∏ówny oddzia∏ zak∏adu ubezpieczeƒ, prowadzàce na terytorium Rzeczypospolitej Polskiej dzia∏alnoÊç bankowà lub ubezpieczeniowà, posiadajàce uprawnienie do udzielania gwarancji bankowych lub ubezpieczeniowych na ca∏ym tym terytorium.
-6. Kwota, której mowa ust. 3 pkt 2, powinna zostaç z∏o˝ona wwalucie polskiej.
-64.Wprzypadku gdy okreÊlona lub zadeklarochunek by∏ oprocentowany.
-66.1. Podmiot ubiegajàcy si´ oudzielenie zezwolenia na urzàdzanie loterii promocyjnej lub loterii audioteksowej jest obowiàzany posiadaç gwarancj´ bankowà wyp∏aty nagród do wysokoÊci wartoÊci nagród okreÊlonej wregulaminie loterii.
-2. Podmiot ubiegajàcy si´ oudzielenie zezwolenia na urzàdzanie loterii fantowej lub gry bingo fantowe jest obowiàzany posiadaç gwarancj´ wyp∏aty nagród do wysokoÊci wartoÊci nagród okreÊlonej wregulaminie loterii.
-67. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, szczegó∏owe warunki dokonywania zabezpieczeƒ finansowych, majàc na uwadze koniecznoÊç zabezpieczenia
-2) egzaminacyjnà;
-3) za wydanie Êwiadectwa zawodowego albo uznanie za równowa˝ne z nim Êwiadectwa, którym mowa wart. 25 ust. 6.
-2. Op∏at´ za udzielenie zezwolenia uiszcza si´ równie˝ wprzypadku przed∏u˝enia zezwolenia.
-3. Op∏aty stanowià dochód bud˝etu paƒstwa.
-4. Poboru op∏at, októrych mowa w:
-1) ust. 1 pkt 1 dokonuje organ udzielajàcy koncesji albo zezwolenia;
-2) ust. 1 pkt 2 i 3 dokonuje organ wydajàcy Êwiadectwo zawodowe albo organ uznajàcy za równowa˝ne z nim Êwiadectwo, którym mowa wart. 25 ust. 6.
-69.1. Op∏ata za udzielenie:
+10) cel społecznie użyteczny, szczególności dobro- 3. Minister właściwy do spraw Skarbu Państwa czynny, na który zostanie przeznaczony dochód podejmuje czynności mające na celu usunięcie zgry; stwierdzonych naruszeń lub uchybień i niezwłocznie Liczba (kasyn, salonów lub punktów) Krotność zabezpieczeń od 1 do 3 1 zabezpieczenie od 4 do 6 2 zabezpieczenia od 7 do 9 3 zabezpieczenia od 10 do 20 4 zabezpieczenia od 21 do 30 5 zabezpieczeń od 31 do 40 6 zabezpieczeń z tym, że krotność zabezpieczeń zwiększa się 1 na każde rozpoczęte 10 ośrodków powyżej 40.
+3. Zabezpieczenia finansowe mogą polegać na: zgodnie zart. 63 ust. 4, organ udzielający koncesji lub zezwolenia może wezwać gwaranta do zapłaty, obcią1) przedstawieniu gwarancji bankowych lub ubez- żyć rachunek bankowy, którym mowa art. 63 pieczeniowych; ust. 3 pkt 2, bądê wszcząć postępowanie wcelu zaspokojenia zaległości podatkowej lub zgłoszonego rosz2) złożeniu właściwej kwoty na rachunku bankowym czenia znieruchomości obciążonej hipoteką.
+wskazanym przez organ udzielający koncesji lub zezwoleń, lub 65.1. Zabezpieczenie finansowe zostaje zwol3) zabezpieczeniu hipotecznym. nione przypadku, gdy zobowiązanie podatkowe podatku od gier wygaśnie albo nie będzie mogło
+4. Wgwarancjach, októrych mowa wust. 3 pkt 1, już powstać lub upłynie termin, którym uczestnicy gwarant zobowiązuje się na piśmie do zapłacenia, gier hazardowych mogą wystąpić z roszczeniami bezwarunkowo i nieodwołalnie, na każde wezwanie stosunku do podmiotu prowadzącego działalność organu udzielającego koncesji lub zezwolenia, kwoty wzakresie określonym wart. 6 ust. 1—3.
+należnego podatku od gier wraz zodsetkami za zwło- 2. Zwolnienie zabezpieczenia następuje na wniokę oraz kwoty na pokrycie roszczeń uczestników gier sek podmiotu, który je złożył, wterminie 7 dni. Kwoty hazardowych za zgodą podmiotu je urządzającego zgromadzone na rachunku, którym mowa art. 63 albo określonych prawomocnym orzeczeniu sądo- ust. 3 pkt 2, są zwracane wraz z odsetkami, jeżeli rawym.
+5. Gwarantem może być wyłącznie osoba prawna mająca siedzibę na terytorium Wspólnoty Europejskiej lub terytorium państwa członkowskiego Europejskiego Stowarzyszenia Wolnego Handlu (EFTA) strony umowy Europejskim Obszarze Gospodarczym, oddział banku zagranicznego oraz główny oddział zakładu ubezpieczeń, prowadzące na terytorium Rzeczypospolitej Polskiej działalność bankową lub ubezpieczeniową, posiadające uprawnienie do udzielania gwarancji bankowych lub ubezpieczeniowych na całym tym terytorium.
+6. Kwota, której mowa ust. 3 pkt 2, powinna zostać złożona wwalucie polskiej.
+64.Wprzypadku gdy określona lub zadeklarochunek był oprocentowany.
+66.1. Podmiot ubiegający się oudzielenie zezwolenia na urządzanie loterii promocyjnej lub loterii audioteksowej jest obowiązany posiadać gwarancję bankową wypłaty nagród do wysokości wartości nagród określonej wregulaminie loterii.
+2. Podmiot ubiegający się oudzielenie zezwolenia na urządzanie loterii fantowej lub gry bingo fantowe jest obowiązany posiadać gwarancję wypłaty nagród do wysokości wartości nagród określonej wregulaminie loterii.
+67. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, szczegółowe warunki dokonywania zabezpieczeń finansowych, mając na uwadze konieczność zabezpieczenia
+2) egzaminacyjną;
+3) za wydanie świadectwa zawodowego albo uznanie za równoważne z nim świadectwa, którym mowa wart. 25 ust. 6.
+2. Opłatę za udzielenie zezwolenia uiszcza się również wprzypadku przedłużenia zezwolenia.
+3. Opłaty stanowią dochód budżetu państwa.
+4. Poboru opłat, októrych mowa w:
+1) ust. 1 pkt 1 dokonuje organ udzielający koncesji albo zezwolenia;
+2) ust. 1 pkt 2 i 3 dokonuje organ wydający świadectwo zawodowe albo organ uznający za równoważne z nim świadectwo, którym mowa wart. 25 ust. 6.
+69.1. Opłata za udzielenie:
 1) koncesji na prowadzenie kasyna gry wynosi 32 000 % kwoty bazowej;
-2) zezwolenia na prowadzenie salonu gry bingo pieni´˝ne wynosi 5 500 % kwoty bazowej;
-3) zezwolenia na urzàdzanie zak∏adów wzajemnych wynosi 2 000 % kwoty bazowej oraz dodatkowo za ka˝dy punkt przyjmowania zak∏adów wzajemnych 50 % kwoty bazowej;
-4) zezwolenia na urzàdzanie loterii fantowej albo gry bingo fantowe wynosi 100 % kwoty bazowej, agdy zezwolenie dotyczy gier urzàdzanych na obszarze jednego województwa 50 % kwoty bazowej;
-5) zezwolenia na urzàdzanie loterii promocyjnej albo loterii audioteksowej wynosi 10 % wartoÊci puli nagród, jednak nie mniej ni˝ 50 % kwoty bazowej;
-6) zezwolenia na urzàdzanie turnieju gry pokera wynosi 100 % kwoty bazowej.
-2. Op∏ata egzaminacyjna wynosi:
-1) dla stanowisk lub funkcji, zktórymi wià˝e si´ obowiàzek nadzorowania gier hazardowych:
-a) dyrektora i zast´pcy dyrektora 100 % kwoty bazowej,
-b) kierownika i zast´pcy kierownika 65 % kwoty bazowej, wej:
-a) osoby bezpoÊrednio prowadzàcej gr´, przyjmujàcej zak∏ady wzajemne, obs∏ugujàcej automaty lub urzàdzenia do gier, z wy∏àczeniem obs∏ugi technicznej 20 % kwoty bazowej,
-b) innych stanowisk lub funkcji, ni˝ wymienione wlit. a— 100 % kwoty bazowej.
-3. Op∏ata za wydanie Êwiadectwa zawodowego oraz op∏ata za uznanie za równowa˝ne znim Êwiadectwa wydanego przez wyspecjalizowanà jednostk´, októrej mowa wart. 25 ust. 6, wynosi 15 % kwoty bazowej.
-4. Op∏aty zaokràgla si´ do pe∏nego z∏otego ten sposób, ˝e kwoty wynoszàce mniej ni˝ 50 groszy pomija si´, a kwoty wynoszàce 50 groszy i wi´cej podwy˝sza si´ do pe∏nych z∏otych.
-70. Kwota bazowa dla danego roku kalendarzowego jest równa kwocie przeci´tnego miesi´cznego wynagrodzenia sektorze przedsi´biorstw bez wyp∏at nagród z zysku, drugim kwartale roku poprzedniego, og∏oszonego obwieszczeniu Prezesa G∏ównego Urz´du Statystycznego Dzienniku Urz´dowym G∏ównego Urz´du Statystycznego.
-Rozdzia∏ 7 Podatek od gier
-71.1. Podatnikiem podatku od gier jest osoba fizyczna, osoba prawna oraz jednostka organizacyjna niemajàca osobowoÊci prawnej, która prowadzi dzia∏alnoÊç zakresie gier hazardowych na podstawie udzielonej koncesji lub zezwolenia, podmioty urzàdzajàce gry obj´te monopolem paƒstwa oraz uczestnicy turnieju gry pokera.
+2) zezwolenia na prowadzenie salonu gry bingo pieniężne wynosi 5 500 % kwoty bazowej;
+3) zezwolenia na urządzanie zakładów wzajemnych wynosi 2 000 % kwoty bazowej oraz dodatkowo za każdy punkt przyjmowania zakładów wzajemnych 50 % kwoty bazowej;
+4) zezwolenia na urządzanie loterii fantowej albo gry bingo fantowe wynosi 100 % kwoty bazowej, agdy zezwolenie dotyczy gier urządzanych na obszarze jednego województwa 50 % kwoty bazowej;
+5) zezwolenia na urządzanie loterii promocyjnej albo loterii audioteksowej wynosi 10 % wartości puli nagród, jednak nie mniej niż 50 % kwoty bazowej;
+6) zezwolenia na urządzanie turnieju gry pokera wynosi 100 % kwoty bazowej.
+2. Opłata egzaminacyjna wynosi:
+1) dla stanowisk lub funkcji, zktórymi wiąże się obowiązek nadzorowania gier hazardowych:
+a) dyrektora i zastępcy dyrektora 100 % kwoty bazowej,
+b) kierownika i zastępcy kierownika 65 % kwoty bazowej, wej:
+a) osoby bezpośrednio prowadzącej grę, przyjmującej zakłady wzajemne, obsługującej automaty lub urządzenia do gier, z wyłączeniem obsługi technicznej 20 % kwoty bazowej,
+b) innych stanowisk lub funkcji, niż wymienione wlit. a— 100 % kwoty bazowej.
+3. Opłata za wydanie świadectwa zawodowego oraz opłata za uznanie za równoważne znim świadectwa wydanego przez wyspecjalizowaną jednostkę, októrej mowa wart. 25 ust. 6, wynosi 15 % kwoty bazowej.
+4. Opłaty zaokrągla się do pełnego złotego ten sposób, że kwoty wynoszące mniej niż 50 groszy pomija się, a kwoty wynoszące 50 groszy i więcej podwyższa się do pełnych złotych.
+70. Kwota bazowa dla danego roku kalendarzowego jest równa kwocie przeciętnego miesięcznego wynagrodzenia sektorze przedsiębiorstw bez wypłat nagród z zysku, drugim kwartale roku poprzedniego, ogłoszonego obwieszczeniu Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Głównego Urzędu Statystycznego.
+71.1. Podatnikiem podatku od gier jest osoba fizyczna, osoba prawna oraz jednostka organizacyjna niemająca osobowości prawnej, która prowadzi działalność zakresie gier hazardowych na podstawie udzielonej koncesji lub zezwolenia, podmioty urządzające gry objęte monopolem państwa oraz uczestnicy turnieju gry pokera.
 2. Przedmiotem opodatkowania podatkiem od gier jest:
-1) urzàdzanie gier hazardowych, zwy∏àczeniem loterii promocyjnych ipokera rozgrywanego wformie turnieju gry pokera;
-2) udzia∏ pokerze rozgrywanym formie turnieju gry pokera.
-3. Obowiàzek podatkowy podatku od gier powstaje z dniem rozpocz´cia wykonywania dzia∏alnoÊci. W pokerze rozgrywanym formie turnieju gry pokera obowiàzek podatkowy powstaje zchwilà przystàpienia do turnieju.
-4. Wprzypadku podmiotów prowadzàcych dzia∏alnoÊç wzakresie zak∏adów wzajemnych obowiàzek podatkowy powstaje zdniem rozpocz´cia wykonywania
-72. Podatek od gier stanowi dochód bud˝etu paƒstwa.
-73. Podstaw´ opodatkowania podatkiem od gier stanowi:
-1) loterii pieni´˝nej, loterii fantowej i grze telebingo suma wp∏ywów uzyskanych ze sprzeda˝y losów lub innych dowodów udzia∏u wgrze;
+1) urządzanie gier hazardowych, zwyłączeniem loterii promocyjnych ipokera rozgrywanego wformie turnieju gry pokera;
+2) udział pokerze rozgrywanym formie turnieju gry pokera.
+3. Obowiązek podatkowy podatku od gier powstaje z dniem rozpoczęcia wykonywania działalności. W pokerze rozgrywanym formie turnieju gry pokera obowiązek podatkowy powstaje zchwilą przystąpienia do turnieju.
+4. Wprzypadku podmiotów prowadzących działalność wzakresie zakładów wzajemnych obowiązek podatkowy powstaje zdniem rozpoczęcia wykonywania
+72. Podatek od gier stanowi dochód budżetu państwa.
+73. Podstawę opodatkowania podatkiem od gier stanowi:
+1) loterii pieniężnej, loterii fantowej i grze telebingo suma wpływów uzyskanych ze sprzedaży losów lub innych dowodów udziału wgrze;
 2) loterii audioteksowej przychód organizatora loterii audioteksowej uzyskany ztej loterii;
-3) wgrze liczbowej suma wp∏aconych stawek;
-4) zak∏adach wzajemnych suma wp∏aconych stawek;
-5) wgrze bingo pieni´˝ne wartoÊç nominalna kartonów do gry zakupionych przez podmiot urzàdzajàcy gr´;
-6) grze bingo fantowe wartoÊç nominalna kartonów u˝ytych do gry;
-7) grze cylindrycznej, grze koÊci i grze karty, z wyjàtkiem pokera rozgrywanego formie turnieju gry pokera kwota stanowiàca ró˝nic´ mi´dzy sumà wp∏at gotówkowych z tytu∏u wymiany ˝etonów kasie i na stole gry a sumà wyp∏aconych zkasy kwot za zwrócone ˝etony;
-8) wpokerze rozgrywanym wformie turnieju gry pokera kwota wygranej pomniejszona kwot´ wpisowego za udzia∏ wturnieju;
-9) wgrze na automacie kwota stanowiàca ró˝nic´ mi´dzy kwotà uzyskanà z wymiany ˝etonów do gry lub wp∏aconà do kasy i zakredytowanà pami´ci automatu lub wp∏aconà do automatu a sumà wygranych uzyskanych przez uczestników gier.
+3) wgrze liczbowej suma wpłaconych stawek;
+4) zakładach wzajemnych suma wpłaconych stawek;
+5) wgrze bingo pieniężne wartość nominalna kartonów do gry zakupionych przez podmiot urządzający grę;
+6) grze bingo fantowe wartość nominalna kartonów użytych do gry;
+7) grze cylindrycznej, grze kości i grze karty, z wyjątkiem pokera rozgrywanego formie turnieju gry pokera kwota stanowiąca różnicę między sumą wpłat gotówkowych z tytułu wymiany żetonów kasie i na stole gry a sumą wypłaconych zkasy kwot za zwrócone żetony;
+8) wpokerze rozgrywanym wformie turnieju gry pokera kwota wygranej pomniejszona kwotę wpisowego za udział wturnieju;
+9) wgrze na automacie kwota stanowiąca różnicę między kwotą uzyskaną z wymiany żetonów do gry lub wpłaconą do kasy i zakredytowaną pamięci automatu lub wpłaconą do automatu a sumą wygranych uzyskanych przez uczestników gier.
 74.Stawka podatku od gier wynosi dla:
 1) loterii fantowej igry bingo fantowe 10 %;
-2) loterii pieni´˝nej 15 %;
+2) loterii pieniężnej 15 %;
 3) gry liczbowej 20 %;
-4) gry bingo pieni´˝ne, gry telebingo, loterii audioteksowej i pokera rozgrywanego formie turnieju gry pokera 25 %;
-5) gry na automacie, gry cylindrycznej, gry koÊci, gry karty, z wy∏àczeniem pokera rozgrywanego wformie turnieju gry pokera 50 %;
-6) zak∏adów wzajemnych na sportowe wspó∏zawodnictwo zwierzàt na podstawie zezwoleƒ udzielanych wy∏àcznie na ich urzàdzanie 2,5 %;
-2) obliczania oraz wp∏acania podatku od gier na rachunek w∏aÊciwej izby celnej za okresy miesi´czne, wterminie do 10. dnia miesiàca nast´pujàcego po miesiàcu, którego dotyczy rozliczenie.
-2. Podatnicy urzàdzajàcy gry liczbowe sà obowiàzani, bez wezwania, do obliczenia izap∏aty podatku od gier na rachunek w∏aÊciwej izby celnej, wst´pnie za okresy dzienne.
-3. Wst´pnych wp∏at podatku od gier za okresy dzienne, zwanych dalej „wp∏atami dziennymi”, podatnicy dokonujà nie póêniej ni˝ terminie 10 dni od dnia losowania.
-4. Wp∏aty dzienne dokonane za miesiàc rozliczeniowy sà uwzgl´dniane deklaracjach podatkowych istanowià zaliczk´ na podatek od gier.
-5. Nadp∏at´ wp∏at dziennych wykazanà wdeklaracji podatkowej, podatnik rozlicza przy wp∏atach dziennych za nast´pne okresy rozliczeniowe, ile nie posiada zaleg∏oÊci podatkowych oraz bie˝àcych zobowiàzaƒ podatkowych oraz nie z∏o˝y wniosku ozaliczenie nadp∏aty ca∏oÊci albo cz´Êci na poczet przysz∏ych zobowiàzaƒ podatkowych.
-6. Podmiot urzàdzajàcy turniej gry pokera jest obowiàzany jako p∏atnik do:
-1) z∏o˝enia w∏aÊciwemu naczelnikowi urz´du celnego deklaracji podatkowych dla podatku od gier,
-2) obliczania, pobierania oraz wp∏acania podatku od gier na rachunek w∏aÊciwej izby celnej dla podatku od gier pokerze rozgrywanym formie turnieju gry pokera, za okresy miesi´czne, terminie do 20. dnia miesiàca nast´pujàcego po miesiàcu, którego dotyczy rozliczenie.
-7. Podmiot urzàdzajàcy turniej gry pokera wyp∏aca wygrane pomniejszone okwot´ podatku od gier.
-8. Zobowiàzanie podatkowe podatku od gier przyjmuje si´ kwocie wynikajàcej z deklaracji podatkowej, chyba ˝e organ podatkowy lub organ kontroli skarbowej okreÊli je winnej wysokoÊci.
-9. Podatnicy urzàdzajàcy loteri´ fantowà lub gr´ bingo fantowe, niezale˝nie od obowiàzku z∏o˝enia deklaracji podatkowej, sà obowiàzani do przedstawienia w∏aÊciwemu naczelnikowi urz´du celnego, sporzàdzonego oparciu dokumentacj´, której mowa wart.78 ust. 1 pkt 4, rozliczenia wyniku finansowego minach imiejscu ich sk∏adania oraz pouczenie, ˝e deklaracja podatkowa stanowi podstaw´ do wystawienia tytu∏u wykonawczego.
-77. 1. Organami podatkowymi w∏aÊciwymi wzakresie podatku od gier sà naczelnik urz´du celnego idyrektor izby celnej.
-2. W∏aÊciwoÊç miejscowà organów podatkowych wsprawach podatku od gier ustala si´ wed∏ug:
-1) miejsca lokalizacji oÊrodka gier;
-2) siedziby podmiotu urzàdzajàcego gry liczbowe, loterie pieni´˝ne, gr´ telebingo, loterie audioteksowe lub zak∏ady wzajemne;
-3) siedziby organu w∏aÊciwego do udzielenia zezwolenia na urzàdzanie loterii fantowej lub gry bingo fantowe.
-3. Wprzypadku gdy nie mo˝na ustaliç w∏aÊciwoÊci miejscowej organów podatkowych wsposób okreÊlony wust. 2, organem w∏aÊciwym jest Naczelnik Urz´du Celnego I Warszawie i Dyrektor Izby Celnej wWarszawie.
-4. Na wniosek organu podatkowego, którym mowa ust. 2 i 3, okreÊlone we wniosku czynnoÊci: sprawdzajàce, kontroli podatkowej lub post´powania podatkowego wykonuje odpowiednio naczelnik urz´du celnego lub dyrektor izby celnej, na którego obszarze dzia∏ania prowadzona jest dzia∏alnoÊç lub wykonywane sà czynnoÊci podlegajàce opodatkowaniu.
-5. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, wykaz urz´dów celnych i izb celnych, których odpowiednio naczelnicy idyrektorzy sà w∏aÊciwi do wykonywania zadaƒ zakresie podatku od gier, oraz terytorialny zasi´g ich dzia∏ania, uwzgl´dniajàc liczb´ podatników prowadzàcych dzia∏alnoÊç na danym obszarze.
-Rozdzia∏ 8 SprawozdawczoÊç
-78.1. Podmioty prowadzàce dzia∏alnoÊç wzakresie gier hazardowych sà obowiàzane prowadziç:
-1) ksi´gi:
-4) dokumentacj´ umo˝liwiajàcà rozliczenie wyniku finansowego urzàdzanej loterii fantowej lub gry bingo fantowe.
-2. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, warunki prowadzenia ksiàg, ewidencji i rejestru, których mowa wust. 1, oraz wzory ewidencji irejestru, októrych mowa wust. 1 pkt 2 i3, oraz zakres dokumentacji, októrej mowa ust. 1 pkt 4, celu ustalenia podstawy opodatkowania i obliczania wysokoÊci nale˝nych podatków, uwzgl´dniajàc specyfik´ prowadzenia poszczególnych rodzajów gier hazardowych.
-79. 1. Podmioty urzàdzajàce i prowadzàce dzia∏alnoÊç zakresie gier hazardowych sà obowiàzane do przekazywania, na ˝àdanie ministra w∏aÊciwego do spraw finansów publicznych lub dyrektorów izb celnych w∏aÊciwych do udzielenia zezwolenia, informacji dotyczàcych funkcjonowania tych podmiotów, tym zestawieƒ danych ekonomiczno-finansowych zakresie bie˝àcej dzia∏alnoÊci podmiotów, ze szczególnym uwzgl´dnieniem obrotów, wyniku finansowego, wskaêników ekonomicznych, a zw∏aszcza wskaênika zatrudnienia, oraz wskaêników statystycznych uzyskiwanych przez te podmioty.
-2. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, wdrodze rozporzàdzenia, tryb przekazywania iszczegó∏owy zakres informacji, októrych mowa ust. 1, uwzgl´dniajàc dane niezb´dne do monitorowania realizacji wydanych koncesji i zezwoleƒ oraz kszta∏towania polityki zakresie gier hazardowych.
-Rozdzia∏ 9 Dop∏aty
-a) obrotu ˝etonami i pieniàdzem gotówkowym wkasynie gry,
-b) obrotu kartonami do gry salonie gry bingo pieni´˝ne,
-80.1. Wgrach obj´tych monopolem paƒstwa ustanawia si´ dop∏aty wwysokoÊci:
-1) 25 % stawki, ceny losu lub innego dowodu udzia∏u wgrze wgrach liczbowych;
-2) 10 % stawki, ceny losu lub innego dowodu udzia∏u wgrze wloteriach pieni´˝nych igrze telebingo.
-2. Informacj´ oustanowieniu dop∏aty, októrej mowa wust. 1, zamieszcza si´ wregulaminie gry.
-3. Dop∏aty, których mowa ust. 1, nie sà przychodem wrozumieniu przepisów opodatku dochodowym od osób prawnych.
-81. Organami w∏aÊciwymi sprawie dop∏at chunek w∏aÊciwej izby celnej za okresy i terminach okreÊlonych dla dokonywania wdanej grze wp∏at ztytu∏u podatku od gier.
-83. Dyrektor izby celnej, której mowa art. 82 pkt 2, przekazuje kwoty wp∏aconych dop∏at na rachunek Funduszu Rozwoju Kultury Fizycznej, Funduszu Promocji Kultury oraz Funduszu Rozwiàzywania Problemów Hazardowych, wysokoÊci okreÊlonej wart. 86 ust. 3, art. 87 ust. 3 iart. 88 ust. 3, wterminie 14 dni od dnia ich wp∏aty.
-84. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, wzór informacji, októrej mowa wart. 82 pkt 1, uwzgl´dniajàc specyfik´ prowadzenia poszczególnych rodzajów gier oraz zapewnienie kontroli wysokoÊci dokonywanych wp∏at, zamieszczajàc objaÊnienia co do sposobu prawid∏owego sk∏adania tych informacji, wtym wzakresie terminów imiejsc ich sk∏adania oraz pouczenie, ˝e informacja stanowi podstaw´ do wystawienia tytu∏u wykonawczego.
-85.Do dop∏at stosuje si´ odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
-86. 1. Tworzy si´ Fundusz Rozwoju Kultury Fizycznej, którego dysponentem jest minister w∏aÊciwy do spraw kultury fizycznej isportu.
-2. Fundusz Rozwoju Kultury Fizycznej jest paƒstwowym funduszem celowym.
-3. Przychodem Funduszu Rozwoju Kultury Fizycznej jest 77 % wp∏ywów z dop∏at, których mowa wart. 80 ust. 1.
-4. Wydatki Funduszu Rozwoju Kultury Fizycznej sà przeznaczone na przebudow´, remonty i dofinansowanie inwestycji obiektów sportowych oraz rozwijanie sportu wÊród dzieci, m∏odzie˝y i osób niepe∏nosprawnych.
-5. Koszty obs∏ugi Funduszu Rozwoju Kultury Fizycznej pokrywane sà ze Êrodków tego Funduszu.
-6. Minister w∏aÊciwy do spraw kultury fizycznej i sportu porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, szczegó∏owe warunki uzyskiwania dofinansowania realizacji zadaƒ, których mowa ust. 4, czane, zzastrze˝eniem ust. 5, wy∏àcznie na promowanie lub wspieranie:
-1) ogólnopolskich i mi´dzynarodowych przedsi´wzi´ç artystycznych, tym charakterze edukacyjnym;
-2) twórczoÊci literackiej i czasopiÊmiennictwa oraz dzia∏aƒ na rzecz kultury j´zyka polskiego irozwoju czytelnictwa, wspieranie czasopism kulturalnych iliteratury niskonak∏adowej;
-3) dzia∏aƒ na rzecz ochrony polskiego dziedzictwa narodowego;
-4) m∏odych twórców iartystów;
-5) dzia∏aƒ na rzecz dost´pu do dóbr kultury osób niepe∏nosprawnych;
-6) zadaƒ realizowanych ramach projektów, tym projektów inwestycyjnych oraz projektów wspó∏finansowanych z funduszy europejskich i mi´dzynarodowych, zzakresu kultury iochrony dziedzictwa narodowego;
-7) realizacji inwestycji s∏u˝àcych promowaniu i wspieraniu przedsi´wzi´ç artystycznych, rozwojowi czytelnictwa, ochronie polskiego dziedzictwa narodowego, promocji m∏odych twórców i artystów oraz sztuki wspó∏czesnej;
-8) sp∏aty wieloletnich zobowiàzaƒ finansowych i zwiàzanych z nimi dodatkowych obcià˝eƒ zaciàganych przez instytucje kultury, dla których organizatorem jest minister w∏aÊciwy do spraw kultury i ochrony dziedzictwa narodowego, s∏u˝àcych realizacji inwestycji, októrych mowa wpkt 7.
-5. Dysponent Funduszu Promocji Kultury przekazuje corocznie, terminie do dnia 30 marca nast´pnego roku kalendarzowego, nie mniej ni˝ 5 % przychodu, októrym mowa wust. 3, do Polskiego Instytutu Sztuki Filmowej na realizacj´ zadaƒ tego Instytutu.
-6. Koszty obs∏ugi Funduszu Promocji Kultury pokrywane sà ze Êrodków tego Funduszu.
-7. Minister w∏aÊciwy do spraw kultury i ochrony dziedzictwa narodowego porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, szczegó∏owe warunki uzyskiwania dofinansowania realizacji zadaƒ, których mowa ust. 4, tryb sk∏adania wniosków tryb sk∏adania wniosków oraz przekazywania Êrod- oraz przekazywania Êrodków, bioràc pod uwag´ prioków, zuwzgl´dnieniem racjonalnoÊci iciàg∏oÊci finan- rytety spo∏eczne i koniecznoÊç zapewnienia ciàg∏oÊci sowania zadaƒ. realizowanych zadaƒ.
-87. 1. Tworzy si´ Fundusz Promocji Kultury, 88.1. Tworzy si´ Fundusz Rozwiàzywania Pro1) prowadzenie dzia∏alnoÊci informacyjno-edukacyjnej i opracowywanie specjalistycznych ekspertyz, raportów, sprawozdaƒ dotyczàcych problematyki uzale˝nieƒ od hazardu;
-2) opracowywanie i wdra˝anie nowych metod profilaktyki i rozwiàzywania problemów wynikajàcych zuzale˝nieƒ od hazardu;
-3) udzielanie finansowej pomocy instytucjom i stowarzyszeniom realizujàcym zadania zwiàzane z rozwiàzywaniem problemów wynikajàcych zuzale˝nieƒ od hazardu, wtym sporzàdzanie oceny rozpowszechnienia izagro˝enia patologicznym hazardem;
-4) prowadzenie dzia∏aƒ ukierunkowanych na podnoszenie jakoÊci programów profilaktycznych i terapeutycznych, a tak˝e zwi´kszania kompetencji zawodowych osób zajmujàcych si´ leczeniem wcelu zwi´kszenia skutecznoÊci oraz dost´pnoÊci leczenia dla osób uzale˝nionych od hazardu iich bliskich.
-5. Koszty obs∏ugi Funduszu Rozwiàzywania Problemów Hazardowych pokrywane sà ze Êrodków tego Funduszu.
-6. Minister w∏aÊciwy do spraw zdrowia porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, szczegó∏owe warunki uzyskiwania dofinansowania realizacji zadaƒ, których mowa ust. 4, tryb sk∏adania wniosków oraz przekazywania Êrodków, bioràc pod uwag´ priorytety spo∏eczne i koniecznoÊç zapewnienia ciàg∏oÊci realizowanych zadaƒ.
-Rozdzia∏ 10 Kary pieni´˝ne
-89.1. Karze pieni´˝nej podlega:
-1) urzàdzajàcy gry hazardowe bez koncesji lub zezwolenia;
-2) urzàdzajàcy gry na automatach poza kasynem gry;
-3) uczestnik grze hazardowej urzàdzanej bez koncesji lub zezwolenia.
-2. WysokoÊç kary pieni´˝nej wymierzanej przypadkach, októrych mowa:
+4) gry bingo pieniężne, gry telebingo, loterii audioteksowej i pokera rozgrywanego formie turnieju gry pokera 25 %;
+5) gry na automacie, gry cylindrycznej, gry kości, gry karty, z wyłączeniem pokera rozgrywanego wformie turnieju gry pokera 50 %;
+6) zakładów wzajemnych na sportowe współzawodnictwo zwierząt na podstawie zezwoleń udzielanych wyłącznie na ich urządzanie 2,5 %;
+2) obliczania oraz wpłacania podatku od gier na rachunek właściwej izby celnej za okresy miesięczne, wterminie do 10. dnia miesiąca następującego po miesiącu, którego dotyczy rozliczenie.
+2. Podatnicy urządzający gry liczbowe są obowiązani, bez wezwania, do obliczenia izapłaty podatku od gier na rachunek właściwej izby celnej, wstępnie za okresy dzienne.
+3. Wstępnych wpłat podatku od gier za okresy dzienne, zwanych dalej Ńwpłatami dziennymi”, podatnicy dokonują nie póêniej niż terminie 10 dni od dnia losowania.
+4. Wpłaty dzienne dokonane za miesiąc rozliczeniowy są uwzględniane deklaracjach podatkowych istanowią zaliczkę na podatek od gier.
+5. Nadpłatę wpłat dziennych wykazaną wdeklaracji podatkowej, podatnik rozlicza przy wpłatach dziennych za następne okresy rozliczeniowe, ile nie posiada zaległości podatkowych oraz bieżących zobowiązań podatkowych oraz nie złoży wniosku ozaliczenie nadpłaty całości albo części na poczet przyszłych zobowiązań podatkowych.
+6. Podmiot urządzający turniej gry pokera jest obowiązany jako płatnik do:
+1) złożenia właściwemu naczelnikowi urzędu celnego deklaracji podatkowych dla podatku od gier,
+2) obliczania, pobierania oraz wpłacania podatku od gier na rachunek właściwej izby celnej dla podatku od gier pokerze rozgrywanym formie turnieju gry pokera, za okresy miesięczne, terminie do 20. dnia miesiąca następującego po miesiącu, którego dotyczy rozliczenie.
+7. Podmiot urządzający turniej gry pokera wypłaca wygrane pomniejszone okwotę podatku od gier.
+8. Zobowiązanie podatkowe podatku od gier przyjmuje się kwocie wynikającej z deklaracji podatkowej, chyba że organ podatkowy lub organ kontroli skarbowej określi je winnej wysokości.
+9. Podatnicy urządzający loterię fantową lub grę bingo fantowe, niezależnie od obowiązku złożenia deklaracji podatkowej, są obowiązani do przedstawienia właściwemu naczelnikowi urzędu celnego, sporządzonego oparciu dokumentację, której mowa wart.78 ust. 1 pkt 4, rozliczenia wyniku finansowego minach imiejscu ich składania oraz pouczenie, że deklaracja podatkowa stanowi podstawę do wystawienia tytułu wykonawczego.
+77. 1. Organami podatkowymi właściwymi wzakresie podatku od gier są naczelnik urzędu celnego idyrektor izby celnej.
+2. Właściwość miejscową organów podatkowych wsprawach podatku od gier ustala się według:
+1) miejsca lokalizacji ośrodka gier;
+2) siedziby podmiotu urządzającego gry liczbowe, loterie pieniężne, grę telebingo, loterie audioteksowe lub zakłady wzajemne;
+3) siedziby organu właściwego do udzielenia zezwolenia na urządzanie loterii fantowej lub gry bingo fantowe.
+3. Wprzypadku gdy nie można ustalić właściwości miejscowej organów podatkowych wsposób określony wust. 2, organem właściwym jest Naczelnik Urzędu Celnego I Warszawie i Dyrektor Izby Celnej wWarszawie.
+4. Na wniosek organu podatkowego, którym mowa ust. 2 i 3, określone we wniosku czynności: sprawdzające, kontroli podatkowej lub postępowania podatkowego wykonuje odpowiednio naczelnik urzędu celnego lub dyrektor izby celnej, na którego obszarze działania prowadzona jest działalność lub wykonywane są czynności podlegające opodatkowaniu.
+5. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, wykaz urzędów celnych i izb celnych, których odpowiednio naczelnicy idyrektorzy są właściwi do wykonywania zadań zakresie podatku od gier, oraz terytorialny zasięg ich działania, uwzględniając liczbę podatników prowadzących działalność na danym obszarze.
+78.1. Podmioty prowadzące działalność wzakresie gier hazardowych są obowiązane prowadzić:
+1) księgi:
+4) dokumentację umożliwiającą rozliczenie wyniku finansowego urządzanej loterii fantowej lub gry bingo fantowe.
+2. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, warunki prowadzenia ksiąg, ewidencji i rejestru, których mowa wust. 1, oraz wzory ewidencji irejestru, októrych mowa wust. 1 pkt 2 i3, oraz zakres dokumentacji, októrej mowa ust. 1 pkt 4, celu ustalenia podstawy opodatkowania i obliczania wysokości należnych podatków, uwzględniając specyfikę prowadzenia poszczególnych rodzajów gier hazardowych.
+79. 1. Podmioty urządzające i prowadzące działalność zakresie gier hazardowych są obowiązane do przekazywania, na żądanie ministra właściwego do spraw finansów publicznych lub dyrektorów izb celnych właściwych do udzielenia zezwolenia, informacji dotyczących funkcjonowania tych podmiotów, tym zestawień danych ekonomiczno-finansowych zakresie bieżącej działalności podmiotów, ze szczególnym uwzględnieniem obrotów, wyniku finansowego, wskaêników ekonomicznych, a zwłaszcza wskaênika zatrudnienia, oraz wskaêników statystycznych uzyskiwanych przez te podmioty.
+2. Minister właściwy do spraw finansów publicznych określi, wdrodze rozporządzenia, tryb przekazywania iszczegółowy zakres informacji, októrych mowa ust. 1, uwzględniając dane niezbędne do monitorowania realizacji wydanych koncesji i zezwoleń oraz kształtowania polityki zakresie gier hazardowych.
+a) obrotu żetonami i pieniądzem gotówkowym wkasynie gry,
+b) obrotu kartonami do gry salonie gry bingo pieniężne,
+80.1. Wgrach objętych monopolem państwa ustanawia się dopłaty wwysokości:
+1) 25 % stawki, ceny losu lub innego dowodu udziału wgrze wgrach liczbowych;
+2) 10 % stawki, ceny losu lub innego dowodu udziału wgrze wloteriach pieniężnych igrze telebingo.
+2. Informację oustanowieniu dopłaty, októrej mowa wust. 1, zamieszcza się wregulaminie gry.
+3. Dopłaty, których mowa ust. 1, nie są przychodem wrozumieniu przepisów opodatku dochodowym od osób prawnych.
+81. Organami właściwymi sprawie dopłat chunek właściwej izby celnej za okresy i terminach określonych dla dokonywania wdanej grze wpłat ztytułu podatku od gier.
+83. Dyrektor izby celnej, której mowa art. 82 pkt 2, przekazuje kwoty wpłaconych dopłat na rachunek Funduszu Rozwoju Kultury Fizycznej, Funduszu Promocji Kultury oraz Funduszu Rozwiązywania Problemów Hazardowych, wysokości określonej wart. 86 ust. 3, art. 87 ust. 3 iart. 88 ust. 3, wterminie 14 dni od dnia ich wpłaty.
+84. Minister właściwy do spraw finansów publicznych określi, drodze rozporządzenia, wzór informacji, októrej mowa wart. 82 pkt 1, uwzględniając specyfikę prowadzenia poszczególnych rodzajów gier oraz zapewnienie kontroli wysokości dokonywanych wpłat, zamieszczając objaśnienia co do sposobu prawidłowego składania tych informacji, wtym wzakresie terminów imiejsc ich składania oraz pouczenie, że informacja stanowi podstawę do wystawienia tytułu wykonawczego.
+85.Do dopłat stosuje się odpowiednio przepisy ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa.
+86. 1. Tworzy się Fundusz Rozwoju Kultury Fizycznej, którego dysponentem jest minister właściwy do spraw kultury fizycznej isportu.
+2. Fundusz Rozwoju Kultury Fizycznej jest państwowym funduszem celowym.
+3. Przychodem Funduszu Rozwoju Kultury Fizycznej jest 77 % wpływów z dopłat, których mowa wart. 80 ust. 1.
+4. Wydatki Funduszu Rozwoju Kultury Fizycznej są przeznaczone na przebudowę, remonty i dofinansowanie inwestycji obiektów sportowych oraz rozwijanie sportu wśród dzieci, młodzieży i osób niepełnosprawnych.
+5. Koszty obsługi Funduszu Rozwoju Kultury Fizycznej pokrywane są ze środków tego Funduszu.
+6. Minister właściwy do spraw kultury fizycznej i sportu porozumieniu z ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, szczegółowe warunki uzyskiwania dofinansowania realizacji zadań, których mowa ust. 4, czane, zzastrzeżeniem ust. 5, wyłącznie na promowanie lub wspieranie:
+1) ogólnopolskich i międzynarodowych przedsięwzięć artystycznych, tym charakterze edukacyjnym;
+2) twórczości literackiej i czasopiśmiennictwa oraz działań na rzecz kultury języka polskiego irozwoju czytelnictwa, wspieranie czasopism kulturalnych iliteratury niskonakładowej;
+3) działań na rzecz ochrony polskiego dziedzictwa narodowego;
+4) młodych twórców iartystów;
+5) działań na rzecz dostępu do dóbr kultury osób niepełnosprawnych;
+6) zadań realizowanych ramach projektów, tym projektów inwestycyjnych oraz projektów współfinansowanych z funduszy europejskich i międzynarodowych, zzakresu kultury iochrony dziedzictwa narodowego;
+7) realizacji inwestycji służących promowaniu i wspieraniu przedsięwzięć artystycznych, rozwojowi czytelnictwa, ochronie polskiego dziedzictwa narodowego, promocji młodych twórców i artystów oraz sztuki współczesnej;
+8) spłaty wieloletnich zobowiązań finansowych i związanych z nimi dodatkowych obciążeń zaciąganych przez instytucje kultury, dla których organizatorem jest minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, służących realizacji inwestycji, októrych mowa wpkt 7.
+5. Dysponent Funduszu Promocji Kultury przekazuje corocznie, terminie do dnia 30 marca następnego roku kalendarzowego, nie mniej niż 5 % przychodu, októrym mowa wust. 3, do Polskiego Instytutu Sztuki Filmowej na realizację zadań tego Instytutu.
+6. Koszty obsługi Funduszu Promocji Kultury pokrywane są ze środków tego Funduszu.
+7. Minister właściwy do spraw kultury i ochrony dziedzictwa narodowego porozumieniu z ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, szczegółowe warunki uzyskiwania dofinansowania realizacji zadań, których mowa ust. 4, tryb składania wniosków tryb składania wniosków oraz przekazywania środ- oraz przekazywania środków, biorąc pod uwagę prioków, zuwzględnieniem racjonalności iciągłości finan- rytety społeczne i konieczność zapewnienia ciągłości sowania zadań. realizowanych zadań.
+87. 1. Tworzy się Fundusz Promocji Kultury, 88.1. Tworzy się Fundusz Rozwiązywania Pro1) prowadzenie działalności informacyjno-edukacyjnej i opracowywanie specjalistycznych ekspertyz, raportów, sprawozdań dotyczących problematyki uzależnień od hazardu;
+2) opracowywanie i wdrażanie nowych metod profilaktyki i rozwiązywania problemów wynikających zuzależnień od hazardu;
+3) udzielanie finansowej pomocy instytucjom i stowarzyszeniom realizującym zadania związane z rozwiązywaniem problemów wynikających zuzależnień od hazardu, wtym sporządzanie oceny rozpowszechnienia izagrożenia patologicznym hazardem;
+4) prowadzenie działań ukierunkowanych na podnoszenie jakości programów profilaktycznych i terapeutycznych, a także zwiększania kompetencji zawodowych osób zajmujących się leczeniem wcelu zwiększenia skuteczności oraz dostępności leczenia dla osób uzależnionych od hazardu iich bliskich.
+5. Koszty obsługi Funduszu Rozwiązywania Problemów Hazardowych pokrywane są ze środków tego Funduszu.
+6. Minister właściwy do spraw zdrowia porozumieniu z ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, szczegółowe warunki uzyskiwania dofinansowania realizacji zadań, których mowa ust. 4, tryb składania wniosków oraz przekazywania środków, biorąc pod uwagę priorytety społeczne i konieczność zapewnienia ciągłości realizowanych zadań.
+89.1. Karze pieniężnej podlega:
+1) urządzający gry hazardowe bez koncesji lub zezwolenia;
+2) urządzający gry na automatach poza kasynem gry;
+3) uczestnik grze hazardowej urządzanej bez koncesji lub zezwolenia.
+2. Wysokość kary pieniężnej wymierzanej przypadkach, októrych mowa:
 1) wust. 1 pkt 1 wynosi 100 % przychodu uzyskanio przepisy ustawy zdnia 29 sierpnia 1997 r. Ordynacja podatkowa.
-Rozdzia∏ 11 Zmiany wprzepisach obowiàzujàcych
-92.Wustawie zdnia 17 czerwca 1966 r. opost´powaniu egzekucyjnym administracji (Dz. U.
+92.Wustawie zdnia 17 czerwca 1966 r. opostępowaniu egzekucyjnym administracji (Dz. U.
 z2005 r. 229, poz. 1954, zpóên. zm.
-nego zurzàdzanej gry;
-2) ust. 1 pkt 2 wynosi 12 000 z∏ od ka˝dego automatu;
+nego zurządzanej gry;
+2) ust. 1 pkt 2 wynosi 12 000 zł od każdego automatu;
 ) wart. 3a:
-1) § 1 otrzymuje brzmienie: „§ 1. W zakresie zobowiàzaƒ powsta∏ych przypadkach okreÊlonych art. 8 i art. 21 § 1 pkt 1 ustawy Ordynacja podatkowa, d∏ugów celnych powsta∏ych przypadkach okreÊlonych art. ust. 1 oraz art. 209 ust. 1 rozporzàdzenia Rady (EWG) nr 2913/92 zdnia 12 paêdziernika 1992 r. ustanawiajàcego Wspólnotowy Kodeks Celny (Dz. Urz.
+1) § 1 otrzymuje brzmienie: Ń§ 1. W zakresie zobowiązań powstałych przypadkach określonych art. 8 i art. 21 § 1 pkt 1 ustawy Ordynacja podatkowa, długów celnych powstałych przypadkach określonych art. ust. 1 oraz art. 209 ust. 1 rozporządzenia Rady (EWG) nr 2913/92 zdnia 12 paêdziernika 1992 r. ustanawiającego Wspólnotowy Kodeks Celny (Dz. Urz.
 WEL 302 z 19.10.1992, str. 1, z póên. zm.;
-Dz.Urz. UE Polskie Wydanie Specjalne, rozdz. 2, t. 4, str. 307, zpóên. zm.), podatków wykazanych zg∏oszeniu celnym, sk∏adek na ubezpieczenie spo∏eczne, op∏at paliwowych, których mowa ustawie z dnia 27paêdziernika 1994 r. autostradach p∏atnych oraz oKrajowym Funduszu Drogowym (Dz. U. z 2004 r. 256, poz. 2571, z póên.
-zm. ), a tak˝e dop∏at, których mowa wustawie zdnia 19 listopada 2009 r. ograch hazardowych (Dz. U. 201, poz. 1540), stosuje si´ równie˝ egzekucj´ administracyjnà, je˝eli wynikajà one odpowiednio:
-1) z deklaracji lub zeznania z∏o˝onego przez podatnika lub p∏atnika;
-2) ze zg∏oszenia celnego z∏o˝onego przez zobowiàzanego;
-3) z deklaracji rozliczeniowej z∏o˝onej przez p∏atnika sk∏adek na ubezpieczenie spo∏eczne;
-4) zinformacji oop∏acie paliwowej;
-5) zinformacji odop∏atach.”;
+Dz.Urz. UE Polskie Wydanie Specjalne, rozdz. 2, t. 4, str. 307, zpóên. zm.), podatków wykazanych zgłoszeniu celnym, składek na ubezpieczenie społeczne, opłat paliwowych, których mowa ustawie z dnia 27paêdziernika 1994 r. autostradach płatnych oraz oKrajowym Funduszu Drogowym (Dz. U. z 2004 r. 256, poz. 2571, z póên.
+zm. ), a także dopłat, których mowa wustawie zdnia 19 listopada 2009 r. ograch hazardowych (Dz. U. 201, poz. 1540), stosuje się również egzekucję administracyjną, jeżeli wynikają one odpowiednio:
+1) z deklaracji lub zeznania złożonego przez podatnika lub płatnika;
+2) ze zgłoszenia celnego złożonego przez zobowiązanego;
+3) z deklaracji rozliczeniowej złożonej przez płatnika składek na ubezpieczenie społeczne;
+4) zinformacji oopłacie paliwowej;
+5) zinformacji odopłatach.”;
 ———————
-93.Wustawie zdnia 6 kwietnia 1990 r. oPolicji (Dz. U. z2007 r. 43, poz. 277, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
-1) art. 19 ust. 1 po pkt 4 dodaje si´ pkt 4a wbrzmieniu: „4a) skarbowych, których mowa art. 107 § 1 Kodeksu karnego skarbowego,”;
-2) wart. 21 ust. 2 otrzymuje brzmienie: „2. Zakaz okreÊlony wust. 1 nie ma zastosowania, je˝eli ustawa nak∏ada obowiàzek lub umo˝liwia udzielenie takich informacji okreÊlonemu organowi albo obowiàzek taki wynika z umów lub porozumieƒ mi´dzynarodowych, a tak˝e przypadkach, gdy zatajenie takiej informacji prowadzi∏oby do zagro˝enia ˝ycia lub zdrowia innych osób.”.
+93.Wustawie zdnia 6 kwietnia 1990 r. oPolicji (Dz. U. z2007 r. 43, poz. 277, zpóên. zm. ) wprowadza się następujące zmiany:
+1) art. 19 ust. 1 po pkt 4 dodaje się pkt 4a wbrzmieniu: Ń4a) skarbowych, których mowa art. 107 § 1 Kodeksu karnego skarbowego,”;
+2) wart. 21 ust. 2 otrzymuje brzmienie: Ń2. Zakaz określony wust. 1 nie ma zastosowania, jeżeli ustawa nakłada obowiązek lub umożliwia udzielenie takich informacji określonemu organowi albo obowiązek taki wynika z umów lub porozumień międzynarodowych, a także przypadkach, gdy zatajenie takiej informacji prowadziłoby do zagrożenia życia lub zdrowia innych osób.”.
 94. W ustawie z dnia 12 paêdziernika 1990 r.
-oStra˝y Granicznej (Dz. U. z2005 r. 234, poz. 1997, zpóên. zm. ) wart. 9aust. 2 otrzymuje brzmienie: „2. Zakaz okreÊlony wust. 1 nie ma zastosowania, je˝eli ustawa nak∏ada obowiàzek lub umo˝liwia udzielenie takich informacji okreÊlonemu organowi albo obowiàzek taki wynika zumów lub porozumieƒ mi´dzynarodowych, a tak˝e przypadkach, gdy zatajenie takiej informacji prowadzi∏oby do zagro˝enia ˝ycia lub zdrowia innych osób.”.
-sów grach hazardowych obowiàzujàcych paƒstwie cz∏onkowskim Unii Europejskiej lub innym paƒstwie nale˝àcym do Europejskiego Obszaru Gospodarczego, 6a) wygrane grach liczbowych, loteriach pieni´˝nych, grze telebingo, zak∏adach wzajemnych, loteriach promocyjnych, loteriach audioteksowych i loteriach fantowych, je˝eli jednorazowa wartoÊç tych wygranych nie przekracza 2 280 z∏, urzàdzanych i prowadzonych przez uprawniony podmiot na podstawie przepisów ograch hazardowych obowiàzujàcych paƒstwie cz∏onkowskim Unii Europejskiej lub winnym paƒstwie nale˝àcym do Europejskiego Obszaru Gospodarczego,”.
-96. W ustawie z dnia 28 wrzeÊnia 1991 r.
-kontroli skarbowej (Dz. U. z 2004 r. 8, poz. 65, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
-1) wart. 2 wust. 1 dodaje si´ pkt 18 wbrzmieniu: „18) wspó∏dzia∏anie ze S∏u˝bà Celnà zakresie zwalczania przest´pstw skarbowych, których mowa art. 107 § 1 Kodeksu karnego skarbowego.”;
-2) wart. 36 ust. 2 otrzymuje brzmienie: „2. Przeprowadzanie czynnoÊci wywiadu skarbowego polega, z zachowaniem ograniczeƒ wy——————— przetwarzaniu i wykorzystywaniu informacji opodmiotach, co do których zachodzi uzasadnione podejrzenie pope∏nienia przest´pstwa skarbowego, októrym mowa wart. 107 § 1 Kodeksu karnego skarbowego, celu wykonywania zadania, którym mowa art. 2 ust. 1 pkt 18.”;
-3) art. 36c ust. 1 po pkt 1 dodaje si´ pkt 1a wbrzmieniu: „1a) skarbowych, których mowa art. 107 § 1 Kodeksu karnego skarbowego,”;
-4) wart. 36just. 2 otrzymuje brzmienie: „2. Zakaz okreÊlony wust. 1 nie ma zastosowania, je˝eli ustawa nak∏ada obowiàzek lub umo˝liwia udzielenie takich informacji okreÊlonemu organowi albo obowiàzek taki wynika z umów lub porozumieƒ mi´dzynarodowych, a tak˝e przypadkach, gdy zatajenie takiej informacji prowadzi∏oby do zagro˝enia ˝ycia lub zdrowia innych osób.”.
-97. W ustawie z dnia 29 grudnia 1992 r. radiofonii i telewizji (Dz. U. z 2004 r. 253, poz. 2531, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
-1) wart. 16bwust. 1 pkt 5 otrzymuje brzmienie: „5) gier cylindrycznych, gier wkarty, gier wkoÊci, zak∏adów wzajemnych, gier na automatach,w zakresie regulowanym ustawà z dnia 19listopada 2009 r. grach hazardowych (Dz.U. 201, poz. 1540).”;
-2) wart. 17 po ust. 6 dodaje si´ ust. 6awbrzmieniu: „6a. Zabronione jest sponsorowanie audycji iinnych przekazów przez podmioty prowadzàce dzia∏alnoÊç zakresie gier cylindrycznych, gier karty, gier koÊci, przyjmowania zak∏adów wzajemnych i gier na automatach.”.
+oStraży Granicznej (Dz. U. z2005 r. 234, poz. 1997, zpóên. zm. ) wart. 9aust. 2 otrzymuje brzmienie: Ń2. Zakaz określony wust. 1 nie ma zastosowania, jeżeli ustawa nakłada obowiązek lub umożliwia udzielenie takich informacji określonemu organowi albo obowiązek taki wynika zumów lub porozumień międzynarodowych, a także przypadkach, gdy zatajenie takiej informacji prowadziłoby do zagrożenia życia lub zdrowia innych osób.”.
+sów grach hazardowych obowiązujących państwie członkowskim Unii Europejskiej lub innym państwie należącym do Europejskiego Obszaru Gospodarczego, 6a) wygrane grach liczbowych, loteriach pieniężnych, grze telebingo, zakładach wzajemnych, loteriach promocyjnych, loteriach audioteksowych i loteriach fantowych, jeżeli jednorazowa wartość tych wygranych nie przekracza 2 280 zł, urządzanych i prowadzonych przez uprawniony podmiot na podstawie przepisów ograch hazardowych obowiązujących państwie członkowskim Unii Europejskiej lub winnym państwie należącym do Europejskiego Obszaru Gospodarczego,”.
+96. W ustawie z dnia 28 września 1991 r.
+kontroli skarbowej (Dz. U. z 2004 r. 8, poz. 65, zpóên. zm. ) wprowadza się następujące zmiany:
+1) wart. 2 wust. 1 dodaje się pkt 18 wbrzmieniu: Ń18) współdziałanie ze Służbą Celną zakresie zwalczania przestępstw skarbowych, których mowa art. 107 § 1 Kodeksu karnego skarbowego.”;
+2) wart. 36 ust. 2 otrzymuje brzmienie: Ń2. Przeprowadzanie czynności wywiadu skarbowego polega, z zachowaniem ograniczeń wy——————— przetwarzaniu i wykorzystywaniu informacji opodmiotach, co do których zachodzi uzasadnione podejrzenie popełnienia przestępstwa skarbowego, októrym mowa wart. 107 § 1 Kodeksu karnego skarbowego, celu wykonywania zadania, którym mowa art. 2 ust. 1 pkt 18.”;
+3) art. 36c ust. 1 po pkt 1 dodaje się pkt 1a wbrzmieniu: Ń1a) skarbowych, których mowa art. 107 § 1 Kodeksu karnego skarbowego,”;
+4) wart. 36just. 2 otrzymuje brzmienie: Ń2. Zakaz określony wust. 1 nie ma zastosowania, jeżeli ustawa nakłada obowiązek lub umożliwia udzielenie takich informacji określonemu organowi albo obowiązek taki wynika z umów lub porozumień międzynarodowych, a także przypadkach, gdy zatajenie takiej informacji prowadziłoby do zagrożenia życia lub zdrowia innych osób.”.
+97. W ustawie z dnia 29 grudnia 1992 r. radiofonii i telewizji (Dz. U. z 2004 r. 253, poz. 2531, zpóên. zm. ) wprowadza się następujące zmiany:
+1) wart. 16bwust. 1 pkt 5 otrzymuje brzmienie: Ń5) gier cylindrycznych, gier wkarty, gier wkości, zakładów wzajemnych, gier na automatach,w zakresie regulowanym ustawą z dnia 19listopada 2009 r. grach hazardowych (Dz.U. 201, poz. 1540).”;
+2) wart. 17 po ust. 6 dodaje się ust. 6awbrzmieniu: Ń6a. Zabronione jest sponsorowanie audycji iinnych przekazów przez podmioty prowadzące działalność zakresie gier cylindrycznych, gier karty, gier kości, przyjmowania zakładów wzajemnych i gier na automatach.”.
 98. W ustawie z dnia 16 kwietnia 1993 r.
 zwalczaniu nieuczciwej konkurencji (Dz. U. z 2003 r.
 153, poz. 1503, z póên. zm. ) art. 17a ust. 2 pkt 2 otrzymuje brzmienie:
-1) wart. 39 po pkt 2cdodaje si´ pkt 2dwbrzmieniu: „2d) zakaz wst´pu do oÊrodków gier i uczestnictwa wgrach hazardowych,”;
-2) po art. 41bdodaje si´ art. 41cwbrzmieniu: „Art. 41c. § 1. Zakaz wst´pu do oÊrodków gier i uczestnictwa grach hazardowych nie obejmuje uczestnictwa wloteriach promocyjnych.
-§ 2. Sàd mo˝e orzec zakaz wst´pu do oÊrodków gier i uczestnictwa grach hazardowych, razie skazania za przest´pstwo pope∏nione zwiàzku z urzàdzaniem gier hazardowych lub udzia∏em wnich.”;
-3) wart. 43 w§ 1 pkt 1 otrzymuje brzmienie: „1) pkt 2, 2di3 orzeka si´ wlatach, od roku do lat 10,”;
-4) art. 244 otrzymuje brzmienie: „Art. 244. Kto nie stosuje si´ do orzeczonego przez sàd zakazu zajmowania stanowiska, wykonywania zawodu, prowadzenia dzia∏alnoÊci, prowadzenia pojazdów, wst´pu do oÊrodków gier iuczestnictwa grach hazardowych lub obowiàzku powstrzymania si´ od przebywania okreÊlonych Êrodowiskach lub miejscach, zakazu kontaktowania si´ z okreÊlonymi osobami lub zakazu opuszczania okreÊlonego miejsca pobytu bez zgody sàdu albo nie wykonuje zarzàdzenia sàdu og∏oszeniu orzeczenia wsposób wnim przewidziany, podlega karze pozbawienia wolnoÊci do lat 3.”.
-——————— ——————— ministrowi w∏aÊciwemu do spraw finansów publicznych oraz komendantowi powiatowemu (rejonowemu, miejskiemu) Policji, w∏aÊciwemu dla miejsca zamieszkania skazanego.”.
+1) wart. 39 po pkt 2cdodaje się pkt 2dwbrzmieniu: Ń2d) zakaz wstępu do ośrodków gier i uczestnictwa wgrach hazardowych,”;
+2) po art. 41bdodaje się art. 41cwbrzmieniu: ŃArt. 41c. § 1. Zakaz wstępu do ośrodków gier i uczestnictwa grach hazardowych nie obejmuje uczestnictwa wloteriach promocyjnych.
+§ 2. Sąd może orzec zakaz wstępu do ośrodków gier i uczestnictwa grach hazardowych, razie skazania za przestępstwo popełnione związku z urządzaniem gier hazardowych lub udziałem wnich.”;
+3) wart. 43 w§ 1 pkt 1 otrzymuje brzmienie: Ń1) pkt 2, 2di3 orzeka się wlatach, od roku do lat 10,”;
+4) art. 244 otrzymuje brzmienie: ŃArt. 244. Kto nie stosuje się do orzeczonego przez sąd zakazu zajmowania stanowiska, wykonywania zawodu, prowadzenia działalności, prowadzenia pojazdów, wstępu do ośrodków gier iuczestnictwa grach hazardowych lub obowiązku powstrzymania się od przebywania określonych środowiskach lub miejscach, zakazu kontaktowania się z określonymi osobami lub zakazu opuszczania określonego miejsca pobytu bez zgody sądu albo nie wykonuje zarządzenia sądu ogłoszeniu orzeczenia wsposób wnim przewidziany, podlega karze pozbawienia wolności do lat 3.”.
+——————— ——————— ministrowi właściwemu do spraw finansów publicznych oraz komendantowi powiatowemu (rejonowemu, miejskiemu) Policji, właściwemu dla miejsca zamieszkania skazanego.”.
 101. W ustawie z dnia 29 sierpnia 1997 r.
-Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, zpóên. zm. ) art. 7aotrzymuje brzmienie: „Art. 7a. Do terminowych operacji finansowych, których mowa art. 4 ust. 1 pkt 7 lit. h) oraz art. 5 ust. 2 pkt 4, b´dàcych przedmiotem umów zawartych przez bank lub instytucj´ finansowà, nie stosuje si´ przepisów grach hazardowych oraz art. 413 ustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 16, poz. 93, z póên.
-zm. ), zwanej dalej „Kodeksem cywilnym”.”.
-102. W ustawie z dnia 4 wrzeÊnia 1997 r.
-dzia∏ach administracji rzàdowej (Dz. U. z 2007 r.
-Nr65, poz. 437, z póên. zm. ) art. 8 ust. 2 pkt 6 otrzymuje brzmienie: „6) gry losowe, zak∏ady wzajemne i gry na automatach;”.
-„W wypadkach okreÊlonych art. 107 § 1—3 orzeka si´ przepadek dokumentu lub urzàdzenia do gry losowej, gry na automacie lub zak∏adu wzajemnego, a tak˝e znajdujàcych si´ nich Êrodków pieni´˝nych oraz wygranych, które na podstawie tego dokumentu przypadajà grajàcemu, a tak˝e Êrodków uzyskanych ze sprzeda˝y udzia∏u wgrze lub wp∏aconych stawek.”,
-b) po § 5 dodaje si´ § 5awbrzmieniu: „§ 5a. Sprzeda˝ urzàdzeƒ lub automatów do gier, stosunku do których sàd nie zarzàdzi∏ zniszczenia, jest dopuszczalna wy∏àcznie na rzecz podmiotów, które uzyska∏y koncesje albo zezwolenie na urzàdzanie gier.”;
+Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, zpóên. zm. ) art. 7aotrzymuje brzmienie: ŃArt. 7a. Do terminowych operacji finansowych, których mowa art. 4 ust. 1 pkt 7 lit. h) oraz art. 5 ust. 2 pkt 4, będących przedmiotem umów zawartych przez bank lub instytucję finansową, nie stosuje się przepisów grach hazardowych oraz art. 413 ustawy zdnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 16, poz. 93, z póên.
+zm. ), zwanej dalej ŃKodeksem cywilnym”.”.
+102. W ustawie z dnia 4 września 1997 r.
+działach administracji rządowej (Dz. U. z 2007 r.
+Nr65, poz. 437, z póên. zm. ) art. 8 ust. 2 pkt 6 otrzymuje brzmienie: Ń6) gry losowe, zakłady wzajemne i gry na automatach;”.
+ŃW wypadkach określonych art. 107 § 1—3 orzeka się przepadek dokumentu lub urządzenia do gry losowej, gry na automacie lub zakładu wzajemnego, a także znajdujących się nich środków pieniężnych oraz wygranych, które na podstawie tego dokumentu przypadają grającemu, a także środków uzyskanych ze sprzedaży udziału wgrze lub wpłaconych stawek.”,
+b) po § 5 dodaje się § 5awbrzmieniu: Ń§ 5a. Sprzedaż urządzeń lub automatów do gier, stosunku do których sąd nie zarządził zniszczenia, jest dopuszczalna wyłącznie na rzecz podmiotów, które uzyskały koncesje albo zezwolenie na urządzanie gier.”;
 2) wart. 53:
-a) § 35 otrzymuje brzmienie: „§ 35. U˝yte rozdziale 9 kodeksu okreÊlenia, a szczególnoÊci: „gra bingo fantowe” „gra losowa”, „gra na automacie”, „loteria audioteksowa”, „loteria fantowa”, „loteria promocyjna”, „zak∏ady wzajemne”, „koncesja”, „zezwolenie”, majà znaczenie nadane im ustawie z dnia 19listopada 2009 r. ograch hazardowych (Dz. U. 201, poz. 1540).”, ——————— 2009 r. ograch hazardowych.”;
-3) tytule I dziale II tytu∏ rozdzia∏u 9 otrzymuje brzmienie: „Przest´pstwa skarbowe i wykroczenia skarbowe przeciwko organizacji gier hazardowych”;
+a) § 35 otrzymuje brzmienie: Ń§ 35. Użyte rozdziale 9 kodeksu określenia, a szczególności: Ńgra bingo fantowe” Ńgra losowa”, Ńgra na automacie”, Ńloteria audioteksowa”, Ńloteria fantowa”, Ńloteria promocyjna”, Ńzakłady wzajemne”, Ńkoncesja”, Ńzezwolenie”, mają znaczenie nadane im ustawie z dnia 19listopada 2009 r. ograch hazardowych (Dz. U. 201, poz. 1540).”, ——————— 2009 r. ograch hazardowych.”;
+3) tytule I dziale II tytuł rozdziału 9 otrzymuje brzmienie: ŃPrzestępstwa skarbowe i wykroczenia skarbowe przeciwko organizacji gier hazardowych”;
 4) wart. 107:
-a) § 1 otrzymuje brzmienie: „§ 1. Kto wbrew przepisom ustawy lub warunkom koncesji lub zezwolenia urzàdza lub prowadzi gr´ losowà, gr´ na automacie lub zak∏ad wzajemny, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolnoÊci do lat 3, albo obu tym karom ∏àcznie.”,
-b) § 3 otrzymuje brzmienie: „§ 3. Je˝eli sprawca dopuszcza si´ czynu zabronionego okreÊlonego § 1 lub 2 celu osiàgni´cia korzyÊci majàtkowej z organizowania zbiorowego uczestnictwa grze losowej, grze na automacie lub zak∏adzie wzajemnym, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolnoÊci, albo obu tym karom ∏àcznie.”;
-5) wart. 107a§ 1 otrzymuje brzmienie: „§ 1. Kto urzàdza lub prowadzi gr´ losowà, gr´ na automacie lub zak∏ad wzajemny bez wymaganego urz´dowego sprawdzenia lub bez na∏o˝enia wymaganych urz´dowych zamkni´ç, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolnoÊci do lat 2, albo obu tym karom ∏àcznie.”;
-6) po art. 107a dodaje si´ art. 107b i 107c brzmieniu: „Art. 107b. § 1. Kto niszczy losy, kartony lub inne dowody udzia∏u loterii pieni´˝nej, loterii fantowej lub grze bingo fantowe bez wymaganego zawiadomienia w∏aÊciwego organu, podlega karze grzywny do 720stawek dziennych.
-§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego okreÊlonego w§ 1 „Art. 109. Kto uczestniczy grze losowej, zak∏adzie wzajemnym, grze na automacie, urzàdzonych lub prowadzonych wbrew przepisom ustawy lub warunkom koncesji lub zezwolenia, podlega karze grzywny do 120 stawek dziennych.”;
-8) art. 110 otrzymuje brzmienie: „Art. 110. Kto, nie b´dàc do tego uprawnionym, celu osiàgni´cia korzyÊci majàtkowej trudni si´ sprzeda˝à losów lub innych dowodów udzia∏u wgrze losowej, zak∏adzie wzajemnym lub grze na automacie, podlega karze grzywny do 360 stawek dziennych albo karze ograniczenia wolnoÊci, albo obu tym karom ∏àcznie.”;
-9) po art. 110 dodaje si´ art. 110ai110bwbrzmieniu: „Art. 110a. § 1. Kto, wbrew przepisom ustawy, zleca lub prowadzi reklam´ lub promocj´ gier cylindrycznych, gier karty, gier koÊci, zak∏adów wzajemnych lub gier na automatach, umieszcza reklam´ takich gier lub zak∏adów lub informuje sponsorowaniu przez podmiot prowadzàcy dzia∏alnoÊç zakresie takich gier lub zak∏adów, podlega karze grzywny do 720stawek dziennych.
-§ 2. Tej samej karze podlega kto czerpie korzyÊci z reklamy lub promocji gier cylindrycznych, gier wkarty, gier wkoÊci, zak∏adów wzajemnych lub gier na automatach zlecanych lub prowadzonych wbrew przepisom ustawy, zumieszczania reklamy wbrew przepisom ustawy albo informowania sponsorowaniu przez podmiot prowadzàcy dzia∏alnoÊç zakresie takich gier lub zak∏adów.
-§ 3. W wypadku mniejszej wagi, sprawca czynu zabronionego okreÊlonego w§ 1 lub 2, podlega karze grzywny za wykroczenie skarbowe.
-110b. Kto umo˝liwia osobie, która nie ukoƒczy∏a 18 roku ˝ycia, udzia∏ wgrze losowej innej ni˝ loteria promocyjna lub fantowa, grze na automacie lub wzak∏adzie wzajemnym, gie∏dach towarowych (Dz. U. z 2005 r. 121, poz.1019, zpóên. zm. ) art. 10 otrzymuje brzmienie: „Art. 10. Transakcja gie∏dowa nie stanowi gry ani zak∏adu wrozumieniu art. 413 Kodeksu cywilnego, ani te˝ gry losowej lub zak∏adu wzajemnego rozumieniu przepisów grach hazardowych, nawet je˝eli wed∏ug wyraênej lub dorozumianej woli stron rzeczywiste spe∏nienie wzajemnych Êwiadczeƒ jest wy∏àczone, a tylko jedna lub druga ze stron jest obowiàzana zap∏aciç ró˝nic´ mi´dzy umówionà cenà sprzeda˝y a cenà rynkowà wczasie wykonania umowy.”.
+a) § 1 otrzymuje brzmienie: Ń§ 1. Kto wbrew przepisom ustawy lub warunkom koncesji lub zezwolenia urządza lub prowadzi grę losową, grę na automacie lub zakład wzajemny, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 3, albo obu tym karom łącznie.”,
+b) § 3 otrzymuje brzmienie: Ń§ 3. Jeżeli sprawca dopuszcza się czynu zabronionego określonego § 1 lub 2 celu osiągnięcia korzyści majątkowej z organizowania zbiorowego uczestnictwa grze losowej, grze na automacie lub zakładzie wzajemnym, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności, albo obu tym karom łącznie.”;
+5) wart. 107a§ 1 otrzymuje brzmienie: Ń§ 1. Kto urządza lub prowadzi grę losową, grę na automacie lub zakład wzajemny bez wymaganego urzędowego sprawdzenia lub bez nałożenia wymaganych urzędowych zamknięć, podlega karze grzywny do 720 stawek dziennych albo karze pozbawienia wolności do lat 2, albo obu tym karom łącznie.”;
+6) po art. 107a dodaje się art. 107b i 107c brzmieniu: ŃArt. 107b. § 1. Kto niszczy losy, kartony lub inne dowody udziału loterii pieniężnej, loterii fantowej lub grze bingo fantowe bez wymaganego zawiadomienia właściwego organu, podlega karze grzywny do 720stawek dziennych.
+§ 2. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w§ 1 ŃArt. 109. Kto uczestniczy grze losowej, zakładzie wzajemnym, grze na automacie, urządzonych lub prowadzonych wbrew przepisom ustawy lub warunkom koncesji lub zezwolenia, podlega karze grzywny do 120 stawek dziennych.”;
+8) art. 110 otrzymuje brzmienie: ŃArt. 110. Kto, nie będąc do tego uprawnionym, celu osiągnięcia korzyści majątkowej trudni się sprzedażą losów lub innych dowodów udziału wgrze losowej, zakładzie wzajemnym lub grze na automacie, podlega karze grzywny do 360 stawek dziennych albo karze ograniczenia wolności, albo obu tym karom łącznie.”;
+9) po art. 110 dodaje się art. 110ai110bwbrzmieniu: ŃArt. 110a. § 1. Kto, wbrew przepisom ustawy, zleca lub prowadzi reklamę lub promocję gier cylindrycznych, gier karty, gier kości, zakładów wzajemnych lub gier na automatach, umieszcza reklamę takich gier lub zakładów lub informuje sponsorowaniu przez podmiot prowadzący działalność zakresie takich gier lub zakładów, podlega karze grzywny do 720stawek dziennych.
+§ 2. Tej samej karze podlega kto czerpie korzyści z reklamy lub promocji gier cylindrycznych, gier wkarty, gier wkości, zakładów wzajemnych lub gier na automatach zlecanych lub prowadzonych wbrew przepisom ustawy, zumieszczania reklamy wbrew przepisom ustawy albo informowania sponsorowaniu przez podmiot prowadzący działalność zakresie takich gier lub zakładów.
+§ 3. W wypadku mniejszej wagi, sprawca czynu zabronionego określonego w§ 1 lub 2, podlega karze grzywny za wykroczenie skarbowe.
+110b. Kto umożliwia osobie, która nie ukończyła 18 roku życia, udział wgrze losowej innej niż loteria promocyjna lub fantowa, grze na automacie lub wzakładzie wzajemnym, giełdach towarowych (Dz. U. z 2005 r. 121, poz.1019, zpóên. zm. ) art. 10 otrzymuje brzmienie: ŃArt. 10. Transakcja giełdowa nie stanowi gry ani zakładu wrozumieniu art. 413 Kodeksu cywilnego, ani też gry losowej lub zakładu wzajemnego rozumieniu przepisów grach hazardowych, nawet jeżeli według wyraênej lub dorozumianej woli stron rzeczywiste spełnienie wzajemnych świadczeń jest wyłączone, a tylko jedna lub druga ze stron jest obowiązana zapłacić różnicę między umówioną ceną sprzedaży a ceną rynkową wczasie wykonania umowy.”.
 106. W ustawie z dnia 16 listopada 2000 r.
-przeciwdzia∏aniu praniu pieni´dzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
-1) wart. 2 wpkt 1 lit. iotrzymuje brzmienie: „i) podmioty prowadzàce dzia∏alnoÊç zakresie gier losowych, zak∏adów wzajemnych i gier na automatach,”;
-2) wart. 8 ust. 1aotrzymuje brzmienie: „1a. W przypadku podmiotu prowadzàcego kasyno gry wrozumieniu przepisów ustawy zdnia 19 listopada 2009 r. grach hazardowych (Dz. U. 201, poz. 1540) obowiàzek, którym mowa ust. 1, dotyczy zakupu lub sprzeda˝y ˝etonów wartoÊci stanowiàcej conajmniej równowartoÊç 1 000 euro.”;
-3) art. 9cotrzymuje brzmienie: „Art. 9c. W przypadku podmiotu prowadzàcego kasyno gry, rozumieniu przepisów ustawy z dnia 19 listopada 2009 r.
-grach hazardowych, Êrodki, których mowa art. 8b ust. 3 pkt 1, stosuje si´ przy wejÊciu klienta do kasyna, niezale˝b) po ust. 3bdodaje si´ ust. 3cwbrzmieniu: „3c. Na wniosek ministra w∏aÊciwego do spraw finansów publicznych, Generalny Inspektor przeprowadza kontrol´, której mowa ust. 1, wobec instytucji obowiàzanej ubiegajàcej si´ oudzielenie koncesji lub zezwolenia, októrych mowa wustawie zdnia 19 listopada 2009 r. ograch hazardowych.”.
-107.Wustawie zdnia 18 stycznia 2001 r. owyÊcigach konnych (Dz. U. 11, poz. 86, z2003 r. 84, poz. 774, z 2004 r. 173, poz. 1808 oraz z 2006 r.
-Nr249, poz. 1832) art. 14 ust. 1 otrzymuje brzmienie: „1. Podmiot organizujàcy na podstawie przepisów grach hazardowych zak∏ady wzajemne na wyÊcigi konne uiszcza op∏at´ na rzecz Klubu wwysokoÊci 2 % sumy wp∏aconych stawek na zak∏ady wzajemne na wyÊcigi konne danym miesiàcu, wterminie do 20. dnia nast´pnego miesiàca.”.
+przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, zpóên. zm. ) wprowadza się następujące zmiany:
+1) wart. 2 wpkt 1 lit. iotrzymuje brzmienie: Ńi) podmioty prowadzące działalność zakresie gier losowych, zakładów wzajemnych i gier na automatach,”;
+2) wart. 8 ust. 1aotrzymuje brzmienie: Ń1a. W przypadku podmiotu prowadzącego kasyno gry wrozumieniu przepisów ustawy zdnia 19 listopada 2009 r. grach hazardowych (Dz. U. 201, poz. 1540) obowiązek, którym mowa ust. 1, dotyczy zakupu lub sprzedaży żetonów wartości stanowiącej conajmniej równowartość 1 000 euro.”;
+3) art. 9cotrzymuje brzmienie: ŃArt. 9c. W przypadku podmiotu prowadzącego kasyno gry, rozumieniu przepisów ustawy z dnia 19 listopada 2009 r.
+grach hazardowych, środki, których mowa art. 8b ust. 3 pkt 1, stosuje się przy wejściu klienta do kasyna, niezależb) po ust. 3bdodaje się ust. 3cwbrzmieniu: Ń3c. Na wniosek ministra właściwego do spraw finansów publicznych, Generalny Inspektor przeprowadza kontrolę, której mowa ust. 1, wobec instytucji obowiązanej ubiegającej się oudzielenie koncesji lub zezwolenia, októrych mowa wustawie zdnia 19 listopada 2009 r. ograch hazardowych.”.
+107.Wustawie zdnia 18 stycznia 2001 r. owyścigach konnych (Dz. U. 11, poz. 86, z2003 r. 84, poz. 774, z 2004 r. 173, poz. 1808 oraz z 2006 r.
+Nr249, poz. 1832) art. 14 ust. 1 otrzymuje brzmienie: Ń1. Podmiot organizujący na podstawie przepisów grach hazardowych zakłady wzajemne na wyścigi konne uiszcza opłatę na rzecz Klubu wwysokości 2 % sumy wpłaconych stawek na zakłady wzajemne na wyścigi konne danym miesiącu, wterminie do 20. dnia następnego miesiąca.”.
 108.Wustawie zdnia 6 lipca 2001 r. ogromadzeniu, przetwarzaniu iprzekazywaniu informacji kryminalnych (Dz. U. z 2006 r. 216, poz. 1585, z póên.
 zm.
-nie od wartoÊci ˝etonów lub kartonów zakupionych do gry.”;
-) wart. 33 ust. 1 otrzymuje brzmienie: „1. Je˝eli zachodzi podejrzenie, ˝e zapytanie zosta∏o skierowane wcelu innym ni˝:
-1) wykrywanie i Êciganie sprawców przest´pstw oraz zapobieganie izwalczanie przest´pczoÊci,
-2) stwierdzenie, ˝e wydanie koncesji lub zezwolenia na prowadzenie gier hazardowych podmiotom ubiegajàcym si´ oudzielenie takiej koncesji lub zezwolenia nie zagrozi bezpieczeƒstwu paƒstwa lub porzàdkowi publicznemu Szef Centrum wstrzymuje przekazanie informacji kryminalnej oraz powiadamia otreÊci zapytania organ nadrz´dny nad podmiotem kierujàcym zapytanie i˝àda pisemnych wyjaÊnieƒ.”.
-109.Wustawie zdnia 18 lipca 2002 r. oÊwiadczeniu us∏ug drogà elektronicznà (Dz. U. 144, poz. 1204, zpóên. zm.
-——————— ) wart. 9 wust. 3 pkt 2 otrzymuje brzmienie: „2) z dnia 19 listopada 2009 r. grach hazardowych (Dz. U. 201, poz. 1540).”.
+nie od wartości żetonów lub kartonów zakupionych do gry.”;
+) wart. 33 ust. 1 otrzymuje brzmienie: Ń1. Jeżeli zachodzi podejrzenie, że zapytanie zostało skierowane wcelu innym niż:
+1) wykrywanie i ściganie sprawców przestępstw oraz zapobieganie izwalczanie przestępczości,
+2) stwierdzenie, że wydanie koncesji lub zezwolenia na prowadzenie gier hazardowych podmiotom ubiegającym się oudzielenie takiej koncesji lub zezwolenia nie zagrozi bezpieczeństwu państwa lub porządkowi publicznemu Szef Centrum wstrzymuje przekazanie informacji kryminalnej oraz powiadamia otreści zapytania organ nadrzędny nad podmiotem kierującym zapytanie iżąda pisemnych wyjaśnień.”.
+109.Wustawie zdnia 18 lipca 2002 r. oświadczeniu usług drogą elektroniczną (Dz. U. 144, poz. 1204, zpóên. zm.
+——————— ) wart. 9 wust. 3 pkt 2 otrzymuje brzmienie: Ń2) z dnia 19 listopada 2009 r. grach hazardowych (Dz. U. 201, poz. 1540).”.
 ——————— art. 109, art. 110 i art. 110a Kodeksu karnego skarbowego.”.
-111. W ustawie z dnia 11 marca 2004 r. podatku od towarów i us∏ug (Dz. U. 54, poz. 535, z póên. zm. ) art. 43 ust. 1 pkt 15 otrzymuje brzmienie: „15) dzia∏alnoÊç wzakresie gier losowych, zak∏adów wzajemnych i gier na automatach, podlegajàcà opodatkowaniu podatkiem od gier na zasadach okreÊlonych wodr´bnej ustawie;”.
-112. W ustawie z dnia 27 maja 2004 r. funduszach inwestycyjnych (Dz. U. 146, poz. 1546, zpóên. zm. ) art. 12 otrzymuje brzmienie: „Art. 12. Do instrumentów pochodnych b´dàcych przedmiotem umów zawartych przez fundusz inwestycyjny nie stosuje si´ przepisów ustawy z dnia 19 listopada 2009 r.
+111. W ustawie z dnia 11 marca 2004 r. podatku od towarów i usług (Dz. U. 54, poz. 535, z póên. zm. ) art. 43 ust. 1 pkt 15 otrzymuje brzmienie: Ń15) działalność wzakresie gier losowych, zakładów wzajemnych i gier na automatach, podlegającą opodatkowaniu podatkiem od gier na zasadach określonych wodrębnej ustawie;”.
+112. W ustawie z dnia 27 maja 2004 r. funduszach inwestycyjnych (Dz. U. 146, poz. 1546, zpóên. zm. ) art. 12 otrzymuje brzmienie: ŃArt. 12. Do instrumentów pochodnych będących przedmiotem umów zawartych przez fundusz inwestycyjny nie stosuje się przepisów ustawy z dnia 19 listopada 2009 r.
 grach hazardowych (Dz. U. 201, poz.1540) oraz art. 413 Kodeksu cywilnego.”.
-113. Wustawie zdnia 2 lipca 2004 r. oswobodzie dzia∏alnoÊci gospodarczej (Dz. U. z2007 r. 155, poz. 1095, z póên. zm.
+113. Wustawie zdnia 2 lipca 2004 r. oswobodzie działalności gospodarczej (Dz. U. z2007 r. 155, poz. 1095, z póên. zm.
 wych (Dz. U. 201, poz. 1540);”.
 115.Wustawie zdnia 29 lipca 2005 r. oobrocie instrumentami finansowymi (Dz. U. 183, poz. 1538, z póên. zm.
-) wprowadza si´ nast´pujàce zmiany:
-1) wart. 46 wust. 1 dodaje si´ pkt 7 wbrzmieniu: „7) prowadzenia kasyna gry.”;
-2) wart. 75 wust. 1 pkt 2 otrzymuje brzmienie: „2) ustawy z dnia 19 listopada 2009 r. grach hazardowych (Dz. U. 201, poz. 1540);”.
-) art. 19 ust. 2 otrzymuje brzmienie: „2. Transakcja, której przedmiotem jest nabycie lub zbycie nieb´dàcych papierami wartoÊciowymi instrumentów finansowych dopuszczonych do obrotu zorganizowanego, lub która prowadzi do powstania takich instrumentów, nie stanowi gry ani zak∏adu rozumieniu przepisów ustawy z dnia 23kwietnia 1964 r. Kodeks cywilny, ani te˝ gry losowej lub zak∏adu wzajemnego rozumieniu przepisów ograch hazardowych, nawet je˝eli wed∏ug wyraênej lub dorozumianej woli stron rzeczywiste spe∏nienie wzajemnych Êwiadczeƒ jest wy∏àczone, atylko jedna ze stron jest obowiàzana zap∏aciç ró˝nic´ mi´dzy umówionà cenà sprzeda˝y acenà rynkowà wczasie wykonania umowy.”.
+) wprowadza się następujące zmiany:
+1) wart. 46 wust. 1 dodaje się pkt 7 wbrzmieniu: Ń7) prowadzenia kasyna gry.”;
+2) wart. 75 wust. 1 pkt 2 otrzymuje brzmienie: Ń2) ustawy z dnia 19 listopada 2009 r. grach hazardowych (Dz. U. 201, poz. 1540);”.
+) art. 19 ust. 2 otrzymuje brzmienie: Ń2. Transakcja, której przedmiotem jest nabycie lub zbycie niebędących papierami wartościowymi instrumentów finansowych dopuszczonych do obrotu zorganizowanego, lub która prowadzi do powstania takich instrumentów, nie stanowi gry ani zakładu rozumieniu przepisów ustawy z dnia 23kwietnia 1964 r. Kodeks cywilny, ani też gry losowej lub zakładu wzajemnego rozumieniu przepisów ograch hazardowych, nawet jeżeli według wyraênej lub dorozumianej woli stron rzeczywiste spełnienie wzajemnych świadczeń jest wyłączone, atylko jedna ze stron jest obowiązana zapłacić różnicę między umówioną ceną sprzedaży aceną rynkową wczasie wykonania umowy.”.
 116. W ustawie z dnia 27 sierpnia 2009 r.
-oS∏u˝bie Celnej (Dz. U. 168, poz. 1323) wprowadza si´ nast´pujàce zmiany:
+oSłużbie Celnej (Dz. U. 168, poz. 1323) wprowadza się następujące zmiany:
 1) wart. 2 wust. 1:
-a) wpkt 2 lit. dotrzymuje brzmienie: „d) podatku od gier oraz dop∏at, których mowa ustawie z dnia 19 listopada 2009 r.
+a) wpkt 2 lit. dotrzymuje brzmienie: Ńd) podatku od gier oraz dopłat, których mowa ustawie z dnia 19 listopada 2009 r.
 grach hazardowych (Dz. U. 201, poz.1540),”,
-b) wpkt 6 lit. eotrzymuje brzmienie: „e) Êrodowisku, okreÊlonych wart. 183 § 2, 4, 5 i 6, przypadku czynów, których mowa wart. 183 § 2, 4 i5 ustawy zdnia 6 czerwca 1997 r. Kodeks karny (Dz. U. 88, ——————— poz. 553, z póên. zm. ), zwanej dalej „Ko——————— laniem koncesji oraz zezwoleƒ, zatwierdzaniem regulaminów oraz rejestracjà urzàdzeƒ;”;
-2) wart. 10 wust. 3 pkt 3 otrzymuje brzmienie: „3) kszta∏towanie polityki kadrowej i szkoleniowej wS∏u˝bie Celnej oraz wykonywanie zadaƒ kierownika urz´du wobec funkcjonariuszy pe∏niàcych s∏u˝b´ komórkach organizacyjnych w∏aÊciwych sprawach celnych, podatku akcyzowego, gier hazardowych, urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw finansów publicznych, zwanych dalej „komórkami organizacyjnymi urz´dzie obs∏ugujàcym ministra”;”;
-3) wart. 30 wust. 2 pkt 3 otrzymuje brzmienie: „3) regulujàcych urzàdzanie i prowadzenie gier hazardowych, których mowa ustawie z dnia 19 listopada 2009 r. grach hazardowych, oraz zgodnoÊç tej dzia∏alnoÊci zudzielonà koncesjà lub zezwoleniem oraz zatwierdzonym regulaminem.”;
-4) wart. 32 wust. 1 pkt 13 otrzymuje brzmienie: „13) przeprowadzania uzasadnionych przypadkach, drodze eksperymentu, doÊwiadczenia lub odtworzenia mo˝liwoÊci gry na automacie lub gry na innym urzàdzeniu;”;
-5) wart. 51 wust. 1 pkt 1 otrzymuje brzmienie: „1) szczegó∏owy sposób i tryb kontroli urzàdzania i prowadzenia gier hazardowych, której mowa wart. 30 ust. 2 pkt 3;”;
-6) wart. 72 wust. 1 dodaje si´ pkt 5 wbrzmieniu: „5) zwracania si´ niezb´dnà pomoc do jednostek gospodarczych i organizacji spo∏ecznych, jak równie˝ zwracania si´ nag∏ych wypadkach do ka˝dej osoby udzielenie doraênej pomocy, wramach obowiàzujàcych przepisów prawa.”;
-7) po art. 75 dodaje si´ art. 75a—75cwbrzmieniu: „Art. 75a. 1. Minister w∏aÊciwy do spraw finansów publicznych prowadzi ewidencj´ osób, wobec których orzeczono Êrodek karny zakazu wst´pu do oÊrodz up∏ywem okresu, na który orzeczono Êrodek karny.
-75b. 1. Funkcjonariusze, których mowa wart. 69, majà prawo do obserwowania i rejestrowania, przy u˝yciu Êrodków technicznych, obrazu zdarzeƒ wmiejscach publicznych oraz dêwi´ku towarzyszàcego tym zdarzeniom wy∏àcznie wtoku czynnoÊci podejmowanych celu ustalenia sprawców oraz uzyskania dowodów przest´pstw lub przest´pstw skarbowych, których mowa wart. 2 ust. 1 pkt 4—6.
-2. Wykonanie czynnoÊci, których moków gier i uczestnictwa grach hazardowych.
-2. Wewidencji umieszcza si´ nast´pujàce dane dotyczàce osoby, której wa ust. 1, mo˝e zarzàdziç dyrektor izby celnej na czas okreÊlony nie d∏u˝szy ni˝ 3 miesiàce.
-3. Je˝eli informacje i materia∏y uzyskane wyniku czynnoÊci, których mowa ust. 1, zawierajà informacje majàce znaczenie dla post´powania sprawach przest´pstwa skarbowe lub wykroczenia skarbowe, dla post´powania karnego bàdê uzasadniajà podejrzenie naruszenia przepisów celnych, podatkowych lub z zakresu gier hazardowych, organ S∏u˝by Celnej prowadzi odpowiednio post´powanie przygotowawcze, kontrol´, post´powanie celne lub podatkowe albo przekazuje uzyskane informacje i materia∏y w∏aÊciwym organom.
-4. Informacje i materia∏y, które nie stanowià informacji potwierdzajàcych zaistnienie czynów, których mowa ust. 1, podlegajà niezw∏ocznie protokolarnemu, komisyjnemu zniszczeniu. Zniszczenie zarzàdza dyrektor izby celnej.
-5. Zabronione jest udzielanie informacji uzyskanych wyniku czynnoÊci, których mowa ust. 1, osobom iinstytucjom innym ni˝ sàd iprokurator lub organy uprawnione na mocy odr´bnych ustaw do wykonywania czynnoÊci operacyjno-rozpoznawczych albo wykorzystywanie tych informacji celu innym ni˝ realizacja zadaƒ S∏u˝by Celnej okreÊlonych wust. 3.
-6. Minister w∏aÊciwy do spraw finansów publicznych porozumieniu z Ministrem SprawiedliwoÊci okreÊli, wdro∏ów.
-75c. 1. S∏u˝ba Celna wcelu realizacji ustawowych zadaƒ mo˝e korzystaç z informacji, tym danych osobowych, tym równie˝ formie zapisu elektronicznego, uzyskanych przez uprawnione organy, s∏u˝by i instytucje paƒstwowe wyniku wykonywania czynnoÊci operacyjno-rozpoznawczych oraz przetwarzaç je rozumieniu ustawy z dnia 29 sierpnia 1997 r.
-ochronie danych osobowych, bez wiedzy izgody osoby, której dane dotyczà.
-2. S∏u˝ba Celna wspó∏dzia∏a z organado jego uzyskania terminie 4 miesi´cy od dnia jej wejÊcia w˝ycie.
-121. Do wygaÊni´cia, zwiàzku z nierozpocz´ciem dzia∏alnoÊci, zezwoleƒ udzielonych przed dniem wejÊcia w˝ycie ustawy stosuje si´ art. 36 ust.5 ustawy, októrej mowa wart. 144.
-122. 1. Minister w∏aÊciwy do spraw finansów publicznych og∏asza, wterminie 7 dni od dnia wejÊcia ˝ycie ustawy, informacj´, której mowa art. 33 ust. 1, dotyczàcà wniosków z∏o˝onych i nierozpatrzonych do dnia wejÊcia w˝ycie ustawy.
-2. W przypadku gdy zezwolenie na prowadzenie dzia∏alnoÊci zakresie gier urzàdzanych kasynie gry lub przed∏u˝one zezwolenie na prowadzenie dziami, s∏u˝bami i instytucjami paƒstwo- ∏alnoÊci zakresie gry bingo pieni´˝ne wygasa nie wymi uprawnionymi do wykonywa- wczeÊniej ni˝ 6 miesi´cy i nie póêniej ni˝ 9 miesi´cy nia czynnoÊci operacyjno-rozpoznaw- od dnia wejÊcia w˝ycie ustawy, minister w∏aÊciwy do czych, szczególnoÊci przez uczest- spraw finansów publicznych og∏asza informacj´, nictwo funkcjonariuszy realizowa- której mowa art. 50 ust. 1, terminie 7 dni od nych przez nie czynnoÊciach opera- dnia wejÊcia w˝ycie ustawy. 50 ust. 2 stosuje si´ cyjno-rozpoznawczych. odpowiednio.
-3. Prezes Rady Ministrów okreÊli, wdro- 123. 1. WysokoÊç zabezpieczenia finansowedze rozporzàdzenia, zakres, warunki go podmiotów urzàdzajàcych gry kasynach gry i tryb przekazywania S∏u˝bie Celnej i salonach gry bingo pieni´˝ne oraz urzàdzajàcych informacji uzyskanych wyniku pro- zak∏ady wzajemne ustalona przed dniem wejÊcia wadzenia przez uprawnione organy, w˝ycie ustawy na podstawie przepisów dotychczasos∏u˝by i instytucje czynnoÊci opera- wych nie wymaga uzupe∏nienia do kwot okreÊlonych cyjno-rozpoznawczych, uwzgl´dnia- art. 63 ust. 1 do czasu wygaÊni´cia lub zmiany zejàc zakres informacji niezb´dnych do zwolenia.
-wykonywania ustawowych zadaƒ S∏u˝by Celnej, cel przekazywania in- 2. Zabezpieczenia finansowe sk∏adane przez podformacji oraz potrzeb´ jego doku- mioty, októrych mowa wust. 1, zgodnie zzezwoleniamentowania.”. mi udzielonymi przed dniem wejÊcia ˝ycie ustawy nie wymagajà dostosowania do warunków okreÊloRozdzia∏ 12 nych art. 63 ust. 4—6 do czasu wygaÊni´cia lub zmiany zezwolenia.
-Przepisy przejÊciowe idostosowujàce 124. Do ustalenia op∏at, których mowa
-117.1. Udzielone przed dniem wejÊcia w˝ycie art. 69, roku 2010 przyjmuje si´ kwot´ bazowà ustawy zezwolenia na urzàdzanie i prowadzenie gier równà kwocie przeci´tnego miesi´cznego wynagroizak∏adów wzajemnych zachowujà wa˝noÊç do czasu dzenia wsektorze przedsi´biorstw bez wyp∏at nagród ich wygaÊni´cia. zzysku, wdrugim kwartale 2009 r.
-2. Zatwierdzone przed dniem wejÊcia w˝ycie usta- 125. 1. Podmiot b´dàcy na podstawie przepiwy regulaminy gier izak∏adów wzajemnych zachowu- sów dotychczasowych p∏atnikiem podatku od gier jà wa˝noÊç do czasu ich wygaÊni´cia. z tytu∏u gry bingo pieni´˝ne wykonuje obowiàzki zakresie rozliczenia podatku pobranego przed
-118. Do post´powaƒ wszcz´tych i niezakoƒ- dniem wejÊcia ˝ycie ustawy oraz przechowywania czonych przed dniem wejÊcia ˝ycie ustawy stosuje zwiàzanych ztym dokumentów wed∏ug przepisów dosi´ przepisy ustawy, oile ustawa nie stanowi inaczej. tychczasowych, ztym ˝e roczne obliczenie pobranych kwot podatku za 2010 r. sk∏ada si´ terminie 2 mie119. WysokoÊç kapita∏u zak∏adowego spó∏ek si´cy od dnia wejÊcia w˝ycie ustawy.
-urzàdzajàcych gry kasynach gry i salonach gry bingo pieni´˝ne oraz urzàdzajàcych zak∏ady wzajem- 2. Podmiot urzàdzajàcy gry kasynie gry rozlicza ne ustalona przed dniem wejÊcia ˝ycie ustawy na powsta∏y przed dniem wejÊcia ˝ycie ustawy obopodstawie przepisów dotychczasowych nie wymaga wiàzek podatkowy wpodatku od gier ztytu∏u pokera, mowa art. 144, staje si´ bilansem otwarcia Funduszu Rozwoju Kultury Fizycznej, którym mowa wart.86 ust. 1.
-3. Plan finansowy na 2010 r. Funduszu Rozwoju Kultury Fizycznej utworzonego na podstawie ustawy, której mowa art. 144, staje si´ planem finansowym Funduszu Rozwoju Kultury Fizycznej, którym mowa wart. 86 ust. 1.
-127. 1. Fundusz Promocji Kultury, którym mowa art. 87 ust. 1, wst´puje prawa i obowiàzki Funduszu Promocji Kultury utworzonego na podstawie ustawy, októrej mowa wart. 144.
-2. Bilans zamkni´cia Funduszu Promocji Kultury utworzonego na podstawie ustawy, której mowa wart. 144, staje si´ bilansem otwarcia Funduszu Promocji Kultury, októrym mowa wart. 87 ust. 1.
-3. Plan finansowy na 2010 r. Funduszu Promocji Kultury utworzonego na podstawie ustawy, której mowa wart. 144, staje si´ planem finansowym Funduszu Promocji Kultury, októrym mowa wart. 87 ust. 1.
-128.1. Post´powania oudzielenie zezwolenia na urzàdzanie loterii audioteksowej wszcz´te przed dniem wejÊcia ˝ycie ustawy na wniosek podmiotu innego ni˝ spó∏ka z ograniczonà odpowiedzialnoÊcià albo spó∏ka akcyjna umarza si´.
-2. Wnioskodawca mo˝e, wterminie 2 miesi´cy od dnia wejÊcia ˝ycie ustawy, uzupe∏niç z∏o˝ony przed dniem wejÊcia ˝ycie ustawy wniosek udzielenie zezwolenia na urzàdzanie loterii promocyjnej lub loterii audioteksowej. Wprzypadku nieuzupe∏nienia wniosku wterminie post´powanie umarza si´.
-129.1. Dzia∏alnoÊç wzakresie gier na automatach niskich wygranych oraz gier na automatach urzàdzanych salonach gier na automatach na podstawie zezwoleƒ udzielonych przed dniem wejÊcia ˝ycie ustawy jest prowadzona, do czasu wygaÊni´cia tych zezwoleƒ, przez podmioty, których im udzielono, wed∏ug przepisów dotychczasowych, oile ustawa nie stanowi inaczej.
-2. Post´powania sprawie wydania zezwoleƒ na prowadzenie dzia∏alnoÊci zakresie gier na automatach niskich wygranych oraz gier na automatach urzàdzanych wsalonach gier na automatach, wszcz´te i niezakoƒczone przed dniem wejÊcia ˝ycie ustawy, umarza si´.
-3. Przez gry na automatach niskich wygranych rozumie si´ gry na urzàdzeniach mechanicznych, elektromechanicznych i elektronicznych wygrane pieni´˝ne lub rzeczowe, wktórych wartoÊç jednorazowej wygranej nie mo˝e byç wy˝sza ni˝ 60 z∏, a wartoÊç
-2) gier na automatach niskich wygranych nie mo˝e byç ni˝sza ni˝ 800 000 z∏.
-2. WysokoÊç kapita∏u zak∏adowego spó∏ek prowadzàcych dzia∏alnoÊç, której mowa art. 129 ust. 1, ustalona przed dniem wejÊcia w˝ycie ustawy na podstawie przepisów dotychczasowych nie wymaga uzupe∏nienia do kwot okreÊlonych wust. 1 do czasu zmiany zezwolenia wzwiàzku ze zmianà wstrukturze kapita∏u zak∏adowego spó∏ki, zgodnie zart. 52.
-131. Do podmiotów prowadzàcych dzia∏alnoÊç, októrej mowa wart. 129 ust. 1, przepisy art. 11 iart. 12 stosuje si´ odpowiednio.
-132. 1. Do obowiàzku posiadania oraz wydawania Êwiadectw zawodowych osobom pe∏niàcym funkcj´ lub zajmujàcym stanowisko, z którym wià˝e si´ obowiàzek nadzorowania albo bezpoÊredniego prowadzenia gier na automatach oniskich wygranych albo gier na automatach urzàdzanych wsalonach gier na automatach stosuje si´ art. 24, art. 25 ust. 1—7, art.26, zuwzgl´dnieniem art. 120 ust. 2, oraz przepisy wydane na podstawie art. 25 ust. 8.
-2. Do op∏at za wydanie Êwiadectwa zawodowego i op∏at egzaminacyjnych stosuje si´ przepisy ustawy, ztym ˝e op∏ata egzaminacyjna wprzypadku inspektora wsalonie gier na automatach oraz osoby nadzorujàcej punkty gier na automatach oniskich wygranych wynosi 55 % kwoty bazowej.
-133. 1. Do podmiotów prowadzàcych dzia∏alnoÊç, której mowa art. 129 ust. 1, stosuje si´ art.27 ust. 3.
-2. Do osoby upowa˝nionej przez podmiot prowadzàcy dzia∏alnoÊç wzakresie gier na automatach oniskich wygranych oraz osoby kierujàcej wdanym lokalu dzia∏alnoÊcià gastronomicznà, handlowà lub us∏ugowà, a tak˝e osoby kierujàcej salonem gier na automatach oraz osoby przez nià upowa˝nionej stosuje si´ odpowiednio art. 27 ust. 4.
-134. Gry na automatach urzàdzane salonach gier na automatach oraz gry na automatach oniskich wygranych obj´te sà zakazem reklamy ipromocji oraz informowania sponsorowaniu okreÊlonym art. 29. Przepis art. 29 ust. 5 stosuje si´ odpowiednio.
-135. 1. Zezwolenia, októrych mowa wart. 129 ust. 1, mogà byç zmieniane, na zasadach okreÊlonych wustawie dla zmiany koncesji izezwoleƒ udzielanych podmiotom prowadzàcym dzia∏alnoÊç zakresie okreÊlonym art. 6 ust. 1—3, przez organ w∏aÊciwy do udzielenia zezwolenia dniu poprzedzajàcym prowadzàcej dzia∏alnoÊç zakresie gier na automatach niskich wygranych, dyrektor izby celnej mo˝e nie weryfikowaç spe∏nienia warunków okreÊlonych ustawie, je˝eli ich spe∏nienie zosta∏o stwierdzone przez ministra w∏aÊciwego do spraw finansów publicznych wzwiàzku zubieganiem si´ wnioskodawcy oudzielenie zezwolenia lub zgody przez tego ministra, astan faktyczny nie uleg∏ zmianie.
-136. 1. Zabezpieczenia finansowe sk∏adane przez podmioty, których mowa art. 129 ust. 1, zgodnie z zezwoleniami udzielonymi przed dniem wejÊcia ˝ycie ustawy nie wymagajà dostosowania do warunków okreÊlonych art. 63 ust. 4—6 do czasu zmiany zezwolenia zakresie warunków dotyczàcych zabezpieczenia finansowego.
-2. Wprzypadku zmiany zezwolenia wzakresie warunków dotyczàcych zabezpieczenia finansowego, podmiot, którym mowa art. 129 ust. 1, jest obowiàzany z∏o˝yç wterminie okreÊlonym wzmienianym zezwoleniu zabezpieczenie finansowe wed∏ug zasad okreÊlonych wart. 63, wwysokoÊci:
-1) 600 000 z∏ przypadku prowadzenia salonu gier na automatach;
-2) 4 000 z∏ przypadku punktu gier na automatach oniskich wygranych.
-137. Do regulaminów gier, których mowa wart. 129 ust. 1, stosuje si´ odpowiednio art. 61 ust.1 i 4, z tym ˝e regulaminie gier na automatach niskich wygranych nie okreÊla si´ wysokoÊci kapita∏u przeznaczonego do natychmiastowej wyp∏aty wygranych. W∏aÊciwy do zatwierdzania regulaminu gier ijego zmiany jest organ w∏aÊciwy do udzielenia zezwolenia dniu poprzedzajàcym dzieƒ wejÊcia ˝ycie ustawy.
-138.1. Zezwolenia, októrych mowa wart. 129 ust. 1, nie mogà byç przed∏u˝ane.
-2. Do podmiotów, których mowa art. 129 ust.1, stosuje si´ odpowiednio art. 58 i art. 59, z tym ˝e organem w∏aÊciwym jest organ w∏aÊciwy do udzielenia zezwolenia dniu poprzedzajàcym dzieƒ wejÊcia w˝ycie ustawy.
-3. Organ, októrym mowa wust. 2, wdrodze decyzji, cofa zezwolenie przypadku stwierdzenia, ˝e automat niskich wygranych umo˝liwia gr´ wygrane wy˝sze lub stosowanie stawek wy˝szych, ni˝ przewidziane wart. 129 ust. 3.
-139. 1. Podatnicy prowadzàcy dzia∏alnoÊç zakresie gier na automatach niskich wygranych uiszczajà podatek od gier formie zrycza∏towanej
-4. W przypadku przemieszczenia automatu niskich wygranych trakcie miesiàca b´dàcego okresem rozliczeniowym do punktu po∏o˝onego na obszarze w∏aÊciwoÊci miejscowej innego organu, który udziela∏ zezwolenia na urzàdzanie gry na automatach niskich wygranych, w∏aÊciwy miejscowo jest organ podatkowy, na którego obszarze w∏aÊciwoÊci miejscowej znajduje si´ automat ostatnim dniu tego miesiàca.
-140. 1. Podmioty, których mowa art. 129 ust. 1, prowadzà rachunkowoÊç zgodnie z przepisami orachunkowoÊci.
-2. Podmioty, których mowa art. 129 ust. 1, prowadzà ksi´gi eksploatacji automatu do gier, októrych mowa wart. 78 ust. 1 pkt 1 lit. c, oraz ewidencj´, októrej mowa wart. 78 ust. 1 pkt 2.
-3. Podmiot, októrym mowa wart. 129 ust. 1, prowadzàcy salon gier na automatach prowadzi ksi´g´ obrotu ˝etonami i pieniàdzem gotówkowym salonie gier na automatach.
-4. Do ksi´gi, której mowa ust. 3, stosuje si´ odpowiednio przepisy wydane na podstawie art. 78 ust. 2, dotyczàce ksi´gi obrotu ˝etonami ipieniàdzem gotówkowym wkasynie gry.
+b) wpkt 6 lit. eotrzymuje brzmienie: Ńe) środowisku, określonych wart. 183 § 2, 4, 5 i 6, przypadku czynów, których mowa wart. 183 § 2, 4 i5 ustawy zdnia 6 czerwca 1997 r. Kodeks karny (Dz. U. 88, ——————— poz. 553, z póên. zm. ), zwanej dalej ŃKo——————— laniem koncesji oraz zezwoleń, zatwierdzaniem regulaminów oraz rejestracją urządzeń;”;
+2) wart. 10 wust. 3 pkt 3 otrzymuje brzmienie: Ń3) kształtowanie polityki kadrowej i szkoleniowej wSłużbie Celnej oraz wykonywanie zadań kierownika urzędu wobec funkcjonariuszy pełniących służbę komórkach organizacyjnych właściwych sprawach celnych, podatku akcyzowego, gier hazardowych, urzędu obsługującego ministra właściwego do spraw finansów publicznych, zwanych dalej Ńkomórkami organizacyjnymi urzędzie obsługującym ministra”;”;
+3) wart. 30 wust. 2 pkt 3 otrzymuje brzmienie: Ń3) regulujących urządzanie i prowadzenie gier hazardowych, których mowa ustawie z dnia 19 listopada 2009 r. grach hazardowych, oraz zgodność tej działalności zudzieloną koncesją lub zezwoleniem oraz zatwierdzonym regulaminem.”;
+4) wart. 32 wust. 1 pkt 13 otrzymuje brzmienie: Ń13) przeprowadzania uzasadnionych przypadkach, drodze eksperymentu, doświadczenia lub odtworzenia możliwości gry na automacie lub gry na innym urządzeniu;”;
+5) wart. 51 wust. 1 pkt 1 otrzymuje brzmienie: Ń1) szczegółowy sposób i tryb kontroli urządzania i prowadzenia gier hazardowych, której mowa wart. 30 ust. 2 pkt 3;”;
+6) wart. 72 wust. 1 dodaje się pkt 5 wbrzmieniu: Ń5) zwracania się niezbędną pomoc do jednostek gospodarczych i organizacji społecznych, jak również zwracania się nagłych wypadkach do każdej osoby udzielenie doraênej pomocy, wramach obowiązujących przepisów prawa.”;
+7) po art. 75 dodaje się art. 75a—75cwbrzmieniu: ŃArt. 75a. 1. Minister właściwy do spraw finansów publicznych prowadzi ewidencję osób, wobec których orzeczono środek karny zakazu wstępu do ośrodz upływem okresu, na który orzeczono środek karny.
+75b. 1. Funkcjonariusze, których mowa wart. 69, mają prawo do obserwowania i rejestrowania, przy użyciu środków technicznych, obrazu zdarzeń wmiejscach publicznych oraz dêwięku towarzyszącego tym zdarzeniom wyłącznie wtoku czynności podejmowanych celu ustalenia sprawców oraz uzyskania dowodów przestępstw lub przestępstw skarbowych, których mowa wart. 2 ust. 1 pkt 4—6.
+2. Wykonanie czynności, których moków gier i uczestnictwa grach hazardowych.
+2. Wewidencji umieszcza się następujące dane dotyczące osoby, której wa ust. 1, może zarządzić dyrektor izby celnej na czas określony nie dłuższy niż 3 miesiące.
+3. Jeżeli informacje i materiały uzyskane wyniku czynności, których mowa ust. 1, zawierają informacje mające znaczenie dla postępowania sprawach przestępstwa skarbowe lub wykroczenia skarbowe, dla postępowania karnego bądê uzasadniają podejrzenie naruszenia przepisów celnych, podatkowych lub z zakresu gier hazardowych, organ Służby Celnej prowadzi odpowiednio postępowanie przygotowawcze, kontrolę, postępowanie celne lub podatkowe albo przekazuje uzyskane informacje i materiały właściwym organom.
+4. Informacje i materiały, które nie stanowią informacji potwierdzających zaistnienie czynów, których mowa ust. 1, podlegają niezwłocznie protokolarnemu, komisyjnemu zniszczeniu. Zniszczenie zarządza dyrektor izby celnej.
+5. Zabronione jest udzielanie informacji uzyskanych wyniku czynności, których mowa ust. 1, osobom iinstytucjom innym niż sąd iprokurator lub organy uprawnione na mocy odrębnych ustaw do wykonywania czynności operacyjno-rozpoznawczych albo wykorzystywanie tych informacji celu innym niż realizacja zadań Służby Celnej określonych wust. 3.
+6. Minister właściwy do spraw finansów publicznych porozumieniu z Ministrem Sprawiedliwości określi, wdrołów.
+75c. 1. Służba Celna wcelu realizacji ustawowych zadań może korzystać z informacji, tym danych osobowych, tym również formie zapisu elektronicznego, uzyskanych przez uprawnione organy, służby i instytucje państwowe wyniku wykonywania czynności operacyjno-rozpoznawczych oraz przetwarzać je rozumieniu ustawy z dnia 29 sierpnia 1997 r.
+ochronie danych osobowych, bez wiedzy izgody osoby, której dane dotyczą.
+2. Służba Celna współdziała z organado jego uzyskania terminie 4 miesięcy od dnia jej wejścia wżycie.
+121. Do wygaśnięcia, związku z nierozpoczęciem działalności, zezwoleń udzielonych przed dniem wejścia wżycie ustawy stosuje się art. 36 ust.5 ustawy, októrej mowa wart. 144.
+122. 1. Minister właściwy do spraw finansów publicznych ogłasza, wterminie 7 dni od dnia wejścia życie ustawy, informację, której mowa art. 33 ust. 1, dotyczącą wniosków złożonych i nierozpatrzonych do dnia wejścia wżycie ustawy.
+2. W przypadku gdy zezwolenie na prowadzenie działalności zakresie gier urządzanych kasynie gry lub przedłużone zezwolenie na prowadzenie dziami, służbami i instytucjami państwo- łalności zakresie gry bingo pieniężne wygasa nie wymi uprawnionymi do wykonywa- wcześniej niż 6 miesięcy i nie póêniej niż 9 miesięcy nia czynności operacyjno-rozpoznaw- od dnia wejścia wżycie ustawy, minister właściwy do czych, szczególności przez uczest- spraw finansów publicznych ogłasza informację, nictwo funkcjonariuszy realizowa- której mowa art. 50 ust. 1, terminie 7 dni od nych przez nie czynnościach opera- dnia wejścia wżycie ustawy. 50 ust. 2 stosuje się cyjno-rozpoznawczych. odpowiednio.
+3. Prezes Rady Ministrów określi, wdro- 123. 1. Wysokość zabezpieczenia finansowedze rozporządzenia, zakres, warunki go podmiotów urządzających gry kasynach gry i tryb przekazywania Służbie Celnej i salonach gry bingo pieniężne oraz urządzających informacji uzyskanych wyniku pro- zakłady wzajemne ustalona przed dniem wejścia wadzenia przez uprawnione organy, wżycie ustawy na podstawie przepisów dotychczasosłużby i instytucje czynności opera- wych nie wymaga uzupełnienia do kwot określonych cyjno-rozpoznawczych, uwzględnia- art. 63 ust. 1 do czasu wygaśnięcia lub zmiany zejąc zakres informacji niezbędnych do zwolenia.
+wykonywania ustawowych zadań Służby Celnej, cel przekazywania in- 2. Zabezpieczenia finansowe składane przez podformacji oraz potrzebę jego doku- mioty, októrych mowa wust. 1, zgodnie zzezwoleniamentowania.”. mi udzielonymi przed dniem wejścia życie ustawy nie wymagają dostosowania do warunków określoRozdział 12 nych art. 63 ust. 4—6 do czasu wygaśnięcia lub zmiany zezwolenia.
+Przepisy przejściowe idostosowujące 124. Do ustalenia opłat, których mowa
+117.1. Udzielone przed dniem wejścia wżycie art. 69, roku 2010 przyjmuje się kwotę bazową ustawy zezwolenia na urządzanie i prowadzenie gier równą kwocie przeciętnego miesięcznego wynagroizakładów wzajemnych zachowują ważność do czasu dzenia wsektorze przedsiębiorstw bez wypłat nagród ich wygaśnięcia. zzysku, wdrugim kwartale 2009 r.
+2. Zatwierdzone przed dniem wejścia wżycie usta- 125. 1. Podmiot będący na podstawie przepiwy regulaminy gier izakładów wzajemnych zachowu- sów dotychczasowych płatnikiem podatku od gier ją ważność do czasu ich wygaśnięcia. z tytułu gry bingo pieniężne wykonuje obowiązki zakresie rozliczenia podatku pobranego przed
+118. Do postępowań wszczętych i niezakoń- dniem wejścia życie ustawy oraz przechowywania czonych przed dniem wejścia życie ustawy stosuje związanych ztym dokumentów według przepisów dosię przepisy ustawy, oile ustawa nie stanowi inaczej. tychczasowych, ztym że roczne obliczenie pobranych kwot podatku za 2010 r. składa się terminie 2 mie119. Wysokość kapitału zakładowego spółek sięcy od dnia wejścia wżycie ustawy.
+urządzających gry kasynach gry i salonach gry bingo pieniężne oraz urządzających zakłady wzajem- 2. Podmiot urządzający gry kasynie gry rozlicza ne ustalona przed dniem wejścia życie ustawy na powstały przed dniem wejścia życie ustawy obopodstawie przepisów dotychczasowych nie wymaga wiązek podatkowy wpodatku od gier ztytułu pokera, mowa art. 144, staje się bilansem otwarcia Funduszu Rozwoju Kultury Fizycznej, którym mowa wart.86 ust. 1.
+3. Plan finansowy na 2010 r. Funduszu Rozwoju Kultury Fizycznej utworzonego na podstawie ustawy, której mowa art. 144, staje się planem finansowym Funduszu Rozwoju Kultury Fizycznej, którym mowa wart. 86 ust. 1.
+127. 1. Fundusz Promocji Kultury, którym mowa art. 87 ust. 1, wstępuje prawa i obowiązki Funduszu Promocji Kultury utworzonego na podstawie ustawy, októrej mowa wart. 144.
+2. Bilans zamknięcia Funduszu Promocji Kultury utworzonego na podstawie ustawy, której mowa wart. 144, staje się bilansem otwarcia Funduszu Promocji Kultury, októrym mowa wart. 87 ust. 1.
+3. Plan finansowy na 2010 r. Funduszu Promocji Kultury utworzonego na podstawie ustawy, której mowa wart. 144, staje się planem finansowym Funduszu Promocji Kultury, októrym mowa wart. 87 ust. 1.
+128.1. Postępowania oudzielenie zezwolenia na urządzanie loterii audioteksowej wszczęte przed dniem wejścia życie ustawy na wniosek podmiotu innego niż spółka z ograniczoną odpowiedzialnością albo spółka akcyjna umarza się.
+2. Wnioskodawca może, wterminie 2 miesięcy od dnia wejścia życie ustawy, uzupełnić złożony przed dniem wejścia życie ustawy wniosek udzielenie zezwolenia na urządzanie loterii promocyjnej lub loterii audioteksowej. Wprzypadku nieuzupełnienia wniosku wterminie postępowanie umarza się.
+129.1. Działalność wzakresie gier na automatach niskich wygranych oraz gier na automatach urządzanych salonach gier na automatach na podstawie zezwoleń udzielonych przed dniem wejścia życie ustawy jest prowadzona, do czasu wygaśnięcia tych zezwoleń, przez podmioty, których im udzielono, według przepisów dotychczasowych, oile ustawa nie stanowi inaczej.
+2. Postępowania sprawie wydania zezwoleń na prowadzenie działalności zakresie gier na automatach niskich wygranych oraz gier na automatach urządzanych wsalonach gier na automatach, wszczęte i niezakończone przed dniem wejścia życie ustawy, umarza się.
+3. Przez gry na automatach niskich wygranych rozumie się gry na urządzeniach mechanicznych, elektromechanicznych i elektronicznych wygrane pieniężne lub rzeczowe, wktórych wartość jednorazowej wygranej nie może być wyższa niż 60 zł, a wartość
+2) gier na automatach niskich wygranych nie może być niższa niż 800 000 zł.
+2. Wysokość kapitału zakładowego spółek prowadzących działalność, której mowa art. 129 ust. 1, ustalona przed dniem wejścia wżycie ustawy na podstawie przepisów dotychczasowych nie wymaga uzupełnienia do kwot określonych wust. 1 do czasu zmiany zezwolenia wzwiązku ze zmianą wstrukturze kapitału zakładowego spółki, zgodnie zart. 52.
+131. Do podmiotów prowadzących działalność, októrej mowa wart. 129 ust. 1, przepisy art. 11 iart. 12 stosuje się odpowiednio.
+132. 1. Do obowiązku posiadania oraz wydawania świadectw zawodowych osobom pełniącym funkcję lub zajmującym stanowisko, z którym wiąże się obowiązek nadzorowania albo bezpośredniego prowadzenia gier na automatach oniskich wygranych albo gier na automatach urządzanych wsalonach gier na automatach stosuje się art. 24, art. 25 ust. 1—7, art.26, zuwzględnieniem art. 120 ust. 2, oraz przepisy wydane na podstawie art. 25 ust. 8.
+2. Do opłat za wydanie świadectwa zawodowego i opłat egzaminacyjnych stosuje się przepisy ustawy, ztym że opłata egzaminacyjna wprzypadku inspektora wsalonie gier na automatach oraz osoby nadzorującej punkty gier na automatach oniskich wygranych wynosi 55 % kwoty bazowej.
+133. 1. Do podmiotów prowadzących działalność, której mowa art. 129 ust. 1, stosuje się art.27 ust. 3.
+2. Do osoby upoważnionej przez podmiot prowadzący działalność wzakresie gier na automatach oniskich wygranych oraz osoby kierującej wdanym lokalu działalnością gastronomiczną, handlową lub usługową, a także osoby kierującej salonem gier na automatach oraz osoby przez nią upoważnionej stosuje się odpowiednio art. 27 ust. 4.
+134. Gry na automatach urządzane salonach gier na automatach oraz gry na automatach oniskich wygranych objęte są zakazem reklamy ipromocji oraz informowania sponsorowaniu określonym art. 29. Przepis art. 29 ust. 5 stosuje się odpowiednio.
+135. 1. Zezwolenia, októrych mowa wart. 129 ust. 1, mogą być zmieniane, na zasadach określonych wustawie dla zmiany koncesji izezwoleń udzielanych podmiotom prowadzącym działalność zakresie określonym art. 6 ust. 1—3, przez organ właściwy do udzielenia zezwolenia dniu poprzedzającym prowadzącej działalność zakresie gier na automatach niskich wygranych, dyrektor izby celnej może nie weryfikować spełnienia warunków określonych ustawie, jeżeli ich spełnienie zostało stwierdzone przez ministra właściwego do spraw finansów publicznych wzwiązku zubieganiem się wnioskodawcy oudzielenie zezwolenia lub zgody przez tego ministra, astan faktyczny nie uległ zmianie.
+136. 1. Zabezpieczenia finansowe składane przez podmioty, których mowa art. 129 ust. 1, zgodnie z zezwoleniami udzielonymi przed dniem wejścia życie ustawy nie wymagają dostosowania do warunków określonych art. 63 ust. 4—6 do czasu zmiany zezwolenia zakresie warunków dotyczących zabezpieczenia finansowego.
+2. Wprzypadku zmiany zezwolenia wzakresie warunków dotyczących zabezpieczenia finansowego, podmiot, którym mowa art. 129 ust. 1, jest obowiązany złożyć wterminie określonym wzmienianym zezwoleniu zabezpieczenie finansowe według zasad określonych wart. 63, wwysokości:
+1) 600 000 zł przypadku prowadzenia salonu gier na automatach;
+2) 4 000 zł przypadku punktu gier na automatach oniskich wygranych.
+137. Do regulaminów gier, których mowa wart. 129 ust. 1, stosuje się odpowiednio art. 61 ust.1 i 4, z tym że regulaminie gier na automatach niskich wygranych nie określa się wysokości kapitału przeznaczonego do natychmiastowej wypłaty wygranych. Właściwy do zatwierdzania regulaminu gier ijego zmiany jest organ właściwy do udzielenia zezwolenia dniu poprzedzającym dzień wejścia życie ustawy.
+138.1. Zezwolenia, októrych mowa wart. 129 ust. 1, nie mogą być przedłużane.
+2. Do podmiotów, których mowa art. 129 ust.1, stosuje się odpowiednio art. 58 i art. 59, z tym że organem właściwym jest organ właściwy do udzielenia zezwolenia dniu poprzedzającym dzień wejścia wżycie ustawy.
+3. Organ, októrym mowa wust. 2, wdrodze decyzji, cofa zezwolenie przypadku stwierdzenia, że automat niskich wygranych umożliwia grę wygrane wyższe lub stosowanie stawek wyższych, niż przewidziane wart. 129 ust. 3.
+139. 1. Podatnicy prowadzący działalność zakresie gier na automatach niskich wygranych uiszczają podatek od gier formie zryczałtowanej
+4. W przypadku przemieszczenia automatu niskich wygranych trakcie miesiąca będącego okresem rozliczeniowym do punktu położonego na obszarze właściwości miejscowej innego organu, który udzielał zezwolenia na urządzanie gry na automatach niskich wygranych, właściwy miejscowo jest organ podatkowy, na którego obszarze właściwości miejscowej znajduje się automat ostatnim dniu tego miesiąca.
+140. 1. Podmioty, których mowa art. 129 ust. 1, prowadzą rachunkowość zgodnie z przepisami orachunkowości.
+2. Podmioty, których mowa art. 129 ust. 1, prowadzą księgi eksploatacji automatu do gier, októrych mowa wart. 78 ust. 1 pkt 1 lit. c, oraz ewidencję, októrej mowa wart. 78 ust. 1 pkt 2.
+3. Podmiot, októrym mowa wart. 129 ust. 1, prowadzący salon gier na automatach prowadzi księgę obrotu żetonami i pieniądzem gotówkowym salonie gier na automatach.
+4. Do księgi, której mowa ust. 3, stosuje się odpowiednio przepisy wydane na podstawie art. 78 ust. 2, dotyczące księgi obrotu żetonami ipieniądzem gotówkowym wkasynie gry.
 141.Wodniesieniu do organizowania zgodnie zart. 129—140:
 1) gier na automatach salonach gier na automatach,
-2) gier na automatach niskich wygranych punktach gier na automatach oniskich wygranych nie stosuje si´ art. 89 ust. 1 pkt 2.
-142. 1. Osoba kierujàca dzia∏alnoÊcià gastronomicznà, handlowà lub us∏ugowà lokalu, którym znajduje si´ punkt gry na automatach niskich wygranych, jest obowiàzana pisemnie powiadomiç w∏aÊciwego ze wzgl´du na lokalizacj´ lokalu naczelnika urz´du celnego wstawieniu do lokalu automatu do gier przed jego uruchomieniem.
-2. Kto wbrew obowiàzkowi okreÊlonemu ust. 1 nie powiadamia naczelnika urz´du celnego wstawieniu do lokalu automatu do gier podlega karze grzywny za wykroczenie skarbowe.
-143.Do dnia wejÊcia w˝ycie przepisów wykonawczych wydanych na podstawie upowa˝nieƒ okreÊlonych wustawie, nie d∏u˝ej jednak ni˝ przez 6 miesi´cy od dnia wejÊcia ˝ycie ustawy, zachowujà moc dotychczasowe przepisy wykonawcze, wydane na gry bingo pieni´˝ne, ust. 2, 4, 4a i 5, art. 15d, art. 16 które wchodzà w˝ycie po up∏ywie 6 lat od pierwpkt 2 i3, art. 18 ust. 1, 2, 4 i5, art. 22 iart. 23. szego dnia miesiàca nast´pujàcego po up∏ywie mie——————— siàca od dnia og∏oszenia.
-Prezydent Rzeczypospolitej Polskiej:L. Kaczyƒski
+2) gier na automatach niskich wygranych punktach gier na automatach oniskich wygranych nie stosuje się art. 89 ust. 1 pkt 2.
+142. 1. Osoba kierująca działalnością gastronomiczną, handlową lub usługową lokalu, którym znajduje się punkt gry na automatach niskich wygranych, jest obowiązana pisemnie powiadomić właściwego ze względu na lokalizację lokalu naczelnika urzędu celnego wstawieniu do lokalu automatu do gier przed jego uruchomieniem.
+2. Kto wbrew obowiązkowi określonemu ust. 1 nie powiadamia naczelnika urzędu celnego wstawieniu do lokalu automatu do gier podlega karze grzywny za wykroczenie skarbowe.
+143.Do dnia wejścia wżycie przepisów wykonawczych wydanych na podstawie upoważnień określonych wustawie, nie dłużej jednak niż przez 6 miesięcy od dnia wejścia życie ustawy, zachowują moc dotychczasowe przepisy wykonawcze, wydane na gry bingo pieniężne, ust. 2, 4, 4a i 5, art. 15d, art. 16 które wchodzą wżycie po upływie 6 lat od pierwpkt 2 i3, art. 18 ust. 1, 2, 4 i5, art. 22 iart. 23. szego dnia miesiąca następującego po upływie mie——————— siąca od dnia ogłoszenia.
+Prezydent Rzeczypospolitej Polskiej:L. Kaczyński
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 3 Âwiadectwa zawodowe
+
+#### Rozdział 7 Podatek od gier
+
+#### Rozdział 8 Sprawozdawczość
+
+#### Rozdział 9 Dopłaty
+
+#### Rozdział 10 Kary pieniężne
+
+#### Rozdział 11 Zmiany wprzepisach obowiązujących
 

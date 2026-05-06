@@ -24,111 +24,111 @@ domain: null
 | Ostatnia zmiana | 2025-09-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001679) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1679/text.pdf) |
 
-**Art. 1.** U˝yte wustawie okreÊlenia oznaczajà: 100, 1080 154, 1793 1800 USTAWA zdnia 10 paêdziernika 2002 ominimalnym wynagrodzeniu za prac´. ny przez Prezesa G∏ównego Urz´du Statystycznego Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”;
+**Art. 1.** Użyte wustawie określenia oznaczają: 100, 1080 154, 1793 1800 USTAWA zdnia 10 paêdziernika 2002 ominimalnym wynagrodzeniu za pracę. ny przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”;
 
 **Art. 2.**
 
-1. WysokoÊç minimalnego wynagrodzenia za prac´, zwanego dalej „minimalnym wynagrodzeniem”, jest corocznie przedmiotem negocjacji ramach Trójstronnej Komisji.
+1. Wysokość minimalnego wynagrodzenia za pracę, zwanego dalej Ńminimalnym wynagrodzeniem”, jest corocznie przedmiotem negocjacji ramach Trójstronnej Komisji.
 
-2. Rada Ministrów, terminie do dnia 15 czerwca ka˝dego roku, przedstawia Trójstronnej Komisji:
+2. Rada Ministrów, terminie do dnia 15 czerwca każdego roku, przedstawia Trójstronnej Komisji:
 
-- **1)** propozycj´ wysokoÊci minimalnego wynagrodzenia wroku nast´pnym wraz zterminem zmiany wysokoÊci tego wynagrodzenia, zgodnie zart. 3;
-- **2)** informacj´ owskaêniku cen wroku poprzednim;
-- **3)** informacj´ o prognozowanych na rok nast´pny: wskaêniku cen wskaêniku przeci´tnego wynagrodzenia;
-- **4)** informacj´ o wydatkach gospodarstw domowych jów dzia∏alnoÊci;
-- **7)** informacj´ opoziomie ˝ycia ró˝nych grup spo∏ecznych;
-- **8)** informacj´ o warunkach gospodarczych paƒstwa, uwzgl´dnieniem sytuacji bud˝etu paƒstwa, wymogów rozwoju gospodarczego, poziomu wydajnoÊci pracy koniecznoÊci utrzymania wysokiego poziomu zatrudnienia.
+- **1)** propozycję wysokości minimalnego wynagrodzenia wroku następnym wraz zterminem zmiany wysokości tego wynagrodzenia, zgodnie zart. 3;
+- **2)** informację owskaêniku cen wroku poprzednim;
+- **3)** informację o prognozowanych na rok następny: wskaêniku cen wskaêniku przeciętnego wynagrodzenia;
+- **4)** informację o wydatkach gospodarstw domowych jów działalności;
+- **7)** informację opoziomie życia różnych grup społecznych;
+- **8)** informację o warunkach gospodarczych państwa, uwzględnieniem sytuacji budżetu państwa, wymogów rozwoju gospodarczego, poziomu wydajności pracy konieczności utrzymania wysokiego poziomu zatrudnienia.
 
-3. Trójstronna Komisja, po otrzymaniu propozycji iinformacji, októrych mowa wust. 2, uzgadnia wysokoÊç minimalnego wynagrodzenia roku nast´pnym wterminie do dnia 15 lipca ka˝dego roku.
+3. Trójstronna Komisja, po otrzymaniu propozycji iinformacji, októrych mowa wust. 2, uzgadnia wysokość minimalnego wynagrodzenia roku następnym wterminie do dnia 15 lipca każdego roku.
 
-4. WysokoÊç minimalnego wynagrodzenia, o którym mowa ust. 3, podlega og∏oszeniu Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”, wdrodze obwieszczenia Prezesa Rady Ministrów, wterminie do dnia 15 wrzeÊnia ka˝dego roku.
+4. Wysokość minimalnego wynagrodzenia, o którym mowa ust. 3, podlega ogłoszeniu Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, wdrodze obwieszczenia Prezesa Rady Ministrów, wterminie do dnia 15 września każdego roku.
 
-5. Je˝eli Trójstronna Komisja nie uzgodni terminie, októrym mowa wust. 3, wysokoÊci minimalnego wynagrodzenia roku nast´pnym, Rada Ministrów ustala wysokoÊç minimalnego wynagrodzenia roku nast´pnym wraz terminem zmiany tej wysokoÊci, wdrodze rozporzàdzenia, wterminie do dnia 15 wrzeÊnia ka˝dego roku. WysokoÊç minimalnego wynagrodzenia ustalona przez Rad´ Ministrów nie mo˝e byç ni˝sza od wysokoÊci minimalnego wynagrodzenia, októrej mowa wust. 2 pkt 1.
+5. Jeżeli Trójstronna Komisja nie uzgodni terminie, októrym mowa wust. 3, wysokości minimalnego wynagrodzenia roku następnym, Rada Ministrów ustala wysokość minimalnego wynagrodzenia roku następnym wraz terminem zmiany tej wysokości, wdrodze rozporządzenia, wterminie do dnia 15 września każdego roku. Wysokość minimalnego wynagrodzenia ustalona przez Radę Ministrów nie może być niższa od wysokości minimalnego wynagrodzenia, októrej mowa wust. 2 pkt 1.
 
-**Art. 3.** Je˝eli prognozowany na nast´pny rok wskaênik cen, októrym mowa wart. 2 ust. 2 pkt 3, wynosi:
+**Art. 3.** Jeżeli prognozowany na następny rok wskaênik cen, októrym mowa wart. 2 ust. 2 pkt 3, wynosi:
 
 **Art. 4.**
 
-1. Od dnia 1 stycznia 2003 ustala si´ minimalne wynagrodzenie wwysokoÊci 800 z∏.
+1. Od dnia 1 stycznia 2003 ustala się minimalne wynagrodzenie wwysokości 800 zł.
 
-2. WysokoÊç minimalnego wynagrodzenia, októrej mowa ust. 1, stanowi podstaw´ do ustalenia wysokoÊci minimalnego wynagrodzenia w2004
+2. Wysokość minimalnego wynagrodzenia, októrej mowa ust. 1, stanowi podstawę do ustalenia wysokości minimalnego wynagrodzenia w2004
 
 **Art. 5.**
 
-1. WysokoÊç minimalnego wynagrodzenia, októrej mowa wart. 2, jest ustalana wtaki sposób, aby przeci´tna wysokoÊç minimalnego wynagrodzenia wdanym roku wzrasta∏a wstopniu nie ni˝szym ni˝ prognozowany na dany rok wskaênik cen.
+1. Wysokość minimalnego wynagrodzenia, októrej mowa wart. 2, jest ustalana wtaki sposób, aby przeciętna wysokość minimalnego wynagrodzenia wdanym roku wzrastała wstopniu nie niższym niż prognozowany na dany rok wskaênik cen.
 
-2. Je˝eli wroku poprzednim prognozowany wskaêgnozowany wskaênik cen wroku poprzednim.
+2. Jeżeli wroku poprzednim prognozowany wskaêgnozowany wskaênik cen wroku poprzednim.
 
 **Art. 6.**
 
-1. WysokoÊç wynagrodzenia pracownika zatrudnionego pe∏nym miesi´cznym wymiarze czasu pracy nie mo˝e byç ni˝sza od wysokoÊci minimalnego wynagrodzenia ustalonego wtrybie art. 2 i4, zzastrze˝eniem ust. 2.
+1. Wysokość wynagrodzenia pracownika zatrudnionego pełnym miesięcznym wymiarze czasu pracy nie może być niższa od wysokości minimalnego wynagrodzenia ustalonego wtrybie art. 2 i4, zzastrzeżeniem ust. 2.
 
-2. Do koƒca 2005 wynagrodzenie pracownika wokresie jego pierwszych dwóch lat pracy, zzastrze˝eniem ust. 3, nie mo˝e byç ni˝sze ni˝:
+2. Do końca 2005 wynagrodzenie pracownika wokresie jego pierwszych dwóch lat pracy, zzastrzeżeniem ust. 3, nie może być niższe niż:
 
-- **1)** 80% wysokoÊci minimalnego wynagrodzenia wpierwszym roku pracy;
-- **2)** 90% wysokoÊci minimalnego wynagrodzenia wdrugim roku pracy.
+- **1)** 80% wysokości minimalnego wynagrodzenia wpierwszym roku pracy;
+- **2)** 90% wysokości minimalnego wynagrodzenia wdrugim roku pracy.
 
-3. Do okresów, októrych mowa wust. 2, wlicza si´ wszystkie okresy, za które by∏a op∏acana sk∏adka na ubezpieczenie spo∏eczne lub zaopatrzenie emerytalne, wy∏àczeniem okresów zatrudnienia na podstawie umowy oprac´ wcelu przygotowania zawodowego.
+3. Do okresów, októrych mowa wust. 2, wlicza się wszystkie okresy, za które była opłacana składka na ubezpieczenie społeczne lub zaopatrzenie emerytalne, wyłączeniem okresów zatrudnienia na podstawie umowy opracę wcelu przygotowania zawodowego.
 
-4. Do obliczenia wysokoÊci wynagrodzenia pracownika przyjmuje si´ przys∏ugujàce pracownikowi sk∏adniki wynagrodzenia inne Êwiadczenia wynikajàce ze stosunku pracy, zaliczone wed∏ug zasad statystyki zatrudnienia wynagrodzeƒ okreÊlonych przez G∏ówny Urzàd Statystyczny do wynagrodzeƒ osobowych, zzastrze˝eniem ust. 5.
+4. Do obliczenia wysokości wynagrodzenia pracownika przyjmuje się przysługujące pracownikowi składniki wynagrodzenia inne świadczenia wynikające ze stosunku pracy, zaliczone według zasad statystyki zatrudnienia wynagrodzeń określonych przez Główny Urząd Statystyczny do wynagrodzeń osobowych, zzastrzeżeniem ust. 5.
 
-5. Przy obliczaniu wysokoÊci wynagrodzenia pracownika nie uwzgl´dnia si´:
+5. Przy obliczaniu wysokości wynagrodzenia pracownika nie uwzględnia się:
 
 - **1)** nagrody jubileuszowej;
-- **2)** odprawy pieni´˝nej przys∏ugujàcej pracownikowi wzwiàzku zprzejÊciem na emerytur´ lub rent´ ztytu∏u niezdolnoÊci do pracy;
-- **3)** wynagrodzenia za prac´ godzinach nadliczbowych.
+- **2)** odprawy pieniężnej przysługującej pracownikowi wzwiązku zprzejściem na emeryturę lub rentę ztytułu niezdolności do pracy;
+- **3)** wynagrodzenia za pracę godzinach nadliczbowych.
 
 **Art. 7.**
 
-1. Je˝eli wdanym miesiàcu, zuwagi na terminy wyp∏at niektórych sk∏adników wynagrodzenia lub rozk∏ad czasu pracy, wynagrodzenie pracownika, obliczone zgodnie zart. 6 ust. 4, jest ni˝sze od wysokoÊci minimalnego wynagrodzenia, nast´puje uzupe∏nienie wynagrodzenia do tej wysokoÊci wpostaci wyrównania.
+1. Jeżeli wdanym miesiącu, zuwagi na terminy wypłat niektórych składników wynagrodzenia lub rozkład czasu pracy, wynagrodzenie pracownika, obliczone zgodnie zart. 6 ust. 4, jest niższe od wysokości minimalnego wynagrodzenia, następuje uzupełnienie wynagrodzenia do tej wysokości wpostaci wyrównania.
 
-2. Wyrównanie wyp∏aca si´ za okres ka˝dego miesiàca ∏àcznie zwyp∏atà wynagrodzenia.
+2. Wyrównanie wypłaca się za okres każdego miesiąca łącznie zwypłatą wynagrodzenia.
 
-3. Pracownikom wynagradzanym na podstawie godzinowych stawek wynagrodzenia wyrównanie wyp∏aca si´ za ka˝dà godzin´ pracy. Wyrównanie stanowi
+3. Pracownikom wynagradzanym na podstawie godzinowych stawek wynagrodzenia wyrównanie wypłaca się za każdą godzinę pracy. Wyrównanie stanowi
 
-4. Pracownikom wynagradzanym na podstawie miesi´cznych stawek wynagrodzeƒ, którym nie przys∏uguje wynagrodzenie za pe∏ny miesi´czny wymiar czasu pracy, wyrównanie wyp∏aca si´ za ka˝dà godzin´ pracy. Wyrównanie stanowi ró˝nic´ mi´dzy wysokoÊcià wynagrodzenia godzinowego, wynikajàcà podzielenia wysokoÊci minimalnego wynagrodzenia przez liczb´ godzin pracy przypadajàcà do przepracowania przez pracownika wdanym miesiàcu wramach pe∏nego wymiaru czasu pracy, awysokoÊcià wynagrodzenia pracownika wdanym miesiàcu, obliczonà zgodnie zart. 6 ust. 4, przeliczonà na godzin´ pracy.
+4. Pracownikom wynagradzanym na podstawie miesięcznych stawek wynagrodzeń, którym nie przysługuje wynagrodzenie za pełny miesięczny wymiar czasu pracy, wyrównanie wypłaca się za każdą godzinę pracy. Wyrównanie stanowi różnicę między wysokością wynagrodzenia godzinowego, wynikającą podzielenia wysokości minimalnego wynagrodzenia przez liczbę godzin pracy przypadającą do przepracowania przez pracownika wdanym miesiącu wramach pełnego wymiaru czasu pracy, awysokością wynagrodzenia pracownika wdanym miesiącu, obliczoną zgodnie zart. 6 ust. 4, przeliczoną na godzinę pracy.
 
 **Art. 8.**
 
-1. Je˝eli pracownik jest zatrudniony niepe∏nym miesi´cznym wymiarze czasu pracy, wysokoÊç minimalnego wynagrodzenia ustala si´ wkwocie proporcjonalnej do liczby godzin pracy przypadajàcej do przepracowania przez pracownika wdanym miesiàcu, bioràc za podstaw´ wysokoÊç minimalnego wynagrodzenia ustalonego na podstawie niniejszej ustawy.
+1. Jeżeli pracownik jest zatrudniony niepełnym miesięcznym wymiarze czasu pracy, wysokość minimalnego wynagrodzenia ustala się wkwocie proporcjonalnej do liczby godzin pracy przypadającej do przepracowania przez pracownika wdanym miesiącu, biorąc za podstawę wysokość minimalnego wynagrodzenia ustalonego na podstawie niniejszej ustawy.
 
-2. Do obliczenia wyrównania pracownikom zatrudnionym niepe∏nym miesi´cznym wymiarze czasu pracy stosuje si´ odpowiednio przepisy art. 7 ust. 3 i4.
+2. Do obliczenia wyrównania pracownikom zatrudnionym niepełnym miesięcznym wymiarze czasu pracy stosuje się odpowiednio przepisy art. 7 ust. 3 i4.
 
-**Art. 9.** Wustawie zdnia 17 czerwca 1966 opost´powaniu egzekucyjnym wadministracji (Dz. U. z2002 110, 968, 113, 984, 127, 1090, 141, 1178,Nr 153, 1271, 169, 1387
+**Art. 9.** Wustawie zdnia 17 czerwca 1966 opostępowaniu egzekucyjnym wadministracji (Dz. U. z2002 110, 968, 113, 984, 127, 1090, 141, 1178,Nr 153, 1271, 169, 1387
 
-**Art. 10.** Wustawie zdnia 21 listopada 1967 opowszechnym obowiàzku obrony Rzeczypospolitej Polskiej (Dz. U. 2002 21, 205, 74, 676, 81, 732, 113, 984 985, 156, 1301, 166, 1363 1673) wprowadza si´ nast´pujàce zmiany:
+**Art. 10.** Wustawie zdnia 21 listopada 1967 opowszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2002 21, 205, 74, 676, 81, 732, 113, 984 985, 156, 1301, 166, 1363 1673) wprowadza się następujące zmiany:
 
-**Art. 11.** Wustawie zdnia 26 czerwca 1974 Kodeks pracy (Dz. U. z1998 21, 94, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 11.** Wustawie zdnia 26 czerwca 1974 Kodeks pracy (Dz. U. z1998 21, 94, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 12.** Wustawie zdnia 17 grudnia 1974 ouposa˝eniu ˝o∏nierzy (Dz. U. 2002 76, 693, 153, 1271 166, 1363) wprowadza si´ nast´pujàce zmiany:
+**Art. 12.** Wustawie zdnia 17 grudnia 1974 ouposażeniu żołnierzy (Dz. U. 2002 76, 693, 153, 1271 166, 1363) wprowadza się następujące zmiany:
 
-**Art. 13.** Wustawie zdnia 28 grudnia 1989 oszczególnych zasadach rozwiàzywania pracownikami stosunków pracy przyczyn dotyczàcych zak∏adu pracy (Dz. U. 2002 112, 980 135, 1146) wart. 8 ust. 2aotrzymuje brzmienie: „2a. WysokoÊç odprawy nie mo˝e przekraczaç kwoty 15-krotnego minimalnego wynagrodzenia za prac´ obowiàzujàcego wgrudniu roku poprzedzajàcego rok, wktórym rozwiàzano stosunek pracy, ustalanego na podstawie odr´bnych przepisów.”.
+**Art. 13.** Wustawie zdnia 28 grudnia 1989 oszczególnych zasadach rozwiązywania pracownikami stosunków pracy przyczyn dotyczących zakładu pracy (Dz. U. 2002 112, 980 135, 1146) wart. 8 ust. 2aotrzymuje brzmienie: Ń2a. Wysokość odprawy nie może przekraczać kwoty 15-krotnego minimalnego wynagrodzenia za pracę obowiązującego wgrudniu roku poprzedzającego rok, wktórym rozwiązano stosunek pracy, ustalanego na podstawie odrębnych przepisów.”.
 
-**Art. 14.** Wustawie zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych (Dz. U. 2000 Nr14, 176, zpóên. zm. mi „kwoty 380 z∏”,
+**Art. 14.** Wustawie zdnia 26 lipca 1991 opodatku dochodowym od osób fizycznych (Dz. U. 2000 Nr14, 176, zpóên. zm. mi Ńkwoty 380 zł”,
 
-**Art. 15.** W ustawie dnia 14 grudnia 1994 o zatrudnieniu przeciwdzia∏aniu bezrobociu (Dz. U. z2001 6, 56, zpóên. zm. malne wynagrodzenie za prac´ ustalane na podstawie odr´bnych przepisów,”;
+**Art. 15.** W ustawie dnia 14 grudnia 1994 o zatrudnieniu przeciwdziałaniu bezrobociu (Dz. U. z2001 6, 56, zpóên. zm. malne wynagrodzenie za pracę ustalane na podstawie odrębnych przepisów,”;
 
-**Art. 16.** Wustawie zdnia 30 listopada 1995 opomocy paƒstwa wsp∏acie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych refundacji bankom wyp∏aconych premii gwarancyjnych (Dz.U. z1996 5, 32, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany: ) wprowadza si´ nast´pujàce zmiany:
+**Art. 16.** Wustawie zdnia 30 listopada 1995 opomocy państwa wspłacie niektórych kredytów mieszkaniowych, udzielaniu premii gwarancyjnych refundacji bankom wypłaconych premii gwarancyjnych (Dz.U. z1996 5, 32, zpóên. zm. ) wprowadza się następujące zmiany: ) wprowadza się następujące zmiany:
 
-**Art. 17.** W ustawie dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. U. 90, 557, zpóên. zm. ) art. 123 § 1 ostatnie zdanie otrzymuje brzmienie: „Wynagrodzenie przys∏ugujàce skazanemu nie mo˝e byç ni˝sze od minimalnego wynagrodzenia za prac´, ustalanego na podstawie odr´bnych przepisów.”.
+**Art. 17.** W ustawie dnia 6 czerwca 1997 Kodeks karny wykonawczy (Dz. U. 90, 557, zpóên. zm. ) art. 123 § 1 ostatnie zdanie otrzymuje brzmienie: ŃWynagrodzenie przysługujące skazanemu nie może być niższe od minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów.”.
 
-**Art. 18.** Wustawie zdnia 27 sierpnia 1997 orehabilitacji zawodowej ispo∏ecznej zatrudnianiu osób niepe∏nosprawnych (Dz. U. 123, 776, póên. zm. ) wart. 2 pkt 1 otrzymuje brzmienie: „1) najni˝szym wynagrodzeniu oznacza to minimalne wynagrodzenie za prac´ obowiàzujàce grudniu roku poprzedniego, ustalane na podstawie odr´bnych przepisów,”.
+**Art. 18.** Wustawie zdnia 27 sierpnia 1997 orehabilitacji zawodowej ispołecznej zatrudnianiu osób niepełnosprawnych (Dz. U. 123, 776, póên. zm. ) wart. 2 pkt 1 otrzymuje brzmienie: Ń1) najniższym wynagrodzeniu oznacza to minimalne wynagrodzenie za pracę obowiązujące grudniu roku poprzedniego, ustalane na podstawie odrębnych przepisów,”.
 
-**Art. 19.** W ustawie dnia 13 paêdziernika 1998 o systemie ubezpieczeƒ spo∏ecznych (Dz. U. 137, 887, zpóên. zm. nej stanowi kwota minimalnego wynagrodzenia za prac´ obowiàzujàcego wgrudniu roku poprzedniego, ustalonego na podstawie odr´bnych przepisów, zastrze˝eniem ust. 9 i10,”;
+**Art. 19.** W ustawie dnia 13 paêdziernika 1998 o systemie ubezpieczeń społecznych (Dz. U. 137, 887, zpóên. zm. nej stanowi kwota minimalnego wynagrodzenia za pracę obowiązującego wgrudniu roku poprzedniego, ustalonego na podstawie odrębnych przepisów, zastrzeżeniem ust. 9 i10,”;
 
-**Art. 20.** Wustawie zdnia 20 listopada 1998 ozrycza∏towanym podatku dochodowym od niektórych przychodów osiàganych przez osoby fizyczne (Dz. U. 144, 930, zpóên. zm. ) art. 18 ust. 4 wprowadza si´ nast´pujàce zmiany:
+**Art. 20.** Wustawie zdnia 20 listopada 1998 ozryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 144, 930, zpóên. zm. ) art. 18 ust. 4 wprowadza się następujące zmiany:
 
-**Art. 21.** Wustawie zdnia 17 grudnia 1998 oemeryturach rentach Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. 162, 1118, póên. zm. nów lub innych dowodów uprawniajàcych do uzyskania posi∏ków lub napojów bezalkoholowych (z wyjàtkiem ekwiwalentu pieni´˝nego tego tytu∏u) do wysokoÊci nieprzekraczajàcej miesi´cznie kwoty 190 z∏; zwolnienie ma zastosowanie przypadku, gdy pracodawca zawar∏ jednostkà specjalizujàcà si´ przygotowywaniu wydawaniu posi∏ków umow´, której przedmiotem jest wydawanie pracownikom napojów bezalkoholowych wy∏àcznie gotowych posi∏ków,” ”, tiret szesnaste otrzymuje brzmienie: „— wpkt 49 lit. b) otrzymuje brzmienie: „b) Êwiadczenia finansowego na pokrycie kosztów najmu lokalu mieszkalne) art. 87 wust. 4 zdanie drugie otrzymuje brzmienie: „Zasady tej nie stosuje si´ równie˝, je˝eli podstaw´ wymiaru sk∏adek na ubezpieczenia emerytalne irentowe stanowi∏a kwota zasi∏ku sta∏ego zpomocy spo∏ecznej do: pracowników, o których mowa wart. 6 ust. 2 ustawy zdnia 10 paêdziernika 2002 o minimalnym wynagrodzeniu za prac´ (Dz. U. 200, 1679), ˝o∏nierzy niezawodowych ws∏u˝bie czynnej, ubezpieczonych odbywajàcych zast´pcze formy s∏u˝by wojskowej, atak˝e pozostajàcych s∏u˝bie kandydackiej funkcjonariuszy Policji, Stra˝y Granicznej, Biura Ochrony Rzàdu iPaƒstwowej Stra˝y Po˝arnej.”.
+**Art. 21.** Wustawie zdnia 17 grudnia 1998 oemeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 162, 1118, póên. zm. nów lub innych dowodów uprawniających do uzyskania posiłków lub napojów bezalkoholowych (z wyjątkiem ekwiwalentu pieniężnego tego tytułu) do wysokości nieprzekraczającej miesięcznie kwoty 190 zł; zwolnienie ma zastosowanie przypadku, gdy pracodawca zawarł jednostką specjalizującą się przygotowywaniu wydawaniu posiłków umowę, której przedmiotem jest wydawanie pracownikom napojów bezalkoholowych wyłącznie gotowych posiłków,” ”, tiret szesnaste otrzymuje brzmienie: Ń— wpkt 49 lit. b) otrzymuje brzmienie: Ńb) świadczenia finansowego na pokrycie kosztów najmu lokalu mieszkalne) art. 87 wust. 4 zdanie drugie otrzymuje brzmienie: ŃZasady tej nie stosuje się również, jeżeli podstawę wymiaru składek na ubezpieczenia emerytalne irentowe stanowiła kwota zasiłku stałego zpomocy społecznej do: pracowników, o których mowa wart. 6 ust. 2 ustawy zdnia 10 paêdziernika 2002 o minimalnym wynagrodzeniu za pracę (Dz. U. 200, 1679), żołnierzy niezawodowych wsłużbie czynnej, ubezpieczonych odbywających zastępcze formy służby wojskowej, atakże pozostających służbie kandydackiej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu iPaństwowej Straży Pożarnej.”.
 
 **Art. 22.** Wustawie zdnia 27 lipca 2002 ozmianie ustawy o podatku dochodowym od osób fizycznych ozmianie niektórych innych ustaw (Dz. U. 141,
 
 **Art. 23.**
 
-1. WysokoÊç ulgi uczniowskiej, októrej mowa art. 27c ust. 1 ustawy wymienionej art. 14 dla podatników, którzy zakoƒczyli szkolenie uczniów przed dniem 1 stycznia 2003 iszkolenie to zosta∏o zakoƒczone pozytywnym wynikiem egzaminu ustala si´ wysokoÊci okreÊlonej na podstawie art. 27c ust. 6 ustawy, o której mowa art. 14, brzmieniu obowiàzujàcym przed dniem 1 stycznia 2003
+1. Wysokość ulgi uczniowskiej, októrej mowa art. 27c ust. 1 ustawy wymienionej art. 14 dla podatników, którzy zakończyli szkolenie uczniów przed dniem 1 stycznia 2003 iszkolenie to zostało zakończone pozytywnym wynikiem egzaminu ustala się wysokości określonej na podstawie art. 27c ust. 6 ustawy, o której mowa art. 14, brzmieniu obowiązującym przed dniem 1 stycznia 2003
 
-2. WysokoÊç ulgi uczniowskiej, o której mowa wart. 53 ust. 1 ustawy wymienionej wart. 20 dla podatników, którzy zakoƒczyli szkolenie uczniów przed dniem 1 stycznia 2003 iszkolenie to zosta∏o zakoƒczone pozytywnym wynikiem egzaminu ustala si´ wysokoÊci okreÊlonej na podstawie art. 53 ust. 6 ustawy, októrej mowa wart. 20, wbrzmieniu obowiàzujàcym przed dniem 1 stycznia 2003
+2. Wysokość ulgi uczniowskiej, o której mowa wart. 53 ust. 1 ustawy wymienionej wart. 20 dla podatników, którzy zakończyli szkolenie uczniów przed dniem 1 stycznia 2003 iszkolenie to zostało zakończone pozytywnym wynikiem egzaminu ustala się wysokości określonej na podstawie art. 53 ust. 6 ustawy, októrej mowa wart. 20, wbrzmieniu obowiązującym przed dniem 1 stycznia 2003
 
-**Art. 24.** Prezes Rady Ministrów do dnia 30 wrzeÊnia 2006 przedstawi Sejmowi Rzeczypospolitej Polskiej ocen´ funkcjonowania ustawy, uwzgl´dniajàcà:
+**Art. 24.** Prezes Rady Ministrów do dnia 30 września 2006 przedstawi Sejmowi Rzeczypospolitej Polskiej ocenę funkcjonowania ustawy, uwzględniającą:
 
-**Art. 25.** Ilekroç przepisach prawa jest mowa o„najni˝szym wynagrodzeniu za prac´ pracowników” przez odwo∏anie si´ do odr´bnych przepisów lub do Kodeksu pracy albo przez wskazanie Ministra Pracy iPolityki Socjalnej, Ministra Pracy iPolityki Spo∏ecznej lub ministra w∏aÊciwego do spraw pracy jako zobowiàzanego do ustalania takiego wynagrodzenia na podstawie odr´bnych przepisów lub Kodeksu pracy, oznacza to kwot´ 760 z∏.
+**Art. 25.** Ilekroć przepisach prawa jest mowa oŃnajniższym wynagrodzeniu za pracę pracowników” przez odwołanie się do odrębnych przepisów lub do Kodeksu pracy albo przez wskazanie Ministra Pracy iPolityki Socjalnej, Ministra Pracy iPolityki Społecznej lub ministra właściwego do spraw pracy jako zobowiązanego do ustalania takiego wynagrodzenia na podstawie odrębnych przepisów lub Kodeksu pracy, oznacza to kwotę 760 zł.
 

@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 17 listopada 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,201 +24,207 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062351700) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1700/text.pdf) |
 
-**Art. 1.** Ustawa okreÊla:
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa:
 
 **Art. 2.**
 
 1. Celem ustawy jest:
 
-- **1)** zapewnienie ochrony interesów paƒstwa zakresie obronnoÊci i bezpieczeƒstwa przez ustalenie zasad dotyczàcych oceny zgodnoÊci wyrobów przeznaczonych na potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa;
-- **2)** zapewnienie warunków przeprowadzania oceny zgodnoÊci wyrobów przeznaczonych na potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa przez kompetentne i niezale˝ne podmioty, zakresie spe∏nienia wymagaƒ zawartych specyfikacjach technicznych;
-- **3)** zapewnienie warunków eliminowania zagro˝eƒ stwarzanych przez wyroby przeznaczone na potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa dla ˝ycia izdrowia u˝ytkowników oraz dla Êrodowiska.
+- **1)** zapewnienie ochrony interesów państwa zakresie obronności i bezpieczeństwa przez ustalenie zasad dotyczących oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa;
+- **2)** zapewnienie warunków przeprowadzania oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa przez kompetentne i niezależne podmioty, zakresie spełnienia wymagań zawartych specyfikacjach technicznych;
+- **3)** zapewnienie warunków eliminowania zagrożeń stwarzanych przez wyroby przeznaczone na potrzeby obronności i bezpieczeństwa państwa dla życia izdrowia użytkowników oraz dla środowiska.
 
-2. Ustawy nie stosuje si´ do:
+2. Ustawy nie stosuje się do:
 
-- **1)** wyrobów, o których mowa art. 7 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpo˝arowej (Dz. U. z 2002 r. 147, poz. 1229, z póên. zm. nych (Dz. U. z 2005 r. 196, poz. 1631, z póên. zm. );
+- **1)** wyrobów, o których mowa art. 7 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2002 r. 147, poz. 1229, z póên. zm. nych (Dz. U. z 2005 r. 196, poz. 1631, z póên. zm. );
 - **2)** wyrobów, októrych mowa wart. 60 ustawy zdnia 22 stycznia 1999 r. o ochronie informacji niejaw);
-- **3)** wyrobów podlegajàcych dozorowi technicznemu, zakresie ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. 122, poz. 1321, z póên. zm. );
-- **4)** wyrobów posiadajàcych oznakowanie CE, wzakresie obj´tym przepisami ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodnoÊci (Dz. U. z2004 r. 204, poz. 2087, z2005 r. 64, poz. 565 iNr 267, poz. 2258 oraz z2006 r. 170, poz. 1217);
-- **5)** wyrobów posiadajàcych oznakowanie ∏, zakresie obj´tym przepisami ustawy zdnia 28 paêdziernika 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. 199, poz. 1671, z póên. zm. );
-- **6)** podsystemów i sk∏adników, o których mowa ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. 86, poz. 789, z póên. zm. );
+- **3)** wyrobów podlegających dozorowi technicznemu, zakresie ustawy z dnia 21 grudnia 2000 r. o dozorze technicznym (Dz. U. 122, poz. 1321, z póên. zm. );
+- **4)** wyrobów posiadających oznakowanie CE, wzakresie objętym przepisami ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. z2004 r. 204, poz. 2087, z2005 r. 64, poz. 565 iNr 267, poz. 2258 oraz z2006 r. 170, poz. 1217);
+- **5)** wyrobów posiadających oznakowanie ł, zakresie objętym przepisami ustawy zdnia 28 paêdziernika 2002 r. o przewozie drogowym towarów niebezpiecznych (Dz. U. 199, poz. 1671, z póên. zm. );
+- **6)** podsystemów i składników, o których mowa ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. 86, poz. 789, z póên. zm. );
 - **7)** wyrobów budowlanych, o których mowa art. 2 pkt 1 ustawy zdnia 16 kwietnia 2004 r. owyrobach budowlanych (Dz. U. 92, poz. 881);
-- **8)** wyrobów posiadajàcych oznakowanie , wzakresie obj´tym przepisami ustawy z dnia 20 kwietnia 2004 r. o wyposa˝eniu morskim (Dz. U. 93, poz. 899).
+- **8)** wyrobów posiadających oznakowanie , wzakresie objętym przepisami ustawy z dnia 20 kwietnia 2004 r. o wyposażeniu morskim (Dz. U. 93, poz. 899).
 
-**Art. 3.** Ilekroç ustawie jest mowa o:
+**Art. 3.** Ilekroć ustawie jest mowa o:
 
 **Art. 7.**
 
-1. Wramach dzia∏aƒ, októrych mowa wart. 6 ust. 1 pkt 1, dostawca dokonuje analizy dokumentacji technicznej wyrobu oraz potwierdza dokonanie przynajmniej jednej znast´pujàcych czynnoÊci:
+1. Wramach działań, októrych mowa wart. 6 ust. 1 pkt 1, dostawca dokonuje analizy dokumentacji technicznej wyrobu oraz potwierdza dokonanie przynajmniej jednej znastępujących czynności:
 
 - **1)** kontroli wyrobu toku produkcji;
-- **2)** kontroli i badaƒ koƒcowych wyrobu albo
+- **2)** kontroli i badań końcowych wyrobu albo
 - **3)** kontroli procesu wytwarzania wyrobu zgodnie ze
 - **1)** dokonuje analizy dokumentacji technicznej wyrobu;
-- **2)** przeprowadza badania wcelu potwierdzenia zgodnoÊci wyrobu ze specyfikacjà technicznà.
+- **2)** przeprowadza badania wcelu potwierdzenia zgodności wyrobu ze specyfikacją techniczną.
 
-2. Jednostka badawcza wykonuje badania na podstawie wniosku o przeprowadzenie badaƒ z∏o˝onego przez dostawc´.
+2. Jednostka badawcza wykonuje badania na podstawie wniosku o przeprowadzenie badań złożonego przez dostawcę.
 
-3. Zakres badaƒ niezb´dnych wykonania dla potwierdzenia zgodnoÊci wyrobu z wymaganiami okreÊla specyfikacja techniczna.
+3. Zakres badań niezbędnych wykonania dla potwierdzenia zgodności wyrobu z wymaganiami określa specyfikacja techniczna.
 
-4. Wyboru jednostki badawczej dokonuje dostawca. Dostawca mo˝e z∏o˝yç wniosek oprzeprowadzenie badaƒ jednej lub kilku jednostek badawczych. Wniosek mo˝e dotyczyç przeprowadzenia badaƒ obejmujàcych tylko okreÊlone elementy wyrobu lub ca∏ego wyrobu.
+4. Wyboru jednostki badawczej dokonuje dostawca. Dostawca może złożyć wniosek oprzeprowadzenie badań jednej lub kilku jednostek badawczych. Wniosek może dotyczyć przeprowadzenia badań obejmujących tylko określone elementy wyrobu lub całego wyrobu.
 
-5. We wniosku, októrym mowa wust. 2, wskazuje si´:
+5. We wniosku, októrym mowa wust. 2, wskazuje się:
 
 - **1)** dane identyfikacyjne wyrobu;
 - **2)** oznaczenie producenta;
-- **3)** wnioskowany zakres badaƒ, jakie ma przeprowadziç jednostka badawcza;
-- **4)** specyfikacj´ technicznà wyrobu;
-- **5)** proponowany termin zakoƒczenia badaƒ.
+- **3)** wnioskowany zakres badań, jakie ma przeprowadzić jednostka badawcza;
+- **4)** specyfikację techniczną wyrobu;
+- **5)** proponowany termin zakończenia badań.
 
-6. Do wniosku, októrym mowa wust. 2, do∏àcza si´:
+6. Do wniosku, októrym mowa wust. 2, dołącza się:
 
-- **1)** Êwiadectwa z badaƒ elementów wyrobu;
-- **2)** dokumentacj´ technicznà wyrobu;
-- **3)** sk∏adniki specyfikacji technicznej okreÊlone przez jednostk´ badawczà;
-- **4)** egzemplarze wyrobu podlegajàce badaniu, iloÊci okreÊlonej przez jednostk´ badawczà.
+- **1)** świadectwa z badań elementów wyrobu;
+- **2)** dokumentację techniczną wyrobu;
+- **3)** składniki specyfikacji technicznej określone przez jednostkę badawczą;
+- **4)** egzemplarze wyrobu podlegające badaniu, ilości określonej przez jednostkę badawczą.
 
-7. Je˝eli dokumenty, októrych mowa wust. 6, sporzàdzono j´zyku obcym, jednostka badawcza mo˝e ˝àdaç, zakresie niezb´dnym przeprowadzenia oceny zgodnoÊci, t∏umaczenia dokumentów na j´zyk polski.
+7. Jeżeli dokumenty, októrych mowa wust. 6, sporządzono języku obcym, jednostka badawcza może żądać, zakresie niezbędnym przeprowadzenia oceny zgodności, tłumaczenia dokumentów na język polski.
 
-8. Do realizacji dzia∏aƒ, o których mowa art. 6 ust. 1 pkt 2, jednostka badawcza mo˝e wykorzystaç wyniki badaƒ przeprowadzone przez inne, krajowe lub zagraniczne, akredytowane laboratoria badawcze.
+8. Do realizacji działań, o których mowa art. 6 ust. 1 pkt 2, jednostka badawcza może wykorzystać wyniki badań przeprowadzone przez inne, krajowe lub zagraniczne, akredytowane laboratoria badawcze.
 
-9. Dla wyrobów wykonywanych wcyklu pracy rozwojowej i wdro˝eniowej czynnoÊci, o których mowa ust. 1, podejmuje si´ po zatwierdzeniu dokumentacji technicznej produkcji seryjnej przez dyrektora komórki organizacyjnej Ministerstwa Obrony Narodowej w∏aÊciwej spraw badaƒ i rozwoju lub ministra
+9. Dla wyrobów wykonywanych wcyklu pracy rozwojowej i wdrożeniowej czynności, o których mowa ust. 1, podejmuje się po zatwierdzeniu dokumentacji technicznej produkcji seryjnej przez dyrektora komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej spraw badań i rozwoju lub ministra
 
 - **1)** oznaczenie jednostki badawczej;
-- **2)** numer i oznaczenie Êwiadectwa z badaƒ;
-- **3)** oznaczenie przedmiotu badaƒ;
-- **4)** wskazanie specyfikacji technicznej wyrobu b´dàcej podstawà wykonania badaƒ;
-- **5)** zakres badaƒ oraz wykaz komponentów wyrobu, poddanych badaniu;
-- **6)** wyniki badaƒ oraz pomiarów;
-- **7)** dat´ wydania i podpis kierownika jednostki badawczej.
+- **2)** numer i oznaczenie świadectwa z badań;
+- **3)** oznaczenie przedmiotu badań;
+- **4)** wskazanie specyfikacji technicznej wyrobu będącej podstawą wykonania badań;
+- **5)** zakres badań oraz wykaz komponentów wyrobu, poddanych badaniu;
+- **6)** wyniki badań oraz pomiarów;
+- **7)** datę wydania i podpis kierownika jednostki badawczej.
 
-12. Na podstawie Êwiadectwa lub Êwiadectw z badaƒ, potwierdzajàcych zgodnoÊç wyrobu ze specyfikacjami technicznymi, dostawca wystawia deklaracj´ zgodnoÊci OiB.
+12. Na podstawie świadectwa lub świadectw z badań, potwierdzających zgodność wyrobu ze specyfikacjami technicznymi, dostawca wystawia deklarację zgodności OiB.
 
 **Art. 9.**
 
-1. Dzia∏ania, o których mowa art. 6 ust. 1 pkt 3, przeprowadza jednostka certyfikujàca, na wniosek dostawcy o przeprowadzenie certyfikacji.
+1. Działania, o których mowa art. 6 ust. 1 pkt 3, przeprowadza jednostka certyfikująca, na wniosek dostawcy o przeprowadzenie certyfikacji.
 
-2. We wniosku, októrym mowa wust. 1, wskazuje si´:
+2. We wniosku, októrym mowa wust. 1, wskazuje się:
 
-- **1)** firm´ dostawcy, jego siedzib´ iadres albo miejsce zamieszkania i adres oraz nazw´ i siedzib´ (adres) zak∏adu produkujàcego wyrób;
-- **2)** nazw´ umo˝liwiajàcà pe∏nà identyfikacj´ wyrobu;
-- **3)** specyfikacj´ technicznà wyrobu.
+- **1)** firmę dostawcy, jego siedzibę iadres albo miejsce zamieszkania i adres oraz nazwę i siedzibę (adres) zakładu produkującego wyrób;
+- **2)** nazwę umożliwiającą pełną identyfikację wyrobu;
+- **3)** specyfikację techniczną wyrobu.
 
-3. Do wniosku, októrym mowa wust. 1, do∏àcza si´:
+3. Do wniosku, októrym mowa wust. 1, dołącza się:
 
-- **1)** dokumentacj´ technicznà wyrobu zakresie niezb´dnym przeprowadzenia oceny zgodnoÊci;
-- **2)** odpowiednià iloÊç egzemplarzy wyrobu lub okreÊlenie miejsca jego lokalizacji, jeÊli jest to wymagane przez jednostk´ certyfikujàcà;
-- **3)** instrukcj´ obs∏ugi przeznaczonà dla u˝ytkownika wyrobu oraz instrukcj´ bezpieczeƒstwa u˝ytkowania;
-- **4)** wyniki badaƒ wyrobu dla potwierdzenia zgodnoÊci wyrobu zwymaganiami okreÊlonymi wspecyfikacji technicznej;
-- **5)** informacje dotyczàce systemu zapewnienia jakoÊci wyrobu;
-- **6)** przypadku wyrobu seryjnego informacje dotyczàce systemu zarzàdzania jakoÊcià dostawcy zgodnego z w∏aÊciwymi normami mi´dzynarodowymi lub wymaganiami Organizacji Traktatu Pó∏1) analiz´ dokumentacji technicznej wyrobu, celu sprawdzenia, czy zosta∏y uwzgl´dnione wymagania zawarte specyfikacji technicznej;
-- **2)** ocen´ wyrobu pod wzgl´dem zgodnoÊci z przedstawionà dokumentacjà technicznà oraz pod wzgl´dem bezpieczeƒstwa u˝ytkowania;
-- **3)** ocen´ wyników badaƒ pod wzgl´dem spe∏nienia przez wyrób wymagaƒ zawartych specyfikacji technicznej.
+- **1)** dokumentację techniczną wyrobu zakresie niezbędnym przeprowadzenia oceny zgodności;
+- **2)** odpowiednią ilość egzemplarzy wyrobu lub określenie miejsca jego lokalizacji, jeśli jest to wymagane przez jednostkę certyfikującą;
+- **3)** instrukcję obsługi przeznaczoną dla użytkownika wyrobu oraz instrukcję bezpieczeństwa użytkowania;
+- **4)** wyniki badań wyrobu dla potwierdzenia zgodności wyrobu zwymaganiami określonymi wspecyfikacji technicznej;
+- **5)** informacje dotyczące systemu zapewnienia jakości wyrobu;
+- **6)** przypadku wyrobu seryjnego informacje dotyczące systemu zarządzania jakością dostawcy zgodnego z właściwymi normami międzynarodowymi lub wymaganiami Organizacji Traktatu Pół1) analizę dokumentacji technicznej wyrobu, celu sprawdzenia, czy zostały uwzględnione wymagania zawarte specyfikacji technicznej;
+- **2)** ocenę wyrobu pod względem zgodności z przedstawioną dokumentacją techniczną oraz pod względem bezpieczeństwa użytkowania;
+- **3)** ocenę wyników badań pod względem spełnienia przez wyrób wymagań zawartych specyfikacji technicznej.
 
-6. Wprzypadku wyrobu seryjnego, oprócz czynnoÊci wymienionych wust. 5, jednostka certyfikujàca dokonuje oceny systemu zarzàdzania jakoÊcià dostawcy na zgodnoÊç z w∏aÊciwymi normami mi´dzynarodowymi lub wymaganiami Organizacji Traktatu Pó∏nocnoatlantyckiego dotyczàcymi zapewnienia jakoÊci.
+6. Wprzypadku wyrobu seryjnego, oprócz czynności wymienionych wust. 5, jednostka certyfikująca dokonuje oceny systemu zarządzania jakością dostawcy na zgodność z właściwymi normami międzynarodowymi lub wymaganiami Organizacji Traktatu Północnoatlantyckiego dotyczącymi zapewnienia jakości.
 
-7. W ramach realizacji dzia∏aƒ, o których mowa art. 6 ust. 1 pkt 3, jednostka certyfikujàca mo˝e uznaç wyniki badaƒ przeprowadzone przez inne, krajowe lub zagraniczne, akredytowane laboratoria badawcze i instytucje certyfikujàce.
+7. W ramach realizacji działań, o których mowa art. 6 ust. 1 pkt 3, jednostka certyfikująca może uznać wyniki badań przeprowadzone przez inne, krajowe lub zagraniczne, akredytowane laboratoria badawcze i instytucje certyfikujące.
 
-8. Dla wyrobów wykonywanych wcyklu pracy rozwojowej i wdro˝eniowej, czynnoÊci, o których mowa ust. 5, podejmuje si´ po zatwierdzeniu dokumentacji technicznej produkcji seryjnej przez dyrektora komórki organizacyjnej Ministerstwa Obrony Narodowej w∏aÊciwej spraw badaƒ i rozwoju lub ministra w∏aÊciwego spraw wewn´trznych.
+8. Dla wyrobów wykonywanych wcyklu pracy rozwojowej i wdrożeniowej, czynności, o których mowa ust. 5, podejmuje się po zatwierdzeniu dokumentacji technicznej produkcji seryjnej przez dyrektora komórki organizacyjnej Ministerstwa Obrony Narodowej właściwej spraw badań i rozwoju lub ministra właściwego spraw wewnętrznych.
 
-9. Je˝eli jednostka certyfikujàca stwierdzi zgodnoÊç wyrobu ze specyfikacjà technicznà, a przypadku wyrobu seryjnego równie˝ zgodnoÊç systemu zarzàdzania jakoÊcià dostawcy z w∏aÊciwymi normami mi´dzynarodowymi lub wymaganiami Organizacji Traktatu Pó∏nocnoatlantyckiego dotyczàcymi zapewnienia jakoÊci, wystawia certyfikat zgodnoÊci wyrobu.
+9. Jeżeli jednostka certyfikująca stwierdzi zgodność wyrobu ze specyfikacją techniczną, a przypadku wyrobu seryjnego również zgodność systemu zarządzania jakością dostawcy z właściwymi normami międzynarodowymi lub wymaganiami Organizacji Traktatu Północnoatlantyckiego dotyczącymi zapewnienia jakości, wystawia certyfikat zgodności wyrobu.
 
-10. Certyfikat zgodnoÊci wyrobu powinien zawieraç:
+10. Certyfikat zgodności wyrobu powinien zawierać:
 
-- **1)** firm´ dostawcy, jego siedzib´ iadres albo miejsce zamieszkania i adres oraz nazw´ i siedzib´ (adres) zak∏adu produkujàcego okreÊlony wyrób;
-- **2)** nazw´ umo˝liwiajàcà pe∏nà identyfikacj´ wyrobu;
-- **3)** nazw´ dokumentu okreÊlajàcego wymagania techniczne, ze wskazaniem jego pe∏nej identyfikacji;
-- **4)** nazw´ dokumentu zawierajàcego wyniki badaƒ wyrobu wraz zpodaniem nazwy jednostki badawczej;
-- **5)** numer, dat´ wystawienia oraz termin wa˝noÊci nych seryjnie certyfikat zgodnoÊci wyrobu wystawia- Art. 13. Dostawca jest obowiàzany przechowywaç ny jest na okres 3 lat. dokumentacj´ wykorzystanà oceny zgodnoÊci wy12. Na podstawie certyfikatu zgodnoÊci wyrobu robu oraz dokumentacj´ okreÊlajàcà wyniki dokonanej dostawca wystawia deklaracj´ zgodnoÊci OiB. oceny zgodnoÊci wyrobu przez okres 10 lat od dnia zakoƒczenia produkcji tego wyrobu.
+- **1)** firmę dostawcy, jego siedzibę iadres albo miejsce zamieszkania i adres oraz nazwę i siedzibę (adres) zakładu produkującego określony wyrób;
+- **2)** nazwę umożliwiającą pełną identyfikację wyrobu;
+- **3)** nazwę dokumentu określającego wymagania techniczne, ze wskazaniem jego pełnej identyfikacji;
+- **4)** nazwę dokumentu zawierającego wyniki badań wyrobu wraz zpodaniem nazwy jednostki badawczej;
+- **5)** numer, datę wystawienia oraz termin ważności nych seryjnie certyfikat zgodności wyrobu wystawia- Art. 13. Dostawca jest obowiązany przechowywać ny jest na okres 3 lat. dokumentację wykorzystaną oceny zgodności wy12. Na podstawie certyfikatu zgodności wyrobu robu oraz dokumentację określającą wyniki dokonanej dostawca wystawia deklarację zgodności OiB. oceny zgodności wyrobu przez okres 10 lat od dnia zakończenia produkcji tego wyrobu.
 
 **Art. 10.**
 
-1. Minister Obrony Narodowej i minister Rozdzia∏ 3 w∏aÊciwy spraw wewn´trznych, ka˝dy zakresie swojej w∏aÊciwoÊci, okreÊlà, drodze rozporzàdzeƒ: Akredytacja jednostek organizacyjnych w∏aÊciwych
+1. Minister Obrony Narodowej i minister Rozdział 3 właściwy spraw wewnętrznych, każdy zakresie swojej właściwości, określą, drodze rozporządzeń: Akredytacja jednostek organizacyjnych właściwych
 
-- **1)** szczegó∏owy sposób prowadzenia oceny zgodno- zakresie oceny zgodnoÊci wyrobów nabywanych Êci odniesieniu grup wyrobów wymienio- na potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa nych art. 6 ust. 2; oraz tryb udzielania akredytacji OiB
-- **2)** szczegó∏owe wykazy wyrobów podlegajàcych oce- Art. 14. 1. Akredytacj´ OiB mo˝e uzyskaç jednostnie zgodnoÊci. ka organizacyjna, która:
+- **1)** szczegółowy sposób prowadzenia oceny zgodno- zakresie oceny zgodności wyrobów nabywanych ści odniesieniu grup wyrobów wymienio- na potrzeby obronności i bezpieczeństwa państwa nych art. 6 ust. 2; oraz tryb udzielania akredytacji OiB
+- **2)** szczegółowe wykazy wyrobów podlegających oce- Art. 14. 1. Akredytację OiB może uzyskać jednostnie zgodności. ka organizacyjna, która:
 
-2. Minister Obrony Narodowej iminister w∏aÊciwy 1) dysponuje personelem o odpowiedniej wiedzy spraw wewn´trznych, wydajàc rozporzàdzenia, technicznej idoÊwiadczeniu wzakresie dokonywaoktórych mowa wust. 1, biorà pod uwag´ cechy ipa- nia oceny zgodnoÊci wyrobów przeznaczonych na rametry techniczne wyrobów oraz uwzgl´dniajà ich potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa rol´ dla obronnoÊci i bezpieczeƒstwa paƒstwa. oraz sposobów przeprowadzenia oceny zgodnoÊci;
+2. Minister Obrony Narodowej iminister właściwy 1) dysponuje personelem o odpowiedniej wiedzy spraw wewnętrznych, wydając rozporządzenia, technicznej idoświadczeniu wzakresie dokonywaoktórych mowa wust. 1, biorą pod uwagę cechy ipa- nia oceny zgodności wyrobów przeznaczonych na rametry techniczne wyrobów oraz uwzględniają ich potrzeby obronności i bezpieczeństwa państwa rolę dla obronności i bezpieczeństwa państwa. oraz sposobów przeprowadzenia oceny zgodności;
 
 **Art. 11.**
 
-1. Wdeklaracji zgodnoÊci OiB zamieszcza si´: 2) jest niezale˝na od dostawców;
+1. Wdeklaracji zgodności OiB zamieszcza się: 2) jest niezależna od dostawców;
 
-- **1)** firm´ dostawcy, jego siedzib´ i adres albo miej- 3) dysponuje wyposa˝eniem technicznym niezb´dsce zamieszkania i adres wystawiajàcego dekla- nym wykonania czynnoÊci zwiàzanych z ocenà racj´; zgodnoÊci;
-- **2)** nazw´, numer typu lub modelu, numer serii lub 4) posiada system zarzàdzania jakoÊcià zgodny zwypartii albo inne dane identyfikacyjne wyrobu; maganiami okreÊlonymi Polskich Normach;
-- **3)** oÊwiadczenie, ˝e wyrób jest zgodny ze specyfika- 5) przestrzega przepisów o ochronie informacji niecjà technicznà; jawnych iinnych informacji prawnie chronionych.
-- **4)** nazw´ dokumentu okreÊlajàcego specyfikacj´ 2. Spe∏nienie wymogu, o którym mowa ust. 1 technicznà, zpodaniem jego pe∏nych danych iden- pkt 5, ocenia w∏aÊciwa s∏u˝ba ochrony paƒstwa przez tyfikacyjnych; wystawienie opinii tej sprawie.
-- **5)** dane identyfikujàce jednostk´ badawczà lub certyfi- Art. 15.1. Akredytacji OiB udziela Minister Obrony kujàcà, bioràcà udzia∏ wocenie zgodnoÊci wyrobu; Narodowej, minister w∏aÊciwy spraw wewn´trznych, ka˝dy wzakresie swojej w∏aÊciwoÊci, na podsta6) dat´ i miejsce wystawienia deklaracji; wie wniosku jednostki organizacyjnej spe∏niajàcej wymagania okreÊlone art. 14 ust. 1.
+- **1)** firmę dostawcy, jego siedzibę i adres albo miej- 3) dysponuje wyposażeniem technicznym niezbędsce zamieszkania i adres wystawiającego dekla- nym wykonania czynności związanych z oceną rację; zgodności;
+- **2)** nazwę, numer typu lub modelu, numer serii lub 4) posiada system zarządzania jakością zgodny zwypartii albo inne dane identyfikacyjne wyrobu; maganiami określonymi Polskich Normach;
+- **3)** oświadczenie, że wyrób jest zgodny ze specyfika- 5) przestrzega przepisów o ochronie informacji niecją techniczną; jawnych iinnych informacji prawnie chronionych.
+- **4)** nazwę dokumentu określającego specyfikację 2. Spełnienie wymogu, o którym mowa ust. 1 techniczną, zpodaniem jego pełnych danych iden- pkt 5, ocenia właściwa służba ochrony państwa przez tyfikacyjnych; wystawienie opinii tej sprawie.
+- **5)** dane identyfikujące jednostkę badawczą lub certyfi- Art. 15.1. Akredytacji OiB udziela Minister Obrony kującą, biorącą udział wocenie zgodności wyrobu; Narodowej, minister właściwy spraw wewnętrznych, każdy wzakresie swojej właściwości, na podsta6) datę i miejsce wystawienia deklaracji; wie wniosku jednostki organizacyjnej spełniającej wymagania określone art. 14 ust. 1.
 - **7)** podpis dostawcy;
-- **8)** pole potwierdzenia danych, o których mowa 2. Wniosek o udzielenie akredytacji OiB powinien pkt 1—7, przez organ sprawujàcy nadzór nad zawieraç: czynnoÊciami zwiàzanymi z wyrobem. 1) oznaczenie jednostki organizacyjnej ubiegajàcej si´ o akredytacj´ OiB;
+- **8)** pole potwierdzenia danych, o których mowa 2. Wniosek o udzielenie akredytacji OiB powinien pkt 1—7, przez organ sprawujący nadzór nad zawierać: czynnościami związanymi z wyrobem. 1) oznaczenie jednostki organizacyjnej ubiegającej się o akredytację OiB;
 
-2. Deklaracja zgodnoÊci OiB wystawiona bez przeprowadzenia czynnoÊci wymienionych art. 7, 8 al- 2) siedzib´ jednostki organizacyjnej; bo 9 jest niewa˝na.
+2. Deklaracja zgodności OiB wystawiona bez przeprowadzenia czynności wymienionych art. 7, 8 al- 2) siedzibę jednostki organizacyjnej; bo 9 jest nieważna.
 
-- **3)** okreÊlenie zakresu akredytacji OiB.
+- **3)** określenie zakresu akredytacji OiB.
 
-3. Wyrób nie mo˝e zostaç wprowadzony u˝ytku bez przeprowadzenia czynnoÊci wymienionych wart. 7, 3. Minister Obrony Narodowej, minister w∏aÊciwy 8 albo 9 okreÊlonych przepisach wydanych na pod- spraw wewn´trznych, ka˝dy wzakresie swojej w∏astawie art. 10 pkt 1. ÊciwoÊci, terminie nie d∏u˝szym ni˝ 6 miesi´cy od dnia z∏o˝enia wniosku, udzielajà albo odmawiajà akredytacji OiB, októrych mowa wart. 14 ust. 1, Minister Obrony Narodowej, minister w∏aÊciwy spraw wewn´trznych, ka˝dy zakresie swojej w∏aÊciwoÊci, mo˝e ograniczyç zakres akredytacji, zawiesiç albo cofnàç akredytacj´.
+3. Wyrób nie może zostać wprowadzony użytku bez przeprowadzenia czynności wymienionych wart. 7, 3. Minister Obrony Narodowej, minister właściwy 8 albo 9 określonych przepisach wydanych na pod- spraw wewnętrznych, każdy wzakresie swojej włastawie art. 10 pkt 1. ściwości, terminie nie dłuższym niż 6 miesięcy od dnia złożenia wniosku, udzielają albo odmawiają akredytacji OiB, októrych mowa wart. 14 ust. 1, Minister Obrony Narodowej, minister właściwy spraw wewnętrznych, każdy zakresie swojej właściwości, może ograniczyć zakres akredytacji, zawiesić albo cofnąć akredytację.
 
-6. Sprawy dotyczàce udzielenia, odmowy udzielenia, ograniczenia, zawieszenia albo cofni´cia akredytacji OiB rozstrzyga si´ drodze decyzji administracyjnej.
+6. Sprawy dotyczące udzielenia, odmowy udzielenia, ograniczenia, zawieszenia albo cofnięcia akredytacji OiB rozstrzyga się drodze decyzji administracyjnej.
 
-7. Dokumentem potwierdzajàcym uzyskanie akredytacji jest certyfikat akredytacji OiB.
+7. Dokumentem potwierdzającym uzyskanie akredytacji jest certyfikat akredytacji OiB.
 
 8. Certyfikat akredytacji OiB zawiera:
 
-- **1)** oznaczenie organu udzielajàcego akredytacji OiB;
+- **1)** oznaczenie organu udzielającego akredytacji OiB;
 - **2)** oznaczenie jednostki organizacyjnej oraz jej siedziby (adres);
 - **3)** wskazanie Polskiej Normy, októrej mowa wart. 14 ust. 1 pkt 4;
 - **4)** zakres udzielonej akredytacji OiB;
-- **5)** okres wa˝noÊci akredytacji OiB;
-- **6)** dat´ wydania;
-- **7)** podpis organu wydajàcego certyfikat akredytacji OiB.
+- **5)** okres ważności akredytacji OiB;
+- **6)** datę wydania;
+- **7)** podpis organu wydającego certyfikat akredytacji OiB.
 
 9. Certyfikat akredytacji OiB jest wydawany na okres 3 lat.
 
 **Art. 16.**
 
-1. Minister Obrony Narodowej, minister w∏aÊciwy spraw wewn´trznych, ka˝dy zakresie swojej w∏aÊciwoÊci, og∏aszajà wydawanych przez siebie dziennikach urz´dowych wykaz jednostek badawczych oraz wykaz jednostek certyfikujàcych wraz z zakresem udzielonej tym jednostkom akredytacji OiB.
+1. Minister Obrony Narodowej, minister właściwy spraw wewnętrznych, każdy zakresie swojej właściwości, ogłaszają wydawanych przez siebie dziennikach urzędowych wykaz jednostek badawczych oraz wykaz jednostek certyfikujących wraz z zakresem udzielonej tym jednostkom akredytacji OiB.
 
-2. Minister Obrony Narodowej, minister w∏aÊciwy spraw wewn´trznych, ka˝dy wzakresie swojej w∏aÊciwoÊci, okreÊlà, drodze rozporzàdzeƒ:
+2. Minister Obrony Narodowej, minister właściwy spraw wewnętrznych, każdy wzakresie swojej właściwości, określą, drodze rozporządzeń:
 
-- **1)** szczegó∏owe wymagania, jakie powinny spe∏niaç jednostki organizacyjne prowadzàce ocen´ zgodnoÊci,
+- **1)** szczegółowe wymagania, jakie powinny spełniać jednostki organizacyjne prowadzące ocenę zgodności,
 - **2)** wzór certyfikatu akredytacji OiB,
-- **3)** szczegó∏owy tryb post´powania zakresie udzielania akredytacji OiB jednostkom organizacyjnym bioràc pod uwag´ wymagania okreÊlone Poloceny zgodnoÊci wyrobów przeznaczonych na potrzeby obronnoÊci ibezpieczeƒstwa paƒstwa sprawujà organy sprawujàce nadzór nad czynnoÊciami zwiàzanymi z wyrobem oraz organy nadzorujàce jednostki badawcze i jednostki certyfikujàce.
+- **3)** szczegółowy tryb postępowania zakresie udzielania akredytacji OiB jednostkom organizacyjnym biorąc pod uwagę wymagania określone Poloceny zgodności wyrobów przeznaczonych na potrzeby obronności ibezpieczeństwa państwa sprawują organy sprawujące nadzór nad czynnościami związanymi z wyrobem oraz organy nadzorujące jednostki badawcze i jednostki certyfikujące.
 
-2. Nadzór nad funkcjonowaniem systemu oceny zgodnoÊci wyrobów przeznaczonych na potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa obejmuje:
+2. Nadzór nad funkcjonowaniem systemu oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa obejmuje:
 
-- **1)** sprawowanie nadzoru nad czynnoÊciami zwiàzanymi z wyrobem wprowadzanym u˝ytku;
-- **2)** sprawowanie nadzoru nad dzia∏alnoÊcià jednostek badawczych oraz jednostek certyfikujàcych zakresie prowadzenia przez te jednostki dzia∏aƒ zwiàzanych z ocenà zgodnoÊci wyrobów.
+- **1)** sprawowanie nadzoru nad czynnościami związanymi z wyrobem wprowadzanym użytku;
+- **2)** sprawowanie nadzoru nad działalnością jednostek badawczych oraz jednostek certyfikujących zakresie prowadzenia przez te jednostki działań związanych z oceną zgodności wyrobów.
 
-**Art. 18.** Sprawowanie nadzoru nad czynnoÊciami zwiàzanymi z wyrobem wprowadzanym u˝ytku obejmuje:
+**Art. 18.** Sprawowanie nadzoru nad czynnościami związanymi z wyrobem wprowadzanym użytku obejmuje:
 
 **Art. 19.**
 
-1. Wzale˝noÊci od cech iparametrów technicznych wyrobów oraz ich znaczenia dla obronnoÊci i bezpieczeƒstwa paƒstwa czynnoÊci, o których mowa art. 17 ust. 2 pkt 1, mogà obejmowaç:
+1. Wzależności od cech iparametrów technicznych wyrobów oraz ich znaczenia dla obronności i bezpieczeństwa państwa czynności, o których mowa art. 17 ust. 2 pkt 1, mogą obejmować:
 
-- **1)** monitorowanie iocen´ procesów iwyrobów realizowanych przez dostawc´;
-- **2)** ocen´ systemu zarzàdzania jakoÊcià dostawcy na zgodnoÊç z w∏aÊciwymi normami mi´dzynarodowymi lub wymaganiami Organizacji Traktatu Pó∏nocnoatlantyckiego dotyczàcymi zapewnienia jakoÊci, odniesieniu realizowanej umowy na dostaw´ wyrobu seryjnego.
+- **1)** monitorowanie iocenę procesów iwyrobów realizowanych przez dostawcę;
+- **2)** ocenę systemu zarządzania jakością dostawcy na zgodność z właściwymi normami międzynarodowymi lub wymaganiami Organizacji Traktatu Północnoatlantyckiego dotyczącymi zapewnienia jakości, odniesieniu realizowanej umowy na dostawę wyrobu seryjnego.
 
-2. Udzia∏ organu sprawujàcego nadzór nad czynnoÊciami zwiàzanymi z wyrobem czynnoÊciach wymienionych ust. 1 okreÊla ka˝dorazowo umowa na dostaw´ wyrobu na rzecz komórek lub jednostek organizacyjnych podleg∏ych lub nadzorowanych przez Ministra Obrony Narodowej, a tak˝e na rzecz organów, komórek ijednostek organizacyjnych podleg∏ych lub nadzorowanych przez ministra w∏aÊciwego spraw wewn´trznych.
+2. Udział organu sprawującego nadzór nad czynnościami związanymi z wyrobem czynnościach wymienionych ust. 1 określa każdorazowo umowa na dostawę wyrobu na rzecz komórek lub jednostek organizacyjnych podległych lub nadzorowanych przez Ministra Obrony Narodowej, a także na rzecz organów, komórek ijednostek organizacyjnych podległych lub nadzorowanych przez ministra właściwego spraw wewnętrznych.
 
 **Art. 20.**
 
-1. Je˝eli czynnoÊci, o których mowa wart. 18—19, potwierdzajà dane zawarte wdeklaracji zgodnoÊci OiB wyrobu, organ sprawujàcy nadzór nad czynnoÊciami zwiàzanymi z wyrobem stwierdza ten bez adnotacji, o której mowa ust. 1. nostk´ certyfikujàcà procesów oceny zgodnoÊci wyrobów z grup wymienionych art. 6 ust. 2.
+1. Jeżeli czynności, o których mowa wart. 18—19, potwierdzają dane zawarte wdeklaracji zgodności OiB wyrobu, organ sprawujący nadzór nad czynnościami związanymi z wyrobem stwierdza ten bez adnotacji, o której mowa ust. 1. nostkę certyfikującą procesów oceny zgodności wyrobów z grup wymienionych art. 6 ust. 2.
 
-**Art. 21.** Minister Obrony Narodowej, minister w∏aÊciwy spraw wewn´trznych, ka˝dy wzakresie swo- Art. 24. 1. Nadzór nad dzia∏alnoÊcià jednostek bajej w∏aÊciwoÊci, okreÊlà, drodze rozporzàdzeƒ: dawczych i jednostek certyfikujàcych zakresie dzia1) organy prowadzàce ich imieniu nadzór nad wy- ∏aƒ zwiàzanych zocenà zgodnoÊci wyrobów prowadzi robem, si´ na podstawie planu sporzàdzanego przez organ nadzorujàcy jednostki badawcze i jednostki certyfiku2) szczegó∏owy sposób sprawowania nadzoru nad jàce. czynnoÊciami zwiàzanymi zwyrobem wprowadzanym u˝ytku wkomórkach ijednostkach organi- 2. Plan, októrym mowa wust. 1, powinien uwzgl´dzacyjnych sobie podleg∏ych lub przez siebie nad- niaç wykonanie czynnoÊci wskazanych wart. 22 pkt 1 i2 zorowanych wstosunku jednostek badawczych ijednostek certyfikujàcych, okresie wa˝noÊci udzielonych tym jeduwzgl´dniajàc cechy iparametry techniczne wyro- nostkom akredytacji OiB, nie rzadziej jednak ni˝ raz bów oraz ich znaczenie dla obronnoÊci i bezpieczeƒ- wroku kalendarzowym. stwa paƒstwa, a tak˝e specyfik´ zadaƒ tych komórek i jednostek organizacyjnych. 3. W przypadku:
+**Art. 21.** Minister Obrony Narodowej, minister właściwy spraw wewnętrznych, każdy wzakresie swo- Art. 24. 1. Nadzór nad działalnością jednostek bajej właściwości, określą, drodze rozporządzeń: dawczych i jednostek certyfikujących zakresie dzia1) organy prowadzące ich imieniu nadzór nad wy- łań związanych zoceną zgodności wyrobów prowadzi robem, się na podstawie planu sporządzanego przez organ nadzorujący jednostki badawcze i jednostki certyfiku2) szczegółowy sposób sprawowania nadzoru nad jące. czynnościami związanymi zwyrobem wprowadzanym użytku wkomórkach ijednostkach organi- 2. Plan, októrym mowa wust. 1, powinien uwzględzacyjnych sobie podległych lub przez siebie nad- niać wykonanie czynności wskazanych wart. 22 pkt 1 i2 zorowanych wstosunku jednostek badawczych ijednostek certyfikujących, okresie ważności udzielonych tym jeduwzględniając cechy iparametry techniczne wyro- nostkom akredytacji OiB, nie rzadziej jednak niż raz bów oraz ich znaczenie dla obronności i bezpieczeń- wroku kalendarzowym. stwa państwa, a także specyfikę zadań tych komórek i jednostek organizacyjnych. 3. W przypadku:
 
-**Art. 22.** Organ nadzorujàcy jednostki badawcze 1) zaistnienia zmian znaczàco wp∏ywajàcych na dziai certyfikujàce, zakresie dokonywania przez te jed- ∏alnoÊç jednostki badawczej lub jednostki certyfinostki oceny zgodnoÊci wyrobów: kujàcej, dotyczàcych wszczególnoÊci ich struktury w∏asnoÊci, sk∏adu personelu oraz, przypadku
+**Art. 22.** Organ nadzorujący jednostki badawcze 1) zaistnienia zmian znacząco wpływających na dziai certyfikujące, zakresie dokonywania przez te jed- łalność jednostki badawczej lub jednostki certyfinostki oceny zgodności wyrobów: kującej, dotyczących wszczególności ich struktury własności, składu personelu oraz, przypadku
 
-**Art. 23.** W przypadku posiadania przez jednostk´ Narodowej oraz ministra w∏aÊciwego spraw webadawczà lub jednostk´ certyfikujàcà akredytacji Pol- wn´trznych organu prowadzàcego ich imieniu nadskiego Centrum Akredytacji, organ nadzorujàcy jed- zór nad dzia∏alnoÊcià jednostek badawczych oraz jednostki badawcze i jednostki certyfikujàce mo˝e odstà- nostek certyfikujàcych odpowiednio wzakresie obron2) certyfikacjà jednostka badawcza lub jednostka certyfikujàca pobiera op∏aty. 2. Op∏aty uiszcza dostawca. 3. Op∏aty zwiàzane zbadaniami na potrzeby oceny zgodnoÊci i certyfikacjà ró˝nicuje si´ odpowiednio rodzaju i zakresu wykonywanych czynnoÊci. 4. Podstaw´ okreÊlenia wysokoÊci op∏at, o których mowa ust. 3, stanowià szczególnoÊci:
+**Art. 23.** W przypadku posiadania przez jednostkę Narodowej oraz ministra właściwego spraw webadawczą lub jednostkę certyfikującą akredytacji Pol- wnętrznych organu prowadzącego ich imieniu nadskiego Centrum Akredytacji, organ nadzorujący jed- zór nad działalnością jednostek badawczych oraz jednostki badawcze i jednostki certyfikujące może odstą- nostek certyfikujących odpowiednio wzakresie obron2) certyfikacją jednostka badawcza lub jednostka certyfikująca pobiera opłaty. 2. Opłaty uiszcza dostawca. 3. Opłaty związane zbadaniami na potrzeby oceny zgodności i certyfikacją różnicuje się odpowiednio rodzaju i zakresu wykonywanych czynności. 4. Podstawę określenia wysokości opłat, o których mowa ust. 3, stanowią szczególności:
 
-**Art. 27.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu dzia∏alnoÊci gospodarczej zakresie wytwarzania i obrotu materia∏ami wybuchowymi, bronià, amunicjà oraz wyrobami i technologià o przeznaczeniu wojskowym lub policyjnym (Dz. U. 67, poz. 679, z póên. zm. da 2006 r. o systemie oceny zgodnoÊci wyrobów przeznaczonych na potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa (Dz. U. 235, poz. 1700).”.
+#### Rozdział 6 Zmiany przepisach obowiązujących
 
-**Art. 28.** Wustawie zdnia 30 sierpnia 2002 r. osystemie oceny zgodnoÊci (Dz. U. z 2004 r. 204, poz. 2087, z 2005 r. 64, poz. 565 i 267, poz. 2258 oraz z 2006 r. 170, poz. 1217) art. 1 po ust. 2 dodaje si´ ust. 2a brzmieniu: „2a. Przepisów ustawy nie stosuje si´ wyrobów przeznaczonych na potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa, rozumieniu ustawy z dnia 17 listopada 2006 r. o systemie oceny ) wprowadza si´ nast´pujàce zmiany:
+**Art. 27.** W ustawie z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. 67, poz. 679, z póên. zm. da 2006 r. o systemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. 235, poz. 1700).”.
 
-**Art. 29.** Wustawie zdnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. 171, poz. 1800, z póên. zm. ) po art. 152 dodaje si´ art. 152a brzmieniu: „Art. 152a. Do wymagaƒ dla aparatury, wtym telekomunikacyjnych urzàdzeƒ koƒcowych iurzàdzeƒ radiowych, przeznaczonych na potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa, stosuje si´ przepisy ustawy zdnia 17 listopada 2006 r. osystemie oceny zgodnoÊci wyrobów przeznaczonych na potrzeby obronnoÊci i bezpieczeƒstwa paƒstwa (Dz. U. 235, poz. 1700).”. Rozdzia∏ 7 Przepisy przejÊciowe i koƒcowe
+**Art. 28.** Wustawie zdnia 30 sierpnia 2002 r. osystemie oceny zgodności (Dz. U. z 2004 r. 204, poz. 2087, z 2005 r. 64, poz. 565 i 267, poz. 2258 oraz z 2006 r. 170, poz. 1217) art. 1 po ust. 2 dodaje się ust. 2a brzmieniu: Ń2a. Przepisów ustawy nie stosuje się wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa, rozumieniu ustawy z dnia 17 listopada 2006 r. o systemie oceny ) wprowadza się następujące zmiany:
 
-**Art. 30.** Certyfikaty zgodnoÊci oraz inne dokumenty potwierdzajàce przeprowadzenie oceny zgodnoÊci wydane przed dniem wejÊcia ˝ycie ustawy zachowujà moc dnia, którym up∏ywa ich termin wa˝noÊci, jednak nie d∏u˝ej ni˝ dnia 31 grudnia 2007 r.
+**Art. 29.** Wustawie zdnia 16 lipca 2004 r. Prawo telekomunikacyjne (Dz. U. 171, poz. 1800, z póên. zm. ) po art. 152 dodaje się art. 152a brzmieniu: ŃArt. 152a. Do wymagań dla aparatury, wtym telekomunikacyjnych urządzeń końcowych iurządzeń radiowych, przeznaczonych na potrzeby obronności i bezpieczeństwa państwa, stosuje się przepisy ustawy zdnia 17 listopada 2006 r. osystemie oceny zgodności wyrobów przeznaczonych na potrzeby obronności i bezpieczeństwa państwa (Dz. U. 235, poz. 1700).”.
 
-**Art. 31.** Ustawy nie stosuje si´ cz´Êci zamiennych wyrobów, które zosta∏y wprowadzone u˝ytku przed dniem wejÊcia ˝ycie ustawy.
+#### Rozdział 7 Przepisy przejściowe i końcowe
 
-**Art. 32.** Ustawa wchodzi ˝ycie z dniem 1 stycznia 2007 r., z wyjàtkiem rozdzia∏u 3, którego przepisy wchodzà ˝ycie po up∏ywie 14 dni od dnia og∏oszenia. ——————— Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski ———————
+**Art. 30.** Certyfikaty zgodności oraz inne dokumenty potwierdzające przeprowadzenie oceny zgodności wydane przed dniem wejścia życie ustawy zachowują moc dnia, którym upływa ich termin ważności, jednak nie dłużej niż dnia 31 grudnia 2007 r.
+
+**Art. 31.** Ustawy nie stosuje się części zamiennych wyrobów, które zostały wprowadzone użytku przed dniem wejścia życie ustawy.
+
+**Art. 32.** Ustawa wchodzi życie z dniem 1 stycznia 2007 r., z wyjątkiem rozdziału 3, którego przepisy wchodzą życie po upływie 14 dni od dnia ogłoszenia. ——————— Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ———————
 

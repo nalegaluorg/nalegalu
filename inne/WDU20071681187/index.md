@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# oznaczenie tytu∏u wykonawczego wierzyciela oraz kwot´ wierzytelnoÊci przypadku wierzytelnoÊci pieni´˝nych lub opis wierzytelnoÊci przypadku wierzytelnoÊci niepieni´˝nych;
+# oznaczenie tytułu wykonawczego wierzyciela oraz kwotę wierzytelności przypadku wierzytelności pieniężnych lub opis wierzytelności przypadku wierzytelności niepieniężnych;
 
 | Pole | Wartość |
 |---|---|
@@ -24,29 +24,33 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071681187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1187/text.pdf) |
 
-przypadku wierzytelnoÊci solidarnych ujawnieniu rejestrze podlega jedynie wierzyciel wnoszàcy odokonanie wpisu zoznaczeniem, ˝e jest to wierzytelnoÊç wynikajàca zzobowiàzania solidarnego;
-3) dat´ wpisu oraz dat´ z∏o˝enia wniosku o wpis, je˝eli wpisu dokonano na wniosek.
-2. Je˝eli osoba, ró˝nych przyczyn, podlega obowiàzkowi wpisu dwa lub wi´cej razy, dane, o których mowa ust. 1, zamieszcza si´ osobno przypadku ka˝dego wpisu.
+przypadku wierzytelności solidarnych ujawnieniu rejestrze podlega jedynie wierzyciel wnoszący odokonanie wpisu zoznaczeniem, że jest to wierzytelność wynikająca zzobowiązania solidarnego;
+3) datę wpisu oraz datę złożenia wniosku o wpis, jeżeli wpisu dokonano na wniosek.
+2. Jeżeli osoba, różnych przyczyn, podlega obowiązkowi wpisu dwa lub więcej razy, dane, o których mowa ust. 1, zamieszcza się osobno przypadku każdego wpisu.
+Art. 61—85. (pominięte).
+Wpisy dokonane wrejestrze dłużników niewypłacalnych podlegają wykreśleniu urzędu po upływie 10 lat od dokonania wpisu. Jeżeli worzeczeniu
 
-**Art. 58.** Wpisy rejestrze d∏u˝ników niewyp∏acalnych nie podlegajà obowiàzkowi og∏oszenia Monitorze Sàdowym Gospodarczym.
+**Art. 58.** Wpisy rejestrze dłużników niewypłacalnych nie podlegają obowiązkowi ogłoszenia Monitorze Sądowym Gospodarczym.
 
 **Art. 59.**
 
-1. Sàd rejestrowy urz´du wykreÊla wpisy zrejestru d∏u˝ników niewyp∏acalnych wrazie uchylenia lub zmiany postanowienia, na którego podstawie wpisy by∏y dokonane. Wpisy te nie podlegajà ujawnieniu.
+1. Sąd rejestrowy urzędu wykreśla wpisy zrejestru dłużników niewypłacalnych wrazie uchylenia lub zmiany postanowienia, na którego podstawie wpisy były dokonane. Wpisy te nie podlegają ujawnieniu.
 
-2. Sàd rejestrowy urz´du dokonuje wykreÊlenia wpisów, gdy uchylono orzeczenie o og∏oszeniu upad∏oÊci, albo na wniosek osoby wpisanej do rejestru d∏u˝ników niewyp∏acalnych, gdy tytu∏ wykonawczy, który stanowi∏ podstaw´ wpisu, zosta∏ prawomocnym orzeczeniem sàdu pozbawiony wykonalnoÊci.
+2. Sąd rejestrowy urzędu dokonuje wykreślenia wpisów, gdy uchylono orzeczenie o ogłoszeniu upadłości, albo na wniosek osoby wpisanej do rejestru dłużników niewypłacalnych, gdy tytuł wykonawczy, który stanowił podstawę wpisu, został prawomocnym orzeczeniem sądu pozbawiony wykonalności.
 
-3. Wpisy wykreÊlone wca∏oÊci nie podlegajà ujawnieniu.
+3. Wpisy wykreślone wcałości nie podlegają ujawnieniu.
 
 **Art. 60.**
 
-1. 86) treÊç wpisów tym rejestrze, uwzgl´dniajàc koniecznoÊç zapewnienia kompletnoÊci przejrzystoÊci danych zawartych rejestrze. Rozdzia∏ 5 Zmiany przepisach obowiàzujàcych przepisy koƒcowe Art. 61—85. (pomini´te). Wpisy dokonane wrejestrze d∏u˝ników niewyp∏acalnych podlegajà wykreÊleniu urz´du po up∏ywie 10 lat od dokonania wpisu. Je˝eli worzeczeniu
+1. 86) treść wpisów tym rejestrze, uwzględniając konieczność zapewnienia kompletności przejrzystości danych zawartych rejestrze.
+
+#### Rozdział 5 Zmiany przepisach obowiązujących przepisy końcowe
 
 **Art. 86.**
 
-- **88)** Ilekroç przepisach ustaw innych ni˝ wymienione niniejszym rozdziale jest mowa o rejestrach: handlowym, przedsi´biorstw paƒstwowych, stowarzyszeƒ, fundacji, rozumie si´ przez to Krajowy Rejestr Sàdowy.
+- **88)** Ilekroć przepisach ustaw innych niż wymienione niniejszym rozdziale jest mowa o rejestrach: handlowym, przedsiębiorstw państwowych, stowarzyszeń, fundacji, rozumie się przez to Krajowy Rejestr Sądowy.
 
-**Art. 87.** (pomini´ty).
+**Art. 87.** (pominięty).
 
-**Art. 88.** Ustawa wchodzi w˝ycie wterminie ina zasadach okreÊlonych ustawà Przepisy wprowadzajàce ustaw´ oKrajowym Rejestrze Sàdowym , zwyjàtkiem:
+**Art. 88.** Ustawa wchodzi wżycie wterminie ina zasadach określonych ustawą Przepisy wprowadzające ustawę oKrajowym Rejestrze Sądowym , zwyjątkiem:
 

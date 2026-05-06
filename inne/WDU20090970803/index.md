@@ -24,106 +24,106 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090970803) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/803/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 29 sierpnia 1997 ostra˝ach gminnych (Dz. U. 123, 779, z 2002 113, 984, z 2003 130, 1190 oraz z2008 223, 1458) wprowadza nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 29 sierpnia 1997 ostrażach gminnych (Dz. U. 123, 779, 2002 113, 984, 2003 130, 1190 oraz z2008 223, 1458) wprowadza następujące zmiany:
 
-**Art. 4.** Rada gminy mo˝e rozwiàzaç stra˝ po zasi´gni´ciu opinii w∏aÊciwego terytorialnie „Art. 9. 1. Nadzór nad dzia∏alnoÊcià stra˝y sprakomendanta wojewódzkiego (Sto∏eczne- wuje wójt, burmistrz (prezydent miago) Policji, oczym zawiadamia wojewod´. sta). W przypadku nieotrzymania opinii, rada 2. Nadzór nad dzia∏alnoÊcià stra˝y zagminy mo˝e rozwiàzaç stra˝ po up∏ywie kresie: 14 dni od dnia przedstawienia wniosku owydanie opinii. 1) wykonywania uprawnieƒ, których mowa wart. 12,
+**Art. 4.** Rada gminy może rozwiązać straż po zasięgnięciu opinii właściwego terytorialnie ŃArt. 9. 1. Nadzór nad działalnością straży sprakomendanta wojewódzkiego (Stołeczne- wuje wójt, burmistrz (prezydent miago) Policji, oczym zawiadamia wojewodę. sta). W przypadku nieotrzymania opinii, rada 2. Nadzór nad działalnością straży zagminy może rozwiązać straż po upływie kresie: 14 dni od dnia przedstawienia wniosku owydanie opinii. 1) wykonywania uprawnień, których mowa wart. 12,
 
-**Art. 5.** Koszty zwiàzane z funkcjonowaniem stra˝y sà pokrywane zbud˝etu gminy.”; 2) u˝ycia broni palnej bojowej oraz Êrodków przymusu bezpoÊredniego,
+**Art. 5.** Koszty związane funkcjonowaniem straży są pokrywane zbudżetu gminy.”; 2) użycia broni palnej bojowej oraz środków przymusu bezpośredniego,
 
 **Art. 14b.**
 
-1. Kajdanki mo˝na stosowaç wobec osób uj´tych oraz podczas wykonywania zadaƒ, których mowa wart. 11 ust. 1 pkt 7 wcelu:
+1. Kajdanki można stosować wobec osób ujętych oraz podczas wykonywania zadań, których mowa wart. 11 ust. 1 pkt 7 wcelu:
 
-- **1)** udaremnienia ucieczki osoby uj´tej lub osoby mogàcej stwarzaç swym zachowaniem zagro˝enie dla ˝ycia, zdrowia lub mienia,
-- **2)** zapobie˝enia czynnej napaÊci lub czynnemu oporowi.
+- **1)** udaremnienia ucieczki osoby ujętej lub osoby mogącej stwarzać swym zachowaniem zagrożenie dla życia, zdrowia lub mienia,
+- **2)** zapobieżenia czynnej napaści lub czynnemu oporowi.
 
-2. Kajdanki zak∏ada na r´ce trzymane z przodu, a osobom zachowujà).
+2. Kajdanki zakłada na ręce trzymane przodu, a osobom zachowują).
 
 **Art. 14c.**
 
-1. Pa∏ka obronna wielofunkcyjna mo˝e byç stosowana wprzypadku:
+1. Pałka obronna wielofunkcyjna może być stosowana wprzypadku:
 
-- **1)** odpierania czynnej napaÊci,
-- **2)** pokonywania czynnego biernego oporu,
-- **3)** przeciwdzia∏ania niszczeniu lub kradzie˝y mienia.
+- **1)** odpierania czynnej napaści,
+- **2)** pokonywania czynnego i biernego oporu,
+- **3)** przeciwdziałania niszczeniu lub kradzieży mienia.
 
-2. Nie zadaje si´:
+2. Nie zadaje się:
 
-- **1)** uderzeƒ pchni´ç pa∏kà obronnà wielofunkcyjnà g∏ow´, szyj´, brzuch inieumi´Ênione oraz szczególnie wra˝liwe cz´Êci cia∏a, a tak˝e nie stosuje na te cz´Êci cia∏a blokady inie zak∏ada dêwigni,
-- **2)** uderzeƒ r´kojeÊcià pa∏ki obronnej wielofunkcyjnej,
-- **3)** uderzeƒ pchni´ç pa∏kà obronnà wielofunkcyjnà wobec osób, którym za∏o˝ono kajdanki, które stawiajà bierny opór lub wobec osób, które obezw∏adniono paralizatorem elektrycznym. Wolno zadawaç uderzenia pa∏kà obronnà wielofunkcyjnà we wszystkie cz´Êci cia∏a celu odparcia bezpoÊredniego, bezprawnego zamachu na ˝ycie lub zdrowie.
+- **1)** uderzeń i pchnięć pałką obronną wielofunkcyjną głowę, szyję, brzuch inieumięśnione oraz szczególnie wrażliwe części ciała, a także nie stosuje na te części ciała blokady inie zakłada dêwigni,
+- **2)** uderzeń rękojeścią pałki obronnej wielofunkcyjnej,
+- **3)** uderzeń i pchnięć pałką obronną wielofunkcyjną wobec osób, którym założono kajdanki, które stawiają bierny opór lub wobec osób, które obezwładniono paralizatorem elektrycznym. Wolno zadawać uderzenia pałką obronną wielofunkcyjną we wszystkie części ciała celu odparcia bezpośredniego, bezprawnego zamachu na życie lub zdrowie.
 
 **Art. 14d.**
 
-1. Pies s∏u˝bowy mo˝e byç u˝yty wprzypadku:
+1. Pies służbowy może być użyty wprzypadku:
 
-- **1)** odpierania czynnej napaÊci,
+- **1)** odpierania czynnej napaści,
 - **2)** pokonywania czynnego oporu,
-- **3)** poÊcigu za osobà podejrzanà pope∏nienie przest´pstwa oraz udaremnienia jej ucieczki. ———————
+- **3)** pościgu za osobą podejrzaną popełnienie przestępstwa oraz udaremnienia jej ucieczki. ———————
 
-**Art. 14e.** Koƒ s∏u˝bowy mo˝e byç u˝yty przypadku:
+**Art. 14e.** Koń służbowy może być użyty przypadku:
 
 **Art. 14f.**
 
-1. Przedmioty, których mowa wart.14 ust. 2 pkt 5 i6, oraz r´czne miotacze gazu mo˝na stosowaç wprzypadku:
+1. Przedmioty, których mowa wart.14 ust. 2 pkt 5 i6, oraz ręczne miotacze gazu można stosować wprzypadku:
 
-- **1)** odpierania czynnej napaÊci,
-- **2)** bezpoÊredniego poÊcigu za osobà podejrzanà pope∏nienie przest´pstwa lub wykroczenia,
-- **3)** przeciwdzia∏ania niszczeniu lub kradzie˝y mienia,
-- **4)** dokonywania uj´cia osoby,
-- **5)** udaremnienia ucieczki osoby uj´tej.
+- **1)** odpierania czynnej napaści,
+- **2)** bezpośredniego pościgu za osobą podejrzaną popełnienie przestępstwa lub wykroczenia,
+- **3)** przeciwdziałania niszczeniu lub kradzieży mienia,
+- **4)** dokonywania ujęcia osoby,
+- **5)** udaremnienia ucieczki osoby ujętej.
 
-2. Przedmiotów przeznaczonych do obezw∏adniania osób za pomocà energii elektrycznej u˝ywa zgodnie z instrukcjà obs∏ugi opracowanà przez producenta, na umi´Ênione cz´Êci cia∏a, z wy∏àczeniem klatki piersiowej okolicy serca iokolic stawów kostnych. Czas u˝ycia przedmiotu przeznawinny byç stosowane wsposób mo˝liwie najmniej naruszajàcy dobra osobiste osoby, wstosunku do której zosta∏y zastosowane. Ârodki przymusu bezpoÊredniego mogà byç stosowane po uprzednim wezwaniu do zachowania zgodnego z prawem oraz po bezskutecznym uprzedzeniu oich u˝yciu.
+2. Przedmiotów przeznaczonych do obezwładniania osób za pomocą energii elektrycznej używa zgodnie instrukcją obsługi opracowaną przez producenta, na umięśnione części ciała, wyłączeniem klatki piersiowej okolicy serca iokolic stawów kostnych. Czas użycia przedmiotu przeznawinny być stosowane wsposób możliwie najmniej naruszający dobra osobiste osoby, wstosunku do której zostały zastosowane. Ârodki przymusu bezpośredniego mogą być stosowane po uprzednim wezwaniu do zachowania zgodnego prawem oraz po bezskutecznym uprzedzeniu oich użyciu.
 
-4. Stra˝nik mo˝e odstàpiç od wzywania do zachowania zgodnego z prawem oraz od uprzedzenia u˝yciu Êrodków przymusu bezpoÊredniego, je˝eli zw∏oka grozi∏aby niebezpieczeƒstwem dla ˝ycia lub zdrowia, a tak˝e mienia.
+4. Strażnik może odstąpić od wzywania do zachowania zgodnego prawem oraz od uprzedzenia użyciu środków przymusu bezpośredniego, jeżeli zwłoka groziłaby niebezpieczeństwem dla życia lub zdrowia, a także mienia.
 
-5. Od dalszego stosowania Êrodków przymusu bezpoÊredniego odst´puje si´, gdy osoba, wobec której u˝yto tych Êrodków, podporzàdkowa∏a wydanym poleceniom.
+5. Od dalszego stosowania środków przymusu bezpośredniego odstępuje się, gdy osoba, wobec której użyto tych środków, podporządkowała wydanym poleceniom.
 
-6. Mo˝na stosowaç jednoczeÊnie ró˝ne Êrodki przymusu bezpoÊredniego, je˝eli jest to konieczne do osiàgni´cia podporzàdkowania wydanym poleceniom.
+6. Można stosować jednocześnie różne środki przymusu bezpośredniego, jeżeli jest to konieczne do osiągnięcia podporządkowania wydanym poleceniom.
 
-7. Wobec kobiet widocznej cià˝y, osób, których wyglàd wskazuje na wiek do 13 lat, osób podesz∏ym wieku oraz widocznej niepe∏nosprawnoÊci mo˝na stosowaç tylko si∏´ fizycznà wpostaci chwytów obezw∏adniajàcych.
+7. Wobec kobiet widocznej ciąży, osób, których wygląd wskazuje na wiek do 13 lat, osób podeszłym wieku oraz widocznej niepełnosprawności można stosować tylko siłę fizyczną wpostaci chwytów obezwładniających.
 
-8. Je˝eli wskutek u˝ycia Êrodka przymuczonego do obezw∏adniania osób su bezpoÊredniego nastàpi∏o pogorza pomocà energii elektrycznej wynosi oko∏o sekundy. szenie stanu zdrowia osoby, stra˝nik jest obowiàzany niezw∏ocznie udzieliç
+8. Jeżeli wskutek użycia środka przymuczonego do obezwładniania osób su bezpośredniego nastąpiło pogorza pomocą energii elektrycznej wynosi około sekundy. szenie stanu zdrowia osoby, strażnik jest obowiązany niezwłocznie udzielić
 
-4. R´cznego miotacza gazu u˝ywa tej osobie pierwszej pomocy, a razgodnie z instrukcjà obs∏ugi opra- zie potrzeby lub na jej proÊb´ zacowanà przez producenta, przy pewniç pomoc lekarskà. czym wylot dyszy r´cznego miotacza gazu powinien byç skierowany Art. 14h. Rada Ministrów okreÊli, drodze rozponi˝ej twarzy osoby, stosunku porzàdzenia, sposób dokumentowania do której jest u˝ywany, oraz powi- faktu u˝ycia Êrodków przymusu bezponien znajdowaç przynajmniej Êredniego oraz zakres udzielania pierw2) przedmioty przeznaczone do obezw∏adniania osób za pomocà energii elektrycznej, októrych mowa wart. 14 ust. 2 pkt 5.”;
+4. Ręcznego miotacza gazu używa tej osobie pierwszej pomocy, a razgodnie instrukcją obsługi opra- zie potrzeby lub na jej prośbę zacowaną przez producenta, przy pewnić pomoc lekarską. czym wylot dyszy ręcznego miotacza gazu powinien być skierowany Art. 14h. Rada Ministrów określi, drodze rozponiżej twarzy osoby, stosunku porządzenia, sposób dokumentowania do której jest używany, oraz powi- faktu użycia środków przymusu bezponien znajdować przynajmniej średniego oraz zakres udzielania pierw2) przedmioty przeznaczone do obezwładniania osób za pomocą energii elektrycznej, októrych mowa wart. 14 ust. 2 pkt 5.”;
 
-- **17)** art. 16 „Art. 16. 1. Dopuszczenie stra˝nika do wykonywania zadaƒ z bronià palnà bojowà przedmiotem przeznaczonym do obezw∏adniania osób za pomocà energii elektrycznej, którym mowa art. 14 ust. 2 pkt 5, nast´puje na wniosek komendanta stra˝y, drodze decyzji administracyjnej, wydanej przez w∏aÊciwy organ Policji.
+- **17)** art. 16 ŃArt. 16. 1. Dopuszczenie strażnika do wykonywania zadań bronią palną bojową i przedmiotem przeznaczonym do obezwładniania osób za pomocą energii elektrycznej, którym mowa art. 14 ust. 2 pkt 5, następuje na wniosek komendanta straży, drodze decyzji administracyjnej, wydanej przez właściwy organ Policji.
 
-2. W zakresie zasad dopuszczenia stra˝nika do posiadania broni palnej bojowej przedmiotu przeznaczonego do obezw∏adniania osób za pomocà energii elektrycznej, którym mowa wart.14 ust. 2 pkt 5, stosuje odpowiednio przepisy art. 30 ustawy zdnia 21 maja 1999 obroni iamunicji.”;
+2. W zakresie zasad dopuszczenia strażnika do posiadania broni palnej bojowej i przedmiotu przeznaczonego do obezwładniania osób za pomocą energii elektrycznej, którym mowa wart.14 ust. 2 pkt 5, stosuje odpowiednio przepisy art. 30 ustawy zdnia 21 maja 1999 obroni iamunicji.”;
 
-- **18)** wart. 24 pkt 7 „7) nie by∏a skazana prawomocnym wyrokiem sàdu za Êcigane z oskar˝enia publicznego umyÊlnie pope∏nione przest´pstwo lub przest´pstwo skarbowe,”;
-- **19)** art. 24aotrzymuje „Art. 24a. 1. Stra˝nicy oraz osoby ubiegajàce przyj´cie do pracy charakterze stra˝nika podlegajà obowiàzkowym badaniom lekarskim psychologicznym.
+- **18)** wart. 24 pkt 7 Ń7) nie była skazana prawomocnym wyrokiem sądu za ścigane oskarżenia publicznego i umyślnie popełnione przestępstwo lub przestępstwo skarbowe,”;
+- **19)** art. 24aotrzymuje ŃArt. 24a. 1. Strażnicy oraz osoby ubiegające przyjęcie do pracy charakterze strażnika podlegają obowiązkowym badaniom lekarskim i psychologicznym.
 
-2. Do przeprowadzania badaƒ lekarskich stosuje odpowiednio art. 229 ustawy z dnia 26 czerwca 1974 Kodeks pracy (Dz. U. z1998r. 21, 94, zpóên. zm. gicznych, uwzgl´dniajàc potrzeb´ prawid∏owego stwierdzenia przez psychologa istnienia lub braku przeciwwskazaƒ psychologicznych do wykonywania czynnoÊci stra˝nika.”;
+2. Do przeprowadzania badań lekarskich stosuje odpowiednio art. 229 ustawy dnia 26 czerwca 1974 Kodeks pracy (Dz. U. z1998r. 21, 94, zpóên. zm. gicznych, uwzględniając potrzebę prawidłowego stwierdzenia przez psychologa istnienia lub braku przeciwwskazań psychologicznych do wykonywania czynności strażnika.”;
 
-- **20)** art. 25 „Art. 25. 1. Stra˝nika zatrudnia po raz pierwszy na czas okreÊlony nie d∏u˝szy ni˝ 12 miesi´cy, ramach którego odbywa szkolenie podstawowe.
+- **20)** art. 25 ŃArt. 25. 1. Strażnika zatrudnia po raz pierwszy na czas określony nie dłuższy niż 12 miesięcy, ramach którego odbywa szkolenie podstawowe.
 
-2. Szkolenie podstawowe koƒczy egzaminem, który przeprowadza komisja egzaminacyjna powo∏ywana przez w∏aÊciwego terytorialnie komendanta wojewódzkiego (Sto∏ecznego) Policji. ). Cz∏onkowie komisji powinni posiadaç wiedz´, umiej´tnoÊci doÊwiadczenie zakresie wynikajàcym z programu szkolenia podstawowego. Po ukoƒczeniu z wynikiem pozytywnym szkolenia podstawowego, stra˝nika mo˝na zatrudniç na czas okreÊlony nie d∏u˝szy ni˝ 3 lata albo na czas nieokreÊlony.
+2. Szkolenie podstawowe kończy egzaminem, który przeprowadza komisja egzaminacyjna powoływana przez właściwego terytorialnie komendanta wojewódzkiego (Stołecznego) Policji. ). Członkowie komisji powinni posiadać wiedzę, umiejętności i doświadczenie zakresie wynikającym programu szkolenia podstawowego. Po ukończeniu wynikiem pozytywnym szkolenia podstawowego, strażnika można zatrudnić na czas określony nie dłuższy niż 3 lata albo na czas nieokreślony.
 
-4. Wuzasadnionych przypadkach mo˝na odstàpiç od zatrudnienia stra˝nika na czas okreÊlony, je˝eli posiada on odpowiednie przygotowanie do pracy wstra˝y.
+4. Wuzasadnionych przypadkach można odstąpić od zatrudnienia strażnika na czas określony, jeżeli posiada on odpowiednie przygotowanie do pracy wstraży.
 
-5. Minister w∏aÊciwy do spraw wewn´trznych okreÊli, wdrodze rozporzàdzenia, minimalny zakres programu szkolenia podstawowego stra˝ników gminnych, warunki izakres udzia∏u Policji wszkoleniu podstawowym, sposób powo∏ywania, sk∏ad itryb dzia∏ania komisji egzaminacyjnych, obowiàzki przewodniczàcego komisji, form´ egzaminu oraz organ w∏aÊciwy do wydania Êwiadectwa z∏o˝enia egzaminu iwzór Êwiadectwa. Rozporzàdzenie powinno uwzgl´dniaç potrzeb´ zapewnienia odpowiedniego poziomu wyszkolenia stra˝ników jednolitoÊci minimum programowego, formy szkolenia, zakres wiedzy teoretycznej ipraktyki niezb´dnej do wykonywania obowiàzków stra˝nika oraz poprawnoÊç przebiegu irzetelnoÊç oceny egzaminowanych.”;
+5. Minister właściwy do spraw wewnętrznych określi, wdrodze rozporządzenia, minimalny zakres programu szkolenia podstawowego strażników gminnych, warunki izakres udziału Policji wszkoleniu podstawowym, sposób powoływania, skład itryb działania komisji egzaminacyjnych, obowiązki przewodniczącego komisji, formę egzaminu oraz organ właściwy do wydania świadectwa złożenia egzaminu iwzór świadectwa. Rozporządzenie powinno uwzględniać potrzebę zapewnienia odpowiedniego poziomu wyszkolenia strażników i jednolitości minimum programowego, formy szkolenia, zakres wiedzy teoretycznej ipraktyki niezbędnej do wykonywania obowiązków strażnika oraz poprawność przebiegu irzetelność oceny egzaminowanych.”;
 
-- **21)** po art. 26 dodaje art. 26awbrzmieniu: „Art. 26a. 1. Stra˝nika zawiesza pe∏nieniu ——————— nia lub dobro pracy na czas nie d∏u˝szy ni˝ 3 miesiàce. W uzasadnionych przypadkach okres zawieszenia wpe∏nieniu obowiàzków pracowniczych mo˝na przed∏u˝yç na dalszy okres, nie d∏u˝ej jednak ni˝ do czasu ukoƒczenia post´powania karnego za przest´pstwo lub przest´pstwo skarbowe.
+- **21)** po art. 26 dodaje art. 26awbrzmieniu: ŃArt. 26a. 1. Strażnika zawiesza pełnieniu ——————— nia lub dobro pracy na czas nie dłuższy niż 3 miesiące. W uzasadnionych przypadkach okres zawieszenia wpełnieniu obowiązków pracowniczych można przedłużyć na dalszy okres, nie dłużej jednak niż do czasu ukończenia postępowania karnego za przestępstwo lub przestępstwo skarbowe.
 
-4. Stra˝nikowi zawieszonemu pe∏nieniu obowiàzków pracowniczych, od najbli˝szego terminu wyp∏aty wynagrodzenia za prac´ przys∏uguje wynagrodzenie wysokoÊci 50 % jego wynagrodzenia zasadniczego oraz dodatków do wynagrodzenia okreÊlonych umowie prac´ sta∏ej wysokoÊci.
+4. Strażnikowi zawieszonemu pełnieniu obowiązków pracowniczych, od najbliższego terminu wypłaty wynagrodzenia za pracę przysługuje wynagrodzenie wysokości 50 % jego wynagrodzenia zasadniczego oraz dodatków do wynagrodzenia określonych umowie pracę stałej wysokości.
 
-5. Po up∏ywie okresu, na jaki stra˝nik zosta∏ zawieszony wpe∏nieniu obowiàzków pracowniczych, stra˝nikowi wyp∏aca nale˝ne wynagrodzenie za okres zawieszenia oraz obligatoryjne podwy˝ki wynagrodzenia tym okresie, przypadku umorzenia post´powania karnego za przest´pstwo lub przest´pstwo skarbowe lub uniewinnienia prawomocnym wyrokiem sàdu.
+5. Po upływie okresu, na jaki strażnik został zawieszony wpełnieniu obowiązków pracowniczych, strażnikowi wypłaca należne wynagrodzenie za okres zawieszenia oraz obligatoryjne podwyżki wynagrodzenia tym okresie, przypadku umorzenia postępowania karnego za przestępstwo lub przestępstwo skarbowe lub uniewinnienia prawomocnym wyrokiem sądu.
 
-6. Przepisu ust. 5 nie stosuje wprzypadku warunkowego umorzenia post´powania karnego.”;
+6. Przepisu ust. 5 nie stosuje wprzypadku warunkowego umorzenia postępowania karnego.”;
 
-- **22)** wart. 29 wust. 1 pkt 3 „3) przeniesienie na wy˝sze stanowisko,”;
-- **23)** po art. 29 dodaje art. 29awbrzmieniu: „Art. 29a. 1. Obowiàzki pracownicze stra˝nika powinny byç ustalone wsposób pozwalajàcy na ich wykonanie ramach przeci´tnie 40 godzin przeci´tnie pi´ciodniowym tygodniu pracy 4-miesi´cznym okresie rozliczeniowym.
+- **22)** wart. 29 wust. 1 pkt 3 Ń3) przeniesienie na wyższe stanowisko,”;
+- **23)** po art. 29 dodaje art. 29awbrzmieniu: ŃArt. 29a. 1. Obowiązki pracownicze strażnika powinny być ustalone wsposób pozwalający na ich wykonanie ramach przeciętnie 40 godzin przeciętnie pięciodniowym tygodniu pracy 4-miesięcznym okresie rozliczeniowym.
 
-2. Tygodniowy czas pracy stra˝nika, ∏àcznie z pracà godzinach nadliczbowych, nie mo˝e przekraczaç przeci´tnie 48 godzin 4-miesi´cznym okresie rozliczeniowym. rakterze terrorystycznym.
+2. Tygodniowy czas pracy strażnika, łącznie pracą godzinach nadliczbowych, nie może przekraczać przeciętnie 48 godzin 4-miesięcznym okresie rozliczeniowym. rakterze terrorystycznym.
 
-5. W zamian za czas przepracowany godzinach nadliczbowych stra˝nikowi przys∏uguje tym samym wymiarze, okresie rozliczeniowym, czas wolny od pracy albo mo˝e mu zostaç przyznany dodatek do wynagrodzenia.
+5. W zamian za czas przepracowany godzinach nadliczbowych strażnikowi przysługuje tym samym wymiarze, okresie rozliczeniowym, czas wolny od pracy albo może mu zostać przyznany dodatek do wynagrodzenia.
 
-6. W przypadku naruszenia prawa do odpoczynku, októrym mowa wust. 3, sytuacjach wskazanych ust. 4 stra˝nikowi przys∏uguje, okresie rozliczeniowym, równowa˝ny okres odpoczynku.”.
+6. W przypadku naruszenia prawa do odpoczynku, októrym mowa wust. 3, sytuacjach wskazanych ust. 4 strażnikowi przysługuje, okresie rozliczeniowym, równoważny okres odpoczynku.”.
 
-**Art. 2.** Wustawie zdnia 6 kwietnia 1990 oPolicji (Dz. U. z2007 43, 277, zpóên. zm. ) wart. 1 wust. 2 pkt 5 „5) nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi zakresie okreÊlonym wodr´bnych przepisach;”. Art. Wustawie zdnia 20 czerwca 1997 Prawo ruchu drogowym (Dz. U. z 2005 108, 908, z póên. zm. ) art. 53 ust. 1 po pkt 10b dodaje pkt 10cwbrzmieniu: „10c) stra˝y gminnych (miejskich);”.
+**Art. 2.** Wustawie zdnia 6 kwietnia 1990 oPolicji (Dz. U. z2007 43, 277, zpóên. zm. ) wart. 1 wust. 2 pkt 5 Ń5) nadzór nad specjalistycznymi uzbrojonymi formacjami ochronnymi zakresie określonym wodrębnych przepisach;”. Art. Wustawie zdnia 20 czerwca 1997 Prawo ruchu drogowym (Dz. U. 2005 108, 908, póên. zm. ) art. 53 ust. 1 po pkt 10b dodaje pkt 10cwbrzmieniu: Ń10c) straży gminnych (miejskich);”.
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 9 ust. 2, art. 12 ust. 2, art. 14 ust.5, art. 24aust. 2 iart. 25 ust. 4 ustawy, októrej mowa art. 1, zachowujà moc do czasu wejÊcia ˝ycie przepisów wykonawczych wydanych na podstawie art. 9 ust. 6, art. 9 ust. 7, art. 11 ust. 3, art. 12 ust. 2, art. 14h, art. 24a ust. 3 art. 25 ust. 5 ustawy, której mowa art. 1, brzmieniu nadanym niniejszà ustawà, nie d∏u˝ej jednak ni˝ przez okres 6 miesi´cy.
+**Art. 4.** Dotychczasowe przepisy wykonawcze, wydane na podstawie art. 9 ust. 2, art. 12 ust. 2, art. 14 ust.5, art. 24aust. 2 iart. 25 ust. 4 ustawy, októrej mowa art. 1, zachowują moc do czasu wejścia życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 6, art. 9 ust. 7, art. 11 ust. 3, art. 12 ust. 2, art. 14h, art. 24a ust. 3 i art. 25 ust. 5 ustawy, której mowa art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy.
 
-**Art. 5.** Ustawa wchodzi w˝ycie po up∏ywie 6 miesi´cy od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski ———————
+**Art. 5.** Ustawa wchodzi wżycie po upływie 6 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ———————
 

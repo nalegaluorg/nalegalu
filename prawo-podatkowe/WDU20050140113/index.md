@@ -24,13 +24,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050140113) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/113/text.pdf) |
 
-**Art. 1.** W ustawie dnia 11 marca 2004 o podatku od towarów us∏ug (Dz. U. 54, 535) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie dnia 11 marca 2004 o podatku od towarów usług (Dz. U. 54, 535) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie dnia 13 paêdziernika 1995 ozasadach ewidencji iidentyfikacji podatników ip∏atników (Dz. U. 2004 269, 2681) wart. 9 ust. 2 otrzymuje brzmienie: Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 114 USTAWA dnia 17 grudnia 2004 o odpowiedzialnoÊci za naruszenie dyscypliny finansów publicznych DZIA¸ I Przepisy ogólne
+**Art. 2.** W ustawie dnia 13 paêdziernika 1995 ozasadach ewidencji iidentyfikacji podatników ipłatników (Dz. U. 2004 269, 2681) wart. 9 ust. 2 otrzymuje brzmienie: Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 114 USTAWA dnia 17 grudnia 2004 o odpowiedzialności za naruszenie dyscypliny finansów publicznych DZIAĘ I Przepisy ogólne
 
-**Art. 1.** 1998 ofinansach publicznych (Dz. U. z2003 15, 148, póên. zm. Ustawa okreÊla zasady zakres odpowiedzialnoÊci za naruszenie dyscypliny finansów publicznych, organy w∏aÊciwe post´powanie w sprawach o naruszenie dyscypliny finansów publicznych.
+**Art. 1.** 1998 ofinansach publicznych (Dz. U. z2003 15, 148, póên. zm. Ustawa określa zasady zakres odpowiedzialności za naruszenie dyscypliny finansów publicznych, organy właściwe postępowanie w sprawach o naruszenie dyscypliny finansów publicznych.
 
-**Art. 2.** OkreÊlenia zawarte w dziale II: „finanse publiczne”, „Êrodki publiczne”, „jednostka sektora finansów publicznych”, „bud˝et”, „plan finansowy”, „wydatek”, „dotacja”, „rezerwa bud˝etowa”, „sprawozdanie bud˝etowe” „kontrola finansowa” majà znaczenie nadane im w ustawie dnia 26 listopada ), przy czym:
+**Art. 2.** Określenia zawarte w dziale II: Ńfinanse publiczne”, Ńśrodki publiczne”, Ńjednostka sektora finansów publicznych”, Ńbudżet”, Ńplan finansowy”, Ńwydatek”, Ńdotacja”, Ńrezerwa budżetowa”, Ńsprawozdanie budżetowe” Ńkontrola finansowa” mają znaczenie nadane im w ustawie dnia 26 listopada ), przy czym:
 
-**Art. 3.** Przepisów ustawy nie stosuje si´ do nale˝noÊci celnych inale˝noÊci podatkowych stanowiàcych dochody bud˝etu paƒstwa lub jednostki samorzàdu terytorialnego. DZIA¸ II OdpowiedzialnoÊç za naruszenie dyscypliny finansów publicznych Rozdzia∏ 1 Zakres odpowiedzialnoÊci za naruszenie dyscypliny finansów publicznych ———————
+**Art. 3.** Przepisów ustawy nie stosuje się do należności celnych inależności podatkowych stanowiących dochody budżetu państwa lub jednostki samorządu terytorialnego. DZIAĘ II Odpowiedzialność za naruszenie dyscypliny finansów publicznych
+
+#### Rozdział 1 Zakres odpowiedzialności za naruszenie dyscypliny finansów publicznych ———————
 

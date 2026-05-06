@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012
 
 | Pole | Wartość |
 |---|---|
@@ -24,147 +24,154 @@ domain: null
 | Ostatnia zmiana | 2026-02-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071731219) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1219/text.pdf) |
 
-1. 1. Ustawa okreÊla zasady przygotowania fina∏owego turnieju Mistrzostw Europy wPi∏ce No˝nej UEFA EURO 2012.
-2. Ustawa okreÊla wszczególnoÊci warunki realizacji:
-1) zakresie projektowania, budowy, przebudowy lub remontu stadionów innych obiektów budowlanych na terytorium Rzeczypospolitej Polskiej niezb´dnych przeprowadzenia turnieju, o którym mowa ust. 1,
-4. 1. Rada Ministrów okreÊli, drodze rozporzàdzenia, wykaz realizowanych na zasadach okreÊlonych ustawie.
-2. W rozporzàdzeniu, o którym mowa ust. 1, okreÊla si´ przedsi´wzi´cia zawarte ofercie przyj´tej przez Uni´ Europejskich Zwiàzków Pi∏karskich (UEFA) oraz obj´te zobowiàzaniami igwarancjami Rady Ministrów lub jednostek samorzàdu terytorialnego, a tak˝e inne niezb´dne przeprowadzenia fina∏owego turnieju Mistrzostw Europy wPi∏ce No˝nej UEFA EURO 2012.
+1. 1. Ustawa określa zasady przygotowania finałowego turnieju Mistrzostw Europy wPiłce Nożnej UEFA EURO 2012.
+2. Ustawa określa wszczególności warunki realizacji:
+1) zakresie projektowania, budowy, przebudowy lub remontu stadionów i innych obiektów budowlanych na terytorium Rzeczypospolitej Polskiej niezbędnych przeprowadzenia turnieju, o którym mowa ust. 1,
+4. 1. Rada Ministrów określi, drodze rozporządzenia, wykaz realizowanych na zasadach określonych ustawie.
+2. W rozporządzeniu, o którym mowa ust. 1, określa się przedsięwzięcia zawarte ofercie przyjętej przez Unię Europejskich Związków Piłkarskich (UEFA) oraz objęte zobowiązaniami igwarancjami Rady Ministrów lub jednostek samorządu terytorialnego, a także inne niezbędne przeprowadzenia finałowego turnieju Mistrzostw Europy wPiłce Nożnej UEFA EURO 2012.
 5.1. Rada Ministrów ustanowi program wieloletni wcelu przygotowania iwykonania
-2) innych niezb´dnych przeprowa- 2012.
+2) innych niezbędnych przeprowa- 2012.
 dzenia turnieju, o którym mowa ust. 1
-2. Program wieloletni, októrym mowa wust. 1, zazwanych dalej „przedsi´wzi´ciami 2012”. wiera:
-3. Przepisów ustawy nie stosuje si´ przygoto- 1) nazw´ programu;
-wania realizacji inwestycji dotyczàcych dróg krajowych linii kolejowych o paƒstwowym znaczeniu. 2) wskazanie jednostki organizacyjnej realizujàcej program lub koordynujàcej jego wykonanie;
-2. 1. Przygotowanie wykonanie przedsi´wzi´ç finansuje si´ wszczególnoÊci ze Êrod- 3) cel programu;
-ków: 4) zadania, które majà byç sfinansowane bud˝etu
-1) bud˝etu paƒstwa ustalonych wustawach bud˝eto- paƒstwa;
+2. Program wieloletni, októrym mowa wust. 1, zazwanych dalej Ńprzedsięwzięciami 2012”. wiera:
+3. Przepisów ustawy nie stosuje się przygoto- 1) nazwę programu;
+wania i realizacji inwestycji dotyczących dróg krajowych i linii kolejowych o państwowym znaczeniu. 2) wskazanie jednostki organizacyjnej realizującej program lub koordynującej jego wykonanie;
+2. 1. Przygotowanie i wykonanie przedsięwzięć finansuje się wszczególności ze środ- 3) cel programu;
+ków: 4) zadania, które mają być sfinansowane budżetu
+1) budżetu państwa ustalonych wustawach budżeto- państwa;
 wych, tym ramach limitu wydatków na pro- 5) okres realizacji programu;
 gramy wieloletnie;
-2) bud˝etów jednostek samorzàdu terytorialnego 6) ∏àczne nak∏ady, wtym zbud˝etu paƒstwa, na realizacj´ programu.
-ustalonych wuchwa∏ach bud˝etowych, wtym wramach limitu wydatków na programy wieloletnie; 6. Minister w∏aÊciwy spraw kultury fizycz3) pochodzàcych bud˝etu Unii Europejskiej oraz nej sportu przedstawia sprawozdanie realizacji niepodlegajàcych zwrotowi Êrodków pomocy 2012: udzielonej przez paƒstwa cz∏onkowskie Europej- 1) Radzie Ministrów dwa razy roku, dnia skiego Porozumienia o Wolnym Handlu (EFTA) 31 stycznia 31 lipca;
-oraz innych Êrodków pochodzàcych ze êróde∏ zagranicznych, niepodlegajàcych zwrotowi. 2) Sejmowi raz wroku, dnia 30 marca ka˝dego roku.
-2. Przepis ust. 1 nie wy∏àcza finansowania przed- Rozdzia∏ 2 si´wzi´ç na zasadach okreÊlonych ustawie dnia 28 lipca 2005 o partnerstwie publiczno- Zasady tworzenia dzia∏ania spó∏ek celowych -prywatnym (Dz. U. 169, 1420).
-7.1. Wcelu przygotowania iwykonania przed3. Przedsi´wzi´cia, o których mowa art. 1 si´wzi´ç Skarb Paƒstwa tworzy spó∏ki ust. 2 pkt 1, sà celami publicznymi iinwestycjami celu zograniczonà odpowiedzialnoÊcià, zwane dalej „spó∏dnia 7 wrzeÊnia 2007 o przygotowaniu fina∏owego turnieju Mistrzostw Europy Pi∏ce No˝nej UEFA EURO pokrywane wk∏adami pieni´˝nymi niepieni´˝nymi, wk∏ad pieni´˝ny wynosi co najmniej 1 000 000 z∏.
-5. Udzia∏ albo udzia∏y spó∏ce celowej mogà byç zbywane lub obcià˝ane przez Skarb Paƒstwa reprezentowany przez ministra w∏aÊciwego spraw kultury fizycznej isportu, za zgodà Rady Ministrów, po zrealizowaniu wszystkich powierzonych spó∏ce celowej, wumowie, októrej mowa art. 17 ust. 1.
-6. Spó∏ki, októrych mowa wust. 1, mogà byç tworzone na zasadach wynikajàcych ustawy równie˝ przez miasta gospodarzy 2012:
+2) budżetów jednostek samorządu terytorialnego 6) łączne nakłady, wtym zbudżetu państwa, na realizację programu.
+ustalonych wuchwałach budżetowych, wtym wramach limitu wydatków na programy wieloletnie; 6. Minister właściwy spraw kultury fizycz3) pochodzących budżetu Unii Europejskiej oraz nej i sportu przedstawia sprawozdanie realizacji niepodlegających zwrotowi środków pomocy 2012: udzielonej przez państwa członkowskie Europej- 1) Radzie Ministrów dwa razy roku, dnia skiego Porozumienia o Wolnym Handlu (EFTA) 31 stycznia i 31 lipca;
+oraz innych środków pochodzących ze êródeł zagranicznych, niepodlegających zwrotowi. 2) Sejmowi raz wroku, dnia 30 marca każdego roku.
+2. Przepis ust. 1 nie wyłącza finansowania przed- Rozdział 2 sięwzięć na zasadach określonych ustawie dnia 28 lipca 2005 o partnerstwie publiczno- Zasady tworzenia i działania spółek celowych -prywatnym (Dz. U. 169, 1420).
+7.1. Wcelu przygotowania iwykonania przed3. Przedsięwzięcia, o których mowa art. 1 sięwzięć Skarb Państwa tworzy spółki ust. 2 pkt 1, są celami publicznymi iinwestycjami celu zograniczoną odpowiedzialnością, zwane dalej Ńspółdnia 7 września 2007 o przygotowaniu finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO pokrywane wkładami pieniężnymi i niepieniężnymi, wkład pieniężny wynosi co najmniej 1 000 000 zł.
+5. Udział albo udziały spółce celowej mogą być zbywane lub obciążane przez Skarb Państwa reprezentowany przez ministra właściwego spraw kultury fizycznej isportu, za zgodą Rady Ministrów, po zrealizowaniu wszystkich powierzonych spółce celowej, wumowie, októrej mowa art. 17 ust. 1.
+6. Spółki, októrych mowa wust. 1, mogą być tworzone na zasadach wynikających ustawy również przez miasta gospodarzy 2012:
 1) Chorzów;
-2) Gdaƒsk;
+2) Gdańsk;
 3) Kraków;
-4) Poznaƒ;
+4) Poznań;
 5) m.st. Warszawa;
-6) Wroc∏aw.
-7. Do spó∏ek, o których mowa ust. 6, przepisy ustawy stosuje si´ odpowiednio.
-8. 1. Uprawnienia ministra w∏aÊciwego spraw Skarbu Paƒstwa okreÊlone przepisach ustawy dnia 8 sierpnia 1996 o zasadach wykonywania uprawnieƒ przys∏ugujàcych Skarbowi Paƒstwa (Dz. U.
+6) Wrocław.
+7. Do spółek, o których mowa ust. 6, przepisy ustawy stosuje się odpowiednio.
+8. 1. Uprawnienia ministra właściwego spraw Skarbu Państwa określone przepisach ustawy dnia 8 sierpnia 1996 o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U.
 106, 493, póên. zm.
 przez prezydenta miasta.
-10. 1. Spó∏ka celowa nie mo˝e:
-1) prowadziç dzia∏alnoÊci niezwiàzanej realizacjà powierzonych spó∏ce celowej umowie, o której mowa art. 17 ust. 1;
-2) tworzyç innych podmiotów;
-3) nabywaç akcji, udzia∏ów lub innych tytu∏ów uczestnictwa innych podmiotach.
-2. W stosunku spó∏ki celowej nie wszczyna si´ post´powania naprawczego.
-3. Nie mo˝na og∏osiç upad∏oÊci spó∏ki celowej.
-11. 1. Skarb Paƒstwa mo˝e rozwiàzaç spó∏k´ celowà:
-1) po zrealizowaniu wszystkich powierzonych spó∏ce celowej umowie, o której mowa art. 17 ust. 1, albo
-2) przypadku niewykonywania lub nienale˝ytego wykonywania, ca∏oÊci lub cz´Êci, powierzonych spó∏ce celowej umowie, o której mowa art. 17 ust. 1.
-2. OÊwiadczenie woli orozwiàzaniu spó∏ki celowej sk∏ada imieniu Skarbu Paƒstwa minister w∏aÊciwy spraw kultury fizycznej isportu wformie aktu notarialnego. OÊwiadczenie woli orozwiàzaniu spó∏ki celo) stosunku spó∏ki wej zast´puje uchwa∏´ zgromadzenia wspólników celowej wykonuje wy∏àcznie minister w∏aÊciwy o rozwiàzaniu spó∏ki.
-spraw kultury fizycznej sportu.
-3. Spó∏ki celowej nie rozwiàzuje si´, je˝eli, za zgo2. W stosunku spó∏ki celowej utworzonej przez dà ministra w∏aÊciwego spraw kultury fizycznej miasta, o których mowa art. 7 ust. 6, uprawnienia, sportu, w∏aÊciwy podmiot powierzy∏ spó∏ce celowej o których mowa ust. 1, wykonuje wy∏àcznie prezy- zarzàdzanie obiektami budowlanymi powsta∏ymi dent miasta. wyniku realizacji 2012, nie póêniej jednak ni˝ dnia 31 grudnia
-9.1. Zarzàd spó∏ki celowej sk∏ada si´ znie wi´cej ni˝ 3 osób. 4. Rada Ministrów okreÊli, drodze rozporzàdzenia, warunki powierzania spó∏ce celowej zarzàdzania
-2. Rada nadzorcza spó∏ki celowej sk∏ada si´ nie obiektami budowlanymi powsta∏ymi wyniku realiwi´cej ni˝ 5 osób. zacji 2012, sposób zapewniajàcy nale˝yte wykorzystanie tych obiektów, uwzgl´d3. Wsk∏ad rady nadzorczej spó∏ki celowej wchodzi nieniem przepisów dotyczàcych pomocy publicznej.
-osoba zg∏oszona przez ministra w∏aÊciwego spraw finansów publicznych, osoba zg∏oszona przez ministra 12.Wrazie zbycia przez Skarb Paƒstwa, reprew∏aÊciwego spraw rozwoju regionalnego oraz oso- zentowany przez ministra w∏aÊciwego spraw kultuba zg∏oszona przez ministra w∏aÊciwego spraw ry fizycznej sportu, ca∏ego udzia∏u albo wszystkich Skarbu Paƒstwa. udzia∏ów spó∏ce celowej, spó∏ki celowej nie stosuje si´ przepisów ustawy.
+10. 1. Spółka celowa nie może:
+1) prowadzić działalności niezwiązanej realizacją powierzonych spółce celowej umowie, o której mowa art. 17 ust. 1;
+2) tworzyć innych podmiotów;
+3) nabywać akcji, udziałów lub innych tytułów uczestnictwa innych podmiotach.
+2. W stosunku spółki celowej nie wszczyna się postępowania naprawczego.
+3. Nie można ogłosić upadłości spółki celowej.
+11. 1. Skarb Państwa może rozwiązać spółkę celową:
+1) po zrealizowaniu wszystkich powierzonych spółce celowej umowie, o której mowa art. 17 ust. 1, albo
+2) przypadku niewykonywania lub nienależytego wykonywania, całości lub części, powierzonych spółce celowej umowie, o której mowa art. 17 ust. 1.
+2. Oświadczenie woli orozwiązaniu spółki celowej składa imieniu Skarbu Państwa minister właściwy spraw kultury fizycznej isportu wformie aktu notarialnego. Oświadczenie woli orozwiązaniu spółki celo) stosunku spółki wej zastępuje uchwałę zgromadzenia wspólników celowej wykonuje wyłącznie minister właściwy o rozwiązaniu spółki.
+spraw kultury fizycznej i sportu.
+3. Spółki celowej nie rozwiązuje się, jeżeli, za zgo2. W stosunku spółki celowej utworzonej przez dą ministra właściwego spraw kultury fizycznej miasta, o których mowa art. 7 ust. 6, uprawnienia, i sportu, właściwy podmiot powierzył spółce celowej o których mowa ust. 1, wykonuje wyłącznie prezy- zarządzanie obiektami budowlanymi powstałymi dent miasta. wyniku realizacji 2012, nie póêniej jednak niż dnia 31 grudnia
+9.1. Zarząd spółki celowej składa się znie więcej niż 3 osób. 4. Rada Ministrów określi, drodze rozporządzenia, warunki powierzania spółce celowej zarządzania
+2. Rada nadzorcza spółki celowej składa się nie obiektami budowlanymi powstałymi wyniku realiwięcej niż 5 osób. zacji 2012, sposób zapewniający należyte wykorzystanie tych obiektów, uwzględ3. Wskład rady nadzorczej spółki celowej wchodzi nieniem przepisów dotyczących pomocy publicznej.
+osoba zgłoszona przez ministra właściwego spraw finansów publicznych, osoba zgłoszona przez ministra 12.Wrazie zbycia przez Skarb Państwa, reprewłaściwego spraw rozwoju regionalnego oraz oso- zentowany przez ministra właściwego spraw kultuba zgłoszona przez ministra właściwego spraw ry fizycznej i sportu, całego udziału albo wszystkich Skarbu Państwa. udziałów spółce celowej, spółki celowej nie stosuje się przepisów ustawy.
 ——————— dowlane (Dz. U. 2006 156, 1118, póên.
 zm. ), a ponadto:
-1) pozyskiwanie przygotowywanie dokumentacji wymaganej z∏o˝enia wniosku o wydanie decyzji o ustaleniu warunków zabudowy, o Êrodowiskowych uwarunkowaniach zgody na realizacj´ przedsi´wzi´cia, o ustaleniu lokalizacji inwestycji celu publicznego, o pozwoleniu na budow´ oraz innych pozwoleƒ, uzgodnieƒ iopinii wymaganych odr´bnymi przepisami przygotowania lub wykonania 2012;
-2) wyst´powanie wnioskami o wydanie decyzji, pozwoleƒ, uzgodnieƒ opinii, o których mowa pkt1, oraz uczestniczenie odpowiednich post´powaniach;
-3) nabywanie w∏asnoÊci lub innych praw nieruchomoÊci na rzecz Skarbu Paƒstwa lub jednostek samorzàdu terytorialnego, niezb´dnych przygotowania wykonania oraz uczestniczenie post´powaniach zwiàzanych wyw∏aszczeniem nieruchomoÊci innych post´powaniach dotyczàcych tych nieruchomoÊci;
-4) dysponowanie na cele budowlane nieruchomoÊciami celu przygotowania lub wykonania 2012;
-5) zawieranie nadzorowanie wykonywania umów na dostawy, us∏ugi roboty budowlane niezb´dne przygotowania lub wykonania 2012;
-6) wykonywanie innych czynnoÊci zwiàzanych bezpoÊrednio przygotowaniem lub wykonaniem 2012, wynikajàcych odr´bnych przepisów albo umowy, o której mowa art. 17 ust. 1.
-14. 1. Do cz∏onków zarzàdu rady nadzorczej spó∏ki celowej nie stosuje si´ przepisów ustawy zdnia 3 marca 2000 o wynagradzaniu osób kierujàcych niektórymi podmiotami prawnymi (Dz. U. 26, 306, póên. zm. ).
-2. W przypadku odwo∏ania cz∏onka zarzàdu rady nadzorczej spó∏ki celowej odprawa nie mo˝e byç wi´ksza ni˝ wartoÊç jednomiesi´cznego wynagrodzenia.
-15. Do spó∏ki celowej nie stosuje si´ przepisów ustawy zdnia 1 grudnia 1995 owp∏atach zzysku przez jednoosobowe spó∏ki Skarbu Paƒstwa (Dz. U. 154, 792 oraz z2006 183, 1353).
-Rozdzia∏ 3 Umowa o powierzenie
-17.1. Powierzenie spó∏ce celowej zadaƒ zwiàzanych przygotowaniem lub wykonaniem przedsi´wzi´ç nast´puje drodze umowy zawartej mi´dzy Skarbem Paƒstwa, reprezentowanym przez ministra w∏aÊciwego spraw kultury fizycznej isportu, a spó∏kà celowà.
-2. Zadania zwiàzane przygotowaniem lub wykonaniem mo˝e powierzyç spó∏ce celowej, drodze umowy, równie˝:
-1) jednostka samorzàdu terytorialnego;
-2) inny organ administracji rzàdowej ni˝ okreÊlony ust. 1 reprezentujàcy Skarb Paƒstwa;
-3) przedsi´biorca prowadzàcy dzia∏alnoÊç gospodarczà zakresie transportu publicznego.
-3. Zadania okreÊlone art. 13 wymienione wumowie, októrej mowa wust. 1, spó∏ka celowa wykonuje imieniu na rzecz Skarbu Paƒstwa, jednostki samorzàdu terytorialnego albo przedsi´biorcy prowadzàcego dzia∏alnoÊç gospodarczà zakresie transportu publicznego zale˝noÊci od podmiotu, którym zawar∏a t´ umow´.
-4. Do powierzenia spó∏ce celowej zadaƒ zwiàzanych przygotowaniem lub wykonaniem przedsi´wzi´ç okreÊlonych wrozporzàdzeniu wydanym na podstawie art. 4 ust. 1 nie stosuje si´ przepisów ustawy zdnia 29 stycznia 2004 Prawo zamówieƒ publicznych (Dz. U. 2006 164, 1163, póên. zm. ).
-5. Umowy, októrych mowa wust. 1 i2, sporzàdza si´ formie pisemnej. Projekty umów, o których mowa ust. 1 2, opracowuje spó∏ka celowa.
-18. 1. W umowie, o której mowa art. 17 ust. 1, okreÊla si´ szczególnoÊci:
-1) przedsi´wzi´cia powierzone spó∏ce celowej przygotowania lub wykonania oraz zakres czynnoÊci wykonywanych przez spó∏k´, atak˝e zakres praw obowiàzków spó∏ki celowej tym zwiàzanych;
-2) sposób sprawowania kontroli wykonania zadaƒ powierzonych spó∏ce celowej;
+1) pozyskiwanie i przygotowywanie dokumentacji wymaganej złożenia wniosku o wydanie decyzji o ustaleniu warunków zabudowy, o środowiskowych uwarunkowaniach zgody na realizację przedsięwzięcia, o ustaleniu lokalizacji inwestycji celu publicznego, o pozwoleniu na budowę oraz innych pozwoleń, uzgodnień iopinii wymaganych odrębnymi przepisami przygotowania lub wykonania 2012;
+2) występowanie wnioskami o wydanie decyzji, pozwoleń, uzgodnień i opinii, o których mowa pkt1, oraz uczestniczenie odpowiednich postępowaniach;
+3) nabywanie własności lub innych praw nieruchomości na rzecz Skarbu Państwa lub jednostek samorządu terytorialnego, niezbędnych przygotowania i wykonania oraz uczestniczenie postępowaniach związanych wywłaszczeniem nieruchomości i innych postępowaniach dotyczących tych nieruchomości;
+4) dysponowanie na cele budowlane nieruchomościami celu przygotowania lub wykonania 2012;
+5) zawieranie i nadzorowanie wykonywania umów na dostawy, usługi i roboty budowlane niezbędne przygotowania lub wykonania 2012;
+6) wykonywanie innych czynności związanych bezpośrednio przygotowaniem lub wykonaniem 2012, wynikających odrębnych przepisów albo umowy, o której mowa art. 17 ust. 1.
+14. 1. Do członków zarządu i rady nadzorczej spółki celowej nie stosuje się przepisów ustawy zdnia 3 marca 2000 o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. 26, 306, póên. zm. ).
+2. W przypadku odwołania członka zarządu i rady nadzorczej spółki celowej odprawa nie może być większa niż wartość jednomiesięcznego wynagrodzenia.
+15. Do spółki celowej nie stosuje się przepisów ustawy zdnia 1 grudnia 1995 owpłatach zzysku przez jednoosobowe spółki Skarbu Państwa (Dz. U. 154, 792 oraz z2006 183, 1353).
+17.1. Powierzenie spółce celowej zadań związanych przygotowaniem lub wykonaniem przedsięwzięć następuje drodze umowy zawartej między Skarbem Państwa, reprezentowanym przez ministra właściwego spraw kultury fizycznej isportu, a spółką celową.
+2. Zadania związane przygotowaniem lub wykonaniem może powierzyć spółce celowej, drodze umowy, również:
+1) jednostka samorządu terytorialnego;
+2) inny organ administracji rządowej niż określony ust. 1 reprezentujący Skarb Państwa;
+3) przedsiębiorca prowadzący działalność gospodarczą zakresie transportu publicznego.
+3. Zadania określone art. 13 i wymienione wumowie, októrej mowa wust. 1, spółka celowa wykonuje imieniu i na rzecz Skarbu Państwa, jednostki samorządu terytorialnego albo przedsiębiorcy prowadzącego działalność gospodarczą zakresie transportu publicznego zależności od podmiotu, którym zawarła tę umowę.
+4. Do powierzenia spółce celowej zadań związanych przygotowaniem lub wykonaniem przedsięwzięć określonych wrozporządzeniu wydanym na podstawie art. 4 ust. 1 nie stosuje się przepisów ustawy zdnia 29 stycznia 2004 Prawo zamówień publicznych (Dz. U. 2006 164, 1163, póên. zm. ).
+5. Umowy, októrych mowa wust. 1 i2, sporządza się formie pisemnej. Projekty umów, o których mowa ust. 1 i 2, opracowuje spółka celowa.
+18. 1. W umowie, o której mowa art. 17 ust. 1, określa się szczególności:
+1) przedsięwzięcia powierzone spółce celowej przygotowania lub wykonania oraz zakres czynności wykonywanych przez spółkę, atakże zakres praw i obowiązków spółki celowej tym związanych;
+2) sposób sprawowania kontroli wykonania zadań powierzonych spółce celowej;
 ———————
-4) za∏o˝enia powierzonych spó∏ce celowej;
-5) ostateczny termin wykonania zadaƒ powierzonych spó∏ce celowej, uwzgl´dnieniem zdarzeƒ nadzwyczajnych;
-6) ∏àcznà wartoÊç publicznych Êrodków finansowych przewidzianych na przygotowanie wykonanie powierzonych spó∏ce celowej, podaniem warunków, terminów sposobów ich przekazywania wykonawcom dostaw, us∏ug robót budowlanych niezb´dnych przygotowania wykonania tych przedsi´wzi´ç;
-7) zakres czynnoÊci, jakie spó∏ka celowa mo˝e powierzyç, drodze umowy, wykonania w∏aÊciwym przedsi´biorcom warunki tego powierzenia;
-8) opis nieruchomoÊci innych rzeczy przeznaczonych wykonania zadaƒ obj´tych przedsi´wzi´dzàcy dzia∏alnoÊç gospodarczà zakresie transportu publicznego udziela spó∏ce celowej pe∏nomocnictw niezb´dnych przygotowania lub wykonania zadaƒ powierzonych spó∏ce celowej wumowie, októrej mowa art. 17 ust. 1.
-20. Powierzenie, o którym mowa art. 18 ust. 1 pkt 7, wymaga uprzedniej zgody rady nadzorczej spó∏ki celowej, je˝eli wartoÊç zobowiàzania przekracza 500 000 z∏.
-21. Do umów zawartych przez spó∏k´ celowà przed dniem zakoƒczenia fina∏owego turnieju Mistrzostw Europy wPi∏ce No˝nej UEFA EURO stosuje si´ odpowiednio art. 5 ustawy dnia 29 stycznia 2004 Prawo zamówieƒ publicznych, pod warunkiem ˝e termin wygaÊni´cia tych umów up∏ynie dnia 31 grudnia ciami powierzonych spó∏ce celowej;
-9) warunki korzystania przez spó∏k´ celowà ze stanowiàcych w∏asnoÊç Skarbu Paƒstwa albo jednostki samorzàdu terytorialnego nieruchomoÊci innych rzeczy koniecznych przygotowania lub wykonania 2012;
-10) sposób zwrotu nieruchomoÊci innych rzeczy wykorzystanych iniewykorzystanych na przygotowanie lub wykonanie oraz dokumentacji dotyczàcej przygotowania lub wykonania tych po wykonaniu zadaƒ powierzonych spó∏ce celowej;
-11) wysokoÊç, terminy warunki wyp∏acania spó∏ce celowej wynagrodzenia oraz warunki jego zwi´kszenia zmniejszenia;
-12) zasady odpowiedzialnoÊci stron razie niewykonania ca∏oÊci lub cz´Êci albo nienale˝ytego wykonania umowy;
-13) warunki sposób zmiany rozwiàzania umowy;
-14) zasady wzajemnych rozliczeƒ razie rozwiàzania umowy;
-15) postanowienia dotyczàce kontroli wewn´trznej.
-2. Wumowie, októrej mowa wart. 17 ust. 1, mo˝na zastrzec, ˝e wszystkie lub niektóre umowy zawierane wykonawcami dostaw, us∏ug lub robót budowlanych zwiàzanych przygotowaniem lub wykonaniem b´dà wymaga∏y zgody odpowiednio:
-22. 1. Wprzypadku umów zawartych na podstawie art. 18 ust. 1 pkt 7 spó∏ka celowa jest uprawniona ich wypowiedzenia ze skutkiem natychmiastowym, oile opóênienie realizacji tych umów lub ich nienale˝yte wykonanie mog∏oby utrudniç lub uniemo˝liwiç rozpocz´cie lub przeprowadzenie fina∏owego turnieju Mistrzostw Europy wPi∏ce No˝nej UEFA EURO 2012.
-2. Wprzypadku, októrym mowa wust. 1, spó∏ka celowa po dokonaniu wypowiedzenia jest uprawniona powierzenia wykonania umowy innemu przedsi´biorcy.
-3. Przedsi´biorca, któremu zosta∏a wypowiedziana umowa wtrybie, októrym mowa wust. 1, mo˝e ˝àdaç odszkodowania wzakresie szkody rzeczywiÊcie poniesionej, chyba ˝e umowa stanowi inaczej.
-Rozdzia∏ 4 Lokalizacja
-23. 1. Decyzj´ o ustaleniu lokalizacji przedsi´wzi´ç 2012, na wniosek spó∏ki celowej lub innego w∏aÊciwego podmiotu, wydaje wojewoda wterminie 1 miesiàca od z∏o˝enia wniosku.
-2. Wniosek o wydanie decyzji o ustaleniu lokalizacji przedsi´wzi´cia zawiera:
-1) map´ wskali odpowiedniej dla przedstawienia danego przedsi´wzi´cia 2012, wtym istniejàcego uzbrojenia, zzaznaczeniem terenu niezb´dnego dla obiektów budowlanych ustanowienia stref ochronnych, o ile majà one zastosowanie;
-2) wymagane odr´bnymi przepisami zezwolenia stanowiska w∏aÊciwych organów.
-guje inne prawo rzeczowe nieruchomoÊci. Termin
-24. 1. Decyzja o ustaleniu lokalizacji przedsi´- ten nie mo˝e byç krótszy ni˝ 2 miesiàce od dnia otrzywzi´cia zawiera szczególnoÊci: mania przez w∏aÊciciela, u˝ytkownika wieczystego lub osob´, której przys∏uguje inne prawo rzeczowe
-1) linie rozgraniczajàce teren; nieruchomoÊci, pisemnej oferty spó∏ki celowej
-2) zatwierdzenie podzia∏u nieruchomoÊci; lub innego w∏aÊciwego podmiotu dotyczàcej zawarcia umowy.
+4) założenia powierzonych spółce celowej;
+5) ostateczny termin wykonania zadań powierzonych spółce celowej, uwzględnieniem zdarzeń nadzwyczajnych;
+6) łączną wartość publicznych środków finansowych przewidzianych na przygotowanie i wykonanie powierzonych spółce celowej, podaniem warunków, terminów i sposobów ich przekazywania wykonawcom dostaw, usług i robót budowlanych niezbędnych przygotowania i wykonania tych przedsięwzięć;
+7) zakres czynności, jakie spółka celowa może powierzyć, drodze umowy, wykonania właściwym przedsiębiorcom i warunki tego powierzenia;
+8) opis nieruchomości i innych rzeczy przeznaczonych wykonania zadań objętych przedsięwziędzący działalność gospodarczą zakresie transportu publicznego udziela spółce celowej pełnomocnictw niezbędnych przygotowania lub wykonania zadań powierzonych spółce celowej wumowie, októrej mowa art. 17 ust. 1.
+20. Powierzenie, o którym mowa art. 18 ust. 1 pkt 7, wymaga uprzedniej zgody rady nadzorczej spółki celowej, jeżeli wartość zobowiązania przekracza 500 000 zł.
+21. Do umów zawartych przez spółkę celową przed dniem zakończenia finałowego turnieju Mistrzostw Europy wPiłce Nożnej UEFA EURO stosuje się odpowiednio art. 5 ustawy dnia 29 stycznia 2004 Prawo zamówień publicznych, pod warunkiem że termin wygaśnięcia tych umów upłynie dnia 31 grudnia ciami i powierzonych spółce celowej;
+9) warunki korzystania przez spółkę celową ze stanowiących własność Skarbu Państwa albo jednostki samorządu terytorialnego nieruchomości i innych rzeczy koniecznych przygotowania lub wykonania 2012;
+10) sposób zwrotu nieruchomości i innych rzeczy wykorzystanych iniewykorzystanych na przygotowanie lub wykonanie oraz dokumentacji dotyczącej przygotowania lub wykonania tych po wykonaniu zadań powierzonych spółce celowej;
+11) wysokość, terminy i warunki wypłacania spółce celowej wynagrodzenia oraz warunki jego zwiększenia i zmniejszenia;
+12) zasady odpowiedzialności stron razie niewykonania całości lub części albo nienależytego wykonania umowy;
+13) warunki i sposób zmiany i rozwiązania umowy;
+14) zasady wzajemnych rozliczeń razie rozwiązania umowy;
+15) postanowienia dotyczące kontroli wewnętrznej.
+2. Wumowie, októrej mowa wart. 17 ust. 1, można zastrzec, że wszystkie lub niektóre umowy zawierane wykonawcami dostaw, usług lub robót budowlanych związanych przygotowaniem lub wykonaniem będą wymagały zgody odpowiednio:
+22. 1. Wprzypadku umów zawartych na podstawie art. 18 ust. 1 pkt 7 spółka celowa jest uprawniona ich wypowiedzenia ze skutkiem natychmiastowym, oile opóênienie realizacji tych umów lub ich nienależyte wykonanie mogłoby utrudnić lub uniemożliwić rozpoczęcie lub przeprowadzenie finałowego turnieju Mistrzostw Europy wPiłce Nożnej UEFA EURO 2012.
+2. Wprzypadku, októrym mowa wust. 1, spółka celowa po dokonaniu wypowiedzenia jest uprawniona powierzenia wykonania umowy innemu przedsiębiorcy.
+3. Przedsiębiorca, któremu została wypowiedziana umowa wtrybie, októrym mowa wust. 1, może żądać odszkodowania wzakresie szkody rzeczywiście poniesionej, chyba że umowa stanowi inaczej.
+23. 1. Decyzję o ustaleniu lokalizacji przedsięwzięć 2012, na wniosek spółki celowej lub innego właściwego podmiotu, wydaje wojewoda wterminie 1 miesiąca od złożenia wniosku.
+2. Wniosek o wydanie decyzji o ustaleniu lokalizacji przedsięwzięcia zawiera:
+1) mapę wskali odpowiedniej dla przedstawienia danego przedsięwzięcia 2012, wtym istniejącego uzbrojenia, zzaznaczeniem terenu niezbędnego dla obiektów budowlanych i ustanowienia stref ochronnych, o ile mają one zastosowanie;
+2) wymagane odrębnymi przepisami zezwolenia i stanowiska właściwych organów.
+guje inne prawo rzeczowe nieruchomości. Termin
+24. 1. Decyzja o ustaleniu lokalizacji przedsię- ten nie może być krótszy niż 2 miesiące od dnia otrzywzięcia zawiera szczególności: mania przez właściciela, użytkownika wieczystego lub osobę, której przysługuje inne prawo rzeczowe
+1) linie rozgraniczające teren; nieruchomości, pisemnej oferty spółki celowej
+2) zatwierdzenie podziału nieruchomości; lub innego właściwego podmiotu dotyczącej zawarcia umowy.
 3) warunki techniczne realizacji;
-2. W przypadku gdy nieruchomoÊci przeznaczone
-4) warunki wynikajàce zpotrzeb ochrony Êrodowiska dla realizacji majà nieureguochrony zabytków; lowany stan prawny, wszcz´cie post´powania wyw∏aszczeniowego nast´puje na wniosek spó∏ki celo5) wymagania dotyczàce ochrony interesów osób wej lub innego w∏aÊciwego podmiotu, bez koniecznotrzecich. Êci zachowania warunków okreÊlonych ust. 1.
-2. Wojewoda dor´cza decyzj´ o ustaleniu lokaliza- 28. 1. Post´powanie wyw∏aszczeniowe cji przedsi´wzi´cia wnioskodawcy oraz za- wszczyna oraz decyzje o wyw∏aszczeniu o odszkodowiadamia o jej wydaniu treÊci pozosta∏e strony waniu wydaje wojewoda.
-wdrodze obwieszczeƒ wurz´dach gmin iwprasie lokalnej oraz na stronach internetowych urz´du woje- 2. Od decyzji wojewody, o których mowa ust. 1, wódzkiego oraz urz´du gminy w∏aÊciwego dla lokali- stronie przys∏uguje odwo∏anie ministra w∏aÊciwezacji przedsi´wzi´cia 2012. go spraw budownictwa, gospodarki przestrzennej mieszkaniowej.
-3. Od decyzji wojewody o ustaleniu lokalizacji przedsi´wzi´cia stronie przys∏uguje odwo- 29. 1. Po wszcz´ciu post´powania wyw∏asz∏anie ministra w∏aÊciwego spraw budownictwa, czeniowego wojewoda, na wniosek spó∏ki celowej lub gospodarki przestrzennej mieszkaniowej. innego w∏aÊciwego podmiotu, udziela, drodze decyzji, zezwolenia na niezw∏oczne zaj´cie nieruchomo25. 1. W sprawach uregulowanych niniej- Êci przeznaczonych na realizacj´ szym rozdziale nie stosuje si´ przepisów o planowa- 2012.
-niu zagospodarowaniu przestrzennym.
+2. W przypadku gdy nieruchomości przeznaczone
+4) warunki wynikające zpotrzeb ochrony środowiska dla realizacji mają nieuregui ochrony zabytków; lowany stan prawny, wszczęcie postępowania wywłaszczeniowego następuje na wniosek spółki celo5) wymagania dotyczące ochrony interesów osób wej lub innego właściwego podmiotu, bez koniecznotrzecich. ści zachowania warunków określonych ust. 1.
+2. Wojewoda doręcza decyzję o ustaleniu lokaliza- 28. 1. Postępowanie wywłaszczeniowe cji przedsięwzięcia wnioskodawcy oraz za- wszczyna oraz decyzje o wywłaszczeniu i o odszkodowiadamia o jej wydaniu i treści pozostałe strony waniu wydaje wojewoda.
+wdrodze obwieszczeń wurzędach gmin iwprasie lokalnej oraz na stronach internetowych urzędu woje- 2. Od decyzji wojewody, o których mowa ust. 1, wódzkiego oraz urzędu gminy właściwego dla lokali- stronie przysługuje odwołanie ministra właściwezacji przedsięwzięcia 2012. go spraw budownictwa, gospodarki przestrzennej i mieszkaniowej.
+3. Od decyzji wojewody o ustaleniu lokalizacji przedsięwzięcia stronie przysługuje odwo- 29. 1. Po wszczęciu postępowania wywłaszłanie ministra właściwego spraw budownictwa, czeniowego wojewoda, na wniosek spółki celowej lub gospodarki przestrzennej i mieszkaniowej. innego właściwego podmiotu, udziela, drodze decyzji, zezwolenia na niezwłoczne zajęcie nieruchomo25. 1. W sprawach uregulowanych niniej- ści przeznaczonych na realizację szym rozdziale nie stosuje się przepisów o planowa- 2012.
+niu i zagospodarowaniu przestrzennym.
 2. Decyzja, o której mowa ust. 1, uprawnia
-2. Wojewoda wydaje pozwolenia na budow´ dysponowania nieruchomoÊcià na cele budowlane przedsi´wzi´cia na zasadach iwtrybie prze- rozumieniu przepisów prawa budowlanego.
-pisów prawa budowlanego, zastrze˝eniem ust. 3, oraz dor´cza je wnioskodawcy, a pozosta∏e strony za- 30. 1. Odszkodowanie za wyw∏aszczonà niewiadamia o jego wydaniu treÊci drodze obwiesz- ruchomoÊç ustala si´ wed∏ug stanu na dzieƒ wydaczeƒ wurz´dach gmin iwprasie lokalnej oraz na stro- nia decyzji o ustaleniu lokalizacji przedsi´wzi´cia nach internetowych urz´du wojewódzkiego oraz urz´- oraz wed∏ug jej wartoÊci dnia wydania du gminy w∏aÊciwego dla lokalizacji przedsi´wzi´cia decyzji o ustaleniu wysokoÊci odszkodowania.
+2. Wojewoda wydaje pozwolenia na budowę dysponowania nieruchomością na cele budowlane przedsięwzięcia na zasadach iwtrybie prze- rozumieniu przepisów prawa budowlanego.
+pisów prawa budowlanego, zastrzeżeniem ust. 3, oraz doręcza je wnioskodawcy, a pozostałe strony za- 30. 1. Odszkodowanie za wywłaszczoną niewiadamia o jego wydaniu i treści drodze obwiesz- ruchomość ustala się według stanu na dzień wydaczeń wurzędach gmin iwprasie lokalnej oraz na stro- nia decyzji o ustaleniu lokalizacji przedsięwzięcia nach internetowych urzędu wojewódzkiego oraz urzę- oraz według jej wartości dnia wydania du gminy właściwego dla lokalizacji przedsięwzięcia decyzji o ustaleniu wysokości odszkodowania.
 2012.
-2. WartoÊç nieruchomoÊci okreÊlajà rzeczoznawcy
-3. Ilekroç przepisach prawa budowlanego jest mowa o decyzji o warunkach zabudowy zagospodarowania terenu, rozumie si´ przez to tak˝e decyzj´ o ustaleniu lokalizacji przedsi´wzi´cia 2012.
-Rozdzia∏ 5 Nabywanie nieruchomoÊci dla realizacji
-26. Spó∏ka celowa nabywa, drodze umowy, na rzecz Skarbu Paƒstwa albo jednostki samorzàdu temajàtkowi, októrych mowa wustawie zdnia 21 sierpnia 1997 o gospodarce nieruchomoÊciami (Dz. U.
+2. Wartość nieruchomości określają rzeczoznawcy
+3. Ilekroć przepisach prawa budowlanego jest mowa o decyzji o warunkach zabudowy i zagospodarowania terenu, rozumie się przez to także decyzję o ustaleniu lokalizacji przedsięwzięcia 2012.
+26. Spółka celowa nabywa, drodze umowy, na rzecz Skarbu Państwa albo jednostki samorządu temajątkowi, októrych mowa wustawie zdnia 21 sierpnia 1997 o gospodarce nieruchomościami (Dz. U.
 2004 261, 2603, póên. zm. ).
-3. Odszkodowanie, o którym mowa ust. 1, podlega waloryzacji na dzieƒ wyp∏aty, wed∏ug zasad obowiàzujàcych razie zwrotu wyw∏aszczonych nieruchomoÊci.
-4. Odszkodowanie za wyw∏aszczone nieruchomoÊci jest wyp∏acane odpowiednio ze Êrodków bud˝etu paƒstwa albo jednostki samorzàdu terytorialstwa lub jednostki samorzàdu terytorialnego. Przepis art. 29 stosuje si´ odpowiednio.
-2. Je˝eli nieruchomoÊç przeznaczona na realizacj´ przedsi´wzi´cia stanowiàca w∏asnoÊç Skarbu Paƒstwa lub jednostki samorzàdu terytorialnego zosta∏a wydzier˝awiona lub wynaj´ta, decyzja o ustaleniu lokalizacji przedsi´wzi´cia stanowi podstaw´ wypowiedzenia umowy dzier˝awy lub najmu ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiàzania umowy przys∏uguje odszkodowanie wyp∏acane ze Êrodków bud˝etu paƒstwa lub jednostki samorzàdu terytorialnego.
-3. Do rozwiàzania u˝ytkowania ustanowionego drodze decyzji lub umowy stosuje si´ odpowiednio przepisy ust. 1 2.
-32. 1. Do gruntów rolnych leÊnych obj´tych decyzjami o ustaleniu lokalizacji przedsi´wzi´cia nie stosuje si´ przepisów o ochronie gruntów rolnych leÊnych, tym ˝e okreÊlone tych przepisach nale˝noÊci oraz jednorazowe odszkodowania razie dokonania przedwczesnego wyr´bu drzewostanu odniesieniu gruntów leÊnych zadrzewionych przeznacza si´ na Fundusz LeÊny Dyrekcji Generalnej Lasów Paƒstwowych tytu∏u wy∏àczenia gruntów Skarbu Paƒstwa, zarzàdzanych przez Paƒstwowe Gospodarstwo LeÊne „Lasy Paƒstwowe”.
-2. Nale˝noÊci oraz jednorazowe odszkodowania wwysokoÊci ustalonej przez organy w∏aÊciwe wsprawach ochrony gruntów leÊnych spó∏ka celowa przekazuje na rachunek bankowy funduszu, o którym mowa wust. 1, po nabyciu wszystkich gruntów wdanym obr´bie ewidencji gruntów, wterminie dnia 30 czerwca ka˝dego roku.
-33. W sprawach nieuregulowanych niniejszym rozdziale stosuje si´ przepisy ustawy dnia 21 sierpnia 1997 o gospodarce nieruchomoÊciami.
-Rozdzia∏ 6 Post´powanie administracyjne dla realizacji
-34. 1. Decyzje administracyjne wydawane wzwiàzku zrealizacjà 2012, okreÊlonych rozporzàdzeniu wydanym na podstawie art. 4 ust. 1, podlegajà natychmiastowemu wykonaniu.
-2. Odwo∏anie od decyzji administracyjnej wydanej zwiàzku realizacjà wnosi si´ wterminie 7 dni od dnia dor´czenia decyzji stronie.
-1) przekazanie akt odpowiedzi na skarg´ nast´puje terminie 15 dni od dnia otrzymania skargi;
-2) skarg´ rozpatruje si´ terminie 30 dni od dnia otrzymania akt wraz odpowiedzià na skarg´.
-2. Termin rozpatrzenia skargi kasacyjnej wynikajàcej realizacji wynosi 2 miesiàce od jej wniesienia.
-36.1. Nie stwierdza si´ niewa˝noÊci ostatecznej decyzji o pozwoleniu na budow´ wydanej zwiàzku realizacjà przedsi´wzi´cia na podstawie ustawy zdnia 7 lipca 1994 Prawo budowlane, je˝eli wniosek ostwierdzenie niewa˝noÊci tej decyzji zosta∏ z∏o˝ony po up∏ywie 14 dni od dnia, którym decyzja sta∏a si´ ostateczna, a spó∏ka celowa rozpocz´∏a budow´ przedsi´wzi´cia 2012. Przepis art. 158 § 2 ustawy dnia 14 czerwca 1960 Kodeks post´powania administracyjnego (Dz. U. 2000 98, 1071, zpóên. zm. ) stosuje si´ odpowiednio.
-2. W przypadku uwzgl´dnienia skargi na decyzj´ o pozwoleniu na budow´ przedsi´wzi´cia 2012, sàd administracyjny po up∏ywie 14 dni od dnia rozpocz´cia budowy mo˝e stwierdziç jedynie, ˝e decyzja narusza prawo przyczyn wyszczególnionych art. 145 lub 156 ustawy dnia 14 czerwca 1960 Kodeks post´powania administracyjnego.
-3. Przepisy ust. 1 i2 stosuje si´ odpowiednio decyzji oustaleniu lokalizacji przedsi´wzi´cia 2012.
-37.1. Je˝eli zdecyzji opozwoleniu na budow´ drogi lub innego przedsi´wzi´cia wynika obowiàzek dokonania przebudowy istniejàcych urzàdzeƒ infrastruktury technicznej, w∏aÊciwy starosta, na wniosek spó∏ki celowej lub innego w∏aÊciwego podmiotu, mo˝e ograniczyç, drodze decyzji, sposób korzystania nieruchomoÊci przez udzielenie zezwolenia na zak∏adanie iprzeprowadzenie na nieruchomoÊci ciàgów drena˝owych, przewodów iurzàdzeƒ s∏u˝àcych przesy∏ania p∏ynów, pary, gazów energii elektrycznej oraz urzàdzeƒ ∏àcznoÊci publicznej sygnalizacji, a tak˝e innych podziemnych, naziemnych lub nadziemnych obiektów iurzàdzeƒ niezb´dnych korzystania ztych przewodów urzàdzeƒ, je˝eli w∏aÊciciel lub u˝ytkownik wieczysty nieruchomoÊci nie wyra˝a na to zgody.
-2. Przepisy art. 124 ust. 2—8 oraz art. 124a ustawy dnia 21 sierpnia 1997 o gospodarce nieruchomoÊciami stosuje si´ odpowiednio.
+3. Odszkodowanie, o którym mowa ust. 1, podlega waloryzacji na dzień wypłaty, według zasad obowiązujących razie zwrotu wywłaszczonych nieruchomości.
+4. Odszkodowanie za wywłaszczone nieruchomości jest wypłacane odpowiednio ze środków budżetu państwa albo jednostki samorządu terytorialstwa lub jednostki samorządu terytorialnego. Przepis art. 29 stosuje się odpowiednio.
+2. Jeżeli nieruchomość przeznaczona na realizację przedsięwzięcia stanowiąca własność Skarbu Państwa lub jednostki samorządu terytorialnego została wydzierżawiona lub wynajęta, decyzja o ustaleniu lokalizacji przedsięwzięcia stanowi podstawę wypowiedzenia umowy dzierżawy lub najmu ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiązania umowy przysługuje odszkodowanie wypłacane ze środków budżetu państwa lub jednostki samorządu terytorialnego.
+3. Do rozwiązania użytkowania ustanowionego drodze decyzji lub umowy stosuje się odpowiednio przepisy ust. 1 i 2.
+32. 1. Do gruntów rolnych i leśnych objętych decyzjami o ustaleniu lokalizacji przedsięwzięcia nie stosuje się przepisów o ochronie gruntów rolnych i leśnych, tym że określone tych przepisach należności oraz jednorazowe odszkodowania razie dokonania przedwczesnego wyrębu drzewostanu odniesieniu gruntów leśnych i zadrzewionych przeznacza się na Fundusz Leśny Dyrekcji Generalnej Lasów Państwowych tytułu wyłączenia gruntów Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne ŃLasy Państwowe”.
+2. Należności oraz jednorazowe odszkodowania wwysokości ustalonej przez organy właściwe wsprawach ochrony gruntów leśnych spółka celowa przekazuje na rachunek bankowy funduszu, o którym mowa wust. 1, po nabyciu wszystkich gruntów wdanym obrębie ewidencji gruntów, wterminie dnia 30 czerwca każdego roku.
+33. W sprawach nieuregulowanych niniejszym rozdziale stosuje się przepisy ustawy dnia 21 sierpnia 1997 o gospodarce nieruchomościami.
+34. 1. Decyzje administracyjne wydawane wzwiązku zrealizacją 2012, określonych rozporządzeniu wydanym na podstawie art. 4 ust. 1, podlegają natychmiastowemu wykonaniu.
+2. Odwołanie od decyzji administracyjnej wydanej związku realizacją wnosi się wterminie 7 dni od dnia doręczenia decyzji stronie.
+1) przekazanie akt i odpowiedzi na skargę następuje terminie 15 dni od dnia otrzymania skargi;
+2) skargę rozpatruje się terminie 30 dni od dnia otrzymania akt wraz odpowiedzią na skargę.
+2. Termin rozpatrzenia skargi kasacyjnej wynikającej realizacji wynosi 2 miesiące od jej wniesienia.
+36.1. Nie stwierdza się nieważności ostatecznej decyzji o pozwoleniu na budowę wydanej związku realizacją przedsięwzięcia na podstawie ustawy zdnia 7 lipca 1994 Prawo budowlane, jeżeli wniosek ostwierdzenie nieważności tej decyzji został złożony po upływie 14 dni od dnia, którym decyzja stała się ostateczna, a spółka celowa rozpoczęła budowę przedsięwzięcia 2012. Przepis art. 158 § 2 ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2000 98, 1071, zpóên. zm. ) stosuje się odpowiednio.
+2. W przypadku uwzględnienia skargi na decyzję o pozwoleniu na budowę przedsięwzięcia 2012, sąd administracyjny po upływie 14 dni od dnia rozpoczęcia budowy może stwierdzić jedynie, że decyzja narusza prawo przyczyn wyszczególnionych art. 145 lub 156 ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego.
+3. Przepisy ust. 1 i2 stosuje się odpowiednio decyzji oustaleniu lokalizacji przedsięwzięcia 2012.
+37.1. Jeżeli zdecyzji opozwoleniu na budowę drogi lub innego przedsięwzięcia wynika obowiązek dokonania przebudowy istniejących urządzeń infrastruktury technicznej, właściwy starosta, na wniosek spółki celowej lub innego właściwego podmiotu, może ograniczyć, drodze decyzji, sposób korzystania nieruchomości przez udzielenie zezwolenia na zakładanie iprzeprowadzenie na nieruchomości ciągów drenażowych, przewodów iurządzeń służących przesyłania płynów, pary, gazów i energii elektrycznej oraz urządzeń łączności publicznej i sygnalizacji, a także innych podziemnych, naziemnych lub nadziemnych obiektów iurządzeń niezbędnych korzystania ztych przewodów i urządzeń, jeżeli właściciel lub użytkownik wieczysty nieruchomości nie wyraża na to zgody.
+2. Przepisy art. 124 ust. 2—8 oraz art. 124a ustawy dnia 21 sierpnia 1997 o gospodarce nieruchomościami stosuje się odpowiednio.
 ———————
-38. Z zastrze˝eniem przepisów ustawy realizacji okreÊlonych wrozporzàdzeniu wydanym na podstawie art. 4 ust. 1 stosuje si´ przepisy ustawy dnia 14 czerwca 1960 Kodeks post´powania administracyjnego.
-Rozdzia∏ 7 Przepis zmieniajàcy przepisy koƒcowe
-39. W ustawie dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomoÊciami rolnymi Skarbu Paƒstwa (Dz. U. 2004 208, 2128, póên.
+38. Z zastrzeżeniem przepisów ustawy realizacji określonych wrozporządzeniu wydanym na podstawie art. 4 ust. 1 stosuje się przepisy ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego.
+39. W ustawie dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. 2004 208, 2128, póên.
 zm.
-moÊci niezb´dne przygotowania przeprowadzenia fina∏owego turnieju Mistrzostw Europy Pi∏ce No˝nej UEFA EURO 2012. Decyzja Prezesa stanowi podstaw´ wy∏àczenia nieruchomoÊci Zasobu W∏asnoÊci Rolnej Skarbu Paƒstwa oraz jej protokolarnego przej´cia przez w∏aÊciwy organ zasobu nieruchomoÊci Skarbu Paƒstwa jest podstawà wpisu ksi´gi wieczystej.”.
-40. 1. Przepisy art. 10 ust. 2 3 stosuje si´ dnia 31 grudnia ) wart. 24 po ust. 7a dodaje si´ ust. 7b wbrzmie- 2. Przepisy art. 24 ust. 7b ustawy, o której mowa niu: wart. 39, wbrzmieniu nadanym niniejszà ustawà, stosuje si´ dnia 31 grudnia
-41. Ustawa wchodzi ˝ycie dniem og∏oszenia.
-——————— Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1220 ROZPORZÑDZENIE MINISTRA TRANSPORTU dnia 18 wrzeÊnia 2007 zmieniajàce rozporzàdzenie sprawie ogólnych warunków prowadzenia ruchu kolejowego sygnalizacji Na podstawie art. 17 ust. 7 ustawy dnia 28 mar- 172, 1444 oraz 2006 168, 1198) ca 2003 o transporcie kolejowym (Dz. U. 2007 § 177 otrzymuje brzmienie: 16, 94) zarzàdza si´, co nast´puje: „§ 177. Przepisy wewn´trzne zarzàdców infrastruktu§ 1. W rozporzàdzeniu Ministra Infrastruktury ry, przewoêników kolejowych iu˝ytkowników dnia 18 lipca 2005 sprawie ogólnych warunków bocznic kolejowych powinny zostaç dostosoprowadzenia ruchu kolejowego sygnalizacji (Dz. U. wane przepisów rozporzàdzenia terminie dnia 23 wrzeÊnia 2008 r.”.
-——————— § 2. Rozporzàdzenie wchodzi ˝ycie dniem 23 wrzeÊnia 2007 Minister Transportu: J. Polaczek
+mości niezbędne przygotowania i przeprowadzenia finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO 2012. Decyzja Prezesa stanowi podstawę wyłączenia nieruchomości Zasobu Własności Rolnej Skarbu Państwa oraz jej protokolarnego przejęcia przez właściwy organ zasobu nieruchomości Skarbu Państwa i jest podstawą wpisu księgi wieczystej.”.
+40. 1. Przepisy art. 10 ust. 2 i 3 stosuje się dnia 31 grudnia ) wart. 24 po ust. 7a dodaje się ust. 7b wbrzmie- 2. Przepisy art. 24 ust. 7b ustawy, o której mowa niu: wart. 39, wbrzmieniu nadanym niniejszą ustawą, stosuje się dnia 31 grudnia
+41. Ustawa wchodzi życie dniem ogłoszenia.
+——————— Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1220 ROZPORZÑDZENIE MINISTRA TRANSPORTU dnia 18 września 2007 zmieniające rozporządzenie sprawie ogólnych warunków prowadzenia ruchu kolejowego i sygnalizacji Na podstawie art. 17 ust. 7 ustawy dnia 28 mar- 172, 1444 oraz 2006 168, 1198) ca 2003 o transporcie kolejowym (Dz. U. 2007 § 177 otrzymuje brzmienie: 16, 94) zarządza się, co następuje: Ń§ 177. Przepisy wewnętrzne zarządców infrastruktu§ 1. W rozporządzeniu Ministra Infrastruktury ry, przewoêników kolejowych iużytkowników dnia 18 lipca 2005 sprawie ogólnych warunków bocznic kolejowych powinny zostać dostosoprowadzenia ruchu kolejowego i sygnalizacji (Dz. U. wane przepisów rozporządzenia terminie dnia 23 września 2008 r.”.
+——————— § 2. Rozporządzenie wchodzi życie dniem 23 września 2007 Minister Transportu: J. Polaczek
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 3 Umowa o powierzenie
+
+#### Rozdział 4 Lokalizacja
+
+#### Rozdział 5 Nabywanie nieruchomości dla realizacji
+
+#### Rozdział 6 Postępowanie administracyjne dla realizacji
+
+#### Rozdział 7 Przepis zmieniający i przepisy końcowe
 

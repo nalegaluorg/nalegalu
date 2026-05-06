@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# okreÊlonym w odr´bnych przepisach Paƒ- 30 sierpnia 2002 r. osystemie oceny zgodnoÊci (Dz. U.
+# określonym w odrębnych przepisach Pań- 30 sierpnia 2002 r. osystemie oceny zgodności (Dz. U.
 
 | Pole | Wartość |
 |---|---|
@@ -24,264 +24,264 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032082020) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2020/text.pdf) |
 
-stwowa Inspekcja Sanitarna oraz w zakresie 166, poz. 1360 oraz z2003 r. 80, poz. 718, 130, znakowania, zafa∏szowaƒ i prawid∏owoÊci poz. 1188 i 170, poz. 1652), badania laboratoryjne, obrotu Inspekcja Handlowa.”, o których mowa w art. 13 ust. 2 ustawy, o której mowa wart. 1, wykonujà laboratoria Paƒstwowej Inspekb) uchyla si´ ust. 5; cji Sanitarnej.
+stwowa Inspekcja Sanitarna oraz w zakresie 166, poz. 1360 oraz z2003 r. 80, poz. 718, 130, znakowania, zafałszowań i prawidłowości poz. 1188 i 170, poz. 1652), badania laboratoryjne, obrotu Inspekcja Handlowa.”, o których mowa w art. 13 ust. 2 ustawy, o której mowa wart. 1, wykonują laboratoria Państwowej Inspekb) uchyla się ust. 5; cji Sanitarnej.
 9) w art. 14:
 
-**Art. 3.** Dotychczasowe przepisy wykonawcze wya) ust. 1 otrzymuje brzmienie: dane na podstawie art. 9 ust. 2 ustawy, októrej mowa „1. Kto, bez zg∏oszenia do krajowego systemu, w art. 1, zachowujà moc do czasu wydania nowych wprowadza kosmetyk do obrotu przepisów wykonawczych na podstawie art. 9 ust. 2 ustawy, októrej mowa wart. 1, wbrzmieniu nadanym podlega karze grzywny.”, niniejszà ustawà, nie d∏u˝ej ni˝ przez okres 6 miesi´cy
+**Art. 3.** Dotychczasowe przepisy wykonawcze wya) ust. 1 otrzymuje brzmienie: dane na podstawie art. 9 ust. 2 ustawy, októrej mowa Ń1. Kto, bez zgłoszenia do krajowego systemu, w art. 1, zachowują moc do czasu wydania nowych wprowadza kosmetyk do obrotu przepisów wykonawczych na podstawie art. 9 ust. 2 ustawy, októrej mowa wart. 1, wbrzmieniu nadanym podlega karze grzywny.”, niniejszą ustawą, nie dłużej niż przez okres 6 miesięcy
 
-**Art. 2.** Do czasu zakoƒczenia procesu akredytacji laboratoriów na podstawie przepisów ustawy z dnia Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA z dnia 30 paêdziernika 2003 r. o zmianie ustawy o warunkach zdrowotnych ˝ywnoÊci i ˝ywienia oraz niektórych innych ustaw
+**Art. 2.** Do czasu zakończenia procesu akredytacji laboratoriów na podstawie przepisów ustawy z dnia Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA z dnia 30 paêdziernika 2003 r. o zmianie ustawy o warunkach zdrowotnych żywności i żywienia oraz niektórych innych ustaw
 
-**Art. 1.** W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych ˝ywnoÊci i ˝ywienia (Dz. U. 63, poz. 634, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. 63, poz. 634, z póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 13b.**
 
-1. W przypadku wàtpliwoÊci, czy ˝ywnoÊç wprowadzana przez przedsi´biorc´ do obrotu by∏a dotychczas stosowana w celu ˝ywienia ludzi, przedsi´biorca jest obowiàzany przedstawiç, na ˝àdanie w∏aÊciwego organu urz´dowej kontroli ˝ywnoÊci, dokumentacj´ potwierdzajàcà histori´ stosowania tej ˝ywnoÊci oraz okreÊlajàcà, wjakiej postaci ˝ywnoÊç ta lub jej sk∏adniki by∏y dotychczas stosowane w celu ˝ywienia ludzi w paƒstwach cz∏onkowskich Unii Europejskiej.
+1. W przypadku wątpliwości, czy żywność wprowadzana przez przedsiębiorcę do obrotu była dotychczas stosowana w celu żywienia ludzi, przedsiębiorca jest obowiązany przedstawić, na żądanie właściwego organu urzędowej kontroli żywności, dokumentację potwierdzającą historię stosowania tej żywności oraz określającą, wjakiej postaci żywność ta lub jej składniki były dotychczas stosowane w celu żywienia ludzi w państwach członkowskich Unii Europejskiej.
 
-2. W przypadku braku dokumentacji, o której mowa w ust. 1, przeprowadza si´ post´powanie, o którym mowa w art. 12.”;
+2. W przypadku braku dokumentacji, o której mowa w ust. 1, przeprowadza się postępowanie, o którym mowa w art. 12.”;
 
-- **12)** w art. 14 ust. 1 otrzymuje brzmienie: „1. G∏ówny Inspektor Sanitarny prowadzi rejestr nowej ˝ywnoÊci dopuszczonej do produkcji lub obrotu na podstawie decyzji zezwalajàcych,
-- **13)** uchyla si´ art. 16;
-- **14)** art. 17 otrzymuje brzmienie: „Art. 17. 1. Ârodki spo˝ywcze, dozwolone substancje dodatkowe lub inne sk∏adniki ˝ywnoÊci oraz materia∏y iwyroby przeznaczone do kontaktu z˝ywnoÊcià produkowane w kraju i przywo˝one z zagranicy, które nie spe∏niajà obowiàzujàcych wymagaƒ w zakresie bezpieczeƒstwa ˝ywnoÊci, w tym równie˝ wymagaƒ okreÊlonych w przepisach o materia∏ach i wyrobach przeznaczonych do kontaktu z ˝ywnoÊcià oraz w przepisach o Êrodkach ˝ywienia zwierzàt w zakresie dotyczàcym zwierzàt gospodarskich, nie mogà byç wprowadzone do obrotu wkraju wcelu spo˝ycia przez ludzi, stosowania do produkcji ˝ywnoÊci lub u˝ywania do ˝ywnoÊci. o których mowa w art. 13 ust. 7.”;
+- **12)** w art. 14 ust. 1 otrzymuje brzmienie: Ń1. Główny Inspektor Sanitarny prowadzi rejestr nowej żywności dopuszczonej do produkcji lub obrotu na podstawie decyzji zezwalających,
+- **13)** uchyla się art. 16;
+- **14)** art. 17 otrzymuje brzmienie: ŃArt. 17. 1. Ârodki spożywcze, dozwolone substancje dodatkowe lub inne składniki żywności oraz materiały iwyroby przeznaczone do kontaktu zżywnością produkowane w kraju i przywożone z zagranicy, które nie spełniają obowiązujących wymagań w zakresie bezpieczeństwa żywności, w tym również wymagań określonych w przepisach o materiałach i wyrobach przeznaczonych do kontaktu z żywnością oraz w przepisach o środkach żywienia zwierząt w zakresie dotyczącym zwierząt gospodarskich, nie mogą być wprowadzone do obrotu wkraju wcelu spożycia przez ludzi, stosowania do produkcji żywności lub używania do żywności. o których mowa w art. 13 ust. 7.”;
 
-2. Ârodki spo˝ywcze, dozwolone substancje dodatkowe lub inne sk∏adniki ˝ywnoÊci oraz materia∏y iwyroby przeznaczone do kontaktu z ˝ywnoÊcià niespe∏niajàce wymagaƒ ustalonych w ustawie mo˝na produkowaç i sprowadzaç z zagranicy, je˝eli sà one przeznaczone na eksport do paƒstw nieb´dàcych cz∏onkami Unii Europejskiej.”;
+2. Ârodki spożywcze, dozwolone substancje dodatkowe lub inne składniki żywności oraz materiały iwyroby przeznaczone do kontaktu z żywnością niespełniające wymagań ustalonych w ustawie można produkować i sprowadzać z zagranicy, jeżeli są one przeznaczone na eksport do państw niebędących członkami Unii Europejskiej.”;
 
-- **15)** w art. 18 ust. 1 otrzymuje brzmienie: „1. Przedsi´biorca wprowadzajàcy po raz pierwszy do obrotu na terytorium Rzeczypospolitej Polskiej:
-- **1)** Êrodki spo˝ywcze specjalnego przeznaczenia ˝ywieniowego, które nie nale˝à do grup okreÊlonych w przepisach wydanych na podstawie art. 10 ust. 3, oraz Êrodki spo˝ywcze specjalnego przeznaczenia ˝ywieniowego nale˝àce do tych grup, ale dla których nie zosta∏y w tych przepisach okreÊlone szczegó∏owe wymagania, i dietetyczne Êrodki spo˝ywcze specjalnego przeznaczenia medycznego,
+- **15)** w art. 18 ust. 1 otrzymuje brzmienie: Ń1. Przedsiębiorca wprowadzający po raz pierwszy do obrotu na terytorium Rzeczypospolitej Polskiej:
+- **1)** środki spożywcze specjalnego przeznaczenia żywieniowego, które nie należą do grup określonych w przepisach wydanych na podstawie art. 10 ust. 3, oraz środki spożywcze specjalnego przeznaczenia żywieniowego należące do tych grup, ale dla których nie zostały w tych przepisach określone szczegółowe wymagania, i dietetyczne środki spożywcze specjalnego przeznaczenia medycznego,
 - **2)** suplementy diety,
-- **3)** Êrodki spo˝ywcze wzbogacane substancjami okreÊlonymi na podstawie art. 9 ust. 4 pkt 3 jest obowiàzany powiadomiç G∏ównego Inspektora Sanitarnego o wprowadzaniu do obrotu okreÊlonych Êrodków spo˝ywczych, przedk∏adajàc równoczeÊnie wzór ich etykiety.”;
-- **16)** art. 19 otrzymuje brzmienie: „Art. 19. 1. Na podstawie powiadomienia, o którym mowa wart. 18 ust. 1, przeprowadza si´ post´powanie majàce na celu wyjaÊnienie, czy wymienione w powiadomieniu Êrodki spo˝ywcze nie stanowià zagro˝enia dla zdrowia cz∏owieka, a w odniesieniu do Êrodków spo˝ywczych specjalnego przeznaczenia ˝ywieniowego dodatkowo, czy odpowiadajà one szczególnym potrzebom ˝ywieniowym, zgodnie z art. 3 ust. 1 pkt 16, oraz czy wyraênie ró˝nià si´ od ˝ywnoÊci przeznaczonej do powszechnego spo˝ycia.
+- **3)** środki spożywcze wzbogacane substancjami określonymi na podstawie art. 9 ust. 4 pkt 3 jest obowiązany powiadomić Głównego Inspektora Sanitarnego o wprowadzaniu do obrotu określonych środków spożywczych, przedkładając równocześnie wzór ich etykiety.”;
+- **16)** art. 19 otrzymuje brzmienie: ŃArt. 19. 1. Na podstawie powiadomienia, o którym mowa wart. 18 ust. 1, przeprowadza się postępowanie mające na celu wyjaśnienie, czy wymienione w powiadomieniu środki spożywcze nie stanowią zagrożenia dla zdrowia człowieka, a w odniesieniu do środków spożywczych specjalnego przeznaczenia żywieniowego dodatkowo, czy odpowiadają one szczególnym potrzebom żywieniowym, zgodnie z art. 3 ust. 1 pkt 16, oraz czy wyraênie różnią się od żywności przeznaczonej do powszechnego spożycia.
 
-2. Je˝eli oka˝e si´ to niezb´dne, przedsi´biorca mo˝e zostaç zobowiàzany do udokumentowania, ˝e zg∏oszony Êrodek spo˝ywczy spe∏nia wymagania, o których mowa w ust. 1.
+2. Jeżeli okaże się to niezbędne, przedsiębiorca może zostać zobowiązany do udokumentowania, że zgłoszony środek spożywczy spełnia wymagania, o których mowa w ust. 1.
 
-3. G∏ówny Inspektor Sanitarny prowadzi rejestr Êrodków spo˝ywczych obj´tych post´powaniem wyjaÊniajàcym, o którym mowa w ust. 1, zawierajàcy dane umo˝liwiajàce identyfikacj´ tych Êrodków w celu wykluczenia ponownego przeprowadzania tego post´powania.”;
+3. Główny Inspektor Sanitarny prowadzi rejestr środków spożywczych objętych postępowaniem wyjaśniającym, o którym mowa w ust. 1, zawierający dane umożliwiające identyfikację tych środków w celu wykluczenia ponownego przeprowadzania tego postępowania.”;
 
-- **17)** art. 20 otrzymuje brzmienie: „Art. 20. 1. W post´powaniu, o którym mowa w art. 19 ust. 1, G∏ówny Inspektor Sanitarny zasi´ga opinii w∏aÊciwych jednostek badawczo-rozwojowych.
+- **17)** art. 20 otrzymuje brzmienie: ŃArt. 20. 1. W postępowaniu, o którym mowa w art. 19 ust. 1, Główny Inspektor Sanitarny zasięga opinii właściwych jednostek badawczo-rozwojowych.
 
-2. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia:
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** wykaz jednostek badawczo-rozwojowych w∏aÊciwych do wydawania opinii, o których mowa w ust. 1,
-- **2)** zakres informacji, rodzaje badaƒ naukowych lub innych danych niezb´dnych do przeprowadzenia post´powania, o którym mowa w art. 19 ust. 1 majàc na wzgl´dzie zapewnienie bezpieczeƒstwa ˝ywnoÊci, kompetencje jednostki i kwalifikacje personelu, niezale˝noÊç jednostki badawczo-rozwojowej od przedsi´biorców produkujàcych lub wprowadzajàcych ˝ywnoÊç do obrotu oraz jednolite wymagania obowiàzujàce w tym zakresie w Unii Europejskiej.”;
-- **18)** po art. 20 dodaje si´ art. 20a w brzmieniu: „Art. 20a. 1. W przypadku stwierdzenia, ˝e Êrodki spo˝ywcze, októrych mowa wart. 18 ust. 1 pkt 1 i2, nie spe∏niajà wymagaƒ okreÊlonych dla tych Êrodków, w∏aÊciwy paƒstwowy inspektor sanitarny podejmuje decyzje o czasowym wstrzymaniu lub ograniczeniu wprowadzania tych Êrodków spo˝ywczych do obrotu.
+- **1)** wykaz jednostek badawczo-rozwojowych właściwych do wydawania opinii, o których mowa w ust. 1,
+- **2)** zakres informacji, rodzaje badań naukowych lub innych danych niezbędnych do przeprowadzenia postępowania, o którym mowa w art. 19 ust. 1 mając na względzie zapewnienie bezpieczeństwa żywności, kompetencje jednostki i kwalifikacje personelu, niezależność jednostki badawczo-rozwojowej od przedsiębiorców produkujących lub wprowadzających żywność do obrotu oraz jednolite wymagania obowiązujące w tym zakresie w Unii Europejskiej.”;
+- **18)** po art. 20 dodaje się art. 20a w brzmieniu: ŃArt. 20a. 1. W przypadku stwierdzenia, że środki spożywcze, októrych mowa wart. 18 ust. 1 pkt 1 i2, nie spełniają wymagań określonych dla tych środków, właściwy państwowy inspektor sanitarny podejmuje decyzje o czasowym wstrzymaniu lub ograniczeniu wprowadzania tych środków spożywczych do obrotu.
 
-2. Decyzje, o których mowa w ust. 1, sà podejmowane równie˝, je˝eli Êrodek ust. 1 pkt 1 i 2, spe∏nia obowiàzujàce warunki w zakresie jakoÊci zdrowotnej, a na podstawie nowych informacji lub po ponownym dokonaniu oceny jakoÊci zdrowotnej tego Êrodka zostanie stwierdzone, ˝e stanowi zagro˝enie dla zdrowia cz∏owieka.
+2. Decyzje, o których mowa w ust. 1, są podejmowane również, jeżeli środek ust. 1 pkt 1 i 2, spełnia obowiązujące warunki w zakresie jakości zdrowotnej, a na podstawie nowych informacji lub po ponownym dokonaniu oceny jakości zdrowotnej tego środka zostanie stwierdzone, że stanowi zagrożenie dla zdrowia człowieka.
 
-3. O podj´ciu decyzji, o których mowa w ust. 1 i 2, powiadamia si´ G∏ównego Inspektora Sanitarnego, który powiadamia niezw∏ocznie paƒstwa cz∏onkowskie Unii Europejskiej oraz Komisj´ Europejskà, podajàc powody wydanej decyzji.”;
+3. O podjęciu decyzji, o których mowa w ust. 1 i 2, powiadamia się Głównego Inspektora Sanitarnego, który powiadamia niezwłocznie państwa członkowskie Unii Europejskiej oraz Komisję Europejską, podając powody wydanej decyzji.”;
 
 - **19)** w art. 24:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Informacje, o których mowa w ust. 1, nie mogà:
+    - **a)** ust. 2 otrzymuje brzmienie: Ń2. Informacje, o których mowa w ust. 1, nie mogą:
 
-- **1)** wprowadzaç konsumenta w b∏àd w zaspo˝ywczy, o którym mowa w art. 18 kresie charakterystyki Êrodka spo˝ywczego, wszczególnoÊci odnoÊnie do jego rodzaju, w∏aÊciwoÊci, sk∏adu, iloÊci, êród∏a lub miejsca pochodzenia, metod wytwarzania lub produkcji, awprzypadku Êrodka spo˝ywczego powszechnie spo˝ywanego zawieraç okreÊlenia „dietetyczny” oraz sugerowaç, ˝e jest to Êrodek spo˝ywczy specjalnego przeznaczenia ˝ywieniowego,
-- **2)** przypisywaç Êrodkowi spo˝ywczemu:
-    - **a)** dzia∏ania lub w∏aÊciwoÊci, których nie posiada,
-    - **b)** w∏aÊciwoÊci zapobiegania chorobom lub ich leczenia albo odwo∏ywaç si´ do takich w∏aÊciwoÊci,
+- **1)** wprowadzać konsumenta w błąd w zaspożywczy, o którym mowa w art. 18 kresie charakterystyki środka spożywczego, wszczególności odnośnie do jego rodzaju, właściwości, składu, ilości, êródła lub miejsca pochodzenia, metod wytwarzania lub produkcji, awprzypadku środka spożywczego powszechnie spożywanego zawierać określenia Ńdietetyczny” oraz sugerować, że jest to środek spożywczy specjalnego przeznaczenia żywieniowego,
+- **2)** przypisywać środkowi spożywczemu:
+    - **a)** działania lub właściwości, których nie posiada,
+    - **b)** właściwości zapobiegania chorobom lub ich leczenia albo odwoływać się do takich właściwości,
 
-- **3)** sugerowaç, ˝e Êrodek spo˝ywczy posiada szczególne w∏aÊciwoÊci, je˝eli wszystkie podobne Êrodki spo˝ywcze posiadajà takie w∏aÊciwoÊci.”,
-    - **b)** dodaje si´ ust. 6 i 7 w brzmieniu: „6. Sposób znakowania okreÊlony na podstawie ust. 5 nie dotyczy dozwolonych substancji dodatkowych nieprzeznaczonych bezpoÊrednio dla konsumenta.
+- **3)** sugerować, że środek spożywczy posiada szczególne właściwości, jeżeli wszystkie podobne środki spożywcze posiadają takie właściwości.”,
+    - **b)** dodaje się ust. 6 i 7 w brzmieniu: Ń6. Sposób znakowania określony na podstawie ust. 5 nie dotyczy dozwolonych substancji dodatkowych nieprzeznaczonych bezpośrednio dla konsumenta.
 
-7. Szczegó∏owe wymagania dotyczàce znakowania suplementów diety, naturalnych wód mineralnych, naturalnych wód êródlanych iwód sto∏owych oraz Êrodków spo˝ywczych specjalnego przeznaczenia ˝ywieniowego okreÊlajà przepisy wydane odpowiednio na podstawie art. 9 ust. 4 pkt 3, art. 9a oraz art. 10 ust. 3.”;
+7. Szczegółowe wymagania dotyczące znakowania suplementów diety, naturalnych wód mineralnych, naturalnych wód êródlanych iwód stołowych oraz środków spożywczych specjalnego przeznaczenia żywieniowego określają przepisy wydane odpowiednio na podstawie art. 9 ust. 4 pkt 3, art. 9a oraz art. 10 ust. 3.”;
 
-- **20)** w art. 27 ust. 1 otrzymuje brzmienie: „1. Produkcj´ ˝ywnoÊci, dozwolonych substancji dodatkowych lub innych sk∏adników ˝ywnoÊci oraz materia∏ów iwyrobów przeznaczonych do kontaktu z ˝ywnoÊcià lub obrót nimi wolno prowadziç, je˝eli zostanà spe∏nione wymagania w zakresie w∏aÊciwej jakoÊci zdrowotnej ˝ywnoÊci, w tym wymagania dotyczàce pomieszczeƒ, urzàdzeƒ oraz ich lokalizacji, a stan zdrowia osób bioràcych udzia∏ wprodukcji lub obrocie ˝ywnoÊcià b´dzie odpowiada∏ wymaganiom okreÊlonym wprzepisach ochorobach zakaênych i zaka˝eniach.”;
-- **21)** po art. 27 dodaje si´ art. 27a w brzmieniu: „Art. 27a. Paƒstwowi powiatowi inspektorzy sanitarni prowadzà wykazy zak∏adów produkujàcych lub wprowadzajàcych do obrotu ˝ywnoÊç obj´tà nadzorem organów Paƒstwowej Inspekcji Sanitarnej, które uzyska∏y decyzj´ w trybie okreÊlonym w art. 27 ust. 2.”;
+- **20)** w art. 27 ust. 1 otrzymuje brzmienie: Ń1. Produkcję żywności, dozwolonych substancji dodatkowych lub innych składników żywności oraz materiałów iwyrobów przeznaczonych do kontaktu z żywnością lub obrót nimi wolno prowadzić, jeżeli zostaną spełnione wymagania w zakresie właściwej jakości zdrowotnej żywności, w tym wymagania dotyczące pomieszczeń, urządzeń oraz ich lokalizacji, a stan zdrowia osób biorących udział wprodukcji lub obrocie żywnością będzie odpowiadał wymaganiom określonym wprzepisach ochorobach zakaênych i zakażeniach.”;
+- **21)** po art. 27 dodaje się art. 27a w brzmieniu: ŃArt. 27a. Państwowi powiatowi inspektorzy sanitarni prowadzą wykazy zakładów produkujących lub wprowadzających do obrotu żywność objętą nadzorem organów Państwowej Inspekcji Sanitarnej, które uzyskały decyzję w trybie określonym w art. 27 ust. 2.”;
 - **22)** w art. 28:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Kontrola wewn´trzna w zak∏adzie obejmuje czynnoÊci niezb´dne do sprawdzenia:
+    - **a)** ust. 2 otrzymuje brzmienie: Ń2. Kontrola wewnętrzna w zakładzie obejmuje czynności niezbędne do sprawdzenia:
 
-- **1)** przestrzegania warunków izasad higieny w celu zapewnienia w∏aÊciwej jakoÊci zdrowotnej ˝ywnoÊci oraz materia∏ów i wyrobów przeznaczonych do kontaktu z ˝ywnoÊcià,
+- **1)** przestrzegania warunków izasad higieny w celu zapewnienia właściwej jakości zdrowotnej żywności oraz materiałów i wyrobów przeznaczonych do kontaktu z żywnością,
 - **2)** stosowania zasad systemu HACCP.”,
-    - **b)** dodaje si´ ust. 3 i 4 w brzmieniu: „3. Kontrol´ wewn´trznà w zak∏adzie organizuje, prowadzi i koordynuje kierujàcy zak∏adem.
+    - **b)** dodaje się ust. 3 i 4 w brzmieniu: Ń3. Kontrolę wewnętrzną w zakładzie organizuje, prowadzi i koordynuje kierujący zakładem.
 
-4. Minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrem w∏aÊciwym do spraw rolnictwa okreÊli, w drodze rozporzàdzenia, szczegó∏owy zakres, metody i sposób prowadzenia wewn´trznej kontroli jakoÊci zdrowotnej ˝ywnoÊci iprzestrzegania zasad higieny w procesie produkcji, z uwzgl´dnieniem zasad systemu HACCP, wzak∏adach produkujàcych lub wprowadzajàcych do obrotu ˝ywnoÊç, majàc na wzgl´dzie zapewnienie bezpieczeƒstwa ˝ywnoÊci oraz jednolite wymagania w tym zakresie stosowane w paƒstwach cz∏onkowskich Unii Europejskiej.”;
+4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, szczegółowy zakres, metody i sposób prowadzenia wewnętrznej kontroli jakości zdrowotnej żywności iprzestrzegania zasad higieny w procesie produkcji, z uwzględnieniem zasad systemu HACCP, wzakładach produkujących lub wprowadzających do obrotu żywność, mając na względzie zapewnienie bezpieczeństwa żywności oraz jednolite wymagania w tym zakresie stosowane w państwach członkowskich Unii Europejskiej.”;
 
-- **23)** art. 29 otrzymuje brzmienie: „Art. 29. 1. System HACCP obejmuje nast´pujàce zasady i tryb post´powania:
-- **1)** zidentyfikowanie i ocen´ zagro˝eƒ jakoÊci zdrowotnej ˝ywnoÊci oraz ryzyka ich wystàpienia, atak˝e ustalenie Êrodków kontroli imetod przeciwdzia∏ania tym zagro˝eniom,
-- **2)** okreÊlenie krytycznych punktów kontroli w celu wyeliminowania lub
-- **3)** ustalenie dla ka˝dego krytycznego punktu kontroli limitów rozgraniczajàcych stany akceptowalne od nieakceptowalnych w celu zapobiegania, eliminowania lub ograniczania zidentyfikowanych zagro˝eƒ,
+- **23)** art. 29 otrzymuje brzmienie: ŃArt. 29. 1. System HACCP obejmuje następujące zasady i tryb postępowania:
+- **1)** zidentyfikowanie i ocenę zagrożeń jakości zdrowotnej żywności oraz ryzyka ich wystąpienia, atakże ustalenie środków kontroli imetod przeciwdziałania tym zagrożeniom,
+- **2)** określenie krytycznych punktów kontroli w celu wyeliminowania lub
+- **3)** ustalenie dla każdego krytycznego punktu kontroli limitów rozgraniczających stany akceptowalne od nieakceptowalnych w celu zapobiegania, eliminowania lub ograniczania zidentyfikowanych zagrożeń,
 - **4)** ustalenie i wprowadzenie systemu monitorowania krytycznych punktów kontroli,
-- **5)** ustalenie dzia∏aƒ naprawczych (korygujàcych), je˝eli monitorowanie wykazuje, ˝e krytyczny punkt kontroli nie spe∏nia wymagaƒ, o których mowa w pkt 3.
+- **5)** ustalenie działań naprawczych (korygujących), jeżeli monitorowanie wykazuje, że krytyczny punkt kontroli nie spełnia wymagań, o których mowa w pkt 3.
 
-2. Sposób weryfikacji zasad systemu HACCP w zak∏adzie, w celu potwierdzenia, ˝e post´powanie, o którym mowa w ust. 1, jest skuteczne, okreÊla kierujàcy zak∏adem. Weryfikowanie zasad systemu HACCP obejmuje dane potwierdzajàce bezpieczeƒstwo ˝ywograniczania zagro˝eƒ, noÊci odpowiednio do wielkoÊci zak∏adu i rodzaju prowadzonej dzia∏alnoÊci.”;
+2. Sposób weryfikacji zasad systemu HACCP w zakładzie, w celu potwierdzenia, że postępowanie, o którym mowa w ust. 1, jest skuteczne, określa kierujący zakładem. Weryfikowanie zasad systemu HACCP obejmuje dane potwierdzające bezpieczeństwo żywograniczania zagrożeń, ności odpowiednio do wielkości zakładu i rodzaju prowadzonej działalności.”;
 
-- **24)** art. 30 otrzymuje brzmienie: „Art. 30. 1. Kierujàcy zak∏adem lub osoba przez niego upowa˝niona jest obowiàzany wdro˝yç i stosowaç zasady systemu HACCP. Obowiàzek wdro˝enia i stosowania zasad systemu HACCP nie dotyczy producentów na etapie produkcji pierwotnej, którzy, wcelu zapewnienia w∏aÊciwej jakoÊci zdrowotnej oraz zasad higieny, sà obowiàzani wdro˝yç i stosowaç zasady dobrej praktyki produkcyjnej (GMP) i dobrej praktyki higienicznej (GHP).
+- **24)** art. 30 otrzymuje brzmienie: ŃArt. 30. 1. Kierujący zakładem lub osoba przez niego upoważniona jest obowiązany wdrożyć i stosować zasady systemu HACCP. Obowiązek wdrożenia i stosowania zasad systemu HACCP nie dotyczy producentów na etapie produkcji pierwotnej, którzy, wcelu zapewnienia właściwej jakości zdrowotnej oraz zasad higieny, są obowiązani wdrożyć i stosować zasady dobrej praktyki produkcyjnej (GMP) i dobrej praktyki higienicznej (GHP).
 
-2. Osoby, októrych mowa wust. 1, wdra˝ajàc zasady systemu HACCP w zak∏adzie, mogà zastosowaç opracowania zawarte wporadnikach dobrej praktyki produkcyjnej (GMP), dobrej praktyki higienicznej (GHP) oraz wdra˝ania i stosowania zasad systemu HACCP lub korzystaç ze wskazówek zawartych w poradnikach przy opracowywaniu we w∏asnym zakresie dokumentacji dotyczàcej zasad systemu HACCP obowiàzujàcej w zak∏adzie.”;
+2. Osoby, októrych mowa wust. 1, wdrażając zasady systemu HACCP w zakładzie, mogą zastosować opracowania zawarte wporadnikach dobrej praktyki produkcyjnej (GMP), dobrej praktyki higienicznej (GHP) oraz wdrażania i stosowania zasad systemu HACCP lub korzystać ze wskazówek zawartych w poradnikach przy opracowywaniu we własnym zakresie dokumentacji dotyczącej zasad systemu HACCP obowiązującej w zakładzie.”;
 
-- **25)** po art. 30 dodaje si´ art. 30a w brzmieniu: „Art. 30a. 1. Poradniki, o których mowa w art. 30 ust. 2, dla poszczególnych bran˝ przemys∏u lub handlu Êrodkami spo˝ywczymi, opracowujà przedsi´biorcy produkujàcy lub wprowadzajàcy ˝ywnoÊç do obrotu lub zwiàzki zrzeszajàce tych przedsi´biorców przy udziale organizacji konsumenckich oraz w konsultacji z zainteresowanymi stronami dzia∏ajàcymi wzakresie bezpieczeƒstwa ˝ywnoÊci. Poradniki podlegajà ocenie pod wzgl´dem zgodnoÊci z wymaganiami higieny przez organy urz´dowej kontroli ˝ywnoÊci zgodnie z zakresem nadzoru, o którym mowa w art. 40 ust. 1 i 2, z uwzgl´dnieniem zasad stosowanych w tym zakresie w paƒstwach cz∏onkowskich Unii Europejskiej.
+- **25)** po art. 30 dodaje się art. 30a w brzmieniu: ŃArt. 30a. 1. Poradniki, o których mowa w art. 30 ust. 2, dla poszczególnych branż przemysłu lub handlu środkami spożywczymi, opracowują przedsiębiorcy produkujący lub wprowadzający żywność do obrotu lub związki zrzeszające tych przedsiębiorców przy udziale organizacji konsumenckich oraz w konsultacji z zainteresowanymi stronami działającymi wzakresie bezpieczeństwa żywności. Poradniki podlegają ocenie pod względem zgodności z wymaganiami higieny przez organy urzędowej kontroli żywności zgodnie z zakresem nadzoru, o którym mowa w art. 40 ust. 1 i 2, z uwzględnieniem zasad stosowanych w tym zakresie w państwach członkowskich Unii Europejskiej.
 
-2. Poradniki, o których mowa w art. 30 ust. 2, uwzgl´dniajà potrzeby i mo˝liwoÊci w szczególnoÊci tych przedsi´biorców, którzy ze wzgl´du na wielkoÊç zak∏adu oraz rodzaj produkowanej lub wprowadzanej do obrotu ˝ywnoÊci:
+2. Poradniki, o których mowa w art. 30 ust. 2, uwzględniają potrzeby i możliwości w szczególności tych przedsiębiorców, którzy ze względu na wielkość zakładu oraz rodzaj produkowanej lub wprowadzanej do obrotu żywności:
 
-- **1)** prowadzà dzia∏alnoÊç na potrzeby rynków lokalnych (wgminie, na terenie której znajduje si´ zak∏ad, lub gmin sàsiadujàcych),
-- **2)** produkujà ˝ywnoÊç lub stosujà surowce do produkcji ˝ywnoÊci zgodnie ztradycyjnymi metodami, ustalonymi wieloletnià praktykà lub tradycjà charakterystycznà dla danej ˝ywnoÊci,
-- **3)** prowadzà dzia∏alnoÊç w regionach szczególnych ze wzgl´du na po∏o˝enie geograficzne lub dost´pnoÊç do zaopatrzenia.”;
-- **26)** uchyla si´ art. 32;
-- **27)** art. 33 otrzymuje brzmienie: „Art. 33. 1. Minister w∏aÊciwy do spraw zdrowia okreÊli w drodze rozporzàdzenia:
-- **1)** szczegó∏owe wymagania higieniczno-sanitarne dotyczàce zak∏adów i ich wyposa˝enia,
-- **2)** warunki sanitarne oraz wymagania w zakresie przestrzegania zasad higieny wprocesie produkcji iwobrocie Êrodkami spo˝ywczymi, dozwolonymi substancjami dodatkowymi lub innymi sk∏adnikami ˝ywnoÊci, wtym szczególnie wymagania dotyczàce Êrodków spo˝ywczych sprzedawanych luzem, ∏atwo psujàcych si´, sypkich oraz nieopakowanych, z wy∏àczeniem pozyskiwania produktów pierwotnych i produkcji Êrodków spo˝ywczych pochodzenia zwierz´cego, oraz materia∏ami i wyrobami przeznaczonymi do kontaktów z ˝ywnoÊcià majàc na wzgl´dzie obowiàzujàce w Unii Europejskiej wymagania zapewnienia bezpieczeƒstwa ˝ywnoÊci oraz bezpieczeƒstwa sprzeda˝y artyku∏ów nieb´dàcych Êrodkami spo˝ywczymi wzak∏adach sprzedajàcych ˝yw2. Wymagania, o których mowa w ust. 1, dotyczà w szczególnoÊci:
-- **1)** stanu technicznego budynków, pomieszczeƒ i instalacji,
-- **2)** jakoÊci wody, pary wodnej, lodu i powietrza,
-- **3)** gromadzenia i przechowywania odpadów z ˝ywnoÊci,
-- **4)** narz´dzi, urzàdzeƒ i wyposa˝enia zak∏adu,
-- **5)** osób wykonujàcych prace przy produkcji i w obrocie ˝ywnoÊcià.”;
-- **28)** uchyla si´ art. 34;
-- **29)** art. 35 otrzymuje brzmienie: „Art. 35. 1. Przy pracach w procesie produkcji lub w obrocie, które wymagajà stykania si´ z ˝ywnoÊcià, dozwolonymi substancjami dodatkowymi lub innymi sk∏adnikami ˝ywnoÊci, nie wolno zatrudniaç osób, które nie mogà wykonywaç prac okreÊlonych przepisami o chorobach zakaênych i zaka˝eniach.
+- **1)** prowadzą działalność na potrzeby rynków lokalnych (wgminie, na terenie której znajduje się zakład, lub gmin sąsiadujących),
+- **2)** produkują żywność lub stosują surowce do produkcji żywności zgodnie ztradycyjnymi metodami, ustalonymi wieloletnią praktyką lub tradycją charakterystyczną dla danej żywności,
+- **3)** prowadzą działalność w regionach szczególnych ze względu na położenie geograficzne lub dostępność do zaopatrzenia.”;
+- **26)** uchyla się art. 32;
+- **27)** art. 33 otrzymuje brzmienie: ŃArt. 33. 1. Minister właściwy do spraw zdrowia określi w drodze rozporządzenia:
+- **1)** szczegółowe wymagania higieniczno-sanitarne dotyczące zakładów i ich wyposażenia,
+- **2)** warunki sanitarne oraz wymagania w zakresie przestrzegania zasad higieny wprocesie produkcji iwobrocie środkami spożywczymi, dozwolonymi substancjami dodatkowymi lub innymi składnikami żywności, wtym szczególnie wymagania dotyczące środków spożywczych sprzedawanych luzem, łatwo psujących się, sypkich oraz nieopakowanych, z wyłączeniem pozyskiwania produktów pierwotnych i produkcji środków spożywczych pochodzenia zwierzęcego, oraz materiałami i wyrobami przeznaczonymi do kontaktów z żywnością mając na względzie obowiązujące w Unii Europejskiej wymagania zapewnienia bezpieczeństwa żywności oraz bezpieczeństwa sprzedaży artykułów niebędących środkami spożywczymi wzakładach sprzedających żyw2. Wymagania, o których mowa w ust. 1, dotyczą w szczególności:
+- **1)** stanu technicznego budynków, pomieszczeń i instalacji,
+- **2)** jakości wody, pary wodnej, lodu i powietrza,
+- **3)** gromadzenia i przechowywania odpadów z żywności,
+- **4)** narzędzi, urządzeń i wyposażenia zakładu,
+- **5)** osób wykonujących prace przy produkcji i w obrocie żywnością.”;
+- **28)** uchyla się art. 34;
+- **29)** art. 35 otrzymuje brzmienie: ŃArt. 35. 1. Przy pracach w procesie produkcji lub w obrocie, które wymagają stykania się z żywnością, dozwolonymi substancjami dodatkowymi lub innymi składnikami żywności, nie wolno zatrudniać osób, które nie mogą wykonywać prac określonych przepisami o chorobach zakaênych i zakażeniach.
 
-2. Zasady i tryb wykonywania badaƒ lekarskich osób, o których mowa w ust. 1, do celów sanitarno-epidemiologicznych okreÊlajà przepisy o chorobach zakaênych i zaka˝eniach.
+2. Zasady i tryb wykonywania badań lekarskich osób, o których mowa w ust. 1, do celów sanitarno-epidemiologicznych określają przepisy o chorobach zakaênych i zakażeniach.
 
-3. Przedsi´biorca jest obowiàzany przechowywaç orzeczenia lekarskie wydane na podstawie badaƒ lekarskich osób, o których mowa w ust. 1, do celów sanitarno-epidemiologicznych i udost´pniaç je na ˝àdanie organów urz´dowej kontroli ˝ywnoÊci.
+3. Przedsiębiorca jest obowiązany przechowywać orzeczenia lekarskie wydane na podstawie badań lekarskich osób, o których mowa w ust. 1, do celów sanitarno-epidemiologicznych i udostępniać je na żądanie organów urzędowej kontroli żywności.
 
-4. Osoby bioràce udzia∏ w procesie produkcji Êrodków spo˝ywczych, dozwolonych substancji dodatkowych lub innych sk∏adników ˝ywnoÊci lub wobrocie nimi sà przez przedsi´biorc´ nadzorowane, instruowane i szkolone w zakresie przestrzegania zasad higieny odpowiednio do wykonywanej pracy.
+4. Osoby biorące udział w procesie produkcji środków spożywczych, dozwolonych substancji dodatkowych lub innych składników żywności lub wobrocie nimi są przez przedsiębiorcę nadzorowane, instruowane i szkolone w zakresie przestrzegania zasad higieny odpowiednio do wykonywanej pracy.
 
-5. Przepisy ust. 4 stosuje si´ odpowiednio do produkcji i wprowadzania do obrotu materia∏ów iwyrobów przeznaczonych do kontaktu z ˝ywnoÊcià.”;
+5. Przepisy ust. 4 stosuje się odpowiednio do produkcji i wprowadzania do obrotu materiałów iwyrobów przeznaczonych do kontaktu z żywnością.”;
 
-- **30)** w art. 36: okreÊliç, wdrodze rozporzàdzenia, wymagania obowiàzujàce w zak∏adach ˝ywienia zbiorowego typu zamkni´tego, majàc na wzgl´dzie normy ˝ywienia oraz wymagania higieniczne i sanitarne, o których mowa w art. 33.”;
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Zak∏ad ˝ywienia zbiorowego typu zamkni´tego ma obowiàzek przechowywaç próbki wszystkich potraw wchodzàcych w sk∏ad ka˝dego posi∏ku.”,
-    - **b)** ust. 6 otrzymuje brzmienie: „6. Minister w∏aÊciwy do spraw zdrowia mo˝e noÊç.
+- **30)** w art. 36: określić, wdrodze rozporządzenia, wymagania obowiązujące w zakładach żywienia zbiorowego typu zamkniętego, mając na względzie normy żywienia oraz wymagania higieniczne i sanitarne, o których mowa w art. 33.”;
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Zakład żywienia zbiorowego typu zamkniętego ma obowiązek przechowywać próbki wszystkich potraw wchodzących w skład każdego posiłku.”,
+    - **b)** ust. 6 otrzymuje brzmienie: Ń6. Minister właściwy do spraw zdrowia może ność.
 
-- **31)** w art. 39 ust. 3 otrzymuje brzmienie: „3. Osoby zajmujàce si´ handlem obwoênym muszà spe∏niaç wymagania, o których mowa w art. 35 ust. 1—3, oraz przestrzegaç zasad higieny.”;
+- **31)** w art. 39 ust. 3 otrzymuje brzmienie: Ń3. Osoby zajmujące się handlem obwoênym muszą spełniać wymagania, o których mowa w art. 35 ust. 1—3, oraz przestrzegać zasad higieny.”;
 - **32)** w art. 40:
-    - **a)** po ust. 2 dodaje si´ ust. 2a w brzmieniu: „2a. Zadania ministra w∏aÊciwego do spraw zdrowia oraz ministra w∏aÊciwego do spraw rolnictwa, o których mowa w ust. 1 i 2, obejmujà zarzàdzanie ryzykiem w zakresie dotyczàcym bezpieczeƒstwa ˝ywnoÊci przy udziale organów urz´dowej kontroli ˝ywnoÊci.”,
-    - **b)** wust. 3 wyrazy „systemu HACCP” zast´puje si´ wyrazami „zasad systemu HACCP”,
-    - **c)** ust. 4 otrzymuje brzmienie: „4. Nadzór na jakoÊcià zdrowotnà artyku∏ów, o których mowa w ust. 3, przywo˝onych zzagranicy, przewo˝onych lub wywo˝onych za granic´ sprawujà organy Paƒstwowej Inspekcji Sanitarnej, z zastrze˝eniem ust. 5.”,
-    - **d)** w ust. 5 pkt 8—10 otrzymujà brzmienie: „8) przywozem z paƒstw nieb´dàcych cz∏onkami Unii Europejskiej, przewozem lub wywozem do paƒstw nieb´dàcych cz∏onkami Unii Europejskiej ˝ywnoÊci pochodzenia zwierz´cego, z wy∏àczeniem Êrodków spo˝ywczych specjalnego przeznaczenia ˝ywieniowego i suplementów diety,
+    - **a)** po ust. 2 dodaje się ust. 2a w brzmieniu: Ń2a. Zadania ministra właściwego do spraw zdrowia oraz ministra właściwego do spraw rolnictwa, o których mowa w ust. 1 i 2, obejmują zarządzanie ryzykiem w zakresie dotyczącym bezpieczeństwa żywności przy udziale organów urzędowej kontroli żywności.”,
+    - **b)** wust. 3 wyrazy Ńsystemu HACCP” zastępuje się wyrazami Ńzasad systemu HACCP”,
+    - **c)** ust. 4 otrzymuje brzmienie: Ń4. Nadzór na jakością zdrowotną artykułów, o których mowa w ust. 3, przywożonych zzagranicy, przewożonych lub wywożonych za granicę sprawują organy Państwowej Inspekcji Sanitarnej, z zastrzeżeniem ust. 5.”,
+    - **d)** w ust. 5 pkt 8—10 otrzymują brzmienie: Ń8) przywozem z państw niebędących członkami Unii Europejskiej, przewozem lub wywozem do państw niebędących członkami Unii Europejskiej żywności pochodzenia zwierzęcego, z wyłączeniem środków spożywczych specjalnego przeznaczenia żywieniowego i suplementów diety,
 
-- **9)** dzia∏alnoÊcià zwiàzanà ze sprzeda˝à bezpoÊrednià ˝ywnoÊci pochodzenia zwierz´cego okreÊlonà w przepisach o zwalczaniu chorób zakaênych zwierzàt, badaniu zwierzàt rzeênych i mi´sa oraz o Inspekcji Weterynaryjnej,
-- **10)** wdra˝aniem i stosowaniem zasad systemu HACCP obowiàzujàcych w zak∏adach przedsi´biorców produkujàcych ˝ywnoÊç pochodzenia zwierz´cego.”;
-- **33)** po art. 40 dodaje si´ art. 40a—40c w brzmieniu: „Art. 40a. 1. W celu zapewnienia naukowych podstaw analizy ryzyka zagro˝enia zdrowia jednostki badawczo-rozwojowe podlegajàce ministrowi w∏aÊciwemu do spraw zdrowia oraz ministrowi w∏aÊciwemu do spraw rolnictwa okreÊlajà i koordynujà programy monitoringu ˝ywnoÊci i˝ywienia realizowane przez organy urz´dowej kontroli ˝ywnoÊci oraz opracowujà opinie
+- **9)** działalnością związaną ze sprzedażą bezpośrednią żywności pochodzenia zwierzęcego określoną w przepisach o zwalczaniu chorób zakaênych zwierząt, badaniu zwierząt rzeênych i mięsa oraz o Inspekcji Weterynaryjnej,
+- **10)** wdrażaniem i stosowaniem zasad systemu HACCP obowiązujących w zakładach przedsiębiorców produkujących żywność pochodzenia zwierzęcego.”;
+- **33)** po art. 40 dodaje się art. 40a—40c w brzmieniu: ŃArt. 40a. 1. W celu zapewnienia naukowych podstaw analizy ryzyka zagrożenia zdrowia jednostki badawczo-rozwojowe podlegające ministrowi właściwemu do spraw zdrowia oraz ministrowi właściwemu do spraw rolnictwa określają i koordynują programy monitoringu żywności iżywienia realizowane przez organy urzędowej kontroli żywności oraz opracowują opinie
 
-2. Minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrem w∏aÊciwym do spraw rolnictwa okreÊli, w drodze rozporzàdzenia, wykaz jednostek badawczo-rozwojowych, o których mowa w ust. 1, majàc na wzgl´dzie zapewnienie bezpieczeƒstwa ˝ywnoÊci, kompetencje jednostki i kwalifikacje personelu oraz wymagania w tym zakresie obowiàzujàce w paƒstwach cz∏onkowskich Unii Europejskiej.
+2. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw rolnictwa określi, w drodze rozporządzenia, wykaz jednostek badawczo-rozwojowych, o których mowa w ust. 1, mając na względzie zapewnienie bezpieczeństwa żywności, kompetencje jednostki i kwalifikacje personelu oraz wymagania w tym zakresie obowiązujące w państwach członkowskich Unii Europejskiej.
 
-3. Powo∏uje si´ Rad´ do Spraw Monitoringu, zwanà dalej „Radà”.
+3. Powołuje się Radę do Spraw Monitoringu, zwaną dalej ŃRadą”.
 
-4. W sk∏ad Rady wchodzi:
+4. W skład Rady wchodzi:
 
-- **1)** po jednym przedstawicielu ka˝dej jednostki badawczo-rozwojowej, o których mowa w ust. 1,
-- **2)** siedmiu przedstawicieli nauki reprezentujàcych kierunki badaƒ obj´te zakresem monitoringu, naukowe niezb´dne dla oceny ryzyka. z uczelni rolniczych i medycznych oraz jednostek badawczo-rozwojowych nieb´dàcych wykonawcami badaƒ,
-- **3)** po dwóch przedstawicieli ministra w∏aÊciwego do spraw zdrowia oraz ministra w∏aÊciwego do spraw rolnictwa,
-- **4)** po jednym przedstawicielu ministra w∏aÊciwego do spraw Êrodowiska oraz Prezesa Urz´du Ochrony Konkurencji i Konsumentów.
+- **1)** po jednym przedstawicielu każdej jednostki badawczo-rozwojowej, o których mowa w ust. 1,
+- **2)** siedmiu przedstawicieli nauki reprezentujących kierunki badań objęte zakresem monitoringu, naukowe niezbędne dla oceny ryzyka. z uczelni rolniczych i medycznych oraz jednostek badawczo-rozwojowych niebędących wykonawcami badań,
+- **3)** po dwóch przedstawicieli ministra właściwego do spraw zdrowia oraz ministra właściwego do spraw rolnictwa,
+- **4)** po jednym przedstawicielu ministra właściwego do spraw środowiska oraz Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
 
-5. Przewodniczàcym Rady jest przedstawiciel ministra w∏aÊciwego do spraw zdrowia, a zast´pcà przewodniczàcego przedstawiciel ministra w∏aÊciwego do spraw rolnictwa.
+5. Przewodniczącym Rady jest przedstawiciel ministra właściwego do spraw zdrowia, a zastępcą przewodniczącego przedstawiciel ministra właściwego do spraw rolnictwa.
 
-6. Do zadaƒ Rady nale˝à sprawy zwiàzane zfunkcjonowaniem programu monitoringu na potrzeby analizy ryzyka, a w szczególnoÊci:
+6. Do zadań Rady należą sprawy związane zfunkcjonowaniem programu monitoringu na potrzeby analizy ryzyka, a w szczególności:
 
-- **1)** przygotowywanie perspektywicznych kierunków badaƒ monitoringowych,
-- **2)** przygotowywanie okresowych planów badaƒ monitoringowych,
-- **3)** opiniowanie wykonanych badaƒ w odniesieniu do za∏o˝onych celów i uzyskiwanych wyników oraz raportu z badaƒ monitoringowych przygotowywanego corocznie przez jednostki badawczo-rozwojowe prowadzàce badania monitoringowe,
-- **4)** wspó∏udzia∏ w upowszechnianiu wyników badaƒ, publikowanych w raporcie z badaƒ monitoringowych wramach dzia∏alnoÊci zawodowej cz∏onków Rady,
-- **5)** wspó∏praca z organami urz´dowej kontroli ˝ywnoÊci,
-- **6)** doradztwo naukowe na rzecz organów urz´dowej kontroli ˝ywnoÊci.
+- **1)** przygotowywanie perspektywicznych kierunków badań monitoringowych,
+- **2)** przygotowywanie okresowych planów badań monitoringowych,
+- **3)** opiniowanie wykonanych badań w odniesieniu do założonych celów i uzyskiwanych wyników oraz raportu z badań monitoringowych przygotowywanego corocznie przez jednostki badawczo-rozwojowe prowadzące badania monitoringowe,
+- **4)** współudział w upowszechnianiu wyników badań, publikowanych w raporcie z badań monitoringowych wramach działalności zawodowej członków Rady,
+- **5)** współpraca z organami urzędowej kontroli żywności,
+- **6)** doradztwo naukowe na rzecz organów urzędowej kontroli żywności.
 
-7. Dokumenty, októrych mowa wust. 6 pkt 1—3, sà przedstawiane przez Rad´ do akceptacji ministra w∏aÊciwego do spraw zdrowia i ministra w∏aÊciwego do spraw rolnictwa.
+7. Dokumenty, októrych mowa wust. 6 pkt 1—3, są przedstawiane przez Radę do akceptacji ministra właściwego do spraw zdrowia i ministra właściwego do spraw rolnictwa.
 
-8. Minister w∏aÊciwy do spraw zdrowia, w porozumieniu z ministrem w∏aÊciwym do spraw rolnictwa, okreÊli, w drodze rozporzàdzenia, regulamin pracy Rady, bioràc pod uwag´ zakres jej obowiàzków.
+8. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw rolnictwa, określi, w drodze rozporządzenia, regulamin pracy Rady, biorąc pod uwagę zakres jej obowiązków.
 
-9. Cz∏onkom Rady za udzia∏ wposiedzeniach przys∏ugujà diety oraz zwrot kosztów podró˝y na obszarze kraju przewidzianych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ).
+9. Członkom Rady za udział wposiedzeniach przysługują diety oraz zwrot kosztów podróży na obszarze kraju przewidzianych w przepisach wydanych na podstawie art. 77 § 2 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ).
 
-10. Obs∏ug´ sekretariatu Rady oraz publikacje raportu zapewnia minister w∏aÊciwy do spraw zdrowia.
+10. Obsługę sekretariatu Rady oraz publikacje raportu zapewnia minister właściwy do spraw zdrowia.
 
 **Art. 40b.**
 
-1. Nadzór, o którym mowa w art. 40 ust. 3—5, obejmuje zadania dotyczàce powiadamiania o niebezpiecznej ˝ywnoÊci, wtym ˝ywnoÊci pochodzenia zwierz´cego, dozwolonych substancjach dodatkowych i innych sk∏adnikach ˝ywnoÊci oraz Êrodkach ˝ywienia zwierzàt gospodarskich okreÊlonych wprzepisach oÊrodkach ˝ywienia zwierzàt, w ramach sieci systemu RASFF.
+1. Nadzór, o którym mowa w art. 40 ust. 3—5, obejmuje zadania dotyczące powiadamiania o niebezpiecznej żywności, wtym żywności pochodzenia zwierzęcego, dozwolonych substancjach dodatkowych i innych składnikach żywności oraz środkach żywienia zwierząt gospodarskich określonych wprzepisach ośrodkach żywienia zwierząt, w ramach sieci systemu RASFF.
 
-2. G∏ówny Inspektor Sanitarny kieruje siecià systemu RASFF oraz:
+2. Główny Inspektor Sanitarny kieruje siecią systemu RASFF oraz:
 
-- **1)** tworzy krajowy punkt kontaktowy systemu RASFF, zwany dalej „KPK”,
-- **2)** jest odpowiedzialny za funkcjonowanie KPK, tu KPK, o którym mowa w art. 39a ust. 1a ustawy z dnia 24 kwietnia 1997 r. o zwalczaniu chorób zakaênych zwierzàt, badaniu zwierzàt rzeênych i mi´sa oraz o Inspekcji Weterynaryjnej (Dz. U. z 1999 r. 66, poz. 752, z póên. zm.
-- **3)** powiadamia Komisj´ Europejskà o zarejestrowanej w Rzeczypospolitej Polskiej niebezpiecznej ˝ywnoÊci oraz Êrodkach ˝ywienia zwierzàt.
+- **1)** tworzy krajowy punkt kontaktowy systemu RASFF, zwany dalej ŃKPK”,
+- **2)** jest odpowiedzialny za funkcjonowanie KPK, tu KPK, o którym mowa w art. 39a ust. 1a ustawy z dnia 24 kwietnia 1997 r. o zwalczaniu chorób zakaênych zwierząt, badaniu zwierząt rzeênych i mięsa oraz o Inspekcji Weterynaryjnej (Dz. U. z 1999 r. 66, poz. 752, z póên. zm.
+- **3)** powiadamia Komisję Europejską o zarejestrowanej w Rzeczypospolitej Polskiej niebezpiecznej żywności oraz środkach żywienia zwierząt.
 
-3. Nadzór okreÊlony w art. 40 ust. 2 obejmuje funkcjonowanie podpunk).
+3. Nadzór określony w art. 40 ust. 2 obejmuje funkcjonowanie podpunk).
 
 **Art. 40c.**
 
-1. Minister w∏aÊciwy do spraw zdrowia wspó∏pracuje z Europejskim Urz´dem do Spraw Bezpieczeƒstwa ˚ywnoÊci, zwanym dalej „Urz´dem”.
+1. Minister właściwy do spraw zdrowia współpracuje z Europejskim Urzędem do Spraw Bezpieczeństwa ˚ywności, zwanym dalej ŃUrzędem”.
 
-2. Wspó∏praca, o której mowa w ust. 1, obejmuje w szczególnoÊci:
+2. Współpraca, o której mowa w ust. 1, obejmuje w szczególności:
 
-- **1)** wyznaczanie przedstawiciela do Forum Doradczego Urz´du,
-- **2)** sk∏adanie do Urz´du wniosków o wydanie opinii naukowych w sprawach obj´tych zakresem dzia∏ania Urz´du,
-- **3)** przekazywanie Urz´dowi zgromadzonych danych naukowych dotyczàcych bezpieczeƒstwa ˝ywnoÊci,
-- **4)** przekazywanie, na ˝àdanie Urz´du, dodatkowych danych niezb´dnych do oceny ryzyka,
-- **5)** wyznaczanie jednostek badawczo-rozwojowych, które mogà uczestniczyç w wype∏nianiu zadaƒ Urz´du, w szczególnoÊci przez wydawanie opinii naukowych.”;
-- **34)** art. 41 otrzymuje brzmienie: „Art. 41. 1. W∏aÊciwi paƒstwowi graniczni inspektorzy sanitarni przeprowadzajà równoczeÊnie z kontrolà celnà, granicznà kontrol´ sanitarnà, z zastrze˝eniem ust. 2, obejmujàcà:
-- **1)** jakoÊç zdrowotnà Êrodków spo˝ywczych, dozwolonych substancji dodatkowych, innych sk∏adników ˝ywnoÊci oraz materia∏ów i wyrobów przeznaczonych do kontaktu z ˝ywnoÊcià,
-- **2)** przydatnoÊç do produkcji przywo˝onych z zagranicy i wywo˝onych za granic´ substancji pomagajàcych w przetwarzaniu.
+- **1)** wyznaczanie przedstawiciela do Forum Doradczego Urzędu,
+- **2)** składanie do Urzędu wniosków o wydanie opinii naukowych w sprawach objętych zakresem działania Urzędu,
+- **3)** przekazywanie Urzędowi zgromadzonych danych naukowych dotyczących bezpieczeństwa żywności,
+- **4)** przekazywanie, na żądanie Urzędu, dodatkowych danych niezbędnych do oceny ryzyka,
+- **5)** wyznaczanie jednostek badawczo-rozwojowych, które mogą uczestniczyć w wypełnianiu zadań Urzędu, w szczególności przez wydawanie opinii naukowych.”;
+- **34)** art. 41 otrzymuje brzmienie: ŃArt. 41. 1. Właściwi państwowi graniczni inspektorzy sanitarni przeprowadzają równocześnie z kontrolą celną, graniczną kontrolę sanitarną, z zastrzeżeniem ust. 2, obejmującą:
+- **1)** jakość zdrowotną środków spożywczych, dozwolonych substancji dodatkowych, innych składników żywności oraz materiałów i wyrobów przeznaczonych do kontaktu z żywnością,
+- **2)** przydatność do produkcji przywożonych z zagranicy i wywożonych za granicę substancji pomagających w przetwarzaniu.
 
-2. W przypadkach koniecznoÊci wykonania specjalistycznych badaƒ laboratoryjnych lub w innych szczególnie uza——————— sadnionych przypadkach ˝ywnoÊç oraz materia∏y i wyroby przeznaczone do kontaktu z ˝ywnoÊcià mogà zostaç, za zgodà organu celnego, obj´te proce——————— durà tranzytu zgodnie z przepisami prawa celnego w celu:
+2. W przypadkach konieczności wykonania specjalistycznych badań laboratoryjnych lub w innych szczególnie uza——————— sadnionych przypadkach żywność oraz materiały i wyroby przeznaczone do kontaktu z żywnością mogą zostać, za zgodą organu celnego, objęte proce——————— durą tranzytu zgodnie z przepisami prawa celnego w celu:
 
-- **1)** sk∏adowania w miejscu i na warunkach okreÊlonych przez paƒstwowego granicznego inspektora sanitarnego do czasu uzyskania wyników badaƒ pobranych próbek albo
-- **2)** skierowania do miejsca przeznaczenia w celu przeprowadzenia kontroli jakoÊci zdrowotnej przez w∏aÊciwy organ Paƒstwowej Inspekcji Sanitarnej.
+- **1)** składowania w miejscu i na warunkach określonych przez państwowego granicznego inspektora sanitarnego do czasu uzyskania wyników badań pobranych próbek albo
+- **2)** skierowania do miejsca przeznaczenia w celu przeprowadzenia kontroli jakości zdrowotnej przez właściwy organ Państwowej Inspekcji Sanitarnej.
 
-3. Graniczna kontrola sanitarna Êrodków spo˝ywczych, dozwolonych substancji dodatkowych, innych sk∏adników ˝ywnoÊci lub substancji pomagajàcych wprzetwarzaniu oraz materia∏ów iwyrobów przeznaczonych do kontaktu z ˝ywnoÊcià wywo˝onych za granic´ mo˝e byç dokonana przez w∏aÊciwego paƒstwowego inspektora sanitarnego na podstawie wniosku o dokonanie granicznej kontroli sanitarnej z∏o˝onego nie póêniej ni˝ 48 godzin, a w przypadku Êrodków spo˝ywczych nietrwa∏ych mikrobiologicznie nie póêniej ni˝ 24 godziny przed planowanym wywozem.
+3. Graniczna kontrola sanitarna środków spożywczych, dozwolonych substancji dodatkowych, innych składników żywności lub substancji pomagających wprzetwarzaniu oraz materiałów iwyrobów przeznaczonych do kontaktu z żywnością wywożonych za granicę może być dokonana przez właściwego państwowego inspektora sanitarnego na podstawie wniosku o dokonanie granicznej kontroli sanitarnej złożonego nie póêniej niż 48 godzin, a w przypadku środków spożywczych nietrwałych mikrobiologicznie nie póêniej niż 24 godziny przed planowanym wywozem.
 
-4. W wyniku przeprowadzonej kontroli w∏aÊciwy organ Paƒstwowej Inspekcji Sanitarnej wydaje:
+4. W wyniku przeprowadzonej kontroli właściwy organ Państwowej Inspekcji Sanitarnej wydaje:
 
-- **1)** Êwiadectwo jakoÊci zdrowotnej artyku∏ów, o których mowa w ust. 1 pkt 1 i ust. 3,
-- **2)** Êwiadectwo przydatnoÊci do produkcji substancji pomagajàcych w przetwarzaniu.
+- **1)** świadectwo jakości zdrowotnej artykułów, o których mowa w ust. 1 pkt 1 i ust. 3,
+- **2)** świadectwo przydatności do produkcji substancji pomagających w przetwarzaniu.
 
-5. Odp∏atnoÊç za dokonanie granicznej kontroli sanitarnej artyku∏ów wywo˝onych za granic´ okreÊlajà przepisy dotyczàce Paƒstwowej Inspekcji Sanitarnej.
+5. Odpłatność za dokonanie granicznej kontroli sanitarnej artykułów wywożonych za granicę określają przepisy dotyczące Państwowej Inspekcji Sanitarnej.
 
-6. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia:
+6. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** szczegó∏owe warunki i zakres przeprowadzania kontroli, októrych mowa w ust. 1,
-- **2)** szczegó∏owe wskazania dotyczàce cz´stotliwoÊci wykonywania badaƒ laboratoryjnych,
-- **3)** rodzaje badaƒ laboratoryjnych,
-- **4)** wzór wniosku o dokonanie granicznej kontroli sanitarnej Êrodków spo˝ywczych, o którym mowa w ust. 1 i 3,
-- **5)** wzory Êwiadectw, o których mowa w ust. 4 majàc na wzgl´dzie zapewnienie
+- **1)** szczegółowe warunki i zakres przeprowadzania kontroli, októrych mowa w ust. 1,
+- **2)** szczegółowe wskazania dotyczące częstotliwości wykonywania badań laboratoryjnych,
+- **3)** rodzaje badań laboratoryjnych,
+- **4)** wzór wniosku o dokonanie granicznej kontroli sanitarnej środków spożywczych, o którym mowa w ust. 1 i 3,
+- **5)** wzory świadectw, o których mowa w ust. 4 mając na względzie zapewnienie
 
-7. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia:
+7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** wporozumieniu zministrem w∏aÊciwym do spraw administracji publicznej oraz ministrem w∏aÊciwym do spraw transportu wykaz przejÊç granicznych, przez które Êrodki spo˝ywcze, dozwolone substancje dodatkowe lub inne sk∏adniki ˝ywnoÊci, substancje pomagajàce w przetwarzaniu oraz materia∏y i wyroby przeznaczone do kontaktu z ˝ywnoÊcià mogà byç wprowadzane na polski obszar celny lub wywo˝one za granic´,
-- **2)** wporozumieniu zministrem w∏aÊciwym do spraw finansów publicznych sposób wspó∏pracy organów Paƒstwowej Inspekcji Sanitarnej z organami celnymi w zakresie granicznej kontroli sanitarnej majàc na wzgl´dzie koniecznoÊç sanitarnego zabezpieczenia granic paƒstwa i zapewnienie w∏aÊciwej jakoÊci zdrowotnej artyku∏ów, o których mowa w ust. 1.
+- **1)** wporozumieniu zministrem właściwym do spraw administracji publicznej oraz ministrem właściwym do spraw transportu wykaz przejść granicznych, przez które środki spożywcze, dozwolone substancje dodatkowe lub inne składniki żywności, substancje pomagające w przetwarzaniu oraz materiały i wyroby przeznaczone do kontaktu z żywnością mogą być wprowadzane na polski obszar celny lub wywożone za granicę,
+- **2)** wporozumieniu zministrem właściwym do spraw finansów publicznych sposób współpracy organów Państwowej Inspekcji Sanitarnej z organami celnymi w zakresie granicznej kontroli sanitarnej mając na względzie konieczność sanitarnego zabezpieczenia granic państwa i zapewnienie właściwej jakości zdrowotnej artykułów, o których mowa w ust. 1.
 
-8. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, wykaz towarów, które podlegajà granicznej kontroli sanitarnej, z uwzgl´dnieniem ich klasyfikacji wed∏ug kodów taryfy celnej.”;
+8. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wykaz towarów, które podlegają granicznej kontroli sanitarnej, z uwzględnieniem ich klasyfikacji według kodów taryfy celnej.”;
 
-- **35)** w art. 42 ust. 2 otrzymuje brzmienie: „2. W razie uzasadnionego niebezpieczeƒstwa zagro˝enia epidemicznego kraju lub bezpoÊredniego zagro˝enia ˝ycia lub zdrowia cz∏owieka minister w∏aÊciwy do spraw zdrowia wprowadzi, w drodze rozporzàdzenia, zakaz wprowadzania Êrodków spo˝ywczych, októrych mowa w ust. 1, na polski obszar celny, majàc na wzgl´dzie koniecznoÊç sanitarnego zabezpieczenia granic paƒstwa.”;
-- **36)** art. 43 otrzymuje brzmienie: „Art. 43. Ocena jakoÊci zdrowotnej Êrodków spo˝ywczych, dozwolonych substancji dodatkowych lub innych sk∏adników ˝ywnoÊci oraz materia∏ów i wyrobów przeznaczonych do kontaktu z ˝ywnoÊcià obj´tych nadzorem organów Paƒstwowej Inspekcji Sanitarnej jest potwierdzona Êwiadectwem jakoÊci zdrowotnej oraz mo˝e byç poprzedzona badaniami laboratoryjnymi.”;
+- **35)** w art. 42 ust. 2 otrzymuje brzmienie: Ń2. W razie uzasadnionego niebezpieczeństwa zagrożenia epidemicznego kraju lub bezpośredniego zagrożenia życia lub zdrowia człowieka minister właściwy do spraw zdrowia wprowadzi, w drodze rozporządzenia, zakaz wprowadzania środków spożywczych, októrych mowa w ust. 1, na polski obszar celny, mając na względzie konieczność sanitarnego zabezpieczenia granic państwa.”;
+- **36)** art. 43 otrzymuje brzmienie: ŃArt. 43. Ocena jakości zdrowotnej środków spożywczych, dozwolonych substancji dodatkowych lub innych składników żywności oraz materiałów i wyrobów przeznaczonych do kontaktu z żywnością objętych nadzorem organów Państwowej Inspekcji Sanitarnej jest potwierdzona świadectwem jakości zdrowotnej oraz może być poprzedzona badaniami laboratoryjnymi.”;
 - **37)** w art. 44:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Badania laboratoryjne, o których mowa w art. 43, wykonujà akredytowane:
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Badania laboratoryjne, o których mowa w art. 43, wykonują akredytowane:
 
-- **1)** laboratoria Paƒstwowej Inspekcji Sanitarnej, bezpieczeƒstwa ˝ywnoÊci. 2) laboratoria referencyjne.”,
-    - **b)** uchyla si´ ust. 3,
-    - **c)** ust. 4 otrzymuje brzmienie: „4. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, wykaz laboratoriów referencyjnych, majàc na wzgl´dzie zapewnienie wykonywania zadaƒ, o których mowa w ust. 2.”;
+- **1)** laboratoria Państwowej Inspekcji Sanitarnej, bezpieczeństwa żywności. 2) laboratoria referencyjne.”,
+    - **b)** uchyla się ust. 3,
+    - **c)** ust. 4 otrzymuje brzmienie: Ń4. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, wykaz laboratoriów referencyjnych, mając na względzie zapewnienie wykonywania zadań, o których mowa w ust. 2.”;
 
-- **38)** w art. 48 w ust. 1 w pkt 1 wyrazy „systemu HACCP” zast´puje si´ wyrazami „zasad systemu HACCP”;
-- **39)** art. 50 otrzymuje brzmienie: „Art. 50. Kto produkuje lub wprowadza do obrotu Êrodki spo˝ywcze zafa∏szowane, dozwolone substancje dodatkowe, inne sk∏adniki ˝ywnoÊci lub substancje pomagajàce w przetwarzaniu jako artyku∏y odpowiadajàce wymaganiom okreÊlonym wustawie, podlega grzywnie, karze ograniczenia wolnoÊci albo pozbawienia wolnoÊci do roku.”;
-- **40)** w art. 51 w ust. 2 pkt 3 otrzymuje brzmienie: „3) narusza zasady, o których mowa w art. 10 ust. 2, art. 12, art. 22, art. 24, art. 35 ust. 1 i 3, art. 36, art. 37 i art. 39 ust. 3,”;
+- **38)** w art. 48 w ust. 1 w pkt 1 wyrazy Ńsystemu HACCP” zastępuje się wyrazami Ńzasad systemu HACCP”;
+- **39)** art. 50 otrzymuje brzmienie: ŃArt. 50. Kto produkuje lub wprowadza do obrotu środki spożywcze zafałszowane, dozwolone substancje dodatkowe, inne składniki żywności lub substancje pomagające w przetwarzaniu jako artykuły odpowiadające wymaganiom określonym wustawie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.”;
+- **40)** w art. 51 w ust. 2 pkt 3 otrzymuje brzmienie: Ń3) narusza zasady, o których mowa w art. 10 ust. 2, art. 12, art. 22, art. 24, art. 35 ust. 1 i 3, art. 36, art. 37 i art. 39 ust. 3,”;
 - **41)** w art. 61:
-    - **a)** uchyla si´ pkt 1,
-    - **b)** pkt 2 otrzymuje brzmienie: „2) art. 10 ust. 3, art. 28 ust. 2—4, art. 30 oraz art. 48 ust. 1 w zakresie wprowadzania zasad systemu HACCP obowiàzujà od dnia uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej.”;
+    - **a)** uchyla się pkt 1,
+    - **b)** pkt 2 otrzymuje brzmienie: Ń2) art. 10 ust. 3, art. 28 ust. 2—4, art. 30 oraz art. 48 ust. 1 w zakresie wprowadzania zasad systemu HACCP obowiązują od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.”;
 
-- **42)** u˝yte w ustawie w ró˝nym przypadku wyrazy „Inspekcja Sanitarna” zast´puje si´ u˝ytymi w odpowiednim przypadku wyrazami „Paƒstwowa Inspekcja Sanitarna”;
-- **43)** u˝yte wustawie wró˝nym przypadku wyrazy „polski obszar celny” zast´puje si´ u˝ytymi w odpowiednim przypadku wyrazami „terytorium Rzeczypospolitej Polskiej”.
+- **42)** użyte w ustawie w różnym przypadku wyrazy ŃInspekcja Sanitarna” zastępuje się użytymi w odpowiednim przypadku wyrazami ŃPaństwowa Inspekcja Sanitarna”;
+- **43)** użyte wustawie wróżnym przypadku wyrazy Ńpolski obszar celny” zastępuje się użytymi w odpowiednim przypadku wyrazami Ńterytorium Rzeczypospolitej Polskiej”.
 
-**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Paƒstwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. 90, poz. 575, zpóên. zm. ˝ywczych, substancjach dodatkowych dozwolonych oraz materia∏ach iwyrobach przeznaczonych do kontaktu z ˝ywnoÊcià wywo˝onych za granic´ pobiera si´ od przedsi´biorców, na rzecz których sà one wykonywane, op∏aty w wysokoÊci okreÊlonej w ust. 1, choçby badania zwiàzane z wydaniem oceny nie wykazywa∏y naruszenia wymagaƒ higienicznych i zdrowotnych.”,
+**Art. 2.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. 90, poz. 575, zpóên. zm. żywczych, substancjach dodatkowych dozwolonych oraz materiałach iwyrobach przeznaczonych do kontaktu z żywnością wywożonych za granicę pobiera się od przedsiębiorców, na rzecz których są one wykonywane, opłaty w wysokości określonej w ust. 1, choćby badania związane z wydaniem oceny nie wykazywały naruszenia wymagań higienicznych i zdrowotnych.”,
 
-**Art. 3.** Wustawie zdnia 12 lipca 1995 r. oochronie roÊlin uprawnych (Dz. U. z 2002 r. 171, poz. 1398 i 238, poz. 2019 oraz z 2003 r. 130, poz. 1188 iNr137, poz. 1299) wart. 40 wust. 1 po pkt 15adodaje si´ pkt 15b w brzmieniu: „15b) powiadamianie podpunktu krajowego punktu kontaktowego sieci systemu wczesnego ostrzegania o niebezpiecznych produktach ˝ywnoÊciowych i Êrodkach ˝ywienia zwierzàt (systemu RASFF);”.
+**Art. 3.** Wustawie zdnia 12 lipca 1995 r. oochronie roślin uprawnych (Dz. U. z 2002 r. 171, poz. 1398 i 238, poz. 2019 oraz z 2003 r. 130, poz. 1188 iNr137, poz. 1299) wart. 40 wust. 1 po pkt 15adodaje się pkt 15b w brzmieniu: Ń15b) powiadamianie podpunktu krajowego punktu kontaktowego sieci systemu wczesnego ostrzegania o niebezpiecznych produktach żywnościowych i środkach żywienia zwierząt (systemu RASFF);”.
 
-**Art. 4.** Wustawie zdnia 24 kwietnia 1997 r. ozwalczaniu chorób zakaênych zwierzàt, badaniu zwierzàt rzeênych i mi´sa oraz o Inspekcji Weterynaryjnej (Dz.U. z1999 r. 66, poz. 752, zpóên. zm. ) wart. 36 wprowadza si´ nast´pujàce zmiany:
+**Art. 4.** Wustawie zdnia 24 kwietnia 1997 r. ozwalczaniu chorób zakaênych zwierząt, badaniu zwierząt rzeênych i mięsa oraz o Inspekcji Weterynaryjnej (Dz.U. z1999 r. 66, poz. 752, zpóên. zm. ) wart. 36 wprowadza się następujące zmiany:
 
-**Art. 5.** Wustawie zdnia 23 sierpnia 2001 r. oÊrodkach ˝ywienia zwierzàt (Dz. U. 123, poz. 1350 oraz z 2003 r. 122, poz. 1144) w art. 39 dodaje si´ ust. 3 w brzmieniu: „3. O podj´tych decyzjach organy, o których mowa w ust. 1, powiadamiajà podpunkt krajowego punktu kontaktowego wramach sieci systemu wczesnego ostrzegania o niebezpiecznych produktach ˝ywnoÊciowych i Êrodkach ˝ywienia zwierzàt (systemu RASFF).”.
+**Art. 5.** Wustawie zdnia 23 sierpnia 2001 r. ośrodkach żywienia zwierząt (Dz. U. 123, poz. 1350 oraz z 2003 r. 122, poz. 1144) w art. 39 dodaje się ust. 3 w brzmieniu: Ń3. O podjętych decyzjach organy, o których mowa w ust. 1, powiadamiają podpunkt krajowego punktu kontaktowego wramach sieci systemu wczesnego ostrzegania o niebezpiecznych produktach żywnościowych i środkach żywienia zwierząt (systemu RASFF).”.
 
-**Art. 6.** W ustawie z dnia 21 grudnia 2000 r. o jakoÊci handlowej artyku∏ów rolno-spo˝ywczych (Dz. U. z2001 r. 5, poz. 44 i 154, poz. 1802 oraz z2002 r. 135, poz. 1145 iNr 166, poz. 1360) wart. 17 wust.1 w pkt 1 dodaje si´ lit. d w brzmieniu: „d) powiadamianie podpunktu krajowego punktu kontaktowego w ramach sieci systemu wczesnego ostrzegania o niebezpiecznych produktach ˝ywnoÊciowych iÊrodkach ˝ywienia zwierzàt (systemu RASFF) o podj´tych decyzjach dotyczàcych niebezpiecznych artyku∏ów rolno-spo˝ywczych,”.
+**Art. 6.** W ustawie z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z2001 r. 5, poz. 44 i 154, poz. 1802 oraz z2002 r. 135, poz. 1145 iNr 166, poz. 1360) wart. 17 wust.1 w pkt 1 dodaje się lit. d w brzmieniu: Ńd) powiadamianie podpunktu krajowego punktu kontaktowego w ramach sieci systemu wczesnego ostrzegania o niebezpiecznych produktach żywnościowych iśrodkach żywienia zwierząt (systemu RASFF) o podjętych decyzjach dotyczących niebezpiecznych artykułów rolno-spożywczych,”.
 
-**Art. 7.** W ustawie z dnia 24 lipca 2002 r. o zmianie ustawy owarunkach zdrowotnych ˝ywnoÊci i˝ywienia oraz innych ustaw (Dz. U. 135, poz. 1145) wprowadza si´ nast´pujàce zmiany:
+**Art. 7.** W ustawie z dnia 24 lipca 2002 r. o zmianie ustawy owarunkach zdrowotnych żywności iżywienia oraz innych ustaw (Dz. U. 135, poz. 1145) wprowadza się następujące zmiany:
 
-**Art. 8.** Rejestr decyzji zezwalajàcych dotyczàcych nowej ˝ywnoÊci staje si´ zdniem wejÊcia w˝ycie ustawy za∏àcznikiem do rejestru nowej ˝ywnoÊci dopuszczonej do produkcji lub obrotu, o którym mowa w art. 14 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszà ustawà.
+**Art. 8.** Rejestr decyzji zezwalających dotyczących nowej żywności staje się zdniem wejścia wżycie ustawy załącznikiem do rejestru nowej żywności dopuszczonej do produkcji lub obrotu, o którym mowa w art. 14 ust. 1 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Do czasu zakoƒczenia procesu akredytacji laboratoriów na podstawie przepisów ustawy z dnia (Dz. U. 166, poz. 1360 oraz z 2003 r. 80, poz. 718, 130, poz. 1188 i 170, poz. 1652) badania laboratoryjne w zakresie urz´dowej kontroli ˝ywnoÊci wykonujà istniejàce laboratoria Paƒstwowej Inspekcji Sanitarnej oraz laboratoria innych organów kontroli ˝ywnoÊci i laboratoria referencyjne.
+**Art. 9.** Do czasu zakończenia procesu akredytacji laboratoriów na podstawie przepisów ustawy z dnia (Dz. U. 166, poz. 1360 oraz z 2003 r. 80, poz. 718, 130, poz. 1188 i 170, poz. 1652) badania laboratoryjne w zakresie urzędowej kontroli żywności wykonują istniejące laboratoria Państwowej Inspekcji Sanitarnej oraz laboratoria innych organów kontroli żywności i laboratoria referencyjne.
 
-**Art. 10.** Do post´powaƒ w sprawach obj´tych przepisami niniejszej ustawy wszcz´tych i niezakoƒczonych do dnia wejÊcia jej w˝ycie stosuje si´ przepisy dotychczasowe.
+**Art. 10.** Do postępowań w sprawach objętych przepisami niniejszej ustawy wszczętych i niezakończonych do dnia wejścia jej wżycie stosuje się przepisy dotychczasowe.
 
-**Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 4 pkt 1, art. 9 ust. 5, art. 10 ust. 3, art. 20, art. 32, art. 33 i 34, art. 41 ust. 6, 7 i8 iart. 44 ust. 4 ustawy wymienionej wart. 1 zachowujà moc do czasu wydania nowych przepisów wykonawczych wydanych na podstawie art. 9 ust. 4 pkt 1, art. 9 ust. 5, art. 9a, art. 10 ust. 3, art. 20 ust. 2, art. 28 ust. 4, art. 33, art. 41 ust. 6, 7 i8 iart. 44 ust. 4 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszà ustawà, nie d∏u˝ej jednak ni˝ do dnia uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej.
+**Art. 11.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 9 ust. 4 pkt 1, art. 9 ust. 5, art. 10 ust. 3, art. 20, art. 32, art. 33 i 34, art. 41 ust. 6, 7 i8 iart. 44 ust. 4 ustawy wymienionej wart. 1 zachowują moc do czasu wydania nowych przepisów wykonawczych wydanych na podstawie art. 9 ust. 4 pkt 1, art. 9 ust. 5, art. 9a, art. 10 ust. 3, art. 20 ust. 2, art. 28 ust. 4, art. 33, art. 41 ust. 6, 7 i8 iart. 44 ust. 4 ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
-**Art. 12.** Przepisy art. 42 ustawy wymienionej w art. 1 stosuje si´ do dnia uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej, a od tego dnia majà zastosowanie przepisy Unii Europejskiej ustalajàce ogólne zasady i wymagania prawa ˝ywnoÊciowego, ustanawiajàcego Europejski Urzàd do Spraw Bezpieczeƒstwa ˚ywnoÊci oraz ustalajàcego procedury w sprawie bezpieczeƒstwa ˝ywnoÊciowego, przy czym w sytuacji uzasadnionego niebezpieczeƒstwa dla zdrowia lub ˝ycia cz∏owieka pochodzàcego od ˝ywnoÊci, minister w∏aÊciwy do spraw zdrowia podejmuje wnag∏ych przypadkach, tymczasowe Êrodki ochronne i informuje o nich paƒstwa cz∏onkowskie i Komisj´ Europejskà.
+**Art. 12.** Przepisy art. 42 ustawy wymienionej w art. 1 stosuje się do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, a od tego dnia mają zastosowanie przepisy Unii Europejskiej ustalające ogólne zasady i wymagania prawa żywnościowego, ustanawiającego Europejski Urząd do Spraw Bezpieczeństwa ˚ywności oraz ustalającego procedury w sprawie bezpieczeństwa żywnościowego, przy czym w sytuacji uzasadnionego niebezpieczeństwa dla zdrowia lub życia człowieka pochodzącego od żywności, minister właściwy do spraw zdrowia podejmuje wnagłych przypadkach, tymczasowe środki ochronne i informuje o nich państwa członkowskie i Komisję Europejską.
 
 **Art. 13.**
 
-1. Od dnia uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej:
+1. Od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej:
 
-- **1)** post´powanie, októrym mowa wart. 12—15 ustawy wymienionej w art. 1, jest przeprowadzane na zasadach okreÊlonych w przepisach obowiàzujàcych w Unii Europejskiej, a zadania dotyczàce tego post´powania na terytorium Rzeczypospolitej Polskiej realizuje G∏ówny Inspektor Sanitarny;
-- **2)** graniczna kontrola sanitarna jest przeprowadzana w odniesieniu do ˝ywnoÊci oraz materia∏ów i wyrobów przeznaczonych do kontaktu z ˝ywnoÊcià przywo˝onych z paƒstw nieb´dàcych cz∏onkami Unii Europejskiej i wywo˝onych do tych paƒstw;
-- **3)** stosuje si´ przepisy art. 20a ust. 3 ustawy wymienionej w art. 1.
+- **1)** postępowanie, októrym mowa wart. 12—15 ustawy wymienionej w art. 1, jest przeprowadzane na zasadach określonych w przepisach obowiązujących w Unii Europejskiej, a zadania dotyczące tego postępowania na terytorium Rzeczypospolitej Polskiej realizuje Główny Inspektor Sanitarny;
+- **2)** graniczna kontrola sanitarna jest przeprowadzana w odniesieniu do żywności oraz materiałów i wyrobów przeznaczonych do kontaktu z żywnością przywożonych z państw niebędących członkami Unii Europejskiej i wywożonych do tych państw;
+- **3)** stosuje się przepisy art. 20a ust. 3 ustawy wymienionej w art. 1.
 
-2. Od dnia 1 stycznia 2005 r. stosuje si´ przepisy art. 5 ust. 3 ustawy wymienionej w art. 1.
+2. Od dnia 1 stycznia 2005 r. stosuje się przepisy art. 5 ust. 3 ustawy wymienionej w art. 1.
 
-**Art. 14.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem art. 1 pkt 43, który wchodzi w˝ycie zdniem uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej. 30 sierpnia 2002 r. o systemie oceny zgodnoÊci Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+**Art. 14.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 43, który wchodzi wżycie zdniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. 30 sierpnia 2002 r. o systemie oceny zgodności Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

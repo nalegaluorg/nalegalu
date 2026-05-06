@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# dze Êródlàdowej (Dz. U. z 2006 r. 123, poz. 857, li, drodze rozporzàdzenia, dyrektorów urz´z 2007 r. 123, poz. 846 i 176, poz. 1238 oraz dów ˝eglugi Êródlàdowej w∏aÊciwych do z2008 r. 171, poz. 1057) wprowadza si´ nast´pujà- przeprowadzania pomiaru statku i inspekcji ce zmiany: technicznej statku, kierujàc si´ kryteriami eko1) wart. 5wust. 1dodaje si´ pkt 8—11 wbrzmieniu: nomicznymi i intensywnoÊcià ruchu ˝eglugowego.
+# dze śródlądowej (Dz. U. z 2006 r. 123, poz. 857, li, drodze rozporządzenia, dyrektorów urzęz 2007 r. 123, poz. 846 i 176, poz. 1238 oraz dów żeglugi śródlądowej właściwych do z2008 r. 171, poz. 1057) wprowadza się następują- przeprowadzania pomiaru statku i inspekcji ce zmiany: technicznej statku, kierując się kryteriami eko1) wart. 5wust. 1dodaje się pkt 8—11 wbrzmieniu: nomicznymi i intensywnością ruchu żeglugowego.
 
 | Pole | Wartość |
 |---|---|
@@ -24,195 +24,195 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090980818) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/818/text.pdf) |
 
-„8) paƒstwo cz∏onkowskie paƒstwo cz∏onkowskie Unii Europejskiej, paƒstwo cz∏onkowskie 2c. Dyrektorzy urz´dów ˝eglugi Êródlàdowej, Europejskiego Porozumienia Wolnym Han- których mowa ust. 2a, dzia∏ajà jako organ dlu (EFTA) stron´ umowy Europejskim inspekcyjny.”;
-Obszarze Gospodarczym lub Konfederacj´ 3) wart. 10 ust. 1otrzymuje brzmienie: Szwajcarskà;
-„1. Zadania, których mowa art. 9 ust. 2
-9) paƒstwo trzecie paƒstwo nieb´dàce paƒ- pkt 2—8 i10, wykonujà uprawnieni do inspekstwem cz∏onkowskim; cji pracownicy urz´dów ˝eglugi Êródlàdowej,
-10) dokument bezpieczeƒstwa statku wspólnotowe Êwiadectwo zdolnoÊci ˝eglugowej, wspólnotowe tymczasowe Êwiadectwo zdolnoÊci ˝eglugowej, Êwiadectwo zdolnoÊci ˝eglugowej albo uproszczone Êwiadectwo zdolnoÊci ˝eglugowej;
-11) dokument dopuszczajàcy statek do ˝eglugi dokument bezpieczeƒstwa statku albo inny dokument wydany przez w∏aÊciwy organ paƒstwa cz∏onkowskiego albo paƒstwa trzeciego, potwierdzajàcy dopuszczenie statku do ˝eglugi po wodach Êródlàdowych tego paƒstwa.”;
-2) wart. 9po ust. 2dodaje si´ ust. 2a—2c wbrzmieniu: „2a. Do w∏aÊciwoÊci dyrektorów urz´dów ˝eglugi Êródlàdowej, okreÊlonych przepisach wydanych na podstawie ust. 2b, nale˝y tak˝e przeprowadzanie:
+Ń8) państwo członkowskie państwo członkowskie Unii Europejskiej, państwo członkowskie 2c. Dyrektorzy urzędów żeglugi śródlądowej, Europejskiego Porozumienia Wolnym Han- których mowa ust. 2a, działają jako organ dlu (EFTA) stronę umowy Europejskim inspekcyjny.”;
+Obszarze Gospodarczym lub Konfederację 3) wart. 10 ust. 1otrzymuje brzmienie: Szwajcarską;
+Ń1. Zadania, których mowa art. 9 ust. 2
+9) państwo trzecie państwo niebędące pań- pkt 2—8 i10, wykonują uprawnieni do inspekstwem członkowskim; cji pracownicy urzędów żeglugi śródlądowej,
+10) dokument bezpieczeństwa statku wspólnotowe świadectwo zdolności żeglugowej, wspólnotowe tymczasowe świadectwo zdolności żeglugowej, świadectwo zdolności żeglugowej albo uproszczone świadectwo zdolności żeglugowej;
+11) dokument dopuszczający statek do żeglugi dokument bezpieczeństwa statku albo inny dokument wydany przez właściwy organ państwa członkowskiego albo państwa trzeciego, potwierdzający dopuszczenie statku do żeglugi po wodach śródlądowych tego państwa.”;
+2) wart. 9po ust. 2dodaje się ust. 2a—2c wbrzmieniu: Ń2a. Do właściwości dyrektorów urzędów żeglugi śródlądowej, określonych przepisach wydanych na podstawie ust. 2b, należy także przeprowadzanie:
 1) pomiaru statku;
 2) inspekcji technicznej statku.
-zwani dalej „inspektorami”.”;
-4) po art. 10 dodaje si´ art. 10a wbrzmieniu: „Art. 10a. 1. Zadania organu inspekcyjnego, októrym mowa wart. 9ust. 2a, wykonuje powo∏ywana iodwo∏ywana przez ten organ techniczna komisja inspekcyjna, zwana dalej „komisjà inspekcyjnà”.
-2. W sk∏ad komisji inspekcyjnej wchodzà przewodniczàcy i eksperci. Jako ekspertów nale˝y powo∏aç szczególnoÊci: pracownika urz´du ˝eglugi Êródlàdowej, specjalist´ do spraw budowy okr´tów oraz budowy silników okr´towych zakresie ˝eglugi Êródlàdowej i specjalist´ do spraw nautyki posiadajàcego patent ˝eglarski uprawniajàcy do kierowania statkiem.”;
-5) art. 11 otrzymuje brzmienie: „Art. 11. 1. W przypadku stwierdzenia wyniku inspekcji, ˝e dokument dopuszczajàcy statek do ˝eglugi jest niewa˝ny lub ˝e statek nie spe∏nia wymagaƒ okreÊlonych tym dokumencie, jednak˝e taka niewa˝noÊç albo niezgodnoÊç nie stanowi zagro˝enia bezpieczeƒstwa ˝eglugi, inspektor wzywa armatora do niezw∏ocznego usuni´cia stwierdzonych naruszeƒ.
+zwani dalej Ńinspektorami”.”;
+4) po art. 10 dodaje się art. 10a wbrzmieniu: ŃArt. 10a. 1. Zadania organu inspekcyjnego, októrym mowa wart. 9ust. 2a, wykonuje powoływana iodwoływana przez ten organ techniczna komisja inspekcyjna, zwana dalej Ńkomisją inspekcyjną”.
+2. W skład komisji inspekcyjnej wchodzą przewodniczący i eksperci. Jako ekspertów należy powołać szczególności: pracownika urzędu żeglugi śródlądowej, specjalistę do spraw budowy okrętów oraz budowy silników okrętowych zakresie żeglugi śródlądowej i specjalistę do spraw nautyki posiadającego patent żeglarski uprawniający do kierowania statkiem.”;
+5) art. 11 otrzymuje brzmienie: ŃArt. 11. 1. W przypadku stwierdzenia wyniku inspekcji, że dokument dopuszczający statek do żeglugi jest nieważny lub że statek nie spełnia wymagań określonych tym dokumencie, jednakże taka nieważność albo niezgodność nie stanowi zagrożenia bezpieczeństwa żeglugi, inspektor wzywa armatora do niezwłocznego usunięcia stwierdzonych naruszeń.
 2. W przypadku stwierdzenia wyniku inspekcji:
-1) braku dokumentu dopuszczajàcego statek do ˝eglugi, ——————— do czasu usuni´cia stwierdzonych naruszeƒ. d) ust. 8otrzymuje brzmienie:
-3. O ka˝dym przypadku naruszeƒ, któ- „8. Minister w∏aÊciwy do spraw transportu okrerych mowa ust. 1 i 2, zatrzymaniu Êli, wdrodze rozporzàdzenia, wzory itryb wystatku oraz wydanej decyzji powia- dawania pozwoleƒ, wzale˝noÊci od tego, czy damia si´ na piÊmie, wraz zuzasadnie- pozwolenia dotyczà regularnej ˝eglugi mi´niem, administracj´ paƒstwa, któ- dzy polskimi portami lub mi´dzy portem polrym zosta∏ wystawiony dokument do- skim a portem innego paƒstwa czy innych puszczajàcy statek do ˝eglugi, wtermi- przypadków uprawiania ˝eglugi, z uwzgl´dnie 7 dni od dnia stwierdzenia naru- nieniem zakresu inspekcji, rodzaju, przeznaszenia.”; czenia, stanu technicznego i wyposa˝enia statku.”;
+1) braku dokumentu dopuszczającego statek do żeglugi, ——————— do czasu usunięcia stwierdzonych naruszeń. d) ust. 8otrzymuje brzmienie:
+3. O każdym przypadku naruszeń, któ- Ń8. Minister właściwy do spraw transportu okrerych mowa ust. 1 i 2, zatrzymaniu śli, wdrodze rozporządzenia, wzory itryb wystatku oraz wydanej decyzji powia- dawania pozwoleń, wzależności od tego, czy damia się na piśmie, wraz zuzasadnie- pozwolenia dotyczą regularnej żeglugi mięniem, administrację państwa, któ- dzy polskimi portami lub między portem polrym został wystawiony dokument do- skim a portem innego państwa czy innych puszczający statek do żeglugi, wtermi- przypadków uprawiania żeglugi, z uwzględnie 7 dni od dnia stwierdzenia naru- nieniem zakresu inspekcji, rodzaju, przeznaszenia.”; czenia, stanu technicznego i wyposażenia statku.”;
 6) wart. 15:
-a) ust. 1i2otrzymujà brzmienie: 7) wart. 17 ust. 8otrzymuje brzmienie: „1. ˚eglug´ na polskich Êródlàdowych drogach „8. Uznaje si´ zaÊwiadczenia spe∏nieniu wymowodnych mo˝e uprawiaç: gu zdolnoÊci zawodowej wydane zgodnie
-1) statek polski; zobowiàzujàcymi wpaƒstwach cz∏onkowskich przepisami sprawie dost´pu do wykonywa2) statek innego ni˝ Rzeczpospolita Polska nia zawodu przewoênika towarów ˝egludze paƒstwa cz∏onkowskiego zakresie i na Êródlàdowej transporcie krajowym i mi´warunkach okreÊlonych w: dzynarodowym oraz wzajemnego uznawania
-a) ustawie, dyplomów, zaÊwiadczeƒ i innych dowodów
-b) umowach mi´dzynarodowych zawar- kwalifikacji formalnych.”;
-tych przez Rzeczpospolità Polskà albo Uni´ Europejskà z paƒstwem przyna- 8) wart. 18: le˝noÊci statku;
+a) ust. 1i2otrzymują brzmienie: 7) wart. 17 ust. 8otrzymuje brzmienie: Ń1. ˚eglugę na polskich śródlądowych drogach Ń8. Uznaje się zaświadczenia spełnieniu wymowodnych może uprawiać: gu zdolności zawodowej wydane zgodnie
+1) statek polski; zobowiązującymi wpaństwach członkowskich przepisami sprawie dostępu do wykonywa2) statek innego niż Rzeczpospolita Polska nia zawodu przewoênika towarów żegludze państwa członkowskiego zakresie i na śródlądowej transporcie krajowym i mięwarunkach określonych w: dzynarodowym oraz wzajemnego uznawania
+a) ustawie, dyplomów, zaświadczeń i innych dowodów
+b) umowach międzynarodowych zawar- kwalifikacji formalnych.”;
+tych przez Rzeczpospolitą Polską albo Unię Europejską z państwem przyna- 8) wart. 18: leżności statku;
 a) ust. 5otrzymuje brzmienie:
-3) statek paƒstwa trzeciego zakresie i na warunkach okreÊlonych wumowach mi´- „5. Do rejestru, októrym mowa wust. 1i2, modzynarodowych zawartych przez Rzecz- ˝e byç wpisany statek stanowiàcy w∏asnoÊç pospolità Polskà z paƒstwem przynale˝- osoby fizycznej majàcej obywatelstwo innenoÊci statku. go ni˝ Rzeczpospolita Polska paƒstwa cz∏onkowskiego lub osoby prawnej majàcej sie2. W przypadku braku umowy mi´dzynarodo- dzib´ innym ni˝ Rzeczpospolita Polska wej, statek, którym mowa ust. 1 pkt 2 paƒstwie cz∏onkowskim, po przedstawieniu lit.b ipkt 3, mo˝e uprawiaç ˝eglug´ na pol- dokumentu stwierdzajàcego prawo w∏asnoskich Êródlàdowych drogach wodnych po Êci do statku oraz innych dokumentów, uzyskaniu pozwolenia: októrych mowa wust. 4.”,
-1) ministra w∏aÊciwego do spraw transportu przypadku prowadzenia regularnej b) uchyla si´ ust. 6;
-˝eglugi mi´dzy polskimi portami lub mi´dzy portem polskim a portem paƒstwa 9) wart. 26: trzeciego;
-a) ust. 3i4otrzymujà brzmienie:
-2) dyrektora urz´du ˝eglugi Êródlàdowej w∏aÊciwego terytorialnie dla miejsca „3. Pomiar statku przeprowadza, na wniosek arprzekroczenia granicy Rzeczypospolitej matora, organ inspekcyjny, wydajàc zaPolskiej wpozosta∏ych przypadkach.”, Êwiadczenie zpomiaru statku.
-b) uchyla si´ ust. 3a, 4. Na podstawie zaÊwiadczenia zpomiaru statku dyrektor urz´du ˝eglugi Êródlàdowej wyc) ust. 4i5otrzymujà brzmienie: daje Êwiadectwo pomiarowe na okres nie d∏u˝szy ni˝ 15 lat.”, pomiaru statku;
-3) wysokoÊç i sposób uiszczania op∏at za poszczególne czynnoÊci pomiaru statku, przy czym wysokoÊç op∏aty za danà czynnoÊç nie mo˝e przekroczyç 1000z∏.”,
-c) dodaje si´ ust. 8wbrzmieniu: „8. Wydajàc rozporzàdzenie, którym mowa wust. 7, nale˝y uwzgl´dniç odpowiednio:
-1) koniecznoÊç zapewnienia sprawnoÊci procedur administracyjnych oraz ujednolicenia treÊci stosowanych dokumentów;
-2) rodzaj, wielkoÊç iprzeznaczenie statku;
-3) koszty osobowe i rzeczowe zwiàzane zwykonaniem czynnoÊci pomiaru statku, zale˝noÊci od rodzaju czynnoÊci, miejsca wykonania czynnoÊci albo czasu niezb´dnego na ich wykonanie.”;
-10) po art. 26 dodaje si´ art. 26a wbrzmieniu: „Art. 26a. 1. Organ inspekcyjny mo˝e powierzyç wykonanie okreÊlonych czynnoÊci pomiaru statku upowa˝nionym tym celu podmiotom. W takim przypadku op∏ata za wykonanie tych czynnoÊci stanowi przychód wykonujàcego je podmiotu.
-2. Podmiot, którym mowa ust. 1, przekazuje wyniki z wykonanych czynnoÊci pomiaru statku organowi inspekcyjnemu, który na ich podstawie wydaje zaÊwiadczenie z pomiaru statku.
-3. Minister w∏aÊciwy do spraw transportu okreÊli, drodze rozporzàdzenia, kryteria, jakie powinny spe∏niaç podmioty upowa˝nione do wykonywania czynnoÊci pomiaru statku, oraz sposób ich upowa˝niania do wykonywania tych czynnoÊci, uwzgl´dniajàc koniecznoÊç zapewnienia odpowiedniego poziomu merytorycznego itechnicznego przy wykonywaniu powierzonych czynnoÊci.
-4. Minister w∏aÊciwy do spraw transportu og∏osi, drodze obwieszczenia, wykaz podmiotów upowa˝nionych do wykonywania czynnoÊci pomiaru statku.”;
-11) art. 28—34 otrzymujà brzmienie:
-2. W dokumencie bezpieczeƒstwa statku okreÊla si´ tak˝e sk∏ad za∏ogi niezb´dny do zapewnienia bezpiecznej ˝eglugi.
-3. Dokument bezpieczeƒstwa statku wydaje oraz przed∏u˝a termin jego wa˝noÊci dyrektor urz´du ˝eglugi Êródlàdowej na wniosek armatora.
-4. Uznaje si´:
-1) wspólnotowe Êwiadectwo zdolnoÊci wydane przez w∏aÊciwy organ innego ni˝ Rzeczpospolita Polska paƒstwa cz∏onkowskiego;
-2) inny dokument dopuszczajàcy statek do ˝eglugi wydany przez:
-a) w∏aÊciwy organ innego ni˝ Rzeczpospolita Polska paƒstwa cz∏onkowskiego zgodnie zobowiàzujàcymi paƒstwach cz∏onkowskich przepisami wzajemnym uznawaniu Êwiadectw zdolnoÊci w˝egludze Êródlàdowej,
-b) w∏aÊciwy organ paƒstwa trzeciego zgodnie z obowiàzujàcymi paƒstwach cz∏onkowskich przepisami wzajemnym uznawaniu Êwiadectw zdolnoÊci ˝eglugowej ˝egludze Êródlàdowej, zzastrze˝eniem ust. 5;
-3) Êwiadectwo wydane zgodnie z art. 22 Konwencji z dnia 17 paêdziernika 1868 r. ˝egludze na Renie, wbrzmieniu nadanym zrewidowanà Konwencjà zdnia 20 listopada 1963 r. ˝egludze na Renie, zwanej dalej „Konwencjà o˝egludze na Renie”.
-5. Wprzypadku, októrym mowa wust. 4 pkt 2 lit. b, dyrektor urz´du ˝eglugi Êródlàdowej wydaje, po przeprowadzeniu inspekcji statku, pozwolenie, októrym mowa wart. 15 ust. 2pkt 2.
+3) statek państwa trzeciego zakresie i na warunkach określonych wumowach mię- Ń5. Do rejestru, októrym mowa wust. 1i2, modzynarodowych zawartych przez Rzecz- że być wpisany statek stanowiący własność pospolitą Polską z państwem przynależ- osoby fizycznej mającej obywatelstwo inneności statku. go niż Rzeczpospolita Polska państwa członkowskiego lub osoby prawnej mającej sie2. W przypadku braku umowy międzynarodo- dzibę innym niż Rzeczpospolita Polska wej, statek, którym mowa ust. 1 pkt 2 państwie członkowskim, po przedstawieniu lit.b ipkt 3, może uprawiać żeglugę na pol- dokumentu stwierdzającego prawo własnoskich śródlądowych drogach wodnych po ści do statku oraz innych dokumentów, uzyskaniu pozwolenia: októrych mowa wust. 4.”,
+1) ministra właściwego do spraw transportu przypadku prowadzenia regularnej b) uchyla się ust. 6;
+żeglugi między polskimi portami lub między portem polskim a portem państwa 9) wart. 26: trzeciego;
+a) ust. 3i4otrzymują brzmienie:
+2) dyrektora urzędu żeglugi śródlądowej właściwego terytorialnie dla miejsca Ń3. Pomiar statku przeprowadza, na wniosek arprzekroczenia granicy Rzeczypospolitej matora, organ inspekcyjny, wydając zaPolskiej wpozostałych przypadkach.”, świadczenie zpomiaru statku.
+b) uchyla się ust. 3a, 4. Na podstawie zaświadczenia zpomiaru statku dyrektor urzędu żeglugi śródlądowej wyc) ust. 4i5otrzymują brzmienie: daje świadectwo pomiarowe na okres nie dłuższy niż 15 lat.”, pomiaru statku;
+3) wysokość i sposób uiszczania opłat za poszczególne czynności pomiaru statku, przy czym wysokość opłaty za daną czynność nie może przekroczyć 1000zł.”,
+c) dodaje się ust. 8wbrzmieniu: Ń8. Wydając rozporządzenie, którym mowa wust. 7, należy uwzględnić odpowiednio:
+1) konieczność zapewnienia sprawności procedur administracyjnych oraz ujednolicenia treści stosowanych dokumentów;
+2) rodzaj, wielkość iprzeznaczenie statku;
+3) koszty osobowe i rzeczowe związane zwykonaniem czynności pomiaru statku, zależności od rodzaju czynności, miejsca wykonania czynności albo czasu niezbędnego na ich wykonanie.”;
+10) po art. 26 dodaje się art. 26a wbrzmieniu: ŃArt. 26a. 1. Organ inspekcyjny może powierzyć wykonanie określonych czynności pomiaru statku upoważnionym tym celu podmiotom. W takim przypadku opłata za wykonanie tych czynności stanowi przychód wykonującego je podmiotu.
+2. Podmiot, którym mowa ust. 1, przekazuje wyniki z wykonanych czynności pomiaru statku organowi inspekcyjnemu, który na ich podstawie wydaje zaświadczenie z pomiaru statku.
+3. Minister właściwy do spraw transportu określi, drodze rozporządzenia, kryteria, jakie powinny spełniać podmioty upoważnione do wykonywania czynności pomiaru statku, oraz sposób ich upoważniania do wykonywania tych czynności, uwzględniając konieczność zapewnienia odpowiedniego poziomu merytorycznego itechnicznego przy wykonywaniu powierzonych czynności.
+4. Minister właściwy do spraw transportu ogłosi, drodze obwieszczenia, wykaz podmiotów upoważnionych do wykonywania czynności pomiaru statku.”;
+11) art. 28—34 otrzymują brzmienie:
+2. W dokumencie bezpieczeństwa statku określa się także skład załogi niezbędny do zapewnienia bezpiecznej żeglugi.
+3. Dokument bezpieczeństwa statku wydaje oraz przedłuża termin jego ważności dyrektor urzędu żeglugi śródlądowej na wniosek armatora.
+4. Uznaje się:
+1) wspólnotowe świadectwo zdolności wydane przez właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego;
+2) inny dokument dopuszczający statek do żeglugi wydany przez:
+a) właściwy organ innego niż Rzeczpospolita Polska państwa członkowskiego zgodnie zobowiązującymi państwach członkowskich przepisami wzajemnym uznawaniu świadectw zdolności wżegludze śródlądowej,
+b) właściwy organ państwa trzeciego zgodnie z obowiązującymi państwach członkowskich przepisami wzajemnym uznawaniu świadectw zdolności żeglugowej żegludze śródlądowej, zzastrzeżeniem ust. 5;
+3) świadectwo wydane zgodnie z art. 22 Konwencji z dnia 17 paêdziernika 1868 r. żegludze na Renie, wbrzmieniu nadanym zrewidowaną Konwencją zdnia 20 listopada 1963 r. żegludze na Renie, zwanej dalej ŃKonwencją ożegludze na Renie”.
+5. Wprzypadku, októrym mowa wust. 4 pkt 2 lit. b, dyrektor urzędu żeglugi śródlądowej wydaje, po przeprowadzeniu inspekcji statku, pozwolenie, októrym mowa wart. 15 ust. 2pkt 2.
 
 **Art. 29.**
 
-1. Wspólnotowe Êwiadectwo zdolnoÊci ˝eglugowej uprawnia do ˝eglugi po polskich Êródlàdowych drogach wodnych lub Êródlàdowych drogach wodnych inÊródlàdowych dróg wodnych paƒstw cz∏onkowskich z podzia∏em na rejony p∏ywania, do których stosuje si´ wymagania techniczne dla statków obj´tych obowiàzkiem posiadania wspólnotowego Êwiadectwa zdolnoÊci ˝eglugowej, majàc na wzgl´dzie zapewnienie harmonizacji warunków wydawania wspólnotowego Êwiadectwa zdolnoÊci ˝eglugowej.
+1. Wspólnotowe świadectwo zdolności żeglugowej uprawnia do żeglugi po polskich śródlądowych drogach wodnych lub śródlądowych drogach wodnych inśródlądowych dróg wodnych państw członkowskich z podziałem na rejony pływania, do których stosuje się wymagania techniczne dla statków objętych obowiązkiem posiadania wspólnotowego świadectwa zdolności żeglugowej, mając na względzie zapewnienie harmonizacji warunków wydawania wspólnotowego świadectwa zdolności żeglugowej.
 
-4. Wcelu dokonania zmian we wspólnotowym Êwiadectwie zdolnoÊci ˝eglugowej zakresie uprawnieƒ do ˝eglugi danym rejonie p∏ywania, statek poddaje si´ inspekcji technicznej, której mowa art. 34b ust. 1, dla ustalenia czy spe∏nia on wymagania techniczne dla tego rejonu p∏ywania.
+4. Wcelu dokonania zmian we wspólnotowym świadectwie zdolności żeglugowej zakresie uprawnień do żeglugi danym rejonie pływania, statek poddaje się inspekcji technicznej, której mowa art. 34b ust. 1, dla ustalenia czy spełnia on wymagania techniczne dla tego rejonu pływania.
 
-**Art. 30.** Wspólnotowe Êwiadectwo zdolnoÊci ˝eglugowej wydaje si´ dla:
+**Art. 30.** Wspólnotowe świadectwo zdolności żeglugowej wydaje się dla:
 
-**Art. 31.** Wymogu uzyskania wspólnotowego Êwiadectwa zdolnoÊci nie stosuje si´ do:
+**Art. 31.** Wymogu uzyskania wspólnotowego świadectwa zdolności nie stosuje się do:
 
 **Art. 32.**
 
-1. Do wniosku owydanie wspólnotowego Êwiadectwa zdolnoÊci nale˝y za∏àczyç:
+1. Do wniosku owydanie wspólnotowego świadectwa zdolności należy załączyć:
 
-- **1)** zaÊwiadczenie potwierdzajàce pozytywny wynik z przeprowadzonej nych ust. 1 lub wyciàgi z tych dokumentów.
+- **1)** zaświadczenie potwierdzające pozytywny wynik z przeprowadzonej nych ust. 1 lub wyciągi z tych dokumentów.
 
-3. Dyrektor urz´du ˝eglugi Êródlàdowej odmawia, drodze decyzji administracyjnej, wydania wspólnotowego Êwiadectwa zdolnoÊci ˝eglugowej, przypadku gdy nie zosta∏y spe∏nione warunki okreÊlone wust. 1.
+3. Dyrektor urzędu żeglugi śródlądowej odmawia, drodze decyzji administracyjnej, wydania wspólnotowego świadectwa zdolności żeglugowej, przypadku gdy nie zostały spełnione warunki określone wust. 1.
 
-4. We wspólnotowym Êwiadectwie zdolnoÊci dokonuje si´ zmian na wniosek armatora.
+4. We wspólnotowym świadectwie zdolności dokonuje się zmian na wniosek armatora.
 
-5. Przepisy ust. 1—3 stosuje si´ odpowiednio sprawie przed∏u˝enie terminu wa˝noÊci wspólnotowego Êwiadectwa zdolnoÊci ˝eglugowej.
+5. Przepisy ust. 1—3 stosuje się odpowiednio sprawie przedłużenie terminu ważności wspólnotowego świadectwa zdolności żeglugowej.
 
 **Art. 33.**
 
-1. Wspólnotowe Êwiadectwo zdolnoÊci ˝eglugowej wydaje si´ na czas oznaczony wzale˝noÊci od rodzaju statku, nie d∏u˝szy jednak ni˝:
+1. Wspólnotowe świadectwo zdolności żeglugowej wydaje się na czas oznaczony wzależności od rodzaju statku, nie dłuższy jednak niż:
 
-- **1)** 5 lat przypadku statku pasa˝erskiego;
-- **2)** 10 lat przypadku statku innego ni˝ okreÊlony wpkt 1.
+- **1)** 5 lat przypadku statku pasażerskiego;
+- **2)** 10 lat przypadku statku innego niż określony wpkt 1.
 
-2. Dyrektor urz´du ˝eglugi Êródlàdowej, bioràc pod uwag´ koniecznoÊç zapewnienia bezpieczeƒstwa ˝eglugi, mo˝e przed∏u˝yç termin wa˝noÊci wspólnotowego Êwiadectwa zdolnoÊci ˝eglugowej bez przeprowadzenia inspekcji technicznej statku na okres nie d∏u˝szy ni˝ 6 miesi´cy, je˝eli statek jest przebudowywany lub znajduje si´ miejscu, którym nie ma mo˝liwoÊci przeprowadzenia inspekcji technicznej. Prze1) tryb wydawania, przed∏u˝ania, cofania i dokonywania zmian wspólnotowego Êwiadectwa zdolnoÊci ˝eglugowej,
+2. Dyrektor urzędu żeglugi śródlądowej, biorąc pod uwagę konieczność zapewnienia bezpieczeństwa żeglugi, może przedłużyć termin ważności wspólnotowego świadectwa zdolności żeglugowej bez przeprowadzenia inspekcji technicznej statku na okres nie dłuższy niż 6 miesięcy, jeżeli statek jest przebudowywany lub znajduje się miejscu, którym nie ma możliwości przeprowadzenia inspekcji technicznej. Prze1) tryb wydawania, przedłużania, cofania i dokonywania zmian wspólnotowego świadectwa zdolności żeglugowej,
 
-- **2)** wzór wniosku wydanie, przed∏u˝enie lub dokonanie zmian we wspólnotowym Êwiadectwie zdolnoÊci ˝eglugowej,
-- **3)** wzór wspólnotowego Êwiadectwa zdolnoÊci ˝eglugowej,
-- **4)** wzór rejestru wydanych wspólnotowych Êwiadectw zdolnoÊci ˝eglugowej kierujàc si´ wzgl´dami bezpieczeƒstwa ˝eglugi, wymaganiami mi´dzynarodowymi oraz koniecznoÊcià ujednolicenia treÊci stosowanych dokumentów.”;
-- **12)** po art. 34a dodaje si´ art. 34b—34o wbrzmieniu: „Art. 34b. 1. W celu wydania wspólnotowego Êwiadectwa zdolnoÊci statek, którym mowa art. 30, podlega inspekcji technicznej, przeprowadzanej na wniosek armatora.
+- **2)** wzór wniosku wydanie, przedłużenie lub dokonanie zmian we wspólnotowym świadectwie zdolności żeglugowej,
+- **3)** wzór wspólnotowego świadectwa zdolności żeglugowej,
+- **4)** wzór rejestru wydanych wspólnotowych świadectw zdolności żeglugowej kierując się względami bezpieczeństwa żeglugi, wymaganiami międzynarodowymi oraz koniecznością ujednolicenia treści stosowanych dokumentów.”;
+- **12)** po art. 34a dodaje się art. 34b—34o wbrzmieniu: ŃArt. 34b. 1. W celu wydania wspólnotowego świadectwa zdolności statek, którym mowa art. 30, podlega inspekcji technicznej, przeprowadzanej na wniosek armatora.
 
-2. Inspekcj´ technicznà przeprowadza si´ dla ustalenia, czy statek spe∏nia wymagania techniczne zakresie budowy statków, ich sta∏ych urzàdzeƒ, wyposa˝enia, w∏aÊciwoÊci manewrowych, ochrony wód, powietrza lub ochrony przed ha∏asem.
+2. Inspekcję techniczną przeprowadza się dla ustalenia, czy statek spełnia wymagania techniczne zakresie budowy statków, ich stałych urządzeń, wyposażenia, właściwości manewrowych, ochrony wód, powietrza lub ochrony przed hałasem.
 
-3. Minister w∏aÊciwy do spraw transportu okreÊli, drodze rozporzàdzenia, wymagania techniczne, których mowa wust. 2, majàc na wzgl´6. Minister w∏aÊciwy do spraw transportu og∏osi, drodze obwieszczenia, wykaz instytucji klasyfikacyjnych uznanych przez Komisj´ Europejskà.
+3. Minister właściwy do spraw transportu określi, drodze rozporządzenia, wymagania techniczne, których mowa wust. 2, mając na wzglę6. Minister właściwy do spraw transportu ogłosi, drodze obwieszczenia, wykaz instytucji klasyfikacyjnych uznanych przez Komisję Europejską.
 
 **Art. 34c.**
 
-1. Organ inspekcyjny wykonuje, ramach inspekcji technicznej, czynnoÊci inspekcyjne obejmujàce szczególnoÊci badania techniczne statku oraz jego wyposa˝enia.
+1. Organ inspekcyjny wykonuje, ramach inspekcji technicznej, czynności inspekcyjne obejmujące szczególności badania techniczne statku oraz jego wyposażenia.
 
-2. Po przeprowadzeniu inspekcji technicznej wydaje si´ zaÊwiadczenie zprzeprowadzenia inspekcji technicznej.
+2. Po przeprowadzeniu inspekcji technicznej wydaje się zaświadczenie zprzeprowadzenia inspekcji technicznej.
 
-3. Za czynnoÊci inspekcyjne pobiera si´ op∏aty.
+3. Za czynności inspekcyjne pobiera się opłaty.
 
-4. Minister w∏aÊciwy do spraw transportu okreÊli, drodze rozporzàdzenia:
+4. Minister właściwy do spraw transportu określi, drodze rozporządzenia:
 
 - **1)** wzory:
     - **a)** wniosku przeprowadzenie inspekcji technicznej,
-    - **b)** zaÊwiadczenia z przeprowadzenia inspekcji technicznej;
+    - **b)** zaświadczenia z przeprowadzenia inspekcji technicznej;
 
 - **2)** sposób i zakres przeprowadzania inspekcji technicznych;
-- **3)** wysokoÊç i sposób uiszczania op∏at za poszczególne czynnoÊci inspekcyjne, przy czym wysokoÊç op∏aty za danà czynnoÊç nie mo˝e przekroczyç 2000z∏.
+- **3)** wysokość i sposób uiszczania opłat za poszczególne czynności inspekcyjne, przy czym wysokość opłaty za daną czynność nie może przekroczyć 2000zł.
 
-5. Wydajàc rozporzàdzenie, którym mowa ust. 4, nale˝y uwzgl´dniç odpowiednio:
+5. Wydając rozporządzenie, którym mowa ust. 4, należy uwzględnić odpowiednio:
 
-- **1)** koniecznoÊç zapewnienia sprawdzie rejony p∏ywania oraz rodzaj noÊci procedur administracyjnych i przeznaczenie statków, a tak˝e ko- oraz ujednolicenia treÊci stosowaniecznoÊç zapewnienia ich bezpie- nych dokumentów; czeƒstwa, ochrony Êrodowiska oraz 2) rodzaj, wielkoÊç i przeznaczenie bezpieczeƒstwa osób przebywajà- statku oraz rejony p∏ywania; cych na statkach.
-- **3)** koszty osobowe irzeczowe zwiàza4. Dyrektor urz´du ˝eglugi Êródlàdowej ne z przeprowadzeniem czynnoÊci w∏aÊciwy dla drogi wodnej mo˝e, inspekcyjnych, wzale˝noÊci od rodrodze decyzji administracyjnej, dzaju czynnoÊci, miejsca wykonyudzieliç odst´pstwa od niektórych wania czynnoÊci albo czasu niewymagaƒ technicznych zakresie zb´dnego na ich wykonanie. wyposa˝enia statku, dla statków nia, kryteria, jakie powinny spe∏niaç podmioty upowa˝nione do wykonywania czynnoÊci inspekcyjnych, oraz sposób ich upowa˝niania do wykonywania tych czynnoÊci, uwzgl´dniajàc koniecznoÊç zapewnienia odpowiedniego poziomu merytorycznego i technicznego przy wykonywaniu powierzonych czynnoÊci.
+- **1)** konieczność zapewnienia sprawdzie rejony pływania oraz rodzaj ności procedur administracyjnych i przeznaczenie statków, a także ko- oraz ujednolicenia treści stosowanieczność zapewnienia ich bezpie- nych dokumentów; czeństwa, ochrony środowiska oraz 2) rodzaj, wielkość i przeznaczenie bezpieczeństwa osób przebywają- statku oraz rejony pływania; cych na statkach.
+- **3)** koszty osobowe irzeczowe związa4. Dyrektor urzędu żeglugi śródlądowej ne z przeprowadzeniem czynności właściwy dla drogi wodnej może, inspekcyjnych, wzależności od rodrodze decyzji administracyjnej, dzaju czynności, miejsca wykonyudzielić odstępstwa od niektórych wania czynności albo czasu niewymagań technicznych zakresie zbędnego na ich wykonanie. wyposażenia statku, dla statków nia, kryteria, jakie powinny spełniać podmioty upoważnione do wykonywania czynności inspekcyjnych, oraz sposób ich upoważniania do wykonywania tych czynności, uwzględniając konieczność zapewnienia odpowiedniego poziomu merytorycznego i technicznego przy wykonywaniu powierzonych czynności.
 
-4. Minister w∏aÊciwy do spraw transportu og∏osi, drodze obwieszczenia, wykaz podmiotów upowa˝nionych do wykonywania czynnoÊci inspekcyjnych.
+4. Minister właściwy do spraw transportu ogłosi, drodze obwieszczenia, wykaz podmiotów upoważnionych do wykonywania czynności inspekcyjnych.
 
 **Art. 34e.**
 
-1. Armator jest obowiàzany:
+1. Armator jest obowiązany:
 
-- **1)** przedstawiç statek do inspekcji technicznej:
-    - **a)** wst´pnej przed wprowadzeniem statku do eksploatacji,
-    - **b)** okresowej przed up∏ywem terminów okreÊlonych dokumencie bezpieczeƒstwa statku;
+- **1)** przedstawić statek do inspekcji technicznej:
+    - **a)** wstępnej przed wprowadzeniem statku do eksploatacji,
+    - **b)** okresowej przed upływem terminów określonych dokumencie bezpieczeństwa statku;
 
-- **2)** na ˝àdanie organu inspekcyjnego, przedstawiç niezw∏ocznie statek do inspekcji technicznej, przed∏o˝yç wszystkie dokumenty dotyczàce jego bezpieczeƒstwa oraz udzieliç wszelkich informacji stanie bezpieczeƒstwa statku;
-- **3)** na ˝àdanie organu inspekcyjnego, dokonaç czynnoÊci niezb´dnych do umo˝liwienia przeprowadzenia inspekcji technicznej.
+- **2)** na żądanie organu inspekcyjnego, przedstawić niezwłocznie statek do inspekcji technicznej, przedłożyć wszystkie dokumenty dotyczące jego bezpieczeństwa oraz udzielić wszelkich informacji stanie bezpieczeństwa statku;
+- **3)** na żądanie organu inspekcyjnego, dokonać czynności niezbędnych do umożliwienia przeprowadzenia inspekcji technicznej.
 
-2. Koszty czynnoÊci, których mowa wust. 1pkt 3, wlicza si´ wkoszty eksploatacji statku.
+2. Koszty czynności, których mowa wust. 1pkt 3, wlicza się wkoszty eksploatacji statku.
 
-3. Inspekcj´ technicznà przeprowadza si´, miar´ mo˝liwoÊci, bez uszczerbku dla eksploatacji statku.
+3. Inspekcję techniczną przeprowadza się, miarę możliwości, bez uszczerbku dla eksploatacji statku.
 
 **Art. 34f.**
 
-1. W przypadku stwierdzenia lub podejrzenia, ˝e statek zosta∏ uszkodzony lub nastàpi∏a zmiana wjego kad∏ubie, urzàdzeniach lub wyposa˝eniu, je˝eli uszkodzenie lub zmiana mogà wp∏ynàç na stan bezpieczeƒstwa statku, dyrektor urz´du ˝eglugi Êródlàdowej wzywa armatora do przedstawienia
+1. W przypadku stwierdzenia lub podejrzenia, że statek został uszkodzony lub nastąpiła zmiana wjego kadłubie, urządzeniach lub wyposażeniu, jeżeli uszkodzenie lub zmiana mogą wpłynąć na stan bezpieczeństwa statku, dyrektor urzędu żeglugi śródlądowej wzywa armatora do przedstawienia
 
-2. Dyrektor urz´du ˝eglugi Êródlàdowej, na podstawie pozytywnego wyniku inspekcji technicznej, wydaje nowe lub zmienia dotychczasowe wspólnotowe Êwiadectwo zdolnoÊci ˝eglugowej, okreÊlajàc parametry techniczne statku.
+2. Dyrektor urzędu żeglugi śródlądowej, na podstawie pozytywnego wyniku inspekcji technicznej, wydaje nowe lub zmienia dotychczasowe wspólnotowe świadectwo zdolności żeglugowej, określając parametry techniczne statku.
 
-3. Dyrektor urz´du ˝eglugi Êródlàdowej jest obowiàzany poinformowaç organ paƒstwa cz∏onkowskiego, którym wydano dotychczasowe wspólnotowe Êwiadectwo zdolnoÊci ˝eglugowej, wydaniu nowego Êwiadectwa lub dokonanych zmianach dotychczasowym Êwiadectwie, wterminie miesiàca od dnia wydania nowego Êwiadectwa lub dokonania zmian dotychczasowym Êwiadectwie.
+3. Dyrektor urzędu żeglugi śródlądowej jest obowiązany poinformować organ państwa członkowskiego, którym wydano dotychczasowe wspólnotowe świadectwo zdolności żeglugowej, wydaniu nowego świadectwa lub dokonanych zmianach dotychczasowym świadectwie, wterminie miesiąca od dnia wydania nowego świadectwa lub dokonania zmian dotychczasowym świadectwie.
 
 **Art. 34h.**
 
-1. Wprzypadku zaistnienia okolicznoÊci uniemo˝liwiajàcych wydanie wspólnotowego Êwiadectwa zdolnoÊci ˝eglugowej dyrektor urz´du ˝eglugi Êródlàdowej mo˝e wydaç wspólnotowe tymczasowe Êwiadectwo zdolnoÊci dla statków, których mowa wart. 30, je˝eli wwyniku inspekcji zostanie stwierdzone, ˝e statek posiada zdolnoÊç ˝eglugowà.
+1. Wprzypadku zaistnienia okoliczności uniemożliwiających wydanie wspólnotowego świadectwa zdolności żeglugowej dyrektor urzędu żeglugi śródlądowej może wydać wspólnotowe tymczasowe świadectwo zdolności dla statków, których mowa wart. 30, jeżeli wwyniku inspekcji zostanie stwierdzone, że statek posiada zdolność żeglugową.
 
-2. Wspólnotowe tymczasowe Êwiadectwo zdolnoÊci wydaje si´ na czas oznaczony zale˝noÊci od rodzaju i przeznaczenia statku, nie d∏u˝szy jednak ni˝ 6miesi´cy.
+2. Wspólnotowe tymczasowe świadectwo zdolności wydaje się na czas oznaczony zależności od rodzaju i przeznaczenia statku, nie dłuższy jednak niż 6miesięcy.
 
-3. Minister w∏aÊciwy do spraw transportu okreÊli, drodze rozporzàdzenia, wzór, warunki oraz sposób wydawania wspólnotowego tymczasowego Êwiadectwa zdolnoÊci ˝eglugowej, majàc na wzgl´dzie koniecznoÊç zapewnienia ciàg∏oÊci ruchu ˝eglugowego oraz ujednolicenia treÊci stosowanych dokumentów.
+3. Minister właściwy do spraw transportu określi, drodze rozporządzenia, wzór, warunki oraz sposób wydawania wspólnotowego tymczasowego świadectwa zdolności żeglugowej, mając na względzie konieczność zapewnienia ciągłości ruchu żeglugowego oraz ujednolicenia treści stosowanych dokumentów.
 
 **Art. 34i.**
 
-1. Âwiadectwo zdolnoÊci wydaje si´ dla statku przeznaczonego do przewozu ∏adunków noÊnoÊci nie mniejszej ni˝ 15 t, u˝ywanego do przewozu ponad 12 pasa˝erów, oraz Êwiadectwa zdolnoÊci statek podlega, na wniosek armatora, przeglàdowi technicznemu przeprowadzanemu przez upowa˝niony wtym celu podmiot.
+1. Âwiadectwo zdolności wydaje się dla statku przeznaczonego do przewozu ładunków nośności nie mniejszej niż 15 t, używanego do przewozu ponad 12 pasażerów, oraz świadectwa zdolności statek podlega, na wniosek armatora, przeglądowi technicznemu przeprowadzanemu przez upoważniony wtym celu podmiot.
 
-2. Przeglàdowi technicznemu nie podlega statek u˝ywany wy∏àcznie do uprawiania sportu lub rekreacji bez nap´du mechanicznego lub nap´dzie mechanicznym mocy silników mniejszej ni˝ 75 kW.
+2. Przeglądowi technicznemu nie podlega statek używany wyłącznie do uprawiania sportu lub rekreacji bez napędu mechanicznego lub napędzie mechanicznym mocy silników mniejszej niż 75 kW.
 
-3. Podmiot przeprowadzajàcy przeglàd techniczny statku wydaje dokument z przeglàdu technicznego, którym stwierdza, czy statek spe∏nia wymagania bezpieczeƒstwa zakresie budowy statku, jego sta∏ych urzàdzeƒ, wyposa˝enia, w∏aÊciwoÊci manewrowych, ochrony wód, powietrza lub ochrony przed ha∏asem, których mowa wart. 27 pkt 1—3.
+3. Podmiot przeprowadzający przegląd techniczny statku wydaje dokument z przeglądu technicznego, którym stwierdza, czy statek spełnia wymagania bezpieczeństwa zakresie budowy statku, jego stałych urządzeń, wyposażenia, właściwości manewrowych, ochrony wód, powietrza lub ochrony przed hałasem, których mowa wart. 27 pkt 1—3.
 
-4. Âwiadectwo zdolnoÊci i uproszczone Êwiadectwo zdolnoÊci wydaje si´ na podstawie pozytywnych wyników przeglàdu technicznego.
+4. Âwiadectwo zdolności i uproszczone świadectwo zdolności wydaje się na podstawie pozytywnych wyników przeglądu technicznego.
 
-5. Minister w∏aÊciwy do spraw transportu okreÊli, drodze rozporzàdzenia:
+5. Minister właściwy do spraw transportu określi, drodze rozporządzenia:
 
-- **1)** sposób upowa˝niania podmiotów, októrych mowa wust. 1, do wykonywania przeglàdów technicznych statków, uwzgl´dniajàc koniecznoÊç zapewnienia odpowiedniego poziomu merytorycznego i technicznego przy wykonywaniu powierzonych czynnoÊci oraz rodzaj iprzeznaczenie statku;
-- **2)** wymagania zakresie budowy statku, jego sta∏ych urzàdzeƒ, wyposa˝enia iw∏aÊciwoÊci manewrowych oraz dotyczàce ochrony wód, powietrza lub ochrony przed ha∏asem, kierujàc si´ koniecznoÊcià zapewnienia bezpieczeƒstwa statków oraz osób przebywajàcych na statkach, albo uzna za obowiàzujàce tym zakresie wymagania okreÊlone przepisach techniczje˝eli statek jest wyposa˝ony wtakie kot∏y lub zbiorniki;
-- **4)** przypadku statku nowo zbudowanego, przebudowanego lub wpisanego do rejestru po raz pierwszy, z wy∏àczeniem statku u˝ywanego do uprawiania sportu lub rekreacji, dodatkowo:
-    - **a)** orzeczenie Paƒstwowej Inspekcji Pracy dopuszczeniu statku do eksploatacji pod wzgl´dem bezpieczeƒstwa ihigieny pracy,
-    - **b)** opini´ wojewódzkiego inspektora sanitarnego dopuszczeniu statku do eksploatacji pod wzgl´dem wymagaƒ sanitarnych;
+- **1)** sposób upoważniania podmiotów, októrych mowa wust. 1, do wykonywania przeglądów technicznych statków, uwzględniając konieczność zapewnienia odpowiedniego poziomu merytorycznego i technicznego przy wykonywaniu powierzonych czynności oraz rodzaj iprzeznaczenie statku;
+- **2)** wymagania zakresie budowy statku, jego stałych urządzeń, wyposażenia iwłaściwości manewrowych oraz dotyczące ochrony wód, powietrza lub ochrony przed hałasem, kierując się koniecznością zapewnienia bezpieczeństwa statków oraz osób przebywających na statkach, albo uzna za obowiązujące tym zakresie wymagania określone przepisach techniczjeżeli statek jest wyposażony wtakie kotły lub zbiorniki;
+- **4)** przypadku statku nowo zbudowanego, przebudowanego lub wpisanego do rejestru po raz pierwszy, z wyłączeniem statku używanego do uprawiania sportu lub rekreacji, dodatkowo:
+    - **a)** orzeczenie Państwowej Inspekcji Pracy dopuszczeniu statku do eksploatacji pod względem bezpieczeństwa ihigieny pracy,
+    - **b)** opinię wojewódzkiego inspektora sanitarnego dopuszczeniu statku do eksploatacji pod względem wymagań sanitarnych;
 
-- **5)** przypadku statku nowo zbudowanego lub przebudowanego u˝ywanego wy∏àcznie do uprawiania sportu lub rekreacji nap´dzie mechanicznym mocy silników 75 kW i wi´kszej, dodatkowo wyciàg zdokumentu rejestracyjnego.
+- **5)** przypadku statku nowo zbudowanego lub przebudowanego używanego wyłącznie do uprawiania sportu lub rekreacji napędzie mechanicznym mocy silników 75 kW i większej, dodatkowo wyciąg zdokumentu rejestracyjnego.
 
-2. Podstaw´ do wydania Êwiadectwa zdolnoÊci stanowià kopie dokumentów wymienionych wust. 1 lub wyciàgi z tych dokumentów oraz dodatkowo, dla statków do przewozu osób, statków nap´dzie mechanicznym do przewozu rzeczy, a tak˝e pchania lub holowania, pozytywny wynik ich inspekcji przeprowadzonej przez organ wydajàcy to Êwiadectwo.
+2. Podstawę do wydania świadectwa zdolności stanowią kopie dokumentów wymienionych wust. 1 lub wyciągi z tych dokumentów oraz dodatkowo, dla statków do przewozu osób, statków napędzie mechanicznym do przewozu rzeczy, a także pchania lub holowania, pozytywny wynik ich inspekcji przeprowadzonej przez organ wydający to świadectwo.
 
-3. Dyrektor urz´du ˝eglugi Êródlàdowej odmawia, drodze decyzji administracyjnej, wydania Êwiadectwa zdolnoÊci ˝eglugowej, je˝eli nie zosta∏y spe∏nione warunki okreÊlone wust.1.
+3. Dyrektor urzędu żeglugi śródlądowej odmawia, drodze decyzji administracyjnej, wydania świadectwa zdolności żeglugowej, jeżeli nie zostały spełnione warunki określone wust.1.
 
-4. WÊwiadectwie zdolnoÊci dokonuje si´ zmian na wniosek armatora.
+4. Wświadectwie zdolności dokonuje się zmian na wniosek armatora.
 
-5. Przepisy ust. 1—4 stosuje si´ odpowiednio sprawie wydanie uproszczonego Êwiadectwa zdolnoÊci ˝eglugowej.
+5. Przepisy ust. 1—4 stosuje się odpowiednio sprawie wydanie uproszczonego świadectwa zdolności żeglugowej.
 
-6. Przepisy ust. 1—3 stosuje si´ odpo2. Minister w∏aÊciwy do spraw transportu okreÊli, drodze rozporzàdzenia, wzory Êwiadectwa zdolnoÊci ˝eglugowej i uproszczonego Êwiadectwa zdolnoÊci oraz terminy, na jakie si´ je wydaje, zale˝noÊci od rodzajów statków, których mowa wart. 34i ust. 1i2, tryb ich wydawania, przed∏u˝ania, cofania i dokonywania wnich zmian, kierujàc si´ wzgl´dami bezpieczeƒstwa ˝eglugi, wymaganiami mi´dzynarodowymi oraz koniecznoÊcià ujednolicenia treÊci stosowanych dokumentów.
+6. Przepisy ust. 1—3 stosuje się odpo2. Minister właściwy do spraw transportu określi, drodze rozporządzenia, wzory świadectwa zdolności żeglugowej i uproszczonego świadectwa zdolności oraz terminy, na jakie się je wydaje, zależności od rodzajów statków, których mowa wart. 34i ust. 1i2, tryb ich wydawania, przedłużania, cofania i dokonywania wnich zmian, kierując się względami bezpieczeństwa żeglugi, wymaganiami międzynarodowymi oraz koniecznością ujednolicenia treści stosowanych dokumentów.
 
-3. W przypadku gdy Êwiadectwo zdol4) gdy stan techniczny statku nie odpowiada warunkom, które stanowi∏y podstaw´ do wydania dokumentu bezpieczeƒstwa statku.
+3. W przypadku gdy świadectwo zdol4) gdy stan techniczny statku nie odpowiada warunkom, które stanowiły podstawę do wydania dokumentu bezpieczeństwa statku.
 
-2. Dokument bezpieczeƒstwa statku mo˝e byç cofni´ty razie stwierdzenia zaniedbaƒ zagra˝ajàcych bezpieczeƒstwu ˝eglugi, pasa˝erów lub za∏ogi, a tak˝e na udokumentowany wniosek Paƒstwowej Inspekcji Pracy, Inspekcji Sanitarnej, Transportowego Dozoru Technicznego lub wojewódzkiego inspektora ochrony Êrodowiska. noÊci albo uproszczone 3. Dokument bezpieczeƒstwa statku coÊwiadectwo zdolnoÊci fa, drodze decyzji administracyjzosta∏o utracone lub uleg∏o zniszcze- nej, dyrektor urz´du ˝eglugi Êródlàniu, dyrektor urz´du ˝eglugi Êródlà- dowej w∏aÊciwy dla miejsca, któdowej, który wyda∏ to Êwiadectwo, rym znajduje si´ statek czasie wydaje jego duplikat, na wniosek stwierdzenia utraty zdolnoÊci ˝egluarmatora. gowej, zawiadamiajàc niezw∏ocznie
+2. Dokument bezpieczeństwa statku może być cofnięty razie stwierdzenia zaniedbań zagrażających bezpieczeństwu żeglugi, pasażerów lub załogi, a także na udokumentowany wniosek Państwowej Inspekcji Pracy, Inspekcji Sanitarnej, Transportowego Dozoru Technicznego lub wojewódzkiego inspektora ochrony środowiska. ności albo uproszczone 3. Dokument bezpieczeństwa statku coświadectwo zdolności fa, drodze decyzji administracyjzostało utracone lub uległo zniszcze- nej, dyrektor urzędu żeglugi śródląniu, dyrektor urzędu żeglugi śródlą- dowej właściwy dla miejsca, któdowej, który wydał to świadectwo, rym znajduje się statek czasie wydaje jego duplikat, na wniosek stwierdzenia utraty zdolności żegluarmatora. gowej, zawiadamiając niezwłocznie
 
 **Art. 34m.**
 
-1. W szczególnie uzasadnionych przy- otym fakcie armatora statku iorgan, padkach statek nieposiadajàcy Êwia- który wyda∏ ten dokument. dectwa zdolnoÊci albo Art. 34o. Za wydanie lub przed∏u˝enie terminu uproszczonego Êwiadectwa zdolno- wa˝noÊci dokumentu bezpieczeƒstwa Êci mo˝e byç dopuszczo- statku oraz za dokonanie nim zmian, ny do jednorazowej podró˝y nie- za wydanie duplikatu, a tak˝e za wydazwiàzanej z eksploatacjà na pod- nie zezwolenia, którym mowa stawie jednorazowego zezwolenia art. 34m, pobiera si´ op∏aty wysowydanego przez dyrektora urz´du koÊciach okreÊlonych za∏àczniku do ˝eglugi Êródlàdowej w∏aÊciwego ustawy.”; dla miejsca rozpocz´cia podró˝y. W zezwoleniu okreÊla si´ drog´ 13) wart. 35 ust. 5otrzymuje brzmienie: wodnà, warunki uprawiania ˝eglugi itermin wa˝noÊci zezwolenia. „5. Uznaje si´ dokumenty kwalifikacyjne kierowników statków innych ni˝ Rzeczpospolita Polska
+1. W szczególnie uzasadnionych przy- otym fakcie armatora statku iorgan, padkach statek nieposiadający świa- który wydał ten dokument. dectwa zdolności albo Art. 34o. Za wydanie lub przedłużenie terminu uproszczonego świadectwa zdolno- ważności dokumentu bezpieczeństwa ści może być dopuszczo- statku oraz za dokonanie nim zmian, ny do jednorazowej podróży nie- za wydanie duplikatu, a także za wydazwiązanej z eksploatacją na pod- nie zezwolenia, którym mowa stawie jednorazowego zezwolenia art. 34m, pobiera się opłaty wysowydanego przez dyrektora urzędu kościach określonych załączniku do żeglugi śródlądowej właściwego ustawy.”; dla miejsca rozpoczęcia podróży. W zezwoleniu określa się drogę 13) wart. 35 ust. 5otrzymuje brzmienie: wodną, warunki uprawiania żeglugi itermin ważności zezwolenia. Ń5. Uznaje się dokumenty kwalifikacyjne kierowników statków innych niż Rzeczpospolita Polska
 
-2. Statek, któremu cofni´to Êwiadectwo paƒstw cz∏onkowskich albo paƒstw trzecich zdolnoÊci albo uprosz- wydane zgodnie z: czone Êwiadectwo zdolnoÊci ˝eglu- 1) przepisami, obowiàzujàcymi paƒstwach gowej czasie podró˝y z przyczyn cz∏onkowskich, sprawie uzyskiwania kraokreÊlonych wart. 34n ust. 1pkt 3i4, jowych patentów kapitanów statków do mo˝e byç dopuszczony na podstawie przewozu towarów i pasa˝erów Êródlàdozezwolenia dyrektora urz´du ˝eglugi wymi drogami wodnymi; Êródlàdowej do jej zakoƒczenia, je˝eli nie zagra˝a to bezpieczeƒstwu ˝e- 2) Konwencjà o˝egludze na Renie.”; glugi lub Êrodowisku. W zezwoleniu okreÊla si´ drog´ wodnà, miejsce za- 14) wart. 41 ust. 3otrzymuje brzmienie: koƒczenia podró˝y, warunki uprawia- „3. Âwiadectwo, októrym mowa wust. 2, wydaje, nia ˝eglugi i termin wa˝noÊci zezwo- po otrzymaniu decyzji Transportowego Dozolenia. ru Technicznego dopuszczajàcej do eksploata„3. RIS wprowadza si´ na Êródlàdowych drogach Êciwy organ paƒstwa cz∏onkowskiego.”; wodnych, szczególnoÊci na Êródlàdowych drogach wodnych klasy IV i wy˝szej, które sà 19) art. 60 otrzymuje brzmienie: po∏àczone drogami wodnymi klasy IV lub wy˝- „Art. 60. Kto uprawia ˝eglug´ statkiem bez wa˝neszej z drogami wodnymi klasy IV lub wy˝szej go dokumentu bezpieczeƒstwa statku innego ni˝ Rzeczpospolita Polska paƒstwa lub jednorazowego zezwolenia na okrecz∏onkowskiego.”; Êlonà podró˝, podlega karze grzywny.”;
+2. Statek, któremu cofnięto świadectwo państw członkowskich albo państw trzecich zdolności albo uprosz- wydane zgodnie z: czone świadectwo zdolności żeglu- 1) przepisami, obowiązującymi państwach gowej czasie podróży z przyczyn członkowskich, sprawie uzyskiwania kraokreślonych wart. 34n ust. 1pkt 3i4, jowych patentów kapitanów statków do może być dopuszczony na podstawie przewozu towarów i pasażerów śródlądozezwolenia dyrektora urzędu żeglugi wymi drogami wodnymi; śródlądowej do jej zakończenia, jeżeli nie zagraża to bezpieczeństwu że- 2) Konwencją ożegludze na Renie.”; glugi lub środowisku. W zezwoleniu określa się drogę wodną, miejsce za- 14) wart. 41 ust. 3otrzymuje brzmienie: kończenia podróży, warunki uprawia- Ń3. Âwiadectwo, októrym mowa wust. 2, wydaje, nia żeglugi i termin ważności zezwo- po otrzymaniu decyzji Transportowego Dozolenia. ru Technicznego dopuszczającej do eksploataŃ3. RIS wprowadza się na śródlądowych drogach ściwy organ państwa członkowskiego.”; wodnych, szczególności na śródlądowych drogach wodnych klasy IV i wyższej, które są 19) art. 60 otrzymuje brzmienie: połączone drogami wodnymi klasy IV lub wyż- ŃArt. 60. Kto uprawia żeglugę statkiem bez ważneszej z drogami wodnymi klasy IV lub wyższej go dokumentu bezpieczeństwa statku innego niż Rzeczpospolita Polska państwa lub jednorazowego zezwolenia na okreczłonkowskiego.”; śloną podróż, podlega karze grzywny.”;
 
-- **17)** wart. 47d wpkt 2lit. botrzymuje brzmienie: „b) udost´pnianie organom administracji publicz- 20) za∏àczniku do ustawy cz´Êç V tabeli otrzymuje nej oraz paƒstwom cz∏onkowskim elektronicz- brzmienie:
+- **17)** wart. 47d wpkt 2lit. botrzymuje brzmienie: Ńb) udostępnianie organom administracji publicz- 20) załączniku do ustawy część V tabeli otrzymuje nej oraz państwom członkowskim elektronicz- brzmienie:
 
-**Art. 2.** Wustawie zdnia 21 grudnia 2000 r. odozorze technicznym (Dz. U. 122, poz. 1321, z póên. zm. ) wart. 44 wprowadza si´ nast´pujàce zmiany:
+**Art. 2.** Wustawie zdnia 21 grudnia 2000 r. odozorze technicznym (Dz. U. 122, poz. 1321, z póên. zm. ) wart. 44 wprowadza się następujące zmiany:
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 15 ust. 8, art. 26 ust. 7, art. 28 ust. 5, art. 29 ust. 7 i art. 34 ustawy, której mowa art. 1, zachowujà moc do czasu wejÊcia ˝ycie przepisów wykonawczych wydanych na podstawie art. 15 ust. 8, art. 26 ust. 7, art. 29 ust. 3, art. 34 ust. 2, art. 34b ust. 3, art. 34c ust. 4, art. 34d ust. 3, art. 34h ust. 3, art. 34j ust. 5 i art. 34l ust. 2 ustawy, której mowa art. 1, brzmieniu nadanym niniejszà ustawà, nie d∏u˝ej jednak ni˝ przez 12 miesi´cy od dnia jej wejÊcia w˝ycie.
+**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 15 ust. 8, art. 26 ust. 7, art. 28 ust. 5, art. 29 ust. 7 i art. 34 ustawy, której mowa art. 1, zachowują moc do czasu wejścia życie przepisów wykonawczych wydanych na podstawie art. 15 ust. 8, art. 26 ust. 7, art. 29 ust. 3, art. 34 ust. 2, art. 34b ust. 3, art. 34c ust. 4, art. 34d ust. 3, art. 34h ust. 3, art. 34j ust. 5 i art. 34l ust. 2 ustawy, której mowa art. 1, brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia jej wejścia wżycie.
 
-**Art. 5.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, zwyjàtkiem:
+**Art. 5.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, zwyjątkiem:
 

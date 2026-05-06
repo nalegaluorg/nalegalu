@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080670411) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/411/text.pdf) |
 
-USTAWA z dnia 28 marca 2008 o zmianie o emeryturach i rentach z Funduszu Ubezpieczeƒ Spo∏ecznych niektórych innych ustaw
+USTAWA z dnia 28 marca 2008 o zmianie o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych niektórych innych ustaw
 
-**Art. 1.** W ustawie z dnia 17 grudnia 1998 o emeryturach i rentach z Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. z 2004 39, 353, z póên. zm.
+**Art. 1.** W ustawie z dnia 17 grudnia 1998 o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 39, 353, z póên. zm.
 
-**Art. 3.** W ustawie z dnia 13 paêdziernika 1998 o systemie ubezpieczeƒ spo∏ecznych (Dz. U. z 2007 ) 11, 74, z póên. zm. w art. 29 w ust. 1 pkt 2 otrzymuje brzmienie: „2) m´˝czyzna — po osiàgni´ciu wieku 60 lat, je˝eli ma co najmniej 35-letni okres sk∏adkowy i niesk∏adkowy albo je˝eli ma co najmniej 25-letni okres sk∏adkowy iniesk∏adkowy zosta∏ uznany za ca∏kowicie niezdolnego do pracy.”.
+**Art. 3.** W ustawie z dnia 13 paêdziernika 1998 o systemie ubezpieczeń społecznych (Dz. U. z 2007 ) 11, 74, z póên. zm. w art. 29 w ust. 1 pkt 2 otrzymuje brzmienie: Ń2) mężczyzna — po osiągnięciu wieku 60 lat, jeżeli ma co najmniej 35-letni okres składkowy i nieskładkowy albo jeżeli ma co najmniej 25-letni okres składkowy inieskładkowy został uznany za całkowicie niezdolnego do pracy.”.
 
-**Art. 2.** Wustawie zdnia 20 grudnia 1990 oubezpieczeniu spo∏ecznym rolników (Dz. U. z2008 50,
+**Art. 2.** Wustawie zdnia 20 grudnia 1990 oubezpieczeniu społecznym rolników (Dz. U. z2008 50,
 

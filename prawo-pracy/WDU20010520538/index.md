@@ -27,20 +27,22 @@ domain: null
 USTAWA zdnia 25 kwietnia 2001 r.
 ozmianie ustawy — Kodeks pracy.
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. — Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz.1127 iNr120, poz. 1268 oraz z2001 r. Nr 11, poz.84 iNr 28, poz. 301) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. — Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152, z 2000 r. Nr 19, poz. 239, Nr 43, poz. 489, Nr 107, poz.1127 iNr120, poz. 1268 oraz z2001 r. Nr 11, poz.84 iNr 28, poz. 301) wprowadza się następujące zmiany:
 
-**Art. 2.** Wymiar urlopu na warunkach urlopu macierzyƒskiego, októrym mowa wart. 183 ustawy wymienionej wart. 1, stosuje si´ tak˝e do pracownic korzystajàcych zurlopu na warunkach urlopu macierzyƒskiego wdniu wejÊcia w˝ycie ustawy.
+**Art. 2.** Wymiar urlopu na warunkach urlopu macierzyńskiego, októrym mowa wart. 183 ustawy wymienionej wart. 1, stosuje się także do pracownic korzystających zurlopu na warunkach urlopu macierzyńskiego wdniu wejścia wżycie ustawy.
 
-**Art. 3.** Ustawa wchodzi w˝ycie zdniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 539 USTAWA zdnia 26 kwietnia 2001 r. orentach strukturalnych wrolnictwie. Rozdzia∏ 1 2. Wsprawach nieuregulowanych wustawie stosuje si´ odpowiednio przepisy o ubezpieczeniu spo∏eczPrzepisy ogólne nym rolników.
+**Art. 3.** Ustawa wchodzi wżycie zdniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 539 USTAWA zdnia 26 kwietnia 2001 r. orentach strukturalnych wrolnictwie.
+
+#### Rozdział 1 2. Wsprawach nieuregulowanych wustawie stosuje się odpowiednio przepisy o ubezpieczeniu społeczPrzepisy ogólne nym rolników.
 
 **Art. 1.**
 
-1. Ustawa okreÊla:
+1. Ustawa określa:
 
 - **1)** warunki nabywania prawa do renty strukturalnej,
-- **2)** wysokoÊç izasady wyp∏acania renty strukturalnej,
-- **3)** zasady post´powania w sprawach rent strukturalnych,
+- **2)** wysokość izasady wypłacania renty strukturalnej,
+- **3)** zasady postępowania w sprawach rent strukturalnych,
 - **4)** sposób finansowania rent strukturalnych.
 
-**Art. 2.** OkreÊlenia u˝yte wustawie oznaczajà:
+**Art. 2.** Określenia użyte wustawie oznaczają:
 

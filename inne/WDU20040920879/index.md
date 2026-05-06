@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Przepisy ogólne Ustawa okreÊla:
+# Przepisy ogólne Ustawa określa:
 
 | Pole | Wartość |
 |---|---|
@@ -25,103 +25,107 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920879) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/879/text.pdf) |
 
 1) czas zatrudnionych podstawie stosunku pracy;
-2) obowiàzki pracodawców zakresie wykonywania przewozów drogowych;
-3) zasady stosowania norm dotyczàcych okresów prowadzenia pojazdów, obowiàzkowych przerw wprowadzeniu igwarantowanych okresów odpoczynku, okreÊlonych rozporzàdzeniem Rady (EWG) nr 3820/85/EWG dnia 20 grudnia 1985 sprawie harmonizacji niektórych przepisów socjalnych odnoszàcych si´ transportu drogowego Umowà europejskà dotyczàcà za∏óg wykonujàcych mi´dzynarodowe przewozy drogowe (AETR), sporzàdzonà Genewie dnia 1 lipca 1970 (Dz. U. 1999 94, poz. 1086
-1087), zwanà dalej „Umowà AETR”.
-2. U˝yte ustawie okreÊlenia oznaczajà:
-1) transport drogowy transport drogowy rozumieniu ustawy dnia 6 wrzeÊnia 2001 o transporcie drogowym (Dz. U. 125, poz. 1371, póên. zm.
-szczególnoÊci filie, przedstawicielstwa oddzia∏y,
+2) obowiązki pracodawców zakresie wykonywania przewozów drogowych;
+3) zasady stosowania norm dotyczących okresów prowadzenia pojazdów, obowiązkowych przerw wprowadzeniu igwarantowanych okresów odpoczynku, określonych rozporządzeniem Rady (EWG) nr 3820/85/EWG z dnia 20 grudnia 1985 sprawie harmonizacji niektórych przepisów socjalnych odnoszących się transportu drogowego Umową europejską dotyczącą załóg wykonujących międzynarodowe przewozy drogowe (AETR), sporządzoną Genewie dnia 1 lipca 1970 (Dz. U. z 1999 94, poz. 1086
+1087), zwaną dalej ŃUmową AETR”.
+2. Użyte ustawie określenia oznaczają:
+1) transport drogowy transport drogowy rozumieniu ustawy z dnia 6 września 2001 o transporcie drogowym (Dz. U. 125, poz. 1371, z póên. zm.
+szczególności filie, przedstawicielstwa oddziały,
 b) pojazd, który kierowca prowadzi,
-c) ka˝de inne miejsce, którym kierowca wykonuje czynnoÊci zwiàzane wykonywanymi przewozami drogowymi;
-5) tydzieƒ okres pomi´dzy godzinà 00 );
-2) przewóz drogowy przewóz drogowy wrozumieniu rozporzàdzenia nr 3820/85/EWG;
-3) przewóz regularny przewóz regularny rozumieniu ustawy dnia 6 wrzeÊnia 2001 o transporcie drogowym;
+c) każde inne miejsce, którym kierowca wykonuje czynności związane z wykonywanymi przewozami drogowymi;
+5) tydzień okres pomiędzy godziną 00 );
+2) przewóz drogowy przewóz drogowy wrozumieniu rozporządzenia nr 3820/85/EWG;
+3) przewóz regularny przewóz regularny rozumieniu ustawy z dnia 6 września 2001 o transporcie drogowym;
 4) stanowisko kierowcy:
-a) siedzib´ pracodawcy, rzecz którego kierowca wykonuje swoje obowiàzki, inne miejsce poniedzia∏ek godzinà 24 niedziel´.
-3.Przepisy ustawy naruszajà postanowieƒ zawartych rozporzàdzeniu nr 3820/85/EWG Umowie AETR.
-4. Wzakresie nieuregulowanym ustawà stosuje si´ przepisy ustawy zdnia 26 czerwca 1974 Kodeks (Dz. U. 1998 21, poz. 94, póên.
+a) siedzibę pracodawcy, rzecz którego kierowca wykonuje swoje obowiązki, inne miejsce poniedziałek godziną 24 niedzielę.
+3.Przepisy ustawy naruszają postanowień zawartych rozporządzeniu nr 3820/85/EWG Umowie AETR.
+4. Wzakresie nieuregulowanym ustawą stosuje się przepisy ustawy zdnia 26 czerwca 1974 Kodeks (Dz. U. z 1998 21, poz. 94, z póên.
 zm. ).
-Rozdzia∏ 2 Czas zatrudnionych podstawie stosunku
-5. Przepisy niniejszego rozdzia∏u majà zastosowanie zatrudnionych podstawie stosunku pracy, je˝eli przepisy innych ustaw stanowià inaczej.
-6. Czasem kierowcy jest czas rozpocz´cia zakoƒczenia pracy, która obejmuje wszystkie czynnoÊci zwiàzane wykonywaniem przewozu drogowego, szczególnoÊci:
+5. Przepisy niniejszego rozdziału mają zastosowanie zatrudnionych podstawie stosunku pracy, jeżeli przepisy innych ustaw stanowią inaczej.
+6. Czasem kierowcy jest czas rozpoczęcia zakończenia pracy, która obejmuje wszystkie czynności związane z wykonywaniem przewozu drogowego, szczególności:
 1) prowadzenie pojazdu;
-2) za∏adowywanie iroz∏adowywanie nadzór nad za∏adunkiem wy∏adunkiem;
-3) nadzór pomoc osobom wsiadajàcym iwysiadajàcym;
-4) czynnoÊci spedycyjne;
-5) obs∏ug´ codziennà pojazdów przyczep;
-——————— ——————— pozostaje stanowisku kierowcy gotowoÊci wykonywania pracy, szczególnoÊci podczas oczekiwania za∏adunek lub roz∏adunek, przewidywany czas trwania jest znany kierowcy przed wyjazdem albo przed rozpocz´ciem danego okresu.
-3. Do kierowcy wlicza si´ przerw´ trwajàcà 15 minut, którà pracodawca jest obowiàzany wprowadziç, je˝eli dobowy wymiar kierowcy wynosi co najmniej 6 godzin.
-7. Do kierowcy wlicza si´:
-1) dy˝uru, je˝eli podczas dy˝uru kierowca wykonywa∏ pracy;
+2) załadowywanie irozładowywanie nadzór nad załadunkiem wyładunkiem;
+3) nadzór pomoc osobom wsiadającym iwysiadającym;
+4) czynności spedycyjne;
+5) obsługę codzienną pojazdów przyczep;
+——————— ——————— pozostaje stanowisku kierowcy gotowości wykonywania pracy, szczególności podczas oczekiwania załadunek rozładunek, których przewidywany czas trwania jest znany kierowcy przed wyjazdem albo przed rozpoczęciem danego okresu.
+3. Do czasu kierowcy wlicza się przerwę trwającą 15 minut, którą pracodawca jest obowiązany wprowadzić, jeżeli dobowy wymiar czasu kierowcy wynosi co najmniej 6 godzin.
+7. Do czasu kierowcy wlicza się:
+1) czasu dyżuru, jeżeli podczas dyżuru kierowca wykonywał pracy;
 2) nieusprawiedliwionych postojów czasie prowadzenia pojazdu;
 3) dobowego nieprzerwanego odpoczynku;
 4) przerwy pracy, o której mowa 16
-8.Dla celów rozliczania iustalania uprawnienia wynagradzania za prac´ godzinach nadliczbowych, przez dob´ nale˝y rozumieç 24 kolejne godziny, poczynajàc godziny, której kierowca rozpoczyna prac´ zgodnie zobowiàzujàcym go rozk∏adem pracy.
-9. Czasem dy˝uru jest czas, którym kierowca pozostaje poza normalnymi godzinami gotowoÊci wykonywania wynikajàcej zumowy oprac´ wzak∏adzie lub winnym miejscu wyznaczonym przez pracodawc´.
-2. Do dy˝uru zalicza si´ przerwy przeznaczone odpoczynek, o mowa 13 28.
-3. W przypadku gdy pojazd jest prowadzony przez dwóch lub wi´cej kierowców, czas nieprzeznaczony kierowanie pojazdem jest czasem dy˝uru.
-4. Czas dy˝uru byç wliczany przys∏ugujàcego kierowcy dobowego nieprzerwanego odpoczynku. Wykorzystywanie dobowego odpoczynku pojeêdzie sposób okreÊlony 14 1 byç traktowane jako czas dy˝uru.
-koÊci po∏owy wynagrodzenia okreÊlonego 5.
-10. Okresy pozostawania dyspozycji oznaczajà okresy, inne ni˝ przerwy czas odpoczynku, podczas kierowca jest obowiàzany pozostawaç stanowisku kierowcy, b´dàc jednoczeÊnie gotowoÊci rozpocz´cia albo kontynuowania prowadzenia pojazdu albo wykonywania innej pracy. Okresy pozostawania dyspozycji obejmujà szczególnoÊci czas, którym kierowca towarzyszy pojazdowi transportowanemu promem lub pociàgiem, czas oczekiwania przejÊciach granicznych zwiàzku ograniczeniami ruchu drogowym.
-2. Okresy pozostawania dyspozycji poza rozk∏adem zalicza si´ dy˝uru.
-3. W przypadku gdy kierowca, którego stosuje si´ zadaniowy czas pracy, wypracowa∏ dobowego wymiaru pracy, okresy, o mowa 1, zalicza si´ wymiarze 8 godzin, a pozosta∏ym zakresie dy˝uru.
-11. Czas kierowcy przekraczaç 8 godzin dob´ przeci´tnie 40 godzin przeci´tnie pi´ciodniowym tygodniu pracy, przyj´tym okresie rozliczeniowym nieprzekraczajàcym 4 miesi´cy, zastrze˝eniem 15 1 3—5.
-2. Rozk∏ady kierowcy sà ustalane okresy krótsze ni˝ 2 tygodnie, zastrze˝eniem
+8.Dla celów rozliczania czasu iustalania uprawnienia wynagradzania za pracę godzinach nadliczbowych, przez dobę należy rozumieć 24 kolejne godziny, poczynając godziny, której kierowca rozpoczyna pracę zgodnie zobowiązującym go rozkładem czasu pracy.
+9. Czasem dyżuru jest czas, którym kierowca pozostaje poza normalnymi godzinami gotowości wykonywania wynikającej zumowy opracę wzakładzie winnym miejscu wyznaczonym przez pracodawcę.
+2. Do czasu dyżuru zalicza się przerwy przeznaczone odpoczynek, o których mowa 13 28.
+3. W przypadku gdy pojazd jest prowadzony przez dwóch więcej kierowców, czas nieprzeznaczony kierowanie pojazdem jest czasem dyżuru.
+4. Czas dyżuru być wliczany przysługującego kierowcy dobowego nieprzerwanego odpoczynku. Wykorzystywanie dobowego odpoczynku pojeêdzie sposób określony 14 1 być traktowane jako czas dyżuru.
+kości połowy wynagrodzenia określonego 5.
+10. Okresy pozostawania dyspozycji oznaczają okresy, inne przerwy czas odpoczynku, podczas których kierowca jest obowiązany pozostawać stanowisku kierowcy, będąc jednocześnie gotowości rozpoczęcia albo kontynuowania prowadzenia pojazdu albo wykonywania innej pracy. Okresy pozostawania dyspozycji obejmują szczególności czas, którym kierowca towarzyszy pojazdowi transportowanemu promem pociągiem, czas oczekiwania przejściach granicznych związku z ograniczeniami ruchu drogowym.
+2. Okresy pozostawania dyspozycji poza rozkładem czasu zalicza się czasu dyżuru.
+3. W przypadku gdy kierowca, którego stosuje się zadaniowy czas pracy, wypracował dobowego wymiaru czasu pracy, okresy, o których mowa 1, zalicza się czasu wymiarze 8 godzin, a pozostałym zakresie czasu dyżuru.
+11. Czas kierowcy przekraczać 8 godzin dobę przeciętnie 40 godzin przeciętnie pięciodniowym tygodniu pracy, przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy, z zastrzeżeniem 15 1 3—5.
+2. Rozkłady czasu kierowcy są ustalane okresy krótsze 2 tygodnie, z zastrzeżeniem
 19.
-12. Tygodniowy czas kierowcy, ∏àczzgodzinami nadliczbowymi, przekraczaç przeci´tnie 48 godzin przyj´tym okresie rozliczeniowym nieprzekraczajàcym 4 miesi´cy.
-2. Tygodniowy czas pracy, o którym mowa 1, byç przed∏u˝ony 60 godzin, je˝eli Êredni tygodniowy czas przekroczy 48 godzin przyj´tym okresie rozliczeniowym nieprzekraczajàcym 4 miesi´cy.
-3. Wymiar okreÊlony 1 2 obowiàzuje tak˝e kierowc´ zatrudnionego uwi´cej ni˝ jednego pracodawcy.
-13. Po szeÊciu kolejnych godzinach kierowcy przys∏uguje przerwa przeznaczona odpojest wyposa˝ony miejsce spania.
-2. W ka˝dym tygodniu kierowcy przys∏uguje prawo co najmniej 35 godzin nieprzerwanego odpoczynku. Tygodniowy nieprzerwany odpoczynek obejmuje odpoczynek dobowy, o którym mowa 1, przypadajàcy dniu, którym kierowca rozpoczà∏ odpoczynek tygodniowy.
-15. Do zatrudnionych transporcie drogowym mogà byç stosowane rozk∏ady czasu pracy, jest dopuszczalne przed∏u˝enie wymiaru 10 godzin dob´, a pozosta∏ych 12 godzin dob´ ramach systemu równowa˝nego pracy.
-2. Wsystemie równowa˝nego wymiar przed∏u˝ony poszczególnych dniach jest równowa˝ony skróconym czasem winnych dniach lub dniami wolnymi pracy.
-3. Okres rozliczeniowy byç d∏u˝szy ni˝ 1 miesiàc, zastrze˝eniem 4 5.
-4. W szczególnie uzasadnionych przypadkach okres rozliczeniowy byç przed∏u˝ony, wi´cej jednak ni˝ 3 miesi´cy.
-5. Przy pracach uzale˝nionych pory roku lub warunków atmosferycznych okres rozliczeniowy byç przed∏u˝ony, wi´cej jednak ni˝ 4 miesi´cy.
-16. Do zatrudnionych transporcie drogowym byç stosowany, wszczególnie uzasadnionych przypadkach, system przerywanego wed∏ug góry ustalonego rozk∏adu, przewidujàcego wi´cej ni˝ jednà przerw´ wciàgu doby, trwajàcà d∏u˝ej ni˝ 5 godzin. Wprzypadku gdy kierowca wykonuje przewozy regularne, przerwa trwaç d∏u˝ej ni˝ 6 godzin, je˝eli dobowy wymiar przekracza 7 godzin.
-2. Za czas przerwy, októrej mowa wust. 1, kierowcy przys∏uguje prawo wynagrodzenia wwysokoÊci po∏owy wynagrodzenia, o którym mowa 9 5; podczas przerwy kierowca swobodnie dysponowaç swoim czasem.
-3. Przy ustalaniu rozk∏adu systemie lub ich szczególnà organizacjà, zadaniowy czas pracy, którym zadania przewozowe ustala pracodawca takim wymiarze, aby mog∏y byç wykonane ramach okreÊlonego 11 uwzgl´dnieniem przepisów dotyczàcych przerw przeznaczonych odpoczynek okresów odpoczynku. Rozk∏ad wokresie wykonywania danego zadania przewozowego ustala kierowca.
-18. Systemy rozk∏ady przyj´te okresy rozliczeniowe ustala si´ uk∏adzie zbiorowym lub regulaminie albo wobwieszczeniu, je˝eli pracodawca jest obj´ty uk∏adem zbiorowym lub jest obowiàzany ustalenia regulaminu pracy.
-2. Pracodawca, u którego dzia∏a zak∏adowa organizacja zwiàzkowa, a tak˝e pracodawca, u którego zak∏adowa organizacja zwiàzkowa wyra˝a zgody ustalenie lub zmian´ systemów rozk∏adów okresów rozliczeniowych pracy, mo˝e stosowaç okresy rozliczeniowe okreÊlone 15 3—5 po uprzednim zawiadomieniu w∏aÊciwego inspektora pracy.
-3. System przerywanego pracy, o którym mowa wart. 16, wprowadza si´ wuk∏adzie zbiorowym lub wregulaminie pracy, aupracodawcy, uktórego dzia∏a zak∏adowa organizacja zwiàzkowa umowie o prac´.
-19. W uzasadnionych przypadkach ramach systemu równowa˝nego pracy, o którym mowa 15, dopuszcza si´ stosowanie przerywanego okreÊlonego 16, wed∏ug góry ustalonego rozk∏adu uwzgl´dnieniem przepisów o obowiàzkowym dobowym odpoczynku; rozk∏ad powinien obejmowaç okres co najmniej miesiàca.
-20. Praca wykonywana ponad obowiàzujàce pracownika normy pracy, atak˝e praca wykonywana ponad dobowy przed∏u˝ony wymiar pracy, wynikajàcy obowiàzujàcego kierowc´ systemu irozk∏adu pracy, stanowi prac´ wgodzinach nadliczbowych.
-2. Praca godzinach nadliczbowych jest dopuszczalna razie: ustaliç innà liczb´ godzin nadliczbowych roku kalendarzowym ni˝ okreÊlona 3, zastrze˝eniem
+12. Tygodniowy czas kierowcy, łączzgodzinami nadliczbowymi, przekraczać przeciętnie 48 godzin przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy.
+2. Tygodniowy czas pracy, o którym mowa 1, być przedłużony 60 godzin, jeżeli średni tygodniowy czas przekroczy 48 godzin przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy.
+3. Wymiar czasu określony 1 2 obowiązuje także kierowcę zatrudnionego uwięcej jednego pracodawcy.
+13. Po sześciu kolejnych godzinach kierowcy przysługuje przerwa przeznaczona odpojest wyposażony miejsce spania.
+2. W każdym tygodniu kierowcy przysługuje prawo co najmniej 35 godzin nieprzerwanego odpoczynku. Tygodniowy nieprzerwany odpoczynek obejmuje odpoczynek dobowy, o którym mowa 1, przypadający dniu, którym kierowca rozpoczął odpoczynek tygodniowy.
+15. Do zatrudnionych transporcie drogowym mogą być stosowane rozkłady czasu pracy, których jest dopuszczalne przedłużenie wymiaru czasu 10 godzin dobę, a pozostałych 12 godzin dobę ramach systemu równoważnego czasu pracy.
+2. Wsystemie równoważnego czasu wymiar czasu przedłużony poszczególnych dniach jest równoważony skróconym czasem winnych dniach dniami wolnymi pracy.
+3. Okres rozliczeniowy być dłuższy 1 miesiąc, z zastrzeżeniem 4 5.
+4. W szczególnie uzasadnionych przypadkach okres rozliczeniowy być przedłużony, więcej jednak 3 miesięcy.
+5. Przy pracach uzależnionych pory roku warunków atmosferycznych okres rozliczeniowy być przedłużony, więcej jednak 4 miesięcy.
+16. Do zatrudnionych transporcie drogowym być stosowany, wszczególnie uzasadnionych przypadkach, system przerywanego czasu według z góry ustalonego rozkładu, przewidującego więcej jedną przerwę wciągu doby, trwającą dłużej 5 godzin. Wprzypadku gdy kierowca wykonuje przewozy regularne, przerwa trwać dłużej 6 godzin, jeżeli dobowy wymiar czasu przekracza 7 godzin.
+2. Za czas przerwy, októrej mowa wust. 1, kierowcy przysługuje prawo wynagrodzenia wwysokości połowy wynagrodzenia, o którym mowa 9 5; podczas przerwy kierowca swobodnie dysponować swoim czasem.
+3. Przy ustalaniu rozkładu czasu systemie ich szczególną organizacją, zadaniowy czas pracy, którym zadania przewozowe ustala pracodawca takim wymiarze, aby mogły być wykonane ramach czasu określonego 11 z uwzględnieniem przepisów dotyczących przerw przeznaczonych odpoczynek okresów odpoczynku. Rozkład czasu wokresie wykonywania danego zadania przewozowego ustala kierowca.
+18. Systemy rozkłady czasu przyjęte okresy rozliczeniowe czasu ustala się układzie zbiorowym regulaminie albo wobwieszczeniu, jeżeli pracodawca jest objęty układem zbiorowym jest obowiązany ustalenia regulaminu pracy.
+2. Pracodawca, u którego działa zakładowa organizacja związkowa, a także pracodawca, u którego zakładowa organizacja związkowa wyraża zgody ustalenie zmianę systemów rozkładów czasu okresów rozliczeniowych czasu pracy, może stosować okresy rozliczeniowe określone 15 3—5 po uprzednim zawiadomieniu właściwego inspektora pracy.
+3. System przerywanego czasu pracy, o którym mowa wart. 16, wprowadza się wukładzie zbiorowym wregulaminie pracy, aupracodawcy, uktórego działa zakładowa organizacja związkowa umowie o pracę.
+19. W uzasadnionych przypadkach ramach systemu równoważnego czasu pracy, o którym mowa 15, dopuszcza się stosowanie przerywanego czasu określonego 16, według z góry ustalonego rozkładu czasu z uwzględnieniem przepisów o obowiązkowym dobowym odpoczynku; rozkład czasu powinien obejmować okres co najmniej miesiąca.
+20. Praca wykonywana ponad obowiązujące pracownika normy czasu pracy, atakże praca wykonywana ponad dobowy przedłużony wymiar czasu pracy, wynikający z obowiązującego kierowcę systemu irozkładu czasu pracy, stanowi pracę wgodzinach nadliczbowych.
+2. Praca godzinach nadliczbowych jest dopuszczalna razie: ustalić inną liczbę godzin nadliczbowych roku kalendarzowym określona 3, z zastrzeżeniem
 12.
-21. W przypadku gdy praca jest wykonywana porze nocnej przez co najmniej 4 godziny, czas pracy kierowcy przekraczaç 10 godzin danej dobie.
-22. Przepisy 12 2 3, 13, 21 24 pkt 2 majà zastosowania prowadzàcych pojazdy wymienione 29 ustawy 4 rozporzàdzenia nr 3820/85/EWG.
-23. Wzakresie norm okreÊlajàcych czas pracy, obowiàzkowe przerwy przeznaczone odpoczynek czasie dnia odpoczynek dobowy tygodniowy, uk∏ady zbiorowe mogà przewidywaç wy˝sze normy minimalne ni˝sze normy maksymalne, ni˝ przewiduje to ustawa.
-Rozdzia∏ 3 Obowiàzki pracodawcy
-24. Pracodawca jest obowiàzany:
-1) poinformowaç o obowiàzujàcych ich przepisach zakresu pracy, sposób przyj´ty u danego pracodawcy
-2) uzyskaç kierowcy oÊwiadczenie piÊmie owymiarze zatrudnienia albo oniepozostawaniu wzatrudnieniu u innego pracodawcy.
-25. Ewidencj´ pracy, o której mowa przepisach wydanych podstawie 298 ustawy dnia 26 czerwca 1974 Kodeks pracy, pracodawca prowadzi dla kierowców, niezale˝nie stosowanego systemu sposobu wynagradzania za godziny nadliczbowe iza prac´ wporze nocnej, rozliczeniu dobowym, tygodniowym przyj´tym okresie rozliczeniowym.
-2. Ewidencj´ pracy, o której mowa 1, pracodawca udost´pnia kierowcy jego wniosek.
-o mowa 7 1 2 rozporzàdzenia nr 8320/85/EWG 7 1 2 Umowy AETR, zalicza si´ dy˝uru, o którym mowa 9.
-2. Okresy odpoczynku, o mowa 8 1, 2 7 rozporzàdzenia nr 8320/85/EWG 8 1, 2 7 Umowy AETR, mogà byç traktowane jak czas dy˝uru, o którym mowa 9.
-3. Okresy przerw prowadzeniu pojazdu, o których mowa 7 1 2 rozporzàdzenia nr 8320/85/EWG 7 1 2 Umowy AETR, cz´Êci obejmujàcej 15 minut, wlicza si´ kierowcy warunkach okreÊlonych 6
+21. W przypadku gdy praca jest wykonywana porze nocnej przez co najmniej 4 godziny, czas pracy kierowcy przekraczać 10 godzin danej dobie.
+22. Przepisy 12 2 3, 13, 21 24 pkt 2 mają zastosowania prowadzących pojazdy wymienione 29 ustawy 4 rozporządzenia nr 3820/85/EWG.
+23. Wzakresie norm określających czas pracy, obowiązkowe przerwy przeznaczone odpoczynek czasie dnia odpoczynek dobowy tygodniowy, układy zbiorowe mogą przewidywać wyższe normy minimalne niższe normy maksymalne, przewiduje to ustawa.
+24. Pracodawca jest obowiązany:
+1) poinformować o obowiązujących ich przepisach z zakresu czasu pracy, sposób przyjęty u danego pracodawcy
+2) uzyskać kierowcy oświadczenie piśmie owymiarze zatrudnienia albo oniepozostawaniu wzatrudnieniu u innego pracodawcy.
+25. Ewidencję czasu pracy, o której mowa przepisach wydanych podstawie 298 ustawy z dnia 26 czerwca 1974 Kodeks pracy, pracodawca prowadzi dla kierowców, niezależnie stosowanego systemu czasu sposobu wynagradzania za godziny nadliczbowe iza pracę wporze nocnej, rozliczeniu dobowym, tygodniowym przyjętym okresie rozliczeniowym.
+2. Ewidencję czasu pracy, o której mowa 1, pracodawca udostępnia kierowcy jego wniosek.
+o których mowa 7 1 2 rozporządzenia nr 8320/85/EWG 7 1 2 Umowy AETR, zalicza się czasu dyżuru, o którym mowa 9.
+2. Okresy odpoczynku, o których mowa 8 1, 2 7 rozporządzenia nr 8320/85/EWG 8 1, 2 7 Umowy AETR, mogą być traktowane jak czas dyżuru, o którym mowa 9.
+3. Okresy przerw prowadzeniu pojazdu, o których mowa 7 1 2 rozporządzenia nr 8320/85/EWG 7 1 2 Umowy AETR, części obejmującej 15 minut, wlicza się czasu kierowcy warunkach określonych 6
 3.
-4. Do kierowców, którzy wykorzystali przerwy wprowadzeniu pojazdu przeznaczone odpoczynek, zgodnie 7 1 2 rozporzàdzenia nr 8320/85/EWG 7 1 2 Umowy AETR, stosuje si´ przerwy, o której mowa 13
-5. Do kierowców, którzy wykorzystali okres odpoczynku, októrym mowa wart. 8 1—3 rozporzàdzenia nr 8320/85/EWG 8 1—3 Umowy AETR, stosuje si´ odpoczynku, októrym mowa wart. 14.
-28. Stosownie 7 3 rozporzàdzenia nr 3820/85/EWG, wprzewozach regularnych byç stosowana przerwa trwajàca krócej ni˝ 30 minut po okresie prowadzenia pojazdu nieprzekraczajàcym 4 godzin, je˝eli przerwa trwajàca powy˝ej 30 minut zak∏óca∏aby miejski ruch uliczny, a kierowca ma mo˝liwoÊci wykorzystania pozosta∏ych 15 minut ciàgu czterech pó∏ godziny prowadzenia pojazdu przed przerwà 30-minutowà.
-29. Stosownie 13 1 rozporzàdzenia nr 3820/85/EWG 3 2 rozporzàdzenia nr 3821/85/EWG wy∏àcza si´ ze stosowania wymienionych rozporzàdzeƒ terytorium Rzeczypospolitej Polskiej kategorie pojazdów, októrych mowa wart. 13 1 lit. b—k rozporzàdzenia nr 3820/85/EWG.
-30. Stosownie 13 2 rozporzàdzenia nr 3820/85/EWG, minister w∏aÊciwy spraw transportu udzieliç:
-1) po upowa˝nieniu przez Komisj´ Europejskà, zwolnienia stosowania postanowieƒ rozporzàdzedrogowe, tym ˝e przedsi´biorca przedk∏ada stosowje o udzielonym zwolnieniu drodze obwieszczenia, ne oÊwiadczenie.
-og∏aszanego Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”. Rozdzia∏ 5
-31. Kierowca, który okreÊlonych dniach Przepisy koƒcowe prowadzi∏ pojazdu albo prowadzi∏ pojazd, którego majà zastosowania przepisy rozporzàdzenia 32. Traci moc ustawa zdnia 24 sierpnia 2001 nr 3820/85/EWG, ˝àdanie osoby uprawnionej o czasie (Dz. U. 123, poz. 1354, przeprowadzenia kontroli przedstawia zaÊwiadczenie, 2002 155, poz. 1286 2003 149, które powinno zawieraç szczególnoÊci nast´pujàce poz. 1452).
-dane: imi´ nazwisko kierowcy, okres, którego dotyczy, wskazanie przyczyny nieposiadania wykresówek, 33. Ustawa wchodzi ˝ycie dniem uzyskao mowa 15 7 rozporzàdzenia nia przez Rzeczpospolità Polskà cz∏onkostwa Unii nr 3821/85/EWG, miejsce data wystawienia, podpis Europejskiej.
+4. Do kierowców, którzy wykorzystali przerwy wprowadzeniu pojazdu przeznaczone odpoczynek, zgodnie z 7 1 2 rozporządzenia nr 8320/85/EWG 7 1 2 Umowy AETR, stosuje się przerwy, o której mowa 13
+5. Do kierowców, którzy wykorzystali okres odpoczynku, októrym mowa wart. 8 1—3 rozporządzenia nr 8320/85/EWG 8 1—3 Umowy AETR, stosuje się odpoczynku, októrym mowa wart. 14.
+28. Stosownie 7 3 rozporządzenia nr 3820/85/EWG, wprzewozach regularnych być stosowana przerwa trwająca krócej 30 minut po okresie prowadzenia pojazdu nieprzekraczającym 4 godzin, jeżeli przerwa trwająca powyżej 30 minut zakłócałaby miejski ruch uliczny, a kierowca ma możliwości wykorzystania pozostałych 15 minut ciągu czterech pół godziny prowadzenia pojazdu przed przerwą 30-minutową.
+29. Stosownie 13 1 rozporządzenia nr 3820/85/EWG 3 2 rozporządzenia nr 3821/85/EWG wyłącza się ze stosowania wymienionych rozporządzeń terytorium Rzeczypospolitej Polskiej kategorie pojazdów, októrych mowa wart. 13 1 lit. b—k rozporządzenia nr 3820/85/EWG.
+30. Stosownie 13 2 rozporządzenia nr 3820/85/EWG, minister właściwy spraw transportu udzielić:
+1) po upoważnieniu przez Komisję Europejską, zwolnienia stosowania postanowień rozporządzedrogowe, z tym że przedsiębiorca przedkłada stosowje o udzielonym zwolnieniu drodze obwieszczenia, ne oświadczenie.
+ogłaszanego Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”. Rozdział 5
+31. Kierowca, który określonych dniach Przepisy końcowe prowadził pojazdu albo prowadził pojazd, którego mają zastosowania przepisy rozporządzenia 32. Traci moc ustawa zdnia 24 sierpnia 2001 nr 3820/85/EWG, żądanie osoby uprawnionej o czasie (Dz. U. 123, poz. 1354, przeprowadzenia kontroli przedstawia zaświadczenie, z 2002 155, poz. 1286 z 2003 149, które powinno zawierać szczególności następujące poz. 1452).
+dane: imię nazwisko kierowcy, okres, którego dotyczy, wskazanie przyczyny nieposiadania wykresówek, 33. Ustawa wchodzi życie z dniem uzyskao których mowa 15 7 rozporządzenia nia przez Rzeczpospolitą Polską członkostwa Unii nr 3821/85/EWG, miejsce data wystawienia, podpis Europejskiej.
 pracodawcy.
-2. ZaÊwiadczenie, o którym mowa 1, pracodawca wystawia wr´cza kierowcy przed rozpocz´- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 880
-USTAWA dnia 16 kwietnia 2004 o ochronie przyrody Rozdzia∏ 1 6) tworów przyrody ˝ywej nieo˝ywionej kopalnych szczàtków roÊlin zwierzàt;
-Przepisy ogólne Ustawa okreÊla cele, zasady formy ochrony przyrody ˝ywej nieo˝ywionej krajobrazu.
-2.1. Ochrona przyrody, wrozumieniu ustawy, polega zachowaniu, zrównowa˝onym u˝ytkowaniu odnawianiu zasobów, tworów sk∏adników przyrody:
-1) dziko wyst´pujàcych roÊlin, zwierzàt grzybów;
-2) roÊlin, zwierzàt igrzybów obj´tych ochronà gatunkowà;
+2. Zaświadczenie, o którym mowa 1, pracodawca wystawia wręcza kierowcy przed rozpoczę- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 880
+USTAWA z dnia 16 kwietnia 2004 o ochronie przyrody
+Przepisy ogólne Ustawa określa cele, zasady formy ochrony przyrody żywej nieożywionej krajobrazu.
+2.1. Ochrona przyrody, wrozumieniu ustawy, polega zachowaniu, zrównoważonym użytkowaniu odnawianiu zasobów, tworów składników przyrody:
+1) dziko występujących roślin, zwierząt grzybów;
+2) roślin, zwierząt igrzybów objętych ochroną gatunkową;
 7) krajobrazu;
 8) zieleni miastach wsiach;
-9) zadrzewieƒ.
+9) zadrzewień.
 2. Celem ochrony przyrody jest:
-1) utrzymanie procesów ekologicznych stabilnoÊci ekosystemów;
-2) zachowanie ró˝norodnoÊci biologicznej;
+1) utrzymanie procesów ekologicznych stabilności ekosystemów;
+2) zachowanie różnorodności biologicznej;
 3) zachowanie dziedzictwa geologicznego ipaleonto-
+
+#### Rozdział 2 Czas zatrudnionych podstawie stosunku
+
+#### Rozdział 3 Obowiązki pracodawcy
+
+#### Rozdział 1 6) tworów przyrody żywej nieożywionej kopalnych szczątków roślin zwierząt;
 

@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082251487) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1487/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 29 grudnia 2005 r. ousta- oÊrodek pomocy spo∏ecznej na podnowieniu programu wieloletniego „Pomoc paƒstwa stawie sporzàdzonej przez odpowiedw zakresie do˝ywiania” (Dz. U. Nr 267, poz. 2259) nio dyrektora szko∏y lub przedszkola liwprowadza si´ nast´pujàce zmiany: sty uczniów lub dzieci oraz liczby spo˝ytych posi∏ków w przyj´tym okresie
+**Art. 1.** Wustawie zdnia 29 grudnia 2005 r. ousta- ośrodek pomocy społecznej na podnowieniu programu wieloletniego ŃPomoc państwa stawie sporządzonej przez odpowiedw zakresie dożywiania” (Dz. U. Nr 267, poz. 2259) nio dyrektora szkoły lub przedszkola liwprowadza się następujące zmiany: sty uczniów lub dzieci oraz liczby spożytych posiłków w przyjętym okresie
 
-**Art. 2.** Ustawa wchodzi w˝ycie zdniem 1 stycznia 2009 r. Prezydent Rzeczypospolitej Polskiej:L. Kaczyƒski 1487 USTAWA zdnia 5 grudnia 2008 r. ozmianie ustawy oustanowieniu programu wieloletniego „Pomoc paƒstwa wzakresie do˝ywiania”
+**Art. 2.** Ustawa wchodzi wżycie zdniem 1 stycznia 2009 r. Prezydent Rzeczypospolitej Polskiej:L. Kaczyński 1487 USTAWA zdnia 5 grudnia 2008 r. ozmianie ustawy oustanowieniu programu wieloletniego ŃPomoc państwa wzakresie dożywiania”
 

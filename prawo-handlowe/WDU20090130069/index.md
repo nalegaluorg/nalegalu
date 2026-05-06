@@ -24,88 +24,88 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090130069) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/69/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 15 wrzeÊnia 2000 r. Kodeks spó∏ek handlowych (Dz. U. 94, poz. 1037, zpóên. zm. gà zwo∏aç nadzwyczajne walne zgromadzenie. Akcjonariusze wyznaczajà prze) wprowadza si´ nast´pujàce zmiany: wodniczàcego tego zgromadzenia.”,
+**Art. 1.** Wustawie zdnia 15 września 2000 r. Kodeks spółek handlowych (Dz. U. 94, poz. 1037, zpóên. zm. gą zwołać nadzwyczajne walne zgromadzenie. Akcjonariusze wyznaczają prze) wprowadza się następujące zmiany: wodniczącego tego zgromadzenia.”,
 
-**Art. 402².** Og∏oszenie o walnym zgromadzeniu spó∏ki publicznej powinno zawieraç co najmniej:
+**Art. 402².** Ogłoszenie o walnym zgromadzeniu spółki publicznej powinno zawierać co najmniej:
 
 **Art. 402³.**
 
-§ 1. Spó∏ka publiczna prowadzi w∏asnà stron´ internetowà izamieszcza na niej od dnia zwo∏ania walnego zgromadzenia:
+§ 1. Spółka publiczna prowadzi własną stronę internetową izamieszcza na niej od dnia zwołania walnego zgromadzenia:
 
-- **1)** og∏oszenie o zwo∏aniu walnego zgromadzenia,
-- **2)** informacj´ o ogólnej liczbie akcji w spó∏ce i liczbie g∏osów z tych akcji w dniu og∏oszenia, a je˝eli akcje sà ró˝nych rodzajów tak˝e o podziale akcji na poszczególne rodzaje i liczbie g∏osów z akcji poszczególnych rodzajów,
-- **3)** dokumentacj´, która ma byç przedstawiona walnemu zgromadzeniu,
-- **4)** projekty uchwa∏ lub, je˝eli nie przewiduje si´ podejmowania uchwa∏, uwagi zarzàdu lub rady nadzorczej spó∏ki, dotyczàce spraw wprowadzonych do porzàdku obrad walnego zgromadzenia lub spraw, które majà zostaç wprowadzone do porzàdku obrad przed terminem walnego zgromadzenia,
-- **5)** formularze pozwalajàce na wykonywanie prawa g∏osu przez pe∏nomocnika lub drogà korespondencyjnà, je˝eli nie sà one wysy∏ane bezpoÊrednio do wszystkich akcjonariuszy.
+- **1)** ogłoszenie o zwołaniu walnego zgromadzenia,
+- **2)** informację o ogólnej liczbie akcji w spółce i liczbie głosów z tych akcji w dniu ogłoszenia, a jeżeli akcje są różnych rodzajów także o podziale akcji na poszczególne rodzaje i liczbie głosów z akcji poszczególnych rodzajów,
+- **3)** dokumentację, która ma być przedstawiona walnemu zgromadzeniu,
+- **4)** projekty uchwał lub, jeżeli nie przewiduje się podejmowania uchwał, uwagi zarządu lub rady nadzorczej spółki, dotyczące spraw wprowadzonych do porządku obrad walnego zgromadzenia lub spraw, które mają zostać wprowadzone do porządku obrad przed terminem walnego zgromadzenia,
+- **5)** formularze pozwalające na wykonywanie prawa głosu przez pełnomocnika lub drogą korespondencyjną, jeżeli nie są one wysyłane bezpośrednio do wszystkich akcjonariuszy.
 
-§ 2. Je˝eli formularze, októrych mowa w § 1 pkt 5, z przyczyn technicznych nie mogà zostaç udost´pnione na stronie internetowej, spó∏ka publiczna wskazuje na tej stronie larzy. W takim przypadku spó∏ka publiczna wysy∏a formularze nieodp∏atnie pocztà ka˝demu akcjonariuszowi na jego ˝àdanie.
+§ 2. Jeżeli formularze, októrych mowa w § 1 pkt 5, z przyczyn technicznych nie mogą zostać udostępnione na stronie internetowej, spółka publiczna wskazuje na tej stronie larzy. W takim przypadku spółka publiczna wysyła formularze nieodpłatnie pocztą każdemu akcjonariuszowi na jego żądanie.
 
-§ 3. Formularze, októrych mowa w§ 1 pkt 5, powinny zawieraç proponowanà treÊç uchwa∏y walnego zgromadzenia iumo˝liwiaç:
+§ 3. Formularze, októrych mowa w§ 1 pkt 5, powinny zawierać proponowaną treść uchwały walnego zgromadzenia iumożliwiać:
 
-- **1)** identyfikacj´ akcjonariusza oddajàcego g∏os oraz jego pe∏nomocnika, je˝eli akcjonariusz wykonuje prawo g∏osu przez pe∏nomocnika,
-- **2)** oddanie g∏osu w rozumieniu art. 4§ 1pkt 9,
-- **3)** z∏o˝enie sprzeciwu przez akcjonariuszy g∏osujàcych przeciwko uchwale,
-- **4)** zamieszczenie instrukcji dotyczàcych sposobu g∏osowania wodniesieniu do ka˝dej z uchwa∏, nad którà g∏osowaç ma pe∏nosposób imiejsce uzyskania formumocnik.”;
-- **8)** art. 406 otrzymuje brzmienie: „Art. 406. § 1. Uprawnieni z akcji imiennych iÊwiadectw tymczasowych oraz zastawnicy i u˝ytkownicy, którym przys∏uguje prawo g∏osu, majà prawo uczestniczenia w walnym zgromadzeniu spó∏ki niepublicznej, je˝eli zostali wpisani do ksi´gi akcyjnej co najmniej na tydzieƒ przed odbyciem walnego zgromadzenia.
+- **1)** identyfikację akcjonariusza oddającego głos oraz jego pełnomocnika, jeżeli akcjonariusz wykonuje prawo głosu przez pełnomocnika,
+- **2)** oddanie głosu w rozumieniu art. 4§ 1pkt 9,
+- **3)** złożenie sprzeciwu przez akcjonariuszy głosujących przeciwko uchwale,
+- **4)** zamieszczenie instrukcji dotyczących sposobu głosowania wodniesieniu do każdej z uchwał, nad którą głosować ma pełnosposób imiejsce uzyskania formumocnik.”;
+- **8)** art. 406 otrzymuje brzmienie: ŃArt. 406. § 1. Uprawnieni z akcji imiennych iświadectw tymczasowych oraz zastawnicy i użytkownicy, którym przysługuje prawo głosu, mają prawo uczestniczenia w walnym zgromadzeniu spółki niepublicznej, jeżeli zostali wpisani do księgi akcyjnej co najmniej na tydzień przed odbyciem walnego zgromadzenia.
 
-§ 2. Akcje na okaziciela dajà prawo uczestniczenia w walnym zgromadzeniu spó∏ki niepublicznej, je˝eli dokumenty akcji zostanà z∏o˝one w spó∏ce co najmniej na tydzieƒ przed terminem tego zgromadzenia i nie b´dà odebrane przed jego ukoƒczeniem. Zamiast akcji mo˝e byç z∏o˝one zaÊwiadczenie wydane na dowód z∏o˝enia akcji u notariusza, wbanku lub firmie inwestycyjnej majàcych siedzib´ lub oddzia∏ na terytorium Unii Europejskiej lub paƒstwa b´dàcego stronà umowy oEuropejskim Obszarze Gospodarczym, wskazanych w og∏oszeniu ozwo∏aniu walnego zgromadzenia. W zaÊwiadczeniu wskazuje si´ numery dokumentów akcji i stwierdza, ˝e dokumenty akcji nie b´dà wydane przed zakoƒczeniem walnego zgromadzenia.”;
+§ 2. Akcje na okaziciela dają prawo uczestniczenia w walnym zgromadzeniu spółki niepublicznej, jeżeli dokumenty akcji zostaną złożone w spółce co najmniej na tydzień przed terminem tego zgromadzenia i nie będą odebrane przed jego ukończeniem. Zamiast akcji może być złożone zaświadczenie wydane na dowód złożenia akcji u notariusza, wbanku lub firmie inwestycyjnej mających siedzibę lub oddział na terytorium Unii Europejskiej lub państwa będącego stroną umowy oEuropejskim Obszarze Gospodarczym, wskazanych w ogłoszeniu ozwołaniu walnego zgromadzenia. W zaświadczeniu wskazuje się numery dokumentów akcji i stwierdza, że dokumenty akcji nie będą wydane przed zakończeniem walnego zgromadzenia.”;
 
-- **9)** po art. 406 dodaje si´ art. 406 —406 wbrzmieniu: „Art. 406 . § 1. Prawo uczestniczenia w walnym zgromadzeniu spó∏ki publicznej majà tylko osoby b´dàce akcjonariuszami spó∏ki na szesnaÊcie dni przed datà walnego zgromadzenia (dzieƒ rejestracji uczestnictwa wwalnym zgromadzeniu).
+- **9)** po art. 406 dodaje się art. 406 —406 wbrzmieniu: ŃArt. 406 . § 1. Prawo uczestniczenia w walnym zgromadzeniu spółki publicznej mają tylko osoby będące akcjonariuszami spółki na szesnaście dni przed datą walnego zgromadzenia (dzień rejestracji uczestnictwa wwalnym zgromadzeniu).
 
-§ 2. Dzieƒ rejestracji uczestnictwa w walnym zgromadzeniu jest jednolity dla uprawnionych z akcji na okaziciela iakcji imiennych.
+§ 2. Dzień rejestracji uczestnictwa w walnym zgromadzeniu jest jednolity dla uprawnionych z akcji na okaziciela iakcji imiennych.
 
-**Art. 406².** Uprawnieni z akcji imiennych i Êwiadectw tymczasowych oraz zastawnicy i u˝ytkownicy, którym przys∏uguje prawo g∏osu, majà prawo uczestniczenia wwalnym zgromadzeniu spó∏ki publicznej, je˝eli sà wpisani do ksi´gi akcyjnej w dniu rejestracji uczestnictwa w walnym zgromadzeniu.
+**Art. 406².** Uprawnieni z akcji imiennych i świadectw tymczasowych oraz zastawnicy i użytkownicy, którym przysługuje prawo głosu, mają prawo uczestniczenia wwalnym zgromadzeniu spółki publicznej, jeżeli są wpisani do księgi akcyjnej w dniu rejestracji uczestnictwa w walnym zgromadzeniu.
 
 **Art. 406³.**
 
-§ 1. Akcje na okaziciela majàce postaç dokumentu dajà prawo uczestniczenia w walnym zgromadzeniu spó∏ki publicznej, je˝eli dokumenty akcji zostanà z∏o˝one w spó∏ce nie póêniej ni˝ w dniu rejestracji uczestnictwa w walnym zgromadzeniu i nie b´dà odebrane przed zakoƒczeniem tego dnia. Zamiast akcji mo˝e byç z∏o˝one zaÊwiadczenie wydane na dowód z∏o˝enia
+§ 1. Akcje na okaziciela mające postać dokumentu dają prawo uczestniczenia w walnym zgromadzeniu spółki publicznej, jeżeli dokumenty akcji zostaną złożone w spółce nie póêniej niż w dniu rejestracji uczestnictwa w walnym zgromadzeniu i nie będą odebrane przed zakończeniem tego dnia. Zamiast akcji może być złożone zaświadczenie wydane na dowód złożenia
 
-- **7)** siedzib´ (miejsce zamieszkania) iadres uprawnionego zakcji,
-- **8)** cel wystawienia zaÊwiadczenia,
-- **9)** dat´ i miejsce wystawienia zaÊwiadczenia,
-- **10)** podpis osoby upowa˝nionej do wystawienia zaÊwiadczenia.
+- **7)** siedzibę (miejsce zamieszkania) iadres uprawnionego zakcji,
+- **8)** cel wystawienia zaświadczenia,
+- **9)** datę i miejsce wystawienia zaświadczenia,
+- **10)** podpis osoby upoważnionej do wystawienia zaświadczenia.
 
-§ 4. Na ˝àdanie uprawnionego ze zdematerializowanych akcji na okaziciela w treÊci zaÊwiadczenia powinna zostaç wskazana cz´Êç lub wszystkie akcje zarejestrowane na jego rachunku papierów wartoÊciowych.
+§ 4. Na żądanie uprawnionego ze zdematerializowanych akcji na okaziciela w treści zaświadczenia powinna zostać wskazana część lub wszystkie akcje zarejestrowane na jego rachunku papierów wartościowych.
 
-§ 5. Przepisy o obrocie instrumentami finansowymi mogà wskazywaç inne dokumenty równowa˝ne zaÊwiadczeniu, pod warunkiem, ˝e podmiot wystawiajàcy takie dokuakcji u notariusza, w banku lub fir- menty zosta∏ wskazany podmiotowi mie inwestycyjnej majàcych sie- prowadzàcemu depozyt papierów dzib´ lub oddzia∏ na terytorium wartoÊciowych dla spó∏ki publiczUnii Europejskiej lub paƒstwa b´- nej. dàcego stronà umowy o Europejskim Obszarze Gospodarczym, § 6. List´ uprawnionych z akcji na okawskazanych wog∏oszeniu ozwo∏a- ziciela do uczestnictwa w walnym niu walnego zgromadzenia. W za- zgromadzeniu spó∏ki publicznej Êwiadczeniu wskazuje si´ numery spó∏ka ustala na podstawie akcji dokumentów akcji i stwierdza, ˝e z∏o˝onych w spó∏ce zgodnie z § 1 dokumenty akcji nie b´dà wydane oraz wykazu sporzàdzonego przez przed up∏ywem dnia rejestracji podmiot prowadzàcy depozyt pauczestnictwa w walnym zgroma- pierów wartoÊciowych zgodnie dzeniu. z przepisami o obrocie instrumen§ 2. Na ˝àdanie uprawnionego ze zde- tami finansowymi. materializowanych akcji na okazi- § 7. Podmiot prowadzàcy depozyt paciela spó∏ki publicznej zg∏oszone pierów wartoÊciowych sporzàdza nie wczeÊniej ni˝ po og∏oszeniu wykaz, o którym mowa w § 6, na ozwo∏aniu walnego zgromadzenia podstawie wykazów przekazywainie póêniej ni˝ wpierwszym dniu nych nie póêniej ni˝ na dwanaÊcie powszednim po dniu rejestracji dni przed datà walnego zgromauczestnictwa w walnym zgroma- dzenia przez podmioty uprawniodzeniu, podmiot prowadzàcy ra- ne zgodnie z przepisami o obrocie chunek papierów wartoÊciowych instrumentami finansowymi. Podwystawia imienne zaÊwiadczenie stawà sporzàdzenia wykazów przeo prawie uczestnictwa w walnym kazywanych podmiotowi prowazgromadzeniu. dzàcemu depozyt papierów warto§ 3. ZaÊwiadczenie, o którym mowa Êciowych sà wystawione zaÊwiadw§ 2, zawiera: czenia o prawie uczestnictwa w walnym zgromadzeniu spó∏ki
+§ 5. Przepisy o obrocie instrumentami finansowymi mogą wskazywać inne dokumenty równoważne zaświadczeniu, pod warunkiem, że podmiot wystawiający takie dokuakcji u notariusza, w banku lub fir- menty został wskazany podmiotowi mie inwestycyjnej mających sie- prowadzącemu depozyt papierów dzibę lub oddział na terytorium wartościowych dla spółki publiczUnii Europejskiej lub państwa bę- nej. dącego stroną umowy o Europejskim Obszarze Gospodarczym, § 6. Listę uprawnionych z akcji na okawskazanych wogłoszeniu ozwoła- ziciela do uczestnictwa w walnym niu walnego zgromadzenia. W za- zgromadzeniu spółki publicznej świadczeniu wskazuje się numery spółka ustala na podstawie akcji dokumentów akcji i stwierdza, że złożonych w spółce zgodnie z § 1 dokumenty akcji nie będą wydane oraz wykazu sporządzonego przez przed upływem dnia rejestracji podmiot prowadzący depozyt pauczestnictwa w walnym zgroma- pierów wartościowych zgodnie dzeniu. z przepisami o obrocie instrumen§ 2. Na żądanie uprawnionego ze zde- tami finansowymi. materializowanych akcji na okazi- § 7. Podmiot prowadzący depozyt paciela spółki publicznej zgłoszone pierów wartościowych sporządza nie wcześniej niż po ogłoszeniu wykaz, o którym mowa w § 6, na ozwołaniu walnego zgromadzenia podstawie wykazów przekazywainie póêniej niż wpierwszym dniu nych nie póêniej niż na dwanaście powszednim po dniu rejestracji dni przed datą walnego zgromauczestnictwa w walnym zgroma- dzenia przez podmioty uprawniodzeniu, podmiot prowadzący ra- ne zgodnie z przepisami o obrocie chunek papierów wartościowych instrumentami finansowymi. Podwystawia imienne zaświadczenie stawą sporządzenia wykazów przeo prawie uczestnictwa w walnym kazywanych podmiotowi prowazgromadzeniu. dzącemu depozyt papierów warto§ 3. Zaświadczenie, o którym mowa ściowych są wystawione zaświadw§ 2, zawiera: czenia o prawie uczestnictwa w walnym zgromadzeniu spółki
 
-- **1)** firm´ (nazw´), siedzib´, adres publicznej. i piecz´ç wystawiajàcego oraz numer zaÊwiadczenia, § 8. Podmiot prowadzàcy depozyt pa2) liczb´ akcji, pierów wartoÊciowych udost´pnia spó∏ce publicznej wykaz, o którym
+- **1)** firmę (nazwę), siedzibę, adres publicznej. i pieczęć wystawiającego oraz numer zaświadczenia, § 8. Podmiot prowadzący depozyt pa2) liczbę akcji, pierów wartościowych udostępnia spółce publicznej wykaz, o którym
 - **3)** rodzaj ikod akcji, mowa w § 6, przy wykorzystaniu
-- **4)** firm´ (nazw´), siedzib´ i adres Êrodków komunikacji elektroniczspó∏ki publicznej, która wyemi- nej nie póêniej ni˝ na tydzieƒ przed towa∏a akcje, datà walnego zgromadzenia. Je˝eli z przyczyn technicznych wykaz
-- **5)** wartoÊç nominalnà akcji, nie mo˝e zostaç udost´pniony
-- **6)** imi´ inazwisko albo firm´ (nazw´) uprawnionego zakcji, wtaki sposób, podmiot prowadzàcy depozyt papierów wartoÊciowych wydaje go w postaci dokumentu sporzàdzonego na piÊmie nie póêniej ni˝ na szeÊç dni przed datà walnego zgromadzenia; wydanie nast´puje w siedzibie organu zarzàdzajàcego podmiotem.
+- **4)** firmę (nazwę), siedzibę i adres środków komunikacji elektroniczspółki publicznej, która wyemi- nej nie póêniej niż na tydzień przed towała akcje, datą walnego zgromadzenia. Jeżeli z przyczyn technicznych wykaz
+- **5)** wartość nominalną akcji, nie może zostać udostępniony
+- **6)** imię inazwisko albo firmę (nazwę) uprawnionego zakcji, wtaki sposób, podmiot prowadzący depozyt papierów wartościowych wydaje go w postaci dokumentu sporządzonego na piśmie nie póêniej niż na sześć dni przed datą walnego zgromadzenia; wydanie następuje w siedzibie organu zarządzającego podmiotem.
 
-**Art. 406⁴.** Akcjonariusz spó∏ki publicznej mo˝e przenosiç akcje w okresie mi´dzy dniem rejestracji uczestnictwa w walnym zgromadzeniu a dniem zakoƒczenia walnego zgromadzenia.
+**Art. 406⁴.** Akcjonariusz spółki publicznej może przenosić akcje w okresie między dniem rejestracji uczestnictwa w walnym zgromadzeniu a dniem zakończenia walnego zgromadzenia.
 
 **Art. 406⁵.**
 
-§ 1. Statut mo˝e dopuszczaç udzia∏ w walnym zgromadzeniu przy wykorzystaniu Êrodków komunikacji elektronicznej, co obejmuje wszczególnoÊci:
+§ 1. Statut może dopuszczać udział w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej, co obejmuje wszczególności:
 
-- **1)** transmisj´ obrad walnego zgromadzenia w czasie rzeczywistym,
-- **2)** dwustronnà komunikacj´ wczasie rzeczywistym, wramach której akcjonariusze mogà wypowiadaç si´ w toku obrad walnego zgromadzenia, przebywajàc w miejscu innym ni˝ miejsce obrad walnego zgromadzenia,
-- **3)** wykonywanie osobiÊcie lub przez pe∏nomocnika prawa g∏osu przed lub w toku walnego zgromadzenia.
+- **1)** transmisję obrad walnego zgromadzenia w czasie rzeczywistym,
+- **2)** dwustronną komunikację wczasie rzeczywistym, wramach której akcjonariusze mogą wypowiadać się w toku obrad walnego zgromadzenia, przebywając w miejscu innym niż miejsce obrad walnego zgromadzenia,
+- **3)** wykonywanie osobiście lub przez pełnomocnika prawa głosu przed lub w toku walnego zgromadzenia.
 
-§ 2. W przypadku, gdy statut dopuszcza udzia∏ w walnym zgromadzeniu przy wykorzystaniu Êrodków komunikacji elektronicznej, udzia∏ akcjonariuszy w walnym zgromadzeniu mo˝e podlegaç jedynie wymogom i ograniczeniom, które sà niezb´dne do identyfikacji akcjonariuszy i zapewnienia bezpieczeƒstwa komunikacji elektronicznej.
+§ 2. W przypadku, gdy statut dopuszcza udział w walnym zgromadzeniu przy wykorzystaniu środków komunikacji elektronicznej, udział akcjonariuszy w walnym zgromadzeniu może podlegać jedynie wymogom i ograniczeniom, które są niezbędne do identyfikacji akcjonariuszy i zapewnienia bezpieczeństwa komunikacji elektronicznej.
 
-§ 3. Transmisja obrad walnego zgromadzenia w czasie rzeczywistym nie narusza obowiàzków informacyjnych okreÊlonych w przepisach o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz ospó∏kach publicznych.
+§ 3. Transmisja obrad walnego zgromadzenia w czasie rzeczywistym nie narusza obowiązków informacyjnych określonych w przepisach o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz ospółkach publicznych.
 
-**Art. 406⁶.** Cz∏onkowie zarzàdu i rady nadzorczej majà prawo uczestniczenia w walnym zgromadzeniu.”;
+**Art. 406⁶.** Członkowie zarządu i rady nadzorczej mają prawo uczestniczenia w walnym zgromadzeniu.”;
 
 **Art. 411².**
 
-§ 1. Przy obliczaniu kworum oraz wyników g∏osowania uwzgl´dnia si´ g∏osy oddane korespondencyjnie, które spó∏ka otrzyma∏a nie póêniej ni˝ w chwili zarzàdzenia g∏osowania na walnym zgromadzeniu.
+§ 1. Przy obliczaniu kworum oraz wyników głosowania uwzględnia się głosy oddane korespondencyjnie, które spółka otrzymała nie póêniej niż w chwili zarządzenia głosowania na walnym zgromadzeniu.
 
-§ 2. G∏osy oddane korespondencyjnie sà jawne od chwili og∏oszenia wyników g∏osowania.
+§ 2. Głosy oddane korespondencyjnie są jawne od chwili ogłoszenia wyników głosowania.
 
-§ 3. Z∏o˝enie sprzeciwu drogà korespondencyjnà jest równoznaczne ze zg∏oszeniem ˝àdania zaprotoko∏owania sprzeciwu przez akcjonariusza obecnego na walnym zgromadzeniu i uprawnia do zaskar˝enia uchwa∏y walnego zgromadzenia.
+§ 3. Złożenie sprzeciwu drogą korespondencyjną jest równoznaczne ze zgłoszeniem żądania zaprotokołowania sprzeciwu przez akcjonariusza obecnego na walnym zgromadzeniu i uprawnia do zaskarżenia uchwały walnego zgromadzenia.
 
-§ 4. Akcjonariusz, który odda∏ g∏os korespondencyjnie, traci prawo oddania g∏osu na walnym zgromadzeniu. G∏os oddany korespondencyjnie mo˝e jednak zostaç odwo∏any przez oÊwiadczenie z∏o˝one spó∏ce. OÊwiadczenie o odwo∏aniu jest skuteczne, je˝eli dosz∏o do spó∏ki nie póêniej ni˝ w chwili zarzàdzenia g∏osowania na walnym zgromadzeniu.
+§ 4. Akcjonariusz, który oddał głos korespondencyjnie, traci prawo oddania głosu na walnym zgromadzeniu. Głos oddany korespondencyjnie może jednak zostać odwołany przez oświadczenie złożone spółce. Oświadczenie o odwołaniu jest skuteczne, jeżeli doszło do spółki nie póêniej niż w chwili zarządzenia głosowania na walnym zgromadzeniu.
 
-§ 5. G∏osowanie korespondencyjne mo˝e dotyczyç tak˝e spraw wskazanych wart. 420 § 2, chyba ˝e regulamin walnego zgromadzenia stanowi inaczej. Oddanie g∏osu korespondencyjnie jest równoznaczne ze zgodà akcjonariusza na rezygnacj´ z tajnego trybu g∏osowania.
+§ 5. Głosowanie korespondencyjne może dotyczyć także spraw wskazanych wart. 420 § 2, chyba że regulamin walnego zgromadzenia stanowi inaczej. Oddanie głosu korespondencyjnie jest równoznaczne ze zgodą akcjonariusza na rezygnację z tajnego trybu głosowania.
 
-**Art. 411³.** Akcjonariusz mo˝e g∏osowaç odmiennie zka˝dej zposiadanych akcji.”;
+**Art. 411³.** Akcjonariusz może głosować odmiennie zkażdej zposiadanych akcji.”;
 
-**Art. 2.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538, z 2006 r. 104, poz. 708 i 157, poz. 1119 oraz z2008 r. 171, poz. 1056) wprowadza si´ nast´pujàce zmiany:
+**Art. 2.** W ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. 183, poz. 1538, z 2006 r. 104, poz. 708 i 157, poz. 1119 oraz z2008 r. 171, poz. 1056) wprowadza się następujące zmiany:
 
-**Art. 3.** Ustawa wchodzi w ˝ycie z dniem 3 sierpnia 2009 r., z wyjàtkiem przepisów art. 1 pkt 17—19, które wchodzà w˝ycie po up∏ywie 30 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej:L. Kaczyƒski
+**Art. 3.** Ustawa wchodzi w życie z dniem 3 sierpnia 2009 r., z wyjątkiem przepisów art. 1 pkt 17—19, które wchodzą wżycie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej:L. Kaczyński
 

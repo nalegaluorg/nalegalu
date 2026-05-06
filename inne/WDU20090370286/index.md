@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# adwokaturze (Dz. U. z 2002 r. 123, poz. 1058, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+# adwokaturze (Dz. U. z 2002 r. 123, poz. 1058, zpóên. zm. ) wprowadza się następujące zmiany:
 
 | Pole | Wartość |
 |---|---|
@@ -25,316 +25,316 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090370286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/286/text.pdf) |
 
 1) wart. 4b:
-a) wust. 1uchyla si´ pkt 2,
-b) uchyla si´ ust. 2;
-2) wart. 46 uchyla si´ ust. 2;
-3) art. 58 pkt 14 kropk´ zast´puje si´ przecinkiem idodaje si´ pkt 15 wbrzmieniu: „15) wspó∏dzia∏anie z Ministrem SprawiedliwoÊci wzakresie okreÊlonym wustawie.”;
-4) wart. 65 pkt 4otrzymuje brzmienie: „4) odby∏ wRzeczypospolitej Polskiej aplikacj´ adwokackà iz∏o˝y∏ egzamin adwokacki, zzastrze˝eniem art. 66 ust. 1i2.”;
-5) art. 66 otrzymuje brzmienie: „Art. 66. 1. Wymogu odbycia aplikacji adwokackiej iz∏o˝enia egzaminu adwokackiego nie stosuje si´ do:
+a) wust. 1uchyla się pkt 2,
+b) uchyla się ust. 2;
+2) wart. 46 uchyla się ust. 2;
+3) art. 58 pkt 14 kropkę zastępuje się przecinkiem idodaje się pkt 15 wbrzmieniu: Ń15) współdziałanie z Ministrem Sprawiedliwości wzakresie określonym wustawie.”;
+4) wart. 65 pkt 4otrzymuje brzmienie: Ń4) odbył wRzeczypospolitej Polskiej aplikację adwokacką izłożył egzamin adwokacki, zzastrzeżeniem art. 66 ust. 1i2.”;
+5) art. 66 otrzymuje brzmienie: ŃArt. 66. 1. Wymogu odbycia aplikacji adwokackiej izłożenia egzaminu adwokackiego nie stosuje się do:
 1) profesorów i doktorów habilitowanych nauk prawnych,
-2) osób, które co najmniej trzy lata zajmowa∏y stanowisko radcy lub starszego radcy Prokuratorii Generalnej Skarbu Paƒstwa,
-3) osób, które zajmowa∏y stanowisko s´dziego, prokuratora lub wykonywa∏y zawód radcy prawnego albo notariusza,
-4) osób, które zda∏y egzamin s´dziowski lub prokuratorski po dniu 1 stycznia 1991 r. oraz okresie ratora lub
-b) wykonywa∏y wymagajàce wiedzy prawniczej czynnoÊci bezpoÊrednio zwiàzane ze Êwiadczeniem pomocy prawnej przez adwokata lub radc´ prawnego na podstawie umowy prac´ lub umowy cywilnoprawnej kancelarii adwokackiej, zespole adwokackim, spó∏ce cywilnej, jawnej, partnerskiej, komandytowej, których mowa wart. 4a ust. 1, lub kancelarii radcy prawnego, spó∏ce cywilnej, jawnej, partnerskiej, komandytowej, których mowa wart. 8ust. 1ustawy zdnia 6lipca 1982 r. radcach prawnych (Dz. U. z2002 r. 123, poz. 1059, zpóên. zm.
-5 lat przed z∏o˝eniem wniosku wpis na list´ adwokatów, ∏àcznie przez okres co najmniej 3lat:
-a) zajmowa∏y stanowisko asesora sàdowego, asesora prokuratorskiego, referendarza sàdowego, starszego referendarza sàdowego, aplikanta sàdowego, aplikanta prokuratorskiego, aplikanta sàdowo-prokuratorskiego, asy),
-5) osób, które posiadajà stopieƒ naukowy doktora nauk prawnych oraz okresie 5 lat przed z∏o˝eniem wniosku owpis na list´ adwokatów, ∏àcznie przez okres co najmniej 3lat:
-a) zajmowa∏y stanowisko referendarza sàdowego, starszego referendarza sàdowego, aplikanta sàdowego, aplikanta prokuratorskiego, aplikanta sàdowo-prokuratorskiego, asystenta s´dziego, asystenta prokuratora lub
-b) wykonywa∏y wymagajàce wiedzy prawniczej czynnoÊci bezpoÊrednio zwiàzane ze Êwiadczeniem pomocy prawnej przez adwokata lub radc´ prawnego na podstawie umowy prac´ lub umowy cywilnoprawnej kancelarii adwokackiej, zespole adwokackim, spó∏ce cywilnej, jawnej, partnerskiej, komandytowej, których mowa wart. 4a ust. 1, lub kancelarii radcy prawnego, spó∏ce cywilnej, jawnej, partnerskiej, komandytowej, których mowa wart. 8ust. 1ustawy zdnia 6lipca 1982 r. oradcach prawnych.
-——————— ——————— ∏y na stanowisku referendarza sàdowego, starszego referendarza sàdowego, asystenta s´dziego lub asystenta prokuratora,
-3) osoby, które po ukoƒczeniu wy˝szych studiów prawniczych przez okres co najmniej 5lat wokresie nie d∏u˝szym ni˝ 10 lat przed z∏o˝eniem wniosku odopuszczenie do egzaminu wykonywa∏y wymagajàce wiedzy prawniczej czynnoÊci bezpoÊrednio zwiàzane ze Êwiadczeniem pomocy prawnej przez adwokata lub radc´ prawnego wkancelarii adnik z egzaminu adwokackiego, na list´ adwokatów nast´puje na jej wniosek, na podstawie uchwa∏y okr´gowej rady adwokackiej, w∏aÊciwej ze wzgl´du na miejsce odbycia aplikacji adwokackiej, a przypadku osoby, której mowa art. 66 ust. 2, ze wzgl´du na miejsce zamieszkania.”,
-b) ust. 3otrzymuje brzmienie: „3. Do wniosku, którym mowa ust. 1 i 2, osoba ubiegajàca si´ wpis jest obowiàzana do∏àczyç:
-1) informacj´ niekaralnoÊci z Krajowego Rejestru Karnego opatrzonà datà nie wokackiej, zespole adwokackim, wczeÊniejszà ni˝ miesiàc przed z∏o˝eniem spó∏ce cywilnej, jawnej, partner- wniosku, skiej, komandytowej, których mowa art. 4a ust. 1, lub kancelarii 2) oÊwiadczenie, którym mowa art. 7 radcy prawnego, spó∏ce cywilnej, ust. 1 ustawy z dnia 18 paêdziernika jawnej, partnerskiej, komandyto- 2006 r. ujawnianiu informacji dokuwej, których mowa art. 8 mentach organów bezpieczeƒstwa paƒust.1 ustawy z dnia 6 lipca 1982 r. stwa zlat 1944—1990 oraz treÊci tych doradcach prawnych, na podstawie kumentów (Dz. U. z 2007 r. 63, umowy prac´ lub umowy cywil- poz. 425, z póên. zm.
+2) osób, które co najmniej trzy lata zajmowały stanowisko radcy lub starszego radcy Prokuratorii Generalnej Skarbu Państwa,
+3) osób, które zajmowały stanowisko sędziego, prokuratora lub wykonywały zawód radcy prawnego albo notariusza,
+4) osób, które zdały egzamin sędziowski lub prokuratorski po dniu 1 stycznia 1991 r. oraz okresie ratora lub
+b) wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umowy pracę lub umowy cywilnoprawnej kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej, których mowa wart. 4a ust. 1, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej, których mowa wart. 8ust. 1ustawy zdnia 6lipca 1982 r. radcach prawnych (Dz. U. z2002 r. 123, poz. 1059, zpóên. zm.
+5 lat przed złożeniem wniosku wpis na listę adwokatów, łącznie przez okres co najmniej 3lat:
+a) zajmowały stanowisko asesora sądowego, asesora prokuratorskiego, referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, aplikanta sądowo-prokuratorskiego, asy),
+5) osób, które posiadają stopień naukowy doktora nauk prawnych oraz okresie 5 lat przed złożeniem wniosku owpis na listę adwokatów, łącznie przez okres co najmniej 3lat:
+a) zajmowały stanowisko referendarza sądowego, starszego referendarza sądowego, aplikanta sądowego, aplikanta prokuratorskiego, aplikanta sądowo-prokuratorskiego, asystenta sędziego, asystenta prokuratora lub
+b) wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umowy pracę lub umowy cywilnoprawnej kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej, których mowa wart. 4a ust. 1, lub kancelarii radcy prawnego, spółce cywilnej, jawnej, partnerskiej, komandytowej, których mowa wart. 8ust. 1ustawy zdnia 6lipca 1982 r. oradcach prawnych.
+——————— ——————— ły na stanowisku referendarza sądowego, starszego referendarza sądowego, asystenta sędziego lub asystenta prokuratora,
+3) osoby, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 5lat wokresie nie dłuższym niż 10 lat przed złożeniem wniosku odopuszczenie do egzaminu wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego wkancelarii adnik z egzaminu adwokackiego, na listę adwokatów następuje na jej wniosek, na podstawie uchwały okręgowej rady adwokackiej, właściwej ze względu na miejsce odbycia aplikacji adwokackiej, a przypadku osoby, której mowa art. 66 ust. 2, ze względu na miejsce zamieszkania.”,
+b) ust. 3otrzymuje brzmienie: Ń3. Do wniosku, którym mowa ust. 1 i 2, osoba ubiegająca się wpis jest obowiązana dołączyć:
+1) informację niekaralności z Krajowego Rejestru Karnego opatrzoną datą nie wokackiej, zespole adwokackim, wcześniejszą niż miesiąc przed złożeniem spółce cywilnej, jawnej, partner- wniosku, skiej, komandytowej, których mowa art. 4a ust. 1, lub kancelarii 2) oświadczenie, którym mowa art. 7 radcy prawnego, spółce cywilnej, ust. 1 ustawy z dnia 18 paêdziernika jawnej, partnerskiej, komandyto- 2006 r. ujawnianiu informacji dokuwej, których mowa art. 8 mentach organów bezpieczeństwa pańust.1 ustawy z dnia 6 lipca 1982 r. stwa zlat 1944—1990 oraz treści tych doradcach prawnych, na podstawie kumentów (Dz. U. z 2007 r. 63, umowy pracę lub umowy cywil- poz. 425, z póên. zm.
 noprawnej,
-4) osoby, które po ukoƒczeniu wy˝szych studiów prawniczych przez okres co najmniej 5lat wokresie nie d∏u˝szym ni˝ 10 lat przed z∏o˝eniem wniosku odopuszczenie do egzaminu by∏y zatrudnione urz´dach organów w∏adzy publicznej i wykonywa∏y wymagajàce wiedzy prawniczej czynnoÊci bezpoÊrednio zwiàzane ze Êwiadczeniem pomocy prawnej na rzecz tych urz´dów,
-5) osoby, które zda∏y egzamin s´dziowski, prokuratorski lub notarialny,
-6) osoby, które zajmujà stanowisko radcy lub starszego radcy Prokuratorii Generalnej Skarbu Paƒstwa.
-3. Osoby, których mowa ust. 2, muszà spe∏niaç wymagania przewidziane wart. 65 pkt 1—3.
-4. W przypadku wykonywania pracy niepe∏nym wymiarze okresy, których mowa ust. 1 pkt 4 i 5 oraz wust.2 pkt 2—4, podlegajà proporcjonalnemu wyd∏u˝eniu.
-5. Do okresów, których mowa ust. 1 ), albo informacj´, októrej mowa wart. 7ust. 3a tej ustawy, przypadku osób urodzonych przed dniem 1sierpnia 1972 r.,
-3) umowy prac´ wraz z dokumentami okreÊlajàcymi zakres obowiàzków lub zaÊwiadczeniami od pracodawcy okreÊlajàcymi zakres obowiàzków, lub umowy cywilnoprawne wraz z oÊwiadczeniem oz∏o˝eniu deklaracji do w∏aÊciwego urz´du skarbowego oraz zap∏aceniu podatku wynikajàcego z tytu∏u tych umów przypadku osób, których mowa wart.66 ust. 1pkt 4i5,
-4) dokument zaÊwiadczajàcy uzyskanie stopnia naukowego doktora nauk prawnych wprzypadku osób, októrych mowa wart. 66 ust. 1pkt 5,
-5) zaÊwiadczenie adwokata lub radcy prawnego, zktórego wynikaç b´dzie, ˝e osoba ubiegajàca si´ wpis wykonywa∏a wymagajàce wiedzy prawniczej czynnoÊci bezpoÊrednio zwiàzane ze Êwiadczeniem pomocy prawnej przez adwokata lub radc´ prawnego wprzypadku osób, októrych mowa art. 66 ust. 1 pkt 4 lit. b ipkt5 lit. b.”, ——————— „Art. 69. 1. Okr´gowa rada adwokacka przesy∏a wraz z aktami osobowymi do Ministra SprawiedliwoÊci terminie 30 dni ka˝dà uchwa∏´ owpisie na list´ adwokatów oraz ka˝dà uchwa∏´ owpisie na list´ aplikantów adwokackich. Okr´gowa rada adwokacka terminie 30 dni zawiadamia Ministra SprawiedliwoÊci oka˝dej uchwale oodmowie wpisu na list´ adwokatów oraz ka˝dej uchwale odmowie wpisu na list´ aplikantów adwokackich.
-2. Je˝eli zawarty aktach osobowych wniosek owpis nie zawiera wszystkich i ust. 3 pkt 1 oraz ust. 4 stosuje si´ odpowiednio.”,
-c) po ust. 5dodaje si´ ust. 6—9wbrzmieniu: „6. Okr´gowa rada adwokacka podejmuje uchwa∏´ sprawie wpisu na list´ aplikantów adwokackich terminie 30 dni od dnia z∏o˝enia wniosku.
-7. Od uchwa∏y, której mowa ust. 6, s∏u˝y odwo∏anie do prezydium Naczelnej Rady Adwokackiej terminie 14 dni od dnia dor´czenia uchwa∏y.
-8. Od ostatecznej uchwa∏y odmawiajàcej wpisu na list´ aplikantów adwokackich zainterewymaganych informacji lub dokumen- sowanemu s∏u˝y skarga do sàdu adminitów, Minister SprawiedliwoÊci zwraca stracyjnego wterminie 30 dni od dnia dor´uchwa∏´ wraz z aktami osobowymi czenia uchwa∏y.
-kandydata do w∏aÊciwej okr´gowej ra- 9. W przypadku niepodj´cia uchwa∏y przez dy adwokackiej wcelu uzupe∏nienia.”; okr´gowà rad´ adwokackà terminie
-9) po art. 69 dodaje si´ art. 69a wbrzmieniu: 30 dni od dnia z∏o˝enia wniosku owpis na list´ aplikantów adwokackich lub niepodj´cia „1. Wpis na list´ adwokatów lub aplikantów ad- uchwa∏y przez prezydium Naczelnej Rady wokackich uwa˝a si´ za dokonany, je˝eli Adwokackiej terminie 30 dni od dnia doMinister SprawiedliwoÊci nie podpisze sprze- r´czenia odwo∏ania zainteresowanemu s∏uciwu od wpisu wterminie 30 dni od dnia dor´- ˝y skarga na bezczynnoÊç do sàdu adminiczenia uchwa∏y wraz zaktami osobowymi kan- stracyjnego.”;
-dydata. W przypadku, którym mowa wart.69 ust. 2, bieg terminu liczy si´ wówczas 12) wart. 75a: od dnia ponownego dor´czenia uchwa∏y wraz z aktami osobowymi. Minister Sprawiedliwo- a) ust. 1otrzymuje brzmienie: Êci wyra˝a sprzeciw formie decyzji admini- „1. Egzamin wst´pny przeprowadzajà komisje stracyjnej. egzaminacyjne do spraw aplikacji adwokac2. Decyzja Ministra SprawiedliwoÊci mo˝e byç kiej przy Ministrze SprawiedliwoÊci, powozaskar˝ona do sàdu administracyjnego przez ∏ane wdrodze zarzàdzenia, zwane dalej „kozainteresowanego lub organ samorzàdu ad- misjami kwalifikacyjnymi”. W∏aÊciwoÊç kowokackiego terminie 30 dni od dnia dor´- misji kwalifikacyjnej obejmuje obszar w∏aczenia tej decyzji. ÊciwoÊci jednej lub kilku okr´gowych rad
-3. Niezw∏ocznie po dokonaniu wpisu na list´ aplikantów adwokackich okr´gowa rada adwokacka wyznacza aplikantowi termin Êlubowania. Przepis art. 5 stosuje si´ odpowiednio.”;
-10) wart. 71a ust. 1otrzymuje brzmienie: „1. Adwokat mo˝e przenieÊç siedzib´ zawodowà do okr´gu innej izby, zzastrze˝eniem ust. 2.”;
+4) osoby, które po ukończeniu wyższych studiów prawniczych przez okres co najmniej 5lat wokresie nie dłuższym niż 10 lat przed złożeniem wniosku odopuszczenie do egzaminu były zatrudnione urzędach organów władzy publicznej i wykonywały wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej na rzecz tych urzędów,
+5) osoby, które zdały egzamin sędziowski, prokuratorski lub notarialny,
+6) osoby, które zajmują stanowisko radcy lub starszego radcy Prokuratorii Generalnej Skarbu Państwa.
+3. Osoby, których mowa ust. 2, muszą spełniać wymagania przewidziane wart. 65 pkt 1—3.
+4. W przypadku wykonywania pracy niepełnym wymiarze okresy, których mowa ust. 1 pkt 4 i 5 oraz wust.2 pkt 2—4, podlegają proporcjonalnemu wydłużeniu.
+5. Do okresów, których mowa ust. 1 ), albo informację, októrej mowa wart. 7ust. 3a tej ustawy, przypadku osób urodzonych przed dniem 1sierpnia 1972 r.,
+3) umowy pracę wraz z dokumentami określającymi zakres obowiązków lub zaświadczeniami od pracodawcy określającymi zakres obowiązków, lub umowy cywilnoprawne wraz z oświadczeniem ozłożeniu deklaracji do właściwego urzędu skarbowego oraz zapłaceniu podatku wynikającego z tytułu tych umów przypadku osób, których mowa wart.66 ust. 1pkt 4i5,
+4) dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych wprzypadku osób, októrych mowa wart. 66 ust. 1pkt 5,
+5) zaświadczenie adwokata lub radcy prawnego, zktórego wynikać będzie, że osoba ubiegająca się wpis wykonywała wymagające wiedzy prawniczej czynności bezpośrednio związane ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego wprzypadku osób, októrych mowa art. 66 ust. 1 pkt 4 lit. b ipkt5 lit. b.”, ——————— ŃArt. 69. 1. Okręgowa rada adwokacka przesyła wraz z aktami osobowymi do Ministra Sprawiedliwości terminie 30 dni każdą uchwałę owpisie na listę adwokatów oraz każdą uchwałę owpisie na listę aplikantów adwokackich. Okręgowa rada adwokacka terminie 30 dni zawiadamia Ministra Sprawiedliwości okażdej uchwale oodmowie wpisu na listę adwokatów oraz każdej uchwale odmowie wpisu na listę aplikantów adwokackich.
+2. Jeżeli zawarty aktach osobowych wniosek owpis nie zawiera wszystkich i ust. 3 pkt 1 oraz ust. 4 stosuje się odpowiednio.”,
+c) po ust. 5dodaje się ust. 6—9wbrzmieniu: Ń6. Okręgowa rada adwokacka podejmuje uchwałę sprawie wpisu na listę aplikantów adwokackich terminie 30 dni od dnia złożenia wniosku.
+7. Od uchwały, której mowa ust. 6, służy odwołanie do prezydium Naczelnej Rady Adwokackiej terminie 14 dni od dnia doręczenia uchwały.
+8. Od ostatecznej uchwały odmawiającej wpisu na listę aplikantów adwokackich zainterewymaganych informacji lub dokumen- sowanemu służy skarga do sądu adminitów, Minister Sprawiedliwości zwraca stracyjnego wterminie 30 dni od dnia doręuchwałę wraz z aktami osobowymi czenia uchwały.
+kandydata do właściwej okręgowej ra- 9. W przypadku niepodjęcia uchwały przez dy adwokackiej wcelu uzupełnienia.”; okręgową radę adwokacką terminie
+9) po art. 69 dodaje się art. 69a wbrzmieniu: 30 dni od dnia złożenia wniosku owpis na listę aplikantów adwokackich lub niepodjęcia Ń1. Wpis na listę adwokatów lub aplikantów ad- uchwały przez prezydium Naczelnej Rady wokackich uważa się za dokonany, jeżeli Adwokackiej terminie 30 dni od dnia doMinister Sprawiedliwości nie podpisze sprze- ręczenia odwołania zainteresowanemu słuciwu od wpisu wterminie 30 dni od dnia dorę- ży skarga na bezczynność do sądu adminiczenia uchwały wraz zaktami osobowymi kan- stracyjnego.”;
+dydata. W przypadku, którym mowa wart.69 ust. 2, bieg terminu liczy się wówczas 12) wart. 75a: od dnia ponownego doręczenia uchwały wraz z aktami osobowymi. Minister Sprawiedliwo- a) ust. 1otrzymuje brzmienie: ści wyraża sprzeciw formie decyzji admini- Ń1. Egzamin wstępny przeprowadzają komisje stracyjnej. egzaminacyjne do spraw aplikacji adwokac2. Decyzja Ministra Sprawiedliwości może być kiej przy Ministrze Sprawiedliwości, powozaskarżona do sądu administracyjnego przez łane wdrodze zarządzenia, zwane dalej Ńkozainteresowanego lub organ samorządu ad- misjami kwalifikacyjnymi”. Właściwość kowokackiego terminie 30 dni od dnia dorę- misji kwalifikacyjnej obejmuje obszar właczenia tej decyzji. ściwości jednej lub kilku okręgowych rad
+3. Niezwłocznie po dokonaniu wpisu na listę aplikantów adwokackich okręgowa rada adwokacka wyznacza aplikantowi termin ślubowania. Przepis art. 5 stosuje się odpowiednio.”;
+10) wart. 71a ust. 1otrzymuje brzmienie: Ń1. Adwokat może przenieść siedzibę zawodową do okręgu innej izby, zzastrzeżeniem ust. 2.”;
 11) wart. 75:
-a) ust. 3otrzymuje brzmienie: „3. Wpis na list´ aplikantów adwokackich nast´puje na podstawie uchwa∏y okr´gowej adwokackich.”,
-b) po ust. 1dodaje si´ ust. 1a wbrzmieniu: „1a. Minister SprawiedliwoÊci, nie póêniej ni˝ 21 dni przed wyznaczonym terminem egzaminu wst´pnego, mo˝e powo∏aç na obszarze w∏aÊciwoÊci okr´gowej rady adwokackiej wi´cej ni˝ jednà komisj´ kwalifikacyjnà do przeprowadzenia egzaminu, je˝eli przemawiajà za tym wzgl´dy organizacyjne, awszczególnoÊci du˝a liczba kandydatów przyst´pujàcych do egzaminu. Przepisu art. 75e ust. 5nie stosuje si´.”,
-c) ust. 3—5otrzymujà brzmienie: „3. Egzamin wst´pny polega na sprawdzeniu radcowskiego i innych organów ochrony prawnej dzia∏ajàcych Rzeczypospolitej Polskiej.
-4. Egzamin wst´pny na aplikacj´ adwokackà i radcowskà przeprowadza si´ raz roku wterminie wskazanym przez Ministra SprawiedliwoÊci.
-5. W przypadku zaistnienia przeszkody uniemo˝liwiajàcej przeprowadzenie egzaminu wst´pnego przez danà komisj´ kwalifikacyjnà terminie, którym mowa ust. 4, Minister SprawiedliwoÊci wyznacza dodatkowy termin przeprowadzenia egzaminu wst´pnego przez t´ komisj´ kwalifikacyjnà, którym przewodniczàcy komisji kwalifikacyjnej zawiadamia kandydatów listem poleconym oraz obwieszcza na tablicy og∏oszeƒ wsiedzibie wyznaczonej okr´gowej rady adwokackiej. Przepisy art. 75b ust. 5iust. 7—11 stosuje si´ odpowiednio, z wy∏àczeniem terminu, októrym mowa wust. 9.”;
-13) art. 75b otrzymuje brzmienie: „Art. 75b. 1. Minister SprawiedliwoÊci powo∏uje ka˝dego roku, drodze zarzàdzenia, zespó∏ do przygotowania pytaƒ testowych na egzamin wst´pny dla kandydatów na aplikantów adwokackich i radcowskich, zwany dalej „zespo∏em do przygotowania pytaƒ testowych”.
-2. W sk∏ad zespo∏u do przygotowania pytaƒ testowych wchodzi 9 osób, tym 5 przedstawicieli Ministra SprawiedliwoÊci, 2 przedstawicieli delegowanych przez Naczelnà Rad´ Adwokackà oraz 2przedstawicieli delegowanych przez Krajowà Rad´ Radców Prawnych.
-3. Przewodniczàcy zespo∏u do przygotowania pytaƒ testowych, wyznaczony przez Ministra SprawiedliwoÊci spoÊród jego przedstawicieli, kieruje pracami zespo∏u do przygotowania pytaƒ testowych.
-4. Obs∏ug´ administracyjno-biurowà zespo∏u do przygotowania pytaƒ testowych zapewnia Minister SprawiedliwoÊci.
-5. Przewodniczàcemu i cz∏onkom zespo∏u do przygotowania pytaƒ testonej”, ustalony przez zespó∏ do przygotowania pytaƒ testowych izatwierdzony przez Ministra SprawiedliwoÊci wykaz tytu∏ów aktów prawnych, wed∏ug stanu prawnego obowiàzujàcego dniu og∏oszenia, z których wybrane stanowià podstaw´ opracowania pytaƒ testowych na egzamin wst´pny.
-7. Zespó∏ do przygotowania pytaƒ testowych sporzàdza zestaw 150 pytaƒ formie testu jednokrotnego wyboru na egzamin wst´pny dla kandydatów na aplikantów adwokackich iradcowskich wraz zwykazem prawid∏owych odpowiedzi, sposób uwzgl´dniajàcy koniecznoÊç ich zabezpieczenia przed nieuprawnionym ujawnieniem. Zespó∏ do przygotowania pytaƒ testowych zapewnia zgodnoÊç wykazu prawid∏owych odpowiedzi z obowiàzujàcym stanem prawnym.
-8. Ka˝da okr´gowa rada adwokacka oraz rada okr´gowej izby radców prawnych mo˝e zg∏aszaç zespo∏owi do przygotowania pytaƒ testowych, za poÊrednictwem przewodniczàcego zespo∏u do przygotowania pytaƒ testowych, propozycje pytaƒ testowych wraz zwykazem prawid∏owych odpowiedzi.
-9. Sporzàdzony przez zespó∏ do przygotowania pytaƒ testowych zestaw pytaƒ testowych oraz wykaz prawid∏owych odpowiedzi, przewodniczàcy zespo∏u do przygotowania pytaƒ testowych przekazuje Ministrowi SprawiedliwoÊci nie póêniej ni˝ 50 dni przed wyznaczonym terminem egzaminu wst´pnego. Minister SprawiedliwoÊci zapewnia wydrukowanie odpowiedniej liczby egzemplarzy zestawu pytaƒ testowych wraz z kartami odpowiedzi oraz ich dor´czenie, wraz zwykazem prawid∏owych odpowiedzi zgodnym z obowiàzujàcym stanem prawnym na dzieƒ egzaminu, poszczególnym komisjom kwalifikacyjnym wsposób uwzgl´dniajàcy koniecznoÊç ich zabezpieczenia przed nieuprawnionym ujawnieniem.
-11. Do wydrukowania i dor´czenia zestawów pytaƒ testowych poszczególnym komisjom kwalifikacyjnym nie stosuje si´ przepisów ustawy z dnia 29 stycznia 2004 r. Prawo zamówieƒ publicznych (Dz. U. z2007 r. 223, poz. 1655, z póên. zm. ), je˝eli wartoÊç zamówienia jest mniejsza ni˝ kwoty okreÊlone przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
-12. Minister SprawiedliwoÊci, po zasi´gni´ciu opinii Naczelnej Rady Adwokackiej iKrajowej Rady Radców Prawnych, okreÊli, wdrodze rozporzàdzenia:
-1) tryb isposób dzia∏ania zespo∏u do przygotowania pytaƒ testowych,
-2) tryb i sposób ustalania wykazu tytu∏ów aktów prawnych, októrym mowa wust. 6,
-3) tryb i sposób zg∏aszania propozycji pytaƒ testowych i prawid∏owych odpowiedzi, przygotowania, przechowywania oraz przekazywania komisjom kwalifikacyjnym zestawu pytaƒ testowych wraz z kartà odpowiedzi i wykazu prawid∏owych odpowiedzi na egzamin wst´pny,
-4) tryb isposób zapewnienia zgodnoÊci wykazu prawid∏owych odpowiedzi z obowiàzujàcym stanem prawnym,
-5) tryb i sposób zapewnienia obs∏ugi administracyjno-biurowej zespo∏u do przygotowania pytaƒ testowych uwzgl´dniajàc koniecznoÊç prawid∏owego i efektywnego przeprowadzenia naboru na aplikacj´, wszczególnoÊci koniecznoÊç zapewnienia zgodnoÊci wykazu tytu∏ów aktów prawnych z zakresem przedmiotowym egzaminu wst´pnego oraz koniecznoÊç zabezpieczenia pytaƒ testowych przed ich nieuprawnionym ujawnieniem, oraz
-6) wysokoÊç wynagrodzenia przewodniczàcego i cz∏onków zespo∏u, uwzgl´dniajàc nak∏ad ich pracy izakres obowiàzków oraz liczb´ kandydatów.
-13. Minister SprawiedliwoÊci okreÊli, drodze rozporzàdzenia, tryb i sposób udzielenia zamówienia, którym mowa ust. 11, zapewniajàc zachowanie uczciwej konkurencji oraz równe traktowanie wykonawców i majàc na
-1) termin z∏o˝enia zg∏oszenia przystàpieniu do egzaminu wst´pnego na aplikacj´ adwokackà, zwanego dalej „zg∏oszeniem”,
-2) w∏aÊciwoÊç miejscowà ka˝dej z komisji kwalifikacyjnych iadres jej siedziby,
-3) termin przeprowadzenia egzaminu wst´pnego,
-4) wysokoÊç op∏aty za egzamin wst´pny, októrej mowa wart. 75d ust. 1.
-2. Zg∏oszenie, którym mowa ust. 1 pkt 1, powinno zawieraç:
-1) wniosek dopuszczenie do egzaminu wst´pnego,
+a) ust. 3otrzymuje brzmienie: Ń3. Wpis na listę aplikantów adwokackich następuje na podstawie uchwały okręgowej adwokackich.”,
+b) po ust. 1dodaje się ust. 1a wbrzmieniu: Ń1a. Minister Sprawiedliwości, nie póêniej niż 21 dni przed wyznaczonym terminem egzaminu wstępnego, może powołać na obszarze właściwości okręgowej rady adwokackiej więcej niż jedną komisję kwalifikacyjną do przeprowadzenia egzaminu, jeżeli przemawiają za tym względy organizacyjne, awszczególności duża liczba kandydatów przystępujących do egzaminu. Przepisu art. 75e ust. 5nie stosuje się.”,
+c) ust. 3—5otrzymują brzmienie: Ń3. Egzamin wstępny polega na sprawdzeniu radcowskiego i innych organów ochrony prawnej działających Rzeczypospolitej Polskiej.
+4. Egzamin wstępny na aplikację adwokacką i radcowską przeprowadza się raz roku wterminie wskazanym przez Ministra Sprawiedliwości.
+5. W przypadku zaistnienia przeszkody uniemożliwiającej przeprowadzenie egzaminu wstępnego przez daną komisję kwalifikacyjną terminie, którym mowa ust. 4, Minister Sprawiedliwości wyznacza dodatkowy termin przeprowadzenia egzaminu wstępnego przez tę komisję kwalifikacyjną, którym przewodniczący komisji kwalifikacyjnej zawiadamia kandydatów listem poleconym oraz obwieszcza na tablicy ogłoszeń wsiedzibie wyznaczonej okręgowej rady adwokackiej. Przepisy art. 75b ust. 5iust. 7—11 stosuje się odpowiednio, z wyłączeniem terminu, októrym mowa wust. 9.”;
+13) art. 75b otrzymuje brzmienie: ŃArt. 75b. 1. Minister Sprawiedliwości powołuje każdego roku, drodze zarządzenia, zespół do przygotowania pytań testowych na egzamin wstępny dla kandydatów na aplikantów adwokackich i radcowskich, zwany dalej Ńzespołem do przygotowania pytań testowych”.
+2. W skład zespołu do przygotowania pytań testowych wchodzi 9 osób, tym 5 przedstawicieli Ministra Sprawiedliwości, 2 przedstawicieli delegowanych przez Naczelną Radę Adwokacką oraz 2przedstawicieli delegowanych przez Krajową Radę Radców Prawnych.
+3. Przewodniczący zespołu do przygotowania pytań testowych, wyznaczony przez Ministra Sprawiedliwości spośród jego przedstawicieli, kieruje pracami zespołu do przygotowania pytań testowych.
+4. Obsługę administracyjno-biurową zespołu do przygotowania pytań testowych zapewnia Minister Sprawiedliwości.
+5. Przewodniczącemu i członkom zespołu do przygotowania pytań testonej”, ustalony przez zespół do przygotowania pytań testowych izatwierdzony przez Ministra Sprawiedliwości wykaz tytułów aktów prawnych, według stanu prawnego obowiązującego dniu ogłoszenia, z których wybrane stanowią podstawę opracowania pytań testowych na egzamin wstępny.
+7. Zespół do przygotowania pytań testowych sporządza zestaw 150 pytań formie testu jednokrotnego wyboru na egzamin wstępny dla kandydatów na aplikantów adwokackich iradcowskich wraz zwykazem prawidłowych odpowiedzi, sposób uwzględniający konieczność ich zabezpieczenia przed nieuprawnionym ujawnieniem. Zespół do przygotowania pytań testowych zapewnia zgodność wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym.
+8. Każda okręgowa rada adwokacka oraz rada okręgowej izby radców prawnych może zgłaszać zespołowi do przygotowania pytań testowych, za pośrednictwem przewodniczącego zespołu do przygotowania pytań testowych, propozycje pytań testowych wraz zwykazem prawidłowych odpowiedzi.
+9. Sporządzony przez zespół do przygotowania pytań testowych zestaw pytań testowych oraz wykaz prawidłowych odpowiedzi, przewodniczący zespołu do przygotowania pytań testowych przekazuje Ministrowi Sprawiedliwości nie póêniej niż 50 dni przed wyznaczonym terminem egzaminu wstępnego. Minister Sprawiedliwości zapewnia wydrukowanie odpowiedniej liczby egzemplarzy zestawu pytań testowych wraz z kartami odpowiedzi oraz ich doręczenie, wraz zwykazem prawidłowych odpowiedzi zgodnym z obowiązującym stanem prawnym na dzień egzaminu, poszczególnym komisjom kwalifikacyjnym wsposób uwzględniający konieczność ich zabezpieczenia przed nieuprawnionym ujawnieniem.
+11. Do wydrukowania i doręczenia zestawów pytań testowych poszczególnym komisjom kwalifikacyjnym nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z2007 r. 223, poz. 1655, z póên. zm. ), jeżeli wartość zamówienia jest mniejsza niż kwoty określone przepisach wydanych na podstawie art. 11 ust. 8 tej ustawy.
+12. Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej iKrajowej Rady Radców Prawnych, określi, wdrodze rozporządzenia:
+1) tryb isposób działania zespołu do przygotowania pytań testowych,
+2) tryb i sposób ustalania wykazu tytułów aktów prawnych, októrym mowa wust. 6,
+3) tryb i sposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi, przygotowania, przechowywania oraz przekazywania komisjom kwalifikacyjnym zestawu pytań testowych wraz z kartą odpowiedzi i wykazu prawidłowych odpowiedzi na egzamin wstępny,
+4) tryb isposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
+5) tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu do przygotowania pytań testowych uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia naboru na aplikację, wszczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu wstępnego oraz konieczność zabezpieczenia pytań testowych przed ich nieuprawnionym ujawnieniem, oraz
+6) wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy izakres obowiązków oraz liczbę kandydatów.
+13. Minister Sprawiedliwości określi, drodze rozporządzenia, tryb i sposób udzielenia zamówienia, którym mowa ust. 11, zapewniając zachowanie uczciwej konkurencji oraz równe traktowanie wykonawców i mając na
+1) termin złożenia zgłoszenia przystąpieniu do egzaminu wstępnego na aplikację adwokacką, zwanego dalej Ńzgłoszeniem”,
+2) właściwość miejscową każdej z komisji kwalifikacyjnych iadres jej siedziby,
+3) termin przeprowadzenia egzaminu wstępnego,
+4) wysokość opłaty za egzamin wstępny, októrej mowa wart. 75d ust. 1.
+2. Zgłoszenie, którym mowa ust. 1 pkt 1, powinno zawierać:
+1) wniosek dopuszczenie do egzaminu wstępnego,
 2) kwestionariusz osobowy,
-3) ˝yciorys,
-4) orygina∏ albo urz´dowy odpis dyplomu albo poÊwiadczonà notarialnie kopi´ orygina∏u lub urz´dowego odpisu dyplomu ukoƒczenia wy˝szych studiów prawniczych Rzeczypospolitej Polskiej i uzyskania tytu∏u magistra lub zagranicznych studiów prawniczych uznanych wRzeczypospolitej Polskiej, albo zaÊwiadczenie ozdaniu egzaminu magisterskiego,
-5) informacj´ niekaralnoÊci z Krajowego Rejestru Karnego opatrzonà datà nie wczeÊniejszà ni˝ miesiàc przed z∏o˝eniem zg∏oszenia,
-6) orygina∏ dowodu uiszczenia op∏aty za egzamin wst´pny,
-7) 3 zdj´cia zgodnie z wymaganiami obowiàzujàcymi przy wydawaniu dowodów osobistych.”,
-b) po ust. 2dodaje si´ ust. 2a wbrzmieniu: „2a. Zamiast orygina∏u albo urz´dowego odpisu dyplomu albo poÊwiadczonej notarialnie kopii orygina∏u lub urz´dowego odpisu dyplomu ukoƒczenia wy˝szych studiów prawniczych Rzeczypospolitej Polskiej albo zaÊwiadczenia ozdaniu egzaminu magisterskiego mo˝na równie˝ z∏o˝yç zaÊwiadczenie, zktórego wynika, i˝ kandydat zda∏ wszystkie egzaminy i odby∏ praktyki przewidziane planie wy˝szych studiów uwadze koniecznoÊç zabezpieczenia pytaƒ te- prawniczych oraz ma wyznaczony termin stowych przed ich nieuprawnionym ujawnie- egzaminu magisterskiego. Warunkiem doniem.”; puszczenia do egzaminu wst´pnego takielifikacyjnej. Termin do z∏o˝enia zg∏oszenia nie podlega przywróceniu.”,
-d) ust. 5otrzymuje brzmienie: „5. Je˝eli kandydat nie uzupe∏ni braków formalnych zg∏oszenia zgodnie z ust. 4 lub nie spe∏ni warunku, którym mowa ust. 2a, zg∏oszenie pozostawia si´ bez rozpoznania.
-O pozostawieniu zg∏oszenia bez rozpoznania przewodniczàcy komisji kwalifikacyjnej orzeka postanowieniem i zawiadamia kandydata listem poleconym za poÊwiadczeniem odbioru. Na postanowienie przys∏uguje za˝alenie do Ministra SprawiedliwoÊci.
-Je˝eli za˝alenie jest uzasadnione, przewodniczàcy komisji kwalifikacyjnej mo˝e, nie przesy∏ajàc akt Ministrowi SprawiedliwoÊci, uchyliç zaskar˝one postanowienie i spraw´ rozpoznaç na nowo.”;
+3) życiorys,
+4) oryginał albo urzędowy odpis dyplomu albo poświadczoną notarialnie kopię oryginału lub urzędowego odpisu dyplomu ukończenia wyższych studiów prawniczych Rzeczypospolitej Polskiej i uzyskania tytułu magistra lub zagranicznych studiów prawniczych uznanych wRzeczypospolitej Polskiej, albo zaświadczenie ozdaniu egzaminu magisterskiego,
+5) informację niekaralności z Krajowego Rejestru Karnego opatrzoną datą nie wcześniejszą niż miesiąc przed złożeniem zgłoszenia,
+6) oryginał dowodu uiszczenia opłaty za egzamin wstępny,
+7) 3 zdjęcia zgodnie z wymaganiami obowiązującymi przy wydawaniu dowodów osobistych.”,
+b) po ust. 2dodaje się ust. 2a wbrzmieniu: Ń2a. Zamiast oryginału albo urzędowego odpisu dyplomu albo poświadczonej notarialnie kopii oryginału lub urzędowego odpisu dyplomu ukończenia wyższych studiów prawniczych Rzeczypospolitej Polskiej albo zaświadczenia ozdaniu egzaminu magisterskiego można również złożyć zaświadczenie, zktórego wynika, iż kandydat zdał wszystkie egzaminy i odbył praktyki przewidziane planie wyższych studiów uwadze konieczność zabezpieczenia pytań te- prawniczych oraz ma wyznaczony termin stowych przed ich nieuprawnionym ujawnie- egzaminu magisterskiego. Warunkiem doniem.”; puszczenia do egzaminu wstępnego takielifikacyjnej. Termin do złożenia zgłoszenia nie podlega przywróceniu.”,
+d) ust. 5otrzymuje brzmienie: Ń5. Jeżeli kandydat nie uzupełni braków formalnych zgłoszenia zgodnie z ust. 4 lub nie spełni warunku, którym mowa ust. 2a, zgłoszenie pozostawia się bez rozpoznania.
+O pozostawieniu zgłoszenia bez rozpoznania przewodniczący komisji kwalifikacyjnej orzeka postanowieniem i zawiadamia kandydata listem poleconym za poświadczeniem odbioru. Na postanowienie przysługuje zażalenie do Ministra Sprawiedliwości.
+Jeżeli zażalenie jest uzasadnione, przewodniczący komisji kwalifikacyjnej może, nie przesyłając akt Ministrowi Sprawiedliwości, uchylić zaskarżone postanowienie i sprawę rozpoznać na nowo.”;
 15) wart. 75d:
-a) ust. 1otrzymuje brzmienie: „1. Kandydat uiszcza op∏at´ za egzamin wst´pny, która stanowi dochód bud˝etu paƒstwa.”,
-b) po ust. 1dodaje si´ ust. 1a wbrzmieniu: „1a. W przypadku wydania postanowienia pozostawieniu zg∏oszenia bez rozpoznania, wydania decyzji odmawiajàcej dopuszczenia do udzia∏u egzaminie wst´pnym albo z∏o˝enia nie póêniej ni˝ 14 dni przed terminem egzaminu wst´pnego pisemnego oÊwiadczenia kandydata odstàpieniu od udzia∏u egzaminie wst´pnym, dwie trzecie uiszczonej op∏aty podlega zwrotowi na pisemny wniosek kandydata z∏o˝ony przewodniczàcemu komisji kwalifikacyjnej terminie 30 dni od dnia z∏o˝enia tego wniosku.”;
+a) ust. 1otrzymuje brzmienie: Ń1. Kandydat uiszcza opłatę za egzamin wstępny, która stanowi dochód budżetu państwa.”,
+b) po ust. 1dodaje się ust. 1a wbrzmieniu: Ń1a. W przypadku wydania postanowienia pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału egzaminie wstępnym albo złożenia nie póêniej niż 14 dni przed terminem egzaminu wstępnego pisemnego oświadczenia kandydata odstąpieniu od udziału egzaminie wstępnym, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji kwalifikacyjnej terminie 30 dni od dnia złożenia tego wniosku.”;
 16) wart. 75e:
-a) ust. 4otrzymuje brzmienie: „4. Minister SprawiedliwoÊci wyznacza przewodniczàcego komisji kwalifikacyjnej i jego zast´pc´ spoÊród swoich przedstawicieli.
-Podczas nieobecnoÊci przewodniczàcego zast´pca przewodniczàcego jest upowa˝niony do podejmowania jego czynnoÊci.”,
-b) po ust. 4dodaje si´ ust. 4a wbrzmieniu: „4a. Komisja kwalifikacyjna czuwa nad prawi8. Przewodniczàcemu icz∏onkowi komisji kwalifikacyjnej nieb´dàcemu pracownikiem administracji rzàdowej przys∏uguje wynagrodzenie za czynnoÊci zwiàzane z udzia∏em wkomisji kwalifikacyjnej.
-9. W∏aÊciwa dla siedziby komisji kwalifikacyjnej okr´gowa rada adwokacka zapewnia obs∏ug´ administracyjnà i technicznà dzia∏alnoÊci komisji kwalifikacyjnej, wtym przeprowadzanie egzaminu wst´pnego jako zadanie zlecone zzakresu administracji rzàdowej.
-10. Ze Êrodków przekazanych na zadanie zlecone, którym mowa ust. 9, w∏aÊciwe rady pokrywajà koszty przeprowadzenia egzaminu wst´pnego oraz wydatki zwiàzane zdzia∏alnoÊcià komisji kwalifikacyjnej.
-11. Wydatki zwiàzane z dzia∏alnoÊcià komisji kwalifikacyjnej, tym z przeprowadzaniem egzaminu wst´pnego, oraz wynagrodzenie przewodniczàcego icz∏onków komisji kwalifikacyjnej pokrywane sà z cz´Êci bud˝etu paƒstwa, która pozostaje dyspozycji Ministra SprawiedliwoÊci.
-12. Minister SprawiedliwoÊci, po zasi´gni´ciu opinii Naczelnej Rady Adwokackiej, okreÊli wdrodze rozporzàdzenia:
-1) tryb i termin zg∏aszania kandydatów na cz∏onków komisji kwalifikacyjnej oraz powo∏ywania i odwo∏ywania cz∏onków komisji kwalifikacyjnej,
-2) wysokoÊç wynagrodzenia przewodniczàcego i cz∏onków komisji kwalifikacyjnej, uwzgl´dniajàc liczb´ osób, które z∏o˝y∏y zg∏oszenie przystàpienie do egzaminu wst´pnego, zakres i nak∏ad ich pracy zorganizowaniu i przebiegu egzaminu wst´pnego oraz tryb wyp∏acania tego wynagrodzenia,
-3) szczegó∏owy tryb i sposób przeprowadzania egzaminu wst´pnego, wszczególnoÊci:
-a) sposób dzia∏ania komisji kwalifikacyjnej,
-b) sposób zorganizowania obs∏ugi administracyjnej itechnicznej komisji kwalifikacyjnej przez okr´gowe rady adwokackie, wtym przekazywania Êrodków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków zwiàzanych ztà obs∏ugà uwzgl´dniajàc koniecznoÊç prawid∏owego, terminowego iefektywnego przeprowaa) ust. 2otrzymuje brzmienie: „2. NieobecnoÊç kandydata podczas egzaminu wst´pnego oraz stawienie si´ na egzamin wst´pny po jego rozpocz´ciu, bez wzgl´du na przyczyn´, uwa˝a si´ za odstàpienie od udzia∏u wegzaminie wst´pnym.”,
-b) po ust. 3dodaje si´ ust. 4—6wbrzmieniu: „4. Przewodniczàcy komisji kwalifikacyjnej wyklucza z egzaminu wst´pnego kandydata, który podczas egzaminu wst´pnego korzysta∏ z pomocy innej osoby, pos∏ugiwa∏ si´ niedozwolonymi materia∏ami lub urzàdzeniami, pomaga∏ pozosta∏ym kandydatom lub inny sposób zak∏óca∏ przebieg egzaminu wst´pnego.
-5. Wykluczenie, którym mowa ust. 4, nast´puje drodze postanowienia, na które nie przys∏uguje za˝alenie.
-6. Postanowienie wykluczeniu stanowi podstaw´ do wydania przez komisj´ kwalifikacyjnà uchwa∏y negatywnym wyniku z egzaminu wst´pnego.”;
+a) ust. 4otrzymuje brzmienie: Ń4. Minister Sprawiedliwości wyznacza przewodniczącego komisji kwalifikacyjnej i jego zastępcę spośród swoich przedstawicieli.
+Podczas nieobecności przewodniczącego zastępca przewodniczącego jest upoważniony do podejmowania jego czynności.”,
+b) po ust. 4dodaje się ust. 4a wbrzmieniu: Ń4a. Komisja kwalifikacyjna czuwa nad prawi8. Przewodniczącemu iczłonkowi komisji kwalifikacyjnej niebędącemu pracownikiem administracji rządowej przysługuje wynagrodzenie za czynności związane z udziałem wkomisji kwalifikacyjnej.
+9. Właściwa dla siedziby komisji kwalifikacyjnej okręgowa rada adwokacka zapewnia obsługę administracyjną i techniczną działalności komisji kwalifikacyjnej, wtym przeprowadzanie egzaminu wstępnego jako zadanie zlecone zzakresu administracji rządowej.
+10. Ze środków przekazanych na zadanie zlecone, którym mowa ust. 9, właściwe rady pokrywają koszty przeprowadzenia egzaminu wstępnego oraz wydatki związane zdziałalnością komisji kwalifikacyjnej.
+11. Wydatki związane z działalnością komisji kwalifikacyjnej, tym z przeprowadzaniem egzaminu wstępnego, oraz wynagrodzenie przewodniczącego iczłonków komisji kwalifikacyjnej pokrywane są z części budżetu państwa, która pozostaje dyspozycji Ministra Sprawiedliwości.
+12. Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej, określi wdrodze rozporządzenia:
+1) tryb i termin zgłaszania kandydatów na członków komisji kwalifikacyjnej oraz powoływania i odwoływania członków komisji kwalifikacyjnej,
+2) wysokość wynagrodzenia przewodniczącego i członków komisji kwalifikacyjnej, uwzględniając liczbę osób, które złożyły zgłoszenie przystąpienie do egzaminu wstępnego, zakres i nakład ich pracy zorganizowaniu i przebiegu egzaminu wstępnego oraz tryb wypłacania tego wynagrodzenia,
+3) szczegółowy tryb i sposób przeprowadzania egzaminu wstępnego, wszczególności:
+a) sposób działania komisji kwalifikacyjnej,
+b) sposób zorganizowania obsługi administracyjnej itechnicznej komisji kwalifikacyjnej przez okręgowe rady adwokackie, wtym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych ztą obsługą uwzględniając konieczność prawidłowego, terminowego iefektywnego przeprowaa) ust. 2otrzymuje brzmienie: Ń2. Nieobecność kandydata podczas egzaminu wstępnego oraz stawienie się na egzamin wstępny po jego rozpoczęciu, bez względu na przyczynę, uważa się za odstąpienie od udziału wegzaminie wstępnym.”,
+b) po ust. 3dodaje się ust. 4—6wbrzmieniu: Ń4. Przewodniczący komisji kwalifikacyjnej wyklucza z egzaminu wstępnego kandydata, który podczas egzaminu wstępnego korzystał z pomocy innej osoby, posługiwał się niedozwolonymi materiałami lub urządzeniami, pomagał pozostałym kandydatom lub inny sposób zakłócał przebieg egzaminu wstępnego.
+5. Wykluczenie, którym mowa ust. 4, następuje drodze postanowienia, na które nie przysługuje zażalenie.
+6. Postanowienie wykluczeniu stanowi podstawę do wydania przez komisję kwalifikacyjną uchwały negatywnym wyniku z egzaminu wstępnego.”;
 20) wart. 75i:
-a) ust. 1otrzymuje brzmienie: „1. Egzamin wst´pny polega na rozwiàzaniu testu sk∏adajàcego si´ zzestawu 150 pytaƒ zawierajàcych po trzy propozycje odpowiedzi, z których tylko jedna jest prawid∏owa, oraz z karty odpowiedzi. Kandydat mo˝e wybraç tylko jednà odpowiedê, którà zaznacza na karcie odpowiedzi stanowiàcej integralnà cz´Êç testu. Za ka˝dà prawid∏owà odpowiedê kandydat uzyskuje 1punkt.”,
-b) po ust. 1dodaje si´ ust. 1a wbrzmieniu: „1a. Prawid∏owoÊç odpowiedzi ocenia si´ wed∏ug stanu prawnego obowiàzujàcego wdniu egzaminu wst´pnego.”,
-c) ust. 3otrzymuje brzmienie: „3. Pozytywny wynik z egzaminu wst´pnego otrzymuje kandydat, który uzyska∏ ztestu co najmniej 100 punktów.”,
-d) po ust. 5dodaje si´ ust. 6wbrzmieniu: wynik kandydata drodze uchwa∏y i dor´cza odpis uchwa∏y kandydatowi iMinistrowi SprawiedliwoÊci.
-2. Przewodniczàcy komisji kwalifikacyjnej niezw∏ocznie og∏asza wyniki egzaminu wst´pnego.
-3. Wterminie 14 dni od dnia dor´czenia uchwa∏y komisji kwalifikacyjnej ustalajàcej wynik egzaminu wst´pnego, kandydatowi s∏u˝y odwo∏anie do Ministra SprawiedliwoÊci. Minister SprawiedliwoÊci rozstrzyga odwo∏anie wdrodze decyzji administracyjnej.
-4. Je˝eli trakcie ponownego rozpoznania sprawy na skutek z∏o˝onego odwo∏ania od uchwa∏y, októrej mowa wust. 1, zostanie stwierdzony b∏àd rachunkowy lub inna oczywista omy∏ka pisarska zawarta uchwale komisji kwalifikacyjnej, Minister SprawiedliwoÊci uchyla uchwa∏´ i przekazuje spraw´ komisji kwalifikacyjnej do ponownego rozpoznania. Przepis ten nie narusza art. 138 § 2Kodeksu post´powania administracyjnego.
-5. Minister SprawiedliwoÊci zawiadamia wynikach egzaminu wst´pnego okr´gowe rady adwokackie i publikuje Biuletynie Informacji Publicznej imiona inazwiska osób, które uzyska∏y pozytywny wynik z egzaminu oraz imiona ich rodziców.”;
+a) ust. 1otrzymuje brzmienie: Ń1. Egzamin wstępny polega na rozwiązaniu testu składającego się zzestawu 150 pytań zawierających po trzy propozycje odpowiedzi, z których tylko jedna jest prawidłowa, oraz z karty odpowiedzi. Kandydat może wybrać tylko jedną odpowiedê, którą zaznacza na karcie odpowiedzi stanowiącej integralną część testu. Za każdą prawidłową odpowiedê kandydat uzyskuje 1punkt.”,
+b) po ust. 1dodaje się ust. 1a wbrzmieniu: Ń1a. Prawidłowość odpowiedzi ocenia się według stanu prawnego obowiązującego wdniu egzaminu wstępnego.”,
+c) ust. 3otrzymuje brzmienie: Ń3. Pozytywny wynik z egzaminu wstępnego otrzymuje kandydat, który uzyskał ztestu co najmniej 100 punktów.”,
+d) po ust. 5dodaje się ust. 6wbrzmieniu: wynik kandydata drodze uchwały i doręcza odpis uchwały kandydatowi iMinistrowi Sprawiedliwości.
+2. Przewodniczący komisji kwalifikacyjnej niezwłocznie ogłasza wyniki egzaminu wstępnego.
+3. Wterminie 14 dni od dnia doręczenia uchwały komisji kwalifikacyjnej ustalającej wynik egzaminu wstępnego, kandydatowi służy odwołanie do Ministra Sprawiedliwości. Minister Sprawiedliwości rozstrzyga odwołanie wdrodze decyzji administracyjnej.
+4. Jeżeli trakcie ponownego rozpoznania sprawy na skutek złożonego odwołania od uchwały, októrej mowa wust. 1, zostanie stwierdzony błąd rachunkowy lub inna oczywista omyłka pisarska zawarta uchwale komisji kwalifikacyjnej, Minister Sprawiedliwości uchyla uchwałę i przekazuje sprawę komisji kwalifikacyjnej do ponownego rozpoznania. Przepis ten nie narusza art. 138 § 2Kodeksu postępowania administracyjnego.
+5. Minister Sprawiedliwości zawiadamia wynikach egzaminu wstępnego okręgowe rady adwokackie i publikuje Biuletynie Informacji Publicznej imiona inazwiska osób, które uzyskały pozytywny wynik z egzaminu oraz imiona ich rodziców.”;
 22) wart. 76:
-a) ust. 1otrzymuje brzmienie: „1. Aplikacja adwokacka rozpoczyna si´ dnia 1stycznia ka˝dego roku itrwa trzy lata.”,
-b) dodaje si´ ust. 1a wbrzmieniu: „1a. Aplikanci odbywajà trakcie pierwszego roku aplikacji szkolenie z zakresu dzia∏ania sàdownictwa powszechnego iprokuratury.
-Prezes Naczelnej Rady Adwokackiej zawiera co roku z Dyrektorem Krajowego Centrum Szkolenia Kadr Sàdów Powszechnych iProkuratury, porozumienie wsprawie odbywania przez aplikantów szkolenia z zakresu dzia∏ania sàdownictwa powszechnego i prokuratury, którym ustala si´ plan szkolenia majàc na uwadze zarówno praktyczne, jak i teoretyczne zapoznanie aplikantów ze sposobem funkcjonowania sàNaczelnà Rad´ Adwokackà,
-2) czterej przedstawiciele Ministra SprawiedliwoÊci których wiedza i doÊwiadczenie dajà r´kojmi´ prawid∏owego przygotowania egzaminu adwokackiego.
-3. Pracami zespo∏u kieruje przewodniczàcy lub przypadku jego nieobecnoÊci zast´pca, powo∏ani przez Ministra SprawiedliwoÊci spoÊród osób, októrych mowa wust. 2pkt 2.
-4. Obs∏ug´ administracyjno-biurowà zespo∏u zapewnia Minister SprawiedliwoÊci.
-5. Przewodniczàcemu i cz∏onkom zespo∏u przys∏uguje wynagrodzenie.
-6. Nie póêniej ni˝ 90 dni przed terminem egzaminu przewodniczàcy zespo∏u podaje do publicznej wiadomoÊci na stronie internetowej Ministerstwa SprawiedliwoÊci oraz Biuletynie Informacji Publicznej ustalony przez zespó∏ wi´kszoÊcià g∏osów obecnoÊci wszystkich cz∏onków zespo∏u i zatwierdzony przez Ministra SprawiedliwoÊci wykaz tytu∏ów aktów prawnych, wed∏ug stanu prawnego obowiàzujàcego wdniu og∏oszenia, zktórych wybrane stanowià podstaw´ opracowania pytaƒ testowych na egzamin adwokacki.
-7. Na pierwszà cz´Êç egzaminu adwokackiego zespó∏ sporzàdza zestaw 100 pytaƒ formie testu jednokrotnego wyboru na egzamin adwokacki wraz zwykazem prawid∏owych odpowiedzi, sposób uwzgl´dniajàcy koniecznoÊç ich zabezpieczenia przed nieuprawnionym ujawnieniem. Zespó∏ zapewnia zgodnoÊç wykazu prawid∏owych odpowiedzi zobowiàzujàcym stanem prawnym.
-8. Na drugà do piàtej cz´Êci egzaminu adwokackiego zespó∏ sporzàdza zadania z zakresu prawa karnego, cynacyjnym, októrych mowa wart. 78 ust. 1, nie stosuje si´ przepisów ustawy z dnia 29 stycznia 2004 r.
-Prawo zamówieƒ publicznych, je˝eli wartoÊç zamówienia jest mniejsza ni˝ kwoty okreÊlone przepisach wydanych na podstawie art. 11 ust.8 tej ustawy.
-12. Minister SprawiedliwoÊci, po zasi´gni´ciu opinii Naczelnej Rady Adwokackiej okreÊli, drodze rozporzàdzenia:
-1) tryb isposób dzia∏ania zespo∏u, wilnego, gospodarczego i administracyjnego.
-2) tryb i sposób ustalenia wykazu tytu∏ów aktów prawnych, którym mowa wust. 6,
-3) tryb isposób zg∏aszania propozycji pytaƒ testowych i prawid∏owych odpowiedzi oraz propozycji zadaƒ, przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym, których mowa wart. 78 ust. 1, zestawu pytaƒ testowych wraz z kartà odpowiedzi i wykazu prawid∏owych odpowiedzi oraz zadaƒ na egzamin adwokacki,
-4) tryb i sposób zapewnienia zgodnoÊci wykazu prawid∏owych odpowiedzi z obowiàzujàcym stanem prawnym,
-5) tryb i sposób zapewnienia obs∏ugi administracyjno-biurowej zespo∏u uwzgl´dniajàc koniecznoÊç prawid∏owego i efektywnego przeprowadzenia egzaminu adwokackiego, szczególnoÊci koniecznoÊç zapewnienia zgodnoÊci wykazu tytu∏ów aktów prawnych z zakresem przedmiotowym egzaminu adwokackiego oraz koniecznoÊç zabezpieczenia pytaƒ i zadaƒ przed ich nieuprawnionym ujawnieniem, oraz
-6) wysokoÊç wynagrodzenia przewodniczàcego i cz∏onków zespo∏u, uwzgl´dniajàc nak∏ad ich pracy i zakres obowiàzków oraz liczb´ kandydatów.
-13. Minister SprawiedliwoÊci okreÊli, wart. 66 ust. 2.”;
-24) art. 78 otrzymuje brzmienie: „Art. 78. 1. Egzamin adwokacki przeprowadzajà komisje egzaminacyjne do przeprowadzenia egzaminu adwokackiego, zwane dalej „komisjami egzaminacyjnymi”, sk∏adzie 8 cz∏onków, powo∏ane na obszarze w∏aÊciwoÊci jednej lub kilku okr´gowych rad adwokackich. Przepisy art. 75a ust. 1a oraz art. 75e ust. 5 stosuje si´ odpowiednio.
-2. Cz∏onków komisji egzaminacyjnych powo∏uje si´ spoÊród specjalistów zdziedzin prawa obj´tych egzaminem, których wiedza i doÊwiadczenie dajà r´kojmi´ prawid∏owego przebiegu egzaminu.
-3. Do sk∏adu komisji egzaminacyjnych kandydatów na cz∏onków wskazujà: Minister SprawiedliwoÊci 4egzaminatorów i 4 zast´pców egzaminatorów, Naczelna Rada Adwokacka 4 adwokatów jako egzaminatorów i 4 adwokatów jako zast´pców egzaminatorów.
-4. Minister SprawiedliwoÊci powo∏uje, drodze zarzàdzenia, komisje egzaminacyjne na obszarze w∏aÊciwoÊci jednej lub kilku okr´gowych rad adwokackich i zast´pców egzaminatorów zdziedzin prawa obj´tych egzaminem, a tak˝e wskazuje, po zasi´gni´ciu opinii Naczelnej Rady Adwokackiej, przewodniczàcego komisji egzaminacyjnej ijego zast´pc´.
-5. Komisja egzaminacyjna czuwa nad prawid∏owym przebiegiem egzaminu adwokackiego. Przewodniczàcy komisji egzaminacyjnej kieruje jej pracami ireprezentuje jà na zewnàtrz.
-6. Cz∏onek komisji egzaminacyjnej podlega wy∏àczeniu z prac komisji egzaminacyjnej z przyczyn okreÊlonych art. 75g na czas przeprowadzania egzaminu adwokackiego. Wprzypadku koniecznoÊci wy∏àczenia egzaminatora z prac komisji egzaminacyjnej lub zaistnienia przeszkody uniemo˝liwiajàcej jego udzia∏ pracach komisji egzaminacyjnej, wsk∏ad komisji egzaminacyjnej wchodzi zast´pca egzaminatora rozumieniu z Naczelnà Radà Adwokackà.
-9. W przypadku zaistnienia przeszkody uniemo˝liwiajàcej przeprowadzenie egzaminu przez komisj´ egzaminacyjnà terminie, którym mowa ust. 8, Minister SprawiedliwoÊci po zasi´gni´ciu opinii Naczelnej Rady Adwokackiej wyznacza dodatkowy termin przeprowadzenia egzaminu przez t´ komisj´ egzaminacyjnà. Przewodniczàcy komisji egzaminacyjnej zawiadamia zdajàcych dodatkowym terminie egzaminu listem poleconym za poÊwiadczeniem odbioru oraz obwieszcza na tablicy og∏oszeƒ siedzibie wyznaczonej okr´gowej rady adwokackiej. Przepisy art. 77a ust. 5 iust.7—11 stosuje si´ odpowiednio.
-10. Przewodniczàcemu icz∏onkom komisji egzaminacyjnej przys∏uguje zwrot kosztów podró˝y i noclegów na zasadach okreÊlonych przepisach dotyczàcych nale˝noÊci przys∏ugujàcych pracownikowi zatrudnionemu paƒstwowej lub samorzàdowej jednostce sfery bud˝etowej ztytu∏u podró˝y s∏u˝bowej na obszarze kraju.
-11. Przewodniczàcemu icz∏onkowi komisji egzaminacyjnej nieb´dàcemu pracownikiem administracji rzàdowej przys∏uguje wynagrodzenie za czynnoÊci zwiàzane zudzia∏em wkomisji egzaminacyjnej.
-12. W∏aÊciwa dla siedziby komisji egzaminacyjnej okr´gowa rada adwokacka zapewnia obs∏ug´ administracyjnà i technicznà dzia∏alnoÊci komisji egzaminacyjnej, tym przeprowadzanie egzaminu adwokackiego jako zadanie zlecone z zakresu administracji rzàdowej.
-13. Ze Êrodków przekazanych na zadanie zlecone, którym mowa ust. 12, w∏aÊciwe rady pokrywajà koszty przeprowadzenia egzaminu adwokackiego oraz wydatki zwiàzane z dzia∏alnoÊcià komisji egzaminacyjnej.
-14. Wydatki zwiàzane z dzia∏alnoÊcià komisji egzaminacyjnej, wtym zprzeprowadzaniem egzaminu adwokackiego, oraz wynagrodzenie przewodniczàce3) wysokoÊç wynagrodzenia przewodniczàcego i cz∏onków komisji egzaminacyjnych, uwzgl´dniajàc liczb´ osób przyst´pujàcych do egzaminu, zakres i nak∏ad ich pracy zorganizowaniu i przebiegu egzaminu adwokackiego oraz tryb wyp∏acania tego wynagrodzenia,
-4) szczegó∏owy tryb isposób przeprowadzania egzaminu adwokackiego, wszczególnoÊci:
-a) sposób dzia∏ania komisji egzaminacyjnych,
-b) czas trwania poszczególnych cz´Êci egzaminu adwokackiego,
-c) sposób zorganizowania obs∏ugi administracyjnej itechnicznej komisji egzaminacyjnych przez okr´gowe rady adwokackie, tym przekazywania Êrodków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków zwiàzanych ztà obs∏ugà uwzgl´dniajàc koniecznoÊç prawid∏owego, terminowego iefektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronnoÊci pracy komisji egzaminacyjnych oraz koniecznoÊç uzyskania informacji niezb´dnych do prawid∏owego przeprowadzenia egzaminu adwokackiego.”;
-25) art. 78a otrzymuje brzmienie: „Art. 78a. 1. W terminie do dnia 31 maja ka˝dego roku Minister SprawiedliwoÊci porozumieniu z Naczelnà Radà Adwokackà zamieszcza dzienniku zasi´gu ogólnopolskim i Biuletynie Informacji Publicznej og∏oszenie egzaminie adwokackim, którym podaje wszczególnoÊci:
-1) termin z∏o˝enia wniosku odopuszczenie do egzaminu adwokackiego, zwanego dalej „wnioskiem”,
-2) w∏aÊciwoÊç miejscowà ka˝dej zkomisji egzaminacyjnych i adres jej siedziby,
-3) termin przeprowadzenia ka˝dej cz´Êci egzaminu adwokackiego,
-4) wysokoÊç op∏aty za egzamin adÊciwej terytorialnie komisji egzaminacyjnej oraz Ministrowi SprawiedliwoÊci list´ osób, które odby∏y aplikacj´ adwokackà.
-3. Osoby, które odby∏y aplikacj´ adwokackà, do∏àczajà do wniosku zaÊwiadczenie odbyciu aplikacji adwokackiej oraz orygina∏ dowodu uiszczenia op∏aty za egzamin adwokacki.
-4. Osoby uprawnione do przystàpienia do egzaminu adwokackiego bez odbycia aplikacji do∏àczajà do wniosku odpowiednio:
+a) ust. 1otrzymuje brzmienie: Ń1. Aplikacja adwokacka rozpoczyna się dnia 1stycznia każdego roku itrwa trzy lata.”,
+b) dodaje się ust. 1a wbrzmieniu: Ń1a. Aplikanci odbywają trakcie pierwszego roku aplikacji szkolenie z zakresu działania sądownictwa powszechnego iprokuratury.
+Prezes Naczelnej Rady Adwokackiej zawiera co roku z Dyrektorem Krajowego Centrum Szkolenia Kadr Sądów Powszechnych iProkuratury, porozumienie wsprawie odbywania przez aplikantów szkolenia z zakresu działania sądownictwa powszechnego i prokuratury, którym ustala się plan szkolenia mając na uwadze zarówno praktyczne, jak i teoretyczne zapoznanie aplikantów ze sposobem funkcjonowania sąNaczelną Radę Adwokacką,
+2) czterej przedstawiciele Ministra Sprawiedliwości których wiedza i doświadczenie dają rękojmię prawidłowego przygotowania egzaminu adwokackiego.
+3. Pracami zespołu kieruje przewodniczący lub przypadku jego nieobecności zastępca, powołani przez Ministra Sprawiedliwości spośród osób, októrych mowa wust. 2pkt 2.
+4. Obsługę administracyjno-biurową zespołu zapewnia Minister Sprawiedliwości.
+5. Przewodniczącemu i członkom zespołu przysługuje wynagrodzenie.
+6. Nie póêniej niż 90 dni przed terminem egzaminu przewodniczący zespołu podaje do publicznej wiadomości na stronie internetowej Ministerstwa Sprawiedliwości oraz Biuletynie Informacji Publicznej ustalony przez zespół większością głosów obecności wszystkich członków zespołu i zatwierdzony przez Ministra Sprawiedliwości wykaz tytułów aktów prawnych, według stanu prawnego obowiązującego wdniu ogłoszenia, zktórych wybrane stanowią podstawę opracowania pytań testowych na egzamin adwokacki.
+7. Na pierwszą część egzaminu adwokackiego zespół sporządza zestaw 100 pytań formie testu jednokrotnego wyboru na egzamin adwokacki wraz zwykazem prawidłowych odpowiedzi, sposób uwzględniający konieczność ich zabezpieczenia przed nieuprawnionym ujawnieniem. Zespół zapewnia zgodność wykazu prawidłowych odpowiedzi zobowiązującym stanem prawnym.
+8. Na drugą do piątej części egzaminu adwokackiego zespół sporządza zadania z zakresu prawa karnego, cynacyjnym, októrych mowa wart. 78 ust. 1, nie stosuje się przepisów ustawy z dnia 29 stycznia 2004 r.
+Prawo zamówień publicznych, jeżeli wartość zamówienia jest mniejsza niż kwoty określone przepisach wydanych na podstawie art. 11 ust.8 tej ustawy.
+12. Minister Sprawiedliwości, po zasięgnięciu opinii Naczelnej Rady Adwokackiej określi, drodze rozporządzenia:
+1) tryb isposób działania zespołu, wilnego, gospodarczego i administracyjnego.
+2) tryb i sposób ustalenia wykazu tytułów aktów prawnych, którym mowa wust. 6,
+3) tryb isposób zgłaszania propozycji pytań testowych i prawidłowych odpowiedzi oraz propozycji zadań, przygotowania, przechowywania oraz przekazywania komisjom egzaminacyjnym, których mowa wart. 78 ust. 1, zestawu pytań testowych wraz z kartą odpowiedzi i wykazu prawidłowych odpowiedzi oraz zadań na egzamin adwokacki,
+4) tryb i sposób zapewnienia zgodności wykazu prawidłowych odpowiedzi z obowiązującym stanem prawnym,
+5) tryb i sposób zapewnienia obsługi administracyjno-biurowej zespołu uwzględniając konieczność prawidłowego i efektywnego przeprowadzenia egzaminu adwokackiego, szczególności konieczność zapewnienia zgodności wykazu tytułów aktów prawnych z zakresem przedmiotowym egzaminu adwokackiego oraz konieczność zabezpieczenia pytań i zadań przed ich nieuprawnionym ujawnieniem, oraz
+6) wysokość wynagrodzenia przewodniczącego i członków zespołu, uwzględniając nakład ich pracy i zakres obowiązków oraz liczbę kandydatów.
+13. Minister Sprawiedliwości określi, wart. 66 ust. 2.”;
+24) art. 78 otrzymuje brzmienie: ŃArt. 78. 1. Egzamin adwokacki przeprowadzają komisje egzaminacyjne do przeprowadzenia egzaminu adwokackiego, zwane dalej Ńkomisjami egzaminacyjnymi”, składzie 8 członków, powołane na obszarze właściwości jednej lub kilku okręgowych rad adwokackich. Przepisy art. 75a ust. 1a oraz art. 75e ust. 5 stosuje się odpowiednio.
+2. Członków komisji egzaminacyjnych powołuje się spośród specjalistów zdziedzin prawa objętych egzaminem, których wiedza i doświadczenie dają rękojmię prawidłowego przebiegu egzaminu.
+3. Do składu komisji egzaminacyjnych kandydatów na członków wskazują: Minister Sprawiedliwości 4egzaminatorów i 4 zastępców egzaminatorów, Naczelna Rada Adwokacka 4 adwokatów jako egzaminatorów i 4 adwokatów jako zastępców egzaminatorów.
+4. Minister Sprawiedliwości powołuje, drodze zarządzenia, komisje egzaminacyjne na obszarze właściwości jednej lub kilku okręgowych rad adwokackich i zastępców egzaminatorów zdziedzin prawa objętych egzaminem, a także wskazuje, po zasięgnięciu opinii Naczelnej Rady Adwokackiej, przewodniczącego komisji egzaminacyjnej ijego zastępcę.
+5. Komisja egzaminacyjna czuwa nad prawidłowym przebiegiem egzaminu adwokackiego. Przewodniczący komisji egzaminacyjnej kieruje jej pracami ireprezentuje ją na zewnątrz.
+6. Członek komisji egzaminacyjnej podlega wyłączeniu z prac komisji egzaminacyjnej z przyczyn określonych art. 75g na czas przeprowadzania egzaminu adwokackiego. Wprzypadku konieczności wyłączenia egzaminatora z prac komisji egzaminacyjnej lub zaistnienia przeszkody uniemożliwiającej jego udział pracach komisji egzaminacyjnej, wskład komisji egzaminacyjnej wchodzi zastępca egzaminatora rozumieniu z Naczelną Radą Adwokacką.
+9. W przypadku zaistnienia przeszkody uniemożliwiającej przeprowadzenie egzaminu przez komisję egzaminacyjną terminie, którym mowa ust. 8, Minister Sprawiedliwości po zasięgnięciu opinii Naczelnej Rady Adwokackiej wyznacza dodatkowy termin przeprowadzenia egzaminu przez tę komisję egzaminacyjną. Przewodniczący komisji egzaminacyjnej zawiadamia zdających dodatkowym terminie egzaminu listem poleconym za poświadczeniem odbioru oraz obwieszcza na tablicy ogłoszeń siedzibie wyznaczonej okręgowej rady adwokackiej. Przepisy art. 77a ust. 5 iust.7—11 stosuje się odpowiednio.
+10. Przewodniczącemu iczłonkom komisji egzaminacyjnej przysługuje zwrot kosztów podróży i noclegów na zasadach określonych przepisach dotyczących należności przysługujących pracownikowi zatrudnionemu państwowej lub samorządowej jednostce sfery budżetowej ztytułu podróży służbowej na obszarze kraju.
+11. Przewodniczącemu iczłonkowi komisji egzaminacyjnej niebędącemu pracownikiem administracji rządowej przysługuje wynagrodzenie za czynności związane zudziałem wkomisji egzaminacyjnej.
+12. Właściwa dla siedziby komisji egzaminacyjnej okręgowa rada adwokacka zapewnia obsługę administracyjną i techniczną działalności komisji egzaminacyjnej, tym przeprowadzanie egzaminu adwokackiego jako zadanie zlecone z zakresu administracji rządowej.
+13. Ze środków przekazanych na zadanie zlecone, którym mowa ust. 12, właściwe rady pokrywają koszty przeprowadzenia egzaminu adwokackiego oraz wydatki związane z działalnością komisji egzaminacyjnej.
+14. Wydatki związane z działalnością komisji egzaminacyjnej, wtym zprzeprowadzaniem egzaminu adwokackiego, oraz wynagrodzenie przewodniczące3) wysokość wynagrodzenia przewodniczącego i członków komisji egzaminacyjnych, uwzględniając liczbę osób przystępujących do egzaminu, zakres i nakład ich pracy zorganizowaniu i przebiegu egzaminu adwokackiego oraz tryb wypłacania tego wynagrodzenia,
+4) szczegółowy tryb isposób przeprowadzania egzaminu adwokackiego, wszczególności:
+a) sposób działania komisji egzaminacyjnych,
+b) czas trwania poszczególnych części egzaminu adwokackiego,
+c) sposób zorganizowania obsługi administracyjnej itechnicznej komisji egzaminacyjnych przez okręgowe rady adwokackie, tym przekazywania środków, sprawowania nadzoru nad ich wydatkowaniem i rozliczania wydatków związanych ztą obsługą uwzględniając konieczność prawidłowego, terminowego iefektywnego przeprowadzenia egzaminu, zapewnienia zachowania bezstronności pracy komisji egzaminacyjnych oraz konieczność uzyskania informacji niezbędnych do prawidłowego przeprowadzenia egzaminu adwokackiego.”;
+25) art. 78a otrzymuje brzmienie: ŃArt. 78a. 1. W terminie do dnia 31 maja każdego roku Minister Sprawiedliwości porozumieniu z Naczelną Radą Adwokacką zamieszcza dzienniku zasięgu ogólnopolskim i Biuletynie Informacji Publicznej ogłoszenie egzaminie adwokackim, którym podaje wszczególności:
+1) termin złożenia wniosku odopuszczenie do egzaminu adwokackiego, zwanego dalej Ńwnioskiem”,
+2) właściwość miejscową każdej zkomisji egzaminacyjnych i adres jej siedziby,
+3) termin przeprowadzenia każdej części egzaminu adwokackiego,
+4) wysokość opłaty za egzamin adściwej terytorialnie komisji egzaminacyjnej oraz Ministrowi Sprawiedliwości listę osób, które odbyły aplikację adwokacką.
+3. Osoby, które odbyły aplikację adwokacką, dołączają do wniosku zaświadczenie odbyciu aplikacji adwokackiej oraz oryginał dowodu uiszczenia opłaty za egzamin adwokacki.
+4. Osoby uprawnione do przystąpienia do egzaminu adwokackiego bez odbycia aplikacji dołączają do wniosku odpowiednio:
 1) kwestionariusz osobowy,
-2) ˝yciorys,
-3) dokument zaÊwiadczajàcy uzyskanie stopnia naukowego doktora nauk prawnych,
-4) orygina∏ dyplomu ukoƒczenia wy˝szych studiów prawniczych Rzeczypospolitej Polskiej i uzyskania tytu∏u magistra lub zagranicznych studiów prawniczych uznanych Rzeczypospolitej Polskiej albo jego urz´dowy odpis albo poÊwiadczonà notarialnie kopi´ orygina∏u lub urz´dowego odpisu dyplomu,
-5) dokumenty zaÊwiadczajàce co najmniej 5-letni okres zatrudnienia, którym mowa art. 66 ust. 2 pkt 2, na stanowiskach referendarza sàdowego, starszego referenwokacki.
-2. Aplikanci adwokaccy sk∏adajà wniodarza sàdowego, asystenta s´dziego lub asystenta prokuratora,
-6) dokumenty zaÊwiadczajàce co najmniej 5-letni okres zatrudnienia lub wykonywania wymagajàcych wiedzy prawniczej czynnoÊci bezpoÊrednio zwiàzanych ze Êwiadczeniem pomocy prawnej przez adwokata lub radc´ prawnego na podstawie umów cywilnoprawnych kancelarii adwokackiej, zespole adwokackim, spó∏ce cywilnej, jawnej, partnerskiej, komandytowej, których mowa art. 4a ust. 1, lub kancelarii radcy prawne8) dokumenty zaÊwiadczajàce zdaniu egzaminu s´dziowskiego, prokuratorskiego lub notarialnego,
-9) dokumenty potwierdzajàce zatrudnienie na stanowisku radcy lub starszego radcy Prokuratorii Generalnej Skarbu Paƒstwa,
-10) informacj´ oniekaralnoÊci zKrajowego Rejestru Karnego, opatrzonà datà nie wczeÊniejszà ni˝ miesiàc przed z∏o˝eniem wniosku,
-11) orygina∏ dowodu uiszczenia op∏aty za egzamin adwokacki,
-12) 3 zdj´cia zgodnie z wymaganiami obowiàzujàcymi przy wydawaniu dowodów osobistych.
+2) życiorys,
+3) dokument zaświadczający uzyskanie stopnia naukowego doktora nauk prawnych,
+4) oryginał dyplomu ukończenia wyższych studiów prawniczych Rzeczypospolitej Polskiej i uzyskania tytułu magistra lub zagranicznych studiów prawniczych uznanych Rzeczypospolitej Polskiej albo jego urzędowy odpis albo poświadczoną notarialnie kopię oryginału lub urzędowego odpisu dyplomu,
+5) dokumenty zaświadczające co najmniej 5-letni okres zatrudnienia, którym mowa art. 66 ust. 2 pkt 2, na stanowiskach referendarza sądowego, starszego referenwokacki.
+2. Aplikanci adwokaccy składają wniodarza sądowego, asystenta sędziego lub asystenta prokuratora,
+6) dokumenty zaświadczające co najmniej 5-letni okres zatrudnienia lub wykonywania wymagających wiedzy prawniczej czynności bezpośrednio związanych ze świadczeniem pomocy prawnej przez adwokata lub radcę prawnego na podstawie umów cywilnoprawnych kancelarii adwokackiej, zespole adwokackim, spółce cywilnej, jawnej, partnerskiej, komandytowej, których mowa art. 4a ust. 1, lub kancelarii radcy prawne8) dokumenty zaświadczające zdaniu egzaminu sędziowskiego, prokuratorskiego lub notarialnego,
+9) dokumenty potwierdzające zatrudnienie na stanowisku radcy lub starszego radcy Prokuratorii Generalnej Skarbu Państwa,
+10) informację oniekaralności zKrajowego Rejestru Karnego, opatrzoną datą nie wcześniejszą niż miesiąc przed złożeniem wniosku,
+11) oryginał dowodu uiszczenia opłaty za egzamin adwokacki,
+12) 3 zdjęcia zgodnie z wymaganiami obowiązującymi przy wydawaniu dowodów osobistych.
 5. Osoby, októrych mowa w:
-1) ust. 3 sk∏adajà wniosek najpóêniej wterminie 21 dni,
-2) ust. 4 sk∏adajà wniosek najpóêniej wterminie 45 dni przed dniem rozpocz´cia egzaminu adwokackiego. Przepisy art. 75c ust.4—9stosuje si´ odpowiednio.”;
+1) ust. 3 składają wniosek najpóêniej wterminie 21 dni,
+2) ust. 4 składają wniosek najpóêniej wterminie 45 dni przed dniem rozpoczęcia egzaminu adwokackiego. Przepisy art. 75c ust.4—9stosuje się odpowiednio.”;
 26) art. 78b:
-a) ust. 1otrzymuje brzmienie: „1. Kandydat uiszcza op∏at´ za egzamin adwokacki, która stanowi dochód bud˝etu paƒstwa.”,
-b) po ust. 1dodaje si´ ust. 1a wbrzmieniu: „1a. W przypadku wydania postanowienia pozostawieniu zg∏oszenia bez rozpoznania, wydania decyzji odmawiajàcej dopuszczenia do udzia∏u egzaminie adwokackim albo z∏o˝enia nie póêniej ni˝ 14 dni przed terminem egzaminu adwokackiego pisemnego oÊwiadczenia kandydata odstàpieniu od udzia∏u egzaminie adwokackim, dwie trzecie uiszczonej op∏aty podlega zwrotowi na pisemny wniosek kandydata z∏o˝ony przewodniczàcemu komisji egzaminacyjnej terminie 30 dni od dnia z∏o˝enia tego wniosku.”;
-27) art. 78d—78i otrzymujà brzmienie: i ubezpieczeƒ spo∏ecznych, materialnego i procesowego prawa administracyjnego, post´powania sàdowoadministracyjnego, prawa Unii Europejskiej, prawa konstytucyjnego oraz prawa ustroju sàdów i prokuratur, samorzàdu adwokackiego iinnych organów ochrony prawnej dzia∏ajàcych Rzeczypospolitej Polskiej oraz warunków wykonywania zawodu adwokata ietyki tego zawodu.
-2. Egzamin adwokacki sk∏ada si´ z pi´ciu cz´Êci pisemnych.
-3. Pierwsza cz´Êç egzaminu adwokackiego polega na rozwiàzaniu testu sk∏adajàcego si´ zzestawu 100 pytaƒ zawierajàcych po trzy propozycje odpowiedzi, z których tylko jedna jest prawid∏owa oraz z karty odpowiedzi.
-Zdajàcy mo˝e wybraç tylko jednà odpowiedê, którà zaznacza na karcie odpowiedzi. Za ka˝dà prawid∏owà odpowiedê zdajàcy uzyskuje 1punkt.
-4. Prawid∏owoÊç odpowiedzi ocenia si´ wed∏ug stanu prawnego obowiàzujàcego dniu egzaminu adwokackiego.
-5. Druga cz´Êç egzaminu adwokackiego polega na rozwiàzaniu zadania z zakresu prawa karnego polegajàcego na przygotowaniu aktu oskar˝enia lub apelacji, albo przypadku uznania, i˝ brak jest podstaw do ich wniesienia, na sporzàdzeniu opinii prawnej oparciu opracowane na potrzeby egzaminu akta lub przedstawiony stan faktyczny.
-6. Trzecia cz´Êç egzaminu adwokackiego polega na rozwiàzaniu zadania z zakresu prawa cywilnego polegajàcego na przygotowaniu pozwu lub wniosku albo apelacji, albo przypadku uznania, i˝ brak jest podstaw do ich wniesienia, na sporzàdzeniu opinii prawnej oparciu opracowane na potrzeby egzaminu akta lub przedstawiony stan faktyczny.
-7. Czwarta cz´Êç egzaminu adwokackie„Art. 78d. 1. Egzamin adwokacki polega na spraw- go polega na rozwiàzaniu zadania dzeniu przygotowania prawniczego z zakresu prawa gospodarczego pocyjnego lub skargi kasacyjnej do Na- siebie dwaj egzaminatorzy z dziedzin czelnego Sàdu Administracyjnego prawa, których dotyczy praca pisemalbo przypadku uznania, i˝ brak na, jeden spoÊród wskazanych przez jest podstaw do ich wniesienia, na Ministra SprawiedliwoÊci, drugi sposporzàdzeniu opinii prawnej opar- Êród wskazanych przez Naczelnà Rad´ ciu opracowane na potrzeby egza- Adwokackà bioràc pod uwag´ minu akta lub przedstawiony stan szczególnoÊci zachowanie wymofaktyczny. gów formalnych, w∏aÊciwoÊç zastosowanych przepisów prawa i umiej´t9. Egzaminatorzy dokonujà oceny za noÊç ich interpretacji, poprawnoÊç zacz´Êç pierwszà egzaminu adwokac- proponowanego przez zdajàcego spokiego przy zastosowaniu nast´pujà- sobu rozstrzygni´cia problemu cej skali ocen: zuwzgl´dnieniem interesu strony, któ1) oceny pozytywne: rà zgodnie zzadaniem reprezentuje.
-a) celujàca (6) 95—100 punk- 3. Ka˝dy z egzaminatorów sprawdzajàtów, cych prac´ pisemnà wystawia ocen´ czàstkowà i sporzàdza pisemne uzab) bardzo dobra (5) 85—94 punk- sadnienie wystawionej oceny czàstkotów, wej i przekazuje je niezw∏ocznie przewodniczàcemu komisji egzaminacyjc) dobra (4) 75—84 punktów, nej, który za∏àcza wszystkie uzasadnied) dostateczna (3) 60—74 punk- nia ocen czàstkowych dotyczàce prac tów, zdajàcego do protoko∏u z przebiegu egzaminu adwokackiego.
-2) ocena negatywna niedostateczna (2) 0—59 punktów. 4. Ostatecznà ocen´ z pracy pisemnej z danego zadania z cz´Êci drugiej do
-10. Egzaminatorzy dokonujà oceny za piàtej egzaminu adwokackiego stanocz´Êç drugà do piàtej egzaminu ad- wi Êrednia ocen czàstkowych przyznawokackiego przy zastosowaniu na- nych przez ka˝dego z egzaminatorów, st´pujàcej skali ocen: przy czym:
+a) ust. 1otrzymuje brzmienie: Ń1. Kandydat uiszcza opłatę za egzamin adwokacki, która stanowi dochód budżetu państwa.”,
+b) po ust. 1dodaje się ust. 1a wbrzmieniu: Ń1a. W przypadku wydania postanowienia pozostawieniu zgłoszenia bez rozpoznania, wydania decyzji odmawiającej dopuszczenia do udziału egzaminie adwokackim albo złożenia nie póêniej niż 14 dni przed terminem egzaminu adwokackiego pisemnego oświadczenia kandydata odstąpieniu od udziału egzaminie adwokackim, dwie trzecie uiszczonej opłaty podlega zwrotowi na pisemny wniosek kandydata złożony przewodniczącemu komisji egzaminacyjnej terminie 30 dni od dnia złożenia tego wniosku.”;
+27) art. 78d—78i otrzymują brzmienie: i ubezpieczeń społecznych, materialnego i procesowego prawa administracyjnego, postępowania sądowoadministracyjnego, prawa Unii Europejskiej, prawa konstytucyjnego oraz prawa ustroju sądów i prokuratur, samorządu adwokackiego iinnych organów ochrony prawnej działających Rzeczypospolitej Polskiej oraz warunków wykonywania zawodu adwokata ietyki tego zawodu.
+2. Egzamin adwokacki składa się z pięciu części pisemnych.
+3. Pierwsza część egzaminu adwokackiego polega na rozwiązaniu testu składającego się zzestawu 100 pytań zawierających po trzy propozycje odpowiedzi, z których tylko jedna jest prawidłowa oraz z karty odpowiedzi.
+Zdający może wybrać tylko jedną odpowiedê, którą zaznacza na karcie odpowiedzi. Za każdą prawidłową odpowiedê zdający uzyskuje 1punkt.
+4. Prawidłowość odpowiedzi ocenia się według stanu prawnego obowiązującego dniu egzaminu adwokackiego.
+5. Druga część egzaminu adwokackiego polega na rozwiązaniu zadania z zakresu prawa karnego polegającego na przygotowaniu aktu oskarżenia lub apelacji, albo przypadku uznania, iż brak jest podstaw do ich wniesienia, na sporządzeniu opinii prawnej oparciu opracowane na potrzeby egzaminu akta lub przedstawiony stan faktyczny.
+6. Trzecia część egzaminu adwokackiego polega na rozwiązaniu zadania z zakresu prawa cywilnego polegającego na przygotowaniu pozwu lub wniosku albo apelacji, albo przypadku uznania, iż brak jest podstaw do ich wniesienia, na sporządzeniu opinii prawnej oparciu opracowane na potrzeby egzaminu akta lub przedstawiony stan faktyczny.
+7. Czwarta część egzaminu adwokackieŃArt. 78d. 1. Egzamin adwokacki polega na spraw- go polega na rozwiązaniu zadania dzeniu przygotowania prawniczego z zakresu prawa gospodarczego pocyjnego lub skargi kasacyjnej do Na- siebie dwaj egzaminatorzy z dziedzin czelnego Sądu Administracyjnego prawa, których dotyczy praca pisemalbo przypadku uznania, iż brak na, jeden spośród wskazanych przez jest podstaw do ich wniesienia, na Ministra Sprawiedliwości, drugi sposporządzeniu opinii prawnej opar- śród wskazanych przez Naczelną Radę ciu opracowane na potrzeby egza- Adwokacką biorąc pod uwagę minu akta lub przedstawiony stan szczególności zachowanie wymofaktyczny. gów formalnych, właściwość zastosowanych przepisów prawa i umiejęt9. Egzaminatorzy dokonują oceny za ność ich interpretacji, poprawność zaczęść pierwszą egzaminu adwokac- proponowanego przez zdającego spokiego przy zastosowaniu następują- sobu rozstrzygnięcia problemu cej skali ocen: zuwzględnieniem interesu strony, któ1) oceny pozytywne: rą zgodnie zzadaniem reprezentuje.
+a) celująca (6) 95—100 punk- 3. Każdy z egzaminatorów sprawdzajątów, cych pracę pisemną wystawia ocenę cząstkową i sporządza pisemne uzab) bardzo dobra (5) 85—94 punk- sadnienie wystawionej oceny cząstkotów, wej i przekazuje je niezwłocznie przewodniczącemu komisji egzaminacyjc) dobra (4) 75—84 punktów, nej, który załącza wszystkie uzasadnied) dostateczna (3) 60—74 punk- nia ocen cząstkowych dotyczące prac tów, zdającego do protokołu z przebiegu egzaminu adwokackiego.
+2) ocena negatywna niedostateczna (2) 0—59 punktów. 4. Ostateczną ocenę z pracy pisemnej z danego zadania z części drugiej do
+10. Egzaminatorzy dokonują oceny za piątej egzaminu adwokackiego stanoczęść drugą do piątej egzaminu ad- wi średnia ocen cząstkowych przyznawokackiego przy zastosowaniu na- nych przez każdego z egzaminatorów, stępującej skali ocen: przy czym:
 1) oceny pozytywne: 1) oceny pozytywne to:
-a) celujàca (6), a) celujàca je˝eli Êrednia arytmeb) bardzo dobra (5), tyczna wystawionych ocen wynosi od 5,51 do 6,00,
-c) dobra (4), b) bardzo dobra je˝eli Êrednia
+a) celująca (6), a) celująca jeżeli średnia arytmeb) bardzo dobra (5), tyczna wystawionych ocen wynosi od 5,51 do 6,00,
+c) dobra (4), b) bardzo dobra jeżeli średnia
 d) dostateczna (3), arytmetyczna wystawionych ocen wynosi od 4,51 do 5,50,
-2) ocena negatywna niedostateczna (2). c) dobra je˝eli Êrednia arytmetyczna wystawionych ocen wyno11. Podczas egzaminu adwokackiego si od 3,51 do 4,50, zdajàcy nie mo˝e posiadaç urzàdzeƒ s∏u˝àcych do przekazu lub odbioru d) dostateczna je˝eli Êrednia informacji. arytmetyczna wystawionych ocen wynosi od 3,00 do 3,50,
-12. Podczas rozwiàzywania zadaƒ z cz´Êci drugiej do piàtej egzaminu adwo- 2) ocena negatywna niedostateczna kackiego zdajàcy mo˝e korzystaç je˝eli Êrednia arytmetyczna z tekstów aktów prawnych i komentarzy oraz orzecznictwa.
-13. Przepisy art. 75h ust. 1, 2 i 4 stosuje wystawionych ocen wynosi poni˝ej3,00.
-5. Je˝eli przynajmniej dwie oceny czàstoceny czàstkowe, wraz zuzasadnieniami, celu ustalenia ostatecznych ocen tych prac.
-6. Wprzypadku, októrym mowa wust. 5, komisja egzaminacyjna II stopnia przy Ministrze SprawiedliwoÊci stosuje odpowiednio przepisy art. 78f ust. 1 i2oraz art. 78h ust. 11.
+2) ocena negatywna niedostateczna (2). c) dobra jeżeli średnia arytmetyczna wystawionych ocen wyno11. Podczas egzaminu adwokackiego si od 3,51 do 4,50, zdający nie może posiadać urządzeń służących do przekazu lub odbioru d) dostateczna jeżeli średnia informacji. arytmetyczna wystawionych ocen wynosi od 3,00 do 3,50,
+12. Podczas rozwiązywania zadań z części drugiej do piątej egzaminu adwo- 2) ocena negatywna niedostateczna kackiego zdający może korzystać jeżeli średnia arytmetyczna z tekstów aktów prawnych i komentarzy oraz orzecznictwa.
+13. Przepisy art. 75h ust. 1, 2 i 4 stosuje wystawionych ocen wynosi poniżej3,00.
+5. Jeżeli przynajmniej dwie oceny cząstoceny cząstkowe, wraz zuzasadnieniami, celu ustalenia ostatecznych ocen tych prac.
+6. Wprzypadku, októrym mowa wust. 5, komisja egzaminacyjna II stopnia przy Ministrze Sprawiedliwości stosuje odpowiednio przepisy art. 78f ust. 1 i2oraz art. 78h ust. 11.
 
 **Art. 78f.**
 
-1. Pozytywny wynik z egzaminu adwokackiego otrzymuje zdajàcy, który z ka˝dej cz´Êci egzaminu adwokackiego otrzyma∏ ocen´ pozytywnà.
+1. Pozytywny wynik z egzaminu adwokackiego otrzymuje zdający, który z każdej części egzaminu adwokackiego otrzymał ocenę pozytywną.
 
-2. Komisja egzaminacyjna podejmuje uchwa∏´ owyniku egzaminu adwokackiego wi´kszoÊcià g∏osów obecnoÊci wszystkich cz∏onków komisji egzaminacyjnej. Komisja egzaminacyjna wydaje zdajàcemu uchwa∏´, a jej odpis przesy∏a Ministrowi SprawiedliwoÊci, Prezesowi Naczelnej Rady Adwokackiej oraz do∏àcza do akt osobowych zdajàcego.
+2. Komisja egzaminacyjna podejmuje uchwałę owyniku egzaminu adwokackiego większością głosów obecności wszystkich członków komisji egzaminacyjnej. Komisja egzaminacyjna wydaje zdającemu uchwałę, a jej odpis przesyła Ministrowi Sprawiedliwości, Prezesowi Naczelnej Rady Adwokackiej oraz dołącza do akt osobowych zdającego.
 
-3. Minister SprawiedliwoÊci publikuje Biuletynie Informacji Publicznej imiona i nazwiska osób, które uzyska∏y pozytywny wynik zegzaminu adwokackiego oraz imiona ich rodziców.
+3. Minister Sprawiedliwości publikuje Biuletynie Informacji Publicznej imiona i nazwiska osób, które uzyskały pozytywny wynik zegzaminu adwokackiego oraz imiona ich rodziców.
 
 **Art. 78g.**
 
-1. Z przebiegu egzaminu adwokackiego sporzàdza si´ niezw∏ocznie protokó∏, który podpisujà cz∏onkowie komisji egzaminacyjnej uczestniczàcy egzaminie adwokackim. Cz∏onkowie komisji egzaminacyjnej mogà zg∏aszaç uwagi do protoko∏u.
+1. Z przebiegu egzaminu adwokackiego sporządza się niezwłocznie protokół, który podpisują członkowie komisji egzaminacyjnej uczestniczący egzaminie adwokackim. Członkowie komisji egzaminacyjnej mogą zgłaszać uwagi do protokołu.
 
-2. Dokumentacj´ zwiàzanà z przeprowadzeniem egzaminu, po jego zakoƒczeniu, przewodniczàcy komisji egzaminacyjnej przekazuje w∏aÊciwej okr´gowej radzie adwokackiej, z czego sporzàdza si´ protokó∏. Kopi´ protoko∏u z przebiegu egzaminu oraz kopi´ protoko∏u z przekazania dokumentacji przewodniczàcy komisji egzaminacyjnej przekazuje Ministrowi SprawiedliwoÊci wterminie 7dni od dnia sporzàdzenia.
+2. Dokumentację związaną z przeprowadzeniem egzaminu, po jego zakończeniu, przewodniczący komisji egzaminacyjnej przekazuje właściwej okręgowej radzie adwokackiej, z czego sporządza się protokół. Kopię protokołu z przebiegu egzaminu oraz kopię protokołu z przekazania dokumentacji przewodniczący komisji egzaminacyjnej przekazuje Ministrowi Sprawiedliwości wterminie 7dni od dnia sporządzenia.
 
 **Art. 78h.**
 
-1. Od uchwa∏y wyniku egzaminu adwokackiego zdajàcemu przys∏uguje odwo∏anie do komisji egzaminacyjnej ków, spoÊród których wyznacza przewodniczàcego,
+1. Od uchwały wyniku egzaminu adwokackiego zdającemu przysługuje odwołanie do komisji egzaminacyjnej ków, spośród których wyznacza przewodniczącego,
 
-- **2)** Naczelna Rada Adwokacka 4 cz∏onków spoÊród osób, których wiedza i doÊwiadczenie dajà r´kojmi´ rzetelnego rozpoznania odwo∏aƒ.
+- **2)** Naczelna Rada Adwokacka 4 członków spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
 
-4. Przewodniczàcemu icz∏onkom komisji odwo∏awczej za udzia∏ jej pracach przys∏uguje wynagrodzenie.
+4. Przewodniczącemu iczłonkom komisji odwoławczej za udział jej pracach przysługuje wynagrodzenie.
 
-5. Przepisy art. 75e ust. 5, 7 i 11, art. 75f ust. 1, ust. 2pkt 1, 2, 4, 5, ust. 3stosuje si´ odpowiednio.
+5. Przepisy art. 75e ust. 5, 7 i 11, art. 75f ust. 1, ust. 2pkt 1, 2, 4, 5, ust. 3stosuje się odpowiednio.
 
-6. W przypadku wygaÊni´cia cz∏onkostwa komisji odwo∏awczej lub odwo∏ania cz∏onka z komisji odwo∏awczej, Minister SprawiedliwoÊci niezw∏ocznie powo∏uje nowego cz∏onka komisji odwo∏awczej. W przypadku cz∏onka, októrym mowa wust. 3pkt 2, Naczelna Rada Adwokacka terminie okreÊlonym przez Ministra SprawiedliwoÊci wskazuje nowego kandydata na cz∏onka komisji odwo∏awczej.
+6. W przypadku wygaśnięcia członkostwa komisji odwoławczej lub odwołania członka z komisji odwoławczej, Minister Sprawiedliwości niezwłocznie powołuje nowego członka komisji odwoławczej. W przypadku członka, októrym mowa wust. 3pkt 2, Naczelna Rada Adwokacka terminie określonym przez Ministra Sprawiedliwości wskazuje nowego kandydata na członka komisji odwoławczej.
 
-7. Cz∏onek komisji odwo∏awczej podlega wy∏àczeniu od udzia∏u post´powaniu sprawie z przyczyn wskazanych wart. 75g ust. 1. Przepis art. 75g ust. 2 stosuje si´.
+7. Członek komisji odwoławczej podlega wyłączeniu od udziału postępowaniu sprawie z przyczyn wskazanych wart. 75g ust. 1. Przepis art. 75g ust. 2 stosuje się.
 
-8. Cz∏onkowie komisji odwo∏awczej przed przystàpieniem do rozpatrywania sprawy sk∏adajà pisemne oÊwiadczenia, i˝ nie pozostajà z osobà, której dotyczy sprawa, wstosunku, októrym mowa wart. 75g ust. 1.
+8. Członkowie komisji odwoławczej przed przystąpieniem do rozpatrywania sprawy składają pisemne oświadczenia, iż nie pozostają z osobą, której dotyczy sprawa, wstosunku, októrym mowa wart. 75g ust. 1.
 
-9. Do zadaƒ komisji odwo∏awczej nale˝y rozpatrywanie odwo∏aƒ od wyników egzaminu adwokackiego.
+9. Do zadań komisji odwoławczej należy rozpatrywanie odwołań od wyników egzaminu adwokackiego.
 
-10. Uchwa∏y sà podejmowane wi´kszoÊcià 2/3 g∏osów obecnoÊci wszystkich cz∏onków komisji odwo∏awczej.
+10. Uchwały są podejmowane większością 2/3 głosów obecności wszystkich członków komisji odwoławczej.
 
-11. Od uchwa∏y komisji odwo∏awczej s∏u˝y skarga do sàdu administracyjnego.
+11. Od uchwały komisji odwoławczej służy skarga do sądu administracyjnego.
 
-12. Do post´powania przed komisjà odwo∏awczà stosuje si´ odpowiednio przepisy Kodeksu post´powania administracyjnego. ∏awczej, uwzgl´dniajàc zakres i nak∏ad ich pracy oraz tryb jego wyp∏acania,
+12. Do postępowania przed komisją odwoławczą stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego. ławczej, uwzględniając zakres i nakład ich pracy oraz tryb jego wypłacania,
 
-- **4)** tryb i sposób dzia∏ania komisji odwo∏awczej,
-- **5)** sposób zapewnienia obs∏ugi administracyjno-biurowej komisji odwo∏awczej uwzgl´dniajàc koniecznoÊç prawid∏owego i terminowego rozpoznawania odwo∏aƒ oraz zapewnienia zachowania bezstronnoÊci pracy cz∏onków komisji odwo∏awczej.”;
+- **4)** tryb i sposób działania komisji odwoławczej,
+- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej uwzględniając konieczność prawidłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.”;
 
-**Art. 78i.** W przypadku nieuzyskania pozytywnego wyniku z egzaminu adwokackiego, zdajàcy mo˝e przyst´powaç do kolejnych egzaminów adwokackich, z tym ˝e egzamin ten zdaje wca∏oÊci.”;
+**Art. 78i.** W przypadku nieuzyskania pozytywnego wyniku z egzaminu adwokackiego, zdający może przystępować do kolejnych egzaminów adwokackich, z tym że egzamin ten zdaje wcałości.”;
 
 **Art. 2.** W ustawie z dnia 6 lipca 1982 r. radcach prawnych (Dz. U. z 2002 r. 123, poz. 1059, z póên. zm.
 
-**Art. 3.** Wustawie zdnia 14 lutego 1991 r. Prawo notariacie (Dz. U. z 2008 r. 189, poz. 1158) wprowadza si´ nast´pujàce zmiany:
+**Art. 3.** Wustawie zdnia 14 lutego 1991 r. Prawo notariacie (Dz. U. z 2008 r. 189, poz. 1158) wprowadza się następujące zmiany:
 
 **Art. 74e.**
 
-§ 1. Test z pierwszej cz´Êci egzaminu notarialnego sprawdzajà niezale˝nie od siebie dwaj cz∏onkowie komisji wyznaczeni przez przewodniczàcego komisji.
+§ 1. Test z pierwszej części egzaminu notarialnego sprawdzają niezależnie od siebie dwaj członkowie komisji wyznaczeni przez przewodniczącego komisji.
 
-§ 2. Oceny rozwiàzania ka˝dego zzadaƒ komisji, który za∏àcza wszystkie uzasadnienia ocen czàstkowych dotyczàce prac zdajàcego do protoko∏u zprzebiegu egzaminu notarialnego.
+§ 2. Oceny rozwiązania każdego zzadań komisji, który załącza wszystkie uzasadnienia ocen cząstkowych dotyczące prac zdającego do protokołu zprzebiegu egzaminu notarialnego.
 
-§ 4. Ostatecznà ocen´ zpracy pisemnej z ka˝dego z zadaƒ z cz´Êci drugiej i trzeciej egzaminu notarialnego stanowi Êrednia ocen czàstkowych przyznanych przez ka˝dego cz∏onka komisji sprawdzajàcego prac´ pisemnà, przy czym:
+§ 4. Ostateczną ocenę zpracy pisemnej z każdego z zadań z części drugiej i trzeciej egzaminu notarialnego stanowi średnia ocen cząstkowych przyznanych przez każdego członka komisji sprawdzającego pracę pisemną, przy czym:
 
 - **1)** oceny pozytywne to:
-    - **a)** celujàca je˝eli Êrednia arytmetyczna wystawionych ocen wynosi od 5,51 do 6,00,
-    - **b)** bardzo dobra je˝eli Êrednia arytmetyczna wystawionych ocen wynosi od 4,51 do 5,50,
-    - **c)** dobra je˝eli Êrednia arytmetyczna wystawionych ocen wynosi od 3,51 do 4,50,
-    - **d)** dostateczna je˝eli Êrednia arytmetyczna wystawionych ocen wynosi od 3,00 do 3,50;
+    - **a)** celująca jeżeli średnia arytmetyczna wystawionych ocen wynosi od 5,51 do 6,00,
+    - **b)** bardzo dobra jeżeli średnia arytmetyczna wystawionych ocen wynosi od 4,51 do 5,50,
+    - **c)** dobra jeżeli średnia arytmetyczna wystawionych ocen wynosi od 3,51 do 4,50,
+    - **d)** dostateczna jeżeli średnia arytmetyczna wystawionych ocen wynosi od 3,00 do 3,50;
 
-- **2)** ocena negatywna niedostateczna je˝eli Êrednia arytmetyczna wystawionych ocen wynosi poni˝ej 3,00.
+- **2)** ocena negatywna niedostateczna jeżeli średnia arytmetyczna wystawionych ocen wynosi poniżej 3,00.
 
 **Art. 74f.**
 
-§ 1. Pozytywny wynik z egzaminu notarialnego otrzymuje zdajàcy, który zka˝dej cz´Êci egzaminu notarialnego otrzyma∏ ocen´ pozytywnà.
+§ 1. Pozytywny wynik z egzaminu notarialnego otrzymuje zdający, który zkażdej części egzaminu notarialnego otrzymał ocenę pozytywną.
 
-§ 2. Komisja podejmuje uchwa∏´ wyniku egzaminu notarialnego wi´kszoÊcià g∏osów obecnych cz∏onków. Komisja wydaje zdajàcemu uchwa∏´, a jej odpis przesy∏a Ministrowi SprawiedliwoÊci, Prezesowi Krajowej Rady Notarialnej oraz do∏àcza do akt osobowych zdajàcego.
+§ 2. Komisja podejmuje uchwałę wyniku egzaminu notarialnego większością głosów obecnych członków. Komisja wydaje zdającemu uchwałę, a jej odpis przesyła Ministrowi Sprawiedliwości, Prezesowi Krajowej Rady Notarialnej oraz dołącza do akt osobowych zdającego.
 
-§ 3. Minister SprawiedliwoÊci publikuje Biuletynie Informacji Publicznej imiona i nazwiska osób, które uzyska∏y pozytywny wynik z egzaminu, oraz imiona ich rodziców. z cz´Êci drugiej i trzeciej egzaminu notarialnego dokonujà niezale˝nie Art. 74g. § 1. Z przebiegu egzaminu notarialnego od siebie dwaj cz∏onkowie komisji, sporzàdza si´ niezw∏ocznie protowterminie 7dni od dnia sporzàdzenia.
+§ 3. Minister Sprawiedliwości publikuje Biuletynie Informacji Publicznej imiona i nazwiska osób, które uzyskały pozytywny wynik z egzaminu, oraz imiona ich rodziców. z części drugiej i trzeciej egzaminu notarialnego dokonują niezależnie Art. 74g. § 1. Z przebiegu egzaminu notarialnego od siebie dwaj członkowie komisji, sporządza się niezwłocznie protowterminie 7dni od dnia sporządzenia.
 
 **Art. 74h.**
 
-§ 1. Od uchwa∏y owyniku egzaminu notarialnego zdajàcemu przys∏uguje odwo∏anie do komisji egzaminacyjnej II stopnia przy Ministrze SprawiedliwoÊci terminie 14 dni od dnia otrzymania uchwa∏y, której mowa wart. 74f § 2.
+§ 1. Od uchwały owyniku egzaminu notarialnego zdającemu przysługuje odwołanie do komisji egzaminacyjnej II stopnia przy Ministrze Sprawiedliwości terminie 14 dni od dnia otrzymania uchwały, której mowa wart. 74f § 2.
 
-§ 2. Minister SprawiedliwoÊci powo∏uje, wdrodze zarzàdzenia, komisj´ egzaminacyjnà II stopnia przy Ministrze SprawiedliwoÊci, zwanà dalej „komisjà odwo∏awczà”, sk∏adzie 9cz∏onków.
+§ 2. Minister Sprawiedliwości powołuje, wdrodze zarządzenia, komisję egzaminacyjną II stopnia przy Ministrze Sprawiedliwości, zwaną dalej Ńkomisją odwoławczą”, składzie 9członków.
 
-§ 3. Do sk∏adu komisji odwo∏awczej kandydatów na cz∏onków wskazujà:
+§ 3. Do składu komisji odwoławczej kandydatów na członków wskazują:
 
-- **1)** Minister SprawiedliwoÊci 5 cz∏onków, spoÊród których wyznacza przewodniczàcego,
-- **2)** Krajowa Rada Notarialna 4cz∏onków spoÊród osób, których wiedza i doÊwiadczenie dajà r´kojmi´ rzetelnego rozpoznania odwo∏aƒ.
+- **1)** Minister Sprawiedliwości 5 członków, spośród których wyznacza przewodniczącego,
+- **2)** Krajowa Rada Notarialna 4członków spośród osób, których wiedza i doświadczenie dają rękojmię rzetelnego rozpoznania odwołań.
 
-§ 4. Przewodniczàcemu i cz∏onkom komisji odwo∏awczej za udzia∏ jej pracach przys∏uguje wynagrodzenie.
+§ 4. Przewodniczącemu i członkom komisji odwoławczej za udział jej pracach przysługuje wynagrodzenie.
 
-§ 5. Przepisy art. 71f § 7, § 11, art. 71g §1, § 2pkt 1, 2, 4, 5i§ 3stosuje si´ odpowiednio.
+§ 5. Przepisy art. 71f § 7, § 11, art. 71g §1, § 2pkt 1, 2, 4, 5i§ 3stosuje się odpowiednio.
 
-§ 6. W przypadku wygaÊni´cia cz∏onkostwa wkomisji odwo∏awczej lub odwo∏ania cz∏onka zkomisji odwo∏awczej, Minister SprawiedliwoÊci niezw∏ocznie powo∏uje nowego cz∏onka komisji odwo∏awczej. W przypadku cz∏onka, którym mowa § 3 pkt 2, Krajowa Rada Notarialna terminie okreÊlonym przez Ministra SprawiedliwoÊci wskazuje nowego kandydata na cz∏onka komisji odwo∏awczej.
+§ 6. W przypadku wygaśnięcia członkostwa wkomisji odwoławczej lub odwołania członka zkomisji odwoławczej, Minister Sprawiedliwości niezwłocznie powołuje nowego członka komisji odwoławczej. W przypadku członka, którym mowa § 3 pkt 2, Krajowa Rada Notarialna terminie określonym przez Ministra Sprawiedliwości wskazuje nowego kandydata na członka komisji odwoławczej.
 
-§ 7. Cz∏onek komisji odwo∏awczej pod§ 10. Uchwa∏y sà podejmowane wi´kszoÊcià 2/3 g∏osów obecnoÊci wszystkich cz∏onków komisji odwo∏awczej.
+§ 7. Członek komisji odwoławczej pod§ 10. Uchwały są podejmowane większością 2/3 głosów obecności wszystkich członków komisji odwoławczej.
 
-§ 11. Od uchwa∏y komisji odwo∏awczej s∏u˝y skarga do sàdu administracyjnego.
+§ 11. Od uchwały komisji odwoławczej służy skarga do sądu administracyjnego.
 
-§ 12. Do post´powania przed komisjà odwo∏awczà stosuje si´ odpowiednio przepisy Kodeksu post´powania administracyjnego.
+§ 12. Do postępowania przed komisją odwoławczą stosuje się odpowiednio przepisy Kodeksu postępowania administracyjnego.
 
-§ 13. Obs∏ug´ administracyjno-biurowà komisji odwo∏awczej zapewnia Minister SprawiedliwoÊci.
+§ 13. Obsługę administracyjno-biurową komisji odwoławczej zapewnia Minister Sprawiedliwości.
 
-§ 14. Minister SprawiedliwoÊci okreÊli, wdrodze rozporzàdzenia:
+§ 14. Minister Sprawiedliwości określi, wdrodze rozporządzenia:
 
-- **1)** tryb i termin zg∏aszania kandydatów na cz∏onków komisji odwo∏awczej,
-- **2)** termin powo∏ania komisji odwo∏awczej,
-- **3)** wysokoÊç wynagrodzenia przewodniczàcego i cz∏onków komisji odwo∏awczej, uwzgl´dniajàc zakres i nak∏ad ich pracy oraz tryb jego wyp∏acania,
-- **4)** tryb i sposób dzia∏ania komisji odwo∏awczej,
-- **5)** sposób zapewnienia obs∏ugi administracyjno-biurowej komisji odwo∏awczej uwzgl´dniajàc koniecznoÊç pralega wy∏àczeniu od udzia∏u wpost´powaniu sprawie z przyczyn wskazanych art. 71h § 1. Przepis wid∏owego i terminowego rozpoznawania odwo∏aƒ oraz zapewnienia zachowania bezstronnoÊci pracy cz∏onków komisji odwo∏awczej.
+- **1)** tryb i termin zgłaszania kandydatów na członków komisji odwoławczej,
+- **2)** termin powołania komisji odwoławczej,
+- **3)** wysokość wynagrodzenia przewodniczącego i członków komisji odwoławczej, uwzględniając zakres i nakład ich pracy oraz tryb jego wypłacania,
+- **4)** tryb i sposób działania komisji odwoławczej,
+- **5)** sposób zapewnienia obsługi administracyjno-biurowej komisji odwoławczej uwzględniając konieczność pralega wyłączeniu od udziału wpostępowaniu sprawie z przyczyn wskazanych art. 71h § 1. Przepis widłowego i terminowego rozpoznawania odwołań oraz zapewnienia zachowania bezstronności pracy członków komisji odwoławczej.
 
-**Art. 74i.** W przypadku nieuzyskania pozytywnego wyniku z egzaminu notarialnego, zdajàcy mo˝e przyst´powaç do kolejnych egzaminów notarialnych, z tym ˝e egzamin ten zdaje wca∏oÊci.”;
+**Art. 74i.** W przypadku nieuzyskania pozytywnego wyniku z egzaminu notarialnego, zdający może przystępować do kolejnych egzaminów notarialnych, z tym że egzamin ten zdaje wcałości.”;
 
-**Art. 6.** Post´powania wsprawach wniesionych do Ministra SprawiedliwoÊci na podstawie art. 46 ust. 2 iart. 68 ust. 6a wzwiàzku zart. 79 ust. 3ustawy, októrej mowa wart. 1, przed dniem wejÊcia w˝ycie niniejszej ustawy i niezakoƒczone do dnia wejÊcia ˝ycie tej ustawy prowadzone sà na dotychczasowych zasadach.
+**Art. 6.** Postępowania wsprawach wniesionych do Ministra Sprawiedliwości na podstawie art. 46 ust. 2 iart. 68 ust. 6a wzwiązku zart. 79 ust. 3ustawy, októrej mowa wart. 1, przed dniem wejścia wżycie niniejszej ustawy i niezakończone do dnia wejścia życie tej ustawy prowadzone są na dotychczasowych zasadach.
 
-**Art. 7.** Wsprawie owznowienie post´powania zakoƒczonego ostatecznà decyzjà Ministra SprawiedliwoÊci wydanà na podstawie art. 46 ust. 2 i art. 68 ust.6a wzwiàzku zart. 79 ust. 3ustawy, októrej mowa art. 1, przed dniem wejÊcia ˝ycie niniejszej ustawy, organem w∏aÊciwym jest Prezydium Naczelnej Rady Adwokackiej.
+**Art. 7.** Wsprawie owznowienie postępowania zakończonego ostateczną decyzją Ministra Sprawiedliwości wydaną na podstawie art. 46 ust. 2 i art. 68 ust.6a wzwiązku zart. 79 ust. 3ustawy, októrej mowa art. 1, przed dniem wejścia życie niniejszej ustawy, organem właściwym jest Prezydium Naczelnej Rady Adwokackiej.
 
-**Art. 8.** W sprawie stwierdzenie niewa˝noÊci decyzji Ministra SprawiedliwoÊci wydanej na podstawie art. 46 ust. 2iart. 68 ust. 6a wzwiàzku zart. 79 ust. 3 ustawy, której mowa art. 1, przed dniem wejÊcia ˝ycie niniejszej ustawy, organem w∏aÊciwym jest Prezydium Naczelnej Rady Adwokackiej.
+**Art. 8.** W sprawie stwierdzenie nieważności decyzji Ministra Sprawiedliwości wydanej na podstawie art. 46 ust. 2iart. 68 ust. 6a wzwiązku zart. 79 ust. 3 ustawy, której mowa art. 1, przed dniem wejścia życie niniejszej ustawy, organem właściwym jest Prezydium Naczelnej Rady Adwokackiej.
 
-**Art. 9.** W sprawach, których mowa art. 154 i 155 ustawy z dnia 14 czerwca 1960 r. Kodeks post´powania administracyjnego (Dz. U. z2000 r. 98, poz. 1071, zpóên. zm. ), dotyczàcych ostatecznej decyzji Ministra SprawiedliwoÊci wydanej na podstawie art. 46 ust. 2iart. 68 ust. 6a wzwiàzku zart. 79 ust. 3 ustawy, której mowa art. 1, przed dniem wejÊcia ˝ycie niniejszej ustawy organem w∏aÊciwym jest Prezydium Naczelnej Rady Adwokackiej.
+**Art. 9.** W sprawach, których mowa art. 154 i 155 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z2000 r. 98, poz. 1071, zpóên. zm. ), dotyczących ostatecznej decyzji Ministra Sprawiedliwości wydanej na podstawie art. 46 ust. 2iart. 68 ust. 6a wzwiązku zart. 79 ust. 3 ustawy, której mowa art. 1, przed dniem wejścia życie niniejszej ustawy organem właściwym jest Prezydium Naczelnej Rady Adwokackiej.
 
-**Art. 10.** Post´powania sprawach wniesionych do Ministra SprawiedliwoÊci na podstawie art. 31 ust.2a wzwiàzku zart. ust. 3ustawy, októrej mocz´te na podstawie przepisów dotychczasowych trwajà trzy lata iszeÊç miesi´cy.
+**Art. 10.** Postępowania sprawach wniesionych do Ministra Sprawiedliwości na podstawie art. 31 ust.2a wzwiązku zart. ust. 3ustawy, októrej moczęte na podstawie przepisów dotychczasowych trwają trzy lata isześć miesięcy.
 
 **Art. 15.**
 
-1. Okr´gowe rady adwokackie 2009 r. przeprowadzajà egzamin adwokacki dla aplikantów adwokackich, którzy zdali egzamin konkursowy dniu 10 grudnia 2005 r. i rozpocz´li aplikacj´ przed dniem 1paêdziernika 2006 r.
+1. Okręgowe rady adwokackie 2009 r. przeprowadzają egzamin adwokacki dla aplikantów adwokackich, którzy zdali egzamin konkursowy dniu 10 grudnia 2005 r. i rozpoczęli aplikację przed dniem 1paêdziernika 2006 r.
 
-2. Celem egzaminu adwokackiego jest sprawdzenie przygotowania osoby przyst´pujàcej do tego egzaminu do samodzielnego inale˝ytego wykonywania zawodu adwokata, tym wiedzy oraz jej praktycznego zastosowania, wszczególnoÊci zzakresu prawa cywa wart. 2, przed dniem wejÊcia w˝ycie ustawy iniezakoƒczone do dnia wejÊcia w˝ycie tej ustawy prowadzone sà na dotychczasowych zasadach.
+2. Celem egzaminu adwokackiego jest sprawdzenie przygotowania osoby przystępującej do tego egzaminu do samodzielnego inależytego wykonywania zawodu adwokata, tym wiedzy oraz jej praktycznego zastosowania, wszczególności zzakresu prawa cywa wart. 2, przed dniem wejścia wżycie ustawy iniezakończone do dnia wejścia wżycie tej ustawy prowadzone są na dotychczasowych zasadach.
 
-**Art. 11.** Przepisu art. 76b ust. 1 ustawy, której mowa art. 1, nie stosuje si´ do aplikantów adwokackich, którzy rozpocz´li aplikacj´ przed dniem 10wrzeÊnia 2005 r.
+**Art. 11.** Przepisu art. 76b ust. 1 ustawy, której mowa art. 1, nie stosuje się do aplikantów adwokackich, którzy rozpoczęli aplikację przed dniem 10września 2005 r.
 
-**Art. 12.** Przepisu art. 72a § 1 ustawy, której mowa art. 3, nie stosuje si´ do aplikantów notarialnych, którzy rozpocz´li aplikacj´ przed dniem 10 wrzeÊnia 2005 r. wilnego, post´powania cywilnego, rodzinnego iopiekuƒczego, karnego, post´powania karnego, karnego skarbowego, wykroczeƒ, pracy iubezpieczeƒ spo∏ecznych, gospodarczego, spó∏ek prawa handlowego, administracyjnego, post´powania administracyjnego, finansowego, konstytucyjnego, europejskiego oraz ustrojów sàdów, samorzàdu adwokackiego i innych organów ochrony prawnej dzia∏ajàcych Rzeczypospolitej Polskiej, a tak˝e warunków wykonywania zawodu adwokata ietyki tego zawodu. 3. Zasady zdawania egzaminu adwokackiego dla aplikantów, októrych mowa wust. 1, wszczególnoÊci zakres egzaminu przy uwzgl´dnieniu ust. 2, sposób jego przeprowadzenia, sposób oceny oraz sposób przygotowania pytaƒ i zadaƒ na egzamin, ustali Naczelna Rada Adwokacka wdrodze uchwa∏y. 4. Udzia∏ wegzaminie adwokackim jest odp∏atny. 5. Op∏ata za udzia∏ egzaminie adwokackim jest wnoszona do w∏aÊciwej okr´gowej rady adwokackiej i stanowi jej przychód. Okr´gowa rada adwokacka ustala wysokoÊç op∏aty za egzamin wdrodze uchwa∏y. 6. Okr´gowa rada adwokacka powo∏uje drodze uchwa∏y komisj´ egzaminacyjnà do przeprowadzenia egzaminu adwokackiego, zwanà dalej „komisjà”, i wyznacza jej przewodniczàcego. W przypadku du˝ej liczby osób przyst´pujàcych do egzaminu adwokackiego okr´gowa rada adwokacka mo˝e powo∏aç wi´cej ni˝ jednà komisj´. 7. W sk∏ad komisji wchodzi przedstawiciel Ministra SprawiedliwoÊci. 8. Za udzia∏ pracach komisji przys∏uguje wynagrodzenie. 9. Wynagrodzenie, którym mowa ust. 8, dla ——————— przedstawicieli Ministra SprawiedliwoÊci ustala si´ wysokoÊci miesi´cznego wynagrodzenia zasadni2. Celem egzaminu radcowskiego jest sprawdzenie przygotowania osoby przyst´pujàcej do tego egza- 8. Za udzia∏ pracach komisji przys∏uguje wynaminu do samodzielnego inale˝ytego wykonywania za- grodzenie. wodu radcy prawnego, wtym wiedzy oraz jej praktycznego zastosowania, szczególnoÊci z zakresu prawa 9. Wynagrodzenie, którym mowa ust. 8, dla cywilnego, post´powania cywilnego, rodzinnego przedstawicieli Ministra SprawiedliwoÊci ustala si´ i opiekuƒczego, karnego, post´powania karnego, kar- wysokoÊci miesi´cznego wynagrodzenia zasadninego skarbowego, wykroczeƒ, pracy i ubezpieczeƒ czego s´dziego sàdu okr´gowego wpierwszej stawce spo∏ecznych, gospodarczego, spó∏ek prawa handlo- awansowej, a koszty wynagrodzenia pokrywane sà wego, administracyjnego, post´powania administra- zcz´Êci bud˝etu paƒstwa, która pozostaje wdyspozycyjnego, finansowego, konstytucyjnego, europejskie- cji Ministra SprawiedliwoÊci. go oraz ustrojów sàdów, samorzàdu radcowskiego i innych organów ochrony prawnej dzia∏ajàcych 10. Rada okr´gowej izby radców prawnych ponoRzeczypospolitej Polskiej, a tak˝e warunków wyko- si koszty zwiàzane zdzia∏aniem komisji oraz zapewnia nywania zawodu radcy prawnego ietyki tego zawodu. jej obs∏ug´ administracyjno-technicznà. 3. Zasady zdawania egzaminu radcowskiego dla Art. 17. W roku 2009 Minister SprawiedliwoÊci aplikantów, októrych mowa wust. 1, wszczególnoÊci mo˝e wyznaczyç dodatkowy termin egzaminu notazakres egzaminu przy uwzgl´dnieniu ust. 2, sposób rialnego dla aplikantów notarialnych, którzy egzamin jego przeprowadzenia, sposób oceny oraz sposób konkursowy zdali dniu 10 grudnia 2005 r. W przyprzygotowania pytaƒ izadaƒ na egzamin, ustali Krajo- padku wyznaczenia dodatkowego terminu egzaminu wa Rada Radców Prawnych wdrodze uchwa∏y. notarialnego przepisy ustawy, której mowa art. 3 niniejszej ustawy, stosuje si´ z wy∏àczeniem termi4. Udzia∏ wegzaminie radcowskim jest odp∏atny. nów okreÊlonych art. 74 § 12, § 16 i art. 74a § 1 tej ustawy. 5. Op∏ata za udzia∏ egzaminie radcowskim jest wnoszona do w∏aÊciwej rady okr´gowej izby radców Art. 18.Ustawa wchodzi w˝ycie po up∏ywie 14 dni prawnych i stanowi jej przychód. Rada okr´gowej od dnia og∏oszenia. izby radców prawnych ustala wysokoÊç op∏aty za egzamin wdrodze uchwa∏y. Prezydent Rzeczypospolitej Polskiej:L. Kaczyƒski
+**Art. 12.** Przepisu art. 72a § 1 ustawy, której mowa art. 3, nie stosuje się do aplikantów notarialnych, którzy rozpoczęli aplikację przed dniem 10 września 2005 r. wilnego, postępowania cywilnego, rodzinnego iopiekuńczego, karnego, postępowania karnego, karnego skarbowego, wykroczeń, pracy iubezpieczeń społecznych, gospodarczego, spółek prawa handlowego, administracyjnego, postępowania administracyjnego, finansowego, konstytucyjnego, europejskiego oraz ustrojów sądów, samorządu adwokackiego i innych organów ochrony prawnej działających Rzeczypospolitej Polskiej, a także warunków wykonywania zawodu adwokata ietyki tego zawodu. 3. Zasady zdawania egzaminu adwokackiego dla aplikantów, októrych mowa wust. 1, wszczególności zakres egzaminu przy uwzględnieniu ust. 2, sposób jego przeprowadzenia, sposób oceny oraz sposób przygotowania pytań i zadań na egzamin, ustali Naczelna Rada Adwokacka wdrodze uchwały. 4. Udział wegzaminie adwokackim jest odpłatny. 5. Opłata za udział egzaminie adwokackim jest wnoszona do właściwej okręgowej rady adwokackiej i stanowi jej przychód. Okręgowa rada adwokacka ustala wysokość opłaty za egzamin wdrodze uchwały. 6. Okręgowa rada adwokacka powołuje drodze uchwały komisję egzaminacyjną do przeprowadzenia egzaminu adwokackiego, zwaną dalej Ńkomisją”, i wyznacza jej przewodniczącego. W przypadku dużej liczby osób przystępujących do egzaminu adwokackiego okręgowa rada adwokacka może powołać więcej niż jedną komisję. 7. W skład komisji wchodzi przedstawiciel Ministra Sprawiedliwości. 8. Za udział pracach komisji przysługuje wynagrodzenie. 9. Wynagrodzenie, którym mowa ust. 8, dla ——————— przedstawicieli Ministra Sprawiedliwości ustala się wysokości miesięcznego wynagrodzenia zasadni2. Celem egzaminu radcowskiego jest sprawdzenie przygotowania osoby przystępującej do tego egza- 8. Za udział pracach komisji przysługuje wynaminu do samodzielnego inależytego wykonywania za- grodzenie. wodu radcy prawnego, wtym wiedzy oraz jej praktycznego zastosowania, szczególności z zakresu prawa 9. Wynagrodzenie, którym mowa ust. 8, dla cywilnego, postępowania cywilnego, rodzinnego przedstawicieli Ministra Sprawiedliwości ustala się i opiekuńczego, karnego, postępowania karnego, kar- wysokości miesięcznego wynagrodzenia zasadninego skarbowego, wykroczeń, pracy i ubezpieczeń czego sędziego sądu okręgowego wpierwszej stawce społecznych, gospodarczego, spółek prawa handlo- awansowej, a koszty wynagrodzenia pokrywane są wego, administracyjnego, postępowania administra- zczęści budżetu państwa, która pozostaje wdyspozycyjnego, finansowego, konstytucyjnego, europejskie- cji Ministra Sprawiedliwości. go oraz ustrojów sądów, samorządu radcowskiego i innych organów ochrony prawnej działających 10. Rada okręgowej izby radców prawnych ponoRzeczypospolitej Polskiej, a także warunków wyko- si koszty związane zdziałaniem komisji oraz zapewnia nywania zawodu radcy prawnego ietyki tego zawodu. jej obsługę administracyjno-techniczną. 3. Zasady zdawania egzaminu radcowskiego dla Art. 17. W roku 2009 Minister Sprawiedliwości aplikantów, októrych mowa wust. 1, wszczególności może wyznaczyć dodatkowy termin egzaminu notazakres egzaminu przy uwzględnieniu ust. 2, sposób rialnego dla aplikantów notarialnych, którzy egzamin jego przeprowadzenia, sposób oceny oraz sposób konkursowy zdali dniu 10 grudnia 2005 r. W przyprzygotowania pytań izadań na egzamin, ustali Krajo- padku wyznaczenia dodatkowego terminu egzaminu wa Rada Radców Prawnych wdrodze uchwały. notarialnego przepisy ustawy, której mowa art. 3 niniejszej ustawy, stosuje się z wyłączeniem termi4. Udział wegzaminie radcowskim jest odpłatny. nów określonych art. 74 § 12, § 16 i art. 74a § 1 tej ustawy. 5. Opłata za udział egzaminie radcowskim jest wnoszona do właściwej rady okręgowej izby radców Art. 18.Ustawa wchodzi wżycie po upływie 14 dni prawnych i stanowi jej przychód. Rada okręgowej od dnia ogłoszenia. izby radców prawnych ustala wysokość opłaty za egzamin wdrodze uchwały. Prezydent Rzeczypospolitej Polskiej:L. Kaczyński
 

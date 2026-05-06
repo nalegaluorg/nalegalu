@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Praw Cz∏owieka (zwanego dalej „Trybuna∏em”), zarzucajàc naruszenie prawa do rozpoznania sprawy wroz- 3. W∏aÊciwy sàd niezw∏ocznie zawiadamia minisàdnym terminie, o którym mowa art. 6 ust. 1 Kon- stra w∏aÊciwego do spraw zagranicznych o skargach wencji o ochronie praw cz∏owieka i podstawowych wniesionych trybie, o którym mowa ust. 1.
+# Praw Człowieka (zwanego dalej ŃTrybunałem”), zarzucając naruszenie prawa do rozpoznania sprawy wroz- 3. Właściwy sąd niezwłocznie zawiadamia minisądnym terminie, o którym mowa art. 6 ust. 1 Kon- stra właściwego do spraw zagranicznych o skargach wencji o ochronie praw człowieka i podstawowych wniesionych trybie, o którym mowa ust. 1.
 
 | Pole | Wartość |
 |---|---|
@@ -24,47 +24,47 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041791845) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1845/text.pdf) |
 
-wolnoÊci (Dz. U. z 1993 r. 61, poz. 284, z 1995 r.
-36, poz. 175, 176 i 177, z 1998 r. 147, poz. 962 Art. 19. Ustawa wchodzi ˝ycie po up∏ywie mieoraz z 2003 r. 42, poz. 364), mogà wnieÊç skarg´ siàca od dnia og∏oszenia.
-o stwierdzenie przewlek∏oÊci post´powania na podstawie przepisów niniejszej ustawy, je˝eli skarga do Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1844
+wolności (Dz. U. z 1993 r. 61, poz. 284, z 1995 r.
+36, poz. 175, 176 i 177, z 1998 r. 147, poz. 962 Art. 19. Ustawa wchodzi życie po upływie mieoraz z 2003 r. 42, poz. 364), mogą wnieść skargę siąca od dnia ogłoszenia.
+o stwierdzenie przewlekłości postępowania na podstawie przepisów niniejszej ustawy, jeżeli skarga do Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1844
 USTAWA z dnia 1 lipca 2004 r.
-o nadaniu Wy˝szej Szkole Pedagogicznej Cz´stochowie nazwy „Akademia im. Jana D∏ugosza Cz´stochowie”
+o nadaniu Wyższej Szkole Pedagogicznej Częstochowie nazwy ŃAkademia im. Jana Długosza Częstochowie”
 
-**Art. 1.** Wy˝szej Szkole Pedagogicznej Cz´sto- Art. 2.Ustawa wchodzi w˝ycie zdniem 1paêdzierchowie nadaje si´ nazw´ „Akademia im. Jana D∏ugo- nika 2004 r. sza Cz´stochowie”. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA z dnia 15 lipca 2004 r. o zmianie ustawy Karta Nauczyciela oraz o zmianie niektórych innych ustaw
+**Art. 1.** Wyższej Szkole Pedagogicznej Często- Art. 2.Ustawa wchodzi wżycie zdniem 1paêdzierchowie nadaje się nazwę ŃAkademia im. Jana Długo- nika 2004 r. sza Częstochowie”. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA z dnia 15 lipca 2004 r. o zmianie ustawy Karta Nauczyciela oraz o zmianie niektórych innych ustaw
 
-**Art. 1.** Wustawie zdnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2003 r. 118, poz. 1112, z póên. zm. wodu, posiadajàcy kwalifikacje okreÊlone dla nauczycieli praktycznej nauki zawodu oraz wy) wprowadza si´ nast´pujàce zmiany: konujàcy prac´ dydaktycznà i wychowawczà wymiarze przewidzianym dla tych nauczy1) art. 1 ust. 2 pkt 4 otrzymuje brzmienie: cieli;”; „4) pracownicy zatrudnieni upracodawców niewy- 2) art. 3: mienionych ust. 1 i 1a oraz ust. 2 pkt 1—3, pe∏niàcy funkcj´ instruktorów praktycznej nauki a) pkt 1—3 otrzymujà brzmienie: zawodu oraz kierowników praktycznej nauki za- „1) nauczycielach bez bli˝szego okreÊlenia rozumie si´ przez to nauczycieli, wychowawców iinnych pracowników pedagogicznych zatrudnionych przedszkolach, szko∏ach i placówkach wymienionych art. 1 ust. 1 i 1a;
+**Art. 1.** Wustawie zdnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2003 r. 118, poz. 1112, z póên. zm. wodu, posiadający kwalifikacje określone dla nauczycieli praktycznej nauki zawodu oraz wy) wprowadza się następujące zmiany: konujący pracę dydaktyczną i wychowawczą wymiarze przewidzianym dla tych nauczy1) art. 1 ust. 2 pkt 4 otrzymuje brzmienie: cieli;”; Ń4) pracownicy zatrudnieni upracodawców niewy- 2) art. 3: mienionych ust. 1 i 1a oraz ust. 2 pkt 1—3, pełniący funkcję instruktorów praktycznej nauki a) pkt 1—3 otrzymują brzmienie: zawodu oraz kierowników praktycznej nauki za- Ń1) nauczycielach bez bliższego określenia rozumie się przez to nauczycieli, wychowawców iinnych pracowników pedagogicznych zatrudnionych przedszkolach, szkołach i placówkach wymienionych art. 1 ust. 1 i 1a;
 
-**Art. 2.** W ustawie z dnia 12 wrzeÊnia 1990 r. o szkolnictwie wy˝szym (Dz. U. 65, poz. 385, z póên. zm. danie legitymacji wysokoÊci nieprzekraczajàcej kosztów wytworzenia dokumentu. 3. Minister w∏aÊciwy do spraw szkolnictwa wy˝szego okreÊli, drodze rozporzàdzenia, wzór oraz tryb wystawiania legitymacji s∏u˝bowej, októrej mowa ust. 1, uwzgl´dniajàc szczególnoÊci potrzeb´ poÊwiadczenia zatrudnienia na stanowisku nauczyciela akademickiego, a tak˝e termin, jakim rektor zobowiàzany jest do wydania legitymacji.”.
+**Art. 2.** W ustawie z dnia 12 września 1990 r. o szkolnictwie wyższym (Dz. U. 65, poz. 385, z póên. zm. danie legitymacji wysokości nieprzekraczającej kosztów wytworzenia dokumentu. 3. Minister właściwy do spraw szkolnictwa wyższego określi, drodze rozporządzenia, wzór oraz tryb wystawiania legitymacji służbowej, októrej mowa ust. 1, uwzględniając szczególności potrzebę poświadczenia zatrudnienia na stanowisku nauczyciela akademickiego, a także termin, jakim rektor zobowiązany jest do wydania legitymacji.”.
 
-**Art. 3.** W ustawie z dnia 26 czerwca 1997 r. o wy˝szych szko∏ach zawodowych (Dz. U. 96, poz. 590, z póên. zm. ) po art. 92 dodaje si´ art. 92a brzmieniu: ) po art. 61 dodaje si´ art. 61a brzmieniu: „Art. 61a. Do nauczyciela akademickiego paƒstwowej uczelni zawodowej stosuje si´ odpowiednio art. 92a ustawy z dnia 12wrzeÊnia 1990 r. o szkolnictwie wy˝szym (Dz.U. 65, poz. 385, zpóên. zm. ).”.
+**Art. 3.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. 96, poz. 590, z póên. zm. ) po art. 92 dodaje się art. 92a brzmieniu: ) po art. 61 dodaje się art. 61a brzmieniu: ŃArt. 61a. Do nauczyciela akademickiego państwowej uczelni zawodowej stosuje się odpowiednio art. 92a ustawy z dnia 12września 1990 r. o szkolnictwie wyższym (Dz.U. 65, poz. 385, zpóên. zm. ).”.
 
-**Art. 4.** W ustawie z dnia 18 grudnia 1998 r. o s∏u˝bie cywilnej (Dz. U. z 1999 r. 49, poz. 483, z póên. zm. ) art. 95 otrzymuje brzmienie: „Art. 95. Cz∏onkom korpusu s∏u˝by cywilnej zatrudnionym na stanowisku kuratora oÊwiaty lub na stanowiskach wymagajàcych kwalifikacji pedagogicznych przys∏ugujà uprawnienia okreÊlone wart.9a—9i, 51, 58—60, 86, 88 i 90 ustawy z dnia 26stycznia 1982 r. Karta Nauczyciela ——————— trudnienia, od którego zale˝à uprawnienia nauczyciela okreÊlone tej ustawie.”.
+**Art. 4.** W ustawie z dnia 18 grudnia 1998 r. o służbie cywilnej (Dz. U. z 1999 r. 49, poz. 483, z póên. zm. ) art. 95 otrzymuje brzmienie: ŃArt. 95. Członkom korpusu służby cywilnej zatrudnionym na stanowisku kuratora oświaty lub na stanowiskach wymagających kwalifikacji pedagogicznych przysługują uprawnienia określone wart.9a—9i, 51, 58—60, 86, 88 i 90 ustawy z dnia 26stycznia 1982 r. Karta Nauczyciela ——————— trudnienia, od którego zależą uprawnienia nauczyciela określone tej ustawie.”.
 
-**Art. 5.** Do nauczycieli kontraktowych lub mianowanych posiadajàcych stopieƒ naukowy doktora oraz nauczycieli kontraktowych, którzy stopieƒ awansu uzyskali trybie art. 9a ust. 3 ustawy wymienionej art.1, b´dàcych dniu wejÊcia ˝ycie ustawy trakcie odbywania sta˝u na wy˝szy stopieƒ awansu zawodowego wtrybie art. 9cust. 2 ustawy wymienionej art. 1, stosuje si´ przepisy dotyczàce wymiaru sta˝u obowiàzujàce do dnia wejÊcia ˝ycie niniejszej ustawy.
+**Art. 5.** Do nauczycieli kontraktowych lub mianowanych posiadających stopień naukowy doktora oraz nauczycieli kontraktowych, którzy stopień awansu uzyskali trybie art. 9a ust. 3 ustawy wymienionej art.1, będących dniu wejścia życie ustawy trakcie odbywania stażu na wyższy stopień awansu zawodowego wtrybie art. 9cust. 2 ustawy wymienionej art. 1, stosuje się przepisy dotyczące wymiaru stażu obowiązujące do dnia wejścia życie niniejszej ustawy.
 
 **Art. 6.**
 
-1. Nauczyciele wpisani na list´, októrej mowa art. 9g ust. 11 ustawy wymienionej art. 1, przed dniem wejÊcia ˝ycie ustawy sà zobowiàzani, terminie do dnia 31 grudnia 2006 r., do ukoƒczenia szkolenia, októrym mowa wart. 9gust. 11apkt 3 ustawy wymienionej wart. 1 wbrzmieniu nadanym niniejszà ustawà.
+1. Nauczyciele wpisani na listę, októrej mowa art. 9g ust. 11 ustawy wymienionej art. 1, przed dniem wejścia życie ustawy są zobowiązani, terminie do dnia 31 grudnia 2006 r., do ukończenia szkolenia, októrym mowa wart. 9gust. 11apkt 3 ustawy wymienionej wart. 1 wbrzmieniu nadanym niniejszą ustawą.
 
-2. W przypadku niez∏o˝enia ministrowi w∏aÊciwemu do spraw oÊwiaty iwychowania dokumentów potwierdzajàcych ukoƒczenie szkolenia dla kandydatów na ekspertów, októrym mowa wust. 1, nauczyciele ci zostajà skreÊleni z listy ekspertów z mocy prawa z dniem 1 stycznia 2007 r.
+2. W przypadku niezłożenia ministrowi właściwemu do spraw oświaty iwychowania dokumentów potwierdzających ukończenie szkolenia dla kandydatów na ekspertów, októrym mowa wust. 1, nauczyciele ci zostają skreśleni z listy ekspertów z mocy prawa z dniem 1 stycznia 2007 r.
 
-3. Post´powania owpis na list´ ekspertów wszcz´te iniezakoƒczone przed dniem wejÊcia w˝ycie niniejszej ustawy prowadzone sà na podstawie przepisów obowiàzujàcych przed dniem jej wejÊcia ˝ycie. Wstosunku do tych nauczycieli przepisy ust. 1 i2 stosuje si´ odpowiednio.
+3. Postępowania owpis na listę ekspertów wszczęte iniezakończone przed dniem wejścia wżycie niniejszej ustawy prowadzone są na podstawie przepisów obowiązujących przed dniem jej wejścia życie. Wstosunku do tych nauczycieli przepisy ust. 1 i2 stosuje się odpowiednio.
 
 **Art. 7.**
 
-1. Nauczyciele, którym udzielono urlopu bezp∏atnego wzwiàzku znawiàzaniem stosunku pracy na podstawie wyboru, sà zobowiàzani do z∏o˝enia, terminie 30 dni od dnia wejÊcia ˝ycie ustawy, rezygnacji z zajmowanego stanowiska dyrektora, je˝eli nie uczynili tego przed udzieleniem im urlopu.
+1. Nauczyciele, którym udzielono urlopu bezpłatnego wzwiązku znawiązaniem stosunku pracy na podstawie wyboru, są zobowiązani do złożenia, terminie 30 dni od dnia wejścia życie ustawy, rezygnacji z zajmowanego stanowiska dyrektora, jeżeli nie uczynili tego przed udzieleniem im urlopu.
 
-2. W przypadku niez∏o˝enia rezygnacji, o której mowa ust. 1, powierzenie stanowiska dyrektora szko∏y wygasa z mocy prawa z up∏ywem 30 dni od dnia wejÊcia ˝ycie ustawy.
+2. W przypadku niezłożenia rezygnacji, o której mowa ust. 1, powierzenie stanowiska dyrektora szkoły wygasa z mocy prawa z upływem 30 dni od dnia wejścia życie ustawy.
 
-**Art. 8.** Nauczyciele, którzy dniu wejÊcia ˝ycie ustawy przebywajà na urlopach dla poratowania zdrowia, zachowujà prawo do tych urlopów do koƒca okresu, na jaki ich udzielono, chyba ˝e wczeÊniej zostanà odwo∏ani z urlopu na podstawie art. 73 ust. 7 ustawy wymienionej wart. 1, wbrzmieniu nadanym niniejszà ustawà.
+**Art. 8.** Nauczyciele, którzy dniu wejścia życie ustawy przebywają na urlopach dla poratowania zdrowia, zachowują prawo do tych urlopów do końca okresu, na jaki ich udzielono, chyba że wcześniej zostaną odwołani z urlopu na podstawie art. 73 ust. 7 ustawy wymienionej wart. 1, wbrzmieniu nadanym niniejszą ustawą.
 
-**Art. 9.** Nauczyciele, którzy dniu wejÊcia ˝ycie ustawy przebywajà na urlopach dla poratowania zdrozasi∏ku na zagospodarowanie, je˝eli do dnia wejÊcia ˝ycie ustawy nauczycielowi wyp∏acono zasi∏ek na zasadach obowiàzujàcych przed dniem wejÊcia ˝ycie ustawy.
+**Art. 9.** Nauczyciele, którzy dniu wejścia życie ustawy przebywają na urlopach dla poratowania zdrozasiłku na zagospodarowanie, jeżeli do dnia wejścia życie ustawy nauczycielowi wypłacono zasiłek na zasadach obowiązujących przed dniem wejścia życie ustawy.
 
-**Art. 11.** Wynagrodzenie miesi´czne nauczycieli, októrych mowa wart. 1 ust. 2 pkt 1 ustawy wymienionej art. 1, ustalone zgodnie z przepisami niniejszej ustawy nie mo˝e byç ni˝sze od ich dotychczasowego miesi´cznego wynagrodzenia.
+**Art. 11.** Wynagrodzenie miesięczne nauczycieli, októrych mowa wart. 1 ust. 2 pkt 1 ustawy wymienionej art. 1, ustalone zgodnie z przepisami niniejszej ustawy nie może być niższe od ich dotychczasowego miesięcznego wynagrodzenia.
 
-**Art. 12.** Przepisy wykonawcze wydane przed dniem wejÊcia ˝ycie ustawy, na podstawie art. 9 ust.2, art. 9gust. 10, art. 30 ust. 5, 7 i7a, art. 32 ust. 2, art. 49 ust. 2 i art. 73 ust. 4 ustawy wymienionej art.1 brzmieniu obowiàzujàcym do dnia wejÊcia ˝ycie niniejszej ustawy zachowujà moc do czasu wydania nowych przepisów wykonawczych na podstawie upowa˝nieƒ brzmieniu nadanym niniejszà ustawà.
+**Art. 12.** Przepisy wykonawcze wydane przed dniem wejścia życie ustawy, na podstawie art. 9 ust.2, art. 9gust. 10, art. 30 ust. 5, 7 i7a, art. 32 ust. 2, art. 49 ust. 2 i art. 73 ust. 4 ustawy wymienionej art.1 brzmieniu obowiązującym do dnia wejścia życie niniejszej ustawy zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie upoważnień brzmieniu nadanym niniejszą ustawą.
 
-**Art. 13.** Organy prowadzàce szko∏y, terminie dwóch miesi´cy od dnia wejÊcia ˝ycie niniejszej ustawy:
+**Art. 13.** Organy prowadzące szkoły, terminie dwóch miesięcy od dnia wejścia życie niniejszej ustawy:
 
-**Art. 14.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem art. 30 ust. 6 i 6b ustawy, o której mowa art. 1, brzmieniu nadanym niniejszà ustawà, który wchodzi w˝ycie zdniem 1 stycznia 2005 r. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+**Art. 14.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 30 ust. 6 i 6b ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą, który wchodzi wżycie zdniem 1 stycznia 2005 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

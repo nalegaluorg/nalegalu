@@ -25,776 +25,788 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070890589) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/589/text.pdf) |
 
 USTAWA z dnia 13 kwietnia 2007 r.
-o Paƒstwowej Inspekcji Pracy Rozdzia∏ 1 strzegania prawa pracy, w szczególnoÊci przepisów izasad bezpieczeƒstwa ihigieny pracy, atak˝e przepiOrganizacja Paƒstwowej Inspekcji Pracy sów dotyczàcych legalnoÊci zatrudnienia i innej pracy zarobkowej w zakresie okreÊlonym w ustawie.
+o Państwowej Inspekcji Pracy
 
-**Art. 1.** Paƒstwowa Inspekcja Pracy jest organem powo∏anym do sprawowania nadzoru i kontroli prze- Art. 2. Paƒstwowa Inspekcja Pracy podlega Sejmowi. Nadzór nad Paƒstwowà Inspekcjà Pracy w zakresie okreÊlonym wustawie sprawuje Rada Ochrony Pracy.
+#### Rozdział 1 strzegania prawa pracy, w szczególności przepisów izasad bezpieczeństwa ihigieny pracy, atakże przepiOrganizacja Państwowej Inspekcji Pracy sów dotyczących legalności zatrudnienia i innej pracy zarobkowej w zakresie określonym w ustawie.
+
+**Art. 1.** Państwowa Inspekcja Pracy jest organem powołanym do sprawowania nadzoru i kontroli prze- Art. 2. Państwowa Inspekcja Pracy podlega Sejmowi. Nadzór nad Państwową Inspekcją Pracy w zakresie określonym wustawie sprawuje Rada Ochrony Pracy.
 
 **Art. 3.**
 
-1. Jednostkami organizacyjnymi Paƒstwowej Inspekcji Pracy sà: G∏ówny Inspektorat Pracy oraz okr´gowe inspektoraty pracy.
+1. Jednostkami organizacyjnymi Państwowej Inspekcji Pracy są: Główny Inspektorat Pracy oraz okręgowe inspektoraty pracy.
 
-2. Paƒstwowà Inspekcjà Pracy kieruje G∏ówny Inspektor Pracy przy pomocy zast´pców.
+2. Państwową Inspekcją Pracy kieruje Główny Inspektor Pracy przy pomocy zastępców.
 
 **Art. 4.**
 
-1. G∏ównego Inspektora Pracy powo∏uje i odwo∏uje Marsza∏ek Sejmu po zasi´gni´ciu opinii ——————— Rady Ochrony Pracy.
+1. Głównego Inspektora Pracy powołuje i odwołuje Marszałek Sejmu po zasięgnięciu opinii ——————— Rady Ochrony Pracy.
 
-2. G∏ówny Inspektor Pracy pe∏ni obowiàzki do dnia powo∏ania jego nast´pcy.
+2. Główny Inspektor Pracy pełni obowiązki do dnia powołania jego następcy.
 
-3. Zast´pców G∏ównego Inspektora Pracy powo∏uje iodwo∏uje Marsza∏ek Sejmu, na wniosek G∏ównego Inspektora Pracy.
+3. Zastępców Głównego Inspektora Pracy powołuje iodwołuje Marszałek Sejmu, na wniosek Głównego Inspektora Pracy.
 
 **Art. 5.**
 
-1. Okr´gowy inspektorat pracy obejmuje zakresem swojej w∏aÊciwoÊci terytorialnej obszar jednego lub wi´cej województw. Wokr´gowych inspektoratach pracy mogà byç tworzone oddzia∏y.
+1. Okręgowy inspektorat pracy obejmuje zakresem swojej właściwości terytorialnej obszar jednego lub więcej województw. Wokręgowych inspektoratach pracy mogą być tworzone oddziały.
 
-2. Okr´gowym inspektoratem pracy kieruje okr´gowy inspektor pracy przy pomocy zast´pców.
+2. Okręgowym inspektoratem pracy kieruje okręgowy inspektor pracy przy pomocy zastępców.
 
-3. Okr´gowych inspektorów pracy oraz ich zast´pców powo∏uje i odwo∏uje G∏ówny Inspektor Pracy.
+3. Okręgowych inspektorów pracy oraz ich zastępców powołuje i odwołuje Główny Inspektor Pracy.
 
 **Art. 6.**
 
-1. Marsza∏ek Sejmu na wniosek G∏ównego Inspektora Pracy ustali, w drodze zarzàdzenia:
+1. Marszałek Sejmu na wniosek Głównego Inspektora Pracy ustali, w drodze zarządzenia:
 
-- **1)** statut Paƒstwowej Inspekcji Pracy, okreÊlajàcy jej organizacj´ wewn´trznà;
-- **2)** siedziby i zakres terytorialnej w∏aÊciwoÊci okr´gowych inspektoratów pracy.
+- **1)** statut Państwowej Inspekcji Pracy, określający jej organizację wewnętrzną;
+- **2)** siedziby i zakres terytorialnej właściwości okręgowych inspektoratów pracy.
 
-2. Zarzàdzenia Marsza∏ka Sejmu w sprawach, o których mowa w ust. 1, podlegajà og∏oszeniu w Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”.
+2. Zarządzenia Marszałka Sejmu w sprawach, o których mowa w ust. 1, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”.
 
 **Art. 7.**
 
-1. Powo∏uje si´ Rad´ Ochrony Pracy, zwanà dalej „Radà”, jako organ nadzoru w sprawach dotyczàcych przestrzegania prawa pracy, w tym bezpieczeƒstwa ihigieny pracy, atak˝e legalnoÊci zatrudnienia oraz dzia∏alnoÊci Paƒstwowej Inspekcji Pracy.
+1. Powołuje się Radę Ochrony Pracy, zwaną dalej ŃRadą”, jako organ nadzoru w sprawach dotyczących przestrzegania prawa pracy, w tym bezpieczeństwa ihigieny pracy, atakże legalności zatrudnienia oraz działalności Państwowej Inspekcji Pracy.
 
-2. Wsk∏ad Rady wchodzi 30 cz∏onków, wtym przewodniczàcy, zast´pcy przewodniczàcego, sekretarz i cz∏onkowie, których powo∏uje i odwo∏uje Marsza∏ek Sejmu. Kadencja Rady trwa cztery lata.
+2. Wskład Rady wchodzi 30 członków, wtym przewodniczący, zastępcy przewodniczącego, sekretarz i członkowie, których powołuje i odwołuje Marszałek Sejmu. Kadencja Rady trwa cztery lata.
 
-3. Cz∏onkowie Rady pe∏nià obowiàzki do dnia powo∏ania nowych cz∏onków.
+3. Członkowie Rady pełnią obowiązki do dnia powołania nowych członków.
 
-4. Cz∏onków Rady powo∏uje si´ spoÊród pos∏ów, senatorów i kandydatów zg∏oszonych przez Prezesa Rady Ministrów oraz przez organizacje zwiàzkowe iorganizacje pracodawców reprezentatywne w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Spo∏eczno-Gospodarczych i wojewódzkich komisjach dialogu spo∏ecznego (Dz. U. 100, poz. 1080, z póên. zm.
+4. Członków Rady powołuje się spośród posłów, senatorów i kandydatów zgłoszonych przez Prezesa Rady Ministrów oraz przez organizacje związkowe iorganizacje pracodawców reprezentatywne w rozumieniu ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. 100, poz. 1080, z póên. zm.
 
-6. Zasady reprezentacji w Radzie oraz wysokoÊç diety cz∏onków Rady za udzia∏ w jej pracach okreÊla Marsza∏ek Sejmu w drodze zarzàdzenia.
+6. Zasady reprezentacji w Radzie oraz wysokość diety członków Rady za udział w jej pracach określa Marszałek Sejmu w drodze zarządzenia.
 
-7. Do zadaƒ Rady nale˝y wyra˝anie stanowiska w sprawach z zakresu dzia∏ania Paƒstwowej Inspekcji Pracy, w szczególnoÊci dotyczàcych:
+7. Do zadań Rady należy wyrażanie stanowiska w sprawach z zakresu działania Państwowej Inspekcji Pracy, w szczególności dotyczących:
 
-- **1)** programów dzia∏alnoÊci i zadaƒ Paƒstwowej Inspekcji Pracy;
-- **2)** okresowych ocen dzia∏alnoÊci Paƒstwowej Inspekcji Pracy oraz wniosków wynikajàcych ztych ocen;
-- **3)** problemów ochrony pracy o zasi´gu ogólnokrajowym.
+- **1)** programów działalności i zadań Państwowej Inspekcji Pracy;
+- **2)** okresowych ocen działalności Państwowej Inspekcji Pracy oraz wniosków wynikających ztych ocen;
+- **3)** problemów ochrony pracy o zasięgu ogólnokrajowym.
 
-8. Rada wyra˝a opini´ o kandydatach na stanowiska G∏ównego Inspektora Pracy i jego zast´pców oraz okr´gowych inspektorów pracy.
+8. Rada wyraża opinię o kandydatach na stanowiska Głównego Inspektora Pracy i jego zastępców oraz okręgowych inspektorów pracy.
 
-9. Rada dzia∏a na podstawie uchwalonego przez siebie regulaminu, zatwierdzonego przez Marsza∏ka ), a tak˝e przez inne organizacje spo∏eczne zajmujàce si´ problematykà ochrony pracy. Do Rady powo∏uje si´ tak˝e ekspertów i przedstawicieli nauki.
+9. Rada działa na podstawie uchwalonego przez siebie regulaminu, zatwierdzonego przez Marszałka ), a także przez inne organizacje społeczne zajmujące się problematyką ochrony pracy. Do Rady powołuje się także ekspertów i przedstawicieli nauki.
 
-5. W sk∏ad Rady nie mo˝na powo∏aç pracownika Paƒstwowej Inspekcji Pracy, chyba ˝e korzysta on z urlopu bezp∏atnego udzielonego w celu wykonywania funkcji z wyboru. Sejmu.
+5. W skład Rady nie można powołać pracownika Państwowej Inspekcji Pracy, chyba że korzysta on z urlopu bezpłatnego udzielonego w celu wykonywania funkcji z wyboru. Sejmu.
 
 **Art. 8.**
 
-1. Paƒstwowa Inspekcja Pracy prowadzi placówk´ szkoleniowà OÊrodek Szkolenia Paƒstwowej Inspekcji Pracy im. Profesora Jana Rosnera we Wroc∏awiu, zwanà dalej „OÊrodkiem”.
+1. Państwowa Inspekcja Pracy prowadzi placówkę szkoleniową Ośrodek Szkolenia Państwowej Inspekcji Pracy im. Profesora Jana Rosnera we Wrocławiu, zwaną dalej ŃOśrodkiem”.
 
-2. Do zadaƒ OÊrodka nale˝y szkolenie idoskonalenie kadr Paƒstwowej Inspekcji Pracy oraz upowszechnianie wiedzy iinformacji, atak˝e doradztwo wzakresie ochrony pracy.
+2. Do zadań Ośrodka należy szkolenie idoskonalenie kadr Państwowej Inspekcji Pracy oraz upowszechnianie wiedzy iinformacji, atakże doradztwo wzakresie ochrony pracy.
 
-3. G∏ówny Inspektor Pracy nadaje OÊrodkowi statut oraz, na wniosek dyrektora OÊrodka, okreÊla jego szczegó∏owà organizacj´ wewn´trznà.
+3. Główny Inspektor Pracy nadaje Ośrodkowi statut oraz, na wniosek dyrektora Ośrodka, określa jego szczegółową organizację wewnętrzną.
 
 **Art. 9.**
 
-1. G∏ówny Inspektor Pracy nadaje uprawnienia rzeczoznawcy do spraw bezpieczeƒstwa ihigieny pracy na wniosek Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców, zwanej dalej „Komisjà”, oraz prowadzi centralny rejestr wydanych uprawnieƒ.
+1. Główny Inspektor Pracy nadaje uprawnienia rzeczoznawcy do spraw bezpieczeństwa ihigieny pracy na wniosek Komisji Kwalifikacyjnej do Oceny Kandydatów na Rzeczoznawców, zwanej dalej ŃKomisją”, oraz prowadzi centralny rejestr wydanych uprawnień.
 
-2. Uprawnienia rzeczoznawcy do spraw bezpieczeƒstwa ihigieny pracy, zwanego dalej „rzeczoznawcà”, mogà byç nadane osobie, która:
+2. Uprawnienia rzeczoznawcy do spraw bezpieczeństwa ihigieny pracy, zwanego dalej Ńrzeczoznawcą”, mogą być nadane osobie, która:
 
-- **1)** ukoƒczy∏a wy˝sze studia techniczne;
-- **2)** legitymuje si´ co najmniej 5-letnià praktykà zawodowà w zakresie ukoƒczonego kierunku studiów;
-- **3)** ukoƒczy∏a kurs przygotowujàcy do opiniowania projektów w zakresie bezpieczeƒstwa i higieny pracy oraz ergonomii, przeprowadzony przez podmiot upowa˝niony przez G∏ównego Inspektora Pracy, wed∏ug programu zatwierdzonego przez G∏ównego Inspektora Pracy;
-- **4)** z∏o˝y∏a, z wynikiem pozytywnym, egzamin przed Komisjà.
+- **1)** ukończyła wyższe studia techniczne;
+- **2)** legitymuje się co najmniej 5-letnią praktyką zawodową w zakresie ukończonego kierunku studiów;
+- **3)** ukończyła kurs przygotowujący do opiniowania projektów w zakresie bezpieczeństwa i higieny pracy oraz ergonomii, przeprowadzony przez podmiot upoważniony przez Głównego Inspektora Pracy, według programu zatwierdzonego przez Głównego Inspektora Pracy;
+- **4)** złożyła, z wynikiem pozytywnym, egzamin przed Komisją.
 
-3. Nadane uprawnienia upowa˝niajà rzeczoznaw——————— c´ do opiniowania projektów nowo budowanych lub przebudowywanych obiektów budowlanych albo ich cz´Êci, w których przewiduje si´ pomieszczenia pracy, pod wzgl´dem zgodnoÊci z przepisami bezpieczeƒstwa i higieny pracy oraz wymaganiami ergonomii.
+3. Nadane uprawnienia upoważniają rzeczoznaw——————— cę do opiniowania projektów nowo budowanych lub przebudowywanych obiektów budowlanych albo ich części, w których przewiduje się pomieszczenia pracy, pod względem zgodności z przepisami bezpieczeństwa i higieny pracy oraz wymaganiami ergonomii.
 
-4. G∏ówny Inspektor Pracy, z w∏asnej inicjatywy lub na wniosek w∏aÊciwego okr´gowego inspektora pracy, mo˝e cofnàç uprawnienia rzeczoznawcy w przypadku wydania przez niego opinii naruszajàcej w sposób ra˝àcy przepisy bezpieczeƒstwa i higieny pracy. G∏ówny Inspektor Pracy mo˝e tak˝e cofnàç uprawnienia rzeczoznawcy na wniosek okr´gowego inspektora pracy, w∏aÊciwego ze wzgl´du na lokalizacj´ obiektu budowlanego, w przypadku stwierdzenia podczas odbioru tego obiektu lub jego eksploatacji, ˝e w opinii wydanej przez rzeczoznawc´ nie uwzgl´dniono istotnych przepisów bezpieczeƒstwa i higieny pracy. Decyzja o cofni´ciu uprawnieƒ rzeczoznawcy powinna byç podj´ta po uprzednim rozpatrzeniu jego wyjaÊnieƒ.
+4. Główny Inspektor Pracy, z własnej inicjatywy lub na wniosek właściwego okręgowego inspektora pracy, może cofnąć uprawnienia rzeczoznawcy w przypadku wydania przez niego opinii naruszającej w sposób rażący przepisy bezpieczeństwa i higieny pracy. Główny Inspektor Pracy może także cofnąć uprawnienia rzeczoznawcy na wniosek okręgowego inspektora pracy, właściwego ze względu na lokalizację obiektu budowlanego, w przypadku stwierdzenia podczas odbioru tego obiektu lub jego eksploatacji, że w opinii wydanej przez rzeczoznawcę nie uwzględniono istotnych przepisów bezpieczeństwa i higieny pracy. Decyzja o cofnięciu uprawnień rzeczoznawcy powinna być podjęta po uprzednim rozpatrzeniu jego wyjaśnień.
 
-5. Cz∏onków Komisji, na 4-letnià kadencj´, powo∏uje G∏ówny Inspektor Pracy w porozumieniu z ministrem w∏aÊciwym do spraw pracy spoÊród kandydatów zg∏oszonych przez:
+5. Członków Komisji, na 4-letnią kadencję, powołuje Główny Inspektor Pracy w porozumieniu z ministrem właściwym do spraw pracy spośród kandydatów zgłoszonych przez:
 
-- **1)** G∏ówny Urzàd Nadzoru Budowlanego,
-- **2)** organizacje techniczne, stowarzyszenia zawodowe, izby samorzàdu zawodowego okreÊlone wustawie o samorzàdach zawodowych architektów, in˝ynierów budownictwa oraz urbanistów oraz spoÊród przedstawicieli nauki i pracowników Paƒstwowej Inspekcji Pracy. W sk∏ad Komisji wchodzi 8 osób.
+- **1)** Główny Urząd Nadzoru Budowlanego,
+- **2)** organizacje techniczne, stowarzyszenia zawodowe, izby samorządu zawodowego określone wustawie o samorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów oraz spośród przedstawicieli nauki i pracowników Państwowej Inspekcji Pracy. W skład Komisji wchodzi 8 osób.
 
-6. G∏ówny Inspektor Pracy wporozumieniu zministrem w∏aÊciwym do spraw pracy mo˝e odwo∏aç cz∏onka Komisji:
+6. Główny Inspektor Pracy wporozumieniu zministrem właściwym do spraw pracy może odwołać członka Komisji:
 
-- **1)** na wniosek podmiotu, który zg∏osi∏ jego kandydatur´;
+- **1)** na wniosek podmiotu, który zgłosił jego kandydaturę;
 - **2)** w przypadku systematycznego nieuczestniczenia w pracach Komisji.
 
-7. Cz∏onkowie Komisji otrzymujà za udzia∏ w pracach Komisji wynagrodzenie, a tak˝e diety i zwrot kosztów podró˝y na zasadach okreÊlonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+7. Członkowie Komisji otrzymują za udział w pracach Komisji wynagrodzenie, a także diety i zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
 
-8. Koszty zwiàzane zprzygotowaniem kandydatów na rzeczoznawców, podnoszeniem kwalifikacji przez rzeczoznawców oraz nadawaniem uprawnieƒ rzeczoznawcom, ustalone przez G∏ównego Inspektora Pracy, ponosi odpowiednio kandydat na rzeczoznawc´ lub rzeczoznawca.
+8. Koszty związane zprzygotowaniem kandydatów na rzeczoznawców, podnoszeniem kwalifikacji przez rzeczoznawców oraz nadawaniem uprawnień rzeczoznawcom, ustalone przez Głównego Inspektora Pracy, ponosi odpowiednio kandydat na rzeczoznawcę lub rzeczoznawca.
 
-9. Minister w∏aÊciwy do spraw pracy po zasi´gni´ciu opinii G∏ównego Inspektora Pracy okreÊli, w drodze rozporzàdzenia:
+9. Minister właściwy do spraw pracy po zasięgnięciu opinii Głównego Inspektora Pracy określi, w drodze rozporządzenia:
 
-- **1)** szczegó∏owe warunki oraz tryb nadawania i cofania dotyczàce przygotowania kandydatów na rzeczoznawców i podnoszenia kwalifikacji przez rzeczoznawców, bioràc pod uwag´ poziom wykszta∏cenia, dotychczasowà praktyk´ zawodowà w zakresie opiniowania projektów obiektów budowlanych, atak˝e koniecznoÊç okresowego szkolenia;
-- **2)** zakres nadawanych uprawnieƒ, o którym mowa wust. 3, wzór uprawnieƒ rzeczoznawcy, wzór klauzuli i piecz´ci imiennej oraz wzór rejestru opiniowanych projektów, bioràc pod uwag´ rodzaj budownictwa i podzia∏ na grupy projektowe;
-- **3)** wymagania dotyczàce opinii rzeczoznawców o projektach nowo budowanych lub przebudowywanych obiektów budowlanych albo ich cz´Êci, wktórych przewiduje si´ wykonywanie pracy, oraz tryb post´powania odwo∏awczego od tych opinii, bioràc pod uwag´ specyfik´, charakter i przeznaczenie obiektu budowlanego, a tak˝e zgodnoÊç przyj´tych rozwiàzaƒ z obowiàzujàcymi przepisami i normami;
-- **4)** tryb powo∏ywania i odwo∏ywania cz∏onków Komisji, sposób dzia∏ania tej Komisji iprzeprowadzania egzaminu, bioràc pod uwag´ koniecznoÊç zapewnienia sprawnego funkcjonowania Komisji;
-- **5)** wysokoÊç wynagrodzenia cz∏onków Komisji, bioràc pod uwag´ zakres wykonywanych czynnoÊci. Rozdzia∏ 2 Zadania Paƒstwowej Inspekcji Pracy
+- **1)** szczegółowe warunki oraz tryb nadawania i cofania dotyczące przygotowania kandydatów na rzeczoznawców i podnoszenia kwalifikacji przez rzeczoznawców, biorąc pod uwagę poziom wykształcenia, dotychczasową praktykę zawodową w zakresie opiniowania projektów obiektów budowlanych, atakże konieczność okresowego szkolenia;
+- **2)** zakres nadawanych uprawnień, o którym mowa wust. 3, wzór uprawnień rzeczoznawcy, wzór klauzuli i pieczęci imiennej oraz wzór rejestru opiniowanych projektów, biorąc pod uwagę rodzaj budownictwa i podział na grupy projektowe;
+- **3)** wymagania dotyczące opinii rzeczoznawców o projektach nowo budowanych lub przebudowywanych obiektów budowlanych albo ich części, wktórych przewiduje się wykonywanie pracy, oraz tryb postępowania odwoławczego od tych opinii, biorąc pod uwagę specyfikę, charakter i przeznaczenie obiektu budowlanego, a także zgodność przyjętych rozwiązań z obowiązującymi przepisami i normami;
+- **4)** tryb powoływania i odwoływania członków Komisji, sposób działania tej Komisji iprzeprowadzania egzaminu, biorąc pod uwagę konieczność zapewnienia sprawnego funkcjonowania Komisji;
+- **5)** wysokość wynagrodzenia członków Komisji, biorąc pod uwagę zakres wykonywanych czynności.
+
+#### Rozdział 2 Zadania Państwowej Inspekcji Pracy
 
 **Art. 10.**
 
-1. Do zadaƒ Paƒstwowej Inspekcji Pracy nale˝y:
+1. Do zadań Państwowej Inspekcji Pracy należy:
 
-- **1)** nadzór i kontrola przestrzegania przepisów prawa pracy, w szczególnoÊci przepisów i zasad bezpieczeƒstwa i higieny pracy, przepisów dotyczàcych stosunku pracy, wynagrodzenia za prac´ i innych Êwiadczeƒ wynikajàcych ze stosunku pracy, czasu pracy, urlopów, uprawnieƒ pracowników zwiàzanych zrodzicielstwem, zatrudniania m∏odocianych i osób niepe∏nosprawnych;
-- **2)** kontrola przestrzegania przepisów bezpieczeƒstwa i higieny pracy przy projektowaniu budowy, przebudowy imodernizacji zak∏adów pracy oraz stanowiàcych ich wyposa˝enie maszyn i innych urzàdzeƒ technicznych oraz technologii;
-- **3)** kontrola legalnoÊci zatrudnienia, innej pracy zarobkowej, wykonywania dzia∏alnoÊci oraz kontrola przestrzegania obowiàzku:
-    - **a)** informowania powiatowych urz´dów pracy o zatrudnieniu bezrobotnego lub powierzeniu mu wykonywania innej pracy zarobkowej,
-    - **b)** informowania powiatowych urz´dów pracy przez bezrobotnych opodj´ciu zatrudnienia, innej pracy zarobkowej lub dzia∏alnoÊci, nia uprawnieƒ rzeczoznawców, a tak˝e wymaga- c) op∏acania sk∏adek na Fundusz Pracy;
-    - **d)** dokonania wpisu do rejestru agencji zatrudnienia dzia∏alnoÊci, której prowadzenie jest uzale˝nione od uzyskania wpisu do tego rejestru,
-    - **e)** prowadzenia agencji zatrudnienia zgodnie zwarunkami okreÊlonymi w przepisach o promocji zatrudnienia i instytucjach rynku pracy;
+- **1)** nadzór i kontrola przestrzegania przepisów prawa pracy, w szczególności przepisów i zasad bezpieczeństwa i higieny pracy, przepisów dotyczących stosunku pracy, wynagrodzenia za pracę i innych świadczeń wynikających ze stosunku pracy, czasu pracy, urlopów, uprawnień pracowników związanych zrodzicielstwem, zatrudniania młodocianych i osób niepełnosprawnych;
+- **2)** kontrola przestrzegania przepisów bezpieczeństwa i higieny pracy przy projektowaniu budowy, przebudowy imodernizacji zakładów pracy oraz stanowiących ich wyposażenie maszyn i innych urządzeń technicznych oraz technologii;
+- **3)** kontrola legalności zatrudnienia, innej pracy zarobkowej, wykonywania działalności oraz kontrola przestrzegania obowiązku:
+    - **a)** informowania powiatowych urzędów pracy o zatrudnieniu bezrobotnego lub powierzeniu mu wykonywania innej pracy zarobkowej,
+    - **b)** informowania powiatowych urzędów pracy przez bezrobotnych opodjęciu zatrudnienia, innej pracy zarobkowej lub działalności, nia uprawnień rzeczoznawców, a także wymaga- c) opłacania składek na Fundusz Pracy;
+    - **d)** dokonania wpisu do rejestru agencji zatrudnienia działalności, której prowadzenie jest uzależnione od uzyskania wpisu do tego rejestru,
+    - **e)** prowadzenia agencji zatrudnienia zgodnie zwarunkami określonymi w przepisach o promocji zatrudnienia i instytucjach rynku pracy;
 
-- **4)** kontrola legalnoÊci zatrudnienia, innej pracy zarobkowej oraz wykonywania pracy przez cudzoziemców;
-- **5)** uczestnictwo w przejmowaniu do eksploatacji wybudowanych lub przebudowanych obiektów budowlanych albo ich cz´Êci w zakresie ustalonym w odr´bnych przepisach;
-- **6)** kontrola wyrobów wprowadzanych do obrotu pod wzgl´dem spe∏niania przez nie wymagaƒ dotyczàcych bezpieczeƒstwa i higieny pracy, okreÊlonych w odr´bnych przepisach;
-- **7)** podejmowanie dzia∏aƒ polegajàcych na zapobieganiu i eliminowaniu zagro˝eƒ w Êrodowisku pracy, a w szczególnoÊci:
-    - **a)** badanie i analizowanie okolicznoÊci i przyczyn wypadków przy pracy oraz kontrola stosowania Êrodków zapobiegajàcych tym wypadkom,
-    - **b)** analizowanie przyczyn chorób zawodowych oraz kontrola stosowania Êrodków zapobiegajàcych tym chorobom,
-    - **c)** inicjowanie prac badawczych wdziedzinie przestrzegania prawa pracy, a w szczególnoÊci bezpieczeƒstwa i higieny pracy,
-    - **d)** inicjowanie przedsi´wzi´ç wsprawach ochrony pracy w rolnictwie indywidualnym,
-    - **e)** udzielanie porad i informacji technicznych s∏u˝àcych eliminowaniu zagro˝eƒ dla ˝ycia i zdrowia pracowników, a tak˝e porad i informacji w zakresie przestrzegania prawa pracy;
+- **4)** kontrola legalności zatrudnienia, innej pracy zarobkowej oraz wykonywania pracy przez cudzoziemców;
+- **5)** uczestnictwo w przejmowaniu do eksploatacji wybudowanych lub przebudowanych obiektów budowlanych albo ich części w zakresie ustalonym w odrębnych przepisach;
+- **6)** kontrola wyrobów wprowadzanych do obrotu pod względem spełniania przez nie wymagań dotyczących bezpieczeństwa i higieny pracy, określonych w odrębnych przepisach;
+- **7)** podejmowanie działań polegających na zapobieganiu i eliminowaniu zagrożeń w środowisku pracy, a w szczególności:
+    - **a)** badanie i analizowanie okoliczności i przyczyn wypadków przy pracy oraz kontrola stosowania środków zapobiegających tym wypadkom,
+    - **b)** analizowanie przyczyn chorób zawodowych oraz kontrola stosowania środków zapobiegających tym chorobom,
+    - **c)** inicjowanie prac badawczych wdziedzinie przestrzegania prawa pracy, a w szczególności bezpieczeństwa i higieny pracy,
+    - **d)** inicjowanie przedsięwzięć wsprawach ochrony pracy w rolnictwie indywidualnym,
+    - **e)** udzielanie porad i informacji technicznych służących eliminowaniu zagrożeń dla życia i zdrowia pracowników, a także porad i informacji w zakresie przestrzegania prawa pracy;
 
-- **8)** wspó∏dzia∏anie z organami ochrony Êrodowiska w zakresie kontroli przestrzegania przez pracodawców przepisów o przeciwdzia∏aniu zagro˝eniom dla Êrodowiska;
-- **9)** kontrola przestrzegania wymagaƒ bezpieczeƒstwa i higieny pracy, okreÊlonych w ustawie z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. 36, poz. 233);
+- **8)** współdziałanie z organami ochrony środowiska w zakresie kontroli przestrzegania przez pracodawców przepisów o przeciwdziałaniu zagrożeniom dla środowiska;
+- **9)** kontrola przestrzegania wymagań bezpieczeństwa i higieny pracy, określonych w ustawie z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. z 2007 r. 36, poz. 233);
 - **10)** opiniowanie projektów aktów prawnych z zakresu prawa pracy;
-- **11)** prawo wnoszenia powództw, aza zgodà osoby zainteresowanej uczestnictwo w post´powaniu przed sàdem pracy, wsprawach oustalenie istnienia stosunku pracy;
-- **12)** wydawanie i cofanie zezwoleƒ w przypadkach, októrych mowa wart. 304 ca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, zpóên. zm. ustawy zdnia 26 czerw);
-- **13)** udzielanie na pisemny wniosek osoby zainteresowanej informacji o minimalnych warunkach zatrudnienia pracowników, okreÊlonych w dziale drugim rozdziale IIa ustawy z dnia 26 czerwca 1974r. Kodeks pracy;
-- **14)** wspó∏praca zurz´dami paƒstw cz∏onkowskich Unii Europejskiej odpowiedzialnymi za nadzór nad warunkami pracy i zatrudnienia pracowników, polegajàca na:
-    - **a)** udzielaniu informacji o warunkach zatrudnienia pracowników skierowanych do wykonywania pracy na terytorium paƒstwa cz∏onkowskiego Unii Europejskiej na okreÊlony czas, przez pracodawc´ majàcego siedzib´ na terytorium Rzeczypospolitej Polskiej,
-    - **b)** informowaniu o stwierdzonych wykroczeniach przeciwko prawom pracowników skierowanych do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na okreÊlony czas przez pracodawc´ majàcego siedzib´ w paƒstwie b´dàcym cz∏onkiem Unii Europejskiej,
-    - **c)** wskazywaniu organu nadzoru nad rynkiem pracy, w∏aÊciwego do udzielania ˝àdanej informacji ze wzgl´du na zakres jego dzia∏ania;
+- **11)** prawo wnoszenia powództw, aza zgodą osoby zainteresowanej uczestnictwo w postępowaniu przed sądem pracy, wsprawach oustalenie istnienia stosunku pracy;
+- **12)** wydawanie i cofanie zezwoleń w przypadkach, októrych mowa wart. 304 ca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, zpóên. zm. ustawy zdnia 26 czerw);
+- **13)** udzielanie na pisemny wniosek osoby zainteresowanej informacji o minimalnych warunkach zatrudnienia pracowników, określonych w dziale drugim rozdziale IIa ustawy z dnia 26 czerwca 1974r. Kodeks pracy;
+- **14)** współpraca zurzędami państw członkowskich Unii Europejskiej odpowiedzialnymi za nadzór nad warunkami pracy i zatrudnienia pracowników, polegająca na:
+    - **a)** udzielaniu informacji o warunkach zatrudnienia pracowników skierowanych do wykonywania pracy na terytorium państwa członkowskiego Unii Europejskiej na określony czas, przez pracodawcę mającego siedzibę na terytorium Rzeczypospolitej Polskiej,
+    - **b)** informowaniu o stwierdzonych wykroczeniach przeciwko prawom pracowników skierowanych do wykonywania pracy na terytorium Rzeczypospolitej Polskiej na określony czas przez pracodawcę mającego siedzibę w państwie będącym członkiem Unii Europejskiej,
+    - **c)** wskazywaniu organu nadzoru nad rynkiem pracy, właściwego do udzielania żądanej informacji ze względu na zakres jego działania;
 
-- **15)** Êciganie wykroczeƒ przeciwko prawom pracownika okreÊlonych w Kodeksie pracy, wykroczeƒ, o których mowa w art. 119—123 ustawy z dnia 20 kwietnia 2004 r. opromocji zatrudnienia iinstytucjach rynku pracy (Dz. U. 99, poz. 1001, zpóên. zm. ), atak˝e innych wykroczeƒ, gdy ustawy tak stanowià oraz udzia∏ w post´powaniu w tych sprawach w charakterze oskar˝yciela publicznego;
-- **16)** wykonywanie innych zadaƒ okreÊlonych w ustawie i przepisach szczególnych.
+- **15)** ściganie wykroczeń przeciwko prawom pracownika określonych w Kodeksie pracy, wykroczeń, o których mowa w art. 119—123 ustawy z dnia 20 kwietnia 2004 r. opromocji zatrudnienia iinstytucjach rynku pracy (Dz. U. 99, poz. 1001, zpóên. zm. ), atakże innych wykroczeń, gdy ustawy tak stanowią oraz udział w postępowaniu w tych sprawach w charakterze oskarżyciela publicznego;
+- **16)** wykonywanie innych zadań określonych w ustawie i przepisach szczególnych.
 
-2. Do zadaƒ Paƒstwowej Inspekcji Pracy nale˝y ponadto nadzór i kontrola zapewnienia bezpiecznych i higienicznych warunków pracy: ———————
+2. Do zadań Państwowej Inspekcji Pracy należy ponadto nadzór i kontrola zapewnienia bezpiecznych i higienicznych warunków pracy: ———————
 
-- **1)** osobom fizycznym wykonujàcym prac´ na innej podstawie ni˝ stosunek pracy oraz osobom wykonujàcym na w∏asny rachunek dzia∏alnoÊç gospodarczà wmiejscu wyznaczonym przez pracodawc´ lub przedsi´biorc´, nieb´dàcego pracodawcà, na rzecz którego taka praca jest Êwiadczona;
-- **2)** przez podmioty organizujàce prac´ wykonywanà przez osoby fizyczne na innej podstawie ni˝ stosunek pracy, wramach prac spo∏ecznie u˝ytecznych;
-- **3)** osobom przebywajàcym wzak∏adach karnych izak∏adach poprawczych, wykonujàcym prac´, a tak˝e ˝o∏nierzom ws∏u˝bie czynnej, wykonujàcym powierzone im prace.
+- **1)** osobom fizycznym wykonującym pracę na innej podstawie niż stosunek pracy oraz osobom wykonującym na własny rachunek działalność gospodarczą wmiejscu wyznaczonym przez pracodawcę lub przedsiębiorcę, niebędącego pracodawcą, na rzecz którego taka praca jest świadczona;
+- **2)** przez podmioty organizujące pracę wykonywaną przez osoby fizyczne na innej podstawie niż stosunek pracy, wramach prac społecznie użytecznych;
+- **3)** osobom przebywającym wzakładach karnych izakładach poprawczych, wykonującym pracę, a także żołnierzom wsłużbie czynnej, wykonującym powierzone im prace.
 
-3. Paƒstwowa Inspekcja Pracy sprawuje tak˝e nadzór i kontrol´ zapewnienia przez pracodawc´ bezpiecznych i higienicznych warunków zaj´ç odbywanych na jego terenie przez studentów iuczniów nieb´dàcych pracownikami.
+3. Państwowa Inspekcja Pracy sprawuje także nadzór i kontrolę zapewnienia przez pracodawcę bezpiecznych i higienicznych warunków zajęć odbywanych na jego terenie przez studentów iuczniów niebędących pracownikami.
 
-4. Paƒstwowa Inspekcja Pracy mo˝e podejmowaç dzia∏ania w zakresie prowadzenia badaƒ oraz analizowania czynników szkodliwych i ucià˝liwych w Êrodowisku pracy.
+4. Państwowa Inspekcja Pracy może podejmować działania w zakresie prowadzenia badań oraz analizowania czynników szkodliwych i uciążliwych w środowisku pracy.
 
-**Art. 11.** Wrazie stwierdzenia naruszenia przepisów prawa pracy lub przepisów dotyczàcych legalnoÊci zatrudnienia w∏aÊciwe organy Paƒstwowej Inspekcji Pracy sà uprawnione odpowiednio do:
+**Art. 11.** Wrazie stwierdzenia naruszenia przepisów prawa pracy lub przepisów dotyczących legalności zatrudnienia właściwe organy Państwowej Inspekcji Pracy są uprawnione odpowiednio do:
 
-**Art. 12.** W post´powaniu przed organami Paƒstwowej Inspekcji Pracy w sprawach nieuregulowanych wustawie bàdê przepisach wydanych na jej podstawie albo w przepisach szczególnych stosuje si´ przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks post´powania administracyjnego (Dz. U. z 2000 r. 98, poz. 1071, z póên. zm. zdrowiu pracowników lub osób fizycznych wyko).
+**Art. 12.** W postępowaniu przed organami Państwowej Inspekcji Pracy w sprawach nieuregulowanych wustawie bądê przepisach wydanych na jej podstawie albo w przepisach szczególnych stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2000 r. 98, poz. 1071, z póên. zm. zdrowiu pracowników lub osób fizycznych wyko).
 
-**Art. 13.** Kontroli Paƒstwowej Inspekcji Pracy podlegajà pracodawcy a w zakresie bezpieczeƒstwa i higieny pracy oraz kontroli legalnoÊci zatrudnienia tak˝e przedsi´biorcy, nieb´dàcy pracodawcami na rzecz których jest Êwiadczona praca przez osoby fizyczne, w tym przez osoby wykonujàce na w∏asny rachunek dzia∏alnoÊç gospodarczà, bez wzgl´du na podstaw´ Êwiadczenia tej pracy, zwani dalej „podmiotami kontrolowanymi”.
+**Art. 13.** Kontroli Państwowej Inspekcji Pracy podlegają pracodawcy a w zakresie bezpieczeństwa i higieny pracy oraz kontroli legalności zatrudnienia także przedsiębiorcy, niebędący pracodawcami na rzecz których jest świadczona praca przez osoby fizyczne, w tym przez osoby wykonujące na własny rachunek działalność gospodarczą, bez względu na podstawę świadczenia tej pracy, zwani dalej Ńpodmiotami kontrolowanymi”.
 
 **Art. 14.**
 
-1. Paƒstwowa Inspekcja Pracy przy realizacji swoich zadaƒ wspó∏dzia∏a ze zwiàzkami zawodowymi, organizacjami pracodawców, organami samorzàdu za∏ogi, radami pracowników, spo∏ecznà inspekcjà pracy oraz z organami administracji paƒstwowej, a w szczególnoÊci zorganami nadzoru ikontroli nad warunkami pracy, Policjà, Stra˝à Granicznà, S∏u˝bà Celnà, urz´dami skarbowymi i Zak∏adem Ubezpieczeƒ Spo∏ecznych, atak˝e organami samorzàdu terytorialnego.
+1. Państwowa Inspekcja Pracy przy realizacji swoich zadań współdziała ze związkami zawodowymi, organizacjami pracodawców, organami samorządu załogi, radami pracowników, społeczną inspekcją pracy oraz z organami administracji państwowej, a w szczególności zorganami nadzoru ikontroli nad warunkami pracy, Policją, Strażą Graniczną, Służbą Celną, urzędami skarbowymi i Zakładem Ubezpieczeń Społecznych, atakże organami samorządu terytorialnego.
 
-2. Paƒstwowa Inspekcja Pracy jest uprawniona do nieodp∏atnego korzystania z danych zgromadzonych:
+2. Państwowa Inspekcja Pracy jest uprawniona do nieodpłatnego korzystania z danych zgromadzonych:
 
 - **1)** w Krajowej Ewidencji Podatników;
-- **2)** wkrajowym rejestrze urz´dowym podmiotów gospodarki narodowej (REGON) prowadzonym przez Prezesa G∏ównego Urz´du Statystycznego;
-- **3)** przez Zak∏ad Ubezpieczeƒ Spo∏ecznych na koncie ubezpieczonego i koncie p∏atnika sk∏adek, o których mowa odpowiednio w art. 40 i 45 ustawy ——————— z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych (Dz. U. z 2007 r. 11, poz. 74, 17, poz. 95 i 21, poz. 125), w zakresie podlegania ubezpieczeniom spo∏ecznym;
-- **4)** w Powszechnym Elektronicznym Systemie Ewidencji LudnoÊci (RCI PESEL).
+- **2)** wkrajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) prowadzonym przez Prezesa Głównego Urzędu Statystycznego;
+- **3)** przez Zakład Ubezpieczeń Społecznych na koncie ubezpieczonego i koncie płatnika składek, o których mowa odpowiednio w art. 40 i 45 ustawy ——————— z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. 11, poz. 74, 17, poz. 95 i 21, poz. 125), w zakresie podlegania ubezpieczeniom społecznym;
+- **4)** w Powszechnym Elektronicznym Systemie Ewidencji Ludności (RCI PESEL).
 
-3. Paƒstwowa Inspekcja Pracy mo˝e, na wniosek zwiàzków zawodowych, prowadziç szkolenie iinstrukta˝ oraz udzielaç pomocy w szkoleniu spo∏ecznych inspektorów pracy, a tak˝e podejmowaç dzia∏ania na rzecz doskonalenia i zwi´kszenia skutecznoÊci dzia∏ania spo∏ecznej inspekcji pracy.
+3. Państwowa Inspekcja Pracy może, na wniosek związków zawodowych, prowadzić szkolenie iinstruktaż oraz udzielać pomocy w szkoleniu społecznych inspektorów pracy, a także podejmować działania na rzecz doskonalenia i zwiększenia skuteczności działania społecznej inspekcji pracy.
 
-**Art. 15.** Wrazie uzasadnionej potrzeby oraz wcelu zapewnienia bezpieczeƒstwa kontrolujàcym, organy Policji sà obowiàzane, na wniosek inspektora pracy, do udzielenia stosownej pomocy.
+**Art. 15.** Wrazie uzasadnionej potrzeby oraz wcelu zapewnienia bezpieczeństwa kontrolującym, organy Policji są obowiązane, na wniosek inspektora pracy, do udzielenia stosownej pomocy.
 
-**Art. 16.** Prezes Rady Ministrów, wdrodze rozporzàdzenia, okreÊli tryb i formy wspó∏dzia∏ania innych organów nadzoru i kontroli z Paƒstwowà Inspekcjà Pracy w zakresie bezpieczeƒstwa i higieny pracy oraz legalnoÊci zatrudnienia, majàc na wzgl´dzie zapewnienie sprawnego i efektywnego wspó∏dzia∏ania. Rozdzia∏ 3 Zakres dzia∏ania organów Paƒstwowej Inspekcji Pracy
+**Art. 16.** Prezes Rady Ministrów, wdrodze rozporządzenia, określi tryb i formy współdziałania innych organów nadzoru i kontroli z Państwową Inspekcją Pracy w zakresie bezpieczeństwa i higieny pracy oraz legalności zatrudnienia, mając na względzie zapewnienie sprawnego i efektywnego współdziałania.
 
-**Art. 17.** Organami Paƒstwowej Inspekcji Pracy sà:
+#### Rozdział 3 Zakres działania organów Państwowej Inspekcji Pracy
+
+**Art. 17.** Organami Państwowej Inspekcji Pracy są:
 
 **Art. 18.**
 
-1. Do zakresu dzia∏ania G∏ównego Inspektora Pracy nale˝y:
+1. Do zakresu działania Głównego Inspektora Pracy należy:
 
-- **1)** kierowanie dzia∏alnoÊcià G∏ównego Inspektoratu Pracy i okr´gowych inspektorów pracy;
-- **2)** rozpatrywanie odwo∏aƒ od decyzji okr´gowych inspektorów pracy;
-- **3)** opracowywanie rocznych i wieloletnich programów dzia∏ania Paƒstwowej Inspekcji Pracy;
+- **1)** kierowanie działalnością Głównego Inspektoratu Pracy i okręgowych inspektorów pracy;
+- **2)** rozpatrywanie odwołań od decyzji okręgowych inspektorów pracy;
+- **3)** opracowywanie rocznych i wieloletnich programów działania Państwowej Inspekcji Pracy;
 - **4)** sprawowanie ogólnego nadzoru nad:
-    - **a)** przestrzeganiem prawa pracy oraz przedk∏adanie w∏aÊciwym organom ocen, opinii i wniosków w tej dziedzinie,
-    - **b)** post´powaniem mandatowym w sprawach o wykroczenia, o których mowa w art. 17 § 2 ustawy z dnia 24 sierpnia 2001 r. Kodeks post´powania w sprawach o wykroczenia (Dz. U. 106, poz. 1148, z póên. zm.
+    - **a)** przestrzeganiem prawa pracy oraz przedkładanie właściwym organom ocen, opinii i wniosków w tej dziedzinie,
+    - **b)** postępowaniem mandatowym w sprawach o wykroczenia, o których mowa w art. 17 § 2 ustawy z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. 106, poz. 1148, z póên. zm.
 
-- **5)** opiniowanie projektów aktów prawnych dotyczàcych prawa pracy oraz inicjowanie prac legislacyjnych w tej dziedzinie;
-- **6)** inicjowanie przedsi´wzi´ç w zakresie wdra˝ania post´pu technicznego w dziedzinie bezpieczeƒstwa i higieny pracy;
-- **7)** przedstawianie wniosków w sprawach nauczania i szkolenia w dziedzinie bezpieczeƒstwa i higieny pracy, organizowanie i prowadzenie szkolenia inspektorów pracy oraz nadzór nad dzia∏alnoÊcià OÊrodka;
-- **8)** prowadzenie dzia∏alnoÊci wydawniczej ipromocyjnej w zakresie ochrony pracy;
-- **9)** udzia∏ w pracach komisji rzàdowych badajàcych wypadki przy pracy;
-- **10)** sporzàdzanie i przedk∏adanie informacji i sprawozdaƒ, o których mowa w ust. 3;
-- **11)** nadawanie i cofanie uprawnieƒ rzeczoznawcy do spraw bezpieczeƒstwa i higieny pracy, o których mowa w art. 9.
+- **5)** opiniowanie projektów aktów prawnych dotyczących prawa pracy oraz inicjowanie prac legislacyjnych w tej dziedzinie;
+- **6)** inicjowanie przedsięwzięć w zakresie wdrażania postępu technicznego w dziedzinie bezpieczeństwa i higieny pracy;
+- **7)** przedstawianie wniosków w sprawach nauczania i szkolenia w dziedzinie bezpieczeństwa i higieny pracy, organizowanie i prowadzenie szkolenia inspektorów pracy oraz nadzór nad działalnością Ośrodka;
+- **8)** prowadzenie działalności wydawniczej ipromocyjnej w zakresie ochrony pracy;
+- **9)** udział w pracach komisji rządowych badających wypadki przy pracy;
+- **10)** sporządzanie i przedkładanie informacji i sprawozdań, o których mowa w ust. 3;
+- **11)** nadawanie i cofanie uprawnień rzeczoznawcy do spraw bezpieczeństwa i higieny pracy, o których mowa w art. 9.
 
-2. G∏ówny Inspektor Pracy udost´pnia ministrowi w∏aÊciwemu do spraw pracy zbiorcze wyniki kontroli oraz oceny przestrzegania prawa pracy, wtym przepisów dotyczàcych bezpieczeƒstwa i higieny pracy oraz legalnoÊci zatrudnienia.
+2. Główny Inspektor Pracy udostępnia ministrowi właściwemu do spraw pracy zbiorcze wyniki kontroli oraz oceny przestrzegania prawa pracy, wtym przepisów dotyczących bezpieczeństwa i higieny pracy oraz legalności zatrudnienia.
 
-3. G∏ówny Inspektor Pracy przedstawia Sejmowi oraz Radzie Ministrów, nie póêniej ni˝ do 30 czerwca nast´pnego roku kalendarzowego, informacje z dzia∏alnoÊci Paƒstwowej Inspekcji Pracy oraz coroczne sprawozdanie z jej dzia∏alnoÊci wraz z wynikajàcymi z tej dzia∏alnoÊci wnioskami dotyczàcymi przestrzegania prawa pracy oraz przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy w zakresie okreÊlonym w art. 10 ust. 1 pkt 3 i4, przez podmioty kontrolowane iorgany sprawujàce nadzór nad przedsi´biorstwami lub innymi jednostkami organizacyjnymi paƒstwowymi albo samorzàdowymi. );
+3. Główny Inspektor Pracy przedstawia Sejmowi oraz Radzie Ministrów, nie póêniej niż do 30 czerwca następnego roku kalendarzowego, informacje z działalności Państwowej Inspekcji Pracy oraz coroczne sprawozdanie z jej działalności wraz z wynikającymi z tej działalności wnioskami dotyczącymi przestrzegania prawa pracy oraz przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy w zakresie określonym w art. 10 ust. 1 pkt 3 i4, przez podmioty kontrolowane iorgany sprawujące nadzór nad przedsiębiorstwami lub innymi jednostkami organizacyjnymi państwowymi albo samorządowymi. );
 
-4. Sprawozdanie roczne, o którym mowa w ust. 3, G∏ówny Inspektor Pracy przedstawia Radzie Ochrony Pracy oraz podaje do wiadomoÊci publicznej.
+4. Sprawozdanie roczne, o którym mowa w ust. 3, Główny Inspektor Pracy przedstawia Radzie Ochrony Pracy oraz podaje do wiadomości publicznej.
 
-5. G∏ówny Inspektor Pracy wykonuje swoje zadania przy pomocy podleg∏ego mu G∏ównego Inspektoratu Pracy.
+5. Główny Inspektor Pracy wykonuje swoje zadania przy pomocy podległego mu Głównego Inspektoratu Pracy.
 
-6. G∏ówny Inspektor Pracy dokonuje czynnoÊci w sprawach z zakresu prawa pracy wobec pracowników G∏ównego Inspektoratu Pracy oraz pracowników nadzorujàcych lub wykonujàcych czynnoÊci kontrolne.
+6. Główny Inspektor Pracy dokonuje czynności w sprawach z zakresu prawa pracy wobec pracowników Głównego Inspektoratu Pracy oraz pracowników nadzorujących lub wykonujących czynności kontrolne.
 
 **Art. 19.**
 
-1. Do zakresu dzia∏ania okr´gowego inspektora pracy nale˝y w szczególnoÊci:
+1. Do zakresu działania okręgowego inspektora pracy należy w szczególności:
 
-- **1)** kierowanie dzia∏alnoÊcià okr´gowego inspektoratu pracy, nadzór nad dzia∏alnoÊcià inspektorów ——————— pracy oraz koordynacja ich dzia∏alnoÊci;
-- **2)** dokonywanie podzia∏u zadaƒ mi´dzy inspektorów pracy z uwzgl´dnieniem ich kwalifikacji zawodowych;
-- **3)** zatwierdzanie planów pracy, sporzàdzanych przez inspektorów pracy;
+- **1)** kierowanie działalnością okręgowego inspektoratu pracy, nadzór nad działalnością inspektorów ——————— pracy oraz koordynacja ich działalności;
+- **2)** dokonywanie podziału zadań między inspektorów pracy z uwzględnieniem ich kwalifikacji zawodowych;
+- **3)** zatwierdzanie planów pracy, sporządzanych przez inspektorów pracy;
 - **4)** wydawanie decyzji, októrych mowa wart. 11 pkt 5;
-- **5)** rozpatrywanie odwo∏aƒ od nakazów iinnych decyzji inspektorów pracy;
-- **6)** prowadzenie ewidencji pracodawców dzia∏ajàcych na obszarze jego w∏aÊciwoÊci terytorialnej;
-- **7)** sporzàdzanie okresowych sprawozdaƒ zdzia∏alnoÊci okr´gowego inspektoratu pracy;
-- **8)** powiadamianie marsza∏ka w∏aÊciwego województwa o stwierdzonych przypadkach naruszenia warunków prowadzenia agencji zatrudnienia okreÊlonych wprzepisach opromocji zatrudnienia iinstytucjach rynku pracy;
-- **9)** powiadamianie w∏aÊciwego starosty o stwierdzonych przypadkach naruszenia przepisów opromocji zatrudnienia i instytucjach rynku pracy przez bezrobotnego oraz przez podmiot kontrolowany.
+- **5)** rozpatrywanie odwołań od nakazów iinnych decyzji inspektorów pracy;
+- **6)** prowadzenie ewidencji pracodawców działających na obszarze jego właściwości terytorialnej;
+- **7)** sporządzanie okresowych sprawozdań zdziałalności okręgowego inspektoratu pracy;
+- **8)** powiadamianie marszałka właściwego województwa o stwierdzonych przypadkach naruszenia warunków prowadzenia agencji zatrudnienia określonych wprzepisach opromocji zatrudnienia iinstytucjach rynku pracy;
+- **9)** powiadamianie właściwego starosty o stwierdzonych przypadkach naruszenia przepisów opromocji zatrudnienia i instytucjach rynku pracy przez bezrobotnego oraz przez podmiot kontrolowany.
 
-2. Okr´gowy inspektor pracy wykonuje swoje zadania przy pomocy okr´gowego inspektoratu pracy.
+2. Okręgowy inspektor pracy wykonuje swoje zadania przy pomocy okręgowego inspektoratu pracy.
 
-3. Okr´gowy inspektor pracy dokonuje czynnoÊci w sprawach z zakresu prawa pracy wobec pracowników okr´gowego inspektoratu pracy, z wy∏àczeniem pracowników, o których mowa w art. 18 ust. 6.
+3. Okręgowy inspektor pracy dokonuje czynności w sprawach z zakresu prawa pracy wobec pracowników okręgowego inspektoratu pracy, z wyłączeniem pracowników, o których mowa w art. 18 ust. 6.
 
 **Art. 20.**
 
-1. Okr´gowy inspektor pracy sporzàdza roczne sprawozdanie z dzia∏alnoÊci inspektoratu zawierajàce ocen´ stanu przestrzegania prawa pracy, wszczególnoÊci stanu bezpieczeƒstwa ihigieny pracy, atak˝e przepisów dotyczàcych legalnoÊci zatrudnienia na obszarze okr´gu.
+1. Okręgowy inspektor pracy sporządza roczne sprawozdanie z działalności inspektoratu zawierające ocenę stanu przestrzegania prawa pracy, wszczególności stanu bezpieczeństwa ihigieny pracy, atakże przepisów dotyczących legalności zatrudnienia na obszarze okręgu.
 
-2. Sprawozdanie, októrym mowa wust. 1, okr´gowy inspektor pracy przedstawia w terminie do ostatniego dnia lutego nast´pnego roku kalendarzowego G∏ównemu Inspektorowi Pracy oraz w∏aÊciwemu wojewodzie i marsza∏kowi województwa. Rozdzia∏ 4 Post´powanie kontrolne
+2. Sprawozdanie, októrym mowa wust. 1, okręgowy inspektor pracy przedstawia w terminie do ostatniego dnia lutego następnego roku kalendarzowego Głównemu Inspektorowi Pracy oraz właściwemu wojewodzie i marszałkowi województwa.
 
-**Art. 21.** Post´powanie kontrolne ma na celu ustalenie stanu faktycznego wzakresie przestrzegania prawa pracy, w szczególnoÊci przepisów i zasad bezpieczeƒstwa i higieny pracy, a tak˝e przepisów dotyczàcych legalnoÊci zatrudnienia oraz udokumentowanie dokonanych ustaleƒ.
+#### Rozdział 4 Postępowanie kontrolne
+
+**Art. 21.** Postępowanie kontrolne ma na celu ustalenie stanu faktycznego wzakresie przestrzegania prawa pracy, w szczególności przepisów i zasad bezpieczeństwa i higieny pracy, a także przepisów dotyczących legalności zatrudnienia oraz udokumentowanie dokonanych ustaleń.
 
 **Art. 22.**
 
-1. Kontrole przeprowadzajà inspektorzy pracy, dzia∏ajàcy w ramach w∏aÊciwoÊci terytorialnej okr´gowych inspektoratów pracy.
+1. Kontrole przeprowadzają inspektorzy pracy, działający w ramach właściwości terytorialnej okręgowych inspektoratów pracy.
 
-2. G∏ówny Inspektor Pracy mo˝e wyznaczyç inÊci kontrolnych i stosowania Êrodków prawnych na obszarze dzia∏ania innego okr´gowego inspektoratu pracy, a tak˝e poza terytorium Rzeczypospolitej Polskiej, gdzie stosunek pracy podlega przepisom polskiego prawa pracy.
+2. Główny Inspektor Pracy może wyznaczyć inści kontrolnych i stosowania środków prawnych na obszarze działania innego okręgowego inspektoratu pracy, a także poza terytorium Rzeczypospolitej Polskiej, gdzie stosunek pracy podlega przepisom polskiego prawa pracy.
 
-3. Kontrole, októrych mowa wust. 1 i2, wspólnie zw∏aÊciwymi inspektorami pracy, mogà równie˝ przeprowadzaç pracownicy nadzorujàcy czynnoÊci kontrolne oraz podinspektorzy pracy, na podstawie imiennego upowa˝nienia, wydanego odpowiednio przez G∏ównego Inspektora Pracy lub okr´gowego inspektora pracy.
+3. Kontrole, októrych mowa wust. 1 i2, wspólnie zwłaściwymi inspektorami pracy, mogą również przeprowadzać pracownicy nadzorujący czynności kontrolne oraz podinspektorzy pracy, na podstawie imiennego upoważnienia, wydanego odpowiednio przez Głównego Inspektora Pracy lub okręgowego inspektora pracy.
 
 **Art. 23.**
 
-1. W toku post´powania kontrolnego inspektor pracy ma prawo:
+1. W toku postępowania kontrolnego inspektor pracy ma prawo:
 
-- **1)** swobodnego wst´pu na teren oraz do obiektów i pomieszczeƒ podmiotu kontrolowanego;
-- **2)** przeprowadzania ogl´dzin obiektów, pomieszczeƒ, stanowisk pracy, maszyn i urzàdzeƒ oraz przebiegu procesów technologicznych i pracy;
-- **3)** ˝àdania od podmiotu kontrolowanego oraz od wszystkich pracowników lub osób, które sà lub by∏y zatrudnione, albo które wykonujà lub wykonywa∏y prac´ na jego rzecz na innej podstawie ni˝ stosunek pracy, w tym osób wykonujàcych na w∏asny rachunek dzia∏alnoÊç gospodarczà, pisemnych i ustnych informacji w sprawach obj´tych kontrolà oraz wzywania i przes∏uchiwania tych osób w zwiàzku z przeprowadzanà kontrolà;
-- **4)** ˝àdania okazania dokumentów dotyczàcych budowy, przebudowy lub modernizacji oraz uruchomienia zak∏adu pracy, planów irysunków technicznych, dokumentacji technicznej i technologicznej, wyników ekspertyz, badaƒ i pomiarów dotyczàcych produkcji bàdê innej dzia∏alnoÊci podmiotu kontrolowanego, jak równie˝ dostarczenia mu próbek surowców i materia∏ów u˝ywanych, wytwarzanych lub powstajàcych w toku produkcji, wiloÊci niezb´dnej do przeprowadzenia analiz lub badaƒ, gdy majà one zwiàzek z przeprowadzanà kontrolà;
-- **5)** ˝àdania przed∏o˝enia akt osobowych i wszelkich dokumentów zwiàzanych z wykonywaniem pracy przez pracowników lub osoby Êwiadczàce prac´ na innej podstawie ni˝ stosunek pracy;
-- **6)** zapoznania si´ z decyzjami wydanymi przez inne organy kontroli i nadzoru nad warunkami pracy oraz ich realizacjà;
-- **7)** utrwalania przebiegu i wyników ogl´dzin, o których mowa w pkt 2, za pomocà aparatury i Êrodków technicznych s∏u˝àcych do utrwalania obrazu lub dêwi´ku;
-- **8)** wykonywania niezb´dnych dla celów kontroli odpisów lub wyciàgów z dokumentów, jak równie˝ zestawieƒ i obliczeƒ sporzàdzanych na podstawie dokumentów, a w razie potrzeby ˝àdania ich od spektora pracy do wykonywania okreÊlonych czynno- podmiotu kontrolowanego;
-- **9)** sprawdzania to˝samoÊci osób wykonujàcych prac´ 3) imi´ i nazwisko, stanowisko s∏u˝bowe osoby upolub przebywajàcych na terenie podmiotu kontrolo- wa˝nionej do przeprowadzenia kontroli oraz nuwanego, ich przes∏uchiwania i˝àdania oÊwiadczeƒ mer jej legitymacji s∏u˝bowej; w sprawie legalnoÊci zatrudnienia lub prowadzenia innej dzia∏alnoÊci zarobkowej; 4) okreÊlenie zakresu przedmiotowego kontroli;
-- **10)** korzystania z pomocy bieg∏ych i specjalistów oraz 5) oznaczenie podmiotu obj´tego kontrolà; akredytowanych laboratoriów.
-- **6)** wskazanie daty rozpocz´cia iprzewidywanego ter2. Je˝eli zachodzi uzasadniona obawa, ˝e udziele- minu zakoƒczenia kontroli; nie inspektorowi pracy informacji w sprawach obj´tych kontrolà przez pracownika lub osob´, o których 7) podpis osoby udzielajàcej upowa˝nienia, z podamowa wust. 1 pkt 3, mog∏oby naraziç tego pracowni- niem zajmowanego stanowiska lub funkcji; ka lub osob´ na jakikolwiek uszczerbek lub zarzut zpowodu udzielenia tej informacji, inspektor pracy mo˝e 8) pouczenie kontrolowanego podmiotu o jego prawydaç postanowienie ozachowaniu wtajemnicy oko- wach i obowiàzkach; licznoÊci umo˝liwiajàcych ujawnienie to˝samoÊci tego 9) dat´ i miejsce wystawienia upowa˝nienia. pracownika lub osoby, w tym danych osobowych.
+- **1)** swobodnego wstępu na teren oraz do obiektów i pomieszczeń podmiotu kontrolowanego;
+- **2)** przeprowadzania oględzin obiektów, pomieszczeń, stanowisk pracy, maszyn i urządzeń oraz przebiegu procesów technologicznych i pracy;
+- **3)** żądania od podmiotu kontrolowanego oraz od wszystkich pracowników lub osób, które są lub były zatrudnione, albo które wykonują lub wykonywały pracę na jego rzecz na innej podstawie niż stosunek pracy, w tym osób wykonujących na własny rachunek działalność gospodarczą, pisemnych i ustnych informacji w sprawach objętych kontrolą oraz wzywania i przesłuchiwania tych osób w związku z przeprowadzaną kontrolą;
+- **4)** żądania okazania dokumentów dotyczących budowy, przebudowy lub modernizacji oraz uruchomienia zakładu pracy, planów irysunków technicznych, dokumentacji technicznej i technologicznej, wyników ekspertyz, badań i pomiarów dotyczących produkcji bądê innej działalności podmiotu kontrolowanego, jak również dostarczenia mu próbek surowców i materiałów używanych, wytwarzanych lub powstających w toku produkcji, wilości niezbędnej do przeprowadzenia analiz lub badań, gdy mają one związek z przeprowadzaną kontrolą;
+- **5)** żądania przedłożenia akt osobowych i wszelkich dokumentów związanych z wykonywaniem pracy przez pracowników lub osoby świadczące pracę na innej podstawie niż stosunek pracy;
+- **6)** zapoznania się z decyzjami wydanymi przez inne organy kontroli i nadzoru nad warunkami pracy oraz ich realizacją;
+- **7)** utrwalania przebiegu i wyników oględzin, o których mowa w pkt 2, za pomocą aparatury i środków technicznych służących do utrwalania obrazu lub dêwięku;
+- **8)** wykonywania niezbędnych dla celów kontroli odpisów lub wyciągów z dokumentów, jak również zestawień i obliczeń sporządzanych na podstawie dokumentów, a w razie potrzeby żądania ich od spektora pracy do wykonywania określonych czynno- podmiotu kontrolowanego;
+- **9)** sprawdzania tożsamości osób wykonujących pracę 3) imię i nazwisko, stanowisko służbowe osoby upolub przebywających na terenie podmiotu kontrolo- ważnionej do przeprowadzenia kontroli oraz nuwanego, ich przesłuchiwania iżądania oświadczeń mer jej legitymacji służbowej; w sprawie legalności zatrudnienia lub prowadzenia innej działalności zarobkowej; 4) określenie zakresu przedmiotowego kontroli;
+- **10)** korzystania z pomocy biegłych i specjalistów oraz 5) oznaczenie podmiotu objętego kontrolą; akredytowanych laboratoriów.
+- **6)** wskazanie daty rozpoczęcia iprzewidywanego ter2. Jeżeli zachodzi uzasadniona obawa, że udziele- minu zakończenia kontroli; nie inspektorowi pracy informacji w sprawach objętych kontrolą przez pracownika lub osobę, o których 7) podpis osoby udzielającej upoważnienia, z podamowa wust. 1 pkt 3, mogłoby narazić tego pracowni- niem zajmowanego stanowiska lub funkcji; ka lub osobę na jakikolwiek uszczerbek lub zarzut zpowodu udzielenia tej informacji, inspektor pracy może 8) pouczenie kontrolowanego podmiotu o jego prawydać postanowienie ozachowaniu wtajemnicy oko- wach i obowiązkach; liczności umożliwiających ujawnienie tożsamości tego 9) datę i miejsce wystawienia upoważnienia. pracownika lub osoby, w tym danych osobowych.
 
-3. W razie wydania postanowienia, okreÊlonego 5. Je˝eli okolicznoÊci faktyczne uzasadniajà niew ust. 2, okolicznoÊci, o których mowa w tym przepi- zw∏oczne podj´cie kontroli uprzedsi´biorcy, mo˝e byç sie, pozostajà wy∏àcznie do wiadomoÊci inspektora ona podj´ta po okazaniu legitymacji s∏u˝bowej. Konpracy. Protokó∏ przes∏uchania pracownika lub osoby trolowanemu nale˝y niezw∏ocznie, nie póêniej jednak wolno udost´pniaç pracodawcy tylko w sposób unie- ni˝ w terminie 7 dni od dnia podj´cia kontroli, dor´mo˝liwiajàcy ujawnienie danych osobowych, o których mowa w ust. 2.
+3. W razie wydania postanowienia, określonego 5. Jeżeli okoliczności faktyczne uzasadniają niew ust. 2, okoliczności, o których mowa w tym przepi- zwłoczne podjęcie kontroli uprzedsiębiorcy, może być sie, pozostają wyłącznie do wiadomości inspektora ona podjęta po okazaniu legitymacji służbowej. Konpracy. Protokół przesłuchania pracownika lub osoby trolowanemu należy niezwłocznie, nie póêniej jednak wolno udostępniać pracodawcy tylko w sposób unie- niż w terminie 7 dni od dnia podjęcia kontroli, doręmożliwiający ujawnienie danych osobowych, o których mowa w ust. 2.
 
-4. Na postanowienie w sprawie zachowania w tajemnicy danych osobowych, októrych mowa wust. 2, pracodawcy przys∏uguje za˝alenie, w terminie 3 dni od dnia dor´czenia postanowienia. Za˝alenie na postanowienie inspektora pracy rozpoznaje w∏aÊciwy okr´gowy inspektor pracy. Post´powanie dotyczàce za˝alenia toczy si´ bez udzia∏u pracodawcy i obj´te jest tajemnicà s∏u˝bowà.
+4. Na postanowienie w sprawie zachowania w tajemnicy danych osobowych, októrych mowa wust. 2, pracodawcy przysługuje zażalenie, w terminie 3 dni od dnia doręczenia postanowienia. Zażalenie na postanowienie inspektora pracy rozpoznaje właściwy okręgowy inspektor pracy. Postępowanie dotyczące zażalenia toczy się bez udziału pracodawcy i objęte jest tajemnicą służbową.
 
-5. W razie uwzgl´dnienia za˝alenia protokó∏ przes∏uchania pracownika lub osoby podlega zniszczeniu; o zniszczeniu protoko∏u nale˝y uczyniç wzmiank´ w protokole pokontrolnym.
+5. W razie uwzględnienia zażalenia protokół przesłuchania pracownika lub osoby podlega zniszczeniu; o zniszczeniu protokołu należy uczynić wzmiankę w protokole pokontrolnym.
 
-6. G∏ówny Inspektor Pracy okreÊli zasady post´powania zprotoko∏ami przes∏uchaƒ iinnymi dokumentami, na które rozciàga si´ obowiàzek zachowania tajemnicy s∏u˝bowej.
+6. Główny Inspektor Pracy określi zasady postępowania zprotokołami przesłuchań iinnymi dokumentami, na które rozciąga się obowiązek zachowania tajemnicy służbowej.
 
 **Art. 24.**
 
-1. Inspektorzy pracy sà uprawnieni do przeprowadzania, bez uprzedzenia i o ka˝dej porze dnia i nocy, kontroli przestrzegania przepisów prawa pracy, wszczególnoÊci stanu bezpieczeƒstwa ihigieny pracy oraz kontroli przestrzegania przepisów dotyczàcych legalnoÊci zatrudnienia wzakresie, októrym mowa w art. 10 ust. 1 pkt 3 i 4.
+1. Inspektorzy pracy są uprawnieni do przeprowadzania, bez uprzedzenia i o każdej porze dnia i nocy, kontroli przestrzegania przepisów prawa pracy, wszczególności stanu bezpieczeństwa ihigieny pracy oraz kontroli przestrzegania przepisów dotyczących legalności zatrudnienia wzakresie, októrym mowa w art. 10 ust. 1 pkt 3 i 4.
 
-2. Kontrol´ przeprowadza si´ po okazaniu legitymacji s∏u˝bowej, z zastrze˝eniem ust. 3 i 5.
+2. Kontrolę przeprowadza się po okazaniu legitymacji służbowej, z zastrzeżeniem ust. 3 i 5.
 
-3. Kontrol´ przedsi´biorcy przeprowadza si´ po okazaniu legitymacji s∏u˝bowej i upowa˝nienia do jej przeprowadzenia.
+3. Kontrolę przedsiębiorcy przeprowadza się po okazaniu legitymacji służbowej i upoważnienia do jej przeprowadzenia.
 
-4. Upowa˝nienie do przeprowadzania kontroli uprzedsi´biorcy powinno zawieraç nast´pujàce dane:
+4. Upoważnienie do przeprowadzania kontroli uprzedsiębiorcy powinno zawierać następujące dane:
 
 - **1)** wskazanie podstawy prawnej przeprowadzenia kontroli;
-- **2)** oznaczenie organu kontroli; czyç upowa˝nienie do przeprowadzenia kontroli zawierajàce dane, o których mowa w ust. 4.
+- **2)** oznaczenie organu kontroli; czyć upoważnienie do przeprowadzenia kontroli zawierające dane, o których mowa w ust. 4.
 
-6. Upowa˝nienie do przeprowadzenia kontroli wydajà G∏ówny Inspektor Pracy ijego zast´pcy oraz okr´gowi inspektorzy pracy i ich zast´pcy.
+6. Upoważnienie do przeprowadzenia kontroli wydają Główny Inspektor Pracy ijego zastępcy oraz okręgowi inspektorzy pracy i ich zastępcy.
 
-7. Okr´gowi inspektorzy pracy mogà upowa˝niç nadinspektorów pracy kierowników oddzia∏ów do wydawania upowa˝nieƒ, o których mowa w ust. 3 i 5.
+7. Okręgowi inspektorzy pracy mogą upoważnić nadinspektorów pracy kierowników oddziałów do wydawania upoważnień, o których mowa w ust. 3 i 5.
 
-**Art. 25.** Biegli i specjaliÊci biorà udzia∏ w kontroli na podstawie imiennego upowa˝nienia wydanego odpowiednio przez G∏ównego Inspektora Pracy lub okr´gowego inspektora pracy.
+**Art. 25.** Biegli i specjaliści biorą udział w kontroli na podstawie imiennego upoważnienia wydanego odpowiednio przez Głównego Inspektora Pracy lub okręgowego inspektora pracy.
 
 **Art. 26.**
 
-1. Kontrol´ przeprowadza si´ w siedzibie podmiotu kontrolowanego oraz w innych miejscach wykonywania jego zadaƒ lub przechowywania dokumentów finansowych i kadrowych.
+1. Kontrolę przeprowadza się w siedzibie podmiotu kontrolowanego oraz w innych miejscach wykonywania jego zadań lub przechowywania dokumentów finansowych i kadrowych.
 
-2. Poszczególne czynnoÊci kontrolne mogà byç wykonywane tak˝e w siedzibie jednostki organizacyjnej Paƒstwowej Inspekcji Pracy.
+2. Poszczególne czynności kontrolne mogą być wykonywane także w siedzibie jednostki organizacyjnej Państwowej Inspekcji Pracy.
 
-3. Przed podj´ciem czynnoÊci kontrolnych inspektor pracy zg∏asza swojà obecnoÊç podmiotowi kontrolowanemu, z wyjàtkiem przypadków, gdy zg∏oszenie to mog∏oby mieç wp∏yw na wynik kontroli.
+3. Przed podjęciem czynności kontrolnych inspektor pracy zgłasza swoją obecność podmiotowi kontrolowanemu, z wyjątkiem przypadków, gdy zgłoszenie to mogłoby mieć wpływ na wynik kontroli.
 
-4. Inspektor pracy jest upowa˝niony do swobodnego poruszania si´ po terenie podmiotu kontrolowanego bez obowiàzku uzyskiwania przepustki oraz jest zwolniony od rewizji osobistej, tak˝e w przypadku, je˝eli przewiduje jà wewn´trzny regulamin podmiotu kontrolowanego.
+4. Inspektor pracy jest upoważniony do swobodnego poruszania się po terenie podmiotu kontrolowanego bez obowiązku uzyskiwania przepustki oraz jest zwolniony od rewizji osobistej, także w przypadku, jeżeli przewiduje ją wewnętrzny regulamin podmiotu kontrolowanego.
 
-**Art. 27.** Podmiot kontrolowany ma obowiàzek zapewniç inspektorowi pracy warunki iÊrodki niezb´dne do sprawnego przeprowadzenia kontroli, a w szczególnoÊci niezw∏ocznie przedstawiç ˝àdane dokumenty imateria∏y, zapewniç terminowe udzielanie informacji przez osoby, o których mowa w art. 23 ust. 1 pkt 3, udost´pniç urzàdzenia techniczne oraz, w miar´ mo˝liwoÊci, oddzielne pomieszczenie z odpowiednim wyposa˝eniem.
+**Art. 27.** Podmiot kontrolowany ma obowiązek zapewnić inspektorowi pracy warunki iśrodki niezbędne do sprawnego przeprowadzenia kontroli, a w szczególności niezwłocznie przedstawić żądane dokumenty imateriały, zapewnić terminowe udzielanie informacji przez osoby, o których mowa w art. 23 ust. 1 pkt 3, udostępnić urządzenia techniczne oraz, w miarę możliwości, oddzielne pomieszczenie z odpowiednim wyposażeniem.
 
-**Art. 28.** Inspektor pracy, przyst´pujàc do sprawdzenia to˝samoÊci osoby, o której mowa w art. 23 ust.1 pkt 9, jest obowiàzany okazaç legitymacj´ s∏u˝bowà w taki sposób, aby osoba ta mog∏a odczytaç i zanotowaç jego dane osobowe.
+**Art. 28.** Inspektor pracy, przystępując do sprawdzenia tożsamości osoby, o której mowa w art. 23 ust.1 pkt 9, jest obowiązany okazać legitymację służbową w taki sposób, aby osoba ta mogła odczytać i zanotować jego dane osobowe.
 
 **Art. 29.**
 
-1. Wtoku wykonywania czynnoÊci kontrolnych inspektor pracy wspó∏dzia∏a ze zwiàzkami zawodowymi, organami samorzàdu za∏ogi, radami pracowników i spo∏ecznà inspekcjà pracy.
+1. Wtoku wykonywania czynności kontrolnych inspektor pracy współdziała ze związkami zawodowymi, organami samorządu załogi, radami pracowników i społeczną inspekcją pracy.
 
-2. Wspó∏dzia∏anie, o którym mowa w ust. 1, polega w szczególnoÊci na:
+2. Współdziałanie, o którym mowa w ust. 1, polega w szczególności na:
 
 - **1)** informowaniu o tematyce i zakresie przeprowadzanej kontroli;
-- **2)** analizowaniu zg∏oszonych uwag i spostrze˝eƒ;
-- **3)** informowaniu o wynikach kontroli i podj´tych decyzjach;
+- **2)** analizowaniu zgłoszonych uwag i spostrzeżeń;
+- **3)** informowaniu o wynikach kontroli i podjętych decyzjach;
 - **4)** udzielaniu porad iinformacji zzakresu prawa pracy.
 
-**Art. 30.** Podczas wykonywania czynnoÊci kontrolnych inspektor pracy oraz osoby, o których mowa wart. 22 ust. 3 iart. 25, obowiàzani sà do przestrzegania przepisów bezpieczeƒstwa i higieny pracy, przepisów przeciwpo˝arowych oraz przepisów o ochronie informacji niejawnych.
+**Art. 30.** Podczas wykonywania czynności kontrolnych inspektor pracy oraz osoby, o których mowa wart. 22 ust. 3 iart. 25, obowiązani są do przestrzegania przepisów bezpieczeństwa i higieny pracy, przepisów przeciwpożarowych oraz przepisów o ochronie informacji niejawnych.
 
 **Art. 31.**
 
-1. Ustalenia kontroli dokumentowane sà, z zastrze˝eniem ust. 10, w formie protoko∏u.
+1. Ustalenia kontroli dokumentowane są, z zastrzeżeniem ust. 10, w formie protokołu.
 
-2. Protokó∏ kontroli powinien zawieraç:
+2. Protokół kontroli powinien zawierać:
 
-- **1)** nazw´ podmiotu kontrolowanego wpe∏nym brzmieniu i jego adres oraz numer z krajowego rejestru urz´dowego podmiotów gospodarki narodowej (REGON) oraz numer identyfikacji podatkowej (NIP);
-- **2)** imi´ i nazwisko oraz stanowisko s∏u˝bowe inspektora pracy;
-- **3)** imi´ i nazwisko osoby reprezentujàcej podmiot
-- **9)** informacj´ o pobraniu próbek surowców i materia∏ów u˝ywanych, wytwarzanych lub powstajàcych w toku produkcji;
-- **10)** treÊç decyzji ustnych oraz informacj´ oich realizacji;
-- **11)** informacj´ o liczbie i rodzaju udzielonych porad z zakresu prawa pracy;
-- **12)** wyszczególnienie za∏àczników stanowiàcych sk∏adowà cz´Êç protoko∏u;
-- **13)** informacje o osobach, w obecnoÊci których przeprowadzano kontrol´;
-- **14)** na wniosek podmiotu kontrolowanego wzmiank´ o informacjach obj´tych tajemnicà przedsi´biorstwa;
-- **15)** wzmiank´ o wniesieniu lub niewniesieniu zastrze˝eƒ do treÊci protoko∏u oraz ewentualnym usuni´ciu stwierdzonych nieprawid∏owoÊci przed zakoƒczeniem kontroli;
-- **16)** dat´ i miejsce podpisania protoko∏u przez osob´ kontrolowany oraz nazw´ organu reprezentujàcego ten podmiot;
-- **4)** dat´ rozpocz´cia dzia∏alnoÊci przez podmiot kontrolowany oraz dat´ obj´cia stanowiska przez osob´ lub powo∏ania organu, októrych mowa wpkt 3;
-- **5)** oznaczenie dni, wktórych przeprowadzano kontrol´;
-- **6)** informacj´ o realizacji uprzednich decyzji i wystàpieƒ organów Paƒstwowej Inspekcji Pracy oraz wniosków, zaleceƒ i decyzji innych organów kontroli i nadzoru nad warunkami pracy;
-- **7)** opis stwierdzonych naruszeƒ prawa oraz inne informacje majàce istotne znaczenie dla wyników kontroli;
-- **8)** dane osoby legitymowanej oraz okreÊlenie czasu, miejsca i przyczyny legitymowania; kontrolujàcà oraz przez osob´ lub organ reprezentujàcy podmiot kontrolowany.
+- **1)** nazwę podmiotu kontrolowanego wpełnym brzmieniu i jego adres oraz numer z krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON) oraz numer identyfikacji podatkowej (NIP);
+- **2)** imię i nazwisko oraz stanowisko służbowe inspektora pracy;
+- **3)** imię i nazwisko osoby reprezentującej podmiot
+- **9)** informację o pobraniu próbek surowców i materiałów używanych, wytwarzanych lub powstających w toku produkcji;
+- **10)** treść decyzji ustnych oraz informację oich realizacji;
+- **11)** informację o liczbie i rodzaju udzielonych porad z zakresu prawa pracy;
+- **12)** wyszczególnienie załączników stanowiących składową część protokołu;
+- **13)** informacje o osobach, w obecności których przeprowadzano kontrolę;
+- **14)** na wniosek podmiotu kontrolowanego wzmiankę o informacjach objętych tajemnicą przedsiębiorstwa;
+- **15)** wzmiankę o wniesieniu lub niewniesieniu zastrzeżeń do treści protokołu oraz ewentualnym usunięciu stwierdzonych nieprawidłowości przed zakończeniem kontroli;
+- **16)** datę i miejsce podpisania protokołu przez osobę kontrolowany oraz nazwę organu reprezentującego ten podmiot;
+- **4)** datę rozpoczęcia działalności przez podmiot kontrolowany oraz datę objęcia stanowiska przez osobę lub powołania organu, októrych mowa wpkt 3;
+- **5)** oznaczenie dni, wktórych przeprowadzano kontrolę;
+- **6)** informację o realizacji uprzednich decyzji i wystąpień organów Państwowej Inspekcji Pracy oraz wniosków, zaleceń i decyzji innych organów kontroli i nadzoru nad warunkami pracy;
+- **7)** opis stwierdzonych naruszeń prawa oraz inne informacje mające istotne znaczenie dla wyników kontroli;
+- **8)** dane osoby legitymowanej oraz określenie czasu, miejsca i przyczyny legitymowania; kontrolującą oraz przez osobę lub organ reprezentujący podmiot kontrolowany.
 
-3. Protokó∏ podpisuje inspektor pracy prowadzàcy kontrol´ oraz osoba lub organ reprezentujàcy podmiot kontrolowany.
+3. Protokół podpisuje inspektor pracy prowadzący kontrolę oraz osoba lub organ reprezentujący podmiot kontrolowany.
 
-4. Podmiotowi kontrolowanemu przys∏uguje prawo zg∏oszenia, przed podpisaniem protoko∏u kontroli, umotywowanych zastrze˝eƒ do ustaleƒ zawartych w protokole.
+4. Podmiotowi kontrolowanemu przysługuje prawo zgłoszenia, przed podpisaniem protokołu kontroli, umotywowanych zastrzeżeń do ustaleń zawartych w protokole.
 
-5. Zastrze˝enia nale˝y zg∏osiç na piÊmie wterminie 7 dni od dnia przedstawienia protoko∏u.
+5. Zastrzeżenia należy zgłosić na piśmie wterminie 7 dni od dnia przedstawienia protokołu.
 
-6. W razie zg∏oszenia zastrze˝eƒ, o których mowa w ust. 4, inspektor pracy przeprowadzajàcy kontrol´ zobowiàzany jest je zbadaç, a w przypadku stwierdzenia zasadnoÊci zastrze˝eƒ zmieniç lub uzupe∏niç odpowiednià cz´Êç protoko∏u.
+6. W razie zgłoszenia zastrzeżeń, o których mowa w ust. 4, inspektor pracy przeprowadzający kontrolę zobowiązany jest je zbadać, a w przypadku stwierdzenia zasadności zastrzeżeń zmienić lub uzupełnić odpowiednią część protokołu.
 
-7. W protokole nie mo˝na dokonywaç poprawek, skreÊleƒ ani uzupe∏nieƒ bez omówienia ich na koƒcu protoko∏u, z wyjàtkiem sprostowania oczywistych omy∏ek pisarskich i rachunkowych, które parafuje inspektor pracy, oznaczajàc parafy datà ich dokonania.
+7. W protokole nie można dokonywać poprawek, skreśleń ani uzupełnień bez omówienia ich na końcu protokołu, z wyjątkiem sprostowania oczywistych omyłek pisarskich i rachunkowych, które parafuje inspektor pracy, oznaczając parafy datą ich dokonania.
 
-8. Odmowa podpisania protoko∏u przez osob´ lub organ reprezentujàcy podmiot kontrolowany nie stanowi przeszkody do zastosowania przez inspektora pracy stosownych Êrodków prawnych przewidzianych ustawà.
+8. Odmowa podpisania protokołu przez osobę lub organ reprezentujący podmiot kontrolowany nie stanowi przeszkody do zastosowania przez inspektora pracy stosownych środków prawnych przewidzianych ustawą.
 
-9. Kopi´ protoko∏u kontroli inspektor pracy pozostawia podmiotowi kontrolowanemu.
+9. Kopię protokołu kontroli inspektor pracy pozostawia podmiotowi kontrolowanemu.
 
-10. W przypadku niestwierdzenia uchybieƒ wynik kontroli mo˝e byç udokumentowany w formie notatki urz´dowej, która powinna zawieraç zwi´z∏y opis stanu faktycznego stwierdzonego w czasie kontroli.
+10. W przypadku niestwierdzenia uchybień wynik kontroli może być udokumentowany w formie notatki urzędowej, która powinna zawierać zwięzły opis stanu faktycznego stwierdzonego w czasie kontroli.
 
-11. Notatk´ urz´dowà podpisuje inspektor pracy. Przepis ust. 9 stosuje si´ odpowiednio.
+11. Notatkę urzędową podpisuje inspektor pracy. Przepis ust. 9 stosuje się odpowiednio.
 
 **Art. 32.**
 
-1. Wzór legitymacji s∏u˝bowej, októrej mowa w art. 24 ust. 2 ustala, w drodze zarzàdzenia, Marsza∏ek Sejmu, na wniosek G∏ównego Inspektora Pracy. Zarzàdzenie Marsza∏ka Sejmu w tej sprawie podlega og∏oszeniu w Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”.
+1. Wzór legitymacji służbowej, októrej mowa w art. 24 ust. 2 ustala, w drodze zarządzenia, Marszałek Sejmu, na wniosek Głównego Inspektora Pracy. Zarządzenie Marszałka Sejmu w tej sprawie podlega ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”.
 
-2. Wzory druków stosowanych wdzia∏alnoÊci kontrolnej Paƒstwowej Inspekcji Pracy okreÊla G∏ówny Inspektor Pracy.
+2. Wzory druków stosowanych wdziałalności kontrolnej Państwowej Inspekcji Pracy określa Główny Inspektor Pracy.
 
 **Art. 33.**
 
-1. W wyniku ustaleƒ dokonanych w toku kontroli w∏aÊciwy inspektor pracy:
+1. W wyniku ustaleń dokonanych w toku kontroli właściwy inspektor pracy:
 
 - **1)** wydaje decyzje, o których mowa w art. 11 pkt 1—4 oraz 6 i7;
-- **2)** kieruje wystàpienia, októrych mowa wart. 11 pkt 8;
-- **3)** wnosi powództwa oraz wst´puje do post´powania wsprawach, októrych mowa wart. 10 ust. 1 pkt 11;
-- **4)** podejmuje inne dzia∏ania, je˝eli prawo lub obowiàzek ich podj´cia wynika z odr´bnych przepisów.
+- **2)** kieruje wystąpienia, októrych mowa wart. 11 pkt 8;
+- **3)** wnosi powództwa oraz wstępuje do postępowania wsprawach, októrych mowa wart. 10 ust. 1 pkt 11;
+- **4)** podejmuje inne działania, jeżeli prawo lub obowiązek ich podjęcia wynika z odrębnych przepisów.
 
-2. Ârodki prawne, o których mowa w ust. 1 pkt 1 i 2, dotyczàce terenowych jednostek organizacyjnych podmiotu kontrolowanego, inspektor pracy kieruje do tego podmiotu, bez wzgl´du na swojà w∏aÊciwoÊç terytorialnà. Je˝eli usuni´cie stwierdzonych nieprawid∏owoÊci nie wymaga decyzji pracodawcy, a tak˝e gdy nie mo˝na inaczej uniknàç niebezpieczeƒstwa zagra˝ajàcego ˝yciu lub zdrowiu pracowników, decyzje, októrych mowa wart. 34 ust. 1, wydaje si´ osobie kierujàcej tà jednostkà.
+2. Ârodki prawne, o których mowa w ust. 1 pkt 1 i 2, dotyczące terenowych jednostek organizacyjnych podmiotu kontrolowanego, inspektor pracy kieruje do tego podmiotu, bez względu na swoją właściwość terytorialną. Jeżeli usunięcie stwierdzonych nieprawidłowości nie wymaga decyzji pracodawcy, a także gdy nie można inaczej uniknąć niebezpieczeństwa zagrażającego życiu lub zdrowiu pracowników, decyzje, októrych mowa wart. 34 ust. 1, wydaje się osobie kierującej tą jednostką.
 
 **Art. 34.**
 
-1. Decyzje, o których mowa w art. 11 pkt 1—7, wydawane sà w formie:
+1. Decyzje, o których mowa w art. 11 pkt 1—7, wydawane są w formie:
 
 - **1)** pisemnej;
-- **2)** stanowiàcej wpis do dziennika budowy;
+- **2)** stanowiącej wpis do dziennika budowy;
 - **3)** ustnej.
 
-2. Decyzja, októrej mowa wust. 1 pkt 1 i2, oprócz treÊci, powinna zawieraç okreÊlenie podstawy prawnej, termin usuni´cia stwierdzonych uchybieƒ oraz pouczenie oprzys∏ugujàcych podmiotowi kontrolowanemu Êrodkach odwo∏awczych.
+2. Decyzja, októrej mowa wust. 1 pkt 1 i2, oprócz treści, powinna zawierać określenie podstawy prawnej, termin usunięcia stwierdzonych uchybień oraz pouczenie oprzysługujących podmiotowi kontrolowanemu środkach odwoławczych.
 
-3. W przypadku wydania decyzji w formie wpisu do dziennika budowy, kopia lub odpis tej decyzji stanowi za∏àcznik do protoko∏u kontroli.
+3. W przypadku wydania decyzji w formie wpisu do dziennika budowy, kopia lub odpis tej decyzji stanowi załącznik do protokołu kontroli.
 
-4. Decyzj´ ustnà, o której mowa w ust. 1 pkt 3, wydaje si´ w celu usuni´cia ujawnionych w toku kontroli uchybieƒ wzakresie bezpieczeƒstwa ihigieny pracy, je˝eli mogà byç one usuni´te podczas trwania kontroli.
+4. Decyzję ustną, o której mowa w ust. 1 pkt 3, wydaje się w celu usunięcia ujawnionych w toku kontroli uchybień wzakresie bezpieczeństwa ihigieny pracy, jeżeli mogą być one usunięte podczas trwania kontroli.
 
-5. Od decyzji inspektora pracy wydanej w formie pisemnej lub stanowiàcej wpis do dziennika budowy, podmiotowi kontrolowanemu przys∏uguje odwo∏anie do okr´gowego inspektora pracy. Odwo∏anie wnosi si´ w terminie 7 dni od daty otrzymania decyzji.
+5. Od decyzji inspektora pracy wydanej w formie pisemnej lub stanowiącej wpis do dziennika budowy, podmiotowi kontrolowanemu przysługuje odwołanie do okręgowego inspektora pracy. Odwołanie wnosi się w terminie 7 dni od daty otrzymania decyzji.
 
-6. W razie wniesienia odwo∏ania od decyzji wydanych w przypadkach, o których mowa w art. 11 pkt 2—4, okr´gowy inspektor pracy mo˝e wstrzymaç li podj´te przez podmiot kontrolowany przedsi´wzi´cia wy∏àczajà bezpoÊrednie zagro˝enie ˝ycia lub zdrowia ludzi.
+6. W razie wniesienia odwołania od decyzji wydanych w przypadkach, o których mowa w art. 11 pkt 2—4, okręgowy inspektor pracy może wstrzymać li podjęte przez podmiot kontrolowany przedsięwzięcia wyłączają bezpośrednie zagrożenie życia lub zdrowia ludzi.
 
-**Art. 35.** Podmiot kontrolowany, do którego zosta∏a skierowana decyzja, októrej mowa wart. 11 pkt 1—7, ma obowiàzek informowania odpowiedniego organu Paƒstwowej Inspekcji Pracy o jej realizacji z up∏ywem terminów okreÊlonych w decyzji.
+**Art. 35.** Podmiot kontrolowany, do którego została skierowana decyzja, októrej mowa wart. 11 pkt 1—7, ma obowiązek informowania odpowiedniego organu Państwowej Inspekcji Pracy o jej realizacji z upływem terminów określonych w decyzji.
 
 **Art. 36.**
 
-1. Wystàpienie, o którym mowa w art. 11 pkt 8, powinno zawieraç wnioski pokontrolne i ich podstaw´ prawnà.
+1. Wystąpienie, o którym mowa w art. 11 pkt 8, powinno zawierać wnioski pokontrolne i ich podstawę prawną.
 
-2. Podmiot kontrolowany lub organ sprawujàcy nad nim nadzór, do którego skierowano wystàpienie, jest obowiàzany w terminie okreÊlonym w wystàpieniu, nie d∏u˝szym ni˝ 30 dni, zawiadomiç odpowiedni organ Paƒstwowej Inspekcji Pracy o terminie i sposobie realizacji wniosków pokontrolnych.
+2. Podmiot kontrolowany lub organ sprawujący nad nim nadzór, do którego skierowano wystąpienie, jest obowiązany w terminie określonym w wystąpieniu, nie dłuższym niż 30 dni, zawiadomić odpowiedni organ Państwowej Inspekcji Pracy o terminie i sposobie realizacji wniosków pokontrolnych.
 
 **Art. 37.**
 
-1. W razie stwierdzenia w toku kontroli wykroczenia polegajàcego na naruszeniu przepisów jej wykonanie do czasu rozpatrzenia odwo∏ania, je˝eustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy w zakresie okreÊlonym w art. 10 ust. 1 pkt 3 i 4, w∏aÊciwy inspektor pracy wyst´puje zwnioskiem do w∏aÊciwego sàdu oukaranie osób odpowiedzialnych za stwierdzone nieprawid∏owoÊci.
+1. W razie stwierdzenia w toku kontroli wykroczenia polegającego na naruszeniu przepisów jej wykonanie do czasu rozpatrzenia odwołania, jeżeustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy w zakresie określonym w art. 10 ust. 1 pkt 3 i 4, właściwy inspektor pracy występuje zwnioskiem do właściwego sądu oukaranie osób odpowiedzialnych za stwierdzone nieprawidłowości.
 
-2. W∏aÊciwy inspektor pracy zawiadamia o naruszeniu przepisów prawa w∏aÊciwe organy, a w szczególnoÊci:
+2. Właściwy inspektor pracy zawiadamia o naruszeniu przepisów prawa właściwe organy, a w szczególności:
 
-- **1)** Zak∏ad Ubezpieczeƒ Spo∏ecznych o naruszeniu przepisów w zakresie ubezpieczeƒ spo∏ecznych;
-- **2)** urzàd kontroli skarbowej o naruszeniu przepisów prawa podatkowego;
-- **3)** Policj´ lub Stra˝ Granicznà onaruszeniu przepisów o cudzoziemcach.
+- **1)** Zakład Ubezpieczeń Społecznych o naruszeniu przepisów w zakresie ubezpieczeń społecznych;
+- **2)** urząd kontroli skarbowej o naruszeniu przepisów prawa podatkowego;
+- **3)** Policję lub Straż Graniczną onaruszeniu przepisów o cudzoziemcach.
 
-3. Okr´gowy inspektor pracy niezw∏ocznie powiadamia marsza∏ka w∏aÊciwego województwa o przypadkach naruszenia warunków prowadzenia agencji zatrudnienia okreÊlonych w przepisach o promocji zatrudnienia i instytucjach rynku pracy.
+3. Okręgowy inspektor pracy niezwłocznie powiadamia marszałka właściwego województwa o przypadkach naruszenia warunków prowadzenia agencji zatrudnienia określonych w przepisach o promocji zatrudnienia i instytucjach rynku pracy.
 
-4. Okr´gowy inspektor pracy niezw∏ocznie powiadamia w∏aÊciwego starost´ o stwierdzonych przypadkach naruszenia przez bezrobotnego lub przez podmiot kontrolowany przepisów opromocji zatrudnienia i instytucjach rynku pracy. Rozdzia∏ 5 Pracownicy Paƒstwowej Inspekcji Pracy
+4. Okręgowy inspektor pracy niezwłocznie powiadamia właściwego starostę o stwierdzonych przypadkach naruszenia przez bezrobotnego lub przez podmiot kontrolowany przepisów opromocji zatrudnienia i instytucjach rynku pracy.
+
+#### Rozdział 5 Pracownicy Państwowej Inspekcji Pracy
 
 **Art. 38.**
 
-1. Pracownikami Paƒstwowej Inspekcji Pracy sà:
+1. Pracownikami Państwowej Inspekcji Pracy są:
 
-- **1)** G∏ówny Inspektor Pracy i jego zast´pcy;
-- **2)** okr´gowi inspektorzy pracy i ich zast´pcy;
-- **3)** pracownicy wykonujàcy czynnoÊci kontrolne;
+- **1)** Główny Inspektor Pracy i jego zastępcy;
+- **2)** okręgowi inspektorzy pracy i ich zastępcy;
+- **3)** pracownicy wykonujący czynności kontrolne;
 - **4)** pracownicy zatrudnieni na innych stanowiskach.
 
-2. Pracownikami wykonujàcymi czynnoÊci kontrolne sà inspektorzy pracy zatrudnieni na stanowiskach:
+2. Pracownikami wykonującymi czynności kontrolne są inspektorzy pracy zatrudnieni na stanowiskach:
 
-- **1)** nadinspektora pracy kierownika oddzia∏u,
+- **1)** nadinspektora pracy kierownika oddziału,
 - **2)** nadinspektora pracy,
-- **3)** starszego inspektora pracy g∏ównego specjalisty,
+- **3)** starszego inspektora pracy głównego specjalisty,
 - **4)** starszego inspektora pracy specjalisty,
 - **5)** starszego inspektora pracy,
 - **6)** inspektora pracy,
-- **7)** m∏odszego inspektora pracy.
+- **7)** młodszego inspektora pracy.
 
-3. G∏ówny Inspektor Pracy ijego zast´pcy, okr´gowi inspektorzy pracy i ich zast´pcy oraz wyznaczeni pracownicy G∏ównego Inspektoratu Pracy i okr´gowych inspektoratów pracy sà pracownikami nadzorujàcymi czynnoÊci kontrolne.
+3. Główny Inspektor Pracy ijego zastępcy, okręgowi inspektorzy pracy i ich zastępcy oraz wyznaczeni pracownicy Głównego Inspektoratu Pracy i okręgowych inspektoratów pracy są pracownikami nadzorującymi czynności kontrolne.
 
-4. Wykaz pracowników, wyznaczonych do nadzorowania czynnoÊci kontrolnych, ustala odpowiednio by∏a pracownikiem Paƒstwowej Inspekcji Pracy, przys∏uguje prawo do nawiàzania stosunku pracy na stanowisku równorz´dnym z zajmowanym przed powo∏aniem.
+4. Wykaz pracowników, wyznaczonych do nadzorowania czynności kontrolnych, ustala odpowiednio była pracownikiem Państwowej Inspekcji Pracy, przysługuje prawo do nawiązania stosunku pracy na stanowisku równorzędnym z zajmowanym przed powołaniem.
 
-3. Stosunek pracy z pracownikami wymienionymi wust. 1 oraz zpracownikami, októrych mowa wart. 5 ust. 3, nawiàzuje si´ na podstawie powo∏ania.
+3. Stosunek pracy z pracownikami wymienionymi wust. 1 oraz zpracownikami, októrych mowa wart. 5 ust. 3, nawiązuje się na podstawie powołania.
 
 **Art. 41.**
 
-1. Stosunek pracy z pracownikiem wykonujàcym czynnoÊci kontrolne nawiàzuje si´ na podstawie mianowania, poprzedzonego umowà o prac´ na czas okreÊlony, nie d∏u˝szy ni˝ 3 lata, z zastrze˝eniem ust. 4.
+1. Stosunek pracy z pracownikiem wykonującym czynności kontrolne nawiązuje się na podstawie mianowania, poprzedzonego umową o pracę na czas określony, nie dłuższy niż 3 lata, z zastrzeżeniem ust. 4.
 
-2. Pracowników wykonujàcych czynnoÊci kontrolne mianuje irozwiàzuje znimi stosunek pracy G∏ówny Inspektor Pracy.
+2. Pracowników wykonujących czynności kontrolne mianuje irozwiązuje znimi stosunek pracy Główny Inspektor Pracy.
 
-3. Mianowanie jest uzale˝nione od odbycia aplikacji inspektorskiej zakoƒczonej z∏o˝eniem paƒstwowego egzaminu z wynikiem pozytywnym przed komisjà G∏ówny Inspektor Pracy lub okr´gowy inspektor pracy.
+3. Mianowanie jest uzależnione od odbycia aplikacji inspektorskiej zakończonej złożeniem państwowego egzaminu z wynikiem pozytywnym przed komisją Główny Inspektor Pracy lub okręgowy inspektor pracy.
 
-**Art. 39.** Pracownikiem Paƒstwowej Inspekcji Pracy nadzorujàcym lub wykonujàcym czynnoÊci kontrolne mo˝e byç osoba, która:
+**Art. 39.** Pracownikiem Państwowej Inspekcji Pracy nadzorującym lub wykonującym czynności kontrolne może być osoba, która:
 
 **Art. 40.**
 
-1. G∏ówny Inspektor Pracy powo∏uje i odwo∏uje:
+1. Główny Inspektor Pracy powołuje i odwołuje:
 
-- **1)** w G∏ównym Inspektoracie Pracy dyrektora i wicedyrektora Gabinetu G∏ównego Inspektora Pracy, dyrektorów i wicedyrektorów departamentów, g∏ównego ksi´gowego, doradców, ekspertów i rzecznika prasowego oraz kierowników sekcji;
-- **2)** w okr´gowym inspektoracie pracy g∏ównego ksi´gowego, nadinspektorów pracy kierowników oddzia∏ów, doradców oraz kierowników sekcji;
-- **3)** wOÊrodku dyrektora ijego zast´pc´ oraz g∏ównego ksi´gowego.
+- **1)** w Głównym Inspektoracie Pracy dyrektora i wicedyrektora Gabinetu Głównego Inspektora Pracy, dyrektorów i wicedyrektorów departamentów, głównego księgowego, doradców, ekspertów i rzecznika prasowego oraz kierowników sekcji;
+- **2)** w okręgowym inspektoracie pracy głównego księgowego, nadinspektorów pracy kierowników oddziałów, doradców oraz kierowników sekcji;
+- **3)** wOśrodku dyrektora ijego zastępcę oraz głównego księgowego.
 
-2. Osobie odwo∏anej ze stanowiska, o którym mowa wust. 1, która przed powo∏aniem na to stanowisko egzaminacyjnà powo∏anà przez G∏ównego Inspektora Pracy.
+2. Osobie odwołanej ze stanowiska, o którym mowa wust. 1, która przed powołaniem na to stanowisko egzaminacyjną powołaną przez Głównego Inspektora Pracy.
 
-4. G∏ówny Inspektor Pracy mo˝e, w przypadkach uzasadnionych kwalifikacjami lub praktykà zawodowà, mianowaç pracownika wykonujàcego czynnoÊci kontrolne bez uprzedniego zawierania umowy o prac´, a tak˝e bez zachowania wymogu aplikacji inspektorskiej.
+4. Główny Inspektor Pracy może, w przypadkach uzasadnionych kwalifikacjami lub praktyką zawodową, mianować pracownika wykonującego czynności kontrolne bez uprzedniego zawierania umowy o pracę, a także bez zachowania wymogu aplikacji inspektorskiej.
 
-5. G∏ówny Inspektor Pracy okreÊli zakres i tryb przeprowadzania aplikacji inspektorskiej ipaƒstwowego egzaminu, o którym mowa w art. 39 pkt 4.
+5. Główny Inspektor Pracy określi zakres i tryb przeprowadzania aplikacji inspektorskiej ipaństwowego egzaminu, o którym mowa w art. 39 pkt 4.
 
-**Art. 42.** Pracownicy, októrych mowa wart. 38 ust. 1 pkt 4, zwy∏àczeniem pracowników okreÊlonych wart. 40 ust. 1, zatrudniani sà na podstawie umowy oprac´.
+**Art. 42.** Pracownicy, októrych mowa wart. 38 ust. 1 pkt 4, zwyłączeniem pracowników określonych wart. 40 ust. 1, zatrudniani są na podstawie umowy opracę.
 
 **Art. 43.**
 
-1. Przy mianowaniu pracownik Paƒstwowej Inspekcji Pracy sk∏ada pisemne Êlubowanie nast´pujàcej treÊci: „Âlubuj´ s∏u˝yç Paƒstwu Polskiemu, przestrzegaç porzàdku prawnego, wykonywaç obowiàzki pracownika Paƒstwowej Inspekcji Pracy sumiennie, bezstronnie, zgodnie z najlepszà wiedzà i wolà”.
+1. Przy mianowaniu pracownik Państwowej Inspekcji Pracy składa pisemne ślubowanie następującej treści: ŃÂlubuję służyć Państwu Polskiemu, przestrzegać porządku prawnego, wykonywać obowiązki pracownika Państwowej Inspekcji Pracy sumiennie, bezstronnie, zgodnie z najlepszą wiedzą i wolą”.
 
 2. Akt mianowania zawiera:
 
-- **1)** imi´ i nazwisko pracownika;
-- **2)** dat´ mianowania;
-- **3)** stanowisko s∏u˝bowe i jednostk´ organizacyjnà;
-- **4)** sk∏adniki i wysokoÊç wynagrodzenia;
+- **1)** imię i nazwisko pracownika;
+- **2)** datę mianowania;
+- **3)** stanowisko służbowe i jednostkę organizacyjną;
+- **4)** składniki i wysokość wynagrodzenia;
 - **5)** wymiar czasu pracy.
 
 **Art. 44.**
 
-1. Pracownicy wykonujàcy czynnoÊci kontrolne sà odpowiedzialni za sumienne wykonywanie swoich obowiàzków, a w szczególnoÊci za rzetelne i obiektywne ujmowanie i dokumentowanie wyników kontroli oraz za przestrzeganie tajemnicy paƒstwowej i s∏u˝bowej.
+1. Pracownicy wykonujący czynności kontrolne są odpowiedzialni za sumienne wykonywanie swoich obowiązków, a w szczególności za rzetelne i obiektywne ujmowanie i dokumentowanie wyników kontroli oraz za przestrzeganie tajemnicy państwowej i służbowej.
 
-2. Pracownicy, o których mowa w ust. 1, w zakresie swojego dzia∏ania sà niezale˝ni od jakichkolwiek wp∏ywów postronnych i nie mogà uczestniczyç w interesach podmiotów kontrolowanych.
+2. Pracownicy, o których mowa w ust. 1, w zakresie swojego działania są niezależni od jakichkolwiek wpływów postronnych i nie mogą uczestniczyć w interesach podmiotów kontrolowanych.
 
-3. Pracownicy, o których mowa w ust. 1, sà obowiàzani do nieujawniania informacji, ˝e kontrola przeprowadzana jest w nast´pstwie skargi, chyba ˝e zg∏aszajàcy skarg´ wyrazi na to pisemnà zgod´.
+3. Pracownicy, o których mowa w ust. 1, są obowiązani do nieujawniania informacji, że kontrola przeprowadzana jest w następstwie skargi, chyba że zgłaszający skargę wyrazi na to pisemną zgodę.
 
 **Art. 45.**
 
-1. Pracownik Paƒstwowej Inspekcji Pracy jest obowiàzany zachowaç w tajemnicy informacje, które uzyska∏ w zwiàzku z wykonywaniem obowiàzków s∏u˝bowych.
+1. Pracownik Państwowej Inspekcji Pracy jest obowiązany zachować w tajemnicy informacje, które uzyskał w związku z wykonywaniem obowiązków służbowych.
 
-2. Obowiàzek zachowania tajemnicy trwa równie˝ po ustaniu zatrudnienia.
+2. Obowiązek zachowania tajemnicy trwa również po ustaniu zatrudnienia.
 
 **Art. 46.**
 
-1. Pracownik Paƒstwowej Inspekcji Pracy jest obowiàzany starannie wype∏niaç polecenia s∏u˝bowe prze∏o˝onych.
+1. Pracownik Państwowej Inspekcji Pracy jest obowiązany starannie wypełniać polecenia służbowe przełożonych.
 
-2. Je˝eli polecenie s∏u˝bowe w przekonaniu pracownika jest niezgodne zprawem lub zawiera znamiona pomy∏ki, pracownik powinien przedstawiç swoje zastrze˝enia prze∏o˝onemu; w razie pisemnego potwierdzenia polecenia jest obowiàzany je wykonaç, z zastrze˝eniem ust. 3.
+2. Jeżeli polecenie służbowe w przekonaniu pracownika jest niezgodne zprawem lub zawiera znamiona pomyłki, pracownik powinien przedstawić swoje zastrzeżenia przełożonemu; w razie pisemnego potwierdzenia polecenia jest obowiązany je wykonać, z zastrzeżeniem ust. 3.
 
-3. Pracownikowi nie wolno wykonywaç poleceƒ, których wykonanie stanowi∏oby przest´pstwo lub grozi∏o niepowetowanà szkodà.
+3. Pracownikowi nie wolno wykonywać poleceń, których wykonanie stanowiłoby przestępstwo lub groziło niepowetowaną szkodą.
 
 **Art. 47.**
 
-1. Pracownik wykonujàcy czynnoÊci kontrolne nie mo˝e prowadziç dzia∏alnoÊci politycznej.
+1. Pracownik wykonujący czynności kontrolne nie może prowadzić działalności politycznej.
 
-2. Pracownikowi, októrym mowa wust. 1, ubiegajàcemu si´ o mandat pos∏a lub senatora udziela si´ urlopu bezp∏atnego na czas kampanii wyborczej.
+2. Pracownikowi, októrym mowa wust. 1, ubiegającemu się o mandat posła lub senatora udziela się urlopu bezpłatnego na czas kampanii wyborczej.
 
 **Art. 48.**
 
-1. Pracownik Paƒstwowej Inspekcji Pracy nie mo˝e wykonywaç zaj´ç, które godzi∏yby w interes Paƒstwowej Inspekcji Pracy lub by∏yby niezgodne zjej zadaniami, a tak˝e pozostawa∏yby w sprzecznoÊci z obowiàzkami pracownika lub mog∏yby wywo∏ywaç podejrzenie o stronniczoÊç lub interesownoÊç.
+1. Pracownik Państwowej Inspekcji Pracy nie może wykonywać zajęć, które godziłyby w interes Państwowej Inspekcji Pracy lub byłyby niezgodne zjej zadaniami, a także pozostawałyby w sprzeczności z obowiązkami pracownika lub mogłyby wywoływać podejrzenie o stronniczość lub interesowność.
 
-2. Pracownik Paƒstwowej Inspekcji Pracy nie mo˝e podejmowaç zaj´ç zarobkowych bez uprzedniej zgody G∏ównego Inspektora Pracy.
+2. Pracownik Państwowej Inspekcji Pracy nie może podejmować zajęć zarobkowych bez uprzedniej zgody Głównego Inspektora Pracy.
 
 **Art. 49.**
 
-1. Pracownik wykonujàcy czynnoÊci kontrolne podlega okresowym ocenom kwalifikacyjnym nie rzadziej ni˝ raz na 3 lata.
+1. Pracownik wykonujący czynności kontrolne podlega okresowym ocenom kwalifikacyjnym nie rzadziej niż raz na 3 lata.
 
-2. Oceny dokonuje prze∏o˝ony pracownika i o treÊci oceny kwalifikacyjnej powiadamia pracownika.
+2. Oceny dokonuje przełożony pracownika i o treści oceny kwalifikacyjnej powiadamia pracownika.
 
-3. Pracownik mo˝e odwo∏aç si´ od oceny kwalifikacyjnej do G∏ównego Inspektora Pracy w terminie 14 dni od powiadomienia go o treÊci oceny.
+3. Pracownik może odwołać się od oceny kwalifikacyjnej do Głównego Inspektora Pracy w terminie 14 dni od powiadomienia go o treści oceny.
 
-4. G∏ówny Inspektor Pracy okreÊli termin itryb doArt. 50. 1. Je˝eli wymagajà tego potrzeby urz´du, pracownikowi Paƒstwowej Inspekcji Pracy mo˝na zleciç, na okres do trzech miesi´cy w roku kalendarzowym, wykonywanie innej pracy ni˝ okreÊlona w akcie mianowania lub w umowie o prac´, zgodnej z jego kwalifikacjami. W okresie tym przys∏uguje mu wynagrodzenie stosowne do wykonywanej pracy, lecz nie ni˝sze od dotychczasowego.
+4. Główny Inspektor Pracy określi termin itryb doArt. 50. 1. Jeżeli wymagają tego potrzeby urzędu, pracownikowi Państwowej Inspekcji Pracy można zlecić, na okres do trzech miesięcy w roku kalendarzowym, wykonywanie innej pracy niż określona w akcie mianowania lub w umowie o pracę, zgodnej z jego kwalifikacjami. W okresie tym przysługuje mu wynagrodzenie stosowne do wykonywanej pracy, lecz nie niższe od dotychczasowego.
 
-2. W razie reorganizacji jednostki organizacyjnej Paƒstwowej Inspekcji Pracy pracownika nadzorujàcego lub wykonujàcego czynnoÊci kontrolne mo˝na przenieÊç na inne stanowisko s∏u˝bowe, odpowiadajàce kwalifikacjom pracownika, je˝eli ze wzgl´du na likwidacj´ stanowiska zajmowanego przez pracownika nie jest mo˝liwe dalsze jego zatrudnienie na tym stanowisku. Po przeniesieniu przys∏uguje wynagrodzenie stosowne do wykonywanej pracy, lecz przez okres szeÊciu miesi´cy nie ni˝sze od dotychczasowego.
+2. W razie reorganizacji jednostki organizacyjnej Państwowej Inspekcji Pracy pracownika nadzorującego lub wykonującego czynności kontrolne można przenieść na inne stanowisko służbowe, odpowiadające kwalifikacjom pracownika, jeżeli ze względu na likwidację stanowiska zajmowanego przez pracownika nie jest możliwe dalsze jego zatrudnienie na tym stanowisku. Po przeniesieniu przysługuje wynagrodzenie stosowne do wykonywanej pracy, lecz przez okres sześciu miesięcy nie niższe od dotychczasowego.
 
-3. Je˝eli jest to konieczne ze wzgl´du na szczególne potrzeby Paƒstwowej Inspekcji Pracy, pracownika konywania okresowych ocen kwalifikacyjnych. nadzorujàcego lub wykonujàcego czynnoÊci kontrolne mo˝na przenieÊç na inne stanowisko, odpowiadajàce jego kwalifikacjom i równorz´dne pod wzgl´dem wynagrodzenia.
+3. Jeżeli jest to konieczne ze względu na szczególne potrzeby Państwowej Inspekcji Pracy, pracownika konywania okresowych ocen kwalifikacyjnych. nadzorującego lub wykonującego czynności kontrolne można przenieść na inne stanowisko, odpowiadające jego kwalifikacjom i równorzędne pod względem wynagrodzenia.
 
-4. Pracownika Paƒstwowej Inspekcji Pracy mo˝na, na jego wniosek lub za jego zgodà, przenieÊç do pracy w innej jednostce organizacyjnej.
+4. Pracownika Państwowej Inspekcji Pracy można, na jego wniosek lub za jego zgodą, przenieść do pracy w innej jednostce organizacyjnej.
 
-5. W uzasadnionych przypadkach pracownik nadzorujàcy lub wykonujàcy czynnoÊci kontrolne mo˝e byç przeniesiony, na okres do szeÊciu miesi´cy, do innej jednostki organizacyjnej, do pracy zgodnej zposiadanymi kwalifikacjami. W okresie przeniesienia przys∏uguje mu wynagrodzenie stosowne do wykonywanej pracy, lecz nie ni˝sze od dotychczasowego. Przeniesienie takie dopuszczalne jest tylko raz na dwa lata.
+5. W uzasadnionych przypadkach pracownik nadzorujący lub wykonujący czynności kontrolne może być przeniesiony, na okres do sześciu miesięcy, do innej jednostki organizacyjnej, do pracy zgodnej zposiadanymi kwalifikacjami. W okresie przeniesienia przysługuje mu wynagrodzenie stosowne do wykonywanej pracy, lecz nie niższe od dotychczasowego. Przeniesienie takie dopuszczalne jest tylko raz na dwa lata.
 
-6. Niedopuszczalne jest czasowe przeniesienie, bez zgody zainteresowanego, do jednostki organizacyjnej majàcej siedzib´ w innej miejscowoÊci kobiety w cià˝y lub pracownika sprawujàcego opiek´ nad dzieckiem wwieku do czternastu lat, atak˝e wwypadkach, gdy stojà temu na przeszkodzie wa˝ne wzgl´dy osobiste lub rodzinne pracownika.
+6. Niedopuszczalne jest czasowe przeniesienie, bez zgody zainteresowanego, do jednostki organizacyjnej mającej siedzibę w innej miejscowości kobiety w ciąży lub pracownika sprawującego opiekę nad dzieckiem wwieku do czternastu lat, atakże wwypadkach, gdy stoją temu na przeszkodzie ważne względy osobiste lub rodzinne pracownika.
 
 **Art. 51.**
 
-1. Pracownikowi nadzorujàcemu lub wykonujàcemu czynnoÊci kontrolne, delegowanemu s∏u˝bowo do zaj´ç poza sta∏ym miejscem pracy, przys∏ugujà, z zastrze˝eniem ust. 2, zwrot kosztów podró˝y i zakwaterowania oraz diety na zasadach okreÊlonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+1. Pracownikowi nadzorującemu lub wykonującemu czynności kontrolne, delegowanemu służbowo do zajęć poza stałym miejscem pracy, przysługują, z zastrzeżeniem ust. 2, zwrot kosztów podróży i zakwaterowania oraz diety na zasadach określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
 
-2. Pracownikowi, o którym mowa w ust. 1, na obszarze kraju przys∏uguje dieta wpodwójnej wysokoÊci.
+2. Pracownikowi, o którym mowa w ust. 1, na obszarze kraju przysługuje dieta wpodwójnej wysokości.
 
-**Art. 52.** G∏ówny Inspektor Pracy mo˝e udzieliç pracownikowi nadzorujàcemu lub wykonujàcemu czynnoÊci kontrolne p∏atnego urlopu dla poratowania zdrowia na podstawie skierowania na leczenie uzdrowiskowe na okres ustalony w tym skierowaniu, nieprzekraczajàcy 30 dni w roku kalendarzowym.
+**Art. 52.** Główny Inspektor Pracy może udzielić pracownikowi nadzorującemu lub wykonującemu czynności kontrolne płatnego urlopu dla poratowania zdrowia na podstawie skierowania na leczenie uzdrowiskowe na okres ustalony w tym skierowaniu, nieprzekraczający 30 dni w roku kalendarzowym.
 
 **Art. 53.**
 
-1. Pracownikowi Paƒstwowej Inspekcji Pracy przys∏uguje dodatek za wieloletnià prac´, w wysokoÊci wynoszàcej po pi´ciu latach pracy 5 % miesi´cznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1 % za ka˝dy dalszy rok pracy a˝ do osiàgni´cia 20 % miesi´cznego wynagrodzenia zasadniczego.
+1. Pracownikowi Państwowej Inspekcji Pracy przysługuje dodatek za wieloletnią pracę, w wysokości wynoszącej po pięciu latach pracy 5 % miesięcznego wynagrodzenia zasadniczego. Dodatek ten wzrasta o 1 % za każdy dalszy rok pracy aż do osiągnięcia 20 % miesięcznego wynagrodzenia zasadniczego.
 
-2. Do okresów pracy uprawniajàcych do dodatku za wieloletnià prac´ wlicza si´ wszystkie poprzednie zakoƒczone okresy zatrudnienia oraz inne udowodnione okresy, je˝eli z mocy odr´bnych przepisów podlegajà one wliczeniu do okresu pracy, od którego zale˝à uprawnienia pracownicze.
+2. Do okresów pracy uprawniających do dodatku za wieloletnią pracę wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne udowodnione okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
 
-3. Do okresów pracy, októrych mowa wust. 2, nie wlicza si´ okresów zatrudnienia w partii komunistycznej (Polskiej Partii Robotniczej i Polskiej Zjednoczonej Partii Robotniczej), jak równie˝ w organach bezpieczeƒstwa paƒstwa w rozumieniu art. 2 ustawy z dnia 18 paêdziernika 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeƒstwa paƒstwa z lat 1944—1990 oraz treÊci tych dokumentów (Dz. U. z2007 r. 63, poz. 425, 83, poz. 561 iNr 85, poz.571).
+3. Do okresów pracy, októrych mowa wust. 2, nie wlicza się okresów zatrudnienia w partii komunistycznej (Polskiej Partii Robotniczej i Polskiej Zjednoczonej Partii Robotniczej), jak również w organach bezpieczeństwa państwa w rozumieniu art. 2 ustawy z dnia 18 paêdziernika 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944—1990 oraz treści tych dokumentów (Dz. U. z2007 r. 63, poz. 425, 83, poz. 561 iNr 85, poz.571).
 
 **Art. 54.**
 
-1. Pracownikom Paƒstwowej Inspekcji Pracy przys∏ugujà nagrody jubileuszowe w wysokoÊci:
+1. Pracownikom Państwowej Inspekcji Pracy przysługują nagrody jubileuszowe w wysokości:
 
-- **1)** po 20 latach pracy 75 % wynagrodzenia miesi´cznego;
-- **2)** po 25 latach pracy 100 % wynagrodzenia miesi´cznego;
-- **3)** po 30 latach pracy 150 % wynagrodzenia miesi´cznego;
-- **4)** po 35 latach pracy 200 % wynagrodzenia miesi´cznego;
-- **5)** po 40 latach pracy 300 % wynagrodzenia miesi´cznego;
-- **6)** po 45 latach pracy 400 % wynagrodzenia miesi´cznego.
+- **1)** po 20 latach pracy 75 % wynagrodzenia miesięcznego;
+- **2)** po 25 latach pracy 100 % wynagrodzenia miesięcznego;
+- **3)** po 30 latach pracy 150 % wynagrodzenia miesięcznego;
+- **4)** po 35 latach pracy 200 % wynagrodzenia miesięcznego;
+- **5)** po 40 latach pracy 300 % wynagrodzenia miesięcznego;
+- **6)** po 45 latach pracy 400 % wynagrodzenia miesięcznego.
 
-2. Do okresów pracy, októrych mowa wust. 1, wlicza si´ wszystkie poprzednie zakoƒczone okresy zatrudnienia oraz inne udowodnione okresy, je˝eli zmocy odr´bnych przepisów podlegajà one wliczeniu do okresu pracy, od którego zale˝à uprawnienia pracownicze.
+2. Do okresów pracy, októrych mowa wust. 1, wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne udowodnione okresy, jeżeli zmocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
 
-3. Do okresów pracy, októrych mowa wust. 2, nie wlicza si´ okresów zatrudnienia w partii komunistycznej (Polskiej Partii Robotniczej i Polskiej Zjednoczonej Partii Robotniczej), jak równie˝ w organach bezpieczeƒstwa paƒstwa w rozumieniu art. 2 ustawy z dnia 18 paêdziernika 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeƒstwa paƒstwa z lat 1944—1990 oraz treÊci tych dokumentów.
+3. Do okresów pracy, októrych mowa wust. 2, nie wlicza się okresów zatrudnienia w partii komunistycznej (Polskiej Partii Robotniczej i Polskiej Zjednoczonej Partii Robotniczej), jak również w organach bezpieczeństwa państwa w rozumieniu art. 2 ustawy z dnia 18 paêdziernika 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944—1990 oraz treści tych dokumentów.
 
-**Art. 55.** W Paƒstwowej Inspekcji Pracy tworzy si´ zak∏adowy fundusz nagród w wysokoÊci 3 % planowanych wynagrodzeƒ osobowych. WysokoÊç izasady przyznawania indywidualnych nagród ztego funduszu
+**Art. 55.** W Państwowej Inspekcji Pracy tworzy się zakładowy fundusz nagród w wysokości 3 % planowanych wynagrodzeń osobowych. Wysokość izasady przyznawania indywidualnych nagród ztego funduszu
 
 **Art. 56.**
 
-1. Pracownikowi Paƒstwowej Inspekcji Pracy przechodzàcemu na emerytur´ lub rent´ z tytu∏u niezdolnoÊci do pracy przys∏uguje jednorazowa odprawa w wysokoÊci jednomiesi´cznego wynagrodzenia, a je˝eli przepracowa∏ co najmniej:
+1. Pracownikowi Państwowej Inspekcji Pracy przechodzącemu na emeryturę lub rentę z tytułu niezdolności do pracy przysługuje jednorazowa odprawa w wysokości jednomiesięcznego wynagrodzenia, a jeżeli przepracował co najmniej:
 
-- **1)** dziesi´ç lat w wysokoÊci dwumiesi´cznego wynagrodzenia;
-- **2)** pi´tnaÊcie lat w wysokoÊci trzymiesi´cznego wynagrodzenia;
-- **3)** dwadzieÊcia lat w wysokoÊci szeÊciomiesi´cznego wynagrodzenia.
+- **1)** dziesięć lat w wysokości dwumiesięcznego wynagrodzenia;
+- **2)** piętnaście lat w wysokości trzymiesięcznego wynagrodzenia;
+- **3)** dwadzieścia lat w wysokości sześciomiesięcznego wynagrodzenia.
 
-2. Do okresu pracy, októrym mowa wust. 1, wlicza si´ wszystkie poprzednie zakoƒczone okresy zatrudnienia oraz inne udowodnione okresy, je˝eli z mocy odr´bnych przepisów podlegajà one wliczeniu do okresu pracy, od którego zale˝à uprawnienia pracownicze.
+2. Do okresu pracy, októrym mowa wust. 1, wlicza się wszystkie poprzednie zakończone okresy zatrudnienia oraz inne udowodnione okresy, jeżeli z mocy odrębnych przepisów podlegają one wliczeniu do okresu pracy, od którego zależą uprawnienia pracownicze.
 
-3. Do okresów pracy, októrych mowa wust. 2, nie wlicza si´ okresów zatrudnienia w partii komunistycznej (Polskiej Partii Robotniczej i Polskiej Zjednoczonej Partii Robotniczej), jak równie˝ w organach bezpieczeƒstwa paƒstwa w rozumieniu art. 2 ustawy z dnia 18 paêdziernika 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeƒstwa paƒstwa z lat 1944—1990 oraz treÊci tych dokumentów.
+3. Do okresów pracy, októrych mowa wust. 2, nie wlicza się okresów zatrudnienia w partii komunistycznej (Polskiej Partii Robotniczej i Polskiej Zjednoczonej Partii Robotniczej), jak również w organach bezpieczeństwa państwa w rozumieniu art. 2 ustawy z dnia 18 paêdziernika 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944—1990 oraz treści tych dokumentów.
 
-4. Odpraw´, októrej mowa wust. 1, oblicza si´ jak ekwiwalent pieni´˝ny za urlop wypoczynkowy.
+4. Odprawę, októrej mowa wust. 1, oblicza się jak ekwiwalent pieniężny za urlop wypoczynkowy.
 
 **Art. 57.**
 
-1. W razie rozwiàzania z pracownikiem Paƒstwowej Inspekcji Pracy stosunku pracy zpowodu likwidacji jednostki organizacyjnej albo jej reorganizacji uniemo˝liwiajàcej dalsze zatrudnienie pracownika, pracownikowi Paƒstwowej Inspekcji Pracy przys∏uguje emerytura, je˝eli m´˝czyzna ukoƒczy∏ szeÊçdziesiàt lat, a kobieta pi´çdziesiàt pi´ç lat i ma wymagany okres zatrudnienia.
+1. W razie rozwiązania z pracownikiem Państwowej Inspekcji Pracy stosunku pracy zpowodu likwidacji jednostki organizacyjnej albo jej reorganizacji uniemożliwiającej dalsze zatrudnienie pracownika, pracownikowi Państwowej Inspekcji Pracy przysługuje emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, a kobieta pięćdziesiąt pięć lat i ma wymagany okres zatrudnienia.
 
-2. W razie rozwiàzania z pracownikiem nadzorujàcym lub wykonujàcym czynnoÊci kontrolne stosunku pracy z przyczyn okreÊlonych:
+2. W razie rozwiązania z pracownikiem nadzorującym lub wykonującym czynności kontrolne stosunku pracy z przyczyn określonych:
 
-- **1)** w art. 62 ust. 1 pkt 3, okreÊla G∏ówny Inspektor Pracy.
-- **2)** w art. 62 ust. 1 pkt 6, z wy∏àczeniem przypadku, gdy pracownik odmówi zatrudnienia na stanowisku, o którym mowa w tym przepisie, pracownikowi temu przys∏uguje emerytura, je˝eli m´˝czyzna ukoƒczy∏ szeÊçdziesiàt lat, akobieta pi´çdziesiàt pi´ç lat ima wymagany okres zatrudnienia.
+- **1)** w art. 62 ust. 1 pkt 3, określa Główny Inspektor Pracy.
+- **2)** w art. 62 ust. 1 pkt 6, z wyłączeniem przypadku, gdy pracownik odmówi zatrudnienia na stanowisku, o którym mowa w tym przepisie, pracownikowi temu przysługuje emerytura, jeżeli mężczyzna ukończył sześćdziesiąt lat, akobieta pięćdziesiąt pięć lat ima wymagany okres zatrudnienia.
 
-3. Przepisy ust. 1 i 2 stosuje si´ do osób urodzonych przed dniem 1 stycznia 1949 r.
+3. Przepisy ust. 1 i 2 stosuje się do osób urodzonych przed dniem 1 stycznia 1949 r.
 
 **Art. 58.**
 
-1. Czas pracy pracowników Paƒstwowej Inspekcji Pracy nie mo˝e przekraczaç 8 godzin na dob´ i Êrednio 40 godzin tygodniowo w przyj´tym okresie rozliczeniowym nie d∏u˝szym ni˝ 8 tygodni.
+1. Czas pracy pracowników Państwowej Inspekcji Pracy nie może przekraczać 8 godzin na dobę i średnio 40 godzin tygodniowo w przyjętym okresie rozliczeniowym nie dłuższym niż 8 tygodni.
 
-2. W przypadkach uzasadnionych rodzajem pracy i jej organizacjà mogà byç stosowane rozk∏ady czasu pracy, wktórych jest dopuszczalne przed∏u˝enie czasu pracy do 12 godzin na dob´. W tych rozk∏adach czas pracy nie mo˝e jednak przekraczaç Êrednio 40 godzin na tydzieƒ, w przyj´tym okresie rozliczeniowym nie d∏u˝szym ni˝ 12 tygodni.
+2. W przypadkach uzasadnionych rodzajem pracy i jej organizacją mogą być stosowane rozkłady czasu pracy, wktórych jest dopuszczalne przedłużenie czasu pracy do 12 godzin na dobę. W tych rozkładach czas pracy nie może jednak przekraczać średnio 40 godzin na tydzień, w przyjętym okresie rozliczeniowym nie dłuższym niż 12 tygodni.
 
-3. Je˝eli wymagajà tego potrzeby urz´du, pracownik Paƒstwowej Inspekcji Pracy mo˝e byç zatrudniony poza normalnymi godzinami pracy, a w wyjàtkowych przypadkach tak˝e w nocy oraz w niedziele i Êwi´ta.
+3. Jeżeli wymagają tego potrzeby urzędu, pracownik Państwowej Inspekcji Pracy może być zatrudniony poza normalnymi godzinami pracy, a w wyjątkowych przypadkach także w nocy oraz w niedziele i święta.
 
-4. Pracownikowi Paƒstwowej Inspekcji Pracy za prac´ w niedziel´ przys∏uguje dzieƒ wolny od pracy wnajbli˝szym tygodniu, aza prac´ wÊwi´to inny dzieƒ wolny.
+4. Pracownikowi Państwowej Inspekcji Pracy za pracę w niedzielę przysługuje dzień wolny od pracy wnajbliższym tygodniu, aza pracę wświęto inny dzień wolny.
 
-5. Przepisów ust. 2 i 3 nie stosuje si´ do kobiet wcià˝y oraz winnych przypadkach okreÊlonych wodr´bnych przepisach.
+5. Przepisów ust. 2 i 3 nie stosuje się do kobiet wciąży oraz winnych przypadkach określonych wodrębnych przepisach.
 
-6. Przepisy ust. 2 i 3 stosuje si´ do pracowników opiekujàcych si´ dzieçmi w wieku do oÊmiu lat, pod warunkiem wyra˝enia przez nich zgody.
+6. Przepisy ust. 2 i 3 stosuje się do pracowników opiekujących się dziećmi w wieku do ośmiu lat, pod warunkiem wyrażenia przez nich zgody.
 
 **Art. 59.**
 
-1. Rozk∏ad czasu pracy wtygodniu oraz jego wymiar w poszczególnych dniach tygodnia ustala G∏ówny Inspektor Pracy.
+1. Rozkład czasu pracy wtygodniu oraz jego wymiar w poszczególnych dniach tygodnia ustala Główny Inspektor Pracy.
 
-2. Pracownikowi Paƒstwowej Inspekcji Pracy za prac´ wykonywanà na polecenie prze∏o˝onego poza normalnymi godzinami pracy przys∏uguje czas wolny w tym samym wymiarze, z tym ˝e czas wolny mo˝e byç, na wniosek pracownika, udzielony wokresie bezpoÊrednio poprzedzajàcym urlop wypoczynkowy lub po jego zakoƒczeniu.
+2. Pracownikowi Państwowej Inspekcji Pracy za pracę wykonywaną na polecenie przełożonego poza normalnymi godzinami pracy przysługuje czas wolny w tym samym wymiarze, z tym że czas wolny może być, na wniosek pracownika, udzielony wokresie bezpośrednio poprzedzającym urlop wypoczynkowy lub po jego zakończeniu.
 
-3. Pracownikom Paƒstwowej Inspekcji Pracy zatrudnionym na stanowiskach kierowniczych przys∏uguje wolny czas za prac´ poza normalnymi godzinami pracy wykonywanà w porze nocnej oraz w niedziel´ lub Êwi´to.
+3. Pracownikom Państwowej Inspekcji Pracy zatrudnionym na stanowiskach kierowniczych przysługuje wolny czas za pracę poza normalnymi godzinami pracy wykonywaną w porze nocnej oraz w niedzielę lub święto.
 
-**Art. 60.** Pracownik Paƒstwowej Inspekcji Pracy zostaje z mocy prawa zawieszony w pe∏nieniu obowiàzków s∏u˝bowych w razie tymczasowego aresztowania do czasu wygaÊni´cia stosunku pracy, chyba ˝e wczeÊniej rozwiàzano z nim stosunek pracy.
+**Art. 60.** Pracownik Państwowej Inspekcji Pracy zostaje z mocy prawa zawieszony w pełnieniu obowiązków służbowych w razie tymczasowego aresztowania do czasu wygaśnięcia stosunku pracy, chyba że wcześniej rozwiązano z nim stosunek pracy.
 
 **Art. 61.**
 
-1. G∏ówny Inspektor Pracy mo˝e zawiesiç w pe∏nieniu obowiàzków s∏u˝bowych pracownika wykonujàcego czynnoÊci kontrolne, je˝eli zosta∏o wszcz´te przeciwko niemu post´powanie karne lub dyscyplinarne.
+1. Główny Inspektor Pracy może zawiesić w pełnieniu obowiązków służbowych pracownika wykonującego czynności kontrolne, jeżeli zostało wszczęte przeciwko niemu postępowanie karne lub dyscyplinarne.
 
-2. Zawieszenie, októrym mowa wust. 1, nie mo˝e trwaç d∏u˝ej ni˝ trzy miesiàce.
+2. Zawieszenie, októrym mowa wust. 1, nie może trwać dłużej niż trzy miesiące.
 
-3. Wokresie zawieszenia, októrym mowa wust. 1, pracownik zachowuje prawo do wynagrodzenia i innych Êwiadczeƒ przys∏ugujàcych na podstawie stosunku pracy.
+3. Wokresie zawieszenia, októrym mowa wust. 1, pracownik zachowuje prawo do wynagrodzenia i innych świadczeń przysługujących na podstawie stosunku pracy.
 
 **Art. 62.**
 
-1. Rozwiàzanie stosunku pracy zpracownikiem mianowanym wykonujàcym czynnoÊci kontrolne mo˝e nastàpiç w drodze wypowiedzenia w razie:
+1. Rozwiązanie stosunku pracy zpracownikiem mianowanym wykonującym czynności kontrolne może nastąpić w drodze wypowiedzenia w razie:
 
-- **1)** otrzymania ujemnej oceny kwalifikacyjnej, potwierdzonej ponownà ujemnà ocenà, która nie mo˝e byç dokonana wczeÊniej ni˝ po up∏ywie
-- **2)** likwidacji jednostki organizacyjnej Paƒstwowej Inspekcji Pracy lub jej reorganizacji, je˝eli nie jest mo˝liwe przeniesienie pracownika na inne stanowisko w tej samej jednostce;
-- **3)** niezawinionej utraty uprawnieƒ wymaganych do wykonywania pracy na zajmowanym stanowisku, je˝eli nie ma mo˝liwoÊci zaproponowania pracownikowi podj´cia pracy na innym stanowisku odpowiadajàcym posiadanym kwalifikacjom;
-- **4)** niedawania r´kojmi nale˝ytego wywiàzywania si´ z obowiàzków s∏u˝bowych;
-- **5)** post´powania karnego toczàcego si´ przeciwko pracownikowi przez okres d∏u˝szy ni˝ trzy miesiàce;
-- **6)** utraty zdolnoÊci fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika Zak∏adu Ubezpieczeƒ Spo∏ecznych, je˝eli nie ma mo˝liwoÊci zatrudnienia pracownika na innym stanowisku, odpowiednim do jego stanu zdrowia ikwalifikacji zawodowych, albo gdy pracownik odmawia przejÊcia do takiej pracy;
-- **7)** osiàgni´cia wieku 65 lat, je˝eli okres zatrudnienia umo˝liwia mu uzyskanie prawa do emerytury.
+- **1)** otrzymania ujemnej oceny kwalifikacyjnej, potwierdzonej ponowną ujemną oceną, która nie może być dokonana wcześniej niż po upływie
+- **2)** likwidacji jednostki organizacyjnej Państwowej Inspekcji Pracy lub jej reorganizacji, jeżeli nie jest możliwe przeniesienie pracownika na inne stanowisko w tej samej jednostce;
+- **3)** niezawinionej utraty uprawnień wymaganych do wykonywania pracy na zajmowanym stanowisku, jeżeli nie ma możliwości zaproponowania pracownikowi podjęcia pracy na innym stanowisku odpowiadającym posiadanym kwalifikacjom;
+- **4)** niedawania rękojmi należytego wywiązywania się z obowiązków służbowych;
+- **5)** postępowania karnego toczącego się przeciwko pracownikowi przez okres dłuższy niż trzy miesiące;
+- **6)** utraty zdolności fizycznej lub psychicznej do pracy na zajmowanym stanowisku, stwierdzonej orzeczeniem lekarza orzecznika Zakładu Ubezpieczeń Społecznych, jeżeli nie ma możliwości zatrudnienia pracownika na innym stanowisku, odpowiednim do jego stanu zdrowia ikwalifikacji zawodowych, albo gdy pracownik odmawia przejścia do takiej pracy;
+- **7)** osiągnięcia wieku 65 lat, jeżeli okres zatrudnienia umożliwia mu uzyskanie prawa do emerytury.
 
-2. Okres wypowiedzenia stosunku pracy wynosi trzy miesiàce i koƒczy si´ ostatniego dnia miesiàca.
+2. Okres wypowiedzenia stosunku pracy wynosi trzy miesiące i kończy się ostatniego dnia miesiąca.
 
 **Art. 63.**
 
-1. W razie rozwiàzania stosunku pracy z pracownikiem mianowanym wykonujàcym czynnoÊci kontrolne, z przyczyn okreÊlonych w art. 62 ust. 1 pkt 2, w okresie mi´dzy ustaniem zatrudnienia a podj´ciem innej pracy lub dzia∏alnoÊci gospodarczej, pracownikowi temu przys∏uguje Êwiadczenie pieni´˝ne, przez okres nie d∏u˝szy ni˝ szeÊç miesi´cy, obliczane jak ekwiwalent pieni´˝ny za urlop wypoczynkowy. Âwiadczenie to nie przys∏uguje pracownikowi, który naby∏ prawo do emerytury.
+1. W razie rozwiązania stosunku pracy z pracownikiem mianowanym wykonującym czynności kontrolne, z przyczyn określonych w art. 62 ust. 1 pkt 2, w okresie między ustaniem zatrudnienia a podjęciem innej pracy lub działalności gospodarczej, pracownikowi temu przysługuje świadczenie pieniężne, przez okres nie dłuższy niż sześć miesięcy, obliczane jak ekwiwalent pieniężny za urlop wypoczynkowy. Âwiadczenie to nie przysługuje pracownikowi, który nabył prawo do emerytury.
 
-2. Wrazie gdy wokresie, októrym mowa wust. 1, by∏y pracownik pobiera zasi∏ek chorobowy albo macierzyƒski, wysokoÊç Êwiadczenia pieni´˝nego ulega odpowiedniemu obni˝eniu.
+2. Wrazie gdy wokresie, októrym mowa wust. 1, były pracownik pobiera zasiłek chorobowy albo macierzyński, wysokość świadczenia pieniężnego ulega odpowiedniemu obniżeniu.
 
-3. Okres pobierania Êwiadczenia pieni´˝nego, o którym mowa w ust. 1, wlicza si´ do okresów pracy trzech miesi´cy; wymaganych do nabycia lub zachowania uprawnieƒ pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów oemeryturach irentach zFunduszu Ubezpieczeƒ Spo∏ecznych na takich warunkach, na jakich wlicza si´ okres pobierania zasi∏ku dla bezrobotnych, okreÊlonych wprzepisach opromocji zatrudnienia iinstytucjach rynku pracy. Od Êwiadczenia pieni´˝nego Paƒstwowa Inspekcja Pracy odprowadza sk∏adk´ na ubezpieczenie spo∏eczne na zasadach przewidzianych dla wynagrodzenia wyp∏acanego w czasie trwania stosunku pracy.
+3. Okres pobierania świadczenia pieniężnego, o którym mowa w ust. 1, wlicza się do okresów pracy trzech miesięcy; wymaganych do nabycia lub zachowania uprawnień pracowniczych oraz do okresów zatrudnienia w rozumieniu przepisów oemeryturach irentach zFunduszu Ubezpieczeń Społecznych na takich warunkach, na jakich wlicza się okres pobierania zasiłku dla bezrobotnych, określonych wprzepisach opromocji zatrudnienia iinstytucjach rynku pracy. Od świadczenia pieniężnego Państwowa Inspekcja Pracy odprowadza składkę na ubezpieczenie społeczne na zasadach przewidzianych dla wynagrodzenia wypłacanego w czasie trwania stosunku pracy.
 
 **Art. 64.**
 
-1. Stosunek pracy z pracownikiem mianowanym wykonujàcym czynnoÊci kontrolne ulega zmocy prawa rozwiàzaniu zjego winy bez wypowiedzenia, wrazie:
+1. Stosunek pracy z pracownikiem mianowanym wykonującym czynności kontrolne ulega zmocy prawa rozwiązaniu zjego winy bez wypowiedzenia, wrazie:
 
-- **1)** prawomocnego orzeczenia Êrodka karnego pozbawienia praw publicznych albo zakazu wykonywania zawodu;
-- **2)** prawomocnego ukarania karà dyscyplinarnà wydalenia z pracy w Paƒstwowej Inspekcji Pracy;
-- **3)** zawinionej utraty uprawnieƒ koniecznych do wykonywania pracy na zajmowanym stanowisku.
+- **1)** prawomocnego orzeczenia środka karnego pozbawienia praw publicznych albo zakazu wykonywania zawodu;
+- **2)** prawomocnego ukarania karą dyscyplinarną wydalenia z pracy w Państwowej Inspekcji Pracy;
+- **3)** zawinionej utraty uprawnień koniecznych do wykonywania pracy na zajmowanym stanowisku.
 
-2. Stosunek pracy z pracownikiem mianowanym wykonujàcym czynnoÊci kontrolne ulega z mocy prawa rozwiàzaniu bez wypowiedzenia równie˝ w razie utraty obywatelstwa polskiego.
+2. Stosunek pracy z pracownikiem mianowanym wykonującym czynności kontrolne ulega z mocy prawa rozwiązaniu bez wypowiedzenia również w razie utraty obywatelstwa polskiego.
 
-3. Stosunek pracy z pracownikiem mianowanym wykonujàcym czynnoÊci kontrolne mo˝e zostaç rozwiàzany bez wypowiedzenia z jego winy w razie ci´˝kiego naruszenia podstawowych obowiàzków pracowniczych albo prawomocnego skazania za przest´pstwo umyÊlne.
+3. Stosunek pracy z pracownikiem mianowanym wykonującym czynności kontrolne może zostać rozwiązany bez wypowiedzenia z jego winy w razie ciężkiego naruszenia podstawowych obowiązków pracowniczych albo prawomocnego skazania za przestępstwo umyślne.
 
-4. Rozwiàzanie stosunku pracy bez wypowiedzenia z pracownikiem mianowanym wykonujàcym czynnoÊci kontrolne mo˝e nastàpiç tak˝e w razie jego nieobecnoÊci wpracy zpowodu choroby trwajàcej d∏u˝ej ni˝ rok lub odosobnienia ze wzgl´du na chorob´ zakaênà, atak˝e wrazie usprawiedliwionej nieobecnoÊci w pracy z innych przyczyn po up∏ywie okresów przewidzianych w art. 53 Kodeksu pracy.
+4. Rozwiązanie stosunku pracy bez wypowiedzenia z pracownikiem mianowanym wykonującym czynności kontrolne może nastąpić także w razie jego nieobecności wpracy zpowodu choroby trwającej dłużej niż rok lub odosobnienia ze względu na chorobę zakaêną, atakże wrazie usprawiedliwionej nieobecności w pracy z innych przyczyn po upływie okresów przewidzianych w art. 53 Kodeksu pracy.
 
-5. W razie niezdolnoÊci do pracy z powodu choroby, októrej mowa wust. 4, pracownik nadzorujàcy lub wykonujàcy czynnoÊci kontrolne zachowuje prawo do Êwiadczeƒ pieni´˝nych przez okres przewidziany w przepisach o Êwiadczeniach pieni´˝nych z ubezpieczenia spo∏ecznego w razie choroby i macierzyƒstwa.
+5. W razie niezdolności do pracy z powodu choroby, októrej mowa wust. 4, pracownik nadzorujący lub wykonujący czynności kontrolne zachowuje prawo do świadczeń pieniężnych przez okres przewidziany w przepisach o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa.
 
-**Art. 65.** Rozwiàzanie stosunku pracy z pracownikiem mianowanym wykonujàcym czynnoÊci kontrolne mo˝e nastàpiç:
+**Art. 65.** Rozwiązanie stosunku pracy z pracownikiem mianowanym wykonującym czynności kontrolne może nastąpić:
 
-**Art. 66.** W okresie wypowiedzenia pracownik nadzorujàcy lub wykonujàcy czynnoÊci kontrolne mo˝e byç zwolniony z pe∏nienia obowiàzków, z zachowaniem prawa do wynagrodzenia i innych Êwiadczeƒ przys∏ugujàcych na podstawie stosunku pracy.
+**Art. 66.** W okresie wypowiedzenia pracownik nadzorujący lub wykonujący czynności kontrolne może być zwolniony z pełnienia obowiązków, z zachowaniem prawa do wynagrodzenia i innych świadczeń przysługujących na podstawie stosunku pracy.
 
-**Art. 67.** Postanowienia niniejszego rozdzia∏u nie naruszajà przepisów dotyczàcych szczególnej ochrony pracowników wzakresie wypowiedzenia irozwiàzania stosunku pracy.
+**Art. 67.** Postanowienia niniejszego rozdziału nie naruszają przepisów dotyczących szczególnej ochrony pracowników wzakresie wypowiedzenia irozwiązania stosunku pracy.
 
-**Art. 68.** Od decyzji G∏ównego Inspektora Pracy wsprawach, októrych mowa wart. 61, pracownikowi mianowanemu przys∏uguje skarga do sàdu administracyjnego.
+**Art. 68.** Od decyzji Głównego Inspektora Pracy wsprawach, októrych mowa wart. 61, pracownikowi mianowanemu przysługuje skarga do sądu administracyjnego.
 
 **Art. 69.**
 
-1. W sprawach wynikajàcych ze stosunku pracy pracowników Paƒstwowej Inspekcji Pracy, nieuregulowanych w ustawie, stosuje si´ przepisy Kodeksu pracy i inne przepisy prawa pracy.
+1. W sprawach wynikających ze stosunku pracy pracowników Państwowej Inspekcji Pracy, nieuregulowanych w ustawie, stosuje się przepisy Kodeksu pracy i inne przepisy prawa pracy.
 
-2. Spory o roszczenia ze stosunku pracy pracowników Paƒstwowej Inspekcji Pracy rozpatrywane sà
+2. Spory o roszczenia ze stosunku pracy pracowników Państwowej Inspekcji Pracy rozpatrywane są
 
-**Art. 70.** G∏ówny Inspektor Pracy ustali regulamin wynagradzania, zasady awansowania oraz wymagania kwalifikacyjne w zakresie wykszta∏cenia i praktyki zawodowej pracowników Paƒstwowej Inspekcji Pracy. Rozdzia∏ 6 OdpowiedzialnoÊç porzàdkowa i dyscyplinarna
+**Art. 70.** Główny Inspektor Pracy ustali regulamin wynagradzania, zasady awansowania oraz wymagania kwalifikacyjne w zakresie wykształcenia i praktyki zawodowej pracowników Państwowej Inspekcji Pracy.
+
+#### Rozdział 6 Odpowiedzialność porządkowa i dyscyplinarna
 
 **Art. 71.**
 
-1. Pracownik mianowany Paƒstwowej Inspekcji Pracy ponosi odpowiedzialnoÊç porzàdkowà lub dyscyplinarnà za naruszenie obowiàzków s∏u˝bowych.
+1. Pracownik mianowany Państwowej Inspekcji Pracy ponosi odpowiedzialność porządkową lub dyscyplinarną za naruszenie obowiązków służbowych.
 
-2. Kar´ porzàdkowà za przewinienie mniejszej wagi stanowi upomnienie.
+2. Karę porządkową za przewinienie mniejszej wagi stanowi upomnienie.
 
-3. Karami dyscyplinarnymi sà:
+3. Karami dyscyplinarnymi są:
 
 - **1)** nagana;
-- **2)** nagana z ostrze˝eniem;
-- **3)** nagana zpozbawieniem mo˝liwoÊci awansowania przez sàdy pracy, chyba ˝e ustawa stanowi inaczej. przez okres do 2 lat do wy˝szej grupy wynagrodzenia lub na wy˝sze stanowisko;
-- **4)** przeniesienie na ni˝sze stanowisko z jednoczesnym obni˝eniem wynagrodzenia zasadniczego o jednà kategori´;
-- **5)** wydalenie z pracy w Paƒstwowej Inspekcji Pracy.
+- **2)** nagana z ostrzeżeniem;
+- **3)** nagana zpozbawieniem możliwości awansowania przez sądy pracy, chyba że ustawa stanowi inaczej. przez okres do 2 lat do wyższej grupy wynagrodzenia lub na wyższe stanowisko;
+- **4)** przeniesienie na niższe stanowisko z jednoczesnym obniżeniem wynagrodzenia zasadniczego o jedną kategorię;
+- **5)** wydalenie z pracy w Państwowej Inspekcji Pracy.
 
-4. W sprawach dyscyplinarnych orzekajà, na zasadzie niezawis∏oÊci:
+4. W sprawach dyscyplinarnych orzekają, na zasadzie niezawisłości:
 
-- **1)** w I instancji komisje dyscyplinarne, powo∏ywane dla jednego lub wi´cej okr´gowych inspektoratów pracy;
-- **2)** wIIinstancji Odwo∏awcza Komisja Dyscyplinarna przy G∏ównym Inspektorze Pracy.
+- **1)** w I instancji komisje dyscyplinarne, powoływane dla jednego lub więcej okręgowych inspektoratów pracy;
+- **2)** wIIinstancji Odwoławcza Komisja Dyscyplinarna przy Głównym Inspektorze Pracy.
 
 **Art. 72.**
 
-1. Upomnienia udziela pisemnie G∏ówny Inspektor Pracy lub, z jego upowa˝nienia, okr´gowy inspektor pracy.
+1. Upomnienia udziela pisemnie Główny Inspektor Pracy lub, z jego upoważnienia, okręgowy inspektor pracy.
 
-2. Pracownik mo˝e w ciàgu 7 dni od wymierzenia mu kary upomnienia wnieÊç sprzeciw do G∏ównego Inspektora Pracy.
+2. Pracownik może w ciągu 7 dni od wymierzenia mu kary upomnienia wnieść sprzeciw do Głównego Inspektora Pracy.
 
-3. Nieodrzucenie sprzeciwu wciàgu 14 dni od dnia jego wniesienia jest równoznaczne z uwzgl´dnieniem sprzeciwu.
+3. Nieodrzucenie sprzeciwu wciągu 14 dni od dnia jego wniesienia jest równoznaczne z uwzględnieniem sprzeciwu.
 
-4. Pracownik, który wniós∏ sprzeciw, mo˝e wciàgu 14 dni od dnia zawiadomienia o odrzuceniu tego sprzeciwu wystàpiç do sàdu pracy o uchylenie zastosowanej wobec jego kary.
+4. Pracownik, który wniósł sprzeciw, może wciągu 14 dni od dnia zawiadomienia o odrzuceniu tego sprzeciwu wystąpić do sądu pracy o uchylenie zastosowanej wobec jego kary.
 
 **Art. 73.**
 
-1. Nie mo˝na wszczàç post´powania dyscyplinarnego po up∏ywie 3 miesi´cy od dnia uzyskania przez prze∏o˝onego wiadomoÊci o pope∏nionym przewinieniu; nie mo˝na wszczàç post´powania ani wydaç orzeczenia oukaraniu po up∏ywie 3 lat od pope∏nienia przewinienia. Je˝eli czyn zawiera znamiona przest´pstwa, przedawnienie dyscyplinarne nie mo˝e nastàpiç wczeÊniej ni˝ przewidziano to w przepisach Kodeksu karnego.
+1. Nie można wszcząć postępowania dyscyplinarnego po upływie 3 miesięcy od dnia uzyskania przez przełożonego wiadomości o popełnionym przewinieniu; nie można wszcząć postępowania ani wydać orzeczenia oukaraniu po upływie 3 lat od popełnienia przewinienia. Jeżeli czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne nie może nastąpić wcześniej niż przewidziano to w przepisach Kodeksu karnego.
 
-2. Obwiniony mo˝e ustanowiç obroƒc´, tak˝e spoÊród pracowników mianowanych Paƒstwowej Inspekcji Pracy.
+2. Obwiniony może ustanowić obrońcę, także spośród pracowników mianowanych Państwowej Inspekcji Pracy.
 
-3. Post´powanie dyscyplinarne mo˝e toczyç si´ wrazie nieusprawiedliwionej nieobecnoÊci pracownika.
+3. Postępowanie dyscyplinarne może toczyć się wrazie nieusprawiedliwionej nieobecności pracownika.
 
-4. Koszty post´powania dyscyplinarnego ponosi Paƒstwowa Inspekcja Pracy.
+4. Koszty postępowania dyscyplinarnego ponosi Państwowa Inspekcja Pracy.
 
-**Art. 74.** Cz∏onków komisji dyscyplinarnych, o których mowa w art. 71 ust. 4, w tym przewodniczàcego i zast´pców przewodniczàcego, powo∏uje G∏ówny Inspektor Pracy na okres czterech lat spoÊród mianowanych pracowników Paƒstwowej Inspekcji Pracy, dajàcych r´kojmi´ nale˝ytego wykonywania obowiàzków cz∏onka komisji dyscyplinarnych.
+**Art. 74.** Członków komisji dyscyplinarnych, o których mowa w art. 71 ust. 4, w tym przewodniczącego i zastępców przewodniczącego, powołuje Główny Inspektor Pracy na okres czterech lat spośród mianowanych pracowników Państwowej Inspekcji Pracy, dających rękojmię należytego wykonywania obowiązków członka komisji dyscyplinarnych.
 
 **Art. 75.**
 
-1. Rzecznika dyscyplinarnego w Paƒstwowej Inspekcji Pracy, na okres kadencji komisji dyscyplinarnych, powo∏uje G∏ówny Inspektor Pracy.
+1. Rzecznika dyscyplinarnego w Państwowej Inspekcji Pracy, na okres kadencji komisji dyscyplinarnych, powołuje Główny Inspektor Pracy.
 
-2. Wszczególnie uzasadnionych przypadkach G∏ówny Inspektor Pracy mo˝e wyznaczyç do prowadzenia
+2. Wszczególnie uzasadnionych przypadkach Główny Inspektor Pracy może wyznaczyć do prowadzenia
 
 **Art. 79.**
 
-1. G∏ówny Inspektor Pracy poleca rzecznikowi dyscyplinarnemu wniesienie do komisji dyscyplinarnej wniosku o ukaranie albo wydaje postanowienie o umorzeniu post´powania dyscyplinarnego; przepis art. 78 ust. 2 stosuje si´ odpowiednio.
+1. Główny Inspektor Pracy poleca rzecznikowi dyscyplinarnemu wniesienie do komisji dyscyplinarnej wniosku o ukaranie albo wydaje postanowienie o umorzeniu postępowania dyscyplinarnego; przepis art. 78 ust. 2 stosuje się odpowiednio.
 
-2. Rzecznik dyscyplinarny kieruje do komisji dyscyplinarnej wniosek o ukaranie wraz z materia∏ami post´powania, dor´cza obwinionemu odpis wniosku oraz informuje go oprawie do ustanowienia obroƒcy, chyba ˝e obroƒca zosta∏ ustanowiony wczeÊniej.
+2. Rzecznik dyscyplinarny kieruje do komisji dyscyplinarnej wniosek o ukaranie wraz z materiałami postępowania, doręcza obwinionemu odpis wniosku oraz informuje go oprawie do ustanowienia obrońcy, chyba że obrońca został ustanowiony wcześniej.
 
-3. Wniosek o ukaranie powinien zawieraç:
+3. Wniosek o ukaranie powinien zawierać:
 
-- **1)** imi´, nazwisko, adres zamieszkania, nazw´ jednostki organizacyjnej istanowisko s∏u˝bowe obwinionego;
-- **2)** dok∏adne okreÊlenie zarzucanego przewinienia, ze wskazaniem miejsca i czasu jego pope∏nienia;
-- **3)** proponowanà kar´ dyscyplinarnà;
-- **4)** uzasadnienie wniosku; sprawy dyscyplinarnej innego pracownika. 5) wykaz dowodów i osób wzywanych na rozpraw´.
+- **1)** imię, nazwisko, adres zamieszkania, nazwę jednostki organizacyjnej istanowisko służbowe obwinionego;
+- **2)** dokładne określenie zarzucanego przewinienia, ze wskazaniem miejsca i czasu jego popełnienia;
+- **3)** proponowaną karę dyscyplinarną;
+- **4)** uzasadnienie wniosku; sprawy dyscyplinarnej innego pracownika. 5) wykaz dowodów i osób wzywanych na rozprawę.
 
-**Art. 76.** Post´powanie dyscyplinarne sk∏ada si´ 4. Po otrzymaniu odpisu wniosku oukaranie obwizpost´powania wyjaÊniajàcego ipost´powania przed niony i jego obroƒca mogà w terminie 14 dni od dnia komisjami dyscyplinarnymi. jego otrzymania sk∏adaç do komisji dyscyplinarnej wnioski i przedstawiaç dowody.
+**Art. 76.** Postępowanie dyscyplinarne składa się 4. Po otrzymaniu odpisu wniosku oukaranie obwizpostępowania wyjaśniającego ipostępowania przed niony i jego obrońca mogą w terminie 14 dni od dnia komisjami dyscyplinarnymi. jego otrzymania składać do komisji dyscyplinarnej wnioski i przedstawiać dowody.
 
 **Art. 77.**
 
-1. G∏ówny Inspektor Pracy, wrazie uzyskania wiadomoÊci o naruszeniu przez pracownika mia- 5. Je˝eli przeciwko obwinionemu wszcz´to post´nowanego obowiàzków s∏u˝bowych lub uchybieniu powanie karne oten sam czyn, który jest przedmiotem godnoÊci stanowiska, poleca rzecznikowi dyscyplinar- post´powania dyscyplinarnego, w post´powaniu wynemu wszcz´cie post´powania dyscyplinarnego. jaÊniajàcym rzecznik dyscyplinarny, a w post´powaniu przed komisjami dyscyplinarnymi zespó∏
+1. Główny Inspektor Pracy, wrazie uzyskania wiadomości o naruszeniu przez pracownika mia- 5. Jeżeli przeciwko obwinionemu wszczęto postęnowanego obowiązków służbowych lub uchybieniu powanie karne oten sam czyn, który jest przedmiotem godności stanowiska, poleca rzecznikowi dyscyplinar- postępowania dyscyplinarnego, w postępowaniu wynemu wszczęcie postępowania dyscyplinarnego. jaśniającym rzecznik dyscyplinarny, a w postępowaniu przed komisjami dyscyplinarnymi zespół
 
-2. Rzecznik dyscyplinarny jest zwiàzany polecenia- orzekajàcy, mo˝e zawiesiç post´powanie dyscyplinarmi G∏ównego Inspektora Pracy. ne do czasu prawomocnego zakoƒczenia post´powania karnego; postanowienie rzecznika dyscyplinarneArt. 78. 1. Rzecznik dyscyplinarny wszczyna po- go dor´cza si´ obwinionemu iobroƒcy, apostanowiest´powanie dyscyplinarne, wydajàc postanowienie nie komisji dyscyplinarnej tak˝e rzecznikowi dyscyplio wszcz´ciu post´powania wyjaÊniajàcego, w którym narnemu. wskazuje przyczyny wszcz´cia.
+2. Rzecznik dyscyplinarny jest związany polecenia- orzekający, może zawiesić postępowanie dyscyplinarmi Głównego Inspektora Pracy. ne do czasu prawomocnego zakończenia postępowania karnego; postanowienie rzecznika dyscyplinarneArt. 78. 1. Rzecznik dyscyplinarny wszczyna po- go doręcza się obwinionemu iobrońcy, apostanowiestępowanie dyscyplinarne, wydając postanowienie nie komisji dyscyplinarnej także rzecznikowi dyscyplio wszczęciu postępowania wyjaśniającego, w którym narnemu. wskazuje przyczyny wszczęcia.
 
 **Art. 80.**
 
-1. Komisja dyscyplinarna rozstrzyga samo2. Odpis orzeczenia dor´cza si´ obwinionemu dzielnie zagadnienia faktyczne oraz prawne; komisja i okr´gowemu inspektorowi pracy. jest zwiàzana prawomocnym orzeczeniem sàdu stwierdzajàcym win´ obwinionego.
+1. Komisja dyscyplinarna rozstrzyga samo2. Odpis orzeczenia doręcza się obwinionemu dzielnie zagadnienia faktyczne oraz prawne; komisja i okręgowemu inspektorowi pracy. jest związana prawomocnym orzeczeniem sądu stwierdzającym winę obwinionego.
 
-3. W toku post´powania wyjaÊniajàcego rzecznik dyscyplinarny podejmuje czynnoÊci niezb´dne do 2. Cz∏onkowie komisji dyscyplinarnej sà wzakresie wszechstronnego wyjaÊnienia sprawy, zbiera i utrwa- orzekania niezawiÊli. la dowody, wszczególnoÊci dokumenty, oÊwiadczenia i wyjaÊnienia. 3. Komisja dyscyplinarna orzeka w trzyosobowym zespole orzekajàcym, któremu przewodniczy przewod4. Rzecznik dyscyplinarny przedstawia obwinione- niczàcy komisji lub jeden zjego zast´pców. mu postawione zarzuty iprzyjmuje od niego wyjaÊnienia i wnioski, a przed zakoƒczeniem post´powania Art. 81. 1. Przewodniczàcy zespo∏u orzekajàcego wyjaÊniajàcego zapoznaje obwinionego z zebranymi wyznacza termin rozprawy; zarzàdza zawiadomienie wsprawie dowodami, sporzàdzajàc ztej czynnoÊci no- o terminie rzecznika dyscyplinarnego i obroƒcy, je˝eli tatk´ podpisanà przez siebie i obwinionego. zosta∏ ustanowiony, oraz wzywa na rozpraw´ obwinionego i w razie potrzeby Êwiadków i bieg∏ych.
+3. W toku postępowania wyjaśniającego rzecznik dyscyplinarny podejmuje czynności niezbędne do 2. Członkowie komisji dyscyplinarnej są wzakresie wszechstronnego wyjaśnienia sprawy, zbiera i utrwa- orzekania niezawiśli. la dowody, wszczególności dokumenty, oświadczenia i wyjaśnienia. 3. Komisja dyscyplinarna orzeka w trzyosobowym zespole orzekającym, któremu przewodniczy przewod4. Rzecznik dyscyplinarny przedstawia obwinione- niczący komisji lub jeden zjego zastępców. mu postawione zarzuty iprzyjmuje od niego wyjaśnienia i wnioski, a przed zakończeniem postępowania Art. 81. 1. Przewodniczący zespołu orzekającego wyjaśniającego zapoznaje obwinionego z zebranymi wyznacza termin rozprawy; zarządza zawiadomienie wsprawie dowodami, sporządzając ztej czynności no- o terminie rzecznika dyscyplinarnego i obrońcy, jeżeli tatkę podpisaną przez siebie i obwinionego. został ustanowiony, oraz wzywa na rozprawę obwinionego i w razie potrzeby świadków i biegłych.
 
-5. Po zakoƒczeniu post´powania wyjaÊniajàcego rzecznik dyscyplinarny przedk∏ada G∏ównemu Inspek- 2. Wprzypadku, gdy rzecznik dyscyplinarny wniós∏ torowi Pracy materia∏y post´powania wraz z umoty- oorzeczenie kary wydalenia zpracy wPaƒstwowej Inwowanym na piÊmie wnioskiem o umorzenie post´- spekcji Pracy, a obwiniony nie ma obroƒcy z wyboru, powania dyscyplinarnego albo o skierowanie sprawy przewodniczàcy sk∏adu orzekajàcego wyznacza obroƒdo komisji dyscyplinarnej. c´ spoÊród pracowników mianowanych.
+5. Po zakończeniu postępowania wyjaśniającego rzecznik dyscyplinarny przedkłada Głównemu Inspek- 2. Wprzypadku, gdy rzecznik dyscyplinarny wniósł torowi Pracy materiały postępowania wraz z umoty- oorzeczenie kary wydalenia zpracy wPaństwowej Inwowanym na piśmie wnioskiem o umorzenie postę- spekcji Pracy, a obwiniony nie ma obrońcy z wyboru, powania dyscyplinarnego albo o skierowanie sprawy przewodniczący składu orzekającego wyznacza obrońdo komisji dyscyplinarnej. cę spośród pracowników mianowanych.
 
-3. Wezwania i zawiadomienia, o których mowa w ust. 1, powinny byç dor´czone nie póêniej ni˝ 7 dni przed terminem rozprawy.
+3. Wezwania i zawiadomienia, o których mowa w ust. 1, powinny być doręczone nie póêniej niż 7 dni przed terminem rozprawy.
 
-4. W post´powaniu przed komisjà dyscyplinarnà obwiniony oraz jego obroƒca majà prawo zapoznawaç si´ z aktami sprawy.
+4. W postępowaniu przed komisją dyscyplinarną obwiniony oraz jego obrońca mają prawo zapoznawać się z aktami sprawy.
 
-5. Udzia∏ rzecznika dyscyplinarnego w rozprawie jest obowiàzkowy.
+5. Udział rzecznika dyscyplinarnego w rozprawie jest obowiązkowy.
 
-6. Nieusprawiedliwiona nieobecnoÊç obwinionego lub jego obroƒcy na rozprawie nie wstrzymuje rozpoznania sprawy.
+6. Nieusprawiedliwiona nieobecność obwinionego lub jego obrońcy na rozprawie nie wstrzymuje rozpoznania sprawy.
 
 **Art. 82.**
 
-1. Rozprawà kieruje przewodniczàcy zespo∏u orzekajàcego.
+1. Rozprawą kieruje przewodniczący zespołu orzekającego.
 
-2. Z przebiegu rozprawy sporzàdza si´ protokó∏.
+2. Z przebiegu rozprawy sporządza się protokół.
 
-3. Protokó∏ powinien zawieraç w szczególnoÊci:
+3. Protokół powinien zawierać w szczególności:
 
-- **1)** oznaczenie czasu i miejsca przeprowadzenia rozprawy oraz osób w niej uczestniczàcych;
-- **2)** treÊç wyjaÊnieƒ, oÊwiadczeƒ i wniosków uczestników rozprawy;
+- **1)** oznaczenie czasu i miejsca przeprowadzenia rozprawy oraz osób w niej uczestniczących;
+- **2)** treść wyjaśnień, oświadczeń i wniosków uczestników rozprawy;
 - **3)** postanowienia wydane w toku rozprawy;
-- **4)** wmiar´ potrzeby stwierdzenie innych okolicznoÊci dotyczàcych przebiegu rozprawy;
-- **5)** podpisy przewodniczàcego zespo∏u orzekajàcego i protokolanta.
+- **4)** wmiarę potrzeby stwierdzenie innych okoliczności dotyczących przebiegu rozprawy;
+- **5)** podpisy przewodniczącego zespołu orzekającego i protokolanta.
 
-4. Rozprawa jest jawna. W uzasadnionych przypadkach zespó∏ orzekajàcy mo˝e wy∏àczyç jawnoÊç ca∏oÊci lub cz´Êci rozprawy.
+4. Rozprawa jest jawna. W uzasadnionych przypadkach zespół orzekający może wyłączyć jawność całości lub części rozprawy.
 
-5. Na poczàtku rozprawy rzecznik dyscyplinarny odczytuje wniosek oukaranie, po czym przewodniczàcy zespo∏u orzekajàcego zapytuje obwinionego, czy przyznaje si´ do pope∏nienia zarzucanego mu przewinienia oraz czy i jakie zamierza z∏o˝yç wyjaÊnienia.
+5. Na początku rozprawy rzecznik dyscyplinarny odczytuje wniosek oukaranie, po czym przewodniczący zespołu orzekającego zapytuje obwinionego, czy przyznaje się do popełnienia zarzucanego mu przewinienia oraz czy i jakie zamierza złożyć wyjaśnienia.
 
-6. Przewodniczàcy zespo∏u orzekajàcego udziela obwinionemu g∏osu w celu z∏o˝enia wyjaÊnieƒ, a nast´pnie w miar´ potrzeby wys∏uchuje Êwiadków, od11. BezpoÊrednio przed zamkni´ciem rozprawy przewodniczàcy zespo∏u orzekajàcego udziela g∏osu rzecznikowi dyscyplinarnemu, obroƒcy iobwinionemu.
+6. Przewodniczący zespołu orzekającego udziela obwinionemu głosu w celu złożenia wyjaśnień, a następnie w miarę potrzeby wysłuchuje świadków, od11. Bezpośrednio przed zamknięciem rozprawy przewodniczący zespołu orzekającego udziela głosu rzecznikowi dyscyplinarnemu, obrońcy iobwinionemu.
 
 **Art. 83.**
 
@@ -802,201 +814,205 @@ o Paƒstwowej Inspekcji Pracy Rozdzia∏ 1 strzegania prawa pracy, w szczególno
 
 - **1)** ukaraniu;
 - **2)** uniewinnieniu;
-- **3)** umorzeniu post´powania.
+- **3)** umorzeniu postępowania.
 
-2. Orzeczenie o umorzeniu post´powania komisja dyscyplinarna wydaje, gdy:
+2. Orzeczenie o umorzeniu postępowania komisja dyscyplinarna wydaje, gdy:
 
-- **1)** obwiniony nie podlega w∏aÊciwoÊci komisji;
-- **2)** obwiniony zmar∏;
-- **3)** up∏ynà∏ termin do wszcz´cia post´powania dyscyplinarnego;
-- **4)** rzecznik dyscyplinarny na polecenie G∏ównego Inspektora Pracy wycofa∏ wniosek o ukaranie.
+- **1)** obwiniony nie podlega właściwości komisji;
+- **2)** obwiniony zmarł;
+- **3)** upłynął termin do wszczęcia postępowania dyscyplinarnego;
+- **4)** rzecznik dyscyplinarny na polecenie Głównego Inspektora Pracy wycofał wniosek o ukaranie.
 
-3. Orzeczenie o umorzeniu post´powania komisja dyscyplinarna mo˝e wydaç tak˝e na posiedzeniu niejawnym.
+3. Orzeczenie o umorzeniu postępowania komisja dyscyplinarna może wydać także na posiedzeniu niejawnym.
 
-4. Narada jest niejawna; w pomieszczeniu, w którym odbywa si´ narada, pozostajà jedynie cz∏onkowie zespo∏u orzekajàcego, a w razie potrzeby tak˝e protokolant.
+4. Narada jest niejawna; w pomieszczeniu, w którym odbywa się narada, pozostają jedynie członkowie zespołu orzekającego, a w razie potrzeby także protokolant.
 
-5. Orzeczenie zapada wi´kszoÊcià g∏osów. G∏osowanie odbywa si´ osobno co do winy i osobno co do kary; cz∏onek zespo∏u orzekajàcego nie mo˝e wstrzymaç si´ od g∏osowania.
+5. Orzeczenie zapada większością głosów. Głosowanie odbywa się osobno co do winy i osobno co do kary; członek zespołu orzekającego nie może wstrzymać się od głosowania.
 
-6. Przeg∏osowany cz∏onek zespo∏u orzekajàcego, podpisujàc orzeczenie, ma prawo zaznaczyç na orzeczeniu swoje zdanie odr´bne. Sk∏adajàcy zdanie odr´bne mo˝e do akt sprawy z∏o˝yç jego uzasadnienie na piÊmie.
+6. Przegłosowany członek zespołu orzekającego, podpisując orzeczenie, ma prawo zaznaczyć na orzeczeniu swoje zdanie odrębne. Składający zdanie odrębne może do akt sprawy złożyć jego uzasadnienie na piśmie.
 
 **Art. 84.**
 
-1. Komisja dyscyplinarna wymierza kar´ bioràc pod uwag´ stopieƒ winy, szkodliwoÊç spo∏eczbiera oÊwiadczenia oraz bada dokumenty lub przeprowadza inne dowody.
+1. Komisja dyscyplinarna wymierza karę biorąc pod uwagę stopień winy, szkodliwość społeczbiera oświadczenia oraz bada dokumenty lub przeprowadza inne dowody.
 
-7. Na rozprawie rzecznik dyscyplinarny, obwiniony oraz jego obroƒca mogà sk∏adaç oÊwiadczenia, zg∏aszaç wnioski i przedstawiaç dowody.
+7. Na rozprawie rzecznik dyscyplinarny, obwiniony oraz jego obrońca mogą składać oświadczenia, zgłaszać wnioski i przedstawiać dowody.
 
-8. Odroczenie rozprawy mo˝e nastàpiç jedynie z wa˝nych powodów; o odroczeniu postanawia przewodniczàcy zespo∏u orzekajàcego.
+8. Odroczenie rozprawy może nastąpić jedynie z ważnych powodów; o odroczeniu postanawia przewodniczący zespołu orzekającego.
 
-9. Rozprawa ulega odroczeniu w razie niestawienia si´ strony, której wezwanie nie zosta∏o dor´czone, lub w razie jej usprawiedliwionego niestawiennictwa.
+9. Rozprawa ulega odroczeniu w razie niestawienia się strony, której wezwanie nie zostało doręczone, lub w razie jej usprawiedliwionego niestawiennictwa.
 
-10. Rozpraw´ odroczonà prowadzi si´ w dalszym ciàgu, chyba ˝e sk∏ad zespo∏u orzekajàcego uleg∏ zmianie. nà i skutki przewinienia, a tak˝e zachowanie si´ obwinionego przed i po pope∏nieniu przewinienia.
+10. Rozprawę odroczoną prowadzi się w dalszym ciągu, chyba że skład zespołu orzekającego uległ zmianie. ną i skutki przewinienia, a także zachowanie się obwinionego przed i po popełnieniu przewinienia.
 
-2. Je˝eli obwiniony dopuÊci∏ si´ kilku przewinieƒ, wymierza si´ jednà kar´ za wszystkie przewinienia ∏àcznie.
+2. Jeżeli obwiniony dopuścił się kilku przewinień, wymierza się jedną karę za wszystkie przewinienia łącznie.
 
-3. Orzeczenie o ukaraniu powinno zawieraç:
+3. Orzeczenie o ukaraniu powinno zawierać:
 
-- **1)** nazw´ komisji dyscyplinarnej, imiona i nazwiska cz∏onków zespo∏u orzekajàcego, rzecznika dyscyplinarnego i protokolanta oraz dat´ rozpoznania sprawy i wydania orzeczenia;
-- **2)** imi´, nazwisko, adres zamieszkania, nazw´ jednostki organizacyjnej istanowisko s∏u˝bowe obwinionego;
-- **3)** dok∏adne okreÊlenie zarzucanego przewinienia;
-- **4)** rozstrzygni´cie co do winy;
-- **5)** okreÊlenie wymierzonej kary;
-- **6)** pouczenie oterminie itrybie wniesienia odwo∏ania;
-- **7)** podpisy cz∏onków zespo∏u orzekajàcego.
+- **1)** nazwę komisji dyscyplinarnej, imiona i nazwiska członków zespołu orzekającego, rzecznika dyscyplinarnego i protokolanta oraz datę rozpoznania sprawy i wydania orzeczenia;
+- **2)** imię, nazwisko, adres zamieszkania, nazwę jednostki organizacyjnej istanowisko służbowe obwinionego;
+- **3)** dokładne określenie zarzucanego przewinienia;
+- **4)** rozstrzygnięcie co do winy;
+- **5)** określenie wymierzonej kary;
+- **6)** pouczenie oterminie itrybie wniesienia odwołania;
+- **7)** podpisy członków zespołu orzekającego.
 
-4. Orzeczenie powinno byç og∏oszone bezpoÊrednio po zakoƒczeniu rozprawy i odbyciu narady.
+4. Orzeczenie powinno być ogłoszone bezpośrednio po zakończeniu rozprawy i odbyciu narady.
 
-5. W wyjàtkowych wypadkach mo˝na odroczyç wydanie orzeczenia na czas nie d∏u˝szy ni˝ 3 dni. O terminie og∏oszenia orzeczenia przewodniczàcy zespo∏u orzekajàcego zawiadamia strony bezpoÊrednio po postanowieniu o odroczeniu wydania orzeczenia.
+5. W wyjątkowych wypadkach można odroczyć wydanie orzeczenia na czas nie dłuższy niż 3 dni. O terminie ogłoszenia orzeczenia przewodniczący zespołu orzekającego zawiadamia strony bezpośrednio po postanowieniu o odroczeniu wydania orzeczenia.
 
-6. Po og∏oszeniu orzeczenia przewodniczàcy zespo∏u orzekajàcego podaje ustnie zasadnicze motywy rozstrzygni´cia.
+6. Po ogłoszeniu orzeczenia przewodniczący zespołu orzekającego podaje ustnie zasadnicze motywy rozstrzygnięcia.
 
-7. Orzeczenie wymaga pisemnego uzasadnienia, które powinno zawieraç ustalenia faktyczne przez wskazanie, jakie fakty komisja dyscyplinarna uzna∏a za udowodnione lub nieudowodnione, na jakich w tym wzgl´dzie opar∏a si´ dowodach i dlaczego nie da∏a wiary dowodom przeciwnym, a tak˝e przytoczenie okolicznoÊci, które komisja dyscyplinarna uwzgl´dni∏a przy wymierzaniu kary.
+7. Orzeczenie wymaga pisemnego uzasadnienia, które powinno zawierać ustalenia faktyczne przez wskazanie, jakie fakty komisja dyscyplinarna uznała za udowodnione lub nieudowodnione, na jakich w tym względzie oparła się dowodach i dlaczego nie dała wiary dowodom przeciwnym, a także przytoczenie okoliczności, które komisja dyscyplinarna uwzględniła przy wymierzaniu kary.
 
-8. Uzasadnienie sporzàdza przewodniczàcy zespo∏u orzekajàcego; uzasadnienie podpisujà wszyscy cz∏onkowie zespo∏u orzekajàcego.
+8. Uzasadnienie sporządza przewodniczący zespołu orzekającego; uzasadnienie podpisują wszyscy członkowie zespołu orzekającego.
 
-9. Orzeczenie na piÊmie wraz z uzasadnieniem dor´cza si´ rzecznikowi dyscyplinarnemu, obwinionemu oraz obroƒcy w ciàgu 14 dni od dnia jego og∏oszenia albo wydania w trybie okreÊlonym w art. 83 ust. 3.
+9. Orzeczenie na piśmie wraz z uzasadnieniem doręcza się rzecznikowi dyscyplinarnemu, obwinionemu oraz obrońcy w ciągu 14 dni od dnia jego ogłoszenia albo wydania w trybie określonym w art. 83 ust. 3.
 
 **Art. 85.**
 
-1. Od orzeczenia komisji dyscyplinarnej rzecznikowi dyscyplinarnemu, obwinionemu oraz obroƒcy s∏u˝y odwo∏anie do Odwo∏awczej Komisji Dyscyplinarnej.
+1. Od orzeczenia komisji dyscyplinarnej rzecznikowi dyscyplinarnemu, obwinionemu oraz obrońcy służy odwołanie do Odwoławczej Komisji Dyscyplinarnej.
 
-2. Odwo∏anie sk∏ada si´ za poÊrednictwem przewodniczàcego komisji dyscyplinarnej wterminie 14 dni od dnia dor´czenia orzeczenia.
+2. Odwołanie składa się za pośrednictwem przewodniczącego komisji dyscyplinarnej wterminie 14 dni od dnia doręczenia orzeczenia.
 
-3. Przewodniczàcy wydaje postanowienie oodmowie przyj´cia odwo∏ania, je˝eli zosta∏o wniesione po up∏ywie terminu lub przez osob´ nieuprawnionà.
+3. Przewodniczący wydaje postanowienie oodmowie przyjęcia odwołania, jeżeli zostało wniesione po upływie terminu lub przez osobę nieuprawnioną.
 
-4. Przewodniczàcy mo˝e przywróciç termin do wniesienia odwo∏ania, gdy przekroczenie terminu nastàpi∏o z przyczyn od strony niezale˝nych; wniosek oprzywrócenie terminu nale˝y z∏o˝yç wciàgu 7 dni od dnia ustania przeszkody. JednoczeÊnie z wnioskiem nale˝y wnieÊç odwo∏anie.
+4. Przewodniczący może przywrócić termin do wniesienia odwołania, gdy przekroczenie terminu nastąpiło z przyczyn od strony niezależnych; wniosek oprzywrócenie terminu należy złożyć wciągu 7 dni od dnia ustania przeszkody. Jednocześnie z wnioskiem należy wnieść odwołanie.
 
-5. Postanowienia o odmowie przyj´cia odwo∏ania oraz odmowie przywrócenia terminu do z∏o˝enia odwo∏ania, wskazujàce podstaw´ odmowy, dor´cza si´ zainteresowanemu wraz z pouczeniem o prawie i terminie do wniesienia za˝alenia; na postanowienia te zainteresowanemu s∏u˝y za˝alenie do Odwo∏awczej Komisji Dyscyplinarnej wterminie 7 dni od dnia dor´czenia postanowienia.
+5. Postanowienia o odmowie przyjęcia odwołania oraz odmowie przywrócenia terminu do złożenia odwołania, wskazujące podstawę odmowy, doręcza się zainteresowanemu wraz z pouczeniem o prawie i terminie do wniesienia zażalenia; na postanowienia te zainteresowanemu służy zażalenie do Odwoławczej Komisji Dyscyplinarnej wterminie 7 dni od dnia doręczenia postanowienia.
 
-6. Odwo∏anie mo˝na cofnàç do chwili rozpocz´cia wniesionego na korzyÊç obwinionego nie mo˝na cofnàç bez jego zgody.
+6. Odwołanie można cofnąć do chwili rozpoczęcia wniesionego na korzyść obwinionego nie można cofnąć bez jego zgody.
 
 **Art. 86.**
 
-1. Odwo∏awcza Komisja Dyscyplinarna umarza post´powanie odwo∏awcze w razie:
+1. Odwoławcza Komisja Dyscyplinarna umarza postępowanie odwoławcze w razie:
 
-- **1)** wniesienia odwo∏ania przez osob´ nieuprawnionà;
-- **2)** bezzasadnego przywrócenia terminu do wniesienia odwo∏ania;
-- **3)** skutecznego cofni´cia odwo∏ania.
+- **1)** wniesienia odwołania przez osobę nieuprawnioną;
+- **2)** bezzasadnego przywrócenia terminu do wniesienia odwołania;
+- **3)** skutecznego cofnięcia odwołania.
 
-2. Umorzenie post´powania odwo∏awczego mo˝e nastàpiç tak˝e na posiedzeniu niejawnym.
+2. Umorzenie postępowania odwoławczego może nastąpić także na posiedzeniu niejawnym.
 
 **Art. 87.**
 
-1. Odwo∏awcza Komisja Dyscyplinarna po przeprowadzeniu rozprawy:
+1. Odwoławcza Komisja Dyscyplinarna po przeprowadzeniu rozprawy:
 
-- **1)** utrzymuje w mocy zaskar˝one orzeczenie;
-- **2)** uchyla orzeczenie w ca∏oÊci lub w cz´Êci i wydaje nowe orzeczenie co do istoty;
-- **3)** uchyla orzeczenie iprzekazuje spraw´ komisji dysrozprawy w post´powaniu odwo∏awczym. Odwo∏ania cyplinarnej do ponownego rozpatrzenia w innym sk∏adzie;
-- **4)** uchyla orzeczenie i umarza post´powanie w przypadkach okreÊlonych w art. 83 ust. 2 pkt 1—3.
+- **1)** utrzymuje w mocy zaskarżone orzeczenie;
+- **2)** uchyla orzeczenie w całości lub w części i wydaje nowe orzeczenie co do istoty;
+- **3)** uchyla orzeczenie iprzekazuje sprawę komisji dysrozprawy w postępowaniu odwoławczym. Odwołania cyplinarnej do ponownego rozpatrzenia w innym składzie;
+- **4)** uchyla orzeczenie i umarza postępowanie w przypadkach określonych w art. 83 ust. 2 pkt 1—3.
 
-2. Odwo∏awcza Komisja Dyscyplinarna mo˝e orzec kar´ surowszà od orzeczonej przez komisj´ dyscyplinarnà tylko wówczas, gdy orzeczenie zosta∏o zaskar˝one na niekorzyÊç obwinionego.
+2. Odwoławcza Komisja Dyscyplinarna może orzec karę surowszą od orzeczonej przez komisję dyscyplinarną tylko wówczas, gdy orzeczenie zostało zaskarżone na niekorzyść obwinionego.
 
-3. W post´powaniu przed Odwo∏awczà Komisjà Dyscyplinarnà stosuje si´ odpowiednio przepisy opost´powaniu przed komisjà dyscyplinarnà.
+3. W postępowaniu przed Odwoławczą Komisją Dyscyplinarną stosuje się odpowiednio przepisy opostępowaniu przed komisją dyscyplinarną.
 
 **Art. 88.**
 
-1. Od orzeczenia Odwo∏awczej Komisji Dyscyplinarnej obwinionemu oraz G∏ównemu Inspektorowi Pracy przys∏uguje odwo∏anie do w∏aÊciwego ze wzgl´du na miejsce zamieszkania obwinionego sàdu apelacyjnego sàdu pracy iubezpieczeƒ spo∏ecznych.
+1. Od orzeczenia Odwoławczej Komisji Dyscyplinarnej obwinionemu oraz Głównemu Inspektorowi Pracy przysługuje odwołanie do właściwego ze względu na miejsce zamieszkania obwinionego sądu apelacyjnego sądu pracy iubezpieczeń społecznych.
 
-2. Do rozpoznania odwo∏ania stosuje si´ przepisy Kodeksu post´powania cywilnego oapelacji. Od orzeczenia sàdu apelacyjnego skarga kasacyjna nie przys∏uguje.
+2. Do rozpoznania odwołania stosuje się przepisy Kodeksu postępowania cywilnego oapelacji. Od orzeczenia sądu apelacyjnego skarga kasacyjna nie przysługuje.
 
 **Art. 89.**
 
-1. Orzeczenie komisji dyscyplinarnej staje si´ prawomocne wrazie niewniesienia odwo∏ania wterminie, atak˝e umorzenia post´powania odwo∏awczego, aorzeczenie Odwo∏awczej Komisji Dyscyplinarnej wrazie niewniesienia odwo∏ania wterminie do sàdu.
+1. Orzeczenie komisji dyscyplinarnej staje się prawomocne wrazie niewniesienia odwołania wterminie, atakże umorzenia postępowania odwoławczego, aorzeczenie Odwoławczej Komisji Dyscyplinarnej wrazie niewniesienia odwołania wterminie do sądu.
 
-2. Po uprawomocnieniu si´ orzeczenia przewodniczàcy komisji dyscyplinarnej przesy∏a jego odpis wraz zuzasadnieniem obwinionemu oraz G∏ównemu Inspektorowi Pracy, który zarzàdza wykonanie orzeczenia.
+2. Po uprawomocnieniu się orzeczenia przewodniczący komisji dyscyplinarnej przesyła jego odpis wraz zuzasadnieniem obwinionemu oraz Głównemu Inspektorowi Pracy, który zarządza wykonanie orzeczenia.
 
-3. Odpis prawomocnego orzeczenia wraz zuzasadnieniem w∏àcza si´ do akt osobowych pracownika.
+3. Odpis prawomocnego orzeczenia wraz zuzasadnieniem włącza się do akt osobowych pracownika.
 
 **Art. 90.**
 
-1. Kary dyscyplinarne okreÊlone w art. 71 ust. 3 pkt 1 i 2 ulegajà zatarciu po up∏ywie dwóch lat, a kary dyscyplinarne, okreÊlone w art. 71 ust. 3 pkt 3 i 4 po up∏ywie trzech lat od dnia uprawomocnienia si´ orzeczenia.
+1. Kary dyscyplinarne określone w art. 71 ust. 3 pkt 1 i 2 ulegają zatarciu po upływie dwóch lat, a kary dyscyplinarne, określone w art. 71 ust. 3 pkt 3 i 4 po upływie trzech lat od dnia uprawomocnienia się orzeczenia.
 
-2. Kara nagany inagany zostrze˝eniem mo˝e ulec wczeÊniejszemu zatarciu na wniosek ukaranego pracownika. Decyzj´ takà podejmuje G∏ówny Inspektor Pracy najwczeÊniej po up∏ywie roku od dnia uprawomocnienia si´ orzeczenia, bioràc pod uwag´ nienaganne zachowanie pracownika w tym okresie.
+2. Kara nagany inagany zostrzeżeniem może ulec wcześniejszemu zatarciu na wniosek ukaranego pracownika. Decyzję taką podejmuje Główny Inspektor Pracy najwcześniej po upływie roku od dnia uprawomocnienia się orzeczenia, biorąc pod uwagę nienaganne zachowanie pracownika w tym okresie.
 
-3. Wprzypadkach, októrych mowa wust. 1 i2, odpis orzeczenia wraz z uzasadnieniem usuwa si´ z akt osobowych, a ukaranie uwa˝a si´ za nieby∏e.
+3. Wprzypadkach, októrych mowa wust. 1 i2, odpis orzeczenia wraz z uzasadnieniem usuwa się z akt osobowych, a ukaranie uważa się za niebyłe.
 
 **Art. 91.**
 
-1. Obwiniony lub rzecznik dyscyplinarny mogà z∏o˝yç wniosek o wznowienie post´powania dyscyplinarnego, je˝eli po wydaniu prawomocnego orzeczenia wyjdà na jaw nowe fakty lub dowody, nieznane przedtem komisji dyscyplinarnej, a mogàce mieç istotny wp∏yw na treÊç orzeczenia.
+1. Obwiniony lub rzecznik dyscyplinarny mogą złożyć wniosek o wznowienie postępowania dyscyplinarnego, jeżeli po wydaniu prawomocnego orzeczenia wyjdą na jaw nowe fakty lub dowody, nieznane przedtem komisji dyscyplinarnej, a mogące mieć istotny wpływ na treść orzeczenia.
 
-2. Wznowienie post´powania na niekorzyÊç obwinionego mo˝e nastàpiç tylko wtedy, gdy oka˝e si´, ˝e orzeczenie wydane zosta∏o na skutek przest´pstwa stwierdzonego prawomocnym orzeczeniem sàdu.
+2. Wznowienie postępowania na niekorzyść obwinionego może nastąpić tylko wtedy, gdy okaże się, że orzeczenie wydane zostało na skutek przestępstwa stwierdzonego prawomocnym orzeczeniem sądu.
 
-3. Wniosek owznowienie post´powania mo˝e byç z∏o˝ony wterminie 30 dni od dnia ujawnienia si´ okolicznoÊci, o których mowa w ust. 1 i 2.
+3. Wniosek owznowienie postępowania może być złożony wterminie 30 dni od dnia ujawnienia się okoliczności, o których mowa w ust. 1 i 2.
 
-4. Wznowienie post´powania po up∏ywie przedawnienia dyscyplinarnego mo˝e nastàpiç tylko na korzyÊç ukaranego.
+4. Wznowienie postępowania po upływie przedawnienia dyscyplinarnego może nastąpić tylko na korzyść ukaranego.
 
-5. Wprzedmiocie wznowienia post´powania orzeka na posiedzeniu niejawnym w innym sk∏adzie komisja dyscyplinarna, która wyda∏a prawomocne orzeczenie.
+5. Wprzedmiocie wznowienia postępowania orzeka na posiedzeniu niejawnym w innym składzie komisja dyscyplinarna, która wydała prawomocne orzeczenie.
 
-6. Na postanowienie oodmowie wznowienia post´powania, wydane przez komisj´ dyscyplinarnà, przys∏uguje za˝alenie do Odwo∏awczej Komisji Dyscyplinarnej; przepis art. 85 ust. 5 stosuje si´ odpowiednio.
+6. Na postanowienie oodmowie wznowienia postępowania, wydane przez komisję dyscyplinarną, przysługuje zażalenie do Odwoławczej Komisji Dyscyplinarnej; przepis art. 85 ust. 5 stosuje się odpowiednio.
 
-7. Na postanowienie o odmowie wznowienia post´powania, wydane przez Odwo∏awczà Komisj´ Dyscyplinarnà, za˝alenie nie przys∏uguje.
+7. Na postanowienie o odmowie wznowienia postępowania, wydane przez Odwoławczą Komisję Dyscyplinarną, zażalenie nie przysługuje.
 
-**Art. 92.** Wpost´powaniu przed komisjami dyscyplinarnymi, o których mowa w art. 71 ust. 4, w sprawach nieuregulowanych w niniejszym rozdziale stosuje si´ odpowiednio przepisy Kodeksu post´powania karnego.
+**Art. 92.** Wpostępowaniu przed komisjami dyscyplinarnymi, o których mowa w art. 71 ust. 4, w sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
-**Art. 93.** G∏ówny Inspektor Pracy okreÊli, w drodze zarzàdzenia, organizacj´, sk∏ad oraz tryb pracy komisji dyscyplinarnych, októrych mowa wart. 71 ust. 4 oraz tryb pracy rzecznika dyscyplinarnego. Rozdzia∏ 7 Zmiany w przepisach obowiàzujàcych
+**Art. 93.** Główny Inspektor Pracy określi, w drodze zarządzenia, organizację, skład oraz tryb pracy komisji dyscyplinarnych, októrych mowa wart. 71 ust. 4 oraz tryb pracy rzecznika dyscyplinarnego.
 
-**Art. 94.** W ustawie z dnia 17 czerwca 1966 r. opost´powaniu egzekucyjnym wadministracji (Dz. U. z 2005 r. 229, poz. 1954, z póên. zm.
+#### Rozdział 7 Zmiany w przepisach obowiązujących
 
-**Art. 95.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 94.** W ustawie z dnia 17 czerwca 1966 r. opostępowaniu egzekucyjnym wadministracji (Dz. U. z 2005 r. 229, poz. 1954, z póên. zm.
 
-**Art. 96.** Wustawie zdnia 16 wrzeÊnia 1982 r. opracownikach urz´dów paƒstwowych (Dz. U. z 2001 r. 86, poz. 953, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 95.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 97.** W ustawie z dnia 4 marca 1994 r. o zak∏adowym funduszu Êwiadczeƒ socjalnych (Dz. U. z 1996 r. 70, poz. 335, z póên. zm. ) w art. 12a ust. 2 otrzymuje brzmienie: „2. Wsprawach, októrych mowa wust. 1, orzeka si´ na podstawie wniosku pochodzàcego od w∏aÊciwego organu Paƒstwowej Inspekcji Pracy w trybie okreÊlonym przepisami Kodeksu post´powania w sprawach o wykroczenia.”.
+**Art. 96.** Wustawie zdnia 16 września 1982 r. opracownikach urzędów państwowych (Dz. U. z 2001 r. 86, poz. 953, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 98.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. 88, poz. 553, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 97.** W ustawie z dnia 4 marca 1994 r. o zakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. 70, poz. 335, z póên. zm. ) w art. 12a ust. 2 otrzymuje brzmienie: Ń2. Wsprawach, októrych mowa wust. 1, orzeka się na podstawie wniosku pochodzącego od właściwego organu Państwowej Inspekcji Pracy w trybie określonym przepisami Kodeksu postępowania w sprawach o wykroczenia.”.
 
-**Art. 99.** W ustawie z dnia 6 czerwca 1997 r. Kodeks post´powania karnego (Dz. U. 89, poz. 555, z póên. zm. ) w art. 49 po § 3 dodaje si´ § 3a w brzmieniu: „§ 3a. W sprawach o przest´pstwa przeciwko prawom osób wykonujàcych prac´ zarobkowà, októrych mowa wart. 218—221 oraz wart. 225 § 2 Kodeksu karnego, organy Paƒstwowej Inspekcji Pracy mogà wykonywaç prawa pokrzywdzonego, je˝eli w zakresie swego dzia∏ania ujawni∏y przest´pstwo lub wystàpi∏y owszcz´cie post´powania.”.
+**Art. 98.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. 88, poz. 553, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 100.** W ustawie z dnia 24 lipca 1999 r. o S∏u˝bie Celnej (Dz. U. z 2004 r. 156, poz. 1641, z póên.zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 99.** W ustawie z dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz. U. 89, poz. 555, z póên. zm. ) w art. 49 po § 3 dodaje się § 3a w brzmieniu: Ń§ 3a. W sprawach o przestępstwa przeciwko prawom osób wykonujących pracę zarobkową, októrych mowa wart. 218—221 oraz wart. 225 § 2 Kodeksu karnego, organy Państwowej Inspekcji Pracy mogą wykonywać prawa pokrzywdzonego, jeżeli w zakresie swego działania ujawniły przestępstwo lub wystąpiły owszczęcie postępowania.”.
+
+**Art. 100.** W ustawie z dnia 24 lipca 1999 r. o Służbie Celnej (Dz. U. z 2004 r. 156, poz. 1641, z póên.zm. ) wprowadza się następujące zmiany:
 
 **Art. 102.** W ustawie z dnia 9 lipca 2003 r. o zatrudnianiu pracowników tymczasowych (Dz. U. 166, poz. 1608 oraz z 2004 r. 96, poz. 959) w art. 9:
 
-**Art. 103.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz.U. 99, poz. 1001, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 103.** W ustawie z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz.U. 99, poz. 1001, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 104.** Pracownicy Paƒstwowej Inspekcji Pracy zachowujà uprawnienia pracownicze oraz prawo do wykonywania lub nadzorowania czynnoÊci kontrolnych wynikajàce z aktów, na podstawie których powsta∏ ich stosunek pracy lub na podstawie których przys∏ugiwa∏o im prawo do wykonywania lub nadzorowania czynnoÊci kontrolnych, przed dniem wejÊcia w ˝ycie niniejszej ustawy.
+#### Rozdział 8 Przepisy przejściowe i końcowe
 
-**Art. 105.** Paƒstwowa Inspekcja Pracy dzia∏ajàca na podstawie niniejszej ustawy przejmuje uprawnienia i obowiàzki Paƒstwowej Inspekcji Pracy dzia∏ajàcej na podstawie ustawy, o której mowa w art. 115.
+**Art. 104.** Pracownicy Państwowej Inspekcji Pracy zachowują uprawnienia pracownicze oraz prawo do wykonywania lub nadzorowania czynności kontrolnych wynikające z aktów, na podstawie których powstał ich stosunek pracy lub na podstawie których przysługiwało im prawo do wykonywania lub nadzorowania czynności kontrolnych, przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 106.** OÊrodek dzia∏ajàcy na podstawie niniejszej ustawy przejmuje uprawnienia iobowiàzki OÊrodka Szkolenia Paƒstwowej Inspekcji Pracy dzia∏ajàcego na podstawie ustawy, o której mowa w art. 115. ).”.
+**Art. 105.** Państwowa Inspekcja Pracy działająca na podstawie niniejszej ustawy przejmuje uprawnienia i obowiązki Państwowej Inspekcji Pracy działającej na podstawie ustawy, o której mowa w art. 115.
+
+**Art. 106.** Ośrodek działający na podstawie niniejszej ustawy przejmuje uprawnienia iobowiązki Ośrodka Szkolenia Państwowej Inspekcji Pracy działającego na podstawie ustawy, o której mowa w art. 115. ).”.
 
 **Art. 107.**
 
-1. Z dniem wejÊcia w ˝ycie ustawy pracownicy urz´dów wojewódzkich wykonujàcy kontrol´ legalnoÊci zatrudnienia na podstawie ustawy wymienionej w art. 103, posiadajàcy wykszta∏cenie wy˝sze, stajà si´ pracownikami Paƒstwowej Inspekcji Pracy.
+1. Z dniem wejścia w życie ustawy pracownicy urzędów wojewódzkich wykonujący kontrolę legalności zatrudnienia na podstawie ustawy wymienionej w art. 103, posiadający wykształcenie wyższe, stają się pracownikami Państwowej Inspekcji Pracy.
 
-2. Dotychczasowy pracodawca jest obowiàzany w terminie 7 dni od dnia og∏oszenia niniejszej ustawy zawiadomiç na piÊmie pracowników, o których mowa wust. 1, ozmianach, jakie majà nastàpiç wich stosunkach pracy. Przepis art. 23 § 4 Kodeksu pracy stosuje si´ odpowiednio.
+2. Dotychczasowy pracodawca jest obowiązany w terminie 7 dni od dnia ogłoszenia niniejszej ustawy zawiadomić na piśmie pracowników, o których mowa wust. 1, ozmianach, jakie mają nastąpić wich stosunkach pracy. Przepis art. 23 § 4 Kodeksu pracy stosuje się odpowiednio.
 
-3. Do pracowników, o których mowa w ust. 1, nie stosuje si´ wymagaƒ wynikajàcych zart. 39 pkt 4 wzakresie wykszta∏cenia.
+3. Do pracowników, o których mowa w ust. 1, nie stosuje się wymagań wynikających zart. 39 pkt 4 wzakresie wykształcenia.
 
-4. Pracownicy, októrych mowa wust. 1, przed dopuszczeniem do wykonywania czynnoÊci kontrolnych obowiàzani sà odbyç, w okresie dwóch lat od dnia wejÊcia ustawy w ˝ycie, szkolenie z zagadnieƒ wchodzàcych w zakres dzia∏ania Paƒstwowej Inspekcji Pracy zakoƒczone egzaminem paƒstwowym, o którym mowa wart. 39 pkt 4. Koszty szkolenia ponosi G∏ówny Inspektor Pracy.
+4. Pracownicy, októrych mowa wust. 1, przed dopuszczeniem do wykonywania czynności kontrolnych obowiązani są odbyć, w okresie dwóch lat od dnia wejścia ustawy w życie, szkolenie z zagadnień wchodzących w zakres działania Państwowej Inspekcji Pracy zakończone egzaminem państwowym, o którym mowa wart. 39 pkt 4. Koszty szkolenia ponosi Główny Inspektor Pracy.
 
-5. Stosunek pracy z pracownikiem, o którym mowa w ust. 1 wygasa w przypadku, gdy nie spe∏ni on warunku przewidzianego w ust. 4.
+5. Stosunek pracy z pracownikiem, o którym mowa w ust. 1 wygasa w przypadku, gdy nie spełni on warunku przewidzianego w ust. 4.
 
 **Art. 108.**
 
-1. Dotychczasowy pracodawca, w terminie do dnia 1 czerwca 2007 r., przeka˝e imienne wykazy pracowników, o których mowa w art. 107 ust. 1 G∏ównemu Inspektorowi Pracy. ——————— 2. Minister w∏aÊciwy do spraw administracji publicznej okreÊli, wdrodze rozporzàdzenia, sposób itryb post´powania w sprawach pracowników, o których mowa w art. 107 ust. 1, kierujàc si´ koniecznoÊcià zapewnienia sprawnego i efektywnego wykonywania przekazanych zadaƒ.
+1. Dotychczasowy pracodawca, w terminie do dnia 1 czerwca 2007 r., przekaże imienne wykazy pracowników, o których mowa w art. 107 ust. 1 Głównemu Inspektorowi Pracy. ——————— 2. Minister właściwy do spraw administracji publicznej określi, wdrodze rozporządzenia, sposób itryb postępowania w sprawach pracowników, o których mowa w art. 107 ust. 1, kierując się koniecznością zapewnienia sprawnego i efektywnego wykonywania przekazanych zadań.
 
 **Art. 109.**
 
-1. W toczàcych si´ post´powaniach w sprawach o wykroczenia, o których mowa wart.119—123 ustawy wymienionej wart. 103, wktórych oskar˝ycielem publicznym by∏ inspektor w∏aÊciwego urz´du wojewódzkiego z dniem wejÊcia w ˝ycie ustawy oskar˝ycielem publicznym staje si´ w∏aÊciwy inspektor pracy.
+1. W toczących się postępowaniach w sprawach o wykroczenia, o których mowa wart.119—123 ustawy wymienionej wart. 103, wktórych oskarżycielem publicznym był inspektor właściwego urzędu wojewódzkiego z dniem wejścia w życie ustawy oskarżycielem publicznym staje się właściwy inspektor pracy.
 
-2. Niezakoƒczone post´powania administracyjne toczà si´ nadal przed w∏aÊciwymi okr´gowymi inspektorami pracy.
+2. Niezakończone postępowania administracyjne toczą się nadal przed właściwymi okręgowymi inspektorami pracy.
 
-3. Minister w∏aÊciwy do spraw administracji publicznej okreÊli, w drodze rozporzàdzenia, sposób i tryb przej´cia toczàcych si´ post´powaƒ sàdowych i administracyjnych, w szczególnoÊci sposób przekazania dokumentacji dotyczàcej tych post´powaƒ, kierujàc si´ koniecznoÊcià zapewnienia sprawnego iefektywnego prowadzenia przej´tych post´powaƒ przez w∏aÊciwego okr´gowego inspektora pracy.
+3. Minister właściwy do spraw administracji publicznej określi, w drodze rozporządzenia, sposób i tryb przejęcia toczących się postępowań sądowych i administracyjnych, w szczególności sposób przekazania dokumentacji dotyczącej tych postępowań, kierując się koniecznością zapewnienia sprawnego iefektywnego prowadzenia przejętych postępowań przez właściwego okręgowego inspektora pracy.
 
-**Art. 110.** Kadencja Rady Ochrony Pracy, powo∏anej w trybie okreÊlonym w ustawie, o której mowa w art. 115, trwa do jej zakoƒczenia po dniu wejÊcia w ˝ycie niniejszej ustawy.
+**Art. 110.** Kadencja Rady Ochrony Pracy, powołanej w trybie określonym w ustawie, o której mowa w art. 115, trwa do jej zakończenia po dniu wejścia w życie niniejszej ustawy.
 
-**Art. 111.** Rzeczoznawcy do spraw bezpieczeƒstwa w˝ycie niniejszej ustawy, stosuje si´ przepisy dotychczasowe.
+**Art. 111.** Rzeczoznawcy do spraw bezpieczeństwa wżycie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 113.** Do post´powaƒ dyscyplinarnych wszcz´tych wobec pracowników Paƒstwowej Inspekcji Pracy przed dniem wejÊcia w˝ycie niniejszej ustawy stosuje si´ przepisy dotychczasowe, jednak˝e nale˝y stosowaç nowe przepisy, je˝eli sà wzgl´dniejsze dla sprawcy.
+**Art. 113.** Do postępowań dyscyplinarnych wszczętych wobec pracowników Państwowej Inspekcji Pracy przed dniem wejścia wżycie niniejszej ustawy stosuje się przepisy dotychczasowe, jednakże należy stosować nowe przepisy, jeżeli są względniejsze dla sprawcy.
 
-**Art. 114.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 1 pkt 1 i2, art. 8 ust.4, art. 8a ust. 5, art. 12 i art. 21f ustawy, o której mowa w art. 115, zachowujà moc do czasu wejÊcia w ˝ycie nowych przepisów wykonawczych wydanych na podstawie art. 6 ust. 1 pkt 1 i2, art. 9 ust. 9, art. 16 iart. 32 niniejszej ustawy, nie d∏u˝ej jednak ni˝ przez okres 6miesi´cy od dnia jej wejÊcia w ˝ycie.
+**Art. 114.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 5 ust. 1 pkt 1 i2, art. 8 ust.4, art. 8a ust. 5, art. 12 i art. 21f ustawy, o której mowa w art. 115, zachowują moc do czasu wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 6 ust. 1 pkt 1 i2, art. 9 ust. 9, art. 16 iart. 32 niniejszej ustawy, nie dłużej jednak niż przez okres 6miesięcy od dnia jej wejścia w życie.
 
-**Art. 115.** Traci moc ustawa z dnia 6 marca 1981 r. o Paƒstwowej Inspekcji Pracy (Dz. U. z 2001 r. 124, poz. 1362, 128, poz. 1405 i 154, poz. 1800, z 2002r. 166, poz. 1360, z 2003 r. 170, poz. 1652 ihigieny pracy, którym uprawnienia nada∏ G∏ówny Inspektor Pracy wtrybie okreÊlonym wustawie, októrej mowa w art. 115, zachowujà te uprawnienia po dniu wejÊcia w ˝ycie niniejszej ustawy.
+**Art. 115.** Traci moc ustawa z dnia 6 marca 1981 r. o Państwowej Inspekcji Pracy (Dz. U. z 2001 r. 124, poz. 1362, 128, poz. 1405 i 154, poz. 1800, z 2002r. 166, poz. 1360, z 2003 r. 170, poz. 1652 ihigieny pracy, którym uprawnienia nadał Główny Inspektor Pracy wtrybie określonym wustawie, októrej mowa w art. 115, zachowują te uprawnienia po dniu wejścia w życie niniejszej ustawy.
 
-**Art. 112.** Do egzekucji wszcz´tych na podstawie ustawy, októrej mowa wart. 94, przed dniem wejÊcia iNr 213, poz. 2081, z2004 r. 173, poz. 1808, z2005r. 64, poz. 564, 110, poz. 926 i 167, poz. 1399).
+**Art. 112.** Do egzekucji wszczętych na podstawie ustawy, októrej mowa wart. 94, przed dniem wejścia iNr 213, poz. 2081, z2004 r. 173, poz. 1808, z2005r. 64, poz. 564, 110, poz. 926 i 167, poz. 1399).
 
-**Art. 116.** Ustawa wchodzi w ˝ycie z dniem 1 lipca 2007 r., z wyjàtkiem art. 108, który wchodzi w ˝ycie z dniem 1 czerwca 2007 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 590 USTAWA z dnia 26 kwietnia 2007 r. o zarzàdzaniu kryzysowym
+**Art. 116.** Ustawa wchodzi w życie z dniem 1 lipca 2007 r., z wyjątkiem art. 108, który wchodzi w życie z dniem 1 czerwca 2007 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 590 USTAWA z dnia 26 kwietnia 2007 r. o zarządzaniu kryzysowym
 
-**Art. 1.** Ustawa okreÊla organy w∏aÊciwe w spra- Art. 3. Ilekroç w ustawie jest mowa o: wach zarzàdzania kryzysowego oraz ich zadania i zasady dzia∏ania wtej dziedzinie, atak˝e zasady finanso- 1) sytuacji kryzysowej nale˝y przez to rozumieç sywania zadaƒ zarzàdzania kryzysowego. tuacj´ b´dàcà nast´pstwem zagro˝enia i prowadzàcà w konsekwencji do zerwania lub znacznego
+**Art. 1.** Ustawa określa organy właściwe w spra- Art. 3. Ilekroć w ustawie jest mowa o: wach zarządzania kryzysowego oraz ich zadania i zasady działania wtej dziedzinie, atakże zasady finanso- 1) sytuacji kryzysowej należy przez to rozumieć sywania zadań zarządzania kryzysowego. tuację będącą następstwem zagrożenia i prowadzącą w konsekwencji do zerwania lub znacznego
 
-**Art. 2.** Zarzàdzanie kryzysowe to dzia∏alnoÊç orga- naruszenia wi´zów spo∏ecznych przy równoczesnów administracji publicznej b´dàca elementem kie- nym powa˝nym zak∏óceniu w funkcjonowaniu inrowania bezpieczeƒstwem narodowym, która polega stytucji publicznych, jednak w takim stopniu, ˝e u˝yte Êrodki niezb´dne do zapewnienia lub przyna zapobieganiu sytuacjom kryzysowym, przygotowa- wrócenia bezpieczeƒstwa nie uzasadniajà wproniu do przejmowania nad nimi kontroli w drodze za- wadzenia ˝adnego ze stanów nadzwyczajnych, planowanych dzia∏aƒ, reagowaniu w przypadku wy- o których mowa w art. 228 ust. 1 Konstytucji stàpienia sytuacji kryzysowych oraz na odtwarzaniu Rzeczypospolitej Polskiej; infrastruktury lub przywróceniu jej pierwotnego charakteru. 2) infrastrukturze krytycznej nale˝y przez to rozumieç systemy oraz wchodzàce w ich sk∏ad powià——————— zane ze sobà funkcjonalnie obiekty, wtym obiekty budowlane, urzàdzenia, instalacje, us∏ugi kluczowe dla bezpieczeƒstwa paƒstwa i jego obywateli oraz s∏u˝àce zapewnieniu sprawnego funkcjonowania organów administracji publicznej, a tak˝e instytucji iprzedsi´biorców. Infrastruktura krytyczna obejmuje systemy:
+**Art. 2.** Zarządzanie kryzysowe to działalność orga- naruszenia więzów społecznych przy równoczesnów administracji publicznej będąca elementem kie- nym poważnym zakłóceniu w funkcjonowaniu inrowania bezpieczeństwem narodowym, która polega stytucji publicznych, jednak w takim stopniu, że użyte środki niezbędne do zapewnienia lub przyna zapobieganiu sytuacjom kryzysowym, przygotowa- wrócenia bezpieczeństwa nie uzasadniają wproniu do przejmowania nad nimi kontroli w drodze za- wadzenia żadnego ze stanów nadzwyczajnych, planowanych działań, reagowaniu w przypadku wy- o których mowa w art. 228 ust. 1 Konstytucji stąpienia sytuacji kryzysowych oraz na odtwarzaniu Rzeczypospolitej Polskiej; infrastruktury lub przywróceniu jej pierwotnego charakteru. 2) infrastrukturze krytycznej należy przez to rozumieć systemy oraz wchodzące w ich skład powią——————— zane ze sobą funkcjonalnie obiekty, wtym obiekty budowlane, urządzenia, instalacje, usługi kluczowe dla bezpieczeństwa państwa i jego obywateli oraz służące zapewnieniu sprawnego funkcjonowania organów administracji publicznej, a także instytucji iprzedsiębiorców. Infrastruktura krytyczna obejmuje systemy:
 

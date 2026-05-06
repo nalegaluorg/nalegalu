@@ -24,1354 +24,1354 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090180097) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/97/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z2007 155, 1095, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z2007 155, 1095, z póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 24.**
 
-1. Przekazywanie danych informacji do CEIDG przekazywanie i udost´pnianie danych informacji zCEIDG odbywa si´ za poÊrednictwem elektronicznej platformy us∏ug administracji publicznej.
+1. Przekazywanie danych informacji do CEIDG przekazywanie i udostępnianie danych informacji zCEIDG odbywa się za pośrednictwem elektronicznej platformy usług administracji publicznej.
 
-2. Wnioski o wpis do CEIDG, informacje iinne dane przekazywane sà do CEIDG za poÊrednictwem formularzy elektronicznych zamieszczonych na stronie internetowej CEIDG, w Biuletynie Informacji Publicznej ministra w∏aÊciwego do spraw gospodarki na elektronicznej platformie us∏ug administracji publicznej.
+2. Wnioski o wpis do CEIDG, informacje iinne dane przekazywane są do CEIDG za pośrednictwem formularzy elektronicznych zamieszczonych na stronie internetowej CEIDG, w Biuletynie Informacji Publicznej ministra właściwego do spraw gospodarki na elektronicznej platformie usług administracji publicznej.
 
-3. Wzory wniosków, o których mowa wust. 2, zamieszcza si´ na elektronicznej platformie us∏ug administracji publicznej.
+3. Wzory wniosków, o których mowa wust. 2, zamieszcza się na elektronicznej platformie usług administracji publicznej.
 
 **Art. 25.**
 
-1. Wpisowi do CEIDG podlegajà:
+1. Wpisowi do CEIDG podlegają:
 
-- **1)** firma przedsi´biorcy jego numer PESEL, oile taki posiada;
-- **2)** numer identyfikacyjny REGON przedsi´biorcy, oile taki posiada;
+- **1)** firma przedsiębiorcy jego numer PESEL, oile taki posiada;
+- **2)** numer identyfikacyjny REGON przedsiębiorcy, oile taki posiada;
 - **3)** numer identyfikacji podatkowej (NIP), oile taki posiada;
-- **4)** informacja oobywatelstwie polskim przedsi´biorcy, o ile takie posiada, i innych obywatelstwach przedsi´biorcy;
-- **5)** oznaczenie miejsca zamieszkania cza, aje˝eli przedsi´biorca wykonuje dzia∏alnoÊç poza miejscem zamieszkania adres g∏ównego miejsca wykonywania dzia∏alnoÊci i oddzia∏u, je˝eli zosta∏ utworzony; dane te sà zgodne zoznaczeniami kodowymi przyj´tymi w krajowym rejestrze urz´dowym podzia∏u terytorialnego kraju;
-- **6)** adres poczty elektronicznej przedsi´biorcy jego strony internetowej, oile takie posiada;
-- **7)** data rozpocz´cia wykonywania dzia∏alnoÊci gospodarczej;
-- **8)** okreÊlenie przedmiotów wykonywanej dzia∏alnoÊci gospodarczej, zgodnie z Polskà Klasyfikacjà Dzia∏alnoÊci (PKD);
-- **9)** informacje o istnieniu lub ustaniu ma∏˝eƒskiej wspólnoÊci majàtkowej;
-- **10)** informacje o umowie spó∏ki cywilnej, je˝eli taka zosta∏a zawarta;
-- **11)** dane pe∏nomocnika upowa˝nionego do prowadzenia spraw przedsi´biorcy, o ile przedsi´biorca udzieli∏ ogólnego pe∏nomocnictwa;
-- **12)** informacja o zawieszeniu i wznowieniu wykonywania dzia∏alnoÊci gospodarczej;
-- **13)** informacja o ograniczeniu lub utracie zdolnoÊci do czynnoÊci prawnych oustanowieniu kuratora;
-- **14)** informacja o og∏oszeniu upad∏oÊci z mo˝liwoÊcià zawarcia uk∏adu, oog∏oszeniu upad∏oÊci obejmujàcej likwidacj´ majàtku d∏u˝nika, zmianie postanowienia o og∏oszeniu upad∏oÊci z mo˝liwoÊcià zawarcia uk∏adu na postanowienie oog∏oszeniu upad∏oÊci obejmujàcej likwidacj´ majàtku d∏u˝nika i zakoƒczeniu tego post´powania;
-- **15)** informacja o wszcz´ciu post´powania naprawczego;
-- **16)** informacja o zakazie prowadzenia dzia∏alnoÊci gospodarczej okreÊlonej we wpisie do CEIDG.
+- **4)** informacja oobywatelstwie polskim przedsiębiorcy, o ile takie posiada, i innych obywatelstwach przedsiębiorcy;
+- **5)** oznaczenie miejsca zamieszkania cza, ajeżeli przedsiębiorca wykonuje działalność poza miejscem zamieszkania adres głównego miejsca wykonywania działalności i oddziału, jeżeli został utworzony; dane te są zgodne zoznaczeniami kodowymi przyjętymi w krajowym rejestrze urzędowym podziału terytorialnego kraju;
+- **6)** adres poczty elektronicznej przedsiębiorcy jego strony internetowej, oile takie posiada;
+- **7)** data rozpoczęcia wykonywania działalności gospodarczej;
+- **8)** określenie przedmiotów wykonywanej działalności gospodarczej, zgodnie z Polską Klasyfikacją Działalności (PKD);
+- **9)** informacje o istnieniu lub ustaniu małżeńskiej wspólności majątkowej;
+- **10)** informacje o umowie spółki cywilnej, jeżeli taka została zawarta;
+- **11)** dane pełnomocnika upoważnionego do prowadzenia spraw przedsiębiorcy, o ile przedsiębiorca udzielił ogólnego pełnomocnictwa;
+- **12)** informacja o zawieszeniu i wznowieniu wykonywania działalności gospodarczej;
+- **13)** informacja o ograniczeniu lub utracie zdolności do czynności prawnych oustanowieniu kuratora;
+- **14)** informacja o ogłoszeniu upadłości z możliwością zawarcia układu, oogłoszeniu upadłości obejmującej likwidację majątku dłużnika, zmianie postanowienia o ogłoszeniu upadłości z możliwością zawarcia układu na postanowienie oogłoszeniu upadłości obejmującej likwidację majątku dłużnika i zakończeniu tego postępowania;
+- **15)** informacja o wszczęciu postępowania naprawczego;
+- **16)** informacja o zakazie prowadzenia działalności gospodarczej określonej we wpisie do CEIDG.
 
-2. Dane, o których mowa w ust. 1 pkt 11, obejmujà imi´ i nazwisko odpowiednie dane okreÊlone w ust. 1 pkt 1 i3—6.
+2. Dane, o których mowa w ust. 1 pkt 11, obejmują imię i nazwisko odpowiednie dane określone w ust. 1 pkt 1 i3—6.
 
-3. Wpis do CEIDG polega na wprowadzeniu do systemu teleinformatycznego danych podlegajàcych wpisowi. Wpis jest dokonany z chwilà zamieszczenia danych wCEIDG, nie póêniej ni˝ nast´pnego dnia roboczego po dniu wp∏ywu wniosku o wpis do CEIDG lub wnios4. Wpis do CEIDG jest dokonywany na wniosek, chyba ˝e przepis szczególny przewiduje wpis z urz´du. Wpisem do CEIDG jest równie˝ wykreÊlenie albo zmiana wpisu.
+3. Wpis do CEIDG polega na wprowadzeniu do systemu teleinformatycznego danych podlegających wpisowi. Wpis jest dokonany z chwilą zamieszczenia danych wCEIDG, nie póêniej niż następnego dnia roboczego po dniu wpływu wniosku o wpis do CEIDG lub wnios4. Wpis do CEIDG jest dokonywany na wniosek, chyba że przepis szczególny przewiduje wpis z urzędu. Wpisem do CEIDG jest również wykreślenie albo zmiana wpisu.
 
-5. Integralnà cz´Êcià wniosku o wpis do CEIDG jest ˝àdanie:
+5. Integralną częścią wniosku o wpis do CEIDG jest żądanie:
 
-- **1)** wpisu albo zmiany wpisu do krajowego rejestru urz´dowego podmiotów gospodarki narodowej (REGON);
-- **2)** zg∏oszenia identyfikacyjnego albo aktualizacyjnego, o którym mowa w przepisach o zasadach ewidencji i identyfikacji podatników i p∏atników;
-- **3)** zg∏oszenia p∏atnika sk∏adek albo jego zmiany w rozumieniu przepisów o systemie ubezpieczeƒ spo∏ecznych albo zg∏oszenia oÊwiadczenia o kontynuowaniu ubezpieczenia spo∏ecznego rolników w rozumieniu przepisów oubezpieczeniu spo∏ecznym rolników.
+- **1)** wpisu albo zmiany wpisu do krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON);
+- **2)** zgłoszenia identyfikacyjnego albo aktualizacyjnego, o którym mowa w przepisach o zasadach ewidencji i identyfikacji podatników i płatników;
+- **3)** zgłoszenia płatnika składek albo jego zmiany w rozumieniu przepisów o systemie ubezpieczeń społecznych albo zgłoszenia oświadczenia o kontynuowaniu ubezpieczenia społecznego rolników w rozumieniu przepisów oubezpieczeniu społecznym rolników.
 
-6. Rada Ministrów okreÊli, wdrodze rozporzàdzenia, wzór, w tym elektroniczny, wniosku owpis do CEIDG b´dàcego jednoczeÊnie, dla osób fizycznych wykonujàcych dzia∏alnoÊç gospodarczà, wnioskiem o wpis lub zmian´ wpisu w krajowym rejestrze urz´dowym podmiotów gospodarki narodowej (REGON), zg∏oszeniem identyfikacyjnym albo aktualizacyjnym, októrym mowa wprzepisach o zasadach ewidencji i identyfikacji podatników i p∏atników, zg∏oszeniem p∏atnika sk∏adek albo ich zmiany wrozumieniu przepisów o systemie ubezpieczeƒ spo∏ecznych albo zg∏oszeniem oÊwiadczenia o kontynuowaniu ubezpieczenia spo∏ecznego rolników w rozumieniu przepisów o ubezpieczeniu spo∏ecznym rolników, uwzgl´dniajàc:
+6. Rada Ministrów określi, wdrodze rozporządzenia, wzór, w tym elektroniczny, wniosku owpis do CEIDG będącego jednocześnie, dla osób fizycznych wykonujących działalność gospodarczą, wnioskiem o wpis lub zmianę wpisu w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON), zgłoszeniem identyfikacyjnym albo aktualizacyjnym, októrym mowa wprzepisach o zasadach ewidencji i identyfikacji podatników i płatników, zgłoszeniem płatnika składek albo ich zmiany wrozumieniu przepisów o systemie ubezpieczeń społecznych albo zgłoszeniem oświadczenia o kontynuowaniu ubezpieczenia społecznego rolników w rozumieniu przepisów o ubezpieczeniu społecznym rolników, uwzględniając:
 
-- **1)** zakres danych podlegajàcych wpisowi do CEIDG iinnych rejestrów urz´dowych;
-- **2)** warunki powszechnej dost´pnoÊci formularzy;
+- **1)** zakres danych podlegających wpisowi do CEIDG iinnych rejestrów urzędowych;
+- **2)** warunki powszechnej dostępności formularzy;
 - **3)** prowadzenie CEIDG wsystemie teleinformatycznym;
-- **4)** zakres danych niezb´dnych dla uzyskania albo zmiany wpisu do krajowego rejestru urz´dowego podmiotów gospodarki narodowej (REGON), zg∏oszenia identyfikacyjnego albo aktualizacyjnego, o którym mowa w przepisach o zasadach ewidencji i identyfikacji podatników i p∏atników, zg∏oszenia p∏atnika sk∏adek albo tynuowaniu ubezpieczenia spo∏ecznego rolników w rozumieniu przepisów oubezpieczeniu spo∏ecznym rolników.
+- **4)** zakres danych niezbędnych dla uzyskania albo zmiany wpisu do krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), zgłoszenia identyfikacyjnego albo aktualizacyjnego, o którym mowa w przepisach o zasadach ewidencji i identyfikacji podatników i płatników, zgłoszenia płatnika składek albo tynuowaniu ubezpieczenia społecznego rolników w rozumieniu przepisów oubezpieczeniu społecznym rolników.
 
 **Art. 26.**
 
-1. Osoba fizyczna sk∏ada wniosek o wpis do CEIDG za poÊrednictwem formularza elektronicznego dost´pnego na stronie internetowej CEIDG wBiuletynie Informacji Publicznej ministra w∏aÊciwego do spraw gospodarki. System teleinformatyczny CEIDG przesy∏a wnioskodawcy na wskazany adres poczty elektronicznej potwierdzenie z∏o˝enia wniosku.
+1. Osoba fizyczna składa wniosek o wpis do CEIDG za pośrednictwem formularza elektronicznego dostępnego na stronie internetowej CEIDG wBiuletynie Informacji Publicznej ministra właściwego do spraw gospodarki. System teleinformatyczny CEIDG przesyła wnioskodawcy na wskazany adres poczty elektronicznej potwierdzenie złożenia wniosku.
 
-2. Wniosek o wpis do CEIDG mo˝e byç równie˝ z∏o˝ony na formularzu zgodnym z okreÊlonym wzorem wniosku, októrym mowa wart. 25 ust. 6, wwybranym przez przedsi´biorc´ urz´dzie gminy:
+2. Wniosek o wpis do CEIDG może być również złożony na formularzu zgodnym z określonym wzorem wniosku, októrym mowa wart. 25 ust. 6, wwybranym przez przedsiębiorcę urzędzie gminy:
 
-- **1)** osobiÊcie albo
-- **2)** wys∏any listem poleconym.
+- **1)** osobiście albo
+- **2)** wysłany listem poleconym.
 
-3. Organ gminy weryfikuje treÊç wniosku, o którym mowa w ust. 2, pod wzgl´dem formalnym i potwierdza wnioskodawcy, za pokwitowaniem, przyj´cie wniosku.
+3. Organ gminy weryfikuje treść wniosku, o którym mowa w ust. 2, pod względem formalnym i potwierdza wnioskodawcy, za pokwitowaniem, przyjęcie wniosku.
 
-4. Organ gminy przekszta∏ca wniosek na form´ elektronicznà i przesy∏a do CEIDG nie póêniej ni˝ nast´pnego dnia roboczego od jego otrzymania.
+4. Organ gminy przekształca wniosek na formę elektroniczną i przesyła do CEIDG nie póêniej niż następnego dnia roboczego od jego otrzymania.
 
-5. Wniosek wwersji papierowej ielektronicznej dokumentacja znim zwiàzana podlega archiwizacji przez okres 10 lat od dokonania wpisu. Archiwizacji dokonujà, odpowiednio, organy gmin i minister w∏aÊciwy do spraw gospodarki. Do wniosku i dokumentacji nie stosuje si´ przepisów onarodowym zasobie archiwalnym i archiwach.
+5. Wniosek wwersji papierowej ielektronicznej dokumentacja znim związana podlega archiwizacji przez okres 10 lat od dokonania wpisu. Archiwizacji dokonują, odpowiednio, organy gmin i minister właściwy do spraw gospodarki. Do wniosku i dokumentacji nie stosuje się przepisów onarodowym zasobie archiwalnym i archiwach.
 
-6. Przyjmowanie, przesy∏anie iniszczenie przez gminy wniosków o wpis do CEIDG jest zadaniem zleconym z zakresu administracji rzàdowej.
+6. Przyjmowanie, przesyłanie iniszczenie przez gminy wniosków o wpis do CEIDG jest zadaniem zleconym z zakresu administracji rządowej.
 
-7. Osoby, o których mowa w art. 13 ust. 2, wraz z wnioskiem przedk∏adajà dane dokumentu potwierdzajàcego status, o którym mowa w tym przepisie, wszczególnoÊci dat´ wydania isygnatur´ dokumentu wskazanie organu, który go wyda∏, albo przedk∏adajà wurz´dzie gminy do wglàdu orygina∏ dokumentu.
+7. Osoby, o których mowa w art. 13 ust. 2, wraz z wnioskiem przedkładają dane dokumentu potwierdzającego status, o którym mowa w tym przepisie, wszczególności datę wydania isygnaturę dokumentu wskazanie organu, który go wydał, albo przedkładają wurzędzie gminy do wglądu oryginał dokumentu.
 
 **Art. 27.**
 
-1. Wpis do CEIDG jest dokonywany je˝eli wniosek jest z∏o˝ony przez osob´ uprawnionà ijest poprawny.
+1. Wpis do CEIDG jest dokonywany jeżeli wniosek jest złożony przez osobę uprawnioną ijest poprawny.
 
-- **2)** zawierajàcy dane b∏´dne, lub
-- **3)** dotyczàcy dzia∏alnoÊci nieobj´tej przepisami ustawy, lub
-- **4)** z∏o˝ony przez osob´, wobec której orzeczono zakaz wykonywania okreÊlonej we wniosku dzia∏alnoÊci gospodarczej, lub
-- **5)** z∏o˝ony przez osob´ ju˝ wpisanà do CEIDG, lub
+- **2)** zawierający dane błędne, lub
+- **3)** dotyczący działalności nieobjętej przepisami ustawy, lub
+- **4)** złożony przez osobę, wobec której orzeczono zakaz wykonywania określonej we wniosku działalności gospodarczej, lub
+- **5)** złożony przez osobę już wpisaną do CEIDG, lub
 - **6)** niepodpisany.
 
-3. Je˝eli wniosek z∏o˝ony wsposób okreÊlony wart. 26 ust. 1 jest niepoprawny, jego z∏o˝enie nie wszczyna post´powania administracyjnego o wpis do CEIDG, a system teleinformatyczny CEIDG przesy∏a sk∏adajàcemu, drogà elektronicznà, informacj´ o przyczynach niepoprawnoÊci wniosku.
+3. Jeżeli wniosek złożony wsposób określony wart. 26 ust. 1 jest niepoprawny, jego złożenie nie wszczyna postępowania administracyjnego o wpis do CEIDG, a system teleinformatyczny CEIDG przesyła składającemu, drogą elektroniczną, informację o przyczynach niepoprawności wniosku.
 
-4. Gdy wniosek z∏o˝ony wsposób okreÊlony wart. 26 ust. 2 jest niepoprawny, wójt, burmistrz albo prezydent miasta niezw∏ocznie wzywa do skorygowania lub uzupe∏nienia wniosku wskazujàc uchybienia wterminie 7 dni roboczych pod rygorem pozostawienia wniosku bez rozpoznania.
+4. Gdy wniosek złożony wsposób określony wart. 26 ust. 2 jest niepoprawny, wójt, burmistrz albo prezydent miasta niezwłocznie wzywa do skorygowania lub uzupełnienia wniosku wskazując uchybienia wterminie 7 dni roboczych pod rygorem pozostawienia wniosku bez rozpoznania.
 
-5. W celu weryfikacji poprawnoÊci formalnej wniosku CEIDG korzysta z informacji zawartych w rejestrach publicznych dost´pnych w formie elektronicznej.
+5. W celu weryfikacji poprawności formalnej wniosku CEIDG korzysta z informacji zawartych w rejestrach publicznych dostępnych w formie elektronicznej.
 
-6. W przypadku gdy przedsi´biorca nie posiada numeru PESEL, okazuje upowa˝nionemu pracownikowi urz´du gminy paszport albo inny dokument potwierdzajàcy jego to˝samoÊç i obywatelstwo.
+6. W przypadku gdy przedsiębiorca nie posiada numeru PESEL, okazuje upoważnionemu pracownikowi urzędu gminy paszport albo inny dokument potwierdzający jego tożsamość i obywatelstwo.
 
-7. Wniosek o wpis do CEIDG sk∏adany w sposób okreÊlony w art. 26 ust. 1 opatrzony jest bezpiecznym podpisem elektronicznym, weryfikowanym za pomocà wa˝nego kwalifikowanego certyfikatu, przy zachowaniu zasad przewidzianych w przepisach o podpisie elektronicznym.
+7. Wniosek o wpis do CEIDG składany w sposób określony w art. 26 ust. 1 opatrzony jest bezpiecznym podpisem elektronicznym, weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu, przy zachowaniu zasad przewidzianych w przepisach o podpisie elektronicznym.
 
-8. Wniosek o wpis do CEIDG sk∏adany w sposób okreÊlony w art. 26 ust. 2 pkt 1 opatrzony jest w∏asnor´cznym podpisem wnioskodawcy.
+8. Wniosek o wpis do CEIDG składany w sposób określony w art. 26 ust. 2 pkt 1 opatrzony jest własnoręcznym podpisem wnioskodawcy.
 
-9. Wniosek o wpis do CEIDG sk∏adany w sposób okreÊlony w art. 26 ust. 2 pkt 2 opatrzony jest w∏asnor´cznym podpisem wnioskodawcy, którego w∏asnor´cznoÊç poÊwiadczona jest przez notariusza.
+9. Wniosek o wpis do CEIDG składany w sposób określony w art. 26 ust. 2 pkt 2 opatrzony jest własnoręcznym podpisem wnioskodawcy, którego własnoręczność poświadczona jest przez notariusza.
 
 **Art. 28.**
 
-1. CEIDG przesy∏a odpowiednie dane zawarte we wniosku o wpis do CEIDG niezb´dne dla uzyskania albo zmiany nego, o którym mowa w przepisach ozasadach ewidencji iidentyfikacji podatników ip∏atników, zg∏oszenia p∏atnika sk∏adek albo ich zmiany w rozumieniu przepisów o systemie ubezpieczeƒ spo∏ecznych albo zg∏oszenia oÊwiadczenia okontynuowaniu ubezpieczenia spo∏ecznego rolników w rozumieniu przepisów oubezpieczeniu spo∏ecznym rolników, za poÊrednictwem elektronicznej platformy us∏ug administracji publicznej, niezw∏ocznie, nie póêniej ni˝ nast´pnego dnia roboczego po dokonaniu wpisu, odpowiednio do:
+1. CEIDG przesyła odpowiednie dane zawarte we wniosku o wpis do CEIDG niezbędne dla uzyskania albo zmiany nego, o którym mowa w przepisach ozasadach ewidencji iidentyfikacji podatników ipłatników, zgłoszenia płatnika składek albo ich zmiany w rozumieniu przepisów o systemie ubezpieczeń społecznych albo zgłoszenia oświadczenia okontynuowaniu ubezpieczenia społecznego rolników w rozumieniu przepisów oubezpieczeniu społecznym rolników, za pośrednictwem elektronicznej platformy usług administracji publicznej, niezwłocznie, nie póêniej niż następnego dnia roboczego po dokonaniu wpisu, odpowiednio do:
 
-- **1)** w∏aÊciwego naczelnika urz´du skarbowego wskazanego przez przedsi´biorc´,
-- **2)** G∏ównego Urz´du Statystycznego,
-- **3)** Zak∏adu Ubezpieczeƒ Spo∏ecznych albo Centrali Kasy Rolniczego Ubezpieczenia Spo∏ecznego wraz z informacjà o dokonaniu wpisu do CEIDG.
+- **1)** właściwego naczelnika urzędu skarbowego wskazanego przez przedsiębiorcę,
+- **2)** Głównego Urzędu Statystycznego,
+- **3)** Zakładu Ubezpieczeń Społecznych albo Centrali Kasy Rolniczego Ubezpieczenia Społecznego wraz z informacją o dokonaniu wpisu do CEIDG.
 
-2. Je˝eli przedsi´biorca sk∏adajàcy wniosek o dokonanie wpisu do CEIDG nie ma nadanego numeru NIP, CEIDG przesy∏a zg∏oszenie p∏atnika sk∏adek w rozumieniu przepisów o systemie ubezpieczeƒ spo∏ecznych albo zg∏oszenie oÊwiadczenia o kontynuowaniu ubezpieczenia spo∏ecznego rolników wrozumieniu przepisów oubezpieczeniu spo∏ecznym rolników po otrzymaniu od w∏aÊciwego naczelnika urz´du skarbowego nadanego numeru NIP iuzupe∏nieniu wniosku oten numer.
+2. Jeżeli przedsiębiorca składający wniosek o dokonanie wpisu do CEIDG nie ma nadanego numeru NIP, CEIDG przesyła zgłoszenie płatnika składek w rozumieniu przepisów o systemie ubezpieczeń społecznych albo zgłoszenie oświadczenia o kontynuowaniu ubezpieczenia społecznego rolników wrozumieniu przepisów oubezpieczeniu społecznym rolników po otrzymaniu od właściwego naczelnika urzędu skarbowego nadanego numeru NIP iuzupełnieniu wniosku oten numer.
 
-**Art. 29.** Wnioski o wpis do CEIDG sà wolne od op∏at.
+**Art. 29.** Wnioski o wpis do CEIDG są wolne od opłat.
 
 **Art. 30.**
 
-1. Przedsi´biorca jest obowiàzany z∏o˝yç wniosek o:
+1. Przedsiębiorca jest obowiązany złożyć wniosek o:
 
-- **1)** zmian´ wpisu wterminie 7 dni od dnia zmiany danych, o których mowa w art. 25 ust. 1 i 5, powsta∏ej po dniu dokonania wpisu do CEIDG;
-- **2)** wykreÊlenie wpisu w terminie 7 dni od dnia trwa∏ego zaprzestania wykonywania dzia∏alnoÊci gospodarczej.
+- **1)** zmianę wpisu wterminie 7 dni od dnia zmiany danych, o których mowa w art. 25 ust. 1 i 5, powstałej po dniu dokonania wpisu do CEIDG;
+- **2)** wykreślenie wpisu w terminie 7 dni od dnia trwałego zaprzestania wykonywania działalności gospodarczej.
 
-2. Do wniosku wsprawie zmian albo wykreÊlenia wpisu stosuje si´ odpowiednio przepisy art. 26—29.
+2. Do wniosku wsprawie zmian albo wykreślenia wpisu stosuje się odpowiednio przepisy art. 26—29.
 
-3. Przepis ust. 1 stosuje si´ odpowiednio do wspólników spó∏ki cywilnej wprzypadku wpisania do rejestru przedsi´biorców spó∏ki handlowej powsta∏ej zprzekszta∏cenia spó∏ki cywilnej, wzakresie dzia∏alnoÊci wpisanej do rejestru przedsi´biorców.
+3. Przepis ust. 1 stosuje się odpowiednio do wspólników spółki cywilnej wprzypadku wpisania do rejestru przedsiębiorców spółki handlowej powstałej zprzekształcenia spółki cywilnej, wzakresie działalności wpisanej do rejestru przedsiębiorców.
 
-2. Kurator jest obowiàzany przekazaç informacje, o których mowa w art. 25 ust. 1 pkt 13, niezw∏ocznie, nie póêniej ni˝ wterminie 7 dni roboczych od dnia uprawomocnienia si´ postanowienia o ograniczeniu lub utracie zdolnoÊci do czynnoÊci prawnych przedsi´biorcy za poÊrednictwem formularza dost´pnego na stronie internetowej CEIDG.
+2. Kurator jest obowiązany przekazać informacje, o których mowa w art. 25 ust. 1 pkt 13, niezwłocznie, nie póêniej niż wterminie 7 dni roboczych od dnia uprawomocnienia się postanowienia o ograniczeniu lub utracie zdolności do czynności prawnych przedsiębiorcy za pośrednictwem formularza dostępnego na stronie internetowej CEIDG.
 
-3. Informacje, o których mowa w art. 25 ust. 1 pkt 13—16, sàd albo organ zg∏asza niezw∏ocznie do CEIDG za poÊrednictwem formularza dost´pnego na stronie internetowej CEIDG, nie póêniej ni˝ w terminie 7 dni roboczych od dnia uprawomocnienia si´ wyroku albo decyzji o zakazie wykonywania okreÊlonej dzia∏alnoÊci.
+3. Informacje, o których mowa w art. 25 ust. 1 pkt 13—16, sąd albo organ zgłasza niezwłocznie do CEIDG za pośrednictwem formularza dostępnego na stronie internetowej CEIDG, nie póêniej niż w terminie 7 dni roboczych od dnia uprawomocnienia się wyroku albo decyzji o zakazie wykonywania określonej działalności.
 
 **Art. 32.**
 
-1. Przedsi´biorca zawieszajàcy albo wznawiajàcy wykonywanie dzia∏alnoÊci gospodarczej sk∏ada wniosek o zmian´ wpisu. Przepisy art. 26—30 stosuje si´ odpowiednio.
+1. Przedsiębiorca zawieszający albo wznawiający wykonywanie działalności gospodarczej składa wniosek o zmianę wpisu. Przepisy art. 26—30 stosuje się odpowiednio.
 
-2. Wniosek o zmian´ wpisu w przedmiocie zawieszenia wykonywania dzia∏alnoÊci gospodarczej zawiera dane wymienione w art. 25 ust. 1 pkt 1—3, 5 i 10 oÊwiadczenie o niezatrudnianiu pracowników.
+2. Wniosek o zmianę wpisu w przedmiocie zawieszenia wykonywania działalności gospodarczej zawiera dane wymienione w art. 25 ust. 1 pkt 1—3, 5 i 10 oświadczenie o niezatrudnianiu pracowników.
 
-**Art. 33.** Domniemywa si´, ˝e dane wpisane do CEIDG sà prawdziwe. Je˝eli do CEIDG wpisano dane niezgodnie z wnioskiem lub bez tego wniosku, osoba wpisana do CEIDG nie mo˝e zas∏aniaç si´ wobec osoby trzeciej, dzia∏ajàcej w dobrej wierze, zarzutem, ˝e dane te nie sà prawdziwe, je˝eli po powzi´ciu informacji otym wpisie zaniedba∏a wystàpiç niezw∏ocznie z wnioskiem o sprostowanie, uzupe∏nienie lub wykreÊlenie wpisu.
+**Art. 33.** Domniemywa się, że dane wpisane do CEIDG są prawdziwe. Jeżeli do CEIDG wpisano dane niezgodnie z wnioskiem lub bez tego wniosku, osoba wpisana do CEIDG nie może zasłaniać się wobec osoby trzeciej, działającej w dobrej wierze, zarzutem, że dane te nie są prawdziwe, jeżeli po powzięciu informacji otym wpisie zaniedbała wystąpić niezwłocznie z wnioskiem o sprostowanie, uzupełnienie lub wykreślenie wpisu.
 
 **Art. 34.**
 
-1. Dane zawarte w CEIDG nie mogà byç zniej usuni´te, chyba ˝e ustawa stanowi inaczej. WykreÊlenie wpisu wCEIDG nie oznacza usuni´cia danych.
+1. Dane zawarte w CEIDG nie mogą być zniej usunięte, chyba że ustawa stanowi inaczej. Wykreślenie wpisu wCEIDG nie oznacza usunięcia danych.
 
-2. Wpis w CEIDG podlega wykreÊleniu zurz´du, wdrodze decyzji administracyjnej ministra w∏aÊciwego do spraw gospodarki, wprzypadku:
+2. Wpis w CEIDG podlega wykreśleniu zurzędu, wdrodze decyzji administracyjnej ministra właściwego do spraw gospodarki, wprzypadku:
 
-- **1)** gdy prawomocnie orzeczono zakaz wykonywania okreÊlonej we wpisie dzia∏alnoÊci gospodarczej przez przedsi´biorc´;
-- **2)** stwierdzenia trwa∏ego zaprzestania wykonywania przez przedsi´biorc´ dzia∏alnoÊci gospodarczej;
-- **3)** niez∏o˝enia wniosku o wpis informacji o wznowieniu wykonywania dzia∏alnoÊci gospodarczej po up∏ywie okresu 24 miesi´cy od dnia z∏o˝enia wniosku o wpis informacji dodatkowego trzydziestodniowego terminu na z∏o˝enie wniosku owpis informacji o wznowieniu wykonywania dzia∏alnoÊci gospodarczej;
-- **4)** utraty przez przedsi´biorc´ uprawnieƒ do wykonywania dzia∏alnoÊci gospodarczej przys∏ugujàcych na podstawie art. 13 ust. 1 albo ust. 2;
-- **5)** gdy zosta∏ dokonany znaruszeniem prawa.
+- **1)** gdy prawomocnie orzeczono zakaz wykonywania określonej we wpisie działalności gospodarczej przez przedsiębiorcę;
+- **2)** stwierdzenia trwałego zaprzestania wykonywania przez przedsiębiorcę działalności gospodarczej;
+- **3)** niezłożenia wniosku o wpis informacji o wznowieniu wykonywania działalności gospodarczej po upływie okresu 24 miesięcy od dnia złożenia wniosku o wpis informacji dodatkowego trzydziestodniowego terminu na złożenie wniosku owpis informacji o wznowieniu wykonywania działalności gospodarczej;
+- **4)** utraty przez przedsiębiorcę uprawnień do wykonywania działalności gospodarczej przysługujących na podstawie art. 13 ust. 1 albo ust. 2;
+- **5)** gdy został dokonany znaruszeniem prawa.
 
-3. Organy administracji rzàdowej, które posiadajà informacje o utracie uprawnieƒ, októrych mowa wust. 2 pkt 4, sà obowiàzane do przekazywania ich ministrowi w∏aÊciwemu do spraw gospodarki za poÊrednictwem formularza dost´pnego na stronie internetowej CEIDG, niezw∏ocznie, nie póêniej ni˝ w terminie 3 dni roboczych od otrzymania informacji.
+3. Organy administracji rządowej, które posiadają informacje o utracie uprawnień, októrych mowa wust. 2 pkt 4, są obowiązane do przekazywania ich ministrowi właściwemu do spraw gospodarki za pośrednictwem formularza dostępnego na stronie internetowej CEIDG, niezwłocznie, nie póêniej niż w terminie 3 dni roboczych od otrzymania informacji.
 
 **Art. 35.**
 
-1. Minister w∏aÊciwy do spraw gospodarki mo˝e wykreÊliç albo sprostowaç z urz´du wpis zawierajàcy dane niezgodne z rzeczywistym stanem rzeczy, po uprzednim wezwaniu przedsi´biorcy do z∏o˝enia w terminie 7 dni roboczych oÊwiadczenia wsprawie tych danych.
+1. Minister właściwy do spraw gospodarki może wykreślić albo sprostować z urzędu wpis zawierający dane niezgodne z rzeczywistym stanem rzeczy, po uprzednim wezwaniu przedsiębiorcy do złożenia w terminie 7 dni roboczych oświadczenia wsprawie tych danych.
 
-2. Minister w∏aÊciwy do spraw gospodarki mo˝e zwróciç si´ do gminy, na terenie której przedsi´biorca wykonuje dzia∏alnoÊç gospodarczà, ozaj´cie stanowiska w sprawie danych, o których mowa wust. 1.
+2. Minister właściwy do spraw gospodarki może zwrócić się do gminy, na terenie której przedsiębiorca wykonuje działalność gospodarczą, ozajęcie stanowiska w sprawie danych, o których mowa wust. 1.
 
-3. Organ gminy, po zbadaniu okolicznoÊci sprawy, wydaje postanowienie, od którego przys∏uguje za˝alenie do ministra w∏aÊciwego do spraw gospodarki.
+3. Organ gminy, po zbadaniu okoliczności sprawy, wydaje postanowienie, od którego przysługuje zażalenie do ministra właściwego do spraw gospodarki.
 
-4. Minister w∏aÊciwy do spraw gospodarki wykreÊla wpis, o którym mowa wust. 1, wdrodze decyzji albo wydaje postanowienie osprostowaniu wpisu.
+4. Minister właściwy do spraw gospodarki wykreśla wpis, o którym mowa wust. 1, wdrodze decyzji albo wydaje postanowienie osprostowaniu wpisu.
 
-5. Minister w∏aÊciwy do spraw gospodarki z urz´du sprostuje wpis zawierajàcy oczywiste b∏´dy, niezgodnoÊci z treÊcià wniosku przedsi´biorcy lub stanem faktycznym wynikajàcym z innych referencyjnych rejestrów organów administracji publicznej.
+5. Minister właściwy do spraw gospodarki z urzędu sprostuje wpis zawierający oczywiste błędy, niezgodności z treścią wniosku przedsiębiorcy lub stanem faktycznym wynikającym z innych referencyjnych rejestrów organów administracji publicznej.
 
-**Art. 36.** Minister w∏aÊciwy do spraw gospodarki jest obowiàzany do przekazania drogà elektronicznà, niezw∏ocznie, nie póêniej ni˝ nast´pnego dnia roboczego, informacji o wykreÊleniu przedsi´biorcy z CEIDG o sprostowaniu wpisu w CEIDG
+**Art. 36.** Minister właściwy do spraw gospodarki jest obowiązany do przekazania drogą elektroniczną, niezwłocznie, nie póêniej niż następnego dnia roboczego, informacji o wykreśleniu przedsiębiorcy z CEIDG o sprostowaniu wpisu w CEIDG
 
 **Art. 37.**
 
-1. CEIDG udost´pnia dane i informacje o przedsi´biorcach b´dàcych osobami fizycznymi okreÊlone:
+1. CEIDG udostępnia dane i informacje o przedsiębiorcach będących osobami fizycznymi określone:
 
-- **1)** wart. 25 ust. 1 zwyjàtkiem numeru PESEL adresu zamieszkania, oile nie jest on taki sam jak miejsce wykonywania dzia∏alnoÊci gospodarczej;
+- **1)** wart. 25 ust. 1 zwyjątkiem numeru PESEL adresu zamieszkania, oile nie jest on taki sam jak miejsce wykonywania działalności gospodarczej;
 - **2)** wust. 2.
 
-2. CEIDG udost´pnia nast´pujàce informacje o przedsi´biorcach i innych podmiotach:
+2. CEIDG udostępnia następujące informacje o przedsiębiorcach i innych podmiotach:
 
-- **1)** o uzyskaniu, cofni´ciu, utracie i wygaÊni´ciu uprawnieƒ wynikajàcych zkoncesji;
-- **2)** o uzyskaniu, cofni´ciu, utracie i wygaÊni´ciu uprawnieƒ wynikajàcych zzezwolenia lub licencji; przedsi´biorcy, którego wpis dotyczy, w∏aÊciwemu naczelnikowi urz´du skarbowego, do G∏ównego Urz´du Statystycznego, Zak∏adu Ubezpieczeƒ Spo3) o wpisie do rejestru dzia∏alnoÊci regulowanej, zakazie wykonywania dzia∏alnoÊci okreÊlonej we wpisie owykreÊleniu zrejestru.
+- **1)** o uzyskaniu, cofnięciu, utracie i wygaśnięciu uprawnień wynikających zkoncesji;
+- **2)** o uzyskaniu, cofnięciu, utracie i wygaśnięciu uprawnień wynikających zzezwolenia lub licencji; przedsiębiorcy, którego wpis dotyczy, właściwemu naczelnikowi urzędu skarbowego, do Głównego Urzędu Statystycznego, Zakładu Ubezpieczeń Spo3) o wpisie do rejestru działalności regulowanej, zakazie wykonywania działalności określonej we wpisie owykreśleniu zrejestru.
 
-3. W celu weryfikacji informacji, o których mowa w ust. 2, CEIDG korzysta z danych udost´pnianych przez Centralnà Informacj´ Krajowego Rejestru Sàdowego na podstawie art. 4 ust. 4a ustawy z dnia 20 sierpnia 1997 o Krajowym Rejestrze Sàdowym (Dz. U. z2007 168, 1186 z2008 141, 888). CEIDG umo˝liwia wglàd do tych danych.
+3. W celu weryfikacji informacji, o których mowa w ust. 2, CEIDG korzysta z danych udostępnianych przez Centralną Informację Krajowego Rejestru Sądowego na podstawie art. 4 ust. 4a ustawy z dnia 20 sierpnia 1997 o Krajowym Rejestrze Sądowym (Dz. U. z2007 168, 1186 z2008 141, 888). CEIDG umożliwia wgląd do tych danych.
 
-4. Dane i informacje, o których mowa wust. 1 pkt 1, informacj´ o zakoƒczeniu wykonywania dzia∏alnoÊci gospodarczej CEIDG udost´pnia niezw∏ocznie, nie póêniej ni˝ w terminie 3 dni roboczych od dnia dokonania do niej wpisu.
+4. Dane i informacje, o których mowa wust. 1 pkt 1, informację o zakończeniu wykonywania działalności gospodarczej CEIDG udostępnia niezwłocznie, nie póêniej niż w terminie 3 dni roboczych od dnia dokonania do niej wpisu.
 
-5. Informacje, o których mowa w ust. 2, przekazywane sà do CEIDG przez odpowiednie organy koncesyjne, organy prowadzàce rejestry dzia∏alnoÊci regulowanej organy w∏aÊciwe do spraw zezwoleƒ ilicencji, niezw∏ocznie, nie póêniej ni˝ nast´pnego dnia roboczego po prawomocnym rozstrzygni´ciu sprawy, której dotyczà, wraz z podaniem daty uprawomocnienia iznaku sprawy. Je˝eli sprawa by∏a rozstrzygana w drodze decyzji, której nadano rygor natychmiastowej wykonalnoÊci, organy te przekazujà informacje niezw∏ocznie, nie póêniej ni˝ dnia nast´pnego po dniu nadania rygoru natychmiastowej wykonalnoÊci. CEIDG udo6. Dane i informacje o przedsi´biorcach wpisanych do CEIDG po up∏ywie 6 miesi´cy od dnia wykreÊlenia sà archiwizowane i udost´pniane na pisemny wniosek. Przepis ten nie dotyczy firmy przedsi´biorcy idaty wykreÊlenia.
+5. Informacje, o których mowa w ust. 2, przekazywane są do CEIDG przez odpowiednie organy koncesyjne, organy prowadzące rejestry działalności regulowanej organy właściwe do spraw zezwoleń ilicencji, niezwłocznie, nie póêniej niż następnego dnia roboczego po prawomocnym rozstrzygnięciu sprawy, której dotyczą, wraz z podaniem daty uprawomocnienia iznaku sprawy. Jeżeli sprawa była rozstrzygana w drodze decyzji, której nadano rygor natychmiastowej wykonalności, organy te przekazują informacje niezwłocznie, nie póêniej niż dnia następnego po dniu nadania rygoru natychmiastowej wykonalności. CEIDG udo6. Dane i informacje o przedsiębiorcach wpisanych do CEIDG po upływie 6 miesięcy od dnia wykreślenia są archiwizowane i udostępniane na pisemny wniosek. Przepis ten nie dotyczy firmy przedsiębiorcy idaty wykreślenia.
 
-7. Domniemywa si´, ˝e dane i informacje, októrych mowa wust. 2, udost´pniane przez CEIDG, sà prawdziwe. W przypadku stwierdzenia niezgodnoÊci tych danych lub informacji ze stanem faktycznym ka˝dy ma obowiàzek niezw∏ocznie poinformowaç o tym w∏aÊciwy organ, o którym mowa wust. 5.
+7. Domniemywa się, że dane i informacje, októrych mowa wust. 2, udostępniane przez CEIDG, są prawdziwe. W przypadku stwierdzenia niezgodności tych danych lub informacji ze stanem faktycznym każdy ma obowiązek niezwłocznie poinformować o tym właściwy organ, o którym mowa wust. 5.
 
-8. Przekazywanie do CEIDG danych i informacji przez organy samorzàdu terytorialnego i gospodarczego, o których mowa w ust. 5, nale˝y do zadaƒ z zakresu administracji rzàdowej.
+8. Przekazywanie do CEIDG danych i informacji przez organy samorządu terytorialnego i gospodarczego, o których mowa w ust. 5, należy do zadań z zakresu administracji rządowej.
 
 **Art. 38.**
 
-1. Dane i informacje udost´pniane przez CEIDG sà jawne. Ka˝dy ma prawo dost´pu do danych i informacji udost´pnianych przez CEIDG.
+1. Dane i informacje udostępniane przez CEIDG są jawne. Każdy ma prawo dostępu do danych i informacji udostępnianych przez CEIDG.
 
-2. Dane i informacje, o których mowa w art. 37 ust. 1 i 2, udost´pniane sà na stronie internetowej CEIDG, z zastrze˝eniem przepisu art. 37 ust. 6. Dane i informacje z CEIDG udost´pniane sà za poÊrednictwem elektronicznej platformy us∏ug administracji publicznej.
+2. Dane i informacje, o których mowa w art. 37 ust. 1 i 2, udostępniane są na stronie internetowej CEIDG, z zastrzeżeniem przepisu art. 37 ust. 6. Dane i informacje z CEIDG udostępniane są za pośrednictwem elektronicznej platformy usług administracji publicznej.
 
-3. Minister w∏aÊciwy do spraw gospodarki mo˝e okreÊliç, wdrodze rozporzàdzenia, j´zyki obce, wjakich b´dà udost´pniane opisy danych i informacji, o których mowa wart. 37 ust. 1 i2, uwzgl´dniajàc potrzeb´ rozwoju wspó∏pracy gospodarczej z partnerami zagranicznymi zwi´kszenie bezpieczeƒstwa mi´dzynarodowego obrotu gospodarczego.
+3. Minister właściwy do spraw gospodarki może określić, wdrodze rozporządzenia, języki obce, wjakich będą udostępniane opisy danych i informacji, o których mowa wart. 37 ust. 1 i2, uwzględniając potrzebę rozwoju współpracy gospodarczej z partnerami zagranicznymi zwiększenie bezpieczeństwa międzynarodowego obrotu gospodarczego.
 
-4. ZaÊwiadczenia o wpisie w CEIDG doty2) wydruku ze strony internetowej CEIDG uwzgl´dniajàc zapewnienie bezpieczeƒstwa obrotu ochron´ interesów przedsi´biorcy potrzeb´ zapewnienia bezpieczeƒstwa transmisji danych.
+4. Zaświadczenia o wpisie w CEIDG doty2) wydruku ze strony internetowej CEIDG uwzględniając zapewnienie bezpieczeństwa obrotu ochronę interesów przedsiębiorcy potrzebę zapewnienia bezpieczeństwa transmisji danych.
 
 **Art. 39.**
 
-1. Dane CEIDG mogà byç nieodp∏atnie udost´pniane, wsposób inny ni˝ okreÊlony w art. 38 ust. 2, organom administracji, po uprzednim ustaleniu z ministrem w∏aÊciwym do spraw gospodarki warunków technicznych.
+1. Dane CEIDG mogą być nieodpłatnie udostępniane, wsposób inny niż określony w art. 38 ust. 2, organom administracji, po uprzednim ustaleniu z ministrem właściwym do spraw gospodarki warunków technicznych.
 
-2. Dane CEIDG mogà byç odp∏atnie udost´pniane, w sposób inny ni˝ okreÊlony w art. 38 ust. 2, za pomocà urzàdzeƒ teletransmisji innym podmiotom do wykorzystania w celach komercyjnych iniekomercyjnych.
+2. Dane CEIDG mogą być odpłatnie udostępniane, w sposób inny niż określony w art. 38 ust. 2, za pomocą urządzeń teletransmisji innym podmiotom do wykorzystania w celach komercyjnych iniekomercyjnych.
 
-3. Podmiot, októrym mowa wust. 2, muczàce przedsi´biorców b´dàcych osobami fizycznymi w zakresie jawnych danych, októrych mowa wart. 25 ust. 1, majà postaç elektronicznà albo wydruku ze strony internetowej CEIDG.
+3. Podmiot, októrym mowa wust. 2, muczące przedsiębiorców będących osobami fizycznymi w zakresie jawnych danych, októrych mowa wart. 25 ust. 1, mają postać elektroniczną albo wydruku ze strony internetowej CEIDG.
 
-5. Organy administracji publicznej nie mogà domagaç si´ od przedsi´biorców okazywania, przekazywania lub za∏àczania do wniosków zaÊwiadczeƒ owpisie wCEIDG.
+5. Organy administracji publicznej nie mogą domagać się od przedsiębiorców okazywania, przekazywania lub załączania do wniosków zaświadczeń owpisie wCEIDG.
 
-6. Minister w∏aÊciwy do spraw gospodarki okreÊli, w drodze rozporzàdzenia, sposób tworzenia, przekazywania i zabezpieczania przez system teleinforsi ∏àcznie spe∏niaç nast´pujàce warunki:
+6. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób tworzenia, przekazywania i zabezpieczania przez system teleinforsi łącznie spełniać następujące warunki:
 
-- **1)** posiadaç urzàdzenia umo˝liwiajàce identyfikacj´: osoby uzyskujàcej dane w systemie zakresu, daty icelu ich uzyskania;
-- **2)** posiadaç zabezpieczenia techniczne i organizacyjne uniemo˝liwiajàce wykorzystanie danych niezgodnie zcelami okreÊlonymi wustawach.
+- **1)** posiadać urządzenia umożliwiające identyfikację: osoby uzyskującej dane w systemie zakresu, daty icelu ich uzyskania;
+- **2)** posiadać zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie zcelami określonymi wustawach.
 
-4. Udost´pnienie, o którym mowa wust. 2, wymaga zawarcia zministrem w∏aÊciwym do spraw gospodarki umowy okreÊlajàcej przynajmniej zakres udost´pnianych danych iwarunki techniczne ich udost´pnienia.
+4. Udostępnienie, o którym mowa wust. 2, wymaga zawarcia zministrem właściwym do spraw gospodarki umowy określającej przynajmniej zakres udostępnianych danych iwarunki techniczne ich udostępnienia.
 
-5. Podmioty, którym udost´pniono dane CEIDG w trybie ust. 1 albo ust. 2, nie mogà przekazywaç tych danych, ani ich fragmentów, innym podmiotom, chyba ˝e umowa, októrej mowa wust. 4, stanowi inaczej.
+5. Podmioty, którym udostępniono dane CEIDG w trybie ust. 1 albo ust. 2, nie mogą przekazywać tych danych, ani ich fragmentów, innym podmiotom, chyba że umowa, októrej mowa wust. 4, stanowi inaczej.
 
-6. Op∏aty za udost´pnianie danych z CEIDG stanowià dochód bud˝etu paƒstwa.
+6. Opłaty za udostępnianie danych z CEIDG stanowią dochód budżetu państwa.
 
-7. Minister w∏aÊciwy do spraw gospodarki okreÊli, w drodze rozporzàdzenia, sposób obliczania wysokoÊci sposób uiszczania op∏at za udost´pnianie danych z CEIDG podmiotom, októrych mowa wust. 2, uwzgl´dniajàc wysokoÊç op∏at w zale˝noÊci od sposobu i zakresu udost´pniania danych.”;
+7. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób obliczania wysokości sposób uiszczania opłat za udostępnianie danych z CEIDG podmiotom, októrych mowa wust. 2, uwzględniając wysokość opłat w zależności od sposobu i zakresu udostępniania danych.”;
 
-- **7)** uchyla si´ art. 40—45;
+- **7)** uchyla się art. 40—45;
 - **9)** wart. 77:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Kontrola dzia∏alnoÊci gospodarczej przedsi´biorców przeprowadzana jest na zasadach okreÊlonych w niniejszej ustawie, chyba ˝e zasady i tryb kontroli wynikajà z bezpoÊrednio stosowanych przepisów powszechnie obowiàzujàcego prawa wspólnotowego albo z ratyfikowanych umów mi´dzynarodowych.”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Zakres przedmiotowy kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy organy upowa˝nione do jej przeprowadzenia okreÊlajà odr´bne ustawy.”,
-    - **c)** dodaje si´ ust. 4—6 wbrzmieniu: „4. Przedsi´biorcy, który poniós∏ szkod´ na skutek przeprowadzenia czynnoÊci kontrolnych z naruszeniem przepisów prawa w zakresie kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, przys∏uguje odszkodowanie.
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Kontrola działalności gospodarczej przedsiębiorców przeprowadzana jest na zasadach określonych w niniejszej ustawie, chyba że zasady i tryb kontroli wynikają z bezpośrednio stosowanych przepisów powszechnie obowiązującego prawa wspólnotowego albo z ratyfikowanych umów międzynarodowych.”,
+    - **b)** ust. 3 otrzymuje brzmienie: Ń3. Zakres przedmiotowy kontroli działalności gospodarczej przedsiębiorcy organy upoważnione do jej przeprowadzenia określają odrębne ustawy.”,
+    - **c)** dodaje się ust. 4—6 wbrzmieniu: Ń4. Przedsiębiorcy, który poniósł szkodę na skutek przeprowadzenia czynności kontrolnych z naruszeniem przepisów prawa w zakresie kontroli działalności gospodarczej przedsiębiorcy, przysługuje odszkodowanie.
 
-5. Dochodzenie roszczenia, o którym mowa w ust. 4, nast´puje na zasadach i w trybie okreÊlonych wodr´bnych przepisach.
+5. Dochodzenie roszczenia, o którym mowa w ust. 4, następuje na zasadach i w trybie określonych wodrębnych przepisach.
 
-6. Dowody przeprowadzone w toku kontroli przez organ kontroli z naruszeniem przepisów prawa w zakresie kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, je˝eli mia∏y istotny wp∏yw na wyniki kontroli, nie mogà stanowiç dowodu w ˝adnym post´powaniu administracyjnym, podatkowym, karnym lub karno-skarbowym dotyczàcym kontrolowanego przedsi´biorcy.”;
+6. Dowody przeprowadzone w toku kontroli przez organ kontroli z naruszeniem przepisów prawa w zakresie kontroli działalności gospodarczej przedsiębiorcy, jeżeli miały istotny wpływ na wyniki kontroli, nie mogą stanowić dowodu w żadnym postępowaniu administracyjnym, podatkowym, karnym lub karno-skarbowym dotyczącym kontrolowanego przedsiębiorcy.”;
 
-- **10)** art. 79 otrzymuje brzmienie: „Art. 79. 1. Organy kontroli zawiadamiajà przedsi´biorc´ o zamiarze wszcz´cia kontroli.
+- **10)** art. 79 otrzymuje brzmienie: ŃArt. 79. 1. Organy kontroli zawiadamiają przedsiębiorcę o zamiarze wszczęcia kontroli.
 
-2. Zawiadomienia o zamiarze wszcz´cia kontroli nie dokonuje si´, wprzypadku gdy:
+2. Zawiadomienia o zamiarze wszczęcia kontroli nie dokonuje się, wprzypadku gdy:
 
-- **1)** kontrola ma zostaç przeprowadzona na podstawie bezpoÊrednio stosowanych przepisów powszechnie obowiàzujàcego prawa wspólnotowego albo na podstawie ratyfikowanej umowy mi´dzynarodowej;
-- **2)** przeprowadzenie kontroli jest niezb´dne dla przeciwdzia∏ania pope∏nieniu przest´pstwa lub wykroczenia, przeciwdzia∏ania pope∏nieniu przest´pstwa skarbowego lub wykroczenia skarbowego lub zabezpieczenia dowodów jego pope∏nienia;
-- **3)** kontrola jakoÊci paliw jest przeprowadzana na postawie przepisów ustawy z dnia 25 sierpnia 2006 osystemie monitorowania ikontro4) kontrola jest prowadzona wtoku post´powania prowadzonego na podstawie przepisów ustawy z dnia 16 lutego 2007 o ochronie konkurencji i konsumentów (Dz. U. 50, 331, z póên. zm. );
-- **5)** przeprowadzenie kontroli jest uzasadnione bezpoÊrednim zagro˝eniem ˝ycia, zdrowia lub Êrodowiska naturalnego;
-- **6)** przedsi´biorca nie ma adresu zamieszkania lub adresu siedziby lub dor´czanie pism na podane adresy by∏o bezskuteczne lub utrudnione.
+- **1)** kontrola ma zostać przeprowadzona na podstawie bezpośrednio stosowanych przepisów powszechnie obowiązującego prawa wspólnotowego albo na podstawie ratyfikowanej umowy międzynarodowej;
+- **2)** przeprowadzenie kontroli jest niezbędne dla przeciwdziałania popełnieniu przestępstwa lub wykroczenia, przeciwdziałania popełnieniu przestępstwa skarbowego lub wykroczenia skarbowego lub zabezpieczenia dowodów jego popełnienia;
+- **3)** kontrola jakości paliw jest przeprowadzana na postawie przepisów ustawy z dnia 25 sierpnia 2006 osystemie monitorowania ikontro4) kontrola jest prowadzona wtoku postępowania prowadzonego na podstawie przepisów ustawy z dnia 16 lutego 2007 o ochronie konkurencji i konsumentów (Dz. U. 50, 331, z póên. zm. );
+- **5)** przeprowadzenie kontroli jest uzasadnione bezpośrednim zagrożeniem życia, zdrowia lub środowiska naturalnego;
+- **6)** przedsiębiorca nie ma adresu zamieszkania lub adresu siedziby lub doręczanie pism na podane adresy było bezskuteczne lub utrudnione.
 
-3. Zawiadomienia o zamiarze wszcz´cia kontroli nie dokonuje si´ tak˝e wprzypadkach okreÊlonych w art. 282c ustawy z dnia 29 sierpnia 1997 Ordynacja podatkowa.
+3. Zawiadomienia o zamiarze wszczęcia kontroli nie dokonuje się także wprzypadkach określonych w art. 282c ustawy z dnia 29 sierpnia 1997 Ordynacja podatkowa.
 
-4. Kontrol´ wszczyna si´ nie wczeÊniej ni˝ po up∏ywie 7 dni i nie póêniej ni˝ przed up∏ywem 30 dni od dnia dor´czenia zawiadomienia o zamiarze wszcz´cia kontroli. Je˝eli kontrola nie zostanie wszcz´ta w terminie 30 dni od dnia dor´czenia zawiadomienia, wszcz´cie kontroli wymaga ponownego zawiadomienia.
+4. Kontrolę wszczyna się nie wcześniej niż po upływie 7 dni i nie póêniej niż przed upływem 30 dni od dnia doręczenia zawiadomienia o zamiarze wszczęcia kontroli. Jeżeli kontrola nie zostanie wszczęta w terminie 30 dni od dnia doręczenia zawiadomienia, wszczęcie kontroli wymaga ponownego zawiadomienia.
 
-5. Na wniosek przedsi´biorcy kontrola mo˝e byç wszcz´ta przed up∏ywem 7 dni od dnia dor´czenia zawiadomienia.
+5. Na wniosek przedsiębiorcy kontrola może być wszczęta przed upływem 7 dni od dnia doręczenia zawiadomienia.
 
-6. Zawiadomienie o zamiarze wszcz´cia kontroli zawiera:
+6. Zawiadomienie o zamiarze wszczęcia kontroli zawiera:
 
 - **1)** oznaczenie organu;
-- **2)** dat´ imiejsce wystawienia;
-- **3)** oznaczenie przedsi´biorcy;
+- **2)** datę imiejsce wystawienia;
+- **3)** oznaczenie przedsiębiorcy;
 - **4)** wskazanie zakresu przedmiotowego kontroli;
-- **5)** podpis osoby upowa˝nionej do zawiadomienia.
+- **5)** podpis osoby upoważnionej do zawiadomienia.
 
-7. Uzasadnienie przyczyny braku zawiadomienia o zamiarze wszcz´cia kontroli umieszcza si´ w ksià˝ce kontroli iprotokole kontroli.”;
+7. Uzasadnienie przyczyny braku zawiadomienia o zamiarze wszczęcia kontroli umieszcza się w książce kontroli iprotokole kontroli.”;
 
-- **11)** po art. 79 dodaje si´ art. 79ai79bwbrzmieniu: „Art. 79a. 1. CzynnoÊci kontrolne mogà byç wykonywane przez pracowników organów kontroli po okazaniu przedsi´biorcy albo osobie przez niego upowa˝nionej legitymacji s∏u˝bowej upowa˝niajàcej do wykonywania takich czynnoÊci po dor´czeniu upowa˝nienia do przeprowadzenia kontroli, chyba ˝e przepisy szczególne przewidujà mo˝liwoÊç podj´cia kontroli po okazaniu legitymacji. Wtakim przypadku upowa˝nienie dor´cza si´ przedsi´biorcy albo osobie przez niego upowa˝nionej w terminie okreÊlonym wtych przepisach, lecz nie póêniej ni˝ trzeciego dnia od wszcz´cia kontroli.
+- **11)** po art. 79 dodaje się art. 79ai79bwbrzmieniu: ŃArt. 79a. 1. Czynności kontrolne mogą być wykonywane przez pracowników organów kontroli po okazaniu przedsiębiorcy albo osobie przez niego upoważnionej legitymacji służbowej upoważniającej do wykonywania takich czynności po doręczeniu upoważnienia do przeprowadzenia kontroli, chyba że przepisy szczególne przewidują możliwość podjęcia kontroli po okazaniu legitymacji. Wtakim przypadku upoważnienie doręcza się przedsiębiorcy albo osobie przez niego upoważnionej w terminie określonym wtych przepisach, lecz nie póêniej niż trzeciego dnia od wszczęcia kontroli.
 
-2. Podj´cie czynnoÊci kontrolnych po okazaniu legitymacji s∏u˝bowej, na podstawie przepisów szczególnych, mo˝e dotyczyç jedynie przypadków, gdy czynnoÊci kontrolne sà niezb´dne dla przeciwdzia∏ania pope∏nieniu przest´pstwa lub wykroczenia, przeciwdzia∏ania pope∏nieniu przest´pstwa skarbowego lub wykroczenia skarbowego lub zabezpieczenia dowodów jego pope∏nienia, atak˝e gdy przeprowadzenie kontroli jest uzasadnione bezpoÊrednim zagro˝eniem ˝ycia, zdrowia lub Êrodowiska naturalnego.
+2. Podjęcie czynności kontrolnych po okazaniu legitymacji służbowej, na podstawie przepisów szczególnych, może dotyczyć jedynie przypadków, gdy czynności kontrolne są niezbędne dla przeciwdziałania popełnieniu przestępstwa lub wykroczenia, przeciwdziałania popełnieniu przestępstwa skarbowego lub wykroczenia skarbowego lub zabezpieczenia dowodów jego popełnienia, atakże gdy przeprowadzenie kontroli jest uzasadnione bezpośrednim zagrożeniem życia, zdrowia lub środowiska naturalnego.
 
-3. CzynnoÊci kontrolne mogà byç wykonywane przez osoby nieb´dàce pracownikami organu kontroli, je˝eli przepisy odr´bnych ustaw tak stanowià.
+3. Czynności kontrolne mogą być wykonywane przez osoby niebędące pracownikami organu kontroli, jeżeli przepisy odrębnych ustaw tak stanowią.
 
-4. Do pracowników organu kontroli osób, o których mowa w ust. 3, stosuje si´ przepisy ustawy z dnia 14 czerwca 1960 Kodeks post´powania administracyjnego (Dz. U. z 2000 98, 1071, z póên. zm.
+4. Do pracowników organu kontroli osób, o których mowa w ust. 3, stosuje się przepisy ustawy z dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. z 2000 98, 1071, z póên. zm.
 
-- **8)** podpis osoby udzielajàcej upowa˝nienia z podaniem zajmowanego stanowiska lub funkcji;
-- **9)** pouczenie oprawach iobowiàzkach kontrolowanego przedsi´biorcy.
+- **8)** podpis osoby udzielającej upoważnienia z podaniem zajmowanego stanowiska lub funkcji;
+- **9)** pouczenie oprawach iobowiązkach kontrolowanego przedsiębiorcy.
 
-7. Dokument, który nie spe∏nia wymagaƒ, októrych mowa wust. 6, nie stanowi podstawy do przeprowadzenia kontroli.
+7. Dokument, który nie spełnia wymagań, októrych mowa wust. 6, nie stanowi podstawy do przeprowadzenia kontroli.
 
-8. Zakres kontroli nie mo˝e wykraczaç poza zakres wskazany w upowa˝nieniu.
+8. Zakres kontroli nie może wykraczać poza zakres wskazany w upoważnieniu.
 
-9. W razie nieobecnoÊci kontrolowanego przedsi´biorcy lub osoby przez niego upowa˝nionej, czynnoÊci kontrolne mogà byç wszcz´te po okazaniu legitymacji s∏u˝bowej pracownikowi kontrolowanego, który mo˝e byç uznany za osob´, októrej mowa wart. ustawy z dnia 23 kwietnia 1964 Kodeks cywilny (Dz. U. 16, 93, z póên. ) dotyczàce wy∏àczenia pracownika, chyba ˝e przepisy odr´bnych ustaw stanowià inaczej.
+9. W razie nieobecności kontrolowanego przedsiębiorcy lub osoby przez niego upoważnionej, czynności kontrolne mogą być wszczęte po okazaniu legitymacji służbowej pracownikowi kontrolowanego, który może być uznany za osobę, októrej mowa wart. ustawy z dnia 23 kwietnia 1964 Kodeks cywilny (Dz. U. 16, 93, z póên. ) dotyczące wyłączenia pracownika, chyba że przepisy odrębnych ustaw stanowią inaczej.
 
-5. Zmiana osób upowa˝nionych do wykonania kontroli, zakresu przedmiotowego kontroli miejsca wykonywania czynnoÊci kontrolnych wymaga ka˝dorazowo wydania odr´bnego upowa˝nienia. Zmiany te nie mogà prowadziç do wyd∏u˝enia przewidywanego wczeÊniej terminu zakoƒczenia kontroli.
+5. Zmiana osób upoważnionych do wykonania kontroli, zakresu przedmiotowego kontroli miejsca wykonywania czynności kontrolnych wymaga każdorazowo wydania odrębnego upoważnienia. Zmiany te nie mogą prowadzić do wydłużenia przewidywanego wcześniej terminu zakończenia kontroli.
 
-6. Upowa˝nienie, o którym mowa wust. 1, zawiera co najmniej:
+6. Upoważnienie, o którym mowa wust. 1, zawiera co najmniej:
 
 - **1)** wskazanie podstawy prawnej;
 - **2)** oznaczenie organu kontroli;
-- **3)** dat´ imiejsce wystawienia;
-- **4)** imi´ inazwisko pracownika organu kontroli uprawnionego do wykonania kontroli numer jego legitymacji s∏u˝bowej;
-- **5)** oznaczenie przedsi´biorcy obj´tego kontrolà;
-- **6)** okreÊlenie zakresu przedmiotowego kontroli;
-- **7)** wskazanie daty rozpocz´cia i przewidywanego terminu zakoƒczenia kontroli; zm. ), lub w obecnoÊci przywo∏anego Êwiadka, którym powinien byç funkcjonariusz publiczny, nieb´dàcy jednak pracownikiem organu przeprowadzajàcego kontrol´.
+- **3)** datę imiejsce wystawienia;
+- **4)** imię inazwisko pracownika organu kontroli uprawnionego do wykonania kontroli numer jego legitymacji służbowej;
+- **5)** oznaczenie przedsiębiorcy objętego kontrolą;
+- **6)** określenie zakresu przedmiotowego kontroli;
+- **7)** wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli; zm. ), lub w obecności przywołanego świadka, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę.
 
-**Art. 79b.** W przypadku wszcz´cia czynnoÊci kontrolnych po okazaniu legitymacji s∏u˝bowej, przed podj´ciem pierwszej czynnoÊci kontrolnej, osoba podejmujàca kontrol´ ma obowiàzek poinformowaç kontrolowanego przedsi´biorc´ lub osob´, wobec której podj´to czynnoÊci kontrolne, o jego prawach i obowiàzkach wtrakcie kontroli.”;
+**Art. 79b.** W przypadku wszczęcia czynności kontrolnych po okazaniu legitymacji służbowej, przed podjęciem pierwszej czynności kontrolnej, osoba podejmująca kontrolę ma obowiązek poinformować kontrolowanego przedsiębiorcę lub osobę, wobec której podjęto czynności kontrolne, o jego prawach i obowiązkach wtrakcie kontroli.”;
 
-**Art. 80b.** CzynnoÊci kontrolne powinny byç przedsi´biorca jest obowiàzany nieprzeprowadzane w sposób sprawny zw∏ocznie okazaç kontrolujàcemu imo˝liwie niezak∏ócajàcy funkcjonowa- ksià˝k´ kontroli, o której mowa nia kontrolowanego przedsi´biorcy. wart. 81 ust. 1, albo kopie odpowiedW przypadku gdy przedsi´biorca wska- nich jej fragmentów lub wydruki ˝e na piÊmie, ˝e przeprowadzane czyn- z systemu informatycznego, w któnoÊci zak∏ócajà w sposób istotny dzia- rym prowadzona jest ksià˝ka kontroli, ∏alnoÊç gospodarczà przedsi´biorcy, poÊwiadczone przez siebie za zgodkoniecznoÊç podj´cia takich czynnoÊci noÊç zwpisem wksià˝ce kontroli. powinna byç uzasadniona w protokole kontroli.”; 2. Przedsi´biorca jest zwolniony z oka14) wart. 81:
+**Art. 80b.** Czynności kontrolne powinny być przedsiębiorca jest obowiązany nieprzeprowadzane w sposób sprawny zwłocznie okazać kontrolującemu imożliwie niezakłócający funkcjonowa- książkę kontroli, o której mowa nia kontrolowanego przedsiębiorcy. wart. 81 ust. 1, albo kopie odpowiedW przypadku gdy przedsiębiorca wska- nich jej fragmentów lub wydruki że na piśmie, że przeprowadzane czyn- z systemu informatycznego, w któności zakłócają w sposób istotny dzia- rym prowadzona jest książka kontroli, łalność gospodarczą przedsiębiorcy, poświadczone przez siebie za zgodkonieczność podjęcia takich czynności ność zwpisem wksiążce kontroli. powinna być uzasadniona w protokole kontroli.”; 2. Przedsiębiorca jest zwolniony z oka14) wart. 81:
 
 **Art. 84b.**
 
-1. Przepisów art. 79, art. 82 ust. 1 i art. 83 ust. 1 nie stosuje si´ do kontroli wszcz´tej w toku post´powania prowadzonego w wyniku z∏o˝enia wniosku przez przedsi´biorc´ we w∏asnej sprawie, na podstawie przepisów odr´bnych ustaw bezpoÊrednio stosowanych przepisów powszechnie obowiàzujàcego prawa wspólnotowego.
+1. Przepisów art. 79, art. 82 ust. 1 i art. 83 ust. 1 nie stosuje się do kontroli wszczętej w toku postępowania prowadzonego w wyniku złożenia wniosku przez przedsiębiorcę we własnej sprawie, na podstawie przepisów odrębnych ustaw bezpośrednio stosowanych przepisów powszechnie obowiązującego prawa wspólnotowego.
 
-2. Ilekroç w przepisach ustaw odr´bnych bezpoÊrednio stosowanych przepisach powszechnie obowiàzujàcego prawa wspólnotowego u˝ywa si´ poj´ç: zawiadomienie, wezwanie, zg∏oszenie, których celem jest wszcz´cie kontroli dzia∏alnoÊci gospodarczej przez w∏aÊciwy organ kontroli, przepis ust. 1 stosuje si´ odpowiednio.
+2. Ilekroć w przepisach ustaw odrębnych bezpośrednio stosowanych przepisach powszechnie obowiązującego prawa wspólnotowego używa się pojęć: zawiadomienie, wezwanie, zgłoszenie, których celem jest wszczęcie kontroli działalności gospodarczej przez właściwy organ kontroli, przepis ust. 1 stosuje się odpowiednio.
 
 **Art. 84c.**
 
-1. Przedsi´biorca mo˝e wnieÊç sprzeciw wobec podj´cia i wykonywania przez organy kontroli czynnoÊci z naruszeniem przepisów art. 79—79b, art. 80 ust. 1 i 2, art. 82 ust. 1 art. 83 ust. 1 i2, zzastrze˝eniem art. 84d.
+1. Przedsiębiorca może wnieść sprzeciw wobec podjęcia i wykonywania przez organy kontroli czynności z naruszeniem przepisów art. 79—79b, art. 80 ust. 1 i 2, art. 82 ust. 1 art. 83 ust. 1 i2, zzastrzeżeniem art. 84d.
 
-2. Sprzeciw przedsi´biorca wnosi na piÊmie do organu podejmujàcego i wykonujàcego kontrol´. O wniesieniu sprzeciwu przedsi´biorca zawiadamia na piÊmie kontrolujàcego.
+2. Sprzeciw przedsiębiorca wnosi na piśmie do organu podejmującego i wykonującego kontrolę. O wniesieniu sprzeciwu przedsiębiorca zawiadamia na piśmie kontrolującego.
 
-3. Sprzeciw wnosi si´ w terminie 3 dni roboczych od dnia wszcz´cia kontroli przez organ kontroli. Przedsi´biorca musi uzasadniç wniesienie sprzeciwu.
+3. Sprzeciw wnosi się w terminie 3 dni roboczych od dnia wszczęcia kontroli przez organ kontroli. Przedsiębiorca musi uzasadnić wniesienie sprzeciwu.
 
-4. Wprzypadku gdy naruszenie przepisu art. 83 ust. 1 wystàpi∏o w trakcie prowadzonej kontroli, bieg terminu, októrym mowa w ust. 3, rozpoczyna si´ w dniu, w którym nastàpi∏o przekroczenie limitu czasu trwania kontroli.
+4. Wprzypadku gdy naruszenie przepisu art. 83 ust. 1 wystąpiło w trakcie prowadzonej kontroli, bieg terminu, októrym mowa w ust. 3, rozpoczyna się w dniu, w którym nastąpiło przekroczenie limitu czasu trwania kontroli.
 
-5. Wniesienie sprzeciwu powoduje wstrzymanie czynnoÊci kontrolnych przez organ kontroli, którego sprzeciw dotyczy, zchwilà dor´czenia kontrolujàcemu zawiadomienia o wnie8. W przypadku wniesienia sprzeciwu organ kontroli mo˝e, wdrodze postanowienia, dokonaç zabezpieczenia dowodów majàcych zwiàzek z przedmiotem i zakresem kontroli, na czas rozpatrzenia sprzeciwu. Zabezpieczeniu podlegajà dokumenty, informacje, próbki wyrobów inne noÊniki informacji, je˝eli stanowià lub mogà stanowiç dowód wtoku kontroli.
+5. Wniesienie sprzeciwu powoduje wstrzymanie czynności kontrolnych przez organ kontroli, którego sprzeciw dotyczy, zchwilą doręczenia kontrolującemu zawiadomienia o wnie8. W przypadku wniesienia sprzeciwu organ kontroli może, wdrodze postanowienia, dokonać zabezpieczenia dowodów mających związek z przedmiotem i zakresem kontroli, na czas rozpatrzenia sprzeciwu. Zabezpieczeniu podlegają dokumenty, informacje, próbki wyrobów inne nośniki informacji, jeżeli stanowią lub mogą stanowić dowód wtoku kontroli.
 
 9. Organ kontroli wterminie 3 dni roboczych od dnia otrzymania sprzeciwu, rozpatruje sprzeciw wydaje postanowienie o:
 
-- **1)** odstàpieniu od czynnoÊci kontrolnych;
-- **2)** kontynuowaniu czynnoÊci kontrolnych.
+- **1)** odstąpieniu od czynności kontrolnych;
+- **2)** kontynuowaniu czynności kontrolnych.
 
-10. Na postanowienie, o którym mowa w ust. 9, przedsi´biorcy przys∏uguje za˝alenie w terminie 3 dni od dnia otrzymania postanowienia. Rozstrzygsieniu sprzeciwu do czasu rozpatrzenia sprzeciwu, a w przypadku wniesienia za˝alenia do czasu jego rozpatrzenia.
+10. Na postanowienie, o którym mowa w ust. 9, przedsiębiorcy przysługuje zażalenie w terminie 3 dni od dnia otrzymania postanowienia. Rozstrzygsieniu sprzeciwu do czasu rozpatrzenia sprzeciwu, a w przypadku wniesienia zażalenia do czasu jego rozpatrzenia.
 
-6. Wniesienie sprzeciwu powoduje wstrzymanie biegu czasu trwania kontroli od dnia wniesienia sprzeciwu do dnia dor´czenia przedsi´biorcy postanowienia, o którym mowa w ust. 9, albo do dnia, o którym mowa wust. 12, zzastrze˝eniem ust. 7.
+6. Wniesienie sprzeciwu powoduje wstrzymanie biegu czasu trwania kontroli od dnia wniesienia sprzeciwu do dnia doręczenia przedsiębiorcy postanowienia, o którym mowa w ust. 9, albo do dnia, o którym mowa wust. 12, zzastrzeżeniem ust. 7.
 
-7. W przypadku wniesienia przez przedsi´biorc´ za˝alenia, o którym mowa w ust. 10, wstrzymanie biegu czasu trwania kontroli nast´puje do dnia doni´cie za˝alenia nast´puje w drodze postanowienia, nie póêniej ni˝ w terminie 7 dni od dnia jego wniesienia.
+7. W przypadku wniesienia przez przedsiębiorcę zażalenia, o którym mowa w ust. 10, wstrzymanie biegu czasu trwania kontroli następuje do dnia donięcie zażalenia następuje w drodze postanowienia, nie póêniej niż w terminie 7 dni od dnia jego wniesienia.
 
-11. W przypadku wydania postanowienia, o którym mowa w ust. 9 pkt 2, organ kontroli mo˝e kontynuowaç czynnoÊci kontrolne od dnia, w którym postanowienie dor´czono przedsi´biorcy, a w przypadku wniesienia za˝alenia, od dnia dor´czenia przedsi´biorcy postanowienia, o którym mowa wust. 10.
+11. W przypadku wydania postanowienia, o którym mowa w ust. 9 pkt 2, organ kontroli może kontynuować czynności kontrolne od dnia, w którym postanowienie doręczono przedsiębiorcy, a w przypadku wniesienia zażalenia, od dnia doręczenia przedsiębiorcy postanowienia, o którym mowa wust. 10.
 
-12. Nierozpatrzenie sprzeciwu w terminie, o którym mowa w ust. 9, jest równoznaczne w skutkach z wydaniem przez organ w∏aÊciwy postanowienia, októrym mowa wust. 9 pkt 1.
+12. Nierozpatrzenie sprzeciwu w terminie, o którym mowa w ust. 9, jest równoznaczne w skutkach z wydaniem przez organ właściwy postanowienia, októrym mowa wust. 9 pkt 1.
 
-13. Nierozpatrzenie za˝alenia w terminie, októrym mowa wust. 10, jest równoznaczne w skutkach z wydaniem przez organ w∏aÊciwy postanowienia uznajàcego s∏usznoÊç wniesionego za˝alenia.
+13. Nierozpatrzenie zażalenia w terminie, októrym mowa wust. 10, jest równoznaczne w skutkach z wydaniem przez organ właściwy postanowienia uznającego słuszność wniesionego zażalenia.
 
-14. Postanowienie, o którym mowa w ust. 8, wygasa z mocy ustawy w dniu nast´pujàcym po dniu dor´czenia przedsi´biorcy postanowienia, o którym mowa w ust. 9, a w przypadku, o którym mowa w ust. 12, w dniu nast´pujàcym po dniu up∏ywu terminu do rozpatrzenia sprzeciwu, zzastrze˝eniem ust. 15.
+14. Postanowienie, o którym mowa w ust. 8, wygasa z mocy ustawy w dniu następującym po dniu doręczenia przedsiębiorcy postanowienia, o którym mowa w ust. 9, a w przypadku, o którym mowa w ust. 12, w dniu następującym po dniu upływu terminu do rozpatrzenia sprzeciwu, zzastrzeżeniem ust. 15.
 
-15. Wprzypadku wniesienia przez przedsi´biorc´ za˝alenia postanowienie, o którym mowa w ust. 8, wygasa w dniu nast´pujàcym po dniu dor´czenia przedsi´biorcy postanowienia, o którym mowa w ust. 10, a w przypadku, o którym mowa
+15. Wprzypadku wniesienia przez przedsiębiorcę zażalenia postanowienie, o którym mowa w ust. 8, wygasa w dniu następującym po dniu doręczenia przedsiębiorcy postanowienia, o którym mowa w ust. 10, a w przypadku, o którym mowa
 
-16. Do post´powaƒ, o których mowa w ust. 9 i 10, w zakresie nieuregulowanym stosuje si´ przepisy Kodeksu post´powania administracyjnego.
+16. Do postępowań, o których mowa w ust. 9 i 10, w zakresie nieuregulowanym stosuje się przepisy Kodeksu postępowania administracyjnego.
 
-**Art. 84d.** Wniesienie sprzeciwu nie jest dopuszczalne, gdy organ przeprowadza kontrol´, powo∏ujàc si´ na przepisy art. 79 ust. 2 pkt 2, art. 80 ust. 2 pkt 2, art. 82 ust. 1 pkt 2, art. 83 ust. 2 pkt 2 iart. 84a.”.
+**Art. 84d.** Wniesienie sprzeciwu nie jest dopuszczalne, gdy organ przeprowadza kontrolę, powołując się na przepisy art. 79 ust. 2 pkt 2, art. 80 ust. 2 pkt 2, art. 82 ust. 1 pkt 2, art. 83 ust. 2 pkt 2 iart. 84a.”.
 
-**Art. 2.** W ustawie z dnia 26 paêdziernika 1982 owychowaniu wtrzeêwoÊci iprzeciwdzia∏aniu alkoholizmowi (Dz. U. z 2007 70, 473, 115, 793 i 176, 1238 z 2008 227,
+**Art. 2.** W ustawie z dnia 26 paêdziernika 1982 owychowaniu wtrzeêwości iprzeciwdziałaniu alkoholizmowi (Dz. U. z 2007 70, 473, 115, 793 i 176, 1238 z 2008 227,
 
-**Art. 3.** W ustawie z dnia 14 marca 1985 o Paƒstwowej Inspekcji Sanitarnej (Dz. U. z 2006 122, 851, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 3.** W ustawie z dnia 14 marca 1985 o Państwowej Inspekcji Sanitarnej (Dz. U. z 2006 122, 851, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 20 lipca 1991 o Inspekcji Ochrony Ârodowiska (Dz. U. z 2007 44, 287, z póên. zm. ).”. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 4.** W ustawie z dnia 20 lipca 1991 o Inspekcji Ochrony Ârodowiska (Dz. U. z 2007 44, 287, z póên. zm. ).”. ) wprowadza się następujące zmiany:
 
-**Art. 5.** W ustawie z dnia 24 sierpnia 1991 o Paƒstwowej Stra˝y Po˝arnej (Dz. U. z 2009 12, 68) po art. 23 dodaje si´ art. 23awbrzmieniu: „Art. 23a. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 oswobodzie dzia∏alnoÊci gospodarczej.”.
+**Art. 5.** W ustawie z dnia 24 sierpnia 1991 o Państwowej Straży Pożarnej (Dz. U. z 2009 12, 68) po art. 23 dodaje się art. 23awbrzmieniu: ŃArt. 23a. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 oswobodzie działalności gospodarczej.”.
 
-**Art. 6.** Wustawie zdnia 28 wrzeÊnia 1991 okontroli skarbowej (Dz. U. z 2004 8, 65, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 6.** Wustawie zdnia 28 września 1991 okontroli skarbowej (Dz. U. z 2004 8, 65, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie z dnia 28 wrzeÊnia 1991 o lasach (Dz. U. z2005 45, 435, zpóên. zm. ) po art. 19adodaje si´ art. 19bwbrzmieniu: „Art. 19b. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, o której mowa w art. 19a, stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
+**Art. 7.** W ustawie z dnia 28 września 1991 o lasach (Dz. U. z2005 45, 435, zpóên. zm. ) po art. 19adodaje się art. 19bwbrzmieniu: ŃArt. 19b. Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 19a, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 8.** W ustawie z dnia 29 lipca 1992 o grach izak∏adach wzajemnych (Dz. U. z2004 4, 27, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany: ∏ach ina automatach gier na automatach oniskich wygranych, wzakresie ina zasadach okreÊlonych wprzepisach ustawy zdnia 24 lipca 1999 o S∏u˝bie Celnej (Dz. U. z 2004 156, 1641, zpóên. zm.
+**Art. 8.** W ustawie z dnia 29 lipca 1992 o grach izakładach wzajemnych (Dz. U. z2004 4, 27, zpóên. zm. ) wprowadza się następujące zmiany: łach ina automatach gier na automatach oniskich wygranych, wzakresie ina zasadach określonych wprzepisach ustawy zdnia 24 lipca 1999 o Służbie Celnej (Dz. U. z 2004 156, 1641, zpóên. zm.
 
-**Art. 9.** Wustawie zdnia 29 grudnia 1992 oradiofonii i telewizji (Dz. U. z 2004 253, 2531, zpóên. zm. ) art. 40botrzymuje brzmienie: „Art. 40b. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, o której mowa w art. 33, stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej.”.
+**Art. 9.** Wustawie zdnia 29 grudnia 1992 oradiofonii i telewizji (Dz. U. z 2004 253, 2531, zpóên. zm. ) art. 40botrzymuje brzmienie: ŃArt. 40b. Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 33, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej.”.
 
-**Art. 10.** Wustawie zdnia 4 lutego 1994 Prawo geologiczne i górnicze (Dz. U. z 2005 228, 1947, z póên. zm. ) po art. 2 dodaje si´ art. 2awbrzmieniu: „Art. 2a. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, o której mowa w art. 15, stosuje si´ przepisy rozdzia∏u 5 ustawy zdnia 2 lipca 2004 oswobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
+**Art. 10.** Wustawie zdnia 4 lutego 1994 Prawo geologiczne i górnicze (Dz. U. z 2005 228, 1947, z póên. zm. ) po art. 2 dodaje się art. 2awbrzmieniu: ŃArt. 2a. Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 15, stosuje się przepisy rozdziału 5 ustawy zdnia 2 lipca 2004 oswobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 11.** W ustawie z dnia 7 lipca 1994 Prawo budowlane (Dz. U. z2006 156, 1118, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany: ——————— ———————
+**Art. 11.** W ustawie z dnia 7 lipca 1994 Prawo budowlane (Dz. U. z2006 156, 1118, zpóên. zm. ) wprowadza się następujące zmiany: ——————— ———————
 
-**Art. 12.** W ustawie z dnia 20 paêdziernika 1994 o specjalnych strefach ekonomicznych (Dz. U. z2007 42, 274 z2008 118, 746) po art. 19 dodaje si´ art. 19awbrzmieniu: „Art. 19a. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, o której mowa w art. 16, stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z2007 155, 1095, zpóên. zm. ).”.
+**Art. 12.** W ustawie z dnia 20 paêdziernika 1994 o specjalnych strefach ekonomicznych (Dz. U. z2007 42, 274 z2008 118, 746) po art. 19 dodaje się art. 19awbrzmieniu: ŃArt. 19a. Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 16, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 13.** Wustawie zdnia 29 czerwca 1995 ostatystyce publicznej (Dz. U. 88, 439, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 13.** Wustawie zdnia 29 czerwca 1995 ostatystyce publicznej (Dz. U. 88, 439, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 14.** W ustawie z dnia 13 paêdziernika 1995 ozasadach ewidencji iidentyfikacji podatników ip∏atników (Dz. U. z 2004 269, 2681, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 14.** W ustawie z dnia 13 paêdziernika 1995 ozasadach ewidencji iidentyfikacji podatników ipłatników (Dz. U. z 2004 269, 2681, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 15.** W ustawie z dnia 13 wrzeÊnia 1996 o utrzymaniu czystoÊci i porzàdku w gminach (Dz. U. z2005 236, 2008, z2006 144, 1042 z 2008 223, 1464) wart. 8bwprowadza si´ nast´pujàce zmiany:
+**Art. 15.** W ustawie z dnia 13 września 1996 o utrzymaniu czystości i porządku w gminach (Dz. U. z2005 236, 2008, z2006 144, 1042 z 2008 223, 1464) wart. 8bwprowadza się następujące zmiany:
 
-**Art. 16.** Wustawie zdnia 20 czerwca 1997 Prawo o ruchu drogowym (Dz. U. z 2005 108, 908, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 16.** Wustawie zdnia 20 czerwca 1997 Prawo o ruchu drogowym (Dz. U. z 2005 108, 908, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 17.** Wustawie zdnia 20 sierpnia 1997 oKrajowym Rejestrze Sàdowym (Dz. U. z 2007 168, 1186 z 2008 141, 888) wprowadza si´ nast´pujàce zmiany:
+**Art. 17.** Wustawie zdnia 20 sierpnia 1997 oKrajowym Rejestrze Sądowym (Dz. U. z 2007 168, 1186 z 2008 141, 888) wprowadza się następujące zmiany:
 
-**Art. 18.** W ustawie z dnia 21 sierpnia 1997 oochronie zwierzàt (Dz. U. z2003 106, 1002, z póên. zm. wiednio do: ) w art. 34a dodaje si´ ust. 5 w brzmieniu: ——————— „5. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
+**Art. 18.** W ustawie z dnia 21 sierpnia 1997 oochronie zwierząt (Dz. U. z2003 106, 1002, z póên. zm. wiednio do: ) w art. 34a dodaje się ust. 5 w brzmieniu: ——————— Ń5. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 19.** W ustawie z dnia 28 sierpnia 1997 o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2004 159, 1667, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 19.** W ustawie z dnia 28 sierpnia 1997 o organizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. z 2004 159, 1667, z póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 204e.**
 
-1. Kontrola przeprowadzana jest wsiedzibie kontrolowanego przedsi´biorcy albo podmiotu, lub w miejscu wykonywania dzia∏alnoÊci, wgodzinach pracy lub wczasie faktycznego wykonywania dzia∏alnoÊci przez kontrolowanego przedsi´biorc´ albo podmiot.
+1. Kontrola przeprowadzana jest wsiedzibie kontrolowanego przedsiębiorcy albo podmiotu, lub w miejscu wykonywania działalności, wgodzinach pracy lub wczasie faktycznego wykonywania działalności przez kontrolowanego przedsiębiorcę albo podmiot.
 
-2. Kontrola lub poszczególne czynnoÊci kontrolne, za zgodà kontrolowanego przedsi´biorcy albo podmiotu, mogà byç przeprowadzane równie˝ w siedzibie organu, je˝eli mo˝e to usprawniç prowadzenie kontroli.
+2. Kontrola lub poszczególne czynności kontrolne, za zgodą kontrolowanego przedsiębiorcy albo podmiotu, mogą być przeprowadzane również w siedzibie organu, jeżeli może to usprawnić prowadzenie kontroli.
 
-3. Kontrolowany przedsi´biorca albo podmiot zapewnia kontrolujàcym warunki i Êrodki niezb´dne do sprawnego przeprowadzenia kontroli, a w szczególnoÊci udost´pnia urzàdzenia techniczne oraz, wmiar´ mo˝liwoÊci, oddzielne pomieszczenia zodpowiednim wyposa˝eniem.
+3. Kontrolowany przedsiębiorca albo podmiot zapewnia kontrolującym warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, a w szczególności udostępnia urządzenia techniczne oraz, wmiarę możliwości, oddzielne pomieszczenia zodpowiednim wyposażeniem.
 
-4. Kontrolowany przedsi´biorca albo kierownik podmiotu lub upowa˝niona przez nich osoba mo˝e uczestniczyç wczynnoÊciach, októrych mowa wart. 204aust. 3 pkt 3.
+4. Kontrolowany przedsiębiorca albo kierownik podmiotu lub upoważniona przez nich osoba może uczestniczyć wczynnościach, októrych mowa wart. 204aust. 3 pkt 3.
 
-5. Wokresie trwania kontroli kontrolowany przedsi´biorca albo podmiot wype∏nia obowiàzki, o których mowa w art. 204a ust. 3, w terminach iformach wskazanych przez kierujàcego kontrolà lub w jego zast´pstwie innego kontrolujàcego.
+5. Wokresie trwania kontroli kontrolowany przedsiębiorca albo podmiot wypełnia obowiązki, o których mowa w art. 204a ust. 3, w terminach iformach wskazanych przez kierującego kontrolą lub w jego zastępstwie innego kontrolującego.
 
 **Art. 204f.**
 
-1. Ustaleƒ kontroli dokonuje si´ na podstawie dowodów.
+1. Ustaleń kontroli dokonuje się na podstawie dowodów.
 
-2. Do dowodów zalicza si´:
+2. Do dowodów zalicza się:
 
 - **1)** dokumenty;
-- **2)** dane i informacje umieszczone w systemach informatycznych kontrolowanego przedsi´biorcy albo podmiotu;
+- **2)** dane i informacje umieszczone w systemach informatycznych kontrolowanego przedsiębiorcy albo podmiotu;
 - **3)** informacje udzielone przez osoby, o których mowa w art. 204a ust. 3 pkt 3;
-- **4)** oÊwiadczenia osób trzecich;
-- **5)** wyniki ogl´dzin;
-- **6)** inne materia∏y, które mogà przyczyniç si´ do stwierdzenia stanu faktycznego w zakresie obj´tym kontrolà.
+- **4)** oświadczenia osób trzecich;
+- **5)** wyniki oględzin;
+- **6)** inne materiały, które mogą przyczynić się do stwierdzenia stanu faktycznego w zakresie objętym kontrolą.
 
-3. Informacje pisemne sporzàdzane podpisane przez osoby upowa˝nione do ich sporzàdzania. W przypadku odmowy podpisania kontrolujàcy sporzàdza stosownà adnotacj´.
+3. Informacje pisemne sporządzane podpisane przez osoby upoważnione do ich sporządzania. W przypadku odmowy podpisania kontrolujący sporządza stosowną adnotację.
 
-4. ZgodnoÊç z orygina∏em odpisów, kserokopii i wyciàgów z dokumentów potwierdza osoba upowa˝niona do reprezentowania kontrolowanego przedsi´biorcy albo podmiotu.
+4. Zgodność z oryginałem odpisów, kserokopii i wyciągów z dokumentów potwierdza osoba upoważniona do reprezentowania kontrolowanego przedsiębiorcy albo podmiotu.
 
-5. W razie niebezpieczeƒstwa utraty dowodów kierujàcy kontrolà lub w jego zast´pstwie inny kontrolujàcy mo˝e wskazaç sposób zabezpieczenia dowodów przez przechowywanie ich w miejscu prowadzenia dzia∏alnoÊci przez kontrolowanego przedsi´biorc´ albo podmiot w oddzielnym, zamkni´tym i opiecz´towanym pomieszczeniu.
+5. W razie niebezpieczeństwa utraty dowodów kierujący kontrolą lub w jego zastępstwie inny kontrolujący może wskazać sposób zabezpieczenia dowodów przez przechowywanie ich w miejscu prowadzenia działalności przez kontrolowanego przedsiębiorcę albo podmiot w oddzielnym, zamkniętym i opieczętowanym pomieszczeniu.
 
-6. Ozwolnieniu dowodów spod zabezpieczenia decyduje kierujàcy kontrolà lub w jego zast´pstwie inny kontrolujàcy.
+6. Ozwolnieniu dowodów spod zabezpieczenia decyduje kierujący kontrolą lub w jego zastępstwie inny kontrolujący.
 
 **Art. 204g.**
 
-1. Osoba przeprowadzajàca kontrol´ jest obowiàzana zdokonanych czynnoÊci sporzàdziç ipodpisaç protokó∏ kontroli. Protokó∏ podpisuje kontrolowany przedsi´biorca albo podmiot, albo osoba upowa˝niona do ich reprezentowania.
+1. Osoba przeprowadzająca kontrolę jest obowiązana zdokonanych czynności sporządzić ipodpisać protokół kontroli. Protokół podpisuje kontrolowany przedsiębiorca albo podmiot, albo osoba upoważniona do ich reprezentowania.
 
-2. Protokó∏ zawiera wszczególnoÊci:
+2. Protokół zawiera wszczególności:
 
-- **1)** firm´ i adres kontrolowanego przedsi´biorcy albo nazw´ i siedzib´ kontrolowanego podmiotu;
-- **2)** imiona i nazwiska stanowiska s∏u˝bowe kontrolujàcych;
-- **3)** wskazanie osoby kierujàcej kontrolà;
-- **4)** numer i dat´ upowa˝nienia do przeprowadzenia kontroli;
-- **5)** imiona i nazwiska stanowiska s∏u˝bowe osób sk∏adajàcych oÊwiadczenia udzielajàcych informacji wtoku kontroli;
-- **6)** okreÊlenie przedmiotu i zakresu kontroli;
-- **7)** opis dokonanych czynnoÊci ustalenia stanu faktycznego;
-- **8)** wzmiank´ o poinformowaniu podmiotu kontrolowanego o jego prawach iobowiàzkach, przez pouczenie o prawie, sposobie i terminie zg∏oszenia zastrze˝eƒ do ustaleƒ zawartych wprotokole kontroli;
-- **9)** wykaz za∏àczników z podaniem
+- **1)** firmę i adres kontrolowanego przedsiębiorcy albo nazwę i siedzibę kontrolowanego podmiotu;
+- **2)** imiona i nazwiska stanowiska służbowe kontrolujących;
+- **3)** wskazanie osoby kierującej kontrolą;
+- **4)** numer i datę upoważnienia do przeprowadzenia kontroli;
+- **5)** imiona i nazwiska stanowiska służbowe osób składających oświadczenia udzielających informacji wtoku kontroli;
+- **6)** określenie przedmiotu i zakresu kontroli;
+- **7)** opis dokonanych czynności ustalenia stanu faktycznego;
+- **8)** wzmiankę o poinformowaniu podmiotu kontrolowanego o jego prawach iobowiązkach, przez pouczenie o prawie, sposobie i terminie zgłoszenia zastrzeżeń do ustaleń zawartych wprotokole kontroli;
+- **9)** wykaz załączników z podaniem
 
 **Art. 204h.**
 
-1. Protokó∏ kontroli sporzàdza si´ w dwóch jednobrzmiàcych egzemplarzach, z których jeden egzemplarz kierujàcy kontrolà, lub w jego zast´pstwie inny kontrolujàcy, przekazuje kontrolowanemu przedsi´biorcy albo podmiotowi.
+1. Protokół kontroli sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden egzemplarz kierujący kontrolą, lub w jego zastępstwie inny kontrolujący, przekazuje kontrolowanemu przedsiębiorcy albo podmiotowi.
 
-2. Osoba upowa˝niona do reprezentowania kontrolowanego przedsi´biorcy albo podmiotu potwierdza odbiór protoko∏u, umieszczajàc pisemne oÊwiadczenie wprotokole.
+2. Osoba upoważniona do reprezentowania kontrolowanego przedsiębiorcy albo podmiotu potwierdza odbiór protokołu, umieszczając pisemne oświadczenie wprotokole.
 
-3. Kierujàcy kontrolà lub w jego zast´pstwie inny kontrolujàcy kontrolowany przedsi´biorca albo podmiot, albo osoba przez nich upowa˝niona, parafujà ka˝dà stron´ protoko∏u.
+3. Kierujący kontrolą lub w jego zastępstwie inny kontrolujący kontrolowany przedsiębiorca albo podmiot, albo osoba przez nich upoważniona, parafują każdą stronę protokołu.
 
-4. Je˝eli kontrolowany przedsi´biorca albo podmiot odmawia lub uchyla si´ od odebrania protoko∏u kontroli, organ nadzoru wzywa pisemnie podmiot kontrolowany do z∏o˝enia oÊwiadczenia o odbiorze protoko∏u, wyznaczajàc termin nie krótszy ni˝ 7 dni na dokonanie tej czynnoÊci. W przypadku bezskutecznego up∏ywu wyznaczonego terminu protokó∏ uwa˝a si´ za odebrany z up∏ywem ostatniego dnia tego terminu.
+4. Jeżeli kontrolowany przedsiębiorca albo podmiot odmawia lub uchyla się od odebrania protokołu kontroli, organ nadzoru wzywa pisemnie podmiot kontrolowany do złożenia oświadczenia o odbiorze protokołu, wyznaczając termin nie krótszy niż 7 dni na dokonanie tej czynności. W przypadku bezskutecznego upływu wyznaczonego terminu protokół uważa się za odebrany z upływem ostatniego dnia tego terminu.
 
-5. Po potwierdzeniu odbioru protoko∏u kontroli nie dokonuje si´ wprotokole ˝adnych poprawek idopisków.
+5. Po potwierdzeniu odbioru protokołu kontroli nie dokonuje się wprotokole żadnych poprawek idopisków.
 
-6. Oczywiste omy∏ki pisarskie lub rachunkowe prostuje kierujàcy kontrolà lub w jego zast´pstwie inny kontrolujàcy, parafujàc sprostowania. Organ nadzoru o sprostowaniu oczywistych omy∏ek informuje pisemnie podmiot kontrolowany.
+6. Oczywiste omyłki pisarskie lub rachunkowe prostuje kierujący kontrolą lub w jego zastępstwie inny kontrolujący, parafując sprostowania. Organ nadzoru o sprostowaniu oczywistych omyłek informuje pisemnie podmiot kontrolowany.
 
 **Art. 204i.**
 
-1. W terminie 14 dni od dnia potwierdzenia odbioru protoko∏u kontroli kontrolowany przedsi´biorca albo podmiot mo˝e zg∏osiç organowi nadzoru pisemne, umotywowane zastrze˝enia i uwagi do treÊci protoko∏u stanowisko w sprawach obj´tych zakresem kontroli.
+1. W terminie 14 dni od dnia potwierdzenia odbioru protokołu kontroli kontrolowany przedsiębiorca albo podmiot może zgłosić organowi nadzoru pisemne, umotywowane zastrzeżenia i uwagi do treści protokołu stanowisko w sprawach objętych zakresem kontroli.
 
-2. O sposobie rozpatrzenia zastrze˝eƒ organ nadzoru informuje kontrolowanego przedsi´biorc´ albo podmiot w terminie 14 dni od dnia ich dor´czenia.
+2. O sposobie rozpatrzenia zastrzeżeń organ nadzoru informuje kontrolowanego przedsiębiorcę albo podmiot w terminie 14 dni od dnia ich doręczenia.
 
 **Art. 204j.**
 
-1. Po podpisaniu protoko∏u kontroli, organ nadzoru powiadamia pisemnie kontrolowanego przedsi´biorc´ albo podmiot o stwierdzonych nieprawid∏owoÊciach i wyznacza ter2. W przypadku stwierdzenia w wyniku kontroli ra˝àcych nieprawid∏owoÊci, organ nadzoru mo˝e na∏o˝yç na kontrolowanego przedsi´biorc´ albo podmiot kar´ pieni´˝nà w wysokoÊci do 500 000 z∏, bezpoÊrednio po ich stwierdzeniu.”.
+1. Po podpisaniu protokołu kontroli, organ nadzoru powiadamia pisemnie kontrolowanego przedsiębiorcę albo podmiot o stwierdzonych nieprawidłowościach i wyznacza ter2. W przypadku stwierdzenia w wyniku kontroli rażących nieprawidłowości, organ nadzoru może nałożyć na kontrolowanego przedsiębiorcę albo podmiot karę pieniężną w wysokości do 500 000 zł, bezpośrednio po ich stwierdzeniu.”.
 
-**Art. 20.** Wustawie zdnia 29 sierpnia 1997 Prawo bankowe (Dz. U. z 2002 72, 665, z póên. zm. ) wart. 133 wprowadza si´ nast´pujàce zmiany:
+**Art. 20.** Wustawie zdnia 29 sierpnia 1997 Prawo bankowe (Dz. U. z 2002 72, 665, z póên. zm. ) wart. 133 wprowadza się następujące zmiany:
 
-**Art. 21.** Wustawie zdnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. z 2005 8, 60, zpóên. zm. lowanemu lub osobie, o której mowa w art. 281a, albo osobie wymienionej wart. 284 § 2, gdy czynnoÊci kontrolne sà niezb´dne dla przeciwdzia∏ania pope∏nieniu przest´pstwa skarbowego lub wykroczenia skarbowego lub zabezpieczenia dowodów jego pope∏nienia.
+**Art. 21.** Wustawie zdnia 29 sierpnia 1997 Ordynacja podatkowa (Dz. U. z 2005 8, 60, zpóên. zm. lowanemu lub osobie, o której mowa w art. 281a, albo osobie wymienionej wart. 284 § 2, gdy czynności kontrolne są niezbędne dla przeciwdziałania popełnieniu przestępstwa skarbowego lub wykroczenia skarbowego lub zabezpieczenia dowodów jego popełnienia.
 
-**Art. 22.** W ustawie z dnia 13 paêdziernika 1998 o systemie ubezpieczeƒ spo∏ecznych (Dz. U. z 2007 11, 74, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 22.** W ustawie z dnia 13 paêdziernika 1998 o systemie ubezpieczeń społecznych (Dz. U. z 2007 11, 74, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 23.** Wustawie zdnia 24 lipca 1999 oS∏u˝bie Celnej (Dz. U. z 2004 156, 1641, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 23.** Wustawie zdnia 24 lipca 1999 oSłużbie Celnej (Dz. U. z 2004 156, 1641, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 24.** W ustawie z dnia 19 listopada 1999 Prawo dzia∏alnoÊci gospodarczej (Dz. U. 101, 1178, z póên. zm. dotyczy to sytuacji, gdy wniosek dotyczy zmiany danych nieobj´tych wpisem do ewidencji dzia∏alnoÊci gospodarczej.”,
+**Art. 24.** W ustawie z dnia 19 listopada 1999 Prawo działalności gospodarczej (Dz. U. 101, 1178, z póên. zm. dotyczy to sytuacji, gdy wniosek dotyczy zmiany danych nieobjętych wpisem do ewidencji działalności gospodarczej.”,
 
-**Art. 25.** Wustawie zdnia 29 listopada 2000 oobrocie zzagranicà towarami, technologiami ius∏ugami o znaczeniu strategicznym dla bezpieczeƒstwa paƒstwa, a tak˝e dla utrzymania mi´dzynarodowego pokoju i bezpieczeƒstwa (Dz. U. z 2004 229,
+**Art. 25.** Wustawie zdnia 29 listopada 2000 oobrocie zzagranicą towarami, technologiami iusługami o znaczeniu strategicznym dla bezpieczeństwa państwa, a także dla utrzymania międzynarodowego pokoju i bezpieczeństwa (Dz. U. z 2004 229,
 
-**Art. 26.** W ustawie z dnia 29 listopada 2000 Prawo atomowe (Dz. U. z 2007 42, 276 z 2008 93, 583 i 227, 1505) art. 70 otrzymuje brzmienie: „Art. 70. 1. W post´powaniu w sprawach nadzoru i kontroli stosuje si´ przepisy Kodeksu post´powania administracyjnego. 2. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z2007 155, 1095, zpóên. zm. ).”.
+**Art. 26.** W ustawie z dnia 29 listopada 2000 Prawo atomowe (Dz. U. z 2007 42, 276 z 2008 93, 583 i 227, 1505) art. 70 otrzymuje brzmienie: ŃArt. 70. 1. W postępowaniu w sprawach nadzoru i kontroli stosuje się przepisy Kodeksu postępowania administracyjnego. 2. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 27.** W ustawie z dnia 15 grudnia 2000 o Inspekcji Handlowej (Dz. U. z 2001 4, 25, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 27.** W ustawie z dnia 15 grudnia 2000 o Inspekcji Handlowej (Dz. U. z 2001 4, 25, zpóên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 26b.**
 
-1. Postanowienie dotyczàce zabezpieczenia dowodów powinno zawieraç okreÊlenie terminu zabezpieczenia iloÊç niezb´dnych dowodów podlegajàcych zabezpieczeniu dla celów dowodowych.
+1. Postanowienie dotyczące zabezpieczenia dowodów powinno zawierać określenie terminu zabezpieczenia ilość niezbędnych dowodów podlegających zabezpieczeniu dla celów dowodowych.
 
-2. Je˝eli jest to mo˝liwe, termin zabezpieczenia produktów powinien byç okreÊlany z uwzgl´dnieniem terminów gwarancji, terminów przydatnoÊci do spo˝ycia innych terminów okreÊlajàcych wa˝noÊç lub trwa∏oÊç produktu.
+2. Jeżeli jest to możliwe, termin zabezpieczenia produktów powinien być określany z uwzględnieniem terminów gwarancji, terminów przydatności do spożycia innych terminów określających ważność lub trwałość produktu.
 
-**Art. 26c.** Wojewódzki inspektor uchyla zabezpieczenie dowodów, je˝eli sta∏o si´ bezprzedmiotowe, z zastrze˝eniem art. 26 ust. 2.”;
+**Art. 26c.** Wojewódzki inspektor uchyla zabezpieczenie dowodów, jeżeli stało się bezprzedmiotowe, z zastrzeżeniem art. 26 ust. 2.”;
 
-**Art. 28.** W ustawie z dnia 21 grudnia 2000 o jakoÊci handlowej artyku∏ów rolno-spo˝ywczych (Dz. U. z2005 187, 1577, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 28.** W ustawie z dnia 21 grudnia 2000 o jakości handlowej artykułów rolno-spożywczych (Dz. U. z2005 187, 1577, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 29.** W ustawie z dnia 30 marca 2001 o kosmetykach (Dz. U. 42, 473, z póên. zm. ) wart. 13 dodaje si´ ust. 6 wbrzmieniu: „6. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
+**Art. 29.** W ustawie z dnia 30 marca 2001 o kosmetykach (Dz. U. 42, 473, z póên. zm. ) wart. 13 dodaje się ust. 6 wbrzmieniu: Ń6. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 30.** Wustawie zdnia 27 kwietnia 2001 oodpadach (Dz. U. z2007 39, 251, z póên. zm. ) po art. 37 dodaje si´ art. 37awbrzmieniu: „Art. 37a. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, z póên. zm. ).”.
+**Art. 30.** Wustawie zdnia 27 kwietnia 2001 oodpadach (Dz. U. z2007 39, 251, z póên. zm. ) po art. 37 dodaje się art. 37awbrzmieniu: ŃArt. 37a. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, z póên. zm. ).”.
 
-**Art. 31.** Wustawie zdnia 11 maja 2001 Prawo o miarach (Dz. U. z 2004 243, 2441, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 31.** Wustawie zdnia 11 maja 2001 Prawo o miarach (Dz. U. z 2004 243, 2441, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 22b.** Przeprowadzenie kontroli ma na celu ustalenie stanu faktycznego w zakresie przedmiotu kontroli, rzetelne jego udokumentowanie i dokonanie oceny kontrolowanego pod wzgl´dem przestrzegania przepisów ustawy iustawy zdnia 6 wrzeÊnia 2001 o towarach paczkowanych.
+**Art. 22b.** Przeprowadzenie kontroli ma na celu ustalenie stanu faktycznego w zakresie przedmiotu kontroli, rzetelne jego udokumentowanie i dokonanie oceny kontrolowanego pod względem przestrzegania przepisów ustawy iustawy zdnia 6 września 2001 o towarach paczkowanych.
 
 **Art. 22c.**
 
-1. Kontrola przedsi´biorców wprowadzajàcych do obrotu przyrzàdy pomiarowe lub posiadajàcych upowa˝nienia lub zezwolenia albo wykonujàcych dzia∏alnoÊç bez takich upowa˝nieƒ lub zezwoleƒ, paczkujàcych i producentów butelek miarowych cych prawnej kontroli metrologicz- przeprowadzana jest po okazaniu lenej; gitymacji s∏u˝bowej kontrolujàcego dostarczeniu upowa˝nienia do
+1. Kontrola przedsiębiorców wprowadzających do obrotu przyrządy pomiarowe lub posiadających upoważnienia lub zezwolenia albo wykonujących działalność bez takich upoważnień lub zezwoleń, paczkujących i producentów butelek miarowych cych prawnej kontroli metrologicz- przeprowadzana jest po okazaniu lenej; gitymacji służbowej kontrolującego dostarczeniu upoważnienia do
 
-- **5)** przestrzeganie obowiàzku posiada- przeprowadzenia kontroli dzia∏alnoÊci nia udzielonych przez Prezesa gospodarczej przedsi´biorcy. G∏ównego Urz´du Miar upowa˝nieƒ do legalizacji pierwotnej lub 2. Kontrola u˝ytkowników przyrzàdów legalizacji ponownej przyrzàdów pomiarowych, b´dàcych osobami pomiarowych, zwanych dalej fizycznymi, prawnymi lub jednostka„upowa˝nieniami”, wyda- mi organizacyjnymi nieposiadajàcynych przez Prezesa G∏ównego mi osobowoÊci prawnej w zakresie, Urz´du Miar zezwoleƒ na prowadzenie dzia∏alnoÊci gospodarczej w zakresie napraw lub instalacji sprawdzania urzàdzeƒ rejestrujàcych stosowanych w transo którym mowa w art. 22a ust. 1 pkt 1—4, przeprowadzana jest na podstawie pisemnego, imiennego upowa˝nienia.
+- **5)** przestrzeganie obowiązku posiada- przeprowadzenia kontroli działalności nia udzielonych przez Prezesa gospodarczej przedsiębiorcy. Głównego Urzędu Miar upoważnień do legalizacji pierwotnej lub 2. Kontrola użytkowników przyrządów legalizacji ponownej przyrządów pomiarowych, będących osobami pomiarowych, zwanych dalej fizycznymi, prawnymi lub jednostkaŃupoważnieniami”, wyda- mi organizacyjnymi nieposiadającynych przez Prezesa Głównego mi osobowości prawnej w zakresie, Urzędu Miar zezwoleń na prowadzenie działalności gospodarczej w zakresie napraw lub instalacji sprawdzania urządzeń rejestrujących stosowanych w transo którym mowa w art. 22a ust. 1 pkt 1—4, przeprowadzana jest na podstawie pisemnego, imiennego upoważnienia.
 
-2. Organ administracji miar zarzàdzajàcy kontrole ustala sk∏ad zespo∏u, októrym mowa wust. 1, wyznacza przewodniczàcego.
+2. Organ administracji miar zarządzający kontrole ustala skład zespołu, októrym mowa wust. 1, wyznacza przewodniczącego.
 
 **Art. 22e.**
 
-1. Kontrolujàcy podlega wy∏àczeniu od udzia∏u w kontroli, je˝eli wyniki kontroli mogà dotyczyç jego roszczeƒ, praw lub obowiàzków albo roszczeƒ, praw i obowiàzków jego ma∏˝onka lub osoby pozostajàcej z nim faktycznie we wspólnym po˝yciu, krewnych i powinowatych do drugiego stopnia bàdê osób zwiàzanych z nim z tytu∏u przysposobienia, opieki lub kurateli.
+1. Kontrolujący podlega wyłączeniu od udziału w kontroli, jeżeli wyniki kontroli mogą dotyczyć jego roszczeń, praw lub obowiązków albo roszczeń, praw i obowiązków jego małżonka lub osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia bądê osób związanych z nim z tytułu przysposobienia, opieki lub kurateli.
 
-2. Kontrolujàcy mo˝e byç wy∏àczony równie˝ w razie stwierdzenia przez organ administracji miar zarzàdzajàcy kontrol´ innych przyczyn, które mogà mieç wp∏yw na bezstronnoÊç jego post´powania.
+2. Kontrolujący może być wyłączony również w razie stwierdzenia przez organ administracji miar zarządzający kontrolę innych przyczyn, które mogą mieć wpływ na bezstronność jego postępowania.
 
-3. O wy∏àczeniu, z urz´du lub na wniosek kontrolowanego lub kontrolujàcego, decyduje organ administracji miar zarzàdzajàcy kontrol´, który mo˝e wyznaczyç innà osob´ wcelu przeprowadzenia dalszych czynnoÊci kontrolnych.
+3. O wyłączeniu, z urzędu lub na wniosek kontrolowanego lub kontrolującego, decyduje organ administracji miar zarządzający kontrolę, który może wyznaczyć inną osobę wcelu przeprowadzenia dalszych czynności kontrolnych.
 
 **Art. 22f.**
 
-1. CzynnoÊci kontrolne mogà byç przeprowadzane:
+1. Czynności kontrolne mogą być przeprowadzane:
 
-- **1)** w miejscach, w których powinny lub mogà byç stosowane lub przechowywane wstanie gotowoÊci do u˝ycia przyrzàdy pomiarowe podlegajàce prawnej kontroli metrologicznej;
-- **2)** na terenie nieruchomoÊci lub pomieszczeƒ, wktórych:
-    - **a)** znajdujà si´ wzorce jednostek miar lub dokumenty dotyczàce tych wzorców,
-    - **b)** jest wykonywana dzia∏alnoÊç w zakresie obj´tym upowa˝nieniami lub zezwoleniami,
-    - **c)** prowadzona jest dzia∏alnoÊç w zakresie paczkowania produktów i produkcji butelek miarowych.
+- **1)** w miejscach, w których powinny lub mogą być stosowane lub przechowywane wstanie gotowości do użycia przyrządy pomiarowe podlegające prawnej kontroli metrologicznej;
+- **2)** na terenie nieruchomości lub pomieszczeń, wktórych:
+    - **a)** znajdują się wzorce jednostek miar lub dokumenty dotyczące tych wzorców,
+    - **b)** jest wykonywana działalność w zakresie objętym upoważnieniami lub zezwoleniami,
+    - **c)** prowadzona jest działalność w zakresie paczkowania produktów i produkcji butelek miarowych.
 
-2. Kontrole przeprowadza si´ w godzinach pracy lub w czasie faktycznego wykonywania dzia∏alnoÊci przez kontrolowanego.
+2. Kontrole przeprowadza się w godzinach pracy lub w czasie faktycznego wykonywania działalności przez kontrolowanego.
 
-**Art. 22g.** W trakcie wykonywania czynnoÊci kontrolnych kontrolujàcy podlegajà przepisom o bezpieczeƒstwie i higienie pracy obowiàzujàcym ukontrolowanego.
+**Art. 22g.** W trakcie wykonywania czynności kontrolnych kontrolujący podlegają przepisom o bezpieczeństwie i higienie pracy obowiązującym ukontrolowanego.
 
 **Art. 22h.**
 
-1. Kontrolowany jest obowiàzany do zapewnienia kontrolujàcym warunków niezb´dnych do przeprowadzenia
+1. Kontrolowany jest obowiązany do zapewnienia kontrolującym warunków niezbędnych do przeprowadzenia
 
-- **2)** udost´pniania na ˝àdanie kontrolujàcych innych ni˝ okreÊlone wart. 22aust. 2 pkt 2 dokumentów materia∏ów przewidzianych zakresem kontroli;
-- **3)** sporzàdzania uwierzytelnionych odpisów lub wyciàgów z udost´pnianych dokumentów;
-- **4)** zapewnienia nienaruszalnoÊci zabezpieczonych przez kontrolujàcych przyrzàdów pomiarowych pozostawionych na przechowanie ukontrolowanego.
+- **2)** udostępniania na żądanie kontrolujących innych niż określone wart. 22aust. 2 pkt 2 dokumentów materiałów przewidzianych zakresem kontroli;
+- **3)** sporządzania uwierzytelnionych odpisów lub wyciągów z udostępnianych dokumentów;
+- **4)** zapewnienia nienaruszalności zabezpieczonych przez kontrolujących przyrządów pomiarowych pozostawionych na przechowanie ukontrolowanego.
 
-2. Kontrolujàcy sà uprawnieni do wst´pu na teren nieruchomoÊci lub pomieszczeƒ, októrych mowa wart. 22f ust. 1, bez potrzeby uzyskiwania przepustki nie podlegajà rewizji osobistej.
+2. Kontrolujący są uprawnieni do wstępu na teren nieruchomości lub pomieszczeń, októrych mowa wart. 22f ust. 1, bez potrzeby uzyskiwania przepustki nie podlegają rewizji osobistej.
 
-**Art. 22i.** Kontrolujàcy dokonujà ustaleƒ na podstawie zebranych w trakcie kontroli informacji iwyjaÊnieƒ uzyskanych od kontrolowanego i jego pracowników dowodów, w szczególnoÊci dokumentów i zabezpieczonych przyrzàdów pomiarowych.
+**Art. 22i.** Kontrolujący dokonują ustaleń na podstawie zebranych w trakcie kontroli informacji iwyjaśnień uzyskanych od kontrolowanego i jego pracowników dowodów, w szczególności dokumentów i zabezpieczonych przyrządów pomiarowych.
 
 **Art. 22j.**
 
-1. W przypadku stwierdzenia lub podejrzenia, ˝e:
+1. W przypadku stwierdzenia lub podejrzenia, że:
 
-- **1)** przyrzàd pomiarowy podlegajàcy prawnej kontroli metrologicznej nie spe∏nia wymagaƒ, w szczególnoÊci b∏´dy przyrzàdu pomiarowego przekraczajà granice b∏´dów granicznych dopuszczalnych,
-- **2)** przyrzàd pomiarowy stosowany jest wwarunkach innych ni˝ warunki jego w∏aÊciwego stosowania,
-- **3)** dowody legalizacji poÊwiadczajàce dokonanie legalizacji pierwotnej lub legalizacji ponownej zosta∏y wydane przez podmioty nieposiadajàce upowa˝nieƒ albo zosta∏y zniszczone lub uszkodzone kontrolujàcy mogà zastosowaç zabezpieczenie przyrzàdu pomiarowego w celu zachowania go w niezmienionym stanie.
+- **1)** przyrząd pomiarowy podlegający prawnej kontroli metrologicznej nie spełnia wymagań, w szczególności błędy przyrządu pomiarowego przekraczają granice błędów granicznych dopuszczalnych,
+- **2)** przyrząd pomiarowy stosowany jest wwarunkach innych niż warunki jego właściwego stosowania,
+- **3)** dowody legalizacji poświadczające dokonanie legalizacji pierwotnej lub legalizacji ponownej zostały wydane przez podmioty nieposiadające upoważnień albo zostały zniszczone lub uszkodzone kontrolujący mogą zastosować zabezpieczenie przyrządu pomiarowego w celu zachowania go w niezmienionym stanie.
 
-2. Zastosowanie zabezpieczenia, o którym mowa w ust. 1, powoduje wy∏àczenie przyrzàdu pomiarowego ze stosowania.
+2. Zastosowanie zabezpieczenia, o którym mowa w ust. 1, powoduje wyłączenie przyrządu pomiarowego ze stosowania.
 
-3. Zabezpieczenia przyrzàdów pomiarowych iinnych dowodów dokonuje si´ poprzez:
+3. Zabezpieczenia przyrządów pomiarowych iinnych dowodów dokonuje się poprzez:
 
-- **1)** na∏o˝enie os∏on lub piecz´ci;
-- **2)** przechowywanie za pokwitowaniem u kontrolowanego w oddzielnym zamkni´tym i opiecz´towa4. Zabezpieczenia, o którym mowa wust. 3, dokonuje si´ na czas niezb´dny do: przeprowadzenia czynnoÊci majàcych na celu ustalenie iwyjaÊnienie okolicznoÊci sprawy b´dàcej przedmiotem kontroli albo usuni´cia nieprawid∏owoÊci stwierdzonych podczas kontroli, nie d∏u˝ej jednak ni˝ na okres 2 miesi´cy.
+- **1)** nałożenie osłon lub pieczęci;
+- **2)** przechowywanie za pokwitowaniem u kontrolowanego w oddzielnym zamkniętym i opieczętowa4. Zabezpieczenia, o którym mowa wust. 3, dokonuje się na czas niezbędny do: przeprowadzenia czynności mających na celu ustalenie iwyjaśnienie okoliczności sprawy będącej przedmiotem kontroli albo usunięcia nieprawidłowości stwierdzonych podczas kontroli, nie dłużej jednak niż na okres 2 miesięcy.
 
-5. W przypadku zastosowania przez kontrolujàcych zabezpieczeƒ, o których mowa w ust. 3, kontrolujàcy sporzàdzajà notatk´ zdok∏adnym opisem zastosowanych zabezpieczeƒ, która stanowi za∏àcznik do protoko∏u kontroli, o którym mowa w art. 22k ust. 1.
+5. W przypadku zastosowania przez kontrolujących zabezpieczeń, o których mowa w ust. 3, kontrolujący sporządzają notatkę zdokładnym opisem zastosowanych zabezpieczeń, która stanowi załącznik do protokołu kontroli, o którym mowa w art. 22k ust. 1.
 
 **Art. 22k.**
 
-1. Wyniki przeprowadzonej kontroli kontrolujàcy dokumentujà w protokole kontroli.
+1. Wyniki przeprowadzonej kontroli kontrolujący dokumentują w protokole kontroli.
 
-2. Protokó∏ kontroli sporzàdza si´ wdwóch egzemplarzach, zktórych je2. Organ administracji miar zarzàdzajàcy kontrol´ rozpatruje zastrze˝enia wterminie 14 dni od daty ich otrzymania izajmuje stanowisko wtej sprawie.
+2. Protokół kontroli sporządza się wdwóch egzemplarzach, zktórych je2. Organ administracji miar zarządzający kontrolę rozpatruje zastrzeżenia wterminie 14 dni od daty ich otrzymania izajmuje stanowisko wtej sprawie.
 
-3. Stanowisko organu administracji miar zarzàdzajàcego kontrol´ jest ostateczne i wraz z uzasadnieniem jest dor´czane kontrolowanemu.
+3. Stanowisko organu administracji miar zarządzającego kontrolę jest ostateczne i wraz z uzasadnieniem jest doręczane kontrolowanemu.
 
 **Art. 22n.**
 
-1. Kontrolowany jest obowiàzany, w terminie wyznaczonym w zaleceniach pokontrolnych, do poinformowania organu administracji miar zarzàdzajàcego kontrol´ o sposobie wykorzystania uwag i wykonania wniosków pokontrolnych podj´tych dzia∏aniach lub przyczynach niepodj´cia dzia∏aƒ majàcych na celu usuni´cie stwierdzonych nieprawid∏owoÊci.
+1. Kontrolowany jest obowiązany, w terminie wyznaczonym w zaleceniach pokontrolnych, do poinformowania organu administracji miar zarządzającego kontrolę o sposobie wykorzystania uwag i wykonania wniosków pokontrolnych podjętych działaniach lub przyczynach niepodjęcia działań mających na celu usunięcie stwierdzonych nieprawidłowości.
 
-2. W przypadku z∏o˝enia przez kontrolowanego zastrze˝eƒ, bieg terminu, den otrzymuje kontrolowany.
+2. W przypadku złożenia przez kontrolowanego zastrzeżeń, bieg terminu, den otrzymuje kontrolowany.
 
-3. Protokó∏ kontroli podpisujà kontrolujàcy i kontrolowany. W przypadku przeprowadzenia kontroli w obecnoÊci osoby upowa˝nionej przez kontrolujàcego albo innego pracownika kontrolowanego, lub w obecnoÊci przywo∏anego Êwiadka, protokó∏ podpisujà tak˝e te osoby.
+3. Protokół kontroli podpisują kontrolujący i kontrolowany. W przypadku przeprowadzenia kontroli w obecności osoby upoważnionej przez kontrolującego albo innego pracownika kontrolowanego, lub w obecności przywołanego świadka, protokół podpisują także te osoby.
 
-4. W przypadku odmowy podpisania protoko∏u kontroli przez kontrolowanego, kontrolujàcy powinien uczyniç adnotacj´ w tej sprawie w protokole kontroli.
+4. W przypadku odmowy podpisania protokołu kontroli przez kontrolowanego, kontrolujący powinien uczynić adnotację w tej sprawie w protokole kontroli.
 
-5. Odmowa podpisania protoko∏u kontroli przez kontrolowanego nie stanowi przeszkody do podpisania protoko∏u kontroli przez kontrolujàcych i nie wstrzymuje realizacji ustaleƒ kontroli.
+5. Odmowa podpisania protokołu kontroli przez kontrolowanego nie stanowi przeszkody do podpisania protokołu kontroli przez kontrolujących i nie wstrzymuje realizacji ustaleń kontroli.
 
 **Art. 22l.**
 
-1. Organ administracji miar zarzàdzajàcy kontrol´, w przypadku stwierdzenia nieprawid∏owoÊci, których nie usuni´to wtrakcie kontroli, sporzàdza zalecenia pokontrolne, które przekazuje kontrolowanemu.
+1. Organ administracji miar zarządzający kontrolę, w przypadku stwierdzenia nieprawidłowości, których nie usunięto wtrakcie kontroli, sporządza zalecenia pokontrolne, które przekazuje kontrolowanemu.
 
-2. Zalecenia pokontrolne zawierajà ocen´ kontrolowanej dzia∏alnoÊci, wynikajàcà zustaleƒ opisanych wprotokole kontroli, a tak˝e uwagi i wnioski zmierzajàce do usuni´cia stwierdzonych nieprawid∏owoÊci.
+2. Zalecenia pokontrolne zawierają ocenę kontrolowanej działalności, wynikającą zustaleń opisanych wprotokole kontroli, a także uwagi i wnioski zmierzające do usunięcia stwierdzonych nieprawidłowości.
 
 **Art. 22m.**
 
-1. Kontrolowany, wterminie 7 dni od daty otrzymania zaleceƒ pokontrolnych, mo˝e z∏o˝yç umotywowane zastrze˝enia do organu administracji miar zaoktórym mowa wust. 1, ulega zawieszeniu do czasu dor´czenia stanowiska, októrym mowa w art. 22m ust. 3.
+1. Kontrolowany, wterminie 7 dni od daty otrzymania zaleceń pokontrolnych, może złożyć umotywowane zastrzeżenia do organu administracji miar zaoktórym mowa wust. 1, ulega zawieszeniu do czasu doręczenia stanowiska, októrym mowa w art. 22m ust. 3.
 
-**Art. 22o.** Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”;
+**Art. 22o.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”;
 
-**Art. 32.** Wustawie zdnia 7 czerwca 2001 ozbiorowym zaopatrzeniu w wod´ i zbiorowym odprowadzaniu Êcieków (Dz. U. z 2006 123, 858 z 2007 147, 1033) w art. 18e dodaje si´ ust. 6 wbrzmieniu: „6. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorstwa wodociàgowo-kanalizacyjnego stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, z póên. zm. ).”.
+**Art. 32.** Wustawie zdnia 7 czerwca 2001 ozbiorowym zaopatrzeniu w wodę i zbiorowym odprowadzaniu ścieków (Dz. U. z 2006 123, 858 z 2007 147, 1033) w art. 18e dodaje się ust. 6 wbrzmieniu: Ń6. Do kontroli działalności gospodarczej przedsiębiorstwa wodociągowo-kanalizacyjnego stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, z póên. zm. ).”.
 
-**Art. 33.** Wustawie zdnia 22 czerwca 2001 owykonywaniu dzia∏alnoÊci gospodarczej w zakresie wytwarzania i obrotu materia∏ami wybuchowymi, bronià, amunicjà wyrobami itechnologià oprzeznaczeniu wojskowym lub policyjnym (Dz. U. 67, 679, zpóên. zm. ) art. 17aotrzymuje brzmienie: „Art. 17a. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, o której mowa w art. 6 ust. 1, stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
+**Art. 33.** Wustawie zdnia 22 czerwca 2001 owykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją wyrobami itechnologią oprzeznaczeniu wojskowym lub policyjnym (Dz. U. 67, 679, zpóên. zm. ) art. 17aotrzymuje brzmienie: ŃArt. 17a. Do kontroli działalności gospodarczej przedsiębiorcy, o której mowa w art. 6 ust. 1, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 34.** W ustawie z dnia 22 czerwca 2001 o organizmach genetycznie zmodyfikowanych (Dz. U. z2007 36, 233) wart. 11 wprowadza si´ nast´pujàce zmiany:
+**Art. 34.** W ustawie z dnia 22 czerwca 2001 o organizmach genetycznie zmodyfikowanych (Dz. U. z2007 36, 233) wart. 11 wprowadza się następujące zmiany:
 
-**Art. 35.** Wustawie zdnia 6 wrzeÊnia 2001 Prawo farmaceutyczne (Dz. U. z 2008 45, 271, 227, 1505 i 234, 1570) wprowadza si´ nast´pujàce zmiany:
+**Art. 35.** Wustawie zdnia 6 września 2001 Prawo farmaceutyczne (Dz. U. z 2008 45, 271, 227, 1505 i 234, 1570) wprowadza się następujące zmiany:
 
 **Art. 122c.**
 
-1. CzynnoÊci w ramach kontroli albo inspekcji dokonuje si´ w obecnoÊci kontrolowanego lub osoby przez niego upowa˝nionej, chyba ˝e kontrolowany zrezygnuje z prawa uczestniczenia wtych czynnoÊciach.
+1. Czynności w ramach kontroli albo inspekcji dokonuje się w obecności kontrolowanego lub osoby przez niego upoważnionej, chyba że kontrolowany zrezygnuje z prawa uczestniczenia wtych czynnościach.
 
-2. OÊwiadczenie o rezygnacji z prawa uczestniczenia w czynnoÊciach podejmowanych w ramach kontroli albo inspekcji jest sk∏adane na piÊmie. W razie odmowy z∏o˝enia oÊwiadczenia inspektor dokonuje odpowiedniej adnotacji wprotokole z kontroli albo w raporcie z inspekcji.
+2. Oświadczenie o rezygnacji z prawa uczestniczenia w czynnościach podejmowanych w ramach kontroli albo inspekcji jest składane na piśmie. W razie odmowy złożenia oświadczenia inspektor dokonuje odpowiedniej adnotacji wprotokole z kontroli albo w raporcie z inspekcji.
 
-3. Wprzypadku gdy kontrolowany zrezygnuje z prawa uczestniczenia w czynnoÊciach w ramach kontroli albo inspekcji, czynnoÊci tych dokonuje si´ w obecnoÊci przywo∏anego Êwiadka. Âwiadek nie musi byç obecny przy czynnoÊciach dotyczàcych przeprowadzania dowodu z ksiàg, ewidencji, zapisków lub innych dokumentów.
+3. Wprzypadku gdy kontrolowany zrezygnuje z prawa uczestniczenia w czynnościach w ramach kontroli albo inspekcji, czynności tych dokonuje się w obecności przywołanego świadka. Âwiadek nie musi być obecny przy czynnościach dotyczących przeprowadzania dowodu z ksiąg, ewidencji, zapisków lub innych dokumentów.
 
 **Art. 122d.**
 
-1. W trakcie kontroli albo inspekcji inspektor ma prawo do sporzàdzania dokumentacji równie˝ w formie dêwi´kowej, fotograficznej i filmowej.
+1. W trakcie kontroli albo inspekcji inspektor ma prawo do sporządzania dokumentacji również w formie dêwiękowej, fotograficznej i filmowej.
 
-2. Wkontroli albo inspekcji mogà braç udzia∏ biegli lub eksperci na podstawie imiennego upowa˝nienia wydanego odpowiednio przez wojewódzkiego inspektora farmaceutycznego albo G∏ównego Inspektora Farmaceutycznego.
+2. Wkontroli albo inspekcji mogą brać udział biegli lub eksperci na podstawie imiennego upoważnienia wydanego odpowiednio przez wojewódzkiego inspektora farmaceutycznego albo Głównego Inspektora Farmaceutycznego.
 
 **Art. 122e.**
 
 1. Przebieg kontroli albo inspekcji dokumentowany jest przez inspektora odpowiednio w protokole z kontroli albo raporcie zinspekcji.
 
-2. Protokó∏ z kontroli albo raport z inspekcji zawierajà w szczególnoÊci:
+2. Protokół z kontroli albo raport z inspekcji zawierają w szczególności:
 
 - **1)** wskazanie kontrolowanego;
-- **5)** okreÊlenie miejsca iczasu kontroli albo inspekcji;
-- **6)** opis dokonanych ustaleƒ;
+- **5)** określenie miejsca iczasu kontroli albo inspekcji;
+- **6)** opis dokonanych ustaleń;
 - **7)** przedstawienie dowodów;
-- **8)** pouczenie o prawie z∏o˝enia zastrze˝eƒ lub wyjaÊnieƒ.
+- **8)** pouczenie o prawie złożenia zastrzeżeń lub wyjaśnień.
 
-3. Protokó∏ zkontroli podpisujà:
+3. Protokół zkontroli podpisują:
 
-- **1)** kontrolowany albo osoba przez niego upowa˝niona;
-- **2)** inspektorzy przeprowadzajàcy kontrol´;
-- **3)** osoby, których wyjaÊnienia jako istotne dla czynnoÊci kontrolnych przytoczone zosta∏y wprotokole.
+- **1)** kontrolowany albo osoba przez niego upoważniona;
+- **2)** inspektorzy przeprowadzający kontrolę;
+- **3)** osoby, których wyjaśnienia jako istotne dla czynności kontrolnych przytoczone zostały wprotokole.
 
-4. Raport zinspekcji podpisuje inspektor do spraw wytwarzania G∏ównego Inspektoratu Farmaceutycznego lub inspektorzy do spraw wytwarzania G∏ównego Inspektoratu Farmaceutycznego przeprowadzajàcy inspekcj´.
+4. Raport zinspekcji podpisuje inspektor do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego lub inspektorzy do spraw wytwarzania Głównego Inspektoratu Farmaceutycznego przeprowadzający inspekcję.
 
 **Art. 122f.**
 
-1. Protokó∏ z kontroli sporzàdza si´ w dwóch jednobrzmiàcych egzemplarzach, z których jeden przekazuje si´ kontrolowanemu.
+1. Protokół z kontroli sporządza się w dwóch jednobrzmiących egzemplarzach, z których jeden przekazuje się kontrolowanemu.
 
-2. Kontrolowany, który nie zgadza si´ z ustaleniami protoko∏u z kontroli, mo˝e, wterminie 7 dni od dnia jego dor´czenia, z∏o˝yç pisemnie zastrze˝enia lub wyjaÊnienia, wskazujàc jednoczeÊnie stosowne wnioski dowodowe. Inspektor jest obowiàzany rozpatrzyç zg∏oszone zastrze˝enia w terminie 7 dni od dnia ich otrzymania. W przypadku uwzgl´dnienia zastrze˝eƒ inspektor uzupe∏nia protokó∏ zkontroli iprzedstawia go ponownie do podpisu.
+2. Kontrolowany, który nie zgadza się z ustaleniami protokołu z kontroli, może, wterminie 7 dni od dnia jego doręczenia, złożyć pisemnie zastrzeżenia lub wyjaśnienia, wskazując jednocześnie stosowne wnioski dowodowe. Inspektor jest obowiązany rozpatrzyć zgłoszone zastrzeżenia w terminie 7 dni od dnia ich otrzymania. W przypadku uwzględnienia zastrzeżeń inspektor uzupełnia protokół zkontroli iprzedstawia go ponownie do podpisu.
 
-3. W przypadku odmowy podpisania protoko∏u z kontroli odmawiajàcy sk∏ada pisemne wyjaÊnienie co do przyczyn odmowy.
+3. W przypadku odmowy podpisania protokołu z kontroli odmawiający składa pisemne wyjaśnienie co do przyczyn odmowy.
 
-4. O odmowie podpisania protoko∏u z kontroli, przyczynie tej odmowy o z∏o˝eniu wyjaÊnieƒ inspektor dokonuje wzmianki w protokole kontroli.
+4. O odmowie podpisania protokołu z kontroli, przyczynie tej odmowy o złożeniu wyjaśnień inspektor dokonuje wzmianki w protokole kontroli.
 
 **Art. 122g.**
 
-1. Raport z inspekcji sporzàdza si´ w trzech jednobrzmiàcych egzemplarzach, z których jeden przekazuje si´ kontrolowanemu.
+1. Raport z inspekcji sporządza się w trzech jednobrzmiących egzemplarzach, z których jeden przekazuje się kontrolowanemu.
 
-2. Kontrolowany, który nie zgadza si´ z ustaleniami raportu z inspekcji,
+2. Kontrolowany, który nie zgadza się z ustaleniami raportu z inspekcji,
 
-- **2)** wskazanie inspektorów; mo˝e, wterminie 7 dni od dnia jego dor´czenia, z∏o˝yç zastrze˝enia lub
-- **3)** wskazanie bieg∏ych i ekspertów, wyjaÊnienia, wskazujàc jednoczeÊje˝eli brali udzia∏ w kontroli albo nie stosowne wnioski dowodowe. W przypadku uwzgl´dnienia zastrze˝eƒ inspektor uzupe∏nia raport z inspekcji i przedstawia go ponownie kontrolowanemu.
+- **2)** wskazanie inspektorów; może, wterminie 7 dni od dnia jego doręczenia, złożyć zastrzeżenia lub
+- **3)** wskazanie biegłych i ekspertów, wyjaśnienia, wskazując jednocześjeżeli brali udział w kontroli albo nie stosowne wnioski dowodowe. W przypadku uwzględnienia zastrzeżeń inspektor uzupełnia raport z inspekcji i przedstawia go ponownie kontrolowanemu.
 
 **Art. 122h.**
 
-1. Wprzypadku pobrania podczas kontroli albo inspekcji próbek do badaƒ, inspektor dokumentuje ich pobranie wprotokole pobrania próbek.
+1. Wprzypadku pobrania podczas kontroli albo inspekcji próbek do badań, inspektor dokumentuje ich pobranie wprotokole pobrania próbek.
 
-2. Próbki do badaƒ pobiera si´ wiloÊci niezb´dnej do przeprowadzenia w∏aÊciwego badania laboratoryjnego.
+2. Próbki do badań pobiera się wilości niezbędnej do przeprowadzenia właściwego badania laboratoryjnego.
 
-3. Protokó∏ pobrania próbki sporzàdza si´ w trzech egzemplarzach, z których jeden pozostawia si´ kontrolowanemu, drugi do∏àcza si´ do próbki kierowanej do badaƒ jakoÊciowych, trzeci pozostawia si´ wdokumentacji inspektora.
+3. Protokół pobrania próbki sporządza się w trzech egzemplarzach, z których jeden pozostawia się kontrolowanemu, drugi dołącza się do próbki kierowanej do badań jakościowych, trzeci pozostawia się wdokumentacji inspektora.
 
 **Art. 122i.**
 
-1. Kontrolowany, u którego pobrano próbki do badaƒ, pakuje je wsposób zapobiegajàcy zmianom wp∏ywajàcym na ich jakoÊç i przesy∏a do wskazanej przez inspektora jednostki prowadzàcej badania laboratoryjne.
+1. Kontrolowany, u którego pobrano próbki do badań, pakuje je wsposób zapobiegający zmianom wpływającym na ich jakość i przesyła do wskazanej przez inspektora jednostki prowadzącej badania laboratoryjne.
 
-2. Do próbki przesy∏anej do badaƒ nale˝y do∏àczyç protokó∏, o którym mowa w art. 122h ust. 1, sporzàdzony przez inspektora wniosek o przeprowadzenie badaƒ laboratoryjnych.
+2. Do próbki przesyłanej do badań należy dołączyć protokół, o którym mowa w art. 122h ust. 1, sporządzony przez inspektora wniosek o przeprowadzenie badań laboratoryjnych.
 
-3. RównoczeÊnie z pobraniem próbki do badaƒ nale˝y zapakowaç i opiecz´towaç pozostawiç na przechowanie ukontrolowanego, wwarunkach uniemo˝liwiajàcych zmian´ jakoÊci, próbk´ kontrolnà wiloÊci odpowiadajàcej iloÊci próbki pobranej do badaƒ.
+3. Równocześnie z pobraniem próbki do badań należy zapakować i opieczętować pozostawić na przechowanie ukontrolowanego, wwarunkach uniemożliwiających zmianę jakości, próbkę kontrolną wilości odpowiadającej ilości próbki pobranej do badań.
 
 4. Przepis ust. 3 nie dotyczy leku recepturowego.
 
-5. Próbka pozostawiona na przechowanie zgodnie z ust. 3 powinna byç przechowywana u kontrolowanego do dnia otrzymania orzeczenia owyniku badaƒ jakoÊciowych.
+5. Próbka pozostawiona na przechowanie zgodnie z ust. 3 powinna być przechowywana u kontrolowanego do dnia otrzymania orzeczenia owyniku badań jakościowych.
 
 **Art. 122j.**
 
-1. Po przeprowadzeniu badaƒ jakoÊciowych jednostka prowadzàca badania laboratoryjne sporzàdza orzeczenie o wyniku badaƒ jakoÊciowych próbek pobranych podczas kontroli albo inspekcji przez inspektora.
+1. Po przeprowadzeniu badań jakościowych jednostka prowadząca badania laboratoryjne sporządza orzeczenie o wyniku badań jakościowych próbek pobranych podczas kontroli albo inspekcji przez inspektora.
 
-2. Jednostka prowadzàca badania laboratoryjne przekazuje orzeczenie in2. Ksià˝k´ kontroli nale˝y okazywaç na ka˝de ˝àdanie inspektora.
+2. Jednostka prowadząca badania laboratoryjne przekazuje orzeczenie in2. Książkę kontroli należy okazywać na każde żądanie inspektora.
 
-3. Wpis w ksià˝ce kontroli nie mo˝e byç wymazywany ani w inny sposób usuwany.
+3. Wpis w książce kontroli nie może być wymazywany ani w inny sposób usuwany.
 
-4. Kontrolujàcy mo˝e dokonywaç skreÊleƒ ipoprawek we wpisie wtaki sposób, aby wyrazy skreÊlone i poprawione by∏y czytelne.
+4. Kontrolujący może dokonywać skreśleń ipoprawek we wpisie wtaki sposób, aby wyrazy skreślone i poprawione były czytelne.
 
-5. SkreÊlenia i poprawki powinny byç dokonane przed podpisaniem wpisu.
+5. Skreślenia i poprawki powinny być dokonane przed podpisaniem wpisu.
 
-6. O dokonaniu skreÊleƒ i poprawek nale˝y na koƒcu wpisu sporzàdziç adnotacj´ z okreÊleniem strony ksià˝ki ich treÊci.”;
+6. O dokonaniu skreśleń i poprawek należy na końcu wpisu sporządzić adnotację z określeniem strony książki ich treści.”;
 
-- **4)** wart. 123 ust. 2 otrzymuje brzmienie: „2. Minister w∏aÊciwy do spraw zdrowia okreÊli, wdrodze rozporzàdzenia, wzory:
-- **1)** upowa˝nienia do przeprowadzania kontroli albo inspekcji,
-- **2)** protoko∏u pobrania próbek,
-- **3)** orzeczenia o wyniku badaƒ jakoÊciowych pobranych próbek,
-- **4)** ksià˝ki kontroli uwzgl´dniajàc przepisy prawa i wytyczne Wspólnoty Europejskiej.”.
+- **4)** wart. 123 ust. 2 otrzymuje brzmienie: Ń2. Minister właściwy do spraw zdrowia określi, wdrodze rozporządzenia, wzory:
+- **1)** upoważnienia do przeprowadzania kontroli albo inspekcji,
+- **2)** protokołu pobrania próbek,
+- **3)** orzeczenia o wyniku badań jakościowych pobranych próbek,
+- **4)** książki kontroli uwzględniając przepisy prawa i wytyczne Wspólnoty Europejskiej.”.
 
-**Art. 36.** W ustawie z dnia 6 wrzeÊnia 2001 o towarach paczkowanych (Dz. U. 128, 1409 z 2004 49, 465, 96, 959 i 173,
+**Art. 36.** W ustawie z dnia 6 września 2001 o towarach paczkowanych (Dz. U. 128, 1409 z 2004 49, 465, 96, 959 i 173,
 
-**Art. 37.** W ustawie z dnia 6 wrzeÊnia 2001 o transporcie drogowym (Dz. U. z 2007 125, 874, z póên. zm. spektorowi, który wystàpi∏ z wnioskiem kontrolowanemu.
+**Art. 37.** W ustawie z dnia 6 września 2001 o transporcie drogowym (Dz. U. z 2007 125, 874, z póên. zm. spektorowi, który wystąpił z wnioskiem kontrolowanemu.
 
 **Art. 122k.**
 
-1. Doraêne zalecenia, uwagi i wnioski ) wprowadza si´ nast´pujàce zmiany:
+1. Doraêne zalecenia, uwagi i wnioski ) wprowadza się następujące zmiany:
 
 - **1)** w art. 55: ———————
-    - **a)** ust. 1a otrzymuje brzmienie: „1a. Inspektor przeprowadza czynnoÊci kontrolne, o których mowa w ust. 1 pkt 2, 5 i 6, w obecnoÊci przedsi´biorcy albo osoby przez niego upowa˝nionej.”,
-    - **b)** po ust. 1a dodaje si´ ust. 1bwbrzmieniu: „1b. Kontroli dokumentów, o których mowa w art. 87, inspektor dokonuje w obecnoÊci kierujàcego przemieszczajàcym si´ Êrodkiem transportu.”;
+    - **a)** ust. 1a otrzymuje brzmienie: Ń1a. Inspektor przeprowadza czynności kontrolne, o których mowa w ust. 1 pkt 2, 5 i 6, w obecności przedsiębiorcy albo osoby przez niego upoważnionej.”,
+    - **b)** po ust. 1a dodaje się ust. 1bwbrzmieniu: Ń1b. Kontroli dokumentów, o których mowa w art. 87, inspektor dokonuje w obecności kierującego przemieszczającym się środkiem transportu.”;
 
 - **2)** wart. 70:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. CzynnoÊci kontrolnych inspektor dokonuje po okazaniu legitymacji s∏u˝bowej dor´czeniu upowa˝nienia do przeprowadzenia kontroli.”,
-    - **b)** po ust. 1 dodaje si´ ust. 1ai1bwbrzmieniu: „1a. CzynnoÊci kontrolnych przemieszczajàcych si´ Êrodków transportu inspektor dokonuje po okazaniu kierujàcemu legitymacji s∏u˝bowej.
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Czynności kontrolnych inspektor dokonuje po okazaniu legitymacji służbowej doręczeniu upoważnienia do przeprowadzenia kontroli.”,
+    - **b)** po ust. 1 dodaje się ust. 1ai1bwbrzmieniu: Ń1a. Czynności kontrolnych przemieszczających się środków transportu inspektor dokonuje po okazaniu kierującemu legitymacji służbowej.
 
-1b. Upowa˝nienie, o którym mowa w ust. 1, zawiera co najmniej:
+1b. Upoważnienie, o którym mowa w ust. 1, zawiera co najmniej:
 
 - **1)** wskazanie podstawy prawnej;
 - **2)** oznaczenie organu kontroli;
-- **3)** dat´ imiejsce wystawienia;
-- **4)** imi´ i nazwisko inspektora upowa˝nionego do przeprowadzenia kontroli numer jego legitymacji s∏u˝bowej;
-- **5)** firm´ przedsi´biorcy obj´tego kontrolà;
-- **6)** okreÊlenie zakresu przedmiotowego kontroli;
-- **7)** wskazanie daty rozpocz´cia i przewidywany termin zakoƒczenia kontroli;
-- **8)** podpis osoby udzielajàcej upowa˝nienia;
-- **9)** pouczenie o prawach i obowiàzkach kontrolowanego przedsi´biorcy.”.
-    - **c)** uchyla si´ ust. 2,
-    - **d)** ust. 4 otrzymuje brzmienie: „4. Inspektor wykonuje czynnoÊci kontrolne w obecnoÊci kontrolowanego albo osoby przez niego upowa˝nionej.”;
+- **3)** datę imiejsce wystawienia;
+- **4)** imię i nazwisko inspektora upoważnionego do przeprowadzenia kontroli numer jego legitymacji służbowej;
+- **5)** firmę przedsiębiorcy objętego kontrolą;
+- **6)** określenie zakresu przedmiotowego kontroli;
+- **7)** wskazanie daty rozpoczęcia i przewidywany termin zakończenia kontroli;
+- **8)** podpis osoby udzielającej upoważnienia;
+- **9)** pouczenie o prawach i obowiązkach kontrolowanego przedsiębiorcy.”.
+    - **c)** uchyla się ust. 2,
+    - **d)** ust. 4 otrzymuje brzmienie: Ń4. Inspektor wykonuje czynności kontrolne w obecności kontrolowanego albo osoby przez niego upoważnionej.”;
 
-- **3)** art. 74 otrzymuje brzmienie: „Art. 74. 1. Z przeprowadzonych czynnoÊci kontrolnych inspektor sporzàdza protokó∏ kontroli.
+- **3)** art. 74 otrzymuje brzmienie: ŃArt. 74. 1. Z przeprowadzonych czynności kontrolnych inspektor sporządza protokół kontroli.
 
-2. Protokó∏ podpisujà inspektor i kontrolowany. Odmow´ podpisania protoko∏u przez kontrolowanego kontrolujàcy odnotowuje w protokole kontroli i podaje jej przyczyn´.
+2. Protokół podpisują inspektor i kontrolowany. Odmowę podpisania protokołu przez kontrolowanego kontrolujący odnotowuje w protokole kontroli i podaje jej przyczynę.
 
-3. Orygina∏ protoko∏u kontroli zatrzymuje kontrolujàcy, a kopi´ dor´cza si´ kontrolowanemu kierowcy, przedsi´biorcy lub podmiotowi wykonujàcemu przewóz drogowy.
+3. Oryginał protokołu kontroli zatrzymuje kontrolujący, a kopię doręcza się kontrolowanemu kierowcy, przedsiębiorcy lub podmiotowi wykonującemu przewóz drogowy.
 
-4. Do protoko∏u kontroli kontrolowany mo˝e wnieÊç zastrze˝enia.”;
+4. Do protokołu kontroli kontrolowany może wnieść zastrzeżenia.”;
 
 - **4)** wart. 85:
-    - **a)** ust. 1 otrzymuje brzmienie: „1. Kontrol´ przedsi´biorcy przeprowadza si´
-    - **b)** dodaje si´ ust. 4 wbrzmieniu: „4. Upowa˝nienie, októrym mowa wust. 1, zawiera co najmniej:
+    - **a)** ust. 1 otrzymuje brzmienie: Ń1. Kontrolę przedsiębiorcy przeprowadza się
+    - **b)** dodaje się ust. 4 wbrzmieniu: Ń4. Upoważnienie, októrym mowa wust. 1, zawiera co najmniej:
 
 - **1)** wskazanie podstawy prawnej;
 - **2)** oznaczenie organu kontroli;
-- **3)** dat´ imiejsce wystawienia;
-- **4)** imi´ inazwisko inspektora upowa˝nionego do przeprowadzenia kontroli numer jego legitymacji s∏u˝bowej;
-- **5)** firm´ przedsi´biorcy obj´tego kontrolà;
-- **6)** okreÊlenie zakresu przedmiotowego kontroli;
-- **7)** wskazanie daty rozpocz´cia i przewidywany termin zakoƒczenia kontroli;
-- **8)** podpis osoby udzielajàcej upowa˝nienia;
-- **9)** pouczenie oprawach iobowiàzkach kontrolowanego.”;
-- **5)** wart. 89 wust. 5 uchyla si´ pkt 1;
-- **6)** po art. 89 dodaje si´ art. 89a—89cwbrzmieniu: „Art. 89a. 1. Inspektorzy Paƒstwowej Inspekcji Pracy dokonujà kontroli w zakresie przewozu drogowego na warunkach i w trybie okreÊlonych w przepisach oPaƒstwowej Inspekcji Pracy.
+- **3)** datę imiejsce wystawienia;
+- **4)** imię inazwisko inspektora upoważnionego do przeprowadzenia kontroli numer jego legitymacji służbowej;
+- **5)** firmę przedsiębiorcy objętego kontrolą;
+- **6)** określenie zakresu przedmiotowego kontroli;
+- **7)** wskazanie daty rozpoczęcia i przewidywany termin zakończenia kontroli;
+- **8)** podpis osoby udzielającej upoważnienia;
+- **9)** pouczenie oprawach iobowiązkach kontrolowanego.”;
+- **5)** wart. 89 wust. 5 uchyla się pkt 1;
+- **6)** po art. 89 dodaje się art. 89a—89cwbrzmieniu: ŃArt. 89a. 1. Inspektorzy Państwowej Inspekcji Pracy dokonują kontroli w zakresie przewozu drogowego na warunkach i w trybie określonych w przepisach oPaństwowej Inspekcji Pracy.
 
-2. Inspektorzy Inspekcji Transportu Drogowego dokonujà kontroli na warunkach i w trybie okreÊlonych w ustawie.
+2. Inspektorzy Inspekcji Transportu Drogowego dokonują kontroli na warunkach i w trybie określonych w ustawie.
 
-3. Funkcjonariusze Policji, organów celnych i Stra˝y Granicznej upowa˝nieni pracownicy zarzàdców dróg dokonujà kontroli na warunkach iwsposób okreÊlonych wprzepisach okontroli ruchu drogowego.
+3. Funkcjonariusze Policji, organów celnych i Straży Granicznej upoważnieni pracownicy zarządców dróg dokonują kontroli na warunkach iwsposób określonych wprzepisach okontroli ruchu drogowego.
 
-4. Upowa˝nieni pracownicy organu wydajàcego zezwolenia na przewozy regularne lub regularne specjalne dokonujà kontroli dokumentów na warunkach i w trybie okreÊlonych wustawie.
+4. Upoważnieni pracownicy organu wydającego zezwolenia na przewozy regularne lub regularne specjalne dokonują kontroli dokumentów na warunkach i w trybie określonych wustawie.
 
 **Art. 89b.**
 
-1. Rozpocz´cie kontroli przez uprawnionych, o których mowa w art. 89a ust. 3 i4, nast´puje po okazaniu legitymacji s∏u˝bowej, dor´czeniu upowa˝nienia do przeprowadzenie kontroli, zwy∏àczeniem funkcjonariuszy Policji.
+1. Rozpoczęcie kontroli przez uprawnionych, o których mowa w art. 89a ust. 3 i4, następuje po okazaniu legitymacji służbowej, doręczeniu upoważnienia do przeprowadzenie kontroli, zwyłączeniem funkcjonariuszy Policji.
 
-2. Kontrolujàcy ma obowiàzek zapoznaç kontrolowanego z jego prawami i obowiàzkami wynikajàcymi z ustawy.
+2. Kontrolujący ma obowiązek zapoznać kontrolowanego z jego prawami i obowiązkami wynikającymi z ustawy.
 
-3. Kontrolujàcy wykonuje czynnoÊci
+3. Kontrolujący wykonuje czynności
 
-**Art. 89c.** Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”;
+**Art. 89c.** Do kontroli działalności gospodarczej przedsiębiorcy, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”;
 
-**Art. 38.** W ustawie z dnia wrzeÊnia 2001 o podpisie elektronicznym (Dz. U. 130, 1450, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 38.** W ustawie z dnia września 2001 o podpisie elektronicznym (Dz. U. 130, 1450, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 39.** W ustawie z dnia 3 lipca 2002 Prawo lotnicze (Dz. U. z 2006 100, 696, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 39.** W ustawie z dnia 3 lipca 2002 Prawo lotnicze (Dz. U. z 2006 100, 696, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 40.** Wustawie zdnia 27 lipca 2002 Prawo dewizowe (Dz. U. 141, 1178, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 40.** Wustawie zdnia 27 lipca 2002 Prawo dewizowe (Dz. U. 141, 1178, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 36b.** Protokó∏ i sprawozdanie, o których mowa wart. 36, powinny:
+**Art. 36b.** Protokół i sprawozdanie, o których mowa wart. 36, powinny:
 
-**Art. 36c.** Protokó∏ i sprawozdanie powinny ponadto zawieraç:
+**Art. 36c.** Protokół i sprawozdanie powinny ponadto zawierać:
 
-**Art. 40c.** W przypadku stwierdzenia w toku kontroli ra˝àcego naruszenia:
+**Art. 40c.** W przypadku stwierdzenia w toku kontroli rażącego naruszenia:
 
-**Art. 41.** Wustawie zdnia 30 sierpnia 2002 osystemie oceny zgodnoÊci (Dz. U. z 2004 204, 2087, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 41.** Wustawie zdnia 30 sierpnia 2002 osystemie oceny zgodności (Dz. U. z 2004 204, 2087, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 42.** W ustawie z dnia 12 wrzeÊnia 2002 o elektronicznych instrumentach p∏atniczych (Dz. U. 169, 1385, z póên. zm. „3. CzynnoÊci kontrolne podejmowane sà przez pracowników Urz´du Komisji Nadzoru Finansowego po okazaniu legitymacji s∏u˝bowej dor´czeniu upowa˝nienia do przeprowadzenia kontroli wydanego przez Przewodniczàcego Komisji Nadzoru Finansowego. 4. CzynnoÊci, o których mowa w ust. 3, mogà byç wykonywane ponadto przez upowa˝nionych bieg∏ych rewidentów po dor´czeniu upowa˝nienia do przeprowadzenia kontroli wydanego przez Przewodniczàcego Komisji Nadzoru Finansowego.”.
+**Art. 42.** W ustawie z dnia 12 września 2002 o elektronicznych instrumentach płatniczych (Dz. U. 169, 1385, z póên. zm. Ń3. Czynności kontrolne podejmowane są przez pracowników Urzędu Komisji Nadzoru Finansowego po okazaniu legitymacji służbowej doręczeniu upoważnienia do przeprowadzenia kontroli wydanego przez Przewodniczącego Komisji Nadzoru Finansowego. 4. Czynności, o których mowa w ust. 3, mogą być wykonywane ponadto przez upoważnionych biegłych rewidentów po doręczeniu upoważnienia do przeprowadzenia kontroli wydanego przez Przewodniczącego Komisji Nadzoru Finansowego.”.
 
-**Art. 43.** Wustawie zdnia 28 marca 2003 otransporcie kolejowym (Dz. U. z 2007 16, 94, zpóên. zm. ) w art. 43 ust. 3 i 4 otrzymujà brzmienie: ) wprowadza si´ nast´pujàce zmiany:
+**Art. 43.** Wustawie zdnia 28 marca 2003 otransporcie kolejowym (Dz. U. z 2007 16, 94, zpóên. zm. ) w art. 43 ust. 3 i 4 otrzymują brzmienie: ) wprowadza się następujące zmiany:
 
-**Art. 44.** Wustawie zdnia 22 maja 2003 odzia∏alnoÊci ubezpieczeniowej (Dz. U. 124, 1151, zpóên. zm. 2. Do kontroli przeprowadzanej na podstawie ust. 1 stosuje si´ odpowiednio przepisy art. 208 ust. 3 i4 art. 208b—208h.”;
+**Art. 44.** Wustawie zdnia 22 maja 2003 odziałalności ubezpieczeniowej (Dz. U. 124, 1151, zpóên. zm. 2. Do kontroli przeprowadzanej na podstawie ust. 1 stosuje się odpowiednio przepisy art. 208 ust. 3 i4 art. 208b—208h.”;
 
 **Art. 208e.**
 
-1. Ustaleƒ kontroli dokonuje si´ na podstawie dowodów.
+1. Ustaleń kontroli dokonuje się na podstawie dowodów.
 
-2. Do dowodów zalicza si´ wszczególnoÊci:
+2. Do dowodów zalicza się wszczególności:
 
 - **1)** dokumenty;
-- **2)** dane i informacje umieszczone w systemach informatycznych zak∏adu ubezpieczeƒ;
+- **2)** dane i informacje umieszczone w systemach informatycznych zakładu ubezpieczeń;
 - **3)** dowody rzeczowe;
-- **4)** oÊwiadczenia, informacje iwyjaÊnienia z∏o˝one przez upowa˝nionych pracowników i poÊredników ubezpieczeniowych zak∏adu ubezpieczeƒ;
-- **5)** oÊwiadczenia osób trzecich;
+- **4)** oświadczenia, informacje iwyjaśnienia złożone przez upoważnionych pracowników i pośredników ubezpieczeniowych zakładu ubezpieczeń;
+- **5)** oświadczenia osób trzecich;
 - **6)** opinie ekspertów;
-- **7)** wyniki ogl´dzin;
-- **8)** inne materia∏y b´dàce przedmiotem kontroli, które mogà przyczyniç si´ do stwierdzenia stanu faktycznego wzakresie obj´tym kontrolà.
+- **7)** wyniki oględzin;
+- **8)** inne materiały będące przedmiotem kontroli, które mogą przyczynić się do stwierdzenia stanu faktycznego wzakresie objętym kontrolą.
 
-3. Organ nadzoru przed podpisaniem protoko∏u, o którym mowa wart. 208f ust. 1, zapewnia zak∏adowi ubezpieczeƒ mo˝liwoÊç zapoznania si´ ustosunkowania si´ do
+3. Organ nadzoru przed podpisaniem protokołu, o którym mowa wart. 208f ust. 1, zapewnia zakładowi ubezpieczeń możliwość zapoznania się ustosunkowania się do
 
-4. Dowody uzyskane w toku kontroli sà przechowywane w sposób uniemo˝liwiajàcy dost´p do nich bez zgody inspektora kierujàcego zespo∏em inspekcyjnym.
+4. Dowody uzyskane w toku kontroli są przechowywane w sposób uniemożliwiający dostęp do nich bez zgody inspektora kierującego zespołem inspekcyjnym.
 
-5. Zebrane w toku kontroli dowody mogà byç zabezpieczane przez:
+5. Zebrane w toku kontroli dowody mogą być zabezpieczane przez:
 
-- **1)** oddanie na przechowanie zarzàdowi zak∏adu ubezpieczeƒ lub upowa˝nionemu przez zarzàd pracownikowi zak∏adu ubezpieczeƒ za pokwitowaniem;
-- **2)** przechowanie w siedzibie zak∏adu ubezpieczeƒ w oddzielnym, zamkni´tym i opiecz´towanym pomieszczeniu;
-- **3)** zabranie z zak∏adu ubezpieczeƒ za pokwitowaniem.
+- **1)** oddanie na przechowanie zarządowi zakładu ubezpieczeń lub upoważnionemu przez zarząd pracownikowi zakładu ubezpieczeń za pokwitowaniem;
+- **2)** przechowanie w siedzibie zakładu ubezpieczeń w oddzielnym, zamkniętym i opieczętowanym pomieszczeniu;
+- **3)** zabranie z zakładu ubezpieczeń za pokwitowaniem.
 
 **Art. 208f.**
 
-1. Z przeprowadzonej kontroli sporzàdza si´ protokó∏.
+1. Z przeprowadzonej kontroli sporządza się protokół.
 
-2. Protokó∏ kontroli zawiera w szczególnoÊci:
+2. Protokół kontroli zawiera w szczególności:
 
-- **1)** nazw´ i siedzib´ zak∏adu ubezpieczeƒ;
-- **2)** dat´ i numer upowa˝nienia do przeprowadzenia kontroli jego zmiany;
-- **3)** miejsce i dat´ przeprowadzania czynnoÊci kontrolnych;
-- **4)** wskazanie jednostek organizacyjnych obj´tych kontrolà;
-- **5)** wskazanie obj´tych kontrolà podmiotów, które wykonujà czynnoÊci ubezpieczeniowe w imieniu i na rzecz zak∏adów ubezpieczeƒ;
-- **6)** imiona i nazwiska inspektorów przeprowadzajàcych kontrol´;
-- **7)** okreÊlenie zakresu kontroli;
-- **8)** imiona i nazwiska stanowiska s∏u˝bowe osób sk∏adajàcych oÊwiadczenia udzielajàcych informacji i wyjaÊnieƒ w toku kontroli;
-- **9)** opis dokonanych czynnoÊci ustalenia stanu faktycznego;
-- **10)** wzmiank´ o poinformowaniu zak∏adu ubezpieczeƒ o przys∏ugujàcych mu prawach i obowiàzkach;
-- **11)** wykaz za∏àczników z podaniem nazwy i cech ka˝dego za∏àcznika;
-- **12)** miejsce idat´ sporzàdzenia protoko∏u.
+- **1)** nazwę i siedzibę zakładu ubezpieczeń;
+- **2)** datę i numer upoważnienia do przeprowadzenia kontroli jego zmiany;
+- **3)** miejsce i datę przeprowadzania czynności kontrolnych;
+- **4)** wskazanie jednostek organizacyjnych objętych kontrolą;
+- **5)** wskazanie objętych kontrolą podmiotów, które wykonują czynności ubezpieczeniowe w imieniu i na rzecz zakładów ubezpieczeń;
+- **6)** imiona i nazwiska inspektorów przeprowadzających kontrolę;
+- **7)** określenie zakresu kontroli;
+- **8)** imiona i nazwiska stanowiska służbowe osób składających oświadczenia udzielających informacji i wyjaśnień w toku kontroli;
+- **9)** opis dokonanych czynności ustalenia stanu faktycznego;
+- **10)** wzmiankę o poinformowaniu zakładu ubezpieczeń o przysługujących mu prawach i obowiązkach;
+- **11)** wykaz załączników z podaniem nazwy i cech każdego załącznika;
+- **12)** miejsce idatę sporządzenia protokołu.
 
-3. Protokó∏ kontroli sporzàdza si´ go zast´pstwie inny inspektor wchodzàcy w sk∏ad zespo∏u inspekcyjnego przeprowadzajàcego kontrol´ przekazuje zak∏adowi ubezpieczeƒ.
+3. Protokół kontroli sporządza się go zastępstwie inny inspektor wchodzący w skład zespołu inspekcyjnego przeprowadzającego kontrolę przekazuje zakładowi ubezpieczeń.
 
-4. Osoba upowa˝niona przez organ zarzàdzajàcy zak∏adu ubezpieczeƒ potwierdza odbiór protoko∏u kontroli na jednym egzemplarzu protoko∏u podpisanym przez inspektora kierujàcego zespo∏em inspekcyjnym. Osoby te parafujà ka˝dà stron´ protoko∏u.
+4. Osoba upoważniona przez organ zarządzający zakładu ubezpieczeń potwierdza odbiór protokołu kontroli na jednym egzemplarzu protokołu podpisanym przez inspektora kierującego zespołem inspekcyjnym. Osoby te parafują każdą stronę protokołu.
 
-5. Je˝eli zak∏ad ubezpieczeƒ odmawia lub uchyla si´ od odebrania protoko∏u kontroli, organ nadzoru wzywa pisemnie zak∏ad ubezpieczeƒ do odebrania protoko∏u, wyznaczajàc termin nie krótszy ni˝ 7 dni do dokonania tej czynnoÊci. W przypadku bezskutecznego up∏ywu wyznaczonego terminu protokó∏ uwa˝a si´ za dor´czony z up∏ywem ostatniego dnia tego terminu.
+5. Jeżeli zakład ubezpieczeń odmawia lub uchyla się od odebrania protokołu kontroli, organ nadzoru wzywa pisemnie zakład ubezpieczeń do odebrania protokołu, wyznaczając termin nie krótszy niż 7 dni do dokonania tej czynności. W przypadku bezskutecznego upływu wyznaczonego terminu protokół uważa się za doręczony z upływem ostatniego dnia tego terminu.
 
 **Art. 208g.**
 
-1. Po podpisaniu protoko∏u kontroli nie dokonuje si´ w protokole ˝adnych poprawek i dopisków, z zastrze˝eniem ust. 2.
+1. Po podpisaniu protokołu kontroli nie dokonuje się w protokole żadnych poprawek i dopisków, z zastrzeżeniem ust. 2.
 
-2. Oczywiste omy∏ki pisarskie prostuje inspektor kierujàcy zespo∏em inspekcyjnym, parafujàc sprostowania. Organ nadzoru osprostowaniu oczywistych omy∏ek pisarskich informuje pisemnie zak∏ad ubezpieczeƒ.
+2. Oczywiste omyłki pisarskie prostuje inspektor kierujący zespołem inspekcyjnym, parafując sprostowania. Organ nadzoru osprostowaniu oczywistych omyłek pisarskich informuje pisemnie zakład ubezpieczeń.
 
 **Art. 208h.**
 
-1. Wterminie 14 dni od dnia dor´czenia protoko∏u kontroli zak∏ad ubezpieczeƒ mo˝e zg∏osiç organowi nadzoru pisemne zastrze˝enia i uwagi do treÊci protoko∏u wyjaÊnienia w sprawach obj´tych zakresem kontroli.
+1. Wterminie 14 dni od dnia doręczenia protokołu kontroli zakład ubezpieczeń może zgłosić organowi nadzoru pisemne zastrzeżenia i uwagi do treści protokołu wyjaśnienia w sprawach objętych zakresem kontroli.
 
-2. O sposobie rozpatrzenia zastrze˝eƒ organ nadzoru informuje zak∏ad ubezpieczeƒ w terminie 14 dni od dnia dor´czenia zastrze˝eƒ.
+2. O sposobie rozpatrzenia zastrzeżeń organ nadzoru informuje zakład ubezpieczeń w terminie 14 dni od dnia doręczenia zastrzeżeń.
 
-3. Informacje o sposobie rozpatrzenia zastrze˝eƒ za∏àcza si´ do protoko∏u kontroli.
+3. Informacje o sposobie rozpatrzenia zastrzeżeń załącza się do protokołu kontroli.
 
-**Art. 208i.** Do kontroli podmiotów, które wykonujà czynnoÊci ubezpieczeniowe w imieniu i na rzecz zak∏adu ubezpieczeƒ, stosuje si´ odpowiednio przepisy okontroli zak∏adów ubezpieczeƒ.
+**Art. 208i.** Do kontroli podmiotów, które wykonują czynności ubezpieczeniowe w imieniu i na rzecz zakładu ubezpieczeń, stosuje się odpowiednio przepisy okontroli zakładów ubezpieczeń.
 
-**Art. 208j.** Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm.
+**Art. 208j.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm.
 
-**Art. 45.** Wustawie zdnia 22 maja 2003 opoÊrednictwie ubezpieczeniowym (Dz. U. 124, 1154, zpóên. zm. ).”. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 45.** Wustawie zdnia 22 maja 2003 opośrednictwie ubezpieczeniowym (Dz. U. 124, 1154, zpóên. zm. ).”. ) wprowadza się następujące zmiany:
 
 **Art. 19b.**
 
-1. Kontrol´ przeprowadza zespó∏ inspekcyjny sk∏adajàcy si´ co najmniej z dwóch inspektorów po okazaniu legitymacji s∏u˝bowej dor´czeniu upowa˝nienia do przeprowadzenia kontroli wydanego przez organ nadzoru.
+1. Kontrolę przeprowadza zespół inspekcyjny składający się co najmniej z dwóch inspektorów po okazaniu legitymacji służbowej doręczeniu upoważnienia do przeprowadzenia kontroli wydanego przez organ nadzoru.
 
-2. Upowa˝nienie do przeprowadzenia kontroli, októrym mowa wust. 1, zawiera co najmniej:
+2. Upoważnienie do przeprowadzenia kontroli, októrym mowa wust. 1, zawiera co najmniej:
 
 - **1)** wskazanie podstawy prawnej;
 - **2)** oznaczenie organu kontroli;
-- **3)** dat´ imiejsce wystawienia;
-- **4)** imi´ i nazwisko inspektora uprawnionego do wykonania kontroli numer jego legitymacji s∏u˝bowej;
-- **5)** firm´ przedsi´biorcy obj´tego kontrolà;
-- **6)** okreÊlenie zakresu przedmiotowego kontroli;
-- **7)** wskazanie daty rozpocz´cia i przewidywanego terminu zakoƒczenia kontroli;
-- **8)** podpis osoby udzielajàcej upowa˝nienia z podaniem zajmowanego stanowiska lub funkcji;
-- **9)** pouczenie o prawach i obowiàzkach kontrolowanego przedsi´biorcy.
+- **3)** datę imiejsce wystawienia;
+- **4)** imię i nazwisko inspektora uprawnionego do wykonania kontroli numer jego legitymacji służbowej;
+- **5)** firmę przedsiębiorcy objętego kontrolą;
+- **6)** określenie zakresu przedmiotowego kontroli;
+- **7)** wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli;
+- **8)** podpis osoby udzielającej upoważnienia z podaniem zajmowanego stanowiska lub funkcji;
+- **9)** pouczenie o prawach i obowiązkach kontrolowanego przedsiębiorcy.
 
-3. Kontrola jest przeprowadzana w siedzibie lub w miejscu wykonywania dzia∏alnoÊci przez zak∏ad ubezpieczeƒ w godzinach pracy lub w czasie faktycznego wykonywania dzia∏alnoÊci przez zak∏ad ubezpieczeƒ.
+3. Kontrola jest przeprowadzana w siedzibie lub w miejscu wykonywania działalności przez zakład ubezpieczeń w godzinach pracy lub w czasie faktycznego wykonywania działalności przez zakład ubezpieczeń.
 
 **Art. 19c.**
 
-1. Inspektor podlega wy∏àczeniu od udzia∏u w kontroli, je˝eli ustalenia kontroli mog∏yby oddzia∏ywaç na jego prawa lub obowiàzki albo prawa lub obowiàzki jego ma∏˝onka lub osoby pozostajàcej z nim faktycznie we wspólnym po˝yciu, krewnych i powinowatych do drugiego stopnia bàdê osób zwiàzanych z nim z tytu∏u przysposobienia, opieki lub kurateli.
+1. Inspektor podlega wyłączeniu od udziału w kontroli, jeżeli ustalenia kontroli mogłyby oddziaływać na jego prawa lub obowiązki albo prawa lub obowiązki jego małżonka lub osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia bądê osób związanych z nim z tytułu przysposobienia, opieki lub kurateli.
 
-2. Inspektor mo˝e byç wy∏àczony rów3. Je˝eli okolicznoÊci, o których mowa w ust. 1 i 2, ujawnià si´ w toku kontroli, inspektor powstrzymuje si´ od dalszych czynnoÊci i zawiadamia otym niezw∏ocznie organ nadzoru.
+2. Inspektor może być wyłączony rów3. Jeżeli okoliczności, o których mowa w ust. 1 i 2, ujawnią się w toku kontroli, inspektor powstrzymuje się od dalszych czynności i zawiadamia otym niezwłocznie organ nadzoru.
 
-4. Wy∏àczony inspektor powinien podejmowaç jedynie czynnoÊci niecierpiàce zw∏oki, ze wzgl´du na interes publiczny lub wa˝ny interes zak∏adu ubezpieczeƒ.
+4. Wyłączony inspektor powinien podejmować jedynie czynności niecierpiące zwłoki, ze względu na interes publiczny lub ważny interes zakładu ubezpieczeń.
 
-5. O wy∏àczeniu od udzia∏u w kontroli postanawia organ nadzoru z urz´du albo na wniosek zak∏adu ubezpieczeƒ lub na wniosek inspektora. Organ nadzoru, postanawiajàc owy∏àczeniu inspektora, uzupe∏nia sk∏ad zespo∏u inspekcyjnego, atak˝e zmienia odpowiednio upowa˝nienia do przeprowadzenia kontroli niezw∏ocznie dor´cza upowa˝nienia zak∏adowi ubezpieczeƒ.
+5. O wyłączeniu od udziału w kontroli postanawia organ nadzoru z urzędu albo na wniosek zakładu ubezpieczeń lub na wniosek inspektora. Organ nadzoru, postanawiając owyłączeniu inspektora, uzupełnia skład zespołu inspekcyjnego, atakże zmienia odpowiednio upoważnienia do przeprowadzenia kontroli niezwłocznie doręcza upoważnienia zakładowi ubezpieczeń.
 
-6. Z wa˝nych przyczyn organ nadzoru mo˝e zmieniç sk∏ad osobowy zespo∏u inspekcyjnego tak˝e w przypadkach innych ni˝ okreÊlone wust. 1 i2. Zdanie drugie ust. 5 stosuje si´ odpowiednio.
+6. Z ważnych przyczyn organ nadzoru może zmienić skład osobowy zespołu inspekcyjnego także w przypadkach innych niż określone wust. 1 i2. Zdanie drugie ust. 5 stosuje się odpowiednio.
 
 **Art. 19d.**
 
-1. Zak∏ad ubezpieczeƒ zapewnia zespo∏owi inspekcyjnemu warunki i Êrodki niezb´dne do sprawnego przeprowadzania kontroli.
+1. Zakład ubezpieczeń zapewnia zespołowi inspekcyjnemu warunki i środki niezbędne do sprawnego przeprowadzania kontroli.
 
-2. Podczas kontroli zak∏ad ubezpieczeƒ zapewnia inspektorom:
+2. Podczas kontroli zakład ubezpieczeń zapewnia inspektorom:
 
-- **1)** wst´p do wszystkich pomieszczeƒ kontrolowanego zak∏adu ubezpieczeƒ;
-- **2)** w miar´ mo˝liwoÊci, swobodny dost´p do oddzielnego pomieszczenia biurowego Êrodków ∏àcznoÊci;
-- **3)** wglàd do wszelkich dokumentów kontrolowanego zak∏adu ubezpieczeƒ wymagane kopie, odpisy iwyciàgi ztych dokumentów;
-- **4)** wglàd do danych zawartych wsystemach informatycznych wymagane kopie lub wyciàgi z tych danych, w tym równie˝ w formie elektronicznej;
-- **5)** wglàd do wszelkich dokumentów dotyczàcych agenta ubezpieczeniowego zak∏adu ubezpieczeƒ, znajdujàcych si´ w posiadaniu zak∏adu ubezpieczeƒ wymagane kopie, odpisy iwyciàgi ztych dokumentów;
-- **6)** uzyskanie wyjaÊnieƒ ustnych lub pisemnych od pracowników i agentów ubezpieczeniowych za7) sporzàdzenie niezb´dnych danych na ˝àdanie inspektorów, w tym równie˝ wmiar´ mo˝liwoÊci wformie elektronicznej;
-- **8)** mo˝liwoÊç zabezpieczenia dokumentów iinnych dowodów.
+- **1)** wstęp do wszystkich pomieszczeń kontrolowanego zakładu ubezpieczeń;
+- **2)** w miarę możliwości, swobodny dostęp do oddzielnego pomieszczenia biurowego środków łączności;
+- **3)** wgląd do wszelkich dokumentów kontrolowanego zakładu ubezpieczeń wymagane kopie, odpisy iwyciągi ztych dokumentów;
+- **4)** wgląd do danych zawartych wsystemach informatycznych wymagane kopie lub wyciągi z tych danych, w tym również w formie elektronicznej;
+- **5)** wgląd do wszelkich dokumentów dotyczących agenta ubezpieczeniowego zakładu ubezpieczeń, znajdujących się w posiadaniu zakładu ubezpieczeń wymagane kopie, odpisy iwyciągi ztych dokumentów;
+- **6)** uzyskanie wyjaśnień ustnych lub pisemnych od pracowników i agentów ubezpieczeniowych za7) sporządzenie niezbędnych danych na żądanie inspektorów, w tym również wmiarę możliwości wformie elektronicznej;
+- **8)** możliwość zabezpieczenia dokumentów iinnych dowodów.
 
-3. Materia∏y sporzàdzane przez zak∏ad ubezpieczeƒ na potrzeby przeprowadzanej kontroli powinny byç podpisane przez osoby upowa˝nione do ich sporzàdzania. W przypadku odmowy dokonania tych czynnoÊci inspektor sporzàdza stosownà adnotacj´ na tych materia∏ach.
+3. Materiały sporządzane przez zakład ubezpieczeń na potrzeby przeprowadzanej kontroli powinny być podpisane przez osoby upoważnione do ich sporządzania. W przypadku odmowy dokonania tych czynności inspektor sporządza stosowną adnotację na tych materiałach.
 
 **Art. 19e.**
 
-1. Ustaleƒ kontroli dokonuje si´ na podstawie dowodów.
+1. Ustaleń kontroli dokonuje się na podstawie dowodów.
 
-2. Do dowodów zalicza si´ w szczególnoÊci:
+2. Do dowodów zalicza się w szczególności:
 
 - **1)** dokumenty;
-- **2)** dane i informacje umieszczone w systemach informatycznych zak∏adu ubezpieczeƒ;
+- **2)** dane i informacje umieszczone w systemach informatycznych zakładu ubezpieczeń;
 - **3)** dowody rzeczowe;
-- **4)** oÊwiadczenia, informacje i wyjaÊnienia z∏o˝one przez upowa˝nionych pracowników i poÊredników ubezpieczeniowych zak∏adu ubezpieczeƒ;
-- **5)** oÊwiadczenia osób trzecich;
+- **4)** oświadczenia, informacje i wyjaśnienia złożone przez upoważnionych pracowników i pośredników ubezpieczeniowych zakładu ubezpieczeń;
+- **5)** oświadczenia osób trzecich;
 - **6)** opinie ekspertów;
-- **7)** wyniki ogl´dzin;
-- **8)** inne materia∏y b´dàce przedmiotem kontroli, które mogà przyczyniç si´ do stwierdzenia stanu faktycznego w zakresie obj´tym kontrolà.
+- **7)** wyniki oględzin;
+- **8)** inne materiały będące przedmiotem kontroli, które mogą przyczynić się do stwierdzenia stanu faktycznego w zakresie objętym kontrolą.
 
-3. Organ nadzoru przed podpisaniem protoko∏u, o którym mowa w art. 19f ust. 1, zapewnia zak∏adowi ubezpieczeƒ mo˝liwoÊç zapoznania si´ ustosunkowania si´ do materia∏ów, b´dàcych dowodami w kontroli, które nie zosta∏y uzyskane w toku kontroli.
+3. Organ nadzoru przed podpisaniem protokołu, o którym mowa w art. 19f ust. 1, zapewnia zakładowi ubezpieczeń możliwość zapoznania się ustosunkowania się do materiałów, będących dowodami w kontroli, które nie zostały uzyskane w toku kontroli.
 
-4. Dowody uzyskane w toku kontroli sà przechowywane wsposób uniemo˝liwiajàcy dost´p do nich bez zgody inspektora kierujàcego zespo∏em inspekcyjnym.
+4. Dowody uzyskane w toku kontroli są przechowywane wsposób uniemożliwiający dostęp do nich bez zgody inspektora kierującego zespołem inspekcyjnym.
 
-5. Zebrane wtoku kontroli dowody mogà byç zabezpieczane przez:
+5. Zebrane wtoku kontroli dowody mogą być zabezpieczane przez:
 
-- **1)** oddanie na przechowanie zarzàdowi zak∏adu ubezpieczeƒ lub upowa˝nionemu przez zarzàd pracownikowi zak∏adu ubezpieczeƒ za pokwitowaniem;
-- **2)** przechowanie w siedzibie zak∏adu
-- **3)** zabranie z zak∏adu ubezpieczeƒ za pokwitowaniem.
+- **1)** oddanie na przechowanie zarządowi zakładu ubezpieczeń lub upoważnionemu przez zarząd pracownikowi zakładu ubezpieczeń za pokwitowaniem;
+- **2)** przechowanie w siedzibie zakładu
+- **3)** zabranie z zakładu ubezpieczeń za pokwitowaniem.
 
 **Art. 19f.**
 
-1. Z przeprowadzonej kontroli sporzàdza si´ protokó∏.
+1. Z przeprowadzonej kontroli sporządza się protokół.
 
-2. Protokó∏ kontroli zawiera w szczególnoÊci:
+2. Protokół kontroli zawiera w szczególności:
 
-- **1)** nazw´ isiedzib´ zak∏adu ubezpieczeƒ;
-- **2)** dat´ i numer upowa˝nienia do przeprowadzenia kontroli jego zmiany;
-- **3)** miejsce i dat´ przeprowadzania czynnoÊci kontrolnych;
-- **4)** wskazanie jednostek organizacyjnych obj´tych kontrolà;
-- **5)** imiona i nazwiska inspektorów przeprowadzajàcych kontrol´;
-- **6)** okreÊlenie zakresu kontroli;
-- **7)** imiona i nazwiska stanowiska s∏u˝bowe osób sk∏adajàcych oÊwiadczenia udzielajàcych informacji i wyjaÊnieƒ w toku kontroli;
-- **8)** opis dokonanych czynnoÊci ustalenia stanu faktycznego;
-- **9)** wzmiank´ o poinformowaniu zak∏adu ubezpieczeƒ o przys∏ugujàcych mu prawach iobowiàzkach;
-- **10)** wykaz za∏àczników z podaniem nazwy icech ka˝dego za∏àcznika;
-- **11)** miejsce i dat´ sporzàdzenia protoko∏u.
+- **1)** nazwę isiedzibę zakładu ubezpieczeń;
+- **2)** datę i numer upoważnienia do przeprowadzenia kontroli jego zmiany;
+- **3)** miejsce i datę przeprowadzania czynności kontrolnych;
+- **4)** wskazanie jednostek organizacyjnych objętych kontrolą;
+- **5)** imiona i nazwiska inspektorów przeprowadzających kontrolę;
+- **6)** określenie zakresu kontroli;
+- **7)** imiona i nazwiska stanowiska służbowe osób składających oświadczenia udzielających informacji i wyjaśnień w toku kontroli;
+- **8)** opis dokonanych czynności ustalenia stanu faktycznego;
+- **9)** wzmiankę o poinformowaniu zakładu ubezpieczeń o przysługujących mu prawach iobowiązkach;
+- **10)** wykaz załączników z podaniem nazwy icech każdego załącznika;
+- **11)** miejsce i datę sporządzenia protokołu.
 
-3. Protokó∏ kontroli sporzàdza si´ wdwóch egzemplarzach, zktórych jeden egzemplarz inspektor kierujàcy zespo∏em inspekcyjnym lub w jego zast´pstwie inny inspektor wchodzàcy w sk∏ad zespo∏u inspekcyjnego przeprowadzajàcego kontrol´ przekazuje zak∏adowi ubezpieczeƒ.
+3. Protokół kontroli sporządza się wdwóch egzemplarzach, zktórych jeden egzemplarz inspektor kierujący zespołem inspekcyjnym lub w jego zastępstwie inny inspektor wchodzący w skład zespołu inspekcyjnego przeprowadzającego kontrolę przekazuje zakładowi ubezpieczeń.
 
-4. Osoba upowa˝niona przez organ zarzàdzajàcy zak∏adu ubezpieczeƒ potwierdza odbiór protoko∏u kontroli na jednym egzemplarzu protoko∏u podpisanym przez inspektora kierujàcego zespo∏em inspekcyjnym. Osoby te parafujà ka˝dà stron´ protoko∏u.
+4. Osoba upoważniona przez organ zarządzający zakładu ubezpieczeń potwierdza odbiór protokołu kontroli na jednym egzemplarzu protokołu podpisanym przez inspektora kierującego zespołem inspekcyjnym. Osoby te parafują każdą stronę protokołu.
 
-5. Je˝eli zak∏ad ubezpieczeƒ odmawia lub uchyla si´ od odebrania protoko∏u kontroli, organ nadzoru wzywa pisemnie zak∏ad ubezpieczeƒ do odebrania protoko∏u, wyznaczajàc termin nie krótszy ni˝ 7 dni do dokonania tej czynnoÊci. W przypadku bezskutecznego up∏ywu wyznaczonego terminu
+5. Jeżeli zakład ubezpieczeń odmawia lub uchyla się od odebrania protokołu kontroli, organ nadzoru wzywa pisemnie zakład ubezpieczeń do odebrania protokołu, wyznaczając termin nie krótszy niż 7 dni do dokonania tej czynności. W przypadku bezskutecznego upływu wyznaczonego terminu
 
 **Art. 19g.**
 
-1. Po podpisaniu protoko∏u kontroli nie dokonuje si´ w protokole ˝adnych poprawek i dopisków, z zastrze˝eniem ust. 2.
+1. Po podpisaniu protokołu kontroli nie dokonuje się w protokole żadnych poprawek i dopisków, z zastrzeżeniem ust. 2.
 
-2. Oczywiste omy∏ki pisarskie prostuje inspektor kierujàcy zespo∏em inspekcyjnym, parafujàc sprostowania. Organ nadzoru o sprostowaniu oczywistych omy∏ek pisarskich informuje pisemnie zak∏ad ubezpieczeƒ.
+2. Oczywiste omyłki pisarskie prostuje inspektor kierujący zespołem inspekcyjnym, parafując sprostowania. Organ nadzoru o sprostowaniu oczywistych omyłek pisarskich informuje pisemnie zakład ubezpieczeń.
 
 **Art. 19h.**
 
-1. Wterminie 14 dni od dnia podpisania protoko∏u kontroli zak∏ad ubezpieczeƒ mo˝e zg∏osiç organowi nadzoru pisemne zastrze˝enia i uwagi do treÊci protoko∏u wyjaÊnienia w sprawach obj´tych zakresem kontroli.
+1. Wterminie 14 dni od dnia podpisania protokołu kontroli zakład ubezpieczeń może zgłosić organowi nadzoru pisemne zastrzeżenia i uwagi do treści protokołu wyjaśnienia w sprawach objętych zakresem kontroli.
 
-2. O sposobie rozpatrzenia zastrze˝eƒ organ nadzoru informuje zak∏ad ubezpieczeƒ w terminie 14 dni od dnia dor´czenia zastrze˝eƒ.
+2. O sposobie rozpatrzenia zastrzeżeń organ nadzoru informuje zakład ubezpieczeń w terminie 14 dni od dnia doręczenia zastrzeżeń.
 
-3. Informacje o sposobie rozpatrzenia zastrze˝eƒ za∏àcza si´ do protoko∏u kontroli.
+3. Informacje o sposobie rozpatrzenia zastrzeżeń załącza się do protokołu kontroli.
 
-**Art. 19i.** Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej.”;
+**Art. 19i.** Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej.”;
 
 **Art. 35b.**
 
-1. Kontrol´ przedsi´biorcy prowadzàcego dzia∏alnoÊç brokerskà przeprowadza zespó∏ inspekcyjny sk∏adajàcy si´ co najmniej z dwóch inspektorów po okazaniu legitymacji s∏u˝bowej
+1. Kontrolę przedsiębiorcy prowadzącego działalność brokerską przeprowadza zespół inspekcyjny składający się co najmniej z dwóch inspektorów po okazaniu legitymacji służbowej
 
 - **1)** wskazanie podstawy prawnej;
 - **2)** oznaczenie organu kontroli;
-- **3)** dat´ imiejsce wystawienia;
-- **4)** imi´ i nazwisko inspektora uprawnionego do wykonania kontroli numer jego legitymacji s∏u˝bowej;
-- **5)** firm´ przedsi´biorcy obj´tego kontrolà;
-- **6)** okreÊlenie zakresu przedmiotowego kontroli;
-- **7)** wskazanie daty rozpocz´cia i przewidywanego terminu zakoƒczenia kontroli;
-- **8)** podpis osoby udzielajàcej upowa˝nienia z podaniem zajmowanego stanowiska lub funkcji;
-- **9)** pouczenie o prawach i obowiàzkach kontrolowanego przedsi´biorcy.
+- **3)** datę imiejsce wystawienia;
+- **4)** imię i nazwisko inspektora uprawnionego do wykonania kontroli numer jego legitymacji służbowej;
+- **5)** firmę przedsiębiorcy objętego kontrolą;
+- **6)** określenie zakresu przedmiotowego kontroli;
+- **7)** wskazanie daty rozpoczęcia i przewidywanego terminu zakończenia kontroli;
+- **8)** podpis osoby udzielającej upoważnienia z podaniem zajmowanego stanowiska lub funkcji;
+- **9)** pouczenie o prawach i obowiązkach kontrolowanego przedsiębiorcy.
 
-3. Kontrola jest przeprowadzana w siedzibie lub w miejscu wykonywania dzia∏alnoÊci przez przedsi´biorc´ prowadzàcego dzia∏alnoÊç brokerskà w godzinach pracy lub w czasie faktycznego wykonywania dzia∏alnoÊci przez przedsi´biorc´ prowadzàcego dzia∏alnoÊç brokerskà.
+3. Kontrola jest przeprowadzana w siedzibie lub w miejscu wykonywania działalności przez przedsiębiorcę prowadzącego działalność brokerską w godzinach pracy lub w czasie faktycznego wykonywania działalności przez przedsiębiorcę prowadzącego działalność brokerską.
 
-4. Kontrola lub poszczególne czynnoÊci kontrolne, za zgodà kontrolowanego, mogà byç przeprowadzane równie˝ w siedzibie organu je˝eli mo˝e to usprawniç prowadzenie kontroli.
+4. Kontrola lub poszczególne czynności kontrolne, za zgodą kontrolowanego, mogą być przeprowadzane również w siedzibie organu jeżeli może to usprawnić prowadzenie kontroli.
 
 **Art. 35c.**
 
-1. Inspektor podlega wy∏àczeniu od udzia∏u w kontroli, je˝eli ustalenia kontroli mog∏yby oddzia∏ywaç na jego prawa lub obowiàzki albo prawa lub obowiàzki jego ma∏˝onka lub osoby pozostajàcej z nim faktycznie we wspólnym po˝yciu, krewnych i powinowatych do drugiego stopnia bàdê osób zwiàzanych znim ztytu∏u przysposobienia, opieki lub kurateli.
+1. Inspektor podlega wyłączeniu od udziału w kontroli, jeżeli ustalenia kontroli mogłyby oddziaływać na jego prawa lub obowiązki albo prawa lub obowiązki jego małżonka lub osoby pozostającej z nim faktycznie we wspólnym pożyciu, krewnych i powinowatych do drugiego stopnia bądê osób związanych znim ztytułu przysposobienia, opieki lub kurateli.
 
-2. Inspektor mo˝e byç wy∏àczony równie˝ wrazie stwierdzenia innych przyczyn, które mog∏yby wywo∏aç wàtpliwoÊci co do jego bezstronnoÊci.
+2. Inspektor może być wyłączony również wrazie stwierdzenia innych przyczyn, które mogłyby wywołać wątpliwości co do jego bezstronności.
 
-3. Je˝eli okolicznoÊci, o których mowa w ust. 1 i 2, ujawnià si´ w toku kontroli, inspektor powstrzymuje si´ od dalszych czynnoÊci i zawiadamia dor´czeniu upowa˝nienia do przeprowadzenia kontroli wydanego przez organ nadzoru. otym niezw∏ocznie organ nadzoru.
+3. Jeżeli okoliczności, o których mowa w ust. 1 i 2, ujawnią się w toku kontroli, inspektor powstrzymuje się od dalszych czynności i zawiadamia doręczeniu upoważnienia do przeprowadzenia kontroli wydanego przez organ nadzoru. otym niezwłocznie organ nadzoru.
 
-4. Wy∏àczony inspektor powinien podejmowaç jedynie czynnoÊci niecierpiàce zw∏oki, ze wzgl´du na interes
+4. Wyłączony inspektor powinien podejmować jedynie czynności niecierpiące zwłoki, ze względu na interes
 
-5. O wy∏àczeniu od udzia∏u w kontroli postanawia organ nadzoru z urz´du albo na wniosek przedsi´biorcy prowadzàcego dzia∏alnoÊç brokerskà lub na wniosek inspektora. Organ nadzoru, postanawiajàc o wy∏àczeniu inspektora, uzupe∏nia sk∏ad zespo∏u inspekcyjnego, atak˝e zmienia odpowiednio upowa˝nienia do przeprowadzenia kontroli niezw∏ocznie dor´cza upowa˝nienia przedsi´biorcy prowadzàcemu dzia∏alnoÊç brokerskà.
+5. O wyłączeniu od udziału w kontroli postanawia organ nadzoru z urzędu albo na wniosek przedsiębiorcy prowadzącego działalność brokerską lub na wniosek inspektora. Organ nadzoru, postanawiając o wyłączeniu inspektora, uzupełnia skład zespołu inspekcyjnego, atakże zmienia odpowiednio upoważnienia do przeprowadzenia kontroli niezwłocznie doręcza upoważnienia przedsiębiorcy prowadzącemu działalność brokerską.
 
-6. Z wa˝nych przyczyn organ nadzoru mo˝e zmieniç sk∏ad osobowy zespo∏u inspekcyjnego tak˝e w przypadkach innych ni˝ okreÊlone wust. 1 i2. Zdanie drugie ust. 5 stosuje si´ odpowiednio.
+6. Z ważnych przyczyn organ nadzoru może zmienić skład osobowy zespołu inspekcyjnego także w przypadkach innych niż określone wust. 1 i2. Zdanie drugie ust. 5 stosuje się odpowiednio.
 
 **Art. 35d.**
 
-1. Przedsi´biorca prowadzàcy dzia∏alnoÊç brokerskà zapewnia zespo∏owi inspekcyjnemu warunki i Êrodki niezb´dne do sprawnego przeprowadzania kontroli.
+1. Przedsiębiorca prowadzący działalność brokerską zapewnia zespołowi inspekcyjnemu warunki i środki niezbędne do sprawnego przeprowadzania kontroli.
 
-2. Podczas kontroli przedsi´biorca prowadzàcy dzia∏alnoÊç brokerskà zapewnia inspektorom:
+2. Podczas kontroli przedsiębiorca prowadzący działalność brokerską zapewnia inspektorom:
 
-- **1)** wst´p do wszystkich pomieszczeƒ kontrolowanego;
-- **2)** w miar´ mo˝liwoÊci, swobodny dost´p do oddzielnego pomieszczenia biurowego Êrodków ∏àcznoÊci;
-- **3)** wglàd do wszelkich dokumentów kontrolowanego wymagane kopie, odpisy iwyciàgi ztych dokumentów;
-- **4)** wglàd do danych zawartych wsystemach informatycznych wymagane kopie lub wyciàgi z tych danych, w tym równie˝ w formie elektronicznej;
-- **5)** uzyskanie wyjaÊnieƒ ustnych lub pisemnych od kontrolowanego lub jego pracowników, w tym w miar´ mo˝liwoÊci w formie elektronicznej;
-- **6)** sporzàdzenie niezb´dnych danych na ˝àdanie inspektorów, w tym równie˝ wmiar´ mo˝liwoÊci wformie elektronicznej;
-- **7)** mo˝liwoÊç zabezpieczenia dokumentów iinnych dowodów.
+- **1)** wstęp do wszystkich pomieszczeń kontrolowanego;
+- **2)** w miarę możliwości, swobodny dostęp do oddzielnego pomieszczenia biurowego środków łączności;
+- **3)** wgląd do wszelkich dokumentów kontrolowanego wymagane kopie, odpisy iwyciągi ztych dokumentów;
+- **4)** wgląd do danych zawartych wsystemach informatycznych wymagane kopie lub wyciągi z tych danych, w tym również w formie elektronicznej;
+- **5)** uzyskanie wyjaśnień ustnych lub pisemnych od kontrolowanego lub jego pracowników, w tym w miarę możliwości w formie elektronicznej;
+- **6)** sporządzenie niezbędnych danych na żądanie inspektorów, w tym również wmiarę możliwości wformie elektronicznej;
+- **7)** możliwość zabezpieczenia dokumentów iinnych dowodów.
 
-3. W okresie trwania kontroli podmiot prowadzàcy dzia∏alnoÊç brokerskà jest zobowiàzany do niezw∏ocznego przez osoby upowa˝nione do ich sporzàdzania. W przypadku odmowy dokonania tych czynnoÊci inspektor sporzàdza stosownà adnotacj´ na tych materia∏ach.
+3. W okresie trwania kontroli podmiot prowadzący działalność brokerską jest zobowiązany do niezwłocznego przez osoby upoważnione do ich sporządzania. W przypadku odmowy dokonania tych czynności inspektor sporządza stosowną adnotację na tych materiałach.
 
 **Art. 35e.**
 
-1. Ustaleƒ kontroli dokonuje si´ na podstawie dowodów.
+1. Ustaleń kontroli dokonuje się na podstawie dowodów.
 
-2. Do dowodów zalicza si´ w szczególnoÊci:
+2. Do dowodów zalicza się w szczególności:
 
 - **1)** dokumenty;
-- **2)** dane i informacje umieszczone w systemach informatycznych przedsi´biorcy prowadzàcego dzia∏alnoÊç brokerskà;
+- **2)** dane i informacje umieszczone w systemach informatycznych przedsiębiorcy prowadzącego działalność brokerską;
 - **3)** dowody rzeczowe;
-- **4)** oÊwiadczenia, informacje i wyjaÊnienia z∏o˝one przez przedsi´biorc´ prowadzàcego dzia∏alnoÊç brokerskà lub jego upowa˝nionych pracowników;
-- **5)** oÊwiadczenia osób trzecich;
+- **4)** oświadczenia, informacje i wyjaśnienia złożone przez przedsiębiorcę prowadzącego działalność brokerską lub jego upoważnionych pracowników;
+- **5)** oświadczenia osób trzecich;
 - **6)** opinie ekspertów;
-- **7)** wyniki ogl´dzin;
-- **8)** inne materia∏y b´dàce przedmiotem kontroli, które mogà przyczyniç si´ do stwierdzenia stanu faktycznego w zakresie obj´tym kontrolà.
+- **7)** wyniki oględzin;
+- **8)** inne materiały będące przedmiotem kontroli, które mogą przyczynić się do stwierdzenia stanu faktycznego w zakresie objętym kontrolą.
 
-3. Organ nadzoru przed podpisaniem protoko∏u, o którym mowa w art. 19f ust. 1, zapewnia przedsi´biorcy prowadzàcemu dzia∏alnoÊç brokerskà mo˝liwoÊç zapoznania si´ ustosunkowania si´ do materia∏ów, b´dàcych dowodami w kontroli, które nie zosta∏y uzyskane w toku kontroli.
+3. Organ nadzoru przed podpisaniem protokołu, o którym mowa w art. 19f ust. 1, zapewnia przedsiębiorcy prowadzącemu działalność brokerską możliwość zapoznania się ustosunkowania się do materiałów, będących dowodami w kontroli, które nie zostały uzyskane w toku kontroli.
 
-4. Dowody uzyskane w toku kontroli sà przechowywane wsposób uniemo˝liwiajàcy dost´p do nich bez zgody inspektora kierujàcego zespo∏em wype∏niania obowiàzków, o których mowa wust. 2.
+4. Dowody uzyskane w toku kontroli są przechowywane wsposób uniemożliwiający dostęp do nich bez zgody inspektora kierującego zespołem wypełniania obowiązków, o których mowa wust. 2.
 
-4. Materia∏y sporzàdzane przez przedinspekcyjnym. Ograniczenie to nie dotyczy inspektorów wchodzàcych wsk∏ad zespo∏u inspekcyjnego.
+4. Materiały sporządzane przez przedinspekcyjnym. Ograniczenie to nie dotyczy inspektorów wchodzących wskład zespołu inspekcyjnego.
 
-5. Zebrane wtoku kontroli dowody mogà byç zabezpieczane przez:
+5. Zebrane wtoku kontroli dowody mogą być zabezpieczane przez:
 
-- **1)** oddanie na przechowanie przedsi´biorcy prowadzàcemu dzia∏alnoÊç brokerskà lub upowa˝nionemu przez niego pracownikowi za pokwitowaniem;
-- **2)** przechowanie w siedzibie przedsi´biorcy prowadzàcego dzia∏alnoÊç brokerskà w oddzielnym, zamkni´tym i opiecz´towanym pomieszczeniu;
+- **1)** oddanie na przechowanie przedsiębiorcy prowadzącemu działalność brokerską lub upoważnionemu przez niego pracownikowi za pokwitowaniem;
+- **2)** przechowanie w siedzibie przedsiębiorcy prowadzącego działalność brokerską w oddzielnym, zamkniętym i opieczętowanym pomieszczeniu;
 
 **Art. 35f.**
 
-1. Z przeprowadzonej kontroli sporzàdza si´ protokó∏.
+1. Z przeprowadzonej kontroli sporządza się protokół.
 
-2. Protokó∏ kontroli zawiera w szczególnoÊci:
+2. Protokół kontroli zawiera w szczególności:
 
-- **1)** nazw´ i siedzib´ przedsi´biorcy prowadzàcego dzia∏alnoÊç brokerskà;
-- **2)** dat´ i numer upowa˝nienia do przeprowadzenia kontroli jego zmiany;
-- **3)** miejsce i dat´ przeprowadzania czynnoÊci kontrolnych;
-- **4)** imiona i nazwiska inspektorów przeprowadzajàcych kontrol´;
-- **5)** okreÊlenie zakresu kontroli;
-- **6)** imiona i nazwiska stanowiska s∏u˝bowe osób sk∏adajàcych oÊwiadczenia udzielajàcych informacji i wyjaÊnieƒ w toku kontroli;
-- **7)** opis dokonanych czynnoÊci ustalenia stanu faktycznego;
-- **8)** wzmiank´ o poinformowaniu przedsi´biorcy prowadzàcego dzia∏alnoÊç brokerskà o przys∏ugujàcych mu prawach i obowiàzkach;
-- **9)** wykaz za∏àczników z podaniem nazwy icech ka˝dego za∏àcznika;
-- **10)** miejsce i dat´ sporzàdzenia protoko∏u.
+- **1)** nazwę i siedzibę przedsiębiorcy prowadzącego działalność brokerską;
+- **2)** datę i numer upoważnienia do przeprowadzenia kontroli jego zmiany;
+- **3)** miejsce i datę przeprowadzania czynności kontrolnych;
+- **4)** imiona i nazwiska inspektorów przeprowadzających kontrolę;
+- **5)** określenie zakresu kontroli;
+- **6)** imiona i nazwiska stanowiska służbowe osób składających oświadczenia udzielających informacji i wyjaśnień w toku kontroli;
+- **7)** opis dokonanych czynności ustalenia stanu faktycznego;
+- **8)** wzmiankę o poinformowaniu przedsiębiorcy prowadzącego działalność brokerską o przysługujących mu prawach i obowiązkach;
+- **9)** wykaz załączników z podaniem nazwy icech każdego załącznika;
+- **10)** miejsce i datę sporządzenia protokołu.
 
-3. Protokó∏ kontroli sporzàdza si´ wdwóch egzemplarzach, zktórych jeden egzemplarz dor´cza si´ przedsi´biorcy prowadzàcemu dzia∏alnoÊç brokerskà.
+3. Protokół kontroli sporządza się wdwóch egzemplarzach, zktórych jeden egzemplarz doręcza się przedsiębiorcy prowadzącemu działalność brokerską.
 
-4. Przed dor´czeniem protoko∏u podmiotowi prowadzàcemu dzia∏alnoÊç brokerskà inspektor kierujàcy zespo∏em inspekcyjnym podpisuje oba egzemplarze protoko∏u kontroli.
+4. Przed doręczeniem protokołu podmiotowi prowadzącemu działalność brokerską inspektor kierujący zespołem inspekcyjnym podpisuje oba egzemplarze protokołu kontroli.
 
-5. Do dor´czenia protoko∏u kontroli odpowiednio stosuje si´ przepisy Kodeksu post´powania administracyjnego dotyczàce dor´czeƒ, zzastrze˝eniem, ˝e organ nadzoru mo˝e uznaç protokó∏ za dor´czony w przypadku, gdy broker uchyla si´ od odebrania protoko∏u.
+5. Do doręczenia protokołu kontroli odpowiednio stosuje się przepisy Kodeksu postępowania administracyjnego dotyczące doręczeń, zzastrzeżeniem, że organ nadzoru może uznać protokół za doręczony w przypadku, gdy broker uchyla się od odebrania protokołu.
 
 **Art. 35g.**
 
-1. Po podpisaniu protoko∏u kontroli nie dokonuje si´ w protokole ˝adnych poprawek i dopisków, z zastrze˝eniem ust. 2.
+1. Po podpisaniu protokołu kontroli nie dokonuje się w protokole żadnych poprawek i dopisków, z zastrzeżeniem ust. 2.
 
-2. Oczywiste omy∏ki pisarskie prostuje inspektor kierujàcy zespo∏em inspekcyjnym, parafujàc sprostowania. Organ nadzoru o sprostowaniu oczyArt. 35h. 1. Wterminie 14 dni od dnia podpisania protoko∏u kontroli przedsi´biorca prowadzàcy dzia∏alnoÊç brokerskà mo˝e zg∏osiç organowi nadzoru pisemne zastrze˝enia i uwagi do treÊci protoko∏u wyjaÊnienia w sprawach obj´tych zakresem kontroli.
+2. Oczywiste omyłki pisarskie prostuje inspektor kierujący zespołem inspekcyjnym, parafując sprostowania. Organ nadzoru o sprostowaniu oczyArt. 35h. 1. Wterminie 14 dni od dnia podpisania protokołu kontroli przedsiębiorca prowadzący działalność brokerską może zgłosić organowi nadzoru pisemne zastrzeżenia i uwagi do treści protokołu wyjaśnienia w sprawach objętych zakresem kontroli.
 
-2. O sposobie rozpatrzenia zastrze˝eƒ organ nadzoru informuje przedsi´biorc´ prowadzàcego dzia∏alnoÊç brokerskà w terminie 14 dni od dnia dor´czenia zastrze˝eƒ.
+2. O sposobie rozpatrzenia zastrzeżeń organ nadzoru informuje przedsiębiorcę prowadzącego działalność brokerską w terminie 14 dni od dnia doręczenia zastrzeżeń.
 
-3. Informacje o sposobie rozpatrzenia zastrze˝eƒ za∏àcza si´ do protoko∏u kontroli.
+3. Informacje o sposobie rozpatrzenia zastrzeżeń załącza się do protokołu kontroli.
 
-**Art. 35i.** Do kontroli dzia∏alnoÊci brokerskiej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej.”.
+**Art. 35i.** Do kontroli działalności brokerskiej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej.”.
 
-**Art. 46.** Wustawie zdnia 12 czerwca 2003 Prawo pocztowe (Dz. U. z2008 189, 1159) wprowadza si´ nast´pujàce zmiany:
+**Art. 46.** Wustawie zdnia 12 czerwca 2003 Prawo pocztowe (Dz. U. z2008 189, 1159) wprowadza się następujące zmiany:
 
-**Art. 48.** W ustawie z dnia 12 grudnia 2003 oogólnym bezpieczeƒstwie produktów (Dz. U. 229, 2275, z 2007 35, 215 z 2008 157, 976) wprowadza si´ nast´pujàce zmiany:
+**Art. 48.** W ustawie z dnia 12 grudnia 2003 oogólnym bezpieczeństwie produktów (Dz. U. 229, 2275, z 2007 35, 215 z 2008 157, 976) wprowadza się następujące zmiany:
 
-**Art. 49.** W ustawie z dnia 29 stycznia 2004 o Inspekcji Weterynaryjnej (Dz. U. z 2007 121, 842, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 49.** W ustawie z dnia 29 stycznia 2004 o Inspekcji Weterynaryjnej (Dz. U. z 2007 121, 842, z póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 19b.**
 
-1. Kontrolujàcy przeprowadzajà kontrole:
+1. Kontrolujący przeprowadzają kontrole:
 
-- **1)** okresowe na podstawie planów kontroli sporzàdzanych przez powiatowego lub wojewódzkiego lekarza weterynarii;
-- **2)** doraêne podj´te poza planem kontroli, w tym zwiàzane z rozpatrzeniem skarg iwniosków.
+- **1)** okresowe na podstawie planów kontroli sporządzanych przez powiatowego lub wojewódzkiego lekarza weterynarii;
+- **2)** doraêne podjęte poza planem kontroli, w tym związane z rozpatrzeniem skarg iwniosków.
 
-2. Powiatowy iwojewódzki lekarz weterynarii przeprowadzajà kontrol´, októrej mowa wust. 1 pkt 2, na polecenie G∏ównego Lekarza Weterynarii, wzakresie przez niego okreÊlonym.
+2. Powiatowy iwojewódzki lekarz weterynarii przeprowadzają kontrolę, októrej mowa wust. 1 pkt 2, na polecenie Głównego Lekarza Weterynarii, wzakresie przez niego określonym.
 
-1b. Upowa˝nienie do przeprowadzenia kontroli powinno zawieraç:
+1b. Upoważnienie do przeprowadzenia kontroli powinno zawierać:
 
-- **1)** oznaczenie organu wystawiajàcego upowa˝nienie;
-- **2)** imi´ inazwisko osoby upowa˝nionej;
+- **1)** oznaczenie organu wystawiającego upoważnienie;
+- **2)** imię inazwisko osoby upoważnionej;
 - **3)** numer odznaki identyfikacyjnej;
-- **4)** stanowisko i numer legitymacji s∏u˝bowej pracownika Inspekcji Weterynaryjnej;
+- **4)** stanowisko i numer legitymacji służbowej pracownika Inspekcji Weterynaryjnej;
 
-3. Powiatowy lekarz weterynarii przeprowadza kontrol´, o której mowa w ust. 1 pkt 2, równie˝ na polecenie wojewódzkiego lekarza weterynarii, wzakresie przez niego okreÊlonym.
+3. Powiatowy lekarz weterynarii przeprowadza kontrolę, o której mowa w ust. 1 pkt 2, również na polecenie wojewódzkiego lekarza weterynarii, wzakresie przez niego określonym.
 
 **Art. 19c.**
 
-1. Kontrol´ przeprowadza si´ wobecnoÊci kierownika podmiotu kontrolowanego albo osoby przez niego upowa˝nionej.
+1. Kontrolę przeprowadza się wobecności kierownika podmiotu kontrolowanego albo osoby przez niego upoważnionej.
 
-2. Kontrolujàcy dokonuje ustaleƒ stanu faktycznego na podstawie zebranych wtoku kontroli dowodów.
+2. Kontrolujący dokonuje ustaleń stanu faktycznego na podstawie zebranych wtoku kontroli dowodów.
 
-3. Dowodami sà wszczególnoÊci dokumenty, ogl´dziny, zeznania Êwiadków, opinie bieg∏ych wyjaÊnienia ioÊwiadczenia. ———————
+3. Dowodami są wszczególności dokumenty, oględziny, zeznania świadków, opinie biegłych wyjaśnienia ioświadczenia. ———————
 
-- **1)** oznaczenie podmiotu kontrolowanego, jego siedzib´ i adres, imi´ i nazwisko kierownika podmiotu kontrolowanego, z uwzgl´dnieniem zmian zaistnia∏ych wokresie obj´tym kontrolà;
-- **2)** imi´ i nazwisko stanowisko s∏u˝bowe kontrolujàcego numer i dat´ wystawienia upowa˝nienia do przeprowadzenia kontroli;
-- **3)** dat´ rozpocz´cia i zakoƒczenia kontroli, ze wskazaniem dni przerw wkontroli;
-- **4)** okreÊlenie przedmiotu kontroli;
-- **5)** opis stwierdzonego w wyniku kontroli stanu faktycznego, wtym ujawnionych nieprawid∏owoÊci ich zakresu iskutków;
-- **6)** pouczenie o prawie, sposobie i terminie wniesienia zastrze˝eƒ do ustaleƒ zawartych wprotokole kontroli i z∏o˝enia wyjaÊnieƒ o prawie odmowy podpisania protoko∏u kontroli;
-- **7)** wzmiank´ o wniesieniu zastrze˝eƒ;
-- **8)** omówienie dokonanych w protokole kontroli poprawek, skreÊleƒ iuzupe∏nieƒ;
-- **9)** wzmiank´ o dor´czeniu podmiotowi kontrolowanemu protoko∏u kontroli;
-- **10)** podpisy kontrolujàcego i kierownika podmiotu kontrolowanego albo osoby przez niego upowa˝nionej miejsce i dat´ podpisania protoko∏u kontroli;
-- **11)** wzmiank´ oodmowie podpisania protoko∏u kontroli;
-- **12)** oznaczenie odpowiednià klauzulà tajnoÊci protoko∏u kontroli lub jego fragmentu w przypadku, gdy protokó∏ zawiera informacje niejawne.
+- **1)** oznaczenie podmiotu kontrolowanego, jego siedzibę i adres, imię i nazwisko kierownika podmiotu kontrolowanego, z uwzględnieniem zmian zaistniałych wokresie objętym kontrolą;
+- **2)** imię i nazwisko stanowisko służbowe kontrolującego numer i datę wystawienia upoważnienia do przeprowadzenia kontroli;
+- **3)** datę rozpoczęcia i zakończenia kontroli, ze wskazaniem dni przerw wkontroli;
+- **4)** określenie przedmiotu kontroli;
+- **5)** opis stwierdzonego w wyniku kontroli stanu faktycznego, wtym ujawnionych nieprawidłowości ich zakresu iskutków;
+- **6)** pouczenie o prawie, sposobie i terminie wniesienia zastrzeżeń do ustaleń zawartych wprotokole kontroli i złożenia wyjaśnień o prawie odmowy podpisania protokołu kontroli;
+- **7)** wzmiankę o wniesieniu zastrzeżeń;
+- **8)** omówienie dokonanych w protokole kontroli poprawek, skreśleń iuzupełnień;
+- **9)** wzmiankę o doręczeniu podmiotowi kontrolowanemu protokołu kontroli;
+- **10)** podpisy kontrolującego i kierownika podmiotu kontrolowanego albo osoby przez niego upoważnionej miejsce i datę podpisania protokołu kontroli;
+- **11)** wzmiankę oodmowie podpisania protokołu kontroli;
+- **12)** oznaczenie odpowiednią klauzulą tajności protokołu kontroli lub jego fragmentu w przypadku, gdy protokół zawiera informacje niejawne.
 
-2. Do akt kontroli w∏àcza si´:
+2. Do akt kontroli włącza się:
 
-- **1)** notatki s∏u˝bowe zczynnoÊci majàcych znaczenie dla ustaleƒ kontroli, sporzàdzone przez kontrolujàcego, inne dowody, oceny, wnioski lub zalecenia;
-- **2)** informacje i dokumenty poÊwiadczone za zgodnoÊç zorygina∏em kopie decyzji ipowiadomieƒ;
-- **3)** kopie dokumentów, poÊwiadczone za zgodnoÊç z orygina∏em, lub dokumenty sporzàdzone przez kon3. Protokó∏ kontroli sporzàdza si´ wdwóch jednobrzmiàcych egzemplarzach.
+- **1)** notatki służbowe zczynności mających znaczenie dla ustaleń kontroli, sporządzone przez kontrolującego, inne dowody, oceny, wnioski lub zalecenia;
+- **2)** informacje i dokumenty poświadczone za zgodność zoryginałem kopie decyzji ipowiadomień;
+- **3)** kopie dokumentów, poświadczone za zgodność z oryginałem, lub dokumenty sporządzone przez kon3. Protokół kontroli sporządza się wdwóch jednobrzmiących egzemplarzach.
 
-4. Jeden egzemplarz protoko∏u kontroli przekazuje si´ podmiotowi kontrolowanemu za pokwitowaniem, drugi w∏àcza si´ do akt kontroli.
+4. Jeden egzemplarz protokołu kontroli przekazuje się podmiotowi kontrolowanemu za pokwitowaniem, drugi włącza się do akt kontroli.
 
 **Art. 19e.**
 
-1. Podmiotowi kontrolowanemu przys∏uguje, przed podpisaniem protoko∏u kontroli, prawo zg∏oszenia zastrze˝eƒ do ustaleƒ zawartych wprotokole kontroli.
+1. Podmiotowi kontrolowanemu przysługuje, przed podpisaniem protokołu kontroli, prawo zgłoszenia zastrzeżeń do ustaleń zawartych wprotokole kontroli.
 
-2. Zastrze˝enia zg∏asza si´ na piÊmie w terminie 7 dni od dnia otrzymania protoko∏u kontroli.
+2. Zastrzeżenia zgłasza się na piśmie w terminie 7 dni od dnia otrzymania protokołu kontroli.
 
-3. W przypadku uwzgl´dnienia zastrze˝eƒ wniesionych przez podmiot kontrolowany, kontrolujàcy dokonuje zmian w protokole kontroli przez opisanie zmiany brzmienia jego poszczególnych fragmentów lub dokonanie skreÊleƒ.
+3. W przypadku uwzględnienia zastrzeżeń wniesionych przez podmiot kontrolowany, kontrolujący dokonuje zmian w protokole kontroli przez opisanie zmiany brzmienia jego poszczególnych fragmentów lub dokonanie skreśleń.
 
-4. Podmiot kontrolowany mo˝e odmówiç podpisania protoko∏u kontroli, sk∏adajàc wterminie 7 dni od dnia jego otrzymania wyjaÊnienie przyczyn odmowy podpisania.
+4. Podmiot kontrolowany może odmówić podpisania protokołu kontroli, składając wterminie 7 dni od dnia jego otrzymania wyjaśnienie przyczyn odmowy podpisania.
 
-5. W przypadku zg∏oszenia zastrze˝eƒ do protoko∏u kontroli, termin odmowy podpisania protoko∏u wraz z podaniem jej przyczyn biegnie od dnia dor´czenia podmiotowi kontrolowanemu stanowiska kontrolujàcego wobec zastrze˝eƒ.
+5. W przypadku zgłoszenia zastrzeżeń do protokołu kontroli, termin odmowy podpisania protokołu wraz z podaniem jej przyczyn biegnie od dnia doręczenia podmiotowi kontrolowanemu stanowiska kontrolującego wobec zastrzeżeń.
 
-6. Odmowa podpisania protoko∏u kontroli nie stanowi przeszkody do podpisania go przez kontrolujàcego i realizacji ustaleƒ kontroli.
+6. Odmowa podpisania protokołu kontroli nie stanowi przeszkody do podpisania go przez kontrolującego i realizacji ustaleń kontroli.
 
-**Art. 19f.** Ustalenia uj´te w protokole kontroli stanowià podstaw´ do podj´cia dalszych czynnoÊci, w tym dokonania ocen, sporzàdzenia wniosków, zaleceƒ pokontrolnych, wydania decyzji i sporzàdzenia informacji dla jednostek nadrz´dnych, do powiadomienia w∏aÊciwego organu wprzypadku pope∏nienia przest´pstwa lub wykroczenia.”.
+**Art. 19f.** Ustalenia ujęte w protokole kontroli stanowią podstawę do podjęcia dalszych czynności, w tym dokonania ocen, sporządzenia wniosków, zaleceń pokontrolnych, wydania decyzji i sporządzenia informacji dla jednostek nadrzędnych, do powiadomienia właściwego organu wprzypadku popełnienia przestępstwa lub wykroczenia.”.
 
-**Art. 50.** Wustawie zdnia 19 lutego 2004 orybo∏ówstwie (Dz. U. 62, 574, z 2005 96, poz.807, z 2006 220, 1600 z 2007 Nr21, 125) wprowadza si´ nast´pujàce zmiany:
+**Art. 50.** Wustawie zdnia 19 lutego 2004 orybołówstwie (Dz. U. 62, 574, z 2005 96, poz.807, z 2006 220, 1600 z 2007 Nr21, 125) wprowadza się następujące zmiany:
 
-**Art. 58.** Wczasie wykonywania czynnoÊci kontrolnych inspektor jest uprawniony do:
+**Art. 58.** Wczasie wykonywania czynności kontrolnych inspektor jest uprawniony do:
 
-**Art. 51.** W ustawie z dnia 16 kwietnia 2004 o ochronie przyrody (Dz. U. 92, 880, z póên. zm. ).”. ) po art. 108 dodaje si´ art. 108awbrzmieniu: „Art. 108a. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z2007 155, 1095, zpóên. zm. ).”.
+**Art. 51.** W ustawie z dnia 16 kwietnia 2004 o ochronie przyrody (Dz. U. 92, 880, z póên. zm. ).”. ) po art. 108 dodaje się art. 108awbrzmieniu: ŃArt. 108a. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 52.** Wustawie zdnia 16 kwietnia 2004 owyrobach budowlanych (Dz. U. 92, 881) wprowadza si´ nast´pujàce zmiany:
+**Art. 52.** Wustawie zdnia 16 kwietnia 2004 owyrobach budowlanych (Dz. U. 92, 881) wprowadza się następujące zmiany:
 
-**Art. 21b.** Kontrolujàcy mogà, z urz´du lub na wniosek kontrolowanego, prostowaç b∏´dy pisarskie i rachunkowe bàdê inne oczywiste pomy∏ki przez dokonanie adnotacji w protokole kontroli lub odr´bnym protokole, o którym mowa w art. 21a ust. 1, opatrzonej datà i podpisem osoby dokonujàcej adnotacji.”;
+**Art. 21b.** Kontrolujący mogą, z urzędu lub na wniosek kontrolowanego, prostować błędy pisarskie i rachunkowe bądê inne oczywiste pomyłki przez dokonanie adnotacji w protokole kontroli lub odrębnym protokole, o którym mowa w art. 21a ust. 1, opatrzonej datą i podpisem osoby dokonującej adnotacji.”;
 
 **Art. 22b.**
 
-1. Postanowienie dotyczàce zabezpieczenia dowodów, o którym mowa w art. 22, powinno zawieraç okreÊlenie terminu zabezpieczenia.
+1. Postanowienie dotyczące zabezpieczenia dowodów, o którym mowa w art. 22, powinno zawierać określenie terminu zabezpieczenia.
 
-2. Je˝eli jest to mo˝liwe, termin zabezpieczenia wyrobów powinien byç okreÊlany z uwzgl´dnieniem terminów gwarancji innych terminów okreÊlajàcych wa˝noÊç lub trwa∏oÊç wyrobu budowlanego.”;
+2. Jeżeli jest to możliwe, termin zabezpieczenia wyrobów powinien być określany z uwzględnieniem terminów gwarancji innych terminów określających ważność lub trwałość wyrobu budowlanego.”;
 
-- **6)** po art. 23 dodaje si´ art. 23awbrzmieniu: „Art. 23a. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej.”;
-- **7)** art. 24 otrzymuje brzmienie: „Art. 24. Minister w∏aÊciwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej okreÊli, w drodze rozporzàdzenia, sposób przygotowania kontroli, wzór upowa˝nienia do przeprowadzenia kontroli, wzory protoko∏ów kontroli ogl´dzin uwzgl´dniajàc zakres i rodzaj przeprowadzanej kontroli zapewniajàc mo˝liwoÊç identyfikacji organu kontroli iosób wykonujàcych czynnoÊci konArt. 53.Wustawie zdnia 27 maja 2004 ofunduszach inwestycyjnych (Dz. U. 146, 1546, zpóên. zm. ) wart. 226 ust. 4 otrzymuje brzmienie: „4. Do kontroli podmiotów, októrych mowa wust. 1, stosuje si´ odpowiednio przepisy ustawy o nadzorze nad rynkiem kapita∏owym przepisy rozdzia∏u 5 ustawy zdnia 2 lipca 2004 oswobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
+- **6)** po art. 23 dodaje się art. 23awbrzmieniu: ŃArt. 23a. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej.”;
+- **7)** art. 24 otrzymuje brzmienie: ŃArt. 24. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, sposób przygotowania kontroli, wzór upoważnienia do przeprowadzenia kontroli, wzory protokołów kontroli oględzin uwzględniając zakres i rodzaj przeprowadzanej kontroli zapewniając możliwość identyfikacji organu kontroli iosób wykonujących czynności konArt. 53.Wustawie zdnia 27 maja 2004 ofunduszach inwestycyjnych (Dz. U. 146, 1546, zpóên. zm. ) wart. 226 ust. 4 otrzymuje brzmienie: Ń4. Do kontroli podmiotów, októrych mowa wust. 1, stosuje się odpowiednio przepisy ustawy o nadzorze nad rynkiem kapitałowym przepisy rozdziału 5 ustawy zdnia 2 lipca 2004 oswobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 54.** Wustawie zdnia 2 lipca 2004 Przepisy wprowadzajàce ustaw´ o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. 173, 1808, z 2006 225, 1636 z2008 141, 888) wprowadza si´ nast´pujàce zmiany:
+**Art. 54.** Wustawie zdnia 2 lipca 2004 Przepisy wprowadzające ustawę o swobodzie działalności gospodarczej (Dz. U. 173, 1808, z 2006 225, 1636 z2008 141, 888) wprowadza się następujące zmiany:
 
 **Art. 55.** Wustawie zdnia 16 lipca 2004 Prawo telekomunikacyjne (Dz. U. 171, 1800, z póên. zm.
 
-**Art. 56.** Wustawie zdnia 21 stycznia 2005 odoÊwiadczeniach na zwierz´tach (Dz. U. 33, 289 z 2006 171, 1225 i 220, 1600) wprowadza si´ nast´pujàce zmiany:
+**Art. 56.** Wustawie zdnia 21 stycznia 2005 odoświadczeniach na zwierzętach (Dz. U. 33, 289 z 2006 171, 1225 i 220, 1600) wprowadza się następujące zmiany:
 
-**Art. 57.** Wustawie zdnia 7 lipca 2005 oubezpieczeniach upraw rolnych i zwierzàt gospodarskich (Dz. U. 150, 1249, zpóên. zm. ) wart. 10:
+**Art. 57.** Wustawie zdnia 7 lipca 2005 oubezpieczeniach upraw rolnych i zwierząt gospodarskich (Dz. U. 150, 1249, zpóên. zm. ) wart. 10:
 
-**Art. 58.** W ustawie z dnia 29 lipca 2005 o przeciwdzia∏aniu narkomanii (Dz. U. 179, 1485, z póên. zm. ) po art. 44 dodaje si´ art. 44awbrzmieniu: „Art. 44a. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, októrej mowa wart. 35, 36 i 40, stosuje si´ przepisy rozdzia∏u 5 ustawy zdnia 2 lipca 2004 oswobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
+**Art. 58.** W ustawie z dnia 29 lipca 2005 o przeciwdziałaniu narkomanii (Dz. U. 179, 1485, z póên. zm. ) po art. 44 dodaje się art. 44awbrzmieniu: ŃArt. 44a. Do kontroli działalności gospodarczej przedsiębiorcy, októrej mowa wart. 35, 36 i 40, stosuje się przepisy rozdziału 5 ustawy zdnia 2 lipca 2004 oswobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 59.** W ustawie z dnia 29 lipca 2005 o nadzorze nad rynkiem kapita∏owym (Dz. U. 183, 1537, z 2006 157, 1119 i 170, 1217 z 2007 50, 331) wprowadza si´ nast´pujàce zmiany:
+**Art. 59.** W ustawie z dnia 29 lipca 2005 o nadzorze nad rynkiem kapitałowym (Dz. U. 183, 1537, z 2006 157, 1119 i 170, 1217 z 2007 50, 331) wprowadza się następujące zmiany:
 
 **Art. 34b.**
 
-1. Z odebrania ustnych wyjaÊnieƒ sporzàdza si´ protokó∏ w dwóch egzemplarzach, z których jeden otrzymuje kontrolowany. Kontroler osoba sk∏adajàca ustne wyjaÊnienia podpisujà protokó∏ parafujà ka˝dà jego stron´.
+1. Z odebrania ustnych wyjaśnień sporządza się protokół w dwóch egzemplarzach, z których jeden otrzymuje kontrolowany. Kontroler osoba składająca ustne wyjaśnienia podpisują protokół parafują każdą jego stronę.
 
-2. W przypadku odmowy podpisania protoko∏u przez osob´ sk∏adajàcà ustne wyjaÊnienia, wzmiank´ o tym umieszcza si´ w protokole, z podaniem przyczyn odmowy.
+2. W przypadku odmowy podpisania protokołu przez osobę składającą ustne wyjaśnienia, wzmiankę o tym umieszcza się w protokole, z podaniem przyczyn odmowy.
 
-3. WyjaÊnienia udzielane ustnie przez osoby, o których mowa w art. 32 ust. 5, mogà byç utrwalane przy wykorzystaniu urzàdzenia rejestrujàcego, po uprzednim poinformowaniu osoby sk∏adajàcej wyjaÊnienia. W czynnoÊciach ma prawo uczestniczyç osoba upowa˝niona do reprezentowania kontrolowanego. Przepisów ust. 1 i2 nie stosuje si´.”;
+3. Wyjaśnienia udzielane ustnie przez osoby, o których mowa w art. 32 ust. 5, mogą być utrwalane przy wykorzystaniu urządzenia rejestrującego, po uprzednim poinformowaniu osoby składającej wyjaśnienia. W czynnościach ma prawo uczestniczyć osoba upoważniona do reprezentowania kontrolowanego. Przepisów ust. 1 i2 nie stosuje się.”;
 
-- **10)** po art. 35 dodaje si´ art. 35awbrzmieniu: „Art. 35a. 1. Z przeprowadzonej kontroli sporzàdza si´ protokó∏. Protokó∏ kontroli zawiera wszczególnoÊci:
-- **1)** firm´ (nazw´) i adres kontrolowanego;
-- **3)** imiona i nazwiska stanowiska s∏u˝bowe kontrolerów;
-- **4)** numer i dat´ upowa˝nienia do przeprowadzenia kontroli wzmiank´ ojego zmianach;
-- **5)** okreÊlenie przedmiotu i zakresu kontroli;
-- **6)** dat´ rozpocz´cia i zakoƒczenia kontroli;
-- **7)** imiona i nazwiska stanowiska s∏u˝bowe osób sk∏adajàcych oÊwiadczenia udzielajàcych informacji i wyjaÊnieƒ w toku kontroli;
-- **8)** wzmiank´ o pouczeniu, o którym mowa wart. 30 ust. 4;
-- **9)** opis dokonanych czynnoÊci kontrolnych ustalenia dotyczàce stanu faktycznego, ze wskazaniem dokumentów lub innych informacji i materia∏ów, na jakich ustalenia te zosta∏y oparte, jak równie˝ opis stwierdzonych nieprawid∏owoÊci, ich zakresu iprzyczyn;
-- **10)** wykaz materia∏ów zgromadzonych wtoku kontroli, zpodaniem nazwy ka˝dego znich;
-- **11)** miejsce i dat´ sporzàdzenia protoko∏u kontroli;
-- **12)** wzmiank´ o udzieleniu zaleceƒ wtrybie art. 36 ust. 6.
+- **10)** po art. 35 dodaje się art. 35awbrzmieniu: ŃArt. 35a. 1. Z przeprowadzonej kontroli sporządza się protokół. Protokół kontroli zawiera wszczególności:
+- **1)** firmę (nazwę) i adres kontrolowanego;
+- **3)** imiona i nazwiska stanowiska służbowe kontrolerów;
+- **4)** numer i datę upoważnienia do przeprowadzenia kontroli wzmiankę ojego zmianach;
+- **5)** określenie przedmiotu i zakresu kontroli;
+- **6)** datę rozpoczęcia i zakończenia kontroli;
+- **7)** imiona i nazwiska stanowiska służbowe osób składających oświadczenia udzielających informacji i wyjaśnień w toku kontroli;
+- **8)** wzmiankę o pouczeniu, o którym mowa wart. 30 ust. 4;
+- **9)** opis dokonanych czynności kontrolnych ustalenia dotyczące stanu faktycznego, ze wskazaniem dokumentów lub innych informacji i materiałów, na jakich ustalenia te zostały oparte, jak również opis stwierdzonych nieprawidłowości, ich zakresu iprzyczyn;
+- **10)** wykaz materiałów zgromadzonych wtoku kontroli, zpodaniem nazwy każdego znich;
+- **11)** miejsce i datę sporządzenia protokołu kontroli;
+- **12)** wzmiankę o udzieleniu zaleceń wtrybie art. 36 ust. 6.
 
-2. Materia∏ami, októrych mowa wust. 1 pkt 10, sà wszczególnoÊci:
+2. Materiałami, októrych mowa wust. 1 pkt 10, są wszczególności:
 
-- **1)** protoko∏y sporzàdzone w toku kontroli;
-- **2)** pisemne oÊwiadczenia i wyjaÊnienia;
-- **3)** zarzàdzenia Przewodniczàcego Komisji wydane wtoku kontroli.”;
+- **1)** protokoły sporządzone w toku kontroli;
+- **2)** pisemne oświadczenia i wyjaśnienia;
+- **3)** zarządzenia Przewodniczącego Komisji wydane wtoku kontroli.”;
 - **11)** wart. 36:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Protokó∏ kontroli podpisujà kontroler kontrolowany lub osoba upowa˝niona przez kontrolowanego. Przepis art. 33 ust. 4 zdanie trzecie stosuje si´ odpowiednio.”,
-    - **b)** po ust. 2 dodaje si´ ust. 2a—2dwbrzmieniu: „2a. Kontrolowany lub osoba przez niego upowa˝niona parafuje równie˝ ka˝dà stron´ protoko∏u, anast´pnie przekazuje podpisany protokó∏ do Komisji, w terminie 14 dni od dor´czenia protoko∏u, z zastrze˝eniem ust. 2b—2d.
+    - **a)** ust. 2 otrzymuje brzmienie: Ń2. Protokół kontroli podpisują kontroler kontrolowany lub osoba upoważniona przez kontrolowanego. Przepis art. 33 ust. 4 zdanie trzecie stosuje się odpowiednio.”,
+    - **b)** po ust. 2 dodaje się ust. 2a—2dwbrzmieniu: Ń2a. Kontrolowany lub osoba przez niego upoważniona parafuje również każdą stronę protokołu, anastępnie przekazuje podpisany protokół do Komisji, w terminie 14 dni od doręczenia protokołu, z zastrzeżeniem ust. 2b—2d.
 
-2b. Kontrolowany lub osoba przez niego upowa˝niona mo˝e odmówiç podpisania protoko∏u kontroli, wyjaÊniajàc na piÊmie przyczyny odmowy. Po bezskutecznym up∏ywie terminu, o którym mowa w ust. 2a, odmow´ podpisania protoko∏u kontroli uwa˝a si´ 2c. Kontroler umieszcza na egzemplarzu protoko∏u kontroli, który otrzymuje Komisja, wzmiank´ o odmowie jego podpisania, za∏àczajàc wyjaÊnienia, o których mowa wust. 2b, je˝eli zosta∏y z∏o˝one.
+2b. Kontrolowany lub osoba przez niego upoważniona może odmówić podpisania protokołu kontroli, wyjaśniając na piśmie przyczyny odmowy. Po bezskutecznym upływie terminu, o którym mowa w ust. 2a, odmowę podpisania protokołu kontroli uważa się 2c. Kontroler umieszcza na egzemplarzu protokołu kontroli, który otrzymuje Komisja, wzmiankę o odmowie jego podpisania, załączając wyjaśnienia, o których mowa wust. 2b, jeżeli zostały złożone.
 
-2d. Odmowa podpisania protoko∏u kontroli nie zwalnia kontrolowanego zwykonania zaleceƒ, o których mowa w art. 36 ust. 5 i 6, o czym zarzàdzajàcy kontrol´ pisemnie informuje kontrolowanego.”;
+2d. Odmowa podpisania protokołu kontroli nie zwalnia kontrolowanego zwykonania zaleceń, o których mowa w art. 36 ust. 5 i 6, o czym zarządzający kontrolę pisemnie informuje kontrolowanego.”;
 
-- **12)** wart. 37 uchyla si´ ust. 2;
-- **13)** wart. 38 ust. 4 otrzymuje brzmienie: „4. W toku post´powania wyjaÊniajàcego wobec podmiotów, októrych mowa wart. 5 pkt 1—15 i art. 26 ust. 1 pkt 2, lub wystawców instrumentów finansowych nieb´dàcych papierami wartoÊciowymi, mo˝e zostaç przeprowadzonakontrola. Kontrola ta nie mo˝e trwaç d∏u˝ej ni˝ 30 dni. Do kontroli stosuje si´ przepisy art.27—35.”;
-- **14)** po art. 38 dodaje si´ art. 38awbrzmieniu: „Art. 38a. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
+- **12)** wart. 37 uchyla się ust. 2;
+- **13)** wart. 38 ust. 4 otrzymuje brzmienie: Ń4. W toku postępowania wyjaśniającego wobec podmiotów, októrych mowa wart. 5 pkt 1—15 i art. 26 ust. 1 pkt 2, lub wystawców instrumentów finansowych niebędących papierami wartościowymi, może zostać przeprowadzonakontrola. Kontrola ta nie może trwać dłużej niż 30 dni. Do kontroli stosuje się przepisy art.27—35.”;
+- **14)** po art. 38 dodaje się art. 38awbrzmieniu: ŃArt. 38a. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 60.** Wustawie zdnia 9 czerwca 2006 oCentralnym Biurze Antykorupcyjnym (Dz. U. 104, 708, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 60.** Wustawie zdnia 9 czerwca 2006 oCentralnym Biurze Antykorupcyjnym (Dz. U. 104, 708, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 61.** Wustawie zdnia 22 lipca 2006 opaszach (Dz. U. 144, 1045 z 2008 144, poz.899) wart. 42 ust. 3 otrzymuje brzmienie: „3. CzynnoÊci kontrolne w zakresie urz´dowej kontroli pasz i pasz leczniczych przeprowadza si´ zgodnie zprzepisami oInspekcji Weterynaryjnej. Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
+**Art. 61.** Wustawie zdnia 22 lipca 2006 opaszach (Dz. U. 144, 1045 z 2008 144, poz.899) wart. 42 ust. 3 otrzymuje brzmienie: Ń3. Czynności kontrolne w zakresie urzędowej kontroli pasz i pasz leczniczych przeprowadza się zgodnie zprzepisami oInspekcji Weterynaryjnej. Do kontroli działalności gospodarczej przedsiębiorcy stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”.
 
-**Art. 62.** Wustawie zdnia 25 sierpnia 2006 osystemie monitorowania i kontrolowania jakoÊci paliw (Dz. U. 169, 1200 z 2008 157, poz.976) wprowadza si´ nast´pujàce zmiany:
+**Art. 62.** Wustawie zdnia 25 sierpnia 2006 osystemie monitorowania i kontrolowania jakości paliw (Dz. U. 169, 1200 z 2008 157, poz.976) wprowadza się następujące zmiany:
 
-**Art. 63.** Wustawie zdnia 16 lutego 2007 oochronie konkurencji i konsumentów (Dz. U. 50, 331, z póên. zm. „1. Wtoku kontroli inspektor pobiera dwie próbki.”; ) wprowadza si´ nast´pujàce zmiany:
+**Art. 63.** Wustawie zdnia 16 lutego 2007 oochronie konkurencji i konsumentów (Dz. U. 50, 331, z póên. zm. Ń1. Wtoku kontroli inspektor pobiera dwie próbki.”; ) wprowadza się następujące zmiany:
 
 **Art. 105a.**
 
-1. W toku post´powania przed Prezesem Urz´du mo˝e byç przeprowadzona przez upowa˝nionego pracownika Urz´du lub Inspekcji Handlowej, zwanego dalej „kontrolujàcym”, kontrola u ka˝dego przedsi´biorcy, zwanego ——————— dalej „kontrolowanym”, w zakresie obj´tym tym post´powaniem.
+1. W toku postępowania przed Prezesem Urzędu może być przeprowadzona przez upoważnionego pracownika Urzędu lub Inspekcji Handlowej, zwanego dalej Ńkontrolującym”, kontrola u każdego przedsiębiorcy, zwanego ——————— dalej Ńkontrolowanym”, w zakresie objętym tym postępowaniem.
 
-2. Prezes Urz´du mo˝e upowa˝niç do udzia∏u wkontroli:
+2. Prezes Urzędu może upoważnić do udziału wkontroli:
 
-- **1)** pracownika organu ochrony konkurencji paƒstwa cz∏onkowskiego Unii Europejskiej w przypadku, októrym mowa wart. 22 rozporzàdzenia nr 1/2003/WE;
-- **2)** pracownika organu wnioskujàcego w rozumieniu art. 3 pkt f rozporzàdzenia nr 2006/2004/WE w przypadku, o którym mowa w art. 6 ust.3 tego rozporzàdzenia;
-- **3)** osoby posiadajàce wiadomoÊci specjalne, je˝eli do przeprowadzenia kontroli niezb´dne sà tego rodzaju wiadomoÊci.
+- **1)** pracownika organu ochrony konkurencji państwa członkowskiego Unii Europejskiej w przypadku, októrym mowa wart. 22 rozporządzenia nr 1/2003/WE;
+- **2)** pracownika organu wnioskującego w rozumieniu art. 3 pkt f rozporządzenia nr 2006/2004/WE w przypadku, o którym mowa w art. 6 ust.3 tego rozporządzenia;
+- **3)** osoby posiadające wiadomości specjalne, jeżeli do przeprowadzenia kontroli niezbędne są tego rodzaju wiadomości.
 
-3. W sprawach z zakresu w∏aÊciwoÊci delegatur w sprawach przekazanych do za∏atwienia delegaturom przez Prezesa Urz´du, na podstawie art. 33 ust. 4 i 5, pracownicy delegatur przeprowadzajà kontrol´ na podstawie upowa˝nienia dyrektora delegatury wydanego w imieniu Prezesa Urz´du.
+3. W sprawach z zakresu właściwości delegatur w sprawach przekazanych do załatwienia delegaturom przez Prezesa Urzędu, na podstawie art. 33 ust. 4 i 5, pracownicy delegatur przeprowadzają kontrolę na podstawie upoważnienia dyrektora delegatury wydanego w imieniu Prezesa Urzędu.
 
-4. Upowa˝nienie do przeprowadzenia kontroli powinno zawieraç:
+4. Upoważnienie do przeprowadzenia kontroli powinno zawierać:
 
 - **1)** oznaczenie organu kontroli;
 - **2)** wskazanie podstawy prawnej;
-- **3)** dat´ imiejsce wystawienia;
-- **4)** imi´, nazwisko i stanowisko kontrolujàcego numer jego legitymacji s∏u˝bowej, a w przypadku upowa˝nienia do udzia∏u wkontroli osób, o których mowa w ust. 2 imiona i nazwiska tych osób numer paszportu lub innego dokumentu potwierdzajàcego to˝samoÊç;
+- **3)** datę imiejsce wystawienia;
+- **4)** imię, nazwisko i stanowisko kontrolującego numer jego legitymacji służbowej, a w przypadku upoważnienia do udziału wkontroli osób, o których mowa w ust. 2 imiona i nazwiska tych osób numer paszportu lub innego dokumentu potwierdzającego tożsamość;
 - **5)** oznaczenie kontrolowanego;
-- **6)** okreÊlenie przedmiotu i zakresu kontroli;
-- **7)** okreÊlenie daty rozpocz´cia kontroli i przewidywanej daty jej zakoƒczenia;
-- **8)** podpis osoby udzielajàcej upowa˝nienia, z podaniem zajmowanego stanowiska lub funkcji;
-- **9)** pouczenie o prawach i obowiàzkach kontrolowanego.
+- **6)** określenie przedmiotu i zakresu kontroli;
+- **7)** określenie daty rozpoczęcia kontroli i przewidywanej daty jej zakończenia;
+- **8)** podpis osoby udzielającej upoważnienia, z podaniem zajmowanego stanowiska lub funkcji;
+- **9)** pouczenie o prawach i obowiązkach kontrolowanego.
 
-5. Upowa˝nienie do przeprowadzenia kontroli, o której mowa w ust. 1, wydajà odpowiednio: Prezes Urz´du, a na wniosek G∏ównego Inspektora macj´ s∏u˝bowà, aosoby upowa˝nione do udzia∏u w kontroli, o których mowa w ust. 3, dowód osobisty, paszport lub inny dokument potwierdzajàcy to˝samoÊç.
+5. Upoważnienie do przeprowadzenia kontroli, o której mowa w ust. 1, wydają odpowiednio: Prezes Urzędu, a na wniosek Głównego Inspektora mację służbową, aosoby upoważnione do udziału w kontroli, o których mowa w ust. 3, dowód osobisty, paszport lub inny dokument potwierdzający tożsamość.
 
-7. W razie nieobecnoÊci kontrolowanego lub osoby przez niego upowa˝nionej, upowa˝nienie do przeprowadzenia kontroli legitymacja s∏u˝bowa, dowód osobisty, paszport lub inny dokument potwierdzajàcy to˝samoÊç mogà byç okazane innemu pracownikowi kontrolowanego, który mo˝e byç uznany za osob´, o której mowa w art. ustawy z dnia 23kwietnia 1964 Kodeks cywilny lub przywo∏anemu Êwiadkowi, którym powinien byç funkcjonariusz publiczny, nieb´dàcy jednak pracownikiem organu przeprowadzajàcego kontrol´. W takim przypadku upowa˝nienie dor´cza si´ niezw∏ocznie kontrolowanemu, nie póêniej jednak Inspekcji Handlowej wojewódzcy inspektorzy Inspekcji Handlowej.
+7. W razie nieobecności kontrolowanego lub osoby przez niego upoważnionej, upoważnienie do przeprowadzenia kontroli legitymacja służbowa, dowód osobisty, paszport lub inny dokument potwierdzający tożsamość mogą być okazane innemu pracownikowi kontrolowanego, który może być uznany za osobę, o której mowa w art. ustawy z dnia 23kwietnia 1964 Kodeks cywilny lub przywołanemu świadkowi, którym powinien być funkcjonariusz publiczny, niebędący jednak pracownikiem organu przeprowadzającego kontrolę. W takim przypadku upoważnienie doręcza się niezwłocznie kontrolowanemu, nie póêniej jednak Inspekcji Handlowej wojewódzcy inspektorzy Inspekcji Handlowej.
 
-6. Kontrolujàcy dor´cza kontrolowaneni˝ trzeciego dnia od wszcz´cia kontroli.
+6. Kontrolujący doręcza kontrolowaneniż trzeciego dnia od wszczęcia kontroli.
 
 **Art. 105b.**
 
-1. Kontrolujàcy ma prawo:
+1. Kontrolujący ma prawo:
 
-- **1)** wst´pu na grunt do budynków, lokali lub innych pomieszczeƒ Êrodków transportu kontrolowanego;
-- **2)** ˝àdania udost´pnienia akt, ksiàg, wszelkiego rodzaju dokumentów i noÊników informacji zwiàzanych z przedmiotem kontroli ich odpisów i wyciàgów, a tak˝e sporzàdzania znich notatek;
-- **3)** ˝àdania od osób, o których mowa w art. 105d ust. 1, ustnych wyjaÊnieƒ dotyczàcych przedmiotu kontroli.
+- **1)** wstępu na grunt do budynków, lokali lub innych pomieszczeń środków transportu kontrolowanego;
+- **2)** żądania udostępnienia akt, ksiąg, wszelkiego rodzaju dokumentów i nośników informacji związanych z przedmiotem kontroli ich odpisów i wyciągów, a także sporządzania znich notatek;
+- **3)** żądania od osób, o których mowa w art. 105d ust. 1, ustnych wyjaśnień dotyczących przedmiotu kontroli.
 
-2. Osobie upowa˝nionej do udzia∏u w kontroli, na podstawie art. 105a ust. 2, przys∏ugujà uprawnienia kontrolujàcego w zakresie wst´pu na grunt do budynków, lokali lub innych pomieszczeƒ Êrodków transportu kontrolowanego dost´pu do akt, ksiàg, wszelkiego rodzaju dokumentów i noÊników informacji zwiàzanych zprzedmiotem kontroli ich odpisów iwyciàgów, atak˝e do sporzàdzania z nich notatek, uprawnienie do udzia∏u wraz z kontrolujàcym w przeszukaniu, októrym mowa wart. 91 i105c.
+2. Osobie upoważnionej do udziału w kontroli, na podstawie art. 105a ust. 2, przysługują uprawnienia kontrolującego w zakresie wstępu na grunt do budynków, lokali lub innych pomieszczeń środków transportu kontrolowanego dostępu do akt, ksiąg, wszelkiego rodzaju dokumentów i nośników informacji związanych zprzedmiotem kontroli ich odpisów iwyciągów, atakże do sporządzania z nich notatek, uprawnienie do udziału wraz z kontrolującym w przeszukaniu, októrym mowa wart. 91 i105c.
 
-3. W toku kontroli kontrolujàcy mo˝e korzystaç z pomocy funkcjonariuszy innych organów kontroli paƒstwowej lub Policji. Organy kontroli paƒstwowej lub Policja wykonujà czynnoÊci na polecenie kontrolujàcego. formowaniu kontrolowanego, mogà byç utrwalane przy pomocy urzàdzeƒ rejestrujàcych obraz lub dêwi´k. Informatyczne noÊniki danych w rozumieniu przepisów o informatyzacji dzia∏alnoÊci podmiotów realizujàcych zadania publiczne, na których zarejestrowano przebieg kontroli lub poszczególne czynnoÊci w jej toku, stanowià za∏àcznik do protoko∏u kontroli.
+3. W toku kontroli kontrolujący może korzystać z pomocy funkcjonariuszy innych organów kontroli państwowej lub Policji. Organy kontroli państwowej lub Policja wykonują czynności na polecenie kontrolującego. formowaniu kontrolowanego, mogą być utrwalane przy pomocy urządzeń rejestrujących obraz lub dêwięk. Informatyczne nośniki danych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, na których zarejestrowano przebieg kontroli lub poszczególne czynności w jej toku, stanowią załącznik do protokołu kontroli.
 
 **Art. 105c.**
 
-1. Kontrolujàcy w toku kontroli mo˝e równie˝ dokonaç przeszukania pomieszczeƒ lub rzeczy, za zgodà sàdu ochrony konkurencji i konsumentów, udzielonà na wniosek Prezesa Urz´du.
+1. Kontrolujący w toku kontroli może również dokonać przeszukania pomieszczeń lub rzeczy, za zgodą sądu ochrony konkurencji i konsumentów, udzieloną na wniosek Prezesa Urzędu.
 
-2. Je˝eli zachodzi uzasadnione podejrzenie powa˝nego naruszenia przepisów ustawy, w szczególnoÊci wtedy, gdy mog∏oby dojÊç do zatarcia dowodów, z wnioskiem, o którym mowa w ust. 1, Prezes Urz´du mo˝e wystàpiç przed wszcz´ciem post´powania antymonopolowego.
+2. Jeżeli zachodzi uzasadnione podejrzenie poważnego naruszenia przepisów ustawy, w szczególności wtedy, gdy mogłoby dojść do zatarcia dowodów, z wnioskiem, o którym mowa w ust. 1, Prezes Urzędu może wystąpić przed wszczęciem postępowania antymonopolowego.
 
-3. Sàd ochrony konkurencji i konsumentów wydaje w ciàgu 48 godzin postanowienie w sprawie, o której mowa wust. 1. Na postanowienie sàdu ochrony konkurencji i konsumentów nie przys∏uguje za˝alenie.
+3. Sąd ochrony konkurencji i konsumentów wydaje w ciągu 48 godzin postanowienie w sprawie, o której mowa wust. 1. Na postanowienie sądu ochrony konkurencji i konsumentów nie przysługuje zażalenie.
 
-4. W sprawach nieuregulowanych w ustawie przepisy ustawy z dnia 6czerwca 1997 Kodeks post´powania karnego majàce zastosowanie do przeszukania stosuje si´ odpowiednio.
+4. W sprawach nieuregulowanych w ustawie przepisy ustawy z dnia 6czerwca 1997 Kodeks postępowania karnego mające zastosowanie do przeszukania stosuje się odpowiednio.
 
 **Art. 105d.**
 
-1. Kontrolowany, osoba przez niego upowa˝niona, posiadacz lokalu mieszkalnego, pomieszczenia, nieruchomoÊci lub Êrodka transportu, o których mowa w art. 91 ust. 1, sà obowiàzani do:
+1. Kontrolowany, osoba przez niego upoważniona, posiadacz lokalu mieszkalnego, pomieszczenia, nieruchomości lub środka transportu, o których mowa w art. 91 ust. 1, są obowiązani do:
 
-- **1)** udzielenia ˝àdanych informacji;
-- **2)** umo˝liwienia wst´pu na grunt do budynków, lokali lub innych pomieszczeƒ Êrodków transportu;
-- **3)** udost´pnienia akt, ksiàg iwszelkiego rodzaju dokumentów lub innych noÊników informacji.
+- **1)** udzielenia żądanych informacji;
+- **2)** umożliwienia wstępu na grunt do budynków, lokali lub innych pomieszczeń środków transportu;
+- **3)** udostępnienia akt, ksiąg iwszelkiego rodzaju dokumentów lub innych nośników informacji.
 
-2. Osoby, októrych mowa wust. 1, mogà odmówiç udzielenia informacji lub wspó∏dzia∏ania w toku kontroli tylko wtedy, gdy narazi∏oby to je lub ich ma∏˝onka, wst´pnych, zst´pnych, rodzeƒstwo powinowatych w tej samej linii lub stopniu, jak równie˝ osoby pozostajàce w stosunku przysposobienia, opieki lub kurateli, atak˝e osob´ pozostajàcà we wspólnym po˝yciu, na odpowiedzialnoÊç karnà. Prawo odmowy udzielenia informacji lub wspó∏dzia∏ania w toku kontroli
+2. Osoby, októrych mowa wust. 1, mogą odmówić udzielenia informacji lub współdziałania w toku kontroli tylko wtedy, gdy naraziłoby to je lub ich małżonka, wstępnych, zstępnych, rodzeństwo powinowatych w tej samej linii lub stopniu, jak również osoby pozostające w stosunku przysposobienia, opieki lub kurateli, atakże osobę pozostającą we wspólnym pożyciu, na odpowiedzialność karną. Prawo odmowy udzielenia informacji lub współdziałania w toku kontroli
 
 **Art. 105e.**
 
-1. Kontrolowany zapewnia kontrolujàcemu osobom upowa˝nionym do udzia∏u w kontroli warunki i Êrodki niezb´dne do sprawnego przeprowadzenia kontroli, awszczególnoÊci:
+1. Kontrolowany zapewnia kontrolującemu osobom upoważnionym do udziału w kontroli warunki i środki niezbędne do sprawnego przeprowadzenia kontroli, awszczególności:
 
-- **1)** sporzàdza we w∏asnym zakresie kopie dokumentów, w tym wydruki znoÊników informacji, atak˝e informatycznych noÊników danych, wskazanych przez kontrolujàcego;
-- **2)** zapewnia w miar´ mo˝liwoÊci samodzielne zamkni´te pomieszczenie, je˝eli jest to niezb´dne do przeprowadzenia kontroli;
+- **1)** sporządza we własnym zakresie kopie dokumentów, w tym wydruki znośników informacji, atakże informatycznych nośników danych, wskazanych przez kontrolującego;
+- **2)** zapewnia w miarę możliwości samodzielne zamknięte pomieszczenie, jeżeli jest to niezbędne do przeprowadzenia kontroli;
 - **3)** zapewnia wydzielone miejsce do przechowywania dokumentów izabezpieczonych przedmiotów;
-- **4)** udost´pnia Êrodki ∏àcznoÊci, którymi dysponuje, w zakresie niezb´dnym do wykonywania czynnoÊci kontrolnych.
+- **4)** udostępnia środki łączności, którymi dysponuje, w zakresie niezbędnym do wykonywania czynności kontrolnych.
 
-2. Kontrolowany dokonuje potwierdzenia za zgodnoÊç zorygina∏em sporzàdzonych kopii dokumentów i wydruków. W przypadku odmowy potwierdzenia za zgodnoÊç z orygina∏em potwierdza je kontrolujàcy, oczym czyni wzmiank´ wprotokole kontroli.
+2. Kontrolowany dokonuje potwierdzenia za zgodność zoryginałem sporządzonych kopii dokumentów i wydruków. W przypadku odmowy potwierdzenia za zgodność z oryginałem potwierdza je kontrolujący, oczym czyni wzmiankę wprotokole kontroli.
 
 **Art. 105f.**
 
-1. Kontrolujàcy lub osoby upowa˝nione do udzia∏u w kontroli ustalajà stan faktyczny na podstawie dowodów zebranych w toku kontroli, a w szczególnoÊci dokumentów, przedmiotów, ogl´dzin ustnych lub pisemnych wyjaÊnieƒ i oÊwiadczeƒ innych noÊników informacji.
+1. Kontrolujący lub osoby upoważnione do udziału w kontroli ustalają stan faktyczny na podstawie dowodów zebranych w toku kontroli, a w szczególności dokumentów, przedmiotów, oględzin ustnych lub pisemnych wyjaśnień i oświadczeń innych nośników informacji.
 
-2. Dowody, o których mowa w ust. 1, mogà zostaç zabezpieczone przez:
+2. Dowody, o których mowa w ust. 1, mogą zostać zabezpieczone przez:
 
-- **1)** pozostawienie ich w wydzielonym lub oddzielnym, zamkni´tym i opiecz´towanym pomieszczeniu ukontrolowanego;
-- **2)** z∏o˝enie, za pokwitowaniem udzielonym kontrolowanemu, na przechowanie wpomieszczeniu Urz´du lub wojewódzkiego inspektoratu Inspekcji Handlowej.
+- **1)** pozostawienie ich w wydzielonym lub oddzielnym, zamkniętym i opieczętowanym pomieszczeniu ukontrolowanego;
+- **2)** złożenie, za pokwitowaniem udzielonym kontrolowanemu, na przechowanie wpomieszczeniu Urzędu lub wojewódzkiego inspektoratu Inspekcji Handlowej.
 
 **Art. 105g.**
 
-1. Prezes Urz´du wtoku kontroli, októrej mowa w art. 105a ust. 1, mo˝e wydaç postanowienie o zaj´ciu akt, ksiàg, wszelkiego rodzaju dokumentów lub informatycznych noÊników danych wrozumieniu przepisów oinformatyzacji dzia∏alnoÊci podmiotów realizujàcych zadania publiczne innych przedmiotów mogàcych stanowiç dowód wsprawie, na czas niezb´dny do przeprowadzenia kontroli, jednak˝e nie d∏u˝szy ni˝ 7 dni. awrazie odmowy mo˝na przeprowadziç ich odebranie wtrybie przepisów opost´powaniu egzekucyjnym wadministracji.
+1. Prezes Urzędu wtoku kontroli, októrej mowa w art. 105a ust. 1, może wydać postanowienie o zajęciu akt, ksiąg, wszelkiego rodzaju dokumentów lub informatycznych nośników danych wrozumieniu przepisów oinformatyzacji działalności podmiotów realizujących zadania publiczne innych przedmiotów mogących stanowić dowód wsprawie, na czas niezbędny do przeprowadzenia kontroli, jednakże nie dłuższy niż 7 dni. awrazie odmowy można przeprowadzić ich odebranie wtrybie przepisów opostępowaniu egzekucyjnym wadministracji.
 
-3. Na postanowienie o zaj´ciu przedmiotów za˝alenie przys∏uguje osobom, których prawa zosta∏y naruszone. Wniesienie za˝alenia nie wstrzymuje wykonania postanowienia.
+3. Na postanowienie o zajęciu przedmiotów zażalenie przysługuje osobom, których prawa zostały naruszone. Wniesienie zażalenia nie wstrzymuje wykonania postanowienia.
 
-4. Do zabezpieczenia na miejscu kontroli, w celu wykonywania czynnoÊci w toku kontroli, akt, ksiàg, innych wszelkiego rodzaju dokumentów lub noÊników informacji innych przedmiotów mogàcych stanowiç dowód w sprawie, jak równie˝ pomieszczeƒ kontrolowanego, w których znajdujà si´ te dokumenty lub przedmioty, nie stosuje si´ przepisów ust. 1—3.
+4. Do zabezpieczenia na miejscu kontroli, w celu wykonywania czynności w toku kontroli, akt, ksiąg, innych wszelkiego rodzaju dokumentów lub nośników informacji innych przedmiotów mogących stanowić dowód w sprawie, jak również pomieszczeń kontrolowanego, w których znajdują się te dokumenty lub przedmioty, nie stosuje się przepisów ust. 1—3.
 
 **Art. 105h.**
 
-1. Przedmioty podlegajàce zaj´ciu, o którym mowa w art. 105g ust. 1, wydane, odebrane lub znalezione w czasie kontroli, nale˝y po dokonaniu ogl´dzin i sporzàdzeniu protoko∏u zatrzymania zabraç albo oddaç na przechowanie osobie godnej zaufania z zaznaczeniem obowiàzku ich przedstawienia na ka˝de ˝àdanie organu prowadzàcego post´powanie.
+1. Przedmioty podlegające zajęciu, o którym mowa w art. 105g ust. 1, wydane, odebrane lub znalezione w czasie kontroli, należy po dokonaniu oględzin i sporządzeniu protokołu zatrzymania zabrać albo oddać na przechowanie osobie godnej zaufania z zaznaczeniem obowiązku ich przedstawienia na każde żądanie organu prowadzącego postępowanie.
 
-2. Protokó∏ zatrzymania rzeczy powinien zawieraç oznaczenie sprawy, z którà zatrzymanie rzeczy lub przeszukanie ma zwiàzek, podanie dok∏adnej godziny rozpocz´cia i zakoƒczenia czynnoÊci, dok∏adnà list´ zatrzymanych rzeczy i, w miar´ potrzeby, ich opis, aponadto wskazanie postanowienia Prezesa Urz´du o zaj´ciu. Protokó∏ podpisuje dokonujàcy zaj´cia i przedstawiciel kontrolowanego.
+2. Protokół zatrzymania rzeczy powinien zawierać oznaczenie sprawy, z którą zatrzymanie rzeczy lub przeszukanie ma związek, podanie dokładnej godziny rozpoczęcia i zakończenia czynności, dokładną listę zatrzymanych rzeczy i, w miarę potrzeby, ich opis, aponadto wskazanie postanowienia Prezesa Urzędu o zajęciu. Protokół podpisuje dokonujący zajęcia i przedstawiciel kontrolowanego.
 
-3. Dokonujàcy zaj´cia przedmiotów, októrym mowa wust. 1, jest obowiàzany do natychmiastowego wr´czenia osobom zainteresowanym pokwitowania stwierdzajàcego, jakie przedmioty i przez kogo zosta∏y zatrzymane, do niezw∏ocznego powiadomienia przedsi´biorcy, którego przedmioty zosta∏y zaj´te.
+3. Dokonujący zajęcia przedmiotów, októrym mowa wust. 1, jest obowiązany do natychmiastowego wręczenia osobom zainteresowanym pokwitowania stwierdzającego, jakie przedmioty i przez kogo zostały zatrzymane, do niezwłocznego powiadomienia przedsiębiorcy, którego przedmioty zostały zajęte.
 
-4. Zatrzymane przedmioty nale˝y zwróciç niezw∏ocznie po stwierdzeniu, ˝e sà zb´dne dla prowadzonego post´powania, albo po uchyleniu przez sàd ochrony konkurencji i konsumentów postanowienia o zaj´ciu przedmiotów, jednak nie póêniej ni˝ po up∏ywie terminu, o którym mowa dziç kontrol´, wtym dokonaç przeszukania na podstawie art. 91 lub art. 105c:
+4. Zatrzymane przedmioty należy zwrócić niezwłocznie po stwierdzeniu, że są zbędne dla prowadzonego postępowania, albo po uchyleniu przez sąd ochrony konkurencji i konsumentów postanowienia o zajęciu przedmiotów, jednak nie póêniej niż po upływie terminu, o którym mowa dzić kontrolę, wtym dokonać przeszukania na podstawie art. 91 lub art. 105c:
 
-- **1)** na wniosek Komisji Europejskiej, je˝eli przedsi´biorca lub osoba uprawniona do jego reprezentowania albo posiadacz lokalu mieszkalnego, pomieszczenia, nieruchomoÊci lub Êrodka transportu, o których mowa w art. 91 ust. 1, sprzeciwiajà si´ przeprowadzeniu przez Komisj´ Europejskà kontroli w toku post´powania prowadzonego na podstawie przepisów rozporzàdzenia nr 1/2003/WE lub rozporzàdzenia nr 139/2004/WE;
-- **2)** na wniosek Komisji Europejskiej lub organu ochrony konkurencji innego paƒstwa cz∏onkowskiego Unii Europejskiej w przypadku, o którym mowa w art. 22 rozporzàdzenia nr 1/2003/WE art. 12 rozporzàdzenia nr 139/2004/WE.
+- **1)** na wniosek Komisji Europejskiej, jeżeli przedsiębiorca lub osoba uprawniona do jego reprezentowania albo posiadacz lokalu mieszkalnego, pomieszczenia, nieruchomości lub środka transportu, o których mowa w art. 91 ust. 1, sprzeciwiają się przeprowadzeniu przez Komisję Europejską kontroli w toku postępowania prowadzonego na podstawie przepisów rozporządzenia nr 1/2003/WE lub rozporządzenia nr 139/2004/WE;
+- **2)** na wniosek Komisji Europejskiej lub organu ochrony konkurencji innego państwa członkowskiego Unii Europejskiej w przypadku, o którym mowa w art. 22 rozporządzenia nr 1/2003/WE art. 12 rozporządzenia nr 139/2004/WE.
 
 **Art. 105j.**
 
-1. Przebieg przeprowadzonej kontroli kontrolujàcy przedstawia w protokole kontroli.
+1. Przebieg przeprowadzonej kontroli kontrolujący przedstawia w protokole kontroli.
 
-2. Protokó∏ kontroli powinien zawieraç wszczególnoÊci:
+2. Protokół kontroli powinien zawierać wszczególności:
 
 - **1)** wskazanie nazwy albo imienia inazwiska adresu kontrolowanego;
-- **2)** dat´ rozpocz´cia i zakoƒczenia kontroli;
-- **3)** imi´, nazwisko i stanowisko s∏u˝bowe kontrolujàcego;
-- **4)** okreÊlenie przedmiotu i zakresu kontroli;
+- **2)** datę rozpoczęcia i zakończenia kontroli;
+- **3)** imię, nazwisko i stanowisko służbowe kontrolującego;
+- **4)** określenie przedmiotu i zakresu kontroli;
 - **5)** opis stanu faktycznego ustalonego wtrakcie kontroli;
-- **6)** opis za∏àczników;
-- **7)** informacj´ o pouczeniu kontrolowanego o prawie zg∏aszania zastrze˝eƒ do protoko∏u oprawie odmowy podpisania protoko∏u.
+- **6)** opis załączników;
+- **7)** informację o pouczeniu kontrolowanego o prawie zgłaszania zastrzeżeń do protokołu oprawie odmowy podpisania protokołu.
 
-3. Materia∏ dowodowy zgromadzony w toku kontroli stanowi za∏àcznik do protoko∏u kontroli.
+3. Materiał dowodowy zgromadzony w toku kontroli stanowi załącznik do protokołu kontroli.
 
 **Art. 105k.**
 
-1. Protokó∏ kontroli podpisujà kontrolujàcy ikontrolowany.
+1. Protokół kontroli podpisują kontrolujący ikontrolowany.
 
-2. Przed podpisaniem protoko∏u kontrolowany mo˝e, w terminie 7 dni od przedstawienia mu go do podpisu, z∏o˝yç na piÊmie zastrze˝enia do tego protoko∏u.
+2. Przed podpisaniem protokołu kontrolowany może, w terminie 7 dni od przedstawienia mu go do podpisu, złożyć na piśmie zastrzeżenia do tego protokołu.
 
-3. W razie zg∏oszenia zastrze˝eƒ, o których mowa wust. 2, kontrolujàcy dokonuje ich analizy i, wrazie potrzeby, podejmuje dodatkowe czynnoÊci kontrolne, a w przypadku stwierdze4. W razie nieuwzgl´dnienia zastrze˝eƒ w ca∏oÊci lub w cz´Êci kontrolujàcy informuje o tym kontrolowanego na piÊmie.
+3. W razie zgłoszenia zastrzeżeń, o których mowa wust. 2, kontrolujący dokonuje ich analizy i, wrazie potrzeby, podejmuje dodatkowe czynności kontrolne, a w przypadku stwierdze4. W razie nieuwzględnienia zastrzeżeń w całości lub w części kontrolujący informuje o tym kontrolowanego na piśmie.
 
-5. O odmowie podpisania protoko∏u kontrolujàcy czyni wzmiank´ w protokole.
+5. O odmowie podpisania protokołu kontrolujący czyni wzmiankę w protokole.
 
-6. Protokó∏ sporzàdza si´ w dwóch egzemplarzach, z których jeden pozostawia si´ kontrolowanemu, z wy∏àczeniem materia∏u dowodowego pozostajàcego w posiadaniu kontrolowanego.
+6. Protokół sporządza się w dwóch egzemplarzach, z których jeden pozostawia się kontrolowanemu, z wyłączeniem materiału dowodowego pozostającego w posiadaniu kontrolowanego.
 
-**Art. 105l.** Do kontroli dzia∏alnoÊci gospodarczej przedsi´biorcy, stosuje si´ przepisy rozdzia∏u 5 ustawy z dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”;
+**Art. 105l.** Do kontroli działalności gospodarczej przedsiębiorcy, stosuje się przepisy rozdziału 5 ustawy z dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z 2007 155, 1095, zpóên. zm. ).”;
 
 **Art. 64.**
 
-1. Do kontroli przedsi´biorcy wszcz´tej i niezakoƒczonej do dnia wejÊcia w ˝ycie niniejszej
+1. Do kontroli przedsiębiorcy wszczętej i niezakończonej do dnia wejścia w życie niniejszej
 
-2. Kontrole wszcz´te iniezakoƒczone do dnia wejÊcia w ˝ycie niniejszej ustawy zostanà zakoƒczone w terminie 60 dni od dnia wejÊcia w ˝ycie niniejszej ustawy.
+2. Kontrole wszczęte iniezakończone do dnia wejścia w życie niniejszej ustawy zostaną zakończone w terminie 60 dni od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 65.** Do dnia 1 lipca 2011 ilekroç przepis szczególny nakazuje przedsi´biorcy z∏o˝enie dodatkowych dokumentów do wniosku izg∏oszenia, októrym mowa wustawie zdnia 19 listopada 1999 Prawo dzia∏alnoÊci gospodarczej (Dz. U. 101, 1178, z póên. zm. ustawy stosuje si´ przepisy dotychczasowe. ), organ ewidencyjny przesy∏a do w∏aÊciwych organów z∏o˝one przez przedsi´biorc´ dokumenty.
+**Art. 65.** Do dnia 1 lipca 2011 ilekroć przepis szczególny nakazuje przedsiębiorcy złożenie dodatkowych dokumentów do wniosku izgłoszenia, októrym mowa wustawie zdnia 19 listopada 1999 Prawo działalności gospodarczej (Dz. U. 101, 1178, z póên. zm. ustawy stosuje się przepisy dotychczasowe. ), organ ewidencyjny przesyła do właściwych organów złożone przez przedsiębiorcę dokumenty.
 
 **Art. 66.**
 
-1. Organy ewidencyjne obowiàzane sà do przeniesienia danych przedsi´biorców wykonujàcych dzia∏alnoÊç gospodarczà przedsi´biorców, którzy zawiesili wykonywanie dzia∏alnoÊci gospodarczej, zawartych w dotychczasowej ewidencji, do systemu teleinformatycznego Centralnej Ewidencji i Informacji o Dzia∏alnoÊci Gospodarczej w terminie do dnia 31grudnia 2011
+1. Organy ewidencyjne obowiązane są do przeniesienia danych przedsiębiorców wykonujących działalność gospodarczą przedsiębiorców, którzy zawiesili wykonywanie działalności gospodarczej, zawartych w dotychczasowej ewidencji, do systemu teleinformatycznego Centralnej Ewidencji i Informacji o Działalności Gospodarczej w terminie do dnia 31grudnia 2011
 
-2. Przepis ust. 1 stosuje si´ do danych zgromadzonych w ewidencjach prowadzonych przez gminy i podlegajàcych wpisowi do Centralnej Ewidencji iInformacji oDzia∏alnoÊci Gospodarczej.
+2. Przepis ust. 1 stosuje się do danych zgromadzonych w ewidencjach prowadzonych przez gminy i podlegających wpisowi do Centralnej Ewidencji iInformacji oDziałalności Gospodarczej.
 
-3. Po up∏ywie terminu, o którym mowa w ust. 1, dotychczasowe ewidencje dzia∏alnoÊci gospodarczej prowadzone w gminach podlegajà archiwizacji zgodnie z przepisami wydanymi na podstawie art. 39a ustawy z dnia 8 marca 1990 o samorzàdzie gminnym (Dz. U. z 2001 142, 1591, z póên. zm. ), aorgany gmin pozostajà w∏aÊciwe wzakresie spraw ewidencyjnych przedsi´biorców, którzy zakoƒczyli wykonywanie dzia∏alnoÊci gospodarczej przed dniem 1 lipca 2011
+3. Po upływie terminu, o którym mowa w ust. 1, dotychczasowe ewidencje działalności gospodarczej prowadzone w gminach podlegają archiwizacji zgodnie z przepisami wydanymi na podstawie art. 39a ustawy z dnia 8 marca 1990 o samorządzie gminnym (Dz. U. z 2001 142, 1591, z póên. zm. ), aorgany gmin pozostają właściwe wzakresie spraw ewidencyjnych przedsiębiorców, którzy zakończyli wykonywanie działalności gospodarczej przed dniem 1 lipca 2011
 
-4. Do czynnoÊci, októrych mowa wust. 1, stosuje si´ odpowiednio przepisy art. 26 ust. 3, art. 34 art. 35 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszà ustawà.
+4. Do czynności, októrych mowa wust. 1, stosuje się odpowiednio przepisy art. 26 ust. 3, art. 34 art. 35 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 67.**
 
-1. Organy koncesyjne, organy prowadzàce rejestry dzia∏alnoÊci regulowanej organy w∏aÊciwe do spraw zezwoleƒ i licencji, w terminie do dnia 31 grudnia 2011 przeka˝à do Centralnej Ewidencji i Informacji o Dzia∏alnoÊci Gospodarczej, dane o przedsi´biorcach wykonujàcych aktualnie dzia∏alnoÊç gospodarczà wià˝àcà si´ z uzyskaniem, odpowiednio, koncesji, wpisu do rejestru dzia∏alnoÊci re——————— ——————— gulowanej, licencji lub zezwolenia, zawarte w prowadzonych przez nie rejestrach, zgodnie z przepisami odzia∏alnoÊci gospodarczej.
+1. Organy koncesyjne, organy prowadzące rejestry działalności regulowanej organy właściwe do spraw zezwoleń i licencji, w terminie do dnia 31 grudnia 2011 przekażą do Centralnej Ewidencji i Informacji o Działalności Gospodarczej, dane o przedsiębiorcach wykonujących aktualnie działalność gospodarczą wiążącą się z uzyskaniem, odpowiednio, koncesji, wpisu do rejestru działalności re——————— ——————— gulowanej, licencji lub zezwolenia, zawarte w prowadzonych przez nie rejestrach, zgodnie z przepisami odziałalności gospodarczej.
 
-2. Przepis ust. 1 stosuje si´ odpowiednio do sàdów i kuratorów w zakresie danych gromadzonych lub udost´pnianych przez Centralnà Ewidencj´ iInformacj´ oDzia∏alnoÊci Gospodarczej.
+2. Przepis ust. 1 stosuje się odpowiednio do sądów i kuratorów w zakresie danych gromadzonych lub udostępnianych przez Centralną Ewidencję iInformację oDziałalności Gospodarczej.
 
-**Art. 68.** Ilekroç w obowiàzujàcych przepisach jest mowa o ewidencji dzia∏alnoÊci gospodarczej lub organie ewidencyjnym w odniesieniu do przedsi´biorców wykonujàcych dzia∏alnoÊç gospodarczà po dniu 1lipca 2011 r., nale˝y przez to rozumieç CEIDG.
+**Art. 68.** Ilekroć w obowiązujących przepisach jest mowa o ewidencji działalności gospodarczej lub organie ewidencyjnym w odniesieniu do przedsiębiorców wykonujących działalność gospodarczą po dniu 1lipca 2011 r., należy przez to rozumieć CEIDG.
 
 **Art. 69.**
 
-1. Prezes G∏ównego Urz´du Statystycznego, Prezes Zak∏adu Ubezpieczeƒ Spo∏ecznych, Prezes Kasy Rolniczego Ubezpieczenia Spo∏ecznego minister w∏aÊciwy do spraw finansów publicznych wspó∏pracujà z ministrem w∏aÊciwym do spraw gospodarki wzakresie warunków technicznych umo˝liwienia przekazywania przez CEIDG danych przedsi´biorców niezb´dnych odpowiednio dla krajowego rejestru urz´dowego podmiotów gospodarki narodowej (REGON), zg∏oszenia p∏atnika sk∏adek zg∏oszeƒ identyfikacyjnych lub aktualizacyjnych, októrych mowa w ustawie z dnia 13 paêdziernika 1995 o zasadach ewidencji i identyfikacji podatników i p∏atników (Dz. U. z2004 269, 2681, zpóên. zm. Rolniczego Ubezpieczenia Spo∏ecznego minister w∏aÊciwy do spraw finansów publicznych wspó∏pracujà z Ministrem SprawiedliwoÊci w zakresie warunków technicznych umo˝liwienia przekazywania przez Krajowy Rejestr Sàdowy danych podmiotów wpisanych wKrajowym Rejestrze Sàdowym niezb´dnych odpowiednio dla krajowego rejestru urz´dowego podmiotów gospodarki narodowej (REGON), zg∏oszenia p∏atnika sk∏adek zg∏oszeƒ identyfikacyjnych lub aktualizacyjnych, októrych mowa wustawie z dnia 13 paêdziernika 1995 o zasadach ewidencji iidentyfikacji podatników ip∏atników weryfikacji tych zg∏oszeƒ.
+1. Prezes Głównego Urzędu Statystycznego, Prezes Zakładu Ubezpieczeń Społecznych, Prezes Kasy Rolniczego Ubezpieczenia Społecznego minister właściwy do spraw finansów publicznych współpracują z ministrem właściwym do spraw gospodarki wzakresie warunków technicznych umożliwienia przekazywania przez CEIDG danych przedsiębiorców niezbędnych odpowiednio dla krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), zgłoszenia płatnika składek zgłoszeń identyfikacyjnych lub aktualizacyjnych, októrych mowa w ustawie z dnia 13 paêdziernika 1995 o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z2004 269, 2681, zpóên. zm. Rolniczego Ubezpieczenia Społecznego minister właściwy do spraw finansów publicznych współpracują z Ministrem Sprawiedliwości w zakresie warunków technicznych umożliwienia przekazywania przez Krajowy Rejestr Sądowy danych podmiotów wpisanych wKrajowym Rejestrze Sądowym niezbędnych odpowiednio dla krajowego rejestru urzędowego podmiotów gospodarki narodowej (REGON), zgłoszenia płatnika składek zgłoszeń identyfikacyjnych lub aktualizacyjnych, októrych mowa wustawie z dnia 13 paêdziernika 1995 o zasadach ewidencji iidentyfikacji podatników ipłatników weryfikacji tych zgłoszeń.
 
-**Art. 70.** Przepisy wykonawcze wydane na podstawie przepisów upowa˝niajàcych zmienianych niniejszà ustawà pozostajà wmocy, do czasu wejÊcia w˝ycie przepisów wydanych na podstawie przepisów upowa˝niajàcych w brzmieniu nadanym niniejszà ustawà, nie d∏u˝ej jednak ni˝ przez okres 6 miesi´cy od dnia wejÊcia w˝ycie niniejszej ustawy.
+**Art. 70.** Przepisy wykonawcze wydane na podstawie przepisów upoważniających zmienianych niniejszą ustawą pozostają wmocy, do czasu wejścia wżycie przepisów wydanych na podstawie przepisów upoważniających w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia wżycie niniejszej ustawy.
 
-**Art. 71.** Wnioski o wpis do ewidencji dzia∏alnoÊci ) weryfikacji tych zg∏oszeƒ. 2. Prezes G∏ównego Urz´du Statystycznego, Prezes Zak∏adu Ubezpieczeƒ Spo∏ecznych, Prezes Kasy gospodarczej z∏o˝one przed dniem 1 lipca 2011 podlegajà rozpatrzeniu zgodnie z przepisami dotychczasowymi.
+**Art. 71.** Wnioski o wpis do ewidencji działalności ) weryfikacji tych zgłoszeń. 2. Prezes Głównego Urzędu Statystycznego, Prezes Zakładu Ubezpieczeń Społecznych, Prezes Kasy gospodarczej złożone przed dniem 1 lipca 2011 podlegają rozpatrzeniu zgodnie z przepisami dotychczasowymi.
 
-**Art. 72.** Ustawa wchodzi w˝ycie po up∏ywie 30 dni od dnia og∏oszenia, zwyjàtkiem:
+**Art. 72.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia, zwyjątkiem:
 

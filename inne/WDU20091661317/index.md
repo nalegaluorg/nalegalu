@@ -24,386 +24,386 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091661317) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1317/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 16 listopada 2000 r. o przeciwdzia∏aniu wprowadzaniu do obrotu finansowego wartoÊci majàtkowych pochodzàcych z nielegalnych lub nieujawnionych êróde∏ oraz o przeciwdzia∏aniu finansowaniu terroryzmu (Dz. U. z 2003 r. Nr153, poz.1505, zpóên. zm.
+**Art. 1.** W ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących z nielegalnych lub nieujawnionych êródeł oraz o przeciwdziałaniu finansowaniu terroryzmu (Dz. U. z 2003 r. Nr153, poz.1505, zpóên. zm.
 
 **Art. 8b.**
 
-1. Instytucje obowiàzane stosujà wobec swoich klientów Êrodki bezpieczeƒ1) kupna i sprzeda˝y nieruchomoÊci lub stwa finansowego. Zakres stosowania przedsi´biorstw; jest okreÊlany na podstawie oceny ryzyka prania pieni´dzy i finansowania
+1. Instytucje obowiązane stosują wobec swoich klientów środki bezpieczeń1) kupna i sprzedaży nieruchomości lub stwa finansowego. Zakres stosowania przedsiębiorstw; jest określany na podstawie oceny ryzyka prania pieniędzy i finansowania
 
-- **2)** zarzàdzania pieni´dzmi, papierami war- terroryzmu, zwanej dalej „ocenà ryzytoÊciowymi lub innymi wartoÊciami ma- ka”, dokonanej w wyniku analizy, jàtkowymi; z uwzgl´dnieniem w szczególnoÊci rodzaju klienta, stosunków gospodar3) otwierania rachunków lub zarzàdzania czych, produktów lub transakcji. nimi; 2. Ârodki bezpieczeƒstwa finansowego nie sà stosowane przez:
-- **4)** organizacji wp∏at i dop∏at na kapita∏ za- 1) Narodowy Bank Polski; k∏adowy i akcyjny, organizacji wk∏adu do tworzenia lub prowadzenia dzia∏alno- 2) operatora publicznego, o którym Êci spó∏ek lub zarzàdzania nimi; mowa w art. 2 pkt 1 lit. m, przy Êwiadczeniu us∏ug przekazów pie5) tworzenia, dzia∏alnoÊci przedsi´biorców ni´˝nych. w innej formie organizacyjnej, a tak˝e 3. Ârodki bezpieczeƒstwa finansowego, zarzàdzania nimi.”, októrych mowa wust.1, polegajà na:
-- **1)** identyfikacji klienta i weryfikacji jeg) ust.4 otrzymuje brzmienie: go to˝samoÊci na podstawie dokumentów lub informacji publicznie „4. Rejestr transakcji, o których mowa w ust. 1 dost´pnych; i 3, jest przechowywany przez okres 5 lat, 2) podejmowaniu czynnoÊci, z zacholiczàc od pierwszego dnia roku nast´pujàce- waniem nale˝ytej starannoÊci, wcego po roku, w którym transakcje zosta∏y za- lu identyfikacji beneficjenta rzeczyrejestrowane. W przypadku likwidacji, po∏àczenia, podzia∏u oraz przekszta∏cenia instytucji obowiàzanej, do przechowywania rejestrów i dokumentacji stosuje si´ odpowiednio przepisy art. 76 ustawy z dnia 29 wrzeÊnia 1994r. orachunkowoÊci (Dz.U. z 2009 r. 152, poz. 1223, 157, poz. 1241 i 165, poz. 1316).”, wistego istosowaniu uzale˝nionych od oceny ryzyka odpowiednich Êrodków weryfikacji jego to˝samoÊci wcelu uzyskania przez instytucj´ obowiàzanà danych dotyczàcych to˝samoÊci beneficjenta rzeczywistego, w tym ustalaniu struktury w∏asnoÊci izale˝noÊci klienta;
-- **3)** uzyskiwaniu informacji dotyczàcych 1) w przypadku osób fizycznych i ich celu i zamierzonego przez klienta przedstawicieli ustalenie i zapisacharakteru stosunków gospodar- nie cech dokumentu stwierdzajàcego czych; na podstawie odr´bnych przepisów
-- **4)** bie˝àcym monitorowaniu stosun- to˝samoÊç osoby, a tak˝e imienia, ków gospodarczych z klientem, nazwiska, obywatelstwa oraz adresu w tym badaniu przeprowadzanych osoby dokonujàcej transakcji, a potransakcji w celu zapewnienia, ˝e nadto numeru PESEL lub daty uroprzeprowadzane transakcje sà zgod- dzenia w przypadku osoby nieposiane z wiedzà instytucji obowiàzanej dajàcej numeru PESEL, lub numeru o kliencie i profilu jego dzia∏alnoÊci dokumentu stwierdzajàcego to˝samoÊç cudzoziemca, lub kodu kraju oraz z ryzykiem, a tak˝e, w miar´ w przypadku przedstawienia paszmo˝liwoÊci, badaniu êród∏a pocho- portu; dzenia wartoÊci majàtkowych oraz bie˝àcym aktualizowaniu posiada- 2) wprzypadku osób prawnych zapinych dokumentów iinformacji. sanie aktualnych danych z wyciàgu z rejestru sàdowego lub innego do4. Ârodki bezpieczeƒstwa finansowego kumentu, wskazujàcego nazw´ (firsà stosowane wszczególnoÊci: m´), form´ organizacyjnà osoby
-- **1)** przy zawieraniu umowy zklientem; prawnej, siedzib´ i jej adres, numer identyfikacji podatkowej, a tak˝e
-- **2)** przy przeprowadzaniu transakcji imienia, nazwiska i numeru PESEL z klientem, z którym instytucja obo- lub daty urodzenia wprzypadku osowiàzana nie zawar∏a uprzednio umowy, której równowartoÊç przekracza 15 000 euro, bez wzgl´du na to czy transakcja jest przeprowadzana jako pojedyncza operacja czy kilka operacji, których okolicznoÊci wskazujà, ˝e sà one ze sobà powiàzane;
-- **3)** gdy istnieje podejrzenie prania pieni´dzy lub finansowania terroryzmu bez wzgl´du na wartoÊç transakcji, form´ organizacyjnà oraz rodzaj klienta;
-- **4)** gdy zachodzi wàtpliwoÊç czy otrzymane wczeÊniej dane, o których mowa w art. 9 sà prawdziwe lub pe∏ne.
+- **2)** zarządzania pieniędzmi, papierami war- terroryzmu, zwanej dalej Ńoceną ryzytościowymi lub innymi wartościami ma- ka”, dokonanej w wyniku analizy, jątkowymi; z uwzględnieniem w szczególności rodzaju klienta, stosunków gospodar3) otwierania rachunków lub zarządzania czych, produktów lub transakcji. nimi; 2. Ârodki bezpieczeństwa finansowego nie są stosowane przez:
+- **4)** organizacji wpłat i dopłat na kapitał za- 1) Narodowy Bank Polski; kładowy i akcyjny, organizacji wkładu do tworzenia lub prowadzenia działalno- 2) operatora publicznego, o którym ści spółek lub zarządzania nimi; mowa w art. 2 pkt 1 lit. m, przy świadczeniu usług przekazów pie5) tworzenia, działalności przedsiębiorców niężnych. w innej formie organizacyjnej, a także 3. Ârodki bezpieczeństwa finansowego, zarządzania nimi.”, októrych mowa wust.1, polegają na:
+- **1)** identyfikacji klienta i weryfikacji jeg) ust.4 otrzymuje brzmienie: go tożsamości na podstawie dokumentów lub informacji publicznie Ń4. Rejestr transakcji, o których mowa w ust. 1 dostępnych; i 3, jest przechowywany przez okres 5 lat, 2) podejmowaniu czynności, z zacholicząc od pierwszego dnia roku następujące- waniem należytej staranności, wcego po roku, w którym transakcje zostały za- lu identyfikacji beneficjenta rzeczyrejestrowane. W przypadku likwidacji, połączenia, podziału oraz przekształcenia instytucji obowiązanej, do przechowywania rejestrów i dokumentacji stosuje się odpowiednio przepisy art. 76 ustawy z dnia 29 września 1994r. orachunkowości (Dz.U. z 2009 r. 152, poz. 1223, 157, poz. 1241 i 165, poz. 1316).”, wistego istosowaniu uzależnionych od oceny ryzyka odpowiednich środków weryfikacji jego tożsamości wcelu uzyskania przez instytucję obowiązaną danych dotyczących tożsamości beneficjenta rzeczywistego, w tym ustalaniu struktury własności izależności klienta;
+- **3)** uzyskiwaniu informacji dotyczących 1) w przypadku osób fizycznych i ich celu i zamierzonego przez klienta przedstawicieli ustalenie i zapisacharakteru stosunków gospodar- nie cech dokumentu stwierdzającego czych; na podstawie odrębnych przepisów
+- **4)** bieżącym monitorowaniu stosun- tożsamość osoby, a także imienia, ków gospodarczych z klientem, nazwiska, obywatelstwa oraz adresu w tym badaniu przeprowadzanych osoby dokonującej transakcji, a potransakcji w celu zapewnienia, że nadto numeru PESEL lub daty uroprzeprowadzane transakcje są zgod- dzenia w przypadku osoby nieposiane z wiedzą instytucji obowiązanej dającej numeru PESEL, lub numeru o kliencie i profilu jego działalności dokumentu stwierdzającego tożsamość cudzoziemca, lub kodu kraju oraz z ryzykiem, a także, w miarę w przypadku przedstawienia paszmożliwości, badaniu êródła pocho- portu; dzenia wartości majątkowych oraz bieżącym aktualizowaniu posiada- 2) wprzypadku osób prawnych zapinych dokumentów iinformacji. sanie aktualnych danych z wyciągu z rejestru sądowego lub innego do4. Ârodki bezpieczeństwa finansowego kumentu, wskazującego nazwę (firsą stosowane wszczególności: mę), formę organizacyjną osoby
+- **1)** przy zawieraniu umowy zklientem; prawnej, siedzibę i jej adres, numer identyfikacji podatkowej, a także
+- **2)** przy przeprowadzaniu transakcji imienia, nazwiska i numeru PESEL z klientem, z którym instytucja obo- lub daty urodzenia wprzypadku osowiązana nie zawarła uprzednio umowy, której równowartość przekracza 15 000 euro, bez względu na to czy transakcja jest przeprowadzana jako pojedyncza operacja czy kilka operacji, których okoliczności wskazują, że są one ze sobą powiązane;
+- **3)** gdy istnieje podejrzenie prania pieniędzy lub finansowania terroryzmu bez względu na wartość transakcji, formę organizacyjną oraz rodzaj klienta;
+- **4)** gdy zachodzi wątpliwość czy otrzymane wcześniej dane, o których mowa w art. 9 są prawdziwe lub pełne.
 
-5. Wprzypadku gdy instytucja obowiàzana nie mo˝e wykonaç obowiàzków, o których mowa w ust. 3 pkt 1—3, nie przeprowadza transakcji, nie podpisuje umowy zklientem lub rozwiàzuje zawarte umowy oraz przekazuje Generalnemu Inspektorowi, wed∏ug ustalonego wzoru, w uzasadnionych przypadkach zuwzgl´dnieniem ryzyka prania pieni´dzy oraz finansowania terroryzmu, informacje o danym kliencie wraz z posiadanymi informacjami oplanowanej przez niego transakcji.
+5. Wprzypadku gdy instytucja obowiązana nie może wykonać obowiązków, o których mowa w ust. 3 pkt 1—3, nie przeprowadza transakcji, nie podpisuje umowy zklientem lub rozwiązuje zawarte umowy oraz przekazuje Generalnemu Inspektorowi, według ustalonego wzoru, w uzasadnionych przypadkach zuwzględnieniem ryzyka prania pieniędzy oraz finansowania terroryzmu, informacje o danym kliencie wraz z posiadanymi informacjami oplanowanej przez niego transakcji.
 
-6. Instytucje obowiàzane, na ˝àdanie organów informacji finansowej i organów, o których mowa w art. 21 ust. 3, wykazujà Êrodki bezpieczeƒstwa finansowego zastosowane przez nie wzwiàzku zryzykiem prania pieni´dzy ifinansowania terroryzmu.”;
+6. Instytucje obowiązane, na żądanie organów informacji finansowej i organów, o których mowa w art. 21 ust. 3, wykazują środki bezpieczeństwa finansowego zastosowane przez nie wzwiązku zryzykiem prania pieniędzy ifinansowania terroryzmu.”;
 
-- **14)** art.9 otrzymuje brzmienie: „Art. 9. 1. Identyfikacja, o której mowa w art. 8b ust.3 pkt1, obejmuje: by nieposiadajàcej numeru PESEL, osoby reprezentujàcej t´ osob´ prawnà;
-- **3)** w przypadku jednostek organizacyjnych niemajàcych osobowoÊci prawnej zapisanie aktualnych danych z dokumentu wskazujàcego nazw´, form´ organizacyjnà, siedzib´ i jej adres, numer identyfikacji podatkowej, a tak˝e imienia, nazwiska i numeru PESEL lub daty urodzenia w przypadku osoby nieposiadajàcej numeru PESEL, osoby reprezentujàcej t´ jednostk´.
+- **14)** art.9 otrzymuje brzmienie: ŃArt. 9. 1. Identyfikacja, o której mowa w art. 8b ust.3 pkt1, obejmuje: by nieposiadającej numeru PESEL, osoby reprezentującej tę osobę prawną;
+- **3)** w przypadku jednostek organizacyjnych niemających osobowości prawnej zapisanie aktualnych danych z dokumentu wskazującego nazwę, formę organizacyjną, siedzibę i jej adres, numer identyfikacji podatkowej, a także imienia, nazwiska i numeru PESEL lub daty urodzenia w przypadku osoby nieposiadającej numeru PESEL, osoby reprezentującej tę jednostkę.
 
-2. Identyfikacja, o której mowa w art. 8b ust.3 pkt1, dotyczy tak˝e stron transakcji nieb´dàcych klientami i obejmuje ustalenie i zapisanie ich nazwy (firmy) lub imienia i nazwiska oraz adresu, w zakresie, w jakim dane te instytucja obowiàzana mo˝e ustaliç przy zachowaniu nale˝ytej starannoÊci.
+2. Identyfikacja, o której mowa w art. 8b ust.3 pkt1, dotyczy także stron transakcji niebędących klientami i obejmuje ustalenie i zapisanie ich nazwy (firmy) lub imienia i nazwiska oraz adresu, w zakresie, w jakim dane te instytucja obowiązana może ustalić przy zachowaniu należytej staranności.
 
-3. Identyfikacja, o której mowa w art. 8b ust.3 pkt2, obejmuje ustalenie izapisanie imienia, nazwiska i adresu oraz dodatkowo innych danych identyfikacyjnych, o których mowa w ust. 1 pkt 1, w zakresie, w jakim instytucja obowiàzana mo˝e je ustaliç.”;
+3. Identyfikacja, o której mowa w art. 8b ust.3 pkt2, obejmuje ustalenie izapisanie imienia, nazwiska i adresu oraz dodatkowo innych danych identyfikacyjnych, o których mowa w ust. 1 pkt 1, w zakresie, w jakim instytucja obowiązana może je ustalić.”;
 
-- **15)** po art.9 dodaje si´ art.9a—9k wbrzmieniu: „Art. 9a. 1. Weryfikacja, o której mowa w art. 8b ust.3 pkt1 i2, polega na sprawdzeniu ipotwierdzeniu danych, októrych mowa wart.9 ust.1 i3, inast´puje przed zawarciem umowy z klientem lub przed przeprowadzeniem transakcji.
+- **15)** po art.9 dodaje się art.9a—9k wbrzmieniu: ŃArt. 9a. 1. Weryfikacja, o której mowa w art. 8b ust.3 pkt1 i2, polega na sprawdzeniu ipotwierdzeniu danych, októrych mowa wart.9 ust.1 i3, inastępuje przed zawarciem umowy z klientem lub przed przeprowadzeniem transakcji.
 
-2. Weryfikacja, o której mowa w art. 8b ust. 3 pkt 1 i 2, mo˝e byç zakoƒczona po nawiàzaniu stosunków gospodarczych, jedynie je˝eli jest to konieczne dla zapewnienia dalszego prowadzenia dzia∏alnoÊci gospodarczej oraz gdy wyst´puje niewielkie ryzyko prania pieni´dzy lub finansowania terroryzmu ustalone na podstawie przeprowadzonej analizy.
+2. Weryfikacja, o której mowa w art. 8b ust. 3 pkt 1 i 2, może być zakończona po nawiązaniu stosunków gospodarczych, jedynie jeżeli jest to konieczne dla zapewnienia dalszego prowadzenia działalności gospodarczej oraz gdy występuje niewielkie ryzyko prania pieniędzy lub finansowania terroryzmu ustalone na podstawie przeprowadzonej analizy.
 
-3. W przypadku dzia∏alnoÊci ubezpieczeniowej, w zakresie ubezpieczeƒ na ˝ycie, weryfikacja to˝samoÊci uposa˝onego lub uprawnionego ztytu∏u polisy mo˝e nastàpiç w chwili wyp∏aty lub przed jej dokonaniem albo w chwili gdy uposa˝ony lub uprawniony zamierza wykonaç prawa wynikajàce zumowy ubezpieczenia.
+3. W przypadku działalności ubezpieczeniowej, w zakresie ubezpieczeń na życie, weryfikacja tożsamości uposażonego lub uprawnionego ztytułu polisy może nastąpić w chwili wypłaty lub przed jej dokonaniem albo w chwili gdy uposażony lub uprawniony zamierza wykonać prawa wynikające zumowy ubezpieczenia.
 
 **Art. 9b.**
 
-1. W uzasadnionych przypadkach mo˝liwe jest otwarcie rachunku bez dope∏nienia obowiàzku, o którym mowa wart.8b ust.1—4.
+1. W uzasadnionych przypadkach możliwe jest otwarcie rachunku bez dopełnienia obowiązku, o którym mowa wart.8b ust.1—4.
 
-2. Wprzypadku, októrym mowa wust.1, dokonanie transakcji za poÊrednictwem rachunku jest mo˝liwe z chwilà zawarcia umowy o prowadzenie takiego rachunku.
+2. Wprzypadku, októrym mowa wust.1, dokonanie transakcji za pośrednictwem rachunku jest możliwe z chwilą zawarcia umowy o prowadzenie takiego rachunku.
 
-**Art. 9c.** W przypadku podmiotu prowadzàcego kasyno gry, w rozumieniu przepisów ustawy zdnia 29 lipca 1992r. ograch izak∏adach wzajemnych, Êrodki, o których mowa w art. 8b ust. 3 pkt 1, stosuje si´ przy wejÊciu klienta do kasyna, niezale˝nie od wartoÊci ˝etonów zakupionych do gry.
+**Art. 9c.** W przypadku podmiotu prowadzącego kasyno gry, w rozumieniu przepisów ustawy zdnia 29 lipca 1992r. ograch izakładach wzajemnych, środki, o których mowa w art. 8b ust. 3 pkt 1, stosuje się przy wejściu klienta do kasyna, niezależnie od wartości żetonów zakupionych do gry.
 
 **Art. 9d.**
 
-1. Instytucje obowiàzane, przy uwzgl´dnieniu ryzyka prania pieni´dzy lub finansowania terroryzmu, mogà odstàpiç od stosowania przepisów art.8b ust.3 pkt1—3:
+1. Instytucje obowiązane, przy uwzględnieniu ryzyka prania pieniędzy lub finansowania terroryzmu, mogą odstąpić od stosowania przepisów art.8b ust.3 pkt1—3:
 
-- **1)** gdy klient jest podmiotem Êwiadczàcym us∏ugi finansowe, majàcym siedzib´ na terytorium paƒstwa cz∏onkowskiego Unii Europejskiej albo paƒstwa równowa˝nego;
+- **1)** gdy klient jest podmiotem świadczącym usługi finansowe, mającym siedzibę na terytorium państwa członkowskiego Unii Europejskiej albo państwa równoważnego;
 - **2)** wstosunku do:
-    - **a)** organów administracji rzàdowej, organów samorzàdu terytorialnego oraz organów egzekucyjnych,
-    - **b)** umów ubezpieczenia na ˝ycie, w przypadku gdy sk∏adka roczna nie przekracza równowartoÊci 1 000 euro lub sk∏adka jednorazowa nie przekracza równowartoÊci 2 500 euro,
-    - **c)** polis ubezpieczeniowych wyst´pujàcych w powiàzaniu z ubezpieczeniem emerytalnym, o ile warunki ubezpieczenia nie zawierajà klauzuli oodp∏atnym zrzeczeniu si´ przez ubezpieczonego praw wynikajàcych z polisy oraz oile polisy te nie mogà byç u˝yte jako zabezpieczenie kredytu lub
-    - **d)** pieniàdza elektronicznego, w rozumieniu ustawy zdnia 12 wrzeÊnia 2002 r. o elektronicznych instrumentach p∏atniczych, je˝eli maksymalna kwota przechowywana na noÊniku nie przekracza: równowartoÊci 150 euro wprzypadku urzàdzenia, które nie mo˝e zostaç ponownie na∏adowane, lub równowartoÊci 2500 euro wdanym roku kalendarzowym w przypadku urzàdzenia, które mo˝e zostaç ponownie na∏adowane, chyba ˝e kwota wykupu wynosi co najmniej równowartoÊç 1 000 euro wdanym roku kalendarzowym.
+    - **a)** organów administracji rządowej, organów samorządu terytorialnego oraz organów egzekucyjnych,
+    - **b)** umów ubezpieczenia na życie, w przypadku gdy składka roczna nie przekracza równowartości 1 000 euro lub składka jednorazowa nie przekracza równowartości 2 500 euro,
+    - **c)** polis ubezpieczeniowych występujących w powiązaniu z ubezpieczeniem emerytalnym, o ile warunki ubezpieczenia nie zawierają klauzuli oodpłatnym zrzeczeniu się przez ubezpieczonego praw wynikających z polisy oraz oile polisy te nie mogą być użyte jako zabezpieczenie kredytu lub
+    - **d)** pieniądza elektronicznego, w rozumieniu ustawy zdnia 12 września 2002 r. o elektronicznych instrumentach płatniczych, jeżeli maksymalna kwota przechowywana na nośniku nie przekracza: równowartości 150 euro wprzypadku urządzenia, które nie może zostać ponownie naładowane, lub równowartości 2500 euro wdanym roku kalendarzowym w przypadku urządzenia, które może zostać ponownie naładowane, chyba że kwota wykupu wynosi co najmniej równowartość 1 000 euro wdanym roku kalendarzowym.
 
-2. W przypadku gdy klient jest spó∏kà, której papiery wartoÊciowe sà dopuszczone do publicznego obrotu na rynku regulowanym w co najmniej jednym po˝yczki, paƒstwie cz∏onkowskim Unii Europejskiej lub w paƒstwie równowa˝nym, instytucje obowiàzane, przy uwzgl´dnieniu ryzyka prania pieni´dzy lub finansowania terroryzmu, mogà ograniczyç stosowanie Êrodków bezpieczeƒstwa finansowego do przypadków i Êrodków okreÊlonych w art. 8b ust. 3 pkt1 iust.4 pkt1 i3.
+2. W przypadku gdy klient jest spółką, której papiery wartościowe są dopuszczone do publicznego obrotu na rynku regulowanym w co najmniej jednym pożyczki, państwie członkowskim Unii Europejskiej lub w państwie równoważnym, instytucje obowiązane, przy uwzględnieniu ryzyka prania pieniędzy lub finansowania terroryzmu, mogą ograniczyć stosowanie środków bezpieczeństwa finansowego do przypadków i środków określonych w art. 8b ust. 3 pkt1 iust.4 pkt1 i3.
 
-3. W przypadkach okreÊlonych w ust. 1 pkt1 ipkt2 lit. aib instytucje obowiàzane gromadzà informacje w celu ustalenia, czy klient spe∏nia warunki okreÊlone wtych przepisach.
+3. W przypadkach określonych w ust. 1 pkt1 ipkt2 lit. aib instytucje obowiązane gromadzą informacje w celu ustalenia, czy klient spełnia warunki określone wtych przepisach.
 
-4. Do gromadzenia informacji, o których mowa w ust. 3, art. 9k stosuje si´ odpowiednio.
+4. Do gromadzenia informacji, o których mowa w ust. 3, art. 9k stosuje się odpowiednio.
 
-5. Minister w∏aÊciwy do spraw instytucji finansowych mo˝e okreÊliç, w drodze rozporzàdzenia, inne ni˝ wskazane w ust. 1 i 2 kategorie podmiotów lub rodzaje dzia∏alnoÊci, z którymi jest zwiàzane niewielkie ryzyko prania pieni´dzy lub finansowania terroryzmu, w stosunku do których mo˝liwe jest niestosowanie przepisów art.8b ust.3 pkt 2—4 i ust. 4 pkt 2 i 4 z uwzgl´dnieniem prawid∏owoÊci wykonania Êrodków bezpieczeƒstwa finansowego przez instytucje obowiàzane.
+5. Minister właściwy do spraw instytucji finansowych może określić, w drodze rozporządzenia, inne niż wskazane w ust. 1 i 2 kategorie podmiotów lub rodzaje działalności, z którymi jest związane niewielkie ryzyko prania pieniędzy lub finansowania terroryzmu, w stosunku do których możliwe jest niestosowanie przepisów art.8b ust.3 pkt 2—4 i ust. 4 pkt 2 i 4 z uwzględnieniem prawidłowości wykonania środków bezpieczeństwa finansowego przez instytucje obowiązane.
 
-6. Minister w∏aÊciwy do spraw instytucji finansowych okreÊli, w drodze rozporzàdzenia, list´ paƒstw równowa˝nych, uwzgl´dniajàc koniecznoÊç zapewnienia prawid∏owoÊci wykonania Êrodków bezpieczeƒstwa finansowego przez instytucje obowiàzane oraz oceny w zakresie spe∏niania przez dane paƒstwo standardów w zakresie przeciwdzia∏ania praniu pieni´dzy oraz finansowaniu terroryzmu, dokonywane przez organizacje mi´dzynarodowe.
+6. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, listę państw równoważnych, uwzględniając konieczność zapewnienia prawidłowości wykonania środków bezpieczeństwa finansowego przez instytucje obowiązane oraz oceny w zakresie spełniania przez dane państwo standardów w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, dokonywane przez organizacje międzynarodowe.
 
 **Art. 9e.**
 
-1. Instytucje obowiàzane stosujà, na podstawie analizy ryzyka, wzmo˝one Êrodki bezpieczeƒstwa finansowego wobec klienta w przypadkach, które mogà wiàzaç si´ z wy˝szym ryzykiem prania pieni´dzy lub finansowania terroryzmu, awszczególnoÊci wprzypadkach okreÊlonych wust.2—5.
+1. Instytucje obowiązane stosują, na podstawie analizy ryzyka, wzmożone środki bezpieczeństwa finansowego wobec klienta w przypadkach, które mogą wiązać się z wyższym ryzykiem prania pieniędzy lub finansowania terroryzmu, awszczególności wprzypadkach określonych wust.2—5.
 
-2. W przypadku gdy klient nie jest obecny, dla celów identyfikacji instytucje obowiàzane stosujà, wcelu zmniejszenia ryzyka, co najmniej jeden z nast´pujàcych Êrodków:
+2. W przypadku gdy klient nie jest obecny, dla celów identyfikacji instytucje obowiązane stosują, wcelu zmniejszenia ryzyka, co najmniej jeden z następujących środków:
 
-- **1)** ustalenie to˝samoÊci klienta na podstawie dodatkowych dokumentów lub informacji;
-- **2)** dodatkowà weryfikacj´ autentycznoÊci przedstawionych dokumentów lub poÊwiadczenie ich zgodnoÊci z orygina∏em przez notariusza, organ administracji rzàdowej, organ samorzàdu terytorialnego lub podmiot Êwiadczàcy us∏ugi finansowe;
-- **3)** ustalenie, ˝e pierwsza transakcja zosta∏a przeprowadzona za poÊrednictwem rachunku klienta wpodmiocie Êwiadczàcym us∏ugi finansowe.
+- **1)** ustalenie tożsamości klienta na podstawie dodatkowych dokumentów lub informacji;
+- **2)** dodatkową weryfikację autentyczności przedstawionych dokumentów lub poświadczenie ich zgodności z oryginałem przez notariusza, organ administracji rządowej, organ samorządu terytorialnego lub podmiot świadczący usługi finansowe;
+- **3)** ustalenie, że pierwsza transakcja została przeprowadzona za pośrednictwem rachunku klienta wpodmiocie świadczącym usługi finansowe.
 
-3. W zakresie transgranicznych stosunków z instytucjami b´dàcymi korespondentami zpaƒstw innych ni˝ paƒstwa cz∏onkowskie Unii Europejskiej oraz paƒstwa równowa˝ne, instytucje obowiàzane b´dàce podmiotami Êwiadczàcymi us∏ugi finansowe:
+3. W zakresie transgranicznych stosunków z instytucjami będącymi korespondentami zpaństw innych niż państwa członkowskie Unii Europejskiej oraz państwa równoważne, instytucje obowiązane będące podmiotami świadczącymi usługi finansowe:
 
-- **1)** gromadzà informacje pozwalajàce na ustalenie zakresu dzia∏alnoÊci oraz czy podmiot Êwiadczàcy us∏ugi finansowe podlega nadzorowi paƒstwowemu;
-- **2)** oceniajà Êrodki stosowane przez podmiot Êwiadczàcy us∏ugi finansowe b´dàcy korespondentem w zakresie przeciwdzia∏ania praniu pieni´dzy oraz finansowaniu terroryzmu;
-- **3)** sporzàdzajà dokumentacj´ okreÊlajàcà zakres odpowiedzialnoÊci ka˝dego podmiotu Êwiadczàcego us∏ugi finansowe;
-- **4)** ustalajà w odniesieniu do kont przejÊciowych, ˝e podmiot Êwiadczàcy us∏ugi finansowe b´dàcy korespondentem przeprowadzi∏ weryfikacj´ to˝samoÊci i podjà∏ odpowiednie dzia∏ania w ramach procedur zachowania Êrodków bezpieczeƒstwa finansowego w stosunku
-- **5)** nawiàzujà wspó∏prac´ po uprzednim uzyskaniu zgody zarzàdu lub wyznaczonego cz∏onka zarzàdu lub osoby wyznaczonej przez zarzàd lub osoby wyznaczonej zgodnie zart.10b ust.1.
+- **1)** gromadzą informacje pozwalające na ustalenie zakresu działalności oraz czy podmiot świadczący usługi finansowe podlega nadzorowi państwowemu;
+- **2)** oceniają środki stosowane przez podmiot świadczący usługi finansowe będący korespondentem w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu;
+- **3)** sporządzają dokumentację określającą zakres odpowiedzialności każdego podmiotu świadczącego usługi finansowe;
+- **4)** ustalają w odniesieniu do kont przejściowych, że podmiot świadczący usługi finansowe będący korespondentem przeprowadził weryfikację tożsamości i podjął odpowiednie działania w ramach procedur zachowania środków bezpieczeństwa finansowego w stosunku
+- **5)** nawiązują współpracę po uprzednim uzyskaniu zgody zarządu lub wyznaczonego członka zarządu lub osoby wyznaczonej przez zarząd lub osoby wyznaczonej zgodnie zart.10b ust.1.
 
-4. W odniesieniu do osób zajmujàcych eksponowane stanowiska polityczne, instytucje obowiàzane:
+4. W odniesieniu do osób zajmujących eksponowane stanowiska polityczne, instytucje obowiązane:
 
-- **1)** wprowadzajà procedury oparte na ocenie ryzyka w celu ustalenia, czy klient jest osobà zajmujàcà eksponowane stanowisko polityczne;
-- **2)** stosujà Êrodki odpowiednie do okreÊlonego przez instytucj´ obowiàzanà ryzyka wcelu ustalenia êród∏a pochodzenia wprowadzanych do obrotu wartoÊci majàtkowych;
-- **3)** prowadzà sta∏à kontrol´ przeprowadzanych transakcji;
-- **4)** zawierajà umow´ z klientem po do klientów majàcych bezpoÊredni dost´p do rachunków bankowych korespondenta oraz ˝e ma mo˝liwoÊç udost´pnienia na ˝àdanie korespondenta danych dotyczàcych zachowania Êrodków bezpieczeƒstwa finansowego wobec klienta; uprzednim uzyskaniu zgody zarzàdu, wskazanego cz∏onka zarzàdu lub osoby wyznaczonej przez zarzàd lub odpowiedzialnej za dzia∏alnoÊç instytucji obowiàzanej.
+- **1)** wprowadzają procedury oparte na ocenie ryzyka w celu ustalenia, czy klient jest osobą zajmującą eksponowane stanowisko polityczne;
+- **2)** stosują środki odpowiednie do określonego przez instytucję obowiązaną ryzyka wcelu ustalenia êródła pochodzenia wprowadzanych do obrotu wartości majątkowych;
+- **3)** prowadzą stałą kontrolę przeprowadzanych transakcji;
+- **4)** zawierają umowę z klientem po do klientów mających bezpośredni dostęp do rachunków bankowych korespondenta oraz że ma możliwość udostępnienia na żądanie korespondenta danych dotyczących zachowania środków bezpieczeństwa finansowego wobec klienta; uprzednim uzyskaniu zgody zarządu, wskazanego członka zarządu lub osoby wyznaczonej przez zarząd lub odpowiedzialnej za działalność instytucji obowiązanej.
 
-5. Instytucje obowiàzane mogà przyjmowaç oÊwiadczenia na piÊmie, czy dany klient jest osobà zajmujàcà eksponowane stanowisko polityczne, pod rygorem odpowiedzialnoÊci karnej za podanie danych niezgodnych ze stanem faktycznym.
+5. Instytucje obowiązane mogą przyjmować oświadczenia na piśmie, czy dany klient jest osobą zajmującą eksponowane stanowisko polityczne, pod rygorem odpowiedzialności karnej za podanie danych niezgodnych ze stanem faktycznym.
 
 **Art. 9f.**
 
-1. Instytucja obowiàzana, b´dàca podmiotem Êwiadczàcym us∏ugi finansowe, nie nawiàzuje i nie utrzymuje wspó∏pracy wramach bankowoÊci korespondencyjnej zbankiem fikcyjnym.
+1. Instytucja obowiązana, będąca podmiotem świadczącym usługi finansowe, nie nawiązuje i nie utrzymuje współpracy wramach bankowości korespondencyjnej zbankiem fikcyjnym.
 
-2. Instytucje obowiàzane nie nawiàzujà i nie utrzymujà wspó∏pracy w ramach bankowoÊci korespondencyjnej z instytucjà obowiàzanà, b´dàcà podmiotem Êwiadczàcym us∏ugi finansowe, który zawiera umowy o prowadzenie rachunków zbankiem fikcyjnym.
+2. Instytucje obowiązane nie nawiązują i nie utrzymują współpracy w ramach bankowości korespondencyjnej z instytucją obowiązaną, będącą podmiotem świadczącym usługi finansowe, który zawiera umowy o prowadzenie rachunków zbankiem fikcyjnym.
 
-**Art. 9g.** Instytucje obowiàzane stosujà odpowiednie Êrodki bezpieczeƒstwa finansowego wcelu przeciwdzia∏ania praniu pieni´dzy lub finansowaniu terroryzmu, które mo˝e wynikaç z produktów lub transakcji pozwalajàcych na zachowanie anonimowoÊci.
+**Art. 9g.** Instytucje obowiązane stosują odpowiednie środki bezpieczeństwa finansowego wcelu przeciwdziałania praniu pieniędzy lub finansowaniu terroryzmu, które może wynikać z produktów lub transakcji pozwalających na zachowanie anonimowości.
 
-**Art. 9h.** Instytucje obowiàzane mogà korzystaç z us∏ug innych podmiotów w zakresie wykonania obowiàzków okreÊlonych w art. 8b ust. 3 pkt 1—3. OdpowiedzialnoÊç za ich wykonanie ponosi instytucja obowiàzana.
+**Art. 9h.** Instytucje obowiązane mogą korzystać z usług innych podmiotów w zakresie wykonania obowiązków określonych w art. 8b ust. 3 pkt 1—3. Odpowiedzialność za ich wykonanie ponosi instytucja obowiązana.
 
 **Art. 9i.**
 
-1. Instytucja obowiàzana przeprowadzajàca transakcj´ na podstawie zlecenia lub dyspozycji przyj´tej lub otrzymanej przez podmiot Êwiadczàcy us∏ugi finansowe, majàcy siedzib´ na teryto- 16) uchyla si´ art.10; rium paƒstwa cz∏onkowskiego Unii Europejskiej lub paƒstwa równowa˝- 17) po art.10 dodaje si´ art.10a—10d wbrzmieniu: nego, mo˝e uznaç obowiàzki, o któ- „Art. 10a. 1. Instytucje obowiàzane wprowadzajà rych mowa wart.8b ust.3 pkt1—3, za w formie pisemnej wewn´trznà prowykonane pod warunkiem zapewnie- cedur´ w zakresie przeciwdzia∏ania nia przekazania na ka˝de ˝àdanie in- praniu pieni´dzy oraz finansowaniu stytucji obowiàzanej kopii dokumen- terroryzmu. tów lub informacji potwierdzajàcych zastosowanie Êrodków bezpieczeƒ- 2. Wewn´trzna procedura, o której mostwa finansowego. wa wust.1, powinna wszczególnoÊci zawieraç okreÊlenie sposobu wykona2. Instytucja obowiàzana przyjmujàca zle- nia Êrodków bezpieczeƒstwa finansocenie lub dyspozycj´ udost´pnia nie- wego, rejestracji transakcji, sposobu zw∏ocznie, na ˝àdanie instytucji prze- analizy ioceny ryzyka, przekazywania prowadzajàcej transakcj´, kopie doku- informacji o transakcjach Generalnementów i informacje, o których mowa mu Inspektorowi, procedury wstrzywust.1. mania transakcji, blokady rachunku
+1. Instytucja obowiązana przeprowadzająca transakcję na podstawie zlecenia lub dyspozycji przyjętej lub otrzymanej przez podmiot świadczący usługi finansowe, mający siedzibę na teryto- 16) uchyla się art.10; rium państwa członkowskiego Unii Europejskiej lub państwa równoważ- 17) po art.10 dodaje się art.10a—10d wbrzmieniu: nego, może uznać obowiązki, o któ- ŃArt. 10a. 1. Instytucje obowiązane wprowadzają rych mowa wart.8b ust.3 pkt1—3, za w formie pisemnej wewnętrzną prowykonane pod warunkiem zapewnie- cedurę w zakresie przeciwdziałania nia przekazania na każde żądanie in- praniu pieniędzy oraz finansowaniu stytucji obowiązanej kopii dokumen- terroryzmu. tów lub informacji potwierdzających zastosowanie środków bezpieczeń- 2. Wewnętrzna procedura, o której mostwa finansowego. wa wust.1, powinna wszczególności zawierać określenie sposobu wykona2. Instytucja obowiązana przyjmująca zle- nia środków bezpieczeństwa finansocenie lub dyspozycję udostępnia nie- wego, rejestracji transakcji, sposobu zwłocznie, na żądanie instytucji prze- analizy ioceny ryzyka, przekazywania prowadzającej transakcję, kopie doku- informacji o transakcjach Generalnementów i informacje, o których mowa mu Inspektorowi, procedury wstrzywust.1. mania transakcji, blokady rachunku
 
-3. Instytucja obowiàzana nie stosuje prze- i zamro˝enia wartoÊci majàtkowych, sposób przyjmowania oÊwiadczeƒ, pisu ust. 1, w przypadkach gdy Êrodki o których mowa w art. 9e ust. 5, o ile bezpieczeƒstwa finansowego zosta∏y sà przyjmowane, oraz sposób przewykonane przez podmiot Êwiadczàcy chowywania informacji. us∏ugi finansowe, zwiàzane z transferem Êrodków pieni´˝nych.
+3. Instytucja obowiązana nie stosuje prze- i zamrożenia wartości majątkowych, sposób przyjmowania oświadczeń, pisu ust. 1, w przypadkach gdy środki o których mowa w art. 9e ust. 5, o ile bezpieczeństwa finansowego zostały są przyjmowane, oraz sposób przewykonane przez podmiot świadczący chowywania informacji. usługi finansowe, związane z transferem środków pieniężnych.
 
-4. Do udost´pniania informacji, o którym mowa w ust. 1, nie stosuje si´ przepisów ograniczajàcych udost´pnianie danych obj´tych tajemnicà prawnie chronionà, wynikajàcych z w∏aÊciwych przepisów ze wzgl´du na rodzaj prowadzonej przez instytucj´ obowiàzanà dzia∏alnoÊci.
+4. Do udostępniania informacji, o którym mowa w ust. 1, nie stosuje się przepisów ograniczających udostępnianie danych objętych tajemnicą prawnie chronioną, wynikających z właściwych przepisów ze względu na rodzaj prowadzonej przez instytucję obowiązaną działalności.
 
 **Art. 9j.**
 
-1. Instytucje obowiàzane posiadajàce oddzia∏y i filie na terytorium paƒstw nieb´dàcych paƒstwami cz∏onkowskimi Unii Europejskiej stosujà w tych oddzia∏ach i filiach Êrodki bezpieczeƒstwa finansowego okreÊlone wustawie.
+1. Instytucje obowiązane posiadające oddziały i filie na terytorium państw niebędących państwami członkowskimi Unii Europejskiej stosują w tych oddziałach i filiach środki bezpieczeństwa finansowego określone wustawie.
 
-2. W przypadku braku mo˝liwoÊci wykonania obowiàzku okreÊlonego wust.1, instytucje obowiàzane dokonujà wszelkich czynnoÊci w celu skutecznego przeciwdzia∏ania praniu pieni´dzy oraz finansowaniu terroryzmu, przewidzianych w przepisach prawa paƒstw, októrych mowa wust.1.
+2. W przypadku braku możliwości wykonania obowiązku określonego wust.1, instytucje obowiązane dokonują wszelkich czynności w celu skutecznego przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu, przewidzianych w przepisach prawa państw, októrych mowa wust.1.
 
-3. Instytucje obowiàzane informujà oddzia∏y i filie, o których mowa w ust. 1, o wprowadzonych wewn´trznych procedurach w zakresie przeciwdzia∏ania praniu pieni´dzy oraz finansowaniu terroryzmu.
+3. Instytucje obowiązane informują oddziały i filie, o których mowa w ust. 1, o wprowadzonych wewnętrznych procedurach w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu.
 
-**Art. 9k.** Informacje uzyskane w wyniku stosowania Êrodków, o których mowa w art. 8b i9e, sà przechowywane przez okres 5 lat, liczàc od pierwszego dnia roku nast´pujàcego po roku, w którym przeprowadzono transakcj´ z klientem. W przypadku likwidacji, po∏àczenia, podzia∏u lub przekszta∏cenia instytucji obowiàzanej, do przechowywania dokumentacji stosuje si´ przepisy art. 76 ustawy z dnia 29 wrzeÊnia 1994r. orachunkowoÊci.”; 3. Przy dokonywaniu analizy w celu okreÊlenia wysokoÊci ryzyka instytucja obowiàzana powinna uwzgl´dniç wszczególnoÊci nast´pujàce kryteria:
+**Art. 9k.** Informacje uzyskane w wyniku stosowania środków, o których mowa w art. 8b i9e, są przechowywane przez okres 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym przeprowadzono transakcję z klientem. W przypadku likwidacji, połączenia, podziału lub przekształcenia instytucji obowiązanej, do przechowywania dokumentacji stosuje się przepisy art. 76 ustawy z dnia 29 września 1994r. orachunkowości.”; 3. Przy dokonywaniu analizy w celu określenia wysokości ryzyka instytucja obowiązana powinna uwzględnić wszczególności następujące kryteria:
 
 **Art. 10b.**
 
-1. Instytucje obowiàzane wyznaczajà osoby odpowiedzialne za wykonanie obowiàzków okreÊlonych w ustawie. W przypadku instytucji obowiàzanych b´dàcych kapita∏owymi spó∏kami handlowymi, bankami spó∏dzielczymi lub paƒstwowymi, osobà odpowiedzialnà za wykonanie obowiàzków okreÊlonych w ustawie jest cz∏onek zarzàdu wyznaczony przez zarzàd, a w odniesieniu do oddzia∏ów banków zagranicznych lub instytucji kredytowych takà osobà jest dyrektor oddzia∏u.
+1. Instytucje obowiązane wyznaczają osoby odpowiedzialne za wykonanie obowiązków określonych w ustawie. W przypadku instytucji obowiązanych będących kapitałowymi spółkami handlowymi, bankami spółdzielczymi lub państwowymi, osobą odpowiedzialną za wykonanie obowiązków określonych w ustawie jest członek zarządu wyznaczony przez zarząd, a w odniesieniu do oddziałów banków zagranicznych lub instytucji kredytowych taką osobą jest dyrektor oddziału.
 
-2. W przypadku instytucji obowiàzanych wykonujàcych dzia∏alnoÊç jednoosobowo, osobà odpowiedzialnà jest osoba wykonujàca t´ dzia∏alnoÊç.
+2. W przypadku instytucji obowiązanych wykonujących działalność jednoosobowo, osobą odpowiedzialną jest osoba wykonująca tę działalność.
 
-3. Do instytucji obowiàzanych wykonujàcych dzia∏alnoÊç jednoosobowo przepis art. 10a ust. 4 stosuje si´ odpowiednio.
+3. Do instytucji obowiązanych wykonujących działalność jednoosobowo przepis art. 10a ust. 4 stosuje się odpowiednio.
 
 **Art. 10c.**
 
-1. Przepisów rozporzàdzenia nr 1781/2006 nie stosuje si´ w przypadku, gdy dostawca us∏ug p∏atniczych odbiorcy jest wstanie przy pomocy indywidualnego numeru referencyjnego monitorowaç wstecz, do zleceniodawcy, przekaz pieni´˝ny pochodzàcy od osoby prawnej, jednostki organizacyjnej nieposiadajàcej osobowoÊci prawnej lub osoby fizycznej, która zawar∏a z odbiorcà umow´ na dostaw´ towarów ius∏ug, tak˝e gdy kwota transakcji nie przekracza równowartoÊci 1 000 euro.
+1. Przepisów rozporządzenia nr 1781/2006 nie stosuje się w przypadku, gdy dostawca usług płatniczych odbiorcy jest wstanie przy pomocy indywidualnego numeru referencyjnego monitorować wstecz, do zleceniodawcy, przekaz pieniężny pochodzący od osoby prawnej, jednostki organizacyjnej nieposiadającej osobowości prawnej lub osoby fizycznej, która zawarła z odbiorcą umowę na dostawę towarów iusług, także gdy kwota transakcji nie przekracza równowartości 1 000 euro.
 
-2. Przepisu art. 5 rozporzàdzenia nr 1781/2006 nie stosuje si´ do dostawców us∏ug p∏atniczych posiadajàcych siedzib´ na terytorium Rzeczypospolitej Polskiej w stosunku do przekazów pieni´˝nych na rzecz organizacji niedzia∏ajàcych w celu osiàgni´cia zysku, prowadzàcych dzia∏alnoÊç charytatywnà, religijnà, kulturalnà, edukacyjnà, spo∏ecznà, naukowà, je˝eli przekaz pieni´˝ny nie przekracza równowartoÊci 150 euro i odbywa si´ wy∏àcznie na terytorium Rzeczypospolitej Polskiej.
+2. Przepisu art. 5 rozporządzenia nr 1781/2006 nie stosuje się do dostawców usług płatniczych posiadających siedzibę na terytorium Rzeczypospolitej Polskiej w stosunku do przekazów pieniężnych na rzecz organizacji niedziałających w celu osiągnięcia zysku, prowadzących działalność charytatywną, religijną, kulturalną, edukacyjną, społeczną, naukową, jeżeli przekaz pieniężny nie przekracza równowartości 150 euro i odbywa się wyłącznie na terytorium Rzeczypospolitej Polskiej.
 
-**Art. 10d.** Do instytucji obowiàzanych b´dàcych adwokatami, radcami prawnymi lub prawnikami zagranicznymi przepisy art. 8a, art. 8b ust. 3 pkt 2—4, art. 9e ust. 1—3, art. 9f—9j, art. 10a ust. 1—3, art. 10b ust. 1 i art. 10c nie majà zastosowania.”;
+**Art. 10d.** Do instytucji obowiązanych będących adwokatami, radcami prawnymi lub prawnikami zagranicznymi przepisy art. 8a, art. 8b ust. 3 pkt 2—4, art. 9e ust. 1—3, art. 9f—9j, art. 10a ust. 1—3, art. 10b ust. 1 i art. 10c nie mają zastosowania.”;
 
 **Art. 15a.**
 
-1. Jednostki wspó∏pracujàce, zwy∏àczeniem organów, o których mowa wart.14 ust.2, sà obowiàzane, wgranicach swoich ustawowych kompetencji, wspó∏pracowaç z Generalnym Inspektorem wzakresie zapobiegania przest´pstwom, o których mowa w art. 165a lub art. 299 Kodeksu karnego, przez:
+1. Jednostki współpracujące, zwyłączeniem organów, o których mowa wart.14 ust.2, są obowiązane, wgranicach swoich ustawowych kompetencji, współpracować z Generalnym Inspektorem wzakresie zapobiegania przestępstwom, o których mowa w art. 165a lub art. 299 Kodeksu karnego, przez:
 
-- **1)** niezw∏oczne powiadamianie Generalnego Inspektora o podejrzeniu pope∏nienia prania pieni´dzy oraz finansowania terroryzmu;
-- **2)** przekazywanie potwierdzonych kopii dokumentów dotyczàcych transakcji, co do których zachodzi podejrzenie, ˝e majà one zwiàzek z pope∏nieniem przest´pstw, o których mowa wart.165a lub art.299 Kodeksu karnego, oraz informacji ostronach tych transakcji.
+- **1)** niezwłoczne powiadamianie Generalnego Inspektora o podejrzeniu popełnienia prania pieniędzy oraz finansowania terroryzmu;
+- **2)** przekazywanie potwierdzonych kopii dokumentów dotyczących transakcji, co do których zachodzi podejrzenie, że mają one związek z popełnieniem przestępstw, o których mowa wart.165a lub art.299 Kodeksu karnego, oraz informacji ostronach tych transakcji.
 
-2. Jednostki wspó∏pracujàce sà obowiàzane do opracowania instrukcji post´powania wprzypadkach, októrych „2. Prokuratura, Agencja Bezpieczeƒstwa We- mowa wust.1. wn´trznego, Centralne Biuro Antykorupcyj- 3. Organy kontroli skarbowej, organy ne oraz jednostki podleg∏e ministrowi w∏a- podatkowe i organy celne powiadaÊciwemu do spraw wewn´trznych i przez miajà niezw∏ocznie Generalnego Inniego nadzorowane informujà niezw∏ocznie, spektora tak˝e o wszelkich ujawniowgranicach swoich ustawowych kompeten- nych w toku swojej dzia∏alnoÊci okocji, Generalnego Inspektora o wszystkich licznoÊciach, mogàcych wskazywaç przypadkach: na prowadzenie dzia∏aƒ majàcych na celu pope∏nienie przest´pstwa, októ1) uzyskania informacji wskazujàcych na po- rym mowa w art. 165a lub art. 299 dejrzenie pope∏nienia przest´pstw, o któ- Kodeksu karnego. rych mowa wart.165a lub art.299 Kodeksu karnego, w formie zestawienia zbior- 4. Powiadomienie, o którym mowa czego, nie póêniej ni˝ do koƒca miesiàca wust.1 pkt1 iust.3, powinno zawienast´pujàcego po miesiàcu, w którym raç w szczególnoÊci opis ujawniouzyskano te informacje; nych okolicznoÊci wraz z przyczynami, dla których powiadamiajàcy
+2. Jednostki współpracujące są obowiązane do opracowania instrukcji postępowania wprzypadkach, októrych Ń2. Prokuratura, Agencja Bezpieczeństwa We- mowa wust.1. wnętrznego, Centralne Biuro Antykorupcyj- 3. Organy kontroli skarbowej, organy ne oraz jednostki podległe ministrowi wła- podatkowe i organy celne powiadaściwemu do spraw wewnętrznych i przez miają niezwłocznie Generalnego Inniego nadzorowane informują niezwłocznie, spektora także o wszelkich ujawniowgranicach swoich ustawowych kompeten- nych w toku swojej działalności okocji, Generalnego Inspektora o wszystkich licznościach, mogących wskazywać przypadkach: na prowadzenie działań mających na celu popełnienie przestępstwa, októ1) uzyskania informacji wskazujących na po- rym mowa w art. 165a lub art. 299 dejrzenie popełnienia przestępstw, o któ- Kodeksu karnego. rych mowa wart.165a lub art.299 Kodeksu karnego, w formie zestawienia zbior- 4. Powiadomienie, o którym mowa czego, nie póêniej niż do końca miesiąca wust.1 pkt1 iust.3, powinno zawienastępującego po miesiącu, w którym rać w szczególności opis ujawniouzyskano te informacje; nych okoliczności wraz z przyczynami, dla których powiadamiający
 
-- **2)** przedstawienia zarzutu pope∏nienia prze- uzna∏, ˝e mogà one wskazywaç na st´pstw, o których mowa w art. 165a lub prowadzenie dzia∏aƒ majàcych na ceart.299 Kodeksu karnego; lu pope∏nienie przest´pstwa, o któ3) wszcz´cia i zakoƒczenia post´powania rym mowa w art. 165a lub art. 299 w sprawie o przest´pstwa, o których mo- Kodeksu karnego. wa wart.165a lub art.299 Kodeksu karne- 5. Organy Stra˝y Granicznej oraz orgago.”; ny celne przekazujà Generalnemu Inspektorowi informacje, o których
-    - **b)** dodaje si´ ust.4 wbrzmieniu: mowa w art. 5 rozporzàdzenia (WE) „4. Generalny Inspektor niezw∏ocznie powiada- nr 1889/2005 Parlamentu Europejmia podmioty, o których mowa w ust. 2, skiego i Rady z dnia 26 paêdziernika o okolicznoÊciach wskazujàcych na zwiàzek 2005 r. w sprawie kontroli Êrodków mi´dzy informacjami uzyskanymi w trybie pieni´˝nych wwo˝onych do WspólokreÊlonym wtym przepisie ainformacjami noty lub wywo˝onych ze Wspólnoty o transakcjach, o których mowa w art. 8 (Dz.Urz. UE L 309 z25.11.2005, str. 9), ust.3, art.16 ust.1 i1a oraz art.17.”; oraz informacje zawarte wzg∏oszeniu okreÊlonym w przepisach wydanych
+- **2)** przedstawienia zarzutu popełnienia prze- uznał, że mogą one wskazywać na stępstw, o których mowa w art. 165a lub prowadzenie działań mających na ceart.299 Kodeksu karnego; lu popełnienie przestępstwa, o któ3) wszczęcia i zakończenia postępowania rym mowa w art. 165a lub art. 299 w sprawie o przestępstwa, o których mo- Kodeksu karnego. wa wart.165a lub art.299 Kodeksu karne- 5. Organy Straży Granicznej oraz orgago.”; ny celne przekazują Generalnemu Inspektorowi informacje, o których
+    - **b)** dodaje się ust.4 wbrzmieniu: mowa w art. 5 rozporządzenia (WE) Ń4. Generalny Inspektor niezwłocznie powiada- nr 1889/2005 Parlamentu Europejmia podmioty, o których mowa w ust. 2, skiego i Rady z dnia 26 paêdziernika o okolicznościach wskazujących na związek 2005 r. w sprawie kontroli środków między informacjami uzyskanymi w trybie pieniężnych wwożonych do Wspólokreślonym wtym przepisie ainformacjami noty lub wywożonych ze Wspólnoty o transakcjach, o których mowa w art. 8 (Dz.Urz. UE L 309 z25.11.2005, str. 9), ust.3, art.16 ust.1 i1a oraz art.17.”; oraz informacje zawarte wzgłoszeniu określonym w przepisach wydanych
 
-- **24)** art.15 i15a otrzymujà brzmienie: na podstawie art. 21 ustawy z dnia „Art. 15. Jednostki wspó∏pracujàce, w granicach 27 lipca 2002 r. Prawo dewizowe swoich ustawowych kompetencji, sà (Dz. U. 141, poz. 1178, z póên. obowiàzane udost´pniaç, na wniosek zm. Generalnego Inspektora, informacje niezb´dne do realizacji jego zadaƒ w zakresie zapobiegania przest´pstwom, o których mowa w art. 165a lub art. 299 Kodeksu karnego. ). Informacje te sà przekazywa——————— ne odpowiednio za poÊrednictwem Komendanta G∏ównego Stra˝y Granicznej lub Szefa S∏u˝by Celnej, w terminie do 14 dnia miesiàca nast´pujàcego po miesiàcu, w którym dokonano przywozu Êrodków pieni´˝nych na terytorium Rzeczypospolitej Polskiej lub wywozu Êrodków pieni´˝nych z terytorium Rzeczypospolitej Polskiej.
+- **24)** art.15 i15a otrzymują brzmienie: na podstawie art. 21 ustawy z dnia ŃArt. 15. Jednostki współpracujące, w granicach 27 lipca 2002 r. Prawo dewizowe swoich ustawowych kompetencji, są (Dz. U. 141, poz. 1178, z póên. obowiązane udostępniać, na wniosek zm. Generalnego Inspektora, informacje niezbędne do realizacji jego zadań w zakresie zapobiegania przestępstwom, o których mowa w art. 165a lub art. 299 Kodeksu karnego. ). Informacje te są przekazywa——————— ne odpowiednio za pośrednictwem Komendanta Głównego Straży Granicznej lub Szefa Służby Celnej, w terminie do 14 dnia miesiąca następującego po miesiącu, w którym dokonano przywozu środków pieniężnych na terytorium Rzeczypospolitej Polskiej lub wywozu środków pieniężnych z terytorium Rzeczypospolitej Polskiej.
 
-6. Minister w∏aÊciwy do spraw instytucji finansowych okreÊli, w drodze rozporzàdzenia, form´ i tryb przekazywania informacji, o których mowa w ust. 5, zuwzgl´dnieniem koniecznoÊci sprawnego przekazywania Generalnemu Inspektorowi informacji zgromadzonych przez organy Stra˝y Granicznej oraz organy celne.”;
+6. Minister właściwy do spraw instytucji finansowych określi, w drodze rozporządzenia, formę i tryb przekazywania informacji, o których mowa w ust. 5, zuwzględnieniem konieczności sprawnego przekazywania Generalnemu Inspektorowi informacji zgromadzonych przez organy Straży Granicznej oraz organy celne.”;
 
-- **25)** wart.16: pozycj´ lub zlecenie przeprowadzenia transakcji, majàca przeprowadziç transakcj´ lub posiadajàca informacje o zamiarze przeprowadzenia transakcji, co do której zachodzi uzasadnione podejrzenie, ˝e mo˝e ona mieç zwiàzek zpope∏nieniem przest´pstwa, októrym mowa wart.165a lub art.299 Kodeksu karnego, ma obowiàzek niezw∏ocznie zawiadomiç na piÊmie Generalnego Inspektora, przekazujàc wszystkie posiadane dane okreÊlone w art. 12 ust. 1 oraz art. 12a wraz ze wskazaniem przes∏anek przemawiajàcych za wstrzymaniem transakcji lub blokadà rachunku, oraz wskazaç przewidywany termin jej realizacji. Przepisu art.11 ust.4 nie stosuje si´.”,
-    - **a)** ust.1 otrzymuje brzmienie: „1. Instytucja obowiàzana, która otrzyma∏a dys24 godzin od daty i godziny wskazanych w potwierdzeniu, o którym mowa w art. 16 ust. 2, przekazaç instytucji obowiàzanej pisemne ˝àdanie wstrzymania tej transakcji lub blokady rachunku na okres nie d∏u˝szy ni˝ 72 godziny od daty i godziny wskazanych w tym potwierdzeniu. RównoczeÊnie Generalny Inspektor zawiadamia w∏aÊciwego prokuratora o podejrzeniu pope∏nienia przest´pstwa i przekazuje mu informacje i dokumenty dotyczàce wstrzymywanej transakcji lub blokowanego rachunku.”,
-    - **b)** ust.3 otrzymuje brzmienie: „3. Instytucja obowiàzana wstrzymuje transakcj´ lub blokuje rachunek niezw∏ocznie po otrzymaniu ˝àdania, o którym mowa wust.1.”,
-    - **c)** ust.5 otrzymuje brzmienie: „5. Do liczenia terminów, o których mowa w ust. 1, nie wlicza si´ sobót, niedziel i dni ustawowo wolnych od pracy.”;
-    - **b)** ust.2 otrzymuje brzmienie: „2. Po otrzymaniu zawiadomienia Generalny Inspektor dokonuje niezw∏ocznego potwierdzenia jego przyj´cia, w formie pisemnej, podajàc dat´ i godzin´ przyj´cia zawiadomienia.”,
-    - **c)** dodaje si´ ust.4 wbrzmieniu: „4. Do czasu otrzymania ˝àdania, októrym mowa wart.18 ust.1, nie d∏u˝ej ni˝ 24 godziny, od momentu potwierdzenia przyj´cia zawiadomienia, o którym mowa w art. 16 ust. 2, instytucja obowiàzana nie wykonuje transakcji, której dotyczy zawiadomienie.”;
+- **25)** wart.16: pozycję lub zlecenie przeprowadzenia transakcji, mająca przeprowadzić transakcję lub posiadająca informacje o zamiarze przeprowadzenia transakcji, co do której zachodzi uzasadnione podejrzenie, że może ona mieć związek zpopełnieniem przestępstwa, októrym mowa wart.165a lub art.299 Kodeksu karnego, ma obowiązek niezwłocznie zawiadomić na piśmie Generalnego Inspektora, przekazując wszystkie posiadane dane określone w art. 12 ust. 1 oraz art. 12a wraz ze wskazaniem przesłanek przemawiających za wstrzymaniem transakcji lub blokadą rachunku, oraz wskazać przewidywany termin jej realizacji. Przepisu art.11 ust.4 nie stosuje się.”,
+    - **a)** ust.1 otrzymuje brzmienie: Ń1. Instytucja obowiązana, która otrzymała dys24 godzin od daty i godziny wskazanych w potwierdzeniu, o którym mowa w art. 16 ust. 2, przekazać instytucji obowiązanej pisemne żądanie wstrzymania tej transakcji lub blokady rachunku na okres nie dłuższy niż 72 godziny od daty i godziny wskazanych w tym potwierdzeniu. Równocześnie Generalny Inspektor zawiadamia właściwego prokuratora o podejrzeniu popełnienia przestępstwa i przekazuje mu informacje i dokumenty dotyczące wstrzymywanej transakcji lub blokowanego rachunku.”,
+    - **b)** ust.3 otrzymuje brzmienie: Ń3. Instytucja obowiązana wstrzymuje transakcję lub blokuje rachunek niezwłocznie po otrzymaniu żądania, o którym mowa wust.1.”,
+    - **c)** ust.5 otrzymuje brzmienie: Ń5. Do liczenia terminów, o których mowa w ust. 1, nie wlicza się sobót, niedziel i dni ustawowo wolnych od pracy.”;
+    - **b)** ust.2 otrzymuje brzmienie: Ń2. Po otrzymaniu zawiadomienia Generalny Inspektor dokonuje niezwłocznego potwierdzenia jego przyjęcia, w formie pisemnej, podając datę i godzinę przyjęcia zawiadomienia.”,
+    - **c)** dodaje się ust.4 wbrzmieniu: Ń4. Do czasu otrzymania żądania, októrym mowa wart.18 ust.1, nie dłużej niż 24 godziny, od momentu potwierdzenia przyjęcia zawiadomienia, o którym mowa w art. 16 ust. 2, instytucja obowiązana nie wykonuje transakcji, której dotyczy zawiadomienie.”;
 
-- **26)** uchyla si´ art.16a;
+- **26)** uchyla się art.16a;
 - **27)** wart.18:
-    - **a)** ust.1 otrzymuje brzmienie: „1. Je˝eli z zawiadomienia, o którym mowa w art. 16 ust. 1, wynika, ˝e transakcja, która ma zostaç przeprowadzona, mo˝e mieç zwiàzek zpope∏nieniem przest´pstwa, októrym mowa wart.165a lub art.299 Kodeksu karnego, Generalny Inspektor mo˝e wciàgu
+    - **a)** ust.1 otrzymuje brzmienie: Ń1. Jeżeli z zawiadomienia, o którym mowa w art. 16 ust. 1, wynika, że transakcja, która ma zostać przeprowadzona, może mieć związek zpopełnieniem przestępstwa, októrym mowa wart.165a lub art.299 Kodeksu karnego, Generalny Inspektor może wciągu
 
-- **28)** wart.18a ust.1 i2 otrzymujà brzmienie: „1. Generalny Inspektor mo˝e przekazaç instytucji obowiàzanej pisemne ˝àdanie wstrzymania transakcji lub blokady rachunku bez uprzedniego otrzymania od niej zawiadomienia, októrym mowa wart.16 ust.1, je˝eli posiadane informacje wskazujà na prowadzenie dzia∏aƒ majàcych na celu pranie pieni´dzy lub finansowanie terroryzmu.
+- **28)** wart.18a ust.1 i2 otrzymują brzmienie: Ń1. Generalny Inspektor może przekazać instytucji obowiązanej pisemne żądanie wstrzymania transakcji lub blokady rachunku bez uprzedniego otrzymania od niej zawiadomienia, októrym mowa wart.16 ust.1, jeżeli posiadane informacje wskazują na prowadzenie działań mających na celu pranie pieniędzy lub finansowanie terroryzmu.
 
-2. W przypadku okreÊlonym w ust. 1, Generalny Inspektor mo˝e ˝àdaç wstrzymania transakcji lub blokady rachunku na okres nie d∏u˝szy ni˝ 72 godziny od momentu otrzymania tego ˝àdania przez instytucj´ obowiàzanà.”;
+2. W przypadku określonym w ust. 1, Generalny Inspektor może żądać wstrzymania transakcji lub blokady rachunku na okres nie dłuższy niż 72 godziny od momentu otrzymania tego żądania przez instytucję obowiązaną.”;
 
-- **29)** wart.19 uchyla si´ ust.3;
-- **30)** art.20 otrzymuje brzmienie: „Art. 20. W przypadku gdy rachunek zosta∏ zablokowany lub transakcja zosta∏a wstrzymana z naruszeniem prawa, odpowiedzialnoÊç za wynik∏à szkod´ ponosi Skarb Paƒstwa na zasadach okreÊlonych w Kodeksie cywilnym.”;
-- **31)** uchyla si´ art.20a;
-- **32)** art.20b otrzymuje brzmienie: „Art. 20b. Przepisy art. 19 i 20 stosuje si´ odpowiednio równie˝ wtoku wszcz´tego post´powania karnego o przest´pstwo wymienione wart.165a Kodeksu karnego, gdy otrzymane przez prokuratora zawiadomienie o przest´pstwie pochodzi zinnych êróde∏.”;
-- **33)** art.20c otrzymuje brzmienie: „Art. 20c. Instytucja obowiàzana, na ˝àdanie zlecajàcego transakcj´ lub posiadacza rachunku, mo˝e poinformowaç go o wstrzymaniu transakcji lub blokadzie rachunku i wskazaç organ, który tego za˝àda∏.”;
-- **34)** po rozdziale 5 dodaje si´ rozdzia∏ 5a wbrzmieniu: „Rozdzia∏ 5a Szczególne Êrodki ograniczajàce przeciwko osobom, grupom ipodmiotom
+- **29)** wart.19 uchyla się ust.3;
+- **30)** art.20 otrzymuje brzmienie: ŃArt. 20. W przypadku gdy rachunek został zablokowany lub transakcja została wstrzymana z naruszeniem prawa, odpowiedzialność za wynikłą szkodę ponosi Skarb Państwa na zasadach określonych w Kodeksie cywilnym.”;
+- **31)** uchyla się art.20a;
+- **32)** art.20b otrzymuje brzmienie: ŃArt. 20b. Przepisy art. 19 i 20 stosuje się odpowiednio również wtoku wszczętego postępowania karnego o przestępstwo wymienione wart.165a Kodeksu karnego, gdy otrzymane przez prokuratora zawiadomienie o przestępstwie pochodzi zinnych êródeł.”;
+- **33)** art.20c otrzymuje brzmienie: ŃArt. 20c. Instytucja obowiązana, na żądanie zlecającego transakcję lub posiadacza rachunku, może poinformować go o wstrzymaniu transakcji lub blokadzie rachunku i wskazać organ, który tego zażądał.”;
+- **34)** po rozdziale 5 dodaje się rozdział 5a wbrzmieniu: ŃRozdział 5a Szczególne środki ograniczające przeciwko osobom, grupom ipodmiotom
 
 **Art. 20d.**
 
-1. Instytucja obowiàzana dokonuje zamro˝enia wartoÊci majàtkowych, z zachowaniem nale˝ytej starannoÊci, zwy∏àczeniem rzeczy ruchomych inieruchomoÊci, na podstawie:
+1. Instytucja obowiązana dokonuje zamrożenia wartości majątkowych, z zachowaniem należytej staranności, zwyłączeniem rzeczy ruchomych inieruchomości, na podstawie:
 
-- **1)** prawa Unii Europejskiej wprowadzajàcego szczególne Êrodki ograniczajàce przeciwko niektórym osobom, grupom lub podmiotom oraz
+- **1)** prawa Unii Europejskiej wprowadzającego szczególne środki ograniczające przeciwko niektórym osobom, grupom lub podmiotom oraz
 - **2)** przepisów wydanych na podstawie ust.4.
 
-2. Instytucja obowiàzana, dokonujàc zamro˝enia, przekazuje wszystkie posiadane dane zwiàzane z zamro˝eniem wartoÊci majàtkowych Generalnemu Inspektorowi, w formie elektronicznej lub papierowej.
+2. Instytucja obowiązana, dokonując zamrożenia, przekazuje wszystkie posiadane dane związane z zamrożeniem wartości majątkowych Generalnemu Inspektorowi, w formie elektronicznej lub papierowej.
 
-3. Do zamra˝ania wartoÊci majàtkowych przepis art. 20 stosuje si´ odpowiednio.
+3. Do zamrażania wartości majątkowych przepis art. 20 stosuje się odpowiednio.
 
-4. Minister w∏aÊciwy do spraw instytucji finansowych w porozumieniu z ministrem w∏aÊciwym do spraw zagranicznych mo˝e okreÊliç, w drodze rozporzàdzenia, list´ osób, grup lub podmiotów, w stosunku do których dokonuje si´ zamro˝enia, o którym mowa wust.1, zuwzgl´dnieniem koniecznoÊci wykonania zobowiàzaƒ wynikajàcych z wià˝àcych Rzeczpospolità Polskà umów mi´dzynarodowych lub wià˝àcych uchwa∏ organizacji mi´dzynarodowych, oraz majàc na uwadze koniecznoÊç zwalczania terroryzmu i przeciwdzia∏ania finansowaniu terroryzmu.
+4. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw zagranicznych może określić, w drodze rozporządzenia, listę osób, grup lub podmiotów, w stosunku do których dokonuje się zamrożenia, o którym mowa wust.1, zuwzględnieniem konieczności wykonania zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych lub wiążących uchwał organizacji międzynarodowych, oraz mając na uwadze konieczność zwalczania terroryzmu i przeciwdziałania finansowaniu terroryzmu.
 
-5. Tworzy si´ Mi´dzyresortowy Komitet Bezpieczeƒstwa Finansowego, zwany dalej „Komitetem”, dzia∏ajàcy przy Generalnym Inspektorze. Komitet pe∏ni funkcj´ opiniodawczà i doradczà w zakresie stosowania szczególnych Êrodków ograniczajàcych przeciwko osobom, grupom ipodmiotom.
+5. Tworzy się Międzyresortowy Komitet Bezpieczeństwa Finansowego, zwany dalej ŃKomitetem”, działający przy Generalnym Inspektorze. Komitet pełni funkcję opiniodawczą i doradczą w zakresie stosowania szczególnych środków ograniczających przeciwko osobom, grupom ipodmiotom.
 
-6. Do zadaƒ Komitetu nale˝y w szczególnoÊci przedstawianie propozycji zamieszczenia albo usuni´cia z listy osób, grup lub podmiotów, okreÊlonej na podstawie ust. 4, osób, grup lub podmiotów.
+6. Do zadań Komitetu należy w szczególności przedstawianie propozycji zamieszczenia albo usunięcia z listy osób, grup lub podmiotów, określonej na podstawie ust. 4, osób, grup lub podmiotów.
 
-7. W sk∏ad Komitetu wchodzà przedstawiciele:
+7. W skład Komitetu wchodzą przedstawiciele:
 
-- **1)** ministra w∏aÊciwego do spraw instytucji finansowych;
-- **2)** ministra w∏aÊciwego do spraw
-- **3)** ministra w∏aÊciwego do spraw zagranicznych;
-- **4)** Ministra SprawiedliwoÊci;
+- **1)** ministra właściwego do spraw instytucji finansowych;
+- **2)** ministra właściwego do spraw
+- **3)** ministra właściwego do spraw zagranicznych;
+- **4)** Ministra Sprawiedliwości;
 - **5)** Ministra Obrony Narodowej;
-- **6)** ministra w∏aÊciwego do spraw wewn´trznych;
-- **7)** ministra w∏aÊciwego do spraw gospodarki;
-- **8)** Przewodniczàcego Komisji Nadzoru Finansowego;
+- **6)** ministra właściwego do spraw wewnętrznych;
+- **7)** ministra właściwego do spraw gospodarki;
+- **8)** Przewodniczącego Komisji Nadzoru Finansowego;
 - **9)** Prezesa Narodowego Banku Polskiego;
-- **10)** Szefa Agencji Bezpieczeƒstwa Wewn´trznego;
+- **10)** Szefa Agencji Bezpieczeństwa Wewnętrznego;
 - **11)** Szefa Centralnego Biura Antykorupcyjnego;
 - **12)** Generalnego Inspektora.
 
-8. Regulamin w sprawie trybu i zasad prac Komitetu okreÊla Komitet.
+8. Regulamin w sprawie trybu i zasad prac Komitetu określa Komitet.
 
-9. Osoby, grupy lub podmioty znajdujàce si´ na liÊcie okreÊlonej na podstawie ust. 4, mogà wystàpiç z umotywowanym wnioskiem do ministra w∏aÊciwego do spraw instytucji finansowych, o usuni´cie ich z tej listy. Wniosek taki podlega zaopiniowaniu na najbli˝szym posiedzeniu Komitetu.
+9. Osoby, grupy lub podmioty znajdujące się na liście określonej na podstawie ust. 4, mogą wystąpić z umotywowanym wnioskiem do ministra właściwego do spraw instytucji finansowych, o usunięcie ich z tej listy. Wniosek taki podlega zaopiniowaniu na najbliższym posiedzeniu Komitetu.
 
-10. Wprzypadku zamro˝enia wartoÊci majàtkowych na podstawie listy osób, grup lub podmiotów okreÊlonej na podstawie ust. 4, Generalny Inspektor, oile to mo˝liwe, przekazuje niezw∏ocznie informacj´ osobie, grupie lub podmiotowi, których wartoÊci majàtkowe zosta∏y zamro˝one. Informacja taka powinna zawieraç uzasadnienie zamro˝enia Êrodków finansowych oraz pouczenie na temat mo˝liwoÊci podejmowania dalszych dzia∏aƒ majàcych na celu wykreÊlenie ztej listy, wniesienia odwo∏ania lub zwolnienia zamro˝enia wartoÊci majàtkowych.
+10. Wprzypadku zamrożenia wartości majątkowych na podstawie listy osób, grup lub podmiotów określonej na podstawie ust. 4, Generalny Inspektor, oile to możliwe, przekazuje niezwłocznie informację osobie, grupie lub podmiotowi, których wartości majątkowe zostały zamrożone. Informacja taka powinna zawierać uzasadnienie zamrożenia środków finansowych oraz pouczenie na temat możliwości podejmowania dalszych działań mających na celu wykreślenie ztej listy, wniesienia odwołania lub zwolnienia zamrożenia wartości majątkowych.
 
 **Art. 20e.**
 
-1. W razie zamro˝enia wartoÊci majàtkowych osoby, grupy lub podmiotu, który:
+1. W razie zamrożenia wartości majątkowych osoby, grupy lub podmiotu, który:
 
-- **1)** nie jest wymieniony waktach prawa Unii Europejskiej wprowadzajàcych szczególne Êrodki ograniczajàce lub na liÊcie osób, grup lub podmiotów, okreÊlonej na podstawie art. 20d ust.4, lub
-- **2)** znajduje si´ wtrudnej sytuacji ˝yciowej lub materialnej osoba, grupa lub podmiot mo˝e wystàpiç z wnioskiem do Generalnego Inspektora o zwolnienie zamro˝enia wartoÊci majàtkowych.
+- **1)** nie jest wymieniony waktach prawa Unii Europejskiej wprowadzających szczególne środki ograniczające lub na liście osób, grup lub podmiotów, określonej na podstawie art. 20d ust.4, lub
+- **2)** znajduje się wtrudnej sytuacji życiowej lub materialnej osoba, grupa lub podmiot może wystąpić z wnioskiem do Generalnego Inspektora o zwolnienie zamrożenia wartości majątkowych.
 
-2. Wprzypadku, októrym mowa wust.1 pkt 1, rozstrzyga si´ o ca∏kowitym zwolnieniu zamro˝enia wartoÊci mafinansów publicznych; jàtkowych.
+2. Wprzypadku, októrym mowa wust.1 pkt 1, rozstrzyga się o całkowitym zwolnieniu zamrożenia wartości mafinansów publicznych; jątkowych.
 
-3. Wprzypadku, októrym mowa wust.1 pkt 2, Generalny Inspektor mo˝e, o ile minister w∏aÊciwy do spraw zagranicznych nie wniesie sprzeciwu, po zasi´gni´ciu opinii Komitetu, rozstrzygnàç oca∏kowitym lub cz´Êciowym zwolnieniu zamro˝enia wartoÊci majàtkowych, je˝eli nie jest to sprzeczne zwià˝àcymi uchwa∏ami organizacji mi´dzynarodowych.
+3. Wprzypadku, októrym mowa wust.1 pkt 2, Generalny Inspektor może, o ile minister właściwy do spraw zagranicznych nie wniesie sprzeciwu, po zasięgnięciu opinii Komitetu, rozstrzygnąć ocałkowitym lub częściowym zwolnieniu zamrożenia wartości majątkowych, jeżeli nie jest to sprzeczne zwiążącymi uchwałami organizacji międzynarodowych.
 
-4. Sprzeciw, októrym mowa wust.3, jest wnoszony, w drodze postanowienia, w terminie 14 dni od dnia dor´czenia wystàpienia Generalnego Inspektora. W szczególnie uzasadnionych przypadkach Generalny Inspektor, na wniosek ministra w∏aÊciwego do spraw zagranicznych, przed∏u˝a termin na wniesienie sprzeciwu do 30 dni od dnia dor´czenia wystàpienia Generalnego Inspektora.
+4. Sprzeciw, októrym mowa wust.3, jest wnoszony, w drodze postanowienia, w terminie 14 dni od dnia doręczenia wystąpienia Generalnego Inspektora. W szczególnie uzasadnionych przypadkach Generalny Inspektor, na wniosek ministra właściwego do spraw zagranicznych, przedłuża termin na wniesienie sprzeciwu do 30 dni od dnia doręczenia wystąpienia Generalnego Inspektora.
 
-5. Wprzypadku, októrym mowa wust.1 pkt 1, Generalny Inspektor rozstrzyga w sprawie zwolnienia zamro˝onych wartoÊci majàtkowych zurz´du.
+5. Wprzypadku, októrym mowa wust.1 pkt 1, Generalny Inspektor rozstrzyga w sprawie zwolnienia zamrożonych wartości majątkowych zurzędu.
 
-6. Wcelu ustalenia faktów iokolicznoÊci, o których mowa w ust. 1, jednostki wspó∏pracujàce majà obowiàzek udzielenia wszelkiej pomocy, w tym przekazania niezb´dnych kopii dokumentów.
+6. Wcelu ustalenia faktów iokoliczności, o których mowa w ust. 1, jednostki współpracujące mają obowiązek udzielenia wszelkiej pomocy, w tym przekazania niezbędnych kopii dokumentów.
 
-7. Rozstrzygni´cie w sprawie zwolnienia zamro˝enia nast´puje w drodze decyzji wydanej przez Generalnego Inspektora.
+7. Rozstrzygnięcie w sprawie zwolnienia zamrożenia następuje w drodze decyzji wydanej przez Generalnego Inspektora.
 
-8. Odwo∏anie od decyzji Generalnego Inspektora, o której mowa w ust. 7, przys∏uguje do ministra w∏aÊciwego do spraw instytucji finansowych wterminie 14 dni od dnia dor´czenia tej decyzji.
+8. Odwołanie od decyzji Generalnego Inspektora, o której mowa w ust. 7, przysługuje do ministra właściwego do spraw instytucji finansowych wterminie 14 dni od dnia doręczenia tej decyzji.
 
-9. Post´powanie toczy si´ wed∏ug przepisów Kodeksu post´powania administracyjnego.
+9. Postępowanie toczy się według przepisów Kodeksu postępowania administracyjnego.
 
-10. Od decyzji wydanej przez ministra w∏aÊciwego do spraw instytucji finansowych przys∏uguje skarga do sàdu administracyjnego.”;
+10. Od decyzji wydanej przez ministra właściwego do spraw instytucji finansowych przysługuje skarga do sądu administracyjnego.”;
 
 - **35)** wart.21:
-    - **a)** ust.1 otrzymuje brzmienie: „1. Kontrol´ wype∏niania przez instytucje obowiàzane, zwy∏àczeniem Narodowego Banku Polskiego, obowiàzków w zakresie przeciwdzia∏ania praniu pieni´dzy oraz finansowaniu
+    - **a)** ust.1 otrzymuje brzmienie: Ń1. Kontrolę wypełniania przez instytucje obowiązane, zwyłączeniem Narodowego Banku Polskiego, obowiązków w zakresie przeciwdziałania praniu pieniędzy oraz finansowaniu
 
-- **1)** Prezes Narodowego Banku Polskiego w odniesieniu do podmiotów prowadzàcych dzia∏alnoÊç kantorowà;
+- **1)** Prezes Narodowego Banku Polskiego w odniesieniu do podmiotów prowadzących działalność kantorową;
 - **2)** Komisja Nadzoru Finansowego;
-- **3)** minister w∏aÊciwy do spraw finansów publicznych wodniesieniu do podmiotów urzàdzajàcych iprowadzàcych gry losowe, zak∏ady wzajemne, gry na automatach oraz gry na automatach oniskich wygranych;
-- **4)** prezesi sàdów apelacyjnych w odniesieniu do notariuszy;
-- **5)** Krajowa Spó∏dzielcza Kasa Oszcz´dnoÊciowo-Kredytowa;
-- **6)** w∏aÊciwi wojewodowie lub starostowie wodniesieniu do stowarzyszeƒ;
+- **3)** minister właściwy do spraw finansów publicznych wodniesieniu do podmiotów urządzających iprowadzących gry losowe, zakłady wzajemne, gry na automatach oraz gry na automatach oniskich wygranych;
+- **4)** prezesi sądów apelacyjnych w odniesieniu do notariuszy;
+- **5)** Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa;
+- **6)** właściwi wojewodowie lub starostowie wodniesieniu do stowarzyszeń;
 - **7)** organy kontroli skarbowej.”,
-    - **c)** po ust.3 dodaje si´ ust.3a i3b wbrzmieniu: „3a. Nak∏adanie kar pieni´˝nych w zwiàzku z naruszeniami stwierdzonymi w wyniku kontroli, októrej mowa wust.3, nale˝y do w∏aÊciwoÊci Generalnego Inspektora.
+    - **c)** po ust.3 dodaje się ust.3a i3b wbrzmieniu: Ń3a. Nakładanie kar pieniężnych w związku z naruszeniami stwierdzonymi w wyniku kontroli, októrej mowa wust.3, należy do właściwości Generalnego Inspektora.
 
-3b. Podmioty wymienione w ust. 3 przekazujà Generalnemu Inspektorowi plany kontroli w terminie dwóch tygodni od ich sporzàdzenia.”,
+3b. Podmioty wymienione w ust. 3 przekazują Generalnemu Inspektorowi plany kontroli w terminie dwóch tygodni od ich sporządzenia.”,
 
-- **d)** ust.4 otrzymuje brzmienie: „4. Pisemna informacja o wynikach kontroli, októrej mowa wust.3, wzakresie przestrzegania przepisów ustawy, jest przekazywana Generalnemu Inspektorowi w terminie 14 dni od jej zakoƒczenia.”,
-- **e)** po ust.4 dodaje si´ ust.4a wbrzmieniu: „4a. Generalny Inspektor mo˝e zwróciç si´ do podmiotów wymienionych wust.3 oprzekazanie potwierdzonych kopii dokumentacji zgromadzonej wtoku kontroli.”;
+- **d)** ust.4 otrzymuje brzmienie: Ń4. Pisemna informacja o wynikach kontroli, októrej mowa wust.3, wzakresie przestrzegania przepisów ustawy, jest przekazywana Generalnemu Inspektorowi w terminie 14 dni od jej zakończenia.”,
+- **e)** po ust.4 dodaje się ust.4a wbrzmieniu: Ń4a. Generalny Inspektor może zwrócić się do podmiotów wymienionych wust.3 oprzekazanie potwierdzonych kopii dokumentacji zgromadzonej wtoku kontroli.”;
 - **36)** wart.24:
-    - **a)** po ust.1 dodaje si´ ust.1a i1b wbrzmieniu: terroryzmu, sprawuje Generalny Inspektor.”,
-    - **b)** ust.3 otrzymuje brzmienie: „3. Kontrol´, o której mowa w ust. 1, realizujà równie˝ w ramach sprawowanego nadzoru lub kontroli, na zasadach i w trybie okreÊlonych wodr´bnych przepisach: „1a. Przed przedstawieniem protoko∏u pokontrolnego dyrektor jednostki, o której mowa wart.3 ust.4, mo˝e zwróciç si´ do instytucji obowiàzanej oz∏o˝enie wwyznaczonym terminie dodatkowych wyjaÊnieƒ na piÊmie w zakresie stwierdzonych podczas kontroli nieprawid∏owoÊci.
+    - **a)** po ust.1 dodaje się ust.1a i1b wbrzmieniu: terroryzmu, sprawuje Generalny Inspektor.”,
+    - **b)** ust.3 otrzymuje brzmienie: Ń3. Kontrolę, o której mowa w ust. 1, realizują również w ramach sprawowanego nadzoru lub kontroli, na zasadach i w trybie określonych wodrębnych przepisach: Ń1a. Przed przedstawieniem protokołu pokontrolnego dyrektor jednostki, o której mowa wart.3 ust.4, może zwrócić się do instytucji obowiązanej ozłożenie wwyznaczonym terminie dodatkowych wyjaśnień na piśmie w zakresie stwierdzonych podczas kontroli nieprawidłowości.
 
-1b. Do terminu okreÊlonego wust.1 nie wlicza si´ okresu od dnia wys∏ania pisma, o którym mowa w ust. 1a, do dnia otrzymania dodatkowych wyjaÊnieƒ.”,
+1b. Do terminu określonego wust.1 nie wlicza się okresu od dnia wysłania pisma, o którym mowa w ust. 1a, do dnia otrzymania dodatkowych wyjaśnień.”,
 
-- **b)** ust.2 otrzymuje brzmienie: „2. Protokó∏ pokontrolny zawiera ustalenia stanu faktycznego, ocen´ kontrolowanej dzia∏alnoÊci, w tym ewentualnie stwierdzone nieprawid∏owoÊci i wskazanie osób za nie odpowiedzialnych, oraz wnioski i zalecenia pokontrolne.”;
+- **b)** ust.2 otrzymuje brzmienie: Ń2. Protokół pokontrolny zawiera ustalenia stanu faktycznego, ocenę kontrolowanej działalności, w tym ewentualnie stwierdzone nieprawidłowości i wskazanie osób za nie odpowiedzialnych, oraz wnioski i zalecenia pokontrolne.”;
 - **37)** wart.25:
-    - **a)** ust.1 otrzymuje brzmienie: „1. Instytucja obowiàzana ma prawo zg∏oszenia do Generalnego Inspektora umotywowanych zastrze˝eƒ co do ustaleƒ zawartych wprotokole pokontrolnym.”,
-    - **b)** dodaje si´ ust.4 i5 wbrzmieniu: „4. Instytucja obowiàzana przesy∏a do dyrektora jednostki, o której mowa w art. 3 ust. 4, w terminie wskazanym w protokole pokontrolnym, informacj´ o sposobie wykonania wniosków izaleceƒ pokontrolnych lub przyczynach ich niewykonania, ze wskazaniem przewidywanego terminu ich wykonania.
+    - **a)** ust.1 otrzymuje brzmienie: Ń1. Instytucja obowiązana ma prawo zgłoszenia do Generalnego Inspektora umotywowanych zastrzeżeń co do ustaleń zawartych wprotokole pokontrolnym.”,
+    - **b)** dodaje się ust.4 i5 wbrzmieniu: Ń4. Instytucja obowiązana przesyła do dyrektora jednostki, o której mowa w art. 3 ust. 4, w terminie wskazanym w protokole pokontrolnym, informację o sposobie wykonania wniosków izaleceń pokontrolnych lub przyczynach ich niewykonania, ze wskazaniem przewidywanego terminu ich wykonania.
 
-5. W przypadku zg∏oszenia zastrze˝eƒ zgodnie z ust. 1, termin, o którym mowa w ust. 4, liczy si´ od dnia otrzymania stanowiska Generalnego Inspektora.”;
+5. W przypadku zgłoszenia zastrzeżeń zgodnie z ust. 1, termin, o którym mowa w ust. 4, liczy się od dnia otrzymania stanowiska Generalnego Inspektora.”;
 
-- **38)** uchyla si´ art.28;
-- **39)** art.29 otrzymuje brzmienie: „Art. 29. Do ujawniania Generalnemu Inspektorowi wszelkich informacji w trybie i zakresie przewidzianym wustawie nie stosuje si´ przepisów ograniczajàcych udost´pnianie danych obj´tych tajemnicà, z wyjàtkiem danych obj´tych tajemnicà paƒstwowà. Do przekazywania danych obj´tych tajemnicà paƒstwowà stosuje si´ przepisy regulujàce zasady ich ochrony.”;
-- **40)** po art.30 dodaje si´ art.30a wbrzmieniu: „Art. 30a. 1. Organy informacji finansowej, pracownicy i osoby wykonujàce czynnoÊci na rzecz jednostki, o której mowa w art. 3 ust. 4, sà obowiàzane zachowaç w tajemnicy informacje, z którymi zapozna∏y si´ w toku wykonywanych czynnoÊci na zasadach i w trybie okreÊlonych w odr´bnych przepisach.
+- **38)** uchyla się art.28;
+- **39)** art.29 otrzymuje brzmienie: ŃArt. 29. Do ujawniania Generalnemu Inspektorowi wszelkich informacji w trybie i zakresie przewidzianym wustawie nie stosuje się przepisów ograniczających udostępnianie danych objętych tajemnicą, z wyjątkiem danych objętych tajemnicą państwową. Do przekazywania danych objętych tajemnicą państwową stosuje się przepisy regulujące zasady ich ochrony.”;
+- **40)** po art.30 dodaje się art.30a wbrzmieniu: ŃArt. 30a. 1. Organy informacji finansowej, pracownicy i osoby wykonujące czynności na rzecz jednostki, o której mowa w art. 3 ust. 4, są obowiązane zachować w tajemnicy informacje, z którymi zapoznały się w toku wykonywanych czynności na zasadach i w trybie określonych w odrębnych przepisach.
 
-2. Zachowanie tajemnicy, o której mo2. Je˝eli podstawà zawiadomienia, októrym mowa w ust. 1, by∏a informacja o transakcji, o której mowa w art. 8 ust. 3, art. 16 ust. 1 lub art. 17 przekazana przez instytucj´ obowiàzanà lub jednostk´ wspó∏pracujàcà, o której mowa w art. 15a ust. 1, Generalny Inspektor przekazuje jej informacj´ otym fakcie, nie póêniej ni˝ wterminie 90 dni od przekazania zawiadomienia.
+2. Zachowanie tajemnicy, o której mo2. Jeżeli podstawą zawiadomienia, októrym mowa w ust. 1, była informacja o transakcji, o której mowa w art. 8 ust. 3, art. 16 ust. 1 lub art. 17 przekazana przez instytucję obowiązaną lub jednostkę współpracującą, o której mowa w art. 15a ust. 1, Generalny Inspektor przekazuje jej informację otym fakcie, nie póêniej niż wterminie 90 dni od przekazania zawiadomienia.
 
 **Art. 32.**
 
-1. Informacje zgromadzone w trybie i zakresie przewidzianym przepisami ustawy sà udost´pniane przez Generalnego Inspektora sàdom i prokuratorom na potrzeby post´powania karnego, na ich pisemny wniosek.
+1. Informacje zgromadzone w trybie i zakresie przewidzianym przepisami ustawy są udostępniane przez Generalnego Inspektora sądom i prokuratorom na potrzeby postępowania karnego, na ich pisemny wniosek.
 
-2. W celu sprawdzenia danych zawartych w zawiadomieniu o podejrzeniu pope∏nienia przest´pstwa, o którym mowa w art. 165a lub art. 299 Kodeksu karnego, prokurator mo˝e ˝àdaç od Generalnego Inspektora udost´pnienia informacji chronionych prawem, w tym obj´tych tajemnicà bankowà lub ubezpieczeniowà, tak˝e wpost´powaniu sprawdzajàcym prowadzonym na podstawie art.307 Kodeksu post´powania karnego.
+2. W celu sprawdzenia danych zawartych w zawiadomieniu o podejrzeniu popełnienia przestępstwa, o którym mowa w art. 165a lub art. 299 Kodeksu karnego, prokurator może żądać od Generalnego Inspektora udostępnienia informacji chronionych prawem, w tym objętych tajemnicą bankową lub ubezpieczeniową, także wpostępowaniu sprawdzającym prowadzonym na podstawie art.307 Kodeksu postępowania karnego.
 
-3. Je˝eli Generalny Inspektor nie dysponuje informacjami wystarczajàcymi do wydania przez prokuratora postanowienia wprzedmiocie wszcz´cia post´powania przygotowawczego w sprawie o przest´pstwo, o którym mowa w art. 165a lub art. 299 Kodeksu karnego, ˝àdanie, októrym mowa wust.2, mo˝na skierowaç do instytucji obowiàzanej.”;
+3. Jeżeli Generalny Inspektor nie dysponuje informacjami wystarczającymi do wydania przez prokuratora postanowienia wprzedmiocie wszczęcia postępowania przygotowawczego w sprawie o przestępstwo, o którym mowa w art. 165a lub art. 299 Kodeksu karnego, żądanie, októrym mowa wust.2, można skierować do instytucji obowiązanej.”;
 
-- **42)** wart.33: skiej dzia∏alnoÊç maklerskà wzakresie obrotu towarami gie∏dowymi, towarowych domów maklerskich w rozumieniu ustawy zdnia 26 paêdziernika 2000r. ogie∏dach towarowych oraz w stosunku do funduszy inwestycyjnych, towarzystw funduszy inwestycyjnych i Krajowego Depozytu Papierów WartoÊciowychS.A.;”,
-    - **a)** wust.1 zdanie wst´pne otrzymuje brzmienie: „Generalny Inspektor przekazuje, z zastrze˝eniem ust.1a, posiadane informacje, na pisemny iuzasadniony wniosek:”,
-    - **b)** wust.2 pkt2 otrzymuje brzmienie: „2) Przewodniczàcego Komisji Nadzoru Finansowego lub osób przez niego upowa˝niowa w ust. 1, obowiàzuje równie˝ po nych wy∏àcznie w sprawach zwiàzanych ustaniu zatrudnienia w jednostce, z wykonywaniem nadzoru bankowego, o której mowa w art. 3 ust. 4, a tak˝e w sprawach zwiàzanych z wykonywaniem wykonywania na jej rzecz czynnoÊci nadzoru nad dzia∏alnoÊcià ubezpieczeniowà na podstawie umów prawa cywilne- oraz w stosunku do firm inwestycyjnych go.”; ibanków powierniczych wrozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instru41) art.31 i32 otrzymujà brzmienie: mentami finansowymi oraz podmiotów, o których mowa w art. 71 ust. 1 tej ustawy, „Art. 31. 1. Je˝eli podejrzenie pope∏nienia prze- zagranicznych osób prawnych prowadzàst´pstwa, o którym mowa w art. 165a cych na terytorium Rzeczypospolitej Pollub art. 299 Kodeksu karnego, wynika z posiadanych przez Generalnego Inspektora informacji, ich przetworzenia lub analizy, Generalny Inspektor zawiadamia prokuratora opodejrzeniu pope∏nienia przest´pstwa oraz jednoczeÊnie przekazuje mu materia∏y uzasadniajàce takie podejrzenie.
-    - **c)** ust.5 i6 otrzymujà brzmienie: „5. Informacje zwiàzane z wprowadzaniem do systemu finansowego wartoÊci majàtkowych pochodzàcych z prania pieni´dzy, a tak˝e z finansowaniem terroryzmu, mogà byç udost´pniane przez Generalnego Inspektora zagranicznym instytucjom, októrych mowa wart.4 ust.1 pkt8, na zasadzie wzajemnoÊci, w trybie okreÊlonym w dwustronnych porozumieniach zawartych przez Generalnego Inspektora, tak˝e za pomocà informatycznych noÊników danych.
+- **42)** wart.33: skiej działalność maklerską wzakresie obrotu towarami giełdowymi, towarowych domów maklerskich w rozumieniu ustawy zdnia 26 paêdziernika 2000r. ogiełdach towarowych oraz w stosunku do funduszy inwestycyjnych, towarzystw funduszy inwestycyjnych i Krajowego Depozytu Papierów WartościowychS.A.;”,
+    - **a)** wust.1 zdanie wstępne otrzymuje brzmienie: ŃGeneralny Inspektor przekazuje, z zastrzeżeniem ust.1a, posiadane informacje, na pisemny iuzasadniony wniosek:”,
+    - **b)** wust.2 pkt2 otrzymuje brzmienie: Ń2) Przewodniczącego Komisji Nadzoru Finansowego lub osób przez niego upoważniowa w ust. 1, obowiązuje również po nych wyłącznie w sprawach związanych ustaniu zatrudnienia w jednostce, z wykonywaniem nadzoru bankowego, o której mowa w art. 3 ust. 4, a także w sprawach związanych z wykonywaniem wykonywania na jej rzecz czynności nadzoru nad działalnością ubezpieczeniową na podstawie umów prawa cywilne- oraz w stosunku do firm inwestycyjnych go.”; ibanków powierniczych wrozumieniu ustawy z dnia 29 lipca 2005 r. o obrocie instru41) art.31 i32 otrzymują brzmienie: mentami finansowymi oraz podmiotów, o których mowa w art. 71 ust. 1 tej ustawy, ŃArt. 31. 1. Jeżeli podejrzenie popełnienia prze- zagranicznych osób prawnych prowadząstępstwa, o którym mowa w art. 165a cych na terytorium Rzeczypospolitej Pollub art. 299 Kodeksu karnego, wynika z posiadanych przez Generalnego Inspektora informacji, ich przetworzenia lub analizy, Generalny Inspektor zawiadamia prokuratora opodejrzeniu popełnienia przestępstwa oraz jednocześnie przekazuje mu materiały uzasadniające takie podejrzenie.
+    - **c)** ust.5 i6 otrzymują brzmienie: Ń5. Informacje związane z wprowadzaniem do systemu finansowego wartości majątkowych pochodzących z prania pieniędzy, a także z finansowaniem terroryzmu, mogą być udostępniane przez Generalnego Inspektora zagranicznym instytucjom, októrych mowa wart.4 ust.1 pkt8, na zasadzie wzajemności, w trybie określonym w dwustronnych porozumieniach zawartych przez Generalnego Inspektora, także za pomocą informatycznych nośników danych.
 
-6. Osoby, które wesz∏y w posiadanie informacji uzyskanych w trybie okreÊlonym wust.1—3, sà obowiàzane chroniç informacje prawnie chronione, na zasadach i w trybie okreÊlonym w odr´bnych przepisach. Zachowanie tajemnicy obowiàzuje równie˝ po ustaniu stosunku pracy, wykonywania czynnoÊci na podstawie umów prawa cywilnego lub ustaniu s∏u˝by.”;
+6. Osoby, które weszły w posiadanie informacji uzyskanych w trybie określonym wust.1—3, są obowiązane chronić informacje prawnie chronione, na zasadach i w trybie określonym w odrębnych przepisach. Zachowanie tajemnicy obowiązuje również po ustaniu stosunku pracy, wykonywania czynności na podstawie umów prawa cywilnego lub ustaniu służby.”;
 
-- **43)** art.34 otrzymuje brzmienie: „Art. 34. Ujawnienie osobom nieuprawnionym, w tym tak˝e stronom transakcji lub posiadaczom rachunku, faktu poinformowania Generalnego Inspektora otransakcjach, których okolicznoÊci wskazujà, ˝e wartoÊci majàtkowe mogà pochodziç z prania pieni´dzy albo o rachunkach podmiotów, co do których zachodzi uzasadnione podejrzenie, ˝e majà zwiàzek z finansowaniem terroryzmu oraz o transakcjach dokonywanych przez te podmioty, jest zabronione.”;
-- **44)** po rozdziale 7 dodaje si´ rozdzia∏ 7a wbrzmieniu: „Rozdzia∏ 7a Kary pieni´˝ne „Art. 34a. Instytucja obowiàzana, z wy∏àczeniem Narodowego Banku Polskiego, która:
-- **1)** nie dope∏nia obowiàzku rejestracji transakcji, o której mowa w art. 8 ust. 1, przekazania Generalnemu Inspektorowi dokumentów dotyczàcych tej transakcji lub przechowywania przez wymagany okres rejestru tych transakcji lub dokumentów dotyczàcych tej transakcji,
-- **2)** nie dope∏nia obowiàzku przeprowadzenia analizy ryzyka wcelu zastosowania odpowiednich Êrodków bezpieczeƒstwa finansowego,
-- **3)** nie dope∏nia obowiàzku stosowania Êrodków bezpieczeƒstwa finansowego,
-- **4)** nie dope∏nia obowiàzku przechowywania przez wymagany okres udokumentowanych wyników analizy,
-- **5)** nie dope∏nia obowiàzku zapewnienia udzia∏u pracowników w programie
-- **6)** nie dope∏nia obowiàzku wykonania wterminie wniosku lub zalecenia pokontrolnego,
-- **7)** nawiàzuje lub utrzymuje wspó∏prac´ zbankiem fikcyjnym podlega karze pieni´˝nej.
+- **43)** art.34 otrzymuje brzmienie: ŃArt. 34. Ujawnienie osobom nieuprawnionym, w tym także stronom transakcji lub posiadaczom rachunku, faktu poinformowania Generalnego Inspektora otransakcjach, których okoliczności wskazują, że wartości majątkowe mogą pochodzić z prania pieniędzy albo o rachunkach podmiotów, co do których zachodzi uzasadnione podejrzenie, że mają związek z finansowaniem terroryzmu oraz o transakcjach dokonywanych przez te podmioty, jest zabronione.”;
+- **44)** po rozdziale 7 dodaje się rozdział 7a wbrzmieniu: ŃRozdział 7a Kary pieniężne ŃArt. 34a. Instytucja obowiązana, z wyłączeniem Narodowego Banku Polskiego, która:
+- **1)** nie dopełnia obowiązku rejestracji transakcji, o której mowa w art. 8 ust. 1, przekazania Generalnemu Inspektorowi dokumentów dotyczących tej transakcji lub przechowywania przez wymagany okres rejestru tych transakcji lub dokumentów dotyczących tej transakcji,
+- **2)** nie dopełnia obowiązku przeprowadzenia analizy ryzyka wcelu zastosowania odpowiednich środków bezpieczeństwa finansowego,
+- **3)** nie dopełnia obowiązku stosowania środków bezpieczeństwa finansowego,
+- **4)** nie dopełnia obowiązku przechowywania przez wymagany okres udokumentowanych wyników analizy,
+- **5)** nie dopełnia obowiązku zapewnienia udziału pracowników w programie
+- **6)** nie dopełnia obowiązku wykonania wterminie wniosku lub zalecenia pokontrolnego,
+- **7)** nawiązuje lub utrzymuje współpracę zbankiem fikcyjnym podlega karze pieniężnej.
 
 **Art. 34b.**
 
-1. Instytucja obowiàzana, która wbrew nast´pujàcym przepisom rozporzàdzenia nr1781/2006:
+1. Instytucja obowiązana, która wbrew następującym przepisom rozporządzenia nr1781/2006:
 
-- **1)** art.5—7, nie zapewnia, aby przekazowi pieni´˝nemu towarzyszy∏y pe∏ne informacje ozleceniodawcy,
-- **2)** art.8, nie dysponuje skutecznà procedurà pozwalajàcà na wykrycie braku informacji ozleceniodawcy,
-- **3)** art. 9, nie informuje Generalnego Inspektora ofakcie regularnego zaniedbywania przekazywania wymaganych informacji o zleceniodawcy przez dostawc´ us∏ug p∏atniczych odbiorcy,
-- **4)** art. 12, poÊredniczàc, jako dostawca us∏ug p∏atniczych, nie zachowuje wszystkich otrzymanych informacji ozleceniodawcy, które towarzyszà przekazom pieni´˝nym,
-- **5)** art. 14, nie udziela na zapytanie Generalnego Inspektora pe∏nej odpowiedzi dotyczàcej informacji o zleceniodawcy towarzyszàcej przekazom pieni´˝nym oraz nie przekazuje Generalnemu Inspektorowi, na jego ˝àdanie, odpowiednich dokumentów podlega karze pieni´˝nej.
+- **1)** art.5—7, nie zapewnia, aby przekazowi pieniężnemu towarzyszyły pełne informacje ozleceniodawcy,
+- **2)** art.8, nie dysponuje skuteczną procedurą pozwalającą na wykrycie braku informacji ozleceniodawcy,
+- **3)** art. 9, nie informuje Generalnego Inspektora ofakcie regularnego zaniedbywania przekazywania wymaganych informacji o zleceniodawcy przez dostawcę usług płatniczych odbiorcy,
+- **4)** art. 12, pośrednicząc, jako dostawca usług płatniczych, nie zachowuje wszystkich otrzymanych informacji ozleceniodawcy, które towarzyszą przekazom pieniężnym,
+- **5)** art. 14, nie udziela na zapytanie Generalnego Inspektora pełnej odpowiedzi dotyczącej informacji o zleceniodawcy towarzyszącej przekazom pieniężnym oraz nie przekazuje Generalnemu Inspektorowi, na jego żądanie, odpowiednich dokumentów podlega karze pieniężnej.
 
-2. Tej samej karze podlega instytucja obowiàzana, która, wbrew przepisowi art. 20d ust. 1, nie zamra˝a wartoÊci majàtkowych osoby, grupy lub podmiotu lub nie przekazuje Generalnemu Inspektorowi wszystkich posiadanych danych uzasadniajàcych zamro˝enie wartoÊci majàtkowych. szkoleniowym,
+2. Tej samej karze podlega instytucja obowiązana, która, wbrew przepisowi art. 20d ust. 1, nie zamraża wartości majątkowych osoby, grupy lub podmiotu lub nie przekazuje Generalnemu Inspektorowi wszystkich posiadanych danych uzasadniających zamrożenie wartości majątkowych. szkoleniowym,
 
 **Art. 34c.**
 
-1. Kar´ pieni´˝nà nak∏ada Generalny Inspektor w drodze decyzji, w wysokoÊci nie wi´kszej ni˝ 750 000 z∏, awrazie naruszenia, októrym mowa w art. 34a pkt 5 w wysokoÊci nie wi´kszej ni˝ 100 000z∏.
+1. Karę pieniężną nakłada Generalny Inspektor w drodze decyzji, w wysokości nie większej niż 750 000 zł, awrazie naruszenia, októrym mowa w art. 34a pkt 5 w wysokości nie większej niż 100 000zł.
 
-2. Ustalajàc wysokoÊç kary pieni´˝nej, Generalny Inspektor uwzgl´dnia rodzaj izakres naruszenia, dotychczasowà dzia∏alnoÊç instytucji obowiàzanej oraz jej mo˝liwoÊci finansowe.
+2. Ustalając wysokość kary pieniężnej, Generalny Inspektor uwzględnia rodzaj izakres naruszenia, dotychczasową działalność instytucji obowiązanej oraz jej możliwości finansowe.
 
-3. Kara pieni´˝na stanowi dochód bud˝etu paƒstwa.
+3. Kara pieniężna stanowi dochód budżetu państwa.
 
-4. W przypadku stwierdzenia, przez Generalnego Inspektora w toku kontroli, naruszenia, októrym mowa wart.34a, mo˝liwe jest na∏o˝enie tylko jednej kary pieni´˝nej.
+4. W przypadku stwierdzenia, przez Generalnego Inspektora w toku kontroli, naruszenia, októrym mowa wart.34a, możliwe jest nałożenie tylko jednej kary pieniężnej.
 
-5. Post´powanie w sprawie na∏o˝enia kary pieni´˝nej toczy si´ na podstawie przepisów Kodeksu post´powania administracyjnego.
+5. Postępowanie w sprawie nałożenia kary pieniężnej toczy się na podstawie przepisów Kodeksu postępowania administracyjnego.
 
-6. Od decyzji Generalnego Inspektora przys∏uguje odwo∏anie do ministra w∏aÊciwego do spraw instytucji finansowych wterminie 14 dni od jej dor´czenia.
+6. Od decyzji Generalnego Inspektora przysługuje odwołanie do ministra właściwego do spraw instytucji finansowych wterminie 14 dni od jej doręczenia.
 
-7. Kary pieni´˝ne podlegajà egzekucji w trybie przepisów o post´powaniu egzekucyjnym w administracji w zakresie egzekucji obowiàzków o charakterze pieni´˝nym.
+7. Kary pieniężne podlegają egzekucji w trybie przepisów o postępowaniu egzekucyjnym w administracji w zakresie egzekucji obowiązków o charakterze pieniężnym.
 
-8. W sprawach nieuregulowanych do kary pieni´˝nej stosuje si´ odpowiednio przepisy dzia∏u III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz.U. z2005r. Nr8, poz.60, zpóên. zm. ).
+8. W sprawach nieuregulowanych do kary pieniężnej stosuje się odpowiednio przepisy działu III ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz.U. z2005r. Nr8, poz.60, zpóên. zm. ).
 
-9. Informacja o na∏o˝onej karze pieni´˝nej jest przekazywana instytucji nadzorujàcej dzia∏alnoÊç danej instytucji obowiàzanej.”;
+9. Informacja o nałożonej karze pieniężnej jest przekazywana instytucji nadzorującej działalność danej instytucji obowiązanej.”;
 
 - **45)** wart.35:
-    - **a)** wust.1: pkt1—3 otrzymujà brzmienie: „1) rejestracji transakcji, przekazania Generalnemu Inspektorowi dokumentów dotyczàcych tej transakcji lub przechowywania przez wymagany okres rejestru tych transakcji lub dokumentów dotyczàcych tej transakcji,
+    - **a)** wust.1: pkt1—3 otrzymują brzmienie: Ń1) rejestracji transakcji, przekazania Generalnemu Inspektorowi dokumentów dotyczących tej transakcji lub przechowywania przez wymagany okres rejestru tych transakcji lub dokumentów dotyczących tej transakcji,
 
-- **2)** zachowania Êrodków bezpieczeƒstwa finansowego, zgodnie zprocedurà, októrej mowa w art. 10a ust. 1, lub przechowywania informacji uzyskanych w zwiàzku ze stosowaniem Êrodków bezpieczeƒstwa finansowego,
+- **2)** zachowania środków bezpieczeństwa finansowego, zgodnie zprocedurą, októrej mowa w art. 10a ust. 1, lub przechowywania informacji uzyskanych w związku ze stosowaniem środków bezpieczeństwa finansowego,
 - **3)** zawiadomienia Generalnego Inspektora
-    - **b)** ust.2 otrzymuje brzmienie: „2. Tej samej karze podlega, kto wbrew przepisom ustawy ujawnia osobom nieuprawnionym, posiadaczom rachunku lub osobom, których transakcja dotyczy informacje zgromadzone zgodnie z upowa˝nieniem ustawy lub wykorzystuje te informacje w inny sposób niezgodny zprzepisami ustawy.”;
+    - **b)** ust.2 otrzymuje brzmienie: Ń2. Tej samej karze podlega, kto wbrew przepisom ustawy ujawnia osobom nieuprawnionym, posiadaczom rachunku lub osobom, których transakcja dotyczy informacje zgromadzone zgodnie z upoważnieniem ustawy lub wykorzystuje te informacje w inny sposób niezgodny zprzepisami ustawy.”;
 
-- **46)** wart.37a uchyla si´ ust.2.
+- **46)** wart.37a uchyla się ust.2.
 
-**Art. 2.** W ustawie z dnia 26 maja 1982 r. Prawo o adwokaturze (Dz. U. z 2009 r. 146, poz. 1188) wart.6 ust.4 otrzymuje brzmienie: „4. Obowiàzek zachowania tajemnicy zawodowej nie dotyczy informacji udost´pnianych na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdzia∏aniu praniu pieni´dzy oraz finansowaniu terroryzmu (Dz.U. z2003r. Nr153, poz. 1505, z póên. zm. o transakcji, o której mowa w art. 16 ust.1,”, dodaje si´ pkt5 i6 wbrzmieniu: „5) wprowadzenia wewn´trznej procedury, októrej mowa wart.10a ust.1,
+**Art. 2.** W ustawie z dnia 26 maja 1982 r. Prawo o adwokaturze (Dz. U. z 2009 r. 146, poz. 1188) wart.6 ust.4 otrzymuje brzmienie: Ń4. Obowiązek zachowania tajemnicy zawodowej nie dotyczy informacji udostępnianych na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz.U. z2003r. Nr153, poz. 1505, z póên. zm. o transakcji, o której mowa w art. 16 ust.1,”, dodaje się pkt5 i6 wbrzmieniu: Ń5) wprowadzenia wewnętrznej procedury, októrej mowa wart.10a ust.1,
 
-**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. 123, poz. 1059, z póên. zm. ) wart.3 ust.6 otrzymuje brzmienie: „6. Obowiàzek zachowania tajemnicy zawodowej nie dotyczy informacji udost´pnianych na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdzia∏aniu praniu pieni´dzy oraz finansowaniu terroryzmu (Dz.U. z2003r. Nr153, poz. 1505, z póên. zm. ) w zakresie okreÊlonym tymi przepisami.”.
+**Art. 3.** W ustawie z dnia 6 lipca 1982 r. o radcach prawnych (Dz. U. z 2002 r. 123, poz. 1059, z póên. zm. ) wart.3 ust.6 otrzymuje brzmienie: Ń6. Obowiązek zachowania tajemnicy zawodowej nie dotyczy informacji udostępnianych na podstawie przepisów ustawy z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz.U. z2003r. Nr153, poz. 1505, z póên. zm. ) w zakresie określonym tymi przepisami.”.
 
-**Art. 4.** Wustawie zdnia 14 lipca 1983r. onarodowym zasobie archiwalnym i archiwach (Dz. U. z2006r. Nr97, poz.673, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany: ——————— ———————
+**Art. 4.** Wustawie zdnia 14 lipca 1983r. onarodowym zasobie archiwalnym i archiwach (Dz. U. z2006r. Nr97, poz.673, zpóên. zm. ) wprowadza się następujące zmiany: ——————— ———————
 
-**Art. 6.** Wustawie zdnia 28 wrzeÊnia 1991r. okontroli skarbowej (Dz. U. z 2004 r. 8, poz. 65, z póên. zm. ) wart.34a wust.1 pkt1a otrzymuje brzmienie: „1a) Generalnemu Inspektorowi Informacji Finansowej zgodnie z przepisami o przeciwdzia∏aniu praniu pieni´dzy oraz finansowaniu terroryzmu;”.
+**Art. 6.** Wustawie zdnia 28 września 1991r. okontroli skarbowej (Dz. U. z 2004 r. 8, poz. 65, z póên. zm. ) wart.34a wust.1 pkt1a otrzymuje brzmienie: Ń1a) Generalnemu Inspektorowi Informacji Finansowej zgodnie z przepisami o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu;”.
 
-**Art. 7.** W ustawie z dnia 13 paêdziernika 1995 r. ozasadach ewidencji iidentyfikacji podatników ip∏atników (Dz. U. z 2004 r. 269, poz. 2681, z póên. zm. ) wart.15 wust.2 pkt6 otrzymuje brzmienie: „6) Generalnemu Inspektorowi Informacji Finansowej wcelu wykonywania obowiàzków wynikajàcych z przeciwdzia∏ania praniu pieni´dzy oraz finansowaniu terroryzmu;”.
+**Art. 7.** W ustawie z dnia 13 paêdziernika 1995 r. ozasadach ewidencji iidentyfikacji podatników ipłatników (Dz. U. z 2004 r. 269, poz. 2681, z póên. zm. ) wart.15 wust.2 pkt6 otrzymuje brzmienie: Ń6) Generalnemu Inspektorowi Informacji Finansowej wcelu wykonywania obowiązków wynikających z przeciwdziałania praniu pieniędzy oraz finansowaniu terroryzmu;”.
 
-**Art. 8.** W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2008 r. 73, poz. 443, 130, poz. 829 i 180, poz. 1112) w art. 37 ust. 4 otrzymuje brzmienie: „4. Obowiàzek, októrym mowa wust.1, nie dotyczy informacji udost´pnianych na podstawie przepisów ustawy zdnia 16 listopada 2000r. oprzeciwdzia∏aniu praniu pieni´dzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, z póên. zm. ) w zakresie okreÊlonym tymi przepisami.”. ———————
+**Art. 8.** W ustawie z dnia 5 lipca 1996 r. o doradztwie podatkowym (Dz. U. z 2008 r. 73, poz. 443, 130, poz. 829 i 180, poz. 1112) w art. 37 ust. 4 otrzymuje brzmienie: Ń4. Obowiązek, októrym mowa wust.1, nie dotyczy informacji udostępnianych na podstawie przepisów ustawy zdnia 16 listopada 2000r. oprzeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, z póên. zm. ) w zakresie określonym tymi przepisami.”. ———————
 
-**Art. 9.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. 88, poz. 553, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 9.** W ustawie z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. 88, poz. 553, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 10.** Wustawie zdnia 29 sierpnia 1997r. Ordynacja podatkowa (Dz. U. z 2005 r. 8, poz. 60, zpóên. zm. nu zabronionego, przyjmuje, przekazuje lub wywozi za granic´, pomaga do przenoszenia ich w∏asnoÊci lub posiadania albo podejmuje inne czynnoÊci, które mogà udaremniç lub znacznie utrudniç stwierdzenie ich przest´pnego pochodzenia lub miejsca umieszczenia, ich wykrycie, zaj´cie albo orzeczenie przepadku, podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.
+**Art. 10.** Wustawie zdnia 29 sierpnia 1997r. Ordynacja podatkowa (Dz. U. z 2005 r. 8, poz. 60, zpóên. zm. nu zabronionego, przyjmuje, przekazuje lub wywozi za granicę, pomaga do przenoszenia ich własności lub posiadania albo podejmuje inne czynności, które mogą udaremnić lub znacznie utrudnić stwierdzenie ich przestępnego pochodzenia lub miejsca umieszczenia, ich wykrycie, zajęcie albo orzeczenie przepadku, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
-**Art. 11.** Wustawie zdnia 29 sierpnia 1997r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 11.** Wustawie zdnia 29 sierpnia 1997r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 12.** W ustawie z dnia 28 paêdziernika 2002 r. oodpowiedzialnoÊci podmiotów zbiorowych za czyny zabronione pod groêbà kary (Dz.U. Nr197, poz.1661, z póên. zm. ) w art. 16 w ust. 1 pkt 12 otrzymuje brzmienie: „12) o charakterze terrorystycznym lub okreÊlone wart.165a Kodeksu karnego;”.
+**Art. 12.** W ustawie z dnia 28 paêdziernika 2002 r. oodpowiedzialności podmiotów zbiorowych za czyny zabronione pod groêbą kary (Dz.U. Nr197, poz.1661, z póên. zm. ) w art. 16 w ust. 1 pkt 12 otrzymuje brzmienie: Ń12) o charakterze terrorystycznym lub określone wart.165a Kodeksu karnego;”.
 
-**Art. 13.** W ustawie z dnia 14 lutego 2003 r. o udost´pnianiu informacji gospodarczych (Dz. U. 50, poz.424, zpóên. zm. ) wart.16 wust.1 pkt5 otrzymuje brzmienie: „5) Generalny Inspektor Informacji Finansowej wzakresie niezb´dnym do sprawowania kontroli oraz badania przebiegu transakcji okreÊlonych w ustawie z dnia 16 listopada 2000 r. o przeciwdzia∏aniu praniu pieni´dzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, zpóên. zm. );”.
+**Art. 13.** W ustawie z dnia 14 lutego 2003 r. o udostępnianiu informacji gospodarczych (Dz. U. 50, poz.424, zpóên. zm. ) wart.16 wust.1 pkt5 otrzymuje brzmienie: Ń5) Generalny Inspektor Informacji Finansowej wzakresie niezbędnym do sprawowania kontroli oraz badania przebiegu transakcji określonych w ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, zpóên. zm. );”.
 
-**Art. 14.** Wustawie zdnia 22 maja 2003r. odzia∏alnoÊci ubezpieczeniowej (Dz. U. 124, poz. 1151, z póên. zm. ) w art. 19 w ust. 2 pkt 7 otrzymuje brzmienie: „7) Generalnego Inspektora Informacji Finansowej, wzakresie wykonywania przez niego zadaƒ okreÊlonych wustawie zdnia 16 listopada 2000r. oprzeciwdzia∏aniu praniu pieni´dzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, zpóên. zm. );”.
+**Art. 14.** Wustawie zdnia 22 maja 2003r. odziałalności ubezpieczeniowej (Dz. U. 124, poz. 1151, z póên. zm. ) w art. 19 w ust. 2 pkt 7 otrzymuje brzmienie: Ń7) Generalnego Inspektora Informacji Finansowej, wzakresie wykonywania przez niego zadań określonych wustawie zdnia 16 listopada 2000r. oprzeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, zpóên. zm. );”.
 
-**Art. 15.** Wustawie zdnia 29 lipca 2005r. oobrocie instrumentami finansowymi (Dz.U. Nr183, poz.1538, z póên. zm. „3) Generalnemu Inspektorowi Informacji Finansowej w zakresie i na zasadach okreÊlonych w ustawie z dnia 16 listopada 2000 r. o przeciwdzia∏aniu praniu pieni´dzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, zpóên. zm. ) w art. 150 w ust. 1 pkt 3 otrzymuje brzmienie: );”.
+**Art. 15.** Wustawie zdnia 29 lipca 2005r. oobrocie instrumentami finansowymi (Dz.U. Nr183, poz.1538, z póên. zm. Ń3) Generalnemu Inspektorowi Informacji Finansowej w zakresie i na zasadach określonych w ustawie z dnia 16 listopada 2000 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu (Dz. U. z 2003 r. 153, poz. 1505, zpóên. zm. ) w art. 150 w ust. 1 pkt 3 otrzymuje brzmienie: );”.
 
-**Art. 16.** Instytucje obowiàzane dostosujà wewn´trzne procedury, do wymagaƒ okreÊlonych w art. 10a ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszà ustawà, w terminie 6 miesi´cy od dnia wejÊcia w˝ycie ustawy.
+**Art. 16.** Instytucje obowiązane dostosują wewnętrzne procedury, do wymagań określonych w art. 10a ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, w terminie 6 miesięcy od dnia wejścia wżycie ustawy.
 
-**Art. 17.** Instytucje obowiàzane w ciàgu 12 miesi´cy od dnia wejÊcia w ˝ycie niniejszej ustawy przeprowadzà w stosunku do dotychczasowych klientów na podstawie analizy ocen´ ryzyka, o której mowa w art. 8b ust. 1 ustawy wymienionej w art. 1, wbrzmieniu nadanym niniejszà ustawà.
+**Art. 17.** Instytucje obowiązane w ciągu 12 miesięcy od dnia wejścia w życie niniejszej ustawy przeprowadzą w stosunku do dotychczasowych klientów na podstawie analizy ocenę ryzyka, o której mowa w art. 8b ust. 1 ustawy wymienionej w art. 1, wbrzmieniu nadanym niniejszą ustawą.
 
 **Art. 18.**
 
-1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13 ustawy wymienionej w art. 1, zachowujà moc do czasu wejÊcia w ˝ycie przepisów wykonawczych wydanych na podstawie art. 13 tej ustawy, w brzmieniu nadanym niniejszà ustawà.
+1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 13 ustawy wymienionej w art. 1, zachowują moc do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 tej ustawy, w brzmieniu nadanym niniejszą ustawą.
 
-2. Do czasu wejÊcia w ˝ycie przepisów wykonawczych wydanych na podstawie art.13 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszà ustawà, instytucje obowiàzane rejestrujà i przekazujà Generalnemu Inspektorowi dane okreÊlone wdotychczasowych przepisach wykonawczych.
+2. Do czasu wejścia w życie przepisów wykonawczych wydanych na podstawie art.13 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, instytucje obowiązane rejestrują i przekazują Generalnemu Inspektorowi dane określone wdotychczasowych przepisach wykonawczych.
 
-3. Osoby fizyczne, osoby prawne ijednostki organizacyjne nieposiadajàce osobowoÊci prawnej, które w dniu wejÊcia w ˝ycie niniejszej ustawy sta∏y si´ in——————— stytucjami obowiàzanymi sà zwolnione z obowiàzku rejestracji transakcji, o których mowa w art. 8 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszà ustawà, oraz przekazywania ich do Generalnego Inspektora do dnia wejÊcia w ˝ycie przepisów wykonawczych wydanych na podstawie art. 13 tej ustawy, wbrzmieniu nadanym niniejszà ustawà.
+3. Osoby fizyczne, osoby prawne ijednostki organizacyjne nieposiadające osobowości prawnej, które w dniu wejścia w życie niniejszej ustawy stały się in——————— stytucjami obowiązanymi są zwolnione z obowiązku rejestracji transakcji, o których mowa w art. 8 ust. 1 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, oraz przekazywania ich do Generalnego Inspektora do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 tej ustawy, wbrzmieniu nadanym niniejszą ustawą.
 
 **Art. 19.**
 
-1. Istniejàce w dniu wejÊcia w ˝ycie ustawy umowy o prowadzenie anonimowych rachunków wygasajà z mocy prawa po up∏ywie 12 miesi´cy od dnia wejÊcia w˝ycie ustawy.
+1. Istniejące w dniu wejścia w życie ustawy umowy o prowadzenie anonimowych rachunków wygasają z mocy prawa po upływie 12 miesięcy od dnia wejścia wżycie ustawy.
 
-2. Instytucje obowiàzane niezw∏ocznie podejmujà czynnoÊci wcelu dokonania identyfikacji ipoinformowania o koniecznoÊci, o której mowa w ust. 1, posiadaczy takich rachunków.
+2. Instytucje obowiązane niezwłocznie podejmują czynności wcelu dokonania identyfikacji ipoinformowania o konieczności, o której mowa w ust. 1, posiadaczy takich rachunków.
 
-3. W przypadku, o którym mowa w ust. 1, Êrodki zostajà zdeponowane na wyodr´bnionym nieoprocentowanym rachunku bankowym.
+3. W przypadku, o którym mowa w ust. 1, środki zostają zdeponowane na wyodrębnionym nieoprocentowanym rachunku bankowym.
 
-**Art. 20.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem art. 1 pkt 21, który wchodzi w˝ycie po up∏ywie 12 miesi´cy od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski ———————
+**Art. 20.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 21, który wchodzi wżycie po upływie 12 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ———————
 

@@ -24,52 +24,52 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042412414) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2414/text.pdf) |
 
-USTAWA 8 paêdziernika 2004 o w∏àczeniu Akademii Medycznej im. Ludwika Rydygiera w Bydgoszczy do Miko∏aja Kopernika w Toruniu
+USTAWA 8 paêdziernika 2004 o włączeniu Akademii Medycznej im. Ludwika Rydygiera w Bydgoszczy do Mikołaja Kopernika w Toruniu
 
 **Art. 1.**
 
-1. W∏àcza si´ Akademi´ Medycznà im. Lu- 2) prowadzi dzia∏alnoÊç leczniczà, uwzgl´dnieniem dwika Rydygiera w Bydgoszczy, zwanà dalej „Akade- przepisów ustawy 12 wrzeÊnia 1990 mià”, do Miko∏aja Kopernika wToruniu, o szkolnictwie wy˝szym (Dz. U. 65, 385, zwanego dalej „Uniwersytetem”, dniem wejÊcia póên. zm. w ˝ycie ustawy.
+1. Włącza się Akademię Medyczną im. Lu- 2) prowadzi działalność leczniczą, uwzględnieniem dwika Rydygiera w Bydgoszczy, zwaną dalej ŃAkade- przepisów ustawy 12 września 1990 mią”, do Mikołaja Kopernika wToruniu, o szkolnictwie wyższym (Dz. U. 65, 385, zwanego dalej ŃUniwersytetem”, dniem wejścia póên. zm. w życie ustawy.
 
-2. Zdniem w∏àczenia jednostki organizacyjne Akademii stajà si´ jednostkami organizacyjnymi Uniwersytetu.
+2. Zdniem włączenia jednostki organizacyjne Akademii stają się jednostkami organizacyjnymi Uniwersytetu.
 
-3. Z dniem w∏àczenia znosi si´ Akademi´.
+3. Z dniem włączenia znosi się Akademię.
 
 **Art. 2.**
 
-1. Uniwersytet zdniem w∏àczenia Akademii, oprócz dotychczasowej dzia∏alnoÊci:
+1. Uniwersytet zdniem włączenia Akademii, oprócz dotychczasowej działalności:
 
-- **1)** prowadzi dzia∏alnoÊç dydaktycznà i badawczà w dziedzinie nauk medycznych; );
-- **3)** uczestniczy w sprawowaniu opieki zdrowotnej przez zak∏ady opieki zdrowotnej, na zasadach okreÊlonych w ustawie 30 sierpnia 1991 o zak∏adach opieki zdrowotnej (Dz. U. 91, 408, póên. zm. ).
+- **1)** prowadzi działalność dydaktyczną i badawczą w dziedzinie nauk medycznych; );
+- **3)** uczestniczy w sprawowaniu opieki zdrowotnej przez zakłady opieki zdrowotnej, na zasadach określonych w ustawie 30 sierpnia 1991 o zakładach opieki zdrowotnej (Dz. U. 91, 408, póên. zm. ).
 
-2. Nadzór nad Uniwersytetem w zakresie dzia∏alnoÊci, o której mowa w 1, sprawuje minister w∏aÊciwy do spraw zdrowia w porozumieniu ministrem w∏aÊciwym do spraw szkolnictwa wy˝szego.
+2. Nadzór nad Uniwersytetem w zakresie działalności, o której mowa w 1, sprawuje minister właściwy do spraw zdrowia w porozumieniu ministrem właściwym do spraw szkolnictwa wyższego.
 
-3. Minister w∏aÊciwy do spraw zdrowia w zakresie dzia∏alnoÊci, októrej mowa wust. 1, przyznaje dotacje ——————— bud˝etu paƒstwa, o których mowa w art. 24 1 pkt 1, 1a i 2 ustawy 12 wrzeÊnia 1990 o szkolnictwie wy˝szym.
+3. Minister właściwy do spraw zdrowia w zakresie działalności, októrej mowa wust. 1, przyznaje dotacje ——————— budżetu państwa, o których mowa w art. 24 1 pkt 1, 1a i 2 ustawy 12 września 1990 o szkolnictwie wyższym.
 
 **Art. 3.**
 
-1. Uniwersytet przejmuje, dniem w∏àczenia, wszelkie prawa i zobowiàzania Akademii.
+1. Uniwersytet przejmuje, dniem włączenia, wszelkie prawa i zobowiązania Akademii.
 
-2. Zakres praw oraz zobowiàzaƒ Akademii, o których mowa w 1, ustalà Akademia oraz Uniwersytet wformie protoko∏u. Stan gospodarki finansowej Akademii zostanie wykazany w bilansie sporzàdzonym przez Akademi´ na dzieƒ poprzedzajàcy dzieƒ w∏àczenia Akademii do Uniwersytetu.
+2. Zakres praw oraz zobowiązań Akademii, o których mowa w 1, ustalą Akademia oraz Uniwersytet wformie protokołu. Stan gospodarki finansowej Akademii zostanie wykazany w bilansie sporządzonym przez Akademię na dzień poprzedzający dzień włączenia Akademii do Uniwersytetu.
 
 **Art. 4.**
 
-1. Z dniem w∏àczenia Akademii do Uniwersytetu:
+1. Z dniem włączenia Akademii do Uniwersytetu:
 
-- **1)** pracownicy zatrudnieni w Akademii stajà si´ pracownikami Uniwersytetu;
-- **2)** studenci Akademii stajà si´ studentami Uniwersytetu;
-- **3)** dyrektor administracyjny Akademii staje si´ zast´pcà dyrektora administracyjnego Uniwersytetu; Dziennik Ustaw 241 — 17000 — Poz. 2414 i 2415 nadawania stopni naukowych, posiadane przez jednostki organizacyjne Akademii.
+- **1)** pracownicy zatrudnieni w Akademii stają się pracownikami Uniwersytetu;
+- **2)** studenci Akademii stają się studentami Uniwersytetu;
+- **3)** dyrektor administracyjny Akademii staje się zastępcą dyrektora administracyjnego Uniwersytetu; Dziennik Ustaw 241 — 17000 — Poz. 2414 i 2415 nadawania stopni naukowych, posiadane przez jednostki organizacyjne Akademii.
 
 **Art. 5.**
 
-1. Organizacj´ uczelni oraz inne sprawy dotyczàce jej funkcjonowania, wynikajàce w∏àczenia Akademii do Uniwersytetu, okreÊli statut uchwalony przez senat Uniwersytetu.
+1. Organizację uczelni oraz inne sprawy dotyczące jej funkcjonowania, wynikające włączenia Akademii do Uniwersytetu, określi statut uchwalony przez senat Uniwersytetu.
 
-2. Senat okreÊli zasady wyodr´bnienia finansowego jednostek realizujàcych dzia∏alnoÊç, o której mowa w art. 2 1.
+2. Senat określi zasady wyodrębnienia finansowego jednostek realizujących działalność, o której mowa w art. 2 1.
 
 **Art. 6.**
 
-1. Od w∏àczenia Akademii dotychczasowy rektor oraz prorektorzy pe∏nià funkcje do koƒca swojej kadencji; rektor Akademii staje si´ prorektorem Uniwersytetu, aprorektorzy Akademii przestajà pe∏niç swoje funkcje.
+1. Od włączenia Akademii dotychczasowy rektor oraz prorektorzy pełnią funkcje do końca swojej kadencji; rektor Akademii staje się prorektorem Uniwersytetu, aprorektorzy Akademii przestają pełnić swoje funkcje.
 
-2. Od w∏àczenia Akademii dotychczasowy sk∏ad senatu zostaje powi´kszony o dotychczasowy sk∏ad senatu Akademii, a dziekani i rady wydzia∏ów poszczególnych wydzia∏ów Akademii stajà si´ odpowiednio dziekanami i radami wydzia∏ów Uniwersytetu.
+2. Od włączenia Akademii dotychczasowy skład senatu zostaje powiększony o dotychczasowy skład senatu Akademii, a dziekani i rady wydziałów poszczególnych wydziałów Akademii stają się odpowiednio dziekanami i radami wydziałów Uniwersytetu.
 
-**Art. 7.** Wzakresie uregulowanym niniejszà ustawà
+**Art. 7.** Wzakresie uregulowanym niniejszą ustawą
 

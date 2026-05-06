@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Trybuna∏ Konstytucyjny wsk∏adzie: Marek Safjan przewodniczàcy, Teresa D´bowska-Romanowska, Marian Grzybowski, Wies∏aw Johann, Biruta Lewaszkiewicz-Petrykowska sprawozdawca, Ewa ¸´towska, Marek Mazurkiewicz, Andrzej Màczyƒski, Jadwiga Skórzewska-¸osiak, Jerzy St´pieƒ, Miros∏aw Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki, cjalnego osób, októrych mowa wart. 14 ust. 4 tej ustawy, je˝eli zosta∏y one obj´te orzeczeniem sàdowym nakazujàcym opró˝nienie lokalu wydanym w okresie od dnia 31 grudnia 2000 r. do dnia wejÊcia w˝ycie ustawy, aorzeczenie nie zosta∏o wykonane do tego dnia, zart. 32 wzwiàzku zart. 2 Konstytucji RP, orzeka:
+# Trybunał Konstytucyjny wskładzie: Marek Safjan przewodniczący, Teresa Dębowska-Romanowska, Marian Grzybowski, Wiesław Johann, Biruta Lewaszkiewicz-Petrykowska sprawozdawca, Ewa Ęętowska, Marek Mazurkiewicz, Andrzej Mączyński, Jadwiga Skórzewska-Ęosiak, Jerzy Stępień, Mirosław Wyrzykowski, Marian Zdyb, Bohdan Zdziennicki, cjalnego osób, októrych mowa wart. 14 ust. 4 tej ustawy, jeżeli zostały one objęte orzeczeniem sądowym nakazującym opróżnienie lokalu wydanym w okresie od dnia 31 grudnia 2000 r. do dnia wejścia wżycie ustawy, aorzeczenie nie zostało wykonane do tego dnia, zart. 32 wzwiązku zart. 2 Konstytucji RP, orzeka:
 
 | Pole | Wartość |
 |---|---|
@@ -26,14 +26,14 @@ domain: null
 
 1) art. 9 ust. 3 ustawy z dnia 21 czerwca 2001 r.
 oochronie praw lokatorów, mieszkaniowym zasobie gminy o zmianie Kodeksu cywilnego (Dz. U.
-z 2001 r. Nr 71, poz. 733 oraz z 2002 r. Nr 113, po rozpoznaniu, zudzia∏em wnioskodawcy, Sejmu Prokuratora Generalnego na rozprawie w dniu 4 wrzeÊnia i2 paêdziernika 2002 r., wniosku Rzecznika Praw Obywatelskich ostwierdzenie niezgodnoÊci:
+z 2001 r. Nr 71, poz. 733 oraz z 2002 r. Nr 113, po rozpoznaniu, zudziałem wnioskodawcy, Sejmu Prokuratora Generalnego na rozprawie w dniu 4 września i2 paêdziernika 2002 r., wniosku Rzecznika Praw Obywatelskich ostwierdzenie niezgodności:
 1. art. 9 ust. 3 ustawy z dnia 21 czerwca 2001 r.
 oochronie praw lokatorów, mieszkaniowym zasobie gminy o zmianie Kodeksu cywilnego (Dz. U.
-z 2001 r. Nr 71, poz. 733) zart. 64 ust. 1 i2 wzwiàzku zart. 31 ust. 3 Konstytucji RP,
-2. art. 35 ust. 1 ustawy wymienionej wpkt 1 wzakresie, wjakim wy∏àcza on uprawnienie do lokalu sopoz. 984) jest niezgodny z art. 64 ust. 1 2 wzwiàzku zart. 31 ust. 3 Konstytucji RP,
-2) art. 35 ust. 1 ustawy wymienionej wpkt 1 wzakresie, wjakim wy∏àcza uprawnienie do lokalu socjalnego osób, októrych mowa wart. 14 ust. 4 tej ustawy, je˝eli zosta∏y one obj´te orzeczeniem sàdowym nakazujàcym opró˝nienie lokalu wydanym w okresie od dnia 31 grudnia 2000 r. do dnia wejÊcia w˝ycie ustawy, aorzeczenie nie zosta∏o wykonane do tego dnia, jest niezgodny z art. 32 wzwiàzku zart. 2 Konstytucji RP.
-Marek Safjan Teresa D´bowska- Marian Grzybowski -Romanowska Wies∏aw Johann Biruta Lewaszkiewicz-Petrykowska Ewa ¸´towska Marek Mazurkiewicz Andrzej Màczyƒski Jadwiga Skórzewska-¸osiak Jerzy St´pieƒ Miros∏aw Wyrzykowski Marian Zdyb Bohdan Zdziennicki 1383 WYROK TRYBUNA¸U KONSTYTUCYJNEGO zdnia 2 paêdziernika 2002 r.
+z 2001 r. Nr 71, poz. 733) zart. 64 ust. 1 i2 wzwiązku zart. 31 ust. 3 Konstytucji RP,
+2. art. 35 ust. 1 ustawy wymienionej wpkt 1 wzakresie, wjakim wyłącza on uprawnienie do lokalu sopoz. 984) jest niezgodny z art. 64 ust. 1 2 wzwiązku zart. 31 ust. 3 Konstytucji RP,
+2) art. 35 ust. 1 ustawy wymienionej wpkt 1 wzakresie, wjakim wyłącza uprawnienie do lokalu socjalnego osób, októrych mowa wart. 14 ust. 4 tej ustawy, jeżeli zostały one objęte orzeczeniem sądowym nakazującym opróżnienie lokalu wydanym w okresie od dnia 31 grudnia 2000 r. do dnia wejścia wżycie ustawy, aorzeczenie nie zostało wykonane do tego dnia, jest niezgodny z art. 32 wzwiązku zart. 2 Konstytucji RP.
+Marek Safjan Teresa Dębowska- Marian Grzybowski -Romanowska Wiesław Johann Biruta Lewaszkiewicz-Petrykowska Ewa Ęętowska Marek Mazurkiewicz Andrzej Mączyński Jadwiga Skórzewska-Ęosiak Jerzy Stępień Mirosław Wyrzykowski Marian Zdyb Bohdan Zdziennicki 1383 WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 2 paêdziernika 2002 r.
 sygn. akt K. 48/01.
-ISSN 0867-3411 Cena brutto 12,70 z∏ Szanowni Paƒstwo!
+ISSN 0867-3411 Cena brutto 12,70 zł Szanowni Państwo!
 Ceny brutto prenumeraty na 2002 r. (w tym 7% VAT):
 

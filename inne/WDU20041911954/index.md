@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# o zmianie ustawy o emeryturach rentach z Funduszu Ubezpieczeƒ Spo∏ecznych oraz niektórych innych ustaw
+# o zmianie ustawy o emeryturach rentach z Funduszu Ubezpieczeń Społecznych oraz niektórych innych ustaw
 
 *USTAWA z 16 lipca 2004 r.*
 
@@ -26,15 +26,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041911954) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1954/text.pdf) |
 
-**Art. 1.** W ustawie z 17 grudnia 1998 r. o emeryturach rentach z Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. z 2004 r. 39, poz. 353, z póên. zm. ) wprowadza si´ nast´pujàce zmiany: 19 otrzymuje brzmienie: „Art. 19. Kwota bazowa wynosi 100 % przeci´tnego wynagrodzenia pomniejszonego o potràcone ubezpieczonych sk∏adki na ubezpieczenia spo∏eczne, okreÊlone przepisach o systemie ubezpieczeƒ spo∏ecznych, poprzednim kalendarzowym.”; 4. Waloryzacja obejmuje emerytury irenty przyznane przed terminem waloryzacji. 5. Je˝eli przez okres 2 lat kalendarzowych nast´pujàcych po kalendarzowym, którym przeprowadzono ostatnià waloryzacj´, wskaênik, o którym mowa ust. 1, nie osiàgnà∏ co najmniej 105,0 %, waloryzacj´ przeprowadza si´ 1 marca nast´pnego kalendarzowego.”; 19a otrzymuje brzmienie: „Art. 19a. Kwota bazowa jest ustalana corocznie na podstawie 19 obowiàzuje 1 marca ka˝dego kalendarzowego do koƒca lutego nast´pnego kalendarzowego.”;
+**Art. 1.** W ustawie z 17 grudnia 1998 r. o emeryturach rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. z 2004 r. 39, poz. 353, z póên. zm. ) wprowadza się następujące zmiany: 19 otrzymuje brzmienie: ŃArt. 19. Kwota bazowa wynosi 100 % przeciętnego wynagrodzenia pomniejszonego o potrącone ubezpieczonych składki na ubezpieczenia społeczne, określone przepisach o systemie ubezpieczeń społecznych, poprzednim kalendarzowym.”; 4. Waloryzacja obejmuje emerytury irenty przyznane przed terminem waloryzacji. 5. Jeżeli przez okres 2 lat kalendarzowych następujących po kalendarzowym, którym przeprowadzono ostatnią waloryzację, wskaênik, o którym mowa ust. 1, nie osiągnął co najmniej 105,0 %, waloryzację przeprowadza się 1 marca następnego kalendarzowego.”; 19a otrzymuje brzmienie: ŃArt. 19a. Kwota bazowa jest ustalana corocznie na podstawie 19 obowiązuje 1 marca każdego kalendarzowego do końca lutego następnego kalendarzowego.”;
 
-**Art. 3.** Wustawie zdnia 10 grudnia 1993 r. ozaopatrzeniu emerytalnym ˝o∏nierzy zawodowych oraz ich rodzin (Dz. U. z2004 r. 8, poz. 66 121, poz. 1264) 6 uchyla si´ pkt
+**Art. 3.** Wustawie zdnia 10 grudnia 1993 r. ozaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z2004 r. 8, poz. 66 121, poz. 1264) 6 uchyla się pkt
 
-**Art. 4.** Wustawie zdnia 18 lutego 1994 r. ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej S∏u˝by Wi´ziennej oraz ich rodzin (Dz. U. z 2004 r. 8, poz. 67 121, poz. 1264) 6 uchyla si´ pkt
+**Art. 4.** Wustawie zdnia 18 lutego 1994 r. ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. 8, poz. 67 121, poz. 1264) 6 uchyla się pkt
 
-**Art. 5.** Pierwszej po dniu wejÊcia ˝ycie ustawy 3. Waloryzacji podstawy wymiaru renty inwalidzkiej dokonuje si´ po dniu 1 marca 2007 r. wterminach przewidzianych wprzepisach oemeryturach rentach z Funduszu Ubezpieczeƒ Spo∏ecznych.”; waloryzacji Êwiadczeƒ myÊl przepisów wymienionych wart. 1 dokonuje si´ 1 marca kalendarzowego nast´pujàcego po kalendarzowym, którym wskaênik cen towarów us∏ug konsumpcyjnych ogó∏em stosunku do 2003 wyniesie co najmniej 105,0 %.
+**Art. 5.** Pierwszej po dniu wejścia życie ustawy 3. Waloryzacji podstawy wymiaru renty inwalidzkiej dokonuje się po dniu 1 marca 2007 r. wterminach przewidzianych wprzepisach oemeryturach rentach z Funduszu Ubezpieczeń Społecznych.”; waloryzacji świadczeń myśl przepisów wymienionych wart. 1 dokonuje się 1 marca kalendarzowego następującego po kalendarzowym, którym wskaênik cen towarów usług konsumpcyjnych ogółem stosunku do 2003 wyniesie co najmniej 105,0 %.
 
-**Art. 6.** Ustawa wchodzi ˝ycie po up∏ywie 14 dni og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1955 USTAWA z 23 lipca 2004 r. o ratyfikacji Konwencji o uproszczonej procedurze ekstradycyjnej mi´dzy Paƒstwami Cz∏onkowskimi Unii Europejskiej, sporzàdzonej Brukseli 10 marca 1995 r.
+**Art. 6.** Ustawa wchodzi życie po upływie 14 dni ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1955 USTAWA z 23 lipca 2004 r. o ratyfikacji Konwencji o uproszczonej procedurze ekstradycyjnej między Państwami Członkowskimi Unii Europejskiej, sporządzonej Brukseli 10 marca 1995 r.
 
-**Art. 1.** Wyra˝a si´ zgod´ na dokonanie przez Prezy- Art. Ustawa wchodzi ˝ycie po up∏ywie 14 dni denta Rzeczypospolitej Polskiej ratyfikacji Konwencji og∏oszenia. o uproszczonej procedurze ekstradycyjnej mi´dzy Paƒstwami Cz∏onkowskimi Unii Europejskiej, sporzàdzonej Brukseli 10 marca 1995 r. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1956 USTAWA z 30 lipca 2004 r. o mi´dzynarodowym obrocie odpadami ———————
+**Art. 1.** Wyraża się zgodę na dokonanie przez Prezy- Art. Ustawa wchodzi życie po upływie 14 dni denta Rzeczypospolitej Polskiej ratyfikacji Konwencji ogłoszenia. o uproszczonej procedurze ekstradycyjnej między Państwami Członkowskimi Unii Europejskiej, sporządzonej Brukseli 10 marca 1995 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1956 USTAWA z 30 lipca 2004 r. o międzynarodowym obrocie odpadami ———————
 

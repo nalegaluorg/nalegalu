@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# b) po ust. 7 dodaje ust. 8 wbrzmieniu: „8. W przypadku zmian podziale terytorialnym paƒstwa, których skutki okreÊla art. 197 ust. 3 5 ustawy, o której mowa ust. 7, stosuje odpowiednio przepisy ust. 2—6 z uwzgl´dnieniem zasady, ˝e osob´, która tym okresie pe∏ni funkcj´ organów województwa, wyznacza dla ka˝dego z województw powsta∏ych wwyniku zmian wpodziale terytorialnym paƒstwa.”
+# b) po ust. 7 dodaje ust. 8 wbrzmieniu: Ń8. W przypadku zmian podziale terytorialnym państwa, których skutki określa art. 197 ust. 3 5 ustawy, o której mowa ust. 7, stosuje odpowiednio przepisy ust. 2—6 z uwzględnieniem zasady, że osobę, która tym okresie pełni funkcję organów województwa, wyznacza dla każdego z województw powstałych wwyniku zmian wpodziale terytorialnym państwa.”
 
 | Pole | Wartość |
 |---|---|
@@ -24,24 +24,24 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010890972) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/972/text.pdf) |
 
-**Art. 5.** Wustawie zdnia 16 lipca 1998 r. Ordynacja wyborcza do rad gmin, rad powiatów sejmików województw (Dz. U. 95, poz. 602 iNr 160, poz. 1060 z2001 r. 45, poz. 497) wart. 197 wprowadza nast´pujàce zmiany:
+**Art. 5.** Wustawie zdnia 16 lipca 1998 r. Ordynacja wyborcza do rad gmin, rad powiatów sejmików województw (Dz. U. 95, poz. 602 iNr 160, poz. 1060 z2001 r. 45, poz. 497) wart. 197 wprowadza następujące zmiany:
 
-**Art. 6.** Wustawie zdnia 11 kwietnia 2001 r. ozmianie ustaw: osamorzàdzie gminnym, osamorzàdzie powiatowym, o samorzàdzie województwa, o administracji rzàdowej województwie o zmianie niektórych innych ustaw (Dz. U. 45, poz. 497) po art. 15 dodaje art. 15aiart. 15bwbrzmieniu: „Art. 15a. Do koƒca kadencji organów stanowiàcych jednostek samorzàdu terytorialnego, wczasie której ustawa wesz∏a ˝ycie, przepis art. 27 ust. 1 ustawy, októrej mowa wart.2, wzakresie ustalajàcym liczb´ cz∏onków zarzàdu powiatu ma zastosowanie wbrzmieniu dotychczasowym.
+**Art. 6.** Wustawie zdnia 11 kwietnia 2001 r. ozmianie ustaw: osamorządzie gminnym, osamorządzie powiatowym, o samorządzie województwa, o administracji rządowej województwie o zmianie niektórych innych ustaw (Dz. U. 45, poz. 497) po art. 15 dodaje art. 15aiart. 15bwbrzmieniu: ŃArt. 15a. Do końca kadencji organów stanowiących jednostek samorządu terytorialnego, wczasie której ustawa weszła życie, przepis art. 27 ust. 1 ustawy, októrej mowa wart.2, wzakresie ustalającym liczbę członków zarządu powiatu ma zastosowanie wbrzmieniu dotychczasowym.
 
-**Art. 15b.** W przypadku zmian podziale terytorialnym paƒstwa dokonanych na podstawie staje wy∏àczony obszar stanowiàcy cz´Êç okr´- oceny, o której mowa art. 7 ust. 1 ustagu wyborczego, okr´g lub wi´cej okr´gów wy- wy, o której mowa art. 9, wyborów do borczych dla wyborów danej rady celu w∏à- nowych rad jednostek samorzàdu terytoczenia tego obszaru do tworzonej nowej jed- rialnego obj´tych zmianami nie przepronostki,to mandat radnego stale zamieszka∏ego wadza przed koƒcem kadencji organów lub wybranego na tym obszarze wygasa zmo- stanowiàcych jednostek samorzàdu terytocy prawa,” rialnego, czasie której zmiany wesz∏y
+**Art. 15b.** W przypadku zmian podziale terytorialnym państwa dokonanych na podstawie staje wyłączony obszar stanowiący część okrę- oceny, o której mowa art. 7 ust. 1 ustagu wyborczego, okręg lub więcej okręgów wy- wy, o której mowa art. 9, wyborów do borczych dla wyborów danej rady celu włą- nowych rad jednostek samorządu terytoczenia tego obszaru do tworzonej nowej jed- rialnego objętych zmianami nie przepronostki,to mandat radnego stale zamieszkałego wadza przed końcem kadencji organów lub wybranego na tym obszarze wygasa zmo- stanowiących jednostek samorządu terytocy prawa,” rialnego, czasie której zmiany weszły
 
-**Art. 7.** Ustawa wchodzi po up∏ywie 14 dni
+**Art. 7.** Ustawa wchodzi po upływie 14 dni
 
-**Art. 1.** Wustawie zdnia 14 grudnia 1994 r. ozatrud- a) wpkt 1: nieniu przeciwdzia∏aniu bezrobociu (Dz. U. z 2001 r. lit. a) otrzymuje brzmienie: Nr6, poz. 56 iNr 42, poz. 475) wprowadza nast´pujàce zmiany: „a) absolwentem, który ucz´szcza∏ systemie dziennym do ponadpodstawowej
+**Art. 1.** Wustawie zdnia 14 grudnia 1994 r. ozatrud- a) wpkt 1: nieniu przeciwdziałaniu bezrobociu (Dz. U. z 2001 r. lit. a) otrzymuje brzmienie: Nr6, poz. 56 iNr 42, poz. 475) wprowadza następujące zmiany: Ńa) absolwentem, który uczęszczał systemie dziennym do ponadpodstawowej
 
 **Art. 3.**
 
-1. Program b´dzie finansowany z bud˝etu bezpieczeƒstwa paƒstwa (Dz. U. 80, poz. 903 paƒstwa. iz2000 r. 119, poz. 1250) wprowadza nast´pujàce zmiany:
+1. Program będzie finansowany z budżetu bezpieczeństwa państwa (Dz. U. 80, poz. 903 państwa. iz2000 r. 119, poz. 1250) wprowadza następujące zmiany:
 
-2. W latach 2002—2010 wydatki bud˝etu paƒstwa na realizacj´ programu nie mogà przekraczaç rocznie 1) wart. 4 ust. otrzymuje brzmienie: 0,05% PKB. W latach 2011—2015 wydatki te zostanà „2. Umowa dostawy uzbrojenia lub sprz´tu wojponiesione zgodnie zustawà bud˝etowà. skowego, którà zawar∏ zagraniczny dostawca, staje wa˝na z chwilà zawarcia przez niego
+2. W latach 2002—2010 wydatki budżetu państwa na realizację programu nie mogą przekraczać rocznie 1) wart. 4 ust. otrzymuje brzmienie: 0,05% PKB. W latach 2011—2015 wydatki te zostaną Ń2. Umowa dostawy uzbrojenia lub sprzętu wojponiesione zgodnie zustawą budżetową. skowego, którą zawarł zagraniczny dostawca, staje ważna z chwilą zawarcia przez niego
 
-3. Rozpocz´cie realizacji programu nastàpi umowy offsetowej; umowy te zawierane sà 2001 r., natomiast wyposa˝anie samoloty Si∏ wtym samym dniu.”; Zbrojnych Rzeczypospolitej Polskiej zakoƒczy do dnia 31 grudnia 2006 r. 2) wart. 11 skreÊla ust. 3.
+3. Rozpoczęcie realizacji programu nastąpi umowy offsetowej; umowy te zawierane są 2001 r., natomiast wyposażanie samoloty Sił wtym samym dniu.”; Zbrojnych Rzeczypospolitej Polskiej zakończy do dnia 31 grudnia 2006 r. 2) wart. 11 skreśla ust. 3.
 
-4. Na sfinansowanie realizacji poszczególnych eta- Art. 7. Ustawa wchodzi po up∏ywie 14 dni pów programu mo˝e zostaç udzielona zaliczka, sto- od dnia og∏oszenia. sownie do wysokoÊci wydatków zaplanowanych na dany rok. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA zdnia 22 czerwca 2001 r. ozmianie ustawy ozatrudnieniu iprzeciwdzia∏aniu bezrobociu ustawy opomocy spo∏ecznej.
+4. Na sfinansowanie realizacji poszczególnych eta- Art. 7. Ustawa wchodzi po upływie 14 dni pów programu może zostać udzielona zaliczka, sto- od dnia ogłoszenia. sownie do wysokości wydatków zaplanowanych na dany rok. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 22 czerwca 2001 r. ozmianie ustawy ozatrudnieniu iprzeciwdziałaniu bezrobociu ustawy opomocy społecznej.
 
 

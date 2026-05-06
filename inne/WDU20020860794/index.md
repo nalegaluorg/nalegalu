@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Na podstawie art. 85g 2 ustawy dnia § 4. Osoba prowadzàca post´powanie nadanie 25 czerwca 1997 cudzoziemcach 2001 statusu uchodêcy powinna umo˝liwiç cudzoziemcowi 127, 1400 oraz z2002 41, 365,Nr 74, z∏o˝enie zeznaƒ i oÊwiadczeƒ warunkach zapewnia676 i 81, 731) zarzàdza si´, co nast´puje: jàcych swobod´ wypowiedzi.
+# Na podstawie art. 85g 2 ustawy dnia § 4. Osoba prowadząca postępowanie nadanie 25 czerwca 1997 cudzoziemcach 2001 statusu uchodêcy powinna umożliwić cudzoziemcowi 127, 1400 oraz z2002 41, 365,Nr 74, złożenie zeznań i oświadczeń warunkach zapewnia676 i 81, 731) zarządza się, co następuje: jących swobodę wypowiedzi.
 
 | Pole | Wartość |
 |---|---|
@@ -24,39 +24,39 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020860794) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/794/text.pdf) |
 
-§ 1. 1. Wpost´powaniu onadanie statusu uchodê- § 5. 1. Je˝eli stan psychofizyczny cudzoziemca tego cy wobec cudzoziemców, stosunku do których za- wymaga, z∏o˝enie przez niego zeznaƒ ioÊwiadczeƒ pochodzi domniemanie, i˝ byli ofiarami przest´pstw lub winno odbyç zudzia∏em lekarza lub psychologa.
-przemocy, albo b´dàcych niepe∏nosprawnymi, czynnoÊci dokonuje miejscu ich pobytu, je˝eli jest to 2. Na wniosek lekarza lub psychologa bioràcego mo˝liwe iwymagajà tego okolicznoÊci, wjakich cudzo- udzia∏ czynnoÊciach, których mowa 1, osoziemiec znajduje. ba prowadzàca post´powanie jest obowiàzana prze2. Przy wyznaczaniu terminów czynnoÊci, októrych mowa 1, uwzgl´dnia terminy korzystania przez cudzoziemca ze Êwiadczeƒ zdrowotnych.
-3. Termin sk∏adania przez cudzoziemca zeznaƒ i oÊwiadczeƒ nale˝y dostosowaç do jego stanu psychicznego ifizycznego.
-§ 2. Wpost´powaniu onadaniu statusu uchodêcy, wmiar´ mo˝liwoÊci, zapewnia si´:
-1) przeprowadzanie czynnoÊci przez osob´ tej samej p∏ci co cudzoziemiec,
-2) udzia∏ t∏umacza tej samej p∏ci co cudzoziemiec.
-§ 3. CzynnoÊci wobec cudzoziemców, których mowa w§ 1, przeprowadza zposzanowaniem godnoÊci cudzoziemca oraz zachowaniem szczególnego taktu.
-rwaç te czynnoÊci do czasu ustania przyczyn, powodu których zosta∏y one przerwane.
-§ 6. Cudzoziemcowi, którym mowa § 1, umieszczonemu woÊrodku dla cudzoziemców ubiegajàcych nadanie statusu uchodêcy zapewnia si´, gdy jego stan fizyczny lub psychiczny tego wymaga, przewóz wcelu:
-1) z∏o˝enia zeznaƒ i oÊwiadczeƒ post´powaniu onadanie statusu uchodêcy,
-2) skorzystania ze Êwiadczeƒ zdrowotnych.
-§ 7. Rozporzàdzenie wchodzi ˝ycie po up∏ywie 7 dni od dnia og∏oszenia.
-Minister Spraw Wewn´trznych iAdministracji: K. Janik WYROK TRYBUNA¸U KONSTYTUCYJNEGO zdnia 20 czerwca 2002 sygn. akt K.33/01.
-Trybuna∏ Konstytucyjny wsk∏adzie: Biruta Lewaszkiewicz-Petrykowska, Marek Safjan przewodniczàcy, Ewa ¸´towska, Jerzy Ciemniewski, Marek Mazurkiewicz, Teresa D´bowska-Romanowska, Andrzej Màczyƒski sprawozdawca, Marian Grzybowski, Janusz Niemcewicz, Wies∏aw Johann, Jadwiga Skórzewska-¸osiak, na rozprawie wdniu 20 czerwca 2002 r., wniosku Rzecznika Praw Obywatelskich ozbadanie zgodnoÊci:
-a) art. 50 5bustawy zdnia 8 stycznia 1993 opodatku od towarów i us∏ug oraz podatku akcyzowym 11, 50 ze zm.), wzakresie, wjakim ogranicza nak∏ad do 15.000 egzemplarzy, zart.20 Konstytucji,
-b) art. 50 7 ustawy powo∏anej punkcie a) zart. 92 iart. 217 Konstytucji,
-c) rozporzàdzenia Ministra Finansów dnia 22 grudnia 2000 sprawie wykazu czasopism specjalistycznych, do których stosuje stawk´ podatku od towarów i us∏ug wysokoÊci 0%, oraz warunRzeczypospolitej Polskiej.
-3. Rozporzàdzenie Ministra Finansów dnia 22 grudnia 2000 sprawie wykazu czasopism specjalistycznych, do których stosuje stawk´ podatku od towarów i us∏ug wysokoÊci 0%, oraz warunków jej stosowania 121, 1297, z2001 51, 533 i 2002 35, 326), jest niezgodne art. 92 i art. 217 Konstytucji Rzeczypospolitej Polskiej.
+§ 1. 1. Wpostępowaniu onadanie statusu uchodê- § 5. 1. Jeżeli stan psychofizyczny cudzoziemca tego cy wobec cudzoziemców, stosunku do których za- wymaga, złożenie przez niego zeznań ioświadczeń pochodzi domniemanie, iż byli ofiarami przestępstw lub winno odbyć zudziałem lekarza lub psychologa.
+przemocy, albo będących niepełnosprawnymi, czynności dokonuje miejscu ich pobytu, jeżeli jest to 2. Na wniosek lekarza lub psychologa biorącego możliwe iwymagają tego okoliczności, wjakich cudzo- udział czynnościach, których mowa 1, osoziemiec znajduje. ba prowadząca postępowanie jest obowiązana prze2. Przy wyznaczaniu terminów czynności, októrych mowa 1, uwzględnia terminy korzystania przez cudzoziemca ze świadczeń zdrowotnych.
+3. Termin składania przez cudzoziemca zeznań i oświadczeń należy dostosować do jego stanu psychicznego ifizycznego.
+§ 2. Wpostępowaniu onadaniu statusu uchodêcy, wmiarę możliwości, zapewnia się:
+1) przeprowadzanie czynności przez osobę tej samej płci co cudzoziemiec,
+2) udział tłumacza tej samej płci co cudzoziemiec.
+§ 3. Czynności wobec cudzoziemców, których mowa w§ 1, przeprowadza zposzanowaniem godności cudzoziemca oraz zachowaniem szczególnego taktu.
+rwać te czynności do czasu ustania przyczyn, powodu których zostały one przerwane.
+§ 6. Cudzoziemcowi, którym mowa § 1, umieszczonemu wośrodku dla cudzoziemców ubiegających nadanie statusu uchodêcy zapewnia się, gdy jego stan fizyczny lub psychiczny tego wymaga, przewóz wcelu:
+1) złożenia zeznań i oświadczeń postępowaniu onadanie statusu uchodêcy,
+2) skorzystania ze świadczeń zdrowotnych.
+§ 7. Rozporządzenie wchodzi życie po upływie 7 dni od dnia ogłoszenia.
+Minister Spraw Wewnętrznych iAdministracji: K. Janik WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 20 czerwca 2002 sygn. akt K.33/01.
+Trybunał Konstytucyjny wskładzie: Biruta Lewaszkiewicz-Petrykowska, Marek Safjan przewodniczący, Ewa Ęętowska, Jerzy Ciemniewski, Marek Mazurkiewicz, Teresa Dębowska-Romanowska, Andrzej Mączyński sprawozdawca, Marian Grzybowski, Janusz Niemcewicz, Wiesław Johann, Jadwiga Skórzewska-Ęosiak, na rozprawie wdniu 20 czerwca 2002 r., wniosku Rzecznika Praw Obywatelskich ozbadanie zgodności:
+a) art. 50 5bustawy zdnia 8 stycznia 1993 opodatku od towarów i usług oraz podatku akcyzowym 11, 50 ze zm.), wzakresie, wjakim ogranicza nakład do 15.000 egzemplarzy, zart.20 Konstytucji,
+b) art. 50 7 ustawy powołanej punkcie a) zart. 92 iart. 217 Konstytucji,
+c) rozporządzenia Ministra Finansów dnia 22 grudnia 2000 sprawie wykazu czasopism specjalistycznych, do których stosuje stawkę podatku od towarów i usług wysokości 0%, oraz warunRzeczypospolitej Polskiej.
+3. Rozporządzenie Ministra Finansów dnia 22 grudnia 2000 sprawie wykazu czasopism specjalistycznych, do których stosuje stawkę podatku od towarów i usług wysokości 0%, oraz warunków jej stosowania 121, 1297, z2001 51, 533 i 2002 35, 326), jest niezgodne art. 92 i art. 217 Konstytucji Rzeczypospolitej Polskiej.
 Ponadto postanawia: ków jej stosowania 121, 1297 ze zm.) zart. 2, art. 92 iart. 217 Konstytucji, orzeka:
-1. Art. 50 5b ustawy dnia 8 stycznia 1993 podatku od towarów i us∏ug oraz podatku akcyzowym 11, 50, 28, 127 i 129, 599, 1994 132, 670, 1995 44, 231 i 142, 702 i 703, 1996 137, 640, 1997 111, 722, 123, 776 i 780, 137, 926, 141, 943 i 162, poz.1104, z1998 139, 905 iNr 161, 1076, 1999 50, 499, 57, 596 i 95, poz.1100, z2000 68, 805 iNr 105, 1107, z2001 12, 92, 39, 459, 56, 580, 63, 639, 80, 858, 90, 995, 106, 1150 i 122, 1324 oraz 2002 19, 185 i 41, 365), dodany przez art. pkt 14 umorzyç post´powanie wcz´Êci dotyczàcej zgodnoÊci rozporzàdzenia Ministra Finansów dnia 22 grudnia 2000 sprawie wykazu czasopism specjalistycznych, do których stosuje stawk´ podatku od towarów i us∏ug wysokoÊci 0%, oraz warunków jej stosowania 121, 1297, z2001 51, 533 i 2002 35, 326) art. 2 Konstytucji Rzeczypospolitej Polskiej powodu zb´dnoÊci wydania wyroku.
-Marek Safjan Jerzy Ciemniewski Teresa D´bowska-Romanowska Marian Grzybowski Wies∏aw Johann Biruta Lewaszkiewicz-Petrykowska Ewa ¸´towska Marek Mazurkiewicz Andrzej Màczyƒski Janusz Niemcewicz Jadwiga Skórzewska-¸osiak Jerzy St´pieƒ Marian Zdyb Bohdan Zdziennicki ISSN 0867-3411 Cena brutto 4,70 z∏ 121, 591 zpóên. zmianami) jednostki, októrych mowa wart. 64 cytowanej ustawy, amianowicie:
-1. banki oraz zak∏ady ubezpieczeƒ,
-2. jednostki dzia∏ajàce na podstawie przepisów publicznym obrocie papierami wartoÊciowymi i funduszach powierniczych oraz przepisów ofunduszach inwestycyjnych,
-3. jednostki dzia∏ajàce na podstawie przepisów oorganizacji ifunkcjonowaniu funduszy emerytalnych,
-4. spó∏ki akcyjne,
-5. pozosta∏e jednostki, które wpoprzedzajàcym roku obrotowym, za który sporzàdzono sprawozdania finansowe, spe∏ni∏y co najmniej dwa znast´pujàcych warunków:
-a) Êrednioroczne zatrudnienie wprzeliczeniu na pe∏ne etaty wynios∏o co najmniej 50 osób,
-b) suma aktywów bilansu na koniec roku obrotowego stanowi∏a równowartoÊç wwalucie polskiej co najmniej 2 500 000 EURO,
-c) przychody netto ze sprzeda˝y towarów iproduktów oraz operacji finansowych za rok obrotowy stanowi∏y równowartoÊç wwalucie polskiej co najmniej 5 000 000 EURO, zobowiàzane sà do og∏oszenia rocznego sprawozdania finansowego „Monitorze Polskim B”.
-Kierownik jednostki, ciàgu 15 dni od dnia zatwierdzenia sprawozdania finansowego, obowiàzany jest z∏o˝yç do publikacji: • bilans, • rachunek zysków istrat, • sprawozdanie zprzep∏ywów Êrodków pieni´˝nych za rok obrotowy, • opini´ bieg∏ego rewidenta, • odpis uchwa∏y bàdê postanowienia organu zatwierdzajàcego zatwierdzeniu sprawozdania finansowego ipodziale zysku lub pokryciu straty.
-Nale˝noÊç za us∏ug´ zale˝na jest od obj´toÊci sprawozdania.
-Koszt strony og∏oszeniowej w„Monitorze Polskim B” wynosi 522,50 z∏ + VAT.
-Prosimy oza∏àczenie oÊwiadczenia upowa˝niajàcego do wystawienia faktury VAT bez podpisu odbiorcy.
-Nie przyjmujemy przedp∏at. Nale˝noÊç prosimy uiÊciç wciàgu 14 dni od dnia otrzymania wyceny.
-Nasz adres: Wydzia∏ Wydawnictw iPoligrafii GP KPRM ul. Powsiƒska 69/71, 02-903 Warszawa tel. 0-prefix-22 694-67-36
+1. Art. 50 5b ustawy dnia 8 stycznia 1993 podatku od towarów i usług oraz podatku akcyzowym 11, 50, 28, 127 i 129, 599, 1994 132, 670, 1995 44, 231 i 142, 702 i 703, 1996 137, 640, 1997 111, 722, 123, 776 i 780, 137, 926, 141, 943 i 162, poz.1104, z1998 139, 905 iNr 161, 1076, 1999 50, 499, 57, 596 i 95, poz.1100, z2000 68, 805 iNr 105, 1107, z2001 12, 92, 39, 459, 56, 580, 63, 639, 80, 858, 90, 995, 106, 1150 i 122, 1324 oraz 2002 19, 185 i 41, 365), dodany przez art. pkt 14 umorzyć postępowanie wczęści dotyczącej zgodności rozporządzenia Ministra Finansów dnia 22 grudnia 2000 sprawie wykazu czasopism specjalistycznych, do których stosuje stawkę podatku od towarów i usług wysokości 0%, oraz warunków jej stosowania 121, 1297, z2001 51, 533 i 2002 35, 326) art. 2 Konstytucji Rzeczypospolitej Polskiej powodu zbędności wydania wyroku.
+Marek Safjan Jerzy Ciemniewski Teresa Dębowska-Romanowska Marian Grzybowski Wiesław Johann Biruta Lewaszkiewicz-Petrykowska Ewa Ęętowska Marek Mazurkiewicz Andrzej Mączyński Janusz Niemcewicz Jadwiga Skórzewska-Ęosiak Jerzy Stępień Marian Zdyb Bohdan Zdziennicki ISSN 0867-3411 Cena brutto 4,70 zł 121, 591 zpóên. zmianami) jednostki, októrych mowa wart. 64 cytowanej ustawy, amianowicie:
+1. banki oraz zakłady ubezpieczeń,
+2. jednostki działające na podstawie przepisów publicznym obrocie papierami wartościowymi i funduszach powierniczych oraz przepisów ofunduszach inwestycyjnych,
+3. jednostki działające na podstawie przepisów oorganizacji ifunkcjonowaniu funduszy emerytalnych,
+4. spółki akcyjne,
+5. pozostałe jednostki, które wpoprzedzającym roku obrotowym, za który sporządzono sprawozdania finansowe, spełniły co najmniej dwa znastępujących warunków:
+a) średnioroczne zatrudnienie wprzeliczeniu na pełne etaty wyniosło co najmniej 50 osób,
+b) suma aktywów bilansu na koniec roku obrotowego stanowiła równowartość wwalucie polskiej co najmniej 2 500 000 EURO,
+c) przychody netto ze sprzedaży towarów iproduktów oraz operacji finansowych za rok obrotowy stanowiły równowartość wwalucie polskiej co najmniej 5 000 000 EURO, zobowiązane są do ogłoszenia rocznego sprawozdania finansowego ŃMonitorze Polskim B”.
+Kierownik jednostki, ciągu 15 dni od dnia zatwierdzenia sprawozdania finansowego, obowiązany jest złożyć do publikacji: • bilans, • rachunek zysków istrat, • sprawozdanie zprzepływów środków pieniężnych za rok obrotowy, • opinię biegłego rewidenta, • odpis uchwały bądê postanowienia organu zatwierdzającego zatwierdzeniu sprawozdania finansowego ipodziale zysku lub pokryciu straty.
+Należność za usługę zależna jest od objętości sprawozdania.
+Koszt strony ogłoszeniowej wŃMonitorze Polskim B” wynosi 522,50 zł + VAT.
+Prosimy ozałączenie oświadczenia upoważniającego do wystawienia faktury VAT bez podpisu odbiorcy.
+Nie przyjmujemy przedpłat. Należność prosimy uiścić wciągu 14 dni od dnia otrzymania wyceny.
+Nasz adres: Wydział Wydawnictw iPoligrafii GP KPRM ul. Powsińska 69/71, 02-903 Warszawa tel. 0-prefix-22 694-67-36
 

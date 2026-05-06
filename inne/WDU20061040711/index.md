@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# 6. Termin zatarcia kary zmienionej w nast´pstwie wznowienia post´powania liczy si´ od dnia uprawomocnienia si´ orzeczenia o wymierzeniu nowej kary.
+# 6. Termin zatarcia kary zmienionej w następstwie wznowienia postępowania liczy się od dnia uprawomocnienia się orzeczenia o wymierzeniu nowej kary.
 
 | Pole | Wartość |
 |---|---|
@@ -24,365 +24,377 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061040711) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/711/text.pdf) |
 
-Na poczet okresu zatarcia nowej kary zalicza si´ okres zatarcia, który up∏ynà∏ od uprawomocnienia si´ orzeczenia kary dotychczasowej.
+Na poczet okresu zatarcia nowej kary zalicza się okres zatarcia, który upłynął od uprawomocnienia się orzeczenia kary dotychczasowej.
 
-**Art. 143.** Na orzeczenie koƒczàce post´powanie dyscyplinarne wydane wwyniku rozpatrzenia odwo∏ania funkcjonariuszowi przys∏uguje skarga do sàdu administracyjnego.
+**Art. 143.** Na orzeczenie kończące postępowanie dyscyplinarne wydane wwyniku rozpatrzenia odwołania funkcjonariuszowi przysługuje skarga do sądu administracyjnego.
 
-**Art. 144.** Minister Obrony Narodowej okreÊli, w drodze rozporzàdzeƒ, odr´bnie dla SKW i SWW szczegó∏owy tryb wykonywania czynnoÊci zwiàzanych post´powaniem dyscyplinarnym w stosunku do funkcjonariuszy, prze∏o˝onych którzy posiadajà w∏adz´ dyscyplinarnà, w tym obieg dokumentów zwiàzanych post´powaniem dyscyplinarnym, prostowanie b∏´dów pisarskich i rachunkowych oraz innych oczywistych omy∏ek, oraz okreÊli wzory postanowieƒ i innych dokumentów sporzàdzanych w post´powaniu dyscyplinarnym, majàc na wzgl´dzie sprawnoÊç prowadzonego post´powania. (Dz.U. 88, 553, zpóên. zm.
+**Art. 144.** Minister Obrony Narodowej określi, w drodze rozporządzeń, odrębnie dla SKW i SWW szczegółowy tryb wykonywania czynności związanych postępowaniem dyscyplinarnym w stosunku do funkcjonariuszy, przełożonych którzy posiadają władzę dyscyplinarną, w tym obieg dokumentów związanych postępowaniem dyscyplinarnym, prostowanie błędów pisarskich i rachunkowych oraz innych oczywistych omyłek, oraz określi wzory postanowień i innych dokumentów sporządzanych w postępowaniu dyscyplinarnym, mając na względzie sprawność prowadzonego postępowania. (Dz.U. 88, 553, zpóên. zm.
 
-**Art. 145.** Przepisy art. 115 § 18 oraz art. 318 i 344 ustawy dnia 6 czerwca 1997 Kodeks karny ) stosuje si´ odpowiednio do funkcjonariuszy SKW oraz SWW. Rozdzia∏ 7 Przepis koƒcowy
+**Art. 145.** Przepisy art. 115 § 18 oraz art. 318 i 344 ustawy dnia 6 czerwca 1997 Kodeks karny ) stosuje się odpowiednio do funkcjonariuszy SKW oraz SWW.
 
-**Art. 146.** Ustawa wchodzi w˝ycie wterminie okreÊlonym wustawie zdnia 9 czerwca 2006 Przepisy wprowadzajàce ustaw´ o S∏u˝bie Kontrwywiadu Wojskowego oraz S∏u˝bie Wywiadu Wojskowego oraz ustaw´ o s∏u˝bie funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski USTAWA dnia 9 czerwca 2006 Przepisy wprowadzajàce ustaw´ o S∏u˝bie Kontrwywiadu Wojskowego oraz S∏u˝bie Wywiadu Wojskowego oraz ustaw´ o s∏u˝bie funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego Rozdzia∏ 1 Przepisy ogólne
+#### Rozdział 7 Przepis końcowy
 
-**Art. 1.** Ustawa dnia 9 czerwca 2006 o S∏u˝bie Kontrwywiadu Wojskowego oraz S∏u˝bie Wywiadu Wojskowego wchodzi w ˝ycie dniem 1 paêdziernika 2006 r., wyjàtkiem art. 47, który wchodzi w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia niniejszej ustawy oraz art. 16 pkt 7, który wchodzi w˝ycie zdniem 1 paêdziernika 2008
+**Art. 146.** Ustawa wchodzi wżycie wterminie określonym wustawie zdnia 9 czerwca 2006 Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA dnia 9 czerwca 2006 Przepisy wprowadzające ustawę o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego
 
-**Art. 2.** Ustawa dnia 9 czerwca 2006 o s∏u˝bie funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego wchodzi w ˝ycie dniem 1 paêdziernika 2006 r., wyjàtkiem art. 4 i 5, które wchodzà w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia niniejszej ustawy.
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 3.** Zdniem30 wrzeÊnia2006 traci moc ustawa zdnia9 lipca2003 oWojskowych S∏u˝bach InforArt. 4. Ilekroç w ustawie jest mowa o:
+**Art. 1.** Ustawa dnia 9 czerwca 2006 o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego wchodzi w życie dniem 1 paêdziernika 2006 r., wyjątkiem art. 47, który wchodzi w życie po upływie 14 dni od dnia ogłoszenia niniejszej ustawy oraz art. 16 pkt 7, który wchodzi wżycie zdniem 1 paêdziernika 2008
 
-**Art. 5.** Wustawie zdnia15 lutego1962 oobywatelstwie polskim (Dz. U. 2000 28, 353, póên. zm. ) w art. 17a ust. 1 otrzymuje brzmienie: „1. W sprawach nale˝àcych do w∏aÊciwoÊci wojewody iPrezesa Urz´du do Spraw Repatriacji iCudzoziemców organy te mogà zwracaç si´ do komendanta wojewódzkiego Policji, Komendanta G∏ównego Policji, Szefa Agencji Bezpieczeƒstwa Wewn´trznego, Szefa Agencji Wywiadu, Szefa S∏u˝by Kontrwywiadu Wojskowego, Szefa S∏u˝by Wywiadu Wojskowego iSzefa Centralnego Biura Antykorupcyjnego, a w razie potrzeby do innych organów, o przekazanie informacji niezb´dnych dla prowadzonych post´powaƒ.”.
+**Art. 2.** Ustawa dnia 9 czerwca 2006 o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego wchodzi w życie dniem 1 paêdziernika 2006 r., wyjątkiem art. 4 i 5, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia niniejszej ustawy.
 
-**Art. 6.** Wustawie zdnia 17 listopada 1964 Kodeks post´powania cywilnego (Dz. U. 43, 296, póên. zm. „§ 3. O przymusowe sprowadzenie ˝o∏nierza w czynnej s∏u˝bie wojskowej sàd zwraca si´ do dowódcy jednostki wojskowej, w której pe∏ni on s∏u˝b´, lub do ˚andarmerii Wojskowej, a o przymusowe sprowadzenie funkcjonariusza Policji, Biura Ochrony Rzàdu, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego lub Stra˝y Granicznej do jego prze∏o˝onego.
+**Art. 3.** Zdniem30 września2006 traci moc ustawa zdnia9 lipca2003 oWojskowych Służbach InforArt. 4. Ilekroć w ustawie jest mowa o:
 
-**Art. 7.** Wustawie zdnia 17 czerwca 1966 opost´powaniu egzekucyjnym wadministracji (Dz. U. z2005 229, 1954 oraz 2006 708) wprowadza si´ nast´pujàce zmiany:
+#### Rozdział 2 Zmiany w przepisach obowiązujących
 
-**Art. 8.** W ustawie dnia 21 listopada 1967 o powszechnym obowiàzku obrony Rzeczypospolitej Polskiej (Dz. U. 2004 241, 2416 i 277, 2742, 2005 180, 1496 oraz 2006
+**Art. 5.** Wustawie zdnia15 lutego1962 oobywatelstwie polskim (Dz. U. 2000 28, 353, póên. zm. ) w art. 17a ust. 1 otrzymuje brzmienie: Ń1. W sprawach należących do właściwości wojewody iPrezesa Urzędu do Spraw Repatriacji iCudzoziemców organy te mogą zwracać się do komendanta wojewódzkiego Policji, Komendanta Głównego Policji, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego iSzefa Centralnego Biura Antykorupcyjnego, a w razie potrzeby do innych organów, o przekazanie informacji niezbędnych dla prowadzonych postępowań.”.
 
-**Art. 9.** W ustawie dnia 10 kwietnia 1974 o ewidencji ludnoÊci idowodach osobistych (Dz. U. z2001r. 87, 960, póên. zm. ) w art.44h w ust. 1 pkt 2 otrzymuje brzmienie: „2) organom Policji, Stra˝y Granicznej, S∏u˝bie Wi´ziennej, S∏u˝bie Kontrwywiadu Wojskowego, S∏u˝bie Wywiadu Wojskowego, ˚andarmerii Wojskowej, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu i stra˝om gminnym (miejskim),”.
+**Art. 6.** Wustawie zdnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, 296, póên. zm. Ń§ 3. O przymusowe sprowadzenie żołnierza w czynnej służbie wojskowej sąd zwraca się do dowódcy jednostki wojskowej, w której pełni on służbę, lub do ˚andarmerii Wojskowej, a o przymusowe sprowadzenie funkcjonariusza Policji, Biura Ochrony Rządu, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego lub Straży Granicznej do jego przełożonego.
 
-**Art. 10.** Wustawie zdnia 26 czerwca 1974 Kodeks pracy (Dz. U. 1998 21, 94, póên. zm. ) art. 302 otrzymuje brzmienie: „Art. 302. Do okresu zatrudnienia wlicza si´ okres s∏u˝by w Policji, Urz´dzie Ochrony Paƒstwa, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝bie Kontrwywiadu Wojskowego, S∏u˝bie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, S∏u˝bie Wi´ziennej, Stra˝y Granicznej i Paƒstwowej Stra˝y Po˝arnej w zakresie i na zasadach przewidzianych odr´bnymi przepisami.”.
+**Art. 7.** Wustawie zdnia 17 czerwca 1966 opostępowaniu egzekucyjnym wadministracji (Dz. U. z2005 229, 1954 oraz 2006 708) wprowadza się następujące zmiany:
 
-**Art. 11.** W ustawie dnia 6 lipca 1982 o radcach prawnych (Dz. U. 2002 123, 1059, póên. zm. du Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Paƒstwowej Stra˝y Po˝arnej lub S∏u˝by Wi´ziennej wzakresie nieokreÊlonym niniejszà ustawà okreÊlajà przepisy odr´bnych ustaw.”.
+**Art. 8.** W ustawie dnia 21 listopada 1967 o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. 2004 241, 2416 i 277, 2742, 2005 180, 1496 oraz 2006
 
-**Art. 12.** W ustawie dnia 21 marca 1985 o drogach publicznych (Dz. U. 2004 204, 2086, póên. zm. ) art. 75 otrzymuje brzmienie: „Art. 75. Stosunek s∏u˝bowy oraz wynikajàce niego prawa i obowiàzki radców prawnych i aplikantów radcowskich b´dàcych ˝o∏nierzami w czynnej s∏u˝bie wojskowej, funkcjonariuszami Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywia) w art. 13 w ust. 3 w pkt 1 lit. a otrzymuje brzmienie: „a) Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Paƒstwowej Stra˝y Po˝arnej, jednostek ochrony przeciwpo˝arowej, Stra˝y Granicznej, pogotowia ratunkowego, S∏u˝by Wi´ziennej, S∏u˝by Celnej,”.
+**Art. 9.** W ustawie dnia 10 kwietnia 1974 o ewidencji ludności idowodach osobistych (Dz. U. z2001r. 87, 960, póên. zm. ) w art.44h w ust. 1 pkt 2 otrzymuje brzmienie: Ń2) organom Policji, Straży Granicznej, Służbie Więziennej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, ˚andarmerii Wojskowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Centralnemu Biuru Antykorupcyjnemu i strażom gminnym (miejskim),”.
 
-**Art. 13.** Wustawie zdnia 25 lipca 1985 ojednostkach badawczo-rozwojowych (Dz. U. 2001 33, 388, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 10.** Wustawie zdnia 26 czerwca 1974 Kodeks pracy (Dz. U. 1998 21, 94, póên. zm. ) art. 302 otrzymuje brzmienie: ŃArt. 302. Do okresu zatrudnienia wlicza się okres służby w Policji, Urzędzie Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, Służbie Więziennej, Straży Granicznej i Państwowej Straży Pożarnej w zakresie i na zasadach przewidzianych odrębnymi przepisami.”.
 
-**Art. 14.** W ustawie dnia 6 kwietnia 1990 o Policji (Dz. U. 2002 7, 58, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 11.** W ustawie dnia 6 lipca 1982 o radcach prawnych (Dz. U. 2002 123, 1059, póên. zm. du Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Państwowej Straży Pożarnej lub Służby Więziennej wzakresie nieokreślonym niniejszą ustawą określają przepisy odrębnych ustaw.”.
 
-**Art. 15.** W ustawie dnia 12 paêdziernika 1990 o Stra˝y Granicznej (Dz. U. 2005 234, 1997 oraz 2006 708) wprowadza si´ nast´pujàce zmiany: 2. Mianowanie osoby posiadajàcej stopieƒ wojskowy, policyjny, Urz´du Ochrony Paƒstwa, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej lub S∏u˝by Wi´ziennej mo˝e byç uzale˝nione od odbycia przeszkolenia wymaganego w Stra˝y Granicznej do mianowania na dany stopieƒ. 3. Mianowania osoby posiadajàcej stopieƒ, o którym mowa w ust. 1 i 1a, na stopieƒ obowiàzujàcy w Stra˝y Granicznej dokonuje:
+**Art. 12.** W ustawie dnia 21 marca 1985 o drogach publicznych (Dz. U. 2004 204, 2086, póên. zm. ) art. 75 otrzymuje brzmienie: ŃArt. 75. Stosunek służbowy oraz wynikające niego prawa i obowiązki radców prawnych i aplikantów radcowskich będących żołnierzami w czynnej służbie wojskowej, funkcjonariuszami Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywia) w art. 13 w ust. 3 w pkt 1 lit. a otrzymuje brzmienie: Ńa) Policji, Inspekcji Transportu Drogowego, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Państwowej Straży Pożarnej, jednostek ochrony przeciwpożarowej, Straży Granicznej, pogotowia ratunkowego, Służby Więziennej, Służby Celnej,”.
 
-**Art. 16.** Wustawie zdnia23 maja1991 orozwiàzywaniu sporów zbiorowych (Dz. U. 55, 236, póên. zm. jednostkach organizacyjnych ochrony przeciwpo˝arowej.”.
+**Art. 13.** Wustawie zdnia 25 lipca 1985 ojednostkach badawczo-rozwojowych (Dz. U. 2001 33, 388, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 17.** W ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. 2000 14, 176, póên. zm. ) w art. 19 ust. 2 otrzymuje brzmienie: „2. Niedopuszczalne jest organizowanie strajku w Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝bie Kontrwywiadu Wojskowego, S∏u˝bie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, w jednostkach Policji i Si∏ Zbrojnych Rzeczypospolitej Polskiej, S∏u˝by Wi´ziennej, Stra˝y Granicznej, S∏u˝by Celnej oraz ) w art. 30 w ust. 1 pkt 5 otrzymuje brzmienie: „5) wynagrodzeƒ za udzielanie pomocy Policji, organom kontroli skarbowej, funkcjonariuszom celnym, Stra˝y Granicznej, S∏u˝bie Kontrwywiadu Wojskowego, S∏u˝bie Wywiadu Wojskowego, ˚andarmerii Wojskowej, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu i Centralnemu Biuru Antykorupcyjnemu, wyp∏acanych funduszu operacyjnego w wysokoÊci 20 % wynagrodzenia,”.
+**Art. 14.** W ustawie dnia 6 kwietnia 1990 o Policji (Dz. U. 2002 7, 58, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 18.** Wustawie zdnia24 sierpnia1991 oPaƒstwowej Stra˝y Po˝arnej (Dz. U. 2006 96, 667 i 708) wprowadza si´ nast´pujàce zmiany:
+**Art. 15.** W ustawie dnia 12 paêdziernika 1990 o Straży Granicznej (Dz. U. 2005 234, 1997 oraz 2006 708) wprowadza się następujące zmiany: 2. Mianowanie osoby posiadającej stopień wojskowy, policyjny, Urzędu Ochrony Państwa, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Biura Ochrony Rządu, Państwowej Straży Pożarnej lub Służby Więziennej może być uzależnione od odbycia przeszkolenia wymaganego w Straży Granicznej do mianowania na dany stopień. 3. Mianowania osoby posiadającej stopień, o którym mowa w ust. 1 i 1a, na stopień obowiązujący w Straży Granicznej dokonuje:
 
-**Art. 20.** W ustawie dnia 16 paêdziernika 1992 o orderach i odznaczeniach (Dz. U. 90, 450, póên. zm. ) w art. 17 ust. 1 otrzymuje brzmienie: „1. Ustanowiony przez Prezydenta Rzeczypospolitej Polskiej rozporzàdzeniem dnia 7 marca 1928 Krzy˝ Zas∏ugi Za DzielnoÊç nadaje si´ policjantom, funkcjonariuszom Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Stra˝y Po˝arnej oraz ˝o∏nierzom za czyny spe∏nione w specjalnie ci´˝kich warunkach, wykazaniem wyjàtkowej odwagi, znara˝eniem ˝ycia lub zdrowia, wobronie prawa, nietykalnoÊci granic paƒstwowych oraz ˝ycia, mienia i bezpieczeƒstwa obywateli.”.
+**Art. 16.** Wustawie zdnia23 maja1991 orozwiązywaniu sporów zbiorowych (Dz. U. 55, 236, póên. zm. jednostkach organizacyjnych ochrony przeciwpożarowej.”.
 
-**Art. 21.** W ustawie dnia 10 grudnia 1993 o zaopatrzeniu emerytalnym ˝o∏nierzy zawodowych oraz ich rodzin (Dz. U. z2004 8, 66, póên. zm. Rzàdu, Paƒstwowej Stra˝y Po˝arnej lub S∏u˝bie Wi´ziennej.”. ) wprowadza si´ nast´pujàce zmiany: Art. 22.Wustawie zdnia 18 lutego 1994 ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji
+**Art. 17.** W ustawie dnia 26 lipca 1991 o podatku dochodowym od osób fizycznych (Dz. U. 2000 14, 176, póên. zm. ) w art. 19 ust. 2 otrzymuje brzmienie: Ń2. Niedopuszczalne jest organizowanie strajku w Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, Centralnym Biurze Antykorupcyjnym, w jednostkach Policji i Sił Zbrojnych Rzeczypospolitej Polskiej, Służby Więziennej, Straży Granicznej, Służby Celnej oraz ) w art. 30 w ust. 1 pkt 5 otrzymuje brzmienie: Ń5) wynagrodzeń za udzielanie pomocy Policji, organom kontroli skarbowej, funkcjonariuszom celnym, Straży Granicznej, Służbie Kontrwywiadu Wojskowego, Służbie Wywiadu Wojskowego, ˚andarmerii Wojskowej, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu i Centralnemu Biuru Antykorupcyjnemu, wypłacanych funduszu operacyjnego w wysokości 20 % wynagrodzenia,”.
 
-**Art. 23.** W ustawie dnia 22 czerwca 1995 o zakwaterowaniu Si∏ Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z2005 41, 398 iNr 132, 1110 oraz 2006 708) wart. 64 wust. 1 pkt 1 otrzymuje brzmienie: „1) Policji, odpowiednio Agencji Bezpieczeƒstwa Wewn´trznego lub Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu WojskoArt. 24. W ustawie dnia 13 paêdziernika 1995 o zasadach ewidencji i identyfikacji podatników i p∏atników (Dz. U. z2004 Nr269, poz.2681, z2005 Nr14, 113 oraz 2006 708) w art. 15 wust.2 pkt1 otrzymuje brzmienie: „1) sàdom, prokuratorom, organom podatkowym, organom celnym, przedstawicielom Najwy˝szej Izby Kontroli, Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Centralnego Biura Antykorupcyjnego, S∏u˝by Kontrwywiadu Wojskowego i ˚andarmerii Wojskowej w zwiàzku prowadzonym post´powaniem;”.
+**Art. 18.** Wustawie zdnia24 sierpnia1991 oPaństwowej Straży Pożarnej (Dz. U. 2006 96, 667 i 708) wprowadza się następujące zmiany:
 
-**Art. 25.** Wustawie zdnia 14 grudnia 1995 ourz´dzie Ministra Obrony Narodowej (Dz. U. 1996 10, 56, póên. zm. ) w art. 5:
+**Art. 20.** W ustawie dnia 16 paêdziernika 1992 o orderach i odznaczeniach (Dz. U. 90, 450, póên. zm. ) w art. 17 ust. 1 otrzymuje brzmienie: Ń1. Ustanowiony przez Prezydenta Rzeczypospolitej Polskiej rozporządzeniem dnia 7 marca 1928 Krzyż Zasługi Za Dzielność nadaje się policjantom, funkcjonariuszom Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Straży Pożarnej oraz żołnierzom za czyny spełnione w specjalnie ciężkich warunkach, wykazaniem wyjątkowej odwagi, znarażeniem życia lub zdrowia, wobronie prawa, nietykalności granic państwowych oraz życia, mienia i bezpieczeństwa obywateli.”.
 
-**Art. 26.** Wustawie zdnia26 kwietnia1996 oS∏u˝bie Wi´ziennej (Dz. U. 2002 207, poz.1761, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 21.** W ustawie dnia 10 grudnia 1993 o zaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin (Dz. U. z2004 8, 66, póên. zm. Rządu, Państwowej Straży Pożarnej lub Służbie Więziennej.”. ) wprowadza się następujące zmiany: Art. 22.Wustawie zdnia 18 lutego 1994 ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji
 
-**Art. 27.** Wustawie zdnia 11 kwietnia 1997 oujawnieniu pracy lub s∏u˝by w organach bezpieczeƒstwa paƒstwa lub wspó∏pracy nimi w latach 1944—1990 osób pe∏niàcych funkcje publiczne (Dz. U. 1999r. 42, 428, póên. zm. ) w art. 17 w ust. 3 pkt 4 otrzymuje brzmienie: „4) nie jest tajnym wspó∏pracownikiem Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego lub Centralnego Biura Antykorupcyjnego.”.
+**Art. 23.** W ustawie dnia 22 czerwca 1995 o zakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z2005 41, 398 iNr 132, 1110 oraz 2006 708) wart. 64 wust. 1 pkt 1 otrzymuje brzmienie: Ń1) Policji, odpowiednio Agencji Bezpieczeństwa Wewnętrznego lub Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu WojskoArt. 24. W ustawie dnia 13 paêdziernika 1995 o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z2004 Nr269, poz.2681, z2005 Nr14, 113 oraz 2006 708) w art. 15 wust.2 pkt1 otrzymuje brzmienie: Ń1) sądom, prokuratorom, organom podatkowym, organom celnym, przedstawicielom Najwyższej Izby Kontroli, Policji, Agencji Bezpieczeństwa Wewnętrznego, Centralnego Biura Antykorupcyjnego, Służby Kontrwywiadu Wojskowego i ˚andarmerii Wojskowej w związku prowadzonym postępowaniem;”.
 
-**Art. 28.** W ustawie dnia 6 czerwca 1997 Kodeks post´powania karnego (Dz. U. 89, 555, póên. zm. 908, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 25.** Wustawie zdnia 14 grudnia 1995 ourzędzie Ministra Obrony Narodowej (Dz. U. 1996 10, 56, póên. zm. ) w art. 5:
 
-**Art. 29.** Wustawie zdnia20 czerwca1997 Prawo o ruchu drogowym (Dz. U. 2005 108, ) wprowadza si´ nast´pujàce zmiany:
+**Art. 26.** Wustawie zdnia26 kwietnia1996 oSłużbie Więziennej (Dz. U. 2002 207, poz.1761, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 31.** W ustawie dnia 29 sierpnia 1997 oochronie danych osobowych (Dz. U. z2002 101, 926, póên. zm. ) w art. 43 ust. 2 otrzymuje brzmienie: „2. W odniesieniu do zbiorów, o których mowa w ust. 1 pkt 1 i 3, oraz zbiorów, o których mowa w ust. 1 pkt 1a, przetwarzanych przez Agencj´ Bezpieczeƒstwa Wewn´trznego, Agencj´ Wywiadu, S∏u˝b´ Kontrwywiadu Wojskowego, S∏u˝b´ Wywiadu Wojskowego oraz Centralne Biuro Antykorupcyjne, Generalnemu Inspektorowi nie przys∏ugujà uprawnienia okreÊlone w art. 12 pkt 2, art. 14 pkt 1 i 3—5 oraz art. 15—18.”.
+**Art. 27.** Wustawie zdnia 11 kwietnia 1997 oujawnieniu pracy lub służby w organach bezpieczeństwa państwa lub współpracy nimi w latach 1944—1990 osób pełniących funkcje publiczne (Dz. U. 1999r. 42, 428, póên. zm. ) w art. 17 w ust. 3 pkt 4 otrzymuje brzmienie: Ń4) nie jest tajnym współpracownikiem Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego lub Centralnego Biura Antykorupcyjnego.”.
 
-**Art. 32.** W ustawie dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery bud˝etowej (Dz. U. 160, 1080, zpóên. zm. ) wart. 1 wust. 3 pkt 2 otrzymuje brzmienie: „2) ˝o∏nierzy oraz funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, S∏u˝by Celnej, Paƒstwowej Stra˝y Po˝arnej, S∏u˝by Wi´ziennej oraz Biura Ochrony Rzàdu.”.
+**Art. 28.** W ustawie dnia 6 czerwca 1997 Kodeks postępowania karnego (Dz. U. 89, 555, póên. zm. 908, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 33.** W ustawie dnia 13 paêdziernika 1998 o systemie ubezpieczeƒ spo∏ecznych (Dz. U. 137, 887, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 29.** Wustawie zdnia20 czerwca1997 Prawo o ruchu drogowym (Dz. U. 2005 108, ) wprowadza się następujące zmiany:
 
-**Art. 34.** Wustawie zdnia 17 grudnia 1998 oemeryturach i rentach Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. 2004 39, 353, póên. zm. ).”;
+**Art. 31.** W ustawie dnia 29 sierpnia 1997 oochronie danych osobowych (Dz. U. z2002 101, 926, póên. zm. ) w art. 43 ust. 2 otrzymuje brzmienie: Ń2. W odniesieniu do zbiorów, o których mowa w ust. 1 pkt 1 i 3, oraz zbiorów, o których mowa w ust. 1 pkt 1a, przetwarzanych przez Agencję Bezpieczeństwa Wewnętrznego, Agencję Wywiadu, Służbę Kontrwywiadu Wojskowego, Służbę Wywiadu Wojskowego oraz Centralne Biuro Antykorupcyjne, Generalnemu Inspektorowi nie przysługują uprawnienia określone w art. 12 pkt 2, art. 14 pkt 1 i 3—5 oraz art. 15—18.”.
 
-**Art. 35.** W ustawie dnia 18 grudnia 1998 o Instytucie Pami´ci Narodowej Komisji Âcigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. Nr155, 1016, póên. zm. ).”;
+**Art. 32.** W ustawie dnia 12 grudnia 1997 o dodatkowym wynagrodzeniu rocznym dla pracowników jednostek sfery budżetowej (Dz. U. 160, 1080, zpóên. zm. ) wart. 1 wust. 3 pkt 2 otrzymuje brzmienie: Ń2) żołnierzy oraz funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Służby Celnej, Państwowej Straży Pożarnej, Służby Więziennej oraz Biura Ochrony Rządu.”.
 
-**Art. 36.** W ustawie dnia 22 stycznia 1999 o ochronie informacji niejawnych (Dz. U. 2005 Nr196, 1631oraz 2006 708) wpro- 6) w art. 29 pkt 1 otrzymuje brzmienie: wadza si´ nast´pujàce zmiany: „1) S∏u˝ba Kontrwywiadu Wojskowego w przy1) w art. 2 pkt 3 otrzymuje brzmienie: padku ubiegania si´ osoby o zatrudnienie lub zlecenie prac zwiàzanych obronnoÊcià paƒ„3) s∏u˝bami ochrony paƒstwa sà Agencja Bez- stwa: pieczeƒstwa Wewn´trznego i S∏u˝ba Kontrwywiadu Wojskowego;”; a) wobec ˝o∏nierzy pozostajàcych w czynnej s∏u˝bie wojskowej i pracowników wojska,
+**Art. 33.** W ustawie dnia 13 paêdziernika 1998 o systemie ubezpieczeń społecznych (Dz. U. 137, 887, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 37.** Wustawie zdnia 7 maja 1999 oodpowiedzialnoÊci majàtkowej funkcjonariuszy Policji, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej, S∏u˝by Wi´ziennej iAgencji Bezpieczeƒstwa Wewn´trznego oraz Agencji Wywiadu (Dz. U. 53, 548, 2001 27, 298, 2002 74, 676 oraz 2006 708) wprowadza si´ nast´pujàce zmiany:
+**Art. 34.** Wustawie zdnia 17 grudnia 1998 oemeryturach i rentach Funduszu Ubezpieczeń Społecznych (Dz. U. 2004 39, 353, póên. zm. ).”;
 
-**Art. 38.** W ustawie dnia 21 maja 1999 o broni i amunicji (Dz. U. 2004 52, 525 i 96, 959 oraz 2006 708) wprowadza si´ nast´pujàce zmiany:
+**Art. 35.** W ustawie dnia 18 grudnia 1998 o Instytucie Pamięci Narodowej Komisji Âcigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. Nr155, 1016, póên. zm. ).”;
 
-**Art. 39.** W ustawie dnia 23 grudnia 1999 o kszta∏towaniu wynagrodzeƒ w paƒstwowej sferze bud˝etowej oraz o zmianie niektórych ustaw (Dz. U. 110, 1255, póên. zm. ) w art. 2 pkt 2 otrzymuje brzmienie: „2) pracownicy rozumie si´ osoby zatrudnione wjednostkach, októrych mowa wpkt 1, oraz ˝o∏nierzy zawodowych, ˝o∏nierzy odbywajàcych nadterminowà zasadniczà s∏u˝b´ wojskowà, ˝o∏nierzy odbywajàcych okresowà s∏u˝b´ wojskowà, funkcjonariuszy Policji, Stra˝y Granicznej, Biura Ochrony Rzàdu i Paƒstwowej Stra˝y Po˝arnej wyjàtkiem pe∏niàcych s∏u˝b´ kandydackà oraz funkcjonariuszy Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, S∏u˝by Wi´ziennej i S∏u˝by Celnej,”.
+**Art. 36.** W ustawie dnia 22 stycznia 1999 o ochronie informacji niejawnych (Dz. U. 2005 Nr196, 1631oraz 2006 708) wpro- 6) w art. 29 pkt 1 otrzymuje brzmienie: wadza się następujące zmiany: Ń1) Służba Kontrwywiadu Wojskowego w przy1) w art. 2 pkt 3 otrzymuje brzmienie: padku ubiegania się osoby o zatrudnienie lub zlecenie prac związanych obronnością pańŃ3) służbami ochrony państwa są Agencja Bez- stwa: pieczeństwa Wewnętrznego i Służba Kontrwywiadu Wojskowego;”; a) wobec żołnierzy pozostających w czynnej służbie wojskowej i pracowników wojska,
 
-**Art. 40.** W ustawie dnia 24 maja 2000 o Krajowym Rejestrze Karnym (Dz. U. 50, 580, zpóên. zm. ) w art. 6 w ust. 1 pkt 7 otrzymuje brzmienie: „7) Agencji Bezpieczeƒstwa Wewn´trznego, S∏u˝bie Kontrwywiadu Wojskowego i Centralnemu Biuru Antykorupcyjnemu, w zakresie, w jakim jest to konieczne dla wykonania na∏o˝onych na nie zadaƒ okreÊlonych w ustawie,”.
+**Art. 37.** Wustawie zdnia 7 maja 1999 oodpowiedzialności majątkowej funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej, Służby Więziennej iAgencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 53, 548, 2001 27, 298, 2002 74, 676 oraz 2006 708) wprowadza się następujące zmiany:
 
-**Art. 41.** W ustawie dnia 16 listopada 2000 o przeciwdzia∏aniu wprowadzaniu do obrotu finansowego wartoÊci majàtkowych pochodzàcych znielegalnych lub nieujawnionych êróde∏ oraz o przeciwdzia∏aniu finansowaniu terroryzmu (Dz. U. 2003 153, 1505, póên. zm. ) w art. 33 wprowadza si´ nast´pujàce zmiany:
+**Art. 38.** W ustawie dnia 21 maja 1999 o broni i amunicji (Dz. U. 2004 52, 525 i 96, 959 oraz 2006 708) wprowadza się następujące zmiany:
 
-**Art. 42.** Wustawie zdnia 16 marca 2001 oBiurze Ochrony Rzàdu (Dz. U. 2004 163, 1712 i Nr210, 2135 oraz 2006 708) wprowadza si´ nast´pujàce zmiany:
+**Art. 39.** W ustawie dnia 23 grudnia 1999 o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. 110, 1255, póên. zm. ) w art. 2 pkt 2 otrzymuje brzmienie: Ń2) pracownicy rozumie się osoby zatrudnione wjednostkach, októrych mowa wpkt 1, oraz żołnierzy zawodowych, żołnierzy odbywających nadterminową zasadniczą służbę wojskową, żołnierzy odbywających okresową służbę wojskową, funkcjonariuszy Policji, Straży Granicznej, Biura Ochrony Rządu i Państwowej Straży Pożarnej wyjątkiem pełniących służbę kandydacką oraz funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Służby Więziennej i Służby Celnej,”.
 
-**Art. 44.** Wustawie zdnia 24 sierpnia 2001 o˚andarmerii Wojskowej i wojskowych organach porzàdkowych (Dz. U. 123, 1353, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 40.** W ustawie dnia 24 maja 2000 o Krajowym Rejestrze Karnym (Dz. U. 50, 580, zpóên. zm. ) w art. 6 w ust. 1 pkt 7 otrzymuje brzmienie: Ń7) Agencji Bezpieczeństwa Wewnętrznego, Służbie Kontrwywiadu Wojskowego i Centralnemu Biuru Antykorupcyjnemu, w zakresie, w jakim jest to konieczne dla wykonania nałożonych na nie zadań określonych w ustawie,”.
 
-**Art. 45.** W ustawie dnia 24 maja 2002 o Agencji Bezpieczeƒstwa Wewn´trznego oraz Agencji Wywiadu (Dz. U. 74, 676, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 41.** W ustawie dnia 16 listopada 2000 o przeciwdziałaniu wprowadzaniu do obrotu finansowego wartości majątkowych pochodzących znielegalnych lub nieujawnionych êródeł oraz o przeciwdziałaniu finansowaniu terroryzmu (Dz. U. 2003 153, 1505, póên. zm. ) w art. 33 wprowadza się następujące zmiany:
+
+**Art. 42.** Wustawie zdnia 16 marca 2001 oBiurze Ochrony Rządu (Dz. U. 2004 163, 1712 i Nr210, 2135 oraz 2006 708) wprowadza się następujące zmiany:
+
+**Art. 44.** Wustawie zdnia 24 sierpnia 2001 o˚andarmerii Wojskowej i wojskowych organach porządkowych (Dz. U. 123, 1353, póên. zm. ) wprowadza się następujące zmiany:
+
+**Art. 45.** W ustawie dnia 24 maja 2002 o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 74, 676, póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 153a.**
 
-1. Funkcjonariusz Agencji, który: ), w trybie okreÊlonym w tych przepisach.”;
+1. Funkcjonariusz Agencji, który: ), w trybie określonym w tych przepisach.”;
 
-- **18)** art. 113 otrzymuje brzmienie: „Art. 113. Funkcjonariusz Agencji zwolniony ze s∏u˝by, który nie posiada prawa do lokalu mieszkalnego na warunkach okreÊlonych w przepisach o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej i S∏u˝by Wi´ziennej oraz ich rodzin, zachowuje prawo do przydzielonego lokalu mieszkalnego wed∏ug norm powszechnie obowiàzujàcych lub mo˝e byç przeniesiony do zamiennego lokalu mieszkalnego.”;
-- **19)** w art. 131 ust. 2 otrzymuje brzmienie: „2. Âwiadczenia, o których mowa w ust. 1, przys∏ugujà ma∏˝onkowi funkcjonariusza, który pozostawa∏ nim we wspólnoÊci ma∏˝eƒskiej, awdalszej kolejnoÊci dzieciom oraz rodzicom, je˝eli w dniu Êmierci funkcjonariusza spe∏niali warunki do uzyskania renty rodzinnej na podstawie przepisów ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝1) jest cz∏onkiem zarzàdu, rady nadzorczej lub komisji rewizyjnej spó∏ki prawa handlowego,
-- **2)** jest cz∏onkiem zarzàdu, rady nadzorczej lub komisji rewizyjnej spó∏dzielni, wyjàtkiem rady nadzorczej spó∏dzielni mieszkaniowej,
-- **3)** jest cz∏onkiem zarzàdu fundacji prowadzàcej dzia∏alnoÊç gospodarczà,
-- **4)** posiada wspó∏kach prawa handlowego wi´cej ni˝ 10 % akcji lub udzia∏y przedstawiajàce wi´cej ni˝ 10 % kapita∏u zak∏adowego w ka˝dej tych spó∏ek,
-- **5)** prowadzi dzia∏alnoÊç gospodarczà na w∏asny rachunek lub wspólnie innymi osobami, zarzàdza takà dzia∏alnoÊcià lub jest przedstawicielem czy pe∏nomocnikiem wprowadzeniu takiej dzia∏alnoÊci podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.
+- **18)** art. 113 otrzymuje brzmienie: ŃArt. 113. Funkcjonariusz Agencji zwolniony ze służby, który nie posiada prawa do lokalu mieszkalnego na warunkach określonych w przepisach o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, zachowuje prawo do przydzielonego lokalu mieszkalnego według norm powszechnie obowiązujących lub może być przeniesiony do zamiennego lokalu mieszkalnego.”;
+- **19)** w art. 131 ust. 2 otrzymuje brzmienie: Ń2. Âwiadczenia, o których mowa w ust. 1, przysługują małżonkowi funkcjonariusza, który pozostawał nim we wspólności małżeńskiej, awdalszej kolejności dzieciom oraz rodzicom, jeżeli w dniu śmierci funkcjonariusza spełniali warunki do uzyskania renty rodzinnej na podstawie przepisów ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służ1) jest członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółki prawa handlowego,
+- **2)** jest członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółdzielni, wyjątkiem rady nadzorczej spółdzielni mieszkaniowej,
+- **3)** jest członkiem zarządu fundacji prowadzącej działalność gospodarczą,
+- **4)** posiada współkach prawa handlowego więcej niż 10 % akcji lub udziały przedstawiające więcej niż 10 % kapitału zakładowego w każdej tych spółek,
+- **5)** prowadzi działalność gospodarczą na własny rachunek lub wspólnie innymi osobami, zarządza taką działalnością lub jest przedstawicielem czy pełnomocnikiem wprowadzeniu takiej działalności podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
-2. Nie pope∏nia przest´pstwa okreÊlonego wust. 1 funkcjonariusz Agencji, który uzyska∏ zgod´ Szefa Agencji, o której mowa w art. 79a ust. 2.
+2. Nie popełnia przestępstwa określonego wust. 1 funkcjonariusz Agencji, który uzyskał zgodę Szefa Agencji, o której mowa w art. 79a ust. 2.
 
 **Art. 153b.**
 
-1. Funkcjonariusz Agencji, który wbrew przepisom ustawy wykorzystuje informacje uzyskane podczas lub w zwiàzku pe∏nieniem obowiàzków s∏u˝bowych do wp∏ywania na dzia∏alnoÊç organów w∏adzy publicznej, przedsi´biorców lub nadawców wrozumieniu art. 4 pkt 1 ustawy dnia 29 grudnia 1992 o radiofonii i telemowa w ustawie dnia 26 stycznia 1984 Prawo prasowe podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.
+1. Funkcjonariusz Agencji, który wbrew przepisom ustawy wykorzystuje informacje uzyskane podczas lub w związku pełnieniem obowiązków służbowych do wpływania na działalność organów władzy publicznej, przedsiębiorców lub nadawców wrozumieniu art. 4 pkt 1 ustawy dnia 29 grudnia 1992 o radiofonii i telemowa w ustawie dnia 26 stycznia 1984 Prawo prasowe podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
-2. Je˝eli sprawca czynu, o którym mowa wust. 1, dzia∏a wcelu osiàgni´cia korzyÊci osobistej lub majàtkowej podlega karze pozbawienia wolnoÊci od lat 2 do lat 12.
+2. Jeżeli sprawca czynu, o którym mowa wust. 1, działa wcelu osiągnięcia korzyści osobistej lub majątkowej podlega karze pozbawienia wolności od lat 2 do lat 12.
 
 **Art. 153c.**
 
-1. Osoba, która pe∏ni∏a s∏u˝b´ lub by∏a zatrudniona w Agencji oraz osoba, która pe∏ni∏a s∏u˝b´ lub by∏a zatrudniona w Urz´dzie Ochrony Paƒstwa, która wbrew przepisom ustawy wykorzystuje informacje uzyskane podczas lub wzwiàzku zpe∏nieniem obowiàzków s∏u˝bowych do wp∏ywania na dzia∏alnoÊç organów w∏adzy publicznej, przedsi´biorców lub nadawców wrozumieniu art. 4 pkt 1 ustawy dnia 29 grudnia 1992 o radiofonii i telewizji oraz redaktorów naczelnych, dziennikarzy lub osób prowadzàcych dzia∏alnoÊç wydawniczà, o których mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.
+1. Osoba, która pełniła służbę lub była zatrudniona w Agencji oraz osoba, która pełniła służbę lub była zatrudniona w Urzędzie Ochrony Państwa, która wbrew przepisom ustawy wykorzystuje informacje uzyskane podczas lub wzwiązku zpełnieniem obowiązków służbowych do wpływania na działalność organów władzy publicznej, przedsiębiorców lub nadawców wrozumieniu art. 4 pkt 1 ustawy dnia 29 grudnia 1992 o radiofonii i telewizji oraz redaktorów naczelnych, dziennikarzy lub osób prowadzących działalność wydawniczą, o których mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
-2. Je˝eli sprawca czynu, o którym mowa wust. 1, dzia∏a wcelu osiàgni´cia korzyÊci osobistej lub majàtkowej podlega karze pozbawienia wolnoÊci od lat 2 do 12.
+2. Jeżeli sprawca czynu, o którym mowa wust. 1, działa wcelu osiągnięcia korzyści osobistej lub majątkowej podlega karze pozbawienia wolności od lat 2 do 12.
 
 **Art. 153d.**
 
-1. Funkcjonariusz Agencji, który tajnie wspó∏pracuje nadawcà w rozumieniu art. 4 pkt 1 ustawy zdnia 29 grudnia 1992 oradiofonii itelewizji oraz redaktorem naczelnym, dziennikarzem lub osobà prowadzàcà dzia∏alnoÊç wydawniczà, o których mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.
+1. Funkcjonariusz Agencji, który tajnie współpracuje nadawcą w rozumieniu art. 4 pkt 1 ustawy zdnia 29 grudnia 1992 oradiofonii itelewizji oraz redaktorem naczelnym, dziennikarzem lub osobą prowadzącą działalność wydawniczą, o których mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
-2. Nie pope∏nia przest´pstwa okreÊlonego wust. 1 funkcjonariusz Agencji, który uzyska∏ zgod´ Szefa Agencji, o której mowa w art. 37 ust. 2.”.
+2. Nie popełnia przestępstwa określonego wust. 1 funkcjonariusz Agencji, który uzyskał zgodę Szefa Agencji, o której mowa w art. 37 ust. 2.”.
 
-**Art. 46.** Wustawie zdnia 21 czerwca 2002 ostanie wyjàtkowym (Dz. U. 113, 985 i 153, 1271 oraz 2003 228, 2261) wprowadza si´ nast´pujàce zmiany:
+**Art. 46.** Wustawie zdnia 21 czerwca 2002 ostanie wyjątkowym (Dz. U. 113, 985 i 153, 1271 oraz 2003 228, 2261) wprowadza się następujące zmiany:
 
-**Art. 47.** Wustawie zdnia 21 czerwca 2002 omateria∏ach wybuchowych przeznaczonych do u˝ytku cywilnego (Dz. U. 117, 1007 i 238, 2019, 2004 222, 2249 oraz 2006
+**Art. 47.** Wustawie zdnia 21 czerwca 2002 omateriałach wybuchowych przeznaczonych do użytku cywilnego (Dz. U. 117, 1007 i 238, 2019, 2004 222, 2249 oraz 2006
 
 **Art. 48.** W ustawie dnia 3 lipca 2002 Prawo lotnicze (Dz. U. 2006 100, 696 i
 
-**Art. 49.** W ustawie dnia 13 czerwca 2003 o cudzoziemcach (Dz. U. 128, 1175, póên. zm. ) w art. 133 w ust. 1 pkt 14 otrzymuje brzmienie: „14) Szefowi S∏u˝by Kontrwywiadu Wojskowego i Szefowi S∏u˝by Wywiadu Wojskowego,”.
+**Art. 49.** W ustawie dnia 13 czerwca 2003 o cudzoziemcach (Dz. U. 128, 1175, póên. zm. ) w art. 133 w ust. 1 pkt 14 otrzymuje brzmienie: Ń14) Szefowi Służby Kontrwywiadu Wojskowego i Szefowi Służby Wywiadu Wojskowego,”.
 
-**Art. 50.** W ustawie dnia 11 wrzeÊnia 2003 o s∏u˝bie wojskowej ˝o∏nierzy zawodowych (Dz. U. 179, 1750, z2004 116, 1203 iNr 210, 2135 oraz z2005 122, 1025) wprowadza si´ nast´pujàce zmiany:
+**Art. 50.** W ustawie dnia 11 września 2003 o służbie wojskowej żołnierzy zawodowych (Dz. U. 179, 1750, z2004 116, 1203 iNr 210, 2135 oraz z2005 122, 1025) wprowadza się następujące zmiany:
 
-**Art. 51.** W ustawie dnia 28 listopada 2003 oÊwiadczeniach rodzinnych (Dz. U. 228, 2255, póên. zm. ) w art. 3 pkt 5 otrzymuje brzmienie: „5) emeryturach i rentach oznacza to emerytury irenty inwalidzkie oraz renty ztytu∏u niezdolnoÊci do pracy, w tym renty szkoleniowe okreÊlone wprzepisach oemeryturach irentach zFunduszu Ubezpieczeƒ Spo∏ecznych, o ubezpieczeniu spo∏ecznym rolników, o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej iS∏u˝by Wi´ziennej oraz ich rodzin, ozaopatrzeniu emerytalnym ˝o∏nierzy zawodowych oraz ich rodzin, o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, o kombatantach oraz niektórych osobach b´dàcych ofiarami represji wojennych i okresu powojennego, a tak˝e uposa˝enia w stanie spoczynku okreÊlone w przepisach prawa o ustroju sàdów powszechnych, przepisach oprokuraturze oraz w przepisach o Sàdzie Najwy˝szym, a tak˝e renty szkoleniowe irenty ztytu∏u niezdolnoÊci do pracy okreÊlone w przepisach o ubezpieczeniu spo∏ecznym tytu∏u wypadków przy pracy i chorób zawodowych, renty tytu∏u niezdolnoÊci do pracy okreÊlone wprzepisach ozaopatrzeniu ztytu∏u wypadków lub chorób zawodowych powsta∏ych wszczególnych okolicznoÊciach, atak˝e renty okreÊlone w przepisach o wspieraniu rozwoju obszarów wiejskich ze Êrodków pochodzàcych Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej;”.
+**Art. 51.** W ustawie dnia 28 listopada 2003 oświadczeniach rodzinnych (Dz. U. 228, 2255, póên. zm. ) w art. 3 pkt 5 otrzymuje brzmienie: Ń5) emeryturach i rentach oznacza to emerytury irenty inwalidzkie oraz renty ztytułu niezdolności do pracy, w tym renty szkoleniowe określone wprzepisach oemeryturach irentach zFunduszu Ubezpieczeń Społecznych, o ubezpieczeniu społecznym rolników, o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej iSłużby Więziennej oraz ich rodzin, ozaopatrzeniu emerytalnym żołnierzy zawodowych oraz ich rodzin, o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin, o kombatantach oraz niektórych osobach będących ofiarami represji wojennych i okresu powojennego, a także uposażenia w stanie spoczynku określone w przepisach prawa o ustroju sądów powszechnych, przepisach oprokuraturze oraz w przepisach o Sądzie Najwyższym, a także renty szkoleniowe irenty ztytułu niezdolności do pracy określone w przepisach o ubezpieczeniu społecznym tytułu wypadków przy pracy i chorób zawodowych, renty tytułu niezdolności do pracy określone wprzepisach ozaopatrzeniu ztytułu wypadków lub chorób zawodowych powstałych wszczególnych okolicznościach, atakże renty określone w przepisach o wspieraniu rozwoju obszarów wiejskich ze środków pochodzących Sekcji Gwarancji Europejskiego Funduszu Orientacji i Gwarancji Rolnej;”.
 
-**Art. 52.** Wustawie zdnia 20 kwietnia 2004 opromocji zatrudnienia i instytucjach rynku pracy (Dz. U. 99, 1001, póên. zm. wojskowego absolwentów szkó∏ wy˝szych, s∏u˝by wojskowej pe∏nionej wcharakterze kandydata na ˝o∏nierza zawodowego, çwiczeƒ wojskowych, okresowej s∏u˝by wojskowej oraz zasadniczej s∏u˝by w obronie cywilnej i s∏u˝by zast´pczej, a tak˝e s∏u˝by w charakterze funkcjonariusza, októrym mowa wustawie dnia 18 lutego 1994 o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej i S∏u˝by Wi´ziennej oraz ich rodzin (Dz. U. 2004 8, 67, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 52.** Wustawie zdnia 20 kwietnia 2004 opromocji zatrudnienia i instytucjach rynku pracy (Dz. U. 99, 1001, póên. zm. wojskowego absolwentów szkół wyższych, służby wojskowej pełnionej wcharakterze kandydata na żołnierza zawodowego, ćwiczeń wojskowych, okresowej służby wojskowej oraz zasadniczej służby w obronie cywilnej i służby zastępczej, a także służby w charakterze funkcjonariusza, októrym mowa wustawie dnia 18 lutego 1994 o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. 2004 8, 67, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 53.** Wustawie zdnia 16 lipca 2004 Prawo telekomunikacyjne (Dz. U. 171, 1800, póên. zm. ) w art. 178 ust. 2 otrzymuje brzmienie: „2. Decyzja Prezesa UKE nak∏adajàca na przedsi´biorców telekomunikacyjnych ograniczenia, o których mowa w ust. 1, wydawana jest urz´du lub na wniosek prokuratora, Komendanta G∏ównego Policji, komendanta wojewódzkiego Policji, Komendanta G∏ównego Stra˝y Granicznej, Komendanta G∏ównego ˚andarmerii Wojskowej, Szefa Agencji Bezpieczeƒstwa Wewn´trznego, Szefa Agencji Wywiadu, Szefa S∏u˝by Kontrwywiadu Wojskowego, Szefa S∏u˝by Wywiadu Wojskowego lub Szefa Biura Ochrony Rzàdu.”.
+**Art. 53.** Wustawie zdnia 16 lipca 2004 Prawo telekomunikacyjne (Dz. U. 171, 1800, póên. zm. ) w art. 178 ust. 2 otrzymuje brzmienie: Ń2. Decyzja Prezesa UKE nakładająca na przedsiębiorców telekomunikacyjnych ograniczenia, o których mowa w ust. 1, wydawana jest urzędu lub na wniosek prokuratora, Komendanta Głównego Policji, komendanta wojewódzkiego Policji, Komendanta Głównego Straży Granicznej, Komendanta Głównego ˚andarmerii Wojskowej, Szefa Agencji Bezpieczeństwa Wewnętrznego, Szefa Agencji Wywiadu, Szefa Służby Kontrwywiadu Wojskowego, Szefa Służby Wywiadu Wojskowego lub Szefa Biura Ochrony Rządu.”.
 
-**Art. 54.** Wustawie zdnia27 sierpnia2004 oÊwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, 2135, póên. zm. ) wart.66 wust.1 dodaje si´ pkt 8b i8c wbrzmieniu: „8b) funkcjonariusze S∏u˝by Kontrwywiadu Wojskowego;
+**Art. 54.** Wustawie zdnia27 sierpnia2004 oświadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, 2135, póên. zm. ) wart.66 wust.1 dodaje się pkt 8b i8c wbrzmieniu: Ń8b) funkcjonariusze Służby Kontrwywiadu Wojskowego;
 
-**Art. 55.** W ustawie dnia 20 maja 2005 o dodatku pieni´˝nym dla niektórych emerytów, rencistów iosób pobierajàcych Êwiadczenie przedemerytalne albo zasi∏ek przedemerytalny (Dz. U. 102, 852 oraz 2006 708) w art. 2 w ust. 1 pkt 8 otrzymuje brzmienie: „8) Êwiadczeƒ, októrych mowa wart. 2 pkt 1 lit. a—c ustawy dnia 18 lutego 1994 o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej iS∏u˝by Wi´ziennej oraz ich rodzin (Dz. U. 2004 8, 67, póên. zm. ),”.
+**Art. 55.** W ustawie dnia 20 maja 2005 o dodatku pieniężnym dla niektórych emerytów, rencistów iosób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny (Dz. U. 102, 852 oraz 2006 708) w art. 2 w ust. 1 pkt 8 otrzymuje brzmienie: Ń8) świadczeń, októrych mowa wart. 2 pkt 1 lit. a—c ustawy dnia 18 lutego 1994 o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej iSłużby Więziennej oraz ich rodzin (Dz. U. 2004 8, 67, póên. zm. ),”.
 
-**Art. 56.** Wustawie zdnia 27 lipca 2005 Prawo oszkolnictwie wy˝szym (Dz. U. 164, 1365 oraz 2006 46, 328 i 708) w art. 137 ust. 3 otrzymuje brzmienie: „3. Nauczyciel akademicki b´dàcy funkcjonariuszem s∏u˝b paƒstwowych ma prawo do zaopatrzenia emerytalnego na podstawie przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej i S∏u˝by Wi´ziennej oraz ich rodzin, je˝eli spe∏nia warunki okreÊlone w tych przepisach.”. Rozdzia∏ 3 Przepisy przejÊciowe i dostosowujàce
+**Art. 56.** Wustawie zdnia 27 lipca 2005 Prawo oszkolnictwie wyższym (Dz. U. 164, 1365 oraz 2006 46, 328 i 708) w art. 137 ust. 3 otrzymuje brzmienie: Ń3. Nauczyciel akademicki będący funkcjonariuszem służb państwowych ma prawo do zaopatrzenia emerytalnego na podstawie przepisów o zaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin, jeżeli spełnia warunki określone w tych przepisach.”.
 
-**Art. 57.** Zdniem 30 wrzeÊnia 2006 znosi si´ Wojskowe S∏u˝by Informacyjne.
+#### Rozdział 3 Przepisy przejściowe i dostosowujące
+
+**Art. 57.** Zdniem 30 września 2006 znosi się Wojskowe Służby Informacyjne.
 
 **Art. 58.**
 
-1. W terminie do 14 dni od dnia wejÊcia w ˝ycie ustawy:
+1. W terminie do 14 dni od dnia wejścia w życie ustawy:
 
-- **3)** Prezydent Rzeczypospolitej Polskiej oraz Prezes Rady Ministrów powo∏ujà cz∏onków Komisji Weryfikacyjnej.
+- **3)** Prezydent Rzeczypospolitej Polskiej oraz Prezes Rady Ministrów powołują członków Komisji Weryfikacyjnej.
 
-2. Pe∏nomocnikiem do spraw organizacji SKW, Pe∏nomocnikiem do spraw organizacji SWW, cz∏onkiem Komisji Likwidacyjnej oraz cz∏onkiem Komisji Weryfikacyjnej mo˝e zostaç osoba, która posiada wa˝ne poÊwiadczenie bezpieczeƒstwa upowa˝niajàce do dost´pu do informacji niejawnych oznaczonych klauzulà „ÊciÊle tajne”.
+2. Pełnomocnikiem do spraw organizacji SKW, Pełnomocnikiem do spraw organizacji SWW, członkiem Komisji Likwidacyjnej oraz członkiem Komisji Weryfikacyjnej może zostać osoba, która posiada ważne poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą Ńściśle tajne”.
 
 **Art. 59.**
 
-1. Szef WSI jest obowiàzany do wspó∏dzia∏ania Pe∏nomocnikami oraz Komisjà Likwidacyjnà w zakresie przekazywania spraw prowadzonych przez WSI oraz likwidacji WSI.
+1. Szef WSI jest obowiązany do współdziałania Pełnomocnikami oraz Komisją Likwidacyjną w zakresie przekazywania spraw prowadzonych przez WSI oraz likwidacji WSI.
 
-2. Minister Obrony Narodowej okreÊli, wdrodze zarzàdzenia, formy itryb wspó∏dzia∏ania, októrym mowa w ust. 1, okreÊlajàc obowiàzki Szefa WSI w tym zakresie, uwzgl´dnieniem koniecznoÊci zapewnienia bezpieczeƒstwa Si∏ Zbrojnych Rzeczypospolitej Polskiej.
+2. Minister Obrony Narodowej określi, wdrodze zarządzenia, formy itryb współdziałania, októrym mowa w ust. 1, określając obowiązki Szefa WSI w tym zakresie, uwzględnieniem konieczności zapewnienia bezpieczeństwa Sił Zbrojnych Rzeczypospolitej Polskiej.
 
 **Art. 60.**
 
-1. Do zadaƒ Pe∏nomocników nale˝y zorganizowanie SKW oraz SWW poprzez wykonanie czyn1) Prezes Rady Ministrów, na wniosek Ministra Obrony Narodowej, wdrodze zarzàdzenia, po zasi´gni´ciu opinii Prezydenta Rzeczypospolitej Polskiej, powo∏uje Pe∏nomocnika do spraw organizacji SKW oraz Pe∏nomocnika do spraw organizacji SWW;
+1. Do zadań Pełnomocników należy zorganizowanie SKW oraz SWW poprzez wykonanie czyn1) Prezes Rady Ministrów, na wniosek Ministra Obrony Narodowej, wdrodze zarządzenia, po zasięgnięciu opinii Prezydenta Rzeczypospolitej Polskiej, powołuje Pełnomocnika do spraw organizacji SKW oraz Pełnomocnika do spraw organizacji SWW;
 
-- **2)** Minister Obrony Narodowej, w drodze zarzàdzenia, powo∏uje Komisj´ Likwidacyjnà oraz wyznacza jej Przewodniczàcego; noÊci niezb´dnych do rozpocz´cia dzia∏alnoÊci przez SKW oraz SWW, w tym w szczególnoÊci:
-- **1)** przedstawienie Ministrowi Obrony Narodowej do zatwierdzenia, w terminie 7 dni od dnia powo∏ania, harmonogramu realizacji przedsi´wzi´ç wynikajàcych zakresu powierzonych im zadaƒ;
+- **2)** Minister Obrony Narodowej, w drodze zarządzenia, powołuje Komisję Likwidacyjną oraz wyznacza jej Przewodniczącego; ności niezbędnych do rozpoczęcia działalności przez SKW oraz SWW, w tym w szczególności:
+- **1)** przedstawienie Ministrowi Obrony Narodowej do zatwierdzenia, w terminie 7 dni od dnia powołania, harmonogramu realizacji przedsięwzięć wynikających zakresu powierzonych im zadań;
 - **2)** opracowanie projektów statutów SKW i SWW;
-- **3)** wyznaczanie ˝o∏nierzy zawodowych na stanowiska s∏u˝bowe w SKW i SWW, mianowanie funkcjonariuszy na stanowiska s∏u˝bowe w SKW i SWW oraz zatrudnianie pracowników w SKW i SWW.
+- **3)** wyznaczanie żołnierzy zawodowych na stanowiska służbowe w SKW i SWW, mianowanie funkcjonariuszy na stanowiska służbowe w SKW i SWW oraz zatrudnianie pracowników w SKW i SWW.
 
-2. Pe∏nomocnicy wyznaczajà ˝o∏nierzy zawodowych na stanowiska s∏u˝bowe wSKW iSWW, mianujà funkcjonariuszy na stanowiska s∏u˝bowe w SKW i SWW oraz zatrudniajà pracowników w SKW i SWW dniem 1 paêdziernika 2006
+2. Pełnomocnicy wyznaczają żołnierzy zawodowych na stanowiska służbowe wSKW iSWW, mianują funkcjonariuszy na stanowiska służbowe w SKW i SWW oraz zatrudniają pracowników w SKW i SWW dniem 1 paêdziernika 2006
 
-3. Wyznaczanie ˝o∏nierzy zawodowych na stanowiska s∏u˝bowe w SKW i SWW jest dopuszczalne po przeprowadzeniu post´powania kwalifikacyjnego, o którym mowa w art. 47 ustawy o SKW oraz SWW.
+3. Wyznaczanie żołnierzy zawodowych na stanowiska służbowe w SKW i SWW jest dopuszczalne po przeprowadzeniu postępowania kwalifikacyjnego, o którym mowa w art. 47 ustawy o SKW oraz SWW.
 
-4. Mianowanie funkcjonariuszy na stanowiska s∏u˝bowe w SKW i SWW jest dopuszczalne po przeprowadzeniu post´powania kwalifikacyjnego okreÊlonego w ustawie dnia 9 czerwca 2006 o s∏u˝bie funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego.
+4. Mianowanie funkcjonariuszy na stanowiska służbowe w SKW i SWW jest dopuszczalne po przeprowadzeniu postępowania kwalifikacyjnego określonego w ustawie dnia 9 czerwca 2006 o służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego.
 
-5. Pe∏nomocnicy, w szczególnie uzasadnionych przypadkach, za zgodà Ministra Obrony Narodowej, mogà ograniczyç post´powania kwalifikacyjne, o których mowa w ust. 3 i 4, w stosunku do ˝o∏nierzy WSI oraz funkcjonariuszy Agencji Bezpieczeƒstwa Wewn´trznego iAgencji Wywiadu ubiegajàcych si´ owyznaczenie na stanowiska s∏u˝bowe lub o przyj´cie do s∏u˝by wSKW lub SWW, poprzez odstàpienie od ustalania zdolnoÊci fizycznej do s∏u˝by.
+5. Pełnomocnicy, w szczególnie uzasadnionych przypadkach, za zgodą Ministra Obrony Narodowej, mogą ograniczyć postępowania kwalifikacyjne, o których mowa w ust. 3 i 4, w stosunku do żołnierzy WSI oraz funkcjonariuszy Agencji Bezpieczeństwa Wewnętrznego iAgencji Wywiadu ubiegających się owyznaczenie na stanowiska służbowe lub o przyjęcie do służby wSKW lub SWW, poprzez odstąpienie od ustalania zdolności fizycznej do służby.
 
-6. Wprzypadku powo∏ania ministra wcelu koordy7. Mianowanie na funkcjonariuszy, wyznaczanie na stanowiska oraz zatrudnianie osób, o których mowa w art. 65 ust. 1 i art. 66, nast´puje po z∏o˝eniu oÊwiadczeƒ, o których mowa w art. 67 ust. 1 i 3, oraz zapoznaniu si´ ze stanowiskiem Komisji Weryfikacyjnej. Pe∏nomocnicy mogà zwróciç si´ o przekazanie oÊwiadczeƒ, o których mowa w art. 67 ust. 1 i 3, oraz protoko∏ów czynnoÊci z∏o˝enia wyjaÊnieƒ.
+6. Wprzypadku powołania ministra wcelu koordy7. Mianowanie na funkcjonariuszy, wyznaczanie na stanowiska oraz zatrudnianie osób, o których mowa w art. 65 ust. 1 i art. 66, następuje po złożeniu oświadczeń, o których mowa w art. 67 ust. 1 i 3, oraz zapoznaniu się ze stanowiskiem Komisji Weryfikacyjnej. Pełnomocnicy mogą zwrócić się o przekazanie oświadczeń, o których mowa w art. 67 ust. 1 i 3, oraz protokołów czynności złożenia wyjaśnień.
 
-8. Mianowanie na funkcjonariuszy oraz wyznaczanie na stanowiska zaszeregowane do stopnia etatowego wy˝szego ni˝ podpu∏kownik wymaga zgody Ministra Obrony Narodowej.
+8. Mianowanie na funkcjonariuszy oraz wyznaczanie na stanowiska zaszeregowane do stopnia etatowego wyższego niż podpułkownik wymaga zgody Ministra Obrony Narodowej.
 
-9. Pe∏nomocnicy wykonujà zadania przy pomocy odpowiednio Biura Pe∏nomocnika do spraw organizacji SKW oraz Biura Pe∏nomocnika do spraw organizacji SWW. Wydatki zwiàzane dzia∏alnoÊcià Biur Pe∏nomocników pokrywane sà zcz´Êci bud˝etu paƒstwa pozostajàcego wdyspozycji Ministra Obrony Narodowej.
+9. Pełnomocnicy wykonują zadania przy pomocy odpowiednio Biura Pełnomocnika do spraw organizacji SKW oraz Biura Pełnomocnika do spraw organizacji SWW. Wydatki związane działalnością Biur Pełnomocników pokrywane są zczęści budżetu państwa pozostającego wdyspozycji Ministra Obrony Narodowej.
 
-10. Pracowników Biur zatrudniajà Pe∏nomocnicy. Biura Pe∏nomocników ulegajà likwidacji dniem 30 wrzeÊnia 2006
+10. Pracowników Biur zatrudniają Pełnomocnicy. Biura Pełnomocników ulegają likwidacji dniem 30 września 2006
 
-11. Pe∏nomocnikom, do czasu powo∏ania Szefa SKW oraz Szefa SWW, przys∏ugujà odpowiednio uprawnienia Szefa SKW oraz Szefa SWW.
+11. Pełnomocnikom, do czasu powołania Szefa SKW oraz Szefa SWW, przysługują odpowiednio uprawnienia Szefa SKW oraz Szefa SWW.
 
-12. Pe∏nomocnicy koƒczà swojà dzia∏alnoÊç zdniem powo∏ania Szefa SKW oraz Szefa SWW.
+12. Pełnomocnicy kończą swoją działalność zdniem powołania Szefa SKW oraz Szefa SWW.
 
-13. Minister Obrony Narodowej sprawuje nadzór nad dzia∏alnoÊcià Pe∏nomocników.
+13. Minister Obrony Narodowej sprawuje nadzór nad działalnością Pełnomocników.
 
 **Art. 61.**
 
-1. Do zadaƒ Komisji Likwidacyjnej nale˝y w szczególnoÊci przygotowanie do przekazania SKW i SWW, odpowiednio do zakresu dzia∏ania SKW i SWW, nieruchomoÊci, Êrodków trwa∏ych i obrotowych pozostajàcych dotychczas w dyspozycji WSI, wtym Êrodków obrotowych zgromadzonych wfunduszu operacyjnym WSI, post´powaƒ wtoku prowadzonych przez WSI, materia∏ów archiwalnych zgromadzonych w wyodr´bnionym archiwum WSI oraz pozosta∏ych dokumentów b´dàcych w posiadaniu WSI.
+1. Do zadań Komisji Likwidacyjnej należy w szczególności przygotowanie do przekazania SKW i SWW, odpowiednio do zakresu działania SKW i SWW, nieruchomości, środków trwałych i obrotowych pozostających dotychczas w dyspozycji WSI, wtym środków obrotowych zgromadzonych wfunduszu operacyjnym WSI, postępowań wtoku prowadzonych przez WSI, materiałów archiwalnych zgromadzonych w wyodrębnionym archiwum WSI oraz pozostałych dokumentów będących w posiadaniu WSI.
 
-2. Do zadaƒ Komisji Likwidacyjnej nale˝y w szczególnoÊci inwentaryzacja Êrodków funduszu operacyjnego b´dàcych w dyspozycji WSI oraz aktywów operacyjnych rejestrowanych i nierejestrowanych b´dàcych na stanie oficerów WSI przyst´pujàcych do weryfikacji.
+2. Do zadań Komisji Likwidacyjnej należy w szczególności inwentaryzacja środków funduszu operacyjnego będących w dyspozycji WSI oraz aktywów operacyjnych rejestrowanych i nierejestrowanych będących na stanie oficerów WSI przystępujących do weryfikacji.
 
-3. Szef WSI, wdrodze rozkazu specjalnego, wyznacza ˝o∏nierzy WSI, których dotyczyç ma inwentaryzacja, o której mowa w ust. 2.
+3. Szef WSI, wdrodze rozkazu specjalnego, wyznacza żołnierzy WSI, których dotyczyć ma inwentaryzacja, o której mowa w ust. 2.
 
-4. Przewodniczàcy Komisji Likwidacyjnej, po zasi´gni´ciu opinii Szefa WSI oraz Pe∏nomocników, przedstawia Ministrowi Obrony Narodowej propozycje w sprawie przekazania SKW i SWW, odpowiednio do zakresu dzia∏ania SKW i SWW, nieruchomoÊci, Êrodków, post´powaƒ w toku oraz materia∏ów i dokumentów, o których mowa w ust. 1.
+4. Przewodniczący Komisji Likwidacyjnej, po zasięgnięciu opinii Szefa WSI oraz Pełnomocników, przedstawia Ministrowi Obrony Narodowej propozycje w sprawie przekazania SKW i SWW, odpowiednio do zakresu działania SKW i SWW, nieruchomości, środków, postępowań w toku oraz materiałów i dokumentów, o których mowa w ust. 1.
 
-5. Minister Obrony Narodowej przekazuje SKW i SWW, odpowiednio do zakresu dzia∏ania SKW i SWW, nieruchomoÊci, Êrodki, post´powania w toku oraz materia∏y idokumenty, októrych mowa wust. 1. nie 7 dni od dnia powo∏ania Komisji Likwidacyjnej, harmonogram realizacji przedsi´wzi´ç wynikajàcych zakresu zadaƒ Komisji Likwidacyjnej.
+5. Minister Obrony Narodowej przekazuje SKW i SWW, odpowiednio do zakresu działania SKW i SWW, nieruchomości, środki, postępowania w toku oraz materiały idokumenty, októrych mowa wust. 1. nie 7 dni od dnia powołania Komisji Likwidacyjnej, harmonogram realizacji przedsięwzięć wynikających zakresu zadań Komisji Likwidacyjnej.
 
-2. Komisja Likwidacyjna sk∏ada Marsza∏kowi Sejmu Rzeczypospolitej Polskiej, za poÊrednictwem Sejmowej Komisji do Spraw S∏u˝b Specjalnych, wterminie 30 dni od dnia zniesienia WSI sprawozdanie ze swojej dzia∏alnoÊci.
+2. Komisja Likwidacyjna składa Marszałkowi Sejmu Rzeczypospolitej Polskiej, za pośrednictwem Sejmowej Komisji do Spraw Służb Specjalnych, wterminie 30 dni od dnia zniesienia WSI sprawozdanie ze swojej działalności.
 
-3. Pe∏nomocnicy, ka˝dy wzakresie swojej w∏aÊciwoÊci, sk∏adajà Marsza∏kowi Sejmu Rzeczypospolitej Polskiej, za poÊrednictwem Sejmowej Komisji do Spraw S∏u˝b Specjalnych, w terminie 30 dni od utworzenia SKW iSWW, sprawozdania ze swojej dzia∏alnoÊci.
+3. Pełnomocnicy, każdy wzakresie swojej właściwości, składają Marszałkowi Sejmu Rzeczypospolitej Polskiej, za pośrednictwem Sejmowej Komisji do Spraw Służb Specjalnych, w terminie 30 dni od utworzenia SKW iSWW, sprawozdania ze swojej działalności.
 
-4. Komisja Likwidacyjna koƒczy dzia∏alnoÊç zdniem 30 wrzeÊnia 2006 r., zzastrze˝eniem ust. 2.
+4. Komisja Likwidacyjna kończy działalność zdniem 30 września 2006 r., zzastrzeżeniem ust. 2.
 
-5. Minister Obrony Narodowej okreÊli, w drodze zarzàdzenia niepodlegajàcego og∏oszeniu, sposób realizacji zadaƒ Komisji Likwidacyjnej, majàc na uwadze koniecznoÊç zapewnienia bezpieczeƒstwa Si∏ Zbrojnych Rzeczypospolitej Polskiej, a tak˝e zapewnienia Êrodków niezb´dnych do prawid∏owego przeprowadzenia likwidacji WSI oraz wymogi dotyczàce ochrony informacji niejawnych.
+5. Minister Obrony Narodowej określi, w drodze zarządzenia niepodlegającego ogłoszeniu, sposób realizacji zadań Komisji Likwidacyjnej, mając na uwadze konieczność zapewnienia bezpieczeństwa Sił Zbrojnych Rzeczypospolitej Polskiej, a także zapewnienia środków niezbędnych do prawidłowego przeprowadzenia likwidacji WSI oraz wymogi dotyczące ochrony informacji niejawnych.
 
 **Art. 63.**
 
-1. Komisja Weryfikacyjna sk∏ada si´ 12 cz∏onków powo∏ywanych przez Prezydenta Rzeczypospolitej Polskiej oraz 12 cz∏onków powo∏ywanych przez Prezesa Rady Ministrów. Prezydent Rzeczypospolitej Polskiej wyznacza Przewodniczàcego Komisji Weryfikacyjnej spoÊród jej cz∏onków.
+1. Komisja Weryfikacyjna składa się 12 członków powoływanych przez Prezydenta Rzeczypospolitej Polskiej oraz 12 członków powoływanych przez Prezesa Rady Ministrów. Prezydent Rzeczypospolitej Polskiej wyznacza Przewodniczącego Komisji Weryfikacyjnej spośród jej członków.
 
-2. Komisja Weryfikacyjna przedstawia Pe∏nomocnikom lub Szefowi SKW lub Szefowi SWW stanowisko w sprawie zgodnoÊci prawdà oÊwiadczeƒ, o których mowa w art. 67 ust. 1 i 3.
+2. Komisja Weryfikacyjna przedstawia Pełnomocnikom lub Szefowi SKW lub Szefowi SWW stanowisko w sprawie zgodności prawdą oświadczeń, o których mowa w art. 67 ust. 1 i 3.
 
-3. Komisja Weryfikacyjna zajmuje stanowisko, o którym mowa w ust. 2, w czteroosobowych zespo∏ach, utworzonych przez Przewodniczàcego Komisji Weryfikacyjnej spoÊród jej cz∏onków, po dwóch spoÊród powo∏anych przez Prezydenta Rzeczypospolitej Polskiej iPrezesa Rady Ministrów. Zespó∏ mo˝e przedstawiç Komisji Weryfikacyjnej projekt stanowiska do rozstrzygni´cia.
+3. Komisja Weryfikacyjna zajmuje stanowisko, o którym mowa w ust. 2, w czteroosobowych zespołach, utworzonych przez Przewodniczącego Komisji Weryfikacyjnej spośród jej członków, po dwóch spośród powołanych przez Prezydenta Rzeczypospolitej Polskiej iPrezesa Rady Ministrów. Zespół może przedstawić Komisji Weryfikacyjnej projekt stanowiska do rozstrzygnięcia.
 
-4. W przypadku powstania wàtpliwoÊci co do zgodnoÊci oÊwiadczenia prawdà, Komisja Weryfikacyjna informuje otym osob´, która z∏o˝y∏a oÊwiadczenie, a tak˝e informuje o mo˝liwoÊci z∏o˝enia wyjaÊnieƒ. W toku sk∏adania wyjaÊnieƒ Komisja Weryfikacyjna mo˝e zadawaç pytania dotyczàce przebiegu s∏u˝by lub pracy, w tym post´powaƒ prowadzonych udzia∏em danej osoby. Z czynnoÊci z∏o˝enia wyjaÊnieƒ sporzàdza si´ protokó∏.
+4. W przypadku powstania wątpliwości co do zgodności oświadczenia prawdą, Komisja Weryfikacyjna informuje otym osobę, która złożyła oświadczenie, a także informuje o możliwości złożenia wyjaśnień. W toku składania wyjaśnień Komisja Weryfikacyjna może zadawać pytania dotyczące przebiegu służby lub pracy, w tym postępowań prowadzonych udziałem danej osoby. Z czynności złożenia wyjaśnień sporządza się protokół.
 
-5. Komisja Likwidacyjna zapewnia cz∏onkom Komisji Weryfikacyjnej dost´p do wszelkich, ∏àcznie zzawierajàcymi tajemnic´ paƒstwowà, materia∏ów archiwalnych i operacyjnych, a tak˝e innych dokumentów niezb´dnych do weryfikacji oÊwiadczeƒ, o których mowa w art. 67 ust. 1 i 3.
+5. Komisja Likwidacyjna zapewnia członkom Komisji Weryfikacyjnej dostęp do wszelkich, łącznie zzawierającymi tajemnicę państwową, materiałów archiwalnych i operacyjnych, a także innych dokumentów niezbędnych do weryfikacji oświadczeń, o których mowa w art. 67 ust. 1 i 3.
 
-6. Po utworzeniu SKW i SWW dost´p do materia7. Prezes Rady Ministrów okreÊli, w drodze rozporzàdzenia, szczegó∏owy tryb dzia∏ania Komisji Weryfikacyjnej, sposób przeprowadzania i dokumentowania dokonywanych przez t´ komisj´ czynnoÊci, tryb post´powania dokumentami oraz formy i tryb wspó∏dzia∏ania Komisjà Weryfikacyjnà Szefa WSI, Komisji Likwidacyjnej oraz Szefów SKW i SWW, uwzgl´dniajàc koniecznoÊç zapewnienia prawid∏owej iefektywnej realizacji zadaƒ tej komisji oraz wymogi dotyczàce ochrony informacji niejawnych.
+6. Po utworzeniu SKW i SWW dostęp do materia7. Prezes Rady Ministrów określi, w drodze rozporządzenia, szczegółowy tryb działania Komisji Weryfikacyjnej, sposób przeprowadzania i dokumentowania dokonywanych przez tę komisję czynności, tryb postępowania dokumentami oraz formy i tryb współdziałania Komisją Weryfikacyjną Szefa WSI, Komisji Likwidacyjnej oraz Szefów SKW i SWW, uwzględniając konieczność zapewnienia prawidłowej iefektywnej realizacji zadań tej komisji oraz wymogi dotyczące ochrony informacji niejawnych.
 
-8. Prezes Rady Ministrów okreÊli, w drodze zarzàdzenia, termin zakoƒczenia dzia∏alnoÊci Komisji Weryfikacyjnej.
+8. Prezes Rady Ministrów określi, w drodze zarządzenia, termin zakończenia działalności Komisji Weryfikacyjnej.
 
 **Art. 64.**
 
-1. Obs∏ug´ technicznà i administracyjnà Komisji Weryfikacyjnej zapewnia Pe∏nomocnik do spraw organizacji SKW.
+1. Obsługę techniczną i administracyjną Komisji Weryfikacyjnej zapewnia Pełnomocnik do spraw organizacji SKW.
 
-2. Od dnia 1 paêdziernika 2006 obs∏ug´ technicznà i administracyjnà Komisji Weryfikacyjnej zapewnia Szef SKW.
+2. Od dnia 1 paêdziernika 2006 obsługę techniczną i administracyjną Komisji Weryfikacyjnej zapewnia Szef SKW.
 
-3. Cz∏onkom Komisji Weryfikacyjnej przys∏ugujà diety za prac´ zwiàzanà udzia∏em w Komisji oraz zwrot kosztów podró˝y i noclegów na zasadach okreÊlonych wprzepisach dotyczàcych nale˝noÊci przys∏ugujàcych pracownikowi zatrudnionemu w paƒstwowej lub samorzàdowej jednostce sfery bud˝etowej tytu∏u podró˝y s∏u˝bowej na obszarze kraju.
+3. Członkom Komisji Weryfikacyjnej przysługują diety za pracę związaną udziałem w Komisji oraz zwrot kosztów podróży i noclegów na zasadach określonych wprzepisach dotyczących należności przysługujących pracownikowi zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej tytułu podróży służbowej na obszarze kraju.
 
-4. Wydatki zwiàzane zdzia∏alnoÊcià Komisji Weryfikacyjnej pokrywane sà zcz´Êci bud˝etu paƒstwa pozostajàcego wdyspozycji Ministra Obrony Narodowej.
+4. Wydatki związane zdziałalnością Komisji Weryfikacyjnej pokrywane są zczęści budżetu państwa pozostającego wdyspozycji Ministra Obrony Narodowej.
 
 **Art. 65.**
 
-1. W terminie do 30 dni od dnia wejÊcia w ˝ycie ustawy ˝o∏nierze zawodowi pe∏niàcy s∏u˝b´ w WSI oraz pracownicy zatrudnieni w WSI mogà z∏o˝yç Pe∏nomocnikom wniosek owyznaczenie na stanowisko s∏u˝bowe w SKW lub SWW, mianowanie na funkcjonariuszy SKW lub SWW albo zatrudnienie w SKW lub SWW.
+1. W terminie do 30 dni od dnia wejścia w życie ustawy żołnierze zawodowi pełniący służbę w WSI oraz pracownicy zatrudnieni w WSI mogą złożyć Pełnomocnikom wniosek owyznaczenie na stanowisko służbowe w SKW lub SWW, mianowanie na funkcjonariuszy SKW lub SWW albo zatrudnienie w SKW lub SWW.
 
-2. ˚o∏nierzy WSI, którzy nie z∏o˝yli wniosku, o którym mowa wust. 1, albo nie zostali wyznaczeni na stanowiska s∏u˝bowe w SKW albo SWW, mianowani na funkcjonariuszy SKW albo SWW oraz zatrudnieni w SKW albo SWW, zwalnia si´ zajmowanych stanowisk s∏u˝bowych i wyznacza na inne stanowisko s∏u˝bowe, przenosi do rezerwy kadrowej albo wypowiada stosunek s∏u˝bowy zawodowej s∏u˝by wojskowej.
+2. ˚ołnierzy WSI, którzy nie złożyli wniosku, o którym mowa wust. 1, albo nie zostali wyznaczeni na stanowiska służbowe w SKW albo SWW, mianowani na funkcjonariuszy SKW albo SWW oraz zatrudnieni w SKW albo SWW, zwalnia się zajmowanych stanowisk służbowych i wyznacza na inne stanowisko służbowe, przenosi do rezerwy kadrowej albo wypowiada stosunek służbowy zawodowej służby wojskowej.
 
-3. ˚o∏nierze WSI, októrych mowa wust. 2, nie mogà byç wyznaczani na stanowiska s∏u˝bowe w sàdach wojskowych, w prokuraturach wojskowych, w jednostkach ˚andarmerii Wojskowej, a tak˝e na stanowiska s∏u˝bowe wwojskowych jednostkach rozpoznania oraz jednostkach zwiadowczych.
+3. ˚ołnierze WSI, októrych mowa wust. 2, nie mogą być wyznaczani na stanowiska służbowe w sądach wojskowych, w prokuraturach wojskowych, w jednostkach ˚andarmerii Wojskowej, a także na stanowiska służbowe wwojskowych jednostkach rozpoznania oraz jednostkach zwiadowczych.
 
-4. Stosunki pracy pracownikami WSI, którzy nie z∏o˝yli wniosku, o którym mowa w ust. 1, albo nie zostali mianowani na funkcjonariuszy ani zatrudnieni w SKW albo SWW, wygasajà dniem zniesienia WSI.
+4. Stosunki pracy pracownikami WSI, którzy nie złożyli wniosku, o którym mowa w ust. 1, albo nie zostali mianowani na funkcjonariuszy ani zatrudnieni w SKW albo SWW, wygasają dniem zniesienia WSI.
 
-5. Je˝eli przepisy prawa pracy uzale˝niajà nabycie albo wymiar uprawnieƒ pracowniczych od okresu zatrudnienia u danego pracodawcy albo od nieprzerwanego zatrudnienia u danego pracodawcy, pracowniArt. 66.Wterminie do 30 dni od dnia wejÊcia w˝ycie ustawy byli ˝o∏nierze oraz byli pracownicy WSI lub wojskowych jednostek organizacyjnych realizujàcych zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejÊciem w˝ycie ustawy zdnia 9 lipca 2003 oWojskowych S∏u˝bach Informacyjnych mogà z∏o˝yç wniosek owyznaczenie na stanowisko s∏u˝bowe w SKW lub SWW, mianowanie na funkcjonariusza albo zatrudnienie w SKW lub SWW.
+5. Jeżeli przepisy prawa pracy uzależniają nabycie albo wymiar uprawnień pracowniczych od okresu zatrudnienia u danego pracodawcy albo od nieprzerwanego zatrudnienia u danego pracodawcy, pracowniArt. 66.Wterminie do 30 dni od dnia wejścia wżycie ustawy byli żołnierze oraz byli pracownicy WSI lub wojskowych jednostek organizacyjnych realizujących zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejściem wżycie ustawy zdnia 9 lipca 2003 oWojskowych Służbach Informacyjnych mogą złożyć wniosek owyznaczenie na stanowisko służbowe w SKW lub SWW, mianowanie na funkcjonariusza albo zatrudnienie w SKW lub SWW.
 
 **Art. 67.**
 
-1. Wraz wnioskiem, o którym mowa w art. 65 ust. 1 i art. 66, osoba sk∏adajàca wniosek sk∏ada oÊwiadczenie, czy w okresie pe∏nienia s∏u˝by albo zatrudnienia wWSI lub wojskowych jednostkach organizacyjnych realizujàcych zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejÊciem w ˝ycie ustawy dnia 9 lipca 2003 o Wojskowych S∏u˝bach Informacyjnych, sama lub wspólnie i w porozumieniu innà osobà:
+1. Wraz wnioskiem, o którym mowa w art. 65 ust. 1 i art. 66, osoba składająca wniosek składa oświadczenie, czy w okresie pełnienia służby albo zatrudnienia wWSI lub wojskowych jednostkach organizacyjnych realizujących zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejściem w życie ustawy dnia 9 lipca 2003 o Wojskowych Służbach Informacyjnych, sama lub wspólnie i w porozumieniu inną osobą:
 
-- **1)** wbrew przepisom ustawy ujawni∏a lub wykorzysta∏a informacje stanowiàce tajemnic´ paƒstwowà lub s∏u˝bowà;
-- **2)** wbrew przepisom ustawy lub cià˝àcemu na sobie obowiàzkowi ujawni∏a lub wykorzysta∏a informacje, uzyskane wwyniku wykonywanych przez WSI albo inne organy, s∏u˝by lub instytucje paƒstwowe czynnoÊci operacyjno-rozpoznawczych;
-- **3)** majàc wiarygodnà wiadomoÊç okaralnym przygotowaniu albo usi∏owaniu lub dokonaniu czynu zabronionego nie zawiadomi∏a niezw∏ocznie organu powo∏anego do Êcigania przest´pstw;
-- **4)** utrudnia∏a lub udaremnia∏a post´powanie karne, pomagajàc sprawcy przest´pstwa, wtym przest´pstwa skarbowego, uniknàç odpowiedzialnoÊci karnej;
-- **5)** stosowa∏a przemoc wobec osoby lub groêb´ bezprawnà w celu zmuszenia innej osoby do okreÊlonego dzia∏ania, zaniechania lub znoszenia;
-- **6)** wp∏ywa∏a wsposób bezprawny na rozstrzygni´cia, w tym decyzje administracyjne, oraz inne czynnoÊci urz´dowe organów w∏adzy publicznej, a tak˝e na zaniechanie ich podj´cia;
-- **7)** prowadzi∏a tajnà wspó∏prac´ przedsi´biorcà, nadawcà, redaktorem naczelnym, dziennikarzem lub podmiotem prowadzàcym dzia∏alnoÊç wydawniczà na terytorium Rzeczypospolitej Polskiej;
-- **8)** tworzy∏a lub przekazywa∏a fa∏szywe informacje lub podejmowa∏a inne dzia∏ania w celu:
-    - **a)** skierowania przeciwko okreÊlonej osobie Êcigania karnego oprzest´pstwo, przest´pstwo skarbowe, wykroczenie, wykroczenie skarbowe lub przewinienie dyscyplinarne,
-    - **b)** pomówienia okreÊlonej osoby, grupy osób, instytucji, osoby prawnej lub jednostki organizacyjnej niemajàcej osobowoÊci prawnej o takie post´powanie lub w∏aÊciwoÊci, które mogà jà poni˝yç w opinii publicznej lub naraziç na utrat´ zaufania potrzebnego dla danego stanowiska, zawodu lub rodzaju dzia∏alnoÊci;
+- **1)** wbrew przepisom ustawy ujawniła lub wykorzystała informacje stanowiące tajemnicę państwową lub służbową;
+- **2)** wbrew przepisom ustawy lub ciążącemu na sobie obowiązkowi ujawniła lub wykorzystała informacje, uzyskane wwyniku wykonywanych przez WSI albo inne organy, służby lub instytucje państwowe czynności operacyjno-rozpoznawczych;
+- **3)** mając wiarygodną wiadomość okaralnym przygotowaniu albo usiłowaniu lub dokonaniu czynu zabronionego nie zawiadomiła niezwłocznie organu powołanego do ścigania przestępstw;
+- **4)** utrudniała lub udaremniała postępowanie karne, pomagając sprawcy przestępstwa, wtym przestępstwa skarbowego, uniknąć odpowiedzialności karnej;
+- **5)** stosowała przemoc wobec osoby lub groêbę bezprawną w celu zmuszenia innej osoby do określonego działania, zaniechania lub znoszenia;
+- **6)** wpływała wsposób bezprawny na rozstrzygnięcia, w tym decyzje administracyjne, oraz inne czynności urzędowe organów władzy publicznej, a także na zaniechanie ich podjęcia;
+- **7)** prowadziła tajną współpracę przedsiębiorcą, nadawcą, redaktorem naczelnym, dziennikarzem lub podmiotem prowadzącym działalność wydawniczą na terytorium Rzeczypospolitej Polskiej;
+- **8)** tworzyła lub przekazywała fałszywe informacje lub podejmowała inne działania w celu:
+    - **a)** skierowania przeciwko określonej osobie ścigania karnego oprzestępstwo, przestępstwo skarbowe, wykroczenie, wykroczenie skarbowe lub przewinienie dyscyplinarne,
+    - **b)** pomówienia określonej osoby, grupy osób, instytucji, osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej o takie postępowanie lub właściwości, które mogą ją poniżyć w opinii publicznej lub narazić na utratę zaufania potrzebnego dla danego stanowiska, zawodu lub rodzaju działalności;
 
-- **9)** kierowa∏a pope∏nieniem przez innà osob´ czynu, októrym mowa wpkt 1—6 i8, nak∏ania∏a innà oso10) osiàgn´∏a korzyÊç majàtkowà lub osobistà ztytu∏u dzia∏aƒ, o których mowa w pkt 1—9.
+- **9)** kierowała popełnieniem przez inną osobę czynu, októrym mowa wpkt 1—6 i8, nakłaniała inną oso10) osiągnęła korzyść majątkową lub osobistą ztytułu działań, o których mowa w pkt 1—9.
 
-2. OÊwiadczenie obejmuje równie˝ dzia∏ania, o których mowa w ust. 1, majàce miejsce po zwolnieniu ze s∏u˝by albo ustaniu zatrudnienia w WSI lub innych wojskowych jednostkach organizacyjnych realizujàcych zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejÊciem w ˝ycie ustawy dnia 9 lipca 2003 o Wojskowych S∏u˝bach Informacyjnych, je˝eli pozostawa∏y one wzwiàzku tà s∏u˝bà albo zatrudnieniem.
+2. Oświadczenie obejmuje również działania, o których mowa w ust. 1, mające miejsce po zwolnieniu ze służby albo ustaniu zatrudnienia w WSI lub innych wojskowych jednostkach organizacyjnych realizujących zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejściem w życie ustawy dnia 9 lipca 2003 o Wojskowych Służbach Informacyjnych, jeżeli pozostawały one wzwiązku tą służbą albo zatrudnieniem.
 
-3. Wraz wnioskiem, o którym mowa w art. 65 ust. 1 i art. 66, osoba sk∏adajàca wniosek sk∏ada oÊwiadczenie, czy by∏a lub jest cz∏onkiem zarzàdu, rady nadzorczej lub komisji rewizyjnej spó∏ki prawa handlowego, cz∏onkiem zarzàdu, rady nadzorczej lub komisji rewizyjnej spó∏dzielni, cz∏onkiem zarzàdu fundacji prowadzàcej dzia∏alnoÊç gospodarczà, czy posiada lub posiada∏a w spó∏kach prawa handlowego akcje lub udzia∏y, prowadzi lub prowadzi∏a dzia∏alnoÊç gospodarczà na w∏asny rachunek lub wspólnie innymi osobami, atak˝e czy zarzàdza lub zarzàdza∏a takà dzia∏alnoÊcià lub jest lub by∏a przedstawicielem albo pe∏nomocnikiem w prowadzeniu takiej dzia∏alnoÊci.
+3. Wraz wnioskiem, o którym mowa w art. 65 ust. 1 i art. 66, osoba składająca wniosek składa oświadczenie, czy była lub jest członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółki prawa handlowego, członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółdzielni, członkiem zarządu fundacji prowadzącej działalność gospodarczą, czy posiada lub posiadała w spółkach prawa handlowego akcje lub udziały, prowadzi lub prowadziła działalność gospodarczą na własny rachunek lub wspólnie innymi osobami, atakże czy zarządza lub zarządzała taką działalnością lub jest lub była przedstawicielem albo pełnomocnikiem w prowadzeniu takiej działalności.
 
-4. Na potrzeby sk∏adania oÊwiadczenia, o którym mowa ust. 1:
+4. Na potrzeby składania oświadczenia, o którym mowa ust. 1:
 
-- **1)** nadawcà jest:
+- **1)** nadawcą jest:
     - **a)** osoba, o której mowa w art. 4 pkt 1 i 1a ustawy dnia 29 grudnia 1992 o radiofonii i telewizji (Dz. U. z2004 253, 2531, póên. zm. ),
-    - **b)** osoby wchodzàce w sk∏ad organów zarzàdzajàcych i kontrolnych nadawcy,
-    - **c)** podmiot dominujàcy w stosunku do nadawcy w rozumieniu art. 4 pkt 14 ustawy dnia 29 lipca 2005 o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spó∏kach publicznych (Dz. U. 184, 1539),
-    - **d)** osoby wchodzàce w sk∏ad organów zarzàdzajàcych i kontrolnych podmiotu dominujàcego w stosunku do nadawcy;
+    - **b)** osoby wchodzące w skład organów zarządzających i kontrolnych nadawcy,
+    - **c)** podmiot dominujący w stosunku do nadawcy w rozumieniu art. 4 pkt 14 ustawy dnia 29 lipca 2005 o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych (Dz. U. 184, 1539),
+    - **d)** osoby wchodzące w skład organów zarządzających i kontrolnych podmiotu dominującego w stosunku do nadawcy;
 
 - **2)** redaktorem naczelnym jest osoba, o której mowa w art. 7 ust. 2 pkt 7, ustawy dnia 26 stycznia 1984 Prawo prasowe (Dz. U. 5, 24, póên. zm.
-    - **a)** podmiot prowadzàcy dzia∏alnoÊç, o której mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe,
-    - **b)** osoby wchodzàce w sk∏ad organów zarzàdzajàcych i kontrolnych podmiotu prowadzàcego dzia∏alnoÊç wydawniczà,
-    - **c)** podmiot dominujàcy w stosunku do podmiotu prowadzàcego dzia∏alnoÊç wydawniczà w rozumieniu art. 4 pkt 14 ustawy dnia 29 lipca 2005 o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spó∏kach publicznych,
-    - **d)** osoby wchodzàce w sk∏ad organów zarzàdzajàcych i kontrolnych podmiotu dominujàcego wobec podmiotu prowadzàcego dzia∏alnoÊç wydawniczà;
+    - **a)** podmiot prowadzący działalność, o której mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe,
+    - **b)** osoby wchodzące w skład organów zarządzających i kontrolnych podmiotu prowadzącego działalność wydawniczą,
+    - **c)** podmiot dominujący w stosunku do podmiotu prowadzącego działalność wydawniczą w rozumieniu art. 4 pkt 14 ustawy dnia 29 lipca 2005 o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych,
+    - **d)** osoby wchodzące w skład organów zarządzających i kontrolnych podmiotu dominującego wobec podmiotu prowadzącego działalność wydawniczą;
 
-- **5)** przedsi´biorcà jest:
-    - **a)** osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadajàca osobowoÊci prawnej prowadzàca dzia∏alnoÊç gospodarczà lub za);
+- **5)** przedsiębiorcą jest:
+    - **a)** osoba fizyczna, osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej prowadząca działalność gospodarczą lub za);
 
 - **3)** dziennikarzem jest osoba, o której mowa w art. 7 ust. 2 pkt 5, ustawy dnia 26 stycznia 1984 Prawo prasowe;
-- **4)** pomiotem prowadzàcym dzia∏alnoÊç wydawniczà jest: robkowà,
-    - **b)** osoby wchodzàce w sk∏ad organów zarzàdzajàcych i kontrolnych przedsi´biorcy b´dàcego osobà prawnà lub jednostkà organizacyjnà nieposiadajàcà osobowoÊci prawnej,
-    - **c)** podmiot dominujàcy w stosunku do przedsi´biorcy w rozumieniu art. 4 pkt 14 ustawy dnia 29 lipca 2005 oofercie publicznej iwarunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spó∏kach publicznych,
-    - **d)** osoby wchodzàce w sk∏ad organów zarzàdzajàcych i kontrolnych podmiotu dominujàcego wobec przedsi´biorcy.
+- **4)** pomiotem prowadzącym działalność wydawniczą jest: robkową,
+    - **b)** osoby wchodzące w skład organów zarządzających i kontrolnych przedsiębiorcy będącego osobą prawną lub jednostką organizacyjną nieposiadającą osobowości prawnej,
+    - **c)** podmiot dominujący w stosunku do przedsiębiorcy w rozumieniu art. 4 pkt 14 ustawy dnia 29 lipca 2005 oofercie publicznej iwarunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz o spółkach publicznych,
+    - **d)** osoby wchodzące w skład organów zarządzających i kontrolnych podmiotu dominującego wobec przedsiębiorcy.
 
-5. Przy sk∏adaniu oÊwiadczeƒ, o których mowa wust.1 i3, oraz wyjaÊnieƒ, októrych mowa wart. 63 ust.4, osoby je sk∏adajàce sà zwolnione zmocy prawa zobowiàzku zachowania tajemnicy paƒstwowej is∏u˝bowej.
+5. Przy składaniu oświadczeń, o których mowa wust.1 i3, oraz wyjaśnień, októrych mowa wart. 63 ust.4, osoby je składające są zwolnione zmocy prawa zobowiązku zachowania tajemnicy państwowej isłużbowej.
 
-6. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, wzory oÊwiadczeƒ, o których mowa wust. 1 i3, uwzgl´dniajàc koniecznoÊç zamieszczenia pouczenia oodpowiedzialnoÊci karnej za podanie nieprawdy oraz ochrony informacji niejawnych.
+6. Minister Obrony Narodowej określi, w drodze rozporządzenia, wzory oświadczeń, o których mowa wust. 1 i3, uwzględniając konieczność zamieszczenia pouczenia oodpowiedzialności karnej za podanie nieprawdy oraz ochrony informacji niejawnych.
 
-7. Prezes Rady Ministrów okreÊli, w drodze rozporzàdzenia, tryb sk∏adania oÊwiadczeƒ, októrych mowa wust. 1 i3, oraz sposób ich ewidencjonowania, archiwizowania i udost´pniania w celu zapewnienia mo˝liwoÊci ich sprawdzenia, uwzgl´dniajàc koniecznoÊç zapewnienia ochrony informacji niejawnych.
+7. Prezes Rady Ministrów określi, w drodze rozporządzenia, tryb składania oświadczeń, októrych mowa wust. 1 i3, oraz sposób ich ewidencjonowania, archiwizowania i udostępniania w celu zapewnienia możliwości ich sprawdzenia, uwzględniając konieczność zapewnienia ochrony informacji niejawnych.
 
-**Art. 68.** W terminie 30 dni od dnia wejÊcia w ˝ycie ustawy oÊwiadczenia, o których mowa w art. 67 ust. 1 i3, mogà równie˝ z∏o˝yç ˝o∏nierze oraz pracownicy WSI, atak˝e byli ˝o∏nierze oraz byli pracownicy WSI lub wojskowych jednostek organizacyjnych realizujàcych zadania wzakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejÊciem w ˝ycie ustawy dnia 9 lipca 2003 oWojskowych S∏u˝bach Informacyjnych
+**Art. 68.** W terminie 30 dni od dnia wejścia w życie ustawy oświadczenia, o których mowa w art. 67 ust. 1 i3, mogą również złożyć żołnierze oraz pracownicy WSI, atakże byli żołnierze oraz byli pracownicy WSI lub wojskowych jednostek organizacyjnych realizujących zadania wzakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejściem w życie ustawy dnia 9 lipca 2003 oWojskowych Służbach Informacyjnych
 
 **Art. 69.**
 
-1. Nie podlega karze za wyst´pek pope∏niony podczas iwzwiàzku zpe∏nieniem s∏u˝by lub zatrudnieniem w WSI albo wojskowych jednostkach organizacyjnych realizujàcych zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejÊciem w ˝ycie ustawy dnia 9 lipca 2003 o Wojskowych S∏u˝bach Informacyjnych, kto ujawni jego pope∏nienie w oÊwiadczeniach, o których mowa w art. 67 ust. 1 i 3, albo sk∏adajàc wyjaÊnienia przed Komisjà Weryfikacyjnà.
+1. Nie podlega karze za występek popełniony podczas iwzwiązku zpełnieniem służby lub zatrudnieniem w WSI albo wojskowych jednostkach organizacyjnych realizujących zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejściem w życie ustawy dnia 9 lipca 2003 o Wojskowych Służbach Informacyjnych, kto ujawni jego popełnienie w oświadczeniach, o których mowa w art. 67 ust. 1 i 3, albo składając wyjaśnienia przed Komisją Weryfikacyjną.
 
-2. Nie podlega odpowiedzialnoÊci dyscyplinarnej za czyn pope∏niony podczas i w zwiàzku pe∏nieniem s∏u˝by lub zatrudnieniem wWSI albo wojskowych jednostkach organizacyjnych realizujàcych zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejÊciem w ˝ycie ustawy dnia 9 lipca 2003 o Wojskowych S∏u˝bach Informacyjnych, kto ujawni jego pope∏nienie w oÊwiadczeniach, o których mowa wart. 67 ust. 1 i3, albo sk∏adajàc wyjaÊnienia przed Komisjà Weryfikacyjnà.
+2. Nie podlega odpowiedzialności dyscyplinarnej za czyn popełniony podczas i w związku pełnieniem służby lub zatrudnieniem wWSI albo wojskowych jednostkach organizacyjnych realizujących zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejściem w życie ustawy dnia 9 lipca 2003 o Wojskowych Służbach Informacyjnych, kto ujawni jego popełnienie w oświadczeniach, o których mowa wart. 67 ust. 1 i3, albo składając wyjaśnienia przed Komisją Weryfikacyjną.
 
 **Art. 70.**
 
-1. Komisja Weryfikacyjna sk∏ada Marsza∏kowi Sejmu Rzeczypospolitej Polskiej, za poÊrednictwem Sejmowej Komisji do Spraw S∏u˝b Specjalnych, w terminie okreÊlonym na podstawie art. 63 ust. 8, sprawozdanie ze swojej dzia∏alnoÊci.
+1. Komisja Weryfikacyjna składa Marszałkowi Sejmu Rzeczypospolitej Polskiej, za pośrednictwem Sejmowej Komisji do Spraw Służb Specjalnych, w terminie określonym na podstawie art. 63 ust. 8, sprawozdanie ze swojej działalności.
 
-2. Komisja Weryfikacyjna po zakoƒczeniu swoich prac podaje do publicznej wiadomoÊci komunikat o wynikach prac.
+2. Komisja Weryfikacyjna po zakończeniu swoich prac podaje do publicznej wiadomości komunikat o wynikach prac.
 
-3. Rada Ministrów okreÊli, w drodze rozporzàdzenia, zakres informacji podlegajàcych podaniu do publicznej wiadomoÊci, uwzgl´dniajàc koniecznoÊç zapewnienia bezpieczeƒstwa paƒstwa i ochrony informacji niejawnych.
+3. Rada Ministrów określi, w drodze rozporządzenia, zakres informacji podlegających podaniu do publicznej wiadomości, uwzględniając konieczność zapewnienia bezpieczeństwa państwa i ochrony informacji niejawnych.
 
-**Art. 71.** Ârodki bud˝etowe pozosta∏e po likwidacji WSI, nieprzekazane SKW lub SWW, pozostajà w dyspozycji Ministra Obrony Narodowej.
+**Art. 71.** Ârodki budżetowe pozostałe po likwidacji WSI, nieprzekazane SKW lub SWW, pozostają w dyspozycji Ministra Obrony Narodowej.
 
 **Art. 72.**
 
-1. Nale˝noÊci i zobowiàzania WSI stajà si´ nale˝noÊciami i zobowiàzaniami SKW lub SWW, odpowiednio do ich zakresu dzia∏ania.
+1. Należności i zobowiązania WSI stają się należnościami i zobowiązaniami SKW lub SWW, odpowiednio do ich zakresu działania.
 
-2. Minister Obrony Narodowej okreÊli zakres praw i obowiàzków wynikajàcych umów i porozumieƒ zawartych przez lub na rzecz WSI, które zostanà przej´te przez SKW albo SWW, odpowiednio do ich zakresu
+2. Minister Obrony Narodowej określi zakres praw i obowiązków wynikających umów i porozumień zawartych przez lub na rzecz WSI, które zostaną przejęte przez SKW albo SWW, odpowiednio do ich zakresu
 
-**Art. 75.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie dnia 9 czerwca 2006 oSKW oraz SWW iwustawie zdnia 9 czerwca 2006 os∏u˝bie funkcjonariuszy SKW oraz SWW, atak˝e wprzepisach ustaw nowelizowanych niniejszà ustawà, stosuje si´ odpowiednio dotychczas obowiàzujàce przepisy wydane na podstawie ustawy dnia 9 lipca 2003 o Wojskowych S∏u˝bach Informacyjnych oraz ustaw nowelizowanych niniejszà ustawà, nie d∏u˝ej jednak ni˝ przez 12 miesi´cy od dnia wejÊcia w˝ycie niniejszej ustawy, oile nie sà sprzeczne ztymi ustawami.
+**Art. 75.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie dnia 9 czerwca 2006 oSKW oraz SWW iwustawie zdnia 9 czerwca 2006 osłużbie funkcjonariuszy SKW oraz SWW, atakże wprzepisach ustaw nowelizowanych niniejszą ustawą, stosuje się odpowiednio dotychczas obowiązujące przepisy wydane na podstawie ustawy dnia 9 lipca 2003 o Wojskowych Służbach Informacyjnych oraz ustaw nowelizowanych niniejszą ustawą, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia wżycie niniejszej ustawy, oile nie są sprzeczne ztymi ustawami.
 
 **Art. 76.**
 
-1. ˚o∏nierze oraz pracownicy WSI, a tak˝e byli ˝o∏nierze oraz byli pracownicy WSI lub wojskowych jednostek organizacyjnych realizujàcych zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejÊciem w ˝ycie ustawy dnia 9 lipca 2003 o Wojskowych S∏u˝bach Informacyjnych, którzy wtrybie przewidzianym ustawà nie z∏o˝yli oÊwiadczeƒ, o których mowa w art. 67 ust. 1 i 3, nie mogà byç wyznaczani na stanowiska s∏u˝bowe wSKW i SWW, mianowani na funkcjonariuszy SKW i SWW oraz zatrudniani wSKW iSWW, zzastrze˝eniem ust. 2. dzia∏ania.
+1. ˚ołnierze oraz pracownicy WSI, a także byli żołnierze oraz byli pracownicy WSI lub wojskowych jednostek organizacyjnych realizujących zadania w zakresie wywiadu wojskowego lub kontrwywiadu wojskowego przed wejściem w życie ustawy dnia 9 lipca 2003 o Wojskowych Służbach Informacyjnych, którzy wtrybie przewidzianym ustawą nie złożyli oświadczeń, o których mowa w art. 67 ust. 1 i 3, nie mogą być wyznaczani na stanowiska służbowe wSKW i SWW, mianowani na funkcjonariuszy SKW i SWW oraz zatrudniani wSKW iSWW, zzastrzeżeniem ust. 2. działania.
 
-3. Szef SKW oraz Szef SWW, ka˝dy w zakresie swojego dzia∏ania, powiadomi strony umów iporozumieƒ, o których mowa w ust. 2, o wstàpieniu odpowiednio SKW albo SWW w miejsce WSI.
+3. Szef SKW oraz Szef SWW, każdy w zakresie swojego działania, powiadomi strony umów iporozumień, o których mowa w ust. 2, o wstąpieniu odpowiednio SKW albo SWW w miejsce WSI.
 
-**Art. 73.** Post´powania iczynnoÊci wszcz´te wWSI i niezakoƒczone do dnia likwidacji WSI, dotyczàce spraw, które przesz∏y do w∏aÊciwoÊci SKW albo SWW, toczà si´ nadal wed∏ug przepisów dotychczasowych, odpowiednio w SKW albo SWW.
+**Art. 73.** Postępowania iczynności wszczęte wWSI i niezakończone do dnia likwidacji WSI, dotyczące spraw, które przeszły do właściwości SKW albo SWW, toczą się nadal według przepisów dotychczasowych, odpowiednio w SKW albo SWW.
 
-**Art. 74.** Decyzje, poÊwiadczenia bezpieczeƒstwa, certyfikaty i Êwiadectwa bezpieczeƒstwa przemys∏owego oraz umowy i porozumienia wydane lub zawarte przez Szefa WSI na podstawie dotychczas obowià2. ˚o∏nierz lub pracownik WSI przebywajàcy za granicà w celu realizacji zadaƒ s∏u˝bowych, który ze wzgl´du na bezpieczeƒstwo paƒstwa nie mo˝e z∏o˝yç oÊwiadczenia, októrym mowa wart. 67 ust. 1 i3, mo˝e byç wyznaczony na stanowisko s∏u˝bowe w SKW albo SWW, mianowany na funkcjonariusza SKW albo SWW oraz zatrudniony w SKW albo SWW, na okres do dnia 31 marca 2007 r., za zgodà Ministra Obrony Narodowej. Minister Obrony Narodowej o fakcie wyra˝enia zgody powiadamia niezw∏ocznie Prezydenta Rzeczypospolitej Polskiej i Prezesa Rady Ministrów. 3. Wstosunku do ˝o∏nierzy ipracowników WSI, wyznaczonych na stanowiska s∏u˝bowe w SKW i SWW, mianowanych na funkcjonariuszy SKW iSWW oraz zatrudnionych w SKW i SWW w trybie okreÊlonym wust.2, mo˝na, za zgodà Ministra Obrony Narodowej, odstàpiç od przeprowadzenia post´powania kwalifikacyjnego, o którym mowa w art. 60 ust. 3 i 4, je˝eli jest to uzasadnione wzgl´dami bezpieczeƒstwa paƒstwa. 4. Wprzypadku powo∏ania ministra wcelu koordynowania dzia∏alnoÊci s∏u˝b specjalnych, Minister Obrony Narodowej wyra˝a zgod´, o której mowa w ust. 2 i 3, w porozumieniu tym ministrem. 5. Wyznaczenie na stanowisko s∏u˝bowe w SKW albo SWW, mianowanie na funkcjonariusza SKW albo SWW oraz zatrudnienie w SKW albo SWW osoby, októrej mowa wust. 2, po up∏ywie terminu okreÊlonego w tym przepisie mo˝e nastàpiç po przeprowadzeniu post´powania kwalifikacyjnego oraz z∏o˝eniu oÊwiadczenia, o którym mowa w art. 67 ust. 1 i 3. 6. ˚o∏nierz lub pracownik WSI, o którym mowa wust. 2, który wtrybie okreÊlonym wtym przepisie zosta∏ wyznaczony na stanowisko s∏u˝bowe wSKW albo SWW, mianowany na funkcjonariusza SKW albo SWW albo zatrudniony w SKW albo SWW, jest obowiàzany z∏o˝yç oÊwiadczenie, o którym mowa w art. 67 ust. 1 i 3, w terminie 14 dni od dnia powrotu na terytorium Rzeczypospolitej Polskiej.
+**Art. 74.** Decyzje, poświadczenia bezpieczeństwa, certyfikaty i świadectwa bezpieczeństwa przemysłowego oraz umowy i porozumienia wydane lub zawarte przez Szefa WSI na podstawie dotychczas obowią2. ˚ołnierz lub pracownik WSI przebywający za granicą w celu realizacji zadań służbowych, który ze względu na bezpieczeństwo państwa nie może złożyć oświadczenia, októrym mowa wart. 67 ust. 1 i3, może być wyznaczony na stanowisko służbowe w SKW albo SWW, mianowany na funkcjonariusza SKW albo SWW oraz zatrudniony w SKW albo SWW, na okres do dnia 31 marca 2007 r., za zgodą Ministra Obrony Narodowej. Minister Obrony Narodowej o fakcie wyrażenia zgody powiadamia niezwłocznie Prezydenta Rzeczypospolitej Polskiej i Prezesa Rady Ministrów. 3. Wstosunku do żołnierzy ipracowników WSI, wyznaczonych na stanowiska służbowe w SKW i SWW, mianowanych na funkcjonariuszy SKW iSWW oraz zatrudnionych w SKW i SWW w trybie określonym wust.2, można, za zgodą Ministra Obrony Narodowej, odstąpić od przeprowadzenia postępowania kwalifikacyjnego, o którym mowa w art. 60 ust. 3 i 4, jeżeli jest to uzasadnione względami bezpieczeństwa państwa. 4. Wprzypadku powołania ministra wcelu koordynowania działalności służb specjalnych, Minister Obrony Narodowej wyraża zgodę, o której mowa w ust. 2 i 3, w porozumieniu tym ministrem. 5. Wyznaczenie na stanowisko służbowe w SKW albo SWW, mianowanie na funkcjonariusza SKW albo SWW oraz zatrudnienie w SKW albo SWW osoby, októrej mowa wust. 2, po upływie terminu określonego w tym przepisie może nastąpić po przeprowadzeniu postępowania kwalifikacyjnego oraz złożeniu oświadczenia, o którym mowa w art. 67 ust. 1 i 3. 6. ˚ołnierz lub pracownik WSI, o którym mowa wust. 2, który wtrybie określonym wtym przepisie został wyznaczony na stanowisko służbowe wSKW albo SWW, mianowany na funkcjonariusza SKW albo SWW albo zatrudniony w SKW albo SWW, jest obowiązany złożyć oświadczenie, o którym mowa w art. 67 ust. 1 i 3, w terminie 14 dni od dnia powrotu na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 77.**
 
-1. Osoba, o której mowa w art. 65 ust. 1, wyznaczona na stanowisko s∏u˝bowe w SKW albo SWW albo mianowana na funkcjonariusza SKW albo SWW, która w dniu wejÊcia w ˝ycie ustawy:
+1. Osoba, o której mowa w art. 65 ust. 1, wyznaczona na stanowisko służbowe w SKW albo SWW albo mianowana na funkcjonariusza SKW albo SWW, która w dniu wejścia w życie ustawy:
 
-- **1)** korzysta ztajnej wspó∏pracy znadawcà wrozumieniu art. 4 pkt 1 ustawy dnia 29 grudnia 1992 o radiofonii i telewizji, redaktorem naczelnym, dziennikarzem lub osobà prowadzàcà dza∏alnoÊç wydawniczà, o których mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe,
-- **2)** jest cz∏onkiem zarzàdu, rady nadzorczej lub komisji rewizyjnej spó∏ki prawa handlowego,
-- **3)** jest cz∏onkiem zarzàdu, rady nadzorczej lub komisji rewizyjnej spó∏dzielni, zwyjàtkiem rady nadzorczej spó∏dzielni mieszkaniowej,
-- **4)** jest cz∏onkiem zarzàdu fundacji prowadzàcej dzia∏alnoÊç gospodarczà,
-- **5)** posiada w spó∏ce prawa handlowego wi´cej ni˝ 10 % akcji lub udzia∏y przedstawiajàce wi´cej ni˝ 10 % kapita∏u zak∏adowego w ka˝dej tych spó∏ek, lub
-- **6)** prowadzi dzia∏alnoÊç gospodarczà na w∏asny rachunek lub wspólnie innymi osobami albo zarzàdza takà dzia∏alnoÊcià lub jest przedstawicielem czy pe∏nomocnikiem wprowadzeniu takiej dzia∏alnoÊci jest obowiàzana do zaprzestania tajnej wspó∏pracy, sprawowania funkcji, prowadzenia dzia∏alnoÊci, atak˝e do zbycia odpowiedniej iloÊci akcji lub udzia∏ów w terminie 6 miesi´cy, je˝eli przed up∏ywem tego terminu nie zostanie wydana zgoda, októrej mowa wart. 41 ust. 3 ustawy zdnia 9 czerwca 2006 oS∏u˝bie Kontrwywiadu Wojskowego oraz S∏u˝bie Wywiadu Wojskowego.
+- **1)** korzysta ztajnej współpracy znadawcą wrozumieniu art. 4 pkt 1 ustawy dnia 29 grudnia 1992 o radiofonii i telewizji, redaktorem naczelnym, dziennikarzem lub osobą prowadzącą dzałalność wydawniczą, o których mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe,
+- **2)** jest członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółki prawa handlowego,
+- **3)** jest członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółdzielni, zwyjątkiem rady nadzorczej spółdzielni mieszkaniowej,
+- **4)** jest członkiem zarządu fundacji prowadzącej działalność gospodarczą,
+- **5)** posiada w spółce prawa handlowego więcej niż 10 % akcji lub udziały przedstawiające więcej niż 10 % kapitału zakładowego w każdej tych spółek, lub
+- **6)** prowadzi działalność gospodarczą na własny rachunek lub wspólnie innymi osobami albo zarządza taką działalnością lub jest przedstawicielem czy pełnomocnikiem wprowadzeniu takiej działalności jest obowiązana do zaprzestania tajnej współpracy, sprawowania funkcji, prowadzenia działalności, atakże do zbycia odpowiedniej ilości akcji lub udziałów w terminie 6 miesięcy, jeżeli przed upływem tego terminu nie zostanie wydana zgoda, októrej mowa wart. 41 ust. 3 ustawy zdnia 9 czerwca 2006 oSłużbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego.
 
-2. Do osoby, o której mowa w ust. 1, w terminie okreÊlonym w tym przepisie nie stosuje si´ art. 52 ust. 1 i art. 55 ust. 1 ustawy dnia 9 czerwca 2006 o S∏u˝bie Kontrwywiadu Wojskowego oraz S∏u˝bie Wywiadu Wojskowego.
+2. Do osoby, o której mowa w ust. 1, w terminie określonym w tym przepisie nie stosuje się art. 52 ust. 1 i art. 55 ust. 1 ustawy dnia 9 czerwca 2006 o Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego.
 
 **Art. 78.**
 
-1. Funkcjonariusz Agencji Bezpieczeƒstwa Wewn´trznego albo Agencji Wywiadu, który w dniu wejÊcia w ˝ycie ustawy:
+1. Funkcjonariusz Agencji Bezpieczeństwa Wewnętrznego albo Agencji Wywiadu, który w dniu wejścia w życie ustawy:
 
-- **1)** korzysta ztajnej wspó∏pracy znadawcà wrozumieniu art. 4 pkt 1 ustawy dnia 29 grudnia 1992 o radiofonii i telewizji, redaktorem naczelnym,
-- **3)** jest cz∏onkiem zarzàdu, rady nadzorczej lub komisji rewizyjnej spó∏dzielni, zwyjàtkiem rady nadzorczej spó∏dzielni mieszkaniowej,
-- **4)** jest cz∏onkiem zarzàdu fundacji prowadzàcej dzia∏alnoÊç gospodarczà,
-- **5)** posiada w spó∏ce prawa handlowego wi´cej ni˝ 10 % akcji lub udzia∏y przedstawiajàce wi´cej ni˝ 10 % kapita∏u zak∏adowego w ka˝dej tych spó∏ek, lub
-- **6)** prowadzi dzia∏alnoÊç gospodarczà na w∏asny rachunek lub wspólnie innymi osobami albo zarzàdza takà dzia∏alnoÊcià lub jest przedstawicielem czy pe∏nomocnikiem wprowadzeniu takiej dzia∏alnoÊci jest obowiàzany do zaprzestania tajnej wspó∏pracy, sprawowania funkcji, prowadzenia dzia∏alnoÊci, a tak˝e do zbycia odpowiedniej iloÊci akcji lub udzia∏ów w terminie 6 miesi´cy, je˝eli przed up∏ywem tego terminu nie zostanie wydana zgoda, o której mowa w art. 37 ust. 2 lub art. 79a ust. 2 ustawy dnia 24 maja 2002 oAgencji Bezpieczeƒstwa Wewn´trznego oraz Agencji Wywiadu (Dz. U. 74, 676, zpóên. zm. dziennikarzem lub osobà prowadzàcà dzia∏alnoÊç wydawniczà, o których mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe,
-- **2)** jest cz∏onkiem zarzàdu, rady nadzorczej lub komisji rewizyjnej spó∏ki prawa handlowego, ).
+- **1)** korzysta ztajnej współpracy znadawcą wrozumieniu art. 4 pkt 1 ustawy dnia 29 grudnia 1992 o radiofonii i telewizji, redaktorem naczelnym,
+- **3)** jest członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółdzielni, zwyjątkiem rady nadzorczej spółdzielni mieszkaniowej,
+- **4)** jest członkiem zarządu fundacji prowadzącej działalność gospodarczą,
+- **5)** posiada w spółce prawa handlowego więcej niż 10 % akcji lub udziały przedstawiające więcej niż 10 % kapitału zakładowego w każdej tych spółek, lub
+- **6)** prowadzi działalność gospodarczą na własny rachunek lub wspólnie innymi osobami albo zarządza taką działalnością lub jest przedstawicielem czy pełnomocnikiem wprowadzeniu takiej działalności jest obowiązany do zaprzestania tajnej współpracy, sprawowania funkcji, prowadzenia działalności, a także do zbycia odpowiedniej ilości akcji lub udziałów w terminie 6 miesięcy, jeżeli przed upływem tego terminu nie zostanie wydana zgoda, o której mowa w art. 37 ust. 2 lub art. 79a ust. 2 ustawy dnia 24 maja 2002 oAgencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 74, 676, zpóên. zm. dziennikarzem lub osobą prowadzącą działalność wydawniczą, o których mowa w ustawie dnia 26 stycznia 1984 Prawo prasowe,
+- **2)** jest członkiem zarządu, rady nadzorczej lub komisji rewizyjnej spółki prawa handlowego, ).
 
-2. Do funkcjonariusza, o którym mowa w ust. 1, wterminie okreÊlonym wtym przepisie nie stosuje si´ art. 153a ust. 1 i art. 153d ust. 1 ustawy dnia 24 maja 2002 o Agencji Bezpieczeƒstwa Wewn´trznego oraz Agencji Wywiadu. Rozdzia∏ 4 Przepis karny
+2. Do funkcjonariusza, o którym mowa w ust. 1, wterminie określonym wtym przepisie nie stosuje się art. 153a ust. 1 i art. 153d ust. 1 ustawy dnia 24 maja 2002 o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu.
 
-**Art. 79.** Kto w oÊwiadczeniach, o których mowa w art. 67 ust. 1 lub 3, oÊwiadczy∏ nieprawd´, podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8. Rozdzia∏ 5 Przepis koƒcowy
+#### Rozdział 4 Przepis karny
 
-**Art. 80.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, zwyjàtkiem art. 5—56, oraz art. 77 i art. 78, które wchodzà w ˝ycie dniem 1 paêdziernika 2006 Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 79.** Kto w oświadczeniach, o których mowa w art. 67 ust. 1 lub 3, oświadczył nieprawdę, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+
+#### Rozdział 5 Przepis końcowy
+
+**Art. 80.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, zwyjątkiem art. 5—56, oraz art. 77 i art. 78, które wchodzą w życie dniem 1 paêdziernika 2006 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

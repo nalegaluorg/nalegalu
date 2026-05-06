@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Dziennik Ustaw Nr 46 — 2996 — Poz. 393 i 394 394 KONWENCJA opraniu, ujawnianiu, zajmowaniu ikonfiskacie dochodów pochodzàcych zprzest´pstwa, sporzàdzona wStrasburgu dnia 8 listopada 1990 r.
+# Dziennik Ustaw Nr 46 — 2996 — Poz. 393 i 394 394 KONWENCJA opraniu, ujawnianiu, zajmowaniu ikonfiskacie dochodów pochodzących zprzestępstwa, sporządzona wStrasburgu dnia 8 listopada 1990 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,13 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030460393) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/393/text.pdf) |
 
-Wimieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomoÊci: Wdniu 8 listopada 1990 r. zosta∏a sporzàdzona wStrasburgu Konwencja opraniu, ujawnianiu, zajmowaniu ikonfiskacie dochodów pochodzàcych zprzest´pstwa, w nast´pujàcym brzmieniu: KONWENCJA opraniu, ujawnianiu, zajmowaniu ikonfiskacie dochodów pochodzàcych zprzest´pstwa PREAMBU¸A Paƒstwa Cz∏onkowskie Rady Europy i inne Paƒzwa˝ywszy, ˝e celem Rady Europy jest osiàganie wi´kszej jednoÊci mi´dzy jej cz∏onkami;
-przekonane opotrzebie prowadzenia wspólnej polityki kryminalnej wcelu ochrony spo∏eczeƒstwa;
-zwa˝ywszy, ˝e zwalczanie ci´˝kich przest´pstw, które stajà si´ coraz powa˝niejszym problemem mi´dzystwa-Sygnatariusze niniejszej konwencji;
-narodowym, wymaga u˝ycia nowoczesnych iiskuteczArt. 1. W ustawie z dnia 22 czerwca 2001 r. o ustanowieniu programu wieloletniego „Wyposa˝enie Si∏ Zbrojnych Rzeczypospolitej Polskiej wsamoloty wielozadaniowe” i zapewnieniu warunków jego realizacji (Dz. U. Nr 89, poz. 972 oraz z 2002 r. Nr 37, poz. 332) wart. 3 dodaje si´ ust. 5 i6 wbrzmieniu: „5. Niezale˝nie od wydatków, októrych mowa wust.
-2, na sfinansowanie realizacji programu mogà byç zaciàgane, wimieniu Skarbu Paƒstwa, zobowiàzania finansowe, zwy∏àczeniem ograniczeƒ wynikajàcych z art. 43 ust. 1 ustawy, o której mowa Przek∏ad nych metod dzia∏ania wskali mi´dzynarodowej;
+Wimieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje do powszechnej wiadomości: Wdniu 8 listopada 1990 r. została sporządzona wStrasburgu Konwencja opraniu, ujawnianiu, zajmowaniu ikonfiskacie dochodów pochodzących zprzestępstwa, w następującym brzmieniu: KONWENCJA opraniu, ujawnianiu, zajmowaniu ikonfiskacie dochodów pochodzących zprzestępstwa PREAMBUĘA Państwa Członkowskie Rady Europy i inne Pańzważywszy, że celem Rady Europy jest osiąganie większej jedności między jej członkami;
+przekonane opotrzebie prowadzenia wspólnej polityki kryminalnej wcelu ochrony społeczeństwa;
+zważywszy, że zwalczanie ciężkich przestępstw, które stają się coraz poważniejszym problemem międzystwa-Sygnatariusze niniejszej konwencji;
+narodowym, wymaga użycia nowoczesnych iiskuteczArt. 1. W ustawie z dnia 22 czerwca 2001 r. o ustanowieniu programu wieloletniego ŃWyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej wsamoloty wielozadaniowe” i zapewnieniu warunków jego realizacji (Dz. U. Nr 89, poz. 972 oraz z 2002 r. Nr 37, poz. 332) wart. 3 dodaje się ust. 5 i6 wbrzmieniu: Ń5. Niezależnie od wydatków, októrych mowa wust.
+2, na sfinansowanie realizacji programu mogą być zaciągane, wimieniu Skarbu Państwa, zobowiązania finansowe, zwyłączeniem ograniczeń wynikających z art. 43 ust. 1 ustawy, o której mowa Przekład nych metod działania wskali międzynarodowej;
 wart. 1 ust. 2.
-6. Przyrost paƒstwowego d∏ugu publicznego ztytu∏u zobowiàzaƒ, o których mowa w ust. 5, w ˝adnym roku wykonywania programu nie mo˝e przekroczyç równowartoÊci 3,8 mld USD.”.
+6. Przyrost państwowego długu publicznego ztytułu zobowiązań, o których mowa w ust. 5, w żadnym roku wykonywania programu nie może przekroczyć równowartości 3,8 mld USD.”.
 
-**Art. 2.** Ustawa wchodzi w ˝ycie z dniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 393 USTAWA zdnia 27 lutego 2003 r. ozmianie ustawy oustanowieniu programu wieloletniego „Wyposa˝enie Si∏ Zbrojnych Rzeczypospolitej Polskiej wsamoloty wielozadaniowe” izapewnieniu warunków jego realizacji
+**Art. 2.** Ustawa wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 393 USTAWA zdnia 27 lutego 2003 r. ozmianie ustawy oustanowieniu programu wieloletniego ŃWyposażenie Sił Zbrojnych Rzeczypospolitej Polskiej wsamoloty wielozadaniowe” izapewnieniu warunków jego realizacji
 

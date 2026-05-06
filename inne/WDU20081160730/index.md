@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 30 maja 2008 r. o niektórych formach wspierania działalności innowacyjnej
 
 | Pole | Wartość |
 |---|---|
@@ -24,429 +24,439 @@ domain: null
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081160730) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/730/text.pdf) |
 
-**Art. 1.** Ustawa okreÊla zasady wspierania dzia∏alnoÊci innowacyjnej poprzez:
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa zasady wspierania działalności innowacyjnej poprzez:
 
 **Art. 2.**
 
-1. U˝yte ustawie okreÊlenia oznaczajà:
+1. Użyte ustawie określenia oznaczają:
 
 - **1)** badania badania naukowe rozumieniu art. 2 pkt 2 ustawy dnia 8 paêdziernika 2004 o zasadach finansowania nauki (Dz. U. 238, 2390, póên. zm. );
-- **2)** bank kredytujàcy bank udzielajàcy kredytu technologicznego zwiàzku umowà zawartà Bankiem Gospodarstwa Krajowego;
-- **3)** dzia∏alnoÊç innowacyjna dzia∏alnoÊç polegajàcà na opracowaniu nowej technologii iuruchomieniu na jej podstawie wytwarzania nowych lub znaczàco ulepszonych towarów, procesów lub us∏ug;
-- **4)** inwestycja technologiczna inwestycj´ polegajàcà na:
-    - **a)** zakupie nowej technologii, jej wdro˝eniu oraz uruchomieniu na jej podstawie wytwarzania nowych lub znaczàco ulepszonych towarów, procesów lub us∏ug albo
-    - **b)** wdro˝eniu w∏asnej nowej technologii oraz uruchomieniu na jej podstawie wytwarzania nowych lub znaczàco ulepszonych towarów, procesów lub us∏ug;
+- **2)** bank kredytujący bank udzielający kredytu technologicznego związku umową zawartą Bankiem Gospodarstwa Krajowego;
+- **3)** działalność innowacyjna działalność polegającą na opracowaniu nowej technologii iuruchomieniu na jej podstawie wytwarzania nowych lub znacząco ulepszonych towarów, procesów lub usług;
+- **4)** inwestycja technologiczna inwestycję polegającą na:
+    - **a)** zakupie nowej technologii, jej wdrożeniu oraz uruchomieniu na jej podstawie wytwarzania nowych lub znacząco ulepszonych towarów, procesów lub usług albo
+    - **b)** wdrożeniu własnej nowej technologii oraz uruchomieniu na jej podstawie wytwarzania nowych lub znacząco ulepszonych towarów, procesów lub usług;
 
-- **5)** jednostka naukowa jednostk´ naukowà rozumieniu art. 2 pkt 9 lit. a—fustawy zdnia 8 paêdziernika 2004 o zasadach finansowania nauki; gicznego formie premii technologicznej, do wysokoÊci i na warunkach okreÊlonych ustawie;
-- **7)** ma∏y przedsi´biorca ma∏e przedsi´biorstwo rozumieniu Za∏àcznika I do rozporzàdzenia Komisji (WE) nr 70/2001 dnia 12 stycznia 2001 sprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy paƒstwa dla ma∏ych i Êrednich przedsi´biorstw (Dz. Urz. WE L 10
+- **5)** jednostka naukowa jednostkę naukową rozumieniu art. 2 pkt 9 lit. a—fustawy zdnia 8 paêdziernika 2004 o zasadach finansowania nauki; gicznego formie premii technologicznej, do wysokości i na warunkach określonych ustawie;
+- **7)** mały przedsiębiorca małe przedsiębiorstwo rozumieniu Załącznika I do rozporządzenia Komisji (WE) nr 70/2001 dnia 12 stycznia 2001 sprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10
 
-13. 01.2001), brzmieniu nadanym rozporzàdzeniem Komisji (WE) nr 364/2004 dnia 25 lutego 2004 zmieniajàcym rozporzàdzenie (WE) nr 70/2001 i rozszerzajàcym jego zakres celu w∏àczenia pomocy dla badaƒ i rozwoju (Dz. Urz. UE L 63 28.02.2004);
+13. 01.2001), brzmieniu nadanym rozporządzeniem Komisji (WE) nr 364/2004 dnia 25 lutego 2004 zmieniającym rozporządzenie (WE) nr 70/2001 i rozszerzającym jego zakres celu włączenia pomocy dla badań i rozwoju (Dz. Urz. UE L 63 28.02.2004);
 
-- **8)** mikroprzedsi´biorca mikroprzedsi´biorstwo rozumieniu Za∏àcznika I do rozporzàdzenia Komisji (WE) nr 70/2001 dnia 12 stycznia 2001 sprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy paƒstwa dla ma∏ych i Êrednich przedsi´biorstw (Dz. Urz. WE L 10
+- **8)** mikroprzedsiębiorca mikroprzedsiębiorstwo rozumieniu Załącznika I do rozporządzenia Komisji (WE) nr 70/2001 dnia 12 stycznia 2001 sprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10
 
-13. 01.2001), brzmieniu nadanym rozporzàdzeniem Komisji (WE) nr 364/2004 dnia 25 lutego 2004 zmieniajàcym rozporzàdzenie (WE) nr 70/2001 i rozszerzajàcym jego zakres celu w∏àczenia pomocy dla badaƒ i rozwoju (Dz. Urz. UE L 63 28.02.2004);
+13. 01.2001), brzmieniu nadanym rozporządzeniem Komisji (WE) nr 364/2004 dnia 25 lutego 2004 zmieniającym rozporządzenie (WE) nr 70/2001 i rozszerzającym jego zakres celu włączenia pomocy dla badań i rozwoju (Dz. Urz. UE L 63 28.02.2004);
 
-- **9)** nowa technologia technologi´ postaci prawa w∏asnoÊci przemys∏owej lub us∏ugi badawczo-rozwojowej (wrozumieniu Polskiej Klasyfikacji Wyrobów i Us∏ug), która umo˝liwia wytwarzanie nowych lub znaczàco ulepszonych towarów, procesów lub us∏ug inie jest stosowana na Êwiecie d∏u˝ej ni˝ 5 lat;
+- **9)** nowa technologia technologię postaci prawa własności przemysłowej lub usługi badawczo-rozwojowej (wrozumieniu Polskiej Klasyfikacji Wyrobów i Usług), która umożliwia wytwarzanie nowych lub znacząco ulepszonych towarów, procesów lub usług inie jest stosowana na świecie dłużej niż 5 lat;
 - **10)** prace rozwojowe prace rozwojowe rozumieniu art. 2 pkt 3 ustawy zdnia 8 paêdziernika 2004 o zasadach finansowania nauki;
-- **6)** kredyt technologiczny kredyt udzielany przedsi´biorcy przez bank kredytujàcy na realizacj´ in- 11) premia technologiczna kwot´ przyznawanà westycji technologicznej, który jest cz´Êciowo przedsi´biorcy ze Êrodków Funduszu Kredytu sp∏acany ze Êrodków Funduszu Kredytu Technolo- Technologicznego przez Bank Gospodarstwa Krajowego, na zasadach okreÊlonych ustawie, na sp∏at´ cz´Êci kapita∏u kredytu technologicznego;
-- **12)** przedsi´biorca przedsi´biorstwo rozumieniu Za∏àcznika I do rozporzàdzenia Komisji (WE) nr 70/2001 zdnia 12 stycznia 2001 wsprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy paƒstwa dla ma∏ych i Êrednich przedsi´biorstw (Dz. Urz. WE L 10 13.01.2001), brzmieniu nadanym rozporzàdzeniem Komisji (WE) nr 364/2004 dnia 25 lutego 2004 zmieniajàcym rozporzàdzenie (WE) nr 70/2001 i rozszerzaUSTAWA dnia 30 maja 2008 o niektórych formach wspierania dzia∏alnoÊci innowacyjnej ———————
-- **13)** Êredni przedsi´biorca Êrednie przedsi´biorstwo rozumieniu Za∏àcznika I do rozporzàdzenia Komisji (WE) nr 70/2001 dnia 12 stycznia 2001 sprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy paƒstwa dla ma∏ych i Êrednich przedsi´biorstw (Dz. Urz. WE L 10
+- **6)** kredyt technologiczny kredyt udzielany przedsiębiorcy przez bank kredytujący na realizację in- 11) premia technologiczna kwotę przyznawaną westycji technologicznej, który jest częściowo przedsiębiorcy ze środków Funduszu Kredytu spłacany ze środków Funduszu Kredytu Technolo- Technologicznego przez Bank Gospodarstwa Krajowego, na zasadach określonych ustawie, na spłatę części kapitału kredytu technologicznego;
+- **12)** przedsiębiorca przedsiębiorstwo rozumieniu Załącznika I do rozporządzenia Komisji (WE) nr 70/2001 zdnia 12 stycznia 2001 wsprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10 13.01.2001), brzmieniu nadanym rozporządzeniem Komisji (WE) nr 364/2004 dnia 25 lutego 2004 zmieniającym rozporządzenie (WE) nr 70/2001 i rozszerzaUSTAWA dnia 30 maja 2008 o niektórych formach wspierania działalności innowacyjnej ———————
+- **13)** średni przedsiębiorca średnie przedsiębiorstwo rozumieniu Załącznika I do rozporządzenia Komisji (WE) nr 70/2001 dnia 12 stycznia 2001 sprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10
 
-13. 01.2001), brzmieniu nadanym rozporzàdzeniem Komisji (WE) nr 364/2004 dnia 25 lutego 2004 zmieniajàcym rozporzàdzenie (WE) nr 70/2001 i rozszerzajàcym jego zakres celu w∏àczenia pomocy dla badaƒ i rozwoju (Dz. Urz. UE L 63 28.02.2004);
+13. 01.2001), brzmieniu nadanym rozporządzeniem Komisji (WE) nr 364/2004 dnia 25 lutego 2004 zmieniającym rozporządzenie (WE) nr 70/2001 i rozszerzającym jego zakres celu włączenia pomocy dla badań i rozwoju (Dz. Urz. UE L 63 28.02.2004);
 
-- **14)** udzia∏ w∏asny udzia∏ przedsi´biorcy finansowaniu inwestycji technologicznej pochodzàcy ze Êrodków innych ni˝ Êrodki kredytu technologicznego lub Êrodki uzyskane przez przedsi´biorc´ wzwiàzku zudzielonà pomocà publicznà, wszczególnoÊci formie kredytów, gwarancji lub por´czeƒ, na warunkach korzystniejszych od oferowanych na rynku;
-- **15)** u˝ywane Êrodki trwa∏e Êrodki trwa∏e stanowiàce:
-    - **a)** budynki i budowle lub ich cz´Êci je˝eli od koƒca roku, wktórym zakoƒczono budow´ tych obiektów budowlanych, min´∏o co najmniej 5 lat,
-    - **b)** pozosta∏e Êrodki trwa∏e, wyjàtkiem gruntów, których okres u˝ywania przez przedsi´biorc´ dokonujàcego ich dostawy wyniós∏ co najmniej 6 miesi´cy które nie zosta∏y nabyte lub wytworzone wykorzystaniem pomocy publicznej;
+- **14)** udział własny udział przedsiębiorcy finansowaniu inwestycji technologicznej pochodzący ze środków innych niż środki kredytu technologicznego lub środki uzyskane przez przedsiębiorcę wzwiązku zudzieloną pomocą publiczną, wszczególności formie kredytów, gwarancji lub poręczeń, na warunkach korzystniejszych od oferowanych na rynku;
+- **15)** używane środki trwałe środki trwałe stanowiące:
+    - **a)** budynki i budowle lub ich części jeżeli od końca roku, wktórym zakończono budowę tych obiektów budowlanych, minęło co najmniej 5 lat,
+    - **b)** pozostałe środki trwałe, wyjątkiem gruntów, których okres używania przez przedsiębiorcę dokonującego ich dostawy wyniósł co najmniej 6 miesięcy które nie zostały nabyte lub wytworzone wykorzystaniem pomocy publicznej;
 
-- **16)** zakoƒczenie inwestycji technologicznej zap∏acenie przez przedsi´biorc´ realizujàcego inwestycj´ technologicznà wszystkich faktur dokumentujàcych wydatki poniesione na realizacj´ inwestycji technologicznej.
+- **16)** zakończenie inwestycji technologicznej zapłacenie przez przedsiębiorcę realizującego inwestycję technologiczną wszystkich faktur dokumentujących wydatki poniesione na realizację inwestycji technologicznej.
 
-2. Ilekroç wustawie jest mowa ofakturach, nale˝y przez to rozumieç tak˝e inne dowody ksi´gowe orównowa˝nej wartoÊci dowodowej. Rozdzia∏ 2 Udzielanie kredytu technologicznego i premii technologicznej
+2. Ilekroć wustawie jest mowa ofakturach, należy przez to rozumieć także inne dowody księgowe orównoważnej wartości dowodowej.
+
+#### Rozdział 2 Udzielanie kredytu technologicznego i premii technologicznej
 
 **Art. 3.**
 
-1. Kredyt technologiczny jest udzielany przez bank kredytujàcy mikroprzedsi´biorcy, ma∏emu lub Êredniemu przedsi´biorcy posiadajàcemu zdolnoÊç kredytowà.
+1. Kredyt technologiczny jest udzielany przez bank kredytujący mikroprzedsiębiorcy, małemu lub średniemu przedsiębiorcy posiadającemu zdolność kredytową.
 
-2. Udzielanie kredytu technologicznego oraz premii technologicznej nast´puje zgodnie przepisami rozporzàdzenia Komisji (WE) nr 1628/2006 dnia 24 paêdziernika 2006 sprawie stosowania art. 87 i 88 Traktatu WE odniesieniu do regionalnej pomocy inwestycyjnej (Dz. Urz. UE L302 z01.11.2006), zwanego dalej „rozporzàdzeniem Komisji (WE) nr 1628/2006”, oraz zgodnie zprzepisami dotyczàcymi
+2. Udzielanie kredytu technologicznego oraz premii technologicznej następuje zgodnie przepisami rozporządzenia Komisji (WE) nr 1628/2006 dnia 24 paêdziernika 2006 sprawie stosowania art. 87 i 88 Traktatu WE odniesieniu do regionalnej pomocy inwestycyjnej (Dz. Urz. UE L302 z01.11.2006), zwanego dalej Ńrozporządzeniem Komisji (WE) nr 1628/2006”, oraz zgodnie zprzepisami dotyczącymi
 
-3. Kredyt technologiczny nie mo˝e byç udzielany na realizacj´:
+3. Kredyt technologiczny nie może być udzielany na realizację:
 
-- **1)** du˝ego projektu inwestycyjnego rozumieniu przepisów wydanych na podstawie art. 10 ust. 2 ustawy dnia 30 kwietnia 2004 o post´powaniu sprawach dotyczàcych pomocy publicznej (Dz. U. z2007 59, 404 oraz 2008 93,
+- **1)** dużego projektu inwestycyjnego rozumieniu przepisów wydanych na podstawie art. 10 ust. 2 ustawy dnia 30 kwietnia 2004 o postępowaniu sprawach dotyczących pomocy publicznej (Dz. U. z2007 59, 404 oraz 2008 93,
 - **585)** ;
-- **2)** inwestycji sektorze hutnictwa ˝elaza i stali, w∏ókien syntetycznych, górnictwa w´gla, budownictwa okr´towego, rybo∏ówstwa i akwakultury;
-- **3)** inwestycji polegajàcej na wytwarzaniu produktów majàcych imitowaç lub zast´powaç mleko i przetwory mleczne, októrych mowa wart. 3 ust. 2 rozporzàdzenia EWG nr 1898/87 dnia 2 lipca 1987 sprawie ochrony oznaczeƒ stosowanych obrocie mlekiem i przetworami mlecznymi (Dz. Urz. WE L 182 03.07.1987, str. 36; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 7, str. 247), iobrocie tymi produktami;
-- **4)** inwestycji polegajàcej na produkcji pierwotnej (uprawa, hodowla) produktów wymienionych Za∏àczniku nr 1 do Traktatu ustanawiajàcego Wspólnot´ Europejskà.
+- **2)** inwestycji sektorze hutnictwa żelaza i stali, włókien syntetycznych, górnictwa węgla, budownictwa okrętowego, rybołówstwa i akwakultury;
+- **3)** inwestycji polegającej na wytwarzaniu produktów mających imitować lub zastępować mleko i przetwory mleczne, októrych mowa wart. 3 ust. 2 rozporządzenia EWG nr 1898/87 dnia 2 lipca 1987 sprawie ochrony oznaczeń stosowanych obrocie mlekiem i przetworami mlecznymi (Dz. Urz. WE L 182 03.07.1987, str. 36; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 7, str. 247), iobrocie tymi produktami;
+- **4)** inwestycji polegającej na produkcji pierwotnej (uprawa, hodowla) produktów wymienionych Załączniku nr 1 do Traktatu ustanawiającego Wspólnotę Europejską.
 
-4. Kredyt technologiczny nie mo˝e byç udzielany na zakup, leasing lub wynajem Êrodka trwa∏ego, wktórym zosta∏a wdro˝ona nowa technologia b´dàca przedmiotem inwestycji technologicznej finansowanej za pomocà kredytu technologicznego.
+4. Kredyt technologiczny nie może być udzielany na zakup, leasing lub wynajem środka trwałego, wktórym została wdrożona nowa technologia będąca przedmiotem inwestycji technologicznej finansowanej za pomocą kredytu technologicznego.
 
-5. Bank kredytujàcy nie mo˝e uzale˝niç udzielenia kredytu technologicznego od prowadzenia przez przedsi´biorc´ dzia∏alnoÊci eksportowej towarów lub us∏ug powsta∏ych wyniku inwestycji technologicznej lub od utworzenia przez przedsi´biorc´ zagranicznej sieci dystrybucyjnej, lub od funkcjonowania takiej sieci, lub od uprzywilejowania towarów krajowych wzgl´dem towarów importowanych.
+5. Bank kredytujący nie może uzależnić udzielenia kredytu technologicznego od prowadzenia przez przedsiębiorcę działalności eksportowej towarów lub usług powstałych wyniku inwestycji technologicznej lub od utworzenia przez przedsiębiorcę zagranicznej sieci dystrybucyjnej, lub od funkcjonowania takiej sieci, lub od uprzywilejowania towarów krajowych względem towarów importowanych.
 
-6. Oprocentowanie kredytu technologicznego nie mo˝e byç wy˝sze ni˝ Êrednie oprocentowanie pozosta∏ych kredytów inwestycyjnych udzielanych przez bank kredytujàcy.
+6. Oprocentowanie kredytu technologicznego nie może być wyższe niż średnie oprocentowanie pozostałych kredytów inwestycyjnych udzielanych przez bank kredytujący.
 
-7. Warunki udzielania kredytu technologicznego, wszczególnoÊci prowizje iop∏aty, nie mogà byç mniej korzystne ni˝ warunki proponowane przy udzielaniu przez bank kredytujàcy innych kredytów inwestycyjnych.
+7. Warunki udzielania kredytu technologicznego, wszczególności prowizje iopłaty, nie mogą być mniej korzystne niż warunki proponowane przy udzielaniu przez bank kredytujący innych kredytów inwestycyjnych.
 
-8. Bank kredytujàcy mo˝e zawieraç umowy oudzielenie kredytu technologicznego do dnia 31 paêdziernika 2013
+8. Bank kredytujący może zawierać umowy oudzielenie kredytu technologicznego do dnia 31 paêdziernika 2013
 
 **Art. 4.**
 
-1. Udzia∏ w∏asny przedsi´biorcy realizujàcego inwestycj´ technologicznà finansowaniu tej inwestycji nie mo˝e stanowiç mniej ni˝ 25 % wydatków, o których mowa art. 10 ust. 5 i 6.
+1. Udział własny przedsiębiorcy realizującego inwestycję technologiczną finansowaniu tej inwestycji nie może stanowić mniej niż 25 % wydatków, o których mowa art. 10 ust. 5 i 6.
 
-2. Rozpocz´cie realizacji inwestycji technologicznej finansowanej kredytem technologicznym mo˝e
+2. Rozpoczęcie realizacji inwestycji technologicznej finansowanej kredytem technologicznym może
 
-3. Bank Gospodarstwa Krajowego mo˝e przyznaç promes´ premii technologicznej do dnia 15 wrzeÊnia 2013
+3. Bank Gospodarstwa Krajowego może przyznać promesę premii technologicznej do dnia 15 września 2013
 
-4. Produkcja towarów lub Êwiadczenie us∏ug wynikajàce ze zrealizowania inwestycji technologicznej muszà byç kontynuowane wwojewództwie, wktórym zosta∏a zrealizowana inwestycja technologiczna, albo m.st. Warszawie, je˝eli inwestycja technologiczna zosta∏a zrealizowana m.st. Warszawie, co najmniej przez 3 lata od dnia zakoƒczenia inwestycji technologicznej, pod rygorem zwrotu przez przedsi´biorc´ wyp∏aconej premii technologicznej wraz zodsetkami, októrych mowa art. 14 ust. 2 rozporzàdzenia Rady (WE) nr 659/1999 dnia 22 marca 1999 ustanawiajàcego szczegó∏owe zasady stosowania art. 93 TraktatuWE (Dz. Urz. UE L 83 27.03.1999).
+4. Produkcja towarów lub świadczenie usług wynikające ze zrealizowania inwestycji technologicznej muszą być kontynuowane wwojewództwie, wktórym została zrealizowana inwestycja technologiczna, albo m.st. Warszawie, jeżeli inwestycja technologiczna została zrealizowana m.st. Warszawie, co najmniej przez 3 lata od dnia zakończenia inwestycji technologicznej, pod rygorem zwrotu przez przedsiębiorcę wypłaconej premii technologicznej wraz zodsetkami, októrych mowa art. 14 ust. 2 rozporządzenia Rady (WE) nr 659/1999 dnia 22 marca 1999 ustanawiającego szczegółowe zasady stosowania art. 93 TraktatuWE (Dz. Urz. UE L 83 27.03.1999).
 
 **Art. 5.**
 
-1. Wniosek o udzielenie kredytu technologicznego przedsi´biorca sk∏ada do banku kredytujàcego.
+1. Wniosek o udzielenie kredytu technologicznego przedsiębiorca składa do banku kredytującego.
 
-2. W terminie 60 dni od dnia z∏o˝enia wniosku, o którym mowa ust. 1, bank kredytujàcy zawiera przedsi´biorcà warunkowà umow´ kredytu technologicznego albo przyznaje promes´ kredytu technologicznego. Bank kredytujàcy uzale˝nia zawarcie warunkowej umowy kredytu technologicznego albo wystawienie promesy kredytu technologicznego od posiadania przez przedsi´biorc´ zdolnoÊci kredytowej na potrzeby kredytu technologicznego.
+2. W terminie 60 dni od dnia złożenia wniosku, o którym mowa ust. 1, bank kredytujący zawiera przedsiębiorcą warunkową umowę kredytu technologicznego albo przyznaje promesę kredytu technologicznego. Bank kredytujący uzależnia zawarcie warunkowej umowy kredytu technologicznego albo wystawienie promesy kredytu technologicznego od posiadania przez przedsiębiorcę zdolności kredytowej na potrzeby kredytu technologicznego.
 
-3. Przedsi´biorca, za poÊrednictwem banku kredytujàcego, sk∏ada do Banku Gospodarstwa Krajowego wniosek o przyznanie premii technologicznej, do którego do∏àcza warunkowà umow´ kredytu technologicznego albo promes´ kredytu technologicznego oraz nast´pujàce dokumenty:
+3. Przedsiębiorca, za pośrednictwem banku kredytującego, składa do Banku Gospodarstwa Krajowego wniosek o przyznanie premii technologicznej, do którego dołącza warunkową umowę kredytu technologicznego albo promesę kredytu technologicznego oraz następujące dokumenty:
 
-- **1)** opini´ sporzàdzonà na wniosek przedsi´biorcy przez jednostk´ naukowà lub centrum badawczo-rozwojowe, które nie sà powiàzane przedsi´biorcà lub stowarzyszenie naukowo-techniczne o zasi´gu ogólnopolskim, a ich zakres dzia∏ania jest zwiàzany inwestycjà technologicznà, na którà ma byç udzielony kredyt technologiczny, stwierc) wykaz i uzasadnienie zastosowania Êrodków trwa∏ych iwartoÊci niematerialnych iprawnych niezb´dnych do wdro˝enia technologii do wytwarzania nowych lub znaczàco ulepszonych towarów, procesów lub us∏ug majàcych byç wynikiem realizacji inwestycji technologicznej finansowanej kredytem technologicznym,
-    - **d)** opis towarów, procesów lub us∏ug majàcych byç wynikiem inwestycji technologicznej finansowanej kredytem technologicznym;
+- **1)** opinię sporządzoną na wniosek przedsiębiorcy przez jednostkę naukową lub centrum badawczo-rozwojowe, które nie są powiązane przedsiębiorcą lub stowarzyszenie naukowo-techniczne o zasięgu ogólnopolskim, a ich zakres działania jest związany inwestycją technologiczną, na którą ma być udzielony kredyt technologiczny, stwierc) wykaz i uzasadnienie zastosowania środków trwałych iwartości niematerialnych iprawnych niezbędnych do wdrożenia technologii do wytwarzania nowych lub znacząco ulepszonych towarów, procesów lub usług mających być wynikiem realizacji inwestycji technologicznej finansowanej kredytem technologicznym,
+    - **d)** opis towarów, procesów lub usług mających być wynikiem inwestycji technologicznej finansowanej kredytem technologicznym;
 
-- **3)** oÊwiadczenie o niefinansowaniu udzia∏u w∏asnego ze wsparcia pochodzàcego ze Êrodków publicznych;
-- **4)** informacje o pomocy uzyskanej na finansowanie wydatków, o których mowa art. 10 ust. 5 i 6, uwzgl´dnieniem art. 10 ust. 2;
-- **5)** kopie dokumentów pozwalajàcych uznaç przedsi´biorc´ za mikroprzedsi´biorc´, ma∏ego przedsi´biorc´ lub Êredniego przedsi´biorc´, którymi modzajàcà, ˝e technologia, która b´dzie wdra˝ana wyniku realizacji inwestycji technologicznej finansowanej kredytem technologicznym, jest nowà technologià;
-- **2)** informacje opracowane porozumieniu przedsi´biorcà przez podmiot, który sporzàdzi∏ opini´ na podstawie pkt 1, zawierajàce:
-    - **a)** charakterystyk´ technologii oraz przedstawienie w∏aÊciwoÊci Êwiadczàcych o mo˝liwoÊci jej wdro˝enia do wytwarzania nowych lub znaczàco ulepszonych towarów, procesów lub us∏ug,
-    - **b)** opis sposobu wdro˝enia technologii do wytwarzania nowych lub znaczàco ulepszonych towarów, procesów lub us∏ug majàcych byç wynigà byç szczególnoÊci: zatwierdzone sprawozdanie finansowe, rachunek zysków i strat, potwierdzenie zap∏aty sk∏adek na ubezpieczenia spo∏eczne i zdrowotne pracowników za ostatnie 2 lata obrotowe, aktualny odpis rejestru przedsi´biorców, obowiàzujàca umowa lub statut spó∏ki, wpis do ewidencji dzia∏alnoÊci gospodarczej;
+- **3)** oświadczenie o niefinansowaniu udziału własnego ze wsparcia pochodzącego ze środków publicznych;
+- **4)** informacje o pomocy uzyskanej na finansowanie wydatków, o których mowa art. 10 ust. 5 i 6, uwzględnieniem art. 10 ust. 2;
+- **5)** kopie dokumentów pozwalających uznać przedsiębiorcę za mikroprzedsiębiorcę, małego przedsiębiorcę lub średniego przedsiębiorcę, którymi modzającą, że technologia, która będzie wdrażana wyniku realizacji inwestycji technologicznej finansowanej kredytem technologicznym, jest nową technologią;
+- **2)** informacje opracowane porozumieniu przedsiębiorcą przez podmiot, który sporządził opinię na podstawie pkt 1, zawierające:
+    - **a)** charakterystykę technologii oraz przedstawienie właściwości świadczących o możliwości jej wdrożenia do wytwarzania nowych lub znacząco ulepszonych towarów, procesów lub usług,
+    - **b)** opis sposobu wdrożenia technologii do wytwarzania nowych lub znacząco ulepszonych towarów, procesów lub usług mających być wynigą być szczególności: zatwierdzone sprawozdanie finansowe, rachunek zysków i strat, potwierdzenie zapłaty składek na ubezpieczenia społeczne i zdrowotne pracowników za ostatnie 2 lata obrotowe, aktualny odpis rejestru przedsiębiorców, obowiązująca umowa lub statut spółki, wpis do ewidencji działalności gospodarczej;
 
-- **6)** biznesplan inwestycji technologicznej zawierajàcy harmonogram rzeczowo-finansowy oraz wykaz wydatków, o których mowa art. 10 ust. 5 i 6, uwzgl´dnieniem art. 10 ust. 2;
-- **7)** zobowiàzanie do przekazywania do Banku Gospodarstwa Krajowego informacji dotyczàcych inwestycji technologicznej zakresie niezb´dnym do realizacji obowiàzków na∏o˝onych na Bank Gospodarstwa Krajowego na podstawie ustawy.
+- **6)** biznesplan inwestycji technologicznej zawierający harmonogram rzeczowo-finansowy oraz wykaz wydatków, o których mowa art. 10 ust. 5 i 6, uwzględnieniem art. 10 ust. 2;
+- **7)** zobowiązanie do przekazywania do Banku Gospodarstwa Krajowego informacji dotyczących inwestycji technologicznej zakresie niezbędnym do realizacji obowiązków nałożonych na Bank Gospodarstwa Krajowego na podstawie ustawy.
 
 **Art. 6.**
 
-1. Bank kredytujàcy sprawdza wniosek, októrym mowa wart. 5 ust. 3, pod wzgl´dem formalnym. W przypadku gdy wniosek ma braki, a szczególnoÊci jest niekompletny, bank kredytujàcy wzywa przedsi´biorc´ do ich usuni´cia. Kompletny wniosek bank kredytujàcy przekazuje do Banku Gospodarstwa Krajowego wraz promesà kredytu technologicznego albo warunkowà umowà kredytu technologicznego.
+1. Bank kredytujący sprawdza wniosek, októrym mowa wart. 5 ust. 3, pod względem formalnym. W przypadku gdy wniosek ma braki, a szczególności jest niekompletny, bank kredytujący wzywa przedsiębiorcę do ich usunięcia. Kompletny wniosek bank kredytujący przekazuje do Banku Gospodarstwa Krajowego wraz promesą kredytu technologicznego albo warunkową umową kredytu technologicznego.
 
-2. Je˝eli do wniosku zosta∏y do∏àczone nieprawid∏owo sporzàdzone dokumenty, o których mowa art. 5 ust. 3, Bank Gospodarstwa Krajowego, za poÊrednictwem banku kredytujàcego, wzywa wnioskodawc´ do usuni´cia nieprawid∏owoÊci terminie 14 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
+2. Jeżeli do wniosku zostały dołączone nieprawidłowo sporządzone dokumenty, o których mowa art. 5 ust. 3, Bank Gospodarstwa Krajowego, za pośrednictwem banku kredytującego, wzywa wnioskodawcę do usunięcia nieprawidłowości terminie 14 dni od dnia otrzymania wezwania, pod rygorem pozostawienia wniosku bez rozpatrzenia.
 
-3. Wnioskodawca przekazuje prawid∏owo sporzàdzone dokumenty do Banku Gospodarstwa Krajowego za poÊrednictwem banku kredytujàcego. O dochowaniu terminu, októrym mowa wust. 2, decyduje daArt. 7.1. Bank Gospodarstwa Krajowego rozpatruje zgodnoÊç wniosku o przyznanie premii technologicznej przepisami ustawy na podstawie dokumentów, o których mowa art. 5 ust. 3.
+3. Wnioskodawca przekazuje prawidłowo sporządzone dokumenty do Banku Gospodarstwa Krajowego za pośrednictwem banku kredytującego. O dochowaniu terminu, októrym mowa wust. 2, decyduje daArt. 7.1. Bank Gospodarstwa Krajowego rozpatruje zgodność wniosku o przyznanie premii technologicznej przepisami ustawy na podstawie dokumentów, o których mowa art. 5 ust. 3.
 
-2. Bank Gospodarstwa Krajowego rozpatruje wnioski o przyznanie premii technologicznej wed∏ug kolejnoÊci wp∏ywu kompletnych wniosków.
+2. Bank Gospodarstwa Krajowego rozpatruje wnioski o przyznanie premii technologicznej według kolejności wpływu kompletnych wniosków.
 
-3. Bank Gospodarstwa Krajowego rozpatruje wnioski o przyznanie premii technologicznej do wyczerpania Êrodków przewidzianych na wyp∏at´ premii technologicznych, okreÊlonych planie finansowym Funduszu Kredytu Technologicznego i przekazanych wformie zaliczki na rachunek Funduszu Kredytu Technologicznego.
+3. Bank Gospodarstwa Krajowego rozpatruje wnioski o przyznanie premii technologicznej do wyczerpania środków przewidzianych na wypłatę premii technologicznych, określonych planie finansowym Funduszu Kredytu Technologicznego i przekazanych wformie zaliczki na rachunek Funduszu Kredytu Technologicznego.
 
-4. Bank Gospodarstwa Krajowego przyznaje promes´ premii technologicznej nie póêniej ni˝ do koƒca miesiàca nast´pujàcego po miesiàcu, wktórym zosta∏ z∏o˝ony kompletny wniosek, albo po miesiàcu, którym usuni´to nieprawid∏owoÊci.
+4. Bank Gospodarstwa Krajowego przyznaje promesę premii technologicznej nie póêniej niż do końca miesiąca następującego po miesiącu, wktórym został złożony kompletny wniosek, albo po miesiącu, którym usunięto nieprawidłowości.
 
 **Art. 8.**
 
-1. Bank kredytujàcy podpisuje przedsi´biorcà, któremu przyzna∏ promes´ kredytu technologicznego, umow´ o udzielenie kredytu technologicznego wterminie 30 dni od dnia otrzymania informacji Banku Gospodarstwa Krajowego o uzyskaniu przez przedsi´biorc´ promesy premii technologicznej, pod rygorem wygaÊni´cia wa˝noÊci promesy premii technologicznej.
+1. Bank kredytujący podpisuje przedsiębiorcą, któremu przyznał promesę kredytu technologicznego, umowę o udzielenie kredytu technologicznego wterminie 30 dni od dnia otrzymania informacji Banku Gospodarstwa Krajowego o uzyskaniu przez przedsiębiorcę promesy premii technologicznej, pod rygorem wygaśnięcia ważności promesy premii technologicznej.
 
-2. Bank kredytujàcy przesy∏a kopi´ umowy kredytu technologicznego do Banku Gospodarstwa Krajowego terminie 7 dni od dnia podpisania umowy o udzielenie kredytu technologicznego albo zawiadamia Bank Gospodarstwa Krajowego o spe∏nieniu przez przedsi´biorc´ innych ni˝ przyznanie promesy premii technologicznej warunków postawionych warunkowej umowie kredytu technologicznego terminie 7 dni od dnia spe∏nienia tych warunków przez przedsi´biorc´.
+2. Bank kredytujący przesyła kopię umowy kredytu technologicznego do Banku Gospodarstwa Krajowego terminie 7 dni od dnia podpisania umowy o udzielenie kredytu technologicznego albo zawiadamia Bank Gospodarstwa Krajowego o spełnieniu przez przedsiębiorcę innych niż przyznanie promesy premii technologicznej warunków postawionych warunkowej umowie kredytu technologicznego terminie 7 dni od dnia spełnienia tych warunków przez przedsiębiorcę.
 
-3. Bank Gospodarstwa Krajowego zawiera umow´ owyp∏at´ premii technologicznej wterminie 30 dni od dnia:
+3. Bank Gospodarstwa Krajowego zawiera umowę owypłatę premii technologicznej wterminie 30 dni od dnia:
 
 - **1)** otrzymania kopii umowy o udzielenie kredytu technologicznego, albo
-- **2)** otrzymania zawiadomienia, o którym mowa ust. 2, albo przyznania promesy premii technologicznej, zale˝noÊci od tego, które tych zdarzeƒ jest póêniejsze je˝eli przyznanie tej promesy by∏o jednym warunków postawionych warunkowej umowie kredytu technologicznego, albo
-- **3)** przyznania promesy premii technologicznej je˝eli przyznanie tej promesy by∏o jedynym warunkiem postawionym warunkowej umowie kredytu technologicznego.
+- **2)** otrzymania zawiadomienia, o którym mowa ust. 2, albo przyznania promesy premii technologicznej, zależności od tego, które tych zdarzeń jest póêniejsze jeżeli przyznanie tej promesy było jednym warunków postawionych warunkowej umowie kredytu technologicznego, albo
+- **3)** przyznania promesy premii technologicznej jeżeli przyznanie tej promesy było jedynym warunkiem postawionym warunkowej umowie kredytu technologicznego.
 
-4. Bank Gospodarstwa Krajowego mo˝e przeprowadziç kontrol´ przedsi´biorcy wzakresie prawdziwoÊci oÊwiadczeƒ, informacji, kopii dokumentów z∏o˝o5. Bank Gospodarstwa Krajowego informuje przedsi´biorc´ za poÊrednictwem faksu, poczty lub drogà elektronicznà o terminie planowanej kontroli, nie póêniej ni˝ na 5 dni przez zaplanowanym terminem kontroli.
+4. Bank Gospodarstwa Krajowego może przeprowadzić kontrolę przedsiębiorcy wzakresie prawdziwości oświadczeń, informacji, kopii dokumentów złożo5. Bank Gospodarstwa Krajowego informuje przedsiębiorcę za pośrednictwem faksu, poczty lub drogą elektroniczną o terminie planowanej kontroli, nie póêniej niż na 5 dni przez zaplanowanym terminem kontroli.
 
-6. Kontrola, októrej mowa wust. 4, mo˝e byç przeprowadzona wy∏àcznie przez osoby dysponujàce pisemnym, imiennym upowa˝nieniem wystawionym przez Prezesa Banku Gospodarstwa Krajowego lub upowa˝nionà osob´, zawierajàcym wskazanie kontrolowanego przedsi´biorcy.
+6. Kontrola, októrej mowa wust. 4, może być przeprowadzona wyłącznie przez osoby dysponujące pisemnym, imiennym upoważnieniem wystawionym przez Prezesa Banku Gospodarstwa Krajowego lub upoważnioną osobę, zawierającym wskazanie kontrolowanego przedsiębiorcy.
 
-7. Przedsi´biorca jest obowiàzany zapewniç kontrolujàcym:
+7. Przedsiębiorca jest obowiązany zapewnić kontrolującym:
 
-- **1)** swobodny dost´p do urzàdzeƒ i pomieszczeƒ, za pomocà których realizowana jest inwestycja technologiczna;
-- **2)** wglàd do dokumentów zwiàzanych zprzedmiotem kontroli, szczególnoÊci ksiàg rachunkowych i podatkowych, zachowaniem przepisów o ochronie tajemnic ustawowo chronionych;
-- **3)** udzielanie ustnych i pisemnych wyjaÊnieƒ.
+- **1)** swobodny dostęp do urządzeń i pomieszczeń, za pomocą których realizowana jest inwestycja technologiczna;
+- **2)** wgląd do dokumentów związanych zprzedmiotem kontroli, szczególności ksiąg rachunkowych i podatkowych, zachowaniem przepisów o ochronie tajemnic ustawowo chronionych;
+- **3)** udzielanie ustnych i pisemnych wyjaśnień.
 
-8. Bank Gospodarstwa Krajowego przedstawia wynik przeprowadzonej kontroli informacji pokontrolnej, zawierajàcej opis stanu faktycznego stwierdzonego toku kontroli przedsi´biorcy, i przekazuje informacj´ pokontrolnà przedsi´biorcy terminie nie d∏u˝szym ni˝ 30 dni od dnia zakoƒczenia kontroli.
+8. Bank Gospodarstwa Krajowego przedstawia wynik przeprowadzonej kontroli informacji pokontrolnej, zawierającej opis stanu faktycznego stwierdzonego toku kontroli przedsiębiorcy, i przekazuje informację pokontrolną przedsiębiorcy terminie nie dłuższym niż 30 dni od dnia zakończenia kontroli.
 
-9. Przedsi´biorca mo˝e zg∏osiç na piÊmie zastrze˝enia do informacji pokontrolnej wterminie 14 dni od dnia jej otrzymania.
+9. Przedsiębiorca może zgłosić na piśmie zastrzeżenia do informacji pokontrolnej wterminie 14 dni od dnia jej otrzymania.
 
-10. Bank Gospodarstwa Krajowego ustosunkowuje si´ do zastrze˝eƒ, októrych mowa wust. 9, wterminie 14 dni od dnia ich otrzymania i przekazuje kopi´ ostatecznej informacji pokontrolnej bankowi kredytujàcemu i przedsi´biorcy.
+10. Bank Gospodarstwa Krajowego ustosunkowuje się do zastrzeżeń, októrych mowa wust. 9, wterminie 14 dni od dnia ich otrzymania i przekazuje kopię ostatecznej informacji pokontrolnej bankowi kredytującemu i przedsiębiorcy.
 
-11. Przedsi´biorca jest obowiàzany zwróciç otrzymanà premi´ technologicznà wysokoÊci odpowiadajàcej udzia∏owi kwoty kredytu technologicznego wykorzystanej niezgodnie przeznaczeniem ca∏kowitej kwocie kredytu technologicznego, okreÊlonej wostatecznej informacji pokontrolnej, wraz zodsetkami, októrych mowa wart. 14 ust. 2 rozporzàdzenia Rady (WE) nr 659/1999 dnia 22 marca 1999 ustanawiajàcego szczegó∏owe zasady stosowania art. 93 Traktatu WE (Dz. Urz. UE L 83 27.03.1999).
+11. Przedsiębiorca jest obowiązany zwrócić otrzymaną premię technologiczną wysokości odpowiadającej udziałowi kwoty kredytu technologicznego wykorzystanej niezgodnie przeznaczeniem całkowitej kwocie kredytu technologicznego, określonej wostatecznej informacji pokontrolnej, wraz zodsetkami, októrych mowa wart. 14 ust. 2 rozporządzenia Rady (WE) nr 659/1999 dnia 22 marca 1999 ustanawiającego szczegółowe zasady stosowania art. 93 Traktatu WE (Dz. Urz. UE L 83 27.03.1999).
 
 **Art. 9.**
 
-1. Bank Gospodarstwa Krajowego mo˝e wyp∏acaç premi´ technologicznà do dnia 31 grudnia 2015
+1. Bank Gospodarstwa Krajowego może wypłacać premię technologiczną do dnia 31 grudnia 2015
 
-2. Kredyt technologiczny jest cz´Êciowo sp∏acany formie premii technologicznej udzielanej ze Êrodków Funduszu Kredytu Technologicznego na zasadach okreÊlonych ustawie.
+2. Kredyt technologiczny jest częściowo spłacany formie premii technologicznej udzielanej ze środków Funduszu Kredytu Technologicznego na zasadach określonych ustawie.
 
-3. Wyp∏ata premii technologicznej dokonywana
+3. Wypłata premii technologicznej dokonywana
 
-4. Wyp∏ata premii technologicznej albo raty premii technologicznej nast´puje na wniosek przedsi´biorcy z∏o˝ony za poÊrednictwem banku kredytujàcego do Banku Gospodarstwa Krajowego.
+4. Wypłata premii technologicznej albo raty premii technologicznej następuje na wniosek przedsiębiorcy złożony za pośrednictwem banku kredytującego do Banku Gospodarstwa Krajowego.
 
-5. Wniosek o wyp∏at´ raty premii technologicznej mo˝e byç sk∏adany do Banku Gospodarstwa Krajowego nie cz´Êciej ni˝ raz na 3 miesiàce.
+5. Wniosek o wypłatę raty premii technologicznej może być składany do Banku Gospodarstwa Krajowego nie częściej niż raz na 3 miesiące.
 
-6. Premia technologiczna albo rata premii technologicznej jest wyp∏acana do banku kredytujàcego do wysokoÊci odpowiadajàcej wartoÊci netto (bez podatku od towarów i us∏ug) sprzeda˝y towarów lub us∏ug b´dàcych wynikiem inwestycji technologicznej, potwierdzonej zap∏aconymi fakturami, za okres od dnia zakoƒczenia inwestycji technologicznej do dnia z∏o˝enia wniosku o wyp∏at´ premii technologicznej albo pierwszej raty premii technologicznej albo za okres mi´dzy datà ostatniego zaakceptowanego wniosku o wyp∏at´ raty premii technologicznej a datà kolejnego wniosku o wyp∏at´ raty premii technologicznej. WartoÊç sprzeda˝y wwalutach obcych przelicza si´ na z∏ote wed∏ug kursu Êredniego waluty obcej og∏aszanego przez Narodowy Bank Polski na dzieƒ dokonania zap∏aty, awprzypadku gdy wtym dniu nie og∏oszono takiego kursu, wed∏ug ostatniego kursu og∏oszonego przed tym dniem.
+6. Premia technologiczna albo rata premii technologicznej jest wypłacana do banku kredytującego do wysokości odpowiadającej wartości netto (bez podatku od towarów i usług) sprzedaży towarów lub usług będących wynikiem inwestycji technologicznej, potwierdzonej zapłaconymi fakturami, za okres od dnia zakończenia inwestycji technologicznej do dnia złożenia wniosku o wypłatę premii technologicznej albo pierwszej raty premii technologicznej albo za okres między datą ostatniego zaakceptowanego wniosku o wypłatę raty premii technologicznej a datą kolejnego wniosku o wypłatę raty premii technologicznej. Wartość sprzedaży wwalutach obcych przelicza się na złote według kursu średniego waluty obcej ogłaszanego przez Narodowy Bank Polski na dzień dokonania zapłaty, awprzypadku gdy wtym dniu nie ogłoszono takiego kursu, według ostatniego kursu ogłoszonego przed tym dniem.
 
-7. Premia technologiczna dla celów podatku dochodowego od osób prawnych oraz podatku dochodowego od osób fizycznych jest traktowana jako zwrot przedsi´biorcy wydatków na nabycie lub wytworzenie we w∏asnym zakresie Êrodków trwa∏ych oraz wartoÊci niematerialnych iprawnych, októrych mowa wart. 10 ust. 5 pkt 6.
+7. Premia technologiczna dla celów podatku dochodowego od osób prawnych oraz podatku dochodowego od osób fizycznych jest traktowana jako zwrot przedsiębiorcy wydatków na nabycie lub wytworzenie we własnym zakresie środków trwałych oraz wartości niematerialnych iprawnych, októrych mowa wart. 10 ust. 5 pkt 6.
 
 **Art. 10.**
 
-1. WysokoÊç premii technologicznej nie mo˝e przekroczyç:
+1. Wysokość premii technologicznej nie może przekroczyć:
 
-- **1)** kwoty 4 mln z∏;
-- **2)** limitów pomocy publicznej na inwestycj´ dla mikroprzedsi´biorcy lub ma∏ego przedsi´biorcy, lub Êredniego przedsi´biorcy, okreÊlonych wprzepisach wydanych na podstawie art. 10 ust. 2 ustawy dnia 30 kwietnia 2004 o post´powaniu wsprawach dotyczàcych pomocy publicznej wodniesieniu do wydatków, o których mowa ust. 5, oraz 50 % wartoÊci wydatków, o których mowa ust. 6, zastrze˝eniem ust. 2.
+- **1)** kwoty 4 mln zł;
+- **2)** limitów pomocy publicznej na inwestycję dla mikroprzedsiębiorcy lub małego przedsiębiorcy, lub średniego przedsiębiorcy, określonych wprzepisach wydanych na podstawie art. 10 ust. 2 ustawy dnia 30 kwietnia 2004 o postępowaniu wsprawach dotyczących pomocy publicznej wodniesieniu do wydatków, o których mowa ust. 5, oraz 50 % wartości wydatków, o których mowa ust. 6, zastrzeżeniem ust. 2.
 
-2. Premià technologicznà mogà byç obj´te, pomniejszone o podatek od towarów i us∏ug oraz podatek akcyzowy, udokumentowane zap∏aconymi fakturami, sfinansowane za pomocà kredytu technologicznego wydatki, októrych mowa wust. 5 iust. 6, poniesione po dacie przyznania przez Bank Gospodarstwa Krajowego promesy premii technologicznej. publicznej na inwestycj´ okreÊlonych dla mikroprzedsi´biorcy, ma∏ego przedsi´biorcy lub Êredniego przedsi´biorcy wprzepisach wydanych na podstawie art. 10 ust. 2 ustawy dnia 30 kwietnia 2004 o post´powaniu sprawach dotyczàcych pomocy publicznej.
+2. Premią technologiczną mogą być objęte, pomniejszone o podatek od towarów i usług oraz podatek akcyzowy, udokumentowane zapłaconymi fakturami, sfinansowane za pomocą kredytu technologicznego wydatki, októrych mowa wust. 5 iust. 6, poniesione po dacie przyznania przez Bank Gospodarstwa Krajowego promesy premii technologicznej. publicznej na inwestycję określonych dla mikroprzedsiębiorcy, małego przedsiębiorcy lub średniego przedsiębiorcy wprzepisach wydanych na podstawie art. 10 ust. 2 ustawy dnia 30 kwietnia 2004 o postępowaniu sprawach dotyczących pomocy publicznej.
 
-4. Premia technologiczna przeznaczona na pokrycie wydatków, októrych mowa wust. 6, wraz zwszelkà innà pomocà, tym pomocà de minimis, udzielanà na pokrycie tych samych wydatków, nie mo˝e przekroczyç 50 % wartoÊci tych wydatków.
+4. Premia technologiczna przeznaczona na pokrycie wydatków, októrych mowa wust. 6, wraz zwszelką inną pomocą, tym pomocą de minimis, udzielaną na pokrycie tych samych wydatków, nie może przekroczyć 50 % wartości tych wydatków.
 
-5. Wydatkami przeznaczonymi na realizacj´ inwestycji technologicznej sà ponoszone przez przedsi´biorców realizujàcych t´ inwestycj´ wydatki na:
+5. Wydatkami przeznaczonymi na realizację inwestycji technologicznej są ponoszone przez przedsiębiorców realizujących tę inwestycję wydatki na:
 
-- **1)** zakup, na warunkach rynkowych, nowych lub u˝ywanych Êrodków trwa∏ych, wy∏àczeniem Êrodków transportu nabywanych przez przedsi´biorc´ prowadzàcego dzia∏alnoÊç sektorze transportu;
-- **2)** najem, dzier˝aw´ lub leasing Êrodków trwa∏ych innych ni˝ grunty, budynki lub budowle, je˝eli umowa najmu, dzier˝awy lub leasingu przewiduje obowiàzek nabycia przez kredytobiorc´ prawa w∏asnoÊci Êrodka trwa∏ego up∏ywem okresu najmu, dzier˝awy lub leasingu;
-- **3)** najem, dzier˝aw´ lub leasing gruntów, budynków lub budowli, je˝eli najem, dzier˝awa lub leasing b´dzie trwaç przez co najmniej 3 lata od dnia zakoƒczenia inwestycji technologicznej;
-- **4)** rozbudow´ istniejàcych budowli, budynków, maszyn, urzàdzeƒ stanowiàcych Êrodki trwa∏e;
-- **5)** instalacj´ i uruchomienie maszyn i urzàdzeƒ stanowiàcych Êrodki trwa∏e;
-- **6)** zakup lub leasing, je˝eli umowa leasingu przewiduje obowiàzek nabycia up∏ywem okresu leasingu wartoÊci niematerialnych i prawnych rozumieniu rozporzàdzenia Komisji (WE) nr 1628/2006 dnia 24 paêdziernika 2006 sprawie stosowania art. 87 i88 Traktatu wodniesieniu do regionalnej pomocy inwestycyjnej, które: 2002 76, 694, póên. zm.
-    - **a)** sà aktywami, rozumieniu ustawy dnia 29 wrzeÊnia 1994 o rachunkowoÊci (Dz. U.
+- **1)** zakup, na warunkach rynkowych, nowych lub używanych środków trwałych, wyłączeniem środków transportu nabywanych przez przedsiębiorcę prowadzącego działalność sektorze transportu;
+- **2)** najem, dzierżawę lub leasing środków trwałych innych niż grunty, budynki lub budowle, jeżeli umowa najmu, dzierżawy lub leasingu przewiduje obowiązek nabycia przez kredytobiorcę prawa własności środka trwałego upływem okresu najmu, dzierżawy lub leasingu;
+- **3)** najem, dzierżawę lub leasing gruntów, budynków lub budowli, jeżeli najem, dzierżawa lub leasing będzie trwać przez co najmniej 3 lata od dnia zakończenia inwestycji technologicznej;
+- **4)** rozbudowę istniejących budowli, budynków, maszyn, urządzeń stanowiących środki trwałe;
+- **5)** instalację i uruchomienie maszyn i urządzeń stanowiących środki trwałe;
+- **6)** zakup lub leasing, jeżeli umowa leasingu przewiduje obowiązek nabycia upływem okresu leasingu wartości niematerialnych i prawnych rozumieniu rozporządzenia Komisji (WE) nr 1628/2006 dnia 24 paêdziernika 2006 sprawie stosowania art. 87 i88 Traktatu wodniesieniu do regionalnej pomocy inwestycyjnej, które: 2002 76, 694, póên. zm.
+    - **a)** są aktywami, rozumieniu ustawy dnia 29 września 1994 o rachunkowości (Dz. U.
 
-3. Premia technologiczna przeznaczona na pokrycie wydatków, októrych mowa wust. 5, wraz zwszelkà innà pomocà, tym pomocà de minimis, udzielanà na pokrycie tych samych wydatków, oraz pomocà ), przedsi´biorcy, b´dà przez niego wykorzystywane oraz pozostanà wy∏àcznie zak∏adzie, którym zosta∏a zrealizowana inwestycja technologiczna finansowana kredytem technologicznym, co najmniej przez okres 3 lat od dnia zakoƒczenia inwestycji technologicznej,
+3. Premia technologiczna przeznaczona na pokrycie wydatków, októrych mowa wust. 5, wraz zwszelką inną pomocą, tym pomocą de minimis, udzielaną na pokrycie tych samych wydatków, oraz pomocą ), przedsiębiorcy, będą przez niego wykorzystywane oraz pozostaną wyłącznie zakładzie, którym została zrealizowana inwestycja technologiczna finansowana kredytem technologicznym, co najmniej przez okres 3 lat od dnia zakończenia inwestycji technologicznej,
 
-- **b)** zosta∏y nabyte od osób trzecich za cen´ odpowiadajàcà wartoÊci rynkowej, ———————
-- **c)** podlegajà amortyzacji zgodnie przepisami ustawy dnia 29 wrzeÊnia 1994 o rachunkowoÊci.
+- **b)** zostały nabyte od osób trzecich za cenę odpowiadającą wartości rynkowej, ———————
+- **c)** podlegają amortyzacji zgodnie przepisami ustawy dnia 29 września 1994 o rachunkowości.
 
-6. Do wydatków na realizacj´ inwestycji technologicznej zalicza si´ tak˝e wydatki ponoszone na wykonane przez doradców zewn´trznych prace przedrealizacyjne, studia, ekspertyzy, koncepcje i projekty techniczne, niezb´dne do wdro˝enia nowej technologii wramach inwestycji technologicznej, zgodnie zrozporzàdzeniem Komisji (WE) nr 70/2001 zdnia 12 stycznia 2001 wsprawie zastosowania art. 87 i88 Traktatu WE odniesieniu do pomocy paƒstwa dla ma∏ych i Êrednich przedsi´biorstw (Dz. Urz. UE L 10 13.01.2001).
+6. Do wydatków na realizację inwestycji technologicznej zalicza się także wydatki ponoszone na wykonane przez doradców zewnętrznych prace przedrealizacyjne, studia, ekspertyzy, koncepcje i projekty techniczne, niezbędne do wdrożenia nowej technologii wramach inwestycji technologicznej, zgodnie zrozporządzeniem Komisji (WE) nr 70/2001 zdnia 12 stycznia 2001 wsprawie zastosowania art. 87 i88 Traktatu WE odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. UE L 10 13.01.2001).
 
-7. Ârodki trwa∏e, októrych mowa wust. 5 pkt 1—5, muszà byç powiàzane ze sobà funkcjonalnie i s∏u˝yç do realizacji celu okreÊlonego umowie o udzielenie kredytu technologicznego.
+7. Ârodki trwałe, októrych mowa wust. 5 pkt 1—5, muszą być powiązane ze sobą funkcjonalnie i służyć do realizacji celu określonego umowie o udzielenie kredytu technologicznego.
 
 **Art. 11.**
 
-1. Bank Gospodarstwa Krajowego przekazuje premi´ technologicznà na sp∏at´ cz´Êci kapita∏u kredytu technologicznego na rachunek banku kredytujàcym wskazanym umowie o wyp∏at´ premii technologicznej po wyp∏aceniu ostatniej transzy kredytu technologicznego.
+1. Bank Gospodarstwa Krajowego przekazuje premię technologiczną na spłatę części kapitału kredytu technologicznego na rachunek banku kredytującym wskazanym umowie o wypłatę premii technologicznej po wypłaceniu ostatniej transzy kredytu technologicznego.
 
-2. Bank Gospodarstwa Krajowego przekazuje ca∏à premi´ technologicznà albo pierwszà rat´ premii technologicznej na rachunek, o którym mowa ust.1, po przed∏o˝eniu przez przedsi´biorc´ nast´pujàcych dokumentów, za poÊrednictwem banku kredytujàcego:
+2. Bank Gospodarstwa Krajowego przekazuje całą premię technologiczną albo pierwszą ratę premii technologicznej na rachunek, o którym mowa ust.1, po przedłożeniu przez przedsiębiorcę następujących dokumentów, za pośrednictwem banku kredytującego:
 
-- **1)** kopii faktur i dowodów ich zap∏aty dokumentujàcych wydatki, o których mowa art. 10 ust. 5 i 6;
-- **2)** kopii umów najmu, dzier˝awy lub leasingu, je˝eli faktury, o których mowa pkt 1, dotyczà wydatków, o których mowa art. 10 ust. 5 pkt 2 lub 3 lub 6;
-- **3)** oÊwiadczenia o wielkoÊci sprzeda˝y, o której mowa wart. 9 ust. 6, za okres od dnia zakoƒczenia realizacji inwestycji technologicznej do dnia z∏o˝enia
-- **6)** zobowiàzania, ˝e produkcja towarów lub Êwiadczenie us∏ug wynikajàce inwestycji technologicznej b´dzie kontynuowane województwie, którym zosta∏a zrealizowana inwestycja technologiczna, albo m.st. Warszawie, je˝eli inwestycja technologiczna zosta∏a zrealizowana m.st. Warszawie, co najmniej przez 3 lata od dnia zakoƒczenia inwestycji technologicznej, pod rygorem zwrotu przez przedsi´biorc´ uzyskanej premii technologicznej;
-- **7)** oÊwiadczenia o niezaleganiu zap∏atà podatków dochodowych za rok obrotowy poprzedzajàcy rok z∏o˝enia wniosku o wyp∏at´ ca∏ej premii technologicznej albo jej pierwszej raty;
-- **8)** oÊwiadczenia o niezaleganiu zap∏atà podatku od towarów i us∏ug na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku owyp∏at´ ca∏ej premii technologicznej albo jej pierwszej raty;
-- **9)** oÊwiadczenia oniezaleganiu zzap∏atà podatku akcyzowego na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku o wyp∏at´ ca∏ej premii wniosku owyp∏at´ ca∏ej premii technologicznej albo jej pierwszej raty;
-- **4)** opinii sporzàdzonej na wniosek przedsi´biorcy przez podmiot wymieniony art. 5 ust. 3 pkt 1, stwierdzajàcej wdro˝enie nowej technologii ramach inwestycji technologicznej finansowanej kredytem technologicznym irozpocz´cie produkcji towarów lub Êwiadczenia us∏ug, o których mowa art. 9 ust. 6, na podstawie obserwacji procesu wdra˝ania ianalizy dokumentacji procesu wdra˝ania;
-- **5)** informacji opomocy uzyskanej na realizacj´ inwestycji technologicznej przez ka˝dego przedsi´biorc´ realizujàcego t´ inwestycj´, wyszczególnietechnologicznej albo jej pierwszej raty;
-- **10)** oÊwiadczenia o niezaleganiu zap∏atà podatków i op∏at lokalnych na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku o wyp∏at´ ca∏ej premii technologicznej albo jej pierwszej raty;
-- **11)** oÊwiadczenia o niezaleganiu zap∏atà sk∏adek na ubezpieczenia spo∏eczne i zdrowotne na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku o wyp∏at´ ca∏ej raty premii technologicznej albo jej pierwszej raty.
+- **1)** kopii faktur i dowodów ich zapłaty dokumentujących wydatki, o których mowa art. 10 ust. 5 i 6;
+- **2)** kopii umów najmu, dzierżawy lub leasingu, jeżeli faktury, o których mowa pkt 1, dotyczą wydatków, o których mowa art. 10 ust. 5 pkt 2 lub 3 lub 6;
+- **3)** oświadczenia o wielkości sprzedaży, o której mowa wart. 9 ust. 6, za okres od dnia zakończenia realizacji inwestycji technologicznej do dnia złożenia
+- **6)** zobowiązania, że produkcja towarów lub świadczenie usług wynikające inwestycji technologicznej będzie kontynuowane województwie, którym została zrealizowana inwestycja technologiczna, albo m.st. Warszawie, jeżeli inwestycja technologiczna została zrealizowana m.st. Warszawie, co najmniej przez 3 lata od dnia zakończenia inwestycji technologicznej, pod rygorem zwrotu przez przedsiębiorcę uzyskanej premii technologicznej;
+- **7)** oświadczenia o niezaleganiu zapłatą podatków dochodowych za rok obrotowy poprzedzający rok złożenia wniosku o wypłatę całej premii technologicznej albo jej pierwszej raty;
+- **8)** oświadczenia o niezaleganiu zapłatą podatku od towarów i usług na koniec miesiąca poprzedzającego miesiąc złożenia wniosku owypłatę całej premii technologicznej albo jej pierwszej raty;
+- **9)** oświadczenia oniezaleganiu zzapłatą podatku akcyzowego na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o wypłatę całej premii wniosku owypłatę całej premii technologicznej albo jej pierwszej raty;
+- **4)** opinii sporządzonej na wniosek przedsiębiorcy przez podmiot wymieniony art. 5 ust. 3 pkt 1, stwierdzającej wdrożenie nowej technologii ramach inwestycji technologicznej finansowanej kredytem technologicznym irozpoczęcie produkcji towarów lub świadczenia usług, o których mowa art. 9 ust. 6, na podstawie obserwacji procesu wdrażania ianalizy dokumentacji procesu wdrażania;
+- **5)** informacji opomocy uzyskanej na realizację inwestycji technologicznej przez każdego przedsiębiorcę realizującego tę inwestycję, wyszczególnietechnologicznej albo jej pierwszej raty;
+- **10)** oświadczenia o niezaleganiu zapłatą podatków i opłat lokalnych na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o wypłatę całej premii technologicznej albo jej pierwszej raty;
+- **11)** oświadczenia o niezaleganiu zapłatą składek na ubezpieczenia społeczne i zdrowotne na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o wypłatę całej raty premii technologicznej albo jej pierwszej raty.
 
-3. Bank Gospodarstwa Krajowego przekazuje rat´ premii technologicznej na rachunek, o którym mowa ust. 1, po przed∏o˝eniu przez przedsi´biorc´ nast´pujàcych dokumentów, za poÊrednictwem banku kredytujàcego:
+3. Bank Gospodarstwa Krajowego przekazuje ratę premii technologicznej na rachunek, o którym mowa ust. 1, po przedłożeniu przez przedsiębiorcę następujących dokumentów, za pośrednictwem banku kredytującego:
 
-- **1)** oÊwiadczenia o wielkoÊci sprzeda˝y, o której mowa art. 9 ust. 6, za okres od dnia z∏o˝enia ostatniego zaakceptowanego wniosku o wyp∏at´ raty premii technologicznej do dnia z∏o˝enia wniosku o wyp∏at´ tej raty premii technologicznej;
-- **2)** oÊwiadczenia o niezaleganiu zap∏atà podatków dochodowych za rok obrotowy poprzedzajàcy rok z∏o˝enia wniosku owyp∏at´ tej raty premii technologicznej;
-- **3)** oÊwiadczenia o niezaleganiu zap∏atà podatku od towarów i us∏ug na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku o wyp∏at´ tej raty premii technologicznej;
-- **4)** oÊwiadczenia oniezaleganiu zzap∏atà podatku akcyzowego na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku owyp∏at´ tej raty premii technologicznej;
-- **5)** oÊwiadczenia o niezaleganiu zap∏atà podatków i op∏at lokalnych na koniec miesiàca poprzedzajà6) oÊwiadczenia o niezaleganiu zap∏atà sk∏adek na ubezpieczenia spo∏eczne i zdrowotne na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku o wyp∏at´ tej raty premii technologicznej.
+- **1)** oświadczenia o wielkości sprzedaży, o której mowa art. 9 ust. 6, za okres od dnia złożenia ostatniego zaakceptowanego wniosku o wypłatę raty premii technologicznej do dnia złożenia wniosku o wypłatę tej raty premii technologicznej;
+- **2)** oświadczenia o niezaleganiu zapłatą podatków dochodowych za rok obrotowy poprzedzający rok złożenia wniosku owypłatę tej raty premii technologicznej;
+- **3)** oświadczenia o niezaleganiu zapłatą podatku od towarów i usług na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o wypłatę tej raty premii technologicznej;
+- **4)** oświadczenia oniezaleganiu zzapłatą podatku akcyzowego na koniec miesiąca poprzedzającego miesiąc złożenia wniosku owypłatę tej raty premii technologicznej;
+- **5)** oświadczenia o niezaleganiu zapłatą podatków i opłat lokalnych na koniec miesiąca poprzedzają6) oświadczenia o niezaleganiu zapłatą składek na ubezpieczenia społeczne i zdrowotne na koniec miesiąca poprzedzającego miesiąc złożenia wniosku o wypłatę tej raty premii technologicznej.
 
 **Art. 12.**
 
-1. Bank Gospodarstwa Krajowego zawiera umow´ bankiem kredytujàcym, okreÊlajàcà zasady wspó∏pracy, zgodnà wzorem zatwierdzonym przez ministra w∏aÊciwego do spraw gospodarki, wterminie 30 dni od dnia jej otrzymania.
+1. Bank Gospodarstwa Krajowego zawiera umowę bankiem kredytującym, określającą zasady współpracy, zgodną wzorem zatwierdzonym przez ministra właściwego do spraw gospodarki, wterminie 30 dni od dnia jej otrzymania.
 
-2. Umowa, o której mowa ust. 1, przewiduje szczególnoÊci obowiàzek przekazywania przez bank kredytujàcy informacji i dokumentów niezb´dnych do wype∏nienia przez Bank Gospodarstwa Krajowego obowiàzków sprawozdawczych i kontrolnych wynikajàcych przepisów dotyczàcych udzielania pomocy publicznej oraz przepisów dotyczàcych wydatkowania Êrodków pochodzàcych bud˝etu Unii Europejskiej.
+2. Umowa, o której mowa ust. 1, przewiduje szczególności obowiązek przekazywania przez bank kredytujący informacji i dokumentów niezbędnych do wypełnienia przez Bank Gospodarstwa Krajowego obowiązków sprawozdawczych i kontrolnych wynikających przepisów dotyczących udzielania pomocy publicznej oraz przepisów dotyczących wydatkowania środków pochodzących budżetu Unii Europejskiej.
 
-**Art. 13.** W sprawach nieuregulowanych niniejszym rozdziale do udzielania kredytu technologicznego oraz czynnoÊci zwiàzanych wykonywaniem umowy kredytu technologicznego, wtym do ustanawiania zabezpieczeƒ, stosuje si´ przepisy ustawy dnia 29 sierpnia 1997 Prawo bankowe (Dz. U. 2002 72, 665, póên. zm.
+**Art. 13.** W sprawach nieuregulowanych niniejszym rozdziale do udzielania kredytu technologicznego oraz czynności związanych wykonywaniem umowy kredytu technologicznego, wtym do ustanawiania zabezpieczeń, stosuje się przepisy ustawy dnia 29 sierpnia 1997 Prawo bankowe (Dz. U. 2002 72, 665, póên. zm.
 
 **Art. 15.**
 
-1. Na Êrodki Funduszu sk∏adajà si´:
+1. Na środki Funduszu składają się:
 
-- **1)** dotacje zbud˝etu paƒstwa wwysokoÊci okreÊlonej ustawie bud˝etowej;
-- **2)** odsetki od lokat Êrodków Funduszu bankach;
-- **3)** wp∏ywy inwestycji Êrodków Funduszu papiery wartoÊciowe emitowane przez Skarb Paƒstwa lub jednostki uczestnictwa funduszy rynku pieni´˝nego, o których mowa art. 178 ustawy dnia 27 maja 2004 o funduszach inwestycyjnych (Dz. U. 146, 1546, póên. zm. ). Rozdzia∏ 3 Fundusz Kredytu Technologicznego
+- **1)** dotacje zbudżetu państwa wwysokości określonej ustawie budżetowej;
+- **2)** odsetki od lokat środków Funduszu bankach;
+- **3)** wpływy inwestycji środków Funduszu papiery wartościowe emitowane przez Skarb Państwa lub jednostki uczestnictwa funduszy rynku pieniężnego, o których mowa art. 178 ustawy dnia 27 maja 2004 o funduszach inwestycyjnych (Dz. U. 146, 1546, póên. zm. ).
+
+#### Rozdział 3 Fundusz Kredytu Technologicznego
 
 **Art. 14.**
 
-1. Tworzy si´ paƒstwowy fundusz celowy formie rachunku bankowego o nazwie „Fundusz Kredytu Technologicznego”, zwany dalej „Funduszem”.
+1. Tworzy się państwowy fundusz celowy formie rachunku bankowego o nazwie ŃFundusz Kredytu Technologicznego”, zwany dalej ŃFunduszem”.
 
-2. Dysponentem Funduszu jest minister w∏aÊciwy do spraw gospodarki.
+2. Dysponentem Funduszu jest minister właściwy do spraw gospodarki.
 
-3. Obs∏ug´ bankowà Funduszu prowadzi Bank Gospodarstwa Krajowego.
+3. Obsługę bankową Funduszu prowadzi Bank Gospodarstwa Krajowego.
 
-4. Dysponent Funduszu zawiera zBankiem Gospodarstwa Krajowego umow´ okreÊlajàcà zakres czynnoÊci wykonywanych przez Bank Gospodarstwa Krajowego oraz wynagrodzenie tytu∏u obs∏ugi Funduszu.
+4. Dysponent Funduszu zawiera zBankiem Gospodarstwa Krajowego umowę określającą zakres czynności wykonywanych przez Bank Gospodarstwa Krajowego oraz wynagrodzenie tytułu obsługi Funduszu.
 
-5. Wynagrodzenie, o którym mowa ust. 4, jest ustalane porozumieniu ministrem w∏aÊciwym do spraw finansów publicznych. );
+5. Wynagrodzenie, o którym mowa ust. 4, jest ustalane porozumieniu ministrem właściwym do spraw finansów publicznych. );
 
-- **4)** inne wp∏ywy.
+- **4)** inne wpływy.
 
-2. Ârodki Funduszu przeznacza si´ na:
+2. Ârodki Funduszu przeznacza się na:
 
-- **1)** wyp∏at´ premii technologicznych;
-- **2)** wynagrodzenie Banku Gospodarstwa Krajowego tytu∏u obs∏ugi Funduszu.
+- **1)** wypłatę premii technologicznych;
+- **2)** wynagrodzenie Banku Gospodarstwa Krajowego tytułu obsługi Funduszu.
 
 **Art. 16.**
 
-1. Podstawà gospodarki finansowej Funduszu jest roczny plan finansowy, sporzàdzany na ka˝dy rok bud˝etowy.
+1. Podstawą gospodarki finansowej Funduszu jest roczny plan finansowy, sporządzany na każdy rok budżetowy.
 
-2. Roczny plan finansowy okreÊla wszczególnoÊci:
+2. Roczny plan finansowy określa wszczególności:
 
 - **1)** przychody i wydatki;
-- **2)** stan Êrodków obrotowych Funduszu na poczàtek i koniec roku bud˝etowego;
-- **3)** nale˝noÊci i zobowiàzania.
+- **2)** stan środków obrotowych Funduszu na początek i koniec roku budżetowego;
+- **3)** należności i zobowiązania.
 
-3. Projekt rocznego planu finansowego sporzàdza dysponent Funduszu.
+3. Projekt rocznego planu finansowego sporządza dysponent Funduszu.
 
-4. Wydatki Funduszu wynikajàce planu finansowego sà dokonywane ramach posiadanych Êrodków finansowych, obejmujàcych bie˝àce przychody i pozosta∏oÊci Êrodków okresów poprzednich.
+4. Wydatki Funduszu wynikające planu finansowego są dokonywane ramach posiadanych środków finansowych, obejmujących bieżące przychody i pozostałości środków okresów poprzednich.
 
-5. Sprawozdanie wykonania rocznego planu finansowego Funduszu sporzàdza dysponent Funduszu terminach i na zasadach okreÊlonych odr´bnych przepisach.
+5. Sprawozdanie wykonania rocznego planu finansowego Funduszu sporządza dysponent Funduszu terminach i na zasadach określonych odrębnych przepisach.
 
-6. W przypadku gdy Êrodki finansowe zgromadzone przez Fundusz nie sà okresowo wykorzystywane na cele wskazane art. 15 ust. 2, dysponent Funduszu mo˝e dokonywaç oprocentowanych lokat terminowych bankach oraz inwestowaç Êrodki Funduszu papiery wartoÊciowe emitowane przez Skarb Paƒstwa lub wjednostki uczestnictwa funduszy rynku pieni´˝nego, o których mowa art. 178 ustawy dnia 27 maja 2004 o funduszach inwestycyjnych. ———————
+6. W przypadku gdy środki finansowe zgromadzone przez Fundusz nie są okresowo wykorzystywane na cele wskazane art. 15 ust. 2, dysponent Funduszu może dokonywać oprocentowanych lokat terminowych bankach oraz inwestować środki Funduszu papiery wartościowe emitowane przez Skarb Państwa lub wjednostki uczestnictwa funduszy rynku pieniężnego, o których mowa art. 178 ustawy dnia 27 maja 2004 o funduszach inwestycyjnych. ———————
 
-7. Dokonywanie oprocentowanych lokat iinwestowanie Êrodków Funduszu wpapiery wartoÊciowe emitowane przez Skarb Paƒstwa lub jednostki uczestnictwa funduszy rynku pieni´˝nego nie mo˝e uchybiaç terminowym wyp∏atom Êrodków na cele, o których mowa art. 15 ust. 2. ———————
+7. Dokonywanie oprocentowanych lokat iinwestowanie środków Funduszu wpapiery wartościowe emitowane przez Skarb Państwa lub jednostki uczestnictwa funduszy rynku pieniężnego nie może uchybiać terminowym wypłatom środków na cele, o których mowa art. 15 ust. 2. ———————
 
-8. Bank Gospodarstwa Krajowego sk∏ada ministrowi w∏aÊciwemu do spraw gospodarki, terminie do koƒca miesiàca nast´pujàcego po ka˝dym kwartale, sprawozdanie realizacji planu finansowego Funduszu.
+8. Bank Gospodarstwa Krajowego składa ministrowi właściwemu do spraw gospodarki, terminie do końca miesiąca następującego po każdym kwartale, sprawozdanie realizacji planu finansowego Funduszu.
 
-9. Minister w∏aÊciwy do spraw gospodarki przekazuje sprawozdanie, októrym mowa wust. 8, ministrowi w∏aÊciwemu do spraw finansów publicznych, terminie miesiàca od dnia jego otrzymania. Rozdzia∏ 4 Status centrum badawczo-rozwojowego
+9. Minister właściwy do spraw gospodarki przekazuje sprawozdanie, októrym mowa wust. 8, ministrowi właściwemu do spraw finansów publicznych, terminie miesiąca od dnia jego otrzymania.
+
+#### Rozdział 4 Status centrum badawczo-rozwojowego
 
 **Art. 17.**
 
-1. Przedsi´biorca nieb´dàcy jednostkà badawczo-rozwojowà i nieposiadajàcy statusu jednostki badawczo-rozwojowej rozumieniu ustawy dnia 25 lipca 1985 ojednostkach badawczo-rozwojowych (Dz. U. 2001 33, 388, póên. zm. ), prowadzàcy badania lub prace rozwojowe, mo˝e uzyskaç status centrum badawczo-rozwojowego, zastrze˝eniem ust. 2.
+1. Przedsiębiorca niebędący jednostką badawczo-rozwojową i nieposiadający statusu jednostki badawczo-rozwojowej rozumieniu ustawy dnia 25 lipca 1985 ojednostkach badawczo-rozwojowych (Dz. U. 2001 33, 388, póên. zm. ), prowadzący badania lub prace rozwojowe, może uzyskać status centrum badawczo-rozwojowego, zastrzeżeniem ust. 2.
 
-4. Organem uprawnionym do nadawania przedsi´biorcy statusu centrum badawczo-rozwojowego jest minister w∏aÊciwy do spraw gospodarki.
+4. Organem uprawnionym do nadawania przedsiębiorcy statusu centrum badawczo-rozwojowego jest minister właściwy do spraw gospodarki.
 
-5. Przedsi´biorca ubiegajàcy si´ onadanie statusu centrum badawczo-rozwojowego sk∏ada wniosek do ministra w∏aÊciwego do spraw gospodarki. Wniosek powinien zawieraç:
+5. Przedsiębiorca ubiegający się onadanie statusu centrum badawczo-rozwojowego składa wniosek do ministra właściwego do spraw gospodarki. Wniosek powinien zawierać:
 
-- **1)** nazw´ firmy, siedzib´ i adres przedsi´biorcy;
-- **2)** oznaczenie formy prawnej przedsi´biorcy;
+- **1)** nazwę firmy, siedzibę i adres przedsiębiorcy;
+- **2)** oznaczenie formy prawnej przedsiębiorcy;
 - **3)** numer identyfikacji podatkowej (NIP);
 - **4)** numer REGON;
-- **5)** dane dotyczàce przychodów netto, o których mowa ust. 2 pkt 1 i 2;
-- **6)** opis badaƒ lub prac rozwojowych prowadzonych przez przedsi´biorc´, wtym opis zadaƒ badawczo-rozwojowych zrealizowanych ostatnim roku obrotowym oraz ich wyników, a tak˝e wykaz uzyskanych akredytacji, patentów lub zastosowaƒ
+- **5)** dane dotyczące przychodów netto, o których mowa ust. 2 pkt 1 i 2;
+- **6)** opis badań lub prac rozwojowych prowadzonych przez przedsiębiorcę, wtym opis zadań badawczo-rozwojowych zrealizowanych ostatnim roku obrotowym oraz ich wyników, a także wykaz uzyskanych akredytacji, patentów lub zastosowań
 
-2. Status centrum badawczo-rozwojowego mo˝e uzyskaç przedsi´biorca, októrym mowa wust. 1, zwany dalej „przedsi´biorcà”:
+2. Status centrum badawczo-rozwojowego może uzyskać przedsiębiorca, októrym mowa wust. 1, zwany dalej Ńprzedsiębiorcą”:
 
-- **1)** którego przychody netto (bez podatku od towarów ius∏ug) ze sprzeda˝y towarów, produktów ioperacji finansowych za poprzedni rok obrotowy wynios∏y co najmniej równowartoÊç kwoty okreÊlonej przepisach o rachunkowoÊci jako minimalny przychód netto ze sprzeda˝y towarów, produktów i operacji finansowych za poprzedni rok obrotowy osób fizycznych, spó∏ek cywilnych osób fizycznych, spó∏ek jawnych osób fizycznych oraz spó∏ek partnerskich, do których stosuje si´ przepisy o rachunkowoÊci;
-- **2)** którego przychody netto (bez podatku od towarów i us∏ug) ze sprzeda˝y w∏asnych us∏ug badawczo-rozwojowych rozumieniu przepisów sprawie polskiej klasyfikacji wyrobów ius∏ug lub praw w∏asnoÊci przemys∏owej udzielonych przedsi´biorcy przez urzàd w∏aÊciwy do spraw w∏asnoÊci przemys∏owej, stanowià co najmniej 20 % przychodów okreÊlonych pkt 1;
-- **3)** który nie zalega zap∏atà podatków oraz sk∏adek na ubezpieczenia spo∏eczne i zdrowotne.
+- **1)** którego przychody netto (bez podatku od towarów iusług) ze sprzedaży towarów, produktów ioperacji finansowych za poprzedni rok obrotowy wyniosły co najmniej równowartość kwoty określonej przepisach o rachunkowości jako minimalny przychód netto ze sprzedaży towarów, produktów i operacji finansowych za poprzedni rok obrotowy osób fizycznych, spółek cywilnych osób fizycznych, spółek jawnych osób fizycznych oraz spółek partnerskich, do których stosuje się przepisy o rachunkowości;
+- **2)** którego przychody netto (bez podatku od towarów i usług) ze sprzedaży własnych usług badawczo-rozwojowych rozumieniu przepisów sprawie polskiej klasyfikacji wyrobów iusług lub praw własności przemysłowej udzielonych przedsiębiorcy przez urząd właściwy do spraw własności przemysłowej, stanowią co najmniej 20 % przychodów określonych pkt 1;
+- **3)** który nie zalega zapłatą podatków oraz składek na ubezpieczenia społeczne i zdrowotne.
 
-3. Spe∏nienie kryteriów, o których mowa ust. 2 pkt 1 i 2, ustala si´ na podstawie zbadanego i zaopiniowanego przez bieg∏ego rewidenta oraz zatwierdzonego przez organ zatwierdzajàcy sprawozdania finansowego za rok obrotowy poprzedzajàcy rok z∏o˝enia wniosku, o którym mowa ust. 5. praktyce.
+3. Spełnienie kryteriów, o których mowa ust. 2 pkt 1 i 2, ustala się na podstawie zbadanego i zaopiniowanego przez biegłego rewidenta oraz zatwierdzonego przez organ zatwierdzający sprawozdania finansowego za rok obrotowy poprzedzający rok złożenia wniosku, o którym mowa ust. 5. praktyce.
 
-6. Do wniosku, o którym mowa ust. 5, przedsi´biorca do∏àcza nast´pujàce dokumenty:
+6. Do wniosku, o którym mowa ust. 5, przedsiębiorca dołącza następujące dokumenty:
 
-- **1)** aktualny odpis rejestru przedsi´biorców;
-- **2)** zatwierdzone, na podstawie odr´bnych przepisów, sprawozdanie finansowe przedsi´biorcy za rok obrotowy poprzedzajàcy z∏o˝enie wniosku wraz zwyszczególnieniem przychodów netto (bez podatku od towarów i us∏ug) tytu∏u sprzeda˝y w∏asnych us∏ug badawczo-rozwojowych rozumieniu przepisów sprawie polskiej klasyfikacji wyrobów i us∏ug lub praw w∏asnoÊci przemys∏owej udzielonych przedsi´biorcy przez urzàd w∏aÊciwy do spraw w∏asnoÊci przemys∏owej;
-- **3)** raport badania sprawozdania finansowego, októrym mowa wpkt 2, wraz zopinià bieg∏ego rewidenta;
-- **4)** oÊwiadczenie o niezaleganiu zap∏atà podatków dochodowych za rok obrotowy poprzedzajàcy rok z∏o˝enia wniosku;
-- **5)** oÊwiadczenie oniezaleganiu zzap∏atà podatku akcyzowego na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku;
-- **6)** oÊwiadczenie o niezaleganiu zap∏atà sk∏adek na ubezpieczenia spo∏eczne izdrowotne na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku;
-- **7)** oÊwiadczenie o niezaleganiu zap∏atà podatków i op∏at lokalnych na koniec miesiàca poprzedzajàcego miesiàc z∏o˝enia wniosku;
-- **8)** przypadku spó∏ki handlowej powsta∏ej wyniku komercjalizacji lub prywatyzacji jednostki badawczo-rozwojowej informacj´ owysokoÊci ulg podatkowych przys∏ugujàcych tej jednostce ba———————
+- **1)** aktualny odpis rejestru przedsiębiorców;
+- **2)** zatwierdzone, na podstawie odrębnych przepisów, sprawozdanie finansowe przedsiębiorcy za rok obrotowy poprzedzający złożenie wniosku wraz zwyszczególnieniem przychodów netto (bez podatku od towarów i usług) tytułu sprzedaży własnych usług badawczo-rozwojowych rozumieniu przepisów sprawie polskiej klasyfikacji wyrobów i usług lub praw własności przemysłowej udzielonych przedsiębiorcy przez urząd właściwy do spraw własności przemysłowej;
+- **3)** raport badania sprawozdania finansowego, októrym mowa wpkt 2, wraz zopinią biegłego rewidenta;
+- **4)** oświadczenie o niezaleganiu zapłatą podatków dochodowych za rok obrotowy poprzedzający rok złożenia wniosku;
+- **5)** oświadczenie oniezaleganiu zzapłatą podatku akcyzowego na koniec miesiąca poprzedzającego miesiąc złożenia wniosku;
+- **6)** oświadczenie o niezaleganiu zapłatą składek na ubezpieczenia społeczne izdrowotne na koniec miesiąca poprzedzającego miesiąc złożenia wniosku;
+- **7)** oświadczenie o niezaleganiu zapłatą podatków i opłat lokalnych na koniec miesiąca poprzedzającego miesiąc złożenia wniosku;
+- **8)** przypadku spółki handlowej powstałej wyniku komercjalizacji lub prywatyzacji jednostki badawczo-rozwojowej informację owysokości ulg podatkowych przysługujących tej jednostce ba———————
 
-**Art. 18.** Minister w∏aÊciwy do spraw gospodarki odmawia, drodze decyzji administracyjnej, nadania przedsi´biorcy statusu centrum badawczo-rozwojowego, wprzypadku gdy przedsi´biorca ten nie spe∏nia warunków, o których mowa art. 17 ust. 2.
+**Art. 18.** Minister właściwy do spraw gospodarki odmawia, drodze decyzji administracyjnej, nadania przedsiębiorcy statusu centrum badawczo-rozwojowego, wprzypadku gdy przedsiębiorca ten nie spełnia warunków, o których mowa art. 17 ust. 2.
 
 **Art. 19.**
 
-1. Przedsi´biorca, który uzyska∏ status centrum badawczo-rozwojowego, sk∏ada ministrowi w∏aÊciwemu do spraw gospodarki, terminie 14 dni od dnia zatwierdzenia sprawozdania finansowego za rok sprawozdawczy:
+1. Przedsiębiorca, który uzyskał status centrum badawczo-rozwojowego, składa ministrowi właściwemu do spraw gospodarki, terminie 14 dni od dnia zatwierdzenia sprawozdania finansowego za rok sprawozdawczy:
 
 - **1)** dokumenty, o których mowa art. 17 ust. 6 pkt 4—8;
-- **2)** zatwierdzone, na podstawie odr´bnych przepisów, sprawozdanie finansowe przedsi´biorcy za ostatni rok obrotowy, wyszczególnieniem:
-    - **a)** przychodów netto (bez podatku od towarów ius∏ug) ztytu∏u sprzeda˝y us∏ug badawczo-rozwojowych, o których mowa art. 17 ust. 2,
-    - **b)** ró˝nicy stosunku do poprzedniego roku obrotowego zakresie: przychodów, o których mowa lit. a, wydatków na prowadzenie badaƒ i prac rozwojowych, stanu zatrudnienia na stanowiskach pracy zwiàzanych prowadzeniem badaƒ i prac rozwojowych,
-    - **c)** kwoty, októrà zosta∏ pomniejszony podatek dochodowy tytu∏u wykorzystywania Êrodków funduszu innowacyjnoÊci;
+- **2)** zatwierdzone, na podstawie odrębnych przepisów, sprawozdanie finansowe przedsiębiorcy za ostatni rok obrotowy, wyszczególnieniem:
+    - **a)** przychodów netto (bez podatku od towarów iusług) ztytułu sprzedaży usług badawczo-rozwojowych, o których mowa art. 17 ust. 2,
+    - **b)** różnicy stosunku do poprzedniego roku obrotowego zakresie: przychodów, o których mowa lit. a, wydatków na prowadzenie badań i prac rozwojowych, stanu zatrudnienia na stanowiskach pracy związanych prowadzeniem badań i prac rozwojowych,
+    - **c)** kwoty, októrą został pomniejszony podatek dochodowy tytułu wykorzystywania środków funduszu innowacyjności;
 
 - **3)** raport badania sprawozdania, o którym mowa pkt 2;
-- **4)** opis badaƒ lub prac rozwojowych prowadzonych przez przedsi´biorc´, wtym opis zadaƒ badawczo-rozwojowych zrealizowanych wostatnim roku obrotowym oraz ich wyników, a tak˝e wykaz uzyskanych akredytacji, patentów lub zastosowaƒ praktyce.
+- **4)** opis badań lub prac rozwojowych prowadzonych przez przedsiębiorcę, wtym opis zadań badawczo-rozwojowych zrealizowanych wostatnim roku obrotowym oraz ich wyników, a także wykaz uzyskanych akredytacji, patentów lub zastosowań praktyce.
 
-2. Informacje, októrych mowa wust. 1 pkt 2, minister w∏aÊciwy do spraw gospodarki przekazuje Prezesowi Urz´du Ochrony Konkurencji i Konsumentów, terminie miesiàca od dnia ich otrzymania.
+2. Informacje, októrych mowa wust. 1 pkt 2, minister właściwy do spraw gospodarki przekazuje Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, terminie miesiąca od dnia ich otrzymania.
 
 **Art. 20.**
 
-1. Minister w∏aÊciwy do spraw gospodarki wydaje decyzj´ o pozbawieniu przedsi´biorcy statusu centrum badawczo-rozwojowego, przypadku gdy:
+1. Minister właściwy do spraw gospodarki wydaje decyzję o pozbawieniu przedsiębiorcy statusu centrum badawczo-rozwojowego, przypadku gdy:
 
-- **1)** przedsi´biorca nie spe∏ni obowiàzku, o którym mowa art. 19 ust. 1;
-- **2)** analiza dokumentów z∏o˝onych na podstawie art. 19 ust. 1 wyka˝e, ˝e przedsi´biorca nie spe∏nia warunków, o których mowa art. 17 ust. 2.
+- **1)** przedsiębiorca nie spełni obowiązku, o którym mowa art. 19 ust. 1;
+- **2)** analiza dokumentów złożonych na podstawie art. 19 ust. 1 wykaże, że przedsiębiorca nie spełnia warunków, o których mowa art. 17 ust. 2.
 
-2. Minister w∏aÊciwy do spraw gospodarki og∏asza Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski” komunikaty o wydanych decyzjach sprawie nadania i pozbawienia przedsi´biorcy statusu centrum badawczo-rozwojowego.
+2. Minister właściwy do spraw gospodarki ogłasza Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” komunikaty o wydanych decyzjach sprawie nadania i pozbawienia przedsiębiorcy statusu centrum badawczo-rozwojowego.
 
-2. Fundusz innowacyjnoÊci tworzy si´ comiesi´cznego odpisu wynoszàcego nie wi´cej ni˝ 20 % przychodów uzyskanych przez centrum badawczo-rozwojowe danym miesiàcu.
+2. Fundusz innowacyjności tworzy się comiesięcznego odpisu wynoszącego nie więcej niż 20 % przychodów uzyskanych przez centrum badawczo-rozwojowe danym miesiącu.
 
-3. Odpis, o którym mowa ust. 2, obcià˝a koszty dzia∏alnoÊci centrum badawczo-rozwojowego.
+3. Odpis, o którym mowa ust. 2, obciąża koszty działalności centrum badawczo-rozwojowego.
 
-4. Ârodki funduszu innowacyjnoÊci sà gromadzone na odr´bnym rachunku bankowym.
+4. Ârodki funduszu innowacyjności są gromadzone na odrębnym rachunku bankowym.
 
-5. RównowartoÊç odpisów dokonanych zgodnie ust. 2 centrum badawczo-rozwojowe przekazuje na rachunek bankowy funduszu innowacyjnoÊci wterminie do 15. dnia miesiàca nast´pujàcego po miesiàcu, którym zosta∏ dokonany odpis.
+5. Równowartość odpisów dokonanych zgodnie ust. 2 centrum badawczo-rozwojowe przekazuje na rachunek bankowy funduszu innowacyjności wterminie do 15. dnia miesiąca następującego po miesiącu, którym został dokonany odpis.
 
-6. Kwota Êrodków przekazanych na rachunek bankowy, októrym mowa wust. 4, nie mo˝e byç ni˝sza od sumy odpisów dokonanych zgodnie ust. 2.
+6. Kwota środków przekazanych na rachunek bankowy, októrym mowa wust. 4, nie może być niższa od sumy odpisów dokonanych zgodnie ust. 2.
 
-7. Ârodki funduszu innowacyjnoÊci zgromadzone na rachunku, o którym mowa ust. 4, wykorzystuje si´ na pokrywanie kosztów prowadzenia badaƒ i prac rozwojowych oraz kosztów zwiàzanych uzyskaniem patentu na wynalazek.
+7. Ârodki funduszu innowacyjności zgromadzone na rachunku, o którym mowa ust. 4, wykorzystuje się na pokrywanie kosztów prowadzenia badań i prac rozwojowych oraz kosztów związanych uzyskaniem patentu na wynalazek.
 
-8. Minister w∏aÊciwy do spraw gospodarki okreÊli, drodze rozporzàdzenia, rodzaje kosztów, o których mowa ust. 7, sposób i warunki wykorzystywania Êrodków funduszu innowacyjnoÊci oraz obowiàzki informacyjne przedsi´biorcy i organów paƒstwowych, bioràc pod uwag´ wspólnotowe zasady ramowe dotyczàce pomocy paƒstwa na dzia∏alnoÊç badawczà, rozwojowà i innowacyjnà.
+8. Minister właściwy do spraw gospodarki określi, drodze rozporządzenia, rodzaje kosztów, o których mowa ust. 7, sposób i warunki wykorzystywania środków funduszu innowacyjności oraz obowiązki informacyjne przedsiębiorcy i organów państwowych, biorąc pod uwagę wspólnotowe zasady ramowe dotyczące pomocy państwa na działalność badawczą, rozwojową i innowacyjną.
 
-9. Ârodki funduszu innowacyjnoÊci zalicza si´ do przychodów dzia∏alnoÊci przypadku:
+9. Ârodki funduszu innowacyjności zalicza się do przychodów działalności przypadku:
 
-- **1)** niewykorzystania ich danym roku podatkowym wysokoÊci niewykorzystanych Êrodków;
-- **2)** utraty przez przedsi´biorc´ statusu centrum badawczo-rozwojowego.
+- **1)** niewykorzystania ich danym roku podatkowym wysokości niewykorzystanych środków;
+- **2)** utraty przez przedsiębiorcę statusu centrum badawczo-rozwojowego.
 
-10. Ârodki funduszu innowacyjnoÊci wykorzystane niezgodnie przepisami wydanymi na podstawie ust. 8 zalicza si´ do przychodów dzia∏alnoÊci miesiàcu, którym zosta∏y wydatkowane. Rozdzia∏ 5 Zmiany przepisach obowiàzujàcych, przepisy przejÊciowe i koƒcowe
+10. Ârodki funduszu innowacyjności wykorzystane niezgodnie przepisami wydanymi na podstawie ust. 8 zalicza się do przychodów działalności miesiącu, którym zostały wydatkowane.
+
+#### Rozdział 5 Zmiany przepisach obowiązujących, przepisy przejściowe i końcowe
 
 **Art. 22.** Wustawie zdnia 15 listopada 1984 opodatku rolnym (Dz. U. z2006 136, 969, póên. zm. ) art. 12:
 
-**Art. 23.** Wustawie zdnia 25 lipca 1985 ojednostkach badawczo-rozwojowych (Dz. U. 2001 33, 388, póên. zm. ) art. 10 uchyla si´ ust. 5.
+**Art. 23.** Wustawie zdnia 25 lipca 1985 ojednostkach badawczo-rozwojowych (Dz. U. 2001 33, 388, póên. zm. ) art. 10 uchyla się ust. 5.
 
-**Art. 24.** W ustawie dnia 12 stycznia 1991 o podatkach i op∏atach lokalnych (Dz. U. 2006 121, 844, póên. zm. ) art. 7:
+**Art. 24.** W ustawie dnia 12 stycznia 1991 o podatkach i opłatach lokalnych (Dz. U. 2006 121, 844, póên. zm. ) art. 7:
 
-**Art. 26.** W ustawie dnia 30 paêdziernika 2002 o podatku leÊnym (Dz. U. 200, 1682, póên. zm. odniesieniu do przedmiotów opodatkowania zaj´tych na cele prowadzonych badaƒ i prac rozwojowych;”;
+**Art. 26.** W ustawie dnia 30 paêdziernika 2002 o podatku leśnym (Dz. U. 200, 1682, póên. zm. odniesieniu do przedmiotów opodatkowania zajętych na cele prowadzonych badań i prac rozwojowych;”;
 
-**Art. 25.** W ustawie dnia 9 listopada 2000 o utworzeniu Polskiej Agencji Rozwoju Przedsi´biorczoÊci (Dz. U. z2007 42, 275) wprowadza si´ nast´pujàce zmiany:
+**Art. 25.** W ustawie dnia 9 listopada 2000 o utworzeniu Polskiej Agencji Rozwoju Przedsiębiorczości (Dz. U. z2007 42, 275) wprowadza się następujące zmiany:
 
-**Art. 27.** W ustawie dnia 8 paêdziernika 2004 o zasadach finansowania nauki (Dz. U. 238, 2390, póên. zm. ) art. 2 pkt 9 lit. g otrzymuje brzmienie: „g) inne jednostki organizacyjne, niewymienione lit. a—f, posiadajàce osobowoÊç prawnà i siedzib´ Rzeczypospolitej Polskiej, tym przedsi´biorcy posiadajàcy status centrum badawczo-rozwojowego nadawany na podstawie przepisów o niektórych formach wspierania dzia∏alnoÊci innowacyjnej;”.
+**Art. 27.** W ustawie dnia 8 paêdziernika 2004 o zasadach finansowania nauki (Dz. U. 238, 2390, póên. zm. ) art. 2 pkt 9 lit. g otrzymuje brzmienie: Ńg) inne jednostki organizacyjne, niewymienione lit. a—f, posiadające osobowość prawną i siedzibę Rzeczypospolitej Polskiej, tym przedsiębiorcy posiadający status centrum badawczo-rozwojowego nadawany na podstawie przepisów o niektórych formach wspierania działalności innowacyjnej;”.
 
-**Art. 28.** W ustawie dnia 29 lipca 2005 o niektórych formach wspierania dzia∏alnoÊci innowacyjnej (Dz. U. 179, 1484 oraz z2006 107, poz.723) art. 10 ust. 2 pkt 1 otrzymuje brzmienie: „1) wyp∏at´ premii technologicznych;”.
+**Art. 28.** W ustawie dnia 29 lipca 2005 o niektórych formach wspierania działalności innowacyjnej (Dz. U. 179, 1484 oraz z2006 107, poz.723) art. 10 ust. 2 pkt 1 otrzymuje brzmienie: Ń1) wypłatę premii technologicznych;”.
 
-**Art. 29.** Ârodki pieni´˝ne zgromadzone na rachunku bankowym Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy dnia 29 lipca 2005 o niektórych formach wspierania dzia∏alnoÊci innowacyjnej stanowià Êrodki pieni´˝ne Funduszu Kredytu Technologicznego utworzonego na podstawie art. 14 ust. 1 niniejszej ustawy.
+**Art. 29.** Ârodki pieniężne zgromadzone na rachunku bankowym Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy dnia 29 lipca 2005 o niektórych formach wspierania działalności innowacyjnej stanowią środki pieniężne Funduszu Kredytu Technologicznego utworzonego na podstawie art. 14 ust. 1 niniejszej ustawy.
 
-**Art. 30.** Fundusz Kredytu Technologicznego utworzony na podstawie art. 14 ust. 1 niniejszej ustawy, przejmuje aktywa i zobowiàzania Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy ——————— dnia 29 lipca 2005 o niektórych formach wspierania dzia∏alnoÊci innowacyjnej. ———————
+**Art. 30.** Fundusz Kredytu Technologicznego utworzony na podstawie art. 14 ust. 1 niniejszej ustawy, przejmuje aktywa i zobowiązania Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy ——————— dnia 29 lipca 2005 o niektórych formach wspierania działalności innowacyjnej. ———————
 
 **Art. 31.**
 
-1. Sp∏aty rat kapita∏owych, odsetki od udzielonych kredytów technologicznych, odsetki od lokat Êrodków Funduszu wbankach oraz inne wp∏ywy sk∏adajàce si´ na Êrodki Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy dnia 29 lipca 2005 oniektórych formach wspierania dzia∏alnoÊci innowacyjnej sà przychodami Funduszu Kredytu Technologicznego utworzonego na podstawie art. 14 ust. 1 niniejszej ustawy.
+1. Spłaty rat kapitałowych, odsetki od udzielonych kredytów technologicznych, odsetki od lokat środków Funduszu wbankach oraz inne wpływy składające się na środki Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy dnia 29 lipca 2005 oniektórych formach wspierania działalności innowacyjnej są przychodami Funduszu Kredytu Technologicznego utworzonego na podstawie art. 14 ust. 1 niniejszej ustawy.
 
-2. Wydatki okreÊlone dla Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy dnia 29 lipca 2005 o niektórych formach wspierania dzia∏alnoÊci innowacyjnej sà wp∏ywami iwydatkami Funduszu Kredytu Technologicznego utworzonego na podstawie art. 14 ust. 1 niniejszej ustawy.
+2. Wydatki określone dla Funduszu Kredytu Technologicznego utworzonego na podstawie ustawy dnia 29 lipca 2005 o niektórych formach wspierania działalności innowacyjnej są wpływami iwydatkami Funduszu Kredytu Technologicznego utworzonego na podstawie art. 14 ust. 1 niniejszej ustawy.
 
-**Art. 32.** Bank Gospodarstwa Krajowego dokonuje, imieniu ministra w∏aÊciwego do spraw gospodarki, umorzeƒ kredytów technologicznych udzielonych przez Bank Gospodarstwa Krajowego do dnia wejÊcia w˝ycie ustawy ze Êrodków Funduszu Kredytu Technologicznego, dzia∏ajàcego na podstawie ustawy dnia 29 lipca 2005 oniektórych formach wspierania dzia∏alnoÊci innowacyjnej. Umorzeƒ dokonuje si´ na zasadach okreÊlonych art. 33 i 34.
+**Art. 32.** Bank Gospodarstwa Krajowego dokonuje, imieniu ministra właściwego do spraw gospodarki, umorzeń kredytów technologicznych udzielonych przez Bank Gospodarstwa Krajowego do dnia wejścia wżycie ustawy ze środków Funduszu Kredytu Technologicznego, działającego na podstawie ustawy dnia 29 lipca 2005 oniektórych formach wspierania działalności innowacyjnej. Umorzeń dokonuje się na zasadach określonych art. 33 i 34.
 
 **Art. 33.**
 
-1. Bank Gospodarstwa Krajowego dokonuje umorzenia cz´Êci kredytu technologicznego ratach wysokoÊci odpowiadajàcej 20 % wartoÊci netto wykazanej na przedk∏adanych, nie cz´Êciej ni˝ dwa razy roku, przez kredytobiorc´ fakturach dokumentujàcych dokonanie sprzeda˝y towarów lub us∏ug powsta∏ych wyniku inwestycji technologicznej finansowanej kredytu technologicznego wraz potwierdzeniem dokonania zap∏aty.
+1. Bank Gospodarstwa Krajowego dokonuje umorzenia części kredytu technologicznego ratach wysokości odpowiadającej 20 % wartości netto wykazanej na przedkładanych, nie częściej niż dwa razy roku, przez kredytobiorcę fakturach dokumentujących dokonanie sprzedaży towarów lub usług powstałych wyniku inwestycji technologicznej finansowanej kredytu technologicznego wraz potwierdzeniem dokonania zapłaty.
 
-2. Ca∏kowita kwota umorzenia kredytu technologicznego nie mo˝e przekroczyç:
+2. Całkowita kwota umorzenia kredytu technologicznego nie może przekroczyć:
 
-- **1)** równowartoÊci z∏otych 1 mln euro przeliczonej wed∏ug Êredniego kursu og∏aszanego przez Narodowy Bank Polski na dzieƒ dokonania umorzenia;
-- **2)** 50 % kwoty wykorzystanego kapita∏u kredytu technologicznego;
-- **3)** danym roku kalendarzowym iloczynu 10 % kwoty kapita∏u wykorzystanego kredytu technologicznego i liczby lat, które up∏yn´∏y od dnia udzielenia przedsi´biorcy kredytu technologicznego;
-- **4)** 30 % wydatków, októrych mowa wust. 7, wprzypadku inwestycji technologicznej realizowanej Warszawie lub Poznaniu, zastrze˝eniem ust. 3—6;
-- **5)** 40 % wydatków, októrych mowa wust. 7, wprzypadku inwestycji technologicznej realizowanej we Wroc∏awiu, Krakowie lub Gdaƒsku—Gdyni—Sopocie, zastrze˝eniem ust. 3—6;
+- **1)** równowartości złotych 1 mln euro przeliczonej według średniego kursu ogłaszanego przez Narodowy Bank Polski na dzień dokonania umorzenia;
+- **2)** 50 % kwoty wykorzystanego kapitału kredytu technologicznego;
+- **3)** danym roku kalendarzowym iloczynu 10 % kwoty kapitału wykorzystanego kredytu technologicznego i liczby lat, które upłynęły od dnia udzielenia przedsiębiorcy kredytu technologicznego;
+- **4)** 30 % wydatków, októrych mowa wust. 7, wprzypadku inwestycji technologicznej realizowanej Warszawie lub Poznaniu, zastrzeżeniem ust. 3—6;
+- **5)** 40 % wydatków, októrych mowa wust. 7, wprzypadku inwestycji technologicznej realizowanej we Wrocławiu, Krakowie lub Gdańsku—Gdyni—Sopocie, zastrzeżeniem ust. 3—6;
 - **6)** 50 % wydatków, októrych mowa wust. 7, wprzypadku inwestycji technologicznej realizowanej na
 
-3. Pomoc formie umorzenia, o którym mowa ust. 1, podlega sumowaniu innà pomocà publicznà uzyskanà przez przedsi´biorc´ innych formach oraz zinnych êróde∏, przeznaczonà na inwestycj´ technologicznà b´dàcà przedmiotem kredytu technologicznego lub na tworzenie nowych miejsc pracy zwiàzanych tà inwestycjà, i nie mo˝e ∏àcznie przekroczyç limitów, o których mowa ust. 2 pkt 4—6 oraz ust. 4—6.
+3. Pomoc formie umorzenia, o którym mowa ust. 1, podlega sumowaniu inną pomocą publiczną uzyskaną przez przedsiębiorcę innych formach oraz zinnych êródeł, przeznaczoną na inwestycję technologiczną będącą przedmiotem kredytu technologicznego lub na tworzenie nowych miejsc pracy związanych tą inwestycją, i nie może łącznie przekroczyć limitów, o których mowa ust. 2 pkt 4—6 oraz ust. 4—6.
 
-4. W przypadku gdy umorzenie dotyczy kredytu technologicznego udzielonego na inwestycj´ technologicznà sektorze motoryzacyjnym, maksymalna wielkoÊç pomocy publicznej wynosi 30 % limitów, októrych mowa wust. 2 pkt 4—6, je˝eli wartoÊç ca∏kowitej pomocy publicznej brutto, o której mowa ust. 3, przekracza równowartoÊç 5 mln euro.
+4. W przypadku gdy umorzenie dotyczy kredytu technologicznego udzielonego na inwestycję technologiczną sektorze motoryzacyjnym, maksymalna wielkość pomocy publicznej wynosi 30 % limitów, októrych mowa wust. 2 pkt 4—6, jeżeli wartość całkowitej pomocy publicznej brutto, o której mowa ust. 3, przekracza równowartość 5 mln euro.
 
-5. W przypadku gdy umorzenie dotyczy kredytu technologicznego udzielonego na inwestycje technologiczne sektorze budownictwa okr´towego, maksymalny limit pomocy publicznej wynosi 22,5 % wydatków, o których mowa ust. 7.
+5. W przypadku gdy umorzenie dotyczy kredytu technologicznego udzielonego na inwestycje technologiczne sektorze budownictwa okrętowego, maksymalny limit pomocy publicznej wynosi 22,5 % wydatków, o których mowa ust. 7.
 
-6. W przypadku gdy umorzenie kredytu technologicznego dotyczy przedsi´biorcy b´dàcemu mikroprzedsi´biorcà, ma∏ym lub Êrednim przedsi´biorcà rozumieniu rozporzàdzenia Komisji (WE) nr 70/2001/WE zdnia 12 stycznia 2001 wsprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy paƒstwa dla ma∏ych i Êrednich przedsi´biorstw (Dz. Urz. WE L 10 13.01.2001), zmienionego rozporzàdzeniem nr 364/2004/WE dnia 25 lutego 2004 (Dz. Urz. WE L 63 28.02.2004), zwanego dalej „rozporzàdzeniem nr 70/2001”, maksymalnà wysokoÊç limitów, o których mowa ust. 2 pkt 4—6, podwy˝sza si´ o 15 punktów procentowych brutto, wy∏àczeniem przedsi´biorcy dzia∏ajàcego sektorze transportu.
+6. W przypadku gdy umorzenie kredytu technologicznego dotyczy przedsiębiorcy będącemu mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą rozumieniu rozporządzenia Komisji (WE) nr 70/2001/WE zdnia 12 stycznia 2001 wsprawie zastosowania art. 87 i 88 Traktatu WE odniesieniu do pomocy państwa dla małych i średnich przedsiębiorstw (Dz. Urz. WE L 10 13.01.2001), zmienionego rozporządzeniem nr 364/2004/WE dnia 25 lutego 2004 (Dz. Urz. WE L 63 28.02.2004), zwanego dalej Ńrozporządzeniem nr 70/2001”, maksymalną wysokość limitów, o których mowa ust. 2 pkt 4—6, podwyższa się o 15 punktów procentowych brutto, wyłączeniem przedsiębiorcy działającego sektorze transportu.
 
-7. Umorzeniem mogà byç obj´te, pomniejszone o nale˝ny podatek od towarów i us∏ug oraz podatek akcyzowy, nast´pujàce wydatki poniesione zwiàzku realizacjà inwestycji technologicznej, udokumentowane zap∏aconymi fakturami:
+7. Umorzeniem mogą być objęte, pomniejszone o należny podatek od towarów i usług oraz podatek akcyzowy, następujące wydatki poniesione związku realizacją inwestycji technologicznej, udokumentowane zapłaconymi fakturami:
 
-- **1)** na zakup, na warunkach rynkowych, nowych lub u˝ywanych Êrodków trwa∏ych, wy∏àczeniem Êrodków transportu, przypadku przedsi´biorców prowadzàcych dzia∏alnoÊç zakresie transportu;
-- **2)** na rozbudow´ lub modernizacj´ istniejàcych Êrodków trwa∏ych;
-- **3)** na instalacj´ i uruchomienie Êrodków trwa∏ych;
-- **4)** na prace przedrealizacyjne, tym niezb´dne studia, ekspertyzy, koncepcje, projekty techniczne bezpoÊrednio i wy∏àcznie zwiàzane wdro˝eniem nowej technologii, oparciu o którà jest realizowana inwestycja technologiczna finansowana kredytem technologicznym, oraz koszty produkcyjne niezb´dne do legalizacji technologicznej produktu
-- **5)** na zakup wartoÊci niematerialnych i prawnych formie: patentów, licencji, nieopatentowanej wiedzy technicznej, technologicznej lub zakresu organizacji izarzàdzania, które wprzypadku przedsi´biorcy nieb´dàcego mikroprzedsi´biorcà, ma∏ym lub Êrednim przedsi´biorcà wrozumieniu rozporzàdzenia nr 70/2001 nie mogà przekroczyç 25 % wydatków, o których mowa pkt 1 i 2, pod warunkiem ˝e:
-    - **a)** b´dà stanowiç w∏asnoÊç kredytobiorcy i b´dà przez niego wykorzystywane wy∏àcznie podregionie rozumieniu przepisów o Nomenklaturze Jednostek Terytorialnych do Celów Statystycznych (NTS), którym zosta∏a zrealizowana inwestycja technologiczna finansowana kredytem technologicznym, przez okres co najmniej 5 lat od dnia zakoƒczenia inwestycji,
-    - **b)** zosta∏y nabyte od osób trzecich na warunkach rynkowych,
-    - **c)** podlegajà amortyzacji zgodnie zprzepisami podatkowymi.
+- **1)** na zakup, na warunkach rynkowych, nowych lub używanych środków trwałych, wyłączeniem środków transportu, przypadku przedsiębiorców prowadzących działalność zakresie transportu;
+- **2)** na rozbudowę lub modernizację istniejących środków trwałych;
+- **3)** na instalację i uruchomienie środków trwałych;
+- **4)** na prace przedrealizacyjne, tym niezbędne studia, ekspertyzy, koncepcje, projekty techniczne bezpośrednio i wyłącznie związane wdrożeniem nowej technologii, oparciu o którą jest realizowana inwestycja technologiczna finansowana kredytem technologicznym, oraz koszty produkcyjne niezbędne do legalizacji technologicznej produktu
+- **5)** na zakup wartości niematerialnych i prawnych formie: patentów, licencji, nieopatentowanej wiedzy technicznej, technologicznej lub zakresu organizacji izarządzania, które wprzypadku przedsiębiorcy niebędącego mikroprzedsiębiorcą, małym lub średnim przedsiębiorcą wrozumieniu rozporządzenia nr 70/2001 nie mogą przekroczyć 25 % wydatków, o których mowa pkt 1 i 2, pod warunkiem że:
+    - **a)** będą stanowić własność kredytobiorcy i będą przez niego wykorzystywane wyłącznie podregionie rozumieniu przepisów o Nomenklaturze Jednostek Terytorialnych do Celów Statystycznych (NTS), którym została zrealizowana inwestycja technologiczna finansowana kredytem technologicznym, przez okres co najmniej 5 lat od dnia zakończenia inwestycji,
+    - **b)** zostały nabyte od osób trzecich na warunkach rynkowych,
+    - **c)** podlegają amortyzacji zgodnie zprzepisami podatkowymi.
 
-8. Umorzenie cz´Êci kredytu technologicznego dla celów podatku dochodowego jest traktowane jako zwrot przedsi´biorcy wydatków na nabycie lub wytworzenie we w∏asnym zakresie Êrodków trwa∏ych oraz wartoÊci niematerialnych i prawnych, o których mowa ust. 7 pkt 5.
+8. Umorzenie części kredytu technologicznego dla celów podatku dochodowego jest traktowane jako zwrot przedsiębiorcy wydatków na nabycie lub wytworzenie we własnym zakresie środków trwałych oraz wartości niematerialnych i prawnych, o których mowa ust. 7 pkt 5.
 
-**Art. 34.** Umorzenie nast´puje pod warunkiem, ˝e kredytobiorca przed∏o˝y nast´pujàce dokumenty:
+**Art. 34.** Umorzenie następuje pod warunkiem, że kredytobiorca przedłoży następujące dokumenty:
 
 **Art. 35.**
 
-1. Spó∏ka handlowa powsta∏a wyniku komercjalizacji lub prywatyzacji jednostki badawczo-rozwojowej otrzymuje status centrum badawczo-rozwojowego na okres do dnia rozpatrzenia jej wniosku o nadanie tego statusu, bez koniecznoÊci zachowania warunków okreÊlonych art. 17 ust. 2.
+1. Spółka handlowa powstała wyniku komercjalizacji lub prywatyzacji jednostki badawczo-rozwojowej otrzymuje status centrum badawczo-rozwojowego na okres do dnia rozpatrzenia jej wniosku o nadanie tego statusu, bez konieczności zachowania warunków określonych art. 17 ust. 2.
 
-2. Przepis ust. 1 stosuje si´ pod warunkiem z∏o˝enia przez spó∏k´ wniosku terminie 15 miesi´cy od dnia przekszta∏cenia. W przypadku gdy wniosek nie zostanie uwzgl´dniony, spó∏ka jest obowiàzana do zap∏aty podatków i op∏at nale˝nych za okres zwolnienia wterminie miesiàca od dnia uprawomocnienia si´ decyzji sprawie wniosku.
+2. Przepis ust. 1 stosuje się pod warunkiem złożenia przez spółkę wniosku terminie 15 miesięcy od dnia przekształcenia. W przypadku gdy wniosek nie zostanie uwzględniony, spółka jest obowiązana do zapłaty podatków i opłat należnych za okres zwolnienia wterminie miesiąca od dnia uprawomocnienia się decyzji sprawie wniosku.
 
-3. Przedsi´biorcy, którzy uzyskali status centrum badawczo-rozwojowego na podstawie ustawy dnia 29 lipca 2005 oniektórych formach wspierania dzia∏alnoÊci innowacyjnej, zachowujà status centrum badawczo-rozwojowego na podstawie ustawy.
+3. Przedsiębiorcy, którzy uzyskali status centrum badawczo-rozwojowego na podstawie ustawy dnia 29 lipca 2005 oniektórych formach wspierania działalności innowacyjnej, zachowują status centrum badawczo-rozwojowego na podstawie ustawy.
 
-**Art. 36.** Do spraw wszcz´tych i niezakoƒczonych, tym wniosków o przyznanie statusu centrum badawczo-rozwojowego z∏o˝onych przed dniem wejÊcia w˝ycie ustawy inierozpatrzonych, majà zastosowanie przepisy niniejszej ustawy.
+**Art. 36.** Do spraw wszczętych i niezakończonych, tym wniosków o przyznanie statusu centrum badawczo-rozwojowego złożonych przed dniem wejścia wżycie ustawy inierozpatrzonych, mają zastosowanie przepisy niniejszej ustawy.
 
-**Art. 37.** Traci moc ustawa dnia 29 lipca 2005 oniektórych formach wspierania dzia∏alnoÊci innowacyjnej (Dz. U. 179, 1484 oraz 2006 107,
+**Art. 37.** Traci moc ustawa dnia 29 lipca 2005 oniektórych formach wspierania działalności innowacyjnej (Dz. U. 179, 1484 oraz 2006 107,
 
-**Art. 38.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, wyjàtkiem art. 14—16 oraz art.29—31, które wchodzà ˝ycie dniem 1 stycznia 2009 Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 38.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, wyjątkiem art. 14—16 oraz art.29—31, które wchodzą życie dniem 1 stycznia 2009 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

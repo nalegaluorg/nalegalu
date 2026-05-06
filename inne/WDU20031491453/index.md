@@ -24,12 +24,12 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031491453) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1453/text.pdf) |
 
-USTAWA zdnia 24 lipca osp∏acie po˝yczek udzielonych w2000
+USTAWA zdnia 24 lipca ospłacie pożyczek udzielonych w2000
 
-**Art. 1.** Po˝yczki udzielone w2000 r. kasom chorych zbud˝etu paƒstwa na podstawie art. 169iustawy zdnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153, zpóên. zm. ) podlegajà wraz z oprocentowaniem w ca∏oÊci zwrotowi nie póêniej ni˝ do dnia 31 marca 2007 r.
+**Art. 1.** Pożyczki udzielone w2000 r. kasom chorych zbudżetu państwa na podstawie art. 169iustawy zdnia 6 lutego 1997 r. o powszechnym ubezpieczeniu zdrowotnym (Dz. U. Nr 28, poz. 153, zpóên. zm. ) podlegają wraz z oprocentowaniem w całości zwrotowi nie póêniej niż do dnia 31 marca 2007 r.
 
 **Art. 2.**
 
-1. Sp∏ata po˝yczek wraz zoprocentowaniem nast´puje w ratach z przychodów d∏u˝nika, z wy∏àczeniem dotacji przekazywanych zbud˝etu paƒstwa. ———————
+1. Spłata pożyczek wraz zoprocentowaniem następuje w ratach z przychodów dłużnika, z wyłączeniem dotacji przekazywanych zbudżetu państwa. ———————
 
 

@@ -24,245 +24,249 @@ domain: null
 | Ostatnia zmiana | 2025-11-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031241153) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1153/text.pdf) |
 
-3. W sprawach roszczeƒ Ubezpieczeniowego Art. 162. Przepisy art. 3 ust. 2, rozdzia∏u 5, art. 122 Funduszu Gwarancyjnego z tytu∏u op∏at za niespe∏- ust. 1 pkt 4 oraz art. 128—134 stosuje si´ od dnia uzynienie obowiàzku zawarcia umowy ubezpieczenia skania cz∏onkostwa Rzeczypospolitej Polskiej Unii obowiàzkowego przepisy ustawy majà zastosowanie Europejskiej.
-do zdarzeƒ zaistnia∏ych po dniu wejÊcia ustawy w˝ycie. Art. 163. Ustawa wchodzi ˝ycie z dniem 1 stycznia 2004 r., zwyjàtkiem:
+3. W sprawach roszczeń Ubezpieczeniowego Art. 162. Przepisy art. 3 ust. 2, rozdziału 5, art. 122 Funduszu Gwarancyjnego z tytułu opłat za niespeł- ust. 1 pkt 4 oraz art. 128—134 stosuje się od dnia uzynienie obowiązku zawarcia umowy ubezpieczenia skania członkostwa Rzeczypospolitej Polskiej Unii obowiązkowego przepisy ustawy mają zastosowanie Europejskiej.
+do zdarzeń zaistniałych po dniu wejścia ustawy wżycie. Art. 163. Ustawa wchodzi życie z dniem 1 stycznia 2004 r., zwyjątkiem:
+1) wyróżniająca się wiedzą idoświadczeniem wzakresie ubezpieczeń oraz organizacji i funkcjonowania funduszy emerytalnych;
+2) posiadająca wyższe wykształcenie.
+3. Kadencja Rzecznika rozpoczyna się dniu jego powołania.
+4. Ta sama osoba nie może być Rzecznikiem dłużej niż przez dwie kolejne kadencje.
+5. Prezes Rady Ministrów, wniosek ministra właściwego do spraw instytucji finansowych oraz ministra właściwego do spraw zabezpieczenia społecznego, może, po zaopiniowaniu przez Radę Ubezpieczonych, októrej mowa wart. 25, odwołać Rzecznika przed upływem kadencji.
+6. Odwołanie Rzecznika przed upływem kadencji może nastąpić wyłącznie z przyczyn wymienionych wart. 10 ust.
+7. Kadencja Rzecznika wygasa przypadku jego śmierci.
 
 **Art. 160.**
 
-1. Dzia∏ajàce podstawie dotychczaso- 1) art. 25 ust. 2, art. 95, art. 102—105, art. 123 pkt 1 i3, wych przepisów Ubezpieczeniowy Fundusz Gwaran- art. i125, art. 127, art. 135 ust. 2 i3 wzakrecyjny oraz Polskie Biuro Ubezpieczeƒ Komunikacyj- sie dotyczàcym art. 123 pkt 3 oraz art. 137 ust. 2, nych stajà si´ z mocy prawa Ubezpieczeniowym Fun- które wchodzà w˝ycie zdniem 1 lipca 2004 r., jedduszem Gwarancyjnym i Polskim Biurem Ubezpieczy- nak nie póêniej ni˝ zdniem uzyskania cz∏onkostwa cieli Komunikacyjnych rozumieniu przepisów usta- Rzeczypospolitej Polskiej wUnii Europejskiej; wy.
+1. Działające podstawie dotychczaso- 1) art. 25 ust. 2, art. 95, art. 102—105, art. 123 pkt 1 i3, wych przepisów Ubezpieczeniowy Fundusz Gwaran- art. i125, art. 127, art. 135 ust. 2 i3 wzakrecyjny oraz Polskie Biuro Ubezpieczeń Komunikacyj- sie dotyczącym art. 123 pkt 3 oraz art. 137 ust. 2, nych stają się z mocy prawa Ubezpieczeniowym Fun- które wchodzą wżycie zdniem 1 lipca 2004 r., jedduszem Gwarancyjnym i Polskim Biurem Ubezpieczy- nak nie póêniej niż zdniem uzyskania członkostwa cieli Komunikacyjnych rozumieniu przepisów usta- Rzeczypospolitej Polskiej wUnii Europejskiej; wy.
 
-- **2)** art. 148 pkt 3 lit. c, zakresie, którym dotyczy Pracownicy dzia∏ajàcych podstawie dotych- art. 80b ust. 2 pkt 3 ustawy zmienianej art. 148, czasowych przepisów Ubezpieczeniowego Funduszu który wchodzi ˝ycie z dniem 1 lipca 2004 r., jedGwarancyjnego oraz Polskiego Biura Ubezpieczeƒ Ko- nak nie póêniej ni˝ zdniem uzyskania cz∏onkostwa munikacyjnych stajà si´ z mocy prawa pracownikami Rzeczypospolitej Polskiej wUnii Europejskiej. Ubezpieczeniowego Funduszu Gwarancyjnego i Polskiego Biura Ubezpieczycieli Komunikacyjnych wrozumieniu przepisów ustawy. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA zdnia 22 maja 2003 r. onadzorze ubezpieczeniowym iemerytalnym oraz Rzeczniku Ubezpieczonych Rozdzia∏ 1 Przepisy ogólne
+- **2)** art. 148 pkt 3 lit. c, zakresie, którym dotyczy Pracownicy działających podstawie dotych- art. 80b ust. 2 pkt 3 ustawy zmienianej art. 148, czasowych przepisów Ubezpieczeniowego Funduszu który wchodzi życie z dniem 1 lipca 2004 r., jedGwarancyjnego oraz Polskiego Biura Ubezpieczeń Ko- nak nie póêniej niż zdniem uzyskania członkostwa munikacyjnych stają się z mocy prawa pracownikami Rzeczypospolitej Polskiej wUnii Europejskiej. Ubezpieczeniowego Funduszu Gwarancyjnego i Polskiego Biura Ubezpieczycieli Komunikacyjnych wrozumieniu przepisów ustawy. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 22 maja 2003 r. onadzorze ubezpieczeniowym iemerytalnym oraz Rzeczniku Ubezpieczonych
 
-**Art. 1.** Ustawa okreÊla organizacj´ nadzoru ubezpieczeniowego i emerytalnego oraz zasady dzia∏ania Rzecznika Ubezpieczonych.
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa organizację nadzoru ubezpieczeniowego i emerytalnego oraz zasady działania Rzecznika Ubezpieczonych.
 
 **Art. 2.**
 
-1. Nadzorem ubezpieczeniowym iemerytalnym, zwanym dalej „nadzorem”, jest obj´ta dzia∏alnoÊç:
+1. Nadzorem ubezpieczeniowym iemerytalnym, zwanym dalej Ńnadzorem”, jest objęta działalność:
 
-- **1)** ubezpieczeniowa, o której mowa przepisach odzia∏alnoÊci ubezpieczeniowej;
-- **2)** zakresie poÊrednictwa ubezpieczeniowego, októrej mowa wprzepisach opoÊrednictwie ubezpieczeniowym;
+- **1)** ubezpieczeniowa, o której mowa przepisach odziałalności ubezpieczeniowej;
+- **2)** zakresie pośrednictwa ubezpieczeniowego, októrej mowa wprzepisach opośrednictwie ubezpieczeniowym;
 - **3)** zakresie funduszy emerytalnych, o której mowa
-- **4)** zakresie pracowniczych programów emerytalnych, októrej mowa wprzepisach opracowniczych programach emerytalnych. Nadzorowi podlegajà podmioty prowadzàce dzia∏alnoÊç zakresie, o którym mowa ust. 1, szczególnoÊci zak∏ady ubezpieczeƒ, poÊrednicy ubezpieczeniowi, fundusze emerytalne i towarzystwa emerytalne, zwane dalej „podmiotami nadzorowanymi”.
+- **4)** zakresie pracowniczych programów emerytalnych, októrej mowa wprzepisach opracowniczych programach emerytalnych. Nadzorowi podlegają podmioty prowadzące działalność zakresie, o którym mowa ust. 1, szczególności zakłady ubezpieczeń, pośrednicy ubezpieczeniowi, fundusze emerytalne i towarzystwa emerytalne, zwane dalej Ńpodmiotami nadzorowanymi”.
 
-3. Organem nadzoru jest Komisja Nadzoru Ubezpieczeƒ iFunduszy Emerytalnych, zwana dalej „Komisjà”.
+3. Organem nadzoru jest Komisja Nadzoru Ubezpieczeń iFunduszy Emerytalnych, zwana dalej ŃKomisją”.
 
-**Art. 3.** Celem nadzoru jest ochrona interesów osób ubezpieczajàcych, ubezpieczonych, uposa˝onych lub uprawnionych z umów ubezpieczenia, cz∏onków funKomisja wspó∏pracuje zSzefem Krajowego Centrum Informacji Kryminalnych wzakresie niezb´dnym do realizacji jego zadaƒ ustawowych.
+**Art. 3.** Celem nadzoru jest ochrona interesów osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia, członków funKomisja współpracuje zSzefem Krajowego Centrum Informacji Kryminalnych wzakresie niezbędnym do realizacji jego zadań ustawowych.
 
 **Art. 5.**
 
-1. Rzecznik Ubezpieczonych reprezentuje interesy osób ubezpieczajàcych, ubezpieczonych, uposa˝onych lub uprawnionych z umów ubezpieczenia, cz∏onków funduszy emerytalnych i uczestników pracowniczych programów emerytalnych. W celu realizacji ustawowych zadaƒ Rzecznik Ubezpieczonych wspó∏pracuje wszczególnoÊci zkrajowymi i zagranicznymi organizacjami konsumenckimi oraz zRzecznikiem Praw Obywatelskich.
+1. Rzecznik Ubezpieczonych reprezentuje interesy osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia, członków funduszy emerytalnych i uczestników pracowniczych programów emerytalnych. W celu realizacji ustawowych zadań Rzecznik Ubezpieczonych współpracuje wszczególności zkrajowymi i zagranicznymi organizacjami konsumenckimi oraz zRzecznikiem Praw Obywatelskich.
 
 **Art. 6.**
 
-1. Rzecznik Ubezpieczonych posiada osobowoÊç prawnà. Siedzibà Rzecznika Ubezpieczonych jest Warszawa. Rozdzia∏ 2 Organizacja izasady dzia∏ania Komisji
+1. Rzecznik Ubezpieczonych posiada osobowość prawną. Siedzibą Rzecznika Ubezpieczonych jest Warszawa.
+
+#### Rozdział 2 Organizacja izasady działania Komisji
 
 **Art. 7.**
 
-1. Komisja jest centralnym organem administracji rzàdowej. Nadzór nad Komisjà sprawuje minister w∏aÊciwy do spraw instytucji finansowych.
+1. Komisja jest centralnym organem administracji rządowej. Nadzór nad Komisją sprawuje minister właściwy do spraw instytucji finansowych.
 
 **Art. 8.**
 
 1. Zadaniem Komisji jest:
 
-- **1)** podejmowanie okreÊlonych odr´bnych przepisach dzia∏aƒ majàcych celu zapewnienie zgodnoÊci dzia∏alnoÊci podmiotów nadzorowanych zprzepisami prawa;
-- **2)** kontrola dzia∏alnoÊci istanu majàtkowego podmiotów nadzorowanych;
-- **3)** podejmowanie innych zadaƒ okreÊlonych ustawami. Zakres nadzoru i szczegó∏owe zadania Komisji okreÊlajà odr´bne przepisy.
+- **1)** podejmowanie określonych odrębnych przepisach działań mających celu zapewnienie zgodności działalności podmiotów nadzorowanych zprzepisami prawa;
+- **2)** kontrola działalności istanu majątkowego podmiotów nadzorowanych;
+- **3)** podejmowanie innych zadań określonych ustawami. Zakres nadzoru i szczegółowe zadania Komisji określają odrębne przepisy.
 
 **Art. 9.**
 
-1. Wsk∏ad Komisji wchodzà:
+1. Wskład Komisji wchodzą:
 
-- **1)** Przewodniczàcy Komisji powo∏ywany przez Prezesa Rady Ministrów wspólny wniosek ministra w∏aÊciwego do spraw instytucji finansowych i ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego pi´cioletnià kadencj´;
-- **2)** zast´pcy Przewodniczàcego Komisji przedstawiciele wyznaczeni przez:
-- **4)** Prezes Urz´du Ochrony Konkurencji i Konsumentów wyznaczony przez niego wiceprezes. W posiedzeniu Komisji, z g∏osem doradczym, uczestniczà: przedstawiciel Prezydenta Rzeczypospolitej Polskiej, Rzecznik Ubezpieczonych oraz Generalny Inspektor Nadzoru Bankowego.
+- **1)** Przewodniczący Komisji powoływany przez Prezesa Rady Ministrów wspólny wniosek ministra właściwego do spraw instytucji finansowych i ministra właściwego do spraw zabezpieczenia społecznego pięcioletnią kadencję;
+- **2)** zastępcy Przewodniczącego Komisji przedstawiciele wyznaczeni przez:
+- **4)** Prezes Urzędu Ochrony Konkurencji i Konsumentów wyznaczony przez niego wiceprezes. W posiedzeniu Komisji, z głosem doradczym, uczestniczą: przedstawiciel Prezydenta Rzeczypospolitej Polskiej, Rzecznik Ubezpieczonych oraz Generalny Inspektor Nadzoru Bankowego.
 
 **Art. 10.**
 
-1. Przewodniczàcym Komisji mo˝e byç osoba posiadajàca:
+1. Przewodniczącym Komisji może być osoba posiadająca:
 
-- **1)** wy∏àcznie obywatelstwo polskie;
-- **2)** wy˝sze wykszta∏cenie prawnicze, ekonomiczne lub matematyczne;
-- **3)** co najmniej czteroletnie doÊwiadczenie zakresie obejmujàcym funkcjonowanie sektora ubezpieczeƒ, funduszy emerytalnych, rynku kapita∏owego lub sektora bankowego. Przewodniczàcy Komisji mo˝e byç odwo∏any przez Prezesa Rady Ministrów przed up∏ywem kadencji znast´pujàcych przyczyn:
-- **1)** z∏o˝enia rezygnacji;
-- **2)** niewype∏niania obowiàzków skutek d∏ugotrwa∏ej choroby trwajàcej ponad 6 miesi´cy, stwierdzonej orzeczeniem lekarskim;
-- **3)** ra˝àcego naruszenia interesów osób ubezpieczajàcych, ubezpieczonych, uposa˝onych lub uprawnionych z umów ubezpieczenia, cz∏onków funduszy emerytalnych lub uczestników pracowniczych programów emerytalnych;
-- **4)** ra˝àcego naruszenia Konstytucji Rzeczypospolitej Polskiej lub ustaw;
-- **5)** skazania prawomocnym wyrokiem za umyÊlne przest´pstwo.
+- **1)** wyłącznie obywatelstwo polskie;
+- **2)** wyższe wykształcenie prawnicze, ekonomiczne lub matematyczne;
+- **3)** co najmniej czteroletnie doświadczenie zakresie obejmującym funkcjonowanie sektora ubezpieczeń, funduszy emerytalnych, rynku kapitałowego lub sektora bankowego. Przewodniczący Komisji może być odwołany przez Prezesa Rady Ministrów przed upływem kadencji znastępujących przyczyn:
+- **1)** złożenia rezygnacji;
+- **2)** niewypełniania obowiązków skutek długotrwałej choroby trwającej ponad 6 miesięcy, stwierdzonej orzeczeniem lekarskim;
+- **3)** rażącego naruszenia interesów osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia, członków funduszy emerytalnych lub uczestników pracowniczych programów emerytalnych;
+- **4)** rażącego naruszenia Konstytucji Rzeczypospolitej Polskiej lub ustaw;
+- **5)** skazania prawomocnym wyrokiem za umyślne przestępstwo.
 
-3. Wprzypadku Êmierci Przewodniczàcego Komisji jego kadencja wygasa.
+3. Wprzypadku śmierci Przewodniczącego Komisji jego kadencja wygasa.
 
-4. Ta sama osoba nie mo˝e byç Przewodniczàcym Komisji d∏u˝ej ni˝ przez dwie kolejne kadencje.
+4. Ta sama osoba nie może być Przewodniczącym Komisji dłużej niż przez dwie kolejne kadencje.
 
-5. Przewodniczàcy Komisji kieruje pracami Komisji ireprezentuje Komisj´ zewnàtrz.
+5. Przewodniczący Komisji kieruje pracami Komisji ireprezentuje Komisję zewnątrz.
 
 **Art. 11.**
 
-1. Komisja podejmuje rozstrzygni´cia, tym wydaje decyzje i postanowienia okreÊlone wprzepisach odr´bnych, wdrodze uchwa∏y. Uchwa∏y podpisuje wimieniu Komisji Przewodniczàcy Komisji, a przypadku jego nieobecnoÊci, okreÊla regulamin Komisji uchwalony przez Komisj´.
+1. Komisja podejmuje rozstrzygnięcia, tym wydaje decyzje i postanowienia określone wprzepisach odrębnych, wdrodze uchwały. Uchwały podpisuje wimieniu Komisji Przewodniczący Komisji, a przypadku jego nieobecności, określa regulamin Komisji uchwalony przez Komisję.
 
 **Art. 12.**
 
-1. Komisja mo˝e upowa˝niç Przewodniczàcego Komisji, zast´pców Przewodniczàcego Komisji oraz pracowników Urz´du Komisji do podejmowania dzia∏aƒ wzakresie w∏aÊciwoÊci Komisji, wtym do wydawania postanowieƒ i decyzji administracyjnych, z wy∏àczeniem wydawania okreÊlonych przepisach odr´bnych rozstrzygni´ç co do istoty sprawy, sprawach dotyczàcych:
+1. Komisja może upoważnić Przewodniczącego Komisji, zastępców Przewodniczącego Komisji oraz pracowników Urzędu Komisji do podejmowania działań wzakresie właściwości Komisji, wtym do wydawania postanowień i decyzji administracyjnych, z wyłączeniem wydawania określonych przepisach odrębnych rozstrzygnięć co do istoty sprawy, sprawach dotyczących:
 
-- **1)** wydawania i cofania zezwolenia wykonywanie dzia∏alnoÊci ubezpieczeniowej;
-- **2)** wydawania zgody powo∏anie osób cz∏onków zarzàdu;
-- **3)** po∏àczenia ipodzia∏u zak∏adów ubezpieczeƒ;
-- **4)** przeniesienia portfela ubezpieczeƒ;
-- **5)** wydawania zezwolenia nabycie lub obj´cie akcji zak∏adu ubezpieczeƒ;
-- **6)** likwidacji przymusowej zak∏adu ubezpieczeƒ;
-- **7)** ustanowienia zarzàdu komisarycznego zak∏adu ubezpieczeƒ;
-- **8)** wyst´powania zwnioskiem oog∏oszenie upad∏oÊci zak∏adu ubezpieczeƒ;
+- **1)** wydawania i cofania zezwolenia wykonywanie działalności ubezpieczeniowej;
+- **2)** wydawania zgody powołanie osób członków zarządu;
+- **3)** połączenia ipodziału zakładów ubezpieczeń;
+- **4)** przeniesienia portfela ubezpieczeń;
+- **5)** wydawania zezwolenia nabycie lub objęcie akcji zakładu ubezpieczeń;
+- **6)** likwidacji przymusowej zakładu ubezpieczeń;
+- **7)** ustanowienia zarządu komisarycznego zakładu ubezpieczeń;
+- **8)** występowania zwnioskiem oogłoszenie upadłości zakładu ubezpieczeń;
 - **9)** wydawania zezwolenia utworzenie funduszu emerytalnego itowarzystwa emerytalnego;
 - **10)** cofania zezwolenia utworzenie towarzystwa emerytalnego;
-- **11)** wydawania zezwolenia przej´cie zarzàdzania funduszem emerytalnym oraz po∏àczenie towarzystw emerytalnych;
-- **12)** wydawania zezwolenia nabycie lub obj´cie akcji towarzystwa emerytalnego;
-- **13)** wydawania zezwolenia zmian´ statutu funduszu emerytalnego oraz zmian´ statutu towarzystwa emerytalnego;
+- **11)** wydawania zezwolenia przejęcie zarządzania funduszem emerytalnym oraz połączenie towarzystw emerytalnych;
+- **12)** wydawania zezwolenia nabycie lub objęcie akcji towarzystwa emerytalnego;
+- **13)** wydawania zezwolenia zmianę statutu funduszu emerytalnego oraz zmianę statutu towarzystwa emerytalnego;
 - **14)** likwidacji pracowniczego funduszu emerytalnego;
-- **15)** nadawania decyzji rygoru natychmiastowej wykonalnoÊci;
-- **16)** kar pieni´˝nych nak∏adanych towarzystwa emerytalne, zak∏ady ubezpieczeƒ lub cz∏onków ich organów, oraz zawieszania cz∏onków zarzàdu, wyst´udzielania dalszych pe∏nomocnictw pracownikom Urz´du Komisji.
+- **15)** nadawania decyzji rygoru natychmiastowej wykonalności;
+- **16)** kar pieniężnych nakładanych towarzystwa emerytalne, zakłady ubezpieczeń lub członków ich organów, oraz zawieszania członków zarządu, wystęudzielania dalszych pełnomocnictw pracownikom Urzędu Komisji.
 
 **Art. 13.**
 
-1. Obs∏ug´ Komisji zapewnia Urzàd Komisji, zwany dalej „Urz´dem”. Urz´dem kieruje Przewodniczàcy Komisji.
+1. Obsługę Komisji zapewnia Urząd Komisji, zwany dalej ŃUrzędem”. Urzędem kieruje Przewodniczący Komisji.
 
-3. Organizacj´ Urz´du okreÊla statut Urz´du, nadany wdrodze zarzàdzenia, przez ministra w∏aÊciwego do spraw instytucji finansowych porozumieniu z ministrem w∏aÊciwym do spraw zabezpieczenia spo∏ecznego.
+3. Organizację Urzędu określa statut Urzędu, nadany wdrodze zarządzenia, przez ministra właściwego do spraw instytucji finansowych porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego.
 
-4. Wynagrodzenia i premie Przewodniczàcego Komisji ijego zast´pców oraz pracowników Urz´du sà finansowane zwp∏at, októrych mowa wart. 14.
+4. Wynagrodzenia i premie Przewodniczącego Komisji ijego zastępców oraz pracowników Urzędu są finansowane zwpłat, októrych mowa wart. 14.
 
-5. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, drodze rozporzàdzenia, szczegó∏owe zasady kszta∏towania wielkoÊci Êrodków przeznaczonych premie dla Przewodniczàcego Komisji i jego zast´pców oraz ustalania wysokoÊci tych premii, atak˝e szczegó∏owe zasady kszta∏towania wielkoÊci Êrodków wynagrodzenia i premie dla pracowników Urz´du oraz ustalania wysokoÊci tych wynagrodzeƒ i premii, uwzgl´dniajàc szczególnoÊci organizacj´ Urz´du, koniecznoÊç zapewnienia w∏aÊciwej realizacji zadaƒ Komisji iUrz´du wzakresie sprawowanego nadzoru oraz poziom p∏ac winstytucjach nadzorowanych.
+5. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia, szczegółowe zasady kształtowania wielkości środków przeznaczonych premie dla Przewodniczącego Komisji i jego zastępców oraz ustalania wysokości tych premii, atakże szczegółowe zasady kształtowania wielkości środków wynagrodzenia i premie dla pracowników Urzędu oraz ustalania wysokości tych wynagrodzeń i premii, uwzględniając szczególności organizację Urzędu, konieczność zapewnienia właściwej realizacji zadań Komisji iUrzędu wzakresie sprawowanego nadzoru oraz poziom płac winstytucjach nadzorowanych.
 
 **Art. 14.**
 
-1. Koszty nadzoru ponoszà:
+1. Koszty nadzoru ponoszą:
 
-- **1)** zak∏ady ubezpieczeƒ do wysokoÊci 0,14 % zbioru sk∏adek brutto;
-- **2)** powszechne towarzystwa emerytalne do wysokoÊci 0,14 % sk∏adek wp∏aconych danym roku do zarzàdzanych przez nie otwartych funduszy emerytalnych. Nale˝noÊci, o których mowa ust. 1, podlegajà egzekucji wtrybie przepisów opost´powaniu egzekucyjnym wadministracji.
+- **1)** zakłady ubezpieczeń do wysokości 0,14 % zbioru składek brutto;
+- **2)** powszechne towarzystwa emerytalne do wysokości 0,14 % składek wpłaconych danym roku do zarządzanych przez nie otwartych funduszy emerytalnych. Należności, o których mowa ust. 1, podlegają egzekucji wtrybie przepisów opostępowaniu egzekucyjnym wadministracji.
 
-3. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, drodze rozporzàdzenia, terminy uiszczania, wysokoÊç i sposób obliczania wp∏at, o których mowa wust. 1, uwzgl´dniajàc zapewnienie skutecznoÊci sprawowanego nadzoru.
+3. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia, terminy uiszczania, wysokość i sposób obliczania wpłat, o których mowa wust. 1, uwzględniając zapewnienie skuteczności sprawowanego nadzoru.
 
-4. Wprzypadku niedotrzymania terminu uiszczania wp∏at, ustalonego podstawie ust. 3, pobiera si´ odsetki za zw∏ok´ wwysokoÊci odsetek ustawowych.
+4. Wprzypadku niedotrzymania terminu uiszczania wpłat, ustalonego podstawie ust. 3, pobiera się odsetki za zwłokę wwysokości odsetek ustawowych.
 
-**Art. 15.** Osoby wchodzàce wsk∏ad Komisji oraz pracownicy Urz´du nie mogà: umowy opodobnym charakterze;
+**Art. 15.** Osoby wchodzące wskład Komisji oraz pracownicy Urzędu nie mogą: umowy opodobnym charakterze;
 
 **Art. 16.**
 
-1. Komisja mo˝e udzielaç Komisji Nadzoru Bankowego, Komisji Papierów WartoÊciowych i Gie∏d oraz Prezesowi Urz´du Ochrony Konkurencji i Konsumentów informacji niezb´dnych tym organom do prawid∏owego wykonywania ich ustawowo okreÊlonych zadaƒ wzakresie nadzoru. Komisja mo˝e ˝àdaç od podmiotów wymienionych ust. 1 informacji niezb´dnych Komisji do prawid∏owego wykonywania jej ustawowo okreÊlonych zadaƒ wzakresie nadzoru.
+1. Komisja może udzielać Komisji Nadzoru Bankowego, Komisji Papierów Wartościowych i Giełd oraz Prezesowi Urzędu Ochrony Konkurencji i Konsumentów informacji niezbędnych tym organom do prawidłowego wykonywania ich ustawowo określonych zadań wzakresie nadzoru. Komisja może żądać od podmiotów wymienionych ust. 1 informacji niezbędnych Komisji do prawidłowego wykonywania jej ustawowo określonych zadań wzakresie nadzoru.
 
 **Art. 17.**
 
-1. Komisja mo˝e zawieraç z organami nadzoru ubezpieczeniowego iemerytalnego innych paƒstw porozumienia owspó∏dzia∏aniu wzakresie nadzoru. Komisja, zasadzie wzajemnoÊci, mo˝e udzielaç informacji dotyczàcych zak∏adu ubezpieczeƒ organowi nadzoru ubezpieczeniowego innego paƒstwa pod warunkiem, ˝e:
+1. Komisja może zawierać z organami nadzoru ubezpieczeniowego iemerytalnego innych państw porozumienia owspółdziałaniu wzakresie nadzoru. Komisja, zasadzie wzajemności, może udzielać informacji dotyczących zakładu ubezpieczeń organowi nadzoru ubezpieczeniowego innego państwa pod warunkiem, że:
 
-- **1)** informacje zostanà wykorzystane wy∏àcznie potrzeby nadzoru ubezpieczeniowego innego paƒstwa;
-- **2)** przekazywanie udzielonych informacji poza organ nadzoru ubezpieczeniowego innego paƒstwa nast´puje wy∏àcznie po uprzednim uzyskaniu zgody Komisji.
+- **1)** informacje zostaną wykorzystane wyłącznie potrzeby nadzoru ubezpieczeniowego innego państwa;
+- **2)** przekazywanie udzielonych informacji poza organ nadzoru ubezpieczeniowego innego państwa następuje wyłącznie po uprzednim uzyskaniu zgody Komisji.
 
 **Art. 18.**
 
-1. Komisja sporzàdza corocznie sprawozdanie zdzia∏alnoÊci nadzoru. Komisja, wterminie do dnia 31 paêdziernika nast´pnego roku, przedstawia sprawozdanie, o którym mowa ust. 1, ministrowi w∏aÊciwemu do spraw instytucji finansowych oraz ministrowi w∏aÊciwemu do spraw zabezpieczenia spo∏ecznego.
+1. Komisja sporządza corocznie sprawozdanie zdziałalności nadzoru. Komisja, wterminie do dnia 31 paêdziernika następnego roku, przedstawia sprawozdanie, o którym mowa ust. 1, ministrowi właściwemu do spraw instytucji finansowych oraz ministrowi właściwemu do spraw zabezpieczenia społecznego.
 
-3. Sprawozdanie, o którym mowa ust. 1, jest jawne. Rozdzia∏ 3 Rzecznik Ubezpieczonych
+3. Sprawozdanie, o którym mowa ust. 1, jest jawne.
 
-- **1)** wyró˝niajàca si´ wiedzà idoÊwiadczeniem wzakresie ubezpieczeƒ oraz organizacji i funkcjonowania funduszy emerytalnych;
-- **2)** posiadajàca wy˝sze wykszta∏cenie.
+#### Rozdział 3 Rzecznik Ubezpieczonych
 
-3. Kadencja Rzecznika rozpoczyna si´ dniu jego powo∏ania.
-
-4. Ta sama osoba nie mo˝e byç Rzecznikiem d∏u˝ej ni˝ przez dwie kolejne kadencje.
-
-5. Prezes Rady Ministrów, wniosek ministra w∏aÊciwego do spraw instytucji finansowych oraz ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego, mo˝e, po zaopiniowaniu przez Rad´ Ubezpieczonych, októrej mowa wart. 25, odwo∏aç Rzecznika przed up∏ywem kadencji.
-
-6. Odwo∏anie Rzecznika przed up∏ywem kadencji mo˝e nastàpiç wy∏àcznie z przyczyn wymienionych wart. 10 ust.
-
-7. Kadencja Rzecznika wygasa przypadku jego Êmierci.
-
-**Art. 20.** Do zadaƒ Rzecznika nale˝y podejmowanie dzia∏aƒ zakresie ochrony osób, których interesy reprezentuje, awszczególnoÊci:
+**Art. 20.** Do zadań Rzecznika należy podejmowanie działań zakresie ochrony osób, których interesy reprezentuje, awszczególności:
 
 **Art. 21.**
 
-1. Rzecznik wykonuje swoje zadania przy pomocy podleg∏ego mu Biura Rzecznika. Prezes Rady Ministrów, po zasi´gni´ciu opinii Rzecznika, nadaje, drodze zarzàdzenia, statut, który okreÊla organizacj´ Biura Rzecznika.
+1. Rzecznik wykonuje swoje zadania przy pomocy podległego mu Biura Rzecznika. Prezes Rady Ministrów, po zasięgnięciu opinii Rzecznika, nadaje, drodze zarządzenia, statut, który określa organizację Biura Rzecznika.
 
 **Art. 22.**
 
-1. Koszty dzia∏alnoÊci Rzecznika ijego Biura ponoszà:
+1. Koszty działalności Rzecznika ijego Biura ponoszą:
 
-- **1)** zak∏ady ubezpieczeƒ do wysokoÊci 0,01 % zbioru sk∏adek brutto;
-- **2)** powszechne towarzystwa emerytalne do wysokoÊci 0,01 % sk∏adek wp∏aconych danym roku do otwartych funduszy emerytalnych. Nale˝noÊci, o których mowa ust. 1, podlegajà egzekucji wtrybie przepisów opost´powaniu egzekucyjnym wadministracji.
+- **1)** zakłady ubezpieczeń do wysokości 0,01 % zbioru składek brutto;
+- **2)** powszechne towarzystwa emerytalne do wysokości 0,01 % składek wpłaconych danym roku do otwartych funduszy emerytalnych. Należności, o których mowa ust. 1, podlegają egzekucji wtrybie przepisów opostępowaniu egzekucyjnym wadministracji.
 
-3. Minister w∏aÊciwy do spraw instytucji finansowych okreÊla, drodze rozporzàdzenia, terminy uiszczania, wysokoÊç i sposób obliczania wp∏at, o których mowa wust. 1, uwzgl´dniajàc zapewnienie skutecznoÊci dzia∏alnoÊci Rzecznika ijego Biura.
+3. Minister właściwy do spraw instytucji finansowych określa, drodze rozporządzenia, terminy uiszczania, wysokość i sposób obliczania wpłat, o których mowa wust. 1, uwzględniając zapewnienie skuteczności działalności Rzecznika ijego Biura.
 
-4. Wprzypadku niedotrzymania terminu uiszczania wp∏at, ustalonego podstawie ust. 3, pobiera si´ odsetki za zw∏ok´ wwysokoÊci odsetek ustawowych.
+4. Wprzypadku niedotrzymania terminu uiszczania wpłat, ustalonego podstawie ust. 3, pobiera się odsetki za zwłokę wwysokości odsetek ustawowych.
 
-**Art. 23.** Do pracowników Biura Rzecznika stosuje si´ odpowiednio przepisy os∏u˝bie cywilnej.
+**Art. 23.** Do pracowników Biura Rzecznika stosuje się odpowiednio przepisy osłużbie cywilnej.
 
-**Art. 24.** Rzecznik oraz pracownicy jego Biura nie mogà:
+**Art. 24.** Rzecznik oraz pracownicy jego Biura nie mogą:
 
 **Art. 25.**
 
-1. Rada Ubezpieczonych jest organem opiniodawczo-doradczym Rzecznika. Rad´ Ubezpieczonych powo∏uje wniosek Rzecznika okres jego kadencji minister w∏aÊciwy do spraw instytucji finansowych, porozumieniu zministrem w∏aÊciwym do spraw zabezpieczenia spo∏ecznego, spoÊród kandydatów zg∏oszonych przez podmioty wymienione wust. 3.
+1. Rada Ubezpieczonych jest organem opiniodawczo-doradczym Rzecznika. Radę Ubezpieczonych powołuje wniosek Rzecznika okres jego kadencji minister właściwy do spraw instytucji finansowych, porozumieniu zministrem właściwym do spraw zabezpieczenia społecznego, spośród kandydatów zgłoszonych przez podmioty wymienione wust. 3.
 
-3. W sk∏ad Rady Ubezpieczonych wchodzà przedstawiciele:
+3. W skład Rady Ubezpieczonych wchodzą przedstawiciele:
 
-- **1)** reprezentantów samorzàdu terytorialnego wKomisji Wspólnej Rzàdu iSamorzàdu Terytorialnego 2 cz∏onków;
-- **2)** krajowych organizacji konsumenckich 2 cz∏onków;
-- **3)** ogólnokrajowych organizacji pracodawców 2 cz∏onków;
-- **4)** Rzecznika Praw Obywatelskich 2 cz∏onków;
-- **5)** ka˝dej zorganizacji zwiàzkowych, októrych mowa art. 6 ust. 2 ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Spo∏eczno-Gospodarczych i wojewódzkich komisjach dialogu spo∏ecznego (Dz. U. 100, poz. 1080 i 154, poz. 1793 i 1800 oraz z 2002 r. 10, poz. 89 i 240, poz. 2056) po 2 cz∏onków;
-- **6)** najliczniejszej organizacji emeryckiej 1 cz∏onek.
+- **1)** reprezentantów samorządu terytorialnego wKomisji Wspólnej Rządu iSamorządu Terytorialnego 2 członków;
+- **2)** krajowych organizacji konsumenckich 2 członków;
+- **3)** ogólnokrajowych organizacji pracodawców 2 członków;
+- **4)** Rzecznika Praw Obywatelskich 2 członków;
+- **5)** każdej zorganizacji związkowych, októrych mowa art. 6 ust. 2 ustawy z dnia 6 lipca 2001 r. o Trójstronnej Komisji do Spraw Społeczno-Gospodarczych i wojewódzkich komisjach dialogu społecznego (Dz. U. 100, poz. 1080 i 154, poz. 1793 i 1800 oraz z 2002 r. 10, poz. 89 i 240, poz. 2056) po 2 członków;
+- **6)** najliczniejszej organizacji emeryckiej 1 członek.
 
-4. Minister w∏aÊciwy do spraw instytucji finansowych, porozumieniu z ministrem w∏aÊciwym do spraw zabezpieczenia spo∏ecznego, mo˝e odwo∏aç cz∏onka Rady Ubezpieczonych, po zasi´gni´ciu opinii podmiotu, który zg∏osi∏ go do uczestnictwa Radzie Ubezpieczonych.
+4. Minister właściwy do spraw instytucji finansowych, porozumieniu z ministrem właściwym do spraw zabezpieczenia społecznego, może odwołać członka Rady Ubezpieczonych, po zasięgnięciu opinii podmiotu, który zgłosił go do uczestnictwa Radzie Ubezpieczonych.
 
-5. Odwo∏anie cz∏onka Rady Ubezpieczonych przed up∏ywem kadencji Rzecznika mo˝e nastàpiç wy∏àcznie zprzyczyn wymienionych wart. 10 ust.
+5. Odwołanie członka Rady Ubezpieczonych przed upływem kadencji Rzecznika może nastąpić wyłącznie zprzyczyn wymienionych wart. 10 ust.
 
-6. Rada Ubezpieczonych dzia∏a woparciu ouchwalony przez siebie i zatwierdzony przez Rzecznika regulamin.
+6. Rada Ubezpieczonych działa woparciu ouchwalony przez siebie i zatwierdzony przez Rzecznika regulamin.
 
-7. Cz∏onkom Rady Ubezpieczonych nie przys∏uguje wynagrodzenie za udzia∏ wjej posiedzeniach.
+7. Członkom Rady Ubezpieczonych nie przysługuje wynagrodzenie za udział wjej posiedzeniach.
 
 **Art. 26.**
 
-1. Podj´cie czynnoÊci przez Rzecznika nast´puje zurz´du lub wniosek:
+1. Podjęcie czynności przez Rzecznika następuje zurzędu lub wniosek:
 
-- **1)** podjàç czynnoÊç;
-- **2)** wskazaç wnioskodawcy przys∏ugujàce mu prawa iÊrodki dzia∏ania;
-- **3)** przekazaç spraw´ wed∏ug w∏aÊciwoÊci;
-- **4)** nie podjàç czynnoÊci, oczym zawiadamia, uzasadniajàc swoje stanowisko, wnioskodawc´ oraz osob´, której sprawa dotyczy.
+- **1)** podjąć czynność;
+- **2)** wskazać wnioskodawcy przysługujące mu prawa iśrodki działania;
+- **3)** przekazać sprawę według właściwości;
+- **4)** nie podjąć czynności, oczym zawiadamia, uzasadniając swoje stanowisko, wnioskodawcę oraz osobę, której sprawa dotyczy.
 
-3. Rzecznik, podejmujàc czynnoÊç, bada, czy wskutek dzia∏ania lub zaniechania zak∏adu ubezpieczeƒ, towarzystwa emerytalnego lub funduszu emerytalnego nie nastàpi∏o naruszenie prawa lub interesów osób wymienionych wart. 5 ust. 1.
+3. Rzecznik, podejmując czynność, bada, czy wskutek działania lub zaniechania zakładu ubezpieczeń, towarzystwa emerytalnego lub funduszu emerytalnego nie nastąpiło naruszenie prawa lub interesów osób wymienionych wart. 5 ust. 1.
 
-4. Rzecznik lub upowa˝niony przez niego pracownik Biura Rzecznika mo˝e:
+4. Rzecznik lub upoważniony przez niego pracownik Biura Rzecznika może:
 
-- **1)** wyst´powaç do zak∏adów ubezpieczeƒ, funduszy emerytalnych, towarzystw emerytalnych, Ubezpieczeniowego Funduszu Gwarancyjnego, Polskiego Biura Ubezpieczycieli Komunikacyjnych oudzielenie informacji lub wyjaÊnieƒ, wszczególnoÊci:
-    - **a)** sprawach indywidualnych, z zastrze˝eniem ust. 5,
-    - **b)** sprawach postanowieƒ ogólnych warunków ubezpieczeƒ, które wed∏ug Rzecznika sà niekorzystne dla osób ubezpieczajàcych, ubezpieczonych, uposa˝onych lub uprawnionych z umów ubezpieczenia,
-    - **c)** dotyczàcych wewn´trznych regulacji tych instytucji, które wed∏ug Rzecznika sà niekorzystne dla osób wymienionych wart. 5 ust. 1,
-    - **d)** temat nieprawid∏owej obs∏ugi osób wymienionych art. 5 ust. 1, Êwiadczonej przez te instytucje;
+- **1)** występować do zakładów ubezpieczeń, funduszy emerytalnych, towarzystw emerytalnych, Ubezpieczeniowego Funduszu Gwarancyjnego, Polskiego Biura Ubezpieczycieli Komunikacyjnych oudzielenie informacji lub wyjaśnień, wszczególności:
+    - **a)** sprawach indywidualnych, z zastrzeżeniem ust. 5,
+    - **b)** sprawach postanowień ogólnych warunków ubezpieczeń, które według Rzecznika są niekorzystne dla osób ubezpieczających, ubezpieczonych, uposażonych lub uprawnionych z umów ubezpieczenia,
+    - **c)** dotyczących wewnętrznych regulacji tych instytucji, które według Rzecznika są niekorzystne dla osób wymienionych wart. 5 ust. 1,
+    - **d)** temat nieprawidłowej obsługi osób wymienionych art. 5 ust. 1, świadczonej przez te instytucje;
 
-- **2)** zwracaç si´ do ministra w∏aÊciwego do spraw instytucji finansowych sprawach dotyczàcych ubezpieczeƒ obowiàzkowych ipostulowaç oewentualnà zmian´ przepisów regulujàcych te ubezpieczenia;
-- **3)** przeprowadzaç lub zlecaç badania temat sytuacji rynku ubezpieczeniowym iemerytalnym;
-- **4)** wyst´powaç do stron o poddanie spraw rozstrzygni´ciu przez sàd polubowny.
+- **2)** zwracać się do ministra właściwego do spraw instytucji finansowych sprawach dotyczących ubezpieczeń obowiązkowych ipostulować oewentualną zmianę przepisów regulujących te ubezpieczenia;
+- **3)** przeprowadzać lub zlecać badania temat sytuacji rynku ubezpieczeniowym iemerytalnym;
+- **4)** występować do stron o poddanie spraw rozstrzygnięciu przez sąd polubowny.
 
-5. Wystàpienie o udzielenie informacji lub wyja2) zwróciç si´ do podmiotu, którego dzia∏alnoÊci stwierdzi∏ naruszenie prawa lub interesów osób wymienionych art. 5 ust. 1, o ponowne rozpatrzenie sprawy;
+5. Wystąpienie o udzielenie informacji lub wyja2) zwrócić się do podmiotu, którego działalności stwierdził naruszenie prawa lub interesów osób wymienionych art. 5 ust. 1, o ponowne rozpatrzenie sprawy;
 
-- **3)** zwróciç si´ ozbadanie sprawy do w∏aÊciwych organów, wszczególnoÊci do Komisji, prokuratury bàdê organów kontroli paƒstwowej, zawodowej lub spo∏ecznej.
+- **3)** zwrócić się ozbadanie sprawy do właściwych organów, wszczególności do Komisji, prokuratury bądê organów kontroli państwowej, zawodowej lub społecznej.
 
-**Art. 27.** Zak∏ad ubezpieczeƒ przekazuje Rzecznikowi wzory umów ubezpieczenia i wniosków o ubezpieczenie, teksty ogólnych warunków ubezpieczeƒ oraz inne dokumenty i formularze stosowane przez zak∏ad ubezpieczeƒ przy zawieraniu umów ubezpieczenia, wterminie 14 dni od dnia wprowadzenia ich do obrotu, oraz ˝àdanie Rzecznika taryfy sk∏adek ubezpieczeniowych.
+**Art. 27.** Zakład ubezpieczeń przekazuje Rzecznikowi wzory umów ubezpieczenia i wniosków o ubezpieczenie, teksty ogólnych warunków ubezpieczeń oraz inne dokumenty i formularze stosowane przez zakład ubezpieczeń przy zawieraniu umów ubezpieczenia, wterminie 14 dni od dnia wprowadzenia ich do obrotu, oraz żądanie Rzecznika taryfy składek ubezpieczeniowych.
 
-**Art. 28.** Rzecznik mo˝e wyst´powaç do Sàdu Najwy˝szego o podj´cie uchwa∏y majàcej celu wyjaÊnienie przepisów prawnych budzàcych wàtpliwoÊci lub których stosowanie wywo∏a∏o rozbie˝noÊci worzecznictwie.
+**Art. 28.** Rzecznik może występować do Sądu Najwyższego o podjęcie uchwały mającej celu wyjaśnienie przepisów prawnych budzących wątpliwości lub których stosowanie wywołało rozbieżności worzecznictwie.
 
 **Art. 29.**
 
-1. Podmiot, który otrzyma∏ wniosek Rzecznika wsprawach obj´tych zakresem jego dzia∏ania, jest obowiàzany niezw∏ocznie, nie póêniej jednak ni˝ wterminie 30 dni od dnia otrzymania wniosku, poinformowaç Rzecznika opodj´tych dzia∏aniach lub zaj´tym stanowisku. Przepis ust. 1 nie wy∏àcza uprawnieƒ organów iinstytucji wynikajàcych zodr´bnych przepisów.
+1. Podmiot, który otrzymał wniosek Rzecznika wsprawach objętych zakresem jego działania, jest obowiązany niezwłocznie, nie póêniej jednak niż wterminie 30 dni od dnia otrzymania wniosku, poinformować Rzecznika opodjętych działaniach lub zajętym stanowisku. Przepis ust. 1 nie wyłącza uprawnień organów iinstytucji wynikających zodrębnych przepisów.
 
-**Art. 30.** Rzecznik sk∏ada corocznie, terminie 60 dni od zakoƒczenia roku kalendarzowego, Prezesowi Rady Ministrów sprawozdanie ze swojej dzia∏alnoÊci oraz uwagi o stanie przestrzegania prawa i interesów osób, októrych mowa wart. 5 ust. 1. Sprawozdanie jest jawne. Rozdzia∏ 4 Zmiany wprzepisach obowiàzujàcych
+**Art. 30.** Rzecznik składa corocznie, terminie 60 dni od zakończenia roku kalendarzowego, Prezesowi Rady Ministrów sprawozdanie ze swojej działalności oraz uwagi o stanie przestrzegania prawa i interesów osób, októrych mowa wart. 5 ust. 1. Sprawozdanie jest jawne.
 
-**Art. 31.** Wustawie zdnia 28 sierpnia 1997 r. oorganizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. 139, poz. 934, z 1998 r. 98, poz. 610, 106, poz. 668 i 162, poz. 1118, z 1999 r. 110, poz. 1256, z 2000 r. 60, poz. 702, z 2001 r. 8, poz. 64 iNr 110, poz. 1189 oraz z2002 r. 25, poz. 253, 153, poz. 1271 i 241, poz. 2074) wprowadza si´ nast´pujàce zmiany:
+#### Rozdział 4 Zmiany wprzepisach obowiązujących
+
+**Art. 31.** Wustawie zdnia 28 sierpnia 1997 r. oorganizacji i funkcjonowaniu funduszy emerytalnych (Dz. U. 139, poz. 934, z 1998 r. 98, poz. 610, 106, poz. 668 i 162, poz. 1118, z 1999 r. 110, poz. 1256, z 2000 r. 60, poz. 702, z 2001 r. 8, poz. 64 iNr 110, poz. 1189 oraz z2002 r. 25, poz. 253, 153, poz. 1271 i 241, poz. 2074) wprowadza się następujące zmiany:
 
 **Art. 35.**
 
-1. Rzecznik powo∏any przed dniem wejÊcia
+1. Rzecznik powołany przed dniem wejścia
 
-**Art. 32.** W ustawie z dnia 6 lipca 2001 r. o groma- w˝ycie niniejszej ustawy pe∏ni funkcj´ do czasu zakoƒdzeniu, przetwarzaniu i przekazywaniu informacji kry- czenia kadencji, okreÊlonej ustawie, o której mowa minalnych (Dz. U. 110, poz. 1189 iNr 154, poz. 1800 wart. 34 ust. 1. oraz z2002 r. 81, poz. 731 iNr 89, poz. 804) wart. 20: Powo∏anie Rzecznika zasadach okreÊlonych
+**Art. 32.** W ustawie z dnia 6 lipca 2001 r. o groma- wżycie niniejszej ustawy pełni funkcję do czasu zakońdzeniu, przetwarzaniu i przekazywaniu informacji kry- czenia kadencji, określonej ustawie, o której mowa minalnych (Dz. U. 110, poz. 1189 iNr 154, poz. 1800 wart. 34 ust. 1. oraz z2002 r. 81, poz. 731 iNr 89, poz. 804) wart. 20: Powołanie Rzecznika zasadach określonych
 
-**Art. 36.** Ustawa wchodzi w˝ycie zdniem 1 stycznia
+**Art. 36.** Ustawa wchodzi wżycie zdniem 1 stycznia
 
-**Art. 33.** Wustawie zdnia 30 sierpnia 2002 r. Przepisy wprowadzajàce ustaw´ Prawo oustroju sàdów administracyjnych iustaw´ Prawo opost´powaniu Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1154 USTAWA zdnia 22 maja 2003 r. opoÊrednictwie ubezpieczeniowym Rozdzia∏ 1 Przepisy ogólne
+**Art. 33.** Wustawie zdnia 30 sierpnia 2002 r. Przepisy wprowadzające ustawę Prawo oustroju sądów administracyjnych iustawę Prawo opostępowaniu Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1154 USTAWA zdnia 22 maja 2003 r. opośrednictwie ubezpieczeniowym
 
-**Art. 1.** Ustawa okreÊla zasady wykonywania poÊrednictwa ubezpieczeniowego zakresie ubezpieczeƒ osobowych imajàtkowych. czynnoÊci faktycznych lub czynnoÊci prawnych zwiàzanych z zawieraniem lub wykonywaniem umów ubezpieczenia. PoÊrednictwo ubezpieczeniowe jest wykonywane wy∏àcznie przez agentów ubezpieczeniowych lub brokerów ubezpieczeniowych, zzastrze˝eniem art. 3.
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa zasady wykonywania pośrednictwa ubezpieczeniowego zakresie ubezpieczeń osobowych imajątkowych. czynności faktycznych lub czynności prawnych związanych z zawieraniem lub wykonywaniem umów ubezpieczenia. Pośrednictwo ubezpieczeniowe jest wykonywane wyłącznie przez agentów ubezpieczeniowych lub brokerów ubezpieczeniowych, zzastrzeżeniem art. 3.
 

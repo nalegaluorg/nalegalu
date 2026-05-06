@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# 2. Sàd Najwy˝szy zapewnia tak˝e obs∏u- b) pkt 3 otrzymuje brzmienie: g´ kancelaryjnà oraz czynnoÊci sekre- „3) utrat´ wszystkich albo niektórych orderów, tariatu Trybuna∏u Stanu.”; odznaczeƒ itytu∏ów honorowych.”;
+# 2. Sąd Najwyższy zapewnia także obsłu- b) pkt 3 otrzymuje brzmienie: gę kancelaryjną oraz czynności sekre- Ń3) utratę wszystkich albo niektórych orderów, tariatu Trybunału Stanu.”; odznaczeń itytułów honorowych.”;
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,13 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031751693) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1693/text.pdf) |
 
 14) wart. 23: 16) art. 26 otrzymuje brzmienie:
-a) w ust. 1 po wyrazie „przest´pstwo” dodaje si´ „Art. 26. Za czyny stanowiàce przest´pstwo lub wyrazy „lub przest´pstwo skarbowe”, przest´pstwo skarbowe Trybuna∏ Stanu
-b) uchyla si´ ust. 2; orzeka kary lub Êrodki karne przewidziane wustawie.”.
+a) w ust. 1 po wyrazie Ńprzestępstwo” dodaje się ŃArt. 26. Za czyny stanowiące przestępstwo lub wyrazy Ńlub przestępstwo skarbowe”, przestępstwo skarbowe Trybunał Stanu
+b) uchyla się ust. 2; orzeka kary lub środki karne przewidziane wustawie.”.
 15) wart. 25 wust. 1:
 
-**Art. 2.** Ustawa wchodzi w ˝ycie po up∏ywie 14 dni
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 dni
 
 **Art. 1.** Wustawie zdnia 14 lipca 2000 r. orestrukturyzacji finansowej górnictwa siarki 74,
 
-**Art. 2.** Wustawie zdnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska 62, 627, zpóên. zm. ) si´ nast´pujàce zmiany:
+**Art. 2.** Wustawie zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska 62, 627, zpóên. zm. ) się następujące zmiany:
 

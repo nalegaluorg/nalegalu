@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051311091) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1091/text.pdf) |
 
-**Art. 1.** W ustawie dnia 25 paêdziernika 1991 organizowaniu i prowadzeniu dzia∏alnoÊci kulturalnej (Dz. 2001 13, 123, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie dnia 25 paêdziernika 1991 organizowaniu i prowadzeniu działalności kulturalnej (Dz. 2001 13, 123, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 7 wrzeÊnia 1991 osystemie oÊwiaty (Dz. z2004 256, 2572, zpóên. zm. ) art. 79:
+**Art. 2.** Wustawie zdnia 7 września 1991 osystemie oświaty (Dz. z2004 256, 2572, zpóên. zm. ) art. 79:
 
-**Art. 3.** Zachowujà wa˝noÊç odznaki honorowe „Zas∏u˝ony Dzia∏acz Kultury” nadane przed dniem wejÊcia ˝ycie niniejszej ustawy.
+**Art. 3.** Zachowują ważność odznaki honorowe ŃZasłużony Działacz Kultury” nadane przed dniem wejścia życie niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi ˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

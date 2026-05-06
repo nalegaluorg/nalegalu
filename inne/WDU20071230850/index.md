@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# du okr´gowego sporzàdza po raz pierwszy do dnia 1398, z 2006 126, 876 oraz z 2007 31grudnia 2007 Nr21, 82, 560) w art. 5 w ust. 1 w pkt9 kropk´ na koƒcu zdania zast´puje si´ Êredni- Art. 29. Ustawa wchodzi w ˝ycie z dniem 1 lutego kiem dodaje si´ pkt 10 w brzmieniu: 2008 r., zwyjàtkiem art. 5—7 i28, które wchodzà w˝y„10) koszty wystawienia zaÊwiadczenia przez lekarza cie z dniem 1 sierpnia 2007 sàdowego.”.
+# du okręgowego sporządza po raz pierwszy do dnia 1398, z 2006 126, 876 oraz z 2007 31grudnia 2007 Nr21, 82, 560) w art. 5 w ust. 1 w pkt9 kropkę na końcu zdania zastępuje się średni- Art. 29. Ustawa wchodzi w życie z dniem 1 lutego kiem dodaje się pkt 10 w brzmieniu: 2008 r., zwyjątkiem art. 5—7 i28, które wchodzą wżyŃ10) koszty wystawienia zaświadczenia przez lekarza cie z dniem 1 sierpnia 2007 sądowego.”.
 
 | Pole | Wartość |
 |---|---|
@@ -24,167 +24,175 @@ domain: null
 | Ostatnia zmiana | 2024-06-27 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071230850) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/850/text.pdf) |
 
-Rozdzia∏ 6 Przepisy przejÊciowe koƒcowe
+#### Rozdział 6 Przepisy przejściowe końcowe
 
-**Art. 27.** CzynnoÊci procesowe dokonane przed wejÊciem w˝ycie ustawy na podstawie przepisów dotychczasowych sà skuteczne. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski USTAWA z dnia 15 czerwca 2007 licencji syndyka Rozdzia∏ 1 Przepisy ogólne
+**Art. 27.** Czynności procesowe dokonane przed wejściem wżycie ustawy na podstawie przepisów dotychczasowych są skuteczne. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA z dnia 15 czerwca 2007 licencji syndyka
 
-**Art. 1.** Ustawa okreÊla zasady uzyskiwania tryb przyznawania licencji odmowy jej przyznania, cofania zawieszania praw wynikajàcych z tej licencji. Art. Licencja syndyka uprawnia do wykonywania czynnoÊci nadzorcy sàdowego izarzàdcy na podstawie ustawy zdnia 28 lutego 2003 Prawo upad∏oÊciowe naprawcze (Dz. U. 60, 535, z póên. zm. ).
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa zasady uzyskiwania tryb przyznawania licencji odmowy jej przyznania, cofania zawieszania praw wynikających z tej licencji. Art. Licencja syndyka uprawnia do wykonywania czynności nadzorcy sądowego izarządcy na podstawie ustawy zdnia 28 lutego 2003 Prawo upadłościowe naprawcze (Dz. U. 60, 535, z póên. zm. ).
 
 **Art. 3.**
 
-1. Licencj´ syndyka mo˝e uzyskaç osoba 7) nie by∏a karana za przest´pstwo lub przest´pstwo fizyczna, która: skarbowe;
+1. Licencję syndyka może uzyskać osoba 7) nie była karana za przestępstwo lub przestępstwo fizyczna, która: skarbowe;
 
-- **1)** ma obywatelstwo paƒstwa cz∏onkowskiego Unii 8) nie jest podejrzana albo oskar˝ona oprzest´pstwo Europejskiej, Konfederacji Szwajcarskiej lub paƒ- Êcigane z oskar˝enia publicznego lub przest´pstwa cz∏onkowskiego Europejskiego Porozumienia stwo skarbowe; Wolnym Handlu (EFTA) strony umowy Eu- 9) nie jest wpisana do rejestru d∏u˝ników niewyp∏aropejskim Obszarze Gospodarczym; calnych Krajowego Rejestru Sàdowego;
-- **10)** z∏o˝y∏a z pozytywnym wynikiem egzamin przed Komisjà Egzaminacyjnà, powo∏anà przez Ministra SprawiedliwoÊci;
-- **11)** jest zdolna, ze wzgl´du na stan zdrowia, do wyko——————— sposób przeprowadzania badaƒ kandydatów do obj´cia urz´du s´dziego. Rozdzia∏ 2 Egzamin dla osób ubiegajàcych si´ licencj´ syndyka
+- **1)** ma obywatelstwo państwa członkowskiego Unii 8) nie jest podejrzana albo oskarżona oprzestępstwo Europejskiej, Konfederacji Szwajcarskiej lub pań- ścigane z oskarżenia publicznego lub przestępstwa członkowskiego Europejskiego Porozumienia stwo skarbowe; Wolnym Handlu (EFTA) strony umowy Eu- 9) nie jest wpisana do rejestru dłużników niewypłaropejskim Obszarze Gospodarczym; calnych Krajowego Rejestru Sądowego;
+- **10)** złożyła z pozytywnym wynikiem egzamin przed Komisją Egzaminacyjną, powołaną przez Ministra Sprawiedliwości;
+- **11)** jest zdolna, ze względu na stan zdrowia, do wyko——————— sposób przeprowadzania badań kandydatów do objęcia urzędu sędziego.
+
+#### Rozdział 2 Egzamin dla osób ubiegających się licencję syndyka
 
 **Art. 4.**
 
-1. Egzamin dla osób ubiegajàcych si´ olicencj´ zwany dalej „egzaminem”, przeprowadza si´ co najmniej dwa razy w ciàgu roku. Informacj´ terminie egzaminu Minister SprawiedliwoÊci og∏asza w Biuletynie Informacji Publicznej na swoich stronach podmiotowych oraz w dzienniku zasi´gu ogólnokrajowym, co najmniej na trzy miesiàce przed planowanym terminem egzaminu. Minister SprawiedliwoÊci powo∏uje, w drodze zarzàdzenia, Komisj´ Egzaminacyjnà, zwanà dalej „Komisjà”, sk∏adajàcà si´ z7 osób wyró˝niajàcych si´ wiedzà teoretycznà ipraktycznà zzakresu problematyki obj´tej egzaminem.
+1. Egzamin dla osób ubiegających się olicencję zwany dalej Ńegzaminem”, przeprowadza się co najmniej dwa razy w ciągu roku. Informację terminie egzaminu Minister Sprawiedliwości ogłasza w Biuletynie Informacji Publicznej na swoich stronach podmiotowych oraz w dzienniku zasięgu ogólnokrajowym, co najmniej na trzy miesiące przed planowanym terminem egzaminu. Minister Sprawiedliwości powołuje, w drodze zarządzenia, Komisję Egzaminacyjną, zwaną dalej ŃKomisją”, składającą się z7 osób wyróżniających się wiedzą teoretyczną ipraktyczną zzakresu problematyki objętej egzaminem.
 
-3. Cz∏onkowie Komisji sà powo∏ywani na okres 2lat z mo˝liwoÊcià wczeÊniejszego odwo∏ania w razie niewykonywania lub niew∏aÊciwego wykonywania obowiàzków cz∏onka Komisji, niezdolnoÊci do ich wykonywania albo zrzeczenia si´ cz∏onkostwa. W takim przypadku Minister SprawiedliwoÊci uzupe∏nia sk∏ad Komisji.
+3. Członkowie Komisji są powoływani na okres 2lat z możliwością wcześniejszego odwołania w razie niewykonywania lub niewłaściwego wykonywania obowiązków członka Komisji, niezdolności do ich wykonywania albo zrzeczenia się członkostwa. W takim przypadku Minister Sprawiedliwości uzupełnia skład Komisji.
 
-4. Przewodniczàcego Komisji wyznacza Minister SprawiedliwoÊci spoÊród jej cz∏onków.
+4. Przewodniczącego Komisji wyznacza Minister Sprawiedliwości spośród jej członków.
 
-5. Minister SprawiedliwoÊci przed ka˝dym egzaminem powo∏uje zespó∏ do przygotowania pytaƒ izadaƒ problemowych na egzamin, zwany dalej „zespo∏em”. W sk∏ad zespo∏u wchodzi 5 osób wyró˝niajàcych si´ wiedzà teoretycznà ipraktycznà zzakresu problematyki obj´tej egzaminem.
+5. Minister Sprawiedliwości przed każdym egzaminem powołuje zespół do przygotowania pytań izadań problemowych na egzamin, zwany dalej Ńzespołem”. W skład zespołu wchodzi 5 osób wyróżniających się wiedzą teoretyczną ipraktyczną zzakresu problematyki objętej egzaminem.
 
-6. Minister SprawiedliwoÊci okreÊli, w drodze rozporzàdzenia, sposób przygotowywania, przechowywania oraz przekazywania Komisji pytaƒ zadaƒ problemowych na egzamin, majàc na uwadze potrzeb´ odpowiedniego ich zabezpieczenia przed nieuprawnionym ujawnieniem.
+6. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób przygotowywania, przechowywania oraz przekazywania Komisji pytań zadań problemowych na egzamin, mając na uwadze potrzebę odpowiedniego ich zabezpieczenia przed nieuprawnionym ujawnieniem.
 
-7. Minister SprawiedliwoÊci zapewnia obs∏ug´ biurowà Komisji oraz zespo∏u.
+7. Minister Sprawiedliwości zapewnia obsługę biurową Komisji oraz zespołu.
 
 **Art. 5.**
 
-1. Cz∏onkom Komisji oraz zespo∏u przys∏uguje wynagrodzenie oraz zwrot kosztów przejazdów inoclegów na zasadach okreÊlonych wprzepisach dotyczàcych nale˝noÊci przys∏ugujàcych pracownikom zatrudnionym w paƒstwowej lub samorzàdowej jednostce sfery bud˝etowej z tytu∏u podró˝y s∏u˝bowej na obszarze kraju. WysokoÊç wynagrodzenia cz∏onka Komisji za mowe nie mo˝e przekraczaç 25% przeci´tnego miesi´cznego wynagrodzenia w czwartym kwartale roku poprzedniego, og∏oszonego przez Prezesa G∏ównego Urz´du Statystycznego.
+1. Członkom Komisji oraz zespołu przysługuje wynagrodzenie oraz zwrot kosztów przejazdów inoclegów na zasadach określonych wprzepisach dotyczących należności przysługujących pracownikom zatrudnionym w państwowej lub samorządowej jednostce sfery budżetowej z tytułu podróży służbowej na obszarze kraju. Wysokość wynagrodzenia członka Komisji za mowe nie może przekraczać 25% przeciętnego miesięcznego wynagrodzenia w czwartym kwartale roku poprzedniego, ogłoszonego przez Prezesa Głównego Urzędu Statystycznego.
 
-4. Minister SprawiedliwoÊci okreÊli, w drodze rozporzàdzenia, wysokoÊç wynagrodzenia cz∏onków Komisji zespo∏u, uwzgl´dniajàc nak∏ad pracy zwiàzany z przygotowaniem przeprowadzeniem egzaminu.
+4. Minister Sprawiedliwości określi, w drodze rozporządzenia, wysokość wynagrodzenia członków Komisji zespołu, uwzględniając nakład pracy związany z przygotowaniem przeprowadzeniem egzaminu.
 
 **Art. 6.**
 
-1. Osoba ubiegajàca si´ licencj´ syndyka sk∏ada do Ministra SprawiedliwoÊci wniosek dopuszczenie do egzaminu najpóêniej 45 dni przed terminem rozpocz´cia egzaminu. Do wniosku, którym mowa w ust. 1, za∏àcza si´:
+1. Osoba ubiegająca się licencję syndyka składa do Ministra Sprawiedliwości wniosek dopuszczenie do egzaminu najpóêniej 45 dni przed terminem rozpoczęcia egzaminu. Do wniosku, którym mowa w ust. 1, załącza się:
 
-- **1)** odpis dyplomu potwierdzajàcego uzyskanie tytu∏u magistra lub zaÊwiadczenie ukoƒczeniu wy˝szych studiów magisterskich albo równorz´dnych w paƒstwie, którym mowa w art. 3 ust. 1 pkt 1;
-- **2)** oÊwiadczenie wnioskodawcy, ˝e nie jest podejrzany albo oskar˝ony oprzest´pstwo Êcigane zoskar˝enia publicznego lub przest´pstwo skarbowe;
-- **3)** dowód uiszczenia op∏aty egzaminacyjnej, której mowa w art. 7 ust. 1.
+- **1)** odpis dyplomu potwierdzającego uzyskanie tytułu magistra lub zaświadczenie ukończeniu wyższych studiów magisterskich albo równorzędnych w państwie, którym mowa w art. 3 ust. 1 pkt 1;
+- **2)** oświadczenie wnioskodawcy, że nie jest podejrzany albo oskarżony oprzestępstwo ścigane zoskarżenia publicznego lub przestępstwo skarbowe;
+- **3)** dowód uiszczenia opłaty egzaminacyjnej, której mowa w art. 7 ust. 1.
 
-3. Je˝eli wniosek, którym mowa w ust. 1, nie spe∏nia wymogów formalnych okreÊlonych w ust. 2, osob´ ubiegajàcà si´ olicencj´ syndyka wzywa si´ do uzupe∏nienia braków wtrybie art. 64 § 2 ustawy zdnia 14 czerwca 1960 Kodeks post´powania administracyjnego (Dz. U. z 2000 98, 1071, z póên. zm. ).
+3. Jeżeli wniosek, którym mowa w ust. 1, nie spełnia wymogów formalnych określonych w ust. 2, osobę ubiegającą się olicencję syndyka wzywa się do uzupełnienia braków wtrybie art. 64 § 2 ustawy zdnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. z 2000 98, 1071, z póên. zm. ).
 
-4. Nieuzupe∏nienie braków powoduje pozostawienie wniosku bez biegu, czym zawiadamia si´ osob´ ubiegajàcà si´ olicencj´ syndyka listem poleconym za poÊwiadczeniem odbioru.
+4. Nieuzupełnienie braków powoduje pozostawienie wniosku bez biegu, czym zawiadamia się osobę ubiegającą się olicencję syndyka listem poleconym za poświadczeniem odbioru.
 
-5. Je˝eli wniosek, którym mowa w ust. 1, zosta∏ z∏o˝ony po up∏ywie wyznaczonego terminu, przewodniczàcy Komisji wydaje decyzj´ odmawiajàcà dopuszczenia osoby ubiegajàcej si´ licencj´ syndyka do udzia∏u wegzaminie. Od decyzji tej przys∏uguje odwo∏anie do Ministra SprawiedliwoÊci.
+5. Jeżeli wniosek, którym mowa w ust. 1, został złożony po upływie wyznaczonego terminu, przewodniczący Komisji wydaje decyzję odmawiającą dopuszczenia osoby ubiegającej się licencję syndyka do udziału wegzaminie. Od decyzji tej przysługuje odwołanie do Ministra Sprawiedliwości.
 
 **Art. 7.**
 
-1. Osoba przyst´pujàca do egzaminu uiszcza op∏at´ egzaminacyjnà. Op∏ata egzaminacyjna stanowi dochód bud˝etu paƒstwa.
+1. Osoba przystępująca do egzaminu uiszcza opłatę egzaminacyjną. Opłata egzaminacyjna stanowi dochód budżetu państwa.
 
 **Art. 8.**
 
-1. Egzamin sk∏ada si´ z cz´Êci pisemnej ustnej oraz jest przeprowadzany w j´zyku polskim. ——————— uwzgl´dnieniem specyfiki post´powania upad∏oÊciowego naprawczego.
+1. Egzamin składa się z części pisemnej ustnej oraz jest przeprowadzany w języku polskim. ——————— uwzględnieniem specyfiki postępowania upadłościowego naprawczego.
 
-3. Cz´Êç pisemna polega na:
+3. Część pisemna polega na:
 
-- **1)** rozwiàzaniu testu sk∏adajàcego si´ ze 100 pytaƒ;
+- **1)** rozwiązaniu testu składającego się ze 100 pytań;
 - **2)** wykonaniu zadania problemowego.
 
-4. Odpowiedzi na pytania testowe ocenia si´ wnast´pujàcy sposób:
+4. Odpowiedzi na pytania testowe ocenia się wnastępujący sposób:
 
-- **1)** odpowiedê prawid∏owa: 2 punkty;
-- **2)** odpowiedê nieprawid∏owa: –1 punkt;
+- **1)** odpowiedê prawidłowa: 2 punkty;
+- **2)** odpowiedê nieprawidłowa: –1 punkt;
 - **3)** brak odpowiedzi: 0 punktów.
 
-5. Wykonanie zadania problemowego ocenia si´ w skali od 0 do 30 punktów.
+5. Wykonanie zadania problemowego ocenia się w skali od 0 do 30 punktów.
 
-6. Cz´Êç ustna egzaminu polega na udzieleniu odpowiedzi na pytania zamieszczone w wylosowanym zestawie 10 pytaƒ. Odpowiedê na wszystkie pytania jest oceniana indywidualnie przez ka˝dego zcz∏onków komisji egzaminacyjnej przy zastosowaniu skali od 0 do 10 punktów.
+6. Część ustna egzaminu polega na udzieleniu odpowiedzi na pytania zamieszczone w wylosowanym zestawie 10 pytań. Odpowiedê na wszystkie pytania jest oceniana indywidualnie przez każdego zczłonków komisji egzaminacyjnej przy zastosowaniu skali od 0 do 10 punktów.
 
-7. Egzamin uwa˝a si´ za zdany w przypadku uzyskania pozytywnych wyników z obu jego cz´Êci.
+7. Egzamin uważa się za zdany w przypadku uzyskania pozytywnych wyników z obu jego części.
 
-8. Za pozytywny wynik cz´Êci pisemnej egzaminu uznaje si´ uzyskanie co najmniej 80% maksymalnej liczby punktów z cz´Êci testowej egzaminu co najmniej 20 punktów za rozwiàzanie zadania problemowego. Za pozytywny wynik cz´Êci ustnej egzaminu uznaje si´ uzyskanie co najmniej 70% maksymalnej liczby punktów.
+8. Za pozytywny wynik części pisemnej egzaminu uznaje się uzyskanie co najmniej 80% maksymalnej liczby punktów z części testowej egzaminu co najmniej 20 punktów za rozwiązanie zadania problemowego. Za pozytywny wynik części ustnej egzaminu uznaje się uzyskanie co najmniej 70% maksymalnej liczby punktów.
 
-9. Z∏o˝enie egzaminu zwynikiem pozytywnym potwierdza zaÊwiadczenie wystawione przez Komisj´.
+9. Złożenie egzaminu zwynikiem pozytywnym potwierdza zaświadczenie wystawione przez Komisję.
 
-**Art. 9.** Minister SprawiedliwoÊci okreÊli w drodze rozporzàdzenia:
+**Art. 9.** Minister Sprawiedliwości określi w drodze rozporządzenia:
+
+#### Rozdział 3 Licencja syndyka ust.1 pkt 1, 4, 6, 7 i9, oświadczenie, że nie jest prowadzone przeciwko wnioskodawcy postępowanie oprzestępstwo ścigane z oskarżenia publicznego lub przestępstwo skarbowe oraz oryginał zaświadczenia potwierdzającego złożenie egzaminu z wynikiem pozytywnym.
 
 **Art. 11.**
 
-1. Minister SprawiedliwoÊci zwraca si´ do w∏aÊciwego organu Policji nades∏anie informacji osobie ubiegajàcej si´ licencj´ syndyka. Informacje, których mowa w ust. 1, obejmujà zebrane wramach wywiadu Êrodowiskowego dane o:
+1. Minister Sprawiedliwości zwraca się do właściwego organu Policji nadesłanie informacji osobie ubiegającej się licencję syndyka. Informacje, których mowa w ust. 1, obejmują zebrane wramach wywiadu środowiskowego dane o:
 
-- **1)** zachowaniach Êwiadczàcych naruszeniu porzàdku prawnego;
-- **2)** kontaktach ze Êrodowiskami przest´pczymi lub grupami Êrodowiskowymi patologii spo∏ecznej charakterze tych kontaktów;
-- **3)** zachowaniach wskazujàcych na uzale˝nienie od alkoholu, Êrodków odurzajàcych lub substancji psychotropowych.
+- **1)** zachowaniach świadczących naruszeniu porządku prawnego;
+- **2)** kontaktach ze środowiskami przestępczymi lub grupami środowiskowymi patologii społecznej charakterze tych kontaktów;
+- **3)** zachowaniach wskazujących na uzależnienie od alkoholu, środków odurzających lub substancji psychotropowych.
 
-3. Minister SprawiedliwoÊci w porozumieniu z ministrem w∏aÊciwym do spraw wewn´trznych okreÊli, w drodze rozporzàdzenia, sposób tryb uzyskiwania informacji przez organy Policji osobie ubiegajàcej si´ licencj´ syndyka oraz wzór kwestionariusza tej informacji, majàc na wzgl´dzie specyfik´ obowiàzków syndyka oraz prawa iwolnoÊci chronione konstytucyjnie, a tak˝e potrzeb´ oceny spe∏nienia przez osob´ ubiegajàcà si´ licencj´ warunku posiadania nieposzlakowanej opinii.
+3. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw wewnętrznych określi, w drodze rozporządzenia, sposób tryb uzyskiwania informacji przez organy Policji osobie ubiegającej się licencję syndyka oraz wzór kwestionariusza tej informacji, mając na względzie specyfikę obowiązków syndyka oraz prawa iwolności chronione konstytucyjnie, a także potrzebę oceny spełnienia przez osobę ubiegającą się licencję warunku posiadania nieposzlakowanej opinii.
 
-**Art. 12.** Minister SprawiedliwoÊci, w drodze decyzji administracyjnej, przyznaje licencj´ odmawia jej przyznania, cofa albo zawiesza prawa wynikajàce z licencji.
+**Art. 12.** Minister Sprawiedliwości, w drodze decyzji administracyjnej, przyznaje licencję odmawia jej przyznania, cofa albo zawiesza prawa wynikające z licencji.
 
-**Art. 13.** Minister SprawiedliwoÊci odmawia przyznania licencji w przypadku gdy osoba ubiegajàca si´ jej przyznanie nie spe∏nia wymogów, których mowa w art. 3 ust. 1, a tak˝e w przypadku up∏ywu terminu, którym mowa w art. 10 ust. 1.
+**Art. 13.** Minister Sprawiedliwości odmawia przyznania licencji w przypadku gdy osoba ubiegająca się jej przyznanie nie spełnia wymogów, których mowa w art. 3 ust. 1, a także w przypadku upływu terminu, którym mowa w art. 10 ust. 1.
 
-**Art. 14.** Licencj´ syndyka przyznaje si´ na czas nieoznaczony.
+**Art. 14.** Licencję syndyka przyznaje się na czas nieoznaczony.
 
 **Art. 15.**
 
-1. Osoba, której przyznano licencj´ syndyka sk∏ada wobec Ministra SprawiedliwoÊci, przed wpisem na list´ osób posiadajàcych licencj´ októrej mowa wart. 17 ust. 1, Êlubowanie wed∏ug nast´pujàcej roty: „Majàc ÊwiadomoÊç znaczenia moich s∏ów odpowiedzialnoÊci przed prawem Êlubuj´ uroczyÊcie, ˝e powierzone mi obowiàzki w post´powaniu upad∏oÊciowym lub naprawczym b´d´ wype∏niaç suÊciwego dla miejsca zamieszkania osoby, októrej mowa w ust. 1.
+1. Osoba, której przyznano licencję syndyka składa wobec Ministra Sprawiedliwości, przed wpisem na listę osób posiadających licencję októrej mowa wart. 17 ust. 1, ślubowanie według następującej roty: ŃMając świadomość znaczenia moich słów odpowiedzialności przed prawem ślubuję uroczyście, że powierzone mi obowiązki w postępowaniu upadłościowym lub naprawczym będę wypełniać suściwego dla miejsca zamieszkania osoby, októrej mowa w ust. 1.
 
-3. Osoba, która z∏o˝y∏a Êlubowanie, sk∏ada podpis pod rotà Êlubowania.
+3. Osoba, która złożyła ślubowanie, składa podpis pod rotą ślubowania.
 
 **Art. 16.**
 
 1. Dokument licencji syndyka zawiera:
 
-- **1)** numer licencji dat´ przyznania;
-- **2)** oznaczenie podpis organu przyznajàcego;
-- **3)** imi´ inazwisko, dat´ imiejsce urodzenia posiadacza licencji;
-- **4)** numer ewidencyjny PESEL, z wy∏àczeniem cudzoziemców, którzy tego numeru nie posiadajà;
-- **5)** fotografi´ posiadacza licencji;
-- **6)** podpis posiadacza licencji. Za wydanie dokumentu licencji syndyka pobiera si´ op∏at´, która stanowi dochód bud˝etu paƒstwa.
+- **1)** numer licencji datę przyznania;
+- **2)** oznaczenie podpis organu przyznającego;
+- **3)** imię inazwisko, datę imiejsce urodzenia posiadacza licencji;
+- **4)** numer ewidencyjny PESEL, z wyłączeniem cudzoziemców, którzy tego numeru nie posiadają;
+- **5)** fotografię posiadacza licencji;
+- **6)** podpis posiadacza licencji. Za wydanie dokumentu licencji syndyka pobiera się opłatę, która stanowi dochód budżetu państwa.
 
-3. Minister SprawiedliwoÊci okreÊli, w drodze rozporzàdzenia, wzór dokumentu licencji z uwzgl´dnieniem potrzeby identyfikacji osoby posiadajàcej licencj´ uprawnieƒ wynikajàcych z licencji oraz wysokoÊç op∏aty za wydanie dokumentu licencji w kwocie nieprzekraczajàcej po∏owy równowartoÊci minimalnego wynagrodzenia miesi´cznego za prac´ isposób jej wnoszenia, bioràc pod uwag´ rzeczywiste koszty jego wydania oraz dopuszczalne mo˝liwoÊci uiszczania op∏aty.
+3. Minister Sprawiedliwości określi, w drodze rozporządzenia, wzór dokumentu licencji z uwzględnieniem potrzeby identyfikacji osoby posiadającej licencję uprawnień wynikających z licencji oraz wysokość opłaty za wydanie dokumentu licencji w kwocie nieprzekraczającej połowy równowartości minimalnego wynagrodzenia miesięcznego za pracę isposób jej wnoszenia, biorąc pod uwagę rzeczywiste koszty jego wydania oraz dopuszczalne możliwości uiszczania opłaty.
 
 **Art. 17.**
 
-1. Osob´, której przyznano licencj´ syndyka oraz osob´ posiadajàcà decyzj´ uznaniu kwalifikacji w zawodzie regulowanym syndyka wydanà na podstawie odr´bnych przepisów, wpisuje si´ na list´ osób posiadajàcych licencj´ prowadzonà przez Ministra SprawiedliwoÊci. Wpis na list´ osób posiadajàcych licencj´ syndyka obejmuje:
+1. Osobę, której przyznano licencję syndyka oraz osobę posiadającą decyzję uznaniu kwalifikacji w zawodzie regulowanym syndyka wydaną na podstawie odrębnych przepisów, wpisuje się na listę osób posiadających licencję prowadzoną przez Ministra Sprawiedliwości. Wpis na listę osób posiadających licencję syndyka obejmuje:
 
-- **1)** imi´ nazwisko, dat´ miejsce urodzenia;
-- **2)** numer ewidencyjny PESEL, z wy∏àczeniem cudzoziemców, którzy tego numeru nie posiadajà;
-- **3)** numer licencji idat´ jej wystawienia, awprzypadku osoby posiadajàcej decyzj´ ouznaniu kwalifikacji w zawodzie regulowanym syndyka wydanà na podstawie odr´bnych przepisów, numer decyzji dat´ jej wydania;
+- **1)** imię nazwisko, datę miejsce urodzenia;
+- **2)** numer ewidencyjny PESEL, z wyłączeniem cudzoziemców, którzy tego numeru nie posiadają;
+- **3)** numer licencji idatę jej wystawienia, awprzypadku osoby posiadającej decyzję ouznaniu kwalifikacji w zawodzie regulowanym syndyka wydaną na podstawie odrębnych przepisów, numer decyzji datę jej wydania;
 - **4)** adres do korespondencji.
 
-3. Osoba posiadajàca licencj´ syndyka jest obowiàzana zg∏aszaç zmiany danych obj´tych wpisem na list´ osób posiadajàcych licencj´ syndyka w terminie 30 dni od daty ich powstania. syndyka:
+3. Osoba posiadająca licencję syndyka jest obowiązana zgłaszać zmiany danych objętych wpisem na listę osób posiadających licencję syndyka w terminie 30 dni od daty ich powstania. syndyka:
 
-- **1)** przesta∏a spe∏niaç którykolwiek z wymogów okreÊlonych w art. 3 ust. 1 pkt 1, 3, 9;
-- **2)** dwukrotnie zosta∏a odwo∏ana prawomocnym postanowieniem z powodu nienale˝ytego pe∏nienia obowiàzków;
-- **3)** dopuÊci∏a si´ ra˝àcego naruszenia obowiàzków nadzorcy sàdowego lub zarzàdcy, a zosta∏o to ujawnione po zakoƒczeniu pe∏nienia przez nià funkcji w danym post´powaniu;
-- **4)** wystàpi∏a z takim wnioskiem;
-- **5)** zosta∏a skazana prawomocnym wyrokiem za umyÊlne przest´pstwo lub umyÊlne przest´pstwo skarbowe. Minister SprawiedliwoÊci mo˝e cofnàç licencj´ wprzypadku gdy osoba posiadajàca licencj´ syndyka zosta∏a skazana prawomocnym wyrokiem za nieumyÊlne przest´pstwo lub nieumyÊlne przest´pstwo skarbowe.
+- **1)** przestała spełniać którykolwiek z wymogów określonych w art. 3 ust. 1 pkt 1, 3, 9;
+- **2)** dwukrotnie została odwołana prawomocnym postanowieniem z powodu nienależytego pełnienia obowiązków;
+- **3)** dopuściła się rażącego naruszenia obowiązków nadzorcy sądowego lub zarządcy, a zostało to ujawnione po zakończeniu pełnienia przez nią funkcji w danym postępowaniu;
+- **4)** wystąpiła z takim wnioskiem;
+- **5)** została skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe. Minister Sprawiedliwości może cofnąć licencję wprzypadku gdy osoba posiadająca licencję syndyka została skazana prawomocnym wyrokiem za nieumyślne przestępstwo lub nieumyślne przestępstwo skarbowe.
 
-3. Osoba, której cofni´to licencj´ syndyka z przyczyn wskazanych w ust. 1 pkt 2, nie mo˝e ponownie ubiegaç si´ przyznanie licencji syndyka.
+3. Osoba, której cofnięto licencję syndyka z przyczyn wskazanych w ust. 1 pkt 2, nie może ponownie ubiegać się przyznanie licencji syndyka.
 
-4. W razie cofni´cia licencji syndyka wpis na liÊcie osób posiadajàcych licencj´ syndyka podlega wykreÊleniu.
+4. W razie cofnięcia licencji syndyka wpis na liście osób posiadających licencję syndyka podlega wykreśleniu.
 
-**Art. 19.** Organ prowadzàcy post´powanie karne oprzest´pstwo lub przest´pstwo skarbowe przeciwko osobie posiadajàcej licencj´ zawiadamia tym Ministra SprawiedliwoÊci.
+**Art. 19.** Organ prowadzący postępowanie karne oprzestępstwo lub przestępstwo skarbowe przeciwko osobie posiadającej licencję zawiadamia tym Ministra Sprawiedliwości.
 
 **Art. 20.**
 
-1. Minister SprawiedliwoÊci zawiesza osobie posiadajàcej licencj´ syndyka prawa wynikajàce z licencji, je˝eli:
+1. Minister Sprawiedliwości zawiesza osobie posiadającej licencję syndyka prawa wynikające z licencji, jeżeli:
 
-- **1)** wobec niej jest prowadzone post´powanie ocz´Êciowe lub ca∏kowite ubezw∏asnowolnienie, ustanowiono dla niej doradc´ tymczasowego;
-- **2)** przeciwko niej jest prowadzone post´powanie umyÊlne przest´pstwo Êcigane z oskar˝enia publicznego lub umyÊlne przest´pstwo skarbowe. Minister SprawiedliwoÊci mo˝e zawiesiç osobie posiadajàcej licencj´ syndyka prawa wynikajàce zlicencji, je˝eli przeciwko tej osobie jest prowadzone post´powanie nieumyÊlne przest´pstwo Êcigane z oskar˝enia publicznego lub nieumyÊlne przest´pstwo skarbowe.
+- **1)** wobec niej jest prowadzone postępowanie oczęściowe lub całkowite ubezwłasnowolnienie, ustanowiono dla niej doradcę tymczasowego;
+- **2)** przeciwko niej jest prowadzone postępowanie umyślne przestępstwo ścigane z oskarżenia publicznego lub umyślne przestępstwo skarbowe. Minister Sprawiedliwości może zawiesić osobie posiadającej licencję syndyka prawa wynikające zlicencji, jeżeli przeciwko tej osobie jest prowadzone postępowanie nieumyślne przestępstwo ścigane z oskarżenia publicznego lub nieumyślne przestępstwo skarbowe.
 
-3. Informacj´ zawieszeniu praw wynikajàcych z licencji syndyka wpisuje si´ na liÊcie osób posiadajàcych licencj´ syndyka oraz przekazuje prezesom sàZmiany w przepisach obowiàzujàcych
+3. Informację zawieszeniu praw wynikających z licencji syndyka wpisuje się na liście osób posiadających licencję syndyka oraz przekazuje prezesom sąZmiany w przepisach obowiązujących
 
-**Art. 21.** W ustawie z dnia 28 lutego 2003 Prawo upad∏oÊciowe naprawcze (Dz. U. 60, 535, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 21.** W ustawie z dnia 28 lutego 2003 Prawo upadłościowe naprawcze (Dz. U. 60, 535, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 22.** W ustawie z dnia 6 czerwca 1997 Kodeks karny (Dz. U. 88, 553, z póên. zm. go lub organu nadrz´dnego nad finansowym organem post´powania przygotowawczego, notariusz, komornik, kurator sàdowy, syndyk, nadzorca sàdowy zarzàdca, osoba orzekajàca w organach dyscyplinarnych dzia∏ajàcych na podstawie ustawy,”. Rozdzia∏ 5 Przepisy przejÊciowe, dostosowujàce koƒcowe
+**Art. 22.** W ustawie z dnia 6 czerwca 1997 Kodeks karny (Dz. U. 88, 553, z póên. zm. go lub organu nadrzędnego nad finansowym organem postępowania przygotowawczego, notariusz, komornik, kurator sądowy, syndyk, nadzorca sądowy zarządca, osoba orzekająca w organach dyscyplinarnych działających na podstawie ustawy,”.
+
+#### Rozdział 5 Przepisy przejściowe, dostosowujące końcowe
 
 **Art. 23.**
 
-1. Syndyk, nadzorca sàdowy lub zarzàdca ich zast´pcy, ustanowieni w post´powaniu uk∏adowym oraz upad∏oÊciowym albo naprawczym przed dniem wejÊcia w ˝ycie ustawy, sprawujà swojà funkcj´ do czasu zakoƒczenia tych post´powaƒ, a tymczasowy nadzorca sàdowy oraz zarzàdca przymusowy do czasu wydania postanowienia wprzedmiocie og∏oszenia upad∏oÊci. ) w art.115 w § 13 pkt 3 otrzymuje brzmienie: W sprawach, w których okreÊlono wst´pne wynagrodzenie nadzorcy sàdowego albo zarzàdcy przed dniem wejÊcia w˝ycie ustawy, do wynagrodzenia stosuje si´ przepisy dotychczasowe.
+1. Syndyk, nadzorca sądowy lub zarządca ich zastępcy, ustanowieni w postępowaniu układowym oraz upadłościowym albo naprawczym przed dniem wejścia w życie ustawy, sprawują swoją funkcję do czasu zakończenia tych postępowań, a tymczasowy nadzorca sądowy oraz zarządca przymusowy do czasu wydania postanowienia wprzedmiocie ogłoszenia upadłości. ) w art.115 w § 13 pkt 3 otrzymuje brzmienie: W sprawach, w których określono wstępne wynagrodzenie nadzorcy sądowego albo zarządcy przed dniem wejścia wżycie ustawy, do wynagrodzenia stosuje się przepisy dotychczasowe.
 
-**Art. 24.** Zdniem wejÊcia w˝ycie ustawy prezesi sàdów okr´gowych zaprzestajà wpisywania osób na listy kandydatów na syndyków prowadzone na podstawie rozporzàdzenia Ministra SprawiedliwoÊci z dnia 16 kwietnia 1998 w sprawie szczególnych kwalifikacji oraz warunków wymaganych od kandydatów na syndyków upad∏oÊci (Dz. U. 55, 359).
+**Art. 24.** Zdniem wejścia wżycie ustawy prezesi sądów okręgowych zaprzestają wpisywania osób na listy kandydatów na syndyków prowadzone na podstawie rozporządzenia Ministra Sprawiedliwości z dnia 16 kwietnia 1998 w sprawie szczególnych kwalifikacji oraz warunków wymaganych od kandydatów na syndyków upadłości (Dz. U. 55, 359).
 
-**Art. 25.** Do czasu uzyskania licencji nie d∏u˝ej jednak ni˝ przez okres trzech lat od dnia wejÊcia w ˝ycie ustawy, osoby wpisane na list´, której mowa wart. 24, mogà byç powo∏ywane do sprawowania funkcji w post´powaniu upad∏oÊciowym naprawczym.
+**Art. 25.** Do czasu uzyskania licencji nie dłużej jednak niż przez okres trzech lat od dnia wejścia w życie ustawy, osoby wpisane na listę, której mowa wart. 24, mogą być powoływane do sprawowania funkcji w postępowaniu upadłościowym naprawczym.
 
-**Art. 26.** W przypadku osób, które w dniu wejÊcia w ˝ycie ustawy posiadajà pi´cioletnià praktyk´ w sprawowaniu funkcji zarzàdcy lub nadzorcy sàdowego w post´powaniach upad∏oÊciowym, uk∏adowym inaprawczym oraz przed 1990 ukoƒczy∏y wy˝sze studia iuzyska∏y dyplom in˝yniera, wymogu okreÊlonego w art. 3 ust. 1 pkt 4 nie stosuje si´.
+**Art. 26.** W przypadku osób, które w dniu wejścia w życie ustawy posiadają pięcioletnią praktykę w sprawowaniu funkcji zarządcy lub nadzorcy sądowego w postępowaniach upadłościowym, układowym inaprawczym oraz przed 1990 ukończyły wyższe studia iuzyskały dyplom inżyniera, wymogu określonego w art. 3 ust. 1 pkt 4 nie stosuje się.
 
-**Art. 27.** W terminie trzech miesi´cy od dnia wejÊcia w ˝ycie ustawy Minister SprawiedliwoÊci powo∏a Komisj´.
+**Art. 27.** W terminie trzech miesięcy od dnia wejścia w życie ustawy Minister Sprawiedliwości powoła Komisję.
 
-**Art. 28.** Ustawa wchodzi w˝ycie po up∏ywie 3 miesi´cy od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski ———————
+**Art. 28.** Ustawa wchodzi wżycie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ———————
 

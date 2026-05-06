@@ -23,31 +23,31 @@ domain: null
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000270341) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/341/text.pdf) |
 
-obroni iamunicji (Dz. U. Nr 53, poz. 549) zarzàdza si´, co nast´puje: § 1. Rozporzàdzenie ustala wymagania w zakresie ochrony Êrodowiska,jakie powinny byç spe∏nione przy budowie iu˝ytkowaniu strzelnic, zwy∏àczeniem strzelnic Si∏ Zbrojnych Rzeczypospolitej Polskiej, Policji, Urz´du Ochrony Paƒstwa, Stra˝y Granicznej oraz S∏u˝by Wi´ziennej.
-§ 2. 1. Strzelnicy nie lokalizuje si´ na obszarach:
+obroni iamunicji (Dz. U. Nr 53, poz. 549) zarządza się, co następuje: § 1. Rozporządzenie ustala wymagania w zakresie ochrony środowiska,jakie powinny być spełnione przy budowie iużytkowaniu strzelnic, zwyłączeniem strzelnic Sił Zbrojnych Rzeczypospolitej Polskiej, Policji, Urzędu Ochrony Państwa, Straży Granicznej oraz Służby Więziennej.
+§ 2. 1. Strzelnicy nie lokalizuje się na obszarach:
 1) parków narodowych,
 2) rezerwatów.
-2. Poziom ha∏asu przenikajàcego do Êrodowiska podczas u˝ytkowania strzelnicy nie mo˝e powodowaç przekraczania dopuszczalnych poziomów ha∏asu w Êrodowisku, okreÊlonych przepisami o ochronie ikszta∏towaniu Êrodowiska.
-§ 4. Na strzelnicy wyznacza si´ i odpowiednio wyposa˝a miejsca gromadzenia odpadów, zgodnie zprzepisami oodpadach.
-§ 5. 1. Na strzelnicy,nie b´dàcej budynkiem lub nie znajdujàcej si´ w budynku, na której wykorzystywana jest amunicja zawierajàca pociski o∏owiane, nale˝y:
-2. Strzelnicy, nie b´dàcej budynkiem lub nie znajdujàcej si´ wbudynku, na której b´dzie wykorzystywana broƒ palna, nie lokalizuje si´ na obszarach, na których g∏´bokoÊç zwierciad∏a wód gruntowych wynosi mniej ni˝ 1 moraz przeznaczonych:
-1) pod zabudow´ mieszkaniowà,
-2) pod szpitale idomy pomocy spo∏ecznej,
-3) pod budynki zwiàzane ze sta∏ym lub wielogodzinnym pobytem dzieci im∏odzie˝y,
+2. Poziom hałasu przenikającego do środowiska podczas użytkowania strzelnicy nie może powodować przekraczania dopuszczalnych poziomów hałasu w środowisku, określonych przepisami o ochronie ikształtowaniu środowiska.
+§ 4. Na strzelnicy wyznacza się i odpowiednio wyposaża miejsca gromadzenia odpadów, zgodnie zprzepisami oodpadach.
+§ 5. 1. Na strzelnicy,nie będącej budynkiem lub nie znajdującej się w budynku, na której wykorzystywana jest amunicja zawierająca pociski ołowiane, należy:
+2. Strzelnicy, nie będącej budynkiem lub nie znajdującej się wbudynku, na której będzie wykorzystywana broń palna, nie lokalizuje się na obszarach, na których głębokość zwierciadła wód gruntowych wynosi mniej niż 1 moraz przeznaczonych:
+1) pod zabudowę mieszkaniową,
+2) pod szpitale idomy pomocy społecznej,
+3) pod budynki związane ze stałym lub wielogodzinnym pobytem dzieci imłodzieży,
 4) na cele uzdrowiskowe,
 5) na cele rekreacyjno-wypoczynkowe.
-3. Strzelnicy, nie b´dàcej budynkiem lub nie znajdujàcej si´ wbudynku, na której b´dzie wykorzystywana broƒ pneumatyczna, nie lokalizuje si´ na obszarach, na których g∏´bokoÊç zwierciad∏a wód gruntowych wynosi mniej ni˝ 1 m.
-§ 3. 1. Strzelnice sà lokalizowane wsposób zapewniajàcy ochron´ Êrodowiska przed ha∏asem.
-1) wierzchnià warstw´ ziemi okresowo oczyszczaç zpocisków wnast´pujàcy sposób:
-a) nie rzadziej ni˝ co 3 lata na strzelnicach, na których g∏´bokoÊç zwierciad∏a wód gruntowych wynosi mniej ni˝ 2 m,
-b) nie rzadziej ni˝ co 5 lat na strzelnicach, na których g∏´bokoÊç zwierciad∏a wód gruntowych wynosi wi´cej ni˝ 2 m,ale mniej ni˝ 3 m,
-c) nie rzadziej ni˝ co 7 lat na strzelnicach, na których g∏´bokoÊç zwierciad∏a wód gruntowych wynosi wi´cej ni˝ 3 m,
-2) w rejonach upadku pocisków nale˝y utrzymywaç odczyn gleby zbli˝ony do neutralnego, o wartoÊciach pH zawartych wprzedziale od 6,5 do 8,5.
-2. Strzelnice, októrych mowa wust. 1, uwa˝a si´ za oczyszczone z pocisków o∏owianych, je˝eli zostanie usuni´te 80% o∏owiu wprowadzonego do gleby wwyniku wykonywanych strzelaƒ.
-§ 6. Rozporzàdzenie wchodzi w ˝ycie po up∏ywie 14dni od dnia og∏oszenia.
+3. Strzelnicy, nie będącej budynkiem lub nie znajdującej się wbudynku, na której będzie wykorzystywana broń pneumatyczna, nie lokalizuje się na obszarach, na których głębokość zwierciadła wód gruntowych wynosi mniej niż 1 m.
+§ 3. 1. Strzelnice są lokalizowane wsposób zapewniający ochronę środowiska przed hałasem.
+1) wierzchnią warstwę ziemi okresowo oczyszczać zpocisków wnastępujący sposób:
+a) nie rzadziej niż co 3 lata na strzelnicach, na których głębokość zwierciadła wód gruntowych wynosi mniej niż 2 m,
+b) nie rzadziej niż co 5 lat na strzelnicach, na których głębokość zwierciadła wód gruntowych wynosi więcej niż 2 m,ale mniej niż 3 m,
+c) nie rzadziej niż co 7 lat na strzelnicach, na których głębokość zwierciadła wód gruntowych wynosi więcej niż 3 m,
+2) w rejonach upadku pocisków należy utrzymywać odczyn gleby zbliżony do neutralnego, o wartościach pH zawartych wprzedziale od 6,5 do 8,5.
+2. Strzelnice, októrych mowa wust. 1, uważa się za oczyszczone z pocisków ołowianych, jeżeli zostanie usunięte 80% ołowiu wprowadzonego do gleby wwyniku wykonywanych strzelań.
+§ 6. Rozporządzenie wchodzi w życie po upływie 14dni od dnia ogłoszenia.
 Dziennik Ustaw Nr 27 — 1636 — Poz. 341 i 342 Minister Ârodowiska: A. Tokarczuk 341 ROZPORZÑDZENIE MINISTRA ÂRODOWISKA zdnia 4 kwietnia 2000 r.
-wsprawie wymagaƒ wzakresie ochrony Êrodowiska dotyczàcych budowy iu˝ytkowania strzelnic.
+wsprawie wymagań wzakresie ochrony środowiska dotyczących budowy iużytkowania strzelnic.
 342 ROZPORZÑDZENIE MINISTRA SPRAW WEWN¢TRZNYCH IADMINISTRACJI zdnia 30 marca 2000 r.
-zmieniajàce rozporzàdzenie wsprawie ustalenia izmiany urz´dowych nazw oraz rodzaju niektórych miejscowoÊci wwojewództwach: dolnoÊlàskim, lubelskim, ma∏opolskim, mazowieckim, opolskim, podkarpackim, Êlàskim, Êwi´tokrzyskim, warmiƒsko-mazurskim iwielkopolskim oraz obiektu fizjograficznego wwojewództwie ∏ódzkim.
-Na podstawie art. 2 ust. 1 rozporzàdzenia Prezyden- oraz onumeracji nieruchomoÊci (Dz. U. Nr 94, poz. 850, ta Rzeczypospolitej zdnia 24 paêdziernika 1934 r. ousta- z 1948 r. Nr 36, poz. 251, z 1971 r. Nr 12, poz. 115 oraz laniu nazw miejscowoÊci i obiektów fizjograficznych z1990 r. Nr 34, poz. 198) zarzàdza si´, co nast´puje:
+zmieniające rozporządzenie wsprawie ustalenia izmiany urzędowych nazw oraz rodzaju niektórych miejscowości wwojewództwach: dolnośląskim, lubelskim, małopolskim, mazowieckim, opolskim, podkarpackim, śląskim, świętokrzyskim, warmińsko-mazurskim iwielkopolskim oraz obiektu fizjograficznego wwojewództwie łódzkim.
+Na podstawie art. 2 ust. 1 rozporządzenia Prezyden- oraz onumeracji nieruchomości (Dz. U. Nr 94, poz. 850, ta Rzeczypospolitej zdnia 24 paêdziernika 1934 r. ousta- z 1948 r. Nr 36, poz. 251, z 1971 r. Nr 12, poz. 115 oraz laniu nazw miejscowości i obiektów fizjograficznych z1990 r. Nr 34, poz. 198) zarządza się, co następuje:
 

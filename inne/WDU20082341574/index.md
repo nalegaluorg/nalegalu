@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082341574) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1574/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 6 wrzeÊnia 2001 r. otransporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 6 września 2001 r. otransporcie drogowym (Dz. U. z 2007 r. Nr 125, poz. 874, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 20 czerwca 1997 r. — Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, zpóên. zm. ), wymienia posiadane przez ) wart. 100bwust. 1 uchyla si´ pkt 14.
+**Art. 2.** Wustawie zdnia 20 czerwca 1997 r. — Prawo o ruchu drogowym (Dz. U. z 2005 r. Nr 108, poz. 908, zpóên. zm. ), wymienia posiadane przez ) wart. 100bwust. 1 uchyla się pkt 14.
 
-**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 39iust. 1 ustawy, októrej mowa w art. 1, zachowujà moc do dnia wejÊcia w ˝ycie przepisów wykonawczych wydanych na podstawie art. 39i ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszà ustawà, nie d∏u˝ej jednak ni˝ do dnia 10 wrzeÊnia 2010 r.
+**Art. 3.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 39iust. 1 ustawy, októrej mowa w art. 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 39i ust. 1 ustawy, o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 10 września 2010 r.
 
-**Art. 4.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1574 USTAWA zdnia 6 grudnia 2008 r. ozmianie ustawy otransporcie drogowym oraz ozmianie ustawy — Prawo oruchu drogowym ———————
+**Art. 4.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1574 USTAWA zdnia 6 grudnia 2008 r. ozmianie ustawy otransporcie drogowym oraz ozmianie ustawy — Prawo oruchu drogowym ———————
 

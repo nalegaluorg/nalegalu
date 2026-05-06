@@ -23,93 +23,103 @@ domain: null
 | Ostatnia zmiana | 2018-06-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000260313) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/313/text.pdf) |
 
-SpoÊród cz∏onków komisji Prezes GUC wyznacza przewodniczàcego pi´ciu wiceprzewodniczàcych ko- Zespó∏ mo˝e przeprowadziç rozmow´ zfunkcjomisji. nariuszem celnym, którego wniosek jest opiniowany, oraz, uzasadnionych przypadkach, z jego prze∏o˝o3. Trzy spoÊród osób, októrych mowa wust. 2, po- nymi iwspó∏pracownikami.
-winny wyznaczone spoÊród przedstawicieli zwiàzków zawodowych. 10. Zespó∏ wydaje opini´ po przeprowadzeniu g∏osowania posiedzeniu zamkni´tym, udziale
-4. Obs∏ug´ kancelaryjnà komisji zapewnia komór- co najmniej 2/3 sk∏adu zespo∏u, tym przewodniczàka kadrowa urz´du, wktórym odbywa posiedzenie cego zespo∏u.
-zespo∏u.
-Wprzypadku ró˝nicy zdaƒ oopinii zespo∏u decy5. Komisja pracuje wzespo∏ach opiniodawczych, duje zwyk∏a wi´kszoÊç g∏osów, a przypadku równej zwanych dalej „zespo∏ami”, powo∏ywanych przez liczby g∏osów zespó∏ przedstawia dwie równorz´dne przewodniczàcego komisji. opinie.
-6. Zespó∏ tworzy przewodniczàcy zespo∏u ipi´- 3. Przewodniczàcy cz∏onkowie zespo∏u mogà ciu cz∏onków komisji.
-Przewodniczàcym zespo∏u jest przewodniczàcy komisji jeden zwiceprzewodniczàcych.
-3. W sk∏ad zespo∏u wchodzi trzech przedstawicieli Prezesa GUC trzech przedstawicieli zwiàzków zawodowych.
-7. Prezes GUC przekazuje przewodniczàcemu komisji wnioski, o których mowa 1, terminie 7 dni dnia otrzymania.
-Przewodniczàcy komisji przydziela wnioski zaopiniowania przewodniczàcym zespo∏ów wterminie 7 dni daty otrzymania.
-8. Posiedzenia zespo∏u wyznacza przewodniczàcy zespo∏u.
-O terminie miejscu posiedzenia zespo∏u przewodniczàcy zespo∏u zawiadamia cz∏onków zespo∏u funkcjonariusza celnego, którego wniosek ma zg∏osiç zdanie odr´bne wraz zjego pisemnym uzasadnieniem.
-11. Zespó∏ wydaje opini´ póêniej wterminie 40 dni daty otrzymania wniosku przez przewodniczàcego zespo∏u.
-Opini´ zespo∏u podpisuje jego przewodniczàcy cz∏onkowie bioràcy udzia∏ wposiedzeniu.
-3. Przewodniczàcy zespo∏u wterminie 5 dni daty wydania opinii przekazuje jà, za poÊrednictwem przewodniczàcego komisji, Prezesowi GUC funkcjonariuszowi celnemu, którego opinia dotyczy.
-12. Prezes GUC rozwiàzuje komisj´ po wykonaniu przez nià zadaƒ okreÊlonych wustawie.
-13. Rozporzàdzenie wchodzi ˝ycie po up∏ywie 14 dni dnia og∏oszenia.
-Minister Finansów: z. J. Bauc ROZPORZÑDZENIE MINISTRA PRACY IPOLITYKI SPO¸ECZNEJ zdnia 14 marca 2000 r.
-wsprawie bezpieczeƒstwa ihigieny pracy r´cznych pracach transportowych.
-Na podstawie art. 237 Kodeksu pracy zarzàdza 2) wymagania dotyczàce organizacji sposobów wysi´, co nast´puje: konywania r´cznych prac transportowych, zuwzgl´dnieniem wymagaƒ ergonomii, Rozdzia∏ Przepisy ogólne 3) dopuszczalne masy przemieszczanych przedmioszenie, uk∏adanie, pchanie, ciàgni´cie, przenoszenie, przesuwanie, przetaczanie przewo˝enie, 2) zapewniç pracownikom informacje dotyczàce przemieszczanego przedmiotu, szczególnoÊci: jego
-2) „pracy dorywczej” rozumie przez to r´czne masy po∏o˝enia jego Êrodka ci´˝koÊci, zw∏aszcza przemieszczanie przedmiotów, ∏adunków ma- wprzypadku,gdy masa jest nierównomiernie rozteria∏ów cz´Êciej 4 razy godzin´, je˝eli ∏o˝ona, ∏àczny czas wykonywania tych prac przekracza 4 godzin dob´, 3) informowaç pracowników o wszystkich aspektach bezpieczeƒstwa ihigieny pracy wymaganiach
-3) „sprz´cie pomocniczym” rozumie przez to ergonomii, tym o wynikach oceny ryzyka zawoÊrodki majàce celu ograniczenie zagro˝eƒ dowego, októrej mowa w§ 4, oÊrodkach beziucià˝liwoÊci zwiàzanych zr´cznym przemieszcza- pieczeƒstwa zapobiegajàcych urazom, azw∏aszcza niem przedmiotów, ∏adunków materia∏ów urazom kr´gos∏upa.
-u∏atwienie wykonywania tych czynnoÊci; Êrodków tych zalicza wszczególnoÊci: pasy, liny, ∏aƒ- W przypadku stwierdzenia, ˝e sposób wykonycuchy, zawiesia, dêwignie, chwytaki, rolki, kleszcze, wania pracy jest nieprawid∏owy istwarza zagro˝enia— uchwyty, nosze, kosze, legary, r´czne wciàgniki pracodawca jest obowiàzany zapewniç wstrzymanie iwciàgarki, krà˝ki iwielokrà˝ki linowe, przestawne tych prac czasu zastosowania odpowiednich dziapochylnie, taczki iwózki. ∏aƒ eliminujàcych te zagro˝enia, z uwzgl´dnieniem dzia∏aƒ, októrych mowa wust.
-3. Pracodawca jest obowiàzany stosowaç odpowiednie rozwiàzania techniczne organizacyjne Rozdzia∏ 2 zmierzajàce wyeliminowania r´cznych prac transportowych. Przepisy ogólne dotyczàce organizacji r´cznych prac transportowych Wrazie braku mo˝liwoÊci wyeliminowania r´cznych prac transportowych, pracodawca celu 6. Organizacja r´cznych prac transportowych, zmniejszenia ucià˝liwoÊci izagro˝eƒ zwiàzanych zwy- tym stosowane metody pracy zapewniç konywaniem tych czynnoÊci jest obowiàzany orga- wszczególnoÊci: nizowaç odpowiednio prac´ iwyposa˝aç pracowników niezb´dny sprz´t pomocniczy Êrodki ochrony ograniczenie d∏ugotrwa∏ego wysi∏ku fizycznego, indywidualnej. wtymzapewnienieodpowiednichprzerw wpracy odpoczynek,
-4. Pracodawca jest obowiàzany oceniaç ryzyko zawodowe wyst´pujàce r´cznych pracach trans- 2) wyeliminowanie nadmiernego obcià˝enia uk∏adu portowych, wszczególnoÊci bioràc pod uwag´: mi´Êniowo-szkieletowego pracownika, a zw∏aszcza urazów kr´gos∏upa, zwiàzanego zrytmem pramas´ przemieszczanego przedmiotu, jego rodzaj cy wymuszonym procesem pracy, ipo∏o˝enie Êrodka ci´˝koÊci,
-3) ograniczenie minimum odleg∏oÊci r´cznego
-2) warunki Êrodowiska pracy, tym szczególnoÊci przedmiotów, temperatur´ wilgotnoÊç powietrza poziom czynników szkodliwych dla zdrowia, 4) uwzgl´dnienie wymagaƒ ergonomii.
-3) organizacj´ pracy, tym stosowane sposoby wy- Przy r´cznym przemieszczaniu konywania pracy, tam gdzie jest to mo˝liwe nale˝y zapewniç sprz´t pomocniczy odpowiednio dobrany wielkoÊci, ma4) indywidualne predyspozycje pracownika, takie jak sy irodzaju, zapewniajàcy bezpieczne idogodne wykosprawnoÊç fizyczna, wiek istan zdrowia. nywanie pracy.
-Ocena ryzyka, o której mowa ust. 1, powinna 7. Organizujàc r´czne prace transportowe naledokonywana organizowaniu r´cznych prac ˝y zapewniç uwzgl´dnienie wymagaƒ ergonomii, transportowych, a tak˝e po ka˝dej zmianie organizacji awszczególnoÊci: pracy. Na podstawie oceny ryzyka zawodowego pracob) istnieje mo˝liwoÊç wystàpienia nag∏ych ruchów przemieszczanego przedmiotu,
-c) cia∏o pracownika znajduje wniestabilnej pozycji,
-d) pochylenie tu∏owia pracownika przekracza 45°.
-Przedmiot przemieszczany r´cznie powinien ograniczaç pola widzenia pracownika.
-8. Przy pracach zwiàzanych z r´cznym przemieszczaniem nale˝y zapewniç wystarczajàcà przestrzeƒ, zw∏aszcza wp∏aszczyênie poziomej, umo˝liwiajàcà zachowanie prawid∏owej pozycji cia∏a pracownika podczas pracy.
-Niedopuszczalne jest r´czne przemieszczanie przez pomieszczenia, schody, korytarze albo drzwi zbyt wàskie wstosunku rozmiarów tych przedmiotów, je˝eli stwarza to zagro˝enia wypadkowe.
-9. Powierzchnia, po której sà przemieszczane r´cznie przedmioty, powinna równa, stabilna inieÊliska.
-PrzejÊcia, drogi transportowe tory torowiska, po których sà przemieszczane przedmioty, powinny spe∏niaç wymagania bezpieczeƒstwa higieny pracy okreÊlone wodr´bnych przepisach.
-10. Pracodawca, uktórego wykonywane sà prace zwiàzane z r´cznym przemieszczaniem niepor´cznych, niestabilnych, ze zmiennym Êrodkiem ci´˝koÊci innych, które z powodu masy, kszta∏tu w∏aÊciwoÊci mogà spowodowaç zagro˝enie wypadkowe, okreÊla wwydanejzgodnie zart. 237 wanie tych czynnoÊci przez co najmniej dwóch pracowników.
-11. Ostre, wystajàce elementy przemieszczanych zabezpieczone sposób zapobiegajàcy powstawaniu urazów.
-Opakowania przemieszczanych r´cznie wykonane zodpowiednio wytrzyma∏ych materia∏ów stwarzaç zagro˝eƒ wypadkowych zwiàzanych szczególnoÊci z kszta∏tem, tym ostrymi kraw´dziami. Je˝eli kszta∏t rozmiar opakowania przeznaczonego r´cznego utrudnia uniemo˝liwia bezpieczne przemieszczanie, opakowanie takie powinno wyposa˝one wodpowiednie uchwyty.
-3. Sposób rozmieszczenia opakowaniach powinien zapewniç stabilnoÊç podczas przemieszczania.
-12. Niedopuszczalne jest przenoszenie iprzetaczanie po pochylniach, zwiàzanych sposób sta∏y z konstrukcjà budynku, o kàcie nachylenia ponad 15°, przenoszenie po schodach o kàcie nachylenia ponad 60°.
-Maksymalne nachylenie pochylni zwiàzanych zbudynkiemoraz drogach transportowych iwmagazynach okreÊlajà odr´bne przepisy.
-3. Niedopuszczalne jest przebywanie pracownika mi´dzy legarami podczas przetaczania po pochy∏o ustawionych legarach.
-Rozdzia∏ 3 2 Kodeksu pracy instrukcji szczegó∏owe zasady bezpiecznego post´powania przemieszczaniu takich przed- Przemieszczanie miotów. Instrukcja ta powinna okreÊlaç szczególnoÊci sposoby post´powania przemieszczaniu tych przedmiotów: przedmiot niepor´czny trudny utrzymania powinien przemieszczany u˝yciu odpowiedniego sprz´tu pomocniczego zapewniajàcego bezpieczeƒstwo podczas pracy,
-2) przedmioty, których Êrodek ci´˝koÊci po ustawieniu pozycji podnoszenia po podniesieniu znajdowa∏by powy˝ej po∏owy wysokoÊci przedmiotu,nie przenoszone r´cznie, chyba ˝e przez pracownika
-13. Masa przenoszonych przez pracownika mo˝e przekraczaç: 30 kg pracy sta∏ej,
+Spośród członków komisji Prezes GUC wyznacza przewodniczącego pięciu wiceprzewodniczących ko- Zespół może przeprowadzić rozmowę zfunkcjomisji. nariuszem celnym, którego wniosek jest opiniowany, oraz, uzasadnionych przypadkach, z jego przełożo3. Trzy spośród osób, októrych mowa wust. 2, po- nymi iwspółpracownikami.
+winny wyznaczone spośród przedstawicieli związków zawodowych. 10. Zespół wydaje opinię po przeprowadzeniu głosowania posiedzeniu zamkniętym, udziale
+4. Obsługę kancelaryjną komisji zapewnia komór- co najmniej 2/3 składu zespołu, tym przewodnicząka kadrowa urzędu, wktórym odbywa posiedzenie cego zespołu.
+zespołu.
+Wprzypadku różnicy zdań oopinii zespołu decy5. Komisja pracuje wzespołach opiniodawczych, duje zwykła większość głosów, a przypadku równej zwanych dalej Ńzespołami”, powoływanych przez liczby głosów zespół przedstawia dwie równorzędne przewodniczącego komisji. opinie.
+6. Zespół tworzy przewodniczący zespołu ipię- 3. Przewodniczący członkowie zespołu mogą ciu członków komisji.
+Przewodniczącym zespołu jest przewodniczący komisji jeden zwiceprzewodniczących.
+3. W skład zespołu wchodzi trzech przedstawicieli Prezesa GUC trzech przedstawicieli związków zawodowych.
+7. Prezes GUC przekazuje przewodniczącemu komisji wnioski, o których mowa 1, terminie 7 dni dnia otrzymania.
+Przewodniczący komisji przydziela wnioski zaopiniowania przewodniczącym zespołów wterminie 7 dni daty otrzymania.
+8. Posiedzenia zespołu wyznacza przewodniczący zespołu.
+O terminie miejscu posiedzenia zespołu przewodniczący zespołu zawiadamia członków zespołu funkcjonariusza celnego, którego wniosek ma zgłosić zdanie odrębne wraz zjego pisemnym uzasadnieniem.
+11. Zespół wydaje opinię póêniej wterminie 40 dni daty otrzymania wniosku przez przewodniczącego zespołu.
+Opinię zespołu podpisuje jego przewodniczący członkowie biorący udział wposiedzeniu.
+3. Przewodniczący zespołu wterminie 5 dni daty wydania opinii przekazuje ją, za pośrednictwem przewodniczącego komisji, Prezesowi GUC funkcjonariuszowi celnemu, którego opinia dotyczy.
+12. Prezes GUC rozwiązuje komisję po wykonaniu przez nią zadań określonych wustawie.
+13. Rozporządzenie wchodzi życie po upływie 14 dni dnia ogłoszenia.
+Minister Finansów: z. J. Bauc ROZPORZÑDZENIE MINISTRA PRACY IPOLITYKI SPOĘECZNEJ zdnia 14 marca 2000 r.
+wsprawie bezpieczeństwa ihigieny pracy ręcznych pracach transportowych.
+Na podstawie art. 237 Kodeksu pracy zarządza 2) wymagania dotyczące organizacji sposobów wysię, co następuje: konywania ręcznych prac transportowych, zuwzględnieniem wymagań ergonomii,
+2) Ńpracy dorywczej” rozumie przez to ręczne masy położenia jego środka ciężkości, zwłaszcza przemieszczanie przedmiotów, ładunków ma- wprzypadku,gdy masa jest nierównomiernie rozteriałów częściej 4 razy godzinę, jeżeli łożona, łączny czas wykonywania tych prac przekracza 4 godzin dobę, 3) informować pracowników o wszystkich aspektach bezpieczeństwa ihigieny pracy wymaganiach
+3) Ńsprzęcie pomocniczym” rozumie przez to ergonomii, tym o wynikach oceny ryzyka zawośrodki mające celu ograniczenie zagrożeń dowego, októrej mowa w§ 4, ośrodkach beziuciążliwości związanych zręcznym przemieszcza- pieczeństwa zapobiegających urazom, azwłaszcza niem przedmiotów, ładunków materiałów urazom kręgosłupa.
+ułatwienie wykonywania tych czynności; środków tych zalicza wszczególności: pasy, liny, łań- W przypadku stwierdzenia, że sposób wykonycuchy, zawiesia, dêwignie, chwytaki, rolki, kleszcze, wania pracy jest nieprawidłowy istwarza zagrożenia— uchwyty, nosze, kosze, legary, ręczne wciągniki pracodawca jest obowiązany zapewnić wstrzymanie iwciągarki, krążki iwielokrążki linowe, przestawne tych prac czasu zastosowania odpowiednich dziapochylnie, taczki iwózki. łań eliminujących te zagrożenia, z uwzględnieniem działań, októrych mowa wust.
+3. Pracodawca jest obowiązany stosować odpowiednie rozwiązania techniczne organizacyjne Rozdział 2 zmierzające wyeliminowania ręcznych prac transportowych. Przepisy ogólne dotyczące organizacji ręcznych prac transportowych Wrazie braku możliwości wyeliminowania ręcznych prac transportowych, pracodawca celu 6. Organizacja ręcznych prac transportowych, zmniejszenia uciążliwości izagrożeń związanych zwy- tym stosowane metody pracy zapewnić konywaniem tych czynności jest obowiązany orga- wszczególności: nizować odpowiednio pracę iwyposażać pracowników niezbędny sprzęt pomocniczy środki ochrony ograniczenie długotrwałego wysiłku fizycznego, indywidualnej. wtymzapewnienieodpowiednichprzerw wpracy odpoczynek,
+4. Pracodawca jest obowiązany oceniać ryzyko zawodowe występujące ręcznych pracach trans- 2) wyeliminowanie nadmiernego obciążenia układu portowych, wszczególności biorąc pod uwagę: mięśniowo-szkieletowego pracownika, a zwłaszcza urazów kręgosłupa, związanego zrytmem pramasę przemieszczanego przedmiotu, jego rodzaj cy wymuszonym procesem pracy, ipołożenie środka ciężkości,
+3) ograniczenie minimum odległości ręcznego
+2) warunki środowiska pracy, tym szczególności przedmiotów, temperaturę wilgotność powietrza poziom czynników szkodliwych dla zdrowia, 4) uwzględnienie wymagań ergonomii.
+3) organizację pracy, tym stosowane sposoby wy- Przy ręcznym przemieszczaniu konywania pracy, tam gdzie jest to możliwe należy zapewnić sprzęt pomocniczy odpowiednio dobrany wielkości, ma4) indywidualne predyspozycje pracownika, takie jak sy irodzaju, zapewniający bezpieczne idogodne wykosprawność fizyczna, wiek istan zdrowia. nywanie pracy.
+Ocena ryzyka, o której mowa ust. 1, powinna 7. Organizując ręczne prace transportowe naledokonywana organizowaniu ręcznych prac ży zapewnić uwzględnienie wymagań ergonomii, transportowych, a także po każdej zmianie organizacji awszczególności: pracy. Na podstawie oceny ryzyka zawodowego pracob) istnieje możliwość wystąpienia nagłych ruchów przemieszczanego przedmiotu,
+c) ciało pracownika znajduje wniestabilnej pozycji,
+d) pochylenie tułowia pracownika przekracza 45°.
+Przedmiot przemieszczany ręcznie powinien ograniczać pola widzenia pracownika.
+8. Przy pracach związanych z ręcznym przemieszczaniem należy zapewnić wystarczającą przestrzeń, zwłaszcza wpłaszczyênie poziomej, umożliwiającą zachowanie prawidłowej pozycji ciała pracownika podczas pracy.
+Niedopuszczalne jest ręczne przemieszczanie przez pomieszczenia, schody, korytarze albo drzwi zbyt wąskie wstosunku rozmiarów tych przedmiotów, jeżeli stwarza to zagrożenia wypadkowe.
+9. Powierzchnia, po której są przemieszczane ręcznie przedmioty, powinna równa, stabilna inieśliska.
+Przejścia, drogi transportowe tory torowiska, po których są przemieszczane przedmioty, powinny spełniać wymagania bezpieczeństwa higieny pracy określone wodrębnych przepisach.
+10. Pracodawca, uktórego wykonywane są prace związane z ręcznym przemieszczaniem nieporęcznych, niestabilnych, ze zmiennym środkiem ciężkości innych, które z powodu masy, kształtu właściwości mogą spowodować zagrożenie wypadkowe, określa wwydanejzgodnie zart. 237 wanie tych czynności przez co najmniej dwóch pracowników.
+11. Ostre, wystające elementy przemieszczanych zabezpieczone sposób zapobiegający powstawaniu urazów.
+Opakowania przemieszczanych ręcznie wykonane zodpowiednio wytrzymałych materiałów stwarzać zagrożeń wypadkowych związanych szczególności z kształtem, tym ostrymi krawędziami. Jeżeli kształt rozmiar opakowania przeznaczonego ręcznego utrudnia uniemożliwia bezpieczne przemieszczanie, opakowanie takie powinno wyposażone wodpowiednie uchwyty.
+3. Sposób rozmieszczenia opakowaniach powinien zapewnić stabilność podczas przemieszczania.
+12. Niedopuszczalne jest przenoszenie iprzetaczanie po pochylniach, związanych sposób stały z konstrukcją budynku, o kącie nachylenia ponad 15°, przenoszenie po schodach o kącie nachylenia ponad 60°.
+Maksymalne nachylenie pochylni związanych zbudynkiemoraz drogach transportowych iwmagazynach określają odrębne przepisy.
+3. Niedopuszczalne jest przebywanie pracownika między legarami podczas przetaczania po pochyło ustawionych legarach.
+2) przedmioty, których środek ciężkości po ustawieniu pozycji podnoszenia po podniesieniu znajdowałby powyżej połowy wysokości przedmiotu,nie przenoszone ręcznie, chyba że przez pracownika
+13. Masa przenoszonych przez pracownika może przekraczać: 30 kg pracy stałej,
 2) 50 kg pracy dorywczej.
-Niedopuszczalne jest r´czne przenoszenie przedmiotów omasie przekraczajàcej 30 kg wysokoÊç powy˝ej 4 mlub odleg∏oÊç przekraczajàcà 25 m.
-15. WartoÊci si∏ u˝ywanych przez pracownika poruszania elementów urzàdzeƒ s∏u˝àcych r´czne- 3) u˝ywali Êrodków ochrony indywidualnej chroniàgo (w szczególnoÊci cych ramiona.
-dêwigni, korb, kó∏) mogà przekraczaç: Rozdzia∏ 5 250 N— wprzypadku obs∏ugi obur´cznej,
-2) 120 N— wprzypadku obs∏ugi jednor´cznej. Przemieszczanie materia∏ów szkodliwych iniebezpiecznych
-16. Dopuszczalne jest r´czne przetaczanie przed- 19. Organizacja metody prac zwiàzanych miotów o kszta∏tach okràg∏ych (w szczególnoÊci beczek, rur odu˝ych Êrednicach),pod warunkiem zacho- z r´cznym przemieszczaniem materia∏ów mogàcych wania wartoÊci si∏ okreÊlonych w§ 14, aponadto stwarzaç zagro˝enia zwiàzku z w∏aÊciwoÊciami spe∏nieniu nast´pujàcych wymagaƒ: (˝ràcych, trujàcych, pylàcych) eliminowaç ograniczaç te zagro˝enia.
-masa r´cznie przetaczanych po terepoziomym mo˝e przekraczaç 300 kg jed- Wymagania dotyczàce stopionego pracownika, nego metalu, materia∏ów wybuchowych butli
-2) masa r´cznie wtaczanych pochylprzez pracownika mo˝e przekraczaç 50 kg.
-Rozdzia∏ 4 Zespo∏owe przenoszenie
-17. Przenoszenie przedmiotów, których d∏ugoÊç przekracza 4 m masa 30 kg, powinno odbywaç zespo∏owo, pod warunkiem aby pracownika przypada∏a masa przekraczajàca: 25 kg pracy sta∏ej,
+Niedopuszczalne jest ręczne przenoszenie przedmiotów omasie przekraczającej 30 kg wysokość powyżej 4 mlub odległość przekraczającą 25 m.
+15. Wartości sił używanych przez pracownika poruszania elementów urządzeń służących ręczne- 3) używali środków ochrony indywidualnej chroniągo (w szczególności cych ramiona.
+dêwigni, korb, kół) mogą przekraczać:
+2) 120 N— wprzypadku obsługi jednoręcznej. Przemieszczanie materiałów szkodliwych iniebezpiecznych
+16. Dopuszczalne jest ręczne przetaczanie przed- 19. Organizacja metody prac związanych miotów o kształtach okrągłych (w szczególności beczek, rur odużych średnicach),pod warunkiem zacho- z ręcznym przemieszczaniem materiałów mogących wania wartości sił określonych w§ 14, aponadto stwarzać zagrożenia związku z właściwościami spełnieniu następujących wymagań: (żrących, trujących, pylących) eliminować ograniczać te zagrożenia.
+masa ręcznie przetaczanych po terepoziomym może przekraczać 300 kg jed- Wymagania dotyczące stopionego pracownika, nego metalu, materiałów wybuchowych butli
+2) masa ręcznie wtaczanych pochylprzez pracownika może przekraczać 50 kg.
+17. Przenoszenie przedmiotów, których długość przekracza 4 m masa 30 kg, powinno odbywać zespołowo, pod warunkiem aby pracownika przypadała masa przekraczająca: 25 kg pracy stałej,
 2) 42 kg pracy dorywczej.
-Niedopuszczalne jest zespo∏owe przemieszczaomasie przekraczajàcej 500 kg.
-18. Przy zespo∏owym przenoszeniu przedmiotów nale˝y zapewniç: dobór pracowników pod wzgl´dem wzrostu iwieku nadzór pracownika doÊwiadczonego zakresie stosowania odpowiednich sposobów r´cznego organizacji pracy, wyznaczonego wtym celu przez pracodawc´,
-2) odst´py pomi´dzy pracownikami co najmniej 0,75 m stosowanie odpowiedniego sprz´tu pomocniczego.
-Przenoszenie d∏ugich iodu˝ej masie powinno odbywaç zastosowaniu sprz´tu pomocniczego, pozwalajàcego transport takich zgazami spr´˝onymi okreÊlajà odr´bne przepisy.
-20. Niedopuszczalne jest przenoszenie przez pracownika materia∏ów ciek∏ych goràcych, ˝ràcych albo o w∏aÊciwoÊciach szkodliwych dla zdrowia, których masa wraz znaczyniem iuchwytem przekracza 25 kg.
-Balony szklane z kwasami innymi cieczami ˝ràcymi przewo˝one specjalnych wózkach.
-3. W wyjàtkowych przypadkach balony, o których mowa ust. 2, mogà przenoszone przez dwóch pracowników odpowiednio wytrzyma∏ych koszach zuchwytami.
-4. Niedopuszczalne jest przenoszenie balonów, októrych mowa wust. 2, plecach przed sobà.
-Rozdzia∏ 6 Przemieszczanie ∏adunków za pomocà poruszanych r´cznie wózków taczek
-21. Dopuszczalna masa ∏adunku przemieszczanego wózku po terenie p∏askim o twardej nawierzchni mo˝e przekraczaç 450 kg pracownika, ∏àcznie zmasà wózka.
-Przy przemieszczaniu ∏adunku wózku po pochyleniach wi´kszych 5% masa ∏adunku, ∏àcznie zmasà wózka, mo˝e przekraczaç 350 kg.
-3. Niedopuszczalne jest r´czne przemieszczanie ∏aszynowym po terenie poziomym, ∏àcznie z masà wózka, mo˝e przekraczaç 600 kg pracownika.
-Przy przemieszczaniu ∏adunku wózku pochyleniach torów wi´kszych 2% masa ∏adunku, ∏àcznie zmasà wózka, mo˝e przekraczaç 450 kg pracownika.
-3. Niedopuszczalne jest przemieszczanie ∏adunków wózkach szynowych pochyleniach torów wi´kszych 4% odleg∏oÊç przekraczajàcà 400 m.
-4. Odleg∏oÊç mi´dzy pojedynczymi wózkami pochyleniach torów powinna wynosiç co najmniej 25 m, apomi´dzy zestawami z∏o˝onymi zkilku wózków co najmniej 50 m.
-5. Hamulce wózków szynowych przemieszczanych zestawie sprawne, tak aby gwarantowa∏y szybkie zatrzymanie zestawu. Wszystkie wózki wchodzàce sk∏ad zestawu ze sobà po∏àczone.
-6. Wózki-wywrotki posiadaç sprawnie funkcjonujàce urzàdzenia zabezpieczajàce przed przypadkowym przechyleniem koleby skrzyni urzàdzenia unieruchomienia wózków wczasie przechylania koleby skrzyni.
-23. Sposób ∏adowania rozmieszczenia ∏adunków wózkach itaczkach powinien zapewniaç równowag´ istabilnoÊç podczas przemieszczania.
-Przedmioty przewo˝one wózkach powinny wystawaç poza obrys wózka przys∏aniaç pola widzenia. Wwyjàtkowych przypadkach dopuszczalne jest przewo˝enie wwarunkach niespe∏nienia tych wymagaƒ, o ile praca odbywa pod nadzorem zapewniajàcym bezpieczne jej wykonanie.
-24. Masa ∏adunku przemieszczanego taczce, ∏àcznie z masà taczki, mo˝e przekraczaç: 100 kg przed przemieszczaniem podczas pracy.
-27. Wciàgarki przyciàgarki posiadaç sprawne hamulce urzàdzenia uniemo˝liwiajàce ruch wsteczny wa∏u b´bna.
-28. Stosowane krà˝ki liny tak dobrane, aby niemo˝liwe by∏o zakleszczenie zsuni´cie liny.
-29. Elementy uk∏adów ci´gnowych stosowanych podczas ∏adunków spe∏niaç wymagania okreÊlone wPolskich Normach.
-Niedopuszczalne jest u˝ywanie lin ∏aƒcuchów uszkodzonych oniedostatecznej wytrzyma∏oÊci albo niew∏aÊciwie zamocowanych.
-3. D∏ugoÊç liny ∏aƒcucha powinna tak dobrana, aby rozwini´ciu, niezb´dnym przemieszczenia ∏adunku, pozosta∏y b´bnie co najmniej 2 zwoje.
-30. Sposób zamocowania ∏adunku haku powinien zapobiegaç jego upadkowi gwa∏townej zmiapo∏o˝enia.
-31. Podnoszenie opuszczanie ∏adunków wmiejscu przebywania pracowników powinno poprzedzone sygna∏em ostrzegawczym. Przebywanie pracowników pod zawieszonym ∏adunkiem jest niedopuszczalne.
-Rozdzia∏ 8 Przepisy koƒcowe
-32. Przepisy rozporzàdzenia stosuje odpowiednio r´cznego ludzi zwierzàt.
-po twardej nawierzchni 75 kg po nawierzchni nie- 33. Przepisy rozporzàdzenia naruszajà wymautwardzonej. gaƒ okreÊlonych przepisach o dozorze technicznym wymagaƒ dotyczàcych r´cznego Niedopuszczalne jest przemieszczanie ∏adunku ci´˝arów, okreÊlonych przepisach o pracach wzbrotaczce po pochyleniach wi´kszych 8% nionych kobietom im∏odocianym.
-odleg∏oÊç przekraczajàcà 200 m.
-34. Traci moc rozporzàdzenie Ministrów Pracy Rozdzia∏ 7 Opieki Spo∏ecznej Zdrowia z dnia kwietnia 1953 r. sprawie bezpieczeƒstwa higieny pracy praPrzemieszczanie ∏adunków cowników zatrudnionych r´cznym dêwiganiu u˝yciu r´cznie nap´dzanych dêwignic iprzenoszeniu ci´˝arów (Dz. U. 22, poz. 89).
+Niedopuszczalne jest zespołowe przemieszczaomasie przekraczającej 500 kg.
+18. Przy zespołowym przenoszeniu przedmiotów należy zapewnić: dobór pracowników pod względem wzrostu iwieku nadzór pracownika doświadczonego zakresie stosowania odpowiednich sposobów ręcznego organizacji pracy, wyznaczonego wtym celu przez pracodawcę,
+2) odstępy pomiędzy pracownikami co najmniej 0,75 m stosowanie odpowiedniego sprzętu pomocniczego.
+Przenoszenie długich iodużej masie powinno odbywać zastosowaniu sprzętu pomocniczego, pozwalającego transport takich zgazami sprężonymi określają odrębne przepisy.
+20. Niedopuszczalne jest przenoszenie przez pracownika materiałów ciekłych gorących, żrących albo o właściwościach szkodliwych dla zdrowia, których masa wraz znaczyniem iuchwytem przekracza 25 kg.
+Balony szklane z kwasami innymi cieczami żrącymi przewożone specjalnych wózkach.
+3. W wyjątkowych przypadkach balony, o których mowa ust. 2, mogą przenoszone przez dwóch pracowników odpowiednio wytrzymałych koszach zuchwytami.
+4. Niedopuszczalne jest przenoszenie balonów, októrych mowa wust. 2, plecach przed sobą.
+21. Dopuszczalna masa ładunku przemieszczanego wózku po terenie płaskim o twardej nawierzchni może przekraczać 450 kg pracownika, łącznie zmasą wózka.
+Przy przemieszczaniu ładunku wózku po pochyleniach większych 5% masa ładunku, łącznie zmasą wózka, może przekraczać 350 kg.
+3. Niedopuszczalne jest ręczne przemieszczanie łaszynowym po terenie poziomym, łącznie z masą wózka, może przekraczać 600 kg pracownika.
+Przy przemieszczaniu ładunku wózku pochyleniach torów większych 2% masa ładunku, łącznie zmasą wózka, może przekraczać 450 kg pracownika.
+3. Niedopuszczalne jest przemieszczanie ładunków wózkach szynowych pochyleniach torów większych 4% odległość przekraczającą 400 m.
+4. Odległość między pojedynczymi wózkami pochyleniach torów powinna wynosić co najmniej 25 m, apomiędzy zestawami złożonymi zkilku wózków co najmniej 50 m.
+5. Hamulce wózków szynowych przemieszczanych zestawie sprawne, tak aby gwarantowały szybkie zatrzymanie zestawu. Wszystkie wózki wchodzące skład zestawu ze sobą połączone.
+6. Wózki-wywrotki posiadać sprawnie funkcjonujące urządzenia zabezpieczające przed przypadkowym przechyleniem koleby skrzyni urządzenia unieruchomienia wózków wczasie przechylania koleby skrzyni.
+23. Sposób ładowania rozmieszczenia ładunków wózkach itaczkach powinien zapewniać równowagę istabilność podczas przemieszczania.
+Przedmioty przewożone wózkach powinny wystawać poza obrys wózka przysłaniać pola widzenia. Wwyjątkowych przypadkach dopuszczalne jest przewożenie wwarunkach niespełnienia tych wymagań, o ile praca odbywa pod nadzorem zapewniającym bezpieczne jej wykonanie.
+24. Masa ładunku przemieszczanego taczce, łącznie z masą taczki, może przekraczać: 100 kg przed przemieszczaniem podczas pracy.
+27. Wciągarki przyciągarki posiadać sprawne hamulce urządzenia uniemożliwiające ruch wsteczny wału bębna.
+28. Stosowane krążki liny tak dobrane, aby niemożliwe było zakleszczenie zsunięcie liny.
+29. Elementy układów cięgnowych stosowanych podczas ładunków spełniać wymagania określone wPolskich Normach.
+Niedopuszczalne jest używanie lin łańcuchów uszkodzonych oniedostatecznej wytrzymałości albo niewłaściwie zamocowanych.
+3. Długość liny łańcucha powinna tak dobrana, aby rozwinięciu, niezbędnym przemieszczenia ładunku, pozostały bębnie co najmniej 2 zwoje.
+30. Sposób zamocowania ładunku haku powinien zapobiegać jego upadkowi gwałtownej zmiapołożenia.
+31. Podnoszenie opuszczanie ładunków wmiejscu przebywania pracowników powinno poprzedzone sygnałem ostrzegawczym. Przebywanie pracowników pod zawieszonym ładunkiem jest niedopuszczalne.
+32. Przepisy rozporządzenia stosuje odpowiednio ręcznego ludzi zwierząt.
+po twardej nawierzchni 75 kg po nawierzchni nie- 33. Przepisy rozporządzenia naruszają wymautwardzonej. gań określonych przepisach o dozorze technicznym wymagań dotyczących ręcznego Niedopuszczalne jest przemieszczanie ładunku ciężarów, określonych przepisach o pracach wzbrotaczce po pochyleniach większych 8% nionych kobietom imłodocianym.
+odległość przekraczającą 200 m.
+34. Traci moc rozporządzenie Ministrów Pracy
+
+#### Rozdział Przepisy ogólne 3) dopuszczalne masy przemieszczanych przedmioszenie, układanie, pchanie, ciągnięcie, przenoszenie, przesuwanie, przetaczanie przewożenie, 2) zapewnić pracownikom informacje dotyczące przemieszczanego przedmiotu, szczególności: jego
+
+#### Rozdział 3 2 Kodeksu pracy instrukcji szczegółowe zasady bezpiecznego postępowania przemieszczaniu takich przed- Przemieszczanie miotów. Instrukcja ta powinna określać szczególności sposoby postępowania przemieszczaniu tych przedmiotów: przedmiot nieporęczny trudny utrzymania powinien przemieszczany użyciu odpowiedniego sprzętu pomocniczego zapewniającego bezpieczeństwo podczas pracy,
+
+#### Rozdział 5 250 N— wprzypadku obsługi oburęcznej,
+
+#### Rozdział 4 Zespołowe przenoszenie
+
+#### Rozdział 6 Przemieszczanie ładunków za pomocą poruszanych ręcznie wózków taczek
+
+#### Rozdział 8 Przepisy końcowe
+
+#### Rozdział 7 Opieki Społecznej Zdrowia z dnia kwietnia 1953 r. sprawie bezpieczeństwa higieny pracy praPrzemieszczanie ładunków cowników zatrudnionych ręcznym dêwiganiu użyciu ręcznie napędzanych dêwignic iprzenoszeniu ciężarów (Dz. U. 22, poz. 89).
 

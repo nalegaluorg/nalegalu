@@ -24,28 +24,28 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061431031) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1031/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 30 czerwca 2005 r. ozmianie ustawy Ordynacja podatkowa oraz zmianie niektórych innych ustaw (Dz. U. 143, poz. 1199) w art. 1 pkt 2 i 3 otrzymujà brzmienie: „2) art. 3a otrzymuje brzmienie: „Art. 3a. § 1. Podania oraz deklaracje okreÊlone w rozporzàdzeniu wydanym na podstawie § 3 mogà byç sk∏adane za pomocà Êrodków komunikacji elektronicznej.
+**Art. 1.** Wustawie zdnia 30 czerwca 2005 r. ozmianie ustawy Ordynacja podatkowa oraz zmianie niektórych innych ustaw (Dz. U. 143, poz. 1199) w art. 1 pkt 2 i 3 otrzymują brzmienie: Ń2) art. 3a otrzymuje brzmienie: ŃArt. 3a. § 1. Podania oraz deklaracje określone w rozporządzeniu wydanym na podstawie § 3 mogą być składane za pomocą środków komunikacji elektronicznej.
 
 **Art. 3c.**
 
-§ 1. Podatnik lub p∏atnik zamierzajàcy sk∏adaç deklaracje w formie elektronicznej:
+§ 1. Podatnik lub płatnik zamierzający składać deklaracje w formie elektronicznej:
 
-- **1)** zawiadamia tym naczelnika urz´du skarbowego w∏aÊciwego w sprawie ewidencji podatników i p∏atników oraz
-- **2)** wskazuje osob´ lub osoby upowa˝nione do sk∏adania deklaracji wtej formie ipodpisywania deklaracji podpisem elektronicznym.
+- **1)** zawiadamia tym naczelnika urzędu skarbowego właściwego w sprawie ewidencji podatników i płatników oraz
+- **2)** wskazuje osobę lub osoby upoważnione do składania deklaracji wtej formie ipodpisywania deklaracji podpisem elektronicznym.
 
-§ 2. Podatnik lub osoba upowa˝niona, której w § 1 pkt 2, sk∏ada za i podaƒ za pomocà Êrodków komunikacji elektronicznej;
+§ 2. Podatnik lub osoba upoważniona, której w § 1 pkt 2, składa za i podań za pomocą środków komunikacji elektronicznej;
 
-- **3)** rodzaje podpisu elektronicznego, którymi powinny byç opatrzone poszczególne typy deklaracji lub pomocà Êrodków komunikacji elektronicznej zg∏oszenie upowa˝nienia.
+- **3)** rodzaje podpisu elektronicznego, którymi powinny być opatrzone poszczególne typy deklaracji lub pomocą środków komunikacji elektronicznej zgłoszenie upoważnienia.
 
-§ 3. Deklaracje mogà byç sk∏adane za pomocà Êrodków komunikacji elektronicznej po potwierdzeniu zgodnoÊci danych zawartych w zawiadomieniu z danymi podanymi w zg∏oszeniu. Potwierdzenie nast´puje w formie zaÊwiadczenia wydanego przez naczelnika urz´du skarbowego wterminie miesiàca od dnia z∏o˝enia zg∏oszenia. ZaÊwiadczenie mo˝e byç tak˝e wydane w formie elektronicznej.
+§ 3. Deklaracje mogą być składane za pomocą środków komunikacji elektronicznej po potwierdzeniu zgodności danych zawartych w zawiadomieniu z danymi podanymi w zgłoszeniu. Potwierdzenie następuje w formie zaświadczenia wydanego przez naczelnika urzędu skarbowego wterminie miesiąca od dnia złożenia zgłoszenia. Zaświadczenie może być także wydane w formie elektronicznej.
 
-§ 4. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia:
+§ 4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-- **1)** tryb sk∏adania oraz wzór zawiadostruktur´ logicznà zg∏oszenia, którym w § 2, uwzgl´dniajàc dane identyfikujàce podatnika lub p∏atnika, dane identyfikujàce osob´ upowa˝nionà oraz zakres jej upowa˝nienia do elektronicznego podpisywania deklaracji.
+- **1)** tryb składania oraz wzór zawiadostrukturę logiczną zgłoszenia, którym w § 2, uwzględniając dane identyfikujące podatnika lub płatnika, dane identyfikujące osobę upoważnioną oraz zakres jej upoważnienia do elektronicznego podpisywania deklaracji.
 
-**Art. 3d.** Sk∏adanie deklaracji za pomocà Êrodków komunikacji elektronicznej wójtowi, burmistrzowi (prezydentowi miasta), staroÊcie, marsza∏kowi województwa regulujà odr´bne przepisy.”;”. lit. a ustawy z dnia 21 czerwca 1996 r. urz´dach iizbach skarbowych (Dz. U. z2004r. 121, poz. 1267 i 273, poz. 2703 oraz z 2005 r. 183, poz. 1538 iNr249, poz. 2104).
+**Art. 3d.** Składanie deklaracji za pomocą środków komunikacji elektronicznej wójtowi, burmistrzowi (prezydentowi miasta), staroście, marszałkowi województwa regulują odrębne przepisy.”;”. lit. a ustawy z dnia 21 czerwca 1996 r. urzędach iizbach skarbowych (Dz. U. z2004r. 121, poz. 1267 i 273, poz. 2703 oraz z 2005 r. 183, poz. 1538 iNr249, poz. 2104).
 
-**Art. 3.** Ustawa wchodzi w ˝ycie z dniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1032 USTAWA z dnia 14 lipca 2006 r. zmianie ustawy zak∏adach opieki zdrowotnej oraz niektórych innych ustaw
+**Art. 3.** Ustawa wchodzi w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1032 USTAWA z dnia 14 lipca 2006 r. zmianie ustawy zakładach opieki zdrowotnej oraz niektórych innych ustaw
 
-**Art. 1.** Wustawie zdnia 30 sierpnia 1991 r. ozak∏adach opieki zdrowotnej (Dz. U. 91, poz. 408, zpóên. zm. zdrowia wymaga udzielania ca∏odobowych lub ca∏odziennych Êwiadczeƒ zdro) wprowadza si´ nast´pujàce zmiany: wotnych w odpowiednio urzàdzonym, sta∏ym pomieszczeniu,
+**Art. 1.** Wustawie zdnia 30 sierpnia 1991 r. ozakładach opieki zdrowotnej (Dz. U. 91, poz. 408, zpóên. zm. zdrowia wymaga udzielania całodobowych lub całodziennych świadczeń zdro) wprowadza się następujące zmiany: wotnych w odpowiednio urządzonym, stałym pomieszczeniu,
 

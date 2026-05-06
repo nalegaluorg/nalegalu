@@ -24,370 +24,388 @@ domain: null
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010630639) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/639/text.pdf) |
 
-**Art. 29.** Orzekanie w sprawach o czyny okreÊlone z2000r. 12, poz. 136 iNr 109, poz. 1157 oraz z2001r. wart. 21—28 nast´puje wtrybie przepisów opost´po- 38, poz. 452) wart. 2 wust. 1 wpkt 10 kropk´ zast´waniu wsprawach owykroczenia. puje si´ przecinkiem idodaje si´ pkt 11 wbrzmieniu: Rozdzia∏ 7 „11) kontrola przestrzegania przepisów o opakowaniach iodpadach opakowaniowych.” Przepisy koƒcowe
+**Art. 29.** Orzekanie w sprawach o czyny określone z2000r. 12, poz. 136 iNr 109, poz. 1157 oraz z2001r. wart. 21—28 następuje wtrybie przepisów opostępo- 38, poz. 452) wart. 2 wust. 1 wpkt 10 kropkę zastęwaniu wsprawach owykroczenia. puje się przecinkiem idodaje się pkt 11 wbrzmieniu:
 
-**Art. 31.** Ustawa wchodzi w˝ycie zdniem 1 stycznia
+#### Rozdział 7 Ń11) kontrola przestrzegania przepisów o opakowaniach iodpadach opakowaniowych.” Przepisy końcowe
 
-**Art. 30.** Wustawie zdnia 20 lipca 1991 r. oInspek- 2002 r., z wyjàtkiem art. 5 ust. 1 pkt 4, który wchodzi cji Ochrony Ârodowiska (Dz. U. 77, poz. 335, z1996r. w˝ycie zdniem 1 stycznia 2003 r. 106, poz. 496, z1997 r. 121, poz. 770, 133, poz. 885 i 141, poz. 943, z 1998 r. 106, poz. 668, Prezydent Rzeczypospolitej Polskiej:A. KwaÊniewski USTAWA zdnia 11 maja 2001 r. oobowiàzkach przedsi´biorców wzakresie gospodarowania niektórymi odpadami oraz oop∏acie produktowej iop∏acie depozytowej. Rozdzia∏ 1 Przepisy ogólne
+**Art. 31.** Ustawa wchodzi wżycie zdniem 1 stycznia
+
+**Art. 30.** Wustawie zdnia 20 lipca 1991 r. oInspek- 2002 r., z wyjątkiem art. 5 ust. 1 pkt 4, który wchodzi cji Ochrony Ârodowiska (Dz. U. 77, poz. 335, z1996r. wżycie zdniem 1 stycznia 2003 r. 106, poz. 496, z1997 r. 121, poz. 770, 133, poz. 885 i 141, poz. 943, z 1998 r. 106, poz. 668, Prezydent Rzeczypospolitej Polskiej:A. Kwaśniewski USTAWA zdnia 11 maja 2001 r. oobowiązkach przedsiębiorców wzakresie gospodarowania niektórymi odpadami oraz oopłacie produktowej iopłacie depozytowej.
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa okreÊla obowiàzki importerów oraz wytwórców produktów, zwanych dalej „przedsi´biorcami”, zwiàzane zwprowadzaniem na rynek krajowy produktów wopakowaniach, których rodzaje okreÊla za∏àcznik nr 1 do ustawy, i produktów wymienionych wza∏àcznikach nr 2 i3 do ustawy, oraz okreÊla zasady ustalania ipobierania op∏aty produktowej iop∏aty depozytowej.
+1. Ustawa określa obowiązki importerów oraz wytwórców produktów, zwanych dalej Ńprzedsiębiorcami”, związane zwprowadzaniem na rynek krajowy produktów wopakowaniach, których rodzaje określa załącznik nr 1 do ustawy, i produktów wymienionych wzałącznikach nr 2 i3 do ustawy, oraz określa zasady ustalania ipobierania opłaty produktowej iopłaty depozytowej.
 
-2. Przez przedsi´biorc´ wprowadzajàcego na rynek krajowy produkty w opakowaniach wymienionych w za∏àczniku nr 1 do ustawy rozumie si´ tak˝e przedsi´biorc´ prowadzàcego jednostk´ handlu detalicznego opowierzchni handlowej powy˝ej 500 m , sprzedajàcego produkty tam pakowane.
+2. Przez przedsiębiorcę wprowadzającego na rynek krajowy produkty w opakowaniach wymienionych w załączniku nr 1 do ustawy rozumie się także przedsiębiorcę prowadzącego jednostkę handlu detalicznego opowierzchni handlowej powyżej 500 m , sprzedającego produkty tam pakowane.
 
-3. Przepisy ustawy stosuje si´ równie˝ do przedsi´biorcy wprowadzajàcego na rynek krajowy w drodze importu towary, których cz´Êciami sk∏adowymi sà produkty wymienione wza∏àcznikach nr 2 i3 do ustawy.
+3. Przepisy ustawy stosuje się również do przedsiębiorcy wprowadzającego na rynek krajowy w drodze importu towary, których częściami składowymi są produkty wymienione wzałącznikach nr 2 i3 do ustawy.
 
-4. W sprawach dotyczàcych gospodarowania odpadami opakowaniowymi i odpadami pou˝ytkowymi, nieuregulowanych ustawà, stosuje si´ przepisy o odpadach.
+4. W sprawach dotyczących gospodarowania odpadami opakowaniowymi i odpadami poużytkowymi, nieuregulowanych ustawą, stosuje się przepisy o odpadach.
 
-5. Przepisy ustawy nie naruszajà postanowieƒ dzia∏u II wtytule Iustawy zdnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska (Dz. U. 62,poz. 627).
+5. Przepisy ustawy nie naruszają postanowień działu II wtytule Iustawy zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. 62,poz. 627).
 
-**Art. 2.** Ilekroç wustawie jest mowa o:
+**Art. 2.** Ilekroć wustawie jest mowa o:
+
+#### Rozdział 2 Obowiązki przedsiębiorców
 
 **Art. 3.**
 
-1. Przedsi´biorca, o którym mowa w art. 1, ma obowiàzek zapewnienia odzysku, a w szczególnoÊci recyklingu odpadów opakowaniowych i pou˝ytkowych.
+1. Przedsiębiorca, o którym mowa w art. 1, ma obowiązek zapewnienia odzysku, a w szczególności recyklingu odpadów opakowaniowych i poużytkowych.
 
-2. Przedsi´biorca, októrym mowa wust. 1, obowiàzany jest do dnia 31 grudnia 2007 r. osiàgnàç docelowy poziom odzysku i recyklingu odpadów opakowaniowych i pou˝ytkowych, co najmniej w wysokoÊci okreÊlonej wza∏àczniku nr 4 do ustawy.
+2. Przedsiębiorca, októrym mowa wust. 1, obowiązany jest do dnia 31 grudnia 2007 r. osiągnąć docelowy poziom odzysku i recyklingu odpadów opakowaniowych i poużytkowych, co najmniej w wysokości określonej wzałączniku nr 4 do ustawy.
 
-3. Poziom odzysku irecyklingu odpadów opakowaniowych ipou˝ytkowych stanowi wyra˝ona wprocentach wartoÊç ilorazu masy lub iloÊci odpadów opakowaniowych i pou˝ytkowych poddanych odpowiednio odzyskowi lub recyklingowi oraz masy lub iloÊci wprowadzonych na rynek opakowaƒ lub produktów, wokreÊlonym czasie.
+3. Poziom odzysku irecyklingu odpadów opakowaniowych ipoużytkowych stanowi wyrażona wprocentach wartość ilorazu masy lub ilości odpadów opakowaniowych i poużytkowych poddanych odpowiednio odzyskowi lub recyklingowi oraz masy lub ilości wprowadzonych na rynek opakowań lub produktów, wokreślonym czasie.
 
-4. Mas´ iiloÊç opakowaƒ wprowadzanych na rynek ustala si´ woparciu oewidencj´ prowadzonà zgodnie zart. 11.
+4. Masę iilość opakowań wprowadzanych na rynek ustala się woparciu oewidencję prowadzoną zgodnie zart. 11.
 
-5. Wprowadzenie na rynek opakowaƒ lub produktów nast´puje, z zastrze˝eniem ust. 6, w dacie ich wydania zmagazynu wcelu ostatecznego wprowadzenia do obrotu.
+5. Wprowadzenie na rynek opakowań lub produktów następuje, z zastrzeżeniem ust. 6, w dacie ich wydania zmagazynu wcelu ostatecznego wprowadzenia do obrotu.
 
-6. W przypadku importu produktów w opakowaniach uwa˝a si´, i˝ importer wprowadza na rynek opakowania wdacie ich dopuszczenia do obrotu wkraju.
+6. W przypadku importu produktów w opakowaniach uważa się, iż importer wprowadza na rynek opakowania wdacie ich dopuszczenia do obrotu wkraju.
 
-7. Opakowania lub produkt uwa˝a si´ za wprowa8. Rada Ministrów okreÊli, wdrodze rozporzàdzenia og∏oszonego na 6 miesi´cy przed dniem jego wejÊcia w ˝ycie, roczne poziomy odzysku i recyklingu odpadów opakowaniowych ipou˝ytkowych, wposzczególnych latach do koƒca 2007 r., uwzgl´dniajàc:
+7. Opakowania lub produkt uważa się za wprowa8. Rada Ministrów określi, wdrodze rozporządzenia ogłoszonego na 6 miesięcy przed dniem jego wejścia w życie, roczne poziomy odzysku i recyklingu odpadów opakowaniowych ipoużytkowych, wposzczególnych latach do końca 2007 r., uwzględniając:
 
-- **1)** potrzeb´ stopniowego tworzenia krajowego systemu odzysku i recyklingu odpadów opakowaniowych i pou˝ytkowych oraz zwi´kszanie jego efektywnoÊci,
-- **2)** dzia∏ania na rzecz konkurencyjnoÊci polskiej gospodarki,
-- **3)** koniecznoÊç realizacji zobowiàzaƒ mi´dzynarodowych.
+- **1)** potrzebę stopniowego tworzenia krajowego systemu odzysku i recyklingu odpadów opakowaniowych i poużytkowych oraz zwiększanie jego efektywności,
+- **2)** działania na rzecz konkurencyjności polskiej gospodarki,
+- **3)** konieczność realizacji zobowiązań międzynarodowych.
 
-9. Przy obliczaniu osiàgni´tych poziomów odzysku przez danego przedsi´biorc´ do masy odpadów opakowaniowych i pou˝ytkowych poddanych odzyskowi dodaje si´:
+9. Przy obliczaniu osiągniętych poziomów odzysku przez danego przedsiębiorcę do masy odpadów opakowaniowych i poużytkowych poddanych odzyskowi dodaje się:
 
-- **1)** mas´ opakowaƒ wielokrotnego u˝ytku u˝ytych podzone do obrotu tylko raz. wtórnie,
-- **2)** mas´ opon zebranych i zregenerowanych (bie˝nikowanych) wkraju,
-- **3)** mas´ olejów bazowych pochodzàcych z regeneracji krajowych olejów odpadowych, zu˝ytych do wytworzenia wprowadzonych na rynek krajowy olejów smarowych, z zastrze˝eniem spe∏nienia warunków okreÊlonych wust. 12 i13.
+- **1)** masę opakowań wielokrotnego użytku użytych podzone do obrotu tylko raz. wtórnie,
+- **2)** masę opon zebranych i zregenerowanych (bieżnikowanych) wkraju,
+- **3)** masę olejów bazowych pochodzących z regeneracji krajowych olejów odpadowych, zużytych do wytworzenia wprowadzonych na rynek krajowy olejów smarowych, z zastrzeżeniem spełnienia warunków określonych wust. 12 i13.
 
-10. Przy obliczaniu osiàgni´tych poziomów recyklingu przez danego przedsi´biorc´ do masy olejów odpadowych poddanych recyklingowi dodaje si´ mas´ olejów bazowych pochodzàcych zregeneracji krajowych olejów odpadowych, zu˝ytych do wytworzenia wprowadzonych na rynek krajowy olejów smarowych, z zastrze˝eniem spe∏nienia warunków okreÊlonych wust. 12 i13.
+10. Przy obliczaniu osiągniętych poziomów recyklingu przez danego przedsiębiorcę do masy olejów odpadowych poddanych recyklingowi dodaje się masę olejów bazowych pochodzących zregeneracji krajowych olejów odpadowych, zużytych do wytworzenia wprowadzonych na rynek krajowy olejów smarowych, z zastrzeżeniem spełnienia warunków określonych wust. 12 i13.
 
-11. Przy obliczaniu poziomu odzysku i recyklingu nie uwzgl´dnia si´ produktów, które sà cz´Êciami sk∏adowymi wyeksportowanych towarów.
+11. Przy obliczaniu poziomu odzysku i recyklingu nie uwzględnia się produktów, które są częściami składowymi wyeksportowanych towarów.
 
-12. Przedsi´biorca produkujàcy w kraju oleje smarowe z udzia∏em wytworzonych w kraju olejów bazowych pochodzàcych z regeneracji mo˝e je w∏àczyç do rzeczywiÊcie uzyskanego poziomu recyklingu, je˝eli:
+12. Przedsiębiorca produkujący w kraju oleje smarowe z udziałem wytworzonych w kraju olejów bazowych pochodzących z regeneracji może je włączyć do rzeczywiście uzyskanego poziomu recyklingu, jeżeli:
 
-- **1)** posiada specjalistycznà instalacj´ umo˝liwiajàcà prowadzenie procesu regeneracji,
-- **2)** posiada zezwolenie wymagane przepisami oochronie Êrodowiska,
-- **3)** uzyskane produkty spe∏niajà normy okreÊlone wprzepisach odr´bnych.
+- **1)** posiada specjalistyczną instalację umożliwiającą prowadzenie procesu regeneracji,
+- **2)** posiada zezwolenie wymagane przepisami oochronie środowiska,
+- **3)** uzyskane produkty spełniają normy określone wprzepisach odrębnych.
 
-13. Minister w∏aÊciwy do spraw Êrodowiska w porozumieniu z ministrem w∏aÊciwym do spraw gospodarki okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki, jakie powinien spe∏niç przedsi´biorca produkujàcy w kraju oleje smarowe z udzia∏em wytworzonych w kraju olejów bazowych pochodzàcych z regeneracji, wcelu w∏àczenia ich do rzeczywiÊcie uzyskanego poziomu recyklingu, uwzgl´dniajàc wnim:
+13. Minister właściwy do spraw środowiska w porozumieniu z ministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, szczegółowe warunki, jakie powinien spełnić przedsiębiorca produkujący w kraju oleje smarowe z udziałem wytworzonych w kraju olejów bazowych pochodzących z regeneracji, wcelu włączenia ich do rzeczywiście uzyskanego poziomu recyklingu, uwzględniając wnim:
 
-- **1)** potrzeb´ bezpiecznego dla Êrodowiska wykorzystania olejów odpadowych,
-- **2)** wymagane instalacje s∏u˝àce regeneracji olejów odpadowych,
-- **3)** spe∏nienie wymagaƒ wynikajàcych z przepisów oodpadach.
+- **1)** potrzebę bezpiecznego dla środowiska wykorzystania olejów odpadowych,
+- **2)** wymagane instalacje służące regeneracji olejów odpadowych,
+- **3)** spełnienie wymagań wynikających z przepisów oodpadach.
 
 **Art. 4.**
 
-1. Obowiàzek, októrym mowa wart. 3 ust.1, mo˝e byç realizowany przez przedsi´biorc´:
+1. Obowiązek, októrym mowa wart. 3 ust.1, może być realizowany przez przedsiębiorcę:
 
 - **1)** samodzielnie albo
-- **2)** za poÊrednictwem organizacji odzysku, zwanej dalej „organizacjà”.
+- **2)** za pośrednictwem organizacji odzysku, zwanej dalej Ńorganizacją”.
 
-2. Organizacja przejmuje od przedsi´biorcy obcià˝ajàce go obowiàzki na podstawie umowy.
+2. Organizacja przejmuje od przedsiębiorcy obciążające go obowiązki na podstawie umowy.
 
-3. Przedsi´biorca lub organizacja mo˝e zleciç wykonanie poszczególnych czynnoÊci zwiàzanych z odzyskiem irecyklingiem osobom trzecim.
+3. Przedsiębiorca lub organizacja może zlecić wykonanie poszczególnych czynności związanych z odzyskiem irecyklingiem osobom trzecim.
 
 **Art. 5.**
 
-1. Organizacja mo˝e prowadziç dzia∏alnoÊç wy∏àcznie wformie spó∏ki akcyjnej.
+1. Organizacja może prowadzić działalność wyłącznie wformie spółki akcyjnej.
 
-2. Przedmiotem dzia∏ania organizacji mo˝e byç wy∏àcznie dzia∏alnoÊç zwiàzana zorganizowaniem, zarzàdzaniem lub prowadzeniem przedsi´wzi´ç zwiàzanych z odzyskiem, a w szczególnoÊci z recyklingiem odpadów, atak˝e edukacja ekologiczna.
+2. Przedmiotem działania organizacji może być wyłącznie działalność związana zorganizowaniem, zarządzaniem lub prowadzeniem przedsięwzięć związanych z odzyskiem, a w szczególności z recyklingiem odpadów, atakże edukacja ekologiczna.
 
-3. Firma organizacji zawiera oznaczenie „organizacja odzysku”.
+3. Firma organizacji zawiera oznaczenie Ńorganizacja odzysku”.
 
-4. Do u˝ywania oznaczenia wskazanego wust. 3 sà uprawnione wy∏àcznie organizacje utworzone zgodnie zniniejszà ustawà.
+4. Do używania oznaczenia wskazanego wust. 3 są uprawnione wyłącznie organizacje utworzone zgodnie zniniejszą ustawą.
 
 **Art. 6.**
 
-1. Kapita∏ zak∏adowy organizacji powinien wynosiç co najmniej 1 000 000 z∏otych, a ponadto nie mo˝e byç zebrany w drodze publicznej subskrypcji, zzastrze˝eniem art. 43.
+1. Kapitał zakładowy organizacji powinien wynosić co najmniej 1 000 000 złotych, a ponadto nie może być zebrany w drodze publicznej subskrypcji, zzastrzeżeniem art. 43.
 
-2. Kapita∏ zak∏adowy organizacji powinien byç pokryty wca∏oÊci wk∏adem pieni´˝nym iwp∏acony wca∏oÊci przed z∏o˝eniem wniosku ozarejestrowanie organizacji.
+2. Kapitał zakładowy organizacji powinien być pokryty wcałości wkładem pieniężnym iwpłacony wcałości przed złożeniem wniosku ozarejestrowanie organizacji.
 
-3. Kapita∏ zak∏adowy organizacji nie mo˝e pochodziç zpo˝yczki lub kredytu ani byç obcià˝ony wjakikolwiek sposób.
+3. Kapitał zakładowy organizacji nie może pochodzić zpożyczki lub kredytu ani być obciążony wjakikolwiek sposób.
 
-4. Organizacja ma obowiàzek utrzymywania kapita∏ów w∏asnych w wysokoÊci co najmniej po∏owy minimalnego kapita∏u zak∏adowego okreÊlonego wust. 1.
+4. Organizacja ma obowiązek utrzymywania kapitałów własnych w wysokości co najmniej połowy minimalnego kapitału zakładowego określonego wust. 1.
 
-5. Akcje organizacji mogà byç wy∏àcznie akcjami imiennymi inie mogà byç zamienione na akcje na okaziciela.
+5. Akcje organizacji mogą być wyłącznie akcjami imiennymi inie mogą być zamienione na akcje na okaziciela.
 
-6. Organizacja nie mo˝e wydawaç akcji oszczególArt. 7.Organizacja jest obowiàzana z∏o˝yç marsza∏kowi województwa, w terminie dwóch tygodni po jej zarejestrowaniu, odpis statutu iwypis zrejestru sàdowego lub postanowienie owpisie do rejestru sàdowego oraz wtym samym terminie odpis wszelkich zmian dokonanych wstatucie lub rejestrze sàdowym.
+6. Organizacja nie może wydawać akcji oszczególArt. 7.Organizacja jest obowiązana złożyć marszałkowi województwa, w terminie dwóch tygodni po jej zarejestrowaniu, odpis statutu iwypis zrejestru sądowego lub postanowienie owpisie do rejestru sądowego oraz wtym samym terminie odpis wszelkich zmian dokonanych wstatucie lub rejestrze sądowym.
 
-**Art. 8.** Organizacja jest zobowiàzana do zachowania w tajemnicy wszelkich danych przekazanych jej przez przedsi´biorców. Obowiàzek zachowania tajemnicy nie dotyczy obowiàzków informacyjnych wynikajàcych zniniejszej ustawy oraz przypadków, wktórych przepisy prawa nakazujà ujawnienie tajemnicy.
+**Art. 8.** Organizacja jest zobowiązana do zachowania w tajemnicy wszelkich danych przekazanych jej przez przedsiębiorców. Obowiązek zachowania tajemnicy nie dotyczy obowiązków informacyjnych wynikających zniniejszej ustawy oraz przypadków, wktórych przepisy prawa nakazują ujawnienie tajemnicy.
 
 **Art. 9.**
 
-1. Przedsi´biorca rozpoczynajàcy dzia∏alnoÊç polegajàcà na wytwarzaniu lub imporcie produktów w opakowaniach, o których mowa w za∏àczniku nr 1 do ustawy, lub produktów, o których mowa w za∏àcznikach nr 2 i3 do ustawy, jest obowiàzany bez wezwania z∏o˝yç zawiadomienie o tym fakcie marsza∏kowi województwa, w terminie 30 dni od dnia rozpocz´cia dzia∏alnoÊci.
+1. Przedsiębiorca rozpoczynający działalność polegającą na wytwarzaniu lub imporcie produktów w opakowaniach, o których mowa w załączniku nr 1 do ustawy, lub produktów, o których mowa w załącznikach nr 2 i3 do ustawy, jest obowiązany bez wezwania złożyć zawiadomienie o tym fakcie marszałkowi województwa, w terminie 30 dni od dnia rozpoczęcia działalności.
 
-2. Za dzieƒ rozpocz´cia dzia∏alnoÊci, októrej mowa w ust. 1, uwa˝a si´ dat´ pierwszej sprzeda˝y lub powstania pierwszego d∏ugu celnego dla produktu w opakowaniu wymienionym w za∏àczniku nr 1 do ustawy lub produktu wymienionego w za∏àcznikach nr2 lub 3 do ustawy.
+2. Za dzień rozpoczęcia działalności, októrej mowa w ust. 1, uważa się datę pierwszej sprzedaży lub powstania pierwszego długu celnego dla produktu w opakowaniu wymienionym w załączniku nr 1 do ustawy lub produktu wymienionego w załącznikach nr2 lub 3 do ustawy.
 
-3. Przedsi´biorca jest obowiàzany wterminie 14dni z∏o˝yç zawiadomienie marsza∏kowi województwa ofakcie likwidacji dzia∏alnoÊci, októrej mowa wust. 1.
+3. Przedsiębiorca jest obowiązany wterminie 14dni złożyć zawiadomienie marszałkowi województwa ofakcie likwidacji działalności, októrej mowa wust. 1.
 
-4. Zawiadomienie, o którym mowa wust. 1 i3, powinno zawieraç:
+4. Zawiadomienie, o którym mowa wust. 1 i3, powinno zawierać:
 
-- **1)** nazw´ i siedzib´ lub imi´ i nazwisko oraz adres przedsi´biorcy,
-- **2)** dat´ rozpocz´cia lub likwidacji dzia∏alnoÊci, októrej mowa wust. 1,
-- **3)** okreÊlenie rodzaju dzia∏alnoÊci,
-- **4)** wskazanie sposobu wykonania obowiàzku, o któnych uprawnieniach. rym mowa wart. 4 ust. 1.
+- **1)** nazwę i siedzibę lub imię i nazwisko oraz adres przedsiębiorcy,
+- **2)** datę rozpoczęcia lub likwidacji działalności, októrej mowa wust. 1,
+- **3)** określenie rodzaju działalności,
+- **4)** wskazanie sposobu wykonania obowiązku, o któnych uprawnieniach. rym mowa wart. 4 ust. 1.
 
-5. Je˝eli dane, o których mowa w ust. 4, ulegnà zmianie, przedsi´biorca jest obowiàzany zg∏osiç jà marsza∏kowi województwa nie póêniej ni˝ do koƒca miesiàca nast´pujàcego po miesiàcu, wktórym nastàpi∏a zmiana.
+5. Jeżeli dane, o których mowa w ust. 4, ulegną zmianie, przedsiębiorca jest obowiązany zgłosić ją marszałkowi województwa nie póêniej niż do końca miesiąca następującego po miesiącu, wktórym nastąpiła zmiana.
 
-6. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, w drodze rozporzàdzenia, wzór zawiadomienia, o którym mowa w ust. 1 i 3, kierujàc si´ potrzebà ujednolicenia zawiadomieƒ.
+6. Minister właściwy do spraw środowiska może określić, w drodze rozporządzenia, wzór zawiadomienia, o którym mowa w ust. 1 i 3, kierując się potrzebą ujednolicenia zawiadomień.
 
 **Art. 10.**
 
-1. Przedsi´biorca, o którym mowa w art. 4 ust. 1 pkt 1, jest obowiàzany do z∏o˝enia sprawozdania rocznego, zawierajàcego informacje o:
+1. Przedsiębiorca, o którym mowa w art. 4 ust. 1 pkt 1, jest obowiązany do złożenia sprawozdania rocznego, zawierającego informacje o:
 
-- **1)** nazwie isiedzibie lub imieniu inazwisku oraz adresie przedsi´biorcy,
-- **2)** odpowiednio masie lub iloÊci opakowaƒ, wymienionych w za∏àczniku nr 1 do ustawy, w których sprzeda∏ produkty, lub sprzedanych produktów wymienionych w za∏àcznikach nr 2 i 3 do ustawy, zpodzia∏em na poszczególne ich rodzaje,
-- **3)** odpowiednio masie lub iloÊci odzyskanych ipoddanych recyklingowi odpadów opakowaniowych i pou˝ytkowych, z podzia∏em na poszczególne ich rodzaje,
-- **4)** osiàgni´tych poziomach odzysku irecyklingu odpadów opakowaniowych i pou˝ytkowych, z podzia∏em na poszczególne ich rodzaje.
+- **1)** nazwie isiedzibie lub imieniu inazwisku oraz adresie przedsiębiorcy,
+- **2)** odpowiednio masie lub ilości opakowań, wymienionych w załączniku nr 1 do ustawy, w których sprzedał produkty, lub sprzedanych produktów wymienionych w załącznikach nr 2 i 3 do ustawy, zpodziałem na poszczególne ich rodzaje,
+- **3)** odpowiednio masie lub ilości odzyskanych ipoddanych recyklingowi odpadów opakowaniowych i poużytkowych, z podziałem na poszczególne ich rodzaje,
+- **4)** osiągniętych poziomach odzysku irecyklingu odpadów opakowaniowych i poużytkowych, z podziałem na poszczególne ich rodzaje.
 
-2. Organizacja jest obowiàzana do z∏o˝enia sprawozdania rocznego, zawierajàcego informacje o:
+2. Organizacja jest obowiązana do złożenia sprawozdania rocznego, zawierającego informacje o:
 
 - **1)** nazwie isiedzibie oraz adresie organizacji,
-- **2)** wykazie przedsi´biorców, wimieniu których dzia∏a∏a,
-- **3)** odpowiednio masie lub iloÊci opakowaƒ, wymienionych w za∏àczniku nr 1 do ustawy, w których przedsi´biorcy wymienieni w wykazie sprzedali produkty, lub sprzedanych przez przedsi´biorców produktów, wymienionych w za∏àcznikach nr 2 i 3 do ustawy, zpodzia∏em na poszczególne ich rodzaje,
-- **4)** odpowiednio masie lub iloÊci odzyskanych ipoddanych recyklingowi odpadów opakowaniowych i pou˝ytkowych, z podzia∏em na poszczególne ich rodzaje,
-- **5)** osiàgni´tych poziomach odzysku irecyklingu odpadów opakowaniowych i pou˝ytkowych, z podzia∏em na poszczególne ich rodzaje.
+- **2)** wykazie przedsiębiorców, wimieniu których działała,
+- **3)** odpowiednio masie lub ilości opakowań, wymienionych w załączniku nr 1 do ustawy, w których przedsiębiorcy wymienieni w wykazie sprzedali produkty, lub sprzedanych przez przedsiębiorców produktów, wymienionych w załącznikach nr 2 i 3 do ustawy, zpodziałem na poszczególne ich rodzaje,
+- **4)** odpowiednio masie lub ilości odzyskanych ipoddanych recyklingowi odpadów opakowaniowych i poużytkowych, z podziałem na poszczególne ich rodzaje,
+- **5)** osiągniętych poziomach odzysku irecyklingu odpadów opakowaniowych i poużytkowych, z podziałem na poszczególne ich rodzaje.
 
-3. Sprawozdania roczne, o których mowa w ust. 1 i2, sk∏adane sà marsza∏kowi województwa wterminie do dnia 31 marca nast´pnego roku.
+3. Sprawozdania roczne, o których mowa w ust. 1 i2, składane są marszałkowi województwa wterminie do dnia 31 marca następnego roku.
 
 **Art. 11.**
 
-1. Przedsi´biorca iorganizacja obowiàzani sà do prowadzenia dodatkowej ewidencji,uwzgl´dniajàc tak˝e wymagania wynikajàce z odr´bnych przepisów, w sposób umo˝liwiajàcy ustalenie uzyskanych poziomów odzysku i recyklingu oraz obliczenie op∏aty produktowej.
+1. Przedsiębiorca iorganizacja obowiązani są do prowadzenia dodatkowej ewidencji,uwzględniając także wymagania wynikające z odrębnych przepisów, w sposób umożliwiający ustalenie uzyskanych poziomów odzysku i recyklingu oraz obliczenie opłaty produktowej.
 
-2. Przedsi´biorca i organizacja sà obowiàzani do przechowywania dodatkowej ewidencji, októrej mowa w ust. 1, oraz innych dokumentów, o których mowa wart. 10 i15, przez 5 lat, liczàc od koƒca roku kalendarzowego, którego dotyczà. Rozdzia∏ 3 Op∏ata produktowa
+2. Przedsiębiorca i organizacja są obowiązani do przechowywania dodatkowej ewidencji, októrej mowa w ust. 1, oraz innych dokumentów, o których mowa wart. 10 i15, przez 5 lat, licząc od końca roku kalendarzowego, którego dotyczą.
+
+#### Rozdział 3 Opłata produktowa
 
 **Art. 12.**
 
-1. Rozliczenie wykonania obowiàzku, októrym mowa wart. 3, nast´puje na koniec roku kalendarzowego.
+1. Rozliczenie wykonania obowiązku, októrym mowa wart. 3, następuje na koniec roku kalendarzowego.
 
-2. Przedsi´biorca, o którym mowa w art. 4 ust. 1 pkt 2, którzy nie wykonali obowiàzku, o którym mowa wart.3, sà obowiàzani do wp∏acania op∏aty produktowej, obliczonej oddzielnie wprzypadku nieosiàgni´cia wymaganego poziomu:
+2. Przedsiębiorca, o którym mowa w art. 4 ust. 1 pkt 2, którzy nie wykonali obowiązku, o którym mowa wart.3, są obowiązani do wpłacania opłaty produktowej, obliczonej oddzielnie wprzypadku nieosiągnięcia wymaganego poziomu:
 
 - **1)** odzysku,
 - **2)** recyklingu.
 
-3. Op∏at´ produktowà oblicza si´ jako iloczyn stawki op∏aty i ró˝nicy pomi´dzy wymaganym a osiàgni´tym poziomem odzysku (recyklingu) przeliczonej na wielkoÊç wyra˝onà wmasie albo iloÊci produktów lub opakowaƒ, zwy∏àczeniem przedsi´biorcy wprowadzajàcego na rynek krajowy, w drodze sprzeda˝y lub importu, akumulatory o∏owiowe (kwasowe).
+3. Opłatę produktową oblicza się jako iloczyn stawki opłaty i różnicy pomiędzy wymaganym a osiągniętym poziomem odzysku (recyklingu) przeliczonej na wielkość wyrażoną wmasie albo ilości produktów lub opakowań, zwyłączeniem przedsiębiorcy wprowadzającego na rynek krajowy, w drodze sprzedaży lub importu, akumulatory ołowiowe (kwasowe).
 
-4. Op∏at´ produktowà oblicza si´ oddzielnie dla ka˝dego rodzaju opakowaƒ wymienionych w za∏àczniku nr 1 do ustawy iproduktów wymienionych wza∏àczniku nr 2 do ustawy (zwy∏àczeniem produktów okreÊlonych wpoz. 4) oraz wza∏àczniku nr 3 do ustawy. pkt 1, albo organizacja, o której mowa w art. 4 ust. 1
+4. Opłatę produktową oblicza się oddzielnie dla każdego rodzaju opakowań wymienionych w załączniku nr 1 do ustawy iproduktów wymienionych wzałączniku nr 2 do ustawy (zwyłączeniem produktów określonych wpoz. 4) oraz wzałączniku nr 3 do ustawy. pkt 1, albo organizacja, o której mowa w art. 4 ust. 1
 
-**Art. 13.** Podstaw´ obliczenia op∏aty produktowej stanowi:
+**Art. 13.** Podstawę obliczenia opłaty produktowej stanowi:
 
 **Art. 14.**
 
-1. Maksymalna stawka op∏aty produktowej wynosi:
+1. Maksymalna stawka opłaty produktowej wynosi:
 
-- **1)** dla opakowaƒ wymienionych wza∏àczniku nr 1 do ustawy 3 z∏ za 1 kg,
-- **2)** dla produktów wymienionych wpoz. 1—3 wza∏àczniku nr 2 do ustawy 150 z∏ za sztuk´,
-- **3)** dla produktów wymienionych wpoz. 5 wza∏àczniku nr 2 do ustawy 50 z∏ za sztuk´,
-- **4)** dla produktów wymienionych wpoz. 6 wza∏àczniku nr 2 do ustawy 5 z∏ za sztuk´,
-- **5)** dla produktów wymienionych wpoz. 1 wza∏àczniku nr 3 do ustawy 2 z∏ za 1 kg,
-- **6)** dla produktów wymienionych wpoz. 2 wza∏àczniku nr 3 do ustawy 3 z∏ za sztuk´,
-- **7)** dla produktów wymienionych wpoz. 3 wza∏àczniku nr 3 do ustawy 2 z∏ za 1 kg dla opony nowej i u˝ywanej regenerowanej (bie˝nikowanej) oraz 8z∏ za 1 kg dla opony u˝ywanej nieregenerowanej (niebie˝nikowanej).
+- **1)** dla opakowań wymienionych wzałączniku nr 1 do ustawy 3 zł za 1 kg,
+- **2)** dla produktów wymienionych wpoz. 1—3 wzałączniku nr 2 do ustawy 150 zł za sztukę,
+- **3)** dla produktów wymienionych wpoz. 5 wzałączniku nr 2 do ustawy 50 zł za sztukę,
+- **4)** dla produktów wymienionych wpoz. 6 wzałączniku nr 2 do ustawy 5 zł za sztukę,
+- **5)** dla produktów wymienionych wpoz. 1 wzałączniku nr 3 do ustawy 2 zł za 1 kg,
+- **6)** dla produktów wymienionych wpoz. 2 wzałączniku nr 3 do ustawy 3 zł za sztukę,
+- **7)** dla produktów wymienionych wpoz. 3 wzałączniku nr 3 do ustawy 2 zł za 1 kg dla opony nowej i używanej regenerowanej (bieżnikowanej) oraz 8zł za 1 kg dla opony używanej nieregenerowanej (niebieżnikowanej).
 
-2. Stawki op∏at, okreÊlone w ust. 1, podlegajà zdniem 1 stycznia ka˝dego roku kalendarzowego podwy˝szeniu wstopniu odpowiadajàcym Êredniorocznemu wskaênikowi cen towarów ius∏ug konsumpcyjnych ogó∏em, przyj´temu w ustawie bud˝etowej za rok poprzedni.
+2. Stawki opłat, określone w ust. 1, podlegają zdniem 1 stycznia każdego roku kalendarzowego podwyższeniu wstopniu odpowiadającym średniorocznemu wskaênikowi cen towarów iusług konsumpcyjnych ogółem, przyjętemu w ustawie budżetowej za rok poprzedni.
 
-3. Minister w∏aÊciwy do spraw Êrodowiska, nie póêniej ni˝ w terminie do dnia 30 wrzeÊnia ka˝dego roku, og∏asza, wdrodze obwieszczenia, wDzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”, wysokoÊç maksymalnych stawek op∏at produktowych na nast´pny rok.
+3. Minister właściwy do spraw środowiska, nie póêniej niż w terminie do dnia 30 września każdego roku, ogłasza, wdrodze obwieszczenia, wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, wysokość maksymalnych stawek opłat produktowych na następny rok.
 
-4. Rada Ministrów, wdrodze rozporzàdzenia, ustali szczegó∏owe stawki op∏at produktowych dla poszczególnych opakowaƒ lub produktów, o których mowa wust. 1, kierujàc si´ negatywnym oddzia∏ywaniem na Êrodowisko odpadów opakowaniowych oraz odpadów pou˝ytkowych z tych produktów, a tak˝e kosztami ich zagospodarowania.
+4. Rada Ministrów, wdrodze rozporządzenia, ustali szczegółowe stawki opłat produktowych dla poszczególnych opakowań lub produktów, o których mowa wust. 1, kierując się negatywnym oddziaływaniem na środowisko odpadów opakowaniowych oraz odpadów poużytkowych z tych produktów, a także kosztami ich zagospodarowania.
 
 **Art. 15.**
 
-1. Przedsi´biorca i organizacja, o których mowa wart. 12 ust. 2, sà obowiàzani do z∏o˝enia marsza∏kowi województwa rocznego sprawozdania o wysokoÊci nale˝nej op∏aty produktowej, z podzia∏em na poszczególne rodzaje opakowaƒ lub produktów iokreÊleniem odpowiednio ich masy lub iloÊci, w terminie do dnia 31 marca roku kalendarzowego nast´pujàcego po roku, którego op∏ata dotyczy.
+1. Przedsiębiorca i organizacja, o których mowa wart. 12 ust. 2, są obowiązani do złożenia marszałkowi województwa rocznego sprawozdania o wysokości należnej opłaty produktowej, z podziałem na poszczególne rodzaje opakowań lub produktów iokreśleniem odpowiednio ich masy lub ilości, w terminie do dnia 31 marca roku kalendarzowego następującego po roku, którego opłata dotyczy.
 
-2. Minister w∏aÊciwy do spraw Êrodowiska wporozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia, wzór sprawozdania, októrym mowa wust. 1, kierujàc si´ potrzebà ujednolicenia sprawozdaƒ.
+2. Minister właściwy do spraw środowiska wporozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wzór sprawozdania, októrym mowa wust. 1, kierując się potrzebą ujednolicenia sprawozdań.
 
 **Art. 16.**
 
-1. Obowiàzek wp∏acenia op∏aty produktowej, obliczonej wsposób okreÊlony wart. 12, powstaje na koniec roku kalendarzowego.
+1. Obowiązek wpłacenia opłaty produktowej, obliczonej wsposób określony wart. 12, powstaje na koniec roku kalendarzowego.
 
-2. Op∏ata produktowa jest wp∏acana na odr´bny rachunek bankowy urz´du marsza∏kowskiego do dnia 31 marca roku kalendarzowego nast´pujàcego po roku, którego op∏ata dotyczy.
+2. Opłata produktowa jest wpłacana na odrębny rachunek bankowy urzędu marszałkowskiego do dnia 31 marca roku kalendarzowego następującego po roku, którego opłata dotyczy.
 
 **Art. 17.**
 
-1. W razie stwierdzenia, ˝e przedsi´biorca lub organizacja, pomimo cià˝àcego obowiàzku, nie dokona∏a wp∏aty op∏aty produktowej lub dokona∏a wp∏aty w wysokoÊci ni˝szej od nale˝nej, marsza∏ek województwa wydaje decyzj´, w której okreÊla wysokoÊç zaleg∏oÊci ztytu∏u op∏aty produktowej wraz zodsetkami za zw∏ok´ naliczonymi od nast´pnego dnia po up∏ywie terminu p∏atnoÊci.
+1. W razie stwierdzenia, że przedsiębiorca lub organizacja, pomimo ciążącego obowiązku, nie dokonała wpłaty opłaty produktowej lub dokonała wpłaty w wysokości niższej od należnej, marszałek województwa wydaje decyzję, w której określa wysokość zaległości ztytułu opłaty produktowej wraz zodsetkami za zwłokę naliczonymi od następnego dnia po upływie terminu płatności.
 
-2. W przypadku niewykonania decyzji okreÊlonej w ust. 1 marsza∏ek województwa ustala, w drodze decyzji, dodatkowà op∏at´ produktowà w wysokoÊci odpowiadajàcej 50% kwoty niewp∏aconej op∏aty produktowej.
+2. W przypadku niewykonania decyzji określonej w ust. 1 marszałek województwa ustala, w drodze decyzji, dodatkową opłatę produktową w wysokości odpowiadającej 50% kwoty niewpłaconej opłaty produktowej.
 
-3. Termin p∏atnoÊci op∏at, októrych mowa wust. 1 i 2, wynosi 14 dni od dnia, w którym decyzja ustalajàca wysokoÊç op∏aty sta∏a si´ ostateczna.
+3. Termin płatności opłat, októrych mowa wust. 1 i 2, wynosi 14 dni od dnia, w którym decyzja ustalająca wysokość opłaty stała się ostateczna.
 
 **Art. 18.**
 
-1. Wrazie nieterminowego uiszczenia op∏at produktowych lub uiszczenia ich w wysokoÊci ni˝szej od kwoty nale˝nej naliczane sà odsetki za zw∏ok´ wwysokoÊci ina zasadach okreÊlonych wprzepisach dzia∏u
+1. Wrazie nieterminowego uiszczenia opłat produktowych lub uiszczenia ich w wysokości niższej od kwoty należnej naliczane są odsetki za zwłokę wwysokości ina zasadach określonych wprzepisach działu
 
-2. Do op∏at produktowych stosuje si´ przepisy opost´powaniu egzekucyjnym wadministracji.
+2. Do opłat produktowych stosuje się przepisy opostępowaniu egzekucyjnym wadministracji.
 
-3. Obowiàzek wp∏acenia op∏aty produktowej przedawnia si´ z up∏ywem 5 lat, liczàc od koƒca roku kalendarzowego, wktórym wp∏ata powinna nastàpiç.
+3. Obowiązek wpłacenia opłaty produktowej przedawnia się z upływem 5 lat, licząc od końca roku kalendarzowego, wktórym wpłata powinna nastąpić.
 
-**Art. 19.** Do ponoszenia op∏at produktowych stosuje si´ odpowiednio przepisy dzia∏u III ustawy Ordynacja podatkowa, z tym ˝e uprawnienia organów podatkowych przys∏ugujà marsza∏kowi województwa. Rozdzia∏ 4 Op∏ata depozytowa
+**Art. 19.** Do ponoszenia opłat produktowych stosuje się odpowiednio przepisy działu III ustawy Ordynacja podatkowa, z tym że uprawnienia organów podatkowych przysługują marszałkowi województwa.
+
+#### Rozdział 4 Opłata depozytowa
 
 **Art. 20.**
 
-1. Sprzedawca detaliczny akumulatora o∏owiowego (kwasowego) jest obowiàzany przy jego sprzeda˝y do przyj´cia zu˝ytego akumulatora.
+1. Sprzedawca detaliczny akumulatora ołowiowego (kwasowego) jest obowiązany przy jego sprzedaży do przyjęcia zużytego akumulatora.
 
-2. Sprzedawca detaliczny jest obowiàzany do pobrania op∏aty depozytowej, je˝eli przy sprzeda˝y akuIII ustawy Ordynacja podatkowa. mulatora o∏owiowego (kwasowego) kupujàcy nie przekaza∏ mu zu˝ytego akumulatora.
+2. Sprzedawca detaliczny jest obowiązany do pobrania opłaty depozytowej, jeżeli przy sprzedaży akuIII ustawy Ordynacja podatkowa. mulatora ołowiowego (kwasowego) kupujący nie przekazał mu zużytego akumulatora.
 
-3. Stawka op∏aty depozytowej wynosi 30 z∏ za sztuk´.
+3. Stawka opłaty depozytowej wynosi 30 zł za sztukę.
 
-4. Sprzedawca detaliczny, októrym mowa wust. 1, przy sprzeda˝y akumulatora o∏owiowego (kwasowego) potwierdza na fakturze VAT lub paragonie fiskalnym wysokoÊç pobranej op∏aty depozytowej.
+4. Sprzedawca detaliczny, októrym mowa wust. 1, przy sprzedaży akumulatora ołowiowego (kwasowego) potwierdza na fakturze VAT lub paragonie fiskalnym wysokość pobranej opłaty depozytowej.
 
 **Art. 21.**
 
-1. Sprzedawca detaliczny, który pobra∏ op∏at´ depozytowà, jest obowiàzany, wterminie 30 dni od daty sprzeda˝y akumulatora o∏owiowego (kwasowego), przyjàç zu˝yty akumulator i zwróciç op∏at´ depozytowà. Sprzedawca detaliczny potwierdza zwrot op∏aty depozytowej na fakturze VAT lub paragonie fiskalnym.
+1. Sprzedawca detaliczny, który pobrał opłatę depozytową, jest obowiązany, wterminie 30 dni od daty sprzedaży akumulatora ołowiowego (kwasowego), przyjąć zużyty akumulator i zwrócić opłatę depozytową. Sprzedawca detaliczny potwierdza zwrot opłaty depozytowej na fakturze VAT lub paragonie fiskalnym.
 
-2. Sprzedawca detaliczny, októrym mowa wust. 1, jest obowiàzany do umieszczenia wpunkcie sprzeda˝y akumulatora o∏owiowego (kwasowego), wwidocznym miejscu, wywieszki informujàcej o:
+2. Sprzedawca detaliczny, októrym mowa wust. 1, jest obowiązany do umieszczenia wpunkcie sprzedaży akumulatora ołowiowego (kwasowego), wwidocznym miejscu, wywieszki informującej o:
 
-- **1)** warunkach i trybie zwrotu zu˝ytego akumulatora iodbioru op∏aty depozytowej wpunkcie sprzeda˝y detalicznej i punktach systemu zbiórki zu˝ytych akumulatorów, stworzonych przez przedsi´biorców, których akumulatory o∏owiowe (kwasowe) sprzedaje,
-- **2)** okreÊlonym w przepisach o Inspekcji Handlowej, prawie sk∏adania skarg i wniosków, dotyczàcych nieprawid∏owoÊci wrealizacji zobowiàzaƒ wynikajàcych zustawy przez sprzedawc´ detalicznego,
-- **3)** instytucji, do której nale˝y sk∏adaç skargi iwnioski dotyczàce nieprawid∏owoÊci w realizacji przez sprzedawc´ zobowiàzaƒ wynikajàcych zustawy.
+- **1)** warunkach i trybie zwrotu zużytego akumulatora iodbioru opłaty depozytowej wpunkcie sprzedaży detalicznej i punktach systemu zbiórki zużytych akumulatorów, stworzonych przez przedsiębiorców, których akumulatory ołowiowe (kwasowe) sprzedaje,
+- **2)** określonym w przepisach o Inspekcji Handlowej, prawie składania skarg i wniosków, dotyczących nieprawidłowości wrealizacji zobowiązań wynikających zustawy przez sprzedawcę detalicznego,
+- **3)** instytucji, do której należy składać skargi iwnioski dotyczące nieprawidłowości w realizacji przez sprzedawcę zobowiązań wynikających zustawy.
 
-**Art. 22.** Sposób magazynowania zu˝ytych akumulatorów przez sprzedawc´ detalicznego nie mo˝e naruszaç przepisów szczególnych o zasadach odzysku, unieszkodliwiania, zbierania itransportu odpadów niebezpiecznych.
+**Art. 22.** Sposób magazynowania zużytych akumulatorów przez sprzedawcę detalicznego nie może naruszać przepisów szczególnych o zasadach odzysku, unieszkodliwiania, zbierania itransportu odpadów niebezpiecznych.
 
 **Art. 23.**
 
-1. Przedsi´biorca wytwarzajàcy lub importujàcy akumulatory o∏owiowe (kwasowe) jest obowiàzany do∏àczyç do produktu informacj´ o warunkach itrybie zwrotu zu˝ytego akumulatora oraz ow∏asnych punktach systemu zbiórki tego odpadu.
+1. Przedsiębiorca wytwarzający lub importujący akumulatory ołowiowe (kwasowe) jest obowiązany dołączyć do produktu informację o warunkach itrybie zwrotu zużytego akumulatora oraz owłasnych punktach systemu zbiórki tego odpadu.
 
-2. Przedsi´biorca, o którym mowa w ust. 1, jest obowiàzany do odebrania na w∏asny koszt od sprzedawcy detalicznego, o którym mowa w art. 20 ust. 1 iart. 21 ust. 1, zu˝ytych akumulatorów iprzekazania ich do recyklingu na zasadach okreÊlonych w przepisach odr´bnych.
+2. Przedsiębiorca, o którym mowa w ust. 1, jest obowiązany do odebrania na własny koszt od sprzedawcy detalicznego, o którym mowa w art. 20 ust. 1 iart. 21 ust. 1, zużytych akumulatorów iprzekazania ich do recyklingu na zasadach określonych w przepisach odrębnych.
 
-3. Wprzypadku gdy zwrot pobranej op∏aty depozytowej przez punkt sprzeda˝y detalicznej jest niemo˝liwy z powodu jego likwidacji lub przerwy w dzia∏alnoÊci, przedsi´biorca wytwarzajàcy lub importujàcy akumulatory o∏owiowe (kwasowe) jest obowiàzany, poprzez w∏asne punkty systemu zbiórki, do przyj´cia zu˝ytego akumulatora wprowadzonego przez niego do obrotu izwrotu op∏aty depozytowej, wterminie 45 dni od daty sprzeda˝y produktu.
+3. Wprzypadku gdy zwrot pobranej opłaty depozytowej przez punkt sprzedaży detalicznej jest niemożliwy z powodu jego likwidacji lub przerwy w działalności, przedsiębiorca wytwarzający lub importujący akumulatory ołowiowe (kwasowe) jest obowiązany, poprzez własne punkty systemu zbiórki, do przyjęcia zużytego akumulatora wprowadzonego przez niego do obrotu izwrotu opłaty depozytowej, wterminie 45 dni od daty sprzedaży produktu.
 
-4. Zwrot op∏aty depozytowej wprzypadku okreÊlonym wust. 3 nast´puje za potwierdzeniem na fakturze VAT lub paragonie fiskalnym, októrym mowa wart. 20 ust. 4.
+4. Zwrot opłaty depozytowej wprzypadku określonym wust. 3 następuje za potwierdzeniem na fakturze VAT lub paragonie fiskalnym, októrym mowa wart. 20 ust. 4.
 
-5. Przedsi´biorca, o którym mowa w ust. 1, jest obowiàzany na w∏asny koszt odebraç wszystkie zu˝yte akumulatory z innych miejsc ni˝ punkty sprzeda˝y detalicznej iprzekazaç je do recyklingu. Rozdzia∏ 5 Obowiàzki organów administracji publicznej
+5. Przedsiębiorca, o którym mowa w ust. 1, jest obowiązany na własny koszt odebrać wszystkie zużyte akumulatory z innych miejsc niż punkty sprzedaży detalicznej iprzekazać je do recyklingu.
+
+#### Rozdział 5 Obowiązki organów administracji publicznej
 
 **Art. 24.**
 
-1. Marsza∏ek województwa jest obowiàzany do przesy∏ania ministrowi w∏aÊciwemu do spraw Êrodowiska oraz Narodowemu Funduszowi sprawozdania zawierajàcego informacj´ o:
+1. Marszałek województwa jest obowiązany do przesyłania ministrowi właściwemu do spraw środowiska oraz Narodowemu Funduszowi sprawozdania zawierającego informację o:
 
-- **1)** wielkoÊciach wprowadzonych na rynek krajowy opakowaƒ i produktów, z podzia∏em na poszczególne rodzaje opakowaƒ i produktów, z wyszczególnieniem odpowiednio masy lub iloÊci,
-- **2)** osiàgni´tych wielkoÊciach odzysku irecyklingu odpadów opakowaniowych i pou˝ytkowych, z wyszczególnieniem odpowiednio masy lub iloÊci,
-- **3)** wp∏ywach zop∏at produktowych wraz zodsetkami, z podzia∏em na poszczególne rodzaje opakowaƒ iproduktów wterminie do dnia 30 kwietnia roku kalendarzowego nast´pujàcego po roku, którego dotyczy sprawozdanie.
+- **1)** wielkościach wprowadzonych na rynek krajowy opakowań i produktów, z podziałem na poszczególne rodzaje opakowań i produktów, z wyszczególnieniem odpowiednio masy lub ilości,
+- **2)** osiągniętych wielkościach odzysku irecyklingu odpadów opakowaniowych i poużytkowych, z wyszczególnieniem odpowiednio masy lub ilości,
+- **3)** wpływach zopłat produktowych wraz zodsetkami, z podziałem na poszczególne rodzaje opakowań iproduktów wterminie do dnia 30 kwietnia roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie.
 
-2. Minister w∏aÊciwy do spraw Êrodowiska wporozumieniu zministrem w∏aÊciwym do spraw gospodarki okreÊli, w drodze rozporzàdzenia, wzór sprawozdania, októrym mowa wust. 1, kierujàc si´ potrzebà ujedArt. 25. Przez marsza∏ka województwa oraz urzàd marsza∏kowski rozumie si´ marsza∏ka województwa lub urzàd marsza∏kowski w∏aÊciwy ze wzgl´du na siedzib´ lub miejsce zamieszkania przedsi´biorcy wprowadzajàcego na rynek krajowy produkty w opakowaniach wymienionych w za∏àczniku nr 1 do ustawy lub produkty wymienione w za∏àcznikach nr 2 i 3 do ustawy, oraz organizacji, awprzypadku braku siedziby lub miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej Marsza∏ka Województwa Mazowieckiego lub Urzàd Marsza∏kowski Województwa Mazowieckiego.
+2. Minister właściwy do spraw środowiska wporozumieniu zministrem właściwym do spraw gospodarki określi, w drodze rozporządzenia, wzór sprawozdania, októrym mowa wust. 1, kierując się potrzebą ujedArt. 25. Przez marszałka województwa oraz urząd marszałkowski rozumie się marszałka województwa lub urząd marszałkowski właściwy ze względu na siedzibę lub miejsce zamieszkania przedsiębiorcy wprowadzającego na rynek krajowy produkty w opakowaniach wymienionych w załączniku nr 1 do ustawy lub produkty wymienione w załącznikach nr 2 i 3 do ustawy, oraz organizacji, awprzypadku braku siedziby lub miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej Marszałka Województwa Mazowieckiego lub Urząd Marszałkowski Województwa Mazowieckiego.
 
-**Art. 26.** Nadzór nad wykonaniem przez sprzedawców detalicznych iprzedsi´biorców obowiàzków wynikajàcych zrozdzia∏u 4ustawy sprawuje Inspekcja Handlowa. Rozdzia∏ 6 Zasady gospodarowania Êrodkami pochodzàcymi zop∏aty produktowej
+**Art. 26.** Nadzór nad wykonaniem przez sprzedawców detalicznych iprzedsiębiorców obowiązków wynikających zrozdziału 4ustawy sprawuje Inspekcja Handlowa.
+
+#### Rozdział 6 Zasady gospodarowania środkami pochodzącymi zopłaty produktowej
 
 **Art. 27.**
 
-1. Urz´dy marsza∏kowskie prowadzà odr´bne rachunki bankowe wcelu gromadzenia iodpowiedniego przekazywania wp∏ywów zop∏aty produktowej.
+1. Urzędy marszałkowskie prowadzą odrębne rachunki bankowe wcelu gromadzenia iodpowiedniego przekazywania wpływów zopłaty produktowej.
 
-2. Wp∏ywy ztytu∏u op∏aty produktowej powi´kszone o przychody z oprocentowania rachunków bankowych ipomniejszone odochody urz´dów marsza∏kowskich, októrych mowa wust. 3, urz´dy marsza∏kowskie przekazujà wterminie 5 dni po up∏ywie terminu, októrym mowa w art. 16 ust. 2, na odr´bny rachunek bankowy Narodowego Funduszu.
+2. Wpływy ztytułu opłaty produktowej powiększone o przychody z oprocentowania rachunków bankowych ipomniejszone odochody urzędów marszałkowskich, októrych mowa wust. 3, urzędy marszałkowskie przekazują wterminie 5 dni po upływie terminu, októrym mowa w art. 16 ust. 2, na odrębny rachunek bankowy Narodowego Funduszu.
 
-3. Wp∏ywy zop∏at produktowych wwysokoÊci 0,5% stanowià dochody bud˝etu województwa samorzàdowego zprzeznaczeniem na koszty egzekucji nale˝noÊci ztytu∏u op∏at produktowych iobs∏ug´ administracyjnà systemu op∏at produktowych.
+3. Wpływy zopłat produktowych wwysokości 0,5% stanowią dochody budżetu województwa samorządowego zprzeznaczeniem na koszty egzekucji należności ztytułu opłat produktowych iobsługę administracyjną systemu opłat produktowych.
 
 **Art. 28.**
 
-1. Wp∏ywy pochodzàce zdodatkowej op∏aty produktowej okreÊlonej wart. 17 ust. 2 sà przekazywane na rachunek Narodowego Funduszu, wterminie 10 dni od ich wp∏ywu na rachunek urz´du marsza∏kowskiego.
+1. Wpływy pochodzące zdodatkowej opłaty produktowej określonej wart. 17 ust. 2 są przekazywane na rachunek Narodowego Funduszu, wterminie 10 dni od ich wpływu na rachunek urzędu marszałkowskiego.
 
-2. Ârodki, o których mowa w ust. 1, przeznaczone sà na cele okreÊlone wart. 29 ust. 5.
+2. Ârodki, o których mowa w ust. 1, przeznaczone są na cele określone wart. 29 ust. 5.
 
 **Art. 29.**
 
-1. Wp∏ywy z tytu∏u op∏aty produktowej od sprzeda˝y produktów wopakowaniach wymienionych wza∏àczniku nr 1 do ustawy sà gromadzone na odr´bnym rachunku bankowym Narodowego Funduszu.
+1. Wpływy z tytułu opłaty produktowej od sprzedaży produktów wopakowaniach wymienionych wzałączniku nr 1 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
 
-2. Wterminie do dnia 30 kwietnia roku kalendarzowego nast´pujàcego po roku, którego op∏ata dotyczy, Narodowy Fundusz przekazuje 70% zgromadzonych Êrodków wojewódzkim funduszom na zasadach okreÊlonych wust. 4.
+2. Wterminie do dnia 30 kwietnia roku kalendarzowego następującego po roku, którego opłata dotyczy, Narodowy Fundusz przekazuje 70% zgromadzonych środków wojewódzkim funduszom na zasadach określonych wust. 4.
 
-3. Wojewódzkie fundusze, w terminie do dnia 31 maja, przekazujà gminom (zwiàzkom gmin) Êrodki, nolicenia sprawozdaƒ. o których mowa w ust. 2, na zasadach okreÊlonych wust. 4.
+3. Wojewódzkie fundusze, w terminie do dnia 31 maja, przekazują gminom (związkom gmin) środki, nolicenia sprawozdań. o których mowa w ust. 2, na zasadach określonych wust. 4.
 
-4. Ârodki pochodzàce zop∏at produktowych za opakowania, powi´kszone oprzychody zoprocentowania, przekazywane sà wojewódzkim funduszom, a nast´pnie gminom (zwiàzkom gmin), proporcjonalnie do iloÊci odpadów opakowaniowych przekazanych do odzysku irecyklingu, wykazanych wsprawozdaniach, októrych mowa wart. 35 ust. 1 i4, na cele, októrych mowa wust. 5.
+4. Ârodki pochodzące zopłat produktowych za opakowania, powiększone oprzychody zoprocentowania, przekazywane są wojewódzkim funduszom, a następnie gminom (związkom gmin), proporcjonalnie do ilości odpadów opakowaniowych przekazanych do odzysku irecyklingu, wykazanych wsprawozdaniach, októrych mowa wart. 35 ust. 1 i4, na cele, októrych mowa wust. 5.
 
-5. Pozosta∏e Êrodki zgromadzone na rachunku bankowym Narodowy Fundusz przeznacza na finansowanie dzia∏aƒ wzakresie:
+5. Pozostałe środki zgromadzone na rachunku bankowym Narodowy Fundusz przeznacza na finansowanie działań wzakresie:
 
 - **1)** odzysku irecyklingu odpadów opakowaniowych,
-- **2)** edukacji ekologicznej dotyczàcej selektywnej zbiórki irecyklingu odpadów opakowaniowych.
+- **2)** edukacji ekologicznej dotyczącej selektywnej zbiórki irecyklingu odpadów opakowaniowych.
 
 **Art. 30.**
 
-1. Wp∏ywy z tytu∏u op∏aty produktowej od sprzeda˝y produktów wymienionych wpoz. 5 i6 wza∏àczniku nr 2 do ustawy sà gromadzone na odr´bnym rachunku bankowym Narodowego Funduszu.
+1. Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych wpoz. 5 i6 wzałączniku nr 2 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
 
-2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie dzia∏aƒ wzakresie:
+2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie działań wzakresie:
 
-- **1)** odzysku i recyklingu odpadów pou˝ytkowych powsta∏ych z akumulatorów niklowo-kadmowych oraz baterii iogniw galwanicznych,
-- **2)** edukacji ekologicznej dotyczàcej selektywnej zbiórki irecyklingu odpadów pou˝ytkowych zakumulatorów niklowo-kadmowych oraz baterii i ogniw galwanicznych.
+- **1)** odzysku i recyklingu odpadów poużytkowych powstałych z akumulatorów niklowo-kadmowych oraz baterii iogniw galwanicznych,
+- **2)** edukacji ekologicznej dotyczącej selektywnej zbiórki irecyklingu odpadów poużytkowych zakumulatorów niklowo-kadmowych oraz baterii i ogniw galwanicznych.
 
 **Art. 31.**
 
-1. Wp∏ywy z tytu∏u op∏aty produktowej od sprzeda˝y produktów wymienionych wpoz. 1—3 wza∏àczniku nr 2 do ustawy sà gromadzone na odr´bnym rachunku bankowym Narodowego Funduszu.
+1. Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych wpoz. 1—3 wzałączniku nr 2 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
 
-2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie dzia∏aƒ wzakresie:
+2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie działań wzakresie:
 
-- **1)** odzysku i recyklingu odpadów pou˝ytkowych powsta∏ych z urzàdzeƒ ch∏odniczych i klimatyzacyjnych,
-- **2)** przedsi´wzi´ç, wtym edukacji ekologicznej, prowadzàcych do ograniczenia u˝ycia substancji zubo˝ajàcych warstw´ ozonowà w urzàdzeniach ch∏odniczych iklimatyzacyjnych.
+- **1)** odzysku i recyklingu odpadów poużytkowych powstałych z urządzeń chłodniczych i klimatyzacyjnych,
+- **2)** przedsięwzięć, wtym edukacji ekologicznej, prowadzących do ograniczenia użycia substancji zubożających warstwę ozonową w urządzeniach chłodniczych iklimatyzacyjnych.
 
 **Art. 32.**
 
-1. Wp∏ywy z tytu∏u op∏aty produktowej od sprzeda˝y produktów wymienionych wpoz. 3 wza∏àczniku nr 3 do ustawy sà gromadzone na odr´bnym rachunku bankowym Narodowego Funduszu.
+1. Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych wpoz. 3 wzałączniku nr 3 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
 
-2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie przedsi´wzi´ç, wtym edukacji ekologicznej, prowadzàcych do odzysku, recyklingu i unieszkodliwiania odpadów pou˝ytkowych zopon.
+2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie przedsięwzięć, wtym edukacji ekologicznej, prowadzących do odzysku, recyklingu i unieszkodliwiania odpadów poużytkowych zopon.
 
 **Art. 33.**
 
-1. Wp∏ywy z tytu∏u op∏aty produktowej od sprzeda˝y produktów wymienionych wpoz. 1 wza∏àczniku nr 3 do ustawy sà gromadzone na odr´bnym ra2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie zbierania iregeneracji odpadów pou˝ytkowych z olejów smarowych oraz na edukacj´ ekologicznà wtym zakresie.
+1. Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych wpoz. 1 wzałączniku nr 3 do ustawy są gromadzone na odrębnym ra2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie zbierania iregeneracji odpadów poużytkowych z olejów smarowych oraz na edukację ekologiczną wtym zakresie.
 
 **Art. 34.**
 
-1. Wp∏ywy z tytu∏u op∏aty produktowej od sprzeda˝y produktów wymienionych wpoz. 2 wza∏àczniku nr 3 do ustawy sà gromadzone na odr´bnym rachunku bankowym Narodowego Funduszu.
+1. Wpływy z tytułu opłaty produktowej od sprzedaży produktów wymienionych wpoz. 2 wzałączniku nr 3 do ustawy są gromadzone na odrębnym rachunku bankowym Narodowego Funduszu.
 
-2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie dzia∏aƒ wzakresie:
+2. Ârodki, októrych mowa wust. 1, Narodowy Fundusz przeznacza na finansowanie działań wzakresie:
 
-- **1)** odzysku, recyklingu i unieszkodliwiania odpadów pou˝ytkowych zlamp wy∏adowczych,
-- **2)** edukacji ekologicznej dotyczàcej selektywnej zbiórki irecyklingu odpadów pou˝ytkowych zlamp wy∏adowczych.
+- **1)** odzysku, recyklingu i unieszkodliwiania odpadów poużytkowych zlamp wyładowczych,
+- **2)** edukacji ekologicznej dotyczącej selektywnej zbiórki irecyklingu odpadów poużytkowych zlamp wyładowczych.
 
 **Art. 35.**
 
-1. Zarzàd gminy (zarzàd zwiàzku gmin) jest obowiàzany do sporzàdzenia rocznego sprawozdania zawierajàcego informacje o: chunku bankowym Narodowego Funduszu.
+1. Zarząd gminy (zarząd związku gmin) jest obowiązany do sporządzenia rocznego sprawozdania zawierającego informacje o: chunku bankowym Narodowego Funduszu.
 
-- **1)** rodzaju i iloÊci odpadów opakowaniowych zebranych przez gmin´ (zwiàzek gmin) lub podmiot dzia∏ajàcy wich imieniu,
-- **2)** rodzaju iiloÊci odpadów opakowaniowych przekazanych przez gmin´ (zwiàzek gmin) lub podmiot dzia∏ajàcy wich imieniu do odzysku irecyklingu,
-- **3)** wydatkach poniesionych na dzia∏ania okreÊlone wpkt 1 i2.
+- **1)** rodzaju i ilości odpadów opakowaniowych zebranych przez gminę (związek gmin) lub podmiot działający wich imieniu,
+- **2)** rodzaju iilości odpadów opakowaniowych przekazanych przez gminę (związek gmin) lub podmiot działający wich imieniu do odzysku irecyklingu,
+- **3)** wydatkach poniesionych na działania określone wpkt 1 i2.
 
-2. Zarzàd gminy (zarzàd zwiàzku gmin) jest obowiàzany przechowywaç przez 5 lat dokumenty potwierdzajàce przekazanie odpadów opakowaniowych do odzysku irecyklingu.
+2. Zarząd gminy (zarząd związku gmin) jest obowiązany przechowywać przez 5 lat dokumenty potwierdzające przekazanie odpadów opakowaniowych do odzysku irecyklingu.
 
-3. Sprawozdanie, o którym mowa w ust. 1, zarzàd gminy (zarzàd zwiàzku gmin) przekazuje, wterminie do dnia 15 lutego roku kalendarzowego nast´pujàcego po roku, którego dotyczy sprawozdanie, marsza∏kowi województwa iwojewódzkiemu funduszowi, w∏aÊciwemu ze wzgl´du na siedzib´ gminy (zwiàzku gmin).
+3. Sprawozdanie, o którym mowa w ust. 1, zarząd gminy (zarząd związku gmin) przekazuje, wterminie do dnia 15 lutego roku kalendarzowego następującego po roku, którego dotyczy sprawozdanie, marszałkowi województwa iwojewódzkiemu funduszowi, właściwemu ze względu na siedzibę gminy (związku gmin).
 
-4. Wojewódzkie fundusze sà obowiàzane przekazaç ministrowi w∏aÊciwemu do spraw Êrodowiska oraz Narodowemu Funduszowi zbiorczà informacj´ o rodzaju i iloÊci odpadów opakowaniowych zebranych przez gminy na terenie danego województwa oraz przekazanych do odzysku i recyklingu, w terminie do dnia 31 marca roku kalendarzowego nast´pujàcego po roku, którego dotyczy informacja, a w terminie do dnia 30 czerwca informacj´ o przekazanych gminom (zwiàzkom gmin) Êrodkach pochodzàcych z op∏at produktowych za opakowania.
+4. Wojewódzkie fundusze są obowiązane przekazać ministrowi właściwemu do spraw środowiska oraz Narodowemu Funduszowi zbiorczą informację o rodzaju i ilości odpadów opakowaniowych zebranych przez gminy na terenie danego województwa oraz przekazanych do odzysku i recyklingu, w terminie do dnia 31 marca roku kalendarzowego następującego po roku, którego dotyczy informacja, a w terminie do dnia 30 czerwca informację o przekazanych gminom (związkom gmin) środkach pochodzących z opłat produktowych za opakowania.
 
-**Art. 36.** Minister w∏aÊciwy do spraw Êrodowiska wporozumieniu zministrem w∏aÊciwym do spraw gospodarki i ministrem w∏aÊciwym do spraw finansów publicznych okreÊli, wdrodze rozporzàdzenia, szczegó∏owe zasady i kryteria gospodarowania Êrodkami z op∏at produktowych, kierujàc si´ koniecznoÊcià uproszczenia procedur przyznawania Êrodków i u∏atwienia korzystania znich. Rozdzia∏ 7 Przepisy karne
+**Art. 36.** Minister właściwy do spraw środowiska wporozumieniu zministrem właściwym do spraw gospodarki i ministrem właściwym do spraw finansów publicznych określi, wdrodze rozporządzenia, szczegółowe zasady i kryteria gospodarowania środkami z opłat produktowych, kierując się koniecznością uproszczenia procedur przyznawania środków i ułatwienia korzystania znich.
 
-**Art. 37.** Kto, b´dàc przedsi´biorcà prowadzàcym organizacj´ odzysku lub dzia∏alnoÊç polegajàcà na wytwarzaniu lub imporcie produktów w opakowaniach lub produktów, okreÊlonych wza∏àcznikach nr 1—3 do ustawy:
+#### Rozdział 7 Przepisy karne
 
-**Art. 38.** Sprzedawca detaliczny akumulatorów o∏owiowych (kwasowych), który:
+**Art. 37.** Kto, będąc przedsiębiorcą prowadzącym organizację odzysku lub działalność polegającą na wytwarzaniu lub imporcie produktów w opakowaniach lub produktów, określonych wzałącznikach nr 1—3 do ustawy:
 
-**Art. 39.** Przedsi´biorca lub importer wprowadzajàcy do obrotu akumulatory o∏owiowe (kwasowe), który:
+**Art. 38.** Sprzedawca detaliczny akumulatorów ołowiowych (kwasowych), który:
 
-**Art. 40.** Orzekanie w sprawach o czyny okreÊlone wart. 37—39 nast´puje wtrybie przepisów opost´powaniu wsprawach owykroczenia. Rozdzia∏ 8 Zmiany wprzepisach obowiàzujàcych, przepisy przejÊciowe ikoƒcowe
+**Art. 39.** Przedsiębiorca lub importer wprowadzający do obrotu akumulatory ołowiowe (kwasowe), który:
 
-**Art. 41.** Wustawie zdnia 8 stycznia 1993 r. opodatku od towarów i us∏ug oraz o podatku akcyzowym (Dz.U. 11, poz. 50, 28, poz. 127 iNr 129, poz. 599, z 1994 r. 132, poz. 670, z 1995 r. 44, poz. 231 i 142, poz. 702 i 703, z 1996 r. 137, poz. 640, z1997r. 111, poz. 722, 123, poz. 776 i780, 137, poz. 926, 141, poz. 943 iNr 162, poz. 1104, z1998 r. 139, poz. 905 i 161, poz. 1076, z 1999 r. 50, poz. 499, 57, poz. 596 i 95, poz. 1100, z 2000 r. Nr68, poz. 805 iNr 105, poz. 1107 oraz z2001 r. 12, poz. 92, 39, poz. 459 i 56, poz. 580) wza∏àczniku „Opakowania ztworzyw sztucznych, wtym równie˝ zastosowane do towarów wnich importowanych”.
+**Art. 40.** Orzekanie w sprawach o czyny określone wart. 37—39 następuje wtrybie przepisów opostępowaniu wsprawach owykroczenia.
 
-**Art. 42.** Wustawie zdnia 20 lipca 1991 r. oInspekcji Ochrony Ârodowiska (Dz.U. 77, poz. 335, z1996r. 106, poz. 496, z 1997 r. 121, poz. 770, 133, poz. 885 i 141, poz. 943, z 1998 r. 106, poz. 668, z2000 r. 12, poz. 136 iNr109, poz. 1157 oraz z2001r. 38, poz. 452 i 63, poz. 638) w art. 2 w ust. 1 w pkt 11 kropk´ zast´puje si´ przecinkiem i dodaje pkt12 wbrzmieniu: „12) kontrola przestrzegania przepisów oobowiàzkach przedsi´biorców w zakresie gospodarowania niektórymi odpadami oraz o op∏acie produktowej iop∏acie depozytowej.”
+#### Rozdział 8 Zmiany wprzepisach obowiązujących, przepisy przejściowe ikońcowe
 
-**Art. 43.** Do dnia 1 stycznia 2003 r. kapita∏ zak∏adowy spó∏ek akcyjnych—organizacji odzysku mo˝e wynosiç 500 tys. z∏.
+**Art. 41.** Wustawie zdnia 8 stycznia 1993 r. opodatku od towarów i usług oraz o podatku akcyzowym (Dz.U. 11, poz. 50, 28, poz. 127 iNr 129, poz. 599, z 1994 r. 132, poz. 670, z 1995 r. 44, poz. 231 i 142, poz. 702 i 703, z 1996 r. 137, poz. 640, z1997r. 111, poz. 722, 123, poz. 776 i780, 137, poz. 926, 141, poz. 943 iNr 162, poz. 1104, z1998 r. 139, poz. 905 i 161, poz. 1076, z 1999 r. 50, poz. 499, 57, poz. 596 i 95, poz. 1100, z 2000 r. Nr68, poz. 805 iNr 105, poz. 1107 oraz z2001 r. 12, poz. 92, 39, poz. 459 i 56, poz. 580) wzałączniku ŃOpakowania ztworzyw sztucznych, wtym również zastosowane do towarów wnich importowanych”.
+
+**Art. 42.** Wustawie zdnia 20 lipca 1991 r. oInspekcji Ochrony Ârodowiska (Dz.U. 77, poz. 335, z1996r. 106, poz. 496, z 1997 r. 121, poz. 770, 133, poz. 885 i 141, poz. 943, z 1998 r. 106, poz. 668, z2000 r. 12, poz. 136 iNr109, poz. 1157 oraz z2001r. 38, poz. 452 i 63, poz. 638) w art. 2 w ust. 1 w pkt 11 kropkę zastępuje się przecinkiem i dodaje pkt12 wbrzmieniu: Ń12) kontrola przestrzegania przepisów oobowiązkach przedsiębiorców w zakresie gospodarowania niektórymi odpadami oraz o opłacie produktowej iopłacie depozytowej.”
+
+**Art. 43.** Do dnia 1 stycznia 2003 r. kapitał zakładowy spółek akcyjnych—organizacji odzysku może wynosić 500 tys. zł.
 
 **Art. 44.**
 
-1. Przedsi´biorca, który w dniu wejÊcia w˝ycie ustawy wprowadza na rynek krajowy produkty w opakowaniach wymienionych w za∏àczniku nr 1 do ustawy lub produkty wymienione w za∏àcznikach nr 2 i 3 do ustawy, jest obowiàzany bez wezwania zg∏osiç ten fakt marsza∏kowi województwa, w terminie 30 dni od dnia wejÊcia w˝ycie ustawy.
+1. Przedsiębiorca, który w dniu wejścia wżycie ustawy wprowadza na rynek krajowy produkty w opakowaniach wymienionych w załączniku nr 1 do ustawy lub produkty wymienione w załącznikach nr 2 i 3 do ustawy, jest obowiązany bez wezwania zgłosić ten fakt marszałkowi województwa, w terminie 30 dni od dnia wejścia wżycie ustawy.
 
-2. Do przedsi´biorcy, októrym mowa wust. 1, stosuje si´ przepisy art. 9 ust. 4.
+2. Do przedsiębiorcy, októrym mowa wust. 1, stosuje się przepisy art. 9 ust. 4.
 
 **Art. 45.**
 
-1. Przepisów ustawy nie stosuje si´ do dnia 1 stycznia 2004 r. wstosunku do przedsi´biorców, którzy w2000 r. spe∏nili ∏àcznie nast´pujàce warunki:
+1. Przepisów ustawy nie stosuje się do dnia 1 stycznia 2004 r. wstosunku do przedsiębiorców, którzy w2000 r. spełnili łącznie następujące warunki:
 
-- **1)** osiàgn´li przychód netto ze sprzeda˝y towarów, wyrobów i us∏ug oraz operacji finansowych poni˝ej 500 tys. z∏,
-- **2)** nie dokonywali do dnia 31 grudnia 2000 r. importu towarów u˝ywanych lub odpadów, zzastrze˝eniem ust. 2 i3.
+- **1)** osiągnęli przychód netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych poniżej 500 tys. zł,
+- **2)** nie dokonywali do dnia 31 grudnia 2000 r. importu towarów używanych lub odpadów, zzastrzeżeniem ust. 2 i3.
 
-2. Przedsi´biorca, który osiàgnie w2001 r. przychód netto ze sprzeda˝y towarów, wyrobów i us∏ug oraz operacji finansowych ponad 500 tys. z∏ lub dokona w tym czasie importu towarów u˝ywanych lub odpadów, stosuje przepisy ustawy od dnia 1 stycznia 2002r.
+2. Przedsiębiorca, który osiągnie w2001 r. przychód netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych ponad 500 tys. zł lub dokona w tym czasie importu towarów używanych lub odpadów, stosuje przepisy ustawy od dnia 1 stycznia 2002r.
 
-3. Przedsi´biorca, który osiàgnie w2002 r. przychód netto ze sprzeda˝y towarów, wyrobów i us∏ug oraz operacji finansowych ponad 500 tys. z∏ lub dokona w tym czasie importu towarów u˝ywanych lub odpadów, stosuje przepisy ustawy od dnia 1 stycznia 2003r.
+3. Przedsiębiorca, który osiągnie w2002 r. przychód netto ze sprzedaży towarów, wyrobów i usług oraz operacji finansowych ponad 500 tys. zł lub dokona w tym czasie importu towarów używanych lub odpadów, stosuje przepisy ustawy od dnia 1 stycznia 2003r.
 
-**Art. 46.** Ustawa wchodzi w˝ycie zdniem 1 stycznia 2002 r. nr 6 „Wykaz wyrobów akcyzowych” skreÊla si´ poz. 20 Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski RODZAJE OPAKOWA¡ Symbol PKWiU Rodzaje opakowaƒ (jednostkowych, transportowych i zbiorczych) 1 2 3 1 25.22 opakowania z tworzyw sztucznych 17.40.21-50 17.40.21-73 17.40.21-75 2 28.72.12 opakowania z aluminium, o pojemnoÊci mniejszej od 300 l 3 28.72.11 opakowania z blachy bia∏ej i lekkiej innej ni˝ aluminiowa 4 21.21.12 opakowania z papieru i tektury 21.21.13 21.21.14 21.21.15-30 5 26.13.11 opakowania ze szk∏a gospodarczego, poza ampu∏kami 6 bez wzgl´du opakowania z materia∏ów naturalnych (drewna i tekstyliów) na symbol PKWiU 7 bez wzgl´du opakowania wielomateria∏owe na symbol PKWiU RODZAJE PRODUKTÓW Symbol PKWiU Rodzajproduktu 1 2 3 1 29.23.12 urzàdzenia klimatyzacyjne zawierajàce substancje zubo˝ajàce warstw´ ozonowà (CFC i HCFC) 2 29.23.13 urzàdzenia ch∏odnicze i zamra˝ajàce oraz pompy ciep∏a poza urzàdzeniami dla gospodarstw domowych zawierajàce substancje zubo˝ajàce warstw´ ozonowà (CFC i HCFC)* 3 29.71.11 ch∏odziarki i zamra˝arki typu domowego zawierajàce substancje zubo˝ajàce warstw´ ozonowà (CFC i HCFC)* 4 31.40.21 akumulatory o∏owiowe (kwasowe) 31.40.22 5 31.40.23 akumulatory niklowo-kadmowe: wielkogabarytowe, ma∏ogabarytowe (wraz z pakietami) 6 31.40.1, ogniwa i baterie galwaniczne, bez ich cz´Êci: z wy∏àczeniem guzikowe, 31.40.13 baterie pierwotne, pozosta∏e baterie wtórne . Symbol PKWiU Rodzajproduktu 1 2 3 RODZAJE POZOSTA¸YCH PRODUKTÓW 1 23.20.18 oleje smarowe, z wy∏àczeniem: z wy∏àczeniem: 23.20.18-01 oleje bazowe, 23.20.18-09.10 oleje przepracowane 2 bez wzgl´du lampy wy∏adowcze, z wy∏àczeniem Êwietlówek kompaktowych na symbol PKWiU 3 25.11.11 opony nowe, u˝ywane regenerowane (bie˝nikowane), u˝ywane nieregenerowane 25.11.13-55 (niebie˝nikowane) 25.11.13-57 25.11.14-04 25.11.14-05 25.11.20 25.12.10-30.00 25.12.10-50 25.12.10-90 DOCELOWE PROCENTOWE POZIOMY ODZYSKU I RECYKLINGU DLA ODPADÓW OPAKOWANIOWYCH I POU˚YTKOWYCH W STOSUNKU DO MASY LUB ILOÂCI WPROWADZONYCH NA RYNEK KRAJOWY, W DRODZE SPRZEDA˚Y LUB IMPORTU, OPAKOWA¡ I PRODUKTÓW Odpad powsta∏y z: Poziom Poziom odzysku recyklingu rodzaj produktów symbol PKWiU 1 2 3 4 5 1 opakowania razem bez wzgl´du 50 25 na symbol PKWiU 2 opakowania z tworzyw sztucznych 25.22 25 17.40.21-50 17.40.21-73 17.40.21-75 3 opakowania z aluminium, 28.72.12 40 o pojemnoÊci mniejszej od 300 l 4 opakowania z blachy bia∏ej 28.72.11 20 i lekkiej innej ni˝ aluminiowa 5 opakowania z papieru i tektury 21.21.12 48 21.21.13 21.21.14 21.21.15-30 6 opakowania ze szk∏a gospodarczego, 26.13.11 40 poza ampu∏kami 7 opakowania z materia∏ów naturalnych bez wzgl´du 15 (drewna i tekstyliów) na symbol PKWiU 1 2 3 4 5 8 opakowania wielomateria∏owe bez wzgl´du 25 na symbol PKWiU 9 urzàdzenia klimatyzacyjne zawierajàce 29.23.12 50 50 substancje zubo˝ajàce warstw´ ozonowà (CFC i HCFC) 10 urzàdzenia ch∏odnicze i zamra˝ajàce 29.23.13 70 70 oraz pompy ciep∏a poza urzàdzeniami dla gospodarstw domowych zawierajàce substancje zubo˝ajàce warstw´ ozonowà (CFC i HCFC) 11 ch∏odziarki i zamra˝arki typu domowego 29.71.11 50 50 zawierajàce substancje zubo˝ajàce warstw´ ozonowà (CFC i HCFC) 12 akumulatory o∏owiowe (kwasowe) 31.40.21 wszystkie wszystkie 31.40.22 zg∏oszone zebrane 13 akumulatory niklowo-kadmowe 31.40.23 70 70 wielkogabarytowe 14 akumulatory niklowo-kadmowe 31.40.23 50 50 ma∏ogabarytowe (wraz z pakietami) 15 ogniwa i baterie galwaniczne, 31.40.1, 50 50 bez ich cz´Êci: z wy∏àczeniem 31.40.13 guzikowe, baterie pierwotne, pozosta∏e baterie wtórne 16 oleje smarowe, z wy∏àczeniem: 23.20.18, z wy∏àczeniem: 50 25 oleje bazowe, 23.20.18-01, oleje przepracowane 23.20.18-09.10 17 lampy wy∏adowcze, z wy∏àczeniem bez wzgl´du 40 40 Êwietlówek kompaktowych na symbol PKWiU 18 opony nowe, u˝ywane regenerowane 25.11.11 75 nie dotyczy (bie˝nikowane), u˝ywane nieregenerowane 25.11.13-55 (niebie˝nikowane) 25.11.13-57 25.11.14-04 25.11.14-05 25.11.20 25.12.10-30.00 25.12.10-50 25.12.10-90
+**Art. 46.** Ustawa wchodzi wżycie zdniem 1 stycznia 2002 r. nr 6 ŃWykaz wyrobów akcyzowych” skreśla się poz. 20 Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski RODZAJE OPAKOWA¡ Symbol PKWiU Rodzaje opakowań (jednostkowych, transportowych i zbiorczych) 1 2 3 1 25.22 opakowania z tworzyw sztucznych 17.40.21-50 17.40.21-73 17.40.21-75 2 28.72.12 opakowania z aluminium, o pojemności mniejszej od 300 l 3 28.72.11 opakowania z blachy białej i lekkiej innej niż aluminiowa 4 21.21.12 opakowania z papieru i tektury 21.21.13 21.21.14 21.21.15-30 5 26.13.11 opakowania ze szkła gospodarczego, poza ampułkami 6 bez względu opakowania z materiałów naturalnych (drewna i tekstyliów) na symbol PKWiU 7 bez względu opakowania wielomateriałowe na symbol PKWiU RODZAJE PRODUKTÓW Symbol PKWiU Rodzajproduktu 1 2 3 1 29.23.12 urządzenia klimatyzacyjne zawierające substancje zubożające warstwę ozonową (CFC i HCFC) 2 29.23.13 urządzenia chłodnicze i zamrażające oraz pompy ciepła poza urządzeniami dla gospodarstw domowych zawierające substancje zubożające warstwę ozonową (CFC i HCFC)* 3 29.71.11 chłodziarki i zamrażarki typu domowego zawierające substancje zubożające warstwę ozonową (CFC i HCFC)* 4 31.40.21 akumulatory ołowiowe (kwasowe) 31.40.22 5 31.40.23 akumulatory niklowo-kadmowe: wielkogabarytowe, małogabarytowe (wraz z pakietami) 6 31.40.1, ogniwa i baterie galwaniczne, bez ich części: z wyłączeniem guzikowe, 31.40.13 baterie pierwotne, pozostałe baterie wtórne . Symbol PKWiU Rodzajproduktu 1 2 3 RODZAJE POZOSTAĘYCH PRODUKTÓW 1 23.20.18 oleje smarowe, z wyłączeniem: z wyłączeniem: 23.20.18-01 oleje bazowe, 23.20.18-09.10 oleje przepracowane 2 bez względu lampy wyładowcze, z wyłączeniem świetlówek kompaktowych na symbol PKWiU 3 25.11.11 opony nowe, używane regenerowane (bieżnikowane), używane nieregenerowane 25.11.13-55 (niebieżnikowane) 25.11.13-57 25.11.14-04 25.11.14-05 25.11.20 25.12.10-30.00 25.12.10-50 25.12.10-90 DOCELOWE PROCENTOWE POZIOMY ODZYSKU I RECYKLINGU DLA ODPADÓW OPAKOWANIOWYCH I POU˚YTKOWYCH W STOSUNKU DO MASY LUB ILOÂCI WPROWADZONYCH NA RYNEK KRAJOWY, W DRODZE SPRZEDA˚Y LUB IMPORTU, OPAKOWA¡ I PRODUKTÓW Odpad powstały z: Poziom Poziom odzysku recyklingu rodzaj produktów symbol PKWiU 1 2 3 4 5 1 opakowania razem bez względu 50 25 na symbol PKWiU 2 opakowania z tworzyw sztucznych 25.22 25 17.40.21-50 17.40.21-73 17.40.21-75 3 opakowania z aluminium, 28.72.12 40 o pojemności mniejszej od 300 l 4 opakowania z blachy białej 28.72.11 20 i lekkiej innej niż aluminiowa 5 opakowania z papieru i tektury 21.21.12 48 21.21.13 21.21.14 21.21.15-30 6 opakowania ze szkła gospodarczego, 26.13.11 40 poza ampułkami 7 opakowania z materiałów naturalnych bez względu 15 (drewna i tekstyliów) na symbol PKWiU 1 2 3 4 5 8 opakowania wielomateriałowe bez względu 25 na symbol PKWiU 9 urządzenia klimatyzacyjne zawierające 29.23.12 50 50 substancje zubożające warstwę ozonową (CFC i HCFC) 10 urządzenia chłodnicze i zamrażające 29.23.13 70 70 oraz pompy ciepła poza urządzeniami dla gospodarstw domowych zawierające substancje zubożające warstwę ozonową (CFC i HCFC) 11 chłodziarki i zamrażarki typu domowego 29.71.11 50 50 zawierające substancje zubożające warstwę ozonową (CFC i HCFC) 12 akumulatory ołowiowe (kwasowe) 31.40.21 wszystkie wszystkie 31.40.22 zgłoszone zebrane 13 akumulatory niklowo-kadmowe 31.40.23 70 70 wielkogabarytowe 14 akumulatory niklowo-kadmowe 31.40.23 50 50 małogabarytowe (wraz z pakietami) 15 ogniwa i baterie galwaniczne, 31.40.1, 50 50 bez ich części: z wyłączeniem 31.40.13 guzikowe, baterie pierwotne, pozostałe baterie wtórne 16 oleje smarowe, z wyłączeniem: 23.20.18, z wyłączeniem: 50 25 oleje bazowe, 23.20.18-01, oleje przepracowane 23.20.18-09.10 17 lampy wyładowcze, z wyłączeniem bez względu 40 40 świetlówek kompaktowych na symbol PKWiU 18 opony nowe, używane regenerowane 25.11.11 75 nie dotyczy (bieżnikowane), używane nieregenerowane 25.11.13-55 (niebieżnikowane) 25.11.13-57 25.11.14-04 25.11.14-05 25.11.20 25.12.10-30.00 25.12.10-50 25.12.10-90
 

@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# ganizacje spo∏eczne i zawodowe, koÊcio∏y i inne zwiàzki wyznaniowe oraz Êrodowiska naukowe.
+# ganizacje społeczne i zawodowe, kościoły i inne związki wyznaniowe oraz środowiska naukowe.
 
 | Pole | Wartość |
 |---|---|
@@ -24,396 +24,396 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000190239) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/239/text.pdf) |
 
-2. Cz∏onków Rady Pomocy Spo∏ecznej, spoÊród przedstawicieli okreÊlonych w ust. 1, powo∏uje minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego. Cz∏onkowie Rady Pomocy Spo∏ecznej pe∏nià swoje funkcje spo∏ecznie. Kadencja Rady Pomocy Spo∏ecznej trwa 3 lata.”;
+2. Członków Rady Pomocy Społecznej, spośród przedstawicieli określonych w ust. 1, powołuje minister właściwy do spraw zabezpieczenia społecznego. Członkowie Rady Pomocy Społecznej pełnią swoje funkcje społecznie. Kadencja Rady Pomocy Społecznej trwa 3 lata.”;
 23) wart. 55:
-a) w ust. 1 po wyrazie „ustawie” dodaje si´ wyrazy „ , zzastrze˝eniem ust. 2”,
-b) ust. 2 otrzymuje brzmienie: „2. Umowy w sprawie przyznania rodzinom zast´pczym pomocy pieni´˝nej zawarte przed dniem 1 stycznia 2000 r. zachowujà wa˝noÊç do dnia 31 grudnia 2000 r., chyba ˝e rodzina zast´pcza wystàpi wczeÊniej o zmian´ tej
+a) w ust. 1 po wyrazie Ńustawie” dodaje się wyrazy Ń , zzastrzeżeniem ust. 2”,
+b) ust. 2 otrzymuje brzmienie: Ń2. Umowy w sprawie przyznania rodzinom zastępczym pomocy pieniężnej zawarte przed dniem 1 stycznia 2000 r. zachowują ważność do dnia 31 grudnia 2000 r., chyba że rodzina zastępcza wystąpi wcześniej o zmianę tej
 USTAWA zdnia 18 lutego 2000 r.
 ozmianie ustawy Karta Nauczyciela oraz ozmianie niektórych innych ustaw.
 
-**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. Kar- 1) publicznych przedszkolach, szko∏ach ta Nauczyciela (Dz.U. z1997 r. 56, poz. 357,z1998r. i placówkach oraz zak∏adach kszta∏ce106, poz. 668 iNr 162, poz. 1118 orazz 2000 r. 12, nia i placówkach doskonalenia napoz. 136) wprowadza si´ nast´pujàce zmiany: uczycieli dzia∏ajàcych na podstawie
+**Art. 1.** W ustawie z dnia 26 stycznia 1982 r. Kar- 1) publicznych przedszkolach, szkołach ta Nauczyciela (Dz.U. z1997 r. 56, poz. 357,z1998r. i placówkach oraz zakładach kształce106, poz. 668 iNr 162, poz. 1118 orazz 2000 r. 12, nia i placówkach doskonalenia napoz. 136) wprowadza się następujące zmiany: uczycieli działających na podstawie
 
-**Art. 3.** Przepisy wykonawcze wydane przed dniem wejÊcia w ˝ycie niniejszej ustawy na podstawie upowa˝nieƒ zmienionych tà ustawà zachowujà moc do czasu wejÊcia w˝ycie rozporzàdzeƒ wydanych na podstawie upowa˝nieƒ zawartych w niniejszej ustawie, w zakresie, w którym nie sà sprzeczne z ustawà, nie d∏u˝ej ni˝ do 31 grudnia 2000 r.
+**Art. 3.** Przepisy wykonawcze wydane przed dniem wejścia w życie niniejszej ustawy na podstawie upoważnień zmienionych tą ustawą zachowują moc do czasu wejścia wżycie rozporządzeń wydanych na podstawie upoważnień zawartych w niniejszej ustawie, w zakresie, w którym nie są sprzeczne z ustawą, nie dłużej niż do 31 grudnia 2000 r.
 
-**Art. 4.** Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego og∏osi w Dzienniku Rzeczypospo24) wart. 55fskreÊla si´ ust. 2.
+**Art. 4.** Minister właściwy do spraw zabezpieczenia społecznego ogłosi w Dzienniku Rzeczypospo24) wart. 55fskreśla się ust. 2.
 
-**Art. 2.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. U. 162, poz. 1118,z1999 r. 38, poz.360, 70, poz. 774, 72, poz. 801 i802 iNr 106, poz. 1215 orazz 2000 r. 2, poz. 26 i 9, poz. 118) wprowadza si´ nast´pujàce zmiany:
+**Art. 2.** W ustawie z dnia 17 grudnia 1998 r. o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych (Dz. U. 162, poz. 1118,z1999 r. 38, poz.360, 70, poz. 774, 72, poz. 801 i802 iNr 106, poz. 1215 orazz 2000 r. 2, poz. 26 i 9, poz. 118) wprowadza się następujące zmiany:
 
-**Art. 5.** Ustawa wchodzi w˝ycie zdniem og∏oszenia zmocà od dnia 1 stycznia 2000 r., zwyjàtkiem:
+**Art. 5.** Ustawa wchodzi wżycie zdniem ogłoszenia zmocą od dnia 1 stycznia 2000 r., zwyjątkiem:
 
 **Art. 9a.**
 
-1. Ustala si´ stopnie awansu zawodowego nauczycieli:
+1. Ustala się stopnie awansu zawodowego nauczycieli:
 
-- **1)** nauczyciel sta˝ysta,
+- **1)** nauczyciel stażysta,
 - **2)** nauczyciel kontraktowy,
 - **3)** nauczyciel mianowany,
 - **4)** nauczyciel dyplomowany.
 
-2. Osoba nie posiadajàca stopnia awansu zawodowego z dniem nawiàzania stosunku pracy w szkole uzyskuje stopieƒ nauczyciela sta˝ysty, z zastrze˝eniem ust. 3.
+2. Osoba nie posiadająca stopnia awansu zawodowego z dniem nawiązania stosunku pracy w szkole uzyskuje stopień nauczyciela stażysty, z zastrzeżeniem ust. 3.
 
-3. Nauczyciele akademiccy legitymujàcy si´ co najmniej trzyletnim okresem pracy w szkole wy˝szej lub osoby posiadajàce co najmniej pi´cioletni okres pracy i znaczàcy dorobek zawodowy uzyskujà z dniem nawiàzania stosunku pracy w szkole stopieƒ nauczyciela kontraktowego.
+3. Nauczyciele akademiccy legitymujący się co najmniej trzyletnim okresem pracy w szkole wyższej lub osoby posiadające co najmniej pięcioletni okres pracy i znaczący dorobek zawodowy uzyskują z dniem nawiązania stosunku pracy w szkole stopień nauczyciela kontraktowego.
 
 **Art. 9b.**
 
-1. Warunkiem nadania nauczycielowi kolejnego stopnia awansu zawodowego jest posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1, odbycie sta˝u, z zastrze˝eniem art. 9e ust. 1—3, zakoƒczonego pozytywnà ocenà dorobku zawodowego nauczyciela, o której mowa wart. 9cust. 6, oraz:
+1. Warunkiem nadania nauczycielowi kolejnego stopnia awansu zawodowego jest posiadanie kwalifikacji, o których mowa w art. 9 ust. 1 pkt 1, odbycie stażu, z zastrzeżeniem art. 9e ust. 1—3, zakończonego pozytywną oceną dorobku zawodowego nauczyciela, o której mowa wart. 9cust. 6, oraz:
 
-- **1)** w przypadku nauczyciela sta˝ysty
+- **1)** w przypadku nauczyciela stażysty
 
-3. Komisje kwalifikacyjne lub egzaminacyjne, októrych mowa wust. 1, przeprowadzajà odpowiednio post´powanie kwalifikacyjne lub egzaminacyjne w styczniu ilutym oraz wmaju, czerwcu ilipcu.
+3. Komisje kwalifikacyjne lub egzaminacyjne, októrych mowa wust. 1, przeprowadzają odpowiednio postępowanie kwalifikacyjne lub egzaminacyjne w styczniu ilutym oraz wmaju, czerwcu ilipcu.
 
-4. Nauczycielowi spe∏niajàcemu warunki, októrych mowa wust. 1, oraz nauczycielowi zatrudnionemu w trybie art. 9a ust. 3, w drodze decyzji administracyjnej, stopieƒ awansu zawodowego nadaje:
+4. Nauczycielowi spełniającemu warunki, októrych mowa wust. 1, oraz nauczycielowi zatrudnionemu w trybie art. 9a ust. 3, w drodze decyzji administracyjnej, stopień awansu zawodowego nadaje:
 
-- **1)** nauczycielowi sta˝yÊcie stopieƒ nauczyciela kontraktowego dyrektor szko∏y,
-- **2)** nauczycielowi kontraktowemu stopieƒ nauczyciela mianowanego organ prowadzàcy szko∏´,
-- **3)** nauczycielowi mianowanemu stopieƒ nauczyciela dyplomowanego organ sprawujàcy nadzór pedagogiczuzyskanie akceptacji komisji kwalifikacyjnej po przeprowadzonej rozmowie,
-- **2)** w przypadku nauczyciela kontraktowego zdanie egzaminu przed komisjà egzaminacyjnà,
+- **1)** nauczycielowi stażyście stopień nauczyciela kontraktowego dyrektor szkoły,
+- **2)** nauczycielowi kontraktowemu stopień nauczyciela mianowanego organ prowadzący szkołę,
+- **3)** nauczycielowi mianowanemu stopień nauczyciela dyplomowanego organ sprawujący nadzór pedagogiczuzyskanie akceptacji komisji kwalifikacyjnej po przeprowadzonej rozmowie,
+- **2)** w przypadku nauczyciela kontraktowego zdanie egzaminu przed komisją egzaminacyjną,
 - **3)** wprzypadku nauczyciela mianowanego uzyskanie akceptacji komisji kwalifikacyjnej.
 
-2. Komisje kwalifikacyjne lub egzaminacyjne, októrych mowa wust. 1, podejmujà odpowiednio post´powanie kwalifikacyjne lub egzaminacyjne na wniosek nauczyciela skierowany odpowiednio do dyrektora szko∏y lub w∏aÊciwego organu, októrym mowa wust. 4 pkt 2—4. ny,
+2. Komisje kwalifikacyjne lub egzaminacyjne, októrych mowa wust. 1, podejmują odpowiednio postępowanie kwalifikacyjne lub egzaminacyjne na wniosek nauczyciela skierowany odpowiednio do dyrektora szkoły lub właściwego organu, októrym mowa wust. 4 pkt 2—4. ny,
 
-- **4)** nauczycielom, o których mowa w art. 1 ust. 2 pkt 1 oraz art. 9eust. 3, odpowiedni stopieƒ w∏aÊciwy minister.
+- **4)** nauczycielom, o których mowa w art. 1 ust. 2 pkt 1 oraz art. 9eust. 3, odpowiedni stopień właściwy minister.
 
-5. Akt nadania stopnia awansu zawodowego zawiera w szczególnoÊci: nazw´ komisji kwalifikacyjnej lub egzaminacyjnej, numer i dat´ wydania zaÊwiadczenia o uzyskaniu akceptacji lub zdaniu egzaminu, stopieƒ awansu zawodowego, a tak˝e wymienia kwalifikacje nauczyciela oraz typy i rodzaje szkó∏, w których nauczyciel mo˝e byç zatrudniony. Akt nadania stopnia nauczyciela kontraktowego uzyskany w sposób okreÊlony wart. 9aust. 3 oraz uzyskany zmocy prawa nie zawiera odpowiednio nazwy komisji kwalifikacyjnej lub egzaminacyjnej ani numeru i daty wydania zaÊwiadczenia o akceptacji lub zdaniu egzaminu.
+5. Akt nadania stopnia awansu zawodowego zawiera w szczególności: nazwę komisji kwalifikacyjnej lub egzaminacyjnej, numer i datę wydania zaświadczenia o uzyskaniu akceptacji lub zdaniu egzaminu, stopień awansu zawodowego, a także wymienia kwalifikacje nauczyciela oraz typy i rodzaje szkół, w których nauczyciel może być zatrudniony. Akt nadania stopnia nauczyciela kontraktowego uzyskany w sposób określony wart. 9aust. 3 oraz uzyskany zmocy prawa nie zawiera odpowiednio nazwy komisji kwalifikacyjnej lub egzaminacyjnej ani numeru i daty wydania zaświadczenia o akceptacji lub zdaniu egzaminu.
 
-6. W przypadku niespe∏nienia przez nauczyciela warunków, o których mowa wust. 1, dyrektor szko∏y lub w∏aÊciwy organ, o którym mowa w ust. 4 pkt 2—4, odmawia nauczycielowi, wdrodze decyzji administracyjnej, nadania stopnia awansu zawodowego.
+6. W przypadku niespełnienia przez nauczyciela warunków, o których mowa wust. 1, dyrektor szkoły lub właściwy organ, o którym mowa w ust. 4 pkt 2—4, odmawia nauczycielowi, wdrodze decyzji administracyjnej, nadania stopnia awansu zawodowego.
 
-7. Organami wy˝szego stopnia wrozumieniu Kodeksu post´powania administracyjnego w sprawach, o których mowa w ust. 4 pkt 1—3 oraz ust. 6, sà odpowiednio:
+7. Organami wyższego stopnia wrozumieniu Kodeksu postępowania administracyjnego w sprawach, o których mowa w ust. 4 pkt 1—3 oraz ust. 6, są odpowiednio:
 
-- **1)** wstosunku do dyrektora szko∏y organ prowadzàcy szko∏´,
-- **2)** wstosunku do organu prowadzàcego szko∏´ organ sprawujàcy nadzór pedagogiczny,
-- **3)** w stosunku do organu sprawujàcego nadzór pedagogiczny w∏aÊciwy minister.
+- **1)** wstosunku do dyrektora szkoły organ prowadzący szkołę,
+- **2)** wstosunku do organu prowadzącego szkołę organ sprawujący nadzór pedagogiczny,
+- **3)** w stosunku do organu sprawującego nadzór pedagogiczny właściwy minister.
 
 **Art. 9c.**
 
-1. Sta˝, zzastrze˝eniem ust. 2, trwa wprzypadku ubiegania si´ oawans na stopieƒ:
+1. Staż, zzastrzeżeniem ust. 2, trwa wprzypadku ubiegania się oawans na stopień:
 
-- **1)** nauczyciela kontraktowego 9 miesi´cy,
-- **2)** nauczyciela mianowanego i nauczyciela dyplomowanego 2 lata i 9 miesi´cy.
+- **1)** nauczyciela kontraktowego 9 miesięcy,
+- **2)** nauczyciela mianowanego i nauczyciela dyplomowanego 2 lata i 9 miesięcy.
 
-2. Nauczyciel kontraktowy lub nauczyciel mianowany posiadajàcy co najmniej stopieƒ naukowy doktora mo˝e ubiegaç si´ ouzyskanie kolejnego stopnia awansu zawodowego po odbyciu sta˝u trwajàcego 9 miesi´cy. Dyrektor szko∏y mo˝e nauczycielowi kontraktowemu, który uzyska∏ awans w sposób okreÊlony w art. 9a ust. 3 i ubiega si´ o uzyskanie stopnia nauczyciela mianowanego, skróciç sta˝ do 9 miesi´cy.
+2. Nauczyciel kontraktowy lub nauczyciel mianowany posiadający co najmniej stopień naukowy doktora może ubiegać się ouzyskanie kolejnego stopnia awansu zawodowego po odbyciu stażu trwającego 9 miesięcy. Dyrektor szkoły może nauczycielowi kontraktowemu, który uzyskał awans w sposób określony w art. 9a ust. 3 i ubiega się o uzyskanie stopnia nauczyciela mianowanego, skrócić staż do 9 miesięcy.
 
-3. Wokresie sta˝u nauczyciel realizuje w∏asny plan rozwoju zawodowego zatwierdzony przez dyrektora szko∏y, uwzgl´dniajàcy wymagania, o których mowa w art. 9g ust. 10. Po zakoƒczeniu sta˝u nauczyciel sk∏ada dyrektorowi szko∏y sprawozdanie zrealizacji tego planu.
+3. Wokresie stażu nauczyciel realizuje własny plan rozwoju zawodowego zatwierdzony przez dyrektora szkoły, uwzględniający wymagania, o których mowa w art. 9g ust. 10. Po zakończeniu stażu nauczyciel składa dyrektorowi szkoły sprawozdanie zrealizacji tego planu.
 
-4. Nauczycielowi sta˝yÊcie i nauczycielowi kontraktowemu odbywajàcemu sta˝ dyrektor szko∏y przydziela spoÊród nauczycieli mianowanych lub dyplomowanych opiekuna, z tym ˝e w przedszkolach, szko∏ach i placówkach, o których mowa w art. 1 ust. 2 pkt 2, opiekunem nauczyciela sta˝ysty mo˝e byç równie˝ nauczyciel kontraktowy, a nauczyciela kontraktowego nauczyciel zajmujàcy stanowisko kierownicze.
+4. Nauczycielowi stażyście i nauczycielowi kontraktowemu odbywającemu staż dyrektor szkoły przydziela spośród nauczycieli mianowanych lub dyplomowanych opiekuna, z tym że w przedszkolach, szkołach i placówkach, o których mowa w art. 1 ust. 2 pkt 2, opiekunem nauczyciela stażysty może być również nauczyciel kontraktowy, a nauczyciela kontraktowego nauczyciel zajmujący stanowisko kierownicze.
 
-5. Zadaniem opiekuna sta˝u, októrym mowa wust. 4, jest udzielanie nauczycielowi pomocy, wszczególnoÊci wprzygotowaniu i realizacji w okresie sta˝u planu rozwoju zawodowego nauczyciela, oraz opracowanie projektu oceny dorobku zawodowego nauczyciela za okres sta˝u.
+5. Zadaniem opiekuna stażu, októrym mowa wust. 4, jest udzielanie nauczycielowi pomocy, wszczególności wprzygotowaniu i realizacji w okresie stażu planu rozwoju zawodowego nauczyciela, oraz opracowanie projektu oceny dorobku zawodowego nauczyciela za okres stażu.
 
-6. Ocen´ dorobku zawodowego nauczyciela za okres sta˝u ustala, z uwzgl´dnieniem stopnia realizacji planu rozwoju zawodowego nauczyciela, dyrektor szko∏y:
+6. Ocenę dorobku zawodowego nauczyciela za okres stażu ustala, z uwzględnieniem stopnia realizacji planu rozwoju zawodowego nauczyciela, dyrektor szkoły:
 
-- **1)** w przypadku nauczyciela sta˝ysty inauczyciela kontraktowego po za7. Rada rodziców powinna przedstawiç swojà opini´ w terminie 14 dni od dnia otrzymania zawiadomienia odokonywanej ocenie dorobku zawodowego nauczyciela. Nieprzedstawienie opinii rady rodziców nie wstrzymuje post´powania, októrym mowa wust. 6.
+- **1)** w przypadku nauczyciela stażysty inauczyciela kontraktowego po za7. Rada rodziców powinna przedstawić swoją opinię w terminie 14 dni od dnia otrzymania zawiadomienia odokonywanej ocenie dorobku zawodowego nauczyciela. Nieprzedstawienie opinii rady rodziców nie wstrzymuje postępowania, októrym mowa wust. 6.
 
-8. Ocena dorobku zawodowego nauczyciela mo˝e byç pozytywna lub negatywna. Ocena sporzàdzana jest na piÊmie i zawiera uzasadnienie oraz pouczenie omo˝liwoÊci wniesienia odwo∏ania.
+8. Ocena dorobku zawodowego nauczyciela może być pozytywna lub negatywna. Ocena sporządzana jest na piśmie i zawiera uzasadnienie oraz pouczenie omożliwości wniesienia odwołania.
 
-9. Od oceny dorobku zawodowego nauczycielowi s∏u˝y odwo∏anie do organu sprawujàcego nadzór pedagogiczny wterminie 14 dni od dnia jej otrzymania. Organ sprawujàcy nadzór pedagogiczny rozpatruje odwo∏anie w terminie 21 dni. Ocena dorobku zawodowego nauczyciela ustalona przez organ sprawujàcy nadzór pedagogiczny jest ostateczna.
+9. Od oceny dorobku zawodowego nauczycielowi służy odwołanie do organu sprawującego nadzór pedagogiczny wterminie 14 dni od dnia jej otrzymania. Organ sprawujący nadzór pedagogiczny rozpatruje odwołanie w terminie 21 dni. Ocena dorobku zawodowego nauczyciela ustalona przez organ sprawujący nadzór pedagogiczny jest ostateczna.
 
-10. W przypadku niedotrzymania przez organ sprawujàcy nadzór pedagogiczny terminu rozpatrzenia odwo∏ania, o którym mowa w ust. 9, nauczyciel jest dopuszczony odpowiednio do rozmowy kwalifikacyjnej, o której mowa w art. 9b ust. 1 pkt 1, egzaminu, o którym mowa w art. 9b ust. 1 pkt 2, lub mo˝e si´ ubiegaç o akceptacj´ komisji, o której mowa wart. 9bust. 1 pkt 3.
+10. W przypadku niedotrzymania przez organ sprawujący nadzór pedagogiczny terminu rozpatrzenia odwołania, o którym mowa w ust. 9, nauczyciel jest dopuszczony odpowiednio do rozmowy kwalifikacyjnej, o której mowa w art. 9b ust. 1 pkt 1, egzaminu, o którym mowa w art. 9b ust. 1 pkt 2, lub może się ubiegać o akceptację komisji, o której mowa wart. 9bust. 1 pkt 3.
 
-11. W przypadku gdy ostateczna ocena dorobku zawodowego nauczyciela jest negatywna, ponowna ocena dorobku mo˝e byç dokonana po odbyciu, na wniosek nauczyciela i za zgodà dyrektora szko∏y, jednego dodatkowego sta˝u w wymiarze 9 miesi´cy.
+11. W przypadku gdy ostateczna ocena dorobku zawodowego nauczyciela jest negatywna, ponowna ocena dorobku może być dokonana po odbyciu, na wniosek nauczyciela i za zgodą dyrektora szkoły, jednego dodatkowego stażu w wymiarze 9 miesięcy.
 
 **Art. 9d.**
 
-1. Nauczyciel sta˝ysta rozpoczyna sta˝ z dniem nawiàzania stosunku pracy, a nauczyciel kontraktowy i nauczyciel poznaniu si´ zprojektem oceny opracowanym przez opiekuna sta˝u i po zasi´gni´ciu opinii rady rodziców,
+1. Nauczyciel stażysta rozpoczyna staż z dniem nawiązania stosunku pracy, a nauczyciel kontraktowy i nauczyciel poznaniu się zprojektem oceny opracowanym przez opiekuna stażu i po zasięgnięciu opinii rady rodziców,
 
-- **2)** wprzypadku nauczyciela mianowanego po zasi´gni´ciu opinii rady rodziców. mianowany zdniem 1 wrzeÊnia na swój wniosek skierowany do dyrektora szko∏y. Dodatkowy sta˝, o którym mowa wart. 9cust. 11 iart. 9gust. 8, rozpoczyna si´ zdniem 1 wrzeÊnia.
+- **2)** wprzypadku nauczyciela mianowanego po zasięgnięciu opinii rady rodziców. mianowany zdniem 1 września na swój wniosek skierowany do dyrektora szkoły. Dodatkowy staż, o którym mowa wart. 9cust. 11 iart. 9gust. 8, rozpoczyna się zdniem 1 września.
 
-2. Nauczyciel sta˝ysta inauczyciel kontraktowy sk∏adajà wniosek opodj´cie odpowiednio post´powania kwalifikacyjnego lub egzaminacyjnego w ciàgu 14 dni od dnia otrzymania pozytywnej oceny dorobku zawodowego za okres sta˝u. Nauczyciel mianowany mo˝e z∏o˝yç wniosek o podj´cie post´powania kwalifikacyjnego wokresie 3 lat od dnia otrzymania pozytywnej oceny dorobku zawodowego za okres sta˝u. W przypadku niedotrzymania terminów z∏o˝enia wniosków, nauczyciele ci obowiàzani sà do ponownego odbycia sta˝u w pe∏nym wymiarze.
+2. Nauczyciel stażysta inauczyciel kontraktowy składają wniosek opodjęcie odpowiednio postępowania kwalifikacyjnego lub egzaminacyjnego w ciągu 14 dni od dnia otrzymania pozytywnej oceny dorobku zawodowego za okres stażu. Nauczyciel mianowany może złożyć wniosek o podjęcie postępowania kwalifikacyjnego wokresie 3 lat od dnia otrzymania pozytywnej oceny dorobku zawodowego za okres stażu. W przypadku niedotrzymania terminów złożenia wniosków, nauczyciele ci obowiązani są do ponownego odbycia stażu w pełnym wymiarze.
 
-3. Sta˝, o którym mowa w art. 9c ust. 1, przerywa si´ w przypadku nieobecnoÊci nauczyciela w szkole z powodu: czasowej niezdolnoÊci do pracy wskutek choroby, zwolnienia z obowiàzku Êwiadczenia pracy oraz urlopu innego ni˝ urlop wypoczynkowy, trwajàcej ∏àcznie d∏u˝ej ni˝ 3 miesiàce.
+3. Staż, o którym mowa w art. 9c ust. 1, przerywa się w przypadku nieobecności nauczyciela w szkole z powodu: czasowej niezdolności do pracy wskutek choroby, zwolnienia z obowiązku świadczenia pracy oraz urlopu innego niż urlop wypoczynkowy, trwającej łącznie dłużej niż 3 miesiące.
 
-4. Po ustaniu przyczyny przerwania sta˝u nauczyciel mo˝e z∏o˝yç wniosek okontynuacj´ sta˝u. W przypadku z∏o˝enia wniosku w terminie 6 miesi´cy od dnia przerwania sta˝u, do wymaganego okresu sta˝u zalicza si´ okres sta˝u odbytego przed przerwà, z wy∏àczeniem okresu nieobecnoÊci. W razie z∏o˝enia wniosku po up∏ywie 6 miesi´cy od dnia przerwania sta˝u, nauczyciel obowiàzany jest odbyç sta˝ ponownie wpe∏nym wymiarze.
+4. Po ustaniu przyczyny przerwania stażu nauczyciel może złożyć wniosek okontynuację stażu. W przypadku złożenia wniosku w terminie 6 miesięcy od dnia przerwania stażu, do wymaganego okresu stażu zalicza się okres stażu odbytego przed przerwą, z wyłączeniem okresu nieobecności. W razie złożenia wniosku po upływie 6 miesięcy od dnia przerwania stażu, nauczyciel obowiązany jest odbyć staż ponownie wpełnym wymiarze.
 
-5. Nauczyciel kontraktowy i nauczyciel mianowany mogà przerwaç sta˝ z przyczyn nie wymienionych wust. 3 na swój wniosek w ka˝dym czasie. W przypadku ponownego rozpocz´cia sta˝u, odbywajà sta˝ wpe∏nym wymiarze.
+5. Nauczyciel kontraktowy i nauczyciel mianowany mogą przerwać staż z przyczyn nie wymienionych wust. 3 na swój wniosek w każdym czasie. W przypadku ponownego rozpoczęcia stażu, odbywają staż wpełnym wymiarze.
 
 **Art. 9e.**
 
-1. Nauczyciel, któremu powierzono stanowisko dyrektora szko∏y, posiadajàcy na tym stanowisku od dnia nadania stopnia nauczyciela mianowanego nieprzerwany okres pracy wynoszàcy co najmniej 2 lata i 9 miesi´cy oraz legitymujàcy si´ dobrà lub wyró˝niajàcà ocenà pracy, mo˝e z∏o˝yç wniosek o podj´cie post´powania kwalifikacyjnego o awans na stopieƒ nauczyciela dyplomowanego.
+1. Nauczyciel, któremu powierzono stanowisko dyrektora szkoły, posiadający na tym stanowisku od dnia nadania stopnia nauczyciela mianowanego nieprzerwany okres pracy wynoszący co najmniej 2 lata i 9 miesięcy oraz legitymujący się dobrą lub wyróżniającą oceną pracy, może złożyć wniosek o podjęcie postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego.
 
-2. Nauczyciel mianowany, októrym mowa w art. 1 ust. 2 pkt 1, zatrudniony na stanowisku, na którym wymagane sà kwalifikacje pedagogiczne, mo˝e z∏o˝yç wniosek opodj´cie post´powania kwalifikacyjnego o awans na stopieƒ nauczyciela dyplomowanego, je˝eli jego nieprzerwany okres pracy na tym stanowisku od dnia nadania mu stopnia nauczyciela mianowanego wynosi co najmniej 2 lata i9 miesi´cy.
+2. Nauczyciel mianowany, októrym mowa w art. 1 ust. 2 pkt 1, zatrudniony na stanowisku, na którym wymagane są kwalifikacje pedagogiczne, może złożyć wniosek opodjęcie postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego, jeżeli jego nieprzerwany okres pracy na tym stanowisku od dnia nadania mu stopnia nauczyciela mianowanego wynosi co najmniej 2 lata i9 miesięcy.
 
-3. Nauczyciel urlopowany lub zwolniony z obowiàzku Êwiadczenia pracy na podstawie przepisów ustawy, októrej mowa w art. 1 ust. 2 pkt 3, mo˝e odpowiednio z∏o˝yç wniosek opodj´cie post´powania wego okres urlopowania lub zwolnienia zobowiàzku Êwiadczenia pracy trwa nieprzerwanie co najmniej 2 lata i9 miesi´cy.
+3. Nauczyciel urlopowany lub zwolniony z obowiązku świadczenia pracy na podstawie przepisów ustawy, októrej mowa w art. 1 ust. 2 pkt 3, może odpowiednio złożyć wniosek opodjęcie postępowania wego okres urlopowania lub zwolnienia zobowiązku świadczenia pracy trwa nieprzerwanie co najmniej 2 lata i9 miesięcy.
 
 **Art. 9f.**
 
-1. Nauczycielowi, który w trakcie pracy zawodowej uzyska∏ kwalifikacje do prowadzenia innych zaj´ç w szkole tego samego rodzaju lub typu lub kwalifikacje do nauczania w szkole innego rodzaju lub typu, ni˝ zosta∏ okreÊlony w akcie nadania stopnia awansu zawodowego, dyrektor szko∏y lub organy, o których mowa wart.9bust. 4 pkt 2—4, wydajà na wniosek nauczyciela nowy akt nadania odpowiedniego stopnia awansu zawodowego, uwzgl´dniajàcy uzyskane kwalifikacje.
+1. Nauczycielowi, który w trakcie pracy zawodowej uzyskał kwalifikacje do prowadzenia innych zajęć w szkole tego samego rodzaju lub typu lub kwalifikacje do nauczania w szkole innego rodzaju lub typu, niż został określony w akcie nadania stopnia awansu zawodowego, dyrektor szkoły lub organy, o których mowa wart.9bust. 4 pkt 2—4, wydają na wniosek nauczyciela nowy akt nadania odpowiedniego stopnia awansu zawodowego, uwzględniający uzyskane kwalifikacje.
 
-2. Nauczycielowi kontraktowemu inauczycielowi mianowanemu, którzy wokresie trwania sta˝u zmienili miejsce zatrudnieegzaminacyjnego o awans na stopieƒ nauczyciela mianowanego lub wniosek opodj´cie post´powania kwalifikacyjnego o awans na stopieƒ nauczyciela dyplomowanego, je˝eli od dnia nadania poprzedniego stopnia awansu zawodonia, do sta˝u, o którym mowa w art. 9c ust. 1 pkt 2, zalicza si´ okres dotychczas odbytego sta˝u, je˝eli podj´li zatrudnienie wszkole nie póêniej ni˝ 3 miesiàce po ustaniu poprzedniego stosunku pracy i za okres dotychczas odbytego sta˝u otrzymali pozytywnà ocen´ dorobku zawodowego.
+2. Nauczycielowi kontraktowemu inauczycielowi mianowanemu, którzy wokresie trwania stażu zmienili miejsce zatrudnieegzaminacyjnego o awans na stopień nauczyciela mianowanego lub wniosek opodjęcie postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego, jeżeli od dnia nadania poprzedniego stopnia awansu zawodonia, do stażu, o którym mowa w art. 9c ust. 1 pkt 2, zalicza się okres dotychczas odbytego stażu, jeżeli podjęli zatrudnienie wszkole nie póêniej niż 3 miesiące po ustaniu poprzedniego stosunku pracy i za okres dotychczas odbytego stażu otrzymali pozytywną ocenę dorobku zawodowego.
 
-3. Ocen´, októrej mowa wust. 2, uwzgl´dnia si´ przy dokonywaniu oceny dorobku zawodowego nauczyciela za okres ca∏ego sta˝u.
+3. Ocenę, októrej mowa wust. 2, uwzględnia się przy dokonywaniu oceny dorobku zawodowego nauczyciela za okres całego stażu.
 
 **Art. 9g.**
 
-1. Komisj´ kwalifikacyjnà dla nauczycieli ubiegajàcych si´ oawans na stopieƒ nauczyciela kontraktowego powo∏uje dyrektor szko∏y. Wsk∏ad komisji wchodzà:
+1. Komisję kwalifikacyjną dla nauczycieli ubiegających się oawans na stopień nauczyciela kontraktowego powołuje dyrektor szkoły. Wskład komisji wchodzą:
 
-- **1)** dyrektor (wicedyrektor), jako jej przewodniczàcy,
-- **2)** przewodniczàcy zespo∏u przedmiotowego (wychowawczego), a je˝eli zespó∏ taki nie zosta∏ wtej szkole powo∏any nauczyciel mianowany lub dyplomowany zatrudniony w szkole, awprzypadku przedszkola, szko∏y lub placówki, o których mowa w art. 1 ust.2 pkt 2, wktórych nie sà zatrudnieni nauczyciele mianowani lub dyplomowani nauczyciel kontraktowy,
-- **3)** opiekun sta˝u.
+- **1)** dyrektor (wicedyrektor), jako jej przewodniczący,
+- **2)** przewodniczący zespołu przedmiotowego (wychowawczego), a jeżeli zespół taki nie został wtej szkole powołany nauczyciel mianowany lub dyplomowany zatrudniony w szkole, awprzypadku przedszkola, szkoły lub placówki, o których mowa w art. 1 ust.2 pkt 2, wktórych nie są zatrudnieni nauczyciele mianowani lub dyplomowani nauczyciel kontraktowy,
+- **3)** opiekun stażu.
 
-2. Komisj´ egzaminacyjnà dla nauczycieli ubiegajàcych si´ oawans na stopieƒ nauczyciela mianowanego powo∏uje organ prowadzàcy szko∏´. W sk∏ad komisji wchodzà:
+2. Komisję egzaminacyjną dla nauczycieli ubiegających się oawans na stopień nauczyciela mianowanego powołuje organ prowadzący szkołę. W skład komisji wchodzą:
 
-- **1)** przedstawiciel organu prowadzàcego szko∏´, jako jej przewodniczàcy,
-- **2)** dyrektor (wicedyrektor) szko∏y,
-- **3)** trzej eksperci zlisty ekspertów ustalonej przez ministra w∏aÊciwego do spraw oÊwiaty iwychowania.
+- **1)** przedstawiciel organu prowadzącego szkołę, jako jej przewodniczący,
+- **2)** dyrektor (wicedyrektor) szkoły,
+- **3)** trzej eksperci zlisty ekspertów ustalonej przez ministra właściwego do spraw oświaty iwychowania.
 
-3. Komisj´ kwalifikacyjnà dla nauczycieli ubiegajàcych si´ oawans na stopieƒ nauczyciela dyplomowanego powo∏uje organ sprawujàcy nadzór pedagogiczny. Wsk∏ad komisji wchodzà:
+3. Komisję kwalifikacyjną dla nauczycieli ubiegających się oawans na stopień nauczyciela dyplomowanego powołuje organ sprawujący nadzór pedagogiczny. Wskład komisji wchodzą:
 
-- **1)** przedstawiciel organu sprawujàcego nadzór pedagogiczny, jako jej przewodniczàcy, a w przypadku nauczyciela, o którym mowa w art. 9e ust. 1 tak˝e przedstawiciel organu prowadzàcego szko∏´,
-- **2)** dyrektor (wicedyrektor) szko∏y, z wyjàtkiem przypadku nauczyciela, o którym mowa wpkt 1,
-- **3)** trzej eksperci zlisty ekspertów ustalonej przez ministra w∏aÊciwego do spraw oÊwiaty iwychowania.
+- **1)** przedstawiciel organu sprawującego nadzór pedagogiczny, jako jej przewodniczący, a w przypadku nauczyciela, o którym mowa w art. 9e ust. 1 także przedstawiciel organu prowadzącego szkołę,
+- **2)** dyrektor (wicedyrektor) szkoły, z wyjątkiem przypadku nauczyciela, o którym mowa wpkt 1,
+- **3)** trzej eksperci zlisty ekspertów ustalonej przez ministra właściwego do spraw oświaty iwychowania.
 
-4. W pracach komisji, o których mowa wust. 1—3, oile nie wchodzi wich sk∏ad, mo˝e braç równie˝ udzia∏ wcharakterze obserwatora przedstawiciel organu prowadzàcego szko∏´ i organu sprawujàcego nadzór pedagogiczny.
+4. W pracach komisji, o których mowa wust. 1—3, oile nie wchodzi wich skład, może brać również udział wcharakterze obserwatora przedstawiciel organu prowadzącego szkołę i organu sprawującego nadzór pedagogiczny.
 
-5. Na wniosek nauczyciela wsk∏ad komisji, o których mowa w ust. 1—3, wchodzi przedstawiciel zwiàzku zawodowego wskazany we wniosku.
+5. Na wniosek nauczyciela wskład komisji, o których mowa w ust. 1—3, wchodzi przedstawiciel związku zawodowego wskazany we wniosku.
 
-6. Komisj´ kwalifikacyjnà dla nauczycieli mianowanych, o których mowa w art. 9e ust. 2, ubiegajàcych si´ o awans na stopieƒ nauczyciela dyplomowanego powo∏uje w przypadku nauczycieli zatrudnionych w:
+6. Komisję kwalifikacyjną dla nauczycieli mianowanych, o których mowa w art. 9e ust. 2, ubiegających się o awans na stopień nauczyciela dyplomowanego powołuje w przypadku nauczycieli zatrudnionych w:
 
-- **1)** urz´dzie ministra w∏aÊciwego do spraw oÊwiaty i wychowania, kuratoriach oÊwiaty, Centralnej Komisji Egzaminacyjnej iokr´gowych komisjach egzaminacyjnych minister w∏aÊciwy do spraw oÊwiaty iwychowania,
-- **2)** urz´dzie ministra w∏aÊciwego do spraw kultury i ochrony dziedzictwa narodowego i w specjalistycznej jednostce nadzoru minister w∏aÊciwy do spraw kultury i ochrony dziedzictwa narodowego,
-- **3)** organach sprawujàcych nadzór pedagogiczny nad zak∏adami poprawczymi, schroniskami dla nieletnich w∏aÊciwy do spraw zabezpieczenia spo∏ecznego.
+- **1)** urzędzie ministra właściwego do spraw oświaty i wychowania, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej iokręgowych komisjach egzaminacyjnych minister właściwy do spraw oświaty iwychowania,
+- **2)** urzędzie ministra właściwego do spraw kultury i ochrony dziedzictwa narodowego i w specjalistycznej jednostce nadzoru minister właściwy do spraw kultury i ochrony dziedzictwa narodowego,
+- **3)** organach sprawujących nadzór pedagogiczny nad zakładami poprawczymi, schroniskami dla nieletnich właściwy do spraw zabezpieczenia społecznego.
 
-7. Komisj´ egzaminacyjnà lub kwalifikacyjnà dla nauczycieli, o których mowa wart. 9eust. 3, ubiegajàcych si´ oawans na stopieƒ nauczyciela mianowanego lub nauczyciela dyplomowanego powo∏uje minister w∏aÊciwy do spraw oÊwiaty iwychowania.
+7. Komisję egzaminacyjną lub kwalifikacyjną dla nauczycieli, o których mowa wart. 9eust. 3, ubiegających się oawans na stopień nauczyciela mianowanego lub nauczyciela dyplomowanego powołuje minister właściwy do spraw oświaty iwychowania.
 
-8. Nauczyciel, który nie uzyska∏ akceptacji lub nie zda∏ egzaminu odpowiednio przed komisjami, októrych mowa wust. 1—3, mo˝e ponownie z∏o˝yç wniosek opodj´cie post´powania kwalifikacyjnego lub egzaminacyjnego po odbyciu, na wniosek nauczyciela i za zgodà dyrektora szko∏y, dodatkowego sta˝u w wymiarze 9 miesi´cy, ztym ˝e:
+8. Nauczyciel, który nie uzyskał akceptacji lub nie zdał egzaminu odpowiednio przed komisjami, októrych mowa wust. 1—3, może ponownie złożyć wniosek opodjęcie postępowania kwalifikacyjnego lub egzaminacyjnego po odbyciu, na wniosek nauczyciela i za zgodą dyrektora szkoły, dodatkowego stażu w wymiarze 9 miesięcy, ztym że:
 
-- **1)** nauczyciel sta˝ysta i nauczyciel kontraktowy mogà przystàpiç ponownie oraz oÊrodkami diagnostyczno-konsultacyjnymi Minister SprawiedliwoÊci,
-- **4)** urz´dzie ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego i urz´dach wojewódzkich minister odpowiednio do rozmowy z komisjà kwalifikacyjnà lub do egzaminu przed komisjà egzaminacyjnà tylko jeden raz wdanej szkole,
-- **2)** nauczyciel mianowany w przypadku powtórnego nieuzyskania akceptacji przed kolejnym ubieganiem si´ ouzyskanie akceptacji komisji kwalifikacyjnej jest obowiàzany do odbycia sta˝u w wymiarze okreÊlonym w art. 9c ust.1 pkt 2.
+- **1)** nauczyciel stażysta i nauczyciel kontraktowy mogą przystąpić ponownie oraz ośrodkami diagnostyczno-konsultacyjnymi Minister Sprawiedliwości,
+- **4)** urzędzie ministra właściwego do spraw zabezpieczenia społecznego i urzędach wojewódzkich minister odpowiednio do rozmowy z komisją kwalifikacyjną lub do egzaminu przed komisją egzaminacyjną tylko jeden raz wdanej szkole,
+- **2)** nauczyciel mianowany w przypadku powtórnego nieuzyskania akceptacji przed kolejnym ubieganiem się ouzyskanie akceptacji komisji kwalifikacyjnej jest obowiązany do odbycia stażu w wymiarze określonym w art. 9c ust.1 pkt 2.
 
-9. Komisja kwalifikacyjna lub egzaminacyjna wydaje nauczycielowi zaÊwiadczenie odpowiednio oakceptacji lub zdaniu egzaminu. Rejestr wydanych zaÊwiadczeƒ prowadzi odpowiednio dyrektor szko∏y lub organ, który powo∏a∏ komisj´.
+9. Komisja kwalifikacyjna lub egzaminacyjna wydaje nauczycielowi zaświadczenie odpowiednio oakceptacji lub zdaniu egzaminu. Rejestr wydanych zaświadczeń prowadzi odpowiednio dyrektor szkoły lub organ, który powołał komisję.
 
-10. Minister w∏aÊciwy do spraw oÊwiaty i wychowania okreÊli, w porozumieniu z w∏aÊciwymi ministrami, w drodze rozporzàdzenia, sposób odbywania sta˝u, rodzaj dokumentacji za∏àczanej do wniosku nauczyciela opost´powanie kwalifikacyjne lub egzaminacyjne, zakres wymagaƒ kwalifikacyjnych i egzaminacyjnych dla uzyskania poszczególnych stopni awansu zawodowego, zuwzgl´dnieniem zró˝nicowania grup nauczycieli, oraz tryb dzia∏ania komisji kwalifikacyjnych i egzaminacyjnych, a tak˝e wzory zaÊwiadczeƒ o akceptacji lub zdaniu egzaminu oraz wzór aktu nadania stopnia awansu zawodowego.
+10. Minister właściwy do spraw oświaty i wychowania określi, w porozumieniu z właściwymi ministrami, w drodze rozporządzenia, sposób odbywania stażu, rodzaj dokumentacji załączanej do wniosku nauczyciela opostępowanie kwalifikacyjne lub egzaminacyjne, zakres wymagań kwalifikacyjnych i egzaminacyjnych dla uzyskania poszczególnych stopni awansu zawodowego, zuwzględnieniem zróżnicowania grup nauczycieli, oraz tryb działania komisji kwalifikacyjnych i egzaminacyjnych, a także wzory zaświadczeń o akceptacji lub zdaniu egzaminu oraz wzór aktu nadania stopnia awansu zawodowego.
 
-11. List´ ekspertów, o której mowa w ust. 2 pkt 3 iust. 3 pkt 3, prowadzi minister w∏aÊciwy do spraw oÊwiaty iwychowania.
+11. Listę ekspertów, o której mowa w ust. 2 pkt 3 iust. 3 pkt 3, prowadzi minister właściwy do spraw oświaty iwychowania.
 
-12. Minister w∏aÊciwy do spraw oÊwiaty i wychowania w porozumieniu z ministrem w∏aÊciwym do spraw kultury iochrony dziedzictwa narodowego okreÊli, w drodze rozporzàdzenia, wymagania, jakim powinni odpowiadaç eksperci, o których mowa w ust. 2 pkt 3 i ust. 3 pkt 3, oraz warunki wpisywania ekspertów na list´ ekspertów i skreÊlania ich z niej, z uwzgl´dnieniem, i˝ ekspert powinien w szczególnoÊci mieç co najmniej wy˝sze wykszta∏cenie magisterskie oraz spe∏niaç warunki, o których mowa w art. 10 ust. 5 pkt 1—4, a tak˝e uzyskaç rekomendacj´ instytucji lub stowarzyszenia dzia∏ajàcych w systemie oÊwiaty iwychowania, szkolnictwa wy˝szego i nauki albo nauczycielskiego zwiàzku zawodowego.
+12. Minister właściwy do spraw oświaty i wychowania w porozumieniu z ministrem właściwym do spraw kultury iochrony dziedzictwa narodowego określi, w drodze rozporządzenia, wymagania, jakim powinni odpowiadać eksperci, o których mowa w ust. 2 pkt 3 i ust. 3 pkt 3, oraz warunki wpisywania ekspertów na listę ekspertów i skreślania ich z niej, z uwzględnieniem, iż ekspert powinien w szczególności mieć co najmniej wyższe wykształcenie magisterskie oraz spełniać warunki, o których mowa w art. 10 ust. 5 pkt 1—4, a także uzyskać rekomendację instytucji lub stowarzyszenia działających w systemie oświaty iwychowania, szkolnictwa wyższego i nauki albo nauczycielskiego związku zawodowego.
 
 **Art. 9h.**
 
-1. Nadzór nad czynnoÊciami podejmowanymi w post´powaniu o nadanie nauczycielom stopnia awansu zawodowego przez:
+1. Nadzór nad czynnościami podejmowanymi w postępowaniu o nadanie nauczycielom stopnia awansu zawodowego przez:
 
-- **1)** dyrektorów szkó∏, organy prowadzàce szko∏y oraz komisje, o których mowa w art. 9g ust. 1 i 2 sprawuje organ sprawujàcy nadzór pedagogiczny,
-- **2)** organy sprawujàce nadzór pedagogiczny oraz komisje, o których mowa w art. 9g ust. 3 sprawuje w∏aÊciwy minister.
+- **1)** dyrektorów szkół, organy prowadzące szkoły oraz komisje, o których mowa w art. 9g ust. 1 i 2 sprawuje organ sprawujący nadzór pedagogiczny,
+- **2)** organy sprawujące nadzór pedagogiczny oraz komisje, o których mowa w art. 9g ust. 3 sprawuje właściwy minister.
 
-2. CzynnoÊci, o których mowa w ust. 1, podj´te z naruszeniem przepisów ustawy, przepisów o kwalifikacjach nauczycieli lub przepisów o zasadach odbywania sta˝u, rodzaju dokumentacji za∏àczanej do wniosku nauczyciela o post´powanie kwalifikacyjne lub egzaminacyjne, zakresie wymagaƒ kwalifikacyjnych i egzaminacyjnych, trybie i zasadach dzia∏ania komisji, sà niewa˝ne. Niewa˝noÊç czynnoÊci stwierdza, w drodze decyzji administracyjnej, odpowiednio organ sprawujàcy nadzór pedagogiczny wymi ministrami, w drodze rozporzàdzenia, sposób powo∏ywania Kapitu∏y, októrej mowa wust. 1, tryb jej pracy, kryteria oceny dorobku zawodowego nauczycieli oraz tryb sk∏adania wniosków o nadanie tytu∏u honorowego profesora oÊwiaty.”;
+2. Czynności, o których mowa w ust. 1, podjęte z naruszeniem przepisów ustawy, przepisów o kwalifikacjach nauczycieli lub przepisów o zasadach odbywania stażu, rodzaju dokumentacji załączanej do wniosku nauczyciela o postępowanie kwalifikacyjne lub egzaminacyjne, zakresie wymagań kwalifikacyjnych i egzaminacyjnych, trybie i zasadach działania komisji, są nieważne. Nieważność czynności stwierdza, w drodze decyzji administracyjnej, odpowiednio organ sprawujący nadzór pedagogiczny wymi ministrami, w drodze rozporządzenia, sposób powoływania Kapituły, októrej mowa wust. 1, tryb jej pracy, kryteria oceny dorobku zawodowego nauczycieli oraz tryb składania wniosków o nadanie tytułu honorowego profesora oświaty.”;
 
-- **11)** art. 10 otrzymuje brzmienie: „Art. 10. 1. Stosunek pracy z nauczycielem nawiàzuje si´ na podstawie umowy o prac´ lub mianowania, zzastrze˝eniem ust. 8.
+- **11)** art. 10 otrzymuje brzmienie: ŃArt. 10. 1. Stosunek pracy z nauczycielem nawiązuje się na podstawie umowy o pracę lub mianowania, zzastrzeżeniem ust. 8.
 
-2. Zosobà posiadajàcà wymagane kwalifikacje, z zastrze˝eniem ust. 3, i rozpoczynajàcà prac´ wszkole stosunek pracy nawiàzuje si´ na podstawie umowy oprac´ na czas okreÊlony na jeden rok szkolny wcelu odbycia sta˝u wymaganego do uzyskania awansu na stopieƒ nauczyciela kontraktowego. W przypadkach, októrych mowa wart. 9cust. 11 i art. 9g ust. 8, w razie ustalenia dodatkowego sta˝u, znauczycielem sta˝ystà nawiàzuje si´ stosunek pracy na czas okreÊlony na kolejny jeden rok szkolny.
+2. Zosobą posiadającą wymagane kwalifikacje, z zastrzeżeniem ust. 3, i rozpoczynającą pracę wszkole stosunek pracy nawiązuje się na podstawie umowy opracę na czas określony na jeden rok szkolny wcelu odbycia stażu wymaganego do uzyskania awansu na stopień nauczyciela kontraktowego. W przypadkach, októrych mowa wart. 9cust. 11 i art. 9g ust. 8, w razie ustalenia dodatkowego stażu, znauczycielem stażystą nawiązuje się stosunek pracy na czas określony na kolejny jeden rok szkolny.
 
-3. W szczególnych przypadkach uzasadnionych potrzebami szko∏y z osobà, októrej mowa wust. 2, legitymujàcà si´ wymaganym poziomem wykszta∏cenia, lecz nie posiadajàcà przygotowania pedagogicznego, dopuszczalne jest nawiàzanie stosunku pracy, oile osoba ta zobowià˝e si´ do uzyskania przygotowania pedagogicznego w trakcie odbywania sta˝u. W przypadku gdy nauczyciel wciàgu pierwszego roku pracy wszkole nie uzyska przygotowania pedagogicznego zprzyczyn od niego niezale˝nych, znauczycielem mo˝e byç zawarta umowa oprac´ na kolejny jeden rok szkolny. Sta˝ wymagany do ubiegania si´ oawans na stopieƒ nauczyciela kontraktowego przed∏u˝a si´ do czasu uzyskalub w∏aÊciwy minister. nia przygotowania pedagogicznego.
+3. W szczególnych przypadkach uzasadnionych potrzebami szkoły z osobą, októrej mowa wust. 2, legitymującą się wymaganym poziomem wykształcenia, lecz nie posiadającą przygotowania pedagogicznego, dopuszczalne jest nawiązanie stosunku pracy, oile osoba ta zobowiąże się do uzyskania przygotowania pedagogicznego w trakcie odbywania stażu. W przypadku gdy nauczyciel wciągu pierwszego roku pracy wszkole nie uzyska przygotowania pedagogicznego zprzyczyn od niego niezależnych, znauczycielem może być zawarta umowa opracę na kolejny jeden rok szkolny. Staż wymagany do ubiegania się oawans na stopień nauczyciela kontraktowego przedłuża się do czasu uzyskalub właściwy minister. nia przygotowania pedagogicznego.
 
 **Art. 9i.**
 
-1. Nauczycielowi dyplomowanemu, posia- 4. Stosunek pracy z nauczycielem kondajàcemu co najmniej 20-letni okres pra- traktowym nawiàzuje si´ na podstawie cy wzawodzie nauczyciela, wtym co naj- umowy oprac´ zawieranej na: mniej 10-letni okres pracy jako nauczyciel 1) okres umo˝liwiajàcy uzyskanie stopdyplomowany, oraz znaczàcy i uznany nia nauczyciela mianowanego, nie dorobek zawodowy, na wniosek Kapitu∏y d∏u˝ej jednak ni˝ na okres 3 lat, ztym do Spraw Profesorów OÊwiaty mo˝e byç ˝e w przypadkach, o których mowa nadany przez ministra w∏aÊciwego do wart. 9cust. 11 iart. 9gust. 8, wraspraw oÊwiaty iwychowania tytu∏ honorowy profesora oÊwiaty.
+1. Nauczycielowi dyplomowanemu, posia- 4. Stosunek pracy z nauczycielem kondającemu co najmniej 20-letni okres pra- traktowym nawiązuje się na podstawie cy wzawodzie nauczyciela, wtym co naj- umowy opracę zawieranej na: mniej 10-letni okres pracy jako nauczyciel 1) okres umożliwiający uzyskanie stopdyplomowany, oraz znaczący i uznany nia nauczyciela mianowanego, nie dorobek zawodowy, na wniosek Kapituły dłużej jednak niż na okres 3 lat, ztym do Spraw Profesorów Oświaty może być że w przypadkach, o których mowa nadany przez ministra właściwego do wart. 9cust. 11 iart. 9gust. 8, wraspraw oświaty iwychowania tytuł honorowy profesora oświaty.
 
-2. Wnioski do Kapitu∏y onadanie tytu∏u honorowego profesora oÊwiaty sk∏ada organ sprawujàcy nadzór pedagogiczny.
+2. Wnioski do Kapituły onadanie tytułu honorowego profesora oświaty składa organ sprawujący nadzór pedagogiczny.
 
-3. Minister w∏aÊciwy do spraw oÊwiaty i wychowania okreÊli, wporozumieniu zw∏aÊcizie ustalenia dodatkowego sta˝u, z nauczycielem tym nawiàzuje si´ stosunek pracy na czas okreÊlony na jeden rok szkolny albo
+3. Minister właściwy do spraw oświaty i wychowania określi, wporozumieniu zwłaścizie ustalenia dodatkowego stażu, z nauczycielem tym nawiązuje się stosunek pracy na czas określony na jeden rok szkolny albo
 
-- **2)** okres wynikajàcy z organizacji nauczania lub zast´pstwa nieobecnego nauczyciela.
+- **2)** okres wynikający z organizacji nauczania lub zastępstwa nieobecnego nauczyciela.
 
-5. Stosunek pracy znauczycielem mianowanym i z nauczycielem dyplomowanym nawiàzuje si´ na podstawie mianowania, je˝eli:
+5. Stosunek pracy znauczycielem mianowanym i z nauczycielem dyplomowanym nawiązuje się na podstawie mianowania, jeżeli:
 
-- **1)** posiada obywatelstwo polskie, ztym ˝e wymóg ten nie dotyczy obywateli paƒstw Unii Europejskiej,
-- **2)** ma pe∏nà zdolnoÊç do czynnoÊci prawnych i korzysta z praw publicznych,
-- **3)** nie toczy si´ przeciwko niemu post´powanie karne lub dyscyplinarne, lub post´powanie oubezw∏asnowolnienie,
-- **4)** nie by∏ karany za przest´pstwo pope∏nione umyÊlnie,
+- **1)** posiada obywatelstwo polskie, ztym że wymóg ten nie dotyczy obywateli państw Unii Europejskiej,
+- **2)** ma pełną zdolność do czynności prawnych i korzysta z praw publicznych,
+- **3)** nie toczy się przeciwko niemu postępowanie karne lub dyscyplinarne, lub postępowanie oubezwłasnowolnienie,
+- **4)** nie był karany za przestępstwo popełnione umyślnie,
 - **5)** posiada kwalifikacje wymagane do zajmowania danego stanowiska,
-- **6)** istniejà warunki do zatrudnienia nauczyciela wszkole wpe∏nym wymiarze zaj´ç na czas nie okreÊlony.
+- **6)** istnieją warunki do zatrudnienia nauczyciela wszkole wpełnym wymiarze zajęć na czas nie określony.
 
-6. W przypadku braku warunków do zatrudnienia nauczyciela, o których mowa w ust. 5 pkt 6, stosunek pracy z nauczycielem mianowanym lub dyplomowanym nawiàzuje si´ na podstawie umowy o prac´ na czas nie okreÊlony w niepe∏nym wymiarze, z zastrze˝eniem ust. 7.
+6. W przypadku braku warunków do zatrudnienia nauczyciela, o których mowa w ust. 5 pkt 6, stosunek pracy z nauczycielem mianowanym lub dyplomowanym nawiązuje się na podstawie umowy o pracę na czas nie określony w niepełnym wymiarze, z zastrzeżeniem ust. 7.
 
-7. W przypadku zaistnienia potrzeby wynikajàcej zorganizacji nauczania lub zast´pstwa nieobecnego nauczyciela, znauczycielem kontraktowym lub znauczycielami, o których mowa w ust. 5, stosunek pracy nawiàzuje si´ na podstawie umowy oprac´ na czas okreÊlony.
+7. W przypadku zaistnienia potrzeby wynikającej zorganizacji nauczania lub zastępstwa nieobecnego nauczyciela, znauczycielem kontraktowym lub znauczycielami, o których mowa w ust. 5, stosunek pracy nawiązuje się na podstawie umowy opracę na czas określony.
 
-8. Nie mo˝na nawiàzaç stosunku pracy z nauczycielem, który nie spe∏nia warunków, o których mowa w ust. 5 pkt2—5.”;
+8. Nie można nawiązać stosunku pracy z nauczycielem, który nie spełnia warunków, o których mowa w ust. 5 pkt2—5.”;
 
-- **12)** art. 11 otrzymuje brzmienie: „Art. 11. Dyrektor szko∏y nawiàzuje znauczycielem stosunek pracy odpowiednio na podstawie umowy o prac´ lub mianowania na stanowisku zgodnym z posiadanymi przez nauczyciela kwalifikacjami oraz zgodnie z posiadanym przez nauczyciela stopniem awansu zawodowego.”;
+- **12)** art. 11 otrzymuje brzmienie: ŃArt. 11. Dyrektor szkoły nawiązuje znauczycielem stosunek pracy odpowiednio na podstawie umowy o pracę lub mianowania na stanowisku zgodnym z posiadanymi przez nauczyciela kwalifikacjami oraz zgodnie z posiadanym przez nauczyciela stopniem awansu zawodowego.”;
 - **13)** w art. 12 w ust. 1, w art. 18 w ust. 1 i 4, w art. wust. 1, wart. 20 wust. 2, wart. 22 wust. 2, wart.
 - **14)** wart. 15:
-    - **a)** wyrazy „Przy mianowaniu na stanowisko nauczyciela osoba mianowana sk∏ada Êlubowanie przed dyrektorem szko∏y” zast´puje si´ wyrazami „Przy nadawaniu stopnia nauczyciela mianowanego nauczyciel sk∏ada Êlubowanie, potwierdzajàc je podpisem,”
-    - **b)** po wyrazie „Ojczyzny” dodaje si´ wyrazy „ , tradycji narodowych”,
-    - **c)** skreÊla si´ wyrazy „ , zgodnie zzasadami humanizmu, sprawiedliwoÊci spo∏ecznej i wolnoÊci sumienia”,
-    - **d)** na koƒcu dodaje si´ zdanie wbrzmieniu: „Âlubowanie mo˝e byç z∏o˝one z dodaniem s∏ów: «Tak mi dopomó˝ Bóg.»”;
+    - **a)** wyrazy ŃPrzy mianowaniu na stanowisko nauczyciela osoba mianowana składa ślubowanie przed dyrektorem szkoły” zastępuje się wyrazami ŃPrzy nadawaniu stopnia nauczyciela mianowanego nauczyciel składa ślubowanie, potwierdzając je podpisem,”
+    - **b)** po wyrazie ŃOjczyzny” dodaje się wyrazy Ń , tradycji narodowych”,
+    - **c)** skreśla się wyrazy Ń , zgodnie zzasadami humanizmu, sprawiedliwości społecznej i wolności sumienia”,
+    - **d)** na końcu dodaje się zdanie wbrzmieniu: ŃÂlubowanie może być złożone z dodaniem słów: «Tak mi dopomóż Bóg.»”;
 
-- **15)** wart. 16 wyrazy „Mianowanie lub umowa oprac´” zast´puje si´ wyrazami „Stosunek pracy nawiàzany na podstawie mianowania lub umowy oprac´”;
+- **15)** wart. 16 wyrazy ŃMianowanie lub umowa opracę” zastępuje się wyrazami ŃStosunek pracy nawiązany na podstawie mianowania lub umowy opracę”;
 - **16)** wart. 17:
-    - **a)** ust. 2 otrzymuje brzmienie: „2. Nauczyciele mianowani lub nauczyciele dyplomowani powo∏ani na stanowisko kuratora oÊwiaty oraz nauczyciele, októrych mowa w art. 1 ust. 2 pkt 1, przechodzàcy do pracy w urz´dach administracji rzàdowej, kuratoriach oÊwiaty, Centralnej Komisji Egzaminacyjnej, okr´gowych komisjach egzaminacyjnych, w specjalistycznej jednostce nadzoru oraz worganach sprawujàcych nadzór pedagogiczny nad zak∏adami poprawczymi, schroniskami dla nieletnich oraz oÊrodkami diagnostyczno-konsultacyjnymi na stanowiska wymagajàce kwalifikacji pedagogicznych,otrzymujà urlop bezp∏atny na czas zajmowania tych stanowisk.”,
-    - **b)** po ust. 2 dodaje si´ ust. 3 wbrzmieniu: „3. Nauczyciele, o których mowa w ust. 2, zajmujàcy stanowisko dyrektora szko∏y obowiàzani sà do z∏o˝enia rezygnacji zzajmowanego stanowiska przed udzieleniem im urlopu bezp∏atnego, októrym mowa wust. 2.”;
+    - **a)** ust. 2 otrzymuje brzmienie: Ń2. Nauczyciele mianowani lub nauczyciele dyplomowani powołani na stanowisko kuratora oświaty oraz nauczyciele, októrych mowa w art. 1 ust. 2 pkt 1, przechodzący do pracy w urzędach administracji rządowej, kuratoriach oświaty, Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych, w specjalistycznej jednostce nadzoru oraz worganach sprawujących nadzór pedagogiczny nad zakładami poprawczymi, schroniskami dla nieletnich oraz ośrodkami diagnostyczno-konsultacyjnymi na stanowiska wymagające kwalifikacji pedagogicznych,otrzymują urlop bezpłatny na czas zajmowania tych stanowisk.”,
+    - **b)** po ust. 2 dodaje się ust. 3 wbrzmieniu: Ń3. Nauczyciele, o których mowa w ust. 2, zajmujący stanowisko dyrektora szkoły obowiązani są do złożenia rezygnacji zzajmowanego stanowiska przed udzieleniem im urlopu bezpłatnego, októrym mowa wust. 2.”;
 
-- **17)** wart. 18: gii” zast´puje si´ wyrazami „nauczyciela religii zatrudnionego na podstawie mianowania”;
-    - **a)** wust. 2 wpkt 1 przecinek na koƒcu zdania zast´puje si´ kropkà oraz skreÊla si´ pkt 2,
-    - **b)** skreÊla si´ ust. 3,
-    - **c)** wust. 5 wyrazy „mianowanego nauczyciela reli23 wust. 1, 2 i4, wart. 28 wust. 1—3 oraz wart. 70 wust. 1 u˝yte wró˝nych liczbach iprzypadkach wyrazy „nauczyciel mianowany” zast´puje si´ u˝ytymi wodpowiednich liczbach iprzypadkach wyrazami „nauczyciel zatrudniony na podstawie mianowania”;
+- **17)** wart. 18: gii” zastępuje się wyrazami Ńnauczyciela religii zatrudnionego na podstawie mianowania”;
+    - **a)** wust. 2 wpkt 1 przecinek na końcu zdania zastępuje się kropką oraz skreśla się pkt 2,
+    - **b)** skreśla się ust. 3,
+    - **c)** wust. 5 wyrazy Ńmianowanego nauczyciela reli23 wust. 1, 2 i4, wart. 28 wust. 1—3 oraz wart. 70 wust. 1 użyte wróżnych liczbach iprzypadkach wyrazy Ńnauczyciel mianowany” zastępuje się użytymi wodpowiednich liczbach iprzypadkach wyrazami Ńnauczyciel zatrudniony na podstawie mianowania”;
 
-- **18)** wart. 20 ust. 1 otrzymuje brzmienie: „1. Dyrektor szko∏y wrazie:
-- **1)** ca∏kowitej likwidacji szko∏y rozwiàzuje znauczycielem stosunek pracy,
-- **2)** cz´Êciowej likwidacji szko∏y albo w razie zmian organizacyjnych powodujàcych zmniejszenie liczby oddzia∏ów w szkole lub zmian planu nauczania uniemo˝liwiajàcych dalsze zatrudnianie nauczyciela w pe∏nym wymiarze zaj´ç rozwiàzuje z nim stosunek pracy lub, na wniosek nauczyciela, przenosi go w stan nieczynny. Nauczyciel zatrudniony na podstawie mianowania mo˝e wyraziç zgod´ na ograniczenie zatrudnienia w trybie okreÊlonym wart. 22 ust. 2.”;
+- **18)** wart. 20 ust. 1 otrzymuje brzmienie: Ń1. Dyrektor szkoły wrazie:
+- **1)** całkowitej likwidacji szkoły rozwiązuje znauczycielem stosunek pracy,
+- **2)** częściowej likwidacji szkoły albo w razie zmian organizacyjnych powodujących zmniejszenie liczby oddziałów w szkole lub zmian planu nauczania uniemożliwiających dalsze zatrudnianie nauczyciela w pełnym wymiarze zajęć rozwiązuje z nim stosunek pracy lub, na wniosek nauczyciela, przenosi go w stan nieczynny. Nauczyciel zatrudniony na podstawie mianowania może wyrazić zgodę na ograniczenie zatrudnienia w trybie określonym wart. 22 ust. 2.”;
 - **19)** wart. 22:
-    - **a)** w ust. 1 po wyrazie „szkole” dodaje si´ wyrazy „lub szko∏ach” oraz skreÊla si´ wyrazy „wtej samej miejscowoÊci”,
-    - **b)** po ust. 2 dodaje si´ ust. 3 i4 wbrzmieniu: „3. Do nauczyciela zatrudnionego w kilku szko∏ach, który w ˝adnej z tych szkó∏ nie jest zatrudniony w wymiarze co najmniej 1/2 obowiàzkowego wymiaru zaj´ç, ∏àcznie jednak wymiar jego zaj´ç stanowi co najmniej 1/2 obowiàzkowego wymiaru zaj´ç dla danego stanowiska, nie ma zastosowania przepis art. 91bust. 1.
+    - **a)** w ust. 1 po wyrazie Ńszkole” dodaje się wyrazy Ńlub szkołach” oraz skreśla się wyrazy Ńwtej samej miejscowości”,
+    - **b)** po ust. 2 dodaje się ust. 3 i4 wbrzmieniu: Ń3. Do nauczyciela zatrudnionego w kilku szkołach, który w żadnej z tych szkół nie jest zatrudniony w wymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć, łącznie jednak wymiar jego zajęć stanowi co najmniej 1/2 obowiązkowego wymiaru zajęć dla danego stanowiska, nie ma zastosowania przepis art. 91bust. 1.
 
-4. Wprzypadku, októrym mowa wust. 3, organ sprawujàcy nadzór pedagogiczny wyznacza dyrektora szko∏y, który wykonuje czynnoÊci zwiàzane zodbywaniem sta˝u przez nauczyciela, wtym powo∏uje opiekuna sta˝u, dokonuje oceny dorobku zawodowego nauczyciela oraz wskazuje nauczycielowi w∏aÊciwego dyrektora szko∏y lub w∏aÊciwy organ do z∏o˝enia wniosku odpowiednio o post´powanie kwalifikacyjne lub egzaminacyjne.”;
+4. Wprzypadku, októrym mowa wust. 3, organ sprawujący nadzór pedagogiczny wyznacza dyrektora szkoły, który wykonuje czynności związane zodbywaniem stażu przez nauczyciela, wtym powołuje opiekuna stażu, dokonuje oceny dorobku zawodowego nauczyciela oraz wskazuje nauczycielowi właściwego dyrektora szkoły lub właściwy organ do złożenia wniosku odpowiednio o postępowanie kwalifikacyjne lub egzaminacyjne.”;
 
 - **20)** wart. 23:
-    - **a)** wust. 1: wpkt 2 po wyrazach „je˝eli okres tej niezdolnoÊci przekracza rok” dodaje si´ przecinek oraz wyrazy „przy czym do okresu niezdolnoÊci do pracy wlicza si´ równie˝ przypadajàce wtym okresie przerwy obejmujàce dni, wktórych wszkole, zgodnie zodr´bnymi przepisami, nie odbywajà si´ zaj´cia”, pkt 3 otrzymuje brzmienie: „3) w razie orzeczenia przez lekarza przeprowadzajàcego badanie okresowe lub kontrolne o niezdolnoÊci nauczyciela do wykonywania dotychczasowej pracy,”
-    - **b)** wust. 2 pkt 3 otrzymuje brzmienie: „2) w razie nieusprawiedliwionego niezg∏oszenia si´ nauczyciela na badanie okresowe lub kontrolne, z koƒcem miesiàca, w którym dyrektor otrzyma∏ o tym informacj´, zzastrze˝eniem ust. 5.”,
-    - **d)** ust. 5 otrzymuje brzmienie: „5. Dyrektor szko∏y mo˝e skierowaç nauczyciela mianowanego na badanie okresowe lub kontrolne z w∏asnej inicjatywy w ka˝dym czasie. W przypadku dwukrotnego nieusprawiedliwionego niezg∏oszenia si´ nauczyciela na badanie ust. 4 pkt 2 stosuje si´ odpowiednio.”;
+    - **a)** wust. 1: wpkt 2 po wyrazach Ńjeżeli okres tej niezdolności przekracza rok” dodaje się przecinek oraz wyrazy Ńprzy czym do okresu niezdolności do pracy wlicza się również przypadające wtym okresie przerwy obejmujące dni, wktórych wszkole, zgodnie zodrębnymi przepisami, nie odbywają się zajęcia”, pkt 3 otrzymuje brzmienie: Ń3) w razie orzeczenia przez lekarza przeprowadzającego badanie okresowe lub kontrolne o niezdolności nauczyciela do wykonywania dotychczasowej pracy,”
+    - **b)** wust. 2 pkt 3 otrzymuje brzmienie: Ń2) w razie nieusprawiedliwionego niezgłoszenia się nauczyciela na badanie okresowe lub kontrolne, z końcem miesiąca, w którym dyrektor otrzymał o tym informację, zzastrzeżeniem ust. 5.”,
+    - **d)** ust. 5 otrzymuje brzmienie: Ń5. Dyrektor szkoły może skierować nauczyciela mianowanego na badanie okresowe lub kontrolne z własnej inicjatywy w każdym czasie. W przypadku dwukrotnego nieusprawiedliwionego niezgłoszenia się nauczyciela na badanie ust. 4 pkt 2 stosuje się odpowiednio.”;
 
-- **21)** art. 26 otrzymuje brzmienie: „Art. 26. 1. Stosunek pracy nauczyciela wygasa zmocy prawa odpowiednio wrazie:
-- **1)** prawomocnego ukarania wpost´powaniu dyscyplinarnym karà dyscyplinarnà zwolnienia zpracy oraz karà dyscyplinarnà zwolnienia z pracy z zakazem przyjmowania ukaranego do pracy wzawodzie nauczycielskim w okresie trzech lat od ukarania lub karà wydalenia zzawodu nauczycielskiego,
-- **2)** prawomocnego skazania na kar´ pozbawienia praw publicznych albo prawa wykonywania zawodu lub utraty pe∏nej zdolnoÊci do czynnoÊci prawnych,
-- **3)** prawomocnego skazania za przest´pstwo pope∏nione umyÊlnie,
-- **4)** up∏ywu trzymiesi´cznego okresu odbywania kary pozbawienia wolnoÊci,
-- **5)** stwierdzenia, ˝e nawiàzanie stosunku pracy nastàpi∏o na podstawie fa∏szywych lub niewa˝nych dokumentów albo zosta∏o dokonane z naruszeniem warunków okreÊlonych wart. 10 ust. 5 pkt 1—5.
+- **21)** art. 26 otrzymuje brzmienie: ŃArt. 26. 1. Stosunek pracy nauczyciela wygasa zmocy prawa odpowiednio wrazie:
+- **1)** prawomocnego ukarania wpostępowaniu dyscyplinarnym karą dyscyplinarną zwolnienia zpracy oraz karą dyscyplinarną zwolnienia z pracy z zakazem przyjmowania ukaranego do pracy wzawodzie nauczycielskim w okresie trzech lat od ukarania lub karą wydalenia zzawodu nauczycielskiego,
+- **2)** prawomocnego skazania na karę pozbawienia praw publicznych albo prawa wykonywania zawodu lub utraty pełnej zdolności do czynności prawnych,
+- **3)** prawomocnego skazania za przestępstwo popełnione umyślnie,
+- **4)** upływu trzymiesięcznego okresu odbywania kary pozbawienia wolności,
+- **5)** stwierdzenia, że nawiązanie stosunku pracy nastąpiło na podstawie fałszywych lub nieważnych dokumentów albo zostało dokonane z naruszeniem warunków określonych wart. 10 ust. 5 pkt 1—5.
 
-2. WygaÊni´cie stosunku pracy w przypadkach okreÊlonych wust. 1 stwierdza dyrektor szko∏y, awstosunku do dyrektora szko∏y organ prowadzàcy szko∏´.”;
+2. Wygaśnięcie stosunku pracy w przypadkach określonych wust. 1 stwierdza dyrektor szkoły, awstosunku do dyrektora szkoły organ prowadzący szkołę.”;
 
-- **22)** wart. 28 wust. 2apo wyrazie „nauczycielowi” dodaje si´ wyrazy „zatrudnionemu na podstawie mianowania”; „3) z koƒcem miesiàca, w którym dyrektor szko∏y otrzyma∏ ostateczne orzeczenie lekarskie oniezdolnoÊci nauczyciela do wykonywania dotychczasowej pracy,”
+- **22)** wart. 28 wust. 2apo wyrazie Ńnauczycielowi” dodaje się wyrazy Ńzatrudnionemu na podstawie mianowania”; Ń3) z końcem miesiąca, w którym dyrektor szkoły otrzymał ostateczne orzeczenie lekarskie oniezdolności nauczyciela do wykonywania dotychczasowej pracy,”
     - **c)** wust. 4 pkt 2 otrzymuje brzmienie:
 
-- **23)** wart. 29 ust. 3 otrzymuje brzmienie: „3. Minister w∏aÊciwy do spraw oÊwiaty i wychowania, a w odniesieniu do szkó∏ artystycznych minister w∏aÊciwy do spraw kultury i ochrony dziedzictwa narodowego, okreÊli, wdrodze rozporzàdzenia, podstawowe warunki niezb´dne do realizacji przez szko∏y i nauczycieli zadaƒ i programów, o których mowa w ust. 1 i 2, uwzgl´dniajàc koniecznoÊç realizacji przez szko∏y zadaƒ statutowych oraz realizacji przez nauczycieli zadaƒ dydaktycznych, wychowawczych iopiekuƒczych.”;
-- **24)** art. 30—32 otrzymujà brzmienie: „Art. 30. 1. Wynagrodzenie nauczycieli, z zastrze˝eniem art. 32, sk∏ada si´ z:
+- **23)** wart. 29 ust. 3 otrzymuje brzmienie: Ń3. Minister właściwy do spraw oświaty i wychowania, a w odniesieniu do szkół artystycznych minister właściwy do spraw kultury i ochrony dziedzictwa narodowego, określi, wdrodze rozporządzenia, podstawowe warunki niezbędne do realizacji przez szkoły i nauczycieli zadań i programów, o których mowa w ust. 1 i 2, uwzględniając konieczność realizacji przez szkoły zadań statutowych oraz realizacji przez nauczycieli zadań dydaktycznych, wychowawczych iopiekuńczych.”;
+- **24)** art. 30—32 otrzymują brzmienie: ŃArt. 30. 1. Wynagrodzenie nauczycieli, z zastrzeżeniem art. 32, składa się z:
 - **1)** wynagrodzenia zasadniczego,
-- **2)** dodatków: za wys∏ug´ lat, motywacyjnego, funkcyjnego oraz za warunki pracy,
-- **3)** wynagrodzenia za godziny ponadwymiarowe i godziny doraênych zast´pstw,
-- **4)** nagród iinnych Êwiadczeƒ wynikajàcych ze stosunku pracy, z wy∏àczeniem Êwiadczeƒ z zak∏adowego funduszu Êwiadczeƒ socjalnych idodatków socjalnych okreÊlonych w art.
+- **2)** dodatków: za wysługę lat, motywacyjnego, funkcyjnego oraz za warunki pracy,
+- **3)** wynagrodzenia za godziny ponadwymiarowe i godziny doraênych zastępstw,
+- **4)** nagród iinnych świadczeń wynikających ze stosunku pracy, z wyłączeniem świadczeń z zakładowego funduszu świadczeń socjalnych idodatków socjalnych określonych w art.
 
 54.
 
-2. WysokoÊç wynagrodzenia zasadniczego nauczyciela uzale˝niona jest od stopnia awansu zawodowego, posiadanych kwalifikacji oraz wymiaru zaj´ç obowiàzkowych, awysokoÊç dodatków odpowiednio od okresu zatrudnienia, jakoÊci Êwiadczonej pracy, wykonywania dodatkowych zadaƒ lub zaj´ç, powierzonego stanowiska oraz trudnych, ucià˝liwych lub szkodliwych dla zdrowia warunków pracy.
+2. Wysokość wynagrodzenia zasadniczego nauczyciela uzależniona jest od stopnia awansu zawodowego, posiadanych kwalifikacji oraz wymiaru zajęć obowiązkowych, awysokość dodatków odpowiednio od okresu zatrudnienia, jakości świadczonej pracy, wykonywania dodatkowych zadań lub zajęć, powierzonego stanowiska oraz trudnych, uciążliwych lub szkodliwych dla zdrowia warunków pracy.
 
-3. Ârednie wynagrodzenie nauczyciela sta˝ysty stanowi 82% kwoty bazowej okreÊlanej dla pracowników paƒstwowej sfery bud˝etowej na podstawie art. 5 pkt 1 lit. a) i art. 6 ust. 1 pkt 2 ustawy z dnia 23 grudnia 1999 r. o kszta∏towaniu wynagrodzeƒ wpaƒstwowej sferze bud˝etowej oraz o zmianie niektórych ustaw (Dz.U. 110, poz. 1255), ustalanej corocznie wustawie bud˝etowej.
+3. Ârednie wynagrodzenie nauczyciela stażysty stanowi 82% kwoty bazowej określanej dla pracowników państwowej sfery budżetowej na podstawie art. 5 pkt 1 lit. a) i art. 6 ust. 1 pkt 2 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń wpaństwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz.U. 110, poz. 1255), ustalanej corocznie wustawie budżetowej.
 
-4. Ârednie wynagrodzenie pozosta∏ych nauczycieli stanowi dla:
+4. Ârednie wynagrodzenie pozostałych nauczycieli stanowi dla:
 
 - **1)** nauczyciela kontraktowego 125 %,
 - **2)** nauczyciela mianowanego 175 %,
 - **3)** nauczyciela dyplomowanego 225 % wynagrodzenia, októrym mowa wust. 3.
-- **1)** wysokoÊç minimalnych stawek wynagrodzenia zasadniczego dla nauczycieli realizujàcych tygodniowy obowiàzkowy wymiar godzin, o którym mowa w art. 42 ust. 3, oraz dla nauczycieli, których tygodniowy obowiàzkowy wymiar godzin ustala si´ na podstawie art. 42 ust. 7, atak˝e szczegó∏owe zasady zaszeregowania nauczycieli, zuwzgl´dnieniem zasady, i˝ Êrednia minimalna stawka wynagrodzenia zasadniczego stanowi co najmniej 75% Êredniego wynagrodzenia nauczycieli, októrym mowa wust. 3 i4,
-- **2)** sposób obliczania wysokoÊci stawki wynagrodzenia zasadniczego za jednà godzin´ przeliczeniowà iminimalnej stawki wynagrodzenia zasadniczego dla nauczycieli realizujàcych tygodniowy obowiàzkowy wymiar godzin, o którym mowa w art. 42 ust.4a,
-- **3)** wykaz stanowisk oraz dodatkowych zadaƒ i zaj´ç uprawniajàcych nauczyciela do dodatku funkcyjnego oraz ogólne warunki przyznawania nauczycielom dodatku motywacyjnego.
+- **1)** wysokość minimalnych stawek wynagrodzenia zasadniczego dla nauczycieli realizujących tygodniowy obowiązkowy wymiar godzin, o którym mowa w art. 42 ust. 3, oraz dla nauczycieli, których tygodniowy obowiązkowy wymiar godzin ustala się na podstawie art. 42 ust. 7, atakże szczegółowe zasady zaszeregowania nauczycieli, zuwzględnieniem zasady, iż średnia minimalna stawka wynagrodzenia zasadniczego stanowi co najmniej 75% średniego wynagrodzenia nauczycieli, októrym mowa wust. 3 i4,
+- **2)** sposób obliczania wysokości stawki wynagrodzenia zasadniczego za jedną godzinę przeliczeniową iminimalnej stawki wynagrodzenia zasadniczego dla nauczycieli realizujących tygodniowy obowiązkowy wymiar godzin, o którym mowa w art. 42 ust.4a,
+- **3)** wykaz stanowisk oraz dodatkowych zadań i zajęć uprawniających nauczyciela do dodatku funkcyjnego oraz ogólne warunki przyznawania nauczycielom dodatku motywacyjnego.
 
-6. Organ prowadzàcy szko∏´ b´dàcy jednostkà samorzàdu terytorialnego okreÊla dla nauczycieli poszczególnych stopni awansu zawodowego, wdrodze regulaminu:
+6. Organ prowadzący szkołę będący jednostką samorządu terytorialnego określa dla nauczycieli poszczególnych stopni awansu zawodowego, wdrodze regulaminu:
 
-- **1)** wysokoÊç stawek dodatków, o których mowa wust. 1 pkt 2, oraz szczegó∏owe warunki przyznawania tych dodatków, z zastrze˝eniem art. 33 i34,
-- **2)** szczegó∏owy sposób obliczania wynagrodzenia za godziny ponadwy5. Minister w∏aÊciwy do spraw oÊwiaty i wychowania, w porozumieniu z ministrem w∏aÊciwym do spraw pracy, okreÊla, w drodze rozporzàdzenia, dla nauczycieli poszczególnych stopni awansu zawodowego: miarowe, z zastrze˝eniem art. 35 ust.3, oraz za godziny doraênych zast´pstw,
-- **3)** wysokoÊç i warunki wyp∏acania sk∏adników wynagrodzenia, o których mowa wust. 1 pkt 4, oile nie zosta∏y one okreÊlone w ustawie lub wodr´bnych przepisach, w taki sposób, aby Êrednie wynagrodzenia nauczycieli, sk∏adajàce si´ zwynagrodzenia zasadniczego i sk∏adników, októrych mowa wpkt 1—3, odpowiada∏y na obszarze dzia∏ania danej jednostki samorzàdu terytorialnego co najmniej Êrednim wynagrodzeniom nauczycieli, o których mowa odpowiednio wust. 3 i4.
+- **1)** wysokość stawek dodatków, o których mowa wust. 1 pkt 2, oraz szczegółowe warunki przyznawania tych dodatków, z zastrzeżeniem art. 33 i34,
+- **2)** szczegółowy sposób obliczania wynagrodzenia za godziny ponadwy5. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw pracy, określa, w drodze rozporządzenia, dla nauczycieli poszczególnych stopni awansu zawodowego: miarowe, z zastrzeżeniem art. 35 ust.3, oraz za godziny doraênych zastępstw,
+- **3)** wysokość i warunki wypłacania składników wynagrodzenia, o których mowa wust. 1 pkt 4, oile nie zostały one określone w ustawie lub wodrębnych przepisach, w taki sposób, aby średnie wynagrodzenia nauczycieli, składające się zwynagrodzenia zasadniczego i składników, októrych mowa wpkt 1—3, odpowiadały na obszarze działania danej jednostki samorządu terytorialnego co najmniej średnim wynagrodzeniom nauczycieli, o których mowa odpowiednio wust. 3 i4.
 
-7. Minister w∏aÊciwy do spraw oÊwiaty i wychowania, w porozumieniu z w∏aÊciwymi ministrami, uwzgl´dniajàc wysokoÊci Êredniego wynagrodzenia nauczycieli, októrych mowa wust. 3 i4, okreÊla, w drodze rozporzàdzenia, dla nauczycieli poszczególnych stopni awansu zawodowego zatrudnionych w szko∏ach prowadzonych przez organy administracji rzàdowej wysokoÊç stawek dodatków, o których mowa wust. 1 pkt 2, oraz szczegó∏owe warunki przyznawania tych dodatków, z zastrze˝eniem art. 33, a tak˝e szczegó∏owy sposób obliczania wynagrodzenia za godziny ponadwymiarowe igodziny doraênych zast´pstw oraz wysokoÊç i warunki wyp∏acania sk∏adników wynagrodzenia, o których mowa w ust. 1 pkt 4, o ile nie zosta∏y one okreÊlone w przepisach ustawy lub w odr´bnych przepisach.
+7. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z właściwymi ministrami, uwzględniając wysokości średniego wynagrodzenia nauczycieli, októrych mowa wust. 3 i4, określa, w drodze rozporządzenia, dla nauczycieli poszczególnych stopni awansu zawodowego zatrudnionych w szkołach prowadzonych przez organy administracji rządowej wysokość stawek dodatków, o których mowa wust. 1 pkt 2, oraz szczegółowe warunki przyznawania tych dodatków, z zastrzeżeniem art. 33, a także szczegółowy sposób obliczania wynagrodzenia za godziny ponadwymiarowe igodziny doraênych zastępstw oraz wysokość i warunki wypłacania składników wynagrodzenia, o których mowa w ust. 1 pkt 4, o ile nie zostały one określone w przepisach ustawy lub w odrębnych przepisach.
 
-8. Ârodki niezb´dne na Êrednie wynagrodzenia nauczycieli, o których mowa w ust. 3 i 4, dla liczby nauczycieli poszczególnych stopni zatrudnionych zgodnie ze standardami, októrych mowa wust. 9, wraz zpochodnymi od wynagrodzeƒ iodpisami, októrych mowa w ustawie, zagwarantowane sà przez paƒstwo w dochodach jednostek samorzàdu terytorialnego, awprzypadku szkó∏ prowadzonych przez w∏aÊciwych ministrów w bud˝etach tych ministrów.
+8. Ârodki niezbędne na średnie wynagrodzenia nauczycieli, o których mowa w ust. 3 i 4, dla liczby nauczycieli poszczególnych stopni zatrudnionych zgodnie ze standardami, októrych mowa wust. 9, wraz zpochodnymi od wynagrodzeń iodpisami, októrych mowa w ustawie, zagwarantowane są przez państwo w dochodach jednostek samorządu terytorialnego, awprzypadku szkół prowadzonych przez właściwych ministrów w budżetach tych ministrów.
 
-9. Minister w∏aÊciwy do spraw oÊwiaty iwychowania okreÊla, wporozumieniu zzainteresowanymi ministrami, wdrodze rozporzàdzenia, standardy zatrudnienia nauczycieli, bioràc pod uwag´ w szczególnoÊci liczb´ nauczycieli na oddzia∏, liczb´ uczniów woddziale oraz liczb´ obowiàzkowych zaj´ç dla uczniów i wychowanków w poszczesi´cznego ostatnio pobieranego wynagrodzenia zasadniczego.
+9. Minister właściwy do spraw oświaty iwychowania określa, wporozumieniu zzainteresowanymi ministrami, wdrodze rozporządzenia, standardy zatrudnienia nauczycieli, biorąc pod uwagę w szczególności liczbę nauczycieli na oddział, liczbę uczniów woddziale oraz liczbę obowiązkowych zajęć dla uczniów i wychowanków w poszczesięcznego ostatnio pobieranego wynagrodzenia zasadniczego.
 
 **Art. 32.**
 
-1. Nauczycielom, o których mowa w art. 1 ust. 2 pkt 1, oprócz wynagrodzenia zasadniczego przys∏ugujà dodatki: za wys∏ug´ lat, motywacyjny oraz s∏u˝bowy.
+1. Nauczycielom, o których mowa w art. 1 ust. 2 pkt 1, oprócz wynagrodzenia zasadniczego przysługują dodatki: za wysługę lat, motywacyjny oraz służbowy.
 
-2. Minister w∏aÊciwy do spraw oÊwiaty i wychowania, w porozumieniu z ministrem w∏aÊciwym do spraw pracy, okreÊla, wdrodze rozporzàdzenia, wysokoÊç dodatków motywacyjnego is∏u˝bowego oraz szczegó∏owe zasady przyznawania tych dodatków.”;
+2. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw pracy, określa, wdrodze rozporządzenia, wysokość dodatków motywacyjnego isłużbowego oraz szczegółowe zasady przyznawania tych dodatków.”;
 
 - **25)** wart. 33:
-    - **a)** wust. 1 wyrazy „dodatek za sta˝ pracy” zast´puje si´ wyrazami „dodatek za wys∏ug´ lat”,
-    - **b)** ust. 3 otrzymuje brzmienie: „3. Minister w∏aÊciwy do spraw oÊwiaty i wychowania, wporozumieniu zministrem w∏aÊciwym do spraw pracy, okreÊla, w drodze rozporzàdzenia, szczególne przypadki zaliczania okresów zatrudnienia oraz innych okresów uprawniajàcych do dodatku za wys∏ug´ lat.”;
+    - **a)** wust. 1 wyrazy Ńdodatek za staż pracy” zastępuje się wyrazami Ńdodatek za wysługę lat”,
+    - **b)** ust. 3 otrzymuje brzmienie: Ń3. Minister właściwy do spraw oświaty i wychowania, wporozumieniu zministrem właściwym do spraw pracy, określa, w drodze rozporządzenia, szczególne przypadki zaliczania okresów zatrudnienia oraz innych okresów uprawniających do dodatku za wysługę lat.”;
 
-- **26)** art. 34 otrzymuje brzmienie: „Art. 34. 1. Nauczycielom pracujàcym wtrudnych, ucià˝liwych lub szkodliwych dla zdrowia warunkach przys∏uguje ztego tytu∏u dodatek za warunki pracy.
+- **26)** art. 34 otrzymuje brzmienie: ŃArt. 34. 1. Nauczycielom pracującym wtrudnych, uciążliwych lub szkodliwych dla zdrowia warunkach przysługuje ztego tytułu dodatek za warunki pracy.
 
-2. Minister w∏aÊciwy do spraw oÊwiaty i wychowania, w porozumieniu z ministrem w∏aÊciwym do spraw pracy, okreÊla, w drodze rozporzàdzenia, wykaz trudnych iucià˝liwych warunków pracy, stanowiàcych podstaw´ do przyznania z tego tytu∏u dodatku, o którym mowa w ust. 1, bioràc pod uwag´ w szczególnoÊci stopieƒ trudnoÊci zaj´ç realizowagólnych typach irodzajach szkó∏.
+2. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw pracy, określa, w drodze rozporządzenia, wykaz trudnych iuciążliwych warunków pracy, stanowiących podstawę do przyznania z tego tytułu dodatku, o którym mowa w ust. 1, biorąc pod uwagę w szczególności stopień trudności zajęć realizowagólnych typach irodzajach szkół.
 
-10. Jednostki samorzàdu terytorialnego prowadzàce szko∏y mogà zwi´kszyç wysokoÊç Êrodków na wynagrodzenia nauczycieli ponad poziom gwarantowany przez paƒstwo.
+10. Jednostki samorządu terytorialnego prowadzące szkoły mogą zwiększyć wysokość środków na wynagrodzenia nauczycieli ponad poziom gwarantowany przez państwo.
 
-11. Podwy˝szenie wynagrodzeƒ dla nauczycieli nast´puje nie póêniej ni˝ w terminie okreÊlonym dla pracowników paƒstwowej sfery bud˝etowej, o których mowa w ust. 3, z wyrównaniem od dnia 1 stycznia danego roku.
+11. Podwyższenie wynagrodzeń dla nauczycieli następuje nie póêniej niż w terminie określonym dla pracowników państwowej sfery budżetowej, o których mowa w ust. 3, z wyrównaniem od dnia 1 stycznia danego roku.
 
-**Art. 31.** Nauczycielowi dyplomowanemu, który uzyska∏ tytu∏ honorowy profesora oÊwiaty, organ prowadzàcy wyp∏aca jednorazowà gratyfikacj´ pieni´˝nà w wysokoÊci 6-mienych w warunkach trudnych i ucià˝liwych. 3. Minister w∏aÊciwy do spraw zdrowia, w porozumieniu z ministrem w∏aÊciwym do spraw pracy oraz ministrem w∏aÊciwym do spraw oÊwiaty i wychowania, okreÊla, w drodze rozporzàdzenia, wykaz prac wykonywanych w warunkach szkodliwych dla zdrowia, stanowiàcych podstaw´ do przyznania dodatku, o którym mowa w ust. 1. Rozporzàdzenie powinno w szczególnoÊci uwzgl´dniaç stopnie szkodliwoÊci poszczególnych prac, a tak˝e st´˝enia lub nat´˝enia czynników szkodliwych dla zdrowia, przekraczajàce najwy˝sze dopuszczalne normy.”;
+**Art. 31.** Nauczycielowi dyplomowanemu, który uzyskał tytuł honorowy profesora oświaty, organ prowadzący wypłaca jednorazową gratyfikację pieniężną w wysokości 6-mienych w warunkach trudnych i uciążliwych. 3. Minister właściwy do spraw zdrowia, w porozumieniu z ministrem właściwym do spraw pracy oraz ministrem właściwym do spraw oświaty i wychowania, określa, w drodze rozporządzenia, wykaz prac wykonywanych w warunkach szkodliwych dla zdrowia, stanowiących podstawę do przyznania dodatku, o którym mowa w ust. 1. Rozporządzenie powinno w szczególności uwzględniać stopnie szkodliwości poszczególnych prac, a także stężenia lub natężenia czynników szkodliwych dla zdrowia, przekraczające najwyższe dopuszczalne normy.”;
 
-**Art. 2.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, 106, poz. 668 i 113, poz. 717 oraz z 1999 r. 99, poz.1152) wart. 241 skreÊla si´ § 3.
+**Art. 2.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, 106, poz. 668 i 113, poz. 717 oraz z 1999 r. 99, poz.1152) wart. 241 skreśla się § 3.
 
-**Art. 3.** Wustawie zdnia 7 wrzeÊnia 1991 r. osystemie oÊwiaty (Dz. U. z 1996 r. 67, poz. 329 i 106, poz. 496, z 1997 r. 28, poz. 153 i 141, poz. 943, z 1998 r. 117, poz. 759 i 162, poz. 1126 oraz z 2000 r. 12, poz. 136) wprowadza si´ nast´pujàce zmiany:
+**Art. 3.** Wustawie zdnia 7 września 1991 r. osystemie oświaty (Dz. U. z 1996 r. 67, poz. 329 i 106, poz. 496, z 1997 r. 28, poz. 153 i 141, poz. 943, z 1998 r. 117, poz. 759 i 162, poz. 1126 oraz z 2000 r. 12, poz. 136) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 13 paêdziernika 1998 r. Przepisy wprowadzajàce ustawy reformujàce administracj´ publicznà (Dz. U. 133, poz. 872 i 162, poz.1126 oraz z2000 r. 6, poz. 70 iNr 12, poz. 136) skreÊla si´ art. 51.
+**Art. 4.** W ustawie z dnia 13 paêdziernika 1998 r. Przepisy wprowadzające ustawy reformujące administrację publiczną (Dz. U. 133, poz. 872 i 162, poz.1126 oraz z2000 r. 6, poz. 70 iNr 12, poz. 136) skreśla się art. 51.
 
-**Art. 5.** Wustawie zdnia 23 grudnia 1999 r. okszta∏towaniu wynagrodzeƒ w paƒstwowej sferze bud˝etowej oraz o zmianie niektórych ustaw (Dz.U. 110, poz. 1255) wart. 3 wpkt 3 kropk´ na koƒcu zdania zast´puje si´ przecinkiem oraz dodaje si´ pkt 4 wbrzmieniu: „4) nauczycieli zatrudnionych wszko∏ach iplacówkach prowadzonych przez organy administracji rzàdowej.”
+**Art. 5.** Wustawie zdnia 23 grudnia 1999 r. okształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz.U. 110, poz. 1255) wart. 3 wpkt 3 kropkę na końcu zdania zastępuje się przecinkiem oraz dodaje się pkt 4 wbrzmieniu: Ń4) nauczycieli zatrudnionych wszkołach iplacówkach prowadzonych przez organy administracji rządowej.”
 
 **Art. 6.**
 
-1. Nauczyciele, wychowawcy i inni pracownicy pedagogiczni zatrudnieni w dniu wejÊcia w ˝ycie ustawy w:
+1. Nauczyciele, wychowawcy i inni pracownicy pedagogiczni zatrudnieni w dniu wejścia w życie ustawy w:
 
-- **1)** przedszkolach publicznych i szko∏ach publicznych prowadzonych przez osoby fizyczne oraz osoby prawne nie b´dàce jednostkami samorzàdu terytorialnego,
-- **2)** placówkach kszta∏cenia artystycznego dzieci i m∏odzie˝y, placówkach opiekuƒczo-wychowawczych i resocjalizacyjnych, prowadzonych przez spó∏dzielnie, instytucje i organizacje spo∏eczne, które dzia∏alnoÊç oÊwiatowo-wychowawczà i kszta∏cenie artystyczne prowadzà na podstawie statutu,
-- **3)** organizacjach spo∏ecznych na stanowiskach wymagajàcych kwalifikacji pedagogicznych zachowujà do dnia rozwiàzania lub wygaÊni´cia stosunku pracy dotychczasowe uprawnienia okreÊlone ustawà, o ile ustawa, o której mowa w art. 1, takie uprawnienia przewiduje.
+- **1)** przedszkolach publicznych i szkołach publicznych prowadzonych przez osoby fizyczne oraz osoby prawne nie będące jednostkami samorządu terytorialnego,
+- **2)** placówkach kształcenia artystycznego dzieci i młodzieży, placówkach opiekuńczo-wychowawczych i resocjalizacyjnych, prowadzonych przez spółdzielnie, instytucje i organizacje społeczne, które działalność oświatowo-wychowawczą i kształcenie artystyczne prowadzą na podstawie statutu,
+- **3)** organizacjach społecznych na stanowiskach wymagających kwalifikacji pedagogicznych zachowują do dnia rozwiązania lub wygaśnięcia stosunku pracy dotychczasowe uprawnienia określone ustawą, o ile ustawa, o której mowa w art. 1, takie uprawnienia przewiduje.
 
-2. Pracownicy zatrudnieni w dniu wejÊcia w ˝ycie i doskonalàcych w formach pozaszkolnych na zasadach okreÊlonych w ustawie o systemie oÊwiaty,
+2. Pracownicy zatrudnieni w dniu wejścia w życie i doskonalących w formach pozaszkolnych na zasadach określonych w ustawie o systemie oświaty,
 
-- **2)** w placówkach zbiorowego zakwaterowania, prowadzàcy prac´ wychowawczà zm∏odocianymi pracownikami (uczniami), dla których praca dydaktyczna i wychowawcza stanowi podstawowe zaj´cie, zachowujà do dnia rozwiàzania lub wygaÊni´cia stosunku pracy uprawnienia wynikajàce z art. 51, 64 ust.3, art. 86—88 i90 ustawy, októrej mowa wart.1.
+- **2)** w placówkach zbiorowego zakwaterowania, prowadzący pracę wychowawczą zmłodocianymi pracownikami (uczniami), dla których praca dydaktyczna i wychowawcza stanowi podstawowe zajęcie, zachowują do dnia rozwiązania lub wygaśnięcia stosunku pracy uprawnienia wynikające z art. 51, 64 ust.3, art. 86—88 i90 ustawy, októrej mowa wart.1.
 
 **Art. 7.**
 
-1. Nauczyciele zatrudnieni w dniu wejÊcia w ˝ycie ustawy na podstawie mianowania z tym dniem uzyskujà z mocy prawa stopieƒ nauczyciela mianowanego i stajà si´ nauczycielami zatrudnionymi na podstawie mianowania w rozumieniu ustawy, o której mowa w art. 1, z tym ˝e z nauczycielami zatrudnionymi na podstawie mianowania, którzy nie ustawy:
+1. Nauczyciele zatrudnieni w dniu wejścia w życie ustawy na podstawie mianowania z tym dniem uzyskują z mocy prawa stopień nauczyciela mianowanego i stają się nauczycielami zatrudnionymi na podstawie mianowania w rozumieniu ustawy, o której mowa w art. 1, z tym że z nauczycielami zatrudnionymi na podstawie mianowania, którzy nie ustawy:
 
-- **1)** na stanowiskach nauczycieli woÊrodkach szkolenia i doskonalenia kadr, w oÊrodkach szkolenia zawodowego oraz w prowadzonych przez organizacje spó∏dzielcze i spo∏eczne placówkach kszta∏càcych posiadajà wymaganych kwalifikacji, stosunek pracy wygasa z dniem 31 sierpnia 2006 r., o ile wczeÊniej nauczyciele ci nie uzupe∏nià kwalifikacji lub nie zostanie z nimi rozwiàzany stosunek pracy w odr´bnym trybie.
+- **1)** na stanowiskach nauczycieli wośrodkach szkolenia i doskonalenia kadr, w ośrodkach szkolenia zawodowego oraz w prowadzonych przez organizacje spółdzielcze i społeczne placówkach kształcących posiadają wymaganych kwalifikacji, stosunek pracy wygasa z dniem 31 sierpnia 2006 r., o ile wcześniej nauczyciele ci nie uzupełnią kwalifikacji lub nie zostanie z nimi rozwiązany stosunek pracy w odrębnym trybie.
 
-2. Nauczyciele, o których mowa w ust. 1, posiadajàcy stopnie specjalizacji zawodowej lub kwalifikacje trenerskie, stopieƒ naukowy doktora lub doktora habilitowanego, ukoƒczone studia podyplomowe zgodne z nauczanym przedmiotem lub rodzajem prowadzonych zaj´ç, kwalifikacje do nauczania co najmniej dwóch przedmiotów lub uznany dorobek zawodowy potwierdzony otrzymaniem nagrody ministra, kuratora oÊwiaty lub równorz´dnej albo Medalu Komisji Edukacji Narodowej, mogà z∏o˝yç wniosek o podj´cie post´powania kwalifikacyjnego o awans na stopieƒ nauczyciela dyplomowanego po odbyciu sta˝u trwajàcego:
+2. Nauczyciele, o których mowa w ust. 1, posiadający stopnie specjalizacji zawodowej lub kwalifikacje trenerskie, stopień naukowy doktora lub doktora habilitowanego, ukończone studia podyplomowe zgodne z nauczanym przedmiotem lub rodzajem prowadzonych zajęć, kwalifikacje do nauczania co najmniej dwóch przedmiotów lub uznany dorobek zawodowy potwierdzony otrzymaniem nagrody ministra, kuratora oświaty lub równorzędnej albo Medalu Komisji Edukacji Narodowej, mogą złożyć wniosek o podjęcie postępowania kwalifikacyjnego o awans na stopień nauczyciela dyplomowanego po odbyciu stażu trwającego:
 
-- **1)** 9 miesi´cy w przypadku nauczycieli posiadajàcych III stopieƒ specjalizacji zawodowej lub kwalifikacje trenerskie klasy mistrzowskiej, stopieƒ doktora lub doktora habilitowanego, ukoƒczone studia podyplomowe zgodne z nauczanym przedmiotem lub rodzajem prowadzonych zaj´ç, kwalifikacje do nauczania co najmniej dwóch przedmiotów albo uznany dorobek zawodowy,
-- **2)** 1 rok i9 miesi´cy wprzypadku nauczycieli posiadajàcych Ilub II stopieƒ specjalizacji zawodowej albo kwalifikacje trenerskie klasy II lub I.
+- **1)** 9 miesięcy w przypadku nauczycieli posiadających III stopień specjalizacji zawodowej lub kwalifikacje trenerskie klasy mistrzowskiej, stopień doktora lub doktora habilitowanego, ukończone studia podyplomowe zgodne z nauczanym przedmiotem lub rodzajem prowadzonych zajęć, kwalifikacje do nauczania co najmniej dwóch przedmiotów albo uznany dorobek zawodowy,
+- **2)** 1 rok i9 miesięcy wprzypadku nauczycieli posiadających Ilub II stopień specjalizacji zawodowej albo kwalifikacje trenerskie klasy II lub I.
 
-3. Nauczyciele zatrudnieni w dniu wejÊcia w ˝ycie ustawy na podstawie umowy oprac´, którzy posiadajà wymagane kwalifikacje, ztym dniem uzyskujà zmocy prawa stopieƒ nauczyciela kontraktowego istajà si´ nauczycielami zatrudnionymi na podstawie umowy o prac´ odpowiednio na czas okreÊlony lub nie okreÊlony.
+3. Nauczyciele zatrudnieni w dniu wejścia w życie ustawy na podstawie umowy opracę, którzy posiadają wymagane kwalifikacje, ztym dniem uzyskują zmocy prawa stopień nauczyciela kontraktowego istają się nauczycielami zatrudnionymi na podstawie umowy o pracę odpowiednio na czas określony lub nie określony.
 
 4. Nauczyciele, októrych mowa wust. 3, zatrudnieni w:
 
-- **1)** przedszkolach, szko∏ach, placówkach oraz innych jednostkach organizacyjnych, o których mowa wart. 1 ust. 1 ustawy, októrej mowa wart. 1, mogà z∏o˝yç wniosek o podj´cie post´powania egzaminacyjnego na stopieƒ nauczyciela mianowanego po odbyciu sta˝u trwajàcego co najmniej 9 miesi´cy. Okres sta˝u dla tych nauczycieli ustala, z uwzgl´dnieniem ich dorobku zawodowego oraz oceny pracy, organ prowadzàcy szko∏´, na wniosek dyrektora szko∏y,
-- **2)** Centralnej Komisji Egzaminacyjnej, okr´gowych komisjach egzaminacyjnych albo specjalistycznej jednostce nadzoru na stanowiskach wymagajàcych kwalifikacji pedagogicznych mogà z∏o˝yç wniosek opodj´cie post´powania egzaminacyjnego po przepracowaniu na tych stanowiskach okresu dwóch lat.
+- **1)** przedszkolach, szkołach, placówkach oraz innych jednostkach organizacyjnych, o których mowa wart. 1 ust. 1 ustawy, októrej mowa wart. 1, mogą złożyć wniosek o podjęcie postępowania egzaminacyjnego na stopień nauczyciela mianowanego po odbyciu stażu trwającego co najmniej 9 miesięcy. Okres stażu dla tych nauczycieli ustala, z uwzględnieniem ich dorobku zawodowego oraz oceny pracy, organ prowadzący szkołę, na wniosek dyrektora szkoły,
+- **2)** Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych albo specjalistycznej jednostce nadzoru na stanowiskach wymagających kwalifikacji pedagogicznych mogą złożyć wniosek opodjęcie postępowania egzaminacyjnego po przepracowaniu na tych stanowiskach okresu dwóch lat.
 
-5. Nauczyciele, o których mowa w ust. 2 i 3, mogà sk∏adaç wnioski, októrych mowa wust. 2 i4, wterminie dwóch lat od dnia wejÊcia w˝ycie ustawy.
+5. Nauczyciele, o których mowa w ust. 2 i 3, mogą składać wnioski, októrych mowa wust. 2 i4, wterminie dwóch lat od dnia wejścia wżycie ustawy.
 
-6. Nauczyciele zatrudnieni wdniu wejÊcia w˝ycie ustawy na podstawie umowy oprac´ wwymiarze co najmniej 1/2 obowiàzkowego wymiaru zaj´ç, którzy nie posiadajà wymaganych kwalifikacji, z tym dniem uzyskujà stopieƒ nauczyciela sta˝ysty i stajà si´ nauczycielami zatrudnionymi na podstawie umowy o prac´. Stosunki pracy z tymi nauczycielami wygasajà z dniem 31 sierpnia 2006 r., o ile wczeÊniej nauczyciele ci nie uzupe∏nià kwalifikacji i nie uzyskajà stopnia nauczyciela kontraktowego lub nie zostanie z nimi rozwiàzany stosunek pracy w odr´bnym trybie.
+6. Nauczyciele zatrudnieni wdniu wejścia wżycie ustawy na podstawie umowy opracę wwymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć, którzy nie posiadają wymaganych kwalifikacji, z tym dniem uzyskują stopień nauczyciela stażysty i stają się nauczycielami zatrudnionymi na podstawie umowy o pracę. Stosunki pracy z tymi nauczycielami wygasają z dniem 31 sierpnia 2006 r., o ile wcześniej nauczyciele ci nie uzupełnią kwalifikacji i nie uzyskają stopnia nauczyciela kontraktowego lub nie zostanie z nimi rozwiązany stosunek pracy w odrębnym trybie.
 
-7. Stosunki pracy z nauczycielami zatrudnionymi w dniu wejÊcia w ˝ycie ustawy na podstawie umowy oprac´, którzy nie posiadajà wymaganych kwalifikacji i sà zatrudnieni w wymiarze ni˝szym ni˝ 1/2 obowiàzkowego wymiaru zaj´ç, wygasajà z dniem 31 sierpnia 2000 r., o ile nie zostanie z nimi rozwiàzany stosunek pkt 2 ustawy wymienionej w art. 1, stosuje si´ odpowiednio przepisy ust. 1—6 i9.
+7. Stosunki pracy z nauczycielami zatrudnionymi w dniu wejścia w życie ustawy na podstawie umowy opracę, którzy nie posiadają wymaganych kwalifikacji i są zatrudnieni w wymiarze niższym niż 1/2 obowiązkowego wymiaru zajęć, wygasają z dniem 31 sierpnia 2000 r., o ile nie zostanie z nimi rozwiązany stosunek pkt 2 ustawy wymienionej w art. 1, stosuje się odpowiednio przepisy ust. 1—6 i9.
 
-**Art. 8.** W terminie do dnia 31 grudnia 2010 r. tytu∏ honorowy profesora oÊwiaty mo˝e byç nadany wtrybie i na zasadach okreÊlonych w art. 9i ustawy, o której mowa wart. 1, nauczycielowi, który legitymuje si´ 5-letnim okresem pracy jako nauczyciel dyplomowany.
+**Art. 8.** W terminie do dnia 31 grudnia 2010 r. tytuł honorowy profesora oświaty może być nadany wtrybie i na zasadach określonych w art. 9i ustawy, o której mowa wart. 1, nauczycielowi, który legitymuje się 5-letnim okresem pracy jako nauczyciel dyplomowany.
 
-**Art. 9.** Nauczyciele, którzy w dniu wejÊcia w ˝ycie ustawy otrzymywali dodatki specjalistyczne, zachowujà prawo do tych dodatków do czasu uzyskania kolejnego stopnia awansu zawodowego, w wysokoÊci i na zasadach obowiàzujàcych wdniu wejÊcia w˝ycie ustawy.
+**Art. 9.** Nauczyciele, którzy w dniu wejścia w życie ustawy otrzymywali dodatki specjalistyczne, zachowują prawo do tych dodatków do czasu uzyskania kolejnego stopnia awansu zawodowego, w wysokości i na zasadach obowiązujących wdniu wejścia wżycie ustawy.
 
 **Art. 10.**
 
-1. Nauczyciele b´dàcy dyrektorami przedszkoli, szkó∏, placówek oraz innych jednostek organizacyjnych wymienionych wart. 1 ustawy, októrej mowa wart. 1, atak˝e nauczyciele, októrych mowa wart. pracy wodr´bnym trybie. Do tego czasu nauczyciele ci dla celów p∏acowych traktowani sà jak nauczyciele sta˝yÊci.
+1. Nauczyciele będący dyrektorami przedszkoli, szkół, placówek oraz innych jednostek organizacyjnych wymienionych wart. 1 ustawy, októrej mowa wart. 1, atakże nauczyciele, októrych mowa wart. pracy wodrębnym trybie. Do tego czasu nauczyciele ci dla celów płacowych traktowani są jak nauczyciele stażyści.
 
-8. Do nauczycieli zatrudnionych w dniu wejÊcia w ˝ycie ustawy na podstawie umowy o prac´ lub na podstawie mianowania i przebywajàcych na urlopie bezp∏atnym stosuje si´ odpowiednio przepisy ust. 1, 3, 6 i7.
+8. Do nauczycieli zatrudnionych w dniu wejścia w życie ustawy na podstawie umowy o pracę lub na podstawie mianowania i przebywających na urlopie bezpłatnym stosuje się odpowiednio przepisy ust. 1, 3, 6 i7.
 
-9. Dyrektorzy szkó∏ oraz organy, o których mowa w art. 9b ust. 4 pkt 2—4 ustawy wymienionej w art. 1, wydadzà nauczycielom akty nadania odpowiedniego stopnia awansu zawodowego w terminie 6 miesi´cy od dnia wejÊcia w˝ycie ustawy.
+9. Dyrektorzy szkół oraz organy, o których mowa w art. 9b ust. 4 pkt 2—4 ustawy wymienionej w art. 1, wydadzą nauczycielom akty nadania odpowiedniego stopnia awansu zawodowego w terminie 6 miesięcy od dnia wejścia wżycie ustawy.
 
-10. Do nauczycieli zatrudnionych wprzedszkolach, szko∏ach i placówkach, o których mowa w art. 1 ust. 2 9eust. 3 ustawy, októrej mowa wart. 1, którzy uzyskali w dniu wejÊcia w ˝ycie ustawy stopieƒ nauczyciela kontraktowego lub nauczyciela mianowanego, posiadajàcy odpowiednio co najmniej dwuletni okres pracy na stanowisku dyrektora lub co najmniej dwuletni okres urlopowania albo zwolnienia z obowiàzku Êwiadczenia pracy w zwiàzku z pe∏nieniem funkcji zwiàzkowej oraz co najmniej dobrà ocen´ pracy, mogà z∏o˝yç wniosek o podj´cie odpowiednio post´powania egzaminacyjnego na stopieƒ nauczyciela mianowanego lub post´powania kwalifikacyjnego na stopieƒ nauczyciela dyplomowanego, z zastrze˝eniem ust. 2.
+10. Do nauczycieli zatrudnionych wprzedszkolach, szkołach i placówkach, o których mowa w art. 1 ust. 2 9eust. 3 ustawy, októrej mowa wart. 1, którzy uzyskali w dniu wejścia w życie ustawy stopień nauczyciela kontraktowego lub nauczyciela mianowanego, posiadający odpowiednio co najmniej dwuletni okres pracy na stanowisku dyrektora lub co najmniej dwuletni okres urlopowania albo zwolnienia z obowiązku świadczenia pracy w związku z pełnieniem funkcji związkowej oraz co najmniej dobrą ocenę pracy, mogą złożyć wniosek o podjęcie odpowiednio postępowania egzaminacyjnego na stopień nauczyciela mianowanego lub postępowania kwalifikacyjnego na stopień nauczyciela dyplomowanego, z zastrzeżeniem ust. 2.
 
 2. Warunek posiadania dobrej oceny pracy, o którym mowa wust. 1, nie dotyczy nauczycieli, októrych mowa wart. 9eust. 3 ustawy wymienionej wart. 1.
 
-3. Nauczyciele spe∏niajàcy wymagania kwalifikacyjne, o których mowa w art. 9 ust. 1 pkt 1 ustawy wymienionej wart. 1, zatrudnieni na podstawie mianowania przed dniem wejÊcia w ˝ycie ustawy, uzyskujà zmocy prawa stopieƒ nauczyciela mianowanego:
+3. Nauczyciele spełniający wymagania kwalifikacyjne, o których mowa w art. 9 ust. 1 pkt 1 ustawy wymienionej wart. 1, zatrudnieni na podstawie mianowania przed dniem wejścia w życie ustawy, uzyskują zmocy prawa stopień nauczyciela mianowanego:
 
-- **1)** z dniem ponownego zatrudnienia w przedszkolu, szkole, placówce oraz innej jednostce organizacyjnej wymienionej w art. 1 ust. 1 i w ust. 2 pkt 1 i 2 ustawy, októrej mowa wart. 1, je˝eli przerwa wzatrudnieniu nie przekracza 5 lat,
-- **2)** zdniem wejÊcia w˝ycie ustawy, je˝eli sà zatrudnieni w przedszkolu, szkole, placówce oraz innej jednostce organizacyjnej, wymienionej w art. 1 ustawy, októrej mowa wart. 1, wwymiarze co najmniej 1/2 obowiàzkowego wymiaru zaj´ç,
-- **3)** zdniem wejÊcia w˝ycie ustawy, je˝eli sà zatrudnieni w Centralnej Komisji Egzaminacyjnej, okr´gowych komisjach egzaminacyjnych albo specjalistycznej jednostce nadzoru na stanowiskach wymagajàcych kwalifikacji pedagogicznych.
+- **1)** z dniem ponownego zatrudnienia w przedszkolu, szkole, placówce oraz innej jednostce organizacyjnej wymienionej w art. 1 ust. 1 i w ust. 2 pkt 1 i 2 ustawy, októrej mowa wart. 1, jeżeli przerwa wzatrudnieniu nie przekracza 5 lat,
+- **2)** zdniem wejścia wżycie ustawy, jeżeli są zatrudnieni w przedszkolu, szkole, placówce oraz innej jednostce organizacyjnej, wymienionej w art. 1 ustawy, októrej mowa wart. 1, wwymiarze co najmniej 1/2 obowiązkowego wymiaru zajęć,
+- **3)** zdniem wejścia wżycie ustawy, jeżeli są zatrudnieni w Centralnej Komisji Egzaminacyjnej, okręgowych komisjach egzaminacyjnych albo specjalistycznej jednostce nadzoru na stanowiskach wymagających kwalifikacji pedagogicznych.
 
-4. Nauczyciele, októrych mowa wart. 7 ust. 10, zatrudnieni w dniu wejÊcia w ˝ycie ustawy, posiadajàcy kwalifikacje, októrych mowa wart. 9 ust. 1 pkt 1 ustawy wymienionej wart. 1, oraz co najmniej 5-letni okres pracy pedagogicznej odpowiednio w przedszkolu, szkole, placówce lub innej jednostce organizacyjnej, o której mowa w art. 1 ustawy wymienionej w art. 1, w tym co najmniej 3-letni nieprzerwany okres pracy w pe∏nym wymiarze zaj´ç zgodnie z wymaganymi kwalifikacjami wprzedszkolu, szkole, placówce wymienionej w art. 1 ust. 2 pkt 2 ustawy, o której mowa w art. 1, z tym dniem uzyskujà z mocy prawa stopieƒ nauczyciela mianowanego.
+4. Nauczyciele, októrych mowa wart. 7 ust. 10, zatrudnieni w dniu wejścia w życie ustawy, posiadający kwalifikacje, októrych mowa wart. 9 ust. 1 pkt 1 ustawy wymienionej wart. 1, oraz co najmniej 5-letni okres pracy pedagogicznej odpowiednio w przedszkolu, szkole, placówce lub innej jednostce organizacyjnej, o której mowa w art. 1 ustawy wymienionej w art. 1, w tym co najmniej 3-letni nieprzerwany okres pracy w pełnym wymiarze zajęć zgodnie z wymaganymi kwalifikacjami wprzedszkolu, szkole, placówce wymienionej w art. 1 ust. 2 pkt 2 ustawy, o której mowa w art. 1, z tym dniem uzyskują z mocy prawa stopień nauczyciela mianowanego.
 
-5. Ksi´˝a idiakoni zatrudnieni wdniu wejÊcia w˝ycie ustawy na stanowiskach nauczycieli religii, posiadajàcy wymagane kwalifikacje oraz co najmniej 3-letni nieprzerwany okres pracy pedagogicznej w pe∏nym wymiarze zaj´ç zgodnie zwymaganymi kwalifikacjami odpowiednio w przedszkolu, szkole, z tym dniem uzyskujà z mocy prawa stopieƒ nauczyciela mianowanego. Do 3-letniego nieprzerwanego okresu pracy pedagogicznej zalicza si´ okres prowadzenia przez ksi´˝y idiakonów, nieodp∏atnie, nauki religii wszko∏ach przed dniem 1 wrzeÊnia 1997 r.
+5. Księża idiakoni zatrudnieni wdniu wejścia wżycie ustawy na stanowiskach nauczycieli religii, posiadający wymagane kwalifikacje oraz co najmniej 3-letni nieprzerwany okres pracy pedagogicznej w pełnym wymiarze zajęć zgodnie zwymaganymi kwalifikacjami odpowiednio w przedszkolu, szkole, z tym dniem uzyskują z mocy prawa stopień nauczyciela mianowanego. Do 3-letniego nieprzerwanego okresu pracy pedagogicznej zalicza się okres prowadzenia przez księży idiakonów, nieodpłatnie, nauki religii wszkołach przed dniem 1 września 1997 r.
 
-6. Nauczycielom, o których mowa w ust. 3—5, akt nadania stopnia awansu zawodowego wydaje organ prowadzàcy szko∏´, z wy∏àczeniem nauczycieli, o których mowa w ust. 3 pkt 3, którym akt nadania wydaje odpowiednio minister w∏aÊciwy do spraw oÊwiaty iwychowania lub minister w∏aÊciwy do spraw kultury iochrony dziedzictwa narodowego.
+6. Nauczycielom, o których mowa w ust. 3—5, akt nadania stopnia awansu zawodowego wydaje organ prowadzący szkołę, z wyłączeniem nauczycieli, o których mowa w ust. 3 pkt 3, którym akt nadania wydaje odpowiednio minister właściwy do spraw oświaty iwychowania lub minister właściwy do spraw kultury iochrony dziedzictwa narodowego.
 
-**Art. 11.** W 2000 r. Êrednie wynagrodzenie nauczyciela sta˝ysty stanowi 82% kwoty bazowej, októrej mowa w art. 29 pkt 1 ustawy z dnia 23 grudnia 1999 r. o kszta∏towaniu wynagrodzeƒ w paƒstwowej sferze bud˝etowej oraz o zmianie niektórych ustaw (Dz. U. Nr110, poz. 1255).
+**Art. 11.** W 2000 r. średnie wynagrodzenie nauczyciela stażysty stanowi 82% kwoty bazowej, októrej mowa w art. 29 pkt 1 ustawy z dnia 23 grudnia 1999 r. o kształtowaniu wynagrodzeń w państwowej sferze budżetowej oraz o zmianie niektórych ustaw (Dz. U. Nr110, poz. 1255).
 
 **Art. 12.**
 
-1. Ârednie wynagrodzenie nauczycieli stanowi: pkt 2 i 3, ust. 4 i 5, z wyjàtkiem nauczycieli, o których mowa w art. 1 ust. 2 pkt 2 ustawy wymienionej w art. 1, ustala odpowiednio dyrektor szko∏y lub organ prowadzàcy zgodnie z przepisami wydanymi na podstawie art. 30 ust. 5—7 ustawy, o której mowa w art. 1, w ciàgu jednego miesiàca od dnia wejÊcia w ˝ycie tych przepisów, z wyrównaniem za okres od dnia 1 stycznia 2000r.
+1. Ârednie wynagrodzenie nauczycieli stanowi: pkt 2 i 3, ust. 4 i 5, z wyjątkiem nauczycieli, o których mowa w art. 1 ust. 2 pkt 2 ustawy wymienionej w art. 1, ustala odpowiednio dyrektor szkoły lub organ prowadzący zgodnie z przepisami wydanymi na podstawie art. 30 ust. 5—7 ustawy, o której mowa w art. 1, w ciągu jednego miesiąca od dnia wejścia w życie tych przepisów, z wyrównaniem za okres od dnia 1 stycznia 2000r.
 
-3. Wynagrodzenie miesi´czne nauczycieli, o których mowa w ust. 2, ustalone zgodnie z przepisami ustawy, nie mo˝e byç ni˝sze od ich dotychczasowego miesi´cznego wynagrodzenia.
+3. Wynagrodzenie miesięczne nauczycieli, o których mowa w ust. 2, ustalone zgodnie z przepisami ustawy, nie może być niższe od ich dotychczasowego miesięcznego wynagrodzenia.
 
-**Art. 13.** Do nauczycieli, którzy wdniu wejÊcia w˝ycie ustawy przebywajà na urlopach dla poratowania zdrowia, do czasu zakoƒczenia tych urlopów stosuje si´ przepisy dotychczasowe w cz´Êci dotyczàcej urlopów dla poratowania zdrowia.
+**Art. 13.** Do nauczycieli, którzy wdniu wejścia wżycie ustawy przebywają na urlopach dla poratowania zdrowia, do czasu zakończenia tych urlopów stosuje się przepisy dotychczasowe w części dotyczącej urlopów dla poratowania zdrowia.
 
-**Art. 14.** Rewizje nadzwyczajne wniesione do odwo∏awczych komisji dyscyplinarnych i odwo∏ania wniesione do Sàdu Najwy˝szego przed dniem wejÊcia w˝ycie ustawy rozpatruje si´ na podstawie dotychczasowych przepisów.
+**Art. 14.** Rewizje nadzwyczajne wniesione do odwoławczych komisji dyscyplinarnych i odwołania wniesione do Sądu Najwyższego przed dniem wejścia wżycie ustawy rozpatruje się na podstawie dotychczasowych przepisów.
 
-**Art. 15.** Wymienionego w art. 30 ust. 2 ustawy, októrej mowa wart. 3, warunku posiadania przez kandydata na stanowisko kuratora oÊwiaty stopnia nauczyciela mianowanego lub dyplomowanego nie stosuje si´ do kuratorów oÊwiaty powo∏anych na te stanowiska przed dniem wejÊcia w˝ycie ustawy.
+**Art. 15.** Wymienionego w art. 30 ust. 2 ustawy, októrej mowa wart. 3, warunku posiadania przez kandydata na stanowisko kuratora oświaty stopnia nauczyciela mianowanego lub dyplomowanego nie stosuje się do kuratorów oświaty powołanych na te stanowiska przed dniem wejścia wżycie ustawy.
 
-**Art. 16.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie, o której mowa w art. 1, zachowujà moc dotychczasowe przepisy wykonawcze wzakresie, wjakim nie sà sprzeczne zustawà, nie d∏u˝ej jednak ni˝ przez okres 6 miesi´cy od dnia wejÊcia w˝ycie niniejszej ustawy.
+**Art. 16.** Do czasu wydania przepisów wykonawczych przewidzianych w ustawie, o której mowa w art. 1, zachowują moc dotychczasowe przepisy wykonawcze wzakresie, wjakim nie są sprzeczne zustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia wżycie niniejszej ustawy.
 
-**Art. 17.** Minister w∏aÊciwy do spraw oÊwiaty iwychowania og∏osi wDzienniku Rzeczypospolitej Polskiej jednolity tekst ustawy Karta Nauczyciela, z uwzgl´dnieniem zmian wynikajàcych z przepisów og∏oszonych przed dniem wydania jednolitego tek1) wroku 2000 dla:
+**Art. 17.** Minister właściwy do spraw oświaty iwychowania ogłosi wDzienniku Rzeczypospolitej Polskiej jednolity tekst ustawy Karta Nauczyciela, z uwzględnieniem zmian wynikających z przepisów ogłoszonych przed dniem wydania jednolitego tek1) wroku 2000 dla:
 
-**Art. 18.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, zwyjàtkiem:
+**Art. 18.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, zwyjątkiem:
 

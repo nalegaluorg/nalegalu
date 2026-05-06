@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# 3. Prezes zwo∏uje pierwsze posiedzenie Rady nie póêniej ni˝ wterminie 6 miesi´cy od dnia wejÊcia w˝ycie ustawy.
+# 3. Prezes zwołuje pierwsze posiedzenie Rady nie póêniej niż wterminie 6 miesięcy od dnia wejścia wżycie ustawy.
 
 | Pole | Wartość |
 |---|---|
@@ -24,712 +24,719 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021691387) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1387/text.pdf) |
 
-4. Na pierwszym posiedzeniu Rada przyst´puje do realizacji czynnoÊci zwiàzanych zkonkursem na stanowisko Prezesa.
+4. Na pierwszym posiedzeniu Rada przystępuje do realizacji czynności związanych zkonkursem na stanowisko Prezesa.
+1) przepisach międzynarodowych oznacza to: § 1. Przepisy rozporządzenia określają: a) Międzynarodową konwencję o bezpiecznych kontenerach (KBK), sporządzoną w Genewie
+1) wymagania wzakresie uznawania kontenerów, ich prób, przeglądów oraz kontroli stanu kontenerów;
+dnia 2 grudnia 1972 r. (Dz. U. z 1984 r. 24, poz. 118 i119), zwaną dalej Ńkonwencją”,
 
-**Art. 27.** Zdniem wejÊcia w˝ycie ustawy:
+**Art. 27.** Zdniem wejścia wżycie ustawy:
 
-**Art. 28.** Zdniem wejÊcia w˝ycie ustawy zaprzestaje si´ prowadzenia zbioru norm bran˝owych; istniejàce zbiory zostanà zarchiwizowane przez PKN.
+**Art. 28.** Zdniem wejścia wżycie ustawy zaprzestaje się prowadzenia zbioru norm branżowych; istniejące zbiory zostaną zarchiwizowane przez PKN.
 
 **Art. 29.** Traci moc ustawa z dnia 3 kwietnia 1993 r. onormalizacji (Dz. U. z 1993 r. 55, poz. 251, z1995 r. 95, poz. 471, z1997 r. 121, poz. 770, z2000 r. Nr43, poz. 489 i 110, poz. 1166 oraz z 2002 r. 135, poz.1145). Kodeksu pracy;
 
-**Art. 30.** Ustawa wchodzi w˝ycie zdniem 1 stycznia
+**Art. 30.** Ustawa wchodzi wżycie zdniem 1 stycznia
 
-**Art. 1.** Wustawie zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 1997 r. 137, poz. 926 iNr160, poz.1083, z1998 r. 106, poz. 668, z1999 r. 11, poz. 95 i 92, poz. 1062, z 2000 r. 94, poz.1037, Nr116, poz. 1216, 120, poz. 1268 iNr 122, poz. 1315, z 2001 r. 16, poz. 166, 39, poz. 459, 42, poz. 475, 110, poz. 1189, 125, poz. 1368 iNr130, poz. 1452 oraz z2002 r. 89, poz. 804,Nr 113, poz. 984 i 153, poz. 1271) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 1997 r. 137, poz. 926 iNr160, poz.1083, z1998 r. 106, poz. 668, z1999 r. 11, poz. 95 i 92, poz. 1062, z 2000 r. 94, poz.1037, Nr116, poz. 1216, 120, poz. 1268 iNr 122, poz. 1315, z 2001 r. 16, poz. 166, 39, poz. 459, 42, poz. 475, 110, poz. 1189, 125, poz. 1368 iNr130, poz. 1452 oraz z2002 r. 89, poz. 804,Nr 113, poz. 984 i 153, poz. 1271) wprowadza się następujące zmiany:
 
 **Art. 13.**
 
-§ 1. Organem podatkowym, stosownie dniach wolnych od pracy. do swojej w∏aÊciwoÊci, jest:
+§ 1. Organem podatkowym, stosownie dniach wolnych od pracy. do swojej właściwości, jest:
 
-- **1)** urzàd skarbowy, wójt, burmistrz (prezydent miasta), starosta albo marsza∏ek województwa jako organ pierwszej instancji,
+- **1)** urząd skarbowy, wójt, burmistrz (prezydent miasta), starosta albo marszałek województwa jako organ pierwszej instancji,
 - **2)** izba skarbowa jako:
-    - **a)** organ odwo∏awczy od decyzji urz´du skarbowego,
-    - **b)** organ pierwszej instancji, na podstawie odr´bnych przepisów,
-    - **c)** organ odwo∏awczy od decyzji wydanej przez t´ izb´ w pierwszej instancji,
+    - **a)** organ odwoławczy od decyzji urzędu skarbowego,
+    - **b)** organ pierwszej instancji, na podstawie odrębnych przepisów,
+    - **c)** organ odwoławczy od decyzji wydanej przez tę izbę w pierwszej instancji,
 
-- **3)** samorzàdowe kolegium odwo∏awcze jako organ odwo∏awczy od decyzji wójta, burmistrza (prezydenta miasta), starosty albo marsza∏ka województwa.
+- **3)** samorządowe kolegium odwoławcze jako organ odwoławczy od decyzji wójta, burmistrza (prezydenta miasta), starosty albo marszałka województwa.
 
-§ 2. Minister w∏aÊciwy do spraw finansów publicznych jest organem podatkowym jako:
+§ 2. Minister właściwy do spraw finansów publicznych jest organem podatkowym jako:
 
-- **1)** organ pierwszej instancji w sprawach stwierdzenia niewa˝noÊci decyzji, wznowienia post´powania, zmiany lub uchylenia decyzji, lub stwierdzenia jej wygaÊni´cia zurz´du,
-- **2)** organ odwo∏awczy od decyzji wydanych wsprawach, októrych mowa wpkt 1.
+- **1)** organ pierwszej instancji w sprawach stwierdzenia nieważności decyzji, wznowienia postępowania, zmiany lub uchylenia decyzji, lub stwierdzenia jej wygaśnięcia zurzędu,
+- **2)** organ odwoławczy od decyzji wydanych wsprawach, októrych mowa wpkt 1.
 
-§ 3. Organami podatkowymi wy˝szego stopnia sà organy odwo∏awcze.
+§ 3. Organami podatkowymi wyższego stopnia są organy odwoławcze.
 
 **Art. 14.**
 
-§ 1. Minister w∏aÊciwy do spraw finansów publicznych:
+§ 1. Minister właściwy do spraw finansów publicznych:
 
 - **1)** sprawuje ogólny nadzór w sprawach podatkowych,
-- **2)** dà˝y do zapewnienia jednolitego stosowania prawa podatkowego przez organy podatkowe oraz organy kontroli skarbowej, dokonujàc w szczególnoÊci jego interpretacji, przy uwzgl´dnieniu orzecznictwa sàdów oraz Trybuna∏u Konstytucyjnego.
+- **2)** dąży do zapewnienia jednolitego stosowania prawa podatkowego przez organy podatkowe oraz organy kontroli skarbowej, dokonując w szczególności jego interpretacji, przy uwzględnieniu orzecznictwa sądów oraz Trybunału Konstytucyjnego.
 
-§ 2. Interpretacjami, o których mowa w § 1 pkt 2, sà interpretacje kierowane do organów podatkowych i organów kontroli skarbowej dotyczàce problemów prawa podatkowego, z zastrze˝eniem § 4. Interpretacje sà zamieszczane w Dzienniku Urz´dowym Ministra Finansów oraz wià˝à organy podatkowe i organy kontroli skarbowej.
+§ 2. Interpretacjami, o których mowa w § 1 pkt 2, są interpretacje kierowane do organów podatkowych i organów kontroli skarbowej dotyczące problemów prawa podatkowego, z zastrzeżeniem § 4. Interpretacje są zamieszczane w Dzienniku Urzędowym Ministra Finansów oraz wiążą organy podatkowe i organy kontroli skarbowej.
 
-§ 3. Zastosowanie si´ przez podatnika, p∏atnika lub inkasenta do interpretacji prawa podatkowego, o której mowa w§ 2, nie mo˝e im szkodziç, jednak˝e nie zwalnia ich z obowiàzku zap∏aty podatku. W takim przypadku nie wszczyna si´ post´powania w sprawach o przest´pstwa skarbowe lub wykroczenia skarbowe, apost´powanie wszcz´te w tych sprawach umarza si´, nie nalicza si´ odsetek za zw∏ok´ i nie ustala dodatkowego zobowiàzania w rozumieniu przepisów o podatku od towarów i us∏ug wzakresie wynikajàcym zzastosowania si´ do interpretacji. Zastosowanie si´ podatnika, p∏atnika lub inkasenta do interpretacji prawa podatkowego, o której mowa w § 2, mo˝e stanowiç przes∏ank´ do umorzenia zaleg∏oÊci podatkowych, zgodnie zart. 67, je˝eli zaleg∏oÊci te powsta∏y na skutek zastosowania si´ do takiej interpretacji.
+§ 3. Zastosowanie się przez podatnika, płatnika lub inkasenta do interpretacji prawa podatkowego, o której mowa w§ 2, nie może im szkodzić, jednakże nie zwalnia ich z obowiązku zapłaty podatku. W takim przypadku nie wszczyna się postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe, apostępowanie wszczęte w tych sprawach umarza się, nie nalicza się odsetek za zwłokę i nie ustala dodatkowego zobowiązania w rozumieniu przepisów o podatku od towarów i usług wzakresie wynikającym zzastosowania się do interpretacji. Zastosowanie się podatnika, płatnika lub inkasenta do interpretacji prawa podatkowego, o której mowa w § 2, może stanowić przesłankę do umorzenia zaległości podatkowych, zgodnie zart. 67, jeżeli zaległości te powstały na skutek zastosowania się do takiej interpretacji.
 
-§ 4. Minister w∏aÊciwy do spraw finansów publicznych nie dokonuje interpretacji przepisów prawa podatkowego windywidualnych sprawach podatników, p∏atników lub inkasentów.”;
+§ 4. Minister właściwy do spraw finansów publicznych nie dokonuje interpretacji przepisów prawa podatkowego windywidualnych sprawach podatników, płatników lub inkasentów.”;
 
-- **6)** po art. 14 dodaje si´ art. 14a—14cwbrzmieniu: „Art. 14a. § 1. Stosownie do swojej w∏aÊciwoÊci urzàd skarbowy lub wójt, burmistrz (prezydent miasta), starosta albo marsza∏ek województwa na pisemne zapytanie podatnika, p∏atnika lub inkasenta majà obowiàzek udzieliç pisemnej informacji o zakresie stosowania przepisów prawa podatkowego w ich indywidualnych sprawach, wktórych nie toczy si´ post´powanie podatkowe lub kontrola podatkowa albo post´powanie przed sàdem administracyjnym.
+- **6)** po art. 14 dodaje się art. 14a—14cwbrzmieniu: ŃArt. 14a. § 1. Stosownie do swojej właściwości urząd skarbowy lub wójt, burmistrz (prezydent miasta), starosta albo marszałek województwa na pisemne zapytanie podatnika, płatnika lub inkasenta mają obowiązek udzielić pisemnej informacji o zakresie stosowania przepisów prawa podatkowego w ich indywidualnych sprawach, wktórych nie toczy się postępowanie podatkowe lub kontrola podatkowa albo postępowanie przed sądem administracyjnym.
 
-§ 2. Zapytanie, o którym mowa w § 1, skarbowego lub wójta, burmistrza (prezydenta miasta), starosty albo marsza∏ka województwa. Sk∏adajàc zapytanie, podatnik, p∏atnik lub inkasent jest obowiàzany do wyczerpujàcego przedstawienia stanu faktycznego oraz w∏asnego stanowiska wsprawie.
+§ 2. Zapytanie, o którym mowa w § 1, skarbowego lub wójta, burmistrza (prezydenta miasta), starosty albo marszałka województwa. Składając zapytanie, podatnik, płatnik lub inkasent jest obowiązany do wyczerpującego przedstawienia stanu faktycznego oraz własnego stanowiska wsprawie.
 
-§ 3. Informacja, októrej mowa w§ 1, zawiera ocen´ prawnà stanowiska pytajàcego zprzytoczeniem przepisów prawa.
+§ 3. Informacja, októrej mowa w§ 1, zawiera ocenę prawną stanowiska pytającego zprzytoczeniem przepisów prawa.
 
-§ 4. Przepis art. 14 § 3 stosuje si´ odpowiednio.
+§ 4. Przepis art. 14 § 3 stosuje się odpowiednio.
 
-§ 5. Organy podatkowe, októrych mowa w§ 1, pisemne informacje ozakresie stosowania przepisów prawa podatkowego w indywidualnych sprawach zamieszczajà na stronie internetowej w∏aÊciwej izby skarbowej bez podania danych identyfikujàsk∏ada si´ do w∏aÊciwego urz´du cych podatnika.
+§ 5. Organy podatkowe, októrych mowa w§ 1, pisemne informacje ozakresie stosowania przepisów prawa podatkowego w indywidualnych sprawach zamieszczają na stronie internetowej właściwej izby skarbowej bez podania danych identyfikująskłada się do właściwego urzędu cych podatnika.
 
 **Art. 14b.**
 
-§ 1. Urzàd skarbowy przekazuje w∏aÊciwej izbie skarbowej informacj´, o której mowa w art. 14a § 1, niezw∏ocznie po jej udzieleniu do wiadomoÊci oraz w celu sprawdzenia jej prawid∏owoÊci. Do informacji do∏àcza si´ zapytanie, októrym mowa wart. 14a§ 1.
+§ 1. Urząd skarbowy przekazuje właściwej izbie skarbowej informację, o której mowa w art. 14a § 1, niezwłocznie po jej udzieleniu do wiadomości oraz w celu sprawdzenia jej prawidłowości. Do informacji dołącza się zapytanie, októrym mowa wart. 14a§ 1.
 
-§ 2. Izba skarbowa obowiàzana jest do dokonania zmiany udzielonej informacji, je˝eli stwierdzi, ˝e jest ona nieprawid∏owa.
+§ 2. Izba skarbowa obowiązana jest do dokonania zmiany udzielonej informacji, jeżeli stwierdzi, że jest ona nieprawidłowa.
 
-§ 3. Przepisy art. 14 § 3 iart. 14a§ 3 stosuje si´ odpowiednio.
+§ 3. Przepisy art. 14 § 3 iart. 14a§ 3 stosuje się odpowiednio.
 
 **Art. 14c.**
 
-§ 1. Do za∏atwienia zapytania, o którym mowa wart. 14a§ 1, stosuje si´ odpowiednio przepisy art. 139 § 1 i 4, art. 140, art. 141, art. § 1 i2 oraz art. 170 § 1.
+§ 1. Do załatwienia zapytania, o którym mowa wart. 14a§ 1, stosuje się odpowiednio przepisy art. 139 § 1 i 4, art. 140, art. 141, art. § 1 i2 oraz art. 170 § 1.
 
-§ 2. Je˝eli zapytanie nie zosta∏o uzupe∏nione wwyznaczonym terminie, organ podatkowy pozostawia je bez rozpatrzenia.”;
+§ 2. Jeżeli zapytanie nie zostało uzupełnione wwyznaczonym terminie, organ podatkowy pozostawia je bez rozpatrzenia.”;
 
-- **7)** art. 17 otrzymuje brzmienie: „Art. 17. § 1. Je˝eli ustawy podatkowe nie stanowià inaczej, w∏aÊciwoÊç miejscowà organów podatkowych ustala si´ wed∏ug miejsca zamieszkania albo adresu siedziby podatnika, p∏atnika, inkasenta lub podmiotu wymienionego wart. 133 § 2.
+- **7)** art. 17 otrzymuje brzmienie: ŃArt. 17. § 1. Jeżeli ustawy podatkowe nie stanowią inaczej, właściwość miejscową organów podatkowych ustala się według miejsca zamieszkania albo adresu siedziby podatnika, płatnika, inkasenta lub podmiotu wymienionego wart. 133 § 2.
 
-§ 2. Minister w∏aÊciwy do spraw finansów publicznych mo˝e okreÊliç, wdrodze rozporzàdzenia, w∏aÊciwoÊç miejscowà organów podatkowych w sprawach niektórych zobowiàzaƒ podatkowych lub poszczególnych kategorii podatników, p∏atników lub inkasentów w sposób odmienny ni˝ okreÊlony w § 1, uwzgl´dniajàc w szczególnoÊci posiadanie miejsca zamieszkania lub siedziby za granicà, miejsce uzyskiwania dochodów oraz miejsce po∏o˝enia przedmiotu opodatkowania.”;
+§ 2. Minister właściwy do spraw finansów publicznych może określić, wdrodze rozporządzenia, właściwość miejscową organów podatkowych w sprawach niektórych zobowiązań podatkowych lub poszczególnych kategorii podatników, płatników lub inkasentów w sposób odmienny niż określony w § 1, uwzględniając w szczególności posiadanie miejsca zamieszkania lub siedziby za granicą, miejsce uzyskiwania dochodów oraz miejsce położenia przedmiotu opodatkowania.”;
 
-- **8)** po art. 17 dodaje si´ art. 17awbrzmieniu: „Art. 17a. Organem podatkowym w∏aÊciwym miejscowo w sprawie orzeczenia o odpowiedzialnoÊci podatkowej osoby trzeciej jest organ podatkowy w∏aÊciwy dla podatnika, p∏atnika lub inkasenta.”;
-- **9)** w art. 18 w § 1 wyrazy „do koƒca okresu rozliczeniowego” zast´puje si´ wyrazami „za ten okres rozliczeniowy”;
-- **10)** po art. 18 dodaje si´ art. 18ai18bwbrzmieniu: „Art. 18a. Je˝eli po zakoƒczeniu roku podatkowego lub innego okresu rozliczeniowego nastàpi zdarzenie powodujàce zmian´ w∏aÊciwoÊci miejscowej organu podatkowego, organem podatkowym w∏aÊciwym miejscowo w sprawach dotyczàcych poprzednich lat podatkowych lub innych okresów rozliczeniowych jest organ w∏aÊciwy po zaistnieniu tych zdarzeƒ, zzastrze˝eniem art. 18b.
+- **8)** po art. 17 dodaje się art. 17awbrzmieniu: ŃArt. 17a. Organem podatkowym właściwym miejscowo w sprawie orzeczenia o odpowiedzialności podatkowej osoby trzeciej jest organ podatkowy właściwy dla podatnika, płatnika lub inkasenta.”;
+- **9)** w art. 18 w § 1 wyrazy Ńdo końca okresu rozliczeniowego” zastępuje się wyrazami Ńza ten okres rozliczeniowy”;
+- **10)** po art. 18 dodaje się art. 18ai18bwbrzmieniu: ŃArt. 18a. Jeżeli po zakończeniu roku podatkowego lub innego okresu rozliczeniowego nastąpi zdarzenie powodujące zmianę właściwości miejscowej organu podatkowego, organem podatkowym właściwym miejscowo w sprawach dotyczących poprzednich lat podatkowych lub innych okresów rozliczeniowych jest organ właściwy po zaistnieniu tych zdarzeń, zzastrzeżeniem art. 18b.
 
-**Art. 18b.** Organy podatkowe w∏aÊciwe w dniu wszcz´cia post´powania podatkowego lub kontroli podatkowej pozostajà w∏aÊciwe wsprawie, której to post´powanie lub kontrola dotyczy, chocia˝by wtrakcie post´powania lub kontroli nastàpi∏o zdarzenie powodujàce zmian´ w∏aÊciwoÊci.”;
+**Art. 18b.** Organy podatkowe właściwe w dniu wszczęcia postępowania podatkowego lub kontroli podatkowej pozostają właściwe wsprawie, której to postępowanie lub kontrola dotyczy, chociażby wtrakcie postępowania lub kontroli nastąpiło zdarzenie powodujące zmianę właściwości.”;
 
 **Art. 24b.**
 
-§ 1. Organy podatkowe iorgany kontroli skarbowej, rozstrzygajàc sprawy podatkowe, pominà skutki podatkowe czynnoÊci prawnych, je˝eli udowodnià, ˝e zdokonania tych czynnoÊci nie mo˝na by∏o oczekiwaç innych istotnych korzyÊci ni˝ wynikajàce zobni˝enia wysokoÊci zobowiàzania podatkowego, zwi´kszenia straty, podwy˝szenia nadp∏aty lub zwrotu podatku.
+§ 1. Organy podatkowe iorgany kontroli skarbowej, rozstrzygając sprawy podatkowe, pominą skutki podatkowe czynności prawnych, jeżeli udowodnią, że zdokonania tych czynności nie można było oczekiwać innych istotnych korzyści niż wynikające zobniżenia wysokości zobowiązania podatkowego, zwiększenia straty, podwyższenia nadpłaty lub zwrotu podatku.
 
-§ 2. Je˝eli strony, dokonujàc czynnoÊci prawnej, októrej mowa w§ 1, osiàgn´∏y zamierzony rezultat gospodarczy, dla którego odpowiednia jest inna czynnoÊç prawna lub czynnoÊci prawne, skutki podatkowe wywodzi si´ ztej innej czynnoÊci prawnej lub czynnoÊci prawnych.”;
+§ 2. Jeżeli strony, dokonując czynności prawnej, októrej mowa w§ 1, osiągnęły zamierzony rezultat gospodarczy, dla którego odpowiednia jest inna czynność prawna lub czynności prawne, skutki podatkowe wywodzi się ztej innej czynności prawnej lub czynności prawnych.”;
 
-- **19)** skreÊla si´ art. 27;
-- **20)** wart. 28 w§ 4 wyrazy „dochody gminy” zast´puje si´ wyrazami „dochody, odpowiednio, bud˝etu gminy, powiatu lub województwa”;
-- **21)** wart. 29 § 2 otrzymuje brzmienie: „§ 2. Skutki prawne ograniczenia, zniesienia, wy∏àczenia lub ustania wspólnoÊci majàtkowej nie odnoszà si´ do zobowiàzaƒ podatkowych powsta∏ych przed dniem:
-- **1)** zawarcia umowy oograniczeniu lub wy∏àczeniu ustawowej wspólnoÊci majàtkowej,
-- **2)** zniesienia wspólnoÊci majàtkowej prawomocnym orzeczeniem sàdu,
-- **3)** ustania wspólnoÊci majàtkowej w przypadku ubezw∏asnowolnienia ma∏˝onka,
-- **4)** uprawomocnienia si´ orzeczenia sàdu oseparacji.”;
-- **22)** art. 30 otrzymuje brzmienie: „Art. 30. § 1. P∏atnik, który nie wykona∏ obowiàzków okreÊlonych wart. 8, odpowiada za podatek niepobrany lub podatek pobrany aniewp∏acony.
+- **19)** skreśla się art. 27;
+- **20)** wart. 28 w§ 4 wyrazy Ńdochody gminy” zastępuje się wyrazami Ńdochody, odpowiednio, budżetu gminy, powiatu lub województwa”;
+- **21)** wart. 29 § 2 otrzymuje brzmienie: Ń§ 2. Skutki prawne ograniczenia, zniesienia, wyłączenia lub ustania wspólności majątkowej nie odnoszą się do zobowiązań podatkowych powstałych przed dniem:
+- **1)** zawarcia umowy oograniczeniu lub wyłączeniu ustawowej wspólności majątkowej,
+- **2)** zniesienia wspólności majątkowej prawomocnym orzeczeniem sądu,
+- **3)** ustania wspólności majątkowej w przypadku ubezwłasnowolnienia małżonka,
+- **4)** uprawomocnienia się orzeczenia sądu oseparacji.”;
+- **22)** art. 30 otrzymuje brzmienie: ŃArt. 30. § 1. Płatnik, który nie wykonał obowiązków określonych wart. 8, odpowiada za podatek niepobrany lub podatek pobrany aniewpłacony.
 
-§ 2. Inkasent, który nie wykona∏ obowiàzków okreÊlonych wart. 9, odpowiada za podatek pobrany aniewp∏acony.
+§ 2. Inkasent, który nie wykonał obowiązków określonych wart. 9, odpowiada za podatek pobrany aniewpłacony.
 
-§ 3. P∏atnik lub inkasent odpowiada za nale˝noÊci wymienione w § 1 lub 2 ca∏ym swoim majàtkiem.
+§ 3. Płatnik lub inkasent odpowiada za należności wymienione w § 1 lub 2 całym swoim majątkiem.
 
-§ 4. Je˝eli w post´powaniu podatkowym organ podatkowy stwierdzi okolicznoÊç, o której mowa w § 1 lub 2, organ ten wydaje decyzj´ o odpowiedzialnoÊci podatkowej p∏atnika lub inkasenta, w której okreÊla wysokoÊç nale˝noÊci z tytu∏u niepobranego lub pobranego, a niewp∏aconego podatku.
+§ 4. Jeżeli w postępowaniu podatkowym organ podatkowy stwierdzi okoliczność, o której mowa w § 1 lub 2, organ ten wydaje decyzję o odpowiedzialności podatkowej płatnika lub inkasenta, w której określa wysokość należności z tytułu niepobranego lub pobranego, a niewpłaconego podatku.
 
-§ 5. Przepisów § 1—4 nie stosuje si´, je˝eli odr´bne przepisy stanowià inaczej albo je˝eli podatek nie zosta∏ pobrany zwiny podatnika; wtych przypadkach organ podatkowy wydaje decyzj´ oodpowiedzialnoÊci podatnika.
+§ 5. Przepisów § 1—4 nie stosuje się, jeżeli odrębne przepisy stanowią inaczej albo jeżeli podatek nie został pobrany zwiny podatnika; wtych przypadkach organ podatkowy wydaje decyzję oodpowiedzialności podatnika.
 
-§ 6. Decyzj´, o której mowa w § 4 i 5, organ podatkowy mo˝e wydaç równie˝ po zakoƒczeniu roku podatkowego
+§ 6. Decyzję, o której mowa w § 4 i 5, organ podatkowy może wydać również po zakończeniu roku podatkowego
 
 - **23)** wart. 32:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. P∏atnicy iinkasenci obowiàzani sà przechowywaç dokumenty zwiàzane z poborem lub inkasem podatków do czasu up∏ywu terminu przedawnienia zobowiàzania p∏atnika lub inkasenta.”,
-    - **b)** po § 1 dodaje si´ § 1awbrzmieniu: „§ 1a. W razie likwidacji lub rozwiàzania osoby prawnej lub jednostki organizacyjnej niemajàcej osobowoÊci prawnej podmiot dokonujàcy likwidacji lub rozwiàzania zawiadamia pisemnie w∏aÊciwy organ podatkowy, nie póêniej ni˝ w ostatnim dniu istnienia osoby prawnej lub jednostki organizacyjnej niemajàcej osobowoÊci prawnej, o miejscu przechowywania dokumentów zwiàzanych z poborem lub inkasem podatku.”;
+    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Płatnicy iinkasenci obowiązani są przechowywać dokumenty związane z poborem lub inkasem podatków do czasu upływu terminu przedawnienia zobowiązania płatnika lub inkasenta.”,
+    - **b)** po § 1 dodaje się § 1awbrzmieniu: Ń§ 1a. W razie likwidacji lub rozwiązania osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej podmiot dokonujący likwidacji lub rozwiązania zawiadamia pisemnie właściwy organ podatkowy, nie póêniej niż w ostatnim dniu istnienia osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej, o miejscu przechowywania dokumentów związanych z poborem lub inkasem podatku.”;
 
-- **24)** art. 33 otrzymuje brzmienie: lub innego okresu rozliczeniowego.”; „Art. 33. § 1. Zobowiàzanie podatkowe przed terminem p∏atnoÊci mo˝e byç zabezpieczone na majàtku podatnika, a w przypadku osób pozostajàcych w zwiàzku ma∏˝eƒskim tak˝e na majàtku wspólnym, je˝eli zachodzi uzasadniona obawa, ˝e nie zostanie ono wykonane, awszczególnoÊci gdy podatnik nie uiszcza wymagalnych zobowiàzaƒ o charakterze publicznoprawnym i dokonuje czynnoÊci, których skutkiem jest utrata prawa w∏asnoÊci do majàtku. W przypadku zabezpieczenia na majàtku wspólnym ma∏˝onków przepis art. 29 § 2 stosuje si´ odpowiednio.
+- **24)** art. 33 otrzymuje brzmienie: lub innego okresu rozliczeniowego.”; ŃArt. 33. § 1. Zobowiązanie podatkowe przed terminem płatności może być zabezpieczone na majątku podatnika, a w przypadku osób pozostających w związku małżeńskim także na majątku wspólnym, jeżeli zachodzi uzasadniona obawa, że nie zostanie ono wykonane, awszczególności gdy podatnik nie uiszcza wymagalnych zobowiązań o charakterze publicznoprawnym i dokonuje czynności, których skutkiem jest utrata prawa własności do majątku. W przypadku zabezpieczenia na majątku wspólnym małżonków przepis art. 29 § 2 stosuje się odpowiednio.
 
-§ 2. Zabezpieczenia w okolicznoÊciach wymienionych w§ 1 mo˝na dokonaç równie˝ wtoku post´powania podatkowego lub kontroli podatkowej, przed wydaniem decyzji:
+§ 2. Zabezpieczenia w okolicznościach wymienionych w§ 1 można dokonać również wtoku postępowania podatkowego lub kontroli podatkowej, przed wydaniem decyzji:
 
-- **1)** ustalajàcej wysokoÊç zobowiàzania podatkowego,
-- **2)** okreÊlajàcej wysokoÊç zobowiàzania podatkowego,
-- **3)** okreÊlajàcej wysokoÊç zwrotu podatku.
+- **1)** ustalającej wysokość zobowiązania podatkowego,
+- **2)** określającej wysokość zobowiązania podatkowego,
+- **3)** określającej wysokość zwrotu podatku.
 
-§ 3. W przypadku, o którym mowa w § 2 pkt 2, zabezpieczeniu, zzastrze˝eniem art. 54 § 1 pkt 1, podlega równie˝ kwota odsetek za zw∏ok´ nale˝nych od zobowiàzania na dzieƒ wydania decyzji ozabezpieczeniu.
+§ 3. W przypadku, o którym mowa w § 2 pkt 2, zabezpieczeniu, zzastrzeżeniem art. 54 § 1 pkt 1, podlega również kwota odsetek za zwłokę należnych od zobowiązania na dzień wydania decyzji ozabezpieczeniu.
 
-§ 4. W przypadku, o którym mowa w § 2, organ podatkowy na podstawie posiadanych danych co do wysokoÊci podstawy opodatkowania okreÊla wdecyzji ozabezpieczeniu:
+§ 4. W przypadku, o którym mowa w § 2, organ podatkowy na podstawie posiadanych danych co do wysokości podstawy opodatkowania określa wdecyzji ozabezpieczeniu:
 
-- **1)** przybli˝onà kwot´ zobowiàzania podatkowego, je˝eli zabezpieczenie nast´puje przed wydaniem decyzji, októrej mowa w§ 2 pkt 1,
-- **2)** przybli˝onà kwot´ zobowiàzania podatkowego oraz kwot´ odsetek za zw∏ok´ nale˝nych od tego zobowiàzania na dzieƒ wydania decyzji o zabezpieczeniu, je˝eli zabezpieczenie nast´puje przed wydaniem decyzji, októrej mowa w§ 2 pkt 2.
+- **1)** przybliżoną kwotę zobowiązania podatkowego, jeżeli zabezpieczenie następuje przed wydaniem decyzji, októrej mowa w§ 2 pkt 1,
+- **2)** przybliżoną kwotę zobowiązania podatkowego oraz kwotę odsetek za zwłokę należnych od tego zobowiązania na dzień wydania decyzji o zabezpieczeniu, jeżeli zabezpieczenie następuje przed wydaniem decyzji, októrej mowa w§ 2 pkt 2.
 
-§ 5. Zabezpieczenie nast´puje w trybie przepisów o post´powaniu egzekucyjnym wadministracji.”;
+§ 5. Zabezpieczenie następuje w trybie przepisów o postępowaniu egzekucyjnym wadministracji.”;
 
-- **25)** po art. 33 dodaje si´ art. 33a—33cwbrzmieniu: „Art. 33a. § 1. Decyzja ozabezpieczeniu wygasa:
-- **1)** po up∏ywie 14 dni od dnia dor´czenia decyzji ustalajàcej wysokoÊç zobowiàzania podatkowego,
-- **2)** z dniem dor´czenia decyzji okreÊlajàcej wysokoÊç zobowiàzania podatkowego,
-- **3)** z dniem dor´czenia decyzji okreÊlajàcej wysokoÊç zwrotu podatku.
+- **25)** po art. 33 dodaje się art. 33a—33cwbrzmieniu: ŃArt. 33a. § 1. Decyzja ozabezpieczeniu wygasa:
+- **1)** po upływie 14 dni od dnia doręczenia decyzji ustalającej wysokość zobowiązania podatkowego,
+- **2)** z dniem doręczenia decyzji określającej wysokość zobowiązania podatkowego,
+- **3)** z dniem doręczenia decyzji określającej wysokość zwrotu podatku.
 
-§ 2. WygaÊni´cie decyzji o zabezpieczeniu nie narusza zarzàdzenia zabezpieczenia wydanego na podstawie przepisów o post´powaniu egzekucyjnym wadministracji.
+§ 2. Wygaśnięcie decyzji o zabezpieczeniu nie narusza zarządzenia zabezpieczenia wydanego na podstawie przepisów o postępowaniu egzekucyjnym wadministracji.
 
-**Art. 33b.** Przepis art. 33 stosuje si´ odpowiednio do zabezpieczenia na majàtku:
+**Art. 33b.** Przepis art. 33 stosuje się odpowiednio do zabezpieczenia na majątku:
 
-**Art. 33c.** Przepisy art. 33 § 2 pkt 2, § 4 pkt 2 oraz art. 33a§ 1 pkt 2 stosuje si´ odpowiednio do decyzji okreÊlajàcej wysokoÊç odsetek za zw∏ok´, októrej mowa wart. 53a.”;
+**Art. 33c.** Przepisy art. 33 § 2 pkt 2, § 4 pkt 2 oraz art. 33a§ 1 pkt 2 stosuje się odpowiednio do decyzji określającej wysokość odsetek za zwłokę, októrej mowa wart. 53a.”;
 
-**Art. 70b.** Je˝eli w trakcie toczàcego si´ post´powania podatkowego zobowiàzanie podatkowe uleg∏o przedawnieniu, post´powanie to umarza si´ w drodze postanowienia.”;
+**Art. 70b.** Jeżeli w trakcie toczącego się postępowania podatkowego zobowiązanie podatkowe uległo przedawnieniu, postępowanie to umarza się w drodze postanowienia.”;
 
 **Art. 72.**
 
-§ 1. Za nadp∏at´ uwa˝a si´ kwot´:
+§ 1. Za nadpłatę uważa się kwotę:
 
-- **1)** nadp∏aconego lub nienale˝nie zap∏aconego podatku,
-- **2)** podatku pobranà przez p∏atnika nienale˝nie lub w wysokoÊci w art. 70 § 1, ulega zawieszeniu, jewi´kszej od nale˝nej,
-- **3)** zobowiàzania zap∏aconego przez p∏atnika lub inkasenta, je˝eli wdecyzji, októrej mowa wart. 30 § 4, okreÊlono je nienale˝nie lub w wysokoÊci wi´kszej od nale˝nej,
-- **4)** zobowiàzania zap∏aconego przez osob´ trzecià lub spadkobierc´, je˝eli w decyzji o ich odpowiedzialnoÊci okreÊlono je nienale˝nie lub w wysokoÊci wi´kszej od nale˝nej.
+- **1)** nadpłaconego lub nienależnie zapłaconego podatku,
+- **2)** podatku pobraną przez płatnika nienależnie lub w wysokości w art. 70 § 1, ulega zawieszeniu, jewiększej od należnej,
+- **3)** zobowiązania zapłaconego przez płatnika lub inkasenta, jeżeli wdecyzji, októrej mowa wart. 30 § 4, określono je nienależnie lub w wysokości większej od należnej,
+- **4)** zobowiązania zapłaconego przez osobę trzecią lub spadkobiercę, jeżeli w decyzji o ich odpowiedzialności określono je nienależnie lub w wysokości większej od należnej.
 
-§ 2. Je˝eli wp∏ata dotyczy∏a zaleg∏oÊci podatkowej, na równi z nadp∏atà traktuje si´ tak˝e cz´Êç wp∏aty, która zosta∏a zaliczona na poczet odsetek za zw∏ok´.
+§ 2. Jeżeli wpłata dotyczyła zaległości podatkowej, na równi z nadpłatą traktuje się także część wpłaty, która została zaliczona na poczet odsetek za zwłokę.
 
 **Art. 73.**
 
-§ 1. Nadp∏ata powstaje, z zastrze˝eniem § 2, zdniem:
+§ 1. Nadpłata powstaje, z zastrzeżeniem § 2, zdniem:
 
-- **1)** zap∏aty przez podatnika podatku nienale˝nego lub w wysokoÊci wi´kszej od nale˝nej,
-- **2)** pobrania przez p∏atnika podatku nienale˝nego lub w wysokoÊci wi´kszej od nale˝nej,
-- **3)** zap∏aty przez p∏atnika lub inkasenta nale˝noÊci wynikajàcej zdecyzji o jego odpowiedzialnoÊci podatkowej, je˝eli nale˝noÊç ta zosta∏a okreÊlona nienale˝nie lub w wysokoÊci wi´kszej od nale˝nej,
-- **4)** wp∏acenia przez p∏atnika lub inkasenta podatku wwysokoÊci wi´kszej od wysokoÊci pobranego podatku,
-- **5)** zap∏aty przez osob´ trzecià lub spadkobierc´ nale˝noÊci wynikajàcej z decyzji o odpowiedzialnoÊci podatkowej, je˝eli nale˝noÊç ta zosta∏a okreÊlona nienale˝nie lub w wysokoÊci wi´kszej od nale˝nej,
-- **6)** z∏o˝enia korekty deklaracji w podatku od towarów ius∏ug obni˝ajàcej wysokoÊç zobowiàzania podatkowego, w zwiàzku ze zwi´kszeniem kwoty podatku naliczonego w rozumieniu przepisów opodatku od towarów ius∏ug.
+- **1)** zapłaty przez podatnika podatku nienależnego lub w wysokości większej od należnej,
+- **2)** pobrania przez płatnika podatku nienależnego lub w wysokości większej od należnej,
+- **3)** zapłaty przez płatnika lub inkasenta należności wynikającej zdecyzji o jego odpowiedzialności podatkowej, jeżeli należność ta została określona nienależnie lub w wysokości większej od należnej,
+- **4)** wpłacenia przez płatnika lub inkasenta podatku wwysokości większej od wysokości pobranego podatku,
+- **5)** zapłaty przez osobę trzecią lub spadkobiercę należności wynikającej z decyzji o odpowiedzialności podatkowej, jeżeli należność ta została określona nienależnie lub w wysokości większej od należnej,
+- **6)** złożenia korekty deklaracji w podatku od towarów iusług obniżającej wysokość zobowiązania podatkowego, w związku ze zwiększeniem kwoty podatku naliczonego w rozumieniu przepisów opodatku od towarów iusług.
 
-§ 2. Nadp∏ata powstaje zdniem z∏o˝enia:
+§ 2. Nadpłata powstaje zdniem złożenia:
 
 - **1)** zeznania rocznego dla podatników podatku dochodowego,
 - **2)** deklaracji podatku akcyzowego dla podatników podatku akcyzowego,
-- **3)** deklaracji o wp∏atach z zysku za rok obrotowy dla jednoosobowych spó∏ek Skarbu Paƒstwa iprzedsi´biorstw paƒstwowych.
+- **3)** deklaracji o wpłatach z zysku za rok obrotowy dla jednoosobowych spółek Skarbu Państwa iprzedsiębiorstw państwowych.
 
-**Art. 74.** Je˝eli nadp∏ata powsta∏a wwyniku orzeczenia Trybuna∏u Konstytucyjnego, apodatnik, którego zobowiàzanie podatkowe powstaje w sposób przewidziany wart. 21 § 1 pkt 1:
+**Art. 74.** Jeżeli nadpłata powstała wwyniku orzeczenia Trybunału Konstytucyjnego, apodatnik, którego zobowiązanie podatkowe powstaje w sposób przewidziany wart. 21 § 1 pkt 1:
 
-**Art. 74a.** W przypadkach niewymienionych wart. 73 § 2 iart. 74 wysokoÊç nadp∏aty okreÊla organ podatkowy.
+**Art. 74a.** W przypadkach niewymienionych wart. 73 § 2 iart. 74 wysokość nadpłaty określa organ podatkowy.
 
 **Art. 75.**
 
-§ 1. Je˝eli podatnik kwestionuje zasadnoÊç pobrania przez p∏atnika podatku albo wysokoÊç pobranego podatku, mo˝e z∏o˝yç wniosek o stwierdzenie nadp∏aty podatku.
+§ 1. Jeżeli podatnik kwestionuje zasadność pobrania przez płatnika podatku albo wysokość pobranego podatku, może złożyć wniosek o stwierdzenie nadpłaty podatku.
 
-§ 2. Uprawnienie okreÊlone w § 1 przys∏uguje równie˝:
+§ 2. Uprawnienie określone w § 1 przysługuje również:
 
-- **1)** podatnikom, których zobowiàzanie podatkowe powstaje w sposób przewidziany w art. 21 § 1 pkt1, je˝eli:
-    - **a)** w zeznaniach (deklaracjach), o których mowa w art. 73 § 2, wykazali zobowiàzanie podatrym mowa wart. 73 § 2 pkt 1, kowe nienale˝ne lub wwysokoÊci wi´kszej od nale˝nej iwp∏acili zadeklarowany podatek albo wykazali nadp∏at´ w wysokoÊci mniejszej od nale˝nej,
-    - **b)** w deklaracjach innych ni˝ wymienione wart. 73 § 2 pkt 2 i3, zwyjàtkiem deklaracji dotyczàcej podatku dochodowego, wykazali zobowiàzanie podatkowe nienale˝ne lub wwysokoÊci wi´kszej od nale˝nej i wp∏acili zadeklarowany podatek,
-    - **c)** nie b´dàc obowiàzanymi do sk∏adania zeznaƒ (deklaracji), dokonali wp∏aty podatku nienale˝nego lub w wysokoÊci wi´kszej od nale˝nej,
+- **1)** podatnikom, których zobowiązanie podatkowe powstaje w sposób przewidziany w art. 21 § 1 pkt1, jeżeli:
+    - **a)** w zeznaniach (deklaracjach), o których mowa w art. 73 § 2, wykazali zobowiązanie podatrym mowa wart. 73 § 2 pkt 1, kowe nienależne lub wwysokości większej od należnej iwpłacili zadeklarowany podatek albo wykazali nadpłatę w wysokości mniejszej od należnej,
+    - **b)** w deklaracjach innych niż wymienione wart. 73 § 2 pkt 2 i3, zwyjątkiem deklaracji dotyczącej podatku dochodowego, wykazali zobowiązanie podatkowe nienależne lub wwysokości większej od należnej i wpłacili zadeklarowany podatek,
+    - **c)** nie będąc obowiązanymi do składania zeznań (deklaracji), dokonali wpłaty podatku nienależnego lub w wysokości większej od należnej,
 
-- **2)** p∏atnikom lub inkasentom, je˝eli:
-    - **a)** w z∏o˝onej deklaracji wykazali oraz wp∏acili podatek w wysokoÊci wi´kszej od wysokoÊci pobranego podatku,
-    - **b)** w z∏o˝onej deklaracji wykazali oraz wp∏acili podatek w wysokoÊci wi´kszej od nale˝nej,
-    - **c)** nie b´dàc obowiàzanymi do sk∏adania deklaracji, wp∏acili podatek w wysokoÊci wi´kszej od nale˝nej.
+- **2)** płatnikom lub inkasentom, jeżeli:
+    - **a)** w złożonej deklaracji wykazali oraz wpłacili podatek w wysokości większej od wysokości pobranego podatku,
+    - **b)** w złożonej deklaracji wykazali oraz wpłacili podatek w wysokości większej od należnej,
+    - **c)** nie będąc obowiązanymi do składania deklaracji, wpłacili podatek w wysokości większej od należnej.
 
-§ 3. W przypadkach, o których mowa w§2 pkt 1 lit. a) ib) oraz wpkt 2 lit.a) i b), podatnik, p∏atnik lub inkasent równoczeÊnie zwnioskiem ostwierdzenie nadp∏aty sà obowiàzani z∏o˝yç skorygowane zeznanie (deklaracj´).
+§ 3. W przypadkach, o których mowa w§2 pkt 1 lit. a) ib) oraz wpkt 2 lit.a) i b), podatnik, płatnik lub inkasent równocześnie zwnioskiem ostwierdzenie nadpłaty są obowiązani złożyć skorygowane zeznanie (deklarację).
 
-§ 4. Je˝eli prawid∏owoÊç skorygowanego zeznania (deklaracji) nie budzi wàtpliwoÊci, organ podatkowy zwraca nadp∏at´ bez wydania decyzji stwierdzajàcej nadp∏at´.
+§ 4. Jeżeli prawidłowość skorygowanego zeznania (deklaracji) nie budzi wątpliwości, organ podatkowy zwraca nadpłatę bez wydania decyzji stwierdzającej nadpłatę.
 
-§ 5. Je˝eli zwrotu nadp∏aty w trybie, o którym mowa w § 4, dokonano nienale˝nie lub w wysokoÊci wy˝szej od nale˝nej, od kwoty nadp∏aty podlegajàcej zwrotowi nie nalicza si´ odsetek za zw∏ok´. Wtym zakresie nie wszczyna si´ post´powania wsprawach oprzest´pstwa skarbowe lub wykroczenia skarbowe.
+§ 5. Jeżeli zwrotu nadpłaty w trybie, o którym mowa w § 4, dokonano nienależnie lub w wysokości wyższej od należnej, od kwoty nadpłaty podlegającej zwrotowi nie nalicza się odsetek za zwłokę. Wtym zakresie nie wszczyna się postępowania wsprawach oprzestępstwa skarbowe lub wykroczenia skarbowe.
 
-§ 6. Przepisów § 2 pkt 1 lit. b) i pkt 2 nie stosuje si´, je˝eli ustawy podatkowe przewidujà inny tryb zwrotu podatku.
+§ 6. Przepisów § 2 pkt 1 lit. b) i pkt 2 nie stosuje się, jeżeli ustawy podatkowe przewidują inny tryb zwrotu podatku.
 
-§ 7. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia, w∏aÊciwoÊç miejscowà organów podatkowych wsprawach, októrych mowa w§ 1, uwzgl´dniajàc w szczególnoÊci rodzaj podatku iprzypadki poboru podatku przez p∏atnika.
+§ 7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, właściwość miejscową organów podatkowych wsprawach, októrych mowa w§ 1, uwzględniając w szczególności rodzaj podatku iprzypadki poboru podatku przez płatnika.
 
 **Art. 76.**
 
-§ 1. Nadp∏aty wraz z ich oprocentowaniem podlegajà zaliczeniu z urz´du na poczet zaleg∏oÊci podatkowych wraz zodsetkami za zw∏ok´ oraz bie˝àcych zobowiàzaƒ podatkowych, a w razie ich braku podlegajà zwrotowi zurz´du, chyba ˝e podatnik z∏o˝y wniosek o zaliczenie nadp∏aty w ca∏oÊci lub w cz´Êci na poczet przysz∏ych zobowiàzaƒ podatkowych, zzastrze˝eniem § 2.
+§ 1. Nadpłaty wraz z ich oprocentowaniem podlegają zaliczeniu z urzędu na poczet zaległości podatkowych wraz zodsetkami za zwłokę oraz bieżących zobowiązań podatkowych, a w razie ich braku podlegają zwrotowi zurzędu, chyba że podatnik złoży wniosek o zaliczenie nadpłaty w całości lub w części na poczet przyszłych zobowiązań podatkowych, zzastrzeżeniem § 2.
 
-§ 2. Nadp∏aty, których wysokoÊç nie przekracza wysokoÊci kosztów upomnienia w post´powaniu egzekucyjnym, podlegajà z urz´du zaliczeniu na poczet zaleg∏oÊci podatkowych wraz z odsetkami za zw∏ok´ oraz bie˝àcych zobowiàzaƒ podatkowych, awrazie ich braku na poczet przysz∏ych zobowiàzaƒ podatkowych, chyba ˝e podatnik wystàpi oich zwrot.
+§ 2. Nadpłaty, których wysokość nie przekracza wysokości kosztów upomnienia w postępowaniu egzekucyjnym, podlegają z urzędu zaliczeniu na poczet zaległości podatkowych wraz z odsetkami za zwłokę oraz bieżących zobowiązań podatkowych, awrazie ich braku na poczet przyszłych zobowiązań podatkowych, chyba że podatnik wystąpi oich zwrot.
 
 **Art. 76a.**
 
-§ 1. Wsprawach zaliczenia nadp∏aty na poczet zaleg∏ych oraz bie˝àcych zobowiàzaƒ podatkowych wydaje si´ postanowienie, na które s∏u˝y za˝alenie. W przypadku zaliczenia nadp∏aty na poczet zaleg∏oÊci podatkowych przepisy art. 55 § 2 i art. 62 § 1 stosuje si´ odpowiednio.
+§ 1. Wsprawach zaliczenia nadpłaty na poczet zaległych oraz bieżących zobowiązań podatkowych wydaje się postanowienie, na które służy zażalenie. W przypadku zaliczenia nadpłaty na poczet zaległości podatkowych przepisy art. 55 § 2 i art. 62 § 1 stosuje się odpowiednio.
 
-§ 2. Zaliczenie nadp∏aty na poczet zaleg∏oÊci podatkowych nast´puje zdniem:
+§ 2. Zaliczenie nadpłaty na poczet zaległości podatkowych następuje zdniem:
 
-- **1)** powstania nadp∏aty w przypadkach, o których mowa wart.73 § 1 pkt 1, 2 i5 oraz § 2,
-- **2)** z∏o˝enia wniosku ostwierdzenie
+- **1)** powstania nadpłaty w przypadkach, o których mowa wart.73 § 1 pkt 1, 2 i5 oraz § 2,
+- **2)** złożenia wniosku ostwierdzenie
 
-**Art. 76b.** Przepisy art. 76, art. 76a, art. 77b i art. 80 stosuje si´ odpowiednio do zwrotu podatku. Zaliczenie, o którym mowa w art. 76a § 2 pkt 1, nast´puje z dniem z∏o˝enia deklaracji wykazujàcej zwrot podatku.
+**Art. 76b.** Przepisy art. 76, art. 76a, art. 77b i art. 80 stosuje się odpowiednio do zwrotu podatku. Zaliczenie, o którym mowa w art. 76a § 2 pkt 1, następuje z dniem złożenia deklaracji wykazującej zwrot podatku.
 
-**Art. 76c.** Nadp∏at´ wynikajàcà z zaliczek na podatek zwraca si´ po zakoƒczeniu okresu, za który rozlicza si´ podatek. Je˝eli jednak nadp∏ata wynika z decyzji stwierdzajàcej nadp∏at´, wydanej w zwiàzku z art. 75 § 1, zwrot nadp∏aty nast´puje w terminie 30 dni od dnia wydania tej decyzji.
+**Art. 76c.** Nadpłatę wynikającą z zaliczek na podatek zwraca się po zakończeniu okresu, za który rozlicza się podatek. Jeżeli jednak nadpłata wynika z decyzji stwierdzającej nadpłatę, wydanej w związku z art. 75 § 1, zwrot nadpłaty następuje w terminie 30 dni od dnia wydania tej decyzji.
 
 **Art. 77.**
 
-§ 1. Nadp∏ata podlega zwrotowi w terminie:
+§ 1. Nadpłata podlega zwrotowi w terminie:
 
-- **1)** 30 dni od dnia wydania decyzji o zmianie, uchyleniu lub stwierdzeniu niewa˝noÊci decyzji:
-    - **a)** ustalajàcej wysokoÊç zobowiàzania podatkowego, nadp∏aty.
-    - **b)** okreÊlajàcej wysokoÊç zobowiàzania podatkowego,
-    - **c)** oodpowiedzialnoÊci podatkowej p∏atnika lub inkasenta,
-    - **d)** oodpowiedzialnoÊci podatkowej osoby trzeciej lub spadkobiercy, zzastrze˝eniem § 3,
+- **1)** 30 dni od dnia wydania decyzji o zmianie, uchyleniu lub stwierdzeniu nieważności decyzji:
+    - **a)** ustalającej wysokość zobowiązania podatkowego, nadpłaty.
+    - **b)** określającej wysokość zobowiązania podatkowego,
+    - **c)** oodpowiedzialności podatkowej płatnika lub inkasenta,
+    - **d)** oodpowiedzialności podatkowej osoby trzeciej lub spadkobiercy, zzastrzeżeniem § 3,
 
-- **2)** 30 dni od dnia wydania decyzji stwierdzajàcej nadp∏at´,
-- **3)** 30 dni od dnia dor´czenia organowi podatkowemu orzeczenia sàdu administracyjnego wraz z jego uzasadnieniem, uchylajàcego decyzj´ organu podatkowego pierwszej instancji lub stwierdzajàcego jej niewa˝noÊç, z zastrze˝eniem § 3,
-- **4)** 30 dni od dnia z∏o˝enia wniosku, októrym mowa wart. 74,
-- **5)** 3 miesi´cy od dnia z∏o˝enia zeznania lub deklaracji, o których mowa w art. 73 § 2, z zastrze˝eniem § 2,
-- **6)** 2 miesi´cy od dnia z∏o˝enia wniosku ostwierdzenie nadp∏aty wraz ze skorygowanym zeznaniem (deklaracjà) w przypadkach, októrych mowa wart. 75 § 3, lecz nie wczeÊniej ni˝ w terminie 3 miesi´cy od dnia z∏o˝enia zeznania lub deklaracji, o których mowa wart. 73 § 2.
+- **2)** 30 dni od dnia wydania decyzji stwierdzającej nadpłatę,
+- **3)** 30 dni od dnia doręczenia organowi podatkowemu orzeczenia sądu administracyjnego wraz z jego uzasadnieniem, uchylającego decyzję organu podatkowego pierwszej instancji lub stwierdzającego jej nieważność, z zastrzeżeniem § 3,
+- **4)** 30 dni od dnia złożenia wniosku, októrym mowa wart. 74,
+- **5)** 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 73 § 2, z zastrzeżeniem § 2,
+- **6)** 2 miesięcy od dnia złożenia wniosku ostwierdzenie nadpłaty wraz ze skorygowanym zeznaniem (deklaracją) w przypadkach, októrych mowa wart. 75 § 3, lecz nie wcześniej niż w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa wart. 73 § 2.
 
-§ 2. Wprzypadku skorygowania deklaracji lub zeznania wtrybie okreÊlonym w art. 274 lub art. 274a nadp∏ata podlega zwrotowi wterminie 3 miesi´cy od dnia skorygowania przez podatnika deklaracji lub zeznania.
+§ 2. Wprzypadku skorygowania deklaracji lub zeznania wtrybie określonym w art. 274 lub art. 274a nadpłata podlega zwrotowi wterminie 3 miesięcy od dnia skorygowania przez podatnika deklaracji lub zeznania.
 
-§ 3. W przypadku uchylenia decyzji, októrej mowa w§ 1 pkt 1 lit. a)—d), lub stwierdzenia jej niewa˝noÊci, je˝eli nast´pnie, w terminie 3 miesi´cy od dnia uchylenia lub stwierdzenia niewa˝noÊci przez organ podatkowy lub od dnia dor´czenia organowi podatkowemu orzeczenia sàdu administracyjnego wraz z jego uzasadnieniem, uchylajàcego decyzj´ lub stwierdzajàcego jej niewa˝noÊç, zostanie wydana decyzja wtej samej sprawie, nadp∏ata, którà stanowi ró˝nica mi´dzy podatkiem wp∏aconym a podatkiem wynikajàcym z tej decyzji, podlega zwrotowi w terminie 30 dni od dnia wydania nowej decyzji.
+§ 3. W przypadku uchylenia decyzji, októrej mowa w§ 1 pkt 1 lit. a)—d), lub stwierdzenia jej nieważności, jeżeli następnie, w terminie 3 miesięcy od dnia uchylenia lub stwierdzenia nieważności przez organ podatkowy lub od dnia doręczenia organowi podatkowemu orzeczenia sądu administracyjnego wraz z jego uzasadnieniem, uchylającego decyzję lub stwierdzającego jej nieważność, zostanie wydana decyzja wtej samej sprawie, nadpłata, którą stanowi różnica między podatkiem wpłaconym a podatkiem wynikającym z tej decyzji, podlega zwrotowi w terminie 30 dni od dnia wydania nowej decyzji.
 
-§ 4. Wprzypadku niewydania nowej decyzji w terminie, o którym mowa w § 3, nadp∏ata stanowiàca kwot´ wp∏aconà na podstawie decyzji uchylonej lub decyzji, której niewa˝noÊç stwierdzono, podlega zwrotowi bez zb´dnej zw∏oki.
+§ 4. Wprzypadku niewydania nowej decyzji w terminie, o którym mowa w § 3, nadpłata stanowiąca kwotę wpłaconą na podstawie decyzji uchylonej lub decyzji, której nieważność stwierdzono, podlega zwrotowi bez zbędnej zwłoki.
 
-**Art. 77a.** Organ podatkowy mo˝e, na wniosek podatnika, w przypadkach uzasadnionych jego wa˝nym interesem, dokonaç zwrotu nadwy˝ki wp∏aconych kwot zaliczek na podatek dochodowy.
+**Art. 77a.** Organ podatkowy może, na wniosek podatnika, w przypadkach uzasadnionych jego ważnym interesem, dokonać zwrotu nadwyżki wpłaconych kwot zaliczek na podatek dochodowy.
 
 **Art. 77b.**
 
-§ 1. Zwrot nadp∏aty nast´puje:
+§ 1. Zwrot nadpłaty następuje:
 
-- **1)** na wskazany rachunek bankowy podatnika, p∏atnika lub inkasenta obowiàzanego do posiadania rachunku bankowego,
-- **2)** wgotówce, je˝eli podatnik, p∏atnik lub inkasent nie sà obowiàzani do posiadania rachunku bankowego, chyba ˝e za˝àdajà zwrotu nadp∏aty na rachunek bankowy.
+- **1)** na wskazany rachunek bankowy podatnika, płatnika lub inkasenta obowiązanego do posiadania rachunku bankowego,
+- **2)** wgotówce, jeżeli podatnik, płatnik lub inkasent nie są obowiązani do posiadania rachunku bankowego, chyba że zażądają zwrotu nadpłaty na rachunek bankowy.
 
-§ 2. Za dzieƒ zwrotu nadp∏aty uwa˝a si´ dzieƒ:
+§ 2. Za dzień zwrotu nadpłaty uważa się dzień:
 
-- **1)** obcià˝enia rachunku bankowego organu podatkowego na podstawie polecenia przelewu,
-- **2)** z∏o˝enia przekazu pocztowego,
-- **3)** wyp∏acenia kwoty nadp∏aty przez organ podatkowy lub postawienia nadp∏aty do dyspozycji podatnika wkasie.
+- **1)** obciążenia rachunku bankowego organu podatkowego na podstawie polecenia przelewu,
+- **2)** złożenia przekazu pocztowego,
+- **3)** wypłacenia kwoty nadpłaty przez organ podatkowy lub postawienia nadpłaty do dyspozycji podatnika wkasie.
 
-§ 3. Nadp∏ata, której wysokoÊç nie przekracza kosztów upomnienia w post´powaniu egzekucyjnym, podlega zwrotowi wy∏àcznie wkasie.
+§ 3. Nadpłata, której wysokość nie przekracza kosztów upomnienia w postępowaniu egzekucyjnym, podlega zwrotowi wyłącznie wkasie.
 
-§ 4. Nadp∏ata zwracana przekazem pocztowym jest pomniejszana
+§ 4. Nadpłata zwracana przekazem pocztowym jest pomniejszana
 
 **Art. 78.**
 
-§ 1. Nadp∏aty podlegajà oprocentowaniu w wysokoÊci równej wysokoÊci odsetek za zw∏ok´ pobieranych od zaleg∏oÊci podatkowych, zzastrze˝eniem § 2.
+§ 1. Nadpłaty podlegają oprocentowaniu w wysokości równej wysokości odsetek za zwłokę pobieranych od zaległości podatkowych, zzastrzeżeniem § 2.
 
-§ 2. Nadp∏aty, o których mowa w art. 76 § 2, nie podlegajà oprocentowaniu.
+§ 2. Nadpłaty, o których mowa w art. 76 § 2, nie podlegają oprocentowaniu.
 
-§ 3. Oprocentowanie przys∏uguje:
+§ 3. Oprocentowanie przysługuje:
 
-- **1)** w przypadkach przewidzianych w art. 77 § 1 pkt 1 lit. a)—d), z zastrze˝eniem pkt 2, oraz w przypadku, o którym mowa w art. 77 § 1 pkt 3 od dnia powstania nadp∏aty,
-- **2)** w przypadkach przewidzianych wart. 77 § 1 pkt 1 lit. a)—d) od dnia wydania decyzji o zmianie lub uchyleniu decyzji, je˝eli organ podatkowy nie przyczyni∏ si´ do powstania przes∏anki zmiany lub uchylenia decyzji, a nadp∏ata nie zosta∏a zwrócona wterminie,
-- **3)** w przypadkach przewidzianych wart. 77 § 1 pkt 2 ipkt 6 od dnia z∏o˝enia wniosku o stwierdzenie nadp∏aty wraz ze skorygowanym zeznaniem (deklaracjà): p∏aty przyczyni∏ si´ podatnik, p∏atnik lub inkasent,
-    - **a)** je˝eli nadp∏ata nie zosta∏a zwrócona wterminie 30 dni od dnia wydania decyzji stwierdzajàcej nadp∏at´,
-    - **b)** je˝eli decyzja stwierdzajàca nadp∏at´ nie zosta∏a wydana w terminie 2 miesi´cy od dnia z∏o˝enia wniosku o stwierdzenie nadp∏aty, chyba ˝e do opóênienia w wydaniu decyzji przyczyni∏ si´ podatnik, p∏atnik lub inkasent,
-    - **c)** je˝eli nadp∏ata nie zosta∏a zwrócona w terminie, o którym mowa wart. 77 § 1 pkt 6, chyba ˝e do opóênienia w zwrocie nadokoszty jej zwrotu.
+- **1)** w przypadkach przewidzianych w art. 77 § 1 pkt 1 lit. a)—d), z zastrzeżeniem pkt 2, oraz w przypadku, o którym mowa w art. 77 § 1 pkt 3 od dnia powstania nadpłaty,
+- **2)** w przypadkach przewidzianych wart. 77 § 1 pkt 1 lit. a)—d) od dnia wydania decyzji o zmianie lub uchyleniu decyzji, jeżeli organ podatkowy nie przyczynił się do powstania przesłanki zmiany lub uchylenia decyzji, a nadpłata nie została zwrócona wterminie,
+- **3)** w przypadkach przewidzianych wart. 77 § 1 pkt 2 ipkt 6 od dnia złożenia wniosku o stwierdzenie nadpłaty wraz ze skorygowanym zeznaniem (deklaracją): płaty przyczynił się podatnik, płatnik lub inkasent,
+    - **a)** jeżeli nadpłata nie została zwrócona wterminie 30 dni od dnia wydania decyzji stwierdzającej nadpłatę,
+    - **b)** jeżeli decyzja stwierdzająca nadpłatę nie została wydana w terminie 2 miesięcy od dnia złożenia wniosku o stwierdzenie nadpłaty, chyba że do opóênienia w wydaniu decyzji przyczynił się podatnik, płatnik lub inkasent,
+    - **c)** jeżeli nadpłata nie została zwrócona w terminie, o którym mowa wart. 77 § 1 pkt 6, chyba że do opóênienia w zwrocie nadokoszty jej zwrotu.
 
-- **4)** w przypadku przewidzianym wart. 77 § 1 pkt 5 i§ 2 od dnia powstania nadp∏aty, je˝eli nadp∏ata nie zosta∏a zwrócona w terminie 3 miesi´cy od dnia z∏o˝enia zeznania lub deklaracji, o których mowa w art. 73 § 2, lub od dnia z∏o˝enia korekty zeznania lub deklaracji w trybie art. 274 lub art.274a.
+- **4)** w przypadku przewidzianym wart. 77 § 1 pkt 5 i§ 2 od dnia powstania nadpłaty, jeżeli nadpłata nie została zwrócona w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 73 § 2, lub od dnia złożenia korekty zeznania lub deklaracji w trybie art. 274 lub art.274a.
 
-§ 4. Oprocentowanie z tytu∏u nadp∏aty przys∏uguje do dnia zwrotu nadp∏aty, zaliczenia jej na poczet zaleg∏ych lub bie˝àcych zobowiàzaƒ podatkowych lub dnia z∏o˝enia wniosku ozaliczenie nadp∏aty na poczet przysz∏ych zobowiàzaƒ podatkowych, zzastrze˝eniem § 5 pkt 2.
+§ 4. Oprocentowanie z tytułu nadpłaty przysługuje do dnia zwrotu nadpłaty, zaliczenia jej na poczet zaległych lub bieżących zobowiązań podatkowych lub dnia złożenia wniosku ozaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych, zzastrzeżeniem § 5 pkt 2.
 
-§ 5. Wprzypadku przewidzianym wart.77 § 1 pkt 4 oprocentowanie przys∏uguje za okres:
+§ 5. Wprzypadku przewidzianym wart.77 § 1 pkt 4 oprocentowanie przysługuje za okres:
 
-- **1)** od dnia powstania nadp∏aty do dnia jej zwrotu pod warunkiem z∏o˝enia przez podatnika wniosku o zwrot nadp∏aty w terminie 30 dni od dnia wejÊcia w ˝ycie orzeczenia Trybuna∏u Konstytucyjnego o utracie mocy obowiàzujàcej w ca∏oÊci lub w cz´Êci aktu normatywnego, lub dnia, w którym uchylono lub zmieniono wca∏oÊci lub wcz´Êci ten akt,
-- **2)** od dnia powstania nadp∏aty do trzydziestego dnia od dnia wejÊcia w˝ycie orzeczenia Trybuna∏u Konstytucyjnego o utracie mocy obowiàzujàcej w ca∏oÊci lub w cz´Êci aktu normatywnego lub dnia, w którym uchylono lub zmieniono w ca∏oÊci lub w cz´Êci ten akt je˝eli wniosek o zwrot nadp∏aty zosta∏ z∏o˝ony po up∏ywie 30 dni od dnia wejÊcia w˝ycie orzeczenia Trybuna∏u Konstytucyjnego o utracie mocy obowiàzujàcej w ca∏oÊci lub w cz´Êci aktu normatywnego, lub dnia, w którym uchylono lub zmieniono wca∏oÊci lub wcz´Êci ten akt.
+- **1)** od dnia powstania nadpłaty do dnia jej zwrotu pod warunkiem złożenia przez podatnika wniosku o zwrot nadpłaty w terminie 30 dni od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego o utracie mocy obowiązującej w całości lub w części aktu normatywnego, lub dnia, w którym uchylono lub zmieniono wcałości lub wczęści ten akt,
+- **2)** od dnia powstania nadpłaty do trzydziestego dnia od dnia wejścia wżycie orzeczenia Trybunału Konstytucyjnego o utracie mocy obowiązującej w całości lub w części aktu normatywnego lub dnia, w którym uchylono lub zmieniono w całości lub w części ten akt jeżeli wniosek o zwrot nadpłaty został złożony po upływie 30 dni od dnia wejścia wżycie orzeczenia Trybunału Konstytucyjnego o utracie mocy obowiązującej w całości lub w części aktu normatywnego, lub dnia, w którym uchylono lub zmieniono wcałości lub wczęści ten akt.
 
-**Art. 78a.** Je˝eli kwota dokonanego zwrotu podatku nie pokrywa kwoty nadp∏aty wraz zjej oprocentowaniem, zwróconà kwot´ zalicza si´ proporcjonalnie na poczet kwoty nadp∏aty oraz kwoty jej oprocentowania w takim stosunku, w jakim w dniu zwrotu pozostaje kwota nadp∏aty do kwoty oprocentowania.
+**Art. 78a.** Jeżeli kwota dokonanego zwrotu podatku nie pokrywa kwoty nadpłaty wraz zjej oprocentowaniem, zwróconą kwotę zalicza się proporcjonalnie na poczet kwoty nadpłaty oraz kwoty jej oprocentowania w takim stosunku, w jakim w dniu zwrotu pozostaje kwota nadpłaty do kwoty oprocentowania.
 
 **Art. 79.**
 
-§ 1. Post´powanie wsprawie stwierdzenia nadp∏aty nie mo˝e zostaç wszcz´te w czasie trwania post´powania podatkowego lub kontroli podatkowej oraz w okresie mi´dzy zakoƒczeniem kontroli a wszcz´ciem post´powania w zakresie zobowiàzaƒ podatkowych, których dotyczy post´powanie lub kontrola.
+§ 1. Postępowanie wsprawie stwierdzenia nadpłaty nie może zostać wszczęte w czasie trwania postępowania podatkowego lub kontroli podatkowej oraz w okresie między zakończeniem kontroli a wszczęciem postępowania w zakresie zobowiązań podatkowych, których dotyczy postępowanie lub kontrola.
 
-§ 2. Prawo do z∏o˝enia wniosku ostwierdzenie nadp∏aty wygasa:
+§ 2. Prawo do złożenia wniosku ostwierdzenie nadpłaty wygasa:
 
-- **1)** w przypadkach, o których mowa w art. 75 § 1, po up∏ywie 5 lat od dnia:
-    - **a)** pobrania przez p∏atnika podatku nienale˝nie lub wwysokoÊci wi´kszej od nale˝nej,
-    - **b)** uprawomocnienia si´ decyzji o uchyleniu lub zmianie decyzji, na podstawie której p∏atnik
-    - **c)** uprawomocnienia si´ decyzji ouchyleniu lub zmianie decyzji o odpowiedzialnoÊci podatkowej osoby trzeciej lub o odpowiedzialnoÊci podatkowej spadkobiercy,
+- **1)** w przypadkach, o których mowa w art. 75 § 1, po upływie 5 lat od dnia:
+    - **a)** pobrania przez płatnika podatku nienależnie lub wwysokości większej od należnej,
+    - **b)** uprawomocnienia się decyzji o uchyleniu lub zmianie decyzji, na podstawie której płatnik
+    - **c)** uprawomocnienia się decyzji ouchyleniu lub zmianie decyzji o odpowiedzialności podatkowej osoby trzeciej lub o odpowiedzialności podatkowej spadkobiercy,
 
-- **2)** w przypadkach, o których mowa w art. 75 § 2 pkt 1 lit. a) i b) oraz w pkt 2 lit. a) i b) po up∏ywie 5 lat od dnia z∏o˝enia zeznania (deklaracji),
-- **3)** w przypadkach, o których mowa w art. 75 § 2 pkt 1 lit. c) oraz wpkt2 lit. c) po up∏ywie 5 lat od dnia, w którym dokonano wp∏aty podatku.
+- **2)** w przypadkach, o których mowa w art. 75 § 2 pkt 1 lit. a) i b) oraz w pkt 2 lit. a) i b) po upływie 5 lat od dnia złożenia zeznania (deklaracji),
+- **3)** w przypadkach, o których mowa w art. 75 § 2 pkt 1 lit. c) oraz wpkt2 lit. c) po upływie 5 lat od dnia, w którym dokonano wpłaty podatku.
 
-§ 3. Przepisu § 2 pkt 2 nie stosuje si´, je˝eli ustawy podatkowe przewidujà inny tryb zwrotu podatku.
+§ 3. Przepisu § 2 pkt 2 nie stosuje się, jeżeli ustawy podatkowe przewidują inny tryb zwrotu podatku.
 
 **Art. 80.**
 
-§ 1. Prawo do zwrotu nadp∏aty podatku wygasa po up∏ywie 5 lat, liczàc od koƒca roku kalendarzowego, w którym up∏ynà∏ termin jej zwrotu.
+§ 1. Prawo do zwrotu nadpłaty podatku wygasa po upływie 5 lat, licząc od końca roku kalendarzowego, w którym upłynął termin jej zwrotu.
 
-§ 2. Po up∏ywie terminu okreÊlonego w§1 wygasa równie˝ prawo do z∏o˝enia wniosku o zaliczenie nadp∏aty na poczet przysz∏ych zobowiàzaƒ podatkowych oraz mo˝liwoÊç zaliczenia nadp∏aty na poczet zaleg∏ych oraz bie˝àcych zobowiàzaƒ podatkowych.
+§ 2. Po upływie terminu określonego w§1 wygasa również prawo do złożenia wniosku o zaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych oraz możliwość zaliczenia nadpłaty na poczet zaległych oraz bieżących zobowiązań podatkowych.
 
-§ 3. Z∏o˝enie wniosku o stwierdzenie nadp∏aty, zwrot nadp∏aty lub zaliczenie jej na poczet przysz∏ych zobowiàzaƒ podatkowych przerywa bieg terminu do zwrotu nadp∏aty. Rozdzia∏ 10 Korekta deklaracji
+§ 3. Złożenie wniosku o stwierdzenie nadpłaty, zwrot nadpłaty lub zaliczenie jej na poczet przyszłych zobowiązań podatkowych przerywa bieg terminu do zwrotu nadpłaty.
 
-**Art. 81.** Skorygowanie deklaracji nast´puje przez z∏o˝enie korygujàcej deklaracji wraz z do∏àczonym pisemnym uzasaddokona∏ obliczenia podatku, nieniem przyczyn korekty.
+#### Rozdział 10 Korekta deklaracji
+
+**Art. 81.** Skorygowanie deklaracji następuje przez złożenie korygującej deklaracji wraz z dołączonym pisemnym uzasaddokonał obliczenia podatku, nieniem przyczyn korekty.
 
 **Art. 81a.**
 
-§ 1. Je˝eli odr´bne przepisy nie stanowià inaczej, podatnicy, których zobowiàzanie podatkowe powstaje w sposób przewidziany w art. 21 § 1 pkt 1, mogà skorygowaç uprzednio z∏o˝one zeznanie (deklaracj´), je˝eli:
+§ 1. Jeżeli odrębne przepisy nie stanowią inaczej, podatnicy, których zobowiązanie podatkowe powstaje w sposób przewidziany w art. 21 § 1 pkt 1, mogą skorygować uprzednio złożone zeznanie (deklarację), jeżeli:
 
-- **1)** w zeznaniach (deklaracjach), o których mowa w art. 73 § 2, wykazali zobowiàzanie podatkowe nienale˝ne lub w wysokoÊci wi´kszej od nale˝nej i wp∏acili zadeklarowany podatek albo wykazali kwot´ nadp∏aty w wysokoÊci mniejszej od nale˝nej,
-- **2)** w deklaracjach innych ni˝ wymienione w art. 73 § 2 pkt 2 i 3 wykazali zobowiàzanie podatkowe nienale˝ne lub w wysokoÊci wi´kszej od nale˝nej i wp∏acili zadeklarowany podatek,
-- **3)** w z∏o˝onej deklaracji wykazali zobowiàzanie podatkowe w wysokoÊci ni˝szej od nale˝nej albo kwot´ nadp∏aty lub zwrotu podatku w wysokoÊci wi´kszej od nale˝nej.
+- **1)** w zeznaniach (deklaracjach), o których mowa w art. 73 § 2, wykazali zobowiązanie podatkowe nienależne lub w wysokości większej od należnej i wpłacili zadeklarowany podatek albo wykazali kwotę nadpłaty w wysokości mniejszej od należnej,
+- **2)** w deklaracjach innych niż wymienione w art. 73 § 2 pkt 2 i 3 wykazali zobowiązanie podatkowe nienależne lub w wysokości większej od należnej i wpłacili zadeklarowany podatek,
+- **3)** w złożonej deklaracji wykazali zobowiązanie podatkowe w wysokości niższej od należnej albo kwotę nadpłaty lub zwrotu podatku w wysokości większej od należnej.
 
-§ 2. Uprawnienie do skorygowania deklaracji przys∏uguje:
+§ 2. Uprawnienie do skorygowania deklaracji przysługuje:
 
-- **1)** p∏atnikom, je˝eli w z∏o˝onej deklaracji wykazali:
-    - **a)** podatek pobrany wwysokoÊci mniejszej lub wi´kszej od nale˝nej,
-    - **b)** podatek nale˝ny w wysokoÊci mniejszej lub wi´kszej od pobranej,
+- **1)** płatnikom, jeżeli w złożonej deklaracji wykazali:
+    - **a)** podatek pobrany wwysokości mniejszej lub większej od należnej,
+    - **b)** podatek należny w wysokości mniejszej lub większej od pobranej,
 
-- **2)** inkasentom, je˝eli wz∏o˝onej deklaracji wykazali:
-    - **a)** podatek nale˝ny w wysokoÊci mniejszej od pobranej,
-    - **b)** podatek w wysokoÊci mniejszej lub wi´kszej od pobranej.
+- **2)** inkasentom, jeżeli wzłożonej deklaracji wykazali:
+    - **a)** podatek należny w wysokości mniejszej od pobranej,
+    - **b)** podatek w wysokości mniejszej lub większej od pobranej.
 
 **Art. 81b.**
 
 § 1. Uprawnienie, o którym mowa wart. 81a:
 
-- **1)** ulega zawieszeniu na czas trwania post´powania podatkowego lub kontroli podatkowej oraz w okresie mi´dzy zakoƒczeniem kontroli a wszcz´ciem post´powania wzakresie zobowiàzaƒ podatkowych, których dotyczy post´powanie lub kontrola,
-- **2)** przys∏uguje nadal w zakresie, w jakim w toku post´powania podatkowego lub kontroli podatkowej nie stwierdzono naruszenia prawa lub nie wydano decyzji okreÊlajàcej wysokoÊç zobowiàzania podatkowego.
+- **1)** ulega zawieszeniu na czas trwania postępowania podatkowego lub kontroli podatkowej oraz w okresie między zakończeniem kontroli a wszczęciem postępowania wzakresie zobowiązań podatkowych, których dotyczy postępowanie lub kontrola,
+- **2)** przysługuje nadal w zakresie, w jakim w toku postępowania podatkowego lub kontroli podatkowej nie stwierdzono naruszenia prawa lub nie wydano decyzji określającej wysokość zobowiązania podatkowego.
 
-§ 2. Korekta z∏o˝ona w przypadku, októrym mowa w§ 1 pkt 1, nie wywo∏uje skutków prawnych.
+§ 2. Korekta złożona w przypadku, októrym mowa w§ 1 pkt 1, nie wywołuje skutków prawnych.
 
-**Art. 81c.** Je˝eli odr´bne przepisy nie stanowià inaczej, podatnicy, p∏atnicy i inkasenci mogà sk∏adaç korekty deklaracji, równie˝ je˝eli nie wp∏ywa to na wysokoÊç zobowiàzania podatkowego, wysokoÊç kwoty nadp∏aty lub zwrotu podatku.”;
+**Art. 81c.** Jeżeli odrębne przepisy nie stanowią inaczej, podatnicy, płatnicy i inkasenci mogą składać korekty deklaracji, również jeżeli nie wpływa to na wysokość zobowiązania podatkowego, wysokość kwoty nadpłaty lub zwrotu podatku.”;
 
-**Art. 93b.** Przepisy art. 93 i art. 93a stosuje si´ odpowiednio do ∏àczenia si´ i przekszta∏ceƒ komunalnych zak∏adów bud˝etowych.
+**Art. 93b.** Przepisy art. 93 i art. 93a stosuje się odpowiednio do łączenia się i przekształceń komunalnych zakładów budżetowych.
 
 **Art. 93c.**
 
-§ 1. W przewidziane przepisami prawa podatkowego uprawnienia osoby prawnej wykreÊlonej z w∏aÊciwego rejestru na skutek jej podzia∏u:
+§ 1. W przewidziane przepisami prawa podatkowego uprawnienia osoby prawnej wykreślonej z właściwego rejestru na skutek jej podziału:
 
-- **1)** wst´pujà wzakresie uprawnieƒ majàtkowych osoby prawne powsta∏e w wyniku podzia∏u (zgodnie z planem podzia∏u), ztym ˝e wzakresie rozliczeƒ ztytu∏u podatku od towarów ius∏ug, w przypadku gdy cz´Êci majàtku dzielonej osoby prawnej przejmowane wwyniku podzia∏u:
-    - **a)** stanowià zak∏ady (oddzia∏y) b´dàce odr´bnymi podatnikami tego podatku osoby prawne lub jej zak∏ady (oddzia∏y) przejmujàce te zak∏ady, w zakresie przejmowanego zak∏adu,
-    - **b)** nie stanowià zak∏adów (oddzia∏ów) b´dàcych odr´bnymi podatnikami tego podatku jedna z nowo utworzonych osób lub jej zak∏ad (oddzia∏), b´dàcy odr´bnym podatnikiem tego podatku, przejmujàca najwi´kszà cz´Êç majàtku trwa∏ego s∏u˝àcego czynnoÊciom opodatkowanym podatkiem od towarów ius∏ug (wskazana wplanie podzia∏u),
+- **1)** wstępują wzakresie uprawnień majątkowych osoby prawne powstałe w wyniku podziału (zgodnie z planem podziału), ztym że wzakresie rozliczeń ztytułu podatku od towarów iusług, w przypadku gdy części majątku dzielonej osoby prawnej przejmowane wwyniku podziału:
+    - **a)** stanowią zakłady (oddziały) będące odrębnymi podatnikami tego podatku osoby prawne lub jej zakłady (oddziały) przejmujące te zakłady, w zakresie przejmowanego zakładu,
+    - **b)** nie stanowią zakładów (oddziałów) będących odrębnymi podatnikami tego podatku jedna z nowo utworzonych osób lub jej zakład (oddział), będący odrębnym podatnikiem tego podatku, przejmująca największą część majątku trwałego służącego czynnościom opodatkowanym podatkiem od towarów iusług (wskazana wplanie podziału),
 
-- **2)** wst´puje wzakresie uprawnieƒ niemajàtkowych jedna z nowo utworzonych osób (wskazana wplanie podzia∏u).
+- **2)** wstępuje wzakresie uprawnień niemajątkowych jedna z nowo utworzonych osób (wskazana wplanie podziału).
 
-§ 2. Przepis § 1 stosuje si´ odpowiednio do osoby prawnej przejmujàcej majàtek osoby prawnej wykreÊlonej z w∏aÊciwego rejestru na skutek jej podzia∏u.
+§ 2. Przepis § 1 stosuje się odpowiednio do osoby prawnej przejmującej majątek osoby prawnej wykreślonej z właściwego rejestru na skutek jej podziału.
 
-§ 3. Przepisy § 1 i2 stosuje si´, je˝eli majàtek dzielonej osoby prawnej przejmowany wwyniku podzia∏u stanowi zorganizowanà cz´Êç przedsi´biorstwa.
+§ 3. Przepisy § 1 i2 stosuje się, jeżeli majątek dzielonej osoby prawnej przejmowany wwyniku podziału stanowi zorganizowaną część przedsiębiorstwa.
 
-**Art. 93d.** Przepisy art. 93—93cmajà zastosowanie równie˝ do praw i obowiàzków wynikajàcych zdecyzji wydanych na podstawie przepisów prawa podatkowego.
+**Art. 93d.** Przepisy art. 93—93cmają zastosowanie również do praw i obowiązków wynikających zdecyzji wydanych na podstawie przepisów prawa podatkowego.
 
-**Art. 93e.** Przepisy art. 93—93dstosuje si´ wzakreo unikaniu podwójnego opodatkowania oraz inne ratyfikowane umowy mi´dzynarodowe, których stronà jest Rzeczpospolita Polska, nie stanowià inaczej.”;
+**Art. 93e.** Przepisy art. 93—93dstosuje się wzakreo unikaniu podwójnego opodatkowania oraz inne ratyfikowane umowy międzynarodowe, których stroną jest Rzeczpospolita Polska, nie stanowią inaczej.”;
 
 **Art. 224b.** Wstrzymanie wykonania decyzji nie pozbawia podatnika prawa do wykonania takiej decyzji.”;
 
-**Art. 253b.** Przepisów art. 253 i art. 253a nie stosuje si´ do decyzji:
+**Art. 253b.** Przepisów art. 253 i art. 253a nie stosuje się do decyzji:
 
 **Art. 281.**
 
-§ 1. Organy podatkowe pierwszej in187) wart. 274 skreÊla si´ § 4; stancji przeprowadzajà kontrol´ podatkowà u podatników, p∏atników,
+§ 1. Organy podatkowe pierwszej in187) wart. 274 skreśla się § 4; stancji przeprowadzają kontrolę podatkową u podatników, płatników,
 
-- **188)** po art. 274 dodaje si´ art. 274a i 274b w brzmie- inkasentów oraz nast´pców prawniu: nych, zwanych dalej „kontrolowany„Art. 274a. § 1. Organ podatkowy mo˝e za˝àdaç mi”. z∏o˝enia wyjaÊnieƒ w sprawie § 2. Celem kontroli podatkowej jest przyczyn niez∏o˝enia deklaracji sprawdzenie, czy kontrolowani wylub wezwaç do jej z∏o˝enia, je˝eli wiàzujà si´ zobowiàzków wynikajàdeklaracja nie zosta∏a z∏o˝ona mi- cych zprzepisów prawa podatkowemo takiego obowiàzku. go.
+- **188)** po art. 274 dodaje się art. 274a i 274b w brzmie- inkasentów oraz następców prawniu: nych, zwanych dalej ŃkontrolowanyŃArt. 274a. § 1. Organ podatkowy może zażądać mi”. złożenia wyjaśnień w sprawie § 2. Celem kontroli podatkowej jest przyczyn niezłożenia deklaracji sprawdzenie, czy kontrolowani wylub wezwać do jej złożenia, jeżeli wiązują się zobowiązków wynikajądeklaracja nie została złożona mi- cych zprzepisów prawa podatkowemo takiego obowiązku. go.
 
-§ 2. W razie wàtpliwoÊci co do po- Art. 282. Kontrol´ podatkowà podejmuje si´ prawnoÊci z∏o˝onej deklaracji or- zurz´du. gan podatkowy mo˝e wezwaç do udzielenia, w wyznaczonym ter- Art. 282a. § 1. W zakresie spraw rozstrzygni´tych minie, niezb´dnych wyjaÊnieƒ lub decyzjà ostatecznà organu podatuzupe∏nienia deklaracji, wskazu- kowego kontrola podatkowa nie jàc przyczyny podania w wàtpli- mo˝e byç ponownie wszcz´ta, zzawoÊç rzetelnoÊci danych w niej strze˝eniem § 2. zawartych. § 2. Przepisu § 1 nie stosuje si´, je˝eli:
+§ 2. W razie wątpliwości co do po- Art. 282. Kontrolę podatkową podejmuje się prawności złożonej deklaracji or- zurzędu. gan podatkowy może wezwać do udzielenia, w wyznaczonym ter- Art. 282a. § 1. W zakresie spraw rozstrzygniętych minie, niezbędnych wyjaśnień lub decyzją ostateczną organu podatuzupełnienia deklaracji, wskazu- kowego kontrola podatkowa nie jąc przyczyny podania w wątpli- może być ponownie wszczęta, zzawość rzetelności danych w niej strzeżeniem § 2. zawartych. § 2. Przepisu § 1 nie stosuje się, jeżeli:
 
 **Art. 274b.**
 
-§ 1. Je˝eli przeprowadzenie czynnoÊci 1) kontrola podatkowa jest niesprawdzajàcych zasadnoÊç zwro- zb´dna dla: tu podatku wymaga przed∏u˝enia a) przeprowadzenia post´powaterminu zwrotu podatku wynika- nia w sprawie stwierdzenia jàcego z odr´bnych przepisów, niewa˝noÊci, stwierdzenia organ podatkowy mo˝e postano- wygaÊni´cia, uchylenia lub wiç o przed∏u˝eniu tego terminu zmiany decyzji ostatecznej lub do czasu zakoƒczenia czynnoÊci wznowienia post´powania sprawdzajàcych. w sprawie zakoƒczonej decy§ 2. Na postanowienie, o którym mo- zjà ostatecznà, wa w§ 1, s∏u˝y za˝alenie.”; b) przeprowadzenia post´powania w zwiàzku z uchyleniem
+§ 1. Jeżeli przeprowadzenie czynności 1) kontrola podatkowa jest niesprawdzających zasadność zwro- zbędna dla: tu podatku wymaga przedłużenia a) przeprowadzenia postępowaterminu zwrotu podatku wynika- nia w sprawie stwierdzenia jącego z odrębnych przepisów, nieważności, stwierdzenia organ podatkowy może postano- wygaśnięcia, uchylenia lub wić o przedłużeniu tego terminu zmiany decyzji ostatecznej lub do czasu zakończenia czynności wznowienia postępowania sprawdzających. w sprawie zakończonej decy§ 2. Na postanowienie, o którym mo- zją ostateczną, wa w§ 1, służy zażalenie.”; b) przeprowadzenia postępowania w związku z uchyleniem
 
-- **189)** w art. 275 w § 1 wyrazy „które, zgodnie z przepi- lub stwierdzeniem niewa˝nosami, potwierdzajà prawo do skorzystania zulgi” Êci decyzji przez sàd adminizast´puje si´ wyrazami „których posiadania przez stracyjny, podatnika, wokreÊlonym czasie, wymaga przepis prawa”; 2) celem kontroli podatkowej jest
-- **190)** wart. 276 § 3 i4 otrzymujà brzmienie: dokonanie ustaleƒ, o których mowa wart. 288a§ 1.
+- **189)** w art. 275 w § 1 wyrazy Ńktóre, zgodnie z przepi- lub stwierdzeniem nieważnosami, potwierdzają prawo do skorzystania zulgi” ści decyzji przez sąd adminizastępuje się wyrazami Ńktórych posiadania przez stracyjny, podatnika, wokreślonym czasie, wymaga przepis prawa”; 2) celem kontroli podatkowej jest
+- **190)** wart. 276 § 3 i4 otrzymują brzmienie: dokonanie ustaleń, o których mowa wart. 288a§ 1.
 
 **Art. 283.**
 
-§ 1. Kontrola podatkowa jest przeprowadzana na podstawie imiennego upowa˝nienia udzielonego przez:
+§ 1. Kontrola podatkowa jest przeprowadzana na podstawie imiennego upoważnienia udzielonego przez:
 
-- **1)** naczelnika urz´du skarbowego lub osob´ zast´pujàcà naczelnika urz´du skarbowego pracownikom tego urz´du,
-- **2)** wójta, burmistrza (prezydenta miasta), starost´ lub marsza∏ka województwa pracownikom urz´du gminy (miasta), starostwa lub urz´du marsza∏kowskiego.
+- **1)** naczelnika urzędu skarbowego lub osobę zastępującą naczelnika urzędu skarbowego pracownikom tego urzędu,
+- **2)** wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa pracownikom urzędu gminy (miasta), starostwa lub urzędu marszałkowskiego.
 
-§ 2. Upowa˝nienie do przeprowadzenia kontroli podatkowej zawiera:
+§ 2. Upoważnienie do przeprowadzenia kontroli podatkowej zawiera:
 
-- **1)** oznaczenie organu, dat´ i miejsce wystawienia,
-- **2)** imi´ i nazwisko kontrolujàcego (kontrolujàcych),
-- **3)** numer legitymacji s∏u˝bowej kontrolujàcego (kontrolujàcych) lub numer dowodu osobistego, je˝eli kontrolujàcy nie ma obowiàzku posiadania legitymacji,
+- **1)** oznaczenie organu, datę i miejsce wystawienia,
+- **2)** imię i nazwisko kontrolującego (kontrolujących),
+- **3)** numer legitymacji służbowej kontrolującego (kontrolujących) lub numer dowodu osobistego, jeżeli kontrolujący nie ma obowiązku posiadania legitymacji,
 - **4)** oznaczenie kontrolowanego,
-- **5)** okreÊlenie zakresu kontroli,
-- **6)** przewidywany termin zakoƒczenia kontroli,
-- **7)** podpis osoby udzielajàcej upowa˝nienia,
-- **8)** pouczenie oprawach iobowiàzkach kontrolowanego wynikajàcych z przepisów niniejszego dzia∏u.
+- **5)** określenie zakresu kontroli,
+- **6)** przewidywany termin zakończenia kontroli,
+- **7)** podpis osoby udzielającej upoważnienia,
+- **8)** pouczenie oprawach iobowiązkach kontrolowanego wynikających z przepisów niniejszego działu.
 
-§ 3. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia, wzór imiennego upowa˝nienia do przeprowadzenia kontroli podatkowej, uwzgl´dniajàc elementy upowa˝nienia okreÊlone w§ 2.
+§ 3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór imiennego upoważnienia do przeprowadzenia kontroli podatkowej, uwzględniając elementy upoważnienia określone w§ 2.
 
 **Art. 284.**
 
-§ 1. Wszcz´cie kontroli podatkowej, zzastrze˝eniem art. 284a § 1, nast´puje przez dor´czenie kontrolowanemu upowa˝nienia do jej przeprowadzenia oraz okazanie legitymacji s∏u˝bowej lub dowodu osobistego, je˝eli kontrolujàcy nie ma obowiàzku posiadania legitymacji. Kontrolowany jest obowiàzany do pisemnego wskazania osoby upowa˝nionej do reprezentowania go w trakcie kontroli, w szczególnoÊci w czasie jego nieobecnoÊci.
+§ 1. Wszczęcie kontroli podatkowej, zzastrzeżeniem art. 284a § 1, następuje przez doręczenie kontrolowanemu upoważnienia do jej przeprowadzenia oraz okazanie legitymacji służbowej lub dowodu osobistego, jeżeli kontrolujący nie ma obowiązku posiadania legitymacji. Kontrolowany jest obowiązany do pisemnego wskazania osoby upoważnionej do reprezentowania go w trakcie kontroli, w szczególności w czasie jego nieobecności.
 
-§ 2. Je˝eli kontrolowanym jest osoba prawna lub jednostka organizacyjna niemajàca osobowoÊci prawnej, dor´cza si´ upowa˝nienie oraz okazuje legitymacj´ s∏u˝bowà lub dowód nikowi lub innej osobie upowa˝nionej do reprezentowania kontrolowanego lub prowadzenia jego spraw.
+§ 2. Jeżeli kontrolowanym jest osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej, doręcza się upoważnienie oraz okazuje legitymację służbową lub dowód nikowi lub innej osobie upoważnionej do reprezentowania kontrolowanego lub prowadzenia jego spraw.
 
-§ 3. W razie nieobecnoÊci osób wymienionych w § 1 i 2 dor´cza si´ upowa˝nienie oraz okazuje legitymacj´ s∏u˝bowà lub dowód osobisty pracownikowi lub innej osobie wykonujàcej czynnoÊci na rzecz kontrolowanego w miejscu wszcz´cia kontroli. Zawiadamia si´ o tym kontrolowanego, gdy stawi si´ w miejscu prowadzenia kontroli, oraz wskazuje osob´, której dor´czono upowa˝nienie.
+§ 3. W razie nieobecności osób wymienionych w § 1 i 2 doręcza się upoważnienie oraz okazuje legitymację służbową lub dowód osobisty pracownikowi lub innej osobie wykonującej czynności na rzecz kontrolowanego w miejscu wszczęcia kontroli. Zawiadamia się o tym kontrolowanego, gdy stawi się w miejscu prowadzenia kontroli, oraz wskazuje osobę, której doręczono upoważnienie.
 
 **Art. 284a.**
 
-§ 1. W przypadku gdy okolicznoÊci faktyczne uzasadniajà niezw∏oczne podj´cie kontroli, kontrola podatkowa mo˝e byç wszcz´ta po okazaniu legitymacji s∏u˝bowej kontrolowanemu lub osobom wymienionym wart. 284 § 2 lub 3.
+§ 1. W przypadku gdy okoliczności faktyczne uzasadniają niezwłoczne podjęcie kontroli, kontrola podatkowa może być wszczęta po okazaniu legitymacji służbowej kontrolowanemu lub osobom wymienionym wart. 284 § 2 lub 3.
 
-§ 2. W przypadku, o którym mowa w § 1, kontrolowanemu lub osobom wymienionym w art. 284 § 2 nale˝y bez zb´dnej zw∏oki, jednak nie póêniej ni˝ w terminie 3 dni od dnia wszcz´cia kontroli, dor´czyç upowa˝nienie do przeprowadzenia kontroli.
+§ 2. W przypadku, o którym mowa w § 1, kontrolowanemu lub osobom wymienionym w art. 284 § 2 należy bez zbędnej zwłoki, jednak nie póêniej niż w terminie 3 dni od dnia wszczęcia kontroli, doręczyć upoważnienie do przeprowadzenia kontroli.
 
-§ 3. Dokumenty z czynnoÊci kontrolnych dokonanych z naruszeniem obowiàzku, o którym mowa w § 2, nie stanowià dowodu w post´powaniu podatkowym, z zastrze˝eniem § 4.
+§ 3. Dokumenty z czynności kontrolnych dokonanych z naruszeniem obowiązku, o którym mowa w § 2, nie stanowią dowodu w postępowaniu podatkowym, z zastrzeżeniem § 4.
 
-§ 4. Przepisu § 2 nie stosuje si´, je˝eli nie mo˝na ustaliç danych identyfikujàcych kontrolowanego. Upowa˝nienie dor´czane jest po ustaleniu tych danych.
+§ 4. Przepisu § 2 nie stosuje się, jeżeli nie można ustalić danych identyfikujących kontrolowanego. Upoważnienie doręczane jest po ustaleniu tych danych.
 
-§ 5. Organ podatkowy mo˝e umorzyç kontrol´ podatkowà, je˝eli w okresie 30 dni od jej wszcz´cia nie zostanà ustalone dane identyfikujàce kontrolowanego. Kontrola mo˝e byç wznowiona w ka˝dym czasie, gdy ustalony zostanie podmiot, w stosunku do którego mo˝e byç prowadzona.
+§ 5. Organ podatkowy może umorzyć kontrolę podatkową, jeżeli w okresie 30 dni od jej wszczęcia nie zostaną ustalone dane identyfikujące kontrolowanego. Kontrola może być wznowiona w każdym czasie, gdy ustalony zostanie podmiot, w stosunku do którego może być prowadzona.
 
 § 6. W sprawach, o których mowa w § 5, organ podatkowy wydaje postanowienie.
 
 **Art. 284b.**
 
-§ 1. Kontrola powinna zostaç zakoƒczona bez zb´dnej zw∏oki, jednak nie póêniej ni˝ w terminie wskazanym w upowa˝nieniu, o którym mowa wart. 283.
+§ 1. Kontrola powinna zostać zakończona bez zbędnej zwłoki, jednak nie póêniej niż w terminie wskazanym w upoważnieniu, o którym mowa wart. 283.
 
-§ 2. O ka˝dym przypadku niezakoƒczeosobisty cz∏onkowi zarzàdu, wspólnia kontroli wterminie wskazanym w upowa˝nieniu, o którym mowa w art. 283, kontrolujàcy obowiàzany jest zawiadomiç kontrolowanego, podajàc przyczyny przed∏u˝enia terminu zakoƒczenia kontroli iwskazujàc nowy termin jej zakoƒczenia.
+§ 2. O każdym przypadku niezakończeosobisty członkowi zarządu, wspólnia kontroli wterminie wskazanym w upoważnieniu, o którym mowa w art. 283, kontrolujący obowiązany jest zawiadomić kontrolowanego, podając przyczyny przedłużenia terminu zakończenia kontroli iwskazując nowy termin jej zakończenia.
 
-§ 3. Dokumenty dotyczàce czynnoÊci kontrolnych dokonanych po up∏ywie tego terminu nie stanowià dowodu w post´powaniu podatkowym, chyba ˝e zosta∏ wskazany nowy termin zakoƒczenia kontroli.
+§ 3. Dokumenty dotyczące czynności kontrolnych dokonanych po upływie tego terminu nie stanowią dowodu w postępowaniu podatkowym, chyba że został wskazany nowy termin zakończenia kontroli.
 
 **Art. 285.**
 
-§ 1. CzynnoÊci kontrolnych dokonuje si´ w obecnoÊci kontrolowanego lub osoby przez niego wskazanej, chyba ˝e kontrolowany zrezygnuje zprawa uczestniczenia w czynnoÊciach kontrolnych. Je˝eli kontrolowanym jest osoba lub jednostka wymieniona wart. 284 § 2, czynnoÊci kontrolnych dokonuje si´ wobecnoÊci osób upowa˝nionych.
+§ 1. Czynności kontrolnych dokonuje się w obecności kontrolowanego lub osoby przez niego wskazanej, chyba że kontrolowany zrezygnuje zprawa uczestniczenia w czynnościach kontrolnych. Jeżeli kontrolowanym jest osoba lub jednostka wymieniona wart. 284 § 2, czynności kontrolnych dokonuje się wobecności osób upoważnionych.
 
-§ 2. OÊwiadczenie o rezygnacji z prawa uczestniczenia w czynnoÊciach kontrolnych sk∏adane jest na piÊmie. W razie odmowy z∏o˝enia oÊwiadczenia kontrolujàcy dokonuje odpowiedniej adnotacji, do∏àczajàc jà do protoko∏u.
+§ 2. Oświadczenie o rezygnacji z prawa uczestniczenia w czynnościach kontrolnych składane jest na piśmie. W razie odmowy złożenia oświadczenia kontrolujący dokonuje odpowiedniej adnotacji, dołączając ją do protokołu.
 
-§ 3. W przypadku nieobecnoÊci kontrolowanego lub osób wymienionych w art. 284 § 2 czynnoÊci kontrolne dokonywane sà w obecnoÊci przywo∏anego Êwiadka. CzynnoÊci kontrolne dotyczàce przeprowadzenia dowodu z ksiàg, ewidencji, zapisków lub innych dokumentów nie wymagajà obecnoÊci Êwiadka.
+§ 3. W przypadku nieobecności kontrolowanego lub osób wymienionych w art. 284 § 2 czynności kontrolne dokonywane są w obecności przywołanego świadka. Czynności kontrolne dotyczące przeprowadzenia dowodu z ksiąg, ewidencji, zapisków lub innych dokumentów nie wymagają obecności świadka.
 
 **Art. 285a.**
 
-§ 1. CzynnoÊci kontrolne prowadzone sà w siedzibie kontrolowanego, w innym miejscu przechowywania dokumentacji oraz w miejscach zwiàzanych z prowadzonà przez niego dzia∏alnoÊcià i w godzinach jej prowadzenia. W przypadku gdy ksi´gi rachunkowe sà prowadzone lub przechowywane poza siedzibà kontrolowanego, kontrolowany na ˝àdanie kontrolujàcego obowiàzany jest zapewniç dost´pnoÊç do ksiàg rachunkowych w swojej siedzibie albo w miejscu ich prowadzenia lub przechowywania, je˝eli udost´pnienie ich w siedzibie mo˝e w znacznym stopniu utrudniç prowadzenie przez kontrolowanego bie˝àcej dzia∏alnoÊci.
+§ 1. Czynności kontrolne prowadzone są w siedzibie kontrolowanego, w innym miejscu przechowywania dokumentacji oraz w miejscach związanych z prowadzoną przez niego działalnością i w godzinach jej prowadzenia. W przypadku gdy księgi rachunkowe są prowadzone lub przechowywane poza siedzibą kontrolowanego, kontrolowany na żądanie kontrolującego obowiązany jest zapewnić dostępność do ksiąg rachunkowych w swojej siedzibie albo w miejscu ich prowadzenia lub przechowywania, jeżeli udostępnienie ich w siedzibie może w znacznym stopniu utrudnić prowadzenie przez kontrolowanego bieżącej działalności.
 
-§ 2. Przepis § 1 stosuje si´ równie˝ w przypadku, gdy kontrolowany prowadzi dzia∏alnoÊç w lokalu § 3. Na ˝àdanie kontrolujàcego kontrolowany b´dàcy osobà fizycznà jest obowiàzany z∏o˝yç oÊwiadczenie ostanie majàtkowym na okreÊlony dzieƒ, je˝eli zachodzi uzasadnione przypuszczenie, ˝e nie ujawni∏ wszystkich obrotów lub przychodów majàcych znaczenie dla okreÊlenia lub ustalenia wysokoÊci zobowiàzania podatkowego; oÊwiadczenie sk∏adane jest pod rygorem odpowiedzialnoÊci karnej za fa∏szywe zeznania. Kontrolujàcy, ˝àdajàc z∏o˝enia oÊwiadczenia, uprzedza kontrolowanego o odpowiedzialnoÊci karnej za fa∏szywe zeznania.
+§ 2. Przepis § 1 stosuje się również w przypadku, gdy kontrolowany prowadzi działalność w lokalu § 3. Na żądanie kontrolującego kontrolowany będący osobą fizyczną jest obowiązany złożyć oświadczenie ostanie majątkowym na określony dzień, jeżeli zachodzi uzasadnione przypuszczenie, że nie ujawnił wszystkich obrotów lub przychodów mających znaczenie dla określenia lub ustalenia wysokości zobowiązania podatkowego; oświadczenie składane jest pod rygorem odpowiedzialności karnej za fałszywe zeznania. Kontrolujący, żądając złożenia oświadczenia, uprzedza kontrolowanego o odpowiedzialności karnej za fałszywe zeznania.
 
 **Art. 286.**
 
-§ 1. Kontrolujàcy, w zakresie wynikajàcym zupowa˝nienia, sà wszczególnoÊci uprawnieni do:
+§ 1. Kontrolujący, w zakresie wynikającym zupoważnienia, są wszczególności uprawnieni do:
 
-- **1)** wst´pu na grunt oraz do budynków, lokali lub innych pomieszczeƒ kontrolowanego,
-- **2)** wst´pu do lokali mieszkalnych w przypadku, o którym mowa wart. 276 § 1,
-- **3)** ˝àdania okazania majàtku podlegajàcego kontroli oraz do dokonania jego ogl´dzin,
-- **4)** ˝àdania udost´pnienia akt, ksiàg i wszelkiego rodzaju dokumentów zwiàzanych z przedmiotem kontroli oraz do sporzàdzania znich odpisów, kopii, wyciàgów inotatek,
-- **5)** zbierania innych niezb´dnych materia∏ów w zakresie obj´tym kontrolà,
+- **1)** wstępu na grunt oraz do budynków, lokali lub innych pomieszczeń kontrolowanego,
+- **2)** wstępu do lokali mieszkalnych w przypadku, o którym mowa wart. 276 § 1,
+- **3)** żądania okazania majątku podlegającego kontroli oraz do dokonania jego oględzin,
+- **4)** żądania udostępnienia akt, ksiąg i wszelkiego rodzaju dokumentów związanych z przedmiotem kontroli oraz do sporządzania znich odpisów, kopii, wyciągów inotatek,
+- **5)** zbierania innych niezbędnych materiałów w zakresie objętym kontrolą,
 - **6)** zabezpieczania zebranych dowodów,
-- **7)** legitymowania osób w celu ustalenia ich to˝samoÊci, je˝eli jest to niezb´dne dla potrzeb kontroli,
-- **8)** ˝àdania przeprowadzenia spisu znatury,
-- **9)** przes∏uchiwania Êwiadków, kontrolowanego oraz innych osób wymienionych wart. 287 § 4,
-- **10)** zasi´gania opinii bieg∏ych.
+- **7)** legitymowania osób w celu ustalenia ich tożsamości, jeżeli jest to niezbędne dla potrzeb kontroli,
+- **8)** żądania przeprowadzenia spisu znatury,
+- **9)** przesłuchiwania świadków, kontrolowanego oraz innych osób wymienionych wart. 287 § 4,
+- **10)** zasięgania opinii biegłych.
 
-§ 2. Kontrolujàcy mo˝e za˝àdaç wydania, na czas trwania kontroli, za pokwitowaniem:
+§ 2. Kontrolujący może zażądać wydania, na czas trwania kontroli, za pokwitowaniem:
 
 - **1)** próbek towarów,
-- **2)** akt, ksiàg i dokumentów, o których mowa w§ 1 pkt 4: go podejrzenia, ˝e sà one nierzetelne, lub
-    - **a)** wrazie powzi´cia uzasadnionemieszkalnym.
-    - **b)** gdy podatnik, mimo istnienia takiej mo˝liwoÊci, nie zapewnia kontrolujàcym warunków umo˝liwiajàcych wykonywanie czynnoÊci kontrolnych zwiàzanych zbadaniem tej dokumentacji, a w szczególnoÊci nie udost´pnia kontrolujàcym samodzielnego pomieszczenia i miejsca do przechowywania dokumentów.
+- **2)** akt, ksiąg i dokumentów, o których mowa w§ 1 pkt 4: go podejrzenia, że są one nierzetelne, lub
+    - **a)** wrazie powzięcia uzasadnionemieszkalnym.
+    - **b)** gdy podatnik, mimo istnienia takiej możliwości, nie zapewnia kontrolującym warunków umożliwiających wykonywanie czynności kontrolnych związanych zbadaniem tej dokumentacji, a w szczególności nie udostępnia kontrolującym samodzielnego pomieszczenia i miejsca do przechowywania dokumentów.
 
-§ 3. Przeglàdanie akt post´powania przygotowawczego i sàdowego, akt spraw sàdowych, a tak˝e dokumentów zawierajàcych informacje stanowiàce tajemnic´ paƒstwowà, s∏u˝bowà lub zawodowà oraz sporzàdzanie z nich odpisów i notatek nast´puje z zachowaniem w∏aÊciwych przepisów.
+§ 3. Przeglądanie akt postępowania przygotowawczego i sądowego, akt spraw sądowych, a także dokumentów zawierających informacje stanowiące tajemnicę państwową, służbową lub zawodową oraz sporządzanie z nich odpisów i notatek następuje z zachowaniem właściwych przepisów.
 
 **Art. 286a.**
 
-§ 1. Kontrolujàcy mo˝e wrazie uzasadnionej potrzeby wezwaç, wpilnych przypadkach tak˝e ustnie, pomocy organu Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Stra˝y Granicznej lub Stra˝y Miejskiej, je˝eli trafi na opór uniemo˝liwiajàcy lub utrudniajàcy przeprowadzenie czynnoÊci kontrolnych, albo zwróciç si´ o ich asyst´, gdy zachodzi uzasadnione przypuszczenie, ˝e na taki opór natrafi. Je˝eli opór stawia ˝o∏nierz czynnej s∏u˝by wojskowej, kontrolujàcy wzywa do pomocy w∏aÊciwy organ wojskowy, chyba ˝e zw∏oka grozi udaremnieniem czynnoÊci kontrolnych, a na miejscu nie ma organu wojskowego.
+§ 1. Kontrolujący może wrazie uzasadnionej potrzeby wezwać, wpilnych przypadkach także ustnie, pomocy organu Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej lub Straży Miejskiej, jeżeli trafi na opór uniemożliwiający lub utrudniający przeprowadzenie czynności kontrolnych, albo zwrócić się o ich asystę, gdy zachodzi uzasadnione przypuszczenie, że na taki opór natrafi. Jeżeli opór stawia żołnierz czynnej służby wojskowej, kontrolujący wzywa do pomocy właściwy organ wojskowy, chyba że zwłoka grozi udaremnieniem czynności kontrolnych, a na miejscu nie ma organu wojskowego.
 
-§ 2. Organy wymienione w§ 1 nie mogà odmówiç udzielenia pomocy lub asysty.
+§ 2. Organy wymienione w§ 1 nie mogą odmówić udzielenia pomocy lub asysty.
 
-§ 3. Minister w∏aÊciwy do spraw wewn´trznych w porozumieniu z Ministrem Obrony Narodowej okreÊli, wdrodze rozporzàdzenia, szczegó∏owy zakres obowiàzków organów udzielajàcych pomocy lub asystujàcych przy wykonywaniu czynnoÊci kontrolnych, tryb udzielania pomocy lub asysty, sposób dokumentowania przebiegu pomocy lub asysty oraz w∏aÊciwoÊç miejscowà organów do udzielenia pomocy lub asysty.
+§ 3. Minister właściwy do spraw wewnętrznych w porozumieniu z Ministrem Obrony Narodowej określi, wdrodze rozporządzenia, szczegółowy zakres obowiązków organów udzielających pomocy lub asystujących przy wykonywaniu czynności kontrolnych, tryb udzielania pomocy lub asysty, sposób dokumentowania przebiegu pomocy lub asysty oraz właściwość miejscową organów do udzielenia pomocy lub asysty.
 
-§ 4. Wydajàc rozporzàdzenie, o którym mowa w § 3, uwzgl´dnia si´ w szczególnoÊci zró˝nicowanie zakresu obowiàzków organów udzielajàcych pomocy w zale˝noÊci od sposobu stawiania oporu.
+§ 4. Wydając rozporządzenie, o którym mowa w § 3, uwzględnia się w szczególności zróżnicowanie zakresu obowiązków organów udzielających pomocy w zależności od sposobu stawiania oporu.
 
 **Art. 287.**
 
-§ 1. Kontrolowany, osoba upowa˝niona go lub prowadzenia jego spraw, pracownik oraz osoba wspó∏dzia∏ajàca z kontrolowanym sà obowiàzani umo˝liwiç wykonywanie czynnoÊci, o których mowa w art. 286, awszczególnoÊci:
+§ 1. Kontrolowany, osoba upoważniona go lub prowadzenia jego spraw, pracownik oraz osoba współdziałająca z kontrolowanym są obowiązani umożliwić wykonywanie czynności, o których mowa w art. 286, awszczególności:
 
-- **1)** umo˝liwiç, nieodp∏atnie, filmowanie, fotografowanie, dokonywanie nagraƒ dêwi´kowych oraz utrwalanie stanu faktycznego za pomocà innych noÊników informacji, je˝eli film, fotografia, nagranie lub informacja zapisana na innym noÊniku mo˝e stanowiç dowód lub przyczyniç si´ do utrwalenia dowodu wsprawie b´dàcej przedmiotem kontroli,
-- **2)** przedstawiç, na ˝àdanie kontrolujàcego, t∏umaczenie na j´zyk polski sporzàdzonej w j´zyku obcym dokumentacji dotyczàcej spraw b´dàcych przedmiotem kontroli.
+- **1)** umożliwić, nieodpłatnie, filmowanie, fotografowanie, dokonywanie nagrań dêwiękowych oraz utrwalanie stanu faktycznego za pomocą innych nośników informacji, jeżeli film, fotografia, nagranie lub informacja zapisana na innym nośniku może stanowić dowód lub przyczynić się do utrwalenia dowodu wsprawie będącej przedmiotem kontroli,
+- **2)** przedstawić, na żądanie kontrolującego, tłumaczenie na język polski sporządzonej w języku obcym dokumentacji dotyczącej spraw będących przedmiotem kontroli.
 
-§ 2. CzynnoÊci okreÊlone w§ 1 pkt 2 kontrolowany jest obowiàzany wykonaç nieodp∏atnie.
+§ 2. Czynności określone w§ 1 pkt 2 kontrolowany jest obowiązany wykonać nieodpłatnie.
 
-§ 3. Kontrolowany ma obowiàzek wwyznaczonym terminie udzielaç wszelkich wyjaÊnieƒ dotyczàcych przedmiotu kontroli, dostarczaç kontrolujàcemu ˝àdane dokumenty oraz zapewniç kontrolujàcemu warunki do pracy, a w tym w miar´ mo˝liwoÊci udost´pniç samodzielne pomieszczenie imiejsce do przechowywania dokumentów.
+§ 3. Kontrolowany ma obowiązek wwyznaczonym terminie udzielać wszelkich wyjaśnień dotyczących przedmiotu kontroli, dostarczać kontrolującemu żądane dokumenty oraz zapewnić kontrolującemu warunki do pracy, a w tym w miarę możliwości udostępnić samodzielne pomieszczenie imiejsce do przechowywania dokumentów.
 
-§ 4. Osoby upowa˝nione do reprezentowania kontrolowanego lub prowadzenia jego spraw, pracownicy oraz osoby wspó∏dzia∏ajàce z kontrolowanym sà obowiàzani udzieliç wyjaÊnieƒ dotyczàcych przedmiotu kontroli, w zakresie wynikajàcym z wykonywanych czynnoÊci lub zadaƒ.
+§ 4. Osoby upoważnione do reprezentowania kontrolowanego lub prowadzenia jego spraw, pracownicy oraz osoby współdziałające z kontrolowanym są obowiązani udzielić wyjaśnień dotyczących przedmiotu kontroli, w zakresie wynikającym z wykonywanych czynności lub zadań.
 
-§ 5. Kontrolujàcy sà uprawnieni do wst´pu na teren jednostki kontrolowanej oraz poruszania si´ po tym terenie na podstawie legitymacji s∏u˝bowej bez potrzeby uzyskiwania przepustki oraz nie podlegajà rewizji osobistej przewidzianej wregulaminie wewn´trznym tej jednostki; podlegajà natomiast przepisom o bezpieczeƒstwie i higienie pracy obowiàzujàcym wkontrolowanej jednostce.
+§ 5. Kontrolujący są uprawnieni do wstępu na teren jednostki kontrolowanej oraz poruszania się po tym terenie na podstawie legitymacji służbowej bez potrzeby uzyskiwania przepustki oraz nie podlegają rewizji osobistej przewidzianej wregulaminie wewnętrznym tej jednostki; podlegają natomiast przepisom o bezpieczeństwie i higienie pracy obowiązującym wkontrolowanej jednostce.
 
 **Art. 288.**
 
-§ 1. Kontrolujàcy ma prawo wst´pu na teren, do budynku lub lokalu mieszkalnego kontrolowanego wcelu:
+§ 1. Kontrolujący ma prawo wstępu na teren, do budynku lub lokalu mieszkalnego kontrolowanego wcelu:
 
-- **1)** dokonania ogl´dzin, je˝eli: do reprezentowania kontrolowanea) zosta∏y one wskazane jako miejsce wykonywania dzia∏alnoÊci gospodarczej lub jako siedziba kontrolowanego,
-    - **b)** jest to niezb´dne dla ustalenia lub okreÊlenia wysokoÊci zobowiàzania podatkowego lub podstawy opodatkowania,
-    - **c)** jest to niezb´dne do zweryfikowania faktu poniesienia wydatków na cele mieszkaniowe uprawniajàcych do skorzystania zulg podatkowych,
+- **1)** dokonania oględzin, jeżeli: do reprezentowania kontrolowanea) zostały one wskazane jako miejsce wykonywania działalności gospodarczej lub jako siedziba kontrolowanego,
+    - **b)** jest to niezbędne dla ustalenia lub określenia wysokości zobowiązania podatkowego lub podstawy opodatkowania,
+    - **c)** jest to niezbędne do zweryfikowania faktu poniesienia wydatków na cele mieszkaniowe uprawniających do skorzystania zulg podatkowych,
 
-- **2)** dokonania ogl´dzin oraz przeszukania lokali mieszkalnych, innych pomieszczeƒ lub rzeczy, je˝eli powzi´to informacj´ o prowadzeniu niezg∏oszonej do opodatkowania dzia∏alnoÊci gospodarczej albo wprzypadku gdy sà tam przechowywane przedmioty, ksi´gi podatkowe, akta lub inne dokumenty mogàce mieç wp∏yw na ustalenie istnienia obowiàzku podatkowego lub okreÊlenie wysokoÊci zobowiàzania podatkowego.
+- **2)** dokonania oględzin oraz przeszukania lokali mieszkalnych, innych pomieszczeń lub rzeczy, jeżeli powzięto informację o prowadzeniu niezgłoszonej do opodatkowania działalności gospodarczej albo wprzypadku gdy są tam przechowywane przedmioty, księgi podatkowe, akta lub inne dokumenty mogące mieć wpływ na ustalenie istnienia obowiązku podatkowego lub określenie wysokości zobowiązania podatkowego.
 
-§ 2. CzynnoÊci wymienione w § 1 pkt 2 przeprowadzajà upowa˝nieni pracownicy organu podatkowego po uzyskaniu, na wniosek organu podatkowego, zgody prokuratora rejonowego. Przed przystàpieniem do tych czynnoÊci kontrolowanemu okazuje si´ postanowienie prokuratora owyra˝eniu na nie zgody. Przepisy Kodeksu post´powania karnego oprzeszukaniu odnoszàce si´ do Policji majà tak˝e zastosowanie do kontrolujàcych. Sporzàdza si´ protokó∏ tych czynnoÊci, który wymaga zatwierdzenia przez prokuratora. Wrazie odmowy zatwierdzenia protoko∏u materia∏y i informacje zebrane w toku czynnoÊci nie stanowià dowodu w post´powaniu podatkowym.
+§ 2. Czynności wymienione w § 1 pkt 2 przeprowadzają upoważnieni pracownicy organu podatkowego po uzyskaniu, na wniosek organu podatkowego, zgody prokuratora rejonowego. Przed przystąpieniem do tych czynności kontrolowanemu okazuje się postanowienie prokuratora owyrażeniu na nie zgody. Przepisy Kodeksu postępowania karnego oprzeszukaniu odnoszące się do Policji mają także zastosowanie do kontrolujących. Sporządza się protokół tych czynności, który wymaga zatwierdzenia przez prokuratora. Wrazie odmowy zatwierdzenia protokołu materiały i informacje zebrane w toku czynności nie stanowią dowodu w postępowaniu podatkowym.
 
-§ 3. CzynnoÊci wymienione w § 1 pkt 1 dokonywane sà za zgodà kontrolowanego. W razie braku takiej zgody przepis § 2 stosuje si´ odpowiednio.
+§ 3. Czynności wymienione w § 1 pkt 1 dokonywane są za zgodą kontrolowanego. W razie braku takiej zgody przepis § 2 stosuje się odpowiednio.
 
-§ 4. W przypadku gdy nieruchomoÊci lub ich cz´Êci albo rzeczy znajdujà si´ wposiadaniu osób trzecich, osoby te sà obowiàzane je udost´pniç, wcelu przeszukania lub ogl´dzin, na ˝àdanie organu podatkowego.
+§ 4. W przypadku gdy nieruchomości lub ich części albo rzeczy znajdują się wposiadaniu osób trzecich, osoby te są obowiązane je udostępnić, wcelu przeszukania lub oględzin, na żądanie organu podatkowego.
 
 **Art. 288a.**
 
-§ 1. Kontrolujàcy w zwiàzku z prowadzonà kontrolà mo˝e po okazaniu legitymacji s∏u˝bowej dokonaç sprawdzenia prawid∏owoÊci i rzetelnoÊci badanych dokumentów u kontrahentów kontrolowanego prowadzàcych dzia∏alnoÊç gospozamieszkania, siedzib´ lub miejsce prowadzenia dzia∏alnoÊci; sporzàdza si´ protokó∏ tych czynnoÊci, który podpisujà osoby obecne przy dokonywaniu tych czynnoÊci.
+§ 1. Kontrolujący w związku z prowadzoną kontrolą może po okazaniu legitymacji służbowej dokonać sprawdzenia prawidłowości i rzetelności badanych dokumentów u kontrahentów kontrolowanego prowadzących działalność gospozamieszkania, siedzibę lub miejsce prowadzenia działalności; sporządza się protokół tych czynności, który podpisują osoby obecne przy dokonywaniu tych czynności.
 
-§ 2. Je˝eli miejsce zamieszkania, siedziba lub miejsce prowadzenia dzia∏alnoÊci kontrahenta kontrolowanego znajdujà si´ poza obszarem dzia∏ania organu przeprowadzajàcego kontrol´, czynnoÊci, o których mowa w § 1, na zlecenie tego organu dokonuje organ w∏aÊciwy miejscowo.
+§ 2. Jeżeli miejsce zamieszkania, siedziba lub miejsce prowadzenia działalności kontrahenta kontrolowanego znajdują się poza obszarem działania organu przeprowadzającego kontrolę, czynności, o których mowa w § 1, na zlecenie tego organu dokonuje organ właściwy miejscowo.
 
 **Art. 289.**
 
-§ 1. Kontrolowanego lub osob´ wymienionà w art. 284 § 2 zawiadamia si´ o miejscu i terminie przeprowadzenia dowodu zzeznaƒ Êwiadków, opinii bieg∏ych lub z ogl´dzin nie póêniej ni˝ bezpoÊrednio przed podj´ciem tych czynnoÊci. darczà bez wzgl´du na miejsce ich § 2. Przepisu § 1 nie stosuje si´, je˝eli kontrolowany lub osoba wymieniona wart. 284 § 2 sà nieobecni, aokolicznoÊci sprawy uzasadniajà natychmiastowe przeprowadzenie dowodu.
+§ 1. Kontrolowanego lub osobę wymienioną w art. 284 § 2 zawiadamia się o miejscu i terminie przeprowadzenia dowodu zzeznań świadków, opinii biegłych lub z oględzin nie póêniej niż bezpośrednio przed podjęciem tych czynności. darczą bez względu na miejsce ich § 2. Przepisu § 1 nie stosuje się, jeżeli kontrolowany lub osoba wymieniona wart. 284 § 2 są nieobecni, aokoliczności sprawy uzasadniają natychmiastowe przeprowadzenie dowodu.
 
 **Art. 290.**
 
-§ 1. Przebieg kontroli kontrolujàcy dokumentuje wprotokole. Stan faktyczny mo˝e byç ponadto utrwalony za pomocà aparatury rejestrujàcej obraz i dêwi´k oraz magnetycznych, optycznych lub elektronicznych noÊników informacji.
+§ 1. Przebieg kontroli kontrolujący dokumentuje wprotokole. Stan faktyczny może być ponadto utrwalony za pomocą aparatury rejestrującej obraz i dêwięk oraz magnetycznych, optycznych lub elektronicznych nośników informacji.
 
-§ 2. Protokó∏ kontroli zawiera w szczególnoÊci:
+§ 2. Protokół kontroli zawiera w szczególności:
 
 - **1)** wskazanie kontrolowanego,
-- **2)** wskazanie osób kontrolujàcych,
-- **3)** okreÊlenie przedmiotu i zakresu kontroli,
-- **4)** okreÊlenie miejsca i czasu przeprowadzenia kontroli,
-- **5)** opis dokonanych ustaleƒ faktycznych,
-- **6)** dokumentacj´ dotyczàcà przeprowadzonych dowodów,
-- **7)** pouczenie o prawie z∏o˝enia zastrze˝eƒ lub wyjaÊnieƒ.
+- **2)** wskazanie osób kontrolujących,
+- **3)** określenie przedmiotu i zakresu kontroli,
+- **4)** określenie miejsca i czasu przeprowadzenia kontroli,
+- **5)** opis dokonanych ustaleń faktycznych,
+- **6)** dokumentację dotyczącą przeprowadzonych dowodów,
+- **7)** pouczenie o prawie złożenia zastrzeżeń lub wyjaśnień.
 
-§ 3. Protokó∏ nie zawiera oceny prawnej sprawy b´dàcej przedmiotem kontroli.
+§ 3. Protokół nie zawiera oceny prawnej sprawy będącej przedmiotem kontroli.
 
-§ 4. Za∏àcznik do protoko∏u kontroli stanowià protoko∏y czynnoÊci, o których mowa wart. 289 § 1.
+§ 4. Załącznik do protokołu kontroli stanowią protokoły czynności, o których mowa wart. 289 § 1.
 
-§ 5. W protokole kontroli mogà byç zawarte równie˝ ustalenia dotyczàce badania ksiàg w zakresie przewidzianym wart. 193. Wtym przypadku nie sporzàdza si´ odr´bnego protoko∏u badania ksiàg, o którym mowa wart. 193 § 6.
+§ 5. W protokole kontroli mogą być zawarte również ustalenia dotyczące badania ksiąg w zakresie przewidzianym wart. 193. Wtym przypadku nie sporządza się odrębnego protokołu badania ksiąg, o którym mowa wart. 193 § 6.
 
-§ 6. Protokó∏ jest sporzàdzany w dwóch jednobrzmiàcych egzemplarzach. Jeden egzemplarz protokó∏u kontrolujàcy dor´cza kontrolowanemu.
+§ 6. Protokół jest sporządzany w dwóch jednobrzmiących egzemplarzach. Jeden egzemplarz protokółu kontrolujący doręcza kontrolowanemu.
 
-**Art. 290a.** Minister w∏aÊciwy do spraw finansów publicznych w porozumieniu z Ministrem SprawiedliwoÊci, w drodze rozporzàdzenia, okreÊli sposób zabezpieczania, odtwarzania i wykorzystywania dowodów utrwalonych za pomocà aparatury rejestrujàcej obraz i dêwi´k oraz magnetycznych, optycznych lub elektronicznych noÊników informacji, uwzgl´dniajàc wszczególnoÊci rodzaje czynników zewn´trznych, których dzia∏anie mo˝e spowodowaç zniszczenie lub uszkodzenie dowodu, obecnoÊç przedstawiciela organu kontrolujàcego podczas ich odtwarzania, form´ oznakowania dowodu oraz ewidencjonowania czynnoÊci odtworzenia i wykorzystania dowodu.
+**Art. 290a.** Minister właściwy do spraw finansów publicznych w porozumieniu z Ministrem Sprawiedliwości, w drodze rozporządzenia, określi sposób zabezpieczania, odtwarzania i wykorzystywania dowodów utrwalonych za pomocą aparatury rejestrującej obraz i dêwięk oraz magnetycznych, optycznych lub elektronicznych nośników informacji, uwzględniając wszczególności rodzaje czynników zewnętrznych, których działanie może spowodować zniszczenie lub uszkodzenie dowodu, obecność przedstawiciela organu kontrolującego podczas ich odtwarzania, formę oznakowania dowodu oraz ewidencjonowania czynności odtworzenia i wykorzystania dowodu.
 
 **Art. 291.**
 
-§ 1. Kontrolowany, który nie zgadza si´ zustaleniami protoko∏u, mo˝e wterminie 14 dni od dnia jego dor´czenia przedstawiç zastrze˝enia lub wyjaÊnienia, wskazujàc równoczeÊnie stosowne wnioski dowodowe.
+§ 1. Kontrolowany, który nie zgadza się zustaleniami protokołu, może wterminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne wnioski dowodowe.
 
-§ 2. Kontrolujàcy jest obowiàzany rozpatrzyç zastrze˝enia, o których mowa w§ 1, iwterminie 14 dni od dnia ich otrzymania zawiadomiç kontrolowanego osposobie ich za∏atwienia.
+§ 2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w§ 1, iwterminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego osposobie ich załatwienia.
 
-§ 3. W przypadku niez∏o˝enia wyjaÊnieƒ lub zastrze˝eƒ w terminie okreÊlonym w§ 1, przyjmuje si´, ˝e kontrolowany nie kwestionuje ustaleƒ kontroli.
+§ 3. W przypadku niezłożenia wyjaśnień lub zastrzeżeń w terminie określonym w§ 1, przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli.
 
-§ 4. Kontrola zostaje zakoƒczona:
+§ 4. Kontrola zostaje zakończona:
 
-- **1)** w przypadku, o którym mowa w § 2, w dniu dor´czenia kontrolowanemu zawiadomienia,
-- **2)** w przypadku, o którym mowa w§ 3, wdniu up∏ywu terminu do przedstawienia zastrze˝eƒ lub wyjaÊnieƒ.
+- **1)** w przypadku, o którym mowa w § 2, w dniu doręczenia kontrolowanemu zawiadomienia,
+- **2)** w przypadku, o którym mowa w§ 3, wdniu upływu terminu do przedstawienia zastrzeżeń lub wyjaśnień.
 
-**Art. 292.** W sprawach nieuregulowanych w art. 281—291 stosuje si´ odpowiednio przepisy art. 102 § 2 i3, art. 135—138, art. 139 § 4, art. 140 § 2, art. 141 iart. 142 oraz przepisy rozdzia∏ów 1, 2, 5, 6, 9—12, 14, 16, 22 oraz 23 dzia∏u IV.”;
+**Art. 292.** W sprawach nieuregulowanych w art. 281—291 stosuje się odpowiednio przepisy art. 102 § 2 i3, art. 135—138, art. 139 § 4, art. 140 § 2, art. 141 iart. 142 oraz przepisy rozdziałów 1, 2, 5, 6, 9—12, 14, 16, 22 oraz 23 działu IV.”;
 
 **Art. 306a.**
 
-§ 1. Organ podatkowy wydaje zaÊwiadczenia na ˝àdanie osoby ubiegajàcej si´ ozaÊwiadczenie.
+§ 1. Organ podatkowy wydaje zaświadczenia na żądanie osoby ubiegającej się ozaświadczenie.
 
-§ 2. ZaÊwiadczenie wydaje si´, je˝eli:
+§ 2. Zaświadczenie wydaje się, jeżeli:
 
-- **1)** urz´dowego potwierdzenia okreÊlonych faktów lub stanu prawnego wymaga przepis prawa,
-- **2)** osoba ubiega si´ o zaÊwiadczenie ze wzgl´du na swój interes prawny w urz´dowym potwierdzeniu okreÊlonych faktów lub stanu prawnego.
+- **1)** urzędowego potwierdzenia określonych faktów lub stanu prawnego wymaga przepis prawa,
+- **2)** osoba ubiega się o zaświadczenie ze względu na swój interes prawny w urzędowym potwierdzeniu określonych faktów lub stanu prawnego.
 
-§ 3. ZaÊwiadczenie potwierdza stan faktyczny lub prawny istniejàcy wdniu jego wydania.
+§ 3. Zaświadczenie potwierdza stan faktyczny lub prawny istniejący wdniu jego wydania.
 
-§ 4. ZaÊwiadczenie wydaje si´ wgranicach ˝àdania wnioskodawcy.
+§ 4. Zaświadczenie wydaje się wgranicach żądania wnioskodawcy.
 
-§ 5. ZaÊwiadczenie powinno byç wydane bez zb´dnej zw∏oki, nie póêniej jednak ni˝ wterminie 7 dni.
+§ 5. Zaświadczenie powinno być wydane bez zbędnej zwłoki, nie póêniej jednak niż wterminie 7 dni.
 
 **Art. 306b.**
 
-§ 1. W przypadkach, o których mowa w art. 306a § 2, organ podatkowy jest obowiàzany wydaç zaÊwiadczenie, je˝eli chodzi o potwierdzenie faktów albo stanu prawnego, wynikajàcych z prowadzonej przez ten organ ewidencji, rejestrów lub z innych danych znajdujàcych si´ wjego posiadaniu.
+§ 1. W przypadkach, o których mowa w art. 306a § 2, organ podatkowy jest obowiązany wydać zaświadczenie, jeżeli chodzi o potwierdzenie faktów albo stanu prawnego, wynikających z prowadzonej przez ten organ ewidencji, rejestrów lub z innych danych znajdujących się wjego posiadaniu.
 
-§ 2. Organ podatkowy, przed wydaniem zaÊwiadczenia, mo˝e przeprowadziç w niezb´dnym zakresie post´powanie wyjaÊniajàce.
+§ 2. Organ podatkowy, przed wydaniem zaświadczenia, może przeprowadzić w niezbędnym zakresie postępowanie wyjaśniające.
 
-**Art. 306c.** Odmowa wydania zaÊwiadczenia lub zaÊwiadczenia o treÊci ˝àdanej przez wdrodze postanowienia, na które s∏u˝y za˝alenie.
+**Art. 306c.** Odmowa wydania zaświadczenia lub zaświadczenia o treści żądanej przez wdrodze postanowienia, na które służy zażalenie.
 
 **Art. 306d.**
 
-§ 1. Organ podatkowy nie mo˝e ˝àdaç zaÊwiadczenia w celu potwierdzenia faktów lub stanu prawnego, znanych organowi z urz´du lub mo˝liwych do ustalenia przez organ na podstawie posiadanej ewidencji, rejestrów lub innych danych albo na podstawie przedstawionych przez zainteresowanego do wglàdu dokumentów urz´dowych.
+§ 1. Organ podatkowy nie może żądać zaświadczenia w celu potwierdzenia faktów lub stanu prawnego, znanych organowi z urzędu lub możliwych do ustalenia przez organ na podstawie posiadanej ewidencji, rejestrów lub innych danych albo na podstawie przedstawionych przez zainteresowanego do wglądu dokumentów urzędowych.
 
-§ 2. Organ podatkowy ˝àdajàcy od strony zaÊwiadczenia w celu potwierdzenia faktów lub stanu prawnego jest obowiàzany wskazaç przepis prawa wymagajàcy urz´dowego potwierdzenia tych faktów lub stanu prawnego w drodze zaÊwiadczenia.
+§ 2. Organ podatkowy żądający od strony zaświadczenia w celu potwierdzenia faktów lub stanu prawnego jest obowiązany wskazać przepis prawa wymagający urzędowego potwierdzenia tych faktów lub stanu prawnego w drodze zaświadczenia.
 
 **Art. 306e.**
 
-§ 1. ZaÊwiadczenie o niezaleganiu w podatkach lub stwierdzajàce stan zaleg∏oÊci wydaje si´ na podstawie dokumentacji danego organu podatkowego oraz informacji otrzymanych od innych organów podatkowych.
+§ 1. Zaświadczenie o niezaleganiu w podatkach lub stwierdzające stan zaległości wydaje się na podstawie dokumentacji danego organu podatkowego oraz informacji otrzymanych od innych organów podatkowych.
 
-§ 2. Przed wydaniem zaÊwiadczeƒ, o których mowa w § 1, ustala si´, czy w stosunku do wnioskodawcy nie jest prowadzone post´powanie majàce na celu ustalenie lub okreÊlenie wysokoÊci jego zobowiàzaƒ podatkowych. Je˝eli takie post´powanie jest prowadzone i zgromadzony materia∏ dowodowy pozwala na jego zakoƒczenie, powinna byç niezw∏ocznie wydana decyzja ustalajàca lub okreÊlajàca wysokoÊç zobowiàzaƒ podatkowych, w celu wykazania ich w zaÊwiadczeniu.
+§ 2. Przed wydaniem zaświadczeń, o których mowa w § 1, ustala się, czy w stosunku do wnioskodawcy nie jest prowadzone postępowanie mające na celu ustalenie lub określenie wysokości jego zobowiązań podatkowych. Jeżeli takie postępowanie jest prowadzone i zgromadzony materiał dowodowy pozwala na jego zakończenie, powinna być niezwłocznie wydana decyzja ustalająca lub określająca wysokość zobowiązań podatkowych, w celu wykazania ich w zaświadczeniu.
 
-§ 3. Nie mo˝na odmówiç wydania zaÊwiadczenia, je˝eli nie jest mo˝liwe zakoƒczenie post´powania, o którym mowa w § 2, przed up∏ywem terminu okreÊlonego wart. 306a§ 5. Wydajàc zaÊwiadczenie, organ podaje informacje o prowadzonym post´powaniu.
+§ 3. Nie można odmówić wydania zaświadczenia, jeżeli nie jest możliwe zakończenie postępowania, o którym mowa w § 2, przed upływem terminu określonego wart. 306a§ 5. Wydając zaświadczenie, organ podaje informacje o prowadzonym postępowaniu.
 
-§ 4. Na ˝àdanie wnioskodawcy w zaÊwiadczeniu podaje si´ tak˝e informacje:
+§ 4. Na żądanie wnioskodawcy w zaświadczeniu podaje się także informacje:
 
 - **1)** czy wstosunku do wnioskodawcy prowadzone jest:
-    - **a)** post´powanie majàce na celu ujawnienie jego zaleg∏oÊci poosob´ ubiegajàcà si´ o nie nast´puje datkowych i okreÊlenie ich wysokoÊci,
-    - **b)** post´powanie egzekucyjne wadministracji, równie˝ wzakresie innych ni˝ podatkowe zobowiàzaƒ wnioskodawcy,
-    - **c)** post´powanie w sprawach o przest´pstwa skarbowe lub wykroczenia skarbowe,
+    - **a)** postępowanie mające na celu ujawnienie jego zaległości poosobę ubiegającą się o nie następuje datkowych i określenie ich wysokości,
+    - **b)** postępowanie egzekucyjne wadministracji, również wzakresie innych niż podatkowe zobowiązań wnioskodawcy,
+    - **c)** postępowanie w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe,
 
-- **2)** dotyczàce:
-    - **a)** okresów, z których pochodzà zaleg∏oÊci, iich tytu∏ów,
-    - **b)** podatków, których termin p∏atnoÊci zosta∏ odroczony lub których p∏atnoÊç zosta∏a roz∏o˝ona na raty.
+- **2)** dotyczące:
+    - **a)** okresów, z których pochodzą zaległości, iich tytułów,
+    - **b)** podatków, których termin płatności został odroczony lub których płatność została rozłożona na raty.
 
-§ 5. Je˝eli zap∏ata zaleg∏oÊci podatkowej wraz zodsetkami za zw∏ok´ zosta∏a odroczona lub roz∏o˝ona na raty, uznaje si´, ˝e podatnik, p∏atnik lub inkasent, do dnia up∏ywu terminów, októrych mowa wart. 49 § 1, nie posiada zaleg∏oÊci podatkowych.
+§ 5. Jeżeli zapłata zaległości podatkowej wraz zodsetkami za zwłokę została odroczona lub rozłożona na raty, uznaje się, że podatnik, płatnik lub inkasent, do dnia upływu terminów, októrych mowa wart. 49 § 1, nie posiada zaległości podatkowych.
 
 **Art. 306f.**
 
-§ 1. Organ podatkowy na wniosek osoby, która uprawdopodobni, ˝e mo˝e byç spadkobiercà, wydaje zaÊwiadczenie o wysokoÊci znanych temu organowi zobowiàzaƒ spadkodawcy wymienionych wart. 98 § 1 i2.
+§ 1. Organ podatkowy na wniosek osoby, która uprawdopodobni, że może być spadkobiercą, wydaje zaświadczenie o wysokości znanych temu organowi zobowiązań spadkodawcy wymienionych wart. 98 § 1 i2.
 
-§ 2. Je˝eli post´powanie podatkowe w sprawie okreÊlenia lub ustalenia wysokoÊci zobowiàzaƒ podatkowych spadkodawcy nie zosta∏o zakoƒczone, w zaÊwiadczeniu podaje si´ przybli˝onà wysokoÊç zobowiàzania na podstawie posiadanych danych co do podstawy opodatkowania.
+§ 2. Jeżeli postępowanie podatkowe w sprawie określenia lub ustalenia wysokości zobowiązań podatkowych spadkodawcy nie zostało zakończone, w zaświadczeniu podaje się przybliżoną wysokość zobowiązania na podstawie posiadanych danych co do podstawy opodatkowania.
 
 **Art. 306g.**
 
-§ 1. Organy podatkowe, za zgodà zbywajàcego, wydajà na wniosek nabywcy, o którym mowa w art. 112 § 1, zaÊwiadczenie owysokoÊci zaleg∏oÊci podatkowych zbywajàcego.
+§ 1. Organy podatkowe, za zgodą zbywającego, wydają na wniosek nabywcy, o którym mowa w art. 112 § 1, zaświadczenie owysokości zaległości podatkowych zbywającego.
 
-§ 2. W zaÊwiadczeniu, o którym mowa w § 1, organ podatkowy okreÊla wysokoÊç zaleg∏oÊci podatkowych zbywajàcego na dzieƒ wydania zaÊwiadczenia.
+§ 2. W zaświadczeniu, o którym mowa w § 1, organ podatkowy określa wysokość zaległości podatkowych zbywającego na dzień wydania zaświadczenia.
 
-§ 3. Przepisy § 1—2 stosuje si´ odpowiednio do nale˝noÊci wymienionych w art. 107 § 2 pkt 2—4, obj´tych zakresem odpowiedzialnoÊci nabywcy.
+§ 3. Przepisy § 1—2 stosuje się odpowiednio do należności wymienionych w art. 107 § 2 pkt 2—4, objętych zakresem odpowiedzialności nabywcy.
 
 **Art. 306h.**
 
-§ 1. Organy podatkowe, za zgodà podatnika, wydajà zaÊwiadczenie o wysokoÊci zaleg∏oÊci podatkowych podatnika na ˝àdanie:
+§ 1. Organy podatkowe, za zgodą podatnika, wydają zaświadczenie o wysokości zaległości podatkowych podatnika na żądanie:
 
-- **1)** jednostek organizacyjnych, któcych zasady ich funkcjonowania uprawnione sà do udzielania kredytów (po˝yczek),
-- **2)** kontrahentów podatników prowadzàcych dzia∏alnoÊç gospodarczà oraz dzier˝awców i u˝ytkowników nieruchomoÊci w zakresie opodatkowania dzier˝awionej lub u˝ytkowanej nieruchomoÊci,
-- **3)** ma∏˝onka podatnika, z zastrze˝eniem § 2, a tak˝e rozwiedzionego ma∏˝onka w zakresie zaleg∏oÊci powsta∏ych w czasie trwania wspólnoÊci majàtkowej oraz innych osób wymienionych wart. 111,
-- **4)** wspólnika spó∏ek wymienionych wart. 115 § 1.
+- **1)** jednostek organizacyjnych, któcych zasady ich funkcjonowania uprawnione są do udzielania kredytów (pożyczek),
+- **2)** kontrahentów podatników prowadzących działalność gospodarczą oraz dzierżawców i użytkowników nieruchomości w zakresie opodatkowania dzierżawionej lub użytkowanej nieruchomości,
+- **3)** małżonka podatnika, z zastrzeżeniem § 2, a także rozwiedzionego małżonka w zakresie zaległości powstałych w czasie trwania wspólności majątkowej oraz innych osób wymienionych wart. 111,
+- **4)** wspólnika spółek wymienionych wart. 115 § 1.
 
-§ 2. Zgoda podatnika nie jest wymagana, je˝eli z ˝àdaniem wydania zare na podstawie ustaw regulujàÊwiadczenia, októrym mowa w§ 1, wyst´puje ma∏˝onek podatnika pozostajàcy znim we wspólnoÊci majàtkowej.
+§ 2. Zgoda podatnika nie jest wymagana, jeżeli z żądaniem wydania zare na podstawie ustaw regulująświadczenia, októrym mowa w§ 1, występuje małżonek podatnika pozostający znim we wspólności majątkowej.
 
 **Art. 306i.**
 
-§ 1. Organ podatkowy na wniosek podatnika wydaje zaÊwiadczenie o wysokoÊci jego dochodu lub obrotu.
+§ 1. Organ podatkowy na wniosek podatnika wydaje zaświadczenie o wysokości jego dochodu lub obrotu.
 
-§ 2. W zaÊwiadczeniach dotyczàcych wysokoÊci dochodu lub obrotu stwierdza si´ wy∏àcznie, czy wnioskodawca jest lub nie jest podatnikiem:
+§ 2. W zaświadczeniach dotyczących wysokości dochodu lub obrotu stwierdza się wyłącznie, czy wnioskodawca jest lub nie jest podatnikiem:
 
-- **1)** podatku od towarów ius∏ug oraz podatku akcyzowego, z okreÊleniem wysokoÊci obrotu,
-- **2)** podatku dochodowego (we wszystkich formach opodatkowania); w przypadku opodatkowania podatkiem dochodowym od osób fizycznych na zasadach ogólnych zokreÊleniem wysokoÊci dochodu przyj´tego do podstawy opodatkowania, a w przypadku osób prawnych z okreÊleniem wysokoÊci dochodu przyj´tego do podstawy opodatkowania, jak równie˝ dochodu pozostajàcego po odliczeniu podatku.
+- **1)** podatku od towarów iusług oraz podatku akcyzowego, z określeniem wysokości obrotu,
+- **2)** podatku dochodowego (we wszystkich formach opodatkowania); w przypadku opodatkowania podatkiem dochodowym od osób fizycznych na zasadach ogólnych zokreśleniem wysokości dochodu przyjętego do podstawy opodatkowania, a w przypadku osób prawnych z określeniem wysokości dochodu przyjętego do podstawy opodatkowania, jak również dochodu pozostającego po odliczeniu podatku.
 
-**Art. 306j.** Minister w∏aÊciwy do spraw finansów publicznych okreÊli, wdrodze rozporzàdzenia:
+**Art. 306j.** Minister właściwy do spraw finansów publicznych określi, wdrodze rozporządzenia:
 
-**Art. 306k.** W sprawach nieuregulowanych w art. 306a—306i stosuje si´ odpowiednio przepisy rozdzia∏ów 1—6, 8—12, 14, 16 oraz 23 dzia∏u IV.”.
+**Art. 306k.** W sprawach nieuregulowanych w art. 306a—306i stosuje się odpowiednio przepisy rozdziałów 1—6, 8—12, 14, 16 oraz 23 działu IV.”.
 
-**Art. 2.** W ustawie z dnia 14 czerwca 1960 r. Kodeks post´powania administracyjnego (Dz. U. z2000 r. 98, poz. 1071, z2001 r. 49, poz. 509 oraz z2002 r. 113, poz. 984) wart. 3 w§ 1 wpkt 2 skreÊla si´ wyraz „ ,VII”.
+**Art. 2.** W ustawie z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z2000 r. 98, poz. 1071, z2001 r. 49, poz. 509 oraz z2002 r. 113, poz. 984) wart. 3 w§ 1 wpkt 2 skreśla się wyraz Ń ,VII”.
 
-**Art. 3.** Wustawie zdnia 17 czerwca 1966 r. opost´powaniu egzekucyjnym wadministracji (Dz. U. z2002r. 110, poz. 968, 113, poz. 984, 127, poz. 1090, 141, poz. 1178 i 153, poz. 1271) wprowadza si´ nast´pujàce zmiany:
+**Art. 3.** Wustawie zdnia 17 czerwca 1966 r. opostępowaniu egzekucyjnym wadministracji (Dz. U. z2002r. 110, poz. 968, 113, poz. 984, 127, poz. 1090, 141, poz. 1178 i 153, poz. 1271) wprowadza się następujące zmiany:
 
-**Art. 4.** W ustawie z dnia 6 lipca 1982 r. o ksi´gach wieczystych i hipotece (Dz. U. z 2001 r. 124, poz. 1361 iNr 125, poz. 1368) wart. 65 po ust. 2 dodaje si´ ust. 2awbrzmieniu: „2a. NieruchomoÊç stanowiàca przedmiot wspó∏w∏asnoÊci ∏àcznej mo˝e byç obcià˝ona hipotekà, je˝eli odr´bne przepisy tak stanowià.”.
+**Art. 4.** W ustawie z dnia 6 lipca 1982 r. o księgach wieczystych i hipotece (Dz. U. z 2001 r. 124, poz. 1361 iNr 125, poz. 1368) wart. 65 po ust. 2 dodaje się ust. 2awbrzmieniu: Ń2a. Nieruchomość stanowiąca przedmiot współwłasności łącznej może być obciążona hipoteką, jeżeli odrębne przepisy tak stanowią.”.
 
-**Art. 5.** W ustawie z dnia 20 wrzeÊnia 1984 r. o Sàdzie Najwy˝szym (Dz. U. z 2002 r. 101, poz. 924 iNr153, poz. 1271) wart. 16 wust. 2 po wyrazie „Polskiej” dodaje si´ wyrazy „ , wsprawach zzakresu prawa podatkowego ministra w∏aÊciwego do spraw fiArt. 6.Wustawie zdnia 28 wrzeÊnia 1991 r. okontroli skarbowej (Dz. U. z1999 r. 54, poz. 572 iNr 83, poz. 931, z 2000 r. 70, poz. 816, 104, poz. 1103 i 116, poz. 1216, z 2001 r. 14, poz. 143, 81, poz. 877 i 110, poz. 1189 oraz z 2002 r. 41, poz. 365, 74, poz. 676, 89, poz. 804, 141, poz.1178 i 153, poz. 1271) wprowadza si´ nast´pujàce zmiany:
+**Art. 5.** W ustawie z dnia 20 września 1984 r. o Sądzie Najwyższym (Dz. U. z 2002 r. 101, poz. 924 iNr153, poz. 1271) wart. 16 wust. 2 po wyrazie ŃPolskiej” dodaje się wyrazy Ń , wsprawach zzakresu prawa podatkowego ministra właściwego do spraw fiArt. 6.Wustawie zdnia 28 września 1991 r. okontroli skarbowej (Dz. U. z1999 r. 54, poz. 572 iNr 83, poz. 931, z 2000 r. 70, poz. 816, 104, poz. 1103 i 116, poz. 1216, z 2001 r. 14, poz. 143, 81, poz. 877 i 110, poz. 1189 oraz z 2002 r. 41, poz. 365, 74, poz. 676, 89, poz. 804, 141, poz.1178 i 153, poz. 1271) wprowadza się następujące zmiany:
 
-**Art. 7.** Wustawie zdnia 8 stycznia 1993 r. opodatku od towarów i us∏ug oraz o podatku akcyzowym (Dz. U. z 1993 r. 11, poz. 50, 28, poz. 127 iNr 129, poz. 599, z 1994 r. 132, poz. 670, z 1995 r. 44, poz. 231 i 142, poz. 702 i 703, z 1996 r. 137, poz. 640, z 1997 r. 111, poz. 722, 123, poz. 776 i 780, 137, poz. 926, 141, poz. 943 i 162, poz. 1104, z1998 r. 139, poz. 905 iNr 161, poz. 1076, z 1999 r. 50, poz. 499, 57, poz. 596 i 95, poz.1100, z2000 r. 68, poz. 805 iNr 105, poz. 1107, z2001 r. 12, poz. 92, 39, poz. 459, 56, poz. 580, 63, poz. 639, 80, poz. 858, 90, poz. 995, 106, poz. 1150 i 122, poz. 1324 oraz z 2002 r. 19, poz. 185, 41, poz. 365, 86, poz. 794 i 153, poz. 1272) w art. 21 wprowadza si´ nast´pujàce zmiany:
+**Art. 7.** Wustawie zdnia 8 stycznia 1993 r. opodatku od towarów i usług oraz o podatku akcyzowym (Dz. U. z 1993 r. 11, poz. 50, 28, poz. 127 iNr 129, poz. 599, z 1994 r. 132, poz. 670, z 1995 r. 44, poz. 231 i 142, poz. 702 i 703, z 1996 r. 137, poz. 640, z 1997 r. 111, poz. 722, 123, poz. 776 i 780, 137, poz. 926, 141, poz. 943 i 162, poz. 1104, z1998 r. 139, poz. 905 iNr 161, poz. 1076, z 1999 r. 50, poz. 499, 57, poz. 596 i 95, poz.1100, z2000 r. 68, poz. 805 iNr 105, poz. 1107, z2001 r. 12, poz. 92, 39, poz. 459, 56, poz. 580, 63, poz. 639, 80, poz. 858, 90, poz. 995, 106, poz. 1150 i 122, poz. 1324 oraz z 2002 r. 19, poz. 185, 41, poz. 365, 86, poz. 794 i 153, poz. 1272) w art. 21 wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 14 grudnia 1995 r. o spó∏dzielczych kasach oszcz´dnoÊciowo-kredytowych (Dz. U. z1996 r. 1, poz. 2, z1999 r. 101, poz. 1178 oraz z2001 r. 8, poz. 64 iNr 100, poz. 1081) po art. 32 dodaje si´ art. 32awbrzmieniu: „Art. 32a. 1. Kasy sà obowiàzane realizowaç polecenia przelewu dotyczàce nale˝noÊci, do których stosuje si´ przepisy ustawy zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 1997 r. 137, poz. 926 i 160, poz. 1083, z 1998 r. 106, poz. 668, z 1999 r. 11, poz. 95 i 92, poz. 1062, z 2000 r. 94, poz. 1037, 116, poz. 1216, 120, poz. 1268 i 122, poz. 1315, z 2001 r. 16, poz. 166, 39, poz. 459, 42, poz. 475, 110, poz. 1189, 125, poz. 1368 i 130, poz. 1452 oraz z 2002 r. 89, poz. 804, 113, poz. 984, 153, poz. 1271 i 169, poz. 1387), w terminie 5 dni roboczych od dnia obcià˝enia rachunku cz∏onka kasy. 2. W razie niedotrzymania terminu, októrym mowa wust. 1, kasa obowiàzana jest do zap∏acenia na rzecz Skarbu Paƒstwa lub jednostki samorzàdu terytorialnego odsetek w wysokoÊci przewidzianej dla odsetek za zw∏ok´ od zaleg∏oÊci podatkowych. 3. Do odpowiedzialnoÊci kas ztytu∏u niedope∏nienia obowiàzku okreÊlonego wust. 1 stosuje si´ odpowiednio przepisy ustawy Ordynacja podatkowa o odpowiedzialnoÊci podatkowej inkasenta.”.
+**Art. 9.** W ustawie z dnia 14 grudnia 1995 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z1996 r. 1, poz. 2, z1999 r. 101, poz. 1178 oraz z2001 r. 8, poz. 64 iNr 100, poz. 1081) po art. 32 dodaje się art. 32awbrzmieniu: ŃArt. 32a. 1. Kasy są obowiązane realizować polecenia przelewu dotyczące należności, do których stosuje się przepisy ustawy zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 1997 r. 137, poz. 926 i 160, poz. 1083, z 1998 r. 106, poz. 668, z 1999 r. 11, poz. 95 i 92, poz. 1062, z 2000 r. 94, poz. 1037, 116, poz. 1216, 120, poz. 1268 i 122, poz. 1315, z 2001 r. 16, poz. 166, 39, poz. 459, 42, poz. 475, 110, poz. 1189, 125, poz. 1368 i 130, poz. 1452 oraz z 2002 r. 89, poz. 804, 113, poz. 984, 153, poz. 1271 i 169, poz. 1387), w terminie 5 dni roboczych od dnia obciążenia rachunku członka kasy. 2. W razie niedotrzymania terminu, októrym mowa wust. 1, kasa obowiązana jest do zapłacenia na rzecz Skarbu Państwa lub jednostki samorządu terytorialnego odsetek w wysokości przewidzianej dla odsetek za zwłokę od zaległości podatkowych. 3. Do odpowiedzialności kas ztytułu niedopełnienia obowiązku określonego wust. 1 stosuje się odpowiednio przepisy ustawy Ordynacja podatkowa o odpowiedzialności podatkowej inkasenta.”.
 
-**Art. 10.** Wustawie zdnia 21 czerwca 1996 r. ourz´dach i izbach skarbowych (Dz. U. z 1996 r. 106, poz. 489, z 1997 r. 121, poz. 770 i 141, poz. 943, z2000 r. 120, poz. 1268, z2001 r. 110, poz. 1189 oraz z 2002 r. 89, poz. 804) w art. 5 w ust. 6 pkt 1 otrzymuje brzmienie: „1) ustalanie lub okreÊlanie i pobór podatków, op∏at, niepodatkowych nale˝noÊci bud˝etowych oraz innych nale˝noÊci wzakresie ina zasadach okreÊlonych wodr´bnych przepisach,”.
+**Art. 10.** Wustawie zdnia 21 czerwca 1996 r. ourzędach i izbach skarbowych (Dz. U. z 1996 r. 106, poz. 489, z 1997 r. 121, poz. 770 i 141, poz. 943, z2000 r. 120, poz. 1268, z2001 r. 110, poz. 1189 oraz z 2002 r. 89, poz. 804) w art. 5 w ust. 6 pkt 1 otrzymuje brzmienie: Ń1) ustalanie lub określanie i pobór podatków, opłat, niepodatkowych należności budżetowych oraz innych należności wzakresie ina zasadach określonych wodrębnych przepisach,”.
 
-**Art. 11.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsi´biorstw paƒstwowych (Dz. U. z 1996 r. 118, poz. 561 iNr 156, poz.775, z 1997 r. 32, poz. 184, 98, poz. 603, 106, poz. 673, 121, poz. 770, 137, poz. 926 i 141, poz. 400 i 101, poz. 1178, z 2000 r. 15, poz. 180, 26, poz. 306, 31, poz. 383, 60, poz.703, 84, poz. 948 i 122, poz. 1315, z 2001 r. 63, poz. 637, 72, poz. 745, 76, poz. 807 iNr 122, poz. 1320 oraz z 2002 r. 25, poz. 253 i 113, poz. 984) w art. 24 wust. 1 pkt 1 otrzymuje brzmienie: „1) wierzytelnoÊci wobec bud˝etu paƒstwa, z wy∏àczeniem wierzytelnoÊci, które nie podlegajà umorzeniu na podstawie przepisów szczególnych,”.
+**Art. 11.** W ustawie z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. z 1996 r. 118, poz. 561 iNr 156, poz.775, z 1997 r. 32, poz. 184, 98, poz. 603, 106, poz. 673, 121, poz. 770, 137, poz. 926 i 141, poz. 400 i 101, poz. 1178, z 2000 r. 15, poz. 180, 26, poz. 306, 31, poz. 383, 60, poz.703, 84, poz. 948 i 122, poz. 1315, z 2001 r. 63, poz. 637, 72, poz. 745, 76, poz. 807 iNr 122, poz. 1320 oraz z 2002 r. 25, poz. 253 i 113, poz. 984) w art. 24 wust. 1 pkt 1 otrzymuje brzmienie: Ń1) wierzytelności wobec budżetu państwa, z wyłączeniem wierzytelności, które nie podlegają umorzeniu na podstawie przepisów szczególnych,”.
 
-**Art. 12.** W ustawie z dnia 9 stycznia 1997 r. Kodeks celny (Dz. U. z 2001 r. 75, poz. 802, 89, poz. 972, 110, poz. 1189, 125, poz. 1368 iNr 128, poz. 1403 oraz z2002 r. 41, poz. 365, 89, poz. 804, 112, poz. 974 i 141, poz. 1178) wprowadza si´ nast´pujàce zmiany:
+**Art. 12.** W ustawie z dnia 9 stycznia 1997 r. Kodeks celny (Dz. U. z 2001 r. 75, poz. 802, 89, poz. 972, 110, poz. 1189, 125, poz. 1368 iNr 128, poz. 1403 oraz z2002 r. 41, poz. 365, 89, poz. 804, 112, poz. 974 i 141, poz. 1178) wprowadza się następujące zmiany:
 
-**Art. 13.** Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej ispo∏ecznej oraz zatrudnianiu osób niepe∏nosprawnych (Dz. U. z 1997 r. 123, poz. 776 i 160, poz. 1082, z 1998 r. 99, poz. 628, 106, poz. 668, 137, poz. 887, 156, poz. 1019 i 162, poz. 1118 i 1126, z 1999 r. 49, poz. 486, 90, poz.1001, 95, poz. 1101 iNr 111, poz. 1280, z2000 r. 48, poz.550 iNr 119, poz. 1249 oraz z2001 r. 39, poz. 459, 100, poz. 1080, 125, poz. 1368, 129, poz. 1444 i 154, poz. 1792 i poz. 1800) wprowadza si´ nast´pujàce zmiany:
+**Art. 13.** Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej ispołecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. z 1997 r. 123, poz. 776 i 160, poz. 1082, z 1998 r. 99, poz. 628, 106, poz. 668, 137, poz. 887, 156, poz. 1019 i 162, poz. 1118 i 1126, z 1999 r. 49, poz. 486, 90, poz.1001, 95, poz. 1101 iNr 111, poz. 1280, z2000 r. 48, poz.550 iNr 119, poz. 1249 oraz z2001 r. 39, poz. 459, 100, poz. 1080, 125, poz. 1368, 129, poz. 1444 i 154, poz. 1792 i poz. 1800) wprowadza się następujące zmiany:
 
-**Art. 14.** Wustawie zdnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, 126, poz. 1070, 141,poz. 1178, 144, poz. 1208, 153, poz. 1271 i 169, poz. 1387) wprowadza si´ nast´pujàce zmiany:
+**Art. 14.** Wustawie zdnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, 126, poz. 1070, 141,poz. 1178, 144, poz. 1208, 153, poz. 1271 i 169, poz. 1387) wprowadza się następujące zmiany:
 
-**Art. 15.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych (Dz. U. z 1998 r. 137, poz. 887 i 162, poz. 1118 i 1126, z 1999 r. 26, poz. 228, 60, poz. 636, 72, poz. 802, 78, poz. 875 i 110, poz. 1256, z 2000 r. 9, poz. 118, 95, poz. 1041, 104, poz. 1104 iNr 119, poz. 1249, z2001 r. 8, poz. 64, 27, poz. 298, 39, poz. 459, 72, poz. 748, 100, poz. 1080, 110, poz. 1189, 111, poz. 1194, 130, poz. 1452 iNr 154, poz. 1792 oraz z 2002 r. 25, poz. 253, 41, poz. 365, 74, poz.676 i 155, poz. 1278) wprowadza si´ nast´pujàce zmiany:
+**Art. 15.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 1998 r. 137, poz. 887 i 162, poz. 1118 i 1126, z 1999 r. 26, poz. 228, 60, poz. 636, 72, poz. 802, 78, poz. 875 i 110, poz. 1256, z 2000 r. 9, poz. 118, 95, poz. 1041, 104, poz. 1104 iNr 119, poz. 1249, z2001 r. 8, poz. 64, 27, poz. 298, 39, poz. 459, 72, poz. 748, 100, poz. 1080, 110, poz. 1189, 111, poz. 1194, 130, poz. 1452 iNr 154, poz. 1792 oraz z 2002 r. 25, poz. 253, 41, poz. 365, 74, poz.676 i 155, poz. 1278) wprowadza się następujące zmiany:
 
-**Art. 16.** Do zapytaƒ, októrych mowa wart. 14a§ 1 ustawy zmienianej w art. 1, nieza∏atwionych przed dniem wejÊcia w ˝ycie niniejszej ustawy, stosuje si´ przepisy ustawy zmienianej wart. 1 wbrzmieniu nadanym niniejszà ustawà.
+**Art. 16.** Do zapytań, októrych mowa wart. 14a§ 1 ustawy zmienianej w art. 1, niezałatwionych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej wart. 1 wbrzmieniu nadanym niniejszą ustawą.
 
-**Art. 17.** Do zabezpieczeƒ zobowiàzaƒ podatkowych powsta∏ych przed dniem wejÊcia w ˝ycie niniejszej ustawy stosuje si´ przepisy art. 33 ustawy zmienianej wart. 1 wbrzmieniu obowiàzujàcym przed dniem wejÊcia w˝ycie niniejszej ustawy.
+**Art. 17.** Do zabezpieczeń zobowiązań podatkowych powstałych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy art. 33 ustawy zmienianej wart. 1 wbrzmieniu obowiązującym przed dniem wejścia wżycie niniejszej ustawy.
 
-**Art. 18.** Przepis art. 57 § 6 ustawy zmienianej wart.1 wbrzmieniu obowiàzujàcym przed dniem wejÊcia w ˝ycie niniejszej ustawy ma zastosowanie w zaart. 112, art. 113, art. 115, art. 116, kresie bankowych post´powaƒ ugodowych do czasu ich zakoƒczenia.
+**Art. 18.** Przepis art. 57 § 6 ustawy zmienianej wart.1 wbrzmieniu obowiązującym przed dniem wejścia w życie niniejszej ustawy ma zastosowanie w zaart. 112, art. 113, art. 115, art. 116, kresie bankowych postępowań ugodowych do czasu ich zakończenia.
 
-**Art. 19.** Banki, spó∏dzielcze kasy oszcz´dnoÊciowo-kredytowe i paƒstwowe przedsi´biorstwo u˝ytecznoÊci publicznej „Poczta Polska” sà obowiàzane zapewniç dost´p do formularzy dokumentów, októrych mowa wart. 60 § 3 ustawy zmienianej wart. 1, najpóêniej w terminie 6 miesi´cy od dnia wejÊcia w ˝ycie niniejszej ustawy.
+**Art. 19.** Banki, spółdzielcze kasy oszczędnościowo-kredytowe i państwowe przedsiębiorstwo użyteczności publicznej ŃPoczta Polska” są obowiązane zapewnić dostęp do formularzy dokumentów, októrych mowa wart. 60 § 3 ustawy zmienianej wart. 1, najpóêniej w terminie 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
 **Art. 20.**
 
-§ 1. Do przedawnienia zobowiàzaƒ podatkowych powsta∏ych przed dniem wejÊcia w ˝ycie niniejszej ustawy stosuje si´ przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszà ustawà, z zastrze˝eniem § 2.
+§ 1. Do przedawnienia zobowiązań podatkowych powstałych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą, z zastrzeżeniem § 2.
 
-§ 2. Je˝eli dotychczasowe przepisy okreÊlajà korzystniejsze dla podatnika, p∏atnika lub inkasenta zasady iterminy przedawnienia zobowiàzaƒ podatkowych, stosuje si´ przepisy obowiàzujàce przed dniem wejÊcia w˝ycie niniejszej ustawy.
+§ 2. Jeżeli dotychczasowe przepisy określają korzystniejsze dla podatnika, płatnika lub inkasenta zasady iterminy przedawnienia zobowiązań podatkowych, stosuje się przepisy obowiązujące przed dniem wejścia wżycie niniejszej ustawy.
 
-**Art. 21.** Do odpowiedzialnoÊci podatkowej osób trzecich z tytu∏u zaleg∏oÊci podatkowych powsta∏ych przed dniem wejÊcia w˝ycie niniejszej ustawy stosuje si´ przepisy ustawy zmienianej w art. 1 w brzmieniu obowiàzujàcym przed dniem wejÊcia w˝ycie niniejszej ustawy.
+**Art. 21.** Do odpowiedzialności podatkowej osób trzecich z tytułu zaległości podatkowych powstałych przed dniem wejścia wżycie niniejszej ustawy stosuje się przepisy ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem wejścia wżycie niniejszej ustawy.
 
 **Art. 22.**
 
-§ 1. Do spraw wszcz´tych a niezakoƒczonych przez organy podatkowe pierwszej instancji przed dniem wejÊcia w ˝ycie niniejszej ustawy stosuje si´ przepisy ustawy zmienianej wart. 1 wbrzmieniu nadanym niniejszà ustawà, zzastrze˝eniem § 2.
+§ 1. Do spraw wszczętych a niezakończonych przez organy podatkowe pierwszej instancji przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy zmienianej wart. 1 wbrzmieniu nadanym niniejszą ustawą, zzastrzeżeniem § 2.
 
-§ 2. Wnioski o wszcz´cie post´powania wniesione do ministra w∏aÊciwego do spraw finansów publicznych przed dniem wejÊcia w ˝ycie niniejszej ustawy podlegajà rozpatrzeniu na podstawie przepisów ustawy zmienianej w art. 1 w brzmieniu obowiàzujàcym przed dniem wejÊcia w˝ycie niniejszej ustawy.
+§ 2. Wnioski o wszczęcie postępowania wniesione do ministra właściwego do spraw finansów publicznych przed dniem wejścia w życie niniejszej ustawy podlegają rozpatrzeniu na podstawie przepisów ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem wejścia wżycie niniejszej ustawy.
 
-**Art. 23.** Odwo∏ania od decyzji wydanych na podstawie przepisów ustawy zmienianej w art. 1 wniesione przed dniem wejÊcia w ˝ycie niniejszej ustawy podlegajà rozpatrzeniu na podstawie przepisów ustawy zmienianej wart. 1 wbrzmieniu obowiàzujàcym przed dniem wejÊcia w˝ycie niniejszej ustawy.
+**Art. 23.** Odwołania od decyzji wydanych na podstawie przepisów ustawy zmienianej w art. 1 wniesione przed dniem wejścia w życie niniejszej ustawy podlegają rozpatrzeniu na podstawie przepisów ustawy zmienianej wart. 1 wbrzmieniu obowiązującym przed dniem wejścia wżycie niniejszej ustawy.
 
 **Art. 24.**
 
-§ 1. ˚àdania uchylenia, zmiany lub stwierdzenia niewa˝noÊci decyzji, która sta∏a si´ decyzjà ostatecznà przed dniem wejÊcia w˝ycie niniejszej ustawy, podlegajà rozpatrzeniu w trybie, na zasadach iwterminach okreÊlonych wprzepisach ustawy zmienianej w art. 1 w brzmieniu obowiàzujàcym przed dniem wejÊcia w˝ycie niniejszej ustawy.
+§ 1. ˚ądania uchylenia, zmiany lub stwierdzenia nieważności decyzji, która stała się decyzją ostateczną przed dniem wejścia wżycie niniejszej ustawy, podlegają rozpatrzeniu w trybie, na zasadach iwterminach określonych wprzepisach ustawy zmienianej w art. 1 w brzmieniu obowiązującym przed dniem wejścia wżycie niniejszej ustawy.
 
-§ 2. Przepis § 1 stosuje si´ odpowiednio do wszcz´cia zurz´du post´powania wsprawie uchylenia, zmiany lub stwierdzenia niewa˝noÊci decyzji ostatecznej.
+§ 2. Przepis § 1 stosuje się odpowiednio do wszczęcia zurzędu postępowania wsprawie uchylenia, zmiany lub stwierdzenia nieważności decyzji ostatecznej.
 
 **Art. 25.**
 
-§ 1. Kontrole podatkowe wszcz´te przed dniem wejÊcia w˝ycie niniejszej ustawy sà prowadzone na zasadach okreÊlonych w przepisach ustawy zmienianej wart. 1 wbrzmieniu obowiàzujàcym przed w przepisach ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszà ustawà.
+§ 1. Kontrole podatkowe wszczęte przed dniem wejścia wżycie niniejszej ustawy są prowadzone na zasadach określonych w przepisach ustawy zmienianej wart. 1 wbrzmieniu obowiązującym przed w przepisach ustawy zmienianej w art. 6 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 26.** Wnioski o wydanie zaÊwiadczenia z∏o˝one przed dniem wejÊcia w˝ycie niniejszej ustawy sà za∏atwiane na zasadach okreÊlonych wprzepisach ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszà ustawà.
+**Art. 26.** Wnioski o wydanie zaświadczenia złożone przed dniem wejścia wżycie niniejszej ustawy są załatwiane na zasadach określonych wprzepisach ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 27.**
 
-§ 1. Do czasu wydania przepisów wykonawczych na podstawie upowa˝nieƒ zmienianych niniejszà ustawà, nie d∏u˝ej jednak ni˝ do dnia 30 czerwca 2003 r., zachowujà moc przepisy dotychczasowe, je˝eli nie sà sprzeczne zniniejszà ustawà.
+§ 1. Do czasu wydania przepisów wykonawczych na podstawie upoważnień zmienianych niniejszą ustawą, nie dłużej jednak niż do dnia 30 czerwca 2003 r., zachowują moc przepisy dotychczasowe, jeżeli nie są sprzeczne zniniejszą ustawą.
 
-§ 2. Obwieszczenie ministra w∏aÊciwego do spraw finansów publicznych wydane na podstawie art. 119 § 2 ustawy zmienianej wart. 1 traci moc zdniem wejÊcia w˝ycie niniejszej ustawy. Wroku 2003 obowiàzujà kwoty okreÊlone wart. 41 § 1, art. 112 § 1 pkt 3 oraz art. 262 § 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszà ustawà. dniem wejÊcia w˝ycie niniejszej ustawy. Art. 28. Przepisy art. 3a oraz art. 168 § 5 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszà § 2. Je˝eli wszcz´cie post´powania podatkowego, ustawà stosuje si´ od dnia 1 stycznia 2004 r. na podstawie ustaleƒ kontroli podatkowej zakoƒczonej na podstawie dotychczasowych przepisów, nast´puje Art. 29.Przepis art. 24 ust. 1 pkt 1 ustawy zmieniapo dniu wejÊcia w˝ycie niniejszej ustawy, post´powa- nej w art. 11 w brzmieniu nadanym niniejszà ustawà nie podatkowe wszczyna si´ na podstawie przepisów stosuje si´ do dnia uzyskania przez Rzeczpospolità Polustawy zmienianej w art. 1 w brzmieniu nadanym ni- skà cz∏onkostwa wUnii Europejskiej. niejszà ustawà.
+§ 2. Obwieszczenie ministra właściwego do spraw finansów publicznych wydane na podstawie art. 119 § 2 ustawy zmienianej wart. 1 traci moc zdniem wejścia wżycie niniejszej ustawy. Wroku 2003 obowiązują kwoty określone wart. 41 § 1, art. 112 § 1 pkt 3 oraz art. 262 § 1 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą ustawą. dniem wejścia wżycie niniejszej ustawy. Art. 28. Przepisy art. 3a oraz art. 168 § 5 ustawy zmienianej w art. 1 w brzmieniu nadanym niniejszą § 2. Jeżeli wszczęcie postępowania podatkowego, ustawą stosuje się od dnia 1 stycznia 2004 r. na podstawie ustaleń kontroli podatkowej zakończonej na podstawie dotychczasowych przepisów, następuje Art. 29.Przepis art. 24 ust. 1 pkt 1 ustawy zmieniapo dniu wejścia wżycie niniejszej ustawy, postępowa- nej w art. 11 w brzmieniu nadanym niniejszą ustawą nie podatkowe wszczyna się na podstawie przepisów stosuje się do dnia uzyskania przez Rzeczpospolitą Polustawy zmienianej w art. 1 w brzmieniu nadanym ni- ską członkostwa wUnii Europejskiej. niejszą ustawą.
 
-**Art. 30.** Ustawa wchodzi w˝ycie zdniem 1 stycznia § 3. Post´powania kontrolne wszcz´te przez organy 2003 r. kontroli skarbowej przed dniem wejÊcia w˝ycie niniejszej ustawy sà prowadzone na zasadach okreÊlonych Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1388 ROZPORZÑDZENIE MINISTRA INFRASTRUKTURY zdnia 6 sierpnia 2002 r. wsprawie zasad itrybu post´powania przy przeprowadzaniu przeglàdów, prób iuznawaniu kontenerów oraz organów uprawnionych do dokonywania tych czynnoÊci oraz do kontroli stanu kontenerów. Na podstawie art. 34 ustawy z dnia 9 listopada 2) instytucj´ klasyfikacyjnà, której powierza si´ zada2000 r. o bezpieczeƒstwie morskim (Dz. U. z 2000 r. nia w zakresie prób, przeglàdów i uznawania konNr109, poz. 1156) zarzàdza si´, co nast´puje: tenerów;
+**Art. 30.** Ustawa wchodzi wżycie zdniem 1 stycznia § 3. Postępowania kontrolne wszczęte przez organy 2003 r. kontroli skarbowej przed dniem wejścia wżycie niniejszej ustawy są prowadzone na zasadach określonych Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1388 ROZPORZÑDZENIE MINISTRA INFRASTRUKTURY zdnia 6 sierpnia 2002 r. wsprawie zasad itrybu postępowania przy przeprowadzaniu przeglądów, prób iuznawaniu kontenerów oraz organów uprawnionych do dokonywania tych czynności oraz do kontroli stanu kontenerów. Na podstawie art. 34 ustawy z dnia 9 listopada 2) instytucję klasyfikacyjną, której powierza się zada2000 r. o bezpieczeństwie morskim (Dz. U. z 2000 r. nia w zakresie prób, przeglądów i uznawania konNr109, poz. 1156) zarządza się, co następuje: tenerów;
+
+#### Rozdział 1 § 2. Ilekroć wrozporządzeniu jest mowa o: Przepisy ogólne
 

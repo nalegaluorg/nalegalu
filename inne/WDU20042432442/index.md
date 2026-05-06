@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# wymagania przepisów, na podstawie których zosta∏y zalegalizowane.
+# wymagania przepisów, na podstawie których zostały zalegalizowane.
 
 | Pole | Wartość |
 |---|---|
@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042432442) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2442/text.pdf) |
 
-**Art. 30.** (pomini´ty).
+**Art. 30.** (pominięty).
 
-**Art. 31.** (pomini´ty).
+**Art. 31.** (pominięty).
 
 **Art. 33.** Traci moc ustawa z dnia 3 kwietnia 1993 r. Prawo o miarach (Dz. U. Nr 55, poz. 248, z 1997 r. Nr 43, poz. 272 Nr 121, poz. 770 oraz z 2000 r. Nr 43, poz. 489 Nr 120, poz. 1268).
 
-**Art. 34.** Ustawa wchodzi w ˝ycie z dniem 1 styczArt. 32. Traci moc ustawa z dnia 3 kwietnia 1993 r. nia 2003 r., z wyjàtkiem przepisów art. 9 pkt 8, art. 16 o utworzeniu G∏ównego Urz´du Miar (Dz. U. Nr 55, pkt 10, art. 24 ust. 1 pkt 5, art. 26 ust. 1 pkt 5 art. 31, poz. 247, z1998 r. Nr 37, poz. 202 oraz z2000 r. Nr 120, które wchodzà w˝ycie po up∏ywie 14 dni od dnia og∏opoz. 1268). szenia. 2442 WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 3 listopada 2004 r. sygn. akt K 18/03 Trybuna∏ Konstytucyjny w sk∏adzie: Bohdan Zdziennicki przewodniczàcy, Jerzy Ciemniewski sprawozdawca, Janusz Niemcewicz, Miros∏aw Wyrzykowski, Marian Zdyb, po rozpoznaniu, z udzia∏em wnioskodawcy oraz Sejmu Prokuratora Generalnego, na rozprawie w dniu 25 paêdziernika 2004 r., wniosku Polskiej Konfederacji Pracodawców Prywatnych o zbadanie zgodnoÊci:
+**Art. 34.** Ustawa wchodzi w życie z dniem 1 styczArt. 32. Traci moc ustawa z dnia 3 kwietnia 1993 r. nia 2003 r., z wyjątkiem przepisów art. 9 pkt 8, art. 16 o utworzeniu Głównego Urzędu Miar (Dz. U. Nr 55, pkt 10, art. 24 ust. 1 pkt 5, art. 26 ust. 1 pkt 5 art. 31, poz. 247, z1998 r. Nr 37, poz. 202 oraz z2000 r. Nr 120, które wchodzą wżycie po upływie 14 dni od dnia ogłopoz. 1268). szenia. 2442 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 3 listopada 2004 r. sygn. akt K 18/03 Trybunał Konstytucyjny w składzie: Bohdan Zdziennicki przewodniczący, Jerzy Ciemniewski sprawozdawca, Janusz Niemcewicz, Mirosław Wyrzykowski, Marian Zdyb, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu Prokuratora Generalnego, na rozprawie w dniu 25 paêdziernika 2004 r., wniosku Polskiej Konfederacji Pracodawców Prywatnych o zbadanie zgodności:
 

@@ -24,27 +24,27 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071811286) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1286/text.pdf) |
 
-**Art. 1.** W ustawie dnia 28 wrzeÊnia 1991 o lasach (Dz. U. 45, 435, póên. zm. ) art.38d uchyla si´ ust. 2.
+**Art. 1.** W ustawie dnia 28 września 1991 o lasach (Dz. U. 45, 435, póên. zm. ) art.38d uchyla się ust. 2.
 
-**Art. 2.** Wustawie zdnia 27 kwietnia 2001 Prawo ochrony Êrodowiska (Dz. U. 2006 129, 902, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 2.** Wustawie zdnia 27 kwietnia 2001 Prawo ochrony środowiska (Dz. U. 2006 129, 902, póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 3.** W ustawie dnia 18 lipca 2001 Prawo wodne (Dz. U. z2005 239, 2019, zpóên. zm.
 
-**Art. 5.** Dotychczasowe przepisy wykonawcze wydane podstawie art. 286a ust. 5 ustawy zmienianej Art. 6. Ustawa wchodzi ˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1287 USTAWA dnia 24 sierpnia 2007 o zmianie ustawy Prawo o notariacie niektórych ustaw
+**Art. 5.** Dotychczasowe przepisy wykonawcze wydane podstawie art. 286a ust. 5 ustawy zmienianej Art. 6. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1287 USTAWA dnia 24 sierpnia 2007 o zmianie ustawy Prawo o notariacie niektórych ustaw
 
-**Art. 1.** Wustawie zdnia 14 lutego 1991 Prawo o notariacie (Dz. U. 2002 42, 369, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 14 lutego 1991 Prawo o notariacie (Dz. U. 2002 42, 369, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 95a.** Notariusz sporzàdza akt poÊwiadczenia dziedziczenia ustawowego lub testamentowego, wy∏àczeniem dziedziczenia podstawie testamentów szczególnych. osób, które mogà wchodziç rachub´ jako spadkobiercy ustawowi testamentowi.
+**Art. 95a.** Notariusz sporządza akt poświadczenia dziedziczenia ustawowego lub testamentowego, wyłączeniem dziedziczenia podstawie testamentów szczególnych. osób, które mogą wchodzić rachubę jako spadkobiercy ustawowi testamentowi.
 
 **Art. 95c.**
 
-§ 1. Przyst´pujàc do spisania protoko∏u dziedziczenia notariusz poucza osoby bioràce udzia∏ spisywaniu protoko∏u o obowiàzku ujawnienia wszelkich okolicznoÊci obj´tych treÊcià protoko∏u o odpowiedzialnoÊci karnej za z∏o˝enie fa∏szywych oÊwiadczeƒ.
+§ 1. Przystępując do spisania protokołu dziedziczenia notariusz poucza osoby biorące udział spisywaniu protokołu o obowiązku ujawnienia wszelkich okoliczności objętych treścią protokołu o odpowiedzialności karnej za złożenie fałszywych oświadczeń.
 
-§ 2. W protokole dziedziczenia zamieszcza si´ szczególnoÊci:
+§ 2. W protokole dziedziczenia zamieszcza się szczególności:
 
-- **1)** zgodne ˝àdanie poÊwiadczenia dziedziczenia z∏o˝one przez osoby bioràce udzia∏ spisywaniu proArt. 95b. Przed sporzàdzeniem aktu poÊwiadczenia dziedziczenia notariusz spisuje protokó∏ dziedziczenia przy udziale wszystkich toko∏u,
-- **2)** oÊwiadczenia o istnieniu lub nieistnieniu osób, które wy∏àcza∏yby znanych spadkobierców od dziedziczenia lub dziedziczy∏yby wraz nimi,
-- **3)** oÊwiadczenia o znanych testamentach spadkodawcy lub braku takich testamentów,
-- **4)** oÊwiadczenia, ˝e wodniesieniu do spadku nie zosta∏o uprzednio wy——————— ———————
+- **1)** zgodne żądanie poświadczenia dziedziczenia złożone przez osoby biorące udział spisywaniu proArt. 95b. Przed sporządzeniem aktu poświadczenia dziedziczenia notariusz spisuje protokół dziedziczenia przy udziale wszystkich tokołu,
+- **2)** oświadczenia o istnieniu lub nieistnieniu osób, które wyłączałyby znanych spadkobierców od dziedziczenia lub dziedziczyłyby wraz nimi,
+- **3)** oświadczenia o znanych testamentach spadkodawcy lub braku takich testamentów,
+- **4)** oświadczenia, że wodniesieniu do spadku nie zostało uprzednio wy——————— ———————
 
 

@@ -26,35 +26,35 @@ domain: null
 
 **Art. 153.**
 
-- **265)** 1. Poborowego skierowanego za jego wanym, dzienny tok s∏u˝by oraz rodzaje przepustek zgodà do s∏u˝by wStra˝y Granicznej mianuje si´ funk- przys∏ugujàcych funkcjonariuszom. cjonariuszem s∏u˝bie kandydackiej na okres równy Art. 154. okresowi zasadniczej s∏u˝by wojskowej.
+- **265)** 1. Poborowego skierowanego za jego wanym, dzienny tok służby oraz rodzaje przepustek zgodą do służby wStraży Granicznej mianuje się funk- przysługujących funkcjonariuszom. cjonariuszem służbie kandydackiej na okres równy Art. 154. okresowi zasadniczej służby wojskowej.
 
-2. Funkcjonariusze s∏u˝bie kandydackiej mogà pe∏niç s∏u˝b´ granicznà, prowadziç dzia∏ania graniczne i wykonywaç czynnoÊci administracyjno-porzàdkowe. Funkcjonariusze ci pe∏nià s∏u˝b´ wsystemie skoszarowanym.
+2. Funkcjonariusze służbie kandydackiej mogą pełnić służbę graniczną, prowadzić działania graniczne i wykonywać czynności administracyjno-porządkowe. Funkcjonariusze ci pełnią służbę wsystemie skoszarowanym.
 
-3. Wprzypadku wyra˝enia zgody na pe∏nienie s∏u˝by przygotowawczej Stra˝y Granicznej przez funkcjonariusza pe∏niàcego s∏u˝b´ kandydackà, Komendant G∏ówny Stra˝y Granicznej na wniosek komendanta oddzia∏u Stra˝y Granicznej mo˝e skróciç okres s∏u˝by kandydackiej ojednà trzecià.
+3. Wprzypadku wyrażenia zgody na pełnienie służby przygotowawczej Straży Granicznej przez funkcjonariusza pełniącego służbę kandydacką, Komendant Główny Straży Granicznej na wniosek komendanta oddziału Straży Granicznej może skrócić okres służby kandydackiej ojedną trzecią.
 
-4. Okres s∏u˝by kandydackiej zalicza si´ do okresu s∏u˝by przygotowawczej, je˝eli przerwa pomi´dzy s∏u˝bà kandydackà a podj´ciem s∏u˝by przygotowawczej nie przekracza trzech miesi´cy.
+4. Okres służby kandydackiej zalicza się do okresu służby przygotowawczej, jeżeli przerwa pomiędzy służbą kandydacką a podjęciem służby przygotowawczej nie przekracza trzech miesięcy.
 
-5. Przepisy rozdzia∏ów 8, 10, 11, 13 i 14, dotyczàce funkcjonariuszy s∏u˝bie przygotowawczej, stosuje si´ równie˝ do funkcjonariuszy ws∏u˝bie kandydackiej, z wyjàtkiem przepisów art. 72, 77 ust. 6, art. 86, 87 ust. 4, art. 112 ust. 1, art. 117, 118, 119 ust. 4 iart. 124.
+5. Przepisy rozdziałów 8, 10, 11, 13 i 14, dotyczące funkcjonariuszy służbie przygotowawczej, stosuje się również do funkcjonariuszy wsłużbie kandydackiej, z wyjątkiem przepisów art. 72, 77 ust. 6, art. 86, 87 ust. 4, art. 112 ust. 1, art. 117, 118, 119 ust. 4 iart. 124.
 
-6. Funkcjonariuszowi s∏u˝bie kandydackiej przys∏uguje wokresie tej s∏u˝by prawo do p∏atnego urlopu wypoczynkowego wwymiarze ∏àcznie 20 dni kalendarzowych.
+6. Funkcjonariuszowi służbie kandydackiej przysługuje wokresie tej służby prawo do płatnego urlopu wypoczynkowego wwymiarze łącznie 20 dni kalendarzowych.
 
-7. Funkcjonariuszowi s∏u˝bie kandydackiej przys∏uguje zwrot kosztów podró˝y na trasie od sta∏ego miejsca pe∏nienia s∏u˝by do miejscowoÊci stanowiàcej cel podró˝y izpowrotem.
+7. Funkcjonariuszowi służbie kandydackiej przysługuje zwrot kosztów podróży na trasie od stałego miejsca pełnienia służby do miejscowości stanowiącej cel podróży izpowrotem.
 
-8. Minister w∏aÊciwy do spraw wewn´trznych okreÊli, drodze rozporzàdzenia, warunki zwrotu kosztów podró˝y, októrych mowa wust. 7. Rozporzàdzenie powinno okreÊliç rodzaje Êrodków transportu, którymi przejazd uprawnia do zwrotu kosztów podró˝y, podstaw´ obliczania nale˝noÊci ztego tytu∏u oraz terminy ich wyp∏aty.
+8. Minister właściwy do spraw wewnętrznych określi, drodze rozporządzenia, warunki zwrotu kosztów podróży, októrych mowa wust. 7. Rozporządzenie powinno określić rodzaje środków transportu, którymi przejazd uprawnia do zwrotu kosztów podróży, podstawę obliczania należności ztego tytułu oraz terminy ich wypłaty.
 
-1. Osobne kwatery sta∏e pozostajàce wdyspozycji ministra w∏aÊciwego do spraw wewn´trznych lub podleg∏ych mu organów, przydzielone ˝o∏nierzom zawodowym Wojsk Ochrony Pogranicza, którzy zostali przyj´ci do s∏u˝by Stra˝y Granicznej, stajà si´, z mocy prawa, lokalami mieszkalnymi rozumieniu niniejszej ustawy.
+1. Osobne kwatery stałe pozostające wdyspozycji ministra właściwego do spraw wewnętrznych lub podległych mu organów, przydzielone żołnierzom zawodowym Wojsk Ochrony Pogranicza, którzy zostali przyjęci do służby Straży Granicznej, stają się, z mocy prawa, lokalami mieszkalnymi rozumieniu niniejszej ustawy.
 
-2. Je˝eli norma zaludnienia przydzielonej osobnej kwatery sta∏ej, o której mowa ust. 1, jest wy˝sza od normy zaludnienia przys∏ugujàcej osobie wymienionej ust. 1 jako funkcjonariuszowi, osoba ta zachowuje prawo do tej normy wzajmowanym dotychczas lokalu mieszkalnym.
+2. Jeżeli norma zaludnienia przydzielonej osobnej kwatery stałej, o której mowa ust. 1, jest wyższa od normy zaludnienia przysługującej osobie wymienionej ust. 1 jako funkcjonariuszowi, osoba ta zachowuje prawo do tej normy wzajmowanym dotychczas lokalu mieszkalnym.
 
-3. Uprawnienia nabyte na podstawie ustawy zdnia 20 maja 1976 r. ozakwaterowaniu si∏ zbrojnych (Dz. U. z1992 r. 5, poz. 19 iz1994 r. 10, poz. 36) przez ˝o∏nierzy zawodowych Wojsk Ochrony Pogranicza, którzy zostali przyj´ci do s∏u˝by wStra˝y Granicznej, stajà si´, z mocy prawa, uprawnieniami mieszkaniowymi funkcjonariuszy Stra˝y Granicznej rozumieniu niniejszej ustawy.
+3. Uprawnienia nabyte na podstawie ustawy zdnia 20 maja 1976 r. ozakwaterowaniu sił zbrojnych (Dz. U. z1992 r. 5, poz. 19 iz1994 r. 10, poz. 36) przez żołnierzy zawodowych Wojsk Ochrony Pogranicza, którzy zostali przyjęci do służby wStraży Granicznej, stają się, z mocy prawa, uprawnieniami mieszkaniowymi funkcjonariuszy Straży Granicznej rozumieniu niniejszej ustawy.
 
-4. Przepisy ust. 2 i3 stosuje si´ tak˝e do osób, októrych mowa wust. 1, je˝eli osoby te uzyska∏y policyjne zaopatrzenie emerytalne.
+4. Przepisy ust. 2 i3 stosuje się także do osób, októrych mowa wust. 1, jeżeli osoby te uzyskały policyjne zaopatrzenie emerytalne.
 
-5. W stosunku do funkcjonariuszy, którzy poprzednio byli ˝o∏nierzami zawodowymi i otrzymali osobne kwatery sta∏e, z zastrze˝eniem ust. 1—4, stosuje si´ przepisy o zakwaterowaniu si∏ zbrojnych zakresie sprzeda˝y osobnych kwater sta∏ych.
+5. W stosunku do funkcjonariuszy, którzy poprzednio byli żołnierzami zawodowymi i otrzymali osobne kwatery stałe, z zastrzeżeniem ust. 1—4, stosuje się przepisy o zakwaterowaniu sił zbrojnych zakresie sprzedaży osobnych kwater stałych.
 
-**Art. 155.** (pomini´ty). 263)
+**Art. 155.** (pominięty). 263)
 
-**Art. 156.** Traci moc dekret zdnia 23 kwietnia 1953 r. obanderze jednostek p∏ywajàcych Wojsk Ochrony Pogranicza (Dz. U. 23, poz. 94).
+**Art. 156.** Traci moc dekret zdnia 23 kwietnia 1953 r. obanderze jednostek pływających Wojsk Ochrony Pogranicza (Dz. U. 23, poz. 94).
 
-**Art. 157.** Ustawa wchodzi w˝ycie zdniem og∏oszenia. WYROK TRYBUNA¸U KONSTYTUCYJNEGO zdnia 30 wrzeÊnia 2002 r. sygn. akt K.41/01. Trybuna∏ Konstytucyjny wsk∏adzie: Jerzy Ciemniewski, Wies∏aw Johann przewodniczàcy, Marian Grzybowski, towców niepe∏nosprawnych, zdobywców medali na Sejmu iProkuratora Generalnego, na rozprawie wdniu igrzyskach paraolimpijskich, jest zgodny z art. 2 30 wrzeÊnia 2002 r. wniosku Rzecznika Praw Obywatel- iart. 32 Konstytucji Rzeczypospolitej Polskiej. skich ozbadanie zgodnoÊci art. 28aust. 1 ustawy zdnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. 81, poz. 889, ze zm.), zakresie, jakim pomija sportowców niepe∏nosprawnych, zdobywców medali Wies∏aw Johann na igrzyskach paraolimpijskch, zart. 2 iart. 32 Konstytucji Rzeczypospolitej Polskiej oraz z art. 14 Europej- Jerzy Ciemniewski Marian Grzybowski skiej Konwencji oochronie praw cz∏owieka ipodstawowych wolnoÊci Ewa ¸´towska Marian Zdyb ISSN 0867-3411 Cena brutto 11,80 z∏
+**Art. 157.** Ustawa wchodzi wżycie zdniem ogłoszenia. WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 30 września 2002 r. sygn. akt K.41/01. Trybunał Konstytucyjny wskładzie: Jerzy Ciemniewski, Wiesław Johann przewodniczący, Marian Grzybowski, towców niepełnosprawnych, zdobywców medali na Sejmu iProkuratora Generalnego, na rozprawie wdniu igrzyskach paraolimpijskich, jest zgodny z art. 2 30 września 2002 r. wniosku Rzecznika Praw Obywatel- iart. 32 Konstytucji Rzeczypospolitej Polskiej. skich ozbadanie zgodności art. 28aust. 1 ustawy zdnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2001 r. 81, poz. 889, ze zm.), zakresie, jakim pomija sportowców niepełnosprawnych, zdobywców medali Wiesław Johann na igrzyskach paraolimpijskch, zart. 2 iart. 32 Konstytucji Rzeczypospolitej Polskiej oraz z art. 14 Europej- Jerzy Ciemniewski Marian Grzybowski skiej Konwencji oochronie praw człowieka ipodstawowych wolności Ewa Ęętowska Marian Zdyb ISSN 0867-3411 Cena brutto 11,80 zł
 

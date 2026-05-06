@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# rzàdu gminy, nale˝y przez to rozumieç wójta (burmi- gminy wkadencji, wczasie której ustawa wesz∏a w˝ycie, strza, prezydenta miasta). dzia∏ajàcy na podstawie przepisów dotychczasowych.
+# rządu gminy, należy przez to rozumieć wójta (burmi- gminy wkadencji, wczasie której ustawa weszła wżycie, strza, prezydenta miasta). działający na podstawie przepisów dotychczasowych.
 
 | Pole | Wartość |
 |---|---|
@@ -24,214 +24,224 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021130985) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/985/text.pdf) |
 
-3. Ilekroç dotychczasowych przepisach jest mo- Art. 101. Pierwsze wybory wójtów (burmistrzów, wa ozadaniach ikompetencjach przewodniczàcego za- prezydentów miast) na podstawie przepisów niniejszej rzàdu jednostki samorzàdu terytorialnego gminie, ustawy przeprowadza si´ ∏àcznie zwyborami do organale˝y przez to rozumieç odpowiednio zadania i kom- nów stanowiàcych jednostek samorzàdu terytorialnepetencje wójta (burmistrza, prezydenta miasta). go przeprowadzonymi zwiàzku zakoƒczeniem kadencji tych organów wybranych wdniu 11 paêdzierni4. Z dniem wejÊcia ˝ycie ustawy nie stosuje si´ ka 1998 r.
-przepisów zobowiàzujàcych wójta (burmistrza, prezydenta miasta) do uzyskania stanowiska opinii za- Art. 102. Ustawa wchodzi w˝ycie po up∏ywie 14 dni rzàdu gminy, nie wy∏àczajàc indywidualnych spraw od dnia og∏oszenia, tym ˝e przepisy art. 28—81, rozstrzyganych drodze decyzji administracyjnej art.82 pkt 1 i6 oraz art. 83—99 wchodzà w˝ycie wdniu postanowienia. wyborów do organów stanowiàcych jednostek samorzàdu terytorialnego przeprowadzonych zwiàzku
+3. Ilekroć dotychczasowych przepisach jest mo- Art. 101. Pierwsze wybory wójtów (burmistrzów, wa ozadaniach ikompetencjach przewodniczącego za- prezydentów miast) na podstawie przepisów niniejszej rządu jednostki samorządu terytorialnego gminie, ustawy przeprowadza się łącznie zwyborami do organależy przez to rozumieć odpowiednio zadania i kom- nów stanowiących jednostek samorządu terytorialnepetencje wójta (burmistrza, prezydenta miasta). go przeprowadzonymi związku zakończeniem kadencji tych organów wybranych wdniu 11 paêdzierni4. Z dniem wejścia życie ustawy nie stosuje się ka 1998 r.
+przepisów zobowiązujących wójta (burmistrza, prezydenta miasta) do uzyskania stanowiska opinii za- Art. 102. Ustawa wchodzi wżycie po upływie 14 dni rządu gminy, nie wyłączając indywidualnych spraw od dnia ogłoszenia, tym że przepisy art. 28—81, rozstrzyganych drodze decyzji administracyjnej art.82 pkt 1 i6 oraz art. 83—99 wchodzą wżycie wdniu postanowienia. wyborów do organów stanowiących jednostek samorządu terytorialnego przeprowadzonych związku
 
-**Art. 100.** Do czasu obj´cia obowiàzków przez wójta zakoƒczeniem kadencji tych organów wybranych (burmistrza, prezydenta miasta) wybranego trybie wdniu 11 paêdziernika 1998 r. okreÊlonym niniejszà ustawà funkcj´ organu wykonawczego gminy pe∏ni zarzàd gminy, wybrany przez rad´ Prezydent Rzeczypospolitej Polskiej:A. KwaÊniewski USTAWA zdnia 21 czerwca 2002 r. ostanie wyjàtkowym. Rozdzia∏ 1 Przepisy ogólne
+**Art. 100.** Do czasu objęcia obowiązków przez wójta zakończeniem kadencji tych organów wybranych (burmistrza, prezydenta miasta) wybranego trybie wdniu 11 paêdziernika 1998 r. określonym niniejszą ustawą funkcję organu wykonawczego gminy pełni zarząd gminy, wybrany przez radę Prezydent Rzeczypospolitej Polskiej:A. Kwaśniewski USTAWA zdnia 21 czerwca 2002 r. ostanie wyjątkowym.
 
-**Art. 1.** Ustawa okreÊla tryb wprowadzenia izniesienia stanu wyjàtkowego, atak˝e zasady dzia∏ania organów w∏adzy publicznej oraz zakres, wjakim mogà byç ograniczone wolnoÊci i prawa cz∏owieka i obywatela wczasie stanu wyjàtkowego.
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa tryb wprowadzenia izniesienia stanu wyjątkowego, atakże zasady działania organów władzy publicznej oraz zakres, wjakim mogą być ograniczone wolności i prawa człowieka i obywatela wczasie stanu wyjątkowego.
 
 **Art. 2.**
 
-1. W sytuacji szczególnego zagro˝enia konstytucyjnego ustroju paƒstwa, bezpieczeƒstwa obywateli porzàdku publicznego, wtym spowodowanego dzia∏aniami terrorystycznymi, które nie mo˝e byç usuni´te poprzez u˝ycie zwyk∏ych Êrodków konstytucyjnych, Rada Ministrów mo˝e podjàç uchwa∏´ o skierowaniu do Prezydenta Rzeczypospolitej Polskiej wniosku owprowadzenie stanu wyjàtkowego.
+1. W sytuacji szczególnego zagrożenia konstytucyjnego ustroju państwa, bezpieczeństwa obywateli porządku publicznego, wtym spowodowanego działaniami terrorystycznymi, które nie może być usunięte poprzez użycie zwykłych środków konstytucyjnych, Rada Ministrów może podjąć uchwałę o skierowaniu do Prezydenta Rzeczypospolitej Polskiej wniosku owprowadzenie stanu wyjątkowego.
 
-2. We wniosku, októrym mowa wust. 1, Rada Ministrów okreÊla przyczyny wprowadzenia i niezb´dny kresie dopuszczonym niniejszà ustawà, rodzaje ograniczeƒ wolnoÊci ipraw cz∏owieka iobywatela.
+2. We wniosku, októrym mowa wust. 1, Rada Ministrów określa przyczyny wprowadzenia i niezbędny kresie dopuszczonym niniejszą ustawą, rodzaje ograniczeń wolności ipraw człowieka iobywatela.
 
 **Art. 3.**
 
-1. Prezydent Rzeczypospolitej Polskiej niezw∏ocznie rozpatruje wniosek, o którym mowa art. 2 ust. 1, anast´pnie wydaje rozporzàdzenie owprowadzeniu stanu wyjàtkowego na czas oznaczony nie d∏u˝szy ni˝ 90 dni postanawia odmówiç wydania takiego rozporzàdzenia. Rozporzàdzenie owprowadzeniu stanu wyjàtkowego Prezydent Rzeczypospolitej Polskiej przedstawia Sejmowi wciàgu 48 godzin od jego podpisania.
+1. Prezydent Rzeczypospolitej Polskiej niezwłocznie rozpatruje wniosek, o którym mowa art. 2 ust. 1, anastępnie wydaje rozporządzenie owprowadzeniu stanu wyjątkowego na czas oznaczony nie dłuższy niż 90 dni postanawia odmówić wydania takiego rozporządzenia. Rozporządzenie owprowadzeniu stanu wyjątkowego Prezydent Rzeczypospolitej Polskiej przedstawia Sejmowi wciągu 48 godzin od jego podpisania.
 
-2. W rozporzàdzeniu o wprowadzeniu stanu wyjàtkowego okreÊla si´ przyczyny wprowadzenia, czas trwania i obszar, na jakim wprowadza si´ stan wyjàtkowy, oraz, wzakresie dopuszczonym niniejszà ustawà, rodzaje ograniczeƒ wolnoÊci ipraw cz∏owieka iobywatela.
+2. W rozporządzeniu o wprowadzeniu stanu wyjątkowego określa się przyczyny wprowadzenia, czas trwania i obszar, na jakim wprowadza się stan wyjątkowy, oraz, wzakresie dopuszczonym niniejszą ustawą, rodzaje ograniczeń wolności ipraw człowieka iobywatela.
 
 **Art. 4.**
 
-1. Stan wyjàtkowy obowiàzuje od dnia og∏oszenia rozporzàdzenia, o którym mowa art. 3 ust. 1, wDzienniku Rzeczypospolitej Polskiej. skiej, uchwa∏´ Sejmu wtej sprawie niezw∏ocznie og∏asza si´ wDzienniku Rzeczypospolitej Polskiej.
+1. Stan wyjątkowy obowiązuje od dnia ogłoszenia rozporządzenia, o którym mowa art. 3 ust. 1, wDzienniku Rzeczypospolitej Polskiej. skiej, uchwałę Sejmu wtej sprawie niezwłocznie ogłasza się wDzienniku Rzeczypospolitej Polskiej.
 
-3. Rozporzàdzenie Prezydenta Rzeczypospolitej Polskiej owprowadzeniu stanu wyjàtkowego oraz inne akty prawne dotyczàce tego stanu podaje si´ do publicznej wiadomoÊci, drodze obwieszczenia w∏aÊciwego wojewody, przez rozplakatowanie miejscach publicznych, atak˝e wsposób zwyczajowo przyj´ty na danym obszarze.
+3. Rozporządzenie Prezydenta Rzeczypospolitej Polskiej owprowadzeniu stanu wyjątkowego oraz inne akty prawne dotyczące tego stanu podaje się do publicznej wiadomości, drodze obwieszczenia właściwego wojewody, przez rozplakatowanie miejscach publicznych, atakże wsposób zwyczajowo przyjęty na danym obszarze.
 
 **Art. 5.**
 
-1. Je˝eli pomimo zbli˝ajàcego si´ up∏ywu czasu, na jaki zosta∏ wprowadzony stan wyjàtkowy, nie usta∏y przyczyny wprowadzenia tego stanu oraz nie zosta∏o przywrócone normalne funkcjonowanie paƒstwa, Prezydent Rzeczypospolitej Polskiej mo˝e, wdrodze rozporzàdzenia, przed∏u˝yç czas trwania stanu wyjàtkowego na okres nie d∏u˝szy ni˝ 60 dni.
+1. Jeżeli pomimo zbliżającego się upływu czasu, na jaki został wprowadzony stan wyjątkowy, nie ustały przyczyny wprowadzenia tego stanu oraz nie zostało przywrócone normalne funkcjonowanie państwa, Prezydent Rzeczypospolitej Polskiej może, wdrodze rozporządzenia, przedłużyć czas trwania stanu wyjątkowego na okres nie dłuższy niż 60 dni.
 
-2. Prezydent Rzeczypospolitej Polskiej, na wniosek Rady Ministrów, drodze rozporzàdzenia, znosi stan wyjàtkowy przed up∏ywem czasu, na jaki zosta∏ wprowadzony, je˝eli ustanà przyczyny wprowadzenia tego stanu oraz zostanie przywrócone normalne funkcjonowanie paƒstwa.
+2. Prezydent Rzeczypospolitej Polskiej, na wniosek Rady Ministrów, drodze rozporządzenia, znosi stan wyjątkowy przed upływem czasu, na jaki został wprowadzony, jeżeli ustaną przyczyny wprowadzenia tego stanu oraz zostanie przywrócone normalne funkcjonowanie państwa.
 
-3. Przepisy art. 2—4 stosuje si´ odpowiednio do rozporzàdzenia, októrym mowa wust. 1.
+3. Przepisy art. 2—4 stosuje się odpowiednio do rozporządzenia, októrym mowa wust. 1.
 
-4. Przepisy art. 4 ust. 1 i3 stosuje si´ odpowiednio do rozporzàdzenia, októrym mowa wust. 2.
+4. Przepisy art. 4 ust. 1 i3 stosuje się odpowiednio do rozporządzenia, októrym mowa wust. 2.
 
-**Art. 6.** Redaktorzy naczelni dzienników oraz nadawcy programów radiowych i telewizyjnych sà obowiàzani do niezw∏ocznego, nieodp∏atnego podania do publicznej wiadomoÊci rozporzàdzenia Prezydenta Rzeczypospolitej Polskiej o wprowadzeniu stanu wyjàtkowego i innych aktów prawnych dotyczàcych tego stanu, przekazanych im przez wojewod´ w∏aÊciwego ze wzgl´du na siedzib´ redakcji nadawcy.
+**Art. 6.** Redaktorzy naczelni dzienników oraz nadawcy programów radiowych i telewizyjnych są obowiązani do niezwłocznego, nieodpłatnego podania do publicznej wiadomości rozporządzenia Prezydenta Rzeczypospolitej Polskiej o wprowadzeniu stanu wyjątkowego i innych aktów prawnych dotyczących tego stanu, przekazanych im przez wojewodę właściwego ze względu na siedzibę redakcji nadawcy.
 
-**Art. 7.** Minister w∏aÊciwy do spraw zagranicznych notyfikuje Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych oraz Sekretarzowi Generalnemu Rady Europy wprowadzenie izniesienie stanu wyjàtkowego. Rozdzia∏ 2 Zasady dzia∏ania organów w∏adzy publicznej
+**Art. 7.** Minister właściwy do spraw zagranicznych notyfikuje Sekretarzowi Generalnemu Organizacji Narodów Zjednoczonych oraz Sekretarzowi Generalnemu Rady Europy wprowadzenie izniesienie stanu wyjątkowego.
 
-**Art. 8.** Wczasie stanu wyjàtkowego organy w∏adzy publicznej dzia∏ajà wdotychczasowych strukturach organizacyjnych paƒstwa iwramach przys∏ugujàcych im kompetencji, zastrze˝eniem przepisów niniejszej ustawy.
+#### Rozdział 2 Zasady działania organów władzy publicznej
 
-**Art. 9.** Dzia∏ania przywracajàce konstytucyjny ustrój paƒstwa, bezpieczeƒstwo obywateli porzà1) Prezes Rady Ministrów przypadku wprowadzenia stanu wyjàtkowego na obszarze wi´kszym ni˝ obszar jednego województwa,
+**Art. 8.** Wczasie stanu wyjątkowego organy władzy publicznej działają wdotychczasowych strukturach organizacyjnych państwa iwramach przysługujących im kompetencji, zastrzeżeniem przepisów niniejszej ustawy.
 
-**Art. 10.** Prezes Rady Ministrów jest obowiàzany do informowania na bie˝àco Prezydenta Rzeczypospolitej Polskiej oskutkach wprowadzenia stanu wyjàtkowego oraz o rodzaju i rezultatach dzia∏aƒ podejmowanych celu przywrócenia normalnego funkcjonowania paƒstwa.
+**Art. 9.** Działania przywracające konstytucyjny ustrój państwa, bezpieczeństwo obywateli porzą1) Prezes Rady Ministrów przypadku wprowadzenia stanu wyjątkowego na obszarze większym niż obszar jednego województwa,
+
+**Art. 10.** Prezes Rady Ministrów jest obowiązany do informowania na bieżąco Prezydenta Rzeczypospolitej Polskiej oskutkach wprowadzenia stanu wyjątkowego oraz o rodzaju i rezultatach działań podejmowanych celu przywrócenia normalnego funkcjonowania państwa.
 
 **Art. 11.**
 
-1. W czasie stanu wyjàtkowego Prezydent Rzeczypospolitej Polskiej, na wniosek Prezesa Rady Ministrów, mo˝e postanowiç ou˝yciu oddzia∏ów ipododdzia∏ów Si∏ Zbrojnych Rzeczypospolitej Polskiej do przywrócenia normalnego funkcjonowania paƒstwa, je˝eli dotychczas zastosowane si∏y iÊrodki zosta∏y wyczerpane.
+1. W czasie stanu wyjątkowego Prezydent Rzeczypospolitej Polskiej, na wniosek Prezesa Rady Ministrów, może postanowić oużyciu oddziałów ipododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej do przywrócenia normalnego funkcjonowania państwa, jeżeli dotychczas zastosowane siły iśrodki zostały wyczerpane.
 
-2. U˝ycie oddzia∏ów i pododdzia∏ów Si∏ Zbrojnych Rzeczypospolitej Polskiej, októrym mowa wust. 1, nie mo˝e zagroziç ich zdolnoÊci do realizacji zadaƒ wynikajàcych Konstytucji Rzeczypospolitej Polskiej i ratyfikowanych umów mi´dzynarodowych.
+2. Użycie oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej, októrym mowa wust. 1, nie może zagrozić ich zdolności do realizacji zadań wynikających Konstytucji Rzeczypospolitej Polskiej i ratyfikowanych umów międzynarodowych.
 
-3. Wprzypadku, októrym mowa wust. 1, oddzia∏y i pododdzia∏y Si∏ Zbrojnych Rzeczypospolitej Polskiej pozostajà pod dowództwem prze∏o˝onych s∏u˝bowych iwykonujà zadania wyznaczone przez Ministra Obrony Narodowej wuzgodnieniu zministrem w∏aÊciwym do spraw wewn´trznych. ˚o∏nierzom wyznaczonym do tych oddzia∏ów ipododdzia∏ów przys∏ugujà, wzakresie niezb´dnym do wykonania ich zadaƒ, uprawnienia policjantów okreÊlone art. 15—17 ustawy dnia 6kwietnia 1990 r. oPolicji (Dz. U. z2002 r. 7, poz. 58, 19, poz. 185, 74, poz. 676, 81, poz. 731 i 113, poz. 984).
+3. Wprzypadku, októrym mowa wust. 1, oddziały i pododdziały Sił Zbrojnych Rzeczypospolitej Polskiej pozostają pod dowództwem przełożonych służbowych iwykonują zadania wyznaczone przez Ministra Obrony Narodowej wuzgodnieniu zministrem właściwym do spraw wewnętrznych. ˚ołnierzom wyznaczonym do tych oddziałów ipododdziałów przysługują, wzakresie niezbędnym do wykonania ich zadań, uprawnienia policjantów określone art. 15—17 ustawy dnia 6kwietnia 1990 r. oPolicji (Dz. U. z2002 r. 7, poz. 58, 19, poz. 185, 74, poz. 676, 81, poz. 731 i 113, poz. 984).
 
-4. Rada Ministrów, wdrodze rozporzàdzenia, okreÊli szczegó∏owe zasady u˝ycia oddzia∏ów i pododdzia∏ów Si∏ Zbrojnych Rzeczypospolitej Polskiej czasie stanu wyjàtkowego, uwzgl´dniajàc stopieƒ irodzaj zagro˝eƒ stanowiàcych przyczyny wprowadzenia i trwania stanu wyjàtkowego.
+4. Rada Ministrów, wdrodze rozporządzenia, określi szczegółowe zasady użycia oddziałów i pododdziałów Sił Zbrojnych Rzeczypospolitej Polskiej czasie stanu wyjątkowego, uwzględniając stopień irodzaj zagrożeń stanowiących przyczyny wprowadzenia i trwania stanu wyjątkowego.
 
 **Art. 12.**
 
-1. Je˝eli organy gminy, powiatu samorzàdu województwa nie wykazujà dostatecznej skutecznoÊci wykonywaniu zadaƒ publicznych wrealizacji dzia∏aƒ wynikajàcych zprzepisów owprowadzeniu stanu wyjàtkowego, Prezes Rady Ministrów, na wniosek w∏aÊciwego wojewody, mo˝e zawiesiç te organy do czasu zniesienia stanu wyjàtkowego na czas okreÊlony i ustanowiç ich miejsce zarzàd komisaryczny sprawowany przez komisarza rzàdowego.
+1. Jeżeli organy gminy, powiatu samorządu województwa nie wykazują dostatecznej skuteczności wykonywaniu zadań publicznych wrealizacji działań wynikających zprzepisów owprowadzeniu stanu wyjątkowego, Prezes Rady Ministrów, na wniosek właściwego wojewody, może zawiesić te organy do czasu zniesienia stanu wyjątkowego na czas określony i ustanowić ich miejsce zarząd komisaryczny sprawowany przez komisarza rządowego.
 
-2. Komisarza rzàdowego powo∏uje iodwo∏uje Prezes Rady Ministrów na wniosek wojewody.
+2. Komisarza rządowego powołuje iodwołuje Prezes Rady Ministrów na wniosek wojewody.
 
-4. Stan zawieszenia organów gminy, powiatu samorzàdu województwa ustaje up∏ywem czasu okreÊlonego przez Prezesa Rady Ministrów oraz zmocy prawa zdniem zniesienia stanu wyjàtkowego.
+4. Stan zawieszenia organów gminy, powiatu samorządu województwa ustaje upływem czasu określonego przez Prezesa Rady Ministrów oraz zmocy prawa zdniem zniesienia stanu wyjątkowego.
 
-**Art. 13.** W czasie stanu wyjàtkowego organy porzàdku i bezpieczeƒstwa publicznego mogà celu przywrócenia porzàdku publicznego wkroczyç na teren szko∏y wy˝szej bez wezwania przez rektora, którego nale˝y niezw∏ocznie otym zawiadomiç.
+**Art. 13.** W czasie stanu wyjątkowego organy porządku i bezpieczeństwa publicznego mogą celu przywrócenia porządku publicznego wkroczyć na teren szkoły wyższej bez wezwania przez rektora, którego należy niezwłocznie otym zawiadomić.
 
-**Art. 14.** Decyzje wydane przez organy w∏adzy publicznej na podstawie niniejszej ustawy przepisów wykonawczych podlegajà natychmiastowemu wykonaniu. Przepisy o post´powaniu egzekucyjnym administracji stosuje si´ odpowiednio. Rozdzia∏ 3 Zakres ograniczeƒ wolnoÊci ipraw cz∏owieka iobywatela
+**Art. 14.** Decyzje wydane przez organy władzy publicznej na podstawie niniejszej ustawy przepisów wykonawczych podlegają natychmiastowemu wykonaniu. Przepisy o postępowaniu egzekucyjnym administracji stosuje się odpowiednio.
+
+#### Rozdział 3 Zakres ograniczeń wolności ipraw człowieka iobywatela
 
 **Art. 15.**
 
-1. Na obszarze, na którym zosta∏ wprowadzony stan wyjàtkowy, ograniczeniom wolnoÊci ipraw cz∏owieka i obywatela podlegajà wszystkie osoby fizyczne zamieszka∏e przebywajàce tam chocia˝by czasowo, atak˝e ograniczenia te stosuje si´ odpowiednio wobec osób prawnych ijednostek organizacyjnych nieposiadajàcych osobowoÊci prawnej, majàcych siedzib´ prowadzàcych dzia∏alnoÊç na obszarze obj´tym stanem wyjàtkowym. Na podmioty te mogà byç na∏o˝one równie˝ dodatkowe obowiàzki zale˝nie od przyczyny wprowadzenia stanu wyjàtkowego.
+1. Na obszarze, na którym został wprowadzony stan wyjątkowy, ograniczeniom wolności ipraw człowieka i obywatela podlegają wszystkie osoby fizyczne zamieszkałe przebywające tam chociażby czasowo, atakże ograniczenia te stosuje się odpowiednio wobec osób prawnych ijednostek organizacyjnych nieposiadających osobowości prawnej, mających siedzibę prowadzących działalność na obszarze objętym stanem wyjątkowym. Na podmioty te mogą być nałożone również dodatkowe obowiązki zależnie od przyczyny wprowadzenia stanu wyjątkowego.
 
-2. Rodzaje ograniczeƒ wolnoÊci i praw cz∏owieka i obywatela okreÊlone rozporzàdzeniach, o których mowa art. 3 ust. 1 i art. 5 ust. 1, powinny odpowiadaç charakterowi oraz intensywnoÊci zagro˝eƒ stanowiàcych przyczyny wprowadzenia stanu wyjàtkowego, a tak˝e zapewniaç skuteczne przywrócenie normalnego funkcjonowania paƒstwa.
+2. Rodzaje ograniczeń wolności i praw człowieka i obywatela określone rozporządzeniach, o których mowa art. 3 ust. 1 i art. 5 ust. 1, powinny odpowiadać charakterowi oraz intensywności zagrożeń stanowiących przyczyny wprowadzenia stanu wyjątkowego, a także zapewniać skuteczne przywrócenie normalnego funkcjonowania państwa.
 
 **Art. 16.**
 
-1. W czasie stanu wyjàtkowego mogà byç zawieszone prawa do:
+1. W czasie stanu wyjątkowego mogą być zawieszone prawa do:
 
-- **1)** organizowania i przeprowadzania wszelkiego rodzaju zgromadzeƒ,
-- **2)** organizowania i przeprowadzania imprez masowych oraz prowadzonych ramach dzia∏alnoÊci kulturalnej imprez artystycznych i rozrywkowych, nieb´dàcych imprezami masowymi,
-- **3)** strajków pracowniczych i innych form protestu odniesieniu do okreÊlonych kategorii pracowników wokreÊlonych dziedzinach,
-- **4)** strajków i innych ni˝ strajki form akcji protestacyjnych rolników,
-- **5)** akcji protestacyjnych studentów organizowanych przez studenckie samorzàdy, stowarzyszenia organizacje,
-- **6)** zrzeszania si´ poprzez: ków zawodowych, organizacji spo∏eczno-zawodowych rolników, organizacji pracodawców, ruchów obywatelskich oraz innych dobrowolnych zrzeszeƒ ifundacji,
-    - **b)** nakazanie okresowego zaniechania dzia∏alnoÊci zarejestrowanych stowarzyszeƒ, partii politycznych, zwiàzków zawodowych, organizacji spo∏eczno-zawodowych rolników, organizacji pracodawców, ruchów obywatelskich oraz innych dobrowolnych zrzeszeƒ i fundacji, których dzia∏alnoÊç mo˝e zwi´kszyç zagro˝enie konstytucyjnego ustroju paƒstwa, bezpieczeƒstwa obywateli porzàdku publicznego.
+- **1)** organizowania i przeprowadzania wszelkiego rodzaju zgromadzeń,
+- **2)** organizowania i przeprowadzania imprez masowych oraz prowadzonych ramach działalności kulturalnej imprez artystycznych i rozrywkowych, niebędących imprezami masowymi,
+- **3)** strajków pracowniczych i innych form protestu odniesieniu do określonych kategorii pracowników wokreślonych dziedzinach,
+- **4)** strajków i innych niż strajki form akcji protestacyjnych rolników,
+- **5)** akcji protestacyjnych studentów organizowanych przez studenckie samorządy, stowarzyszenia organizacje,
+- **6)** zrzeszania się poprzez: ków zawodowych, organizacji społeczno-zawodowych rolników, organizacji pracodawców, ruchów obywatelskich oraz innych dobrowolnych zrzeszeń ifundacji,
+    - **b)** nakazanie okresowego zaniechania działalności zarejestrowanych stowarzyszeń, partii politycznych, związków zawodowych, organizacji społeczno-zawodowych rolników, organizacji pracodawców, ruchów obywatelskich oraz innych dobrowolnych zrzeszeń i fundacji, których działalność może zwiększyć zagrożenie konstytucyjnego ustroju państwa, bezpieczeństwa obywateli porządku publicznego.
 
-2. Przepis ust. 1 pkt 1 nie dotyczy zgromadzeƒ organizowanych przez koÊcio∏y i inne zwiàzki wyznaniowe oraz organizacje religijne dzia∏ajàce wobr´bie Êwiàtyƒ, budynków koÊcielnych, winnych pomieszczeniach s∏u˝àcych organizowaniu i publicznemu sprawowaniu kultu, atak˝e zgromadzeƒ organizowanych przez organy paƒstwa organy samorzàdu terytorialnego.
+2. Przepis ust. 1 pkt 1 nie dotyczy zgromadzeń organizowanych przez kościoły i inne związki wyznaniowe oraz organizacje religijne działające wobrębie świątyń, budynków kościelnych, winnych pomieszczeniach służących organizowaniu i publicznemu sprawowaniu kultu, atakże zgromadzeń organizowanych przez organy państwa organy samorządu terytorialnego.
 
-3. Pozwolenia na zbiórki publiczne na obszarze, na którym wprowadzono stan wyjàtkowy, mogà byç udzielane tylko wówczas, gdy wocenie organu w∏aÊciwego do udzielenia pozwolenia przeprowadzenie zbiórki nie utrudni realizacji celów wprowadzenia stanu wyjàtkowego.
+3. Pozwolenia na zbiórki publiczne na obszarze, na którym wprowadzono stan wyjątkowy, mogą być udzielane tylko wówczas, gdy wocenie organu właściwego do udzielenia pozwolenia przeprowadzenie zbiórki nie utrudni realizacji celów wprowadzenia stanu wyjątkowego.
 
 **Art. 17.**
 
-1. W czasie stanu wyjàtkowego mo˝e byç odosobniona osoba majàca ukoƒczone 18 lat, stosunku do której zachodzi uzasadnione podejrzenie, ˝e pozostajàc na wolnoÊci b´dzie prowadzi∏a dzia∏alnoÊç zagra˝ajàcà konstytucyjnemu ustrojowi paƒstwa, bezpieczeƒstwu obywateli porzàdkowi publicznemu albo gdy odosobnienie jest niezb´dne dla zapobie˝enia pope∏nienia czynu karalnego uniemo˝liwienia ucieczki po jego pope∏nieniu. Nie narusza to immunitetów wynikajàcych zodr´bnych przepisów.
+1. W czasie stanu wyjątkowego może być odosobniona osoba mająca ukończone 18 lat, stosunku do której zachodzi uzasadnione podejrzenie, że pozostając na wolności będzie prowadziła działalność zagrażającą konstytucyjnemu ustrojowi państwa, bezpieczeństwu obywateli porządkowi publicznemu albo gdy odosobnienie jest niezbędne dla zapobieżenia popełnienia czynu karalnego uniemożliwienia ucieczki po jego popełnieniu. Nie narusza to immunitetów wynikających zodrębnych przepisów.
 
-2. Odosobniona mo˝e byç równie˝ osoba, która ukoƒczy∏a 17 lat, je˝eli przeprowadzona uprzednio znià rozmowa ostrzegawcza okaza∏a si´ nieskuteczna.
+2. Odosobniona może być również osoba, która ukończyła 17 lat, jeżeli przeprowadzona uprzednio znią rozmowa ostrzegawcza okazała się nieskuteczna.
 
-3. Odosobnienie nast´puje na podstawie decyzji wojewody w∏aÊciwego ze wzgl´du na miejsce pobytu sta∏ego czasowego osoby odosobnionej i jest wykonywane przez w∏aÊciwego komendanta wojewódzkiego Policji, wdrodze zatrzymania tej osoby iprzymusowego doprowadzenia do oÊrodka odosobnienia podleg∏ego Ministrowi SprawiedliwoÊci.
+3. Odosobnienie następuje na podstawie decyzji wojewody właściwego ze względu na miejsce pobytu stałego czasowego osoby odosobnionej i jest wykonywane przez właściwego komendanta wojewódzkiego Policji, wdrodze zatrzymania tej osoby iprzymusowego doprowadzenia do ośrodka odosobnienia podległego Ministrowi Sprawiedliwości.
 
-4. Wojewoda, októrym mowa wust. 3, wszczyna post´powanie wsprawach odosobnienia na wniosek w∏aÊciwych organów prokuratury, Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Stra˝y Granicznej, ˚andarmerii Wojskowej Wojskowych S∏u˝b Informacyjnych.
+4. Wojewoda, októrym mowa wust. 3, wszczyna postępowanie wsprawach odosobnienia na wniosek właściwych organów prokuratury, Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej, ˚andarmerii Wojskowej Wojskowych Służb Informacyjnych.
 
-5. Decyzj´ sprawie odosobnienia dor´cza si´ osobie odosobnionej niezw∏ocznie, nie póêniej ni˝
+5. Decyzję sprawie odosobnienia doręcza się osobie odosobnionej niezwłocznie, nie póêniej niż
 
-6. Decyzje wsprawach odosobnienia sà ostateczne i mogà byç zaskar˝one bezpoÊrednio do Naczelnego Sàdu Administracyjnego trybie i na zasadach okreÊlonych wodr´bnych przepisach, ztym ˝e sàd wyznacza rozpraw´ wterminie 7 dni od daty otrzymania skargi. Nie stosuje si´ przepisu art. 34 ust. 3 ustawy zdnia 11 maja 1995 r. oNaczelnym Sàdzie Administracyjnym (Dz. U. 74, poz. 368 iNr 104, poz. 515, z1997 r. 75, poz. 471, 106, poz. 679, 114, poz. 739 i 144, poz. 971, 1998 r. 162, poz. 1126, 1999 r. 75, poz.853, 2000 r. 2, poz. 5, 48, poz. 552, 60, poz. 704 i 91, poz. 1008, 2001 r. 49, poz. 508 i509, 98, poz. 1070 iNr 101, poz. 1113 oraz 2002 r. 113, poz. 984).
+6. Decyzje wsprawach odosobnienia są ostateczne i mogą być zaskarżone bezpośrednio do Naczelnego Sądu Administracyjnego trybie i na zasadach określonych wodrębnych przepisach, ztym że sąd wyznacza rozprawę wterminie 7 dni od daty otrzymania skargi. Nie stosuje się przepisu art. 34 ust. 3 ustawy zdnia 11 maja 1995 r. oNaczelnym Sądzie Administracyjnym (Dz. U. 74, poz. 368 iNr 104, poz. 515, z1997 r. 75, poz. 471, 106, poz. 679, 114, poz. 739 i 144, poz. 971, 1998 r. 162, poz. 1126, 1999 r. 75, poz.853, 2000 r. 2, poz. 5, 48, poz. 552, 60, poz. 704 i 91, poz. 1008, 2001 r. 49, poz. 508 i509, 98, poz. 1070 iNr 101, poz. 1113 oraz 2002 r. 113, poz. 984).
 
-7. Wczasie odosobnienia nie mo˝e byç rozwiàzany stosunek pracy osobà odosobnionà, chyba ˝e przed odosobnieniem zaistnia∏y jej winy okolicznoÊci uzasadniajàce rozwiàzanie stosunku pracy bez wypowiedzenia. Termin do wniesienia Êrodków prawnych przeciwko rozwiàzaniu stosunku pracy liczy si´ wtych przypadkach od dnia zakoƒczenia odosobnienia.
+7. Wczasie odosobnienia nie może być rozwiązany stosunek pracy osobą odosobnioną, chyba że przed odosobnieniem zaistniały jej winy okoliczności uzasadniające rozwiązanie stosunku pracy bez wypowiedzenia. Termin do wniesienia środków prawnych przeciwko rozwiązaniu stosunku pracy liczy się wtych przypadkach od dnia zakończenia odosobnienia.
 
-8. Do pobytu osób odosobnionych woÊrodkach odosobnienia stosuje si´ odpowiednio przepisy Kodeksu karnego wykonawczego dotyczàce praw iobowiàzków tymczasowo aresztowanych, wykonywania tymczasowego aresztowania oraz nadzoru penitencjarnego.
+8. Do pobytu osób odosobnionych wośrodkach odosobnienia stosuje się odpowiednio przepisy Kodeksu karnego wykonawczego dotyczące praw iobowiązków tymczasowo aresztowanych, wykonywania tymczasowego aresztowania oraz nadzoru penitencjarnego.
 
-9. Minister SprawiedliwoÊci porozumieniu ministrem w∏aÊciwym do spraw wewn´trznych, wdrodze rozporzàdzenia, tworzy i znosi oÊrodki odosobnienia uwzgl´dnieniem odpowiedniego stopnia zabezpieczenia oÊrodków oraz izolacji odosobnionych.
+9. Minister Sprawiedliwości porozumieniu ministrem właściwym do spraw wewnętrznych, wdrodze rozporządzenia, tworzy i znosi ośrodki odosobnienia uwzględnieniem odpowiedniego stopnia zabezpieczenia ośrodków oraz izolacji odosobnionych.
 
 **Art. 18.**
 
-1. Na obszarze obowiàzywania stanu wyjàtkowego na osob´, która ukoƒczy∏a 18 lat, przebywajàcà miejscu publicznym mo˝e byç na∏o˝ony obowiàzek posiadania przy sobie dowodu osobistego innego dokumentu stwierdzajàcego to˝samoÊç, a na osob´ uczàcà si´, która nie ukoƒczy∏a 18 lat legitymacji szkolnej.
+1. Na obszarze obowiązywania stanu wyjątkowego na osobę, która ukończyła 18 lat, przebywającą miejscu publicznym może być nałożony obowiązek posiadania przy sobie dowodu osobistego innego dokumentu stwierdzającego tożsamość, a na osobę uczącą się, która nie ukończyła 18 lat legitymacji szkolnej.
 
-2. Wczasie stanu wyjàtkowego mogà byç wprowadzone nakazy zakazy:
+2. Wczasie stanu wyjątkowego mogą być wprowadzone nakazy zakazy:
 
 - **1)** przebywania opuszczania ustalonym czasie oznaczonych miejsc, obiektów iobszarów,
-- **2)** uzyskania zezwolenia organów administracji publicznej na zmian´ miejsca pobytu sta∏ego iczasowego,
-- **3)** zg∏oszenia ustalonym terminie organom ewidencji ludnoÊci Policji przybycia do okreÊlonej miejscowoÊci,
-- **4)** utrwalania za pomocà Êrodków technicznych wyglàdu innych cech okreÊlonych miejsc, obiektów obszarów.
+- **2)** uzyskania zezwolenia organów administracji publicznej na zmianę miejsca pobytu stałego iczasowego,
+- **3)** zgłoszenia ustalonym terminie organom ewidencji ludności Policji przybycia do określonej miejscowości,
+- **4)** utrwalania za pomocą środków technicznych wyglądu innych cech określonych miejsc, obiektów obszarów.
 
 **Art. 19.**
 
-1. Wczasie stanu wyjàtkowego na wezwanie organów prokuratury, Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Stra˝y Granicznej, ˚andarmerii Wojskowej Wojskowych S∏u˝b Informacyjnych, osoba majàca ukoƒczone 17 lat jest obowiàzana do
+1. Wczasie stanu wyjątkowego na wezwanie organów prokuratury, Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej, ˚andarmerii Wojskowej Wojskowych Służb Informacyjnych, osoba mająca ukończone 17 lat jest obowiązana do
 
-2. Do udzia∏u rozmowie ostrzegawczej mo˝na wezwaç tylko takà osob´, co do której zachodzi uzasadnione podejrzenie, ˝e nie b´dzie przestrzegaç porzàdku prawnego.
+2. Do udziału rozmowie ostrzegawczej można wezwać tylko taką osobę, co do której zachodzi uzasadnione podejrzenie, że nie będzie przestrzegać porządku prawnego.
 
-3. Je˝eli osoba wezwana na rozmow´ ostrzegawczà nie zg∏osi si´ dobrowolnie na wskazane miejsce, afakt otrzymania wezwania nie budzi wàtpliwoÊci, mo˝e byç przymusowo doprowadzona przez organ wzywajàcy.
+3. Jeżeli osoba wezwana na rozmowę ostrzegawczą nie zgłosi się dobrowolnie na wskazane miejsce, afakt otrzymania wezwania nie budzi wątpliwości, może być przymusowo doprowadzona przez organ wzywający.
 
-4. Je˝eli podejrzenie, októrym mowa wust. 2, dotyczy osoby niemajàcej ukoƒczonych 17 lat, wezwanie przekazuje si´ i przeprowadza rozmow´ ostrzegawczà zrodzicami rodzicem albo opiekunem prawnym tej osoby. Przepis ust. 3 stosuje si´ odpowiednio.
+4. Jeżeli podejrzenie, októrym mowa wust. 2, dotyczy osoby niemającej ukończonych 17 lat, wezwanie przekazuje się i przeprowadza rozmowę ostrzegawczą zrodzicami rodzicem albo opiekunem prawnym tej osoby. Przepis ust. 3 stosuje się odpowiednio.
 
-5. Rozmowa ostrzegawcza polega na udzieleniu pouczenia o prawnych i osobistych skutkach nieprzestrzegania porzàdku prawnego oraz niestosowania si´ do ustalonych na czas stanu wyjàtkowego ograniczeƒ wolnoÊci ipraw cz∏owieka iobywatela. Osoby obecne przy rozmowie potwierdzajà przebieg rozmowy podpisami na protokóle.
+5. Rozmowa ostrzegawcza polega na udzieleniu pouczenia o prawnych i osobistych skutkach nieprzestrzegania porządku prawnego oraz niestosowania się do ustalonych na czas stanu wyjątkowego ograniczeń wolności ipraw człowieka iobywatela. Osoby obecne przy rozmowie potwierdzają przebieg rozmowy podpisami na protokóle.
 
-6. W przypadku okreÊlonym ust. 4, rozmowa ostrzegawcza odbywa si´ obecnoÊci osoby, której podejrzenie dotyczy, je˝eli takie jest ˝yczenie rodzica opiekuna prawnego tej osoby.
+6. W przypadku określonym ust. 4, rozmowa ostrzegawcza odbywa się obecności osoby, której podejrzenie dotyczy, jeżeli takie jest życzenie rodzica opiekuna prawnego tej osoby.
 
 **Art. 20.**
 
-1. W czasie stanu wyjàtkowego mo˝e byç wprowadzona:
+1. W czasie stanu wyjątkowego może być wprowadzona:
 
-- **1)** cenzura prewencyjna Êrodków spo∏ecznego przekazu obejmujàca materia∏y prasowe wrozumieniu ustawy zdnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. 5, poz. 24, 1988 r. 41, poz.324, 1989 r. 34, poz. 187, 1990 r. 29, poz. 173, z1991 r. 100, poz. 442, z1996 r. 114, poz. 542, z1997 r. 88, poz. 554 iNr 121, poz. 770, z1999 r. 90, poz. 999 i 2001 r. 112, poz.1198), zastrze˝eniem ust. 7,
-- **2)** kontrola zawartoÊci przesy∏ek, listów, paczek iprzekazów przekazywanych ramach us∏ug pocztowych ocharakterze powszechnym us∏ug kurierskich,
-- **3)** kontrola treÊci korespondencji telekomunikacyjnej i rozmów telefonicznych sygna∏ów przesy∏anych wsieciach telekomunikacyjnych,
-- **4)** emisja sygna∏ów uniemo˝liwiajàcych nadawanie odbiór przekazów radiowych, telewizyjnych dokonywanych poprzez urzàdzenia i sieci telekomunikacyjne, których treÊç mo˝e zwi´kszyç zagro˝enie konstytucyjnego ustroju paƒstwa, bezpieczeƒstwa obywateli porzàdku publicznego.
+- **1)** cenzura prewencyjna środków społecznego przekazu obejmująca materiały prasowe wrozumieniu ustawy zdnia 26 stycznia 1984 r. Prawo prasowe (Dz. U. 5, poz. 24, 1988 r. 41, poz.324, 1989 r. 34, poz. 187, 1990 r. 29, poz. 173, z1991 r. 100, poz. 442, z1996 r. 114, poz. 542, z1997 r. 88, poz. 554 iNr 121, poz. 770, z1999 r. 90, poz. 999 i 2001 r. 112, poz.1198), zastrzeżeniem ust. 7,
+- **2)** kontrola zawartości przesyłek, listów, paczek iprzekazów przekazywanych ramach usług pocztowych ocharakterze powszechnym usług kurierskich,
+- **3)** kontrola treści korespondencji telekomunikacyjnej i rozmów telefonicznych sygnałów przesyłanych wsieciach telekomunikacyjnych,
+- **4)** emisja sygnałów uniemożliwiających nadawanie odbiór przekazów radiowych, telewizyjnych dokonywanych poprzez urządzenia i sieci telekomunikacyjne, których treść może zwiększyć zagrożenie konstytucyjnego ustroju państwa, bezpieczeństwa obywateli porządku publicznego.
 
-2. Funkcj´ organów cenzury i kontroli pe∏nià w∏aÊciwi wojewodowie, którzy mogà nakazaç organom administracji publicznej dzia∏ajàcym na obszarze woje3. Organy cenzury i kontroli sà uprawnione do zatrzymywania wca∏oÊci wcz´Êci publikacji, przesy∏ek pocztowych i kurierskich oraz korespondencji telekomunikacyjnej, a tak˝e do przerywania rozmów telefonicznych i transmisji sygna∏ów przesy∏anych sieciach telekomunikacyjnych, je˝eli ich zawartoÊç treÊç mo˝e zwi´kszyç zagro˝enie konstytucyjnego ustroju paƒstwa, bezpieczeƒstwa obywateli porzàdku publicznego.
+2. Funkcję organów cenzury i kontroli pełnią właściwi wojewodowie, którzy mogą nakazać organom administracji publicznej działającym na obszarze woje3. Organy cenzury i kontroli są uprawnione do zatrzymywania wcałości wczęści publikacji, przesyłek pocztowych i kurierskich oraz korespondencji telekomunikacyjnej, a także do przerywania rozmów telefonicznych i transmisji sygnałów przesyłanych sieciach telekomunikacyjnych, jeżeli ich zawartość treść może zwiększyć zagrożenie konstytucyjnego ustroju państwa, bezpieczeństwa obywateli porządku publicznego.
 
-4. Zatrzymane publikacje, przesy∏ki korespondencj´ telekomunikacyjnà dor´cza si´ adresatom po zniesieniu stanu wyjàtkowego, zzastrze˝eniem ust. 5.
+4. Zatrzymane publikacje, przesyłki korespondencję telekomunikacyjną doręcza się adresatom po zniesieniu stanu wyjątkowego, zzastrzeżeniem ust. 5.
 
-5. Zatrzymane publikacje, przesy∏ki pocztowe i kurierskie oraz korespondencj´ telekomunikacyjnà, których treÊç zawartoÊç pochodzi przest´pstwa, by∏a przeznaczona do pope∏nienia przest´pstwa albo zosta∏a obj´ta zakazem posiadania, organ cenzury ikontroli przekazuje, niezw∏ocznie a najpóêniej bezpoÊrednio po zniesieniu stanu wyjàtkowego, organom w∏aÊciwym do prowadzenia post´powania karnego orzeczenia przepadku rzeczy.
+5. Zatrzymane publikacje, przesyłki pocztowe i kurierskie oraz korespondencję telekomunikacyjną, których treść zawartość pochodzi przestępstwa, była przeznaczona do popełnienia przestępstwa albo została objęta zakazem posiadania, organ cenzury ikontroli przekazuje, niezwłocznie a najpóêniej bezpośrednio po zniesieniu stanu wyjątkowego, organom właściwym do prowadzenia postępowania karnego orzeczenia przepadku rzeczy.
 
-6. Decyzje organów cenzury ikontroli sà ostateczne imogà byç zaskar˝one bezpoÊrednio do Naczelnego Sàdu Administracyjnego. Nie stosuje si´ przepisu art. 34 ust. 3 ustawy dnia 11 maja 1995 r. oNaczelnym Sàdzie Administracyjnym.
+6. Decyzje organów cenzury ikontroli są ostateczne imogą być zaskarżone bezpośrednio do Naczelnego Sądu Administracyjnego. Nie stosuje się przepisu art. 34 ust. 3 ustawy dnia 11 maja 1995 r. oNaczelnym Sądzie Administracyjnym.
 
-7. Cenzura prewencyjna nie obejmuje nale˝àcych do koÊcio∏ów i innych zwiàzków wyznaniowych Êrodków spo∏ecznego przekazu, stanowiàcych êród∏a informacji na temat religii i s∏u˝àcych wype∏nianiu funkcji religijnych.
+7. Cenzura prewencyjna nie obejmuje należących do kościołów i innych związków wyznaniowych środków społecznego przekazu, stanowiących êródła informacji na temat religii i służących wypełnianiu funkcji religijnych.
 
-8. Rada Ministrów, wdrodze rozporzàdzenia, okreÊli:
+8. Rada Ministrów, wdrodze rozporządzenia, określi:
 
-- **1)** tryb post´powania organów cenzury i kontroli, uwzgl´dniajàc potrzeb´ zapewnienia sprawnoÊci iszybkoÊci dzia∏ania,
-- **2)** organy w∏aÊciwe sprawach, o których mowa ust. 1 pkt 4, oraz tryb post´powania tych organów, uwzgl´dniajàc potrzeb´ zapewnienia niejawnoÊci stosowanych metod itechnik dzia∏ania.
+- **1)** tryb postępowania organów cenzury i kontroli, uwzględniając potrzebę zapewnienia sprawności iszybkości działania,
+- **2)** organy właściwe sprawach, o których mowa ust. 1 pkt 4, oraz tryb postępowania tych organów, uwzględniając potrzebę zapewnienia niejawności stosowanych metod itechnik działania.
 
-**Art. 21.** W czasie stanu wyjàtkowego mogà byç wprowadzone ograniczenia wolnoÊci ipraw cz∏owieka iobywatela wzakresie:
+**Art. 21.** W czasie stanu wyjątkowego mogą być wprowadzone ograniczenia wolności ipraw człowieka iobywatela wzakresie:
 
 **Art. 22.**
 
-1. Rada Ministrów, zastrze˝eniem ust. 2 i 3, okreÊla, drodze rozporzàdzeƒ, szczegó∏owy tryb i sposoby oraz obszarowy, podmiotowy i przedmiotowy zakres wprowadzenia istosowania ograniczeƒ wolnoÊci i praw cz∏owieka i obywatela ustalonych przez Prezydenta Rzeczypospolitej Polskiej rozporzàdzeniach, o których mowa art. 3 ust. 1 i art. 5 ust. 1, uwzgl´dniajàc mo˝liwym stopniu minimalizacj´ indywidualnych i spo∏ecznych ucià˝liwoÊci wynikajàcych ze stosowania tych ograniczeƒ.
+1. Rada Ministrów, zastrzeżeniem ust. 2 i 3, określa, drodze rozporządzeń, szczegółowy tryb i sposoby oraz obszarowy, podmiotowy i przedmiotowy zakres wprowadzenia istosowania ograniczeń wolności i praw człowieka i obywatela ustalonych przez Prezydenta Rzeczypospolitej Polskiej rozporządzeniach, o których mowa art. 3 ust. 1 i art. 5 ust. 1, uwzględniając możliwym stopniu minimalizację indywidualnych i społecznych uciążliwości wynikających ze stosowania tych ograniczeń.
 
-2. Je˝eli stan wyjàtkowy zosta∏ wprowadzony na obszarze jednego województwa jego cz´Êci, okreÊlone wust. 1 kompetencje Rady Ministrów przejmuje w∏aÊciwy wojewoda.
+2. Jeżeli stan wyjątkowy został wprowadzony na obszarze jednego województwa jego części, określone wust. 1 kompetencje Rady Ministrów przejmuje właściwy wojewoda.
 
-3. OkreÊlone wart. 21 ograniczenia wolnoÊci ipraw cz∏owieka i obywatela ustalone przez Prezydenta Rzeczypospolitej Polskiej rozporzàdzeniach, o których mowa wart. 3 ust. 1 iart. 5 ust. 1, wprowadza si´ istosuje wdrodze rozporzàdzeƒ wydawanych przez:
+3. Określone wart. 21 ograniczenia wolności ipraw człowieka i obywatela ustalone przez Prezydenta Rzeczypospolitej Polskiej rozporządzeniach, o których mowa wart. 3 ust. 1 iart. 5 ust. 1, wprowadza się istosuje wdrodze rozporządzeń wydawanych przez:
 
-- **1)** w∏aÊciwego ministra wprzypadku je˝eli ograniczenie okreÊlone wart. 21 pkt 3 dotyczy szkó∏ jemu podleg∏ych,
-- **2)** ministra w∏aÊciwego do spraw finansów publicznych po zasi´gni´ciu opinii Prezesa Narodowego Banku Polskiego przypadku ograniczenia okreÊlonego wart. 21 pkt 4,
-- **3)** ministrów w∏aÊciwych do spraw transportu i gospodarki morskiej dzia∏ajàcych porozumieniu
-- **4)** ministra w∏aÊciwego do spraw ∏àcznoÊci dzia∏ajàcego porozumieniu ministrem w∏aÊciwym do spraw wewn´trznych, Ministrem Obrony Narodowej iministrem w∏aÊciwym do spraw finansów publicznych oraz po zasi´gni´ciu opinii Prezesa Narodowego Banku Polskiego wodniesieniu do bankowych systemów telekomunikacyjnych przypadku ograniczeƒ okreÊlonych wart. 21 pkt 6,
-- **5)** ministra w∏aÊciwego do spraw wewn´trznych oraz Ministra Obrony Narodowej wodniesieniu do ˝o∏nierzy zawodowych przypadku ograniczeƒ okreÊlonych wart. 21 pkt 7,
-- **6)** w∏aÊciwego wojewod´ wprzypadku stosowania ograniczenia okreÊlonego art. 21 pkt 3 do szkó∏, wy∏àczeniem szkó∏ wy˝szych, oraz stosowania ograniczeƒ okreÊlonych wart. 21 pkt 1, 2 i5, je˝eli stan wyjàtkowy wprowadzono na obszarze jednego województwa jego cz´Êci.
+- **1)** właściwego ministra wprzypadku jeżeli ograniczenie określone wart. 21 pkt 3 dotyczy szkół jemu podległych,
+- **2)** ministra właściwego do spraw finansów publicznych po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego przypadku ograniczenia określonego wart. 21 pkt 4,
+- **3)** ministrów właściwych do spraw transportu i gospodarki morskiej działających porozumieniu
+- **4)** ministra właściwego do spraw łączności działającego porozumieniu ministrem właściwym do spraw wewnętrznych, Ministrem Obrony Narodowej iministrem właściwym do spraw finansów publicznych oraz po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego wodniesieniu do bankowych systemów telekomunikacyjnych przypadku ograniczeń określonych wart. 21 pkt 6,
+- **5)** ministra właściwego do spraw wewnętrznych oraz Ministra Obrony Narodowej wodniesieniu do żołnierzy zawodowych przypadku ograniczeń określonych wart. 21 pkt 7,
+- **6)** właściwego wojewodę wprzypadku stosowania ograniczenia określonego art. 21 pkt 3 do szkół, wyłączeniem szkół wyższych, oraz stosowania ograniczeń określonych wart. 21 pkt 1, 2 i5, jeżeli stan wyjątkowy wprowadzono na obszarze jednego województwa jego części.
 
-4. W rozporzàdzeniach, o których mowa ust. 3, okreÊla si´ szczegó∏owy tryb i sposoby oraz obszarowy, podmiotowy i przedmiotowy zakres wprowadzenia istosowania ograniczeƒ wolnoÊci ipraw cz∏owieka iobywatela, uwzgl´dniajàc wmo˝liwym stopniu minimalizacj´ indywidualnych i spo∏ecznych ucià˝liwoÊci wynikajàcych ze stosowania tych ograniczeƒ. Rozdzia∏ 4 Przepisy karne
+4. W rozporządzeniach, o których mowa ust. 3, określa się szczegółowy tryb i sposoby oraz obszarowy, podmiotowy i przedmiotowy zakres wprowadzenia istosowania ograniczeń wolności ipraw człowieka iobywatela, uwzględniając wmożliwym stopniu minimalizację indywidualnych i społecznych uciążliwości wynikających ze stosowania tych ograniczeń.
+
+#### Rozdział 4 Przepisy karne
 
 **Art. 23.**
 
-1. Kto wczasie stanu wyjàtkowego:
+1. Kto wczasie stanu wyjątkowego:
 
-- **1)** wbrew zakazowi okreÊlonemu wart. 16 ust. 1 pkt 1 organizuje przeprowadza zgromadzenie,
-- **2)** wbrew zakazowi okreÊlonemu wart. 16 ust. 1 pkt 2 organizuje przeprowadza imprez´ masowà albo innà imprez´ artystycznà rozrywkowà, nieb´dàcà imprezà masowà,
-- **3)** wbrew zakazowi okreÊlonemu art. 16 ust. 1 pkt 3—5 uczestniczy strajku innej akcji protestacyjnej pracowników rolników, albo akcji protestacyjnej studentów zorganizowanej przez studenckie samorzàdy, stowarzyszenia organizacje,
-- **4)** wbrew zakazowi okreÊlonemu wart. 16 ust. 1 pkt 6 lit. a) tworzy stowarzyszenie, parti´ politycznà, zwiàzek zawodowy, organizacj´ spo∏eczno-zawodowà rolników, organizacj´ pracodawców, ruch obywatelski, dobrowolne zrzeszenie fundacj´,
-- **5)** wbrew nakazowi okreÊlonemu wart. 16 ust. 1 pkt6 lit. b) uczestniczy wdzia∏alnoÊci zarejestrowanego stowarzyszenia, partii politycznej, zwiàzku zawodowego, organizacji spo∏eczno-zawodowej rolników, organizacji pracodawców, ruchu obywatelskiego, dobrowolnego zrzeszenia fundacji,
-- **7)** wbrew nakazowi zakazowi okreÊlonemu art.18 ust. 2 pkt 1 przebywa nie opuszcza wustalonym czasie oznaczonego miejsca, obiektu obszaru,
-- **8)** wbrew nakazowi okreÊlonemu wart. 18 ust. 2 pkt 2 zmienia miejsce pobytu sta∏ego czasowego bez wymaganego zezwolenia,
-- **9)** wbrew nakazowi okreÊlonemu wart. 18 ust. 2 pkt 3 nie zg∏asza ustalonym terminie organowi ewidencji ludnoÊci Policji przybycia do okreÊlonej miejscowoÊci,
-- **10)** wbrew zakazowi okreÊlonemu wart. 18 ust. 2 pkt 4 utrwala za pomocà Êrodków technicznych wyglàd innà cech´ okreÊlonego miejsca, obiektu obszaru,
-- **11)** wbrew nakazowi okreÊlonemu wart. 21 pkt 1 narusza zasady reglamentacji zaopatrzenia ludnoÊci,
-- **12)** wbrew obowiàzkowi okreÊlonemu art. 21 pkt 2 nie stosuje si´ do nakazu zaniechania prowadzenia dzia∏alnoÊci gospodarczej okreÊlonego rodzaju, albo bez wymaganego zezwolenia rozpoczyna dzia∏alnoÊç gospodarczà okreÊlonego rodzaju,
-- **13)** wbrew zakazowi okreÊlonemu wart. 21 pkt 3 organizuje przeprowadza zaj´cia dydaktyczne wszko∏ach,
-- **14)** wbrew zakazowi okreÊlonemu art. 21 pkt 4 nie stosuje si´ do wprowadzonych ograniczeƒ wobrocie krajowymi Êrodkami p∏atniczymi, obrocie dewizowym oraz dzia∏alnoÊci kantorowej,
-- **15)** wbrew obowiàzkowi okreÊlonemu art. 21 pkt 5 nie stosuje si´ do ograniczeƒ wtransporcie drogowym, kolejowym lotniczym, albo ruchu jednostek p∏ywajàcych na morskich wodach wewn´trznych, morzu terytorialnym na Êródlàdowych drogach wodnych,
-- **16)** wbrew obowiàzkowi okreÊlonemu art. 21 pkt 6 nie stosuje si´ do nakazu wy∏àczenia na czas okreÊlony urzàdzeƒ ∏àcznoÊci zawieszenia Êwiadczenia us∏ug, albo nakazu niezw∏ocznego z∏o˝enia do depozytu radiowych i telewizyjnych urzàdzeƒ nadawczych i nadawczo-odbiorczych innego sposobu ich zabezpieczenia,
-- **17)** wbrew obowiàzkowi okreÊlonemu art. 21 pkt 7 nie stosuje si´ do nakazu niezw∏ocznego z∏o˝enia do depozytu broni palnej, amunicji, materia∏ów wybuchowych, innych rodzajów broni okreÊlonych przedmiotów, albo zakazu ich noszenia,
-- **18)** wbrew obowiàzkowi okreÊlonemu art. 21 pkt 8 nie stosuje si´ do wprowadzonych ograniczeƒ wdost´pie do informacji publicznej podlega karze aresztu albo grzywny.
+- **1)** wbrew zakazowi określonemu wart. 16 ust. 1 pkt 1 organizuje przeprowadza zgromadzenie,
+- **2)** wbrew zakazowi określonemu wart. 16 ust. 1 pkt 2 organizuje przeprowadza imprezę masową albo inną imprezę artystyczną rozrywkową, niebędącą imprezą masową,
+- **3)** wbrew zakazowi określonemu art. 16 ust. 1 pkt 3—5 uczestniczy strajku innej akcji protestacyjnej pracowników rolników, albo akcji protestacyjnej studentów zorganizowanej przez studenckie samorządy, stowarzyszenia organizacje,
+- **4)** wbrew zakazowi określonemu wart. 16 ust. 1 pkt 6 lit. a) tworzy stowarzyszenie, partię polityczną, związek zawodowy, organizację społeczno-zawodową rolników, organizację pracodawców, ruch obywatelski, dobrowolne zrzeszenie fundację,
+- **5)** wbrew nakazowi określonemu wart. 16 ust. 1 pkt6 lit. b) uczestniczy wdziałalności zarejestrowanego stowarzyszenia, partii politycznej, związku zawodowego, organizacji społeczno-zawodowej rolników, organizacji pracodawców, ruchu obywatelskiego, dobrowolnego zrzeszenia fundacji,
+- **7)** wbrew nakazowi zakazowi określonemu art.18 ust. 2 pkt 1 przebywa nie opuszcza wustalonym czasie oznaczonego miejsca, obiektu obszaru,
+- **8)** wbrew nakazowi określonemu wart. 18 ust. 2 pkt 2 zmienia miejsce pobytu stałego czasowego bez wymaganego zezwolenia,
+- **9)** wbrew nakazowi określonemu wart. 18 ust. 2 pkt 3 nie zgłasza ustalonym terminie organowi ewidencji ludności Policji przybycia do określonej miejscowości,
+- **10)** wbrew zakazowi określonemu wart. 18 ust. 2 pkt 4 utrwala za pomocą środków technicznych wygląd inną cechę określonego miejsca, obiektu obszaru,
+- **11)** wbrew nakazowi określonemu wart. 21 pkt 1 narusza zasady reglamentacji zaopatrzenia ludności,
+- **12)** wbrew obowiązkowi określonemu art. 21 pkt 2 nie stosuje się do nakazu zaniechania prowadzenia działalności gospodarczej określonego rodzaju, albo bez wymaganego zezwolenia rozpoczyna działalność gospodarczą określonego rodzaju,
+- **13)** wbrew zakazowi określonemu wart. 21 pkt 3 organizuje przeprowadza zajęcia dydaktyczne wszkołach,
+- **14)** wbrew zakazowi określonemu art. 21 pkt 4 nie stosuje się do wprowadzonych ograniczeń wobrocie krajowymi środkami płatniczymi, obrocie dewizowym oraz działalności kantorowej,
+- **15)** wbrew obowiązkowi określonemu art. 21 pkt 5 nie stosuje się do ograniczeń wtransporcie drogowym, kolejowym lotniczym, albo ruchu jednostek pływających na morskich wodach wewnętrznych, morzu terytorialnym na śródlądowych drogach wodnych,
+- **16)** wbrew obowiązkowi określonemu art. 21 pkt 6 nie stosuje się do nakazu wyłączenia na czas określony urządzeń łączności zawieszenia świadczenia usług, albo nakazu niezwłocznego złożenia do depozytu radiowych i telewizyjnych urządzeń nadawczych i nadawczo-odbiorczych innego sposobu ich zabezpieczenia,
+- **17)** wbrew obowiązkowi określonemu art. 21 pkt 7 nie stosuje się do nakazu niezwłocznego złożenia do depozytu broni palnej, amunicji, materiałów wybuchowych, innych rodzajów broni określonych przedmiotów, albo zakazu ich noszenia,
+- **18)** wbrew obowiązkowi określonemu art. 21 pkt 8 nie stosuje się do wprowadzonych ograniczeń wdostępie do informacji publicznej podlega karze aresztu albo grzywny.
 
-2. Rozpoznawanie spraw, okreÊlonych wust. 1, nast´puje trybie przepisów o post´powaniu sprawach owykroczenia wpost´powaniu przyÊpieszonym. powiednich ograniczeƒ wolnoÊci i praw cz∏owieka i obywatela kary za wykroczenia wymierzone na podstawie przepisów ustawy podlegajà wykonaniu.
+2. Rozpoznawanie spraw, określonych wust. 1, następuje trybie przepisów o postępowaniu sprawach owykroczenia wpostępowaniu przyśpieszonym. powiednich ograniczeń wolności i praw człowieka i obywatela kary za wykroczenia wymierzone na podstawie przepisów ustawy podlegają wykonaniu.
 
-2. Post´powania sprawach o wykroczenia okreÊlone niniejszej ustawie, wszcz´te i niezakoƒczone orzeczeniem koƒczàcym post´powanie do dnia zniesienia stanu wyjàtkowego uchylenia odpowiednich ograniczeƒ wolnoÊci ipraw cz∏owieka iobywatela, prowadzi si´ na podstawie przepisów ustawy, awymierzone kary podlegajà wykonaniu.
+2. Postępowania sprawach o wykroczenia określone niniejszej ustawie, wszczęte i niezakończone orzeczeniem kończącym postępowanie do dnia zniesienia stanu wyjątkowego uchylenia odpowiednich ograniczeń wolności ipraw człowieka iobywatela, prowadzi się na podstawie przepisów ustawy, awymierzone kary podlegają wykonaniu.
 
-3. Po zniesieniu stanu wyjàtkowego post´powanie wsprawach owykroczenia okreÊlone wniniejszej ustawie prowadzi si´ na zasadach ogólnych. Rozdzia∏ 5 Zmiany wprzepisach obowiàzujàcych iprzepisy koƒcowe
+3. Po zniesieniu stanu wyjątkowego postępowanie wsprawach owykroczenia określone wniniejszej ustawie prowadzi się na zasadach ogólnych.
 
-**Art. 25.** Wustawie zdnia 21 listopada 1967 r. oposkiej (Dz. U. 2002 r. 21, poz. 205, 74, poz. 676, 81, poz. 732 i 113, poz. 984) wart. 174 dodaje si´ ust. 4 wbrzmieniu: „4. Jednostki organizacyjne, o których mowa wust. 1 i2, Rada Ministrów mo˝e objàç militaryzacjà równie˝ wrazie wprowadzenia stanu wyjàtkowego na ca∏ym terytorium Rzeczypospolitej Polskiej.”
+#### Rozdział 5 Zmiany wprzepisach obowiązujących iprzepisy końcowe
 
-**Art. 26.** Traci moc ustawa dnia 5 grudnia 1983 r. o stanie wyjàtkowym (Dz. U. 66, poz. 297, 1989 r. 34, poz. 178 oraz 1997 r. 81, poz. 512 i 88, poz.554).
+**Art. 25.** Wustawie zdnia 21 listopada 1967 r. oposkiej (Dz. U. 2002 r. 21, poz. 205, 74, poz. 676, 81, poz. 732 i 113, poz. 984) wart. 174 dodaje się ust. 4 wbrzmieniu: Ń4. Jednostki organizacyjne, o których mowa wust. 1 i2, Rada Ministrów może objąć militaryzacją również wrazie wprowadzenia stanu wyjątkowego na całym terytorium Rzeczypospolitej Polskiej.”
 
-**Art. 27.** Ustawa wchodzi w˝ycie po up∏ywie 6 miesi´cy od dnia og∏oszenia. wszechnym obowiàzku obrony Rzeczypospolitej Pol- Prezydent Rzeczyposopolitej Polskiej:A. KwaÊniewski 986 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 2 lipca 2002 r. wsprawie wymogów, jakie powinny spe∏niaç s∏u˝by porzàdkowe organizatora imprezy masowej wzakresie wyszkolenia iwyposa˝enia, oraz szczegó∏owych warunków isposobów ich dzia∏ania. Na podstawie art. 18 ustawy zdnia 22 sierpnia 1997 r. o bezpieczeƒstwie imprez masowych (Dz. U. 2001 r. 120, poz. 1298 i 123, poz. 1353 oraz 2002 r. 25, poz. 253) zarzàdza si´, co nast´puje: § 1. 1. Rozporzàdzenie okreÊla wymogi, jakie powinny spe∏niaç s∏u˝by porzàdkowe wzakresie wyszkolenia i wyposa˝enia, oraz szczegó∏owe warunki i sposoby dzia∏ania tych s∏u˝b wzakresie sprawdzania upowa˝nieƒ osób do uczestniczenia wimprezie masowej, sposobów legitymowania osób, przeglàdania ich baga˝y i odzie˝y oraz usuwania osób zak∏ócajàcych imprez´. 2. Ilekroç wrozporzàdzeniu jest mowa o:
+**Art. 26.** Traci moc ustawa dnia 5 grudnia 1983 r. o stanie wyjątkowym (Dz. U. 66, poz. 297, 1989 r. 34, poz. 178 oraz 1997 r. 81, poz. 512 i 88, poz.554).
+
+**Art. 27.** Ustawa wchodzi wżycie po upływie 6 miesięcy od dnia ogłoszenia. wszechnym obowiązku obrony Rzeczypospolitej Pol- Prezydent Rzeczyposopolitej Polskiej:A. Kwaśniewski 986 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 2 lipca 2002 r. wsprawie wymogów, jakie powinny spełniać służby porządkowe organizatora imprezy masowej wzakresie wyszkolenia iwyposażenia, oraz szczegółowych warunków isposobów ich działania. Na podstawie art. 18 ustawy zdnia 22 sierpnia 1997 r. o bezpieczeństwie imprez masowych (Dz. U. 2001 r. 120, poz. 1298 i 123, poz. 1353 oraz 2002 r. 25, poz. 253) zarządza się, co następuje: § 1. 1. Rozporządzenie określa wymogi, jakie powinny spełniać służby porządkowe wzakresie wyszkolenia i wyposażenia, oraz szczegółowe warunki i sposoby działania tych służb wzakresie sprawdzania upoważnień osób do uczestniczenia wimprezie masowej, sposobów legitymowania osób, przeglądania ich bagaży i odzieży oraz usuwania osób zakłócających imprezę. 2. Ilekroć wrozporządzeniu jest mowa o:
 

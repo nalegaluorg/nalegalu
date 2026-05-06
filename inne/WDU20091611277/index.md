@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# ków Rady Ministrów innych organów administracji rzàdowej sprawach zwiàzanych cz∏onkostwem Rzeczypospolitej Polskiej Unii Europejskiej wramach Komitetu do Spraw Europejskich.
+# ków Rady Ministrów innych organów administracji rządowej sprawach związanych członkostwem Rzeczypospolitej Polskiej Unii Europejskiej wramach Komitetu do Spraw Europejskich.
 
 | Pole | Wartość |
 |---|---|
@@ -24,72 +24,72 @@ domain: null
 | Ostatnia zmiana | 2024-12-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091611277) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1277/text.pdf) |
 
-**Art. 1.** Tworzy si´ Komitet do Spraw Europejskich, zwany dalej „Komitetem”. Wsk∏ad Komitetu wchodzà:
+**Art. 1.** Tworzy się Komitet do Spraw Europejskich, zwany dalej ŃKomitetem”. Wskład Komitetu wchodzą:
 
 **Art. 4.**
 
-1. Przewodniczàcy Komitetu kieruje pracà Komitetu. Przewodniczàcy Komitetu mo˝e, w∏asnej inicjatywy lub na wniosek cz∏onka Komitetu, tworzyç zespo∏y robocze, okreÊlajàc ich sk∏ad, zakres zadaƒ tryb iharmonogram prac.
+1. Przewodniczący Komitetu kieruje pracą Komitetu. Przewodniczący Komitetu może, własnej inicjatywy lub na wniosek członka Komitetu, tworzyć zespoły robocze, określając ich skład, zakres zadań tryb iharmonogram prac.
 
 **Art. 5.**
 
-1. Posiedzenia Komitetu odbywajà si´ wobecnoÊci co najmniej po∏owy jego sk∏adu. Rozstrzygni´cia Komitetu zapadajà drodze uzgodnienia. Wprzypadku braku takiego uzgodnienia Przewodniczàcy Komitetu, porozumieniu cz∏onkiem Komitetu w∏aÊciwym ze wzgl´du na przedmiot sprawy, sporzàdza protokó∏ rozbie˝noÊci, który podlega rozpatrzeniu przez Rad´ Ministrów.
+1. Posiedzenia Komitetu odbywają się wobecności co najmniej połowy jego składu. Rozstrzygnięcia Komitetu zapadają drodze uzgodnienia. Wprzypadku braku takiego uzgodnienia Przewodniczący Komitetu, porozumieniu członkiem Komitetu właściwym ze względu na przedmiot sprawy, sporządza protokół rozbieżności, który podlega rozpatrzeniu przez Radę Ministrów.
 
-**Art. 6.** Szczegó∏owy sposób itryb dzia∏ania Komitetu okreÊla regulamin przyj´ty przez Komitet zatwierdzony przez Rad´ Ministrów.
+**Art. 6.** Szczegółowy sposób itryb działania Komitetu określa regulamin przyjęty przez Komitet zatwierdzony przez Radę Ministrów.
 
 **Art. 7.**
 
-1. Komitet przyjmuje plan pracy Komitetu iprzedstawia go Radzie Ministrów do zatwierdzenia. Przewodniczàcy Komitetu przedstawia Radzie Ministrów pó∏roczne sprawozdania realizacji planu, októrym mowa wust.1.
+1. Komitet przyjmuje plan pracy Komitetu iprzedstawia go Radzie Ministrów do zatwierdzenia. Przewodniczący Komitetu przedstawia Radzie Ministrów półroczne sprawozdania realizacji planu, októrym mowa wust.1.
 
-**Art. 8.** Obs∏ug´ Komitetu zapewnia urzàd obs∏ugujàcy ministra w∏aÊciwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej.
+**Art. 8.** Obsługę Komitetu zapewnia urząd obsługujący ministra właściwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej.
 
-**Art. 9.** W ustawie dnia 31 lipca 1981 wynagrodzeniu osób zajmujàcych kierownicze stanowiska paƒstwowe (Dz. U. 20, 101, póên. zm. ust. 1,”; art. 20 ust. 1 otrzymuje brzmienie: „1. Minister w∏aÊciwy do spraw Rzeczypospolitej Polskiej Unii Europejskiej mo˝e przekazaç Korporacji, na wydzielone rachunki, Êrodki uzyskane Unii Europejskiej lub zinnych êróde∏ na wspieranie eksportu do krajów nienale˝àcych do OECD, przeznaczeniem na finansowanie przedsi´wzi´ç eksportowych.”.
+**Art. 9.** W ustawie dnia 31 lipca 1981 wynagrodzeniu osób zajmujących kierownicze stanowiska państwowe (Dz. U. 20, 101, póên. zm. ust. 1,”; art. 20 ust. 1 otrzymuje brzmienie: Ń1. Minister właściwy do spraw Rzeczypospolitej Polskiej Unii Europejskiej może przekazać Korporacji, na wydzielone rachunki, środki uzyskane Unii Europejskiej lub zinnych êródeł na wspieranie eksportu do krajów nienależących do OECD, przeznaczeniem na finansowanie przedsięwzięć eksportowych.”.
 
-**Art. 11.** W ustawie dnia 8 sierpnia 1996 Radzie Ministrów (Dz.U. z2003r. Nr24, poz.199, zpóên. ) art. 2 pkt 4 skreÊla si´ wyrazy „ , Sekretarza Komitetu Integracji Europejskiej”. zm. ) wart.14c pkt7 otrzymuje brzmienie: „7) wspó∏dzia∏anie zministrem w∏aÊciwym do spraw Rzeczypospolitej Polskiej wUnii Europejskiej sprawie dostosowania prawa polskiego do prawa Unii Europejskiej ijego wykonywania;”.
+**Art. 11.** W ustawie dnia 8 sierpnia 1996 Radzie Ministrów (Dz.U. z2003r. Nr24, poz.199, zpóên. ) art. 2 pkt 4 skreśla się wyrazy Ń , Sekretarza Komitetu Integracji Europejskiej”. zm. ) wart.14c pkt7 otrzymuje brzmienie: Ń7) współdziałanie zministrem właściwym do spraw Rzeczypospolitej Polskiej wUnii Europejskiej sprawie dostosowania prawa polskiego do prawa Unii Europejskiej ijego wykonywania;”.
 
-**Art. 12.** Wustawie zdnia 4 wrzeÊnia 1997r. odzia∏ach administracji rzàdowej (Dz. U. 2007 65, 437, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 12.** Wustawie zdnia 4 września 1997r. odziałach administracji rządowej (Dz. U. 2007 65, 437, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 13.** W ustawie dnia 6 lipca 2001 ustanowieniu programu wieloletniego „Program dla Odry— 2006” (Dz. U. 98, 1067 154, 1800, 2002 216, 1827 2008 Nr220, poz.1427) wart.5 wust.2:
+**Art. 13.** W ustawie dnia 6 lipca 2001 ustanowieniu programu wieloletniego ŃProgram dla Odry— 2006” (Dz. U. 98, 1067 154, 1800, 2002 216, 1827 2008 Nr220, poz.1427) wart.5 wust.2:
 
-**Art. 14.** Wustawie zdnia 27 lipca 2001r. os∏u˝bie zagranicznej (Dz. U. 128, 1403, póên. zm. ∏ania zwiàzane zapewnieniem ich bezpieczeƒstwa.”; ) wprowadza si´ nast´pujàce zmiany:
+**Art. 14.** Wustawie zdnia 27 lipca 2001r. osłużbie zagranicznej (Dz. U. 128, 1403, póên. zm. łania związane zapewnieniem ich bezpieczeństwa.”; ) wprowadza się następujące zmiany:
 
 **Art. 17.**
 
-1. Znosi si´ Komitet Integracji Europejskiej. Urzàd Komitetu Integracji Europejskiej ulega likwidacji.
+1. Znosi się Komitet Integracji Europejskiej. Urząd Komitetu Integracji Europejskiej ulega likwidacji.
 
 **Art. 18.**
 
-1. Nale˝noÊci izobowiàzania urz´du Komitetu Integracji Europejskiej stajà si´ nale˝noÊciami izobowiàzaniami urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej. Mienie Skarbu Paƒstwa znajdujàce si´ wdyspozycji urz´du Komitetu Integracji Europejskiej, tym nieruchomoÊci znajdujàce si´ jego trwa∏ym zarzàdzie, staje si´ mieniem odpowiednio dyspozycji wtrwa∏ym zarzàdzie urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej.
+1. Należności izobowiązania urzędu Komitetu Integracji Europejskiej stają się należnościami izobowiązaniami urzędu obsługującego ministra właściwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej. Mienie Skarbu Państwa znajdujące się wdyspozycji urzędu Komitetu Integracji Europejskiej, tym nieruchomości znajdujące się jego trwałym zarządzie, staje się mieniem odpowiednio dyspozycji wtrwałym zarządzie urzędu obsługującego ministra właściwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej.
 
-3. W prawa obowiàzki Przewodniczàcego Komitetu Integracji Europejskiej iSekretarza Komitetu Integracji Europejskiej wst´puje minister w∏aÊciwy do spraw Rzeczypospolitej Polskiej Unii Europejskiej.
+3. W prawa obowiązki Przewodniczącego Komitetu Integracji Europejskiej iSekretarza Komitetu Integracji Europejskiej wstępuje minister właściwy do spraw Rzeczypospolitej Polskiej Unii Europejskiej.
 
-4. Wprawa iobowiàzki urz´du Komitetu Integracji Europejskiej wst´puje urzàd obs∏ugujàcy ministra w∏aÊciwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej.
+4. Wprawa iobowiązki urzędu Komitetu Integracji Europejskiej wstępuje urząd obsługujący ministra właściwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej.
 
-5. Post´powania sprawy wszcz´te wurz´dzie Komitetu Integracji Europejskiej niezakoƒczone przed dniem wejÊcia ˝ycie ustawy sà prowadzone przez urzàd obs∏ugujàcy ministra w∏aÊciwego do spraw Rzeczypospolitej Polskiej Unii Europejskiej.
+5. Postępowania sprawy wszczęte wurzędzie Komitetu Integracji Europejskiej niezakończone przed dniem wejścia życie ustawy są prowadzone przez urząd obsługujący ministra właściwego do spraw Rzeczypospolitej Polskiej Unii Europejskiej.
 
 **Art. 19.**
 
-1. Z dniem wejÊcia ˝ycie ustawy cz∏onkowie korpusu s∏u˝by cywilnej zatrudnieni wurz´dzie Komitetu Integracji Europejskiej stajà si´ cz∏onkami korpusu s∏u˝by cywilnej zatrudnionymi urz´dzie obs∏ugujàcym ministra w∏aÊciwego do spraw zagranicznych. ——————— tegracji Europejskiej, terminie 14 dni od dnia og∏oszenia ustawy, zawiadamia na piÊmie pracowników, októrych mowa wart.19, ozmianach, jakie majà nastàpiç zakresie ich stosunków pracy. Przepisy art.23 § 4 ustawy zdnia 26 czerwca 1974r. Kodeks pracy (Dz. U. 1998 21, 94, póên. zm. ) stosuje si´ odpowiednio. Przepisu ust. 1 zdanie drugie nie stosuje si´ do urz´dników s∏u˝by cywilnej, do których stosuje si´ przepisy ustawy dnia 21 listopada 2008 s∏u˝bie cywilnej (Dz.U. Nr227, z2009r.Nr157, poz.1241).
+1. Z dniem wejścia życie ustawy członkowie korpusu służby cywilnej zatrudnieni wurzędzie Komitetu Integracji Europejskiej stają się członkami korpusu służby cywilnej zatrudnionymi urzędzie obsługującym ministra właściwego do spraw zagranicznych. ——————— tegracji Europejskiej, terminie 14 dni od dnia ogłoszenia ustawy, zawiadamia na piśmie pracowników, októrych mowa wart.19, ozmianach, jakie mają nastąpić zakresie ich stosunków pracy. Przepisy art.23 § 4 ustawy zdnia 26 czerwca 1974r. Kodeks pracy (Dz. U. 1998 21, 94, póên. zm. ) stosuje się odpowiednio. Przepisu ust. 1 zdanie drugie nie stosuje się do urzędników służby cywilnej, do których stosuje się przepisy ustawy dnia 21 listopada 2008 służbie cywilnej (Dz.U. Nr227, z2009r.Nr157, poz.1241).
 
 **Art. 21.**
 
-1. Dyrektor generalny s∏u˝by zagranicznej proponuje, terminie 3 miesi´cy od dnia wejÊcia ˝ycie ustawy, nowe warunki pracy p∏acy pracownikom, októrych mowa wart.19, zgodne zich kwalifikacjami iprzygotowaniem zawodowym. Dyrektor generalny s∏u˝by zagranicznej, bioràc pod uwag´ doÊwiadczenie zawodowe danej osoby, tym doÊwiadczenie sferze stosunków zagranicznych, proponuje nowe warunki pracy ip∏acy pracownikom, których mowa art. 19, niezatrudnionym wkomórkach organizacyjnych zapewniajàcych obs∏ug´ zadaƒ ministra w∏aÊciwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej, spe∏niajàcym wymagania okreÊlone art. 12 ust. 1 pkt 3—5 ustawy dnia 27 lipca 2001 s∏u˝bie zagranicznej (Dz.U. Nr128, poz.1403, zpóên. zm. granicznej; udokumentujà znajomoÊç jednego j´zyka obcego wsposób okreÊlony wprzepisach os∏u˝bie zagranicznej;
+1. Dyrektor generalny służby zagranicznej proponuje, terminie 3 miesięcy od dnia wejścia życie ustawy, nowe warunki pracy płacy pracownikom, októrych mowa wart.19, zgodne zich kwalifikacjami iprzygotowaniem zawodowym. Dyrektor generalny służby zagranicznej, biorąc pod uwagę doświadczenie zawodowe danej osoby, tym doświadczenie sferze stosunków zagranicznych, proponuje nowe warunki pracy ipłacy pracownikom, których mowa art. 19, niezatrudnionym wkomórkach organizacyjnych zapewniających obsługę zadań ministra właściwego do spraw Rzeczypospolitej Polskiej wUnii Europejskiej, spełniającym wymagania określone art. 12 ust. 1 pkt 3—5 ustawy dnia 27 lipca 2001 służbie zagranicznej (Dz.U. Nr128, poz.1403, zpóên. zm. granicznej; udokumentują znajomość jednego języka obcego wsposób określony wprzepisach osłużbie zagranicznej;
 
-- **3)** posiadajà co najmniej trzyletnie doÊwiadczenie zawodowe pracy urz´dach obs∏ugujàcych ministrów przewodniczàcych komitetów wchodzàcych sk∏ad Rady Ministrów lub urz´dach centralnych organów administracji rzàdowej.
+- **3)** posiadają co najmniej trzyletnie doświadczenie zawodowe pracy urzędach obsługujących ministrów przewodniczących komitetów wchodzących skład Rady Ministrów lub urzędach centralnych organów administracji rządowej.
 
-4. Wprzypadku potwierdzenia znajomoÊci drugiego j´zyka obcego ukoƒczenia szkoleƒ okreÊlo), apo ich przyj´ciu nadaje im stopieƒ dyplomatyczny.
+4. Wprzypadku potwierdzenia znajomości drugiego języka obcego ukończenia szkoleń określo), apo ich przyjęciu nadaje im stopień dyplomatyczny.
 
-3. Pracownikom, októrych mowa wart.19, niezatrudnionym wkomórkach organizacyjnych zapewniajàcych obs∏ug´ zadaƒ ministra w∏aÊciwego do spraw nych przez pracodawc´ przez osob´, której nadano stopieƒ dyplomatyczny wtrybie okreÊlonym wust.3, wokresie 3 lat od dnia jego nadania stopieƒ dyplomatyczny uwa˝a si´ za nadany na czas nieokreÊlony.
+3. Pracownikom, októrych mowa wart.19, niezatrudnionym wkomórkach organizacyjnych zapewniających obsługę zadań ministra właściwego do spraw nych przez pracodawcę przez osobę, której nadano stopień dyplomatyczny wtrybie określonym wust.3, wokresie 3 lat od dnia jego nadania stopień dyplomatyczny uważa się za nadany na czas nieokreślony.
 
-5. Dyrektor generalny s∏u˝by zagranicznej mo˝e wypowiedzieç umow´ prac´ zachowaniem trzymiesi´cznego okresu wypowiedzenia pracownikowi, który otrzyma∏ stopieƒ dyplomatyczny wtrybie okreÊlonym ust. 3, a który okresie 3 lat od dnia jego nadania nie potwierdzi∏ znajomoÊci drugiego j´zyka obcego nie ukoƒczy∏ szkoleƒ okreÊlonych przez pracodawc´.
+5. Dyrektor generalny służby zagranicznej może wypowiedzieć umowę pracę zachowaniem trzymiesięcznego okresu wypowiedzenia pracownikowi, który otrzymał stopień dyplomatyczny wtrybie określonym ust. 3, a który okresie 3 lat od dnia jego nadania nie potwierdził znajomości drugiego języka obcego nie ukończył szkoleń określonych przez pracodawcę.
 
-6. Przepisy ust. 1—5 stosuje si´ odpowiednio wprzypadku nadania stopnia dyplomatycznego przez ministra w∏aÊciwego do spraw zagranicznych.
+6. Przepisy ust. 1—5 stosuje się odpowiednio wprzypadku nadania stopnia dyplomatycznego przez ministra właściwego do spraw zagranicznych.
 
-**Art. 22.** Przepisy art.19—21 stosuje si´ odpowiednio do pracowników urz´du Komitetu Integracji Europejskiej, którzy wdniu wejÊcia w˝ycie ustawy:
+**Art. 22.** Przepisy art.19—21 stosuje się odpowiednio do pracowników urzędu Komitetu Integracji Europejskiej, którzy wdniu wejścia wżycie ustawy:
 
 **Art. 23.**
 
-1. Pracownicy urz´du Komitetu Integracji Europejskiej, którzy wdniu wejÊcia w˝ycie ustawy sà zatrudnieni na stanowiskach pomocniczych, robotniczych iobs∏ugi, nieobj´tych mno˝nikowym systemem wynagradzania, stajà si´ pracownikami gospodar——————— Zagranicznych proponuje, terminie 3 miesi´cy od dnia wejÊcia ˝ycie ustawy, nowe warunki pracy Art. 25. Ustawa wchodzi ˝ycie dniem 1 styczip∏acy, uwzgl´dniajàc ich przygotowanie zawodowe. nia 2010r., zwyjàtkiem art.20 art.23 ust.2, które wchodzà w˝ycie zdniem og∏oszenia.
+1. Pracownicy urzędu Komitetu Integracji Europejskiej, którzy wdniu wejścia wżycie ustawy są zatrudnieni na stanowiskach pomocniczych, robotniczych iobsługi, nieobjętych mnożnikowym systemem wynagradzania, stają się pracownikami gospodar——————— Zagranicznych proponuje, terminie 3 miesięcy od dnia wejścia życie ustawy, nowe warunki pracy Art. 25. Ustawa wchodzi życie dniem 1 styczipłacy, uwzględniając ich przygotowanie zawodowe. nia 2010r., zwyjątkiem art.20 art.23 ust.2, które wchodzą wżycie zdniem ogłoszenia.
 
-4. Przepisy ust. 1—3 stosuje si´ odpowiednio do pracowników zatrudnionych wurz´dzie Komitetu Integracji Europejskiej na stanowiskach pomocniczych, Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+4. Przepisy ust. 1—3 stosuje się odpowiednio do pracowników zatrudnionych wurzędzie Komitetu Integracji Europejskiej na stanowiskach pomocniczych, Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 
 

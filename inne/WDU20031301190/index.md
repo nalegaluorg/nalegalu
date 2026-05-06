@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# 2. Do aktu urodzenia wpisuje si´: 8) charakterystyk´ porodu.
+# 2. Do aktu urodzenia wpisuje się: 8) charakterystykę porodu.
 
 | Pole | Wartość |
 |---|---|
@@ -24,21 +24,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031301190) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1190/text.pdf) |
 
-1) nazwisko, imi´ (imiona) p∏eç dziec- 4. Minister w∏aÊciwy spraw zdrowia ka, wporozumieniu zministrem w∏aÊciwym
-2) miejsce idat´ urodzenia dziecka, spraw administracji publicznej okreÊli, drodze rozporzàdzenia, wzór pi3) nazwiska, nazwiska rodowe rodzi- semnego zg∏oszenia urodzenia dziecka, ców, imi´ (imiona), miejsce dat´ zuwzgl´dnieniem danych, októrych mourodzenia, miejsce zamieszkania wa wust. 3, oraz zwyszczególnieniem na ka˝dego zrodziców wchwili urodze- formularzu cz´Êci wype∏nianych nia dziecka, zak∏ad opieki zdrowotnej, lekarzy lub po4) nazwisko, imi´ miejsce zamieszka- ∏o˝ne oraz urzàd stanu cywilnego, ataknia zg∏aszajàcego, ˝e sposób jego wype∏niania.”;
-5) dane dotyczàce zak∏adu opieki zdro- 5) wart. 41 ust. 1 otrzymuje brzmienie: wotnej, je˝eli sporzàdzenie aktu nast´puje na podstawie zg∏oszenia, „1. Osoba zg∏aszajàca urodzenie dziecka, którego októrym mowa wart. 39 ust. 2. rodzice pozostajà zwiàzku ma∏˝eƒskim, przedstawia odpis skrócony aktu ma∏˝eƒstwa;
-3. Pisemne zg∏oszenie urodzenia dziecka obowiàzek ten nie dotyczy zak∏adu opieki zdropowinno wszczególnoÊci zawieraç: wotnej, októrym mowa wart. 39 ust. 2.”;
-1) imi´ nazwisko, nazwisko rodowe, dat´ urodzenia, PESEL, okreÊlenie 6) wart. 54 ust. 2 otrzymuje brzmienie: stanu cywilnego oraz miejsca sta∏e- „2. Osoba, októrej mowa wust. 1, nie sk∏ada odpigo zameldowania matki dziecka, su skróconego aktu stanu cywilnego, je˝eli zo2) imi´ nazwisko, dat´ urodzenia, sta∏ on sporzàdzony urz´dzie stanu cywilnePESEL, okreÊlenie stanu cywilnego go, którym nastàpi sporzàdzenie aktu ma∏oraz miejsca sta∏ego zameldowania ˝eƒstwa.”;
+1) nazwisko, imię (imiona) płeć dziec- 4. Minister właściwy spraw zdrowia ka, wporozumieniu zministrem właściwym
+2) miejsce idatę urodzenia dziecka, spraw administracji publicznej określi, drodze rozporządzenia, wzór pi3) nazwiska, nazwiska rodowe rodzi- semnego zgłoszenia urodzenia dziecka, ców, imię (imiona), miejsce datę zuwzględnieniem danych, októrych mourodzenia, miejsce zamieszkania wa wust. 3, oraz zwyszczególnieniem na każdego zrodziców wchwili urodze- formularzu części wypełnianych nia dziecka, zakład opieki zdrowotnej, lekarzy lub po4) nazwisko, imię miejsce zamieszka- łożne oraz urząd stanu cywilnego, ataknia zgłaszającego, że sposób jego wypełniania.”;
+5) dane dotyczące zakładu opieki zdro- 5) wart. 41 ust. 1 otrzymuje brzmienie: wotnej, jeżeli sporządzenie aktu następuje na podstawie zgłoszenia, Ń1. Osoba zgłaszająca urodzenie dziecka, którego októrym mowa wart. 39 ust. 2. rodzice pozostają związku małżeńskim, przedstawia odpis skrócony aktu małżeństwa;
+3. Pisemne zgłoszenie urodzenia dziecka obowiązek ten nie dotyczy zakładu opieki zdropowinno wszczególności zawierać: wotnej, októrym mowa wart. 39 ust. 2.”;
+1) imię nazwisko, nazwisko rodowe, datę urodzenia, PESEL, określenie 6) wart. 54 ust. 2 otrzymuje brzmienie: stanu cywilnego oraz miejsca stałe- Ń2. Osoba, októrej mowa wust. 1, nie składa odpigo zameldowania matki dziecka, su skróconego aktu stanu cywilnego, jeżeli zo2) imię nazwisko, datę urodzenia, stał on sporządzony urzędzie stanu cywilnePESEL, określenie stanu cywilnego go, którym nastąpi sporządzenie aktu małoraz miejsca stałego zameldowania żeństwa.”;
 ojca dziecka,
 7) wart. 66 ust. 1 otrzymuje brzmienie:
-3) dane dotyczàce wykszta∏cenia rodziców dziecka, „1. Akt zgonu sporzàdza na podstawie karty
-4) dane dotyczàce êród∏a utrzymania zgonu.”.
-rodziców dziecka, Art. 2. Ustawa wchodzi ˝ycie po up∏ywie 14 dni
-5) dat´ urodzenia dziecka, od dnia og∏oszenia.
-6) okreÊlenie miejscowoÊci urodzenia dziecka, Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
-USTAWA zdnia 12 czerwca 2003 ozmianie ustawy ostra˝ach gminnych oraz niektórych innych ustaw
+3) dane dotyczące wykształcenia rodziców dziecka, Ń1. Akt zgonu sporządza na podstawie karty
+4) dane dotyczące êródła utrzymania zgonu.”.
+rodziców dziecka, Art. 2. Ustawa wchodzi życie po upływie 14 dni
+5) datę urodzenia dziecka, od dnia ogłoszenia.
+6) określenie miejscowości urodzenia dziecka, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
+USTAWA zdnia 12 czerwca 2003 ozmianie ustawy ostrażach gminnych oraz niektórych innych ustaw
 
-**Art. 1.** W ustawie z dnia 29 sierpnia 1997 o stra- „1a. W zwiàzku z wykonywaniem swoich zadaƒ ˝ach gminnych (Dz. U. 123, 779 oraz z 2002 stra˝ wspó∏pracuje z Policjà. W tym celu 113, 984) wprowadza nast´pujàce zmiany: wójt, burmistrz (prezydent miasta) mo˝e za1) wart. 9: wieraç z w∏aÊciwym terytorialnie komenrania porozumieƒ mi´dzy w∏aÊciwym terytorialnie komendantem Policji a wójtem, burmistrzem (prezydentem miasta),
+**Art. 1.** W ustawie z dnia 29 sierpnia 1997 o stra- Ń1a. W związku z wykonywaniem swoich zadań żach gminnych (Dz. U. 123, 779 oraz z 2002 straż współpracuje z Policją. W tym celu 113, 984) wprowadza następujące zmiany: wójt, burmistrz (prezydent miasta) może za1) wart. 9: wierać z właściwym terytorialnie komenrania porozumień między właściwym terytorialnie komendantem Policji a wójtem, burmistrzem (prezydentem miasta),
 
-**Art. 9b.** Komendanci stra˝y, za poÊrednictwem w∏aÊciwego terytorialnie komendanta wojewódzkiego Policji, dnia 15 lutego ka˝dego roku, sk∏adajà Komendantowi G∏ównemu Policji informacje o danych zawartych wewidencji, októrej mowa wart. 9a.”;
+**Art. 9b.** Komendanci straży, za pośrednictwem właściwego terytorialnie komendanta wojewódzkiego Policji, dnia 15 lutego każdego roku, składają Komendantowi Głównemu Policji informacje o danych zawartych wewidencji, októrej mowa wart. 9a.”;
 

@@ -26,33 +26,33 @@ domain: null
 
 **Art. 1.**
 
-1. Pos∏om do Parlamentu Europejskiego wybranym Rzeczypospolitej Polskiej, zwanym dalej „pos∏ami do Parlamentu Europejskiego”, przys∏uguje okresie sprawowania mandatu, liczàc od pierwszego posiedzenia Parlamentu Europejskiego, uposa˝enie wyp∏acane miesi´cznie, tak˝e za niepe∏ne miesiàce sprawowania mandatu.
+1. Posłom do Parlamentu Europejskiego wybranym Rzeczypospolitej Polskiej, zwanym dalej Ńposłami do Parlamentu Europejskiego”, przysługuje okresie sprawowania mandatu, licząc od pierwszego posiedzenia Parlamentu Europejskiego, uposażenie wypłacane miesięcznie, także za niepełne miesiące sprawowania mandatu.
 
-2. Pos∏om do Parlamentu Europejskiego, którzy obejmujà mandat trakcie trwania kadencji Parlamentu Europejskiego, przys∏uguje okresie sprawowania mandatu, liczàc od pierwszego posiedzenia Parlamentu Europejskiego, którym wzi´li udzia∏, uposa˝enie wyp∏acane miesi´cznie, tak˝e za niepe∏ne
+2. Posłom do Parlamentu Europejskiego, którzy obejmują mandat trakcie trwania kadencji Parlamentu Europejskiego, przysługuje okresie sprawowania mandatu, licząc od pierwszego posiedzenia Parlamentu Europejskiego, którym wzięli udział, uposażenie wypłacane miesięcznie, także za niepełne
 
-3. Okres pobierania uposa˝enia jest traktowany jak okres zatrudnienia.
+3. Okres pobierania uposażenia jest traktowany jak okres zatrudnienia.
 
-**Art. 3.** Wydatki wynikajàce uprawnieƒ okreÊlonych ustawie sà pokrywane bud˝etu paƒstwa cz´Êci dotyczàcej Kancelarii Sejmu.
+**Art. 3.** Wydatki wynikające uprawnień określonych ustawie są pokrywane budżetu państwa części dotyczącej Kancelarii Sejmu.
 
 **Art. 4.**
 
-1. Pos∏owi do Parlamentu Europejskiego, który uleg∏ wypadkowi przy sprawowaniu mandatu, przys∏ugujà Êwiadczenia na zasadach wysokoÊci okreÊlonych przepisami o ubezpieczeniu spo∏ecznym tytu∏u wypadków przy pracy chorób zawodowych.
+1. Posłowi do Parlamentu Europejskiego, który uległ wypadkowi przy sprawowaniu mandatu, przysługują świadczenia na zasadach wysokości określonych przepisami o ubezpieczeniu społecznym tytułu wypadków przy pracy chorób zawodowych.
 
-2. Minister w∏aÊciwy do spraw zabezpieczenia spomiesiàce sprawowania mandatu. ∏ecznego, wporozumieniu zministrem w∏aÊciwym do spraw pracy, po zasi´gni´ciu opinii Marsza∏ka Sejmu,
+2. Minister właściwy do spraw zabezpieczenia spomiesiące sprawowania mandatu. łecznego, wporozumieniu zministrem właściwym do spraw pracy, po zasięgnięciu opinii Marszałka Sejmu,
 
 **Art. 2.**
 
-1. Uposa˝enie odpowiada wysokoÊci wyna- okreÊla, drodze rozporzàdzenia: grodzenia podsekretarza stanu, ustalonego na podsta- 1) wzór dokumentu potwierdzajàcego okres wysowie przepisów o wynagrodzeniu osób zajmujàcych koÊç pobieranego uposa˝enia sk∏adek od tego kierownicze stanowiska paƒstwowe, wy∏àczeniem Êwiadczenia; dodatku tytu∏u wys∏ugi lat.
+1. Uposażenie odpowiada wysokości wyna- określa, drodze rozporządzenia: grodzenia podsekretarza stanu, ustalonego na podsta- 1) wzór dokumentu potwierdzającego okres wysowie przepisów o wynagrodzeniu osób zajmujących kość pobieranego uposażenia składek od tego kierownicze stanowiska państwowe, wyłączeniem świadczenia; dodatku tytułu wysługi lat.
 
-- **2)** sk∏ad zespo∏u powypadkowego badajàcego oko2. Uposa˝enie jest traktowane jako wynagrodzenie licznoÊci przyczyny wypadku przy sprawowaniu ze stosunku pracy. mandatu oraz zakres zadaƒ Kancelarii Sejmu stosunku do poszkodowanych tych wypadkach pos∏ów do Parlamentu Europejskiego, uwzgl´dniajàc wszczególnoÊci czynnoÊci niezb´dne do ustalenia uprawnienia do Êwiadczeƒ nale˝nych tytu∏u wypadku. USTAWA dnia 30 lipca 2004 o uposa˝eniu pos∏ów do Parlamentu Europejskiego wybranych Rzeczypospolitej Polskiej ——————— 1924 USTAWA dnia 23 lipca 2004 o ratyfikacji Konwencji o pomocy prawnej sprawach karnych pomi´dzy Paƒstwami Cz∏onkowskimi Unii Europejskiej, sporzàdzonej Brukseli dnia 29 maja 2000 r., oraz Protoko∏u do Konwencji o pomocy prawnej sprawach karnych pomi´dzy Paƒstwami Cz∏onkowskimi Unii Europejskiej dnia 29 maja 2000 r., sporzàdzonego Luksemburgu dnia 16 paêdziernika 2001
+- **2)** skład zespołu powypadkowego badającego oko2. Uposażenie jest traktowane jako wynagrodzenie liczności przyczyny wypadku przy sprawowaniu ze stosunku pracy. mandatu oraz zakres zadań Kancelarii Sejmu stosunku do poszkodowanych tych wypadkach posłów do Parlamentu Europejskiego, uwzględniając wszczególności czynności niezbędne do ustalenia uprawnienia do świadczeń należnych tytułu wypadku. USTAWA dnia 30 lipca 2004 o uposażeniu posłów do Parlamentu Europejskiego wybranych Rzeczypospolitej Polskiej ——————— 1924 USTAWA dnia 23 lipca 2004 o ratyfikacji Konwencji o pomocy prawnej sprawach karnych pomiędzy Państwami Członkowskimi Unii Europejskiej, sporządzonej Brukseli dnia 29 maja 2000 r., oraz Protokołu do Konwencji o pomocy prawnej sprawach karnych pomiędzy Państwami Członkowskimi Unii Europejskiej dnia 29 maja 2000 r., sporządzonego Luksemburgu dnia 16 paêdziernika 2001
 
-**Art. 1.** Wyra˝a si´ zgod´ na dokonanie przez Pre- skiej zdnia 29 maja 2000 r., sporzàdzonego wLuksemzydenta Rzeczypospolitej Polskiej ratyfikacji Konwen- burgu dnia 16 paêdziernika 2001 cji o pomocy prawnej sprawach karnych pomi´dzy Paƒstwami Cz∏onkowskimi Unii Europejskiej, sporzà- Art. 2. Ustawa wchodzi ˝ycie po up∏ywie 14 dni dzonej wBrukseli dnia 29 maja 2000 r., oraz Protoko∏u od dnia og∏oszenia. do Konwencji opomocy prawnej wsprawach karnych pomi´dzy Paƒstwami Cz∏onkowskimi Unii Europej- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski poz. 887, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wyraża się zgodę na dokonanie przez Pre- skiej zdnia 29 maja 2000 r., sporządzonego wLuksemzydenta Rzeczypospolitej Polskiej ratyfikacji Konwen- burgu dnia 16 paêdziernika 2001 cji o pomocy prawnej sprawach karnych pomiędzy Państwami Członkowskimi Unii Europejskiej, sporzą- Art. 2. Ustawa wchodzi życie po upływie 14 dni dzonej wBrukseli dnia 29 maja 2000 r., oraz Protokołu od dnia ogłoszenia. do Konwencji opomocy prawnej wsprawach karnych pomiędzy Państwami Członkowskimi Unii Europej- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski poz. 887, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 6.** W ustawie dnia 30 paêdziernika 2002 o ubezpieczeniu spo∏ecznym tytu∏u wypadków przy pracy ichorób zawodowych (Dz. U. 199, poz. 1673, póên. zm.
+**Art. 6.** W ustawie dnia 30 paêdziernika 2002 o ubezpieczeniu społecznym tytułu wypadków przy pracy ichorób zawodowych (Dz. U. 199, poz. 1673, póên. zm.
 
-**Art. 7.** W ustawie dnia 23 stycznia 2003 o powszechnym ubezpieczeniu Narodowym Funduszu Zdrowia (Dz. U. 45, poz. 391, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 7.** W ustawie dnia 23 stycznia 2003 o powszechnym ubezpieczeniu Narodowym Funduszu Zdrowia (Dz. U. 45, poz. 391, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 8.** W 2004 wydatki wynikajàce uprawnieƒ okreÊlonych wustawie sà pokrywane ze Êrodków bud˝etu paƒstwa przekazanych na ten cel Kancelarii Sejmu.
+**Art. 8.** W 2004 wydatki wynikające uprawnień określonych wustawie są pokrywane ze środków budżetu państwa przekazanych na ten cel Kancelarii Sejmu.
 
-**Art. 9.** Ustawa wchodzi ˝ycie dniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski ——————— 1926 ROZPORZÑDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ dnia 13 sierpnia 2004 sprawie przekazania Wojewódzkim Sàdom Administracyjnym Gorzowie Wielkopolskim Kielcach rozpoznawania spraw obszaru województwa lubuskiego Êwi´tokrzyskiego nale˝àcych do w∏aÊciwoÊci Wojewódzkich Sàdów Administracyjnych Poznaniu Krakowie Na podstawie art. 13 § 3 ustawy zdnia 30 sierpnia 2002 Prawo o post´powaniu przed sàdami admi§ 1. Wojewódzkiemu Sàdowi Administracyjnemu Gorzowie Wielkopolskim przekazuje si´ sprawy, ———————
+**Art. 9.** Ustawa wchodzi życie dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ——————— 1926 ROZPORZÑDZENIE PREZYDENTA RZECZYPOSPOLITEJ POLSKIEJ dnia 13 sierpnia 2004 sprawie przekazania Wojewódzkim Sądom Administracyjnym Gorzowie Wielkopolskim Kielcach rozpoznawania spraw obszaru województwa lubuskiego świętokrzyskiego należących do właściwości Wojewódzkich Sądów Administracyjnych Poznaniu Krakowie Na podstawie art. 13 § 3 ustawy zdnia 30 sierpnia 2002 Prawo o postępowaniu przed sądami admi§ 1. Wojewódzkiemu Sądowi Administracyjnemu Gorzowie Wielkopolskim przekazuje się sprawy, ———————
 

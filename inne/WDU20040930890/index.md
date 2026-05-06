@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# zak∏adu karnego
+# zakładu karnego
 
 | Pole | Wartość |
 |---|---|
@@ -26,129 +26,129 @@ domain: null
 
 **Art. 168a.**
 
-§ 1. Na wniosek pokrzywdzonego, odpowiednio, s´dzia penitencjarny lub dyrektor zak∏adu karnego niezw∏ocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osob´, pod której sta∏à pieczà pokrzywdzony pozostaje, zwolnieniu skazanego z zak∏adu karnego po odbyciu kary, ucieczce skazanego z zak∏adu karnego, atak˝e owydaniu decyzji oudzieleniu skazanemu:
+§ 1. Na wniosek pokrzywdzonego, odpowiednio, sędzia penitencjarny lub dyrektor zakładu karnego niezwłocznie zawiadamia pokrzywdzonego, jego przedstawiciela ustawowego lub osobę, pod której stałą pieczą pokrzywdzony pozostaje, zwolnieniu skazanego z zakładu karnego po odbyciu kary, ucieczce skazanego z zakładu karnego, atakże owydaniu decyzji oudzieleniu skazanemu:
 
-- **1)** przepustki, której art.91 7 92 9, § 2. O prawie do z∏o˝enia wniosku, którym § 1, poucza pokrzywdzonego sàd, kierujàc orzeczenie do wykonania.”.
+- **1)** przepustki, której art.91 7 92 9, § 2. O prawie do złożenia wniosku, którym § 1, poucza pokrzywdzonego sąd, kierując orzeczenie do wykonania.”.
 
-**Art. 4.** W ustawie z dnia 28 paêdziernika 2002 r. oodpowiedzialnoÊci podmiotów zbiorowych za czyny zabronione pod groêbà kary (Dz. U. 197, poz. 1661) wprowadza si´ nast´pujàce zmiany:
+**Art. 4.** W ustawie z dnia 28 paêdziernika 2002 r. oodpowiedzialności podmiotów zbiorowych za czyny zabronione pod groêbą kary (Dz. U. 197, poz. 1661) wprowadza się następujące zmiany:
 
-**Art. 1.** W ustawie z dnia 26 listopada 1998 r. finansach publicznych (Dz. U. z 2003 r. 15, poz. 148, z póên. zm. 2a, klasyfikuje si´, z zastrze˝eniem ust. 1a, wed∏ug: ) wprowadza si´ nast´pujàce zmiany: 1) dzia∏ów rozdzia∏ów okreÊlajàcych ro1) 1 11 kropk´ zast´puje si´ Êrednikiem dzaj dzia∏alnoÊci; dodaje si´ 12 brzmieniu: 2) paragrafów okreÊlajàcych rodzaj dochodu, przychodu lub wydatku oraz Êrodków, „12) zasady tryb gospodarowania Êrodkami po- októrych wart. 3 ust. 1 2 i2a.”, chodzàcymi z bud˝etu Unii Europejskiej.”;
+**Art. 1.** W ustawie z dnia 26 listopada 1998 r. finansach publicznych (Dz. U. z 2003 r. 15, poz. 148, z póên. zm. 2a, klasyfikuje się, z zastrzeżeniem ust. 1a, według: ) wprowadza się następujące zmiany: 1) działów rozdziałów określających ro1) 1 11 kropkę zastępuje się średnikiem dzaj działalności; dodaje się 12 brzmieniu: 2) paragrafów określających rodzaj dochodu, przychodu lub wydatku oraz środków, Ń12) zasady tryb gospodarowania środkami po- októrych wart. 3 ust. 1 2 i2a.”, chodzącymi z budżetu Unii Europejskiej.”;
 
 **Art. 30h.**
 
-1. Jednostka sektora finansów publicznych, która otrzyma z bud˝etu paƒstwa Êrodki prefinansowanie, jest obowiàzana do otwarcia Banku Gospodarstwa Krajowego rachunku bankowego do obs∏ugi finansowej realizowanego projektu, z zastrze˝eniem ust. 2—4.
+1. Jednostka sektora finansów publicznych, która otrzyma z budżetu państwa środki prefinansowanie, jest obowiązana do otwarcia Banku Gospodarstwa Krajowego rachunku bankowego do obsługi finansowej realizowanego projektu, z zastrzeżeniem ust. 2—4.
 
-2. Paƒstwowa jednostka bud˝etowa oraz paƒstwowa osoba prawna dzia∏ajàca formie agencji, która otrzyma z bud˝etu paƒstwa Êrodki prefinansowanie, mo˝e otworzyç Narodowym Banku Polskim rachunek bankowy do obs∏ugi finansowej realizowanego projektu.
+2. Państwowa jednostka budżetowa oraz państwowa osoba prawna działająca formie agencji, która otrzyma z budżetu państwa środki prefinansowanie, może otworzyć Narodowym Banku Polskim rachunek bankowy do obsługi finansowej realizowanego projektu.
 
-3. Jednostka samorzàdu terytorialnego, która otrzyma z bud˝etu paƒstwa Êrodki prefinansowanie, mo˝e otworzyç odr´bny rachunek bankowy do obs∏ugi finansowej realizowanego projektu banku prowadzàcym obs∏ug´ bud˝etu tej jednostki.
+3. Jednostka samorządu terytorialnego, która otrzyma z budżetu państwa środki prefinansowanie, może otworzyć odrębny rachunek bankowy do obsługi finansowej realizowanego projektu banku prowadzącym obsługę budżetu tej jednostki.
 
-4. Agencja p∏atnicza, które otrzyma z bud˝etu paƒstwa Êrodki prefinansowanie zadaƒ Wspólnej Polityki Rolnej, jest obowiàzana do otwarcia Narodowym Banku Polskim rachunku bankowego do obs∏ugi finansowej tych zadaƒ.
+4. Agencja płatnicza, które otrzyma z budżetu państwa środki prefinansowanie zadań Wspólnej Polityki Rolnej, jest obowiązana do otwarcia Narodowym Banku Polskim rachunku bankowego do obsługi finansowej tych zadań.
 
 **Art. 30i.**
 
-1. Zwrot po˝yczki udzielonej prefinansowanie nast´puje po otrzymaniu Êrodków z bud˝etu Unii Europejskiej.
+1. Zwrot pożyczki udzielonej prefinansowanie następuje po otrzymaniu środków z budżetu Unii Europejskiej.
 
-2. W przypadku niewp∏yni´cia Êrodków z bud˝etu Unii Europejskiej, z przyczyn zale˝nych od jednostki sektora finansów publicznych, zwrot po˝yczki nast´puje ze Êrodków w∏asnych jednostki sektora finansów publicznych.
+2. W przypadku niewpłynięcia środków z budżetu Unii Europejskiej, z przyczyn zależnych od jednostki sektora finansów publicznych, zwrot pożyczki następuje ze środków własnych jednostki sektora finansów publicznych.
 
-3. Minister Finansów porozumieniu z ministrem odpowiedzialnym za zarzàdzanie programem lub projektem finansowanym z udzia∏em Êrodków, których 3 ust. 3 2, zwanym dalej „w∏aÊciwym mini4) sposób zwrotu po˝yczki,
+3. Minister Finansów porozumieniu z ministrem odpowiedzialnym za zarządzanie programem lub projektem finansowanym z udziałem środków, których 3 ust. 3 2, zwanym dalej Ńwłaściwym mini4) sposób zwrotu pożyczki,
 
-- **5)** tryb terminy zwrotu po˝yczki, przypadku którym ust. 2,
-- **6)** wysokoÊç prowizji bankowych,
-- **7)** wysokoÊç oprocentowania, nie wy˝szà ni˝ rentownoÊç 52-tygodniowych bonów skarbowych uwzgl´dniajàc koniecznoÊç zapewnienia prawid∏owego wydatkowania Êrodków z bud˝etu paƒstwa.
+- **5)** tryb terminy zwrotu pożyczki, przypadku którym ust. 2,
+- **6)** wysokość prowizji bankowych,
+- **7)** wysokość oprocentowania, nie wyższą niż rentowność 52-tygodniowych bonów skarbowych uwzględniając konieczność zapewnienia prawidłowego wydatkowania środków z budżetu państwa.
 
 **Art. 30j.**
 
-1. Przepisów 30i nie stosuje si´ do agencji p∏atniczej.
+1. Przepisów 30i nie stosuje się do agencji płatniczej.
 
-2. Rozliczenie po˝yczki udzielonej agencji p∏atniczej nast´puje po wp∏yni´ciu Êrodków, których 3 ust. 3 3, rachunek bankowy do obs∏ugi tych Êrodków.
+2. Rozliczenie pożyczki udzielonej agencji płatniczej następuje po wpłynięciu środków, których 3 ust. 3 3, rachunek bankowy do obsługi tych środków.
 
 **Art. 30k.**
 
-1. Umow´ po˝yczki z jednostkà sektora finansów publicznych zawiera w∏aÊciwy minister, z zastrze˝eniem ust. 5.
+1. Umowę pożyczki z jednostką sektora finansów publicznych zawiera właściwy minister, z zastrzeżeniem ust. 5.
 
-2. W∏aÊciwy minister mo˝e zleciç Bankowi Gospodarstwa Krajowego zawieranie umów, októrych wust. 1.
+2. Właściwy minister może zlecić Bankowi Gospodarstwa Krajowego zawieranie umów, októrych wust. 1.
 
-3. Minister Finansów mo˝e, wniosek w∏aÊciwego ministra, otworzyç Banku Gospodarstwa Krajowego rachunek bankowy do obs∏ugi po˝yczek, których ust. 2.
+3. Minister Finansów może, wniosek właściwego ministra, otworzyć Banku Gospodarstwa Krajowego rachunek bankowy do obsługi pożyczek, których ust. 2.
 
 4. Rachunek bankowy, którym ust. 3, jest oprocentowany. Oprocentowanie rachunku ustalone zostanie umowie rachunku bankowego.
 
-5. Umow´ po˝yczki z paƒstwowà jednostkà bud˝etowà, paƒstwowà osobà prawnà dzia∏ajàcà formie agencji lub agencjà p∏atniczà zawiera Minister Finansów.
+5. Umowę pożyczki z państwową jednostką budżetową, państwową osobą prawną działającą formie agencji lub agencją płatniczą zawiera Minister Finansów.
 
 **Art. 30l.**
 
-1. Po˝yczka wykorzystana niezgodnie z przeznaczeniem podlega zwrotowi do bud˝etu paƒstwa wraz z odsetkami ustalonymi jak dla zaleg∏oÊci podatkowych terminie 7 dni od dnia stwierdzenia nieprawid∏owego wykorzystania po˝yczki.
+1. Pożyczka wykorzystana niezgodnie z przeznaczeniem podlega zwrotowi do budżetu państwa wraz z odsetkami ustalonymi jak dla zaległości podatkowych terminie 7 dni od dnia stwierdzenia nieprawidłowego wykorzystania pożyczki.
 
-2. Zwrotowi podlega ta cz´Êç po˝yczki tacje lub inne dofinansowanie wydatków jednostki sektora finansów, je˝eli jednostka takie finansowanie zbud˝etu paƒstwa otrzymuje.
+2. Zwrotowi podlega ta część pożyczki tacje lub inne dofinansowanie wydatków jednostki sektora finansów, jeżeli jednostka takie finansowanie zbudżetu państwa otrzymuje.
 
-4. Wykorzystanie po˝yczki niezgodnie zprzeznaczeniem wyklucza prawo do otrzymania Êrodków wspó∏finansowanie programów iprojektów oraz prefinansowanie przez okres 3 lat, liczàc od dnia stwierdzenia nieprawid∏owego wykorzystania po˝yczki.
+4. Wykorzystanie pożyczki niezgodnie zprzeznaczeniem wyklucza prawo do otrzymania środków współfinansowanie programów iprojektów oraz prefinansowanie przez okres 3 lat, licząc od dnia stwierdzenia nieprawidłowego wykorzystania pożyczki.
 
-5. Przepisy ust. 1—4 nie dotyczà agencji p∏atniczych.”;
+5. Przepisy ust. 1—4 nie dotyczą agencji płatniczych.”;
 
 - **6)** 61 ust. 4:
-    - **a)** 4 5 otrzymujà „4) zestawienie programów projektów realizowanych ze Êrodków, októrych wart.3 ust. 1 2aiust. 3 1;
+    - **a)** 4 5 otrzymują Ń4) zestawienie programów projektów realizowanych ze środków, októrych wart.3 ust. 1 2aiust. 3 1;
 
-- **5)** zestawienie programów iprojektów realizowanych ze Êrodków, których art.3 ust. 3 2, podziale poszczególne okresy realizacji êród∏a pochodzenia Êrodków ich realizacj´; odniesieniu do programów zestawienie sporzàdza si´ wed∏ug kategorii interwencji funduszy strukturalnych;”,
-    - **b)** dodaje si´ 6 7 brzmieniu: „6) zestawienie programów projektów realizowanych ze Êrodków, októrych wart. 3 ust. 3 4;
+- **5)** zestawienie programów iprojektów realizowanych ze środków, których art.3 ust. 3 2, podziale poszczególne okresy realizacji êródła pochodzenia środków ich realizację; odniesieniu do programów zestawienie sporządza się według kategorii interwencji funduszy strukturalnych;”,
+    - **b)** dodaje się 6 7 brzmieniu: Ń6) zestawienie programów projektów realizowanych ze środków, októrych wart. 3 ust. 3 4;
 
-- **7)** wykaz wieloletnich limitów zobowiàzaƒ kolejnych latach realizacji Narodowego Planu Rozwoju oraz wykaz wieloletnich limitów wydatków kolejnych latach realizacji Narodowego Planu Rozwoju.”;
-- **7)** 64 ust. 2 zdanie wst´pne otrzymuje „Deficyt bud˝etu paƒstwa oraz inne po˝yczkowe potrzeby bud˝etu paƒstwa mogà byç pokryte przychodami pochodzàcymi z:”;
-- **8)** 80a ust. 1 otrzymuje „1. Przepisów 80 nie stosuje si´ do wieloletnich programów projektów realizowanych ze Êrodków, októrych wart. 3 ust. 3 2,3 i4.”;
-    - **a)** ust. 1 otrzymuje „1. Rada Ministrów kieruje wykonywaniem bud˝etu paƒstwa iwtym celu mo˝e, wdrodze rozporzàdzenia, wydawaç wytyczne.”,
-    - **b)** po ust. 1 dodaje si´ ust. 1a 1b brzmieniu: „1a. Wrozporzàdzeniu, októrym wust. 1, Rada Ministrów okreÊla:
+- **7)** wykaz wieloletnich limitów zobowiązań kolejnych latach realizacji Narodowego Planu Rozwoju oraz wykaz wieloletnich limitów wydatków kolejnych latach realizacji Narodowego Planu Rozwoju.”;
+- **7)** 64 ust. 2 zdanie wstępne otrzymuje ŃDeficyt budżetu państwa oraz inne pożyczkowe potrzeby budżetu państwa mogą być pokryte przychodami pochodzącymi z:”;
+- **8)** 80a ust. 1 otrzymuje Ń1. Przepisów 80 nie stosuje się do wieloletnich programów projektów realizowanych ze środków, októrych wart. 3 ust. 3 2,3 i4.”;
+    - **a)** ust. 1 otrzymuje Ń1. Rada Ministrów kieruje wykonywaniem budżetu państwa iwtym celu może, wdrodze rozporządzenia, wydawać wytyczne.”,
+    - **b)** po ust. 1 dodaje się ust. 1a 1b brzmieniu: Ń1a. Wrozporządzeniu, októrym wust. 1, Rada Ministrów określa:
 
-- **1)** organy administracji rzàdowej uprawnione do dokonywania okreÊlonych wydatków;
-- **2)** szczegó∏owy sposób dokonywania wydatków, których 1;
-- **3)** szczegó∏owy sposób terminy sporzàdzania informacji z wykonania wydatków, których 1, oraz jednostki obowiàzane do ich sporzàdzania;
-- **4)** jednostki sektora finansów publicznych, których przeprowadza si´ audyt zewn´trzny.
+- **1)** organy administracji rządowej uprawnione do dokonywania określonych wydatków;
+- **2)** szczegółowy sposób dokonywania wydatków, których 1;
+- **3)** szczegółowy sposób terminy sporządzania informacji z wykonania wydatków, których 1, oraz jednostki obowiązane do ich sporządzania;
+- **4)** jednostki sektora finansów publicznych, których przeprowadza się audyt zewnętrzny.
 
-1b. Rada Ministrów wydajàc rozporzàdzenie, októrym wust. 1a, uwzgl´dnia w∏aÊciwoÊç podmiotów realizujàcych zadania oraz zakres podmiotowy tych zadaƒ.”;
+1b. Rada Ministrów wydając rozporządzenie, októrym wust. 1a, uwzględnia właściwość podmiotów realizujących zadania oraz zakres podmiotowy tych zadań.”;
 
-- **12)** 92 4 otrzymuje „4) wydatki wspó∏finansowanie programów projektów realizowanych ze Êrodków, których 3 ust. 1 2 2a, mogà byç dokonywane po podpisaniu umów finansowych z dawcà Êrodków, a dla projektów realizowanych ze Êrodków, októrych wart.3 ust. 3 2, pochodzàcych zFunduszu SpójnoÊci od dnia otrzymania przez Komisj´ Europejskà wniosku dofinansowanie projektu spe∏niajàcego wymogi okreÊlone wodr´bnych przepisach.”;
-- **13)** po 92 dodaje si´ 92a brzmieniu: „Art. 92a. 1. Wp∏aty Êrodków w∏asnych Unii Europejskiej do jej bud˝etu dokonywane sà wterminach iwysokoÊci wynikajàcej z umowy mi´dzynarodowej, z zastrze˝eniem ust. 2.
+- **12)** 92 4 otrzymuje Ń4) wydatki współfinansowanie programów projektów realizowanych ze środków, których 3 ust. 1 2 2a, mogą być dokonywane po podpisaniu umów finansowych z dawcą środków, a dla projektów realizowanych ze środków, októrych wart.3 ust. 3 2, pochodzących zFunduszu Spójności od dnia otrzymania przez Komisję Europejską wniosku dofinansowanie projektu spełniającego wymogi określone wodrębnych przepisach.”;
+- **13)** po 92 dodaje się 92a brzmieniu: ŃArt. 92a. 1. Wpłaty środków własnych Unii Europejskiej do jej budżetu dokonywane są wterminach iwysokości wynikającej z umowy międzynarodowej, z zastrzeżeniem ust. 2.
 
-2. W przypadku, gdy trakcie roku bud˝etowego wyniku zmian wprowadzonych bud˝ecie ogólnym Unii Europejskiej wp∏ata Êrodków w∏a4. Pozytywna opinia sejmowej komisji w∏aÊciwej do spraw bud˝etu oproponowanych êród∏ach sfinansowania zwi´kszonych wp∏at Êrodków w∏asnych Unii Europejskiej oznacza:
+2. W przypadku, gdy trakcie roku budżetowego wyniku zmian wprowadzonych budżecie ogólnym Unii Europejskiej wpłata środków wła4. Pozytywna opinia sejmowej komisji właściwej do spraw budżetu oproponowanych êródłach sfinansowania zwiększonych wpłat środków własnych Unii Europejskiej oznacza:
 
-- **1)** upowa˝nienie dla Ministra Finansów do przeniesienia wydatków mi´dzy cz´Êciami dzia∏ami przypadku, októrym wust. 3 1;
-- **2)** zgod´ komisji zmian´ przeznaczenia rezerw celowych bez stosowania trybu okreÊlonego 90 przypadku, którym ust. 3 2;
-- **3)** upowa˝nienie dla Rady Ministrów do dokonania przeniesienia planowanych wydatków pomi´dzy cz´Êciami dzia∏ami bud˝etu paƒstwa wprzypadku innych wydatków.”;
-- **14)** otrzymuje „Art. 93. 1. Dotacje udzielone z bud˝etu paƒstwa:
+- **1)** upoważnienie dla Ministra Finansów do przeniesienia wydatków między częściami działami przypadku, októrym wust. 3 1;
+- **2)** zgodę komisji zmianę przeznaczenia rezerw celowych bez stosowania trybu określonego 90 przypadku, którym ust. 3 2;
+- **3)** upoważnienie dla Rady Ministrów do dokonania przeniesienia planowanych wydatków pomiędzy częściami działami budżetu państwa wprzypadku innych wydatków.”;
+- **14)** otrzymuje ŃArt. 93. 1. Dotacje udzielone z budżetu państwa:
 - **1)** wykorzystane niezgodnie zprzeznaczeniem,
-- **2)** pobrane nienale˝nie lub wnadmiernej wysokoÊci podlegajà zwrotowi do bud˝etu paƒstwa wraz z odsetkami wysokoÊci okreÊlonej jak dla zaleg∏oÊci podatkowych, terminie do dnia 28 lutego roku nast´pujàcego po roku, wktórym udzielono dotacji.
+- **2)** pobrane nienależnie lub wnadmiernej wysokości podlegają zwrotowi do budżetu państwa wraz z odsetkami wysokości określonej jak dla zaległości podatkowych, terminie do dnia 28 lutego roku następującego po roku, wktórym udzielono dotacji.
 
-2. Wykorzystanie dotacji nast´puje, szczególnoÊci przez zap∏at´ za zrealizowane zadania, które dotacja by∏a udzielona albo przypadku gdy przepisy odr´bne stanowià osposobie udzielenia rozliczenia dotacji, wykorzystanie nast´puje przez realizacj´ celów wskazanych tych przepisach.
+2. Wykorzystanie dotacji następuje, szczególności przez zapłatę za zrealizowane zadania, które dotacja była udzielona albo przypadku gdy przepisy odrębne stanowią osposobie udzielenia rozliczenia dotacji, wykorzystanie następuje przez realizację celów wskazanych tych przepisach.
 
-3. Dotacjami pobranymi nadmiernej wysokoÊci sà dotacje otrzymane z bud˝etu wysokoÊci wy˝szej ni˝:
+3. Dotacjami pobranymi nadmiernej wysokości są dotacje otrzymane z budżetu wysokości wyższej niż:
 
-- **1)** okreÊlona odr´bnych przepisach lub umowie;
-- **2)** niezb´dna dofinansowanie lub finansowanie dotowanego zadania.
-- **1)** przekazania z bud˝etu paƒstwa dotacji wykorzystanych niezgodnie z przeznaczeniem;
-- **2)** stwierdzenia nieprawid∏owego naliczenia lub nienale˝nego pobrania dotacji.
+- **1)** określona odrębnych przepisach lub umowie;
+- **2)** niezbędna dofinansowanie lub finansowanie dotowanego zadania.
+- **1)** przekazania z budżetu państwa dotacji wykorzystanych niezgodnie z przeznaczeniem;
+- **2)** stwierdzenia nieprawidłowego naliczenia lub nienależnego pobrania dotacji.
 
-7. Wykorzystanie dotacji niezgodnie z przeznaczeniem wyklucza prawo otrzymania dotacji przez kolejne 3 lata, liczàc od dnia stwierdzenia nieprawid∏owego wykorzystania dotacji, z wy∏àczeniem dotacji przedmiotowych oraz dotacji celowych przyznawanych jednostkom samorzàdu terytorialnego realizacj´ zadaƒ z zakresu administracji rzàdowej oraz innych zadaƒ zleconych ustawami.”;
+7. Wykorzystanie dotacji niezgodnie z przeznaczeniem wyklucza prawo otrzymania dotacji przez kolejne 3 lata, licząc od dnia stwierdzenia nieprawidłowego wykorzystania dotacji, z wyłączeniem dotacji przedmiotowych oraz dotacji celowych przyznawanych jednostkom samorządu terytorialnego realizację zadań z zakresu administracji rządowej oraz innych zadań zleconych ustawami.”;
 
-- **15)** dodaje si´ 93a brzmieniu: „Art. 93a. 1. W przypadku niedokonania zwrotu dotacji terminie, którym wart. ust. 1, organ lub inny dysponent cz´Êci bud˝etowej, który udzieli∏ dotacji, wydaje decyzj´ okreÊlajàcà kwot´ przypadajàcà do zwrotu termin, od którego nalicza si´ odsetki.
+- **15)** dodaje się 93a brzmieniu: ŃArt. 93a. 1. W przypadku niedokonania zwrotu dotacji terminie, którym wart. ust. 1, organ lub inny dysponent części budżetowej, który udzielił dotacji, wydaje decyzję określającą kwotę przypadającą do zwrotu termin, od którego nalicza się odsetki.
 
-2. Organem odwo∏awczym od decyzji wydanych wpierwszej instancji przez wojewod´ jest Minister Finansów.
+2. Organem odwoławczym od decyzji wydanych wpierwszej instancji przez wojewodę jest Minister Finansów.
 
-3. Wzakresie nieuregulowanym wust. 1 2 stosuje si´ odpowiednio przepisy dzia∏u III ustawy Ordynacja podatkowa, zwyjàtkiem 57 tej ustawy.
+3. Wzakresie nieuregulowanym wust. 1 2 stosuje się odpowiednio przepisy działu III ustawy Ordynacja podatkowa, zwyjątkiem 57 tej ustawy.
 
-4. Kompetencje organu podatkowego okreÊlone wdziale III ustawy Ordynacja podatkowa, wykonuje organ, którym ust. 1.”;
+4. Kompetencje organu podatkowego określone wdziale III ustawy Ordynacja podatkowa, wykonuje organ, którym ust. 1.”;
 
-- **16)** 113 dodaje si´ ust. 3 brzmieniu: „3. Ograniczeƒ okreÊlonych ust. 1 nie stosuje si´ do kredytów po˝yczek zaciàgni´tych zwiàzku ze Êrodkami okreÊlonymi umowie zawartej zpodmiotem dysponujàcym funduszami strukturalnymi lub Funduszem SpójnoÊci Unii Europejskiej, a tak˝e emitowanych tym celu papierów wartoÊciowych.”;
-- **17)** 114 otrzymuje „Art. 114. 1. ¸àczna kwota d∏ugu jednostki samorzàdu terytorialnego koniec roku 2, nie stosuje si´ do emitowanych papierów wartoÊciowych, kredytów po˝yczek zaciàganych zwiàzku ze Êrodkami okreÊlonymi umowie zawartej z podmiotem dysponujàcym funduszami strukturalnymi lub Funduszem SpójnoÊci Unii Europejskiej.
+- **16)** 113 dodaje się ust. 3 brzmieniu: Ń3. Ograniczeń określonych ust. 1 nie stosuje się do kredytów pożyczek zaciągniętych związku ze środkami określonymi umowie zawartej zpodmiotem dysponującym funduszami strukturalnymi lub Funduszem Spójności Unii Europejskiej, a także emitowanych tym celu papierów wartościowych.”;
+- **17)** 114 otrzymuje ŃArt. 114. 1. Ęączna kwota długu jednostki samorządu terytorialnego koniec roku 2, nie stosuje się do emitowanych papierów wartościowych, kredytów pożyczek zaciąganych związku ze środkami określonymi umowie zawartej z podmiotem dysponującym funduszami strukturalnymi lub Funduszem Spójności Unii Europejskiej.
 
-4. W przypadku, gdy okreÊlone umowie Êrodki z funduszy strukturalnych lub Funduszu SpójnoÊci Unii Europejskiej nie zostanà przekazane lub po ich przekazaniu orzeczony zostanie ich zwrot, jednostka samorzàdu terytorialnego nie mo˝e emitowaç papierów wartoÊciowych, zaciàgaç kredytów, po˝yczek udzielaç por´czeƒ do czasu spe∏nienia warunków, októrych wust. 1 i2 oraz wart. 113 ust. 1 i2.”;
+4. W przypadku, gdy określone umowie środki z funduszy strukturalnych lub Funduszu Spójności Unii Europejskiej nie zostaną przekazane lub po ich przekazaniu orzeczony zostanie ich zwrot, jednostka samorządu terytorialnego nie może emitować papierów wartościowych, zaciągać kredytów, pożyczek udzielać poręczeń do czasu spełnienia warunków, októrych wust. 1 i2 oraz wart. 113 ust. 1 i2.”;
 
-- **18)** 124 ust. 1 4a otrzymuje „4a) wydatki programy iprojekty realizowane ze Êrodków, októrych wart. 3 ust. 3 2;”;
-- **19)** po 129 dodaje si´ 129a brzmieniu: „Art. 129a. Przepisy iart. 93astosuje si´ odpowiednio do dotacji udzielonych zbud˝etu jednostki samorzàdu terytorialnego. Decyzj´ wsprawie zwrotu dotacji wydaje wójt (burmistrz, prezydent miasta), starosta lub marsza∏ek województwa. Organem odwo∏awczym od decyzji jest w∏aÊciwe miejscowo samorzàdowe kolegium odwo∏awcze.”.
+- **18)** 124 ust. 1 4a otrzymuje Ń4a) wydatki programy iprojekty realizowane ze środków, októrych wart. 3 ust. 3 2;”;
+- **19)** po 129 dodaje się 129a brzmieniu: ŃArt. 129a. Przepisy iart. 93astosuje się odpowiednio do dotacji udzielonych zbudżetu jednostki samorządu terytorialnego. Decyzję wsprawie zwrotu dotacji wydaje wójt (burmistrz, prezydent miasta), starosta lub marszałek województwa. Organem odwoławczym od decyzji jest właściwe miejscowo samorządowe kolegium odwoławcze.”.
 
-**Art. 2.** W ustawie z dnia 30 lipca 2003 r. uruchamianiu Êrodków pochodzàcych z Sekcji Gwarancji Europejskiego Funduszu Orientacji Gwarancji Rolnej (Dz. U. 166, poz. 1611 oraz z 2004 r. 42, poz. 386) 13:
+**Art. 2.** W ustawie z dnia 30 lipca 2003 r. uruchamianiu środków pochodzących z Sekcji Gwarancji Europejskiego Funduszu Orientacji Gwarancji Rolnej (Dz. U. 166, poz. 1611 oraz z 2004 r. 42, poz. 386) 13:
 
-**Art. 3.** Wszcz´te przed dniem og∏oszenia ustawy sprawy dotyczàce zwrotu dotacji, rozpatrywane przez naczelnika urz´du skarbowego, inspektora kontroli skarbowej oraz przez organy odwo∏awcze, prowadzà dalszym ciàgu te organy a˝ do zakoƒczenia post´powania. W∏aÊciwoÊç organu odwo∏awczego okreÊlajà odr´bne przepisy.
+**Art. 3.** Wszczęte przed dniem ogłoszenia ustawy sprawy dotyczące zwrotu dotacji, rozpatrywane przez naczelnika urzędu skarbowego, inspektora kontroli skarbowej oraz przez organy odwoławcze, prowadzą dalszym ciągu te organy aż do zakończenia postępowania. Właściwość organu odwoławczego określają odrębne przepisy.
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze wydaprzez agencje p∏atnicze terminów ne podstawie 13 ust. 3 4 ustawy, której mowarunków dokonywanych p∏atno- wa wart. 1, zachowujà moc do dnia wejÊcia w˝ycie noÊci, a tak˝e koniecznoÊç kontroli wych przepisów wykonawczych wydanych podstaÊrodków b´dàcych dyspozycji wie tych upowa˝nieƒ brzmieniu nadanym niniejszà agencji p∏atniczych.”;”; ustawà, nie d∏u˝ej jednak ni˝ do dnia 31 grudnia 2004 r.
+**Art. 4.** Dotychczasowe przepisy wykonawcze wydaprzez agencje płatnicze terminów ne podstawie 13 ust. 3 4 ustawy, której mowarunków dokonywanych płatno- wa wart. 1, zachowują moc do dnia wejścia wżycie ności, a także konieczność kontroli wych przepisów wykonawczych wydanych podstaśrodków będących dyspozycji wie tych upoważnień brzmieniu nadanym niniejszą agencji płatniczych.”;”; ustawą, nie dłużej jednak niż do dnia 31 grudnia 2004 r.
 
-**Art. 5.** Ustawa wchodzi ˝ycie z dniem 1 maja
+**Art. 5.** Ustawa wchodzi życie z dniem 1 maja
 
-**Art. 1.** Wustawie zdnia 15 grudnia 2000 r. oochro- a) 3 lit. c otrzymuje nie konkurencji ikonsumentów (Dz. U. z2003 r. 86, poz. 804 170, poz. 1652) wprowadza si´ nast´pu- „c) cz∏onkowie jego zarzàdu lub rady nadzorczej jàce zmiany: stanowià wi´cej ni˝ po∏ow´ cz∏onków zarzàdu innego przedsi´biorcy (przedsi´biorcy
+**Art. 1.** Wustawie zdnia 15 grudnia 2000 r. oochro- a) 3 lit. c otrzymuje nie konkurencji ikonsumentów (Dz. U. z2003 r. 86, poz. 804 170, poz. 1652) wprowadza się następu- Ńc) członkowie jego zarządu lub rady nadzorczej jące zmiany: stanowią więcej niż połowę członków zarządu innego przedsiębiorcy (przedsiębiorcy
 

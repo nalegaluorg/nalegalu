@@ -26,17 +26,17 @@ domain: null
 
 **Art. 1.** W ustawie dnia 15 listopada 1956 o zmianie imion i nazwisk (Dz. U. 1963 59, poz.328, póên. zm.
 
-**Art. 2.** W ustawie dnia 10 kwietnia 1974 o ewidencji ludnoÊci i dowodach osobistych (Dz. U. z2001r. 87, 960, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 2.** W ustawie dnia 10 kwietnia 1974 o ewidencji ludności i dowodach osobistych (Dz. U. z2001r. 87, 960, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 9 wrzeÊnia 2000 o op∏acie skarbowej (Dz. U. 2004 253, 2532 2005 14, 115 i 48, 447) art. 2 ust. 1 pkt 7 otrzymuje brzmienie: „7) podania i za∏àczniki do podaƒ, czynnoÊci urz´dowe, zaÊwiadczenia sprawach o zmian´ nazwiprawnie je zmieniono, a tak˝e zst´pnych i ma∏- cywilnego. ˝onków tych osób;”.
+**Art. 3.** W ustawie dnia 9 września 2000 o opłacie skarbowej (Dz. U. 2004 253, 2532 2005 14, 115 i 48, 447) art. 2 ust. 1 pkt 7 otrzymuje brzmienie: Ń7) podania i załączniki do podań, czynności urzędowe, zaświadczenia sprawach o zmianę nazwiprawnie je zmieniono, a także zstępnych i mał- cywilnego. żonków tych osób;”.
 
-**Art. 6.** Ustawa wchodzi ˝ycie po up∏ywie 14 dni
+**Art. 6.** Ustawa wchodzi życie po upływie 14 dni
 
-**Art. 4.** Wustawie zdnia 6 stycznia 2005 omniej- od dnia og∏oszenia. szoÊciach narodowych i etnicznych o j´zyku regionalnym (Dz. U. 17, 141) uchyla si´ art. 33.
+**Art. 4.** Wustawie zdnia 6 stycznia 2005 omniej- od dnia ogłoszenia. szościach narodowych i etnicznych o języku regionalnym (Dz. U. 17, 141) uchyla się art. 33.
 
-**Art. 5.** Sprawy zakresu zmiany imion i nazwisk wszcz´te i niezakoƒczone decyzjà ostatecznà przed Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 551 USTAWA dnia 4 marca 2005 o europejskim zgrupowaniu interesów gospodarczych i spó∏ce europejskiej Tytu∏ I Przepisy ogólne Nr94, 1037, 102, 1117 2003 49, 408 i 229, 2276), zwanej dalej „Kodeksem spó∏ek handlowych”;
+**Art. 5.** Sprawy zakresu zmiany imion i nazwisk wszczęte i niezakończone decyzją ostateczną przed Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 551 USTAWA dnia 4 marca 2005 o europejskim zgrupowaniu interesów gospodarczych i spółce europejskiej Tytuł I Przepisy ogólne Nr94, 1037, 102, 1117 2003 49, 408 i 229, 2276), zwanej dalej ŃKodeksem spółek handlowych”;
 
-**Art. 1.** Ustawa reguluje: 2) paƒstwa cz∏onkowskie paƒstwa cz∏onkowskie Unii Europejskiej lub paƒstwa cz∏onkowskie Euro1) rejestracj´ i niektóre zasady organizacji europej- pejskiego Porozumienia oWolnym Handlu (EFTA) skiego zgrupowania interesów gospodarczych, strony umowy oEuropejskim Obszarze Gospozakresie nieuregulowanym rozporzàdzeniu darczym; nr2137/85/EWG dnia 25 lipca 1985 sprawie 3) rejestr rejestr przedsi´biorców wKrajowym Reeuropejskiego zgrupowania interesów gospodar- jestrze Sàdowym; czych (EZIG) (Dz. Urz. WE L 199 31.07.1985);
+**Art. 1.** Ustawa reguluje: 2) państwa członkowskie państwa członkowskie Unii Europejskiej lub państwa członkowskie Euro1) rejestrację i niektóre zasady organizacji europej- pejskiego Porozumienia oWolnym Handlu (EFTA) skiego zgrupowania interesów gospodarczych, strony umowy oEuropejskim Obszarze Gospozakresie nieuregulowanym rozporządzeniu darczym; nr2137/85/EWG dnia 25 lipca 1985 sprawie 3) rejestr rejestr przedsiębiorców wKrajowym Reeuropejskiego zgrupowania interesów gospodar- jestrze Sądowym; czych (EZIG) (Dz. Urz. WE L 199 31.07.1985);
 
-**Art. 2.** U˝yte ustawie okreÊlenia oznaczajà: o publicznym obrocie papierami wartoÊciowymi
+**Art. 2.** Użyte ustawie określenia oznaczają: o publicznym obrocie papierami wartościowymi
 

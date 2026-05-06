@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081921178) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1178/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 1 grudnia 1961 r. oizbach morskich (Dz. U. 58, poz. 320, z póên. zm. ) wprowadza nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 1 grudnia 1961 r. oizbach morskich (Dz. U. 58, poz. 320, z póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 2.** Sprawy wszcz´te niezakoƒczone przed dniem wejÊcia w˝ycie niniejszej ustawy sà prowadzone na podstawie przepisów tej ustawy.
+**Art. 2.** Sprawy wszczęte niezakończone przed dniem wejścia wżycie niniejszej ustawy są prowadzone na podstawie przepisów tej ustawy.
 
-**Art. 3.** CzynnoÊci procesowe dokonane przed dniem wejÊcia w˝ycie niniejszej ustawy sà skuteczne, je˝eli dokonano ich zzachowaniem przepisów dotychczasowych.
+**Art. 3.** Czynności procesowe dokonane przed dniem wejścia wżycie niniejszej ustawy są skuteczne, jeżeli dokonano ich zzachowaniem przepisów dotychczasowych.
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie 11 ust. 2 oraz 17 ust. 4 ustawy, o której mowa w 1, zachowujà moc do dnia wejÊcia w˝ycie przepisów wykonawczych wydanych na podstawie 11 ust. 2 oraz 17 ust. 4 tej ustawy, w brzmieniu nadanym niniejszà ustawà, nie d∏u˝ej jednak ni˝ przez okres 6 miesi´cy od dnia wej„6. Odwo∏awcza Izba Morska rozpoznaje za˝alenie Êcia w˝ycie ustawy. na postanowienie, o którym mowa w 35 ust. 3, na posiedzeniu, wsk∏adzie: jednego s´- Art. 5.Ustawa wchodzi w˝ycie zdniem 1 stycznia dziego iczterech ∏awników, najpóêniej wciàgu 2009 r. 3 dni od dnia wp∏ywu akt wraz zza˝aleniem do Odwo∏awczej Izby Morskiej.”; Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie 11 ust. 2 oraz 17 ust. 4 ustawy, o której mowa w 1, zachowują moc do dnia wejścia wżycie przepisów wykonawczych wydanych na podstawie 11 ust. 2 oraz 17 ust. 4 tej ustawy, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejŃ6. Odwoławcza Izba Morska rozpoznaje zażalenie ścia wżycie ustawy. na postanowienie, o którym mowa w 35 ust. 3, na posiedzeniu, wskładzie: jednego sę- Art. 5.Ustawa wchodzi wżycie zdniem 1 stycznia dziego iczterech ławników, najpóêniej wciągu 2009 r. 3 dni od dnia wpływu akt wraz zzażaleniem do Odwoławczej Izby Morskiej.”; Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# tyczne, atak˝e wszystkie inne wyciàgi zkono- tyczne, atak˝e wszystkie inne wyciàgi zkonopi innych ni˝ w∏ókniste” zast´puje si´ wyra- pi innych ni˝ w∏ókniste” zast´puje si´ wyrazami „KONOPI ZIELE innych ni˝ w∏ókniste zami „KONOPI ZIELE innych ni˝ w∏ókniste oraz wyciàgi, nalewki farmaceutyczne, a tak- oraz wyciàgi, nalewki farmaceutyczne, a tak˝e wszystkie inne wyciàgi zkonopi innych ni˝ ˝e wszystkie inne wyciàgi zkonopi innych ni˝ w∏ókniste”, w∏ókniste”, dodaje si´ pozycj´ brzmieniu: „˚YWICA dodaje si´ pozycj´ brzmieniu: „˚YWICA KONOPI”, KONOPI”.
+# tyczne, atakże wszystkie inne wyciągi zkono- tyczne, atakże wszystkie inne wyciągi zkonopi innych niż włókniste” zastępuje się wyra- pi innych niż włókniste” zastępuje się wyrazami ŃKONOPI ZIELE innych niż włókniste zami ŃKONOPI ZIELE innych niż włókniste oraz wyciągi, nalewki farmaceutyczne, a tak- oraz wyciągi, nalewki farmaceutyczne, a także wszystkie inne wyciągi zkonopi innych niż że wszystkie inne wyciągi zkonopi innych niż włókniste”, włókniste”, dodaje się pozycję brzmieniu: Ń˚YWICA dodaje się pozycję brzmieniu: Ń˚YWICA KONOPI”, KONOPI”.
 
 | Pole | Wartość |
 |---|---|
@@ -24,30 +24,30 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070070049) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/49/text.pdf) |
 
-b) wcz´Êci 4 „Ârodki odurzajàce grupy IV-N” wko- Art. 2. Ustawa wchodzi ˝ycie up∏ywie 14 dni lumnie „Mi´dzynarodowe nazwy zalecane”: od dnia og∏oszenia.
-wyrazy „KONOPI ZIELE I ˚YWICA innych ni˝ w∏ókniste oraz wyciàgi, nalewki farmaceu- Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+b) wczęści 4 ŃÂrodki odurzające grupy IV-N” wko- Art. 2. Ustawa wchodzi życie upływie 14 dni lumnie ŃMiędzynarodowe nazwy zalecane”: od dnia ogłoszenia.
+wyrazy ŃKONOPI ZIELE I ˚YWICA innych niż włókniste oraz wyciągi, nalewki farmaceu- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 
-**Art. 1.** W ustawie z dnia 9 czerwca 2006 r. Przepisy wprowadzajàce ustaw´ S∏u˝bie Kontrwywiadu Wojskowego oraz S∏u˝bie Wywiadu Wojskowego oraz ustaw´ s∏u˝bie funkcjonariuszy S∏u˝by Kontrwywiadu Wojskowego oraz S∏u˝by Wywiadu Wojskowego (Dz. U. 104, poz. 711 218, poz. 1592) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 9 czerwca 2006 r. Przepisy wprowadzające ustawę Służbie Kontrwywiadu Wojskowego oraz Służbie Wywiadu Wojskowego oraz ustawę służbie funkcjonariuszy Służby Kontrwywiadu Wojskowego oraz Służby Wywiadu Wojskowego (Dz. U. 104, poz. 711 218, poz. 1592) wprowadza się następujące zmiany:
 
 **Art. 70b.**
 
-1. Szef SKW Szef SWW sà obowiàzani do wspó∏dzia∏ania z Przewodniczàcym Komisji Weryfikacyjnej zakresie sporzàdzania Raportu.
+1. Szef SKW Szef SWW są obowiązani do współdziałania z Przewodniczącym Komisji Weryfikacyjnej zakresie sporządzania Raportu.
 
-2. Prezes Rady Ministrów okreÊli, wdrodze zarzàdzenia, formy tryb wspó∏dzia∏ania, którym 1, wskazujàc obowiàzki Szefa SKW Szefa SWW tym zakresie.
+2. Prezes Rady Ministrów określi, wdrodze zarządzenia, formy tryb współdziałania, którym 1, wskazując obowiązki Szefa SKW Szefa SWW tym zakresie.
 
 **Art. 70c.**
 
-1. Przewodniczàcy Komisji Weryfikacyjnej niezw∏ocznie przekazuje Raport Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów wiceprezesom Rady Ministrów. ).
+1. Przewodniczący Komisji Weryfikacyjnej niezwłocznie przekazuje Raport Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów wiceprezesom Rady Ministrów. ).
 
 **Art. 70d.**
 
-1. Je˝eli przekazaniu Raportu przez Przewodniczàcego Komisji Weryfikacyjnej Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów wiceprezesom Rady Ministrów ujawnià si´ nowe okolicznoÊci, które powinny zostaç obj´te Raportem lub wp∏ywajà na jego treÊç, Przewodniczàcy Komisji Weryfikacyjnej, niezw∏ocznie ujawnieniu nowych okolicznoÊci, sporzàdza odpowiednie uzupe∏nienie Raportu.
+1. Jeżeli przekazaniu Raportu przez Przewodniczącego Komisji Weryfikacyjnej Prezydentowi Rzeczypospolitej Polskiej, Prezesowi Rady Ministrów wiceprezesom Rady Ministrów ujawnią się nowe okoliczności, które powinny zostać objęte Raportem lub wpływają na jego treść, Przewodniczący Komisji Weryfikacyjnej, niezwłocznie ujawnieniu nowych okoliczności, sporządza odpowiednie uzupełnienie Raportu.
 
-2. Je˝eli nowe okolicznoÊci, które powinny zostaç obj´te Raportem lub wp∏ywajà na jego treÊç, zostanà ujawnione toku dzia∏alnoÊci SKW lub SWW zakoƒczeniu dzia∏alnoÊci Komisji Weryfikacyjnej, uzupe∏nienie Raportu sporzàdzane jest odpowiednio przez Szefa SKW lub Szefa SWW, niezw∏ocznie ujawnieniu nowych okolicznoÊci.
+2. Jeżeli nowe okoliczności, które powinny zostać objęte Raportem lub wpływają na jego treść, zostaną ujawnione toku działalności SKW lub SWW zakończeniu działalności Komisji Weryfikacyjnej, uzupełnienie Raportu sporządzane jest odpowiednio przez Szefa SKW lub Szefa SWW, niezwłocznie ujawnieniu nowych okoliczności.
 
-3. Do uzupe∏nienia Raportu, którym 1 2, stosuje si´ odpowiednio art. 63 6a, art. 70b art. 70c.”;
+3. Do uzupełnienia Raportu, którym 1 2, stosuje się odpowiednio art. 63 6a, art. 70b art. 70c.”;
 
-- **5)** art. 79 dodaje si´ art. 79a brzmieniu: „Art. 79a. Kto wyjaÊnieniach, których wart. 63 4i4a, oÊwiadczy∏ nieprawd´, podlega karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.”.
+- **5)** art. 79 dodaje się art. 79a brzmieniu: ŃArt. 79a. Kto wyjaśnieniach, których wart. 63 4i4a, oświadczył nieprawdę, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.”.
 
-**Art. 2.** ——————— Ustawa wchodzi ˝ycie up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 2.** ——————— Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

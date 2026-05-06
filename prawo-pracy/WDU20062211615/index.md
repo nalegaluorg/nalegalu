@@ -24,40 +24,40 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20062211615) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1615/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 25 czerwca 1999 r. oÊwiadczeniach pieni´˝nych zubezpieczenia spo∏ecznego wrazie choroby imacierzyƒstwa (Dz. U. z2005 r. 31, poz. 267) art. 29 ust. 1 otrzymuje brzmienie: „1. Zasi∏ek macierzyƒski przys∏uguje ubezpieczonej, która wokresie ubezpieczenia chorobowego albo okresie urlopu wychowawczego:
+**Art. 2.** W ustawie z dnia 25 czerwca 1999 r. oświadczeniach pieniężnych zubezpieczenia społecznego wrazie choroby imacierzyństwa (Dz. U. z2005 r. 31, poz. 267) art. 29 ust. 1 otrzymuje brzmienie: Ń1. Zasiłek macierzyński przysługuje ubezpieczonej, która wokresie ubezpieczenia chorobowego albo okresie urlopu wychowawczego:
 
 **Art. 3.**
 
-1. Wymiar urlopu macierzyƒskiego i urlopu na warunkach urlopu macierzyƒskiego, o którym mowa wart. 180 § 1 i§ 2 oraz art. 183 § 1 Kodeksu pracy brzmieniu nadanym niniejszà ustawà, stosuje si´ USTAWA z dnia 16 listopada 2006 r. o zmianie ustawy Kodeks pracy oraz ustawy o Êwiadczeniach pieni´˝nych z ubezpieczenia spo∏ecznego razie choroby i macierzyƒstwa ——————— tak˝e do pracownic ipracowników korzystajàcych zta- noÊci okreÊlone art. 181 Kodeksu pracy albo kiego urlopu wdniu wejÊcia w˝ycie ustawy, zzastrze- z powodu korzystania z urlopu bezp∏atnego albo ˝eniem art. 4. z urlopu wychowawczego.
+1. Wymiar urlopu macierzyńskiego i urlopu na warunkach urlopu macierzyńskiego, o którym mowa wart. 180 § 1 i§ 2 oraz art. 183 § 1 Kodeksu pracy brzmieniu nadanym niniejszą ustawą, stosuje się USTAWA z dnia 16 listopada 2006 r. o zmianie ustawy Kodeks pracy oraz ustawy o świadczeniach pieniężnych z ubezpieczenia społecznego razie choroby i macierzyństwa ——————— także do pracownic ipracowników korzystających zta- ności określone art. 181 Kodeksu pracy albo kiego urlopu wdniu wejścia wżycie ustawy, zzastrze- z powodu korzystania z urlopu bezpłatnego albo żeniem art. 4. z urlopu wychowawczego.
 
-2. Wymiar urlopu macierzyƒskiego, o którym mo- Art. 4. Pracownice i pracownicy korzystajàcy wa art. 180 § 1 Kodeksu pracy brzmieniu nada- wdniu wejÊcia w˝ycie ustawy zurlopu na warunkach nym niniejszà ustawà, stosuje si´ tak˝e do pracownic, urlopu macierzyƒskiego jako rodzina zast´pcza zawoktóre ∏àcznie spe∏niajà nast´pujàce przes∏anki: dowa niespokrewniona z dzieckiem: wielodzietna lub specjalistyczna, zachowujà prawo do tego urlopu
+2. Wymiar urlopu macierzyńskiego, o którym mo- Art. 4. Pracownice i pracownicy korzystający wa art. 180 § 1 Kodeksu pracy brzmieniu nada- wdniu wejścia wżycie ustawy zurlopu na warunkach nym niniejszą ustawą, stosuje się także do pracownic, urlopu macierzyńskiego jako rodzina zastępcza zawoktóre łącznie spełniają następujące przesłanki: dowa niespokrewniona z dzieckiem: wielodzietna lub specjalistyczna, zachowują prawo do tego urlopu
 
-- **1)** urodzi∏y dziecko dniu 1 stycznia 2006 r. lub póê- dotychczasowym wymiarze. niej ido dnia wejÊcia w˝ycie ustawy nie wykorzysta∏y ca∏ego urlopu macierzyƒskiego lub jego cz´- Art. 5. Ustawa wchodzi ˝ycie po up∏ywie 14 dni Êci; od dnia og∏oszenia
-- **2)** dniu wejÊcia ˝ycie ustawy nie korzystajà z urlopu macierzyƒskiego ze wzgl´du na okolicz- Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1616 ROZPORZÑDZENIE RADY MINISTRÓW z dnia 30 listopada 2006 r. sprawie stawek pomocy finansowej z tytu∏u nadzwyczajnych Êrodków wsparcia rynku Na podstawie art. 15 ust. 1 ustawy z dnia 18 paêdziernika 2006 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw (Dz. U. 208, poz. 1541) zarzàdza si´, co nast´puje: § 1. Rozporzàdzenie okreÊla stawki pomocy finansowej z tytu∏u nadzwyczajnych Êrodków wsparcia rynku sektorze jaj i drobiu, zwanej dalej „pomocà”.
+- **1)** urodziły dziecko dniu 1 stycznia 2006 r. lub póê- dotychczasowym wymiarze. niej ido dnia wejścia wżycie ustawy nie wykorzystały całego urlopu macierzyńskiego lub jego czę- Art. 5. Ustawa wchodzi życie po upływie 14 dni ści; od dnia ogłoszenia
+- **2)** dniu wejścia życie ustawy nie korzystają z urlopu macierzyńskiego ze względu na okolicz- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1616 ROZPORZÑDZENIE RADY MINISTRÓW z dnia 30 listopada 2006 r. sprawie stawek pomocy finansowej z tytułu nadzwyczajnych środków wsparcia rynku Na podstawie art. 15 ust. 1 ustawy z dnia 18 paêdziernika 2006 r. o zmianie ustawy o Agencji Rynku Rolnego i organizacji niektórych rynków rolnych oraz niektórych innych ustaw (Dz. U. 208, poz. 1541) zarządza się, co następuje: § 1. Rozporządzenie określa stawki pomocy finansowej z tytułu nadzwyczajnych środków wsparcia rynku sektorze jaj i drobiu, zwanej dalej Ńpomocą”.
 
-§ 2. Pomoc za zniszczenie jaj wyl´gowych przys∏uguje wysokoÊci:
+§ 2. Pomoc za zniszczenie jaj wylęgowych przysługuje wysokości:
 
-- **1)** 0,54 z∏otych za sztuk´ przypadku jaj wyl´gowych kur mi´snych;
-- **2)** 1,10 z∏otych za sztuk´ przypadku jaj wyl´gowych kaczych;
-- **3)** 2,30 z∏otych za sztuk´ przypadku jaj wyl´gowych g´sich.
+- **1)** 0,54 złotych za sztukę przypadku jaj wylęgowych kur mięsnych;
+- **2)** 1,10 złotych za sztukę przypadku jaj wylęgowych kaczych;
+- **3)** 2,30 złotych za sztukę przypadku jaj wylęgowych gęsich.
 
-§ 3. Pomoc za przetworzenie celach spo˝ywczych lub niespo˝ywczych jaj wyl´gowych przys∏uguje wysokoÊci:
+§ 3. Pomoc za przetworzenie celach spożywczych lub niespożywczych jaj wylęgowych przysługuje wysokości:
 
-- **1)** 0,54 z∏otych za sztuk´ przypadku jaj wyl´gowych kur mi´snych pochodzàcych ze stad rodzicielskich,
-- **2)** 0,58 z∏otych za sztuk´ przypadku jaj wyl´gowych kur mi´snych pochodzàcych ze stad prarodzicielskich,
-- **3)** 0,38 z∏otych za sztuk´ przypadku jaj wyl´gowych kur nieÊnych pomniejszonej o 0,12 z∏otych za sztuk´ albo cen´ netto sprzeda˝y tych jaj, je˝eli by∏a ona wy˝sza od 0,12 z∏otych za sztuk´.
+- **1)** 0,54 złotych za sztukę przypadku jaj wylęgowych kur mięsnych pochodzących ze stad rodzicielskich,
+- **2)** 0,58 złotych za sztukę przypadku jaj wylęgowych kur mięsnych pochodzących ze stad prarodzicielskich,
+- **3)** 0,38 złotych za sztukę przypadku jaj wylęgowych kur nieśnych pomniejszonej o 0,12 złotych za sztukę albo cenę netto sprzedaży tych jaj, jeżeli była ona wyższa od 0,12 złotych za sztukę.
 
-§ 4. Pomoc za ubój kur mi´snych przed up∏ywem
+§ 4. Pomoc za ubój kur mięsnych przed upływem
 
-58. tygodnia ich ˝ycia przys∏uguje wysokoÊci 12,40 z∏otych za sztuk´.
+58. tygodnia ich życia przysługuje wysokości 12,40 złotych za sztukę.
 
-§ 5. Pomoc za nieprzetrzymywanie, zgodnie z art. 5 ust. 1 rozporzàdzenia Komisji Europejskiej (WE) nr 1010/2006 z dnia 3 lipca 2006 r. dotyczàcego niektórych nadzwyczajnych Êrodków wsparcia rynku sektorze jaj i drobiu niektórych paƒstwach cz∏onkowskich (Dz. Urz. UE L 180 z 4.07.2006, str. 3, z póên. zm.), ˝adnych ptaków pomieszczeniach inwentarskich przeznaczonych do utrzymywania brojlerów kurzych lub indyków rzeênych, przez okres d∏u˝szy ni˝ 3 tygodnie poprzedzajàcy wprowadzenie do tych pomieszczeƒ ptaków, przys∏uguje wysokoÊci:
+§ 5. Pomoc za nieprzetrzymywanie, zgodnie z art. 5 ust. 1 rozporządzenia Komisji Europejskiej (WE) nr 1010/2006 z dnia 3 lipca 2006 r. dotyczącego niektórych nadzwyczajnych środków wsparcia rynku sektorze jaj i drobiu niektórych państwach członkowskich (Dz. Urz. UE L 180 z 4.07.2006, str. 3, z póên. zm.), żadnych ptaków pomieszczeniach inwentarskich przeznaczonych do utrzymywania brojlerów kurzych lub indyków rzeênych, przez okres dłuższy niż 3 tygodnie poprzedzający wprowadzenie do tych pomieszczeń ptaków, przysługuje wysokości:
 
-- **1)** 1,50 z∏otych za metr kwadratowy pomieszczenia inwentarskiego na tydzieƒ przypadku brojlerów kurzych;
-- **2)** 1,30 z∏otych za metr kwadratowy pomieszczenia inwentarskiego na tydzieƒ przypadku indyków rzeênych.
+- **1)** 1,50 złotych za metr kwadratowy pomieszczenia inwentarskiego na tydzień przypadku brojlerów kurzych;
+- **2)** 1,30 złotych za metr kwadratowy pomieszczenia inwentarskiego na tydzień przypadku indyków rzeênych.
 
-§ 6. Rozporzàdzenie wchodzi w˝ycie zdniem og∏oszenia. Prezes Rady Ministrów: J. Kaczyƒski
+§ 6. Rozporządzenie wchodzi wżycie zdniem ogłoszenia. Prezes Rady Ministrów: J. Kaczyński
 
 

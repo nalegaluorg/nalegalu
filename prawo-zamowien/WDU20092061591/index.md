@@ -24,15 +24,15 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092061591) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1591/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 29 stycznia 2004 r. Prawo zamówieƒ publicznych (Dz. U. z 2007 r. 223, poz. 1655, z póên. zm. ) wprowadza nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 29 stycznia 2004 r. Prawo zamówień publicznych (Dz. U. z 2007 r. 223, poz. 1655, z póên. zm. ) wprowadza następujące zmiany:
 
 **Art. 3.**
 
-1. Do post´powaƒ oudzielenie publicznego oraz konkursów wszcz´tych przed dniem wejÊcia w˝ycie niniejszej ustawy stosuje przepisy dotychczasowe.
+1. Do postępowań oudzielenie publicznego oraz konkursów wszczętych przed dniem wejścia wżycie niniejszej ustawy stosuje przepisy dotychczasowe.
 
-2. Je˝eli specyfikacja istotnych warunków zamówienia zosta∏a przekazana udost´pniona wykonawcom przed dniem og∏oszenia niniejszej ustawy, przepis art. 38 ustawy, której mowa art. 1, stosuje wbrzmieniu nadanym niniejszà ustawà.
+2. Jeżeli specyfikacja istotnych warunków zamówienia została przekazana udostępniona wykonawcom przed dniem ogłoszenia niniejszej ustawy, przepis art. 38 ustawy, której mowa art. 1, stosuje wbrzmieniu nadanym niniejszą ustawą.
 
-**Art. 4.** Do zmian umów sprawach zamówieƒ publicznych zawartych przed dniem wejÊcia ˝ycie niniejszej ustawy stosuje przepisy dotychczasowe, z tym ˝e zmian umów zawartych od dnia 24 paêdziernika 2008 r. stosuje art. 144 1 brzmieniu nadanym niniejszà ustawà.
+**Art. 4.** Do zmian umów sprawach zamówień publicznych zawartych przed dniem wejścia życie niniejszej ustawy stosuje przepisy dotychczasowe, z tym że zmian umów zawartych od dnia 24 paêdziernika 2008 r. stosuje art. 144 1 brzmieniu nadanym niniejszą ustawą.
 
-**Art. 5.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem art. 1 pkt 5 i art. 3 2, które wchodzà w˝ycie zdniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski ——————— c
+**Art. 5.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5 i art. 3 2, które wchodzą wżycie zdniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ———————
 

@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# realizujàc postanowienia Konstytucji Rzeczypo- kom zamieszka∏ym za granicà zachowaniu ich spolitej Polskiej zakresie udzielania pomocy Pola- zwiàzków narodowym dziedzictwem kulturalnym,
+# realizując postanowienia Konstytucji Rzeczypo- kom zamieszkałym za granicą zachowaniu ich spolitej Polskiej zakresie udzielania pomocy Pola- związków narodowym dziedzictwem kulturalnym,
 
 | Pole | Wartość |
 |---|---|
@@ -24,195 +24,205 @@ domain: null
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071801280) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1280/text.pdf) |
 
-USTAWA dnia 7 wrzeÊnia 2007 o Karcie ——————— potwierdzenie przynale˝noÊci do Narodu Polskiego, celu wzmocnienia wi´zi ∏àczàcych Polaków Wschodzie Macierzà wspierajàc ich starania ozachowanie j´zyka polskiego kultywowanie tradycji narodowej, postanawia si´, co nast´puje: Rozdzia∏ 1 Przepisy ogólne
+USTAWA dnia 7 września 2007 o Karcie ——————— potwierdzenie przynależności do Narodu Polskiego, celu wzmocnienia więzi łączących Polaków Wschodzie Macierzą wspierając ich starania ozachowanie języka polskiego kultywowanie tradycji narodowej, postanawia się, co następuje:
+Rejestry ewidencje 2002 215, 1823 2004 173,
+1808) po art. 25 dodaje się art. 25a brzmieniu:
 
-**Art. 1.** Ustawa okreÊla uprawnienia osoby, której przyznano Kart´ Polaka, zwanej dalej „posiadaczem Karty Polaka”, zasady przyznawania, utraty wa˝noÊci uniewa˝niania Karty w∏aÊciwoÊç tryb post´powania organów tych sprawach.
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa uprawnienia osoby, której przyznano Kartę Polaka, zwanej dalej Ńposiadaczem Karty Polaka”, zasady przyznawania, utraty ważności unieważniania Karty właściwość tryb postępowania organów tych sprawach.
 
 **Art. 2.**
 
-1. Karta mo˝e byç przyznana osobie, która deklaruje przynale˝noÊç do Narodu Polskiego spe∏ni ∏àcznie nast´pujàce warunki:
+1. Karta może być przyznana osobie, która deklaruje przynależność do Narodu Polskiego spełni łącznie następujące warunki:
 
-- **1)** wyka˝e swój zwiàzek polskoÊcià przez przynajmniej podstawowà znajomoÊç j´zyka polskiego, który uwa˝a za j´zyk ojczysty, znajomoÊç kultywowanie polskich tradycji zwyczajów;
-- **2)** obecnoÊci konsula Rzeczypospolitej Polskiej, zwanego dalej „konsulem”, lub upowa˝nionego pracownika organizacji, o której mowa art. 15 ust. 1, z∏o˝y pisemnà deklaracj´ przynale˝noÊci do Narodu Polskiego;
-- **3)** wyka˝e, ˝e co najmniej jedno jej rodziców lub dziadków albo dwoje pradziadków by∏o narodowoÊci polskiej lub posiada∏o obywatelstwo polskie, albo przedstawi zaÊwiadczenie organizacji polskiej lub polonijnej dzia∏ajàcej terenie jednego zpaƒstw, októrych mowa wust. 2, potwierdzajàce aktywne zaanga˝owanie dzia∏alnoÊç rzecz j´zyka kultury polskiej lub polskiej mniejszoÊci narodowej przez okres co najmniej ostatnich trzech lat.
+- **1)** wykaże swój związek polskością przez przynajmniej podstawową znajomość języka polskiego, który uważa za język ojczysty, znajomość kultywowanie polskich tradycji zwyczajów;
+- **2)** obecności konsula Rzeczypospolitej Polskiej, zwanego dalej Ńkonsulem”, lub upoważnionego pracownika organizacji, o której mowa art. 15 ust. 1, złoży pisemną deklarację przynależności do Narodu Polskiego;
+- **3)** wykaże, że co najmniej jedno jej rodziców lub dziadków albo dwoje pradziadków było narodowości polskiej lub posiadało obywatelstwo polskie, albo przedstawi zaświadczenie organizacji polskiej lub polonijnej działającej terenie jednego zpaństw, októrych mowa wust. 2, potwierdzające aktywne zaangażowanie działalność rzecz języka kultury polskiej lub polskiej mniejszości narodowej przez okres co najmniej ostatnich trzech lat.
 
-2. Karta mo˝e byç przyznana wy∏àcznie osobie posiadajàcej dniu z∏o˝enia wniosku o wydanie Karty obywatelstwo Republiki Armenii, Republiki Azerbejd˝aƒskiej, Republiki Bia∏oruÊ, Republiki poz.818).
+2. Karta może być przyznana wyłącznie osobie posiadającej dniu złożenia wniosku o wydanie Karty obywatelstwo Republiki Armenii, Republiki Azerbejdżańskiej, Republiki Białoruś, Republiki poz.818).
 
-4. Karta mo˝e byç przyznana wy∏àcznie osobie nieposiadajàcej obywatelstwa polskiego albo zezwolenia osiedlenie si´ terytorium Rzeczypospolitej Polskiej.
+4. Karta może być przyznana wyłącznie osobie nieposiadającej obywatelstwa polskiego albo zezwolenia osiedlenie się terytorium Rzeczypospolitej Polskiej.
 
 **Art. 3.**
 
-1. Karta jest dokumentem potwierdzajàcym przynale˝noÊç do Narodu Polskiego.
+1. Karta jest dokumentem potwierdzającym przynależność do Narodu Polskiego.
 
-2. Karta poÊwiadcza uprawnienia wynikajàce niniejszej ustawy.
+2. Karta poświadcza uprawnienia wynikające niniejszej ustawy.
 
 **Art. 4.**
 
-1. Do post´powaƒ sprawach uregulowanych ustawie stosuje si´ przepisy ustawy dnia 14 czerwca 1960 Kodeks post´powania administracyjnego (Dz. U. 2000 98, 1071, póên. zm. ), je˝eli niniejsza ustawa nie stanowi inaczej.
+1. Do postępowań sprawach uregulowanych ustawie stosuje się przepisy ustawy dnia 14 czerwca 1960 Kodeks postępowania administracyjnego (Dz. U. 2000 98, 1071, póên. zm. ), jeżeli niniejsza ustawa nie stanowi inaczej.
 
-2. Do post´powaƒ wsprawach nale˝àcych do w∏aÊciwoÊci konsulów stosuje si´ przepisy ustawy dnia 13 lutego 1984 o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. 2002 215, 1823 2004 173, 1808). Rozdzia∏ 2 Uprawnienia posiadacza Karty
+2. Do postępowań wsprawach należących do właściwości konsulów stosuje się przepisy ustawy dnia 13 lutego 1984 o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U. 2002 215, 1823 2004 173, 1808).
+
+#### Rozdział 2 Uprawnienia posiadacza Karty
 
 **Art. 5.**
 
-1. Posiadacz Karty mo˝e ubiegaç si´ ozwolnienie zop∏aty za wydanie wizy pobytowej d∏ugoterminowej uprawniajàcej do wielokrotnego wjazdu terytorium Rzeczypospolitej Polskiej lub refundacj´ tej op∏aty.
+1. Posiadacz Karty może ubiegać się ozwolnienie zopłaty za wydanie wizy pobytowej długoterminowej uprawniającej do wielokrotnego wjazdu terytorium Rzeczypospolitej Polskiej lub refundację tej opłaty.
 
-2. Refundacja, októrej mowa wust. 1, jest finansowana zbud˝etu paƒstwa zcz´Êci, której dysponentem jest minister w∏aÊciwy do spraw zagranicznych.
+2. Refundacja, októrej mowa wust. 1, jest finansowana zbudżetu państwa zczęści, której dysponentem jest minister właściwy do spraw zagranicznych.
 
-3. Refundacja, októrej mowa wust. 1, jest dokonywana za poÊrednictwem w∏aÊciwego konsula.
+3. Refundacja, októrej mowa wust. 1, jest dokonywana za pośrednictwem właściwego konsula.
 
 **Art. 6.**
 
 1. Posiadacz Karty ma prawo do:
 
-- **1)** zwolnienia obowiàzku posiadania zezwolenia prac´ zasadach okreÊlonych ustawie dnia 20 kwietnia 2004 opromocji zatrudnienia iinsty——————— czej (Dz. U. 2007 155, 1095);
-- **3)** podejmowania odbywania studiów, studiów doktoranckich innych form kszta∏cenia, atak˝e uczestniczenia badaniach naukowych pracach rozwojowych zasadach okreÊlonych wustawie zdnia 27 lipca 2005 Prawo oszkolnictwie wy˝szym (Dz. U. 164, 1365, zpóên. zm. );
-- **4)** korzystania form kszta∏cenia zasadach okreÊlonych ustawie dnia 7 wrzeÊnia 1991 o systemie oÊwiaty (Dz. U. 2004 256, 2572, póên. zm. );
-- **5)** korzystania ze Êwiadczeƒ opieki zdrowotnej stanach nag∏ych, zakresie okreÊlonym ustawie dnia 27 sierpnia 2004 o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, 2135, póên. zm. ), chyba ˝e umowa mi´dzynarodowa, której Rzeczpospolita Polska jest stronà, przewiduje zasady bardziej korzystne;
-- **6)** ulgi 37 % przy przejazdach Êrodkami publicznego transportu zbiorowego kolejowego pociàgach osobowych, pospiesznych ekspresowych, podstawie biletów jednorazowych, zasadach okreÊlonych ustawie dnia 20 czerwca 1992 ouprawnieniach do ulgowych przejazdów Êrodkatriacji, korzysta pierwszeƒstwa przy ubieganiu si´ o pomoc finansowà udzielanà osobom fizycznym ze Êrodków bud˝etu paƒstwa lub bud˝etów samorzàdów terytorialnych przeznaczonych wspieranie Polaków za granicà.
+- **1)** zwolnienia obowiązku posiadania zezwolenia pracę zasadach określonych ustawie dnia 20 kwietnia 2004 opromocji zatrudnienia iinsty——————— czej (Dz. U. 2007 155, 1095);
+- **3)** podejmowania odbywania studiów, studiów doktoranckich innych form kształcenia, atakże uczestniczenia badaniach naukowych pracach rozwojowych zasadach określonych wustawie zdnia 27 lipca 2005 Prawo oszkolnictwie wyższym (Dz. U. 164, 1365, zpóên. zm. );
+- **4)** korzystania form kształcenia zasadach określonych ustawie dnia 7 września 1991 o systemie oświaty (Dz. U. 2004 256, 2572, póên. zm. );
+- **5)** korzystania ze świadczeń opieki zdrowotnej stanach nagłych, zakresie określonym ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, 2135, póên. zm. ), chyba że umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, przewiduje zasady bardziej korzystne;
+- **6)** ulgi 37 % przy przejazdach środkami publicznego transportu zbiorowego kolejowego pociągach osobowych, pospiesznych ekspresowych, podstawie biletów jednorazowych, zasadach określonych ustawie dnia 20 czerwca 1992 ouprawnieniach do ulgowych przejazdów środkatriacji, korzysta pierwszeństwa przy ubieganiu się o pomoc finansową udzielaną osobom fizycznym ze środków budżetu państwa lub budżetów samorządów terytorialnych przeznaczonych wspieranie Polaków za granicą.
 
-3. Posiadacz Karty podejmujàcy kszta∏cenie, o którym mowa ust. 1 pkt 3, zachowuje prawo do ubiegania si´ ostypendia iinnà pomoc przewidzianà dla cudzoziemców odr´bnych przepisach.
+3. Posiadacz Karty podejmujący kształcenie, o którym mowa ust. 1 pkt 3, zachowuje prawo do ubiegania się ostypendia iinną pomoc przewidzianą dla cudzoziemców odrębnych przepisach.
 
-4. Przepis ust. 1 pkt 5 nie ma zastosowania do osób uprawnionych do Êwiadczeƒ opieki zdrowotnej podstawie przepisów o koordynacji systemów zabezpieczenia spo∏ecznego.
+4. Przepis ust. 1 pkt 5 nie ma zastosowania do osób uprawnionych do świadczeń opieki zdrowotnej podstawie przepisów o koordynacji systemów zabezpieczenia społecznego.
 
 **Art. 7.**
 
-1. Przyznanie Karty nie oznacza nabycia polskiego obywatelstwa ani stwierdzenia polskiego pochodzenia rozumieniu odr´bnych przepisów.
+1. Przyznanie Karty nie oznacza nabycia polskiego obywatelstwa ani stwierdzenia polskiego pochodzenia rozumieniu odrębnych przepisów.
 
-2. Karta nie jest dokumentem uprawniajàcym do przekraczania granicy ani do osiedlenia si´ terytorium Rzeczypospolitej Polskiej.
+2. Karta nie jest dokumentem uprawniającym do przekraczania granicy ani do osiedlenia się terytorium Rzeczypospolitej Polskiej.
 
-**Art. 8.** Koszty Êwiadczeƒ opieki zdrowotnej, o których mowa art. 6 ust. 1 pkt 5, sà finansowane bud˝etu paƒstwa, zcz´Êci, której dysponentem jest minister w∏aÊciwy do spraw zdrowia, zasadach okreÊlo——————— nych ustawie dnia 27 sierpnia 2004 o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych. Rozdzia∏ 3 Rada do Spraw Polaków Wschodzie
+**Art. 8.** Koszty świadczeń opieki zdrowotnej, o których mowa art. 6 ust. 1 pkt 5, są finansowane budżetu państwa, zczęści, której dysponentem jest minister właściwy do spraw zdrowia, zasadach określo——————— nych ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
+
+#### Rozdział 3 Rada do Spraw Polaków Wschodzie
 
 **Art. 9.**
 
-1. Tworzy si´ Rad´ do Spraw Polaków Wschodzie.
+1. Tworzy się Radę do Spraw Polaków Wschodzie.
 
-2. Rada do Spraw Polaków Wschodzie, zwana dalej „Radà”, jest organem administracji publicznej rozpatrujàcym odwo∏ania od decyzji, o których mowa art. 19 20.
+2. Rada do Spraw Polaków Wschodzie, zwana dalej ŃRadą”, jest organem administracji publicznej rozpatrującym odwołania od decyzji, o których mowa art. 19 20.
 
-3. Radzie przys∏ugujà uprawnienia organu wy˝szego stopnia rozumieniu Kodeksu post´powania administracyjnego.
+3. Radzie przysługują uprawnienia organu wyższego stopnia rozumieniu Kodeksu postępowania administracyjnego.
 
-- **1)** wewn´trznà organizacj´ tryb pracy Rady, tym tryb podejmowania decyzji,
-- **2)** tryb wyboru, uprawnienia obowiàzki przewodniczàcego Rady,
-- **3)** wysokoÊç wynagrodzenia przys∏ugujàcego cz∏onkom Rady za udzia∏ pracach Rady sposób pokrywania pozosta∏ych wydatków zwiàzanych pracami Rady,
-- **4)** zasady prowadzenia centralnego rejestru, o którym mowa art. 23 ust. 4 uwzgl´dniajàc zakres zadaƒ Rady koniecznoÊç ich sprawnego terminowego wykonywania.
+- **1)** wewnętrzną organizację tryb pracy Rady, tym tryb podejmowania decyzji,
+- **2)** tryb wyboru, uprawnienia obowiązki przewodniczącego Rady,
+- **3)** wysokość wynagrodzenia przysługującego członkom Rady za udział pracach Rady sposób pokrywania pozostałych wydatków związanych pracami Rady,
+- **4)** zasady prowadzenia centralnego rejestru, o którym mowa art. 23 ust. 4 uwzględniając zakres zadań Rady konieczność ich sprawnego terminowego wykonywania.
 
-6. Obs∏ug´ administracyjnà kancelaryjnà Rady zapewnia Kancelaria Prezesa Rady Ministrów.
+6. Obsługę administracyjną kancelaryjną Rady zapewnia Kancelaria Prezesa Rady Ministrów.
 
-7. Dzia∏alnoÊç Rady jest finansowana bud˝etu paƒstwa, rozdzia∏u dotyczàcego Rady do Spraw Polaków Wschodzie, cz´Êci dotyczàcej Kancelarii Prezesa Rady Ministrów.
+7. Działalność Rady jest finansowana budżetu państwa, rozdziału dotyczącego Rady do Spraw Polaków Wschodzie, części dotyczącej Kancelarii Prezesa Rady Ministrów.
 
-8. Prezes Rady Ministrów okreÊli, drodze rozporzàdzenia, warunki organizacyjne wykonywania obs∏ugi Rady, uwzgl´dniajàc charakter jej zadaƒ.
+8. Prezes Rady Ministrów określi, drodze rozporządzenia, warunki organizacyjne wykonywania obsługi Rady, uwzględniając charakter jej zadań.
 
 **Art. 10.**
 
-1. W sk∏ad Rady wchodzi 6 cz∏onków powo∏ywanych przez Prezesa Rady Ministrów pi´cioletnià kadencj´ spoÊród osób wyró˝niajàcych si´ wiedzà doÊwiadczeniem zakresu spraw dotyczàcych Polonii Polaków za granicà. Co najmniej po∏owa cz∏onków Rady powinna posiadaç wy˝sze wykszta∏cenie prawnicze.
+1. W skład Rady wchodzi 6 członków powoływanych przez Prezesa Rady Ministrów pięcioletnią kadencję spośród osób wyróżniających się wiedzą doświadczeniem zakresu spraw dotyczących Polonii Polaków za granicą. Co najmniej połowa członków Rady powinna posiadać wyższe wykształcenie prawnicze.
 
-2. Cz∏onkiem Rady mo˝e byç osoba posiadajàca obywatelstwo polskie korzystajàca pe∏ni praw publicznych niekarana za przest´pstwo pope∏nione umyÊlnie, Êcigane oskar˝enia publicznego.
+2. Członkiem Rady może być osoba posiadająca obywatelstwo polskie korzystająca pełni praw publicznych niekarana za przestępstwo popełnione umyślnie, ścigane oskarżenia publicznego.
 
 **Art. 11.**
 
-1. Prezes Rady Ministrów mo˝e odwo∏aç cz∏onka Rady przed up∏ywem kadencji.
+1. Prezes Rady Ministrów może odwołać członka Rady przed upływem kadencji.
 
-2. Prezes Rady Ministrów odwo∏uje cz∏onka Rady przypadku prawomocnego skazania za przest´pstwo pope∏nione umyÊlnie, Êcigane oskar˝enia publicznego. „wnioskodawcà”, lub jej przedstawiciela ustawowego.
+2. Prezes Rady Ministrów odwołuje członka Rady przypadku prawomocnego skazania za przestępstwo popełnione umyślnie, ścigane oskarżenia publicznego. Ńwnioskodawcą”, lub jej przedstawiciela ustawowego.
 
-2. Organem w∏aÊciwym wsprawie przyznania Karty jest konsul w∏aÊciwy ze wzgl´du miejsce zamieszkania wnioskodawcy.
+2. Organem właściwym wsprawie przyznania Karty jest konsul właściwy ze względu miejsce zamieszkania wnioskodawcy.
 
-3. CzynnoÊci wykonywane przez konsula zwiàzku ze z∏o˝eniem przez wnioskodawc´ wniosku iwydaniem decyzji o przyznaniu Karty sà wolne od op∏at konsularnych.
+3. Czynności wykonywane przez konsula związku ze złożeniem przez wnioskodawcę wniosku iwydaniem decyzji o przyznaniu Karty są wolne od opłat konsularnych.
 
 **Art. 13.**
 
-1. Wniosek o wydanie Karty zawiera nast´pujàce dane:
+1. Wniosek o wydanie Karty zawiera następujące dane:
 
-- **1)** imi´ nazwisko;
-- **2)** dat´ miejsce urodzenia;
-- **3)** p∏eç;
-- **4)** adres zamieszkania za granicà;
+- **1)** imię nazwisko;
+- **2)** datę miejsce urodzenia;
+- **3)** płeć;
+- **4)** adres zamieszkania za granicą;
 - **5)** obywatelstwo;
-- **6)** narodowoÊç;
-- **7)** obywatelstwo narodowoÊç rodziców, dziadków lub pradziadków, je˝eli ich dane zosta∏y wskazane przez osob´ ubiegajàcà si´ o przyznanie Karty Polaka.
+- **6)** narodowość;
+- **7)** obywatelstwo narodowość rodziców, dziadków lub pradziadków, jeżeli ich dane zostały wskazane przez osobę ubiegającą się o przyznanie Karty Polaka.
 
-2. Wnioskodawca ma obowiàzek przedstawiç dokumenty iinne dowody potwierdzajàce spe∏nianie warunków, o których mowa art. 2 ust. 1 2.
+2. Wnioskodawca ma obowiązek przedstawić dokumenty iinne dowody potwierdzające spełnianie warunków, o których mowa art. 2 ust. 1 2.
 
-3. Dokumentami dowodami, o których mowa ust. 2, mogà byç szczególnoÊci:
+3. Dokumentami dowodami, o których mowa ust. 2, mogą być szczególności:
 
-- **1)** polskie dokumenty to˝samoÊci;
-- **2)** akty stanu cywilnego lub ich odpisy, metryki chrztu, Êwiadectwa szkolne lub inne dokumenty potwierdzajàce zwiàzek polskoÊcià;
-- **3)** dokumenty potwierdzajàce odbycie s∏u˝by wojskowej polskich formacjach wojskowych;
-- **4)** dokumenty potwierdzajàce fakt deportacji lub uwi´zienia, zawierajàce wpis informujàcy o polskim pochodzeniu;
-- **5)** dokumenty orehabilitacji osoby deportowanej, zawierajàce wpis informujàcy o polskim pochodzeskiego pochodzenia, wydana zgodnie zprzepisami 2. Je˝eli najpóêniej 3 miesiàce przed terminem ustawy o repatriacji. utraty wa˝noÊci Karty jej posiadacz z∏o˝y wniosek o przed∏u˝enie wa˝noÊci, wa˝noÊç Karty
+- **1)** polskie dokumenty tożsamości;
+- **2)** akty stanu cywilnego lub ich odpisy, metryki chrztu, świadectwa szkolne lub inne dokumenty potwierdzające związek polskością;
+- **3)** dokumenty potwierdzające odbycie służby wojskowej polskich formacjach wojskowych;
+- **4)** dokumenty potwierdzające fakt deportacji lub uwięzienia, zawierające wpis informujący o polskim pochodzeniu;
+- **5)** dokumenty orehabilitacji osoby deportowanej, zawierające wpis informujący o polskim pochodzeskiego pochodzenia, wydana zgodnie zprzepisami 2. Jeżeli najpóêniej 3 miesiące przed terminem ustawy o repatriacji. utraty ważności Karty jej posiadacz złoży wniosek o przedłużenie ważności, ważność Karty
 
-4. Prezes Rady Ministrów og∏asza, drodze ob- jest przed∏u˝ana okres kolejnych 10 lat. wieszczenia, Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski” wykaz organizacji pol- 3. Karta przyznana ma∏oletniemu traci wa˝skich lub polonijnych uprawnionych do wystawiania noÊç po up∏ywie roku od dnia uzyskania przez niego zaÊwiadczeƒ, o których mowa ust. 3 pkt 7. pe∏noletnoÊci.
+4. Prezes Rady Ministrów ogłasza, drodze ob- jest przedłużana okres kolejnych 10 lat. wieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” wykaz organizacji pol- 3. Karta przyznana małoletniemu traci ważskich lub polonijnych uprawnionych do wystawiania ność po upływie roku od dnia uzyskania przez niego zaświadczeń, o których mowa ust. 3 pkt 7. pełnoletności.
 
-5. W przypadku osób, o których mowa art. 2 4. Je˝eli po uzyskaniu pe∏noletnoÊci, najpóêniej ust. 3, w∏aÊciwy organ wydaje decyzj´ o przyznaniu Karty podstawie decyzji, o której mowa 3 miesiàce przed terminem, o którym mowa ust. 3, ust. 3 pkt 8. posiadacz z∏o˝y wniosek o przed∏u˝enie wa˝noÊci, wa˝noÊç Karty jest przed∏u˝ana okres 10 lat.
+5. W przypadku osób, o których mowa art. 2 4. Jeżeli po uzyskaniu pełnoletności, najpóêniej ust. 3, właściwy organ wydaje decyzję o przyznaniu Karty podstawie decyzji, o której mowa 3 miesiące przed terminem, o którym mowa ust. 3, ust. 3 pkt 8. posiadacz złoży wniosek o przedłużenie ważności, ważność Karty jest przedłużana okres 10 lat.
 
-6. Wodniesieniu do wnioskodawcy szczególnie zas∏u˝onego dla Rzeczypospolitej Polskiej konsul mo˝e wydaç decyzj´ oprzyznaniu Karty bez koniecznoÊci przedstawiania przez wnioskodawc´ dokumentów, o których mowa ust. 3.
+6. Wodniesieniu do wnioskodawcy szczególnie zasłużonego dla Rzeczypospolitej Polskiej konsul może wydać decyzję oprzyznaniu Karty bez konieczności przedstawiania przez wnioskodawcę dokumentów, o których mowa ust. 3.
 
-7. Oceny znajomoÊci j´zyka polskiego dokonuje, zastrze˝eniem art. 15 ust. 2, konsul podczas rozmowy wnioskodawcà.
+7. Oceny znajomości języka polskiego dokonuje, zastrzeżeniem art. 15 ust. 2, konsul podczas rozmowy wnioskodawcą.
 
-**Art. 14.** Do wniosku o przyznanie Karty wnioskodawca do∏àcza kopi´ wa˝nego dokumentu potwierdzajàcego to˝samoÊç.
+**Art. 14.** Do wniosku o przyznanie Karty wnioskodawca dołącza kopię ważnego dokumentu potwierdzającego tożsamość.
 
 **Art. 15.**
 
-1. Prezes Rady Ministrów mo˝e okreÊliç, drodze rozporzàdzenia, wykaz organizacji pozarzàdowych posiadajàcych osobowoÊç prawnà prowadzàcych dzia∏alnoÊç wzakresie pomocy osobom narodowoÊci polskiej zamieszka∏ym terenie paƒstw, o których mowa art. 2 ust. 2, uprawnionych do przyjmowania przekazywania w∏aÊciwemu konsulowi wniosków o przyznanie Karty Polaka.
+1. Prezes Rady Ministrów może określić, drodze rozporządzenia, wykaz organizacji pozarządowych posiadających osobowość prawną prowadzących działalność wzakresie pomocy osobom narodowości polskiej zamieszkałym terenie państw, o których mowa art. 2 ust. 2, uprawnionych do przyjmowania przekazywania właściwemu konsulowi wniosków o przyznanie Karty Polaka.
 
-2. W przypadku sk∏adania wniosku za poÊrednictwem organizacji, o której mowa ust. 1, oceny znajomoÊci j´zyka polskiego dokonuje upowa˝niony pracownik organizacji podczas rozmowy wnioskodawcà.
+2. W przypadku składania wniosku za pośrednictwem organizacji, o której mowa ust. 1, oceny znajomości języka polskiego dokonuje upoważniony pracownik organizacji podczas rozmowy wnioskodawcą.
 
-3. Organizacja, o której mowa ust. 1, przekazuje niezw∏ocznie w∏aÊciwemu konsulowi otrzymany wniosek wraz ocenà znajomoÊci j´zyka polskiego wnioskodawcy.
+3. Organizacja, o której mowa ust. 1, przekazuje niezwłocznie właściwemu konsulowi otrzymany wniosek wraz oceną znajomości języka polskiego wnioskodawcy.
 
 **Art. 16.**
 
-1. Ma∏oletniemu przyznaje si´ Kart´ Polaka wniosek rodziców, gdy:
+1. Małoletniemu przyznaje się Kartę Polaka wniosek rodziców, gdy:
 
-5. Karta traci wa˝noÊç chwilà nabycia obywatelstwa polskiego albo uzyskania zezwolenia osiedlenie si´ terytorium Rzeczypospolitej Polskiej.
+5. Karta traci ważność chwilą nabycia obywatelstwa polskiego albo uzyskania zezwolenia osiedlenie się terytorium Rzeczypospolitej Polskiej.
 
 **Art. 18.**
 
-1. Kart´ osobie, której jà przyznano, wydaje konsul.
+1. Kartę osobie, której ją przyznano, wydaje konsul.
 
-2. Kart´ wr´cza konsul lub inna upowa˝nioprzez niego osoba; je˝eli jest to mo˝liwe, wr´czenie Karty nast´puje sposób uroczysty.
+2. Kartę wręcza konsul lub inna upoważnioprzez niego osoba; jeżeli jest to możliwe, wręczenie Karty następuje sposób uroczysty.
 
-3. Korzystanie uprawnieƒ, o których mowa wart.6 ust. 1 pkt 3—5, wymaga okazywania Karty Polaka wa˝nego dokumentu potwierdzajàcego to˝samoÊç jej posiadacza.
+3. Korzystanie uprawnień, o których mowa wart.6 ust. 1 pkt 3—5, wymaga okazywania Karty Polaka ważnego dokumentu potwierdzającego tożsamość jej posiadacza.
 
 4. W przypadku zagubienia lub zniszczenia Karty konsul, wniosek posiadacza, wydaje duplikat Karty Polaka.
 
-**Art. 19.** Konsul wydaje decyzj´ o odmowie przyznania Karty przypadku, gdy:
+**Art. 19.** Konsul wydaje decyzję o odmowie przyznania Karty przypadku, gdy:
 
 **Art. 20.**
 
-1. Konsul, drodze decyzji administracyj- ust. 2. nej, urz´du uniewa˝nia Kart´ przypadku:
+1. Konsul, drodze decyzji administracyj- ust. 2. nej, urzędu unieważnia Kartę przypadku:
 
 4. Rada prowadzi centralny rejestr przyznanych
 
-- **1)** gdy po otrzymaniu Karty jej posiadacz za- uniewa˝nionych Kart Polaka. Centralny rejestr zachowuje si´ wsposób uw∏aczajàcy Rzeczypospoli- wiera dane, o których mowa ust. 2. tej Polskiej lub Polakom;
+- **1)** gdy po otrzymaniu Karty jej posiadacz za- unieważnionych Kart Polaka. Centralny rejestr zachowuje się wsposób uwłaczający Rzeczypospoli- wiera dane, o których mowa ust. 2. tej Polskiej lub Polakom;
 
 **Art. 24.**
 
 1. Dane, o których mowa art. 23 ust. 2,
 
-- **2)** gdy zachodzi jedna przes∏anek okreÊlonych sà udost´pniane za poÊrednictwem urzàdzeƒ teleart.19 pkt 2 4—6; informatycznych, bez koniecznoÊci sk∏adania pisemnych wniosków, ministrowi w∏aÊciwemu do spraw
-- **3)** zrzeczenia si´ Karty Polaka. wewn´trznych, Szefowi Agencji Bezpieczeƒstwa Wewn´trznego, Szefowi Agencji Wywiadu, konsulom
+- **2)** gdy zachodzi jedna przesłanek określonych są udostępniane za pośrednictwem urządzeń teleart.19 pkt 2 4—6; informatycznych, bez konieczności składania pisemnych wniosków, ministrowi właściwemu do spraw
+- **3)** zrzeczenia się Karty Polaka. wewnętrznych, Szefowi Agencji Bezpieczeństwa Wewnętrznego, Szefowi Agencji Wywiadu, konsulom
 
-2. W przypadku, o którym mowa ust. 1, posia- organom Policji Stra˝y Granicznej, zakresie dacz Karty niezw∏ocznie zwraca Kart´ niezb´dnym do wykonywania zadaƒ ustawowych tych konsulowi, który jà wyda∏. organów.
+2. W przypadku, o którym mowa ust. 1, posia- organom Policji Straży Granicznej, zakresie dacz Karty niezwłocznie zwraca Kartę niezbędnym do wykonywania zadań ustawowych tych konsulowi, który ją wydał. organów.
 
 **Art. 21.**
 
-1. Organem odwo∏awczym od decyzji, 2. Rada Ministrów okreÊli, drodze rozporzàdzeo których mowa art. 19 20, jest Rada. nia, sposób prowadzenia rejestru, o którym mowa wart. 23 ust. 1 icentralnego rejestru, októrym mowa
+1. Organem odwoławczym od decyzji, 2. Rada Ministrów określi, drodze rozporządzeo których mowa art. 19 20, jest Rada. nia, sposób prowadzenia rejestru, o którym mowa wart. 23 ust. 1 icentralnego rejestru, októrym mowa
 
-2. Odwo∏anie wnosi si´ za poÊrednictwem konsula art. 23 ust. 4, sposób przetwarzania danych nich terminie 30 dni od dnia dor´czenia decyzji. zawartych, atak˝e szczegó∏owe zasady przekazywania przez konsula danych do centralnego rejestru, bioràc
+2. Odwołanie wnosi się za pośrednictwem konsula art. 23 ust. 4, sposób przetwarzania danych nich terminie 30 dni od dnia doręczenia decyzji. zawartych, atakże szczegółowe zasady przekazywania przez konsula danych do centralnego rejestru, biorąc
 
-**Art. 22.** Rada Ministrów okreÊli, drodze rozpo- pod uwag´ koniecznoÊç zapewnienia wszystkim rzàdzenia: uprawnionym szybkiego do nich dost´pu.
+**Art. 22.** Rada Ministrów określi, drodze rozpo- pod uwagę konieczność zapewnienia wszystkim rządzenia: uprawnionym szybkiego do nich dostępu.
+
+#### Rozdział 5 Art. 25. W ustawie dnia 13 lutego 1984 o funkcjach konsulów Rzeczypospolitej Polskiej (Dz. U.
 
 **Art. 23.**
 
-1. Konsul prowadzi, wzakresie swojej w∏aÊciwoÊci, rejestr z∏o˝onych wniosków o przyznanie „Art. 25a. Konsul: Karty Polaka, decyzji wydanych wtych sprawach 1) prowadzi post´powanie wsprawie przyprzyznanych uniewa˝nionych Kart Polaka. znania Karty Polaka, póên. zm. ) art. 94a ust. 2 po pkt 3 dodaje si´ pkt 3a brzmieniu: „3a) osoby posiadajàce wa˝nà Kart´ Polaka;”.
+1. Konsul prowadzi, wzakresie swojej właściwości, rejestr złożonych wniosków o przyznanie ŃArt. 25a. Konsul: Karty Polaka, decyzji wydanych wtych sprawach 1) prowadzi postępowanie wsprawie przyprzyznanych unieważnionych Kart Polaka. znania Karty Polaka, póên. zm. ) art. 94a ust. 2 po pkt 3 dodaje się pkt 3a brzmieniu: Ń3a) osoby posiadające ważną Kartę Polaka;”.
 
-**Art. 27.** W ustawie dnia 20 czerwca 1992 o uprawnieniach do ulgowych przejazdów Êrodkami publicznego transportu zbiorowego (Dz. U. 2002 175, 1440, póên. zm. ) art. 4 ust. 4 po pkt3 kropk´ zast´puje si´ Êrednikiem dodaje si´ pkt4 brzmieniu: „4) posiadacze wa˝nej Karty Polaka.”.
+**Art. 27.** W ustawie dnia 20 czerwca 1992 o uprawnieniach do ulgowych przejazdów środkami publicznego transportu zbiorowego (Dz. U. 2002 175, 1440, póên. zm. ) art. 4 ust. 4 po pkt3 kropkę zastępuje się średnikiem dodaje się pkt4 brzmieniu: Ń4) posiadacze ważnej Karty Polaka.”.
 
-**Art. 28.** Wustawie zdnia 20 kwietnia 2004 opromocji zatrudnienia instytucjach rynku pracy (Dz. U. 99, 1001, póên. zm. ) art. 87 ust. 1 po pkt 2b dodaje si´ pkt 2c brzmieniu: „2c) posiadajàcy wa˝nà Kart´ Polaka;”.
+**Art. 28.** Wustawie zdnia 20 kwietnia 2004 opromocji zatrudnienia instytucjach rynku pracy (Dz. U. 99, 1001, póên. zm. ) art. 87 ust. 1 po pkt 2b dodaje się pkt 2c brzmieniu: Ń2c) posiadający ważną Kartę Polaka;”.
 
-**Art. 29.** W ustawie dnia 2 lipca 2004 o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. z2007 155,
+**Art. 29.** W ustawie dnia 2 lipca 2004 o swobodzie działalności gospodarczej (Dz. U. z2007 155,
 
-**Art. 30.** W ustawie dnia 27 sierpnia 2004 o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, 2135, zpóên. zm.
+**Art. 30.** W ustawie dnia 27 sierpnia 2004 o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, 2135, zpóên. zm.
 
-**Art. 31.** Wustawie zdnia 27 lipca 2005 Prawo o szkolnictwie wy˝szym (Dz. U. 164, 1365, póên. zm. ) wprowadza si´ nast´pujàce zmiany: ) art. 43 wprowadza si´ nast´pujàce zmiany:
+**Art. 31.** Wustawie zdnia 27 lipca 2005 Prawo o szkolnictwie wyższym (Dz. U. 164, 1365, póên. zm. ) wprowadza się następujące zmiany: ) art. 43 wprowadza się następujące zmiany:
 
-**Art. 32.** Ustawa wchodzi w˝ycie po up∏ywie 6 miesi´cy od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 32.** Ustawa wchodzi wżycie po upływie 6 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

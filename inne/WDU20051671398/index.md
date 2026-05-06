@@ -24,726 +24,746 @@ domain: null
 | Ostatnia zmiana | 2026-04-17 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051671398) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1398/text.pdf) |
 
-**Art. 2.** Wustawie zdnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2003 r. 118, poz. 1112, z póên. zm. nych wodr´bnych przepisach przy ustalaniu prawa do górniczej emerytury bez wzgl´du na wiek uwzgl´dnia ) w art. 88 w ust. 2a wyrazy „oÊmiu lat” si´ okresy niezdolnoÊci do pracy z powodu choroby zast´puje si´ wyrazami „dziewi´ciu lat”. lub odosobnienia wzwiàzku zchorobà zakaênà, za które wyp∏acono wynagrodzenie lub zasi∏ek chorobowy,
+Sprawy z zakresu prawa o księgach wieczystych
+3. Od wniosku o wpis hipoteki łącznej lub służebArt. 42.1. Opłatę stałą wkwocie 200 złotych pobie- ności pobiera się jedną opłatę stałą, choćby wniosek ra się od wniosku owpis wksiędze wieczystej własno- ten obejmował więcej niż jedną księgę wieczystą.
+ści, użytkowania wieczystego lub ograniczonego prawa rzeczowego, chyba że przepis szczególny stanowi inaczej.
+2. Jeżeli wniosek dotyczy wpisu udziału w prawie, pobiera się część opłaty stałej proporcjonalną do wysokości udziału, nie mniej jednak niż 100 złotych.
+3. Od wniosku o wpis w księdze wieczystej własności, użytkowania wieczystego lub spółdzielczego własnościowego prawa do lokalu na podstawie dziedziczenia, zapisu lub działu spadku albo zniesienia współwłasności pobiera się jedną opłatę stałą w wysokości 150 złotych niezależnie od liczby udziałów w tych prawach.
+
+**Art. 2.** Wustawie zdnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z 2003 r. 118, poz. 1112, z póên. zm. nych wodrębnych przepisach przy ustalaniu prawa do górniczej emerytury bez względu na wiek uwzględnia ) w art. 88 w ust. 2a wyrazy Ńośmiu lat” się okresy niezdolności do pracy z powodu choroby zastępuje się wyrazami Ńdziewięciu lat”. lub odosobnienia wzwiązku zchorobą zakaêną, za które wypłacono wynagrodzenie lub zasiłek chorobowy,
 
 **Art. 3.**
 
-1. Osobom, które do dnia 31 grudnia 2007 r. okresy czynnej s∏u˝by wojskowej lub okresy pe∏nienia spe∏ni∏y warunki do emerytury górniczej okreÊlone z wyboru funkcji w organach zwiàzku zawodowego w art. 34 lub w art. 48—49 ustawy, o której mowa zrzeszajàcego górników na warunkach okreÊlonych wart. 1, wbrzmieniu obowiàzujàcym wdniu 31 grud- w tych odr´bnych przepisach, o ile z urlopem górninia 2006 r., przys∏uguje górnicza emerytura na warun- czym lub Êwiadczeniem górniczym osoby te spe∏ni∏y kach okreÊlonych w tych przepisach. do dnia 31 grudnia 2007 r. warunki do górniczej emerytury bez wzgl´du na wiek.
+1. Osobom, które do dnia 31 grudnia 2007 r. okresy czynnej służby wojskowej lub okresy pełnienia spełniły warunki do emerytury górniczej określone z wyboru funkcji w organach związku zawodowego w art. 34 lub w art. 48—49 ustawy, o której mowa zrzeszającego górników na warunkach określonych wart. 1, wbrzmieniu obowiązującym wdniu 31 grud- w tych odrębnych przepisach, o ile z urlopem górninia 2006 r., przysługuje górnicza emerytura na warun- czym lub świadczeniem górniczym osoby te spełniły kach określonych w tych przepisach. do dnia 31 grudnia 2007 r. warunki do górniczej emerytury bez względu na wiek.
 
-2. Osobom, którym udzielono urlopu górniczego lub Êwiadczenia górniczego na warunkach okreÊlo- Art. 4. Ustawa wchodzi w ˝ycie z dniem 1 stycznia ——————— 2007 r., zwyjàtkiem art. 1pkt 4i6oraz art. 2i3, które wchodzà w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA z dnia 28 lipca 2005 r. o kosztach sàdowych w sprawach cywilnych ——————— Tytu∏ I Przepisy ogólne
+2. Osobom, którym udzielono urlopu górniczego lub świadczenia górniczego na warunkach określo- Art. 4. Ustawa wchodzi w życie z dniem 1 stycznia ——————— 2007 r., zwyjątkiem art. 1pkt 4i6oraz art. 2i3, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych ——————— Tytuł I Przepisy ogólne
 
 **Art. 3.**
 
-1. Op∏acie podlega pismo, je˝eli przepis ustawy przewiduje jej pobranie.
+1. Opłacie podlega pismo, jeżeli przepis ustawy przewiduje jej pobranie.
 
-2. Op∏acie podlegajà w szczególnoÊci nast´pujàce
+2. Opłacie podlegają w szczególności następujące
 
-**Art. 1.** Ustawa okreÊla zasady i tryb pobierania pisma: kosztów sàdowych wsprawach cywilnych, zasady ich zwrotu, wysokoÊç op∏at sàdowych w sprawach cywil- 1) pozew i pozew wzajemny; nych, zasady zwalniania od kosztów sàdowych oraz umarzania, rozk∏adania na raty i odraczania terminu 2) apelacja i za˝alenie; zap∏aty nale˝noÊci sàdowych. 3) skarga kasacyjna i skarga o stwierdzenie niezgodArt. 2.1. Koszty sàdowe obejmujà op∏aty iwydatki. noÊci z prawem prawomocnego orzeczenia; 2. Do uiszczenia kosztów sàdowych obowiàzana 4) sprzeciw od wyroku zaocznego; jest strona, która wnosi do sàdu pismo podlegajàce 5) zarzuty od nakazu zap∏aty; op∏acie lub powodujàce wydatki, chyba ˝e ustawa stanowi inaczej. 6) interwencja g∏ówna i uboczna;
+**Art. 1.** Ustawa określa zasady i tryb pobierania pisma: kosztów sądowych wsprawach cywilnych, zasady ich zwrotu, wysokość opłat sądowych w sprawach cywil- 1) pozew i pozew wzajemny; nych, zasady zwalniania od kosztów sądowych oraz umarzania, rozkładania na raty i odraczania terminu 2) apelacja i zażalenie; zapłaty należności sądowych. 3) skarga kasacyjna i skarga o stwierdzenie niezgodArt. 2.1. Koszty sądowe obejmują opłaty iwydatki. ności z prawem prawomocnego orzeczenia; 2. Do uiszczenia kosztów sądowych obowiązana 4) sprzeciw od wyroku zaocznego; jest strona, która wnosi do sądu pismo podlegające 5) zarzuty od nakazu zapłaty; opłacie lub powodujące wydatki, chyba że ustawa stanowi inaczej. 6) interwencja główna i uboczna;
 
-**Art. 6.** Koszty mediacji nie stanowià wydatków. Przewodniczàcego Krajowej Rady Radiofonii i Telewizji. 3. Op∏acie podlega wniosek o wydanie na podstawie akt: odpisu, wypisu, zaÊwiadczenia, wyciàgu, innego dokumentu oraz kopii, a nadto wniosek o wydanie odpisu ksi´gi wieczystej (op∏ata kancelaryjna).
+**Art. 6.** Koszty mediacji nie stanowią wydatków. Przewodniczącego Krajowej Rady Radiofonii i Telewizji. 3. Opłacie podlega wniosek o wydanie na podstawie akt: odpisu, wypisu, zaświadczenia, wyciągu, innego dokumentu oraz kopii, a nadto wniosek o wydanie odpisu księgi wieczystej (opłata kancelaryjna).
 
 **Art. 4.**
 
-1. Pismo wnoszone przez kilka osób podlega jednej op∏acie. Je˝eli jednak przedmiotem sprawy sà roszczenia lub zobowiàzania jednego rodzaju ioparte na jednakowej podstawie faktycznej iprawnej (wspó∏uczestnictwo formalne), ka˝dy wspó∏uczestnik uiszcza op∏at´ oddzielnie, stosownie do swojego roszczenia lub zobowiàzania.
+1. Pismo wnoszone przez kilka osób podlega jednej opłacie. Jeżeli jednak przedmiotem sprawy są roszczenia lub zobowiązania jednego rodzaju ioparte na jednakowej podstawie faktycznej iprawnej (współuczestnictwo formalne), każdy współuczestnik uiszcza opłatę oddzielnie, stosownie do swojego roszczenia lub zobowiązania.
 
-2. Op∏at´ od wniosku odokonanie wpisu wksi´dze wieczystej pobiera si´ od osoby, która wystàpi∏a z takim wnioskiem, tak˝e wówczas, gdy na jego podstawie majà byç ujawnione prawa osób, które nie sà wnioskodawcami.
+2. Opłatę od wniosku odokonanie wpisu wksiędze wieczystej pobiera się od osoby, która wystąpiła z takim wnioskiem, także wówczas, gdy na jego podstawie mają być ujawnione prawa osób, które nie są wnioskodawcami.
 
-3. Nie pobiera si´ op∏aty od wniosku o sporzàdzenie uzasadnienia oraz dor´czenie odpisu orzeczenia z uzasadnieniem, zg∏oszonego w terminie tygodniowym od dnia og∏oszenia sentencji.
+3. Nie pobiera się opłaty od wniosku o sporządzenie uzasadnienia oraz doręczenie odpisu orzeczenia z uzasadnieniem, zgłoszonego w terminie tygodniowym od dnia ogłoszenia sentencji.
 
 **Art. 5.**
 
-1. Wydatki obejmujà w szczególnoÊci:
+1. Wydatki obejmują w szczególności:
 
-- **1)** koszty podró˝y strony zwolnionej od kosztów sàdowych zwiàzane z nakazanym przez sàd jej osobistym stawiennictwem;
-- **2)** zwrot kosztów podró˝y i noclegu oraz utraconych zarobków lub dochodów Êwiadków;
-- **3)** wynagrodzenie i zwrot kosztów poniesionych przez bieg∏ych, t∏umaczy oraz kuratorów ustanowionych dla strony w danej sprawie;
-- **4)** wynagrodzenie nale˝ne innym osobom lub instytucjom oraz zwrot poniesionych przez nie kosztów;
+- **1)** koszty podróży strony zwolnionej od kosztów sądowych związane z nakazanym przez sąd jej osobistym stawiennictwem;
+- **2)** zwrot kosztów podróży i noclegu oraz utraconych zarobków lub dochodów świadków;
+- **3)** wynagrodzenie i zwrot kosztów poniesionych przez biegłych, tłumaczy oraz kuratorów ustanowionych dla strony w danej sprawie;
+- **4)** wynagrodzenie należne innym osobom lub instytucjom oraz zwrot poniesionych przez nie kosztów;
 
 **Art. 7.**
 
-1. Stronà w rozumieniu ustawy jest ka˝dy uczestnik post´powania sàdowego, wtym tak˝e Êwiadek, bieg∏y i t∏umacz, a kosztami procesu sà równie˝ koszty innych rodzajów post´powania.
+1. Stroną w rozumieniu ustawy jest każdy uczestnik postępowania sądowego, wtym także świadek, biegły i tłumacz, a kosztami procesu są również koszty innych rodzajów postępowania.
 
-2. Przez pismo wnoszone do sàdu rozumie si´ równie˝ sk∏adany ustnie do protoko∏u pozew, wniosek wszczynajàcy innego rodzaju post´powanie lub inny wniosek, je˝eli podlega op∏acie.
+2. Przez pismo wnoszone do sądu rozumie się również składany ustnie do protokołu pozew, wniosek wszczynający innego rodzaju postępowanie lub inny wniosek, jeżeli podlega opłacie.
 
 **Art. 8.**
 
-1. Wpost´powaniu dotyczàcym kosztów sàdowych stosuje si´ przepisy Kodeksu post´powania cywilnego, chyba ˝e ustawa stanowi inaczej.
+1. Wpostępowaniu dotyczącym kosztów sądowych stosuje się przepisy Kodeksu postępowania cywilnego, chyba że ustawa stanowi inaczej.
 
-2. Postanowienie sàdu lub referendarza sàdowego w przedmiocie kosztów sàdowych mo˝e byç wydane na posiedzeniu niejawnym.
+2. Postanowienie sądu lub referendarza sądowego w przedmiocie kosztów sądowych może być wydane na posiedzeniu niejawnym.
 
-**Art. 9.** Minister SprawiedliwoÊci okreÊli, w drodze rozporzàdzenia:
+**Art. 9.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
-**Art. 10.** Op∏at´ nale˝y uiÊciç przy wniesieniu do sàdu pisma podlegajàcego op∏acie.
+**Art. 10.** Opłatę należy uiścić przy wniesieniu do sądu pisma podlegającego opłacie.
 
-**Art. 11.** Op∏ata jest sta∏a, stosunkowa albo podstawowa.
+**Art. 11.** Opłata jest stała, stosunkowa albo podstawowa.
 
-**Art. 12.** Op∏at´ sta∏à pobiera si´ wsprawach oprawa niemajàtkowe oraz we wskazanych wustawie niektórych sprawach o prawa majàtkowe, w wysokoÊci jednakowej, niezale˝nie od wartoÊci przedmiotu sporu lub wartoÊci przedmiotu zaskar˝enia. Op∏ata sta∏a nie mo˝e byç ni˝sza ni˝ 30 z∏otych i wy˝sza ni˝ 5 000 z∏otych.
+**Art. 12.** Opłatę stałą pobiera się wsprawach oprawa niemajątkowe oraz we wskazanych wustawie niektórych sprawach o prawa majątkowe, w wysokości jednakowej, niezależnie od wartości przedmiotu sporu lub wartości przedmiotu zaskarżenia. Opłata stała nie może być niższa niż 30 złotych i wyższa niż 5 000 złotych.
 
-**Art. 13.** Op∏at´ stosunkowà pobiera si´ w sprawach o prawa majàtkowe; wynosi ona 5 % wartoÊci przedmiotu sporu lub przedmiotu zaskar˝enia, jednak nie mniej ni˝ 30 z∏otych i nie wi´cej ni˝ 100 000 z∏otych.
+**Art. 13.** Opłatę stosunkową pobiera się w sprawach o prawa majątkowe; wynosi ona 5 % wartości przedmiotu sporu lub przedmiotu zaskarżenia, jednak nie mniej niż 30 złotych i nie więcej niż 100 000 złotych.
 
 **Art. 14.**
 
-1. Op∏at´ podstawowà pobiera si´ wsprawach, wktórych przepisy nie przewidujà op∏aty sta∏ej, stosunkowej lub tymczasowej.
+1. Opłatę podstawową pobiera się wsprawach, wktórych przepisy nie przewidują opłaty stałej, stosunkowej lub tymczasowej.
 
-2. Op∏at´ podstawowà pobiera si´ tak˝e od podlegajàcych op∏acie pism, októrych mowa wart. 3ust. 2, wnoszonych przez stron´ zwolnionà od kosztów sàdowych przez sàd, chyba ˝e ustawa stanowi inaczej.
+2. Opłatę podstawową pobiera się także od podlegających opłacie pism, októrych mowa wart. 3ust. 2, wnoszonych przez stronę zwolnioną od kosztów sądowych przez sąd, chyba że ustawa stanowi inaczej.
 
-3. Op∏ata podstawowa wynosi 30 z∏otych istanowi minimalnà op∏at´, którà strona jest obowiàzana uiÊciç od pisma podlegajàcego op∏acie, chyba ˝e ustawa stanowi inaczej.
+3. Opłata podstawowa wynosi 30 złotych istanowi minimalną opłatę, którą strona jest obowiązana uiścić od pisma podlegającego opłacie, chyba że ustawa stanowi inaczej.
 
-4. Pobranie od pisma op∏aty podstawowej wy∏àcza pobranie innej op∏aty.
+4. Pobranie od pisma opłaty podstawowej wyłącza pobranie innej opłaty.
 
-5. Przepisów o op∏acie podstawowej nie stosuje si´ w post´powaniu wieczystoksi´gowym oraz w post´powaniu rejestrowym.
+5. Przepisów o opłacie podstawowej nie stosuje się w postępowaniu wieczystoksięgowym oraz w postępowaniu rejestrowym.
 
 **Art. 15.**
 
-1. Od pisma wniesionego wsprawie oprawa majàtkowe, w której wartoÊci przedmiotu sprawy nie da si´ ustaliç wchwili jej wszcz´cia, przewodniczàcy okreÊla op∏at´ tymczasowà.
+1. Od pisma wniesionego wsprawie oprawa majątkowe, w której wartości przedmiotu sprawy nie da się ustalić wchwili jej wszczęcia, przewodniczący określa opłatę tymczasową.
 
-2. Op∏at´ tymczasowà okreÊla si´ w granicach od 30 z∏otych do 1 000 z∏otych.
+2. Opłatę tymczasową określa się w granicach od 30 złotych do 1 000 złotych.
 
-3. W orzeczeniu koƒczàcym post´powanie w pierwszej instancji sàd okreÊla wysokoÊç op∏aty ostatecznej, która jest bàdê op∏atà stosunkowà, obliczonà od wartoÊci przedmiotu sporu ustalonej w toku wartoÊci tej nie uda∏o si´ ustaliç. W tym wypadku op∏at´ ostatecznà sàd okreÊla wkwocie nie wy˝szej ni˝ 5 000 z∏otych, majàc na wzgl´dzie spo∏ecznà donios∏oÊç rozstrzygni´cia i stopieƒ zawi∏oÊci sprawy.
+3. W orzeczeniu kończącym postępowanie w pierwszej instancji sąd określa wysokość opłaty ostatecznej, która jest bądê opłatą stosunkową, obliczoną od wartości przedmiotu sporu ustalonej w toku wartości tej nie udało się ustalić. W tym wypadku opłatę ostateczną sąd określa wkwocie nie wyższej niż 5 000 złotych, mając na względzie społeczną doniosłość rozstrzygnięcia i stopień zawiłości sprawy.
 
 **Art. 16.**
 
-1. Je˝eli op∏ata ostateczna jest wy˝sza od op∏aty tymczasowej, sàd orzeka o obowiàzku uiszczenia ró˝nicy, stosujàc odpowiednio zasady obowiàzujàce przy zwrocie kosztów procesu.
+1. Jeżeli opłata ostateczna jest wyższa od opłaty tymczasowej, sąd orzeka o obowiązku uiszczenia różnicy, stosując odpowiednio zasady obowiązujące przy zwrocie kosztów procesu.
 
-2. Je˝eli op∏ata ostateczna jest ni˝sza od op∏aty tymczasowej, ró˝nic´ sàd zwraca z urz´du na koszt strony.
+2. Jeżeli opłata ostateczna jest niższa od opłaty tymczasowej, różnicę sąd zwraca z urzędu na koszt strony.
 
-**Art. 17.** W wypadku wstàpienia do sprawy osoby, na której rzecz prokurator wytoczy∏ powództwo lub zg∏osi∏ wniosek o wszcz´cie post´powania, pobiera si´ od tej osoby op∏at´ nale˝nà od takiego pozwu lub wniosku.
+**Art. 17.** W wypadku wstąpienia do sprawy osoby, na której rzecz prokurator wytoczył powództwo lub zgłosił wniosek o wszczęcie postępowania, pobiera się od tej osoby opłatę należną od takiego pozwu lub wniosku.
 
 **Art. 18.**
 
-1. Ca∏à op∏at´ pobiera si´ od pozwu i pozwu wzajemnego oraz wniosku o wszcz´cie post´powania nieprocesowego lub samodzielnej jego cz´Êci, post´powania, bàdê op∏atà okreÊlonà przez sàd, je˝eli chyba ˝e przepis szczególny stanowi inaczej.
+1. Całą opłatę pobiera się od pozwu i pozwu wzajemnego oraz wniosku o wszczęcie postępowania nieprocesowego lub samodzielnej jego części, postępowania, bądê opłatą określoną przez sąd, jeżeli chyba że przepis szczególny stanowi inaczej.
 
-2. Przepisy ustawy przewidujàce pobranie op∏aty od pozwu lub wniosku wszczynajàcego post´powanie w sprawie stosuje si´ równie˝ do op∏aty od apelacji, skargi kasacyjnej, skargi o stwierdzenie niezgodnoÊci z prawem prawomocnego orzeczenia, interwencji g∏ównej, skargi o wznowienie post´powania, skargi o uchylenie wyroku sàdu polubownego, chyba ˝e przepis szczególny stanowi inaczej.
+2. Przepisy ustawy przewidujące pobranie opłaty od pozwu lub wniosku wszczynającego postępowanie w sprawie stosuje się również do opłaty od apelacji, skargi kasacyjnej, skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia, interwencji głównej, skargi o wznowienie postępowania, skargi o uchylenie wyroku sądu polubownego, chyba że przepis szczególny stanowi inaczej.
 
 **Art. 19.**
 
-1. Po∏ow´ op∏aty pobiera si´ od sprzeciwu od wyroku zaocznego.
+1. Połowę opłaty pobiera się od sprzeciwu od wyroku zaocznego.
 
-2. Czwartà cz´Êç op∏aty pobiera si´ od pozwu w post´powaniu nakazowym lub upominawczym, z wy∏àczeniem spraw podlegajàcych rozpoznaniu w post´powaniu uproszczonym.
+2. Czwartą część opłaty pobiera się od pozwu w postępowaniu nakazowym lub upominawczym, z wyłączeniem spraw podlegających rozpoznaniu w postępowaniu uproszczonym.
 
-3. Piàtà cz´Êç op∏aty pobiera si´ od:
+3. Piątą część opłaty pobiera się od:
 
 - **1)** interwencji ubocznej;
-- **2)** za˝alenia, chyba ˝e przepis szczególny stanowi inaczej.
+- **2)** zażalenia, chyba że przepis szczególny stanowi inaczej.
 
-4. Trzy czwarte cz´Êci op∏aty pobiera si´ od:
+4. Trzy czwarte części opłaty pobiera się od:
 
-- **1)** pozwanego w razie wniesienia zarzutów od nakazu zap∏aty wydanego w post´powaniu nakazowym;
-- **2)** powoda w razie prawid∏owego wniesienia przez pozwanego sprzeciwu przeciwko nakazowi zap∏aty wydanemu w post´powaniu upominawczym.
+- **1)** pozwanego w razie wniesienia zarzutów od nakazu zapłaty wydanego w postępowaniu nakazowym;
+- **2)** powoda w razie prawidłowego wniesienia przez pozwanego sprzeciwu przeciwko nakazowi zapłaty wydanemu w postępowaniu upominawczym.
 
 **Art. 20.**
 
-1. Op∏ata, októrej mowa wart. 19, nie mo˝e wynosiç mniej ni˝ 30 z∏otych.
+1. Opłata, októrej mowa wart. 19, nie może wynosić mniej niż 30 złotych.
 
-2. Je˝eli op∏ata ta ma byç pobrana przed ustaleniem op∏aty ostatecznej, pobiera si´ odpowiednià cz´Êç op∏aty tymczasowej, nie mniej jednak ni˝ 30 z∏otych.
+2. Jeżeli opłata ta ma być pobrana przed ustaleniem opłaty ostatecznej, pobiera się odpowiednią część opłaty tymczasowej, nie mniej jednak niż 30 złotych.
 
-**Art. 21.** Koƒcówk´ op∏aty zaokràgla si´ w gór´ do pe∏nego z∏otego. DZIA¸ 2 WysokoÊç op∏at we wszystkich rodzajach spraw
+**Art. 21.** Końcówkę opłaty zaokrągla się w górę do pełnego złotego. DZIAĘ 2 Wysokość opłat we wszystkich rodzajach spraw
 
-**Art. 22.** Op∏at´ sta∏à w kwocie 40 z∏otych pobiera si´ od za˝alenia na postanowienie w przedmiocie:
+**Art. 22.** Opłatę stałą w kwocie 40 złotych pobiera się od zażalenia na postanowienie w przedmiocie:
 
-**Art. 23.** Op∏at´ sta∏à w kwocie 40 z∏otych pobiera 2. Op∏at´ od skargi na orzeczenie referendarza pobiera si´ w wysokoÊci op∏aty od wniosku o wydanie tego orzeczenia, nie wi´cej jednak ni˝ 100 z∏otych. DZIA¸ 3 WysokoÊç op∏at w procesie Rozdzia∏ 1 Sprawy z zakresu prawa cywilnego i rodzinnego
+**Art. 23.** Opłatę stałą w kwocie 40 złotych pobiera 2. Opłatę od skargi na orzeczenie referendarza pobiera się w wysokości opłaty od wniosku o wydanie tego orzeczenia, nie więcej jednak niż 100 złotych. DZIAĘ 3 Wysokość opłat w procesie
+
+#### Rozdział 1 Sprawy z zakresu prawa cywilnego i rodzinnego
 
 **Art. 26.**
 
-1. Op∏at´ sta∏à wkwocie 600 z∏otych pobiera si´ od pozwu o:
+1. Opłatę stałą wkwocie 600 złotych pobiera się od pozwu o:
 
 - **1)** rozwód;
-- **2)** separacj´;
-- **3)** ochron´ dóbr osobistych;
-- **4)** ochron´ niemajàtkowych praw autorskich;
-- **5)** ochron´ niemajàtkowych praw wynikajàcych z opatentowania wynalazków lub rejestracji wzorów u˝ytkowych i zdobniczych oraz znaków towasi´ od: rowych (ochron´ praw twórcy projektu wynalaz1) wniosku owszcz´cie post´powania nieprocesowe- czego); go lub samodzielnej jego cz´Êci, chyba ˝e przepis 6) ochron´ innych praw niemajàtkowych, chyba ˝e szczególny stanowi inaczej; przepis szczególny stanowi inaczej.
-- **2)** apelacji, za˝alenia, skargi kasacyjnej, skargi 2. W sprawach o rozwód, o separacj´ lub o unieo wznowienie post´powania i skargi o stwierdze- wa˝nienie ma∏˝eƒstwa, w razie zasàdzenia alimentów nie niezgodnoÊci z prawem prawomocnego orze- na rzecz ma∏˝onka w orzeczeniu koƒczàcym post´poczenia w sprawie, w której post´powanie niepro- wanie w instancji, pobiera si´ od ma∏˝onka zobowiàcesowe zosta∏o wszcz´te z urz´du; zanego op∏at´ stosunkowà od zasàdzonego roszcze3) wniosku o przeprowadzenie post´powania pojed- nia, awrazie nakazania eksmisji jednego zma∏˝onków nawczego; albo podzia∏u wspólnego majàtku pobiera si´ tak˝e op∏at´ wwysokoÊci przewidzianej od pozwu lub wnio4) wniosku o zabezpieczenie dowodu. sku w takiej sprawie.
+- **2)** separację;
+- **3)** ochronę dóbr osobistych;
+- **4)** ochronę niemajątkowych praw autorskich;
+- **5)** ochronę niemajątkowych praw wynikających z opatentowania wynalazków lub rejestracji wzorów użytkowych i zdobniczych oraz znaków towasię od: rowych (ochronę praw twórcy projektu wynalaz1) wniosku owszczęcie postępowania nieprocesowe- czego); go lub samodzielnej jego części, chyba że przepis 6) ochronę innych praw niemajątkowych, chyba że szczególny stanowi inaczej; przepis szczególny stanowi inaczej.
+- **2)** apelacji, zażalenia, skargi kasacyjnej, skargi 2. W sprawach o rozwód, o separację lub o unieo wznowienie postępowania i skargi o stwierdze- ważnienie małżeństwa, w razie zasądzenia alimentów nie niezgodności z prawem prawomocnego orze- na rzecz małżonka w orzeczeniu kończącym postępoczenia w sprawie, w której postępowanie niepro- wanie w instancji, pobiera się od małżonka zobowiącesowe zostało wszczęte z urzędu; zanego opłatę stosunkową od zasądzonego roszcze3) wniosku o przeprowadzenie postępowania pojed- nia, awrazie nakazania eksmisji jednego zmałżonków nawczego; albo podziału wspólnego majątku pobiera się także opłatę wwysokości przewidzianej od pozwu lub wnio4) wniosku o zabezpieczenie dowodu. sku w takiej sprawie.
 
-**Art. 24.** Op∏at´ sta∏à w kwocie 300 z∏otych pobiera Art. 27. Op∏at´ sta∏à w kwocie 200 z∏otych pobiera si´ od wniosku o: si´ od pozwu w sprawie o:
+**Art. 24.** Opłatę stałą w kwocie 300 złotych pobiera Art. 27. Opłatę stałą w kwocie 200 złotych pobiera się od wniosku o: się od pozwu w sprawie o:
 
 **Art. 25.**
 
-1. Op∏at´ sta∏à wkwocie 100 z∏otych pobie- 10) przyj´cie w poczet cz∏onków spó∏dzielni mieszkara si´ od: niowej;
+1. Opłatę stałą wkwocie 100 złotych pobie- 10) przyjęcie w poczet członków spółdzielni mieszkara się od: niowej;
 
-- **1)** skargi na czynnoÊci komornika; 11) opró˝nienie lokalu mieszkalnego lub lokalu o innym przeznaczeniu;
-- **2)** za˝alenia na odmow´ dokonania czynnoÊci notarialnej. 12) ustalenie wstàpienia w stosunek najmu.
+- **1)** skargi na czynności komornika; 11) opróżnienie lokalu mieszkalnego lub lokalu o innym przeznaczeniu;
+- **2)** zażalenia na odmowę dokonania czynności notarialnej. 12) ustalenie wstąpienia w stosunek najmu.
 
-**Art. 28.** Wsprawie podlegajàcej rozpoznaniu wpost´powaniu uproszczonym pobiera si´ od pozwu op∏at´ sta∏à, przy wartoÊci przedmiotu sporu lub wartoÊci przedmiotu umowy:
+**Art. 28.** Wsprawie podlegającej rozpoznaniu wpostępowaniu uproszczonym pobiera się od pozwu opłatę stałą, przy wartości przedmiotu sporu lub wartości przedmiotu umowy:
 
-**Art. 29.** Op∏at´ sta∏à wkwocie 2 000 z∏otych pobiera si´ od pozwu w sprawie o:
+#### Rozdział 2 Sprawy gospodarcze
 
-**Art. 30.** Op∏at´ sta∏à w kwocie 100 z∏otych pobiera si´ od pozwu w sprawie z zakresu ochrony Êrodowiska.
+**Art. 29.** Opłatę stałą wkwocie 2 000 złotych pobiera się od pozwu w sprawie o:
 
-**Art. 31.** Op∏at´ sta∏à wkwocie 1500 z∏otych pobiera si´ od pozwu:
+**Art. 30.** Opłatę stałą w kwocie 100 złotych pobiera się od pozwu w sprawie z zakresu ochrony środowiska.
+
+**Art. 31.** Opłatę stałą wkwocie 1500 złotych pobiera się od pozwu:
 
 **Art. 32.**
 
-1. Op∏at´ sta∏à w kwocie 1 000 z∏otych pobiera si´ od odwo∏ania od decyzji Prezesa Urz´du Ochrony Konkurencji i Konsumentów, a tak˝e od apelacji, skargi kasacyjnej iskargi ostwierdzenie niezgodnoÊci z prawem prawomocnego orzeczenia w takiej sprawie.
+1. Opłatę stałą w kwocie 1 000 złotych pobiera się od odwołania od decyzji Prezesa Urzędu Ochrony Konkurencji i Konsumentów, a także od apelacji, skargi kasacyjnej iskargi ostwierdzenie niezgodności z prawem prawomocnego orzeczenia w takiej sprawie.
 
-2. Op∏at´ sta∏à wkwocie 500 z∏otych pobiera si´ od za˝alenia na postanowienie Prezesa Urz´du Ochrony Konkurencji i Konsumentów.
+2. Opłatę stałą wkwocie 500 złotych pobiera się od zażalenia na postanowienie Prezesa Urzędu Ochrony Konkurencji i Konsumentów.
 
-3. Op∏at´ sta∏à wkwocie 100 z∏otych pobiera si´ od odwo∏ania od decyzji Prezesa Urz´du Regulacji Energetyki, Prezesa Urz´du Regulacji Telekomunikacji i Poczty, Prezesa Urz´du Transportu Kolejowego, atak˝e od apelacji, skargi kasacyjnej iskargi ostwierdzenie niezgodnoÊci z prawem prawomocnego orzeczenia w takiej sprawie.
+3. Opłatę stałą wkwocie 100 złotych pobiera się od odwołania od decyzji Prezesa Urzędu Regulacji Energetyki, Prezesa Urzędu Regulacji Telekomunikacji i Poczty, Prezesa Urzędu Transportu Kolejowego, atakże od apelacji, skargi kasacyjnej iskargi ostwierdzenie niezgodności z prawem prawomocnego orzeczenia w takiej sprawie.
 
-4. Op∏at´ sta∏à w kwocie 50 z∏otych pobiera si´ od za˝alenia na postanowienie Prezesa Urz´du Regulacji Energetyki, Prezesa Urz´du Regulacji Telekomunikacji i Poczty oraz Prezesa Urz´du Transportu Kolejowego.
+4. Opłatę stałą w kwocie 50 złotych pobiera się od zażalenia na postanowienie Prezesa Urzędu Regulacji Energetyki, Prezesa Urzędu Regulacji Telekomunikacji i Poczty oraz Prezesa Urzędu Transportu Kolejowego.
 
-**Art. 33.** Op∏at´ sta∏à wkwocie 3000 z∏otych pobiera si´ od odwo∏ania od decyzji Przewodniczàcego Krajowej Rady Radiofonii i Telewizji, a tak˝e od apelacji, z prawem prawomocnego orzeczenia w takiej sprawie.
+**Art. 33.** Opłatę stałą wkwocie 3000 złotych pobiera się od odwołania od decyzji Przewodniczącego Krajowej Rady Radiofonii i Telewizji, a także od apelacji, z prawem prawomocnego orzeczenia w takiej sprawie.
 
-**Art. 34.** Op∏at´ sta∏à wkwocie 3000 z∏otych pobiera si´ od skargi na orzeczenie zespo∏u arbitrów w sprawach zamówieƒ publicznych. Rozdzia∏ 3 Sprawy z zakresu prawa pracy i ubezpieczeƒ spo∏ecznych
+**Art. 34.** Opłatę stałą wkwocie 3000 złotych pobiera się od skargi na orzeczenie zespołu arbitrów w sprawach zamówień publicznych.
+
+#### Rozdział 3 Sprawy z zakresu prawa pracy i ubezpieczeń społecznych
 
 **Art. 35.**
 
-1. W sprawach z zakresu prawa pracy pobiera si´ op∏at´ podstawowà w kwocie 30 z∏otych wy∏àcznie od apelacji, za˝alenia, skargi kasacyjnej iskargi o stwierdzenie niezgodnoÊci z prawem prawomocnego orzeczenia. Jednak˝e w sprawach, w których wartoÊç przedmiotu sporu przewy˝sza kwot´ 50 000 z∏otych, pobiera si´ od wszystkich podlegajàcych op∏acie pism procesowych op∏at´ stosunkowà.
+1. W sprawach z zakresu prawa pracy pobiera się opłatę podstawową w kwocie 30 złotych wyłącznie od apelacji, zażalenia, skargi kasacyjnej iskargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia. Jednakże w sprawach, w których wartość przedmiotu sporu przewyższa kwotę 50 000 złotych, pobiera się od wszystkich podlegających opłacie pism procesowych opłatę stosunkową.
 
-2. Pracownik i pracodawca uiszczajà op∏at´ podstawowà od pism podlegajàcych op∏acie wymienioskargi kasacyjnej i skargi o stwierdzenie niezgodnoÊci nych w ust. 1, tak˝e w sprawie o ustalenie istnienia stosunku pracy wytoczonej z powództwa inspektora pracy.
+2. Pracownik i pracodawca uiszczają opłatę podstawową od pism podlegających opłacie wymienioskargi kasacyjnej i skargi o stwierdzenie niezgodności nych w ust. 1, także w sprawie o ustalenie istnienia stosunku pracy wytoczonej z powództwa inspektora pracy.
 
-**Art. 36.** W sprawach z zakresu ubezpieczeƒ spo∏ecznych i w sprawach odwo∏aƒ rozpoznawanych przez sàd pracy iubezpieczeƒ spo∏ecznych pobiera si´ op∏at´ podstawowà wkwocie 30 z∏otych wy∏àcznie od apelacji, za˝alenia, skargi kasacyjnej i skargi o stwierdzenie niezgodnoÊci z prawem prawomocnego orzeczenia. DZIA¸ 4 WysokoÊç op∏at w post´powaniu nieprocesowym Rozdzia∏ 1 Sprawy z zakresu prawa rodzinnego i opiekuƒczego
+**Art. 36.** W sprawach z zakresu ubezpieczeń społecznych i w sprawach odwołań rozpoznawanych przez sąd pracy iubezpieczeń społecznych pobiera się opłatę podstawową wkwocie 30 złotych wyłącznie od apelacji, zażalenia, skargi kasacyjnej i skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia. DZIAĘ 4 Wysokość opłat w postępowaniu nieprocesowym
 
-**Art. 37.** Op∏at´ sta∏à w kwocie 100 z∏otych pobiera si´ od wniosku o:
+#### Rozdział 1 Sprawy z zakresu prawa rodzinnego i opiekuńczego
+
+**Art. 37.** Opłatę stałą w kwocie 100 złotych pobiera się od wniosku o:
 
 **Art. 38.**
 
-1. Op∏at´ sta∏à w kwocie 1 000 z∏otych pobiera si´ od wniosku opodzia∏ majàtku wspólnego po ustaniu ma∏˝eƒskiej wspólnoÊci majàtkowej.
+1. Opłatę stałą w kwocie 1 000 złotych pobiera się od wniosku opodział majątku wspólnego po ustaniu małżeńskiej wspólności majątkowej.
 
-2. Je˝eli wniosek zawiera zgodny projekt podzia∏u tego majàtku, pobiera si´ op∏at´ sta∏à w kwocie 300 z∏otych. Rozdzia∏ 2 Sprawy z zakresu prawa rzeczowego
+2. Jeżeli wniosek zawiera zgodny projekt podziału tego majątku, pobiera się opłatę stałą w kwocie 300 złotych.
+
+#### Rozdział 2 Sprawy z zakresu prawa rzeczowego
 
 **Art. 39.**
 
-1. Op∏at´ sta∏à wkwocie 200 z∏otych pobiera si´ od wniosku o:
+1. Opłatę stałą wkwocie 200 złotych pobiera się od wniosku o:
 
 - **1)** ustanowienie drogi koniecznej;
-- **2)** rozgraniczenie nieruchomoÊci;
-- **3)** stwierdzenie nabycia s∏u˝ebnoÊci gruntowej przez zasiedzenie.
+- **2)** rozgraniczenie nieruchomości;
+- **3)** stwierdzenie nabycia służebności gruntowej przez zasiedzenie.
 
-2. Op∏at´ w kwocie 100 z∏otych pobiera si´ od wniosku o:
+2. Opłatę w kwocie 100 złotych pobiera się od wniosku o:
 
 - **1)** ustalenie sposobu korzystania z rzeczy wspólnej;
-- **2)** ustanowienie zarzàdcy rzeczy wspólnej lub przedmiotu u˝ytkowania; wwyniku podzia∏u majàtku wspólnego po ustaniu wspólnoÊci majàtkowej mi´dzy ma∏˝onkami;
-- **2)** w∏asnoÊci nieruchomoÊci rolnej o powierzchni do 5 ha;
-- **3)** praw osobistych i roszczeƒ;
-- **4)** zmiany treÊci ograniczonych praw rzeczowych.
+- **2)** ustanowienie zarządcy rzeczy wspólnej lub przedmiotu użytkowania; wwyniku podziału majątku wspólnego po ustaniu wspólności majątkowej między małżonkami;
+- **2)** własności nieruchomości rolnej o powierzchni do 5 ha;
+- **3)** praw osobistych i roszczeń;
+- **4)** zmiany treści ograniczonych praw rzeczowych.
 
 **Art. 44.**
 
-1. Op∏at´ sta∏à w kwocie 60 z∏otych pobiera si´ od wniosku o:
+1. Opłatę stałą w kwocie 60 złotych pobiera się od wniosku o:
 
-- **1)** za∏o˝enie ksi´gi wieczystej;
-- **2)** po∏àczenie nieruchomoÊci w jednej ksi´dze wieczystej, która jest ju˝ prowadzona, niezale˝nie od liczby ∏àczonych nieruchomoÊci;
-- **3)** od∏àczenie nieruchomoÊci lub jej cz´Êci;
-- **4)** sprostowanie dzia∏u I—O;
-- **5)** wpis ostrze˝enia o niezgodnoÊci stanu prawnego ujawnionego w ksi´dze wieczystej z rzeczywistym stanem prawnym;
-- **6)** dokonanie innych wpisów, poza okreÊlonymi
-- **3)** rozstrzygni´cie co do dokonania czynnoÊci doty- w art. 42 i 43. czàcej rzeczy wspólnej.
+- **1)** założenie księgi wieczystej;
+- **2)** połączenie nieruchomości w jednej księdze wieczystej, która jest już prowadzona, niezależnie od liczby łączonych nieruchomości;
+- **3)** odłączenie nieruchomości lub jej części;
+- **4)** sprostowanie działu I—O;
+- **5)** wpis ostrzeżenia o niezgodności stanu prawnego ujawnionego w księdze wieczystej z rzeczywistym stanem prawnym;
+- **6)** dokonanie innych wpisów, poza określonymi
+- **3)** rozstrzygnięcie co do dokonania czynności doty- w art. 42 i 43. czącej rzeczy wspólnej.
 
-2. Je˝eli za∏o˝enie ksi´gi wieczystej nast´puje
+2. Jeżeli założenie księgi wieczystej następuje
 
-**Art. 40.** Op∏at´ sta∏à wkwocie 2000 z∏otych pobie- w zwiàzku z od∏àczeniem nieruchomoÊci lub jej cz´Êci ra si´ od wniosku o stwierdzenie nabycia w∏asnoÊci z istniejàcej ksi´gi wieczystej, pobiera si´ tylko jednà nieruchomoÊci przez zasiedzenie. op∏at´ sta∏à okreÊlonà w ust. 1.
+**Art. 40.** Opłatę stałą wkwocie 2000 złotych pobie- w związku z odłączeniem nieruchomości lub jej części ra się od wniosku o stwierdzenie nabycia własności z istniejącej księgi wieczystej, pobiera się tylko jedną nieruchomości przez zasiedzenie. opłatę stałą określoną w ust. 1.
 
 **Art. 41.**
 
-1. Op∏at´ sta∏à w kwocie 1 000 z∏otych po- Art. 45. 1. Op∏at´ sta∏à okreÊlonà w art. 44 ust. 1 biera si´ od wniosku o zniesienie wspó∏w∏asnoÊci. pkt 1—3 pobiera si´ niezale˝nie od op∏aty za dokonanie wpisu w∏asnoÊci, u˝ytkowania wieczystego lub
+1. Opłatę stałą w kwocie 1 000 złotych po- Art. 45. 1. Opłatę stałą określoną w art. 44 ust. 1 biera się od wniosku o zniesienie współwłasności. pkt 1—3 pobiera się niezależnie od opłaty za dokonanie wpisu własności, użytkowania wieczystego lub
 
-2. Je˝eli wniosek zawiera zgodny projekt zniesie- spó∏dzielczego w∏asnoÊciowego prawa do lokalu. nia wspó∏w∏asnoÊci, pobiera si´ op∏at´ sta∏à wkwocie 300 z∏otych. 2. Op∏at´ sta∏à okreÊlonà w art. 42 i 43 pobiera si´ odr´bnie od wniosku o wpis ka˝dego prawa, choçby Rozdzia∏ 3 wpis dwu lub wi´cej praw mia∏ byç dokonany na tej samej podstawie prawnej. Sprawy z zakresu prawa o ksi´gach wieczystych
+2. Jeżeli wniosek zawiera zgodny projekt zniesie- spółdzielczego własnościowego prawa do lokalu. nia współwłasności, pobiera się opłatę stałą wkwocie 300 złotych. 2. Opłatę stałą określoną w art. 42 i 43 pobiera się odrębnie od wniosku o wpis każdego prawa, choćby
 
-3. Od wniosku o wpis hipoteki ∏àcznej lub s∏u˝ebArt. 42.1. Op∏at´ sta∏à wkwocie 200 z∏otych pobie- noÊci pobiera si´ jednà op∏at´ sta∏à, choçby wniosek ra si´ od wniosku owpis wksi´dze wieczystej w∏asno- ten obejmowa∏ wi´cej ni˝ jednà ksi´g´ wieczystà. Êci, u˝ytkowania wieczystego lub ograniczonego prawa rzeczowego, chyba ˝e przepis szczególny stanowi inaczej.
+#### Rozdział 3 wpis dwu lub więcej praw miał być dokonany na tej samej podstawie prawnej.
 
-2. Je˝eli wniosek dotyczy wpisu udzia∏u w prawie, pobiera si´ cz´Êç op∏aty sta∏ej proporcjonalnà do wysokoÊci udzia∏u, nie mniej jednak ni˝ 100 z∏otych.
+**Art. 43.** Opłatę stałą w kwocie 150 złotych pobiera się od wniosku o wpis:
 
-3. Od wniosku o wpis w ksi´dze wieczystej w∏asnoÊci, u˝ytkowania wieczystego lub spó∏dzielczego w∏asnoÊciowego prawa do lokalu na podstawie dziedziczenia, zapisu lub dzia∏u spadku albo zniesienia wspó∏w∏asnoÊci pobiera si´ jednà op∏at´ sta∏à w wysokoÊci 150 z∏otych niezale˝nie od liczby udzia∏ów w tych prawach.
+**Art. 46.** Od wniosku o wykreślenie wpisu pobiera się połowę opłaty pobranej od wniosku o wpis.
 
-**Art. 43.** Op∏at´ sta∏à w kwocie 150 z∏otych pobiera si´ od wniosku o wpis:
+**Art. 47.** Wydatki związane zdrukiem księgi wieczystej i teczki akt tej księgi nie obciążają stron.
 
-**Art. 46.** Od wniosku o wykreÊlenie wpisu pobiera si´ po∏ow´ op∏aty pobranej od wniosku o wpis.
+**Art. 48.** Od wniosku o złożenie do zbioru dokumentów pobiera się opłatę stałą, przewidzianą dla wniosku o wpis do księgi wieczystej.
 
-**Art. 47.** Wydatki zwiàzane zdrukiem ksi´gi wieczystej i teczki akt tej ksi´gi nie obcià˝ajà stron.
-
-**Art. 48.** Od wniosku o z∏o˝enie do zbioru dokumentów pobiera si´ op∏at´ sta∏à, przewidzianà dla wniosku o wpis do ksi´gi wieczystej. Rozdzia∏ 4 Sprawy z zakresu prawa spadkowego
+#### Rozdział 4 Sprawy z zakresu prawa spadkowego
 
 **Art. 49.**
 
-1. Op∏at´ sta∏à w kwocie 50 z∏otych pobiera si´ od wniosku o:
+1. Opłatę stałą w kwocie 50 złotych pobiera się od wniosku o:
 
 - **1)** stwierdzenie nabycia spadku;
 - **2)** zabezpieczenie spadku;
-- **3)** sporzàdzenie spisu inwentarza;
-- **4)** odebranie oÊwiadczenia o przyj´ciu lub odrzuceniu spadku.
+- **3)** sporządzenie spisu inwentarza;
+- **4)** odebranie oświadczenia o przyjęciu lub odrzuceniu spadku.
 
-2. Je˝eli wnioski, o których mowa w ust. 1, sà umieszczone wjednym piÊmie lub we wniosku odzia∏ spadku, op∏at´ pobiera si´ od ka˝dego z nich odr´bnie.
+2. Jeżeli wnioski, o których mowa w ust. 1, są umieszczone wjednym piśmie lub we wniosku odział spadku, opłatę pobiera się od każdego z nich odrębnie.
 
-**Art. 50.** Op∏at´ sta∏à w kwocie 100 z∏otych pobiera si´ od:
+**Art. 50.** Opłatę stałą w kwocie 100 złotych pobiera się od:
 
 **Art. 51.**
 
-1. Op∏at´ sta∏à wkwocie 500 z∏otych pobiera si´ od wniosku o dzia∏ spadku, a je˝eli zawiera on zgodny projekt dzia∏u spadku, pobiera si´ op∏at´ sta∏à w kwocie 300 z∏otych.
+1. Opłatę stałą wkwocie 500 złotych pobiera się od wniosku o dział spadku, a jeżeli zawiera on zgodny projekt działu spadku, pobiera się opłatę stałą w kwocie 300 złotych.
 
-2. Op∏at´ sta∏à w kwocie 1 000 z∏otych pobiera si´ od wniosku o dzia∏ spadku po∏àczony ze zniesieniem wspó∏w∏asnoÊci, a je˝eli zawiera on zgodny projekt dzia∏u spadku izniesienia wspó∏w∏asnoÊci, pobiera si´ op∏at´ sta∏à w kwocie 600 z∏otych. Rozdzia∏ 5 Sprawy z zakresu dzia∏ania Krajowego Rejestru Sàdowego
+2. Opłatę stałą w kwocie 1 000 złotych pobiera się od wniosku o dział spadku połączony ze zniesieniem współwłasności, a jeżeli zawiera on zgodny projekt działu spadku izniesienia współwłasności, pobiera się opłatę stałą w kwocie 600 złotych.
 
-**Art. 52.** Op∏at´ sta∏à wkwocie 1000 z∏otych pobiera si´ od wniosku ozarejestrowanie podmiotu wrejestrze przedsi´biorców w Krajowym Rejestrze Sàdowym, chyba ˝e przepis szczególny stanowi inaczej.
+#### Rozdział 5 Sprawy z zakresu działania Krajowego Rejestru Sądowego
+
+**Art. 52.** Opłatę stałą wkwocie 1000 złotych pobiera się od wniosku ozarejestrowanie podmiotu wrejestrze przedsiębiorców w Krajowym Rejestrze Sądowym, chyba że przepis szczególny stanowi inaczej.
 
 **Art. 53.**
 
-1. Op∏at´ sta∏à wkwocie 500 z∏otych pobiera si´ od wniosku o zarejestrowanie w Krajowym Rejestrze Sàdowym wrejestrze stowarzyszeƒ, innych organizacji spo∏ecznych izawodowych, fundacji oraz publicznych zak∏adów opieki zdrowotnej.
+1. Opłatę stałą wkwocie 500 złotych pobiera się od wniosku o zarejestrowanie w Krajowym Rejestrze Sądowym wrejestrze stowarzyszeń, innych organizacji społecznych izawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej.
 
-2. Op∏at´ sta∏à w kwocie 1 000 z∏otych pobiera si´ od wniosku, októrym mowa wust. 1, je˝eli dotyczy on jednoczeÊnie wpisu do rejestru przedsi´biorców.
+2. Opłatę stałą w kwocie 1 000 złotych pobiera się od wniosku, októrym mowa wust. 1, jeżeli dotyczy on jednocześnie wpisu do rejestru przedsiębiorców.
 
-**Art. 54.** Op∏at´ sta∏à w kwocie 300 z∏otych pobiera si´ od wniosku o:
+**Art. 54.** Opłatę stałą w kwocie 300 złotych pobiera się od wniosku o:
 
-**Art. 55.** Op∏at´ sta∏à w kwocie 400 z∏otych pobiera si´ od wniosku o dokonanie zmiany wpisu dotyczàceArt. 56. Op∏at´ sta∏à w kwocie 150 z∏otych pobiera si´ od wniosku o:
+**Art. 55.** Opłatę stałą w kwocie 400 złotych pobiera się od wniosku o dokonanie zmiany wpisu dotycząceArt. 56. Opłatę stałą w kwocie 150 złotych pobiera się od wniosku o:
 
-**Art. 57.** W wypadku jednoczesnego wniesienia przez tego samego wnioskodawc´, na kilku formularzach, kilku wniosków o wpis lub o dokonanie zmian w Krajowym Rejestrze Sàdowym pobiera si´ tylko jednà op∏at´, ztym ˝e je˝eli przepis przewiduje dla danego rodzaju spraw op∏aty w ró˝nych wysokoÊciach pobiera si´ op∏at´ wy˝szà.
+**Art. 57.** W wypadku jednoczesnego wniesienia przez tego samego wnioskodawcę, na kilku formularzach, kilku wniosków o wpis lub o dokonanie zmian w Krajowym Rejestrze Sądowym pobiera się tylko jedną opłatę, ztym że jeżeli przepis przewiduje dla danego rodzaju spraw opłaty w różnych wysokościach pobiera się opłatę wyższą.
 
-**Art. 58.** Jednà op∏at´ sta∏à w kwocie 100 z∏otych pobiera si´ od skargi na orzeczenie referendarza sàdogo podmiotu wpisanego do rejestru przedsi´biorców. wego, chocia˝by dotyczy∏o kilku wpisów w rejestrze przedsi´biorców lub rejestrze stowarzyszeƒ, innych organizacji spo∏ecznych i zawodowych, fundacji oraz publicznych zak∏adów opieki zdrowotnej.
+**Art. 58.** Jedną opłatę stałą w kwocie 100 złotych pobiera się od skargi na orzeczenie referendarza sądogo podmiotu wpisanego do rejestru przedsiębiorców. wego, chociażby dotyczyło kilku wpisów w rejestrze przedsiębiorców lub rejestrze stowarzyszeń, innych organizacji społecznych i zawodowych, fundacji oraz publicznych zakładów opieki zdrowotnej.
 
-**Art. 59.** Op∏at´ sta∏à w kwocie 300 z∏otych pobiera si´ od innych wniosków ni˝ wymienione wart. 52—58, je˝eli nale˝à do w∏aÊciwoÊci sàdu dokonujàcego wpisów w Krajowym Rejestrze Sàdowym.
+**Art. 59.** Opłatę stałą w kwocie 300 złotych pobiera się od innych wniosków niż wymienione wart. 52—58, jeżeli należą do właściwości sądu dokonującego wpisów w Krajowym Rejestrze Sądowym.
 
-**Art. 60.** Op∏at´ sta∏à w kwocie 200 z∏otych pobiera si´ od wniosku o wpis zastawu rejestrowego do rejestru zastawów.
+**Art. 60.** Opłatę stałą w kwocie 200 złotych pobiera się od wniosku o wpis zastawu rejestrowego do rejestru zastawów.
 
-**Art. 61.** Op∏at´ sta∏à w kwocie 100 z∏otych pobiera si´ od wniosku ozmian´ wpisu wrejestrze zastawów.
+**Art. 61.** Opłatę stałą w kwocie 100 złotych pobiera się od wniosku ozmianę wpisu wrejestrze zastawów.
 
-**Art. 62.** Op∏at´ sta∏à w kwocie 50 z∏otych pobiera si´ od wniosku o wykreÊlenie zastawu rejestrowego z rejestru zastawów.
+**Art. 62.** Opłatę stałą w kwocie 50 złotych pobiera się od wniosku o wykreślenie zastawu rejestrowego z rejestru zastawów.
 
-**Art. 63.** Op∏at´ sta∏à w kwocie 40 z∏otych pobiera si´ od wniosku oprzyj´cie dokumentów, októrych sàd czyni wzmiank´ w rejestrze, oraz dokumentów zawierajàcych dane niepodlegajàce wed∏ug przepisów ustawy wpisowi do okreÊlonego dzia∏u Krajowego Rejestru Sàdowego.
+**Art. 63.** Opłatę stałą w kwocie 40 złotych pobiera się od wniosku oprzyjęcie dokumentów, októrych sąd czyni wzmiankę w rejestrze, oraz dokumentów zawierających dane niepodlegające według przepisów ustawy wpisowi do określonego działu Krajowego Rejestru Sądowego.
 
-**Art. 64.** Op∏at´ sta∏à w kwocie 40 z∏otych pobiera si´ od wniosku o uwierzytelnienie odpisu statutu w post´powaniu rejestrowym. Rozdzia∏ 6 Inne sprawy rozpoznawane w post´powaniu nieprocesowym
+**Art. 64.** Opłatę stałą w kwocie 40 złotych pobiera się od wniosku o uwierzytelnienie odpisu statutu w postępowaniu rejestrowym.
 
-**Art. 65.** Op∏at´ sta∏à w kwocie 300 z∏otych pobiera si´ od wniosku w sprawie mi´dzy organami przedsi´biorstwa paƒstwowego i mi´dzy przedsi´biorstwem paƒstwowym lub jego organami ajego organem za∏o˝ycielskim albo organem sprawujàcym nadzór.
+#### Rozdział 6 Inne sprawy rozpoznawane w postępowaniu nieprocesowym
 
-**Art. 66.** Op∏at´ sta∏à w kwocie 200 z∏otych pobiera si´ od wniosku o umorzenie utraconego dokumentu.
+**Art. 65.** Opłatę stałą w kwocie 300 złotych pobiera się od wniosku w sprawie między organami przedsiębiorstwa państwowego i między przedsiębiorstwem państwowym lub jego organami ajego organem założycielskim albo organem sprawującym nadzór.
 
-**Art. 67.** Op∏at´ sta∏à w kwocie 100 z∏otych pobiera si´ od wniosku o:
+**Art. 66.** Opłatę stałą w kwocie 200 złotych pobiera się od wniosku o umorzenie utraconego dokumentu.
 
-**Art. 68.** Op∏at´ sta∏à w kwocie 40 z∏otych pobiera si´ od wniosku o:
+**Art. 67.** Opłatę stałą w kwocie 100 złotych pobiera się od wniosku o:
 
-**Art. 69.** Op∏at´ sta∏à w kwocie 100 z∏otych pobiera sàd od wniosku o:
+**Art. 68.** Opłatę stałą w kwocie 40 złotych pobiera się od wniosku o:
 
-**Art. 70.** Op∏at´ sta∏à w kwocie 40 z∏otych pobiera sàd od wniosku o:
+**Art. 69.** Opłatę stałą w kwocie 100 złotych pobiera sąd od wniosku o:
 
-**Art. 71.** Op∏at´ sta∏à w kwocie 50 z∏otych pobiera sàd od wniosku o:
+**Art. 70.** Opłatę stałą w kwocie 40 złotych pobiera sąd od wniosku o:
 
-**Art. 72.** Op∏at´ sta∏à w kwocie 100 z∏otych pobiera si´ od:
+**Art. 71.** Opłatę stałą w kwocie 50 złotych pobiera sąd od wniosku o:
 
-**Art. 73.** Op∏at´ sta∏à wkwocie 1 000 z∏otych pobiera si´ od wniosku o:
+**Art. 72.** Opłatę stałą w kwocie 100 złotych pobiera się od:
 
-**Art. 74.** Op∏at´ sta∏à wkwocie 1000 z∏otych pobiera si´ od:
+**Art. 73.** Opłatę stałą wkwocie 1 000 złotych pobiera się od wniosku o:
 
-**Art. 75.** Op∏at´ sta∏à w kwocie 200 z∏otych pobiera si´ od:
+**Art. 74.** Opłatę stałą wkwocie 1000 złotych pobiera się od:
 
-**Art. 76.** Op∏at´ sta∏à w kwocie 100 z∏otych pobiera si´ od:
+**Art. 75.** Opłatę stałą w kwocie 200 złotych pobiera się od:
+
+**Art. 76.** Opłatę stałą w kwocie 100 złotych pobiera się od:
 
 **Art. 77.**
 
-1. Op∏at´ od wniosku o wydanie na podstawie akt:
+1. Opłatę od wniosku o wydanie na podstawie akt:
 
-- **1)** poÊwiadczonego odpisu, wypisu lub wyciàgu,
-- **2)** odpisu orzeczenia ze stwierdzeniem prawomocnoÊci,
-- **3)** odpisu orzeczenia ze stwierdzeniem wykonalnoÊci,
-- **4)** zaÊwiadczenia pobiera si´ w kwocie 6 z∏otych za ka˝dà rozpocz´tà stronic´ wydanego dokumentu.
+- **1)** poświadczonego odpisu, wypisu lub wyciągu,
+- **2)** odpisu orzeczenia ze stwierdzeniem prawomocności,
+- **3)** odpisu orzeczenia ze stwierdzeniem wykonalności,
+- **4)** zaświadczenia pobiera się w kwocie 6 złotych za każdą rozpoczętą stronicę wydanego dokumentu.
 
-2. Je˝eli dokument, októrym mowa wust. 1pkt 1, jest sporzàdzony wj´zyku obcym albo zawiera tabele, pobiera si´ op∏at´ w podwójnej wysokoÊci.
+2. Jeżeli dokument, októrym mowa wust. 1pkt 1, jest sporządzony wjęzyku obcym albo zawiera tabele, pobiera się opłatę w podwójnej wysokości.
 
-3. Op∏at´, o której mowa w ust. 1, pobiera si´ od wniosku o odpis ksi´gi wieczystej, o ile przepis szczególny nie stanowi inaczej.
+3. Opłatę, o której mowa w ust. 1, pobiera się od wniosku o odpis księgi wieczystej, o ile przepis szczególny nie stanowi inaczej.
 
-**Art. 78.** Op∏at´ od wniosku o wydanie kopii dokumentu, znajdujàcego si´ waktach sprawy, pobiera si´ wkwocie 1z∏otego za ka˝dà rozpocz´tà stronic´ wydanego dokumentu. DZIA¸ 9 Zwrot op∏aty
+**Art. 78.** Opłatę od wniosku o wydanie kopii dokumentu, znajdującego się waktach sprawy, pobiera się wkwocie 1złotego za każdą rozpoczętą stronicę wydanego dokumentu. DZIAĘ 9 Zwrot opłaty
 
 **Art. 79.**
 
-1. Sàd z urz´du zwraca stronie:
+1. Sąd z urzędu zwraca stronie:
 
-- **1)** ca∏à uiszczonà op∏at´ od:
-    - **a)** pisma zwróconego wskutek braków formalb) pisma odrzuconego lub cofni´tego, je˝eli odrzucenie lub cofni´cie nastàpi∏o przed wys∏aniem odpisu pisma innym stronom, a w braku takich stron przed wys∏aniem zawiadomienia o terminie posiedzenia,
-    - **c)** za˝alenia na postanowienie wprzedmiocie ukarania grzywnà albo aresztem, zamiany grzywny na areszt albo w przedmiocie przymusowego sprowadzenia, je˝eli za˝alenie zosta∏o uwzgl´dnione w ca∏oÊci,
-    - **d)** za˝alenia na postanowienie oprzyznaniu wynagrodzenia bieg∏emu lub t∏umaczowi, je˝eli za˝alenie zosta∏o uwzgl´dnione w ca∏oÊci,
-    - **e)** apelacji, za˝alenia, skargi kasacyjnej w razie uwzgl´dnienia Êrodka zaskar˝enia z powodu oczywistego naruszenia prawa i stwierdzenia tego naruszenia przez sàd odwo∏awczy lub Sàd Najwy˝szy,
-    - **f)** skargi na orzeczenie referendarza sàdowego w razie jej uwzgl´dnienia z powodu oczywistego naruszenia prawa i stwierdzenie tego naruszenia przez sàd,
-    - **g)** skargi o stwierdzenie niezgodnoÊci z prawem prawomocnego orzeczenia w razie jej uwzgl´dnienia;
+- **1)** całą uiszczoną opłatę od:
+    - **a)** pisma zwróconego wskutek braków formalb) pisma odrzuconego lub cofniętego, jeżeli odrzucenie lub cofnięcie nastąpiło przed wysłaniem odpisu pisma innym stronom, a w braku takich stron przed wysłaniem zawiadomienia o terminie posiedzenia,
+    - **c)** zażalenia na postanowienie wprzedmiocie ukarania grzywną albo aresztem, zamiany grzywny na areszt albo w przedmiocie przymusowego sprowadzenia, jeżeli zażalenie zostało uwzględnione w całości,
+    - **d)** zażalenia na postanowienie oprzyznaniu wynagrodzenia biegłemu lub tłumaczowi, jeżeli zażalenie zostało uwzględnione w całości,
+    - **e)** apelacji, zażalenia, skargi kasacyjnej w razie uwzględnienia środka zaskarżenia z powodu oczywistego naruszenia prawa i stwierdzenia tego naruszenia przez sąd odwoławczy lub Sąd Najwyższy,
+    - **f)** skargi na orzeczenie referendarza sądowego w razie jej uwzględnienia z powodu oczywistego naruszenia prawa i stwierdzenie tego naruszenia przez sąd,
+    - **g)** skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia w razie jej uwzględnienia;
 
-- **2)** trzy czwarte uiszczonej op∏aty od:
-    - **a)** pisma wszczynajàcego post´powanie w pierwszej instancji, je˝eli w toku post´powania sàdowego zawarto ugod´ przed mediatorem,
-    - **b)** skargi kasacyjnej lub skargi o stwierdzenie niezgodnoÊci z prawem prawomocnego orzeczenia nieprzyj´tej do rozpoznania przez Sàd Najwy˝szy;
+- **2)** trzy czwarte uiszczonej opłaty od:
+    - **a)** pisma wszczynającego postępowanie w pierwszej instancji, jeżeli w toku postępowania sądowego zawarto ugodę przed mediatorem,
+    - **b)** skargi kasacyjnej lub skargi o stwierdzenie niezgodności z prawem prawomocnego orzeczenia nieprzyjętej do rozpoznania przez Sąd Najwyższy;
 
-- **3)** po∏ow´ uiszczonej op∏aty od:
-    - **a)** pisma cofni´tego przed rozpocz´ciem posiedzenia, na które sprawa zosta∏a skierowana,
-    - **b)** pozwu o rozwód lub separacj´ w razie orzeczenia rozwodu lub separacji na zgodny wniosek stron bez orzekania o winie po uprawomocnieniu si´ wyroku, zzastrze˝eniem art. 26 ust. 2,
-    - **c)** pisma wszczynajàcego post´powanie w instancji, w której sprawa zakoƒczy∏a si´ zawarciem ugody sàdowej.
+- **3)** połowę uiszczonej opłaty od:
+    - **a)** pisma cofniętego przed rozpoczęciem posiedzenia, na które sprawa została skierowana,
+    - **b)** pozwu o rozwód lub separację w razie orzeczenia rozwodu lub separacji na zgodny wniosek stron bez orzekania o winie po uprawomocnieniu się wyroku, zzastrzeżeniem art. 26 ust. 2,
+    - **c)** pisma wszczynającego postępowanie w instancji, w której sprawa zakończyła się zawarciem ugody sądowej.
 
-2. Poza wypadkami przewidzianymi w ust. 1 sàd z urz´du zwraca stronie ca∏à uiszczonà op∏at´ od pozwu orozwód lub separacj´ albo wniosku oseparacj´ w razie cofni´cia pozwu lub wniosku na skutek pojednania si´ stron wpierwszej instancji. Wrazie pojednania si´ stron przed zakoƒczeniem post´powania apelacyjnego, zwraca si´ po∏ow´ uiszczonej op∏aty od apelacji.
+2. Poza wypadkami przewidzianymi w ust. 1 sąd z urzędu zwraca stronie całą uiszczoną opłatę od pozwu orozwód lub separację albo wniosku oseparację w razie cofnięcia pozwu lub wniosku na skutek pojednania się stron wpierwszej instancji. Wrazie pojednania się stron przed zakończeniem postępowania apelacyjnego, zwraca się połowę uiszczonej opłaty od apelacji.
 
 **Art. 80.**
 
-1. Sàd zurz´du zwraca stronie ró˝nic´ mi´dzy op∏atà pobranà od strony a op∏atà nale˝nà.
+1. Sąd zurzędu zwraca stronie różnicę między opłatą pobraną od strony a opłatą należną.
 
-2. Op∏at´ zwraca sàd, który jà pobra∏, awprzypadku gdy op∏at´ pobiera∏ notariusz sàd, który rozponych, znawa∏ wniosek.
+2. Opłatę zwraca sąd, który ją pobrał, awprzypadku gdy opłatę pobierał notariusz sąd, który rozponych, znawał wniosek.
 
-**Art. 81.** Roszczenie strony o zwrot op∏aty sàdowej przedawnia si´ z up∏ywem trzech lat, liczàc od dnia powstania tego roszczenia.
+**Art. 81.** Roszczenie strony o zwrot opłaty sądowej przedawnia się z upływem trzech lat, licząc od dnia powstania tego roszczenia.
 
-**Art. 82.** Zwrot op∏at, októrym mowa wniniejszym rozdziale, mo˝e równie˝ zarzàdziç przewodniczàcy lub referendarz sàdowy. Tytu∏ III Wydatki DZIA¸ 1 Przepisy ogólne
+**Art. 82.** Zwrot opłat, októrym mowa wniniejszym rozdziale, może również zarządzić przewodniczący lub referendarz sądowy. Tytuł III Wydatki DZIAĘ 1 Przepisy ogólne
 
 **Art. 83.**
 
-1. Je˝eli przepisy ustawy przewidujà obowiàzek dzia∏ania i dokonywania czynnoÊci po∏àczonej z wydatkami z urz´du, sàd zarzàdzi wykonanie tej czynnoÊci, akwot´ potrzebnà na ich pokrycie wyk∏ada tymczasowo Skarb Paƒstwa.
+1. Jeżeli przepisy ustawy przewidują obowiązek działania i dokonywania czynności połączonej z wydatkami z urzędu, sąd zarządzi wykonanie tej czynności, akwotę potrzebną na ich pokrycie wykłada tymczasowo Skarb Państwa.
 
-2. Worzeczeniu koƒczàcym post´powanie wsprale˝noÊci przys∏ugujàcych pracownikowi, zatrudnionemu w paƒstwowej lub samorzàdowej jednostce sfery bud˝etowej, z tytu∏u podró˝y s∏u˝bowej na obszarze kraju.
+2. Worzeczeniu kończącym postępowanie wsprależności przysługujących pracownikowi, zatrudnionemu w państwowej lub samorządowej jednostce sfery budżetowej, z tytułu podróży służbowej na obszarze kraju.
 
-2. Wed∏ug tych samych zasad Êwiadkowi przys∏uguje zwrot kosztów noclegu oraz utrzymania w miejscu przes∏uchania.
+2. Według tych samych zasad świadkowi przysługuje zwrot kosztów noclegu oraz utrzymania w miejscu przesłuchania.
 
 **Art. 87.**
 
-1. Prawo do ˝àdania nale˝noÊci przewidzianych w art. 85 i 86 s∏u˝y osobie wezwanej w charakterze Êwiadka, je˝eli si´ stawi∏a, choçby nie zosta∏a przes∏uchana.
+1. Prawo do żądania należności przewidzianych w art. 85 i 86 służy osobie wezwanej w charakterze świadka, jeżeli się stawiła, choćby nie została przesłuchana.
 
-2. Wwypadku gdy osoba uprawniona do otrzymania nale˝noÊci przewidzianych w art. 85 i 86 zostanie wezwana w charakterze Êwiadka w kilku sprawach na ten sam dzieƒ, przyznaje si´ jej te nale˝noÊci tylko raz.
+2. Wwypadku gdy osoba uprawniona do otrzymania należności przewidzianych w art. 85 i 86 zostanie wezwana w charakterze świadka w kilku sprawach na ten sam dzień, przyznaje się jej te należności tylko raz.
 
-3. Âwiadkowi, który zg∏osi∏ si´ bez wezwania sàdu, nale˝noÊci przewidziane wart. 85 i86 mogà byç przyznane tylko w wypadku, je˝eli zosta∏ przes∏uchany przez sàd. wie sàd orzeka o poniesionych tymczasowo przez Art. 88. Sàd przyznaje zwrot kosztów podró˝y Skarb Paƒstwa wydatkach, stosujàc odpowiednio i kosztów noclegu tak˝e osobie towarzyszàcej Êwiadprzepisy art. 113. kowi, je˝eli Êwiadek ze wzgl´du na stan zdrowia nie
+3. Âwiadkowi, który zgłosił się bez wezwania sądu, należności przewidziane wart. 85 i86 mogą być przyznane tylko w wypadku, jeżeli został przesłuchany przez sąd. wie sąd orzeka o poniesionych tymczasowo przez Art. 88. Sąd przyznaje zwrot kosztów podróży Skarb Państwa wydatkach, stosując odpowiednio i kosztów noclegu także osobie towarzyszącej świadprzepisy art. 113. kowi, jeżeli świadek ze względu na stan zdrowia nie
 
 **Art. 84.**
 
-1. Sàd zurz´du zwraca stronie wszelkie na- móg∏ przybyç do sàdu bez opieki osoby mu towarzyle˝noÊci z tytu∏u wydatków, stanowiàce ró˝nic´ mi´- szàcej. dzy kosztami pobranymi od strony a kosztami nale˝- Art. 89. 1. Bieg∏emu lub t∏umaczowi powo∏anemu nymi. przez sàd przys∏uguje zwrot kosztów podró˝y, innych
+1. Sąd zurzędu zwraca stronie wszelkie na- mógł przybyć do sądu bez opieki osoby mu towarzyleżności z tytułu wydatków, stanowiące różnicę mię- szącej. dzy kosztami pobranymi od strony a kosztami należ- Art. 89. 1. Biegłemu lub tłumaczowi powołanemu nymi. przez sąd przysługuje zwrot kosztów podróży, innych
 
-2. Przepisy art. 80—82 stosuje si´ odpowiednio do wydatków koniecznych zwiàzanych ze stawienniczwrotu zaliczki. twem wsàdzie oraz wynagrodzenie za wykonanà prac´.
+2. Przepisy art. 80—82 stosuje się odpowiednio do wydatków koniecznych związanych ze stawienniczwrotu zaliczki. twem wsądzie oraz wynagrodzenie za wykonaną pracę.
 
-3. Przepis art. 5 ust. 3 stosuje si´ odpowiednio. 2. Bieg∏emu lub t∏umaczowi wezwanemu do sàdu przys∏uguje prawo do zwrotu kosztów podró˝y zwiàDZIA¸ 2 zanych ze stawiennictwem w sàdzie, nawet je˝eli sàd nie skorzysta∏ z jego us∏ug. Nale˝noÊci Êwiadków, bieg∏ych, t∏umaczy i stron w post´powaniu cywilnym 3. Bieg∏emu lub t∏umaczowi przys∏uguje zwrot kosztów podró˝y zmiejsca jego zamieszkania do miejArt. 85. 1. Âwiadkowi przys∏uguje zwrot kosztów sca wykonywania czynnoÊci sàdowej na wezwanie sàpodró˝y, kosztów noclegu i utraconych zarobków lub du oraz zwrot kosztów noclegu wed∏ug zasad okreÊlodochodów, zwiàzanych ze stawiennictwem w sàdzie. nych w art. 86.
+3. Przepis art. 5 ust. 3 stosuje się odpowiednio. 2. Biegłemu lub tłumaczowi wezwanemu do sądu przysługuje prawo do zwrotu kosztów podróży zwiąDZIAĘ 2 zanych ze stawiennictwem w sądzie, nawet jeżeli sąd nie skorzystał z jego usług. Należności świadków, biegłych, tłumaczy i stron w postępowaniu cywilnym 3. Biegłemu lub tłumaczowi przysługuje zwrot kosztów podróży zmiejsca jego zamieszkania do miejArt. 85. 1. Âwiadkowi przysługuje zwrot kosztów sca wykonywania czynności sądowej na wezwanie sąpodróży, kosztów noclegu i utraconych zarobków lub du oraz zwrot kosztów noclegu według zasad określodochodów, związanych ze stawiennictwem w sądzie. nych w art. 86.
 
-2. Wynagrodzenie za utracony zarobek lub dochód 4. W razie wezwania bieg∏ego lub t∏umacza do sàza ka˝dy dzieƒ udzia∏u w czynnoÊciach sàdowych na du wkilku sprawach na ten sam dzieƒ nale˝noÊci przewezwanie sàdu przyznaje si´ Êwiadkowi w wysokoÊci widziane w ust. 3 przyznaje si´ tylko raz. jego przeci´tnego dziennego zarobku lub dochodu. W przypadku Êwiadka pozostajàcego w stosunku pracy przeci´tny dzienny utracony zarobek oblicza si´ we- Art. 90.WysokoÊç wynagrodzenia bieg∏ego za wyd∏ug zasad obowiàzujàcych przy ustalaniu nale˝nego konanà prac´ okreÊla si´, uwzgl´dniajàc wymagane pracownikowi ekwiwalentu pieni´˝nego za urlop. kwalifikacje, potrzebny do wydania opinii czas inak∏ad Wka˝dym jednak przypadku górnà granic´ nale˝noÊci pracy, a wysokoÊç wydatków niezb´dnych do wykoza utracony dzienny zarobek lub dochód stanowi rów- nania czynnoÊci na podstawie z∏o˝onego rachunku. nowartoÊç 4,6% kwoty bazowej dla osób zajmujàcych kierownicze stanowiska paƒstwowe, której wysokoÊç, Art. 91. W wypadku gdy obowiàzujàce przepisy ustalonà wed∏ug odr´bnych zasad, okreÊla ustawa bu- przewidujà przyznanie stronie nale˝noÊci w zwiàzku d˝etowa. z jej udzia∏em w post´powaniu sàdowym, nale˝noÊci te przyznaje si´ stronie wwysokoÊci przewidzianej dla
+2. Wynagrodzenie za utracony zarobek lub dochód 4. W razie wezwania biegłego lub tłumacza do sąza każdy dzień udziału w czynnościach sądowych na du wkilku sprawach na ten sam dzień należności przewezwanie sądu przyznaje się świadkowi w wysokości widziane w ust. 3 przyznaje się tylko raz. jego przeciętnego dziennego zarobku lub dochodu. W przypadku świadka pozostającego w stosunku pracy przeciętny dzienny utracony zarobek oblicza się we- Art. 90.Wysokość wynagrodzenia biegłego za wydług zasad obowiązujących przy ustalaniu należnego konaną pracę określa się, uwzględniając wymagane pracownikowi ekwiwalentu pieniężnego za urlop. kwalifikacje, potrzebny do wydania opinii czas inakład Wkażdym jednak przypadku górną granicę należności pracy, a wysokość wydatków niezbędnych do wykoza utracony dzienny zarobek lub dochód stanowi rów- nania czynności na podstawie złożonego rachunku. nowartość 4,6% kwoty bazowej dla osób zajmujących kierownicze stanowiska państwowe, której wysokość, Art. 91. W wypadku gdy obowiązujące przepisy ustaloną według odrębnych zasad, określa ustawa bu- przewidują przyznanie stronie należności w związku dżetowa. z jej udziałem w postępowaniu sądowym, należności te przyznaje się stronie wwysokości przewidzianej dla
 
 **Art. 86.**
 
-1. Âwiadkowi przys∏uguje zwrot kosztów Êwiadków. podró˝y z miejsca jego zamieszkania do miejsca wykonywania czynnoÊci sàdowej na wezwanie sàdu wed∏ug zasad obowiàzujàcych przy obliczaniu naArt. 92. 1. Zwrot wydatków, utraconego zarobku lub dochodu, wynagrodzenia i kosztów podró˝y przyznaje si´ na wniosek Êwiadka, bieg∏ego lub t∏umacza z∏o˝ony na piÊmie lub ustnie do protoko∏u rozprawy.
+1. Âwiadkowi przysługuje zwrot kosztów świadków. podróży z miejsca jego zamieszkania do miejsca wykonywania czynności sądowej na wezwanie sądu według zasad obowiązujących przy obliczaniu naArt. 92. 1. Zwrot wydatków, utraconego zarobku lub dochodu, wynagrodzenia i kosztów podróży przyznaje się na wniosek świadka, biegłego lub tłumacza złożony na piśmie lub ustnie do protokołu rozprawy.
 
-2. Wniosek oprzyznanie nale˝noÊci, ojakich mowa w ust. 1, sk∏ada si´ niezw∏ocznie, nie póêniej jednak ni˝ wciàgu trzech dni po wykonaniu czynnoÊci, aje˝eli czynnoÊci by∏y podejmowane na rozprawie najpóêniej w ciàgu trzech dni po rozprawie. Osoby, które nie zg∏osi∏y ˝àdania w tym terminie, tracà prawo do przyznania im tych nale˝noÊci.
+2. Wniosek oprzyznanie należności, ojakich mowa w ust. 1, składa się niezwłocznie, nie póêniej jednak niż wciągu trzech dni po wykonaniu czynności, ajeżeli czynności były podejmowane na rozprawie najpóêniej w ciągu trzech dni po rozprawie. Osoby, które nie zgłosiły żądania w tym terminie, tracą prawo do przyznania im tych należności.
 
-3. Roszczenie o zwrot nale˝noÊci, o których mowa w ust. 1, przedawnia si´ z up∏ywem lat trzech, liczàc od dnia powstania tego roszczenia.
+3. Roszczenie o zwrot należności, o których mowa w ust. 1, przedawnia się z upływem lat trzech, licząc od dnia powstania tego roszczenia.
 
-4. Âwiadek, bieg∏y lub t∏umacz powinni byç pouczeni oprawie isposobie zg∏oszenia wniosku ozwrot nale˝noÊci oraz o skutkach niezachowania terminu wskazanego w ust. 2.
+4. Âwiadek, biegły lub tłumacz powinni być pouczeni oprawie isposobie zgłoszenia wniosku ozwrot należności oraz o skutkach niezachowania terminu wskazanego w ust. 2.
 
 **Art. 93.**
 
-1. Nale˝noÊci Êwiadków, bieg∏ych, t∏umaczy istron przyznaje iustala sàd lub referendarz sàdowy.
+1. Należności świadków, biegłych, tłumaczy istron przyznaje iustala sąd lub referendarz sądowy.
 
-2. Przyznanà nale˝noÊç nale˝y wyp∏aciç niezw∏ocznie. W wypadku niemo˝noÊci niezw∏ocznej wyp∏aty nale˝noÊç przekazuje si´ przekazem pocztowym lub przelewem bankowym bez obcià˝ania Êwiadka, bieg∏ego lub t∏umacza op∏atà pocztowà lub kosztami przelewu. Tytu∏ IV
+2. Przyznaną należność należy wypłacić niezwłocznie. W wypadku niemożności niezwłocznej wypłaty należność przekazuje się przekazem pocztowym lub przelewem bankowym bez obciążania świadka, biegłego lub tłumacza opłatą pocztową lub kosztami przelewu. Tytuł IV
 
-3. Nie pobiera si´ op∏at od wniosku, za˝alenia i apelacji nieletniego w post´powaniu w sprawach nieletnich.
+3. Nie pobiera się opłat od wniosku, zażalenia i apelacji nieletniego w postępowaniu w sprawach nieletnich.
 
 **Art. 96.**
 
-1. Nie majà obowiàzku uiszczenia kosztów sàdowych:
+1. Nie mają obowiązku uiszczenia kosztów sądowych:
 
-- **1)** strona dochodzàca ustalenia ojcostwa lub macierzyƒstwa oraz roszczeƒ z tym zwiàzanych;
-- **2)** strona dochodzàca roszczeƒ alimentacyjnych oraz strona pozwana w sprawie o obni˝enie alimentów;
-- **3)** strona wnoszàca o uznanie postanowieƒ umownych za niedozwolone;
-- **4)** pracownik wnoszàcy powództwo lub strona wnoszàca odwo∏anie do sàdu pracy iubezpieczeƒ spo∏ecznych, z zastrze˝eniem art. 35 i 36;
-- **5)** kurator wyznaczony przez sàd orzekajàcy lub sàd opiekuƒczy dla danej sprawy; Zwolnienie od kosztów sàdowych
+- **1)** strona dochodząca ustalenia ojcostwa lub macierzyństwa oraz roszczeń z tym związanych;
+- **2)** strona dochodząca roszczeń alimentacyjnych oraz strona pozwana w sprawie o obniżenie alimentów;
+- **3)** strona wnosząca o uznanie postanowień umownych za niedozwolone;
+- **4)** pracownik wnoszący powództwo lub strona wnosząca odwołanie do sądu pracy iubezpieczeń społecznych, z zastrzeżeniem art. 35 i 36;
+- **5)** kurator wyznaczony przez sąd orzekający lub sąd opiekuńczy dla danej sprawy; Zwolnienie od kosztów sądowych
 
-**Art. 94.** Skarb Paƒstwa nie ma obowiàzku uiszczania op∏at.
+**Art. 94.** Skarb Państwa nie ma obowiązku uiszczania opłat.
 
 **Art. 95.**
 
-1. Nie pobiera si´ op∏at od wniosku:
+1. Nie pobiera się opłat od wniosku:
 
-- **1)** o zabezpieczenie roszczenia, zg∏oszonego w piÊmie rozpoczynajàcym post´powanie;
-- **2)** o przyj´cie oÊwiadczenia o uznaniu dziecka, o nadanie dziecku nazwiska, o przysposobienie dziecka, o odebranie osoby podlegajàcej w∏adzy rodzicielskiej lub pozostajàcej pod opiekà;
-- **3)** o przes∏uchanie Êwiadka testamentu ustnego, ootwarcie iog∏oszenie testamentu oraz ozwolnienie z obowiàzków wykonawcy testamentu;
-- **4)** b´dàcego podstawà wszcz´cia przez sàd post´powania z urz´du, a tak˝e od pism sk∏adanych sàdowi opiekuƒczemu w wykonaniu obowiàzku wynikajàcego z ustawy albo na∏o˝onego przez ten sàd;
+- **1)** o zabezpieczenie roszczenia, zgłoszonego w piśmie rozpoczynającym postępowanie;
+- **2)** o przyjęcie oświadczenia o uznaniu dziecka, o nadanie dziecku nazwiska, o przysposobienie dziecka, o odebranie osoby podlegającej władzy rodzicielskiej lub pozostającej pod opieką;
+- **3)** o przesłuchanie świadka testamentu ustnego, ootwarcie iogłoszenie testamentu oraz ozwolnienie z obowiązków wykonawcy testamentu;
+- **4)** będącego podstawą wszczęcia przez sąd postępowania z urzędu, a także od pism składanych sądowi opiekuńczemu w wykonaniu obowiązku wynikającego z ustawy albo nałożonego przez ten sąd;
 - **5)** o odtworzenie zaginionych lub zniszczonych akt.
 
-2. Skarga na orzeczenie referendarza sàdowego o odmowie zwolnienia od kosztów sàdowych, za˝alenie na postanowienie sàdu odmawiajàce zwolnienia lub cofajàce zwolnienie od kosztów sàdowych oraz za˝alenie dotyczàce wy∏àcznie wysokoÊci op∏aty albo wysokoÊci wydatków sà wolne od op∏at sàdowych.
+2. Skarga na orzeczenie referendarza sądowego o odmowie zwolnienia od kosztów sądowych, zażalenie na postanowienie sądu odmawiające zwolnienia lub cofające zwolnienie od kosztów sądowych oraz zażalenie dotyczące wyłącznie wysokości opłaty albo wysokości wydatków są wolne od opłat sądowych.
 
 - **6)** prokurator, Rzecznik Praw Obywatelskich, Rzecznik Praw Dziecka;
-- **7)** powiatowy (miejski) rzecznik konsumentów w sprawach dotyczàcych ochrony zbiorowych interesów konsumentów;
-- **8)** inspektor pracy oraz zwiàzki zawodowe w sprawach z zakresu prawa pracy;
-- **9)** strona w sprawach zwiàzanych z ochronà zdrowia psychicznego;
-- **10)** strona, która zosta∏a zwolniona od kosztów sàdowych przez sàd w zakresie przyznanego jej zwolnienia;
-- **11)** powiatowy (miejski) rzecznik konsumentów wsprawach dotyczàcych ochrony indywidualnych interesów konsumenta w zakresie przyznanego konsumentowi przez sàd zwolnienia od kosztów sàdowych.
+- **7)** powiatowy (miejski) rzecznik konsumentów w sprawach dotyczących ochrony zbiorowych interesów konsumentów;
+- **8)** inspektor pracy oraz związki zawodowe w sprawach z zakresu prawa pracy;
+- **9)** strona w sprawach związanych z ochroną zdrowia psychicznego;
+- **10)** strona, która została zwolniona od kosztów sądowych przez sąd w zakresie przyznanego jej zwolnienia;
+- **11)** powiatowy (miejski) rzecznik konsumentów wsprawach dotyczących ochrony indywidualnych interesów konsumenta w zakresie przyznanego konsumentowi przez sąd zwolnienia od kosztów sądowych.
 
-2. Za kuratora wydatki ponosi tymczasowo strona, dla której kurator zosta∏ ustanowiony, a gdyby to nie by∏o mo˝liwe strona, która swym wnioskiem lub swà czynnoÊcià spowodowa∏a ustanowienie kuratora, chyba ˝e przepis szczególny stanowi inaczej.
+2. Za kuratora wydatki ponosi tymczasowo strona, dla której kurator został ustanowiony, a gdyby to nie było możliwe strona, która swym wnioskiem lub swą czynnością spowodowała ustanowienie kuratora, chyba że przepis szczególny stanowi inaczej.
 
-3. W pozosta∏ych wypadkach, o których mowa w ust. 1, za stron´ zwolnionà od kosztów sàdowych wydatki ponosi tymczasowo Skarb Paƒstwa.
+3. W pozostałych wypadkach, o których mowa w ust. 1, za stronę zwolnioną od kosztów sądowych wydatki ponosi tymczasowo Skarb Państwa.
 
-4. W wypadku gdy powództwo o ustalenie ojcostwa oka˝e si´ oczywiÊcie bezzasadne, sàd worzeczeniu koƒczàcym post´powanie w sprawie mo˝e obcià˝yç powoda nieuiszczonymi kosztami sàdowymi, bioràc pod uwag´ wszystkie okolicznoÊci sprawy.
+4. W wypadku gdy powództwo o ustalenie ojcostwa okaże się oczywiście bezzasadne, sąd worzeczeniu kończącym postępowanie w sprawie może obciążyć powoda nieuiszczonymi kosztami sądowymi, biorąc pod uwagę wszystkie okoliczności sprawy.
 
-**Art. 97.** Wtoku post´powania wsprawach zzakresu prawa pracy o roszczenia pracownika wydatki obcià˝ajàce pracownika ponosi tymczasowo Skarb Paƒstwa. Sàd pracy w orzeczeniu koƒczàcym post´powanie w instancji rozstrzyga o tych wydatkach, stosujàc odpowiednio przepisy art. 113, z tym ˝e obcià˝enie pracownika tymi wydatkami mo˝e nastàpiç w wypadkach szczególnie uzasadnionych.
+**Art. 97.** Wtoku postępowania wsprawach zzakresu prawa pracy o roszczenia pracownika wydatki obciążające pracownika ponosi tymczasowo Skarb Państwa. Sąd pracy w orzeczeniu kończącym postępowanie w instancji rozstrzyga o tych wydatkach, stosując odpowiednio przepisy art. 113, z tym że obciążenie pracownika tymi wydatkami może nastąpić w wypadkach szczególnie uzasadnionych.
 
-**Art. 98.** Wtoku post´powania wsprawach zzakresu ubezpieczeƒ spo∏ecznych wydatki ponosi Skarb Paƒstwa.
+**Art. 98.** Wtoku postępowania wsprawach zzakresu ubezpieczeń społecznych wydatki ponosi Skarb Państwa.
 
-**Art. 99.** Nie pobiera si´ op∏aty sàdowej, a uiszczonà op∏at´ zwraca si´, je˝eli za˝alenie, wniesione na zarzàdzenie przewodniczàcego o zwrocie pisma albo na postanowienie sàdu o odrzuceniu Êrodka zaskar˝enia, sàd uzna za oczywiÊcie uzasadnione.
+**Art. 99.** Nie pobiera się opłaty sądowej, a uiszczoną opłatę zwraca się, jeżeli zażalenie, wniesione na zarządzenie przewodniczącego o zwrocie pisma albo na postanowienie sądu o odrzuceniu środka zaskarżenia, sąd uzna za oczywiście uzasadnione.
 
 **Art. 100.**
 
-1. Strona wca∏oÊci zwolniona od kosztów sàdowych z mocy ustawy nie uiszcza op∏at sàdowych i nie ponosi wydatków, które obcià˝ajà tymczasowo Skarb Paƒstwa.
+1. Strona wcałości zwolniona od kosztów sądowych z mocy ustawy nie uiszcza opłat sądowych i nie ponosi wydatków, które obciążają tymczasowo Skarb Państwa.
 
-2. Sàd mo˝e zwolniç stron´ od kosztów sàdowych w ca∏oÊci. Strona, której sàd przyzna∏ ca∏kowite zwolnienie od kosztów sàdowych, ma obowiàzek uiÊciç czenie, ˝e nie jest wstanie ich ponieÊç bez uszczerbku utrzymania koniecznego dla siebie i rodziny.
+2. Sąd może zwolnić stronę od kosztów sądowych w całości. Strona, której sąd przyznał całkowite zwolnienie od kosztów sądowych, ma obowiązek uiścić czenie, że nie jest wstanie ich ponieść bez uszczerbku utrzymania koniecznego dla siebie i rodziny.
 
-2. Do wniosku o zwolnienie od kosztów sàdowych powinno byç do∏àczone oÊwiadczenie obejmujàce szczegó∏owe dane o stanie rodzinnym, majàtku, dochodach i êród∏ach utrzymania osoby ubiegajàcej si´ o zwolnienie od kosztów. OÊwiadczenie sporzàdza si´ wed∏ug ustalonego wzoru. Je˝eli oÊwiadczenie nie zosta∏o z∏o˝one albo nie zawiera wszystkich wymaganych danych, stosuje si´ art. 130 ustawy z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. 43, poz. 296, z póên. zm. op∏at´ podstawowà, o której mowa w art. 14, od wszystkich pism podlegajàcych op∏acie, chyba ˝e przepis szczególny stanowi inaczej.
+2. Do wniosku o zwolnienie od kosztów sądowych powinno być dołączone oświadczenie obejmujące szczegółowe dane o stanie rodzinnym, majątku, dochodach i êródłach utrzymania osoby ubiegającej się o zwolnienie od kosztów. Oświadczenie sporządza się według ustalonego wzoru. Jeżeli oświadczenie nie zostało złożone albo nie zawiera wszystkich wymaganych danych, stosuje się art. 130 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, z póên. zm. opłatę podstawową, o której mowa w art. 14, od wszystkich pism podlegających opłacie, chyba że przepis szczególny stanowi inaczej.
 
 **Art. 101.**
 
-1. Sàd mo˝e zwolniç stron´ od kosztów sàdowych wcz´Êci, je˝eli strona jest wstanie ponieÊç tylko cz´Êç tych kosztów.
+1. Sąd może zwolnić stronę od kosztów sądowych wczęści, jeżeli strona jest wstanie ponieść tylko część tych kosztów.
 
-2. Cz´Êciowe zwolnienie od tych kosztów mo˝e polegaç na zwolnieniu od poniesienia albo u∏amkowej lub procentowej ich cz´Êci, albo okreÊlonej ich kwoty, albo niektórych op∏at lub wydatków. Mo˝e te˝ polegaç na przyznaniu zwolnienia co do pewnej cz´Êci roszczenia lub co do niektórych roszczeƒ dochodzonych ∏àcznie; roszczenia te lub ich cz´Êci sàd oznacza w postanowieniu o przyznaniu cz´Êciowego zwolnienia od kosztów sàdowych.
+2. Częściowe zwolnienie od tych kosztów może polegać na zwolnieniu od poniesienia albo ułamkowej lub procentowej ich części, albo określonej ich kwoty, albo niektórych opłat lub wydatków. Może też polegać na przyznaniu zwolnienia co do pewnej części roszczenia lub co do niektórych roszczeń dochodzonych łącznie; roszczenia te lub ich części sąd oznacza w postanowieniu o przyznaniu częściowego zwolnienia od kosztów sądowych.
 
-3. Strona cz´Êciowo zwolniona od kosztów sàdowych obowiàzana jest uiÊciç op∏aty oraz ponieÊç wydatki w takiej wysokoÊci, jaka nie jest obj´ta zwolnieniem przyznanym przez sàd. Przepis art. 100 ust. 1stosuje si´ odpowiednio.
+3. Strona częściowo zwolniona od kosztów sądowych obowiązana jest uiścić opłaty oraz ponieść wydatki w takiej wysokości, jaka nie jest objęta zwolnieniem przyznanym przez sąd. Przepis art. 100 ust. 1stosuje się odpowiednio.
 
 **Art. 102.**
 
-1. Zwolnienia od kosztów sàdowych mo˝e si´ domagaç osoba fizyczna, która z∏o˝y∏a oÊwiad).
+1. Zwolnienia od kosztów sądowych może się domagać osoba fizyczna, która złożyła oświad).
 
-3. Sàd mo˝e odebraç od osoby ubiegajàcej si´ o zwolnienie od kosztów sàdowych przyrzeczenie o treÊci: „Âwiadomy znaczenia mych s∏ów i odpowiedzialnoÊci przed prawem zapewniam, ˝e z∏o˝one przeze mnie oÊwiadczenie o stanie rodzinnym, majàtku, dochodach iêród∏ach utrzymania jest prawdziwe irzetelne”. Przed odebraniem przyrzeczenia nale˝y pouczyç osob´ ubiegajàcà si´ o zwolnienie od kosztów sàdowych o treÊci art. 111.
+3. Sąd może odebrać od osoby ubiegającej się o zwolnienie od kosztów sądowych przyrzeczenie o treści: ŃÂwiadomy znaczenia mych słów i odpowiedzialności przed prawem zapewniam, że złożone przeze mnie oświadczenie o stanie rodzinnym, majątku, dochodach iêródłach utrzymania jest prawdziwe irzetelne”. Przed odebraniem przyrzeczenia należy pouczyć osobę ubiegającą się o zwolnienie od kosztów sądowych o treści art. 111.
 
-4. Wniosek o zwolnienie od kosztów strony reprezentowanej przez adwokata lub radc´ prawnego z∏o˝ony bez do∏àczenia oÊwiadczenia, o którym mowa wust. 2, przewodniczàcy zwraca bez wzywania ouzupe∏nienie braków formalnych wniosku o zwolnienie od kosztów sàdowych.
+4. Wniosek o zwolnienie od kosztów strony reprezentowanej przez adwokata lub radcę prawnego złożony bez dołączenia oświadczenia, o którym mowa wust. 2, przewodniczący zwraca bez wzywania ouzupełnienie braków formalnych wniosku o zwolnienie od kosztów sądowych.
 
-**Art. 103.** Sàd mo˝e przyznaç zwolnienie od kosztów sàdowych osobie prawnej lub jednostce organizacyjnej nieb´dàcej osobà prawnà, której ustawa przyznaje zdolnoÊç prawnà, je˝eli wykaza∏a, ˝e nie ma dostatecznych Êrodków na ich uiszczenie.
+**Art. 103.** Sąd może przyznać zwolnienie od kosztów sądowych osobie prawnej lub jednostce organizacyjnej niebędącej osobą prawną, której ustawa przyznaje zdolność prawną, jeżeli wykazała, że nie ma dostatecznych środków na ich uiszczenie.
 
-**Art. 104.** Organizacjom spo∏ecznym, których zadanie nie polega na prowadzeniu dzia∏alnoÊci gospodarczej, sàd mo˝e przyznaç zwolnienie od kosztów sàdowych w ich w∏asnych sprawach prowadzonych wzwiàzku zdzia∏alnoÊcià spo∏ecznà, naukowà, oÊwiatowà, kulturalnà, dobroczynnà, samopomocowà, w zakresie ochrony konsumenta, ochrony Êrodowiska i opieki spo∏ecznej. Przyznajàc zwolnienie od kosztów sàdowych, Sàd uwzgl´dnia przede wszystkim statutowe cele dzia∏alnoÊci danej organizacji i mo˝liwoÊci oraz potrzeby realizacji tych celów na drodze post´powania cywilnego. ———————
+**Art. 104.** Organizacjom społecznym, których zadanie nie polega na prowadzeniu działalności gospodarczej, sąd może przyznać zwolnienie od kosztów sądowych w ich własnych sprawach prowadzonych wzwiązku zdziałalnością społeczną, naukową, oświatową, kulturalną, dobroczynną, samopomocową, w zakresie ochrony konsumenta, ochrony środowiska i opieki społecznej. Przyznając zwolnienie od kosztów sądowych, Sąd uwzględnia przede wszystkim statutowe cele działalności danej organizacji i możliwości oraz potrzeby realizacji tych celów na drodze postępowania cywilnego. ———————
 
 **Art. 105.**
 
-1. Wniosek o przyznanie zwolnienia od kosztów sàdowych nale˝y zg∏osiç na piÊmie lub ustnie do protoko∏u w sàdzie, w którym sprawa ma byç wytoczona lub ju˝ si´ toczy. Z∏o˝enie wniosku do protoko∏u nie uchyla obowiàzku sporzàdzenia oÊwiadczenia, o którym mowa w art. 102 ust. 2, wed∏ug ustalonego wzoru.
+1. Wniosek o przyznanie zwolnienia od kosztów sądowych należy zgłosić na piśmie lub ustnie do protokołu w sądzie, w którym sprawa ma być wytoczona lub już się toczy. Złożenie wniosku do protokołu nie uchyla obowiązku sporządzenia oświadczenia, o którym mowa w art. 102 ust. 2, według ustalonego wzoru.
 
-2. Osoba fizyczna, która nie ma miejsca zamieszkania w siedzibie tego sàdu, mo˝e z∏o˝yç wniosek o przyznanie zwolnienia od kosztów sàdowych w sàdzie rejonowym w∏aÊciwym ze wzgl´du na miejsce swego zamieszkania. Sàd przesy∏a niezw∏ocznie ten wniosek w∏aÊciwemu sàdowi.
+2. Osoba fizyczna, która nie ma miejsca zamieszkania w siedzibie tego sądu, może złożyć wniosek o przyznanie zwolnienia od kosztów sądowych w sądzie rejonowym właściwym ze względu na miejsce swego zamieszkania. Sąd przesyła niezwłocznie ten wniosek właściwemu sądowi.
 
 **Art. 106.**
 
-1. Zwolnienie od kosztów sàdowych w post´powaniu wieczystoksi´gowym mo˝e nastàpiç wy∏àcznie przed z∏o˝eniem wniosku o wpis do ksi´gi wieczystej.
+1. Zwolnienie od kosztów sądowych w postępowaniu wieczystoksięgowym może nastąpić wyłącznie przed złożeniem wniosku o wpis do księgi wieczystej.
 
-2. Je˝eli wniosek odokonanie wpisu do ksi´gi wieczystej ma byç zamieszczony w akcie notarialnym, zwolnienie od kosztów sàdowych mo˝e nastàpiç wy∏àcznie przed zawarciem tego aktu notarialnego.
+2. Jeżeli wniosek odokonanie wpisu do księgi wieczystej ma być zamieszczony w akcie notarialnym, zwolnienie od kosztów sądowych może nastąpić wyłącznie przed zawarciem tego aktu notarialnego.
 
-3. Wniosek odokonanie wpisu do ksi´gi wieczystej powinien byç z∏o˝ony w terminie 3 miesi´cy od dor´czenia postanowienia o zwolnieniu od kosztów sàdowych, pod rygorem upadku zwolnienia.
+3. Wniosek odokonanie wpisu do księgi wieczystej powinien być złożony w terminie 3 miesięcy od doręczenia postanowienia o zwolnieniu od kosztów sądowych, pod rygorem upadku zwolnienia.
 
-4. Przepisów ust. 1i2nie stosuje si´, je˝eli obowiàzek poniesienia kosztów sàdowych powsta∏ po wydaniu orzeczenia, wpost´powaniu wieczystoksi´gowym.
+4. Przepisów ust. 1i2nie stosuje się, jeżeli obowiązek poniesienia kosztów sądowych powstał po wydaniu orzeczenia, wpostępowaniu wieczystoksięgowym.
 
 **Art. 107.**
 
-1. W razie oddalenia wniosku o zwolnienie od kosztów sàdowych strona nie mo˝e ponownie domagaç si´ zwolnienia powo∏ujàc si´ na te same okolicznoÊci, które stanowi∏y uzasadnienie oddalonego wniosku.
+1. W razie oddalenia wniosku o zwolnienie od kosztów sądowych strona nie może ponownie domagać się zwolnienia powołując się na te same okoliczności, które stanowiły uzasadnienie oddalonego wniosku.
 
-2. Ponowny wniosek o zwolnienie od kosztów sàdowych, oparty na tych samych okolicznoÊciach, podlega odrzuceniu. Na odrzucenie wniosku nie przys∏uguje za˝alenie.
+2. Ponowny wniosek o zwolnienie od kosztów sądowych, oparty na tych samych okolicznościach, podlega odrzuceniu. Na odrzucenie wniosku nie przysługuje zażalenie.
 
-**Art. 108.** Zwolnienie od kosztów sàdowych nie zwalnia strony od obowiàzku zwrotu kosztów procesu przeciwnikowi.
+**Art. 108.** Zwolnienie od kosztów sądowych nie zwalnia strony od obowiązku zwrotu kosztów procesu przeciwnikowi.
 
 **Art. 109.**
 
-1. Sàd mo˝e zarzàdziç stosowne dochodzenie, je˝eli na podstawie okolicznoÊci sprawy lub oÊwiadczeƒ strony przeciwnej powzià∏ wàtpliwoÊci co do rzeczywistego stanu majàtkowego strony domagajàcej si´ zwolnienia od kosztów sàdowych lub z niego korzystajàcej.
+1. Sąd może zarządzić stosowne dochodzenie, jeżeli na podstawie okoliczności sprawy lub oświadczeń strony przeciwnej powziął wątpliwości co do rzeczywistego stanu majątkowego strony domagającej się zwolnienia od kosztów sądowych lub z niego korzystającej.
 
-2. Sàd odmawia zwolnienia od kosztów sàdowych stronie wrazie oczywistej bezzasadnoÊci dochodzonego roszczenia lub obrony praw.
+2. Sąd odmawia zwolnienia od kosztów sądowych stronie wrazie oczywistej bezzasadności dochodzonego roszczenia lub obrony praw.
 
-**Art. 110.** Sàd cofa zwolnienie od kosztów sàdowych, je˝eli okaza∏o si´, ˝e okolicznoÊci, na podstawie których je przyznano, nie istnia∏y lub przesta∏y istnieç. W obu wypadkach strona obowiàzana jest uiÊciç wszystkie przepisane op∏aty oraz zwróciç wydatki, jednak˝e w drugim wypadku sàd mo˝e obcià˝yç stron´ zmiany, jaka nastàpi∏a w jej stosunkach. W takim wypadku stosuje si´ przepis art. 111.
+**Art. 110.** Sąd cofa zwolnienie od kosztów sądowych, jeżeli okazało się, że okoliczności, na podstawie których je przyznano, nie istniały lub przestały istnieć. W obu wypadkach strona obowiązana jest uiścić wszystkie przepisane opłaty oraz zwrócić wydatki, jednakże w drugim wypadku sąd może obciążyć stronę zmiany, jaka nastąpiła w jej stosunkach. W takim wypadku stosuje się przepis art. 111.
 
 **Art. 111.**
 
-1. Stron´, która uzyska∏a zwolnienie od kosztów sàdowych na podstawie Êwiadomego podania nieprawdziwych okolicznoÊci, sàd, cofajàc zwolnienie, skazuje na grzywn´ w wysokoÊci do 1 000 z∏otych. Niezale˝nie od obowiàzku uiszczenia grzywny strona powinna uiÊciç wszystkie przepisane op∏aty i pokryç obcià˝ajàce jà wydatki.
+1. Stronę, która uzyskała zwolnienie od kosztów sądowych na podstawie świadomego podania nieprawdziwych okoliczności, sąd, cofając zwolnienie, skazuje na grzywnę w wysokości do 1 000 złotych. Niezależnie od obowiązku uiszczenia grzywny strona powinna uiścić wszystkie przepisane opłaty i pokryć obciążające ją wydatki.
 
-2. Osob´, która ponownie zg∏osi∏a wniosek ozwolnienie od kosztów sàdowych, Êwiadomie podajàc nieprawdziwe okolicznoÊci o stanie rodzinnym, majàtku, dochodach i êród∏ach utrzymania, sàd, odrzucajàc wniosek, skazuje na grzywn´ w wysokoÊci do 2000 z∏otych.
+2. Osobę, która ponownie zgłosiła wniosek ozwolnienie od kosztów sądowych, świadomie podając nieprawdziwe okoliczności o stanie rodzinnym, majątku, dochodach i êródłach utrzymania, sąd, odrzucając wniosek, skazuje na grzywnę w wysokości do 2000 złotych.
 
-**Art. 112.** Zg∏oszenie wniosku ozwolnienie od kosztów sàdowych oraz wniesienie Êrodka odwo∏awczego od postanowienia o odmowie zwolnienia od kosztów sàdowych nie wstrzymuje biegu toczàcego si´ post´powania, chyba ˝e chodzi o zwolnienie powoda od kosztów sàdowych na skutek wniosku zg∏oszonego w pozwie lub przed wytoczeniem powództwa.
+**Art. 112.** Zgłoszenie wniosku ozwolnienie od kosztów sądowych oraz wniesienie środka odwoławczego od postanowienia o odmowie zwolnienia od kosztów sądowych nie wstrzymuje biegu toczącego się postępowania, chyba że chodzi o zwolnienie powoda od kosztów sądowych na skutek wniosku zgłoszonego w pozwie lub przed wytoczeniem powództwa.
 
 **Art. 113.**
 
-1. Kosztami sàdowymi, których strona nie mia∏a obowiàzku uiÊciç lub których nie mia∏ obowiàzku uiÊciç kurator albo prokurator, sàd w orzeczeniu koƒczàcym spraw´ w instancji obcià˝y przeciwnika, je˝eli istniejà do tego podstawy, przy odpowiednim zastosowaniu zasad obowiàzujàcych przy zwrocie kosztów procesu.
+1. Kosztami sądowymi, których strona nie miała obowiązku uiścić lub których nie miał obowiązku uiścić kurator albo prokurator, sąd w orzeczeniu kończącym sprawę w instancji obciąży przeciwnika, jeżeli istnieją do tego podstawy, przy odpowiednim zastosowaniu zasad obowiązujących przy zwrocie kosztów procesu.
 
-2. Koszty nieobcià˝ajàce przeciwnika sàd w orzeczeniu koƒczàcym spraw´ w instancji nakazuje Êciàgnàç z roszczenia zasàdzonego na rzecz:
+2. Koszty nieobciążające przeciwnika sąd w orzeczeniu kończącym sprawę w instancji nakazuje ściągnąć z roszczenia zasądzonego na rzecz:
 
-- **1)** strony, której czynnoÊç spowodowa∏a ich powstanie;
-- **2)** strony zastàpionej przez kuratora lub
-- **3)** osoby, na której rzecz prokurator wytoczy∏ powództwo lub zg∏osi∏ wniosek owszcz´cie post´powania.
+- **1)** strony, której czynność spowodowała ich powstanie;
+- **2)** strony zastąpionej przez kuratora lub
+- **3)** osoby, na której rzecz prokurator wytoczył powództwo lub zgłosił wniosek owszczęcie postępowania.
 
-3. Koszty sàdowe, których nie mia∏ obowiàzku tym obowiàzkiem tak˝e cz´Êciowo, stosownie do uiÊciç kurator, sàd mo˝e nakazaç Êciàgnàç z innego majàtku strony zastàpionej przez kuratora.
+3. Koszty sądowe, których nie miał obowiązku tym obowiązkiem także częściowo, stosownie do uiścić kurator, sąd może nakazać ściągnąć z innego majątku strony zastąpionej przez kuratora.
 
-4. W wypadkach szczególnie uzasadnionych sàd mo˝e odstàpiç od przewidzianego wust. 2i3obcià˝enia kosztami.
+4. W wypadkach szczególnie uzasadnionych sąd może odstąpić od przewidzianego wust. 2i3obciążenia kosztami.
 
-5. Przepisu ust. 2 nie stosuje si´ do op∏at, których nie mia∏ obowiàzku uiÊciç Skarb Paƒstwa.
+5. Przepisu ust. 2 nie stosuje się do opłat, których nie miał obowiązku uiścić Skarb Państwa.
 
-**Art. 114.** W wypadkach uregulowanych w art. 113 ust. 2 i 3 Skarbowi Paƒstwa przys∏uguje na zasàdzonym roszczeniu ustawowe prawo zastawu.
+**Art. 114.** W wypadkach uregulowanych w art. 113 ust. 2 i 3 Skarbowi Państwa przysługuje na zasądzonym roszczeniu ustawowe prawo zastawu.
 
-**Art. 115.** Nale˝noÊç Skarbu Paƒstwa z tytu∏u kosztów sàdowych obcià˝ajàcych przeciwnika strony podlega zaspokojeniu wpost´powaniu egzekucyjnym lub upad∏oÊciowym w tej samej kolejnoÊci i w tych samych granicach, co nale˝noÊç tej strony ztytu∏u zasàdzonego na jej rzecz zwrotu kosztów procesu.
+**Art. 115.** Należność Skarbu Państwa z tytułu kosztów sądowych obciążających przeciwnika strony podlega zaspokojeniu wpostępowaniu egzekucyjnym lub upadłościowym w tej samej kolejności i w tych samych granicach, co należność tej strony ztytułu zasądzonego na jej rzecz zwrotu kosztów procesu.
 
-**Art. 116.** Roszczenie Skarbu Paƒstwa o uiszczenie kosztów sàdowych przedawnia si´ z up∏ywem trzech lat, liczàc od dnia, w którym nastàpi∏o prawomocne zakoƒczenie sprawy.
+**Art. 116.** Roszczenie Skarbu Państwa o uiszczenie kosztów sądowych przedawnia się z upływem trzech lat, licząc od dnia, w którym nastąpiło prawomocne zakończenie sprawy.
 
-**Art. 117.** Strony mogà w ugodzie sàdowej ustaliç, którà znich iwjakiej cz´Êci majà obcià˝aç nieuiszczone koszty sàdowe. Je˝eli ugoda nie stanowi inaczej, wsprawie zakoƒczonej ugodà koszty, októrych mowa w art. 113 ust. 1, ponoszà obie strony w równych cz´Êciach. Przepisy art. 113 ust. 2—5 stosuje si´ odpowiednio.
+**Art. 117.** Strony mogą w ugodzie sądowej ustalić, którą znich iwjakiej części mają obciążać nieuiszczone koszty sądowe. Jeżeli ugoda nie stanowi inaczej, wsprawie zakończonej ugodą koszty, októrych mowa w art. 113 ust. 1, ponoszą obie strony w równych częściach. Przepisy art. 113 ust. 2—5 stosuje się odpowiednio.
 
-**Art. 118.** CzynnoÊci wzakresie zwalniania od kosztów sàdowych, przewidziane w ustawie, mo˝e wykonywaç referendarz sàdowy. Tytu∏ V Umarzanie, rozk∏adanie na raty i odraczanie terminu zap∏aty nale˝noÊci sàdowych
+**Art. 118.** Czynności wzakresie zwalniania od kosztów sądowych, przewidziane w ustawie, może wykonywać referendarz sądowy. Tytuł V Umarzanie, rozkładanie na raty i odraczanie terminu zapłaty należności sądowych
 
-**Art. 119.** Zap∏ata nale˝noÊci Skarbu Paƒstwa z tytu∏u nieuiszczonych kosztów sàdowych oraz grzywien orzeczonych w post´powaniu cywilnym, zwanych dalej „nale˝noÊciami sàdowymi”, mo˝e byç umorzona, odroczona albo roz∏o˝ona na raty, je˝eli natychmiastowe ich Êciàgni´cie by∏oby po∏àczone z niewspó∏miernymi trudnoÊciami lub grozi∏oby d∏u˝nikowi zbyt ci´˝kimi skutkami.
+**Art. 119.** Zapłata należności Skarbu Państwa z tytułu nieuiszczonych kosztów sądowych oraz grzywien orzeczonych w postępowaniu cywilnym, zwanych dalej Ńnależnościami sądowymi”, może być umorzona, odroczona albo rozłożona na raty, jeżeli natychmiastowe ich ściągnięcie byłoby połączone z niewspółmiernymi trudnościami lub groziłoby dłużnikowi zbyt ciężkimi skutkami.
 
 **Art. 120.**
 
-1. Zap∏ata nale˝noÊci sàdowych mo˝e byç na wniosek d∏u˝nika roz∏o˝ona na raty lub odroczona na okres do dwóch lat, a w wyjàtkowych wypadkach na okres do trzech lat. Niezap∏acenie którejkolwiek raty w terminie powoduje natychmiastowà wymagalnoÊç pozosta∏ej cz´Êci nale˝noÊci.
+1. Zapłata należności sądowych może być na wniosek dłużnika rozłożona na raty lub odroczona na okres do dwóch lat, a w wyjątkowych wypadkach na okres do trzech lat. Niezapłacenie którejkolwiek raty w terminie powoduje natychmiastową wymagalność pozostałej części należności.
 
-2. Roz∏o˝enie na raty lub odroczenie terminu zap∏aty mo˝e byç cofni´te w razie stwierdzenia, ˝e nie istniejà ju˝ okolicznoÊci, które je uzasadnia∏y.
+2. Rozłożenie na raty lub odroczenie terminu zapłaty może być cofnięte w razie stwierdzenia, że nie istnieją już okoliczności, które je uzasadniały.
 
-3. Zap∏ata sumy ni˝szej ni˝ trzykrotna wysokoÊç op∏aty podstawowej nie mo˝e byç roz∏o˝ona na raty.
+3. Zapłata sumy niższej niż trzykrotna wysokość opłaty podstawowej nie może być rozłożona na raty.
 
-**Art. 121.** Nale˝noÊci sàdowe mogà byç umorzone na wniosek d∏u˝nika wcz´Êci lub wca∏oÊci, je˝eli d∏u˝nik wykaza∏, ˝e ze wzgl´du na swojà sytuacj´ rodzinci´˝kie skutki dla d∏u˝nika lub jego rodziny. Do wniosku d∏u˝nik powinien do∏àczyç oÊwiadczenie, októrym mowa w art. 102 ust. 2.
+**Art. 121.** Należności sądowe mogą być umorzone na wniosek dłużnika wczęści lub wcałości, jeżeli dłużnik wykazał, że ze względu na swoją sytuację rodzinciężkie skutki dla dłużnika lub jego rodziny. Do wniosku dłużnik powinien dołączyć oświadczenie, októrym mowa w art. 102 ust. 2.
 
-**Art. 122.** Nale˝noÊci sàdowe mogà byç umorzone z urz´du w cz´Êci lub w ca∏oÊci, je˝eli:
+**Art. 122.** Należności sądowe mogą być umorzone z urzędu w części lub w całości, jeżeli:
 
-**Art. 123.** O roz∏o˝eniu na raty, odroczeniu terminu sp∏aty lub umorzeniu nale˝noÊci sàdowych orzeczonych w post´powaniu przed sàdami powszechnymi oraz przed Sàdem Najwy˝szym rozstrzyga ostatecznie prezes sàdu w∏aÊciwego do Êciàgni´cia nale˝noÊci. Uprawnienia te przys∏ugujà równie˝ kierownikowi oÊrodka zamiejscowego sàdu lub przewodniczàcemu wydzia∏u zamiejscowego sàdu.
+**Art. 123.** O rozłożeniu na raty, odroczeniu terminu spłaty lub umorzeniu należności sądowych orzeczonych w postępowaniu przed sądami powszechnymi oraz przed Sądem Najwyższym rozstrzyga ostatecznie prezes sądu właściwego do ściągnięcia należności. Uprawnienia te przysługują również kierownikowi ośrodka zamiejscowego sądu lub przewodniczącemu wydziału zamiejscowego sądu.
 
 **Art. 124.**
 
-1. Wnioski o roz∏o˝enie na raty, odroczenie terminu sp∏aty lub umorzenie nale˝noÊci sàdowych wnosi si´ do prezesa sàdu w∏aÊciwego do Êciàgni´cia nale˝noÊci.
+1. Wnioski o rozłożenie na raty, odroczenie terminu spłaty lub umorzenie należności sądowych wnosi się do prezesa sądu właściwego do ściągnięcia należności.
 
-2. Po rozpoznaniu wniosku o roz∏o˝enie na raty, odroczenie lub umorzenie nale˝noÊci sàdowych albo w razie wystàpienia okolicznoÊci dajàcych podstaw´ do wszcz´cia post´powania o umorzenie nale˝noÊci sàdowych zurz´du, prezes sàdu wydaje stosowne zarzàdzenie.
+2. Po rozpoznaniu wniosku o rozłożenie na raty, odroczenie lub umorzenie należności sądowych albo w razie wystąpienia okoliczności dających podstawę do wszczęcia postępowania o umorzenie należności sądowych zurzędu, prezes sądu wydaje stosowne zarządzenie.
 
-**Art. 125.** CzynnoÊci w sprawach odroczenia lub roz∏o˝enia na raty nale˝noÊci sàdowych mo˝e na zarzàdzenie prezesa sàdu rejonowego lub okr´gowego wykonywaç referendarz sàdowy. Na zarzàdzenie referendarza przys∏uguje skarga do sàdu. nà, majàtkowà iwysokoÊç dochodów nie jest wstanie ich uiÊciç, a Êciàgni´cie nale˝noÊci pociàgn´∏oby zbyt Tytu∏ VI Zmiany w przepisach obowiàzujàcych
+**Art. 125.** Czynności w sprawach odroczenia lub rozłożenia na raty należności sądowych może na zarządzenie prezesa sądu rejonowego lub okręgowego wykonywać referendarz sądowy. Na zarządzenie referendarza przysługuje skarga do sądu. ną, majątkową iwysokość dochodów nie jest wstanie ich uiścić, a ściągnięcie należności pociągnęłoby zbyt Tytuł VI Zmiany w przepisach obowiązujących
 
-**Art. 126.** W ustawie z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. 43, poz. 296, z póên. zm. ) wprowadza si´ nast´pujàce zmiany: ———————
+**Art. 126.** W ustawie z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, z póên. zm. ) wprowadza się następujące zmiany: ———————
 
 **Art. 119.**
 
-§ 1. Ustanowienie adwokata lub radcy prawnego wygasa ze Êmiercià strony, która je uzyska∏a. Jednak˝e na zasadzie tego ustanowienia adwokat lub radca prawny strony podejmuje czynnoÊci procesowe niecierpiàce zw∏oki.
+§ 1. Ustanowienie adwokata lub radcy prawnego wygasa ze śmiercią strony, która je uzyskała. Jednakże na zasadzie tego ustanowienia adwokat lub radca prawny strony podejmuje czynności procesowe niecierpiące zwłoki.
 
-§ 2. Adwokat lub radca prawny mo˝e z wa˝nych przyczyn wnosiç o zwolnienie go od obowiàzku zast´powania strony w procesie. Okr´gowa rada adwokacka lub rada okr´gowej izby radców prawnych, zwalniajàc adwokata lub radc´ prawnego, wyznaczy jednoczeÊnie innego adwokata lub radc´ prawnego.
+§ 2. Adwokat lub radca prawny może z ważnych przyczyn wnosić o zwolnienie go od obowiązku zastępowania strony w procesie. Okręgowa rada adwokacka lub rada okręgowej izby radców prawnych, zwalniając adwokata lub radcę prawnego, wyznaczy jednocześnie innego adwokata lub radcę prawnego.
 
 **Art. 120.**
 
-§ 1. Sàd cofnie ustanowienie adwokata lub radcy prawnego, je˝eli oka˝e si´, ˝e okolicznoÊci, na których podstawie je przyznano, nie istnia∏y lub przesta∏y istnieç.
+§ 1. Sąd cofnie ustanowienie adwokata lub radcy prawnego, jeżeli okaże się, że okoliczności, na których podstawie je przyznano, nie istniały lub przestały istnieć.
 
-§ 2. W wypadkach, o których mowa w§1, strona obowiàzana jest uiÊciç wynagrodzenie adwokata lub radcy prawnego dla niej ustanowionego.
+§ 2. W wypadkach, o których mowa w§1, strona obowiązana jest uiścić wynagrodzenie adwokata lub radcy prawnego dla niej ustanowionego.
 
-§ 3. Ponadto, w wypadku gdy okolicznoÊci, na podstawie których przyznano ustanowienie adwokata lub radcy prawnego, przesta∏y istnieç, sàd mo˝e obcià˝yç stron´ tym obowiàzkiem tylko cz´Êciowo, stosownie do zmiany, jaka nastàpi∏a w jej stosunkach.
+§ 3. Ponadto, w wypadku gdy okoliczności, na podstawie których przyznano ustanowienie adwokata lub radcy prawnego, przestały istnieć, sąd może obciążyć stronę tym obowiązkiem tylko częściowo, stosownie do zmiany, jaka nastąpiła w jej stosunkach.
 
-§ 4. Stron´, która uzyska∏a ustanowienie adwokata lub radcy prawnego na podstawie podania Êwiadomie nieprawdziwych okolicznoÊci, sàd ska˝e na grzywn´, niezale˝nie od jej obowiàzku uiszczenia wynagrodzenia adwokata lub radcy prawnego.
+§ 4. Stronę, która uzyskała ustanowienie adwokata lub radcy prawnego na podstawie podania świadomie nieprawdziwych okoliczności, sąd skaże na grzywnę, niezależnie od jej obowiązku uiszczenia wynagrodzenia adwokata lub radcy prawnego.
 
-**Art. 121.** Ustanowienie adwokata lub radcy prawnego nie zwalnia strony od obowiàzku zwrotu kosztów przeciwnikowi.
+**Art. 121.** Ustanowienie adwokata lub radcy prawnego nie zwalnia strony od obowiązku zwrotu kosztów przeciwnikowi.
 
 **Art. 122.**
 
-§ 1. Adwokat lub radca prawny ustanowiony zgodnie z przepisami niniejszego dzia∏u ma prawo z wy∏àczeniem strony Êciàgnàç sum´ nia i zwrotu wydatków z kosztów zasàdzonych na rzecz tej strony od przeciwnika. Przeciwnik nie mo˝e czyniç ˝adnych potràceƒ, z wyjàtkiem kosztów nawzajem mu przyznanych od strony zwolnionej od kosztów sàdowych.
+§ 1. Adwokat lub radca prawny ustanowiony zgodnie z przepisami niniejszego działu ma prawo z wyłączeniem strony ściągnąć sumę nia i zwrotu wydatków z kosztów zasądzonych na rzecz tej strony od przeciwnika. Przeciwnik nie może czynić żadnych potrąceń, z wyjątkiem kosztów nawzajem mu przyznanych od strony zwolnionej od kosztów sądowych.
 
-§ 2. Na kosztach, przypadajàcych od przeciwnika strony zwolnionej od kosztów sàdowych, nale˝noÊci adwokata lub radcy prawnego ustanowionego wed∏ug przepisów poprzedzajàcych przys∏uguje pierwszeƒstwo przed roszczeniami osób trzecich.
+§ 2. Na kosztach, przypadających od przeciwnika strony zwolnionej od kosztów sądowych, należności adwokata lub radcy prawnego ustanowionego według przepisów poprzedzających przysługuje pierwszeństwo przed roszczeniami osób trzecich.
 
-**Art. 123.** Postanowienie o ustanowieniu i cofni´ciu ustanowienia adwokata lub radcy prawnego oraz o skazaniu na grzywn´ i na∏o˝eniu na stron´ obowiàzku uiszczenia ich wynagrodzenia sàd mo˝e wydaç na posiedzeniu niejawnym. nale˝nà mu tytu∏em wynagrodzeArt. 124. Zg∏oszenie wniosku o ustanowienie adwokata lub radcy prawnego, jak równie˝ wniesienie Êrodka odwo∏awczego od odmowy ich ustanowienia nie wstrzymuje biegu toczàcego si´ post´powania, chyba ˝e chodzi o ustanowienie adwokata lub radcy prawnego dla powoda na skutek wniosku zg∏oszonego wpozwie lub przed wytoczeniem powództwa. Sàd mo˝e jednak wstrzymaç rozpoznanie sprawy a˝ do prawomocnego rozstrzygni´cia wniosku iwzwiàzku ztym nie wyznaczaç rozprawy, awyznaczonà rozpraw´ odwo∏aç lub odroczyç.”;
+**Art. 123.** Postanowienie o ustanowieniu i cofnięciu ustanowienia adwokata lub radcy prawnego oraz o skazaniu na grzywnę i nałożeniu na stronę obowiązku uiszczenia ich wynagrodzenia sąd może wydać na posiedzeniu niejawnym. należną mu tytułem wynagrodzeArt. 124. Zgłoszenie wniosku o ustanowienie adwokata lub radcy prawnego, jak również wniesienie środka odwoławczego od odmowy ich ustanowienia nie wstrzymuje biegu toczącego się postępowania, chyba że chodzi o ustanowienie adwokata lub radcy prawnego dla powoda na skutek wniosku zgłoszonego wpozwie lub przed wytoczeniem powództwa. Sąd może jednak wstrzymać rozpoznanie sprawy aż do prawomocnego rozstrzygnięcia wniosku iwzwiązku ztym nie wyznaczać rozprawy, awyznaczoną rozprawę odwołać lub odroczyć.”;
 
 **Art. 126².**
 
-§ 1. Sàd nie podejmie ˝adnej czynnoÊci na skutek pisma, od którego nie zosta∏a uiszczona nale˝na op∏ata.
+§ 1. Sąd nie podejmie żadnej czynności na skutek pisma, od którego nie została uiszczona należna opłata.
 
-§ 2. Nie ˝àda si´ op∏aty od pisma, je˝eli ju˝ zjego treÊci wynika, ˝e podlega ono odrzuceniu.”;
+§ 2. Nie żąda się opłaty od pisma, jeżeli już zjego treści wynika, że podlega ono odrzuceniu.”;
 
 - **11)** w art. 130:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Je˝eli pismo procesowe nie mo˝e otrzymaç prawid∏owego biegu wskutek niezachowania warunków formalnych lub je˝eli od pisma nie uiszczono nale˝nej op∏aty, przewodniczàcy wzywa stron´, pod rygorem zwrócenia pisma, do poprawienia, uzupe∏nienia lub op∏acenia go w terminie tygodniowym. Mylne oznaczenie pisma procesowego lub inne oczywiste niedok∏adnoÊci nie stanowià przeszkody do nadania pismu biegu i rozpoznania go w trybie w∏aÊciwym.”,
-    - **b)** po § 1 dodaje si´ § 1 w brzmieniu: „§ 1 . Je˝eli pismo wnios∏a osoba zamieszka∏a lub majàca siedzib´ za granicà, która nie ma w kraju przedstawiciela, przewodniczàcy wyznacza termin do poprawienia lub uzupe∏nienia pisma albo uiszczenia op∏aty nie krótszy ni˝ miesiàc.”;
+    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Jeżeli pismo procesowe nie może otrzymać prawidłowego biegu wskutek niezachowania warunków formalnych lub jeżeli od pisma nie uiszczono należnej opłaty, przewodniczący wzywa stronę, pod rygorem zwrócenia pisma, do poprawienia, uzupełnienia lub opłacenia go w terminie tygodniowym. Mylne oznaczenie pisma procesowego lub inne oczywiste niedokładności nie stanowią przeszkody do nadania pismu biegu i rozpoznania go w trybie właściwym.”,
+    - **b)** po § 1 dodaje się § 1 w brzmieniu: Ń§ 1 . Jeżeli pismo wniosła osoba zamieszkała lub mająca siedzibę za granicą, która nie ma w kraju przedstawiciela, przewodniczący wyznacza termin do poprawienia lub uzupełnienia pisma albo uiszczenia opłaty nie krótszy niż miesiąc.”;
 
-- **12)** po art. 130 dodaje si´ art. 130 —130 w brzmieniu: „Art. 130 . § 1. Pismo wniesione przez adwokata, radc´ prawnego lub rzecznika patentowego, które nie zosta∏o nale˝ycie op∏acone, przewodniczàcy zwraca bez wezwania o uiszczenie op∏aty, je˝eli pismo podlega op∏acie w wysokoÊci sta∏ej lub stosunkowej obliczonej od wskazanej przez stron´ wartoÊci przedmiotu sporu.
+- **12)** po art. 130 dodaje się art. 130 —130 w brzmieniu: ŃArt. 130 . § 1. Pismo wniesione przez adwokata, radcę prawnego lub rzecznika patentowego, które nie zostało należycie opłacone, przewodniczący zwraca bez wezwania o uiszczenie opłaty, jeżeli pismo podlega opłacie w wysokości stałej lub stosunkowej obliczonej od wskazanej przez stronę wartości przedmiotu sporu.
 
-§ 2. W terminie tygodniowym od dnia dor´czenia zarzàdzenia o zwrocie pisma z przyczyn okreÊlonych w § 1 strona mo˝e uiÊciç brakujàcà op∏at´. Je˝eli op∏ata zosta∏a wniesiona we w∏aÊciwej wysokoÊci, pismo wywo∏uje skutek od daty pierwotnego wniesienia. Skutek taki nie nast´puje w razie kolejnego zwrotu pisma z tej samej przyczyny.
+§ 2. W terminie tygodniowym od dnia doręczenia zarządzenia o zwrocie pisma z przyczyn określonych w § 1 strona może uiścić brakującą opłatę. Jeżeli opłata została wniesiona we właściwej wysokości, pismo wywołuje skutek od daty pierwotnego wniesienia. Skutek taki nie następuje w razie kolejnego zwrotu pisma z tej samej przyczyny.
 
-§ 3. Sàd odrzuca bez wezwania o uiszczenie op∏aty pismo wniesione przez adwokata, radc´ prawnego lub rzecznika patentowego Êrodki odwo∏awcze lub Êrodki zaskar˝enia (apelacj´, za˝alenie, skarg´ kasacyjnà, skarg´ o stwierdzenie niezgodnoÊci z prawem prawomocnego orzeczenia, sprzeciw od wyroku zaocznego, zarzuty od nakazu zap∏aty, skarg´ na orzeczenie referendarza sàdowego) podlegajàce op∏acie w wysokoÊci sta∏ej lub stosunkowej obliczonej od wskazanej przez stron´ wartoÊci § 4. Przepisy § 1—3 stosuje si´ do pisma wniesionego w post´powaniu w sprawach gospodarczych tak˝e wówczas, gdy przedsi´biorcy nie reprezentuje adwokat lub radca prawny. Zarzàdzenie o zwrocie pisma powinno zawieraç okreÊlenie wysokoÊci nale˝nej op∏aty stosunkowej, je˝eli op∏ata zosta∏a uiszczona w niew∏aÊciwej wysokoÊci, oraz wskazanie skutków ponownego wniesienia pisma.
+§ 3. Sąd odrzuca bez wezwania o uiszczenie opłaty pismo wniesione przez adwokata, radcę prawnego lub rzecznika patentowego środki odwoławcze lub środki zaskarżenia (apelację, zażalenie, skargę kasacyjną, skargę o stwierdzenie niezgodności z prawem prawomocnego orzeczenia, sprzeciw od wyroku zaocznego, zarzuty od nakazu zapłaty, skargę na orzeczenie referendarza sądowego) podlegające opłacie w wysokości stałej lub stosunkowej obliczonej od wskazanej przez stronę wartości § 4. Przepisy § 1—3 stosuje się do pisma wniesionego w postępowaniu w sprawach gospodarczych także wówczas, gdy przedsiębiorcy nie reprezentuje adwokat lub radca prawny. Zarządzenie o zwrocie pisma powinno zawierać określenie wysokości należnej opłaty stosunkowej, jeżeli opłata została uiszczona w niewłaściwej wysokości, oraz wskazanie skutków ponownego wniesienia pisma.
 
-§ 5. Przepisów § 1 i 3 nie stosuje si´, gdy obowiàzek uiszczenia op∏aty stosunkowej powsta∏ na skutek sprawdzenia przez sàd wskazanej przez stron´ wartoÊci przedmiotu sporu lub zaskar˝enia. Art. 130 przedmiotu zaskar˝enia. . § 1. Przepisy art. 126 , art. 126 , art. 130 § 1 i 1 , art. 130 stosuje si´ odpowiednio, gdy przed wys∏aniem odpisu pisma innym stronom, a w braku takich stron przed wys∏aniem zawiadomienia o terminie posiedzenia, powsta∏ obowiàzek uiszczenia lub uzupe∏nienia op∏aty na skutek ustalenia przez sàd wy˝szej wartoÊci przedmiotu sporu, cofni´cia zwolnienia od kosztów sàdowych albo uchylenia kurateli.
+§ 5. Przepisów § 1 i 3 nie stosuje się, gdy obowiązek uiszczenia opłaty stosunkowej powstał na skutek sprawdzenia przez sąd wskazanej przez stronę wartości przedmiotu sporu lub zaskarżenia. Art. 130 przedmiotu zaskarżenia. . § 1. Przepisy art. 126 , art. 126 , art. 130 § 1 i 1 , art. 130 stosuje się odpowiednio, gdy przed wysłaniem odpisu pisma innym stronom, a w braku takich stron przed wysłaniem zawiadomienia o terminie posiedzenia, powstał obowiązek uiszczenia lub uzupełnienia opłaty na skutek ustalenia przez sąd wyższej wartości przedmiotu sporu, cofnięcia zwolnienia od kosztów sądowych albo uchylenia kurateli.
 
-§ 2. Je˝eli obowiàzek uiszczenia lub uzupe∏nienia op∏aty powsta∏ na skutek rozszerzenia lub innej zmiany ˝àdania, z innych przyczyn ni˝ wymienione w§ 1, albo po wys∏aniu odpisu pisma innym stronom, a w braku takich stron po wys∏aniu zawiadomienia o terminie posiedzenia, przewodniczàcy wzywa zobowiàzanego do uiszczenia nale˝nej op∏aty w terminie tygodnia, a je˝eli mieszka on lub ma siedzib´ za granicà inie ma wkraju przedstawiciela w terminie nie krótszym od miesiàca. W razie bezskutecznego up∏ywu terminu sàd prowadzi spraw´ bez wstrzymywania biegu post´powania, a o obowiàzku uiszczenia op∏aty orzeka w orzeczeniu koƒczàcym spraw´ winstancji, stosujàc odpowiednio zasady obowiàzujàce przy zwrocie kosztów procesu.
+§ 2. Jeżeli obowiązek uiszczenia lub uzupełnienia opłaty powstał na skutek rozszerzenia lub innej zmiany żądania, z innych przyczyn niż wymienione w§ 1, albo po wysłaniu odpisu pisma innym stronom, a w braku takich stron po wysłaniu zawiadomienia o terminie posiedzenia, przewodniczący wzywa zobowiązanego do uiszczenia należnej opłaty w terminie tygodnia, a jeżeli mieszka on lub ma siedzibę za granicą inie ma wkraju przedstawiciela w terminie nie krótszym od miesiąca. W razie bezskutecznego upływu terminu sąd prowadzi sprawę bez wstrzymywania biegu postępowania, a o obowiązku uiszczenia opłaty orzeka w orzeczeniu kończącym sprawę winstancji, stosując odpowiednio zasady obowiązujące przy zwrocie kosztów procesu.
 
 **Art. 130⁴.**
 
-§ 1. Strona, która wnosi o podj´cie czynnoÊci po∏àczonej zwydatkami, obowiàzana jest uiÊciç zaliczk´ na ich pokrycie w wysokoÊci i terminie oznaczonym przez sàd. Je˝eli wi´cej ni˝ jedna strona wnosi o podj´cie czynnoÊci, sàd zobowiàzuje ka˝dà stron´, która z czynnoÊci wywodzi skutki prawne, do uiszczenia zaliczki w równych cz´Êciach lub w innym stosunku wed∏ug swego uznania.
+§ 1. Strona, która wnosi o podjęcie czynności połączonej zwydatkami, obowiązana jest uiścić zaliczkę na ich pokrycie w wysokości i terminie oznaczonym przez sąd. Jeżeli więcej niż jedna strona wnosi o podjęcie czynności, sąd zobowiązuje każdą stronę, która z czynności wywodzi skutki prawne, do uiszczenia zaliczki w równych częściach lub w innym stosunku według swego uznania.
 
-§ 2. Przewodniczàcy wzywa stron´ zobowiàzanà do wniesienia zaliczki, aby w wyznaczonym terminie nie d∏u˝szym ni˝ dwa tygodnie zap∏aci∏a oznaczonà kwot´. Je˝eli strona mieszka lub ma siedzib´ za granicà, wyznaczony termin nie mo˝e byç krótszy ni˝ miesiàc.
+§ 2. Przewodniczący wzywa stronę zobowiązaną do wniesienia zaliczki, aby w wyznaczonym terminie nie dłuższym niż dwa tygodnie zapłaciła oznaczoną kwotę. Jeżeli strona mieszka lub ma siedzibę za granicą, wyznaczony termin nie może być krótszy niż miesiąc.
 
-§ 3. Je˝eli okazuje si´, ˝e przewidywane lub rzeczywiste wydatki sà wi´ksze od wniesionej zaliczki, przewodniczàcy wzywa o jej uzupe∏nienie w trybie okreÊlonym w § 2.
+§ 3. Jeżeli okazuje się, że przewidywane lub rzeczywiste wydatki są większe od wniesionej zaliczki, przewodniczący wzywa o jej uzupełnienie w trybie określonym w § 2.
 
-§ 4. Sàd podejmie czynnoÊç po∏àczonà z wydatkami, je˝eli zaliczka zostanie uiszczona woznaczonej wysokoÊci.
+§ 4. Sąd podejmie czynność połączoną z wydatkami, jeżeli zaliczka zostanie uiszczona woznaczonej wysokości.
 
-§ 5. W razie nieuiszczenia zaliczki sàd pominie czynnoÊç po∏àczonà z wydatkami.”;
+§ 5. W razie nieuiszczenia zaliczki sąd pominie czynność połączoną z wydatkami.”;
 
-- **13)** w art. 193 po § 3 dodaje si´ § 4 w brzmieniu: „§ 4. W razie zmiany powództwa art. 126 i art. 130 stosuje si´ odpowiednio.”;
-- **14)** w art. 344 § 3 otrzymuje brzmienie: „§ 3. Sprzeciw z∏o˝ony po terminie oraz sprzeciw, którego braków strona w wyznaczonym terminie nie uzupe∏ni∏a, a tak˝e sprzeciw nieop∏acony, sàd odrzuca na posiedzeniu niejawnym.”;
-- **15)** po art. 362 dodaje si´ art. 362 w brzmieniu: „Art. 362 . Do postanowieƒ referendarza sàdowego stosuje si´ odpowiednio przepisy o postanowieniach sàdu.”;
-- **16)** w art. 367 po § 3 dodaje si´ § 4 w brzmieniu: „§ 4. Postanowienie oprzyznaniu icofni´ciu zwolnienia od kosztów sàdowych, o odmowie zwolnienia, oodrzuceniu wniosku ozwolnienie oraz o na∏o˝eniu na stron´ obowiàzku uiszczenia kosztów i skazaniu na grzywn´ sàd mo˝e wydaç na posiedzeniu niejawnym w sk∏adzie jednego s´dziego.”;
-- **17)** art. 370 otrzymuje brzmienie: „Art. 370. Sàd pierwszej instancji odrzuci na posiedzeniu niejawnym apelacj´ wniesionà po up∏ywie przepisanego terminu, nieop∏aconà lub z innych przyczyn niedopuszczalnà, jak równie˝ apelacj´, której braków strona nie uzupe∏ni∏a w wy18) w art. 394 w § 1:
-    - **a)** pkt 9 otrzymuje brzmienie: „9) okreÊlenie zasad ponoszenia przez strony kosztów procesu, wymiar op∏aty, zwrot op∏aty lub zaliczki, obcià˝enie kosztami sàdowymi, je˝eli strona nie sk∏ada Êrodka zaskar˝enia co do istoty sprawy, koszty przyznane w nakazie zap∏aty oraz wynagrodzenie bieg∏ego,”,
-    - **b)** po pkt 11 dodaje si´ pkt 12 w brzmieniu: „12) odrzucenie skargi na orzeczenie referendarza sàdowego.”;
+- **13)** w art. 193 po § 3 dodaje się § 4 w brzmieniu: Ń§ 4. W razie zmiany powództwa art. 126 i art. 130 stosuje się odpowiednio.”;
+- **14)** w art. 344 § 3 otrzymuje brzmienie: Ń§ 3. Sprzeciw złożony po terminie oraz sprzeciw, którego braków strona w wyznaczonym terminie nie uzupełniła, a także sprzeciw nieopłacony, sąd odrzuca na posiedzeniu niejawnym.”;
+- **15)** po art. 362 dodaje się art. 362 w brzmieniu: ŃArt. 362 . Do postanowień referendarza sądowego stosuje się odpowiednio przepisy o postanowieniach sądu.”;
+- **16)** w art. 367 po § 3 dodaje się § 4 w brzmieniu: Ń§ 4. Postanowienie oprzyznaniu icofnięciu zwolnienia od kosztów sądowych, o odmowie zwolnienia, oodrzuceniu wniosku ozwolnienie oraz o nałożeniu na stronę obowiązku uiszczenia kosztów i skazaniu na grzywnę sąd może wydać na posiedzeniu niejawnym w składzie jednego sędziego.”;
+- **17)** art. 370 otrzymuje brzmienie: ŃArt. 370. Sąd pierwszej instancji odrzuci na posiedzeniu niejawnym apelację wniesioną po upływie przepisanego terminu, nieopłaconą lub z innych przyczyn niedopuszczalną, jak również apelację, której braków strona nie uzupełniła w wy18) w art. 394 w § 1:
+    - **a)** pkt 9 otrzymuje brzmienie: Ń9) określenie zasad ponoszenia przez strony kosztów procesu, wymiar opłaty, zwrot opłaty lub zaliczki, obciążenie kosztami sądowymi, jeżeli strona nie składa środka zaskarżenia co do istoty sprawy, koszty przyznane w nakazie zapłaty oraz wynagrodzenie biegłego,”,
+    - **b)** po pkt 11 dodaje się pkt 12 w brzmieniu: Ń12) odrzucenie skargi na orzeczenie referendarza sądowego.”;
 
-- **19)** wart. 397 w§ 2dodaje si´ zdanie drugie wbrzmieniu: „Rozpoznanie za˝alenia na postanowienie wprzedmiocie odmowy zwolnienia od kosztów sàdowych lub cofni´cia takiego zwolnienia, odrzucenia wniosku ozwolnienie oraz na∏o˝enia na stron´ obowiàzku uiszczenia kosztów i skazania na znaczonym terminie.”; grzywn´ nast´puje wsk∏adzie jednego s´dziego.”;
-- **20)** w art. 398 § 2 otrzymuje brzmienie: „§ 2. Sàd drugiej instancji odrzuca na posiedzeniu niejawnym skarg´ kasacyjnà wniesionà po up∏ywie terminu, skarg´ niespe∏niajàcà wymagaƒ okreÊlonych w art. 398 § 1, nieop∏aconà oraz skarg´, której braków nie usuni´to w terminie lub z innych przyczyn niedopuszczalnà.”;
-- **21)** wcz´Êci pierwszej, ksi´dze pierwszej, tytule VI, po dziale Va dodaje si´ dzia∏ Vb w brzmieniu: „Dzia∏ Vb Skarga na orzeczenie referendarza sàdowego
+- **19)** wart. 397 w§ 2dodaje się zdanie drugie wbrzmieniu: ŃRozpoznanie zażalenia na postanowienie wprzedmiocie odmowy zwolnienia od kosztów sądowych lub cofnięcia takiego zwolnienia, odrzucenia wniosku ozwolnienie oraz nałożenia na stronę obowiązku uiszczenia kosztów i skazania na znaczonym terminie.”; grzywnę następuje wskładzie jednego sędziego.”;
+- **20)** w art. 398 § 2 otrzymuje brzmienie: Ń§ 2. Sąd drugiej instancji odrzuca na posiedzeniu niejawnym skargę kasacyjną wniesioną po upływie terminu, skargę niespełniającą wymagań określonych w art. 398 § 1, nieopłaconą oraz skargę, której braków nie usunięto w terminie lub z innych przyczyn niedopuszczalną.”;
+- **21)** wczęści pierwszej, księdze pierwszej, tytule VI, po dziale Va dodaje się dział Vb w brzmieniu: ŃDział Vb Skarga na orzeczenie referendarza sądowego
 
 **Art. 398²².**
 
-§ 1. Na orzeczenie referendarza sàdowego, co do istoty sprawy, orzeczenie koƒczàce post´powanie, atak˝e orzeczenia, októrych mowa w art. 394 § 1 pkt 1, 2, 5, 6, 7, 8 i 9, przys∏uguje skarga, chyba ˝e przepis szczególny stanowi inaczej. Skarg´ rozpoznaje sàd, w którym wydano zaskar˝one orzeczenie.
+§ 1. Na orzeczenie referendarza sądowego, co do istoty sprawy, orzeczenie kończące postępowanie, atakże orzeczenia, októrych mowa w art. 394 § 1 pkt 1, 2, 5, 6, 7, 8 i 9, przysługuje skarga, chyba że przepis szczególny stanowi inaczej. Skargę rozpoznaje sąd, w którym wydano zaskarżone orzeczenie.
 
-§ 2. W razie wniesienia skargi orzeczenie referendarza sàdowego traci moc.
+§ 2. W razie wniesienia skargi orzeczenie referendarza sądowego traci moc.
 
-§ 3. Sàd rozpoznaje spraw´ jako sàd pierwszej instancji, chyba ˝e przepis szczególny stanowi inaczej.
+§ 3. Sąd rozpoznaje sprawę jako sąd pierwszej instancji, chyba że przepis szczególny stanowi inaczej.
 
-§ 4. Skarg´ wnosi si´ do sàdu w terminie tygodniowym od dnia dor´czenia stronie postanowienia referendarza sàdowego, chyba ˝e przepis szczególny stanowi inaczej.
+§ 4. Skargę wnosi się do sądu w terminie tygodniowym od dnia doręczenia stronie postanowienia referendarza sądowego, chyba że przepis szczególny stanowi inaczej.
 
-§ 5. Skarg´ wniesionà po up∏ywie terminu lub nieop∏aconà sàd odrzuca.
+§ 5. Skargę wniesioną po upływie terminu lub nieopłaconą sąd odrzuca.
 
 **Art. 398²³.**
 
-§ 1. Wniesienie skargi na postanowienie referendarza w przedmiocie kosztów sàdowych lub kosztów procesu wstrzymuje jego wykonalnoÊç. Rozpoznajàc skarg´ sàd wydaje postanowienie, w którym zaskar˝one postanowienie referendarza sàdowego utrzymuje w mocy albo je zmienia.
+§ 1. Wniesienie skargi na postanowienie referendarza w przedmiocie kosztów sądowych lub kosztów procesu wstrzymuje jego wykonalność. Rozpoznając skargę sąd wydaje postanowienie, w którym zaskarżone postanowienie referendarza sądowego utrzymuje w mocy albo je zmienia.
 
-§ 2. W sprawach, o których mowa w § 1, sàd orzeka jako sàd drugiej instancji, stosujàc odpowiednio przepisy o za˝aleniu.”;
+§ 2. W sprawach, o których mowa w § 1, sąd orzeka jako sąd drugiej instancji, stosując odpowiednio przepisy o zażaleniu.”;
 
-- **22)** w art. 424 § 3 otrzymuje brzmienie: „§ 3. Skarg´ nieop∏aconà oraz skarg´, której braków strona nie uzupe∏ni∏a w terminie, sàd odrzuca na posiedzeniu niejawnym.”;
-- **23)** uchyla si´ art. 434 ;
-- **24)** uchyla si´ art. 463;
-- **25)** w art. 494 § 1 otrzymuje brzmienie: „§ 1. Sàd odrzuca zarzuty wniesione po up∏ywie terminu, nieop∏acone lub z innych przyczyn niedopuszczalne, jak równie˝ zarzuty, których braków pozwany nie usunà∏ w terminie.”;
-- **26)** w art. 505 dodaje si´ zdanie drugie i trzecie w brzmieniu: „W takim wypadku nie pobiera si´ uzupe∏niajàcej op∏aty od pozwu. Przepisu art. 130 § 2nie stosuje si´.”;
-- **27)** po art. 511 dodaje si´ art. 511 w brzmieniu: „Art. 511 . § 1. W post´powaniu wieczystoksi´gowym oraz w post´powaniach rejestrowych wniosek podlegajàcy op∏acie sta∏ej, który nie zosta∏ nale˝ycie op∏acony, przewodniczàcy zwraca bez wezwania o uiszczenie tej op∏aty. Wzarzàdzeniu ozwrocie pisma nale˝y wskazaç wysokoÊç nale˝nej op∏aty sta∏ej.
+- **22)** w art. 424 § 3 otrzymuje brzmienie: Ń§ 3. Skargę nieopłaconą oraz skargę, której braków strona nie uzupełniła w terminie, sąd odrzuca na posiedzeniu niejawnym.”;
+- **23)** uchyla się art. 434 ;
+- **24)** uchyla się art. 463;
+- **25)** w art. 494 § 1 otrzymuje brzmienie: Ń§ 1. Sąd odrzuca zarzuty wniesione po upływie terminu, nieopłacone lub z innych przyczyn niedopuszczalne, jak również zarzuty, których braków pozwany nie usunął w terminie.”;
+- **26)** w art. 505 dodaje się zdanie drugie i trzecie w brzmieniu: ŃW takim wypadku nie pobiera się uzupełniającej opłaty od pozwu. Przepisu art. 130 § 2nie stosuje się.”;
+- **27)** po art. 511 dodaje się art. 511 w brzmieniu: ŃArt. 511 . § 1. W postępowaniu wieczystoksięgowym oraz w postępowaniach rejestrowych wniosek podlegający opłacie stałej, który nie został należycie opłacony, przewodniczący zwraca bez wezwania o uiszczenie tej opłaty. Wzarządzeniu ozwrocie pisma należy wskazać wysokość należnej opłaty stałej.
 
-§ 2. Przepis art. 130 § 2stosuje si´ odpowiednio.”;
+§ 2. Przepis art. 130 § 2stosuje się odpowiednio.”;
 
 - **28)** w art. 518 :
-    - **a)** uchyla si´ § 1 i 2,
-    - **b)** uchyla si´ § 5 i 6;
+    - **a)** uchyla się § 1 i 2,
+    - **b)** uchyla się § 5 i 6;
 
-- **29)** w art. 777 w § 1 po pkt 1 dodaje si´ pkt 1 w brzmieniu: „1 ) orzeczenie referendarza sàdowego prawomocne lub podlegajàce natychmiastowemu wykonaniu,”;
-- **30)** w art. 781 po § 3 dodaje si´ § 3 w brzmieniu: „§ 3 rza sàdowego klauzule wykonalnoÊci nadaje referendarz sàdowy.”;
-- **31)** art. 1064 otrzymuje brzmienie: „Art. 1064. Minister SprawiedliwoÊci okreÊli, w drodze rozporzàdzenia, sposób prowadzenia egzekucji grzywien i kar pieni´˝nych orzeczonych w post´powaniu cywilnym, a tak˝e op∏at sàdowych i innych kosztów post´powania w sprawach cywilnych, przys∏ugujàcych Skarbowi Paƒstwa, majàc na uwadze sprawnoÊç i skutecznoÊç post´powania egzekucyjnego.”.
+- **29)** w art. 777 w § 1 po pkt 1 dodaje się pkt 1 w brzmieniu: Ń1 ) orzeczenie referendarza sądowego prawomocne lub podlegające natychmiastowemu wykonaniu,”;
+- **30)** w art. 781 po § 3 dodaje się § 3 w brzmieniu: Ń§ 3 rza sądowego klauzule wykonalności nadaje referendarz sądowy.”;
+- **31)** art. 1064 otrzymuje brzmienie: ŃArt. 1064. Minister Sprawiedliwości określi, w drodze rozporządzenia, sposób prowadzenia egzekucji grzywien i kar pieniężnych orzeczonych w postępowaniu cywilnym, a także opłat sądowych i innych kosztów postępowania w sprawach cywilnych, przysługujących Skarbowi Państwa, mając na uwadze sprawność i skuteczność postępowania egzekucyjnego.”.
 
-**Art. 127.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. . Innemu ni˝ wymieniony w § 3 tytu∏owi egzekucyjnemu pochodzàcemu od referenda) uchyla si´ art. 263.
+**Art. 127.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. . Innemu niż wymieniony w § 3 tytułowi egzekucyjnemu pochodzącemu od referenda) uchyla się art. 263.
 
-**Art. 128.** Wustawie zdnia 6kwietnia 1984 r. ofundacjach (Dz. U. z 1991 r. 46, poz. 203, z 1997 r. 121, poz. 769, z 2000 r. 120, poz. 1268 oraz z 2003r. 162, poz. 1568) uchyla si´ art. 8.
+**Art. 128.** Wustawie zdnia 6kwietnia 1984 r. ofundacjach (Dz. U. z 1991 r. 46, poz. 203, z 1997 r. 121, poz. 769, z 2000 r. 120, poz. 1268 oraz z 2003r. 162, poz. 1568) uchyla się art. 8.
 
-**Art. 129.** W ustawie z dnia 20 czerwca 1985 r. oprokuraturze (Dz. U. z2002 r. 21, poz. 206 iNr 213, poz. 1802, z 2003 r. 228, poz. 2256 oraz z 2005 r. 130, poz. 1085) art. 83a otrzymuje brzmienie: „Art. 83a. Sàd Najwy˝szy rozpoznaje kasacj´, októrej mowa w art. 83 ust. 2, na rozprawie, w sk∏adzie trzech s´dziów.”.
+**Art. 129.** W ustawie z dnia 20 czerwca 1985 r. oprokuraturze (Dz. U. z2002 r. 21, poz. 206 iNr 213, poz. 1802, z 2003 r. 228, poz. 2256 oraz z 2005 r. 130, poz. 1085) art. 83a otrzymuje brzmienie: ŃArt. 83a. Sąd Najwyższy rozpoznaje kasację, októrej mowa w art. 83 ust. 2, na rozprawie, w składzie trzech sędziów.”.
 
-**Art. 130.** W ustawie z dnia 17 maja 1989 r. o gwarancjach wolnoÊci sumienia i wyznania (Dz. U. z 2000 r. 26, poz. 319, z póên. zm. ) w art. 38f ust. 2 otrzymuje brzmienie: „2. Nabycie w∏asnoÊci nieruchomoÊci lub ich cz´Êci na podstawie ugody lub orzeczenia jest wolne od podatków i op∏at z tym zwiàzanych.”.
+**Art. 130.** W ustawie z dnia 17 maja 1989 r. o gwarancjach wolności sumienia i wyznania (Dz. U. z 2000 r. 26, poz. 319, z póên. zm. ) w art. 38f ust. 2 otrzymuje brzmienie: Ń2. Nabycie własności nieruchomości lub ich części na podstawie ugody lub orzeczenia jest wolne od podatków i opłat z tym związanych.”.
 
-**Art. 131.** W ustawie z dnia 21 czerwca 1990 r. o zwrocie korzyÊci uzyskanych nies∏usznie kosztem Skarbu Paƒstwa lub innych paƒstwowych osób prawnych (Dz. U. 44, poz. 255, z póên. zm. ) uchyla si´ art. 3a. ———————
+**Art. 131.** W ustawie z dnia 21 czerwca 1990 r. o zwrocie korzyści uzyskanych niesłusznie kosztem Skarbu Państwa lub innych państwowych osób prawnych (Dz. U. 44, poz. 255, z póên. zm. ) uchyla się art. 3a. ———————
 
-**Art. 132.** Wustawie zdnia 14 lutego 1991 r. Prawo onotariacie (Dz. U. z2002 r. 42, poz. 369, zpóên. zm. ) w art. 7 po § 2 dodaje si´ § 2 w brzmieniu: „§ 2 . Je˝eli wnioskodawca, o którym mowa w § 2, zosta∏ zwolniony od kosztów sàdowych od wniosku o dokonanie wpisu do ksi´gi wieczystej, notariusz obowiàzany jest zaznaczyç wakcie notarialnym, ˝e op∏ata sàdowa nie zosta∏a pobrana i, za∏àczyç do wypisu aktu notarialnego przesy∏anego do sàdu w trybie art. 92 §4prawomocne postanowienie sàdu wprzedmiocie zwolnienia od kosztów sàdowych. W takim wypadku przepisu § 2 nie stosuje si´.”.
+**Art. 132.** Wustawie zdnia 14 lutego 1991 r. Prawo onotariacie (Dz. U. z2002 r. 42, poz. 369, zpóên. zm. ) w art. 7 po § 2 dodaje się § 2 w brzmieniu: Ń§ 2 . Jeżeli wnioskodawca, o którym mowa w § 2, został zwolniony od kosztów sądowych od wniosku o dokonanie wpisu do księgi wieczystej, notariusz obowiązany jest zaznaczyć wakcie notarialnym, że opłata sądowa nie została pobrana i, załączyć do wypisu aktu notarialnego przesyłanego do sądu w trybie art. 92 §4prawomocne postanowienie sądu wprzedmiocie zwolnienia od kosztów sądowych. W takim wypadku przepisu § 2 nie stosuje się.”.
 
-**Art. 133.** W ustawie z dnia 19 paêdziernika 1991 r. ogospodarowaniu nieruchomoÊciami rolnymi Skarbu Paƒstwa (Dz. U. z 2004 r. 208, poz. 2128 i 281, poz. 2772 oraz z 2005 r. 132, poz. 1110 i nr 163, poz. 1362) w art. 26a uchyla si´ ust. 3.
+**Art. 133.** W ustawie z dnia 19 paêdziernika 1991 r. ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 r. 208, poz. 2128 i 281, poz. 2772 oraz z 2005 r. 132, poz. 1110 i nr 163, poz. 1362) w art. 26a uchyla się ust. 3.
 
-**Art. 134.** W ustawie z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze (Dz. U. 27, poz. 96, z póên. zm. ) w art. 97 uchyla si´ ust. 3.
+**Art. 134.** W ustawie z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze (Dz. U. 27, poz. 96, z póên. zm. ) w art. 97 uchyla się ust. 3.
 
 **Art. 135.** W ustawie z dnia 19 sierpnia 1994 r. o ochronie zdrowia psychicznego (Dz. U. 111, poz. 535, z póên. zm.
 
-**Art. 137.** W ustawie z dnia 20 paêdziernika 1994 r. o specjalnych strefach ekonomicznych (Dz. U. 123, poz. 600, z póên. zm. ) art. 48 otrzymuje brzmienie: „Art. 48. Sàd mo˝e ustanowiç dla osoby, której post´powanie dotyczy bezpoÊrednio, adwokata z urz´du, nawet bez z∏o˝enia wniosku, je˝eli osoba ta ze wzgl´du na stan zdrowia psychicznego nie jest zdolna do z∏o˝enia wniosku, a sàd uzna udzia∏ adwokata w sprawie za potrzebny.”.
+**Art. 137.** W ustawie z dnia 20 paêdziernika 1994 r. o specjalnych strefach ekonomicznych (Dz. U. 123, poz. 600, z póên. zm. ) art. 48 otrzymuje brzmienie: ŃArt. 48. Sąd może ustanowić dla osoby, której postępowanie dotyczy bezpośrednio, adwokata z urzędu, nawet bez złożenia wniosku, jeżeli osoba ta ze względu na stan zdrowia psychicznego nie jest zdolna do złożenia wniosku, a sąd uzna udział adwokata w sprawie za potrzebny.”.
 
-**Art. 136.** W ustawie z dnia 12 paêdziernika 1994 r. o zasadach przekazywania zak∏adowych budynków mieszkalnych przez przedsi´biorstwa paƒstwowe (Dz. U. 119, poz. 567, z 1996 r. 52, poz. 236, z 1997 r. 6, poz. 32 oraz z 2000 r. 39, poz. 442) uchyla si´ art. 11. ) w art. 25 ust. 1 otrzymuje brzmienie: „1. Zarzàdzajàcy jest zwolniony od op∏aty skarbowej z tytu∏u nabycia lub zbycia praw do nieruchomoÊci po∏o˝onych na terenie strefy.”.
+**Art. 136.** W ustawie z dnia 12 paêdziernika 1994 r. o zasadach przekazywania zakładowych budynków mieszkalnych przez przedsiębiorstwa państwowe (Dz. U. 119, poz. 567, z 1996 r. 52, poz. 236, z 1997 r. 6, poz. 32 oraz z 2000 r. 39, poz. 442) uchyla się art. 11. ) w art. 25 ust. 1 otrzymuje brzmienie: Ń1. Zarządzający jest zwolniony od opłaty skarbowej z tytułu nabycia lub zbycia praw do nieruchomości położonych na terenie strefy.”.
 
-**Art. 138.** Wustawie zdnia 30 maja 1996 r. ogospodarowaniu niektórymi sk∏adnikami mienia Skarbu Paƒstwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. 163, poz. 1711 i 273, poz. 2703 oraz z 2005 r. 132, poz. 1110) w art. 31 uchyla si´ ust. 3.
+**Art. 138.** Wustawie zdnia 30 maja 1996 r. ogospodarowaniu niektórymi składnikami mienia Skarbu Państwa oraz o Agencji Mienia Wojskowego (Dz. U. z 2004 r. 163, poz. 1711 i 273, poz. 2703 oraz z 2005 r. 132, poz. 1110) w art. 31 uchyla się ust. 3.
 
-**Art. 139.** Wustawie zdnia 27 czerwca 1997 r. opartiach politycznych (Dz. U. z 2001 r. 79, poz. 857, z póên. zm. ) art. 23 otrzymuje brzmienie: „Art. 23. Minister SprawiedliwoÊci okreÊla, w drodze rozporzàdzenia, wzór isposób prowadzenia ewidencji partii politycznych oraz szczegó∏owe zasady wydawania odpisów i wyciàgów, o których mowa w art. 18.”.
+**Art. 139.** Wustawie zdnia 27 czerwca 1997 r. opartiach politycznych (Dz. U. z 2001 r. 79, poz. 857, z póên. zm. ) art. 23 otrzymuje brzmienie: ŃArt. 23. Minister Sprawiedliwości określa, w drodze rozporządzenia, wzór isposób prowadzenia ewidencji partii politycznych oraz szczegółowe zasady wydawania odpisów i wyciągów, o których mowa w art. 18.”.
 
-**Art. 140.** Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej i spo∏ecznej oraz zatrudnianiu osób niepe∏nosprawnych (Dz. U. 123, poz. 776, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 140.** Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 123, poz. 776, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 141.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, z póên. zm. ) uchyla si´ art. 94.
+**Art. 141.** W ustawie z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2002 r. 72, poz. 665, z póên. zm. ) uchyla się art. 94.
 
-**Art. 142.** Wustawie zdnia 29 sierpnia 1997 r. oNarodowym Banku Polskim (Dz. U. z2005 r. 1, poz. 2) w art. 57 ust. 1 otrzymuje brzmienie: „1. NBP, na równi zjednostkami bud˝etowymi, korzysta ze zwolnienia od podatków oraz op∏aty skarbowej.”.
+**Art. 142.** Wustawie zdnia 29 sierpnia 1997 r. oNarodowym Banku Polskim (Dz. U. z2005 r. 1, poz. 2) w art. 57 ust. 1 otrzymuje brzmienie: Ń1. NBP, na równi zjednostkami budżetowymi, korzysta ze zwolnienia od podatków oraz opłaty skarbowej.”.
 
-**Art. 143.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pami´ci Narodowej Komisji Âcigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. 155, poz. 1016, z póên. zm. ) w art. 32 uchyla si´ ust. 5.
+**Art. 143.** W ustawie z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej Komisji Âcigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. 155, poz. 1016, z póên. zm. ) w art. 32 uchyla się ust. 5.
 
-**Art. 144.** W ustawie z dnia 30 czerwca 2000 r. Prawo w∏asnoÊci przemys∏owej (Dz. U. z 2003 r. 119, poz. 1117, z 2004 r. 33, poz. 286 oraz z 2005 r. 10, poz. 68 i 163, poz. 1362) art. 294 otrzymuje brzmienie: „Art. 294. 1. Twórca wynalazku mo˝e dochodziç roszczenia o wynagrodzenie za korzystanie z jego wynalazku przed sàdem okr´gowym. 2. W post´powaniu, o którym mowa w ust. 1, stosuje si´ odpowiednio przepisy Kodeksu post´powania cywilnego, dotyczàce post´powania w sprawach o roszczenia pracowników.”.
+**Art. 144.** W ustawie z dnia 30 czerwca 2000 r. Prawo własności przemysłowej (Dz. U. z 2003 r. 119, poz. 1117, z 2004 r. 33, poz. 286 oraz z 2005 r. 10, poz. 68 i 163, poz. 1362) art. 294 otrzymuje brzmienie: ŃArt. 294. 1. Twórca wynalazku może dochodzić roszczenia o wynagrodzenie za korzystanie z jego wynalazku przed sądem okręgowym. 2. W postępowaniu, o którym mowa w ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego, dotyczące postępowania w sprawach o roszczenia pracowników.”.
 
-**Art. 145.** W ustawie z dnia 15 grudnia 2000 r. o spó∏dzielniach mieszkaniowych (Dz. U. z 2003 r. 119, poz. 1116, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 145.** W ustawie z dnia 15 grudnia 2000 r. o spółdzielniach mieszkaniowych (Dz. U. z 2003 r. 119, poz. 1116, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 146.** W ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sàdów powszechnych (Dz. U. 98, poz. 1070, z póên. zm. ——————— ) w art. 147 § 1 otrzymuje brzmienie: ——————— „§ 1. W sàdach rejonowych i okr´gowych sà zatrudniani referendarze sàdowi do wykonywania okreÊlonych w ustawach czynnoÊci nale˝àcych do sàdów w zakresie ochrony prawnej, a w szczególnoÊci post´powania w sprawach zwiàzanych z prowadzeniem ksiàg wieczystych i rejestrów sàdowych oraz do orzekania o kosztach sàdowych w sprawach cywilnych.”.
+**Art. 146.** W ustawie z dnia 27 lipca 2001 r. Prawo o ustroju sądów powszechnych (Dz. U. 98, poz. 1070, z póên. zm. ——————— ) w art. 147 § 1 otrzymuje brzmienie: ——————— Ń§ 1. W sądach rejonowych i okręgowych są zatrudniani referendarze sądowi do wykonywania określonych w ustawach czynności należących do sądów w zakresie ochrony prawnej, a w szczególności postępowania w sprawach związanych z prowadzeniem ksiąg wieczystych i rejestrów sądowych oraz do orzekania o kosztach sądowych w sprawach cywilnych.”.
 
-**Art. 147.** Wustawie zdnia 24 sierpnia 2001 r. orestrukturyzacji hutnictwa ˝elaza i stali (Dz. U. 111, poz. 1196, z póên. zm. ) art. 39 otrzymuje brzmienie: „Art. 39. Nie pobiera si´ podatku od czynnoÊci cywilnoprawnych, których stronà jest Agencja, majàcych za przedmiot mienie, o którym mowa w art. 33 ust. 1.”. Tytu∏ VII Przepisy przejÊciowe i koƒcowe
+**Art. 147.** Wustawie zdnia 24 sierpnia 2001 r. orestrukturyzacji hutnictwa żelaza i stali (Dz. U. 111, poz. 1196, z póên. zm. ) art. 39 otrzymuje brzmienie: ŃArt. 39. Nie pobiera się podatku od czynności cywilnoprawnych, których stroną jest Agencja, mających za przedmiot mienie, o którym mowa w art. 33 ust. 1.”. Tytuł VII Przepisy przejściowe i końcowe
 
 **Art. 148.**
 
-1. Je˝eli obowiàzujàce przepisy powo∏ujà si´ na przepisy ustawy o kosztach sàdowych w sprawach cywilnych albo odsy∏ajà ogólnie do tych przepisów, stosuje si´ odpowiednie przepisy niniejszej ustawy.
+1. Jeżeli obowiązujące przepisy powołują się na przepisy ustawy o kosztach sądowych w sprawach cywilnych albo odsyłają ogólnie do tych przepisów, stosuje się odpowiednie przepisy niniejszej ustawy.
 
-2. Do czasu wydania przepisów wykonawczych na podstawie ustawy zachowujà moc przepisy wydane przed wejÊciem w ˝ycie ustawy.
+2. Do czasu wydania przepisów wykonawczych na podstawie ustawy zachowują moc przepisy wydane przed wejściem w życie ustawy.
 
 **Art. 149.**
 
-1. W sprawach wszcz´tych przed dniem wejÊcia w˝ycie ustawy stosuje si´, do czasu zakoƒczenia post´powania w danej instancji, dotychczasowe przepisy o kosztach sàdowych.
+1. W sprawach wszczętych przed dniem wejścia wżycie ustawy stosuje się, do czasu zakończenia postępowania w danej instancji, dotychczasowe przepisy o kosztach sądowych.
 
-2. W sprawach egzekucyjnych wszcz´tych przed dniem wejÊcia w ˝ycie ustawy dotychczasowe przepisy okosztach sàdowych stosuje si´ a˝ do zakoƒczenia post´powania.
+2. W sprawach egzekucyjnych wszczętych przed dniem wejścia w życie ustawy dotychczasowe przepisy okosztach sądowych stosuje się aż do zakończenia postępowania.
 
-**Art. 150.** Traci moc ustawa z dnia 13 czerwca 1967 r. o kosztach sàdowych w sprawach cywilnych (Dz. U. z 2002 r. 9, poz. 88 i 233, poz. 1955, z 2003 r. 45, poz. 391, 96, poz. 874 i 139, poz. 1323, z 2004 r. 210, poz. 2135 oraz z 2005 r. 68, poz. 609). ——————— Art. 151. Ustawa wchodzi w ˝ycie po up∏ywie szeÊciu miesi´cy od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1399 USTAWA z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych Rozdzia∏ 1 Przepisy ogólne
+**Art. 150.** Traci moc ustawa z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. 9, poz. 88 i 233, poz. 1955, z 2003 r. 45, poz. 391, 96, poz. 874 i 139, poz. 1323, z 2004 r. 210, poz. 2135 oraz z 2005 r. 68, poz. 609). ——————— Art. 151. Ustawa wchodzi w życie po upływie sześciu miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1399 USTAWA z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
 - **5)** zasady pozbawiania obszaru statusu uzdrowiska albo statusu obszaru ochrony uzdrowiskowej;
-- **6)** zadania gmin uzdrowiskowych. Ustawa okreÊla:
+- **6)** zadania gmin uzdrowiskowych. Ustawa określa:
 
-**Art. 2.** U˝yte w ustawie okreÊlenia oznaczajà:
+**Art. 2.** Użyte w ustawie określenia oznaczają:
 

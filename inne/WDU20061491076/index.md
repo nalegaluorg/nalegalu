@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Art. Ustawa okreÊla zasady przekazania roku 2006 2007 finansowych:
+# Art. Ustawa określa zasady przekazania roku 2006 2007 finansowych:
 
 | Pole | Wartość |
 |---|---|
@@ -24,37 +24,37 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20061491076) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/1076/text.pdf) |
 
-1) zak∏adom opieki zdrowotnej wykonujàcym zadania okreÊlone ich statucie b´dàcym Êwiadczeniodawcami zprzeznaczeniem wynagrodzeƒ;
-2) grupowym praktykom lekarskim, grupowym praktykom piel´gniarek lub po∏o˝nych, osobom wykonujàcym zawód medyczny ramach indywidualnej praktyki lub indywidualnej specjalistycznej praktyki, b´dàcym Êwiadczeniodawcami oraz Êwiadczeniodawcom, których pkt 41 lit. b Êwiadczeniach.
-2. Ustawy nie stosuje si´ do Êwiadczeniodawców, których pkt 41 lit. d Êwiadczeniach.
+1) zakładom opieki zdrowotnej wykonującym zadania określone ich statucie będącym świadczeniodawcami zprzeznaczeniem wynagrodzeń;
+2) grupowym praktykom lekarskim, grupowym praktykom pielęgniarek lub położnych, osobom wykonującym zawód medyczny ramach indywidualnej praktyki lub indywidualnej specjalistycznej praktyki, będącym świadczeniodawcami oraz świadczeniodawcom, których pkt 41 lit. b świadczeniach.
+2. Ustawy nie stosuje się do świadczeniodawców, których pkt 41 lit. d świadczeniach.
 
-**Art. 2.** U˝yte ustawie okreÊlenia oznaczajà:
+**Art. 2.** Użyte ustawie określenia oznaczają:
 
-**Art. 3.** Kwota, której 136 pkt Êwiadczeniach, umowach zawartych rok:
+**Art. 3.** Kwota, której 136 pkt świadczeniach, umowach zawartych rok:
 
 **Art. 4.**
 
-2. Ustawy nie stosuje si´ do osób, których wynagrodzenie odpowiada kwocie co najmniej siedmiokrotnoÊci przeci´tnego miesi´cznego wynagrodzenia poprzednim kwartale, og∏aszanego przez Prezesa G∏ównego Urz´du Statystycznego Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski” dla celów emerytalnych.
+2. Ustawy nie stosuje się do osób, których wynagrodzenie odpowiada kwocie co najmniej siedmiokrotności przeciętnego miesięcznego wynagrodzenia poprzednim kwartale, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” dla celów emerytalnych.
 
-3. Wykonujàc obowiàzek, októrym wust. 1, Êwiadczeniodawca uwzgl´dnia zasady wynagradzania obowiàzujàce u Êwiadczeniodawcy, wynikajàce szczególnoÊci z uk∏adu zbiorowego pracy lub regulaminu wynagradzania, z zastrze˝eniem ust. 4—6.
+3. Wykonując obowiązek, októrym wust. 1, świadczeniodawca uwzględnia zasady wynagradzania obowiązujące u świadczeniodawcy, wynikające szczególności z układu zbiorowego pracy lub regulaminu wynagradzania, z zastrzeżeniem ust. 4—6.
 
-4. Wykonywanie obowiàzku, którym ust. 1, nast´puje uzgodnieniu z zak∏adowà organizacjà zwiàzkowà. W przypadku gdy u Êwiadczeniodawcy dzia∏a wi´cej ni˝ jedna organizacja zwiàzkowa, organizacje wspólnie uzgadniajà wykonanie obowiàzku, którym ust.
+4. Wykonywanie obowiązku, którym ust. 1, następuje uzgodnieniu z zakładową organizacją związkową. W przypadku gdy u świadczeniodawcy działa więcej niż jedna organizacja związkowa, organizacje wspólnie uzgadniają wykonanie obowiązku, którym ust.
 
-5. Âwiadczeniodawca, u którego nie dzia∏a zak∏adowa organizacja zwiàzkowa, wykonuje obowiàzek, którym ust. 1, uzgodnieniu z pracownikiem wybranym przez za∏og´ do reprezentowania jej interesów.
+5. Âwiadczeniodawca, u którego nie działa zakładowa organizacja związkowa, wykonuje obowiązek, którym ust. 1, uzgodnieniu z pracownikiem wybranym przez załogę do reprezentowania jej interesów.
 
-6. W przypadku nieuzgodnienia wykonania obowiàzku, októrym wust. 1, wterminie 30 dni od dnia przekazania propozycji sposobu jego wykonania, decyzj´ podejmuje Êwiadczeniodawca.
+6. W przypadku nieuzgodnienia wykonania obowiązku, októrym wust. 1, wterminie 30 dni od dnia przekazania propozycji sposobu jego wykonania, decyzję podejmuje świadczeniodawca.
 
-7. Wzrost wynagrodzeƒ, którym ust. 1, wpublicznych zak∏adach opieki zdrowotnej prowadzonych formie jednostek bud˝etowych albo zak∏adów W terminie 14 dni od dnia wejÊcia ˝ycie dyrektorzy oddzia∏ów wojewódzkich Funduszu jednostronnie dokonajà zmiany zawartych rok 2006, zgodnie z 3 ust. 1 pkt
+7. Wzrost wynagrodzeń, którym ust. 1, wpublicznych zakładach opieki zdrowotnej prowadzonych formie jednostek budżetowych albo zakładów W terminie 14 dni od dnia wejścia życie dyrektorzy oddziałów wojewódzkich Funduszu jednostronnie dokonają zmiany zawartych rok 2006, zgodnie z 3 ust. 1 pkt
 
-2. Do zmiany nie stosuje si´ przepisu 158 Êwiadczeniach.
+2. Do zmiany nie stosuje się przepisu 158 świadczeniach.
 
 **Art. 5.** Âwiadczeniodawcy, których 1 ust. 1:
 
-**Art. 8.** Przepisy stosuje si´ równie˝ do zawartych przed dniem jej wejÊcia ˝ycie okres d∏u˝szy ni˝ rok wcz´Êci realizowanej wostatnim kwartale 2006 lub roku 2007.
+**Art. 8.** Przepisy stosuje się również do zawartych przed dniem jej wejścia życie okres dłuższy niż rok wczęści realizowanej wostatnim kwartale 2006 lub roku 2007.
 
-**Art. 9.** Wzrost kwoty zobowiàzania, októrej mowa 136 pkt Êwiadczeniach, zgodnie zart. 3 ust. 1, jest pokrywany ze okreÊlonych planie finansowym Funduszu. 2. Przepisu 118 ust. 3 Êwiadczeniach nie stosuje si´ do podzia∏u pomi´dzy oddzia∏y woje2006.
+**Art. 9.** Wzrost kwoty zobowiązania, októrej mowa 136 pkt świadczeniach, zgodnie zart. 3 ust. 1, jest pokrywany ze określonych planie finansowym Funduszu. 2. Przepisu 118 ust. 3 świadczeniach nie stosuje się do podziału pomiędzy oddziały woje2006.
 
-**Art. 10.** Wzrost wynagrodzeƒ uzyskany okresie od dnia 1 stycznia 2006 do dnia wejÊcia w˝ycie ustawy podstawie porozumieƒ zawartych zzak∏adowymi organizacjami zwiàzkowymi lub innymi organizacjami reprezentujàcymi pracowników Êwiadczeniodawcy zalicza si´ poczet wzrostu wynagrodzenia, którym przepisach ustawy.
+**Art. 10.** Wzrost wynagrodzeń uzyskany okresie od dnia 1 stycznia 2006 do dnia wejścia wżycie ustawy podstawie porozumień zawartych zzakładowymi organizacjami związkowymi lub innymi organizacjami reprezentującymi pracowników świadczeniodawcy zalicza się poczet wzrostu wynagrodzenia, którym przepisach ustawy.
 
-**Art. 11.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem pkt 1 za∏àcznika, który wchodzi ˝ycie z dniem 1 stycznia 2007 Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski WSKAèNIKI UDZIA¸U KOSZTÓW PRACY W KOSZTACH POSZCZEGÓLNYCH RODZAJÓW ÂWIADCZE¡ OPIEKI ZDROWOTNEJ W UMOWACH WYKONANYCH W 2005 R. Podstawowa opieka zdrowotna 0,63. 7. Leczenie stomatologiczne 0,72. 2. Ambulatoryjna opieka specjalistyczna 0,59. 3. Lecznictwo szpitalne 0,56. 8. Lecznictwo uzdrowiskowe 0,28.
+**Art. 11.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem pkt 1 załącznika, który wchodzi życie z dniem 1 stycznia 2007 Prezydent Rzeczypospolitej Polskiej: L. Kaczyński WSKAèNIKI UDZIAĘU KOSZTÓW PRACY W KOSZTACH POSZCZEGÓLNYCH RODZAJÓW ÂWIADCZE¡ OPIEKI ZDROWOTNEJ W UMOWACH WYKONANYCH W 2005 R. Podstawowa opieka zdrowotna 0,63. 7. Leczenie stomatologiczne 0,72. 2. Ambulatoryjna opieka specjalistyczna 0,59. 3. Lecznictwo szpitalne 0,56. 8. Lecznictwo uzdrowiskowe 0,28.
 

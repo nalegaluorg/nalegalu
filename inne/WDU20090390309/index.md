@@ -24,9 +24,9 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090390309) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/309/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 8 grudnia 2006r. ofinansowym wsparciu tworzenia lokali socjalnych, mieszkaƒ chronionych, noclegowni domów dla bezdomnych (Dz. U. 251, poz. 1844) wprowadza nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 8 grudnia 2006r. ofinansowym wsparciu tworzenia lokali socjalnych, mieszkań chronionych, noclegowni domów dla bezdomnych (Dz. U. 251, poz. 1844) wprowadza następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 26 paêdziernika 1995 r. oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. 98, poz. 1070, z póên. zm. ) art.30a otrzymuje brzmienie: „Art. 30a. 1. Towarzystwo mo˝e wynajàç lokal mieszkalny powiatowi, gminie lub zwiàzkowi mi´dzygminnemu wcelu:
+**Art. 2.** W ustawie z dnia 26 paêdziernika 1995 r. oniektórych formach popierania budownictwa mieszkaniowego (Dz. U. z 2000 r. 98, poz. 1070, z póên. zm. ) art.30a otrzymuje brzmienie: ŃArt. 30a. 1. Towarzystwo może wynająć lokal mieszkalny powiatowi, gminie lub związkowi międzygminnemu wcelu:
 
-**Art. 3.** Do przedsi´wzi´ç, realizacj´ których, Art. 6.Ustawa wchodzi w˝ycie zdniem kwietnia zgodnie zart.9 ustawy zmienianej wart.1, zosta∏ z∏o- 2009r. ˝ony wniosek ofinansowe wsparcie przed dniem wejÊcia w˝ycie niniejszej ustawy, stosuje przepisy dotychczasowe, zzastrze˝eniem art.4. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 3.** Do przedsięwzięć, na realizację których, Art. 6.Ustawa wchodzi wżycie zdniem 1 kwietnia zgodnie zart.9 ustawy zmienianej wart.1, został zło- 2009r. żony wniosek ofinansowe wsparcie przed dniem wejścia wżycie niniejszej ustawy, stosuje przepisy dotychczasowe, zzastrzeżeniem art.4. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

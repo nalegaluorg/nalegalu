@@ -28,78 +28,78 @@ domain: null
 
 **Art. 82b.**
 
-1. Wyró˝nia si´ nast´pujàce typy sk∏adowisk podziemnych:
+1. Wyróżnia się następujące typy składowisk podziemnych:
 
-- **1)** sk∏adowisko podziemne odpadów niebezpiecznych,
-- **2)** sk∏adowisko podziemne odpadów oboj´tnych,
-- **3)** sk∏adowisko podziemne odpadów innych ni˝ niebezpieczne ioboj´tne.
+- **1)** składowisko podziemne odpadów niebezpiecznych,
+- **2)** składowisko podziemne odpadów obojętnych,
+- **3)** składowisko podziemne odpadów innych niż niebezpieczne iobojętne.
 
-2. Minister w∏aÊciwy do spraw Êrodowiska okreÊli, drodze rozporzàdzenia, szczegó∏owe wymagania, jakim powinny odpowiadaç poszczególne typy sk∏adowisk podziemnych zakresie lokalizacji, eksploatacji i zamkni´cia oraz zakres, sposób i warunki prowadzenia monitoringu tych sk∏adowisk, uwzgl´dniajàc uwarunkowania geologiczne.
+2. Minister właściwy do spraw środowiska określi, drodze rozporządzenia, szczegółowe wymagania, jakim powinny odpowiadać poszczególne typy składowisk podziemnych zakresie lokalizacji, eksploatacji i zamknięcia oraz zakres, sposób i warunki prowadzenia monitoringu tych składowisk, uwzględniając uwarunkowania geologiczne.
 
 **Art. 82c.**
 
-1. Zabrania si´ sk∏adowania górotworze, tym podziemnych wyrobiskach górniczych, odpadów:
+1. Zabrania się składowania górotworze, tym podziemnych wyrobiskach górniczych, odpadów:
 
-- **1)** wyst´pujàcych postaci ciek∏ej, tym odpadów zawierajàcych wod´ iloÊci powy˝ej 95 % masy ca∏kowitej, z wy∏àczeniem szlamów,
-- **2)** o w∏aÊciwoÊciach wybuchowych, ˝ràcych, utleniajàcych, wysoce ∏atwopalnych lub ∏atwopalnych,
+- **1)** występujących postaci ciekłej, tym odpadów zawierających wodę ilości powyżej 95 % masy całkowitej, z wyłączeniem szlamów,
+- **2)** o właściwościach wybuchowych, żrących, utleniających, wysoce łatwopalnych lub łatwopalnych,
 - **3)** zakaênych medycznych i zakaênych weterynaryjnych,
-- **4)** powstajàcych wwyniku prac naukowo-badawczych, rozwojowych lub dzia∏alnoÊci dydaktycznej, które nie sà zidentyfikowane lub sà nowe iktórych oddzia∏ywanie na Êrodowisko jest nieznane,
-- **5)** takich jak opony, z wy∏àczeniem opon rowerowych iopon oÊrednicy zewn´trznej wi´kszej ni˝ 1 400 mm,
-- **6)** innych, które warunkach sk∏adozmianom fizycznym, chemicznym lub biologicznym.
+- **4)** powstających wwyniku prac naukowo-badawczych, rozwojowych lub działalności dydaktycznej, które nie są zidentyfikowane lub są nowe iktórych oddziaływanie na środowisko jest nieznane,
+- **5)** takich jak opony, z wyłączeniem opon rowerowych iopon ośrednicy zewnętrznej większej niż 1 400 mm,
+- **6)** innych, które warunkach składozmianom fizycznym, chemicznym lub biologicznym.
 
-2. Do odpadów, októrych mowa wust. 1 pkt 6, zalicza si´ odpady:
+2. Do odpadów, októrych mowa wust. 1 pkt 6, zalicza się odpady:
 
-- **1)** które same lub pojemniki, wktórych sà sk∏adowane, mogà wchodziç warunkach sk∏adowania reakcje z wodà lub ska∏à macierzystà, prowadzàce do zmiany ich obj´toÊci, powstania samozapalnych, toksycznych lub wybuchowych substancji lub gazów lub innych reakcji zagra˝ajàcych bezpieczeƒstwu eksploatacji lub nienaruszalnoÊci bariery geologicznej,
-- **2)** ulegajàce biodegradacji,
+- **1)** które same lub pojemniki, wktórych są składowane, mogą wchodzić warunkach składowania reakcje z wodą lub skałą macierzystą, prowadzące do zmiany ich objętości, powstania samozapalnych, toksycznych lub wybuchowych substancji lub gazów lub innych reakcji zagrażających bezpieczeństwu eksploatacji lub nienaruszalności bariery geologicznej,
+- **2)** ulegające biodegradacji,
 - **3)** o ostrym zapachu,
-- **4)** mogàce wytwarzaç mieszanki gazowo-powietrzne o w∏aÊciwoÊciach toksycznych lub wybuchowych,
-- **5)** nieodpowiadajàce warunkom geomechanicznym ze wzgl´du na niewystarczajàcà stabilnoÊç,
-- **6)** które sà samozapalne lub podatne na samozap∏on danych warunkach sk∏adowania, produkty gazowe,
-- **7)** lotne oraz pochodzàce ze zbierania postaci nieokreÊlonych mieszanin.
+- **4)** mogące wytwarzać mieszanki gazowo-powietrzne o właściwościach toksycznych lub wybuchowych,
+- **5)** nieodpowiadające warunkom geomechanicznym ze względu na niewystarczającą stabilność,
+- **6)** które są samozapalne lub podatne na samozapłon danych warunkach składowania, produkty gazowe,
+- **7)** lotne oraz pochodzące ze zbierania postaci nieokreślonych mieszanin.
 
-3. Zabrania si´ rozcieƒczania lub sporzàdzania mieszanin odpadów ze sobà lub z innymi substancjami lub przedmiotami celu spe∏nienia kryteriów dopuszczenia odpadów do sk∏adowania na sk∏adowiskach podziemnych.
+3. Zabrania się rozcieńczania lub sporządzania mieszanin odpadów ze sobą lub z innymi substancjami lub przedmiotami celu spełnienia kryteriów dopuszczenia odpadów do składowania na składowiskach podziemnych.
 
-4. Odpady powinny byç sk∏adowane sposób selektywny. Dopuszcza si´ sk∏adowanie okreÊlonych rodzajów odpadów sposób nieselektywny wania górotworze, tym pod(mieszanie), je˝eli wyniku takiego sk∏adowania nie nastàpi zwi´kszenie negatywnego oddzia∏ywania tych odpadów na Êrodowisko lub bezpieczeƒstwo sk∏adowania.
+4. Odpady powinny być składowane sposób selektywny. Dopuszcza się składowanie określonych rodzajów odpadów sposób nieselektywny wania górotworze, tym pod(mieszanie), jeżeli wyniku takiego składowania nie nastąpi zwiększenie negatywnego oddziaływania tych odpadów na środowisko lub bezpieczeństwo składowania.
 
-5. Minister w∏aÊciwy do spraw gospodarki wporozumieniu zministrem w∏aÊciwym do spraw Êrodowiska, kierujàc si´ w∏aÊciwoÊciami odpadów oraz potrzebà zapewnienia w∏aÊciwego post´powania z odpadami, mo˝e okreÊliç, drodze rozporzàdzenia, kryteria oraz procedury dopuszczania odpadów na sk∏adowiska podziemne.
+5. Minister właściwy do spraw gospodarki wporozumieniu zministrem właściwym do spraw środowiska, kierując się właściwościami odpadów oraz potrzebą zapewnienia właściwego postępowania z odpadami, może określić, drodze rozporządzenia, kryteria oraz procedury dopuszczania odpadów na składowiska podziemne.
 
-6. Minister w∏aÊciwy do spraw gospodarki wporozumieniu zministrem w∏aÊciwym do spraw Êrodowiska, kierujàc si´ w∏aÊciwoÊciami odpadów, mo˝e dowane sposób nieselektywny na sk∏adowiskach podziemnych.
+6. Minister właściwy do spraw gospodarki wporozumieniu zministrem właściwym do spraw środowiska, kierując się właściwościami odpadów, może dowane sposób nieselektywny na składowiskach podziemnych.
 
-**Art. 82d.** Przedsi´biorca, który prowadzi dzia∏alnoÊç zakresie sk∏adowania odpadów górotworze, tym podziemnych wyrobiskach górniczych, jest obowiàzany zatrudniaç osob´ posiadajàcà Êwiadectwo stwierdzajàce kwalifikacje zakresie gospodarowania odpadami, wydane na podstawie art. 49 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. 62, poz. 628, z póên. zm. ).
+**Art. 82d.** Przedsiębiorca, który prowadzi działalność zakresie składowania odpadów górotworze, tym podziemnych wyrobiskach górniczych, jest obowiązany zatrudniać osobę posiadającą świadectwo stwierdzające kwalifikacje zakresie gospodarowania odpadami, wydane na podstawie art. 49 ustawy z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. 62, poz. 628, z póên. zm. ).
 
 **Art. 82e.**
 
-1. Do sk∏adowania odpadów górotworze, tym podziemnych wyrobiskach górniczych, stosuje si´ odpowiednio przepisy art. 56—58, art. 59 1 pkt 1—5 oraz art. 61 ustawy z dnia 27 kwietnia 2001 r. o odpadach.
+1. Do składowania odpadów górotworze, tym podziemnych wyrobiskach górniczych, stosuje się odpowiednio przepisy art. 56—58, art. 59 1 pkt 1—5 oraz art. 61 ustawy z dnia 27 kwietnia 2001 r. o odpadach.
 
-2. Do sk∏adowania odpadów górotworze, tym podziemnych wyrobipodziemnych wyrobiskach górniczych,
+2. Do składowania odpadów górotworze, tym podziemnych wyrobipodziemnych wyrobiskach górniczych,
 
-- **3)** sk∏adowania odpadów górotworze, tym podziemnych wyrobiskach górniczych.
+- **3)** składowania odpadów górotworze, tym podziemnych wyrobiskach górniczych.
 
-2. Op∏at´, o której mowa 1 pkt 1, ustala si´ jako iloczyn stawki op∏aty iiloÊci kilometrów kwadratowych terenu, na którym jest prowadzona dzia∏alnoÊç. WysokoÊç op∏aty oraz terminy i sposób jej wniesienia ustala si´ koncesji. Kopie dowodów wniesionych op∏at przedsi´biorca przedstawia niezw∏ocznie organowi koncesyjnemu i podmiotom okreÊlonym art. 86.
+2. Opłatę, o której mowa 1 pkt 1, ustala się jako iloczyn stawki opłaty iilości kilometrów kwadratowych terenu, na którym jest prowadzona działalność. Wysokość opłaty oraz terminy i sposób jej wniesienia ustala się koncesji. Kopie dowodów wniesionych opłat przedsiębiorca przedstawia niezwłocznie organowi koncesyjnemu i podmiotom określonym art. 86.
 
-3. Stawka op∏aty za dzia∏alnoÊç polegajàcà na poszukiwaniu z∏ó˝ kopalin dla poszczególnych grup kopalin za kilometr kwadratowy wynosi:
+3. Stawka opłaty za działalność polegającą na poszukiwaniu złóż kopalin dla poszczególnych grup kopalin za kilometr kwadratowy wynosi:
 
-- **1)** kopaliny energetyczne: skach górniczych, stosuje si´ odpowiednio przepisy o ruchu zak∏adu gór- a) ropa naftowa, gaz ziemny i meniczego. tan zw´gla kamiennego 100 z∏,
+- **1)** kopaliny energetyczne: skach górniczych, stosuje się odpowiednio przepisy o ruchu zakładu gór- a) ropa naftowa, gaz ziemny i meniczego. tan zwęgla kamiennego 100 zł,
 
-**Art. 82f.** Przepisów niniejszego dzia∏u nie stosuje b) w´giel kamienny 500 z∏, si´ do sk∏adowania górotworze, tym c) w´giel brunatny 200 z∏, podziemnych wyrobiskach górniczych: 2) rudy metali i metale stanie rodzi1) niezanieczyszczonej gleby, mym 100 z∏,
+**Art. 82f.** Przepisów niniejszego działu nie stosuje b) węgiel kamienny 500 zł, się do składowania górotworze, tym c) węgiel brunatny 200 zł, podziemnych wyrobiskach górniczych: 2) rudy metali i metale stanie rodzi1) niezanieczyszczonej gleby, mym 100 zł,
 
-**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. 62, poz. 628, zpóên. zm. nia odpadów górotworze, tym podziemnych ) wprowa- wyrobiskach górniczych, i nie zatrudnia osoby posiadza si´ nast´pujàce zmiany: dajàcej Êwiadectwo stwierdzajàce kwalifikacje zakresie gospodarowania odpadami, jest obowiàzany
+**Art. 2.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. 62, poz. 628, zpóên. zm. nia odpadów górotworze, tym podziemnych ) wprowa- wyrobiskach górniczych, i nie zatrudnia osoby posiadza się następujące zmiany: dającej świadectwo stwierdzające kwalifikacje zakresie gospodarowania odpadami, jest obowiązany
 
 **Art. 3.**
 
-1. Organ koncesyjny mo˝e zurz´du, bez odszkodowania, zmieniç koncesj´ na sk∏adowanie odpadów górotworze, tym podziemnych wyrobiskach górniczych, dostosowujàc jà do wymagaƒ wynikajàcych z ustawy.
+1. Organ koncesyjny może zurzędu, bez odszkodowania, zmienić koncesję na składowanie odpadów górotworze, tym podziemnych wyrobiskach górniczych, dostosowując ją do wymagań wynikających z ustawy.
 
-2. W przypadku gdy nie jest mo˝liwe dostosowanie sk∏adowiska podziemnego do wymagaƒ wynikajàcych z ustawy, koncesja na podziemne sk∏adowanie wygasa z dniem 30 czerwca 2009 r.
+2. W przypadku gdy nie jest możliwe dostosowanie składowiska podziemnego do wymagań wynikających z ustawy, koncesja na podziemne składowanie wygasa z dniem 30 czerwca 2009 r.
 
-3. W przypadku, o którym mowa 2, organ koncesyjny stwierdza zurz´du wdrodze decyzji wygaÊni´cie koncesji.
+3. W przypadku, o którym mowa 2, organ koncesyjny stwierdza zurzędu wdrodze decyzji wygaśnięcie koncesji.
 
-**Art. 4.** Przedsi´biorca, który dniu wejÊcia ˝ycie ustawy prowadzi dzia∏alnoÊç wzakresie sk∏adowaop∏aty, dostosowujàc je do wymagaƒ art. 85 ustawy, 1 2 3 4 5 „54 Wody termalne m o której mowa art. 1, brzmieniu nadanym niniejszà ustawà. 3. Organ koncesyjny zurz´du, bez odszkodowania, zmieni koncesje udzielone na dzia∏alnoÊç okreÊlonà art. 15 1 pkt 3 ustawy, o której mowa art. 1, zktórych wynika obowiàzek uiszczania op∏aty okreÊlonej kwotowo ipodzielonej na raty, dostosowujàc je do wymagaƒ art. 85 ustawy, o której mowa art. 1, brzmieniu nadanym niniejszà ustawà. 4. Raty, o których mowa 3, uiszczone do dnia wejÊcia w˝ycie ustawy, zalicza si´ na poczet przysz∏ych op∏at wynikajàcych z art. 85 ustawy, o której mowa art. 1, brzmieniu nadanym niniejszà ustawà.
+**Art. 4.** Przedsiębiorca, który dniu wejścia życie ustawy prowadzi działalność wzakresie składowaopłaty, dostosowując je do wymagań art. 85 ustawy, 1 2 3 4 5 Ń54 Wody termalne m o której mowa art. 1, brzmieniu nadanym niniejszą ustawą. 3. Organ koncesyjny zurzędu, bez odszkodowania, zmieni koncesje udzielone na działalność określoną art. 15 1 pkt 3 ustawy, o której mowa art. 1, zktórych wynika obowiązek uiszczania opłaty określonej kwotowo ipodzielonej na raty, dostosowując je do wymagań art. 85 ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą. 4. Raty, o których mowa 3, uiszczone do dnia wejścia wżycie ustawy, zalicza się na poczet przyszłych opłat wynikających z art. 85 ustawy, o której mowa art. 1, brzmieniu nadanym niniejszą ustawą.
 
-**Art. 6.** Decyzje, o których mowa art. 74 4 ustawy, o której mowa art. 1, wydane przed dniem wejÊcia w˝ycie ustawy, pozostajà wmocy przez okres 5 lat od dnia wejÊcia ˝ycie ustawy.
+**Art. 6.** Decyzje, o których mowa art. 74 4 ustawy, o której mowa art. 1, wydane przed dniem wejścia wżycie ustawy, pozostają wmocy przez okres 5 lat od dnia wejścia życie ustawy.
 
-**Art. 7.** Przepisu art. 75anie stosuje si´ do osób kierownictwa oraz specjalistów wykonujàcych czynnoÊci zakresie ratownictwa górniczego, zatrudnionych wdniu wejÊcia w˝ycie ustawy wpodmiotach zawodowo trudniàcych si´ wykonywaniem czynnoÊci zakresie ratownictwa górniczego.
+**Art. 7.** Przepisu art. 75anie stosuje się do osób kierownictwa oraz specjalistów wykonujących czynności zakresie ratownictwa górniczego, zatrudnionych wdniu wejścia wżycie ustawy wpodmiotach zawodowo trudniących się wykonywaniem czynności zakresie ratownictwa górniczego.
 
-**Art. 8.** Og∏oszenie tekstu jednolitego ustawy Prawo geologiczne i górnicze nastàpi terminie 6 miesi´cy od dnia og∏oszenia niniejszej ustawy.
+**Art. 8.** Ogłoszenie tekstu jednolitego ustawy Prawo geologiczne i górnicze nastąpi terminie 6 miesięcy od dnia ogłoszenia niniejszej ustawy.
 
-**Art. 9.** Ustawa wchodzi ˝ycie z dniem 1 lipca 2005 r. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 0,25 0,75” ———————
+**Art. 9.** Ustawa wchodzi życie z dniem 1 lipca 2005 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 0,25 0,75” ———————
 

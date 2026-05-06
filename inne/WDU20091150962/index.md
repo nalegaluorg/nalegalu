@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091150962) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/962/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 22 maja 2003 r. o dzia∏alnoÊci ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 22 maja 2003 r. o działalności ubezpieczeniowej (Dz. U. Nr 124, poz. 1151, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz ospó∏kach publicznych (Dz. U. Nr 184, poz. 1539, zpóên. zm. ) wart. 69 ust. 1otrzymuje brzmienie: „1. Kto:
+**Art. 2.** W ustawie z dnia 29 lipca 2005 r. o ofercie publicznej i warunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz ospółkach publicznych (Dz. U. Nr 184, poz. 1539, zpóên. zm. ) wart. 69 ust. 1otrzymuje brzmienie: Ń1. Kto:
 
-**Art. 3.** Do post´powaƒ wszcz´tych na podstawie art. 35 i36 ustawy, októrej mowa wart. 1, iniezakoƒczonych do dnia wejÊcia w˝ycie niniejszej ustawy stosuje si´ przepisy dotychczasowe.
+**Art. 3.** Do postępowań wszczętych na podstawie art. 35 i36 ustawy, októrej mowa wart. 1, iniezakończonych do dnia wejścia wżycie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 4.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. ——————— Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 962 USTAWA zdnia 18 czerwca 2009 r. ozmianie ustawy odzia∏alnoÊci ubezpieczeniowej oraz ustawy oofercie publicznej iwarunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz ospó∏kach publicznych ——————— w w w . r c l . o g v . p l
+**Art. 4.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. ——————— Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 962 USTAWA zdnia 18 czerwca 2009 r. ozmianie ustawy odziałalności ubezpieczeniowej oraz ustawy oofercie publicznej iwarunkach wprowadzania instrumentów finansowych do zorganizowanego systemu obrotu oraz ospółkach publicznych ——————— w w w . r c l . o g v . p l
 

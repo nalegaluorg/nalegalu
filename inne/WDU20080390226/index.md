@@ -24,13 +24,13 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20080390226) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/226/text.pdf) |
 
-**Art. 1.** Akademii Medycznej wBia∏ymstoku nadaje Art. 2. Ustawa wchodzi w ˝ycie po up∏ywie 14 si´ nazw´ „Uniwersytet Medyczny w Bia∏ymstoku”. od dnia og∏oszenia. 224 USTAWA z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej w Bia∏ymstoku nazwy „Uniwersytet Medyczny w Bia∏ymstoku” Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 225 USTAWA z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej im. prof. Feliksa Skubiszewskiego w Lublinie nazwy „Uniwersytet Medyczny w Lublinie”
+**Art. 1.** Akademii Medycznej wBiałymstoku nadaje Art. 2. Ustawa wchodzi w życie po upływie 14 się nazwę ŃUniwersytet Medyczny w Białymstoku”. od dnia ogłoszenia. 224 USTAWA z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej w Białymstoku nazwy ŃUniwersytet Medyczny w Białymstoku” Prezydent Rzeczypospolitej Polskiej: L. Kaczyński Prezydent Rzeczypospolitej Polskiej: L. Kaczyński Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 225 USTAWA z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej im. prof. Feliksa Skubiszewskiego w Lublinie nazwy ŃUniwersytet Medyczny w Lublinie”
 
-**Art. 1.** Akademii Medycznej im. prof. Feliksa Sku- Art. 2. Ustawa wchodzi w ˝ycie po up∏ywie 14 biszewskiego wLublinie nadaje si´ nazw´ „Uniwersy- od dnia og∏oszenia. tet Medyczny w Lublinie”. 226 USTAWA z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej w Warszawie nazwy „Warszawski Uniwersytet Medyczny”
+**Art. 1.** Akademii Medycznej im. prof. Feliksa Sku- Art. 2. Ustawa wchodzi w życie po upływie 14 biszewskiego wLublinie nadaje się nazwę ŃUniwersy- od dnia ogłoszenia. tet Medyczny w Lublinie”. 226 USTAWA z dnia 23 stycznia 2008 r. o nadaniu Akademii Medycznej w Warszawie nazwy ŃWarszawski Uniwersytet Medyczny”
 
-**Art. 1.** Akademii Medycznej w Warszawie nadaje Art. 2. Ustawa wchodzi w ˝ycie po up∏ywie 14 si´ nazw´ „Warszawski Uniwersytet Medyczny”. od dnia og∏oszenia. 227 USTAWA z dnia 23 stycznia 2008 r. o nadaniu nowej nazwy Akademii Âwi´tokrzyskiej im. Jana Kochanowskiego w Kielcach
+**Art. 1.** Akademii Medycznej w Warszawie nadaje Art. 2. Ustawa wchodzi w życie po upływie 14 się nazwę ŃWarszawski Uniwersytet Medyczny”. od dnia ogłoszenia. 227 USTAWA z dnia 23 stycznia 2008 r. o nadaniu nowej nazwy Akademii Âwiętokrzyskiej im. Jana Kochanowskiego w Kielcach
 
-**Art. 1.** Akademii Âwi´tokrzyskiej im. Jana Kochanowskiego wKielcach nadaje si´ nazw´ „Uniwersytet Humanistyczno-Przyrodniczy Jana Kochanowskiego
+**Art. 1.** Akademii Âwiętokrzyskiej im. Jana Kochanowskiego wKielcach nadaje się nazwę ŃUniwersytet Humanistyczno-Przyrodniczy Jana Kochanowskiego
 
-**Art. 2.** Ustawa wchodzi w ˝ycie po up∏ywie 14 od dnia og∏oszenia. w Kielcach”. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 2.** Ustawa wchodzi w życie po upływie 14 od dnia ogłoszenia. w Kielcach”. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

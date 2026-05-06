@@ -24,21 +24,21 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082061289) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1289/text.pdf) |
 
-**Art. 1.** W ustawie 8 wrzeÊnia 2000 o komercjalizacji, restrukturyzacji prywatyzacji przedsi´biorstwa paƒstwowego „Polskie Koleje Paƒstwowe” (Dz. U. 84, 948, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie 8 września 2000 o komercjalizacji, restrukturyzacji prywatyzacji przedsiębiorstwa państwowego ŃPolskie Koleje Państwowe” (Dz. U. 84, 948, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 18b.** Linie kolejowe nieb´dàce liniami o znaczeniu paƒstwowym zb´dne dla dzia∏alnoÊci PLK SA mogà byç przez PLK SA albo PKPSA wporozumieniu zPLKSA, za zgodà ministra w∏aÊciwego do spraw transportu, sprzedawane przedsi´biorcom w trybie okreÊlonym w przepisach ustawy 30 sierpnia 1996 o komercjalizacji prywatyzacji (Dz. U. 2002 171, 1397, póên. zm. ), zzastrze˝eniem art. 18a.
+**Art. 18b.** Linie kolejowe niebędące liniami o znaczeniu państwowym zbędne dla działalności PLK SA mogą być przez PLK SA albo PKPSA wporozumieniu zPLKSA, za zgodą ministra właściwego do spraw transportu, sprzedawane przedsiębiorcom w trybie określonym w przepisach ustawy 30 sierpnia 1996 o komercjalizacji prywatyzacji (Dz. U. 2002 171, 1397, póên. zm. ), zzastrzeżeniem art. 18a.
 
-**Art. 18c.** Przy wyra˝aniu zgody, o której mowa w art. 18a 18b, minister w∏aÊciwy do spraw transportu bierze pod uwag´ polityk´ paƒstwa w zakresie infrastruktury kolejowej.”;
+**Art. 18c.** Przy wyrażaniu zgody, o której mowa w art. 18a 18b, minister właściwy do spraw transportu bierze pod uwagę politykę państwa w zakresie infrastruktury kolejowej.”;
 
-**Art. 20c.** Finansowanie kosztów zwiàzanych ze zbyciem akcji lub udzia∏ów spó∏ek, o których mowa w art. 14 19 ustawy, oraz akcji lub udzia∏ów nale˝àcych do PKPSA wspó∏kach wykonujàcych przewozy pasa˝erskie przewozy towarowe na linii szerokotorowej wpisanych do rejestru przed dniem wpisania do rejestru PKP SA, na zasadach okreÊlonych przepisami dzia∏u IVrozdzia∏u 1 ustawy, o której mowa w art. 2 6, mo˝e odbywaç si´ ze Êrodków:
+**Art. 20c.** Finansowanie kosztów związanych ze zbyciem akcji lub udziałów spółek, o których mowa w art. 14 19 ustawy, oraz akcji lub udziałów należących do PKPSA współkach wykonujących przewozy pasażerskie przewozy towarowe na linii szerokotorowej wpisanych do rejestru przed dniem wpisania do rejestru PKP SA, na zasadach określonych przepisami działu IVrozdziału 1 ustawy, o której mowa w art. 2 6, może odbywać się ze środków:
 
-**Art. 74b.** Spó∏ki, o których mowa w art. 74a, wykupujà dla emerytów irencistów by∏ych pracowników PKP ich rodzin uprawnienia do ulgowych kolejowych Êwiadczeƒ przejazdowych, na zasadach okreÊlonych w zak∏adowym uk∏adzie zbiorowym obowiàzujàcym wspó∏ce.”. ——————— zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 74b.** Spółki, o których mowa w art. 74a, wykupują dla emerytów irencistów byłych pracowników PKP ich rodzin uprawnienia do ulgowych kolejowych świadczeń przejazdowych, na zasadach określonych w zakładowym układzie zbiorowym obowiązującym współce.”. ——————— zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** Do osób, które na podstawie art. 43 1 mowa wart. 2, zachowujà moc do wejÊcia w˝ycie przepisów wykonawczych wydanych na podstawie art. 17a 11 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszà ustawà, nie d∏u˝ej jednak, ni˝ przez okres 6 miesi´cy od wejÊcia w˝ycie niniejszej ustawy.
+**Art. 3.** Do osób, które na podstawie art. 43 1 mowa wart. 2, zachowują moc do wejścia wżycie przepisów wykonawczych wydanych na podstawie art. 17a 11 ustawy, o której mowa w art. 2, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak, niż przez okres 6 miesięcy od wejścia wżycie niniejszej ustawy.
 
-**Art. 5.** Przepisy wydane na postawie art. 19 5 ustawy 30 sierpnia 1996 o komercjalizacji prywatyzacji (Dz. U. 2002 171, 1397, póên. zm. w ˝ycie przepisów wydanych na podstawie art. 40 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszà ustawà, nie d∏u˝ej jednak ni˝ przez okres 12 miesi´cy od wejÊcia w ˝ycie niniejszej ustawy.
+**Art. 5.** Przepisy wydane na postawie art. 19 5 ustawy 30 sierpnia 1996 o komercjalizacji prywatyzacji (Dz. U. 2002 171, 1397, póên. zm. w życie przepisów wydanych na podstawie art. 40 3 ustawy wymienionej w art. 1, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez okres 12 miesięcy od wejścia w życie niniejszej ustawy.
 
-**Art. 6.** Przepisów art. 2 pkt 6 nie stosuje si´ do obliczania op∏at za korzystanie infrastruktury kolejowej w okresie obowiàzywania rozk∏adu jazdy pociàgów 2008/2009 chyba, ˝e zmiana b´dzie powodo) stosuje si´ do sposobu trybu orga- wa∏a obni˝enie stawek jednostkowych op∏aty podsta——————— wowej.
+**Art. 6.** Przepisów art. 2 pkt 6 nie stosuje się do obliczania opłat za korzystanie infrastruktury kolejowej w okresie obowiązywania rozkładu jazdy pociągów 2008/2009 chyba, że zmiana będzie powodo) stosuje się do sposobu trybu orga- wała obniżenie stawek jednostkowych opłaty podsta——————— wowej.
 
-**Art. 7.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 7.** Ustawa wchodzi wżycie po upływie 14 dni od ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

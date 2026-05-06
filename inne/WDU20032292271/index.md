@@ -24,85 +24,85 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032292271) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2271/text.pdf) |
 
-**Art. 1.** W ustawie dnia paêdziernika 2002 pomocy publicznej dla przedsi´biorców szczególnym znaczeniu dla rynku pracy (Dz. U. 213, 1800 90, 844) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie dnia 30 paêdziernika 2002 pomocy publicznej dla przedsiębiorców szczególnym znaczeniu dla rynku pracy (Dz. U. 213, 1800 90, 844) wprowadza się następujące zmiany:
 
 **Art. 32a.**
 
-1. Restrukturyzacji niektórych publicznoprawnych na szczególnych zasadach, zwanej dalej „restrukturyzacjà na szczególnych zasadach”, podlegajà znane na dzieƒ czerwca nast´pujàce publicznoprawne:
+1. Restrukturyzacji niektórych należności publicznoprawnych na szczególnych zasadach, zwanej dalej Ńrestrukturyzacją na szczególnych zasadach”, podlegają znane na dzień 30 czerwca następujące należności publicznoprawne:
 
-- **1)** tytu∏u podatków wobec bud˝etu „7) spis publicznoprawnych obj´tych paƒstwa, celnych restrukturyzacjà na szczególnych zasadach, wp∏at zysku na rzecz Skarbu Paƒmowa rozdziale 5a; stwa,
-- **8)** wskazanie Operatora, októrym mowa wart. 32e; 2) tytu∏u sk∏adek na ubezpieczenia spo∏eczne cz´Êci finansowanej
-- **9)** wskazanie sk∏adników majàtku, które majà przez p∏atnika, Fundusz Pracy Funprzeniesione na w∏asnoÊç Operatora.”; dusz Gwarantowanych Âwiadczeƒ 27 otrzymuje brzmienie: Pracowniczych,
-- **3)** wobec Funduszu Gwarantowanych „Art. 27. Restrukturyzacja publiczno- Âwiadczeƒ Pracowniczych PaƒUSTAWA dnia 14 listopada zmianie ustawy pomocy publicznej dla przedsi´biorców szczególnym znaczeniu dla rynku pracy zmianie niektórych ustaw 49, 196, póên. zm. ), op∏at za korzystanie ze Êrodowiska rozumieniu przepisów ustawy dnia 27 kwietnia 2001 Prawo ochrony Êrodowiska (Dz. U. 62, 627, póên. zm. ) op∏at za szczególne korzystanie wód rozumieniu przepisów ustawy dnia 24 paêdziernika 1974 Prawo wodne (Dz. U. 38, 230, póên. zm. ) stanowiàcych przychód Narodowego Funduszu Ochrony Ârodowiska Gospodarki Wodnej wojewódzkich, powiatowych gminzaleg∏oÊci podatkowe celne okreÊlone decyzji w∏aÊciwego organu podatkowego, organu celnego lub organu kontroli skarbowej tytu∏u sk∏adek na ubezpieczenia spo∏eczne, sk∏adek na Fundusz Pracy Fundusz Gwarantowanych Âwiadczeƒ Pracowniczych, wp∏at Paƒstwowego Funduszu Rehabilitacji Osób Niepe∏nosprawnych op∏at kar dla Narodowego Funduszu Ochrony Ârodowiska Gospodarki Wodnej, wojewódzkich, powiatowych gminnych funduszy ochrony Êrodonych funduszy ochrony Êrodowiska gospodarki wodnej niezale˝nie tego, na rachunek bankowy którego organu administracji publicznej op∏aty te powinny wp∏acane przez przedsi´biorc´;
-- **5)** tytu∏u administracyjnych kar pieni´˝nych okreÊlonych przepisach ustaw wymienionych pkt 4;
-- **6)** tytu∏u op∏at za u˝ytkowanie wieczyste gruntów Skarbu Paƒstwa wcz´Êci stanowiàcej dochód bud˝etu paƒstwa;
-- **7)** tytu∏u odsetek za zw∏ok´, op∏aty prolongacyjnej, op∏aty dodatkowej, kosztów upomnienia kosztów wiska gospodarki wodnej op∏at za u˝ytkowanie wieczyste gruntów Skarbu Paƒstwa, okreÊlone wyniku post´powania kontrolnego, je˝eli zaleg∏oÊci te okreÊlone jako wynikajàce czynnoÊci prawnych majàcych na celu obejÊcie przepisów podatkowych, nale˝noÊciach celnych, ubezpieczeniach spo∏ecznych lub przepisów dotyczàcych wymiaru poboru tych nale˝noÊci.
+- **1)** tytułu podatków wobec budżetu Ń7) spis zobowiązań publicznoprawnych objętych państwa, należności celnych restrukturyzacją na szczególnych zasadach, wpłat zysku na rzecz Skarbu Pańmowa rozdziale 5a; stwa,
+- **8)** wskazanie Operatora, októrym mowa wart. 32e; 2) tytułu składek na ubezpieczenia społeczne części finansowanej
+- **9)** wskazanie składników majątku, które mają przez płatnika, Fundusz Pracy Funprzeniesione na własność Operatora.”; dusz Gwarantowanych Âwiadczeń 27 otrzymuje brzmienie: Pracowniczych,
+- **3)** wobec Funduszu Gwarantowanych ŃArt. 27. Restrukturyzacja należności publiczno- Âwiadczeń Pracowniczych PańUSTAWA dnia 14 listopada zmianie ustawy pomocy publicznej dla przedsiębiorców szczególnym znaczeniu dla rynku pracy zmianie niektórych ustaw 49, 196, póên. zm. ), opłat za korzystanie ze środowiska rozumieniu przepisów ustawy dnia 27 kwietnia 2001 Prawo ochrony środowiska (Dz. U. 62, 627, póên. zm. ) opłat za szczególne korzystanie wód rozumieniu przepisów ustawy dnia 24 paêdziernika 1974 Prawo wodne (Dz. U. 38, 230, póên. zm. ) stanowiących przychód Narodowego Funduszu Ochrony Ârodowiska Gospodarki Wodnej wojewódzkich, powiatowych gminzaległości podatkowe celne określone decyzji właściwego organu podatkowego, organu celnego lub organu kontroli skarbowej należności tytułu składek na ubezpieczenia społeczne, składek na Fundusz Pracy Fundusz Gwarantowanych Âwiadczeń Pracowniczych, wpłat Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych opłat kar dla Narodowego Funduszu Ochrony Ârodowiska Gospodarki Wodnej, wojewódzkich, powiatowych gminnych funduszy ochrony środonych funduszy ochrony środowiska gospodarki wodnej niezależnie tego, na rachunek bankowy którego organu administracji publicznej opłaty te powinny wpłacane przez przedsiębiorcę;
+- **5)** tytułu administracyjnych kar pieniężnych określonych przepisach ustaw wymienionych pkt 4;
+- **6)** tytułu opłat za użytkowanie wieczyste gruntów Skarbu Państwa wczęści stanowiącej dochód budżetu państwa;
+- **7)** tytułu odsetek za zwłokę, opłaty prolongacyjnej, opłaty dodatkowej, kosztów upomnienia kosztów wiska gospodarki wodnej opłat za użytkowanie wieczyste gruntów Skarbu Państwa, określone wyniku postępowania kontrolnego, jeżeli zaległości te zostały określone jako wynikające czynności prawnych mających na celu obejście przepisów podatkowych, należnościach celnych, ubezpieczeniach społecznych lub przepisów dotyczących wymiaru poboru tych należności.
 
-**Art. 32b.** Znane na dzieƒ czerwca zaleg∏oÊci we wp∏atach sk∏adek na ubezpieczenie emerytalne, sk∏adek na ubezpieczenia spo∏eczne cz´Êci finansowanej przez ubezpieczonego sk∏adek na ubezpieczenie zdrowotne, wraz odsetkami za zw∏ok´, podlegajà sp∏acie przez przedsi´biorc´, który z∏o˝y∏ wniosek, którym mowa 32g 1, terminie 24 miesi´cy dnia wydania decyzji restrukturyzacji.
+**Art. 32b.** Znane na dzień 30 czerwca zaległości we wpłatach składek na ubezpieczenie emerytalne, składek na ubezpieczenia społeczne części finansowanej przez ubezpieczonego składek na ubezpieczenie zdrowotne, wraz odsetkami za zwłokę, podlegają spłacie przez przedsiębiorcę, który złożył wniosek, którym mowa 32g 1, terminie 24 miesięcy dnia wydania decyzji restrukturyzacji.
 
 **Art. 32c.**
 
-1. Restrukturyzacj´ na szczególnych zasadach stosuje si´ odpowiednio nale˝noÊci przedsi´biorców tytu∏u podatkowych stanowiàcych dochody bud˝etów jednostek samorzàdu terytorialnego, je˝eli organ stanowiàcy w∏aÊciwej jednostki samorzàdu terytorialnego podejmie, na wniosek przedsi´biorcy, uchwa∏´ restrukturyzacji tych nale˝noÊci. ——————— hipotekà lub zastawem na rzecz osób trzecich nieb´dàcych organem restrukturyzacyjnym publicznoprawnych, zwanym dalej „Wierzycielem”, stanowiàcego równowartoÊç co najmniej 25% kwoty zg∏oszonych restrukturyzacji.
+1. Restrukturyzację na szczególnych zasadach stosuje się odpowiednio należności przedsiębiorców tytułu zobowiązań podatkowych stanowiących dochody budżetów jednostek samorządu terytorialnego, jeżeli organ stanowiący właściwej jednostki samorządu terytorialnego podejmie, na wniosek przedsiębiorcy, uchwałę restrukturyzacji tych należności. ——————— hipoteką lub zastawem na rzecz osób trzecich niebędących organem restrukturyzacyjnym należności publicznoprawnych, zwanym dalej ŃWierzycielem”, stanowiącego równowartość co najmniej 25% kwoty należności zgłoszonych restrukturyzacji.
 
 **Art. 32e.**
 
-1. Prezes Agencji, przed wskazaniem Operatora decyzji restrukturyzacji, jest obowiàzany uzyskaç zgod´ spó∏ki na pe∏nienie przez nià funkcji Operatora.
+1. Prezes Agencji, przed wskazaniem Operatora decyzji restrukturyzacji, jest obowiązany uzyskać zgodę spółki na pełnienie przez nią funkcji Operatora.
 
-2. Operator nie mo˝e posiadaç, na dzieƒ wydania decyzji restrukturyzacji, zaleg∏oÊci tytu∏u podatków stanowiàcych dochód bud˝etu paƒstwa sk∏adek na ubezpieczenia spo∏eczne.
+2. Operator może posiadać, na dzień wydania decyzji restrukturyzacji, zaległości tytułu podatków stanowiących dochód budżetu państwa składek na ubezpieczenia społeczne.
 
-3. Operatorem mo˝e wy∏àcznie spó∏ka kapita∏owa, której Skarb Paƒstwa lub Agencja posiada 100 % udzia∏ów lub akcji, albo Skarb Paƒstwa iAgencja posiadajà ∏àcznie 100 % udzia∏ów lub akcji.
+3. Operatorem może wyłącznie spółka kapitałowa, której Skarb Państwa lub Agencja posiada 100 % udziałów lub akcji, albo Skarb Państwa iAgencja posiadają łącznie 100 % udziałów lub akcji.
 
 **Art. 32f.**
 
 1. Restrukturyzacja na szczególnych zasadach polega na:
 
-- **1)** przej´ciu przedsi´biorcy przez Operatora:
-    - **a)** przedsi´biorcy, októrych mowa 32a 1 lub 32cust. 1,
-    - **b)** sk∏adników majàtku przedsi´biorcy,
+- **1)** przejęciu przedsiębiorcy przez Operatora:
+    - **a)** zobowiązań przedsiębiorcy, októrych mowa 32a 1 lub 32cust. 1,
+    - **b)** składników majątku przedsiębiorcy,
 
-- **2)** umorzeniu Operatorowi przej´tych przedsi´biorcy na warunkach okreÊlonych wniniejszym rozdziale.
+- **2)** umorzeniu Operatorowi przejętych zobowiązań przedsiębiorcy na warunkach określonych wniniejszym rozdziale.
 
-2. Przej´cie przez Operatora przedsi´biorcy nast´puje mocy prawa zdniem przeniesienia na niego w∏asnoÊci sk∏adników majàtku wed∏ug ich wartoÊci ksi´gowej; ztym dniem wygasajà tak˝e zabezpieczenia tych zobowiàzaƒ na majàtku lub prawach przed3. Przedsi´biorca, sk∏adajàc wniosek, którym mowa 1, jest obowiàzany do∏àczyç niego zmiany wprowadzone planu restrukturyzacji, którym mowa 13 3 pkt 1, zawierajàce:
+2. Przejęcie przez Operatora zobowiązań przedsiębiorcy następuje mocy prawa zdniem przeniesienia na niego własności składników majątku według ich wartości księgowej; ztym dniem wygasają także zabezpieczenia tych zobowiązań na majątku lub prawach przed3. Przedsiębiorca, składając wniosek, którym mowa 1, jest obowiązany dołączyć niego zmiany wprowadzone planu restrukturyzacji, którym mowa 13 3 pkt 1, zawierające:
 
-- **1)** wskazanie sk∏adników majàtku proponowanych przeniesienia na w∏asnoÊç Operatora;
-- **2)** spis publicznoprawnych proponowanych obj´cia restrukturyzacjà na szczególnych zasadach, ze wskazaniem Wierzycieli zabezpieczeƒ tych zobowiàzaƒ;
-- **3)** aktualizacj´ okreÊlenia stanu ekonomicznego przedsi´biorcy, jaki ma osiàgni´ty po przeprowadzeniu post´powania restrukturyzacyjnego; informacj´ podj´ciu uchwa∏y, której mowa 32c 1.
+- **1)** wskazanie składników majątku proponowanych przeniesienia na własność Operatora;
+- **2)** spis zobowiązań publicznoprawnych proponowanych objęcia restrukturyzacją na szczególnych zasadach, ze wskazaniem Wierzycieli zabezpieczeń tych zobowiązań;
+- **3)** aktualizację określenia stanu ekonomicznego przedsiębiorcy, jaki ma osiągnięty po przeprowadzeniu postępowania restrukturyzacyjnego; informację podjęciu uchwały, której mowa 32c 1.
 
 **Art. 32h.**
 
-1. Decyzja restrukturyzacji cz´Êci dotyczàcej restrukturyzacji na szczególnych zasadach wymaga zgody Wierzyciela. Prezes Agencji przekazuje decyzj´ Wierzycielowi iOperatorowi.
+1. Decyzja restrukturyzacji części dotyczącej restrukturyzacji na szczególnych zasadach wymaga zgody Wierzyciela. Prezes Agencji przekazuje decyzję Wierzycielowi iOperatorowi.
 
-2. Wyra˝enie przez Wierzyciela zgody, októrej mowa wust. 1, oznacza zgod´ na wygaÊni´cie ustanowionych przez niego zabezpieczeƒ, mowa 32f 2.
+2. Wyrażenie przez Wierzyciela zgody, októrej mowa wust. 1, oznacza zgodę na wygaśnięcie ustanowionych przez niego zabezpieczeń, mowa 32f 2.
 
 **Art. 32i.**
 
-1. W terminie 9 miesi´cy dnia przej´cia przez Operatora przedsi´biorcy Operator jest obowiàzany przed∏o˝enia Prezesowi Agencji uzgodnionego Wierzycielami planu sp∏aty przej´tych publicznoprawnych wraz ze wskazaniem przewidzianych umorzenia.
+1. W terminie 9 miesięcy dnia przejęcia przez Operatora zobowiązań przedsiębiorcy Operator jest obowiązany przedłożenia Prezesowi Agencji uzgodnionego Wierzycielami planu spłaty przejętych zobowiązań publicznoprawnych wraz ze wskazaniem zobowiązań przewidzianych umorzenia.
 
-2. Plan sp∏aty przej´tych zobowiàzaƒ, októrym mowa wust. 1, atak˝e zakres ich umorzeƒ zatwierdza, drodze detej decyzji, po wykonaniu przez Operatora planu sp∏aty przej´tych przez niego zobowiàzaƒ.
+2. Plan spłaty przejętych zobowiązań, októrym mowa wust. 1, atakże zakres ich umorzeń zatwierdza, drodze detej decyzji, po wykonaniu przez Operatora planu spłaty przejętych przez niego zobowiązań.
 
-5. Do decyzji umorzeniu publicznoprawnych, której mowa 4, przypadku gdy Wierzycielem jest Fundusz Gwarantowanych Âwiadczeƒ Pracowniczych, przepisów 10 3 ustawy dnia 29 grudnia 1993 ochronie roszczeƒ pracowniczych razie niewyp∏acalnoÊci pracodawcy (Dz. U. 2002 9, 85, póên. zm. ) nie stosuje si´.
+5. Do decyzji umorzeniu należności publicznoprawnych, której mowa 4, przypadku gdy Wierzycielem jest Fundusz Gwarantowanych Âwiadczeń Pracowniczych, przepisów 10 3 ustawy dnia 29 grudnia 1993 ochronie roszczeń pracowniczych razie niewypłacalności pracodawcy (Dz. U. 2002 9, 85, póên. zm. ) stosuje się.
 
 **Art. 32j.**
 
-1. Operator przekazuje Wierzycielom Êrodki pieni´˝ne okreÊlone 32i, uzyskane wyniku gospodarowania przej´tym majàtkiem jego zbycia, pomniejszone koszty poniesione tych tytu∏ów.
+1. Operator przekazuje Wierzycielom środki pieniężne określone 32i, uzyskane wyniku gospodarowania przejętym majątkiem jego zbycia, pomniejszone koszty poniesione tych tytułów.
 
-2. Operator dokonuje podzia∏u Êrodków pieni´˝nych, mowa 1, na zaspokojenie przypadajàcych poszczególnym Wierzycielom, proporcjonalnie udzia∏u ka˝dego tych Wierzycieli ogólnej kwocie przej´tych przez niego zobowiàzaƒ.
+2. Operator dokonuje podziału środków pieniężnych, mowa 1, na zaspokojenie zobowiązań przypadających poszczególnym Wierzycielom, proporcjonalnie udziału należności każdego tych Wierzycieli ogólnej kwocie przejętych przez niego zobowiązań.
 
-3. Operator jest obowiàzany prowadzenia odr´bnej ewidencji przychodów wydatków zwiàzanych gospodarowaniem zbyciem przej´tego majàtku.
+3. Operator jest obowiązany prowadzenia odrębnej ewidencji przychodów wydatków związanych gospodarowaniem zbyciem przejętego majątku.
 
 **Art. 32k.**
 
-1. W okresie 12 miesi´cy dnia przej´cia przez Operatora przedcia przez Operatora przedsi´biorcy nabywcy majàtku przej´tego przez Operatora nie stosuje si´ przepisów 112 ustawy dnia 29sierpnia 1997 Ordynacja podatkowa (Dz. U. 137, 926, póên. zm. si´biorcy wobec tego Operatora:
+1. W okresie 12 miesięcy dnia przejęcia przez Operatora zobowiązań przedcia przez Operatora zobowiązań przedsiębiorcy nabywcy majątku przejętego przez Operatora stosuje się przepisów 112 ustawy dnia 29sierpnia 1997 Ordynacja podatkowa (Dz. U. 137, 926, póên. zm. siębiorcy wobec tego Operatora:
 
-- **1)** nie mo˝e og∏oszona upad∏oÊç;
-- **2)** nie stosuje si´ przepisów obowiàzku zg∏oszenia wniosku og∏oszenie upad∏oÊci;
-- **3)** nie wymierza si´ inie pobiera op∏at za korzystanie ze Êrodowiska rozumieniu przepisów ustawy dnia 27 kwietnia 2001 Prawo ochro).
+- **1)** może ogłoszona upadłość;
+- **2)** stosuje się przepisów obowiązku zgłoszenia wniosku ogłoszenie upadłości;
+- **3)** wymierza się inie pobiera opłat za korzystanie ze środowiska rozumieniu przepisów ustawy dnia 27 kwietnia 2001 Prawo ochro).
 
-**Art. 32l.** Wdniu przej´cia przez Operatora sk∏adników majàtku izobowiàzaƒ przedsi´biorcy na zasadach okreÊlonych niniejszym rozdziale wdniu zbycia tego majàtku isp∏aty tych przez Operatora, a tak˝e ich umorzenia trybie 32i 4, nie rozpoznaje si´ przychodów podatkowych kosztów uzyskania przychodów.”.
+**Art. 32l.** Wdniu przejęcia przez Operatora składników majątku izobowiązań przedsiębiorcy na zasadach określonych niniejszym rozdziale wdniu zbycia tego majątku ispłaty tych zobowiązań przez Operatora, a także ich umorzenia trybie 32i 4, rozpoznaje się przychodów podatkowych kosztów uzyskania przychodów.”.
 
-**Art. 2.** Wustawie zdnia 8 stycznia 1993 opodatku towarów us∏ug podatku akcyzowym (Dz. U. 11, 50, póên. zm. ) 7 4 otrzymuje brzmienie: „4. Zwalnia si´ podatku towarów ius∏ug czynnoÊci, mowa 32f 2, 34 1, 35, 36 1 iart. 55 ustawy zdnia paêdziernika 2002 pomocy publicznej dla przedsi´biorców szczególnym znaczeniu dla rynku pracy (Dz. U. 213, 1800 90, 844 229, 2271).”.
+**Art. 2.** Wustawie zdnia 8 stycznia 1993 opodatku towarów usług podatku akcyzowym (Dz. U. 11, 50, póên. zm. ) 7 4 otrzymuje brzmienie: Ń4. Zwalnia się podatku towarów iusług czynności, mowa 32f 2, 34 1, 35, 36 1 iart. 55 ustawy zdnia 30 paêdziernika 2002 pomocy publicznej dla przedsiębiorców szczególnym znaczeniu dla rynku pracy (Dz. U. 213, 1800 90, 844 229, 2271).”.
 
-**Art. 3.** Wustawie zdnia 29 grudnia 1993 oochronie roszczeƒ pracowniczych razie niewyp∏acalnoÊci ——————— upowa˝niç Dyrektora Krajowego Biura Funduszu Funduszem Pracy Funduszem Gwarantowanych Gwarantowanych Âwiadczeƒ Pracowniczych, Âwiadczeƒ Pracowniczych, powsta∏e tytu∏u poboru którym mowa 12 5, wykonywa- przez Zak∏ad Ubezpieczeƒ Spo∏ecznych przekazywania tych czynnoÊci. W odniesieniu nia na te Fundusze sk∏adek nale˝nych za okres dnia g∏ównych sp∏aconych ze Êrodków bud˝etu paƒ- 31 grudnia 1998 stwa sp∏ata nale˝nych odsetek ulega umorzeniu mocy ustawy.”. Art. 6. Ustawa wchodzi ˝ycie po up∏ywie 14 dni ——————— dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 2272 USTAWA dnia 27 listopada zmianie ustawy op∏atach sprawach karnych
+**Art. 3.** Wustawie zdnia 29 grudnia 1993 oochroroszczeń pracowniczych razie niewypłacalności ——————— upoważnić Dyrektora Krajowego Biura Funduszu Funduszem Pracy Funduszem Gwarantowanych Gwarantowanych Âwiadczeń Pracowniczych, Âwiadczeń Pracowniczych, powstałe tytułu poboru którym mowa 12 5, wykonywa- przez Zakład Ubezpieczeń Społecznych przekazywania tych czynności. W odniesieniu należności nia na te Fundusze składek należnych za okres dnia głównych spłaconych ze środków budżetu pań- 31 grudnia 1998 stwa spłata należnych odsetek ulega umorzeniu mocy ustawy.”. Art. 6. Ustawa wchodzi życie po upływie 14 dni ——————— dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 2272 USTAWA dnia 27 listopada zmianie ustawy opłatach sprawach karnych
 
-**Art. 1.** Wustawie zdnia 23 czerwca 1973 oop∏a- kwoty wymierzonej mu grzywny, nie tach sprawach karnych (Dz. U. 1983 49, mniej jednak ni˝ z∏.”; poz.223, 1995 89, 443) wprowadza si´ nast´pujàce zmiany: 3) 5 otrzymuje brzmienie: „Art. 5. Wwypadku gdy sàd odstàpi∏ wymierze1) 2 1 otrzymuje brzmienie: nia kary, odstàpi∏ wymierzenia kary ipo„1. Skazany wpierwszej instancji obowiàzany jest przesta∏ na wymierzeniu Êrodka karnego aluiÊciç op∏at´ razie skazania na kar´ pozba- bo zamiast kary zastosowa∏ na podstawie wienia wolnoÊci: 10 § 4 Kodeksu karnego Êrodek wycho1) 3 miesi´cy 60 z∏, wawczy albo poprawczy, oskar˝ony obowiàzany jest uiÊciç op∏at´ wwysokoÊci z∏.”;
+**Art. 1.** Wustawie zdnia 23 czerwca 1973 oopła- kwoty wymierzonej mu grzywny, tach sprawach karnych (Dz. U. 1983 49, mniej jednak niż 30 zł.”; poz.223, 1995 89, 443) wprowadza się następujące zmiany: 3) 5 otrzymuje brzmienie: ŃArt. 5. Wwypadku gdy sąd odstąpił wymierze1) 2 1 otrzymuje brzmienie: nia kary, odstąpił wymierzenia kary ipoŃ1. Skazany wpierwszej instancji obowiązany jest przestał na wymierzeniu środka karnego aluiścić opłatę razie skazania na karę pozba- bo zamiast kary zastosował na podstawie wienia wolności: 10 § 4 Kodeksu karnego środek wycho1) 3 miesięcy 60 zł, wawczy albo poprawczy, oskarżony obowiązany jest uiścić opłatę wwysokości 30 zł.”;
 

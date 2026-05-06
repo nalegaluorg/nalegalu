@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# „2. Prezes jest centralnym organem administracji rzàdowej.”; Art. 2. Ustawa wchodzi ˝ycie po up∏ywie 14 dni od dnia og∏oszenia.
+# Ń2. Prezes jest centralnym organem administracji rządowej.”; Art. 2. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
 
 | Pole | Wartość |
 |---|---|
@@ -24,31 +24,31 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000310383) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/383/text.pdf) |
 
-b) po ust. 2adodaje ust. 2bwbrzmieniu: „2b. Prezes Rady Ministrów sprawuje nadzór nad dzia∏alnoÊcià Prezesa Urz´du Ochrony Konkurencji iKonsumentów.”; Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 382
+b) po ust. 2adodaje ust. 2bwbrzmieniu: Ń2b. Prezes Rady Ministrów sprawuje nadzór nad działalnością Prezesa Urzędu Ochrony Konkurencji iKonsumentów.”; Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 382
 USTAWA zdnia marca 2000 r.
-ozmianie ustawy oRadzie Ochrony Pami´ci Walk iM´czeƒstwa.
+ozmianie ustawy oRadzie Ochrony Pamięci Walk iMęczeństwa.
 
-**Art. 1.** Wustawie zdnia 21 stycznia 1988 r. oRadzie wych oraz organizacji Êrodowisk nauki, Ochrony Pami´ci Walk i M´czeƒstwa (Dz. U. 2, oÊwiaty, kultury isztuki, atak˝e przedstapoz.2 iz1996 r. 106, 496) wprowadza nast´- wicieli desygnowanych przez Prezydenpujàce zmiany: ta Rzeczypospolitej Polskiej iRad´ Mini1) art. 2 otrzymuje brzmienie: strów. „Art. 2. Rada podlega ministrowi w∏aÊciwemu 2. Przewodniczàcego, wiceprzewodniczàspraw kultury i ochrony dziedzictwa naro- cego isekretarza Rady powo∏uje iodwodowego.”; ∏uje Prezes Rady Ministrów, wniosek ministra w∏aÊciwego spraw kultury
+**Art. 1.** Wustawie zdnia 21 stycznia 1988 r. oRadzie wych oraz organizacji środowisk nauki, Ochrony Pamięci Walk i Męczeństwa (Dz. U. 2, oświaty, kultury isztuki, atakże przedstapoz.2 iz1996 r. 106, 496) wprowadza nastę- wicieli desygnowanych przez Prezydenpujące zmiany: ta Rzeczypospolitej Polskiej iRadę Mini1) art. 2 otrzymuje brzmienie: strów. ŃArt. 2. Rada podlega ministrowi właściwemu 2. Przewodniczącego, wiceprzewodnicząspraw kultury i ochrony dziedzictwa naro- cego isekretarza Rady powołuje iodwodowego.”; łuje Prezes Rady Ministrów, wniosek ministra właściwego spraw kultury
 
-**Art. 1.** Wustawie zdnia 30 sierpnia 1996 r. okomercjalizacji i prywatyzacji przedsi´biorstw paƒstwowych (Dz. U. 118, 561 i 156, 775, z 1997 r. 32, 184, 98, 603, 106, 673, 121, 770, 137, 926 i 141, 945, z 1998 r. 106, 668, z 1999 r. 40, 400 iNr101, poz.1178 oraz z2000 r. 15, 180) wprowyniku komercjalizacji przeznacza bud˝ecie paƒstwa cele zwiàzane z reformà ubezpieczeƒ spo∏ecznych. 2. 5% akcji nale˝àcych Skarbu Paƒstwa wka˝dej ze spó∏ek powsta∏ych wwynisienie majàtek Fundacji rzecz Nauki Polskiej, cele zwiàzane z rozwojem nauki itechnologii polskiej. 4. 2% akcji jednoosobowych spó∏ek Skarbu Paƒstwa przeznacza si´, przez podwy˝szenie kapita∏u Agencji Rozwoju Przemys∏u S.A., restrukturyzacj´ spó∏ek Skarbu Paƒstwa. 5. Rada Ministrów mo˝e, wdrodze rozporzàdzenia, zmniejszyç liczb´ akcji lub wp∏ywów uzyskanych przez bud˝et paƒstwa ze zbycia akcji przeznaczonych cele, o których mowa ust. 2—4, oraz art. 56aust. 1 pkt 1 i3, je˝eli wroku poprzednim nie osiàgni´to planowanych wbud˝ecie paƒstwa wp∏ywów zprywatyzacji. 6. Do gospodarki finansowej Êrodkami, o których mowa ust. 2, stosuje art. 21 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. 155, 1014, z 1999 r. 38, poz.360, 49, 485, 70, 778 i 110, 1255 oraz z 2000 r. 6, 69 iNr12, 136).”;
+**Art. 1.** Wustawie zdnia 30 sierpnia 1996 r. okomercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. 118, 561 i 156, 775, z 1997 r. 32, 184, 98, 603, 106, 673, 121, 770, 137, 926 i 141, 945, z 1998 r. 106, 668, z 1999 r. 40, 400 iNr101, poz.1178 oraz z2000 r. 15, 180) wprowyniku komercjalizacji przeznacza budżecie państwa cele związane z reformą ubezpieczeń społecznych. 2. 5% akcji należących Skarbu Państwa wkażdej ze spółek powstałych wwynisienie majątek Fundacji rzecz Nauki Polskiej, cele związane z rozwojem nauki itechnologii polskiej. 4. 2% akcji jednoosobowych spółek Skarbu Państwa przeznacza się, przez podwyższenie kapitału Agencji Rozwoju Przemysłu S.A., restrukturyzację spółek Skarbu Państwa. 5. Rada Ministrów może, wdrodze rozporządzenia, zmniejszyć liczbę akcji lub wpływów uzyskanych przez budżet państwa ze zbycia akcji przeznaczonych cele, o których mowa ust. 2—4, oraz art. 56aust. 1 pkt 1 i3, jeżeli wroku poprzednim nie osiągnięto planowanych wbudżecie państwa wpływów zprywatyzacji. 6. Do gospodarki finansowej środkami, o których mowa ust. 2, stosuje art. 21 ustawy z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. 155, 1014, z 1999 r. 38, poz.360, 49, 485, 70, 778 i 110, 1255 oraz z 2000 r. 6, 69 iNr12, 136).”;
 
-**Art. 2.** Wustawie zdnia 25 czerwca 1997 r. owykorzystaniu wp∏ywów z prywatyzacji cz´Êci mienia Skarbu Paƒstwa cele zwiàzane zreformà systemu ubezpieczeƒ spo∏ecznych (Dz. U. 106, 673) wprowadza nast´pujàce zmiany:
+**Art. 2.** Wustawie zdnia 25 czerwca 1997 r. owykorzystaniu wpływów z prywatyzacji części mienia Skarbu Państwa cele związane zreformą systemu ubezpieczeń społecznych (Dz. U. 106, 673) wprowadza następujące zmiany:
 
 **Art. 3.**
 
-1. Przepisów art. 56 ust. 3 i 4 oraz art. 56a ust.1 pkt 1 ustawy wymienionej wart. 1, wbrzmieniu nadanym niniejszà ustawà, nie stosuje jednoosobowych spó∏ek Skarbu Paƒstwa, których proces prywatyzacji rozpoczà∏ przed dniem wejÊcia w˝ycie niniejszej ustawy.
+1. Przepisów art. 56 ust. 3 i 4 oraz art. 56a ust.1 pkt 1 ustawy wymienionej wart. 1, wbrzmieniu nadanym niniejszą ustawą, nie stosuje jednoosobowych spółek Skarbu Państwa, których proces prywatyzacji rozpoczął przed dniem wejścia wżycie niniejszej ustawy.
 
-2. Przepisów art. 56aust. 1 pkt 2 ustawy wymienionej art. 1, brzmieniu nadanym niniejszà ustawà, nie stosuje przedsi´biorstw paƒstwowych, je˝eli przed dniem wejÊcia w˝ycie niniejszej ustawy z∏o˝ono wniosek oprywatyzacj´ bezpoÊrednià lub jà rozpocz´to zinicjatywy organu za∏o˝ycielskiego.
+2. Przepisów art. 56aust. 1 pkt 2 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, nie stosuje przedsiębiorstw państwowych, jeżeli przed dniem wejścia wżycie niniejszej ustawy złożono wniosek oprywatyzację bezpośrednią lub ją rozpoczęto zinicjatywy organu założycielskiego.
 
-3. Przepisów art. 56aust. 1 pkt 3 ustawy wymienionej art. 1, brzmieniu nadanym niniejszà ustawà, nie stosuje spó∏ek, których akcje przed dniem wejÊcia w˝ycie niniejszej ustawy:
+3. Przepisów art. 56aust. 1 pkt 3 ustawy wymienionej art. 1, brzmieniu nadanym niniejszą ustawą, nie stosuje spółek, których akcje przed dniem wejścia wżycie niniejszej ustawy:
 
-- **1)** zosta∏y zarezerwowane cele reprywatyzacji,
-- **2)** sà obcià˝one prawami osób trzecich.
+- **1)** zostały zarezerwowane cele reprywatyzacji,
+- **2)** są obciążone prawami osób trzecich.
 
 **Art. 4.**
 
-1. Upowa˝nia ministra w∏aÊciwego spraw Skarbu Paƒstwa sprzeda˝y akcji zgromadzonych przed dniem wejÊcia ˝ycie niniejszej ustawy, zprzeznaczeniem cele zwiàzane zreformà systemu ubezpieczeƒ spo∏ecznych, ido przekazania uzyskanych wp∏ywów te cele.
+1. Upoważnia ministra właściwego spraw Skarbu Państwa sprzedaży akcji zgromadzonych przed dniem wejścia życie niniejszej ustawy, zprzeznaczeniem cele związane zreformą systemu ubezpieczeń społecznych, ido przekazania uzyskanych wpływów te cele.
 
-2. Akcje spó∏ek, nale˝àce przed dniem wejÊcia w˝ycie niniejszej ustawy rezerw mienia Skarbu Paƒstwa podstawie uchwa∏y nr 86 Rady Ministrów z dnia 4 paêdziernika 1993 r. sprawie utworzenia rezerw mienia Skarbu Paƒstwa cele reprywatyzacji (Monitor Polski 52, 482 i z 1994 r. 33, 269), przeznacza cele zwiàzane zzaspokojeniem roszczeƒ by∏ych w∏aÊcicieli mienia przej´tego przez Skarb Paƒstwa.
+2. Akcje spółek, należące przed dniem wejścia wżycie niniejszej ustawy rezerw mienia Skarbu Państwa podstawie uchwały nr 86 Rady Ministrów z dnia 4 paêdziernika 1993 r. sprawie utworzenia rezerw mienia Skarbu Państwa cele reprywatyzacji (Monitor Polski 52, 482 i z 1994 r. 33, 269), przeznacza cele związane zzaspokojeniem roszczeń byłych właścicieli mienia przejętego przez Skarb Państwa.
 
 

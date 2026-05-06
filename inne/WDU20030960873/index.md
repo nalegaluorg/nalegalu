@@ -24,401 +24,416 @@ domain: null
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030960873) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/873/text.pdf) |
 
-DZIA¸I Przepisy ogólne
+DZIAĘI Przepisy ogólne
+Nadzór
 
 **Art. 1.**
 
 1. Ustawa reguluje zasady:
 
-- **1)** prowadzenia dzia∏alnoÊci po˝ytku publicznego przez organizacje pozarzàdowe i korzystania z tej dzia∏alnoÊci przez organy administracji publicznej
-- **2)** uzyskiwania przez organizacje pozarzàdowe statusu organizacji po˝ytku publicznego oraz funkcjonowania organizacji po˝ytku publicznego;
-- **3)** sprawowania nadzoru nad prowadzeniem dzia∏alnoÊci po˝ytku publicznego.
+- **1)** prowadzenia działalności pożytku publicznego przez organizacje pozarządowe i korzystania z tej działalności przez organy administracji publicznej
+- **2)** uzyskiwania przez organizacje pozarządowe statusu organizacji pożytku publicznego oraz funkcjonowania organizacji pożytku publicznego;
+- **3)** sprawowania nadzoru nad prowadzeniem działalności pożytku publicznego.
 
-2. Ustawa reguluje równie˝ warunki wykonywania wcelu wykonywania zadaƒ publicznych; Êwiadczeƒ przez wolontariuszy oraz korzystania ztych Êwiadczeƒ. USTAWA zdnia 24 kwietnia 2003 r. odzia∏alnoÊci po˝ytku publicznego iowolontariacie
+2. Ustawa reguluje również warunki wykonywania wcelu wykonywania zadań publicznych; świadczeń przez wolontariuszy oraz korzystania ztych świadczeń. USTAWA zdnia 24 kwietnia 2003 r. odziałalności pożytku publicznego iowolontariacie
 
-**Art. 2.** Ilekroç wustawie jest mowa o:
+**Art. 2.** Ilekroć wustawie jest mowa o:
 
 **Art. 3.**
 
-1. Dzia∏alnoÊcià po˝ytku publicznego jest dzia∏alnoÊç spo∏ecznie u˝yteczna, prowadzona przez organizacje pozarzàdowe w sferze zadaƒ publicznych okreÊlonych wustawie.
+1. Działalnością pożytku publicznego jest działalność społecznie użyteczna, prowadzona przez organizacje pozarządowe w sferze zadań publicznych określonych wustawie.
 
-2. Organizacjami pozarzàdowymi sà, nieb´dàce jednostkami sektora finansów publicznych, wrozumieniu przepisów ofinansach publicznych, iniedzia∏ajàce w celu osiàgni´cia zysku, osoby prawne lub jednostki nieposiadajàce osobowoÊci prawnej utworzone na podstawie przepisów ustaw, w tym fundacje i stowarzyszenia, zzastrze˝eniem ust. 4.
+2. Organizacjami pozarządowymi są, niebędące jednostkami sektora finansów publicznych, wrozumieniu przepisów ofinansach publicznych, iniedziałające w celu osiągnięcia zysku, osoby prawne lub jednostki nieposiadające osobowości prawnej utworzone na podstawie przepisów ustaw, w tym fundacje i stowarzyszenia, zzastrzeżeniem ust. 4.
 
-3. Dzia∏alnoÊç po˝ytku publicznego mo˝e byç prowadzona tak˝e przez:
+3. Działalność pożytku publicznego może być prowadzona także przez:
 
-- **1)** osoby prawne i jednostki organizacyjne dzia∏ajàce na podstawie przepisów o stosunku Paƒstwa do KoÊcio∏a Katolickiego w Rzeczypospolitej Polskiej, o stosunku Paƒstwa do innych koÊcio∏ów i zwiàzków wyznaniowych oraz o gwarancjach wolnoÊci sumienia iwyznania, je˝eli ich cele statutowe obejmujà prowadzenie dzia∏alnoÊci po˝ytku publicznego;
-- **2)** stowarzyszenia jednostek samorzàdu terytorialnego.
+- **1)** osoby prawne i jednostki organizacyjne działające na podstawie przepisów o stosunku Państwa do Kościoła Katolickiego w Rzeczypospolitej Polskiej, o stosunku Państwa do innych kościołów i związków wyznaniowych oraz o gwarancjach wolności sumienia iwyznania, jeżeli ich cele statutowe obejmują prowadzenie działalności pożytku publicznego;
+- **2)** stowarzyszenia jednostek samorządu terytorialnego.
 
-4. Przepisów dzia∏u II nie stosuje si´ do:
+4. Przepisów działu II nie stosuje się do:
 
 - **1)** partii politycznych;
-- **2)** zwiàzków zawodowych iorganizacji pracodawców;
-- **3)** samorzàdów zawodowych;
-- **4)** fundacji, których jedynym fundatorem jest Skarb Paƒstwa lub jednostka samorzàdu terytorialnego, chyba ˝e:
-    - **a)** przepisy odr´bne stanowià inaczej,
-    - **b)** majàtek tej fundacji nie jest w ca∏oÊci mieniem paƒstwowym, mieniem komunalnym lub mieniem pochodzàcym z finansowania Êrodkami publicznymi w rozumieniu ustawy o finansach publicznych lub
-    - **c)** fundacja prowadzi dzia∏alnoÊç statutowà w za5) fundacji utworzonych przez partie polityczne;
+- **2)** związków zawodowych iorganizacji pracodawców;
+- **3)** samorządów zawodowych;
+- **4)** fundacji, których jedynym fundatorem jest Skarb Państwa lub jednostka samorządu terytorialnego, chyba że:
+    - **a)** przepisy odrębne stanowią inaczej,
+    - **b)** majątek tej fundacji nie jest w całości mieniem państwowym, mieniem komunalnym lub mieniem pochodzącym z finansowania środkami publicznymi w rozumieniu ustawy o finansach publicznych lub
+    - **c)** fundacja prowadzi działalność statutową w za5) fundacji utworzonych przez partie polityczne;
 
-- **6)** spó∏ek dzia∏ajàcych na podstawie przepisów okulturze fizycznej.
+- **6)** spółek działających na podstawie przepisów okulturze fizycznej.
 
-5. Przepisów rozdzia∏u 2 dzia∏u II nie stosuje si´ do zlecania realizacji zadaƒ wzakresie opieki nad Polonià i Polakami za granicà finansowanych ze Êrodków bud˝etu paƒstwa w cz´Êci, której dysponentem jest Szef Kancelarii Senatu.
+5. Przepisów rozdziału 2 działu II nie stosuje się do zlecania realizacji zadań wzakresie opieki nad Polonią i Polakami za granicą finansowanych ze środków budżetu państwa w części, której dysponentem jest Szef Kancelarii Senatu.
 
 **Art. 4.**
 
-1. Sfera zadaƒ publicznych, o której mowa wustawie, obejmuje zadania wzakresie:
+1. Sfera zadań publicznych, o której mowa wustawie, obejmuje zadania wzakresie:
 
-- **1)** pomocy spo∏ecznej, wtym pomocy rodzinom iosobom wtrudnej sytuacji ˝yciowej oraz wyrównywania szans tych rodzin iosób;
-- **2)** dzia∏alnoÊci charytatywnej;
-- **3)** podtrzymywania tradycji narodowej, piel´gnowania polskoÊci oraz rozwoju ÊwiadomoÊci narodowej, obywatelskiej ikulturowej;
-- **4)** dzia∏alnoÊci na rzecz mniejszoÊci narodowych;
+- **1)** pomocy społecznej, wtym pomocy rodzinom iosobom wtrudnej sytuacji życiowej oraz wyrównywania szans tych rodzin iosób;
+- **2)** działalności charytatywnej;
+- **3)** podtrzymywania tradycji narodowej, pielęgnowania polskości oraz rozwoju świadomości narodowej, obywatelskiej ikulturowej;
+- **4)** działalności na rzecz mniejszości narodowych;
 - **5)** ochrony ipromocji zdrowia;
-- **6)** dzia∏ania na rzecz osób niepe∏nosprawnych;
-- **7)** promocji zatrudnienia i aktywizacji zawodowej osób pozostajàcych bez pracy izagro˝onych zwolnieniem zpracy;
-- **8)** upowszechniania i ochrony praw kobiet oraz dzia∏alnoÊç na rzecz równych praw kobiet im´˝czyzn;
-- **9)** dzia∏alnoÊci wspomagajàcej rozwój gospodarczy, wtym rozwój przedsi´biorczoÊci;
-- **10)** dzia∏alnoÊci wspomagajàcej rozwój wspólnot ispo∏ecznoÊci lokalnych;
-- **11)** nauki, edukacji, oÊwiaty iwychowania;
-- **12)** krajoznawstwa oraz wypoczynku dzieci im∏odzie˝y;
+- **6)** działania na rzecz osób niepełnosprawnych;
+- **7)** promocji zatrudnienia i aktywizacji zawodowej osób pozostających bez pracy izagrożonych zwolnieniem zpracy;
+- **8)** upowszechniania i ochrony praw kobiet oraz działalność na rzecz równych praw kobiet imężczyzn;
+- **9)** działalności wspomagającej rozwój gospodarczy, wtym rozwój przedsiębiorczości;
+- **10)** działalności wspomagającej rozwój wspólnot ispołeczności lokalnych;
+- **11)** nauki, edukacji, oświaty iwychowania;
+- **12)** krajoznawstwa oraz wypoczynku dzieci imłodzieży;
 - **13)** kultury, sztuki, ochrony dóbr kultury itradycji;
 - **14)** upowszechniania kultury fizycznej isportu;
-- **15)** ekologii i ochrony zwierzàt oraz ochrony dziedzictwa przyrodniczego;
-- **16)** porzàdku i bezpieczeƒstwa publicznego oraz przeciwdzia∏ania patologiom spo∏ecznym;
-- **17)** upowszechniania wiedzy i umiej´tnoÊci na rzecz obronnoÊci paƒstwa;
-- **18)** upowszechniania i ochrony wolnoÊci i praw cz∏owieka oraz swobód obywatelskich, a tak˝e dzia∏aƒ wspomagajàcych rozwój demokracji;
-- **19)** ratownictwa iochrony ludnoÊci; kresie nauki, wszczególnoÊci na rzecz nauki;
-- **20)** pomocy ofiarom katastrof, kl´sk ˝ywio∏owych, konfliktów zbrojnych iwojen wkraju iza granicà;
+- **15)** ekologii i ochrony zwierząt oraz ochrony dziedzictwa przyrodniczego;
+- **16)** porządku i bezpieczeństwa publicznego oraz przeciwdziałania patologiom społecznym;
+- **17)** upowszechniania wiedzy i umiejętności na rzecz obronności państwa;
+- **18)** upowszechniania i ochrony wolności i praw człowieka oraz swobód obywatelskich, a także działań wspomagających rozwój demokracji;
+- **19)** ratownictwa iochrony ludności; kresie nauki, wszczególności na rzecz nauki;
+- **20)** pomocy ofiarom katastrof, klęsk żywiołowych, konfliktów zbrojnych iwojen wkraju iza granicą;
 - **21)** upowszechniania iochrony praw konsumentów;
-- **22)** dzia∏aƒ na rzecz integracji europejskiej oraz rozwijania kontaktów i wspó∏pracy mi´dzy spo∏eczeƒstwami;
+- **22)** działań na rzecz integracji europejskiej oraz rozwijania kontaktów i współpracy między społeczeństwami;
 - **23)** promocji iorganizacji wolontariatu;
-- **24)** dzia∏alnoÊci wspomagajàcej technicznie, szkoleniowo, informacyjnie lub finansowo organizacje pozarzàdowe oraz podmioty, o których mowa w art. 3 ust. 3, wzakresie okreÊlonym wpkt 1—23.
+- **24)** działalności wspomagającej technicznie, szkoleniowo, informacyjnie lub finansowo organizacje pozarządowe oraz podmioty, o których mowa w art. 3 ust. 3, wzakresie określonym wpkt 1—23.
 
-2. Rada Ministrów mo˝e okreÊliç, w drodze rozporzàdzenia, zadania w zakresie innym ni˝ wymienione wust. 1 jako nale˝àce do sfery zadaƒ publicznych, kierujàc si´ ich szczególnà spo∏ecznà u˝ytecznoÊcià oraz mo˝liwoÊcià ich wykonywania przez podmioty, o których mowa wart. 5 ust. 1, wsposób zapewniajàcy wystarczajàce zaspokajanie potrzeb spo∏ecznych.
+2. Rada Ministrów może określić, w drodze rozporządzenia, zadania w zakresie innym niż wymienione wust. 1 jako należące do sfery zadań publicznych, kierując się ich szczególną społeczną użytecznością oraz możliwością ich wykonywania przez podmioty, o których mowa wart. 5 ust. 1, wsposób zapewniający wystarczające zaspokajanie potrzeb społecznych.
 
 **Art. 5.**
 
-1. Organy administracji publicznej prowadzà dzia∏alnoÊç wsferze zadaƒ publicznych, októrej mowa wart. 4, we wspó∏pracy zorganizacjami pozarzàdowymi oraz podmiotami wymienionymi wart. 3 ust. 3, prowadzàcymi, odpowiednio do terytorialnego zakresu dzia∏ania organów administracji publicznej, dzia∏alnoÊç po˝ytku publicznego wzakresie odpowiadajàcym zadaniom tych organów. Wspó∏praca ta mo˝e odbywaç si´ wszczególnoÊci wformach:
+1. Organy administracji publicznej prowadzą działalność wsferze zadań publicznych, októrej mowa wart. 4, we współpracy zorganizacjami pozarządowymi oraz podmiotami wymienionymi wart. 3 ust. 3, prowadzącymi, odpowiednio do terytorialnego zakresu działania organów administracji publicznej, działalność pożytku publicznego wzakresie odpowiadającym zadaniom tych organów. Współpraca ta może odbywać się wszczególności wformach:
 
-- **1)** zlecania organizacjom pozarzàdowym oraz podmiotom wymienionym w art. 3 ust. 3 realizacji zadaƒ publicznych na zasadach okreÊlonych w ustawie;
-- **2)** wzajemnego informowania si´ oplanowanych kierunkach dzia∏alnoÊci i wspó∏dzia∏ania w celu zharmonizowania tych kierunków;
-- **3)** konsultowania z organizacjami pozarzàdowymi oraz podmiotami wymienionymi wart. 3 ust. 3, odpowiednio do zakresu ich dzia∏ania, projektów aktów normatywnych w dziedzinach dotyczàcych dzia∏alnoÊci statutowej tych organizacji;
-- **4)** tworzenia wspólnych zespo∏ów o charakterze doradczym i inicjatywnym, z∏o˝onych z przedstawicieli organizacji pozarzàdowych, podmiotów wymienionych wart. 3 ust. 3 oraz przedstawicieli w∏aÊciwych organów administracji publicznej.
+- **1)** zlecania organizacjom pozarządowym oraz podmiotom wymienionym w art. 3 ust. 3 realizacji zadań publicznych na zasadach określonych w ustawie;
+- **2)** wzajemnego informowania się oplanowanych kierunkach działalności i współdziałania w celu zharmonizowania tych kierunków;
+- **3)** konsultowania z organizacjami pozarządowymi oraz podmiotami wymienionymi wart. 3 ust. 3, odpowiednio do zakresu ich działania, projektów aktów normatywnych w dziedzinach dotyczących działalności statutowej tych organizacji;
+- **4)** tworzenia wspólnych zespołów o charakterze doradczym i inicjatywnym, złożonych z przedstawicieli organizacji pozarządowych, podmiotów wymienionych wart. 3 ust. 3 oraz przedstawicieli właściwych organów administracji publicznej.
 
-2. Wspó∏praca, októrej mowa wust. 1, odbywa si´ na zasadach: pomocniczoÊci, suwerennoÊci stron, partnerstwa, efektywnoÊci, uczciwej konkurencji ijawnoÊci.
+2. Współpraca, októrej mowa wust. 1, odbywa się na zasadach: pomocniczości, suwerenności stron, partnerstwa, efektywności, uczciwej konkurencji ijawności.
 
-3. Organ stanowiàcy jednostki samorzàdu terytorialnego uchwala roczny program wspó∏pracy z organizacjami pozarzàdowymi oraz z podmiotami, o których mowa wart. 3 ust. 3.
+3. Organ stanowiący jednostki samorządu terytorialnego uchwala roczny program współpracy z organizacjami pozarządowymi oraz z podmiotami, o których mowa wart. 3 ust. 3.
 
-4. Zlecanie realizacji zadaƒ publicznych, o którym mowa w ust. 1 pkt 1 jako zadaƒ zleconych w rozumieniu art. 69 ust. 4 pkt 1 lit. d oraz art. 71 ust. 1 usta1) powierzania wykonywania zadaƒ publicznych, wraz zudzieleniem dotacji na finansowanie ich realizacji, lub
+4. Zlecanie realizacji zadań publicznych, o którym mowa w ust. 1 pkt 1 jako zadań zleconych w rozumieniu art. 69 ust. 4 pkt 1 lit. d oraz art. 71 ust. 1 usta1) powierzania wykonywania zadań publicznych, wraz zudzieleniem dotacji na finansowanie ich realizacji, lub
 
-- **2)** wspierania takich zadaƒ, wraz z udzieleniem dotacji na dofinansowanie ich realizacji. DZIA¸ II Dzia∏alnoÊç po˝ytku publicznego Rozdzia∏ 1 Dzia∏alnoÊç odp∏atna inieodp∏atna po˝ytku publicznego
+- **2)** wspierania takich zadań, wraz z udzieleniem dotacji na dofinansowanie ich realizacji. DZIAĘ II Działalność pożytku publicznego
 
-**Art. 6.** Statutowa dzia∏alnoÊç organizacji pozarzàdowej oraz podmiotów wymienionych w art. 3 ust. 3, wcz´Êci obejmujàcej dzia∏alnoÊç po˝ytku publicznego, nie jest, z zastrze˝eniem art. 9 ust. 1, dzia∏alnoÊcià gospodarczà wrozumieniu przepisów Prawa dzia∏alnoÊci gospodarczej imo˝e byç prowadzona jako dzia∏alnoÊç wy ofinansach publicznych mo˝e mieç formy: nieodp∏atna lub jako dzia∏alnoÊç odp∏atna.
+#### Rozdział 1 Działalność odpłatna inieodpłatna pożytku publicznego
 
-**Art. 7.** Dzia∏alnoÊcià nieodp∏atnà po˝ytku publicznego jest Êwiadczenie na podstawie stosunku prawnego us∏ug, za które organizacja pozarzàdowa oraz podmioty wymienione w art. 3 ust. 3 prowadzàce t´ dzia∏alnoÊç nie pobierajà wynagrodzenia.
+**Art. 6.** Statutowa działalność organizacji pozarządowej oraz podmiotów wymienionych w art. 3 ust. 3, wczęści obejmującej działalność pożytku publicznego, nie jest, z zastrzeżeniem art. 9 ust. 1, działalnością gospodarczą wrozumieniu przepisów Prawa działalności gospodarczej imoże być prowadzona jako działalność wy ofinansach publicznych może mieć formy: nieodpłatna lub jako działalność odpłatna.
+
+**Art. 7.** Działalnością nieodpłatną pożytku publicznego jest świadczenie na podstawie stosunku prawnego usług, za które organizacja pozarządowa oraz podmioty wymienione w art. 3 ust. 3 prowadzące tę działalność nie pobierają wynagrodzenia.
 
 **Art. 8.**
 
-1. Dzia∏alnoÊcià odp∏atnà po˝ytku publicznego jest dzia∏alnoÊç wzakresie wykonywania zadaƒ nale˝àcych do sfery zadaƒ publicznych, wramach realizacji przez organizacj´ pozarzàdowà oraz podmioty wymienione wart. 3 ust. 3 celów statutowych, za którà pobiera wynagrodzenie. Dzia∏alnoÊcià odp∏atnà po˝ytku publicznego jest równie˝ sprzeda˝ towarów lub us∏ug wytworzonych lub Êwiadczonych przez osoby bezpoÊrednio korzystajàce z dzia∏alnoÊci po˝ytku publicznego, w szczególnoÊci w zakresie rehabilitacji oraz przystosowania do pracy zawodowej osób niepe∏nosprawnych, a tak˝e sprzeda˝ przedmiotów darowizny na cele prowadzenia dzia∏alnoÊci po˝ytku publicznego.
+1. Działalnością odpłatną pożytku publicznego jest działalność wzakresie wykonywania zadań należących do sfery zadań publicznych, wramach realizacji przez organizację pozarządową oraz podmioty wymienione wart. 3 ust. 3 celów statutowych, za którą pobiera wynagrodzenie. Działalnością odpłatną pożytku publicznego jest również sprzedaż towarów lub usług wytworzonych lub świadczonych przez osoby bezpośrednio korzystające z działalności pożytku publicznego, w szczególności w zakresie rehabilitacji oraz przystosowania do pracy zawodowej osób niepełnosprawnych, a także sprzedaż przedmiotów darowizny na cele prowadzenia działalności pożytku publicznego.
 
-2. Dochód zdzia∏alnoÊci odp∏atnej po˝ytku publicznego s∏u˝y wy∏àcznie realizacji zadaƒ nale˝àcych do sfery zadaƒ publicznych lub celów statutowych, októrych mowa wust. 1.
+2. Dochód zdziałalności odpłatnej pożytku publicznego służy wyłącznie realizacji zadań należących do sfery zadań publicznych lub celów statutowych, októrych mowa wust. 1.
 
 **Art. 9.**
 
-1. Dzia∏alnoÊç odp∏atna po˝ytku publicznego organizacji pozarzàdowych oraz podmiotów wymienionych w art. 3 ust. 3 stanowi dzia∏alnoÊç gospodarczà, je˝eli:
+1. Działalność odpłatna pożytku publicznego organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3 stanowi działalność gospodarczą, jeżeli:
 
-- **1)** wynagrodzenie, októrym mowa wart. 8 ust. 1, jest wodniesieniu do dzia∏alnoÊci danego rodzaju wy˝sze od tego, jakie wynika zkalkulacji bezpoÊrednich kosztów tej dzia∏alnoÊci, lub
-- **2)** wynagrodzenie osób fizycznych ztytu∏u zatrudnienia przy wykonywaniu statutowej dzia∏alnoÊci nieodp∏atnej oraz dzia∏alnoÊci odp∏atnej przekracza 1,5-krotnoÊç przeci´tnego wynagrodzenia miesi´cznego w sektorze przedsi´biorstw og∏oszonego przez Prezesa G∏ównego Urz´du Statystycznego za rok poprzedni.
+- **1)** wynagrodzenie, októrym mowa wart. 8 ust. 1, jest wodniesieniu do działalności danego rodzaju wyższe od tego, jakie wynika zkalkulacji bezpośrednich kosztów tej działalności, lub
+- **2)** wynagrodzenie osób fizycznych ztytułu zatrudnienia przy wykonywaniu statutowej działalności nieodpłatnej oraz działalności odpłatnej przekracza 1,5-krotność przeciętnego wynagrodzenia miesięcznego w sektorze przedsiębiorstw ogłoszonego przez Prezesa Głównego Urzędu Statystycznego za rok poprzedni.
 
-2. Przez wynagrodzenie, o którym mowa w ust. 1 pkt 2, rozumie si´ wynagrodzenie ztytu∏u Êwiadczenia pracy lub us∏ug, niezale˝nie od sposobu nawiàzania stosunku pracy lub rodzaju i treÊci umowy cywilnoprawnej zosobà fizycznà.
+2. Przez wynagrodzenie, o którym mowa w ust. 1 pkt 2, rozumie się wynagrodzenie ztytułu świadczenia pracy lub usług, niezależnie od sposobu nawiązania stosunku pracy lub rodzaju i treści umowy cywilnoprawnej zosobą fizyczną.
 
-3. Nie mo˝na prowadziç odp∏atnej dzia∏alnoÊci po˝ytku publicznego idzia∏alnoÊci gospodarczej wodniesieniu do tego samego przedmiotu dzia∏alnoÊci.
+3. Nie można prowadzić odpłatnej działalności pożytku publicznego idziałalności gospodarczej wodniesieniu do tego samego przedmiotu działalności.
 
 **Art. 10.**
 
-1. Prowadzenie nieodp∏atnej i odp∏atnej dzia∏alnoÊci po˝ytku publicznego wymaga rachunkowego wyodr´bnienia tych form dzia∏alnoÊci wstopniu umo˝liwiajàcym okreÊlenie przychodów, kosztów iwyników, zzastrze˝eniem przepisów orachunkowoÊci.
+1. Prowadzenie nieodpłatnej i odpłatnej działalności pożytku publicznego wymaga rachunkowego wyodrębnienia tych form działalności wstopniu umożliwiającym określenie przychodów, kosztów iwyników, zzastrzeżeniem przepisów orachunkowości.
 
-2. Przepis ust. 1 stosuje si´ odpowiednio w przypadku organizacyjnego wyodr´bnienia dzia∏alnoÊci po˝ytku publicznego. Rozdzia∏ 2 Prowadzenie dzia∏alnoÊci po˝ytku publicznego na podstawie zlecenia realizacji zadaƒ publicznych
+2. Przepis ust. 1 stosuje się odpowiednio w przypadku organizacyjnego wyodrębnienia działalności pożytku publicznego.
+
+#### Rozdział 2 Prowadzenie działalności pożytku publicznego na podstawie zlecenia realizacji zadań publicznych
 
 **Art. 11.**
 
 1. Organy administracji publicznej:
 
-- **1)** wspierajà wsferze, októrej mowa wart. 4, realizacj´ zadaƒ publicznych przez organizacje pozarzàdowe oraz podmioty wymienione w art. 3 ust. 3, prowadzàce dzia∏alnoÊç statutowà wdanej dziedzinie;
-- **2)** powierzajà w sferze, o której mowa w art. 4, organizacjom oraz podmiotom wymienionym w pkt 1 realizacj´ zadaƒ publicznych.
+- **1)** wspierają wsferze, októrej mowa wart. 4, realizację zadań publicznych przez organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3, prowadzące działalność statutową wdanej dziedzinie;
+- **2)** powierzają w sferze, o której mowa w art. 4, organizacjom oraz podmiotom wymienionym w pkt 1 realizację zadań publicznych.
 
-2. Wspieranie oraz powierzanie, o których mowa w ust. 1, odbywa si´ po przeprowadzeniu otwartego konkursu ofert, chyba ˝e przepisy odr´bne przewidujà inny tryb zlecania.
+2. Wspieranie oraz powierzanie, o których mowa w ust. 1, odbywa się po przeprowadzeniu otwartego konkursu ofert, chyba że przepisy odrębne przewidują inny tryb zlecania.
 
-3. W otwartym konkursie ofert, o którym mowa w ust. 2, uczestniczà organizacje pozarzàdowe, podmioty wymienione w art. 3 ust. 3 oraz jednostki organizacyjne podleg∏e organom administracji publicznej lub przez nie nadzorowane.
+3. W otwartym konkursie ofert, o którym mowa w ust. 2, uczestniczą organizacje pozarządowe, podmioty wymienione w art. 3 ust. 3 oraz jednostki organizacyjne podległe organom administracji publicznej lub przez nie nadzorowane.
 
-4. Powierzenie, októrym mowa wust. 1 pkt 2, mo˝e nastàpiç winnym trybie ni˝ okreÊlony wust. 2, je˝eli dane zadania mo˝na zrealizowaç efektywniej winny sposób okreÊlony w odr´bnych przepisach, w szczególnoÊci poprzez zakup us∏ug na zasadach i w trybie okreÊlonych w przepisach o zamówieniach publicznych, przy porównywalnoÊci metod kalkulacji kosztów oraz porównywalnoÊci opodatkowania.
+4. Powierzenie, októrym mowa wust. 1 pkt 2, może nastąpić winnym trybie niż określony wust. 2, jeżeli dane zadania można zrealizować efektywniej winny sposób określony w odrębnych przepisach, w szczególności poprzez zakup usług na zasadach i w trybie określonych w przepisach o zamówieniach publicznych, przy porównywalności metod kalkulacji kosztów oraz porównywalności opodatkowania.
 
 **Art. 12.**
 
-1. Organizacja pozarzàdowa oraz podmioty wymienione w art. 3 ust. 3 mogà z w∏asnej inicjatywy z∏o˝yç ofert´ realizacji zadaƒ publicznych, tak˝e tych, które sà realizowane dotychczas winny sposób, wtym
+1. Organizacja pozarządowa oraz podmioty wymienione w art. 3 ust. 3 mogą z własnej inicjatywy złożyć ofertę realizacji zadań publicznych, także tych, które są realizowane dotychczas winny sposób, wtym
 
-2. Organ administracji publicznej w przypadku, o którym mowa w ust. 1, w terminie nieprzekraczajàcym 2 miesi´cy:
+2. Organ administracji publicznej w przypadku, o którym mowa w ust. 1, w terminie nieprzekraczającym 2 miesięcy:
 
-- **1)** rozpatruje celowoÊç realizacji okreÊlonego zadania publicznego przez organizacje pozarzàdowe oraz podmioty wymienione w art. 3 ust. 3, bioràc pod uwag´ stopieƒ, w jakim oferta odpowiada priorytetom zadaƒ publicznych, daje gwarancj´ realizacji zadaƒ zgodnie ze standardami w∏aÊciwymi dla danego zadania, Êrodki dost´pne na realizacj´ okreÊlonych zadaƒ, rodzaje okreÊlonych zadaƒ i korzyÊci wynikajàce z realizacji zadania publicznego przez organizacj´ pozarzàdowà oraz podmioty wymienione wart. 3 ust. 3, oraz
-- **2)** informuje opodj´tej decyzji, awprzypadku stwierdzenia celowoÊci realizacji okreÊlonego zadania publicznego informuje sk∏adajàcego ofert´ otrybie zlecenia zadania publicznego, o którym mowa wart. 11 ust. 2.
+- **1)** rozpatruje celowość realizacji określonego zadania publicznego przez organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3, biorąc pod uwagę stopień, w jakim oferta odpowiada priorytetom zadań publicznych, daje gwarancję realizacji zadań zgodnie ze standardami właściwymi dla danego zadania, środki dostępne na realizację określonych zadań, rodzaje określonych zadań i korzyści wynikające z realizacji zadania publicznego przez organizację pozarządową oraz podmioty wymienione wart. 3 ust. 3, oraz
+- **2)** informuje opodjętej decyzji, awprzypadku stwierdzenia celowości realizacji określonego zadania publicznego informuje składającego ofertę otrybie zlecenia zadania publicznego, o którym mowa wart. 11 ust. 2.
 
 **Art. 13.**
 
-1. Organ administracji publicznej og∏asza otwarty konkurs ofert co najmniej z trzydziestodniowym wyprzedzeniem.
+1. Organ administracji publicznej ogłasza otwarty konkurs ofert co najmniej z trzydziestodniowym wyprzedzeniem.
 
-2. Og∏oszenie otwartego konkursu ofert powinno zawieraç informacje o:
+2. Ogłoszenie otwartego konkursu ofert powinno zawierać informacje o:
 
 - **1)** rodzaju zadania;
-- **2)** wysokoÊci Êrodków publicznych przeznaczonych na realizacj´ tego zadania;
+- **2)** wysokości środków publicznych przeznaczonych na realizację tego zadania;
 - **3)** zasadach przyznawania dotacji;
 - **4)** terminach iwarunkach realizacji zadania;
-- **5)** terminie sk∏adania ofert;
+- **5)** terminie składania ofert;
 - **6)** terminie, trybie i kryteriach stosowanych przy dokonywaniu wyboru oferty;
-- **7)** zrealizowanych przez organ administracji publicznej w roku og∏oszenia otwartego konkursu ofert i w roku poprzednim zadaniach publicznych tego samego rodzaju i zwiàzanych z nimi kosztami, ze szczególnym uwzgl´dnieniem wysokoÊci dotacji przekazanych organizacjom pozarzàdowym, podmiotom, o których mowa w art. 3 ust. 3, oraz jednostkom organizacyjnym podleg∏ym organom administracji publicznej lub przez nie nadzorowanym.
+- **7)** zrealizowanych przez organ administracji publicznej w roku ogłoszenia otwartego konkursu ofert i w roku poprzednim zadaniach publicznych tego samego rodzaju i związanych z nimi kosztami, ze szczególnym uwzględnieniem wysokości dotacji przekazanych organizacjom pozarządowym, podmiotom, o których mowa w art. 3 ust. 3, oraz jednostkom organizacyjnym podległym organom administracji publicznej lub przez nie nadzorowanym.
 
-3. Og∏oszenie, októrym mowa wust. 1, zamieszcza si´, wzale˝noÊci od rodzaju zadania, wdzienniku ozasi´gu ogólnopolskim lub lokalnym oraz Biuletynie Informacji Publicznej, atak˝e wsiedzibie organu administracji publicznej w miejscu przeznaczonym na zamieszczanie og∏oszeƒ. Og∏oszenie mo˝e tak˝e nastàpiç w inny sposób zapewniajàcy dost´p podmiotów zainteresowanych do informacji, w szczególnoÊci poprzez wykorzystanie sieci teleinformatycznej.
+3. Ogłoszenie, októrym mowa wust. 1, zamieszcza się, wzależności od rodzaju zadania, wdzienniku ozasięgu ogólnopolskim lub lokalnym oraz Biuletynie Informacji Publicznej, atakże wsiedzibie organu administracji publicznej w miejscu przeznaczonym na zamieszczanie ogłoszeń. Ogłoszenie może także nastąpić w inny sposób zapewniający dostęp podmiotów zainteresowanych do informacji, w szczególności poprzez wykorzystanie sieci teleinformatycznej.
 
-**Art. 14.** przez organy administracji publicznej. Oferta, o której mowa w art. 11 ust. 2 iart.12 ust. 1, powinna zawieraç wszczególnoÊci:
+**Art. 14.** przez organy administracji publicznej. Oferta, o której mowa w art. 11 ust. 2 iart.12 ust. 1, powinna zawierać wszczególności:
 
 **Art. 15.**
 
 1. Organ administracji publicznej przy rozpatrywaniu ofert:
 
-- **1)** ocenia mo˝liwoÊç realizacji zadania przez organizacj´ pozarzàdowà, podmioty wymienione w art. 3 ust. 3 oraz jednostki organizacyjne podleg∏e organom administracji publicznej lub przez nie nadzorowane;
-- **2)** ocenia przedstawionà kalkulacj´ kosztów realizacji zadania, w tym w odniesieniu do zakresu rzeczowego zadania;
-- **3)** uwzgl´dnia wysokoÊç Êrodków publicznych przeznaczonych na realizacj´ zadania.
+- **1)** ocenia możliwość realizacji zadania przez organizację pozarządową, podmioty wymienione w art. 3 ust. 3 oraz jednostki organizacyjne podległe organom administracji publicznej lub przez nie nadzorowane;
+- **2)** ocenia przedstawioną kalkulację kosztów realizacji zadania, w tym w odniesieniu do zakresu rzeczowego zadania;
+- **3)** uwzględnia wysokość środków publicznych przeznaczonych na realizację zadania.
 
-2. Przepis ust. 1 ma zastosowanie tak˝e, gdy wwyniku og∏oszenia otwartego konkursu ofert zosta∏a zg∏oszona jedna oferta.
+2. Przepis ust. 1 ma zastosowanie także, gdy wwyniku ogłoszenia otwartego konkursu ofert została zgłoszona jedna oferta.
 
-3. Organ administracji publicznej obowiàzany jest w uzasadnieniu wyboru oferty ustosunkowaç si´ do spe∏niania przez oferenta wymogów okreÊlonych wustawie oraz wog∏oszeniu, októrym mowa wart. 13. Przepis stosuje si´ odpowiednio w przypadku, o którym mowa wust. 2.
+3. Organ administracji publicznej obowiązany jest w uzasadnieniu wyboru oferty ustosunkować się do spełniania przez oferenta wymogów określonych wustawie oraz wogłoszeniu, októrym mowa wart. 13. Przepis stosuje się odpowiednio w przypadku, o którym mowa wust. 2.
 
 **Art. 16.**
 
-1. Organizacje pozarzàdowe, podmioty wymienione w art. 3 ust. 3 oraz jednostki organizacyjne podleg∏e organom administracji publicznej lub przez nie nadzorowane, przyjmujàc zlecenie realizacji zadania publicznego w trybie okreÊlonym w art. 11 ust. 2, zobowiàzujà si´ do wykonania zadania wzakresie ina zasadach okreÊlonych w umowie, odpowiednio o powierzenie zadania lub o wsparcie realizacji zadania, sformu∏owanej zuwzgl´dnieniem art. 71 ust. 2 ustawy o finansach publicznych oraz przepisów niniejszej ustawy, a organ administracji publicznej zobowiàzuje si´ do przekazania na realizacj´ zadania odpowiednich Êrodków publicznych wformie dotacji.
+1. Organizacje pozarządowe, podmioty wymienione w art. 3 ust. 3 oraz jednostki organizacyjne podległe organom administracji publicznej lub przez nie nadzorowane, przyjmując zlecenie realizacji zadania publicznego w trybie określonym w art. 11 ust. 2, zobowiązują się do wykonania zadania wzakresie ina zasadach określonych w umowie, odpowiednio o powierzenie zadania lub o wsparcie realizacji zadania, sformułowanej zuwzględnieniem art. 71 ust. 2 ustawy o finansach publicznych oraz przepisów niniejszej ustawy, a organ administracji publicznej zobowiązuje się do przekazania na realizację zadania odpowiednich środków publicznych wformie dotacji.
 
-2. Umowa, októrej mowa wust. 1, wymaga formy pisemnej pod rygorem niewa˝noÊci.
+2. Umowa, októrej mowa wust. 1, wymaga formy pisemnej pod rygorem nieważności.
 
-3. Umowa opowierzenie zadania publicznego mo˝e byç zawarta na czas realizacji zadania lub na czas
+3. Umowa opowierzenie zadania publicznego może być zawarta na czas realizacji zadania lub na czas
 
-4. Zadanie publiczne nie mo˝e byç zrealizowane przez podmiot nieb´dàcy stronà umowy, chyba ˝e umowa zezwala na wykonanie okreÊlonej cz´Êci zadania przez taki podmiot.
+4. Zadanie publiczne nie może być zrealizowane przez podmiot niebędący stroną umowy, chyba że umowa zezwala na wykonanie określonej części zadania przez taki podmiot.
 
-5. Organizacja pozarzàdowa, podmioty wymienione wart. 3 ust. 3 oraz jednostki organizacyjne podleg∏e organom administracji publicznej lub przez nie nadzorowane sà zobowiàzane do wyodr´bnienia w ewidencji ksi´gowej Êrodków otrzymanych na realizacj´ umowy, októrej mowa wust. 1. Przepis art. 10 ust. 1 stosuje si´ odpowiednio.
+5. Organizacja pozarządowa, podmioty wymienione wart. 3 ust. 3 oraz jednostki organizacyjne podległe organom administracji publicznej lub przez nie nadzorowane są zobowiązane do wyodrębnienia w ewidencji księgowej środków otrzymanych na realizację umowy, októrej mowa wust. 1. Przepis art. 10 ust. 1 stosuje się odpowiednio.
 
-**Art. 17.** Organ administracji publicznej zlecajàcy zadanie publiczne dokonuje kontroli ioceny realizacji zadania, awszczególnoÊci:
+**Art. 17.** Organ administracji publicznej zlecający zadanie publiczne dokonuje kontroli ioceny realizacji zadania, awszczególności:
 
 **Art. 18.**
 
-1. Sprawozdanie z wykonania zadania publicznego okreÊlonego w umowie nale˝y sporzàdziç wterminie 30 dni po up∏ywie terminu, na który umowa zosta∏a zawarta, zzastrze˝eniem ust. 2.
+1. Sprawozdanie z wykonania zadania publicznego określonego w umowie należy sporządzić wterminie 30 dni po upływie terminu, na który umowa została zawarta, zzastrzeżeniem ust. 2.
 
-2. Okresem sprawozdawczym jest rok bud˝etowy.
+2. Okresem sprawozdawczym jest rok budżetowy.
 
-**Art. 19.** Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego okreÊli, wdrodze rozporzàdzenia:
+**Art. 19.** Minister właściwy do spraw zabezpieczenia społecznego określi, wdrodze rozporządzenia:
 
-**Art. 20.** Organizacjà po˝ytku publicznego mo˝e byç organizacja pozarzàdowa oraz podmioty, o których mowa w art. 3 ust. 3, je˝eli, z zastrze˝eniem art. 21, spe∏niajà ∏àcznie nast´pujàce wymagania:
+#### Rozdział 3 Organizacje pożytku publicznego
+
+**Art. 20.** Organizacją pożytku publicznego może być organizacja pozarządowa oraz podmioty, o których mowa w art. 3 ust. 3, jeżeli, z zastrzeżeniem art. 21, spełniają łącznie następujące wymagania:
 
 **Art. 21.** Wprzypadku podmiotów, októrych mowa wart. 3 ust. 3 pkt 1:
 
 **Art. 22.**
 
-1. Organizacja pozarzàdowa oraz podmioty, októrych mowa wart. 3 ust. 3 pkt 2, wpisane do Krajowego Rejestru Sàdowego uzyskujà status organizacji po˝ytku publicznego zchwilà wpisania do tego Rejestru informacji ospe∏nieniu wymagaƒ, októrych mowa w art. 20, na zasadach i w trybie okreÊlonych wustawie zdnia 20 sierpnia 1997 r. oKrajowym Rejestrze Sàdowym (Dz. U. z2001 r. 17, poz. 209 iNr 110, poz. 1189, z 2002 r. 1, poz. 2 i 113, poz. 984 oraz z2003 r. 49, poz. 408 iNr 60, poz. 535).
+1. Organizacja pozarządowa oraz podmioty, októrych mowa wart. 3 ust. 3 pkt 2, wpisane do Krajowego Rejestru Sądowego uzyskują status organizacji pożytku publicznego zchwilą wpisania do tego Rejestru informacji ospełnieniu wymagań, októrych mowa w art. 20, na zasadach i w trybie określonych wustawie zdnia 20 sierpnia 1997 r. oKrajowym Rejestrze Sądowym (Dz. U. z2001 r. 17, poz. 209 iNr 110, poz. 1189, z 2002 r. 1, poz. 2 i 113, poz. 984 oraz z2003 r. 49, poz. 408 iNr 60, poz. 535).
 
-2. Organizacja pozarzàdowa inna ni˝ wymieniona ferencyjnych warunkach, wust. 1 oraz podmioty, októrych mowa wart. 3 ust. 3 pkt 1, uzyskujà status organizacji po˝ytku publicznego z chwilà wpisania do Krajowego Rejestru Sàdowego, na zasadach iwtrybie okreÊlonych wustawie, októrej mowa wust. 1.
+2. Organizacja pozarządowa inna niż wymieniona ferencyjnych warunkach, wust. 1 oraz podmioty, októrych mowa wart. 3 ust. 3 pkt 1, uzyskują status organizacji pożytku publicznego z chwilą wpisania do Krajowego Rejestru Sądowego, na zasadach iwtrybie określonych wustawie, októrej mowa wust. 1.
 
-3. Organizacja pozarzàdowa oraz podmioty, o których mowa w ust. 1, tracà status organizacji po˝ytku publicznego z chwilà wykreÊlenia, z urz´du lub na wniosek, z Krajowego Rejestru Sàdowego informacji ospe∏nianiu wymogów okreÊlonych wart. 20.
+3. Organizacja pozarządowa oraz podmioty, o których mowa w ust. 1, tracą status organizacji pożytku publicznego z chwilą wykreślenia, z urzędu lub na wniosek, z Krajowego Rejestru Sądowego informacji ospełnianiu wymogów określonych wart. 20.
 
 **Art. 23.**
 
-1. Organizacja po˝ytku publicznego sporzàdza roczne sprawozdanie merytoryczne ze swojej dzia∏alnoÊci, z zastrze˝eniem przepisów odr´bnych, oraz podaje je do publicznej wiadomoÊci wsposób umo˝liwiajàcy zapoznanie si´ ztym sprawozdaniem przez zainteresowane podmioty.
+1. Organizacja pożytku publicznego sporządza roczne sprawozdanie merytoryczne ze swojej działalności, z zastrzeżeniem przepisów odrębnych, oraz podaje je do publicznej wiadomości wsposób umożliwiający zapoznanie się ztym sprawozdaniem przez zainteresowane podmioty.
 
-2. Organizacja po˝ytku publicznego sporzàdza i og∏asza roczne sprawozdanie finansowe tak˝e wówczas, gdy obowiàzek jego sporzàdzenia oraz og∏oszenia nie wynika zprzepisów orachunkowoÊci. Przepisy orachunkowoÊci stosuje si´ odpowiednio.
+2. Organizacja pożytku publicznego sporządza i ogłasza roczne sprawozdanie finansowe także wówczas, gdy obowiązek jego sporządzenia oraz ogłoszenia nie wynika zprzepisów orachunkowości. Przepisy orachunkowości stosuje się odpowiednio.
 
-3. Do zakresu sprawozdaƒ, o których mowa w ust. 1, stosuje si´ odpowiednio przepisy dotyczàce zakresu sprawozdaƒ sk∏adanych przez fundacje.
+3. Do zakresu sprawozdań, o których mowa w ust. 1, stosuje się odpowiednio przepisy dotyczące zakresu sprawozdań składanych przez fundacje.
 
-4. Organizacja po˝ytku publicznego, niezale˝nie od obowiàzków wynikajàcych z przepisów odr´bnych, przekazuje ministrowi w∏aÊciwemu do spraw zabezpieczenia spo∏ecznego sprawozdania, o których mowa wust. 1 i2.
+4. Organizacja pożytku publicznego, niezależnie od obowiązków wynikających z przepisów odrębnych, przekazuje ministrowi właściwemu do spraw zabezpieczenia społecznego sprawozdania, o których mowa wust. 1 i2.
 
-5. Wodniesieniu do organizacji po˝ytku publicznego, których sprawozdanie finansowe nie podlega obowiàzkowi badania zgodnie zprzepisami orachunkowoÊci, minister w∏aÊciwy do spraw finansów publicznych wporozumieniu zministrem w∏aÊciwym do spraw zabezpieczenia spo∏ecznego mo˝e w drodze rozporzàdzenia wprowadziç taki obowiàzek, bioràc pod uwag´:
+5. Wodniesieniu do organizacji pożytku publicznego, których sprawozdanie finansowe nie podlega obowiązkowi badania zgodnie zprzepisami orachunkowości, minister właściwy do spraw finansów publicznych wporozumieniu zministrem właściwym do spraw zabezpieczenia społecznego może w drodze rozporządzenia wprowadzić taki obowiązek, biorąc pod uwagę:
 
-- **1)** wysokoÊç otrzymanych dotacji;
-- **2)** wielkoÊç osiàganych przychodów;
-- **3)** potrzeb´ zapewnienia kontroli prawid∏owoÊci prowadzonej ewidencji.
+- **1)** wysokość otrzymanych dotacji;
+- **2)** wielkość osiąganych przychodów;
+- **3)** potrzebę zapewnienia kontroli prawidłowości prowadzonej ewidencji.
 
 **Art. 24.**
 
-1. Organizacji po˝ytku publicznego przys∏uguje, na zasadach okreÊlonych w przepisach odr´bnych, zwolnienie od:
+1. Organizacji pożytku publicznego przysługuje, na zasadach określonych w przepisach odrębnych, zwolnienie od:
 
 - **1)** podatku dochodowego od osób prawnych,
-- **2)** podatku od nieruchomoÊci,
-- **3)** podatku od czynnoÊci cywilnoprawnych,
-- **4)** op∏aty skarbowej,
-- **5)** op∏at sàdowych wodniesieniu do prowadzonej przez nià dzia∏alnoÊci po˝ytku publicznego.
+- **2)** podatku od nieruchomości,
+- **3)** podatku od czynności cywilnoprawnych,
+- **4)** opłaty skarbowej,
+- **5)** opłat sądowych wodniesieniu do prowadzonej przez nią działalności pożytku publicznego.
 
-2. Organizacja po˝ytku publicznego mo˝e, na zasadach okreÊlonych w odr´bnych przepisach, nabywaç na szczególnych warunkach prawo u˝ytkowania nieruchomoÊci b´dàcych w∏asnoÊcià Skarbu Paƒstwa lub jednostki samorzàdu terytorialnego.
+2. Organizacja pożytku publicznego może, na zasadach określonych w odrębnych przepisach, nabywać na szczególnych warunkach prawo użytkowania nieruchomości będących własnością Skarbu Państwa lub jednostki samorządu terytorialnego.
 
-3. Organizacja pozarzàdowa, która uzyska∏a status organizacji po˝ytku publicznego, jest obowiàzana wype∏niç zobowiàzania wynikajàce ze zwolnieƒ podatkowych, zktórych korzysta∏a przed dniem uzyskania statusu organizacji po˝ytku publicznego, na zasadach okreÊlonych wodr´bnych przepisach.
+3. Organizacja pozarządowa, która uzyskała status organizacji pożytku publicznego, jest obowiązana wypełnić zobowiązania wynikające ze zwolnień podatkowych, zktórych korzystała przed dniem uzyskania statusu organizacji pożytku publicznego, na zasadach określonych wodrębnych przepisach.
 
-4. Wprzypadku utraty przez organizacj´ pozarzàdowà statusu organizacji po˝ytku publicznego traci ona prawo do korzystania ze zwolnieƒ wynikajàcych z po5. U˝ytkowanie, o którym mowa w ust. 2, wygasa z mocy prawa w przypadku utraty statusu organizacji po˝ytku publicznego.
+4. Wprzypadku utraty przez organizację pozarządową statusu organizacji pożytku publicznego traci ona prawo do korzystania ze zwolnień wynikających z po5. Użytkowanie, o którym mowa w ust. 2, wygasa z mocy prawa w przypadku utraty statusu organizacji pożytku publicznego.
 
-**Art. 25.** W organizacji po˝ytku publicznego mogà wykonywaç prac´ poborowi skierowani do odbycia s∏u˝by zast´pczej, na zasadach i w trybie okreÊlonych wodr´bnych przepisach.
+**Art. 25.** W organizacji pożytku publicznego mogą wykonywać pracę poborowi skierowani do odbycia służby zastępczej, na zasadach i w trybie określonych wodrębnych przepisach.
 
-**Art. 26.** Jednostki publicznej radiofonii i telewizji umo˝liwiajà organizacjom po˝ytku publicznego nieodp∏atne informowanie o ich dzia∏alnoÊci na zasadach okreÊlonych wprzepisach odr´bnych.
+**Art. 26.** Jednostki publicznej radiofonii i telewizji umożliwiają organizacjom pożytku publicznego nieodpłatne informowanie o ich działalności na zasadach określonych wprzepisach odrębnych.
 
-**Art. 27.** Podatnik podatku dochodowego od osób fizycznych mo˝e, na zasadach i w trybie okreÊlonym w przepisach odr´bnych, przekazaç 1% podatku obliczonego zgodnie zodr´bnymi przepisami na rzecz wybranych przez siebie organizacji po˝ytku publicznego. Rozdzia∏ 4 siadania tego statusu. Nadzór
+**Art. 27.** Podatnik podatku dochodowego od osób fizycznych może, na zasadach i w trybie określonym w przepisach odrębnych, przekazać 1% podatku obliczonego zgodnie zodrębnymi przepisami na rzecz wybranych przez siebie organizacji pożytku publicznego.
+
+#### Rozdział 4 siadania tego statusu.
 
 **Art. 28.**
 
-1. Nadzór nad dzia∏alnoÊcià organizacji po˝ytku publicznego, wzakresie prawid∏owoÊci korzystania z uprawnieƒ okreÊlonych w ustawie, sprawuje minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego, zzastrze˝eniem ust. 2.
+1. Nadzór nad działalnością organizacji pożytku publicznego, wzakresie prawidłowości korzystania z uprawnień określonych w ustawie, sprawuje minister właściwy do spraw zabezpieczenia społecznego, zzastrzeżeniem ust. 2.
 
-2. Nadzór nad dzia∏alnoÊcià organizacji po˝ytku publicznego, dzia∏ajàcych wzakresie ratownictwa iochrony ludnoÊci, dotyczàcy realizacji zleconych zadaƒ publicznych oraz prawid∏owoÊci korzystania z uprawnieƒ okreÊlonych wustawie, sprawuje minister w∏aÊciwy do spraw wewn´trznych. Przepisy art. 29—34 stosuje si´ odpowiednio.
+2. Nadzór nad działalnością organizacji pożytku publicznego, działających wzakresie ratownictwa iochrony ludności, dotyczący realizacji zleconych zadań publicznych oraz prawidłowości korzystania z uprawnień określonych wustawie, sprawuje minister właściwy do spraw wewnętrznych. Przepisy art. 29—34 stosuje się odpowiednio.
 
 **Art. 29.**
 
-1. Organizacja po˝ytku publicznego podlega kontroli ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego wzakresie okreÊlonym wart. 28 ust.1.
+1. Organizacja pożytku publicznego podlega kontroli ministra właściwego do spraw zabezpieczenia społecznego wzakresie określonym wart. 28 ust.1.
 
-2. Kontrol´ zarzàdza minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego z urz´du lub na wniosek organu administracji publicznej.
+2. Kontrolę zarządza minister właściwy do spraw zabezpieczenia społecznego z urzędu lub na wniosek organu administracji publicznej.
 
-3. Kontrol´ przeprowadzajà osoby posiadajàce pisemne upowa˝nienie ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego.
+3. Kontrolę przeprowadzają osoby posiadające pisemne upoważnienie ministra właściwego do spraw zabezpieczenia społecznego.
 
-4. W czynnoÊciach kontrolnych mo˝e uczestniczyç przedstawiciel Rady Dzia∏alnoÊci Po˝ytku Publicznego, w przypadku z∏o˝enia tej Radzie stosownego wniosku przez ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego, organ administracji publicznej, októrym mowa wust. 2, lub organizacj´ pozarzàdowà oraz podmioty wymienione wart. 3 ust. 3.
+4. W czynnościach kontrolnych może uczestniczyć przedstawiciel Rady Działalności Pożytku Publicznego, w przypadku złożenia tej Radzie stosownego wniosku przez ministra właściwego do spraw zabezpieczenia społecznego, organ administracji publicznej, októrym mowa wust. 2, lub organizację pozarządową oraz podmioty wymienione wart. 3 ust. 3.
 
-5. Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego mo˝e powierzyç przeprowadzenie kontroli wojewodzie.
+5. Minister właściwy do spraw zabezpieczenia społecznego może powierzyć przeprowadzenie kontroli wojewodzie.
 
-6. Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego mo˝e wystàpiç zwnioskiem oprzeprowadzenie kontroli do organu wyspecjalizowanego wkontrolowaniu danego rodzaju dzia∏alnoÊci.
+6. Minister właściwy do spraw zabezpieczenia społecznego może wystąpić zwnioskiem oprzeprowadzenie kontroli do organu wyspecjalizowanego wkontrolowaniu danego rodzaju działalności.
 
 **Art. 30.**
 
-1. Osoby upowa˝nione do dokonywania kontroli sà uprawnione do wst´pu na teren nieruchomoÊci lub jej cz´Êci, na którym jest prowadzona dzia∏alnoÊç organizacji po˝ytku publicznego, oraz ˝àdania pisemnych lub ustnych wyjaÊnieƒ, okazania dokumentów lub innych noÊników informacji, a tak˝e udost´pniania danych majàcych zwiàzek z przedmiotem kontroli.
+1. Osoby upoważnione do dokonywania kontroli są uprawnione do wstępu na teren nieruchomości lub jej części, na którym jest prowadzona działalność organizacji pożytku publicznego, oraz żądania pisemnych lub ustnych wyjaśnień, okazania dokumentów lub innych nośników informacji, a także udostępniania danych mających związek z przedmiotem kontroli.
 
-2. CzynnoÊci kontrolnych, októrych mowa wust. 1, dokonuje si´ w obecnoÊci cz∏onka organu zarzàdzajàcego lub jego przedstawiciela albo pracownika kontrolowanej organizacji po˝ytku publicznego, awrazie nieobecnoÊci tych osób w obecnoÊci przywo∏anego Êwiadka.
+2. Czynności kontrolnych, októrych mowa wust. 1, dokonuje się w obecności członka organu zarządzającego lub jego przedstawiciela albo pracownika kontrolowanej organizacji pożytku publicznego, awrazie nieobecności tych osób w obecności przywołanego świadka.
 
 **Art. 31.**
 
-1. Z przeprowadzonej kontroli sporzàdza si´ protokó∏, który podpisujà osoby przeprowadzajàce kontrol´ ikierownik kontrolowanej organizacji po˝ytku publicznego lub osoba przez niego upowa˝niona. Odmowa podpisu protoko∏u przez kierownika kontrolowanej organizacji po˝ytku publicznego lub osob´ przez niego upowa˝nionà wymaga podania przyczyny. W przypadku odmowy podpisu protokó∏ uznaje si´ za podpisany wdniu odmowy.
+1. Z przeprowadzonej kontroli sporządza się protokół, który podpisują osoby przeprowadzające kontrolę ikierownik kontrolowanej organizacji pożytku publicznego lub osoba przez niego upoważniona. Odmowa podpisu protokołu przez kierownika kontrolowanej organizacji pożytku publicznego lub osobę przez niego upoważnioną wymaga podania przyczyny. W przypadku odmowy podpisu protokół uznaje się za podpisany wdniu odmowy.
 
-2. Kierownik kontrolowanej organizacji po˝ytku publicznego mo˝e w terminie 14 dni od dnia podpisania protoko∏u z∏o˝yç na piÊmie wyjaÊnienia bàdê zg∏osiç zastrze˝enia do treÊci protoko∏u.
+2. Kierownik kontrolowanej organizacji pożytku publicznego może w terminie 14 dni od dnia podpisania protokołu złożyć na piśmie wyjaśnienia bądê zgłosić zastrzeżenia do treści protokołu.
 
-3. Osoby przeprowadzajàce kontrol´ po rozpatrzeniu zastrze˝eƒ, októrych mowa wust. 2, wydajà wynik kontroli. W razie nieuwzgl´dnienia zastrze˝eƒ w ca∏oÊci lub w cz´Êci przekazuje si´ na piÊmie stanowisko zg∏aszajàcemu zastrze˝enia.
+3. Osoby przeprowadzające kontrolę po rozpatrzeniu zastrzeżeń, októrych mowa wust. 2, wydają wynik kontroli. W razie nieuwzględnienia zastrzeżeń w całości lub w części przekazuje się na piśmie stanowisko zgłaszającemu zastrzeżenia.
 
-**Art. 32.** Wynik kontroli powinien zawieraç opis stanu faktycznego stwierdzonego w toku kontroli, w tym ustalonych uchybieƒ, z uwzgl´dnieniem przyczyn powstania, zakresu iskutków tych uchybieƒ, oraz termin ich usuni´cia, nie krótszy ni˝ 30 dni.
+**Art. 32.** Wynik kontroli powinien zawierać opis stanu faktycznego stwierdzonego w toku kontroli, w tym ustalonych uchybień, z uwzględnieniem przyczyn powstania, zakresu iskutków tych uchybień, oraz termin ich usunięcia, nie krótszy niż 30 dni.
 
 **Art. 33.**
 
-1. Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego lub z jego upowa˝nienia wojewoda wzywa organizacj´ po˝ytku publicznego do usuni´cia, w wyznaczonym terminie, uchybieƒ stwierdzonych wwyniku kontroli.
+1. Minister właściwy do spraw zabezpieczenia społecznego lub z jego upoważnienia wojewoda wzywa organizację pożytku publicznego do usunięcia, w wyznaczonym terminie, uchybień stwierdzonych wwyniku kontroli.
 
-2. W przypadku nieusuni´cia uchybieƒ przez organizacj´ po˝ytku publicznego minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego mo˝e wystàpiç do sàdu rejestrowego o wykreÊlenie informacji, o której mowa wart. 22 ust. 1, lub owykreÊlenie tej organizacji zKrajowego Rejestru Sàdowego.
+2. W przypadku nieusunięcia uchybień przez organizację pożytku publicznego minister właściwy do spraw zabezpieczenia społecznego może wystąpić do sądu rejestrowego o wykreślenie informacji, o której mowa wart. 22 ust. 1, lub owykreślenie tej organizacji zKrajowego Rejestru Sądowego.
 
-3. W przypadku nieusuni´cia uchybieƒ dotyczàcych spe∏niania wymogów, okreÊlonych odpowiednio wart. 20 oraz art. 21, przez organizacj´ po˝ytku publicznego, minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego wyst´puje do sàdu rejestrowego owykreÊle4. W przypadku wykreÊlenia organizacji po˝ytku publicznego lub informacji, o której mowa w art. 22 ust. 1, zKrajowego Rejestru Sàdowego, organizacja ta jest obowiàzana, w terminie 6 miesi´cy, wykorzystaç na w∏asnà dzia∏alnoÊç w zakresie, o którym mowa wart. 4, Êrodki pochodzàce ze zbiórek publicznych, zebrane w okresie posiadania statusu organizacji po˝ytku publicznego.
+3. W przypadku nieusunięcia uchybień dotyczących spełniania wymogów, określonych odpowiednio wart. 20 oraz art. 21, przez organizację pożytku publicznego, minister właściwy do spraw zabezpieczenia społecznego występuje do sądu rejestrowego owykreśle4. W przypadku wykreślenia organizacji pożytku publicznego lub informacji, o której mowa w art. 22 ust. 1, zKrajowego Rejestru Sądowego, organizacja ta jest obowiązana, w terminie 6 miesięcy, wykorzystać na własną działalność w zakresie, o którym mowa wart. 4, środki pochodzące ze zbiórek publicznych, zebrane w okresie posiadania statusu organizacji pożytku publicznego.
 
-5. Ârodki niewykorzystane w sposób i w terminie okreÊlonychwust. 4 organizacja jest obowiàzana przekazaç niezw∏ocznie na rzecz, prowadzàcej dzia∏alnoÊç statutowà wtym samym lub zbli˝onym zakresie, organizacji po˝ytku publicznego wskazanej przez ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego. Przekazanie Êrodków nie stanowi w takim przypadku darowizny wrozumieniu odr´bnych przepisów.
+5. Ârodki niewykorzystane w sposób i w terminie określonychwust. 4 organizacja jest obowiązana przekazać niezwłocznie na rzecz, prowadzącej działalność statutową wtym samym lub zbliżonym zakresie, organizacji pożytku publicznego wskazanej przez ministra właściwego do spraw zabezpieczenia społecznego. Przekazanie środków nie stanowi w takim przypadku darowizny wrozumieniu odrębnych przepisów.
 
 **Art. 34.**
 
-1. W zakresie nieuregulowanym niniejszà ustawà, do nadzoru i kontroli wydatkowania Êrodków publicznych stosuje si´ odpowiednio przepisy ofinansach publicznych.
+1. W zakresie nieuregulowanym niniejszą ustawą, do nadzoru i kontroli wydatkowania środków publicznych stosuje się odpowiednio przepisy ofinansach publicznych.
 
-2. Przepisy art. 30—34 nie wy∏àczajà stosowania odr´bnych przepisów dotyczàcych kontroli iczynnoÊci kontrolnych, atak˝e uprawnieƒ nadzorczych innych organów. Rozdzia∏ 5 Rada Dzia∏alnoÊci Po˝ytku Publicznego
+2. Przepisy art. 30—34 nie wyłączają stosowania odrębnych przepisów dotyczących kontroli iczynności kontrolnych, atakże uprawnień nadzorczych innych organów.
+
+#### Rozdział 5 Rada Działalności Pożytku Publicznego
 
 **Art. 35.**
 
-1. Tworzy si´ Rad´ Dzia∏alnoÊci Po˝ytku Publicznego, zwanà dalej „Radà”, jako organ opiniodawczo-doradczy oraz pomocniczy ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego.
+1. Tworzy się Radę Działalności Pożytku Publicznego, zwaną dalej ŃRadą”, jako organ opiniodawczo-doradczy oraz pomocniczy ministra właściwego do spraw zabezpieczenia społecznego.
 
-2. Do zadaƒ Rady nale˝y wszczególnoÊci:
+2. Do zadań Rady należy wszczególności:
 
-- **1)** wyra˝anie opinii wsprawach dotyczàcych stosowania ustawy;
-- **2)** wyra˝anie opinii o rzàdowych projektach aktów prawnych dotyczàcych dzia∏alnoÊci po˝ytku publicznego oraz wolontariatu;
-- **3)** udzielanie pomocy iwyra˝anie opinii wprzypadku sporów mi´dzy organami administracji publicznej aorganizacjami po˝ytku publicznego;
+- **1)** wyrażanie opinii wsprawach dotyczących stosowania ustawy;
+- **2)** wyrażanie opinii o rządowych projektach aktów prawnych dotyczących działalności pożytku publicznego oraz wolontariatu;
+- **3)** udzielanie pomocy iwyrażanie opinii wprzypadku sporów między organami administracji publicznej aorganizacjami pożytku publicznego;
 - **4)** zbieranie i dokonywanie analizy informacji o prowadzonych kontrolach iich skutkach;
-- **5)** uczestniczenie wpost´powaniu kontrolnym;
-- **6)** wyra˝anie opinii w sprawach zadaƒ publicznych, zlecania tych zadaƒ do realizacji przez organizacje pozarzàdowe oraz podmioty wymienione w art. 3 ust. 3 oraz rekomendowanych standardów realizacji zadaƒ publicznych;
-- **7)** tworzenie, we wspó∏pracy zorganizacjami pozarzàdowymi oraz podmiotami wymienionymi w art. 3 ust. 3, mechanizmów informowania ostandardach prowadzenia dzia∏alnoÊci po˝ytku publicznego nie tej organizacji zKrajowego Rejestru Sàdowego. oraz ostwierdzonych przypadkach naruszenia tych standardów.
+- **5)** uczestniczenie wpostępowaniu kontrolnym;
+- **6)** wyrażanie opinii w sprawach zadań publicznych, zlecania tych zadań do realizacji przez organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 oraz rekomendowanych standardów realizacji zadań publicznych;
+- **7)** tworzenie, we współpracy zorganizacjami pozarządowymi oraz podmiotami wymienionymi w art. 3 ust. 3, mechanizmów informowania ostandardach prowadzenia działalności pożytku publicznego nie tej organizacji zKrajowego Rejestru Sądowego. oraz ostwierdzonych przypadkach naruszenia tych standardów.
 
 3. Kadencja Rady trwa 3 lata.
 
 **Art. 36.**
 
-1. Rada sk∏ada si´ z:
+1. Rada składa się z:
 
-- **1)** pi´ciu przedstawicieli organów administracji rzàdowej ijednostek im podleg∏ych lub przez nie nadzorowanych;
-- **2)** pi´ciu przedstawicieli jednostek samorzàdu terytorialnego;
-- **3)** dziesi´ciu przedstawicieli organizacji pozarzàdowych, zwiàzków iporozumieƒ organizacji pozarzàdowych oraz podmiotów wymienionych w art. 3 ust. 3.
+- **1)** pięciu przedstawicieli organów administracji rządowej ijednostek im podległych lub przez nie nadzorowanych;
+- **2)** pięciu przedstawicieli jednostek samorządu terytorialnego;
+- **3)** dziesięciu przedstawicieli organizacji pozarządowych, związków iporozumień organizacji pozarządowych oraz podmiotów wymienionych w art. 3 ust. 3.
 
-2. Cz∏onków Rady powo∏uje i odwo∏uje minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego, ztym ˝e powo∏anie cz∏onków Rady, reprezentujàcych:
+2. Członków Rady powołuje i odwołuje minister właściwy do spraw zabezpieczenia społecznego, ztym że powołanie członków Rady, reprezentujących:
 
-- **1)** organizacje pozarzàdowe, zwiàzki i porozumienia organizacji pozarzàdowych oraz podmioty wymienione w art. 3 ust. 3, nast´puje spoÊród kandydatów zg∏oszonych przez te organizacje;
-- **2)** organy administracji rzàdowej ijednostki im podleg∏e lub przez nie nadzorowane, nast´puje spoÊród osób zg∏oszonych przez te organy i kierowników takich jednostek;
-- **3)** jednostki samorzàdu terytorialnego, nast´puje spoÊród osób zg∏oszonych przez stron´ samorzàdowà w Komisji Wspólnej Rzàdu i Samorzàdu Terytorialnego.
+- **1)** organizacje pozarządowe, związki i porozumienia organizacji pozarządowych oraz podmioty wymienione w art. 3 ust. 3, następuje spośród kandydatów zgłoszonych przez te organizacje;
+- **2)** organy administracji rządowej ijednostki im podległe lub przez nie nadzorowane, następuje spośród osób zgłoszonych przez te organy i kierowników takich jednostek;
+- **3)** jednostki samorządu terytorialnego, następuje spośród osób zgłoszonych przez stronę samorządową w Komisji Wspólnej Rządu i Samorządu Terytorialnego.
 
-3. Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego odwo∏uje cz∏onka Rady przed up∏ywem kadencji:
+3. Minister właściwy do spraw zabezpieczenia społecznego odwołuje członka Rady przed upływem kadencji:
 
 - **1)** na jego wniosek;
-- **2)** na wniosek podmiotu, októrym mowa wust. 2, reprezentowanego przez tego cz∏onka;
-- **3)** wprzypadku skazania cz∏onka Rady prawomocnym wyrokiem za przest´pstwo pope∏nione z winy umyÊlnej.
+- **2)** na wniosek podmiotu, októrym mowa wust. 2, reprezentowanego przez tego członka;
+- **3)** wprzypadku skazania członka Rady prawomocnym wyrokiem za przestępstwo popełnione z winy umyślnej.
 
-**Art. 37.** Posiedzenia Rady sà zwo∏ywane przez ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego lub na wniosek co najmniej jednej czwartej liczby cz∏onków Rady.
+**Art. 37.** Posiedzenia Rady są zwoływane przez ministra właściwego do spraw zabezpieczenia społecznego lub na wniosek co najmniej jednej czwartej liczby członków Rady.
 
-**Art. 38.** Rada mo˝e:
+**Art. 38.** Rada może:
 
 **Art. 39.**
 
-1. Koszty funkcjonowania Rady zwiàzane niem ekspertyz, a tak˝e z uczestnictwem w jej posiedzeniach ekspertów, cz∏onków Rady i osób nieb´dàcych jej cz∏onkami, pokrywa si´ zcz´Êci bud˝etu, której dysponentem jest minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego.
+1. Koszty funkcjonowania Rady związane niem ekspertyz, a także z uczestnictwem w jej posiedzeniach ekspertów, członków Rady i osób niebędących jej członkami, pokrywa się zczęści budżetu, której dysponentem jest minister właściwy do spraw zabezpieczenia społecznego.
 
-2. Za udzia∏ wpracach Rady przys∏ugujà diety oraz zwrot kosztów podró˝y na zasadach okreÊlonych w przepisach wydanych na podstawie art. 77 z obs∏ugà, przeprowadzaniem badaƒ i opracowywa§ 2 Kodeksu pracy.
+2. Za udział wpracach Rady przysługują diety oraz zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 z obsługą, przeprowadzaniem badań i opracowywa§ 2 Kodeksu pracy.
 
-3. Pracodawca jest obowiàzany zwolniç pracownika b´dàcego cz∏onkiem Rady od pracy w celu wzi´cia udzia∏u wposiedzeniach Rady. Za czas zwolnienia pracownik zachowuje prawo do wynagrodzenia ustalonego wed∏ug zasad obowiàzujàcych przy obliczaniu ekwiwalentu pieni´˝nego za urlop wypoczynkowy, pokrywanego zcz´Êci bud˝etu, której dysponentem jest minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego.
+3. Pracodawca jest obowiązany zwolnić pracownika będącego członkiem Rady od pracy w celu wzięcia udziału wposiedzeniach Rady. Za czas zwolnienia pracownik zachowuje prawo do wynagrodzenia ustalonego według zasad obowiązujących przy obliczaniu ekwiwalentu pieniężnego za urlop wypoczynkowy, pokrywanego zczęści budżetu, której dysponentem jest minister właściwy do spraw zabezpieczenia społecznego.
 
-**Art. 40.** Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego okreÊli, wdrodze rozporzàdzenia:
+**Art. 40.** Minister właściwy do spraw zabezpieczenia społecznego określi, wdrodze rozporządzenia:
 
-**Art. 41.** Obs∏ug´ administracyjno-biurowà Rady zapewnia urzàd obs∏ugujàcy ministra w∏aÊciwego do spraw zabezpieczenia spo∏ecznego. DZIA¸ III Wolontariat Rozdzia∏ 1 Przepisy ogólne
+**Art. 41.** Obsługę administracyjno-biurową Rady zapewnia urząd obsługujący ministra właściwego do spraw zabezpieczenia społecznego. DZIAĘ III Wolontariat
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 42.**
 
-1. Wolontariusze mogà wykonywaç, na zasadach okreÊlonych wniniejszym rozdziale, Êwiadczenia, odpowiadajàce Êwiadczeniu pracy, na rzecz:
+1. Wolontariusze mogą wykonywać, na zasadach określonych wniniejszym rozdziale, świadczenia, odpowiadające świadczeniu pracy, na rzecz:
 
-- **1)** organizacji pozarzàdowych oraz podmiotów wymienionych wart. 3 ust. 3 wzakresie ich dzia∏alnoÊci statutowej, w szczególnoÊci w zakresie dzia∏alnoÊci po˝ytku publicznego,
-- **2)** organów administracji publicznej, z wy∏àczeniem prowadzonej przez nie dzia∏alnoÊci gospodarczej,
-- **3)** jednostek organizacyjnych podleg∏ych organom administracji publicznej lub nadzorowanych przez te organy, zwy∏àczeniem prowadzonej przez te jednostki dzia∏alnoÊci gospodarczej zwanych dalej „korzystajàcymi”.
+- **1)** organizacji pozarządowych oraz podmiotów wymienionych wart. 3 ust. 3 wzakresie ich działalności statutowej, w szczególności w zakresie działalności pożytku publicznego,
+- **2)** organów administracji publicznej, z wyłączeniem prowadzonej przez nie działalności gospodarczej,
+- **3)** jednostek organizacyjnych podległych organom administracji publicznej lub nadzorowanych przez te organy, zwyłączeniem prowadzonej przez te jednostki działalności gospodarczej zwanych dalej Ńkorzystającymi”.
 
-2. Przepisy niniejszego rozdzia∏u stosuje si´ odpowiednio do wolontariuszy wykonujàcych na obszarze Rzeczypospolitej Polskiej Êwiadczenia na rzecz organizacji mi´dzynarodowych, je˝eli postanowienia umów mi´dzynarodowych nie stanowià inaczej.
+2. Przepisy niniejszego rozdziału stosuje się odpowiednio do wolontariuszy wykonujących na obszarze Rzeczypospolitej Polskiej świadczenia na rzecz organizacji międzynarodowych, jeżeli postanowienia umów międzynarodowych nie stanowią inaczej.
 
-**Art. 43.** Wolontariusz powinien posiadaç kwalifikacje ispe∏niaç wymagania odpowiednie do rodzaju izakresu wykonywanych Êwiadczeƒ, je˝eli obowiàzek posiadania takich kwalifikacji i spe∏niania stosownych wymagaƒ wynika zodr´bnych przepisów.
+**Art. 43.** Wolontariusz powinien posiadać kwalifikacje ispełniać wymagania odpowiednie do rodzaju izakresu wykonywanych świadczeń, jeżeli obowiązek posiadania takich kwalifikacji i spełniania stosownych wymagań wynika zodrębnych przepisów.
 
 **Art. 44.**
 
-1. Âwiadczenia wolontariuszy sà wykonywane w zakresie, w sposób i w czasie okreÊlonych w porozumieniu z korzystajàcym. Porozumienie powinno zawieraç postanowienie omo˝liwoÊci jego rozwiàzania.
+1. Âwiadczenia wolontariuszy są wykonywane w zakresie, w sposób i w czasie określonych w porozumieniu z korzystającym. Porozumienie powinno zawierać postanowienie omożliwości jego rozwiązania.
 
-2. Na ˝àdanie wolontariusza korzystajàcy jest obowiàzany potwierdziç na piÊmie treÊç porozumienia, o którym mowa w ust. 1, a tak˝e wydaç pisemne zaÊwiadczenie owykonaniu Êwiadczeƒ przez wolontariusza, wtym ozakresie wykonywanych Êwiadczeƒ.
+2. Na żądanie wolontariusza korzystający jest obowiązany potwierdzić na piśmie treść porozumienia, o którym mowa w ust. 1, a także wydać pisemne zaświadczenie owykonaniu świadczeń przez wolontariusza, wtym ozakresie wykonywanych świadczeń.
 
-3. Na proÊb´ wolontariusza korzystajàcy mo˝e przed∏o˝yç pisemnà opini´ o wykonaniu Êwiadczeƒ przez wolontariusza.
+3. Na prośbę wolontariusza korzystający może przedłożyć pisemną opinię o wykonaniu świadczeń przez wolontariusza.
 
-4. Je˝eli Êwiadczenie wolontariusza wykonywane jest przez okres d∏u˝szy ni˝ 30 dni, porozumienie powinno byç sporzàdzone na piÊmie. Rozdzia∏ 2 Przepisy szczególne
+4. Jeżeli świadczenie wolontariusza wykonywane jest przez okres dłuższy niż 30 dni, porozumienie powinno być sporządzone na piśmie.
+
+#### Rozdział 2 Przepisy szczególne
 
 **Art. 45.**
 
-1. Korzystajàcy ma obowiàzek:
+1. Korzystający ma obowiązek:
 
-- **1)** informowaç wolontariusza o ryzyku dla zdrowia i bezpieczeƒstwa zwiàzanym z wykonywanymi Êwiadczeniami oraz o zasadach ochrony przed zagro˝eniami;
-- **2)** zapewniç wolontariuszowi, na dotyczàcych pracowników zasadach okreÊlonych w odr´bnych przepisach, bezpieczne i higieniczne warunki wykonywania przez niego Êwiadczeƒ, wtym wzale˝noÊci od rodzaju Êwiadczeƒ i zagro˝eƒ zwiàzanych z ich wykonywaniem odpowiednie Êrodki ochrony indywidualnej;
-- **3)** pokrywaç, na dotyczàcych pracowników zasadach okreÊlonych w odr´bnych przepisach, koszty podró˝y s∏u˝bowych idiet.
+- **1)** informować wolontariusza o ryzyku dla zdrowia i bezpieczeństwa związanym z wykonywanymi świadczeniami oraz o zasadach ochrony przed zagrożeniami;
+- **2)** zapewnić wolontariuszowi, na dotyczących pracowników zasadach określonych w odrębnych przepisach, bezpieczne i higieniczne warunki wykonywania przez niego świadczeń, wtym wzależności od rodzaju świadczeń i zagrożeń związanych z ich wykonywaniem odpowiednie środki ochrony indywidualnej;
+- **3)** pokrywać, na dotyczących pracowników zasadach określonych w odrębnych przepisach, koszty podróży służbowych idiet.
 
-2. Korzystajàcy mo˝e pokrywaç, na dotyczàcych pracowników zasadach okreÊlonych w odr´bnych przepisach, tak˝e inne niezb´dne koszty ponoszone przez wolontariusza, zwiàzane z wykonywaniem Êwiadczeƒ na rzecz korzystajàcego.
+2. Korzystający może pokrywać, na dotyczących pracowników zasadach określonych w odrębnych przepisach, także inne niezbędne koszty ponoszone przez wolontariusza, związane z wykonywaniem świadczeń na rzecz korzystającego.
 
-3. Korzystajàcy mo˝e pokrywaç koszty szkoleƒ wolonatariuszy w zakresie wykonywanych przez nich Êwiadczeƒ okreÊlonych wporozumieniu, októrym mo4. Wolontariusz mo˝e, w formie pisemnej pod rygorem niewa˝noÊci, zwolniç korzystajàcego w ca∏oÊci lub w cz´Êci z obowiàzków wymienionych w ust. 1 pkt3.
+3. Korzystający może pokrywać koszty szkoleń wolonatariuszy w zakresie wykonywanych przez nich świadczeń określonych wporozumieniu, októrym mo4. Wolontariusz może, w formie pisemnej pod rygorem nieważności, zwolnić korzystającego w całości lub w części z obowiązków wymienionych w ust. 1 pkt3.
 
 **Art. 46.**
 
-1. Wolontariuszowi mogà przys∏ugiwaç Êwiadczenia zdrowotne na zasadach przewidzianych wprzepisach opowszechnym ubezpieczeniu zdrowotnym.
+1. Wolontariuszowi mogą przysługiwać świadczenia zdrowotne na zasadach przewidzianych wprzepisach opowszechnym ubezpieczeniu zdrowotnym.
 
-2. Wolontariuszowi przys∏uguje zaopatrzenie z tytu∏u wypadku przy wykonywaniu Êwiadczeƒ, októrych mowa w art. 42, na podstawie odr´bnych przepisów, zzastrze˝eniem ust. 3.
+2. Wolontariuszowi przysługuje zaopatrzenie z tytułu wypadku przy wykonywaniu świadczeń, októrych mowa w art. 42, na podstawie odrębnych przepisów, zzastrzeżeniem ust. 3.
 
-3. Wolontariuszowi, który wykonuje Êwiadczenia przez okres nie d∏u˝szy ni˝ 30 dni, korzystajàcy zobowiàzany jest zapewniç ubezpieczenie od nast´pstw nieszcz´Êliwych wypadków.
+3. Wolontariuszowi, który wykonuje świadczenia przez okres nie dłuższy niż 30 dni, korzystający zobowiązany jest zapewnić ubezpieczenie od następstw nieszczęśliwych wypadków.
 
-**Art. 47.** Korzystajàcy ma obowiàzek poinformowaç wolontariusza o przys∏ugujàcych mu prawach i cià˝àcych obowiàzkach oraz zapewniç dost´pnoÊç tych informacji.
+**Art. 47.** Korzystający ma obowiązek poinformować wolontariusza o przysługujących mu prawach i ciążących obowiązkach oraz zapewnić dostępność tych informacji.
 
-**Art. 48.** Je˝eli porozumienie zawarte mi´dzy korzystajàcym, októrym mowa wart. 42 ust. 1 pkt 2 i3, awolontariuszem dotyczy wydelegowania wolontariusza wcelu wykonywania przez niego Êwiadczeƒ na terytorium innego paƒstwa, na podstawie umowy mi´dzynarodowej wià˝àcej Rzeczpospolità Polskà, wolontariuszowi przys∏uguje prawo do Êwiadczeƒ ipokrycia kosztów ogólnie przyj´tych wstosunkach danego rodzaju, chyba ˝e umowy mi´dzynarodowe stanowà inaczej.
+**Art. 48.** Jeżeli porozumienie zawarte między korzystającym, októrym mowa wart. 42 ust. 1 pkt 2 i3, awolontariuszem dotyczy wydelegowania wolontariusza wcelu wykonywania przez niego świadczeń na terytorium innego państwa, na podstawie umowy międzynarodowej wiążącej Rzeczpospolitą Polską, wolontariuszowi przysługuje prawo do świadczeń ipokrycia kosztów ogólnie przyjętych wstosunkach danego rodzaju, chyba że umowy międzynarodowe stanową inaczej.
 
-**Art. 49.** Wydatki na cele, októrych mowa wart. 45 ust. 1 i3 oraz art. 46 ust. 3, stanowià:
+**Art. 49.** Wydatki na cele, októrych mowa wart. 45 ust. 1 i3 oraz art. 46 ust. 3, stanowią:
 
-**Art. 50.** WartoÊç Êwiadczenia wolontariusza nie stanowi darowizny na rzecz korzystajàcego wrozumieniu przepisów Kodeksu cywilnego oraz przepisów podatkowych.
+**Art. 50.** Wartość świadczenia wolontariusza nie stanowi darowizny na rzecz korzystającego wrozumieniu przepisów Kodeksu cywilnego oraz przepisów podatkowych.
 
 **Art. 51.** Pierwsza kadencja Rady, o której mowa wart. 35 ust. 1, trwa 2 lata.
 
-**Art. 52.** Rada Ministrów przedstawi Sejmowi i Senatowi Rzeczypospolitej Polskiej w terminie do dnia 30 czerwca 2005 r. sprawozdanie zdzia∏ania ustawy za okres od dnia jej wejÊcia w ˝ycie do dnia 31 grudnia 2004 r.
+**Art. 52.** Rada Ministrów przedstawi Sejmowi i Senatowi Rzeczypospolitej Polskiej w terminie do dnia 30 czerwca 2005 r. sprawozdanie zdziałania ustawy za okres od dnia jej wejścia w życie do dnia 31 grudnia 2004 r.
 
-**Art. 53.** Ustawa wchodzi w˝ycie na zasadach okreÊlonych wodr´bnej ustawie. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+**Art. 53.** Ustawa wchodzi wżycie na zasadach określonych wodrębnej ustawie. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

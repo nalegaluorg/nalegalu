@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# 2. Odmiany winoroÊli o owocach ró˝owych lub 13) Dornfelder;
+# 2. Odmiany winorośli o owocach różowych lub 13) Dornfelder;
 
 | Pole | Wartość |
 |---|---|
@@ -27,10 +27,10 @@ domain: null
 czerwonych: 14) Dunaj;
 1) Fr 868-59, synonim Freiminer; 15) Frankovka, synonim Limberger;
 2) Kernling; 16) Frühburgunder, synonim Pinot Noir Precoce;
-3) Pinot Gris; 17) Frücher Roter Malvasier, synonim Wetliƒska Czer4) Siegerrebe; wona Wczesna;
+3) Pinot Gris; 17) Frücher Roter Malvasier, synonim Wetlińska Czer4) Siegerrebe; wona Wczesna;
 5) Traminer. 18) Landot;
 19) Leon Millot;
-3. Odmiany winoroÊli o owocach ciemnych: 20) Madeleine Sylvaner;
+3. Odmiany winorośli o owocach ciemnych: 20) Madeleine Sylvaner;
 1) Alcon; 21) Marechal Foch;
 2) Agni; 22) Medina;
 3) Baco Noir; 23) Merlot;
@@ -43,9 +43,9 @@ czerwonych: 14) Dunaj;
 10) Chambourcin; 30) Svatovavřineck¯, synonim Saint Laurent;
 11) De Chaunac; 31) Turan;
 12) Domina; 32) Zweigelt.
-122 WYROK TRYBUNA¸U KONSTYTUCYJNEGO z dnia 18 stycznia 2005 r.
-sygn. akt K 15/03 Trybuna∏ Konstytucyjny w sk∏adzie: Marian Zdyb przewodniczàcy, Jerzy Ciemniewski, Marian Grzybowski, Jerzy St´pieƒ sprawozdawca, Bohdan Zdziennicki, po rozpoznaniu, z udzia∏em wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 18 stycznia 2005 r., wniosku Komisji Krajowej NSZZ „SolidarnoÊç” ozbadanie zgodnoÊci art. 1 pkt 2 i art. 2 pkt 2 ustawy z dnia 17 grudnia 2001 r. o zmianie ustawy o szkolnictwie wy˝szym oraz o zmianie niektórych innych ustaw (Dz. U. z2002 r. Nr 4, poz. 33) z art. 2 i art. 7 Konstytucji Rzeczypospolitej Polskiej, orzeka:
-Art. 1 pkt 2 i art. 2 pkt 2 ustawy z dnia 17 grudnia 2001 r. ozmianie ustawy oszkolnictwie wy˝szym oraz o zmianie niektórych innych ustaw (Dz. U. z 2002 r.
-Nr 4, poz. 33) sà zgodne z art. 2 i art. 7 Konstytucji Rzeczypospolitej Polskiej.
-Marian Zdyb Jerzy Ciemniewski Marian Grzybowski Jerzy St´pieƒ Bohdan Zdziennicki
+122 WYROK TRYBUNAĘU KONSTYTUCYJNEGO z dnia 18 stycznia 2005 r.
+sygn. akt K 15/03 Trybunał Konstytucyjny w składzie: Marian Zdyb przewodniczący, Jerzy Ciemniewski, Marian Grzybowski, Jerzy Stępień sprawozdawca, Bohdan Zdziennicki, po rozpoznaniu, z udziałem wnioskodawcy oraz Sejmu i Prokuratora Generalnego, na rozprawie w dniu 18 stycznia 2005 r., wniosku Komisji Krajowej NSZZ ŃSolidarność” ozbadanie zgodności art. 1 pkt 2 i art. 2 pkt 2 ustawy z dnia 17 grudnia 2001 r. o zmianie ustawy o szkolnictwie wyższym oraz o zmianie niektórych innych ustaw (Dz. U. z2002 r. Nr 4, poz. 33) z art. 2 i art. 7 Konstytucji Rzeczypospolitej Polskiej, orzeka:
+Art. 1 pkt 2 i art. 2 pkt 2 ustawy z dnia 17 grudnia 2001 r. ozmianie ustawy oszkolnictwie wyższym oraz o zmianie niektórych innych ustaw (Dz. U. z 2002 r.
+Nr 4, poz. 33) są zgodne z art. 2 i art. 7 Konstytucji Rzeczypospolitej Polskiej.
+Marian Zdyb Jerzy Ciemniewski Marian Grzybowski Jerzy Stępień Bohdan Zdziennicki
 

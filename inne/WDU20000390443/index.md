@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# oumowach mi´dzynarodowych.
+# oumowach międzynarodowych.
 
 *USTAWA zdnia 14 kwietnia 2000 r.*
 
@@ -26,59 +26,66 @@ domain: null
 | Ostatnia zmiana | 2026-03-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000390443) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/443/text.pdf) |
 
-Rozdzia∏ 1 Przepisy ogólne
-1.Ustawa okreÊla zasady oraz tryb zawierania, ratyfikowania, zatwierdzania, og∏aszania, wykonywania, wypowiadania zmian zakresu obowiàzywania mi´dzynarodowych.
+1.Ustawa określa zasady oraz tryb zawierania, ratyfikowania, zatwierdzania, ogłaszania, wykonywania, wypowiadania zmian zakresu obowiązywania międzynarodowych.
 2. Wrozumieniu niniejszej ustawy:
-1) umowa mi´dzynarodowa oznacza porozumienie mi´dzy Rzeczàpospolità Polskà a innym podmiotem lub podmiotami prawa mi´dzynarodowego, regulowane przez prawo mi´dzynarodowe, niezale˝nie od tego, czy uj´te jednym dokumencie czy wwi´kszej liczbie dokumentów, bez wzgl´du jego nazw´ oraz bez wzgl´du to, czy zawierane imieniu paƒstwa, rzàdu czy ministra kierujàcego dzia∏em administracji rzàdowej w∏aÊciwego umowa mi´dzynarodowa,
-2) zawieranie mi´dzynarodowej obejmuje: rozpocz´cie prowadzenie negocjacji, przyj´cie tekstu umowy, wyra˝enie zgody podpisanie oraz podpisanie umowy, je˝eli jego skutkiem nie zwiàzanie Rzeczypospolitej Polskiej umowà mi´dzynarodowà,
-3) zwiàzanie umowà mi´dzynarodowà obejmuje wszelkie czynnoÊci przewidziane wprawie mi´dzynarodowym, a szczególnoÊci Konwencji wiedeƒskiej traktatów, sporzàdzonej wWiedniu dnia 23 maja 1969 r. (Dz. U. z 1990 r. 74, pospolitej Polskiej takimi umowami oraz obowiàzywania wypowiadania mi´dzynarodowych dokonuje minister w∏aÊciwy spraw zagranicznych.
-4.Przepisy niniejszej ustawy odnoszàce ministra odpowiednio kierownika centralnego administracji rzàdowej.
-Rozdzia∏ 2 Zawieranie mi´dzynarodowej
-5. 1. Minister kierujàcy dzia∏em administracji rzàdowej w∏aÊciwy umowa mi´dzynarodowa, po uzgodnieniu projektu instrukcji negocjacyjnej z ministrem w∏aÊciwym spraw zagranicznych oraz z innymi zainteresowanymi ministrami, sk∏ada Prezesowi Rady Ministrów wniosek udzielenie zgody rozpocz´cie negocjacji mi´dzynarodowej.
-2. Prezes Rady Ministrów wyznacza organ w∏aÊciwy prowadzenia negocjacji oraz okreÊla zakres jego upowa˝nienia.
-6.1. Organ w∏aÊciwy prowadzenia negocjacji sk∏ada Radzie Ministrów, po uzgodnieniu z ministrem w∏aÊciwym spraw zagranicznych oraz innymi w∏aÊciwymi ministrami, wniosek oudzielenie zgody podpisanie mi´dzynarodowej proponuje, wuzasadnionych przypadkach, treÊç zastrze˝eƒ strony polskiej wielostronnej.
-poz.439), wwyniku Rzeczpospolita Polska 2. Wniosek, którym ust. 1, okreÊla tryb staje stronà tej umowy. zwiàzania umowà mi´dzynarodowà Rzeczypospolitej Polskiej.
-3. Z zastrze˝eniem przepisów ustawy, czynno8.Rada Ministrów, majàc uwadze specyfik´ stosunków mi´dzynarodowych, okreÊli, drodze rozporzàdzenia, tryb opracowania projektu mi´dzynarodowej instrukcji negocjacyjnej, uwzgl´dniajàc przypadki, wktórych organ w∏aÊciwy prowadzenia negocjacji mo˝e je prowadziç bez projektu mi´dzynarodowej lub pisemnej instrukcji negocjacyjnej, oraz okreÊli wzory wniosków, art. 5—7. Rozporzàdzenie okreÊli szczególnoÊci sposób uzasadniania projektów mi´dzynarodowych.
-Rozdzia∏ 3 Pe∏nomocnictwa
-9.Wprzypadku gdy wymagane pe∏nomocnictwo prowadzenia negocjacji oraz przyj´cia tekstu mi´dzynarodowej, pe∏nomocnictwa udziela minister w∏aÊciwy spraw zagranicznych wniosek w∏aÊciwego prowadzenia negocjacji.
-10. W przypadku gdy wymagane pe∏nomocnictwo podpisania mi´dzynarodowej, pe∏nomocnictwa udziela Prezes Rady Ministrów wniosek ministra w∏aÊciwego spraw zagranicznych.
-11.Rada Ministrów okreÊli, rozporzàdzenia, wzory terminy sk∏adania wniosków sprawach, októrych wart. 9 i10.
-Rozdzia∏ 4 Ratyfikacja izatwierdzenie mi´dzynarodowej
-12. 1. Zwiàzanie Rzeczypospolitej Polskiej umowà mi´dzynarodowà wymaga zgody wyra˝onej ratyfikacji lub przez zatwierdzenie.
-2. Ratyfikacji podlegajà mi´dzynarodowe, októrych wart. 89 ust. 1 iart. 90 Konstytucji Rzeczypospolitej Polskiej, oraz inne mi´dzynarodowe, które przewidujà wymóg ratyfikacji albo jà dopuszczajà, aszczególne okolicznoÊci to uzasadniajà.
-3. Umowa mi´dzynarodowa, która nie podlega ranarodowa nie narusza przepisów ustawy upowa˝niajàcej, lub
-2) umowa mi´dzynarodowa ma charakter wykonawczy stosunku obowiàzujàcej mi´dzynarodowej nie wype∏nia przes∏anek okreÊlonych wart. 89 ust. 1 lub art. 90 Konstytucji Rzeczypospolitej Polskiej, lub
-3) celem mi´dzynarodowej zmiana obowiàzujàcej umowy, tym za∏àcznika niej, azmiana mi´dzynarodowej lub za∏àcznika nie wype∏nia przes∏anek okreÊlonych art. 89 tyfikacji, wymaga zatwierdzenia przez Rad´ Ministrów.
-13. 1. Zwiàzanie Rzeczypospolitej Polskiej umowà mi´dzynarodowà mo˝e nastàpiç równie˝ ust. 1 lub art. 90 Konstytucji Rzeczypospolitej Polskiej, lub
-4) wymagajà tego inne szczególne okolicznoÊci, a umowa mi´dzynarodowa nie wype∏nia przes∏anek okreÊlonych wart. 89 ust. 1 lub art. 90 Konstytucji Rzeczypospolitej Polskiej.
-14. Organ w∏aÊciwy prowadzenia negocjacji lub minister kierujàcy dzia∏em administracji rzàdowej w∏aÊciwy umowa mi´dzynarodowa, po uzgodnieniu zzainteresowanymi ministrami, sk∏ada Radzie Ministrów, za poÊrednictwem ministra w∏aÊciwego spraw zagranicznych, wniosek oratyfikacj´ lub zatwierdzenie mi´dzynarodowej.
-15. 1. Ministrów podejmuje uchwa∏´ przed∏o˝eniu mi´dzynarodowej Prezydentowi Rzeczypospolitej Polskiej ratyfikacji lub jej zatwierdzeniu.
-2. Minister w∏aÊciwy spraw zagranicznych przedk∏ada Prezydentowi Rzeczypospolitej Polskiej ratyfikacji umow´ mi´dzynarodowà wraz zuzasadnieniem oraz projektem dokumentu ratyfikacyjnego.
-3. Przed∏o˝enie mi´dzynarodowej Prezydentowi Rzeczypospolitej Polskiej ratyfikacji dokonywane po uzyskaniu zgody, októrej wart. 89 ust. 1 iart. 90 Konstytucji Rzeczypospolitej Polskiej, lub po zawiadomieniu Sejmu Rzeczypospolitej Polskiej zgodnie z art. 89 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
-4. W przypadku wyra˝enia przez Sejm Rzeczypospolitej Polskiej negatywnej opinii, terminie 30 dni od dnia zawiadomienia, co zasadnoÊci wyboru trybu ratyfikacji mi´dzynarodowej, októrym mowa art. 89 ust. 2 Konstytucji Rzeczypospolitej Polstron.
-17. Przepisy niniejszej ustawy dotyczàce ratyfikacji lub zatwierdzenia mi´dzynarodowej stosuje odpowiednio przystàpienia takiej umowy.
-Rozdzia∏ 5 Og∏aszanie mi´dzynarodowej
-18. 1. Ratyfikowana umowa mi´dzynarodowa wraz z dotyczàcymi jej oÊwiadczeniami rzàdowymi oraz umowa mi´dzynarodowa, októrej wart. 13 ust. 2 pkt 1 oraz pkt 2 3, ile stanowi umow´ wykonawczà stosunku ratyfikowanej mi´dzynarodowej lub zmienia ratyfikowanà umow´ mi´dzynarodowà, og∏aszana niezw∏ocznie, wraz z dotyczàcymi jej oÊwiadczeniami rzàdowymi, Dzienniku Rzeczypospolitej Polskiej, zwanym dalej „Dziennikiem Ustaw”.
-2. Og∏oszenie innej ni˝ ratyfikowana za uprzednià zgodà wyra˝onà wustawie mi´dzynarodowej, której ust. 1, zarzàdza Prezydent Rzeczypospolitej Polskiej wniosek ministra w∏aÊciwego spraw zagranicznych.
-3. Umowa mi´dzynarodowa, inna ni˝ wymieniona wust. 1, og∏aszana wraz zdotyczàcymi jej oÊwiadczeniami rzàdowymi niezw∏ocznie Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”, zwanym dalej „Monitorem Polskim”. Og∏oszenie zarzàdza Prezes Rady Ministrów wniosek ministra kierujàcego dzia∏em administracji rzàdowej w∏aÊciwego ta umowa.
-4. Prezes Rady Ministrów, wniosek ministra kierujàcego dzia∏em administracji rzàdowej w∏aÊciwego umowa mi´dzynarodowa, mo˝e wyjàtkowych przypadkach, ze wzgl´du istotny interes paƒstwa, szczególnoÊci interes obronnoÊci, bezpieczeƒstwa paƒstwa obywateli, odstàpiç od obowiàzku og∏oszenia tej wMonitorze Polskim.
-5. W uzasadnionych przypadkach, odpowiednio, Prezydent Rzeczypospolitej Polskiej lub Prezes Rady Ministrów mogà odstàpiç od og∏oszenia Dzienniku dowej j´zyku polskim oraz jednym z j´zyków, wktórych zosta∏ sporzàdzony tekst autentyczny.
-Rozdzia∏ 6 Wykonywanie mi´dzynarodowej
-20. 1. Minister kierujàcy dzia∏em administracji rzàdowej w∏aÊciwy umowa mi´dzynarodowa, odpowiedzialny za wykonywanie obowiàzków ikorzystanie zpraw wynikajàcych dla Rzeczypospolitej Polskiej ztej umowy.
-lub Monitorze Polskim do∏àczonego mi´dzynarodowej aneksu lub za∏àcznika, je˝eli zawierajà one szczegó∏owe przepisy charakterze specjalistycznym, niezastrze˝one regulacji ustawowej, do2. Minister, którym ust. 1, zawiadamia ministra w∏aÊciwego spraw zagranicznych przypadkach niewykonywania lub nieprawid∏owego wykonywania mi´dzynarodowej.
-21.Wprzypadku powstania sporu ze stronà lub stronami mi´dzynarodowej, opoddaniu sporu sàdowi, arbitra˝owi lub koncyliacji decyduje Ministrów wniosek ministra w∏aÊciwego ta umowa, uzgodniony z ministrem w∏aÊciwym spraw zagranicznych.
-Rozdzia∏ 7 Wypowiedzenie izmiana zakresu obowiàzywania mi´dzynarodowej
-22. 1. Do wypowiedzenia mi´dzynarodowej odpowiednio przepisy art. 14 iart. 15 ust. 1 i2.
-2. Przed∏o˝enie Prezydentowi Rzeczypospolitej Polskiej wypowiedzenia mi´dzynarodowej ratyfikowanej za zgodà, której art. 89 ust. 1 art. 90 Konstytucji Rzeczypospolitej Polskiej, dokonywane po uzyskaniu zgody wyra˝onej wustawie.
-3. OÊwiadczenia rzàdowe wypowiedzeniu umowy mi´dzynarodowej og∏asza wtrybie, wjakim zosta∏a og∏oszona umowa mi´dzynarodowa.
-23. Minister kierujàcy dzia∏em administracji rzàdowej w∏aÊciwy umowa mi´dzynarodowa, po uzgodnieniu zzzainteresowanymi ministrami, sk∏ada Radzie Ministrów, za poÊrednictwem ministra w∏aÊciwego spraw zagranicznych, wniosek o:
-1) przed∏u˝enie obowiàzywania mi´dzynarowart. 23, atak˝e rodzaje dokumentów, które przygoto- 5. OÊwiadczenie rzàdowe zmianie zakresu obowuje ido∏àcza wniosku minister w∏aÊciwy spraw wiàzywania mi´dzynarodowej, októrej zagranicznych. Rozporzàdzenie okreÊli szczególno- wart. 23, og∏asza wtrybie, wjakim zosta∏a og∏oszoÊci sposób uzasadniania wniosków. umowa mi´dzynarodowa.
-25. 1. Decyzj´ sprawie zmiany zakresu obo- Rozdzia∏ 8 wiàzywania mi´dzynarodowej, októrej wart. 23, podejmuje: Przepisy przejÊciowe ikoƒcowe
-1) Prezydent Rzeczypospolitej Polskiej, wniosek Rady Ministrów przypadku ratyfikowanej 26. Do czynnoÊci dotyczàcych mi´dzymi´dzynarodowej, narodowych, które zosta∏y rozpocz´te, a niezakoƒczone przed dniem wejÊcia ˝ycie ustawy,
-2) Ministrów wprzypadku innych mi´- przepisy niniejszej ustawy.
+1) umowa międzynarodowa oznacza porozumienie między Rzecząpospolitą Polską a innym podmiotem lub podmiotami prawa międzynarodowego, regulowane przez prawo międzynarodowe, niezależnie od tego, czy ujęte jednym dokumencie czy wwiększej liczbie dokumentów, bez względu jego nazwę oraz bez względu to, czy zawierane imieniu państwa, rządu czy ministra kierującego działem administracji rządowej właściwego umowa międzynarodowa,
+2) zawieranie międzynarodowej obejmuje: rozpoczęcie prowadzenie negocjacji, przyjęcie tekstu umowy, wyrażenie zgody podpisanie oraz podpisanie umowy, jeżeli jego skutkiem nie związanie Rzeczypospolitej Polskiej umową międzynarodową,
+3) związanie umową międzynarodową obejmuje wszelkie czynności przewidziane wprawie międzynarodowym, a szczególności Konwencji wiedeńskiej traktatów, sporządzonej wWiedniu dnia 23 maja 1969 r. (Dz. U. z 1990 r. 74, pospolitej Polskiej takimi umowami oraz obowiązywania wypowiadania międzynarodowych dokonuje minister właściwy spraw zagranicznych.
+4.Przepisy niniejszej ustawy odnoszące ministra odpowiednio kierownika centralnego administracji rządowej.
+5. 1. Minister kierujący działem administracji rządowej właściwy umowa międzynarodowa, po uzgodnieniu projektu instrukcji negocjacyjnej z ministrem właściwym spraw zagranicznych oraz z innymi zainteresowanymi ministrami, składa Prezesowi Rady Ministrów wniosek udzielenie zgody rozpoczęcie negocjacji międzynarodowej.
+2. Prezes Rady Ministrów wyznacza organ właściwy prowadzenia negocjacji oraz określa zakres jego upoważnienia.
+6.1. Organ właściwy prowadzenia negocjacji składa Radzie Ministrów, po uzgodnieniu z ministrem właściwym spraw zagranicznych oraz innymi właściwymi ministrami, wniosek oudzielenie zgody podpisanie międzynarodowej proponuje, wuzasadnionych przypadkach, treść zastrzeżeń strony polskiej wielostronnej.
+poz.439), wwyniku Rzeczpospolita Polska 2. Wniosek, którym ust. 1, określa tryb staje stroną tej umowy. związania umową międzynarodową Rzeczypospolitej Polskiej.
+3. Z zastrzeżeniem przepisów ustawy, czynno8.Rada Ministrów, mając uwadze specyfikę stosunków międzynarodowych, określi, drodze rozporządzenia, tryb opracowania projektu międzynarodowej instrukcji negocjacyjnej, uwzględniając przypadki, wktórych organ właściwy prowadzenia negocjacji może je prowadzić bez projektu międzynarodowej lub pisemnej instrukcji negocjacyjnej, oraz określi wzory wniosków, art. 5—7. Rozporządzenie określi szczególności sposób uzasadniania projektów międzynarodowych.
+9.Wprzypadku gdy wymagane pełnomocnictwo prowadzenia negocjacji oraz przyjęcia tekstu międzynarodowej, pełnomocnictwa udziela minister właściwy spraw zagranicznych wniosek właściwego prowadzenia negocjacji.
+10. W przypadku gdy wymagane pełnomocnictwo podpisania międzynarodowej, pełnomocnictwa udziela Prezes Rady Ministrów wniosek ministra właściwego spraw zagranicznych.
+11.Rada Ministrów określi, rozporządzenia, wzory terminy składania wniosków sprawach, októrych wart. 9 i10.
+12. 1. Związanie Rzeczypospolitej Polskiej umową międzynarodową wymaga zgody wyrażonej ratyfikacji lub przez zatwierdzenie.
+2. Ratyfikacji podlegają międzynarodowe, októrych wart. 89 ust. 1 iart. 90 Konstytucji Rzeczypospolitej Polskiej, oraz inne międzynarodowe, które przewidują wymóg ratyfikacji albo ją dopuszczają, aszczególne okoliczności to uzasadniają.
+3. Umowa międzynarodowa, która nie podlega ranarodowa nie narusza przepisów ustawy upoważniającej, lub
+2) umowa międzynarodowa ma charakter wykonawczy stosunku obowiązującej międzynarodowej nie wypełnia przesłanek określonych wart. 89 ust. 1 lub art. 90 Konstytucji Rzeczypospolitej Polskiej, lub
+3) celem międzynarodowej zmiana obowiązującej umowy, tym załącznika niej, azmiana międzynarodowej lub załącznika nie wypełnia przesłanek określonych art. 89 tyfikacji, wymaga zatwierdzenia przez Radę Ministrów.
+13. 1. Związanie Rzeczypospolitej Polskiej umową międzynarodową może nastąpić również ust. 1 lub art. 90 Konstytucji Rzeczypospolitej Polskiej, lub
+4) wymagają tego inne szczególne okoliczności, a umowa międzynarodowa nie wypełnia przesłanek określonych wart. 89 ust. 1 lub art. 90 Konstytucji Rzeczypospolitej Polskiej.
+14. Organ właściwy prowadzenia negocjacji lub minister kierujący działem administracji rządowej właściwy umowa międzynarodowa, po uzgodnieniu zzainteresowanymi ministrami, składa Radzie Ministrów, za pośrednictwem ministra właściwego spraw zagranicznych, wniosek oratyfikację lub zatwierdzenie międzynarodowej.
+15. 1. Ministrów podejmuje uchwałę przedłożeniu międzynarodowej Prezydentowi Rzeczypospolitej Polskiej ratyfikacji lub jej zatwierdzeniu.
+2. Minister właściwy spraw zagranicznych przedkłada Prezydentowi Rzeczypospolitej Polskiej ratyfikacji umowę międzynarodową wraz zuzasadnieniem oraz projektem dokumentu ratyfikacyjnego.
+3. Przedłożenie międzynarodowej Prezydentowi Rzeczypospolitej Polskiej ratyfikacji dokonywane po uzyskaniu zgody, októrej wart. 89 ust. 1 iart. 90 Konstytucji Rzeczypospolitej Polskiej, lub po zawiadomieniu Sejmu Rzeczypospolitej Polskiej zgodnie z art. 89 ust. 2 Konstytucji Rzeczypospolitej Polskiej.
+4. W przypadku wyrażenia przez Sejm Rzeczypospolitej Polskiej negatywnej opinii, terminie 30 dni od dnia zawiadomienia, co zasadności wyboru trybu ratyfikacji międzynarodowej, októrym mowa art. 89 ust. 2 Konstytucji Rzeczypospolitej Polstron.
+17. Przepisy niniejszej ustawy dotyczące ratyfikacji lub zatwierdzenia międzynarodowej stosuje odpowiednio przystąpienia takiej umowy.
+18. 1. Ratyfikowana umowa międzynarodowa wraz z dotyczącymi jej oświadczeniami rządowymi oraz umowa międzynarodowa, októrej wart. 13 ust. 2 pkt 1 oraz pkt 2 3, ile stanowi umowę wykonawczą stosunku ratyfikowanej międzynarodowej lub zmienia ratyfikowaną umowę międzynarodową, ogłaszana niezwłocznie, wraz z dotyczącymi jej oświadczeniami rządowymi, Dzienniku Rzeczypospolitej Polskiej, zwanym dalej ŃDziennikiem Ustaw”.
+2. Ogłoszenie innej niż ratyfikowana za uprzednią zgodą wyrażoną wustawie międzynarodowej, ust. 1, zarządza Prezydent Rzeczypospolitej Polskiej wniosek ministra właściwego spraw zagranicznych.
+3. Umowa międzynarodowa, inna niż wymieniona wust. 1, ogłaszana wraz zdotyczącymi jej oświadczeniami rządowymi niezwłocznie Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, zwanym dalej ŃMonitorem Polskim”. Ogłoszenie zarządza Prezes Rady Ministrów wniosek ministra kierującego działem administracji rządowej właściwego ta umowa.
+4. Prezes Rady Ministrów, wniosek ministra kierującego działem administracji rządowej właściwego umowa międzynarodowa, może wyjątkowych przypadkach, ze względu istotny interes państwa, szczególności interes obronności, bezpieczeństwa państwa obywateli, odstąpić od obowiązku ogłoszenia tej wMonitorze Polskim.
+5. W uzasadnionych przypadkach, odpowiednio, Prezydent Rzeczypospolitej Polskiej lub Prezes Rady Ministrów mogą odstąpić od ogłoszenia Dzienniku dowej języku polskim oraz jednym z języków, wktórych został sporządzony tekst autentyczny.
+20. 1. Minister kierujący działem administracji rządowej właściwy umowa międzynarodowa, odpowiedzialny za wykonywanie obowiązków ikorzystanie zpraw wynikających dla Rzeczypospolitej Polskiej ztej umowy.
+lub Monitorze Polskim dołączonego międzynarodowej aneksu lub załącznika, jeżeli zawierają one szczegółowe przepisy charakterze specjalistycznym, niezastrzeżone regulacji ustawowej, do2. Minister, którym ust. 1, zawiadamia ministra właściwego spraw zagranicznych przypadkach niewykonywania lub nieprawidłowego wykonywania międzynarodowej.
+21.Wprzypadku powstania sporu ze stroną lub stronami międzynarodowej, opoddaniu sporu sądowi, arbitrażowi lub koncyliacji decyduje Ministrów wniosek ministra właściwego ta umowa, uzgodniony z ministrem właściwym spraw zagranicznych.
+22. 1. Do wypowiedzenia międzynarodowej odpowiednio przepisy art. 14 iart. 15 ust. 1 i2.
+2. Przedłożenie Prezydentowi Rzeczypospolitej Polskiej wypowiedzenia międzynarodowej ratyfikowanej za zgodą, art. 89 ust. 1 art. 90 Konstytucji Rzeczypospolitej Polskiej, dokonywane po uzyskaniu zgody wyrażonej wustawie.
+3. Oświadczenia rządowe wypowiedzeniu umowy międzynarodowej ogłasza wtrybie, wjakim została ogłoszona umowa międzynarodowa.
+23. Minister kierujący działem administracji rządowej właściwy umowa międzynarodowa, po uzgodnieniu zzzainteresowanymi ministrami, składa Radzie Ministrów, za pośrednictwem ministra właściwego spraw zagranicznych, wniosek o:
+1) przedłużenie obowiązywania międzynarowart. 23, atakże rodzaje dokumentów, które przygoto- 5. Oświadczenie rządowe zmianie zakresu obowuje idołącza wniosku minister właściwy spraw wiązywania międzynarodowej, októrej zagranicznych. Rozporządzenie określi szczególno- wart. 23, ogłasza wtrybie, wjakim została ogłoszości sposób uzasadniania wniosków. umowa międzynarodowa.
+25. 1. Decyzję sprawie zmiany zakresu obo- Rozdział 8 wiązywania międzynarodowej, októrej wart. 23, podejmuje: Przepisy przejściowe ikońcowe
+1) Prezydent Rzeczypospolitej Polskiej, wniosek Rady Ministrów przypadku ratyfikowanej 26. Do czynności dotyczących międzymiędzynarodowej, narodowych, które zostały rozpoczęte, a niezakończone przed dniem wejścia życie ustawy,
+2) Ministrów wprzypadku innych mię- przepisy niniejszej ustawy.
 dzynarodowych.
-27.Ustawa wchodzi w˝ycie po up∏ywie 30 dni
-2. Zmiana zakresu obowiàzywania mi´dzy- od dnia og∏oszenia.
-narodowej dotyczàca ratyfikowanej za zgodà, októrej wart. 89 ust. 1 iart. 90 Konstytucji Rzeczypospolitej Polskiej, wymaga uprzedniej zgody wyra˝onej wustawie. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 444 KONWENCJA w∏aÊciwym dla zobowiàzaƒ alimentacyjnych, sporzàdzona Hadze dnia 2 paêdziernika 1973 r.
-Wimieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje powszechnej wiadomoÊci: Wdniu 2 paêdziernika 1973 r. zosta∏a sporzàdzona wHadze Konwencja w∏aÊciwym dla zobowiàzaƒ alimentacyjnych nast´pujàcym brzmieniu: Przek∏ad Konwencja w∏aÊciwym dla zobowiàzaƒ alimentacyjnych Convention sur la loi applicable aux Paƒstwa-sygnatariusze niniejszej konwencji, pragnàc ustanowiç wspólne obligations alimentaires Convention on the law applicable Les Etats signataires de la présente Convention, Désirant établir des disposito maintenance obligations The States signatory to this Convention, Desiring to establish common
+27.Ustawa wchodzi wżycie po upływie 30 dni
+2. Zmiana zakresu obowiązywania między- od dnia ogłoszenia.
+narodowej dotycząca ratyfikowanej za zgodą, októrej wart. 89 ust. 1 iart. 90 Konstytucji Rzeczypospolitej Polskiej, wymaga uprzedniej zgody wyrażonej wustawie. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 444 KONWENCJA właściwym dla zobowiązań alimentacyjnych, sporządzona Hadze dnia 2 paêdziernika 1973 r.
+Wimieniu Rzeczypospolitej Polskiej PREZYDENT RZECZYPOSPOLITEJ POLSKIEJ podaje powszechnej wiadomości: Wdniu 2 paêdziernika 1973 r. została sporządzona wHadze Konwencja właściwym dla zobowiązań alimentacyjnych następującym brzmieniu: Przekład Konwencja właściwym dla zobowiązań alimentacyjnych Convention sur la loi applicable aux Państwa-sygnatariusze niniejszej konwencji, pragnąc ustanowić wspólne obligations alimentaires Convention on the law applicable Les Etats signataires de la présente Convention, Désirant établir des disposito maintenance obligations The States signatory to this Convention, Desiring to establish common
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Zawieranie międzynarodowej
+
+#### Rozdział 3 Pełnomocnictwa
+
+#### Rozdział 4 Ratyfikacja izatwierdzenie międzynarodowej
+
+#### Rozdział 5 Ogłaszanie międzynarodowej
+
+#### Rozdział 6 Wykonywanie międzynarodowej
+
+#### Rozdział 7 Wypowiedzenie izmiana zakresu obowiązywania międzynarodowej
 

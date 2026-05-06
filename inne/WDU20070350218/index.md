@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070350218) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/218/text.pdf) |
 
-**Art. 1.** W ustawie dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomoÊciami rolnymi Skarbu Paƒstwa (Dz. 2004 208, poz. 2128, póên. zm.
+**Art. 1.** W ustawie z dnia 19 paêdziernika 1991 ogospodarowaniu nieruchomościami rolnymi Skarbu Państwa (Dz. U. z 2004 208, 2128, z póên. zm.
 
-**Art. 2.** W ustawie dnia 4 wrzeÊnia 1997 dzia∏ach administracji rzàdowej (Dz. 2003 159, poz. 1548, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 2.** W ustawie z dnia 4 września 1997 działach administracji rządowej (Dz. U. z 2003 159, 1548, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 4.** Ustawa wchodzi ˝ycie po up∏ywie 14 dni
+**Art. 4.** Ustawa wchodzi życie po upływie 14 dni
 
-**Art. 1.** Wustawie zdnia 20 maja 2005 ododatku pieni´˝nym dla niektórych emerytów, rencistów iosób pobierajàcych Êwiadczenie przedemerytalne albo zasi∏ek przedemerytalny (Dz. 102, poz. 852 oraz z2006 poz. 708 i711) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 20 maja 2005 ododatku pieniężnym dla niektórych emerytów, rencistów iosób pobierających świadczenie przedemerytalne albo zasiłek przedemerytalny (Dz. U. 102, 852 oraz z2006 708 i711) wprowadza się następujące zmiany:
 

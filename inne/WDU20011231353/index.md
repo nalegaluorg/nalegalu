@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# i 104, poz. 515, z 1997 r. 75, poz. 471, 106, wejÊcia w˝ycie niniejszej ustawy podlegajà rozpatrzepoz. 679, 114, poz. 739 i 144, poz. 971, z 1998 r. niu wed∏ug jej przepisów.
+# i 104, poz. 515, z 1997 r. 75, poz. 471, 106, wejścia wżycie niniejszej ustawy podlegają rozpatrzepoz. 679, 114, poz. 739 i 144, poz. 971, z 1998 r. niu według jej przepisów.
 
 | Pole | Wartość |
 |---|---|
@@ -25,620 +25,632 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011231353) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1353/text.pdf) |
 
 162, poz. 1126, z1999 r. 75, poz. 853, z2000 r. Nr2, poz. 5, 48, poz. 552, 60, poz. 704 iNr 91, poz. 1008 Art. 82. W ustawie z dnia 11 kwietnia 2001 r.
-oraz z 2001 r. 49, poz. 508 i 509, 98, poz. 1070 oochronie przed nadmiernym przywozem towarów na iNr101, poz.1113), zwy∏àczeniem przepisów art. 34. polski obszar celny (Dz. U. 43, poz. 477) w art. 6 w ust. 1 wyrazy „obejmowanego procedurà dopusz3. Wniesienie skargi do Naczelnego Sàdu Admini- czenia do obrotu” zast´puje si´ wyrazami „dopuszczastracyjnego nie wstrzymuje wykonania zaskar˝onego nego do obrotu na polskim obszarze celnym”.
-aktu, chyba ˝e sàd tak postanowi.
+oraz z 2001 r. 49, poz. 508 i 509, 98, poz. 1070 oochronie przed nadmiernym przywozem towarów na iNr101, poz.1113), zwyłączeniem przepisów art. 34. polski obszar celny (Dz. U. 43, poz. 477) w art. 6 w ust. 1 wyrazy Ńobejmowanego procedurą dopusz3. Wniesienie skargi do Naczelnego Sądu Admini- czenia do obrotu” zastępuje się wyrazami Ńdopuszczastracyjnego nie wstrzymuje wykonania zaskarżonego nego do obrotu na polskim obszarze celnym”.
+aktu, chyba że sąd tak postanowi.
 
-**Art. 83.** Traci moc ustawa zdnia 11 grudnia 1997r. DZIA¸ VII o ochronie przed przywozem na polski obszar celny towarów po cenach dumpingowych (Dz. U. 157, Przepisy przejÊciowe, zmiany poz.1028). w przepisach obowiàzujàcych i przepisy koƒcowe Art. 84.Ustawa wchodzi w˝ycie po up∏ywie miesiàca od dnia og∏oszenia.
+**Art. 83.** Traci moc ustawa zdnia 11 grudnia 1997r. DZIAĘ VII o ochronie przed przywozem na polski obszar celny towarów po cenach dumpingowych (Dz. U. 157, Przepisy przejściowe, zmiany poz.1028). w przepisach obowiązujących i przepisy końcowe Art. 84.Ustawa wchodzi wżycie po upływie miesiąca od dnia ogłoszenia.
 
-**Art. 81.** Post´powania wszcz´te i niezakoƒczone ostatecznym postanowieniem lub decyzjà przed dniem Prezydent Rzeczypospolitej Polskiej:A. KwaÊniewski USTAWA zdnia 24 sierpnia 2001 r. o˚andarmerii Wojskowej iwojskowych organach porzàdkowych. Rozdzia∏ 1 Przepisy ogólne
+**Art. 81.** Postępowania wszczęte i niezakończone ostatecznym postanowieniem lub decyzją przed dniem Prezydent Rzeczypospolitej Polskiej:A. Kwaśniewski USTAWA zdnia 24 sierpnia 2001 r. o˚andarmerii Wojskowej iwojskowych organach porządkowych.
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Tworzy si´ ˚andarmeri´ Wojskowà jako wyodr´bnionà i wyspecjalizowanà s∏u˝b´ wchodzàcà wsk∏ad Si∏ Zbrojnych Rzeczypospolitej Polskiej.
+1. Tworzy się ˚andarmerię Wojskową jako wyodrębnioną i wyspecjalizowaną służbę wchodzącą wskład Sił Zbrojnych Rzeczypospolitej Polskiej.
 
-2. Ustawa okreÊla:
+2. Ustawa określa:
 
-- **1)** zakres dzia∏ania iorganizacj´ ˚andarmerii Wojskowej oraz uprawnienia iobowiàzki ˝o∏nierzy ˚andarmerii Wojskowej,
-- **2)** rodzaje i zadania wojskowych organów porzàdkowych oraz uprawnienia i obowiàzki ˝o∏nierzy tych organów.
+- **1)** zakres działania iorganizację ˚andarmerii Wojskowej oraz uprawnienia iobowiązki żołnierzy ˚andarmerii Wojskowej,
+- **2)** rodzaje i zadania wojskowych organów porządkowych oraz uprawnienia i obowiązki żołnierzy tych organów.
 
-3. Ilekroç wustawie jest mowa o:
+3. Ilekroć wustawie jest mowa o:
 
-- **1)** ˝o∏nierzach ˚andarmerii Wojskowej rozumie si´ przez to ˝o∏nierzy pe∏niàcych czynnà s∏u˝b´ wojskowà na stanowiskach s∏u˝bowych wjednostkach organizacyjnych ˚andarmerii Wojskowej,
-- **2)** ˝o∏nierzach wojskowych organów porzàdkowych rozumie si´ przez to ˝o∏nierzy pe∏niàcych czynnà s∏u˝b´ wojskowà, wyznaczonych przez w∏aÊciwy organ wojskowy do pe∏nienia s∏u˝by okreÊlonej wart. 45,
-- **3)** Si∏ach Zbrojnych rozumie si´ przez to Si∏y ZbrojRozdzia∏ 2 Zakres dzia∏ania iorganizacja ˚andarmerii Wojskowej
+- **1)** żołnierzach ˚andarmerii Wojskowej rozumie się przez to żołnierzy pełniących czynną służbę wojskową na stanowiskach służbowych wjednostkach organizacyjnych ˚andarmerii Wojskowej,
+- **2)** żołnierzach wojskowych organów porządkowych rozumie się przez to żołnierzy pełniących czynną służbę wojskową, wyznaczonych przez właściwy organ wojskowy do pełnienia służby określonej wart. 45,
+- **3)** Siłach Zbrojnych rozumie się przez to Siły ZbrojRozdział 2 Zakres działania iorganizacja ˚andarmerii Wojskowej
 
-**Art. 2.** Nazwa „˚andarmeria Wojskowa”, jej skrót „˚W” przys∏uguje wy∏àcznie s∏u˝bie, o której mowa wart. 1ust. 1.
+**Art. 2.** Nazwa Ń˚andarmeria Wojskowa”, jej skrót Ń˚W” przysługuje wyłącznie służbie, o której mowa wart. 1ust. 1.
 
 **Art. 3.**
 
-1. ˚andarmeria Wojskowa wykonuje zadania nale˝àce do jej zakresu dzia∏ania w Si∏ach Zbrojnych oraz wstosunku do osób okreÊlonych wust. 2.
+1. ˚andarmeria Wojskowa wykonuje zadania należące do jej zakresu działania w Siłach Zbrojnych oraz wstosunku do osób określonych wust. 2.
 
-2. ˚andarmeria Wojskowa jest w∏aÊciwa wobec:
+2. ˚andarmeria Wojskowa jest właściwa wobec:
 
-- **1)** ˝o∏nierzy pe∏niàcych czynnà s∏u˝b´ wojskowà,
-- **2)** ˝o∏nierzy nieb´dàcych wczynnej s∏u˝bie wojskowej w czasie noszenia przez nich mundurów oraz odznak ioznak wojskowych,
+- **1)** żołnierzy pełniących czynną służbę wojskową,
+- **2)** żołnierzy niebędących wczynnej służbie wojskowej w czasie noszenia przez nich mundurów oraz odznak ioznak wojskowych,
 - **3)** pracowników zatrudnionych w jednostkach wojskowych:
-    - **a)** wzwiàzku zich zachowaniem si´ podczas pracy wtych jednostkach,
-    - **b)** w zwiàzku z pope∏nieniem przez nich czynu zabronionego przez ustaw´ pod groêbà kary, wià˝àcego si´ ztym zatrudnieniem, ne Rzeczypospolitej Polskiej.
+    - **a)** wzwiązku zich zachowaniem się podczas pracy wtych jednostkach,
+    - **b)** w związku z popełnieniem przez nich czynu zabronionego przez ustawę pod groêbą kary, wiążącego się ztym zatrudnieniem, ne Rzeczypospolitej Polskiej.
 
-- **4)** osób przebywajàcych na terenach lub wobiektach jednostek wojskowych,
-- **5)** innych osób ni˝ okreÊlone w pkt 1—4, podlegajàcych orzecznictwu sàdów wojskowych albo je˝eli wynika to zodr´bnych przepisów,
-- **6)** osób nieb´dàcych ˝o∏nierzami, je˝eli wspó∏dzia∏ajà zosobami, októrych mowa wpkt 1—5, wpope∏nieniu czynu zabronionego przez ustaw´ pod groêbà kary albo te˝ je˝eli dokonujà czynów zagra˝ajàcych dyscyplinie wojskowej albo czynów przeciwko ˝yciu lub zdrowiu ˝o∏nierza albo mieniu wojskowemu,
-- **7)** ˝o∏nierzy si∏ zbrojnych paƒstw obcych, przebywajàcych na terytorium Rzeczypospolitej Polskiej oraz cz∏onków ich personelu cywilnego, je˝eli pozostajà w zwiàzku z pe∏nieniem obowiàzków s∏u˝bowych, oile umowa mi´dzynarodowa, której Rzeczpospolita Polska jest stronà, nie stanowi inaczej.
+- **4)** osób przebywających na terenach lub wobiektach jednostek wojskowych,
+- **5)** innych osób niż określone w pkt 1—4, podlegających orzecznictwu sądów wojskowych albo jeżeli wynika to zodrębnych przepisów,
+- **6)** osób niebędących żołnierzami, jeżeli współdziałają zosobami, októrych mowa wpkt 1—5, wpopełnieniu czynu zabronionego przez ustawę pod groêbą kary albo też jeżeli dokonują czynów zagrażających dyscyplinie wojskowej albo czynów przeciwko życiu lub zdrowiu żołnierza albo mieniu wojskowemu,
+- **7)** żołnierzy sił zbrojnych państw obcych, przebywających na terytorium Rzeczypospolitej Polskiej oraz członków ich personelu cywilnego, jeżeli pozostają w związku z pełnieniem obowiązków służbowych, oile umowa międzynarodowa, której Rzeczpospolita Polska jest stroną, nie stanowi inaczej.
 
 **Art. 4.**
 
-1. Zadaniami ˚andarmerii Wojskowej sà:
+1. Zadaniami ˚andarmerii Wojskowej są:
 
 - **1)** zapewnianie przestrzegania dyscypliny wojskowej,
-- **2)** ochranianie porzàdku publicznego na terenach i obiektach jednostek wojskowych oraz w miejscach publicznych,
-- **3)** ochranianie ˝ycia i zdrowia ludzi oraz mienia wojskowego przed zamachami naruszajàcymi te dobra,
-- **4)** wykrywanie przest´pstw i wykroczeƒ, w tym skarbowych, pope∏nionych przez osoby, októrych mowa wart. 3 ust. 2, ujawnianie iÊciganie ich sprawców oraz ujawnianie i zabezpieczanie dowodów tych przest´pstw iwykroczeƒ,
-- **5)** zapobieganie pope∏nianiu przest´pstw iwykroczeƒ przez osoby, októrych mowa wart. 3 ust. 2, oraz innym zjawiskom patologicznym, awszczególnoÊci: alkoholizmowi inarkomanii wSi∏ach Zbrojnych,
-- **6)** wspó∏dzia∏anie zpolskimi oraz zagranicznymi organami i s∏u˝bami w∏aÊciwymi w sprawach bezpieczeƒstwa i porzàdku publicznego oraz policjami wojskowymi,
-- **7)** zwalczanie kl´sk ˝ywio∏owych, nadzwyczajnych zagro˝eƒ Êrodowiska ilikwidowanie ich skutków oraz czynne uczestniczenie w akcjach poszukiwawczych, ratowniczych ihumanitarnych, majàcych na celu ochron´ ˝ycia izdrowia oraz mienia,
-- **8)** wykonywanie innych zadaƒ okreÊlonych w odr´bnych przepisach.
+- **2)** ochranianie porządku publicznego na terenach i obiektach jednostek wojskowych oraz w miejscach publicznych,
+- **3)** ochranianie życia i zdrowia ludzi oraz mienia wojskowego przed zamachami naruszającymi te dobra,
+- **4)** wykrywanie przestępstw i wykroczeń, w tym skarbowych, popełnionych przez osoby, októrych mowa wart. 3 ust. 2, ujawnianie iściganie ich sprawców oraz ujawnianie i zabezpieczanie dowodów tych przestępstw iwykroczeń,
+- **5)** zapobieganie popełnianiu przestępstw iwykroczeń przez osoby, októrych mowa wart. 3 ust. 2, oraz innym zjawiskom patologicznym, awszczególności: alkoholizmowi inarkomanii wSiłach Zbrojnych,
+- **6)** współdziałanie zpolskimi oraz zagranicznymi organami i służbami właściwymi w sprawach bezpieczeństwa i porządku publicznego oraz policjami wojskowymi,
+- **7)** zwalczanie klęsk żywiołowych, nadzwyczajnych zagrożeń środowiska ilikwidowanie ich skutków oraz czynne uczestniczenie w akcjach poszukiwawczych, ratowniczych ihumanitarnych, mających na celu ochronę życia izdrowia oraz mienia,
+- **8)** wykonywanie innych zadań określonych w odrębnych przepisach.
 
 2. Zadania, októrych mowa wust. 1, ˚andarmeria Wojskowa wykonuje poprzez:
 
-- **1)** kontrolowanie przestrzegania dyscypliny wojskowej oraz porzàdku publicznego,
-- **2)** interweniowanie wprzypadkach naruszenia dyscypliny wojskowej lub porzàdku publicznego,
-- **3)** opracowywanie dla w∏aÊciwych organów informacji o stanie dyscypliny wojskowej i przest´pczoÊci organów z wnioskami majàcymi na celu zapobie˝enie pope∏nianiu przest´pstw, wykroczeƒ i przewinieƒ dyscyplinarnych,
-- **4)** wykonywanie czynnoÊci operacyjno-rozpoznawczych,
-- **5)** wykonywanie czynnoÊci procesowych w zakresie i na zasadach przewidzianych w przepisach o post´powaniu karnym ikarnym skarbowym,
-- **6)** zabezpieczanie Êladów i dowodów pope∏nienia przest´pstw iwykroczeƒ oraz sporzàdzanie ekspertyz iopinii kryminalistycznych,
-- **7)** poszukiwanie sprawców przest´pstw i wykroczeƒ oraz zaginionych ˝o∏nierzy, a tak˝e poszukiwanie utraconych przez jednostki wojskowe: broni, amunicji, materia∏ów wybuchowych i innego mienia wojskowego oraz materia∏ów zawierajàcych informacje niejawne,
+- **1)** kontrolowanie przestrzegania dyscypliny wojskowej oraz porządku publicznego,
+- **2)** interweniowanie wprzypadkach naruszenia dyscypliny wojskowej lub porządku publicznego,
+- **3)** opracowywanie dla właściwych organów informacji o stanie dyscypliny wojskowej i przestępczości organów z wnioskami mającymi na celu zapobieżenie popełnianiu przestępstw, wykroczeń i przewinień dyscyplinarnych,
+- **4)** wykonywanie czynności operacyjno-rozpoznawczych,
+- **5)** wykonywanie czynności procesowych w zakresie i na zasadach przewidzianych w przepisach o postępowaniu karnym ikarnym skarbowym,
+- **6)** zabezpieczanie śladów i dowodów popełnienia przestępstw iwykroczeń oraz sporządzanie ekspertyz iopinii kryminalistycznych,
+- **7)** poszukiwanie sprawców przestępstw i wykroczeń oraz zaginionych żołnierzy, a także poszukiwanie utraconych przez jednostki wojskowe: broni, amunicji, materiałów wybuchowych i innego mienia wojskowego oraz materiałów zawierających informacje niejawne,
 - **8)** wykonywanie kontroli ruchu drogowego, pilotowanie kolumn wojskowych oraz kierowanie ruchem drogowym, w zakresie i na zasadach przewidzianych wprzepisach oruchu drogowym iodrogach publicznych,
-- **9)** kontrolowanie uprawnieƒ ˝o∏nierzy do noszenia munduru oraz odznak i oznak wojskowych, posiadania uzbrojenia i ekwipunku wojskowego oraz przebywania poza terenami i obiektami jednostek wojskowych,
-- **10)** kontrolowanie posiadania uprawnieƒ do u˝ywania munduru oraz odznak i oznak wojskowych, w zakresie i na zasadach przewidzianych w przepisach oodznakach imundurach,
+- **9)** kontrolowanie uprawnień żołnierzy do noszenia munduru oraz odznak i oznak wojskowych, posiadania uzbrojenia i ekwipunku wojskowego oraz przebywania poza terenami i obiektami jednostek wojskowych,
+- **10)** kontrolowanie posiadania uprawnień do używania munduru oraz odznak i oznak wojskowych, w zakresie i na zasadach przewidzianych w przepisach oodznakach imundurach,
 - **11)** konwojowanie osób, dokumentów i mienia wojskowego,
-- **12)** przymusowe doprowadzanie osób, wzakresie ina zasadach przewidzianych wprzepisach opost´powaniu karnym, karnym skarbowym, karnym wykonawczym icywilnym,
-- **13)** asystowanie przy czynnoÊciach egzekucyjnych, wzakresie ina zasadach przewidzianych wprzepisach o post´powaniu cywilnym i o post´powaniu egzekucyjnym wadministracji,
-- **14)** wspó∏uczestniczenie wzapewnianiu porzàdku podczas trwania imprez masowych przeprowadzanych na terenach i w obiektach jednostek wojskowych, wzakresie ina zasadach przewidzianych wprzepisach obezpieczeƒstwie imprez masowych,
-- **15)** wykonywanie zadaƒ policji sàdowej wsàdach wojskowych i wojskowych jednostkach organizacyjnych prokuratury,
-- **16)** kontrolowanie ochrony mienia wojskowego, a w szczególnoÊci przechowywania uzbrojenia iÊrodków bojowych, wSi∏ach Zbrojnych, atak˝e wyst´powanie do tych
-- **17)** kontrolowanie przestrzegania przepisów o wychowaniu w trzeêwoÊci i przeciwdzia∏aniu alkoholizmowi oraz o narkomanii, a tak˝e wykonywanie czynnoÊci przewidzianych w tych przepisach dla organów wojskowych,
-- **18)** wykonywanie czynnoÊci ochronnych w stosunku do uprawnionych osób, atak˝e zabezpieczanie pobytu wjednostkach wojskowych osób zajmujàcych kierownicze stanowiska paƒstwowe i delegacji zagranicznych.
+- **12)** przymusowe doprowadzanie osób, wzakresie ina zasadach przewidzianych wprzepisach opostępowaniu karnym, karnym skarbowym, karnym wykonawczym icywilnym,
+- **13)** asystowanie przy czynnościach egzekucyjnych, wzakresie ina zasadach przewidzianych wprzepisach o postępowaniu cywilnym i o postępowaniu egzekucyjnym wadministracji,
+- **14)** współuczestniczenie wzapewnianiu porządku podczas trwania imprez masowych przeprowadzanych na terenach i w obiektach jednostek wojskowych, wzakresie ina zasadach przewidzianych wprzepisach obezpieczeństwie imprez masowych,
+- **15)** wykonywanie zadań policji sądowej wsądach wojskowych i wojskowych jednostkach organizacyjnych prokuratury,
+- **16)** kontrolowanie ochrony mienia wojskowego, a w szczególności przechowywania uzbrojenia iśrodków bojowych, wSiłach Zbrojnych, atakże występowanie do tych
+- **17)** kontrolowanie przestrzegania przepisów o wychowaniu w trzeêwości i przeciwdziałaniu alkoholizmowi oraz o narkomanii, a także wykonywanie czynności przewidzianych w tych przepisach dla organów wojskowych,
+- **18)** wykonywanie czynności ochronnych w stosunku do uprawnionych osób, atakże zabezpieczanie pobytu wjednostkach wojskowych osób zajmujących kierownicze stanowiska państwowe i delegacji zagranicznych.
 
-3. ˚andarmeria Wojskowa wykonuje równie˝ czynnoÊci na polecenie sàdu wojskowego i prokuratora wojskowego oraz sàdu powszechnego i prokuratora powszechnej jednostki organizacyjnej prokuratury, a tak˝e organów administracji rzàdowej i wojskowej oraz samorzàdu terytorialnego w zakresie, w jakim obowiàzek ten wynika zodr´bnych przepisów.
+3. ˚andarmeria Wojskowa wykonuje również czynności na polecenie sądu wojskowego i prokuratora wojskowego oraz sądu powszechnego i prokuratora powszechnej jednostki organizacyjnej prokuratury, a także organów administracji rządowej i wojskowej oraz samorządu terytorialnego w zakresie, w jakim obowiązek ten wynika zodrębnych przepisów.
 
-4. W czasie stanów nadzwyczajnych oraz w razie og∏oszenia mobilizacji i w czasie wojny ˚andarmeria Wojskowa wykonuje ponadto zadania okreÊlone wodr´bnych przepisach.
+4. W czasie stanów nadzwyczajnych oraz w razie ogłoszenia mobilizacji i w czasie wojny ˚andarmeria Wojskowa wykonuje ponadto zadania określone wodrębnych przepisach.
 
 **Art. 5.**
 
-1. ˚andarmeria Wojskowa wykonuje zadania nale˝àce do jej zakresu dzia∏ania na terytorium Rzeczypospolitej Polskiej.
+1. ˚andarmeria Wojskowa wykonuje zadania należące do jej zakresu działania na terytorium Rzeczypospolitej Polskiej.
 
-2. ˚andarmeria Wojskowa mo˝e wykonywaç zadania nale˝àce do jej zakresu dzia∏ania równie˝ poza granicami Rzeczypospolitej Polskiej wstosunku do ˝o∏nierzy polskich oraz wprzypadkach okreÊlonych wart. 3 ust. 2 pkt 5 w stosunku do polskich pracowników zatrudnionych za granicà wpolskich jednostkach wojskowych i w polskich przedstawicielstwach wojskowych, chyba ˝e umowa mi´dzynarodowa stanowi inaczej.
+2. ˚andarmeria Wojskowa może wykonywać zadania należące do jej zakresu działania również poza granicami Rzeczypospolitej Polskiej wstosunku do żołnierzy polskich oraz wprzypadkach określonych wart. 3 ust. 2 pkt 5 w stosunku do polskich pracowników zatrudnionych za granicą wpolskich jednostkach wojskowych i w polskich przedstawicielstwach wojskowych, chyba że umowa międzynarodowa stanowi inaczej.
 
 **Art. 6.**
 
-1. Dowódcà ˚andarmerii Wojskowej i prze∏o˝onym wszystkich ˝o∏nierzy ˚andarmerii Wojskowej jest Komendant G∏ówny ˚andarmerii Wojskowej.
+1. Dowódcą ˚andarmerii Wojskowej i przełożonym wszystkich żołnierzy ˚andarmerii Wojskowej jest Komendant Główny ˚andarmerii Wojskowej.
 
-2. Komendant G∏ówny ˚andarmerii Wojskowej podlega bezpoÊrednio Ministrowi Obrony Narodowej.
+2. Komendant Główny ˚andarmerii Wojskowej podlega bezpośrednio Ministrowi Obrony Narodowej.
 
-3. Komendanta G∏ównego ˚andarmerii Wojskowej i jego zast´pc´ wyznacza na stanowisko s∏u˝bowe i zwalnia z tego stanowiska Minister Obrony Narodo3. Minister Obrony Narodowej, wdrodze zarzàdzenia, tworzy, przekszta∏ca i znosi terenowe oraz specjalistyczne jednostki organizacyjne ˚andarmerii Wojskowej, a tak˝e okreÊla ich organizacj´ oraz szczegó∏owe zakresy i obszary dzia∏ania jednostek organizacyjnych ˚andarmerii Wojskowej, z uwzgl´dnieniem struktury irozmieszczenia Si∏ Zbrojnych oraz zadaƒ ˚andarmerii Wojskowej.
+3. Komendanta Głównego ˚andarmerii Wojskowej i jego zastępcę wyznacza na stanowisko służbowe i zwalnia z tego stanowiska Minister Obrony Narodo3. Minister Obrony Narodowej, wdrodze zarządzenia, tworzy, przekształca i znosi terenowe oraz specjalistyczne jednostki organizacyjne ˚andarmerii Wojskowej, a także określa ich organizację oraz szczegółowe zakresy i obszary działania jednostek organizacyjnych ˚andarmerii Wojskowej, z uwzględnieniem struktury irozmieszczenia Sił Zbrojnych oraz zadań ˚andarmerii Wojskowej.
 
 **Art. 8.**
 
-1. ˚andarmeria Wojskowa sk∏ada si´ znast´pujàcych pionów funkcjonalnych:
+1. ˚andarmeria Wojskowa składa się znastępujących pionów funkcjonalnych:
 
-- **1)** dochodzeniowo-Êledczego,
+- **1)** dochodzeniowo-śledczego,
 - **2)** prewencyjnego,
 - **3)** administracyjno-logistyczno-technicznego.
 
-2. Minister Obrony Narodowej, wdrodze zarzàdzenia, tworzy iznosi inne ni˝ wymienione wust. 1 rodzaje pionów funkcjonalnych, okreÊlajàc ich organizacj´ izakres dzia∏ania.
+2. Minister Obrony Narodowej, wdrodze zarządzenia, tworzy iznosi inne niż wymienione wust. 1 rodzaje pionów funkcjonalnych, określając ich organizację izakres działania.
 
 **Art. 9.**
 
-1. Do jednostek organizacyjnych ˚andarmerii Wojskowej oraz ˝o∏nierzy pe∏niàcych s∏u˝b´ w tych jednostkach wsprawach nieuregulowanych wustawie stosuje si´ przepisy dotyczàce jednostek wojskowych i˝o∏nierzy pe∏niàcych czynnà s∏u˝b´ wojskowà.
+1. Do jednostek organizacyjnych ˚andarmerii Wojskowej oraz żołnierzy pełniących służbę w tych jednostkach wsprawach nieuregulowanych wustawie stosuje się przepisy dotyczące jednostek wojskowych iżołnierzy pełniących czynną służbę wojskową.
 
-2. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, dodatkowe poza warunkami ogólnymi ustalonymi dla ˝o∏nierzy warunki fizyczne i psychiczne oraz kwalifikacje ˝o∏nierzy ˚andarmerii Wojskowej, w szczególnoÊci wymagania co do stanu zdrowia i sprawnoÊci fizycznej oraz wykszta∏cenia iumiej´tnoÊci, atak˝e wymogu niekaralnoÊci, zrozró˝nieniem ˝o∏nierzy zawodowych iniezawodowych.
+2. Minister Obrony Narodowej określi, w drodze rozporządzenia, dodatkowe poza warunkami ogólnymi ustalonymi dla żołnierzy warunki fizyczne i psychiczne oraz kwalifikacje żołnierzy ˚andarmerii Wojskowej, w szczególności wymagania co do stanu zdrowia i sprawności fizycznej oraz wykształcenia iumiejętności, atakże wymogu niekaralności, zrozróżnieniem żołnierzy zawodowych iniezawodowych.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, dodatkowe obok posiadanego przez ˝o∏nierzy umundurowanie, uzbrojenie iwyposa˝enie ˝o∏nierzy ˚andarmerii Wojskowej, niezb´dne im do wykonywania zadaƒ ˚andarmerii Wojskowej.
+3. Minister Obrony Narodowej określi, w drodze rozporządzenia, dodatkowe obok posiadanego przez żołnierzy umundurowanie, uzbrojenie iwyposażenie żołnierzy ˚andarmerii Wojskowej, niezbędne im do wykonywania zadań ˚andarmerii Wojskowej.
 
-4. Minister Obrony Narodowej okreÊli, wdrodze zarzàdzenia:
+4. Minister Obrony Narodowej określi, wdrodze zarządzenia:
 
-- **1)** plany i programy szkolenia specjalistycznego ˝o∏wej. nierzy ˚andarmerii Wojskowej,
+- **1)** plany i programy szkolenia specjalistycznego żołwej. nierzy ˚andarmerii Wojskowej,
 
 **Art. 7.**
 
-1. ˚andarmeri´ Wojskowà tworzà: 2) formy, metody, sposoby i Êrodki wykonywania czynnoÊci s∏u˝bowych przez ˝o∏nierzy ˚andarmerii
+1. ˚andarmerię Wojskową tworzą: 2) formy, metody, sposoby i środki wykonywania czynności służbowych przez żołnierzy ˚andarmerii
 
-- **1)** Komenda G∏ówna ˚andarmerii Wojskowej, Wojskowej, wzakresie obj´tym przepisami ustawy.
-- **2)** terenowe jednostki organizacyjne ˚andarmerii Wojskowej, Art. 10. 1. Dokumentem potwierdzajàcym pe∏nienie przez ˝o∏nierza czynnej s∏u˝by wojskowej na stano3) specjalistyczne jednostki organizacyjne ˚andarme- wisku s∏u˝bowym wjednostce organizacyjnej ˚andarrii Wojskowej. merii Wojskowej oraz posiadanie przez niego prawa wykonywania czynnoÊci nale˝àcych do jej zakresu
+- **1)** Komenda Główna ˚andarmerii Wojskowej, Wojskowej, wzakresie objętym przepisami ustawy.
+- **2)** terenowe jednostki organizacyjne ˚andarmerii Wojskowej, Art. 10. 1. Dokumentem potwierdzającym pełnienie przez żołnierza czynnej służby wojskowej na stano3) specjalistyczne jednostki organizacyjne ˚andarme- wisku służbowym wjednostce organizacyjnej ˚andarrii Wojskowej. merii Wojskowej oraz posiadanie przez niego prawa wykonywania czynności należących do jej zakresu
 
-2. Terenowymi jednostkami organizacyjnymi ˚an- dzia∏ania jest legitymacja ˝o∏nierza ˚andarmerii Wojdarmerii Wojskowej sà: skowej.
+2. Terenowymi jednostkami organizacyjnymi ˚an- działania jest legitymacja żołnierza ˚andarmerii Wojdarmerii Wojskowej są: skowej.
 
-- **1)** oddzia∏y ˚andarmerii Wojskowej, 2. Prawo wykonywania czynnoÊci nale˝àcych do
-- **2)** wydzia∏y ˚andarmerii Wojskowej, zakresu dzia∏ania ˚andarmerii Wojskowej potwierdza
-- **3)** placówki ˚andarmerii Wojskowej. równie˝ odznaka identyfikacyjna ˝o∏nierza ˚andarmerii Wojskowej.
+- **1)** oddziały ˚andarmerii Wojskowej, 2. Prawo wykonywania czynności należących do
+- **2)** wydziały ˚andarmerii Wojskowej, zakresu działania ˚andarmerii Wojskowej potwierdza
+- **3)** placówki ˚andarmerii Wojskowej. również odznaka identyfikacyjna żołnierza ˚andarmerii Wojskowej.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia:
+3. Minister Obrony Narodowej określi, w drodze rozporządzenia:
 
-- **1)** wzór legitymacji ˝o∏nierza ˚andarmerii Wojskowej oraz szczegó∏owy sposób post´powania znià zwiàzanego, a w szczególnoÊci ustali dane osobowe wpisywane do legitymacji, organy wydajàce, wymieniajàce i odbierajàce legitymacj´, przypadki, w których podlega ona zdeponowaniu, wymianie i zwrotowi, oraz sposób jej u˝ywania, przechowywania iniszczenia, zrozró˝nieniem ˝o∏nierzy zawodowych iniezawodowych,
-- **2)** wzór odznaki identyfikacyjnej ˝o∏nierza ˚andarmerii Wojskowej oraz szczegó∏owy sposób post´powania z nià zwiàzanego, a w szczególnoÊci ustali organy wydajàce iodbierajàce odznak´, przypadki, w których podlega ona zdeponowaniu i zwrotowi, oraz sposób jej u˝ywania, przechowywania i noszenia, z rozró˝nieniem ˝o∏nierzy zawodowych iniezawodowych.
+- **1)** wzór legitymacji żołnierza ˚andarmerii Wojskowej oraz szczegółowy sposób postępowania znią związanego, a w szczególności ustali dane osobowe wpisywane do legitymacji, organy wydające, wymieniające i odbierające legitymację, przypadki, w których podlega ona zdeponowaniu, wymianie i zwrotowi, oraz sposób jej używania, przechowywania iniszczenia, zrozróżnieniem żołnierzy zawodowych iniezawodowych,
+- **2)** wzór odznaki identyfikacyjnej żołnierza ˚andarmerii Wojskowej oraz szczegółowy sposób postępowania z nią związanego, a w szczególności ustali organy wydające iodbierające odznakę, przypadki, w których podlega ona zdeponowaniu i zwrotowi, oraz sposób jej używania, przechowywania i noszenia, z rozróżnieniem żołnierzy zawodowych iniezawodowych.
 
 **Art. 11.**
 
-1. ˚o∏nierze ˚andarmerii Wojskowej podczas wykonywania czynnoÊci s∏u˝bowych sà obowiàzani:
+1. ˚ołnierze ˚andarmerii Wojskowej podczas wykonywania czynności służbowych są obowiązani:
 
-- **1)** nosiç mundury,
-- **2)** mieç przy sobie legitymacj´ ˝o∏nierza ˚andarmerii Wojskowej,
-- **3)** mieç przy sobie odznak´ identyfikacyjnà ˝o∏nierza ˚andarmerii Wojskowej.
+- **1)** nosić mundury,
+- **2)** mieć przy sobie legitymację żołnierza ˚andarmerii Wojskowej,
+- **3)** mieć przy sobie odznakę identyfikacyjną żołnierza ˚andarmerii Wojskowej.
 
-2. Przepisu ust. 1 nie stosuje si´ przy wykonywaniu czynnoÊci operacyjno-rozpoznawczych, o których mowa wart. 40 ust. 2.
+2. Przepisu ust. 1 nie stosuje się przy wykonywaniu czynności operacyjno-rozpoznawczych, o których mowa wart. 40 ust. 2.
 
 **Art. 12.**
 
-1. ˚o∏nierze ˚andarmerii Wojskowej przed przystàpieniem do wykonania czynnoÊci s∏u˝bowej sà obowiàzani przedstawiç si´, podajàc stopieƒ wojskowy oraz imi´ i nazwisko, a ponadto na ˝àdanie osoby, której czynnoÊç ta dotyczy, sà obowiàzani okazaç legitymacj´ ˝o∏nierza ˚andarmerii Wojskowej w sposób umo˝liwiajàcy odczytanie oraz zanotowanie serii i numeru legitymacji, atak˝e danych osobowych ˝o∏nierza.
+1. ˚ołnierze ˚andarmerii Wojskowej przed przystąpieniem do wykonania czynności służbowej są obowiązani przedstawić się, podając stopień wojskowy oraz imię i nazwisko, a ponadto na żądanie osoby, której czynność ta dotyczy, są obowiązani okazać legitymację żołnierza ˚andarmerii Wojskowej w sposób umożliwiający odczytanie oraz zanotowanie serii i numeru legitymacji, atakże danych osobowych żołnierza.
 
-2. Przepis art. 11 ust. 2 stosuje si´ odpowiednio.
+2. Przepis art. 11 ust. 2 stosuje się odpowiednio.
 
 **Art. 13.**
 
-1. Ârodki finansowe, w wysokoÊci 20% wp∏ywów uzyskanych przez Skarb Paƒstwa z tytu∏u przepadku przedmiotów pochodzàcych zujawnionych przez ˚andarmeri´ Wojskowà przest´pstw przeciwko mieniu wojskowemu i obrotowi gospodarczemu mieniem wojskowym oraz przest´pstw skarbowych, przeznacza si´ na usprawnienie funkcjonowania ˚andarmerii Wojskowej ina nagrody dla ˝o∏nierzy ˚andarmerii Wojskowej, którzy przyczynili si´ bezpoÊrednio do ujawnienia tych przest´pstw.
+1. Ârodki finansowe, w wysokości 20% wpływów uzyskanych przez Skarb Państwa z tytułu przepadku przedmiotów pochodzących zujawnionych przez ˚andarmerię Wojskową przestępstw przeciwko mieniu wojskowemu i obrotowi gospodarczemu mieniem wojskowym oraz przestępstw skarbowych, przeznacza się na usprawnienie funkcjonowania ˚andarmerii Wojskowej ina nagrody dla żołnierzy ˚andarmerii Wojskowej, którzy przyczynili się bezpośrednio do ujawnienia tych przestępstw.
 
-2. Minister Obrony Narodowej, w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych i Ministrem SprawiedliwoÊci, okreÊli, w drodze rozporzàdzenia, sposób gospodarowania Êrodkami, októrych mowa wust. 1, oraz zasady przyznawania nagród wymienionych wust. 1, ustali wszczególnoÊci orÊrodkami i ich przeznaczenie oraz sposób ewidencjonowania, zuwzgl´dnieniem przepisów ofinansach publicznych.
+2. Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw finansów publicznych i Ministrem Sprawiedliwości, określi, w drodze rozporządzenia, sposób gospodarowania środkami, októrych mowa wust. 1, oraz zasady przyznawania nagród wymienionych wust. 1, ustali wszczególności orśrodkami i ich przeznaczenie oraz sposób ewidencjonowania, zuwzględnieniem przepisów ofinansach publicznych.
 
 **Art. 14.**
 
-1. ˚andarmeria Wojskowa, wykonujàc zadania, októrych mowa wart. 4, wspó∏dzia∏a z:
+1. ˚andarmeria Wojskowa, wykonując zadania, októrych mowa wart. 4, współdziała z:
 
-- **1)** Wojskowymi S∏u˝bami Informacyjnymi, wojskowymi organami porzàdkowymi oraz dowódcami jednostek wojskowych idowódcami (komendantami) garnizonów,
-- **2)** Urz´dem Ochrony Paƒstwa, Policjà, Stra˝à Granicznà, Inspekcjà Celnà, organami kontroli skarbowej, Biurem Ochrony Rzàdu, stra˝ami ochrony kolei oraz innymi organami uprawnionymi do wykonywania czynnoÊci operacyjno-rozpoznawczych, a tak˝e organami uprawnionymi do prowadzenia dochodzeƒ wsprawach oprzest´pstwa oraz organami, którym przys∏ugujà uprawnienia oskar˝yciela publicznego, i organami uprawnionymi do nak∏adania grzywien w drodze mandatu karnego wsprawach owykroczenia.
+- **1)** Wojskowymi Służbami Informacyjnymi, wojskowymi organami porządkowymi oraz dowódcami jednostek wojskowych idowódcami (komendantami) garnizonów,
+- **2)** Urzędem Ochrony Państwa, Policją, Strażą Graniczną, Inspekcją Celną, organami kontroli skarbowej, Biurem Ochrony Rządu, strażami ochrony kolei oraz innymi organami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, a także organami uprawnionymi do prowadzenia dochodzeń wsprawach oprzestępstwa oraz organami, którym przysługują uprawnienia oskarżyciela publicznego, i organami uprawnionymi do nakładania grzywien w drodze mandatu karnego wsprawach owykroczenia.
 
-2. Prezes Rady Ministrów okreÊli, w drodze rozporzàdzenia, zakres i tryb wspó∏dzia∏ania ˚andarmerii Wojskowej zUrz´dem Ochrony Paƒstwa, Policjà, Stra˝à Granicznà, Inspekcjà Celnà, organami kontroli skarbowej, Biurem Ochrony Rzàdu oraz innymi organami uprawnionymi do wykonywania czynnoÊci operacyjno-rozpoznawczych, a tak˝e organami uprawnionymi do prowadzenia dochodzeƒ w sprawach o przest´pstwa oraz organami, którym przys∏ugujà uprawnienia oskar˝yciela publicznego, i organami uprawnionymi do nak∏adania grzywien w drodze mandatu karnego w sprawach o wykroczenia, z uwzgl´dnieniem w∏aÊciwoÊci ikompetencji tych organów oraz zadaƒ ˚andarmerii Wojskowej.
+2. Prezes Rady Ministrów określi, w drodze rozporządzenia, zakres i tryb współdziałania ˚andarmerii Wojskowej zUrzędem Ochrony Państwa, Policją, Strażą Graniczną, Inspekcją Celną, organami kontroli skarbowej, Biurem Ochrony Rządu oraz innymi organami uprawnionymi do wykonywania czynności operacyjno-rozpoznawczych, a także organami uprawnionymi do prowadzenia dochodzeń w sprawach o przestępstwa oraz organami, którym przysługują uprawnienia oskarżyciela publicznego, i organami uprawnionymi do nakładania grzywien w drodze mandatu karnego w sprawach o wykroczenia, z uwzględnieniem właściwości ikompetencji tych organów oraz zadań ˚andarmerii Wojskowej.
 
-3. Zakres i tryb wspó∏dzia∏ania ˚andarmerii Wojskowej ze stra˝ami ochrony kolei okreÊlajà przepisy otransporcie kolejowym.
+3. Zakres i tryb współdziałania ˚andarmerii Wojskowej ze strażami ochrony kolei określają przepisy otransporcie kolejowym.
 
-4. Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzenia, zakres i tryb wspó∏dzia∏ania ˚andarmerii Wojskowej z organami wojskowymi, o których mowa wust. 1 pkt 1, zuwzgl´dnieniem w∏aÊciwoÊci ikompetencji tych organów oraz zadaƒ ˚andarmerii Wojskowej.
+4. Minister Obrony Narodowej określi, wdrodze rozporządzenia, zakres i tryb współdziałania ˚andarmerii Wojskowej z organami wojskowymi, o których mowa wust. 1 pkt 1, zuwzględnieniem właściwości ikompetencji tych organów oraz zadań ˚andarmerii Wojskowej.
 
-**Art. 15.** Âwi´tem ˚andarmerii Wojskowej jest dzieƒ 13 czerwca.
+**Art. 15.** Âwiętem ˚andarmerii Wojskowej jest dzień 13 czerwca.
 
-**Art. 16.** Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzenia, znak ˚andarmerii Wojskowej, z uwzgl´dnieniem przepisów o znakach Si∏ Zbrojnych Rzeczypospolitej Polskiej. Rozdzia∏ 3 Uprawnienia iobowiàzki ˝o∏nierzy ˚andarmerii Wojskowej
+**Art. 16.** Minister Obrony Narodowej określi, wdrodze rozporządzenia, znak ˚andarmerii Wojskowej, z uwzględnieniem przepisów o znakach Sił Zbrojnych Rzeczypospolitej Polskiej.
+
+#### Rozdział 3 Uprawnienia iobowiązki żołnierzy ˚andarmerii Wojskowej
 
 **Art. 17.**
 
-1. ˚o∏nierze ˚andarmerii Wojskowej, wykogany w∏aÊciwe w sprawach gospodarowania tymi nujàc zadania, o których mowa w art. 4, wobec osób okreÊlonych wart. 3 ust. 2 majà prawo:
+1. ˚ołnierze ˚andarmerii Wojskowej, wykogany właściwe w sprawach gospodarowania tymi nując zadania, o których mowa w art. 4, wobec osób określonych wart. 3 ust. 2 mają prawo:
 
-- **1)** legitymowania wcelu ustalenia to˝samoÊci,
-- **2)** sprawdzania posiadania uprawnieƒ okreÊlonych wodr´bnych przepisach,
-- **3)** zatrzymywania w przypadkach i w trybie okreÊlonym wprzepisach opost´powaniu karnym,
-- **4)** zatrzymywania w przypadkach okreÊlonych wart.18 iwprzepisach innych ustaw,
-- **5)** doprowadzania do miejsca pe∏nienia czynnej s∏u˝by wojskowej lub miejsca zamieszkania, w przypadkach okreÊlonych ustawà,
-- **6)** osadzania wizbie zatrzymaƒ wprzypadkach iwtrybie okreÊlonym w przepisach o dyscyplinie wojskowej,
-- **7)** nak∏adania grzywien wdrodze mandatu karnego za wykroczenia, na zasadach i w trybie okreÊlonym dla funkcjonariuszy Policji wprzepisach opost´powaniu wsprawach owykroczenia, atak˝e wykonywania czynnoÊci sprawdzajàcych oraz zawiadamiania prokuratora wojskowego o pope∏nieniu wykroczenia, na zasadach i w trybie okreÊlonym wprzepisach opost´powaniu karnym,
-- **8)** wyst´powania do dowódców jednostek wojskowych zwnioskami owszcz´cie post´powania dyscyplinarnego, na zasadach i w trybie okreÊlonym wprzepisach odyscyplinie wojskowej, post´powaniu karnym iwinnych przepisach,
-- **9)** przeszukiwania osób ipomieszczeƒ wprzypadkach i w trybie okreÊlonym w przepisach o post´powaniu karnym iwinnych przepisach,
-- **10)** dokonywania kontroli osobistej, przeglàdania zawartoÊci baga˝u osobistego i sprawdzania ∏adunków wÊrodkach transportu làdowego, powietrznego i wodnego, z wyjàtkiem Êrodków transportu przewo˝àcych znaki pieni´˝ne, w razie istnienia uzasadnionego podejrzenia pope∏nienia czynu zabronionego przez ustaw´ pod groêbà kary albo w celu ustalenia miejsca pobytu lub uj´cia poszukiwanej osoby,
-- **11)** udzielania pouczeƒ oraz wydawania rozkazów (poleceƒ) w granicach niezb´dnych do wykonania czynnoÊci s∏u˝bowej,
-- **12)** ˝àdania niezb´dnej pomocy od instytucji paƒstwowych, organów administracji rzàdowej i samorzàdu terytorialnego oraz przedsi´biorców,
-- **13)** zwracania si´ oniezb´dnà pomoc do innych jednostek organizacyjnych ni˝ wymienione wpkt 12 oraz stowarzyszeƒ i fundacji, jak równie˝ zwracania si´ w nag∏ych wypadkach do ka˝dej osoby o udzielenie doraênej pomocy,
-- **14)** usuwania pojazdów i blokowania kó∏ pojazdów wprzypadkach iwtrybie okreÊlonymwprzepisach oruchu drogowym,
-- **15)** stosowania Êrodków przymusu bezpoÊredniego oraz u˝ywania broni palnej wprzypadkach ina zasadach okreÊlonych wart. 43.
+- **1)** legitymowania wcelu ustalenia tożsamości,
+- **2)** sprawdzania posiadania uprawnień określonych wodrębnych przepisach,
+- **3)** zatrzymywania w przypadkach i w trybie określonym wprzepisach opostępowaniu karnym,
+- **4)** zatrzymywania w przypadkach określonych wart.18 iwprzepisach innych ustaw,
+- **5)** doprowadzania do miejsca pełnienia czynnej służby wojskowej lub miejsca zamieszkania, w przypadkach określonych ustawą,
+- **6)** osadzania wizbie zatrzymań wprzypadkach iwtrybie określonym w przepisach o dyscyplinie wojskowej,
+- **7)** nakładania grzywien wdrodze mandatu karnego za wykroczenia, na zasadach i w trybie określonym dla funkcjonariuszy Policji wprzepisach opostępowaniu wsprawach owykroczenia, atakże wykonywania czynności sprawdzających oraz zawiadamiania prokuratora wojskowego o popełnieniu wykroczenia, na zasadach i w trybie określonym wprzepisach opostępowaniu karnym,
+- **8)** występowania do dowódców jednostek wojskowych zwnioskami owszczęcie postępowania dyscyplinarnego, na zasadach i w trybie określonym wprzepisach odyscyplinie wojskowej, postępowaniu karnym iwinnych przepisach,
+- **9)** przeszukiwania osób ipomieszczeń wprzypadkach i w trybie określonym w przepisach o postępowaniu karnym iwinnych przepisach,
+- **10)** dokonywania kontroli osobistej, przeglądania zawartości bagażu osobistego i sprawdzania ładunków wśrodkach transportu lądowego, powietrznego i wodnego, z wyjątkiem środków transportu przewożących znaki pieniężne, w razie istnienia uzasadnionego podejrzenia popełnienia czynu zabronionego przez ustawę pod groêbą kary albo w celu ustalenia miejsca pobytu lub ujęcia poszukiwanej osoby,
+- **11)** udzielania pouczeń oraz wydawania rozkazów (poleceń) w granicach niezbędnych do wykonania czynności służbowej,
+- **12)** żądania niezbędnej pomocy od instytucji państwowych, organów administracji rządowej i samorządu terytorialnego oraz przedsiębiorców,
+- **13)** zwracania się oniezbędną pomoc do innych jednostek organizacyjnych niż wymienione wpkt 12 oraz stowarzyszeń i fundacji, jak również zwracania się w nagłych wypadkach do każdej osoby o udzielenie doraênej pomocy,
+- **14)** usuwania pojazdów i blokowania kół pojazdów wprzypadkach iwtrybie określonymwprzepisach oruchu drogowym,
+- **15)** stosowania środków przymusu bezpośredniego oraz używania broni palnej wprzypadkach ina zasadach określonych wart. 43.
 
-2. Instytucje, organy iprzedsi´biorcy, októrych mowa wust. 1 pkt 12, sà obowiàzani, wzakresie swojego dzia∏ania, do udzielania ˝àdanej pomocy w ramach obowiàzujàcych przepisów prawa.
+2. Instytucje, organy iprzedsiębiorcy, októrych mowa wust. 1 pkt 12, są obowiązani, wzakresie swojego działania, do udzielania żądanej pomocy w ramach obowiązujących przepisów prawa.
 
-3. Jednostki, stowarzyszenia, fundacje i osoby, o których mowa w ust. 1 pkt 13, sà obowiàzane do udzielania pomocy w ramach obowiàzujàcych przepisów prawa.
+3. Jednostki, stowarzyszenia, fundacje i osoby, o których mowa w ust. 1 pkt 13, są obowiązane do udzielania pomocy w ramach obowiązujących przepisów prawa.
 
-**Art. 18.** ˚o∏nierze ˚andarmerii Wojskowej majà prawo zatrzymaç ˝o∏nierza:
+**Art. 18.** ˚ołnierze ˚andarmerii Wojskowej mają prawo zatrzymać żołnierza:
 
-**Art. 19.** Minister Obrony Narodowej, wporozumieniu z Ministrem SprawiedliwoÊci i ministrem w∏aÊciwym do spraw wewn´trznych, okreÊli, wdrodze rozporzàdzenia, wykroczenia, za które ˝o∏nierze ˚andarmerii Wojskowej sà upowa˝nieni do nak∏adania grzywien wdrodze mandatu karnego.
+**Art. 19.** Minister Obrony Narodowej, wporozumieniu z Ministrem Sprawiedliwości i ministrem właściwym do spraw wewnętrznych, określi, wdrodze rozporządzenia, wykroczenia, za które żołnierze ˚andarmerii Wojskowej są upoważnieni do nakładania grzywien wdrodze mandatu karnego.
 
-**Art. 20.** Minister Obrony Narodowej, wporozumieniu zMinistrem SprawiedliwoÊci, okreÊli, wdrodze rozporzàdzenia, zakres czynnoÊci policji sàdowej, wykonywanych przez ˝o∏nierzy ˚andarmerii Wojskowej, o których mowa w art. 4 ust. 2 pkt 15, oraz szczegó∏owy sposób ich wykonywania, w szczególnoÊci usytuowanie policji sàdowej, wykonywane przez nià czynnoÊci oraz sposób jej wspó∏dzia∏ania zsàdami wojskowymi iprokuratorami wojskowych jednostek organizacyjnych prokuratury oraz ze S∏u˝bà Wi´ziennà.
+**Art. 20.** Minister Obrony Narodowej, wporozumieniu zMinistrem Sprawiedliwości, określi, wdrodze rozporządzenia, zakres czynności policji sądowej, wykonywanych przez żołnierzy ˚andarmerii Wojskowej, o których mowa w art. 4 ust. 2 pkt 15, oraz szczegółowy sposób ich wykonywania, w szczególności usytuowanie policji sądowej, wykonywane przez nią czynności oraz sposób jej współdziałania zsądami wojskowymi iprokuratorami wojskowych jednostek organizacyjnych prokuratury oraz ze Służbą Więzienną.
 
 **Art. 21.**
 
-1. Minister Obrony Narodowej, w porozumieniu z ministrem w∏aÊciwym do spraw wewn´trznych iministrem w∏aÊciwym do spraw zagranicznych, okreÊli, w drodze rozporzàdzenia, osoby, w stosunku do których ˚andarmeria Wojskowa wykonuje czynnoÊci ochronne, o których mowa w art. 4 ust. 2 pkt 18, w sposób nienaruszajàcy w∏aÊciwoÊci innych organów, atak˝e zakres itryb wspó∏dzia∏ania wtym przedmiocie zBiurem Ochrony Rzàdu.
+1. Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw wewnętrznych iministrem właściwym do spraw zagranicznych, określi, w drodze rozporządzenia, osoby, w stosunku do których ˚andarmeria Wojskowa wykonuje czynności ochronne, o których mowa w art. 4 ust. 2 pkt 18, w sposób nienaruszający właściwości innych organów, atakże zakres itryb współdziałania wtym przedmiocie zBiurem Ochrony Rządu.
 
-2. W przypadku wykonywania czynnoÊci ochronnych, októrych mowa wart. 4 ust. 2 pkt 18, ˚andarmerii Wojskowej przys∏ugujà uprawnienia okreÊlone wart. 17, 42 i43 wobec osób stwarzajàcych zagro˝enie dla osób ochranianych.
+2. W przypadku wykonywania czynności ochronnych, októrych mowa wart. 4 ust. 2 pkt 18, ˚andarmerii Wojskowej przysługują uprawnienia określone wart. 17, 42 i43 wobec osób stwarzających zagrożenie dla osób ochranianych.
 
-**Art. 22.** Minister Obrony Narodowej okreÊli, wdrodze rozporzàdzenia, szczegó∏owy sposób wykonywania uprawnieƒ, o których mowa w art. 17 ust. 1 pkt 1, 2, 4, 5 i10—13, wszczególnoÊci sposób post´powania i zachowanie ˝o∏nierzy ˚andarmerii Wojskowej w zale˝noÊci od stopnia wojskowego ˝o∏nierza, wobec którego sà wykonywane odpowiednie czynnoÊci, a tak˝e szczegó∏owe przypadki dopuszczalnoÊci podejmowania oraz sposób dokumentowania tych czynnoÊci.
+**Art. 22.** Minister Obrony Narodowej określi, wdrodze rozporządzenia, szczegółowy sposób wykonywania uprawnień, o których mowa w art. 17 ust. 1 pkt 1, 2, 4, 5 i10—13, wszczególności sposób postępowania i zachowanie żołnierzy ˚andarmerii Wojskowej w zależności od stopnia wojskowego żołnierza, wobec którego są wykonywane odpowiednie czynności, a także szczegółowe przypadki dopuszczalności podejmowania oraz sposób dokumentowania tych czynności.
 
-**Art. 23.** ˚o∏nierze ˚andarmerii Wojskowej w toku wykonywania czynnoÊci s∏u˝bowych majà obowiàzek respektowania godnoÊci ludzkiej oraz przestrzegania i ochrony praw cz∏owieka, a tak˝e wykonywania tych czynnoÊci w sposób mo˝liwie najmniej naruszajàcy dobra osobiste osoby, wobec której sà podejmowane.
+**Art. 23.** ˚ołnierze ˚andarmerii Wojskowej w toku wykonywania czynności służbowych mają obowiązek respektowania godności ludzkiej oraz przestrzegania i ochrony praw człowieka, a także wykonywania tych czynności w sposób możliwie najmniej naruszający dobra osobiste osoby, wobec której są podejmowane.
 
 **Art. 24.**
 
-1. Na sposób przeprowadzenia czynnoÊci, o których mowa w art. 17 ust. 1 pkt 1, 2, 10 i 12—14, osobie, wobec której zosta∏a wykonana taka czynnoÊç, przys∏uguje za˝alenie do prokuratora wojskowej prokuratury garnizonowej w∏aÊciwej ze wzgl´du na miejsce dokonania czynnoÊci, w terminie 7 dni od dnia jej dokonania.
+1. Na sposób przeprowadzenia czynności, o których mowa w art. 17 ust. 1 pkt 1, 2, 10 i 12—14, osobie, wobec której została wykonana taka czynność, przysługuje zażalenie do prokuratora wojskowej prokuratury garnizonowej właściwej ze względu na miejsce dokonania czynności, w terminie 7 dni od dnia jej dokonania.
 
-2. W sprawach, o których mowa w ust. 1, stosuje si´ odpowiednio przepisy o post´powaniu karnym w sprawach podlegajàcych orzecznictwu sàdów wojskowych, dotyczàce post´powania odwo∏awczego.
+2. W sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy o postępowaniu karnym w sprawach podlegających orzecznictwu sądów wojskowych, dotyczące postępowania odwoławczego.
 
 **Art. 25.**
 
-1. Zatrzymanie ˝o∏nierza w przypadkach, o których mowa w art. 17 ust. 1 pkt 4, mo˝e nastàpiç, gdy zastosowanie innych Êrodków jest nieskuteczne.
+1. Zatrzymanie żołnierza w przypadkach, o których mowa w art. 17 ust. 1 pkt 4, może nastąpić, gdy zastosowanie innych środków jest nieskuteczne.
 
-2. ˚o∏nierzowi zatrzymanemu w przypadkach, o których mowa w art. 17 ust. 1 pkt 4, przys∏ugujà uprawnienia przewidziane wprzepisach opost´powaniu karnym dla osób zatrzymanych wsprawach podlegajàcych orzecznictwu sàdów wojskowych, a na ˚andarmerii Wojskowej cià˝à obowiàzki wynikajàce ztych
+2. ˚ołnierzowi zatrzymanemu w przypadkach, o których mowa w art. 17 ust. 1 pkt 4, przysługują uprawnienia przewidziane wprzepisach opostępowaniu karnym dla osób zatrzymanych wsprawach podlegających orzecznictwu sądów wojskowych, a na ˚andarmerii Wojskowej ciążą obowiązki wynikające ztych
 
-3. Osoba zatrzymana wprzypadkach, októrych mowa wart. 17 ust. 1 pkt 3 i4,mo˝e byç okazywana, fotografowana ipoddawana badaniom daktyloskopijnym, gdy jej to˝samoÊci nie mo˝na ustaliç winny sposób.
+3. Osoba zatrzymana wprzypadkach, októrych mowa wart. 17 ust. 1 pkt 3 i4,może być okazywana, fotografowana ipoddawana badaniom daktyloskopijnym, gdy jej tożsamości nie można ustalić winny sposób.
 
-4. ˚o∏nierza zatrzymanego w przypadkach, o których mowa wart. 17 ust. 1 pkt 4,osadza si´ wizbie zatrzymaƒ.
+4. ˚ołnierza zatrzymanego w przypadkach, o których mowa wart. 17 ust. 1 pkt 4,osadza się wizbie zatrzymań.
 
-5. Osobie zatrzymanej w przypadkach, o których mowa wart. 17 ust. 1 pkt 3 i4,albo osadzonej wprzypadku, o którym mowa w art. 17 ust. 1 pkt 6, w razie uzasadnionej potrzeby nale˝y niezw∏ocznie udzieliç niezb´dnej pomocy medycznej.
+5. Osobie zatrzymanej w przypadkach, o których mowa wart. 17 ust. 1 pkt 3 i4,albo osadzonej wprzypadku, o którym mowa w art. 17 ust. 1 pkt 6, w razie uzasadnionej potrzeby należy niezwłocznie udzielić niezbędnej pomocy medycznej.
 
-6. W wypadku niewàtpliwie nies∏usznego zatrzymania wprzypadkach, októrych mowa wart. 17 ust.1 pkt 4, osobie, której ono dotyczy∏o, przys∏uguje odszkodowanie i zadoÊçuczynienie, na zasadach i w trybie okreÊlonymwprzepisach opost´powaniu karnym.
+6. W wypadku niewątpliwie niesłusznego zatrzymania wprzypadkach, októrych mowa wart. 17 ust.1 pkt 4, osobie, której ono dotyczyło, przysługuje odszkodowanie i zadośćuczynienie, na zasadach i w trybie określonymwprzepisach opostępowaniu karnym.
 
-7. Minister Obrony Narodowej, w porozumieniu z ministrem w∏aÊciwym do spraw zdrowia, okreÊli, przepisów. w drodze rozporzàdzenia, sposób udzielania pomocy medycznej, o której mowa w ust. 5, w szczególnoÊci szczegó∏owe przypadki udzielania pomocy medycznej, osoby jej udzielajàce, miejsce udzielania oraz sposób odp∏atnoÊci za udzielenie tej pomocy.
+7. Minister Obrony Narodowej, w porozumieniu z ministrem właściwym do spraw zdrowia, określi, przepisów. w drodze rozporządzenia, sposób udzielania pomocy medycznej, o której mowa w ust. 5, w szczególności szczegółowe przypadki udzielania pomocy medycznej, osoby jej udzielające, miejsce udzielania oraz sposób odpłatności za udzielenie tej pomocy.
 
 **Art. 26.**
 
-1. Minister Obrony Narodowej, w drodze zarzàdzenia, tworzy i likwiduje izby zatrzymaƒ w dowództwach (komendach) garnizonów, w jednostkach wojskowych i na okr´tach wojennych, z uwzgl´dnieniem struktury irozmieszczenia Si∏ Zbrojnych.
+1. Minister Obrony Narodowej, w drodze zarządzenia, tworzy i likwiduje izby zatrzymań w dowództwach (komendach) garnizonów, w jednostkach wojskowych i na okrętach wojennych, z uwzględnieniem struktury irozmieszczenia Sił Zbrojnych.
 
-2. O utworzeniu i likwidacji izby zatrzymaƒ zawiadamia si´ w∏aÊciwy miejscowo wojskowy sàd garnizonowy iwojskowego prokuratora garnizonowego.
+2. O utworzeniu i likwidacji izby zatrzymań zawiadamia się właściwy miejscowo wojskowy sąd garnizonowy iwojskowego prokuratora garnizonowego.
 
-3. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, warunki, jakim powinny odpowiadaç izby zatrzymaƒ, októrych mowa wust. 1, zuwzgl´dnieniem ich obs∏ugi, budowy iwyposa˝enia, atak˝e sposobu post´powania zosadzonymi ˝o∏nierzami iprowadzenia dokumentacji ich osadzenia, oraz osób uprawnionych do kontrolowania izb zatrzymaƒ i zakresu tej kontroli.
+3. Minister Obrony Narodowej określi, w drodze rozporządzenia, warunki, jakim powinny odpowiadać izby zatrzymań, októrych mowa wust. 1, zuwzględnieniem ich obsługi, budowy iwyposażenia, atakże sposobu postępowania zosadzonymi żołnierzami iprowadzenia dokumentacji ich osadzenia, oraz osób uprawnionych do kontrolowania izb zatrzymań i zakresu tej kontroli.
 
 **Art. 27.**
 
-1. Osobom udzielajàcym pomocy, o której mowa wart. 17 ust. 1 pkt 12 i13, przys∏ugujà wczasie jej udzielania uprawnienia ˝o∏nierzy ˚andarmerii Wojskowej okreÊlone wart. 17 ust. 1 pkt 1, 3, 4, 10 i14.
+1. Osobom udzielającym pomocy, o której mowa wart. 17 ust. 1 pkt 12 i13, przysługują wczasie jej udzielania uprawnienia żołnierzy ˚andarmerii Wojskowej określone wart. 17 ust. 1 pkt 1, 3, 4, 10 i14.
 
-2. Osobom udzielajàcym pomocy, o której mowa wart. 17 ust. 1 pkt 12 i13, wzwiàzku zu˝yciem ich nieruchomoÊci i rzeczy ruchomych oraz zainstalowanie i eksploatowanie urzàdzeƒ technicznych przys∏uguje rycza∏t, a tak˝e odszkodowanie za szkody dotyczàce tych nieruchomoÊci i rzeczy ruchomych powsta∏e wczasie udzielania pomocy iwzwiàzku znià, na zasadach i w trybie okreÊlonych w przepisach o Êwiadczeniach rzeczowych na rzecz obrony wczasie pokoju.
+2. Osobom udzielającym pomocy, o której mowa wart. 17 ust. 1 pkt 12 i13, wzwiązku zużyciem ich nieruchomości i rzeczy ruchomych oraz zainstalowanie i eksploatowanie urządzeń technicznych przysługuje ryczałt, a także odszkodowanie za szkody dotyczące tych nieruchomości i rzeczy ruchomych powstałe wczasie udzielania pomocy iwzwiązku znią, na zasadach i w trybie określonych w przepisach o świadczeniach rzeczowych na rzecz obrony wczasie pokoju.
 
-3. Osobom, które dozna∏y uszczerbku na zdrowiu wskutek wypadku powsta∏ego w czasie udzielania pomocy, o której mowa w art. 17 ust. 1 pkt 12 i 13, lub wzwiàzku zjej udzielaniem, oraz cz∏onkom rodzin osób zmar∏ych wskutek takiego wypadku przys∏uguje jednorazowe odszkodowanie, renta inwalidzka i rodzinna oraz Êwiadczenie wyrównawcze, na zasadach iwtrybie okreÊlonym wprzepisach oÊwiadczeniach osobistych na rzecz obrony wczasie pokoju.
+3. Osobom, które doznały uszczerbku na zdrowiu wskutek wypadku powstałego w czasie udzielania pomocy, o której mowa w art. 17 ust. 1 pkt 12 i 13, lub wzwiązku zjej udzielaniem, oraz członkom rodzin osób zmarłych wskutek takiego wypadku przysługuje jednorazowe odszkodowanie, renta inwalidzka i rodzinna oraz świadczenie wyrównawcze, na zasadach iwtrybie określonym wprzepisach oświadczeniach osobistych na rzecz obrony wczasie pokoju.
 
 **Art. 28.**
 
-1. Wcelu odnalezienia ˝o∏nierza poszukiwanego listem goƒczym ˚andarmeria Wojskowa mo˝e, za zgodà prokuratora wojskowej prokuratury garnizonowej, publikowaç wÊrodkach masowego przekazu dane osobowe ifotografie lub inne wizerunki tego ˝o∏nierza.
+1. Wcelu odnalezienia żołnierza poszukiwanego listem gończym ˚andarmeria Wojskowa może, za zgodą prokuratora wojskowej prokuratury garnizonowej, publikować wśrodkach masowego przekazu dane osobowe ifotografie lub inne wizerunki tego żołnierza.
 
-2. Przepis ust. 1 stosuje si´ odpowiednio wrazie zagini´cia ˝o∏nierza, ztym ˝e zgoda prokuratora wojskowego jest wtakim przypadku równie˝ wymagana.
+2. Przepis ust. 1 stosuje się odpowiednio wrazie zaginięcia żołnierza, ztym że zgoda prokuratora wojskowego jest wtakim przypadku również wymagana.
 
 **Art. 29.**
 
-1. ˚andarmeria Wojskowa, wgranicach zadaƒ okreÊlonych wart. 4 ust. 1 oraz wstosunku do osób wskazanych wart. 3 ust. 2 pkt 1, pkt 3 lit. b) ipkt5, zzachowaniem ograniczeƒ wynikajàcych zart. 30—33 oraz zuwzgl´dnieniem przepisów ustawy zdnia 29sierpnia 1997 r. o ochronie danych osobowych (Dz. U. 133, poz. 883, z 2000 r. 12, poz. 136, 50, poz. 580 iNr116, poz. 1216 oraz z2001 r. 42, poz.474, 49, poz. 509iNr100, poz. 1087), mo˝e uzyskiwaç informacje, w tym niejawnie, gromadziç je, przechowywaç, sprawdzaç, przetwarzaç iprzekazywaç.
+1. ˚andarmeria Wojskowa, wgranicach zadań określonych wart. 4 ust. 1 oraz wstosunku do osób wskazanych wart. 3 ust. 2 pkt 1, pkt 3 lit. b) ipkt5, zzachowaniem ograniczeń wynikających zart. 30—33 oraz zuwzględnieniem przepisów ustawy zdnia 29sierpnia 1997 r. o ochronie danych osobowych (Dz. U. 133, poz. 883, z 2000 r. 12, poz. 136, 50, poz. 580 iNr116, poz. 1216 oraz z2001 r. 42, poz.474, 49, poz. 509iNr100, poz. 1087), może uzyskiwać informacje, w tym niejawnie, gromadzić je, przechowywać, sprawdzać, przetwarzać iprzekazywać.
 
-2. ˚andarmeria Wojskowa mo˝e pobieraç, gromadziç iwykorzystywaç wcelach wykrywczych iidentyfikacyjnych odciski linii papilarnych, zdj´cia oraz dane osobowe, w tym ujawniajàce pochodzenie etniczne, przynale˝noÊç wyznaniowà oraz dane o stanie zdrowia, osób podejrzanych opope∏nienie przest´pstw Êciganych z oskar˝enia publicznego, a tak˝e osób o nieustalonej to˝samoÊci lub usi∏ujàcych ukryç swojà to˝samoÊç, bez zgody iwiedzy osoby, której dane dotyczà.
+2. ˚andarmeria Wojskowa może pobierać, gromadzić iwykorzystywać wcelach wykrywczych iidentyfikacyjnych odciski linii papilarnych, zdjęcia oraz dane osobowe, w tym ujawniające pochodzenie etniczne, przynależność wyznaniową oraz dane o stanie zdrowia, osób podejrzanych opopełnienie przestępstw ściganych z oskarżenia publicznego, a także osób o nieustalonej tożsamości lub usiłujących ukryć swoją tożsamość, bez zgody iwiedzy osoby, której dane dotyczą.
 
-3. Dane osobowe, októrych mowa wust. 2, zwy∏àczeniem danych ujawniajàcych pochodzenie etniczne lub przynale˝noÊç wyznaniowà, przechowuje si´, zzastrze˝eniem ust. 4 i5, przez okres niezb´dny do wykonania ustawowych zadaƒ przez ˚andarmeri´ Wojskowà. Organy ˚andarmerii Wojskowej dokonujà weryfikacji tych danych nie rzadziej ni˝ co 10 lat od dnia uzyskania informacji.
+3. Dane osobowe, októrych mowa wust. 2, zwyłączeniem danych ujawniających pochodzenie etniczne lub przynależność wyznaniową, przechowuje się, zzastrzeżeniem ust. 4 i5, przez okres niezbędny do wykonania ustawowych zadań przez ˚andarmerię Wojskową. Organy ˚andarmerii Wojskowej dokonują weryfikacji tych danych nie rzadziej niż co 10 lat od dnia uzyskania informacji.
 
-4. Do przechowywania danych osobowych ujawniajàcych pochodzenie etniczne lub przynale˝noÊç wyznaniowà osób skazanych za pope∏nienie przest´pstw Êciganych z oskar˝enia publicznego nie stosuje si´ ograniczeƒ, októrych mowa wust. 3.
+4. Do przechowywania danych osobowych ujawniających pochodzenie etniczne lub przynależność wyznaniową osób skazanych za popełnienie przestępstw ściganych z oskarżenia publicznego nie stosuje się ograniczeń, októrych mowa wust. 3.
 
-5. Dane osobowe ujawniajàce pochodzenie etniczne lub przynale˝noÊç wyznaniowà osób podejrzanych opope∏nienie przest´pstw Êciganych zoskar˝enia publicznego, które nie zosta∏y skazane za te przest´pstwa, podlegajà komisyjnemu iprotokolarnemu zniszczeniu niezw∏ocznie po uprawomocnieniu si´ stosownego orzeczenia.
+5. Dane osobowe ujawniające pochodzenie etniczne lub przynależność wyznaniową osób podejrzanych opopełnienie przestępstw ściganych zoskarżenia publicznego, które nie zostały skazane za te przestępstwa, podlegają komisyjnemu iprotokolarnemu zniszczeniu niezwłocznie po uprawomocnieniu się stosownego orzeczenia.
 
-6. ˚andarmeria Wojskowa wcelu realizacji ustawowych zadaƒ mo˝e korzystaç z informacji o osobie, ne organy, s∏u˝by i instytucje paƒstwowe w wyniku wykonywania czynnoÊci operacyjno-rozpoznawczych lub prowadzenia kontroli operacyjnej, oraz przetwarzaç je wrozumieniu ustawy oochronie danych osobowych bez wiedzy i zgody osoby, której dane dotyczà. Administrator danych, o których mowa w ust. 2, jest obowiàzany udost´pniç dane na podstawie imiennego upowa˝nienia Komendanta G∏ównego ˚andarmerii Wojskowej lub komendanta oddzia∏u ˚andarmerii Wojskowej okazanego przez ˝o∏nierza ˚andarmerii Wojskowej, wraz z legitymacjà s∏u˝bowà. Fakt udost´pnienia tych danych podlega ochronie na podstawie ustawy zdnia 22 stycznia 1999 r. oochronie informacji niejawnych (Dz. U. 11, poz. 95, z2000 r. 12, poz.136 iNr 39, poz. 462 oraz z2001 r. 22, poz. 247, 27, poz. 298,Nr 56, poz. 580i Nr110, poz.1189).
+6. ˚andarmeria Wojskowa wcelu realizacji ustawowych zadań może korzystać z informacji o osobie, ne organy, służby i instytucje państwowe w wyniku wykonywania czynności operacyjno-rozpoznawczych lub prowadzenia kontroli operacyjnej, oraz przetwarzać je wrozumieniu ustawy oochronie danych osobowych bez wiedzy i zgody osoby, której dane dotyczą. Administrator danych, o których mowa w ust. 2, jest obowiązany udostępnić dane na podstawie imiennego upoważnienia Komendanta Głównego ˚andarmerii Wojskowej lub komendanta oddziału ˚andarmerii Wojskowej okazanego przez żołnierza ˚andarmerii Wojskowej, wraz z legitymacją służbową. Fakt udostępnienia tych danych podlega ochronie na podstawie ustawy zdnia 22 stycznia 1999 r. oochronie informacji niejawnych (Dz. U. 11, poz. 95, z2000 r. 12, poz.136 iNr 39, poz. 462 oraz z2001 r. 22, poz. 247, 27, poz. 298,Nr 56, poz. 580i Nr110, poz.1189).
 
-7. Organy, o których mowa w ust. 6, mogà wyraziç pisemnà zgod´ na udost´pnianie danych zgromadzonych w zbiorach jednostkom organizacyjnym ˚andarmerii Wojskowej, za pomocà urzàdzeƒ teletransmisyjnych, bez koniecznoÊci sk∏adania pisemnego wniosku, je˝eli jednostki te spe∏niajà ∏àcznie nast´pujàce warunki:
+7. Organy, o których mowa w ust. 6, mogą wyrazić pisemną zgodę na udostępnianie danych zgromadzonych w zbiorach jednostkom organizacyjnym ˚andarmerii Wojskowej, za pomocą urządzeń teletransmisyjnych, bez konieczności składania pisemnego wniosku, jeżeli jednostki te spełniają łącznie następujące warunki:
 
-- **1)** posiadajà urzàdzenia umo˝liwiajàce odnotowanie wsystemie kto, kiedy, wjakim celu oraz jakie dane uzyska∏,
-- **2)** posiadajà zabezpieczenia techniczne i organizacyjne uniemo˝liwiajàce wykorzystanie danych niezgodnie zcelem ich uzyskania,
-- **3)** jest to uzasadnione specyfikà lub zakresem wykonywanych zadaƒ albo prowadzonej dzia∏alnoÊci.
+- **1)** posiadają urządzenia umożliwiające odnotowanie wsystemie kto, kiedy, wjakim celu oraz jakie dane uzyskał,
+- **2)** posiadają zabezpieczenia techniczne i organizacyjne uniemożliwiające wykorzystanie danych niezgodnie zcelem ich uzyskania,
+- **3)** jest to uzasadnione specyfiką lub zakresem wykonywanych zadań albo prowadzonej działalności.
 
-8. Minister Obrony Narodowej, w porozumieniu zMinistrem SprawiedliwoÊci, okreÊli, wdrodze rozporzàdzenia, sposób gromadzenia odcisków linii papilarnych, zdj´ç oraz danych osobowych, o których mowa wust. 2, wszczególnoÊci przypadki isposoby pobierania odcisków linii papilarnych, przeprowadzania wywiadu daktyloskopijnego oraz wykonywania zdj´ç sygnalitycznych, atak˝e regu∏y ich przechowywania iwykorzystywania.
+8. Minister Obrony Narodowej, w porozumieniu zMinistrem Sprawiedliwości, określi, wdrodze rozporządzenia, sposób gromadzenia odcisków linii papilarnych, zdjęć oraz danych osobowych, o których mowa wust. 2, wszczególności przypadki isposoby pobierania odcisków linii papilarnych, przeprowadzania wywiadu daktyloskopijnego oraz wykonywania zdjęć sygnalitycznych, atakże reguły ich przechowywania iwykorzystywania.
 
-9. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, wzór upowa˝nienia, o którym mowa wtym danych osobowych uzyskanych przez uprawniowust. 6, uwzgl´dniajàc niezb´dne dane ˝o∏nierza ˚andarmerii Wojskowej.
+9. Minister Obrony Narodowej określi, w drodze rozporządzenia, wzór upoważnienia, o którym mowa wtym danych osobowych uzyskanych przez uprawniowust. 6, uwzględniając niezbędne dane żołnierza ˚andarmerii Wojskowej.
 
 **Art. 30.**
 
-1. Dane identyfikujàce u˝ytkownika sieci telekomunikacyjnej lub zakoƒczenia sieci, mi´dzy którymi wykonano po∏àczenie, oraz dane dotyczàce uzyskania lub próby uzyskania po∏àczenia mi´dzy okreÊlonymi zakoƒczeniami sieci, a tak˝e okolicznoÊci i rodzaje wykonanego po∏àczenia, mogà byç ujawnione ˚andarmerii Wojskowej oraz przetwarzane przez ˚andarmeri´ Wojskowà wy∏àcznie w celu zapobiegania lub wykrywania przest´pstw.
+1. Dane identyfikujące użytkownika sieci telekomunikacyjnej lub zakończenia sieci, między którymi wykonano połączenie, oraz dane dotyczące uzyskania lub próby uzyskania połączenia między określonymi zakończeniami sieci, a także okoliczności i rodzaje wykonanego połączenia, mogą być ujawnione ˚andarmerii Wojskowej oraz przetwarzane przez ˚andarmerię Wojskową wyłącznie w celu zapobiegania lub wykrywania przestępstw.
 
-2. Ujawnienie danych, októrych mowa wust. 1, nast´puje:
+2. Ujawnienie danych, októrych mowa wust. 1, następuje:
 
-- **1)** na pisemny wniosek Komendanta G∏ównego ˚andarmerii Wojskowej lub komendanta oddzia∏u ˚andarmerii Wojskowej,
-- **2)** na ustne ˝àdanie ˝o∏nierza ˚andarmerii Wojskowej posiadajàcego upowa˝nienie organów, o których mowa wpkt 1.
+- **1)** na pisemny wniosek Komendanta Głównego ˚andarmerii Wojskowej lub komendanta oddziału ˚andarmerii Wojskowej,
+- **2)** na ustne żądanie żołnierza ˚andarmerii Wojskowej posiadającego upoważnienie organów, o których mowa wpkt 1.
 
-3. Przedsi´biorcy prowadzàcy dzia∏alnoÊç w dziedzinie telekomunikacji w sieciach publicznych sà obowiàzani udost´pniç na koszt w∏asny dane, o których mowa w ust. 1, ˝o∏nierzom wskazanym we wniosku w∏aÊciwego organu ˚andarmerii Wojskowej lub ˝o∏nierzom, októrych mowa wust. 2 pkt 2.
+3. Przedsiębiorcy prowadzący działalność w dziedzinie telekomunikacji w sieciach publicznych są obowiązani udostępnić na koszt własny dane, o których mowa w ust. 1, żołnierzom wskazanym we wniosku właściwego organu ˚andarmerii Wojskowej lub żołnierzom, októrych mowa wust. 2 pkt 2.
 
-4. Ujawnienie ˚andarmerii Wojskowej danych, októrych mowa wust. 1, mo˝e nastàpiç za pomocà sieci telekomunikacyjnych, bez koniecznoÊci sk∏adania pisemnych wniosków, je˝eli:
+4. Ujawnienie ˚andarmerii Wojskowej danych, októrych mowa wust. 1, może nastąpić za pomocą sieci telekomunikacyjnych, bez konieczności składania pisemnych wniosków, jeżeli:
 
-- **1)** sieci te sà wyposa˝one w:
-    - **a)** urzàdzenia umo˝liwiajàce zachowanie informacji kto, kiedy oraz jakie dane uzyska∏,
-    - **b)** zabezpieczenia techniczne iorganizacyjne uniemo˝liwiajàce wykorzystanie danych przez osoby nieuprawnione, przy ich udost´pnianiu za pomocà urzàdzeƒ teletransmisyjnych,
+- **1)** sieci te są wyposażone w:
+    - **a)** urządzenia umożliwiające zachowanie informacji kto, kiedy oraz jakie dane uzyskał,
+    - **b)** zabezpieczenia techniczne iorganizacyjne uniemożliwiające wykorzystanie danych przez osoby nieuprawnione, przy ich udostępnianiu za pomocą urządzeń teletransmisyjnych,
 
-- **2)** jest to uzasadnione specyfikà lub zakresem wykonywanych przez jednostki organizacyjne ˚andarmerii Wojskowej zadaƒ albo prowadzonych przez nie czynnoÊci.
+- **2)** jest to uzasadnione specyfiką lub zakresem wykonywanych przez jednostki organizacyjne ˚andarmerii Wojskowej zadań albo prowadzonych przez nie czynności.
 
-5. Materia∏y uzyskane w wyniku czynnoÊci podj´tych na podstawie ust. 1, które zawierajà informacje majàce znaczenie dla post´powania karnego, ˚andarmeria Wojskowa przekazuje w∏aÊciwemu prokuratorowi wojskowemu.
+5. Materiały uzyskane w wyniku czynności podjętych na podstawie ust. 1, które zawierają informacje mające znaczenie dla postępowania karnego, ˚andarmeria Wojskowa przekazuje właściwemu prokuratorowi wojskowemu.
 
-6. Materia∏y uzyskane w wyniku czynnoÊci podj´tych na podstawie ust. 1, które nie zawierajà informacji majàcych znaczenie dla post´powania karnego, podlegajà niezw∏ocznemu komisyjnemu i protokolarnemu zniszczeniu.
+6. Materiały uzyskane w wyniku czynności podjętych na podstawie ust. 1, które nie zawierają informacji mających znaczenie dla postępowania karnego, podlegają niezwłocznemu komisyjnemu i protokolarnemu zniszczeniu.
 
 **Art. 31.**
 
-1. Przy wykonywaniu czynnoÊci operacyjno-rozpoznawczych, podejmowanych przez ˚andarmeri´ Wojskowà w granicach zadaƒ okreÊlonych w art. 4 ust. 1 oraz w stosunku do osób wskazanych wart.3 ust. 2 pkt 1, pkt 3 lit. b) ipkt 5, wcelu zapobie˝enia, wykrycia, ustalenia sprawców oraz uzyskania iutrwalenia dowodów, Êciganych zoskar˝enia publicznego, umyÊlnych przest´pstw:
+1. Przy wykonywaniu czynności operacyjno-rozpoznawczych, podejmowanych przez ˚andarmerię Wojskową w granicach zadań określonych w art. 4 ust. 1 oraz w stosunku do osób wskazanych wart.3 ust. 2 pkt 1, pkt 3 lit. b) ipkt 5, wcelu zapobieżenia, wykrycia, ustalenia sprawców oraz uzyskania iutrwalenia dowodów, ściganych zoskarżenia publicznego, umyślnych przestępstw:
 
-- **1)** przeciwko pokojowi iludzkoÊci,
+- **1)** przeciwko pokojowi iludzkości,
 - **2)** przeciwko Rzeczypospolitej Polskiej,
-- **3)** zamachu na jednostki i komórki organizacyjne Si∏ Zbrojnych,
+- **3)** zamachu na jednostki i komórki organizacyjne Sił Zbrojnych,
 - **4)** zabójstwa,
 - **5)** uprowadzenia statku powietrznego lub wodnego,
-- **6)** u˝ycia przemocy lub groêby bezprawnej wzwiàzku zpost´powaniem karnym,
-- **7)** przyj´cia lub udzielenia korzyÊci majàtkowej lub jej
+- **6)** użycia przemocy lub groêby bezprawnej wzwiązku zpostępowaniem karnym,
+- **7)** przyjęcia lub udzielenia korzyści majątkowej lub jej
 - **8)** uprowadzenia osoby,
 - **9)** handlu ludêmi,
 - **10)** wymuszenia okupu,
-- **11)** udzia∏u wzorganizowanej grupie przest´pczej,
-- **12)** nielegalnego wyrabiania, posiadania lub handlu bronià, amunicjà, materia∏ami wybuchowymi, Êrodkami odurzajàcymi lub psychotropowymi albo materia∏ami jàdrowymi lub substancjami trujàcymi,
-- **13)** ujawnienia informacji stanowiàcych tajemnic´ paƒstwowà,
-- **14)** rozboju ikradzie˝y rozbójniczej,
-- **15)** dezercji zbronià lub dezercji wspólnie zinnymi ˝o∏nierzami,
-- **16)** zaboru Êrodków walki, obietnicy wzwiàzku zpe∏nieniem funkcji publicznej,
-- **17)** przest´pstw Êciganych na mocy umów i porozumieƒ mi´dzynarodowych gdy inne Êrodki okaza∏y si´ bezskuteczne albo zachodzi wysokie prawdopodobieƒstwo, ˝e b´dà nieskuteczne lub nieprzydatne, wojskowy sàd okr´gowy, na pisemny wniosek Komendanta G∏ównego ˚andarmerii Wojskowej, z∏o˝ony po uzyskaniu pisemnej zgody Prokuratora Generalnego, lub na pisemny wniosek komendanta oddzia∏u ˚andarmerii Wojskowej, z∏o˝ony po uzyskaniu zgody Komendanta G∏ównego ˚andarmerii Wojskowej i pisemnej zgody w∏aÊciwego miejscowo wojskowego prokuratora okr´gowego, mo˝e, w drodze postanowienia, zarzàdziç kontrol´ operacyjnà.
+- **11)** udziału wzorganizowanej grupie przestępczej,
+- **12)** nielegalnego wyrabiania, posiadania lub handlu bronią, amunicją, materiałami wybuchowymi, środkami odurzającymi lub psychotropowymi albo materiałami jądrowymi lub substancjami trującymi,
+- **13)** ujawnienia informacji stanowiących tajemnicę państwową,
+- **14)** rozboju ikradzieży rozbójniczej,
+- **15)** dezercji zbronią lub dezercji wspólnie zinnymi żołnierzami,
+- **16)** zaboru środków walki, obietnicy wzwiązku zpełnieniem funkcji publicznej,
+- **17)** przestępstw ściganych na mocy umów i porozumień międzynarodowych gdy inne środki okazały się bezskuteczne albo zachodzi wysokie prawdopodobieństwo, że będą nieskuteczne lub nieprzydatne, wojskowy sąd okręgowy, na pisemny wniosek Komendanta Głównego ˚andarmerii Wojskowej, złożony po uzyskaniu pisemnej zgody Prokuratora Generalnego, lub na pisemny wniosek komendanta oddziału ˚andarmerii Wojskowej, złożony po uzyskaniu zgody Komendanta Głównego ˚andarmerii Wojskowej i pisemnej zgody właściwego miejscowo wojskowego prokuratora okręgowego, może, w drodze postanowienia, zarządzić kontrolę operacyjną.
 
-2. Pisemnà zgod´ komendantowi oddzia∏u ˚andarmerii Wojskowej, októrym mowa wust. 1, wydaje wojskowy prokurator okr´gowy w∏aÊciwy ze wzgl´du na siedzib´ tego komendanta.
+2. Pisemną zgodę komendantowi oddziału ˚andarmerii Wojskowej, októrym mowa wust. 1, wydaje wojskowy prokurator okręgowy właściwy ze względu na siedzibę tego komendanta.
 
-3. Postanowienie, októrym mowa wust. 1, wydaje wojskowy sàd okr´gowy w∏aÊciwy miejscowo ze wzgl´du na siedzib´ organu ˚andarmerii Wojskowej sk∏adajàcego wniosek.
+3. Postanowienie, októrym mowa wust. 1, wydaje wojskowy sąd okręgowy właściwy miejscowo ze względu na siedzibę organu ˚andarmerii Wojskowej składającego wniosek.
 
-4. W przypadkach niecierpiàcych zw∏oki, gdy mog∏oby to spowodowaç utrat´ informacji lub zatarcie albo zniszczenie dowodów przest´pstwa:
+4. W przypadkach niecierpiących zwłoki, gdy mogłoby to spowodować utratę informacji lub zatarcie albo zniszczenie dowodów przestępstwa:
 
-- **1)** Komendant G∏ówny ˚andarmerii Wojskowej, po uzyskaniu pisemnej zgody Prokuratora Generalnego,
-- **2)** komendant oddzia∏u ˚andarmerii Wojskowej, po poinformowaniu Komendanta G∏ównego ˚andarmerii Wojskowej i po uzyskaniu pisemnej zgody prokuratora, októrym mowa wust. 2, mo˝e zarzàdziç kontrol´ operacyjnà, zwracajàc si´ jednoczeÊnie do w∏aÊciwego miejscowo wojskowego sàdu okr´gowego z wnioskiem o wydanie postanowienia wtej sprawie. Wrazie nieudzielenia przez sàd zgody w terminie 5 dni od dnia zarzàdzenia kontroli operacyjnej, organ zarzàdzajàcy wstrzymuje kontrol´ operacyjnà oraz dokonuje protokolarnego, komisyjnego zniszczenia materia∏ów zgromadzonych podczas jej stosowania.
+- **1)** Komendant Główny ˚andarmerii Wojskowej, po uzyskaniu pisemnej zgody Prokuratora Generalnego,
+- **2)** komendant oddziału ˚andarmerii Wojskowej, po poinformowaniu Komendanta Głównego ˚andarmerii Wojskowej i po uzyskaniu pisemnej zgody prokuratora, októrym mowa wust. 2, może zarządzić kontrolę operacyjną, zwracając się jednocześnie do właściwego miejscowo wojskowego sądu okręgowego z wnioskiem o wydanie postanowienia wtej sprawie. Wrazie nieudzielenia przez sąd zgody w terminie 5 dni od dnia zarządzenia kontroli operacyjnej, organ zarządzający wstrzymuje kontrolę operacyjną oraz dokonuje protokolarnego, komisyjnego zniszczenia materiałów zgromadzonych podczas jej stosowania.
 
-5. Wojskowy sàd okr´gowy mo˝e zezwoliç, na pisemny wniosek Komendanta G∏ównego ˚andarmerii Wojskowej lub komendanta oddzia∏u ˚andarmerii Wojskowej, z∏o˝ony po uzyskaniu pisemnej zgody w∏aÊciwego prokuratora wojskowego, na odstàpienie od zniszczenia materia∏ów, októrych mowa wust. 4, je˝eli stanowià one dowód lub wskazujà na zamiar pope∏nienia przest´pstwa, dla wykrycia którego na podstawie przepisów ustawowych mo˝e byç prowadzona kontrola operacyjna lub czynnoÊci operacyjno-rozpoznawcze.
+5. Wojskowy sąd okręgowy może zezwolić, na pisemny wniosek Komendanta Głównego ˚andarmerii Wojskowej lub komendanta oddziału ˚andarmerii Wojskowej, złożony po uzyskaniu pisemnej zgody właściwego prokuratora wojskowego, na odstąpienie od zniszczenia materiałów, októrych mowa wust. 4, jeżeli stanowią one dowód lub wskazują na zamiar popełnienia przestępstwa, dla wykrycia którego na podstawie przepisów ustawowych może być prowadzona kontrola operacyjna lub czynności operacyjno-rozpoznawcze.
 
-6. W przypadku zarzàdzenia kontroli operacyjnej wobec osoby podejrzanej lub oskar˝onego, we wniosku organu ˚andarmerii Wojskowej ozarzàdzenie kontroli operacyjnej, zamieszcza si´ informacj´ o toczàcym si´ wobec tej osoby post´powaniu.
+6. W przypadku zarządzenia kontroli operacyjnej wobec osoby podejrzanej lub oskarżonego, we wniosku organu ˚andarmerii Wojskowej ozarządzenie kontroli operacyjnej, zamieszcza się informację o toczącym się wobec tej osoby postępowaniu.
 
 7. Kontrola operacyjna jest prowadzona niejawnie ipolega na:
 
-- **1)** kontrolowaniu treÊci korespondencji,
-- **2)** kontrolowaniu zawartoÊci przesy∏ek,
-- **3)** stosowaniu Êrodków technicznych umo˝liwiajàcych uzyskiwanie w sposób niejawny informacji i dowodów oraz ich utrwalanie, a w szczególnoÊci obrazu, treÊci rozmów telefonicznych i innych informacji przekazywanych za pomocà sieci telekomunikacyjnych.
+- **1)** kontrolowaniu treści korespondencji,
+- **2)** kontrolowaniu zawartości przesyłek,
+- **3)** stosowaniu środków technicznych umożliwiających uzyskiwanie w sposób niejawny informacji i dowodów oraz ich utrwalanie, a w szczególności obrazu, treści rozmów telefonicznych i innych informacji przekazywanych za pomocą sieci telekomunikacyjnych.
 
-8. Wniosek organu ˚andarmerii Wojskowej, o którym mowa w ust. 1, o zarzàdzenie przez sàd wojskowy kontroli operacyjnej powinien zawieraç wszczególnoÊci:
+8. Wniosek organu ˚andarmerii Wojskowej, o którym mowa w ust. 1, o zarządzenie przez sąd wojskowy kontroli operacyjnej powinien zawierać wszczególności:
 
 - **1)** numer sprawy ijej kryptonim,
-- **2)** opis przest´pstwa z podaniem jego kwalifikacji prawnej,
-- **3)** okolicznoÊci uzasadniajàce potrzeb´ zastosowania kontroli operacyjnej, w tym stwierdzonej albo prawdopodobnej bezskutecznoÊci lub nieprzydatnoÊci innych Êrodków,
-- **4)** dane osoby, wobec której stosowana b´dzie kontrola operacyjna, iwskazanie miejsca lub sposobu jej stosowania,
+- **2)** opis przestępstwa z podaniem jego kwalifikacji prawnej,
+- **3)** okoliczności uzasadniające potrzebę zastosowania kontroli operacyjnej, w tym stwierdzonej albo prawdopodobnej bezskuteczności lub nieprzydatności innych środków,
+- **4)** dane osoby, wobec której stosowana będzie kontrola operacyjna, iwskazanie miejsca lub sposobu jej stosowania,
 - **5)** cel, czas irodzaj prowadzonej kontroli operacyjnej, októrej mowa wust. 7.
 
-9. Kontrol´ operacyjnà zarzàdza si´ na okres nie d∏u˝szy ni˝ 3 miesiàce. Wojskowy sàd okr´gowy mo˝e, na pisemny wniosek Komendanta G∏ównego ˚andarmerii Wojskowej lub komendanta oddzia∏u ˚andarmerii Wojskowej, z∏o˝ony po uzyskaniu pisemnej zgody Komendanta G∏ównego ˚andarmerii Wojskowej iw∏aszy ni˝ kolejne 3 miesiàce, wydaç postanowienie ojednorazowym przed∏u˝eniu kontroli operacyjnej, je˝eli nie usta∏y przyczyny zarzàdzenia tej kontroli.
+9. Kontrolę operacyjną zarządza się na okres nie dłuższy niż 3 miesiące. Wojskowy sąd okręgowy może, na pisemny wniosek Komendanta Głównego ˚andarmerii Wojskowej lub komendanta oddziału ˚andarmerii Wojskowej, złożony po uzyskaniu pisemnej zgody Komendanta Głównego ˚andarmerii Wojskowej iwłaszy niż kolejne 3 miesiące, wydać postanowienie ojednorazowym przedłużeniu kontroli operacyjnej, jeżeli nie ustały przyczyny zarządzenia tej kontroli.
 
-10. W szczególnie uzasadnionych przypadkach, gdy podczas stosowania kontroli operacyjnej pojawià si´ nowe okolicznoÊci istotne dla zapobie˝enia lub wykrycia przest´pstwa albo ustalenia sprawców iuzyskania dowodów przest´pstwa, wojskowy sàd okr´gowy w∏aÊciwy miejscowo ze wzgl´du na siedzib´ wnioskujàcego organu ˚andarmerii Wojskowej, na pisemny wniosek Komendanta G∏ównego ˚andarmerii Wojskowej lub komendanta oddzia∏u ˚andarmerii Wojskowej, z∏o˝ony po uzyskaniu pisemnej zgody Komendanta G∏ównego ˚andarmerii Wojskowej oraz w∏aÊciwego prokuratora wojskowego, mo˝e wydaç postanowienie o kontroli operacyjnej prowadzonej przez czas oznaczony równie˝ po up∏ywie okresów, o których mowa wust. 9.
+10. W szczególnie uzasadnionych przypadkach, gdy podczas stosowania kontroli operacyjnej pojawią się nowe okoliczności istotne dla zapobieżenia lub wykrycia przestępstwa albo ustalenia sprawców iuzyskania dowodów przestępstwa, wojskowy sąd okręgowy właściwy miejscowo ze względu na siedzibę wnioskującego organu ˚andarmerii Wojskowej, na pisemny wniosek Komendanta Głównego ˚andarmerii Wojskowej lub komendanta oddziału ˚andarmerii Wojskowej, złożony po uzyskaniu pisemnej zgody Komendanta Głównego ˚andarmerii Wojskowej oraz właściwego prokuratora wojskowego, może wydać postanowienie o kontroli operacyjnej prowadzonej przez czas oznaczony również po upływie okresów, o których mowa wust. 9.
 
-11. Do wniosków, októrych mowa wust. 4, 5, 9 i10, stosuje si´ odpowiednio ust. 8. Sàd przed wydaniem postanowienia, o którym mowa w ust. 9 lub 10, mo˝e zapoznaç si´ z materia∏ami uzasadniajàcymi wniosek, zgromadzonymi podczas stosowania kontroli operacyjnej zarzàdzonej wtej sprawie.
+11. Do wniosków, októrych mowa wust. 4, 5, 9 i10, stosuje się odpowiednio ust. 8. Sąd przed wydaniem postanowienia, o którym mowa w ust. 9 lub 10, może zapoznać się z materiałami uzasadniającymi wniosek, zgromadzonymi podczas stosowania kontroli operacyjnej zarządzonej wtej sprawie.
 
-12. Wnioski, o których mowa w ust. 1, 4, 5, 9 i 10, wojskowy sàd okr´gowy rozpoznaje na posiedzeniu jednoosobowo, przy czym czynnoÊci sàdu zwiàzane zrozpoznaniem tych wniosków sà wykonywane wwarunkach przewidzianych dla przekazywania, przechowywania i udost´pniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wydanych na podstawie art. 181 § 2 Kodeksu post´powania karnego. W posiedzeniu sàdu mo˝e wziàç udzia∏ wy∏àcznie prokurator wojskowej prokuratury okr´gowej iprzedstawiciel organu ˚andarmerii Wojskowej wnioskujàcego ozarzàdzenie kontroli operacyjnej.
+12. Wnioski, o których mowa w ust. 1, 4, 5, 9 i 10, wojskowy sąd okręgowy rozpoznaje na posiedzeniu jednoosobowo, przy czym czynności sądu związane zrozpoznaniem tych wniosków są wykonywane wwarunkach przewidzianych dla przekazywania, przechowywania i udostępniania informacji niejawnych oraz z odpowiednim zastosowaniem przepisów wydanych na podstawie art. 181 § 2 Kodeksu postępowania karnego. W posiedzeniu sądu może wziąć udział wyłącznie prokurator wojskowej prokuratury okręgowej iprzedstawiciel organu ˚andarmerii Wojskowej wnioskującego ozarządzenie kontroli operacyjnej.
 
-13. Przedsi´biorcy prowadzàcy dzia∏alnoÊç telekomunikacyjnà w sieciach publicznych oraz podmioty Êwiadczàce us∏ugi pocztowe sà obowiàzani do zapewnienia na w∏asny koszt warunków technicznych iorganizacyjnych umo˝liwiajàcych prowadzenie przez ˚andarmeri´ Wojskowà kontroli operacyjnej.
+13. Przedsiębiorcy prowadzący działalność telekomunikacyjną w sieciach publicznych oraz podmioty świadczące usługi pocztowe są obowiązani do zapewnienia na własny koszt warunków technicznych iorganizacyjnych umożliwiających prowadzenie przez ˚andarmerię Wojskową kontroli operacyjnej.
 
-14. Kontrola operacyjna powinna byç zakoƒczona niezw∏ocznie po ustaniu przyczyn jej zarzàdzenia, najpóêniej jednak z up∏ywem okresu, na który zosta∏a wprowadzona.
+14. Kontrola operacyjna powinna być zakończona niezwłocznie po ustaniu przyczyn jej zarządzenia, najpóêniej jednak z upływem okresu, na który została wprowadzona.
 
-15. Organ ˚andarmerii Wojskowej, októrym mowa wust. 1, informuje w∏aÊciwego prokuratora wojskowego owynikach kontroli operacyjnej po jej zakoƒczeniu, ana jego ˝àdanie—równie˝ oprzebiegu tej kontroli.
+15. Organ ˚andarmerii Wojskowej, októrym mowa wust. 1, informuje właściwego prokuratora wojskowego owynikach kontroli operacyjnej po jej zakończeniu, ana jego żądanie—również oprzebiegu tej kontroli.
 
-16. W przypadku uzyskania dowodów pozwalajàcych na wszcz´cie post´powania karnego lub majàcych znaczenie dla toczàcego si´ post´powania karnego Komendant G∏ówny ˚andarmerii Wojskowej lub komendant oddzia∏u ˚andarmerii Wojskowej przekazuje w∏aÊciwemu prokuratorowi wojskowemu wszystkie Êciwego prokuratora wojskowego, na okres nie d∏u˝materia∏y zgromadzone podczas stosowania kontroli operacyjnej z wnioskiem o wszcz´cie post´powania karnego. Wpost´powaniu przed sàdem wodniesieniu do tych materia∏ów stosuje si´ odpowiednio przepis art. 393 § 1 zdanie pierwsze Kodeksu post´powania karnego.
+16. W przypadku uzyskania dowodów pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Komendant Główny ˚andarmerii Wojskowej lub komendant oddziału ˚andarmerii Wojskowej przekazuje właściwemu prokuratorowi wojskowemu wszystkie ściwego prokuratora wojskowego, na okres nie dłużmateriały zgromadzone podczas stosowania kontroli operacyjnej z wnioskiem o wszczęcie postępowania karnego. Wpostępowaniu przed sądem wodniesieniu do tych materiałów stosuje się odpowiednio przepis art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
 
-17. Osobie, w stosunku do której by∏a stosowana kontrola operacyjna, nie udost´pnia si´ materia∏ów zgromadzonych podczas tej kontroli. Przepis nie narusza uprawnieƒ wynikajàcych zart. 321 Kodeksu post´powania karnego.
+17. Osobie, w stosunku do której była stosowana kontrola operacyjna, nie udostępnia się materiałów zgromadzonych podczas tej kontroli. Przepis nie narusza uprawnień wynikających zart. 321 Kodeksu postępowania karnego.
 
-18. Zgromadzone podczas stosowania kontroli operacyjnej materia∏y niezawierajàce dowodów pozwalajàcych na wszcz´cie post´powania karnego lub niemajàce znaczenia dla toczàcego si´ post´powania karnego przechowuje si´ po zakoƒczeniu kontroli przez okres 2 miesi´cy, anast´pnie dokonuje si´ ich protokolarnego, komisyjnego zniszczenia. Zniszczenie materia∏ów zarzàdza organ ˚andarmerii Wojskowej, który wnioskowa∏ ozarzàdzenie kontroli operacyjnej.
+18. Zgromadzone podczas stosowania kontroli operacyjnej materiały niezawierające dowodów pozwalających na wszczęcie postępowania karnego lub niemające znaczenia dla toczącego się postępowania karnego przechowuje się po zakończeniu kontroli przez okres 2 miesięcy, anastępnie dokonuje się ich protokolarnego, komisyjnego zniszczenia. Zniszczenie materiałów zarządza organ ˚andarmerii Wojskowej, który wnioskował ozarządzenie kontroli operacyjnej.
 
-19. Na postanowienia sàdu wprzedmiocie kontroli operacyjnej, októrych mowa wust. 1, 4, 9 i10, atak˝e na postanowienie sàdu wydane na podstawie ust. 5, przys∏uguje za˝alenie organowi ˚andarmerii Wojskowej, który z∏o˝y∏ wniosek owydanie tego postanowienia. Do za˝alenia stosuje si´ odpowiednio przepisy Kodeksu post´powania karnego.
+19. Na postanowienia sądu wprzedmiocie kontroli operacyjnej, októrych mowa wust. 1, 4, 9 i10, atakże na postanowienie sądu wydane na podstawie ust. 5, przysługuje zażalenie organowi ˚andarmerii Wojskowej, który złożył wniosek owydanie tego postanowienia. Do zażalenia stosuje się odpowiednio przepisy Kodeksu postępowania karnego.
 
-20. Minister Obrony Narodowej, w porozumieniu z Ministrem SprawiedliwoÊci oraz ministrem w∏aÊciwym do spraw gospodarki, okreÊli, wdrodze rozporzàdzenia, sposób dokumentowania kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarzàdzeƒ, a tak˝e przechowywania, przekazywania oraz przetwarzania i niszczenia materia∏ów uzyskanych podczas stosowania tej kontroli, uwzgl´dniajàc potrzeb´ zapewnienia niejawnego charakteru podejmowanych czynnoÊci i uzyskanych materia∏ów oraz wzory stosowanych druków irejestrów.
+20. Minister Obrony Narodowej, w porozumieniu z Ministrem Sprawiedliwości oraz ministrem właściwym do spraw gospodarki, określi, wdrodze rozporządzenia, sposób dokumentowania kontroli operacyjnej oraz przechowywania i przekazywania wniosków i zarządzeń, a także przechowywania, przekazywania oraz przetwarzania i niszczenia materiałów uzyskanych podczas stosowania tej kontroli, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków irejestrów.
 
 **Art. 32.**
 
-1. W sprawach o przest´pstwa, o których mowa wart. 31 ust. 1, wgranicach zadaƒ okreÊlonych w art. 4 ust. 1 oraz w stosunku do osób wskazanych w art. 3 ust. 2 pkt 1, pkt 3 lit. b) i pkt 5, czynnoÊci operacyjno-rozpoznawcze zmierzajàce do sprawdzenia uzyskanych wczeÊniej wiarygodnych informacji oprzest´pstwie oraz ustalenia sprawców i uzyskania dowodów przest´pstwa mogà polegaç na dokonaniu wsposób niejawny nabycia, zbycia lub przej´cia przedmiotów pochodzàcych z przest´pstwa, ulegajàcych przepadkowi, albo których wytwarzanie, posiadanie, przewo˝enie lub którymi obrót sà zabronione, atak˝e przyj´ciu lub wr´czeniu korzyÊci majàtkowej.
+1. W sprawach o przestępstwa, o których mowa wart. 31 ust. 1, wgranicach zadań określonych w art. 4 ust. 1 oraz w stosunku do osób wskazanych w art. 3 ust. 2 pkt 1, pkt 3 lit. b) i pkt 5, czynności operacyjno-rozpoznawcze zmierzające do sprawdzenia uzyskanych wcześniej wiarygodnych informacji oprzestępstwie oraz ustalenia sprawców i uzyskania dowodów przestępstwa mogą polegać na dokonaniu wsposób niejawny nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, atakże przyjęciu lub wręczeniu korzyści majątkowej.
 
-2. CzynnoÊci operacyjno-rozpoznawcze, o których mowa wust. 1, mogà polegaç tak˝e na z∏o˝eniu propozycji nabycia, zbycia lub przej´cia przedmiotów pochodzàcych z przest´pstwa, ulegajàcych przepadkowi, albo których wytwarzanie, posiadanie, przewo˝enie lub którymi obrót sà zabronione, atak˝e przyj´cia lub wr´czenia korzyÊci majàtkowej.
+2. Czynności operacyjno-rozpoznawcze, o których mowa wust. 1, mogą polegać także na złożeniu propozycji nabycia, zbycia lub przejęcia przedmiotów pochodzących z przestępstwa, ulegających przepadkowi, albo których wytwarzanie, posiadanie, przewożenie lub którymi obrót są zabronione, atakże przyjęcia lub wręczenia korzyści majątkowej.
 
-3. Komendant G∏ówny ˚andarmerii Wojskowej lub wach oprzest´pstwa, októrymmowa wart. 31 ust. 1, mo˝e zarzàdziç na czas okreÊlony czynnoÊci, októrych mowa w ust. 1 i 2, po uzyskaniu pisemnej zgody w∏aÊciwego miejscowo wojskowego prokuratora okr´gowego, którego na bie˝àco informuje o wynikach przeprowadzonych czynnoÊci. Wojskowy prokurator okr´gowy mo˝e zarzàdziç zaniechanie czynnoÊci wka˝dym czasie.
+3. Komendant Główny ˚andarmerii Wojskowej lub wach oprzestępstwa, októrymmowa wart. 31 ust. 1, może zarządzić na czas określony czynności, októrych mowa w ust. 1 i 2, po uzyskaniu pisemnej zgody właściwego miejscowo wojskowego prokuratora okręgowego, którego na bieżąco informuje o wynikach przeprowadzonych czynności. Wojskowy prokurator okręgowy może zarządzić zaniechanie czynności wkażdym czasie.
 
-4. CzynnoÊci, októrych mowa wust. 1 i2, zarzàdza si´ na okres nie d∏u˝szy ni˝ 3 miesiàce. Komendant G∏ówny ˚andarmerii Wojskowej lub komendant oddzia∏u ˚andarmerii Wojskowej mo˝e, po uzyskaniu pisemnej zgody w∏aÊciwego prokuratora wojskowego, jednorazowo przed∏u˝yç stosowanie czynnoÊci, na okres nie d∏u˝szy ni˝ kolejne 3 miesiàce, je˝eli nie usta∏y przyczyny ich zarzàdzenia.
+4. Czynności, októrych mowa wust. 1 i2, zarządza się na okres nie dłuższy niż 3 miesiące. Komendant Główny ˚andarmerii Wojskowej lub komendant oddziału ˚andarmerii Wojskowej może, po uzyskaniu pisemnej zgody właściwego prokuratora wojskowego, jednorazowo przedłużyć stosowanie czynności, na okres nie dłuższy niż kolejne 3 miesiące, jeżeli nie ustały przyczyny ich zarządzenia.
 
-5. Przy wykonywaniu czynnoÊci, o których mowa w ust. 1 i 2, mogà byç stosowane Êrodki techniczne umo˝liwiajàce uzyskiwanie iutrwalanie treÊci informacji, wtym obrazu lub dêwi´ku. komendant oddzia∏u ˚andarmerii Wojskowej w spra6. W przypadku uzyskania materia∏ów mogàcych byç dowodem, pozwalajàcych na wszcz´cie post´powania karnego lub majàcych znaczenie dla toczàcego si´ post´powania karnego, Komendant G∏ówny ˚andarmerii Wojskowej lub komendant oddzia∏u ˚andarmerii Wojskowej przekazuje w∏aÊciwemu wojskowemu prokuratorowi okr´gowemu wszystkie materia∏y zgromadzone podczas stosowania czynnoÊci, o których mowa wust. 1 i2, zwnioskiem owszcz´cie post´powania karnego. W post´powaniu przed sàdem, w odniesieniu do tych materia∏ów stosuje si´ odpowiednio przepis art. 393 § 1 zdanie pierwsze Kodeksu post´powania karnego.
+5. Przy wykonywaniu czynności, o których mowa w ust. 1 i 2, mogą być stosowane środki techniczne umożliwiające uzyskiwanie iutrwalanie treści informacji, wtym obrazu lub dêwięku. komendant oddziału ˚andarmerii Wojskowej w spra6. W przypadku uzyskania materiałów mogących być dowodem, pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego, Komendant Główny ˚andarmerii Wojskowej lub komendant oddziału ˚andarmerii Wojskowej przekazuje właściwemu wojskowemu prokuratorowi okręgowemu wszystkie materiały zgromadzone podczas stosowania czynności, o których mowa wust. 1 i2, zwnioskiem owszczęcie postępowania karnego. W postępowaniu przed sądem, w odniesieniu do tych materiałów stosuje się odpowiednio przepis art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
 
-7. W uzasadnionych przypadkach, je˝eli podczas stosowania czynnoÊci, októrych mowa wust. 1, pojawià si´ nowe okolicznoÊci istotne dla sprawdzenia uzyskanych wczeÊniej wiarygodnych informacji o przest´pstwie oraz ustalenia sprawców i uzyskania dowodów przest´pstwa, Komendant G∏ówny ˚andarmerii Wojskowej lub komendant oddzia∏u ˚andarmerii Wojskowej mo˝e, po uzyskaniu pisemnej zgody w∏aÊciwego prokuratora wojskowego, zarzàdziç kontynuowanie czynnoÊci przez czas oznaczony równie˝ po up∏ywie okresów, októrych mowa wust. 4.
+7. W uzasadnionych przypadkach, jeżeli podczas stosowania czynności, októrych mowa wust. 1, pojawią się nowe okoliczności istotne dla sprawdzenia uzyskanych wcześniej wiarygodnych informacji o przestępstwie oraz ustalenia sprawców i uzyskania dowodów przestępstwa, Komendant Główny ˚andarmerii Wojskowej lub komendant oddziału ˚andarmerii Wojskowej może, po uzyskaniu pisemnej zgody właściwego prokuratora wojskowego, zarządzić kontynuowanie czynności przez czas oznaczony również po upływie okresów, októrych mowa wust. 4.
 
-8. Minister Obrony Narodowej, w porozumieniu zMinistrem SprawiedliwoÊci, okreÊli, wdrodze rozporzàdzenia, sposób przeprowadzania i dokumentowania czynnoÊci, októrych mowa wust. 1 i2, uwzgl´dniajàc potrzeb´ zapewnienia niejawnego charakteru podejmowanych czynnoÊci iuzyskanych materia∏ów oraz wzory stosowanych druków irejestrów.
+8. Minister Obrony Narodowej, w porozumieniu zMinistrem Sprawiedliwości, określi, wdrodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, októrych mowa wust. 1 i2, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności iuzyskanych materiałów oraz wzory stosowanych druków irejestrów.
 
 **Art. 33.**
 
-1. Przy wykonywaniu czynnoÊci operacyjno-rozpoznawczych, podejmowanych w celu udokumentowania przest´pstw, o których mowa w art. 31 ust. 1, albo ustalenia to˝samoÊci osób uczestniczàcych w tych przest´pstwach lub przej´cia przedmiotów przest´pstwa, Komendant G∏ówny ˚andarmerii Wojskowej lub komendant oddzia∏u ˚andarmerii Wojskowej mo˝e zarzàdziç niejawne nadzorowanie wytwarzania, przemieszczania, przechowywania iobrotu przedmiotami przest´pstwa, je˝eli nie stworzy to zagro˝enia dla ˝ycia lub zdrowia ludzkiego.
+1. Przy wykonywaniu czynności operacyjno-rozpoznawczych, podejmowanych w celu udokumentowania przestępstw, o których mowa w art. 31 ust. 1, albo ustalenia tożsamości osób uczestniczących w tych przestępstwach lub przejęcia przedmiotów przestępstwa, Komendant Główny ˚andarmerii Wojskowej lub komendant oddziału ˚andarmerii Wojskowej może zarządzić niejawne nadzorowanie wytwarzania, przemieszczania, przechowywania iobrotu przedmiotami przestępstwa, jeżeli nie stworzy to zagrożenia dla życia lub zdrowia ludzkiego.
 
-2. Ozarzàdzeniu, októrym mowa wust. 1, zawiadamia si´ niezw∏ocznie w∏aÊciwego miejscowo, ze wzgl´du na siedzib´ organu zawiadamiajàcego, wojskowego prokuratora okr´gowego, który mo˝e nakazaç zaniechanie czynnoÊci wka˝dym czasie.
+2. Ozarządzeniu, októrym mowa wust. 1, zawiadamia się niezwłocznie właściwego miejscowo, ze względu na siedzibę organu zawiadamiającego, wojskowego prokuratora okręgowego, który może nakazać zaniechanie czynności wkażdym czasie.
 
-3. Organ ˚andarmerii Wojskowej, o którym mowa wust. 1, na bie˝àco informuje wojskowego prokuratora okr´gowego, o którym mowa w ust. 2, o wynikach przeprowadzonych czynnoÊci.
+3. Organ ˚andarmerii Wojskowej, o którym mowa wust. 1, na bieżąco informuje wojskowego prokuratora okręgowego, o którym mowa w ust. 2, o wynikach przeprowadzonych czynności.
 
-4. Przy wykonywaniu czynnoÊci, o których mowa wust. 1, mogà byç stosowane Êrodki techniczne umo˝liwiajàce uzyskiwanie i utrwalanie treÊci informacji, wtym obrazu lub dêwi´ku.
+4. Przy wykonywaniu czynności, o których mowa wust. 1, mogą być stosowane środki techniczne umożliwiające uzyskiwanie i utrwalanie treści informacji, wtym obrazu lub dêwięku.
 
-5. Stosownie do zarzàdzenia, o którym mowa w ust. 1, organy i instytucje publiczne oraz przedsi´biorcy sà obowiàzani dopuÊciç do dalszego przewozu przesy∏ki zawierajàce przedmioty przest´pstwa w stanie nienaruszonym lub po ich usuni´ciu albo zastàpieniu wca∏oÊci lub wcz´Êci.
+5. Stosownie do zarządzenia, o którym mowa w ust. 1, organy i instytucje publiczne oraz przedsiębiorcy są obowiązani dopuścić do dalszego przewozu przesyłki zawierające przedmioty przestępstwa w stanie nienaruszonym lub po ich usunięciu albo zastąpieniu wcałości lub wczęści.
 
-6. W przypadku uzyskania materia∏ów mogàcych byç dowodem, pozwalajàcych na wszcz´cie post´powania karnego lub majàcych znaczenie dla toczàcego si´ post´powania karnego Komendant G∏ówny ˚andarmerii Wojskowej lub komendant oddzia∏u ˚andarmerii Wojskowej, za zgodà Komendanta G∏ównego ˚andarmerii Wojskowej, przekazuje wojskowemu prokuratorowi okr´gowemu wszystkie materia∏y zgromadzone podczas stosowania czynnoÊci, októrych mowa wust. 1, wrazie potrzeby zwnioskiem owszcz´cie post´powania karnego. W post´powaniu przed sàdem w odniesieniu do tych materia∏ów stosuje si´ przepis art. 393 § 1 zdanie pierwsze Kodeksu post´powania karnego.
+6. W przypadku uzyskania materiałów mogących być dowodem, pozwalających na wszczęcie postępowania karnego lub mających znaczenie dla toczącego się postępowania karnego Komendant Główny ˚andarmerii Wojskowej lub komendant oddziału ˚andarmerii Wojskowej, za zgodą Komendanta Głównego ˚andarmerii Wojskowej, przekazuje wojskowemu prokuratorowi okręgowemu wszystkie materiały zgromadzone podczas stosowania czynności, októrych mowa wust. 1, wrazie potrzeby zwnioskiem owszczęcie postępowania karnego. W postępowaniu przed sądem w odniesieniu do tych materiałów stosuje się przepis art. 393 § 1 zdanie pierwsze Kodeksu postępowania karnego.
 
-7. Minister Obrony Narodowej, w porozumieniu zMinistrem SprawiedliwoÊci, okreÊli, wdrodze rozporzàdzenia, sposób przeprowadzania i dokumentowania czynnoÊci, októrych mowa wust. 1, uwzgl´dniajàc potrzeb´ zapewnienia niejawnego charakteru podejmowanych czynnoÊci i uzyskanych materia∏ów oraz wzory stosowanych druków irejestrów.
+7. Minister Obrony Narodowej, w porozumieniu zMinistrem Sprawiedliwości, określi, wdrodze rozporządzenia, sposób przeprowadzania i dokumentowania czynności, októrych mowa wust. 1, uwzględniając potrzebę zapewnienia niejawnego charakteru podejmowanych czynności i uzyskanych materiałów oraz wzory stosowanych druków irejestrów.
 
 **Art. 34.**
 
-1. ˚andarmeria Wojskowa, w zakresie koniecznym do wykonania zadaƒ okreÊlonych w art. 4 ust. 1, mo˝e korzystaç zinformacji oosobach wskazanych wart. 3 ust. 2 pkt 1, pkt 3 lit. b) ipkt 5, uzyskanych przez organy uprawnione do wykonywania czynnoÊci operacyjno-rozpoznawczych w czasie wykonywania tych czynnoÊci.
+1. ˚andarmeria Wojskowa, w zakresie koniecznym do wykonania zadań określonych w art. 4 ust. 1, może korzystać zinformacji oosobach wskazanych wart. 3 ust. 2 pkt 1, pkt 3 lit. b) ipkt 5, uzyskanych przez organy uprawnione do wykonywania czynności operacyjno-rozpoznawczych w czasie wykonywania tych czynności.
 
-2. Prezes Rady Ministrów okreÊli, w drodze rozporzàdzenia, zakres, warunki i tryb przekazywania ˚andarmerii Wojskowej informacji oosobach, uzyskanych przez organy uprawnione do wykonywania czynnoÊci operacyjno-rozpoznawczych, w czasie wykonywania tych czynnoÊci. Rozporzàdzenie to ustali wszczególnorzecz ˚andarmerii Wojskowej, atak˝e sposób wyst´powania ˚andarmerii Wojskowej do tych organów oudzielenie informacji oraz sposób ich przekazywania.
+2. Prezes Rady Ministrów określi, w drodze rozporządzenia, zakres, warunki i tryb przekazywania ˚andarmerii Wojskowej informacji oosobach, uzyskanych przez organy uprawnione do wykonywania czynności operacyjno-rozpoznawczych, w czasie wykonywania tych czynności. Rozporządzenie to ustali wszczególnorzecz ˚andarmerii Wojskowej, atakże sposób występowania ˚andarmerii Wojskowej do tych organów oudzielenie informacji oraz sposób ich przekazywania.
 
-**Art. 35.** ˚andarmeria Wojskowa udost´pnia organom uprawnionym do wykonywania czynnoÊci operacyjno-rozpoznawczych, na wniosek tych organów, informacje oosobach, uzyskane przez nià wczasie wykonywania tych czynnoÊci.
+**Art. 35.** ˚andarmeria Wojskowa udostępnia organom uprawnionym do wykonywania czynności operacyjno-rozpoznawczych, na wniosek tych organów, informacje oosobach, uzyskane przez nią wczasie wykonywania tych czynności.
 
 **Art. 36.**
 
-1. ˚andarmeria Wojskowa, wykonujàc czynnoÊci operacyjno-rozpoznawcze, mo˝e korzystaç z pomocy osób nieb´dàcych ˝o∏nierzami ˚andarmerii Wojskowej. Przepis art. 27 ust. 1 stosuje si´ odpowiednio.
+1. ˚andarmeria Wojskowa, wykonując czynności operacyjno-rozpoznawcze, może korzystać z pomocy osób niebędących żołnierzami ˚andarmerii Wojskowej. Przepis art. 27 ust. 1 stosuje się odpowiednio.
 
-2. Zabronione jest ujawnianie danych o osobie udzielajàcej pomocy ˚andarmerii Wojskowej w wykonywaniu czynnoÊci operacyjno-rozpoznawczych, z zastrze˝eniem ust. 3 i4.
+2. Zabronione jest ujawnianie danych o osobie udzielającej pomocy ˚andarmerii Wojskowej w wykonywaniu czynności operacyjno-rozpoznawczych, z zastrzeżeniem ust. 3 i4.
 
-3. W razie odmowy zwolnienia ˝o∏nierza ˚andarmerii Wojskowej lub osoby udzielajàcej mu pomocy w wykonywaniu czynnoÊci operacyjno-rozpoznawÊci zakres czynnoÊci wykonywanych przez te organy na czych od obowiàzku zachowania tajemnicy paƒstwowej wzwiàzku zpost´powaniem karnym albo odmowy zezwolenia na udost´pnienie materia∏ów zawierajàcych informacje niejawne stanowiàce tajemnic´ paƒstwowà, pomimo ˝àdania prokuratora lub sàdu, zg∏oszonego w zwiàzku z post´powaniem karnym w sprawie oprzest´pstwo przeciwko pokojowi lub ludzkoÊci, przest´pstwo wojenne, przest´pstwo przeciwko Rzeczypospolitej Polskiej, przest´pstwo zamachu terrorystycznego albo te˝ przest´pstwo zabójstwa lub spowodowania ci´˝kiego uszczerbku na zdrowiu, którego nast´pstwem by∏a Êmierç cz∏owieka, Minister Obrony Narodowej przedstawia ˝àdane wyjaÊnienia imateria∏y Pierwszemu Prezesowi Sàdu Najwy˝szego. Je˝eli Pierwszy Prezes Sàdu Najwy˝szego stwierdzi, ˝e uwzgl´dnienie ˝àdania prokuratora lub sàdu jest konieczne do zapewnienia prawid∏owoÊci post´powania karnego, Minister Obrony Narodowej jest zobowiàzany zwolniç od obowiàzku zachowania tajemnicy paƒstwowej ˝o∏nierza ˚andarmerii Wojskowej albo udost´pniç ˝àdane wyjaÊnienia imateria∏y zawierajàce informacje niejawne stanowiàce tajemnic´ paƒstwowà.
+3. W razie odmowy zwolnienia żołnierza ˚andarmerii Wojskowej lub osoby udzielającej mu pomocy w wykonywaniu czynności operacyjno-rozpoznawści zakres czynności wykonywanych przez te organy na czych od obowiązku zachowania tajemnicy państwowej wzwiązku zpostępowaniem karnym albo odmowy zezwolenia na udostępnienie materiałów zawierających informacje niejawne stanowiące tajemnicę państwową, pomimo żądania prokuratora lub sądu, zgłoszonego w związku z postępowaniem karnym w sprawie oprzestępstwo przeciwko pokojowi lub ludzkości, przestępstwo wojenne, przestępstwo przeciwko Rzeczypospolitej Polskiej, przestępstwo zamachu terrorystycznego albo też przestępstwo zabójstwa lub spowodowania ciężkiego uszczerbku na zdrowiu, którego następstwem była śmierć człowieka, Minister Obrony Narodowej przedstawia żądane wyjaśnienia imateriały Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest konieczne do zapewnienia prawidłowości postępowania karnego, Minister Obrony Narodowej jest zobowiązany zwolnić od obowiązku zachowania tajemnicy państwowej żołnierza ˚andarmerii Wojskowej albo udostępnić żądane wyjaśnienia imateriały zawierające informacje niejawne stanowiące tajemnicę państwową.
 
-4. Dane oosobie, októrej mowa wust. 1, mogà byç ujawnione na ˝àdanie prokuratora równie˝ wrazie uzasadnionego podejrzenia, ˝e pope∏ni∏a ona przest´pstwo Êcigane zoskar˝enia publicznego wzwiàzku zwykonywaniem czynnoÊci operacyjno-rozpoznawczych. Wtakim przypadku Minister Obrony Narodowej przedstawia ˝àdane wyjaÊnienia i materia∏y Pierwszemu Prezesowi Sàdu Najwy˝szego. Je˝eli Pierwszy Prezes Sàdu Najwy˝szego stwierdzi, ˝e uwzgl´dnienie ˝àdania prokuratora lub sàdu jest konieczne do zapewnienia prawid∏owoÊci post´powania karnego, Minister Obrony Narodowej jest zobowiàzany zwolniç od obowiàzku zachowania tajemnicy paƒstwowej ˝o∏nierza ˚andarmerii Wojskowej albo udost´pniç ˝àdane wyjaÊnienia i materia∏y zawierajàce informacje niejawne stanowiàce tajemnic´ paƒstwowà.
+4. Dane oosobie, októrej mowa wust. 1, mogą być ujawnione na żądanie prokuratora również wrazie uzasadnionego podejrzenia, że popełniła ona przestępstwo ścigane zoskarżenia publicznego wzwiązku zwykonywaniem czynności operacyjno-rozpoznawczych. Wtakim przypadku Minister Obrony Narodowej przedstawia żądane wyjaśnienia i materiały Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest konieczne do zapewnienia prawidłowości postępowania karnego, Minister Obrony Narodowej jest zobowiązany zwolnić od obowiązku zachowania tajemnicy państwowej żołnierza ˚andarmerii Wojskowej albo udostępnić żądane wyjaśnienia i materiały zawierające informacje niejawne stanowiące tajemnicę państwową.
 
-5. Je˝eli wczasie korzystania lub wzwiàzku zkorzystaniem przez ˚andarmeri´ Wojskowà zpomocy, októrej mowa wust. 1, osoby udzielajàce tej pomocy utraci∏y ˝ycie lub ponios∏y uszczerbek na zdrowiu, osobom tym oraz cz∏onkom ich rodzin przys∏uguje jednorazowe odszkodowanie, renta inwalidzka i rodzinna oraz Êwiadczenie wyrównawcze, na zasadach okreÊlonych i w trybie przepisów o Êwiadczeniach osobistych na rzecz obrony wczasie pokoju.
+5. Jeżeli wczasie korzystania lub wzwiązku zkorzystaniem przez ˚andarmerię Wojskową zpomocy, októrej mowa wust. 1, osoby udzielające tej pomocy utraciły życie lub poniosły uszczerbek na zdrowiu, osobom tym oraz członkom ich rodzin przysługuje jednorazowe odszkodowanie, renta inwalidzka i rodzinna oraz świadczenie wyrównawcze, na zasadach określonych i w trybie przepisów o świadczeniach osobistych na rzecz obrony wczasie pokoju.
 
 **Art. 37.**
 
-1. Za udzielenie pomocy, o której mowa wart. 36 ust. 1, osobom nieb´dàcym ˝o∏nierzami ˚andarmerii Wojskowej Komendant G∏ówny ˚andarmerii Wojskowej mo˝e przyznaç wynagrodzenie wyp∏acane zfunduszu operacyjnego ˚andarmerii Wojskowej.
+1. Za udzielenie pomocy, o której mowa wart. 36 ust. 1, osobom niebędącym żołnierzami ˚andarmerii Wojskowej Komendant Główny ˚andarmerii Wojskowej może przyznać wynagrodzenie wypłacane zfunduszu operacyjnego ˚andarmerii Wojskowej.
 
-2. Zadania ˚andarmerii Wojskowej, których koszty ze wzgl´du na wy∏àczenie kosztów wed∏ug zadaƒ jawnoÊci post´powania nie mogà byç pokrywane na zasadach okreÊlonych w przepisach o finansach publicznych, a finansowanie wykonania czynnoÊci operacyjno-rozpoznawczych w szczególnoÊci realizowanie kosztów zwiàzanych z wykonywaniem czynnoÊci operacyjno-rozpoznawczych, sà finansowane z funduszu operacyjnego.
+2. Zadania ˚andarmerii Wojskowej, których koszty ze względu na wyłączenie kosztów według zadań jawności postępowania nie mogą być pokrywane na zasadach określonych w przepisach o finansach publicznych, a finansowanie wykonania czynności operacyjno-rozpoznawczych w szczególności realizowanie kosztów związanych z wykonywaniem czynności operacyjno-rozpoznawczych, są finansowane z funduszu operacyjnego.
 
-3. Minister Obrony Narodowej okreÊli, wdrodze zarzàdzenia, przeznaczenie funduszu operacyjnego ˚andarmerii Wojskowej oraz sposób tworzenia idysponowania nim, wszczególnoÊci sposób prowadzenia ikontrolowania gospodarki finansowej funduszem operacyjnym i w∏aÊciwoÊç organów wojskowych w tych sprawach, szczegó∏owe cele, na które mogà byç przeznaczone Êrodki funduszu, sposób dokumentowania wydatków z funduszu i zatwierdzania dowodów ksi´gowych oraz sposób ewidencjonowania Êrodków funduszu iprzechowywania jego dokumentacji.
+3. Minister Obrony Narodowej określi, wdrodze zarządzenia, przeznaczenie funduszu operacyjnego ˚andarmerii Wojskowej oraz sposób tworzenia idysponowania nim, wszczególności sposób prowadzenia ikontrolowania gospodarki finansowej funduszem operacyjnym i właściwość organów wojskowych w tych sprawach, szczegółowe cele, na które mogą być przeznaczone środki funduszu, sposób dokumentowania wydatków z funduszu i zatwierdzania dowodów księgowych oraz sposób ewidencjonowania środków funduszu iprzechowywania jego dokumentacji.
 
 **Art. 38.**
 
-1. Udzielanie informacji o osobie, uzyskanych wczasie wykonywania czynnoÊci operacyjno-rozpoznawczych oraz w trybie, o którym mowa w art. 37 ust. 1, jest dozwolone wy∏àcznie na ˝àdanie sàdu lub prokuratora, awykorzystanie tych informacji mo˝e nastàpiç tylko wcelu Êcigania karnego.
+1. Udzielanie informacji o osobie, uzyskanych wczasie wykonywania czynności operacyjno-rozpoznawczych oraz w trybie, o którym mowa w art. 37 ust. 1, jest dozwolone wyłącznie na żądanie sądu lub prokuratora, awykorzystanie tych informacji może nastąpić tylko wcelu ścigania karnego.
 
-2. Zakaz, októrym mowa wust. 1, nie ma zastosowania, je˝eli ustawa zezwala na udzielenie takich informacji okreÊlonemu organowi albo obowiàzek taki wynika z umowy mi´dzynarodowej, a tak˝e w przypadkach gdy zatajenie takiej informacji prowadzi∏oby do zagro˝enia ˝ycia lub zdrowia ludzkiego.
+2. Zakaz, októrym mowa wust. 1, nie ma zastosowania, jeżeli ustawa zezwala na udzielenie takich informacji określonemu organowi albo obowiązek taki wynika z umowy międzynarodowej, a także w przypadkach gdy zatajenie takiej informacji prowadziłoby do zagrożenia życia lub zdrowia ludzkiego.
 
-**Art. 39.** Ujawnienie danych o osobie, co do której zachodzi uzasadnione podejrzenie, ˝e pope∏ni∏a przest´pstwo Êcigane zoskar˝enia publicznego wzwiàzku z wykonywaniem przez t´ osob´ czynnoÊci operacyjno-rozpoznawczych, mo˝e nastàpiç tylko na ˝àdanie prokuratora lub sàdu. W takim przypadku Minister Obrony Narodowej przedstawia ˝àdane wyjaÊnienia i materia∏y Pierwszemu Prezesowi Sàdu Najwy˝szego. Je˝eli Pierwszy Prezes Sàdu Najwy˝szego stwierdzi, ˝e uwzgl´dnienie ˝àdania prokuratora lub sàdu jest konieczne do zapewnienia prawid∏owoÊci post´powania karnego, Minister Obrony Narodowej jest obowiàzany zwolniç od obowiàzku zachowania tajemnicy paƒstwowej ˝o∏nierza ˚andarmerii Wojskowierajàce informacje niejawne stanowiàce tajemnic´ paƒstwowà.
+**Art. 39.** Ujawnienie danych o osobie, co do której zachodzi uzasadnione podejrzenie, że popełniła przestępstwo ścigane zoskarżenia publicznego wzwiązku z wykonywaniem przez tę osobę czynności operacyjno-rozpoznawczych, może nastąpić tylko na żądanie prokuratora lub sądu. W takim przypadku Minister Obrony Narodowej przedstawia żądane wyjaśnienia i materiały Pierwszemu Prezesowi Sądu Najwyższego. Jeżeli Pierwszy Prezes Sądu Najwyższego stwierdzi, że uwzględnienie żądania prokuratora lub sądu jest konieczne do zapewnienia prawidłowości postępowania karnego, Minister Obrony Narodowej jest obowiązany zwolnić od obowiązku zachowania tajemnicy państwowej żołnierza ˚andarmerii Wojskowierające informacje niejawne stanowiące tajemnicę państwową.
 
 **Art. 40.**
 
-1. ˚andarmeria Wojskowa, wykonujàc czynnoÊci operacyjno-rozpoznawcze, zapewnia ochron´ Êrodków, form i metod ich wykonywania, zgromadzonych informacji oraz w∏asnych obiektów i danych identyfikacyjnych pozwalajàcych na ustalenie to˝samoÊci ˝o∏nierzy ˚andarmerii Wojskowej.
+1. ˚andarmeria Wojskowa, wykonując czynności operacyjno-rozpoznawcze, zapewnia ochronę środków, form i metod ich wykonywania, zgromadzonych informacji oraz własnych obiektów i danych identyfikacyjnych pozwalających na ustalenie tożsamości żołnierzy ˚andarmerii Wojskowej.
 
-2. Wykonujàc czynnoÊci operacyjno-rozpoznawcze, ˝o∏nierze ˚andarmerii Wojskowej mogà pos∏ugiwaç si´ dokumentami, które uniemo˝liwiajà ustalenie danych pozwalajàcych na identyfikacj´ oraz Êrodków, którymi pos∏ugujà si´, wykonujàc te czynnoÊci.
+2. Wykonując czynności operacyjno-rozpoznawcze, żołnierze ˚andarmerii Wojskowej mogą posługiwać się dokumentami, które uniemożliwiają ustalenie danych pozwalających na identyfikację oraz środków, którymi posługują się, wykonując te czynności.
 
-3. Minister Obrony Narodowej okreÊli, wdrodze zarzàdzenia, szczegó∏owe zasady i tryb wydawania oraz pos∏ugiwania si´ i przechowywania dokumentów, októrych mowa wust. 2, zuwzgl´dnieniem przepisów dotyczàcych odpowiednich dokumentów oraz przepisów oochronie informacji niejawnych.
+3. Minister Obrony Narodowej określi, wdrodze zarządzenia, szczegółowe zasady i tryb wydawania oraz posługiwania się i przechowywania dokumentów, októrych mowa wust. 2, zuwzględnieniem przepisów dotyczących odpowiednich dokumentów oraz przepisów oochronie informacji niejawnych.
 
-**Art. 41.** ˚o∏nierze ˚andarmerii Wojskowej wczasie wykonywania czynnoÊci s∏u˝bowych i w zwiàzku z nimi korzystajà z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych. Rozdzia∏ 4 Stosowanie Êrodków przymusu bezpoÊredniego ibroni palnej przez ˚andarmeri´ Wojskowà
+**Art. 41.** ˚ołnierze ˚andarmerii Wojskowej wczasie wykonywania czynności służbowych i w związku z nimi korzystają z ochrony prawnej przewidzianej dla funkcjonariuszy publicznych.
+
+#### Rozdział 4 Stosowanie środków przymusu bezpośredniego ibroni palnej przez ˚andarmerię Wojskową
 
 **Art. 42.**
 
-1. Wrazie niepodporzàdkowania si´ wydanym na podstawie prawa rozkazom (poleceniom) ˝o∏nierzy ˚andarmerii Wojskowej, a tak˝e wobec osób uniemo˝liwiajàcych wykonanie przez nich czynnoÊci s∏u˝bowych, ˝o∏nierze ˚andarmerii Wojskowej mogà stosowaç nast´pujàce Êrodki przymusu bezpoÊredniego:
+1. Wrazie niepodporządkowania się wydanym na podstawie prawa rozkazom (poleceniom) żołnierzy ˚andarmerii Wojskowej, a także wobec osób uniemożliwiających wykonanie przez nich czynności służbowych, żołnierze ˚andarmerii Wojskowej mogą stosować następujące środki przymusu bezpośredniego:
 
-- **1)** si∏´ fizycznà wpostaci chwytów obezw∏adniajàcych oraz podobnych technik obrony,
+- **1)** siłę fizyczną wpostaci chwytów obezwładniających oraz podobnych technik obrony,
 - **2)** kajdanki,
-- **3)** pa∏ki wielofunkcyjne,
+- **3)** pałki wielofunkcyjne,
 - **4)** paralizatory elektryczne,
-- **5)** wodne, chemiczne i techniczne Êrodki obezw∏adniajàce,
-- **6)** psy s∏u˝bowe,
-- **7)** broƒ gazowà ir´czne miotacze gazu,
+- **5)** wodne, chemiczne i techniczne środki obezwładniające,
+- **6)** psy służbowe,
+- **7)** broń gazową iręczne miotacze gazu,
 - **8)** pociski niepenetracyjne, miotane zbroni palnej.
 
-2. ˚o∏nierze ˚andarmerii Wojskowej mogà stosowaç równie˝ urzàdzenia techniczne umo˝liwiajàce zatrzymanie pojazdu, awszczególnoÊci kolczatk´ drogowà, zapor´ drogowà, koz∏y oporowe izasieki. wej i udost´pniç ˝àdane wyjaÊnienia i materia∏y za3. ˚o∏nierze ˚andarmerii Wojskowej mogà stosowaç Êrodki przymusu bezpoÊredniego odpowiadajàce potrzebom wynikajàcym z istniejàcej sytuacji i niezb´dne do osiàgni´cia podporzàdkowania si´ wydanym rozkazom (poleceniom).
+2. ˚ołnierze ˚andarmerii Wojskowej mogą stosować również urządzenia techniczne umożliwiające zatrzymanie pojazdu, awszczególności kolczatkę drogową, zaporę drogową, kozły oporowe izasieki. wej i udostępnić żądane wyjaśnienia i materiały za3. ˚ołnierze ˚andarmerii Wojskowej mogą stosować środki przymusu bezpośredniego odpowiadające potrzebom wynikającym z istniejącej sytuacji i niezbędne do osiągnięcia podporządkowania się wydanym rozkazom (poleceniom).
 
-4. Rada Ministrów okreÊli, w drodze rozporzàdzenia, warunki isposoby u˝ycia Êrodków przymusu bezpoÊredniego przez ˝o∏nierzy ˚andarmerii Wojskowej przy wykonywaniu zadaƒ, o których mowa w art. 4 ust.1. Rozporzàdzenie to ustali wszczególnoÊci post´powanie ˝o∏nierzy ˚andarmerii Wojskowej zwiàzane zu˝yciem Êrodków przymusu bezpoÊredniego oraz cel isposób u˝ycia poszczególnych Êrodków, atak˝e sposób dokumentowania u˝ycia tych Êrodków.
+4. Rada Ministrów określi, w drodze rozporządzenia, warunki isposoby użycia środków przymusu bezpośredniego przez żołnierzy ˚andarmerii Wojskowej przy wykonywaniu zadań, o których mowa w art. 4 ust.1. Rozporządzenie to ustali wszczególności postępowanie żołnierzy ˚andarmerii Wojskowej związane zużyciem środków przymusu bezpośredniego oraz cel isposób użycia poszczególnych środków, atakże sposób dokumentowania użycia tych środków.
 
 **Art. 43.**
 
-1. Je˝eli Êrodki przymusu bezpoÊredniego wymienione w art. 42 ust. 1 okaza∏y si´ niewystarczajàce lub ich u˝ycie ze wzgl´du na okolicznoÊci zdarzenia nie jest mo˝liwe, ˝o∏nierze ˚andarmerii Wojskowej majà prawo u˝ycia broni palnej:
+1. Jeżeli środki przymusu bezpośredniego wymienione w art. 42 ust. 1 okazały się niewystarczające lub ich użycie ze względu na okoliczności zdarzenia nie jest możliwe, żołnierze ˚andarmerii Wojskowej mają prawo użycia broni palnej:
 
-- **1)** wcelu odparcia bezpoÊredniego zamachu na ˝ycie, zdrowie lub wolnoÊç ˝o∏nierza ˚andarmerii Wojskowej lub innej osoby albo w celu przeciwdzia∏ania czynnoÊciom zmierzajàcym bezpoÊrednio do takiego zamachu,
-- **2)** przeciwko osobie, która nie zastosowa∏a si´ do wezwania do natychmiastowego porzucenia broni, materia∏ów wybuchowych lub innego niebezpiecznego narz´dzia, którego u˝ycie mo˝e zagroziç ˝yciu lub zdrowiu ˝o∏nierza ˚andarmerii Wojskowej albo innej osoby,
-- **3)** przeciwko osobie, która usi∏uje bezprawnie przemocà odebraç broƒ palnà ˝o∏nierzowi ˚andarmerii Wojskowej albo innemu funkcjonariuszowi publicznemu uprawnionemu do posiadania broni palnej,
-- **4)** w celu odparcia bezpoÊredniego gwa∏townego iniebezpiecznego zamachu na obiekty iurzàdzenia wojskowe albo inne obiekty iurzàdzenia wa˝ne dla bezpieczeƒstwa lub obronnoÊci paƒstwa,
-- **5)** wcelu odparcia zamachu na mienie, stwarzajàcego jednoczeÊnie bezpoÊrednie zagro˝enie dla ˝ycia lub zdrowia cz∏owieka,
-- **6)** w bezpoÊrednim poÊcigu za osobà, wobec której u˝ycie broni palnej jest dopuszczalne w przypadkach okreÊlonych wpkt 1—3 lub 5,albo za osobà, wobec której istnieje uzasadnione podejrzenie pope∏nienia zamachu terrorystycznego, zabójstwa, umyÊlnego uszczerbku na zdrowiu, umyÊlnego sprowadzenia zdarzenia zagra˝ajàcego ˝yciu lub zdrowiu wielu osób, pozbawienia cz∏owieka wolnoÊci, zgwa∏cenia, wzi´cia zak∏adnika, rozboju, kradzie˝y rozbójniczej albo wymuszenia rozbójniczego,
-- **7)** w celu uj´cia osoby, o której mowa w pkt 6, je˝eli schroni∏a si´ ona w miejscu trudno dost´pnym, a z okolicznoÊci zdarzenia wynika, ˝e mo˝e u˝yç broni palnej, materia∏ów wybuchowych lub innego niebezpiecznego narz´dzia, którego u˝ycie mo˝e
-- **8)** wcelu odparcia bezpoÊredniego igwa∏townego zamachu na konwój ochraniajàcy osoby, dokumenty zawierajàce wiadomoÊci stanowiàce tajemnic´ paƒstwowà albo Êrodki pieni´˝ne lub inne przedmioty wartoÊciowe,
-- **9)** w celu uj´cia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywajàcej kar´ pozbawienia wolnoÊci, je˝eli:
-    - **a)** ucieczka osoby pozbawionej wolnoÊci stwarza zagro˝enie dla ˝ycia lub zdrowia ludzkiego,
-    - **b)** istnieje uzasadnione podejrzenie, ˝e osoba pozbawiona wolnoÊci mo˝e u˝yç broni palnej, materia∏ów wybuchowych lub innego niebezpiecznego narz´dzia,
-    - **c)** pozbawienie wolnoÊci nastàpi∏o wzwiàzku zpodejrzeniem lub stwierdzeniem pope∏nienia przest´pstwa, októrym mowa wpkt 6.
+- **1)** wcelu odparcia bezpośredniego zamachu na życie, zdrowie lub wolność żołnierza ˚andarmerii Wojskowej lub innej osoby albo w celu przeciwdziałania czynnościom zmierzającym bezpośrednio do takiego zamachu,
+- **2)** przeciwko osobie, która nie zastosowała się do wezwania do natychmiastowego porzucenia broni, materiałów wybuchowych lub innego niebezpiecznego narzędzia, którego użycie może zagrozić życiu lub zdrowiu żołnierza ˚andarmerii Wojskowej albo innej osoby,
+- **3)** przeciwko osobie, która usiłuje bezprawnie przemocą odebrać broń palną żołnierzowi ˚andarmerii Wojskowej albo innemu funkcjonariuszowi publicznemu uprawnionemu do posiadania broni palnej,
+- **4)** w celu odparcia bezpośredniego gwałtownego iniebezpiecznego zamachu na obiekty iurządzenia wojskowe albo inne obiekty iurządzenia ważne dla bezpieczeństwa lub obronności państwa,
+- **5)** wcelu odparcia zamachu na mienie, stwarzającego jednocześnie bezpośrednie zagrożenie dla życia lub zdrowia człowieka,
+- **6)** w bezpośrednim pościgu za osobą, wobec której użycie broni palnej jest dopuszczalne w przypadkach określonych wpkt 1—3 lub 5,albo za osobą, wobec której istnieje uzasadnione podejrzenie popełnienia zamachu terrorystycznego, zabójstwa, umyślnego uszczerbku na zdrowiu, umyślnego sprowadzenia zdarzenia zagrażającego życiu lub zdrowiu wielu osób, pozbawienia człowieka wolności, zgwałcenia, wzięcia zakładnika, rozboju, kradzieży rozbójniczej albo wymuszenia rozbójniczego,
+- **7)** w celu ujęcia osoby, o której mowa w pkt 6, jeżeli schroniła się ona w miejscu trudno dostępnym, a z okoliczności zdarzenia wynika, że może użyć broni palnej, materiałów wybuchowych lub innego niebezpiecznego narzędzia, którego użycie może
+- **8)** wcelu odparcia bezpośredniego igwałtownego zamachu na konwój ochraniający osoby, dokumenty zawierające wiadomości stanowiące tajemnicę państwową albo środki pieniężne lub inne przedmioty wartościowe,
+- **9)** w celu ujęcia lub udaremnienia ucieczki osoby zatrzymanej, tymczasowo aresztowanej lub odbywającej karę pozbawienia wolności, jeżeli:
+    - **a)** ucieczka osoby pozbawionej wolności stwarza zagrożenie dla życia lub zdrowia ludzkiego,
+    - **b)** istnieje uzasadnione podejrzenie, że osoba pozbawiona wolności może użyć broni palnej, materiałów wybuchowych lub innego niebezpiecznego narzędzia,
+    - **c)** pozbawienie wolności nastąpiło wzwiązku zpodejrzeniem lub stwierdzeniem popełnienia przestępstwa, októrym mowa wpkt 6.
 
-2. ˚o∏nierz ˚andarmerii Wojskowej, który podjà∏ decyzj´ ou˝yciu broni palnej, powinien post´powaç ze szczególnà rozwagà, traktujàc broƒ jako ostateczny Êrodek dzia∏ania.
+2. ˚ołnierz ˚andarmerii Wojskowej, który podjął decyzję oużyciu broni palnej, powinien postępować ze szczególną rozwagą, traktując broń jako ostateczny środek działania.
 
-3. U˝ycie broni palnej powinno nast´powaç wsposób wyrzàdzajàcy mo˝liwie najmniejszà szkod´ osobie, przeciwko której jà u˝yto, i nie powinno zmierzaç do pozbawienia jej ˝ycia, atak˝e nara˝aç na niebezpieczeƒstwo utraty ˝ycia lub zdrowia inne osoby.
+3. Użycie broni palnej powinno następować wsposób wyrządzający możliwie najmniejszą szkodę osobie, przeciwko której ją użyto, i nie powinno zmierzać do pozbawienia jej życia, atakże narażać na niebezpieczeństwo utraty życia lub zdrowia inne osoby.
 
-4. Rada Ministrów okreÊli, w drodze rozporzàdzenia, warunki isposób post´powania przy u˝yciu broni palnej przez ˝o∏nierzy ˚andarmerii Wojskowej przy wykonywaniu zadaƒ, októrych mowa wart. 4 ust. 1. Rozporzàdzenie to ustali w szczególnoÊci post´powanie ˝o∏nierzy ˚andarmerii Wojskowej zwiàzane z u˝yciem broni palnej oraz sposób dokumentowania jej u˝ycia.
+4. Rada Ministrów określi, w drodze rozporządzenia, warunki isposób postępowania przy użyciu broni palnej przez żołnierzy ˚andarmerii Wojskowej przy wykonywaniu zadań, októrych mowa wart. 4 ust. 1. Rozporządzenie to ustali w szczególności postępowanie żołnierzy ˚andarmerii Wojskowej związane z użyciem broni palnej oraz sposób dokumentowania jej użycia.
 
 **Art. 44.**
 
-1. Na sposób zastosowania Êrodków przymusu bezpoÊredniego i u˝ycia broni palnej przez ˝o∏nierzy ˚andarmerii Wojskowej osobie, wobec której zosta∏y zastosowane te Êrodki lub u˝yta ta broƒ, przys∏uguje za˝alenie do prokuratora wojskowej prokuratury garnizonowej w∏aÊciwej ze wzgl´du na miejsce zdarzenia wterminie 7 dni od dnia zdarzenia.
+1. Na sposób zastosowania środków przymusu bezpośredniego i użycia broni palnej przez żołnierzy ˚andarmerii Wojskowej osobie, wobec której zostały zastosowane te środki lub użyta ta broń, przysługuje zażalenie do prokuratora wojskowej prokuratury garnizonowej właściwej ze względu na miejsce zdarzenia wterminie 7 dni od dnia zdarzenia.
 
-2. W sprawach, o których mowa w ust. 1, stosuje si´ odpowiednio przepisy o post´powaniu karnym w sprawach podlegajàcych orzecznictwu sàdów wojskowych dotyczàce post´powania odwo∏awczego. Rozdzia∏ 5 Wojskowe organy porzàdkowe
+2. W sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy o postępowaniu karnym w sprawach podlegających orzecznictwu sądów wojskowych dotyczące postępowania odwoławczego.
+
+#### Rozdział 5 Wojskowe organy porządkowe
 
 **Art. 45.**
 
-1. Wojskowymi organami porzàdkowymi sà:
+1. Wojskowymi organami porządkowymi są:
 
-- **1)** wchodzàcy wsk∏ad s∏u˝by garnizonowej:
+- **1)** wchodzący wskład służby garnizonowej:
     - **a)** oficer inspekcyjny garnizonu ijego pomocnik,
-    - **b)** komendant iprofos wojskowego aresztu dyscyplinarnego oraz izby zatrzymaƒ, zagroziç ˝yciu lub zdrowiu cz∏owieka, c) dowódca i˝o∏nierze warty garnizonowej,
-    - **d)** dowódca i ˝o∏nierze pododdzia∏u alarmowego garnizonu,
+    - **b)** komendant iprofos wojskowego aresztu dyscyplinarnego oraz izby zatrzymań, zagrozić życiu lub zdrowiu człowieka, c) dowódca iżołnierze warty garnizonowej,
+    - **d)** dowódca i żołnierze pododdziału alarmowego garnizonu,
 
-- **2)** wchodzàcy w sk∏ad s∏u˝by wewn´trznej jednostki wojskowej:
-    - **a)** oficer dy˝urny jednostki wojskowej i jego pomocnik,
-    - **b)** komendant i profos izby zatrzymaƒ jednostki wojskowej,
-    - **c)** dowódca i˝o∏nierze warty wewn´trznej jednostki wojskowej,
-    - **d)** dowódca i ˝o∏nierze pododdzia∏u alarmowego jednostki wojskowej.
+- **2)** wchodzący w skład służby wewnętrznej jednostki wojskowej:
+    - **a)** oficer dyżurny jednostki wojskowej i jego pomocnik,
+    - **b)** komendant i profos izby zatrzymań jednostki wojskowej,
+    - **c)** dowódca iżołnierze warty wewnętrznej jednostki wojskowej,
+    - **d)** dowódca i żołnierze pododdziału alarmowego jednostki wojskowej.
 
-2. Wojskowymi organami porzàdkowymi sà równie˝ dowódcy i˝o∏nierze patroli, konwojów iasyst wyznaczonych przez dowódców (komendantów) garnizonów lub dowódców jednostek wojskowych, atak˝e dowódcy i˝o∏nierze pododdzia∏ów regulacji ruchu jednostek wojskowych.
+2. Wojskowymi organami porządkowymi są również dowódcy iżołnierze patroli, konwojów iasyst wyznaczonych przez dowódców (komendantów) garnizonów lub dowódców jednostek wojskowych, atakże dowódcy iżołnierze pododdziałów regulacji ruchu jednostek wojskowych.
 
 **Art. 46.**
 
-1. Zadaniami wojskowych organów porzàdkowych wchodzàcych w sk∏ad s∏u˝by garnizonowej sà:
+1. Zadaniami wojskowych organów porządkowych wchodzących w skład służby garnizonowej są:
 
 - **1)** utrzymanie dyscypliny wojskowej,
-- **2)** ochrona porzàdku publicznego,
-- **3)** zapewnienie przestrzegania przepisów porzàdkowych obowiàzujàcych wmiejscach publicznych,
+- **2)** ochrona porządku publicznego,
+- **3)** zapewnienie przestrzegania przepisów porządkowych obowiązujących wmiejscach publicznych,
 - **4)** ochrona iobrona obiektów wojskowych,
-- **5)** wykonywanie czynnoÊci przewidzianych dla wojskowych organów porzàdkowych w przepisach opost´powaniu karnym, karnym skarbowym, karnym wykonawczym i cywilnym oraz w przepisach opost´powaniu egzekucyjnymwadministracji.
+- **5)** wykonywanie czynności przewidzianych dla wojskowych organów porządkowych w przepisach opostępowaniu karnym, karnym skarbowym, karnym wykonawczym i cywilnym oraz w przepisach opostępowaniu egzekucyjnymwadministracji.
 
-2. Wojskowe organy porzàdkowe wchodzàce wsk∏ad s∏u˝by garnizonowej wykonujà zadania, októrych mowa wust. 1, wstosunku do osób okreÊlonych wart. 3 ust. 2 pkt 1 i3—6.
+2. Wojskowe organy porządkowe wchodzące wskład służby garnizonowej wykonują zadania, októrych mowa wust. 1, wstosunku do osób określonych wart. 3 ust. 2 pkt 1 i3—6.
 
-3. Wojskowe organy porzàdkowe wchodzàce wsk∏ad s∏u˝by garnizonowej wykonujà zadania, októrych mowa w ust. 1, do czasu przybycia ˚andarmerii Wojskowej lub innego w∏aÊciwego organu równie˝ wstosunku do osób okreÊlonych wart. 3 ust. 2 pkt 7.
+3. Wojskowe organy porządkowe wchodzące wskład służby garnizonowej wykonują zadania, októrych mowa w ust. 1, do czasu przybycia ˚andarmerii Wojskowej lub innego właściwego organu również wstosunku do osób określonych wart. 3 ust. 2 pkt 7.
 
-4. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, szczegó∏owe czynnoÊci wojskowych organów porzàdkowych wchodzàcych w sk∏ad s∏u˝by garnizonowej, w granicach zadaƒ wymienionych wust. 1.
+4. Minister Obrony Narodowej określi, w drodze rozporządzenia, szczegółowe czynności wojskowych organów porządkowych wchodzących w skład służby garnizonowej, w granicach zadań wymienionych wust. 1.
 
-**Art. 47.** Wojskowe organy porzàdkowe wchodzàce wsk∏ad s∏u˝by garnizonowej wykonujà zadania, októrych mowa wart. 46 ust. 1, na terenie garnizonu, wktórym jest wyznaczona ta s∏u˝ba, z wyjàtkiem terenów jednostek wojskowych rozmieszczonych w tym garniArt. 48. 1. Zadaniami wojskowych organów porzàdkowych wchodzàcych wsk∏ad s∏u˝by wewn´trznej jednostki wojskowej sà:
+**Art. 47.** Wojskowe organy porządkowe wchodzące wskład służby garnizonowej wykonują zadania, októrych mowa wart. 46 ust. 1, na terenie garnizonu, wktórym jest wyznaczona ta służba, z wyjątkiem terenów jednostek wojskowych rozmieszczonych w tym garniArt. 48. 1. Zadaniami wojskowych organów porządkowych wchodzących wskład służby wewnętrznej jednostki wojskowej są:
 
-**Art. 49.** Wojskowe organy porzàdkowe wchodzàce w sk∏ad s∏u˝by wewn´trznej jednostki wojskowej wykonujà zadania, októrych mowa wart. 48 ust. 1, na terenie jednostki wojskowej, wktórej jest wyznaczona ta s∏u˝ba.
+**Art. 49.** Wojskowe organy porządkowe wchodzące w skład służby wewnętrznej jednostki wojskowej wykonują zadania, októrych mowa wart. 48 ust. 1, na terenie jednostki wojskowej, wktórej jest wyznaczona ta służba.
 
 **Art. 50.**
 
-1. Sk∏ad warty garnizonowej ipododdzia∏u alarmowego garnizonu oraz patrolu, konwoju iasysty s∏u˝by garnizonowej, a tak˝e ich uzbrojenie i wyposa˝enie okreÊla dowódca (komendant) garnizonu.
+1. Skład warty garnizonowej ipododdziału alarmowego garnizonu oraz patrolu, konwoju iasysty służby garnizonowej, a także ich uzbrojenie i wyposażenie określa dowódca (komendant) garnizonu.
 
-2. Sk∏ad warty wewn´trznej i pododdzia∏u alarmowego jednostki wojskowej oraz patrolu, konwoju iasysty s∏u˝by wewn´trznej jednostki wojskowej, a tak˝e ich uzbrojenie iwyposa˝enie okreÊla dowódca jednostki wojskowej.
+2. Skład warty wewnętrznej i pododdziału alarmowego jednostki wojskowej oraz patrolu, konwoju iasysty służby wewnętrznej jednostki wojskowej, a także ich uzbrojenie iwyposażenie określa dowódca jednostki wojskowej.
 
 **Art. 51.**
 
-1. ˚o∏nierzom wojskowych organów porzàdkowych wchodzàcych w sk∏ad s∏u˝by garnizonowej i s∏u˝by wewn´trznej jednostki wojskowej w zwiàzku z wykonywaniem czynnoÊci s∏u˝bowych przys∏ugujà uprawnienia okreÊlone w art. 17 ust. 1 pkt 1, 2, 4, 5, 6, 8, 10 i 11, a tak˝e prawo stosowania Êrodków przymusu bezpoÊredniego w przypadkach ina zasadach okreÊlonych wart. 42 oraz u˝ywania broni palnej w przypadkach i na zasadach okreÊlonych wart.43.
+1. ˚ołnierzom wojskowych organów porządkowych wchodzących w skład służby garnizonowej i służby wewnętrznej jednostki wojskowej w związku z wykonywaniem czynności służbowych przysługują uprawnienia określone w art. 17 ust. 1 pkt 1, 2, 4, 5, 6, 8, 10 i 11, a także prawo stosowania środków przymusu bezpośredniego w przypadkach ina zasadach określonych wart. 42 oraz używania broni palnej w przypadkach i na zasadach określonych wart.43.
 
-2. Do ˝o∏nierzy, októrych mowa wust. 1, stosuje si´ odpowiednio przepisy art. 23 i41.
+2. Do żołnierzy, októrych mowa wust. 1, stosuje się odpowiednio przepisy art. 23 i41.
 
-3. Rada Ministrów okreÊli, wdrodze rozporzàdzenia:
+3. Rada Ministrów określi, wdrodze rozporządzenia:
 
-- **1)** warunki i sposoby u˝ycia Êrodków przymusu bezpoÊredniego,
-- **2)** warunki i sposób post´powania przy u˝yciu broni palnej przez ˝o∏nierzy wojskowych organów porzàdkowych przy wykonywaniu zadaƒ, o których mowa wart. 46 ust. 1 iart. 48 ust. 1. Rozporzàdzenie to ustali wszczególnoÊci:
-- **1)** post´powanie ˝o∏nierzy wojskowych organów porzàdkowych zwiàzane zu˝yciem Êrodków przymusu bezpoÊredniego oraz cel i sposób u˝ycia poszczególnych Êrodków, atak˝e sposób dokumentowania u˝ycia tych Êrodków,
-- **2)** post´powanie ˝o∏nierzy wojskowych organów porzàdkowych zwiàzane z u˝yciem broni palnej oraz sposób dokumentowania jej u˝ycia.
+- **1)** warunki i sposoby użycia środków przymusu bezpośredniego,
+- **2)** warunki i sposób postępowania przy użyciu broni palnej przez żołnierzy wojskowych organów porządkowych przy wykonywaniu zadań, o których mowa wart. 46 ust. 1 iart. 48 ust. 1. Rozporządzenie to ustali wszczególności:
+- **1)** postępowanie żołnierzy wojskowych organów porządkowych związane zużyciem środków przymusu bezpośredniego oraz cel i sposób użycia poszczególnych środków, atakże sposób dokumentowania użycia tych środków,
+- **2)** postępowanie żołnierzy wojskowych organów porządkowych związane z użyciem broni palnej oraz sposób dokumentowania jej użycia.
 
 **Art. 52.**
 
-1. Na sposób przeprowadzenia czynnoÊci, októrych mowa wart. 17 ust. 1 pkt 1, 2 i10, przez ˝o∏nierzy wojskowych organów porzàdkowych oraz na sposób zastosowania przez nich Êrodków przymusu bezpoÊredniego i u˝ycia broni palnej osobie, wobec której zosta∏y wykonane te czynnoÊci, przys∏uguje za˝alenie do prokuratora wojskowej prokuratury garnizonowej w∏aÊciwej ze wzgl´du na miejsce dokonania czynnoÊci,wterminie 7 dni od dnia jej dokonania.
+1. Na sposób przeprowadzenia czynności, októrych mowa wart. 17 ust. 1 pkt 1, 2 i10, przez żołnierzy wojskowych organów porządkowych oraz na sposób zastosowania przez nich środków przymusu bezpośredniego i użycia broni palnej osobie, wobec której zostały wykonane te czynności, przysługuje zażalenie do prokuratora wojskowej prokuratury garnizonowej właściwej ze względu na miejsce dokonania czynności,wterminie 7 dni od dnia jej dokonania.
 
-2. W sprawach, o których mowa w ust. 1, stosuje si´ odpowiednio przepisy o post´powaniu karnym w sprawach podlegajàcych orzecznictwu sàdów wojskowych dotyczàce post´powania odwo∏awczego.
+2. W sprawach, o których mowa w ust. 1, stosuje się odpowiednio przepisy o postępowaniu karnym w sprawach podlegających orzecznictwu sądów wojskowych dotyczące postępowania odwoławczego.
 
 **Art. 53.**
 
-1. Zadania wojskowych organów porzàdkowych, októrych mowa wart. 45 ust. 2, oraz osoby, wobec których wykonujà one te zadania, okreÊlajà odr´bne przepisy.
+1. Zadania wojskowych organów porządkowych, októrych mowa wart. 45 ust. 2, oraz osoby, wobec których wykonują one te zadania, określają odrębne przepisy.
 
-2. Do ˝o∏nierzy wojskowych organów porzàdkowych, októrych mowa wart. 45 ust. 2, stosuje si´ odpowiednio przepisy art. 51. Rozdzia∏ 6 Zmiany wprzepisach obowiàzujàcych
+2. Do żołnierzy wojskowych organów porządkowych, októrych mowa wart. 45 ust. 2, stosuje się odpowiednio przepisy art. 51.
 
-**Art. 54.** Traci moc oznaczenie itytu∏ rozdzia∏u 6 oraz przepisy art. 33, 36—38 oraz art. 39 ust. 2 i 3 ustawy z dnia 21 maja 1963 r. o dyscyplinie wojskowej oraz o odpowiedzialnoÊci ˝o∏nierzy za przewinienia dyscyplinarne iza naruszeniahonoru igodnoÊci ˝o∏nierskiej (Dz. U. z1992 r. 5, poz. 17,z1997 r. 117, poz. 753 iNr141, poz. 944oraz z 2001r. Nr85, poz.925).
+#### Rozdział 6 Zmiany wprzepisach obowiązujących
 
-**Art. 55.** Wustawie zdnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. 43, poz. 296, z1965 r. 15, poz. 113, z1974 r. 27, poz. 157 iNr 39, poz. 231, z1975 r. 45, poz. 234, z1982 r. 11, poz.82 iNr 30, poz. 210, z1983 r. 5, poz. 33, z1984 r. 45, poz. 241 i 242, z 1985 r. 20, poz. 86, z 1987 r. 21, poz. 123, z1988 r. 41, poz. 324, z1989 r. 4, poz. 21 53, poz. 306, 55, poz. 318 iNr 79, poz. 464, z1991r. 7, poz. 24, 22, poz. 92 iNr 115, poz. 496, z1993 r. 12, poz. 53, z1994 r. 105, poz. 509, z1995r. 83, poz. 417, z1996 r. 24, poz. 110, 43, poz. 189, 73, poz. 350 i 149, poz. 703, z 1997 r. 43, poz. 270, Nr54, poz. 348, 75, poz. 471, 102, poz. 643, 117, poz. 752, 121, poz. 769 i770, Nr133, poz. 882, 139, poz. 934, 140, poz. 940 i 141, poz. 944, z 1998 r. 106, poz. 668 i 117, poz. 757, z 1999 r. 52, poz.532, z2000 r. 22, poz.269 i271, 48, poz. 552 i554, 55, poz. 665, Nr73, poz. 852, 94, poz. 1037, 114, poz. 1191 i1193 iNr 122, poz. 1314, 1319 i1322 oraz z 2001 r. 4, poz. 27, 49, poz. 508, 63, poz.635iNr98, poz.1069, 1070 i1071) wprowadza si´ nast´pujàce zmiany:
+**Art. 54.** Traci moc oznaczenie itytuł rozdziału 6 oraz przepisy art. 33, 36—38 oraz art. 39 ust. 2 i 3 ustawy z dnia 21 maja 1963 r. o dyscyplinie wojskowej oraz o odpowiedzialności żołnierzy za przewinienia dyscyplinarne iza naruszeniahonoru igodności żołnierskiej (Dz. U. z1992 r. 5, poz. 17,z1997 r. 117, poz. 753 iNr141, poz. 944oraz z 2001r. Nr85, poz.925).
 
-**Art. 56.** W ustawie z dnia 17 czerwca 1966 r. o post´powaniu egzekucyjnym w administracji (Dz. U. z1991 r. 36, poz. 161, z1992 r. 20, poz. 78, z1993r. 28, poz. 127, z 1995 r. 85, poz. 426, z 1996 r. 43, poz. 189 i 146, poz. 680, z 1997 r. 137, poz. 926 i 141, poz. 943 i 944, z 1998 r. 162, poz.1126, z2000 r. 114, poz. 1193, 120, poz. 1268 iNr 122, poz. 1315 oraz z2001 r. 76, poz. 809iNr98, poz.1068) wprowadza si´ nast´pujàce zmiany:
+**Art. 55.** Wustawie zdnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, z1965 r. 15, poz. 113, z1974 r. 27, poz. 157 iNr 39, poz. 231, z1975 r. 45, poz. 234, z1982 r. 11, poz.82 iNr 30, poz. 210, z1983 r. 5, poz. 33, z1984 r. 45, poz. 241 i 242, z 1985 r. 20, poz. 86, z 1987 r. 21, poz. 123, z1988 r. 41, poz. 324, z1989 r. 4, poz. 21 53, poz. 306, 55, poz. 318 iNr 79, poz. 464, z1991r. 7, poz. 24, 22, poz. 92 iNr 115, poz. 496, z1993 r. 12, poz. 53, z1994 r. 105, poz. 509, z1995r. 83, poz. 417, z1996 r. 24, poz. 110, 43, poz. 189, 73, poz. 350 i 149, poz. 703, z 1997 r. 43, poz. 270, Nr54, poz. 348, 75, poz. 471, 102, poz. 643, 117, poz. 752, 121, poz. 769 i770, Nr133, poz. 882, 139, poz. 934, 140, poz. 940 i 141, poz. 944, z 1998 r. 106, poz. 668 i 117, poz. 757, z 1999 r. 52, poz.532, z2000 r. 22, poz.269 i271, 48, poz. 552 i554, 55, poz. 665, Nr73, poz. 852, 94, poz. 1037, 114, poz. 1191 i1193 iNr 122, poz. 1314, 1319 i1322 oraz z 2001 r. 4, poz. 27, 49, poz. 508, 63, poz.635iNr98, poz.1069, 1070 i1071) wprowadza się następujące zmiany:
 
-**Art. 57.** Wustawie zdnia 21 listopada 1967 r. opowszechnym obowiàzku obrony Rzeczypospolitej Polskiej (Dz. U. z 1992 r. 4, poz. 16, 40, poz. 174 iNr54, poz. 254, z1994 r. 43, poz. 165, z1996 r. Nr7, poz. 44, 10, poz. 56 iNr 106, poz. 496, z1997 r. 6, poz. 31, 28, poz. 153, 80, poz. 495, 88, poz. 554, 121, poz. 770 i 141, poz. 944, z 1998 r. 146, poz. 961 i 162, poz. 1114 i 1126, z 1999 r. 50, poz. 500, z 2000 r. 12, poz. 136 i 109, poz. 1156 oraz z 2001 r. 48, poz. 506, 81, poz. 877, 85, poz. 925, 88, poz. 961, 110, poz. 1189 i 111, poz.1194) wprowadza si´ nast´pujàce zmiany:
+**Art. 56.** W ustawie z dnia 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji (Dz. U. z1991 r. 36, poz. 161, z1992 r. 20, poz. 78, z1993r. 28, poz. 127, z 1995 r. 85, poz. 426, z 1996 r. 43, poz. 189 i 146, poz. 680, z 1997 r. 137, poz. 926 i 141, poz. 943 i 944, z 1998 r. 162, poz.1126, z2000 r. 114, poz. 1193, 120, poz. 1268 iNr 122, poz. 1315 oraz z2001 r. 76, poz. 809iNr98, poz.1068) wprowadza się następujące zmiany:
 
-**Art. 58.** W ustawie z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. 31, poz. 130, z 1998 r. 162, poz. 1126 oraz z2000 r. 12, poz. 136 iNr 120, poz. 1268) w art. 12 w ust. 3 wyrazy „Wojskowe organy porzàdkowe mogà” zast´puje si´ wyrazami „˚andarmeria Wojskowa mo˝e”.
+**Art. 57.** Wustawie zdnia 21 listopada 1967 r. opowszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 1992 r. 4, poz. 16, 40, poz. 174 iNr54, poz. 254, z1994 r. 43, poz. 165, z1996 r. Nr7, poz. 44, 10, poz. 56 iNr 106, poz. 496, z1997 r. 6, poz. 31, 28, poz. 153, 80, poz. 495, 88, poz. 554, 121, poz. 770 i 141, poz. 944, z 1998 r. 146, poz. 961 i 162, poz. 1114 i 1126, z 1999 r. 50, poz. 500, z 2000 r. 12, poz. 136 i 109, poz. 1156 oraz z 2001 r. 48, poz. 506, 81, poz. 877, 85, poz. 925, 88, poz. 961, 110, poz. 1189 i 111, poz.1194) wprowadza się następujące zmiany:
 
-**Art. 59.** W ustawie z dnia 26 paêdziernika 1982 r. lizmowi (Dz.U.Nr 35, poz. 230, z1984 r. 34, poz. 184, z 1987 r. 33, poz. 180, z 1989 r. 35, poz. 192, z1990r. 34, poz. 198 iNr 73, poz. 431, z1991 r. Nr73, poz. 321 i 94, poz. 419, z 1993 r. 40, poz. 184, z 1996 r. 127, poz. 593, z 1997 r. 88, poz. 554, 113, poz. 732 i 121, poz. 770, z 1998 r. 106, poz. 668, z 2000 r. 12, poz. 136 i 120, poz. 1268 oraz z2001 r. 60, poz. 610) wprowadza si´ nast´pujàce zmiany:
+**Art. 58.** W ustawie z dnia 21 grudnia 1978 r. o odznakach i mundurach (Dz. U. 31, poz. 130, z 1998 r. 162, poz. 1126 oraz z2000 r. 12, poz. 136 iNr 120, poz. 1268) w art. 12 w ust. 3 wyrazy ŃWojskowe organy porządkowe mogą” zastępuje się wyrazami Ń˚andarmeria Wojskowa może”.
 
-**Art. 60.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji (Dz. U. z 2000 r. 101, poz. 1092 oraz z 2001 r. 41, poz. 465, 81, poz. 877, 100, poz. 1084, Nr106, poz.1149 iNr110, poz.1189) wart. 2 po wyrazie „˝o∏nierzy” dodaje si´ wyrazy „˚andarmeria Wojskowa i”.
+**Art. 59.** W ustawie z dnia 26 paêdziernika 1982 r. lizmowi (Dz.U.Nr 35, poz. 230, z1984 r. 34, poz. 184, z 1987 r. 33, poz. 180, z 1989 r. 35, poz. 192, z1990r. 34, poz. 198 iNr 73, poz. 431, z1991 r. Nr73, poz. 321 i 94, poz. 419, z 1993 r. 40, poz. 184, z 1996 r. 127, poz. 593, z 1997 r. 88, poz. 554, 113, poz. 732 i 121, poz. 770, z 1998 r. 106, poz. 668, z 2000 r. 12, poz. 136 i 120, poz. 1268 oraz z2001 r. 60, poz. 610) wprowadza się następujące zmiany:
 
-**Art. 61.** Wustawie zdnia 14 grudnia 1995 r. ourz´dzie Ministra Obrony Narodowej (Dz. U. z1996 r. 10, poz. 56 i 102, poz. 474, z 1997 r. 121, poz. 770 iNr141, poz. 944 oraz z1999 r. 11, poz. 95) wprowadza si´ nast´pujàce zmiany:
+**Art. 60.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji (Dz. U. z 2000 r. 101, poz. 1092 oraz z 2001 r. 41, poz. 465, 81, poz. 877, 100, poz. 1084, Nr106, poz.1149 iNr110, poz.1189) wart. 2 po wyrazie Ńżołnierzy” dodaje się wyrazy Ń˚andarmeria Wojskowa i”.
 
-**Art. 62.** Wustawie zdnia 6 czerwca 1997 r. oInspekcji Celnej (Dz. U. 71, poz. 449, z 1998 r. 137, poz. 886, z 1999 r. 49, poz. 483, 83, poz. 931 i 101, poz. 1178, z 2000 r. 104, poz. 1103 oraz z 2001 r. 81, poz. 877 i 110, poz. 1189) w art. 29 wust. 7 po wyrazach „Policjà i” dodaje si´ wyrazy „˚andarmerià Wojskowà oraz”.
+**Art. 61.** Wustawie zdnia 14 grudnia 1995 r. ourzędzie Ministra Obrony Narodowej (Dz. U. z1996 r. 10, poz. 56 i 102, poz. 474, z 1997 r. 121, poz. 770 iNr141, poz. 944 oraz z1999 r. 11, poz. 95) wprowadza się następujące zmiany:
 
-**Art. 63.** Wustawie zdnia 20 czerwca 1997 r. Prawo oruchu drogowym (Dz. U. 98, poz. 602, 123, poz. 779 i 160, poz. 1086, z 1998 r. 106, poz. 668 iNr133, poz. 872, z1999 r. 106, poz. 1216, z2000 r. 12, poz. 136, 43, poz. 483 i 53, poz. 649 oraz z 2001 r. 27, poz. 298, 106, poz. 1149, 110, poz.1189 iNr111, poz.1194) wprowadza si´ nast´pujàce zmiany:
+**Art. 62.** Wustawie zdnia 6 czerwca 1997 r. oInspekcji Celnej (Dz. U. 71, poz. 449, z 1998 r. 137, poz. 886, z 1999 r. 49, poz. 483, 83, poz. 931 i 101, poz. 1178, z 2000 r. 104, poz. 1103 oraz z 2001 r. 81, poz. 877 i 110, poz. 1189) w art. 29 wust. 7 po wyrazach ŃPolicją i” dodaje się wyrazy Ń˚andarmerią Wojskową oraz”.
 
-**Art. 65.** W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. 114, poz. 740, z 1999 r. 11, poz. 95, z 2000 r. 29, poz. 357 oraz z2001 r. 4, poz. 23 iNr 27, poz. 298) wart. 44 po ust.1 dodaje si´ ust. 1awbrzmieniu: „1a. Kontrol´ ochrony terenów, o których mowa w art. 4 ust. 1 pkt 1, przez specjalistyczne uzbrojone formacje ochronne mo˝e przeprowadzaç ˚andarmeria Wojskowa.”
+**Art. 63.** Wustawie zdnia 20 czerwca 1997 r. Prawo oruchu drogowym (Dz. U. 98, poz. 602, 123, poz. 779 i 160, poz. 1086, z 1998 r. 106, poz. 668 iNr133, poz. 872, z1999 r. 106, poz. 1216, z2000 r. 12, poz. 136, 43, poz. 483 i 53, poz. 649 oraz z 2001 r. 27, poz. 298, 106, poz. 1149, 110, poz.1189 iNr111, poz.1194) wprowadza się następujące zmiany:
 
-**Art. 66.** W ustawie z dnia 4 wrzeÊnia 1997 r. o dzia∏ach administracji rzàdowej (Dz. U. z 1999 r. 82, poz.928, z2000 r. 12, poz. 136, 43, poz. 489, Nr48,
+**Art. 65.** W ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. 114, poz. 740, z 1999 r. 11, poz. 95, z 2000 r. 29, poz. 357 oraz z2001 r. 4, poz. 23 iNr 27, poz. 298) wart. 44 po ust.1 dodaje się ust. 1awbrzmieniu: Ń1a. Kontrolę ochrony terenów, o których mowa w art. 4 ust. 1 pkt 1, przez specjalistyczne uzbrojone formacje ochronne może przeprowadzać ˚andarmeria Wojskowa.”
 
-**Art. 64.** W ustawie z dnia 22 sierpnia 1997 r. o bez- poz. 550, 62, poz. 718, 70, poz. 816, 73, poz.852, 109, poz. 1158 iNr 122, poz. 1314 i1321 oraz z2001r. pieczeƒstwie imprez masowych (Dz. U. z 2001 r. 120, 3, poz. 18, 5, poz. 43 i 44, 42, poz. 475, 63, poz. 1298) wprowadza si´ nast´pujàce zmiany: poz. 634, 73, poz. 761,Nr 76, poz.811, Nr87, poz.954, Nr102, poz.1116, Nr113, poz.1207 iNr115, poz.1229)
+**Art. 66.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 1999 r. 82, poz.928, z2000 r. 12, poz. 136, 43, poz. 489, Nr48,
 
-**Art. 68.** Wustawie zdnia 16 wrzeÊnia 1982 r. opra- wejÊcia w ˝ycie niniejszej ustawy, stosuje si´ odpocownikach urz´dów paƒstwowych (Dz. U. z 2001 r. wiednio dotychczas obowiàzujàce przepisy dotyczàce Nr86, poz. 953 iNr98, poz. 1071) wart. 43 po ust. 1 do- wojskowych organów porzàdkowych, je˝eli nie sà znià daje si´ ust. 1awbrzmieniu: sprzeczne. „1a. Przepisy ustawy stosuje si´ do pracowników za- Art. 70. Ustawa wchodzi w˝ycie zdniem 1 stycznia trudnionych wKomendzie G∏ównej ˚andarmerii 2002 r. Wojskowej iinnych jednostkach organizacyjnych ˚andarmerii Wojskowej.” Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1354 USTAWA zdnia 24 sierpnia 2001 r. oczasie pracy kierowców. Rozdzia∏ 1 Przepisy ogólne
+**Art. 64.** W ustawie z dnia 22 sierpnia 1997 r. o bez- poz. 550, 62, poz. 718, 70, poz. 816, 73, poz.852, 109, poz. 1158 iNr 122, poz. 1314 i1321 oraz z2001r. pieczeństwie imprez masowych (Dz. U. z 2001 r. 120, 3, poz. 18, 5, poz. 43 i 44, 42, poz. 475, 63, poz. 1298) wprowadza się następujące zmiany: poz. 634, 73, poz. 761,Nr 76, poz.811, Nr87, poz.954, Nr102, poz.1116, Nr113, poz.1207 iNr115, poz.1229)
+
+**Art. 68.** Wustawie zdnia 16 września 1982 r. opra- wejścia w życie niniejszej ustawy, stosuje się odpocownikach urzędów państwowych (Dz. U. z 2001 r. wiednio dotychczas obowiązujące przepisy dotyczące Nr86, poz. 953 iNr98, poz. 1071) wart. 43 po ust. 1 do- wojskowych organów porządkowych, jeżeli nie są znią daje się ust. 1awbrzmieniu: sprzeczne. Ń1a. Przepisy ustawy stosuje się do pracowników za- Art. 70. Ustawa wchodzi wżycie zdniem 1 stycznia trudnionych wKomendzie Głównej ˚andarmerii 2002 r. Wojskowej iinnych jednostkach organizacyjnych ˚andarmerii Wojskowej.” Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1354 USTAWA zdnia 24 sierpnia 2001 r. oczasie pracy kierowców.
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Przepisy ustawy majà zastosowanie do kierowców zatrudnionych w ramach stosunku pracy oraz innych kierowców wykonujàcych transport drogowy.
+1. Przepisy ustawy mają zastosowanie do kierowców zatrudnionych w ramach stosunku pracy oraz innych kierowców wykonujących transport drogowy.
 
-2. Ustawa okreÊla:
+2. Ustawa określa:
 
-- **1)** normy dotyczàce okresów prowadzenia pojazdów, obowiàzkowych przerw w prowadzeniu i gwarantowanych okresów odpoczynku,
+- **1)** normy dotyczące okresów prowadzenia pojazdów, obowiązkowych przerw w prowadzeniu i gwarantowanych okresów odpoczynku,
 - **2)** normy czasu pracy,
-- **3)** obowiàzki pracodawców w zakresie wykonywania przewozów.
+- **3)** obowiązki pracodawców w zakresie wykonywania przewozów.
 
-3. Wzakresie nieuregulowanym ustawà stosuje si´ przepisy Kodeksu pracy.
+3. Wzakresie nieuregulowanym ustawą stosuje się przepisy Kodeksu pracy.
 
-**Art. 2.** U˝yte wustawie okreÊlenia oznaczajà:
+**Art. 2.** Użyte wustawie określenia oznaczają:
 
 **Art. 3.**
 
-1. Dla celów rozliczania czasu pracy iustalania uprawnienia do wynagradzania za prac´ w godzinach nadliczbowych, przez dob´ nale˝y rozumieç 24 kolejne godziny, poczynajàc od godziny, w której kierowca rozpoczyna prac´ zgodnie z obowiàzujàcym go rozk∏adem czasu pracy.
+1. Dla celów rozliczania czasu pracy iustalania uprawnienia do wynagradzania za pracę w godzinach nadliczbowych, przez dobę należy rozumieć 24 kolejne godziny, poczynając od godziny, w której kierowca rozpoczyna pracę zgodnie z obowiązującym go rozkładem czasu pracy.
 
-2. Przepisy ust. 1 stosuje si´ odpowiednio do okresów prowadzenia pojazdu i odpoczynku dobowego kierowcy.
+2. Przepisy ust. 1 stosuje się odpowiednio do okresów prowadzenia pojazdu i odpoczynku dobowego kierowcy.
 
 

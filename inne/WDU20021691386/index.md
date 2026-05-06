@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 12 września 2002 r. o normalizacji.
 
 | Pole | Wartość |
 |---|---|
@@ -24,262 +24,276 @@ domain: null
 | Ostatnia zmiana | 2026-03-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20021691386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1386/text.pdf) |
 
-**Art. 1.** Ustawa okreÊla podstawowe cele zasady normalizacji oraz jej organizacj´ ifinansowanie.
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 2.** Ilekroç wustawie jest mowa o:
+**Art. 1.** Ustawa określa podstawowe cele zasady normalizacji oraz jej organizację ifinansowanie.
+
+**Art. 2.** Ilekroć wustawie jest mowa o:
+
+#### Rozdział 2 Cele izasady normalizacji krajowej
 
 **Art. 3.** Normalizacja krajowa prowadzona jest wcelu:
 
-**Art. 4.** Wnormalizacji krajowej stosuje si´ nast´pujàce zasady:
+**Art. 4.** Wnormalizacji krajowej stosuje się następujące zasady:
+
+#### Rozdział 3 Polskie Normy iinne dokumenty normalizacyjne
 
 **Art. 5.**
 
-1. Polska Norma jest normà krajowà, przyj´USTAWA zdnia 12 wrzeÊnia 2002 r. onormalizacji.
+1. Polska Norma jest normą krajową, przyjęUSTAWA zdnia 12 września 2002 r. onormalizacji.
 
-2. Polska Norma mo˝e byç wprowadzeniem normy europejskiej lub mi´dzynarodowej. Wprowadzenie to mo˝e nastàpiç wj´zyku orygina∏u.
+2. Polska Norma może być wprowadzeniem normy europejskiej lub międzynarodowej. Wprowadzenie to może nastąpić wjęzyku oryginału.
 
 3. Stosowanie Polskich Norm jest dobrowolne.
 
-4. Polskie Normy mogà byç powo∏ywane wprzepisach prawnych po ich opublikowaniu w j´zyku polskim.
+4. Polskie Normy mogą być powoływane wprzepisach prawnych po ich opublikowaniu w języku polskim.
 
-5. Polskie Normy korzystajà zochrony jak utwory literackie, aautorskie prawa majàtkowe nich przys∏ugujà krajowej jednostce normalizacyjnej.
+5. Polskie Normy korzystają zochrony jak utwory literackie, aautorskie prawa majątkowe nich przysługują krajowej jednostce normalizacyjnej.
 
-6. Przepis ust. 5 stosuje si´ odpowiednio norm europejskich imi´dzynarodowych, zzachowaniem porozumieƒ mi´dzynarodowych.
+6. Przepis ust. 5 stosuje się odpowiednio norm europejskich imiędzynarodowych, zzachowaniem porozumień międzynarodowych.
 
-7. Ochrony Polskich Norm, októrej mowa wust. 5, nie narusza ustawa zdnia 6 wrzeÊnia 2001 r. odost´pie informacji publicznej (Dz. U. z 2001 r. 112, poz.1198 oraz z 2002 r. 153, poz. 1271).
+7. Ochrony Polskich Norm, októrej mowa wust. 5, nie narusza ustawa zdnia 6 września 2001 r. odostępie informacji publicznej (Dz. U. z 2001 r. 112, poz.1198 oraz z 2002 r. 153, poz. 1271).
 
-**Art. 6.** Przepisy art. 5 ust. 3 i5—7 odnoszà si´ równie˝ innych ni˝ Polskie Normy dokumentów normalizacyjnych zatwierdzonych przez krajowà jednostk´ normalizacyjnà, przy czym dokumenty takie mogà zostaç zachowane wj´zyku orygina∏u.
+**Art. 6.** Przepisy art. 5 ust. 3 i5—7 odnoszą się również innych niż Polskie Normy dokumentów normalizacyjnych zatwierdzonych przez krajową jednostkę normalizacyjną, przy czym dokumenty takie mogą zostać zachowane wjęzyku oryginału.
 
 **Art. 7.**
 
-1. Wyroby spe∏niajàce wymagania Polskich Norm oznaczane sà zasadzie dobrowolnoÊci znakiem zgodnoÊci z Polskà Normà pod warunkiem uzyskania certyfikatu zgodnoÊci upowa˝niajàcego takiego oznaczenia.
+1. Wyroby spełniające wymagania Polskich Norm oznaczane są zasadzie dobrowolności znakiem zgodności z Polską Normą pod warunkiem uzyskania certyfikatu zgodności upoważniającego takiego oznaczenia.
 
-2. Wy∏àczne prawo wyra˝enia zgody oznaczenie wyrobu znakiem zgodnoÊci z Polskà Normà przys∏uguje krajowej jednostce normalizacyjnej.
+2. Wyłączne prawo wyrażenia zgody oznaczenie wyrobu znakiem zgodności z Polską Normą przysługuje krajowej jednostce normalizacyjnej.
 
-3. Prezes Polskiego Komitetu Normalizacyjnego mo˝e upowa˝niç jednostki certyfikujàce, powo∏ane mocy odr´bnych przepisów, wydawania certyfikatu zgodnoÊci zPolskà Normà.
+3. Prezes Polskiego Komitetu Normalizacyjnego może upoważnić jednostki certyfikujące, powołane mocy odrębnych przepisów, wydawania certyfikatu zgodności zPolską Normą.
 
-4. Uzyskanie certyfikatu, o którym mowa w ust. 3, jest równoznaczne zuzyskaniem prawa oznaczenia wyrobu znakiem zgodnoÊci zPolskà Normà.
+4. Uzyskanie certyfikatu, o którym mowa w ust. 3, jest równoznaczne zuzyskaniem prawa oznaczenia wyrobu znakiem zgodności zPolską Normą.
 
-5. Rada Ministrów okreÊli, w drodze rozporzàdzenia, sposób nadawania iwykorzystywania znaku zgodnoÊci z Polska Normà, majàc wzgl´dzie u∏atwienie producentom dystrybutorom oznaczania wyrobów znakiem zgodnoÊci z Polskà Normà oraz uwzgl´dniajàc:
+5. Rada Ministrów określi, w drodze rozporządzenia, sposób nadawania iwykorzystywania znaku zgodności z Polska Normą, mając względzie ułatwienie producentom dystrybutorom oznaczania wyrobów znakiem zgodności z Polską Normą oraz uwzględniając:
 
-- **1)** cele systemu stosowania znaku zgodnoÊci;
-- **2)** wymagania stawiane wyrobom, które majà byç oznaczone znakiem zgodnoÊci;
-- **3)** zasady wydawania certyfikatu zgodnoÊci.
+- **1)** cele systemu stosowania znaku zgodności;
+- **2)** wymagania stawiane wyrobom, które mają być oznaczone znakiem zgodności;
+- **3)** zasady wydawania certyfikatu zgodności.
 
-6. Producent lub osoba wprowadzajàca wyroby obrotu mo˝e zadeklarowaç ich zgodnoÊç z Polskimi
+6. Producent lub osoba wprowadzająca wyroby obrotu może zadeklarować ich zgodność z Polskimi
 
-7. Deklaracja zgodnoÊci nie upowa˝nia oznaczenia wyrobu znakiem zgodnoÊci, o którym mowa wust.1.
+7. Deklaracja zgodności nie upoważnia oznaczenia wyrobu znakiem zgodności, o którym mowa wust.1.
 
-8. Sprawy sporne wynikajàce z oceny zgodnoÊci z Polskà Normà, dotyczàce interpretacji postanowieƒ Polskich Norm, rozstrzyga Prezes Polskiego Komitetu Normalizacyjnego, po zasi´gni´ciu opinii w∏aÊciwego komitetu technicznego.
+8. Sprawy sporne wynikające z oceny zgodności z Polską Normą, dotyczące interpretacji postanowień Polskich Norm, rozstrzyga Prezes Polskiego Komitetu Normalizacyjnego, po zasięgnięciu opinii właściwego komitetu technicznego.
 
 **Art. 8.**
 
-1. W celu zapewnienia w obszarze normalizacji ochrony interesów paƒstwa w zakresie obronnoÊci bezpieczeƒstwa mogà byç opracowywane, zatwierdzane wycofywane, przez inne ni˝ Polski Komitet Normalizacyjny jednostki, dokumenty normalizacyjne, w tym Normy Obronne, co których nie jest wymagane spe∏nienie zasad normalizacji wymienionych wart. 4 oraz art. 5 ust. 3 i5—7.
+1. W celu zapewnienia w obszarze normalizacji ochrony interesów państwa w zakresie obronności bezpieczeństwa mogą być opracowywane, zatwierdzane wycofywane, przez inne niż Polski Komitet Normalizacyjny jednostki, dokumenty normalizacyjne, w tym Normy Obronne, co których nie jest wymagane spełnienie zasad normalizacji wymienionych wart. 4 oraz art. 5 ust. 3 i5—7.
 
-2. Rada Ministrów okreÊli, w drodze rozporzàdzenia, w celu zapewnienia w obszarze normalizacji ochrony interesów paƒstwa w zakresie obronnoÊci ibezpieczeƒstwa:
+2. Rada Ministrów określi, w drodze rozporządzenia, w celu zapewnienia w obszarze normalizacji ochrony interesów państwa w zakresie obronności ibezpieczeństwa:
 
-- **1)** sposób organizacji prowadzenia przez Polski Komitet Normalizacyjny oraz Ministra Obrony Narodowej ministra w∏aÊciwego spraw wewn´trznych normalizacji zwiàzanej z obronnoÊcià bezpieczeƒstwem paƒstwa;
-- **2)** rodzaje dokumentów normalizacyjnych dotyczàcych obronnoÊci ibezpieczeƒstwa paƒstwa;
-- **3)** tryb opracowywania, zatwierdzania stosowania dokumentów normalizacyjnych dotyczàcych obronnoÊci bezpieczeƒstwa paƒstwa, w tym Norm Obronnych, w zakresie, który nie mo˝e byç uj´ty wPolskich Normach;
-- **4)** tryb zatwierdzania wprowadzania stosowania zagranicznych dokumentów normalizacyjnych dotyczàcych obronnoÊci ibezpieczeƒstwa paƒstwa. Rozdzia∏ 4 Polski Komitet Normalizacyjny
+- **1)** sposób organizacji prowadzenia przez Polski Komitet Normalizacyjny oraz Ministra Obrony Narodowej ministra właściwego spraw wewnętrznych normalizacji związanej z obronnością bezpieczeństwem państwa;
+- **2)** rodzaje dokumentów normalizacyjnych dotyczących obronności ibezpieczeństwa państwa;
+- **3)** tryb opracowywania, zatwierdzania stosowania dokumentów normalizacyjnych dotyczących obronności bezpieczeństwa państwa, w tym Norm Obronnych, w zakresie, który nie może być ujęty wPolskich Normach;
+- **4)** tryb zatwierdzania wprowadzania stosowania zagranicznych dokumentów normalizacyjnych dotyczących obronności ibezpieczeństwa państwa.
+
+#### Rozdział 4 Polski Komitet Normalizacyjny
 
 **Art. 9.**
 
-1. Tworzy si´ Polski Komitet Normalizacyjny, zwany dalej „PKN”, jako krajowà jednostk´ normalizacyjnà zapewniajàcà realizacj´ celów wymienionych wart. 3, zgodnie zzasadami wymienionymi wart. 4.
+1. Tworzy się Polski Komitet Normalizacyjny, zwany dalej ŃPKN”, jako krajową jednostkę normalizacyjną zapewniającą realizację celów wymienionych wart. 3, zgodnie zzasadami wymienionymi wart. 4.
 
-2. PKN jest paƒstwowà jednostkà organizacyjnà.
+2. PKN jest państwową jednostką organizacyjną.
 
-3. PKN ma wy∏àczne prawo u˝ywania skrótu „PKN” izastrze˝onego znaku graficznego.
+3. PKN ma wyłączne prawo używania skrótu ŃPKN” izastrzeżonego znaku graficznego.
 
-4. Organizacj´, zakres isposób dzia∏ania PKN okreÊla statut nadany przez Prezesa Rady Ministrów wdrodze zarzàdzenia.
+4. Organizację, zakres isposób działania PKN określa statut nadany przez Prezesa Rady Ministrów wdrodze zarządzenia.
 
 **Art. 10.**
 
 1. Prezes Rady Ministrów sprawuje nadzór
 
-- **2)** realizacji zadaƒ wynikajàcych z podj´tej wspó∏pracy zorganami administracji rzàdowej;
-- **3)** realizacji zadaƒ wynikajàcych z zawartych przez Rzeczpospolità Polskà umów mi´dzynarodowych.
+- **2)** realizacji zadań wynikających z podjętej współpracy zorganami administracji rządowej;
+- **3)** realizacji zadań wynikających z zawartych przez Rzeczpospolitą Polską umów międzynarodowych.
 
-2. Wsprawach, októrych mowa wust. 1, Prezes Rady Ministrów sprawuje nadzór, wydajàc Prezesowi PKN wià˝àce wytyczne ipolecenia.
+2. Wsprawach, októrych mowa wust. 1, Prezes Rady Ministrów sprawuje nadzór, wydając Prezesowi PKN wiążące wytyczne ipolecenia.
 
-**Art. 11.** Do zadaƒ PKN nale˝y organizowanie iprowadzenie normalizacji krajowej zgodnie z potrzebami kraju, wtym:
+**Art. 11.** Do zadań PKN należy organizowanie iprowadzenie normalizacji krajowej zgodnie z potrzebami kraju, wtym:
 
 **Art. 12.**
 
-1. PKN uczestniczy w krajowym systemie notyfikacji norm aktów prawnych, w szczególnoÊci prowadzàc krajowy punkt informacyjny.
+1. PKN uczestniczy w krajowym systemie notyfikacji norm aktów prawnych, w szczególności prowadząc krajowy punkt informacyjny.
 
-2. Rada Ministrów okreÊli, w drodze rozporzàdzenia, sposób funkcjonowania krajowego systemu notyfikacji norm iaktów prawnych, majàc wzgl´dzie koniecznoÊç precyzyjnego podzia∏u zadaƒ wtym zakresie mi´dzy w∏aÊciwe organy administracji rzàdowej oraz paƒstwowe jednostki organizacyjne w celu realizacji zobowiàzaƒ wynikajàcych z wià˝àcych Rzeczpospolità Polskà umów mi´dzynarodowych.
+2. Rada Ministrów określi, w drodze rozporządzenia, sposób funkcjonowania krajowego systemu notyfikacji norm iaktów prawnych, mając względzie konieczność precyzyjnego podziału zadań wtym zakresie między właściwe organy administracji rządowej oraz państwowe jednostki organizacyjne w celu realizacji zobowiązań wynikających z wiążących Rzeczpospolitą Polską umów międzynarodowych.
 
 **Art. 13.**
 
-1. PKN wspó∏dzia∏a zorganami administracji rzàdowej wszczególnoÊci poprzez:
+1. PKN współdziała zorganami administracji rządowej wszczególności poprzez:
 
-- **1)** wzajemne informowanie si´ o zdarzeniach zachodzàcych w gospodarce, administracji publicznej inormalizacji wkontekÊcie ich wzajemnego zwiàzku; wia, Êrodowiska, mienia oraz bezpieczeƒstwa pracy u˝ytkowania, wprowadzonych Polskich Norm wj´zyku orygina∏u;
-- **3)** uzgadnianie potrzeb sporzàdzania dokumentów zawierajàcych wymagania techniczne w procesie opracowywania projektów aktów normatywnych.
+- **1)** wzajemne informowanie się o zdarzeniach zachodzących w gospodarce, administracji publicznej inormalizacji wkontekście ich wzajemnego związku; wia, środowiska, mienia oraz bezpieczeństwa pracy użytkowania, wprowadzonych Polskich Norm wjęzyku oryginału;
+- **3)** uzgadnianie potrzeb sporządzania dokumentów zawierających wymagania techniczne w procesie opracowywania projektów aktów normatywnych.
 
-2. Rada Ministrów okreÊli, w drodze rozporzàdzenia, sposoby wspó∏dzia∏ania PKN z organami administracji rzàdowej, uwzgl´dniajàc koniecznoÊç zapewnienia udzia∏u organów administracji rzàdowej w procesie opiniowania projektów Polskich Norm iinnych dokumentów normalizacyjnych.
+2. Rada Ministrów określi, w drodze rozporządzenia, sposoby współdziałania PKN z organami administracji rządowej, uwzględniając konieczność zapewnienia udziału organów administracji rządowej w procesie opiniowania projektów Polskich Norm iinnych dokumentów normalizacyjnych.
 
 **Art. 14.**
 
-1. PKN jest jednostkà bud˝etowà.
+1. PKN jest jednostką budżetową.
 
-2. Tworzy si´ Êrodek specjalny PKN, zwany dalej „Êrodkiem specjalnym”.
+2. Tworzy się środek specjalny PKN, zwany dalej Ńśrodkiem specjalnym”.
 
-3. Ârodek specjalny mo˝e byç tworzony znast´pujàcych êróde∏:
+3. Ârodek specjalny może być tworzony znastępujących êródeł:
 
-- **1)** wp∏ywów od zamawiajàcych prace zwiàzane z opracowywaniem Polskich Norm innych dokumentów normalizacyjnych;
-- **2)** wp∏ywów ze sprzeda˝y norm innych materia∏ów zwiàzanych znormalizacjà;
-- **3)** wp∏ywów ze szkoleƒ normalizacyjnych;
-- **4)** odsetek bankowych od Êrodka specjalnego, o którym mowa wust. 2.
+- **1)** wpływów od zamawiających prace związane z opracowywaniem Polskich Norm innych dokumentów normalizacyjnych;
+- **2)** wpływów ze sprzedaży norm innych materiałów związanych znormalizacją;
+- **3)** wpływów ze szkoleń normalizacyjnych;
+- **4)** odsetek bankowych od środka specjalnego, o którym mowa wust. 2.
 
-4. Ze Êrodka specjalnego sà finansowane:
+4. Ze środka specjalnego są finansowane:
 
-- **1)** prace zwiàzane zopracowywaniem Polskich Norm innych dokumentów normalizacyjnych wykonywane zamówienie jednostek pozabud˝etowych;
-- **2)** przygotowania sprzeda˝y rozpowszechniania norm iinnych materia∏ów zwiàzanych znormalizacjà, wszczególnoÊci:
-    - **a)** przygotowanie druku oraz druk norm iinnych materia∏ów zwiàzanych znormalizacjà,
-    - **b)** zapisywanie norm innych materia∏ów zwiàzanych z normalizacjà noÊnikach elektronicznych,
-    - **c)** zakup zabezpieczeƒ przed nielegalnym kopiowaniem,
-    - **d)** reklama ikolporta˝,
-    - **e)** zakup gotowych sprzeda˝y norm iinnych materia∏ów zwiàzanych z normalizacjà od innych wydawnictw;
+- **1)** prace związane zopracowywaniem Polskich Norm innych dokumentów normalizacyjnych wykonywane zamówienie jednostek pozabudżetowych;
+- **2)** przygotowania sprzedaży rozpowszechniania norm iinnych materiałów związanych znormalizacją, wszczególności:
+    - **a)** przygotowanie druku oraz druk norm iinnych materiałów związanych znormalizacją,
+    - **b)** zapisywanie norm innych materiałów związanych z normalizacją nośnikach elektronicznych,
+    - **c)** zakup zabezpieczeń przed nielegalnym kopiowaniem,
+    - **d)** reklama ikolportaż,
+    - **e)** zakup gotowych sprzedaży norm iinnych materiałów związanych z normalizacją od innych wydawnictw;
 
-- **3)** szkolenia normalizacyjne, wszczególnoÊci:
-    - **a)** organizowanie iprowadzenie szkoleƒ normalizacyjnych,
-    - **b)** wynagrodzenia wyk∏adowców;
+- **3)** szkolenia normalizacyjne, wszczególności:
+    - **a)** organizowanie iprowadzenie szkoleń normalizacyjnych,
+    - **b)** wynagrodzenia wykładowców;
 
-- **4)** wydatki zwiàzane zobs∏ugà Êrodka specjalnego.
+- **4)** wydatki związane zobsługą środka specjalnego.
 
 **Art. 15.**
 
-1. PKN kieruje Prezes PKN, zwany dalej 3) skazania prawomocnym wyrokiem za pope∏nienie „Prezesem”. przest´pstwa zwiny umyÊlnej.
+1. PKN kieruje Prezes PKN, zwany dalej 3) skazania prawomocnym wyrokiem za popełnienie ŃPrezesem”. przestępstwa zwiny umyślnej.
 
-2. Do zadaƒ Prezesa nale˝y wszczególnoÊci: 7. Prezes Rady Ministrów mo˝e odwo∏aç Prezesa przed up∏ywem kadencji wrazie nieprzyj´cia przez Ra1) powo∏ywanie odwo∏ywanie komitetów technicz- d´ rocznego sprawozdania z∏o˝onego przez Prezesa nych; PKN lub wniosek 2/3 sk∏adu Rady Normalizacyjnej.
+2. Do zadań Prezesa należy wszczególności: 7. Prezes Rady Ministrów może odwołać Prezesa przed upływem kadencji wrazie nieprzyjęcia przez Ra1) powoływanie odwoływanie komitetów technicz- dę rocznego sprawozdania złożonego przez Prezesa nych; PKN lub wniosek 2/3 składu Rady Normalizacyjnej.
 
-- **2)** zatwierdzanie wycofywanie, w imieniu PKN, Polskich Norm innych dokumentów normalizacyj- Art. 17. 1. Wynagrodzenie Prezesa ijego zast´pców nych wniosek komitetów technicznych, ustala Prezes Rady Ministrów. zuwzgl´dnieniem zasad normalizacji krajowej wymienionych wart. 4; 2. Prezesowi ijego zast´pcom przys∏uguje nagroda jubileuszowa odprawa emerytalna wed∏ug zasad
-- **3)** podejmowanie decyzji w sprawach dotyczàcych obowiàzujàcych pracowników PKN oraz mo˝e byç dzia∏alnoÊci PKN; przyznana nagroda roczna wed∏ug zasad okreÊlonych w przepisach wydanych podstawie ustawy z dnia
-- **4)** wydawanie przepisów wewn´trznych PKN; 3marca 2000 r. owynagradzaniu osób kierujàcych niektórymi podmiotami prawnymi (Dz. U. z 2000 r. 26,
-- **5)** wspó∏praca zRadà Normalizacyjnà, wtym zasi´ga- poz. 306, z 2001 r. 85, poz. 924 154, poz. 1799 nie opinii Rady w sprawach, o których mowa oraz z2002r. 113, poz. 984). wart. 18 ust. 4;
-- **6)** sk∏adanie rocznych sprawozdaƒ zdzia∏alnoÊci PKN 3. Minister w∏aÊciwy spraw pracy ustali, wdroRadzie Normalizacyjnej Prezesowi Rady Ministrów w terminie 30 czerwca nast´pnego roku kalendarzowego;
-- **7)** reprezentowanie PKN zewnàtrz;
-- **8)** zarzàdzanie mieniem PKN.
+- **2)** zatwierdzanie wycofywanie, w imieniu PKN, Polskich Norm innych dokumentów normalizacyj- Art. 17. 1. Wynagrodzenie Prezesa ijego zastępców nych wniosek komitetów technicznych, ustala Prezes Rady Ministrów. zuwzględnieniem zasad normalizacji krajowej wymienionych wart. 4; 2. Prezesowi ijego zastępcom przysługuje nagroda jubileuszowa odprawa emerytalna według zasad
+- **3)** podejmowanie decyzji w sprawach dotyczących obowiązujących pracowników PKN oraz może być działalności PKN; przyznana nagroda roczna według zasad określonych w przepisach wydanych podstawie ustawy z dnia
+- **4)** wydawanie przepisów wewnętrznych PKN; 3marca 2000 r. owynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2000 r. 26,
+- **5)** współpraca zRadą Normalizacyjną, wtym zasięga- poz. 306, z 2001 r. 85, poz. 924 154, poz. 1799 nie opinii Rady w sprawach, o których mowa oraz z2002r. 113, poz. 984). wart. 18 ust. 4;
+- **6)** składanie rocznych sprawozdań zdziałalności PKN 3. Minister właściwy spraw pracy ustali, wdroRadzie Normalizacyjnej Prezesowi Rady Ministrów w terminie 30 czerwca następnego roku kalendarzowego;
+- **7)** reprezentowanie PKN zewnątrz;
+- **8)** zarządzanie mieniem PKN.
 
 **Art. 16.**
 
-1. Prezes Rady Ministrów powo∏uje Prezesa okres 5 lat spoÊród zg∏oszonych przez Rad´ Normalizacyjnà kandydatów wy∏onionych uprzednio w drodze konkursu. Rada Normalizacyjna mo˝e równie˝ przedstawiç Prezesowi Rady Ministrów tylko jednego kandydata.
+1. Prezes Rady Ministrów powołuje Prezesa okres 5 lat spośród zgłoszonych przez Radę Normalizacyjną kandydatów wyłonionych uprzednio w drodze konkursu. Rada Normalizacyjna może również przedstawić Prezesowi Rady Ministrów tylko jednego kandydata.
 
 2. Rada Normalizacyjna przeprowadza konkurs, októrym mowa wust. 1.
 
-3. Na stanowisko Prezesa mo˝e kandydowaç obywatel polski:
+3. Na stanowisko Prezesa może kandydować obywatel polski:
 
-- **1)** posiadajàcy wykszta∏cenie wy˝sze;
-- **2)** legitymujàcy si´ co najmniej czteroletnim sta˝em pracy zwiàzanym znormalizacjà;
+- **1)** posiadający wykształcenie wyższe;
+- **2)** legitymujący się co najmniej czteroletnim stażem pracy związanym znormalizacją;
 - **3)** niekarany.
 
-4. Prezes Rady Ministrów okreÊli, w drodze rozporzàdzenia, organizacj´ sposób przeprowadzenia konkursu, majàc wzgl´dzie w szczególnoÊci zapewnienie powszechnoÊci dost´pu konkursu ocen´ kwalifikacji kandydatów.
+4. Prezes Rady Ministrów określi, w drodze rozporządzenia, organizację sposób przeprowadzenia konkursu, mając względzie w szczególności zapewnienie powszechności dostępu konkursu ocenę kwalifikacji kandydatów.
 
-5. Prezes Rady Ministrów powo∏uje odwo∏uje, wniosek Prezesa, dwóch zast´pców Prezesa.
+5. Prezes Rady Ministrów powołuje odwołuje, wniosek Prezesa, dwóch zastępców Prezesa.
 
-6. Prezes Rady Ministrów odwo∏uje Prezesa przed up∏ywem kadencji, wprzypadku:
+6. Prezes Rady Ministrów odwołuje Prezesa przed upływem kadencji, wprzypadku:
 
-- **1)** choroby trwale uniemo˝liwiajàcej wykonywanie dze rozporzàdzenia, wysokoÊç wynagrodzeƒ pracowników PKN, bioràc pod uwag´ organizacj´ PKN koniecznoÊç zapewnienia w∏aÊciwej realizacji jego zadaƒ.
+- **1)** choroby trwale uniemożliwiającej wykonywanie dze rozporządzenia, wysokość wynagrodzeń pracowników PKN, biorąc pod uwagę organizację PKN konieczność zapewnienia właściwej realizacji jego zadań.
 
 **Art. 18.**
 
-1. Przy PKN dzia∏a Rada Normalizacyjna, zwana dalej „Radà”.
+1. Przy PKN działa Rada Normalizacyjna, zwana dalej ŃRadą”.
 
 2. Kadencja Rady trwa 4 lata.
 
-3. Rada akceptuje coroczne sprawozdania zdzia∏alnoÊci PKN sk∏adane przez Prezesa PKN.
+3. Rada akceptuje coroczne sprawozdania zdziałalności PKN składane przez Prezesa PKN.
 
-4. Do zadaƒ Rady nale˝y tak˝e wydawanie opinii, wszczególnoÊci dotyczàcych:
+4. Do zadań Rady należy także wydawanie opinii, wszczególności dotyczących:
 
 - **1)** stanu ikierunków rozwoju normalizacji;
-- **2)** wniosków o powo∏anie odwo∏anie komitetów technicznych;
-- **3)** przepisów wewn´trznych PKN dotyczàcych opracowywania dokumentów normalizacyjnych;
-- **4)** projektów dokumentów normalizacyjnych, w których opracowywaniu uczestniczy PKN, zasadach okreÊlonych w przepisach wewn´trznych PKN.
+- **2)** wniosków o powołanie odwołanie komitetów technicznych;
+- **3)** przepisów wewnętrznych PKN dotyczących opracowywania dokumentów normalizacyjnych;
+- **4)** projektów dokumentów normalizacyjnych, w których opracowywaniu uczestniczy PKN, zasadach określonych w przepisach wewnętrznych PKN.
 
-5. Do kompetencji Rady nale˝y równie˝:
+5. Do kompetencji Rady należy również:
 
-- **1)** sk∏adanie wniosku opowo∏anie iodwo∏anie Prezesa;
+- **1)** składanie wniosku opowołanie iodwołanie Prezesa;
 - **2)** organizowanie konkursu, októrym mowa wart. 16 ust. 1.
 
 **Art. 19.**
 
-1. Wsk∏ad Rady wchodzà, wliczbie nie wi´cej ni˝ po 5 osób, przedstawiciele:
+1. Wskład Rady wchodzą, wliczbie nie więcej niż po 5 osób, przedstawiciele:
 
-- **1)** organów administracji rzàdowej;
+- **1)** organów administracji rządowej;
 - **4)** krajowych lub regionalnych organizacji, których celem statutowym jest ochrona interesów konsumentów;
 - **5)** ogólnopolskich organizacji zawodowych naukowo-technicznych;
-- **6)** szkó∏ wy˝szych inauki.
+- **6)** szkół wyższych inauki.
 
-2. Prezes Rady Ministrów wskazuje organy administracji rzàdowej, które ze wzgl´du zakres ich dzia∏ania powinny byç reprezentowane wRadzie.
+2. Prezes Rady Ministrów wskazuje organy administracji rządowej, które ze względu zakres ich działania powinny być reprezentowane wRadzie.
 
-3. Cz∏onków Rady reprezentujàcych organy administracji rzàdowej powo∏uje odwo∏uje Prezes Rady Ministrów wniosek wskazanego organu administracji rzàdowej, októrym mowa wust. 2.
+3. Członków Rady reprezentujących organy administracji rządowej powołuje odwołuje Prezes Rady Ministrów wniosek wskazanego organu administracji rządowej, októrym mowa wust. 2.
 
-4. Rada Ministrów okreÊli, w drodze rozporzàdzenia, sposób przeprowadzenia wyboru pozosta∏ych cz∏onków Rady Normalizacyjnej, zuwzgl´dnieniem koniecznoÊci przeciwdzia∏ania dominacji któregokolwiek zpodmiotów, októrych mowa wust. 1 pkt 2—6.
+4. Rada Ministrów określi, w drodze rozporządzenia, sposób przeprowadzenia wyboru pozostałych członków Rady Normalizacyjnej, zuwzględnieniem konieczności przeciwdziałania dominacji któregokolwiek zpodmiotów, októrych mowa wust. 1 pkt 2—6.
 
 **Art. 20.**
 
-1. Co najmniej dwa miesiàce przed up∏ywem kadencji Rady Prezes PKN og∏asza wybory Rady Normalizacyjnej, które przeprowadza komisja wyborcza.
+1. Co najmniej dwa miesiące przed upływem kadencji Rady Prezes PKN ogłasza wybory Rady Normalizacyjnej, które przeprowadza komisja wyborcza.
 
-2. W celu przeprowadzenia wyborów Prezes PKN powo∏uje pi´cioosobowà komisj´ spoÊród osób, których wiedza idoÊwiadczenie zawodowe oraz autorytet dajà r´kojmi´ prawid∏owego wykonania zadaƒ komisji.
+2. W celu przeprowadzenia wyborów Prezes PKN powołuje pięcioosobową komisję spośród osób, których wiedza idoświadczenie zawodowe oraz autorytet dają rękojmię prawidłowego wykonania zadań komisji.
 
-3. Wsk∏ad komisji nie mo˝e zostaç powo∏ana osoba pozostajàca wobec Prezesa PKN w takim stosunku prawnym lub faktycznym, który mo˝e budziç uzasadnione wàtpliwoÊci co jej bezstronnoÊci.
+3. Wskład komisji nie może zostać powołana osoba pozostająca wobec Prezesa PKN w takim stosunku prawnym lub faktycznym, który może budzić uzasadnione wątpliwości co jej bezstronności.
 
 **Art. 21.**
 
-1. Prezes zwo∏uje pierwsze posiedzenie Rady nie póêniej ni˝ miesiàc od dnia og∏oszenia wyniku wyborów przewodniczy mu czasu wyboru przewodniczàcego Rady.
+1. Prezes zwołuje pierwsze posiedzenie Rady nie póêniej niż miesiąc od dnia ogłoszenia wyniku wyborów przewodniczy mu czasu wyboru przewodniczącego Rady.
 
-2. Rada konstytuuje si´ pierwszym posiedzeniu.
+2. Rada konstytuuje się pierwszym posiedzeniu.
 
-3. Organizacj´ itryb pracy Rady okreÊla regulamin uchwalony przez Rad´.
+3. Organizację itryb pracy Rady określa regulamin uchwalony przez Radę.
 
-**Art. 22.** Prezes ijego zast´pcy uczestniczà wposiedzeniach Rady zg∏osem doradczym. Rozdzia∏ 5 Komitety techniczne PKN
+**Art. 22.** Prezes ijego zastępcy uczestniczą wposiedzeniach Rady zgłosem doradczym.
+
+#### Rozdział 5 Komitety techniczne PKN
 
 **Art. 23.**
 
-1. Komitety techniczne realizujà cele wymienione w art. 3 poprzez opracowywanie Polskich Norm iinnych dokumentów normalizacyjnych wokreÊlonych zakresach tematycznych, mi´dzy innymi poprzez udzia∏ przedstawicieli komitetów technicznych uczestniczàcych wpracach regionalnych imi´dzynarodowych organizacji normalizacyjnych. kie, zawodowe naukowo-techniczne, szkó∏ wy˝szych nauki oraz pracownicy PKN, z zachowaniem zasady reprezentatywnoÊci wszystkich zainteresowanych okreÊlonym zakresem tematycznym, z uwzgl´dnieniem potrzeb gospodarki krajowej.
+1. Komitety techniczne realizują cele wymienione w art. 3 poprzez opracowywanie Polskich Norm iinnych dokumentów normalizacyjnych wokreślonych zakresach tematycznych, między innymi poprzez udział przedstawicieli komitetów technicznych uczestniczących wpracach regionalnych imiędzynarodowych organizacji normalizacyjnych. kie, zawodowe naukowo-techniczne, szkół wyższych nauki oraz pracownicy PKN, z zachowaniem zasady reprezentatywności wszystkich zainteresowanych określonym zakresem tematycznym, z uwzględnieniem potrzeb gospodarki krajowej.
 
-3. Komitety techniczne powo∏uje iodwo∏uje Prezes po zasi´gni´ciu opinii Rady.
+3. Komitety techniczne powołuje iodwołuje Prezes po zasięgnięciu opinii Rady.
 
 4. Sekretariaty komitetów technicznych prowadzi PKN.
 
-5. Prowadzenie sekretariatów, o których mowa wust. 4, PKN mo˝e powierzaç wdrodze umowy innym jednostkom organizacyjnym, koszt tych jednostek.
+5. Prowadzenie sekretariatów, o których mowa wust. 4, PKN może powierzać wdrodze umowy innym jednostkom organizacyjnym, koszt tych jednostek.
 
-6. Wumowach, októrych mowa wust. 5, ustala si´ szczegó∏owe zasady iwarunki prowadzenia sekretariatów komitetów technicznych. Umowy te mogà byç równie˝ zawierane realizacj´ okreÊlonych celów, wymienionych wart. 3.
+6. Wumowach, októrych mowa wust. 5, ustala się szczegółowe zasady iwarunki prowadzenia sekretariatów komitetów technicznych. Umowy te mogą być również zawierane realizację określonych celów, wymienionych wart. 3.
 
-7. Szczegó∏owe zasady dzia∏ania komitetów technicznych okreÊlajà przepisy wewn´trzne PKN. Rozdzia∏ 6 OdpowiedzialnoÊç karna
+7. Szczegółowe zasady działania komitetów technicznych określają przepisy wewnętrzne PKN.
+
+#### Rozdział 6 Odpowiedzialność karna
 
 **Art. 24.**
 
-1. Kto oznacza wyroby znakiem zgodnoÊci z Polskà Normà bez uzyskania certyfikatu zgodnoÊci upowa˝niajàcego takiego oznaczenia podlega karze grzywny.
+1. Kto oznacza wyroby znakiem zgodności z Polską Normą bez uzyskania certyfikatu zgodności upoważniającego takiego oznaczenia podlega karze grzywny.
 
-2. Tej samej karze podlega, kto oznacza znakiem zgodnoÊci z Polskà Normà wyroby niespe∏niajàce odpowiednich wymagaƒ Polskiej Normy lub deklaruje zgodnoÊç z Polskà Normà wyrobów niespe∏niajàcych tych wymagaƒ.
+2. Tej samej karze podlega, kto oznacza znakiem zgodności z Polską Normą wyroby niespełniające odpowiednich wymagań Polskiej Normy lub deklaruje zgodność z Polską Normą wyrobów niespełniających tych wymagań.
 
-3. Post´powanie wsprawach okreÊlonych wust. 1 i2 nast´puje wtrybie przepisów Kodeksu post´powania wsprawach owykroczenia. Rozdzia∏ 7 Przepisy przejÊciowe ikoƒcowe
+3. Postępowanie wsprawach określonych wust. 1 i2 następuje wtrybie przepisów Kodeksu postępowania wsprawach owykroczenia.
+
+#### Rozdział 7 Przepisy przejściowe ikońcowe
 
 **Art. 25.**
 
-1. Do czasu powo∏ania Rady jej obowiàzki pe∏ni dotychczasowy „Polski Komitet Normalizacyjny”.
+1. Do czasu powołania Rady jej obowiązki pełni dotychczasowy ŃPolski Komitet Normalizacyjny”.
 
-2. Do czasu powo∏ania Prezesa obowiàzki pe∏ni dotychczasowy Prezes „Polskiego Komitetu Normalizacyjnego”.
+2. Do czasu powołania Prezesa obowiązki pełni dotychczasowy Prezes ŃPolskiego Komitetu Normalizacyjnego”.
 
 **Art. 26.**
 
-1. Pierwsze wybory Rady przeprowadza si´ wed∏ug tymczasowego regulaminu wyborów, przyj´tego przez Polski Komitet Normalizacyjny wuzgodnieniu z Prezesem „Polskiego Komitetu Normalizacyjnego”.
+1. Pierwsze wybory Rady przeprowadza się według tymczasowego regulaminu wyborów, przyjętego przez Polski Komitet Normalizacyjny wuzgodnieniu z Prezesem ŃPolskiego Komitetu Normalizacyjnego”.
 
-2. Prezes „Polskiego Komitetu Normalizacyjnego”
+2. Prezes ŃPolskiego Komitetu Normalizacyjnego”
 
-3. Prezes zwo∏uje pierwsze posiedzenie Rady nie póêniej ni˝ wterminie 6 miesi´cy od dnia wejÊcia w˝ycie ustawy.
+3. Prezes zwołuje pierwsze posiedzenie Rady nie póêniej niż wterminie 6 miesięcy od dnia wejścia wżycie ustawy.
 
-4. Na pierwszym posiedzeniu Rada przyst´puje realizacji czynnoÊci zwiàzanych zkonkursem stanowisko Prezesa.
+4. Na pierwszym posiedzeniu Rada przystępuje realizacji czynności związanych zkonkursem stanowisko Prezesa.
 
-**Art. 27.** Zdniem wejÊcia w˝ycie ustawy:
+**Art. 27.** Zdniem wejścia wżycie ustawy:
 
-**Art. 28.** Zdniem wejÊcia w˝ycie ustawy zaprzestaje si´ prowadzenia zbioru norm bran˝owych; istniejàce zbiory zostanà zarchiwizowane przez PKN.
+**Art. 28.** Zdniem wejścia wżycie ustawy zaprzestaje się prowadzenia zbioru norm branżowych; istniejące zbiory zostaną zarchiwizowane przez PKN.
 
 **Art. 29.** Traci moc ustawa z dnia 3 kwietnia 1993 r. onormalizacji (Dz. U. z 1993 r. 55, poz. 251, z1995 r. 95, poz. 471, z1997 r. 121, poz. 770, z2000 r. Nr43, poz. 489 110, poz. 1166 oraz z 2002 r. 135, poz.1145). Kodeksu pracy;
 
-**Art. 30.** Ustawa wchodzi w˝ycie zdniem 1 stycznia
+**Art. 30.** Ustawa wchodzi wżycie zdniem 1 stycznia
 
-**Art. 1.** Wustawie zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 1997 r. 137, poz. 926 iNr160, poz.1083, z1998 r. 106, poz. 668, z1999 r. 11, poz. 95 92, poz. 1062, z 2000 r. 94, poz.1037, Nr116, poz. 1216, 120, poz. 1268 iNr 122, poz. 1315, z 2001 r. 16, poz. 166, 39, poz. 459, 42, poz. 475, 110, poz. 1189, 125, poz. 1368 iNr130, poz. 1452 oraz z2002 r. 89, poz. 804,Nr 113, poz. 984 153, poz. 1271) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 1997 r. 137, poz. 926 iNr160, poz.1083, z1998 r. 106, poz. 668, z1999 r. 11, poz. 95 92, poz. 1062, z 2000 r. 94, poz.1037, Nr116, poz. 1216, 120, poz. 1268 iNr 122, poz. 1315, z 2001 r. 16, poz. 166, 39, poz. 459, 42, poz. 475, 110, poz. 1189, 125, poz. 1368 iNr130, poz. 1452 oraz z2002 r. 89, poz. 804,Nr 113, poz. 984 153, poz. 1271) wprowadza się następujące zmiany:
 

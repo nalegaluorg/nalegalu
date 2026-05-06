@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# Prezesa Krajowej Izby Gospodarczej. dyspasza, wyciàg dyspaszy odmowa sporzàdzenia dyspaszy, powinny zawieraç dat´ miejsce wystawie§ 4. Osoba powo∏ana na dyspaszera sk∏ada przed nia dokumentu, imi´ nazwisko dyspaszera, który doPrezesem Krajowej Izby Gospodarczej przyrzeczenie kona∏ czynnoÊci dyspaszerskich, oraz podpis piecz´ç nast´pujàcej treÊci: „Przyrzekam uroczyÊcie wykony- dyspaszera.
+# Prezesa Krajowej Izby Gospodarczej. dyspasza, wyciąg dyspaszy odmowa sporządzenia dyspaszy, powinny zawierać datę miejsce wystawie§ 4. Osoba powołana na dyspaszera składa przed nia dokumentu, imię nazwisko dyspaszera, który doPrezesem Krajowej Izby Gospodarczej przyrzeczenie konał czynności dyspaszerskich, oraz podpis pieczęć następującej treści: ŃPrzyrzekam uroczyście wykony- dyspaszera.
 
 | Pole | Wartość |
 |---|---|
@@ -24,33 +24,33 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20041091159) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/1159/text.pdf) |
 
-waç czynnoÊci dyspaszerskie wed∏ug mojej najlepszej § 9. 1. Dyspaszer zawiadamia, za zwrotnym powiedzy woli, uwzgl´dniajàc sposób bezstronny in- Êwiadczeniem odbioru, znanych uczestników awarii teresy wszystkich uczestników awarii wspólnej.”. wspólnej o zakoƒczeniu post´powania dyspaszerskiego, a je˝eli dyspasza zosta∏a sporzàdzona przesy∏a § 5. 1. Wpis na list´ dyspaszerów prowadzonà im dyspasz´ lub wyciàg dyspaszy.
-przez Prezesa Krajowej Izby Gospodarczej nast´puje urz´du na podstawie aktu powo∏ania po z∏o˝eniu 2. Za dat´ zakoƒczenia post´powania dyspaszerprzez dyspaszera przyrzeczenia, októrym mowa w§ 4. skiego uwa˝a si´ dzieƒ dor´czenia dyspaszy lub wyciàgu dyspaszy bàdê zawiadomienia o odmowie
-2. SkreÊlenia listy dyspaszerów dokonuje Prezes sporzàdzenia dyspaszy.
-Krajowej Izby Gospodarczej przypadku, gdy dyspa- § 10. Dyspaszerzy powo∏ani wpisani na list´ dysszer przestanie spe∏niaç jeden warunków, o których paszerów przed wejÊciem ˝ycie rozporzàdzenia, mowa § pkt 1—3. spe∏niajàcy warunki okreÊlone § 2, zachowujà do§ 6. 1. Uczestnicy awarii wspólnej powinni dostarczyç wwyznaczonym przez dyspaszera terminie dokumenty lub wyjaÊnienia potrzebne do wykonywania czynnoÊci dyspaszerskich.
-2. Po bezskutecznym up∏ywie wyznaczonego terminu czynnoÊci dyspaszerskie mogà byç dokonane na podstawie dokumentów wyjaÊnieƒ posiadanych przez dyspaszera.
-§ 7. 1. W razie ustalenia przez dyspaszera, ˝e awaria wspólna nie zachodzi, dyspaszer odmawia sporzàdzenia dyspaszy.
+wać czynności dyspaszerskie według mojej najlepszej § 9. 1. Dyspaszer zawiadamia, za zwrotnym powiedzy woli, uwzględniając sposób bezstronny in- świadczeniem odbioru, znanych uczestników awarii teresy wszystkich uczestników awarii wspólnej.”. wspólnej o zakończeniu postępowania dyspaszerskiego, a jeżeli dyspasza została sporządzona przesyła § 5. 1. Wpis na listę dyspaszerów prowadzoną im dyspaszę lub wyciąg dyspaszy.
+przez Prezesa Krajowej Izby Gospodarczej następuje urzędu na podstawie aktu powołania po złożeniu 2. Za datę zakończenia postępowania dyspaszerprzez dyspaszera przyrzeczenia, októrym mowa w§ 4. skiego uważa się dzień doręczenia dyspaszy lub wyciągu dyspaszy bądê zawiadomienia o odmowie
+2. Skreślenia listy dyspaszerów dokonuje Prezes sporządzenia dyspaszy.
+Krajowej Izby Gospodarczej przypadku, gdy dyspa- § 10. Dyspaszerzy powołani wpisani na listę dysszer przestanie spełniać jeden warunków, o których paszerów przed wejściem życie rozporządzenia, mowa § pkt 1—3. spełniający warunki określone § 2, zachowują do§ 6. 1. Uczestnicy awarii wspólnej powinni dostarczyć wwyznaczonym przez dyspaszera terminie dokumenty lub wyjaśnienia potrzebne do wykonywania czynności dyspaszerskich.
+2. Po bezskutecznym upływie wyznaczonego terminu czynności dyspaszerskie mogą być dokonane na podstawie dokumentów wyjaśnień posiadanych przez dyspaszera.
+§ 7. 1. W razie ustalenia przez dyspaszera, że awaria wspólna nie zachodzi, dyspaszer odmawia sporządzenia dyspaszy.
 tychczasowe uprawnienia.
-§ 11. Rozporzàdzenie wchodzi ˝ycie po up∏ywie 14 dni od dnia og∏oszenia.
-Minister Infrastruktury: M. Pol ——————— WYROK TRYBUNA¸U KONSTYTUCYJNEGO dnia 20 kwietnia 2004 r.
-sygn. akt K 45/02 Trybuna∏ Konstytucyjny sk∏adzie: Bohdan Zdziennicki przewodniczàcy, Jerzy Ciemniewski sprawozdawca, Teresa D´bowska-Romanowska, Miros∏aw Wyrzykowski,
-1) 14 zdnia 24 maja 2002 r. oAgencji Bezpieczeƒstwa Wewn´trznego oraz Agencji Wywiadu (Dz. U. 74, poz. 676) 103 Konstytucji Rzeczypospolitej Polskiej,
+§ 11. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+Minister Infrastruktury: M. Pol ——————— WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 20 kwietnia 2004 r.
+sygn. akt K 45/02 Trybunał Konstytucyjny składzie: Bohdan Zdziennicki przewodniczący, Jerzy Ciemniewski sprawozdawca, Teresa Dębowska-Romanowska, Mirosław Wyrzykowski,
+1) 14 zdnia 24 maja 2002 r. oAgencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 74, poz. 676) 103 Konstytucji Rzeczypospolitej Polskiej,
 2) 23 pkt pierwszym 2, 30 Konstytucji,
 3) 23 pkt 6 pierwszym 2, 30, 47, 49 51 orzeka: I
 1. Art. 14 dnia 24 maja 2002 r.
-oAgencji Bezpieczeƒstwa Wewn´trznego oraz Agencji Wywiadu (Dz. U. 74, poz. 676 oraz 2003r. 90, poz. 844, 113, poz. 1070, 130, poz. 1188 iNr 166, poz. 1609) wzakresie, wjakim nadaje rang´ sekretarzy stanu Szefom ABW AW, jest niezgodny 103 Konstytucji Rzeczypospolitej Polskiej.
+oAgencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. 74, poz. 676 oraz 2003r. 90, poz. 844, 113, poz. 1070, 130, poz. 1188 iNr 166, poz. 1609) wzakresie, wjakim nadaje rangę sekretarzy stanu Szefom ABW AW, jest niezgodny 103 Konstytucji Rzeczypospolitej Polskiej.
 2. Art. 23 pkt wpunkcie pierwszym jest niezgodny 2, 30 Konstytucji.
-3. Art. 23 pkt 6 wpunkcie pierwszym jest niezgodny 2, 30, 47, 49 iart. 51 wzwiàzku zart. 3 Konstytucji.
+3. Art. 23 pkt 6 wpunkcie pierwszym jest niezgodny 2, 30, 47, 49 iart. 51 wzwiązku zart. 3 Konstytucji.
 zgodny 7 60 Konstytucji.
-6. Art. 230 7 wpunkcie pierwszym zakresie, jakim wy∏àcza stosowanie przepisów 60 4 oraz 63 tej˝e do funkcjonariusza, októrym mowa wart. 230 4 ustawy:
+6. Art. 230 7 wpunkcie pierwszym zakresie, jakim wyłącza stosowanie przepisów 60 4 oraz 63 tejże do funkcjonariusza, októrym mowa wart. 230 4 ustawy:
 a) jest niezgodny 32 60 Konstytucji,
-b) jest niezgodny 25 lit. c Mi´dzynarodowego Paktu Praw Obywatelskich Politycznych, otwartego do podpisu Nowym Jorku dnia 19 grudnia 1966 r. (Dz. U. z1977 r. 38, poz. 167).
-II Przepisy wskazane pkt 2, pkt 3 pkt 4 tracà moc obowiàzujàcà dniem grudnia 2004 r.
-Bohdan Zdziennicki (zdanie odr´bne do pkt pkt 5)
-4. Art. 41 wpunkcie pierw- Jerzy Ciemniewski Teresa D´bowska-Romanowska szym jest niezgodny zart. 92 Konstytucji. Miros∏aw Wyrzykowski Marian Zdyb 1160 WYROK TRYBUNA¸U KONSTYTUCYJNEGO dnia 21 kwietnia 2004 r.
-sygn. akt K 33/03 Trybuna∏ Konstytucyjny sk∏adzie: Marek Safjan przewodniczàcy, Teresa D´bowska-Romanowska, Wies∏aw Johann sprawozdawca, Ewa ¸´towska, Janusz Niemcewicz, po rozpoznaniu, udzia∏em wnioskodawcy oraz Sejmu Prokuratora Generalnego, na rozprawie dniu 21 kwietnia 2004 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodnoÊci:
+b) jest niezgodny 25 lit. c Międzynarodowego Paktu Praw Obywatelskich Politycznych, otwartego do podpisu Nowym Jorku dnia 19 grudnia 1966 r. (Dz. U. z1977 r. 38, poz. 167).
+II Przepisy wskazane pkt 2, pkt 3 pkt 4 tracą moc obowiązującą dniem grudnia 2004 r.
+Bohdan Zdziennicki (zdanie odrębne do pkt pkt 5)
+4. Art. 41 wpunkcie pierw- Jerzy Ciemniewski Teresa Dębowska-Romanowska szym jest niezgodny zart. 92 Konstytucji. Mirosław Wyrzykowski Marian Zdyb 1160 WYROK TRYBUNAĘU KONSTYTUCYJNEGO dnia 21 kwietnia 2004 r.
+sygn. akt K 33/03 Trybunał Konstytucyjny składzie: Marek Safjan przewodniczący, Teresa Dębowska-Romanowska, Wiesław Johann sprawozdawca, Ewa Ęętowska, Janusz Niemcewicz, po rozpoznaniu, udziałem wnioskodawcy oraz Sejmu Prokuratora Generalnego, na rozprawie dniu 21 kwietnia 2004 r., wniosku Rzecznika Praw Obywatelskich o zbadanie zgodności:
 3) 14 wpunkcie 1) zart.54 wzw. zart. 3 oraz zart. 76 Konstytucji, orzeka:
-1. Art. 12 6 dnia paêdziernika 2003 r. o biokomponentach stosowanych paliwach ciek∏ych biopaliwach ciek∏ych (Dz. U. 199, poz.1934) jest niezgodny 20 22 zw.
+1. Art. 12 6 dnia paêdziernika 2003 r. o biokomponentach stosowanych paliwach ciekłych biopaliwach ciekłych (Dz. U. 199, poz.1934) jest niezgodny 20 22 zw.
 zart.31 3 oraz jest niezgodny zart. i2 Konstytucji Rzeczypospolitej Polskiej.
 2. Art. 14 jest niezgodny 54 zw. 3 76 Konstytucji.
 3. Art. 17 pkt 3 punk-

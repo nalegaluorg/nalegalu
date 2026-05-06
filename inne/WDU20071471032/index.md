@@ -25,33 +25,33 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071471032) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/1032/text.pdf) |
 
 USTAWA z dnia 10 lipca 2007 r.
-o dotacji przeznaczonej dla przedsi´biorstwa paƒstwowego Zak∏ady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji
+o dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne ŃTarnowskie Góry” w Tarnowskich Górach w likwidacji
 
-**Art. 1.** Ustawa okreÊla cel i zakres wykorzystania oraz sposób udzielenia dotacji przeznaczonej dla przedsi´biorstwa paƒstwowego Zak∏ady Chemiczne „Tarnowskie Góry” w Tarnowskich Górach w likwidacji, zwanego dalej „Zak∏adem”.
+**Art. 1.** Ustawa określa cel i zakres wykorzystania oraz sposób udzielenia dotacji przeznaczonej dla przedsiębiorstwa państwowego Zakłady Chemiczne ŃTarnowskie Góry” w Tarnowskich Górach w likwidacji, zwanego dalej ŃZakładem”.
 
-**Art. 2.** Dotacj´ przeznacza si´ na dofinansowanie prac zabezpieczajàcych przedsi´wzi´cie „Ochrona G∏ównego Zbiornika Wód Podziemnych 330 — Gliwice, przez kompleksowe unieszkodliwienie odpadów wraz z rekultywacjà terenów ska˝onych Zak∏adów Chemicznych „Tarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
+**Art. 2.** Dotację przeznacza się na dofinansowanie prac zabezpieczających przedsięwzięcie ŃOchrona Głównego Zbiornika Wód Podziemnych 330 — Gliwice, przez kompleksowe unieszkodliwienie odpadów wraz z rekultywacją terenów skażonych Zakładów Chemicznych ŃTarnowskie Góry” w Tarnowskich Górach w likwidacji”, w zakresie:
 
-**Art. 3.** Dotacj´ na wykonanie zadaƒ, okreÊlonych wart. 2, przyznaje si´ na wniosek Zak∏adu, na podstawie zaakceptowanego przez Wojewod´ Âlàskiego:
+**Art. 3.** Dotację na wykonanie zadań, określonych wart. 2, przyznaje się na wniosek Zakładu, na podstawie zaakceptowanego przez Wojewodę Âląskiego:
 
 **Art. 4.**
 
-1. Podstawà przyznania dotacji na wykonanie zadaƒ, okreÊlonych w art. 2, jest umowa zawarta
+1. Podstawą przyznania dotacji na wykonanie zadań, określonych w art. 2, jest umowa zawarta
 
-5. Umowa powinna zawieraç w szczególnoÊci to˝samoÊci obcokrajowców, które otrzyma∏y ekwiwaokreÊlenie wysokoÊci Êrodków z dotacji, trybu ich lent, ZUS niezw∏ocznie przekazuje ministrowi w∏aÊciprzekazywania oraz wysokoÊci kosztów zwiàzanych wemu do spraw gospodarki. z obs∏ugà wyp∏aty ekwiwalentu.
+5. Umowa powinna zawierać w szczególności tożsamości obcokrajowców, które otrzymały ekwiwaokreślenie wysokości środków z dotacji, trybu ich lent, ZUS niezwłocznie przekazuje ministrowi właściprzekazywania oraz wysokości kosztów związanych wemu do spraw gospodarki. z obsługą wypłaty ekwiwalentu.
 
-**Art. 13.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni
+**Art. 13.** Ustawa wchodzi wżycie po upływie 14 dni
 
-**Art. 12.** ZUS dokonuje rozliczenia przekazywanych od dnia og∏oszenia. Êrodków z dotacji, w terminie 30 dni po up∏ywie miesiàca, wktórym dokonano wyp∏at ekwiwalentów. Rozliczenia te, wraz z imiennym wykazem osób i ich numerem PESEL albo rodzajem i numerem dokumentu Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 2. Umowa, o której mowa w ust. 1, okreÊla wszczególnoÊci zobowiàzanie Zak∏adu do wykonywania zadaƒ, okreÊlonych wart. 2, wysokoÊç dotacji iterminy przekazywania Êrodków finansowych, sposób rozliczania i przyczyny ewentualnego zwrotu dotacji.
+**Art. 12.** ZUS dokonuje rozliczenia przekazywanych od dnia ogłoszenia. środków z dotacji, w terminie 30 dni po upływie miesiąca, wktórym dokonano wypłat ekwiwalentów. Rozliczenia te, wraz z imiennym wykazem osób i ich numerem PESEL albo rodzajem i numerem dokumentu Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 2. Umowa, o której mowa w ust. 1, określa wszczególności zobowiązanie Zakładu do wykonywania zadań, określonych wart. 2, wysokość dotacji iterminy przekazywania środków finansowych, sposób rozliczania i przyczyny ewentualnego zwrotu dotacji.
 
-**Art. 5.** Przyznana przez Wojewod´ Âlàskiego dotacja jest przekazywana, w terminach okreÊlonych w umowie, na specjalnie w tym celu wyodr´bniony przez Zak∏ad rachunek bankowy.
+**Art. 5.** Przyznana przez Wojewodę Âląskiego dotacja jest przekazywana, w terminach określonych w umowie, na specjalnie w tym celu wyodrębniony przez Zakład rachunek bankowy.
 
-**Art. 6.** Zak∏ad otrzymujàcy dotacj´ sk∏ada Wojewodzie Âlàskiemu, wterminie do dnia 31 grudnia 2007 r., sprawozdanie zawierajàce rozliczenie rzeczowo-finansowe zrealizowanych zadaƒ.
+**Art. 6.** Zakład otrzymujący dotację składa Wojewodzie Âląskiemu, wterminie do dnia 31 grudnia 2007 r., sprawozdanie zawierające rozliczenie rzeczowo-finansowe zrealizowanych zadań.
 
-**Art. 7.** Dysponentem dotacji na wykonanie zadaƒ, okreÊlonych w art. 2, jest Wojewoda Âlàski.
+**Art. 7.** Dysponentem dotacji na wykonanie zadań, określonych w art. 2, jest Wojewoda Âląski.
 
-**Art. 8.** Dotacja na zadania, okreÊlone w art. 2, zostanie wykorzystana do dnia uznania przedsi´biorstwa za zlikwidowane, jednak nie d∏u˝ej ni˝ do dnia 31 grudnia 2007 r.
+**Art. 8.** Dotacja na zadania, określone w art. 2, zostanie wykorzystana do dnia uznania przedsiębiorstwa za zlikwidowane, jednak nie dłużej niż do dnia 31 grudnia 2007 r.
 
-**Art. 9.** Ustawa ma zastosowanie do wydatków ponoszonych przez Zak∏ad od dnia 1 stycznia 2007 r.
+**Art. 9.** Ustawa ma zastosowanie do wydatków ponoszonych przez Zakład od dnia 1 stycznia 2007 r.
 
-**Art. 10.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. mi´dzy Wojewodà Âlàskim a Zak∏adem. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 10.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. między Wojewodą Âląskim a Zakładem. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

@@ -24,23 +24,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20071230847) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/847/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 24 sierpnia 2006 o paƒstwowym zasobie kadrowym iwysokich stanowiskach paƒstwowych (Dz. U. 170, 1217, z póên. zm.
+**Art. 1.** W ustawie z dnia 24 sierpnia 2006 o państwowym zasobie kadrowym iwysokich stanowiskach państwowych (Dz. U. 170, 1217, z póên. zm.
 
-**Art. 2.** W ustawie z dnia 22 paêdziernika 2004 o jednostkach doradztwa rolniczego (Dz. U. 251, ) 2507, z 2006 249, 1832 oraz z 2007 wprowadza si´ nast´pujàce zmiany: 64, 427) art. 6:
+**Art. 2.** W ustawie z dnia 22 paêdziernika 2004 o jednostkach doradztwa rolniczego (Dz. U. 251, ) 2507, z 2006 249, 1832 oraz z 2007 wprowadza się następujące zmiany: 64, 427) art. 6:
 
 **Art. 5.**
 
-1. Osoby zajmujàce dniu wejÊcia niniejszej ustawy wysokie stanowisko paƒstwowe Centrum Doradztwa Rolniczego wchodzà sk∏ad paƒstwowego zasobu kadrowego, je˝eli posiadajà co USTAWA z dnia 11 maja 2007 o zmianie ustawy o paƒstwowym zasobie kadrowym wysokich stanowiskach paƒstwowych oraz o zmianie niektórych innych ustaw ———————
+1. Osoby zajmujące dniu wejścia niniejszej ustawy wysokie stanowisko państwowe Centrum Doradztwa Rolniczego wchodzą skład państwowego zasobu kadrowego, jeżeli posiadają co USTAWA z dnia 11 maja 2007 o zmianie ustawy o państwowym zasobie kadrowym wysokich stanowiskach państwowych oraz o zmianie niektórych innych ustaw ———————
 
-3. za wtórnik dokumentu rejestracyjnego 15 z∏ 2. Wpis rejestru podstawie dotychczaso4. za wyciàg lub odpis z rejestru 15 z∏”, wych przepisów wykonawczych odbywa si´ bez dokonania przeglàdu technicznego.
+3. za wtórnik dokumentu rejestracyjnego 15 zł 2. Wpis rejestru podstawie dotychczaso4. za wyciąg lub odpis z rejestru 15 zł”, wych przepisów wykonawczych odbywa się bez dokonania przeglądu technicznego.
 
-- **b)** skreÊla si´ cz´Êç Va tabeli.
+- **b)** skreśla się część Va tabeli.
 
-**Art. 3.** Ustawa wchodzi po up∏ywie 14 dni
+**Art. 3.** Ustawa wchodzi po upływie 14 dni
 
 **Art. 2.**
 
-1. Dotychczasowe przepisy wykonawcze, od dnia og∏oszenia. zakresie rejestracji przeglàdów technicznych statków u˝ywanych uprawiania sportu rekreacji, wy- Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+1. Dotychczasowe przepisy wykonawcze, od dnia ogłoszenia. zakresie rejestracji przeglądów technicznych statków używanych uprawiania sportu rekreacji, wy- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 
 **Art. 1.** W ustawie z dnia 16 paêdziernika 1992 o orderach odznaczeniach (Dz. U. 90, 450, z póên. zm.
 

@@ -25,9 +25,9 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060730501) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/501/text.pdf) |
 
 USTAWA z dnia 10 marca 2006 r.
-o zmianie ustawy o wydawaniu Monitora Sàdowego i Gospodarczego oraz o zmianie niektórych innych ustaw
+o zmianie ustawy o wydawaniu Monitora Sądowego i Gospodarczego oraz o zmianie niektórych innych ustaw
 
-**Art. 1.** Wustawie zdnia 22 grudnia 1995 r. owydawaniu Monitora Sàdowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z póên. zm.
+**Art. 1.** Wustawie zdnia 22 grudnia 1995 r. owydawaniu Monitora Sądowego i Gospodarczego (Dz. U. z 1996 r. Nr 6, poz. 42, z póên. zm.
 
-**Art. 7.** Ustawa wchodzi w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem art. 6, który wchodzi ——————— w ˝ycie z dniem og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 6, który wchodzi ——————— w życie z dniem ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

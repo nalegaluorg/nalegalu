@@ -24,66 +24,66 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091611281) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1281/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 7 wrzeÊnia 2007r. oprzygotowaniu fina∏owego turnieju Mistrzostw Europy Pi∏ce No˝nej UEFA EURO (Dz. U. 173, 1219, 2008 171, 1058 19, 100 68, 575) wprowadza nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 7 września 2007r. oprzygotowaniu finałowego turnieju Mistrzostw Europy Piłce Nożnej UEFA EURO (Dz. U. 173, 1219, 2008 171, 1058 19, 100 68, 575) wprowadza następujące zmiany:
 
-**Art. 24b.** Je˝eli przypadku, którym mowa art. 24a ust. 3, zosta∏a przej´ta cz´Êç nieruchomoÊci, a pozosta∏a cz´Êç nie nadaje prawid∏owego wykorzystania na dotychczasowe cele, spó∏ka celowa lub inny w∏aÊciwy podmiot, nawojewody oustaleniu lokalizacji przedsi´wzi´cia Euro jest minister w∏aÊciwy spraw budownictwa, gospodarki przestrzennej imieszkaniowej. 6. Termin, októrym mowa wust.1 pkt7, nie mo˝e byç krótszy ni˝ 30 dni od dnia, którym decyzja ustaleniu lokalizacji przedsi´wzi´cia Euro sta∏a ostateczna.”;
+**Art. 24b.** Jeżeli przypadku, którym mowa art. 24a ust. 3, została przejęta część nieruchomości, a pozostała część nie nadaje prawidłowego wykorzystania na dotychczasowe cele, spółka celowa lub inny właściwy podmiot, nawojewody oustaleniu lokalizacji przedsięwzięcia Euro jest minister właściwy spraw budownictwa, gospodarki przestrzennej imieszkaniowej. 6. Termin, októrym mowa wust.1 pkt7, nie może być krótszy niż 30 dni od dnia, którym decyzja ustaleniu lokalizacji przedsięwzięcia Euro stała ostateczna.”;
 
-**Art. 24c.** Do egzekucji obowiàzków wynikajàcych zdecyzji oustaleniu lokalizacji przedsi´wzi´cia Euro stosuje przepisy post´powaniu egzekucyjnym administracji.
+**Art. 24c.** Do egzekucji obowiązków wynikających zdecyzji oustaleniu lokalizacji przedsięwzięcia Euro stosuje przepisy postępowaniu egzekucyjnym administracji.
 
 **Art. 24d.**
 
-1. Decyzja ustaleniu lokalizacji przedsi´wzi´cia Euro stanowi podstaw´ wydania przez wojewod´ decyzji owygaÊni´ciu trwa∏ego zarzàdu ustanowionego na nieruchomoalbo jednostki samorzàdu terytorialnego zosta∏a uprzednio wydzier˝awiona, wynaj´ta lub u˝yczona, decyzja ustaleniu lokalizacji przedsi´wzi´cia Euro stanowi podstaw´ wypowiedzenia umowy dzier˝awy, najmu lub u˝yczenia ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiàzania umowy przys∏uguje odszkodowanie odpowiednio od Skarbu Paƒstwa albo jednostki samorzàdu terytorialnego.
+1. Decyzja ustaleniu lokalizacji przedsięwzięcia Euro stanowi podstawę wydania przez wojewodę decyzji owygaśnięciu trwałego zarządu ustanowionego na nieruchomoalbo jednostki samorządu terytorialnego została uprzednio wydzierżawiona, wynajęta lub użyczona, decyzja ustaleniu lokalizacji przedsięwzięcia Euro stanowi podstawę wypowiedzenia umowy dzierżawy, najmu lub użyczenia ze skutkiem natychmiastowym. Za straty poniesione na skutek rozwiązania umowy przysługuje odszkodowanie odpowiednio od Skarbu Państwa albo jednostki samorządu terytorialnego.
 
-3. Je˝eli nieruchomoÊç przeznaczona dla realizacji przedsi´wzi´cia Euro stanowiàca w∏asnoÊç SkarbuPaƒstwa albo jednostki samorzàdu terytorialnego zosta∏a oddana u˝ytkowanie wieczyste, u˝ytkowanie to wygasa za odszkodowaniem, dniem którym decyzja ustaleniu lokalizacji przedsi´wzi´cia Euro sta∏a ostateczna, ustalonym wed∏ug zasad okreÊlonych przepisach gospodarce nieruchomoÊciami, zastrze˝eniem art.24e.
+3. Jeżeli nieruchomość przeznaczona dla realizacji przedsięwzięcia Euro stanowiąca własność SkarbuPaństwa albo jednostki samorządu terytorialnego została oddana użytkowanie wieczyste, użytkowanie to wygasa za odszkodowaniem, dniem którym decyzja ustaleniu lokalizacji przedsięwzięcia Euro stała ostateczna, ustalonym według zasad określonych przepisach gospodarce nieruchomościami, zastrzeżeniem art.24e.
 
-4. Przepis ust. 3 stosuje odpowiednio u˝ytkowania wieczystego nabytego sposób inny ni˝ drodze umowy zawartej formie aktu notarialnego.
+4. Przepis ust. 3 stosuje odpowiednio użytkowania wieczystego nabytego sposób inny niż drodze umowy zawartej formie aktu notarialnego.
 
 **Art. 24e.**
 
-1. Za nieruchomoÊci ograniczone prawa rzeczowe nieruchomoÊci, októrych mowa wart.24a ust.3 wart.24d ust.3, przys∏uguje odszkodowanie wysokoÊci uzgodnionej mi´dzy spó∏kà celowà lub innym w∏aÊciwym podmiotem, a dotychczasowym w∏aÊcicielem lub u˝ytkownikiem wieczystym nieruchomoÊci, a tak˝e osobà, której przys∏ugujà ograniczone prawa rzeczowe nieruchomoÊci.
+1. Za nieruchomości ograniczone prawa rzeczowe nieruchomości, októrych mowa wart.24a ust.3 wart.24d ust.3, przysługuje odszkodowanie wysokości uzgodnionej między spółką celową lub innym właściwym podmiotem, a dotychczasowym właścicielem lub użytkownikiem wieczystym nieruchomości, a także osobą, której przysługują ograniczone prawa rzeczowe nieruchomości.
 
-2. Je˝eli wterminie 2 miesi´cy od dnia, którym decyzja ustaleniu lokalizacji przedsi´wzi´cia Euro sta∏a ostateczna, nie dojdzie uzgodnienia, którym mowa ust. 1, wysokoÊç odszkodowania ustala wojewoda drodze decyzji, terminie 30dni od dnia wszcz´cia post´powania. Post´powanie ustalenie wysokoÊci odszkodowania wszczyna niezw∏ocznie po up∏ywie terminu na dokonanie uzgodnienia, którym dniu wydania decyzji ustalajàcej wysokoÊç odszkodowania. Odszkodowanie podlega waloryzacji na dzieƒ wyp∏aty, wed∏ug zasad obowiàzujàcych przypadku zwrotu wyw∏aszczonych nieruchomoÊci.
+2. Jeżeli wterminie 2 miesięcy od dnia, którym decyzja ustaleniu lokalizacji przedsięwzięcia Euro stała ostateczna, nie dojdzie uzgodnienia, którym mowa ust. 1, wysokość odszkodowania ustala wojewoda drodze decyzji, terminie 30dni od dnia wszczęcia postępowania. Postępowanie ustalenie wysokości odszkodowania wszczyna niezwłocznie po upływie terminu na dokonanie uzgodnienia, którym dniu wydania decyzji ustalającej wysokość odszkodowania. Odszkodowanie podlega waloryzacji na dzień wypłaty, według zasad obowiązujących przypadku zwrotu wywłaszczonych nieruchomości.
 
-4. W przypadku, którym mowa wart.24a ust.4, wysokoÊç odszkodowania przys∏ugujàcego dotychczasowemu w∏aÊcicielowi lub u˝ytkownikowi wieczystemu zmniejsza okwot´ równà wartoÊci wygaÊni´tych ograniczonych praw rzeczowych.
+4. W przypadku, którym mowa wart.24a ust.4, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zmniejsza okwotę równą wartości wygaśniętych ograniczonych praw rzeczowych.
 
-5. Suma wysokoÊci odszkodowania przys∏ugujàcego dotychczasowemu w∏aÊcicielowi lub u˝ytkownikowi wieczystemu, zwy∏àczeniem kwot, októrych mowa ust. 8 9, wysokoÊci odszkodowania tytu∏u wygaÊni´cia ograniczonych praw rzeczowych ustanowionych na tej nieruchomoÊci lub na prawie u˝ytkowania wieczystego nie mo˝e przekroczyç wartoÊci nieruchomoÊci lub wartoÊci prawa u˝ytkowania wieczystego.
+5. Suma wysokości odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu, zwyłączeniem kwot, októrych mowa ust. 8 9, wysokości odszkodowania tytułu wygaśnięcia ograniczonych praw rzeczowych ustanowionych na tej nieruchomości lub na prawie użytkowania wieczystego nie może przekroczyć wartości nieruchomości lub wartości prawa użytkowania wieczystego.
 
-6. Je˝eli na nieruchomoÊciach, których mowa art. 24a ust. 3, lub na prawie u˝ytkowania wieczystego tych nieruchomoÊci jest ustanowiona hipoteka, wysokoÊç odszkodowania tytu∏u wygaÊni´cia hipoteki ustala wwysokoÊci Êwiadczenia g∏ównego wierzytelnoÊci zabezpieczonej hipotekà, wraz zodsetkami zabezpieczonymi tà hipotekà. Odszkodowanie to podlega zaliczeniu na sp∏at´ Êwiadczenia g∏ównego wierzytelnoÊci zabezpieczonej hipotekà wraz zodsetkami.
+6. Jeżeli na nieruchomościach, których mowa art. 24a ust. 3, lub na prawie użytkowania wieczystego tych nieruchomości jest ustanowiona hipoteka, wysokość odszkodowania tytułu wygaśnięcia hipoteki ustala wwysokości świadczenia głównego wierzytelności zabezpieczonej hipoteką, wraz zodsetkami zabezpieczonymi tą hipoteką. Odszkodowanie to podlega zaliczeniu na spłatę świadczenia głównego wierzytelności zabezpieczonej hipoteką wraz zodsetkami.
 
-7. Odszkodowanie tytu∏u wygaÊni´cia ograniczonych praw rzeczowych wysokoÊci ustalonej na dzieƒ, októrym mowa wust.3, wyp∏aca osobom, którym te prawa przys∏ugiwa∏y.
+7. Odszkodowanie tytułu wygaśnięcia ograniczonych praw rzeczowych wysokości ustalonej na dzień, októrym mowa wust.3, wypłaca osobom, którym te prawa przysługiwały.
 
-8. Je˝eli dotychczasowy w∏aÊciciel lub u˝ytkownik wieczysty nieruchomoÊci obj´tej decyzjà ustaleniu lokalizacji przedsi´wzi´cia Euro odpowiednio wyda t´ nieruchomoÊç lub wyda nieruchomoÊç opró˝ni lokal inne pomieszczenia niezw∏ocznie, lecz nie póêniej ni˝ terminie 14dni od dnia:
+8. Jeżeli dotychczasowy właściciel lub użytkownik wieczysty nieruchomości objętej decyzją ustaleniu lokalizacji przedsięwzięcia Euro odpowiednio wyda tę nieruchomość lub wyda nieruchomość opróżni lokal inne pomieszczenia niezwłocznie, lecz nie póêniej niż terminie 14dni od dnia:
 
-9. Wprzypadku gdy decyzja oustaleniu lokalizacji przedsi´wzi´cia Euro dotyczy nieruchomoÊci zabudowanej budynkiem mieszkalnym albo budynkiem, którym zosta∏ wyodr´bniony lokal mieszkalny, wysokoÊç odszkodowania przys∏ugujàcego dotychczasowemu w∏aÊcicielowi lub u˝ytkownikowi wieczystemu zamieszka∏emu tym budynku albo lokalu powi´ksza kwot´ 10 000 z∏ odniesieniu tej nieruchomoÊci.
+9. Wprzypadku gdy decyzja oustaleniu lokalizacji przedsięwzięcia Euro dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, wysokość odszkodowania przysługującego dotychczasowemu właścicielowi lub użytkownikowi wieczystemu zamieszkałemu tym budynku albo lokalu powiększa kwotę 10 000 zł odniesieniu tej nieruchomości.
 
-10. Odszkodowanie za nieruchomoÊci jest wyp∏acane odpowiednio ze Êrodków bud˝etu paƒstwa albo jednostki samorzàdu terytorialnego wterminie 14 dni od dnia, wktórym:
+10. Odszkodowanie za nieruchomości jest wypłacane odpowiednio ze środków budżetu państwa albo jednostki samorządu terytorialnego wterminie 14 dni od dnia, wktórym:
 
-- **1)** zosta∏a uzgodniona wysokoÊç odszkodowania dotychczasowym w∏aÊcicielem lub u˝ytkownikiem wieczystym nieruchomoÊci, a tak˝e osobà, której przys∏ugujà ograniczone prawa rzeczowe nieruchomoÊci;
-- **2)** decyzja ustaleniu odszkodowania sta∏a ostateczna.
+- **1)** została uzgodniona wysokość odszkodowania dotychczasowym właścicielem lub użytkownikiem wieczystym nieruchomości, a także osobą, której przysługują ograniczone prawa rzeczowe nieruchomości;
+- **2)** decyzja ustaleniu odszkodowania stała ostateczna.
 
-**Art. 24f.** W sprawach nieuregulowanych niniejszym rozdziale stosuje przepisy ustawy dnia 21 sierpnia 1997 gospodarce nieruchomoÊciami (Dz. U. z2004r. Nr261, poz.2603, zpóên. zm. ).
+**Art. 24f.** W sprawach nieuregulowanych niniejszym rozdziale stosuje przepisy ustawy dnia 21 sierpnia 1997 gospodarce nieruchomościami (Dz. U. z2004r. Nr261, poz.2603, zpóên. zm. ).
 
 **Art. 24g.**
 
-1. Wprzypadku gdy decyzja oustaleniu lokalizacji przedsi´wzi´cia Euro dotyczy nieruchomoÊci zabudowanej budynkiem mieszkalnym albo budynkiem, którym zosta∏ wyodr´bniony lokal mieszkalny, spó∏ka celowa lub inny w∏aÊciwy podmiot jest obowiàzany terminie faktycznego obj´cia rolnych leÊnych, tym ˝e okreÊlone tych przepisach nale˝noÊci jednorazowe odszkodowania razie dokonania przedwczesnego wyr´bu drzewostanu odniesieniu gruntów leÊnych przeznacza na Fundusz LeÊny Paƒstwowym Gospodarstwie LeÊnym Lasy Paƒstwowe tytu∏u wy∏àczenia gruntów Skarbu Paƒstwa, zarzàdzanych przez Paƒstwowe Gospodarstwo LeÊne Lasy Paƒstwowe.
+1. Wprzypadku gdy decyzja oustaleniu lokalizacji przedsięwzięcia Euro dotyczy nieruchomości zabudowanej budynkiem mieszkalnym albo budynkiem, którym został wyodrębniony lokal mieszkalny, spółka celowa lub inny właściwy podmiot jest obowiązany terminie faktycznego objęcia rolnych leśnych, tym że określone tych przepisach należności jednorazowe odszkodowania razie dokonania przedwczesnego wyrębu drzewostanu odniesieniu gruntów leśnych przeznacza na Fundusz Leśny Państwowym Gospodarstwie Leśnym Lasy Państwowe tytułu wyłączenia gruntów Skarbu Państwa, zarządzanych przez Państwowe Gospodarstwo Leśne Lasy Państwowe.
 
-2. Nale˝noÊci jednorazowe odszkodowania wysokoÊci ustalonej przez organy w∏aÊciwe sprawach ochrony gruntów leÊnych spó∏ka celowa lub inny w∏aÊciwy podmiot przekazuje na rachunek bankowy funduszu, którym mowa ust. 1, po przej´ciu wszystkich gruntów danym obr´bie katastru nieruchomoÊci, wterminie dnia 30 czerwca ka˝dego roku.
+2. Należności jednorazowe odszkodowania wysokości ustalonej przez organy właściwe sprawach ochrony gruntów leśnych spółka celowa lub inny właściwy podmiot przekazuje na rachunek bankowy funduszu, którym mowa ust. 1, po przejęciu wszystkich gruntów danym obrębie katastru nieruchomości, wterminie dnia 30 czerwca każdego roku.
 
-**Art. 24i.** Je˝eli realizacja przedsi´wzi´cia Euro2012 wymaga wydania pozwolenia wodnoprawnego, odpowiednio marsza∏ek województwa albo starosta wydajà to pozwolenie terminie nie d∏u˝szym ni˝ 30 dni od dnia z∏o˝enia wniosku jego wydanie. Dla ustalenia stanu prawnego nieruchomoÊci, których mowa wart.132 ust.2 pkt2 lit. ustawy zdnia 18 lipca 2001 Prawo wodne (Dz. U. z2005r. Nr239, poz.2019, zpóên. zm. nieruchomoÊci posiadanie wskazania lokalu zamiennego, zastrze˝eniem ust.2. 2. W przypadku gdy faktyczne obj´cie nieruchomoÊci posiadanie nast´puje po up∏ywie terminu, którym mowa wart.24 ust.6, spó∏ka celowa lub inny w∏aÊciwy podmiot nie ma obowiàzku wskazania lokalu zamiennego. ), siedziby adresy w∏aÊcicieli tych nieruchomoÊci okreÊla wed∏ug katastru nieruchomoÊci.”;
+**Art. 24i.** Jeżeli realizacja przedsięwzięcia Euro2012 wymaga wydania pozwolenia wodnoprawnego, odpowiednio marszałek województwa albo starosta wydają to pozwolenie terminie nie dłuższym niż 30 dni od dnia złożenia wniosku jego wydanie. Dla ustalenia stanu prawnego nieruchomości, których mowa wart.132 ust.2 pkt2 lit. ustawy zdnia 18 lipca 2001 Prawo wodne (Dz. U. z2005r. Nr239, poz.2019, zpóên. zm. nieruchomości posiadanie wskazania lokalu zamiennego, zastrzeżeniem ust.2. 2. W przypadku gdy faktyczne objęcie nieruchomości posiadanie następuje po upływie terminu, którym mowa wart.24 ust.6, spółka celowa lub inny właściwy podmiot nie ma obowiązku wskazania lokalu zamiennego. ), siedziby adresy właścicieli tych nieruchomości określa według katastru nieruchomości.”;
 
-**Art. 3.** W ustawie dnia 12 lutego szczególnych zasadach przygotowania realizacji inwestycji wzakresie lotnisk u˝ytku publicznego (Dz.U. Nr42, poz.340) wart.1 uchyla ust.3.
+**Art. 3.** W ustawie dnia 12 lutego szczególnych zasadach przygotowania realizacji inwestycji wzakresie lotnisk użytku publicznego (Dz.U. Nr42, poz.340) wart.1 uchyla ust.3.
 
-**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art.4 ustawy wymienionej wart.1 zachowujà moc dnia wejÊcia ˝ycie przepisów wykonawczych wydanych na podstawie art.4 ustawy wymienionej wart.1, wbrzmieniu nadanym niniejszà ustawà imogà byç zmieniane na tej podstawie.
+**Art. 4.** Dotychczasowe przepisy wykonawcze wydane na podstawie art.4 ustawy wymienionej wart.1 zachowują moc dnia wejścia życie przepisów wykonawczych wydanych na podstawie art.4 ustawy wymienionej wart.1, wbrzmieniu nadanym niniejszą ustawą imogą być zmieniane na tej podstawie.
 
 **Art. 5.**
 
-1. W sprawach wszcz´tych niezakoƒczonych decyzjà ostatecznà prowadzonych przed dniem wejÊcia ˝ycie niniejszej ustawy na podstawie przepisów rozdzia∏u 4 5 ustawy wymienionej art. 1, stosuje przepisy dotychczasowe, zastrze˝eniem ust.3.
+1. W sprawach wszczętych niezakończonych decyzją ostateczną prowadzonych przed dniem wejścia życie niniejszej ustawy na podstawie przepisów rozdziału 4 5 ustawy wymienionej art. 1, stosuje przepisy dotychczasowe, zastrzeżeniem ust.3.
 
-2. Do realizacji przedsi´wzi´ç Euro 2012, dla których przed dniem wejÊcia ˝ycie niniejszej ustawy zosta∏a wydana ostateczna decyzja ustaleniu lokalizacji przedsi´wzi´cia Euro 2012, stosuje przepisy dotychczasowe, zzastrze˝eniem ust.3.
+2. Do realizacji przedsięwzięć Euro 2012, dla których przed dniem wejścia życie niniejszej ustawy została wydana ostateczna decyzja ustaleniu lokalizacji przedsięwzięcia Euro 2012, stosuje przepisy dotychczasowe, zzastrzeżeniem ust.3.
 
-3. W sprawach, których mowa ust. 1 2, na wniosek spó∏ki celowej lub innego w∏aÊciwego podmiotu, stosuje przepisy niniejszej ustawy.
+3. W sprawach, których mowa ust. 1 2, na wniosek spółki celowej lub innego właściwego podmiotu, stosuje przepisy niniejszej ustawy.
 
-**Art. 6.** W post´powaniach dotyczàcych realizacji przedsi´wzi´ç Euro 2012, których mowa art. 5 ust. 1 2, zakresie ustalania wysokoÊci wyp∏aty finansowania odszkodowaƒ stosuje przepisy ustawy, októrej mowa wart.1, wbrzmieniu nadanym niniejszà ustawà.
+**Art. 6.** W postępowaniach dotyczących realizacji przedsięwzięć Euro 2012, których mowa art. 5 ust. 1 2, zakresie ustalania wysokości wypłaty finansowania odszkodowań stosuje przepisy ustawy, októrej mowa wart.1, wbrzmieniu nadanym niniejszą ustawą.
 
-**Art. 7.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski ———————
+**Art. 7.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ———————
 

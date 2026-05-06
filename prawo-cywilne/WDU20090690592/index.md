@@ -24,5 +24,5 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090690592) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/592/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 17 listopada 1964 r. — Kodeks post´powania cywilnego (Dz. U. Nr 43, poz. 296, zpóên. zm. ) wart. 394
+**Art. 1.** Wustawie zdnia 17 listopada 1964 r. — Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, zpóên. zm. ) wart. 394
 

@@ -24,289 +24,293 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201431) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1431/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuƒczy (Dz. U. 9, poz. 59, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 25 lutego 1964 r. Kodeks rodzinny i opiekuńczy (Dz. U. 9, poz. 59, zpóên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 61⁷.**
 
-§ 1. Krewnymi w linii prostej sà osoby, z których jedna pochodzi od drugiej. Krewnymi w linii bocznej sà osoby, które pochodzà od wspólnego przodka, anie sà krewnymi wlinii prostej.
+§ 1. Krewnymi w linii prostej są osoby, z których jedna pochodzi od drugiej. Krewnymi w linii bocznej są osoby, które pochodzą od wspólnego przodka, anie są krewnymi wlinii prostej.
 
-§ 2. Stopieƒ pokrewieƒstwa okreÊla si´ wed∏ug liczby urodzeƒ, wskutek których powsta∏o pokrewieƒstwo.
+§ 2. Stopień pokrewieństwa określa się według liczby urodzeń, wskutek których powstało pokrewieństwo.
 
 **Art. 61⁸.**
 
-§ 1. Z ma∏˝eƒstwa wynika powinowactwo mi´dzy ma∏˝onkiem akrewnymi drugiego ma∏˝onka. Trwa ono mimo ustania ma∏˝eƒstwa.
+§ 1. Z małżeństwa wynika powinowactwo między małżonkiem akrewnymi drugiego małżonka. Trwa ono mimo ustania małżeństwa.
 
-§ 2. Lini´ i stopieƒ powinowactwa okreÊla si´ wed∏ug linii i stopnia pokrewieƒstwa.”;
+§ 2. Linię i stopień powinowactwa określa się według linii i stopnia pokrewieństwa.”;
 
-- **6)** wtytule IIwdziale Ia rozdzia∏ Iotrzymuje brzmienie: „Rozdzia∏ I Pochodzenie dziecka Oddzia∏ 1 Macierzyƒstwo
+- **6)** wtytule IIwdziale Ia rozdział Iotrzymuje brzmienie: ŃRozdział I Pochodzenie dziecka
 
-**Art. 61⁹.** Matkà dziecka jest kobieta, która je urodzi∏a.
+##### Oddział 1 Macierzyństwo
+
+**Art. 61⁹.** Matką dziecka jest kobieta, która je urodziła.
 
 **Art. 61¹⁰.**
 
-§ 1. Je˝eli sporzàdzono akt urodzenia dziecka nieznanych rodziców albo macierzyƒstwo kobiety wpisanej w akcie urodzenia dziecka jako jego matka zosta∏o zaprzeczone, mo˝na ˝àdaç ustalenia macierzyƒstwa.
+§ 1. Jeżeli sporządzono akt urodzenia dziecka nieznanych rodziców albo macierzyństwo kobiety wpisanej w akcie urodzenia dziecka jako jego matka zostało zaprzeczone, można żądać ustalenia macierzyństwa.
 
-§ 2. Powództwo o ustalenie macierzyƒstwa wytacza dziecko przeciwko matce, a je˝eli matka nie ˝yje przeciwko kuratorowi ustanowionemu przez sàd opiekuƒczy. USTAWA zdnia 6 listopada 2008 r. ozmianie ustawy Kodeks rodzinny iopiekuƒczy oraz niektórych innych ustaw ——————— § 3. Matka wytacza powództwo oustalenie macierzyƒstwa przeciwko dziecku.
+§ 2. Powództwo o ustalenie macierzyństwa wytacza dziecko przeciwko matce, a jeżeli matka nie żyje przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy. USTAWA zdnia 6 listopada 2008 r. ozmianie ustawy Kodeks rodzinny iopiekuńczy oraz niektórych innych ustaw ——————— § 3. Matka wytacza powództwo oustalenie macierzyństwa przeciwko dziecku.
 
-**Art. 61¹¹.** Matka nie mo˝e wytoczyç powództwa o ustalenie macierzyƒstwa po osiàgni´ciu przez dziecko pe∏noletnoÊci.
+**Art. 61¹¹.** Matka nie może wytoczyć powództwa o ustalenie macierzyństwa po osiągnięciu przez dziecko pełnoletności.
 
 **Art. 61¹².**
 
-§ 1. Je˝eli w akcie urodzenia jest wpisana jako matka kobieta, która dziecka nie urodzi∏a, mo˝na ˝àdaç zaprzeczenia macierzyƒstwa.
+§ 1. Jeżeli w akcie urodzenia jest wpisana jako matka kobieta, która dziecka nie urodziła, można żądać zaprzeczenia macierzyństwa.
 
-§ 2. Powództwo o zaprzeczenie macierzyƒstwa dziecko wytacza przeciwko kobiecie wpisanej wakcie urodzenia dziecka jako jego matka, a je˝eli kobieta ta nie ˝yje przeciwko kuratorowi ustanowionemu przez sàd opiekuƒczy.
+§ 2. Powództwo o zaprzeczenie macierzyństwa dziecko wytacza przeciwko kobiecie wpisanej wakcie urodzenia dziecka jako jego matka, a jeżeli kobieta ta nie żyje przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy.
 
-§ 3. Matka wytacza powództwo przeciwko kobiecie wpisanej w akcie urodzenia dziecka jako jego matka i przeciwko dziecku, a je˝eli kobieta ta nie ˝yje przeciwko dziecku.
+§ 3. Matka wytacza powództwo przeciwko kobiecie wpisanej w akcie urodzenia dziecka jako jego matka i przeciwko dziecku, a jeżeli kobieta ta nie żyje przeciwko dziecku.
 
 § 4. Kobieta wpisana w akcie urodzenia dziecka jako jego matka wytacza powództwo przeciwko dziecku.
 
-§ 5. M´˝czyzna, którego ojcostwo zosta∏o ustalone z uwzgl´dnieniem macierzyƒstwa kobiety wpisanej w akcie urodzenia dziecka jako jego matka, wytacza powództwo przeciwko dziecku itej kobiecie, aje˝eli ona nie ˝yje przeciwko dziecku.
+§ 5. Mężczyzna, którego ojcostwo zostało ustalone z uwzględnieniem macierzyństwa kobiety wpisanej w akcie urodzenia dziecka jako jego matka, wytacza powództwo przeciwko dziecku itej kobiecie, ajeżeli ona nie żyje przeciwko dziecku.
 
 **Art. 61¹³.**
 
-§ 1. Matka albo kobieta wpisana wakcie urodzenia dziecka jako jego matka mo˝e wytoczyç powództwo o zaprzeczenie macierzyƒstwa w ciàgu szeÊciu miesi´cy od dnia sporzàdzenia aktu urodzenia dziecka.
+§ 1. Matka albo kobieta wpisana wakcie urodzenia dziecka jako jego matka może wytoczyć powództwo o zaprzeczenie macierzyństwa w ciągu sześciu miesięcy od dnia sporządzenia aktu urodzenia dziecka.
 
-§ 2. M´˝czyzna, którego ojcostwo zosta∏o ustalone z uwzgl´dnieniem macierzyƒstwa kobiety wpisanej w akcie urodzenia dziecka jako jego matka, mo˝e wytoczyç powództwo ozaprzeczenie macierzyƒstwa w ciàgu szeÊciu miesi´cy od dnia, w którym dowiedzia∏ si´, ˝e kobieta wpisana w akcie urodzenia dziecka nie jest matkà dziecka, nie póêniej jednak ni˝ do osiàgni´cia przez dziecko pe∏noletnoÊci.
+§ 2. Mężczyzna, którego ojcostwo zostało ustalone z uwzględnieniem macierzyństwa kobiety wpisanej w akcie urodzenia dziecka jako jego matka, może wytoczyć powództwo ozaprzeczenie macierzyństwa w ciągu sześciu miesięcy od dnia, w którym dowiedział się, że kobieta wpisana w akcie urodzenia dziecka nie jest matką dziecka, nie póêniej jednak niż do osiągnięcia przez dziecko pełnoletności.
 
-§ 3. Przepisy art. 64 i 65 stosuje si´ odpowiednio.
+§ 3. Przepisy art. 64 i 65 stosuje się odpowiednio.
 
 **Art. 61¹⁴.**
 
-§ 1. Dziecko mo˝e wytoczyç powództwo ozaprzeczenie macierzyƒstwa wciàgu trzech lat od osiàgni´cia pe∏noletnoÊci.
+§ 1. Dziecko może wytoczyć powództwo ozaprzeczenie macierzyństwa wciągu trzech lat od osiągnięcia pełnoletności.
 
-§ 2. Przepisy art. 64 i 65 stosuje si´ odpowiednio.
+§ 2. Przepisy art. 64 i 65 stosuje się odpowiednio.
 
-**Art. 61¹⁵.** Ustalenie i zaprzeczenie macierzyƒstwa nie jest dopuszczalne po Êmierci dziecktóre wytoczy∏o powództwo, ustalenia macierzyƒstwa mogà dochodziç jego zst´pni. Art. 61 ka. Jednak˝e w razie Êmierci dziecka, . Powództwo oustalenie lub zaprzeczenie macierzyƒstwa mo˝e wytoczyç tak˝e prokurator, je˝eli wymaga tego dobro dziecka lub ochrona interesu spo∏ecznego; wytoczenie powództwa o zaprzeczenie macierzyƒstwa nie jest dopuszczalne po Êmierci dziecka. Oddzia∏ 2 Ojcostwo
+**Art. 61¹⁵.** Ustalenie i zaprzeczenie macierzyństwa nie jest dopuszczalne po śmierci dziecktóre wytoczyło powództwo, ustalenia macierzyństwa mogą dochodzić jego zstępni. Art. 61 ka. Jednakże w razie śmierci dziecka, . Powództwo oustalenie lub zaprzeczenie macierzyństwa może wytoczyć także prokurator, jeżeli wymaga tego dobro dziecka lub ochrona interesu społecznego; wytoczenie powództwa o zaprzeczenie macierzyństwa nie jest dopuszczalne po śmierci dziecka.
+
+##### Oddział 2 Ojcostwo
 
 **Art. 62.**
 
-§ 1. Je˝eli dziecko urodzi∏o si´ w czasie trwania ma∏˝eƒstwa albo przed up∏ywem trzystu dni od jego ustania lub uniewa˝nienia, domniemywa si´, ˝e pochodzi ono od m´˝a matki. Domniemania tego nie stosuje si´, je˝eli dziecko urodzi∏o si´ po up∏ywie trzystu dni od orzeczenia separacji.
+§ 1. Jeżeli dziecko urodziło się w czasie trwania małżeństwa albo przed upływem trzystu dni od jego ustania lub unieważnienia, domniemywa się, że pochodzi ono od męża matki. Domniemania tego nie stosuje się, jeżeli dziecko urodziło się po upływie trzystu dni od orzeczenia separacji.
 
-§ 2. Je˝eli dziecko urodzi∏o si´ przed up∏ywem trzystu dni od ustania lub uniewa˝nienia ma∏˝eƒstwa, lecz po zawarciu przez matk´ drugiego ma∏˝eƒstwa, domniemywa si´, ˝e pochodzi ono od drugiego m´˝a.
+§ 2. Jeżeli dziecko urodziło się przed upływem trzystu dni od ustania lub unieważnienia małżeństwa, lecz po zawarciu przez matkę drugiego małżeństwa, domniemywa się, że pochodzi ono od drugiego męża.
 
-§ 3. Domniemania powy˝sze mogà byç obalone tylko na skutek powództwa ozaprzeczenie ojcostwa.
+§ 3. Domniemania powyższe mogą być obalone tylko na skutek powództwa ozaprzeczenie ojcostwa.
 
-**Art. 63.** Mà˝ matki mo˝e wytoczyç powództwo o zaprzeczenie ojcostwa w ciàgu szeÊciu miesi´cy od dnia, wktórym dowiedzia∏ si´ o urodzeniu dziecka przez ˝on´, nie póêniej jednak ni˝ do osiàgni´cia przez dziecko pe∏noletnoÊci.
+**Art. 63.** Mąż matki może wytoczyć powództwo o zaprzeczenie ojcostwa w ciągu sześciu miesięcy od dnia, wktórym dowiedział się o urodzeniu dziecka przez żonę, nie póêniej jednak niż do osiągnięcia przez dziecko pełnoletności.
 
 **Art. 64.**
 
-§ 1. Je˝eli mà˝ matki zosta∏ ca∏kowicie ubezw∏asnowolniony z powodu choroby psychicznej lub innego rodzaju zaburzeƒ psychicznych, na które zapad∏ w ciàgu terminu do wytoczenia powództwa o zaprzeczenie ojcostwa, powództwo mo˝e wytoczyç jego przedstawiciel ustawowy. Termin do wytoczenia powództwa wynosi wtym wypadku szeÊç miesi´cy od dnia ustanowienia przedstawiciela ustawowego, aje˝eli przedstawiciel powzià∏ wiadomoÊç o urodzeniu si´ dziecka dopiero póêniej szeÊç miesi´cy od dnia, wktórym t´ wiadomoÊç powzià∏.
+§ 1. Jeżeli mąż matki został całkowicie ubezwłasnowolniony z powodu choroby psychicznej lub innego rodzaju zaburzeń psychicznych, na które zapadł w ciągu terminu do wytoczenia powództwa o zaprzeczenie ojcostwa, powództwo może wytoczyć jego przedstawiciel ustawowy. Termin do wytoczenia powództwa wynosi wtym wypadku sześć miesięcy od dnia ustanowienia przedstawiciela ustawowego, ajeżeli przedstawiciel powziął wiadomość o urodzeniu się dziecka dopiero póêniej sześć miesięcy od dnia, wktórym tę wiadomość powziął.
 
-§ 2. Je˝eli przedstawiciel ustawowy m´˝a ca∏kowicie ubezw∏asnowolnionego nie wytoczy∏ powództwa o zaprzeczenie ojcostwa, mà˝ mo˝e wytoczyç powództwo po uchyleniu ubezw∏asnowolnienia. Termin do wytoczenia powództwa wynosi w tym wypadku szeÊç miesi´cy od dnia uchylenia ubezw∏asnowolnienia, a je˝eli mà˝ powzià∏ wiadomoÊç o urodzeniu si´ dziecka dopiero póêniej szeÊç miesi´cy od dnia, w którym t´ wiadomoÊç powzià∏.
+§ 2. Jeżeli przedstawiciel ustawowy męża całkowicie ubezwłasnowolnionego nie wytoczył powództwa o zaprzeczenie ojcostwa, mąż może wytoczyć powództwo po uchyleniu ubezwłasnowolnienia. Termin do wytoczenia powództwa wynosi w tym wypadku sześć miesięcy od dnia uchylenia ubezwłasnowolnienia, a jeżeli mąż powziął wiadomość o urodzeniu się dziecka dopiero póêniej sześć miesięcy od dnia, w którym tę wiadomość powziął.
 
-**Art. 65.** Je˝eli mà˝ matki zapad∏ na chorob´ psychicznà lub innego rodzaju zaburzenia psychiczne w ciàgu terminu do wytoczenia powództwa o zaprzeczenie ojcostwa imimo istnienia podstaw do ubezw∏asnowolnienia ca∏kowitego nie zosta∏ ubezw∏asnowolniony, mo˝e on wytoczyç powództwo w ciàgu szeÊciu miesi´cy od ustania choroby lub zaburzeƒ, a gdy powzià∏ wiadomoÊç o urodzeniu si´ dziecka dopiero póêniej w ciàgu szeÊciu miesi´cy od dnia, wktórym t´ wiadomoÊç powzià∏.
+**Art. 65.** Jeżeli mąż matki zapadł na chorobę psychiczną lub innego rodzaju zaburzenia psychiczne w ciągu terminu do wytoczenia powództwa o zaprzeczenie ojcostwa imimo istnienia podstaw do ubezwłasnowolnienia całkowitego nie został ubezwłasnowolniony, może on wytoczyć powództwo w ciągu sześciu miesięcy od ustania choroby lub zaburzeń, a gdy powziął wiadomość o urodzeniu się dziecka dopiero póêniej w ciągu sześciu miesięcy od dnia, wktórym tę wiadomość powziął.
 
-**Art. 66.** Mà˝ matki powinien wytoczyç powództwo o zaprzeczenie ojcostwa przeciwko dziecku imatce, aje˝eli matka nie ˝yje przeciwko dziecku.
+**Art. 66.** Mąż matki powinien wytoczyć powództwo o zaprzeczenie ojcostwa przeciwko dziecku imatce, ajeżeli matka nie żyje przeciwko dziecku.
 
-**Art. 67.** Zaprzeczenie ojcostwa nast´puje przez wykazanie, ˝e mà˝ matki nie jest ojcem dziecka.
+**Art. 67.** Zaprzeczenie ojcostwa następuje przez wykazanie, że mąż matki nie jest ojcem dziecka.
 
-**Art. 68.** Zaprzeczenie ojcostwa nie jest dopuszczalne, je˝eli dziecko zosta∏o pocz´te w nast´pstwie zabiegu medycznego, na który mà˝ matki wyrazi∏ zgod´.
+**Art. 68.** Zaprzeczenie ojcostwa nie jest dopuszczalne, jeżeli dziecko zostało poczęte w następstwie zabiegu medycznego, na który mąż matki wyraził zgodę.
 
 **Art. 69.**
 
-§ 1. Matka mo˝e wytoczyç powództwo o zaprzeczenie ojcostwa swego m´˝a w ciàgu szeÊciu miesi´cy od urodzenia dziecka.
+§ 1. Matka może wytoczyć powództwo o zaprzeczenie ojcostwa swego męża w ciągu sześciu miesięcy od urodzenia dziecka.
 
-§ 2. Matka powinna wytoczyç powództwo o zaprzeczenie ojcostwa przeciwko m´˝owi idziecku, aje˝eli mà˝ nie ˝yje przeciwko dziecku.
+§ 2. Matka powinna wytoczyć powództwo o zaprzeczenie ojcostwa przeciwko mężowi idziecku, ajeżeli mąż nie żyje przeciwko dziecku.
 
-§ 3. Przepisy art. 64 i 65 stosuje si´ odpowiednio.
+§ 3. Przepisy art. 64 i 65 stosuje się odpowiednio.
 
 **Art. 70.**
 
-§ 1. Dziecko po dojÊciu do pe∏noletnoÊci mo˝e wytoczyç powództwo o zaprzeczenie ojcostwa m´˝a swojej matki, nie póêniej jednak ni˝ w ciàgu trzech lat od osiàgni´cia pe∏noletnoÊci.
+§ 1. Dziecko po dojściu do pełnoletności może wytoczyć powództwo o zaprzeczenie ojcostwa męża swojej matki, nie póêniej jednak niż w ciągu trzech lat od osiągnięcia pełnoletności.
 
-§ 2. Dziecko powinno wytoczyç powództwo przeciwko m´˝owi swojej matki imatce, aje˝eli matka nie ˝yje przeciwko jej m´˝owi. Je˝eli mà˝ matki nie ˝yje, powództwo powinno byç wytoczone przeciwko kuratorowi ustanowionemu przez sàd opiekuƒczy.
+§ 2. Dziecko powinno wytoczyć powództwo przeciwko mężowi swojej matki imatce, ajeżeli matka nie żyje przeciwko jej mężowi. Jeżeli mąż matki nie żyje, powództwo powinno być wytoczone przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy.
 
-§ 3. Przepisy art. 64 i 65 stosuje si´ odpowiednio.
+§ 3. Przepisy art. 64 i 65 stosuje się odpowiednio.
 
-**Art. 71.** Zaprzeczenie ojcostwa nie jest dopuszczalne po Êmierci dziecka.
+**Art. 71.** Zaprzeczenie ojcostwa nie jest dopuszczalne po śmierci dziecka.
 
 **Art. 72.**
 
-§ 1. Je˝eli nie zachodzi domniemanie, ˝e ojcem dziecka jest mà˝ jego matki, albo gdy domniemanie takie zosta∏o obalone, ustalenie ojcostwa mo˝e nastàpiç albo przez uznanie ojcostwa albo na mocy orzeczenia sàdu.
+§ 1. Jeżeli nie zachodzi domniemanie, że ojcem dziecka jest mąż jego matki, albo gdy domniemanie takie zostało obalone, ustalenie ojcostwa może nastąpić albo przez uznanie ojcostwa albo na mocy orzeczenia sądu.
 
-§ 2. Uznanie ojcostwa nie mo˝e nastàpiç, je˝eli toczy si´ sprawa o ustalenie ojcostwa.
+§ 2. Uznanie ojcostwa nie może nastąpić, jeżeli toczy się sprawa o ustalenie ojcostwa.
 
 **Art. 73.**
 
-§ 1. Uznanie ojcostwa nast´puje, gdy m´˝czyzna, od którego dziecko pokiem urz´du stanu cywilnego, ˝e jest ojcem dziecka, a matka dziecka potwierdzi jednoczeÊnie albo w ciàgu trzech miesi´cy od dnia oÊwiadczenia m´˝czyzny, ˝e ojcem dziecka jest ten m´˝czyzna.
+§ 1. Uznanie ojcostwa następuje, gdy mężczyzna, od którego dziecko pokiem urzędu stanu cywilnego, że jest ojcem dziecka, a matka dziecka potwierdzi jednocześnie albo w ciągu trzech miesięcy od dnia oświadczenia mężczyzny, że ojcem dziecka jest ten mężczyzna.
 
-§ 2. Kierownik urz´du stanu cywilnego wyjaÊnia osobom zamierzajàcym z∏o˝yç oÊwiadczenia konieczne do uznania ojcostwa przepisy regulujàce obowiàzki i prawa wynikajàce z uznania, przepisy o nazwisku dziecka oraz ró˝nic´ pomi´dzy uznaniem ojcostwa aprzysposobieniem dziecka.
+§ 2. Kierownik urzędu stanu cywilnego wyjaśnia osobom zamierzającym złożyć oświadczenia konieczne do uznania ojcostwa przepisy regulujące obowiązki i prawa wynikające z uznania, przepisy o nazwisku dziecka oraz różnicę pomiędzy uznaniem ojcostwa aprzysposobieniem dziecka.
 
-§ 3. Kierownik urz´du stanu cywilnego odmawia przyj´cia oÊwiadczeƒ koniecznych do uznania ojcostwa, je˝eli uznanie jest niedopuszczalne albo gdy powzià∏ wàtpliwoÊç co do pochodzenia dziecka.
+§ 3. Kierownik urzędu stanu cywilnego odmawia przyjęcia oświadczeń koniecznych do uznania ojcostwa, jeżeli uznanie jest niedopuszczalne albo gdy powziął wątpliwość co do pochodzenia dziecka.
 
-§ 4. Uznanie ojcostwa mo˝e nastàpiç tak˝e przed sàdem opiekuƒczym, a za chodzi, oÊwiadczy przed kierownigranicà równie˝ przed polskim konsulem lub osobà wyznaczonà do wykonywania funkcji konsula, je˝eli uznanie dotyczy dziecka, którego oboje rodzice albo jedno z nich sà obywatelami polskimi. Przepisy § 1—3 stosuje si´ odpowiednio.
+§ 4. Uznanie ojcostwa może nastąpić także przed sądem opiekuńczym, a za chodzi, oświadczy przed kierownigranicą również przed polskim konsulem lub osobą wyznaczoną do wykonywania funkcji konsula, jeżeli uznanie dotyczy dziecka, którego oboje rodzice albo jedno z nich są obywatelami polskimi. Przepisy § 1—3 stosuje się odpowiednio.
 
 **Art. 74.**
 
-§ 1. Wrazie niebezpieczeƒstwa gro˝àcego bezpoÊrednio ˝yciu matki dziecka lub m´˝czyzny, od którego dziecko pochodzi, oÊwiadczenie konieczne do uznania ojcostwa mo˝e zostaç zaprotoko∏owane przez notariusza albo z∏o˝one do protoko∏u wobec wójta (burmistrza, prezydenta miasta), starosty, marsza∏ka województwa, sekretarza powiatu albo gminy. Przepisy art. 73 §1—3 stosuje si´ odpowiednio.
+§ 1. Wrazie niebezpieczeństwa grożącego bezpośrednio życiu matki dziecka lub mężczyzny, od którego dziecko pochodzi, oświadczenie konieczne do uznania ojcostwa może zostać zaprotokołowane przez notariusza albo złożone do protokołu wobec wójta (burmistrza, prezydenta miasta), starosty, marszałka województwa, sekretarza powiatu albo gminy. Przepisy art. 73 §1—3 stosuje się odpowiednio.
 
-§ 2. Protokó∏ podpisuje osoba, która przyj´∏a oÊwiadczenie, oraz osoba, która je z∏o˝y∏a, chyba ˝e nie mo˝e ona go podpisaç. Przyczyn´ braku podpisu nale˝y podaç wprotokole.
+§ 2. Protokół podpisuje osoba, która przyjęła oświadczenie, oraz osoba, która je złożyła, chyba że nie może ona go podpisać. Przyczynę braku podpisu należy podać wprotokole.
 
-§ 3. Protokó∏ zawierajàcy oÊwiadczenie konieczne do uznania ojcostwa powinien byç niezw∏ocznie przekazany do urz´du stanu cywilnego w∏aÊciwego do sporzàdzenia aktu urodzenia dziecka.
+§ 3. Protokół zawierający oświadczenie konieczne do uznania ojcostwa powinien być niezwłocznie przekazany do urzędu stanu cywilnego właściwego do sporządzenia aktu urodzenia dziecka.
 
 **Art. 75.**
 
-§ 1. Mo˝na uznaç ojcostwo przed urodzeniem si´ dziecka ju˝ pocz´tego.
+§ 1. Można uznać ojcostwo przed urodzeniem się dziecka już poczętego.
 
-§ 2. Je˝eli dziecko urodzi∏o si´ po zawarciu przez matk´ ma∏˝eƒstwa z innym m´˝czyznà ni˝ ten, który uzna∏ ojcostwo, przepisu art. 62 nie stosuje si´.
+§ 2. Jeżeli dziecko urodziło się po zawarciu przez matkę małżeństwa z innym mężczyzną niż ten, który uznał ojcostwo, przepisu art. 62 nie stosuje się.
 
 **Art. 76.**
 
-§ 1. Uznanie ojcostwa nie mo˝e nastàpiç po osiàgni´ciu przez dziecko pe∏noletnoÊci.
+§ 1. Uznanie ojcostwa nie może nastąpić po osiągnięciu przez dziecko pełnoletności.
 
-§ 2. Je˝eli dziecko zmar∏o przed osiàgni´ciem pe∏noletnoÊci, uznanie ojcostwa mo˝e nastàpiç w ciàgu szeÊciu miesi´cy od dnia, w którym m´˝czyzna sk∏adajàcy oÊwiadczenie o uznaniu dowiedzia∏ si´ o Êmierci dziecka, nie póêniej jednak ni˝ do dnia, w którym dziecko osiàgn´∏oby pe∏noletnoÊç.
+§ 2. Jeżeli dziecko zmarło przed osiągnięciem pełnoletności, uznanie ojcostwa może nastąpić w ciągu sześciu miesięcy od dnia, w którym mężczyzna składający oświadczenie o uznaniu dowiedział się o śmierci dziecka, nie póêniej jednak niż do dnia, w którym dziecko osiągnęłoby pełnoletność.
 
 **Art. 77.**
 
-§ 1. OÊwiadczenie konieczne do uznania ojcostwa mo˝e z∏o˝yç osoba, która ukoƒczy∏a szesnaÊcie lat i nie istniejà podstawy do jej ca∏kowitego ubezw∏asnowolnienia.
+§ 1. Oświadczenie konieczne do uznania ojcostwa może złożyć osoba, która ukończyła szesnaście lat i nie istnieją podstawy do jej całkowitego ubezwłasnowolnienia.
 
-§ 2. Osoba, októrej mowa w§ 1, je˝eli nie ma pe∏nej zdolnoÊci do czynnoÊci prawnych, mo˝e z∏o˝yç oÊwiadczenie konieczne do uznania ojcostwa tylko przed sàdem opiekuƒczym.
+§ 2. Osoba, októrej mowa w§ 1, jeżeli nie ma pełnej zdolności do czynności prawnych, może złożyć oświadczenie konieczne do uznania ojcostwa tylko przed sądem opiekuńczym.
 
 **Art. 78.**
 
-§ 1. M´˝czyzna, który uzna∏ ojcostwo, mo˝e wytoczyç powództwo o ustalenie bezskutecznoÊci uznania w terminie szeÊciu miesi´cy od dnia, w którym dowiedzia∏ si´, ˝e dziecko od niego nie pochodzi. W razie uznania ojcostwa przed urodzeniem si´ dziecka ju˝ pocz´tego bieg tego terminu nie mo˝e rozpoczàç si´ przed urodzeniem si´ dziecka.
+§ 1. Mężczyzna, który uznał ojcostwo, może wytoczyć powództwo o ustalenie bezskuteczności uznania w terminie sześciu miesięcy od dnia, w którym dowiedział się, że dziecko od niego nie pochodzi. W razie uznania ojcostwa przed urodzeniem się dziecka już poczętego bieg tego terminu nie może rozpocząć się przed urodzeniem się dziecka.
 
-§ 2. Przepisy art. 64 i 65 stosuje si´ odpowiednio.
+§ 2. Przepisy art. 64 i 65 stosuje się odpowiednio.
 
-**Art. 79.** Przepisy o ustaleniu bezskutecznoÊci uznania ojcostwa stosuje si´ odpowiednio do matki dziecka, która potwierdzi∏a ojcostwo.
+**Art. 79.** Przepisy o ustaleniu bezskuteczności uznania ojcostwa stosuje się odpowiednio do matki dziecka, która potwierdziła ojcostwo.
 
-**Art. 80.** Po osiàgni´ciu przez dziecko pe∏noletnoÊci powództwo o ustalenie bezskutecznoÊci uznania ojcostwa nie mo˝e byç wytoczone ani przez matk´ dziecka, ani przez m´˝czyzn´, który uzna∏ ojcostwo.
+**Art. 80.** Po osiągnięciu przez dziecko pełnoletności powództwo o ustalenie bezskuteczności uznania ojcostwa nie może być wytoczone ani przez matkę dziecka, ani przez mężczyznę, który uznał ojcostwo.
 
 **Art. 81.**
 
-§ 1. Dziecko mo˝e ˝àdaç ustalenia bezskutecznoÊci uznania ojcostwa, je˝eli uznajàcy m´˝czyzna nie jest jego ojcem.
+§ 1. Dziecko może żądać ustalenia bezskuteczności uznania ojcostwa, jeżeli uznający mężczyzna nie jest jego ojcem.
 
-§ 2. Z ˝àdaniem tym dziecko mo˝e wystàpiç po dojÊciu do pe∏noletnoÊci, nie póêniej jednak ni˝ w ciàgu trzech lat od jej osiàgni´cia.
+§ 2. Z żądaniem tym dziecko może wystąpić po dojściu do pełnoletności, nie póêniej jednak niż w ciągu trzech lat od jej osiągnięcia.
 
-§ 3. Przepisy art. 64 i 65 stosuje si´ odpowiednio.
+§ 3. Przepisy art. 64 i 65 stosuje się odpowiednio.
 
 **Art. 82.**
 
-§ 1. M´˝czyzna, który uzna∏ ojcostwo, wytacza powództwo o ustalenie bezskutecznoÊci uznania przeciwko dziecku imatce, aje˝eli matka nie ˝yje przeciwko dziecku.
+§ 1. Mężczyzna, który uznał ojcostwo, wytacza powództwo o ustalenie bezskuteczności uznania przeciwko dziecku imatce, ajeżeli matka nie żyje przeciwko dziecku.
 
-§ 2. Matka wytacza powództwo o ustalenie bezskutecznoÊci uznania ojcostwa przeciwko dziecku i m´˝czyênie, który ka nie ˝yje tylko przeciwko temu m´˝czyênie. Je˝eli m´˝czyzna ten nie ˝yje, powództwo powinno byç wytoczone przeciwko kuratorowi ustanowionemu przez sàd opiekuƒczy.
+§ 2. Matka wytacza powództwo o ustalenie bezskuteczności uznania ojcostwa przeciwko dziecku i mężczyênie, który ka nie żyje tylko przeciwko temu mężczyênie. Jeżeli mężczyzna ten nie żyje, powództwo powinno być wytoczone przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy.
 
 **Art. 83.**
 
-§ 1. Po Êmierci dziecka ustalenie bezskutecznoÊci uznania ojcostwa nie jest dopuszczalne.
+§ 1. Po śmierci dziecka ustalenie bezskuteczności uznania ojcostwa nie jest dopuszczalne.
 
-§ 2. Je˝eli uznanie ojcostwa nastàpi∏o po Êmierci dziecka, stosuje si´ odpowiednio przepisy art. 82 § 1 i 2, przy czym powództwo powinno byç wytoczone nie póêniej ni˝ do dnia, w którym dziecko osiàgn´∏oby pe∏noletnoÊç, przeciwko kuratorowi ustanowionemu przez sàd opiekuƒczy na miejsce dziecka.
+§ 2. Jeżeli uznanie ojcostwa nastąpiło po śmierci dziecka, stosuje się odpowiednio przepisy art. 82 § 1 i 2, przy czym powództwo powinno być wytoczone nie póêniej niż do dnia, w którym dziecko osiągnęłoby pełnoletność, przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy na miejsce dziecka.
 
 **Art. 84.**
 
-§ 1. Sàdowego ustalenia ojcostwa mo˝e ˝àdaç dziecko, jego matka oraz domniemany ojciec dziecka. Jednak˝e matka ani domniemany ojciec nie mogà wystàpiç z takim ˝àdaniem po Êmierci dziecka lub po osiàgni´ciu przez nie pe∏noletnoÊci.
+§ 1. Sądowego ustalenia ojcostwa może żądać dziecko, jego matka oraz domniemany ojciec dziecka. Jednakże matka ani domniemany ojciec nie mogą wystąpić z takim żądaniem po śmierci dziecka lub po osiągnięciu przez nie pełnoletności.
 
-§ 2. Dziecko albo matka wytacza powództwo o ustalenie ojcostwa przeciwko domniemanemu ojcu, a gdy ten nie ˝yje przeciwko kuratorowi ustanowionemu przez sàd opiekuƒczy.
+§ 2. Dziecko albo matka wytacza powództwo o ustalenie ojcostwa przeciwko domniemanemu ojcu, a gdy ten nie żyje przeciwko kuratorowi ustanowionemu przez sąd opiekuńczy.
 
-§ 3. Domniemany ojciec dziecka wytacza powództwo o ustalenie ojcostwa przeciwko dziecku imatce, agdy matka nie ˝yje przeciwko dziecku.
+§ 3. Domniemany ojciec dziecka wytacza powództwo o ustalenie ojcostwa przeciwko dziecku imatce, agdy matka nie żyje przeciwko dziecku.
 
-§ 4. W razie Êmierci dziecka, które by∏o powodem wsprawie oustalenie ojcostwa, ustalenia mogà dochodziç jego zst´pni.
+§ 4. W razie śmierci dziecka, które było powodem wsprawie oustalenie ojcostwa, ustalenia mogą dochodzić jego zstępni.
 
 **Art. 85.**
 
-§ 1. Domniemywa si´, ˝e ojcem dziecka jest ten, kto obcowa∏ z matkà dziecka nie dawniej ni˝ wtrzechsetnym, anie póêniej ni˝ w sto osiemdziesiàtym pierwszym dniu przed urodzeniem si´ dziecka.
+§ 1. Domniemywa się, że ojcem dziecka jest ten, kto obcował z matką dziecka nie dawniej niż wtrzechsetnym, anie póêniej niż w sto osiemdziesiątym pierwszym dniu przed urodzeniem się dziecka.
 
-§ 2. OkolicznoÊç, ˝e matka w tym okresie obcowa∏a tak˝e z innym m´˝czyznà, mo˝e byç podstawà do obalenia domniemania tylko wtedy, gdy zokolicznoÊci wynika, ˝e ojcostwo innego m´˝czyzny jest bardziej prawdopodobne.
+§ 2. Okoliczność, że matka w tym okresie obcowała także z innym mężczyzną, może być podstawą do obalenia domniemania tylko wtedy, gdy zokoliczności wynika, że ojcostwo innego mężczyzny jest bardziej prawdopodobne.
 
-**Art. 86.** Powództwo o ustalenie lub zaprzeczenie ojcostwa oraz oustalenie bezskutecznoÊci uznania ojcostwa mo˝e wytoczyç tak˝e prokurator, je˝eli wymaga tego dobro uzna∏ ojcostwo, aje˝eli m´˝czyzna ten nie ˝yje przeciwko dziecku.
+**Art. 86.** Powództwo o ustalenie lub zaprzeczenie ojcostwa oraz oustalenie bezskuteczności uznania ojcostwa może wytoczyć także prokurator, jeżeli wymaga tego dobro uznał ojcostwo, ajeżeli mężczyzna ten nie żyje przeciwko dziecku.
 
 **Art. 88.**
 
-§ 1. Dziecko, co do którego istnieje domniemanie, ˝e pochodzi od m´˝a matki, nosi nazwisko b´dàce nazwiskiem obojga ma∏˝onków. Je˝eli ma∏˝onkowie majà ró˝ne nazwiska, dziecko nosi nazwisko wskazane w ich zgodnych oÊwiadczeniach. Ma∏˝onkowie mogà wskazaç nazwisko jednego z nich albo nazwisko utworzone przez po∏àczenie nazwiska matki znazwiskiem ojca dziecka.
+§ 1. Dziecko, co do którego istnieje domniemanie, że pochodzi od męża matki, nosi nazwisko będące nazwiskiem obojga małżonków. Jeżeli małżonkowie mają różne nazwiska, dziecko nosi nazwisko wskazane w ich zgodnych oświadczeniach. Małżonkowie mogą wskazać nazwisko jednego z nich albo nazwisko utworzone przez połączenie nazwiska matki znazwiskiem ojca dziecka.
 
-§ 2. OÊwiadczenia w sprawie nazwiska dziecka sà sk∏adane jednoczeÊnie z oÊwiadczeniami o nazwiskach, które b´dà nosiç ma∏˝onkowie. Je˝eli ma∏˝onkowie nie z∏o˝yli zgodnych oÊwiadczeƒ w sprawie nazwiska dziecka, nosi ono nazwisko sk∏adajàce si´ znazwiska matki ido∏àczonego do niego nazwiska ojca.
+§ 2. Oświadczenia w sprawie nazwiska dziecka są składane jednocześnie z oświadczeniami o nazwiskach, które będą nosić małżonkowie. Jeżeli małżonkowie nie złożyli zgodnych oświadczeń w sprawie nazwiska dziecka, nosi ono nazwisko składające się znazwiska matki idołączonego do niego nazwiska ojca.
 
-§ 3. Przy sporzàdzeniu aktu urodzenia pierwszego wspólnego dziecka ma∏˝onkowie mogà z∏o˝yç przed kierownikiem urz´du stanu cywilnego zgodne oÊwiadczenia o zmianie wskazanego przez nich nazwiska dziecka albo oÊwiadczenia, o których mowa w§ 1, je˝eli nazwisko dziecka nie zosta∏o przez nich wskazane.
+§ 3. Przy sporządzeniu aktu urodzenia pierwszego wspólnego dziecka małżonkowie mogą złożyć przed kierownikiem urzędu stanu cywilnego zgodne oświadczenia o zmianie wskazanego przez nich nazwiska dziecka albo oświadczenia, o których mowa w§ 1, jeżeli nazwisko dziecka nie zostało przez nich wskazane.
 
-§ 4. Przepisy § 1—3 stosuje si´ odpowiednio do nazwiska dziecka, którego rodzice zawarli ma∏˝eƒstwo po urodzeniu si´ dziecka. Do zmiany nazwiska dziecka, którego rodzice zawarli ma∏˝eƒstwo po ukoƒczeniu przez dziecko trzynastu lat, jest potrzebna jego zgoda.
+§ 4. Przepisy § 1—3 stosuje się odpowiednio do nazwiska dziecka, którego rodzice zawarli małżeństwo po urodzeniu się dziecka. Do zmiany nazwiska dziecka, którego rodzice zawarli małżeństwo po ukończeniu przez dziecko trzynastu lat, jest potrzebna jego zgoda.
 
 **Art. 89.**
 
-§ 1. Je˝eli ojcostwo zosta∏o ustalone przez uznanie, dziecko nosi nazwisko wskazane w zgodnych oÊwiadczeniach rodziców, sk∏adanych jednoczeÊnie zoÊwiadczeniami koniecznymi do uznania ojcostwa. Rodzice mogà wskazaç nazwisko jednego z nich albo nazwisko utworzone przez po∏àczenie nazwiska matki z nazwiskiem ojca dziecka. Je˝eli rodzice nie z∏o˝yli zgodnych oÊwiadczeƒ w sprawie nazwiska dziecka, nosi ono nazwisko sk∏adajàce si´ z nazwiska matki i do∏àczonego do niego nazwiska ojca. Do zmiany nazwiska dziecka, które w chwili uznania ju˝ ukoƒczy∏o trzynaÊcie lat, jest potrzebna jego zgoda.
+§ 1. Jeżeli ojcostwo zostało ustalone przez uznanie, dziecko nosi nazwisko wskazane w zgodnych oświadczeniach rodziców, składanych jednocześnie zoświadczeniami koniecznymi do uznania ojcostwa. Rodzice mogą wskazać nazwisko jednego z nich albo nazwisko utworzone przez połączenie nazwiska matki z nazwiskiem ojca dziecka. Jeżeli rodzice nie złożyli zgodnych oświadczeń w sprawie nazwiska dziecka, nosi ono nazwisko składające się z nazwiska matki i dołączonego do niego nazwiska ojca. Do zmiany nazwiska dziecka, które w chwili uznania już ukończyło trzynaście lat, jest potrzebna jego zgoda.
 
-§ 2. W razie sàdowego ustalenia ojcostwa sàd nadaje dziecku nazwisko w wyroku ustalajàcym ojcostwo, stosujàc odpowiednio przepisy § 1. Je˝eli dziecko ukoƒczy∏o trzynaÊcie lat, do zmiany nazwiska jest potrzeb§ 3. Je˝eli ojcostwa nie ustalono, dziecko nosi nazwisko matki.
+§ 2. W razie sądowego ustalenia ojcostwa sąd nadaje dziecku nazwisko w wyroku ustalającym ojcostwo, stosując odpowiednio przepisy § 1. Jeżeli dziecko ukończyło trzynaście lat, do zmiany nazwiska jest potrzeb§ 3. Jeżeli ojcostwa nie ustalono, dziecko nosi nazwisko matki.
 
-§ 4. Dziecku nieznanych rodziców nazwisko nadaje sàd opiekuƒczy.”;
+§ 4. Dziecku nieznanych rodziców nazwisko nadaje sąd opiekuńczy.”;
 
-- **8)** po art. 89 dodaje si´ art. 89 na jego zgoda. wbrzmieniu: „Art. 89 . Dzieci pochodzàce od tych samych rodziców noszà takie samo nazwisko, zzastrze˝eniem przepisów, które do zmiany nazwiska dziecka wymagajà jego zgody.”;
-- **9)** art. 90 otrzymuje brzmienie: „Art. 90. § 1. Je˝eli matka ma∏oletniego dziecka zawar∏a ma∏˝eƒstwo z m´˝czyznà, który nie jest ojcem tego dziecka, ma∏˝onkowie mogà z∏o˝yç przed kierownikiem urz´du stanu cywilnego zgodne oÊwiadczenia, ˝e dziecko b´dzie nosiç takie samo nazwisko, jakie zgodnie z art. 88 nosi albo nosi∏oby ich wspólne dziecko. Do zmiany nazwiska dziecka, które ukoƒczy∏o trzynaÊcie lat, jest potrzebna jego zgoda.
+- **8)** po art. 89 dodaje się art. 89 na jego zgoda. wbrzmieniu: ŃArt. 89 . Dzieci pochodzące od tych samych rodziców noszą takie samo nazwisko, zzastrzeżeniem przepisów, które do zmiany nazwiska dziecka wymagają jego zgody.”;
+- **9)** art. 90 otrzymuje brzmienie: ŃArt. 90. § 1. Jeżeli matka małoletniego dziecka zawarła małżeństwo z mężczyzną, który nie jest ojcem tego dziecka, małżonkowie mogą złożyć przed kierownikiem urzędu stanu cywilnego zgodne oświadczenia, że dziecko będzie nosić takie samo nazwisko, jakie zgodnie z art. 88 nosi albo nosiłoby ich wspólne dziecko. Do zmiany nazwiska dziecka, które ukończyło trzynaście lat, jest potrzebna jego zgoda.
 
-§ 2. Nadanie dziecku nazwiska, o którym mowa w § 1, nie jest dopuszczalne, je˝eli nosi ono nazwisko ojca albo nazwisko utworzone na podstawie zgodnych oÊwiadczeƒ rodziców dziecka przez po∏àczenie nazwiska matki znazwiskiem ojca dziecka.
+§ 2. Nadanie dziecku nazwiska, o którym mowa w § 1, nie jest dopuszczalne, jeżeli nosi ono nazwisko ojca albo nazwisko utworzone na podstawie zgodnych oświadczeń rodziców dziecka przez połączenie nazwiska matki znazwiskiem ojca dziecka.
 
-§ 3. Przepisy § 1 i2 stosuje si´ odpowiednio, gdy ojciec ma∏oletniego dziecka zawar∏ ma∏˝eƒstwo z kobietà, która nie jest matkà tego dziecka.”;
+§ 3. Przepisy § 1 i2 stosuje się odpowiednio, gdy ojciec małoletniego dziecka zawarł małżeństwo z kobietą, która nie jest matką tego dziecka.”;
 
-- **10)** po art. 90 dodaje si´ art. 90 wbrzmieniu: „Art. 90 . Nazwisko dziecka utworzone przez po∏àczenie nazwiska matki z nazwiskiem ojca dziecka albo przez po∏àczenie nazwiska jednego zrodziców znazwiskiem jego ma∏˝onka, od którego dziecko nie pochodzi, nie mo˝e sk∏adaç si´ zwi´cej ni˝ dwóch cz∏onów; wsk∏ad nazwiska dziecka wchodzà pierwsze cz∏ony nazwisk podlegajàcych po∏àczeniu, chyba ˝e wwyniku po∏àczenia powsta∏oby nazwisko, którego cz∏ony sà jednakowe.”;
-- **11)** wart. 93 § 2 otrzymuje brzmienie: „§ 2. Je˝eli wymaga tego dobro dziecka, sàd w wyroku ustalajàcym pochodzenie dziecka mo˝e orzec o zawieszeniu, ograniczeniu lub pozbawieniu w∏adzy rodzicielskiej jednego lub obojga rodziców. Przepisy art. 107 iart.109—111 stosuje si´ odpowiednio.”;
-- **12)** wart. 94 uchyla si´ § 2;
+- **10)** po art. 90 dodaje się art. 90 wbrzmieniu: ŃArt. 90 . Nazwisko dziecka utworzone przez połączenie nazwiska matki z nazwiskiem ojca dziecka albo przez połączenie nazwiska jednego zrodziców znazwiskiem jego małżonka, od którego dziecko nie pochodzi, nie może składać się zwięcej niż dwóch członów; wskład nazwiska dziecka wchodzą pierwsze człony nazwisk podlegających połączeniu, chyba że wwyniku połączenia powstałoby nazwisko, którego człony są jednakowe.”;
+- **11)** wart. 93 § 2 otrzymuje brzmienie: Ń§ 2. Jeżeli wymaga tego dobro dziecka, sąd w wyroku ustalającym pochodzenie dziecka może orzec o zawieszeniu, ograniczeniu lub pozbawieniu władzy rodzicielskiej jednego lub obojga rodziców. Przepisy art. 107 iart.109—111 stosuje się odpowiednio.”;
+- **12)** wart. 94 uchyla się § 2;
 - **13)** wart. 95:
-    - **a)** § 1 i2 otrzymujà brzmienie: „§ 1. W∏adza rodzicielska obejmuje w szczególnoÊci obowiàzek iprawo rodziców do wykonywania pieczy nad osobà i majàtkiem dziecka oraz do wychowania dziecka, zposzanowaniem jego godnoÊci ipraw.
+    - **a)** § 1 i2 otrzymują brzmienie: Ń§ 1. Władza rodzicielska obejmuje w szczególności obowiązek iprawo rodziców do wykonywania pieczy nad osobą i majątkiem dziecka oraz do wychowania dziecka, zposzanowaniem jego godności ipraw.
 
-§ 2. Dziecko pozostajàce pod w∏adzà rodzicielskà winno rodzicom pos∏uszeƒstwo, awsprawach, wktórych mo˝e samodzielnie podejmowaç decyzje isk∏adaç oÊwiadczenia woli, powinno wys∏uchaç opinii i zaleceƒ rodziców formu∏owanych dla jego dobra.”,
+§ 2. Dziecko pozostające pod władzą rodzicielską winno rodzicom posłuszeństwo, awsprawach, wktórych może samodzielnie podejmować decyzje iskładać oświadczenia woli, powinno wysłuchać opinii i zaleceń rodziców formułowanych dla jego dobra.”,
 
-- **b)** po § 3 dodaje si´ § 4 wbrzmieniu: „§ 4. Rodzice przed powzi´ciem decyzji w wa˝niejszych sprawach dotyczàcych osoby lub majàtku dziecka powinni je wys∏uchaç, je˝eli rozwój umys∏owy, stan zdrowia i stopieƒ dojrza∏oÊci dziecka na to pozwala, oraz uwzgl´dniç wmiar´ mo˝liwoÊci jego rozsàdne ˝yczenia.”;
-- **14)** wart. 96 dotychczasowà treÊç oznacza si´ jako § 1 idodaje si´ § 2 wbrzmieniu: „§ 2. Rodzice, którzy nie majà pe∏nej zdolnoÊci do czynnoÊci prawnych uczestniczà w sprawomoÊci, pieni´dzy i papierów wartoÊciowych, których dziecko lub rodzice mogà dokonywaç ka˝dego roku bez zezwolenia sàdu opiekuƒczego, zzastrze˝eniem art. 103.”;
-- **17)** art. 106 i107 otrzymujà brzmienie: „Art. 106. Je˝eli wymaga tego dobro dziecka, sàd opiekuƒczy mo˝e zmieniç orzeczenie o w∏adzy rodzicielskiej i sposobie jej wykonywania zawarte w wyroku orzekajàcym rozwód, separacj´ bàdê uniewa˝nienie ma∏˝eƒstwa, albo ustalajàcym pochodzenie dziecka.
+- **b)** po § 3 dodaje się § 4 wbrzmieniu: Ń§ 4. Rodzice przed powzięciem decyzji w ważniejszych sprawach dotyczących osoby lub majątku dziecka powinni je wysłuchać, jeżeli rozwój umysłowy, stan zdrowia i stopień dojrzałości dziecka na to pozwala, oraz uwzględnić wmiarę możliwości jego rozsądne życzenia.”;
+- **14)** wart. 96 dotychczasową treść oznacza się jako § 1 idodaje się § 2 wbrzmieniu: Ń§ 2. Rodzice, którzy nie mają pełnej zdolności do czynności prawnych uczestniczą w sprawomości, pieniędzy i papierów wartościowych, których dziecko lub rodzice mogą dokonywać każdego roku bez zezwolenia sądu opiekuńczego, zzastrzeżeniem art. 103.”;
+- **17)** art. 106 i107 otrzymują brzmienie: ŃArt. 106. Jeżeli wymaga tego dobro dziecka, sąd opiekuńczy może zmienić orzeczenie o władzy rodzicielskiej i sposobie jej wykonywania zawarte w wyroku orzekającym rozwód, separację bądê unieważnienie małżeństwa, albo ustalającym pochodzenie dziecka.
 
 **Art. 107.**
 
-§ 1. Je˝eli w∏adza rodzicielska przys∏uguje obojgu rodzicom ˝yjàcym wroz∏àczeniu, sàd opiekuƒczy mo˝e ze wzgl´du na dobro dziecka okreÊliç sposób jej wykonywania.
+§ 1. Jeżeli władza rodzicielska przysługuje obojgu rodzicom żyjącym wrozłączeniu, sąd opiekuńczy może ze względu na dobro dziecka określić sposób jej wykonywania.
 
-§ 2. Sàd mo˝e powierzyç wykonywanie w∏adzy rodzicielskiej jednemu z rodziców, ograniczajàc w∏adz´ rodzicielskà drugiego do okreÊlonych waniu bie˝àcej pieczy nad osobà dziecka obowiàzków i uprawnieƒ w stosuniwjego wychowaniu, chyba ˝e sàd opiekuƒ- ku do osoby dziecka. Sàd mo˝e poczy ze wzgl´du na dobro dziecka postanowi zostawiç w∏adz´ rodzicielskà obojgu inaczej.”; rodzicom, je˝eli przedstawili zgodne z dobrem dziecka porozumienie
+§ 2. Sąd może powierzyć wykonywanie władzy rodzicielskiej jednemu z rodziców, ograniczając władzę rodzicielską drugiego do określonych waniu bieżącej pieczy nad osobą dziecka obowiązków i uprawnień w stosuniwjego wychowaniu, chyba że sąd opiekuń- ku do osoby dziecka. Sąd może poczy ze względu na dobro dziecka postanowi zostawić władzę rodzicielską obojgu inaczej.”; rodzicom, jeżeli przedstawili zgodne z dobrem dziecka porozumienie
 
-- **15)** art. 100 otrzymuje brzmienie: osposobie wykonywania w∏adzy ro„Art. 100. § 1. Sàd opiekuƒczy i inne organy w∏a- dzicielskiej i utrzymywaniu kontakdzy publicznej sà obowiàzane tów zdzieckiem, ijest zasadne oczeudzielaç pomocy rodzicom, je˝eli kiwanie, ˝e b´dà wspó∏dzia∏aç jest ona potrzebna do nale˝ytego w sprawach dziecka. Rodzeƒstwo wykonywania w∏adzy rodzicielskiej. powinno wychowywaç si´ wspólnie, W szczególnoÊci ka˝de z rodziców chyba ˝e dobro dziecka wymaga inmo˝e zwróciç si´ do sàdu opiekuƒ- nego rozstrzygni´cia.”; czego o odebranie dziecka od osoby nieuprawnionej, a tak˝e zwróciç 18) wart. 109: si´ do sàdu opiekuƒczego lub inne- a) w§ 2 pkt 1 otrzymuje brzmienie: go w∏aÊciwego organu w∏adzy publicznej o zapewnienie dziecku „1) zobowiàzaç rodziców oraz ma∏oletniego do pieczy zast´pczej. okreÊlonego post´powania lub skierowaç § 2. W wypadkach, o których mowa rodziców do placówek albo specjalistów zajw§1, sàd opiekuƒczy lub inne orga- mujàcych si´ terapià rodzinnà, poradnicny w∏adzy publicznej zawiadamiajà twem lub Êwiadczàcych rodzinie innà stojednostk´ organizacyjnà pomocy sownà pomoc z jednoczesnym wskazaniem spo∏ecznej o potrzebie udzielenia sposobu kontroli wykonania wydanych zarodzinie dziecka odpowiedniej po- rzàdzeƒ,”, mocy. Jednostka organizacyjna po- b) § 4 otrzymuje brzmienie: mocy spo∏ecznej jest obowiàzana „§ 4. W wypadku, o którym mowa w § 2 pkt 5, informowaç sàd o rodzajach udzie- sàd opiekuƒczy zawiadamia o wydaniu lanej pomocy ijej rezultatach”; orzeczenia w∏aÊciwà jednostk´ organiza16) art. 104 otrzymuje brzmienie: cyjnà pomocy spo∏ecznej, która udziela rodzinie dziecka odpowiedniej pomocy isk∏a„Art. 104. § 1. Sàd opiekuƒczy mo˝e nakazaç rodzi- da sàdowi opiekuƒczemu sprawozdania com, ˝eby sporzàdzili inwentarz ma- dotyczàce sytuacji rodziny i udzielanej pojàtku dziecka iprzedstawili go sàdo- mocy, w terminach okreÊlonych przez sàd, wi oraz zawiadamiali sàd owa˝niejszych zmianach w stanie tego majàtku, w szczególnoÊci o nabyciu przez dziecko przedmiotów majàtkowych oznacznej wartoÊci.
+- **15)** art. 100 otrzymuje brzmienie: osposobie wykonywania władzy roŃArt. 100. § 1. Sąd opiekuńczy i inne organy wła- dzicielskiej i utrzymywaniu kontakdzy publicznej są obowiązane tów zdzieckiem, ijest zasadne oczeudzielać pomocy rodzicom, jeżeli kiwanie, że będą współdziałać jest ona potrzebna do należytego w sprawach dziecka. Rodzeństwo wykonywania władzy rodzicielskiej. powinno wychowywać się wspólnie, W szczególności każde z rodziców chyba że dobro dziecka wymaga inmoże zwrócić się do sądu opiekuń- nego rozstrzygnięcia.”; czego o odebranie dziecka od osoby nieuprawnionej, a także zwrócić 18) wart. 109: się do sądu opiekuńczego lub inne- a) w§ 2 pkt 1 otrzymuje brzmienie: go właściwego organu władzy publicznej o zapewnienie dziecku Ń1) zobowiązać rodziców oraz małoletniego do pieczy zastępczej. określonego postępowania lub skierować § 2. W wypadkach, o których mowa rodziców do placówek albo specjalistów zajw§1, sąd opiekuńczy lub inne orga- mujących się terapią rodzinną, poradnicny władzy publicznej zawiadamiają twem lub świadczących rodzinie inną stojednostkę organizacyjną pomocy sowną pomoc z jednoczesnym wskazaniem społecznej o potrzebie udzielenia sposobu kontroli wykonania wydanych zarodzinie dziecka odpowiedniej po- rządzeń,”, mocy. Jednostka organizacyjna po- b) § 4 otrzymuje brzmienie: mocy społecznej jest obowiązana Ń§ 4. W wypadku, o którym mowa w § 2 pkt 5, informować sąd o rodzajach udzie- sąd opiekuńczy zawiadamia o wydaniu lanej pomocy ijej rezultatach”; orzeczenia właściwą jednostkę organiza16) art. 104 otrzymuje brzmienie: cyjną pomocy społecznej, która udziela rodzinie dziecka odpowiedniej pomocy iskłaŃArt. 104. § 1. Sąd opiekuńczy może nakazać rodzi- da sądowi opiekuńczemu sprawozdania com, żeby sporządzili inwentarz ma- dotyczące sytuacji rodziny i udzielanej pojątku dziecka iprzedstawili go sądo- mocy, w terminach określonych przez sąd, wi oraz zawiadamiali sąd oważniejszych zmianach w stanie tego majątku, w szczególności o nabyciu przez dziecko przedmiotów majątkowych oznacznej wartości.
 
-§ 2. Sàd opiekuƒczy mo˝e wuzasadnionych wypadkach ustaliç wartoÊç rozporzàdzeƒ dotyczàcych ruchoa tak˝e wspó∏pracuje z kuratorem sàdowym. Sàd opiekuƒczy, ze wzgl´du na okolicznoÊci uzasadniajàce umieszczenie ma∏oletniego wrodzinie zast´pczej albo wplacówce opiekuƒczo-wychowawczej, mo˝e tak˝e ustanowiç nadzór kuratora sàdowego nad sposobem wykonywania w∏adzy rodzicielskiej nad ma∏oletnim.”;
+§ 2. Sąd opiekuńczy może wuzasadnionych wypadkach ustalić wartość rozporządzeń dotyczących ruchoa także współpracuje z kuratorem sądowym. Sąd opiekuńczy, ze względu na okoliczności uzasadniające umieszczenie małoletniego wrodzinie zastępczej albo wplacówce opiekuńczo-wychowawczej, może także ustanowić nadzór kuratora sądowego nad sposobem wykonywania władzy rodzicielskiej nad małoletnim.”;
 
-- **19)** art. 112 otrzymuje brzmienie: „Art. 112. Pozbawienie w∏adzy rodzicielskiej lub jej zawieszenie mo˝e byç orzeczone tak˝e w wyroku orzekajàcym rozwód, separacj´ albo uniewa˝nienie ma∏˝eƒstwa.”;
-- **20)** art. 112 otrzymuje brzmienie: „Art. 112 . § 1. Obowiàzek i prawo wykonywania bie˝àcej pieczy nad osobà dziecka umieszczonego w rodzinie zast´pczej albo w placówce opiekuƒczo-wychowawczej, jego wychowania i reprezentowania w tych sprawach, a w szczególnoÊci w dochodzeniu Êwiadczeƒ alimentacyjnych, nale˝à do rodziny zast´pczej albo placówki opiekuƒczo-wychowawczej. Pozosta∏e obowiàzki i prawa wynikajàce z w∏adzy rodzicielskiej nale˝à do rodziców dziecka.
+- **19)** art. 112 otrzymuje brzmienie: ŃArt. 112. Pozbawienie władzy rodzicielskiej lub jej zawieszenie może być orzeczone także w wyroku orzekającym rozwód, separację albo unieważnienie małżeństwa.”;
+- **20)** art. 112 otrzymuje brzmienie: ŃArt. 112 . § 1. Obowiązek i prawo wykonywania bieżącej pieczy nad osobą dziecka umieszczonego w rodzinie zastępczej albo w placówce opiekuńczo-wychowawczej, jego wychowania i reprezentowania w tych sprawach, a w szczególności w dochodzeniu świadczeń alimentacyjnych, należą do rodziny zastępczej albo placówki opiekuńczo-wychowawczej. Pozostałe obowiązki i prawa wynikające z władzy rodzicielskiej należą do rodziców dziecka.
 
-§ 2. Przepisu § 1 nie stosuje si´, je˝eli sàd opiekuƒczy postanowi∏ inaczej.”;
+§ 2. Przepisu § 1 nie stosuje się, jeżeli sąd opiekuńczy postanowił inaczej.”;
 
-- **21)** po art. 112 dodaje si´ wyrazy „Oddzia∏ 3. Kontakty zdzieckiem”;
-- **22)** art. 113 otrzymuje brzmienie: „Art. 113. § 1. Niezale˝nie od w∏adzy rodzicielskiej rodzice oraz ich dziecko majà prawo i obowiàzek utrzymywania ze sobà kontaktów.
+- **21)** po art. 112 dodaje się wyrazy ŃOddział 3. Kontakty zdzieckiem”;
+- **22)** art. 113 otrzymuje brzmienie: ŃArt. 113. § 1. Niezależnie od władzy rodzicielskiej rodzice oraz ich dziecko mają prawo i obowiązek utrzymywania ze sobą kontaktów.
 
-§ 2. Kontakty z dzieckiem obejmujà w szczególnoÊci przebywanie zdzieckiem (odwiedziny, spotkania, zabieranie dziecka poza miejsce jego sta∏ego pobytu) i bezpoÊrednie porozumiewanie si´, utrzymywanie korespondencji, korzystanie z innych Êrodków porozumiewania si´ na odleg∏oÊç, wtym ze Êrodków komunikacji elektronicznej.”;
+§ 2. Kontakty z dzieckiem obejmują w szczególności przebywanie zdzieckiem (odwiedziny, spotkania, zabieranie dziecka poza miejsce jego stałego pobytu) i bezpośrednie porozumiewanie się, utrzymywanie korespondencji, korzystanie z innych środków porozumiewania się na odległość, wtym ze środków komunikacji elektronicznej.”;
 
-- **23)** po art. 113 dodaje si´ art. 113 —113 wbrzmieniu: „Art. 113 . § 1. Je˝eli dziecko przebywa stale ujednego z rodziców, sposób utrzymywania kontaktów zdzieckiem przez drugiego z nich rodzice okreÊlajà wspólnie, kierujàc si´ dobrem dziecka i bioràc pod uwag´ jego rozsàdne ˝yczenia; wbraku porozumienia rozstrzyga sàd opiekuƒczy.
+- **23)** po art. 113 dodaje się art. 113 —113 wbrzmieniu: ŃArt. 113 . § 1. Jeżeli dziecko przebywa stale ujednego z rodziców, sposób utrzymywania kontaktów zdzieckiem przez drugiego z nich rodzice określają wspólnie, kierując się dobrem dziecka i biorąc pod uwagę jego rozsądne życzenia; wbraku porozumienia rozstrzyga sąd opiekuńczy.
 
-§ 2. Przepisy § 1 stosuje si´ odpowiednio, je˝eli dziecko nie przebywa u˝adnego zrodziców, apiecz´ nad nim sprawuje opiekun lub gdy zosta∏o umieszczone w rodzinie zast´pczej albo wplacówce opiekuƒczo-wychowawczej.
+§ 2. Przepisy § 1 stosuje się odpowiednio, jeżeli dziecko nie przebywa użadnego zrodziców, apieczę nad nim sprawuje opiekun lub gdy zostało umieszczone w rodzinie zastępczej albo wplacówce opiekuńczo-wychowawczej.
 
 **Art. 113².**
 
-§ 1. Je˝eli wymaga tego dobro dziecka, sàd opiekuƒczy ograniczy utrzymywanie kontaktów rodziców zdzieckiem.
+§ 1. Jeżeli wymaga tego dobro dziecka, sąd opiekuńczy ograniczy utrzymywanie kontaktów rodziców zdzieckiem.
 
-§ 2. Sàd opiekuƒczy mo˝e w szczegól1) zakazaç spotykania si´ z dzieckiem,
+§ 2. Sąd opiekuńczy może w szczegól1) zakazać spotykania się z dzieckiem,
 
-- **2)** zakazaç zabierania dziecka poza miejsce jego sta∏ego pobytu,
-- **3)** zezwoliç na spotykanie si´ z dzieckiem tylko w obecnoÊci drugiego z rodziców albo opiekuna, kuratora sàdowego lub innej osoby wskazanej przez sàd,
-- **4)** ograniczyç kontakty do okreÊlonych sposobów porozumiewania si´ na odleg∏oÊç,
-- **5)** zakazaç porozumiewania si´ na odleg∏oÊç. Art. 113 noÊci: . Je˝eli utrzymywanie kontaktów rodziców z dzieckiem powa˝nie zagra˝a dobru dziecka lub je narusza, sàd zaka˝e ich utrzymywania.
+- **2)** zakazać zabierania dziecka poza miejsce jego stałego pobytu,
+- **3)** zezwolić na spotykanie się z dzieckiem tylko w obecności drugiego z rodziców albo opiekuna, kuratora sądowego lub innej osoby wskazanej przez sąd,
+- **4)** ograniczyć kontakty do określonych sposobów porozumiewania się na odległość,
+- **5)** zakazać porozumiewania się na odległość. Art. 113 ności: . Jeżeli utrzymywanie kontaktów rodziców z dzieckiem poważnie zagraża dobru dziecka lub je narusza, sąd zakaże ich utrzymywania.
 
-**Art. 113⁴.** Sàd opiekuƒczy, orzekajàc w sprawie kontaktów zdzieckiem, mo˝e zobowiàzaç rodziców do okreÊlonego post´powania, w szczególnoÊci skierowaç ich do placówek lub specjalistów zajmujàcych si´ terapià rodzinnà, poradnictwem lub Êwiadczàcych rodzinie innà stosownà pomoc z jednoczesnym wskazaniem sposobu kontroli wykonania wydanych zarzàdzeƒ.
+**Art. 113⁴.** Sąd opiekuńczy, orzekając w sprawie kontaktów zdzieckiem, może zobowiązać rodziców do określonego postępowania, w szczególności skierować ich do placówek lub specjalistów zajmujących się terapią rodzinną, poradnictwem lub świadczących rodzinie inną stosowną pomoc z jednoczesnym wskazaniem sposobu kontroli wykonania wydanych zarządzeń.
 
-**Art. 113⁵.** Sàd opiekuƒczy mo˝e zmieniç rozstrzygni´cie w sprawie kontaktów, je˝eli wymaga tego dobro dziecka.
+**Art. 113⁵.** Sąd opiekuńczy może zmienić rozstrzygnięcie w sprawie kontaktów, jeżeli wymaga tego dobro dziecka.
 
-**Art. 113⁶.** Przepisy niniejszego oddzia∏u stosuje si´ odpowiednio do kontaktów rodzeƒstwa, dziadków, powinowatych w linii prostej, a tak˝e innych osób, je˝eli sprawowa∏y one przez d∏u˝szy czas piecz´ nad dzieckiem.”;
+**Art. 113⁶.** Przepisy niniejszego oddziału stosuje się odpowiednio do kontaktów rodzeństwa, dziadków, powinowatych w linii prostej, a także innych osób, jeżeli sprawowały one przez dłuższy czas pieczę nad dzieckiem.”;
 
-**Art. 2.** Wustawie zdnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 16, poz. 93, z póên. zm. ) art.680 otrzymuje brzmienie: „Art. 680 . § 1. Ma∏˝onkowie sà najemcami lokalu bez wzgl´du na istniejàce mi´dzy nimi stosunki majàtkowe, je˝eli nawiàzanie stosunku najmu lokalu majàcego s∏u˝yç zaspokojeniu potrzeb mieszkaniowych za∏o˝onej przez nich rodziny nastàpi∏o w czasie trwania ma∏˝eƒstwa. Je˝eli mi´dzy ma∏˝onkami istnieje rozdzielnoÊç majàtkowa albo rozdzielnoÊç majàtkowa z wyrównaniem dorobków do wspólnoÊci najmu stosuje si´ odpowiednio przepisy owspólnoÊci ustawowej.
+**Art. 2.** Wustawie zdnia 23 kwietnia 1964 r. Kodeks cywilny (Dz. U. 16, poz. 93, z póên. zm. ) art.680 otrzymuje brzmienie: ŃArt. 680 . § 1. Małżonkowie są najemcami lokalu bez względu na istniejące między nimi stosunki majątkowe, jeżeli nawiązanie stosunku najmu lokalu mającego służyć zaspokojeniu potrzeb mieszkaniowych założonej przez nich rodziny nastąpiło w czasie trwania małżeństwa. Jeżeli między małżonkami istnieje rozdzielność majątkowa albo rozdzielność majątkowa z wyrównaniem dorobków do wspólności najmu stosuje się odpowiednio przepisy owspólności ustawowej.
 
-**Art. 3.** Wustawie zdnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. 43, poz. 296, zpóên. zm. spraw o ustalenie lub zaprzeczenie pochodzenia dziecka, o ustalenie bezskutecznoÊci uznania ojcostwa oraz o rozwiàzanie przysposobienia,”,
+**Art. 3.** Wustawie zdnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, zpóên. zm. spraw o ustalenie lub zaprzeczenie pochodzenia dziecka, o ustalenie bezskuteczności uznania ojcostwa oraz o rozwiązanie przysposobienia,”,
 
-**Art. 4.** Wustawie zdnia 29 wrzeÊnia 1986 r. Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. 161, poz. 1688, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 4.** Wustawie zdnia 29 września 1986 r. Prawo o aktach stanu cywilnego (Dz. U. z 2004 r. 161, poz. 1688, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 5.** Wustawie zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, z póên. zm. ) w art. 21 w ust. 1 po pkt79 dodaje si´ pkt 79a wbrzmieniu: „79a) wynagrodzenie za sprawowanie opieki przyznane przez sàd na podstawie art. 162 Kodeksu rodzinnego iopiekuƒczego,”.
+**Art. 5.** Wustawie zdnia 26 lipca 1991 r. opodatku dochodowym od osób fizycznych (Dz. U. z 2000 r. 14, poz. 176, z póên. zm. ) w art. 21 w ust. 1 po pkt79 dodaje się pkt 79a wbrzmieniu: Ń79a) wynagrodzenie za sprawowanie opieki przyznane przez sąd na podstawie art. 162 Kodeksu rodzinnego iopiekuńczego,”.
 
-**Art. 6.** Wustawie zdnia 12 marca 2004 r. opomocy spo∏ecznej (Dz. U. z2008 r. 115, poz. 728, Nr171, „9) wyp∏acanie wynagrodzenia za sprawowanie opieki.”,
+**Art. 6.** Wustawie zdnia 12 marca 2004 r. opomocy społecznej (Dz. U. z2008 r. 115, poz. 728, Nr171, Ń9) wypłacanie wynagrodzenia za sprawowanie opieki.”,
 
-**Art. 8.** Nie mo˝e byç ustanowiona opiekunem osoba, która zosta∏a pozbawiona praw rodzicielskich lub praw opiekuƒczych na podstawie przepisów obowiàzujàcych przed dniem wejÊcia w ˝ycie ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. 88, poz.553, zpóên. zm. ——————— ).
+**Art. 8.** Nie może być ustanowiona opiekunem osoba, która została pozbawiona praw rodzicielskich lub praw opiekuńczych na podstawie przepisów obowiązujących przed dniem wejścia w życie ustawy z dnia 6 czerwca 1997 r. Kodeks karny (Dz. U. 88, poz.553, zpóên. zm. ——————— ).
 
 **Art. 9.**
 
-1. Przepisy ustawy stosuje si´ do stosunków wniej unormowanych, chocia˝by powsta∏y przed dniem jej wejÊcia w˝ycie, zzastrze˝eniem ust. 2 i3.
+1. Przepisy ustawy stosuje się do stosunków wniej unormowanych, chociażby powstały przed dniem jej wejścia wżycie, zzastrzeżeniem ust. 2 i3.
 
-2. Do wszcz´tych przed dniem wejÊcia w ˝ycie ustawy spraw oustalenie lub zaprzeczenie pochodzenia dziecka, a tak˝e spraw o rozwód, separacj´ lub uniewa˝nienie ma∏˝eƒstwa stosuje si´ przepisy dotychczasowe. ———————
+2. Do wszczętych przed dniem wejścia w życie ustawy spraw oustalenie lub zaprzeczenie pochodzenia dziecka, a także spraw o rozwód, separację lub unieważnienie małżeństwa stosuje się przepisy dotychczasowe. ———————
 
-3. Do uznania dziecka, które nastàpi∏o przed dniem nie ojcostwa mo˝e nastàpiç w ciàgu 6 miesi´cy od wejÊcia w ˝ycie niniejszej ustawy, stosuje si´ dotych- dnia wejÊcia w˝ycie niniejszej ustawy. czasowe przepisy ouniewa˝nieniu uznania dziecka.
+3. Do uznania dziecka, które nastąpiło przed dniem nie ojcostwa może nastąpić w ciągu 6 miesięcy od wejścia w życie niniejszej ustawy, stosuje się dotych- dnia wejścia wżycie niniejszej ustawy. czasowe przepisy ounieważnieniu uznania dziecka.
 
-**Art. 10.** Ustawa wchodzi w˝ycie po up∏ywie 6 mie4. W stosunku do dziecka, które urodzi∏o si´ nie si´cy od dnia og∏oszenia. dawniej ni˝ osiemnaÊcie lat przed dniem wejÊcia w ˝ycie niniejszej ustawy i zmar∏o przed jej dniem wejÊcia w ˝ycie nie uzyskawszy pe∏noletnoÊci, uzna- Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 10.** Ustawa wchodzi wżycie po upływie 6 mie4. W stosunku do dziecka, które urodziło się nie sięcy od dnia ogłoszenia. dawniej niż osiemnaście lat przed dniem wejścia w życie niniejszej ustawy i zmarło przed jej dniem wejścia w życie nie uzyskawszy pełnoletności, uzna- Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

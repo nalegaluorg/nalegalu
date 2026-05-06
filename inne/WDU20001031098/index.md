@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 26 października 2000 r. o Polskim Rejestrze Statków.
 
 | Pole | Wartość |
 |---|---|
@@ -24,68 +24,75 @@ domain: null
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001031098) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1098/text.pdf) |
 
-1. Ustawa okreÊla sposób przekszta∏cenia przedsi´biorstwa paƒstwowego „Polski Rejestr Statków” wGdaƒsku wspó∏k´ akcyjnà, jej przedmiot icharakter dzia∏alnoÊci oraz organizacj´.
-2. 1. „Polski Rejestr Statków Spó∏ka Akcyjna” jest spó∏kà akcyjnà zsiedzibà wGdaƒsku.
-2. „Polski Rejestr Statków Spó∏ka Akcyjna” wykonuje zadania okreÊlone rozdziale 3, a jej przedsi´biorstwo ma charakter u˝ytecznoÊci publicznej.
-3. Ilekroç wustawie mowa jest o:
-1) rozumieç to nale˝y przedsi´biorstwo paƒstwowe „Polski Rejestr Statków” z siedzibà wGdaƒsku, Rozdzia∏ 2 Komercjalizacja iprywatyzacja
-4.Komercjalizacja iprywatyzacja nast´puje zasadach iwtrybie okreÊlonych wustawie zdnia 30 sierpnia 1996 r. o komercjalizacji prywatyzacji przedsi´biorstw paƒstwowych (Dz.U. 118, poz. 561 156, poz. 775, z 1997 r. 32, poz. 184, 98, poz. 603, 106, poz. 673, 121, poz. 770, 137, poz. 926 141, poz. 945, z 1998 r. 106, poz. 668, z1999 r. 40, poz. 400 iNr 101, poz. 1178 oraz z2000r.
-15, poz. 180, 26, poz. 306, 31, poz. 383, 60, poz. 703 84, poz. 948), chyba ˝e niniejsza ustawa stanowi inaczej.
-5. Komercjalizacji dokonuje minister w∏aÊciwy do spraw Skarbu Paƒstwa terminie nieprzekraczajàcym 3 miesi´cy od dnia wejÊcia ˝ycie ustawy.
+1. Ustawa określa sposób przekształcenia przedsiębiorstwa państwowego ŃPolski Rejestr Statków” wGdańsku współkę akcyjną, jej przedmiot icharakter działalności oraz organizację.
+2. 1. ŃPolski Rejestr Statków Spółka Akcyjna” jest spółką akcyjną zsiedzibą wGdańsku.
+2. ŃPolski Rejestr Statków Spółka Akcyjna” wykonuje zadania określone rozdziale 3, a jej przedsiębiorstwo ma charakter użyteczności publicznej.
+3. Ilekroć wustawie mowa jest o:
+1) rozumieć to należy przedsiębiorstwo państwowe ŃPolski Rejestr Statków” z siedzibą wGdańsku,
+4.Komercjalizacja iprywatyzacja następuje zasadach iwtrybie określonych wustawie zdnia 30 sierpnia 1996 r. o komercjalizacji prywatyzacji przedsiębiorstw państwowych (Dz.U. 118, poz. 561 156, poz. 775, z 1997 r. 32, poz. 184, 98, poz. 603, 106, poz. 673, 121, poz. 770, 137, poz. 926 141, poz. 945, z 1998 r. 106, poz. 668, z1999 r. 40, poz. 400 iNr 101, poz. 1178 oraz z2000r.
+15, poz. 180, 26, poz. 306, 31, poz. 383, 60, poz. 703 84, poz. 948), chyba że niniejsza ustawa stanowi inaczej.
+5. Komercjalizacji dokonuje minister właściwy do spraw Skarbu Państwa terminie nieprzekraczającym 3 miesięcy od dnia wejścia życie ustawy.
 USTAWA zdnia 26 paêdziernika 2000 r.
 oPolskim Rejestrze Statków.
-Êci nominalnej.
-2. Zbycie akcji, októrych mowa wart. 7, nast´puje nie póêniej ni˝ wterminie 6 miesi´cy od dnia komercjalizacji PRS.
-Rozdzia∏ 3 Cel iprzedmiot dzia∏alnoÊci
-9. Celem jest dzia∏anie rzecz bezpieczeƒstwa statków, bezpieczeƒstwa innych obiektów, znajdujàcych si´ nich osób ∏adunków oraz ochrony Êrodowiska morskiego.
-10. Przedmiotem dzia∏alnoÊci jest wszczególnoÊci:
+ści nominalnej.
+2. Zbycie akcji, októrych mowa wart. 7, następuje nie póêniej niż wterminie 6 miesięcy od dnia komercjalizacji PRS.
+9. Celem jest działanie rzecz bezpieczeństwa statków, bezpieczeństwa innych obiektów, znajdujących się nich osób ładunków oraz ochrony środowiska morskiego.
+10. Przedmiotem działalności jest wszczególności:
 1) klasyfikacja statków innych obiektów oraz wykonywanie nad nimi nadzoru technicznego,
-2) wykonywanie niezale˝nego nadzoru rzeczoznawczego,
-3) prowadzenie certyfikacji szkoleƒ, stosownie do obowiàzujàcych przepisów,
-4) prowadzenie wspomaganie badaƒ naukowych oraz eksperymentów.
-11. 1. SA, wzakresie dzia∏alnoÊci okreÊlonej art. 9 art. 10, prowadzi ksi´gi rejestrowe oraz opracowuje szczegó∏owe wymagania techniczne pod nazwà „Przepisy klasyfikacji ibudowy”.
-2. potwierdza, wformie stosownych Êwiadectw, spe∏nienie statki inne obiekty wymagaƒ przewidzianych normami krajowymi mi´dzynarodowymi.
-12. Techniczne rozstrzygni´cia wzakresie klasyfikacji statków innych obiektów sà ostateczne.
-13. Uprawnienia nie mogà naruszaç uprawnieƒ organów dozoru technicznego oraz organów administracji morskiej.
-Rozdzia∏ 4 Organizacja
-14. dzia∏a podstawie przepisów Kodeksu handlowego, chyba ˝e ustawa stanowi inaczej.
-4. Zbycie akcji nast´puje po cenie ich nabycia iwymaga zgody SA.
-5. Pracownicy, którzy nabyli akcje nieodp∏atnie, zasadach okreÊlonych ustawie, o której mowa wart.4, mogà je zbyç po cenie nominalnej. Prawo pierwokupu akcji przys∏uguje SA.
-6. Podwy˝szenie kapita∏u akcyjnego mo˝e nastàpiç tak˝e ze Êrodków zakumulowanych kapitale zapasowym.
-17. W∏adzami sà:
+2) wykonywanie niezależnego nadzoru rzeczoznawczego,
+3) prowadzenie certyfikacji szkoleń, stosownie do obowiązujących przepisów,
+4) prowadzenie wspomaganie badań naukowych oraz eksperymentów.
+11. 1. SA, wzakresie działalności określonej art. 9 art. 10, prowadzi księgi rejestrowe oraz opracowuje szczegółowe wymagania techniczne pod nazwą ŃPrzepisy klasyfikacji ibudowy”.
+2. potwierdza, wformie stosownych świadectw, spełnienie statki inne obiekty wymagań przewidzianych normami krajowymi międzynarodowymi.
+12. Techniczne rozstrzygnięcia wzakresie klasyfikacji statków innych obiektów są ostateczne.
+13. Uprawnienia nie mogą naruszać uprawnień organów dozoru technicznego oraz organów administracji morskiej.
+14. działa podstawie przepisów Kodeksu handlowego, chyba że ustawa stanowi inaczej.
+4. Zbycie akcji następuje po cenie ich nabycia iwymaga zgody SA.
+5. Pracownicy, którzy nabyli akcje nieodpłatnie, zasadach określonych ustawie, o której mowa wart.4, mogą je zbyć po cenie nominalnej. Prawo pierwokupu akcji przysługuje SA.
+6. Podwyższenie kapitału akcyjnego może nastąpić także ze środków zakumulowanych kapitale zapasowym.
+17. Władzami są:
 1) Walne Zgromadzenie,
 2) Rada Nadzorcza,
-3) Zarzàd.
-18. 1. Rada Nadzorcza, z wyjàtkiem pierwszej, sk∏ada si´ z7 cz∏onków. Cz∏onków Rady Nadzorczej wybiera Walne Zgromadzenie. W sk∏ad pierwszej Rady Nadzorczej wchodzi 2 cz∏onków delegowanych ministra w∏aÊciwego do spraw Skarbu Paƒstwa, 2 cz∏onków delegowanych ministra w∏aÊciwego do spraw gospodarki morskiej oraz 2 cz∏onków delegowanych pracowników SA.
-2. Do kompetencji Rady Nadzorczej nale˝y wszczególnoÊci:
-1) wnioskowanie o powo∏anie odwo∏anie cz∏onków Zarzàdu,
-2) opiniowanie kierunków rozwoju spó∏ki,
-3) opiniowanie projektów inwestycji spó∏ki,
-4) wyra˝anie zgody wsprawie zak∏adania ilikwidowania sta∏ych oddzia∏ów, filii iprzedstawicielstw oraz spó∏ek, októrych mowa wart. 15,
-5) opiniowanie wieloletnich umów owspó∏pracy.
-3. Funkcjonowanie szczegó∏owy zakres kompetencji Rady Nadzorczej okreÊla statut.
-19. Przychodami spó∏ki sà, szczególnoÊci, op∏aty pobierane za wykonane czynnoÊci, o mowa wart. 10, ustalane spó∏k´ wcenniku podstawie umów.
-20. Przychody z dzia∏alnoÊci przezna1099
+3) Zarząd.
+18. 1. Rada Nadzorcza, z wyjątkiem pierwszej, składa się z7 członków. Członków Rady Nadzorczej wybiera Walne Zgromadzenie. W skład pierwszej Rady Nadzorczej wchodzi 2 członków delegowanych ministra właściwego do spraw Skarbu Państwa, 2 członków delegowanych ministra właściwego do spraw gospodarki morskiej oraz 2 członków delegowanych pracowników SA.
+2. Do kompetencji Rady Nadzorczej należy wszczególności:
+1) wnioskowanie o powołanie odwołanie członków Zarządu,
+2) opiniowanie kierunków rozwoju spółki,
+3) opiniowanie projektów inwestycji spółki,
+4) wyrażanie zgody wsprawie zakładania ilikwidowania stałych oddziałów, filii iprzedstawicielstw oraz spółek, októrych mowa wart. 15,
+5) opiniowanie wieloletnich umów owspółpracy.
+3. Funkcjonowanie szczegółowy zakres kompetencji Rady Nadzorczej określa statut.
+19. Przychodami spółki są, szczególności, opłaty pobierane za wykonane czynności, o mowa wart. 10, ustalane spółkę wcenniku podstawie umów.
+20. Przychody z działalności przezna1099
 USTAWA zdnia 26 paêdziernika 2000 r.
-ogie∏dach towarowych.
-Rozdzia∏ 1 Przepisy ogólne
-1.Ustawa reguluje funkcjonowanie gie∏d towarowych obrót towarami gie∏dowymi, tym równie˝ zasady tworzenia, ustrój organizacyjny dzia∏alnoÊç gie∏d towarowych, gie∏dowych izb rozrachunkowych, dzia∏alnoÊç maklerów gie∏d towarowych, dzia∏alnoÊç towarowych domów maklerskich oraz nadzór nad tymi instytucjami.
-2. Ilekroç wustawie jest mowa o:
-1) gie∏dzie towarowej rozumie si´ to zespó∏ osób, urzàdzeƒ Êrodków technicznych zapewniajàcy wszystkim uczestnikom obrotu jednakowe warunki zawierania transakcji gie∏dowych oraz jednakowy dost´p tym samym czasie do informacji rynkowych, awszczególnoÊci do informacji okursach icenach towarów gie∏dowych oraz oobrotach towarami gie∏dowymi,
-2) towarach gie∏dowych rozumie si´ to dopuszczone do obrotu danej gie∏dzie towarowej:
+ogiełdach towarowych.
+1.Ustawa reguluje funkcjonowanie giełd towarowych obrót towarami giełdowymi, tym również zasady tworzenia, ustrój organizacyjny działalność giełd towarowych, giełdowych izb rozrachunkowych, działalność maklerów giełd towarowych, działalność towarowych domów maklerskich oraz nadzór nad tymi instytucjami.
+2. Ilekroć wustawie jest mowa o:
+1) giełdzie towarowej rozumie się to zespół osób, urządzeń środków technicznych zapewniający wszystkim uczestnikom obrotu jednakowe warunki zawierania transakcji giełdowych oraz jednakowy dostęp tym samym czasie do informacji rynkowych, awszczególności do informacji okursach icenach towarów giełdowych oraz oobrotach towarami giełdowymi,
+2) towarach giełdowych rozumie się to dopuszczone do obrotu danej giełdzie towarowej:
 a) oznaczone co do gatunku rzeczy,
-b) ró˝ne rodzaje energii,
-c) limity wielkoÊci produkcji,
-d) prawa majàtkowe, cena zale˝y bezpoÊrednio poÊrednio od oznaczonych co do gatunku rzeczy, okreÊlonych rodzajów energii, mierników ilimitów wielkoÊci produkcji,
-e) prawa majàtkowe, cena zale˝y bezpoÊrednio poÊrednio od kursów walut stóp procentowych,
-3) transakcji gie∏dowej rozumie si´ to umow´
-4)gie∏dowej izbie rozrachunkowej rozumie si´ to zespó∏ osób, urzàdzeƒ iÊrodków technicznych utworzony celu organizacji prowadzenia rozliczeƒ transakcji gie∏dowych,
-5) cz∏onku gie∏dy rozumie si´ to podmiot, który podstawie regulaminu gie∏dy towarowej dopuszczony jest do dokonywania imieniu w∏asnym transakcji gie∏dowych,
-6) dzia∏alnoÊci maklerskiej rozumie si´ to dzia∏alnoÊç wzakresie obrotu towarami gie∏dowymi, realizowanà gie∏dzie towarowej,
-7) maklerze niezale˝nym rozumie si´ to osob´ fizycznà, wpisanà list´ maklerów gie∏d towarowych, która jest cz∏onkiem gie∏dy towarowej izawiera transakcje gie∏dowe wimieniu w∏asnym ina w∏asny rachunek, warunkach okreÊlonych wustawie,
-8) towarowym domu maklerskim rozumie si´ to spó∏k´ akcyjnà z siedzibà terytorium Rzeczypospolitej Polskiej, prowadzàcà dzia∏alnoÊç maklerskà wzakresie obrotu towarami gie∏dowymi,
-9) domu maklerskim rozumie si´ to domy maklerskie ibanki prowadzàce dzia∏alnoÊç maklerskà podstawie ustawy Prawo o publicznym obrocie papierami wartoÊciowymi,
-10) tajemnicy zawodowej rozumie si´ to informacj´ zwiàzanà z gie∏dowym obrotem towarami gie∏dowymi, której ujawnienie mog∏oby naruszyç interes uczestników tego obrotu,
-11) podmiocie dominujàcym rozumie si´ to podmiot dominujàcy wrozumieniu ustawy Prawo opublicznym obrocie papierami wartoÊciowymi,
-12) Komisji rozumie si´ to Komisj´ Papierów
+b) różne rodzaje energii,
+c) limity wielkości produkcji,
+d) prawa majątkowe, cena zależy bezpośrednio pośrednio od oznaczonych co do gatunku rzeczy, określonych rodzajów energii, mierników ilimitów wielkości produkcji,
+e) prawa majątkowe, cena zależy bezpośrednio pośrednio od kursów walut stóp procentowych,
+3) transakcji giełdowej rozumie się to umowę
+4)giełdowej izbie rozrachunkowej rozumie się to zespół osób, urządzeń iśrodków technicznych utworzony celu organizacji prowadzenia rozliczeń transakcji giełdowych,
+5) członku giełdy rozumie się to podmiot, który podstawie regulaminu giełdy towarowej dopuszczony jest do dokonywania imieniu własnym transakcji giełdowych,
+6) działalności maklerskiej rozumie się to działalność wzakresie obrotu towarami giełdowymi, realizowaną giełdzie towarowej,
+7) maklerze niezależnym rozumie się to osobę fizyczną, wpisaną listę maklerów giełd towarowych, która jest członkiem giełdy towarowej izawiera transakcje giełdowe wimieniu własnym ina własny rachunek, warunkach określonych wustawie,
+8) towarowym domu maklerskim rozumie się to spółkę akcyjną z siedzibą terytorium Rzeczypospolitej Polskiej, prowadzącą działalność maklerską wzakresie obrotu towarami giełdowymi,
+9) domu maklerskim rozumie się to domy maklerskie ibanki prowadzące działalność maklerską podstawie ustawy Prawo o publicznym obrocie papierami wartościowymi,
+10) tajemnicy zawodowej rozumie się to informację związaną z giełdowym obrotem towarami giełdowymi, której ujawnienie mogłoby naruszyć interes uczestników tego obrotu,
+11) podmiocie dominującym rozumie się to podmiot dominujący wrozumieniu ustawy Prawo opublicznym obrocie papierami wartościowymi,
+12) Komisji rozumie się to Komisję Papierów
+
+#### Rozdział 1 Przepisy ogólne
+
+#### Rozdział 2 Komercjalizacja iprywatyzacja
+
+#### Rozdział 3 Cel iprzedmiot działalności
+
+#### Rozdział 4 Organizacja
+
+#### Rozdział 1 Przepisy ogólne
 

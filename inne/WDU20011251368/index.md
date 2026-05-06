@@ -24,1575 +24,1613 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011251368) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1368/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 17 czerwca 1966 r. opost´powaniu egzekucyjnym wadministracji (Dz. U. z1991r. 36, poz. 161, z1992 r. 20, poz. 78, z1993 r. 28, poz. 127, z 1995 r. 85, poz. 426, z 1996 r. 43, poz. 189 i 146, poz. 680, z 1997 r. 137, poz. 926 i 141, poz. 943 i 944, z 1998 r. 162, poz. 1126, z 2000 r. 114, poz. 1193, 120, poz. 1268 i 122, poz. 1315 orazz 2001 r. 76, poz. 809, 98, poz. 1068 i 123, poz. 1353) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 17 czerwca 1966 r. opostępowaniu egzekucyjnym wadministracji (Dz. U. z1991r. 36, poz. 161, z1992 r. 20, poz. 78, z1993 r. 28, poz. 127, z 1995 r. 85, poz. 426, z 1996 r. 43, poz. 189 i 146, poz. 680, z 1997 r. 137, poz. 926 i 141, poz. 943 i 944, z 1998 r. 162, poz. 1126, z 2000 r. 114, poz. 1193, 120, poz. 1268 i 122, poz. 1315 orazz 2001 r. 76, poz. 809, 98, poz. 1068 i 123, poz. 1353) wprowadza się następujące zmiany:
 
 **Art. 8.**
 
-§ 1. Nie podlegajà egzekucji administracyjnej:
+§ 1. Nie podlegają egzekucji administracyjnej:
 
-- **1)** przedmioty urzàdzenia domowego, poÊciel, bielizna iubranie niezb´dne dla zobowiàzanego i b´dàcych na jego utrzymaniu cz∏onków rodziny, atak˝e ubranie niezb´dne do pe∏nienia s∏u˝by lub wykonywania zawodu,
-- **2)** zapasy ˝ywnoÊci i opa∏u, niezb´dne dla zobowiàzanego i b´dàcych na jego utrzymaniu cz∏onków rodziny na okres 30 dni,
-- **3)** jedna krowa lub dwie kozy albo trzy owce, potrzebne do wy˝ywienia zobowiàzanego i b´dàcych na jego utrzymaniu cz∏onków rodziny, wraz zzapasem paszy iÊció∏ki do najbli˝szych zbiorów,
-- **4)** narz´dzia i inne przedmioty niezb´dne do pracy zarobkowej wykonywanej osobiÊcie przez zobowiàzanego, z wy∏àczeniem Êrodka transportu, oraz surowce niezb´dne do tej pracy na okres 7 dni,
-- **5)** przedmioty niezb´dne do pe∏nienia s∏u˝by przez zobowiàzanego lub do wykonywania przez niego zawodu,
-- **6)** pieniàdze wkwocie, która wdniu zastosowania Êrodka egzekucyjnego skierowanego do pieni´dzy odpowiada kwocie najni˝szego wynagrodzenia za prac´ okreÊlonego w odr´bnych przepisach,
-- **7)** wk∏ady oszcz´dnoÊciowe z∏o˝one wbankach na zasadach iwwysokoÊci okreÊlonej przepisami ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. 140, poz. 939, z 1998 r. 160, poz. 1063 i 162, poz. 1118, z 1999 r. 11, poz. 95 i 40, poz. 399, z 2000 r. 93, poz. 1027, 94, poz. 1037, 114, poz. 1191, 116, poz. 1216, 119, poz. 1252 i 122, poz. 1316 oraz z 2001 r. 8, poz. 64, 100, poz.1084 i 111, poz. 1195),
-- **8)** wk∏ady oszcz´dnoÊciowe z∏o˝one wspó∏dzielczych kasach oszcz´dnoÊciowo-kredytowych w wysokoÊci okreÊlonej przepisami ustawy zdnia 14 grudnia 1995 r. o spó∏dzielczych kasach oszcz´dnoÊciowo-kredytowych (Dz. U. z 1996 r. 1, poz. 2, z 1999 r. 101, poz. 1178 oraz z 2001 r. 8, poz. 64 i 100, poz.1081),
-- **9)** dokumenty osobiste, po jednej obràczce zobowiàzanego i jego wspó∏ma∏˝onka, wykonanej z metali szlachetnych, ordery i odznaczenia oraz przedmioty niezb´dne zobowiàzanemu icz∏onkom jego rodziny do nauki lub wykonywania praktyk religijnych, atak˝e przedmioty codziennego u˝ytku, które mogà byç sprzedane znacznie poni˝ej ich wartoÊci, a które dla zobowiàzanego majà znacznà wartoÊç u˝ytkowà,
-- **10)** kwoty otrzymane na pokrycie wydatków s∏u˝bowych, wtym kosztów podró˝y iwyjazdów,
+- **1)** przedmioty urządzenia domowego, pościel, bielizna iubranie niezbędne dla zobowiązanego i będących na jego utrzymaniu członków rodziny, atakże ubranie niezbędne do pełnienia służby lub wykonywania zawodu,
+- **2)** zapasy żywności i opału, niezbędne dla zobowiązanego i będących na jego utrzymaniu członków rodziny na okres 30 dni,
+- **3)** jedna krowa lub dwie kozy albo trzy owce, potrzebne do wyżywienia zobowiązanego i będących na jego utrzymaniu członków rodziny, wraz zzapasem paszy iściółki do najbliższych zbiorów,
+- **4)** narzędzia i inne przedmioty niezbędne do pracy zarobkowej wykonywanej osobiście przez zobowiązanego, z wyłączeniem środka transportu, oraz surowce niezbędne do tej pracy na okres 7 dni,
+- **5)** przedmioty niezbędne do pełnienia służby przez zobowiązanego lub do wykonywania przez niego zawodu,
+- **6)** pieniądze wkwocie, która wdniu zastosowania środka egzekucyjnego skierowanego do pieniędzy odpowiada kwocie najniższego wynagrodzenia za pracę określonego w odrębnych przepisach,
+- **7)** wkłady oszczędnościowe złożone wbankach na zasadach iwwysokości określonej przepisami ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. 140, poz. 939, z 1998 r. 160, poz. 1063 i 162, poz. 1118, z 1999 r. 11, poz. 95 i 40, poz. 399, z 2000 r. 93, poz. 1027, 94, poz. 1037, 114, poz. 1191, 116, poz. 1216, 119, poz. 1252 i 122, poz. 1316 oraz z 2001 r. 8, poz. 64, 100, poz.1084 i 111, poz. 1195),
+- **8)** wkłady oszczędnościowe złożone współdzielczych kasach oszczędnościowo-kredytowych w wysokości określonej przepisami ustawy zdnia 14 grudnia 1995 r. o spółdzielczych kasach oszczędnościowo-kredytowych (Dz. U. z 1996 r. 1, poz. 2, z 1999 r. 101, poz. 1178 oraz z 2001 r. 8, poz. 64 i 100, poz.1081),
+- **9)** dokumenty osobiste, po jednej obrączce zobowiązanego i jego współmałżonka, wykonanej z metali szlachetnych, ordery i odznaczenia oraz przedmioty niezbędne zobowiązanemu iczłonkom jego rodziny do nauki lub wykonywania praktyk religijnych, atakże przedmioty codziennego użytku, które mogą być sprzedane znacznie poniżej ich wartości, a które dla zobowiązanego mają znaczną wartość użytkową,
+- **10)** kwoty otrzymane na pokrycie wydatków służbowych, wtym kosztów podróży iwyjazdów,
 - **11)** kwoty otrzymane jako stypendia,
-- **12)** kwoty otrzymane z tytu∏u zasi∏ku sta∏ego, zasi∏ku sta∏ego wyrównawczego, renty socjalnej, gwarantowanego zasi∏ku okresowego, pomocy pieni´˝nej dla rodzin zast´pczych oraz pomocy dla uczàcych si´ i studiujàcych wychowanków placówek opiekuƒczo-wychowawczych i ro13) rzeczy niezb´dne ze wzgl´du na u∏omnoÊç fizycznà zobowiàzanego lub cz∏onków jego rodziny,
-- **14)** kwoty otrzymane z tytu∏u obowiàzkowych ubezpieczeƒ majàtkowych,
-- **15)** Êrodki pochodzàce zdotacji przyznanej zbud˝etu paƒstwa na okreÊlone cele iznajdujàce si´ na wyodr´bnionym rachunku bankowym prowadzonym dla obs∏ugi bankowej dotacji,
-- **16)** rzeczy s∏u˝àce wkoÊcio∏ach iinnych domach modlitwy do odprawiania nabo˝eƒstwa lub do wykonywania innych praktyk religijnych albo b´dàce obiektami kultu religijnego, choçby by∏y kosztownoÊciami lub dzie∏ami sztuki.
+- **12)** kwoty otrzymane z tytułu zasiłku stałego, zasiłku stałego wyrównawczego, renty socjalnej, gwarantowanego zasiłku okresowego, pomocy pieniężnej dla rodzin zastępczych oraz pomocy dla uczących się i studiujących wychowanków placówek opiekuńczo-wychowawczych i ro13) rzeczy niezbędne ze względu na ułomność fizyczną zobowiązanego lub członków jego rodziny,
+- **14)** kwoty otrzymane z tytułu obowiązkowych ubezpieczeń majątkowych,
+- **15)** środki pochodzące zdotacji przyznanej zbudżetu państwa na określone cele iznajdujące się na wyodrębnionym rachunku bankowym prowadzonym dla obsługi bankowej dotacji,
+- **16)** rzeczy służące wkościołach iinnych domach modlitwy do odprawiania nabożeństwa lub do wykonywania innych praktyk religijnych albo będące obiektami kultu religijnego, choćby były kosztownościami lub dziełami sztuki.
 
-§ 2. Za przedmioty niezb´dne zobowiàzanemu icz∏onkom jego rodziny, wrozumieniu § 1 pkt 1, nie uwa˝a si´ wszczedzin zast´pczych, gólnoÊci:
+§ 2. Za przedmioty niezbędne zobowiązanemu iczłonkom jego rodziny, wrozumieniu § 1 pkt 1, nie uważa się wszczedzin zastępczych, gólności:
 
 - **1)** mebli stylowych istylizowanych,
-- **2)** telewizorów do odbioru programu w kolorze, chyba ˝e zobowiàzany wyka˝e, ˝e od roku produkcji telewizora up∏yn´∏o wi´cej ni˝ 5 lat,
+- **2)** telewizorów do odbioru programu w kolorze, chyba że zobowiązany wykaże, że od roku produkcji telewizora upłynęło więcej niż 5 lat,
 - **3)** stereofonicznych radioodbiorników,
-- **4)** urzàdzeƒ s∏u˝àcych do nagrywania lub odtwarzania obrazu lub dêwi´ku,
-- **5)** komputerów i urzàdzeƒ peryferyjnych, chyba ˝e sà one niezb´dne zobowiàzanemu do pracy zarobkowej wykonywanej przez niego osobiÊcie,
+- **4)** urządzeń służących do nagrywania lub odtwarzania obrazu lub dêwięku,
+- **5)** komputerów i urządzeń peryferyjnych, chyba że są one niezbędne zobowiązanemu do pracy zarobkowej wykonywanej przez niego osobiście,
 - **6)** futer ze skór szlachetnych,
-- **7)** dywanów we∏nianych i ze skór naturalnych,
-- **8)** porcelany, szk∏a ozdobnego ikryszta∏ów,
-- **9)** sztuçców zmetali szlachetnych,
-- **10)** dzie∏ sztuki.”;
-- **9)** dodaje si´ art. 8awbrzmieniu: „Art. 8a. § 1. Je˝eli zobowiàzanym jest rolnik prowadzàcy gospodarstwo rolne, egzekucji nie podlegajà równie˝:
-- **1)** jeden koƒ wraz z uprz´˝à, jedna krowa, dwie kozy, jeden tryk idwie owce, jedna maciora oraz dziesi´ç sztuk drobiu,
-- **2)** jedna ja∏ówka lub cieliczka wprzypadku braku krowy,
-- **3)** zapasy paszy i Êció∏ki dla inwentarza, o którym mowa w pkt 1 i 2, a˝ do najbli˝szych zbiorów,
-- **4)** jeden p∏ug, jeden zespó∏ bron, jeden kultywator, jeden kierat, jedna sieczkarnia, jeden wóz, jedne sanie robocze,
-- **5)** zbo˝e lub inne ziemiop∏ody, niezb´dne do najbli˝szych siewów lub najbli˝szego sadzenia wgospodarstwie rolnym zobowiàzanego,
-- **6)** zwierz´ta gospodarskie w drugiej po∏owie okresu cià˝y i w okresie odchowu potomstwa oraz to potomstwo w okresie: êrebaki do 5 miesi´cy, ciel´ta do 4 miesi´cy, jagni´ta do 3 miesi´cy, prosi´ta do 2miesi´cy ikoêl´ta do 5 miesi´cy,
-- **7)** zakontraktowane zwierz´ta rzeêne, je˝eli ich waga nie odpowiada warunkom handlowym albo termin dostawy nie up∏ynà∏ lub nie up∏ywa w miesiàcu przeprowadzenia egzekucji,
-- **8)** jeden ciàgnik na 25 ha powierzchni gruntów, nie mniej jednak ni˝ jeden ciàgnik na gospodarstwo rolne, wraz z urzàdzeniami towarzyszàcymi niezb´dnymi do uprawy, piel´gnacji, zbioru itransportu ziemiop∏odów,
+- **7)** dywanów wełnianych i ze skór naturalnych,
+- **8)** porcelany, szkła ozdobnego ikryształów,
+- **9)** sztućców zmetali szlachetnych,
+- **10)** dzieł sztuki.”;
+- **9)** dodaje się art. 8awbrzmieniu: ŃArt. 8a. § 1. Jeżeli zobowiązanym jest rolnik prowadzący gospodarstwo rolne, egzekucji nie podlegają również:
+- **1)** jeden koń wraz z uprzężą, jedna krowa, dwie kozy, jeden tryk idwie owce, jedna maciora oraz dziesięć sztuk drobiu,
+- **2)** jedna jałówka lub cieliczka wprzypadku braku krowy,
+- **3)** zapasy paszy i ściółki dla inwentarza, o którym mowa w pkt 1 i 2, aż do najbliższych zbiorów,
+- **4)** jeden pług, jeden zespół bron, jeden kultywator, jeden kierat, jedna sieczkarnia, jeden wóz, jedne sanie robocze,
+- **5)** zboże lub inne ziemiopłody, niezbędne do najbliższych siewów lub najbliższego sadzenia wgospodarstwie rolnym zobowiązanego,
+- **6)** zwierzęta gospodarskie w drugiej połowie okresu ciąży i w okresie odchowu potomstwa oraz to potomstwo w okresie: êrebaki do 5 miesięcy, cielęta do 4 miesięcy, jagnięta do 3 miesięcy, prosięta do 2miesięcy ikoêlęta do 5 miesięcy,
+- **7)** zakontraktowane zwierzęta rzeêne, jeżeli ich waga nie odpowiada warunkom handlowym albo termin dostawy nie upłynął lub nie upływa w miesiącu przeprowadzenia egzekucji,
+- **8)** jeden ciągnik na 25 ha powierzchni gruntów, nie mniej jednak niż jeden ciągnik na gospodarstwo rolne, wraz z urządzeniami towarzyszącymi niezbędnymi do uprawy, pielęgnacji, zbioru itransportu ziemiopłodów,
 - **9)** jeden silnik elektryczny,
-- **10)** podstawowe maszyny i narz´dzia rolnicze wiloÊci niezb´dnej do pracy w gospodarstwie rolnym zobowiàzanego,
-- **11)** podstawowy sprz´t techniczny niezb´dny do zakoƒczenia cyklu danej technologii produkcji w gospodarstwie specjalistycznym zobowiàzanego,
-- **12)** zapasy paliwa i cz´Êci zamienne niezb´dne do normalnej pracy ciàgnika imaszyn rolniczych na okres do zakoƒczenia cyklu produkcyjnego,
-- **13)** nawozy oraz Êrodki ochrony roÊlin § 2. Egzekucji nie podlega ponadto nadwy˝ka inwentarza ˝ywego ponad iloÊci okreÊlone w § 1, je˝eli naczelnik urz´du skarbowego, po uzgodnieniu zzarzàdem gminy, uzna jà za niezb´dnà do prowadzenia tego gospodarstwa rolnego, ad∏u˝nik zobowià˝e si´ do sp∏acenia egzekwowanej nale˝noÊci w terminie lub w ratach okreÊlonych przez wierzyciela. W przypadku niedotrzymania przez zobowiàzanego warunków sp∏aty nale˝noÊci podj´te zostanà dalsze czynnoÊci egzekucyjne.
+- **10)** podstawowe maszyny i narzędzia rolnicze wilości niezbędnej do pracy w gospodarstwie rolnym zobowiązanego,
+- **11)** podstawowy sprzęt techniczny niezbędny do zakończenia cyklu danej technologii produkcji w gospodarstwie specjalistycznym zobowiązanego,
+- **12)** zapasy paliwa i części zamienne niezbędne do normalnej pracy ciągnika imaszyn rolniczych na okres do zakończenia cyklu produkcyjnego,
+- **13)** nawozy oraz środki ochrony roślin § 2. Egzekucji nie podlega ponadto nadwyżka inwentarza żywego ponad ilości określone w § 1, jeżeli naczelnik urzędu skarbowego, po uzgodnieniu zzarządem gminy, uzna ją za niezbędną do prowadzenia tego gospodarstwa rolnego, adłużnik zobowiąże się do spłacenia egzekwowanej należności w terminie lub w ratach określonych przez wierzyciela. W przypadku niedotrzymania przez zobowiązanego warunków spłaty należności podjęte zostaną dalsze czynności egzekucyjne.
 
-§ 3. W przypadku, o którym mowa w § 2, egzekucji nie podlega tak˝e taka iloÊç paszy, jaka jest niezb´dna do utrzymania inwentarza ˝ywego obj´tego wy∏àczeniem.
+§ 3. W przypadku, o którym mowa w § 2, egzekucji nie podlega także taka ilość paszy, jaka jest niezbędna do utrzymania inwentarza żywego objętego wyłączeniem.
 
-§ 4. Wy∏àcza si´ spod egzekucji zaj´te zwierz´ta gospodarskie, wpisane do ksiàg zwierzàt zarodowych albo uznawiloÊci niezb´dnej na dany rok gospodarczy dla gospodarstwa rolnego zobowiàzanego,
+§ 4. Wyłącza się spod egzekucji zajęte zwierzęta gospodarskie, wpisane do ksiąg zwierząt zarodowych albo uznawilości niezbędnej na dany rok gospodarczy dla gospodarstwa rolnego zobowiązanego,
 
-- **14)** stado u˝ytkowe kur niosek wokresie pierwszych 6 miesi´cy noÊnoÊci,
-- **15)** stado podstawowe zwierzàt futerkowych oraz zwierz´ta futerkowe, co do których hodowca zawar∏ umow´ kontraktacyjnà na dostaw´ skór ztych zwierzàt,
-- **16)** zapasy paszy i Êció∏ki dla inwentarza, o którym mowa w pkt 6, 7, 14 i15, a˝ do najbli˝szych zbiorów,
-- **17)** zapasy opa∏u na okres 6 miesi´cy,
-- **18)** zaliczki kontraktacyjne. ne za rozp∏odniki odpowiednie do dalszej hodowli, je˝eli nie mogà byç sprzedane osobie, która wyka˝e, ˝e posiada gospodarstwo rolne, w którym istniejà warunki do dalszej hodowli.
+- **14)** stado użytkowe kur niosek wokresie pierwszych 6 miesięcy nośności,
+- **15)** stado podstawowe zwierząt futerkowych oraz zwierzęta futerkowe, co do których hodowca zawarł umowę kontraktacyjną na dostawę skór ztych zwierząt,
+- **16)** zapasy paszy i ściółki dla inwentarza, o którym mowa w pkt 6, 7, 14 i15, aż do najbliższych zbiorów,
+- **17)** zapasy opału na okres 6 miesięcy,
+- **18)** zaliczki kontraktacyjne. ne za rozpłodniki odpowiednie do dalszej hodowli, jeżeli nie mogą być sprzedane osobie, która wykaże, że posiada gospodarstwo rolne, w którym istnieją warunki do dalszej hodowli.
 
-§ 5. WierzytelnoÊç pieni´˝na, przypadajàca rolnikowi ztytu∏u umowy kontraktacji, mo˝e byç zaj´ta egzekucyjnie do wysokoÊci 25% nale˝noÊci za dostarczony towar bez uwzgl´dnienia ewentualnych potràconych po˝yczek izaliczek kontraktacyjnych.
+§ 5. Wierzytelność pieniężna, przypadająca rolnikowi ztytułu umowy kontraktacji, może być zajęta egzekucyjnie do wysokości 25% należności za dostarczony towar bez uwzględnienia ewentualnych potrąconych pożyczek izaliczek kontraktacyjnych.
 
-§ 6. Przepis § 5 stosuje si´ odpowiednio do Êwiadczeƒ w naturze przypadajàcych rolnikowi z tytu∏u umowy kontraktacyjnej.”;
+§ 6. Przepis § 5 stosuje się odpowiednio do świadczeń w naturze przypadających rolnikowi z tytułu umowy kontraktacyjnej.”;
 
-- **10)** wart. 10 § 2 otrzymuje brzmienie: „§ 2. Przepis § 1 stosuje si´ odpowiednio do emerytur i rent otrzymywanych z zagranicy, po przeliczeniu ich przez d∏u˝nika zaj´tej wierzytelnoÊci na z∏ote wed∏ug kursu banku z dnia wp∏acenia do organu egzekucyjnego zaj´tych kwot.”;
-- **11)** skreÊla si´ art. 11;
-- **12)** art. 12 i13 otrzymujà brzmienie: „Art. 12. W przypadku gdy w wyniku zbiegu egzekucji administracyjnej iegzekucji sàdowej administracyjny organ egzekucyjny prowadzi obie egzekucje, przepisy art. 8—10 stosuje si´ równie˝ do nale˝noÊci podlegajàcych egzekucji sàdowej, chyba ˝e okreÊlone w przepisach Kodeksu post´powania cywilnego ograniczenia egzekucji sà mniejsze.
+- **10)** wart. 10 § 2 otrzymuje brzmienie: Ń§ 2. Przepis § 1 stosuje się odpowiednio do emerytur i rent otrzymywanych z zagranicy, po przeliczeniu ich przez dłużnika zajętej wierzytelności na złote według kursu banku z dnia wpłacenia do organu egzekucyjnego zajętych kwot.”;
+- **11)** skreśla się art. 11;
+- **12)** art. 12 i13 otrzymują brzmienie: ŃArt. 12. W przypadku gdy w wyniku zbiegu egzekucji administracyjnej iegzekucji sądowej administracyjny organ egzekucyjny prowadzi obie egzekucje, przepisy art. 8—10 stosuje się również do należności podlegających egzekucji sądowej, chyba że określone w przepisach Kodeksu postępowania cywilnego ograniczenia egzekucji są mniejsze.
 
 **Art. 13.**
 
-§ 1. Organ egzekucyjny, na wniosek zobowiàzanego i ze wzgl´du na wa˝ny jego interes, mo˝e zwolniç z egzekucji okreÊlone sk∏adniki majàtkowe zobowiàzanego, je˝eli zobowiàzany uzyska∏ na to zgod´ wierzyciela.
+§ 1. Organ egzekucyjny, na wniosek zobowiązanego i ze względu na ważny jego interes, może zwolnić z egzekucji określone składniki majątkowe zobowiązanego, jeżeli zobowiązany uzyskał na to zgodę wierzyciela.
 
-§ 2. Na postanowienie w sprawie zwolnienia z egzekucji sk∏adników majàtkowych zobowiàzanego s∏u˝y za˝alenie zobowiàzanemu i wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekucyjnym.”;
+§ 2. Na postanowienie w sprawie zwolnienia z egzekucji składników majątkowych zobowiązanego służy zażalenie zobowiązanemu i wierzycielowi niebędącemu jednocześnie organem egzekucyjnym.”;
 
-- **13)** wart. 14 § 4 otrzymuje brzmienie: „§ 4. W przypadku wàtpliwoÊci co do stosowania przepisów § 1—3 organ egzekucyjny zwraca si´ do ministra w∏aÊciwego do spraw zagranicznych, który rozstrzyga wdrodze postanowienia, czy zobowiàzany korzysta z immunitetów iprzywilejów, októrych mowa w§ 1.”;
-- **14)** art. 15 otrzymuje brzmienie: „Art. 15. § 1. Egzekucja administracyjna mo˝e byç wszcz´ta, je˝eli wierzyciel, po up∏ywie terminu do wykonania przez zobowiàzanego obowiàzku, przes∏a∏ mu pisemne upomnienie, zawierajàce wezwanie do wykonania obowiàzku z zagro˝eniem skierowania sprawy na drog´ post´powania egzekucyjnego, chyba ˝e przepisy szczególne inaczej stanowià. Post´powanie egzekucyjne mo˝e byç wszcz´te dopiero po up∏ywie 7 dni od dnia dor´czenia tego upomnienia.
+- **13)** wart. 14 § 4 otrzymuje brzmienie: Ń§ 4. W przypadku wątpliwości co do stosowania przepisów § 1—3 organ egzekucyjny zwraca się do ministra właściwego do spraw zagranicznych, który rozstrzyga wdrodze postanowienia, czy zobowiązany korzysta z immunitetów iprzywilejów, októrych mowa w§ 1.”;
+- **14)** art. 15 otrzymuje brzmienie: ŃArt. 15. § 1. Egzekucja administracyjna może być wszczęta, jeżeli wierzyciel, po upływie terminu do wykonania przez zobowiązanego obowiązku, przesłał mu pisemne upomnienie, zawierające wezwanie do wykonania obowiązku z zagrożeniem skierowania sprawy na drogę postępowania egzekucyjnego, chyba że przepisy szczególne inaczej stanowią. Postępowanie egzekucyjne może być wszczęte dopiero po upływie 7 dni od dnia doręczenia tego upomnienia.
 
-§ 2. Koszty upomnienia obcià˝ajà zobowiàzanego i, z zastrze˝eniem § 3, sà pobierane na rzecz wierzyciela. Obowiàzek uiszczenia kosztów upomnienia przez zobowiàzanego powstaje z chwilà dor´czenia upomnienia. Koszty te podlegajà Êciàgni´ciu wtrybie okreÊlonym dla kosztów egzekucyjnych.
+§ 2. Koszty upomnienia obciążają zobowiązanego i, z zastrzeżeniem § 3, są pobierane na rzecz wierzyciela. Obowiązek uiszczenia kosztów upomnienia przez zobowiązanego powstaje z chwilą doręczenia upomnienia. Koszty te podlegają ściągnięciu wtrybie określonym dla kosztów egzekucyjnych.
 
-§ 3. Je˝eli wierzyciel jest jednoczeÊnie organem egzekucyjnym, koszty upomnienia sà pobierane na rzecz komórki organizacyjnej wierzyciela, do której zadaƒ nale˝y prowadzenie egzekucji.
+§ 3. Jeżeli wierzyciel jest jednocześnie organem egzekucyjnym, koszty upomnienia są pobierane na rzecz komórki organizacyjnej wierzyciela, do której zadań należy prowadzenie egzekucji.
 
-§ 4. Minister w∏aÊciwy do spraw finansów publicznych w porozumieniu z ministrem w∏aÊciwym do spraw ∏àcznoÊci okreÊli, w drodze rozporzàdzenia, wysokoÊç kosztów upomnienia. WysokoÊç kosztów upomnienia nie mo˝e przekraczaç czterokrotnej wysokoÊci kosztów zwiàzanych z dor´czeniem upomnienia jako przesy∏ki poleconej.
+§ 4. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw łączności określi, w drodze rozporządzenia, wysokość kosztów upomnienia. Wysokość kosztów upomnienia nie może przekraczać czterokrotnej wysokości kosztów związanych z doręczeniem upomnienia jako przesyłki poleconej.
 
-§ 5. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia, nale˝noÊci pieni´˝ne, któbez uprzedniego dor´czenia upomnienia. OkreÊlajàc nale˝noÊci, których egzekucja mo˝e byç wszcz´ta bez uprzedniego dor´czenia upomnienia, minister kieruje si´ rodzajem nale˝noÊci oraz sposobem ich powstawania.”;
+§ 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, należności pieniężne, któbez uprzedniego doręczenia upomnienia. Określając należności, których egzekucja może być wszczęta bez uprzedniego doręczenia upomnienia, minister kieruje się rodzajem należności oraz sposobem ich powstawania.”;
 
-- **15)** art. 17 otrzymuje brzmienie: „Art. 17. § 1. O ile przepisy niniejszej ustawy nie stanowià inaczej, rozstrzygni´cie izajmowane przez organ egzekucyjny lub wierzyciela stanowisko w sprawach dotyczàcych post´powania egzekucyjnego nast´puje w formie postanowienia. Na postanowienie to s∏u˝y za˝alenie, je˝eli niniejsza ustawa lub Kodeks post´powania administracyjnego tak stanowi. Za˝alenie wnosi si´ do organu odwo∏awczego za poÊrednictwem organu egzekucyjnego w terminie 7 dni od dnia dor´rych egzekucja mo˝e byç wszcz´ta czenia lub og∏oszenia postanowienia.
+- **15)** art. 17 otrzymuje brzmienie: ŃArt. 17. § 1. O ile przepisy niniejszej ustawy nie stanowią inaczej, rozstrzygnięcie izajmowane przez organ egzekucyjny lub wierzyciela stanowisko w sprawach dotyczących postępowania egzekucyjnego następuje w formie postanowienia. Na postanowienie to służy zażalenie, jeżeli niniejsza ustawa lub Kodeks postępowania administracyjnego tak stanowi. Zażalenie wnosi się do organu odwoławczego za pośrednictwem organu egzekucyjnego w terminie 7 dni od dnia doręrych egzekucja może być wszczęta czenia lub ogłoszenia postanowienia.
 
-§ 2. Wniesienie za˝alenia nie wstrzymuje post´powania egzekucyjnego. Organ egzekucyjny lub organ odwo∏awczy mo˝e jednak w uzasadnionych przypadkach wstrzymaç post´powanie egzekucyjne do czasu rozpatrzenia za˝alenia.”;
+§ 2. Wniesienie zażalenia nie wstrzymuje postępowania egzekucyjnego. Organ egzekucyjny lub organ odwoławczy może jednak w uzasadnionych przypadkach wstrzymać postępowanie egzekucyjne do czasu rozpatrzenia zażalenia.”;
 
-- **16)** art. 19 otrzymuje brzmienie: „Art. 19. § 1. Z zastrze˝eniem § 2—8, naczelnik urz´du skarbowego jest organem egzekucyjnym uprawnionym do stosowania wszystkich Êrodków egzekucyjnych w egzekucji administracyjnej nale˝noÊci pieni´˝nych.
+- **16)** art. 19 otrzymuje brzmienie: ŃArt. 19. § 1. Z zastrzeżeniem § 2—8, naczelnik urzędu skarbowego jest organem egzekucyjnym uprawnionym do stosowania wszystkich środków egzekucyjnych w egzekucji administracyjnej należności pieniężnych.
 
-§ 2. W∏aÊciwy organ gminy o statusie miasta, wymienionej w odr´bnych przepisach oraz gminy wchodzàcej w sk∏ad powiatu warszawskiego jest organem egzekucyjnym uprawnionym do stosowania wszystkich Êrodków egzekucyjnych, z wyjàtkiem egzekucji z nieruchomoÊci, w egzekucji administracyjnej nale˝noÊci pieni´˝nych, dla których ustalania lub okreÊlania i pobierania jest w∏aÊciwy ten organ.
+§ 2. Właściwy organ gminy o statusie miasta, wymienionej w odrębnych przepisach oraz gminy wchodzącej w skład powiatu warszawskiego jest organem egzekucyjnym uprawnionym do stosowania wszystkich środków egzekucyjnych, z wyjątkiem egzekucji z nieruchomości, w egzekucji administracyjnej należności pieniężnych, dla których ustalania lub określania i pobierania jest właściwy ten organ.
 
-§ 3. Przewodniczàcy organu orzekajàcego w sprawach o naruszenie dyscypliny finansów publicznych wpierwszej instancji jest organem egzekucyjnym uprawnionym do stosowania egzekucji zwynagrodzenia za prac´ ukaranego, w egzekucji administracyjnej nale˝noÊci pieni´˝nych z tytu∏u kar pieni´˝nych i kosztów post´powania orzeczonych wtych sprawach.
+§ 3. Przewodniczący organu orzekającego w sprawach o naruszenie dyscypliny finansów publicznych wpierwszej instancji jest organem egzekucyjnym uprawnionym do stosowania egzekucji zwynagrodzenia za pracę ukaranego, w egzekucji administracyjnej należności pieniężnych z tytułu kar pieniężnych i kosztów postępowania orzeczonych wtych sprawach.
 
-§ 4. Dyrektor oddzia∏u Zak∏adu Ubezpieczeƒ Spo∏ecznych jest organem egzekucyjnym uprawnionym do stosowania egzekucji zwynagrodzenia za prac´, ze Êwiadczeƒ zubezpieczenia spo∏ecznego, z wierzytelnoÊci pieni´˝nych oraz z rachunków bankowych, w egzekucji administracyjnej nale˝noÊci pieni´˝nych ztytu∏u sk∏adek na ubezpieczenia spo∏eczne i nale˝noÊci pochodnych od sk∏adek oraz nienale˝nie pobranych Êwiadczeƒ z ubezpieczenia spo∏ecznego lub innych Êwiadczeƒ wyp∏acanych przez ten oddzia∏, które nie mogà byç potràcane zbie˝àcych Êwiadczeƒ.
+§ 4. Dyrektor oddziału Zakładu Ubezpieczeń Społecznych jest organem egzekucyjnym uprawnionym do stosowania egzekucji zwynagrodzenia za pracę, ze świadczeń zubezpieczenia społecznego, z wierzytelności pieniężnych oraz z rachunków bankowych, w egzekucji administracyjnej należności pieniężnych ztytułu składek na ubezpieczenia społeczne i należności pochodnych od składek oraz nienależnie pobranych świadczeń z ubezpieczenia społecznego lub innych świadczeń wypłacanych przez ten oddział, które nie mogą być potrącane zbieżących świadczeń.
 
-§ 5. Dyrektor urz´du celnego jest organem egzekucyjnym uprawnionym do stosowania egzekucji z wynagrodzenia za prac´, zrachunków bankowych oraz zzaj´tych wcelu zabezpieczenia pieni´dzy, ruchomoÊci i wierzytelnoÊci pieni´˝nych oraz innych praw majàtkowych, w egzekucji administracyjnej nale˝noÊci pieni´˝nych ztytu∏u nale˝noÊci celnych, wraz zodsetkami, pobieranego na granicy podatku od towarów ius∏ug ipodatku akcyzowego od importu towarów, grzywien, kar pieni´˝nych, kosztów post´powania i innych nale˝noÊci pieni´˝nych orzeczonych w post´powaniu karnym skarbowym w zakresie spraw nale˝àcych do w∏aÊciwoÊci organów administracji celnej.
+§ 5. Dyrektor urzędu celnego jest organem egzekucyjnym uprawnionym do stosowania egzekucji z wynagrodzenia za pracę, zrachunków bankowych oraz zzajętych wcelu zabezpieczenia pieniędzy, ruchomości i wierzytelności pieniężnych oraz innych praw majątkowych, w egzekucji administracyjnej należności pieniężnych ztytułu należności celnych, wraz zodsetkami, pobieranego na granicy podatku od towarów iusług ipodatku akcyzowego od importu towarów, grzywien, kar pieniężnych, kosztów postępowania i innych należności pieniężnych orzeczonych w postępowaniu karnym skarbowym w zakresie spraw należących do właściwości organów administracji celnej.
 
-§ 6. Organ, o którym mowa w § 5, jest równie˝ uprawniony do zabezpieczenia, w trybie i na zasadach okreÊlonych w dziale IV, nale˝noÊci celnych przypadajàcych od towarów przywiezionych z zagranicy na polski obszar celny i dopuszczonych na polski obszar celny zzastrze˝eniem powrotnego ich wywozu lub zinnym zastrze˝eniem, na podstawie stwierdzenia niezastosowania si´ do dokonanego zastrze˝enia.
+§ 6. Organ, o którym mowa w § 5, jest również uprawniony do zabezpieczenia, w trybie i na zasadach określonych w dziale IV, należności celnych przypadających od towarów przywiezionych z zagranicy na polski obszar celny i dopuszczonych na polski obszar celny zzastrzeżeniem powrotnego ich wywozu lub zinnym zastrzeżeniem, na podstawie stwierdzenia niezastosowania się do dokonanego zastrzeżenia.
 
-§ 7. Dyrektor rejonowego oddzia∏u Wojskowej Agencji Mieszkaniowej jest organem egzekucyjnym uprawnionym do stosowania egzekucji zwynagrodzenia za prac´ oraz ze Êwiadczeƒ z zaopatrzenia emerytalnego albo zubezpieczenia spo∏ecznego, wegzekucji administracyjnej nale˝noÊci pieni´˝nych ztytu∏u czynszów, op∏at iinnych Êwiadczeƒ zwiàzanych z zajmowaniem kwater ilokali mieszkalnych, stanowiàcych zasób mieszkaniowy Wojskowej Agencji Mieszkaniowej.
+§ 7. Dyrektor rejonowego oddziału Wojskowej Agencji Mieszkaniowej jest organem egzekucyjnym uprawnionym do stosowania egzekucji zwynagrodzenia za pracę oraz ze świadczeń z zaopatrzenia emerytalnego albo zubezpieczenia społecznego, wegzekucji administracyjnej należności pieniężnych ztytułu czynszów, opłat iinnych świadczeń związanych z zajmowaniem kwater ilokali mieszkalnych, stanowiących zasób mieszkaniowy Wojskowej Agencji Mieszkaniowej.
 
-§ 8. Organem egzekucyjnym w egzekucji administracyjnej nale˝noÊci pieni´˝nych mo˝e byç ponadto inny organ w zakresie okreÊlonym odr´bnymi
+§ 8. Organem egzekucyjnym w egzekucji administracyjnej należności pieniężnych może być ponadto inny organ w zakresie określonym odrębnymi
 
-- **17)** wart. 20 w§1 wpkt 2 kropk´ na koƒcu zast´puje si´ przecinkiem idodaje si´ pkt 3 i4 wbrzmieniu: „3) kierownik wojewódzkiej s∏u˝by, inspekcji lub stra˝y wodniesieniu do obowiàzków wynikajàcych z wydawanych w imieniu w∏asnym lub wojewody decyzji ipostanowieƒ,
-- **4)** kierownik powiatowej s∏u˝by, inspekcji lub stra˝y wodniesieniu do obowiàzków wynikajàcych z wydawanych w zakresie swojej w∏aÊciwoÊci decyzji ipostanowieƒ.”;
-- **18)** skreÊla si´ art. 21;
-- **19)** art. 22 i23 otrzymujà brzmienie: „Art. 22. § 1. W∏aÊciwoÊç miejscowà organu egzekucyjnego w egzekucji nale˝noÊci pieni´˝nych z nieruchomoÊci ustala si´ wed∏ug miejsca jej po∏o˝enia. Je˝eli jednak nieruchomoÊç po∏o˝ona jest na obszarze w∏aÊciwoÊci dwóch lub wi´kszej liczby organów egzekucj´ prowadzi organ, na którego obszarze znajduje si´ wi´ksza cz´Êç nieruchomoÊci, aje˝eli nie mo˝na wpowy˝szy sposób ustaliç w∏aÊciwoÊci, egzekucj´ znieruchomoÊci prowadzi organ wyznaczony przez ministra w∏aÊciwego do spraw finansów publicznych.
+- **17)** wart. 20 w§1 wpkt 2 kropkę na końcu zastępuje się przecinkiem idodaje się pkt 3 i4 wbrzmieniu: Ń3) kierownik wojewódzkiej służby, inspekcji lub straży wodniesieniu do obowiązków wynikających z wydawanych w imieniu własnym lub wojewody decyzji ipostanowień,
+- **4)** kierownik powiatowej służby, inspekcji lub straży wodniesieniu do obowiązków wynikających z wydawanych w zakresie swojej właściwości decyzji ipostanowień.”;
+- **18)** skreśla się art. 21;
+- **19)** art. 22 i23 otrzymują brzmienie: ŃArt. 22. § 1. Właściwość miejscową organu egzekucyjnego w egzekucji należności pieniężnych z nieruchomości ustala się według miejsca jej położenia. Jeżeli jednak nieruchomość położona jest na obszarze właściwości dwóch lub większej liczby organów egzekucję prowadzi organ, na którego obszarze znajduje się większa część nieruchomości, ajeżeli nie można wpowyższy sposób ustalić właściwości, egzekucję znieruchomości prowadzi organ wyznaczony przez ministra właściwego do spraw finansów publicznych.
 
-§ 2. W∏aÊciwoÊç miejscowà organu egzekucyjnego w egzekucji nale˝noÊci pieni´˝nych zpraw majàtkowych lub ruchomoÊci ustala si´ wed∏ug miejsca zamieszkania lub siedziby zobowiàzanego, zzastrze˝eniem § 3.
+§ 2. Właściwość miejscową organu egzekucyjnego w egzekucji należności pieniężnych zpraw majątkowych lub ruchomości ustala się według miejsca zamieszkania lub siedziby zobowiązanego, zzastrzeżeniem § 3.
 
-§ 3. Je˝eli znany przed wszcz´ciem egzekucji majàtek zobowiàzanego lub wi´ksza jego cz´Êç nie znajduje si´ na terenie dzia∏ania organu egzekucyjnego ustalonego zgodnie z § 2, w∏aÊciwoÊç miejscowà ustala si´ wed∏ug miejsca po∏o˝enia sk∏adników tego majàtku.
+§ 3. Jeżeli znany przed wszczęciem egzekucji majątek zobowiązanego lub większa jego część nie znajduje się na terenie działania organu egzekucyjnego ustalonego zgodnie z § 2, właściwość miejscową ustala się według miejsca położenia składników tego majątku.
 
-§ 4. W∏aÊciwoÊç miejscowà organu egzekucyjnego w egzekucji obowiàzków o charakterze niepieni´˝nym ustala si´ wed∏ug miejsca zamieszkania lub siedziby zobowiàzanego, a w braku zamieszkania lub siedziby wkraju wed∏ug miejsca jego pobytu, z zastrze˝eniem § 5.
+§ 4. Właściwość miejscową organu egzekucyjnego w egzekucji obowiązków o charakterze niepieniężnym ustala się według miejsca zamieszkania lub siedziby zobowiązanego, a w braku zamieszkania lub siedziby wkraju według miejsca jego pobytu, z zastrzeżeniem § 5.
 
-§ 5. W∏aÊciwoÊç miejscowà organu egzekucyjnego w egzekucji obowiàzków ocharakterze niepieni´˝nym wsprawach o odebranie rzeczy lub opró˝nienie budynków i pomieszczeƒ ustala si´ wed∏ug miejsca wykonania obowiàzku. ustawami.”;
+§ 5. Właściwość miejscową organu egzekucyjnego w egzekucji obowiązków ocharakterze niepieniężnym wsprawach o odebranie rzeczy lub opróżnienie budynków i pomieszczeń ustala się według miejsca wykonania obowiązku. ustawami.”;
 
 **Art. 23.**
 
-§ 1. Nadzór nad egzekucjà administracyjnà sprawujà organy wy˝szego stopnia w stosunku do organów w∏aÊciwych do wykonywania tej egzekucji.
+§ 1. Nadzór nad egzekucją administracyjną sprawują organy wyższego stopnia w stosunku do organów właściwych do wykonywania tej egzekucji.
 
-§ 2. Wprzypadku braku organu wy˝szego stopnia w stosunku do organów egzekucyjnych, o których mowa w art. 19, nadzór nad egzekucjà nale˝noÊci pieni´˝nych sprawuje w∏aÊciwy miejscowo dyrektor izby skarbowej, z zastrze˝eniem § 3.
+§ 2. Wprzypadku braku organu wyższego stopnia w stosunku do organów egzekucyjnych, o których mowa w art. 19, nadzór nad egzekucją należności pieniężnych sprawuje właściwy miejscowo dyrektor izby skarbowej, z zastrzeżeniem § 3.
 
-§ 3. W stosunku do organów egzekucyjnych b´dàcych organami samorzàdu terytorialnego nadzór nad egzekucjà nale˝noÊci pieni´˝nych sprawuje samorzàdowe kolegium odwo∏awcze.
+§ 3. W stosunku do organów egzekucyjnych będących organami samorządu terytorialnego nadzór nad egzekucją należności pieniężnych sprawuje samorządowe kolegium odwoławcze.
 
-§ 4. Organy sprawujàce nadzór sà jednoczeÊnie:
+§ 4. Organy sprawujące nadzór są jednocześnie:
 
-- **1)** organami odwo∏awczymi dla postanowieƒ wydanych przez nadzorowane organy egzekucyjne,
-- **2)** organami sprawujàcymi kontrol´ przestrzegania w toku czynnoÊci „Art. 26. § 1. Organ egzekucyjny wszczyna egzekucj´ administracyjnà na wniosek wierzyciela i na podstawie wystawionego przez niego tytu∏u wykonawczego, sporzàdzonego wed∏ug ustalonego wzoru.
+- **1)** organami odwoławczymi dla postanowień wydanych przez nadzorowane organy egzekucyjne,
+- **2)** organami sprawującymi kontrolę przestrzegania w toku czynności ŃArt. 26. § 1. Organ egzekucyjny wszczyna egzekucję administracyjną na wniosek wierzyciela i na podstawie wystawionego przez niego tytułu wykonawczego, sporządzonego według ustalonego wzoru.
 
-§ 2. Wzór, o którym mowa w § 1, okreÊla w drodze rozporzàdzenia minister w∏aÊciwy do spraw finansów publicznych. Wzór ten zawiera treÊç okreÊlonà w art. 27, a ponadto umo˝liwia elektroniczne przetwarzanie danych zawartych wtytule wykonawczym.
+§ 2. Wzór, o którym mowa w § 1, określa w drodze rozporządzenia minister właściwy do spraw finansów publicznych. Wzór ten zawiera treść określoną w art. 27, a ponadto umożliwia elektroniczne przetwarzanie danych zawartych wtytule wykonawczym.
 
-§ 3. Obowiàzek wystawienia tytu∏u wykonawczego wed∏ug wzoru, o którym mowa w § 1, spoczywa równie˝ na wierzycielu, którego nale˝noÊç pieni´˝na wynika z orzeczenia sàdu zaopatrzonego w klauzul´ wykonalnoÊci, ztym ˝e wtym przypadku nie wymaga si´ opatrzenia tytu∏u wykonawegzekucyjnych przepisów ustawy przez wierzycieli inadzorowane organy egzekucyjne.
+§ 3. Obowiązek wystawienia tytułu wykonawczego według wzoru, o którym mowa w § 1, spoczywa również na wierzycielu, którego należność pieniężna wynika z orzeczenia sądu zaopatrzonego w klauzulę wykonalności, ztym że wtym przypadku nie wymaga się opatrzenia tytułu wykonawegzekucyjnych przepisów ustawy przez wierzycieli inadzorowane organy egzekucyjne.
 
-§ 5. Dla postanowieƒ wydanych wpierwszej instancji przez dyrektora izby skarbowej organem odwo∏awczym jest minister w∏aÊciwy do spraw finansów publicznych.
+§ 5. Dla postanowień wydanych wpierwszej instancji przez dyrektora izby skarbowej organem odwoławczym jest minister właściwy do spraw finansów publicznych.
 
-§ 6. Organy sprawujàce nadzór mogà, w szczególnie uzasadnionych przypadkach, wstrzymaç, na czas okreÊlony, czynnoÊci egzekucyjne lub post´powanie egzekucyjne prowadzone przez nadzorowany organ, z zastrze˝eniem § 7.
+§ 6. Organy sprawujące nadzór mogą, w szczególnie uzasadnionych przypadkach, wstrzymać, na czas określony, czynności egzekucyjne lub postępowanie egzekucyjne prowadzone przez nadzorowany organ, z zastrzeżeniem § 7.
 
-§ 7. Dyrektor izby skarbowej mo˝e wstrzymaç czynnoÊci egzekucyjne lub post´powanie egzekucyjne dotyczàce innych nale˝noÊci pieni´˝nych ni˝ pozostajàcych we w∏aÊciwoÊci urz´dów skarbowych wy∏àcznie za zgodà wierzyciela.
+§ 7. Dyrektor izby skarbowej może wstrzymać czynności egzekucyjne lub postępowanie egzekucyjne dotyczące innych należności pieniężnych niż pozostających we właściwości urzędów skarbowych wyłącznie za zgodą wierzyciela.
 
-§ 8. Na postanowienie w sprawie wstrzymania czynnoÊci egzekucyjnych lub post´powania egzekucyjnego s∏u˝y za˝alenie zobowiàzanemu oraz wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekucyjnym.”;
+§ 8. Na postanowienie w sprawie wstrzymania czynności egzekucyjnych lub postępowania egzekucyjnego służy zażalenie zobowiązanemu oraz wierzycielowi niebędącemu jednocześnie organem egzekucyjnym.”;
 
-- **20)** skreÊla si´ art. 24;
-- **21)** wart. 25 § 1 otrzymuje brzmienie: „§ 1. Minister w∏aÊciwy do spraw finansów publicznych sprawuje zwierzchni nadzór i kontrol´ przestrzegania wtoku czynnoÊci egzekucyjnych przepisów ustawy przez wierzycieli iorgany egzekucyjne wzakresie egzekucji nale˝noÊci pieni´˝nych.”;
-- **22)** art. 26 otrzymuje brzmienie: czego piecz´cià urz´dowà.
+- **20)** skreśla się art. 24;
+- **21)** wart. 25 § 1 otrzymuje brzmienie: Ń§ 1. Minister właściwy do spraw finansów publicznych sprawuje zwierzchni nadzór i kontrolę przestrzegania wtoku czynności egzekucyjnych przepisów ustawy przez wierzycieli iorgany egzekucyjne wzakresie egzekucji należności pieniężnych.”;
+- **22)** art. 26 otrzymuje brzmienie: czego pieczęcią urzędową.
 
-§ 4. Je˝eli wierzyciel jest jednoczeÊnie organem egzekucyjnym, przyst´puje z urz´du do egzekucji na podstawie tytu∏u wykonawczego przez siebie wystawionego.
+§ 4. Jeżeli wierzyciel jest jednocześnie organem egzekucyjnym, przystępuje z urzędu do egzekucji na podstawie tytułu wykonawczego przez siebie wystawionego.
 
-§ 5. Wszcz´cie egzekucji administracyjnej nast´puje zchwilà:
+§ 5. Wszczęcie egzekucji administracyjnej następuje zchwilą:
 
-- **1)** dor´czenia zobowiàzanemu odpisu tytu∏u wykonawczego lub
-- **2)** dor´czenia d∏u˝nikowi zaj´tej wierzytelnoÊci zawiadomienia o zaj´ciu wierzytelnoÊci lub innego prawa majàtkowego, je˝eli to dor´czenie nastàpi∏o przed dor´czeniem zobowiàzanemu odpisu tytu∏u wykonawczego.
+- **1)** doręczenia zobowiązanemu odpisu tytułu wykonawczego lub
+- **2)** doręczenia dłużnikowi zajętej wierzytelności zawiadomienia o zajęciu wierzytelności lub innego prawa majątkowego, jeżeli to doręczenie nastąpiło przed doręczeniem zobowiązanemu odpisu tytułu wykonawczego.
 
-§ 6. W przypadku przekszta∏cenia zaj´cia zabezpieczajàcego w zaj´cie egzekucyjne zobowiàzanemu dor´cza si´ odpis tytu∏u wykonawczego.”;
+§ 6. W przypadku przekształcenia zajęcia zabezpieczającego w zajęcie egzekucyjne zobowiązanemu doręcza się odpis tytułu wykonawczego.”;
 
-- **23)** skreÊla si´ art. 26a;
-- **24)** art. 27 otrzymuje brzmienie: „Art. 27. § 1. Tytu∏ wykonawczy zawiera:
+- **23)** skreśla się art. 26a;
+- **24)** art. 27 otrzymuje brzmienie: ŃArt. 27. § 1. Tytuł wykonawczy zawiera:
 - **1)** oznaczenie wierzyciela,
-- **2)** wskazanie imienia i nazwiska lub firmy zobowiàzanego i jego adresu, a tak˝e okreÊlenie zatrudniajàcego go pracodawcy ijego adresu, je˝eli wierzyciel posiada takà informacj´,
-- **3)** treÊç podlegajàcego egzekucji obowiàzku, podstaw´ prawnà tego obowiàzku oraz stwierdzenie, ˝e obowiàzek jest wymagalny, a w przypadku egzekucji nale˝noÊci pieni´˝nej tak˝e okreÊlenie jej wysokoÊci, terminu, od którego nalicza si´ odsetki z tytu∏u niezap∏acenia nale˝noÊci w terminie, oraz rodzaju istawki tych odsetek,
-- **4)** wskazanie zabezpieczenia nale˝noÊci pieni´˝nej hipotekà przymusowà albo przez ustanowienie zastawu skarbowego lub rejestrowego lub zastawu nieujawnionego w ˝adnym rejestrze, ze wskazaniem terminów powstania tych zabezpieczeƒ,
-- **5)** wskazanie podstawy prawnej pierwszeƒstwa zaspokojenia nale˝noÊci pieni´˝nej, je˝eli nale˝noÊç korzysta z tego prawa i prawo to nie wynika z zabezpieczenia nale˝noÊci pieni´˝nej,
+- **2)** wskazanie imienia i nazwiska lub firmy zobowiązanego i jego adresu, a także określenie zatrudniającego go pracodawcy ijego adresu, jeżeli wierzyciel posiada taką informację,
+- **3)** treść podlegającego egzekucji obowiązku, podstawę prawną tego obowiązku oraz stwierdzenie, że obowiązek jest wymagalny, a w przypadku egzekucji należności pieniężnej także określenie jej wysokości, terminu, od którego nalicza się odsetki z tytułu niezapłacenia należności w terminie, oraz rodzaju istawki tych odsetek,
+- **4)** wskazanie zabezpieczenia należności pieniężnej hipoteką przymusową albo przez ustanowienie zastawu skarbowego lub rejestrowego lub zastawu nieujawnionego w żadnym rejestrze, ze wskazaniem terminów powstania tych zabezpieczeń,
+- **5)** wskazanie podstawy prawnej pierwszeństwa zaspokojenia należności pieniężnej, jeżeli należność korzysta z tego prawa i prawo to nie wynika z zabezpieczenia należności pieniężnej,
 - **6)** wskazanie podstawy prawnej prowadzenia egzekucji administracyjnej,
-- **7)** dat´ wystawienia tytu∏u, podpis zpodaniem imienia, nazwiska istanowiska s∏u˝bowego podpisujàcego oraz odcisk piecz´ci urz´dowej wierzyciela,
-- **8)** pouczenie zobowiàzanego o skutkach niezawiadomienia organu egzekucyjnego ozmianie miejsca pobytu,
-- **9)** pouczenie zobowiàzanego o przys∏ugujàcym mu w terminie 7 dni prawie zg∏oszenia do organu egzekucyjnego zarzutów w sprawie prowadzenia post´powania egzekucyjnego,
-- **10)** klauzul´ organu egzekucyjnego o skierowaniu tytu∏u do egzekucji administracyjnej,
-- **11)** wskazanie Êrodków egzekucyjnych stosowanych w egzekucji nale˝noÊci pieni´˝nych.
+- **7)** datę wystawienia tytułu, podpis zpodaniem imienia, nazwiska istanowiska służbowego podpisującego oraz odcisk pieczęci urzędowej wierzyciela,
+- **8)** pouczenie zobowiązanego o skutkach niezawiadomienia organu egzekucyjnego ozmianie miejsca pobytu,
+- **9)** pouczenie zobowiązanego o przysługującym mu w terminie 7 dni prawie zgłoszenia do organu egzekucyjnego zarzutów w sprawie prowadzenia postępowania egzekucyjnego,
+- **10)** klauzulę organu egzekucyjnego o skierowaniu tytułu do egzekucji administracyjnej,
+- **11)** wskazanie środków egzekucyjnych stosowanych w egzekucji należności pieniężnych.
 
-§ 2. Je˝eli tytu∏ wykonawczy dotyczy nale˝noÊci spó∏ki nieposiadajàcej osobowoÊci prawnej, w tytule wykonawczym podaje si´ równie˝ imiona i nazwiska oraz adresy wspólników.
+§ 2. Jeżeli tytuł wykonawczy dotyczy należności spółki nieposiadającej osobowości prawnej, w tytule wykonawczym podaje się również imiona i nazwiska oraz adresy wspólników.
 
-§ 3. Do tytu∏u wykonawczego wierzyciel do∏àcza dowód dor´czenia upomnienia, a je˝eli dor´czenie upomnienia nie by∏o wymagane, podaje w tytule wykonawczym podstaw´ prawnà braku tego obowiàzku.”;
+§ 3. Do tytułu wykonawczego wierzyciel dołącza dowód doręczenia upomnienia, a jeżeli doręczenie upomnienia nie było wymagane, podaje w tytule wykonawczym podstawę prawną braku tego obowiązku.”;
 
-- **25)** dodaje si´ art. 27a—27cwbrzmieniu: „Art. 27a. § 1. W tytule wykonawczym wykazuje si´ nale˝noÊci pieni´˝ne po zaokràgleniu do pe∏nych dziesiàtek groszy.
+- **25)** dodaje się art. 27a—27cwbrzmieniu: ŃArt. 27a. § 1. W tytule wykonawczym wykazuje się należności pieniężne po zaokrągleniu do pełnych dziesiątek groszy.
 
-§ 2. Przepis § 1 stosuje si´ równie˝ do minie nale˝noÊci pieni´˝nej i kosztów egzekucyjnych.
+§ 2. Przepis § 1 stosuje się również do minie należności pieniężnej i kosztów egzekucyjnych.
 
-§ 3. Zaokràglenie nast´puje w ten sposób, ˝e kwoty wynoszàce:
+§ 3. Zaokrąglenie następuje w ten sposób, że kwoty wynoszące:
 
-- **1)** mniej ni˝ 5 groszy pomija si´,
-- **2)** 5 i wi´cej groszy podwy˝sza si´ do pe∏nych dziesiàtek groszy.
+- **1)** mniej niż 5 groszy pomija się,
+- **2)** 5 i więcej groszy podwyższa się do pełnych dziesiątek groszy.
 
-§ 4. Zaokràglenie, októrym mowa w§ 1 i2, stosuje si´ wka˝dym przypadku cz´Êciowej realizacji egzekwowanej nale˝noÊci pieni´˝nej, odsetek z tytu∏u niezap∏acenia jej w terminie oraz kosztów egzekucyjnych.
+§ 4. Zaokrąglenie, októrym mowa w§ 1 i2, stosuje się wkażdym przypadku częściowej realizacji egzekwowanej należności pieniężnej, odsetek z tytułu niezapłacenia jej w terminie oraz kosztów egzekucyjnych.
 
-§ 5. Ró˝nice wyst´pujàce w koƒcowym rozliczeniu kwot uzyskanych z egzekucji, wynikajàce zzaokràglenia, traktuje si´ odpowiednio jako kwoty nale˝ne albo umorzone zmocy prawa.
+§ 5. Różnice występujące w końcowym rozliczeniu kwot uzyskanych z egzekucji, wynikające zzaokrąglenia, traktuje się odpowiednio jako kwoty należne albo umorzone zmocy prawa.
 
-**Art. 27b.** Wierzyciele, którzy na mocy odr´bnych przepisów nie zostali upowa˝nieni do odsetek ztytu∏u niezap∏acenia wterkorzystania z piecz´ci urz´dowej, mogà jej u˝ywaç do oznaczania tytu∏ów wykonawczych oraz zarzàdzeƒ zabezpieczenia.
+**Art. 27b.** Wierzyciele, którzy na mocy odrębnych przepisów nie zostali upoważnieni do odsetek ztytułu niezapłacenia wterkorzystania z pieczęci urzędowej, mogą jej używać do oznaczania tytułów wykonawczych oraz zarządzeń zabezpieczenia.
 
-**Art. 27c.** Je˝eli egzekucja ma byç prowadzona zarówno z majàtku wspólnego zobowiàzanego i jego ma∏˝onka, jak i z ich majàtków osobistych, tytu∏ wykonawczy wystawia si´ na oboje ma∏˝onków.”;
+**Art. 27c.** Jeżeli egzekucja ma być prowadzona zarówno z majątku wspólnego zobowiązanego i jego małżonka, jak i z ich majątków osobistych, tytuł wykonawczy wystawia się na oboje małżonków.”;
 
-**Art. 33.** Podstawà zarzutu wsprawie prowadzenia egzekucji administracyjnej mo˝e byç:
+**Art. 33.** Podstawą zarzutu wsprawie prowadzenia egzekucji administracyjnej może być:
 
 **Art. 34.**
 
-§ 1. Zarzuty zg∏oszone na podstawie art.33 pkt 1—7, 9 i10, aprzy egzekucji obowiàzków o charakterze niepieni´˝nym tak˝e na podstawie art. 33 pkt 8, organ egzekucyjny rozpatruje po uzyskaniu stanowiska wierzyciela w zakresie zg∏oszonych zarzutów, z tym ˝e w zakresie zarzutów, o których mowa w art. 33 pkt 1—5, wypowiedê wierzyciela jest dla organu egzekucyjnego wià˝àca.
+§ 1. Zarzuty zgłoszone na podstawie art.33 pkt 1—7, 9 i10, aprzy egzekucji obowiązków o charakterze niepieniężnym także na podstawie art. 33 pkt 8, organ egzekucyjny rozpatruje po uzyskaniu stanowiska wierzyciela w zakresie zgłoszonych zarzutów, z tym że w zakresie zarzutów, o których mowa w art. 33 pkt 1—5, wypowiedê wierzyciela jest dla organu egzekucyjnego wiążąca.
 
-§ 2. Na postanowienie w sprawie stanowiska wierzyciela przys∏uguje za˝alenie.
+§ 2. Na postanowienie w sprawie stanowiska wierzyciela przysługuje zażalenie.
 
-§ 3. Je˝eli wierzyciel nie wyrazi∏ stanowiska wterminie 14 dni od dnia powiadomienia go przez organ egzekucyjny owniesionych zarzutach, organ egzekucyjny wydaje postanowienie o zawieszeniu post´powania egzekucyjnego do czasu wydania postanowienia, októrym mowa w§ 4.
+§ 3. Jeżeli wierzyciel nie wyraził stanowiska wterminie 14 dni od dnia powiadomienia go przez organ egzekucyjny owniesionych zarzutach, organ egzekucyjny wydaje postanowienie o zawieszeniu postępowania egzekucyjnego do czasu wydania postanowienia, októrym mowa w§ 4.
 
-§ 4. Organ egzekucyjny po otrzymaniu ostatecznego postanowienia wsprawie stanowiska wierzyciela wydaje postanowienie w sprawie zg∏oszonych zarzutów, z tym ˝e je˝eli wierzyciel uzna∏ zarzuty za uzasadnione o umorzeniu post´powania egzekucyjnego albo o zastosowaniu mniej ucià˝liwego Êrodka egzekucyjnego.
+§ 4. Organ egzekucyjny po otrzymaniu ostatecznego postanowienia wsprawie stanowiska wierzyciela wydaje postanowienie w sprawie zgłoszonych zarzutów, z tym że jeżeli wierzyciel uznał zarzuty za uzasadnione o umorzeniu postępowania egzekucyjnego albo o zastosowaniu mniej uciążliwego środka egzekucyjnego.
 
-§ 5. Na postanowienie w sprawie zg∏oszonych zarzutów s∏u˝y zobowiàzanemu oraz wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekuwart. 15 § 1, cyjnym za˝alenie. Za˝alenie na postanowienie w sprawie zarzutów podlega rozpatrzeniu w terminie 14 dni od dnia dor´czenia organowi odwo∏awczemu.
+§ 5. Na postanowienie w sprawie zgłoszonych zarzutów służy zobowiązanemu oraz wierzycielowi niebędącemu jednocześnie organem egzekuwart. 15 § 1, cyjnym zażalenie. Zażalenie na postanowienie w sprawie zarzutów podlega rozpatrzeniu w terminie 14 dni od dnia doręczenia organowi odwoławczemu.
 
 **Art. 35.**
 
-§ 1. Wniesienie przez zobowiàzanego zarzutu w sprawie prowadzenia post´powania egzekucyjnego nie wstrzymuje tego post´powania. Organ egzekucyjny mo˝e jednak w uzasadnionych przypadkach wstrzymaç post´powanie egzekucyjne lub niektóre czynnoÊci egzekucyjne do czasu rozpatrzenia zarzutu.
+§ 1. Wniesienie przez zobowiązanego zarzutu w sprawie prowadzenia postępowania egzekucyjnego nie wstrzymuje tego postępowania. Organ egzekucyjny może jednak w uzasadnionych przypadkach wstrzymać postępowanie egzekucyjne lub niektóre czynności egzekucyjne do czasu rozpatrzenia zarzutu.
 
-§ 2. Organ nadzoru w uzasadnionych przypadkach mo˝e wstrzymaç czynnoÊci egzekucyjne do czasu rozpatrzenia za˝alenia.”;
+§ 2. Organ nadzoru w uzasadnionych przypadkach może wstrzymać czynności egzekucyjne do czasu rozpatrzenia zażalenia.”;
 
-- **32)** dodaje si´ art. 35awbrzmieniu: „Art. 35a. Je˝eli ze wzgl´du na rodzaj egzekwowanej nale˝noÊci dopuszczalne jest kwestionowanie istnienia lub wysokoÊci tej nale˝noÊci wdrodze powództwa, azobowiàzany wniesie takie powództwo do sàdu, wierzyciel po otrzymaniu powództwa zawiadamia otym organ egzekucyjny, ˝àdajàc wstrzymania post´powania egzekucyjnego do czasu prawomocnego rozstrzygni´cia sprawy przez sàd.”;
+- **32)** dodaje się art. 35awbrzmieniu: ŃArt. 35a. Jeżeli ze względu na rodzaj egzekwowanej należności dopuszczalne jest kwestionowanie istnienia lub wysokości tej należności wdrodze powództwa, azobowiązany wniesie takie powództwo do sądu, wierzyciel po otrzymaniu powództwa zawiadamia otym organ egzekucyjny, żądając wstrzymania postępowania egzekucyjnego do czasu prawomocnego rozstrzygnięcia sprawy przez sąd.”;
 - **33)** wart. 36:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. W zakresie niezb´dnym do prowadzenia egzekucji organ egzekucyjny mo˝e ˝àdaç od uczestników post´powania informacji i wyjaÊnieƒ, jak równie˝ zwracaç si´ o udzielenie informacji do organów administracji publicznej oraz jednostek organizacyjnych im podleg∏ych lub podporzàdkowanych, atak˝e innych podmiotów.”,
-    - **b)** dodaje si´ § 1ai1bwbrzmieniu: „§ 1a. Informacje iwyjaÊnienia, októrych mowa w § 1, udzielane sà nieodp∏atnie przez uczestników post´powania egzekucyjnego oraz organy administracji publicznej ijednostki im podleg∏e lub przez nie nadzorowane.
+    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. W zakresie niezbędnym do prowadzenia egzekucji organ egzekucyjny może żądać od uczestników postępowania informacji i wyjaśnień, jak również zwracać się o udzielenie informacji do organów administracji publicznej oraz jednostek organizacyjnych im podległych lub podporządkowanych, atakże innych podmiotów.”,
+    - **b)** dodaje się § 1ai1bwbrzmieniu: Ń§ 1a. Informacje iwyjaśnienia, októrych mowa w § 1, udzielane są nieodpłatnie przez uczestników postępowania egzekucyjnego oraz organy administracji publicznej ijednostki im podległe lub przez nie nadzorowane.
 
-§ 1b. Udost´pnianie informacji przez organy i jednostki, o których mowa w § 1a, oraz d∏u˝ników zaj´tej wierzytelnoÊci nie narusza obowiàzku zachowania przez nich tajemnicy okreÊlonej w odr´bnych przepisach.”;
+§ 1b. Udostępnianie informacji przez organy i jednostki, o których mowa w § 1a, oraz dłużników zajętej wierzytelności nie narusza obowiązku zachowania przez nich tajemnicy określonej w odrębnych przepisach.”;
 
-- **34)** skreÊla si´ art. 37 i37a;
-- **35)** wart. 38 po § 3 dodaje si´ § 4 wbrzmieniu: „§ 4. Przepisy § 1—3 stosuje si´ odpowiednio w przypadku zg∏oszenia roszczeƒ do rzeczy lub praw majàtkowych zaj´tych wcelu zabezpieczenia.”;
-- **36)** art. 39 i40 otrzymujà brzmienie: „Art. 39. Je˝eli w egzekucji obowiàzku o charakterze niepieni´˝nym rzecz lub prawo majàtkowe, których wy∏àczenia spod egzekucji ˝àdano, zosta∏y równie˝ obj´te Êrodkiem egzekucyjnym wskazanym przez wierzyciela, organ egzekucyjny dor´cza mu postanowienie owy∏àczeniu. Na to postanowienie przys∏uguje wierzycielowi za˝alenie. Do czasu rozstrzygni´cia za˝alenia dokonane czynnoÊci egzekucyjne pozostajà wmocy.
+- **34)** skreśla się art. 37 i37a;
+- **35)** wart. 38 po § 3 dodaje się § 4 wbrzmieniu: Ń§ 4. Przepisy § 1—3 stosuje się odpowiednio w przypadku zgłoszenia roszczeń do rzeczy lub praw majątkowych zajętych wcelu zabezpieczenia.”;
+- **36)** art. 39 i40 otrzymują brzmienie: ŃArt. 39. Jeżeli w egzekucji obowiązku o charakterze niepieniężnym rzecz lub prawo majątkowe, których wyłączenia spod egzekucji żądano, zostały również objęte środkiem egzekucyjnym wskazanym przez wierzyciela, organ egzekucyjny doręcza mu postanowienie owyłączeniu. Na to postanowienie przysługuje wierzycielowi zażalenie. Do czasu rozstrzygnięcia zażalenia dokonane czynności egzekucyjne pozostają wmocy.
 
 **Art. 40.**
 
-§ 1. Na postanowienie organu egzekucyjnego w sprawie odmowy wy∏àczenia spod egzekucji rzeczy lub prawa majàtkowego przys∏uguje za˝alenie oso§ 2. Na ostateczne postanowienie w sprawie odmowy wy∏àczenia rzeczy lub prawa majàtkowego nie przys∏uguje skarga do Naczelnego Sàdu Administracyjnego. Osobie, której ˝àdanie wy∏àczenia rzeczy lub prawa nie zosta∏o uwzgl´dnione, przys∏uguje natomiast prawo ˝àdania zwolnienia ich od zabezpieczenia lub egzekucji administracyjnej w trybie przepisów Kodeksu post´powania cywilnego. Osoba ta odpis pozwu ozwolnienie kieruje równoczeÊnie do organu egzekucyjnego.”;
+§ 1. Na postanowienie organu egzekucyjnego w sprawie odmowy wyłączenia spod egzekucji rzeczy lub prawa majątkowego przysługuje zażalenie oso§ 2. Na ostateczne postanowienie w sprawie odmowy wyłączenia rzeczy lub prawa majątkowego nie przysługuje skarga do Naczelnego Sądu Administracyjnego. Osobie, której żądanie wyłączenia rzeczy lub prawa nie zostało uwzględnione, przysługuje natomiast prawo żądania zwolnienia ich od zabezpieczenia lub egzekucji administracyjnej w trybie przepisów Kodeksu postępowania cywilnego. Osoba ta odpis pozwu ozwolnienie kieruje równocześnie do organu egzekucyjnego.”;
 
-- **37)** wart. 41 § 1 otrzymuje brzmienie: „§ 1. Do czasu ostatecznego rozstrzygni´cia ˝àdania wsprawie wy∏àczenia spod egzekucji rzeczy lub prawa majàtkowego iwokresie 14 dni po tym rozstrzygni´ciu oraz wokresie od dnia skierowania do organu egzekucyjnego pozwu, o którym mowa w art. 40 § 2, do dnia uprawomocnienia si´ orzeczenia sàdu w sprawie wy∏àczenia spod egzekucji obj´te ˝àdaniem wy∏àczenia rzeczy nie mogà byç sprzedane, a prawa majàtkowe wykonywane.”;
-- **38)** art. 44 otrzymuje brzmienie: „Art. 44. ˚àdanie wy∏àczenia spod egzekucji rzeczy lub prawa majàtkowego nie mo˝e byç zg∏oszone, je˝eli z rzeczy lub prawa przeprowadzona zosta∏a egzekucja przez sprzeda˝ rzeczy lub wykonanie prawa majàtkowego.”;
-- **39)** wart. 45 dotychczasowà treÊç oznacza si´ jako § 1 oraz dodaje si´ § 2 i3 wbrzmieniu: „§ 2. Organ egzekucyjny i egzekutor sà obowiàzani odstàpiç od egzekucji ze sk∏adnika majàtkowego zobowiàzanego, je˝eli okaza∏ on dowody stwierdzajàce cz´Êciowe wykonanie obowiàzku lub umorzenie nale˝noÊci pieni´˝nej, a wartoÊç zaj´tego sk∏adnika majàtkowego bie, októrej mowa wart. 38 § 1. znacznie przekracza kwot´ ostatecznie dochodzonej nale˝noÊci i zobowiàzany posiada inne sk∏adniki majàtkowe, z których egzekucja mo˝e byç prowadzona.
+- **37)** wart. 41 § 1 otrzymuje brzmienie: Ń§ 1. Do czasu ostatecznego rozstrzygnięcia żądania wsprawie wyłączenia spod egzekucji rzeczy lub prawa majątkowego iwokresie 14 dni po tym rozstrzygnięciu oraz wokresie od dnia skierowania do organu egzekucyjnego pozwu, o którym mowa w art. 40 § 2, do dnia uprawomocnienia się orzeczenia sądu w sprawie wyłączenia spod egzekucji objęte żądaniem wyłączenia rzeczy nie mogą być sprzedane, a prawa majątkowe wykonywane.”;
+- **38)** art. 44 otrzymuje brzmienie: ŃArt. 44. ˚ądanie wyłączenia spod egzekucji rzeczy lub prawa majątkowego nie może być zgłoszone, jeżeli z rzeczy lub prawa przeprowadzona została egzekucja przez sprzedaż rzeczy lub wykonanie prawa majątkowego.”;
+- **39)** wart. 45 dotychczasową treść oznacza się jako § 1 oraz dodaje się § 2 i3 wbrzmieniu: Ń§ 2. Organ egzekucyjny i egzekutor są obowiązani odstąpić od egzekucji ze składnika majątkowego zobowiązanego, jeżeli okazał on dowody stwierdzające częściowe wykonanie obowiązku lub umorzenie należności pieniężnej, a wartość zajętego składnika majątkowego bie, októrej mowa wart. 38 § 1. znacznie przekracza kwotę ostatecznie dochodzonej należności i zobowiązany posiada inne składniki majątkowe, z których egzekucja może być prowadzona.
 
-§ 3. Organ egzekucyjny zawiadamia wierzyciela o odstàpieniu od czynnoÊci egzekucyjnych i na jego ˝àdanie wydaje postanowienie w sprawie odstàpienia od czynnoÊci egzekucyjnych. Na postanowienie to przys∏uguje za˝alenie wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekucyjnym.”;
+§ 3. Organ egzekucyjny zawiadamia wierzyciela o odstąpieniu od czynności egzekucyjnych i na jego żądanie wydaje postanowienie w sprawie odstąpienia od czynności egzekucyjnych. Na postanowienie to przysługuje zażalenie wierzycielowi niebędącemu jednocześnie organem egzekucyjnym.”;
 
-- **40)** art. 47 otrzymuje brzmienie: „Art. 47. § 1. Je˝eli cel egzekucji prowadzonej w sprawie nale˝noÊci pieni´˝nej lub wydania rzeczy tego wymaga, organ egzekucyjny zarzàdzi otwarcie Êrodków transportu zobowiàzanego, lokali iinnych pomieszczeƒ zajmowanych przez zobowiàzanego oraz schowków w tych Êrodkach, lokalach i pomieszczeniach.
+- **40)** art. 47 otrzymuje brzmienie: ŃArt. 47. § 1. Jeżeli cel egzekucji prowadzonej w sprawie należności pieniężnej lub wydania rzeczy tego wymaga, organ egzekucyjny zarządzi otwarcie środków transportu zobowiązanego, lokali iinnych pomieszczeń zajmowanych przez zobowiązanego oraz schowków w tych środkach, lokalach i pomieszczeniach.
 
-§ 2. Przeszukania rzeczy, Êrodków transportu, lokali i innych pomieszczeƒ oraz schowków dokonuje komisja powo∏ana przez organ egzekucyjny. Z dokonanych czynnoÊci spisuje si´ protokó∏. Zakoƒczeniem czynnoÊci jest zabezpieczenie przeszukiwanego Êrodka transportu, pomieszczenia lub lokalu. Protokó∏ z dokonanych czynnoÊci przekazuje si´ niezw∏ocznie zobowiàzanemu.
+§ 2. Przeszukania rzeczy, środków transportu, lokali i innych pomieszczeń oraz schowków dokonuje komisja powołana przez organ egzekucyjny. Z dokonanych czynności spisuje się protokół. Zakończeniem czynności jest zabezpieczenie przeszukiwanego środka transportu, pomieszczenia lub lokalu. Protokół z dokonanych czynności przekazuje się niezwłocznie zobowiązanemu.
 
-§ 3. Zarzàdzenie, o którym mowa w § 1, dor´cza si´ zobowiàzanemu.”;
+§ 3. Zarządzenie, o którym mowa w § 1, doręcza się zobowiązanemu.”;
 
-- **41)** art. 49 otrzymuje brzmienie: „Art. 49. § 1. Podczas przeszukania ma prawo byç obecny zobowiàzany.
+- **41)** art. 49 otrzymuje brzmienie: ŃArt. 49. § 1. Podczas przeszukania ma prawo być obecny zobowiązany.
 
-§ 2. Je˝eli zobowiàzany lub inna obecna przy przeszukaniu osoba zachowuje si´ niew∏aÊciwie lub przeszkadza wdokonywaniu czynnoÊci egzekucyjnych, egzekutor mo˝e upomnieç, apo bezskutecznym upomnieniu wydaliç zmiejsca dokonywania czynnoÊci egzekucyjnych t´ osob´.”;
+§ 2. Jeżeli zobowiązany lub inna obecna przy przeszukaniu osoba zachowuje się niewłaściwie lub przeszkadza wdokonywaniu czynności egzekucyjnych, egzekutor może upomnieć, apo bezskutecznym upomnieniu wydalić zmiejsca dokonywania czynności egzekucyjnych tę osobę.”;
 
-- **42)** dodaje si´ art. 49ai49bwbrzmieniu: „Art. 49a. Przeszukanie rzeczy dokonywane jest zgodnie z celem tej czynnoÊci, z zachowaniem umiaru i poszanowania godnoÊci osób, których ta czynnoÊç dotyczy, oraz bez wyrzàdzania niepotrzebnych szkód idolegliwoÊci.
+- **42)** dodaje się art. 49ai49bwbrzmieniu: ŃArt. 49a. Przeszukanie rzeczy dokonywane jest zgodnie z celem tej czynności, z zachowaniem umiaru i poszanowania godności osób, których ta czynność dotyczy, oraz bez wyrządzania niepotrzebnych szkód idolegliwości.
 
 **Art. 49b.**
 
-§ 1. Je˝eli podczas przeszukania egzekutor natrafi na dokument opatrzony klauzulà tajnoÊci, egzekutor odst´puje od jego egzekucji.
+§ 1. Jeżeli podczas przeszukania egzekutor natrafi na dokument opatrzony klauzulą tajności, egzekutor odstępuje od jego egzekucji.
 
-§ 2. Rzeczy, których posiadanie jest zabronione, przekazuje si´ w∏aÊciwemu urz´dowi lub instytucji.”;
+§ 2. Rzeczy, których posiadanie jest zabronione, przekazuje się właściwemu urzędowi lub instytucji.”;
 
-- **43)** wart. 50 dodaje si´ § 4 wbrzmieniu: „§ 4. Przeszukania rzeczy osoby obowiàzanej do zachowania tajemnicy zawodowej dokonuje si´ w obecnoÊci przedstawiciela organizacji zawodowej, do której osoba ta przynale˝y.”;
-- **44)** wart. 51 § 2 otrzymuje brzmienie: „§ 2. Egzekutor przywo∏uje co najmniej dwóch Êwiadków, je˝eli zobowiàzany nie mo˝e byç obecny przy czynnoÊciach egzekucyjnych na skutek wydalenia z miejsca dokonywania czynnoÊci egzekucyjnych lub z innych przyczyn, chyba ˝e zachodzi obawa, i˝ wskutek up∏ywu czasu potrzebnego na przywo∏anie
-- **45)** art. 53 i54 otrzymujà brzmienie: „Art. 53. § 1. Je˝eli przepisy ustawy nie stanowià inaczej, egzekutor sporzàdza protokó∏ z czynnoÊci egzekucyjnych, który zawiera:
-- **1)** oznaczenie miejsca, czasu irodzaju czynnoÊci,
-- **2)** imiona i nazwiska osób uczestniczàcych wczynnoÊci,
-- **3)** sprawozdanie z przebiegu czynnoÊci,
-- **4)** zg∏oszone przez obecnych wnioski ioÊwiadczenia,
-- **5)** podpisy obecnych lub wzmiank´ oprzyczynie braku podpisów,
+- **43)** wart. 50 dodaje się § 4 wbrzmieniu: Ń§ 4. Przeszukania rzeczy osoby obowiązanej do zachowania tajemnicy zawodowej dokonuje się w obecności przedstawiciela organizacji zawodowej, do której osoba ta przynależy.”;
+- **44)** wart. 51 § 2 otrzymuje brzmienie: Ń§ 2. Egzekutor przywołuje co najmniej dwóch świadków, jeżeli zobowiązany nie może być obecny przy czynnościach egzekucyjnych na skutek wydalenia z miejsca dokonywania czynności egzekucyjnych lub z innych przyczyn, chyba że zachodzi obawa, iż wskutek upływu czasu potrzebnego na przywołanie
+- **45)** art. 53 i54 otrzymują brzmienie: ŃArt. 53. § 1. Jeżeli przepisy ustawy nie stanowią inaczej, egzekutor sporządza protokół z czynności egzekucyjnych, który zawiera:
+- **1)** oznaczenie miejsca, czasu irodzaju czynności,
+- **2)** imiona i nazwiska osób uczestniczących wczynności,
+- **3)** sprawozdanie z przebiegu czynności,
+- **4)** zgłoszone przez obecnych wnioski ioświadczenia,
+- **5)** podpisy obecnych lub wzmiankę oprzyczynie braku podpisów,
 - **6)** podpis egzekutora.
 
-§ 2. Odpis protoko∏u, o którym mowa w§1, dor´cza si´ niezw∏ocznie zobowiàzanemu.
+§ 2. Odpis protokołu, o którym mowa w§1, doręcza się niezwłocznie zobowiązanemu.
 
 **Art. 54.**
 
-§ 1. Zobowiàzanemu przys∏uguje skarga na czynnoÊci egzekucyjne organu egzekucyjnego lub egzekutora oraz skarga na przewlek∏oÊç post´powania egzekucyjnego.
+§ 1. Zobowiązanemu przysługuje skarga na czynności egzekucyjne organu egzekucyjnego lub egzekutora oraz skarga na przewlekłość postępowania egzekucyjnego.
 
-§ 2. Na przewlek∏oÊç post´powania egzekucyjnego skarga przys∏uguje równie˝ wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekucyjnym, a tak˝e podmiotowi, którego interes prawny lub faktyczny zosta∏ naruszony w wyniku niewykonania obowiàzku oraz organowi zainteresowanemu wwykonaniu obowiàzku.
+§ 2. Na przewlekłość postępowania egzekucyjnego skarga przysługuje również wierzycielowi niebędącemu jednocześnie organem egzekucyjnym, a także podmiotowi, którego interes prawny lub faktyczny został naruszony w wyniku niewykonania obowiązku oraz organowi zainteresowanemu wwykonaniu obowiązku.
 
-§ 3. Skarg´ na czynnoÊci egzekucyjne organu egzekucyjnego lub egzekutora oraz na przewlek∏oÊç post´powania egzekucyjnego wnosi si´ za poÊrednictwem organu egzekucyjnego.
+§ 3. Skargę na czynności egzekucyjne organu egzekucyjnego lub egzekutora oraz na przewlekłość postępowania egzekucyjnego wnosi się za pośrednictwem organu egzekucyjnego.
 
-§ 4. Skarg´ na czynnoÊci egzekucyjne, o których mowa w § 3, wnosi si´ Êwiadków egzekucja b´dzie udaremniona.”; w terminie 14 dni od dnia dokonania zakwestionowanej czynnoÊci egzekucyjnej, o ile przepisy niniejszej ustawy nie stanowià inaczej.
+§ 4. Skargę na czynności egzekucyjne, o których mowa w § 3, wnosi się świadków egzekucja będzie udaremniona.”; w terminie 14 dni od dnia dokonania zakwestionowanej czynności egzekucyjnej, o ile przepisy niniejszej ustawy nie stanowią inaczej.
 
-§ 5. W sprawie skargi, o której mowa w § 1 i 2, postanowienie wydaje organ nadzoru. Na postanowienie ooddaleniu skargi przys∏uguje za˝alenie.
+§ 5. W sprawie skargi, o której mowa w § 1 i 2, postanowienie wydaje organ nadzoru. Na postanowienie ooddaleniu skargi przysługuje zażalenie.
 
-§ 6. Wniesienie skargi, o której mowa w § 1, nie wstrzymuje post´powania egzekucyjnego. Organ egzekucyjny lub organ nadzoru mo˝e jednak, w drodze postanowienia, wstrzymaç w uzasadnionych przypadkach prowadzenie post´powania egzekucyjnego.”;
+§ 6. Wniesienie skargi, o której mowa w § 1, nie wstrzymuje postępowania egzekucyjnego. Organ egzekucyjny lub organ nadzoru może jednak, w drodze postanowienia, wstrzymać w uzasadnionych przypadkach prowadzenie postępowania egzekucyjnego.”;
 
-- **46)** skreÊla si´ art. 55;
-- **47)** wart. 56 w§ 1 pkt 5 otrzymuje brzmienie: „5) w innych przypadkach przewidzianych w ustawach.”;
+- **46)** skreśla się art. 55;
+- **47)** wart. 56 w§ 1 pkt 5 otrzymuje brzmienie: Ń5) w innych przypadkach przewidzianych w ustawach.”;
 - **48)** wart. 58:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. W przypadku zawieszenia post´powania egzekucyjnego pozostajà wmocy dokonane czynnoÊci egzekucyjne, ztym ˝e wokresie zawieszenia z przyczyn okreÊlonych wart. 56 § 1 pkt 1 i4 mogà byç dokonywane, za zgodà organu egzekucyjnego, wyp∏aty z rachunków bankowych zobowiàzanego po przedstawieniu przez niego dokumentów Êwiadczàcych o koniecznoÊci poniesienia danych wydatków.”,
-    - **b)** § 3 otrzymuje brzmienie: „§ 3. Na postanowienie organu egzekucyjnego w sprawie uchylenia czynnoÊci egzekucyjnych przys∏uguje za˝alenie zobowiàzanemu oraz wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekucyjnym.”;
+    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. W przypadku zawieszenia postępowania egzekucyjnego pozostają wmocy dokonane czynności egzekucyjne, ztym że wokresie zawieszenia z przyczyn określonych wart. 56 § 1 pkt 1 i4 mogą być dokonywane, za zgodą organu egzekucyjnego, wypłaty z rachunków bankowych zobowiązanego po przedstawieniu przez niego dokumentów świadczących o konieczności poniesienia danych wydatków.”,
+    - **b)** § 3 otrzymuje brzmienie: Ń§ 3. Na postanowienie organu egzekucyjnego w sprawie uchylenia czynności egzekucyjnych przysługuje zażalenie zobowiązanemu oraz wierzycielowi niebędącemu jednocześnie organem egzekucyjnym.”;
 
-- **49)** art. 59 otrzymuje brzmienie: „Art. 59. § 1. Post´powanie egzekucyjne umarza si´:
-- **1)** je˝eli obowiàzek zosta∏ wykonany przed wszcz´ciem post´powania,
-- **2)** je˝eli obowiàzek nie jest wymagalny, zosta∏ umorzony lub wygas∏ z innego powodu albo je˝eli obowiàzek nie istnia∏,
-- **3)** je˝eli egzekwowany obowiàzek zosta∏ okreÊlony niezgodnie z treÊcià obowiàzku wynikajàcego z decyzji organu administracyjnego, orzeczenia sàdowego albo bezpoÊrednio z przepisu prawa,
-- **4)** gdy zachodzi b∏àd co do osoby zobowiàzanego lub gdy egzekucja nie mo˝e byç prowadzona ze wzgl´du na osob´ zobowiàzanego,
-- **5)** je˝eli obowiàzek o charakterze niepieni´˝nym okaza∏ si´ niewykonalny,
-- **6)** w przypadku Êmierci zobowiàzanego, gdy obowiàzek jest ÊciÊle zwiàzany zosobà zmar∏ego,
-- **7)** je˝eli egzekucja administracyjna lub zastosowany Êrodek egzekucyjny sà niedopuszczalne albo zobowiàzanemu nie dor´czono upomnienia, mimo i˝ obowiàzek taki cià˝y∏ na wierzycielu,
-- **8)** je˝eli post´powanie egzekucyjne zawieszone na ˝àdanie wierzyciewem 12 miesi´cy od dnia zg∏oszenia tego ˝àdania,
-- **9)** na ˝àdanie wierzyciela,
+- **49)** art. 59 otrzymuje brzmienie: ŃArt. 59. § 1. Postępowanie egzekucyjne umarza się:
+- **1)** jeżeli obowiązek został wykonany przed wszczęciem postępowania,
+- **2)** jeżeli obowiązek nie jest wymagalny, został umorzony lub wygasł z innego powodu albo jeżeli obowiązek nie istniał,
+- **3)** jeżeli egzekwowany obowiązek został określony niezgodnie z treścią obowiązku wynikającego z decyzji organu administracyjnego, orzeczenia sądowego albo bezpośrednio z przepisu prawa,
+- **4)** gdy zachodzi błąd co do osoby zobowiązanego lub gdy egzekucja nie może być prowadzona ze względu na osobę zobowiązanego,
+- **5)** jeżeli obowiązek o charakterze niepieniężnym okazał się niewykonalny,
+- **6)** w przypadku śmierci zobowiązanego, gdy obowiązek jest ściśle związany zosobą zmarłego,
+- **7)** jeżeli egzekucja administracyjna lub zastosowany środek egzekucyjny są niedopuszczalne albo zobowiązanemu nie doręczono upomnienia, mimo iż obowiązek taki ciążył na wierzycielu,
+- **8)** jeżeli postępowanie egzekucyjne zawieszone na żądanie wierzyciewem 12 miesięcy od dnia zgłoszenia tego żądania,
+- **9)** na żądanie wierzyciela,
 - **10)** w innych przypadkach przewidzianych wustawach.
 
-§ 2. Post´powanie egzekucyjne mo˝e byç umorzone wprzypadku stwierdzenia, ˝e w post´powaniu egzekucyjnym dotyczàcym nale˝noÊci pieni´˝nej nie uzyska si´ kwoty przewy˝szajàcej wydatki egzekucyjne.
+§ 2. Postępowanie egzekucyjne może być umorzone wprzypadku stwierdzenia, że w postępowaniu egzekucyjnym dotyczącym należności pieniężnej nie uzyska się kwoty przewyższającej wydatki egzekucyjne.
 
-§ 3. W przypadkach, o których mowa w § 1 i 2, organ egzekucyjny wydaje postanowienie w sprawie umorzenia post´powania egzekucyjnego, chyba ˝e umorzenie post´powania egzekucyjnego nast´puje na podstawie art.34 § 4.
+§ 3. W przypadkach, o których mowa w § 1 i 2, organ egzekucyjny wydaje postanowienie w sprawie umorzenia postępowania egzekucyjnego, chyba że umorzenie postępowania egzekucyjnego następuje na podstawie art.34 § 4.
 
-§ 4. Postanowienie, o którym mowa w§1, wydaje si´ na ˝àdanie zobowiàla nie zosta∏o podj´te przed up∏yzanego albo wierzyciela nieb´dàcego jednoczeÊnie organem egzekucyjnym, z tym ˝e w przypadku umorzenia post´powania egzekucyjnego dotyczàcego obowiàzku o charakterze niepieni´˝nym równie˝ zurz´du.
+§ 4. Postanowienie, o którym mowa w§1, wydaje się na żądanie zobowiąla nie zostało podjęte przed upłyzanego albo wierzyciela niebędącego jednocześnie organem egzekucyjnym, z tym że w przypadku umorzenia postępowania egzekucyjnego dotyczącego obowiązku o charakterze niepieniężnym również zurzędu.
 
-§ 5. Na postanowienie w sprawie umorzenia post´powania egzekucyjnego przys∏uguje za˝alenie zobowiàzanemu oraz wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekucyjnym.”;
+§ 5. Na postanowienie w sprawie umorzenia postępowania egzekucyjnego przysługuje zażalenie zobowiązanemu oraz wierzycielowi niebędącemu jednocześnie organem egzekucyjnym.”;
 
-- **50)** wart. 60 § 1 otrzymuje brzmienie: „§ 1. Umorzenie post´powania egzekucyjnego z przyczyny, o której mowa w art. 59 § 1 pkt 1—8 i 10, powoduje uchylenie dokonanych czynnoÊci egzekucyjnych, je˝eli przepisy ustawy nie stanowià inaczej. Pozostajà jednak w mocy prawa osób trzecich nabyte na skutek tych czynnoÊci.”;
-- **51)** wart. 61 wyrazy „art. 59 §1 pkt 9” zast´puje si´ wyrazami „art. 59 §2”;
-- **52)** art. 62—64 otrzymujà brzmienie: „Art. 62. W przypadku zbiegu egzekucji administracyjnej i egzekucji sàdowej do tej samej nieruchomoÊci, rzeczy albo prawa majàtkowego lub niemajàtkowego, organ egzekucyjny wstrzymuje czynnoÊci egzekucyjne na wniosek wierzyciela, zobowiàzanego lub z urz´du i przekazuje akta egzekucji administracyjnej sàdowi rejonowemu zgodnie z przepisami Kodeksu post´powania cywilnego.
+- **50)** wart. 60 § 1 otrzymuje brzmienie: Ń§ 1. Umorzenie postępowania egzekucyjnego z przyczyny, o której mowa w art. 59 § 1 pkt 1—8 i 10, powoduje uchylenie dokonanych czynności egzekucyjnych, jeżeli przepisy ustawy nie stanowią inaczej. Pozostają jednak w mocy prawa osób trzecich nabyte na skutek tych czynności.”;
+- **51)** wart. 61 wyrazy Ńart. 59 §1 pkt 9” zastępuje się wyrazami Ńart. 59 §2”;
+- **52)** art. 62—64 otrzymują brzmienie: ŃArt. 62. W przypadku zbiegu egzekucji administracyjnej i egzekucji sądowej do tej samej nieruchomości, rzeczy albo prawa majątkowego lub niemajątkowego, organ egzekucyjny wstrzymuje czynności egzekucyjne na wniosek wierzyciela, zobowiązanego lub z urzędu i przekazuje akta egzekucji administracyjnej sądowi rejonowemu zgodnie z przepisami Kodeksu postępowania cywilnego.
 
 **Art. 63.**
 
-§ 1. W przypadku zbiegu egzekucji administracyjnej do tej samej rzeczy albo prawa majàtkowego, prowadzonej przez organy egzekucyjne, o których mowa w art. 19, ∏àczne prowadzenie egzekucji przejmuje naczelnik urz´du skarbowego, który pierwszy zastosowa∏ Êrodek egzekucyjny, a je˝eli naczelnik urz´du skarbowego nie dokona∏ takiej czynnoÊci lub nie dokona∏ jej jako pierwszy ∏àczne prowadzenie egzekucji przejmuje naczelnik urz´du skarbowego w∏aÊciwy wed∏ug siedziby lub miejsca zamieszkania zobowiàzanego, z zastrze˝eniem § 2.
+§ 1. W przypadku zbiegu egzekucji administracyjnej do tej samej rzeczy albo prawa majątkowego, prowadzonej przez organy egzekucyjne, o których mowa w art. 19, łączne prowadzenie egzekucji przejmuje naczelnik urzędu skarbowego, który pierwszy zastosował środek egzekucyjny, a jeżeli naczelnik urzędu skarbowego nie dokonał takiej czynności lub nie dokonał jej jako pierwszy łączne prowadzenie egzekucji przejmuje naczelnik urzędu skarbowego właściwy według siedziby lub miejsca zamieszkania zobowiązanego, z zastrzeżeniem § 2.
 
-§ 2. Je˝eli Êrodek egzekucyjny zastosowa∏ naczelnik urz´du skarbowego w∏aÊciwy wed∏ug miejsca po∏o˝enia majàtku zobowiàzanego, ∏àczne prowadzenie egzekucji przejmuje ten organ.
+§ 2. Jeżeli środek egzekucyjny zastosował naczelnik urzędu skarbowego właściwy według miejsca położenia majątku zobowiązanego, łączne prowadzenie egzekucji przejmuje ten organ.
 
-§ 3. W przypadku wystàpienia dalszych zbiegów egzekucji ∏àczne prowadzenie egzekucji przejmuje naczelnik urz´du skarbowego, który przejà∏ prowadzenie egzekucji zgodnie z § 1 lub2.
+§ 3. W przypadku wystąpienia dalszych zbiegów egzekucji łączne prowadzenie egzekucji przejmuje naczelnik urzędu skarbowego, który przejął prowadzenie egzekucji zgodnie z § 1 lub2.
 
 **Art. 64.**
 
-§ 1. Organ egzekucyjny, z zastrze˝eniem § 2, w egzekucji nale˝noÊci pieni´˝nych pobiera za dokonane czynnoÊci egzekucyjne op∏aty w nast´pujàcej wysokoÊci, zzastrze˝eniem art. 64d:
+§ 1. Organ egzekucyjny, z zastrzeżeniem § 2, w egzekucji należności pieniężnych pobiera za dokonane czynności egzekucyjne opłaty w następującej wysokości, zzastrzeżeniem art. 64d:
 
-- **1)** za pobranie pieni´dzy na miejscu u zobowiàzanego 5% kwoty pobranej nale˝noÊci, nie mniej jednak ni˝ 2 z∏ 50 gr,
-- **2)** za zaj´cie Êwiadczeƒ z ubezpieczenia spo∏ecznego 4% kwoty egzekwowanej nale˝noÊci, nie mniej jednak ni˝ 1 z∏ 40 gr,
-- **3)** za zaj´cie wynagrodzenia za prac´ 4% egzekwowanej nale˝noÊci, nie mniej jednak ni˝ 2 z∏ 50 gr,
-- **4)** za zaj´cie innych ni˝ wymienione w pkt 2 i 3 wierzytelnoÊci pieni´˝nych lub innych praw majàtkowych 5% kwoty egzekwowanej nale˝noÊci, nie mniej jednak ni˝ 4 z∏ 20 gr,
-- **5)** za zaj´cie ruchomoÊci 6% kwoty egzekwowanej nale˝noÊci, nie mniej jednak ni˝ 6 z∏ 80 gr,
-- **6)** za zaj´cie nieruchomoÊci 8% kwoty egzekwowanej nale˝noÊci, nie wi´cej jednak ni˝ czterdziestopi´ciokrotna wysokoÊç najni˝szego wynagrodzenia za prac´ okreÊlonego w odr´bnych przepisach, obowiàzujàcego w dniu, w którym op∏ata sta∏a si´ nale˝na,
-- **7)** za odebranie zaj´tych ruchomoÊci od zobowiàzanego 5% kwoty wartoÊci szacunkowej tych ruchomoÊci, nie mniej jednak ni˝ 6 z∏
-- **8)** za odebranie pomieszczeƒ w zaj´tej nieruchomoÊci w wysokoÊci i na zasadach okreÊlonych wart.64a§ 1 pkt 6,
-- **9)** za og∏oszenie sprzeda˝y zaj´tych ruchomoÊci w drodze licytacji lub przetargu ofert lub za czynnoÊci przygotowawcze do sprzeda˝y egzekucyjnej w inny sposób 6 z∏ 80 gr,
-- **10)** za og∏oszenie sprzeda˝y zaj´tej nieruchomoÊci 10 z∏,
-- **11)** za przeprowadzenie licytacji lub dokonanie sprzeda˝y egzekucyjnej winny sposób 5% kwoty uzyskanej ze sprzeda˝y, nie mniej jednak ni˝ 6 z∏ 80 gr,
-- **12)** za spisanie protoko∏u o udaremnieniu przez zobowiàzanego przeprowadzenia egzekucji z zaj´tych ruchomoÊci lub praw majàtkowych przez ich usuni´cie, zbycie lub uszkodzenie 10% wartoÊci szacunkowej tych ruchomoÊci, nie mniej jednak ni˝ 13 z∏ 50 gr,
-- **13)** za wezwanie pomocy Policji, Stra˝y Granicznej, Urz´du Ochrony Paƒstwa, ˚andarmerii Wojskowej lub wojskowych organów porzàdkowych 13 z∏ 50 gr,
-- **14)** za spisanie na miejscu u zobowiàzanego protoko∏u o stanie majàtkowym zobowiàzanego 10% kwoty egzekwowanej nale˝noÊci, nie wi´cej jednak ni˝ 3 z∏.
+- **1)** za pobranie pieniędzy na miejscu u zobowiązanego 5% kwoty pobranej należności, nie mniej jednak niż 2 zł 50 gr,
+- **2)** za zajęcie świadczeń z ubezpieczenia społecznego 4% kwoty egzekwowanej należności, nie mniej jednak niż 1 zł 40 gr,
+- **3)** za zajęcie wynagrodzenia za pracę 4% egzekwowanej należności, nie mniej jednak niż 2 zł 50 gr,
+- **4)** za zajęcie innych niż wymienione w pkt 2 i 3 wierzytelności pieniężnych lub innych praw majątkowych 5% kwoty egzekwowanej należności, nie mniej jednak niż 4 zł 20 gr,
+- **5)** za zajęcie ruchomości 6% kwoty egzekwowanej należności, nie mniej jednak niż 6 zł 80 gr,
+- **6)** za zajęcie nieruchomości 8% kwoty egzekwowanej należności, nie więcej jednak niż czterdziestopięciokrotna wysokość najniższego wynagrodzenia za pracę określonego w odrębnych przepisach, obowiązującego w dniu, w którym opłata stała się należna,
+- **7)** za odebranie zajętych ruchomości od zobowiązanego 5% kwoty wartości szacunkowej tych ruchomości, nie mniej jednak niż 6 zł
+- **8)** za odebranie pomieszczeń w zajętej nieruchomości w wysokości i na zasadach określonych wart.64a§ 1 pkt 6,
+- **9)** za ogłoszenie sprzedaży zajętych ruchomości w drodze licytacji lub przetargu ofert lub za czynności przygotowawcze do sprzedaży egzekucyjnej w inny sposób 6 zł 80 gr,
+- **10)** za ogłoszenie sprzedaży zajętej nieruchomości 10 zł,
+- **11)** za przeprowadzenie licytacji lub dokonanie sprzedaży egzekucyjnej winny sposób 5% kwoty uzyskanej ze sprzedaży, nie mniej jednak niż 6 zł 80 gr,
+- **12)** za spisanie protokołu o udaremnieniu przez zobowiązanego przeprowadzenia egzekucji z zajętych ruchomości lub praw majątkowych przez ich usunięcie, zbycie lub uszkodzenie 10% wartości szacunkowej tych ruchomości, nie mniej jednak niż 13 zł 50 gr,
+- **13)** za wezwanie pomocy Policji, Straży Granicznej, Urzędu Ochrony Państwa, ˚andarmerii Wojskowej lub wojskowych organów porządkowych 13 zł 50 gr,
+- **14)** za spisanie na miejscu u zobowiązanego protokołu o stanie majątkowym zobowiązanego 10% kwoty egzekwowanej należności, nie więcej jednak niż 3 zł.
 
-§ 2. Organ egzekucyjny pobiera op∏aty za czynnoÊci egzekucyjne, je˝eli nie póêniej ni˝ po up∏ywie 14 dni od dnia dokonania pierwszego zaj´cia nieruchomoÊci, rzeczy lub prawa majàtkowego nada∏ w placówce pocztowej za pokwitowaniem lub dor´czy∏ zobowiàzanemu odpis tytu∏u wykonaw80 gr, czego lub zawiadomienie o zaj´ciu wierzytelnoÊci lub innego prawa majàtkowego.
+§ 2. Organ egzekucyjny pobiera opłaty za czynności egzekucyjne, jeżeli nie póêniej niż po upływie 14 dni od dnia dokonania pierwszego zajęcia nieruchomości, rzeczy lub prawa majątkowego nadał w placówce pocztowej za pokwitowaniem lub doręczył zobowiązanemu odpis tytułu wykonaw80 gr, czego lub zawiadomienie o zajęciu wierzytelności lub innego prawa majątkowego.
 
-§ 3. Op∏aty za czynnoÊci egzekucyjne, o których mowa w § 1 pkt 1—6, oblicza si´ oddzielnie od ka˝dego tytu∏u wykonawczego, który by∏ podstawà dokonania czynnoÊci egzekucyjnych.
+§ 3. Opłaty za czynności egzekucyjne, o których mowa w § 1 pkt 1—6, oblicza się oddzielnie od każdego tytułu wykonawczego, który był podstawą dokonania czynności egzekucyjnych.
 
-§ 4. Op∏aty za zaj´cia, o których mowa w § 1 pkt 2—6, pobiera si´ tylko raz wtoku post´powania egzekucyjnego, chocia˝by takie same czynnoÊci by∏y nast´pnie ponawiane.
+§ 4. Opłaty za zajęcia, o których mowa w § 1 pkt 2—6, pobiera się tylko raz wtoku postępowania egzekucyjnego, chociażby takie same czynności były następnie ponawiane.
 
-§ 5. Je˝eli wcelu wyegzekwowania tej samej nale˝noÊci pieni´˝nej dokonano czynnoÊci egzekucyjnych, o których mowa w § 1 pkt 2—6, op∏at´ egzekucyjnà pobiera si´ tylko za jedno zaj´cie, za które nale˝y si´ najwy˝sza op∏ata, nie mniej jednak ni˝ 6 z∏ 80 gr.
+§ 5. Jeżeli wcelu wyegzekwowania tej samej należności pieniężnej dokonano czynności egzekucyjnych, o których mowa w § 1 pkt 2—6, opłatę egzekucyjną pobiera się tylko za jedno zajęcie, za które należy się najwyższa opłata, nie mniej jednak niż 6 zł 80 gr.
 
-§ 6. Organ egzekucyjny pobiera op∏at´ manipulacyjnà ztytu∏u zwrotu wydatków za wszystkie czynnoÊci manipulacyjne zwiàzane ze stosowaniem Êrodków egzekucyjnych. Op∏ata wynosi 1% kwoty egzekwowanych nale˝noÊci obj´tych ka˝dym tytu∏em wykonawczym, nie mniej jednak ni˝ 1z∏ 40 gr.
+§ 6. Organ egzekucyjny pobiera opłatę manipulacyjną ztytułu zwrotu wydatków za wszystkie czynności manipulacyjne związane ze stosowaniem środków egzekucyjnych. Opłata wynosi 1% kwoty egzekwowanych należności objętych każdym tytułem wykonawczym, nie mniej jednak niż 1zł 40 gr.
 
-§ 7. Je˝eli wysokoÊç op∏aty egzekucyjnej jest okreÊlona stosunkowo do egzekwowanej lub pobranej nale˝noÊci pieni´˝nej, w podstawie obliczenia op∏aty uwzgl´dnia si´ równie˝ odsetki z tytu∏u niezap∏acenia nale˝noÊci w terminie, przypadajàce w dniu powstania obowiàzku uiszczenia op∏aty.
+§ 7. Jeżeli wysokość opłaty egzekucyjnej jest określona stosunkowo do egzekwowanej lub pobranej należności pieniężnej, w podstawie obliczenia opłaty uwzględnia się również odsetki z tytułu niezapłacenia należności w terminie, przypadające w dniu powstania obowiązku uiszczenia opłaty.
 
-§ 8. Zap∏ata egzekwowanej nale˝noÊci po dokonaniu czynnoÊci egzekucyjnych nie zwalnia od obowiàzku uiszczenia op∏aty manipulacyjnej oraz op∏at za czynnoÊci egzekucyjne i wydatków egzekucyjnych.
+§ 8. Zapłata egzekwowanej należności po dokonaniu czynności egzekucyjnych nie zwalnia od obowiązku uiszczenia opłaty manipulacyjnej oraz opłat za czynności egzekucyjne i wydatków egzekucyjnych.
 
-§ 9. Obowiàzek uiszczenia op∏at, o których mowa w§ 1 i6, powstaje:
+§ 9. Obowiązek uiszczenia opłat, o których mowa w§ 1 i6, powstaje:
 
-- **1)** za pobranie pieni´dzy z chwilà pobrania,
-- **2)** za zaj´cie wierzytelnoÊci pieni´˝nych lub innych praw majàtkowych u d∏u˝nika zaj´tej wierzytelnoÊci zchwilà dor´czenia d∏u˝nikowi zaj´tej wierzytelnoÊci zawiadomienia ozaj´ciu,
-- **3)** za zaj´cie wierzytelnoÊci pieni´˝nych lub innych praw majàtkowych w inny sposób ni˝ okreÊlony w pkt 2 z chwilà zawiadomienia zobowiàzanego ozaj´ciu,
-- **4)** za zaj´cie ruchomoÊci z chwilà podpisania protoko∏u zaj´cia przez poborc´ skarbowego,
-- **5)** za zaj´cie nieruchomoÊci zchwilà dor´czenia zobowiàzanemu wezwania, októrym mowa wart.110c § 2,
-- **6)** za odebranie zaj´tych ruchomoÊci od zobowiàzanego lub odebranie pomieszczeƒ w zaj´tej nieruchomoÊci zchwilà podpisania przez poborc´ skarbowego protoko∏u ich odebrania,
-- **7)** za og∏oszenie o licytacji ruchomoÊci lub za czynnoÊci przygotowawcze do sprzeda˝y egzekucyjnej zaj´tych ruchomoÊci w inny sposób lub og∏oszenie sprzeda˝y zaj´tej nia zobowiàzanemu odpisu obwieszczenia olicytacji lub zawiadomienia o dokonaniu czynnoÊci przygotowawczych do sprzeda˝y winny sposób,
-- **8)** za przeprowadzenie licytacji lub dokonanie sprzeda˝y egzekucyjnej winny sposób zchwilà podpisania przez poborc´ skarbowego protoko∏u sprzeda˝y,
-- **9)** za spisanie protoko∏u o udaremnieniu egzekucji zchwilà podpisania przez poborc´ skarbowego tego protoko∏u,
-- **10)** za wezwanie pomocy organów, o których mowa w § 1 pkt 13 zchwilà przybycia funkcjonariusza na miejsce wykonywania czynnoÊci egzekucyjnej,
-- **11)** za spisanie protoko∏u o stanie majàtkowym zobowiàzanego z chwilà podpisania protoko∏u przez poborc´ skarbowego lub innego upowa˝nionego pracownika oraz przez zobowiàzanego lub Êwiadka przywo∏anego do tej czynnoÊci.
+- **1)** za pobranie pieniędzy z chwilą pobrania,
+- **2)** za zajęcie wierzytelności pieniężnych lub innych praw majątkowych u dłużnika zajętej wierzytelności zchwilą doręczenia dłużnikowi zajętej wierzytelności zawiadomienia ozajęciu,
+- **3)** za zajęcie wierzytelności pieniężnych lub innych praw majątkowych w inny sposób niż określony w pkt 2 z chwilą zawiadomienia zobowiązanego ozajęciu,
+- **4)** za zajęcie ruchomości z chwilą podpisania protokołu zajęcia przez poborcę skarbowego,
+- **5)** za zajęcie nieruchomości zchwilą doręczenia zobowiązanemu wezwania, októrym mowa wart.110c § 2,
+- **6)** za odebranie zajętych ruchomości od zobowiązanego lub odebranie pomieszczeń w zajętej nieruchomości zchwilą podpisania przez poborcę skarbowego protokołu ich odebrania,
+- **7)** za ogłoszenie o licytacji ruchomości lub za czynności przygotowawcze do sprzedaży egzekucyjnej zajętych ruchomości w inny sposób lub ogłoszenie sprzedaży zajętej nia zobowiązanemu odpisu obwieszczenia olicytacji lub zawiadomienia o dokonaniu czynności przygotowawczych do sprzedaży winny sposób,
+- **8)** za przeprowadzenie licytacji lub dokonanie sprzedaży egzekucyjnej winny sposób zchwilą podpisania przez poborcę skarbowego protokołu sprzedaży,
+- **9)** za spisanie protokołu o udaremnieniu egzekucji zchwilą podpisania przez poborcę skarbowego tego protokołu,
+- **10)** za wezwanie pomocy organów, o których mowa w § 1 pkt 13 zchwilą przybycia funkcjonariusza na miejsce wykonywania czynności egzekucyjnej,
+- **11)** za spisanie protokołu o stanie majątkowym zobowiązanego z chwilą podpisania protokołu przez poborcę skarbowego lub innego upoważnionego pracownika oraz przez zobowiązanego lub świadka przywołanego do tej czynności.
 
-§ 10. Obowiàzek uiszczenia op∏aty manipulacyjnej powstaje zchwilà dor´czenia zobowiàzanemu odpisu tytu∏u wykonawczego. Je˝eli pierwszà czynnoÊcià egzekucyjnà jest zaj´cie wierzytelnoÊci pieni´˝nej lub innego prawa majàtkowego u d∏u˝nika zaj´tej wierzytelnoÊci, obowiàzek uiszczenia op∏aty manipulacyjnej powstaje równoczeÊnie z obowiàzkiem uiszczenia op∏aty za zaj´cie.”;
+§ 10. Obowiązek uiszczenia opłaty manipulacyjnej powstaje zchwilą doręczenia zobowiązanemu odpisu tytułu wykonawczego. Jeżeli pierwszą czynnością egzekucyjną jest zajęcie wierzytelności pieniężnej lub innego prawa majątkowego u dłużnika zajętej wierzytelności, obowiązek uiszczenia opłaty manipulacyjnej powstaje równocześnie z obowiązkiem uiszczenia opłaty za zajęcie.”;
 
-- **53)** dodaje si´ art. 64a—64fwbrzmieniu: „Art. 64a. § 1. Organ egzekucyjny wegzekucji obowiàzków o charakterze niepieni´˝nym pobiera op∏aty za dokonane nieruchomoÊci zchwilà dor´czeczynnoÊci egzekucyjne wnast´pujàcej wysokoÊci, z zastrze˝eniem art.64d:
-- **1)** za wydanie postanowienia o na∏o˝eniu grzywny w celu przymuszenia 10% kwoty na∏o˝onej grzywny, nie wi´cej jednak ni˝ 68z∏; wprzypadku wielokrotnego nak∏adania grzywien op∏at´ pobiera si´ osobno od ka˝dego postanowienia,
+- **53)** dodaje się art. 64a—64fwbrzmieniu: ŃArt. 64a. § 1. Organ egzekucyjny wegzekucji obowiązków o charakterze niepieniężnym pobiera opłaty za dokonane nieruchomości zchwilą doręczeczynności egzekucyjne wnastępującej wysokości, z zastrzeżeniem art.64d:
+- **1)** za wydanie postanowienia o nałożeniu grzywny w celu przymuszenia 10% kwoty nałożonej grzywny, nie więcej jednak niż 68zł; wprzypadku wielokrotnego nakładania grzywien opłatę pobiera się osobno od każdego postanowienia,
 - **2)** za wydanie postanowienia o:
-    - **a)** zastosowaniu wykonania zast´pczego,
-    - **b)** wezwaniu zobowiàzanego do wydania rzeczy ruchomej albo dokumentu,
-    - **c)** wezwaniu zobowiàzanego do wykonania obowiàzku wydania nieruchomoÊci albo opró˝nienia lokalu,
-    - **d)** wezwaniu zobowiàzanego do wykonania obowiàzku wskazanego w tytule wykonawczym, z zagro˝eniem zastosowania przymusu bezpoÊredniego 6 z∏ 80 gr,
+    - **a)** zastosowaniu wykonania zastępczego,
+    - **b)** wezwaniu zobowiązanego do wydania rzeczy ruchomej albo dokumentu,
+    - **c)** wezwaniu zobowiązanego do wykonania obowiązku wydania nieruchomości albo opróżnienia lokalu,
+    - **d)** wezwaniu zobowiązanego do wykonania obowiązku wskazanego w tytule wykonawczym, z zagrożeniem zastosowania przymusu bezpośredniego 6 zł 80 gr,
 
-- **3)** za odebranie rzeczy ruchomej 6z∏ 80 gr,
-- **4)** za odebranie dokumentu 4 z∏ 20 gr,
-- **5)** za odebranie nieruchomoÊci 68z∏,
-- **6)** za opró˝nienie lokalu iinnych pomieszczeƒ 6 z∏ 80 gr od ka˝dej izby; za opró˝nienie pomieszczeƒ mieszkalnych nie pobiera si´ odr´bnej op∏aty od pomieszczeƒ pomocniczych, jak przedpokoje, korytarze, werandy, ∏azienki, spi˝arnie, aza opró˝nienie pomieszczeƒ gospodarczych, w szczególnoÊci gara˝y i stajni, pobiera si´ op∏at´ za ka˝de pomieszczenie jak za izb´,
-- **7)** za czynnoÊci dotyczàce sprzeda˝y licytacyjnej, za spisanie protoko∏u oudaremnieniu przeprowadzenia egzekucji oraz za wezwanie pomocy organów, o których mowa wart. 64 § 1 pkt 13, pobiera si´ odpowiednio op∏aty okreÊlone wart. 64 § 1 pkt 7, 9 i11—13.
+- **3)** za odebranie rzeczy ruchomej 6zł 80 gr,
+- **4)** za odebranie dokumentu 4 zł 20 gr,
+- **5)** za odebranie nieruchomości 68zł,
+- **6)** za opróżnienie lokalu iinnych pomieszczeń 6 zł 80 gr od każdej izby; za opróżnienie pomieszczeń mieszkalnych nie pobiera się odrębnej opłaty od pomieszczeń pomocniczych, jak przedpokoje, korytarze, werandy, łazienki, spiżarnie, aza opróżnienie pomieszczeń gospodarczych, w szczególności garaży i stajni, pobiera się opłatę za każde pomieszczenie jak za izbę,
+- **7)** za czynności dotyczące sprzedaży licytacyjnej, za spisanie protokołu oudaremnieniu przeprowadzenia egzekucji oraz za wezwanie pomocy organów, o których mowa wart. 64 § 1 pkt 13, pobiera się odpowiednio opłaty określone wart. 64 § 1 pkt 7, 9 i11—13.
 
-§ 2. Obowiàzek uiszczenia op∏at, o których mowa w§ 1, powstaje:
+§ 2. Obowiązek uiszczenia opłat, o których mowa w§ 1, powstaje:
 
-- **1)** za wydanie postanowieƒ wymienionych wpkt 1 i2 zchwilà dor´czenia zobowiàzanemu postanowienia,
-- **2)** za czynnoÊci wymienione w pkt 3—6 zchwilà podpisania przez egzekutora protoko∏u czynnoÊci egzekucyjnych,
-- **3)** za czynnoÊci wymienione wpkt 7 zchwilà dor´czenia zobowiàzanemu odpisu obwieszczenia o licytacji, zchwilà podpisania protoko∏u przeprowadzenia licytacji, z chwilà przybycia funkcjonariusza organów, o których mowa wart. 64 § 1 pkt 13, na miejsce wykonywania czynnoÊci egzekucyjnych lub zchwilà podpisania protoko∏u o udaremnieniu przeprowadzenia egzekucji.
+- **1)** za wydanie postanowień wymienionych wpkt 1 i2 zchwilą doręczenia zobowiązanemu postanowienia,
+- **2)** za czynności wymienione w pkt 3—6 zchwilą podpisania przez egzekutora protokołu czynności egzekucyjnych,
+- **3)** za czynności wymienione wpkt 7 zchwilą doręczenia zobowiązanemu odpisu obwieszczenia o licytacji, zchwilą podpisania protokołu przeprowadzenia licytacji, z chwilą przybycia funkcjonariusza organów, o których mowa wart. 64 § 1 pkt 13, na miejsce wykonywania czynności egzekucyjnych lub zchwilą podpisania protokołu o udaremnieniu przeprowadzenia egzekucji.
 
-**Art. 64b.** Wydatkami egzekucyjnymi sà koszty fakcyjny w zwiàzku z prowadzeniem egzekucji, awszczególnoÊci na op∏acenie:
+**Art. 64b.** Wydatkami egzekucyjnymi są koszty fakcyjny w związku z prowadzeniem egzekucji, awszczególności na opłacenie:
 
 **Art. 64c.**
 
-§ 1. Op∏aty, októrych mowa wart. 64 § 1 i6 oraz wart. 64a, wraz zwydatkami poniesionymi przez organ egzekucyjny stanowià koszty egzekucyjne. Koszty egzekucyjne, zzastrze˝eniem § 2—4, obcià˝ajà zobowiàzanego.
+§ 1. Opłaty, októrych mowa wart. 64 § 1 i6 oraz wart. 64a, wraz zwydatkami poniesionymi przez organ egzekucyjny stanowią koszty egzekucyjne. Koszty egzekucyjne, zzastrzeżeniem § 2—4, obciążają zobowiązanego.
 
-§ 2. Je˝eli tytu∏ wykonawczy zawiera wady uniemo˝liwiajàce przeprowadzenie post´powania egzekucyjnego, które nie mog∏y byç znane organowi egzekucyjnemu w chwili skierowania tego tytu∏u do egzekucji, wierzyciel nieb´dàcy jednoczeÊnie tycznie poniesione przez organ egzekuorganem egzekucyjnym obowiàzany jest uiÊciç, tytu∏em zwrotu wydatków poniesionych przez organ egzekucyjny, kwot´ wynoszàcà 3 z∏ 40 gr.
+§ 2. Jeżeli tytuł wykonawczy zawiera wady uniemożliwiające przeprowadzenie postępowania egzekucyjnego, które nie mogły być znane organowi egzekucyjnemu w chwili skierowania tego tytułu do egzekucji, wierzyciel niebędący jednocześnie tycznie poniesione przez organ egzekuorganem egzekucyjnym obowiązany jest uiścić, tytułem zwrotu wydatków poniesionych przez organ egzekucyjny, kwotę wynoszącą 3 zł 40 gr.
 
-§ 3. Je˝eli po pobraniu od zobowiàzanego nale˝noÊci ztytu∏u kosztów egzekucyjnych oka˝e si´, ˝e wszcz´cie i prowadzenie egzekucji by∏o niezgodne z prawem, nale˝noÊci te, wraz z naliczonymi od dnia ich pobrania odsetkami ustawowymi, organ egzekucyjny zwraca zobowiàzanemu, aje˝eli niezgodne zprzepisami ustawy wszcz´cie i prowadzenie egzekucji spowodowa∏ wierzyciel, obcià˝a nimi wierzyciela.
+§ 3. Jeżeli po pobraniu od zobowiązanego należności ztytułu kosztów egzekucyjnych okaże się, że wszczęcie i prowadzenie egzekucji było niezgodne z prawem, należności te, wraz z naliczonymi od dnia ich pobrania odsetkami ustawowymi, organ egzekucyjny zwraca zobowiązanemu, ajeżeli niezgodne zprzepisami ustawy wszczęcie i prowadzenie egzekucji spowodował wierzyciel, obciąża nimi wierzyciela.
 
-§ 4. Wierzyciel pokrywa koszty post´powania egzekucyjnego, je˝eli nie mogà byç one Êciàgni´te od zobowiàza- Êci egzekucyjne nast´puje z ostatnego. nim dniem kwarta∏u nast´pujàcego § 5. Egzekucja kosztów egzekucyjnych po kwartale, wktórym wzrost cen tonast´puje w trybie przepisów o po- warów i us∏ug konsumpcyjnych, list´powaniu egzekucyjnym w admi- czony od dnia 1 stycznia 2002 r. przenistracji. Przy egzekucji kosztów eg- kroczy∏ 20% lub wielokrotnoÊç tej zekucyjnych nie pobiera si´ op∏at za wielkoÊci. czynnoÊci egzekucyjne. § 3. Minister w∏aÊciwy do spraw finan§ 6. Koszty egzekucyjne powsta∏e w eg- sów publicznych og∏asza, w drodze zekucji nale˝noÊci pieni´˝nej sà do- obwieszczenia, podwy˝szone kwoty chodzone na podstawie tytu∏u wy- op∏at za czynnoÊci egzekucyjne konawczego wystawionego na t´ w Dzienniku Urz´dowym Rzeczyponale˝noÊç, chyba ˝e przepisy niniej- spolitej Polskiej «Monitor Polski». szej ustawy stanowià inaczej. § 4.Przepisy § 1—3 stosuje si´ równie˝ § 7. Organ egzekucyjny wydaje postano- do innych nale˝noÊci lub wartoÊci wienie w sprawie kosztów egzeku- okreÊlonych wustawie kwotowo. cyjnych na ˝àdanie zobowiàzanego Art. 64e. § 1. Organ egzekucyjny mo˝e umorzyç albo zurz´du, je˝eli koszty te obcià- w ca∏oÊci lub w cz´Êci przypadajàce ˝ajà wierzyciela. Na postanowienie na jego rzecz koszty egzekucyjne. to przys∏uguje za˝alenie.
+§ 4. Wierzyciel pokrywa koszty postępowania egzekucyjnego, jeżeli nie mogą być one ściągnięte od zobowiąza- ści egzekucyjne następuje z ostatnego. nim dniem kwartału następującego § 5. Egzekucja kosztów egzekucyjnych po kwartale, wktórym wzrost cen tonastępuje w trybie przepisów o po- warów i usług konsumpcyjnych, listępowaniu egzekucyjnym w admi- czony od dnia 1 stycznia 2002 r. przenistracji. Przy egzekucji kosztów eg- kroczył 20% lub wielokrotność tej zekucyjnych nie pobiera się opłat za wielkości. czynności egzekucyjne. § 3. Minister właściwy do spraw finan§ 6. Koszty egzekucyjne powstałe w eg- sów publicznych ogłasza, w drodze zekucji należności pieniężnej są do- obwieszczenia, podwyższone kwoty chodzone na podstawie tytułu wy- opłat za czynności egzekucyjne konawczego wystawionego na tę w Dzienniku Urzędowym Rzeczyponależność, chyba że przepisy niniej- spolitej Polskiej «Monitor Polski». szej ustawy stanowią inaczej. § 4.Przepisy § 1—3 stosuje się również § 7. Organ egzekucyjny wydaje postano- do innych należności lub wartości wienie w sprawie kosztów egzeku- określonych wustawie kwotowo. cyjnych na żądanie zobowiązanego Art. 64e. § 1. Organ egzekucyjny może umorzyć albo zurzędu, jeżeli koszty te obcią- w całości lub w części przypadające żają wierzyciela. Na postanowienie na jego rzecz koszty egzekucyjne. to przysługuje zażalenie.
 
-§ 8. ˚àdanie, o którym mowa w § 7, nie § 2. Koszty egzekucyjne mogà byç umopodlega rozpatrzeniu, je˝eli zosta∏o wniesione po up∏ywie 14 dni od dnia dor´czenia zobowiàzanemu postanowienia o umorzeniu post´powania egzekucyjnego, a w przypadku zakoƒczenia post´powania egzekucyjnego wskutek wyegzekwowania wykonania obowiàzku od dnia powiadomienia zobowiàzanego owysokoÊci pobranych kosztów egzekucyjnych.
+§ 8. ˚ądanie, o którym mowa w § 7, nie § 2. Koszty egzekucyjne mogą być umopodlega rozpatrzeniu, jeżeli zostało wniesione po upływie 14 dni od dnia doręczenia zobowiązanemu postanowienia o umorzeniu postępowania egzekucyjnego, a w przypadku zakończenia postępowania egzekucyjnego wskutek wyegzekwowania wykonania obowiązku od dnia powiadomienia zobowiązanego owysokości pobranych kosztów egzekucyjnych.
 
-§ 9. Koszty egzekucyjne przypadajà na rzecz tego organu, który dokona∏ czynnoÊci egzekucyjnych powodujàcych powstanie kosztów, zzastrze˝eniem § 10.
+§ 9. Koszty egzekucyjne przypadają na rzecz tego organu, który dokonał czynności egzekucyjnych powodujących powstanie kosztów, zzastrzeżeniem § 10.
 
-§ 10. W przypadku bezskutecznoÊci egzekucji prowadzonej przez organy egzekucyjne, októrych mowa wart. 19 § 3—5 i7, iprzej´cia dalszego post´powania egzekucyjnego przez naczelnika urz´du skarbowego, op∏aty za czynnoÊci egzekucyjne przypadajà wca∏oÊci na rzecz komórki organizacyjnej urz´du skarbowego prowadzàcej egzekucj´ administracyjnà.
+§ 10. W przypadku bezskuteczności egzekucji prowadzonej przez organy egzekucyjne, októrych mowa wart. 19 § 3—5 i7, iprzejęcia dalszego postępowania egzekucyjnego przez naczelnika urzędu skarbowego, opłaty za czynności egzekucyjne przypadają wcałości na rzecz komórki organizacyjnej urzędu skarbowego prowadzącej egzekucję administracyjną.
 
 **Art. 64d.**
 
-§ 1. Kwoty op∏at za czynnoÊci egzekucyjne ulegajà podwy˝szaniu w stopniu odpowiadajàcym wzrostowi cen towarów ius∏ug konsumpcyjnych wynikajàcemu ze wskaênika cen towarów i us∏ug konsumpcyjnych ogó∏em og∏aszanego przez Prezesa G∏ównego Urz´du Statystycznego w formie komunikatu w Dzienniku Urz´dowym Rzeczypospolitej Polskiej «Monitor Polski», z uwzgl´dnieniem zaokràglenia, októrym mowa wart. 27a.
+§ 1. Kwoty opłat za czynności egzekucyjne ulegają podwyższaniu w stopniu odpowiadającym wzrostowi cen towarów iusług konsumpcyjnych wynikającemu ze wskaênika cen towarów i usług konsumpcyjnych ogółem ogłaszanego przez Prezesa Głównego Urzędu Statystycznego w formie komunikatu w Dzienniku Urzędowym Rzeczypospolitej Polskiej «Monitor Polski», z uwzględnieniem zaokrąglenia, októrym mowa wart. 27a.
 
-§ 2. Podwy˝szanie kwot op∏at za czynnorzone, je˝eli:
+§ 2. Podwyższanie kwot opłat za czynnorzone, jeżeli:
 
-- **1)** stwierdzono nieÊciàgalnoÊç od zobowiàzanego dochodzonego obowiàzku lub gdy zobowiàzany wyka˝e, ˝e nie jest w stanie ponieÊç kosztów egzekucyjnych bez znacznego uszczerbku dla swojej sytuacji finansowej,
-- **2)** za umorzeniem przemawia wa˝ny interes publiczny,
-- **3)** Êciàgni´cie tylko kosztów egzekucyjnych spowodowa∏oby niewspó∏mierne wydatki egzekucyjne.
+- **1)** stwierdzono nieściągalność od zobowiązanego dochodzonego obowiązku lub gdy zobowiązany wykaże, że nie jest w stanie ponieść kosztów egzekucyjnych bez znacznego uszczerbku dla swojej sytuacji finansowej,
+- **2)** za umorzeniem przemawia ważny interes publiczny,
+- **3)** ściągnięcie tylko kosztów egzekucyjnych spowodowałoby niewspółmierne wydatki egzekucyjne.
 
-§ 3. Koszty egzekucyjne powsta∏e w egzekucji nale˝noÊci pieni´˝nych mogà byç umorzone w przypadkach okreÊlonych w§ 2 pkt 1, je˝eli obcià˝enie wierzyciela obowiàzkiem uiszczenia tych kosztów by∏oby gospodarczo nieuzasadnione.
+§ 3. Koszty egzekucyjne powstałe w egzekucji należności pieniężnych mogą być umorzone w przypadkach określonych w§ 2 pkt 1, jeżeli obciążenie wierzyciela obowiązkiem uiszczenia tych kosztów byłoby gospodarczo nieuzasadnione.
 
-§ 4. W przypadku cz´Êciowego umorzenia kosztów egzekucyjnych umarza si´ przede wszystkim op∏aty za czynnoÊci egzekucyjne.
+§ 4. W przypadku częściowego umorzenia kosztów egzekucyjnych umarza się przede wszystkim opłaty za czynności egzekucyjne.
 
-§ 5. Na postanowienie w sprawie umorzenia kosztów egzekucyjnych s∏u˝y za˝alenie zobowiàzanemu i wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekucyjnym.
+§ 5. Na postanowienie w sprawie umorzenia kosztów egzekucyjnych służy zażalenie zobowiązanemu i wierzycielowi niebędącemu jednocześnie organem egzekucyjnym.
 
-**Art. 64f.** Organ egzekucyjny, ze wzgl´du na wa˝ny interes zobowiàzanego, mo˝e roz∏o˝yç na raty zap∏at´ przypadajàcych na jego rzecz kosztów egzekucyjnych. Na postanowienie w sprawie roz∏o˝enia na raty sp∏aty kosztów egzekucyjnych przys∏uguje za˝alenie.”;
+**Art. 64f.** Organ egzekucyjny, ze względu na ważny interes zobowiązanego, może rozłożyć na raty zapłatę przypadających na jego rzecz kosztów egzekucyjnych. Na postanowienie w sprawie rozłożenia na raty spłaty kosztów egzekucyjnych przysługuje zażalenie.”;
 
 **Art. 66.**
 
-§ 1. Wierzyciel ponosi wydatki zwiàzane z przekazaniem mu egzekwowanej nale˝noÊci lub przedmiotu.
+§ 1. Wierzyciel ponosi wydatki związane z przekazaniem mu egzekwowanej należności lub przedmiotu.
 
 § 2. Wydatki, októrych mowa w§ 1, organ egzekucyjny pokrywa z wyegzekwowanych kwot.
 
-§ 3. Wierzyciel, na rzecz którego organ egzekucyjny dokona∏ czynnoÊci egzekucyjnych, jest obowiàzany, z zastrze˝e„Rozdzia∏ 1 Przepisy ogólne
+§ 3. Wierzyciel, na rzecz którego organ egzekucyjny dokonał czynności egzekucyjnych, jest obowiązany, z zastrzeżeŃRozdział 1 Przepisy ogólne
 
 **Art. 67.**
 
-§ 1. Z zastrze˝eniem art. 68 § 1, podstaw´ zastosowania Êrodków egzekucyjnych, októrych mowa wart. 1apkt 12 lit. a), stanowi zawiadomienie o zaj´ciu prawa majàtkowego zobowiàzanego u d∏u˝nika zaj´tej wierzytelnoÊci albo protokó∏ zaj´cia prawa majàtkowego, albo protokó∏ zaj´cia i odbioru ruchomoÊci, albo protokó∏ odbioru dokumentu, sporzàdzone wed∏ug wzoru okreÊlonego w drodze rozporzàdzenia przez ministra w∏aÊciwego do spraw finansów publicznych. OkreÊlajàc wzór, minister uwzgl´dni uwarunkowania wynikajàce zelektronicznego przetwarzania danych zawartych wtym zawiadomieniu lub protoko∏ach.
+§ 1. Z zastrzeżeniem art. 68 § 1, podstawę zastosowania środków egzekucyjnych, októrych mowa wart. 1apkt 12 lit. a), stanowi zawiadomienie o zajęciu prawa majątkowego zobowiązanego u dłużnika zajętej wierzytelności albo protokół zajęcia prawa majątkowego, albo protokół zajęcia i odbioru ruchomości, albo protokół odbioru dokumentu, sporządzone według wzoru określonego w drodze rozporządzenia przez ministra właściwego do spraw finansów publicznych. Określając wzór, minister uwzględni uwarunkowania wynikające zelektronicznego przetwarzania danych zawartych wtym zawiadomieniu lub protokołach.
 
-§ 2. Zawiadomienie ozaj´ciu prawa majàtkowego zobowiàzanego ud∏u˝nika zaj´tej wierzytelnoÊci zawiera: niem § 4, do uiszczenia op∏aty komor- 1) oznaczenie zobowiàzanego, wierzyniczej. ciela iorganu egzekucyjnego, § 4. Nie pobiera si´ op∏aty komorniczej od 2) oznaczenie d∏u˝nika zaj´tej wierzykwot wp∏aconych po wystàpieniu wie- telnoÊci, rzyciela z ˝àdaniem zawieszenia albo 3) okreÊlenie stosowanego Êrodka egumorzenia post´powania egzekucyj- zekucyjnego, nego, a tak˝e od nale˝noÊci, których wierzycielem jest organ b´dàcy jed- 4) numer tytu∏u wykonawczego stanonoczeÊnie organem egzekucyjnym, wiàcego podstaw´ do zaj´cia, równie˝ i wtedy, gdy na jego zlecenie 5) kwot´ nale˝noÊci, okres,za który nacz´Êç czynnoÊci egzekucyjnych wyko- le˝noÊç zosta∏a ustalona lub okrena∏ organ rekwizycyjny. Êlona, termin p∏atnoÊci nale˝noÊci, § 5. Op∏ata komornicza przypada na rzecz rodzaj istop´ odsetek ztytu∏u niezatego organu, który dokona∏ Êciàgni´- p∏acenia nale˝noÊci wterminie oraz cia nale˝noÊci pieni´˝nej lub zastoso- kwot´ odsetek naliczonych do dnia wa∏ Êrodki egzekucyjne, wwyniku któ- wystawienia zawiadomienia, rych nale˝noÊç zosta∏a zap∏acona. 6) kwot´ nale˝nych kosztów egzeku§ 6. Do op∏aty komorniczej stosuje si´ od- cyjnych, powiednio § 2. 7) wezwanie d∏u˝nika zaj´tej wierzytel§ 7. Je˝eli wierzyciel uchyla si´ od uiszcze- noÊci do realizacji zaj´cia lub powiania op∏aty komorniczej, op∏ata ta, domienia organu egzekucyjnego w cz´Êci, w jakiej nie zosta∏a potràco- oprzeszkodzie wrealizacji zaj´cia, na przez organ egzekucyjny, podlega 8) pouczenie zobowiàzanego i d∏u˝niprzymusowemu Êciàgni´ciu w trybie ka zaj´tej wierzytelnoÊci o skutkach egzekucji administracyjnej, po zaj´cia, uprzednim dor´czeniu upomnienia 9) dat´ wystawienia zawiadomienia, z zagro˝eniem egzekucjà, a nast´pnie podpis z podaniem imienia, nazwiwystawieniu tytu∏u wykonawczego. ska istanowiska s∏u˝bowego podpi§ 8. Paƒstwowe jednostki bud˝etowe, któ- sujàcego oraz odcisk piecz´ci orgarych nale˝noÊci dochodzone w trybie nu egzekucyjnego. egzekucyjnym stanowià dochód bu- § 3. Do protoko∏u zaj´cia prawa majàtkod˝etu paƒstwa, zzastrze˝eniem § 4, sà wego stosuje si´ odpowiednio § 4. upowa˝nione do przeznaczania odpo- § 4. Protokó∏ zaj´cia i odbioru ruchomoÊci wiedniej cz´Êci uzyskanych z egzeku- zawiera treÊç okreÊlonà w § 2 pkt 1, cji wp∏ywów na pokrycie op∏aty ko- 4—6 i 9 oraz w art. 53 § 1 pkt 5, a pomorniczej i wydatków, o których mo- nadto: wa w§ 1.”;
+§ 2. Zawiadomienie ozajęciu prawa majątkowego zobowiązanego udłużnika zajętej wierzytelności zawiera: niem § 4, do uiszczenia opłaty komor- 1) oznaczenie zobowiązanego, wierzyniczej. ciela iorganu egzekucyjnego, § 4. Nie pobiera się opłaty komorniczej od 2) oznaczenie dłużnika zajętej wierzykwot wpłaconych po wystąpieniu wie- telności, rzyciela z żądaniem zawieszenia albo 3) określenie stosowanego środka egumorzenia postępowania egzekucyj- zekucyjnego, nego, a także od należności, których wierzycielem jest organ będący jed- 4) numer tytułu wykonawczego stanonocześnie organem egzekucyjnym, wiącego podstawę do zajęcia, również i wtedy, gdy na jego zlecenie 5) kwotę należności, okres,za który naczęść czynności egzekucyjnych wyko- leżność została ustalona lub okrenał organ rekwizycyjny. ślona, termin płatności należności, § 5. Opłata komornicza przypada na rzecz rodzaj istopę odsetek ztytułu niezatego organu, który dokonał ściągnię- płacenia należności wterminie oraz cia należności pieniężnej lub zastoso- kwotę odsetek naliczonych do dnia wał środki egzekucyjne, wwyniku któ- wystawienia zawiadomienia, rych należność została zapłacona. 6) kwotę należnych kosztów egzeku§ 6. Do opłaty komorniczej stosuje się od- cyjnych, powiednio § 2. 7) wezwanie dłużnika zajętej wierzytel§ 7. Jeżeli wierzyciel uchyla się od uiszcze- ności do realizacji zajęcia lub powiania opłaty komorniczej, opłata ta, domienia organu egzekucyjnego w części, w jakiej nie została potrąco- oprzeszkodzie wrealizacji zajęcia, na przez organ egzekucyjny, podlega 8) pouczenie zobowiązanego i dłużniprzymusowemu ściągnięciu w trybie ka zajętej wierzytelności o skutkach egzekucji administracyjnej, po zajęcia, uprzednim doręczeniu upomnienia 9) datę wystawienia zawiadomienia, z zagrożeniem egzekucją, a następnie podpis z podaniem imienia, nazwiwystawieniu tytułu wykonawczego. ska istanowiska służbowego podpi§ 8. Państwowe jednostki budżetowe, któ- sującego oraz odcisk pieczęci orgarych należności dochodzone w trybie nu egzekucyjnego. egzekucyjnym stanowią dochód bu- § 3. Do protokołu zajęcia prawa majątkodżetu państwa, zzastrzeżeniem § 4, są wego stosuje się odpowiednio § 4. upoważnione do przeznaczania odpo- § 4. Protokół zajęcia i odbioru ruchomości wiedniej części uzyskanych z egzeku- zawiera treść określoną w § 2 pkt 1, cji wpływów na pokrycie opłaty ko- 4—6 i 9 oraz w art. 53 § 1 pkt 5, a pomorniczej i wydatków, o których mo- nadto: wa w§ 1.”;
 
-- **55)** wdziale II rozdzia∏ 1 otrzymuje brzmienie:
-- **1)** wyszczególnienie zaj´tych ruchomoÊci zpodaniem ich iloÊci, rodzaju jednostki miary iwartoÊci szacunkowej ruchomoÊci, je˝eli jej oszacowanie nie zosta∏o zastrze˝one dla bieg∏ego skarbowego,
-- **2)** adnotacj´, które z zaj´tych ruchomoÊci mogà byç sprzedane bezpoÊrednio po zaj´ciu, a tak˝e które ruchomoÊci poborca pozostawia pod dozorem zobowiàzanego lub osoby zast´pujàcej zobowiàzanego, a które odbiera,
-- **3)** pouczenie zobowiàzanego o skutkach zaj´cia ruchomoÊci i przys∏ugujàcym mu prawie zaskar˝enia wpostaci zg∏oszenia zarzutów,
-- **4)** pouczenie dozorcy o skutkach przyj´cia ruchomoÊci pod dozór.
+- **55)** wdziale II rozdział 1 otrzymuje brzmienie:
+- **1)** wyszczególnienie zajętych ruchomości zpodaniem ich ilości, rodzaju jednostki miary iwartości szacunkowej ruchomości, jeżeli jej oszacowanie nie zostało zastrzeżone dla biegłego skarbowego,
+- **2)** adnotację, które z zajętych ruchomości mogą być sprzedane bezpośrednio po zajęciu, a także które ruchomości poborca pozostawia pod dozorem zobowiązanego lub osoby zastępującej zobowiązanego, a które odbiera,
+- **3)** pouczenie zobowiązanego o skutkach zajęcia ruchomości i przysługującym mu prawie zaskarżenia wpostaci zgłoszenia zarzutów,
+- **4)** pouczenie dozorcy o skutkach przyjęcia ruchomości pod dozór.
 
-§ 5. Protokó∏ odebrania dokumentu zawiera treÊç okreÊlonà w § 2 pkt 1, 4—6 i 9 i § 4 pkt 3 oraz w art. 53 § 1 pkt 1, 2 i4—6, aponadto:
+§ 5. Protokół odebrania dokumentu zawiera treść określoną w § 2 pkt 1, 4—6 i 9 i § 4 pkt 3 oraz w art. 53 § 1 pkt 1, 2 i4—6, aponadto:
 
 - **1)** oznaczenie lub opis odebranego dokumentu,
-- **2)** wartoÊç szacunkowà prawa majàtkowego zwiàzanego z tym dokumentem.
+- **2)** wartość szacunkową prawa majątkowego związanego z tym dokumentem.
 
 **Art. 67a.**
 
-§ 1. Organ egzekucyjny mo˝e zmocy samego zaj´cia wierzytelnoÊci lub innego prawa majàtkowego albo ruchomoÊci wykonywaç wszelkie prawa zobowiàzanego w zakresie niezb´dnym do prowadzenia egzekucji.
+§ 1. Organ egzekucyjny może zmocy samego zajęcia wierzytelności lub innego prawa majątkowego albo ruchomości wykonywać wszelkie prawa zobowiązanego w zakresie niezbędnym do prowadzenia egzekucji.
 
-§ 2. Zobowiàzany udziela organowi egzekucyjnemu wszelkich wyjaÊnieƒ, potrzebnych do dochodzenia nale˝noÊci pieni´˝nej.
+§ 2. Zobowiązany udziela organowi egzekucyjnemu wszelkich wyjaśnień, potrzebnych do dochodzenia należności pieniężnej.
 
-**Art. 67b.** O ile dalsze przepisy nie stanowià inaczej, organ egzekucyjny zwraca si´ do bieg∏ego skarbowego o oszacowanie wartoÊci zaj´tej ruchomoÊci lub prawa majàtkowego.
+**Art. 67b.** O ile dalsze przepisy nie stanowią inaczej, organ egzekucyjny zwraca się do biegłego skarbowego o oszacowanie wartości zajętej ruchomości lub prawa majątkowego.
 
 **Art. 67c.**
 
-§ 1. Uprawnienia do oszacowania wartoÊci ruchomoÊci lub prawa majàtkowego zobowiàzanego mogà byç nadane osobie, która:
+§ 1. Uprawnienia do oszacowania wartości ruchomości lub prawa majątkowego zobowiązanego mogą być nadane osobie, która:
 
-- **1)** korzysta w pe∏ni z praw publicznych,
+- **1)** korzysta w pełni z praw publicznych,
 - **2)** posiada:
-    - **a)** dyplom ukoƒczenia wy˝szej, Êredniej lub zasadniczej szko∏y o profilu technicznym lub artystycznym lub dyplom mistrza, wzawodzie lub kierunku odpowiadajàcym rodzajowi majàtku, którego wartoÊç podlega oszacowaniu,
-    - **b)** opini´ w∏aÊciwego stowarzyszko∏y wy˝szej lub innej instytucji stwierdzajàcej posiadanie przez t´ osob´ teoretycznych i praktycznych wiadomoÊci w danej ga∏´zi techniki, sztuki, rzemios∏a, atak˝e innych umiej´tnoÊci niezb´dnych do oszacowania wartoÊci majàtku.
+    - **a)** dyplom ukończenia wyższej, średniej lub zasadniczej szkoły o profilu technicznym lub artystycznym lub dyplom mistrza, wzawodzie lub kierunku odpowiadającym rodzajowi majątku, którego wartość podlega oszacowaniu,
+    - **b)** opinię właściwego stowarzyszkoły wyższej lub innej instytucji stwierdzającej posiadanie przez tę osobę teoretycznych i praktycznych wiadomości w danej gałęzi techniki, sztuki, rzemiosła, atakże innych umiejętności niezbędnych do oszacowania wartości majątku.
 
-§ 2. Z wnioskiem o nadanie uprawnieƒ do szacowania wartoÊci majàtku zobowiàzanego kandydat na bieg∏ego skarbowego wyst´puje do dyrektora izby skarbowej.
+§ 2. Z wnioskiem o nadanie uprawnień do szacowania wartości majątku zobowiązanego kandydat na biegłego skarbowego występuje do dyrektora izby skarbowej.
 
-§ 3. Do wniosku, o którym mowa w § 2, do∏àcza si´:
+§ 3. Do wniosku, o którym mowa w § 2, dołącza się:
 
-- **1)** uwierzytelniony odpis dokumentu oraz opini´, októrych mowa w§ 1 pkt 2,
-- **2)** informacj´ okreÊlajàcà zakres uprawnieƒ, o które kandydat si´ ubiega,
-- **3)** dokumenty stwierdzajàce to˝samoÊç kandydata oraz jego niekaralnoÊç,
-- **4)** opini´ zak∏adu pracy, je˝eli kandydat jest pracownikiem.
+- **1)** uwierzytelniony odpis dokumentu oraz opinię, októrych mowa w§ 1 pkt 2,
+- **2)** informację określającą zakres uprawnień, o które kandydat się ubiega,
+- **3)** dokumenty stwierdzające tożsamość kandydata oraz jego niekaralność,
+- **4)** opinię zakładu pracy, jeżeli kandydat jest pracownikiem.
 
-§ 4. Na postanowienie dyrektora izby skarbowej, odmawiajàce dokonania wpisu na list´ bieg∏ych skarbowych, przys∏uguje za˝alenie.
+§ 4. Na postanowienie dyrektora izby skarbowej, odmawiające dokonania wpisu na listę biegłych skarbowych, przysługuje zażalenie.
 
-§ 5. Podstaw´ do podj´cia czynnoÊci bieg∏ego skarbowego stanowi wpis kandydata na list´ prowadzonà przez izb´ skarbowà.
+§ 5. Podstawę do podjęcia czynności biegłego skarbowego stanowi wpis kandydata na listę prowadzoną przez izbę skarbową.
 
-§ 6. Wprowadzonej przez izb´ skarbowà liÊcie bieg∏ych skarbowych uwzgl´dnia si´:
+§ 6. Wprowadzonej przez izbę skarbową liście biegłych skarbowych uwzględnia się:
 
-- **1)** imi´ i nazwisko bieg∏ego skarbowego ijego adres zamieszkania,
-- **2)** zakres przyznanych uprawnieƒ,
-- **3)** termin wpisania na list´, szenia, organizacji zawodowej,
-- **4)** wzór uwierzytelnionego podpisu bieg∏ego skarbowego.
+- **1)** imię i nazwisko biegłego skarbowego ijego adres zamieszkania,
+- **2)** zakres przyznanych uprawnień,
+- **3)** termin wpisania na listę, szenia, organizacji zawodowej,
+- **4)** wzór uwierzytelnionego podpisu biegłego skarbowego.
 
-§ 7. Lista bieg∏ych skarbowych jest prowadzona wed∏ug wzoru okreÊlonego przez ministra w∏aÊciwego do spraw finansów publicznych, dostosowanego do techniki informatycznej.
+§ 7. Lista biegłych skarbowych jest prowadzona według wzoru określonego przez ministra właściwego do spraw finansów publicznych, dostosowanego do techniki informatycznej.
 
-§ 8. Lista bieg∏ych skarbowych jest dost´pna dla zainteresowanych w siedzibie odpowiedniej izby skarbowej.
+§ 8. Lista biegłych skarbowych jest dostępna dla zainteresowanych w siedzibie odpowiedniej izby skarbowej.
 
-§ 9. W styczniu ka˝dego roku izba skarbowa przekazuje ministrowi w∏aÊciwemu do spraw finansów publicznych list´ bieg∏ych skarbowych, a tak˝e zawiadamia niezw∏ocznie o ka˝dym przypadku wpisania lub wykreÊlenia z listy bieg∏ego skarbowego.
+§ 9. W styczniu każdego roku izba skarbowa przekazuje ministrowi właściwemu do spraw finansów publicznych listę biegłych skarbowych, a także zawiadamia niezwłocznie o każdym przypadku wpisania lub wykreślenia z listy biegłego skarbowego.
 
-§ 10. SkreÊlenie z listy bieg∏ych skarbowych nast´puje:
+§ 10. Skreślenie z listy biegłych skarbowych następuje:
 
-- **1)** na w∏asnà proÊb´,
+- **1)** na własną prośbę,
 - **2)** wprzypadku:
-    - **a)** pozbawienia praw publicznych lub utraty innych warunków do pe∏nienia tej funkcji albo stwierdzenia, ˝e z chwilà dokonania wpisu na list´ bieg∏y skarbowy warunkom tym nie odpowiada∏ inadal nie odpowiada,
-    - **b)** Êmierci bieg∏ego skarbowego,
-    - **c)** stwierdzenia nienale˝ytego wykonywania funkcji bieg∏ego skarbowego.
+    - **a)** pozbawienia praw publicznych lub utraty innych warunków do pełnienia tej funkcji albo stwierdzenia, że z chwilą dokonania wpisu na listę biegły skarbowy warunkom tym nie odpowiadał inadal nie odpowiada,
+    - **b)** śmierci biegłego skarbowego,
+    - **c)** stwierdzenia nienależytego wykonywania funkcji biegłego skarbowego.
 
-§ 11. Na postanowienie dyrektora izby skarbowej w sprawie skreÊlenia bieg∏ego skarbowego z listy bieg∏ych skarbowych przys∏uguje za˝alenie.
+§ 11. Na postanowienie dyrektora izby skarbowej w sprawie skreślenia biegłego skarbowego z listy biegłych skarbowych przysługuje zażalenie.
 
-§ 12. Bieg∏y skarbowy mo˝e odmówiç dokonania szacunku wartoÊci majàtku zobowiàzanego znajdujàcego si´ na terenie dzia∏ania izby skarbowej, na list´ której zosta∏ wpisany, tylko zwa˝nych przyczyn.
+§ 12. Biegły skarbowy może odmówić dokonania szacunku wartości majątku zobowiązanego znajdującego się na terenie działania izby skarbowej, na listę której został wpisany, tylko zważnych przyczyn.
 
-§ 13. Bieg∏y skarbowy, wydajàc opini´, u˝ywa tytu∏u bieg∏ego skarbowego z oznaczeniem izby skarbowej, na list´ której zosta∏ wpisany.
+§ 13. Biegły skarbowy, wydając opinię, używa tytułu biegłego skarbowego z oznaczeniem izby skarbowej, na listę której został wpisany.
 
-§ 14. Bieg∏y skarbowy jest obowiàzany niezw∏ocznie zawiadomiç izb´ skarbowà o:
+§ 14. Biegły skarbowy jest obowiązany niezwłocznie zawiadomić izbę skarbową o:
 
-- **1)** ka˝dej zmianie swojego adresu,
-- **2)** zamierzonej przerwie w wykonywaniu czynnoÊci bieg∏ego skarbowego przez okres d∏u˝szy ni˝ 3 miesiàce.
+- **1)** każdej zmianie swojego adresu,
+- **2)** zamierzonej przerwie w wykonywaniu czynności biegłego skarbowego przez okres dłuższy niż 3 miesiące.
 
-§ 15. Bieg∏emu skarbowemu za oszacowanie wartoÊci ruchomoÊci lub prawa majàtkowego zobowiàzanego przys∏uguje wynagrodzenie zgodne z zakresem wykonanej pracy w wysokoÊci okreÊlonej przez ministra w∏aÊciwego do spraw finansów publicznych wdrodze rozporzàdzenia. OkreÊlajàc wysokoÊç wynagrodzenia, minister uwzgl´dnia rodzaj iczas pracy oraz wysokoÊç poniesionych przez bieg∏ego skarbowego wydatków zwiàzanych z oszacowaniem wartoÊci ruchomoÊci lub prawa majàtkowego.
+§ 15. Biegłemu skarbowemu za oszacowanie wartości ruchomości lub prawa majątkowego zobowiązanego przysługuje wynagrodzenie zgodne z zakresem wykonanej pracy w wysokości określonej przez ministra właściwego do spraw finansów publicznych wdrodze rozporządzenia. Określając wysokość wynagrodzenia, minister uwzględnia rodzaj iczas pracy oraz wysokość poniesionych przez biegłego skarbowego wydatków związanych z oszacowaniem wartości ruchomości lub prawa majątkowego.
 
 **Art. 67d.**
 
-§ 1. Organ egzekucyjny zawiadamia zobowiàzanego owyznaczonym terminie oszacowania wartoÊci ruchomoÊci lub prawa majàtkowego przez bieg∏ego skarbowego i przesy∏a zobowiàzanemu odpis protoko∏u osza§ 2. Je˝eli zobowiàzany nie zgadza si´ zoszacowaniem przez bieg∏ego skarbowego wartoÊci ruchomoÊci lub prawa majàtkowego, mo˝e wystàpiç do organu egzekucyjnego z wnioskiem o dokonanie tego oszacowania przez bieg∏ego sàdowego.
+§ 1. Organ egzekucyjny zawiadamia zobowiązanego owyznaczonym terminie oszacowania wartości ruchomości lub prawa majątkowego przez biegłego skarbowego i przesyła zobowiązanemu odpis protokołu osza§ 2. Jeżeli zobowiązany nie zgadza się zoszacowaniem przez biegłego skarbowego wartości ruchomości lub prawa majątkowego, może wystąpić do organu egzekucyjnego z wnioskiem o dokonanie tego oszacowania przez biegłego sądowego.
 
-§ 3. Je˝eli wartoÊç zaj´tej ruchomoÊci lub prawa majàtkowego oszacowana przez bieg∏ego sàdowego nie ró˝ni si´ co najmniej o25% od wartoÊci oszacowanej przez bieg∏ego skarbowego, koszty oszacowania przez bieg∏ego sàdowego ponosi zobowiàzany.
+§ 3. Jeżeli wartość zajętej ruchomości lub prawa majątkowego oszacowana przez biegłego sądowego nie różni się co najmniej o25% od wartości oszacowanej przez biegłego skarbowego, koszty oszacowania przez biegłego sądowego ponosi zobowiązany.
 
-§ 4. Wniesienie przez zobowiàzanego wniosku, o którym mowa w § 2, wstrzymuje sprzeda˝ zaj´tych rzeczy.
+§ 4. Wniesienie przez zobowiązanego wniosku, o którym mowa w § 2, wstrzymuje sprzedaż zajętych rzeczy.
 
 **Art. 68.**
 
-§ 1. Je˝eli zobowiàzany na wezwanie poborcy skarbowego p∏aci dochodzonà nale˝noÊç pieni´˝nà, poborca wystacowania. wia pokwitowanie odbioru pieni´dzy. Pokwitowanie to wywiera ten sam skutek prawny, co pokwitowanie wierzyciela. Za pokwitowanà nale˝noÊç pieni´˝nà organ egzekucyjny ponosi odpowiedzialnoÊç wobec wierzyciela.
+§ 1. Jeżeli zobowiązany na wezwanie poborcy skarbowego płaci dochodzoną należność pieniężną, poborca wystacowania. wia pokwitowanie odbioru pieniędzy. Pokwitowanie to wywiera ten sam skutek prawny, co pokwitowanie wierzyciela. Za pokwitowaną należność pieniężną organ egzekucyjny ponosi odpowiedzialność wobec wierzyciela.
 
-§ 2. Do czynnoÊci egzekucyjnych, o których mowa w § 1, nie stosuje si´ przepisów art. 53.
+§ 2. Do czynności egzekucyjnych, o których mowa w § 1, nie stosuje się przepisów art. 53.
 
-§ 3. W przypadku odebrania pieni´dzy wwyniku przeszukania pomieszczeƒ i schowków, Êrodków transportu oraz odzie˝y, teczek, waliz i podobnych przedmiotów stosuje si´ odpowiednio przepis § 1.
+§ 3. W przypadku odebrania pieniędzy wwyniku przeszukania pomieszczeń i schowków, środków transportu oraz odzieży, teczek, waliz i podobnych przedmiotów stosuje się odpowiednio przepis § 1.
 
-**Art. 68a.** Wp∏ata dokonana przez d∏u˝nika zaj´tej wierzytelnoÊci do organu egzekucyjnego wywiera ten sam skutek, co wp∏ata dokonana przez zobowiàzanego do ràk wierzyciela.
+**Art. 68a.** Wpłata dokonana przez dłużnika zajętej wierzytelności do organu egzekucyjnego wywiera ten sam skutek, co wpłata dokonana przez zobowiązanego do rąk wierzyciela.
 
 **Art. 68b.**
 
-§ 1. Stwierdzenie nabycia w post´powaniu egzekucyjnym praw w∏asnoÊci lub innych praw albo ruchomoÊci nast´puje wdrodze postanowienia.
+§ 1. Stwierdzenie nabycia w postępowaniu egzekucyjnym praw własności lub innych praw albo ruchomości następuje wdrodze postanowienia.
 
-§ 2. Postanowienie, o którym mowa w § 1, organ egzekucyjny wydaje na ˝àdanie nabywcy, a je˝eli do wykonywania praw lub dysponowania ruchomoÊciami niezb´dne jest posiadanie dowodu nabycia zurz´du.
+§ 2. Postanowienie, o którym mowa w § 1, organ egzekucyjny wydaje na żądanie nabywcy, a jeżeli do wykonywania praw lub dysponowania ruchomościami niezbędne jest posiadanie dowodu nabycia zurzędu.
 
-**Art. 68c.** Nabycie w drodze egzekucji papierów wartoÊciowych wystawionych za granicà oraz kuponów od takich papierów, a tak˝e udzia∏ów i akcji w spó∏kach lub przedsi´biorstwach majàcych siedzib´ za granicà, jednostek uczestnictwa w funduszach inwestycyjnych i powierniczych majàcych siedzib´ za granicà oraz innych praw opodobnym charakterze, nie wymaga zezwolenia dewizowego okreÊlonego w odr´bnych przepisach.
+**Art. 68c.** Nabycie w drodze egzekucji papierów wartościowych wystawionych za granicą oraz kuponów od takich papierów, a także udziałów i akcji w spółkach lub przedsiębiorstwach mających siedzibę za granicą, jednostek uczestnictwa w funduszach inwestycyjnych i powierniczych mających siedzibę za granicą oraz innych praw opodobnym charakterze, nie wymaga zezwolenia dewizowego określonego w odrębnych przepisach.
 
-**Art. 68d.** Prawa majàtkowe i ruchomoÊci nabyte wpost´powaniu egzekucyjnym sà wolne od obcià˝eƒ.
+**Art. 68d.** Prawa majątkowe i ruchomości nabyte wpostępowaniu egzekucyjnym są wolne od obciążeń.
 
 **Art. 69.**
 
-§ 1. Gdy zobowiàzanym do uiszczenia nale˝noÊci pieni´˝nej jest paƒstwowa jednostka bud˝etowa, wierzyciel w celu otrzymania tej nale˝noÊci sk∏ada tytu∏ wykonawczy bezpoÊrednio tej paƒstwowej jednostce, z której dzia∏alnoÊcià wià˝e si´ egzekwowana nale˝noÊç. Jednostka ta jest obowiàzana bezzw∏ocznie nale˝noÊç uiÊciç. Je˝eli nale˝noÊç nie zostanie uiszczona w terminie 7 dni od dnia z∏o˝enia tytu∏u wykonawczego, jednostka nadrz´dna zobowiàzanego, na wniosek wierzyciela, zarzàdza pokrycie nale˝noÊci ze Êrodków zobowiàzanego.
+§ 1. Gdy zobowiązanym do uiszczenia należności pieniężnej jest państwowa jednostka budżetowa, wierzyciel w celu otrzymania tej należności składa tytuł wykonawczy bezpośrednio tej państwowej jednostce, z której działalnością wiąże się egzekwowana należność. Jednostka ta jest obowiązana bezzwłocznie należność uiścić. Jeżeli należność nie zostanie uiszczona w terminie 7 dni od dnia złożenia tytułu wykonawczego, jednostka nadrzędna zobowiązanego, na wniosek wierzyciela, zarządza pokrycie należności ze środków zobowiązanego.
 
-§ 2. W zakresie zarzàdzenia, o którym mowa w § 1, jednostce nadrz´dnej przys∏ugujà uprawnienia jednostki bud˝etowej do dysponowania Êrodkami zgromadzonymi na jej rachunku.
+§ 2. W zakresie zarządzenia, o którym mowa w § 1, jednostce nadrzędnej przysługują uprawnienia jednostki budżetowej do dysponowania środkami zgromadzonymi na jej rachunku.
 
-§ 3. Przepis § 1 nie ma zastosowania do nale˝noÊci z tytu∏u sk∏adek na ubezpieczenie spo∏eczne, zobowiàzaƒ podatkowych oraz nale˝noÊci, o których mowa wart. 2 § 1 pkt 1c.
+§ 3. Przepis § 1 nie ma zastosowania do należności z tytułu składek na ubezpieczenie społeczne, zobowiązań podatkowych oraz należności, o których mowa wart. 2 § 1 pkt 1c.
 
 **Art. 70.**
 
-§ 1. D∏u˝nik zaj´tej wierzytelnoÊci jest obowiàzany do naliczenia odsetek z tytu∏u niezap∏acenia nale˝noÊci w terminie, nale˝nych od nast´pnego dnia po dniu wystawienia przez organ egzekucyjny zawiadomienia o zaj´ciu wierzytelnoÊci lub prawa majàtkowego do dnia przekazania organowi egzekucyjnemu Êrodków pieni´˝nych uzyskanych z zaj´cia, zzastrze˝eniem § 2.
+§ 1. Dłużnik zajętej wierzytelności jest obowiązany do naliczenia odsetek z tytułu niezapłacenia należności w terminie, należnych od następnego dnia po dniu wystawienia przez organ egzekucyjny zawiadomienia o zajęciu wierzytelności lub prawa majątkowego do dnia przekazania organowi egzekucyjnemu środków pieniężnych uzyskanych z zajęcia, zzastrzeżeniem § 2.
 
-§ 2. Je˝eli d∏u˝nik zaj´tej wierzytelnoÊci przekazuje organowi egzekucyjnemu Êrodki pieni´˝ne za poÊrednictwem rachunku bankowego, nalicza odsetki, októrych mowa w§ 1, do dnia obcià˝enia rachunku bankowego zobowiàzanego przekazywanà kwotà.
+§ 2. Jeżeli dłużnik zajętej wierzytelności przekazuje organowi egzekucyjnemu środki pieniężne za pośrednictwem rachunku bankowego, nalicza odsetki, októrych mowa w§ 1, do dnia obciążenia rachunku bankowego zobowiązanego przekazywaną kwotą.
 
-§ 3. Organ egzekucyjny wokresie realizacji zaj´cia jest obowiàzany powiadamiaç d∏u˝nika zaj´tej wierzytelnoÊci oka˝dorazowej zmianie stawki odsetek z tytu∏u niezap∏acenia nale˝noÊci wterminie.
+§ 3. Organ egzekucyjny wokresie realizacji zajęcia jest obowiązany powiadamiać dłużnika zajętej wierzytelności okażdorazowej zmianie stawki odsetek z tytułu niezapłacenia należności wterminie.
 
-§ 4. D∏u˝nik zaj´tej wierzytelnoÊci nie odpowiada za nieprawid∏owe obliczenie powiadomi∏ go wpor´ ozmianie, októrej mowa w§ 3.
+§ 4. Dłużnik zajętej wierzytelności nie odpowiada za nieprawidłowe obliczenie powiadomił go wporę ozmianie, októrej mowa w§ 3.
 
-§ 5. Przepisy § 1—4 stosuje si´ do d∏u˝ników zaj´tej wierzytelnoÊci obowiàzanych do prowadzenia ksiàg podatkowych wrozumieniu Ordynacji podatkowej.
+§ 5. Przepisy § 1—4 stosuje się do dłużników zajętej wierzytelności obowiązanych do prowadzenia ksiąg podatkowych wrozumieniu Ordynacji podatkowej.
 
 **Art. 70a.**
 
-§ 1. Je˝eli rzecz lub prawo majàtkowe, do których skierowano egzekucj´,zosta∏y obcià˝one hipotekà lub zastawem, organ egzekucyjny ustala kolejnoÊç zaspokojenia dochodzonej nale˝noÊci pieni´˝nej. W przypadku stwierdzenia, ˝e przed dochodzonà nale˝noÊcià pieni´˝nà podlegajà zaspokojeniu inne wierzytelnoÊci zabezpieczone hipotekà lub zastawem, organ egzekucyjny wydaje postanowienie w sprawie wstrzymania czynnoÊci egzekucyjnych podj´tych w stosunku do zaj´tych rzeczy lub praw majàtnie odsetek, je˝eli organ egzekucyjny kowych.
+§ 1. Jeżeli rzecz lub prawo majątkowe, do których skierowano egzekucję,zostały obciążone hipoteką lub zastawem, organ egzekucyjny ustala kolejność zaspokojenia dochodzonej należności pieniężnej. W przypadku stwierdzenia, że przed dochodzoną należnością pieniężną podlegają zaspokojeniu inne wierzytelności zabezpieczone hipoteką lub zastawem, organ egzekucyjny wydaje postanowienie w sprawie wstrzymania czynności egzekucyjnych podjętych w stosunku do zajętych rzeczy lub praw majątnie odsetek, jeżeli organ egzekucyjny kowych.
 
-§ 2. Je˝eli hipoteki lub zastawy ustanowione dla zabezpieczenia wierzytelnoÊci podlegajàcych zaspokojeniu przed dochodzonà nale˝noÊcià pieni´˝nà wygasnà bez przeniesienia w∏asnoÊci zaj´tych rzeczy lub praw majàtkowych, organ egzekucyjny podejmuje wstrzymane czynnoÊci egzekucyjne.
+§ 2. Jeżeli hipoteki lub zastawy ustanowione dla zabezpieczenia wierzytelności podlegających zaspokojeniu przed dochodzoną należnością pieniężną wygasną bez przeniesienia własności zajętych rzeczy lub praw majątkowych, organ egzekucyjny podejmuje wstrzymane czynności egzekucyjne.
 
 **Art. 70b.**
 
-§ 1. Je˝eli d∏u˝nikowi zaj´tej wierzytelnoÊci jest wiadome, ˝e zaj´ta wierzytelnoÊç lub inne prawo majàtkowe obcià˝one zosta∏y zastawem rejestrowym, wstrzymuje realizacj´ zaj´cia, z zastrze˝eniem § 2, i powiadamia otym niezw∏ocznie organ egzekucyjny.
+§ 1. Jeżeli dłużnikowi zajętej wierzytelności jest wiadome, że zajęta wierzytelność lub inne prawo majątkowe obciążone zostały zastawem rejestrowym, wstrzymuje realizację zajęcia, z zastrzeżeniem § 2, i powiadamia otym niezwłocznie organ egzekucyjny.
 
-§ 2. Je˝eli nale˝noÊci pieni´˝nej dochodzonej przez organ egzekucyjny przys∏uguje wczeÊniejsza kolejnoÊç zaspokojenia ni˝ wierzytelnoÊci zabezpieczonej zastawem rejestrowym, organ egzekucyjny powiadamia otym d∏u˝nika zaj´tej wierzytelnoÊci, który niezw∏ocznie podejmuje wstrzymanà realizacj´ zaj´cia.
+§ 2. Jeżeli należności pieniężnej dochodzonej przez organ egzekucyjny przysługuje wcześniejsza kolejność zaspokojenia niż wierzytelności zabezpieczonej zastawem rejestrowym, organ egzekucyjny powiadamia otym dłużnika zajętej wierzytelności, który niezwłocznie podejmuje wstrzymaną realizację zajęcia.
 
 **Art. 71.**
 
-§ 1. Je˝eli egzekucja administracyjna nale˝noÊci pieni´˝nych staje si´ bezskuteczna, organ egzekucyjny lub wierzyciel mo˝e zwróciç si´ do sàdu o nakazanie zobowiàzanemu wyjawienia majàtku, zgodnie z przepisami Kodeksu post´powania cywilnego.
+§ 1. Jeżeli egzekucja administracyjna należności pieniężnych staje się bezskuteczna, organ egzekucyjny lub wierzyciel może zwrócić się do sądu o nakazanie zobowiązanemu wyjawienia majątku, zgodnie z przepisami Kodeksu postępowania cywilnego.
 
-§ 2. O nakazanie wyjawienia przez zobowiàzanego majàtku mo˝na zwróciç si´ tak˝e przed wszcz´ciem egzekucji administracyjnej lub wtoku tej egzekucji, je˝eli zachodzi uzasadnione przypuszczenie, ˝e egzekwowana nale˝noÊç pieni´˝na nie b´dzie mog∏a byç zaspokojona ze znanego majàtku zobowiàzanego ani te˝ z jego wynagrodzenia za prac´ lub zprzypadajàcych mu okresowo Êwiadczeƒ za okres 6 miesi´cy.
+§ 2. O nakazanie wyjawienia przez zobowiązanego majątku można zwrócić się także przed wszczęciem egzekucji administracyjnej lub wtoku tej egzekucji, jeżeli zachodzi uzasadnione przypuszczenie, że egzekwowana należność pieniężna nie będzie mogła być zaspokojona ze znanego majątku zobowiązanego ani też z jego wynagrodzenia za pracę lub zprzypadających mu okresowo świadczeń za okres 6 miesięcy.
 
-§ 3. Podstawà ˝àdania nakazania wyjawienia przez zobowiàzanego majàtku jest tytu∏ wykonawczy, o którym mowa wart. 27, albo zarzàdzenie zabezpieczenia wydane na podstawie przepisów dzia∏u IV.
+§ 3. Podstawą żądania nakazania wyjawienia przez zobowiązanego majątku jest tytuł wykonawczy, o którym mowa wart. 27, albo zarządzenie zabezpieczenia wydane na podstawie przepisów działu IV.
 
 **Art. 71a.**
 
-§ 1. Organy egzekucyjne uprawnione sà do przeprowadzania ud∏u˝ników zaj´tej wierzytelnoÊci, z wy∏àczeniem banków, kontroli prawid∏owoÊci realizacji zastosowanego Êrodka egzekucyjnego, zzastrze˝eniem § 2.
+§ 1. Organy egzekucyjne uprawnione są do przeprowadzania udłużników zajętej wierzytelności, z wyłączeniem banków, kontroli prawidłowości realizacji zastosowanego środka egzekucyjnego, zzastrzeżeniem § 2.
 
-§ 2. Je˝eli Êrodek egzekucyjny zastosowany zosta∏ przez organ egzekucyjny, o którym mowa w art. 19 § 3—5 i 7—8, kontrol´ prawid∏owoÊci realizacji zastosowanego Êrodka egzekucyjnego przeprowadza, z urz´du lub na wniosek tego organu, naczelnik urz´du skarbowego.
+§ 2. Jeżeli środek egzekucyjny zastosowany został przez organ egzekucyjny, o którym mowa w art. 19 § 3—5 i 7—8, kontrolę prawidłowości realizacji zastosowanego środka egzekucyjnego przeprowadza, z urzędu lub na wniosek tego organu, naczelnik urzędu skarbowego.
 
-§ 3. Udost´pnienie organowi egzekucyjnemu dokumentów i informacji niezb´dnych do przeprowadzenia kontroli prawid∏owoÊci realizacji zastosowanego Êrodka egzekucyjnego nie narusza obowiàzku zachowania przez d∏u˝ników zaj´tej wierzytelnoÊci tajemnicy okreÊlonej w odr´bnych przepisach.
+§ 3. Udostępnienie organowi egzekucyjnemu dokumentów i informacji niezbędnych do przeprowadzenia kontroli prawidłowości realizacji zastosowanego środka egzekucyjnego nie narusza obowiązku zachowania przez dłużników zajętej wierzytelności tajemnicy określonej w odrębnych przepisach.
 
-§ 4. CzynnoÊci kontrolnych dokonuje si´ w obecnoÊci d∏u˝nika zaj´tej wierzytelnoÊci lub osoby odpowiedzialnej za realizacj´ zaj´cia.
+§ 4. Czynności kontrolnych dokonuje się w obecności dłużnika zajętej wierzytelności lub osoby odpowiedzialnej za realizację zajęcia.
 
-§ 5. Osoba dokonujàca czynnoÊci kontrolnych obowiàzana jest okazaç pisemne upowa˝nienie naczelnika urz´du skarbowego do dokonywania tych czynnoÊci.
+§ 5. Osoba dokonująca czynności kontrolnych obowiązana jest okazać pisemne upoważnienie naczelnika urzędu skarbowego do dokonywania tych czynności.
 
-§ 6. Kopi´ protoko∏u zczynnoÊci kontrolnych dor´cza si´ d∏u˝nikowi zaj´tej wierzytelnoÊci lub osobie odpowiedzialnej za realizacj´ zaj´cia.
+§ 6. Kopię protokołu zczynności kontrolnych doręcza się dłużnikowi zajętej wierzytelności lub osobie odpowiedzialnej za realizację zajęcia.
 
-§ 7. Je˝eli d∏u˝nik zaj´tej wierzytelnoÊci nie zgadza si´ zustaleniami zawartymi w protokole, mo˝e zg∏osiç niezw∏ocznie do protoko∏u odpowiednie wyjaÊnienia lub zastrze˝enia albo wterminie 14 dni od dnia jego dor´czenia przed∏o˝yç je wformie pisemnej.
+§ 7. Jeżeli dłużnik zajętej wierzytelności nie zgadza się zustaleniami zawartymi w protokole, może zgłosić niezwłocznie do protokołu odpowiednie wyjaśnienia lub zastrzeżenia albo wterminie 14 dni od dnia jego doręczenia przedłożyć je wformie pisemnej.
 
-§ 8. Przepisy § 1—7 stosuje si´ odpowiednio do zobowiàzanego.
+§ 8. Przepisy § 1—7 stosuje się odpowiednio do zobowiązanego.
 
-§ 9. Je˝eli w wyniku kontroli stwierdzobezpodstawnie uchyla si´ od przekazania zaj´tej wierzytelnoÊci albo cz´Êci wierzytelnoÊci organowi egzekucyjnemu, organ ten wydaje postanowienie, w którym okreÊla wysokoÊç nieprzekazanej kwoty. Na postanowienie wsprawie wysokoÊci nieprzekazanej kwoty przys∏uguje za˝alenie.
+§ 9. Jeżeli w wyniku kontroli stwierdzobezpodstawnie uchyla się od przekazania zajętej wierzytelności albo części wierzytelności organowi egzekucyjnemu, organ ten wydaje postanowienie, w którym określa wysokość nieprzekazanej kwoty. Na postanowienie wsprawie wysokości nieprzekazanej kwoty przysługuje zażalenie.
 
-**Art. 71b.** Je˝eli d∏u˝nik zaj´tej wierzytelnoÊci bezpodstawnie uchyla si´ od przekazania zaj´tej wierzytelnoÊci albo cz´Êci wierzytelnoÊci organowi egzekucyjnemu, zaj´ta wierzytelnoÊç albo cz´Êç wierzytelnoÊci mo˝e byç Êciàgni´ta od d∏u˝nika zaj´tej wierzytelnoÊci w trybie egzekucji administracyjnej. Podstawà wystawienia tytu∏u wykonawczego jest postanowienie, októrym mowa wart. 71a§ 9. Tytu∏ wykonawczy wystawia organ egzekucyjny, który dokona∏ ud∏u˝nika zaj´tej wierzytelnoÊci zaj´cia wierzytelnoÊci.”; no, ˝e d∏u˝nik zaj´tej wierzytelnoÊci
+**Art. 71b.** Jeżeli dłużnik zajętej wierzytelności bezpodstawnie uchyla się od przekazania zajętej wierzytelności albo części wierzytelności organowi egzekucyjnemu, zajęta wierzytelność albo część wierzytelności może być ściągnięta od dłużnika zajętej wierzytelności w trybie egzekucji administracyjnej. Podstawą wystawienia tytułu wykonawczego jest postanowienie, októrym mowa wart. 71a§ 9. Tytuł wykonawczy wystawia organ egzekucyjny, który dokonał udłużnika zajętej wierzytelności zajęcia wierzytelności.”; no, że dłużnik zajętej wierzytelności
 
-**Art. 73.** Je˝eli wynagrodzenie za prac´ zosta∏o uprzednio zaj´te przez inny organ egzekucyjny, pracodawca niezw∏ocznie zawiadamia otym w∏aÊciwe organy egzekucyjne.”;
+**Art. 73.** Jeżeli wynagrodzenie za pracę zostało uprzednio zajęte przez inny organ egzekucyjny, pracodawca niezwłocznie zawiadamia otym właściwe organy egzekucyjne.”;
 
 **Art. 80.**
 
-§ 1. Organ egzekucyjny dokonuje zaj´cia wierzytelnoÊci z rachunku bankowego przez przes∏anie do banku, aje˝eli bank posiada oddzia∏y do w∏aÊciwego oddzia∏u, zawiadomienia o zaj´ciu wierzytelnoÊci pieni´˝nej zobowiàzanego zrachunku bankowego do wysokoÊci egzekwowanej nale˝noÊci pieni´˝nej wraz z odsetkami z tytu∏u niezap∏acenia w terminie dochodzonej wierzytelnoÊci oraz kosztami egzekucyjnymi. Organ egzekucyjny jednoczeÊnie wzywa bank, aby bez zgody organu egzekucyjnego nie dokonywa∏ wyp∏at zrachunku bankowego do wysokoÊci zaj´tej wierzytelnoÊci, lecz bezzw∏ocznie przekaza∏ zaj´tà kwot´ organowi egzekucyjnemu na pokrycie egzekwowanej nale˝noÊci albo zawiadomi∏ organ egzekucyjny, w terminie 7 dni od dnia dor´czenia wezwania, o przeszkodzie w dokonaniu wp∏aty.
+§ 1. Organ egzekucyjny dokonuje zajęcia wierzytelności z rachunku bankowego przez przesłanie do banku, ajeżeli bank posiada oddziały do właściwego oddziału, zawiadomienia o zajęciu wierzytelności pieniężnej zobowiązanego zrachunku bankowego do wysokości egzekwowanej należności pieniężnej wraz z odsetkami z tytułu niezapłacenia w terminie dochodzonej wierzytelności oraz kosztami egzekucyjnymi. Organ egzekucyjny jednocześnie wzywa bank, aby bez zgody organu egzekucyjnego nie dokonywał wypłat zrachunku bankowego do wysokości zajętej wierzytelności, lecz bezzwłocznie przekazał zajętą kwotę organowi egzekucyjnemu na pokrycie egzekwowanej należności albo zawiadomił organ egzekucyjny, w terminie 7 dni od dnia doręczenia wezwania, o przeszkodzie w dokonaniu wpłaty.
 
-§ 2. Zaj´cie wierzytelnoÊci z rachunku bankowego zobowiàzanego jest dokonane z chwilà dor´czenia bankowi zawiadomienia o zaj´ciu, o którym mowa w§ 1, iobejmuje równie˝ kwoty, które nie by∏y na rachunku bankowym wchwili zaj´cia, azosta∏y wp∏acone na ten rachunek po dokonaniu zaj´cia.
+§ 2. Zajęcie wierzytelności z rachunku bankowego zobowiązanego jest dokonane z chwilą doręczenia bankowi zawiadomienia o zajęciu, o którym mowa w§ 1, iobejmuje również kwoty, które nie były na rachunku bankowym wchwili zajęcia, azostały wpłacone na ten rachunek po dokonaniu zajęcia.
 
-§ 3. JednoczeÊnie zprzes∏aniem zawiadomienia, októrym mowa w§ 1, organ egzekucyjny zawiadamia zobowiàzaz rachunku bankowego, dor´czajàc mu odpis tytu∏u wykonawczego, oile nie zosta∏ wczeÊniej dor´czony, i odpis zawiadomienia skierowanego do banku o zakazie wyp∏aty zaj´tej kwoty z rachunku bankowego bez zgody organu egzekucyjnego.
+§ 3. Jednocześnie zprzesłaniem zawiadomienia, októrym mowa w§ 1, organ egzekucyjny zawiadamia zobowiązaz rachunku bankowego, doręczając mu odpis tytułu wykonawczego, oile nie został wcześniej doręczony, i odpis zawiadomienia skierowanego do banku o zakazie wypłaty zajętej kwoty z rachunku bankowego bez zgody organu egzekucyjnego.
 
 **Art. 81.**
 
-§ 1. Zaj´cie wierzytelnoÊci jest skuteczne w odniesieniu do rachunków bankowych zobowiàzanego prowadzonych przez bank, niezale˝nie od tego, czy organ egzekucyjny wskaza∏ w zawiadomieniu, o którym mowa w art. 80 §1, numery tych rachunków.
+§ 1. Zajęcie wierzytelności jest skuteczne w odniesieniu do rachunków bankowych zobowiązanego prowadzonych przez bank, niezależnie od tego, czy organ egzekucyjny wskazał w zawiadomieniu, o którym mowa w art. 80 §1, numery tych rachunków.
 
-§ 2. Je˝eli zobowiàzanym jest jednostka bud˝etowa, zaj´ciu podlega wy∏àcznie rachunek wydatków.
+§ 2. Jeżeli zobowiązanym jest jednostka budżetowa, zajęciu podlega wyłącznie rachunek wydatków.
 
-§ 3. Je˝eli wierzytelnoÊci z innych rodzajów rachunków bankowych zobowiàzanego ni˝ lokata terminowa, nie pokrywajà dochodzonej nale˝noÊci, bank realizuje zaj´cie wierzytelnoÊci zrachunku tej lokaty wostatniej kolejnoÊci.
+§ 3. Jeżeli wierzytelności z innych rodzajów rachunków bankowych zobowiązanego niż lokata terminowa, nie pokrywają dochodzonej należności, bank realizuje zajęcie wierzytelności zrachunku tej lokaty wostatniej kolejności.
 
-§ 4. Wynikajàcy z zaj´cia wierzytelnoÊci z rachunku bankowego zakaz wyp∏at ztego rachunku bez zgody organu egzekucyjnego nie dotyczy wyp∏at na bie˝àce wynagrodzenia za prac´ oraz na zasàdzone alimenty i renty o charakterze alimentacyjnym zasàdzone tytu∏em odszkodowania. Wyp∏ata na wynagrodzenia za prac´ mo˝e nastàpiç po z∏o˝eniu bankowi odpisu listy p∏ac lub innego wiarygodnego dowodu, a wyp∏ata alimentów lub renty o charakterze alimentacyjnym tytu∏u stwierdzajàcego obowiàzek zobowiàzanego do p∏acenia alimentów lub renty. Bank dokonuje wyp∏at alimentów lub renty do ràk osoby uprawnionej do tych Êwiadczeƒ.
+§ 4. Wynikający z zajęcia wierzytelności z rachunku bankowego zakaz wypłat ztego rachunku bez zgody organu egzekucyjnego nie dotyczy wypłat na bieżące wynagrodzenia za pracę oraz na zasądzone alimenty i renty o charakterze alimentacyjnym zasądzone tytułem odszkodowania. Wypłata na wynagrodzenia za pracę może nastąpić po złożeniu bankowi odpisu listy płac lub innego wiarygodnego dowodu, a wypłata alimentów lub renty o charakterze alimentacyjnym tytułu stwierdzającego obowiązek zobowiązanego do płacenia alimentów lub renty. Bank dokonuje wypłat alimentów lub renty do rąk osoby uprawnionej do tych świadczeń.
 
-§ 5. Przepis § 4 stosuje si´ równie˝ do podatku dochodowego od osób fizycznych oraz sk∏adek na ubezpieczenie spo∏eczne, nale˝nych od dokonywanych wyp∏at na bie˝àce wynagrodzenia.
+§ 5. Przepis § 4 stosuje się również do podatku dochodowego od osób fizycznych oraz składek na ubezpieczenie społeczne, należnych od dokonywanych wypłat na bieżące wynagrodzenia.
 
-**Art. 82.** Wprzypadku zbiegu kilku egzekucji administracyjnych lub zbiegu egzekucji administracyjnej i sàdowej do tej samej wierzytelnoÊci z rachunku bankowego zobowiàzanego, je˝eli kwoty znajdujàce si´ na rachunku bankowym nie wystarczajà na pokrycie wszystkich egzekwowanych nale˝noÊci, bank obowiàzany jest wstrzymaç wyp∏aty ztego rachunku do wysokoÊci nale˝noÊci pieni´˝nych, na rzecz których zaj´cie nastàpi∏o, oraz niezw∏ocznie zawiadomiç otym w∏aÊciwe organy egzenego o zaj´ciu jego wierzytelnoÊci kucyjne. Przepisy art. 81 § 4—5 stosuje si´ odpowiednio.”;
+**Art. 82.** Wprzypadku zbiegu kilku egzekucji administracyjnych lub zbiegu egzekucji administracyjnej i sądowej do tej samej wierzytelności z rachunku bankowego zobowiązanego, jeżeli kwoty znajdujące się na rachunku bankowym nie wystarczają na pokrycie wszystkich egzekwowanych należności, bank obowiązany jest wstrzymać wypłaty ztego rachunku do wysokości należności pieniężnych, na rzecz których zajęcie nastąpiło, oraz niezwłocznie zawiadomić otym właściwe organy egzenego o zajęciu jego wierzytelności kucyjne. Przepisy art. 81 § 4—5 stosuje się odpowiednio.”;
 
 **Art. 85.**
 
-§ 1. Je˝eli dokument jest tego rodzaju, ˝e bez jego okazania zobowiàzany nie mo˝e realizowaç wierzytelnoÊci z rachunku bankowego, organ egzekucyjny dokonuje zaj´cia wierzytelnoÊci z rachunku bankowego zwiàzanego ztym dokumentem przez jego odbiór.
+§ 1. Jeżeli dokument jest tego rodzaju, że bez jego okazania zobowiązany nie może realizować wierzytelności z rachunku bankowego, organ egzekucyjny dokonuje zajęcia wierzytelności z rachunku bankowego związanego ztym dokumentem przez jego odbiór.
 
-§ 2. Organ egzekucyjny potwierdza odbiór dokumentu protoko∏em odbioru dokumentu. Przepisy art. 84 § 2—4 stosuje si´ odpowiednio.
+§ 2. Organ egzekucyjny potwierdza odbiór dokumentu protokołem odbioru dokumentu. Przepisy art. 84 § 2—4 stosuje się odpowiednio.
 
-§ 3. Niezale˝nie od zaj´cia, o którym mowa w § 1, organ egzekucyjny przesy∏a do banku zawiadomienie o zaj´ciu wierzytelnoÊci pieni´˝nej z rachunku bankowego. Przepisy art. 80 stosuje
+§ 3. Niezależnie od zajęcia, o którym mowa w § 1, organ egzekucyjny przesyła do banku zawiadomienie o zajęciu wierzytelności pieniężnej z rachunku bankowego. Przepisy art. 80 stosuje
 
 **Art. 86.**
 
-§ 1. Organ egzekucyjny poucza wierzyciela, ˝eby wterminie 14 dni od dnia zaj´cia, o którym mowa w art. 85 § 1, wystàpi∏ do sàdu o umorzenie dokumentu i zawiadomi∏ o tym w∏aÊciwy oddzia∏ banku przez dor´czenie mu wtym samym terminie odpisu z∏o˝onego do sàdu wniosku w sprawie wszcz´cia post´powania oumorzenie dokumentu.
+§ 1. Organ egzekucyjny poucza wierzyciela, żeby wterminie 14 dni od dnia zajęcia, o którym mowa w art. 85 § 1, wystąpił do sądu o umorzenie dokumentu i zawiadomił o tym właściwy oddział banku przez doręczenie mu wtym samym terminie odpisu złożonego do sądu wniosku w sprawie wszczęcia postępowania oumorzenie dokumentu.
 
-§ 2. Wprzypadku nieotrzymania zawiadomienia o wszcz´ciu post´powania o umorzenie dokumentu w∏aÊciwy oddzia∏ banku, po up∏ywie 21 dni od dnia dor´czenia zawiadomienia o zaj´ciu wierzytelnoÊci z rachunku bankowego, odwo∏uje wstrzymanie wyp∏at ztego rachunku, oczym zawiadamia posiadacza rachunku.
+§ 2. Wprzypadku nieotrzymania zawiadomienia o wszczęciu postępowania o umorzenie dokumentu właściwy oddział banku, po upływie 21 dni od dnia doręczenia zawiadomienia o zajęciu wierzytelności z rachunku bankowego, odwołuje wstrzymanie wypłat ztego rachunku, oczym zawiadamia posiadacza rachunku.
 
-§ 3. Sàd rozpatruje wniosek o umorzenie dokumentu na zasadach i w trybie si´ odpowiednio. przewidzianych w przepisach o umarzaniu utraconych dokumentów. W post´powaniu w sprawie umorzenia dokumentu nie mogà byç zg∏aszane zarzuty dotyczàce zasadnoÊci roszczenia wierzyciela. Koszty post´powania obcià˝ajà w∏aÊciciela dokumentu. Sàd przesy∏a w∏aÊciwemu oddzia∏owi banku wypis prawomocnego postanowienia wsprawie umorzenia dokumentu.
+§ 3. Sąd rozpatruje wniosek o umorzenie dokumentu na zasadach i w trybie się odpowiednio. przewidzianych w przepisach o umarzaniu utraconych dokumentów. W postępowaniu w sprawie umorzenia dokumentu nie mogą być zgłaszane zarzuty dotyczące zasadności roszczenia wierzyciela. Koszty postępowania obciążają właściciela dokumentu. Sąd przesyła właściwemu oddziałowi banku wypis prawomocnego postanowienia wsprawie umorzenia dokumentu.
 
-§ 4. Wprzypadku umorzenia dokumentu, w∏aÊciwy oddzia∏ banku wystawia wjego miejsce nowy, aktualny dokument, który wydaje w∏aÊcicielowi. Wprzypadku nieuwzgl´dnienia wniosku o umorzenie dokumentu, w∏aÊciwy oddzia∏ banku niezw∏ocznie odwo∏uje wstrzymanie wyp∏at zrachunku bankowego i zawiadamia o tym w∏aÊciciela.”;
+§ 4. Wprzypadku umorzenia dokumentu, właściwy oddział banku wystawia wjego miejsce nowy, aktualny dokument, który wydaje właścicielowi. Wprzypadku nieuwzględnienia wniosku o umorzenie dokumentu, właściwy oddział banku niezwłocznie odwołuje wstrzymanie wypłat zrachunku bankowego i zawiadamia o tym właściciela.”;
 
-- **63)** dodaje si´ art. 86awbrzmieniu: „Art. 86a. § 1. Wskutek zaj´cia wierzytelnoÊci z rachunku bankowego, bank wstrzymuje wszelkie wyp∏aty zzaj´tego rachunku i niezw∏ocznie zawiadamia o zaj´ciu wierzytelnoÊci z rachunku bankowego inne oddzia∏y banku, inne banki, placówki pocztowe i inne podmioty uprawnione do dokonywania wyp∏at zobowiàzanemu z zaj´tego rachunku. Zaj´cie nie dotyczy kwot wolnych od egzekucji.
+- **63)** dodaje się art. 86awbrzmieniu: ŃArt. 86a. § 1. Wskutek zajęcia wierzytelności z rachunku bankowego, bank wstrzymuje wszelkie wypłaty zzajętego rachunku i niezwłocznie zawiadamia o zajęciu wierzytelności z rachunku bankowego inne oddziały banku, inne banki, placówki pocztowe i inne podmioty uprawnione do dokonywania wypłat zobowiązanemu z zajętego rachunku. Zajęcie nie dotyczy kwot wolnych od egzekucji.
 
-§ 2. Inne banki, placówki pocztowe iinne podmioty uprawnione do dokonywania wyp∏at, o których mowa w § 1, po zawiadomieniu ich o zaj´ciu, ponoszà wzgl´dem wierzyciela odpowiedzialnoÊç za dokonane wyp∏aty.
+§ 2. Inne banki, placówki pocztowe iinne podmioty uprawnione do dokonywania wypłat, o których mowa w § 1, po zawiadomieniu ich o zajęciu, ponoszą względem wierzyciela odpowiedzialność za dokonane wypłaty.
 
-§ 3. Minister w∏aÊciwy do spraw finansów publicznych w porozumieniu z ministrem w∏aÊciwym do spraw ∏àcznoÊci iMinistrem SprawiedliwoÊci okreÊli, wdrodze rozporzàdzenia, tryb zawiadamiania oddzia∏ów banków, placówek pocztowych i innych podmiotów uprawnionych do dokonywania wyp∏at zzaj´tego rachunku w post´powaniu egzekucyjnym w administracji, zapewniajàcy prawid∏owe orzekanie o ich odpowiedzialnoÊci za dokonane wyp∏aty.”;
+§ 3. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw łączności iMinistrem Sprawiedliwości określi, wdrodze rozporządzenia, tryb zawiadamiania oddziałów banków, placówek pocztowych i innych podmiotów uprawnionych do dokonywania wypłat zzajętego rachunku w postępowaniu egzekucyjnym w administracji, zapewniający prawidłowe orzekanie o ich odpowiedzialności za dokonane wypłaty.”;
 
-- **64)** art. 87 otrzymuje brzmienie: „Art. 87. Przepisy dotyczàce egzekucji zrachunków bankowych i wierzytelnoÊci z rachunku bankowego zwiàzanego z dokumentem stosuje si´ odpowiednio w egzekucji z wk∏adów oszcz´dnoÊciowych gromadzonych w spó∏dzielczych kasach oszcz´dnoÊciowo-kredytowych.”;
-- **65)** wdziale II rozdzia∏ 5 otrzymuje brzmienie: „Rozdzia∏ 5 Egzekucja zinnych wierzytelnoÊci pieni´˝nych iinnych praw majàtkowych Oddzia∏ 1. Egzekucja zinnych wierzytelnoÊci pieni´˝nych
+- **64)** art. 87 otrzymuje brzmienie: ŃArt. 87. Przepisy dotyczące egzekucji zrachunków bankowych i wierzytelności z rachunku bankowego związanego z dokumentem stosuje się odpowiednio w egzekucji z wkładów oszczędnościowych gromadzonych w spółdzielczych kasach oszczędnościowo-kredytowych.”;
+- **65)** wdziale II rozdział 5 otrzymuje brzmienie: ŃRozdział 5 Egzekucja zinnych wierzytelności pieniężnych iinnych praw majątkowych
+
+##### Oddział 1. Egzekucja zinnych wierzytelności pieniężnych
 
 **Art. 89.**
 
-§ 1. Organ egzekucyjny dokonuje zaj´cia wierzytelnoÊci pieni´˝nej innej, ni˝ okreÊlona wart. 72—85, przez przes∏anie do d∏u˝nika zobowiàzanego zawiadomienia o zaj´ciu wierzytelnoÊci pieni´˝nej zobowiàzanego i jednoczeÊnie wzywa d∏u˝nika zaj´tej wierzytelnoÊci, aby nale˝nej od niego kwoty do wysokoÊci egzekwowanej nale˝noÊci wraz z odsetkami z tytu∏u niezap∏acenia nale˝noÊci wterminie ikosztami egzekucyjnymi bez zgody organu egzekucyjnego nie uiszcza∏ zobowiàzanemu, lecz nale˝nà kwot´ przekaza∏ organowi egzekucyjnemu na pokrycie nale˝noÊci.
+§ 1. Organ egzekucyjny dokonuje zajęcia wierzytelności pieniężnej innej, niż określona wart. 72—85, przez przesłanie do dłużnika zobowiązanego zawiadomienia o zajęciu wierzytelności pieniężnej zobowiązanego i jednocześnie wzywa dłużnika zajętej wierzytelności, aby należnej od niego kwoty do wysokości egzekwowanej należności wraz z odsetkami z tytułu niezapłacenia należności wterminie ikosztami egzekucyjnymi bez zgody organu egzekucyjnego nie uiszczał zobowiązanemu, lecz należną kwotę przekazał organowi egzekucyjnemu na pokrycie należności.
 
-§ 2. Zaj´cie wierzytelnoÊci jest dokonane z chwilà dor´czenia d∏u˝nikowi zaj´tej wierzytelnoÊci zawiadomienia o zaj´ciu, októrym mowa w§ 1. Zaj´cie wierzytelnoÊci z tytu∏u dostaw, robót i us∏ug dotyczy równie˝ wierzytelnoÊci, które nie istnia∏y w chwili zaj´cia, apowstanà po dokonaniu zaj´cia ztytu∏u tych dostaw, robót ius∏ug.
+§ 2. Zajęcie wierzytelności jest dokonane z chwilą doręczenia dłużnikowi zajętej wierzytelności zawiadomienia o zajęciu, októrym mowa w§ 1. Zajęcie wierzytelności z tytułu dostaw, robót i usług dotyczy również wierzytelności, które nie istniały w chwili zajęcia, apowstaną po dokonaniu zajęcia ztytułu tych dostaw, robót iusług.
 
-§ 3. JednoczeÊnie z przes∏aniem zawiadomienia, o którym mowa w § 1, organ egzekucyjny:
+§ 3. Jednocześnie z przesłaniem zawiadomienia, o którym mowa w § 1, organ egzekucyjny:
 
-- **1)** wzywa d∏u˝nika zaj´tej wierzytelnoÊci, aby wterminie 7 dni od dnia dor´czenia zawiadomienia z∏o˝y∏
-    - **a)** uznaje zaj´tà wierzytelnoÊç zobowiàzanego,
-    - **b)** przeka˝e organowi egzekucyjnemu zzaj´tej wierzytelnoÊci kwoty na pokrycie nale˝noÊci lub zjakiego powodu odmawia tego przekazania,
-    - **c)** iwjakim sàdzie lub przed jakim organem toczy si´ albo toczy∏a si´ sprawa ozaj´tà wierzytelnoÊç,
+- **1)** wzywa dłużnika zajętej wierzytelności, aby wterminie 7 dni od dnia doręczenia zawiadomienia złożył
+    - **a)** uznaje zajętą wierzytelność zobowiązanego,
+    - **b)** przekaże organowi egzekucyjnemu zzajętej wierzytelności kwoty na pokrycie należności lub zjakiego powodu odmawia tego przekazania,
+    - **c)** iwjakim sądzie lub przed jakim organem toczy się albo toczyła się sprawa ozajętą wierzytelność,
 
-- **2)** zawiadamia zobowiàzanego, ˝e nie wolno mu zaj´tej kwoty odebraç ani te˝ rozporzàdzaç nià lub ustanowionym dla niej zabezpieczeniem,
-- **3)** dor´cza zobowiàzanemu odpis tytu∏u wykonawczego, oile nie zosta∏ wczeÊniej dor´czony, a tak˝e odpis wniosku, októrym mowa wart. 90 §1.
+- **2)** zawiadamia zobowiązanego, że nie wolno mu zajętej kwoty odebrać ani też rozporządzać nią lub ustanowionym dla niej zabezpieczeniem,
+- **3)** doręcza zobowiązanemu odpis tytułu wykonawczego, oile nie został wcześniej doręczony, a także odpis wniosku, októrym mowa wart. 90 §1.
 
 **Art. 90.**
 
-§ 1. Je˝eli organowi egzekucyjnemu jest wiadomo, ˝e zaj´ta wierzytelnoÊç jest oÊwiadczenie dotyczàce tego, czy: zabezpieczona przez wpis w ksi´dze wieczystej lub przez z∏o˝enie dokumentu do zbioru dokumentów, przesy∏a on do sàdu wniosek o dokonanie w ksi´dze wieczystej wpisu o zaj´ciu wierzytelnoÊci lub o z∏o˝enie tego wniosku do zbioru dokumentów. Do wniosku organu egzekucyjnego do∏àcza si´ odpis tytu∏u wykonawczego.
+§ 1. Jeżeli organowi egzekucyjnemu jest wiadomo, że zajęta wierzytelność jest oświadczenie dotyczące tego, czy: zabezpieczona przez wpis w księdze wieczystej lub przez złożenie dokumentu do zbioru dokumentów, przesyła on do sądu wniosek o dokonanie w księdze wieczystej wpisu o zajęciu wierzytelności lub o złożenie tego wniosku do zbioru dokumentów. Do wniosku organu egzekucyjnego dołącza się odpis tytułu wykonawczego.
 
-§ 2. Je˝eli zaj´ta wierzytelnoÊç nale˝y si´ zobowiàzanemu od organów b´dàcych jednoczeÊnie jednostkami bud˝etowymi lub zak∏adami bud˝etowymi albo od funduszy pozostajàcych w ich zarzàdzie, za d∏u˝nika zaj´tej wierzytelnoÊci uwa˝a si´ organ w∏aÊciwy do wydania polecenia wyp∏aty.
+§ 2. Jeżeli zajęta wierzytelność należy się zobowiązanemu od organów będących jednocześnie jednostkami budżetowymi lub zakładami budżetowymi albo od funduszy pozostających w ich zarządzie, za dłużnika zajętej wierzytelności uważa się organ właściwy do wydania polecenia wypłaty.
 
-**Art. 91.** Je˝eli d∏u˝nik zaj´tej wierzytelnoÊci uchyla si´ od przekazania zaj´tej kwoty organowi egzekucyjnemu, mimo ˝e wierzytelnoÊç zosta∏a przez niego uznana ijest wymagalna, stosuje si´ odpowiednio przepisy art.71b.
+**Art. 91.** Jeżeli dłużnik zajętej wierzytelności uchyla się od przekazania zajętej kwoty organowi egzekucyjnemu, mimo że wierzytelność została przez niego uznana ijest wymagalna, stosuje się odpowiednio przepisy art.71b.
 
-**Art. 92.** Wegzekucji zkwot b´dàcych przedmiotem krajowych przekazów pocztowych stosuje si´ odpowiednio przepisy dotyczàce egzekucji z innych wierzytelnoÊci pieni´˝nych. Za wierzyciela zaj´tej wierzytelnoÊci uwa˝a si´ w tym przypadku adresata przekazu, a za d∏u˝nika zaj´tej wierzytelnoÊci placówk´ pocztowà, która obowiàzana jest wyp∏aciç kwot´ przekazu adresatowi. Oddzia∏ 2. Egzekucja zpraw zpapierów wartoÊciowych zapisanych na rachunkach papierów wartoÊciowych oraz zwierzytelnoÊci zrachunków pieni´˝nych
+**Art. 92.** Wegzekucji zkwot będących przedmiotem krajowych przekazów pocztowych stosuje się odpowiednio przepisy dotyczące egzekucji z innych wierzytelności pieniężnych. Za wierzyciela zajętej wierzytelności uważa się w tym przypadku adresata przekazu, a za dłużnika zajętej wierzytelności placówkę pocztową, która obowiązana jest wypłacić kwotę przekazu adresatowi.
+
+##### Oddział 2. Egzekucja zpraw zpapierów wartościowych zapisanych na rachunkach papierów wartościowych oraz zwierzytelności zrachunków pieniężnych
 
 **Art. 93.**
 
-§ 1. Organ egzekucyjny dokonuje zaj´cia praw z papierów wartoÊciowych zapisanych na rachunku papierów wartoÊciowych oraz wierzytelnoÊci zrachunku pieni´˝nego zobowiàzanego przez przes∏anie do podmiotu prowadzàcego rachunki papierów wartoÊciowych lub rachunki pieni´˝ne, zwanego dalej «prowadzàcym rachunki», zawiadomienia ozaj´ciu praw zpapierów wartoÊciowych oraz wierzytelnoÊci z rachunku pieni´˝nego zobowiàzanego do wysokoÊci dochodzonych nale˝noÊci, októrych mowa w§ 2.
+§ 1. Organ egzekucyjny dokonuje zajęcia praw z papierów wartościowych zapisanych na rachunku papierów wartościowych oraz wierzytelności zrachunku pieniężnego zobowiązanego przez przesłanie do podmiotu prowadzącego rachunki papierów wartościowych lub rachunki pieniężne, zwanego dalej «prowadzącym rachunki», zawiadomienia ozajęciu praw zpapierów wartościowych oraz wierzytelności z rachunku pieniężnego zobowiązanego do wysokości dochodzonych należności, októrych mowa w§ 2.
 
-§ 2. Organ egzekucyjny wzywa prowadzàcego rachunki, aby przekaza∏ organowi egzekucyjnemu z rachunku pieni´˝nego zobowiàzanego Êrodki do wysokoÊci egzekwowanej nale˝noÊci wraz z odsetkami z tytu∏u niezap∏acenia nale˝noÊci wterminie ikosztami egzekucyjnymi, a je˝eli Êrodki na rachunku pieni´˝nym nie sà wystarczajàce do pokrycia egzekwowanych kwot, aby dokona∏ na ˝àdanie organu egzekucyjnego sprzeda˝y zaj´tych papierów wartoÊciowych i uzyskanà ze sprzeda˝y kwot´ wp∏aci∏ organowi egzekucyjnemu albo zawiadomi∏ ten organ wterminie 7 dni od dnia dor´czenia zawiadomienia o przeszkodzie w dokonaniu realizacji zaj´cia, wtym równie˝ onieprowadzeniu rachunku pieni´˝nego lub rachunku papierów wartoÊciowych zobowiàzanego.
+§ 2. Organ egzekucyjny wzywa prowadzącego rachunki, aby przekazał organowi egzekucyjnemu z rachunku pieniężnego zobowiązanego środki do wysokości egzekwowanej należności wraz z odsetkami z tytułu niezapłacenia należności wterminie ikosztami egzekucyjnymi, a jeżeli środki na rachunku pieniężnym nie są wystarczające do pokrycia egzekwowanych kwot, aby dokonał na żądanie organu egzekucyjnego sprzedaży zajętych papierów wartościowych i uzyskaną ze sprzedaży kwotę wpłacił organowi egzekucyjnemu albo zawiadomił ten organ wterminie 7 dni od dnia doręczenia zawiadomienia o przeszkodzie w dokonaniu realizacji zajęcia, wtym również onieprowadzeniu rachunku pieniężnego lub rachunku papierów wartościowych zobowiązanego.
 
-§ 3. Zaj´cie praw z papierów wartoÊciowych i wierzytelnoÊci z rachunku pieni´˝nego jest dokonane zchwilà dor´czenia prowadzàcemu rachunki zawiadomienia o zaj´ciu tych praw i obejmuje równie˝ prawa i wierzytelnoÊci, które nie zosta∏y zapisane lub nie znajdowa∏y si´ na rachunkach zobowiàzanego wchwili zaj´cia.
+§ 3. Zajęcie praw z papierów wartościowych i wierzytelności z rachunku pieniężnego jest dokonane zchwilą doręczenia prowadzącemu rachunki zawiadomienia o zajęciu tych praw i obejmuje również prawa i wierzytelności, które nie zostały zapisane lub nie znajdowały się na rachunkach zobowiązanego wchwili zajęcia.
 
-§ 4. Zaj´cie praw z papierów wartoÊciowych oraz wierzytelnoÊci z rachunku pieni´˝nego jest skuteczne tak˝e wtedy, gdy zawiadomienie, o którym mowa w§ 1, zawiera tylko imi´ inazwisko lub firm´ oraz adres zobowiàzanego.
+§ 4. Zajęcie praw z papierów wartościowych oraz wierzytelności z rachunku pieniężnego jest skuteczne także wtedy, gdy zawiadomienie, o którym mowa w§ 1, zawiera tylko imię inazwisko lub firmę oraz adres zobowiązanego.
 
-§ 5. JednoczeÊnie z przes∏aniem zawiadomienia, o którym mowa w § 1, organ egzekucyjny:
+§ 5. Jednocześnie z przesłaniem zawiadomienia, o którym mowa w § 1, organ egzekucyjny:
 
-- **1)** zawiadamia zobowiàzanego o zaj´ciu jego praw zpapierów wartoÊciowych iwierzytelnoÊci zrachunku pieni´˝nego, dor´czajàc mu odpis tytu∏u wykonawczego, o ile nie zosta∏ wczeÊniej dor´czony, i odpis zawiadomienia skierowanego do prowadzàcego rachunki o zaj´ciu praw z papierów wartoÊciowych i wierzytelnoÊci z rachunku pieni´˝nego, jak równie˝ zawiadamia zobowiàzanego, ˝e nie wolno mu zaj´tymi prawa2) wzywa zobowiàzanego, aby wterminie 7 dni od dnia dor´czenia zawiadomienia, o którym mowa w pkt 1, poinformowa∏ organ egzekucyjny, w jakiej kolejnoÊci i po jakiej cenie papiery wartoÊciowe majà byç zbywane.
+- **1)** zawiadamia zobowiązanego o zajęciu jego praw zpapierów wartościowych iwierzytelności zrachunku pieniężnego, doręczając mu odpis tytułu wykonawczego, o ile nie został wcześniej doręczony, i odpis zawiadomienia skierowanego do prowadzącego rachunki o zajęciu praw z papierów wartościowych i wierzytelności z rachunku pieniężnego, jak również zawiadamia zobowiązanego, że nie wolno mu zajętymi prawa2) wzywa zobowiązanego, aby wterminie 7 dni od dnia doręczenia zawiadomienia, o którym mowa w pkt 1, poinformował organ egzekucyjny, w jakiej kolejności i po jakiej cenie papiery wartościowe mają być zbywane.
 
-§ 6. W przypadku, o którym mowa w § 5 pkt2, organ egzekucyjny wystawia zlecenie sprzeda˝y papierów wartoÊciowych stosownie do dyspozycji zobowiàzanego.
+§ 6. W przypadku, o którym mowa w § 5 pkt2, organ egzekucyjny wystawia zlecenie sprzedaży papierów wartościowych stosownie do dyspozycji zobowiązanego.
 
-§ 7. Je˝eli zobowiàzany w wyznaczonym terminie nie wskaza∏ ceny lub kolejnoÊci zbycia papierów wartoÊciowych lub je˝eli w terminie 5 kolejnych dni transakcyjnych sprzeda˝ papierów wartoÊciowych zgodnie z dyspozycjà zobowiàzanego nie dojdzie do skutku, organ egzekucyjny wystawia zlecenie sprzeda˝y papierów wartoÊciowych po cenie umo˝liwiajàcej realizacj´ zlemi rozporzàdzaç, cenia na rynku regulowanym.
+§ 7. Jeżeli zobowiązany w wyznaczonym terminie nie wskazał ceny lub kolejności zbycia papierów wartościowych lub jeżeli w terminie 5 kolejnych dni transakcyjnych sprzedaż papierów wartościowych zgodnie z dyspozycją zobowiązanego nie dojdzie do skutku, organ egzekucyjny wystawia zlecenie sprzedaży papierów wartościowych po cenie umożliwiającej realizację zlemi rozporządzać, cenia na rynku regulowanym.
 
-§ 8. Organ egzekucyjny ustala zakres i kolejnoÊç sprzeda˝y papierów wartoÊciowych na podstawie notowaƒ gie∏dowych z dnia poprzedzajàcego dzieƒ zlecenia ich sprzeda˝y.
+§ 8. Organ egzekucyjny ustala zakres i kolejność sprzedaży papierów wartościowych na podstawie notowań giełdowych z dnia poprzedzającego dzień zlecenia ich sprzedaży.
 
-§ 9. Wpierwszej kolejnoÊci sprzeda˝y podlegajà papiery wartoÊciowe, których ceny wdniu poprzedzajàcym dzieƒ zlecenia sprzeda˝y zapewnia∏y najwy˝szy dochód lub najni˝szà strat´ liczonà w stosunku do wartoÊci nominalnej tych papierów.
+§ 9. Wpierwszej kolejności sprzedaży podlegają papiery wartościowe, których ceny wdniu poprzedzającym dzień zlecenia sprzedaży zapewniały najwyższy dochód lub najniższą stratę liczoną w stosunku do wartości nominalnej tych papierów.
 
-§ 10. Je˝eli w pierwszym dniu transakcyjnym po up∏ywie okresu, októrym mowa w § 7, sprzeda˝ papierów wartoÊciowych nie dojdzie do skutku lub uzyskana ze sprzeda˝y kwota nie wystarcza na pokrycie dochodzonych nale˝noÊci, organ egzekucyjny zleca dokonanie sprzeda˝y uzupe∏niajàcych, stosujàc zasady okreÊlone w § 8 i9.
+§ 10. Jeżeli w pierwszym dniu transakcyjnym po upływie okresu, októrym mowa w § 7, sprzedaż papierów wartościowych nie dojdzie do skutku lub uzyskana ze sprzedaży kwota nie wystarcza na pokrycie dochodzonych należności, organ egzekucyjny zleca dokonanie sprzedaży uzupełniających, stosując zasady określone w § 8 i9.
 
 **Art. 94.**
 
-§ 1. Do zaj´cia papierów zapisanych na rachunku papierów wartoÊciowych, lecz nieb´dàcych przedmiotem obrotu na rynku gie∏dowym lub regulowanym rynku pozagie∏dowym, stosuje si´ odpowiednio przepisy art. 93 § 1, 3—4 i§5 pkt 1.
+§ 1. Do zajęcia papierów zapisanych na rachunku papierów wartościowych, lecz niebędących przedmiotem obrotu na rynku giełdowym lub regulowanym rynku pozagiełdowym, stosuje się odpowiednio przepisy art. 93 § 1, 3—4 i§5 pkt 1.
 
-§ 2. Po otrzymaniu zawiadomienia o zaj´ciu papierów wartoÊciowych, o których mowa w§ 1, prowadzàcy rachunki niezw∏ocznie przesy∏a organowi egzekucyjnemu wyciàg z rachunków zobowiàzanego.
+§ 2. Po otrzymaniu zawiadomienia o zajęciu papierów wartościowych, o których mowa w§ 1, prowadzący rachunki niezwłocznie przesyła organowi egzekucyjnemu wyciąg z rachunków zobowiązanego.
 
-§ 3. Sprzeda˝ papierów wartoÊciowych, o których mowa w § 1, nast´puje na rzecz osób fizycznych w trybie przepisów dzia∏u II rozdzia∏u 6 oddzia∏u 2.
+§ 3. Sprzedaż papierów wartościowych, o których mowa w § 1, następuje na rzecz osób fizycznych w trybie przepisów działu II rozdziału 6 oddziału 2.
 
-**Art. 94a.** Prowadzàcy rachunki dokonuje zapisu papierów wartoÊciowych nabywcy na jego rachunku papierów wartoÊciowych na podstawie postanowienia, o którym mowa wart. 68b.
+**Art. 94a.** Prowadzący rachunki dokonuje zapisu papierów wartościowych nabywcy na jego rachunku papierów wartościowych na podstawie postanowienia, o którym mowa wart. 68b.
 
-**Art. 94b.** Wprzypadku dokonania przez prowadzàcego rachunki wyp∏aty zobowiàzanemu zaj´tych kwot lub kwot uzyskanych ze sprzeda˝y zaj´tych praw zpapierów wartoÊciowych albo wykonania rozporzàdzeƒ zobowiàzanego powodujàcych nieskutecznoÊç prowadzonej egzekucji, stosuje si´ odpowiednio przepis art. 71b.
+**Art. 94b.** Wprzypadku dokonania przez prowadzącego rachunki wypłaty zobowiązanemu zajętych kwot lub kwot uzyskanych ze sprzedaży zajętych praw zpapierów wartościowych albo wykonania rozporządzeń zobowiązanego powodujących nieskuteczność prowadzonej egzekucji, stosuje się odpowiednio przepis art. 71b.
 
-**Art. 94c.** Je˝eli zaj´te prawa zpapierów wartoÊciowych zobowiàzanego i wierzytelnoÊci zrachunku pieni´˝nego zosta∏y uprzednio zaj´te przez inny organ egzekucyjny, prowadzàcy rachunki niezw∏ocznie zawiadamia otym w∏aÊciwe organy egzekucyjne. Oddzia∏ 3. Egzekucja zpapierów wartoÊciowych niezapisanych na rachunku papierów wartoÊciowych
+**Art. 94c.** Jeżeli zajęte prawa zpapierów wartościowych zobowiązanego i wierzytelności zrachunku pieniężnego zostały uprzednio zajęte przez inny organ egzekucyjny, prowadzący rachunki niezwłocznie zawiadamia otym właściwe organy egzekucyjne.
+
+##### Oddział 3. Egzekucja zpapierów wartościowych niezapisanych na rachunku papierów wartościowych
 
 **Art. 95.**
 
-§ 1. Organ egzekucyjny dokonuje zaj´cia papierów wartoÊciowych niezapisanych na rachunku papierów wartoÊciowych przez odbiór dokumentu, którego posiadanie jest koniecznym warunkiem wykonywania prawa z tych papierów. Przepisy art. 84 § 2—4 stosuje si´ odpowiednio.
+§ 1. Organ egzekucyjny dokonuje zajęcia papierów wartościowych niezapisanych na rachunku papierów wartościowych przez odbiór dokumentu, którego posiadanie jest koniecznym warunkiem wykonywania prawa z tych papierów. Przepisy art. 84 § 2—4 stosuje się odpowiednio.
 
-§ 2. Zaj´te papiery wartoÊciowe niezapisane na rachunku papierów wartoÊciowych organ egzekucyjny przekazuje do sprzeda˝y podmiotowi posiadajàcemu zezwolenie Komisji Papierów WartoÊciowych i Gie∏d na podejmowanie czynnoÊci zwiàzanych z obrotem takimi papierami, awprzypadku jego braku lub gdy sprzeda˝ w tym trybie wiàza∏aby si´ z poniesieniem zbyt du˝ych kosztów, sprzedaje je wtrybie okreÊlonym przepisami dzia∏u II rozdzia∏u 6 oddzia∏u 2.
+§ 2. Zajęte papiery wartościowe niezapisane na rachunku papierów wartościowych organ egzekucyjny przekazuje do sprzedaży podmiotowi posiadającemu zezwolenie Komisji Papierów Wartościowych i Giełd na podejmowanie czynności związanych z obrotem takimi papierami, awprzypadku jego braku lub gdy sprzedaż w tym trybie wiązałaby się z poniesieniem zbyt dużych kosztów, sprzedaje je wtrybie określonym przepisami działu II rozdziału 6 oddziału 2.
 
-§ 3. Zlecajàc sprzeda˝ papierów wartoÊciowych podmiotowi, o którym mowa w§2, organ egzekucyjny stosuje zasady okreÊlone wart. 93 § 8—9.
+§ 3. Zlecając sprzedaż papierów wartościowych podmiotowi, o którym mowa w§2, organ egzekucyjny stosuje zasady określone wart. 93 § 8—9.
 
-§ 4. Je˝eli sprzeda˝ papierów wartoÊciowych zobowiàzanego nast´puje w trybie przepisów dzia∏u II rozdzia∏u 6 oddzia∏u 2, a oszacowanie wartoÊci zaj´tych papierów wartoÊciowych przez bieg∏ego skarbowego wiàza∏oby si´ ze zbyt du˝ymi kosztami, organ egzekucyjny, za zgodà zobowiàzanego, przyjmuje cen´ wywo∏ania wwysokoÊci ceny nominalnej papierów wartoÊcioOddzia∏ 4. Egzekucja zweksla
+§ 4. Jeżeli sprzedaż papierów wartościowych zobowiązanego następuje w trybie przepisów działu II rozdziału 6 oddziału 2, a oszacowanie wartości zajętych papierów wartościowych przez biegłego skarbowego wiązałoby się ze zbyt dużymi kosztami, organ egzekucyjny, za zgodą zobowiązanego, przyjmuje cenę wywołania wwysokości ceny nominalnej papierów wartościoOddział 4. Egzekucja zweksla
 
-**Art. 96.** Organ egzekucyjny dokonuje zaj´cia weksla, wrozumieniu ustawy zdnia 28kwietnia 1936 r. Prawo wekslowe (Dz. U. Nr37, poz. 282), przez odbiór weksla, stosujàc odpowiednio zasady okreÊlone wart. 84.
+**Art. 96.** Organ egzekucyjny dokonuje zajęcia weksla, wrozumieniu ustawy zdnia 28kwietnia 1936 r. Prawo wekslowe (Dz. U. Nr37, poz. 282), przez odbiór weksla, stosując odpowiednio zasady określone wart. 84.
 
-**Art. 96a.** JednoczeÊnie zzaj´ciem weksla organ egzekucyjny:
+**Art. 96a.** Jednocześnie zzajęciem weksla organ egzekucyjny:
 
 **Art. 96b.**
 
-§ 1. Organ egzekucyjny mo˝e wykonywaç wych. wszelkie prawa zobowiàzanego wzakresie realizacji zaj´tego weksla.
+§ 1. Organ egzekucyjny może wykonywać wych. wszelkie prawa zobowiązanego wzakresie realizacji zajętego weksla.
 
-§ 2. Zobowiàzany udziela organowi egzekucyjnemu wszelkich wyjaÊnieƒ potrzebnych do dochodzenia praw przeciwko trasatowi.
+§ 2. Zobowiązany udziela organowi egzekucyjnemu wszelkich wyjaśnień potrzebnych do dochodzenia praw przeciwko trasatowi.
 
-**Art. 96c.** Organ egzekucyjny przedstawia weksel do zap∏aty wtrybie okreÊlonym wprzepisach ustawy Prawo wekslowe lub sprzedaje w trybie okreÊlonym przepisami dzia∏u II rozdzia∏u 6 oddzia∏u 2.
+**Art. 96c.** Organ egzekucyjny przedstawia weksel do zapłaty wtrybie określonym wprzepisach ustawy Prawo wekslowe lub sprzedaje w trybie określonym przepisami działu II rozdziału 6 oddziału 2.
 
 **Art. 96d.**
 
-§ 1. Je˝eli egzekucja zweksla jest dokonywana w formie sprzeda˝y, organ egzekucyjny, z zastrze˝eniem § 2, indosuje weksel na nabywc´. Dokonany przez organ egzekucyjny indos wywiera skutki indosu wpisanego przez zobowiàzanego.
+§ 1. Jeżeli egzekucja zweksla jest dokonywana w formie sprzedaży, organ egzekucyjny, z zastrzeżeniem § 2, indosuje weksel na nabywcę. Dokonany przez organ egzekucyjny indos wywiera skutki indosu wpisanego przez zobowiązanego.
 
-§ 2. Je˝eli na wekslu zosta∏y umieszczone wyrazy «nie na zlecenie» lub inne zastrze˝enie równoznaczne, organ egzekucyjny mo˝e przenieÊç weksel na nabywc´ tylko wformie ize skutkami zwyk∏ego przelewu.
+§ 2. Jeżeli na wekslu zostały umieszczone wyrazy «nie na zlecenie» lub inne zastrzeżenie równoznaczne, organ egzekucyjny może przenieść weksel na nabywcę tylko wformie ize skutkami zwykłego przelewu.
 
-**Art. 96e.** Je˝eli weksel zosta∏ ju˝ uprzednio zaj´ty przez inny organ egzekucyjny, zobowiàzany niezw∏ocznie zawiadamia o tym w∏aÊciwe organy egzekucyjne.
+**Art. 96e.** Jeżeli weksel został już uprzednio zajęty przez inny organ egzekucyjny, zobowiązany niezwłocznie zawiadamia o tym właściwe organy egzekucyjne.
 
 **Art. 96f.**
 
-§ 1. Je˝eli egzekucja z weksla w trybie okreÊlonym w art. 96c oka˝e si´ nieskuteczna, zaj´cie weksla staje si´ zaj´ciem wierzytelnoÊci zabezpieczonej wekslem.
+§ 1. Jeżeli egzekucja z weksla w trybie określonym w art. 96c okaże się nieskuteczna, zajęcie weksla staje się zajęciem wierzytelności zabezpieczonej wekslem.
 
-§ 2. Do wierzytelnoÊci, o której mowa w§1, stosuje si´ odpowiednio przepisy dzia∏u II rozdzia∏u 5 oddzia∏u 1. Oddzia∏ 5. Egzekucja zautorskich praw majàtkowych ipraw pokrewnych oraz zpraw w∏asnoÊci przemys∏owej
+§ 2. Do wierzytelności, o której mowa w§1, stosuje się odpowiednio przepisy działu II rozdziału 5 oddziału 1.
+
+##### Oddział 5. Egzekucja zautorskich praw majątkowych ipraw pokrewnych oraz zpraw własności przemysłowej
 
 **Art. 96g.**
 
-§ 1. Organ egzekucyjny dokonuje zaj´cia:
+§ 1. Organ egzekucyjny dokonuje zajęcia:
 
-- **1)** autorskiego prawa majàtkowego ipraw pokrewnych,
+- **1)** autorskiego prawa majątkowego ipraw pokrewnych,
 - **2)** patentu,
-- **3)** prawa ochronnego na wzór u˝ytkowy,
+- **3)** prawa ochronnego na wzór użytkowy,
 - **4)** prawa z rejestracji wzoru zdobniczego,
 - **5)** prawa z rejestracji znaku towarowego,
-- **6)** prawa do u˝ywania znaku towarowego powszechnie znanego niezarejestrowanego,
-- **7)** prawa z rejestracji topografii uk∏adu scalonego,
-- **8)** prawa do projektu racjonalizatorskiego oraz korzyÊci z tych praw, przez wpisanie ich do protoko∏u zaj´cia ipodpisanie protoko∏u przez poborc´ skarbowego, a tak˝e zobowiàzanego lub Êwiadków.
+- **6)** prawa do używania znaku towarowego powszechnie znanego niezarejestrowanego,
+- **7)** prawa z rejestracji topografii układu scalonego,
+- **8)** prawa do projektu racjonalizatorskiego oraz korzyści z tych praw, przez wpisanie ich do protokołu zajęcia ipodpisanie protokołu przez poborcę skarbowego, a także zobowiązanego lub świadków.
 
-§ 2. Zaj´cie praw, o których mowa w § 1 pkt 2—5, 7 i8, mo˝e równie˝ nastàpiç przez przes∏anie do Urz´du Patentowego Rzeczypospolitej Polskiej zawiadomienia ozaj´ciu prawa.
+§ 2. Zajęcie praw, o których mowa w § 1 pkt 2—5, 7 i8, może również nastąpić przez przesłanie do Urzędu Patentowego Rzeczypospolitej Polskiej zawiadomienia ozajęciu prawa.
 
-§ 3. Zaj´ciu nie podlega:
+§ 3. Zajęciu nie podlega:
 
-- **1)** autorskie prawo majàtkowe s∏u˝àce twórcy za jego ˝ycia, z wyjàtkiem wymagalnych wierzytelnoÊci,
-- **2)** prawo do utworu nieopublikowanego, je˝eli spadkobiercy sprzeciwiajà si´ egzekucji z tego prawa i sprzeciw ten jest zgodny z ujawnionà wolà twórcy nierozpowszechniania utworu,
-- **3)** patent i prawo ochronne na wzór u˝ytkowy ocharakterze tajnym.
+- **1)** autorskie prawo majątkowe służące twórcy za jego życia, z wyjątkiem wymagalnych wierzytelności,
+- **2)** prawo do utworu nieopublikowanego, jeżeli spadkobiercy sprzeciwiają się egzekucji z tego prawa i sprzeciw ten jest zgodny z ujawnioną wolą twórcy nierozpowszechniania utworu,
+- **3)** patent i prawo ochronne na wzór użytkowy ocharakterze tajnym.
 
-§ 4. Zaj´cie jest skuteczne zchwilà podpisania protoko∏u zaj´cia przez osoby, o których mowa w § 1, albo dor´czenia Urz´dowi Patentowemu Rzeczypospolitej Polskiej zawiadomienia ozaj´ciu, je˝eli by∏o wczeÊniejsze.
+§ 4. Zajęcie jest skuteczne zchwilą podpisania protokołu zajęcia przez osoby, o których mowa w § 1, albo doręczenia Urzędowi Patentowemu Rzeczypospolitej Polskiej zawiadomienia ozajęciu, jeżeli było wcześniejsze.
 
-§ 5. Organ egzekucyjny niezw∏ocznie po dokonaniu zaj´cia:
+§ 5. Organ egzekucyjny niezwłocznie po dokonaniu zajęcia:
 
-- **1)** dor´cza zobowiàzanemu protokó∏ zaj´cia,
-- **2)** dor´cza odpis tytu∏u wykonawczego, je˝eli uprzednio nie zosta∏ on zobowiàzanemu dor´czony,
-- **3)** zawiadamia zobowiàzanego, ˝e nie wolno mu rozporzàdzaç zaj´tymi
-- **4)** przesy∏a do Urz´du Patentowego Rzeczypospolitej Polskiej wniosek o dokonanie we w∏aÊciwym rejestrze wpisu o zaj´ciu prawa, je˝eli przedmiotem zaj´cia sà prawa obj´te tymi rejestrami.
+- **1)** doręcza zobowiązanemu protokół zajęcia,
+- **2)** doręcza odpis tytułu wykonawczego, jeżeli uprzednio nie został on zobowiązanemu doręczony,
+- **3)** zawiadamia zobowiązanego, że nie wolno mu rozporządzać zajętymi
+- **4)** przesyła do Urzędu Patentowego Rzeczypospolitej Polskiej wniosek o dokonanie we właściwym rejestrze wpisu o zajęciu prawa, jeżeli przedmiotem zajęcia są prawa objęte tymi rejestrami.
 
 **Art. 96h.**
 
-§ 1. Poborca skarbowy zamieszcza wprotokole zaj´cia opis zaj´tych praw i je˝eli jest to mo˝liwe wartoÊç szacunkowà zaj´tych praw.
+§ 1. Poborca skarbowy zamieszcza wprotokole zajęcia opis zajętych praw i jeżeli jest to możliwe wartość szacunkową zajętych praw.
 
-§ 2. Je˝eli oszacowanie przez poborc´ skarbowego wartoÊci zaj´tych praw nie jest mo˝liwe lub zaj´cie jest dokonane przez dor´czenie Urz´dowi Patentowemu Rzeczypospolitej Polskiej zawiadomienia ozaj´ciu, organ egzekucyjny zwraca si´ do bieg∏ego skarbowego ooszacowanie wartoÊci tych praw.
+§ 2. Jeżeli oszacowanie przez poborcę skarbowego wartości zajętych praw nie jest możliwe lub zajęcie jest dokonane przez doręczenie Urzędowi Patentowemu Rzeczypospolitej Polskiej zawiadomienia ozajęciu, organ egzekucyjny zwraca się do biegłego skarbowego ooszacowanie wartości tych praw.
 
-§ 3. Na oszacowanie dokonane przez poprawami, borc´ skarbowego zobowiàzanemu przys∏uguje prawo wniesienia do organu egzekucyjnego zarzutu wterminie 7 dni od dnia zaj´cia. W przypadku nieuwzgl´dnienia zarzutu zobowiàzanego, organ egzekucyjny zwraca si´ do bieg∏ego skarbowego ooznaczenie wartoÊci zaj´tych praw.
+§ 3. Na oszacowanie dokonane przez poprawami, borcę skarbowego zobowiązanemu przysługuje prawo wniesienia do organu egzekucyjnego zarzutu wterminie 7 dni od dnia zajęcia. W przypadku nieuwzględnienia zarzutu zobowiązanego, organ egzekucyjny zwraca się do biegłego skarbowego ooznaczenie wartości zajętych praw.
 
-§ 4. Sprzeda˝ zaj´tych praw nast´puje w trybie przepisów dzia∏u II rozdzia∏u6 oddzia∏u 2.
+§ 4. Sprzedaż zajętych praw następuje w trybie przepisów działu II rozdziału6 oddziału 2.
 
-§ 5. Je˝eli zaj´te prawa zosta∏y ju˝ uprzednio zaj´te przez inny organ egzekucyjny, zobowiàzany niezw∏ocznie zawiadamia o tym w∏aÊciwe organy egzekucyjne.
+§ 5. Jeżeli zajęte prawa zostały już uprzednio zajęte przez inny organ egzekucyjny, zobowiązany niezwłocznie zawiadamia o tym właściwe organy egzekucyjne.
 
-**Art. 96i.** Wegzekucji zwierzytelnoÊci zpraw, októrych mowa w art. 96g § 1, stosuje si´ odpowiednio przepisy dotyczàce egzekucji zinnych wierzytelnoÊci pieni´˝nych. Oddzia∏ 6. Egzekucja zudzia∏u wspó∏ce zograniczonà odpowiedzialnoÊcià
+**Art. 96i.** Wegzekucji zwierzytelności zpraw, októrych mowa w art. 96g § 1, stosuje się odpowiednio przepisy dotyczące egzekucji zinnych wierzytelności pieniężnych.
+
+##### Oddział 6. Egzekucja zudziału współce zograniczoną odpowiedzialnością
 
 **Art. 96j.**
 
-§ 1. Organ egzekucyjny dokonuje zaj´cia udzia∏u wspó∏ce zograniczonà odpowiedzialnoÊcià, zwanej dalej «spó∏kà», oraz wierzytelnoÊci z tego prawa przez przes∏anie do spó∏ki zawiadomienia o zaj´ciu udzia∏u i wezwanie jej, aby ˝adnych nale˝noÊci przypadajàcych zobowiàzanemu ztytu∏u zaj´tego udzia∏u do wysokoÊci egzekwowanej nale˝noÊci wraz zodsetkami ztytu∏u niezap∏acenia nale˝noÊci w terminie ikosztami egzekucyjnymi nie uiszcza∏a zobowiàzanemu, lecz nale˝ne kwoty przekaza∏a organowi egzekucyjnemu na pokrycie nale˝noÊci.
+§ 1. Organ egzekucyjny dokonuje zajęcia udziału współce zograniczoną odpowiedzialnością, zwanej dalej «spółką», oraz wierzytelności z tego prawa przez przesłanie do spółki zawiadomienia o zajęciu udziału i wezwanie jej, aby żadnych należności przypadających zobowiązanemu ztytułu zajętego udziału do wysokości egzekwowanej należności wraz zodsetkami ztytułu niezapłacenia należności w terminie ikosztami egzekucyjnymi nie uiszczała zobowiązanemu, lecz należne kwoty przekazała organowi egzekucyjnemu na pokrycie należności.
 
-§ 2. Zaj´cie udzia∏u oraz wierzytelnoÊci z tego prawa jest dokonane z chwilà dor´czenia spó∏ce zawiadomienia, októrym mowa w§ 1.
+§ 2. Zajęcie udziału oraz wierzytelności z tego prawa jest dokonane z chwilą doręczenia spółce zawiadomienia, októrym mowa w§ 1.
 
-§ 3. Organ egzekucyjny jednoczeÊnie z przes∏aniem spó∏ce zawiadomienia ozaj´ciu:
+§ 3. Organ egzekucyjny jednocześnie z przesłaniem spółce zawiadomienia ozajęciu:
 
-- **1)** kieruje do sàdu rejestrowego wniosek odokonanie wKrajowym Rejestrze Sàdowym wpisu o zaj´ciu udzia∏u,
-- **2)** zawiadamia zobowiàzanego, ˝e nie wolno mu odebraç nale˝noÊci, o których mowa w § 1, ani rozporzàdzaç zaj´tym udzia∏em,
-- **3)** dor´cza zobowiàzanemu odpis tytu∏u wykonawczego, oile nie zosta∏ wczeÊniej dor´czony, atak˝e odpis wniosku, októrym mowa wpkt 1.
+- **1)** kieruje do sądu rejestrowego wniosek odokonanie wKrajowym Rejestrze Sądowym wpisu o zajęciu udziału,
+- **2)** zawiadamia zobowiązanego, że nie wolno mu odebrać należności, o których mowa w § 1, ani rozporządzać zajętym udziałem,
+- **3)** doręcza zobowiązanemu odpis tytułu wykonawczego, oile nie został wcześniej doręczony, atakże odpis wniosku, októrym mowa wpkt 1.
 
 **Art. 96k.**
 
-§ 1. Je˝eli egzekucja znale˝noÊci przys∏ugujàcych zobowiàzanemu ztytu∏u zaj´tego udzia∏u nie prowadzi do pe∏nego pokrycia dochodzonej nale˝noÊci, organ egzekucyjny wyst´puje do w∏aÊciwego sàdu rejestrowego o zarzàdzenie sprzeda˝y zaj´tego udzia∏u.
+§ 1. Jeżeli egzekucja znależności przysługujących zobowiązanemu ztytułu zajętego udziału nie prowadzi do pełnego pokrycia dochodzonej należności, organ egzekucyjny występuje do właściwego sądu rejestrowego o zarządzenie sprzedaży zajętego udziału.
 
-§ 2. Je˝eli sàd nie zarzàdzi sprzeda˝y zaj´tego udzia∏u, pozostajà wmocy dokonane czynnoÊci egzekucyjne.
+§ 2. Jeżeli sąd nie zarządzi sprzedaży zajętego udziału, pozostają wmocy dokonane czynności egzekucyjne.
 
-§ 3. Je˝eli sàd zarzàdzi sprzeda˝ udzia∏u, aumowa spó∏ki:
+§ 3. Jeżeli sąd zarządzi sprzedaż udziału, aumowa spółki:
 
-- **1)** nie zawiera ograniczeƒ zbycia udzia∏u albo
-- **2)** zawiera ograniczenia zbycia udzia∏u, lecz spó∏ka, wterminach ina zasadach okreÊlonych w Kodeksie spó∏ek handlowych, nie wystàpi odokonanie oszacowania wartoÊci zaj´tego udzia∏u albo wystàpi otakie oszacowanie, ale nie wska˝e osoby, która nab´dzie udzia∏, albo osoba wskazana przez spó∏k´ nie wp∏aci organowi egzekucyjnemu ustalonej ceny organ egzekucyjny sprzedaje zaj´ty udzia∏, stosujàc odpowiednio przepisy rozdzia∏u 6 oddzia∏u 2, z zastrze˝eniem § 4.
+- **1)** nie zawiera ograniczeń zbycia udziału albo
+- **2)** zawiera ograniczenia zbycia udziału, lecz spółka, wterminach ina zasadach określonych w Kodeksie spółek handlowych, nie wystąpi odokonanie oszacowania wartości zajętego udziału albo wystąpi otakie oszacowanie, ale nie wskaże osoby, która nabędzie udział, albo osoba wskazana przez spółkę nie wpłaci organowi egzekucyjnemu ustalonej ceny organ egzekucyjny sprzedaje zajęty udział, stosując odpowiednio przepisy rozdziału 6 oddziału 2, z zastrzeżeniem § 4.
 
-§ 4. Je˝eli sàd rejestrowy dokona∏ oszacowania wartoÊci zaj´tego udzia∏u, organ egzekucyjny przyjmuje kwot´ oszacowania jako cen´ wywo∏ania. Oddzia∏ 7. Egzekucja zpozosta∏ych praw majàtkowych
+§ 4. Jeżeli sąd rejestrowy dokonał oszacowania wartości zajętego udziału, organ egzekucyjny przyjmuje kwotę oszacowania jako cenę wywołania.
 
-**Art. 96l.** Organ egzekucyjny dokonuje zaj´cia innych praw majàtkowych ni˝ okreÊlone
+##### Oddział 7. Egzekucja zpozostałych praw majątkowych
 
-**Art. 96m.** Wegzekucji zpozosta∏ych praw majàtkowych stosuje si´ odpowiednio przepisy dzia∏u II rozdzia∏u 5 oddzia∏u 1, z tym ˝e w przypadku sprzeda˝y stosuje si´ przepisy dotyczàce sprzeda˝y ruchomoÊci.”;
+**Art. 96l.** Organ egzekucyjny dokonuje zajęcia innych praw majątkowych niż określone
+
+**Art. 96m.** Wegzekucji zpozostałych praw majątkowych stosuje się odpowiednio przepisy działu II rozdziału 5 oddziału 1, z tym że w przypadku sprzedaży stosuje się przepisy dotyczące sprzedaży ruchomości.”;
 
 **Art. 105b.**
 
-§ 1. Je˝eli szacunkowa wartoÊç sprzedawanej ruchomoÊci przekracza kwot´ 4 500 z∏, osoby przyst´pujàce do przetargu obowiàzane sà z∏o˝yç organowi egzekucyjnemu wadium w wysokoÊci 1/10 kwoty oszacowania.
+§ 1. Jeżeli szacunkowa wartość sprzedawanej ruchomości przekracza kwotę 4 500 zł, osoby przystępujące do przetargu obowiązane są złożyć organowi egzekucyjnemu wadium w wysokości 1/10 kwoty oszacowania.
 
-§ 2. Wadium zalicza si´ na cen´ sprzeda˝y lub zwraca, chyba ˝e niniejsza ustawa stanowi inaczej.
+§ 2. Wadium zalicza się na cenę sprzedaży lub zwraca, chyba że niniejsza ustawa stanowi inaczej.
 
 **Art. 105c.**
 
-§ 1. Licytacja odbywa si´ ustnie irozpoczyna si´ od wywo∏ania ceny. Zaoferowana cena przestaje wiàzaç uczestnika licytacji, je˝eli inny uczestnik zaoferowa∏ cen´ wy˝szà, zwanà dalej «postàpieniem». Poborca skarbowy przyzna w∏asnoÊç sprzedanej ruchomoÊci, zwane dalej «przybiciem», osobie, która zaoferowa∏a najwy˝szà cen´, je˝eli po trzykrotnym wezwaniu do dalszych postàpieƒ nikt wi´cej nie zaoferowa∏.
+§ 1. Licytacja odbywa się ustnie irozpoczyna się od wywołania ceny. Zaoferowana cena przestaje wiązać uczestnika licytacji, jeżeli inny uczestnik zaoferował cenę wyższą, zwaną dalej «postąpieniem». Poborca skarbowy przyzna własność sprzedanej ruchomości, zwane dalej «przybiciem», osobie, która zaoferowała najwyższą cenę, jeżeli po trzykrotnym wezwaniu do dalszych postąpień nikt więcej nie zaoferował.
 
-§ 2. Licytacj´ uwa˝a si´ za niedosz∏à do udzia∏u przynajmniej dwóch uczestników, jak równie˝ gdy ˝aden z uczestników nie zaoferowa∏ nawet ceny wywo∏ania.
+§ 2. Licytację uważa się za niedoszłą do udziału przynajmniej dwóch uczestników, jak również gdy żaden z uczestników nie zaoferował nawet ceny wywołania.
 
-§ 3. Ponowna licytacja mo˝e byç wyznaczona po podaniu otym do publicznej wiadomoÊci w terminach i w sposób okreÊlony w art. 105a §3—5.
+§ 3. Ponowna licytacja może być wyznaczona po podaniu otym do publicznej wiadomości w terminach i w sposób określony w art. 105a §3—5.
 
-§ 4. Je˝eli kwota uzyskana ze sprzeda˝y cz´Êci zaj´tych ruchomoÊci wystarcza na zaspokojenie egzekwowanych nale˝noÊci wraz z odsetkami z tytu∏u niezap∏acenia nale˝noÊci wterminie ikosztami egzekucyjnymi, poborca skarbowy przerywa licytacj´, a organ egzekucyjny zwalnia pozosta∏e ruchomoÊci spod zaj´cia.
+§ 4. Jeżeli kwota uzyskana ze sprzedaży części zajętych ruchomości wystarcza na zaspokojenie egzekwowanych należności wraz z odsetkami z tytułu niezapłacenia należności wterminie ikosztami egzekucyjnymi, poborca skarbowy przerywa licytację, a organ egzekucyjny zwalnia pozostałe ruchomości spod zajęcia.
 
-§ 5. Przepisu § 4 nie stosuje si´ do ruchomoÊci zaj´tych w post´powaskutku, je˝eli nie weêmie w niej niu celnym.
+§ 5. Przepisu § 4 nie stosuje się do ruchomości zajętych w postępowaskutku, jeżeli nie weêmie w niej niu celnym.
 
 **Art. 105d.**
 
-§ 1. Nabywca jest obowiàzany uiÊciç natychmiast po udzieleniu mu przybicia przynajmniej cen´ wywo∏ania lub przed∏o˝yç poborcy skarbowemu czek potwierdzony wystawiony na organ egzekucyjny na kwot´ wynoszàcà co najmniej cen´ wywo∏ania ruchomoÊci. Je˝eli tej ceny nie uiÊci lub nie przed∏o˝y czeku potwierdzonego, traci prawo wynik∏e z przybicia i nie mo˝e uczestniczyç wdalszej licytacji. Poborca skarbowy wznawia niezw∏ocznie licytacj´ tej samej ruchomoÊci, rozpoczynajàc jà od ceny wywo∏ania.
+§ 1. Nabywca jest obowiązany uiścić natychmiast po udzieleniu mu przybicia przynajmniej cenę wywołania lub przedłożyć poborcy skarbowemu czek potwierdzony wystawiony na organ egzekucyjny na kwotę wynoszącą co najmniej cenę wywołania ruchomości. Jeżeli tej ceny nie uiści lub nie przedłoży czeku potwierdzonego, traci prawo wynikłe z przybicia i nie może uczestniczyć wdalszej licytacji. Poborca skarbowy wznawia niezwłocznie licytację tej samej ruchomości, rozpoczynając ją od ceny wywołania.
 
-§ 2. Ró˝nic´ mi´dzy cenà nabycia a kwotà, na którà wystawiony zosta∏ czek potwierdzony lub wp∏aconà po udzieleniu przybicia, nabywca ureguluje, pod rygorem przewidzianym w§ 1, do godziny dwunastej dnia nast´pnego. Nabywca, który w tym terminie nie zap∏aci reszty ceny, traci prawo wynik∏e zprzybicia iprawo do zwrotu kwoty uregulowanej w czasie licytacji gotówkà lub czekiem potwierdzonym.
+§ 2. Różnicę między ceną nabycia a kwotą, na którą wystawiony został czek potwierdzony lub wpłaconą po udzieleniu przybicia, nabywca ureguluje, pod rygorem przewidzianym w§ 1, do godziny dwunastej dnia następnego. Nabywca, który w tym terminie nie zapłaci reszty ceny, traci prawo wynikłe zprzybicia iprawo do zwrotu kwoty uregulowanej w czasie licytacji gotówką lub czekiem potwierdzonym.
 
-§ 3. Osoby, które utraci∏y prawo wynik∏e z przybicia, tracà prawo do zwrotu kwoty wp∏aconej tytu∏em wadium.”;
+§ 3. Osoby, które utraciły prawo wynikłe z przybicia, tracą prawo do zwrotu kwoty wpłaconej tytułem wadium.”;
 
 - **72)** wart. 107:
-    - **a)** § 1 i2 otrzymujà brzmienie: „§ 1. Prawo w∏asnoÊci zaj´tych ruchomoÊci, b´dàcych przedmiotem licytacji, nabywa osoba, która z zachowaniem przepisów o przeprowadzaniu licytacji zaoferowa∏a najwy˝szà cen´, uzyska∏a przybicie izap∏aci∏a ca∏à cen´ wterminie. Nabywca nie mo˝e domagaç si´ uniewa˝nienia licytacji inabycia ruchomoÊci ani te˝ obni˝enia ceny jej nabycia z powodu jej wad, mylnego oszacowania lub innej przyczyny.
+    - **a)** § 1 i2 otrzymują brzmienie: Ń§ 1. Prawo własności zajętych ruchomości, będących przedmiotem licytacji, nabywa osoba, która z zachowaniem przepisów o przeprowadzaniu licytacji zaoferowała najwyższą cenę, uzyskała przybicie izapłaciła całą cenę wterminie. Nabywca nie może domagać się unieważnienia licytacji inabycia ruchomości ani też obniżenia ceny jej nabycia z powodu jej wad, mylnego oszacowania lub innej przyczyny.
 
-§ 2. Nabywca, który sta∏ si´ w∏aÊcicielem nabytej ruchomoÊci, natychmiast jà odbiera, z zastrze˝eniem § 2c. Je˝eli nabywca nie odbierze natychmiast nabytej ruchomoÊci, obowiàzany jest uiÊciç koszty jej przechowywania od dnia licytacji do dnia odbioru. WysokoÊç kosztów okreÊla organ egzekucyjny.”,
+§ 2. Nabywca, który stał się właścicielem nabytej ruchomości, natychmiast ją odbiera, z zastrzeżeniem § 2c. Jeżeli nabywca nie odbierze natychmiast nabytej ruchomości, obowiązany jest uiścić koszty jej przechowywania od dnia licytacji do dnia odbioru. Wysokość kosztów określa organ egzekucyjny.”,
 
-- **b)** dodaje si´ § 2a—2dwbrzmieniu: „§ 2a. Zobowiàzany, wierzyciel oraz uczestnik licytacji mogà zg∏osiç do protoko∏u licytacji skarg´ na naruszenie przepisów o przeprowadzaniu licytacji. Skarga podlega rozpatrzeniu w terminie 7 dni od dnia zg∏oszenia.
+- **b)** dodaje się § 2a—2dwbrzmieniu: Ń§ 2a. Zobowiązany, wierzyciel oraz uczestnik licytacji mogą zgłosić do protokołu licytacji skargę na naruszenie przepisów o przeprowadzaniu licytacji. Skarga podlega rozpatrzeniu w terminie 7 dni od dnia zgłoszenia.
 
-§ 2b. W sprawie skargi na naruszenie przepisów oprzeprowadzaniu licytacji postanowienie wydaje organ nadzoru. Na postanowienie organu nadzoru oddalajàce skarg´ s∏u˝y za˝alenie.
+§ 2b. W sprawie skargi na naruszenie przepisów oprzeprowadzaniu licytacji postanowienie wydaje organ nadzoru. Na postanowienie organu nadzoru oddalające skargę służy zażalenie.
 
-§ 2c. Wniesienie skargi wstrzymuje wydanie sprzedanej rzeczy nabywcy do czasu rozpatrzenia skargi. Nie dotyczy to rzeczy ∏atwo psujàcych si´ oraz rzeczy wydanych nabywcy przed wniesieniem za˝alenia.
+§ 2c. Wniesienie skargi wstrzymuje wydanie sprzedanej rzeczy nabywcy do czasu rozpatrzenia skargi. Nie dotyczy to rzeczy łatwo psujących się oraz rzeczy wydanych nabywcy przed wniesieniem zażalenia.
 
-§ 2d. Nabywca mo˝e zrzec si´ nabytej rzeczy i ˝àdaç zwrotu zap∏aconej ceny, je˝eli wterminie, októrym mowa w§ 2a, skarga nie zosta∏a rozpatrzona, a nabywcy rzecz nie zosta∏a wydana.”;
+§ 2d. Nabywca może zrzec się nabytej rzeczy i żądać zwrotu zapłaconej ceny, jeżeli wterminie, októrym mowa w§ 2a, skarga nie została rozpatrzona, a nabywcy rzecz nie została wydana.”;
 
-- **73)** dodaje si´ art. 107a—107dwbrzmieniu: „Art. 107a. § 1. Organ egzekucyjny organizuje, za zgodà wierzyciela i zobowiàzanego, przetarg ofert, je˝eli zachodzi uzasadnione przypuszczenie, ˝e w wyniku sprzeda˝y zaj´tej ruchomoÊci wdrodze licytacji publicznej nie uzyska si´ korzystnej ceny.
+- **73)** dodaje się art. 107a—107dwbrzmieniu: ŃArt. 107a. § 1. Organ egzekucyjny organizuje, za zgodą wierzyciela i zobowiązanego, przetarg ofert, jeżeli zachodzi uzasadnione przypuszczenie, że w wyniku sprzedaży zajętej ruchomości wdrodze licytacji publicznej nie uzyska się korzystnej ceny.
 
-§ 2. Wprzetargu ofert nie mogà uczestniczyç osoby, o których mowa wart. 107 § 4.
+§ 2. Wprzetargu ofert nie mogą uczestniczyć osoby, o których mowa wart. 107 § 4.
 
-§ 3. Ka˝dy oferent mo˝e z∏o˝yç jednà ofert´.
+§ 3. Każdy oferent może złożyć jedną ofertę.
 
 **Art. 107b.**
 
-§ 1. Organ egzekucyjny zaprasza do udzia∏u wprzetargu ofert, zamieszczajàc og∏oszenia w sposób i w miejscach wskazanych w art. 105a§ 3 i5.
+§ 1. Organ egzekucyjny zaprasza do udziału wprzetargu ofert, zamieszczając ogłoszenia w sposób i w miejscach wskazanych w art. 105a§ 3 i5.
 
-§ 2. Og∏oszenie o przetargu ofert zawiera co najmniej:
+§ 2. Ogłoszenie o przetargu ofert zawiera co najmniej:
 
-- **1)** nazw´ iadres organu egzekucyj2) ruchomoÊci, które majà byç sprzedane, z podaniem ich rodzaju oraz wartoÊci szacunkowej iceny wywo∏ania,
-- **3)** miejsce itermin sk∏adania ofert,
+- **1)** nazwę iadres organu egzekucyj2) ruchomości, które mają być sprzedane, z podaniem ich rodzaju oraz wartości szacunkowej iceny wywołania,
+- **3)** miejsce itermin składania ofert,
 - **4)** miejsce itermin otwarcia ofert,
-- **5)** miejsce itermin, wktórym mo˝na oglàdaç ruchomoÊci,
-- **6)** imi´ i nazwisko lub firm´ oraz adres zobowiàzanego.
+- **5)** miejsce itermin, wktórym można oglądać ruchomości,
+- **6)** imię i nazwisko lub firmę oraz adres zobowiązanego.
 
-§ 3. Wyznaczony przez organ egzekucyjny termin do zg∏aszania oferowanej ceny za ruchomoÊci zg∏oszone do sprzeda˝y w drodze przetargu ofert nie mo˝e byç krótszy ni˝ 3 dni od daty podania og∏oszenia oprzetargu ofert do publicznej wiadomoÊci.
+§ 3. Wyznaczony przez organ egzekucyjny termin do zgłaszania oferowanej ceny za ruchomości zgłoszone do sprzedaży w drodze przetargu ofert nie może być krótszy niż 3 dni od daty podania ogłoszenia oprzetargu ofert do publicznej wiadomości.
 
-§ 4. Cena wywo∏ania przy sprzeda˝y w drodze przetargu ofert wynosi 3/4 wartoÊci szacunkowej ruchomoÊci. Sprzeda˝ ta nie mo˝e nastàpiç za cen´ ni˝szà od ceny wywo∏ania.
+§ 4. Cena wywołania przy sprzedaży w drodze przetargu ofert wynosi 3/4 wartości szacunkowej ruchomości. Sprzedaż ta nie może nastąpić za cenę niższą od ceny wywołania.
 
 **Art. 107c.**
 
-§ 1. Oferty otwiera wmiejscu iterminie okreÊlonym w og∏oszeniu o przetargu komisja powo∏ana przez organ egzekucyjny.
+§ 1. Oferty otwiera wmiejscu iterminie określonym w ogłoszeniu o przetargu komisja powołana przez organ egzekucyjny.
 
-§ 2. W przetargu ofert uczestniczà oferenci obecni przy otwieraniu ofert.
+§ 2. W przetargu ofert uczestniczą oferenci obecni przy otwieraniu ofert.
 
-§ 3. Imi´ i nazwisko lub firma oraz adres oferenta, którego oferta jest otwierana, a tak˝e cena podana w ofercie og∏aszane sà osobom obecnym oraz odnotowywane wprotokole post´powania przetargowego.
+§ 3. Imię i nazwisko lub firma oraz adres oferenta, którego oferta jest otwierana, a także cena podana w ofercie ogłaszane są osobom obecnym oraz odnotowywane wprotokole postępowania przetargowego.
 
-§ 4. Przy dokonywaniu wyboru oferty wybiera si´ ofert´ znajkorzystniejszà cenà.
+§ 4. Przy dokonywaniu wyboru oferty wybiera się ofertę znajkorzystniejszą ceną.
 
-§ 5. Wynik przetargu og∏asza si´ niezw∏ocznie po otwarciu wszystkich ofert.
+§ 5. Wynik przetargu ogłasza się niezwłocznie po otwarciu wszystkich ofert.
 
 **Art. 107d.**
 
-§ 1. Przy sprzeda˝y zaj´tych ruchomoÊci wdrodze przetargu ofert stosuje si´ odpowiednio przepisy art. 105b, 105ciart. 107 § 1—3, ztym ˝e przez dat´ licytacji rozumie si´ dzieƒ otwarcia ofert.
+§ 1. Przy sprzedaży zajętych ruchomości wdrodze przetargu ofert stosuje się odpowiednio przepisy art. 105b, 105ciart. 107 § 1—3, ztym że przez datę licytacji rozumie się dzień otwarcia ofert.
 
-§ 2. Je˝eli sprzeda˝ zaj´tych ruchomoÊci w drodze przetargu ofert nie dojdzie do skutku, organ egzekucyjny sprzedaje je w drodze licytacji publicznej.”;
+§ 2. Jeżeli sprzedaż zajętych ruchomości w drodze przetargu ofert nie dojdzie do skutku, organ egzekucyjny sprzedaje je w drodze licytacji publicznej.”;
 
-- **74)** art. 108 otrzymuje brzmienie: „Art. 108. § 1. Zaj´te ruchomoÊci, które nie zosta∏y nego, sprzedane w trybie wskazanym wart. 105 § 1 pkt 1—4, awprzypadku sprzeda˝y licytacyjnej w drugim jej terminie, organ egzekucyjny sprzedaje z wolnej r´ki po cenie okreÊlonej przez ten organ, jednak nie ni˝szej od 1/3 ich wartoÊci szacunkowej.
+- **74)** art. 108 otrzymuje brzmienie: ŃArt. 108. § 1. Zajęte ruchomości, które nie zostały nego, sprzedane w trybie wskazanym wart. 105 § 1 pkt 1—4, awprzypadku sprzedaży licytacyjnej w drugim jej terminie, organ egzekucyjny sprzedaje z wolnej ręki po cenie określonej przez ten organ, jednak nie niższej od 1/3 ich wartości szacunkowej.
 
-§ 2. Zaj´te ruchomoÊci, niesprzedane w trybie § 1, organ egzekucyjny sprzedaje po cenie stosowanej przy skupie przedmiotów u˝ywanych lub skupie surowców wtórnych jednostkom organizacyjnym ochrony zdrowia i pomocy spo∏ecznej, placówkom oÊwiatowym, instytucjom kultury oraz organizacjom charytatywnym, je˝eli mogà byç przez te podmioty wykorzystane przy realizacji ich zadaƒ statutowych.
+§ 2. Zajęte ruchomości, niesprzedane w trybie § 1, organ egzekucyjny sprzedaje po cenie stosowanej przy skupie przedmiotów używanych lub skupie surowców wtórnych jednostkom organizacyjnym ochrony zdrowia i pomocy społecznej, placówkom oświatowym, instytucjom kultury oraz organizacjom charytatywnym, jeżeli mogą być przez te podmioty wykorzystane przy realizacji ich zadań statutowych.
 
-§ 3. Zaj´te ruchomoÊci, niesprzedane w trybie § 2, organ egzekucyjny sprzedaje jednostkom prowadzàcym skup przedmiotów u˝ywanych lub surowców wtórnych.”;
+§ 3. Zajęte ruchomości, niesprzedane w trybie § 2, organ egzekucyjny sprzedaje jednostkom prowadzącym skup przedmiotów używanych lub surowców wtórnych.”;
 
-- **75)** dodaje si´ art. 108awbrzmieniu: „Art. 108a. Zaj´te ruchomoÊci, które nie zosta∏y sprzedane w trybie okreÊlonym w art. 108, organ egzekucyjny zwraca zobowiàzanemu.”;
-- **76)** art. 109 otrzymuje brzmienie: „Art. 109 § 1. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia, szczególny tryb post´powania przy:
-- **1)** sprzeda˝y zaj´tych ruchomoÊci ulegajàcych szybkiemu zepsuciu, zapewniajàcy ich niezw∏ocznà sprzeda˝,
-- **2)** przechowywaniu i sprzeda˝y zaj´tych ruchomoÊci ze szlachetnych metali, kamieni szlachetnych ipó∏szlachetnych, pere∏ naturalnych i hodowlanych, korali i bursztynów, zapewniajàcy prawid∏owà wycen´ zaj´tych ruchomoÊci oraz zapobiegajàcy ich kradzie˝y.
+- **75)** dodaje się art. 108awbrzmieniu: ŃArt. 108a. Zajęte ruchomości, które nie zostały sprzedane w trybie określonym w art. 108, organ egzekucyjny zwraca zobowiązanemu.”;
+- **76)** art. 109 otrzymuje brzmienie: ŃArt. 109 § 1. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczególny tryb postępowania przy:
+- **1)** sprzedaży zajętych ruchomości ulegających szybkiemu zepsuciu, zapewniający ich niezwłoczną sprzedaż,
+- **2)** przechowywaniu i sprzedaży zajętych ruchomości ze szlachetnych metali, kamieni szlachetnych ipółszlachetnych, pereł naturalnych i hodowlanych, korali i bursztynów, zapewniający prawidłową wycenę zajętych ruchomości oraz zapobiegający ich kradzieży.
 
-§ 2. Minister w∏aÊciwy do spraw finansów publicznych, w porozumieniu z ministrem w∏aÊciwym do spraw wewn´trznych oraz Ministrem Obrony Narodowej, okreÊli, wdrodze rozporzàdzenia, szczególny tryb post´powania przy przechowywaniu i sprzeda˝y zaj´tych broni, amunicji, materia∏ów wybuchowych i innych przedmiotów, na których posiadanie jest wymagane zezwolenie, wykluczajàcy mo˝liwoÊç dostania si´ tych ruchomoÊci do osób nieuprawnio77) skreÊla si´ art. 110 i111;
+§ 2. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw wewnętrznych oraz Ministrem Obrony Narodowej, określi, wdrodze rozporządzenia, szczególny tryb postępowania przy przechowywaniu i sprzedaży zajętych broni, amunicji, materiałów wybuchowych i innych przedmiotów, na których posiadanie jest wymagane zezwolenie, wykluczający możliwość dostania się tych ruchomości do osób nieuprawnio77) skreśla się art. 110 i111;
 
-- **78)** wdziale II rozdzia∏y 7 i8 otrzymujà brzmienie: „Rozdzia∏ 7 Egzekucja znieruchomoÊci Oddzia∏ 1. Zasady ogólne
+- **78)** wdziale II rozdziały 7 i8 otrzymują brzmienie: ŃRozdział 7 Egzekucja znieruchomości
+
+##### Oddział 1. Zasady ogólne
 
 **Art. 110.**
 
-§ 1. Z nieruchomoÊci mo˝e byç przeprowadzona egzekucja administracyjna, je˝eli zastosowanie Êrodków egzekucyjnych, o których mowa w rozdzia∏ach 2—6, nie by∏o mo˝liwe lub okaza∏o si´ bezskuteczne.
+§ 1. Z nieruchomości może być przeprowadzona egzekucja administracyjna, jeżeli zastosowanie środków egzekucyjnych, o których mowa w rozdziałach 2—6, nie było możliwe lub okazało się bezskuteczne.
 
-§ 2. Egzekucja administracyjna z nieruchomoÊci mo˝e byç prowadzona tylko w celu wyegzekwowania nale˝noÊci pieni´˝nych okreÊlonych lub ustalonych w decyzji ostatecznej lub wynikajàcych z orzeczenia sàdu zaopanych.”; trzonego wklauzul´ wykonalnoÊci.
+§ 2. Egzekucja administracyjna z nieruchomości może być prowadzona tylko w celu wyegzekwowania należności pieniężnych określonych lub ustalonych w decyzji ostatecznej lub wynikających z orzeczenia sądu zaopanych.”; trzonego wklauzulę wykonalności.
 
-§ 3. Organ egzekucyjny, je˝eli nie jest jednoczeÊnie wierzycielem dochodzonej nale˝noÊci, podejmuje czynnoÊci egzekucyjne zwiàzane zegzekucjà znieruchomoÊci po otrzymaniu od wierzyciela zaliczki na pokrycie przewidywanych wydatków.
+§ 3. Organ egzekucyjny, jeżeli nie jest jednocześnie wierzycielem dochodzonej należności, podejmuje czynności egzekucyjne związane zegzekucją znieruchomości po otrzymaniu od wierzyciela zaliczki na pokrycie przewidywanych wydatków.
 
-§ 4. Wierzyciel wp∏aca organowi egzekucyjnemu zaliczk´ sukcesywnie, w miar´ podejmowania przez ten organ kolejnych czynnoÊci egzekucyjnych. WysokoÊç poszczególnych wp∏at zaliczki okreÊla organ egzekucyjny na podstawie przewidywanych wydatków egzekucyjnych.
+§ 4. Wierzyciel wpłaca organowi egzekucyjnemu zaliczkę sukcesywnie, w miarę podejmowania przez ten organ kolejnych czynności egzekucyjnych. Wysokość poszczególnych wpłat zaliczki określa organ egzekucyjny na podstawie przewidywanych wydatków egzekucyjnych.
 
-§ 5. ¸àczna kwota zaliczki nie mo˝e byç wi´ksza ni˝ 5% egzekwowanej nale˝noÊci wraz zodsetkami ztytu∏u niezap∏acenia jej w terminie i nie wi´ksza ni˝ pi´tnastokrotna wysokoÊç najni˝szego wynagrodzenia za prac´ okreÊlonego w odr´bnych przepisach, z tym ˝e kwot´ odsetek i wysokoÊç najni˝szego wynagrodzenia przyjmuje si´ na dzieƒ ustalenia pierwszej zaliczki.
+§ 5. Ęączna kwota zaliczki nie może być większa niż 5% egzekwowanej należności wraz zodsetkami ztytułu niezapłacenia jej w terminie i nie większa niż piętnastokrotna wysokość najniższego wynagrodzenia za pracę określonego w odrębnych przepisach, z tym że kwotę odsetek i wysokość najniższego wynagrodzenia przyjmuje się na dzień ustalenia pierwszej zaliczki.
 
-§ 6. Organ egzekucyjny zwraca zaliczk´ wierzycielowi przy podziale kwot uzyskanych zegzekucji do wysokoÊci wyegzekwowanych kwot na pokrycie wydatków egzekucyjnych.
+§ 6. Organ egzekucyjny zwraca zaliczkę wierzycielowi przy podziale kwot uzyskanych zegzekucji do wysokości wyegzekwowanych kwot na pokrycie wydatków egzekucyjnych.
 
-§ 7. W przypadku niewp∏acenia zaliczki, o której mowa w § 4, organ egzekucyjny wzywa wierzyciela do jej wp∏acenia w terminie 7 dni od dnia dor´czenia wezwania, a po bezskutecznym up∏ywie tego terminu umarza post´powanie egzekucyjne.
+§ 7. W przypadku niewpłacenia zaliczki, o której mowa w § 4, organ egzekucyjny wzywa wierzyciela do jej wpłacenia w terminie 7 dni od dnia doręczenia wezwania, a po bezskutecznym upływie tego terminu umarza postępowanie egzekucyjne.
 
-**Art. 110a.** Je˝eli nieruchomoÊç po∏o˝ona jest na obszarze dzia∏ania kilku organów egzekucyjnych, organ prowadzàcy egzekucj´ powiadamia o wszcz´ciu, a nast´pnie o ukoƒczeniu egzekucji inne organy egzekucyjne, na których obszarze dzia∏ania nieruchomoÊç jest po∏o˝ona.
+**Art. 110a.** Jeżeli nieruchomość położona jest na obszarze działania kilku organów egzekucyjnych, organ prowadzący egzekucję powiadamia o wszczęciu, a następnie o ukończeniu egzekucji inne organy egzekucyjne, na których obszarze działania nieruchomość jest położona.
 
-**Art. 110b.** Uczestnikami post´powania egzekucyjnego znieruchomoÊci oprócz wierzyciela i zobowiàzanego sà równie˝ osoby, którym przys∏ugujà prawa rzeczowe ograniczone lub roszczenia albo prawa osobiste zabezpieczone na nieruchomoÊci, a gdy przedmiotem egzekucji jest u˝ytkowanie wieczyste, tak˝e organ, który zawar∏ umow´ o oddanie nieruchomoÊci wu˝ytkowanie wieczyste. Oddzia∏ 2. Zaj´cie
+**Art. 110b.** Uczestnikami postępowania egzekucyjnego znieruchomości oprócz wierzyciela i zobowiązanego są również osoby, którym przysługują prawa rzeczowe ograniczone lub roszczenia albo prawa osobiste zabezpieczone na nieruchomości, a gdy przedmiotem egzekucji jest użytkowanie wieczyste, także organ, który zawarł umowę o oddanie nieruchomości wużytkowanie wieczyste.
+
+##### Oddział 2. Zajęcie
 
 **Art. 110c.**
 
-§ 1. Organ egzekucyjny przyst´puje do egzekucji administracyjnej z nieruchomoÊci przez zaj´cie nieruchomoÊci.
+§ 1. Organ egzekucyjny przystępuje do egzekucji administracyjnej z nieruchomości przez zajęcie nieruchomości.
 
-§ 2. Zaj´cie nast´puje przez wezwanie zobowiàzanego, aby zap∏aci∏ egzekwowanà nale˝noÊç pieni´˝nà wraz z odsetkami z tytu∏u niezap∏acenia jej w terminie i kosztami egzekucyjnymi w terminie 14 dni od dnia dor´czenia wezwania, pod rygorem przystàpienia do opisu i oszacowania wartoÊci nieruchomoÊci.
+§ 2. Zajęcie następuje przez wezwanie zobowiązanego, aby zapłacił egzekwowaną należność pieniężną wraz z odsetkami z tytułu niezapłacenia jej w terminie i kosztami egzekucyjnymi w terminie 14 dni od dnia doręczenia wezwania, pod rygorem przystąpienia do opisu i oszacowania wartości nieruchomości.
 
-§ 3. RównoczeÊnie z wys∏aniem zobowiàzanemu wezwania, o którym mowa w § 2, organ egzekucyjny przesy∏a do sàdu w∏aÊciwego do prowadzenia ksi´gi wieczystej wniosek o dokonanie w ksi´dze wieczystej wpisu owszcz´ciu egzekucji lub sk∏ada wniosek do zbioru dokumentów, a tak˝e przesy∏a wierzycielowi zawiadomienie o zaj´ciu nieruchomoÊci.
+§ 3. Równocześnie z wysłaniem zobowiązanemu wezwania, o którym mowa w § 2, organ egzekucyjny przesyła do sądu właściwego do prowadzenia księgi wieczystej wniosek o dokonanie w księdze wieczystej wpisu owszczęciu egzekucji lub składa wniosek do zbioru dokumentów, a także przesyła wierzycielowi zawiadomienie o zajęciu nieruchomości.
 
-§ 4. Zaj´cie nieruchomoÊci jest dokonane z chwilà dor´czenia zobowiàzanemu wezwania, o którym mowa w § 2, z tym ˝e dla zobowiàzanego, któremu nie dor´czono wezwania, jak te˝ wstosunku do osób trzecich, nieruchomoÊç jest zaj´ta z chwilà dokonania wpisu w ksi´dze wieczystej lub z∏o˝enia wniosku organu egzekucyjnego do zbioru dokumentów, zzastrze˝eniem § 5.
+§ 4. Zajęcie nieruchomości jest dokonane z chwilą doręczenia zobowiązanemu wezwania, o którym mowa w § 2, z tym że dla zobowiązanego, któremu nie doręczono wezwania, jak też wstosunku do osób trzecich, nieruchomość jest zajęta z chwilą dokonania wpisu w księdze wieczystej lub złożenia wniosku organu egzekucyjnego do zbioru dokumentów, zzastrzeżeniem § 5.
 
-§ 5. Dla ka˝dego, kto wiedzia∏ o wszcz´ciu egzekucji, skutki zaj´cia powstajà zchwilà, gdy owszcz´ciu egzekucji powzià∏ wiadomoÊç, chocia˝by wezwanie nie zosta∏o jeszcze zobowiàzanemu wys∏ane ani wpis w ksi´dze wieczystej nie by∏ jeszcze § 6. W przypadku gdy miejsce pobytu zobowiàzanego lub innego uczestnika post´powania egzekucyjnego nie jest znane, organ egzekucyjny wyst´puje do w∏aÊciwego sàdu oustanowienie kuratora do zast´powania osoby nieobecnej. Kurator wykonuje swoje czynnoÊci tak˝e winteresie innych osób, którym wdalszym toku post´powania dor´czenia nie b´dà mog∏y byç dokonane. Kurator mo˝e jednak reprezentowaç równoczeÊnie tylko osoby, których interesy nie sà sprzeczne.
+§ 5. Dla każdego, kto wiedział o wszczęciu egzekucji, skutki zajęcia powstają zchwilą, gdy owszczęciu egzekucji powziął wiadomość, chociażby wezwanie nie zostało jeszcze zobowiązanemu wysłane ani wpis w księdze wieczystej nie był jeszcze § 6. W przypadku gdy miejsce pobytu zobowiązanego lub innego uczestnika postępowania egzekucyjnego nie jest znane, organ egzekucyjny występuje do właściwego sądu oustanowienie kuratora do zastępowania osoby nieobecnej. Kurator wykonuje swoje czynności także winteresie innych osób, którym wdalszym toku postępowania doręczenia nie będą mogły być dokonane. Kurator może jednak reprezentować równocześnie tylko osoby, których interesy nie są sprzeczne.
 
 **Art. 110d.**
 
-§ 1. Organ egzekucyjny ∏àczy post´powania egzekucyjne prowadzone co do kilku nieruchomoÊci tego samego zobowiàzanego lub co do kilku cz´Êci tej samej nieruchomoÊci, jak równie˝ post´powania egzekucyjne dotyczàce cz´Êci nieruchomoÊci ijej ca∏oÊci, je˝eli odpowiada to celowi dokonany. egzekucji i nie ma przeszkód natury prawnej lub gospodarczej.
+§ 1. Organ egzekucyjny łączy postępowania egzekucyjne prowadzone co do kilku nieruchomości tego samego zobowiązanego lub co do kilku części tej samej nieruchomości, jak również postępowania egzekucyjne dotyczące części nieruchomości ijej całości, jeżeli odpowiada to celowi dokonany. egzekucji i nie ma przeszkód natury prawnej lub gospodarczej.
 
-§ 2. Je˝eli nieruchomoÊci sà po∏o˝one na obszarze dzia∏ania ró˝nych organów egzekucyjnych, po∏àczenie zarzàdza ten organ, który pierwszy wszczà∏ egzekucj´.
+§ 2. Jeżeli nieruchomości są położone na obszarze działania różnych organów egzekucyjnych, połączenie zarządza ten organ, który pierwszy wszczął egzekucję.
 
-§ 3. Post´powanie egzekucyjne mo˝na rozdzieliç, je˝eli wdalszym jego toku odpadnà przyczyny, które spowodowa∏y po∏àczenie.
+§ 3. Postępowanie egzekucyjne można rozdzielić, jeżeli wdalszym jego toku odpadną przyczyny, które spowodowały połączenie.
 
 **Art. 110e.**
 
-§ 1. Zaj´cie obejmuje nieruchomoÊç i to wszystko, co mo˝e stanowiç przedmiot obcià˝enia hipotekà, a tak˝e po˝ytki znieruchomoÊci.
+§ 1. Zajęcie obejmuje nieruchomość i to wszystko, co może stanowić przedmiot obciążenia hipoteką, a także pożytki znieruchomości.
 
-§ 2. Je˝eli egzekucj´ prowadzi si´ wcelu dochodzenia nale˝noÊci z umów ubezpieczenia lub wierzytelnoÊci zabezpieczonych hipotekà, zaj´cie obejmuje tak˝e prawa wynikajàce zumów ubezpieczenia przedmiotów wymienionych w§ 1.
+§ 2. Jeżeli egzekucję prowadzi się wcelu dochodzenia należności z umów ubezpieczenia lub wierzytelności zabezpieczonych hipoteką, zajęcie obejmuje także prawa wynikające zumów ubezpieczenia przedmiotów wymienionych w§ 1.
 
 **Art. 110f.**
 
-§ 1. Rozporzàdzenie nieruchomoÊcià po jej zaj´ciu nie ma wp∏ywu na dalsze post´powanie egzekucyjne. Nabywca mo˝e uczestniczyç w post´powaniu w charakterze zobowiàzanego. W ka˝dym przypadku czynnoÊci egzekucyjne sà wa˝ne w stosunku do nabywcy.
+§ 1. Rozporządzenie nieruchomością po jej zajęciu nie ma wpływu na dalsze postępowanie egzekucyjne. Nabywca może uczestniczyć w postępowaniu w charakterze zobowiązanego. W każdym przypadku czynności egzekucyjne są ważne w stosunku do nabywcy.
 
-§ 2. Rozporzàdzenia przedmiotami podlegajàcymi zaj´ciu razem z nieruchomoÊcià po ich zaj´ciu sà niewa˝ne. Nie dotyczy to rozporzàdzeƒ zarzàdcy nieruchomoÊci wzakresie jego ustawowych uprawnieƒ.
+§ 2. Rozporządzenia przedmiotami podlegającymi zajęciu razem z nieruchomością po ich zajęciu są nieważne. Nie dotyczy to rozporządzeń zarządcy nieruchomości wzakresie jego ustawowych uprawnień.
 
 **Art. 110g.**
 
-§ 1. Zaj´tà nieruchomoÊç pozostawia si´ wzarzàdzie zobowiàzanego, do którego stosuje si´ wówczas przepisy ozarzàdcy.
+§ 1. Zajętą nieruchomość pozostawia się wzarządzie zobowiązanego, do którego stosuje się wówczas przepisy ozarządcy.
 
-§ 2. Je˝eli prawid∏owe sprawowanie zarzàdu tego wymaga, organ egzekucyjny odbiera zobowiàzanemu zarzàd iustanawia innego zarzàdc´.
+§ 2. Jeżeli prawidłowe sprawowanie zarządu tego wymaga, organ egzekucyjny odbiera zobowiązanemu zarząd iustanawia innego zarządcę.
 
-§ 3. Przepis § 2 stosuje si´ równie˝ do zarzàdcy ustanowionego przez organ egzekucyjny.
+§ 3. Przepis § 2 stosuje się również do zarządcy ustanowionego przez organ egzekucyjny.
 
-§ 4. Zarzàdca mo˝e zatrudniç zobowiàzanego i jego rodzin´ za wynagrodzeniem.
+§ 4. Zarządca może zatrudnić zobowiązanego i jego rodzinę za wynagrodzeniem.
 
-§ 5. Zobowiàzanemu, któremu odebrano zarzàd, pozostawia si´ pomieszczenia w zaj´tej nieruchomoÊci, je˝eli znich korzysta∏ wchwili zaj´cia. Organ egzekucyjny mo˝e jednak zarzàdziç, w formie postanowienia, odebranie pomieszczeƒ, je˝eli zobowiàzany lub jego domownik przeszkadza zarzàdcy w wykonywaniu zarzàdu.
+§ 5. Zobowiązanemu, któremu odebrano zarząd, pozostawia się pomieszczenia w zajętej nieruchomości, jeżeli znich korzystał wchwili zajęcia. Organ egzekucyjny może jednak zarządzić, w formie postanowienia, odebranie pomieszczeń, jeżeli zobowiązany lub jego domownik przeszkadza zarządcy w wykonywaniu zarządu.
 
-§ 6. Zobowiàzany, w stosunku do którego organ egzekucyjny zarzàdzi∏ odebranie pomieszczeƒ, mo˝e wytoczyç powództwo o pozostawienie pomieszczeƒ w jego u˝ytkowaniu. Do powództwa stosuje si´ odpowiednio przepisy Kodeksu post´powania cywilnego dotyczàce powództwa o zwolnienie zaj´tego przedmiotu od egzekucji administracyjnej.
+§ 6. Zobowiązany, w stosunku do którego organ egzekucyjny zarządził odebranie pomieszczeń, może wytoczyć powództwo o pozostawienie pomieszczeń w jego użytkowaniu. Do powództwa stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego dotyczące powództwa o zwolnienie zajętego przedmiotu od egzekucji administracyjnej.
 
-§ 7. Je˝eli sàd oddali∏ powództwo, októrym mowa w§ 6, organ egzekucyjny wyst´puje z wnioskiem o odebranie pomieszczeƒ do w∏aÊciwego organu egzekucyjnego w zakresie egzekucji administracyjnej obowiàzków ocharakterze niepieni´˝nym. Podstawà wszcz´cia egzekucji jest orzeczenie sàdowe oddalajàce powództwo, zaopatrzone wklauzul´ wykonalnoÊci.
+§ 7. Jeżeli sąd oddalił powództwo, októrym mowa w§ 6, organ egzekucyjny występuje z wnioskiem o odebranie pomieszczeń do właściwego organu egzekucyjnego w zakresie egzekucji administracyjnej obowiązków ocharakterze niepieniężnym. Podstawą wszczęcia egzekucji jest orzeczenie sądowe oddalające powództwo, zaopatrzone wklauzulę wykonalności.
 
-§ 8. Organ egzekucyjny wydaje w sprawach dotyczàcych ustanowienia bàdê odebrania zarzàdu postanowienie, na które przys∏uguje za˝alenie.
+§ 8. Organ egzekucyjny wydaje w sprawach dotyczących ustanowienia bądê odebrania zarządu postanowienie, na które przysługuje zażalenie.
 
 **Art. 110h.**
 
-§ 1. Je˝eli zarzàdca przy obejmowaniu zarzàdu napotyka przeszkody, organ egzekucyjny wprowadza go w zarzàd nieruchomoÊcià. Do wprowadzenia w zarzàd nieruchomoÊcià stosuje si´ odpowiednio art. 46.
+§ 1. Jeżeli zarządca przy obejmowaniu zarządu napotyka przeszkody, organ egzekucyjny wprowadza go w zarząd nieruchomością. Do wprowadzenia w zarząd nieruchomością stosuje się odpowiednio art. 46.
 
-§ 2. Po ustanowieniu zarzàdcy organ egzekucyjny wzywa osoby korzystajàce znieruchomoÊci, aby przypadajàce od nich zaleg∏e, bie˝àce iprzysz∏e Êwiadczenia, które stanowià dochód znieruchomoÊci, uiszcza∏y do ràk zarzàdcy. W wezwaniu nale˝y uprzedziç, ˝e uiszczenie do ràk zobowiàzanego b´dzie bezskuteczne wstosunArt.110i. § 1. Zarzàdca zaj´tej nieruchomoÊci jest obowiàzany wykonywaç czynnoÊci potrzebne do prowadzenia prawid∏owej gospodarki. Ma on prawo pobieraç zamiast zobowiàzanego wszelkie po˝ytki z nieruchomoÊci, rozporzàdzaç nimi wgranicach zwyk∏ego zarzàdu oraz prowadziç sprawy, które przy wykonywaniu takiego zarzàdu oka˝à si´ potrzebne. Wsprawach wynikajàcych zzarzàdu nieruchomoÊcià zarzàdca mo˝e pozywaç ibyç pozywany.
+§ 2. Po ustanowieniu zarządcy organ egzekucyjny wzywa osoby korzystające znieruchomości, aby przypadające od nich zaległe, bieżące iprzyszłe świadczenia, które stanowią dochód znieruchomości, uiszczały do rąk zarządcy. W wezwaniu należy uprzedzić, że uiszczenie do rąk zobowiązanego będzie bezskuteczne wstosunArt.110i. § 1. Zarządca zajętej nieruchomości jest obowiązany wykonywać czynności potrzebne do prowadzenia prawidłowej gospodarki. Ma on prawo pobierać zamiast zobowiązanego wszelkie pożytki z nieruchomości, rozporządzać nimi wgranicach zwykłego zarządu oraz prowadzić sprawy, które przy wykonywaniu takiego zarządu okażą się potrzebne. Wsprawach wynikających zzarządu nieruchomością zarządca może pozywać ibyć pozywany.
 
-§ 2. Zarzàdcy wolno zaciàgaç tylko takie zobowiàzania, które mogà byç zaspokojone z po˝ytków z nieruchomoÊci i sà gospodarczo uzasadnione.
+§ 2. Zarządcy wolno zaciągać tylko takie zobowiązania, które mogą być zaspokojone z pożytków z nieruchomości i są gospodarczo uzasadnione.
 
-§ 3. CzynnoÊci przekraczajàce zakres zwyk∏ego zarzàdu zarzàdca mo˝e wykonywaç tylko za zgodà zobowiàzanego, awjej braku za zezwoleku do wierzyciela. niem organu egzekucyjnego, który przed wydaniem postanowienia wys∏uchuje zobowiàzanego i zarzàdc´, chyba ˝e zw∏oka grozi∏aby powstaniem szkody.
+§ 3. Czynności przekraczające zakres zwykłego zarządu zarządca może wykonywać tylko za zgodą zobowiązanego, awjej braku za zezwoleku do wierzyciela. niem organu egzekucyjnego, który przed wydaniem postanowienia wysłuchuje zobowiązanego i zarządcę, chyba że zwłoka groziłaby powstaniem szkody.
 
-§ 4. Zarzàd nie ma wp∏ywu na umowy dotyczàce nieruchomoÊci obowiàzujàce w chwili jego ustanowienia. Zarzàdcy wolno jednak wypowiadaç takie umowy z zachowaniem obowiàzujàcych przepisów oraz zawieraç umowy na czas okreÊlony. Do zawarcia umowy dotyczàcej nieruchomoÊci jest wymagana zgoda zobowiàzanego, awjej braku zezwolenie organu egzekucyjnego.
+§ 4. Zarząd nie ma wpływu na umowy dotyczące nieruchomości obowiązujące w chwili jego ustanowienia. Zarządcy wolno jednak wypowiadać takie umowy z zachowaniem obowiązujących przepisów oraz zawierać umowy na czas określony. Do zawarcia umowy dotyczącej nieruchomości jest wymagana zgoda zobowiązanego, awjej braku zezwolenie organu egzekucyjnego.
 
 **Art. 110j.**
 
-§ 1. Zarzàdca sk∏ada organowi egzekucyjnemu w wyznaczonych przez ten organ terminach, co najmniej raz w roku oraz po ukoƒczeniu zarzàdu, sprawozdania ze swoich czynnoÊci oraz udokumentowane sprawozdania rachunkowe.
+§ 1. Zarządca składa organowi egzekucyjnemu w wyznaczonych przez ten organ terminach, co najmniej raz w roku oraz po ukończeniu zarządu, sprawozdania ze swoich czynności oraz udokumentowane sprawozdania rachunkowe.
 
-§ 2. Organ egzekucyjny po wys∏uchaniu wierzycieli, zobowiàzanego izarzàdcy oraz po rozpatrzeniu sprawozdaƒ zatwierdza sprawozdania zarzàdcy albo odmawia ich zatwierdzenia wca∏oÊci lub wcz´Êci.
+§ 2. Organ egzekucyjny po wysłuchaniu wierzycieli, zobowiązanego izarządcy oraz po rozpatrzeniu sprawozdań zatwierdza sprawozdania zarządcy albo odmawia ich zatwierdzenia wcałości lub wczęści.
 
-§ 3. W przypadku odmowy zatwierdzenia sprawozdania przepisy art.110g § 2 i3 stosuje si´ odpowiednio.
+§ 3. W przypadku odmowy zatwierdzenia sprawozdania przepisy art.110g § 2 i3 stosuje się odpowiednio.
 
-§ 4. Zarzàdca jest odpowiedzialny wzgl´dem wszystkich uczestników za nale˝yte wykonywanie swoich obowiàzków.
+§ 4. Zarządca jest odpowiedzialny względem wszystkich uczestników za należyte wykonywanie swoich obowiązków.
 
 **Art. 110k.**
 
-§ 1. Zarzàdca mo˝e ˝àdaç wynagrodzenia oraz zwrotu wydatków, które wzwiàzku zzarzàdem poniós∏ zw∏asnych Êrodków. WysokoÊç wynagrodzenia okreÊla organ egzekucyjny odpowiednio do nak∏adu pracy idochodowoÊci nieruchomoÊci.
+§ 1. Zarządca może żądać wynagrodzenia oraz zwrotu wydatków, które wzwiązku zzarządem poniósł zwłasnych środków. Wysokość wynagrodzenia określa organ egzekucyjny odpowiednio do nakładu pracy idochodowości nieruchomości.
 
-§ 2. Wynagrodzenie, o którym mowa w § 1, nie nale˝y si´ zarzàdcy, który jest zobowiàzanym. Mo˝e on tylko pokrywaç zpo˝ytków znieruchomoÊci najkonieczniejsze potrzeby w∏asne irodziny wrozmiarze, jaki oznacza organ egzekucyjny, oraz swoje wydatki zwiàzane zzarzàdem.
+§ 2. Wynagrodzenie, o którym mowa w § 1, nie należy się zarządcy, który jest zobowiązanym. Może on tylko pokrywać zpożytków znieruchomości najkonieczniejsze potrzeby własne irodziny wrozmiarze, jaki oznacza organ egzekucyjny, oraz swoje wydatki związane zzarządem.
 
-§ 3. Organ egzekucyjny w sprawach dotyczàcych wynagrodzenia oraz zwrotu wydatków zarzàdcy wydaje postanowienie, na które przys∏uguje za˝alenie.
+§ 3. Organ egzekucyjny w sprawach dotyczących wynagrodzenia oraz zwrotu wydatków zarządcy wydaje postanowienie, na które przysługuje zażalenie.
 
-§ 4. Roszczenia o wynagrodzenie za sprawowanie zarzàdu i o zwrot poniesionych w zwiàzku z zarzàdem wydatków przedawniajà si´ po up∏ywie 30 dni od dnia ustàpienia z zarzàdu lub jego ustania.
+§ 4. Roszczenia o wynagrodzenie za sprawowanie zarządu i o zwrot poniesionych w związku z zarządem wydatków przedawniają się po upływie 30 dni od dnia ustąpienia z zarządu lub jego ustania.
 
 **Art. 110l.**
 
-§ 1. Zpo˝ytków znieruchomoÊci zarzàdca pokrywa w nast´pujàcej kolejnoÊci:
+§ 1. Zpożytków znieruchomości zarządca pokrywa w następującej kolejności:
 
-- **1)** koszty egzekucji wraz ze swoim wynagrodzeniem oraz zwrot w∏asnych wydatków,
-- **2)** bie˝àce nale˝noÊci pracowników zatrudnionych w nieruchomoÊci lub w znajdujàcym si´ na niej przedsi´biorstwie nale˝àcym do zobowiàzanego,
-- **3)** bie˝àco przypadajàce wczasie zarzàdu alimenty przyznane prawomocnym wyrokiem sàdu od zobowiàzanego, z wyjàtkiem alimentów przys∏ugujàcym cz∏onkom rodziny zobowiàzanego pozostajàcym z nim we wspólnym gospodarstwie domowym w chwili wszcz´cia egzekucji,
-- **4)** bie˝àce zobowiàzania podatkowe oraz bie˝àce nale˝noÊci z tytu∏u ubezpieczenia spo∏ecznego pracowników, o których mowa wpkt2,
-- **5)** zobowiàzania zwiàzane zwykonywaniem zarzàdu,
-- **6)** nale˝noÊci z tytu∏u ubezpieczenia nieruchomoÊci, jej przynale˝noÊci ipo˝ytków.
+- **1)** koszty egzekucji wraz ze swoim wynagrodzeniem oraz zwrot własnych wydatków,
+- **2)** bieżące należności pracowników zatrudnionych w nieruchomości lub w znajdującym się na niej przedsiębiorstwie należącym do zobowiązanego,
+- **3)** bieżąco przypadające wczasie zarządu alimenty przyznane prawomocnym wyrokiem sądu od zobowiązanego, z wyjątkiem alimentów przysługującym członkom rodziny zobowiązanego pozostającym z nim we wspólnym gospodarstwie domowym w chwili wszczęcia egzekucji,
+- **4)** bieżące zobowiązania podatkowe oraz bieżące należności z tytułu ubezpieczenia społecznego pracowników, o których mowa wpkt2,
+- **5)** zobowiązania związane zwykonywaniem zarządu,
+- **6)** należności z tytułu ubezpieczenia nieruchomości, jej przynależności ipożytków.
 
-§ 2. Nadwy˝k´ dochodów, po pokryciu zobowiàzaƒ, októrych mowa w§ 1, zarzàdca przekazuje do depozytu organu egzekucyjnego. Nadwy˝k´ do∏àcza si´ do kwoty uzyskanej przez organ egzekucyjny za sprzeda˝ nieumorzeniu, nadwy˝k´ t´ otrzymuje zobowiàzany. Oddzia∏ 3. Opis ioszacowanie wartoÊci nieruchomoÊci
+§ 2. Nadwyżkę dochodów, po pokryciu zobowiązań, októrych mowa w§ 1, zarządca przekazuje do depozytu organu egzekucyjnego. Nadwyżkę dołącza się do kwoty uzyskanej przez organ egzekucyjny za sprzedaż nieumorzeniu, nadwyżkę tę otrzymuje zobowiązany.
+
+##### Oddział 3. Opis ioszacowanie wartości nieruchomości
 
 **Art. 110m.**
 
-§ 1. Po up∏ywie terminu okreÊlonego wwezwaniu zobowiàzanego do zap∏aty dochodzonych nale˝noÊci organ egzekucyjny dokonuje opisu i oszacowania wartoÊci zaj´tej nieruchomoÊci.
+§ 1. Po upływie terminu określonego wwezwaniu zobowiązanego do zapłaty dochodzonych należności organ egzekucyjny dokonuje opisu i oszacowania wartości zajętej nieruchomości.
 
-§ 2. Przed przystàpieniem do opisu i oszacowania wartoÊci zaj´tej nieruchomoÊci organ egzekucyjny ˝àda od w∏aÊciwych organów:
+§ 2. Przed przystąpieniem do opisu i oszacowania wartości zajętej nieruchomości organ egzekucyjny żąda od właściwych organów:
 
-- **1)** wyciàgu a w przypadku potrzeby odpisu ksi´gi wieczystej albo zaÊwiadczenia sàdu wystawionego na podstawie zbioru dokumentów prowadzonego dla ruchomoÊci. Je˝eli egzekucja ulega nieruchomoÊci, zawierajàcego wskazanie jej w∏aÊciciela iwykaz ujawnionych w tym zbiorze obcià˝eƒ, je˝eli zaÊ nieruchomoÊç jest obj´ta ewidencjà gruntów i budynków tak˝e wyciàgu zich rejestru;
-- **2)** podania adresów miejsc zamieszkania uczestników post´powania.
+- **1)** wyciągu a w przypadku potrzeby odpisu księgi wieczystej albo zaświadczenia sądu wystawionego na podstawie zbioru dokumentów prowadzonego dla ruchomości. Jeżeli egzekucja ulega nieruchomości, zawierającego wskazanie jej właściciela iwykaz ujawnionych w tym zbiorze obciążeń, jeżeli zaś nieruchomość jest objęta ewidencją gruntów i budynków także wyciągu zich rejestru;
+- **2)** podania adresów miejsc zamieszkania uczestników postępowania.
 
-§ 3. Je˝eli nieruchomoÊç nie ma ksi´gi wieczystej lub zbioru dokumentów, organ egzekucyjny jest obowiàzany uzyskaç inny dokument stwierdzajàcy w∏asnoÊç nieruchomoÊci zobowiàzanego.
+§ 3. Jeżeli nieruchomość nie ma księgi wieczystej lub zbioru dokumentów, organ egzekucyjny jest obowiązany uzyskać inny dokument stwierdzający własność nieruchomości zobowiązanego.
 
 **Art. 110n.**
 
-§ 1. Je˝eli nieruchomoÊç jest po∏o˝ona na obszarze przeznaczonym wplanie miejscowym na cele publiczne, organ egzekucyjny przed przystàpieniem do opisu i oszacowania wartoÊci nieruchomoÊci wzywa w∏aÊciwà jednostk´ samorzàdu terytorialnego do oÊwiadczenia w terminie 3 miesi´cy od dnia dor´czenia wezwania, czy skorzysta z prawa pierwokupu. Je˝eli jednostka samorzàdu terytorialnego nie skorzysta∏a zprawa pierwokupu albo organowi egzekucyjnemu w wyznaczonym terminie nie zostanie dor´czone oÊwiadczenie w tej sprawie, prawo pierwokupu wygasa.
+§ 1. Jeżeli nieruchomość jest położona na obszarze przeznaczonym wplanie miejscowym na cele publiczne, organ egzekucyjny przed przystąpieniem do opisu i oszacowania wartości nieruchomości wzywa właściwą jednostkę samorządu terytorialnego do oświadczenia w terminie 3 miesięcy od dnia doręczenia wezwania, czy skorzysta z prawa pierwokupu. Jeżeli jednostka samorządu terytorialnego nie skorzystała zprawa pierwokupu albo organowi egzekucyjnemu w wyznaczonym terminie nie zostanie doręczone oświadczenie w tej sprawie, prawo pierwokupu wygasa.
 
-§ 2. Je˝eli oÊwiadczenie, o którym mowa w § 1, zosta∏o dor´czone organowi egzekucyjnemu w wyznaczonym terminie, organ ten oznacza cen´ nabycia w wysokoÊci odpowiadajàcej wartoÊci zaj´tej nieruchomoÊci, okreÊlonej przez rzeczoznawc´ majàtkowego.
+§ 2. Jeżeli oświadczenie, o którym mowa w § 1, zostało doręczone organowi egzekucyjnemu w wyznaczonym terminie, organ ten oznacza cenę nabycia w wysokości odpowiadającej wartości zajętej nieruchomości, określonej przez rzeczoznawcę majątkowego.
 
-§ 3. Postanowienie wsprawie wysokoÊci ceny nabycia wywiera skutki przybicia. Do ceny nabycia stosuje si´ odpowiednio art. 112 § 1.
+§ 3. Postanowienie wsprawie wysokości ceny nabycia wywiera skutki przybicia. Do ceny nabycia stosuje się odpowiednio art. 112 § 1.
 
-§ 4. Postanowienie wsprawie wysokoÊci ceny nabycia dor´cza si´ jednostce, októrej mowa w§ 1, zobowiàzanemu i wierzycielowi. Na postanowienie to przys∏uguje za˝alenie.
+§ 4. Postanowienie wsprawie wysokości ceny nabycia doręcza się jednostce, októrej mowa w§ 1, zobowiązanemu i wierzycielowi. Na postanowienie to przysługuje zażalenie.
 
-§ 5. Je˝eli jednostce samorzàdu terytorialnego nie przys∏uguje prawo pierwokupu nieruchomoÊci lub prawo to wygas∏o, przepisy § 1—4 stosuje si´ odpowiednio do prawa pierwokupu wpisanego do ksi´gi wieczystej na rzecz innych osób.
+§ 5. Jeżeli jednostce samorządu terytorialnego nie przysługuje prawo pierwokupu nieruchomości lub prawo to wygasło, przepisy § 1—4 stosuje się odpowiednio do prawa pierwokupu wpisanego do księgi wieczystej na rzecz innych osób.
 
 **Art. 110o.**
 
-§ 1. O terminie opisu i oszacowania wartoÊci nieruchomoÊci organ egzekucyjny zawiadamia znanych mu uczestników post´powania egzekucyjnego.
+§ 1. O terminie opisu i oszacowania wartości nieruchomości organ egzekucyjny zawiadamia znanych mu uczestników postępowania egzekucyjnego.
 
-§ 2. Organ egzekucyjny wzywa ponadto, przez obwieszczenie publiczne wywieszone w siedzibie urz´du skarbowego oraz urz´du w∏aÊciwej jednostki samorzàdu terytorialnego, uczestników, o których nie ma wiadomoÊci, oraz inne osoby, które roszczà sobie prawa do nieruchomoÊci i jej przynale˝noÊci, aby przed ukoƒczeniem opisu zg∏osi∏y swoje prawa.
+§ 2. Organ egzekucyjny wzywa ponadto, przez obwieszczenie publiczne wywieszone w siedzibie urzędu skarbowego oraz urzędu właściwej jednostki samorządu terytorialnego, uczestników, o których nie ma wiadomości, oraz inne osoby, które roszczą sobie prawa do nieruchomości i jej przynależności, aby przed ukończeniem opisu zgłosiły swoje prawa.
 
-§ 3. Zawiadomienia i obwieszczenia dokonywane sà nie póêniej ni˝ na 14 dni przed rozpocz´ciem opisu.
+§ 3. Zawiadomienia i obwieszczenia dokonywane są nie póêniej niż na 14 dni przed rozpoczęciem opisu.
 
 **Art. 110p.**
 
-§ 1. Na wniosek zobowiàzanego, zg∏oszony nie póêniej ni˝ podczas opisu i oszacowania wartoÊci nieruchomoÊci, jak równie˝ z urz´du, mo˝e byç wystawiona na licytacj´ wydzielona na podstawie przepisów o gospodarce nieruchomoÊciami cz´Êç zaj´tej nieruchomoÊci, której cena wywo∏awcza wystarcza na zaspokojenie wierzyciela egzekwujàcego. O prowadzeniu egzekucji z wydzielonej cz´Êci nieruchomoÊci organ egzekucyjny rozstrzyga po oszacowaniu wartoÊci nieruchomoÊci.
+§ 1. Na wniosek zobowiązanego, zgłoszony nie póêniej niż podczas opisu i oszacowania wartości nieruchomości, jak również z urzędu, może być wystawiona na licytację wydzielona na podstawie przepisów o gospodarce nieruchomościami część zajętej nieruchomości, której cena wywoławcza wystarcza na zaspokojenie wierzyciela egzekwującego. O prowadzeniu egzekucji z wydzielonej części nieruchomości organ egzekucyjny rozstrzyga po oszacowaniu wartości nieruchomości.
 
-§ 2. Na postanowienie organu egzekucyjnego w sprawie prowadzenia egzekucji z wydzielonej cz´Êci nieruchomoÊci i oszacowania jej wartoÊci przys∏uguje za˝alenie.
+§ 2. Na postanowienie organu egzekucyjnego w sprawie prowadzenia egzekucji z wydzielonej części nieruchomości i oszacowania jej wartości przysługuje zażalenie.
 
-§ 3. Wprzypadku prowadzenia egzekucji z wydzielonej cz´Êci nieruchomoÊci dalsze post´powanie co do do czasu zakoƒczenia licytacji wydzielonej cz´Êci.
+§ 3. Wprzypadku prowadzenia egzekucji z wydzielonej części nieruchomości dalsze postępowanie co do do czasu zakończenia licytacji wydzielonej części.
 
 **Art. 110r.**
 
-§ 1. W protokole opisu i oszacowania wartoÊci nieruchomoÊci organ egzekucyjny podaje:
+§ 1. W protokole opisu i oszacowania wartości nieruchomości organ egzekucyjny podaje:
 
-- **1)** oznaczenie nieruchomoÊci, wtym numer ewidencyjny dzia∏ki, obr´b, powierzchni´, a tak˝e oznaczenie ksi´gi wieczystej lub w przypadku jej braku zbioru dokumentów,
-- **2)** obiekty budowlane ze wskazaniem ich przeznaczenia gospodarczego oraz przynale˝noÊci nieruchomoÊci, jak równie˝ zapasy obj´te zaj´ciem,
-- **3)** stwierdzone prawa iobcià˝enia,
+- **1)** oznaczenie nieruchomości, wtym numer ewidencyjny działki, obręb, powierzchnię, a także oznaczenie księgi wieczystej lub w przypadku jej braku zbioru dokumentów,
+- **2)** obiekty budowlane ze wskazaniem ich przeznaczenia gospodarczego oraz przynależności nieruchomości, jak również zapasy objęte zajęciem,
+- **3)** stwierdzone prawa iobciążenia,
 - **4)** umowy ubezpieczenia,
-- **5)** osoby, w których posiadaniu znajduje si´ nieruchomoÊç, jej przynale˝noÊci ipo˝ytki,
-- **6)** sposób korzystania z nieruchomoÊci przez zobowiàzanego,
-- **7)** okreÊlenie wartoÊci nieruchomoÊci zpodaniem jego podstaw,
-- **8)** zg∏oszone prawa do nieruchomoÊci,
-- **9)** inne okolicznoÊci istotne dla oznaczenia lub oszacowania wartoÊci nieruchomoÊci.
+- **5)** osoby, w których posiadaniu znajduje się nieruchomość, jej przynależności ipożytki,
+- **6)** sposób korzystania z nieruchomości przez zobowiązanego,
+- **7)** określenie wartości nieruchomości zpodaniem jego podstaw,
+- **8)** zgłoszone prawa do nieruchomości,
+- **9)** inne okoliczności istotne dla oznaczenia lub oszacowania wartości nieruchomości.
 
-§ 2. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia, szczegó∏owy sposób przeprowadzenia opisu i oszacowania wartoÊci nieruchomoÊci, majàc na uwadze zapewnienie prawid∏owej wyceny nieruchomoÊci i uwzgl´dniajàc przepisy o gospodarce nieruchomoÊciami.
+§ 2. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowy sposób przeprowadzenia opisu i oszacowania wartości nieruchomości, mając na uwadze zapewnienie prawidłowej wyceny nieruchomości i uwzględniając przepisy o gospodarce nieruchomościami.
 
 **Art. 110s.**
 
-§ 1. Do oszacowania wartoÊci zaj´tej nieruchomoÊci organ egzekucyjny wyznacza rzeczoznawc´ majàtkowego, o którym mowa w przepisach o gospodarce nieruchomoÊciami.
+§ 1. Do oszacowania wartości zajętej nieruchomości organ egzekucyjny wyznacza rzeczoznawcę majątkowego, o którym mowa w przepisach o gospodarce nieruchomościami.
 
-§ 2. Przy oszacowaniu wartoÊci nieruchomoÊci podaje si´ wartoÊç:
+§ 2. Przy oszacowaniu wartości nieruchomości podaje się wartość:
 
 - **1)** gruntów,
 - **2)** obiektów budowlanych,
-- **3)** przynale˝noÊci ipo˝ytków.
+- **3)** przynależności ipożytków.
 
-§ 3. W przypadku, o którym mowa wart. 110p, przy oszacowaniu wartoÊci nieruchomoÊci podaje si´ wartoÊç sk∏adników okreÊlonych w§ 2 wodniesieniu do wydzielonej cz´Êci nieruchomoÊci. reszty nieruchomoÊci zawiesza si´ § 4. WartoÊci, októrych mowa w§ 2 i3, podaje si´ z uwzgl´dnieniem oraz bez uwzgl´dnienia praw, które pozostajà wmocy bez zaliczenia na cen´ nabycia, oraz wartoÊci praw nieokreÊlonych sumà pieni´˝nà obcià˝ajàcych nieruchomoÊç, w szczególnoÊci Êwiadczeƒ z tytu∏u takich praw.
+§ 3. W przypadku, o którym mowa wart. 110p, przy oszacowaniu wartości nieruchomości podaje się wartość składników określonych w§ 2 wodniesieniu do wydzielonej części nieruchomości. reszty nieruchomości zawiesza się § 4. Wartości, októrych mowa w§ 2 i3, podaje się z uwzględnieniem oraz bez uwzględnienia praw, które pozostają wmocy bez zaliczenia na cenę nabycia, oraz wartości praw nieokreślonych sumą pieniężną obciążających nieruchomość, w szczególności świadczeń z tytułu takich praw.
 
-**Art. 110t.** Je˝eli zosta∏y zg∏oszone prawa osób trzecich do gruntu, obiektów budowlanych, przynale˝noÊci lub po˝ytków albo gdy sk∏adniki takie znajdujà si´ we w∏adaniu osób trzecich, oznacza si´:
+**Art. 110t.** Jeżeli zostały zgłoszone prawa osób trzecich do gruntu, obiektów budowlanych, przynależności lub pożytków albo gdy składniki takie znajdują się we władaniu osób trzecich, oznacza się:
 
 **Art. 110u.**
 
-§ 1. Zarzuty do opisu i oszacowania wartoÊci nieruchomoÊci mogà byç wnoszone przez wszystkich uczestników post´powania egzekucyjnego wterminie 14 dni od dnia ukoƒczenia opisu i oszacowania wartoÊci nieruchomoÊci. Na postanowienie organu egzekucyjnego w sprawie opisu i oszacowania wartoÊci nieruchomoÊci przys∏uguje za˝alenie.
+§ 1. Zarzuty do opisu i oszacowania wartości nieruchomości mogą być wnoszone przez wszystkich uczestników postępowania egzekucyjnego wterminie 14 dni od dnia ukończenia opisu i oszacowania wartości nieruchomości. Na postanowienie organu egzekucyjnego w sprawie opisu i oszacowania wartości nieruchomości przysługuje zażalenie.
 
-§ 2. Je˝eli w stanie nieruchomoÊci, w okresie pomi´dzy sporzàdzeniem opisu i oszacowaniem jej wartoÊci a wyznaczonym terminem licytacji, zajdà istotne zmiany, organ egzekucyjny mo˝e przeprowadziç dodatkowy opis i oszacowanie wartoÊci nieruchomoÊci. Oddzia∏ 4. Obwieszczenie olicytacji
+§ 2. Jeżeli w stanie nieruchomości, w okresie pomiędzy sporządzeniem opisu i oszacowaniem jej wartości a wyznaczonym terminem licytacji, zajdą istotne zmiany, organ egzekucyjny może przeprowadzić dodatkowy opis i oszacowanie wartości nieruchomości.
+
+##### Oddział 4. Obwieszczenie olicytacji
 
 **Art. 110w.**
 
-§ 1. Zaj´tà nieruchomoÊç organ egzekucyjny sprzedaje w drodze licytacji publicznej.
+§ 1. Zajętą nieruchomość organ egzekucyjny sprzedaje w drodze licytacji publicznej.
 
-§ 2. Termin licytacji nie mo˝e byç wyznaczony wczeÊniej ni˝ po up∏ywie 30 dni od dnia dor´czenia zobowiàzanemu opisu ioszacowania wartoÊci nieruchomoÊci.
+§ 2. Termin licytacji nie może być wyznaczony wcześniej niż po upływie 30 dni od dnia doręczenia zobowiązanemu opisu ioszacowania wartości nieruchomości.
 
 § 3. O licytacji organ egzekucyjny zawiadamia przez publiczne obwieszczenie, wktórym podaje:
 
 - **1)** termin imiejsce licytacji,
-- **2)** oznaczenie nieruchomoÊci, która niem miejsca jej po∏o˝enia iprzeznaczenia gospodarczego oraz ksi´gi wieczystej lub zbioru dokumentów ze wskazaniem sàdu, wktórym sà prowadzone,
-- **3)** oszacowanà wartoÊç nieruchomoÊci icen´ wywo∏awczà,
-- **4)** firm´ lub imi´ i nazwisko zobowiàzanego,
-- **5)** wysokoÊç wadium, jakie licytant przyst´pujàcy do przetargu powinien z∏o˝yç, z zaznaczeniem ˝e wadium sk∏ada si´ wgotówce albo w postaci czeku potwierdzonego wystawionego na organ egzekucyjny,
-- **6)** czas, wktórym wterminie 14 dni przed dniem licytacji b´dzie wolno oglàdaç nieruchomoÊç oraz przeglàdaç w urz´dzie skarbowym akta post´powania egzekuma byç sprzedana, ze wskazacyjnego,
-- **7)** wzmiank´, ˝e prawa osób trzecich nie b´dà przeszkodà do licytacji i przyznania nabywcy w∏asnoÊci nieruchomoÊci bez zastrze˝eƒ, je˝eli osoby te nie wystàpi∏y wczeÊniej o wy∏àczenie nieruchomoÊci lub jej przynale˝noÊci spod egzekucji,
-- **8)** wyjaÊnienie, ˝e u˝ytkowanie, s∏u˝ebnoÊci i prawa do˝ywotnika, je˝eli nie sà ujawnione wksi´dze wieczystej lub przez z∏o˝enie dokumentu do zbioru dokumentów i nie zostanà zg∏oszone najpóêniej na 3 dni przed rozpocz´ciem licytacji, nie b´dà uwzgl´dnione wdalszym toku egzekucji iwygasnà z chwilà, w której postanowienie o przyznaniu w∏asnoÊci stanie si´ ostateczne.
+- **2)** oznaczenie nieruchomości, która niem miejsca jej położenia iprzeznaczenia gospodarczego oraz księgi wieczystej lub zbioru dokumentów ze wskazaniem sądu, wktórym są prowadzone,
+- **3)** oszacowaną wartość nieruchomości icenę wywoławczą,
+- **4)** firmę lub imię i nazwisko zobowiązanego,
+- **5)** wysokość wadium, jakie licytant przystępujący do przetargu powinien złożyć, z zaznaczeniem że wadium składa się wgotówce albo w postaci czeku potwierdzonego wystawionego na organ egzekucyjny,
+- **6)** czas, wktórym wterminie 14 dni przed dniem licytacji będzie wolno oglądać nieruchomość oraz przeglądać w urzędzie skarbowym akta postępowania egzekuma być sprzedana, ze wskazacyjnego,
+- **7)** wzmiankę, że prawa osób trzecich nie będą przeszkodą do licytacji i przyznania nabywcy własności nieruchomości bez zastrzeżeń, jeżeli osoby te nie wystąpiły wcześniej o wyłączenie nieruchomości lub jej przynależności spod egzekucji,
+- **8)** wyjaśnienie, że użytkowanie, służebności i prawa dożywotnika, jeżeli nie są ujawnione wksiędze wieczystej lub przez złożenie dokumentu do zbioru dokumentów i nie zostaną zgłoszone najpóêniej na 3 dni przed rozpoczęciem licytacji, nie będą uwzględnione wdalszym toku egzekucji iwygasną z chwilą, w której postanowienie o przyznaniu własności stanie się ostateczne.
 
-§ 4. Obwieszczenie o licytacji dor´cza si´:
+§ 4. Obwieszczenie o licytacji doręcza się:
 
-- **1)** uczestnikom post´powania,
-- **2)** w∏aÊciwej jednostce samorzàdu terytorialnego oraz organom ubezpieczeƒ spo∏ecznych z wezwaniem, aby najpóêniej wterminie licytacji zg∏osi∏y zestawienie podatków iinnych danin publicznych, nale˝nych na dzieƒ licytacji, pod rygorem utraty prawa dochodzenia zaleg∏ych Êwiadczeƒ od nabywcy,
-- **3)** osobom majàcym prawo pierwokupu nieruchomoÊci, je˝eli prawo to zosta∏o wpisane do ksi´gi wieczystej prowadzonej dla nieruchomoÊci.
+- **1)** uczestnikom postępowania,
+- **2)** właściwej jednostce samorządu terytorialnego oraz organom ubezpieczeń społecznych z wezwaniem, aby najpóêniej wterminie licytacji zgłosiły zestawienie podatków iinnych danin publicznych, należnych na dzień licytacji, pod rygorem utraty prawa dochodzenia zaległych świadczeń od nabywcy,
+- **3)** osobom mającym prawo pierwokupu nieruchomości, jeżeli prawo to zostało wpisane do księgi wieczystej prowadzonej dla nieruchomości.
 
-§ 5. Obwieszczenie o licytacji wywiesza si´ w siedzibach urz´du skarbowego oraz urz´du w∏aÊciwej jednostki samorzàdu terytorialnego co najmniej na 30 dni przed jej terminem, a je˝eli wartoÊç nieruchomoÊci zosta∏a oszacowana na kwot´ wy˝szà ni˝ studziesi´ciokrotna wysokoÊç najni˝szego wynagrodzenia za prac´ okreÊlonego w odr´bnych przepisach tak˝e wdzienniku poczytnym wdanej miejscowoÊci.
+§ 5. Obwieszczenie o licytacji wywiesza się w siedzibach urzędu skarbowego oraz urzędu właściwej jednostki samorządu terytorialnego co najmniej na 30 dni przed jej terminem, a jeżeli wartość nieruchomości została oszacowana na kwotę wyższą niż studziesięciokrotna wysokość najniższego wynagrodzenia za pracę określonego w odrębnych przepisach także wdzienniku poczytnym wdanej miejscowości.
 
-§ 6. Na wniosek i koszt zobowiàzanego lub wierzyciela organ egzekucyjny mo˝e zarzàdziç og∏oszenie o licytacji równie˝ w inny wskazany przez nich sposób.
+§ 6. Na wniosek i koszt zobowiązanego lub wierzyciela organ egzekucyjny może zarządzić ogłoszenie o licytacji również w inny wskazany przez nich sposób.
 
-§ 7. W og∏oszeniu w dzienniku podaje si´ oznaczenie nieruchomoÊci, termin i miejsce licytacji, oszacowanà wartoÊç nieruchomoÊci i cen´ wywo∏awczà oraz wysokoÊç wadium, jakie licytant powinien z∏o˝yç.
+§ 7. W ogłoszeniu w dzienniku podaje się oznaczenie nieruchomości, termin i miejsce licytacji, oszacowaną wartość nieruchomości i cenę wywoławczą oraz wysokość wadium, jakie licytant powinien złożyć.
 
-§ 8. Je˝eli egzekucja dotyczy jednej lub kilku nieruchomoÊci po∏o˝onych na obszarze dzia∏ania ró˝nych organów egzekucyjnych, obwieszczenie wywiesza si´ ponadto wsiedzibach w∏aÊciwych urz´dów skarbowych, aje˝eli obwieszczenie ma byç tak˝e og∏oszone w prasie, og∏asza si´ je w dziennikach poczytnych w miejscowoÊciach, w których te urz´dy si´ znajdujà.
+§ 8. Jeżeli egzekucja dotyczy jednej lub kilku nieruchomości położonych na obszarze działania różnych organów egzekucyjnych, obwieszczenie wywiesza się ponadto wsiedzibach właściwych urzędów skarbowych, ajeżeli obwieszczenie ma być także ogłoszone w prasie, ogłasza się je w dziennikach poczytnych w miejscowościach, w których te urzędy się znajdują.
 
 **Art. 110y.**
 
-§ 1. Z chwilà obwieszczenia o licytacji nieruchomoÊci wchodzàcej w sk∏ad gospodarstwa rolnego wspó∏w∏aÊcicielowi tej nieruchomoÊci, który nie jest d∏u˝nikiem osobistym, przys∏uguje prawo przej´cia nieruchomoÊci na w∏asnoÊç za cen´ nie ni˝szà od oszacowanej wartoÊci nieruchomoÊci. Wniosek oprzej´cie sk∏ada si´ nie póêniej ni˝ 3 dnia poprzedzajàcego dzieƒ licytacji.
+§ 1. Z chwilą obwieszczenia o licytacji nieruchomości wchodzącej w skład gospodarstwa rolnego współwłaścicielowi tej nieruchomości, który nie jest dłużnikiem osobistym, przysługuje prawo przejęcia nieruchomości na własność za cenę nie niższą od oszacowanej wartości nieruchomości. Wniosek oprzejęcie składa się nie póêniej niż 3 dnia poprzedzającego dzień licytacji.
 
-§ 2. Je˝eli kilku wspó∏w∏aÊcicieli zg∏osi wniosek oprzej´cie, pierwszeƒstwo przys∏uguje temu z nich, który prowadzi gospodarstwo rolne lub pracuje wnim. Je˝eli warunek ten spe∏nia kilku wspó∏w∏aÊcicieli albo nie spe∏nia go ˝aden znich, organ egzekucyjny przyznaje pierwszeƒstwo temu wspó∏w∏aÊcicielowi, który daje najlepszà gwarancj´ nale˝ytego prowadzenia gospodarstwa rolnego.
+§ 2. Jeżeli kilku współwłaścicieli zgłosi wniosek oprzejęcie, pierwszeństwo przysługuje temu z nich, który prowadzi gospodarstwo rolne lub pracuje wnim. Jeżeli warunek ten spełnia kilku współwłaścicieli albo nie spełnia go żaden znich, organ egzekucyjny przyznaje pierwszeństwo temu współwłaścicielowi, który daje najlepszą gwarancję należytego prowadzenia gospodarstwa rolnego.
 
-§ 3. O pierwszeƒstwie przej´cia nieruchomoÊci rozstrzyga organ egzekucyjny, wydajàc postanowienie o przybiciu. Na postanowienie to § 4. Je˝eli nikt nie skorzysta z prawa przej´cia nieruchomoÊci na podstawie przepisów § 1—3, albo je˝eli przedmiotem egzekucji nie jest nieruchomoÊç wchodzàca w sk∏ad gospodarstwa rolnego, organ egzekucyjny po dokonaniu obwieszczeƒ przedstawia akta organowi nadzoru. W przypadku spostrze˝enia niedok∏adnoÊci lub wadliwoÊci post´powania organ nadzoru poleci organowi egzekucyjnemu ich usuni´cie.
+§ 3. O pierwszeństwie przejęcia nieruchomości rozstrzyga organ egzekucyjny, wydając postanowienie o przybiciu. Na postanowienie to § 4. Jeżeli nikt nie skorzysta z prawa przejęcia nieruchomości na podstawie przepisów § 1—3, albo jeżeli przedmiotem egzekucji nie jest nieruchomość wchodząca w skład gospodarstwa rolnego, organ egzekucyjny po dokonaniu obwieszczeń przedstawia akta organowi nadzoru. W przypadku spostrzeżenia niedokładności lub wadliwości postępowania organ nadzoru poleci organowi egzekucyjnemu ich usunięcie.
 
 **Art. 110z.**
 
-§ 1. Na czynnoÊci organu egzekucyjnego dotyczàce obwieszczenia o licytacji przys∏uguje skarga. Skarg´ mo˝na wnieÊç wterminie 14 dni od dnia og∏oszenia olicytacji.
+§ 1. Na czynności organu egzekucyjnego dotyczące obwieszczenia o licytacji przysługuje skarga. Skargę można wnieść wterminie 14 dni od dnia ogłoszenia olicytacji.
 
-§ 2. W sprawie skargi, o której mowa w§ 1, postanowienie wydaje organ nadzoru. przys∏uguje za˝alenie.
+§ 2. W sprawie skargi, o której mowa w§ 1, postanowienie wydaje organ nadzoru. przysługuje zażalenie.
 
-§ 3. Na postanowienie organu nadzoru o oddaleniu skargi przys∏uguje za˝alenie. Oddzia∏ 5. Wadium
+§ 3. Na postanowienie organu nadzoru o oddaleniu skargi przysługuje zażalenie.
+
+##### Oddział 5. Wadium
 
 **Art. 111.**
 
-§ 1. Wadium wynosi jednà dziesiàtà cz´Êci oszacowanej wartoÊci nieruchomoÊci.
+§ 1. Wadium wynosi jedną dziesiątą części oszacowanej wartości nieruchomości.
 
-§ 2. Zzastrze˝eniem § 5 i6, wadium sk∏ada:
+§ 2. Zzastrzeżeniem § 5 i6, wadium składa:
 
-- **1)** przyst´pujàcy do licytacji,
-- **2)** osoba, która sk∏ada wniosek oprzej´cie nieruchomoÊci, októrym mowa w art. 110y § 1, art. 111h § 2 iart.111i§ 3.
+- **1)** przystępujący do licytacji,
+- **2)** osoba, która składa wniosek oprzejęcie nieruchomości, októrym mowa w art. 110y § 1, art. 111h § 2 iart.111i§ 3.
 
-§ 3. Osoba, o której mowa w § 1 pkt 2, sk∏ada wadium w terminie z∏o˝enia wniosku oprzej´cie nieruchomoÊci.
+§ 3. Osoba, o której mowa w § 1 pkt 2, składa wadium w terminie złożenia wniosku oprzejęcie nieruchomości.
 
-§ 4. Wadium sk∏ada si´ w gotówce lub w postaci czeku potwierdzonego wystawionego na organ egzekucyjny.
+§ 4. Wadium składa się w gotówce lub w postaci czeku potwierdzonego wystawionego na organ egzekucyjny.
 
-§ 5. Nie sk∏ada wadium osoba, której przys∏uguje ujawnione w opisie ioszacowaniu prawo do nieruchomoÊci lub jej przynale˝noÊci, je˝eli jego wartoÊç nie jest ni˝sza od wysokoÊci wadium i zosta∏o ono stwierdzone wprotokole opisu ioszacowania wartoÊci nieruchomoÊci.
+§ 5. Nie składa wadium osoba, której przysługuje ujawnione w opisie ioszacowaniu prawo do nieruchomości lub jej przynależności, jeżeli jego wartość nie jest niższa od wysokości wadium i zostało ono stwierdzone wprotokole opisu ioszacowania wartości nieruchomości.
 
-§ 6. Je˝eli wartoÊç prawa, o którym mowa w § 5, jest ni˝sza od wysokoÊci wadium, wysokoÊç wadium obni˝a si´ do ró˝nicy mi´dzy pe∏nym wadium awartoÊcià prawa.
+§ 6. Jeżeli wartość prawa, o którym mowa w § 5, jest niższa od wysokości wadium, wysokość wadium obniża się do różnicy między pełnym wadium awartością prawa.
 
-**Art. 111a.** Wadium z∏o˝one przez licytanta, któremu udzielono przybicia, zatrzymuje si´; pozosta∏ym licytantom zwraca si´ je niezw∏ocznie.
+**Art. 111a.** Wadium złożone przez licytanta, któremu udzielono przybicia, zatrzymuje się; pozostałym licytantom zwraca się je niezwłocznie.
 
 **Art. 111b.**
 
-§ 1. Nabywca, który nie wykona∏ w terminie warunków licytacyjnych co do zap∏aty ceny, traci wadium.
+§ 1. Nabywca, który nie wykonał w terminie warunków licytacyjnych co do zapłaty ceny, traci wadium.
 
-§ 2. Od nabywcy niesk∏adajàcego wadium, który nie wykona∏ warunków licytacyjnych, Êciàga si´ wadium wtrybie egzekucji administracyjnej.
+§ 2. Od nabywcy nieskładającego wadium, który nie wykonał warunków licytacyjnych, ściąga się wadium wtrybie egzekucji administracyjnej.
 
-§ 3. Zwadium utraconego przez nabywc´ lub od niego Êciàgni´tego pokrywa si´ koszty egzekucji zwiàzane ze sprzeda˝à. Oddzia∏ 6. Licytacja
+§ 3. Zwadium utraconego przez nabywcę lub od niego ściągniętego pokrywa się koszty egzekucji związane ze sprzedażą.
+
+##### Oddział 6. Licytacja
 
 **Art. 111c.**
 
-§ 1. Licytacja odbywa si´ publicznie, wobecnoÊci ipod nadzorem kierownika komórki organizacyjnej urz´du skarbowego prowadzàcej egzekucj´ administracyjnà, zwanego dalej «komornikiem skarbowym».
+§ 1. Licytacja odbywa się publicznie, wobecności ipod nadzorem kierownika komórki organizacyjnej urzędu skarbowego prowadzącej egzekucję administracyjną, zwanego dalej «komornikiem skarbowym».
 
-§ 2. Po wywo∏aniu licytacji poborca skarbowy podaje do wiadomoÊci obecnych:
+§ 2. Po wywołaniu licytacji poborca skarbowy podaje do wiadomości obecnych:
 
 - **1)** przedmiot licytacji,
-- **2)** cen´ wywo∏awczà,
-- **3)** wysokoÊç wadium,
+- **2)** cenę wywoławczą,
+- **3)** wysokość wadium,
 - **4)** termin uiszczenia ceny nabycia,
-- **5)** prawa obcià˝ajàce nieruchomoÊç, które b´dà utrzymane w mocy z zaliczeniem i bez zaliczenia na cen´ nabycia,
-- **6)** zmiany w stanie faktycznym i prawnym nieruchomoÊci, je˝eli zasz∏y po jej opisie ioszacowaniu wartoÊci.
+- **5)** prawa obciążające nieruchomość, które będą utrzymane w mocy z zaliczeniem i bez zaliczenia na cenę nabycia,
+- **6)** zmiany w stanie faktycznym i prawnym nieruchomości, jeżeli zaszły po jej opisie ioszacowaniu wartości.
 
-§ 3. Przedmiotem licytacji jest nieruchomoÊç wed∏ug stanu obj´tego opisem i oszacowaniem wartoÊci z uwzgl´dnieniem zmian, o których mowa w§ 2 pkt 6.
+§ 3. Przedmiotem licytacji jest nieruchomość według stanu objętego opisem i oszacowaniem wartości z uwzględnieniem zmian, o których mowa w§ 2 pkt 6.
 
-§ 4. Je˝eli przedmiotem licytacji jest kilka nieruchomoÊci lub kilka cz´Êci jednej nieruchomoÊci, zobowiàzany ma prawo wskazaç kolejnoÊç, w jakiej ma byç przeprowadzona licytacja poszczególnych nieruchomoÊci lub ich cz´Êci.
+§ 4. Jeżeli przedmiotem licytacji jest kilka nieruchomości lub kilka części jednej nieruchomości, zobowiązany ma prawo wskazać kolejność, w jakiej ma być przeprowadzona licytacja poszczególnych nieruchomości lub ich części.
 
 **Art. 111d.**
 
-§ 1. Wlicytacji nie mogà uczestniczyç:
+§ 1. Wlicytacji nie mogą uczestniczyć:
 
-- **1)** zobowiàzany,
+- **1)** zobowiązany,
 - **2)** pracownicy organu egzekucyjnego,
-- **3)** ma∏˝onkowie, dzieci, rodzice irodzeƒstwo osób, o których mowa wpkt 1 i2,
-- **4)** osoby obecne na licytacji w cha5) licytant, który nie wykona∏ warunków poprzedniej licytacji tej samej nieruchomoÊci,
-- **6)** osoby, które mogà nabyç nieruchomoÊç tylko za zezwoleniem organu administracji publicznej, a zezwolenia tego nie przedstawi∏y.
+- **3)** małżonkowie, dzieci, rodzice irodzeństwo osób, o których mowa wpkt 1 i2,
+- **4)** osoby obecne na licytacji w cha5) licytant, który nie wykonał warunków poprzedniej licytacji tej samej nieruchomości,
+- **6)** osoby, które mogą nabyć nieruchomość tylko za zezwoleniem organu administracji publicznej, a zezwolenia tego nie przedstawiły.
 
-§ 2. Stawienie si´ jednego licytanta wystarcza do przeprowadzenia licytacji.
+§ 2. Stawienie się jednego licytanta wystarcza do przeprowadzenia licytacji.
 
-§ 3. Pe∏nomocnictwo do udzia∏u wlicytacji stwierdzone jest dokumentem z podpisem urz´dowo lub notarialnie poÊwiadczonym. Podpisy na pe∏nomocnictwach udzielonych przez paƒstwowe jednostki organizacyjne lub jednostki samorzàdu terytorialnego oraz na pe∏nomocnictwach udzielonych adwokatom lub radcom prawnym nie wymagajà poÊwiadrakterze urz´dowym, czenia.
+§ 3. Pełnomocnictwo do udziału wlicytacji stwierdzone jest dokumentem z podpisem urzędowo lub notarialnie poświadczonym. Podpisy na pełnomocnictwach udzielonych przez państwowe jednostki organizacyjne lub jednostki samorządu terytorialnego oraz na pełnomocnictwach udzielonych adwokatom lub radcom prawnym nie wymagają poświadrakterze urzędowym, czenia.
 
-**Art. 111e.** Cena wywo∏awcza, za którà nieruchomoÊç mo˝na nabyç w pierwszej licytacji, wynosi trzy czwarte oszacowanej wartoÊci nieruchomoÊci.
+**Art. 111e.** Cena wywoławcza, za którą nieruchomość można nabyć w pierwszej licytacji, wynosi trzy czwarte oszacowanej wartości nieruchomości.
 
 **Art. 111f.**
 
-§ 1. Licytacja odbywa si´ ustnie.
+§ 1. Licytacja odbywa się ustnie.
 
-§ 2. Postàpienie nie mo˝e wynosiç mniej ni˝ jeden procent ceny wywo∏ania, z zaokràgleniem wzwy˝ do pe∏nych z∏otych.
+§ 2. Postąpienie nie może wynosić mniej niż jeden procent ceny wywołania, z zaokrągleniem wzwyż do pełnych złotych.
 
-§ 3. Zaoferowana cena przestaje wiàzaç, gdy inny licytant zaoferowa∏ cen´ wy˝szà.
+§ 3. Zaoferowana cena przestaje wiązać, gdy inny licytant zaoferował cenę wyższą.
 
-§ 4. Po ustaniu postàpieƒ poborca skarbowy, uprzedzajàc obecnych, ˝e po trzecim obwieszczeniu dalsze postàpienia nie b´dà przyj´te, obwieszcza trzykrotnie ostatnio zaoferowanà cen´, zamyka licytacj´ iwymienia licytanta, który zaoferowa∏ najwy˝szà cen´.
+§ 4. Po ustaniu postąpień poborca skarbowy, uprzedzając obecnych, że po trzecim obwieszczeniu dalsze postąpienia nie będą przyjęte, obwieszcza trzykrotnie ostatnio zaoferowaną cenę, zamyka licytację iwymienia licytanta, który zaoferował najwyższą cenę.
 
-§ 5. Je˝eli nale˝noÊç wierzyciela zostanie uiszczona wraz zodsetkami ztytu∏u niezap∏acenia jej w terminie i kosztami egzekucyjnymi przed zamkni´ciem licytacji, poborca skarbowy zamyka licytacj´ iorgan egzekucyjny umarza post´powanie egzekucyjne.
+§ 5. Jeżeli należność wierzyciela zostanie uiszczona wraz zodsetkami ztytułu niezapłacenia jej w terminie i kosztami egzekucyjnymi przed zamknięciem licytacji, poborca skarbowy zamyka licytację iorgan egzekucyjny umarza postępowanie egzekucyjne.
 
-**Art. 111g.** Je˝eli przedmiotem licytacji jest kilka nieruchomoÊci lub kilka cz´Êci nieruchomoÊci, poborca skarbowy wstrzymuje licytacj´ pozosta∏ych nieruchomoÊci lub ich cz´Êci z chwilà, gdy osiàgni´to kwot´ wystarczajàcà na zaspokojenie dochodzonej nale˝noÊci wraz zodsetkami ztytu∏u niezap∏acenia jej w terminie i kosztami egzekucyjnymi oraz organ egzekucyjny umarza post´powanie egzekucyjne.
+**Art. 111g.** Jeżeli przedmiotem licytacji jest kilka nieruchomości lub kilka części nieruchomości, poborca skarbowy wstrzymuje licytację pozostałych nieruchomości lub ich części z chwilą, gdy osiągnięto kwotę wystarczającą na zaspokojenie dochodzonej należności wraz zodsetkami ztytułu niezapłacenia jej w terminie i kosztami egzekucyjnymi oraz organ egzekucyjny umarza postępowanie egzekucyjne.
 
 **Art. 111h.**
 
-§ 1. Je˝eli nikt nie przystàpi∏ do licytacji, a przedmiotem licytacji jest nieruchomoÊç wchodzàca wsk∏ad gospodarstwa rolnego, wspó∏w∏aÊciciel tej nieruchomoÊci nieb´dàcy d∏u˝nikiem osobistym, ma prawo przej´cia nieruchomoÊci na w∏asnoÊç za cen´ nie ni˝szà od trzech czwartych oszacowanej wartoÊci nieruchomoÊci. Przepis art. 110y § 2 i 3 stosuje si´ odpowiednio.
+§ 1. Jeżeli nikt nie przystąpił do licytacji, a przedmiotem licytacji jest nieruchomość wchodząca wskład gospodarstwa rolnego, współwłaściciel tej nieruchomości niebędący dłużnikiem osobistym, ma prawo przejęcia nieruchomości na własność za cenę nie niższą od trzech czwartych oszacowanej wartości nieruchomości. Przepis art. 110y § 2 i 3 stosuje się odpowiednio.
 
-§ 2. Wniosek o przej´cie nieruchomoÊci nale˝y zg∏osiç w terminie 7 dni od dnia licytacji.
+§ 2. Wniosek o przejęcie nieruchomości należy zgłosić w terminie 7 dni od dnia licytacji.
 
-§ 3. Je˝eli nikt nie przystàpi∏ do licytacji, a przedmiotem egzekucji jest w∏asnoÊciowe spó∏dzielcze prawo do lokalu mieszkalnego, spó∏dzielcze prawo do lokalu u˝ytkowego lub prawo do domu jednorodzinnego w spó∏dzielni mieszkaniowej, wierzyciel hipoteczny, inny ni˝ urzàd skarbowy, mo˝e przejàç to prawo za cen´ nie ni˝szà od trzech czwartych oszacowanej wartoÊci nieruchomoÊci; wniosek oprzej´cie nale˝y zg∏osiç wterminie 7 dni od dnia licytacji.
+§ 3. Jeżeli nikt nie przystąpił do licytacji, a przedmiotem egzekucji jest własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego lub prawo do domu jednorodzinnego w spółdzielni mieszkaniowej, wierzyciel hipoteczny, inny niż urząd skarbowy, może przejąć to prawo za cenę nie niższą od trzech czwartych oszacowanej wartości nieruchomości; wniosek oprzejęcie należy zgłosić wterminie 7 dni od dnia licytacji.
 
 **Art. 111i.**
 
-§ 1. Je˝eli nikt nie zg∏osi∏ wniosku, októrym mowa w art. 111h, organ egzekucyjny wyznacza drugà licytacj´, na której cena wywo∏awcza wynosi 70% oszacowanej wartoÊci nieruchomoÊci.
+§ 1. Jeżeli nikt nie zgłosił wniosku, októrym mowa w art. 111h, organ egzekucyjny wyznacza drugą licytację, na której cena wywoławcza wynosi 70% oszacowanej wartości nieruchomości.
 
-§ 2. Je˝eli nikt nie przystàpi∏ do drugiej licytacji, przej´cie nieruchomoÊci na w∏asnoÊç mo˝e nastàpiç za cen´ nie ni˝szà od 70% wartoÊci nieruchomoÊci, przy czym prawo przej´cia przys∏uguje wierzycielowi egzekwujàcemu lub hipotecznemu, z wyjàtkiem urz´du skarbowego, oraz wspó∏w∏aÊcicielowi.
+§ 2. Jeżeli nikt nie przystąpił do drugiej licytacji, przejęcie nieruchomości na własność może nastąpić za cenę nie niższą od 70% wartości nieruchomości, przy czym prawo przejęcia przysługuje wierzycielowi egzekwującemu lub hipotecznemu, z wyjątkiem urzędu skarbowego, oraz współwłaścicielowi.
 
-§ 3. Wniosek o przej´cie nieruchomoÊci wierzyciel lub wspó∏w∏aÊciciel sk∏ada do organu egzekucyjnego w terminie 7 dni od dnia licytacji.
+§ 3. Wniosek o przejęcie nieruchomości wierzyciel lub współwłaściciel składa do organu egzekucyjnego w terminie 7 dni od dnia licytacji.
 
-§ 4. Je˝eli kilku wierzycieli sk∏ada wniosek oprzej´cie, pierwszeƒstwo przys∏uguje temu, kto zaoferowa∏ cen´ wy˝szà, a przy równych cenach temu, czyja nale˝noÊç jest wi´ksza.
+§ 4. Jeżeli kilku wierzycieli składa wniosek oprzejęcie, pierwszeństwo przysługuje temu, kto zaoferował cenę wyższą, a przy równych cenach temu, czyja należność jest większa.
 
 **Art. 111j.**
 
-§ 1. Je˝eli po drugiej licytacji ˝aden zwierzycieli lub wspó∏w∏aÊcicieli nie przejà∏ nieruchomoÊci na w∏asnoÊç, organ egzekucyjny wyznacza trzecià licytacj´, na której cena wywo∏awcza wynosi 65% oszacowanej wartoÊci nieruchomoÊci.
+§ 1. Jeżeli po drugiej licytacji żaden zwierzycieli lub współwłaścicieli nie przejął nieruchomości na własność, organ egzekucyjny wyznacza trzecią licytację, na której cena wywoławcza wynosi 65% oszacowanej wartości nieruchomości.
 
-§ 2. Je˝eli nikt nie przystàpi∏ do trzeciej licytacji, przej´cie nieruchomoÊci na by, októrych mowa wart. 111i§ 2, za cen´ nie ni˝szà od 65% wartoÊci nieruchomoÊci. Do przej´cia nieruchomoÊci na w∏asnoÊç stosuje si´ odpowiednio przepisy art. 111i§ 3 i4.
+§ 2. Jeżeli nikt nie przystąpił do trzeciej licytacji, przejęcie nieruchomości na by, októrych mowa wart. 111i§ 2, za cenę nie niższą od 65% wartości nieruchomości. Do przejęcia nieruchomości na własność stosuje się odpowiednio przepisy art. 111i§ 3 i4.
 
 **Art. 111k.**
 
-§ 1. Je˝eli po trzeciej licytacji ˝aden zwierzycieli nie przejà∏ nieruchomoÊci na w∏asnoÊç, post´powanie egzekucyjne umarza si´. Nowa egzekucja z tej samej nieruchomoÊci mo˝e byç wszcz´ta dopiero po up∏ywie 12 miesi´cy od dnia uprawomocnienia si´ postanowienia o umorzeniu egzekucji.
+§ 1. Jeżeli po trzeciej licytacji żaden zwierzycieli nie przejął nieruchomości na własność, postępowanie egzekucyjne umarza się. Nowa egzekucja z tej samej nieruchomości może być wszczęta dopiero po upływie 12 miesięcy od dnia uprawomocnienia się postanowienia o umorzeniu egzekucji.
 
-§ 2. Je˝eli wniosek o wszcz´cie nowej egzekucji z∏o˝ono przed up∏ywem 3 lat od trzeciej licytacji, organ egzekucyjny dokonuje nowego opisu i oszacowania wartoÊci nieruchomoÊci tylko na wniosek wierzyciela lub zobowiàzanego. Zobowiàzany w∏asnoÊç mo˝e nastàpiç przez osomo˝e z∏o˝yç taki wniosek przed up∏ywem 14 dni od dnia ponownego dor´czenia mu wezwania do zap∏aty, o czym nale˝y go uprzedziç przy dor´czeniu wezwania.
+§ 2. Jeżeli wniosek o wszczęcie nowej egzekucji złożono przed upływem 3 lat od trzeciej licytacji, organ egzekucyjny dokonuje nowego opisu i oszacowania wartości nieruchomości tylko na wniosek wierzyciela lub zobowiązanego. Zobowiązany własność może nastąpić przez osomoże złożyć taki wniosek przed upływem 14 dni od dnia ponownego doręczenia mu wezwania do zapłaty, o czym należy go uprzedzić przy doręczeniu wezwania.
 
-**Art. 111l.** Skarg´ na czynnoÊci poborcy skarbowego w toku licytacji a˝ do jej zamkni´cia zg∏asza si´ ustnie komornikowi skarbowemu, który przyjmuje skarg´ do protoko∏u inatychmiast jà rozstrzyga, chyba ˝e nie jest to mo˝liwe. Rozstrzygni´cie komornika skarbowego ma moc postanowienia, na które przys∏uguje za˝alenie. Oddzia∏ 7. Przybicie
+**Art. 111l.** Skargę na czynności poborcy skarbowego w toku licytacji aż do jej zamknięcia zgłasza się ustnie komornikowi skarbowemu, który przyjmuje skargę do protokołu inatychmiast ją rozstrzyga, chyba że nie jest to możliwe. Rozstrzygnięcie komornika skarbowego ma moc postanowienia, na które przysługuje zażalenie.
+
+##### Oddział 7. Przybicie
 
 **Art. 111m.**
 
-§ 1. Po zamkni´ciu licytacji organ egzekucyjny wydaje postanowienie oprzybiciu na rzecz licytanta, który zaoferowa∏ najwy˝szà cen´.
+§ 1. Po zamknięciu licytacji organ egzekucyjny wydaje postanowienie oprzybiciu na rzecz licytanta, który zaoferował najwyższą cenę.
 
-§ 2. Postanowienie o przybiciu og∏asza si´ niezw∏ocznie po zamkni´ciu licytacji, zzastrze˝eniem § 3.
+§ 2. Postanowienie o przybiciu ogłasza się niezwłocznie po zamknięciu licytacji, zzastrzeżeniem § 3.
 
-§ 3. Je˝eli skargi lub za˝alenia wniesione w toku post´powania egzekucyjnego nie sà jeszcze ostatecznie rozstrzygni´te, organ egzekucyjny wstrzymuje wydanie postanowienia o przybiciu do czasu ich rozstrzygni´cia.
+§ 3. Jeżeli skargi lub zażalenia wniesione w toku postępowania egzekucyjnego nie są jeszcze ostatecznie rozstrzygnięte, organ egzekucyjny wstrzymuje wydanie postanowienia o przybiciu do czasu ich rozstrzygnięcia.
 
-§ 4. Gdy przej´cie nieruchomoÊci na w∏asnoÊç ma nastàpiç po niedojÊciu do skutku licytacji, organ egzekucyjny udziela przybicia na rzecz przejmujàcego po wys∏uchaniu wnioskodawcy.
+§ 4. Gdy przejęcie nieruchomości na własność ma nastąpić po niedojściu do skutku licytacji, organ egzekucyjny udziela przybicia na rzecz przejmującego po wysłuchaniu wnioskodawcy.
 
-§ 5. Postanowienie o przybiciu zawiera firm´ lub imi´ i nazwisko nabywcy, oznaczenie nieruchomoÊci, dat´ licytacji icen´ nabycia.
+§ 5. Postanowienie o przybiciu zawiera firmę lub imię i nazwisko nabywcy, oznaczenie nieruchomości, datę licytacji icenę nabycia.
 
 **Art. 111n.**
 
-§ 1. Organ egzekucyjny odmawia przybicia, je˝eli ostateczne rozstrzygni´cia skarg lub za˝aleƒ wniesionych w toku post´powania egzekucyjnego potwierdzà naruszenie przepisów post´powania w toku licytacji i je˝eli uchybienia te mog∏y mieç istotny wp∏yw na wynik licytacji.
+§ 1. Organ egzekucyjny odmawia przybicia, jeżeli ostateczne rozstrzygnięcia skarg lub zażaleń wniesionych w toku postępowania egzekucyjnego potwierdzą naruszenie przepisów postępowania w toku licytacji i jeżeli uchybienia te mogły mieć istotny wpływ na wynik licytacji.
 
-§ 2. Organ egzekucyjny odmawia przybicia równie˝ wtedy, gdy post´powanie podlega∏o umorzeniu lub zawieszeniu albo je˝eli uczestnik nie otrzyma∏ zawiadomienia o licytacji, chyba ˝e b´dàc na licytacji, nie wystàpi∏ ze skargà na to uchybienie.
+§ 2. Organ egzekucyjny odmawia przybicia również wtedy, gdy postępowanie podlegało umorzeniu lub zawieszeniu albo jeżeli uczestnik nie otrzymał zawiadomienia o licytacji, chyba że będąc na licytacji, nie wystąpił ze skargą na to uchybienie.
 
-§ 3. Je˝eli organ egzekucyjny odmówi przybicia, wyznacza na wniosek wierzyciela ponownà licytacj´.
+§ 3. Jeżeli organ egzekucyjny odmówi przybicia, wyznacza na wniosek wierzyciela ponowną licytację.
 
 **Art. 111o.**
 
-§ 1. Je˝eli przybicie nie nast´puje niezw∏ocznie po zamkni´ciu licytacji, organ egzekucyjny na wniosek licytanta, który zaoferowa∏ najwy˝szà cen´, mo˝e, w przypadku gdy zarzàdcà jest zobowiàzany, odebraç mu zarzàd i ustanowiç innego zarzàdc´.
+§ 1. Jeżeli przybicie nie następuje niezwłocznie po zamknięciu licytacji, organ egzekucyjny na wniosek licytanta, który zaoferował najwyższą cenę, może, w przypadku gdy zarządcą jest zobowiązany, odebrać mu zarząd i ustanowić innego zarządcę.
 
-§ 2. W sprawie odebrania zarzàdu organ egzekucyjny wydaje postanowienie na wniosek nabywcy. Nabywca mo˝e byç na w∏asne ˝àdanie ustanowiony zarzàdcà, je˝eli oprócz wadium z∏o˝y∏ wgotówce nie mniej ni˝ piàtà cz´Êç ceny nabycia albo je˝eli do tej wysokoÊci przys∏uguje mu prawo zaliczenia swej wierzytelnoÊci na poczet ceny nabycia.
+§ 2. W sprawie odebrania zarządu organ egzekucyjny wydaje postanowienie na wniosek nabywcy. Nabywca może być na własne żądanie ustanowiony zarządcą, jeżeli oprócz wadium złożył wgotówce nie mniej niż piątą część ceny nabycia albo jeżeli do tej wysokości przysługuje mu prawo zaliczenia swej wierzytelności na poczet ceny nabycia.
 
-§ 3. W przypadku wygaÊni´cia skutków przybicia bez równoczesnego umorzenia egzekucji, organ egzekucyjny wydaje postanowienie co do osoby zarzàdcy, je˝eli dotychczasowym zarzàdcà by∏ nabywca.
+§ 3. W przypadku wygaśnięcia skutków przybicia bez równoczesnego umorzenia egzekucji, organ egzekucyjny wydaje postanowienie co do osoby zarządcy, jeżeli dotychczasowym zarządcą był nabywca.
 
-**Art. 111p.** Je˝eli nabywca nie uzyska przyznania w∏asnoÊci, nale˝noÊç przypadajàca jemu z tytu∏u zarzàdu pokrywa si´ z kwot pieni´˝nych z∏o˝onych na poczet ceny poza wadium.
+**Art. 111p.** Jeżeli nabywca nie uzyska przyznania własności, należność przypadająca jemu z tytułu zarządu pokrywa się z kwot pieniężnych złożonych na poczet ceny poza wadium.
 
 **Art. 111r.**
 
-§ 1. Postanowienie o przybiciu dor´cza si´ wierzycielowi, d∏u˝nikowi, nabywcy i osobom, które w toku licytacji zaskar˝y∏y czynnoÊci zwiàzane z udzieleniem przybicia, jak te˝ zarzàdcy, który nie jest d∏u˝nikiem, apostanowienie oodmowie przybicia wierzycielowi, d∏u˝nikowi ilicytantowi, który zaoferowa∏ najwy˝szà cen´.
+§ 1. Postanowienie o przybiciu doręcza się wierzycielowi, dłużnikowi, nabywcy i osobom, które w toku licytacji zaskarżyły czynności związane z udzieleniem przybicia, jak też zarządcy, który nie jest dłużnikiem, apostanowienie oodmowie przybicia wierzycielowi, dłużnikowi ilicytantowi, który zaoferował najwyższą cenę.
 
-§ 2. Na postanowienie organu egzekucyjnego co do przybicia przys∏uguje
+§ 2. Na postanowienie organu egzekucyjnego co do przybicia przysługuje
 
-**Art. 111s.** Je˝eli nabywca nie wykona∏ w terminie warunków licytacyjnych co do zap∏aty ceny, wygasajà skutki przybicia. Uiszczonà cz´Êç ceny zwraca si´. Nast´pstwa te organ egzekucyjny stwierdza postanowieniem, na które przys∏uguje za˝alenie.
+**Art. 111s.** Jeżeli nabywca nie wykonał w terminie warunków licytacyjnych co do zapłaty ceny, wygasają skutki przybicia. Uiszczoną część ceny zwraca się. Następstwa te organ egzekucyjny stwierdza postanowieniem, na które przysługuje zażalenie.
 
-**Art. 111t.** Wyznaczenie ponownej licytacji mo˝e nastàpiç, gdy postanowienie stwierdzajàce wygaÊni´cie przybicia stanie si´ ostateczne. Oddzia∏ 8. Przyznanie w∏asnoÊci
+**Art. 111t.** Wyznaczenie ponownej licytacji może nastąpić, gdy postanowienie stwierdzające wygaśnięcie przybicia stanie się ostateczne.
+
+##### Oddział 8. Przyznanie własności
 
 **Art. 112.**
 
-§ 1. Z chwilà gdy postanowienie o przybiciu sta∏o si´ ostateczne, organ egzekucyjny wzywa licytanta, który uzyska∏ przybicie, aby wterminie 14 dni od otrzymania wezwania z∏o˝y∏ do depozytu organu egzekucyjnego cen´ nabycia zpotràceniem wadium z∏o˝onego w gotówce. Na wniosek za˝alenie. nabywcy organ egzekucyjny mo˝e wyznaczyç d∏u˝szy termin uiszczenia ceny nabycia, nieprzekraczajàcy jednak 3 miesi´cy.
+§ 1. Z chwilą gdy postanowienie o przybiciu stało się ostateczne, organ egzekucyjny wzywa licytanta, który uzyskał przybicie, aby wterminie 14 dni od otrzymania wezwania złożył do depozytu organu egzekucyjnego cenę nabycia zpotrąceniem wadium złożonego w gotówce. Na wniosek zażalenie. nabywcy organ egzekucyjny może wyznaczyć dłuższy termin uiszczenia ceny nabycia, nieprzekraczający jednak 3 miesięcy.
 
-§ 2. Nabywca mo˝e zaliczyç na poczet ceny w∏asnà wierzytelnoÊç lub jej cz´Êç, je˝eli znajduje ona pokrycie wcenie nabycia.
+§ 2. Nabywca może zaliczyć na poczet ceny własną wierzytelność lub jej część, jeżeli znajduje ona pokrycie wcenie nabycia.
 
-§ 3. Za zgodà wierzyciela, którego wierzytelnoÊç znajduje pokrycie wcenie nabycia, nabywca mo˝e t´ wierzytelnoÊç zaliczyç na poczet ceny. Zgoda wierzyciela stwierdzona jest dokumentem z podpisem urz´dowo lub notarialnie poÊwiadczonym albo wyra˝ona do protoko∏u nie póêniej ni˝ w terminie, w którym nabywca ma obowiàzek uiÊciç cen´ nabycia.
+§ 3. Za zgodą wierzyciela, którego wierzytelność znajduje pokrycie wcenie nabycia, nabywca może tę wierzytelność zaliczyć na poczet ceny. Zgoda wierzyciela stwierdzona jest dokumentem z podpisem urzędowo lub notarialnie poświadczonym albo wyrażona do protokołu nie póêniej niż w terminie, w którym nabywca ma obowiązek uiścić cenę nabycia.
 
-**Art. 112a.** Kwota przypadajàca zobowiàzanemu w chwili zaj´cia na podstawie umowy ubezpieczenia przechodzi na nabywc´ w ca∏oÊci. O kwot´ t´ podwy˝sza si´ cen´ nabycia.
+**Art. 112a.** Kwota przypadająca zobowiązanemu w chwili zajęcia na podstawie umowy ubezpieczenia przechodzi na nabywcę w całości. O kwotę tę podwyższa się cenę nabycia.
 
 **Art. 112b.**
 
-§ 1. Je˝eli postanowienie o przybiciu sta∏o si´ ostateczne inabywca uiÊci∏ cen´ nabycia albo postanowienie o ustaleniu ceny nabycia sta∏o si´ ostateczne i jednostka lub osoba, októrych mowa wart. 110n, uregulowa∏a ca∏à cen´ nabycia, organ egzekucyjny wydaje postanowienie oprzyznaniu w∏asnoÊci.
+§ 1. Jeżeli postanowienie o przybiciu stało się ostateczne inabywca uiścił cenę nabycia albo postanowienie o ustaleniu ceny nabycia stało się ostateczne i jednostka lub osoba, októrych mowa wart. 110n, uregulowała całą cenę nabycia, organ egzekucyjny wydaje postanowienie oprzyznaniu własności.
 
-§ 2. Na postanowienie oprzyznaniu w∏asnoÊci przys∏uguje za˝alenie.
+§ 2. Na postanowienie oprzyznaniu własności przysługuje zażalenie.
 
-§ 3. Postanowienie o przyznaniu w∏asnoÊci, które sta∏o si´ ostateczne, przenosi w∏asnoÊç na nabywc´ ijest tytu∏em do ujawnienia na rzecz nabywcy prawa w∏asnoÊci w katastrze nieruchomoÊci oraz przez wpis w ksi´dze wieczystej lub podlega z∏o˝eniu do zbioru dokumentów. Postanowienie oprzyznaniu w∏asnoÊci jest tak˝e tytu∏em egzekucyjnym do wprowadzenia nabywcy w posiadanie nieruchomoÊci.
+§ 3. Postanowienie o przyznaniu własności, które stało się ostateczne, przenosi własność na nabywcę ijest tytułem do ujawnienia na rzecz nabywcy prawa własności w katastrze nieruchomości oraz przez wpis w księdze wieczystej lub podlega złożeniu do zbioru dokumentów. Postanowienie oprzyznaniu własności jest także tytułem egzekucyjnym do wprowadzenia nabywcy w posiadanie nieruchomości.
 
-§ 4. Zchwilà kiedy postanowienie oprzyznaniu w∏asnoÊci sta∏o si´ ostateczne, do nabywcy nale˝à po˝ytki znieruchomoÊci. Od tej chwili nabywca ponosi równie˝ daniny publiczne przypadajàce z nieruchomoÊci, których p∏atnoÊç przypada w dniu, w którym postanowienie o przyznaniu w∏asnoÊci sta∏o si´ ostateczne, lub po tym dniu.
+§ 4. Zchwilą kiedy postanowienie oprzyznaniu własności stało się ostateczne, do nabywcy należą pożytki znieruchomości. Od tej chwili nabywca ponosi również daniny publiczne przypadające z nieruchomości, których płatność przypada w dniu, w którym postanowienie o przyznaniu własności stało się ostateczne, lub po tym dniu.
 
-§ 5. Przepisy § 4 nie uchybiajà przepisom podatkowym.
+§ 5. Przepisy § 4 nie uchybiają przepisom podatkowym.
 
 **Art. 112c.**
 
-§ 1. Z chwilà gdy postanowienie o przyznaniu w∏asnoÊci staje si´ ostateczne, wygasajà wszelkie prawa iskutki ujawnienia praw i roszczeƒ osobistych, cià˝àce na nieruchomoÊci. W miejsce tych praw powstaje prawo do zaspokojenia z ceny nabycia wkolejnoÊci przewidzianej wprzepisach o podziale kwoty uzyskanej zegzekucji.
+§ 1. Z chwilą gdy postanowienie o przyznaniu własności staje się ostateczne, wygasają wszelkie prawa iskutki ujawnienia praw i roszczeń osobistych, ciążące na nieruchomości. W miejsce tych praw powstaje prawo do zaspokojenia z ceny nabycia wkolejności przewidzianej wprzepisach o podziale kwoty uzyskanej zegzekucji.
 
-§ 2. Pozostajà w mocy bez potràcenia ich wartoÊci zceny nabycia:
+§ 2. Pozostają w mocy bez potrącenia ich wartości zceny nabycia:
 
-- **1)** prawa cià˝àce na nieruchomoÊci zmocy ustawy,
-- **2)** s∏u˝ebnoÊci, o których mowa wart. 1000 § 2 Kodeksu post´powania cywilnego.
+- **1)** prawa ciążące na nieruchomości zmocy ustawy,
+- **2)** służebności, o których mowa wart. 1000 § 2 Kodeksu postępowania cywilnego.
 
-§ 3. Pozostajà równie˝ wmocy ujawnione przez wpis w ksi´dze wieczystej lub przez z∏o˝enie dokumentu do zbioru albo nieujawnione wten sposób, lecz zg∏oszone najpóêniej na 3 dni przed terminem licytacji u˝ytkowanie, s∏u˝ebnoÊci i prawa do˝ywotnika, je˝eli przys∏uguje im pierwszeƒstwo przed wszystkimi hipotekami lub je˝eli nieruchomoÊç nie jest obcià˝ona hipotekami albo je˝eli wartoÊç u˝ytkowania, s∏u˝ebnoÊci lub praw do˝ywotnika znajduje pe∏ne pokrycie w cenie nabycia. Jednak˝e w ostatnim przypadku wartoÊç tych praw b´dzie zaliczona na cen´ nabycia.
+§ 3. Pozostają również wmocy ujawnione przez wpis w księdze wieczystej lub przez złożenie dokumentu do zbioru albo nieujawnione wten sposób, lecz zgłoszone najpóêniej na 3 dni przed terminem licytacji użytkowanie, służebności i prawa dożywotnika, jeżeli przysługuje im pierwszeństwo przed wszystkimi hipotekami lub jeżeli nieruchomość nie jest obciążona hipotekami albo jeżeli wartość użytkowania, służebności lub praw dożywotnika znajduje pełne pokrycie w cenie nabycia. Jednakże w ostatnim przypadku wartość tych praw będzie zaliczona na cenę nabycia.
 
-**Art. 112d.** Na wniosek w∏aÊciciela nieruchomoÊci w∏adnàcej, zg∏oszony najpóêniej na 3 dni przed terminem licytacji, organ egzekucyjny mo˝e postanowiç, ˝e s∏u˝ebnoÊç gruntowa, która nie znajduje pe∏nego pokrycia w cenie nabycia, b´dzie utrzymana w mocy, je˝eli jest dla nierucho˝a w sposób istotny wartoÊci nieruchomoÊci obcià˝onej.
+**Art. 112d.** Na wniosek właściciela nieruchomości władnącej, zgłoszony najpóêniej na 3 dni przed terminem licytacji, organ egzekucyjny może postanowić, że służebność gruntowa, która nie znajduje pełnego pokrycia w cenie nabycia, będzie utrzymana w mocy, jeżeli jest dla nieruchoża w sposób istotny wartości nieruchomości obciążonej.
 
-**Art. 112e.** Z chwilà gdy postanowienie o przyznaniu w∏asnoÊci sta∏o si´ ostateczne, nabywca wst´puje wprawa iobowiàzki zobowiàzanego wynikajàce z umów dotyczàcych nieruchomoÊci stosownie do przepisów prawa normujàcych te umowy.
+**Art. 112e.** Z chwilą gdy postanowienie o przyznaniu własności stało się ostateczne, nabywca wstępuje wprawa iobowiązki zobowiązanego wynikające z umów dotyczących nieruchomości stosownie do przepisów prawa normujących te umowy.
 
 **Art. 112f.**
 
-§ 1. Postanowienie oprzyznaniu w∏asnoÊci, które sta∏o si´ ostateczne, wraz z planem podzia∏u kwoty uzyskanej zegzekucji jest tytu∏em do wykreÊlenia w ksi´dze wieczystej lub w zbiorze dokumentów wszelkich praw, które wed∏ug planu podzia∏u wygas∏y.
+§ 1. Postanowienie oprzyznaniu własności, które stało się ostateczne, wraz z planem podziału kwoty uzyskanej zegzekucji jest tytułem do wykreślenia w księdze wieczystej lub w zbiorze dokumentów wszelkich praw, które według planu podziału wygasły.
 
-§ 2. Na podstawie postanowienia oprzyznaniu w∏asnoÊci wykreÊla si´ wszystkie hipoteki obejmujàce nieruchomoÊç, je˝eli w postanowieniu moÊci w∏adnàcej konieczna, anie obciàstwierdzono zap∏acenie przez nabywc´ ca∏ej ceny nabycia gotówkà lub czekiem potwierdzonym.
+§ 2. Na podstawie postanowienia oprzyznaniu własności wykreśla się wszystkie hipoteki obejmujące nieruchomość, jeżeli w postanowieniu mości władnącej konieczna, anie obciąstwierdzono zapłacenie przez nabywcę całej ceny nabycia gotówką lub czekiem potwierdzonym.
 
-**Art. 112g.** Nabywca nie mo˝e ˝àdaç uniewa˝nienia nabycia ani zmniejszenia ceny zpowodu wad nieruchomoÊci lub przedmiotów razem znià nabytych. Rozdzia∏ 8 Egzekucja zu∏amkowej cz´Êci nieruchomoÊci oraz u˝ytkowania wieczystego
+**Art. 112g.** Nabywca nie może żądać unieważnienia nabycia ani zmniejszenia ceny zpowodu wad nieruchomości lub przedmiotów razem znią nabytych.
 
-**Art. 114.** Do egzekucji z u∏amkowej cz´Êci nieruchomoÊci i do egzekucji z u˝ytkowania wieczystego stosuje si´ odpowiednio przepisy o egzekucji z nieruchomoÊci, o ile przepisy niniejszego rozdzia∏u nie stanowià inaczej.
+#### Rozdział 8 Egzekucja zułamkowej części nieruchomości oraz użytkowania wieczystego
 
-**Art. 114a.** Ozaj´ciu u∏amkowej cz´Êci nieruchomoÊci organ egzekucyjny zawiadamia tak˝e pozosta∏ych wspó∏w∏aÊcicieli, aozaj´ciu u˝ytkowania wieczystego tak˝e w∏aÊciciela nieruchomoÊci oraz w∏aÊciwy organ administracji publicznej.
+**Art. 114.** Do egzekucji z ułamkowej części nieruchomości i do egzekucji z użytkowania wieczystego stosuje się odpowiednio przepisy o egzekucji z nieruchomości, o ile przepisy niniejszego rozdziału nie stanowią inaczej.
+
+**Art. 114a.** Ozajęciu ułamkowej części nieruchomości organ egzekucyjny zawiadamia także pozostałych współwłaścicieli, aozajęciu użytkowania wieczystego także właściciela nieruchomości oraz właściwy organ administracji publicznej.
 
 **Art. 114b.**
 
-§ 1. Je˝eli przedmiotem egzekucji jest u˝ytkowanie wieczyste, zaj´cie obejmuje u˝ytkowanie wieczyste gruntu wraz zjego po˝ytkami oraz znajdujàce si´ na gruncie obiekty budowlane stanowiàce w∏asnoÊç u˝ytkownika wieczystego wraz z:
+§ 1. Jeżeli przedmiotem egzekucji jest użytkowanie wieczyste, zajęcie obejmuje użytkowanie wieczyste gruntu wraz zjego pożytkami oraz znajdujące się na gruncie obiekty budowlane stanowiące własność użytkownika wieczystego wraz z:
 
-- **1)** ruchomoÊciami, b´dàcymi w∏asnoÊcià u˝ytkownika wieczystego, apotrzebnymi do korzystania z przedmiotu u˝ytkowania wieczystego zgodnie z jego przeznaczeniem, je˝eli pozostajà z tym przedmiotem w faktycznym zwiàzku, odpowiadajàcym temu celowi,
-- **2)** wyposa˝eniem obiektów budowlanych stanowiàcych w∏asnoÊç u˝ytkownika wieczystego,
-- **3)** prawami wynikajàcymi z umów ubezpieczenia przedmiotów zaj´cia, a tak˝e nale˝noÊciami z tych umów ju˝ przypadajàcymi.
+- **1)** ruchomościami, będącymi własnością użytkownika wieczystego, apotrzebnymi do korzystania z przedmiotu użytkowania wieczystego zgodnie z jego przeznaczeniem, jeżeli pozostają z tym przedmiotem w faktycznym związku, odpowiadającym temu celowi,
+- **2)** wyposażeniem obiektów budowlanych stanowiących własność użytkownika wieczystego,
+- **3)** prawami wynikającymi z umów ubezpieczenia przedmiotów zajęcia, a także należnościami z tych umów już przypadającymi.
 
-§ 2. Zaj´cie obejmuje tak˝e przedmioty, októrych mowa w§ 1 pkt 1 i2, wprowadzone póêniej oraz póêniej wzniesione obiekty budowlane iposadzone roÊliny, jak równie˝ prawa z umów ubezpieczenia póêniej zawartych.
+§ 2. Zajęcie obejmuje także przedmioty, októrych mowa w§ 1 pkt 1 i2, wprowadzone póêniej oraz póêniej wzniesione obiekty budowlane iposadzone rośliny, jak również prawa z umów ubezpieczenia póêniej zawartych.
 
-**Art. 114c.** Gdy przedmiotem zarzàdu jest u∏amkowa cz´Êç nieruchomoÊci, zarzàdca dzia∏a tylko wgranicach uprawnieƒ zobowiàzanego jako wspó∏w∏aÊciciela.
+**Art. 114c.** Gdy przedmiotem zarządu jest ułamkowa część nieruchomości, zarządca działa tylko wgranicach uprawnień zobowiązanego jako współwłaściciela.
 
-**Art. 114d.** Je˝eli egzekucja jest prowadzona zu˝ytkowania wieczystego, post´powanie ulega zawieszeniu, je˝eli w∏aÊciwy organ wystàpi∏ z ˝àdaniem rozwiàzania umowy u˝ytkowania wieczystego. Egzekucja mo˝e byç podj´ta na wniosek wierzyciela, je˝eli sàd orzeknie, ˝e brak jest podstaw do rozwiàzania umowy u˝ytkowania wieczystego. W przypadku rozwiàzania umowy u˝ytkowania wieczystego organ egzekucyjny umarza post´powanie egzekucyjne.
+**Art. 114d.** Jeżeli egzekucja jest prowadzona zużytkowania wieczystego, postępowanie ulega zawieszeniu, jeżeli właściwy organ wystąpił z żądaniem rozwiązania umowy użytkowania wieczystego. Egzekucja może być podjęta na wniosek wierzyciela, jeżeli sąd orzeknie, że brak jest podstaw do rozwiązania umowy użytkowania wieczystego. W przypadku rozwiązania umowy użytkowania wieczystego organ egzekucyjny umarza postępowanie egzekucyjne.
 
-**Art. 114e.** W przypadku prowadzenia egzekucji z u∏amkowej cz´Êci nieruchomoÊci, opisowi ioszacowaniu wartoÊci podlega ca∏a nieruchomoÊç. WartoÊcià takiej cz´Êci nieruchomoÊci jest odpowiednia cz´Êç oszacowanej wartoÊci ca∏ej nieruchomoÊci.
+**Art. 114e.** W przypadku prowadzenia egzekucji z ułamkowej części nieruchomości, opisowi ioszacowaniu wartości podlega cała nieruchomość. Wartością takiej części nieruchomości jest odpowiednia część oszacowanej wartości całej nieruchomości.
 
-**Art. 114f.** Je˝eli egzekucja jest prowadzona z u˝ytkowania wieczystego, wprotokole opisu i oszacowania wartoÊci nieruchomoÊci podaje si´ koƒcowà dat´ u˝ytkowania wieczystego oraz ujawniony w ksi´dze wieczystej sposób korzystania z gruntu przez u˝ytkownika wieczystego.
+**Art. 114f.** Jeżeli egzekucja jest prowadzona z użytkowania wieczystego, wprotokole opisu i oszacowania wartości nieruchomości podaje się końcową datę użytkowania wieczystego oraz ujawniony w księdze wieczystej sposób korzystania z gruntu przez użytkownika wieczystego.
 
-**Art. 114g.** Je˝eli przedmiotem egzekucji jest u˝ytkowanie wieczyste, postanowienie o przyznaniu tego prawa nie narusza ograniczonych praw rzeczowych na nieruchomoÊci powsta∏ych przed jej oddaniem wu˝ytkowanie wieczyste.
+**Art. 114g.** Jeżeli przedmiotem egzekucji jest użytkowanie wieczyste, postanowienie o przyznaniu tego prawa nie narusza ograniczonych praw rzeczowych na nieruchomości powstałych przed jej oddaniem wużytkowanie wieczyste.
 
 **Art. 114h.**
 
-§ 1. Je˝eli przedmiotem licytacji jest u∏amkowa cz´Êç nieruchomoÊci, pozostajà w mocy, bez potràcenia ich wartoÊci z ceny nabycia, obcià˝enia tej cz´Êci u∏amkowej nieruchomoÊci ujawnione przez wpis wksi´dze wieczystej lub przez z∏o˝enie dokumen§ 2. Pozostajà w mocy równie˝ obcià˝enia cz´Êci u∏amkowej nieruchomoÊci nieujawnione w sposób, o którym mowa w§ 1, lecz zg∏oszone najpóêniej na 3 dni przed terminem licytacji, je˝eli zosta∏y ustanowione przed dniem powstania wspó∏w∏asnoÊci.
+§ 1. Jeżeli przedmiotem licytacji jest ułamkowa część nieruchomości, pozostają w mocy, bez potrącenia ich wartości z ceny nabycia, obciążenia tej części ułamkowej nieruchomości ujawnione przez wpis wksiędze wieczystej lub przez złożenie dokumen§ 2. Pozostają w mocy również obciążenia części ułamkowej nieruchomości nieujawnione w sposób, o którym mowa w§ 1, lecz zgłoszone najpóêniej na 3 dni przed terminem licytacji, jeżeli zostały ustanowione przed dniem powstania współwłasności.
 
-**Art. 114i.** Postanowienie o przyznaniu w∏asnoÊci u∏amkowej cz´Êci nieruchomoÊci nie narusza obcià˝ajàcych jà hipotek wpisanych przed powstaniem wspó∏w∏asnoÊci.”;
+**Art. 114i.** Postanowienie o przyznaniu własności ułamkowej części nieruchomości nie narusza obciążających ją hipotek wpisanych przed powstaniem współwłasności.”;
+
+##### Oddział 1. Zasady ogólne
 
 **Art. 115.**
 
-§ 1. Z kwoty uzyskanej z egzekucji zaspokaja si´ wnast´pujàcej kolejnoÊci:
+§ 1. Z kwoty uzyskanej z egzekucji zaspokaja się wnastępującej kolejności:
 
 - **1)** koszty egzekucyjne i koszty upomnienia,
-- **2)** nale˝noÊci zabezpieczone hipotecznie wynikajàce zwierzytelnoÊci banku hipotecznego wpisanych do rejestru zabezpieczenia listów zastawnych prowadzonego zgodnie z przepisami o listach zastawnych ibankach hipotecznych,
-- **3)** nale˝noÊci zabezpieczone hipotecznie lub zastawem rejestrowym albo zabezpieczone przez wpisanie do innego rejestru,
-- **4)** nale˝noÊci, do których stosuje si´ przepisy dzia∏u III Ordynacji podatkowej, oraz nale˝noÊci z tytu∏u sk∏adek na ubezpieczenie spo∏eczne, o ile nie zosta∏y zaspokojone wtrzeciej kolejnoÊci,
-- **5)** nale˝noÊci zabezpieczone prawem zastawu lub które korzysta∏y zustawowego pierwszeƒstwa, niewymienionego wpkt 2—4,
-- **6)** inne nale˝noÊci iodsetki, zzastrze˝eniem § 3.
+- **2)** należności zabezpieczone hipotecznie wynikające zwierzytelności banku hipotecznego wpisanych do rejestru zabezpieczenia listów zastawnych prowadzonego zgodnie z przepisami o listach zastawnych ibankach hipotecznych,
+- **3)** należności zabezpieczone hipotecznie lub zastawem rejestrowym albo zabezpieczone przez wpisanie do innego rejestru,
+- **4)** należności, do których stosuje się przepisy działu III Ordynacji podatkowej, oraz należności z tytułu składek na ubezpieczenie społeczne, o ile nie zostały zaspokojone wtrzeciej kolejności,
+- **5)** należności zabezpieczone prawem zastawu lub które korzystały zustawowego pierwszeństwa, niewymienionego wpkt 2—4,
+- **6)** inne należności iodsetki, zzastrzeżeniem § 3.
 
-§ 2. Przy podziale kwoty uzyskanej zegzekucji z nieruchomoÊci lub egzekucji przej´tej po wystàpieniu zbiegu egzekucji administracyjnej z sàdowà, po kosztach egzekucyjnych i kosztach upomnienia zaspokaja si´ nale˝noÊci alimentacyjne, a nast´pnie nale˝noÊci za prac´ za okres 3 miesi´cy do wysokoÊci najni˝szego wynagrodzetu do zbioru dokumentów. nia za prac´ okreÊlonego w odr´bnych przepisach oraz renty z tytu∏u odszkodowania za wywo∏anie choroby, niezdolnoÊci do pracy, kalectwa lub Êmierci ikoszty zwyk∏ego pogrzebu zobowiàzanego, a po nale˝noÊciach zabezpieczonych hipotecznie lub zastawem rejestrowym albo zabezpieczonych przez wpisanie do innego rejestru prowadzonego na podstawie odr´bnych przepisów nale˝noÊci za prac´ niezaspokojone wkolejnoÊci wczeÊniejszej.
+§ 2. Przy podziale kwoty uzyskanej zegzekucji z nieruchomości lub egzekucji przejętej po wystąpieniu zbiegu egzekucji administracyjnej z sądową, po kosztach egzekucyjnych i kosztach upomnienia zaspokaja się należności alimentacyjne, a następnie należności za pracę za okres 3 miesięcy do wysokości najniższego wynagrodzetu do zbioru dokumentów. nia za pracę określonego w odrębnych przepisach oraz renty z tytułu odszkodowania za wywołanie choroby, niezdolności do pracy, kalectwa lub śmierci ikoszty zwykłego pogrzebu zobowiązanego, a po należnościach zabezpieczonych hipotecznie lub zastawem rejestrowym albo zabezpieczonych przez wpisanie do innego rejestru prowadzonego na podstawie odrębnych przepisów należności za pracę niezaspokojone wkolejności wcześniejszej.
 
-§ 3. Odsetki za zw∏ok´ od nale˝noÊci pieni´˝nych, do których majà zastosowanie przepisy dzia∏u III ustawy Ordynacja podatkowa, zaspokaja si´ w kolejnoÊci okreÊlonej dla tych nale˝noÊci.
+§ 3. Odsetki za zwłokę od należności pieniężnych, do których mają zastosowanie przepisy działu III ustawy Ordynacja podatkowa, zaspokaja się w kolejności określonej dla tych należności.
 
-§ 4. Je˝eli przedmiotem egzekucji jest w∏asnoÊciowe spó∏dzielcze prawo do lokalu mieszkalnego, spó∏dzielcze prawo do lokalu u˝ytkowego lub prawo do domu jednorodzinnego w spó∏dzielni mieszkaniowej, wierzytelnoÊç spó∏dzielni mieszkaniowej z tytu∏u niewniesionego wk∏adu budowlanego zwiàzana z tym prawem zaspokaja si´ przed nale˝noÊcià zabezpieczonà hipotecznie na tym prawie.
+§ 4. Jeżeli przedmiotem egzekucji jest własnościowe spółdzielcze prawo do lokalu mieszkalnego, spółdzielcze prawo do lokalu użytkowego lub prawo do domu jednorodzinnego w spółdzielni mieszkaniowej, wierzytelność spółdzielni mieszkaniowej z tytułu niewniesionego wkładu budowlanego związana z tym prawem zaspokaja się przed należnością zabezpieczoną hipotecznie na tym prawie.
 
-§ 5. Nale˝noÊci wymienione w§ 1 pkt 2, 3 i5 zaspokaja si´ do wysokoÊci kwoty uzyskanej ze sprzeda˝y rzeczy obcià˝onej hipotekà lub zastawem albo z realizacji prawa zbywalnego obcià˝onego. Je˝eli kwota uzyskana ze sprzeda˝y nie wystarcza na zaspokojenie wszystkich zabezpieczonych nale˝noÊci, nale˝noÊci te zaspokaja si´ wkolejnoÊci odpowiadajàcej przys∏ugujàcemu im pierwszeƒstwu, a je˝eli majà równe pierwszeƒstwo albo nie stosuje si´ do nich zasady pierwszeƒstwa proporcjonalnie w stosunku, wjakim pozostajà do siebie.
+§ 5. Należności wymienione w§ 1 pkt 2, 3 i5 zaspokaja się do wysokości kwoty uzyskanej ze sprzedaży rzeczy obciążonej hipoteką lub zastawem albo z realizacji prawa zbywalnego obciążonego. Jeżeli kwota uzyskana ze sprzedaży nie wystarcza na zaspokojenie wszystkich zabezpieczonych należności, należności te zaspokaja się wkolejności odpowiadającej przysługującemu im pierwszeństwu, a jeżeli mają równe pierwszeństwo albo nie stosuje się do nich zasady pierwszeństwa proporcjonalnie w stosunku, wjakim pozostają do siebie.
 
-§ 6. Je˝eli kwota przeznaczona do podzia∏u nie wystarcza na zaspokojenie w ca∏oÊci wszystkich nale˝noÊci, nale˝noÊci dalszej kolejnoÊci zaspokaja si´ dopiero po zupe∏nym zaspokojeniu nale˝noÊci wczeÊniejszej kolejnoÊci, agdy kwota nie wystarcza na pokrycie w ca∏oÊci wszystkich nale˝noÊci tej samej kolejnoÊci, nale˝noÊci te zaspokaja si´ proporcjonalnie do wysokoÊci ka˝dej znich.
+§ 6. Jeżeli kwota przeznaczona do podziału nie wystarcza na zaspokojenie w całości wszystkich należności, należności dalszej kolejności zaspokaja się dopiero po zupełnym zaspokojeniu należności wcześniejszej kolejności, agdy kwota nie wystarcza na pokrycie w całości wszystkich należności tej samej kolejności, należności te zaspokaja się proporcjonalnie do wysokości każdej znich.
 
-**Art. 115a.** Je˝eli nast´puje podzia∏ kwoty uzyskanej ze sprzeda˝y rzeczy lub z realizacji prawa zbywalnego, do których wystàpi∏ zbieg egzekucji, organ egzekucyjny wydaje postanowienie w sprawie podzia∏u kwoty uzyskanej z egzekucji, na które Oddzia∏ 2. Zasady szczególne dotyczàce podzia∏u kwoty uzyskanej zegzekucji znieruchomoÊci
+**Art. 115a.** Jeżeli następuje podział kwoty uzyskanej ze sprzedaży rzeczy lub z realizacji prawa zbywalnego, do których wystąpił zbieg egzekucji, organ egzekucyjny wydaje postanowienie w sprawie podziału kwoty uzyskanej z egzekucji, na które
 
-**Art. 115b.** Organ egzekucyjny sporzàdza plan podzia∏u kwoty uzyskanej ze sprzeda˝y nieruchomoÊci niezw∏ocznie, gdy postanowienie oprzyznaniu w∏asnoÊci nieruchomoÊci staje si´ ostateczne.
+##### Oddział 2. Zasady szczególne dotyczące podziału kwoty uzyskanej zegzekucji znieruchomości
 
-**Art. 115c.** W podziale kwoty uzyskanej ze sprzeda˝y nieruchomoÊci oprócz wierzyciela egzekwujàcego uczestniczà:
+**Art. 115b.** Organ egzekucyjny sporządza plan podziału kwoty uzyskanej ze sprzedaży nieruchomości niezwłocznie, gdy postanowienie oprzyznaniu własności nieruchomości staje się ostateczne.
+
+**Art. 115c.** W podziale kwoty uzyskanej ze sprzedaży nieruchomości oprócz wierzyciela egzekwującego uczestniczą:
 
 **Art. 115d.**
 
-§ 1. Je˝eli przy sporzàdzaniu planu podzia∏u oka˝e si´, ˝e nabywca, uiszczajàc cen´, potràci∏ wierzytelnoÊç, która si´ wniej nie mieÊci, organ egzekucyjny postanowieniem zobowiàzuje nabywc´ do uzupe∏nienia ceny w terminie 7 dni. Na postanowienie to przys∏uguje za˝alenie.
+§ 1. Jeżeli przy sporządzaniu planu podziału okaże się, że nabywca, uiszczając cenę, potrącił wierzytelność, która się wniej nie mieści, organ egzekucyjny postanowieniem zobowiązuje nabywcę do uzupełnienia ceny w terminie 7 dni. Na postanowienie to przysługuje zażalenie.
 
-§ 2. W planie podzia∏u organ egzekucyjny wymienia osoby, dla których jest przeznaczona kwota przypadajàca od nabywcy. W tej cz´Êci plan podzia∏u stanowi dla nich tytu∏ egzekucyjny przeciwko nabywcy.
+§ 2. W planie podziału organ egzekucyjny wymienia osoby, dla których jest przeznaczona kwota przypadająca od nabywcy. W tej części plan podziału stanowi dla nich tytuł egzekucyjny przeciwko nabywcy.
 
-§ 3. Wierzyciel, któremu przys∏uguje roszczenie przeciwko nabywcy, nabywa z mocy prawa hipotek´ na sprzedanej nieruchomoÊci. Ujawnienie hipoteki wksi´dze wieczystej lub wzbiorze dokumentów nast´puje na wniosek wierzyciela.
+§ 3. Wierzyciel, któremu przysługuje roszczenie przeciwko nabywcy, nabywa z mocy prawa hipotekę na sprzedanej nieruchomości. Ujawnienie hipoteki wksiędze wieczystej lub wzbiorze dokumentów następuje na wniosek wierzyciela.
 
-**Art. 115e.** Je˝eli hipoteka kaucyjna nie jest wyczerpana i mo˝e jeszcze s∏u˝yç zabezpieczeniu wierzyciela, reszta kwoty pozostaje wdepozycie organu egzekucyjnego a˝ do ustania stosunku prawnego uzasadniajàcego korzystanie zhipoteki kaucyjnej.
+**Art. 115e.** Jeżeli hipoteka kaucyjna nie jest wyczerpana i może jeszcze służyć zabezpieczeniu wierzyciela, reszta kwoty pozostaje wdepozycie organu egzekucyjnego aż do ustania stosunku prawnego uzasadniającego korzystanie zhipoteki kaucyjnej.
 
-**Art. 115f.** Je˝eli wierzytelnoÊç jest zabezpieczona na kilku nieruchomoÊciach ∏àcznie, wierzyciel powinien przed uprawomocnieniem si´ postanowienia o przyznaniu w∏asnoÊci z∏o˝yç oÊwiadczenie, czy iwjakiej wysokoÊci ˝àda zaspokojenia z ka˝dej ze sprzedanych nieruchomoÊci. Je˝eli wpowy˝szym terminie tego nie uczyni, apodzielona ma byç suma uzyskana tylko z jednej nieruchomoÊci, jego wierzytelnoÊç przyjmuje si´ do rozrachunku w ca∏oÊci; je˝eli natomiast podzia∏owi podlegajà kwoty uzyskane ze sprzeda˝y kilku ∏àcznie obcià˝onych nieruchomoÊci, na wierzytelnoÊç ∏àcznie zabezpieczonà przypada zka˝dej zkwot podlegajàcych podzia∏owi taka cz´Êç, jaka odpowiada stosunkowi kwoty pozostajàcej po zaspokojeniu nale˝noÊci z wczeÊniejszà kolejnoÊcià do sumy tych kwot.
+**Art. 115f.** Jeżeli wierzytelność jest zabezpieczona na kilku nieruchomościach łącznie, wierzyciel powinien przed uprawomocnieniem się postanowienia o przyznaniu własności złożyć oświadczenie, czy iwjakiej wysokości żąda zaspokojenia z każdej ze sprzedanych nieruchomości. Jeżeli wpowyższym terminie tego nie uczyni, apodzielona ma być suma uzyskana tylko z jednej nieruchomości, jego wierzytelność przyjmuje się do rozrachunku w całości; jeżeli natomiast podziałowi podlegają kwoty uzyskane ze sprzedaży kilku łącznie obciążonych nieruchomości, na wierzytelność łącznie zabezpieczoną przypada zkażdej zkwot podlegających podziałowi taka część, jaka odpowiada stosunkowi kwoty pozostającej po zaspokojeniu należności z wcześniejszą kolejnością do sumy tych kwot.
 
 **Art. 115g.**
 
-§ 1. Kwot´ wydzielonà na zaspokojenie wierzytelnoÊci, której uiszczenie jest zale˝ne od warunku zawieszajàcego albo od wyniku sporu, w którym wierzyciel uzyska∏ zabezpieczenie powództwa, pozostawia si´ wdepozycie organu egzekucyjnego.
+§ 1. Kwotę wydzieloną na zaspokojenie wierzytelności, której uiszczenie jest zależne od warunku zawieszającego albo od wyniku sporu, w którym wierzyciel uzyskał zabezpieczenie powództwa, pozostawia się wdepozycie organu egzekucyjnego.
 
-§ 2. Kwot´ wydzielonà na zaspokojenie wierzytelnoÊci, której uiszczenie jest zale˝ne od warunku rozwiàzujàcego, wydaje si´ wierzycielowi bez zabezpieczenia. Je˝eli jednak obowiàzek zabezpieczenia zwrotu cià˝y na wierzycielu zmocy istniejàcego mi´dzy nim a zobowiàzanym stosunku prawnego, organ egzekucyjny pozostawia wydzielonà kwot´ wdepozycie organu egzekucyjnego.”;
+§ 2. Kwotę wydzieloną na zaspokojenie wierzytelności, której uiszczenie jest zależne od warunku rozwiązującego, wydaje się wierzycielowi bez zabezpieczenia. Jeżeli jednak obowiązek zabezpieczenia zwrotu ciąży na wierzycielu zmocy istniejącego między nim a zobowiązanym stosunku prawnego, organ egzekucyjny pozostawia wydzieloną kwotę wdepozycie organu egzekucyjnego.”;
 
-- **80)** skreÊla si´ art. 116;
-- **81)** wart. 117 wyrazy „art. 116 pkt 2, 3 i5” zast´puje si´ wyrazami „art. 1a pkt 12 lit. b) tiret drugie, trzecie ipiàte”;
-- **82)** wart. 135 wyrazy „art. 64 i65” zast´puje si´ wyrazami „art. 64c—65”;
-- **83)** wart. 142 skreÊla si´ wyrazy „(art. 31)”;
-- **84)** w art. 151 wyrazy „art. 116” zast´puje si´ wyrazami „art. 1apkt 12 lit. b)”;
+- **80)** skreśla się art. 116;
+- **81)** wart. 117 wyrazy Ńart. 116 pkt 2, 3 i5” zastępuje się wyrazami Ńart. 1a pkt 12 lit. b) tiret drugie, trzecie ipiąte”;
+- **82)** wart. 135 wyrazy Ńart. 64 i65” zastępuje się wyrazami Ńart. 64c—65”;
+- **83)** wart. 142 skreśla się wyrazy Ń(art. 31)”;
+- **84)** w art. 151 wyrazy Ńart. 116” zastępuje się wyrazami Ńart. 1apkt 12 lit. b)”;
 - **85)** wart. 154:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Organ egzekucyjny dokonuje zabezpieczenia nale˝noÊci pieni´˝nej lub wykonania obowiàzku o charakterze niepieni´˝nym, je˝eli brak zabezpieczenia móg∏by utrudniç lub udaremniç egzekucj´, w szczególnoÊci je˝eli stwierdzono: brak p∏ynnoÊci finansowej zobowiàzanego, unikanie wykonania przez zobowiàzanebowiàzaƒ powstajàcych z mocy prawa lub nierzetelne prowadzenie ksiàg podatkowych, dokonywanie przez zobowiàzanego wyprzeda˝y majàtku.”,
-    - **b)** § 4 otrzymuje brzmienie: „§ 4. Zaj´cie zabezpieczajàce przekszta∏ca si´ w zaj´cie egzekucyjne z dniem wygaÊni´cia decyzji, o którym mowa w art. 33 § 4 ustawy Ordynacja podatkowa, pod warunkiem ˝e organ podatkowy wystawi tytu∏ wykonawczy nie póêniej ni˝ przed up∏ywem 14 dni od dnia wygaÊni´cia decyzji lub od dnia dor´czenia upomnienia, je˝eli dor´czenie to by∏o wymagane.”;
+    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Organ egzekucyjny dokonuje zabezpieczenia należności pieniężnej lub wykonania obowiązku o charakterze niepieniężnym, jeżeli brak zabezpieczenia mógłby utrudnić lub udaremnić egzekucję, w szczególności jeżeli stwierdzono: brak płynności finansowej zobowiązanego, unikanie wykonania przez zobowiązanebowiązań powstających z mocy prawa lub nierzetelne prowadzenie ksiąg podatkowych, dokonywanie przez zobowiązanego wyprzedaży majątku.”,
+    - **b)** § 4 otrzymuje brzmienie: Ń§ 4. Zajęcie zabezpieczające przekształca się w zajęcie egzekucyjne z dniem wygaśnięcia decyzji, o którym mowa w art. 33 § 4 ustawy Ordynacja podatkowa, pod warunkiem że organ podatkowy wystawi tytuł wykonawczy nie póêniej niż przed upływem 14 dni od dnia wygaśnięcia decyzji lub od dnia doręczenia upomnienia, jeżeli doręczenie to było wymagane.”;
 
-- **86)** art. 155 otrzymuje brzmienie: „Art. 155. Zabezpieczenie mo˝e byç dokonane równie˝ przed ustaleniem albo okreÊleniem kwoty nale˝noÊci pieni´˝nej lub obowiàzku ocharakterze niepieni´˝nym, go obowiàzku przez nieujawnianie zoje˝eli brak zabezpieczenia móg∏by utrudniç lub udaremniç skuteczne przeprowadzenie egzekucji, aprzepisy odr´bne zezwalajà na takie zabezpieczenie.”;
-- **87)** dodaje si´ art. 155awbrzmieniu: „Art. 155a. § 1. Organ egzekucyjny dokonuje zabezpieczenia na wniosek wierzyciela i na podstawie wydanego przez niego zarzàdzenia zabezpieczenia.
+- **86)** art. 155 otrzymuje brzmienie: ŃArt. 155. Zabezpieczenie może być dokonane również przed ustaleniem albo określeniem kwoty należności pieniężnej lub obowiązku ocharakterze niepieniężnym, go obowiązku przez nieujawnianie zojeżeli brak zabezpieczenia mógłby utrudnić lub udaremnić skuteczne przeprowadzenie egzekucji, aprzepisy odrębne zezwalają na takie zabezpieczenie.”;
+- **87)** dodaje się art. 155awbrzmieniu: ŃArt. 155a. § 1. Organ egzekucyjny dokonuje zabezpieczenia na wniosek wierzyciela i na podstawie wydanego przez niego zarządzenia zabezpieczenia.
 
-§ 2. Wniosek, o którym mowa w § 1, mo˝e równie˝ zg∏osiç:
+§ 2. Wniosek, o którym mowa w § 1, może również zgłosić:
 
 - **1)** inspektor kontroli skarbowej,
-- **2)** dyrektor urz´du celnego wprzypadkach, o których mowa wart.19 § 5 i6, je˝eli dokonane przez niego zabezpieczenie jest niewystarczajàce.
+- **2)** dyrektor urzędu celnego wprzypadkach, o których mowa wart.19 § 5 i6, jeżeli dokonane przez niego zabezpieczenie jest niewystarczające.
 
-§ 3. Je˝eli wniosek o zabezpieczenie jest zg∏aszany po wszcz´ciu albo zakoƒczeniu post´powania podatkowego lub kontrolnego, we wniosku tym wyszczególnia si´ sk∏adniki majàtkowe zobowiàzanego, które mogà byç przedmiotem zabezpieczenia.”;
+§ 3. Jeżeli wniosek o zabezpieczenie jest zgłaszany po wszczęciu albo zakończeniu postępowania podatkowego lub kontrolnego, we wniosku tym wyszczególnia się składniki majątkowe zobowiązanego, które mogą być przedmiotem zabezpieczenia.”;
 
-- **88)** art. 156 i157 otrzymujà brzmienie: „Art. 156. § 1. Zarzàdzenie zabezpieczenia zawiera:
+- **88)** art. 156 i157 otrzymują brzmienie: ŃArt. 156. § 1. Zarządzenie zabezpieczenia zawiera:
 - **1)** oznaczenie wierzyciela,
-- **2)** wskazanie imienia i nazwiska lub firmy zobowiàzanego, jego adresu, a w przypadku zabezpieczania nale˝noÊci pieni´˝nej na wynagrodzeniu za prac´ zobowiàzanego oznaczenie zatrudniajàcego go pracodawcy i jego adres, je˝eli wierzyciel posiada takà informacj´,
-- **3)** podanie treÊci obowiàzku podlegajàcego zabezpieczeniu, podstawy prawnej tego obowiàzku, a w przypadku zabezpieczania nale˝noÊci pieni´˝nej tak˝e okreÊlenie jej wysokoÊci,
-- **4)** wskazanie podstawy prawnej zabezpieczenia obowiàzku,
-- **5)** wskazanie okolicznoÊci Êwiadczàcych o wystàpieniu mo˝liwoÊci utrudnienia bàdê udaremnienia egzekucji,
-- **6)** dat´ wydania zarzàdzenia zabezpieczenia, nazw´ wierzyciela, który je wyda∏, oraz podpis z podaniem imienia, nazwiska i stanowiska s∏u˝bowego podpisujàcego, atak˝e odcisk piecz´ci urz´dowej,
-- **7)** klauzul´ organu egzekucyjnego o przyj´ciu zarzàdzenia zabezpieczenia do wykonania,
-- **8)** pouczenie zobowiàzanego o przys∏ugujàcym mu w terminie 7 dni prawie zg∏oszenia do organu egzekucyjnego zarzutów,
+- **2)** wskazanie imienia i nazwiska lub firmy zobowiązanego, jego adresu, a w przypadku zabezpieczania należności pieniężnej na wynagrodzeniu za pracę zobowiązanego oznaczenie zatrudniającego go pracodawcy i jego adres, jeżeli wierzyciel posiada taką informację,
+- **3)** podanie treści obowiązku podlegającego zabezpieczeniu, podstawy prawnej tego obowiązku, a w przypadku zabezpieczania należności pieniężnej także określenie jej wysokości,
+- **4)** wskazanie podstawy prawnej zabezpieczenia obowiązku,
+- **5)** wskazanie okoliczności świadczących o wystąpieniu możliwości utrudnienia bądê udaremnienia egzekucji,
+- **6)** datę wydania zarządzenia zabezpieczenia, nazwę wierzyciela, który je wydał, oraz podpis z podaniem imienia, nazwiska i stanowiska służbowego podpisującego, atakże odcisk pieczęci urzędowej,
+- **7)** klauzulę organu egzekucyjnego o przyjęciu zarządzenia zabezpieczenia do wykonania,
+- **8)** pouczenie zobowiązanego o przysługującym mu w terminie 7 dni prawie zgłoszenia do organu egzekucyjnego zarzutów,
 - **9)** sposób izakres zabezpieczenia.
 
-§ 2. W przypadku zabezpieczania nale˝noÊci pieni´˝nych, zarzàdzenie zabezpieczenia, októrym mowa w§ 1, sporzàdza si´ wed∏ug wzoru okreÊlonego wdrodze rozporzàdzenia przez ministra w∏aÊciwego do spraw finansów publicznych. Wzór zarzàdzenia zabezpieczenia powinien zawieraç dane, o których mowa w § 1, a ponadto umo˝liwiaç elektroniczne przetwarzanie tych danych.
+§ 2. W przypadku zabezpieczania należności pieniężnych, zarządzenie zabezpieczenia, októrym mowa w§ 1, sporządza się według wzoru określonego wdrodze rozporządzenia przez ministra właściwego do spraw finansów publicznych. Wzór zarządzenia zabezpieczenia powinien zawierać dane, o których mowa w § 1, a ponadto umożliwiać elektroniczne przetwarzanie tych danych.
 
 **Art. 157.**
 
-§ 1. Je˝eli obowiàzek, którego dotyczy zarzàdzenie zabezpieczenia, nie podlega zabezpieczeniu wtrybie administracyjnym lub zarzàdzenie zabezpieczenia nie zawiera treÊci okreÊlonej wart. 156 § 1, organ egzekucyjny nie przyst´puje do zabezpieczenia. Na postanowienie organu egzekucyjnego odmawiajàce dokonania zabezpieczenia przys∏uguje wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekucyjnym za˝alenie.
+§ 1. Jeżeli obowiązek, którego dotyczy zarządzenie zabezpieczenia, nie podlega zabezpieczeniu wtrybie administracyjnym lub zarządzenie zabezpieczenia nie zawiera treści określonej wart. 156 § 1, organ egzekucyjny nie przystępuje do zabezpieczenia. Na postanowienie organu egzekucyjnego odmawiające dokonania zabezpieczenia przysługuje wierzycielowi niebędącemu jednocześnie organem egzekucyjnym zażalenie.
 
-§ 2. Organ egzekucyjny mo˝e uzale˝niç nadanie klauzuli o przyj´ciu zarzàdzenia zabezpieczenia do wykonania od z∏o˝enia przez wierzyciela kaucji na zabezpieczenie roszczeƒ zobowiàzanego onaprawienie szkód spowodowanych wskutek wykonania zarzàdzenia zabezpieczenia.”;
+§ 2. Organ egzekucyjny może uzależnić nadanie klauzuli o przyjęciu zarządzenia zabezpieczenia do wykonania od złożenia przez wierzyciela kaucji na zabezpieczenie roszczeń zobowiązanego onaprawienie szkód spowodowanych wskutek wykonania zarządzenia zabezpieczenia.”;
 
-- **89)** dodaje si´ art. 157awbrzmieniu: „Art. 157a. Organ egzekucyjny mo˝e w ka˝dym zakres zabezpieczenia. Na postanowienie wsprawie zmiany lub uchylenia zabezpieczenia s∏u˝y za˝alenie.”;
-- **90)** art. 158 otrzymuje brzmienie: „Art. 158. Wprzypadku potrzeby organ egzekucyjny mo˝e stosowaç kilka sposobów zabezpieczenia.”;
+- **89)** dodaje się art. 157awbrzmieniu: ŃArt. 157a. Organ egzekucyjny może w każdym zakres zabezpieczenia. Na postanowienie wsprawie zmiany lub uchylenia zabezpieczenia służy zażalenie.”;
+- **90)** art. 158 otrzymuje brzmienie: ŃArt. 158. Wprzypadku potrzeby organ egzekucyjny może stosować kilka sposobów zabezpieczenia.”;
 - **91)** wart. 159:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Organ egzekucyjny na ˝àdanie zobowiàzanego, zzastrze˝eniem § 2, uchyla zabezpieczenie, je˝eli wniosek owszcz´cie post´powania egzekucyjnego nie zosta∏ zg∏oszony w terminie 30 dni od dokonania zabezpieczenia nale˝noÊci pieni´˝nej, a w terminie 3 miesi´cy od dokonania zabezpieczenia wzwiàzku zwydaniem decyzji, októrej mowa w art. 33 § 4 ustawy Ordynacja podatkowa lub zabezpieczenia obowiàzku czasie uchyliç lub zmieniç sposób lub ocharakterze niepieni´˝nym.”,
-    - **b)** dodaje si´ § 1awbrzmieniu: „§ 1a. O uchyleniu zabezpieczenia organ egzekucyjny wydaje postanowienie. Na postanowienie to przys∏uguje za˝alenie zobowiàzanemu i wierzycielowi nieb´dàcemu jednoczeÊnie organem egzekucyjnym.”;
+    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Organ egzekucyjny na żądanie zobowiązanego, zzastrzeżeniem § 2, uchyla zabezpieczenie, jeżeli wniosek owszczęcie postępowania egzekucyjnego nie został zgłoszony w terminie 30 dni od dokonania zabezpieczenia należności pieniężnej, a w terminie 3 miesięcy od dokonania zabezpieczenia wzwiązku zwydaniem decyzji, októrej mowa w art. 33 § 4 ustawy Ordynacja podatkowa lub zabezpieczenia obowiązku czasie uchylić lub zmienić sposób lub ocharakterze niepieniężnym.”,
+    - **b)** dodaje się § 1awbrzmieniu: Ń§ 1a. O uchyleniu zabezpieczenia organ egzekucyjny wydaje postanowienie. Na postanowienie to przysługuje zażalenie zobowiązanemu i wierzycielowi niebędącemu jednocześnie organem egzekucyjnym.”;
 
 - **92)** wart. 163:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. Przepisy art. 64c stosuje si´ odpowiednio do op∏at za czynnoÊci zabezpieczenia iwydatków zwiàzanych z post´powaniem zabezpieczajàcym, je˝eli post´powanie egzekucyjne zosta∏o wszcz´te.”,
-    - **b)** § 2 otrzymuje brzmienie: „§ 2. Organ egzekucyjny obcià˝a wierzyciela op∏atami za czynnoÊci zabezpieczajàce oraz wydatkami zwiàzanymi zzabezpieczeniem, je˝eli post´powanie egzekucyjne nie zosta∏o wszcz´te wskutek braku wniosku, októrym mowa wart. 159 § 2, lub wniosek ten nie zosta∏ uwzgl´dniony, aje˝eli nie zosta∏o wszcz´te z innych powodów wydatkami zwiàzanymi z post´powaniem zabezpieczajàcym. Przepis art. 64c§ 7 stosuje si´ odpowiednio.”,
-    - **c)** dodaje si´ § 2awbrzmieniu: „§ 2a. Nie pobiera si´ op∏at, o których mowa w § 2, je˝eli wierzyciel jest jednoczeÊnie organem egzekucyjnym dokonujàcym zabezpieczenia.”,
-    - **d)** w§ 4 skreÊla si´ wyrazy „op∏at i”;
+    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. Przepisy art. 64c stosuje się odpowiednio do opłat za czynności zabezpieczenia iwydatków związanych z postępowaniem zabezpieczającym, jeżeli postępowanie egzekucyjne zostało wszczęte.”,
+    - **b)** § 2 otrzymuje brzmienie: Ń§ 2. Organ egzekucyjny obciąża wierzyciela opłatami za czynności zabezpieczające oraz wydatkami związanymi zzabezpieczeniem, jeżeli postępowanie egzekucyjne nie zostało wszczęte wskutek braku wniosku, októrym mowa wart. 159 § 2, lub wniosek ten nie został uwzględniony, ajeżeli nie zostało wszczęte z innych powodów wydatkami związanymi z postępowaniem zabezpieczającym. Przepis art. 64c§ 7 stosuje się odpowiednio.”,
+    - **c)** dodaje się § 2awbrzmieniu: Ń§ 2a. Nie pobiera się opłat, o których mowa w § 2, jeżeli wierzyciel jest jednocześnie organem egzekucyjnym dokonującym zabezpieczenia.”,
+    - **d)** w§ 4 skreśla się wyrazy Ńopłat i”;
 
-- **93)** art. 164—166 otrzymujà brzmienie: „Art. 164. § 1. Organ egzekucyjny, z zastrze˝eniem § 2, po wydaniu zarzàdzenia zabezpieczenia dokonuje zabezpieczenia nale˝noÊci pieni´˝nej przez:
-- **1)** zaj´cie pieni´dzy, wynagrodzenia za prac´, wierzytelnoÊci z rachunków bankowych, innych wierzytelnoÊci i praw majàtkowych lub ruchomoÊci,
-- **2)** obcià˝enie nieruchomoÊci zobowiàzanego hipotekà przymusowà, wtym przez z∏o˝enie dokumentów do zbioru dokumentów w przypadku nieruchomoÊci, która nie ma urzàdzonej ksi´gi wieczystej,
-- **3)** obcià˝enie statku morskiego zastawem wpisanym do rejestru okr´towego,
-- **4)** ustanowienie zakazu zbywania i obcià˝ania nieruchomoÊci, która nie ma urzàdzonej ksi´gi wieczystej albo której ksi´ga wieczysta zgin´∏a lub uleg∏a zniszczeniu,
-- **5)** ustanowienie zakazu zbywania spó∏dzielczego prawa do lokalu mieszkalnego, spó∏dzielczego prawa do lokalu u˝ytkowego lub prawa do domu jednorodzinnego wspó∏dzielni mieszkaniowej.
+- **93)** art. 164—166 otrzymują brzmienie: ŃArt. 164. § 1. Organ egzekucyjny, z zastrzeżeniem § 2, po wydaniu zarządzenia zabezpieczenia dokonuje zabezpieczenia należności pieniężnej przez:
+- **1)** zajęcie pieniędzy, wynagrodzenia za pracę, wierzytelności z rachunków bankowych, innych wierzytelności i praw majątkowych lub ruchomości,
+- **2)** obciążenie nieruchomości zobowiązanego hipoteką przymusową, wtym przez złożenie dokumentów do zbioru dokumentów w przypadku nieruchomości, która nie ma urządzonej księgi wieczystej,
+- **3)** obciążenie statku morskiego zastawem wpisanym do rejestru okrętowego,
+- **4)** ustanowienie zakazu zbywania i obciążania nieruchomości, która nie ma urządzonej księgi wieczystej albo której księga wieczysta zginęła lub uległa zniszczeniu,
+- **5)** ustanowienie zakazu zbywania spółdzielczego prawa do lokalu mieszkalnego, spółdzielczego prawa do lokalu użytkowego lub prawa do domu jednorodzinnego współdzielni mieszkaniowej.
 
-§ 2. Je˝eli organ egzekucyjny nie jest jednoczeÊnie wierzycielem, obcià˝enia nieruchomoÊci hipotekà przymusowà dokonuje wierzyciel.
+§ 2. Jeżeli organ egzekucyjny nie jest jednocześnie wierzycielem, obciążenia nieruchomości hipoteką przymusową dokonuje wierzyciel.
 
-§ 3. Przed skierowaniem wniosku do sàdu o ustanowienie hipoteki przymusowej wierzyciel wyst´puje do organu egzekucyjnego o nadanie tytu∏owi wykonawczemu lub zarzàdzeniu zabezpieczenia klauzuli o skierowaniu tytu∏u wykonawczego do egzekucji lub zarzàdzenia zabezpieczenia do wykonania.
+§ 3. Przed skierowaniem wniosku do sądu o ustanowienie hipoteki przymusowej wierzyciel występuje do organu egzekucyjnego o nadanie tytułowi wykonawczemu lub zarządzeniu zabezpieczenia klauzuli o skierowaniu tytułu wykonawczego do egzekucji lub zarządzenia zabezpieczenia do wykonania.
 
-§ 4. Do zaj´cia zabezpieczajàcego stosuje si´ odpowiednio przepisy o zaj´ciu egzekucyjnym pieni´dzy, wynagrodzenia za prac´, Êwiadczeƒ z zaopatrzenia emerytalnego oraz ubezpieczenia spo∏ecznego, egzekucj´ z rachunków bankowych, innych wierzytelnoÊci pieni´˝nych, praw z papierów wartoÊciowych zapisanych na rachunku papierów wartoÊciowych oraz zwierzytelnoÊci zrachunku pieni´˝nego, papierów wartoÊciowych niezapisanych na rachunku papierów wartoÊciowych, weksla, autorskich praw majàtkowych i praw pokrewnych oraz w∏asnoÊci przemys∏owej, udzia∏u w spó∏ce z ograniczonà odpowiedzialnoÊcià, pozosta∏ych praw majàtkowych oraz ruchomoÊci.
+§ 4. Do zajęcia zabezpieczającego stosuje się odpowiednio przepisy o zajęciu egzekucyjnym pieniędzy, wynagrodzenia za pracę, świadczeń z zaopatrzenia emerytalnego oraz ubezpieczenia społecznego, egzekucję z rachunków bankowych, innych wierzytelności pieniężnych, praw z papierów wartościowych zapisanych na rachunku papierów wartościowych oraz zwierzytelności zrachunku pieniężnego, papierów wartościowych niezapisanych na rachunku papierów wartościowych, weksla, autorskich praw majątkowych i praw pokrewnych oraz własności przemysłowej, udziału w spółce z ograniczoną odpowiedzialnością, pozostałych praw majątkowych oraz ruchomości.
 
-§ 5. Zaj´cie zabezpieczajàce nie mo˝e dotyczyç rzeczy lub praw zwolnionych zegzekucji.
+§ 5. Zajęcie zabezpieczające nie może dotyczyć rzeczy lub praw zwolnionych zegzekucji.
 
 **Art. 165.**
 
-§ 1. Wydane wformie dokumentu papiery wartoÊciowe zaj´te w celu zabezpodlegajà z∏o˝eniu do depozytu organu egzekucyjnego.
+§ 1. Wydane wformie dokumentu papiery wartościowe zajęte w celu zabezpodlegają złożeniu do depozytu organu egzekucyjnego.
 
-§ 2. Zaj´te pieniàdze wcelu zabezpieczenia wp∏aca si´ na wydzielony oprocentowany rachunek bankowy organu egzekucyjnego z oprocentowaniem udzielonym przez bank dla wk∏adów wyp∏acanych na ka˝de ˝àdanie, zzastrze˝eniem § 3.
+§ 2. Zajęte pieniądze wcelu zabezpieczenia wpłaca się na wydzielony oprocentowany rachunek bankowy organu egzekucyjnego z oprocentowaniem udzielonym przez bank dla wkładów wypłacanych na każde żądanie, zzastrzeżeniem § 3.
 
-§ 3. Je˝eli z okolicznoÊci sprawy wynika, ˝e zabezpieczenie trwaç b´dzie d∏u˝ej ni˝ 3 miesiàce, zaj´te pieniàdze, na wniosek zobowiàzanego, wp∏aca si´ na rachunek lokaty terminowej.
+§ 3. Jeżeli z okoliczności sprawy wynika, że zabezpieczenie trwać będzie dłużej niż 3 miesiące, zajęte pieniądze, na wniosek zobowiązanego, wpłaca się na rachunek lokaty terminowej.
 
-§ 4. Zaj´ta wierzytelnoÊç po nadejÊciu terminu jej p∏atnoÊci przez d∏u˝nika tej wierzytelnoÊci zrealizowana jest w celu zabezpieczenia przez przekazanie jej na rachunek, o którym mowa w§ 2. Tak samo przekazywane sà zaj´te w celu zabezpieczenia wynagrodzenia za prac´ i inne nale˝noÊci p∏atne wprzysz∏oÊci, bez ponawiania ich zaj´cia a˝ do wysokoÊci nale˝noÊci zabezpieczonej.
+§ 4. Zajęta wierzytelność po nadejściu terminu jej płatności przez dłużnika tej wierzytelności zrealizowana jest w celu zabezpieczenia przez przekazanie jej na rachunek, o którym mowa w§ 2. Tak samo przekazywane są zajęte w celu zabezpieczenia wynagrodzenia za pracę i inne należności płatne wprzyszłości, bez ponawiania ich zajęcia aż do wysokości należności zabezpieczonej.
 
-**Art. 166.** Na wniosek zobowiàzanego, zabezpieczenie nale˝noÊci pieni´˝nej mo˝e byç dokonane przez z∏o˝enie kaucji. Je˝eli zobowiàzany sk∏ada wniosek oprzyj´cie kaucji w gotówce albo wniosek o przyj´cie kaucji winnej postaci zostanie uwzgl´dniony przez organ egzekucyjny, organ ten okreÊla kwot´ kaucji, nie wy˝szà jednak od nale˝noÊci podlegajàcej zabezpieczeniu.”;
+**Art. 166.** Na wniosek zobowiązanego, zabezpieczenie należności pieniężnej może być dokonane przez złożenie kaucji. Jeżeli zobowiązany składa wniosek oprzyjęcie kaucji w gotówce albo wniosek o przyjęcie kaucji winnej postaci zostanie uwzględniony przez organ egzekucyjny, organ ten określa kwotę kaucji, nie wyższą jednak od należności podlegającej zabezpieczeniu.”;
 
-**Art. 166b.** W post´powaniu zabezpieczajàcym stosuje si´ odpowiednio przepisy art. 31—34, art. 36, art. 38, art. 40, art. 45—54, art. 71 iart. 168d.”;
+**Art. 166b.** W postępowaniu zabezpieczającym stosuje się odpowiednio przepisy art. 31—34, art. 36, art. 38, art. 40, art. 45—54, art. 71 iart. 168d.”;
 
-**Art. 168a.** Osoba, która roÊci sobie prawo do rzeczy lub prawa majàtkowego, zktórych przeprowadzono egzekucj´ przez sprzeda˝ rzeczy lub wykonanie prawa majàtkowego, mo˝e dochodziç od zobowiàzanego odszkodowania na podstawie przepisów Kodeksu cywilnego dotyczàcych odpowiedzialnoÊci za wyrzàdzonà szkod´.
+#### Rozdział 1 Odpowiedzialność odszkodowawcza
 
-**Art. 168b.** Zobowiàzany mo˝e dochodziç odszkodowania od wierzyciela lub organu egzekucyjnego, na podstawie przepisów Kodeksu cywilnego, za szkody wyrzàdzone wskutek niezgodnego z przepisami prawa wszcz´cia lub prowadzenia egzekucji administracyjnej lub post´powania zabezpieczajàcego.
+**Art. 168a.** Osoba, która rości sobie prawo do rzeczy lub prawa majątkowego, zktórych przeprowadzono egzekucję przez sprzedaż rzeczy lub wykonanie prawa majątkowego, może dochodzić od zobowiązanego odszkodowania na podstawie przepisów Kodeksu cywilnego dotyczących odpowiedzialności za wyrządzoną szkodę.
 
-**Art. 168c.** D∏u˝nik zaj´tej wierzytelnoÊci, który nie wykona∏ lub nienale˝ycie wykona∏ cià˝àce na nim obowiàzki zwiàzane z realizacjà zaj´cia egzekucyjnego lub zabezpieczajàcego wierzytelnoÊci lub prawa majàtkowego, odpowiada za wyrzàdzone przez to wierzycielowi szkody na postawie przepisów Kodeksu cywilnego. Rozdzia∏ 2 OdpowiedzialnoÊç porzàdkowa
+**Art. 168b.** Zobowiązany może dochodzić odszkodowania od wierzyciela lub organu egzekucyjnego, na podstawie przepisów Kodeksu cywilnego, za szkody wyrządzone wskutek niezgodnego z przepisami prawa wszczęcia lub prowadzenia egzekucji administracyjnej lub postępowania zabezpieczającego.
+
+**Art. 168c.** Dłużnik zajętej wierzytelności, który nie wykonał lub nienależycie wykonał ciążące na nim obowiązki związane z realizacją zajęcia egzekucyjnego lub zabezpieczającego wierzytelności lub prawa majątkowego, odpowiada za wyrządzone przez to wierzycielowi szkody na postawie przepisów Kodeksu cywilnego.
+
+#### Rozdział 2 Odpowiedzialność porządkowa
 
 **Art. 168d.**
 
-§ 1. Na osob´, która wbrew cià˝àcemu na niej obowiàzkowi odmawia udzielenia organowi egzekucyjnemu informacji lub wyjaÊnieƒ niezb´dnych do prowadzenia egzekucji albo udziela fa∏szywych informacji lub wyjaÊnieƒ, mo˝e byç na∏o˝ona kara pieni´˝na wwysokoÊci nieprzekraczajàcej pi´ciokrotnego najni˝szego wynagrodzenia za prac´ okreÊlonego wodr´bnych przepisach.
+§ 1. Na osobę, która wbrew ciążącemu na niej obowiązkowi odmawia udzielenia organowi egzekucyjnemu informacji lub wyjaśnień niezbędnych do prowadzenia egzekucji albo udziela fałszywych informacji lub wyjaśnień, może być nałożona kara pieniężna wwysokości nieprzekraczającej pięciokrotnego najniższego wynagrodzenia za pracę określonego wodrębnych przepisach.
 
-§ 2. Je˝eli ˝àdanie udzielenia informacji lub wyjaÊnieƒ by∏o skierowane do osoby prawnej lub innej jednostki organizacyjnej, kar´ pieni´˝nà nak∏ada si´ na pracownika odpowiedzialnego za udzielenie informacji lub wyjaÊnieƒ, agdyby ustalenie takiego pracownika by∏o utrudnione kar´ pieni´˝nà nak∏ada si´ na odpowiedzialnego kierownika.
+§ 2. Jeżeli żądanie udzielenia informacji lub wyjaśnień było skierowane do osoby prawnej lub innej jednostki organizacyjnej, karę pieniężną nakłada się na pracownika odpowiedzialnego za udzielenie informacji lub wyjaśnień, agdyby ustalenie takiego pracownika było utrudnione karę pieniężną nakłada się na odpowiedzialnego kierownika.
 
-§ 3. Kar´, o której mowa w § 1, mo˝na który nie powiadamia organu egzekucyjnego ozmianie miejsca swego pobytu, a tak˝e zarzàdc´ nieruchomoÊci, który bez usprawiedliwionej przyczyny nie sk∏ada sprawozdania lub nie wykonuje polecenia organu egzekucyjnego.
+§ 3. Karę, o której mowa w § 1, można który nie powiadamia organu egzekucyjnego ozmianie miejsca swego pobytu, a także zarządcę nieruchomości, który bez usprawiedliwionej przyczyny nie składa sprawozdania lub nie wykonuje polecenia organu egzekucyjnego.
 
-§ 4. W przypadku uchybienia obowiàzkowi, o którym mowa w § 1, przez ˝o∏nierza, zamiast na∏o˝enia kary pieni´˝nej wyst´puje si´ do dowódcy jednostki wojskowej, wktórej ˝o∏nierz ten pe∏ni s∏u˝b´, z wnioskiem o pociàgni´cie go do odpowiedzialnoÊci dyscyplinarnej.
+§ 4. W przypadku uchybienia obowiązkowi, o którym mowa w § 1, przez żołnierza, zamiast nałożenia kary pieniężnej występuje się do dowódcy jednostki wojskowej, wktórej żołnierz ten pełni służbę, z wnioskiem o pociągnięcie go do odpowiedzialności dyscyplinarnej.
 
 **Art. 168e.**
 
-§ 1. Na d∏u˝nika zaj´tej wierzytelnoÊci, który nie wykonuje lub nienale˝ycie wykonuje cià˝àce na nim obowiàzki zwiàzane z egzekucjà lub zabezpieczaniem wierzytelnoÊci lub prawa majàtkowego, mo˝na na∏o˝yç kar´ pieni´˝nà w wysokoÊci nieprzekraczajàcej pi´ciokrotnego najni˝szego wynagrodzenia za prac´ okreÊlonego wodr´bnych przepisach.
+§ 1. Na dłużnika zajętej wierzytelności, który nie wykonuje lub nienależycie wykonuje ciążące na nim obowiązki związane z egzekucją lub zabezpieczaniem wierzytelności lub prawa majątkowego, można nałożyć karę pieniężną w wysokości nieprzekraczającej pięciokrotnego najniższego wynagrodzenia za pracę określonego wodrębnych przepisach.
 
-§ 2. Kara, októrej mowa w§ 1, mo˝e byç powtarzana w przypadku uchylania si´ od wykonania, wdodatkowo wyznaczonych terminach, obowiàzków wynikajàcych zzaj´cia egzekucyjnego lub zabezpieczajàcego.
+§ 2. Kara, októrej mowa w§ 1, może być powtarzana w przypadku uchylania się od wykonania, wdodatkowo wyznaczonych terminach, obowiązków wynikających zzajęcia egzekucyjnego lub zabezpieczającego.
 
-§ 3. Je˝eli d∏u˝nikiem zaj´tej wierzytelnoÊci jest osoba prawna lub jednostka organizacyjna nieposiadajàca osobowoÊci prawnej, kar´ pieni´˝nà nak∏ada si´ na wyznaczonego pracownika, a je˝eli nie zosta∏ wyznaczony kierownika bezpoÊrednio odpowiedzialnego za realizacj´ zaj´cia, a w spó∏ce prawa handlowego odpowiedzialnego cz∏onka zarzàdu, natomiast w spó∏ce cywilnej odpowiedzialnego wspólnika.
+§ 3. Jeżeli dłużnikiem zajętej wierzytelności jest osoba prawna lub jednostka organizacyjna nieposiadająca osobowości prawnej, karę pieniężną nakłada się na wyznaczonego pracownika, a jeżeli nie został wyznaczony kierownika bezpośrednio odpowiedzialnego za realizację zajęcia, a w spółce prawa handlowego odpowiedzialnego członka zarządu, natomiast w spółce cywilnej odpowiedzialnego wspólnika.
 
-§ 4. Postanowienie wsprawie na∏o˝enia kary pieni´˝nej wydaje organ egzekucyjny, zzastrze˝eniem § 5.
+§ 4. Postanowienie wsprawie nałożenia kary pieniężnej wydaje organ egzekucyjny, zzastrzeżeniem § 5.
 
-§ 5. Je˝eli egzekucj´ z wierzytelnoÊci prowadzi organ egzekucyjny, o którym mowa wart. 19 § 3—5, 7 i8, postanowienie w sprawie na∏o˝enia kary pieni´˝nej wydaje naczelnik urz´du skarbowego w∏aÊciwy ze wzgl´du na siedzib´ tego organu.
+§ 5. Jeżeli egzekucję z wierzytelności prowadzi organ egzekucyjny, o którym mowa wart. 19 § 3—5, 7 i8, postanowienie w sprawie nałożenia kary pieniężnej wydaje naczelnik urzędu skarbowego właściwy ze względu na siedzibę tego organu.
 
-§ 6. Na postanowienie o na∏o˝eniu kary pieni´˝nej przys∏uguje za˝alenie.
+§ 6. Na postanowienie o nałożeniu kary pieniężnej przysługuje zażalenie.
 
-§ 7. Kara pieni´˝na na∏o˝ona w zwiàzku zegzekucjà prowadzonà przez organ, na∏o˝yç równie˝ na zobowiàzanego, októrym mowa wart. 19 § 3—5, 7 i8, przypada na rzecz tego organu.”;
+§ 7. Kara pieniężna nałożona w związku zegzekucją prowadzoną przez organ, nałożyć również na zobowiązanego, októrym mowa wart. 19 § 3—5, 7 i8, przypada na rzecz tego organu.”;
 
-- **97)** art. 170 otrzymuje brzmienie: „Art. 170. § 1. Pozostajà w mocy przepisy ustaw szczególnych dotyczàce administracyjnego post´powania zabezpieczajàcego na podstawie orzeczenia prokuratora, sàdu, organów administracji celnej lub organów kontroli administracji publicznej o zabezpieczeniu rzeczy, wstosunku do których mo˝e byç orzeczony przepadek.
+- **97)** art. 170 otrzymuje brzmienie: ŃArt. 170. § 1. Pozostają w mocy przepisy ustaw szczególnych dotyczące administracyjnego postępowania zabezpieczającego na podstawie orzeczenia prokuratora, sądu, organów administracji celnej lub organów kontroli administracji publicznej o zabezpieczeniu rzeczy, wstosunku do których może być orzeczony przepadek.
 
-§ 2. W post´powaniu o zabezpieczenie, o którym mowa w § 1, postanowienie o wy∏àczeniu wydaje naczelnik urz´du skarbowego, stosujàc przepisy niniejszej ustawy. Na postanowienie o wy∏àczeniu przys∏uguje prawo wniesienia za˝alenia organowi, który wyda∏ postanowienie ozabezpieczeniu, oraz wierzycielowi. Do czasu rozstrzygni´cia za˝alenia dokonane czynnoÊci egzekucyjne pozostajà wmocy.”;
+§ 2. W postępowaniu o zabezpieczenie, o którym mowa w § 1, postanowienie o wyłączeniu wydaje naczelnik urzędu skarbowego, stosując przepisy niniejszej ustawy. Na postanowienie o wyłączeniu przysługuje prawo wniesienia zażalenia organowi, który wydał postanowienie ozabezpieczeniu, oraz wierzycielowi. Do czasu rozstrzygnięcia zażalenia dokonane czynności egzekucyjne pozostają wmocy.”;
 
-- **98)** skreÊla si´ art. 173;
-- **99)** art. 174 otrzymuje brzmienie: „Art. 174. Rada Ministrów mo˝e, w drodze rozporzàdzenia, rozciàgnàç stosowanie w ca∏oÊci lub wcz´Êci przepisów dzia∏u II rozdzia∏u 6 w zakresie przechowywania, oszacowania isprzeda˝y zaj´tych ruchomoÊci na okreÊlone ruchomoÊci, które sta∏y si´ w∏asnoÊcià Skarbu Paƒstwa na podstawie przepisów o likwidacji mienia, o przepadku mienia, z tytu∏u spadków lub zinnych tytu∏ów albo gdy Skarb Paƒstwa na podstawie szczególnych przepisów jest upowa˝niony do sprzeda˝y cudzej ruchomoÊci. Rozporzàdzenie to w szczególnoÊci okreÊli przypadki, w których mo˝e nastàpiç nieodp∏atne przekazanie ruchomoÊci lub ich niszczenie, atak˝e sposób rozliczania wydatków zwiàzanych z przechowywaniem lub sprzeda˝à ruchomoÊci niestanowiàcych w∏asnoÊci Skarbu Paƒstwa.”
+- **98)** skreśla się art. 173;
+- **99)** art. 174 otrzymuje brzmienie: ŃArt. 174. Rada Ministrów może, w drodze rozporządzenia, rozciągnąć stosowanie w całości lub wczęści przepisów działu II rozdziału 6 w zakresie przechowywania, oszacowania isprzedaży zajętych ruchomości na określone ruchomości, które stały się własnością Skarbu Państwa na podstawie przepisów o likwidacji mienia, o przepadku mienia, z tytułu spadków lub zinnych tytułów albo gdy Skarb Państwa na podstawie szczególnych przepisów jest upoważniony do sprzedaży cudzej ruchomości. Rozporządzenie to w szczególności określi przypadki, w których może nastąpić nieodpłatne przekazanie ruchomości lub ich niszczenie, atakże sposób rozliczania wydatków związanych z przechowywaniem lub sprzedażą ruchomości niestanowiących własności Skarbu Państwa.”
 
-**Art. 2.** Wustawie zdnia 17 listopada 1964 r. Kodeks post´powania cywilnego (Dz. U. 43, poz. 296, z1965 r. 15, poz. 113, z1974 r. 27, poz. 157 iNr39, poz. 231, z1975 r. 45, poz. 234, z1982 r. 11, poz.82 iNr 30, poz. 210, z1983 r. 5, poz. 33, z1984 r. 45, poz. 241 i 242, z 1985 r. 20, poz. 86, z 1987 r. 21, poz. 123, z1988 r. 41, poz. 324, z1989 r. 4, poz. 21 iNr 33, poz. 175, z1990 r. 14, poz. 88, 34, poz. 198, 53, poz. 306, 55, poz. 318 i 79, poz. 464, z1991r. 7, poz. 24, 22, poz. 92 iNr 115, poz. 496, z 1993 r. 12, poz. 53, z 1994 r. 105, poz. 509, z1995r. 83, poz. 417, z1996 r. 24, poz. 110, Nr43, poz. 189, 73, poz. 350 i 149, poz. 703, z 1997 r. Nr43, poz. 270, 54, poz. 348, 75, poz. 471, 102, poz. 643, 117, poz. 752, 121, poz. 769 i 770, 133, poz. 882, 139, poz. 934, 140, poz. 940 poz. 757, z 1999 r. 52, poz. 532, z 2000 r. 22, poz. 269 i 271, 48, poz. 552 i 554, 55, poz. 665, 73, poz. 852, 94, poz. 1037, 114, poz. 1191 i1193 iNr122, poz.1314,1319 i1322 oraz z2001 r. Nr4, poz. 27, 49, poz. 508, 63, poz. 635, 98, poz.1069, 1070 i 1071 i 123, poz. 1353) wprowadza si´ nast´pujàce zmiany:
+**Art. 2.** Wustawie zdnia 17 listopada 1964 r. Kodeks postępowania cywilnego (Dz. U. 43, poz. 296, z1965 r. 15, poz. 113, z1974 r. 27, poz. 157 iNr39, poz. 231, z1975 r. 45, poz. 234, z1982 r. 11, poz.82 iNr 30, poz. 210, z1983 r. 5, poz. 33, z1984 r. 45, poz. 241 i 242, z 1985 r. 20, poz. 86, z 1987 r. 21, poz. 123, z1988 r. 41, poz. 324, z1989 r. 4, poz. 21 iNr 33, poz. 175, z1990 r. 14, poz. 88, 34, poz. 198, 53, poz. 306, 55, poz. 318 i 79, poz. 464, z1991r. 7, poz. 24, 22, poz. 92 iNr 115, poz. 496, z 1993 r. 12, poz. 53, z 1994 r. 105, poz. 509, z1995r. 83, poz. 417, z1996 r. 24, poz. 110, Nr43, poz. 189, 73, poz. 350 i 149, poz. 703, z 1997 r. Nr43, poz. 270, 54, poz. 348, 75, poz. 471, 102, poz. 643, 117, poz. 752, 121, poz. 769 i 770, 133, poz. 882, 139, poz. 934, 140, poz. 940 poz. 757, z 1999 r. 52, poz. 532, z 2000 r. 22, poz. 269 i 271, 48, poz. 552 i 554, 55, poz. 665, 73, poz. 852, 94, poz. 1037, 114, poz. 1191 i1193 iNr122, poz.1314,1319 i1322 oraz z2001 r. Nr4, poz. 27, 49, poz. 508, 63, poz. 635, 98, poz.1069, 1070 i 1071 i 123, poz. 1353) wprowadza się następujące zmiany:
 
-**Art. 6.** Wustawie zdnia 16 marca 1995 r. ozapobieganiu zanieczyszczaniu morza przez statki (Dz. U. 47, poz. 243, z 2000 r. 109, poz. 1156 i z 2001 r. 111, poz. 1197) wart. 10 dodaje si´ ust. 5 wbrzmieniu: „5. Egzekucja obowiàzku okreÊlonego w ust. 3 nast´puje wtrybie przepisów opost´powaniu egzekucyjnym wadministracji.”
+**Art. 6.** Wustawie zdnia 16 marca 1995 r. ozapobieganiu zanieczyszczaniu morza przez statki (Dz. U. 47, poz. 243, z 2000 r. 109, poz. 1156 i z 2001 r. 111, poz. 1197) wart. 10 dodaje się ust. 5 wbrzmieniu: Ń5. Egzekucja obowiązku określonego w ust. 3 następuje wtrybie przepisów opostępowaniu egzekucyjnym wadministracji.”
 
-**Art. 7.** Wustawie zdnia 22 czerwca 1995 r. ozakwaterowaniu Si∏ Zbrojnych Rzeczypospolitej Polskiej (Dz. U. 86, poz. 433, z 1996 r. 106, poz. 496, z1997r. 6, poz. 31, 80, poz. 506 iNr 106, poz. 678, z 1998 r. 106, poz. 668, z 1999 r. 86, poz. 964 iNr93, poz. 1063, z2000 r. 6, poz. 70 iNr 48, poz.550 oraz z2001 r. 4, poz. 24, 81, poz. 877 i 100, poz.
+**Art. 7.** Wustawie zdnia 22 czerwca 1995 r. ozakwaterowaniu Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. 86, poz. 433, z 1996 r. 106, poz. 496, z1997r. 6, poz. 31, 80, poz. 506 iNr 106, poz. 678, z 1998 r. 106, poz. 668, z 1999 r. 86, poz. 964 iNr93, poz. 1063, z2000 r. 6, poz. 70 iNr 48, poz.550 oraz z2001 r. 4, poz. 24, 81, poz. 877 i 100, poz.
 
-**Art. 8.** Wustawie zdnia 9 stycznia 1997 r. Kodeks celny (Dz. U. z 2001 r. 75, poz. 802, 89, poz. 972 iNr 110, poz. 1189) wart. 65 skreÊla si´ § 6.
+**Art. 8.** Wustawie zdnia 9 stycznia 1997 r. Kodeks celny (Dz. U. z 2001 r. 75, poz. 802, 89, poz. 972 iNr 110, poz. 1189) wart. 65 skreśla się § 6.
 
-**Art. 9.** Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej ispo∏ecznej oraz zatrudnianiu osób niepe∏nosprawnych (Dz. U. 123, poz. 776 i 160, poz. 1082, z 1998 r. 99, poz. 628, 106, poz. 668, 137, poz. 887, 156, poz. 1019 i 162, poz. 1118 i1126, z1999 r. 49, poz. 486, 90, poz. 1001, 95, poz. 1101 i 111 poz. 1280, z 2000 r. 48, poz. 550 iNr 119, poz. 1249 oraz z2001 r. 39, poz. 459i 100, poz. 1080) wart.49 ust. 3 otrzymuje brzmienie: „3. Do egzekucji wp∏at, o których mowa w ust. 1, stosuje si´ przepisy opost´powaniu egzekucyjnym w administracji, z tym ˝e tytu∏ wykonawczy wystawia Prezes Zarzàdu Funduszu.”
+**Art. 9.** Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej ispołecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. 123, poz. 776 i 160, poz. 1082, z 1998 r. 99, poz. 628, 106, poz. 668, 137, poz. 887, 156, poz. 1019 i 162, poz. 1118 i1126, z1999 r. 49, poz. 486, 90, poz. 1001, 95, poz. 1101 i 111 poz. 1280, z 2000 r. 48, poz. 550 iNr 119, poz. 1249 oraz z2001 r. 39, poz. 459i 100, poz. 1080) wart.49 ust. 3 otrzymuje brzmienie: Ń3. Do egzekucji wpłat, o których mowa w ust. 1, stosuje się przepisy opostępowaniu egzekucyjnym w administracji, z tym że tytuł wykonawczy wystawia Prezes Zarządu Funduszu.”
 
-**Art. 10.** Wustawie zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 137, poz. 926 i 160, poz.1083, z 1998 r. 106, poz. 668, z 1999 r. 11, poz. 95 i 92, poz. 1062, z 2000 r. 94, poz. 1037, Nr116, poz. 1216, Nr120, poz. 1268 iNr 122, poz. 1315 oraz z 2001 r. 16, poz. 166, 39, poz. 459, 42, poz.475i 110, poz. 1189) wprowadza si´ nast´pujàce zmiany:
+**Art. 10.** Wustawie zdnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. 137, poz. 926 i 160, poz.1083, z 1998 r. 106, poz. 668, z 1999 r. 11, poz. 95 i 92, poz. 1062, z 2000 r. 94, poz. 1037, Nr116, poz. 1216, Nr120, poz. 1268 iNr 122, poz. 1315 oraz z 2001 r. 16, poz. 166, 39, poz. 459, 42, poz.475i 110, poz. 1189) wprowadza się następujące zmiany:
 
-**Art. 11.** W ustawie z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. 155, poz. 1014, z1999r. 38, poz. 360, 49, poz. 485, 70, poz. 778 iNr 110, poz. 1255, z2000 r. 6, poz. 69, 12, poz. 136, 48, poz. 550, 95, poz. 1041, 119, poz. 1251 i 122, poz. 1315 oraz z2001 r. 45, poz. 497,Nr 46, poz. 499, 88, poz. 961, 98, poz. 1070, 100, poz. 1082 niu egzekucyjnym wadministracji.”; iNr102, poz. 1116) wart. 153 ust. 1 otrzymuje brzmienie: „1. Przewodniczàcy organu orzekajàcego wpierwszej instancji kieruje do wykonania prawomocne rozstrzygni´cia.”
+**Art. 11.** W ustawie z dnia 26 listopada 1998 r. o finansach publicznych (Dz. U. 155, poz. 1014, z1999r. 38, poz. 360, 49, poz. 485, 70, poz. 778 iNr 110, poz. 1255, z2000 r. 6, poz. 69, 12, poz. 136, 48, poz. 550, 95, poz. 1041, 119, poz. 1251 i 122, poz. 1315 oraz z2001 r. 45, poz. 497,Nr 46, poz. 499, 88, poz. 961, 98, poz. 1070, 100, poz. 1082 niu egzekucyjnym wadministracji.”; iNr102, poz. 1116) wart. 153 ust. 1 otrzymuje brzmienie: Ń1. Przewodniczący organu orzekającego wpierwszej instancji kieruje do wykonania prawomocne rozstrzygnięcia.”
 
 **Art. 12.**
 
-1. Wszcz´cie egzekucji administracyjnej znieruchomoÊci nie mo˝e nastàpiç, je˝eli przed dniem wejÊcia w˝ycie ustawy wierzyciel skierowa∏ do komornika sàdowego wniosek o przeprowadzenie egzekucji z nieruchomoÊci. W takim przypadku stosuje si´ przepisy dotychczasowe.
+1. Wszczęcie egzekucji administracyjnej znieruchomości nie może nastąpić, jeżeli przed dniem wejścia wżycie ustawy wierzyciel skierował do komornika sądowego wniosek o przeprowadzenie egzekucji z nieruchomości. W takim przypadku stosuje się przepisy dotychczasowe.
 
-2. Wokresie pierwszych 3 miesi´cy od dnia wejÊcia w ˝ycie ustawy organ egzekucyjny mo˝e zwracaç si´ do bieg∏ych ooszacowanie wartoÊci majàtku zobowiàzanego na zasadach okreÊlonych w dotychczasowych przepisach.
+2. Wokresie pierwszych 3 miesięcy od dnia wejścia w życie ustawy organ egzekucyjny może zwracać się do biegłych ooszacowanie wartości majątku zobowiązanego na zasadach określonych w dotychczasowych przepisach.
 
-3. Termin do wniesienia skargi na dokonane przed dniem wejÊcia w ˝ycie ustawy czynnoÊci egzekucyjne organu egzekucyjnego lub egzekutora koƒczy si´ zup∏ywem 14 dni od dnia wejÊcia w˝ycie ustawy.
+3. Termin do wniesienia skargi na dokonane przed dniem wejścia w życie ustawy czynności egzekucyjne organu egzekucyjnego lub egzekutora kończy się zupływem 14 dni od dnia wejścia wżycie ustawy.
 
-4. Wnioski, zarzuty, skargi i ˝àdania wniesione przed dniem wejÊcia w ˝ycie ustawy podlegajà rozpatrzeniu na podstawie dotychczasowych przepisów.
+4. Wnioski, zarzuty, skargi i żądania wniesione przed dniem wejścia w życie ustawy podlegają rozpatrzeniu na podstawie dotychczasowych przepisów.
 
-5. D∏u˝nik zaj´tej wierzytelnoÊci, realizujàc zaj´cie dokonane przed dniem wejÊcia w ˝ycie ustawy, jest obowiàzany obliczyç i przekazaç organowi egzekucyjnemu odsetki ztytu∏u niewp∏acenia wterminie dochodzonej nale˝noÊci, je˝eli organ egzekucyjny przes∏a∏ mu zaj´cie uzupe∏niajàce wskazujàce kwot´ odsetek nale˝nych do dnia wystawienia tego zaj´cia oraz stawk´ odsetek, wed∏ug której sà naliczone odsetki nale˝ne po tym dniu.
+5. Dłużnik zajętej wierzytelności, realizując zajęcie dokonane przed dniem wejścia w życie ustawy, jest obowiązany obliczyć i przekazać organowi egzekucyjnemu odsetki ztytułu niewpłacenia wterminie dochodzonej należności, jeżeli organ egzekucyjny przesłał mu zajęcie uzupełniające wskazujące kwotę odsetek należnych do dnia wystawienia tego zajęcia oraz stawkę odsetek, według której są naliczone odsetki należne po tym dniu.
 
-6. W przypadku kwestionowania prawid∏owoÊci wykonania przed dniem wejÊcia w ˝ycie ustawy obowiàzków cià˝àcych na wierzycielach, zobowiàzanych lub d∏u˝nikach zaj´tej wierzytelnoÊci organ egzekucyj- z zachowaniem przepisów dotychczasowych, sà skuny stosuje przepisy dotychczasowe. teczne, zzastrze˝eniem art. 14.
+6. W przypadku kwestionowania prawidłowości wykonania przed dniem wejścia w życie ustawy obowiązków ciążących na wierzycielach, zobowiązanych lub dłużnikach zajętej wierzytelności organ egzekucyj- z zachowaniem przepisów dotychczasowych, są skuny stosuje przepisy dotychczasowe. teczne, zzastrzeżeniem art. 14.
 
-7. Wierzyciele, którzy zdniem wejÊcia w˝ycie usta- Art. 14. Dotychczasowe przepisy wykonawcze zawy utracili prawo do dochodzenia swych nale˝noÊci chowujà moc do czasu wydania nowych przepisów wtrybie egzekucji administracyjnej, nie tracà tego pra- wykonawczych, je˝eli nie sà sprzeczne zniniejszà ustawa w stosunku do nale˝noÊci, co do których wszcz´to wà, nie d∏u˝ej jednak ni˝ przez 6 miesi´cy od dnia wejpost´powanie egzekucyjne lub zabezpieczajàce przed Êcia w˝ycie ustawy. tym dniem.
+7. Wierzyciele, którzy zdniem wejścia wżycie usta- Art. 14. Dotychczasowe przepisy wykonawcze zawy utracili prawo do dochodzenia swych należności chowują moc do czasu wydania nowych przepisów wtrybie egzekucji administracyjnej, nie tracą tego pra- wykonawczych, jeżeli nie są sprzeczne zniniejszą ustawa w stosunku do należności, co do których wszczęto wą, nie dłużej jednak niż przez 6 miesięcy od dnia wejpostępowanie egzekucyjne lub zabezpieczające przed ścia wżycie ustawy. tym dniem.
 
-**Art. 15.** Ustawa wchodzi w˝ycie po up∏ywie 30 dni
+**Art. 15.** Ustawa wchodzi wżycie po upływie 30 dni
 
-**Art. 13.** Przepisy ustawy stosuje si´ równie˝ do po- od dnia og∏oszenia. st´powaƒ egzekucyjnych wszcz´tych przed dniem jej wejÊcia w ˝ycie, z tym ˝e wydane postanowienia oraz czynnoÊci egzekucyjne dokonane przed tym dniem Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1369 USTAWA zdnia 6 wrzeÊnia 2001 r. ozmianie ustawy ozrycza∏towanym podatku dochodowym od niektórych przychodów osiàganych przez osoby fizyczne.
+**Art. 13.** Przepisy ustawy stosuje się również do po- od dnia ogłoszenia. stępowań egzekucyjnych wszczętych przed dniem jej wejścia w życie, z tym że wydane postanowienia oraz czynności egzekucyjne dokonane przed tym dniem Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1369 USTAWA zdnia 6 września 2001 r. ozmianie ustawy ozryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne.
 
-**Art. 1.** W ustawie z dnia 20 listopada 1998 r. o zrycza∏towanym podatku dochodowym od niektórych przychodów osiàganych przez osoby fizyczne (Dz. U. 144, poz. 930, z 2000 r. 104, poz. 1104 i 122, poz. 1324 oraz z2001 r. 74, poz. 784,Nr 88, poz. 961 i 125, poz. 1363) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 20 listopada 1998 r. o zryczałtowanym podatku dochodowym od niektórych przychodów osiąganych przez osoby fizyczne (Dz. U. 144, poz. 930, z 2000 r. 104, poz. 1104 i 122, poz. 1324 oraz z2001 r. 74, poz. 784,Nr 88, poz. 961 i 125, poz. 1363) wprowadza się następujące zmiany:
 

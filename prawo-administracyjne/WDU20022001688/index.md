@@ -24,23 +24,23 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022001688) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1688/text.pdf) |
 
-ozmianie ustawy oPolicji, ustawy oadministracji rzàdowej wwojewództwie iustawy osamorzàdzie powiatowym.
+ozmianie ustawy oPolicji, ustawy oadministracji rządowej wwojewództwie iustawy osamorządzie powiatowym.
 
-**Art. 1.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji „1a) stosunku do rejonowego (Dz. U. z 2002 r. 7, poz. 58, 19, poz. 185, 74, Komendant Sto∏eczny Policji,”; poz. 676, 81, poz. 731, 113, poz. 984, 115, poz. 996, 153, poz. 1271 176, poz. 1457) wpro- 3) art. 6bi6cotrzymujà brzmienie: wadza nast´pujàce zmiany: „Art. 6b. 1. Komendanta wojewódzkiego
+**Art. 1.** Wustawie zdnia 6 kwietnia 1990 r. oPolicji Ń1a) stosunku do rejonowego (Dz. U. z 2002 r. 7, poz. 58, 19, poz. 185, 74, Komendant Stołeczny Policji,”; poz. 676, 81, poz. 731, 113, poz. 984, 115, poz. 996, 153, poz. 1271 176, poz. 1457) wpro- 3) art. 6bi6cotrzymują brzmienie: wadza następujące zmiany: ŃArt. 6b. 1. Komendanta wojewódzkiego
 
-**Art. 2.** W ustawie z dnia 5 czerwca 1998 r. o administracji rzàdowej województwie (Dz. U. z 2001 r. 80, poz. 872 iNr 128, poz. 1407 oraz z2002 r. 37, poz. 329, 41, poz. 365, 62, poz. 558 89, poz. 804) wart. 31 otrzymuje brzmienie: „1. Kierowników zespolonych s∏u˝b, inspekcji istra˝y wojewódzkich powo∏uje odwo∏uje wojewoda, zwyjàtkiem:
+**Art. 2.** W ustawie z dnia 5 czerwca 1998 r. o administracji rządowej województwie (Dz. U. z 2001 r. 80, poz. 872 iNr 128, poz. 1407 oraz z2002 r. 37, poz. 329, 41, poz. 365, 62, poz. 558 89, poz. 804) wart. 31 otrzymuje brzmienie: Ń1. Kierowników zespolonych służb, inspekcji istraży wojewódzkich powołuje odwołuje wojewoda, zwyjątkiem:
 
-**Art. 3.** Wustawie zdnia 5 czerwca 1998 r. osamorzàdzie powiatowym (Dz. U. z2001 r. 142, poz. 1592 oraz z 2002 r. 23, poz. 220, 62, poz. 558, 113, poz. 984 iNr 153, poz. 1271) wprowadza nast´pujàce zmiany:
+**Art. 3.** Wustawie zdnia 5 czerwca 1998 r. osamorządzie powiatowym (Dz. U. z2001 r. 142, poz. 1592 oraz z 2002 r. 23, poz. 220, 62, poz. 558, 113, poz. 984 iNr 153, poz. 1271) wprowadza następujące zmiany:
 
-**Art. 4.** Ilekroç odr´bnych przepisach jest mowa o komendancie powiatowym (miejskim) lub o komendzie powiatowej (miejskiej) rozumie przez to odpowiednio równie˝ rejonowego lub komend´ rejonowà Policji.
+**Art. 4.** Ilekroć odrębnych przepisach jest mowa o komendancie powiatowym (miejskim) lub o komendzie powiatowej (miejskiej) rozumie przez to odpowiednio również rejonowego lub komendę rejonową Policji.
 
 **Art. 5.**
 
-1. Komendant Sto∏eczny terminie 14 dni od dnia wejÊcia w˝ycie ustawy wyznaczy pe∏nomocników do spraw organizacji komend rejonowych wm.st. Warszawie.
+1. Komendant Stołeczny terminie 14 dni od dnia wejścia wżycie ustawy wyznaczy pełnomocników do spraw organizacji komend rejonowych wm.st. Warszawie.
 
-2. Komendant Sto∏eczny powo∏a komendantów rejonowych Warszawie nie póêniej ni˝ wterminie 3 miesi´cy od dnia wejÊcia w˝ycie ustawy.
+2. Komendant Stołeczny powoła komendantów rejonowych Warszawie nie póêniej niż wterminie 3 miesięcy od dnia wejścia wżycie ustawy.
 
-3. Do dnia powo∏ania komendantów rejonowych Warszawie ich zadania kompetencje wykonujà pe∏nomocnicy do spraw organizacji komend rejonowych Policji.
+3. Do dnia powołania komendantów rejonowych Warszawie ich zadania kompetencje wykonują pełnomocnicy do spraw organizacji komend rejonowych Policji.
 
-**Art. 6.** Ustawa wchodzi ˝ycie up∏ywie 14 dni od dnia og∏oszenia, ztym ˝e przepisy art. pkt 8 iart. 3 pkt stosuje od dnia stycznia 2003 r. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski ———————
+**Art. 6.** Ustawa wchodzi życie upływie 14 dni od dnia ogłoszenia, ztym że przepisy art. pkt 8 iart. 3 pkt stosuje od dnia stycznia 2003 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski ———————
 

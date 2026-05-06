@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050440422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/422/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej i spo∏ecznej oraz zatrudnianiu osób niepe∏nosprawnych (Dz. U. Nr 123, poz. 776, z póên. zm. Dziennik Ustaw Nr 44 — 2870 — Poz. 422
+**Art. 1.** Wustawie zdnia 27 sierpnia 1997 r. orehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. U. Nr 123, poz. 776, z póên. zm. Dziennik Ustaw Nr 44 — 2870 — Poz. 422
 
-**Art. 3.** Ustawa wchodzi w˝ycie zdniem og∏oszenia z mocà od dnia 1 stycznia 2005 r. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 422 USTAWA z dnia 21 stycznia 2005 r. zmieniajàca ustaw´ o rehabilitacji zawodowej i spo∏ecznej oraz zatrudnianiu osób niepe∏nosprawnych i ustaw´ o zmianie ustawy o rehabilitacji zawodowej i spo∏ecznej oraz zatrudnianiu osób niepe∏nosprawnych oraz o zmianie niektórych innych ustaw ———————
+**Art. 3.** Ustawa wchodzi wżycie zdniem ogłoszenia z mocą od dnia 1 stycznia 2005 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 422 USTAWA z dnia 21 stycznia 2005 r. zmieniająca ustawę o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych i ustawę o zmianie ustawy o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych oraz o zmianie niektórych innych ustaw ———————
 

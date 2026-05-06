@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082201418) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1418/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych (Dz. U. z 2007 r. Nr 11, poz. 74, zpóên. zm.
+**Art. 1.** W ustawie z dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, zpóên. zm.
 
-**Art. 2.** Ustawa wchodzi w˝ycie zdniem 1 stycznia 2009 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski ——————— 1418 USTAWA zdnia 17 paêdziernika 2008 r. ozmianie ustawy osystemie ubezpieczeƒ spo∏ecznych ———————
+**Art. 2.** Ustawa wchodzi wżycie zdniem 1 stycznia 2009 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński ——————— 1418 USTAWA zdnia 17 paêdziernika 2008 r. ozmianie ustawy osystemie ubezpieczeń społecznych ———————
 

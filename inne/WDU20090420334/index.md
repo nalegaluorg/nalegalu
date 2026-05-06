@@ -26,5 +26,5 @@ domain: null
 
 **Art. 1.** W ustawie z dnia 17 maja 1989 r. — Prawo geodezyjne i kartograficzne (Dz. U. z 2005 r. Nr 240, poz. 2027, zpóên. zm.
 
-**Art. 2.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 334 USTAWA zdnia 9 stycznia 2009 r. ozmianie ustawy — Prawo geodezyjne ikartograficzne ———————
+**Art. 2.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 334 USTAWA zdnia 9 stycznia 2009 r. ozmianie ustawy — Prawo geodezyjne ikartograficzne ———————
 

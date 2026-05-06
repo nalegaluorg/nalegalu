@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 10 lipca 2008 r. o odpadach wydobywczych
 
 | Pole | Wartość |
 |---|---|
@@ -24,613 +24,635 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20081380865) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/865/text.pdf) |
 
+#### Rozdział 1 Przepisy ogólne
+
 **Art. 1.**
 
-1. Ustawa, majàc na celu zapobieganie powstawaniu wprzemyÊle wydobywczym wydobywczych, ograniczanie ich niekorzystnego wp∏ywu na Êrodowisko oraz ˝ycie i zdrowie ludzi, okreÊla:
+1. Ustawa, mając na celu zapobieganie powstawaniu wprzemyśle wydobywczym wydobywczych, ograniczanie ich niekorzystnego wpływu na środowisko oraz życie i zdrowie ludzi, określa:
 
-- **1)** zasady gospodarowania odpadami wydobywczymi oraz niezanieczyszczonà glebà;
+- **1)** zasady gospodarowania odpadami wydobywczymi oraz niezanieczyszczoną glebą;
 - **2)** zasady prowadzenia obiektu unieszkodliwiania odpadów wydobywczych;
-- **3)** procedury zwiàzane z uzyskiwaniem zezwoleƒ i pozwoleƒ zwiàzanych z gospodarkà odpadami wydobywczymi;
-- **4)** procedury zwiàzane z zapobieganiem powa˝nym wypadkom obiektach unieszkodliwiania odpadów wydobywczych kategorii A.
+- **3)** procedury związane z uzyskiwaniem zezwoleń i pozwoleń związanych z gospodarką odpadami wydobywczymi;
+- **4)** procedury związane z zapobieganiem poważnym wypadkom obiektach unieszkodliwiania odpadów wydobywczych kategorii A.
 
-2. Wsprawach dotyczàcych sk∏adowania wydobywczych górotworze, tym podziemnych wyrobiskach górniczych, stosuje si´ przepisy ustawy zdnia 4 lutego 1994 r. Prawo geologiczne igórnicze (Dz. U. z 2005 r. 228, poz. 1947, z póên. zm.
+2. Wsprawach dotyczących składowania wydobywczych górotworze, tym podziemnych wyrobiskach górniczych, stosuje się przepisy ustawy zdnia 4 lutego 1994 r. Prawo geologiczne igórnicze (Dz. U. z 2005 r. 228, poz. 1947, z póên. zm.
 
 **Art. 2.**
 
-1. Przepisów ustawy nie stosuje si´ do:
+1. Przepisów ustawy nie stosuje się do:
 
-- **1)** powsta∏ych wyniku poszukiwania, rozpoznawania i wydobywania kopalin ze z∏ó˝ oraz ich magazynowania i przeróbki, które nie sà bezpoÊrednio zwiàzane z tymi dzia∏aniami;
-- **2)** powsta∏ych wyniku poszukiwania, rozpoznawania i wydobywania kopalin ze z∏ó˝ oraz ich magazynowania i przeróbki z obszarów morskich Rzeczypospolitej Polskiej;
-- **3)** wt∏aczania wód do górotworu rozumieniu ustawy z dnia 4 lutego 1994 r. Prawo geologiczne ).
+- **1)** powstałych wyniku poszukiwania, rozpoznawania i wydobywania kopalin ze złóż oraz ich magazynowania i przeróbki, które nie są bezpośrednio związane z tymi działaniami;
+- **2)** powstałych wyniku poszukiwania, rozpoznawania i wydobywania kopalin ze złóż oraz ich magazynowania i przeróbki z obszarów morskich Rzeczypospolitej Polskiej;
+- **3)** wtłaczania wód do górotworu rozumieniu ustawy z dnia 4 lutego 1994 r. Prawo geologiczne ).
 
-3. Wsprawach dotyczàcych post´powania zodpadami wydobywczymi zakresie nieuregulowanym wustawie stosuje si´ przepisy ustawy zdnia 27 kwietnia 2001 r. oodpadach (Dz. U. z2007 r. 39, poz. 251 i 88, poz. 587) z wy∏àczeniem rozdzia∏u 7.
+3. Wsprawach dotyczących postępowania zodpadami wydobywczymi zakresie nieuregulowanym wustawie stosuje się przepisy ustawy zdnia 27 kwietnia 2001 r. oodpadach (Dz. U. z2007 r. 39, poz. 251 i 88, poz. 587) z wyłączeniem rozdziału 7.
 
-4. Wsprawach dotyczàcych post´powania zodpadami wydobywczymi b´dàcymi odpadami promieniotwórczymi stosuje si´ przepisy ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z2007 r. 42, poz. 276 oraz z 2008 r. 93, poz. 583). i górnicze;
+4. Wsprawach dotyczących postępowania zodpadami wydobywczymi będącymi odpadami promieniotwórczymi stosuje się przepisy ustawy z dnia 29 listopada 2000 r. Prawo atomowe (Dz. U. z2007 r. 42, poz. 276 oraz z 2008 r. 93, poz. 583). i górnicze;
 
-- **4)** mas ziemnych lub skalnych przemieszczanych zwiàzku z wydobywaniem kopalin ze z∏ó˝, je˝eli koncesja na wydobywanie kopalin ze z∏ó˝ udzielona na podstawie ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze lub miejscowy plan zagospodarowania przestrzennego dla terenu górniczego okreÊla warunki i sposób ich zagospodarowania.
+- **4)** mas ziemnych lub skalnych przemieszczanych związku z wydobywaniem kopalin ze złóż, jeżeli koncesja na wydobywanie kopalin ze złóż udzielona na podstawie ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze lub miejscowy plan zagospodarowania przestrzennego dla terenu górniczego określa warunki i sposób ich zagospodarowania.
 
-2. Do wydobywczych oboj´tnych oraz niezanieczyszczonej gleby powsta∏ych wwyniku poszukiwania, rozpoznawania iwydobywania kopalin ze z∏ó˝ oraz ich magazynowania i przeróbki oraz do powsta∏ych wwyniku wydobywania, przeróbki imagazynowania torfu nie majà zastosowania przepisy art. 10 ust. 4 i5, art. 14—23, art. 27 ust. 2, art. 28—32 iart. 55, chyba ˝e sà one sk∏adowane obiekcie unieszkodliwiania wydobywczych kategorii A.
+2. Do wydobywczych obojętnych oraz niezanieczyszczonej gleby powstałych wwyniku poszukiwania, rozpoznawania iwydobywania kopalin ze złóż oraz ich magazynowania i przeróbki oraz do powstałych wwyniku wydobywania, przeróbki imagazynowania torfu nie mają zastosowania przepisy art. 10 ust. 4 i5, art. 14—23, art. 27 ust. 2, art. 28—32 iart. 55, chyba że są one składowane obiekcie unieszkodliwiania wydobywczych kategorii A.
 
-3. Do wydobywczych innych ni˝ niebezpieczne i oboj´tne nie majà zastosowania przepisy art.10 ust. 4 i5, art. 27 ust. 2, art. 28, art. 31 ust. 4—8, art. 32 oraz art. 55, chyba ˝e sà one sk∏adowane obiekcie unieszkodliwiania wydobywczych kategorii A.
+3. Do wydobywczych innych niż niebezpieczne i obojętne nie mają zastosowania przepisy art.10 ust. 4 i5, art. 27 ust. 2, art. 28, art. 31 ust. 4—8, art. 32 oraz art. 55, chyba że są one składowane obiekcie unieszkodliwiania wydobywczych kategorii A.
 
 **Art. 3.**
 
-1. U˝yte ustawie okreÊlenia oznaczajà:
+1. Użyte ustawie określenia oznaczają:
 
-- **1)** cyjanek dysocjujàcy s∏abym kwasie cyjanek i zwiàzki cyjanku, które ulegajà dysocjacji s∏abym kwasie o okreÊlonym pH;
-- **2)** ha∏da obiekt przeznaczony do sk∏adowania sta∏ych wydobywczych na powierzchni ziemi;
-- **3)** kopalina kopalina rozumieniu art. 5 ustawy zdnia 4 lutego 1994 r. Prawo geologiczne igórz dnia 10 lipca 2008 r. o odpadach wydobywczych ——————— przekracza standardów jakoÊci gleby iziemi, októrych mowa przepisach wydanych na podstawie art. 105 ustawy zdnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska (Dz. U. z2008 r. 25, poz.150 i 111, poz. 708);
-- **5)** obiekt unieszkodliwiania wydobywczych obiekt przeznaczony do sk∏adowania wydobywczych formie sta∏ej, ciek∏ej, roztworze lub zawiesinie, tym tamy, ha∏dy i stawy osadowe; za obiekty unieszkodliwiania wydobywczych nie uznaje si´ wyrobisk górniczych wype∏nianych odpadami wydobywczymi celach rekultywacyjnych itechnologicznych;
-- **6)** odpady przeróbcze odpady wydobywcze wformie sta∏ej lub szlamu, które pozostajà po przeróbce kopalin, przeprowadzonej drodze procesów mechanicznych, fizycznych, biologicznych, termicznych lub chemicznych, a tak˝e z po∏àczenia tych procesów;
-- **7)** odpady wydobywcze odpady pochodzàce zposzukiwania, rozpoznawania, wydobywania, przeróbki i magazynowania kopalin ze z∏ó˝;
-- **8)** powa˝ny wypadek zdarzenie miejscu prowadzenia dzia∏alnoÊci zwiàzanej zgospodarowaniem odpadami wydobywczymi wobiekcie unieszkodliwiania wydobywczych, prowadzàce do natychmiastowego lub wyst´pujàcego po pewnym czasie powa˝nego zagro˝enia dla zdrowia ludzi lub Êrodowiska, miejscu prowadzenia dzia∏alnoÊci lub poza nim;
-- **9)** przemys∏ wydobywczy dzia∏ gospodarki zajmujàcy si´ odkrywkowym, podziemnym lub otworowym wydobywaniem kopalin ze z∏ó˝ lub ich przeróbkà;
-- **10)** przeróbka procesy mechaniczne, fizyczne, biologiczne, termiczne i chemiczne, a tak˝e po∏àczenie tych procesów, którym sà poddane wydobyte kopaliny, prowadzone celu przygotowania ich do wykorzystania, wtym zmiana ich obj´toÊci, klasyfikacja, rozdzielanie i∏ugowanie, atak˝e ponowna przeróbka poprzednio odrzuconych odpadów, z wy∏àczeniem procesów wytapiania, produkcyjnych procesów termicznych (innych ni˝ wypalanie wapienia) i procesów metalurgicznych;
-- **11)** rekultywacja terenu zagospodarowanie terenu, na który mia∏ wp∏yw obiekt unieszkodliwiania odpadów wydobywczych, zgodnie z funkcjà wynikajàcà z planu zagospodarowania przestrzennego lub wprzypadku braku tego planu zgodnie zzamierzonym sposobem u˝ytkowania terenów przyleg∏ych, tym przywrócenie stanu jakoÊciowego gleby i ziemi do poziomu wymaganego standardami jakoÊci gleby i ziemi;
-- **14)** zainteresowana spo∏ecznoÊç osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadajàce osobowoÊci prawnej, które sà lub mogà byç dotkni´te skutkami wydania zezwolenia lub majà interes procesie jego wydania lub procesie ustalania procedur zwiàzanych z zapobieganiem powa˝nym wypadkom obiektach unieszkodliwiania kategorii A; do organizacji pozarzàdowych ma zastosowanie przepis art. 31 Kodeksu post´powania administracyjnego.
+- **1)** cyjanek dysocjujący słabym kwasie cyjanek i związki cyjanku, które ulegają dysocjacji słabym kwasie o określonym pH;
+- **2)** hałda obiekt przeznaczony do składowania stałych wydobywczych na powierzchni ziemi;
+- **3)** kopalina kopalina rozumieniu art. 5 ustawy zdnia 4 lutego 1994 r. Prawo geologiczne igórz dnia 10 lipca 2008 r. o odpadach wydobywczych ——————— przekracza standardów jakości gleby iziemi, októrych mowa przepisach wydanych na podstawie art. 105 ustawy zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z2008 r. 25, poz.150 i 111, poz. 708);
+- **5)** obiekt unieszkodliwiania wydobywczych obiekt przeznaczony do składowania wydobywczych formie stałej, ciekłej, roztworze lub zawiesinie, tym tamy, hałdy i stawy osadowe; za obiekty unieszkodliwiania wydobywczych nie uznaje się wyrobisk górniczych wypełnianych odpadami wydobywczymi celach rekultywacyjnych itechnologicznych;
+- **6)** odpady przeróbcze odpady wydobywcze wformie stałej lub szlamu, które pozostają po przeróbce kopalin, przeprowadzonej drodze procesów mechanicznych, fizycznych, biologicznych, termicznych lub chemicznych, a także z połączenia tych procesów;
+- **7)** odpady wydobywcze odpady pochodzące zposzukiwania, rozpoznawania, wydobywania, przeróbki i magazynowania kopalin ze złóż;
+- **8)** poważny wypadek zdarzenie miejscu prowadzenia działalności związanej zgospodarowaniem odpadami wydobywczymi wobiekcie unieszkodliwiania wydobywczych, prowadzące do natychmiastowego lub występującego po pewnym czasie poważnego zagrożenia dla zdrowia ludzi lub środowiska, miejscu prowadzenia działalności lub poza nim;
+- **9)** przemysł wydobywczy dział gospodarki zajmujący się odkrywkowym, podziemnym lub otworowym wydobywaniem kopalin ze złóż lub ich przeróbką;
+- **10)** przeróbka procesy mechaniczne, fizyczne, biologiczne, termiczne i chemiczne, a także połączenie tych procesów, którym są poddane wydobyte kopaliny, prowadzone celu przygotowania ich do wykorzystania, wtym zmiana ich objętości, klasyfikacja, rozdzielanie iługowanie, atakże ponowna przeróbka poprzednio odrzuconych odpadów, z wyłączeniem procesów wytapiania, produkcyjnych procesów termicznych (innych niż wypalanie wapienia) i procesów metalurgicznych;
+- **11)** rekultywacja terenu zagospodarowanie terenu, na który miał wpływ obiekt unieszkodliwiania odpadów wydobywczych, zgodnie z funkcją wynikającą z planu zagospodarowania przestrzennego lub wprzypadku braku tego planu zgodnie zzamierzonym sposobem użytkowania terenów przyległych, tym przywrócenie stanu jakościowego gleby i ziemi do poziomu wymaganego standardami jakości gleby i ziemi;
+- **14)** zainteresowana społeczność osoby fizyczne, osoby prawne lub jednostki organizacyjne nieposiadające osobowości prawnej, które są lub mogą być dotknięte skutkami wydania zezwolenia lub mają interes procesie jego wydania lub procesie ustalania procedur związanych z zapobieganiem poważnym wypadkom obiektach unieszkodliwiania kategorii A; do organizacji pozarządowych ma zastosowanie przepis art. 31 Kodeksu postępowania administracyjnego.
 
-2. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, drodze rozporzàdzenia, szczegó∏owe kryteria zaliczania wydobywczych do oboj´tnych, kierujàc si´ w∏aÊciwoÊciami fizycznymi, chemicznymi ibiologicznymi, wszczególnoÊci rozpuszczalnoÊcià, palnoÊcià, biodegradacjà, zdolnoÊcià do wymywania, zawartoÊcià zanieczyszczeƒ odpadach wydobywczych oraz negatywnym oddzia∏ywaniem na
+2. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, szczegółowe kryteria zaliczania wydobywczych do obojętnych, kierując się właściwościami fizycznymi, chemicznymi ibiologicznymi, wszczególności rozpuszczalnością, palnością, biodegradacją, zdolnością do wymywania, zawartością zanieczyszczeń odpadach wydobywczych oraz negatywnym oddziaływaniem na
 
-- **12)** staw osadowy obiekt przeznaczony do sk∏adowania drobnoziarnistych wydobywczych, tym powsta∏ych wyniku przeróbki, wraz ze zmieniajàcà si´ iloÊcià wody technologiczÊrodowisko wód odciekowych z obiektu unieszkodliwiania wydobywczych, zuwzgl´dnieniem ich potencjalnego zagro˝enia dla jakoÊci wód powierzchniowych lub podziemnych. Rozdzia∏ 2 Zasady gospodarowania odpadami wydobywczymi
+- **12)** staw osadowy obiekt przeznaczony do składowania drobnoziarnistych wydobywczych, tym powstałych wyniku przeróbki, wraz ze zmieniającą się ilością wody technologiczśrodowisko wód odciekowych z obiektu unieszkodliwiania wydobywczych, zuwzględnieniem ich potencjalnego zagrożenia dla jakości wód powierzchniowych lub podziemnych.
+
+#### Rozdział 2 Zasady gospodarowania odpadami wydobywczymi
 
 **Art. 4.**
 
-1. Wytwórca wydobywczych jest obowiàzany do stosowania takich sposobów poszukiwania, rozpoznawania, wydobywania, przeróbki i magazynowania, które zapobiegajà powstawaniu odpadów wydobywczych lub pozwalajà utrzymaç na mo˝liwym najni˝szym poziomie ich iloÊç, jak równie˝ ograniczajà negatywne oddzia∏ywanie na Êrodowisko lub zagro˝enie ˝ycia i zdrowia ludzi, przy uwzgl´dnieniu najlepszych dost´pnych technik, o których mowa wart. 3 pkt 10 ustawy zdnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska.
+1. Wytwórca wydobywczych jest obowiązany do stosowania takich sposobów poszukiwania, rozpoznawania, wydobywania, przeróbki i magazynowania, które zapobiegają powstawaniu odpadów wydobywczych lub pozwalają utrzymać na możliwym najniższym poziomie ich ilość, jak również ograniczają negatywne oddziaływanie na środowisko lub zagrożenie życia i zdrowia ludzi, przy uwzględnieniu najlepszych dostępnych technik, o których mowa wart. 3 pkt 10 ustawy zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-2. Posiadacz wydobywczych jest obowiàzany do ograniczania negatywnego oddzia∏ywania wydobywczych na Êrodowisko, ˝ycie i zdrowie ludzi, przy uwzgl´dnieniu najlepszych dost´pnych technik, o których mowa art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska.
+2. Posiadacz wydobywczych jest obowiązany do ograniczania negatywnego oddziaływania wydobywczych na środowisko, życie i zdrowie ludzi, przy uwzględnieniu najlepszych dostępnych technik, o których mowa art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-3. Posiadacz wydobywczych jest obowiàzany wpierwszej kolejnoÊci do poddania ich odzyskowi, a je˝eli z przyczyn technologicznych jest on niemo˝liwy lub nie jest uzasadniony z przyczyn ekonomicznych, do ich unieszkodliwienia zgodnie z wymaganiami ochrony Êrodowiska lub programem gospodarowania odpadami wydobywczymi, przy uwzgl´dnieniu najlepszych dost´pnych technik, o których mowa art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska.
+3. Posiadacz wydobywczych jest obowiązany wpierwszej kolejności do poddania ich odzyskowi, a jeżeli z przyczyn technologicznych jest on niemożliwy lub nie jest uzasadniony z przyczyn ekonomicznych, do ich unieszkodliwienia zgodnie z wymaganiami ochrony środowiska lub programem gospodarowania odpadami wydobywczymi, przy uwzględnieniu najlepszych dostępnych technik, o których mowa art. 3 pkt 10 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-4. Posiadacz wydobywczych jest obost´pnych technik, októrych mowa wart. 3 pkt 10 ustawy zdnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska, wszczególnoÊci do obiektów unieszkodliwiania wydobywczych.
+4. Posiadacz wydobywczych jest obostępnych technik, októrych mowa wart. 3 pkt 10 ustawy zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska, wszczególności do obiektów unieszkodliwiania wydobywczych.
 
-5. Je˝eli sà spe∏nione wymagania, októrych mowa ust. 1—4, marsza∏ek województwa mo˝e, drodze decyzji, zezwoliç na odstàpienie od wymagaƒ okreÊlonych przepisach ustawy odniesieniu do:
+5. Jeżeli są spełnione wymagania, októrych mowa ust. 1—4, marszałek województwa może, drodze decyzji, zezwolić na odstąpienie od wymagań określonych przepisach ustawy odniesieniu do:
 
-- **1)** sk∏adowania wydobywczych innych ni˝ niebezpieczne, powsta∏ych wyniku poszukiwania kopalin, z wy∏àczeniem ropy naftowej, soli kamiennej, soli potasowo-magnezowych oraz soli strontu, lub
-- **2)** sk∏adowania niezanieczyszczonej gleby iodpadów powsta∏ych wyniku wydobycia, przeróbki i magazynowania torfu.
+- **1)** składowania wydobywczych innych niż niebezpieczne, powstałych wyniku poszukiwania kopalin, z wyłączeniem ropy naftowej, soli kamiennej, soli potasowo-magnezowych oraz soli strontu, lub
+- **2)** składowania niezanieczyszczonej gleby iodpadów powstałych wyniku wydobycia, przeróbki i magazynowania torfu.
 
 **Art. 5.**
 
-1. Wydanie zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych wymaga przeprowadzenia post´powania sprawie oceny oddzia∏ywania na Êrodowisko.
+1. Wydanie zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych wymaga przeprowadzenia postępowania sprawie oceny oddziaływania na środowisko.
 
-2. Do wydobywczych innych ni˝ niebezpieczne i oboj´tne oraz odpadów, o których mowa art. 2 ust. 2, nie majà zastosowania przepisy art. 61 i art. 270 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska, chyba ˝e sà one sk∏adowane obiekcie unieszkodliwiania wydobywczych kategorii A.
+2. Do wydobywczych innych niż niebezpieczne i obojętne oraz odpadów, o których mowa art. 2 ust. 2, nie mają zastosowania przepisy art. 61 i art. 270 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska, chyba że są one składowane obiekcie unieszkodliwiania wydobywczych kategorii A.
 
 **Art. 6.**
 
-1. Obiekty unieszkodliwiania wydobywczych dzieli si´ na:
+1. Obiekty unieszkodliwiania wydobywczych dzieli się na:
 
-- **1)** obiekty unieszkodliwiania wydobywczych kategorii A, je˝eli:
-    - **a)** brak dzia∏ania lub niew∏aÊciwe dzia∏anie mog∏oby spowodowaç powa˝ny wypadek,
-    - **b)** sk∏adowane sà nim odpady niebezpieczne,
-    - **c)** sk∏adowane wnim odpady wydobywcze zawierajà substancje lub preparaty niebezpieczne;
+- **1)** obiekty unieszkodliwiania wydobywczych kategorii A, jeżeli:
+    - **a)** brak działania lub niewłaściwe działanie mogłoby spowodować poważny wypadek,
+    - **b)** składowane są nim odpady niebezpieczne,
+    - **c)** składowane wnim odpady wydobywcze zawierają substancje lub preparaty niebezpieczne;
 
-- **2)** pozosta∏e obiekty unieszkodliwiania wydobywczych.
+- **2)** pozostałe obiekty unieszkodliwiania wydobywczych.
 
-2. Minister w∏aÊciwy do spraw Êrodowiska okreÊli, drodze rozporzàdzenia, szczegó∏owe kryteria klasyfikacji obiektów unieszkodliwiania wydobywczych decydujàce ozaliczeniu obiektu unieszkodliwiania wydobywczych do kategorii A, kierujàc si´ wp∏ywem obiektu unieszkodliwiania wydobywczych na Êrodowisko oraz mo˝liwoÊcià wystàpienia powa˝nego wypadku.
+2. Minister właściwy do spraw środowiska określi, drodze rozporządzenia, szczegółowe kryteria klasyfikacji obiektów unieszkodliwiania wydobywczych decydujące ozaliczeniu obiektu unieszkodliwiania wydobywczych do kategorii A, kierując się wpływem obiektu unieszkodliwiania wydobywczych na środowisko oraz możliwością wystąpienia poważnego wypadku.
 
-3. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, drodze rozporzàdzenia, normy zharmonizowane odnoszàce si´ do metod pobierania próbek i przeprowadzania analiz niezb´dnych do technicznewobiekcie unieszkodliwiania wydobywczych.
+3. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, normy zharmonizowane odnoszące się do metod pobierania próbek i przeprowadzania analiz niezbędnych do technicznewobiekcie unieszkodliwiania wydobywczych.
 
-2. Dopuszcza si´ magazynowanie, przez okres nie d∏u˝szy ni˝ 6 miesi´cy, wydobywczych niebezpiecznych, których wytworzenie by∏o wczeÊniej niemo˝liwe do przewidzenia.
+2. Dopuszcza się magazynowanie, przez okres nie dłuższy niż 6 miesięcy, wydobywczych niebezpiecznych, których wytworzenie było wcześniej niemożliwe do przewidzenia.
 
-3. Dopuszcza si´ magazynowanie wydobywczych innych ni˝ niebezpieczne i oboj´tne przez okres nie d∏u˝szy ni˝ rok.
+3. Dopuszcza się magazynowanie wydobywczych innych niż niebezpieczne i obojętne przez okres nie dłuższy niż rok.
 
-4. Dopuszcza si´ magazynowanie niezanieczyszczonej gleby, wydobywczych innych ni˝ niebezpieczne wytworzonych czasie prac poszukiwawczych, powsta∏ych wyniku wydobywania, przeróbki i magazynowania torfu oraz wydobywczych oboj´tnych przez okres nie d∏u˝szy ni˝ 3 lata.
+4. Dopuszcza się magazynowanie niezanieczyszczonej gleby, wydobywczych innych niż niebezpieczne wytworzonych czasie prac poszukiwawczych, powstałych wyniku wydobywania, przeróbki i magazynowania torfu oraz wydobywczych obojętnych przez okres nie dłuższy niż 3 lata.
 
-5. Po up∏ywie okresów, októrych mowa wust. 2—4, posiadacz wydobywczych jest obowiàzany poddaç odpady wydobywcze odzyskowi lub unieszkodliwieniu, wtym sk∏adowaniu wobiekcie unieszkodliwiania wydobywczych. Rozdzia∏ 3 Program gospodarowania odpadami wydobywczymi
+5. Po upływie okresów, októrych mowa wust. 2—4, posiadacz wydobywczych jest obowiązany poddać odpady wydobywcze odzyskowi lub unieszkodliwieniu, wtym składowaniu wobiekcie unieszkodliwiania wydobywczych.
+
+#### Rozdział 3 Program gospodarowania odpadami wydobywczymi
 
 **Art. 8.**
 
-1. Posiadacz wydobywczych jest obowiàzany do przed∏o˝enia w∏aÊciwemu organowi programu gospodarowania odpadami wydobywczymi przed rozpocz´ciem dzia∏alnoÊci zwiàzanej z wytwarzaniem lub gospodarowaniem odpadami wydobywczymi.
+1. Posiadacz wydobywczych jest obowiązany do przedłożenia właściwemu organowi programu gospodarowania odpadami wydobywczymi przed rozpoczęciem działalności związanej z wytwarzaniem lub gospodarowaniem odpadami wydobywczymi.
 
 2. Celem programu gospodarowania odpadami wydobywczymi jest:
 
-- **1)** zapobieganie powstawaniu wydobywczych i ograniczanie iloÊci wytwarzanych odpadów wydobywczych oraz ich negatywnego oddzia∏ywania na Êrodowisko, szczególnoÊci poprzez:
-    - **a)** racjonalne gospodarowanie odpadami wydobywczymi fazie dzia∏alnoÊci wydobywczej i przy wyborze metody wydobywania kopalin ze z∏ó˝ oraz ich przeróbki,
-    - **b)** analiz´ zmian, którym mogà ulec odpady wydobywcze zwiàzku ze zwi´kszeniem si´ powierzchni ich kontaktu z czynnikami atmosferycznymi, tym zakresie ekspozycji na te czynniki,
-    - **c)** umieszczenie wydobywczych z powrotem wyrobiskach górniczych, zakresie, jakim jest to technicznie i ekonomicznie uzasadnione oraz zgodne z przepisami o ochronie nia wydobywczych lub, je˝eli nie jest to technologicznie wykonalne, ponowne u˝ycie warstwy uprawnej gleby innym miejscu celu poprawy wartoÊci u˝ytkowej powierzchni ziemi,
-    - **e)** stosowanie procesie przeróbki kopalin ze z∏ó˝, substancji jak najmniej niebezpiecznych;
+- **1)** zapobieganie powstawaniu wydobywczych i ograniczanie ilości wytwarzanych odpadów wydobywczych oraz ich negatywnego oddziaływania na środowisko, szczególności poprzez:
+    - **a)** racjonalne gospodarowanie odpadami wydobywczymi fazie działalności wydobywczej i przy wyborze metody wydobywania kopalin ze złóż oraz ich przeróbki,
+    - **b)** analizę zmian, którym mogą ulec odpady wydobywcze związku ze zwiększeniem się powierzchni ich kontaktu z czynnikami atmosferycznymi, tym zakresie ekspozycji na te czynniki,
+    - **c)** umieszczenie wydobywczych z powrotem wyrobiskach górniczych, zakresie, jakim jest to technicznie i ekonomicznie uzasadnione oraz zgodne z przepisami o ochronie nia wydobywczych lub, jeżeli nie jest to technologicznie wykonalne, ponowne użycie warstwy uprawnej gleby innym miejscu celu poprawy wartości użytkowej powierzchni ziemi,
+    - **e)** stosowanie procesie przeróbki kopalin ze złóż, substancji jak najmniej niebezpiecznych;
 
-- **2)** zapewnienie wpierwszej kolejnoÊci odzysku odpadów wydobywczych, wtym ponownego ich wykorzystania tam, gdzie jest to uzasadnione zprzyczyn technologicznych i ekonomicznych oraz zgodne z przepisami o ochronie Êrodowiska;
-- **3)** zapewnienie bezpiecznego unieszkodliwiania odpadów wydobywczych, szczególnoÊci poprzez dokonanie na etapie projektowania obiektu unieszkodliwiania wydobywczych analizy sposobu gospodarowania odpadami wydobywczymi wtrakcie jego eksploatacji oraz po jego zamkni´ciu, a tak˝e przez wybór projektu, który:
-    - **a)** wymaga minimalnego, a je˝eli jest to mo˝liwe, nie wymaga ˝adnego monitoringu, kontrolowania i zarzàdzania zamkni´tym obiektem unieszkodliwiania wydobywczych,
-    - **b)** zapobiega lub przynajmniej minimalizuje jakiekolwiek d∏ugotrwa∏e negatywne skutki, wszczególnoÊci zwiàzane z przemieszczaniem si´ zanieczyszczeƒ do powietrza lub wód z obiektu unieszkodliwiania wydobywczych,
-    - **c)** zapewnia d∏ugoterminowà statecznoÊç ka˝dej tamy lub ha∏dy wznoszàcej si´ ponad istniejàcà uprzednio powierzchni´ ziemi.
+- **2)** zapewnienie wpierwszej kolejności odzysku odpadów wydobywczych, wtym ponownego ich wykorzystania tam, gdzie jest to uzasadnione zprzyczyn technologicznych i ekonomicznych oraz zgodne z przepisami o ochronie środowiska;
+- **3)** zapewnienie bezpiecznego unieszkodliwiania odpadów wydobywczych, szczególności poprzez dokonanie na etapie projektowania obiektu unieszkodliwiania wydobywczych analizy sposobu gospodarowania odpadami wydobywczymi wtrakcie jego eksploatacji oraz po jego zamknięciu, a także przez wybór projektu, który:
+    - **a)** wymaga minimalnego, a jeżeli jest to możliwe, nie wymaga żadnego monitoringu, kontrolowania i zarządzania zamkniętym obiektem unieszkodliwiania wydobywczych,
+    - **b)** zapobiega lub przynajmniej minimalizuje jakiekolwiek długotrwałe negatywne skutki, wszczególności związane z przemieszczaniem się zanieczyszczeń do powietrza lub wód z obiektu unieszkodliwiania wydobywczych,
+    - **c)** zapewnia długoterminową stateczność każdej tamy lub hałdy wznoszącej się ponad istniejącą uprzednio powierzchnię ziemi.
 
 **Art. 9.**
 
-1. Program gospodarowania odpadami wydobywczymi zawiera nast´pujàce dane:
+1. Program gospodarowania odpadami wydobywczymi zawiera następujące dane:
 
-- **1)** opis dzia∏aƒ majàcych na celu zapobieganie powstawaniu wydobywczych iograniczanie iloÊci wytwarzanych wydobywczych oraz ich negatywnego oddzia∏ywania na Êrodowisko;
-- **2)** opis dzia∏aƒ majàcych na celu odzysk wydobywczych, je˝eli jest on technologicznie iekonomicznie uzasadniony oraz zgodny zprzepisami o ochronie Êrodowiska;
-- **3)** ocen´ ryzyka obiektu unieszkodliwiania wydobywczych;
-- **4)** klasyfikacj´ obiektu unieszkodliwiania wydobywczych dokonanà zgodnie z ocenà ryzyka obiektu unieszkodliwiania wydobywczych;
-- **5)** wyszczególnienie rodzaju wydobywczych przewidzianych do sk∏adowania obiekcie unieszkodliwiania wydobywczych, z uwzgl´dnieniem charakterystyki tych odpadów;
-- **9)** skutki dla Êrodowiska izdrowia ludzi spowodowane unieszkodliwianiem wydobywczych oraz dzia∏ania zapobiegawcze, które nale˝y podjàç celu zmniejszenia negatywnego oddzia∏ywania na Êrodowisko podczas eksploatacji obiektu unieszkodliwiania wydobywczych i po jego zamkni´ciu;
-- **10)** opis technologii i Êrodków technicznych s∏u˝àcych zapobieganiu powstawania po˝arów obiektach unieszkodliwiania wydobywczych, wktórych sà sk∏adowane odpady zawierajàce cz´Êci palne;
+- **1)** opis działań mających na celu zapobieganie powstawaniu wydobywczych iograniczanie ilości wytwarzanych wydobywczych oraz ich negatywnego oddziaływania na środowisko;
+- **2)** opis działań mających na celu odzysk wydobywczych, jeżeli jest on technologicznie iekonomicznie uzasadniony oraz zgodny zprzepisami o ochronie środowiska;
+- **3)** ocenę ryzyka obiektu unieszkodliwiania wydobywczych;
+- **4)** klasyfikację obiektu unieszkodliwiania wydobywczych dokonaną zgodnie z oceną ryzyka obiektu unieszkodliwiania wydobywczych;
+- **5)** wyszczególnienie rodzaju wydobywczych przewidzianych do składowania obiekcie unieszkodliwiania wydobywczych, z uwzględnieniem charakterystyki tych odpadów;
+- **9)** skutki dla środowiska izdrowia ludzi spowodowane unieszkodliwianiem wydobywczych oraz działania zapobiegawcze, które należy podjąć celu zmniejszenia negatywnego oddziaływania na środowisko podczas eksploatacji obiektu unieszkodliwiania wydobywczych i po jego zamknięciu;
+- **10)** opis technologii i środków technicznych służących zapobieganiu powstawania pożarów obiektach unieszkodliwiania wydobywczych, wktórych są składowane odpady zawierające części palne;
 - **11)** zakres i sposób monitoringu wyrobisk górniczych zgodnie z warunkami, o których mowa art. 39;
 - **12)** zakres i sposób monitoringu obiektów unieszkodliwiania wydobywczych, o którym mowa art. 27 ust. 6;
-- **13)** opis sposobu zamkni´cia obiektu unieszkodliwiania wydobywczych wraz z rekultywacjà terenu oraz procedurami po zamkni´ciu oraz monitoringu zgodnie z art. 27 ust. 6, z uwzgl´dnieniem szczególnoÊci:
-    - **a)** ustalenia niezb´dnych dzia∏aƒ dotyczàcych zamkni´cia obiektu unieszkodliwiania wydobywczych,
-    - **b)** ustalenia dzia∏aƒ zwiàzanych z rekultywacjà terenu,
+- **13)** opis sposobu zamknięcia obiektu unieszkodliwiania wydobywczych wraz z rekultywacją terenu oraz procedurami po zamknięciu oraz monitoringu zgodnie z art. 27 ust. 6, z uwzględnieniem szczególności:
+    - **a)** ustalenia niezbędnych działań dotyczących zamknięcia obiektu unieszkodliwiania wydobywczych,
+    - **b)** ustalenia działań związanych z rekultywacją terenu,
     - **c)** sprawowania nadzoru nad zrekultywowanym obiektem unieszkodliwiania wydobywczych;
 
-- **14)** opis dzia∏aƒ majàcych na celu zapobieganie lub zminimalizowanie pogorszenia stanu wód, oraz majàcych na celu zapobieganie lub minimalizacj´ zanieczyszczenia powietrza i gleby;
-- **15)** wyniki badaƒ terenu, na który mo˝e wywieraç wp∏yw obiekt unieszkodliwiania wydobywczych, zakresie ustalenia poziomu naturalnych st´˝eƒ substancji wyst´pujàcych glebie.
+- **14)** opis działań mających na celu zapobieganie lub zminimalizowanie pogorszenia stanu wód, oraz mających na celu zapobieganie lub minimalizację zanieczyszczenia powietrza i gleby;
+- **15)** wyniki badań terenu, na który może wywierać wpływ obiekt unieszkodliwiania wydobywczych, zakresie ustalenia poziomu naturalnych stężeń substancji występujących glebie.
 
-2. Program gospodarowania odpadami wydobywczymi powinien zawieraç dane umo˝liwiajàce organowi w∏aÊciwemu ocen´ osiàgni´cia celu, o którym mowa art. 8 ust. 2.
+2. Program gospodarowania odpadami wydobywczymi powinien zawierać dane umożliwiające organowi właściwemu ocenę osiągnięcia celu, o którym mowa art. 8 ust. 2.
 
-3. Je˝eli posiadacz wydobywczych prowadzi wy∏àcznie dzia∏alnoÊç wydobywczà lub dzia∏alnoÊç przeróbczà, lub obiekt unieszkodliwiania odpadów wydobywczych, program gospodarowania odpadami wydobywczymi zawiera dane, o których mowa ust. 1, zakresie prowadzonej dzia∏alnoÊci.
+3. Jeżeli posiadacz wydobywczych prowadzi wyłącznie działalność wydobywczą lub działalność przeróbczą, lub obiekt unieszkodliwiania odpadów wydobywczych, program gospodarowania odpadami wydobywczymi zawiera dane, o których mowa ust. 1, zakresie prowadzonej działalności.
 
 4. Charakterystyka wydobywczych, októrej mowa wust. 1 pkt 5, obejmuje:
 
-- **4)** opis metody sk∏adowania obiekcie unieszkodliwiania wydobywczych;
+- **4)** opis metody składowania obiekcie unieszkodliwiania wydobywczych;
 - **5)** opis systemu transportu wydobywczych.
 
-5. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, drodze rozporzàdzenia, szczegó∏owy zakres charakterystyki wydobywczych oraz wymagania techniczne dotyczàce charakterystyki odpadów wydobywczych, majàc na wzgl´dzie statecznoÊç ichemicznà stabilnoÊç obiektu unieszkodliwiania wydobywczych oraz zapobieganie powa˝nym wypadkom.
+5. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, szczegółowy zakres charakterystyki wydobywczych oraz wymagania techniczne dotyczące charakterystyki odpadów wydobywczych, mając na względzie stateczność ichemiczną stabilność obiektu unieszkodliwiania wydobywczych oraz zapobieganie poważnym wypadkom.
 
 **Art. 10.**
 
-1. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych sporzàdza ocen´ ryzyka obiektu unieszkodliwiania wydobywczych.
+1. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych sporządza ocenę ryzyka obiektu unieszkodliwiania wydobywczych.
 
-2. Ocena ryzyka obiektu unieszkodliwiania odpadów wydobywczych zawiera nast´pujàce dane:
+2. Ocena ryzyka obiektu unieszkodliwiania odpadów wydobywczych zawiera następujące dane:
 
-- **1)** imi´ i nazwisko oraz adres zamieszkania lub nazw´ i adres siedziby posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
-- **2)** wskazanie osoby zarzàdzajàcej obiektem unieszkodliwiania wydobywczych posiadajàcej Êwiadectwo stwierdzajàce kwalifikacje wzakresie gospodarowania odpadami;
-- **3)** lokalizacj´ obiektu unieszkodliwiania wydobywczych;
-- **4)** obecnà i planowanà wielkoÊç obiektu unieszkodliwiania wydobywczych, okreÊlonà przez parametry powierzchni (ha) i pojemnoÊci (m i Mg) oraz zdolnoÊç przetwarzania (Mg/dob´);
-- **5)** klasyfikacj´ obiektu unieszkodliwiania wydobywczych z uzasadnieniem;
-- **6)** okreÊlenie wp∏ywu na Êrodowisko, ze szczególnym uwzgl´dnieniem wp∏ywu na stan powietrza, wydobywczych brak wp∏ywu obiektu unieszkodliwiania wydobywczych na Êrodowisko, st´˝enie cyjanku dysocjujàcego s∏abym kwasie nie wymaga dalszego obni˝ania za pomocà najlepszych dost´pnych technik.
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
+- **2)** wskazanie osoby zarządzającej obiektem unieszkodliwiania wydobywczych posiadającej świadectwo stwierdzające kwalifikacje wzakresie gospodarowania odpadami;
+- **3)** lokalizację obiektu unieszkodliwiania wydobywczych;
+- **4)** obecną i planowaną wielkość obiektu unieszkodliwiania wydobywczych, określoną przez parametry powierzchni (ha) i pojemności (m i Mg) oraz zdolność przetwarzania (Mg/dobę);
+- **5)** klasyfikację obiektu unieszkodliwiania wydobywczych z uzasadnieniem;
+- **6)** określenie wpływu na środowisko, ze szczególnym uwzględnieniem wpływu na stan powietrza, wydobywczych brak wpływu obiektu unieszkodliwiania wydobywczych na środowisko, stężenie cyjanku dysocjującego słabym kwasie nie wymaga dalszego obniżania za pomocą najlepszych dostępnych technik.
 
-5. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, drodze rozporzàdzenia, wymagania techniczne odnoszàce si´ do okreÊlenia cyjanku dysocjujàcego s∏abym kwasie oraz metod jego pomiaru, kierujàc si´ dok∏adnoÊcià i powtarzalnoÊcià wykonywania pomiarów.
+5. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, wymagania techniczne odnoszące się do określenia cyjanku dysocjującego słabym kwasie oraz metod jego pomiaru, kierując się dokładnością i powtarzalnością wykonywania pomiarów.
 
 **Art. 11.**
 
-1. Posiadacz wydobywczych jest obowiàzany do uzyskania decyzji zatwierdzajàcej program gospodarowania odpadami wydobywczymi.
+1. Posiadacz wydobywczych jest obowiązany do uzyskania decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi.
 
-2. Decyzj´, októrej mowa wust. 1, wydaje w∏aÊciwy organ na wniosek posiadacza wydobywczych. Do wniosku za∏àcza si´ program gospodarowania odpadami wydobywczymi.
+2. Decyzję, októrej mowa wust. 1, wydaje właściwy organ na wniosek posiadacza wydobywczych. Do wniosku załącza się program gospodarowania odpadami wydobywczymi.
 
-3. Decyzja zatwierdzajàca program gospodarowania odpadami wydobywczymi zawiera:
+3. Decyzja zatwierdzająca program gospodarowania odpadami wydobywczymi zawiera:
 
-- **1)** imi´ i nazwisko oraz adres zamieszkania lub nazw´ i adres siedziby posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
-- **2)** klasyfikacj´ obiektu unieszkodliwiania wydobywczych zgodnie z ocenà ryzyka obiektu unieszkodliwiania wydobywczych;
-- **3)** wyszczególnienie rodzajów wydobywczych przewidzianych do sk∏adowania obiekcie unieszkodliwiania wydobywczych, z uwzgl´dnieniem ich charakterystyki;
-- **4)** okreÊlenie ∏àcznej iloÊci wydobywczych przewidzianych do wytworzenia ciàgu roku;
-- **5)** opis procesów, podczas których powstajà odpady wydobywcze;
-- **6)** opis procesów przeróbki wydobywczych; wód podziemnych ipowierzchniowych, gleby oraz 7) skutki dla Êrodowiska i zdrowia ludzkiego spowokrajobrazu; dowane unieszkodliwianiem wydobyw7) wskazanie mo˝liwych zagro˝eƒ wystàpienia po- czych oraz dzia∏ania zapobiegawcze, które nale˝y wa˝nego wypadku; podjàç celu zmniejszenia negatywnego oddzia∏ywania na Êrodowisko podczas eksploatacji
-- **8)** okreÊlenie st´˝enia cyjanku dysocjujàcego s∏a- obiektu unieszkodliwiania wydobywbym kwasie oraz mo˝liwoÊci jego redukcji za po- czych i po jego zamkni´ciu; mocà najlepszych dost´pnych technik.
-- **8)** opis technologii iÊrodków technicznych s∏u˝àcych
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
+- **2)** klasyfikację obiektu unieszkodliwiania wydobywczych zgodnie z oceną ryzyka obiektu unieszkodliwiania wydobywczych;
+- **3)** wyszczególnienie rodzajów wydobywczych przewidzianych do składowania obiekcie unieszkodliwiania wydobywczych, z uwzględnieniem ich charakterystyki;
+- **4)** określenie łącznej ilości wydobywczych przewidzianych do wytworzenia ciągu roku;
+- **5)** opis procesów, podczas których powstają odpady wydobywcze;
+- **6)** opis procesów przeróbki wydobywczych; wód podziemnych ipowierzchniowych, gleby oraz 7) skutki dla środowiska i zdrowia ludzkiego spowokrajobrazu; dowane unieszkodliwianiem wydobyw7) wskazanie możliwych zagrożeń wystąpienia po- czych oraz działania zapobiegawcze, które należy ważnego wypadku; podjąć celu zmniejszenia negatywnego oddziaływania na środowisko podczas eksploatacji
+- **8)** określenie stężenia cyjanku dysocjującego sła- obiektu unieszkodliwiania wydobywbym kwasie oraz możliwości jego redukcji za po- czych i po jego zamknięciu; mocą najlepszych dostępnych technik.
+- **8)** opis technologii iśrodków technicznych służących
 
-3. W stawie osadowym, którym jest obecny cy- zapobieganiu powstawania po˝arów obiektach janek dysocjujàcy s∏abym kwasie, posiadacz odpa- unieszkodliwiania odpadów, których sà sk∏adodów prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany wykazaç wocenie ryzyka obiektu unieszkodliwiania wydobywczych, ˝e st´˝enie wmiejscu zrzutu przeróbczych do stawu osadowego jest zredukowane do najwane odpady zawierajàce cz´Êci palne;
+3. W stawie osadowym, którym jest obecny cy- zapobieganiu powstawania pożarów obiektach janek dysocjujący słabym kwasie, posiadacz odpa- unieszkodliwiania odpadów, których są składodów prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany wykazać wocenie ryzyka obiektu unieszkodliwiania wydobywczych, że stężenie wmiejscu zrzutu przeróbczych do stawu osadowego jest zredukowane do najwane odpady zawierające części palne;
 
 - **9)** zakres i sposób monitoringu wyrobisk górniczych zgodnie z warunkami, o których mowa art. 39;
-- **10)** zakres i sposób monitoringu obiektów unieszkodoraz monitoringu zgodnie z art. 27 ust. 6, z uwzgl´dnieniem szczególnoÊci:
-    - **a)** ustalenia niezb´dnych dzia∏aƒ dotyczàcych zamkni´cia obiektu unieszkodliwiania wydobywczych,
-    - **b)** ustalenia dzia∏aƒ zwiàzanych z rekultywacjà terenu,
+- **10)** zakres i sposób monitoringu obiektów unieszkodoraz monitoringu zgodnie z art. 27 ust. 6, z uwzględnieniem szczególności:
+    - **a)** ustalenia niezbędnych działań dotyczących zamknięcia obiektu unieszkodliwiania wydobywczych,
+    - **b)** ustalenia działań związanych z rekultywacją terenu,
     - **c)** sprawowania nadzoru nad zrekultywowanym obiektem unieszkodliwiania wydobywczych;
 
-- **12)** dzia∏ania majàce na celu zapobieganie lub zminimalizowanie pogorszenia si´ stanu wód oraz majàce na celu zapobieganie zanieczyszczeniu powietrza i gleby lub jego minimalizacj´;
-- **13)** wyniki badaƒ terenu, na który mo˝e wywieraç wp∏yw obiekt unieszkodliwiania wydobywczych, pod kàtem ustalenia naturalnych st´˝eƒ substancji wyst´pujàcych glebie;
-- **14)** ocen´ ryzyka obiektu unieszkodliwiania wydobywczych;
-- **15)** termin przed∏o˝enia przeglàdu programu gospodarowania odpadami wydobywczymi.
+- **12)** działania mające na celu zapobieganie lub zminimalizowanie pogorszenia się stanu wód oraz mające na celu zapobieganie zanieczyszczeniu powietrza i gleby lub jego minimalizację;
+- **13)** wyniki badań terenu, na który może wywierać wpływ obiekt unieszkodliwiania wydobywczych, pod kątem ustalenia naturalnych stężeń substancji występujących glebie;
+- **14)** ocenę ryzyka obiektu unieszkodliwiania wydobywczych;
+- **15)** termin przedłożenia przeglądu programu gospodarowania odpadami wydobywczymi.
 
-4. Decyzj´ zatwierdzajàcà program gospodarowania odpadami wydobywczymi wydaje si´ po zasi´gni´ciu opinii w∏aÊciwego dyrektora okr´gowego urz´du górniczego oraz w∏aÊciwego wójta, burmistrza lub prezydenta miasta.
+4. Decyzję zatwierdzającą program gospodarowania odpadami wydobywczymi wydaje się po zasięgnięciu opinii właściwego dyrektora okręgowego urzędu górniczego oraz właściwego wójta, burmistrza lub prezydenta miasta.
 
-5. W∏aÊciwy organ odmówi wydania decyzji zatwierdzajàcej program gospodarowania odpadami wydobywczymi, je˝eli zamierzony sposób gospodarowania odpadami wydobywczymi:
+5. Właściwy organ odmówi wydania decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi, jeżeli zamierzony sposób gospodarowania odpadami wydobywczymi:
 
 - **1)** jest sprzeczny z wymaganiami przepisów o odpadach;
-- **2)** móg∏by powodowaç zagro˝enie dla ˝ycia i zdrowia ludzi lub zagro˝enie dla Êrodowiska;
+- **2)** mógłby powodować zagrożenie dla życia i zdrowia ludzi lub zagrożenie dla środowiska;
 - **3)** jest sprzeczny z planami gospodarki odpadami, októrych mowa wustawie zdnia 27 kwietnia 2001r. oodpadach.
 
 **Art. 12.**
 
-1. Posiadacz wydobywczych jest obowiàzany do przeprowadzenia przeglàdu programu gospodarowania odpadami wydobywczymi co 5 lat.
+1. Posiadacz wydobywczych jest obowiązany do przeprowadzenia przeglądu programu gospodarowania odpadami wydobywczymi co 5 lat.
 
-2. Posiadacz wydobywczych informuje marsza∏ka województwa owszelkich zmianach wprogramie gospodarowania odpadami wydobywczymi formie pisemnego oÊwiadczenia na temat zmian dokonanych wprogramie gospodarowania odpadami wydobywczymi.
+2. Posiadacz wydobywczych informuje marszałka województwa owszelkich zmianach wprogramie gospodarowania odpadami wydobywczymi formie pisemnego oświadczenia na temat zmian dokonanych wprogramie gospodarowania odpadami wydobywczymi.
 
-3. Wprzypadku zmiany zezwolenia, októrej mowa art. 17, posiadacz wydobywczych jest odpadami wydobywczymi, w∏aÊciwy organ wzywa go do niezw∏ocznego zaniechania naruszeƒ.
+3. Wprzypadku zmiany zezwolenia, októrej mowa art. 17, posiadacz wydobywczych jest odpadami wydobywczymi, właściwy organ wzywa go do niezwłocznego zaniechania naruszeń.
 
-2. Je˝eli posiadacz wydobywczych mimo wezwania, októrym mowa wust. 1, nadal narusza przepisy ustawy lub dzia∏a niezgodnie z decyzjà zatwierdzajàcà program gospodarowania odpadami wydobywczymi, w∏aÊciwy organ wstrzymuje, drodze decyzji, dzia∏alnoÊç posiadacza wydobywczych zakresie obj´tym decyzjà zatwierdzajàcà program gospodarowania odpadami wydobywczymi.
+2. Jeżeli posiadacz wydobywczych mimo wezwania, októrym mowa wust. 1, nadal narusza przepisy ustawy lub działa niezgodnie z decyzją zatwierdzającą program gospodarowania odpadami wydobywczymi, właściwy organ wstrzymuje, drodze decyzji, działalność posiadacza wydobywczych zakresie objętym decyzją zatwierdzającą program gospodarowania odpadami wydobywczymi.
 
-3. Decyzji wstrzymujàcej dzia∏alnoÊç posiadacza wydobywczych, o której mowa ust. 2, w∏aÊciwy organ nadaje rygor natychmiastowej wykonalnoÊci, uwzgl´dniajàc potrzeb´ bezpiecznego dla Êrodowiska zakoƒczenia dzia∏alnoÊci posiadacza odpadów wydobywczych zakresie obj´tym programem gospodarowania odpadami wydobywczymi; wstrzymanie dzia∏alnoÊci nie powoduje wygaÊni´cia obowiàzku usuni´cia skutków prowadzonej dzia∏alnoÊci na koszt posiadacza wydobywczych. Rozdzia∏ 4 Wnioski i zezwolenia
+3. Decyzji wstrzymującej działalność posiadacza wydobywczych, o której mowa ust. 2, właściwy organ nadaje rygor natychmiastowej wykonalności, uwzględniając potrzebę bezpiecznego dla środowiska zakończenia działalności posiadacza odpadów wydobywczych zakresie objętym programem gospodarowania odpadami wydobywczymi; wstrzymanie działalności nie powoduje wygaśnięcia obowiązku usunięcia skutków prowadzonej działalności na koszt posiadacza wydobywczych.
+
+#### Rozdział 4 Wnioski i zezwolenia
 
 **Art. 14.**
 
 1. Prowadzenie obiektu unieszkodliwiania wydobywczych wymaga uzyskania zezwolenia.
 
-2. Zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych wydaje w∏aÊciwy organ na czas oznaczony, nie d∏u˝szy ni˝ 10 lat.
+2. Zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych wydaje właściwy organ na czas oznaczony, nie dłuższy niż 10 lat.
 
-3. Posiadacz odpadów, który uzyska∏ zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych jest zwolniony z obowiàzku uzyskania zezwolenia na prowadzenie dzia∏alnoÊci zakresie unieszkodliwiania odpadów, októrym mowa wart. 26 ustawy z dnia 27 kwietnia 2001 r. o odpadach.
+3. Posiadacz odpadów, który uzyskał zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych jest zwolniony z obowiązku uzyskania zezwolenia na prowadzenie działalności zakresie unieszkodliwiania odpadów, októrym mowa wart. 26 ustawy z dnia 27 kwietnia 2001 r. o odpadach.
 
 **Art. 15.**
 
 1. Wniosek o wydanie zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych zawiera:
 
-- **1)** imi´ i nazwisko oraz adres zamieszkania lub nazw´ i adres siedziby posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
-- **2)** lokalizacj´ obiektu unieszkodliwiania wydobywczych;
-- **3)** dokumenty potwierdzajàce posiadanie gwarancji finansowej lub jej ekwiwalentu, zgodnie z art. 32;
-- **4)** informacj´ otytule prawnym do obiektu unieszkodliwiania wydobywczych;
-- **5)** informacj´ o stosowanych technologiach oraz zdnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska.
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
+- **2)** lokalizację obiektu unieszkodliwiania wydobywczych;
+- **3)** dokumenty potwierdzające posiadanie gwarancji finansowej lub jej ekwiwalentu, zgodnie z art. 32;
+- **4)** informację otytule prawnym do obiektu unieszkodliwiania wydobywczych;
+- **5)** informację o stosowanych technologiach oraz zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-2. Do wniosku za∏àcza si´ decyzj´ zatwierdzajàcà program gospodarowania odpadami wydobywczymi i decyzj´ o Êrodowiskowych uwarunkowaniach wraz zraportem ooddzia∏ywaniu przedsi´wzi´cia na Êrodowisko, je˝eli jest wymagany.
+2. Do wniosku załącza się decyzję zatwierdzającą program gospodarowania odpadami wydobywczymi i decyzję o środowiskowych uwarunkowaniach wraz zraportem ooddziaływaniu przedsięwzięcia na środowisko, jeżeli jest wymagany.
 
 **Art. 16.**
 
 1. Zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych zawiera:
 
-- **1)** imi´ i nazwisko oraz adres zamieszkania lub nazw´ i adres siedziby posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
-- **2)** lokalizacj´ obiektu unieszkodliwiania wydobywczych;
-- **3)** klasyfikacj´ obiektu unieszkodliwiania wydobywczych;
-- **4)** wyszczególnienie rodzajów i iloÊci przewidzianych do sk∏adowania wobiekcie unieszkodliwiania wydobywczych ciàgu roku;
-- **5)** informacj´ oposiadaniu gwarancji finansowej lub jej ekwiwalentu;
-- **6)** czas obowiàzywania zezwolenia;
-- **7)** przypadku obiektu unieszkodliwiania wydobywczych kategorii A wskazanie terminu sporzàdzenia polityki zapobiegania powa˝nym wypadkom, wprowadzajàcego jà ˝ycie systemu zarzàdzania bezpieczeƒstwem oraz wewn´trznego planu operacyjno-ratowniczego.
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
+- **2)** lokalizację obiektu unieszkodliwiania wydobywczych;
+- **3)** klasyfikację obiektu unieszkodliwiania wydobywczych;
+- **4)** wyszczególnienie rodzajów i ilości przewidzianych do składowania wobiekcie unieszkodliwiania wydobywczych ciągu roku;
+- **5)** informację oposiadaniu gwarancji finansowej lub jej ekwiwalentu;
+- **6)** czas obowiązywania zezwolenia;
+- **7)** przypadku obiektu unieszkodliwiania wydobywczych kategorii A wskazanie terminu sporządzenia polityki zapobiegania poważnym wypadkom, wprowadzającego ją życie systemu zarządzania bezpieczeństwem oraz wewnętrznego planu operacyjno-ratowniczego.
 
-2. Za∏àcznikiem do zezwolenia jest decyzja o Êrodowiskowych uwarunkowaniach wraz z raportem o oddzia∏ywaniu przedsi´wzi´cia na Êrodowisko oraz decyzja zatwierdzajàca program gospodarowania odpadami wydobywczymi.
+2. Załącznikiem do zezwolenia jest decyzja o środowiskowych uwarunkowaniach wraz z raportem o oddziaływaniu przedsięwzięcia na środowisko oraz decyzja zatwierdzająca program gospodarowania odpadami wydobywczymi.
 
 **Art. 17.**
 
-1. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych wyst´puje z wnioskiem o zmian´ zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych, je˝eli:
+1. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych występuje z wnioskiem o zmianę zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych, jeżeli:
 
-- **1)** nastàpià zmiany strukturze lub zasadach prowadzenia obiektu unieszkodliwiania wydobywczych, które mogà mieç znaczàcy niekorzystny wp∏yw na Êrodowisko oraz ˝ycie i zdrowie ludzi, lub odniesieniu do rodzajów sk∏adowanych wydobywczych, lub
-- **2)** nastàpi zmiana warunków prowadzenia obiektu unieszkodliwiania wydobywczych, co potwierdzà wyniki monitoringu obiektu unieszkodliwiania wydobywczych lub kontroli
+- **1)** nastąpią zmiany strukturze lub zasadach prowadzenia obiektu unieszkodliwiania wydobywczych, które mogą mieć znaczący niekorzystny wpływ na środowisko oraz życie i zdrowie ludzi, lub odniesieniu do rodzajów składowanych wydobywczych, lub
+- **2)** nastąpi zmiana warunków prowadzenia obiektu unieszkodliwiania wydobywczych, co potwierdzą wyniki monitoringu obiektu unieszkodliwiania wydobywczych lub kontroli
 
-2. Przepisy o wydaniu zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych stosuje si´ odpowiednio przypadku zmiany zezwolenia na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych.
+2. Przepisy o wydaniu zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych stosuje się odpowiednio przypadku zmiany zezwolenia na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych.
 
 **Art. 18.**
 
-1. Odpady wydobywcze sk∏adowane obiekcie unieszkodliwiania wydobywczych mogà byç z niego pozyskane po uzyskaniu pozwolenia na wytwarzanie odpadów.
+1. Odpady wydobywcze składowane obiekcie unieszkodliwiania wydobywczych mogą być z niego pozyskane po uzyskaniu pozwolenia na wytwarzanie odpadów.
 
-2. Pozyskiwanie, októrym mowa wust. 1, dotyczy równie˝ pozyskiwania wydobywczych z obiektów unieszkodliwiania wydobywczych, których by∏y sk∏adowane odpady wydobywcze, adla których nie by∏o wymagane uzyskanie decyzji lokalizacyjnej lub pozwolenia na budow´.
+2. Pozyskiwanie, októrym mowa wust. 1, dotyczy również pozyskiwania wydobywczych z obiektów unieszkodliwiania wydobywczych, których były składowane odpady wydobywcze, adla których nie było wymagane uzyskanie decyzji lokalizacyjnej lub pozwolenia na budowę.
 
-3. Do pozwolenia na wytwarzanie wydobywczych pozyskiwanych z obiektów unieszkodliwiania wydobywczych stosuje si´ przepisy ustawy z dnia 27 kwietnia 2001 r. o odpadach, z uwzgl´dnieniem:
+3. Do pozwolenia na wytwarzanie wydobywczych pozyskiwanych z obiektów unieszkodliwiania wydobywczych stosuje się przepisy ustawy z dnia 27 kwietnia 2001 r. o odpadach, z uwzględnieniem:
 
-- **1)** imienia i nazwiska oraz adresu zamieszkania lub nazwy iadresu siedziby posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
+- **1)** imienia i nazwiska oraz adresu zamieszkania lub nazwy iadresu siedziby posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
 - **2)** lokalizacji obiektu unieszkodliwiania wydobywczych;
 - **3)** klasyfikacji obiektu unieszkodliwiania wydobywczych;
-- **4)** informacji niezb´dnych do sporzàdzenia zewn´trznego planu operacyjno-ratowniczego, o którym mowa art. 37, zgodnie z art. 260 ust. 2 ustawy zdnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska.
+- **4)** informacji niezbędnych do sporządzenia zewnętrznego planu operacyjno-ratowniczego, o którym mowa art. 37, zgodnie z art. 260 ust. 2 ustawy zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
 **Art. 19.**
 
-1. Do wniosków o wydanie zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych oraz pozwolenia na wytwarzanie odpadów, o którym mowa art. 18, posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych kategorii A do∏àcza informacje niezb´dne do sporzàdzenia przez w∏aÊciwego komendanta wojewódzkiego Paƒstwowej Stra˝y Po˝arnej zewn´trznego planu operacyjno-ratowniczego, o którym mowa art. 37.
+1. Do wniosków o wydanie zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych oraz pozwolenia na wytwarzanie odpadów, o którym mowa art. 18, posiadacz prowadzący obiekt unieszkodliwiania wydobywczych kategorii A dołącza informacje niezbędne do sporządzenia przez właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej zewnętrznego planu operacyjno-ratowniczego, o którym mowa art. 37.
 
-2. W∏aÊciwy organ informacje, o których mowa wust. 1, przekazuje niezw∏ocznie w∏aÊciwemu komendantowi wojewódzkiemu Paƒstwowej Stra˝y Po˝arnej.
+2. Właściwy organ informacje, o których mowa wust. 1, przekazuje niezwłocznie właściwemu komendantowi wojewódzkiemu Państwowej Straży Pożarnej.
 
-3. W∏aÊciwy organ wydaje zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych lub pozwolenie na wytwarzanie po sporzàdzeniu przez w∏aÊciwego komendanta Paƒobiektu unieszkodliwiania wydobywczych:
+3. Właściwy organ wydaje zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych lub pozwolenie na wytwarzanie po sporządzeniu przez właściwego komendanta Pańobiektu unieszkodliwiania wydobywczych:
 
 - **1)** jest sprzeczny z wymaganiami przepisów o odpadach;
-- **2)** móg∏by powodowaç zagro˝enie dla ˝ycia i zdrowia ludzi lub zagro˝enie dla Êrodowiska;
+- **2)** mógłby powodować zagrożenie dla życia i zdrowia ludzi lub zagrożenie dla środowiska;
 - **3)** jest sprzeczny z programem gospodarowania odpadami wydobywczymi;
 - **4)** jest sprzeczny z planami gospodarki odpadami, o których mowa ustawie z dnia 27 kwietnia 2001 r. o odpadach.
 
 **Art. 21.**
 
-1. Je˝eli posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych narusza przepisy ustawy lub dzia∏a niezgodnie z zezwoleniem na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych, w∏aÊciwy organ wzywa go do niezw∏ocznego zaniechania naruszeƒ.
+1. Jeżeli posiadacz prowadzący obiekt unieszkodliwiania wydobywczych narusza przepisy ustawy lub działa niezgodnie z zezwoleniem na prowadzenie obiektu unieszkodliwiania odpadów wydobywczych, właściwy organ wzywa go do niezwłocznego zaniechania naruszeń.
 
-2. Je˝eli posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych mimo wezwania, o którym mowa ust. 1, nadal narusza przepisy ustawy lub dzia∏a niezgodnie z zezwoleniem na prowadzenie obiektu unieszkodliwiania wydobywczych, w∏aÊciwy organ wstrzymuje, drodze decyzji, dzia∏alnoÊç posiadacza wydobywczych zakresie obj´tym tym zezwoleniem.
+2. Jeżeli posiadacz prowadzący obiekt unieszkodliwiania wydobywczych mimo wezwania, o którym mowa ust. 1, nadal narusza przepisy ustawy lub działa niezgodnie z zezwoleniem na prowadzenie obiektu unieszkodliwiania wydobywczych, właściwy organ wstrzymuje, drodze decyzji, działalność posiadacza wydobywczych zakresie objętym tym zezwoleniem.
 
-3. Decyzji, o której mowa ust. 2, w∏aÊciwy organ nadaje rygor natychmiastowej wykonalnoÊci, uwzgl´dniajàc potrzeb´ bezpiecznego dla Êrodowiska zakoƒczenia dzia∏alnoÊci posiadacza wydobywczych zakresie obj´tym zezwoleniem na prowadzenie obiektu unieszkodliwiania wydobywczych; wstrzymanie dzia∏alnoÊci nie powoduje wygaÊni´cia obowiàzku usuni´cia skutków prowadzonej dzia∏alnoÊci na koszt posiadacza wydobywczych. Rozdzia∏ 5 Zasady prowadzenia obiektu unieszkodliwiania wydobywczych
+3. Decyzji, o której mowa ust. 2, właściwy organ nadaje rygor natychmiastowej wykonalności, uwzględniając potrzebę bezpiecznego dla środowiska zakończenia działalności posiadacza wydobywczych zakresie objętym zezwoleniem na prowadzenie obiektu unieszkodliwiania wydobywczych; wstrzymanie działalności nie powoduje wygaśnięcia obowiązku usunięcia skutków prowadzonej działalności na koszt posiadacza wydobywczych.
 
-**Art. 22.** Obiektem unieszkodliwiania wydobywczych zarzàdza osoba posiadajàca Êwiadectwo stwierdzajàce kwalifikacje wzakresie gospodarowania odpadami, o którym mowa art. 49 ustawy z dnia 27kwietnia 2001 r. o odpadach.
+#### Rozdział 5 Zasady prowadzenia obiektu unieszkodliwiania wydobywczych
+
+**Art. 22.** Obiektem unieszkodliwiania wydobywczych zarządza osoba posiadająca świadectwo stwierdzające kwalifikacje wzakresie gospodarowania odpadami, o którym mowa art. 49 ustawy z dnia 27kwietnia 2001 r. o odpadach.
 
 **Art. 23.**
 
-1. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do zapewnienia podnoszenia kwalifikacji zawodowych oraz szkolenia personelu wzakresie prawid∏owej gospodarki odpadami wydobywczymi.
+1. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do zapewnienia podnoszenia kwalifikacji zawodowych oraz szkolenia personelu wzakresie prawidłowej gospodarki odpadami wydobywczymi.
 
-2. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do eksploatacji tego obiektu wsposób zapewniajàcy zachowanie wymagaƒ sanitarnych, bezpieczeƒbiegajàcy pogorszeniu stanu gleby, wód powierzchniowych ipodziemnych wwyniku oddzia∏ywania wód odciekowych pochodzàcych z obiektu unieszkodliwiania wydobywczych; skutkom tym jest obowiàzany zapobiec równie˝ po zamkni´ciu obiektu.
+2. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do eksploatacji tego obiektu wsposób zapewniający zachowanie wymagań sanitarnych, bezpieczeńbiegający pogorszeniu stanu gleby, wód powierzchniowych ipodziemnych wwyniku oddziaływania wód odciekowych pochodzących z obiektu unieszkodliwiania wydobywczych; skutkom tym jest obowiązany zapobiec również po zamknięciu obiektu.
 
-2. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do prowadzenia tego obiektu wsposób zapobiegajàcy emisji py∏ów i gazów.
+2. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do prowadzenia tego obiektu wsposób zapobiegający emisji pyłów i gazów.
 
-3. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do prowadzenia tego obiektu sposób zapewniajàcy w∏aÊciwe funkcjonowanie urzàdzeƒ technicznych, stanowiàcych jego wyposa˝enie.
+3. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do prowadzenia tego obiektu sposób zapewniający właściwe funkcjonowanie urządzeń technicznych, stanowiących jego wyposażenie.
 
-4. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych, którym sà sk∏adowane odpady zawierajàce cz´Êci palne, jest obowiàzany do stosowania Êrodków technicznych zapobiegajàcych powstawaniu po˝arów.
+4. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych, którym są składowane odpady zawierające części palne, jest obowiązany do stosowania środków technicznych zapobiegających powstawaniu pożarów.
 
-**Art. 25.** Lokalizacja obiektu unieszkodliwiania odpadów wydobywczych powinna uwzgl´dniaç zakazy i ograniczenia wynikajàce szczególnoÊci z nast´pujàcych ustaw:
+**Art. 25.** Lokalizacja obiektu unieszkodliwiania odpadów wydobywczych powinna uwzględniać zakazy i ograniczenia wynikające szczególności z następujących ustaw:
 
 **Art. 26.**
 
-1. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do sprawdzenia zgodnoÊci przyjmowanych wydobywczych z danymi o odpadach zawartymi karcie przekazania odpadu. ——————— rych sk∏ad nie jest zgodny zdanymi zawartymi wkarcie przekazania odpadu lub zezwoleniem na prowadzenie obiektu unieszkodliwiania wydobywczych.
+1. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do sprawdzenia zgodności przyjmowanych wydobywczych z danymi o odpadach zawartymi karcie przekazania odpadu. ——————— rych skład nie jest zgodny zdanymi zawartymi wkarcie przekazania odpadu lub zezwoleniem na prowadzenie obiektu unieszkodliwiania wydobywczych.
 
-3. Do wydobywczych oboj´tnych, odpadów innych ni˝ niebezpieczne i oboj´tne oraz niezanieczyszczonej gleby nie stosuje si´ przepisów tytu∏uVustawy zdnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska, z wy∏àczeniem przepisów o op∏atach podwy˝szonych oraz o administracyjnych karach pieni´˝nych.
+3. Do wydobywczych obojętnych, odpadów innych niż niebezpieczne i obojętne oraz niezanieczyszczonej gleby nie stosuje się przepisów tytułuVustawy zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska, z wyłączeniem przepisów o opłatach podwyższonych oraz o administracyjnych karach pieniężnych.
 
 **Art. 27.**
 
-1. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do monitoringu tego obiektu trakcie jego prowadzenia, który obejmuje szczególnoÊci:
+1. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do monitoringu tego obiektu trakcie jego prowadzenia, który obejmuje szczególności:
 
-- **1)** badanie wielkoÊci opadu atmosferycznego dokonane stacji meteorologicznej reprezentatywnej dla lokalizacji obiektu unieszkodliwiania wydobywczych;
-- **2)** badanie substancji i parametrów wskaênikowych wwodach powierzchniowych, odciekowych ipodziemnych z listy okreÊlonej przepisach dotyczàcych kwalifikacji wód;
+- **1)** badanie wielkości opadu atmosferycznego dokonane stacji meteorologicznej reprezentatywnej dla lokalizacji obiektu unieszkodliwiania wydobywczych;
+- **2)** badanie substancji i parametrów wskaênikowych wwodach powierzchniowych, odciekowych ipodziemnych z listy określonej przepisach dotyczących kwalifikacji wód;
 - **3)** pomiar poziomu wód podziemnych otworach obserwacyjnych;
-- **4)** kontrol´ osiadania powierzchni obiektu unieszkodliwiania wydobywczych oparciu o ustalone repery.
+- **4)** kontrolę osiadania powierzchni obiektu unieszkodliwiania wydobywczych oparciu o ustalone repery.
 
-2. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do monitoringu tego obiektu po jego zamkni´ciu, który obejmuje szczególnoÊci:
+2. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do monitoringu tego obiektu po jego zamknięciu, który obejmuje szczególności:
 
-- **1)** badanie wielkoÊci opadu atmosferycznego dokonane stacji meteorologicznej reprezentatywnej dla lokalizacji obiektu unieszkodliwiania wydobywczych;
-- **2)** badanie substancji i parametrów wskaênikowych wwodach powierzchniowych, odciekowych ipodziemnych z listy okreÊlonej przepisach dotyczàcych kwalifikacji wód;
+- **1)** badanie wielkości opadu atmosferycznego dokonane stacji meteorologicznej reprezentatywnej dla lokalizacji obiektu unieszkodliwiania wydobywczych;
+- **2)** badanie substancji i parametrów wskaênikowych wwodach powierzchniowych, odciekowych ipodziemnych z listy określonej przepisach dotyczących kwalifikacji wód;
 - **3)** pomiar poziomu wód podziemnych otworach obserwacyjnych;
-- **4)** kontrol´ osiadania powierzchni obiektu unieszkodliwiania wydobywczych oparciu o ustalone repery.
+- **4)** kontrolę osiadania powierzchni obiektu unieszkodliwiania wydobywczych oparciu o ustalone repery.
 
-3. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do gromadzenia danych owynikach monitoringu i do sporzàdzenia na ich podstawie sprawozdania o wynikach monitoringu.
+3. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do gromadzenia danych owynikach monitoringu i do sporządzenia na ich podstawie sprawozdania o wynikach monitoringu.
 
-4. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do przed∏o˝enia sprawozdania owynikach moniringu oraz sprawozdaƒ o wynikach monitoringu co najmniej przez okres 5 lat.
+4. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do przedłożenia sprawozdania owynikach moniringu oraz sprawozdań o wynikach monitoringu co najmniej przez okres 5 lat.
 
-6. Minister w∏aÊciwy do spraw Êrodowiska okreÊli, drodze rozporzàdzenia, zakres, czas, sposób oraz warunki prowadzenia monitoringu, a tak˝e wzór sprawozdania owynikach monitoringu, cz´stotliwoÊci jego sporzàdzania oraz termin sk∏adania, kierujàc si´ potrzebà ustalenia planów, dokumentów i procedur dotyczàcych monitoringu i kontrolowania obiektu unieszkodliwiania wydobywczych oraz podejmowania dzia∏aƒ przypadku wyników wskazujàcych na brak statecznoÊci i niestabilnoÊç chemicznà obiektu unieszkodliwiania wydobywczych.
+6. Minister właściwy do spraw środowiska określi, drodze rozporządzenia, zakres, czas, sposób oraz warunki prowadzenia monitoringu, a także wzór sprawozdania owynikach monitoringu, częstotliwości jego sporządzania oraz termin składania, kierując się potrzebą ustalenia planów, dokumentów i procedur dotyczących monitoringu i kontrolowania obiektu unieszkodliwiania wydobywczych oraz podejmowania działań przypadku wyników wskazujących na brak stateczności i niestabilność chemiczną obiektu unieszkodliwiania wydobywczych.
 
 **Art. 28.**
 
-1. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych zawiadamia bez zb´dnej zw∏oki, anast´pnie potwierdza zawiadomienie formie pisemnej, nie póêniej ni˝ ciàgu 48 godzin od zdarzenia, w∏aÊciwego komendanta wojewódzkiego Paƒstwowej Stra˝y Po˝arnej oraz w∏aÊciwego wojewódzkiego inspektora ochrony Êrodowiska o ka˝dym zdarzeniu, które mo˝e mieç wp∏yw na statecznoÊç obiektu unieszkodliwiania wydobywczych oraz o wszelkich istotnych niekorzystnych skutkach dla Êrodowiska, ujawnionych wyniku kontroli i monitoringu obiektu unieszkodliwiania odpadów wydobywczych, podajàc:
+1. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych zawiadamia bez zbędnej zwłoki, anastępnie potwierdza zawiadomienie formie pisemnej, nie póêniej niż ciągu 48 godzin od zdarzenia, właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej oraz właściwego wojewódzkiego inspektora ochrony środowiska o każdym zdarzeniu, które może mieć wpływ na stateczność obiektu unieszkodliwiania wydobywczych oraz o wszelkich istotnych niekorzystnych skutkach dla środowiska, ujawnionych wyniku kontroli i monitoringu obiektu unieszkodliwiania odpadów wydobywczych, podając:
 
-- **1)** imi´ i nazwisko oraz adres zamieszkania lub nazw´ i adres siedziby posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
-- **2)** lokalizacj´ obiektu unieszkodliwiania wydobywczych;
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
+- **2)** lokalizację obiektu unieszkodliwiania wydobywczych;
 - **3)** rodzaj zdarzenia z krótkim opisem;
-- **4)** dzieƒ zajÊcia zdarzenia.
+- **4)** dzień zajścia zdarzenia.
 
-2. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych kategorii A wprowadza ˝ycie wewn´trzny plan operacyjno-ratowniczy oraz podejmuje dzia∏ania istosuje wszelkie niezb´dne Êrodki do usuni´cia skutków zdarzenia.
+2. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych kategorii A wprowadza życie wewnętrzny plan operacyjno-ratowniczy oraz podejmuje działania istosuje wszelkie niezbędne środki do usunięcia skutków zdarzenia.
 
-3. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych kategorii Apokrywa wszelkie koszty dzia∏aƒ, októrych mowa wust.2, równie˝ poniesione przez organy administracji.
+3. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych kategorii Apokrywa wszelkie koszty działań, októrych mowa wust.2, również poniesione przez organy administracji.
 
-4. W∏aÊciwy wojewódzki inspektor ochrony Êrodowiska na podstawie sprawozdaƒ o wynikach monitoringu oraz iloÊci, cz´stotliwoÊci i zakresie zg∏aszanych zdarzeƒ, októrych mowa wust. 1, mo˝e, wdrodze decyzji, ustaliç dla posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych odr´bne terminy sk∏adania sprawozdania, jednak nie rzadziej ni˝ raz roku, bioràc pod uwag´ wi´ksze prawdopodobieƒstwo wystàpienia zdarzeƒ, o których prowadzeniu przez w∏aÊciwego wojewódzkiego inspektora ochrony Êrodowiska kontroli miejscu prowadzenia dzia∏alnoÊci majàcej na celu sprawdzenie stanu faktycznego wynikajàcego ze sprawozdaƒ o wynikach monitoringu oraz programu gospodarowania odpadami wydobywczymi.
+4. Właściwy wojewódzki inspektor ochrony środowiska na podstawie sprawozdań o wynikach monitoringu oraz ilości, częstotliwości i zakresie zgłaszanych zdarzeń, októrych mowa wust. 1, może, wdrodze decyzji, ustalić dla posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych odrębne terminy składania sprawozdania, jednak nie rzadziej niż raz roku, biorąc pod uwagę większe prawdopodobieństwo wystąpienia zdarzeń, o których prowadzeniu przez właściwego wojewódzkiego inspektora ochrony środowiska kontroli miejscu prowadzenia działalności mającej na celu sprawdzenie stanu faktycznego wynikającego ze sprawozdań o wynikach monitoringu oraz programu gospodarowania odpadami wydobywczymi.
 
-2. Przeprowadzenie kontroli, októrej mowa wust.1, nie jest wymagane, je˝eli potrzeba zamkni´cia obiektu unieszkodliwiania wydobywczych lub jego cz´Êci wynika z zarzàdzenia pokontrolnego wojewódzkiego inspektora ochrony Êrodowiska.
+2. Przeprowadzenie kontroli, októrej mowa wust.1, nie jest wymagane, jeżeli potrzeba zamknięcia obiektu unieszkodliwiania wydobywczych lub jego części wynika z zarządzenia pokontrolnego wojewódzkiego inspektora ochrony środowiska.
 
-3. Zgod´ na zamkni´cie obiektu unieszkodliwiania wydobywczych lub jego cz´Êci wydaje si´, gdy zachodzi jeden z nast´pujàcych warunków:
+3. Zgodę na zamknięcie obiektu unieszkodliwiania wydobywczych lub jego części wydaje się, gdy zachodzi jeden z następujących warunków:
 
-- **1)** posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych wystàpi∏ z wnioskiem o wydanie zgody na zamkni´cie obiektu unieszkodliwiania wydobyw8) harmonogram dzia∏aƒ zwiàzanych z rekultywacjà terenu;
+- **1)** posiadacz prowadzący obiekt unieszkodliwiania wydobywczych wystąpił z wnioskiem o wydanie zgody na zamknięcie obiektu unieszkodliwiania wydobyw8) harmonogram działań związanych z rekultywacją terenu;
 - **9)** sprawowanie nadzoru nad zrekultywowanym obiektem unieszkodliwiania wydobywczych.
 
-2. Do wniosku, októrym mowa wust. 1, posiadacz za∏àcza decyzj´ zatwierdzajàcà program gospodarowania odpadami wydobywczymi oraz projekt zamkni´cia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu.
+2. Do wniosku, októrym mowa wust. 1, posiadacz załącza decyzję zatwierdzającą program gospodarowania odpadami wydobywczymi oraz projekt zamknięcia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu.
 
-3. Wdecyzji owydaniu zgody na zamkni´cie obiektu unieszkodliwiania wydobywczych lub jego cz´Êci w∏aÊciwy organ zatwierdza projekt zamkni´cia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu iokreÊla:
+3. Wdecyzji owydaniu zgody na zamknięcie obiektu unieszkodliwiania wydobywczych lub jego części właściwy organ zatwierdza projekt zamknięcia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu iokreśla:
 
-- **1)** imi´ i nazwisko oraz adres zamieszkania lub naczych lub jego cz´Êci;
-- **2)** wojewódzki inspektor ochrony Êrodowiska zarzàdzeniu pokontrolnym wskaza∏ potrzeb´ zamkni´cia obiektu unieszkodliwiania wydobywczych lub jego cz´Êci.
+- **1)** imię i nazwisko oraz adres zamieszkania lub naczych lub jego części;
+- **2)** wojewódzki inspektor ochrony środowiska zarządzeniu pokontrolnym wskazał potrzebę zamknięcia obiektu unieszkodliwiania wydobywczych lub jego części.
 
-4. Je˝eli posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych nie wystàpi∏ z wnioskiem o wydanie zgody na zamkni´cie obiektu unieszkodliwiania wydobywczych, terminie wskazanym zarzàdzeniu pokontrolnym, wojewódzki inspektor ochrony Êrodowiska wyst´puje z wnioskiem do w∏aÊciwego organu; wojewódzki inspektor ochrony Êrodowiska uczestniczy wpost´powaniu na prawach strony.
+4. Jeżeli posiadacz prowadzący obiekt unieszkodliwiania wydobywczych nie wystąpił z wnioskiem o wydanie zgody na zamknięcie obiektu unieszkodliwiania wydobywczych, terminie wskazanym zarządzeniu pokontrolnym, wojewódzki inspektor ochrony środowiska występuje z wnioskiem do właściwego organu; wojewódzki inspektor ochrony środowiska uczestniczy wpostępowaniu na prawach strony.
 
 **Art. 30.**
 
-1. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych sk∏ada do w∏aÊciwego organu wniosek o wydanie zgody na zamkni´cie obiektu unieszkodliwiania wydobywczych zawierajàcy nast´pujàce dane:
+1. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych składa do właściwego organu wniosek o wydanie zgody na zamknięcie obiektu unieszkodliwiania wydobywczych zawierający następujące dane:
 
-- **1)** imi´ i nazwisko oraz adres zamieszkania lub nazw´ i adres siedziby posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
-- **2)** lokalizacj´ obiektu unieszkodliwiania wydobywczych;
-- **3)** klasyfikacj´ obiektu unieszkodliwiania wydobywczych;
-- **4)** dokumenty potwierdzajàce posiadanie gwarancji finansowej lub jej ekwiwalentu;
-- **5)** opis sposobu zamkni´cia obiektu unieszkodliwiania wydobywczych lub jego cz´Êci, tym dzia∏ania zwiàzane z jego realizacjà;
-- **6)** dat´ zaprzestania sk∏adowania wydozw´ i adres siedziby posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
-- **2)** sposób zamkni´cia obiektu unieszkodliwiania odpadów wydobywczych lub jego cz´Êci, wtym dzia∏ania zwiàzane z jego realizacjà;
-- **3)** dat´ zaprzestania sk∏adowania wydobywczych obiekcie unieszkodliwiania wydobywczych;
-- **4)** harmonogram realizacji dzia∏aƒ dotyczàcych zamkni´cia obiektu unieszkodliwiania wydobywczych;
-- **5)** harmonogram dzia∏aƒ zwiàzanych z rekultywacjà terenu.
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
+- **2)** lokalizację obiektu unieszkodliwiania wydobywczych;
+- **3)** klasyfikację obiektu unieszkodliwiania wydobywczych;
+- **4)** dokumenty potwierdzające posiadanie gwarancji finansowej lub jej ekwiwalentu;
+- **5)** opis sposobu zamknięcia obiektu unieszkodliwiania wydobywczych lub jego części, tym działania związane z jego realizacją;
+- **6)** datę zaprzestania składowania wydozwę i adres siedziby posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
+- **2)** sposób zamknięcia obiektu unieszkodliwiania odpadów wydobywczych lub jego części, wtym działania związane z jego realizacją;
+- **3)** datę zaprzestania składowania wydobywczych obiekcie unieszkodliwiania wydobywczych;
+- **4)** harmonogram realizacji działań dotyczących zamknięcia obiektu unieszkodliwiania wydobywczych;
+- **5)** harmonogram działań związanych z rekultywacją terenu.
 
-4. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, drodze rozporzàdzenia, zakres danych zawartych projekcie zamkni´cia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu, kierujàc si´ zasadami ochrony Êrodowiska oraz ochrony gruntów.
+4. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, zakres danych zawartych projekcie zamknięcia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu, kierując się zasadami ochrony środowiska oraz ochrony gruntów.
 
 **Art. 31.**
 
-1. Zchwilà technicznego zamkni´cia obiektu unieszkodliwiania wydobywczych lub jego cz´Êci, w∏aÊciwy wojewódzki inspektor ochrony Êrodowiska przeprowadza kontrol´ zamkni´cia obiektu unieszkodliwiania wydobywczych lub jego cz´Êci zgodnie ze sposobem technicznego zamkni´cia obiektu unieszkodliwiania wydobywczych iustala wzarzàdzeniu pokontrolnym cz´stotliwoÊç przedk∏adania sprawozdania o wynikach monitoringu; kopi´ zarzàdzenia pokontrolnego przekazuje niezw∏ocznie w∏aÊciwemu organowi.
+1. Zchwilą technicznego zamknięcia obiektu unieszkodliwiania wydobywczych lub jego części, właściwy wojewódzki inspektor ochrony środowiska przeprowadza kontrolę zamknięcia obiektu unieszkodliwiania wydobywczych lub jego części zgodnie ze sposobem technicznego zamknięcia obiektu unieszkodliwiania wydobywczych iustala wzarządzeniu pokontrolnym częstotliwość przedkładania sprawozdania o wynikach monitoringu; kopię zarządzenia pokontrolnego przekazuje niezwłocznie właściwemu organowi.
 
-2. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest odpowiedzialny za utrzymanie, monitoring, zgodnie z art. 27 cz´Êci mo˝e przejàç wójt, burmistrz lub prezydent miasta w∏aÊciwy ze wzgl´du na miejsce prowadzenia dzia∏alnoÊci na podstawie umowy okreÊlajàcej wszczególnoÊci sposób pokrycia przez posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych wszelkich kosztów zwiàzanych z przej´ciem tych obowiàzków.
+2. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest odpowiedzialny za utrzymanie, monitoring, zgodnie z art. 27 części może przejąć wójt, burmistrz lub prezydent miasta właściwy ze względu na miejsce prowadzenia działalności na podstawie umowy określającej wszczególności sposób pokrycia przez posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych wszelkich kosztów związanych z przejęciem tych obowiązków.
 
-4. Po zamkni´ciu obiektu unieszkodliwiania odpadów wydobywczych lub jego cz´Êci, posiadacz odpadów prowadzàcy obiekt unieszkodliwiania wydobywczych zawiadamia, a nast´pnie bez zb´dnej zw∏oki potwierdza zawiadomienie formie pisemnej, w∏aÊciwego komendanta wojewódzkiego Paƒstwowej Stra˝y Po˝arnej oraz w∏aÊciwego wojewódzkiego inspektora ochrony Êrodowiska o wszelkich zdarzeniach lub zmianach technologicznych, które mogà mieç wp∏yw na statecznoÊç obiektu unieszkodliwiania wydobywczych lub jego cz´Êci, oraz owszelkich istotnych niekorzystnych skutkach dla Êrodowiska ujawnionych wwyniku monitoringu, podajàc zawiadomieniu:
+4. Po zamknięciu obiektu unieszkodliwiania odpadów wydobywczych lub jego części, posiadacz odpadów prowadzący obiekt unieszkodliwiania wydobywczych zawiadamia, a następnie bez zbędnej zwłoki potwierdza zawiadomienie formie pisemnej, właściwego komendanta wojewódzkiego Państwowej Straży Pożarnej oraz właściwego wojewódzkiego inspektora ochrony środowiska o wszelkich zdarzeniach lub zmianach technologicznych, które mogą mieć wpływ na stateczność obiektu unieszkodliwiania wydobywczych lub jego części, oraz owszelkich istotnych niekorzystnych skutkach dla środowiska ujawnionych wwyniku monitoringu, podając zawiadomieniu:
 
-- **1)** imi´ i nazwisko oraz adres zamieszkania lub nazw´ i adres siedziby posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
-- **2)** lokalizacj´ obiektu unieszkodliwiania wydobywczych;
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
+- **2)** lokalizację obiektu unieszkodliwiania wydobywczych;
 - **3)** rodzaj zdarzenia z krótkim opisem;
-- **4)** dzieƒ zajÊcia zdarzenia.
+- **4)** dzień zajścia zdarzenia.
 
-5. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych kategorii A wprowadza ˝ycie wewn´trzny plan operacyjno-ratowniczy i post´puje zgodnie z ustawà.
+5. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych kategorii A wprowadza życie wewnętrzny plan operacyjno-ratowniczy i postępuje zgodnie z ustawą.
 
-6. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych pokrywa koszty dzia∏aƒ, o których mowa ust. 2 i 4.
+6. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych pokrywa koszty działań, o których mowa ust. 2 i 4.
 
-7. Po zamkni´ciu obiektu unieszkodliwiania odpadów wydobywczych lub jego cz´Êci, z cz´stotliwoÊcià ustalonà przez w∏aÊciwego wojewódzkiego inspektora ochrony Êrodowiska, posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych przedk∏ada sprawozdanie o wynikach monitoringu.
+7. Po zamknięciu obiektu unieszkodliwiania odpadów wydobywczych lub jego części, z częstotliwością ustaloną przez właściwego wojewódzkiego inspektora ochrony środowiska, posiadacz prowadzący obiekt unieszkodliwiania wydobywczych przedkłada sprawozdanie o wynikach monitoringu.
 
-8. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, drodze rozporzàdzenia, sposób zawiadamiania ozdarzeniach, októrych mowa wust. 4, kierujàc si´ potrzebà ujednolicenia sposobu oraz zapewnieniem regularnoÊci przekazywania tych informacji.
+8. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, sposób zawiadamiania ozdarzeniach, októrych mowa wust. 4, kierując się potrzebą ujednolicenia sposobu oraz zapewnieniem regularności przekazywania tych informacji.
 
 **Art. 32.**
 
-1. W∏aÊciwy organ przed rozpocz´ciem dzia∏aƒ zwiàzanych ze sk∏adowaniem wydobywczych obiekcie unieszkodliwiania wydobywczych, wymaga przedstawienia przez posiadacza prowadzàcego obiekt unieszkodliwiania
+1. Właściwy organ przed rozpoczęciem działań związanych ze składowaniem wydobywczych obiekcie unieszkodliwiania wydobywczych, wymaga przedstawienia przez posiadacza prowadzącego obiekt unieszkodliwiania
 
-- **2)** wdowolnym czasie by∏y dost´pne Êrodki finansowe na dzia∏ania dotyczàce zamkni´cia obiektu unieszkodliwiania wydobywczych oraz rekultywacj´ terenu, zgodnie zprogramem gospodarowania odpadami wydobywczymi i wymaganiami zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych.
+- **2)** wdowolnym czasie były dostępne środki finansowe na działania dotyczące zamknięcia obiektu unieszkodliwiania wydobywczych oraz rekultywację terenu, zgodnie zprogramem gospodarowania odpadami wydobywczymi i wymaganiami zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych.
 
 2. Obliczenie gwarancji finansowej lub jej ekwiwalentu jest dokonane na podstawie:
 
-- **1)** prawdopodobnego negatywnego wp∏ywu obiektu unieszkodliwiania wydobywczych na Êrodowisko, bioràc pod uwag´ szczególnoÊci kategori´ obiektu unieszkodliwiania wydobywczych, w∏aÊciwoÊci wydobywczych oraz faktyczne lub zgodne z planem zagospodarowania przestrzennego zagospodarowanie zrekultywowanego terenu;
-- **2)** za∏o˝enia, ˝e niezale˝ne i odpowiednio wykwalifikowane osoby trzecie ocenià i wykonajà wszelkie niezb´dne prace rekultywacyjne.
+- **1)** prawdopodobnego negatywnego wpływu obiektu unieszkodliwiania wydobywczych na środowisko, biorąc pod uwagę szczególności kategorię obiektu unieszkodliwiania wydobywczych, właściwości wydobywczych oraz faktyczne lub zgodne z planem zagospodarowania przestrzennego zagospodarowanie zrekultywowanego terenu;
+- **2)** założenia, że niezależne i odpowiednio wykwalifikowane osoby trzecie ocenią i wykonają wszelkie niezbędne prace rekultywacyjne.
 
-3. WysokoÊç gwarancji finansowej lub jej ekwiwalentu podlega weryfikacji przypadku zmian zakresu dzia∏aƒ dotyczàcych zamkni´cia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu, zgodnie zprogramem gospodarowania odpadami wydobywczymi.
+3. Wysokość gwarancji finansowej lub jej ekwiwalentu podlega weryfikacji przypadku zmian zakresu działań dotyczących zamknięcia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu, zgodnie zprogramem gospodarowania odpadami wydobywczymi.
 
-4. Przedstawiona gwarancja finansowa lub jej ekwiwalent powinna byç w∏aÊciwie udokumentowana.
+4. Przedstawiona gwarancja finansowa lub jej ekwiwalent powinna być właściwie udokumentowana.
 
-5. Je˝eli w∏aÊciwy wojewódzki inspektor ochrony Êrodowiska potwierdzi prawid∏owe zamkni´cie obiektu unieszkodliwiania wydobywczych, zgodnie z art. 31 ust. 1, w∏aÊciwy organ, drodze decyzji, zwalnia posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych z obowiàzku posiadania gwarancji finansowej lub jej ekwiwalentu, z wyjàtkiem obowiàzków, o których mowa art. 31 ust. 2.
+5. Jeżeli właściwy wojewódzki inspektor ochrony środowiska potwierdzi prawidłowe zamknięcie obiektu unieszkodliwiania wydobywczych, zgodnie z art. 31 ust. 1, właściwy organ, drodze decyzji, zwalnia posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych z obowiązku posiadania gwarancji finansowej lub jej ekwiwalentu, z wyjątkiem obowiązków, o których mowa art. 31 ust. 2.
 
-6. Minister w∏aÊciwy do spraw Êrodowiska wporozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych okreÊli, drodze rozporzàdzenia, sposób obliczania, potwierdzenia posiadania, terminy izakres weryfikacji wielkoÊci, sposób dysponowania oraz form´ gwarancji finansowej ijej ekwiwalentu, bioràc pod uwag´ pe∏ne pokrycie kosztów zamkni´cia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu, dost´pnoÊç Êrodków finansowych, a tak˝e zakres niezb´dnych prac rekultywacyjnych.
+6. Minister właściwy do spraw środowiska wporozumieniu z ministrem właściwym do spraw finansów publicznych określi, drodze rozporządzenia, sposób obliczania, potwierdzenia posiadania, terminy izakres weryfikacji wielkości, sposób dysponowania oraz formę gwarancji finansowej ijej ekwiwalentu, biorąc pod uwagę pełne pokrycie kosztów zamknięcia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu, dostępność środków finansowych, a także zakres niezbędnych prac rekultywacyjnych.
 
-7. Wprzypadku niewywiàzania si´ posiadacza odpadów prowadzàcego obiekt unieszkodliwiania wydobywczych z obowiàzków dotyczàcych zamkni´cia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu, ich koszty sà pokrywane przez podmiot, który udzieli∏ gwarancji finansowej lub jej ekwiwalentu, na wniosek w∏aÊciwego organu zawieraobowiàzków dotyczàcych utrzymania, monitoringu oraz dzia∏aƒ po zamkni´ciu obiektu unieszkodliwiania wydobywczych lub jego cz´Êci, przys∏ugujà mu roszczenia do podmiotu, który udzieli∏ gwarancji finansowej lub jej ekwiwalentu.
+7. Wprzypadku niewywiązania się posiadacza odpadów prowadzącego obiekt unieszkodliwiania wydobywczych z obowiązków dotyczących zamknięcia obiektu unieszkodliwiania wydobywczych oraz rekultywacji terenu, ich koszty są pokrywane przez podmiot, który udzielił gwarancji finansowej lub jej ekwiwalentu, na wniosek właściwego organu zawieraobowiązków dotyczących utrzymania, monitoringu oraz działań po zamknięciu obiektu unieszkodliwiania wydobywczych lub jego części, przysługują mu roszczenia do podmiotu, który udzielił gwarancji finansowej lub jej ekwiwalentu.
 
 **Art. 33.**
 
-1. Zmiana posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych wymaga przekazania przez posiadacza odpadów przekazujàcego obiekt nast´pnemu posiadaczowi prowadzàcemu obiekt unieszkodliwiania wydobywczych, na podstawie umowy cywilnoprawnej, wszystkich dokumentów zwiàzanych z prowadzeniem obiektu unieszkodliwiania wydobywczych, a szczególnoÊci dotychczasowych oraz aktualnych dokumentów ewidencji odpadów, zbiorczych zestawieƒ danych orodzajach iiloÊci odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urzàdzeniach s∏u˝àcych do odzysku lub unieszkodliwiania tych odpadów, gromadzonych danych o wynikach monitoringu, sprawozdaƒ o wynikach monitoringu, zezwoleƒ na prowadzenie obiektu unieszkodliwiania wydobywczych i zarzàdzeƒ pokontrolnych.
+1. Zmiana posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych wymaga przekazania przez posiadacza odpadów przekazującego obiekt następnemu posiadaczowi prowadzącemu obiekt unieszkodliwiania wydobywczych, na podstawie umowy cywilnoprawnej, wszystkich dokumentów związanych z prowadzeniem obiektu unieszkodliwiania wydobywczych, a szczególności dotychczasowych oraz aktualnych dokumentów ewidencji odpadów, zbiorczych zestawień danych orodzajach iilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku lub unieszkodliwiania tych odpadów, gromadzonych danych o wynikach monitoringu, sprawozdań o wynikach monitoringu, zezwoleń na prowadzenie obiektu unieszkodliwiania wydobywczych i zarządzeń pokontrolnych.
 
-2. Posiadacz przejmujàcy obiekt unieszkodliwiania wydobywczych ma obowiàzek niezw∏ocznie zawiadomiç formie pisemnej w∏aÊciwy organ o zmianie posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych, podajàc:
+2. Posiadacz przejmujący obiekt unieszkodliwiania wydobywczych ma obowiązek niezwłocznie zawiadomić formie pisemnej właściwy organ o zmianie posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych, podając:
 
-- **1)** imi´ i nazwisko oraz adres zamieszkania lub nazw´ i adres siedziby dotychczasowego oraz przejmujàcego obiekt posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych;
-- **2)** lokalizacj´ obiektu unieszkodliwiania wydobywczych;
-- **3)** dat´ zmiany posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych.
+- **1)** imię i nazwisko oraz adres zamieszkania lub nazwę i adres siedziby dotychczasowego oraz przejmującego obiekt posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych;
+- **2)** lokalizację obiektu unieszkodliwiania wydobywczych;
+- **3)** datę zmiany posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych.
 
-3. Po otrzymaniu zawiadomienia, o którym mowa wust.2, w∏aÊciwy organ niezw∏ocznie zmienia zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych zakresie, o którym mowa art. 16 ust.1 pkt1. Rozdzia∏ 6 Powa˝ne wypadki
+3. Po otrzymaniu zawiadomienia, o którym mowa wust.2, właściwy organ niezwłocznie zmienia zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych zakresie, o którym mowa art. 16 ust.1 pkt1.
+
+#### Rozdział 6 Poważne wypadki
 
 **Art. 34.**
 
-1. Przepisy rozdzia∏u majà zastosowanie do obiektów unieszkodliwiania wydobywczych kategorii A, zwy∏àczeniem obiektów unieszkodliwiania wydobywczych, dla których majà zastosowanie przepisy tytu∏u IV ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska.
+1. Przepisy rozdziału mają zastosowanie do obiektów unieszkodliwiania wydobywczych kategorii A, zwyłączeniem obiektów unieszkodliwiania wydobywczych, dla których mają zastosowanie przepisy tytułu IV ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-2. W∏aÊciwoÊç miejscowà komendanta wojewódzkiego Paƒstwowej Stra˝y Po˝arnej ustala si´ wed∏ug miejsca prowadzenia dzia∏alnoÊci przez posiadacza sowanie ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska.
+2. Właściwość miejscową komendanta wojewódzkiego Państwowej Straży Pożarnej ustala się według miejsca prowadzenia działalności przez posiadacza sowanie ustawa z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-**Art. 35.** Wewn´trzny plan operacyjno-ratowniczy, o którym mowa art. 36 ust. 2, oraz zewn´trzny plan operacyjno-ratowniczy, o którym mowa art. 37 ust. 1, ma na celu:
+**Art. 35.** Wewnętrzny plan operacyjno-ratowniczy, o którym mowa art. 36 ust. 2, oraz zewnętrzny plan operacyjno-ratowniczy, o którym mowa art. 37 ust. 1, ma na celu:
 
 **Art. 36.**
 
-1. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych kategoriiA jest obowiàzany do lokalizacji, budowy, prowadzenia i zamkni´cia obiektu unieszkodliwiania wydobywczych kategorii A sposób zapobiegajàcy wystàpieniu powa˝nego wypadku ijego nast´pstwom.
+1. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych kategoriiA jest obowiązany do lokalizacji, budowy, prowadzenia i zamknięcia obiektu unieszkodliwiania wydobywczych kategorii A sposób zapobiegający wystąpieniu poważnego wypadku ijego następstwom.
 
-2. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych kategorii A przed rozpocz´ciem sk∏adowania wydobywczych obiekcie unieszkodliwiania wydobywczych kategorii A sporzàdza wewn´trzny plan operacyjno-ratowniczy na wypadek wystàpienia powa˝nego wypadku oraz wprowadza system zarzàdzania bezpieczeƒstwem wdra˝ajàc polityk´ zapobiegania powa˝nym wypadkom.
+2. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych kategorii A przed rozpoczęciem składowania wydobywczych obiekcie unieszkodliwiania wydobywczych kategorii A sporządza wewnętrzny plan operacyjno-ratowniczy na wypadek wystąpienia poważnego wypadku oraz wprowadza system zarządzania bezpieczeństwem wdrażając politykę zapobiegania poważnym wypadkom.
 
-3. System zarzàdzania bezpieczeƒstwem, októrym mowa ust. 2, jest okreÊlony za∏àczniku nr 1 do ustawy.
+3. System zarządzania bezpieczeństwem, októrym mowa ust. 2, jest określony załączniku nr 1 do ustawy.
 
-4. Wewn´trzny plan operacyjno-ratowniczy powinien zawieraç szczególnoÊci dane, o których mowa art. 260 ust. 2 ustawy z dnia 27 kwietnia 2001 r. —Prawo ochrony Êrodowiska.
+4. Wewnętrzny plan operacyjno-ratowniczy powinien zawierać szczególności dane, o których mowa art. 260 ust. 2 ustawy z dnia 27 kwietnia 2001 r. —Prawo ochrony środowiska.
 
-5. Do posiadacza prowadzàcego obiekt unieszkodliwiania wydobywczych kategorii A razie wystàpienia powa˝nego wypadku ma zastosowanie przepis art. 264 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska.
+5. Do posiadacza prowadzącego obiekt unieszkodliwiania wydobywczych kategorii A razie wystąpienia poważnego wypadku ma zastosowanie przepis art. 264 ustawy z dnia 27 kwietnia 2001 r. Prawo ochrony środowiska.
 
-6. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych kategorii Azatrudnia kierownika do spraw bezpieczeƒstwa, który jest odpowiedzialny za wdra˝anie polityki zapobiegania powa˝nym wypadkom iwewn´trznego planu opewn´trzny plan operacyjno-ratowniczy wyszczególniajàcy Êrodki, które nale˝y zastosowaç poza miejscem prowadzenia dzia∏alnoÊci wrazie powa˝nego wypadku.
+6. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych kategorii Azatrudnia kierownika do spraw bezpieczeństwa, który jest odpowiedzialny za wdrażanie polityki zapobiegania poważnym wypadkom iwewnętrznego planu opewnętrzny plan operacyjno-ratowniczy wyszczególniający środki, które należy zastosować poza miejscem prowadzenia działalności wrazie poważnego wypadku.
 
-2. W∏aÊciwy komendant wojewódzki Paƒstwowej Stra˝y Po˝arnej zapewnia mo˝liwoÊç udzia∏u zainteresowanej spo∏ecznoÊci post´powaniu, którego przedmiotem jest sporzàdzenie zewn´trznego planu operacyjno-ratowniczego.
+2. Właściwy komendant wojewódzki Państwowej Straży Pożarnej zapewnia możliwość udziału zainteresowanej społeczności postępowaniu, którego przedmiotem jest sporządzenie zewnętrznego planu operacyjno-ratowniczego.
 
-3. Po przeprowadzeniu post´powania wymagajàcego udzia∏u zainteresowanej spo∏ecznoÊci, o którym mowa wust. 2, w∏aÊciwy komendant wojewódzki Paƒstwowej Stra˝y Po˝arnej przyjmuje zewn´trzny plan operacyjno-ratowniczy.
+3. Po przeprowadzeniu postępowania wymagającego udziału zainteresowanej społeczności, o którym mowa wust. 2, właściwy komendant wojewódzki Państwowej Straży Pożarnej przyjmuje zewnętrzny plan operacyjno-ratowniczy.
 
-4. Pisemna informacja osporzàdzeniu zewn´trznego planu operacyjno-ratowniczego jest przekazywana niezw∏ocznie w∏aÊciwemu organowi.
+4. Pisemna informacja osporządzeniu zewnętrznego planu operacyjno-ratowniczego jest przekazywana niezwłocznie właściwemu organowi.
 
 **Art. 38.**
 
-1. W∏aÊciwy komendant wojewódzki Paƒstwowej Stra˝y Po˝arnej sporzàdza informacj´ oÊrodkach bezpieczeƒstwa oraz o dzia∏aniach podejmowanych razie wystàpienia powa˝nego wypadku.
+1. Właściwy komendant wojewódzki Państwowej Straży Pożarnej sporządza informację ośrodkach bezpieczeństwa oraz o działaniach podejmowanych razie wystąpienia poważnego wypadku.
 
-2. Zakres informacji, o której mowa ust. 1, jest okreÊlony za∏àczniku nr 2 do ustawy.
+2. Zakres informacji, o której mowa ust. 1, jest określony załączniku nr 2 do ustawy.
 
-3. Informacja, o której mowa ust. 1, jest przekazywana zainteresowanej spo∏ecznoÊci bezp∏atnie iniezw∏ocznie sposób zwyczajowo przyj´ty oraz publikowana Biuletynie Informacji Publicznej, na stronie podmiotowej organu, o którym mowa ust. 1.
+3. Informacja, o której mowa ust. 1, jest przekazywana zainteresowanej społeczności bezpłatnie iniezwłocznie sposób zwyczajowo przyjęty oraz publikowana Biuletynie Informacji Publicznej, na stronie podmiotowej organu, o którym mowa ust. 1.
 
-4. W∏aÊciwy komendant wojewódzki Paƒstwowej Stra˝y Po˝arnej jest obowiàzany do analizy zewn´trznego planu operacyjno-ratowniczego oraz informacji, októrej mowa wust. 1, co najmniej raz na 3 lata, wcelu ich aktualizacji, z uwzgl´dnieniem szczególnoÊci zmian wprowadzonych procesie technologicznym obiektu unieszkodliwiania wydobywczych kategorii A. Rozdzia∏ 7 Wype∏nianie wyrobisk górniczych odpadami wydobywczymi
+4. Właściwy komendant wojewódzki Państwowej Straży Pożarnej jest obowiązany do analizy zewnętrznego planu operacyjno-ratowniczego oraz informacji, októrej mowa wust. 1, co najmniej raz na 3 lata, wcelu ich aktualizacji, z uwzględnieniem szczególności zmian wprowadzonych procesie technologicznym obiektu unieszkodliwiania wydobywczych kategorii A.
+
+#### Rozdział 7 Wypełnianie wyrobisk górniczych odpadami wydobywczymi
 
 **Art. 39.**
 
-1. Wype∏nianie wyrobisk górniczych odpadami wydobywczymi powinno odbywaç si´ zuwzgl´dnieniem nast´pujàcych warunków:
+1. Wypełnianie wyrobisk górniczych odpadami wydobywczymi powinno odbywać się zuwzględnieniem następujących warunków:
 
-- **1)** zabezpieczenia stabilnoÊci wydobywczych;
+- **1)** zabezpieczenia stabilności wydobywczych;
 - **2)** zapobiegania zanieczyszczeniu gleby, wód powierzchniowych i podziemnych;
-- **3)** zapewnienia monitoringu wyrobisk górniczych wype∏nianych odpadami wydobywczymi. wydobywczymi innymi ni˝ z w∏asnego zak∏adu górniczego stosuje si´ przepisy ustawy z dnia 27 kwietnia 2001 r. oodpadach; je˝eli wype∏nianie wyrobisk górniczych odpadami wydobywczymi innymi ni˝ z w∏asnego zak∏adu górniczego jest prowadzone wruchu zak∏adu górniczego, to zastosowanie majà równie˝ przepisy ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze.
+- **3)** zapewnienia monitoringu wyrobisk górniczych wypełnianych odpadami wydobywczymi. wydobywczymi innymi niż z własnego zakładu górniczego stosuje się przepisy ustawy z dnia 27 kwietnia 2001 r. oodpadach; jeżeli wypełnianie wyrobisk górniczych odpadami wydobywczymi innymi niż z własnego zakładu górniczego jest prowadzone wruchu zakładu górniczego, to zastosowanie mają również przepisy ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze.
 
-4. Szczegó∏owe warunki, októrych mowa wust. 1, dotyczàce wype∏niania wyrobisk górniczych ruchu zak∏adu górniczego odpadami wydobywczymi okreÊla art. 78 ust. 1 ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze.
+4. Szczegółowe warunki, októrych mowa wust. 1, dotyczące wypełniania wyrobisk górniczych ruchu zakładu górniczego odpadami wydobywczymi określa art. 78 ust. 1 ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze.
 
-5. Sposób realizacji warunków, o których mowa ust. 1, dotyczàcych wype∏niania wyrobisk górniczych odpadami wydobywczymi okreÊla si´ planie ruchu zak∏adu górniczego, o którym mowa art. 64 ust. 6 ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze. Rozdzia∏ 8 Obowiàzki administracji publicznej
+5. Sposób realizacji warunków, o których mowa ust. 1, dotyczących wypełniania wyrobisk górniczych odpadami wydobywczymi określa się planie ruchu zakładu górniczego, o którym mowa art. 64 ust. 6 ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze.
+
+#### Rozdział 8 Obowiązki administracji publicznej
 
 **Art. 40.**
 
-1. Organem w∏aÊciwym wsprawach odpadów wydobywczych jest:
+1. Organem właściwym wsprawach odpadów wydobywczych jest:
 
-- **1)** wojewoda dla przedsi´wzi´ç i zdarzeƒ na terenach zamkni´tych;
-- **2)** marsza∏ek województwa dla:
-    - **a)** przedsi´wzi´ç, dla których koncesji na poszukiwanie, rozpoznawanie, wydobywanie kopalin ze z∏ó˝ udziela minister w∏aÊciwy do spraw Êrodowiska lub marsza∏ek województwa,
-    - **b)** instalacji do przerobu kopalin wydobywanych ze z∏o˝a metodà podziemnà o przerobie nie mniejszym ni˝ 100 000 m kopaliny rocznie,
-    - **c)** obiektów unieszkodliwiania wydobywczych mogàcych przyjmowaç nie mniej ni˝ 10 ton na dob´ lub o ca∏kowitej pojemnoÊci nie mniejszej ni˝ 25 000 ton;
+- **1)** wojewoda dla przedsięwzięć i zdarzeń na terenach zamkniętych;
+- **2)** marszałek województwa dla:
+    - **a)** przedsięwzięć, dla których koncesji na poszukiwanie, rozpoznawanie, wydobywanie kopalin ze złóż udziela minister właściwy do spraw środowiska lub marszałek województwa,
+    - **b)** instalacji do przerobu kopalin wydobywanych ze złoża metodą podziemną o przerobie nie mniejszym niż 100 000 m kopaliny rocznie,
+    - **c)** obiektów unieszkodliwiania wydobywczych mogących przyjmować nie mniej niż 10 ton na dobę lub o całkowitej pojemności nie mniejszej niż 25 000 ton;
 
-- **3)** starosta pozosta∏ych przypadkach.
+- **3)** starosta pozostałych przypadkach.
 
-2. W przypadku prowadzenia tym samym miejscu przedsi´wzi´ç, o których mowa ust. 1 pkt 2 i 3, organem w∏aÊciwym jest marsza∏ek województwa.
+2. W przypadku prowadzenia tym samym miejscu przedsięwzięć, o których mowa ust. 1 pkt 2 i 3, organem właściwym jest marszałek województwa.
 
 **Art. 41.**
 
-1. W∏aÊciwoÊç miejscowà w∏aÊciwego organu ustala si´ wed∏ug miejsca prowadzenia dzia∏alnoÊci posiadacza wydobywczych.
+1. Właściwość miejscową właściwego organu ustala się według miejsca prowadzenia działalności posiadacza wydobywczych.
 
-2. Kopie wydanych decyzji powinny byç przekazywane niezw∏ocznie do wojewódzkiego inspektora ochrony Êrodowiska w∏aÊciwego ze wzgl´du na miejsza∏ka województwa sprawach, o których mowa art. 4 ust. 5, art. 11 ust. 2 i 5, art. 13 ust. 2, art. 14 ust. 2, art. 20, art. 21 ust. 2, art. 29 ust. 1, art. 32 ust. 5 oraz art. 33 ust. 3.
+2. Kopie wydanych decyzji powinny być przekazywane niezwłocznie do wojewódzkiego inspektora ochrony środowiska właściwego ze względu na miejszałka województwa sprawach, o których mowa art. 4 ust. 5, art. 11 ust. 2 i 5, art. 13 ust. 2, art. 14 ust. 2, art. 20, art. 21 ust. 2, art. 29 ust. 1, art. 32 ust. 5 oraz art. 33 ust. 3.
 
-4. Zadania samorzàdu województwa, o których mowa art. 4 ust. 5, art. 8 ust. 1, art. 11 ust. 2 i 5, art.12 ust. 2, art. 13, art. 14 ust. 2, art. 15, art.19 ust.2 i3, art. 20, art. 21, art. 29 ust. 1 i4, art. 30 ust. 1, art.31 ust. 1, art. 32 ust. 1, 5 i7, art. 33 ust. 2 i 3, art. 37 ust.4 iwart. 59 ust. 2 i3, sà zadaniami zzakresu administracji rzàdowej.
+4. Zadania samorządu województwa, o których mowa art. 4 ust. 5, art. 8 ust. 1, art. 11 ust. 2 i 5, art.12 ust. 2, art. 13, art. 14 ust. 2, art. 15, art.19 ust.2 i3, art. 20, art. 21, art. 29 ust. 1 i4, art. 30 ust. 1, art.31 ust. 1, art. 32 ust. 1, 5 i7, art. 33 ust. 2 i 3, art. 37 ust.4 iwart. 59 ust. 2 i3, są zadaniami zzakresu administracji rządowej.
 
 **Art. 42.**
 
-1. Przed rozpocz´ciem sk∏adowania odpadów wydobywczych wobiekcie unieszkodliwiania odpadów wydobywczych, podczas prowadzenia tego obiektu oraz po jego zamkni´ciu, w∏aÊciwy wojewódzki inspektor ochrony Êrodowiska przeprowadza kontrole obiektu unieszkodliwiania wydobywczych, bioràc pod uwag´ wyniki monitoringu.
+1. Przed rozpoczęciem składowania odpadów wydobywczych wobiekcie unieszkodliwiania odpadów wydobywczych, podczas prowadzenia tego obiektu oraz po jego zamknięciu, właściwy wojewódzki inspektor ochrony środowiska przeprowadza kontrole obiektu unieszkodliwiania wydobywczych, biorąc pod uwagę wyniki monitoringu.
 
-2. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do udost´pnienia w∏aÊciwemu wojewódzkiemu inspektorowi ochrony Êrodowiska podczas kontroli wszystkich dokumentów zwiàzanych z prowadzeniem obiektu unieszkodliwiania wydobywczych, a szczególnoÊci dokumentów ewidencji odpadów, zbiorczych zestawieƒ danych orodzajach iiloÊci odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urzàdzeniach s∏u˝àcych do odzysku lub unieszkodliwiania tych odpadów, sprawozdaƒ owynikach monitoringu, zezwoleƒ na prowadzenie obiektu unieszkodliwiania wydobywczych.
+2. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do udostępnienia właściwemu wojewódzkiemu inspektorowi ochrony środowiska podczas kontroli wszystkich dokumentów związanych z prowadzeniem obiektu unieszkodliwiania wydobywczych, a szczególności dokumentów ewidencji odpadów, zbiorczych zestawień danych orodzajach iilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku lub unieszkodliwiania tych odpadów, sprawozdań owynikach monitoringu, zezwoleń na prowadzenie obiektu unieszkodliwiania wydobywczych.
 
-3. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, drodze rozporzàdzenia, zakres oraz cz´stotliwoÊç kontroli obiektu unieszkodliwiania wydobywczych, kierujàc si´ wp∏ywem obiektu unieszkodliwiania wydobywczych na Êrodowisko oraz zdrowie i ˝ycie ludzi.
+3. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, zakres oraz częstotliwość kontroli obiektu unieszkodliwiania wydobywczych, kierując się wpływem obiektu unieszkodliwiania wydobywczych na środowisko oraz zdrowie i życie ludzi.
 
-**Art. 43.** Informacje uzyskane od posiadacza odpadów prowadzàcego obiekt unieszkodliwiania wydobywczych, zgodnie z art. 28 ust. 1 oraz art. 31 ust. 4, w∏aÊciwy wojewódzki inspektor ochrony Êrodowiska przekazuje G∏ównemu Inspektorowi Ochrony Ârodowiska, terminie do koƒca lutego za poprzedni rok kalendarzowy, podajàc:
+**Art. 43.** Informacje uzyskane od posiadacza odpadów prowadzącego obiekt unieszkodliwiania wydobywczych, zgodnie z art. 28 ust. 1 oraz art. 31 ust. 4, właściwy wojewódzki inspektor ochrony środowiska przekazuje Głównemu Inspektorowi Ochrony Ârodowiska, terminie do końca lutego za poprzedni rok kalendarzowy, podając:
 
 **Art. 44.**
 
-1. Spis zamkni´tych obiektów unieszkodliwiania wydobywczych oraz opuszczonych lub zagro˝eniem dla Êrodowiska, jest sporzàdzany przez w∏aÊciwego wojewódzkiego inspektora ochrony Êrodowiska.
+1. Spis zamkniętych obiektów unieszkodliwiania wydobywczych oraz opuszczonych lub zagrożeniem dla środowiska, jest sporządzany przez właściwego wojewódzkiego inspektora ochrony środowiska.
 
-2. W przypadku okreÊlenia metodologii, o której mowa wust. 4, w∏aÊciwy wojewódzki inspektor ochrony Êrodowiska sporzàdzajàc spis, o którym mowa ust. 1, jest obowiàzany do jej uwzgl´dnienia.
+2. W przypadku określenia metodologii, o której mowa wust. 4, właściwy wojewódzki inspektor ochrony środowiska sporządzając spis, o którym mowa ust. 1, jest obowiązany do jej uwzględnienia.
 
-3. G∏ówny Inspektor Ochrony Ârodowiska sporzàdza krajowy spis zamkni´tych obiektów unieszkodliwiania wydobywczych oraz opuszczonych obiektów unieszkodliwiania wydobywczych na podstawie spisów, októrych mowa wust. 1 ipublikuje go Biuletynie Informacji Publicznej, na stronie podmiotowej organu.
+3. Główny Inspektor Ochrony Ârodowiska sporządza krajowy spis zamkniętych obiektów unieszkodliwiania wydobywczych oraz opuszczonych obiektów unieszkodliwiania wydobywczych na podstawie spisów, októrych mowa wust. 1 ipublikuje go Biuletynie Informacji Publicznej, na stronie podmiotowej organu.
 
-4. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, drodze rozporzàdzenia, zakres oraz metodologi´ dotyczàcà sporzàdzania, prowadzenia i aktualizacji spisu zamkni´tych obiektów unieszkodliwiania wydobywczych oraz opuszczonych obiektów unieszkodliwiania wydobywczych, wtym cz´stotliwoÊç tej aktualizacji, kierujàc si´ mo˝liwoÊcià wystàpienia powa˝nego wypadku oraz negatywnego wp∏ywu na Êrodowisko.
+4. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, zakres oraz metodologię dotyczącą sporządzania, prowadzenia i aktualizacji spisu zamkniętych obiektów unieszkodliwiania wydobywczych oraz opuszczonych obiektów unieszkodliwiania wydobywczych, wtym częstotliwość tej aktualizacji, kierując się możliwością wystąpienia poważnego wypadku oraz negatywnego wpływu na środowisko.
 
-5. Minister w∏aÊciwy do spraw Êrodowiska mo˝e okreÊliç, drodze rozporzàdzenia, metodologi´ dotyczàcà niezb´dnych dzia∏aƒ wodniesieniu do obiektów, októrych mowa wust. 1, kierujàc si´ mo˝liwoÊcià wystàpienia powa˝nego wypadku oraz negatywnego wp∏ywu na Êrodowisko. Rozdzia∏ 9 Przepisy karne
+5. Minister właściwy do spraw środowiska może określić, drodze rozporządzenia, metodologię dotyczącą niezbędnych działań wodniesieniu do obiektów, októrych mowa wust. 1, kierując się możliwością wystąpienia poważnego wypadku oraz negatywnego wpływu na środowisko.
+
+#### Rozdział 9 Przepisy karne
 
 **Art. 45.**
 
-1. Kto bez wymaganej decyzji zatwierdzajàcej program gospodarowania odpadami wydobywczymi albo wbrew jej warunkom wytwarza odpady wydobywcze lub nimi gospodaruje, podlega karze grzywny do 100 000 z∏otych albo karze aresztu.
+1. Kto bez wymaganej decyzji zatwierdzającej program gospodarowania odpadami wydobywczymi albo wbrew jej warunkom wytwarza odpady wydobywcze lub nimi gospodaruje, podlega karze grzywny do 100 000 złotych albo karze aresztu.
 
-2. Kto bez wymaganego zezwolenia albo wbrew jego warunkom prowadzi obiekt unieszkodliwiania wydobywczych, podlega karze grzywny do 100 000 z∏otych albo karze aresztu.
+2. Kto bez wymaganego zezwolenia albo wbrew jego warunkom prowadzi obiekt unieszkodliwiania wydobywczych, podlega karze grzywny do 100 000 złotych albo karze aresztu.
 
-3. Tej samej karze podlega posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych, który wbrew obowiàzkowi nie posiada wymaganej gwarancji finansowej lub jej ekwiwalentu.
+3. Tej samej karze podlega posiadacz prowadzący obiekt unieszkodliwiania wydobywczych, który wbrew obowiązkowi nie posiada wymaganej gwarancji finansowej lub jej ekwiwalentu.
 
-4. Kto magazynuje lub sk∏aduje odpady wydobywcze miejscu na ten cel nieprzeznaczonym lub przekracza dopuszczalne okresy magazynowania odpadów wydobywczych,
+4. Kto magazynuje lub składuje odpady wydobywcze miejscu na ten cel nieprzeznaczonym lub przekracza dopuszczalne okresy magazynowania odpadów wydobywczych,
 
-- **1)** sprawdzenia zgodnoÊci przyjmowanych wydobywczych zdanymi zawartymi wkarcie przekazania odpadu,
-- **2)** utrzymywania i eksploatacji obiektu unieszkodliwiania wydobywczych wsposób zapewniajàcy w∏aÊciwe funkcjonowanie urzàdzeƒ technicznych stanowiàcych wyposa˝enie tego obiektu oraz zachowanie wymagaƒ sanitarnych, bezpieczeƒstwa i higieny pracy, przeciwpo˝arowych, a tak˝e zasad ochrony Êrodowiska,
-- **3)** odmowy przyj´cia wydobywczych do obiektu unieszkodliwiania wydobywczych o sk∏adzie niezgodnym z dokumentami ewidencji lub zezwoleniem, podlega karze grzywny do 100 000 z∏otych albo karze aresztu.
+- **1)** sprawdzenia zgodności przyjmowanych wydobywczych zdanymi zawartymi wkarcie przekazania odpadu,
+- **2)** utrzymywania i eksploatacji obiektu unieszkodliwiania wydobywczych wsposób zapewniający właściwe funkcjonowanie urządzeń technicznych stanowiących wyposażenie tego obiektu oraz zachowanie wymagań sanitarnych, bezpieczeństwa i higieny pracy, przeciwpożarowych, a także zasad ochrony środowiska,
+- **3)** odmowy przyjęcia wydobywczych do obiektu unieszkodliwiania wydobywczych o składzie niezgodnym z dokumentami ewidencji lub zezwoleniem, podlega karze grzywny do 100 000 złotych albo karze aresztu.
 
-2. Kto, prowadzàc obiekt unieszkodliwiania odpadów wydobywczych, nie dope∏nia obowiàzku zakresie:
+2. Kto, prowadząc obiekt unieszkodliwiania odpadów wydobywczych, nie dopełnia obowiązku zakresie:
 
-- **1)** monitoringu obiektu unieszkodliwiania wydobywczych wtrakcie jego prowadzenia ipo jego zamkni´ciu lub prowadzi monitoring niezgodnie z wymaganiami,
-- **2)** przesy∏ania sprawozdania o wynikach monitoringu obiektu unieszkodliwiania wydobywczych wojewódzkiemu inspektorowi ochrony Êrodowiska,
-- **3)** przekazania nast´pnemu posiadaczowi prowadzàcemu obiekt unieszkodliwiania odpadów wydobywczych wszystkich dokumentów zwiàzanych z prowadzeniem obiektu unieszkodliwiania wydobywczych, a szczególnoÊci dotychczasowych oraz aktualnych dokumentów ewidencji odpadów, zbiorczych zestawieƒ danych o rodzajach i iloÊci odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urzàdzeniach s∏u˝àcych do odzysku lub unieszkodliwiania tych odpadów, gromadzonych danych o wynikach monitoringu, sprawozdaƒ o wynikach monitoringu, zezwoleƒ na prowadzenie obiektu unieszkodliwiania wydobywczych i zarzàdzeƒ pokontrolnych, podlega karze grzywny do 100 000 z∏otych albo karze aresztu.
+- **1)** monitoringu obiektu unieszkodliwiania wydobywczych wtrakcie jego prowadzenia ipo jego zamknięciu lub prowadzi monitoring niezgodnie z wymaganiami,
+- **2)** przesyłania sprawozdania o wynikach monitoringu obiektu unieszkodliwiania wydobywczych wojewódzkiemu inspektorowi ochrony środowiska,
+- **3)** przekazania następnemu posiadaczowi prowadzącemu obiekt unieszkodliwiania odpadów wydobywczych wszystkich dokumentów związanych z prowadzeniem obiektu unieszkodliwiania wydobywczych, a szczególności dotychczasowych oraz aktualnych dokumentów ewidencji odpadów, zbiorczych zestawień danych o rodzajach i ilości odpadów, o sposobach gospodarowania nimi oraz o instalacjach i urządzeniach służących do odzysku lub unieszkodliwiania tych odpadów, gromadzonych danych o wynikach monitoringu, sprawozdań o wynikach monitoringu, zezwoleń na prowadzenie obiektu unieszkodliwiania wydobywczych i zarządzeń pokontrolnych, podlega karze grzywny do 100 000 złotych albo karze aresztu.
 
-**Art. 47.** Kto bez wymaganej zgody w∏aÊciwego organu albo wbrew jej warunkom zamyka obiekt unieszkodliwiania wydobywczych lub jego cz´Êç, podlega karze grzywny do 100 000 z∏otych albo karze aresztu. z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. 138, poz. 865),”.
+**Art. 47.** Kto bez wymaganej zgody właściwego organu albo wbrew jej warunkom zamyka obiekt unieszkodliwiania wydobywczych lub jego część, podlega karze grzywny do 100 000 złotych albo karze aresztu. z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. 138, poz. 865),”.
 
-**Art. 49.** W ustawie z dnia 4 lutego 1994 r. Prawo geologiczne igórnicze (Dz. U. z2005 r. 228, poz.1947, zpóên. zm. Rozdzia∏ 10 Zmiany przepisach obowiàzujàcych
+**Art. 49.** W ustawie z dnia 4 lutego 1994 r. Prawo geologiczne igórnicze (Dz. U. z2005 r. 228, poz.1947, zpóên. zm.
 
-**Art. 48.** Wustawie zdnia 20 lipca 1991 r. oInspek) wprowadza si´ nast´pujàce zmiany:
+#### Rozdział 10 Zmiany przepisach obowiązujących
 
-**Art. 50.** Wustawie zdnia 27 kwietnia 2001 r. Prawo ochrony Êrodowiska (Dz. U. z2008 r. 25, poz.150 i 111, poz. 708) wart. 19 wust. 2 wpkt 33 kropk´ zast´puje si´ Êrednikiem idodaje si´ pkt 34 wbrzmieniu: „34) z zakresu ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. 138, poz. 865):
+**Art. 48.** Wustawie zdnia 20 lipca 1991 r. oInspek) wprowadza się następujące zmiany:
 
-**Art. 51.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2007 r. 39, poz. 251 i 88, poz.587) wart. 2 wust. 2 pkt 1a otrzymuje brzmienie: „1a) mas ziemnych lub skalnych przemieszczanych wzwiàzku zwydobywaniem kopalin ze z∏ó˝, je˝eli koncesja na wydobywanie kopalin ze z∏ó˝, udzielona na podstawie ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze lub miejscowy plan zagospodarowania przestrzennego dla terenu górniczego okreÊlajà warunki isposób ich zagospodarowania.”. ——————— puje si´ Êrednikiem idodaje si´ pkt 7 wbrzmieniu: „7) z zakresu ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. 138, poz. 865) gospodarowanie odpadami wydobywczymi na podstawie zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych.”. Rozdzia∏ 11 Przepisy przejÊciowe i koƒcowe
+**Art. 50.** Wustawie zdnia 27 kwietnia 2001 r. Prawo ochrony środowiska (Dz. U. z2008 r. 25, poz.150 i 111, poz. 708) wart. 19 wust. 2 wpkt 33 kropkę zastępuje się średnikiem idodaje się pkt 34 wbrzmieniu: Ń34) z zakresu ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. 138, poz. 865):
+
+**Art. 51.** W ustawie z dnia 27 kwietnia 2001 r. o odpadach (Dz. U. z 2007 r. 39, poz. 251 i 88, poz.587) wart. 2 wust. 2 pkt 1a otrzymuje brzmienie: Ń1a) mas ziemnych lub skalnych przemieszczanych wzwiązku zwydobywaniem kopalin ze złóż, jeżeli koncesja na wydobywanie kopalin ze złóż, udzielona na podstawie ustawy z dnia 4 lutego 1994 r. Prawo geologiczne i górnicze lub miejscowy plan zagospodarowania przestrzennego dla terenu górniczego określają warunki isposób ich zagospodarowania.”. ——————— puje się średnikiem idodaje się pkt 7 wbrzmieniu: Ń7) z zakresu ustawy z dnia 10 lipca 2008 r. o odpadach wydobywczych (Dz. U. 138, poz. 865) gospodarowanie odpadami wydobywczymi na podstawie zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych.”.
+
+#### Rozdział 11 Przepisy przejściowe i końcowe
 
 **Art. 53.**
 
-1. Posiadacz wydobywczych, który prowadzi∏ dzia∏alnoÊç dniu poprzedzajàcym dzieƒ wejÊcia ˝ycie ustawy jest obowiàzany dostosowaç swojà dzia∏alnoÊç do przepisów ustawy do dnia 1 maja 2012 r.
+1. Posiadacz wydobywczych, który prowadził działalność dniu poprzedzającym dzień wejścia życie ustawy jest obowiązany dostosować swoją działalność do przepisów ustawy do dnia 1 maja 2012 r.
 
-2. Do dnia 1 maja 2012 r. posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do zatrudnienia osoby zarzàdzajàcej obiektem unieszkodliwiania wydobywczych posiadajàcej Êwiadectwo stwierdzajàce kwalifikacje zakresie gospodarowania odpadami, o którym mowa art. 22.
+2. Do dnia 1 maja 2012 r. posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do zatrudnienia osoby zarządzającej obiektem unieszkodliwiania wydobywczych posiadającej świadectwo stwierdzające kwalifikacje zakresie gospodarowania odpadami, o którym mowa art. 22.
 
-3. Zachowujà wa˝noÊç dotychczas uzyskane Êwiadectwa stwierdzajàce kwalifikacje zakresie gospodarowania odpadami dla kierownika sk∏adowiska odpadów, wydane na podstawie przepisu art. 49 ustawy z dnia 27 kwietnia 2001 r. o odpadach.
+3. Zachowują ważność dotychczas uzyskane świadectwa stwierdzające kwalifikacje zakresie gospodarowania odpadami dla kierownika składowiska odpadów, wydane na podstawie przepisu art. 49 ustawy z dnia 27 kwietnia 2001 r. o odpadach.
 
 **Art. 54.**
 
-1. Rozporzàdzenie, októrym mowa wart.32 ust. 6, minister w∏aÊciwy do spraw Êrodowiska wyda do dnia 30 kwietnia 2013 r.
+1. Rozporządzenie, októrym mowa wart.32 ust. 6, minister właściwy do spraw środowiska wyda do dnia 30 kwietnia 2013 r.
 
-2. Do dnia wejÊcia ˝ycie rozporzàdzenia, o którym mowa ust. 1, przy wydawaniu zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych nie stosuje si´ przepisów art. 15 ust. 1 pkt 3, art. 16 ust. 1 pkt 5, art. 30 ust. 1 pkt 4, art. 32 ust. 1—5 oraz ust. 7—8.
+2. Do dnia wejścia życie rozporządzenia, o którym mowa ust. 1, przy wydawaniu zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych nie stosuje się przepisów art. 15 ust. 1 pkt 3, art. 16 ust. 1 pkt 5, art. 30 ust. 1 pkt 4, art. 32 ust. 1—5 oraz ust. 7—8.
 
-3. Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany dostosowaç si´ do wymagaƒ dotyczàcych gwarancji finansowych do dnia 1 maja 2014 r.
+3. Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany dostosować się do wymagań dotyczących gwarancji finansowych do dnia 1 maja 2014 r.
 
-**Art. 55.** Posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych, który prowadzi∏ dzia∏alnoÊç dniu poprzedzajàcym dzieƒ wejÊcia ˝ycie ustawy jest obowiàzany wykazaç ocenie ryzyka obiektu unieszkodliwiania wydobywczych, ˝e st´˝enie cyjanku dysocjujàcego s∏abym kwasie miejscu zrzutu przerób27 kwietnia 2001 r. o odpadach przed dniem wejÊcia ˝ycie ustawy, nie stosuje si´ przepisów art. 53 i art. 55. 2. Do post´powaƒ sprawach o zamkni´cie sk∏adowisk odpadów, które przyjmowa∏y do sk∏adowania odpady wydobywcze, wszcz´tych i niezakoƒczonych przed dniem wejÊcia w˝ycie niniejszej ustawy, stosuje si´ przepisy dotychczasowe.
+**Art. 55.** Posiadacz prowadzący obiekt unieszkodliwiania wydobywczych, który prowadził działalność dniu poprzedzającym dzień wejścia życie ustawy jest obowiązany wykazać ocenie ryzyka obiektu unieszkodliwiania wydobywczych, że stężenie cyjanku dysocjującego słabym kwasie miejscu zrzutu przerób27 kwietnia 2001 r. o odpadach przed dniem wejścia życie ustawy, nie stosuje się przepisów art. 53 i art. 55. 2. Do postępowań sprawach o zamknięcie składowisk odpadów, które przyjmowały do składowania odpady wydobywcze, wszczętych i niezakończonych przed dniem wejścia wżycie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 57.**
 
-1. Z dniem wejÊcia ˝ycie ustawy sk∏adowisko przyjmujàce do sk∏adowania wy∏àcznie odpady wydobywcze staje si´ obiektem unieszkodliwiania wydobywczych wrozumieniu niniejszej ustawy.
+1. Z dniem wejścia życie ustawy składowisko przyjmujące do składowania wyłącznie odpady wydobywcze staje się obiektem unieszkodliwiania wydobywczych wrozumieniu niniejszej ustawy.
 
-2. Funkcjonujàcy lub zamkni´ty obiekt, na którym przed dniem wejÊcia w˝ycie ustawy by∏y sk∏adowane wy∏àcznie odpady wydobywcze, staje si´ obiektem unieszkodliwiania wydobywczych rozumieniu niniejszej ustawy.
+2. Funkcjonujący lub zamknięty obiekt, na którym przed dniem wejścia wżycie ustawy były składowane wyłącznie odpady wydobywcze, staje się obiektem unieszkodliwiania wydobywczych rozumieniu niniejszej ustawy.
 
 **Art. 58.**
 
-1. Dotychczas wydane pozwolenia na wytwarzanie odpadów, pozwolenia zintegrowane i zezwolenia zakresie gospodarowania odpadami wydobywczymi dla istniejàcych obiektów, zachowujà wa˝noÊç na czas na jaki zosta∏y wydane, jednak nie d∏u˝ej ni˝ do dnia 1 maja 2012 r.; do tego dnia posiadacz wydobywczych prowadzàcy obiekt unieszkodliwiania wydobywczych jest obowiàzany do uzyskania zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych.
+1. Dotychczas wydane pozwolenia na wytwarzanie odpadów, pozwolenia zintegrowane i zezwolenia zakresie gospodarowania odpadami wydobywczymi dla istniejących obiektów, zachowują ważność na czas na jaki zostały wydane, jednak nie dłużej niż do dnia 1 maja 2012 r.; do tego dnia posiadacz wydobywczych prowadzący obiekt unieszkodliwiania wydobywczych jest obowiązany do uzyskania zezwolenia na prowadzenie obiektu unieszkodliwiania wydobywczych.
 
-2. Je˝eli posiadacz prowadzàcy obiekt unieszkodliwiania wydobywczych do dnia 1 maja 2014r. nie przedstawi w∏aÊciwemu organowi dokumentu potwierdzajàcego posiadanie gwarancji finansowej lub jej ekwiwalentu uzyskane zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych wygasa.
+2. Jeżeli posiadacz prowadzący obiekt unieszkodliwiania wydobywczych do dnia 1 maja 2014r. nie przedstawi właściwemu organowi dokumentu potwierdzającego posiadanie gwarancji finansowej lub jej ekwiwalentu uzyskane zezwolenie na prowadzenie obiektu unieszkodliwiania wydobywczych wygasa.
 
-3. Z dniem 1 maja 2012 r. wygasajà koncesje na wydobycie kopalin ze z∏ó˝ oraz plany zagospodarowania przestrzennego dla terenu górniczego, cz´Êci okreÊlajàcej warunki oraz sposób zagospodarowania mas ziemnych lub skalnych usuwanych zwiàzku zwydobywaniem kopalin ze z∏ó˝ wraz zich przerabianiem.
+3. Z dniem 1 maja 2012 r. wygasają koncesje na wydobycie kopalin ze złóż oraz plany zagospodarowania przestrzennego dla terenu górniczego, części określającej warunki oraz sposób zagospodarowania mas ziemnych lub skalnych usuwanych związku zwydobywaniem kopalin ze złóż wraz zich przerabianiem.
 
-4. Do dnia 1 maja 2012 r. do wydobywczych oboj´tnych, innych ni˝ niebezpieczne i oboj´tne oraz niezanieczyszczonej gleby nie stosuje si´ przepisów Tytu∏u V ustawy z dnia 27 kwietnia czych do stawu osadowego nie przekracza:
+4. Do dnia 1 maja 2012 r. do wydobywczych obojętnych, innych niż niebezpieczne i obojętne oraz niezanieczyszczonej gleby nie stosuje się przepisów Tytułu V ustawy z dnia 27 kwietnia czych do stawu osadowego nie przekracza:
 
-- **1)** 50 ppm od dnia wejÊcia ˝ycie ustawy;
-- **2)** 25 ppm od dnia 1 maja 2013 r.; 2001 r. Prawo ochrony Êrodowiska.
+- **1)** 50 ppm od dnia wejścia życie ustawy;
+- **2)** 25 ppm od dnia 1 maja 2013 r.; 2001 r. Prawo ochrony środowiska.
 
 **Art. 59.**
 
-1. Zarzàdzajàcy sk∏adowiskiem przyjmujàcym odpady wydobywcze do sk∏adowania, który: przed dniem wejÊcia ˝ycie ustawy,
+1. Zarządzający składowiskiem przyjmującym odpady wydobywcze do składowania, który: przed dniem wejścia życie ustawy,
 
-- **3)** nie dostosuje do dnia 31 grudnia 2009r. funkcjonowania sk∏adowiska do wymagaƒ okreÊlonych wpozwoleniu na budow´ lub jego zmianie, o którym mowa art. 33 ust. 4 ustawy z dnia 27lipca 2001 r. o wprowadzeniu ustawy Prawo ochrony Êrodowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz. U. 100, poz.1085, zpóên. zm. ),
-- **4)** ma wyznaczony termin zamkni´cia sk∏adowiska do dnia 31 grudnia 2010 r.,
-- **5)** zosta∏ uwzgl´dniony harmonogramie zamykania sk∏adowisk zgodnie z rzàdowymi programami restrukturyzacji przemys∏u wydobywczego nie stosuje przepisów art. 8—11, art. 13—20, art.27 ust. 2, art. 30, art. 31 ust. 1—3 i 7, art. 32, art. 35, art.36 ust. 2—6 iart. 37. pisemne oÊwiadczenie o stanie faktycznym sk∏adowiska którym zarzàdza, z podaniem przes∏anek, o których mowa ust. 1, terminie 14 dni od dnia wejÊcia ˝ycie ustawy.
+- **3)** nie dostosuje do dnia 31 grudnia 2009r. funkcjonowania składowiska do wymagań określonych wpozwoleniu na budowę lub jego zmianie, o którym mowa art. 33 ust. 4 ustawy z dnia 27lipca 2001 r. o wprowadzeniu ustawy Prawo ochrony środowiska, ustawy o odpadach oraz o zmianie niektórych ustaw (Dz. U. 100, poz.1085, zpóên. zm. ),
+- **4)** ma wyznaczony termin zamknięcia składowiska do dnia 31 grudnia 2010 r.,
+- **5)** został uwzględniony harmonogramie zamykania składowisk zgodnie z rządowymi programami restrukturyzacji przemysłu wydobywczego nie stosuje przepisów art. 8—11, art. 13—20, art.27 ust. 2, art. 30, art. 31 ust. 1—3 i 7, art. 32, art. 35, art.36 ust. 2—6 iart. 37. pisemne oświadczenie o stanie faktycznym składowiska którym zarządza, z podaniem przesłanek, o których mowa ust. 1, terminie 14 dni od dnia wejścia życie ustawy.
 
-3. Marsza∏ek województwa, na podstawie oÊwiadczeƒ, októrych mowa wust. 2, sporzàdza list´ sk∏adowisk odpadów, wraz zpodaniem przes∏anek, októrych mowa ust. 1; lista zostanie przekazana ministrowi w∏aÊciwemu do spraw Êrodowiska terminie 30 dni od dnia wejÊcia ˝ycie ustawy.
+3. Marszałek województwa, na podstawie oświadczeń, októrych mowa wust. 2, sporządza listę składowisk odpadów, wraz zpodaniem przesłanek, októrych mowa ust. 1; lista zostanie przekazana ministrowi właściwemu do spraw środowiska terminie 30 dni od dnia wejścia życie ustawy.
 
 **Art. 60.**
 
-1. Spis, októrym mowa wart. 44 ust. 1, jest przekazywany do G∏ównego Inspektora Ochrony Ârodowiska po raz pierwszy do dnia 31 stycznia 2012r.
+1. Spis, októrym mowa wart. 44 ust. 1, jest przekazywany do Głównego Inspektora Ochrony Ârodowiska po raz pierwszy do dnia 31 stycznia 2012r.
 
-2. Spis, o którym mowa art. 44 ust. 3, publikuje si´ po raz pierwszy Biuletynie Informacji Publicznej, na stronie podmiotowej organu, do dnia 1 maja 2012r.
+2. Spis, o którym mowa art. 44 ust. 3, publikuje się po raz pierwszy Biuletynie Informacji Publicznej, na stronie podmiotowej organu, do dnia 1 maja 2012r.
 
-**Art. 61.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem art. 2 ust. 1 pkt 4, ——————— art.26 ust. 3 oraz art. 51, które wchodzà w˝ycie zdniem 1 maja 2012 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski W celu wprowadzenia systemu zarzàdzania bez- d) przyj´cie i wprowadzanie ˝ycie procedur dopieczeƒstwem wdra˝ajàcego polityk´ zapobiegania tyczàcych planowanych zmian lub tworzenia powa˝nym wypadkom nale˝y wziàç pod uwag´ nast´- nowych obiektów unieszkodliwiania pujàce elementy: wydobywczych,
+**Art. 61.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 ust. 1 pkt 4, ——————— art.26 ust. 3 oraz art. 51, które wchodzą wżycie zdniem 1 maja 2012 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński W celu wprowadzenia systemu zarządzania bez- d) przyjęcie i wprowadzanie życie procedur dopieczeństwem wdrażającego politykę zapobiegania tyczących planowanych zmian lub tworzenia poważnym wypadkom należy wziąć pod uwagę nastę- nowych obiektów unieszkodliwiania pujące elementy: wydobywczych,
 

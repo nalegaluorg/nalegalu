@@ -24,11 +24,11 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051691412) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1412/text.pdf) |
 
-**Art. 1.** W ustawie dnia 17 grudnia 1998 r. o emeryturach rentach Funduszu Ubezpieczeƒ Spo∏ecznych (Dz. 2004 r. 39, 353, póên. zm. ) wprowadza nast´pujàce zmiany:
+**Art. 1.** W ustawie dnia 17 grudnia 1998 r. o emeryturach rentach Funduszu Ubezpieczeń Społecznych (Dz. 2004 r. 39, 353, póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 2.** W ustawie dnia 13 paêdziernika 1998 r. o systemie ubezpieczeƒ spo∏ecznych (Dz. 137, 887, póên. zm. ) wprowadza nast´pujàce zmiany:
+**Art. 2.** W ustawie dnia 13 paêdziernika 1998 r. o systemie ubezpieczeń społecznych (Dz. 137, 887, póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 3.** Przepisy 47 2a—2c ustawy wymienionej 2, brzmieniu nadanym niniejszà ustawà, stosuje si´, poczynajàc od deklaracji rozliczeniowych imiennych raportów miesi´cznych sk∏adanych za dziewiàty miesiàc nast´pujàcy po miesiàcu og∏oszenia niniejszej ustawy.
+**Art. 3.** Przepisy 47 2a—2c ustawy wymienionej 2, brzmieniu nadanym niniejszą ustawą, stosuje się, poczynając od deklaracji rozliczeniowych imiennych raportów miesięcznych składanych za dziewiąty miesiąc następujący po miesiącu ogłoszenia niniejszej ustawy.
 
-**Art. 4.** Ustawa wchodzi ˝ycie pierwszego dnia miesiàca nast´pujàcego po up∏ywie miesiàca od dnia og∏oszenia, wyjàtkiem:
+**Art. 4.** Ustawa wchodzi życie pierwszego dnia miesiąca następującego po upływie miesiąca od dnia ogłoszenia, wyjątkiem:
 

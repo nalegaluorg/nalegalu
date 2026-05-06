@@ -24,378 +24,384 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092231778) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1778/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 29 stycznia 2004r. Prawo zamówieƒ publicznych (Dz. U. z 2007 r. 223, poz. 1655, z póên. zm. wy 2004/18/WE Parlamentu Europejskiego iRady zdnia 31 marca 2004r. wspra) wprowadza si´ nast´pujàce wie koordynacji procedur udzielania zazmiany: mówieƒ publicznych na roboty budowla1) wart.2: ne, dostawy i us∏ugi oraz dyrektywy 2004/17/WE Parlamentu Europejskiego
+**Art. 1.** Wustawie zdnia 29 stycznia 2004r. Prawo zamówień publicznych (Dz. U. z 2007 r. 223, poz. 1655, z póên. zm. wy 2004/18/WE Parlamentu Europejskiego iRady zdnia 31 marca 2004r. wspra) wprowadza się następujące wie koordynacji procedur udzielania zazmiany: mówień publicznych na roboty budowla1) wart.2: ne, dostawy i usługi oraz dyrektywy 2004/17/WE Parlamentu Europejskiego
 
 **Art. 154b.**
 
-1. W wykazie wykonawców, o którym mowa art. 154 pkt 5a, zamieszcza si´ nast´pujàce dane:
+1. W wykazie wykonawców, o którym mowa art. 154 pkt 5a, zamieszcza się następujące dane:
 
-- **1)** oznaczenie wykonawcy, obejmujàce:
-    - **a)** odniesieniu do osób fizycznych imi´ inazwisko, numer PESEL oraz miejsce zamieszkania, a je˝eli prowadzi dzia∏alnoÊç gospodarczà tak˝e firm´, adres prowadzenia dzia∏alnoÊci gospodarczej oraz numer wpisu do ewidencji dzia∏alnoÊci gospodarczej,
-    - **b)** odniesieniu do osób prawnych oraz jednostek organizacyjnych nieposiadajàcych osobowoÊci prawnej firm´ oraz siedzib´, a tak˝e numer wpisu do Krajowego Rejestru Sàdowego z tym ˝e przypadku wyrium Rzeczypospolitej Polskiej odpowiednio imi´ i nazwisko, firm´, siedzib´, miejsce prowadzenia dzia∏alnoÊci gospodarczej oraz informacj´ o wpisie do równowa˝nego rejestru prowadzonego na podstawie przepisów prawa paƒstwa jego siedziby albo miejsca zamieszkania;
+- **1)** oznaczenie wykonawcy, obejmujące:
+    - **a)** odniesieniu do osób fizycznych imię inazwisko, numer PESEL oraz miejsce zamieszkania, a jeżeli prowadzi działalność gospodarczą także firmę, adres prowadzenia działalności gospodarczej oraz numer wpisu do ewidencji działalności gospodarczej,
+    - **b)** odniesieniu do osób prawnych oraz jednostek organizacyjnych nieposiadających osobowości prawnej firmę oraz siedzibę, a także numer wpisu do Krajowego Rejestru Sądowego z tym że przypadku wyrium Rzeczypospolitej Polskiej odpowiednio imię i nazwisko, firmę, siedzibę, miejsce prowadzenia działalności gospodarczej oraz informację o wpisie do równoważnego rejestru prowadzonego na podstawie przepisów prawa państwa jego siedziby albo miejsca zamieszkania;
 
-- **2)** wskazanie orzeczenia sàdu stwierdzajàcego wyrzàdzenie szkody przez wykonawc´, obejmujàce dat´ jego wydania, sygnatur´ akt, okreÊlenie sàdu, który je wyda∏, oraz dat´, od której orzeczenie jest prawomocne.
+- **2)** wskazanie orzeczenia sądu stwierdzającego wyrządzenie szkody przez wykonawcę, obejmujące datę jego wydania, sygnaturę akt, określenie sądu, który je wydał, oraz datę, od której orzeczenie jest prawomocne.
 
-2. Podstawà zamieszczenia wpisu wwykazie, o którym mowa art. 154 pkt 5a, jest odpis orzeczenia przes∏any Prezesowi Urz´du na podstawie art.24a.
+2. Podstawą zamieszczenia wpisu wwykazie, o którym mowa art. 154 pkt 5a, jest odpis orzeczenia przesłany Prezesowi Urzędu na podstawie art.24a.
 
-3. Wpis zamieszczony wykazie podlega wykreÊleniu zup∏ywem 3 lat od daty uprawomocnienia si´ orzeczenia sàdu stanowiàcego podstaw´ jego zamieszczenia.”;
+3. Wpis zamieszczony wykazie podlega wykreśleniu zupływem 3 lat od daty uprawomocnienia się orzeczenia sądu stanowiącego podstawę jego zamieszczenia.”;
 
-- **35)** art. 165 ust. 2 dodaje si´ zdanie drugie wbrzmieniu: „W przypadku wszcz´cia tej kontroli przed zawarciem umowy sprawie zamówienia publicznego majà zastosowanie przepisy art.169 ust.3, art.170 ust.2 i4 oraz art.171 ust.1, 3 i5.”;
-- **36)** wart.167 ust.6 otrzymuje brzmienie: „6. Do cz∏onków Krajowej Izby Odwo∏awczej rozpatrujàcych zastrze˝enia przepis art.188 stosuje si´ odpowiednio.”;
-- **37)** wart.168 pkt3 otrzymuje brzmienie: „3) wystàpiç do sàdu o uniewa˝nienie umowy wca∏oÊci lub cz´Êci.”;
-- **38)** wart.170 ust.1 i2 otrzymujà brzmienie: „1. Zamawiajàcy niezw∏ocznie po wydaniu przez Izb´ wyroku lub postanowienia koƒczàcego post´powanie odwo∏awcze, dotyczàcych wyboru najkorzystniejszej oferty, albo po up∏ywie terminu do wniesienia odwo∏ania, a przed zawarciem umowy, przekazuje Prezesowi Urz´du kopie dokumentacji post´powania o udzielenie zamówienia potwierdzone za zgodnoÊç z orygina∏em przez kierownika zamawiajàcego, celu przeprowadzenia kontroli uprzedniej.
+- **35)** art. 165 ust. 2 dodaje się zdanie drugie wbrzmieniu: ŃW przypadku wszczęcia tej kontroli przed zawarciem umowy sprawie zamówienia publicznego mają zastosowanie przepisy art.169 ust.3, art.170 ust.2 i4 oraz art.171 ust.1, 3 i5.”;
+- **36)** wart.167 ust.6 otrzymuje brzmienie: Ń6. Do członków Krajowej Izby Odwoławczej rozpatrujących zastrzeżenia przepis art.188 stosuje się odpowiednio.”;
+- **37)** wart.168 pkt3 otrzymuje brzmienie: Ń3) wystąpić do sądu o unieważnienie umowy wcałości lub części.”;
+- **38)** wart.170 ust.1 i2 otrzymują brzmienie: Ń1. Zamawiający niezwłocznie po wydaniu przez Izbę wyroku lub postanowienia kończącego postępowanie odwoławcze, dotyczących wyboru najkorzystniejszej oferty, albo po upływie terminu do wniesienia odwołania, a przed zawarciem umowy, przekazuje Prezesowi Urzędu kopie dokumentacji postępowania o udzielenie zamówienia potwierdzone za zgodność z oryginałem przez kierownika zamawiającego, celu przeprowadzenia kontroli uprzedniej.
 
-2. Zamawiajàcy niezw∏ocznie informuje Prezesa
+2. Zamawiający niezwłocznie informuje Prezesa
 
 - **39)** wart.172:
-    - **a)** ust.1 otrzymuje brzmienie: „1. Tworzy si´ Krajowà Izb´ Odwo∏awczà, zwanà dalej „Izbà”, w∏aÊciwà do rozpoznawania odwo∏aƒ wnoszonych post´powaniu oudzielenie zamówienia.”,
-    - **b)** po ust.3 dodaje si´ ust.3a wbrzmieniu: „3a. Prezes Izby okreÊli, drodze zarzàdzenia, wewn´trzny regulamin organizacji pracy Izby.”;
+    - **a)** ust.1 otrzymuje brzmienie: Ń1. Tworzy się Krajową Izbę Odwoławczą, zwaną dalej ŃIzbą”, właściwą do rozpoznawania odwołań wnoszonych postępowaniu oudzielenie zamówienia.”,
+    - **b)** po ust.3 dodaje się ust.3a wbrzmieniu: Ń3a. Prezes Izby określi, drodze zarządzenia, wewnętrzny regulamin organizacji pracy Izby.”;
 
-- **40)** dzia∏ VIotrzymuje brzmienie: „Dzia∏ VI Ârodki ochrony prawnej Rozdzia∏ 1 Przepisy wspólne
+- **40)** dział VIotrzymuje brzmienie: ŃDział VI Ârodki ochrony prawnej
+
+#### Rozdział 1 Przepisy wspólne
 
 **Art. 179.**
 
-1. Ârodki ochrony prawnej okreÊlone Urz´du o wniesieniu odwo∏ania lub skargi po przekazaniu dokumentacji do kontroli uprzedniej. Prezes Urz´du wstrzymuje wykonanie kontroli uprzedniej do czasu wydania przez Izb´ wyroku lub postanowienia koƒczàcego wniniejszym dziale przys∏ugujà wykonawcy, uczestnikowi konkursu, atak˝e innemu podmiotowi, je˝eli ma lub mia∏ interes uzyskaniu danego zamówienia oraz poniós∏ lub mo˝e ponieÊç szkod´ wyniku naruszenia przez zamawiajàcego przepisów niniejszej ustawy.
+1. Ârodki ochrony prawnej określone Urzędu o wniesieniu odwołania lub skargi po przekazaniu dokumentacji do kontroli uprzedniej. Prezes Urzędu wstrzymuje wykonanie kontroli uprzedniej do czasu wydania przez Izbę wyroku lub postanowienia kończącego wniniejszym dziale przysługują wykonawcy, uczestnikowi konkursu, atakże innemu podmiotowi, jeżeli ma lub miał interes uzyskaniu danego zamówienia oraz poniósł lub może ponieść szkodę wyniku naruszenia przez zamawiającego przepisów niniejszej ustawy.
 
-2. Ârodki ochrony prawnej wobec og∏oszenia o zamówieniu oraz specyfikacji istotnych warunków zamówienia przys∏ugujà równie˝ organizacjom wpisanym na list´, októrej mowa wart.154 pkt5. Rozdzia∏ 2 Odwo∏anie
+2. Ârodki ochrony prawnej wobec ogłoszenia o zamówieniu oraz specyfikacji istotnych warunków zamówienia przysługują również organizacjom wpisanym na listę, októrej mowa wart.154 pkt5.
+
+#### Rozdział 2 Odwołanie
 
 **Art. 180.**
 
-1. Odwo∏anie przys∏uguje wy∏àcznie od niezgodnej z przepisami ustawy czynnoÊci zamawiajàcego podj´tej post´powaniu o udzielenie zamówienia lub zaniechania czynnoÊci, do której zamawiajàcy jest zobowiàzany na podstawie ustawy.
+1. Odwołanie przysługuje wyłącznie od niezgodnej z przepisami ustawy czynności zamawiającego podjętej postępowaniu o udzielenie zamówienia lub zaniechania czynności, do której zamawiający jest zobowiązany na podstawie ustawy.
 
-2. Je˝eli wartoÊç zamówienia jest mniejsza ni˝ kwoty okreÊlone przepisach wydanych na podstawie art. 11 ust. 8, odwo∏anie przys∏uguje wy∏àcznie wobec czynnoÊci:
+2. Jeżeli wartość zamówienia jest mniejsza niż kwoty określone przepisach wydanych na podstawie art. 11 ust. 8, odwołanie przysługuje wyłącznie wobec czynności:
 
-- **1)** wyboru trybu negocjacji bez og∏oszenia, zamówienia zwolnej r´ki lub zapytania ocen´;
-- **2)** opisu sposobu dokonywania oceny spe∏niania warunków udzia∏u post´powaniu;
-- **3)** wykluczenia odwo∏ujàcego z post´powania oudzielenie zamówienia;
+- **1)** wyboru trybu negocjacji bez ogłoszenia, zamówienia zwolnej ręki lub zapytania ocenę;
+- **2)** opisu sposobu dokonywania oceny spełniania warunków udziału postępowaniu;
+- **3)** wykluczenia odwołującego z postępowania oudzielenie zamówienia;
 
-3. Odwo∏anie powinno wskazywaç czyn- przypadku gdy wartoÊç zamónoÊç lub zaniechanie czynnoÊci zama- wienia jest mniejsza ni˝ kwoty okreÊwiajàcego, której zarzuca si´ niezgod- lone przepisach wydanych na noÊç z przepisami ustawy, zawieraç podstawie art.11 ust.8. zwi´z∏e przedstawienie zarzutów, okreÊ- 2. Odwo∏anie wobec treÊci og∏oszenia laç ˝àdanie oraz wskazywaç okoliczno- o zamówieniu, a je˝eli post´powanie Êci faktyczne i prawne uzasadniajàce jest prowadzone trybie przetargu wniesienie odwo∏ania. nieograniczonego, tak˝e wobec posta4. Odwo∏anie wnosi si´ do Prezesa Izby nowieƒ specyfikacji istotnych warunformie pisemnej albo elektronicznej ków zamówienia, wnosi si´ termiopatrzonej bezpiecznym podpisem nie: elektronicznym weryfikowanym za po- 1) 10 dni od dnia publikacji og∏oszenia mocà wa˝nego kwalifikowanego cer- Dzienniku Urz´dowym Unii Eurotyfikatu. pejskiej lub zamieszczenia specyfi5. Odwo∏ujàcy przesy∏a kopi´ odwo∏ania kacji istotnych warunków zamówiezamawiajàcemu przed up∏ywem ter- nia na stronie internetowej je˝eli minu do wniesienia odwo∏ania taki wartoÊç zamówienia jest równa lub sposób, aby móg∏ on zapoznaç si´ zje- przekracza kwoty okreÊlone przego treÊcià przed up∏ywem tego termi- pisach wydanych na podstawie nu. Domniemywa si´, i˝ zamawiajàcy art.11 ust.8; móg∏ zapoznaç si´ ztreÊcià odwo∏ania 2) 5 dni od dnia zamieszczenia og∏oprzed up∏ywem terminu do jego wnie- szenia Biuletynie Zamówieƒ sienia, je˝eli przes∏anie jego kopii na- Publicznych lub specyfikacji istotstàpi∏o przed up∏ywem terminu do je- nych warunków zamówienia na go wniesienia za pomocà jednego ze stronie internetowej je˝eli warsposobów okreÊlonych wart.27 ust.2. toÊç zamówienia jest mniejsza ni˝
+3. Odwołanie powinno wskazywać czyn- przypadku gdy wartość zamóność lub zaniechanie czynności zama- wienia jest mniejsza niż kwoty okreświającego, której zarzuca się niezgod- lone przepisach wydanych na ność z przepisami ustawy, zawierać podstawie art.11 ust.8. zwięzłe przedstawienie zarzutów, okreś- 2. Odwołanie wobec treści ogłoszenia lać żądanie oraz wskazywać okoliczno- o zamówieniu, a jeżeli postępowanie ści faktyczne i prawne uzasadniające jest prowadzone trybie przetargu wniesienie odwołania. nieograniczonego, także wobec posta4. Odwołanie wnosi się do Prezesa Izby nowień specyfikacji istotnych warunformie pisemnej albo elektronicznej ków zamówienia, wnosi się termiopatrzonej bezpiecznym podpisem nie: elektronicznym weryfikowanym za po- 1) 10 dni od dnia publikacji ogłoszenia mocą ważnego kwalifikowanego cer- Dzienniku Urzędowym Unii Eurotyfikatu. pejskiej lub zamieszczenia specyfi5. Odwołujący przesyła kopię odwołania kacji istotnych warunków zamówiezamawiającemu przed upływem ter- nia na stronie internetowej jeżeli minu do wniesienia odwołania taki wartość zamówienia jest równa lub sposób, aby mógł on zapoznać się zje- przekracza kwoty określone przego treścią przed upływem tego termi- pisach wydanych na podstawie nu. Domniemywa się, iż zamawiający art.11 ust.8; mógł zapoznać się ztreścią odwołania 2) 5 dni od dnia zamieszczenia ogłoprzed upływem terminu do jego wnie- szenia Biuletynie Zamówień sienia, jeżeli przesłanie jego kopii na- Publicznych lub specyfikacji istotstąpiło przed upływem terminu do je- nych warunków zamówienia na go wniesienia za pomocą jednego ze stronie internetowej jeżeli warsposobów określonych wart.27 ust.2. tość zamówienia jest mniejsza niż
 
 **Art. 181.**
 
-1. Wykonawca lub uczestnik konkursu kwoty okreÊlone przepisach wymo˝e terminie przewidzianym do danych na podstawie art.11 ust.8. wniesienia odwo∏ania poinformowaç 3. Odwo∏anie wobec czynnoÊci innych zamawiajàcego o niezgodnej z przepi- ni˝ okreÊlone wust.1 i2 wnosi si´: sami ustawy czynnoÊci podj´tej przez niego lub zaniechaniu czynnoÊci, do 1) przypadku zamówieƒ, których której jest on zobowiàzany na podsta- wartoÊç jest równa lub przekracza wie ustawy, na które nie przys∏uguje kwoty okreÊlone przepisach wyodwo∏anie na podstawie art. 180 danych na podstawie art. 11 ust. 8 ust.2. wterminie 10 dni od dnia, wktórym powzi´to lub przy zachowaniu
+1. Wykonawca lub uczestnik konkursu kwoty określone przepisach wymoże terminie przewidzianym do danych na podstawie art.11 ust.8. wniesienia odwołania poinformować 3. Odwołanie wobec czynności innych zamawiającego o niezgodnej z przepi- niż określone wust.1 i2 wnosi się: sami ustawy czynności podjętej przez niego lub zaniechaniu czynności, do 1) przypadku zamówień, których której jest on zobowiązany na podsta- wartość jest równa lub przekracza wie ustawy, na które nie przysługuje kwoty określone przepisach wyodwołanie na podstawie art. 180 danych na podstawie art. 11 ust. 8 ust.2. wterminie 10 dni od dnia, wktórym powzięto lub przy zachowaniu
 
-2. Wprzypadku uznania zasadnoÊci prze- nale˝ytej starannoÊci mo˝na by∏o kazanej informacji zamawiajàcy po- powziàç wiadomoÊç o okolicznowtarza czynnoÊç albo dokonuje czyn- Êciach stanowiàcych podstaw´ jego noÊci zaniechanej, informujàc o tym wniesienia; wykonawców sposób przewidziany wustawie dla tej czynnoÊci. 2) przypadku zamówieƒ, których wartoÊç jest mniejsza ni˝ kwoty
+2. Wprzypadku uznania zasadności prze- należytej staranności można było kazanej informacji zamawiający po- powziąć wiadomość o okolicznowtarza czynność albo dokonuje czyn- ściach stanowiących podstawę jego ności zaniechanej, informując o tym wniesienia; wykonawców sposób przewidziany wustawie dla tej czynności. 2) przypadku zamówień, których wartość jest mniejsza niż kwoty
 
-3. Na czynnoÊci, o których mowa okreÊlone przepisach wydanych ust. 2, nie przys∏uguje odwo∏anie, na podstawie art.11 ust.8 wterzzastrze˝eniem art.180 ust.2. minie 5 dni od dnia, którym poArt. 182. 1. Odwo∏anie wnosi si´:
+3. Na czynności, o których mowa określone przepisach wydanych ust. 2, nie przysługuje odwołanie, na podstawie art.11 ust.8 wterzzastrzeżeniem art.180 ust.2. minie 5 dni od dnia, którym poArt. 182. 1. Odwołanie wnosi się:
 
-- **1)** wterminie 10 dni od dnia przes∏ania informacji o czynnoÊci zamawiajàcego stanowiàcej podstaw´ jego wniesienia je˝eli zosta∏y przes∏ane sposób okreÊlony art. 27 ust. 2, albo terminie 15 dni je˝eli zosta∏y przes∏ane winny sposób przypadku gdy wartoÊç zamówienia jest równa lub przekracza kwoty okreÊlone przepisach wydanych na podstawie art.11 ust.8;
-- **2)** terminie 5 dni od dnia przes∏ania informacji o czynnoÊci zamawiajàcego stanowiàcej podstaw´ jego wniesienia je˝eli zosta∏y przes∏ane sposób okreÊlony art. 27 wzi´to lub przy zachowaniu nale˝ytej starannoÊci mo˝na by∏o powziàç wiadomoÊç o okolicznoÊciach stanowiàcych podstaw´ jego wniesienia.
+- **1)** wterminie 10 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia jeżeli zostały przesłane sposób określony art. 27 ust. 2, albo terminie 15 dni jeżeli zostały przesłane winny sposób przypadku gdy wartość zamówienia jest równa lub przekracza kwoty określone przepisach wydanych na podstawie art.11 ust.8;
+- **2)** terminie 5 dni od dnia przesłania informacji o czynności zamawiającego stanowiącej podstawę jego wniesienia jeżeli zostały przesłane sposób określony art. 27 wzięto lub przy zachowaniu należytej staranności można było powziąć wiadomość o okolicznościach stanowiących podstawę jego wniesienia.
 
-4. Je˝eli zamawiajàcy nie opublikowa∏ og∏oszenia o zamiarze zawarcia umowy lub mimo takiego obowiàzku nie przes∏a∏ wykonawcy zawiadomienia owyborze oferty najkorzystniejszej lub nie zaprosi∏ wykonawcy do z∏o˝enia oferty ramach dynamicznego systemu zakupów lub umowy ramowej, odwo∏anie wnosi si´ nie póêniej ni˝ wterminie:
+4. Jeżeli zamawiający nie opublikował ogłoszenia o zamiarze zawarcia umowy lub mimo takiego obowiązku nie przesłał wykonawcy zawiadomienia owyborze oferty najkorzystniejszej lub nie zaprosił wykonawcy do złożenia oferty ramach dynamicznego systemu zakupów lub umowy ramowej, odwołanie wnosi się nie póêniej niż wterminie:
 
-- **1)** 15 dni od dnia zamieszczenia wBiuletynie Zamówieƒ Publicznych albo og∏oszenia o udzieleniu zamówienia, awprzypadku udzielenia zamówienia wtrybie negocjacji bez og∏oszenia, zamówienia z wolnej r´ki albo zapytania ocen´ og∏oszenia o udzieleniu zamówienia z uzasadnieniem;
-- **2)** 6 miesi´cy od dnia zawarcia umowy, je˝eli zamawiajàcy:
-    - **a)** nie opublikowa∏ Dzienniku Urz´dowym Unii Europejskiej og∏oszenia o udzieleniu zamówienia; albo
-    - **b)** opublikowa∏ wDzienniku Urz´dowym Unii Europejskiej og∏oszenie oudzieleniu zamówienia, które nie zawiera uzasadnienia udzielenia zamówienia trybie negocjacji bez og∏oszenia albo zamówienia zwolnej r´ki;
+- **1)** 15 dni od dnia zamieszczenia wBiuletynie Zamówień Publicznych albo ogłoszenia o udzieleniu zamówienia, awprzypadku udzielenia zamówienia wtrybie negocjacji bez ogłoszenia, zamówienia z wolnej ręki albo zapytania ocenę ogłoszenia o udzieleniu zamówienia z uzasadnieniem;
+- **2)** 6 miesięcy od dnia zawarcia umowy, jeżeli zamawiający:
+    - **a)** nie opublikował Dzienniku Urzędowym Unii Europejskiej ogłoszenia o udzieleniu zamówienia; albo
+    - **b)** opublikował wDzienniku Urzędowym Unii Europejskiej ogłoszenie oudzieleniu zamówienia, które nie zawiera uzasadnienia udzielenia zamówienia trybie negocjacji bez ogłoszenia albo zamówienia zwolnej ręki;
 
-- **3)** 1 miesiàca od dnia zawarcia umowy, je˝eli zamawiajàcy:
-    - **a)** nie zamieÊci∏ Biuletynie Zamówieƒ Publicznych og∏oszenia oudzieleniu zamówienia; albo
-    - **b)** zamieÊci∏ wBiuletynie Zamówieƒ Publicznych og∏oszenie oudzieleniu zamówienia, które nie zawiera uzasadnienia udzielenia zamówienia trybie negocjacji bez og∏oszenia, zamówienia z wolnej r´ki albo zapytania ocen´.
+- **3)** 1 miesiąca od dnia zawarcia umowy, jeżeli zamawiający:
+    - **a)** nie zamieścił Biuletynie Zamówień Publicznych ogłoszenia oudzieleniu zamówienia; albo
+    - **b)** zamieścił wBiuletynie Zamówień Publicznych ogłoszenie oudzieleniu zamówienia, które nie zawiera uzasadnienia udzielenia zamówienia trybie negocjacji bez ogłoszenia, zamówienia z wolnej ręki albo zapytania ocenę.
 
-5. W przypadku wniesienia odwo∏ania wobec treÊci og∏oszenia ozamówieniu lub postanowieƒ specyfikacji istotnych warunków zamówienia zamawiajàcy mo˝e przed∏u˝yç termin sk∏adania ofert lub termin sk∏adania wniosków.
+5. W przypadku wniesienia odwołania wobec treści ogłoszenia ozamówieniu lub postanowień specyfikacji istotnych warunków zamówienia zamawiający może przedłużyć termin składania ofert lub termin składania wniosków.
 
-6. Wprzypadku wniesienia odwo∏ania po up∏ywie terminu sk∏adania ofert bieg terminu zwiàzania ofertà ulega zawieszeniu do czasu og∏oszenia przez Izb´ orzeczenia.
+6. Wprzypadku wniesienia odwołania po upływie terminu składania ofert bieg terminu związania ofertą ulega zawieszeniu do czasu ogłoszenia przez Izbę orzeczenia.
 
 **Art. 183.**
 
-1. W przypadku wniesienia odwo∏ania zamawiajàcy nie mo˝e zawrzeç umowy do czasu og∏oszenia przez Izb´ wyroku lub postanowienia koƒczàcego post´powanie odwo∏awcze, zwanych dalej „orzeczeniem”.
+1. W przypadku wniesienia odwołania zamawiający nie może zawrzeć umowy do czasu ogłoszenia przez Izbę wyroku lub postanowienia kończącego postępowanie odwoławcze, zwanych dalej Ńorzeczeniem”.
 
-2. Zamawiajàcy mo˝e z∏o˝yç do Izby wniosek o uchylenie zakazu zawarcia umowy, októrym mowa wust.1. Izba mo˝e uchyliç zakaz zawarcia umowy, je˝eli niezawarcie umowy mog∏oby spowodowaç negatywne skutki dla interesu publicznego przewy˝szajàce korzyÊci zwiàzane zkoniecznoÊcià ochrony wszystkich interesów, odniesieniu do których zachodzi prawdopodobieƒstwo doznania uszczerbku wyniku czynnoÊci podj´tych przez zama3. Rozpoznania wniosku, októrym mowa ust. 2, dokonuje sk∏ad orzekajàcy Izby wyznaczony do rozpoznania odwo∏ania. Przepisy art. 188 ust. 3—7 stosuje si´.
+2. Zamawiający może złożyć do Izby wniosek o uchylenie zakazu zawarcia umowy, októrym mowa wust.1. Izba może uchylić zakaz zawarcia umowy, jeżeli niezawarcie umowy mogłoby spowodować negatywne skutki dla interesu publicznego przewyższające korzyści związane zkoniecznością ochrony wszystkich interesów, odniesieniu do których zachodzi prawdopodobieństwo doznania uszczerbku wyniku czynności podjętych przez zama3. Rozpoznania wniosku, októrym mowa ust. 2, dokonuje skład orzekający Izby wyznaczony do rozpoznania odwołania. Przepisy art. 188 ust. 3—7 stosuje się.
 
-4. W sprawie wniosku, o którym mowa ust. 2, Izba rozstrzyga na posiedzeniu niejawnym, formie postanowienia, nie póêniej ni˝ wterminie 5 dni od dnia jego z∏o˝enia. Na postanowienie Izby nie przys∏uguje skarga.
+4. W sprawie wniosku, o którym mowa ust. 2, Izba rozstrzyga na posiedzeniu niejawnym, formie postanowienia, nie póêniej niż wterminie 5 dni od dnia jego złożenia. Na postanowienie Izby nie przysługuje skarga.
 
-5. Izba umarza, formie postanowienia, post´powanie wszcz´te na skutek z∏o˝enia wniosku, o którym mowa ust. 2, je˝eli jego rozpoznanie sta∏o si´ bezprzedmiotowe, wszczególnoÊci zpowodu:
+5. Izba umarza, formie postanowienia, postępowanie wszczęte na skutek złożenia wniosku, o którym mowa ust. 2, jeżeli jego rozpoznanie stało się bezprzedmiotowe, wszczególności zpowodu:
 
-- **1)** og∏oszenia przez Izb´ orzeczenia przed rozpoznaniem wniosku;
-- **2)** cofni´cia wniosku.
+- **1)** ogłoszenia przez Izbę orzeczenia przed rozpoznaniem wniosku;
+- **2)** cofnięcia wniosku.
 
-6. Wniosek, októrym mowa wust.2, zamawiajàcy mo˝e z∏o˝yç pisemnie, faksem lub drogà elektronicznà.
+6. Wniosek, októrym mowa wust.2, zamawiający może złożyć pisemnie, faksem lub drogą elektroniczną.
 
-**Art. 184.** Zamawiajàcy, nie póêniej ni˝ na 7 dni przed up∏ywem wa˝noÊci wadium, wzywa wykonawców, pod rygorem wykluczenia z post´powania, do przed∏u˝enia wa˝noÊci wadium albo wniesienia nowego wadium na okres niezb´dny do zabezpieczenia post´powania do zawarcia umowy. Je˝eli odwo∏anie wniesiono po wyborze oferty najkorzystniejszej, wezwanie kieruje si´ jedynie do wykonawcy, którego ofert´ wybrano jako najkorzystniejszà.
+**Art. 184.** Zamawiający, nie póêniej niż na 7 dni przed upływem ważności wadium, wzywa wykonawców, pod rygorem wykluczenia z postępowania, do przedłużenia ważności wadium albo wniesienia nowego wadium na okres niezbędny do zabezpieczenia postępowania do zawarcia umowy. Jeżeli odwołanie wniesiono po wyborze oferty najkorzystniejszej, wezwanie kieruje się jedynie do wykonawcy, którego ofertę wybrano jako najkorzystniejszą.
 
 **Art. 185.**
 
-1. Zamawiajàcy przesy∏a niezw∏ocznie, nie póêniej ni˝ terminie 2 dni od dnia otrzymania, kopi´ odwo∏ania innym wykonawcom uczestniczàcym post´powaniu o udzielenie zamówienia, a je˝eli odwo∏anie dotyczy treÊci og∏oszenia o zamówieniu lub postanowieƒ specyfikacji istotnych warunków zamówienia, zamieszcza jà równie˝ na stronie internetowej, na której jest zamieszczone og∏oszenie o zamówieniu lub jest udost´pniana specyfikacja, wzywajàc wykonawców do przystàpienia do post´powania odwo∏awczego.
+1. Zamawiający przesyła niezwłocznie, nie póêniej niż terminie 2 dni od dnia otrzymania, kopię odwołania innym wykonawcom uczestniczącym postępowaniu o udzielenie zamówienia, a jeżeli odwołanie dotyczy treści ogłoszenia o zamówieniu lub postanowień specyfikacji istotnych warunków zamówienia, zamieszcza ją również na stronie internetowej, na której jest zamieszczone ogłoszenie o zamówieniu lub jest udostępniana specyfikacja, wzywając wykonawców do przystąpienia do postępowania odwoławczego.
 
-2. Wykonawca mo˝e zg∏osiç przystàpienie do post´powania odwo∏awczego terminie 3 dni od dnia otrzymania kopii odwo∏ania, wskazujàc stron´, do której przyst´puje, i interes uzyskaniu rozstrzygni´cia na korzyÊç strony, do której przyst´puje. Zg∏oszenie przystàpienia dor´cza si´ Prezesowi Izby formie pisemnej albo elektronicznej opatrzonej bezpiecznym podpisem elektronicznym weryfikowanym za pomocà wa˝nego kwalifikowanego certyfikatu, a jego kopi´ przesy∏a si´ za3. Wykonawcy, którzy przystàpili do post´powania odwo∏awczego, stajà si´ uczestnikami post´powania odwo∏awczego, je˝eli majà interes tym, aby odwo∏anie zosta∏o rozstrzygni´te na korzyÊç jednej ze stron.
+2. Wykonawca może zgłosić przystąpienie do postępowania odwoławczego terminie 3 dni od dnia otrzymania kopii odwołania, wskazując stronę, do której przystępuje, i interes uzyskaniu rozstrzygnięcia na korzyść strony, do której przystępuje. Zgłoszenie przystąpienia doręcza się Prezesowi Izby formie pisemnej albo elektronicznej opatrzonej bezpiecznym podpisem elektronicznym weryfikowanym za pomocą ważnego kwalifikowanego certyfikatu, a jego kopię przesyła się za3. Wykonawcy, którzy przystąpili do postępowania odwoławczego, stają się uczestnikami postępowania odwoławczego, jeżeli mają interes tym, aby odwołanie zostało rozstrzygnięte na korzyść jednej ze stron.
 
-4. Zamawiajàcy lub odwo∏ujàcy mo˝e zg∏osiç opozycj´ przeciw przystàpieniu innego wykonawcy nie póêniej ni˝ do czasu otwarcia rozprawy. Izba uwzgl´dnia opozycj´, je˝eli zg∏aszajàcy opozycj´ uprawdopodobni, ˝e wykonawca nie ma interesu wuzyskaniu rozstrzygni´cia na korzyÊç strony, do której przystàpi∏; przeciwnym razie Izba oddala opozycj´. Postanowienie o uwzgl´dnieniu albo oddaleniu opozycji Izba mo˝e wydaç na posiedzeniu niejawnym. Na postanowienie o uwzgl´dnieniu albo oddaleniu opozycji nie przys∏uguje skarga.
+4. Zamawiający lub odwołujący może zgłosić opozycję przeciw przystąpieniu innego wykonawcy nie póêniej niż do czasu otwarcia rozprawy. Izba uwzględnia opozycję, jeżeli zgłaszający opozycję uprawdopodobni, że wykonawca nie ma interesu wuzyskaniu rozstrzygnięcia na korzyść strony, do której przystąpił; przeciwnym razie Izba oddala opozycję. Postanowienie o uwzględnieniu albo oddaleniu opozycji Izba może wydać na posiedzeniu niejawnym. Na postanowienie o uwzględnieniu albo oddaleniu opozycji nie przysługuje skarga.
 
-5. CzynnoÊci uczestnika post´powania odwo∏awczego nie mogà pozostawaç wsprzecznoÊci zczynnoÊciami ioÊwiadczeniami strony, do której przystàpi∏, z zastrze˝eniem zg∏oszenia sprzeciwu, o którym mowa art. 186 ust. 3, przez uczestnika, który przystàpi∏ do post´powania po stronie zamawiajàcego.
+5. Czynności uczestnika postępowania odwoławczego nie mogą pozostawać wsprzeczności zczynnościami ioświadczeniami strony, do której przystąpił, z zastrzeżeniem zgłoszenia sprzeciwu, o którym mowa art. 186 ust. 3, przez uczestnika, który przystąpił do postępowania po stronie zamawiającego.
 
-6. Odwo∏ujàcy oraz wykonawca wezwany zgodnie zust.1 nie mogà nast´pnie korzystaç ze Êrodków ochrony prawnej wobec czynnoÊci zamawiajàcego wykonanych zgodnie zwyrokiem Izby lub sàdu albo na podstawie art.186 ust.2 i3.
+6. Odwołujący oraz wykonawca wezwany zgodnie zust.1 nie mogą następnie korzystać ze środków ochrony prawnej wobec czynności zamawiającego wykonanych zgodnie zwyrokiem Izby lub sądu albo na podstawie art.186 ust.2 i3.
 
-7. Do post´powania odwo∏awczego stosuje si´ odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego o sàdzie polubownym (arbitra˝owym), je˝eli ustawa nie stanowi inaczej.
+7. Do postępowania odwoławczego stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego o sądzie polubownym (arbitrażowym), jeżeli ustawa nie stanowi inaczej.
 
 **Art. 186.**
 
-1. Zamawiajàcy mo˝e wnieÊç odpowiedê na odwo∏anie. Odpowiedê na odwo∏anie wnosi si´ na piÊmie lub ustnie do protoko∏u.
+1. Zamawiający może wnieść odpowiedê na odwołanie. Odpowiedê na odwołanie wnosi się na piśmie lub ustnie do protokołu.
 
-2. W przypadku uwzgl´dnienia przez zamawiajàcego ca∏oÊci zarzutów przedstawionych odwo∏aniu Izba mo˝e umorzyç post´powanie na posiedzeniu niejawnym bez obecnoÊci stron oraz uczestników post´powania odwo∏awczego, którzy przystàpili do post´powania po stronie wykonawcy, pod warunkiem ˝e post´powaniu odwo∏awczym po stronie zamawiajàcego nie przystàpi∏ terminie ˝aden wykonawca. Wtakim przypadku zamawiajàcy wykonuje, powtarza lub uniewa˝nia czynnoÊci post´powaniu o udzielenie zamówienia zgodnie z ˝àIzba umarza post´powanie, azamawiajàcy wykonuje, powtarza lub uniewa˝nia czynnoÊci wpost´powaniu oudzielenie zamówienia zgodnie z ˝àdaniem zawartym wodwo∏aniu.
+2. W przypadku uwzględnienia przez zamawiającego całości zarzutów przedstawionych odwołaniu Izba może umorzyć postępowanie na posiedzeniu niejawnym bez obecności stron oraz uczestników postępowania odwoławczego, którzy przystąpili do postępowania po stronie wykonawcy, pod warunkiem że postępowaniu odwoławczym po stronie zamawiającego nie przystąpił terminie żaden wykonawca. Wtakim przypadku zamawiający wykonuje, powtarza lub unieważnia czynności postępowaniu o udzielenie zamówienia zgodnie z żąIzba umarza postępowanie, azamawiający wykonuje, powtarza lub unieważnia czynności wpostępowaniu oudzielenie zamówienia zgodnie z żądaniem zawartym wodwołaniu.
 
-4. Je˝eli uczestnik post´powania odwo∏awczego, który przystàpi∏ do post´powania po stronie zamawiajàcego, wniesie sprzeciw wobec uwzgl´dnienia ca∏oÊci zarzutów przedstawionych odwo∏aniu, Izba rozpoznaje odwo∏anie.
+4. Jeżeli uczestnik postępowania odwoławczego, który przystąpił do postępowania po stronie zamawiającego, wniesie sprzeciw wobec uwzględnienia całości zarzutów przedstawionych odwołaniu, Izba rozpoznaje odwołanie.
 
-5. Sprzeciw wnosi si´ na piÊmie lub ustnie do protoko∏u.
+5. Sprzeciw wnosi się na piśmie lub ustnie do protokołu.
 
-6. Koszty post´powania odwo∏awczego:
+6. Koszty postępowania odwoławczego:
 
-- **1)** okolicznoÊciach, o których mowa wust.2, znosi si´ wzajemnie;
-- **2)** okolicznoÊciach, o których mowa wust.3:
-    - **a)** ponosi zamawiajàcy, je˝eli uwzgl´dni∏ ca∏oÊci zarzuty przedstawione odwo∏aniu po otwarciu rozprawy,
-    - **b)** znosi si´ wzajemnie, je˝eli zamawiajàcy uwzgl´dni∏ ca∏oÊci zarzuty przedstawione odwo∏aniu przed otwarciem rozprawy;
+- **1)** okolicznościach, o których mowa wust.2, znosi się wzajemnie;
+- **2)** okolicznościach, o których mowa wust.3:
+    - **a)** ponosi zamawiający, jeżeli uwzględnił całości zarzuty przedstawione odwołaniu po otwarciu rozprawy,
+    - **b)** znosi się wzajemnie, jeżeli zamawiający uwzględnił całości zarzuty przedstawione odwołaniu przed otwarciem rozprawy;
 
-- **3)** okolicznoÊciach, o których mowa wust.4, ponosi:
-    - **a)** odwo∏ujàcy, je˝eli odwo∏anie zosta∏o oddalone przez Izb´,
-    - **b)** wnoszàcy sprzeciw, je˝eli odwo∏anie zosta∏o uwzgl´dnione przez Izb´.
+- **3)** okolicznościach, o których mowa wust.4, ponosi:
+    - **a)** odwołujący, jeżeli odwołanie zostało oddalone przez Izbę,
+    - **b)** wnoszący sprzeciw, jeżeli odwołanie zostało uwzględnione przez Izbę.
 
 **Art. 187.**
 
-1. Odwo∏anie podlega rozpoznaniu, je˝eli:
+1. Odwołanie podlega rozpoznaniu, jeżeli:
 
 - **1)** nie zawiera braków formalnych;
 - **2)** uiszczono wpis.
 
-2. Wpis uiszcza si´ najpóêniej do dnia up∏ywu terminu do wniesienia odwo∏ania, adowód jego uiszczenia do∏àcza si´ do odwo∏ania.
+2. Wpis uiszcza się najpóêniej do dnia upływu terminu do wniesienia odwołania, adowód jego uiszczenia dołącza się do odwołania.
 
-3. Je˝eli odwo∏anie nie mo˝e otrzymaç daniem zawartym wodwo∏aniu.
+3. Jeżeli odwołanie nie może otrzymać daniem zawartym wodwołaniu.
 
-3. Je˝eli uczestnik post´powania odwo∏awczego, który przystàpi∏ do post´powania po stronie zamawiajàcego, nie wniesie sprzeciwu co do uwzgl´dnienia prawid∏owego biegu wskutek niezachowania warunków formalnych, szczególnoÊci, o których mowa art. 180 ust. 3, niez∏o˝enia pe∏nomocnictwa lub nieuiszczenia wpisu, Prezes Izby wzywa odwo∏ujàcego pod rygorem zwrócenia odwo∏ania do poprawienia lub uzupe∏nienia odwo∏ania lub z∏o˝enia dowodu uiszczenia wpisu terminie 3 dni od dnia dor´czenia wezwania. Mylne oznaczenie odwo∏ania lub inne oczywiste niedok∏adnoÊci nie stanowià przeszkody do nadania mu biegu irozpoznania przez Izb´.
+3. Jeżeli uczestnik postępowania odwoławczego, który przystąpił do postępowania po stronie zamawiającego, nie wniesie sprzeciwu co do uwzględnienia prawidłowego biegu wskutek niezachowania warunków formalnych, szczególności, o których mowa art. 180 ust. 3, niezłożenia pełnomocnictwa lub nieuiszczenia wpisu, Prezes Izby wzywa odwołującego pod rygorem zwrócenia odwołania do poprawienia lub uzupełnienia odwołania lub złożenia dowodu uiszczenia wpisu terminie 3 dni od dnia doręczenia wezwania. Mylne oznaczenie odwołania lub inne oczywiste niedokładności nie stanowią przeszkody do nadania mu biegu irozpoznania przez Izbę.
 
-4. Prezes Izby poucza wwezwaniu, októrym mowa wust.3 zdanie pierwsze, ˝e przypadku niepoprawienia, nieuzupe∏nienia lub niedo∏àczenia dowodu
+4. Prezes Izby poucza wwezwaniu, októrym mowa wust.3 zdanie pierwsze, że przypadku niepoprawienia, nieuzupełnienia lub niedołączenia dowodu
 
-5. W przypadku dor´czenia odwo∏ujàcemu wezwania, októrym mowa wust.3 zdanie pierwsze, wczeÊniej ni˝ na 3 dni przed up∏ywem terminu do wniesienia odwo∏ania, odwo∏ujàcy mo˝e uzupe∏niç dowód uiszczenia wpisu najpóêniej do up∏ywu terminu do wniesienia odwo∏ania.
+5. W przypadku doręczenia odwołującemu wezwania, októrym mowa wust.3 zdanie pierwsze, wcześniej niż na 3 dni przed upływem terminu do wniesienia odwołania, odwołujący może uzupełnić dowód uiszczenia wpisu najpóêniej do upływu terminu do wniesienia odwołania.
 
-6. W przypadku nieuiszczenia wpisu terminie, o którym mowa ust. 2, oraz po bezskutecznym up∏ywie terminu, októrym mowa wust.3 i5, Prezes Izby zwraca odwo∏anie formie postanowienia. Odwo∏anie zwrócone nie wywo∏uje ˝adnych skutków, jakie ustawa wià˝e zwniesieniem odwo∏ania do Prezesa Izby. O zwrocie odwo∏ania Prezes Izby informuje zamawiajàcego, przesy∏ajàc odpis postanowienia.
+6. W przypadku nieuiszczenia wpisu terminie, o którym mowa ust. 2, oraz po bezskutecznym upływie terminu, októrym mowa wust.3 i5, Prezes Izby zwraca odwołanie formie postanowienia. Odwołanie zwrócone nie wywołuje żadnych skutków, jakie ustawa wiąże zwniesieniem odwołania do Prezesa Izby. O zwrocie odwołania Prezes Izby informuje zamawiającego, przesyłając odpis postanowienia.
 
-7. Je˝eli niezachowanie warunków formalnych lub niez∏o˝enie pe∏nomocnictwa zostanie stwierdzone przez sk∏ad orzekajàcy Izby, przepisy ust.1—6 stosuje si´, ztym ˝e kompetencje Prezesa Izby przys∏ugujà sk∏adowi orzekajàcemu Izby.
+7. Jeżeli niezachowanie warunków formalnych lub niezłożenie pełnomocnictwa zostanie stwierdzone przez skład orzekający Izby, przepisy ust.1—6 stosuje się, ztym że kompetencje Prezesa Izby przysługują składowi orzekającemu Izby.
 
-8. Odwo∏ujàcy mo˝e cofnàç odwo∏anie do czasu zamkni´cia rozprawy; takim przypadku Izba umarza post´powanie odwo∏awcze. Je˝eli cofni´cie nastàpi∏o przed otwarciem rozprawy, odwo∏ujàcemu zwraca si´ 90 % wpisu.
+8. Odwołujący może cofnąć odwołanie do czasu zamknięcia rozprawy; takim przypadku Izba umarza postępowanie odwoławcze. Jeżeli cofnięcie nastąpiło przed otwarciem rozprawy, odwołującemu zwraca się 90 % wpisu.
 
 **Art. 188.**
 
-1. Odwo∏anie rozpoznaje Izba sk∏adzie jednoosobowym. Prezes Izby mo˝e zarzàdziç rozpoznanie sprawy wsk∏adzie trzyosobowym, je˝eli uzna to za wskazane ze wzgl´du na szczególnà zawi∏oÊç lub precedensowy charakter sprawy. W takim przypadku Prezes Izby wskazuje przewodniczàcego sk∏adu orzekajàcego Izby spoÊród wyznaczonych cz∏onków.
+1. Odwołanie rozpoznaje Izba składzie jednoosobowym. Prezes Izby może zarządzić rozpoznanie sprawy wskładzie trzyosobowym, jeżeli uzna to za wskazane ze względu na szczególną zawiłość lub precedensowy charakter sprawy. W takim przypadku Prezes Izby wskazuje przewodniczącego składu orzekającego Izby spośród wyznaczonych członków.
 
-2. Sk∏ad orzekajàcy Izby, zwany dalej „sk∏adem orzekajàcym”, jest wyznaczany przez Prezesa Izby wed∏ug kolejnoÊci wp∏ywu odwo∏aƒ zalfabetycznej listy cz∏onków Izby, jawnej dla stron post´powania odwo∏awczego. Odst´pstwo od tej kolejnoÊci jest dopuszczalne tylko z powodu choroby cz∏onka Izby lub z innej wa˝nej przyczyny, co nale˝y zaznaczyç zarzàdzeniu o wyznaczeniu posiedzenia sk∏adu orzekajàcego.
+2. Skład orzekający Izby, zwany dalej Ńskładem orzekającym”, jest wyznaczany przez Prezesa Izby według kolejności wpływu odwołań zalfabetycznej listy członków Izby, jawnej dla stron postępowania odwoławczego. Odstępstwo od tej kolejności jest dopuszczalne tylko z powodu choroby członka Izby lub z innej ważnej przyczyny, co należy zaznaczyć zarządzeniu o wyznaczeniu posiedzenia składu orzekającego.
 
-3. Zmiana wyznaczonego sk∏adu orzekajàcego mo˝e nastàpiç jedynie z przyczyn, o których mowa ust. 2 zdanie drugie.
+3. Zmiana wyznaczonego składu orzekającego może nastąpić jedynie z przyczyn, o których mowa ust. 2 zdanie drugie.
 
-4. Cz∏onek sk∏adu orzekajàcego zawiadamia pisemnie Prezesa Izby o okolicz5. Cz∏onek sk∏adu orzekajàcego lub strona zawiadamia pisemnie Prezesa Izby o okolicznoÊciach uzasadniajàcych wy∏àczenie wyznaczonego cz∏onka, wszczególnoÊci gdy zachodzà okolicznoÊci faktyczne lub prawne, które mogà budziç uzasadnione wàtpliwoÊci co do jego bezstronnoÊci. O wy∏àczeniu cz∏onka Izby albo odmowie jego wy∏àczenia rozstrzyga Prezes Izby wdrodze postanowienia, na które nie przys∏uguje za˝alenie.
+4. Członek składu orzekającego zawiadamia pisemnie Prezesa Izby o okolicz5. Członek składu orzekającego lub strona zawiadamia pisemnie Prezesa Izby o okolicznościach uzasadniających wyłączenie wyznaczonego członka, wszczególności gdy zachodzą okoliczności faktyczne lub prawne, które mogą budzić uzasadnione wątpliwości co do jego bezstronności. O wyłączeniu członka Izby albo odmowie jego wyłączenia rozstrzyga Prezes Izby wdrodze postanowienia, na które nie przysługuje zażalenie.
 
-6. Je˝eli okolicznoÊci, o których mowa ust. 5, dotyczà Prezesa Izby, o jego wy∏àczeniu albo odmowie wy∏àczenia rozstrzyga Prezes Rady Ministrów.
+6. Jeżeli okoliczności, o których mowa ust. 5, dotyczą Prezesa Izby, o jego wyłączeniu albo odmowie wyłączenia rozstrzyga Prezes Rady Ministrów.
 
-7. W przypadkach, o których mowa ust. 5 i 6, Prezes Izby wyznacza do sk∏adu orzekajàcego innego cz∏onka Izby wed∏ug kolejnoÊci z alfabetycznej listy cz∏onków Izby.
+7. W przypadkach, o których mowa ust. 5 i 6, Prezes Izby wyznacza do składu orzekającego innego członka Izby według kolejności z alfabetycznej listy członków Izby.
 
 **Art. 189.**
 
-1. Izba rozpoznaje odwo∏anie terminie 15 dni od dnia jego dor´czenia Prezesowi Izby. Prezes Izby mo˝e zarzàdziç ∏àczne rozpoznanie odwo∏aƒ przez Izb´, je˝eli zosta∏y one z∏o˝one tym samym post´powaniu oudzielenie zamówienia lub dotyczà takich samych czynnoÊci zamawiajàcego.
+1. Izba rozpoznaje odwołanie terminie 15 dni od dnia jego doręczenia Prezesowi Izby. Prezes Izby może zarządzić łączne rozpoznanie odwołań przez Izbę, jeżeli zostały one złożone tym samym postępowaniu oudzielenie zamówienia lub dotyczą takich samych czynności zamawiającego.
 
-2. Izba odrzuca odwo∏anie, je˝eli stwierdzi, ˝e:
+2. Izba odrzuca odwołanie, jeżeli stwierdzi, że:
 
-- **1)** sprawie nie majà zastosowania przepisy ustawy;
-- **2)** odwo∏anie zosta∏o wniesione przez podmiot nieuprawniony;
-- **3)** odwo∏anie zosta∏o wniesione po up∏ywie terminu okreÊlonego wustawie;
-- **4)** odwo∏ujàcy powo∏uje si´ wy∏àcznie na te same okolicznoÊci, które by∏y przedmiotem rozstrzygni´cia przez Izb´ sprawie innego odwo∏ania dotyczàcego tego samego post´powania wniesionego przez tego samego odwo∏ujàcego si´;
-- **5)** odwo∏anie dotyczy czynnoÊci, którà zamawiajàcy wykona∏ zgodnie ztreÊcià wyroku Izby lub sàdu lub, przypadku uwzgl´dnienia zarzutów odwo∏aniu, którà wykona∏ zgodnie z˝àdaniem zawartym wodwo∏aniu;
-- **6)** post´powaniu o wartoÊci zamówienia mniejszej ni˝ kwoty okreÊlone przepisach wydanych na podstawie art. 11 ust. 8, odwo∏anie dotyczy innych czynnoÊci ni˝ okreÊlone wart.180 ust.2;
-- **7)** odwo∏ujàcy nie przes∏a∏ zamawiajà3. Izba mo˝e odrzuciç odwo∏anie na posiedzeniu niejawnym. Izba, je˝eli uzna to za konieczne, mo˝e dopuÊciç do udzia∏u posiedzeniu strony, Êwiadków lub bieg∏ych.
+- **1)** sprawie nie mają zastosowania przepisy ustawy;
+- **2)** odwołanie zostało wniesione przez podmiot nieuprawniony;
+- **3)** odwołanie zostało wniesione po upływie terminu określonego wustawie;
+- **4)** odwołujący powołuje się wyłącznie na te same okoliczności, które były przedmiotem rozstrzygnięcia przez Izbę sprawie innego odwołania dotyczącego tego samego postępowania wniesionego przez tego samego odwołującego się;
+- **5)** odwołanie dotyczy czynności, którą zamawiający wykonał zgodnie ztreścią wyroku Izby lub sądu lub, przypadku uwzględnienia zarzutów odwołaniu, którą wykonał zgodnie zżądaniem zawartym wodwołaniu;
+- **6)** postępowaniu o wartości zamówienia mniejszej niż kwoty określone przepisach wydanych na podstawie art. 11 ust. 8, odwołanie dotyczy innych czynności niż określone wart.180 ust.2;
+- **7)** odwołujący nie przesłał zamawiają3. Izba może odrzucić odwołanie na posiedzeniu niejawnym. Izba, jeżeli uzna to za konieczne, może dopuścić do udziału posiedzeniu strony, świadków lub biegłych.
 
-4. W przypadku stwierdzenia, ˝e nie zachodzà podstawy do odrzucenia odwo∏ania, Izba kieruje spraw´ na rozpraw´.
+4. W przypadku stwierdzenia, że nie zachodzą podstawy do odrzucenia odwołania, Izba kieruje sprawę na rozprawę.
 
-5. Izba rozpoznaje odwo∏anie na jawnej rozprawie.
+5. Izba rozpoznaje odwołanie na jawnej rozprawie.
 
-6. Izba na wniosek strony lub z urz´du wy∏àcza jawnoÊç rozprawy ca∏oÊci lub wcz´Êci, je˝eli przy rozpoznawaniu odwo∏ania mo˝e byç ujawniona informacja stanowiàca tajemnic´ ustawowo chronionà. Rozprawa odbywa si´ wówczas wy∏àcznie z udzia∏em stron lub ich pe∏nomocników.
+6. Izba na wniosek strony lub z urzędu wyłącza jawność rozprawy całości lub wczęści, jeżeli przy rozpoznawaniu odwołania może być ujawniona informacja stanowiąca tajemnicę ustawowo chronioną. Rozprawa odbywa się wówczas wyłącznie z udziałem stron lub ich pełnomocników.
 
 **Art. 190.**
 
-1. Strony i uczestnicy post´powania odwo∏awczego sà obowiàzani wskazywaç dowody dla stwierdzenia faktów, zktórych wywodzà skutki prawne. Dowody na poparcie swoich twierdzeƒ lub odparcie twierdzeƒ strony przeciwnej strony i uczestnicy post´powania odwo∏awczego mogà przedstawiaç a˝ do zamkni´cia rozprawy.
+1. Strony i uczestnicy postępowania odwoławczego są obowiązani wskazywać dowody dla stwierdzenia faktów, zktórych wywodzą skutki prawne. Dowody na poparcie swoich twierdzeń lub odparcie twierdzeń strony przeciwnej strony i uczestnicy postępowania odwoławczego mogą przedstawiać aż do zamknięcia rozprawy.
 
-2. Izba mo˝e dopuÊciç dowód niewskazany przez stron´.
+2. Izba może dopuścić dowód niewskazany przez stronę.
 
-3. Dowodami sà szczególnoÊci dokumenty, zeznania Êwiadków, opinie bieg∏ych oraz przes∏uchanie stron.
+3. Dowodami są szczególności dokumenty, zeznania świadków, opinie biegłych oraz przesłuchanie stron.
 
-4. Izba mo˝e powo∏aç bieg∏ego spoÊród osób wpisanych na list´ bieg∏ych sàdowych prowadzonà przez prezesa w∏aÊciwego sàdu okr´gowego, je˝eli ustalenie stanu faktycznego sprawy wymaga wiadomoÊci specjalnych. Bieg∏emu przys∏uguje wynagrodzenie wysokoÊci ustalonej zgodnie z przepisami o nale˝noÊciach Êwiadków, bieg∏ych istron wpost´powaniu sàdowym.
+4. Izba może powołać biegłego spośród osób wpisanych na listę biegłych sądowych prowadzoną przez prezesa właściwego sądu okręgowego, jeżeli ustalenie stanu faktycznego sprawy wymaga wiadomości specjalnych. Biegłemu przysługuje wynagrodzenie wysokości ustalonej zgodnie z przepisami o należnościach świadków, biegłych istron wpostępowaniu sądowym.
 
-5. Fakty powszechnie znane oraz fakty znane zurz´du nie wymagajà dowodu. Nie wymagajà te˝ dowodu fakty przyznane wtoku post´powania przez stron´ przeciwnà, je˝eli Izba uzna, ˝e przyznanie nie budzi wàtpliwoÊci co do zgodnoÊci z rzeczywistym stanem rzeczy.
+5. Fakty powszechnie znane oraz fakty znane zurzędu nie wymagają dowodu. Nie wymagają też dowodu fakty przyznane wtoku postępowania przez stronę przeciwną, jeżeli Izba uzna, że przyznanie nie budzi wątpliwości co do zgodności z rzeczywistym stanem rzeczy.
 
-6. Izba odmawia przeprowadzenia wnioskowanych dowodów, je˝eli fakty b´dàce ich przedmiotem zosta∏y ju˝ stwierdzone innymi dowodami lub gdy zosta∏y powo∏ane jedynie dla zw∏oki.
+6. Izba odmawia przeprowadzenia wnioskowanych dowodów, jeżeli fakty będące ich przedmiotem zostały już stwierdzone innymi dowodami lub gdy zostały powołane jedynie dla zwłoki.
 
-7. Izba ocenia wiarygodnoÊç i moc dowodów wed∏ug w∏asnego przekona8. W przypadku zawarcia umowy Izba mo˝e przeprowadziç post´powanie wyjaÊniajàce celu ustalenia przes∏anek uniewa˝nienia umowy, na∏o˝enia kary finansowej albo skrócenia okresu obowiàzywania umowy.
+7. Izba ocenia wiarygodność i moc dowodów według własnego przekona8. W przypadku zawarcia umowy Izba może przeprowadzić postępowanie wyjaśniające celu ustalenia przesłanek unieważnienia umowy, nałożenia kary finansowej albo skrócenia okresu obowiązywania umowy.
 
 **Art. 191.**
 
-1. Przewodniczàcy sk∏adu orzekajàcego zamyka rozpraw´ po przeprowadzeniu dowodów i udzieleniu g∏osu stronom, a tak˝e je˝eli Izba uzna, ˝e sprawa zosta∏a dostatecznie wyjaÊniona.
+1. Przewodniczący składu orzekającego zamyka rozprawę po przeprowadzeniu dowodów i udzieleniu głosu stronom, a także jeżeli Izba uzna, że sprawa została dostatecznie wyjaśniona.
 
-2. Wydajàc wyrok, Izba bierze za podstaw´ stan rzeczy ustalony toku post´powania.
+2. Wydając wyrok, Izba bierze za podstawę stan rzeczy ustalony toku postępowania.
 
-3. Izba otwiera na nowo zamkni´tà rozpraw´, je˝eli po jej zamkni´ciu ujawniono okolicznoÊci istotne dla rozstrzygni´cia odwo∏ania.
+3. Izba otwiera na nowo zamkniętą rozprawę, jeżeli po jej zamknięciu ujawniono okoliczności istotne dla rozstrzygnięcia odwołania.
 
-4. Wyrok mo˝e byç wydany jedynie przez sk∏ad orzekajàcy, przed którym toczy∏o si´ post´powanie odwo∏awcze.
+4. Wyrok może być wydany jedynie przez skład orzekający, przed którym toczyło się postępowanie odwoławcze.
 
 **Art. 192.**
 
-1. O oddaleniu odwo∏ania lub jego uwzgl´dnieniu Izba orzeka wyroku. W pozosta∏ych przypadkach Izba wydaje postanowienie.
+1. O oddaleniu odwołania lub jego uwzględnieniu Izba orzeka wyroku. W pozostałych przypadkach Izba wydaje postanowienie.
 
-2. Izba uwzgl´dnia odwo∏anie, je˝eli stwierdzi naruszenie przepisów ustawy, które mia∏o wp∏yw lub mo˝e mieç istotny wp∏yw na wynik post´powania oudzielenie zamówienia.
+2. Izba uwzględnia odwołanie, jeżeli stwierdzi naruszenie przepisów ustawy, które miało wpływ lub może mieć istotny wpływ na wynik postępowania oudzielenie zamówienia.
 
-3. Uwzgl´dniajàc odwo∏anie, Izba mo˝e:
+3. Uwzględniając odwołanie, Izba może:
 
-- **1)** je˝eli umowa sprawie zamówienia publicznego nie zosta∏a zawarta nakazaç wykonanie lub powtórzenie czynnoÊci zamawiajàcego lub nakazaç uniewa˝nienie czynnoÊci zamawiajàcego; albo
-- **2)** je˝eli umowa sprawie zamówienia publicznego zosta∏a zawarta oraz zachodzi jedna z przes∏anek, októrych mowa wart.146 ust.1:
-    - **a)** uniewa˝niç umow´; albo
-    - **b)** uniewa˝niç umow´ zakresie zobowiàzaƒ niewykonanych i na∏o˝yç kar´ finansowà uzasadnionych przypadkach, szczególnoÊci gdy nie jest mo˝liwy zwrot Êwiadczeƒ spe∏nionych na podstawie umowy podlegajàcej uniewa˝nieniu; albo
-    - **c)** na∏o˝yç kar´ finansowà albo orzec oskróceniu okresu obowiàzywania umowy przypadku stwierdzenia, ˝e utrzymanie umowy mocy le˝y wa˝nym interesie publicznym; albo
+- **1)** jeżeli umowa sprawie zamówienia publicznego nie została zawarta nakazać wykonanie lub powtórzenie czynności zamawiającego lub nakazać unieważnienie czynności zamawiającego; albo
+- **2)** jeżeli umowa sprawie zamówienia publicznego została zawarta oraz zachodzi jedna z przesłanek, októrych mowa wart.146 ust.1:
+    - **a)** unieważnić umowę; albo
+    - **b)** unieważnić umowę zakresie zobowiązań niewykonanych i nałożyć karę finansową uzasadnionych przypadkach, szczególności gdy nie jest możliwy zwrot świadczeń spełnionych na podstawie umowy podlegającej unieważnieniu; albo
+    - **c)** nałożyć karę finansową albo orzec oskróceniu okresu obowiązywania umowy przypadku stwierdzenia, że utrzymanie umowy mocy leży ważnym interesie publicznym; albo
 
-- **3)** je˝eli umowa sprawie zamówienia publicznego zosta∏a zawarta okolicznoÊciach dopuszczonych
+- **3)** jeżeli umowa sprawie zamówienia publicznego została zawarta okolicznościach dopuszczonych
 
-4. Izba, orzekajàc na podstawie ust. 3 pkt 2, uwzgl´dnia wszystkie istotne okolicznoÊci, tym powag´ naruszenia, zachowanie zamawiajàcego oraz konsekwencje uniewa˝nienia umowy.
+4. Izba, orzekając na podstawie ust. 3 pkt 2, uwzględnia wszystkie istotne okoliczności, tym powagę naruszenia, zachowanie zamawiającego oraz konsekwencje unieważnienia umowy.
 
-5. Wa˝nego interesu publicznego wrozumieniu ust. 3 pkt 2 lit. c nie stanowi interes gospodarczy zwiàzany bezpoÊrednio z zamówieniem, obejmujàcy szczególnoÊci konsekwencje poniesienia kosztów wynikajàcych z: opóênienia wykonaniu zamówienia, wszcz´cia nowego post´powania o udzielenie zamówienia publicznego, udzielenia zamówienia innemu wykonawcy oraz zobowiàzaƒ prawnych zwiàzanych zuniewa˝nieniem umowy. Interes gospodarczy utrzymaniu wa˝noÊci umowy mo˝e byç uznany za wa˝ny interes publiczny wy∏àcznie wprzypadku, gdy uniewa˝nienie umowy spowoduje niewspó∏mierne konsekwencje.
+5. Ważnego interesu publicznego wrozumieniu ust. 3 pkt 2 lit. c nie stanowi interes gospodarczy związany bezpośrednio z zamówieniem, obejmujący szczególności konsekwencje poniesienia kosztów wynikających z: opóênienia wykonaniu zamówienia, wszczęcia nowego postępowania o udzielenie zamówienia publicznego, udzielenia zamówienia innemu wykonawcy oraz zobowiązań prawnych związanych zunieważnieniem umowy. Interes gospodarczy utrzymaniu ważności umowy może być uznany za ważny interes publiczny wyłącznie wprzypadku, gdy unieważnienie umowy spowoduje niewspółmierne konsekwencje.
 
-6. Izba nie mo˝e nakazaç zawarcia umowy.
+6. Izba nie może nakazać zawarcia umowy.
 
-7. Izba nie mo˝e orzekaç co do zarzutów, które nie by∏y zawarte wodwo∏aniu.
+7. Izba nie może orzekać co do zarzutów, które nie były zawarte wodwołaniu.
 
-8. Wprzypadku, októrym mowa wart.189 ust. 1 zdanie drugie, Izba mo˝e wydaç ∏àczne orzeczenie sprawach z∏o˝onych odwo∏aƒ.
+8. Wprzypadku, októrym mowa wart.189 ust. 1 zdanie drugie, Izba może wydać łączne orzeczenie sprawach złożonych odwołań.
 
-9. W wyroku oraz postanowieniu koƒczàcym post´powanie odwo∏awcze Izba rozstrzyga okosztach post´powania odwo∏awczego.
+9. W wyroku oraz postanowieniu kończącym postępowanie odwoławcze Izba rozstrzyga okosztach postępowania odwoławczego.
 
-10. Strony ponoszà koszty post´powania odwo∏awczego stosownie do jego wyniku, zzastrze˝eniem art.186 ust.6.
+10. Strony ponoszą koszty postępowania odwoławczego stosownie do jego wyniku, zzastrzeżeniem art.186 ust.6.
 
-**Art. 193.** Kary finansowe, o których mowa wart.192 ust.3 pkt2 lit. b ic, nak∏ada si´ na zamawiajàcego wwysokoÊci do 10 % wartoÊci wynagrodzenia wykonawcy przewidzianego wzawartej umowie, bioràc pod uwag´ rodzaj izakres naruszenia oraz wartoÊç wynagrodzenia wykonawcy przewidzianego zawartej umowie, za które kara jest orzekana.
+**Art. 193.** Kary finansowe, o których mowa wart.192 ust.3 pkt2 lit. b ic, nakłada się na zamawiającego wwysokości do 10 % wartości wynagrodzenia wykonawcy przewidzianego wzawartej umowie, biorąc pod uwagę rodzaj izakres naruszenia oraz wartość wynagrodzenia wykonawcy przewidzianego zawartej umowie, za które kara jest orzekana.
 
-**Art. 194.** Izba, stwierdzajàc naruszenie przepisu art.94 ust.1 i2 albo art.183 ust.1, które nie by∏o po∏àczone z naruszeniem innego przepisu ustawy, nak∏ada na zamawiajàcego kar´ finansowà wysokoÊci do 5 % wartoÊci wynagrodzenia wykonawcy przewidzianego zawartej umowie, bioràc pod uwag´ wszystkie istotne okolicznoÊci dotyczàce udzielenia zamówienia.
+**Art. 194.** Izba, stwierdzając naruszenie przepisu art.94 ust.1 i2 albo art.183 ust.1, które nie było połączone z naruszeniem innego przepisu ustawy, nakłada na zamawiającego karę finansową wysokości do 5 % wartości wynagrodzenia wykonawcy przewidzianego zawartej umowie, biorąc pod uwagę wszystkie istotne okoliczności dotyczące udzielenia zamówienia.
 
 **Art. 195.**
 
-1. Kar´ finansowà uiszcza si´ terminie 30 dni od dnia uprawomocnienia si´ orzeczenia Izby lub sàdu o na∏o˝eniu
+1. Karę finansową uiszcza się terminie 30 dni od dnia uprawomocnienia się orzeczenia Izby lub sądu o nałożeniu
 
-2. Prezes Izby lub odpowiednio prezes sàdu rozpatrujàcego skarg´ na orzeczenie Izby przesy∏a niezw∏ocznie Prezesowi Urz´du odpis prawomocnego orzeczenia dotyczàcego na∏o˝enia kary finansowej, przypadku orzeczenia sàdu wraz z kopià zaskar˝onego orzeczenia Izby. Prezes Urz´du jest wierzycielem rozumieniu przepisów ustawy o post´powaniu egzekucyjnym wadministracji.
+2. Prezes Izby lub odpowiednio prezes sądu rozpatrującego skargę na orzeczenie Izby przesyła niezwłocznie Prezesowi Urzędu odpis prawomocnego orzeczenia dotyczącego nałożenia kary finansowej, przypadku orzeczenia sądu wraz z kopią zaskarżonego orzeczenia Izby. Prezes Urzędu jest wierzycielem rozumieniu przepisów ustawy o postępowaniu egzekucyjnym wadministracji.
 
-3. Orzeczenie Izby, wydane na podstawie art.192 ust.3 pkt2 lit. b lub c, staje si´ prawomocne odpowiednio z dniem up∏ywu terminu do wniesienia skargi lub z dniem wydania przez sàd wyniku rozpatrzenia skargi na orzeczenie Izby wyroku oddalajàcego skarg´.
+3. Orzeczenie Izby, wydane na podstawie art.192 ust.3 pkt2 lit. b lub c, staje się prawomocne odpowiednio z dniem upływu terminu do wniesienia skargi lub z dniem wydania przez sąd wyniku rozpatrzenia skargi na orzeczenie Izby wyroku oddalającego skargę.
 
-4. Orzeczenie sàdu rozpatrujàcego skarg´ na orzeczenie Izby ona∏o˝eniu kary finansowej jest prawomocne z dniem jego wydania.
+4. Orzeczenie sądu rozpatrującego skargę na orzeczenie Izby onałożeniu kary finansowej jest prawomocne z dniem jego wydania.
 
-5. Wrazie up∏ywu terminu, októrym mowa ust. 1, kara finansowa podlega Êciàgni´ciu trybie przepisów o post´powaniu egzekucyjnym administracji.
+5. Wrazie upływu terminu, októrym mowa ust. 1, kara finansowa podlega ściągnięciu trybie przepisów o postępowaniu egzekucyjnym administracji.
 
-6. Wprzypadku nieterminowego uiszczenia kary finansowej odsetek nie pobiera si´.
+6. Wprzypadku nieterminowego uiszczenia kary finansowej odsetek nie pobiera się.
 
-7. Wp∏ywy z tytu∏u kar finansowych stanowià dochód bud˝etu paƒstwa.
+7. Wpływy z tytułu kar finansowych stanowią dochód budżetu państwa.
 
 **Art. 196.**
 
-1. Izba og∏asza orzeczenie po zamkni´ciu rozprawy na posiedzeniu jawnym oraz podaje ustnie motywy rozstrzygni´cia. NieobecnoÊç stron nie wstrzymuje og∏oszenia orzeczenia.
+1. Izba ogłasza orzeczenie po zamknięciu rozprawy na posiedzeniu jawnym oraz podaje ustnie motywy rozstrzygnięcia. Nieobecność stron nie wstrzymuje ogłoszenia orzeczenia.
 
-2. Wsprawie zawi∏ej Izba mo˝e odroczyç og∏oszenie orzeczenia na czas nie d∏u˝szy ni˝ 5 dni. Wpostanowieniu oodroczeniu og∏oszenia orzeczenia Izba wyznacza termin jego og∏oszenia. Je˝eli og∏oszenie by∏o odroczone, mo˝e go dokonaç przewodniczàcy sk∏adu orzekajàcego albo wyznaczony przez Prezesa Izby cz∏onek sk∏adu orzekajàcego.
+2. Wsprawie zawiłej Izba może odroczyć ogłoszenie orzeczenia na czas nie dłuższy niż 5 dni. Wpostanowieniu oodroczeniu ogłoszenia orzeczenia Izba wyznacza termin jego ogłoszenia. Jeżeli ogłoszenie było odroczone, może go dokonać przewodniczący składu orzekającego albo wyznaczony przez Prezesa Izby członek składu orzekającego.
 
-3. Izba z urz´du sporzàdza uzasadnienie orzeczenia.
+3. Izba z urzędu sporządza uzasadnienie orzeczenia.
 
-4. Uzasadnienie wyroku zawiera wskazanie podstawy faktycznej rozstrzygni´cia, tym ustalenie faktów, które Izba uzna∏a za udowodnione, dowodów, na których si´ opar∏a, i przyczyn, dla których innym dowodom odmówi∏a wiarygodnoÊci i mocy dowodowej, oraz wskazanie podstawy prawnej wyroku zprzytoczeniem przepisów prawa.
+4. Uzasadnienie wyroku zawiera wskazanie podstawy faktycznej rozstrzygnięcia, tym ustalenie faktów, które Izba uznała za udowodnione, dowodów, na których się oparła, i przyczyn, dla których innym dowodom odmówiła wiarygodności i mocy dowodowej, oraz wskazanie podstawy prawnej wyroku zprzytoczeniem przepisów prawa.
 
-5. Odpisy orzeczenia wraz z uzasadnieniem wysy∏a si´ terminie 3 dni od dnia og∏oszenia orzeczenia, aje˝eli nie by∏o og∏oszenia terminie 3 dni od dnia wydania postanowienia, stronom
+5. Odpisy orzeczenia wraz z uzasadnieniem wysyła się terminie 3 dni od dnia ogłoszenia orzeczenia, ajeżeli nie było ogłoszenia terminie 3 dni od dnia wydania postanowienia, stronom
 
-6. Izba mo˝e sprostowaç, drodze postanowienia, b∏´dy pisarskie albo rachunkowe lub inne oczywiste omy∏ki pope∏nione orzeczeniu. W takim przypadku przewodniczàcy sk∏adu orzekajàcego umieszcza na oryginale orzeczenia wzmiank´ o jego sprostowaniu. Prezes Izby dor´cza niezw∏ocznie stronom oraz uczestnikom post´powania odwo∏awczego lub ich pe∏nomocnikom odpisy sprostowanego orzeczenia wraz z odpisem postanowienia osprostowaniu.
+6. Izba może sprostować, drodze postanowienia, błędy pisarskie albo rachunkowe lub inne oczywiste omyłki popełnione orzeczeniu. W takim przypadku przewodniczący składu orzekającego umieszcza na oryginale orzeczenia wzmiankę o jego sprostowaniu. Prezes Izby doręcza niezwłocznie stronom oraz uczestnikom postępowania odwoławczego lub ich pełnomocnikom odpisy sprostowanego orzeczenia wraz z odpisem postanowienia osprostowaniu.
 
 **Art. 197.**
 
-1. Orzeczenie Izby, po stwierdzeniu przez sàd jego wykonalnoÊci, ma moc prawnà na równi z wyrokiem sàdu. Przepis art.781 § 2 ustawy zdnia 17 listopada 1964r. Kodeks post´powania cywilnego stosuje si´ odpowiednio.
+1. Orzeczenie Izby, po stwierdzeniu przez sąd jego wykonalności, ma moc prawną na równi z wyrokiem sądu. Przepis art.781 § 2 ustawy zdnia 17 listopada 1964r. Kodeks postępowania cywilnego stosuje się odpowiednio.
 
-2. O stwierdzeniu wykonalnoÊci orzeczenia Izby sàd orzeka na wniosek strony. Strona jest obowiàzana za∏àczyç do wniosku orygina∏ lub poÊwiadczony przez Prezesa Izby odpis orzeczenia Izby.
+2. O stwierdzeniu wykonalności orzeczenia Izby sąd orzeka na wniosek strony. Strona jest obowiązana załączyć do wniosku oryginał lub poświadczony przez Prezesa Izby odpis orzeczenia Izby.
 
-3. Sàd stwierdza wykonalnoÊç orzeczenia Izby nadajàcego si´ do wykonania drodze egzekucji, nadajàc orzeczeniu klauzul´ wykonalnoÊci.
+3. Sąd stwierdza wykonalność orzeczenia Izby nadającego się do wykonania drodze egzekucji, nadając orzeczeniu klauzulę wykonalności.
 
-**Art. 198.** Prezes Rady Ministrów okreÊli, wdrodze rozporzàdzenia:
+**Art. 198.** Prezes Rady Ministrów określi, wdrodze rozporządzenia:
+
+#### Rozdział 3 Skarga do sądu
 
 **Art. 198a.**
 
-1. Na orzeczenie Izby stronom oraz uczestnikom post´powania odwo∏awczego przys∏uguje skarga do sàdu.
+1. Na orzeczenie Izby stronom oraz uczestnikom postępowania odwoławczego przysługuje skarga do sądu.
 
-2. W post´powaniu toczàcym si´ wskutek wniesienia skargi stosuje si´ odpowiednio przepisy ustawy z dnia 17listopada 1964 r. Kodeks post´powania cywilnego o apelacji, je˝eli
+2. W postępowaniu toczącym się wskutek wniesienia skargi stosuje się odpowiednio przepisy ustawy z dnia 17listopada 1964 r. Kodeks postępowania cywilnego o apelacji, jeżeli
 
 **Art. 198b.**
 
-1. Skarg´ wnosi si´ do sàdu okr´gowego w∏aÊciwego dla siedziby albo miejsca zamieszkania zamawiajàcego.
+1. Skargę wnosi się do sądu okręgowego właściwego dla siedziby albo miejsca zamieszkania zamawiającego.
 
-2. Skarg´ wnosi si´ za poÊrednictwem Prezesa Izby wterminie 7 dni od dnia dor´czenia orzeczenia Izby, przesy∏ajàc jednoczeÊnie jej odpis przeciwnikowi skargi. Z∏o˝enie skargi placówce pocztowej operatora publicznego jest równoznaczne z jej wniesieniem.
+2. Skargę wnosi się za pośrednictwem Prezesa Izby wterminie 7 dni od dnia doręczenia orzeczenia Izby, przesyłając jednocześnie jej odpis przeciwnikowi skargi. Złożenie skargi placówce pocztowej operatora publicznego jest równoznaczne z jej wniesieniem.
 
-3. Prezes Izby przekazuje skarg´ wraz z aktami post´powania odwo∏awczego w∏aÊciwemu sàdowi terminie 7dni od dnia jej otrzymania.
+3. Prezes Izby przekazuje skargę wraz z aktami postępowania odwoławczego właściwemu sądowi terminie 7dni od dnia jej otrzymania.
 
-4. W terminie 21 dni od dnia wydania orzeczenia skarg´ mo˝e wnieÊç tak˝e Prezes Urz´du. Prezes Urz´du mo˝e tak˝e przystàpiç do toczàcego si´ post´powania. Do czynnoÊci podejmowanych przez Prezesa Urz´du stosuje si´ odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego o prokuratorze.
+4. W terminie 21 dni od dnia wydania orzeczenia skargę może wnieść także Prezes Urzędu. Prezes Urzędu może także przystąpić do toczącego się postępowania. Do czynności podejmowanych przez Prezesa Urzędu stosuje się odpowiednio przepisy ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego o prokuratorze.
 
-**Art. 198c.** Skarga powinna czyniç zadoÊç wymaganiom przewidzianym dla pisma procesowego oraz zawieraç oznaczenie zaskar˝onego orzeczenia, przytoczenie zarzutów, zwi´z∏e ich uzasadnienie, wskazanie dowodów, a tak˝e wniosek o uchylenie orzeczenia lub o zmian´ orzeczenia wca∏oÊci lub wcz´Êci.
+**Art. 198c.** Skarga powinna czynić zadość wymaganiom przewidzianym dla pisma procesowego oraz zawierać oznaczenie zaskarżonego orzeczenia, przytoczenie zarzutów, zwięzłe ich uzasadnienie, wskazanie dowodów, a także wniosek o uchylenie orzeczenia lub o zmianę orzeczenia wcałości lub wczęści.
 
-**Art. 198d.** W post´powaniu toczàcym si´ na skutek wniesienia skargi nie mo˝na rozszerzyç ˝àdania odwo∏ania ani wyst´powaç znowymi ˝àdaniami.
+**Art. 198d.** W postępowaniu toczącym się na skutek wniesienia skargi nie można rozszerzyć żądania odwołania ani występować znowymi żądaniami.
 
 **Art. 198e.**
 
-1. Sàd na posiedzeniu niejawnym odrzuca skarg´ wniesionà po up∏ywie terminu lub niedopuszczalnà zinnych przyczyn, jak równie˝ skarg´, której braków strona nie uzupe∏ni∏a terminie.
+1. Sąd na posiedzeniu niejawnym odrzuca skargę wniesioną po upływie terminu lub niedopuszczalną zinnych przyczyn, jak również skargę, której braków strona nie uzupełniła terminie.
 
-2. Je˝eli strona nie dokona∏a wterminie czynnoÊci procesowej nie ze swojej winy, sàd na jej wniosek przywraca termin. Postanowienie tej sprawie mo˝e byç wydane na posiedzeniu niejawnym.
+2. Jeżeli strona nie dokonała wterminie czynności procesowej nie ze swojej winy, sąd na jej wniosek przywraca termin. Postanowienie tej sprawie może być wydane na posiedzeniu niejawnym.
 
-3. Pismo z wnioskiem o przywrócenie terminu wnosi si´ do sàdu terminie 7 dni od dnia ustania przyczyny uchybienia terminowi.
+3. Pismo z wnioskiem o przywrócenie terminu wnosi się do sądu terminie 7 dni od dnia ustania przyczyny uchybienia terminowi.
 
 **Art. 198f.**
 
-1. Sàd rozpoznaje spraw´ niezw∏ocznie, nie póêniej jednak ni˝ terminie 1miesiàca od dnia wp∏ywu skargi do sàdu.
+1. Sąd rozpoznaje sprawę niezwłocznie, nie póêniej jednak niż terminie 1miesiąca od dnia wpływu skargi do sądu.
 
-2. Sàd oddala skarg´ wyrokiem, je˝eli jest ona bezzasadna. W przypadku uwzgl´dnienia skargi sàd zmienia zasta∏ych sprawach wydaje postanowienie. Przepisy art.192—195 stosuje si´ odpowiednio. Przepisu art.386 § 4 ustawy z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego nie stosuje si´.
+2. Sąd oddala skargę wyrokiem, jeżeli jest ona bezzasadna. W przypadku uwzględnienia skargi sąd zmienia zastałych sprawach wydaje postanowienie. Przepisy art.192—195 stosuje się odpowiednio. Przepisu art.386 § 4 ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego nie stosuje się.
 
-3. Je˝eli odwo∏anie zostaje odrzucone albo zachodzi podstawa do umorzenia post´powania, sàd uchyla wyrok lub zmienia postanowienie oraz odrzuca odwo∏anie lub umarza post´powanie.
+3. Jeżeli odwołanie zostaje odrzucone albo zachodzi podstawa do umorzenia postępowania, sąd uchyla wyrok lub zmienia postanowienie oraz odrzuca odwołanie lub umarza postępowanie.
 
-4. Sàd nie mo˝e orzekaç co do zarzutów, które nie by∏y przedmiotem odwo∏ania.
+4. Sąd nie może orzekać co do zarzutów, które nie były przedmiotem odwołania.
 
-5. Strony ponoszà koszty post´powania stosownie do jego wyniku; okreÊlajàc wysokoÊç kosztów treÊci orzeczenia, sàd uwzgl´dnia tak˝e koszty poniesione przez strony wzwiàzku zrozpoznaniem odwo∏ania.
+5. Strony ponoszą koszty postępowania stosownie do jego wyniku; określając wysokość kosztów treści orzeczenia, sąd uwzględnia także koszty poniesione przez strony wzwiązku zrozpoznaniem odwołania.
 
 **Art. 198g.**
 
-1. Od wyroku sàdu lub postanowienia koƒczàcego post´powanie wsprawie nie przys∏uguje skarga kasacyjna. Przepisu nie stosuje si´ do Prezesa Urz´du.
+1. Od wyroku sądu lub postanowienia kończącego postępowanie wsprawie nie przysługuje skarga kasacyjna. Przepisu nie stosuje się do Prezesa Urzędu.
 
-2. Do czynnoÊci podejmowanych przez Prezesa Urz´du stosuje si´ odpowiednio przepisy o Prokuratorze Generalnym, okreÊlone cz´Êci I ksi´dzeI tytule VI dziale Va ustawy z dnia 17 listopada 1964 r. Kodeks post´powania cywilnego.”;
+2. Do czynności podejmowanych przez Prezesa Urzędu stosuje się odpowiednio przepisy o Prokuratorze Generalnym, określone części I księdzeI tytule VI dziale Va ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego.”;
 
-- **41)** art.199 otrzymuje brzmienie: „Art. 199. Przepisów niniejszego dzia∏u nie stosuje si´ do zamawiajàcych, októrych mowa wart.3 ust.1 pkt1, 2 i5.”;
+- **41)** art.199 otrzymuje brzmienie: ŃArt. 199. Przepisów niniejszego działu nie stosuje się do zamawiających, októrych mowa wart.3 ust.1 pkt1, 2 i5.”;
 - **42)** wart.200 wust.1:
-    - **a)** wpkt1 lit. aotrzymuje brzmienie: „a) z naruszeniem przepisów ustawy okreÊlajàcych przes∏anki stosowania trybów udzielania zamówienia: negocjacji bez og∏oszenia, zwolnej r´ki lub zapytania ocen´,”,
-    - **b)** uchyla si´ pkt2 i3;
+    - **a)** wpkt1 lit. aotrzymuje brzmienie: Ńa) z naruszeniem przepisów ustawy określających przesłanki stosowania trybów udzielania zamówienia: negocjacji bez ogłoszenia, zwolnej ręki lub zapytania ocenę,”,
+    - **b)** uchyla się pkt2 i3;
 
-- **43)** wart.202 dodaje si´ ust.1a wbrzmieniu: „1a. Prezes Urz´du nie nak∏ada kary pieni´˝nej, je˝eli zwiàzku z naruszeniem przepisu ustawy Izba lub sàd na∏o˝yli kar´ finansowà.”.
+- **43)** wart.202 dodaje się ust.1a wbrzmieniu: Ń1a. Prezes Urzędu nie nakłada kary pieniężnej, jeżeli związku z naruszeniem przepisu ustawy Izba lub sąd nałożyli karę finansową.”.
 
-**Art. 2.** Wustawie zdnia 17 grudnia 2004r. oodpowiedzialnoÊci za naruszenie dyscypliny finansów publicznych (Dz. U. z 2005 r. 14, poz. 114, z póên. zm.
+**Art. 2.** Wustawie zdnia 17 grudnia 2004r. oodpowiedzialności za naruszenie dyscypliny finansów publicznych (Dz. U. z 2005 r. 14, poz. 114, z póên. zm.
 
-**Art. 3.** Wustawie zdnia 9 stycznia 2009r. okoncesji na roboty budowlane lub us∏ugi (Dz. U. 19, poz. 101 i 157, poz. 1241) wprowadza si´ nast´pujàce zmiany:
+**Art. 3.** Wustawie zdnia 9 stycznia 2009r. okoncesji na roboty budowlane lub usługi (Dz. U. 19, poz. 101 i 157, poz. 1241) wprowadza się następujące zmiany:
 
 **Art. 30b.**
 
-1. Kar´ finansowà uiszcza si´ terminie 30 dni od dnia uprawomocnienia si´ orzeczenia sàdu o na∏o˝eniu kary finansowej, na rachunek bankowy Urz´du Zamówieƒ Publicznych.
+1. Karę finansową uiszcza się terminie 30 dni od dnia uprawomocnienia się orzeczenia sądu o nałożeniu kary finansowej, na rachunek bankowy Urzędu Zamówień Publicznych.
 
-2. Prezes sàdu rozpatrujàcego skarg´ przesy∏a niezw∏ocznie Prezesowi Urz´du Zamówieƒ Publicznych odpis prawomocnego orzeczenia dotyczàcego na∏o˝enia kary finansowej. Prezes Urz´du Zamówieƒ Publicznych jest wierzycielem wrozumieniu przepisów ustawy o post´powaniu egzekucyjnym wadministracji.
+2. Prezes sądu rozpatrującego skargę przesyła niezwłocznie Prezesowi Urzędu Zamówień Publicznych odpis prawomocnego orzeczenia dotyczącego nałożenia kary finansowej. Prezes Urzędu Zamówień Publicznych jest wierzycielem wrozumieniu przepisów ustawy o postępowaniu egzekucyjnym wadministracji.
 
-3. Orzeczenie sàdu o na∏o˝eniu kary finansowej jest prawomocne zdniem jego wydania.
+3. Orzeczenie sądu o nałożeniu kary finansowej jest prawomocne zdniem jego wydania.
 
-4. W razie up∏ywu terminu, o którym mowa ust. 1, kara finansowa podlega Êciàgni´ciu trybie przepisów opost´powaniu egzekucyjnym wadministracji.
+4. W razie upływu terminu, o którym mowa ust. 1, kara finansowa podlega ściągnięciu trybie przepisów opostępowaniu egzekucyjnym wadministracji.
 
-5. W przypadku nieterminowego uiszczenia kary finansowej odsetek nie pobiera si´.
+5. W przypadku nieterminowego uiszczenia kary finansowej odsetek nie pobiera się.
 
 **Art. 30c.**
 
-1. W przypadku odstàpienia od uchylenia czynnoÊci koncesjodawcy z przyczyn wskazanych art. 30 ust. 7 lub przypadku naruszenia, za które na zasadach okreÊlonych wart.30 ust.4 i 5 na∏o˝ono kar´ finansowà albo orzeczono skrócenie okresu obowiàzywania umowy, skar˝àcemu, który poniós∏ szkod´ wyniku naruszenia przepisów ustawy, które mia∏o wp∏yw na wynik post´powania o zawarcie umowy koncesji, przys∏uguje roszczenie o odszkodowanie zakresie i na zasadach okreÊlonych ustawie z dnia 23 kwietnia 1964 r. Kodeks cywilny.
+1. W przypadku odstąpienia od uchylenia czynności koncesjodawcy z przyczyn wskazanych art. 30 ust. 7 lub przypadku naruszenia, za które na zasadach określonych wart.30 ust.4 i 5 nałożono karę finansową albo orzeczono skrócenie okresu obowiązywania umowy, skarżącemu, który poniósł szkodę wyniku naruszenia przepisów ustawy, które miało wpływ na wynik postępowania o zawarcie umowy koncesji, przysługuje roszczenie o odszkodowanie zakresie i na zasadach określonych ustawie z dnia 23 kwietnia 1964 r. Kodeks cywilny.
 
-2. Uprawnienie, októrym mowa wust.1, wygasa zup∏ywem 3 miesi´cy od dnia uprawomocnienia si´ wyroku sàdu administracyjnego stwierdzajàcego naruszenie, za które na∏o˝ono kar´ finansowà albo orzeczono skrócenie okresu obowiàzywania umowy.”.
+2. Uprawnienie, októrym mowa wust.1, wygasa zupływem 3 miesięcy od dnia uprawomocnienia się wyroku sądu administracyjnego stwierdzającego naruszenie, za które nałożono karę finansową albo orzeczono skrócenie okresu obowiązywania umowy.”.
 
 **Art. 4.**
 
-1. Do post´powaƒ oudzielenie zamówienia publicznego i konkursów wszcz´tych przed dniem wejÊcia ˝ycie niniejszej ustawy oraz do protestów, odwo∏aƒ iskarg dotyczàcych tych post´powaƒ stosuje si´ przepisy dotychczasowe.
+1. Do postępowań oudzielenie zamówienia publicznego i konkursów wszczętych przed dniem wejścia życie niniejszej ustawy oraz do protestów, odwołań iskarg dotyczących tych postępowań stosuje się przepisy dotychczasowe.
 
-2. Do post´powaƒ o zawarcie umów koncesji wszcz´tych przed dniem wejÊcia ˝ycie niniejszej ustawy oraz do skarg dotyczàcych tych post´powaƒ stosuje si´ przepisy dotychczasowe.
+2. Do postępowań o zawarcie umów koncesji wszczętych przed dniem wejścia życie niniejszej ustawy oraz do skarg dotyczących tych postępowań stosuje się przepisy dotychczasowe.
 
-**Art. 5.** Do kontroli udzielania zamówieƒ publicznych wszcz´tych przed dniem wejÊcia ˝ycie niniejszej ustawy stosuje si´ przepisy dotychczasowe.
+**Art. 5.** Do kontroli udzielania zamówień publicznych wszczętych przed dniem wejścia życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
 **Art. 6.**
 
-1. Do umów wsprawach zamówieƒ publicznych zawartych przed dniem wejÊcia ˝ycie niniejszej ustawy oraz zawartych wnast´pstwie przeprowadzenia post´powaƒ o udzielenie zamówienia publicznego i konkursów wszcz´tych przed dniem wejÊcia w˝ycie niniejszej ustawy stosuje si´ przepisy dotychczasowe.
+1. Do umów wsprawach zamówień publicznych zawartych przed dniem wejścia życie niniejszej ustawy oraz zawartych wnastępstwie przeprowadzenia postępowań o udzielenie zamówienia publicznego i konkursów wszczętych przed dniem wejścia wżycie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-2. Do umów koncesji zawartych przed dniem wejÊcia ˝ycie niniejszej ustawy oraz zawartych nast´pstwie przeprowadzenia post´powaƒ o zawarcie umowy koncesji wszcz´tych przed dniem wejÊcia w˝ycie niniejszej ustawy stosuje si´ przepisy dotychczasowe.
+2. Do umów koncesji zawartych przed dniem wejścia życie niniejszej ustawy oraz zawartych następstwie przeprowadzenia postępowań o zawarcie umowy koncesji wszczętych przed dniem wejścia wżycie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-**Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 193a ustawy, o której mowa art. 1, zachowujà moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 198 ustawy, októrej mowa wart.1, wbrzmieniu nadanym niniejszà ustawà, jednak nie d∏u˝ej ni˝ przez okres 6miesi´cy od dnia wejÊcia w˝ycie niniejszej ustawy.
+**Art. 7.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 193a ustawy, o której mowa art. 1, zachowują moc do czasu wydania nowych przepisów wykonawczych na podstawie art. 198 ustawy, októrej mowa wart.1, wbrzmieniu nadanym niniejszą ustawą, jednak nie dłużej niż przez okres 6miesięcy od dnia wejścia wżycie niniejszej ustawy.
 
-**Art. 8.** Ustawa wchodzi w˝ycie po up∏ywie 30 dni od dnia og∏oszenia.
+**Art. 8.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia.
 

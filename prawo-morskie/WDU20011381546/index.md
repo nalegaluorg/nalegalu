@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# konwencji outworzeniu Mi´dzynarodowego Funduszu Odszkodowaƒ za Szkody Spowodowane Zanieczyszczeniem Olejami.
+# konwencji outworzeniu Międzynarodowego Funduszu Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami.
 
 | Pole | Wartość |
 |---|---|
@@ -24,43 +24,43 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011381546) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1546/text.pdf) |
 
-TYTU¸ X PRZEPISY KOLIZYJNE
+TYTUĘ X PRZEPISY KOLIZYJNE
 
 **Art. 355.**
 
-§ 1. Prawa rzeczowe na statku podlegajà prawu paƒstwa jego bandery.
+§ 1. Prawa rzeczowe na statku podlegają prawu państwa jego bandery.
 
-§ 2. Prawa rzeczowe na statku wpisane wsta∏ym rejestrze statku podlegajà prawu paƒstwa tego rejestru.
+§ 2. Prawa rzeczowe na statku wpisane wstałym rejestrze statku podlegają prawu państwa tego rejestru.
 
-§ 3. Prawa rzeczowe na statku wbudowie podlegajà prawu paƒstwa, wktórym statek jest budowany.
+§ 3. Prawa rzeczowe na statku wbudowie podlegają prawu państwa, wktórym statek jest budowany.
 
-§ 4. Do przywilejów na statku stosuje prawo paƒstwa, wktórym dochodzone jest przed sàdem roszczenie o zaspokojenie wierzytelnoÊci zabezpieczonej przywilejem.
+§ 4. Do przywilejów na statku stosuje prawo państwa, wktórym dochodzone jest przed sądem roszczenie o zaspokojenie wierzytelności zabezpieczonej przywilejem.
 
-**Art. 356.** Do stosunków prawnych wynikajàcych ze zdarzeƒ, które nastàpi∏y na statku znajdujàcym pope∏nym morzu, stosuje prawo sàdu paƒstwa, który spór rozpoznaje. W razie jednak zderzenia statków podnoszàcych t´ samà bander´, stosuje prawo tej bandery bez wzgl´du na to, na jakich wodach zderzenie nastàpi∏o.
+**Art. 356.** Do stosunków prawnych wynikających ze zdarzeń, które nastąpiły na statku znajdującym popełnym morzu, stosuje prawo sądu państwa, który spór rozpoznaje. W razie jednak zderzenia statków podnoszących tę samą banderę, stosuje prawo tej bandery bez względu na to, na jakich wodach zderzenie nastąpiło.
 
 **Art. 359.**
 
-§ 1. Strony mogà wumowie okreÊliç prawo w∏aÊciwe dla stosunku prawnego zwiàzanego z˝eglugà morskà. za terytorium paƒstwa nadbrze˝nego, stosuje pra- § 2. Je˝eli stosunek prawny wed∏ug ustawy lub wo bandery. umowy podlega obcemu prawu, nale˝y je wRzeczypospolitej Polskiej stosowaç, chyba ˝e jego stosowanie
+§ 1. Strony mogą wumowie określić prawo właściwe dla stosunku prawnego związanego zżeglugą morską. za terytorium państwa nadbrzeżnego, stosuje pra- § 2. Jeżeli stosunek prawny według ustawy lub wo bandery. umowy podlega obcemu prawu, należy je wRzeczypospolitej Polskiej stosować, chyba że jego stosowanie
 
 **Art. 357.**
 
-§ 1. Do zobowiàzaƒ zawarii wspólnej sto- mia∏oby skutki sprzeczne podstawowymi zasadami suje prawo obowiàzujàce w miejscu, w którym po porzàdku prawnego Rzeczypospolitej Polskiej. awarii wspólnej zakoƒczono podró˝.
+§ 1. Do zobowiązań zawarii wspólnej sto- miałoby skutki sprzeczne podstawowymi zasadami suje prawo obowiązujące w miejscu, w którym po porządku prawnego Rzeczypospolitej Polskiej. awarii wspólnej zakończono podróż.
 
-**Art. 360.** Ustawa wchodzi w ˝ycie w terminie i na § 2. Je˝eli wszystkie strony zainteresowane wawa- zasadach okreÊlonych ustawà Przepisy wprowadzarii wspólnej sà przynale˝noÊci polskiej, stosuje pra- jàce ustaw´ Kodeks morski. wo polskie.
+**Art. 360.** Ustawa wchodzi w życie w terminie i na § 2. Jeżeli wszystkie strony zainteresowane wawa- zasadach określonych ustawą Przepisy wprowadzarii wspólnej są przynależności polskiej, stosuje pra- jące ustawę Kodeks morski. wo polskie.
 
 **Art. 358.**
 
-§ 1. Do roszczeƒ owynagrodzenie szkody wynik∏ej ze zderzenia statków na morskich wodach wewn´trznych lub morzu terytorialnym stosuje prawo paƒstwa nadbrze˝nego; je˝eli zderzenie nastàpi∏o na Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA zdnia 18 wrzeÊnia 2001 r. Przepisy wprowadzajàce ustaw´ Kodeks morski.
+§ 1. Do roszczeń owynagrodzenie szkody wynikłej ze zderzenia statków na morskich wodach wewnętrznych lub morzu terytorialnym stosuje prawo państwa nadbrzeżnego; jeżeli zderzenie nastąpiło na Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 18 września 2001 r. Przepisy wprowadzające ustawę Kodeks morski.
 
-**Art. 1.** Ustawa Kodeks morski wchodzi w ˝ycie po up∏ywie 6 miesi´cy od dnia og∏oszenia.
+**Art. 1.** Ustawa Kodeks morski wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia.
 
-**Art. 2.** Tracà moc:
+**Art. 2.** Tracą moc:
 
-**Art. 3.** Do czasu wydania przepisów wykonawczych przewidzianych wustawie Kodeks morski zachowujà moc dotychczasowe przepisy wykonawcze wzakresie, wjakim nie sà sprzeczne ztà ustawà, nie d∏u˝ej jedArt. 4. W Kodeksie post´powania cywilnego w art. 1025 w § 1 w pkt 4 na koƒcu dodaje wyrazy „atak˝e nale˝noÊci wynikajàce zwierzytelnoÊci zabezpieczonych hipotekà morskà,”.
+**Art. 3.** Do czasu wydania przepisów wykonawczych przewidzianych wustawie Kodeks morski zachowują moc dotychczasowe przepisy wykonawcze wzakresie, wjakim nie są sprzeczne ztą ustawą, nie dłużej jedArt. 4. W Kodeksie postępowania cywilnego w art. 1025 w § 1 w pkt 4 na końcu dodaje wyrazy Ńatakże należności wynikające zwierzytelności zabezpieczonych hipoteką morską,”.
 
-**Art. 5.** W ustawie dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej iadministracji morskiej (Dz. U. 32, poz. 131, z1994 r. 27, poz. 96, z1995 r. 7, poz. 31 iNr 47, poz. 243, z1996 r. 34, poz. 145, z1997 r. 111, poz. 726, z1999 r. 70, poz. 778,z2000 r. 120, poz. 1268 iNr 122, poz. 1321oraz 2001 r. 129, poz. 1441) wprowadza nast´pujàce zmiany:
+**Art. 5.** W ustawie dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej iadministracji morskiej (Dz. U. 32, poz. 131, z1994 r. 27, poz. 96, z1995 r. 7, poz. 31 iNr 47, poz. 243, z1996 r. 34, poz. 145, z1997 r. 111, poz. 726, z1999 r. 70, poz. 778,z2000 r. 120, poz. 1268 iNr 122, poz. 1321oraz 2001 r. 129, poz. 1441) wprowadza następujące zmiany:
 
-**Art. 6.** Wsprawach dotyczàcych:
+**Art. 6.** Wsprawach dotyczących:
 
-**Art. 7.** Ustawa wchodzi w ˝ycie dniem wejÊcia w˝ycie ustawy Kodeks morski.
+**Art. 7.** Ustawa wchodzi w życie dniem wejścia wżycie ustawy Kodeks morski.
 

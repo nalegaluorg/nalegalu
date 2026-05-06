@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-04-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000620717) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/717/text.pdf) |
 
-**Art. 1.** ustawie dnia 6 czerwca 1997 r. Kodeks post´powania karnego (Dz.U. 89, poz. 555, 1999 r. 83, poz. 931 oraz 2000 r. 50, poz. 580) wprowadza nast´pujàce zmiany:
+**Art. 1.** ustawie dnia 6 czerwca 1997 r. Kodeks postępowania karnego (Dz.U. 89, poz. 555, 1999 r. 83, poz. 931 oraz 2000 r. 50, poz. 580) wprowadza następujące zmiany:
 
-**Art. 2.** Wustawie zdnia 6 czerwca 1997 r. Przepisy wprowadzajàce Kodeks post´powania karnego (Dz.U. 89, poz. 556 iNr 160, poz. 1083) dodaje art. 11awbrzmieniu: „Art. 11a. Je˝eli rozpoznanie sprawy sàdzie miejscowo w∏aÊciwym nie jest mo˝liwe
+**Art. 2.** Wustawie zdnia 6 czerwca 1997 r. Przepisy wprowadzające Kodeks postępowania karnego (Dz.U. 89, poz. 556 iNr 160, poz. 1083) dodaje art. 11awbrzmieniu: ŃArt. 11a. Jeżeli rozpoznanie sprawy sądzie miejscowo właściwym nie jest możliwe
 

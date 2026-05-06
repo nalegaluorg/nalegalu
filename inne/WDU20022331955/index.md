@@ -24,59 +24,59 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022331955) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1955/text.pdf) |
 
-**Art. 1.** Ustawa okreÊla podstawy, zakres i tryb wyrównywania strat majàtkowych, powsta∏ych wnast´pstwie ograniczenia wolnoÊci ipraw cz∏owieka iobywatela wczasie stanu nadzwyczajnego: stanu wojennego, stanu wyjàtkowego lub stanu kl´ski ˝ywio∏owej.
+**Art. 1.** Ustawa określa podstawy, zakres i tryb wyrównywania strat majątkowych, powstałych wnastępstwie ograniczenia wolności ipraw człowieka iobywatela wczasie stanu nadzwyczajnego: stanu wojennego, stanu wyjątkowego lub stanu klęski żywiołowej.
 
 **Art. 2.**
 
-1. Ka˝demu, kto poniós∏ strat´ majàtkowà wnast´pstwie ograniczenia wolnoÊci ipraw cz∏owieka i obywatela w czasie stanu nadzwyczajnego, s∏u˝y roszczenie oodszkodowanie.
+1. Każdemu, kto poniósł stratę majątkową wnastępstwie ograniczenia wolności ipraw człowieka i obywatela w czasie stanu nadzwyczajnego, służy roszczenie oodszkodowanie.
 
-2. Odszkodowanie, o którym mowa w ust. 1, obejmuje wyrównanie straty majàtkowej, bez korzyÊci, które poszkodowany móg∏by osiàgnàç, gdyby strata nie powsta∏a.
+2. Odszkodowanie, o którym mowa w ust. 1, obejmuje wyrównanie straty majątkowej, bez korzyści, które poszkodowany mógłby osiągnąć, gdyby strata nie powstała.
 
-3. Do odszkodowania stosuje si´ przepisy Kodeksu cywilnego, zwy∏àczeniem art. 415—420 .
+3. Do odszkodowania stosuje się przepisy Kodeksu cywilnego, zwyłączeniem art. 415—420 .
 
 **Art. 3.**
 
-1. Odszkodowanie przys∏uguje od Skarbu Paƒstwa.
+1. Odszkodowanie przysługuje od Skarbu Państwa.
 
-2. Odszkodowanie nie przys∏uguje, je˝eli strata majàtkowa powsta∏a wy∏àcznie z winy poszkodowanego lub zwiny osoby trzeciej.
+2. Odszkodowanie nie przysługuje, jeżeli strata majątkowa powstała wyłącznie z winy poszkodowanego lub zwiny osoby trzeciej.
 
 **Art. 4.**
 
-1. Odszkodowanie przyznaje si´ na pisemny wniosek poszkodowanego, z∏o˝ony do w∏aÊciwego wojewody.
+1. Odszkodowanie przyznaje się na pisemny wniosek poszkodowanego, złożony do właściwego wojewody.
 
-2. Wniosek, októrym mowa wust. 1, powinien zawieraç:
+2. Wniosek, októrym mowa wust. 1, powinien zawierać:
 
 - **1)** oznaczenie organu, do którego jest skierowany, oraz sprawy, której dotyczy;
-- **2)** imi´, nazwisko oraz adres wnioskodawcy;
-- **3)** wysokoÊç poniesionej straty majàtkowej oraz czas, miejsce iokolicznoÊci jej powstania;
-- **4)** rodzaj ograniczenia, zktórego wynik∏a strata majàtkowa;
-- **5)** dat´ ipodpis sk∏adajàcego pismo.
+- **2)** imię, nazwisko oraz adres wnioskodawcy;
+- **3)** wysokość poniesionej straty majątkowej oraz czas, miejsce iokoliczności jej powstania;
+- **4)** rodzaj ograniczenia, zktórego wynikła strata majątkowa;
+- **5)** datę ipodpis składającego pismo.
 
 **Art. 5.**
 
-1. Decyzj´ wsprawie odszkodowania wydaje wojewoda w∏aÊciwy ze wzgl´du na miejsce powstania straty majàtkowej.
+1. Decyzję wsprawie odszkodowania wydaje wojewoda właściwy ze względu na miejsce powstania straty majątkowej.
 
-2. Wprzypadku gdy strata majàtkowa powsta∏a na terenie dwóch lub wi´cej województw, w∏aÊciwy do wydania decyzji jest wojewoda, do którego najpierw z∏o˝ono wniosek.
+2. Wprzypadku gdy strata majątkowa powstała na terenie dwóch lub więcej województw, właściwy do wydania decyzji jest wojewoda, do którego najpierw złożono wniosek.
 
-3. Je˝eli nie mo˝na ustaliç w∏aÊciwoÊci wojewody wed∏ug przepisów poprzedzajàcych, decyzj´ w spra4. Wojewoda wydaje decyzj´ wsprawie odszkodowania niezw∏ocznie, nie póêniej jednak ni˝ w terminie trzech miesi´cy od dnia z∏o˝enia wniosku. Decyzja ta jest ostateczna.
+3. Jeżeli nie można ustalić właściwości wojewody według przepisów poprzedzających, decyzję w spra4. Wojewoda wydaje decyzję wsprawie odszkodowania niezwłocznie, nie póêniej jednak niż w terminie trzech miesięcy od dnia złożenia wniosku. Decyzja ta jest ostateczna.
 
-5. Odszkodowanie wyp∏aca si´ wterminie trzydziestu dni od dnia dor´czenia decyzji poszkodowanemu.
+5. Odszkodowanie wypłaca się wterminie trzydziestu dni od dnia doręczenia decyzji poszkodowanemu.
 
 **Art. 6.**
 
-1. Poszkodowany niezadowolony z decyzji w sprawie odszkodowania, w terminie trzydziestu dni od dnia dor´czenia decyzji wtej sprawie, mo˝e wnieÊç powództwo do sàdu powszechnego.
+1. Poszkodowany niezadowolony z decyzji w sprawie odszkodowania, w terminie trzydziestu dni od dnia doręczenia decyzji wtej sprawie, może wnieść powództwo do sądu powszechnego.
 
 2. Wniesienie powództwa, októrym mowa wust. 1, nie wstrzymuje wykonania decyzji.
 
-3. W sprawach przed sàdem powszechnym, o których mowa wust. 1, Skarb Paƒstwa reprezentuje wojewoda.
+3. W sprawach przed sądem powszechnym, o których mowa wust. 1, Skarb Państwa reprezentuje wojewoda.
 
-**Art. 7.** Do post´powania w sprawach, o których mowa wart. 5, stosuje si´ przepisy Kodeksu post´powania administracyjnego, o ile niniejsza ustawa nie stanowi inaczej.
+**Art. 7.** Do postępowania w sprawach, o których mowa wart. 5, stosuje się przepisy Kodeksu postępowania administracyjnego, o ile niniejsza ustawa nie stanowi inaczej.
 
-**Art. 8.** Roszczenie oodszkodowanie przedawnia si´ zup∏ywem roku od dnia, wktórym poszkodowany dowiedzia∏ si´ o powstaniu straty majàtkowej. Jednak˝e wka˝dym przypadku roszczenie przedawnia si´ zup∏ywem trzech lat od dnia zniesienia stanu nadzwyczajnego.
+**Art. 8.** Roszczenie oodszkodowanie przedawnia się zupływem roku od dnia, wktórym poszkodowany dowiedział się o powstaniu straty majątkowej. Jednakże wkażdym przypadku roszczenie przedawnia się zupływem trzech lat od dnia zniesienia stanu nadzwyczajnego.
 
-**Art. 9.** Roszczenie o odszkodowanie przechodzi na nast´pców prawnych poszkodowanego.
+**Art. 9.** Roszczenie o odszkodowanie przechodzi na następców prawnych poszkodowanego.
 
-**Art. 10.** Wustawie zdnia 13 czerwca 1967 r. okosztach sàdowych wsprawach cywilnych (Dz. U. z2002 r. Nr 9, poz. 88) wart. 10 wpkt 6 na koƒcu kropk´ zast´puje si´ przecinkiem idodaje si´ pkt 7 wbrzmieniu: „7) powództwa oodszkodowanie, októrym mowa wart. 6 ustawy zdnia 22 listopada 2002 r. owyrównywaniu strat majàtkowych wynikajàcych zograniczenia wczasie stanu nadzwyczajnego wolnoÊci i praw cz∏owieka i obywatela (Dz. U. Nr 233, poz. 1955).”.
+**Art. 10.** Wustawie zdnia 13 czerwca 1967 r. okosztach sądowych wsprawach cywilnych (Dz. U. z2002 r. Nr 9, poz. 88) wart. 10 wpkt 6 na końcu kropkę zastępuje się przecinkiem idodaje się pkt 7 wbrzmieniu: Ń7) powództwa oodszkodowanie, októrym mowa wart. 6 ustawy zdnia 22 listopada 2002 r. owyrównywaniu strat majątkowych wynikających zograniczenia wczasie stanu nadzwyczajnego wolności i praw człowieka i obywatela (Dz. U. Nr 233, poz. 1955).”.
 
-**Art. 11.** Ustawa wchodzi w˝ycie po up∏ywie 30 dni od dnia og∏oszenia. wie odszkodowania wydaje Wojewoda Mazowiecki. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1955 USTAWA zdnia 22 listopada 2002 r. owyrównywaniu strat majàtkowych wynikajàcych zograniczenia wczasie stanu nadzwyczajnego wolnoÊci ipraw cz∏owieka iobywatela.
+**Art. 11.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia. wie odszkodowania wydaje Wojewoda Mazowiecki. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1955 USTAWA zdnia 22 listopada 2002 r. owyrównywaniu strat majątkowych wynikających zograniczenia wczasie stanu nadzwyczajnego wolności ipraw człowieka iobywatela.
 

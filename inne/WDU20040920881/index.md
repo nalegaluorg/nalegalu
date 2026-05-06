@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# kwidacji. Aktywa ipasywa Krajowego Zarzàdu Parków Narodowych przejmuje minister w∏aÊciwy do spraw Êrodowiska.
+# kwidacji. Aktywa ipasywa Krajowego Zarządu Parków Narodowych przejmuje minister właściwy do spraw środowiska.
 
 | Pole | Wartość |
 |---|---|
@@ -24,411 +24,425 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040920881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/881/text.pdf) |
 
-2. Likwidacj´ Krajowego Zarzàdu Parków Narodowych prowadzi si´ pod jego dotychczasowà nazwà z dodatkiem „w likwidacji”.
-3. Pracownicy Krajowego Zarzàdu Parków Narodowych z dniem wejÊcia ˝ycie ustawy stajà si´ pracownikami urz´du obs∏ugujàcego ministra w∏aÊciwego do spraw Êrodowiska, z zastrze˝eniem art. 160.
-4. Minister w∏aÊciwy do spraw finansów publicznych, porozumieniu z ministrem w∏aÊciwym do spraw Êrodowiska, drodze rozporzàdzenia, dokona przeniesienia planowanych dochodów iwydatków bud˝etowych ramach cz´Êci 41 Êrodowisko mi´dzy dzia∏ami irozdzia∏ami bud˝etu paƒstwa wzakresie dotyczàcym zadaƒ przej´tych przez Ministerstwo Ârodowiska z Krajowego Zarzàdu Parków Narodowych oraz okreÊli limity zatrudnienia ikwoty wynagrodzeƒ wpocia stosunku pracy i o skutkach nieprzyj´cia nowych warunków pracy i p∏acy.
-3. WczeÊniejsze rozwiàzanie stosunku pracy przez pracodawc´ mo˝e nastàpiç za wypowiedzeniem.
-4. Pracownicy, o których mowa art. 159 ust. 3, zachowujà uprawnienia pracownicze wynikajàce z aktów, na podstawie których powsta∏ ich stosunek pracy przed dniem wejÊcia ˝ycie ustawy, do dnia:
-1) wymienionego ust. 1 pkt 2 je˝eli przyj´li proponowane warunki pracy i p∏acy na dalszy okres zatrudnienia, albo
-2) wygaÊni´cia stosunku pracy, o którym mowa ust. 1, albo
+2. Likwidację Krajowego Zarządu Parków Narodowych prowadzi się pod jego dotychczasową nazwą z dodatkiem Ńw likwidacji”.
+3. Pracownicy Krajowego Zarządu Parków Narodowych z dniem wejścia życie ustawy stają się pracownikami urzędu obsługującego ministra właściwego do spraw środowiska, z zastrzeżeniem art. 160.
+4. Minister właściwy do spraw finansów publicznych, porozumieniu z ministrem właściwym do spraw środowiska, drodze rozporządzenia, dokona przeniesienia planowanych dochodów iwydatków budżetowych ramach części 41 środowisko między działami irozdziałami budżetu państwa wzakresie dotyczącym zadań przejętych przez Ministerstwo Ârodowiska z Krajowego Zarządu Parków Narodowych oraz określi limity zatrudnienia ikwoty wynagrodzeń wpocia stosunku pracy i o skutkach nieprzyjęcia nowych warunków pracy i płacy.
+3. Wcześniejsze rozwiązanie stosunku pracy przez pracodawcę może nastąpić za wypowiedzeniem.
+4. Pracownicy, o których mowa art. 159 ust. 3, zachowują uprawnienia pracownicze wynikające z aktów, na podstawie których powstał ich stosunek pracy przed dniem wejścia życie ustawy, do dnia:
+1) wymienionego ust. 1 pkt 2 jeżeli przyjęli proponowane warunki pracy i płacy na dalszy okres zatrudnienia, albo
+2) wygaśnięcia stosunku pracy, o którym mowa ust. 1, albo
 3) wypowiedzenia, o którym mowa ust. 3.
-5. Wprzypadku wygaÊni´cia stosunku pracy, októrym mowa wust. 1, lub wypowiedzenia, októrym modziale na dzia∏y i rozdzia∏y bud˝etu paƒstwa, z zachowaniem przeznaczenia Êrodków publicznych wynikajàcego z ustawy bud˝etowej.
-5. Do przeniesieƒ, októrych mowa wust. 4, nie stosuje si´ ograniczeƒ wynikajàcych z art. 96 ust. 2 ustawy zdnia 26 listopada 1998 r. ofinansach publicznych.
+5. Wprzypadku wygaśnięcia stosunku pracy, októrym mowa wust. 1, lub wypowiedzenia, októrym modziale na działy i rozdziały budżetu państwa, z zachowaniem przeznaczenia środków publicznych wynikającego z ustawy budżetowej.
+5. Do przeniesień, októrych mowa wust. 4, nie stosuje się ograniczeń wynikających z art. 96 ust. 2 ustawy zdnia 26 listopada 1998 r. ofinansach publicznych.
+3) wykazu uwzględnionych specyfikacji technicznych, Kontrola wyrobów budowlanych wprowadzo- o których mowa art. 5 ust. 1 pkt 1 lub ust. 2, nych do obrotu uwzględnionych Polskich Norm wyrobu albo aprobat technicznych;
 
 **Art. 160.**
 
-1. Stosunki pracy z pracownikami, o których mowa art. 159 ust. 3, wygasajà po up∏ywie 3 miesi´cy od dnia wejÊcia ˝ycie ustawy:
+1. Stosunki pracy z pracownikami, o których mowa art. 159 ust. 3, wygasają po upływie 3 miesięcy od dnia wejścia życie ustawy:
 
-- **1)** je˝eli przed up∏ywem 2 miesi´cy od dnia wejÊcia ˝ycie ustawy nie zostanà im zaproponowane nowe warunki pracy i p∏acy na dalszy okres zatrudnienia albo
-- **2)** wrazie odmowy przyj´cia nowych warunków pracy ip∏acy, októrych mowa wpkt 1, wterminie nie póêniejszym ni˝ 2 tygodnie przed up∏ywem 3 miesi´cy od dnia wejÊcia ˝ycie ustawy. wa wust. 3, pracownikom przys∏uguje odprawa, októrej mowa art. 8 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiàzywania z pracownikami stosunków pracy zprzyczyn niedotyczàcych pracowników (Dz. U. 90, poz. 844, 213, poz. 2081 i 223, poz. 2217).
+- **1)** jeżeli przed upływem 2 miesięcy od dnia wejścia życie ustawy nie zostaną im zaproponowane nowe warunki pracy i płacy na dalszy okres zatrudnienia albo
+- **2)** wrazie odmowy przyjęcia nowych warunków pracy ipłacy, októrych mowa wpkt 1, wterminie nie póêniejszym niż 2 tygodnie przed upływem 3 miesięcy od dnia wejścia życie ustawy. wa wust. 3, pracownikom przysługuje odprawa, októrej mowa art. 8 ustawy z dnia 13 marca 2003 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy zprzyczyn niedotyczących pracowników (Dz. U. 90, poz. 844, 213, poz. 2081 i 223, poz. 2217).
 
 **Art. 161.** Traci moc ustawa z dnia 16 paêdziernika 1991 r. o ochronie przyrody (Dz. U. z 2001 r. 99, poz. 1079, 100, poz. 1085, 110, poz. 1189 i 145, poz. 1623, z 2002 r. 130, poz. 1112 oraz z 2003 r. 80, poz. 717, 162, poz. 1568 i 203, poz. 1966).
 
-**Art. 162.** Ustawa wchodzi ˝ycie z dniem 1 maja 2004 r., z wyjàtkiem art. 39 i 134 pkt 2, które wchodzà ˝ycie z dniem 1 stycznia 2005 r. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA z dnia 16 kwietnia 2004 r. o wyrobach budowlanych Rozdzia∏ 1 Przepisy ogólne bów budowlanych wprowadzonych do obrotu oraz zasady dzia∏ania organów administracji publicznej tej dziedzinie.
+**Art. 162.** Ustawa wchodzi życie z dniem 1 maja 2004 r., z wyjątkiem art. 39 i 134 pkt 2, które wchodzą życie z dniem 1 stycznia 2005 r. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA z dnia 16 kwietnia 2004 r. o wyrobach budowlanych
 
-**Art. 1.** Ustawa okreÊla zasady wprowadzania do obrotu wyrobów budowlanych, zasady kontroli wyro- Art. 2. Ilekroç ustawie jest mowa o: ——————— tworzenia, przeznaczonà do obrotu, wytworzonà celu zastosowania sposób trwa∏y obiekcie budowlanym, wprowadzanà do obrotu jako wyrób pojedynczy lub jako zestaw wyrobów do stosowania we wzajemnym po∏àczeniu stanowiàcym integralnà ca∏oÊç u˝ytkowà i majàcà wp∏yw na spe∏nienie wymagaƒ podstawowych, o których mowa art. 5 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2003 r. 207, poz. 2016 oraz z 2004 r. 6, poz. 41);
+#### Rozdział 1 Przepisy ogólne bów budowlanych wprowadzonych do obrotu oraz zasady działania organów administracji publicznej tej dziedzinie.
+
+**Art. 1.** Ustawa określa zasady wprowadzania do obrotu wyrobów budowlanych, zasady kontroli wyro- Art. 2. Ilekroć ustawie jest mowa o: ——————— tworzenia, przeznaczoną do obrotu, wytworzoną celu zastosowania sposób trwały obiekcie budowlanym, wprowadzaną do obrotu jako wyrób pojedynczy lub jako zestaw wyrobów do stosowania we wzajemnym połączeniu stanowiącym integralną całość użytkową i mającą wpływ na spełnienie wymagań podstawowych, o których mowa art. 5 ust. 1 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2003 r. 207, poz. 2016 oraz z 2004 r. 6, poz. 41);
 
 **Art. 3.**
 
-1. Organem opiniodawczo-doradczym G∏ównego Inspektora Nadzoru Budowlanego sprawach wyrobów budowlanych jest Rada Wyrobów Budowlanych, zwana dalej „Radà”.
+1. Organem opiniodawczo-doradczym Głównego Inspektora Nadzoru Budowlanego sprawach wyrobów budowlanych jest Rada Wyrobów Budowlanych, zwana dalej ŃRadą”.
 
-2. G∏ówny Inspektor Nadzoru Budowlanego powo∏uje i odwo∏uje cz∏onków Rady spoÊród osób rekomendowanych przez organizacje producentów bran˝y budowlanej oraz organizacje konsumenckie. G∏ówny Inspektor Nadzoru Budowlanego mo˝e powo∏ywaç do Rady iodwo∏ywaç zniej równie˝ inne osoby dysponujàce szczególnà wiedzà technicznà, ekonomicznà lub
+2. Główny Inspektor Nadzoru Budowlanego powołuje i odwołuje członków Rady spośród osób rekomendowanych przez organizacje producentów branży budowlanej oraz organizacje konsumenckie. Główny Inspektor Nadzoru Budowlanego może powoływać do Rady iodwoływać zniej również inne osoby dysponujące szczególną wiedzą techniczną, ekonomiczną lub
 
-4. Cz∏onkom Rady nie przys∏uguje wynagrodzenie za udzia∏ pracach i posiedzeniach Rady, a tak˝e zwrot kosztów przejazdu i noclegów. Rozdzia∏ 2 Wprowadzenie do obrotu wyrobów budowlanych
+4. Członkom Rady nie przysługuje wynagrodzenie za udział pracach i posiedzeniach Rady, a także zwrot kosztów przejazdu i noclegów.
 
-**Art. 4.** Wyrób budowlany mo˝e byç wprowadzony do obrotu, je˝eli nadaje si´ do stosowania przy wykonywaniu robót budowlanych, zakresie odpowiadajàcym jego w∏aÊciwoÊciom u˝ytkowym i przeznaczeniu, to jest ma w∏aÊciwoÊci u˝ytkowe umo˝liwiajàce prawid∏owo zaprojektowanym i wykonanym obiektom budowlanym, których ma byç zastosowany sposób trwa∏y, spe∏nienie wymagaƒ podstawowych.
+#### Rozdział 2 Wprowadzenie do obrotu wyrobów budowlanych
+
+**Art. 4.** Wyrób budowlany może być wprowadzony do obrotu, jeżeli nadaje się do stosowania przy wykonywaniu robót budowlanych, zakresie odpowiadającym jego właściwościom użytkowym i przeznaczeniu, to jest ma właściwości użytkowe umożliwiające prawidłowo zaprojektowanym i wykonanym obiektom budowlanym, których ma być zastosowany sposób trwały, spełnienie wymagań podstawowych.
 
 **Art. 5.**
 
-1. Wyrób budowlany nadaje si´ do stosowania przy wykonywaniu robót budowlanych, je˝eli jest:
+1. Wyrób budowlany nadaje się do stosowania przy wykonywaniu robót budowlanych, jeżeli jest:
 
-- **1)** oznakowany CE, co oznacza, ˝e dokonano oceny jego zgodnoÊci znormà zharmonizowanà albo europejskà aprobatà technicznà bàdê krajowà specyfikacjà technicznà paƒstwa cz∏onkowskiego Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, uznanà przez Komisj´ Europejskà za zgodnà z wymaganiami podstawowymi, albo
-- **2)** umieszczony okreÊlonym przez Komisj´ Europejskà wykazie wyrobów majàcych niewielkie znaczenie dla zdrowia i bezpieczeƒstwa, dla których producent wyda∏ deklaracj´ zgodnoÊci zuznanymi regu∏ami sztuki budowlanej, albo
-- **3)** oznakowany, z zastrze˝eniem ust. 4, znakiem budowlanym, którego wzór okreÊla za∏àcznik nr 1 do niniejszej ustawy.
+- **1)** oznakowany CE, co oznacza, że dokonano oceny jego zgodności znormą zharmonizowaną albo europejską aprobatą techniczną bądê krajową specyfikacją techniczną państwa członkowskiego Unii Europejskiej lub Europejskiego Obszaru Gospodarczego, uznaną przez Komisję Europejską za zgodną z wymaganiami podstawowymi, albo
+- **2)** umieszczony określonym przez Komisję Europejską wykazie wyrobów mających niewielkie znaczenie dla zdrowia i bezpieczeństwa, dla których producent wydał deklarację zgodności zuznanymi regułami sztuki budowlanej, albo
+- **3)** oznakowany, z zastrzeżeniem ust. 4, znakiem budowlanym, którego wzór określa załącznik nr 1 do niniejszej ustawy.
 
-2. Oznakowanie CE wyrobu budowlanego, który nie stwarza szczególnego zagro˝enia dla zdrowia lub bezpieczeƒstwa oraz nie odpowiada lub odpowiada cz´Êciowo specyfikacjom technicznym, o których mowa ust. 1 pkt 1, jest tak˝e dopuszczalne, wy∏àcznie po dokonaniu stosownej oceny zgodnoÊci.
+2. Oznakowanie CE wyrobu budowlanego, który nie stwarza szczególnego zagrożenia dla zdrowia lub bezpieczeństwa oraz nie odpowiada lub odpowiada częściowo specyfikacjom technicznym, o których mowa ust. 1 pkt 1, jest także dopuszczalne, wyłącznie po dokonaniu stosownej oceny zgodności.
 
-3. Wzór oznakowania CE okreÊla za∏àcznik nr 2 do niniejszej ustawy.
+3. Wzór oznakowania CE określa załącznik nr 2 do niniejszej ustawy.
 
-4. Minister w∏aÊciwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej mo˝e okreÊliç, wdrodze rozporzàdzenia, wykaz norm zharmonizowanych i wytycznych do europejskich aprobat technicznych Europejskiej Organizacji do spraw Aprobat Technicznych (EOTA), zwanych dalej „wytycznymi do europejskich aprobat technicznych”, których zakres przedmiotowy obejmuje wyroby budowlane, podlegajàce obowiàzkowi oznakowania CE.
+4. Minister właściwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej może określić, wdrodze rozporządzenia, wykaz norm zharmonizowanych i wytycznych do europejskich aprobat technicznych Europejskiej Organizacji do spraw Aprobat Technicznych (EOTA), zwanych dalej Ńwytycznymi do europejskich aprobat technicznych”, których zakres przedmiotowy obejmuje wyroby budowlane, podlegające obowiązkowi oznakowania CE.
 
-5. Wrozporzàdzeniu, októrym mowa wust. 4, nastwarzaç szczególne zagro˝enie dla zdrowia lub bezpieczeƒstwa, majàc na uwadze odpowiednie ustalenia Komisji Europejskiej tym zakresie.
+5. Wrozporządzeniu, októrym mowa wust. 4, nastwarzać szczególne zagrożenie dla zdrowia lub bezpieczeństwa, mając na uwadze odpowiednie ustalenia Komisji Europejskiej tym zakresie.
 
-**Art. 6.** Oznakowanie CE wyrobu budowlanego wprowadzonego do obrotu na podstawie niniejszej ustawy, do którego majà zastosowanie przepisy wydane na podstawie ustawy z dnia 30 sierpnia 2002 r. osystemie oceny zgodnoÊci (Dz. U. 166, poz. 1360, z 2003 r. 80, poz. 718, 130, poz. 1188, 170, poz. 1652 i 229, poz. 2275 oraz z 2004 r. 70, poz. 631), przewidujàce takie oznakowanie, wskazuje, ˝e wyrób budowlany spe∏nia wymagania zasadnicze, okreÊlone tych przepisach.
+**Art. 6.** Oznakowanie CE wyrobu budowlanego wprowadzonego do obrotu na podstawie niniejszej ustawy, do którego mają zastosowanie przepisy wydane na podstawie ustawy z dnia 30 sierpnia 2002 r. osystemie oceny zgodności (Dz. U. 166, poz. 1360, z 2003 r. 80, poz. 718, 130, poz. 1188, 170, poz. 1652 i 229, poz. 2275 oraz z 2004 r. 70, poz. 631), przewidujące takie oznakowanie, wskazuje, że wyrób budowlany spełnia wymagania zasadnicze, określone tych przepisach.
 
 **Art. 7.**
 
-1. Przy dokonywaniu oceny zgodnoÊci, o której mowa art. 5 ust. 1 pkt 1, mo˝na stosowaç nast´pujàce metody:
+1. Przy dokonywaniu oceny zgodności, o której mowa art. 5 ust. 1 pkt 1, można stosować następujące metody:
 
-- **1)** wst´pne badanie reprezentatywnego wzorca wyrobu (badanie typu) prowadzone przez producenta lub notyfikowanà jednostk´;
-- **2)** badanie próbek pobranych zak∏adzie produkcyjnym, prowadzone przez producenta lub notyfikowanà jednostk´, zgodnie z ustalonym planem badaƒ;
-- **3)** badanie sonda˝owe próbek pobranych wzak∏adzie produkcyjnym, obrocie handlowym lub na budowie, prowadzone przez producenta lub notyfikowanà jednostk´;
-- **4)** badanie przez producenta lub notyfikowanà jednostk´ próbek z partii przygotowanej do wys∏ania albo dostarczonej odbiorcy;
-- **5)** wewn´trznà (zak∏adowà) kontrol´ produkcji;
-- **6)** wst´pnà inspekcj´ zak∏adu produkcyjnego i zak∏adowej kontroli produkcji przez notyfikowanà jednostk´;
-- **7)** dozorowanie, ocen´ i akceptacj´ zak∏adowej kontroli produkcji przez notyfikowanà jednostk´.
+- **1)** wstępne badanie reprezentatywnego wzorca wyrobu (badanie typu) prowadzone przez producenta lub notyfikowaną jednostkę;
+- **2)** badanie próbek pobranych zakładzie produkcyjnym, prowadzone przez producenta lub notyfikowaną jednostkę, zgodnie z ustalonym planem badań;
+- **3)** badanie sondażowe próbek pobranych wzakładzie produkcyjnym, obrocie handlowym lub na budowie, prowadzone przez producenta lub notyfikowaną jednostkę;
+- **4)** badanie przez producenta lub notyfikowaną jednostkę próbek z partii przygotowanej do wysłania albo dostarczonej odbiorcy;
+- **5)** wewnętrzną (zakładową) kontrolę produkcji;
+- **6)** wstępną inspekcję zakładu produkcyjnego i zakładowej kontroli produkcji przez notyfikowaną jednostkę;
+- **7)** dozorowanie, ocenę i akceptację zakładowej kontroli produkcji przez notyfikowaną jednostkę.
 
-2. Minister w∏aÊciwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej okreÊli, wdrodze rozporzàdzenia:
+2. Minister właściwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej określi, wdrodze rozporządzenia:
 
-- **1)** systemy oceny zgodnoÊci, z zastosowaniem metod, o których mowa ust. 1, wymagania, jakie powinny spe∏niaç notyfikowane jednostki uczestniczàce wocenie zgodnoÊci, oraz sposób oznaczania wyrobów oznakowaniem CE, uwzgl´dniajàc odpowiednie wymagania Unii Europejskiej;
-- **2)** polskie jednostki organizacyjne upowa˝nione do wydawania europejskich aprobat technicznych, stawowych,
-    - **b)** dokonywaç oceny przydatnoÊci wyrobu woparciu o podstawy naukowe i wiedz´ praktycznà,
-    - **c)** zapewniaç podejmowanie bezstronnych rozstrzygni´ç,
-    - **d)** dokonywaç analiz danych sposób zapewniajàcy uzyskanie wywa˝onej oceny.
+- **1)** systemy oceny zgodności, z zastosowaniem metod, o których mowa ust. 1, wymagania, jakie powinny spełniać notyfikowane jednostki uczestniczące wocenie zgodności, oraz sposób oznaczania wyrobów oznakowaniem CE, uwzględniając odpowiednie wymagania Unii Europejskiej;
+- **2)** polskie jednostki organizacyjne upoważnione do wydawania europejskich aprobat technicznych, stawowych,
+    - **b)** dokonywać oceny przydatności wyrobu woparciu o podstawy naukowe i wiedzę praktyczną,
+    - **c)** zapewniać podejmowanie bezstronnych rozstrzygnięć,
+    - **d)** dokonywać analiz danych sposób zapewniający uzyskanie wyważonej oceny.
 
-3. Minister w∏aÊciwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej og∏osi, drodze obwieszczenia, Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski” wykaz:
+3. Minister właściwy do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej ogłosi, drodze obwieszczenia, Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” wykaz:
 
-- **1)** mandatów udzielonych przez Komisj´ Europejskà na opracowanie: europejskich norm zharmonizowanych oraz wytycznych do europejskich aprobat technicznych, wraz z zakresem przedmiotowym tych mandatów; zakres iform´ aprobat, tryb ich udzielania, uchylania lub zmiany oraz sposób ustalania odp∏atnoÊci, majàc na uwadze, ˝e jednostki wydajàce europejskie aprobaty techniczne powinny:
-    - **a)** uzale˝niaç pozytywnà ocen´ przydatnoÊci wyro2) jednostek organizacyjnych paƒstw cz∏onkowskich Unii Europejskiej upowa˝nionych do wydawania europejskich aprobat technicznych;
+- **1)** mandatów udzielonych przez Komisję Europejską na opracowanie: europejskich norm zharmonizowanych oraz wytycznych do europejskich aprobat technicznych, wraz z zakresem przedmiotowym tych mandatów; zakres iformę aprobat, tryb ich udzielania, uchylania lub zmiany oraz sposób ustalania odpłatności, mając na uwadze, że jednostki wydające europejskie aprobaty techniczne powinny:
+    - **a)** uzależniać pozytywną ocenę przydatności wyro2) jednostek organizacyjnych państw członkowskich Unii Europejskiej upoważnionych do wydawania europejskich aprobat technicznych;
 
-- **3)** wytycznych do europejskich aprobat technicznych, majàc na uwadze stosowne ustalenia wtym zakresie Komisji Europejskiej, opublikowane wDzienniku Urz´dowym Wspólnot Europejskich oraz publikowane Dzienniku Urz´dowym Unii Europejskiej;
+- **3)** wytycznych do europejskich aprobat technicznych, mając na uwadze stosowne ustalenia wtym zakresie Komisji Europejskiej, opublikowane wDzienniku Urzędowym Wspólnot Europejskich oraz publikowane Dzienniku Urzędowym Unii Europejskiej;
 - **4)** wyrobów budowlanych, o których mowa art. 5 ust. 1 pkt 2.
 
 **Art. 8.**
 
-1. Oznakowanie wyrobu budowlanego znakiem budowlanym jest dopuszczalne, z zastrze˝eniem ust. 2—4, je˝eli producent, majàcy siedzib´ na terytorium Rzeczypospolitej Polskiej, dokona∏ oceny zgodnoÊci i wyda∏, na swojà wy∏àcznà odpowiedzialnoÊç, krajowà deklaracj´ zgodnoÊci zPolskà Normà wyrobu albo aprobatà technicznà. Ocena zgodnoÊci obejmuje w∏aÊciwoÊci u˝ytkowe wyrobu budowlanego, odpowiednio do jego przeznaczenia, majàce wp∏yw na spe∏nienie przez obiekt budowlany wymagaƒ podstawowych.
+1. Oznakowanie wyrobu budowlanego znakiem budowlanym jest dopuszczalne, z zastrzeżeniem ust. 2—4, jeżeli producent, mający siedzibę na terytorium Rzeczypospolitej Polskiej, dokonał oceny zgodności i wydał, na swoją wyłączną odpowiedzialność, krajową deklarację zgodności zPolską Normą wyrobu albo aprobatą techniczną. Ocena zgodności obejmuje właściwości użytkowe wyrobu budowlanego, odpowiednio do jego przeznaczenia, mające wpływ na spełnienie przez obiekt budowlany wymagań podstawowych.
 
-2. Wyrób budowlany wytwarzany tradycyjnie, na okreÊlonym terenie przy u˝yciu metod sprawdzonych wieloletniej praktyce, przeznaczony do lokalnego stosowania, zwany dalej „regionalnym wyrobem budowlanym”, mo˝e byç oznakowany znakiem budowlanym, na wy∏àcznà odpowiedzialnoÊç producenta.
+2. Wyrób budowlany wytwarzany tradycyjnie, na określonym terenie przy użyciu metod sprawdzonych wieloletniej praktyce, przeznaczony do lokalnego stosowania, zwany dalej Ńregionalnym wyrobem budowlanym”, może być oznakowany znakiem budowlanym, na wyłączną odpowiedzialność producenta.
 
-3. Ouznaniu, ˝e dany wyrób budowlany jest regionalnym wyrobem budowlanym, orzeka, drodze decyzji, na wniosek producenta, w∏aÊciwy wojewódzki inspektor nadzoru budowlanego.
+3. Ouznaniu, że dany wyrób budowlany jest regionalnym wyrobem budowlanym, orzeka, drodze decyzji, na wniosek producenta, właściwy wojewódzki inspektor nadzoru budowlanego.
 
-4. Oznakowanie znakiem budowlanym regionalnego wyrobu budowlanego jest dopuszczalne wy∏àcznie po uzyskaniu decyzji, októrej mowa wust. 3, oraz wydaniu, przez producenta, na jego wy∏àcznà odpowie5. Producent jest obowiàzany do przechowywania krajowej deklaracji zgodnoÊci i innych dokumentów zwiàzanych z wprowadzaniem do obrotu wyrobu budowlanego, o którym mowa art. 5 ust. 1 pkt 3.
+4. Oznakowanie znakiem budowlanym regionalnego wyrobu budowlanego jest dopuszczalne wyłącznie po uzyskaniu decyzji, októrej mowa wust. 3, oraz wydaniu, przez producenta, na jego wyłączną odpowie5. Producent jest obowiązany do przechowywania krajowej deklaracji zgodności i innych dokumentów związanych z wprowadzaniem do obrotu wyrobu budowlanego, o którym mowa art. 5 ust. 1 pkt 3.
 
-6. Minister w∏aÊciwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej okreÊli, wdrodze rozporzàdzenia, sposoby:
+6. Minister właściwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej określi, wdrodze rozporządzenia, sposoby:
 
-- **1)** deklarowania zgodnoÊci wyrobów budowlanych;
+- **1)** deklarowania zgodności wyrobów budowlanych;
 - **2)** znakowania wyrobów budowlanych znakiem budowlanym.
 
-7. W rozporzàdzeniu, o którym mowa ust. 6, okreÊla si´ szczególnoÊci:
+7. W rozporządzeniu, o którym mowa ust. 6, określa się szczególności:
 
-- **1)** tryb deklarowania zgodnoÊci oraz wymagane systemy oceny zgodnoÊci dla poszczególnych grup wyrobów, majàc na uwadze metody, o których mowa art. 7 ust. 1;
-- **2)** zawartoÊç i wzór krajowej deklaracji zgodnoÊci;
-- **3)** zakres informacji do∏àczanej do wyrobu budowlanego znakowanego znakiem budowlanym.
+- **1)** tryb deklarowania zgodności oraz wymagane systemy oceny zgodności dla poszczególnych grup wyrobów, mając na uwadze metody, o których mowa art. 7 ust. 1;
+- **2)** zawartość i wzór krajowej deklaracji zgodności;
+- **3)** zakres informacji dołączanej do wyrobu budowlanego znakowanego znakiem budowlanym.
 
 **Art. 9.**
 
-1. Aprobaty technicznej udziela si´ dla wyrobu budowlanego, dla którego nie ustanowiono Polskiej Normy wyrobu, albo wyrobu budowlanego, którego w∏aÊciwoÊci u˝ytkowe, odnoszàce si´ do wymagaƒ podstawowych, ró˝nià si´ istotnie od w∏aÊciwoÊci okreÊlonej Polskiej Normie wyrobu, obj´tego:
+1. Aprobaty technicznej udziela się dla wyrobu budowlanego, dla którego nie ustanowiono Polskiej Normy wyrobu, albo wyrobu budowlanego, którego właściwości użytkowe, odnoszące się do wymagań podstawowych, różnią się istotnie od właściwości określonej Polskiej Normie wyrobu, objętego:
 
-- **1)** mandatem udzielonym przez Komisj´ Europejskà na opracowanie norm zharmonizowanych lub wytycznych do europejskich aprobat technicznych;
+- **1)** mandatem udzielonym przez Komisję Europejską na opracowanie norm zharmonizowanych lub wytycznych do europejskich aprobat technicznych;
 - **2)** wykazem, o którym mowa ust. 7.
 
-2. Aprobaty technicznej udziela si´ odp∏atnie, na koszt wnioskodawcy, na czas okreÊlony dla wyrobu budowlanego, dla którego nie ustanowiono Polskiej Normy wyrobu, albo wyrobu budowlanego, którego w∏aÊciwoÊci u˝ytkowe, odnoszàce si´ do wymagaƒ
+2. Aprobaty technicznej udziela się odpłatnie, na koszt wnioskodawcy, na czas określony dla wyrobu budowlanego, dla którego nie ustanowiono Polskiej Normy wyrobu, albo wyrobu budowlanego, którego właściwości użytkowe, odnoszące się do wymagań
 
 - **1)** numer aprobaty technicznej;
-- **2)** nazw´ wyrobu budowlanego;
-- **3)** okreÊlenie wnioskodawcy;
-- **4)** okreÊlenie rodzaju wyrobu budowlanego, jego typu i przeznaczenie;
-- **5)** wskazanie okresu wa˝noÊci aprobaty technicznej.
+- **2)** nazwę wyrobu budowlanego;
+- **3)** określenie wnioskodawcy;
+- **4)** określenie rodzaju wyrobu budowlanego, jego typu i przeznaczenie;
+- **5)** wskazanie okresu ważności aprobaty technicznej.
 
-6. Minister w∏aÊciwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej okreÊli, wdrodze rozporzàdzenia:
+6. Minister właściwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej określi, wdrodze rozporządzenia:
 
 - **1)** sposób udzielania, zmiany i uchylania aprobat technicznych;
-- **2)** jednostki organizacyjne upowa˝nione do ich wydawania;
-- **3)** wysokoÊç odp∏atnoÊci ztytu∏u weryfikacji wniosku o udzielenie aprobaty technicznej;
-- **4)** sposób ustalania odp∏atnoÊci za przeprowadzone czynnoÊci zwiàzane z udzielaniem, zmianà lub przed∏u˝eniem wa˝noÊci aprobaty technicznej.
+- **2)** jednostki organizacyjne upoważnione do ich wydawania;
+- **3)** wysokość odpłatności ztytułu weryfikacji wniosku o udzielenie aprobaty technicznej;
+- **4)** sposób ustalania odpłatności za przeprowadzone czynności związane z udzielaniem, zmianą lub przedłużeniem ważności aprobaty technicznej.
 
-7. Minister w∏aÊciwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej mo˝e okreÊliç, drodze rozporzàdzenia, wykaz wyrobów budowlanych, nieobj´tych mandatami, o których mowa ust. 1 pkt 1, dla których mo˝liwe jest ustanowienie aprobaty technicznej, na wniosek jednostki organizacyjnej upowa˝nionej do wydawania aprobat technicznych.
+7. Minister właściwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej może określić, drodze rozporządzenia, wykaz wyrobów budowlanych, nieobjętych mandatami, o których mowa ust. 1 pkt 1, dla których możliwe jest ustanowienie aprobaty technicznej, na wniosek jednostki organizacyjnej upoważnionej do wydawania aprobat technicznych.
 
-8. Wrozporzàdzeniu, októrym mowa wust. 6, nale˝y uwzgl´dniç, ˝e post´powanie aprobacyjne powinno byç prowadzone sposób najmniej ucià˝liwy dla wnioskodawców i zapewniç podejmowanie bezstronnych rozstrzygni´ç, a ustalone op∏aty za przeprowadzone czynnoÊci zwiàzane z udzielaniem, zmianà lub przed∏u˝eniem wa˝noÊci aprobaty technicznej powinny odpowiadaç rzeczywistym kosztom tych czynnoÊci. podstawowych, ró˝nià si´ od w∏aÊciwoÊci okreÊlo- Art. 10. 1. Dopuszczone do jednostkowego zastonych Polskiej Normie wyrobu. sowania wobiekcie budowlanym sà wyroby budowlane wykonane wed∏ug indywidualnej dokumentacji
+8. Wrozporządzeniu, októrym mowa wust. 6, należy uwzględnić, że postępowanie aprobacyjne powinno być prowadzone sposób najmniej uciążliwy dla wnioskodawców i zapewnić podejmowanie bezstronnych rozstrzygnięć, a ustalone opłaty za przeprowadzone czynności związane z udzielaniem, zmianą lub przedłużeniem ważności aprobaty technicznej powinny odpowiadać rzeczywistym kosztom tych czynności. podstawowych, różnią się od właściwości określo- Art. 10. 1. Dopuszczone do jednostkowego zastonych Polskiej Normie wyrobu. sowania wobiekcie budowlanym są wyroby budowlane wykonane według indywidualnej dokumentacji
 
-3. Przepis ust. 2 stosuje si´ odpowiednio do zmia- technicznej, sporzàdzonej przez projektanta obiektu ny lub przed∏u˝enia wa˝noÊci aprobaty technicznej. lub z nim uzgodnionej, dla których producent wyda∏ oÊwiadczenie, ˝e zapewniono zgodnoÊç wyrobu bu4. Aprobata techniczna jest udzielana na podsta- dowlanego z tà dokumentacjà oraz z przepisami. wie oceny w∏aÊciwoÊci u˝ytkowych i przewidywanej trwa∏oÊci nale˝ycie zidentyfikowanego wyrobu bu- 2. Indywidualna dokumentacja techniczna, o której dowlanego, potwierdzonych, wzale˝noÊci od potrzeb, mowa ust. 1, powinna zawieraç opis rozwiàzania badaniami, obliczeniami, ogl´dzinami, opiniami ekspertów iinnymi dokumentami, zzastosowaniem przepisów szczególnych, tym techniczno-budowlanych i Polskich Norm wyrobów.
+3. Przepis ust. 2 stosuje się odpowiednio do zmia- technicznej, sporządzonej przez projektanta obiektu ny lub przedłużenia ważności aprobaty technicznej. lub z nim uzgodnionej, dla których producent wydał oświadczenie, że zapewniono zgodność wyrobu bu4. Aprobata techniczna jest udzielana na podsta- dowlanego z tą dokumentacją oraz z przepisami. wie oceny właściwości użytkowych i przewidywanej trwałości należycie zidentyfikowanego wyrobu bu- 2. Indywidualna dokumentacja techniczna, o której dowlanego, potwierdzonych, wzależności od potrzeb, mowa ust. 1, powinna zawierać opis rozwiązania badaniami, obliczeniami, oględzinami, opiniami ekspertów iinnymi dokumentami, zzastosowaniem przepisów szczególnych, tym techniczno-budowlanych i Polskich Norm wyrobów.
 
-5. Jednostki organizacyjne udzielajàce aprobat technicznych sà obowiàzane przekazywaç bezzw∏oczkonstrukcyjnego, charakterystyk´ materia∏owà i informacj´ dotyczàcà projektowanych w∏aÊciwoÊci u˝ytkowych wyrobu budowlanego oraz okreÊlaç warunki jego zastosowania wdanym obiekcie budowlanym, atak˝e, wmiar´ potrzeb, instrukcj´ obs∏ugi ieksploatacji.
+5. Jednostki organizacyjne udzielające aprobat technicznych są obowiązane przekazywać bezzwłoczkonstrukcyjnego, charakterystykę materiałową i informację dotyczącą projektowanych właściwości użytkowych wyrobu budowlanego oraz określać warunki jego zastosowania wdanym obiekcie budowlanym, atakże, wmiarę potrzeb, instrukcję obsługi ieksploatacji.
 
-3. OÊwiadczenie, o którym mowa ust. 1, powin2) nazw´ wyrobu budowlanego i miejsce jego wytworzenia;
+3. Oświadczenie, o którym mowa ust. 1, powin2) nazwę wyrobu budowlanego i miejsce jego wytworzenia;
 
-- **3)** identyfikacj´ dokumentacji technicznej;
-- **4)** stwierdzenie zgodnoÊci wyrobu budowlanego z dokumentacjà technicznà oraz przepisami;
-- **5)** adres obiektu budowlanego (budowy), którym wyrób budowlany ma byç zastosowany;
-- **6)** miejsce i dat´ wydania oraz podpis wydajàcego oÊwiadczenie. Rozdzia∏ 3 Organy w∏aÊciwe zakresie kontroli i post´powania administracyjnego sprawie wyrobów budowlanych wprowadzonych do obrotu oraz obowiàzki tych organów
+- **3)** identyfikację dokumentacji technicznej;
+- **4)** stwierdzenie zgodności wyrobu budowlanego z dokumentacją techniczną oraz przepisami;
+- **5)** adres obiektu budowlanego (budowy), którym wyrób budowlany ma być zastosowany;
+- **6)** miejsce i datę wydania oraz podpis wydającego oświadczenie.
 
-**Art. 11.** Organami w∏aÊciwymi sprawach wyrobów budowlanych wprowadzonych do obrotu, zakresie uregulowanym niniejszej ustawie, oraz organami wyspecjalizowanymi, rozumieniu ustawy zdnia 30 sierpnia 2002 r. osystemie oceny zgodnoÊci, sà:
+#### Rozdział 3 Organy właściwe zakresie kontroli i postępowania administracyjnego sprawie wyrobów budowlanych wprowadzonych do obrotu oraz obowiązki tych organów
 
-**Art. 12.** Do podstawowych obowiàzków w∏aÊciwych organów nale˝y kontrola wprowadzonych do obrotu wyrobów budowlanych, prowadzenie post´powaƒ administracyjnych tym zakresie oraz wykonywanie zadaƒ, o których mowa art. 39 ust. 3 pkt 1—4 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodnoÊci.
+**Art. 11.** Organami właściwymi sprawach wyrobów budowlanych wprowadzonych do obrotu, zakresie uregulowanym niniejszej ustawie, oraz organami wyspecjalizowanymi, rozumieniu ustawy zdnia 30 sierpnia 2002 r. osystemie oceny zgodności, są:
+
+**Art. 12.** Do podstawowych obowiązków właściwych organów należy kontrola wprowadzonych do obrotu wyrobów budowlanych, prowadzenie postępowań administracyjnych tym zakresie oraz wykonywanie zadań, o których mowa art. 39 ust. 3 pkt 1—4 ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności.
 
 **Art. 13.**
 
-1. Do obowiàzków wojewódzkiego inspektora nadzoru budowlanego nale˝y:
+1. Do obowiązków wojewódzkiego inspektora nadzoru budowlanego należy:
 
 - **1)** prowadzenie kontroli planowych i doraênych;
-- **2)** prowadzenie post´powaƒ administracyjnych I instancji;
-- **3)** udzia∏ kontrolach prowadzonych przez G∏ównego Inspektora Nadzoru Budowlanego na jego wezwanie;
-- **4)** zlecanie badaƒ pobranych toku kontroli próbek wyrobów budowlanych;
-- **5)** bezzw∏oczne przekazywanie do G∏ównego Inspektora Nadzoru Budowlanego postanowieƒ idecyzji;
+- **2)** prowadzenie postępowań administracyjnych I instancji;
+- **3)** udział kontrolach prowadzonych przez Głównego Inspektora Nadzoru Budowlanego na jego wezwanie;
+- **4)** zlecanie badań pobranych toku kontroli próbek wyrobów budowlanych;
+- **5)** bezzwłoczne przekazywanie do Głównego Inspektora Nadzoru Budowlanego postanowień idecyzji;
 - **6)** wydawanie dla organów celnych opinii o wyrobach budowlanych.
 
-2. Wojewódzki inspektor nadzoru budowlanego sporzàdza wojewódzki roczny plan kontroli iprzedk∏ada go do zatwierdzenia G∏ównemu Inspektorowi Nadzoru Budowlanego, do dnia 15 listopada roku poprzenia wskazane przez G∏ównego Inspektora Nadzoru Budowlanego.
+2. Wojewódzki inspektor nadzoru budowlanego sporządza wojewódzki roczny plan kontroli iprzedkłada go do zatwierdzenia Głównemu Inspektorowi Nadzoru Budowlanego, do dnia 15 listopada roku poprzenia wskazane przez Głównego Inspektora Nadzoru Budowlanego.
 
-4. Wojewódzki inspektor nadzoru budowlanego sporzàdza sprawozdanie zwykonania planu, októrym mowa ust. 2, uwzgl´dniajàc kontrole doraêne, iprzekazuje je do koƒca marca roku nast´pnego G∏ównemu Inspektorowi Nadzoru Budowlanego. W sprawozdaniu nale˝y zawrzeç informacje sprawozdawcze przekazywane Prezesowi Urz´du Ochrony Konkurencji i Konsumentów, zwanemu dalej „Prezesem UOKiK”.
+4. Wojewódzki inspektor nadzoru budowlanego sporządza sprawozdanie zwykonania planu, októrym mowa ust. 2, uwzględniając kontrole doraêne, iprzekazuje je do końca marca roku następnego Głównemu Inspektorowi Nadzoru Budowlanego. W sprawozdaniu należy zawrzeć informacje sprawozdawcze przekazywane Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, zwanemu dalej ŃPrezesem UOKiK”.
 
 **Art. 14.**
 
-1. Do obowiàzków G∏ównego Inspektora Nadzoru Budowlanego nale˝y:
+1. Do obowiązków Głównego Inspektora Nadzoru Budowlanego należy:
 
 - **1)** prowadzenie Krajowego Wykazu Zakwestionowanych Wyrobów Budowlanych;
 - **2)** zatwierdzanie wojewódzkich rocznych planów kontroli;
 - **3)** przedstawianie Prezesowi UOKiK do zaopiniowania okresowych planów kontroli wprowadzonych do obrotu wyrobów budowlanych, o których mowa art. 5 ust. 1 pkt 1;
-- **4)** sporzàdzanie i przekazywanie Prezesowi UOKiK rocznych sprawozdaƒ z przeprowadzonych kontroli wprowadzonych do obrotu wyrobów budowlanych, o których mowa art. 5 ust. 1 pkt 1.
+- **4)** sporządzanie i przekazywanie Prezesowi UOKiK rocznych sprawozdań z przeprowadzonych kontroli wprowadzonych do obrotu wyrobów budowlanych, o których mowa art. 5 ust. 1 pkt 1.
 
-2. G∏ówny Inspektor Nadzoru Budowlanego mo˝e:
+2. Główny Inspektor Nadzoru Budowlanego może:
 
-- **1)** sporzàdzaç roczne plany kontroli;
-- **2)** prowadziç kontrole planowe i doraêne;
-- **3)** zlecaç badania pobranych, wtoku kontroli, próbek wyrobów budowlanych.
+- **1)** sporządzać roczne plany kontroli;
+- **2)** prowadzić kontrole planowe i doraêne;
+- **3)** zlecać badania pobranych, wtoku kontroli, próbek wyrobów budowlanych.
 
-3. G∏ówny Inspektor Nadzoru Budowlanego mo˝e wezwaç wojewódzkiego inspektora nadzoru budowlanego do:
+3. Główny Inspektor Nadzoru Budowlanego może wezwać wojewódzkiego inspektora nadzoru budowlanego do:
 
-- **1)** udzia∏u prowadzonej kontroli, o której mowa ust. 2 pkt 2;
-- **2)** przeprowadzenia doraênej kontroli okreÊlonym zakresie;
-- **3)** wprowadzenia do wojewódzkiego rocznego planu kontroli okreÊlonych zadaƒ.
+- **1)** udziału prowadzonej kontroli, o której mowa ust. 2 pkt 2;
+- **2)** przeprowadzenia doraênej kontroli określonym zakresie;
+- **3)** wprowadzenia do wojewódzkiego rocznego planu kontroli określonych zadań.
 
 **Art. 15.**
 
-1. W Krajowym Wykazie Zakwestionowanych Wyrobów Budowlanych, zwanym dalej „Wykazem”, sà gromadzone dane i informacje dotyczàce wyrobów budowlanych podlegajàcych oznakowaniu znakiem budowlanym, niezgodnych z wymaganiami okreÊlonymi niniejszej ustawie, a szczególnoÊci:
+1. W Krajowym Wykazie Zakwestionowanych Wyrobów Budowlanych, zwanym dalej ŃWykazem”, są gromadzone dane i informacje dotyczące wyrobów budowlanych podlegających oznakowaniu znakiem budowlanym, niezgodnych z wymaganiami określonymi niniejszej ustawie, a szczególności:
 
-- **1)** dane umo˝liwiajàce identyfikacj´ zakwestionowanego wyrobu budowlanego;
+- **1)** dane umożliwiające identyfikację zakwestionowanego wyrobu budowlanego;
 - **2)** informacje o:
-    - **a)** rodzaju izakresie niezgodnoÊci zakwestionowac) zagro˝eniach, jakie mo˝e spowodowaç zakwestionowany wyrób budowlany, wraz z okreÊleniem tych zagro˝eƒ.
+    - **a)** rodzaju izakresie niezgodności zakwestionowac) zagrożeniach, jakie może spowodować zakwestionowany wyrób budowlany, wraz z określeniem tych zagrożeń.
 
-2. G∏ówny Inspektor Nadzoru Budowlanego dokonuje wpisów do Wykazu przypadku wydania decyzji, o których mowa art. 30 ust. 1 pkt 2 i ust. 2 oraz art. 31 ust. 1 pkt 2 i ust. 2.
+2. Główny Inspektor Nadzoru Budowlanego dokonuje wpisów do Wykazu przypadku wydania decyzji, o których mowa art. 30 ust. 1 pkt 2 i ust. 2 oraz art. 31 ust. 1 pkt 2 i ust. 2.
 
-3. G∏ówny Inspektor Nadzoru Budowlanego, na wniosek wojewódzkiego inspektora nadzoru budowlanego lub z urz´du, usuwa wpis Wykazie, nie wczeÊniej ni˝ terminie 6 miesi´cy od dnia, którym decyzje, októrych mowa wart. 30 ust. 1 pkt 2 iust. 2 oraz art. 31 ust. 1 pkt 2 i ust. 2, sta∏y si´ ostateczne, przypadku gdy:
+3. Główny Inspektor Nadzoru Budowlanego, na wniosek wojewódzkiego inspektora nadzoru budowlanego lub z urzędu, usuwa wpis Wykazie, nie wcześniej niż terminie 6 miesięcy od dnia, którym decyzje, októrych mowa wart. 30 ust. 1 pkt 2 iust. 2 oraz art. 31 ust. 1 pkt 2 i ust. 2, stały się ostateczne, przypadku gdy:
 
-- **1)** producent udowodni, ˝e wycofa∏ z obrotu wszystkie egzemplarze zakwestionowanego wyrobu budowlanego;
-- **2)** niezgodnoÊci zakwestionowanego wyrobu budowlanego z wymaganiami okreÊlonymi niniejszej ustawie zosta∏y usuni´te.
+- **1)** producent udowodni, że wycofał z obrotu wszystkie egzemplarze zakwestionowanego wyrobu budowlanego;
+- **2)** niezgodności zakwestionowanego wyrobu budowlanego z wymaganiami określonymi niniejszej ustawie zostały usunięte.
 
-4. Wykaz jest publicznie dost´pny.
+4. Wykaz jest publicznie dostępny.
 
-5. G∏ówny Inspektor Nadzoru Budowlanego mo˝e, wka˝dym czasie, podaç do publicznej wiadomoÊci informacje zawarte Wykazie.
+5. Główny Inspektor Nadzoru Budowlanego może, wkażdym czasie, podać do publicznej wiadomości informacje zawarte Wykazie.
 
-6. Minister w∏aÊciwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej okreÊli, wdrodze rozporzàdzenia, sposób prowadzenia Wykazu.
+6. Minister właściwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej określi, wdrodze rozporządzenia, sposób prowadzenia Wykazu.
 
-7. Rozporzàdzenie, o którym mowa ust. 6, powinno okreÊlaç szczególnoÊci:
+7. Rozporządzenie, o którym mowa ust. 6, powinno określać szczególności:
 
 - **1)** wzór Wykazu;
 - **2)** sposób dokonywania i usuwania wpisów tym Wykazie;
-- **3)** niezb´dne informacje o decyzjach, o których mowa wart. 30 ust. 1 pkt 2 iust. 2 oraz wart. 31 ust. 1 art. 5 ust. 1 pkt 1, mo˝e uczestniczyç, za zgodà tego organu, pracownik Urz´du Ochrony Konkurencji i Konsumentów, upowa˝niony przez Prezesa UOKiK.
+- **3)** niezbędne informacje o decyzjach, o których mowa wart. 30 ust. 1 pkt 2 iust. 2 oraz wart. 31 ust. 1 art. 5 ust. 1 pkt 1, może uczestniczyć, za zgodą tego organu, pracownik Urzędu Ochrony Konkurencji i Konsumentów, upoważniony przez Prezesa UOKiK.
 
 **Art. 17.**
 
-1. Kontrol´ przeprowadza si´ siedzibie kontrolowanego lub miejscu wykonywania jego dzia∏alnoÊci, wczasie jej wykonywania oraz wobecnoÊci kontrolowanego.
+1. Kontrolę przeprowadza się siedzibie kontrolowanego lub miejscu wykonywania jego działalności, wczasie jej wykonywania oraz wobecności kontrolowanego.
 
-2. CzynnoÊci kontrolne mogà byç przeprowadzone siedzibie w∏aÊciwego organu, je˝eli jest to niezb´dne do wyjaÊnienia okolicznoÊci sprawy.
+2. Czynności kontrolne mogą być przeprowadzone siedzibie właściwego organu, jeżeli jest to niezbędne do wyjaśnienia okoliczności sprawy.
 
-3. Kontrola mo˝e dotyczyç wyrobu budowlanego, prawid∏owoÊci jego oznakowania lub dokumentacji technicznej dotyczàcej tego wyrobu.
+3. Kontrola może dotyczyć wyrobu budowlanego, prawidłowości jego oznakowania lub dokumentacji technicznej dotyczącej tego wyrobu.
 
-4. Kontrolowany oraz inne podmioty posiadajàce dowody lub informacje niezb´dne do ustalenia, czy wyrób budowlany spe∏nia wymagania okreÊlone niniejszà ustawà, sà obowiàzani do przekazania tych dowodów iudzielenia informacji na ˝àdanie organu prowadzàcego kontrol´.
+4. Kontrolowany oraz inne podmioty posiadające dowody lub informacje niezbędne do ustalenia, czy wyrób budowlany spełnia wymagania określone niniejszą ustawą, są obowiązani do przekazania tych dowodów iudzielenia informacji na żądanie organu prowadzącego kontrolę.
 
-5. ˚àdanie, o którym mowa ust. 4, powinno zawieraç:
+5. ˚ądanie, o którym mowa ust. 4, powinno zawierać:
 
-- **1)** okreÊlenie rodzaju dowodów oraz rodzaju i zakresu informacji, którego dotyczy;
-- **2)** wskazanie celu ˝àdania;
-- **3)** okreÊlenie terminu udost´pnienia dowodów lub udzielenia informacji;
-- **4)** pouczenie o skutkach nieudost´pnienia ˝àdanych dowodów lub informacji albo udost´pnienia dowodów lub informacji nieprawdziwych lub wprowadzajàcych b∏àd.
+- **1)** określenie rodzaju dowodów oraz rodzaju i zakresu informacji, którego dotyczy;
+- **2)** wskazanie celu żądania;
+- **3)** określenie terminu udostępnienia dowodów lub udzielenia informacji;
+- **4)** pouczenie o skutkach nieudostępnienia żądanych dowodów lub informacji albo udostępnienia dowodów lub informacji nieprawdziwych lub wprowadzających błąd.
 
 **Art. 18.**
 
-1. Wtrakcie kontroli kontrolujàcy mo˝e ˝àdaç od kontrolowanego producenta przedstawienia, wyznaczonym terminie, szczególnoÊci:
+1. Wtrakcie kontroli kontrolujący może żądać od kontrolowanego producenta przedstawienia, wyznaczonym terminie, szczególności:
 
-- **1)** deklaracji zgodnoÊci wyrobu budowlanego; pkt 2 i ust. 2.
-- **2)** nazwy i adresu producenta, je˝eli kontrolowanym Rozdzia∏ 4 jest jego upowa˝niony przedstawiciel;
-- **3)** wykazu uwzgl´dnionych specyfikacji technicznych, Kontrola wyrobów budowlanych wprowadzo- o których mowa art. 5 ust. 1 pkt 1 lub ust. 2, nych do obrotu uwzgl´dnionych Polskich Norm wyrobu albo aprobat technicznych;
+- **1)** deklaracji zgodności wyrobu budowlanego; pkt 2 i ust. 2.
+- **2)** nazwy i adresu producenta, jeżeli kontrolowanym
+
+#### Rozdział 4 jest jego upoważniony przedstawiciel;
 
 **Art. 16.**
 
-1. W∏aÊciwy organ wszczyna kontrol´ z urz´du, a przypadku wyrobów budowlanych, 4) ogólnego opisu wyrobu budowlanego, schemaoktórych mowa wart. 5 ust. 1 pkt 1, równie˝ na wnio- tów oraz instrukcji obs∏ugi tego wyrobu. sek Prezesa UOKiK.
+1. Właściwy organ wszczyna kontrolę z urzędu, a przypadku wyrobów budowlanych, 4) ogólnego opisu wyrobu budowlanego, schemaoktórych mowa wart. 5 ust. 1 pkt 1, również na wnio- tów oraz instrukcji obsługi tego wyrobu. sek Prezesa UOKiK.
 
-2. W przypadku uzasadnionych wàtpliwoÊci co do
+2. W przypadku uzasadnionych wątpliwości co do
 
-2. W∏aÊciwy organ lub osoba dzia∏ajàca zjego upo- zgodnoÊci wyrobu budowlanego z wymaganiami wa˝nienia, zwane dalej „kontrolujàcym”, majà prawo okreÊlonymi niniejszej ustawie, kontrolujàcy mo˝e wst´pu na teren, na którym jest prowadzona dzia∏al- dodatkowo za˝àdaç od producenta przedstawienia, noÊç gospodarcza polegajàca na obrocie wyrobami wyznaczonym terminie, dokumentów zwiàzanych
+2. Właściwy organ lub osoba działająca zjego upo- zgodności wyrobu budowlanego z wymaganiami ważnienia, zwane dalej Ńkontrolującym”, mają prawo określonymi niniejszej ustawie, kontrolujący może wstępu na teren, na którym jest prowadzona działal- dodatkowo zażądać od producenta przedstawienia, ność gospodarcza polegająca na obrocie wyrobami wyznaczonym terminie, dokumentów związanych
 
-- **2)** informacji o wewn´trznej (zak∏adowej) kontroli produkcji.
+- **2)** informacji o wewnętrznej (zakładowej) kontroli produkcji.
 
-3. W przypadku gdy kontrolowany wyrób budowlany stwarza zagro˝enie dla ˝ycia, zdrowia, mienia lub Êrodowiska, kontrolujàcy mo˝e za˝àdaç od producenta przedstawienia, wyznaczonym terminie, pe∏nej dokumentacji technicznej.
+3. W przypadku gdy kontrolowany wyrób budowlany stwarza zagrożenie dla życia, zdrowia, mienia lub środowiska, kontrolujący może zażądać od producenta przedstawienia, wyznaczonym terminie, pełnej dokumentacji technicznej.
 
-4. W trakcie kontroli kontrolujàcy mo˝e ˝àdaç od kontrolowanego sprzedawcy, szczególnoÊci:
+4. W trakcie kontroli kontrolujący może żądać od kontrolowanego sprzedawcy, szczególności:
 
 - **1)** wskazania nazwy i adresu producenta;
-- **2)** ogólnego opisu wyrobu budowlanego, schematów oraz instrukcji obs∏ugi tego wyrobu.
+- **2)** ogólnego opisu wyrobu budowlanego, schematów oraz instrukcji obsługi tego wyrobu.
 
-5. W trakcie kontroli kontrolujàcy mo˝e ponadto szczególnoÊci:
+5. W trakcie kontroli kontrolujący może ponadto szczególności:
 
-- **1)** badaç dokumenty zakresie obj´tym kontrolà oraz ˝àdaç od producenta sporzàdzenia ich kopii oraz t∏umaczeƒ na j´zyk polski, je˝eli jest to niezb´dne do przeprowadzenia kontroli;
-- **2)** dokonywaç ogl´dzin wyrobów budowlanych wzakresie obj´tym kontrolà;
-- **3)** legitymowaç osoby celu stwierdzenia ich to˝samoÊci, je˝eli jest to niezb´dne dla potrzeb kontroli;
-- **4)** ˝àdaç od kontrolowanego udzielenia wyznaczonym terminie pisemnych i ustnych wyjaÊnieƒ sprawach obj´tych zakresem kontroli;
-- **5)** przes∏uchiwaç osoby charakterze strony, Êwiadka lub bieg∏ego, je˝eli jest to niezb´dne do wyczerpujàcego wyjaÊnienia okolicznoÊci sprawy;
-- **6)** zasi´gaç opinii bieg∏ych, je˝eli jest to niezb´dne dla potrzeb kontroli;
-- **7)** zabezpieczaç dowody, wyroby budowlane, pomieszczenia lub Êrodki przewozowe;
-- **8)** pobieraç nieodp∏atnie próbki wyrobów budowlanych do badaƒ.
+- **1)** badać dokumenty zakresie objętym kontrolą oraz żądać od producenta sporządzenia ich kopii oraz tłumaczeń na język polski, jeżeli jest to niezbędne do przeprowadzenia kontroli;
+- **2)** dokonywać oględzin wyrobów budowlanych wzakresie objętym kontrolą;
+- **3)** legitymować osoby celu stwierdzenia ich tożsamości, jeżeli jest to niezbędne dla potrzeb kontroli;
+- **4)** żądać od kontrolowanego udzielenia wyznaczonym terminie pisemnych i ustnych wyjaśnień sprawach objętych zakresem kontroli;
+- **5)** przesłuchiwać osoby charakterze strony, świadka lub biegłego, jeżeli jest to niezbędne do wyczerpującego wyjaśnienia okoliczności sprawy;
+- **6)** zasięgać opinii biegłych, jeżeli jest to niezbędne dla potrzeb kontroli;
+- **7)** zabezpieczać dowody, wyroby budowlane, pomieszczenia lub środki przewozowe;
+- **8)** pobierać nieodpłatnie próbki wyrobów budowlanych do badań.
 
-6. Kontrolowany jest obowiàzany:
+6. Kontrolowany jest obowiązany:
 
-- **1)** umo˝liwiç kontrolujàcemu dokonanie czynnoÊci kontrolnych, o których mowa ust. 5;
-- **2)** potwierdziç zgodnoÊç kopii dokumentów z orygina∏ami.
+- **1)** umożliwić kontrolującemu dokonanie czynności kontrolnych, o których mowa ust. 5;
+- **2)** potwierdzić zgodność kopii dokumentów z oryginałami.
 
 **Art. 19.**
 
-1. Informacje uzyskane przez w∏aÊciwy organ trakcie kontroli lub post´powania administrasprzedawcy bàdê inne informacje, co do których producent lub sprzedawca podjà∏ niezb´dne dzia∏ania celu zachowania ich poufnoÊci, mogà byç wykorzystane wy∏àcznie do celów, dla których zosta∏y zgromadzone.
+1. Informacje uzyskane przez właściwy organ trakcie kontroli lub postępowania administrasprzedawcy bądê inne informacje, co do których producent lub sprzedawca podjął niezbędne działania celu zachowania ich poufności, mogą być wykorzystane wyłącznie do celów, dla których zostały zgromadzone.
 
-3. Je˝eli zachodzi potrzeba ujawnienia informacji, októrych mowa wust. 1 lub 2, oraz dowodów uzyskanych trakcie kontroli lub post´powania administracyjnego, w∏aÊciwy organ lub Prezes UOKiK wprzypadku wyrobów, o których mowa art. 5 ust. 1 pkt 1, ujawni je wzakresie niezb´dnym do wyjaÊnienia podj´tych rozstrzygni´ç.
+3. Jeżeli zachodzi potrzeba ujawnienia informacji, októrych mowa wust. 1 lub 2, oraz dowodów uzyskanych trakcie kontroli lub postępowania administracyjnego, właściwy organ lub Prezes UOKiK wprzypadku wyrobów, o których mowa art. 5 ust. 1 pkt 1, ujawni je wzakresie niezbędnym do wyjaśnienia podjętych rozstrzygnięć.
 
 **Art. 20.**
 
-1. Kontrolujàcy jest uprawniony, za okazaniem legitymacji s∏u˝bowej, do wst´pu na teren jednostki kontrolowanej, poruszania si´ po tym terenie oraz znajdujàcych si´ tam obiektach i pomieszczeniach. cyjnego nie podlegajà ujawnieniu, je˝eli przekazujàcy je wska˝e przyczyn´, z powodu której wnioskuje o ich nieujawnienie.
+1. Kontrolujący jest uprawniony, za okazaniem legitymacji służbowej, do wstępu na teren jednostki kontrolowanej, poruszania się po tym terenie oraz znajdujących się tam obiektach i pomieszczeniach. cyjnego nie podlegają ujawnieniu, jeżeli przekazujący je wskaże przyczynę, z powodu której wnioskuje o ich nieujawnienie.
 
-2. Informacje uzyskane trakcie kontroli lub post´powania administracyjnego, obj´te tajemnicà pro2. Do kontrolujàcego stosuje si´ przepisy bezpieczeƒstwa i higieny pracy obowiàzujàce jednostce kontrolowanej.
+2. Informacje uzyskane trakcie kontroli lub postępowania administracyjnego, objęte tajemnicą pro2. Do kontrolującego stosuje się przepisy bezpieczeństwa i higieny pracy obowiązujące jednostce kontrolowanej.
 
 **Art. 21.**
 
-1. Kontrolujàcy dokumentuje ustalenia kontroli protokole kontroli, który przedstawia kontrolowanemu do podpisu.
+1. Kontrolujący dokumentuje ustalenia kontroli protokole kontroli, który przedstawia kontrolowanemu do podpisu.
 
-2. Kontrolowany mo˝e zg∏osiç uwagi bezpoÊrednio do protoko∏u kontroli lub wnieÊç je na piÊmie, wterminie 7 dni od dnia przedstawienia protoko∏u do podpisu.
+2. Kontrolowany może zgłosić uwagi bezpośrednio do protokołu kontroli lub wnieść je na piśmie, wterminie 7 dni od dnia przedstawienia protokołu do podpisu.
 
-3. W∏aÊciwy organ jest obowiàzany ustosunkowaç si´ do uwag zg∏oszonych do protoko∏u kontroli niezw∏ocznie, jednak nie póêniej ni˝ wterminie 14 dni od dnia ich otrzymania.
+3. Właściwy organ jest obowiązany ustosunkować się do uwag zgłoszonych do protokołu kontroli niezwłocznie, jednak nie póêniej niż wterminie 14 dni od dnia ich otrzymania.
 
 **Art. 22.**
 
-1. W∏aÊciwy organ mo˝e, drodze postanowienia, dokonaç zabezpieczenia dowodów na czas niezb´dny do realizacji zadaƒ kontroli. Na postanowienie przys∏uguje za˝alenie.
+1. Właściwy organ może, drodze postanowienia, dokonać zabezpieczenia dowodów na czas niezbędny do realizacji zadań kontroli. Na postanowienie przysługuje zażalenie.
 
-2. Zabezpieczeniu, októrym mowa wust. 1, podlegajà szczególnoÊci dokumenty, informacje oraz wyroby budowlane, je˝eli stanowià lub mogà stanowiç dowód nieprawid∏owoÊci stwierdzonych toku kontroli.
+2. Zabezpieczeniu, októrym mowa wust. 1, podlegają szczególności dokumenty, informacje oraz wyroby budowlane, jeżeli stanowią lub mogą stanowić dowód nieprawidłowości stwierdzonych toku kontroli.
 
-3. W∏aÊciwy organ, który wyda∏ wIinstancji postanowienie, októrym mowa wust. 1, stwierdza jego wygaÊni´cie, je˝eli usta∏y przyczyny powodujàce koniecznoÊç zabezpieczenia dowodów.
+3. Właściwy organ, który wydał wIinstancji postanowienie, októrym mowa wust. 1, stwierdza jego wygaśnięcie, jeżeli ustały przyczyny powodujące konieczność zabezpieczenia dowodów.
 
 **Art. 23.**
 
-1. W zwiàzku z wykonywaniem czynnoÊci kontrolnych kontrolujàcy korzysta z ochrony przewidzianej Kodeksie karnym dla funkcjonariuszy publicznych.
+1. W związku z wykonywaniem czynności kontrolnych kontrolujący korzysta z ochrony przewidzianej Kodeksie karnym dla funkcjonariuszy publicznych.
 
-2. W∏aÊciwy miejscowo komendant Policji jest obowiàzany, na wniosek w∏aÊciwego organu, do zapewnienia kontrolujàcemu pomocy Policji trakcie drodze rozporzàdzenia, sposób przygotowania i prowadzenia kontroli przez w∏aÊciwe organy.
+2. Właściwy miejscowo komendant Policji jest obowiązany, na wniosek właściwego organu, do zapewnienia kontrolującemu pomocy Policji trakcie drodze rozporządzenia, sposób przygotowania i prowadzenia kontroli przez właściwe organy.
 
-2. Rozporzàdzenie, o którym mowa ust. 1, powinno okreÊlaç szczególnoÊci:
+2. Rozporządzenie, o którym mowa ust. 1, powinno określać szczególności:
 
-- **1)** sposób zabezpieczania dowodów, pomieszczeƒ i Êrodków przewozowych;
-- **2)** wzór upowa˝nienia do przeprowadzania kontroli;
-- **3)** wzory protoko∏ów kontroli.
+- **1)** sposób zabezpieczania dowodów, pomieszczeń i środków przewozowych;
+- **2)** wzór upoważnienia do przeprowadzania kontroli;
+- **3)** wzory protokołów kontroli.
 
 **Art. 25.**
 
-1. W przypadku gdy producent nie przedstawi kontrolujàcemu dokumentów zwiàzanych zocenà zgodnoÊci wyrobu budowlanego bàdê z przedstawionych dokumentów nie wynika, ˝e wyrób budowlany spe∏nia wymagania okreÊlone niniejszà ustawà, w∏aÊciwy organ mo˝e poddaç wyrób budowlany badaniom lub zleciç ich przeprowadzenie.
+1. W przypadku gdy producent nie przedstawi kontrolującemu dokumentów związanych zoceną zgodności wyrobu budowlanego bądê z przedstawionych dokumentów nie wynika, że wyrób budowlany spełnia wymagania określone niniejszą ustawą, właściwy organ może poddać wyrób budowlany badaniom lub zlecić ich przeprowadzenie.
 
-2. W celu ustalenia, czy wyrób budowlany spe∏nia wymagania okreÊlone niniejszà ustawà, mo˝na pobieraç próbki wyrobu budowlanego, wiloÊciach niezb´dnych do przeprowadzenia badaƒ.
+2. W celu ustalenia, czy wyrób budowlany spełnia wymagania określone niniejszą ustawą, można pobierać próbki wyrobu budowlanego, wilościach niezbędnych do przeprowadzenia badań.
 
-3. Pobranie próbki wyrobu budowlanego stwierdza si´ przez sporzàdzenie protoko∏u.
+3. Pobranie próbki wyrobu budowlanego stwierdza się przez sporządzenie protokołu.
 
-4. RównoczeÊnie z pobraniem próbki wyrobu budowlanego nale˝y, z zastrze˝eniem ust. 6, pobraç i zabezpieczyç dodatkowà próbk´ kontrolnà wyrobu budowlanego z tej samej partii iloÊci odpowiadajàcej iloÊci pobranej do badaƒ.
+4. Równocześnie z pobraniem próbki wyrobu budowlanego należy, z zastrzeżeniem ust. 6, pobrać i zabezpieczyć dodatkową próbkę kontrolną wyrobu budowlanego z tej samej partii ilości odpowiadającej ilości pobranej do badań.
 
-5. Próbka kontrolna jest przechowywana przez kontrolowanego, do czasu jej zwolnienia przez w∏aÊciwy organ, warunkach uniemo˝liwiajàcych zmian´ jakoÊci lub cech charakterystycznych wyrobu budowlanego.
+5. Próbka kontrolna jest przechowywana przez kontrolowanego, do czasu jej zwolnienia przez właściwy organ, warunkach uniemożliwiających zmianę jakości lub cech charakterystycznych wyrobu budowlanego.
 
-6. Próbki kontrolnej nie pobiera si´, je˝eli:
+6. Próbki kontrolnej nie pobiera się, jeżeli:
 
-- **1)** pobranie próbki by∏oby utrudnione z uwagi na wartoÊç, rodzaj lub niewielkà iloÊç wyrobu budowlanego;
-- **2)** przechowanie próbki warunkach uniemo˝liwiajàcych zmian´ jakoÊci lub cech charakterystycznych wyrobu budowlanego jest niemo˝liwe.
+- **1)** pobranie próbki byłoby utrudnione z uwagi na wartość, rodzaj lub niewielką ilość wyrobu budowlanego;
+- **2)** przechowanie próbki warunkach uniemożliwiających zmianę jakości lub cech charakterystycznych wyrobu budowlanego jest niemożliwe.
 
 **Art. 26.**
 
-1. W∏aÊciwy organ mo˝e zleciç badanie pobranych próbek wyrobu budowlanego lub próbek kontrolnych akredytowanemu laboratorium.
+1. Właściwy organ może zlecić badanie pobranych próbek wyrobu budowlanego lub próbek kontrolnych akredytowanemu laboratorium.
 
-2. Po przeprowadzeniu badaƒ sporzàdza si´ sprawozdanie zbadaƒ, które do∏àcza si´ do protoko∏u kontroli.
+2. Po przeprowadzeniu badań sporządza się sprawozdanie zbadań, które dołącza się do protokołu kontroli.
 
-3. Je˝eli przeprowadzone badania wykaza∏y, ˝e wyrób budowlany nie spe∏nia wymagaƒ okreÊlonych niniejszà ustawà, producent jest obowiàzany do uiszczenia op∏aty stanowiàcej równowartoÊç kosztów chowywania próbki.
+3. Jeżeli przeprowadzone badania wykazały, że wyrób budowlany nie spełnia wymagań określonych niniejszą ustawą, producent jest obowiązany do uiszczenia opłaty stanowiącej równowartość kosztów chowywania próbki.
 
-4. Op∏at´, o której mowa ust. 3, w∏aÊciwy organ ustala, drodze postanowienia, na które przys∏uguje za˝alenie. Op∏at´ uiszcza si´ wterminie 14 dni od dnia dor´czenia postanowienia. Wprzypadku nieuiszczenia jej terminie podlega ona Êciàgni´ciu trybie przepisów opost´powaniu egzekucyjnym wadministracji.
+4. Opłatę, o której mowa ust. 3, właściwy organ ustala, drodze postanowienia, na które przysługuje zażalenie. Opłatę uiszcza się wterminie 14 dni od dnia doręczenia postanowienia. Wprzypadku nieuiszczenia jej terminie podlega ona ściągnięciu trybie przepisów opostępowaniu egzekucyjnym wadministracji.
 
-5. Op∏ata, októrej mowa wust. 3, stanowi dochód bud˝etu paƒstwa.
+5. Opłata, októrej mowa wust. 3, stanowi dochód budżetu państwa.
 
-6. W przypadku gdy przeprowadzone badania wykaza∏y, ˝e wyrób budowlany spe∏nia wymagania okreÊlone niniejszà ustawà, koszty przeprowadzonych badaƒ ponosi Skarb Paƒstwa.
+6. W przypadku gdy przeprowadzone badania wykazały, że wyrób budowlany spełnia wymagania określone niniejszą ustawą, koszty przeprowadzonych badań ponosi Skarb Państwa.
 
 **Art. 27.**
 
-1. Minister w∏aÊciwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej okreÊli, drodze rozporzàdzenia:
+1. Minister właściwy do spraw budownictwa, gospodarki przestrzennej imieszkaniowej określi, drodze rozporządzenia:
 
 - **1)** sposób pobierania oraz badania próbki wyrobu budowlanego;
-- **2)** wzór protoko∏u pobrania próbki wyrobu budowlanego lub próbki kontrolnej;
+- **2)** wzór protokołu pobrania próbki wyrobu budowlanego lub próbki kontrolnej;
 - **3)** sposób zabezpieczenia próbek wyrobu budowlanego i próbek kontrolnych;
-- **4)** wzór sprawozdania z badaƒ;
-- **5)** sposób post´powania z pozosta∏oÊciami po próbkach;
-- **6)** sposób ustalania, uiszczania izwrotu op∏aty, októrej mowa art. 26 ust. 3.
+- **4)** wzór sprawozdania z badań;
+- **5)** sposób postępowania z pozostałościami po próbkach;
+- **6)** sposób ustalania, uiszczania izwrotu opłaty, októrej mowa art. 26 ust. 3.
 
-2. Wydajàc rozporzàdzenie, o którym mowa ust. 1, nale˝y uwzgl´dniç, ˝e sposób pobierania próbki nie mo˝e stanowiç nadmiernego utrudnienia dla kontrolowanego, sposób zabezpieczenia próbki powinien zapewniç jej ochron´ przed zniszczeniem lub uszkodzeniem, a koszty badaƒ powinny odpowiadaç rzeczywistym kosztom pobrania, badania, transportu i przechowywania próbki. Rozdzia∏ 5 Post´powanie administracyjne sprawach wyrobów budowlanych wprowadzonych do obrotu
+2. Wydając rozporządzenie, o którym mowa ust. 1, należy uwzględnić, że sposób pobierania próbki nie może stanowić nadmiernego utrudnienia dla kontrolowanego, sposób zabezpieczenia próbki powinien zapewnić jej ochronę przed zniszczeniem lub uszkodzeniem, a koszty badań powinny odpowiadać rzeczywistym kosztom pobrania, badania, transportu i przechowywania próbki.
 
-**Art. 28.** Post´powanie sprawie wyrobów budowlanych niespe∏niajàcych wymagaƒ okreÊlonych wniniejszej ustawie wszczyna si´ zurz´du, na podstawie ustaleƒ kontroli.
+#### Rozdział 5 Postępowanie administracyjne sprawach wyrobów budowlanych wprowadzonych do obrotu
+
+**Art. 28.** Postępowanie sprawie wyrobów budowlanych niespełniających wymagań określonych wniniejszej ustawie wszczyna się zurzędu, na podstawie ustaleń kontroli.
 
 **Art. 29.**
 
-1. W razie koniecznoÊci przeprowadzenia badaƒ celu stwierdzenia, czy wyrób budowlany spe∏nia wymagania okreÊlone niniejszej ustawie, w∏aÊciwy organ mo˝e wydaç postanowienie o zabezpieczeniu wyrobu budowlanego albo jego okreÊlonej
+1. W razie konieczności przeprowadzenia badań celu stwierdzenia, czy wyrób budowlany spełnia wymagania określone niniejszej ustawie, właściwy organ może wydać postanowienie o zabezpieczeniu wyrobu budowlanego albo jego określonej
 
-3. Zabezpieczenia wyrobu budowlanego albo jego okreÊlonej partii dokonuje si´ przez jego opiecz´towanie oraz sporzàdzenie inwentaryzacji formie protoko∏u.
+3. Zabezpieczenia wyrobu budowlanego albo jego określonej partii dokonuje się przez jego opieczętowanie oraz sporządzenie inwentaryzacji formie protokołu.
 
 **Art. 30.**
 
-1. W∏aÊciwy organ, wyniku kontroli dotyczàcej sprzedawcy, przypadku stwierdzenia, ˝e wyrób budowlany nie spe∏nia wymagaƒ okreÊlonych niniejszej ustawie, orzeka, drodze decyzji:
+1. Właściwy organ, wyniku kontroli dotyczącej sprzedawcy, przypadku stwierdzenia, że wyrób budowlany nie spełnia wymagań określonych niniejszej ustawie, orzeka, drodze decyzji:
 
-- **1)** zakaz dalszego przekazywania okreÊlonej partii wyrobu budowlanego, nak∏adajàc na producenta obowiàzek zapewnienia usuni´cia wyznaczonym terminie okreÊlonych nieprawid∏owoÊci, albo
-- **2)** nakaz wycofania z obrotu wyrobu budowlanego albo jego okreÊlonej partii.
+- **1)** zakaz dalszego przekazywania określonej partii wyrobu budowlanego, nakładając na producenta obowiązek zapewnienia usunięcia wyznaczonym terminie określonych nieprawidłowości, albo
+- **2)** nakaz wycofania z obrotu wyrobu budowlanego albo jego określonej partii.
 
-2. W przypadku niewykonania obowiàzku na∏o˝onego decyzji, o której mowa ust. 1 pkt 1, w∏aÊciwy organ, drodze decyzji, zakazuje obrotu okreÊlonà partià wyrobu budowlanego.
+2. W przypadku niewykonania obowiązku nałożonego decyzji, o której mowa ust. 1 pkt 1, właściwy organ, drodze decyzji, zakazuje obrotu określoną partią wyrobu budowlanego.
 
-3. Decyzje, o których mowa ust. 1 i 2, podlegajà natychmiastowemu wykonaniu.
+3. Decyzje, o których mowa ust. 1 i 2, podlegają natychmiastowemu wykonaniu.
 
-4. W przypadku wydania decyzji, o której mowa ust. 1 pkt 2 lub ust. 2, w∏aÊciwy organ jest obowiàzany do przeprowadzenia niezw∏ocznie kontroli dotyczàcej producenta.
+4. W przypadku wydania decyzji, o której mowa ust. 1 pkt 2 lub ust. 2, właściwy organ jest obowiązany do przeprowadzenia niezwłocznie kontroli dotyczącej producenta.
 
-5. Decyzje, o których mowa ust. 1 pkt 2 iwust. 2, przekazuje si´ niezw∏ocznie w∏aÊciwemu organowi ze wzgl´du na siedzib´ lub miejsce zamieszkania producenta wyrobu budowlanego, stanowiàcego przedmiot tych decyzji.
+5. Decyzje, o których mowa ust. 1 pkt 2 iwust. 2, przekazuje się niezwłocznie właściwemu organowi ze względu na siedzibę lub miejsce zamieszkania producenta wyrobu budowlanego, stanowiącego przedmiot tych decyzji.
 
 **Art. 31.**
 
-1. W∏aÊciwy organ, wyniku kontroli dotyczàcej producenta, przypadku stwierdzenia, ˝e wyrób budowlany nie spe∏nia wymagaƒ okreÊlonych niniejszej ustawie, nakazuje, drodze decyzji:
+1. Właściwy organ, wyniku kontroli dotyczącej producenta, przypadku stwierdzenia, że wyrób budowlany nie spełnia wymagań określonych niniejszej ustawie, nakazuje, drodze decyzji:
 
-- **1)** wstrzymanie wprowadzania do obrotu wyrobu budowlanego albo jego okreÊlonej partii, nak∏adajàc obowiàzek usuni´cia wyznaczonym terminie okreÊlonych nieprawid∏owoÊci, albo
-- **2)** wycofanie z obrotu wyrobu budowlanego albo jego okreÊlonej partii lub
-- **3)** ograniczenie dalszego przekazywania wyrobu budowlanego u˝ytkownikowi, konsumentowi isprzedawcy.
+- **1)** wstrzymanie wprowadzania do obrotu wyrobu budowlanego albo jego określonej partii, nakładając obowiązek usunięcia wyznaczonym terminie określonych nieprawidłowości, albo
+- **2)** wycofanie z obrotu wyrobu budowlanego albo jego określonej partii lub
+- **3)** ograniczenie dalszego przekazywania wyrobu budowlanego użytkownikowi, konsumentowi isprzedawcy.
 
-2. W przypadku niewykonania obowiàzku na∏o˝onego decyzji, o której mowa ust. 1 pkt 1, w∏aÊci4. Decyzje, o których mowa ust. 1 i 2, podlegajà natychmiastowemu wykonaniu.
+2. W przypadku niewykonania obowiązku nałożonego decyzji, o której mowa ust. 1 pkt 1, właści4. Decyzje, o których mowa ust. 1 i 2, podlegają natychmiastowemu wykonaniu.
 
-5. W decyzji, o której mowa art. 30 ust. 1 pkt 2, w∏aÊciwy organ mo˝e tak˝e nakazaç producentowi odkupienie wyrobu na ˝àdanie osób, które faktycznie nim w∏adajà.
+5. W decyzji, o której mowa art. 30 ust. 1 pkt 2, właściwy organ może także nakazać producentowi odkupienie wyrobu na żądanie osób, które faktycznie nim władają.
 
-6. W przypadku wydania decyzji stwierdzajàcej, ˝e wyrób budowlany nie spe∏nia wymagaƒ okreÊlonych niniejszà ustawà, w∏aÊciwy organ mo˝e nakazaç zniszczenie wyrobu budowlanego, na koszt producenta, je˝eli inny sposób nie mo˝e usunàç zagro˝eƒ spowodowanych przez ten wyrób.
+6. W przypadku wydania decyzji stwierdzającej, że wyrób budowlany nie spełnia wymagań określonych niniejszą ustawą, właściwy organ może nakazać zniszczenie wyrobu budowlanego, na koszt producenta, jeżeli inny sposób nie może usunąć zagrożeń spowodowanych przez ten wyrób.
 
-7. Decyzje, októrych mowa wust. 1 i6, wydaje si´ zale˝noÊci od rodzaju stwierdzonych niezgodnoÊci wyrobu budowlanego z wymaganiami okreÊlonymi niniejszà ustawà oraz od stopnia zagro˝enia powodowanego przez wyrób budowlany, majàc na celu wy∏àcznie odwrócenie gro˝àcego niebezpieczeƒstwa lub usuni´cie ju˝ istniejàcego oraz zapewnienie bezpieczeƒstwa, zdrowia i ˝ycia konsumentów.
+7. Decyzje, októrych mowa wust. 1 i6, wydaje się zależności od rodzaju stwierdzonych niezgodności wyrobu budowlanego z wymaganiami określonymi niniejszą ustawą oraz od stopnia zagrożenia powodowanego przez wyrób budowlany, mając na celu wyłącznie odwrócenie grożącego niebezpieczeństwa lub usunięcie już istniejącego oraz zapewnienie bezpieczeństwa, zdrowia i życia konsumentów.
 
-**Art. 32.** W∏aÊciwy organ wydaje decyzj´ oumorzeniu post´powania, je˝eli:
+**Art. 32.** Właściwy organ wydaje decyzję oumorzeniu postępowania, jeżeli:
 
 **Art. 33.**
 
-1. Stronami post´powaniu administracyjnym sà: producent lub sprzedawca okreÊlonej partii wyrobu budowlanego.
+1. Stronami postępowaniu administracyjnym są: producent lub sprzedawca określonej partii wyrobu budowlanego.
 
-2. Organizacja spo∏eczna mo˝e wyst´powaç z ˝àdaniem dopuszczenia do udzia∏u post´powaniu administracyjnym tylko przypadku, gdy strona post´powania jest cz∏onkiem tej organizacji. Przepisów art. 31 § 1, 4 i5 Kodeksu post´powania administracyjnego nie stosuje si´ post´powaniach prowadzonych na podstawie niniejszej ustawy. Rozdzia∏ 6 Przepisy karne
+2. Organizacja społeczna może występować z żądaniem dopuszczenia do udziału postępowaniu administracyjnym tylko przypadku, gdy strona postępowania jest członkiem tej organizacji. Przepisów art. 31 § 1, 4 i5 Kodeksu postępowania administracyjnego nie stosuje się postępowaniach prowadzonych na podstawie niniejszej ustawy.
 
-**Art. 34.** Kto: wy organ nakazuje, drodze decyzji, wycofanie z ob- 1) wprowadza do obrotu wyrób budowlany nienadarotu wyrobu budowlanego albo jego okreÊlonej partii. jàcy si´ do stosowania przy wykonywaniu robót budowlanych, 3. W decyzjach, o których mowa ust. 1 pkt 2 i 3, w∏aÊciwy organ nakazuje tak˝e powiadomienie przez 2) umieszcza znak budowlany na wyrobie budowlastron´ post´powania konsumentów lub u˝ytkowni- nym, który nie spe∏nia wymagaƒ okreÊlonych b∏àd nabywc´ lub u˝ytkownika tego wyrobu, podlega grzywnie do 100 000 z∏.
+#### Rozdział 6 Przepisy karne
 
-**Art. 35.** Kto utrudnia lub udaremnia wykonywanie czynnoÊci kontrolnych w∏aÊciwego organu, podlega karze aresztu, ograniczenia wolnoÊci albo grzywny.
+**Art. 34.** Kto: wy organ nakazuje, drodze decyzji, wycofanie z ob- 1) wprowadza do obrotu wyrób budowlany nienadarotu wyrobu budowlanego albo jego określonej partii. jący się do stosowania przy wykonywaniu robót budowlanych, 3. W decyzjach, o których mowa ust. 1 pkt 2 i 3, właściwy organ nakazuje także powiadomienie przez 2) umieszcza znak budowlany na wyrobie budowlastronę postępowania konsumentów lub użytkowni- nym, który nie spełnia wymagań określonych błąd nabywcę lub użytkownika tego wyrobu, podlega grzywnie do 100 000 zł.
 
-**Art. 36.** Orzekanie sprawach okreÊlonych wart. 34 iwart. 35 nast´puje na podstawie przepisów Kodeksu post´powania sprawach o wykroczenia. Rozdzia∏ 7 Przepisy zmieniajàce, przepisy przejÊciowe i koƒcowe
+**Art. 35.** Kto utrudnia lub udaremnia wykonywanie czynności kontrolnych właściwego organu, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-**Art. 37.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2003 r. 207, poz. 2016 oraz z 2004 r. 6, poz. 41) wprowadza si´ nast´pujàce zmiany:
+**Art. 36.** Orzekanie sprawach określonych wart. 34 iwart. 35 następuje na podstawie przepisów Kodeksu postępowania sprawach o wykroczenia.
 
-**Art. 38.** Wustawie zdnia 30 sierpnia 2002 r. osystemie oceny zgodnoÊci (Dz. U. 166, poz. 1360 oraz z 2003 r. 80, poz. 718, 130, poz. 1188, 170, poz. 1652 i 229, poz. 2275 oraz z 2004 r. 70, poz. 631) wprowadza si´ nast´pujàce zmiany:
+#### Rozdział 7 Przepisy zmieniające, przepisy przejściowe i końcowe
 
-**Art. 39.** Jednostki organizacyjne udzielajàce aprobat technicznych sà obowiàzane, terminie do dnia 1 lipca 2004 r., przekazaç do G∏ównego Inspektora Nadzoru Budowlanego informacje, o których mowa wart. 9 ust. 5, dotyczàce udzielonych przed dniem wejÊcia w˝ycie niniejszej ustawy aprobat technicznych.
+**Art. 37.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2003 r. 207, poz. 2016 oraz z 2004 r. 6, poz. 41) wprowadza się następujące zmiany:
 
-**Art. 40.** Wyroby budowlane dopuszczone do obrotu i powszechnego stosowania budownictwie na podstawie przepisów dotychczasowych i na zasadach wtych przepisach okreÊlonych nadajà si´ do stosowania, rozumieniu niniejszej ustawy, przy wykonywamowa wart. 37, zachowujà moc do dnia wejÊcia w˝y- Europejskiej. cie przepisów wykonawczych wydanych odpowiednio na podstawie art. 7 ust. 2, art. 8 ust. 6 iart. 9 ust. 6 niniejszej ustawy, nie d∏u˝ej jednak ni˝ przez 12 miesi´cy od dnia wejÊcia ˝ycie niniejszej ustawy. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski WZÓR ZNAKU BUDOWLANEGO ObjaÊnienia: 1. Znak jest zbudowany na proporcjach zbli˝onych do kwadratu z przesuni´tym lewym bokiem. 2. W kwadrat jest wpisana litera B wykreÊlona perspektywie równoleg∏ej. 3. WysokoÊç znaku budowlanego (wymiar a) nie mo˝e byç mniejsza ni˝ 10 mm. 4. Przy zmniejszaniu lub powi´kszaniu wzoru znaku budowlanego nale˝y zachowaç jego proporcje. 5. Ramka znazwà „WYRÓB REGIONALNY WOJEWÓDZTWO ....................” stosowana wy∏àcznie wprzypadku oznakowania wyrobu budowlanego, októrym mowa wart. 8 ust. 2. Wmiejsce kropek nale˝y wpisaç nazw´ województwa, którym wyrób budowlany zosta∏ wytworzony. WZÓR OZNAKOWANIA CE ObjaÊnienia: 1. Oznakowanie ma postaç symbolu postaci stylizowanych liter „CE”. 2. W przypadku zmniejszania lub powi´kszania oznakowania nale˝y zachowaç proporcje przyj´te na podanym wy˝ej rysunku. 3. Poszczególne elementy oznakowania CE powinny mieç taki sam wymiar pionowy; wymiar ten nie mo˝e byç
+**Art. 38.** Wustawie zdnia 30 sierpnia 2002 r. osystemie oceny zgodności (Dz. U. 166, poz. 1360 oraz z 2003 r. 80, poz. 718, 130, poz. 1188, 170, poz. 1652 i 229, poz. 2275 oraz z 2004 r. 70, poz. 631) wprowadza się następujące zmiany:
+
+**Art. 39.** Jednostki organizacyjne udzielające aprobat technicznych są obowiązane, terminie do dnia 1 lipca 2004 r., przekazać do Głównego Inspektora Nadzoru Budowlanego informacje, o których mowa wart. 9 ust. 5, dotyczące udzielonych przed dniem wejścia wżycie niniejszej ustawy aprobat technicznych.
+
+**Art. 40.** Wyroby budowlane dopuszczone do obrotu i powszechnego stosowania budownictwie na podstawie przepisów dotychczasowych i na zasadach wtych przepisach określonych nadają się do stosowania, rozumieniu niniejszej ustawy, przy wykonywamowa wart. 37, zachowują moc do dnia wejścia wży- Europejskiej. cie przepisów wykonawczych wydanych odpowiednio na podstawie art. 7 ust. 2, art. 8 ust. 6 iart. 9 ust. 6 niniejszej ustawy, nie dłużej jednak niż przez 12 miesięcy od dnia wejścia życie niniejszej ustawy. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski WZÓR ZNAKU BUDOWLANEGO Objaśnienia: 1. Znak jest zbudowany na proporcjach zbliżonych do kwadratu z przesuniętym lewym bokiem. 2. W kwadrat jest wpisana litera B wykreślona perspektywie równoległej. 3. Wysokość znaku budowlanego (wymiar a) nie może być mniejsza niż 10 mm. 4. Przy zmniejszaniu lub powiększaniu wzoru znaku budowlanego należy zachować jego proporcje. 5. Ramka znazwą ŃWYRÓB REGIONALNY WOJEWÓDZTWO ....................” stosowana wyłącznie wprzypadku oznakowania wyrobu budowlanego, októrym mowa wart. 8 ust. 2. Wmiejsce kropek należy wpisać nazwę województwa, którym wyrób budowlany został wytworzony. WZÓR OZNAKOWANIA CE Objaśnienia: 1. Oznakowanie ma postać symbolu postaci stylizowanych liter ŃCE”. 2. W przypadku zmniejszania lub powiększania oznakowania należy zachować proporcje przyjęte na podanym wyżej rysunku. 3. Poszczególne elementy oznakowania CE powinny mieć taki sam wymiar pionowy; wymiar ten nie może być
 

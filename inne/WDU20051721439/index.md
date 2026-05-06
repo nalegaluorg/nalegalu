@@ -26,9 +26,9 @@ domain: null
 
 **Art. 1.** Wustawie zdnia 31 stycznia 1980 ogodle, barwach i hymnie Rzeczypospolitej Polskiej (Dz. Nr7, 18, póên. zm.
 
-**Art. 16d.** Rada Ministrów okreÊli, wdrodze rozpo- Art. 3. Traci moc dekret dnia 7 grudnia 1955 rzàdzenia, wymiary oraz sposób u˝ywa- godle i barwach Polskiej Rzeczypospolitej Ludowej nia i strze˝enia urz´dowych piecz´ci, oraz piecz´ciach paƒstwowych (Dz. 47, a tak˝e tryb zamawiania i sposób wyro- poz.314, z1956 7, 43, z1957 10, 42, bu urz´dowych piecz´ci oraz nadzór nad z1980 7, 18, z1985 23, 100, z1989r. ich wyrobem, uwzgl´dniajàc wszczegól- 34, 178, 1990 34, 199 oraz 1998 noÊci koniecznoÊç zapobie˝enia utracie 162, 1126). urz´dowych piecz´ci przez uprawnione podmioty.”. Art. 4. Ustawa wchodzi w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia.
+**Art. 16d.** Rada Ministrów określi, wdrodze rozpo- Art. 3. Traci moc dekret dnia 7 grudnia 1955 rządzenia, wymiary oraz sposób używa- godle i barwach Polskiej Rzeczypospolitej Ludowej nia i strzeżenia urzędowych pieczęci, oraz pieczęciach państwowych (Dz. 47, a także tryb zamawiania i sposób wyro- poz.314, z1956 7, 43, z1957 10, 42, bu urzędowych pieczęci oraz nadzór nad z1980 7, 18, z1985 23, 100, z1989r. ich wyrobem, uwzględniając wszczegól- 34, 178, 1990 34, 199 oraz 1998 ności konieczność zapobieżenia utracie 162, 1126). urzędowych pieczęci przez uprawnione podmioty.”. Art. 4. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 
-**Art. 2.** Akty prawne wydane wcelu wykonania dekretu, októrym mowa wart. 3, zachowujà moc do czasu wydania rozporzàdzeƒ wymaganych przez ustaw´, której mowa w art. 1, w brzmieniu nadanym niniejszà ustawà. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1440 USTAWA dnia 28 lipca 2005 zmianie ustawy drogach publicznych oraz niektórych innych ustaw
+**Art. 2.** Akty prawne wydane wcelu wykonania dekretu, októrym mowa wart. 3, zachowują moc do czasu wydania rozporządzeń wymaganych przez ustawę, której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1440 USTAWA dnia 28 lipca 2005 zmianie ustawy drogach publicznych oraz niektórych innych ustaw
 
-**Art. 1.** W ustawie dnia 21 marca 1985 drogach publicznych (Dz. 2004 204, 2086, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie dnia 21 marca 1985 drogach publicznych (Dz. 2004 204, 2086, póên. zm. ) wprowadza się następujące zmiany:
 

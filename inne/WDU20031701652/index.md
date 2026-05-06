@@ -24,328 +24,328 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031701652) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1652/text.pdf) |
 
-**Art. 10.** Przepisy art. 119 ust. 2 i 3 ustawy, o której Art. 13. Wokresie do dnia 31 grudnia 2013 r. otwarmowa w art. 1, w brzmieniu nadanym niniejszà usta- ty fundusz mo˝e podwy˝szyç wysokoÊç op∏aty pobiewà, nie majà zastosowania do wyp∏at transferowych ranej wformie potràcenia okreÊlonej procentowo kwodokonywanych w zwiàzku z przystàpieniem cz∏onka ty z wp∏aconych sk∏adek, okreÊlonej w statucie otwarotwartego funduszu do innego otwartego funduszu na tego funduszu w dniu wejÊcia w ˝ycie niniejszej ustapodstawie umowy z tym funduszem zawartej przed wy, zgodnie zart. 6 niniejszej ustawy. dniem 1 kwietnia 2004 r. Do wyp∏at transferowych, o których mowa w zdaniu poprzednim, stosuje si´ Art. 14. Dotychczasowe przepisy wykonawcze wyprzepisy dotychczasowe. dane na podstawie przepisów upowa˝niajàcych zmienionych niniejszà ustawà zachowujà moc do czasu
+**Art. 10.** Przepisy art. 119 ust. 2 i 3 ustawy, o której Art. 13. Wokresie do dnia 31 grudnia 2013 r. otwarmowa w art. 1, w brzmieniu nadanym niniejszą usta- ty fundusz może podwyższyć wysokość opłaty pobiewą, nie mają zastosowania do wypłat transferowych ranej wformie potrącenia określonej procentowo kwodokonywanych w związku z przystąpieniem członka ty z wpłaconych składek, określonej w statucie otwarotwartego funduszu do innego otwartego funduszu na tego funduszu w dniu wejścia w życie niniejszej ustapodstawie umowy z tym funduszem zawartej przed wy, zgodnie zart. 6 niniejszej ustawy. dniem 1 kwietnia 2004 r. Do wypłat transferowych, o których mowa w zdaniu poprzednim, stosuje się Art. 14. Dotychczasowe przepisy wykonawcze wyprzepisy dotychczasowe. dane na podstawie przepisów upoważniających zmienionych niniejszą ustawą zachowują moc do czasu
 
-**Art. 11.** Ârodki zgromadzone na rachunku rezerwo- wejÊcia w ˝ycie nowych przepisów wykonawczych wym okreÊlonym wart. 181 ust. 1 ustawy, októrej mo- oraz mogà byç zmieniane na podstawie upowa˝nienia wa wart. 1, wbrzmieniu obowiàzujàcym przed dniem wbrzmieniu nadanym niniejszà ustawà. wejÊcia w˝ycie ustawy, wdniu wejÊcia w˝ycie ustawy sà przenoszone na rachunek cz´Êci dodatkowej Fundu- Art. 15. Og∏oszenie tekstu jednolitego ustawy szu Gwarancyjnego wotwartym funduszu do wysoko- z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaÊci stanowiàcej równowartoÊç 0,4 % wartoÊci aktywów niu funduszy emerytalnych nastàpi w terminie 6 miefunduszu. Pozosta∏e Êrodki podlegajà wycofaniu przez si´cy od dnia og∏oszenia niniejszej ustawy. powszechne towarzystwo emerytalne dnia 7 kwietnia 2004 r. Wycofanie kwoty nadwy˝ki nast´puje wgotów- Art. 16. Ustawa wchodzi w˝ycie po up∏ywie 14 dni ce iskutkuje zmniejszeniem iloÊci jednostek rozrachun- od dnia og∏oszenia, zwyjàtkiem: kowych.
+**Art. 11.** Ârodki zgromadzone na rachunku rezerwo- wejścia w życie nowych przepisów wykonawczych wym określonym wart. 181 ust. 1 ustawy, októrej mo- oraz mogą być zmieniane na podstawie upoważnienia wa wart. 1, wbrzmieniu obowiązującym przed dniem wbrzmieniu nadanym niniejszą ustawą. wejścia wżycie ustawy, wdniu wejścia wżycie ustawy są przenoszone na rachunek części dodatkowej Fundu- Art. 15. Ogłoszenie tekstu jednolitego ustawy szu Gwarancyjnego wotwartym funduszu do wysoko- z dnia 28 sierpnia 1997 r. o organizacji i funkcjonowaści stanowiącej równowartość 0,4 % wartości aktywów niu funduszy emerytalnych nastąpi w terminie 6 miefunduszu. Pozostałe środki podlegają wycofaniu przez sięcy od dnia ogłoszenia niniejszej ustawy. powszechne towarzystwo emerytalne dnia 7 kwietnia 2004 r. Wycofanie kwoty nadwyżki następuje wgotów- Art. 16. Ustawa wchodzi wżycie po upływie 14 dni ce iskutkuje zmniejszeniem ilości jednostek rozrachun- od dnia ogłoszenia, zwyjątkiem: kowych.
 
 **Art. 12.**
 
-1. W terminie 3 miesi´cy od dnia wejÊcia 1paêdziernika 2003 r.; w˝ycie ustawy otwarte fundusze emerytalne dostosu- 2) art. 1 pkt 46, 58—60, 63, 64 oraz art. 3 pkt 1, które jà swoje statuty do przepisów niniejszej ustawy, z za- wchodzà w˝ycie zdniem 1 stycznia 2004 r.; strze˝eniem ust. 2. 3) art. 1 pkt 3 lit. b, pkt 10, 22, 34, 42, 44, 45, 49, 53 lit.b,
+1. W terminie 3 miesięcy od dnia wejścia 1paêdziernika 2003 r.; wżycie ustawy otwarte fundusze emerytalne dostosu- 2) art. 1 pkt 46, 58—60, 63, 64 oraz art. 3 pkt 1, które ją swoje statuty do przepisów niniejszej ustawy, z za- wchodzą wżycie zdniem 1 stycznia 2004 r.; strzeżeniem ust. 2. 3) art. 1 pkt 3 lit. b, pkt 10, 22, 34, 42, 44, 45, 49, 53 lit.b,
 
-2. W wyniku zmiany statutu, o której mowa pkt 54—57, 69—71, 73, 79, art. 3 pkt 2 oraz art.6 i7, w ust.1, wysokoÊç op∏aty, o której mowa w art. 134 które wchodzà w˝ycie zdniem 1 kwietnia 2004 r.; ust.1 pkt 1 ustawy wymienionej wart. 1, wbrzmieniu 4) art. 1 pkt 74, 75, 76 lit. a, pkt 77 oraz 80—85, które obowiàzujàcym przed dniem wejÊcia w˝ycie niniejszej wchodzà w˝ycie zdniem 7 kwietnia 2004 r.; ustawy oraz art. 6 niniejszej ustawy, pobieranej od 5) art. 1 pkt 12, który wchodzi w˝ycie zdniem 1 styczsk∏adek dotychczasowych cz∏onków otwartych fundu- nia 2005 r.; szy nie mo˝e zostaç podwy˝szona. W przypadku gdy statut funduszu uzale˝nia wysokoÊç op∏aty od up∏ywu 6) art. 1 pkt 89, który wchodzi w˝ycie zdniem 1 kwietczasu, dopuszczalna jest zmiana statutu, wwyniku któ- nia 2005 r.; rej pobierana b´dzie op∏ata nie wy˝sza ni˝ op∏ata po- 7) art. 1 pkt 78, który wchodzi w˝ycie zdniem 1 listobierana wdniu wejÊcia w˝ycie niniejszej ustawy. pada 2005 r.;
+2. W wyniku zmiany statutu, o której mowa pkt 54—57, 69—71, 73, 79, art. 3 pkt 2 oraz art.6 i7, w ust.1, wysokość opłaty, o której mowa w art. 134 które wchodzą wżycie zdniem 1 kwietnia 2004 r.; ust.1 pkt 1 ustawy wymienionej wart. 1, wbrzmieniu 4) art. 1 pkt 74, 75, 76 lit. a, pkt 77 oraz 80—85, które obowiązującym przed dniem wejścia wżycie niniejszej wchodzą wżycie zdniem 7 kwietnia 2004 r.; ustawy oraz art. 6 niniejszej ustawy, pobieranej od 5) art. 1 pkt 12, który wchodzi wżycie zdniem 1 styczskładek dotychczasowych członków otwartych fundu- nia 2005 r.; szy nie może zostać podwyższona. W przypadku gdy statut funduszu uzależnia wysokość opłaty od upływu 6) art. 1 pkt 89, który wchodzi wżycie zdniem 1 kwietczasu, dopuszczalna jest zmiana statutu, wwyniku któ- nia 2005 r.; rej pobierana będzie opłata nie wyższa niż opłata po- 7) art. 1 pkt 78, który wchodzi wżycie zdniem 1 listobierana wdniu wejścia wżycie niniejszej ustawy. pada 2005 r.;
 
-3. Wobec dotychczasowych cz∏onków otwartego 8) art. 1 pkt 53 lit. a, który wchodzi w ˝ycie z dniem funduszu nie stosuje si´ przepisu art. 135 ustawy, 1stycznia 2014 r. o której mowa w art. 1, w brzmieniu nadanym niniejszà ustawà. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA zdnia 29 sierpnia 2003 r. ozmianie ustawy osystemie oceny zgodnoÊci oraz zmianie niektórych ustaw
+3. Wobec dotychczasowych członków otwartego 8) art. 1 pkt 53 lit. a, który wchodzi w życie z dniem funduszu nie stosuje się przepisu art. 135 ustawy, 1stycznia 2014 r. o której mowa w art. 1, w brzmieniu nadanym niniejszą ustawą. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 29 sierpnia 2003 r. ozmianie ustawy osystemie oceny zgodności oraz zmianie niektórych ustaw
 
-**Art. 1.** Wustawie zdnia 30 sierpnia 2002 r. osyste- z 2003 r. 80, poz. 718 i 130, poz. 1188) wprowamie oceny zgodnoÊci (Dz. U. 166, poz. 1360 oraz dza si´ nast´pujàce zmiany: ———————
+**Art. 1.** Wustawie zdnia 30 sierpnia 2002 r. osyste- z 2003 r. 80, poz. 718 i 130, poz. 1188) wprowamie oceny zgodności (Dz. U. 166, poz. 1360 oraz dza się następujące zmiany: ———————
 
 **Art. 10.**
 
-1. Minister w∏aÊciwy ze wzgl´du na przedmiot oceny zgodnoÊci mo˝e okreÊliç, w drodze rozporzàdzeƒ, szczegó∏owe wymagania dla wyrobów, które mogà stwarzaç zagro˝enie albo s∏u˝à ochronie lub ratowaniu ˝ycia, zdrowia, mienia lub Êrodowiska, bioràc pod uwag´ rodzaje wyrobów oraz stopieƒ stwarzanych przez nie zagro˝eƒ, a tak˝e inne wymanych Wspólnoty Europejskiej ni˝ dyrektywy nowego podejÊcia.
+1. Minister właściwy ze względu na przedmiot oceny zgodności może określić, w drodze rozporządzeń, szczegółowe wymagania dla wyrobów, które mogą stwarzać zagrożenie albo służą ochronie lub ratowaniu życia, zdrowia, mienia lub środowiska, biorąc pod uwagę rodzaje wyrobów oraz stopień stwarzanych przez nie zagrożeń, a także inne wymanych Wspólnoty Europejskiej niż dyrektywy nowego podejścia.
 
-2. Minister w∏aÊciwy ze wzgl´du na przedmiot oceny zgodnoÊci, wydajàc rozporzàdzenia, o których mowa w ust. 1, okreÊli, w zale˝noÊci od rodzaju wyrobów, w szczególnoÊci sposoby identyfikacji i oznakowania wyrobów oraz warunki itryb przeprowadzania badaƒ.”;
+2. Minister właściwy ze względu na przedmiot oceny zgodności, wydając rozporządzenia, o których mowa w ust. 1, określi, w zależności od rodzaju wyrobów, w szczególności sposoby identyfikacji i oznakowania wyrobów oraz warunki itryb przeprowadzania badań.”;
 
-- **9)** uchyla si´ art. 11;
-- **10)** art. 12 otrzymuje brzmienie: „Art. 12. Domniemywa si´, ˝e wyroby, na których umieszczono oznakowanie CE lub dla których sporzàdzono dokumentacj´ potwierdzajàcà spe∏nienie zasadniczych wymagaƒ w innych krajach ni˝ Rzeczpospolita Polska, sà zgodne z zasadniczymi wymaganiami okreÊlonymi w obowiàzujàcych przepisach.”; gania zawarte w innych aktach praw11) w art. 13:
-    - **a)** ust. 3 otrzymuje brzmienie: „3. Prezes Polskiego Komitetu Normalizacyjnego og∏asza, co najmniej raz na kwarta∏, wdrodze obwieszczenia, wDzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski” numery i tytu∏y nowo ustanowionych norm zharmonizowanych wraz z tytu∏ami aktów prawnych wdra˝ajàcych dyrektywy nowego podejÊcia imiejscem ich publikacji.”,
-    - **b)** dodaje si´ ust. 4 wbrzmieniu: „4. Prezes Polskiego Komitetu Normalizacyjnego og∏asza raz na 12 miesi´cy, wdrodze obwieszczenia, w Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski” numery i tytu∏y ustanowionych w danym roku norm zharmonizowanych wraz ztytu∏ami aktów prawnych wdra˝ajàcych dyrektywy nowego podejÊcia imiejscem ich publikacji.”;
+- **9)** uchyla się art. 11;
+- **10)** art. 12 otrzymuje brzmienie: ŃArt. 12. Domniemywa się, że wyroby, na których umieszczono oznakowanie CE lub dla których sporządzono dokumentację potwierdzającą spełnienie zasadniczych wymagań w innych krajach niż Rzeczpospolita Polska, są zgodne z zasadniczymi wymaganiami określonymi w obowiązujących przepisach.”; gania zawarte w innych aktach praw11) w art. 13:
+    - **a)** ust. 3 otrzymuje brzmienie: Ń3. Prezes Polskiego Komitetu Normalizacyjnego ogłasza, co najmniej raz na kwartał, wdrodze obwieszczenia, wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” numery i tytuły nowo ustanowionych norm zharmonizowanych wraz z tytułami aktów prawnych wdrażających dyrektywy nowego podejścia imiejscem ich publikacji.”,
+    - **b)** dodaje się ust. 4 wbrzmieniu: Ń4. Prezes Polskiego Komitetu Normalizacyjnego ogłasza raz na 12 miesięcy, wdrodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski” numery i tytuły ustanowionych w danym roku norm zharmonizowanych wraz ztytułami aktów prawnych wdrażających dyrektywy nowego podejścia imiejscem ich publikacji.”;
 
-- **12)** po art. 13 dodaje si´ art. 13awbrzmieniu: „Art. 13a. Producent lub jego upowa˝niony przedstawiciel sà obowiàzani przechowywaç dokumentacj´ dotyczàcà wyrobów oraz wyników dokonanej oceny zgodnoÊci.”;
-- **13)** wart. 15 ust. 3 otrzymuje brzmienie: „3. Centrum Akredytacji, w terminie nie d∏u˝szym ni˝ 12 miesi´cy od dnia z∏o˝enia wniosku oudzielenie akredytacji, jest obowiàzane do zawiadomienia wnioskujàcej jednostki certyfikujàcej, kontrolujàcej lub laboratorium oudzieleniu bàdê odmowie udzielenia akredytacji.”;
+- **12)** po art. 13 dodaje się art. 13awbrzmieniu: ŃArt. 13a. Producent lub jego upoważniony przedstawiciel są obowiązani przechowywać dokumentację dotyczącą wyrobów oraz wyników dokonanej oceny zgodności.”;
+- **13)** wart. 15 ust. 3 otrzymuje brzmienie: Ń3. Centrum Akredytacji, w terminie nie dłuższym niż 12 miesięcy od dnia złożenia wniosku oudzielenie akredytacji, jest obowiązane do zawiadomienia wnioskującej jednostki certyfikującej, kontrolującej lub laboratorium oudzieleniu bądê odmowie udzielenia akredytacji.”;
 - **14)** wart. 16:
-    - **a)** ust. 6 otrzymuje brzmienie: „6. Cofni´cie akredytacji nast´puje wprzypadku nieusuni´cia przez akredytowanà jednostk´ certyfikujàcà lub kontrolujàcà albo akredytowane laboratorium przyczyn b´dàcych podstawà zawieszenia akredytacji.”,
-    - **b)** ust. 8 otrzymuje brzmienie: „8. Centrum Akredytacji jest obowiàzane informowaç ministrów i kierowników urz´dów centralnych w∏aÊciwych ze wzgl´du na przedmiot oceny zgodnoÊci o ograniczeniu, zawieszeniu lub cofni´ciu akredytacji jednostce notyfikowanej.”;
+    - **a)** ust. 6 otrzymuje brzmienie: Ń6. Cofnięcie akredytacji następuje wprzypadku nieusunięcia przez akredytowaną jednostkę certyfikującą lub kontrolującą albo akredytowane laboratorium przyczyn będących podstawą zawieszenia akredytacji.”,
+    - **b)** ust. 8 otrzymuje brzmienie: Ń8. Centrum Akredytacji jest obowiązane informować ministrów i kierowników urzędów centralnych właściwych ze względu na przedmiot oceny zgodności o ograniczeniu, zawieszeniu lub cofnięciu akredytacji jednostce notyfikowanej.”;
 
-- **15)** wart. 29 uchyla si´ ust. 4;
-- **16)** wart. 36 ust. 3 otrzymuje brzmienie: „3. Minister w∏aÊciwy do spraw gospodarki, na wniosek ministrów ikierowników urz´dów centralnych w∏aÊciwych ze wzgl´du na przedmiot akredytacji, po uzyskaniu pozytywnej opinii Centrum Akredytacji o zg∏oszonych kandydatach, wdrodze zarzàdzenia, powo∏uje iodwo∏uje cz∏onków Komitetu Odwo∏awczego.”;
-- **17)** wart. 37 ust. 1 otrzymuje brzmienie: „1. Za czynnoÊci zwiàzane z:
-- **1)** obowiàzkowà ocenà zgodnoÊci wyrobów,
-- **2)** badaniami na potrzeby oceny zgodnoÊci wyrobów,
-- **3)** certyfikacjà,
-- **4)** sprawdzaniem zgodnoÊci wyrobów zwymaganiami, dokonywane przez notyfikowane jednostki kontrolujàce,
-- **5)** akredytacjà jednostek certyfikujàcych, jednostek kontrolujàcych ilaboratoriów pobiera si´ op∏aty.”;
-- **18)** tytu∏ rozdzia∏u 6 otrzymuje brzmienie: „System kontroli wyrobów wprowadzonych do obrotu”;
-- **19)** art. 38 i39 otrzymujà brzmienie: „Art. 38. 1. System kontroli wyrobów wprowadzonych do obrotu, zwany dalej „systemem”, tworzà Prezes Urz´du Ochrony Konkurencji iKonsumentów, zwany dalej „Prezesem UOKiK”, iorgany wymienione wust. 2 i3, zwane dalej „organami wyspecjalizowanymi”.
+- **15)** wart. 29 uchyla się ust. 4;
+- **16)** wart. 36 ust. 3 otrzymuje brzmienie: Ń3. Minister właściwy do spraw gospodarki, na wniosek ministrów ikierowników urzędów centralnych właściwych ze względu na przedmiot akredytacji, po uzyskaniu pozytywnej opinii Centrum Akredytacji o zgłoszonych kandydatach, wdrodze zarządzenia, powołuje iodwołuje członków Komitetu Odwoławczego.”;
+- **17)** wart. 37 ust. 1 otrzymuje brzmienie: Ń1. Za czynności związane z:
+- **1)** obowiązkową oceną zgodności wyrobów,
+- **2)** badaniami na potrzeby oceny zgodności wyrobów,
+- **3)** certyfikacją,
+- **4)** sprawdzaniem zgodności wyrobów zwymaganiami, dokonywane przez notyfikowane jednostki kontrolujące,
+- **5)** akredytacją jednostek certyfikujących, jednostek kontrolujących ilaboratoriów pobiera się opłaty.”;
+- **18)** tytuł rozdziału 6 otrzymuje brzmienie: ŃSystem kontroli wyrobów wprowadzonych do obrotu”;
+- **19)** art. 38 i39 otrzymują brzmienie: ŃArt. 38. 1. System kontroli wyrobów wprowadzonych do obrotu, zwany dalej Ńsystemem”, tworzą Prezes Urzędu Ochrony Konkurencji iKonsumentów, zwany dalej ŃPrezesem UOKiK”, iorgany wymienione wust. 2 i3, zwane dalej Ńorganami wyspecjalizowanymi”.
 
-2. Kontrol´ spe∏niania przez wyroby zasadniczych wymagaƒ prowadzà:
+2. Kontrolę spełniania przez wyroby zasadniczych wymagań prowadzą:
 
 - **1)** wojewódzcy inspektorzy Inspekcji Handlowej;
 - **2)** inspektorzy pracy;
-- **3)** Prezes Urz´du Regulacji Telekomunikacji iPoczty;
+- **3)** Prezes Urzędu Regulacji Telekomunikacji iPoczty;
 - **4)** organy Inspekcji Ochrony Ârodowiska;
-- **5)** Prezes Urz´du Transportu Kolejo6) organy nadzoru budowlanego;
-- **7)** Prezes Wy˝szego Urz´du Górniczego;
-- **8)** dyrektorzy urz´dów morskich.
+- **5)** Prezes Urzędu Transportu Kolejo6) organy nadzoru budowlanego;
+- **7)** Prezes Wyższego Urzędu Górniczego;
+- **8)** dyrektorzy urzędów morskich.
 
-3. Post´powania w zakresie wprowadzonych do obrotu wyrobów niezgodnych z zasadniczymi wymaganiami prowadzà:
+3. Postępowania w zakresie wprowadzonych do obrotu wyrobów niezgodnych z zasadniczymi wymaganiami prowadzą:
 
-- **1)** G∏ówny Inspektor Inspekcji Handlowej;
-- **2)** okr´gowy inspektor pracy;
-- **3)** Prezes Urz´du Regulacji Telekomunikacji iPoczty;
-- **4)** wojewódzki inspektor ochrony Êrodowiska;
-- **5)** Prezes Urz´du Transportu Kolejowego;
+- **1)** Główny Inspektor Inspekcji Handlowej;
+- **2)** okręgowy inspektor pracy;
+- **3)** Prezes Urzędu Regulacji Telekomunikacji iPoczty;
+- **4)** wojewódzki inspektor ochrony środowiska;
+- **5)** Prezes Urzędu Transportu Kolejowego;
 - **6)** organy nadzoru budowlanego; wego;
-- **7)** Prezes Wy˝szego Urz´du Górniczego;
-- **8)** dyrektorzy urz´dów morskich.
+- **7)** Prezes Wyższego Urzędu Górniczego;
+- **8)** dyrektorzy urzędów morskich.
 
 **Art. 39.**
 
-1. Prezes UOKiK jest organem monitorujàcym system.
+1. Prezes UOKiK jest organem monitorującym system.
 
-2. Do zadaƒ Prezesa UOKiK nale˝y:
+2. Do zadań Prezesa UOKiK należy:
 
-- **1)** wspó∏praca z organami wyspecjalizowanymi;
+- **1)** współpraca z organami wyspecjalizowanymi;
 - **2)** opiniowanie okresowych planów kontroli przeprowadzanych przez organy wyspecjalizowane;
-- **3)** przekazywanie organom wyspecjalizowanym informacji wskazujàcych, ˝e wyrób wprowadzony do obrotu nie spe∏nia zasadniczych wymagaƒ;
-- **4)** prowadzenie rejestru wyrobów niezgodnych z zasadniczymi wymaganiami, zwanego dalej „rejestrem”, oraz gromadzenie informacji dotyczàcych systemu kontroli wyrobów wprowadzonych do obrotu.
+- **3)** przekazywanie organom wyspecjalizowanym informacji wskazujących, że wyrób wprowadzony do obrotu nie spełnia zasadniczych wymagań;
+- **4)** prowadzenie rejestru wyrobów niezgodnych z zasadniczymi wymaganiami, zwanego dalej Ńrejestrem”, oraz gromadzenie informacji dotyczących systemu kontroli wyrobów wprowadzonych do obrotu.
 
-3. Do zadaƒ organów wyspecjalizowanych nale˝y:
+3. Do zadań organów wyspecjalizowanych należy:
 
-- **1)** prowadzenie kontroli spe∏niania przez wyroby zasadniczych wymagaƒ iniezw∏oczne informowanie Prezesa UOKiK o wynikach przeprowadzanych kontroli;
-- **2)** prowadzenie post´powaƒ wsprawie wprowadzonych do obrotu wyrobów niezgodnych z zasadniczymi wymaganiami i przekazywanie Prezesowi UOKiK informacji o wszcz´ciu izakoƒczeniu tych post´powaƒ;
-- **3)** niezw∏oczne przekazywanie Prezesowi UOKiK kopii wydanych decyzji;
-- **4)** wspó∏praca zPrezesem UOKiK;
+- **1)** prowadzenie kontroli spełniania przez wyroby zasadniczych wymagań iniezwłoczne informowanie Prezesa UOKiK o wynikach przeprowadzanych kontroli;
+- **2)** prowadzenie postępowań wsprawie wprowadzonych do obrotu wyrobów niezgodnych z zasadniczymi wymaganiami i przekazywanie Prezesowi UOKiK informacji o wszczęciu izakończeniu tych postępowań;
+- **3)** niezwłoczne przekazywanie Prezesowi UOKiK kopii wydanych decyzji;
+- **4)** współpraca zPrezesem UOKiK;
 - **5)** przedstawianie Prezesowi UOKiK do zaopiniowania okresowych planów kontroli wyrobów wprowadzonych do obrotu;
-- **6)** sporzàdzanie i przekazywanie Prezesowi UOKiK rocznych sprawozdaƒ zprzeprowadzanych kontroli.”;
-- **20)** po art. 39 dodaje si´ art. 39ai39bwbrzmieniu: „Art. 39a. 1. Prezes UOKiK prowadzi rejestr.
+- **6)** sporządzanie i przekazywanie Prezesowi UOKiK rocznych sprawozdań zprzeprowadzanych kontroli.”;
+- **20)** po art. 39 dodaje się art. 39ai39bwbrzmieniu: ŃArt. 39a. 1. Prezes UOKiK prowadzi rejestr.
 
-2. W rejestrze sà gromadzone w szczególnoÊci:
+2. W rejestrze są gromadzone w szczególności:
 
-- **1)** dane umo˝liwiajàce identyfikacj´ wyrobu;
+- **1)** dane umożliwiające identyfikację wyrobu;
 - **2)** informacje o:
-    - **a)** rodzaju i zakresie niezgodnoÊci wyrobu zzasadniczymi wymaganiami,
-    - **b)** Êrodkach, jakie zastosowano w odniesieniu do wyrobu niezgodnego zzasadniczymi wymaganiami,
-    - **c)** zagro˝eniach, jakie mo˝e spowodowaç wyrób niezgodny zzasadniczymi wymaganiami, wraz zokreÊleniem tych zagro˝eƒ.
+    - **a)** rodzaju i zakresie niezgodności wyrobu zzasadniczymi wymaganiami,
+    - **b)** środkach, jakie zastosowano w odniesieniu do wyrobu niezgodnego zzasadniczymi wymaganiami,
+    - **c)** zagrożeniach, jakie może spowodować wyrób niezgodny zzasadniczymi wymaganiami, wraz zokreśleniem tych zagrożeń.
 
 3. Prezes UOKiK dokonuje wpisów do rejestru wprzypadku wydania decyzji, októrych mowa wart. 41cust. 2 pkt 2 i3 oraz ust. 3.
 
-4. Prezes UOKiK, na wniosek organu wyspecjalizowanego lub zurz´du, usuwa wpis wrejestrze, wprzypadku gdy:
+4. Prezes UOKiK, na wniosek organu wyspecjalizowanego lub zurzędu, usuwa wpis wrejestrze, wprzypadku gdy:
 
-- **1)** osoba wprowadzajàca wyrób do obrotu udowodni, ˝e wycofa∏a zobrotu wszystkie egzemplarze wyrobu niezgodnego zzasadniczymi wymaganiami; wpis usuwa si´ nie wczeÊniej ni˝ wterminie 6 miesi´cy od zakoƒczenia kontroli, o której mowa wart. 40 ust. 1;
-- **2)** niezgodnoÊci wyrobu zzasadniczymi wymaganiami zosta∏y usuni´te; wpis usuwa si´ nie wczeÊniej ni˝ przed up∏ywem 12 miesi´cy od dnia przeprowadzenia kontroli, o której mowa w art. 41b ust. 2 i art. 41c ust.9.
+- **1)** osoba wprowadzająca wyrób do obrotu udowodni, że wycofała zobrotu wszystkie egzemplarze wyrobu niezgodnego zzasadniczymi wymaganiami; wpis usuwa się nie wcześniej niż wterminie 6 miesięcy od zakończenia kontroli, o której mowa wart. 40 ust. 1;
+- **2)** niezgodności wyrobu zzasadniczymi wymaganiami zostały usunięte; wpis usuwa się nie wcześniej niż przed upływem 12 miesięcy od dnia przeprowadzenia kontroli, o której mowa w art. 41b ust. 2 i art. 41c ust.9.
 
-5. Informacje zawarte w rejestrze sà publicznie dost´pne.
+5. Informacje zawarte w rejestrze są publicznie dostępne.
 
-6. Prezes UOKiK mo˝e w ka˝dym czasie podaç do publicznej wiadomoÊci informacje zawarte wrejestrze.
+6. Prezes UOKiK może w każdym czasie podać do publicznej wiadomości informacje zawarte wrejestrze.
 
-7. Rada Ministrów okreÊli, wdrodze rozporzàdzenia, szczegó∏owy sposób prowadzenia rejestru, majàc na wzgl´dzie w szczególnoÊci zapewnienie prawid∏owoÊci dzia∏ania rejestru.
+7. Rada Ministrów określi, wdrodze rozporządzenia, szczegółowy sposób prowadzenia rejestru, mając na względzie w szczególności zapewnienie prawidłowości działania rejestru.
 
 **Art. 39b.**
 
-1. Prezes UOKiK gromadzi informacje dotyczàce wyników kontroli i prowadzonych post´powaƒ.
+1. Prezes UOKiK gromadzi informacje dotyczące wyników kontroli i prowadzonych postępowań.
 
-2. Informacje, októrych mowa wust. 1, udost´pnia si´ organom wyspecjalizowanym iorganom celnym.
+2. Informacje, októrych mowa wust. 1, udostępnia się organom wyspecjalizowanym iorganom celnym.
 
-3. Rada Ministrów okreÊli, wdrodze rozporzàdzenia:
+3. Rada Ministrów określi, wdrodze rozporządzenia:
 
-- **1)** sposób przep∏ywu informacji pomi´dzy Prezesem UOKiK, organami wyspecjalizowanymi oraz organami celnymi,
-- **2)** wzory formularzy stosowanych przy gromadzeniu informacji dotyczàcych funkcjonowania systemu majàc na wzgl´dzie potrzeb´ monitorowania systemu.”;
-- **21)** art. 40 otrzymuje brzmienie: „Art. 40. 1. Organy wyspecjalizowane prowadzà kontrol´ spe∏niania przez wyroby zadotyczàce systemu, w szczególnoÊci sadniczych wymagaƒ, zwanà dalej „kontrolà”, z urz´du lub na wniosek Prezesa UOKiK.
+- **1)** sposób przepływu informacji pomiędzy Prezesem UOKiK, organami wyspecjalizowanymi oraz organami celnymi,
+- **2)** wzory formularzy stosowanych przy gromadzeniu informacji dotyczących funkcjonowania systemu mając na względzie potrzebę monitorowania systemu.”;
+- **21)** art. 40 otrzymuje brzmienie: ŃArt. 40. 1. Organy wyspecjalizowane prowadzą kontrolę spełniania przez wyroby zadotyczące systemu, w szczególności sadniczych wymagań, zwaną dalej Ńkontrolą”, z urzędu lub na wniosek Prezesa UOKiK.
 
-2. W kontroli prowadzonej przez organ wyspecjalizowany mo˝e uczestniczyç, za jego zgodà, pracownik UOKiK upowa˝niony przez Prezesa UOKiK, do czynnoÊci którego stosuje si´ przepisy niniejszego rozdzia∏u dotyczàce osoby kontrolujàcej.
+2. W kontroli prowadzonej przez organ wyspecjalizowany może uczestniczyć, za jego zgodą, pracownik UOKiK upoważniony przez Prezesa UOKiK, do czynności którego stosuje się przepisy niniejszego rozdziału dotyczące osoby kontrolującej.
 
-3. Do kontroli prowadzonej przez organy wyspecjalizowane, w zakresie nieuregulowanym w ustawie, stosuje si´ przepisy dotyczàce zakresu dzia∏ania tych organów.”;
+3. Do kontroli prowadzonej przez organy wyspecjalizowane, w zakresie nieuregulowanym w ustawie, stosuje się przepisy dotyczące zakresu działania tych organów.”;
 
-- **22)** po art. 40 dodaje si´ art. 40a—40mwbrzmieniu: „Art. 40a. Podmioty wymienione w art. 4, a tak˝e sprzedawcy wyrobów podlegajàcych ocenie zgodnoÊci sà obowiàzani wspó∏dzia∏aç, z nale˝ytà starannoÊcià, z organami wyspecjalizowanymi, w zakresie niezb´dnym do ustalenia, czy wyrób spe∏nia zasadnicze wymagania.
+- **22)** po art. 40 dodaje się art. 40a—40mwbrzmieniu: ŃArt. 40a. Podmioty wymienione w art. 4, a także sprzedawcy wyrobów podlegających ocenie zgodności są obowiązani współdziałać, z należytą starannością, z organami wyspecjalizowanymi, w zakresie niezbędnym do ustalenia, czy wyrób spełnia zasadnicze wymagania.
 
 **Art. 40b.**
 
-1. Organy wyspecjalizowane przeprowadzajà kontrol´ u podmiotów obj´tych zakresem kontroli, zwanych dalej „kontrolowanymi”.
+1. Organy wyspecjalizowane przeprowadzają kontrolę u podmiotów objętych zakresem kontroli, zwanych dalej Ńkontrolowanymi”.
 
-2. Kontrolowany oraz inne podmioty posiadajàce dowody lub informacje niezb´dne do ustalenia, czy wyrób spe∏nia zasadnicze wymagania, sà obowiàzani do przekazania tych dowodów iudzielania informacji na ˝àdanie organu prowadzàcego kontrol´.
+2. Kontrolowany oraz inne podmioty posiadające dowody lub informacje niezbędne do ustalenia, czy wyrób spełnia zasadnicze wymagania, są obowiązani do przekazania tych dowodów iudzielania informacji na żądanie organu prowadzącego kontrolę.
 
-3. ˚àdanie, októrym mowa wust. 2, powinno zawieraç:
+3. ˚ądanie, októrym mowa wust. 2, powinno zawierać:
 
-- **1)** okreÊlenie rodzaju dowodów oraz rodzaju i zakresu informacji, którego dotyczy;
-- **2)** wskazanie celu ˝àdania;
-- **3)** okreÊlenie terminu udost´pnienia dowodów lub udzielenia informacji;
-- **4)** pouczenie o skutkach nieudost´pnienia ˝àdanych dowodów lub informacji albo udost´pnienia dowodów lub informacji nieprawdziwych lub wprowadzajàcych wb∏àd.
+- **1)** określenie rodzaju dowodów oraz rodzaju i zakresu informacji, którego dotyczy;
+- **2)** wskazanie celu żądania;
+- **3)** określenie terminu udostępnienia dowodów lub udzielenia informacji;
+- **4)** pouczenie o skutkach nieudostępnienia żądanych dowodów lub informacji albo udostępnienia dowodów lub informacji nieprawdziwych lub wprowadzających wbłąd.
 
 **Art. 40c.**
 
-1. Je˝eli kontrolowany lub podmioty, o których mowa w art. 40b ust. 2, nie udzielà informacji lub nie wspó∏dzia∏ajà w toku kontroli, ustaleƒ dokonuje si´ na podstawie dowodów, danych lub informacji dost´pnych organowi wyspecjalizowanemu przeprowadzajàcemu kontrol´.
+1. Jeżeli kontrolowany lub podmioty, o których mowa w art. 40b ust. 2, nie udzielą informacji lub nie współdziałają w toku kontroli, ustaleń dokonuje się na podstawie dowodów, danych lub informacji dostępnych organowi wyspecjalizowanemu przeprowadzającemu kontrolę.
 
-2. Je˝eli kontrolowany lub podmioty, o których mowa w art. 40b ust. 2, przedstawià wprowadzajàce w b∏àd lub nieprawdziwe dowody, dane lub informacje, organ wyspecjalizowany przeprowadzajàcy kontrol´ pomija je przy ustalaniu stanu faktycznego sprawy.
+2. Jeżeli kontrolowany lub podmioty, o których mowa w art. 40b ust. 2, przedstawią wprowadzające w błąd lub nieprawdziwe dowody, dane lub informacje, organ wyspecjalizowany przeprowadzający kontrolę pomija je przy ustalaniu stanu faktycznego sprawy.
 
-3. Kontrolowanego lub podmioty, októrych mowa wart. 40bust. 2, informuje si´ o skutkach dzia∏aƒ okreÊlonych wust. 1 i2.
+3. Kontrolowanego lub podmioty, októrych mowa wart. 40bust. 2, informuje się o skutkach działań określonych wust. 1 i2.
 
 **Art. 40d.**
 
-1. Informacje uzyskane w toku kontroli przez organ wyspecjalizowany nie podlegajà ujawnieniu, pod warunkiem ˝e przekazujàcy je wska˝e przyczyn´, dla której wnioskuje o ich nieujawnienie, zzastrze˝eniem ust. 3.
+1. Informacje uzyskane w toku kontroli przez organ wyspecjalizowany nie podlegają ujawnieniu, pod warunkiem że przekazujący je wskaże przyczynę, dla której wnioskuje o ich nieujawnienie, zzastrzeżeniem ust. 3.
 
-2. Informacje obj´te tajemnicà przedsi´biorstwa, rozumiane jako nieujawnione do wiadomoÊci publicznej informacje techniczne, technologiczne oraz organizacyjne przedsi´biorstwa lub inne informacje, co do których przedsi´biorca podjà∏ niezb´dne dzia∏ania wcelu zachowania ich poufnoÊci, uzyskane w toku kontroli, mogà byç wykorzystane wy∏àcznie do celów, dla których zosta∏y zgromadzone, z zastrze˝eniem ust. 3.
+2. Informacje objęte tajemnicą przedsiębiorstwa, rozumiane jako nieujawnione do wiadomości publicznej informacje techniczne, technologiczne oraz organizacyjne przedsiębiorstwa lub inne informacje, co do których przedsiębiorca podjął niezbędne działania wcelu zachowania ich poufności, uzyskane w toku kontroli, mogą być wykorzystane wyłącznie do celów, dla których zostały zgromadzone, z zastrzeżeniem ust. 3.
 
-3. Je˝eli zachodzi potrzeba ujawnienia informacji oraz dowodów uzyskanych w toku kontroli, Prezes UOKiK lub organ wyspecjalizowany ujawni je wzakresie niezb´dnym do wyjaÊnienia podj´tych w post´powaniu rozstrzygni´ç.
+3. Jeżeli zachodzi potrzeba ujawnienia informacji oraz dowodów uzyskanych w toku kontroli, Prezes UOKiK lub organ wyspecjalizowany ujawni je wzakresie niezbędnym do wyjaśnienia podjętych w postępowaniu rozstrzygnięć.
 
 **Art. 40e.**
 
-1. Kontrol´ przeprowadza si´ wobecnoÊci kontrolowanego lub jego upowa˝nionego pracownika.
+1. Kontrolę przeprowadza się wobecności kontrolowanego lub jego upoważnionego pracownika.
 
-2. Kontrolowany lub jego upowa˝niony pracownik sà obowiàzani umo˝liwiç wykonywanie kontroli, a w szczegól1) zapewniç wglàd w dokumenty obj´te zakresem kontroli;
+2. Kontrolowany lub jego upoważniony pracownik są obowiązani umożliwić wykonywanie kontroli, a w szczegól1) zapewnić wgląd w dokumenty objęte zakresem kontroli;
 
-- **2)** wydaç za pokwitowaniem wyroby lub dokumenty, je˝eli jest to niezb´dne do przeprowadzenia ich dalszej analizy lub dok∏adniejszej kontroli;
-- **3)** udzieliç niezb´dnej pomocy technicznej, je˝eli dokumenty b´dàce przedmiotem kontroli zosta∏y zapisane na elektronicznych noÊnikach informacji;
-- **4)** udost´pniç obiekty i pomieszczenia, w których znajdujà si´ dokumenty i wyroby obj´te zakresem kontroli;
-- **5)** udzielaç wszelkich wyjaÊnieƒ w sprawach obj´tych zakresem kontroli;
-- **6)** udost´pniç dokumenty wcelu sporzàdzenia kopii; zgodnoÊç kopii noÊci: z orygina∏em dokumentu potwierdza kontrolowany.
+- **2)** wydać za pokwitowaniem wyroby lub dokumenty, jeżeli jest to niezbędne do przeprowadzenia ich dalszej analizy lub dokładniejszej kontroli;
+- **3)** udzielić niezbędnej pomocy technicznej, jeżeli dokumenty będące przedmiotem kontroli zostały zapisane na elektronicznych nośnikach informacji;
+- **4)** udostępnić obiekty i pomieszczenia, w których znajdują się dokumenty i wyroby objęte zakresem kontroli;
+- **5)** udzielać wszelkich wyjaśnień w sprawach objętych zakresem kontroli;
+- **6)** udostępnić dokumenty wcelu sporządzenia kopii; zgodność kopii ności: z oryginałem dokumentu potwierdza kontrolowany.
 
 **Art. 40f.**
 
-1. W toku kontroli osoba kontrolujàca wszczególnoÊci mo˝e:
+1. W toku kontroli osoba kontrolująca wszczególności może:
 
-- **1)** badaç akta i dokumenty w zakresie obj´tym kontrolà;
-- **2)** dokonywaç ogl´dzin terenów, obiektów, pomieszczeƒ, wyrobów i innych rzeczy w zakresie obj´tym kontrolà;
-- **3)** legitymowaç osoby w celu stwierdzenia ich to˝samoÊci, je˝eli jest to niezb´dne na potrzeby kontroli;
-- **4)** ˝àdaç udzielenia, w wyznaczonym terminie, pisemnych i ustnych wyjaÊnieƒ wsprawach obj´tych zakresem kontroli;
-- **5)** przes∏uchiwaç osoby wcharakterze strony lub Êwiadka, je˝eli jest to niezb´dne do wyczerpujàcego wyjaÊnienia okolicznoÊci sprawy;
-- **6)** zasi´gaç opinii bieg∏ych, je˝eli jest to niezb´dne na potrzeby kontroli;
-- **7)** zabezpieczaç dowody;
-- **8)** pobieraç nieodp∏atnie próbki wyrobów do badaƒ;
-- **9)** zbieraç inne niezb´dne dowody wzakresie obj´tym kontrolà.
+- **1)** badać akta i dokumenty w zakresie objętym kontrolą;
+- **2)** dokonywać oględzin terenów, obiektów, pomieszczeń, wyrobów i innych rzeczy w zakresie objętym kontrolą;
+- **3)** legitymować osoby w celu stwierdzenia ich tożsamości, jeżeli jest to niezbędne na potrzeby kontroli;
+- **4)** żądać udzielenia, w wyznaczonym terminie, pisemnych i ustnych wyjaśnień wsprawach objętych zakresem kontroli;
+- **5)** przesłuchiwać osoby wcharakterze strony lub świadka, jeżeli jest to niezbędne do wyczerpującego wyjaśnienia okoliczności sprawy;
+- **6)** zasięgać opinii biegłych, jeżeli jest to niezbędne na potrzeby kontroli;
+- **7)** zabezpieczać dowody;
+- **8)** pobierać nieodpłatnie próbki wyrobów do badań;
+- **9)** zbierać inne niezbędne dowody wzakresie objętym kontrolą.
 
-2. Osoba kontrolujàca jest uprawniona do wst´pu oraz poruszania si´ na terenie, w obiektach i pomieszczeniach kontrolowanego za okazaniem legitymacji s∏u˝bowej oraz upowa˝nienia do przeprowadzenia kontroli, bez obowiàzku uzyskiwania przepustki okreÊlonej wregulaminie wewn´trznym.
+2. Osoba kontrolująca jest uprawniona do wstępu oraz poruszania się na terenie, w obiektach i pomieszczeniach kontrolowanego za okazaniem legitymacji służbowej oraz upoważnienia do przeprowadzenia kontroli, bez obowiązku uzyskiwania przepustki określonej wregulaminie wewnętrznym.
 
-3. Osoba kontrolujàca podlega przepisom bezpieczeƒstwa i higieny pracy obowiàzujàcym wjednostce kontrolowanej.
+3. Osoba kontrolująca podlega przepisom bezpieczeństwa i higieny pracy obowiązującym wjednostce kontrolowanej.
 
 **Art. 40g.**
 
-1. Przedmiotem kontroli mo˝e byç wyrób, prawid∏owoÊç oznakowania wyrobu oraz dokumentacja techniczna wyrobu.
+1. Przedmiotem kontroli może być wyrób, prawidłowość oznakowania wyrobu oraz dokumentacja techniczna wyrobu.
 
-2. Osoba kontrolujàca mo˝e wtoku kontroli ˝àdaç od osoby zobowiàzanej do przechowywania dokumentów zwiàzanych z ocenà zgodnoÊci przedstawienia, w wyznaczonym terminie, wszczególnoÊci:
+2. Osoba kontrolująca może wtoku kontroli żądać od osoby zobowiązanej do przechowywania dokumentów związanych z oceną zgodności przedstawienia, w wyznaczonym terminie, wszczególności:
 
-- **1)** deklaracji zgodnoÊci;
+- **1)** deklaracji zgodności;
 - **2)** nazwy iadresu producenta wyrobu;
-- **3)** wykazu uwzgl´dnionych norm zharmonizowanych lub rozwiàzaƒ przyj´tych w celu stwierdzenia zgodnoÊci wyrobu z zasadniczymi wymaganiami;
-- **4)** ogólnego opisu wyrobu, schematu wyrobu oraz instrukcji obs∏ugi wyrobu.
+- **3)** wykazu uwzględnionych norm zharmonizowanych lub rozwiązań przyjętych w celu stwierdzenia zgodności wyrobu z zasadniczymi wymaganiami;
+- **4)** ogólnego opisu wyrobu, schematu wyrobu oraz instrukcji obsługi wyrobu.
 
-3. W przypadku uzasadnionych wàtpliwoÊci co do zgodnoÊci wyrobu z zasadniczymi wymaganiami osoba kontrolujàca mo˝e dodatkowo za˝àdaç od osoby zobowiàzanej do przechowywania dokumentów zwiàzanych zocenà zgodnoÊci przedstawienia, w wyznaczonym terminie, wszczególnoÊci:
+3. W przypadku uzasadnionych wątpliwości co do zgodności wyrobu z zasadniczymi wymaganiami osoba kontrolująca może dodatkowo zażądać od osoby zobowiązanej do przechowywania dokumentów związanych zoceną zgodności przedstawienia, w wyznaczonym terminie, wszczególności:
 
-- **1)** sprawozdania z przeprowadzonych badaƒ;
-- **2)** informacji o systemie zarzàdzania jakoÊcià.
+- **1)** sprawozdania z przeprowadzonych badań;
+- **2)** informacji o systemie zarządzania jakością.
 
-4. W przypadku gdy kontrolowany wyrób stwarza zagro˝enie dla ˝ycia, zdrowia, mienia lub Êrodowiska, osoba kontrolujàca mo˝e za˝àdaç od osoby zobowiàzanej do przechowywania dokumentów zwiàzanych z ocenà zgodnoÊci przedstawienia, w wyznaczonym terminie, pe∏nej dokumentacji technicznej.
+4. W przypadku gdy kontrolowany wyrób stwarza zagrożenie dla życia, zdrowia, mienia lub środowiska, osoba kontrolująca może zażądać od osoby zobowiązanej do przechowywania dokumentów związanych z oceną zgodności przedstawienia, w wyznaczonym terminie, pełnej dokumentacji technicznej.
 
-5. Je˝eli dokumenty, o których mowa wust. 2—4, sporzàdzono wj´zyku obcym, osoba kontrolujàca mo˝e ˝àdaç, wzakresie niezb´dnym do przeprowadzenia kontroli, t∏umaczenia tych dokumentów na j´zyk polski.
+5. Jeżeli dokumenty, o których mowa wust. 2—4, sporządzono wjęzyku obcym, osoba kontrolująca może żądać, wzakresie niezbędnym do przeprowadzenia kontroli, tłumaczenia tych dokumentów na język polski.
 
-**Art. 40h.** W przypadku gdy osoba zobowiàzana do przechowywania dokumentów zwiàzanych z ocenà zgodnoÊci nie przedstawi tych dokumentów osobie kontrolujàcej lub z przedstawionych dokumentów nie wynika, ˝e wyrób spe∏nia zasadnicze wymagania, organ wyspecjalizowany mo˝e poddaç wyrób badaniom lub zleciç ich przeprowadzenie akredytowanemu laboratorium w celu ustalenia, czy
+**Art. 40h.** W przypadku gdy osoba zobowiązana do przechowywania dokumentów związanych z oceną zgodności nie przedstawi tych dokumentów osobie kontrolującej lub z przedstawionych dokumentów nie wynika, że wyrób spełnia zasadnicze wymagania, organ wyspecjalizowany może poddać wyrób badaniom lub zlecić ich przeprowadzenie akredytowanemu laboratorium w celu ustalenia, czy
 
 **Art. 40i.**
 
-1. W przypadku zabezpieczenia dowodów, pobrania próbek, dokonania ogl´dzin lub przeprowadzenia innych czynnoÊci sporzàdza si´ protokó∏.
+1. W przypadku zabezpieczenia dowodów, pobrania próbek, dokonania oględzin lub przeprowadzenia innych czynności sporządza się protokół.
 
-2. W celu poddania wyrobu badaniom, októrych mowa wart. 40h, organ wyspecjalizowany pobiera nieodp∏atnie próbki.
+2. W celu poddania wyrobu badaniom, októrych mowa wart. 40h, organ wyspecjalizowany pobiera nieodpłatnie próbki.
 
-3. RównoczeÊnie z pobraniem próbki wyrobu nale˝y pobraç i zabezpieczyç dodatkowà próbk´ z tej samej partii wyrobu w iloÊci odpowiadajàcej iloÊci pobranej do badaƒ (próbka kontrolna).
+3. Równocześnie z pobraniem próbki wyrobu należy pobrać i zabezpieczyć dodatkową próbkę z tej samej partii wyrobu w ilości odpowiadającej ilości pobranej do badań (próbka kontrolna).
 
-4. Próbka kontrolna jest przechowywana przez kontrolowanego, do czasu jej zwolnienia przez organ wyspecjalizowany, w warunkach uniemo˝liwiajàcych zmian´ jakoÊci lub cech charakterystycznych wyrobu; w tym czasie nie mo˝e byç wprowadzana do wyrób spe∏nia zasadnicze wymagania. obrotu.
+4. Próbka kontrolna jest przechowywana przez kontrolowanego, do czasu jej zwolnienia przez organ wyspecjalizowany, w warunkach uniemożliwiających zmianę jakości lub cech charakterystycznych wyrobu; w tym czasie nie może być wprowadzana do wyrób spełnia zasadnicze wymagania. obrotu.
 
-5. Próbki kontrolnej nie pobiera si´, je˝eli:
+5. Próbki kontrolnej nie pobiera się, jeżeli:
 
-- **1)** pobranie próbki by∏oby utrudnione ze wzgl´du na wartoÊç, rodzaj lub iloÊç wyrobu;
-- **2)** przechowanie próbki w warunkach uniemo˝liwiajàcych zmian´ jakoÊci lub cech charakterystycznych wyrobu jest niemo˝liwe.
+- **1)** pobranie próbki byłoby utrudnione ze względu na wartość, rodzaj lub ilość wyrobu;
+- **2)** przechowanie próbki w warunkach uniemożliwiających zmianę jakości lub cech charakterystycznych wyrobu jest niemożliwe.
 
-6. Po przeprowadzeniu badaƒ sporzàdza si´ sprawozdanie zbadaƒ, które do∏àcza si´ do protoko∏u kontroli.
+6. Po przeprowadzeniu badań sporządza się sprawozdanie zbadań, które dołącza się do protokołu kontroli.
 
 **Art. 40j.**
 
-1. W przypadku stwierdzenia, ˝e wyrób nie spe∏nia zasadniczych wymagaƒ, op∏aty zwiàzane z badaniami ponosi osoba, która wprowadzi∏a wyrób do obrotu.
+1. W przypadku stwierdzenia, że wyrób nie spełnia zasadniczych wymagań, opłaty związane z badaniami ponosi osoba, która wprowadziła wyrób do obrotu.
 
-2. Op∏aty, o których mowa w ust. 1, organ wyspecjalizowany ustala na podstawie uzasadnionych kosztów badaƒ, z uwzgl´dnieniem rodzaju badanego wyrobu oraz stopnia skomplikowania i zakresu przeprowadzonych badaƒ.
+2. Opłaty, o których mowa w ust. 1, organ wyspecjalizowany ustala na podstawie uzasadnionych kosztów badań, z uwzględnieniem rodzaju badanego wyrobu oraz stopnia skomplikowania i zakresu przeprowadzonych badań.
 
-3. Op∏aty, o których mowa w ust. 1, stanowià dochód bud˝etu paƒstwa.
+3. Opłaty, o których mowa w ust. 1, stanowią dochód budżetu państwa.
 
-4. W przypadku stwierdzenia, ˝e wyrób spe∏nia zasadnicze wymagania, op∏aty zwiàzane zbadaniami ponosi Skarb Paƒstwa.
+4. W przypadku stwierdzenia, że wyrób spełnia zasadnicze wymagania, opłaty związane zbadaniami ponosi Skarb Państwa.
 
-5. Do op∏at, o których mowa w ust. 1, stosuje si´ przepisy o post´powaniu egzekucyjnym wadministracji.
+5. Do opłat, o których mowa w ust. 1, stosuje się przepisy o postępowaniu egzekucyjnym wadministracji.
 
 **Art. 40k.**
 
-1. W przypadku gdy w wyniku kontroli organ wyspecjalizowany, który jà prowadzi∏, stwierdzi, ˝e wyrób nie spe∏nia zasadniczych wymagaƒ, mo˝e, wdrodze decyzji, na okres nie d∏u˝szy ni˝ 2miesiàce zakazaç dalszego przekazywania wyrobu u˝ytkownikowi, konsumentowi isprzedawcy.
+1. W przypadku gdy w wyniku kontroli organ wyspecjalizowany, który ją prowadził, stwierdzi, że wyrób nie spełnia zasadniczych wymagań, może, wdrodze decyzji, na okres nie dłuższy niż 2miesiące zakazać dalszego przekazywania wyrobu użytkownikowi, konsumentowi isprzedawcy.
 
-2. W przypadku wszcz´cia post´powania wsprawie wprowadzenia do obrotu wyrobu niezgodnego z zasadniczymi wymaganiami organ wyspecjalizowany prowadzàcy post´powanie mo˝e, wdrodze decyzji, przed∏u˝yç zakaz, októrym mowa wust. 1, do czasu zakoƒczenia post´powania.
+2. W przypadku wszczęcia postępowania wsprawie wprowadzenia do obrotu wyrobu niezgodnego z zasadniczymi wymaganiami organ wyspecjalizowany prowadzący postępowanie może, wdrodze decyzji, przedłużyć zakaz, októrym mowa wust. 1, do czasu zakończenia postępowania.
 
-3. Wprzypadku gdy organ wyspecjalizowany prowadzàcy post´powanie stwierdzi, ˝e wyrób spe∏nia zasadnicze wymagania, uchyla decyzj´, októrej mowa wust. 1.
+3. Wprzypadku gdy organ wyspecjalizowany prowadzący postępowanie stwierdzi, że wyrób spełnia zasadnicze wymagania, uchyla decyzję, októrej mowa wust. 1.
 
-**Art. 40l.** Organ wyspecjalizowany, który przeprowadzi∏ kontrol´, przekazuje Prezesowi UOKiK informacje dotyczàce ustaleƒ kontroli, wszczególnoÊci informacj´, czy wyrób spe∏nia zasadnicze wymagania, a w przypadku stwierdzenia niezgodnoÊci z zasadniczymi wymaganiami czy mogà byç one usuni´te.
+**Art. 40l.** Organ wyspecjalizowany, który przeprowadził kontrolę, przekazuje Prezesowi UOKiK informacje dotyczące ustaleń kontroli, wszczególności informację, czy wyrób spełnia zasadnicze wymagania, a w przypadku stwierdzenia niezgodności z zasadniczymi wymaganiami czy mogą być one usunięte.
 
-**Art. 40m.** W przypadku gdy przepisy szczególne dopuszczajà mo˝liwoÊç, przed wprowadzeniem do obrotu, prezentowania na targach, wystawach i pokazach oraz w innych miejscach wyrobów niezgodnych zzasadniczymi wymaganiami, organy wyspecjalizowane mogà prowadziç kontrol´ przestrzegania sposobu ich prezentowania, okreÊlonego przez te przepisy.”;
+**Art. 40m.** W przypadku gdy przepisy szczególne dopuszczają możliwość, przed wprowadzeniem do obrotu, prezentowania na targach, wystawach i pokazach oraz w innych miejscach wyrobów niezgodnych zzasadniczymi wymaganiami, organy wyspecjalizowane mogą prowadzić kontrolę przestrzegania sposobu ich prezentowania, określonego przez te przepisy.”;
 
 **Art. 41b.**
 
-1. Organ prowadzàcy post´powanie mo˝e, w drodze postanowienia, wyznaczyç stronie post´powania termin na usuni´cie niezgodnoÊci wyrobu zzasadniczymi wymaganiami lub wycofanie wyrobu zobrotu.
+1. Organ prowadzący postępowanie może, w drodze postanowienia, wyznaczyć stronie postępowania termin na usunięcie niezgodności wyrobu zzasadniczymi wymaganiami lub wycofanie wyrobu zobrotu.
 
-2. Organ prowadzàcy post´powanie mo˝e przeprowadziç albo zleciç przeprowadzenie kontroli majàcej na celu ustalenie, czy niespe∏nienie przez wyrób zasadniczych wymagaƒ zosta∏o faktycznie usuni´te lub wyrób zosta∏ wycofany z obrotu. Przepisy art. 40 ust. 2 i3 oraz art. 40a—40lstosuje si´ odpowiednio.
+2. Organ prowadzący postępowanie może przeprowadzić albo zlecić przeprowadzenie kontroli mającej na celu ustalenie, czy niespełnienie przez wyrób zasadniczych wymagań zostało faktycznie usunięte lub wyrób został wycofany z obrotu. Przepisy art. 40 ust. 2 i3 oraz art. 40a—40lstosuje się odpowiednio.
 
 **Art. 41c.**
 
-1. Do terminu okreÊlonego w art. 41 ust.2 nie wlicza si´ okresów, októrych mowa wart. 41b.
+1. Do terminu określonego w art. 41 ust.2 nie wlicza się okresów, októrych mowa wart. 41b.
 
-2. Organ prowadzàcy post´powanie wydaje decyzj´ oumorzeniu post´powania, je˝eli: stron post´powania.
+2. Organ prowadzący postępowanie wydaje decyzję oumorzeniu postępowania, jeżeli: stron postępowania.
 
-- **1)** stwierdzi, ˝e wyrób spe∏nia zasadnicze wymagania;
-- **2)** niezgodnoÊç wyrobu z zasadniczymi wymaganiami zosta∏a usuni´ta albo wyrób zosta∏ wycofany zobrotu;
-- **3)** post´powanie z innych przyczyn sta∏o si´ bezprzedmiotowe.
+- **1)** stwierdzi, że wyrób spełnia zasadnicze wymagania;
+- **2)** niezgodność wyrobu z zasadniczymi wymaganiami została usunięta albo wyrób został wycofany zobrotu;
+- **3)** postępowanie z innych przyczyn stało się bezprzedmiotowe.
 
-3. Je˝eli w wyniku kontroli stwierdzono, ˝e wyrób nie spe∏nia zasadniczych wymagaƒ, a strona post´powania nie podj´∏a dzia∏aƒ, o których mowa wart. 41bust. 1, organ prowadzàcy post´powanie mo˝e, wdrodze decyzji:
+3. Jeżeli w wyniku kontroli stwierdzono, że wyrób nie spełnia zasadniczych wymagań, a strona postępowania nie podjęła działań, o których mowa wart. 41bust. 1, organ prowadzący postępowanie może, wdrodze decyzji:
 
-- **1)** nakazaç wycofanie wyrobu zobrotu;
-- **2)** zakazaç dalszego przekazywania wyrobu u˝ytkownikowi, konsumentowi isprzedawcy;
-- **3)** ograniczyç dalsze przekazywanie wyrobu u˝ytkownikowi, konsumentowi isprzedawcy;
-- **4)** nakazaç stronie post´powania powiadomiç konsumentów lub u˝ytkowników wyrobu ostwierdzonych niezgodnoÊciach z zasadniczymi wymaganiami, okreÊlajàc termin isposób ich powiadomienia.
+- **1)** nakazać wycofanie wyrobu zobrotu;
+- **2)** zakazać dalszego przekazywania wyrobu użytkownikowi, konsumentowi isprzedawcy;
+- **3)** ograniczyć dalsze przekazywanie wyrobu użytkownikowi, konsumentowi isprzedawcy;
+- **4)** nakazać stronie postępowania powiadomić konsumentów lub użytkowników wyrobu ostwierdzonych niezgodnościach z zasadniczymi wymaganiami, określając termin isposób ich powiadomienia.
 
-4. W decyzji, o której mowa w ust. 3 pkt 1, organ prowadzàcy post´powanie mo˝e tak˝e nakazaç odkupienie wyrobu na ˝àdanie osób, które faktycznie nim w∏adajà. Przepisy or´kojmi za wady stosuje si´ odpowiednio.
+4. W decyzji, o której mowa w ust. 3 pkt 1, organ prowadzący postępowanie może także nakazać odkupienie wyrobu na żądanie osób, które faktycznie nim władają. Przepisy orękojmi za wady stosuje się odpowiednio.
 
-5. W przypadku wydania decyzji stwierdzajàcej, ˝e wyrób nie spe∏nia zasadniczych wymagaƒ, organ prowadzàcy post´powanie mo˝e nakazaç zniszczenie wyrobu na koszt strony post´powania, je˝eli w inny sposób nie mo˝e usunàç zagro˝eƒ spowodowanych przez wyrób.
+5. W przypadku wydania decyzji stwierdzającej, że wyrób nie spełnia zasadniczych wymagań, organ prowadzący postępowanie może nakazać zniszczenie wyrobu na koszt strony postępowania, jeżeli w inny sposób nie może usunąć zagrożeń spowodowanych przez wyrób.
 
-6. Ârodki, o których mowa w ust. 3—5, stosuje si´ w zale˝noÊci od rodzaju stwierdzonych niezgodnoÊci wyrobu z zasadniczymi wymaganiami oraz stopnia zagro˝enia powodowanego przez wyrób, majàc na celu wy∏àcznie odwrócenie gro˝àcego niebezpieczeƒstwa lub usuni´cie ju˝ istniejàcego oraz zapewnienie bezpieczeƒstwa, zdrowia i˝ycia konsumentów.
+6. Ârodki, o których mowa w ust. 3—5, stosuje się w zależności od rodzaju stwierdzonych niezgodności wyrobu z zasadniczymi wymaganiami oraz stopnia zagrożenia powodowanego przez wyrób, mając na celu wyłącznie odwrócenie grożącego niebezpieczeństwa lub usunięcie już istniejącego oraz zapewnienie bezpieczeństwa, zdrowia iżycia konsumentów.
 
-7. Ârodki, o których mowa w ust. 3—5, mogà zostaç wprowadzone na czas okreÊlony lub nieokreÊlony.
+7. Ârodki, o których mowa w ust. 3—5, mogą zostać wprowadzone na czas określony lub nieokreślony.
 
-8. Je˝eli wymaga tego interes konsumentów lub u˝ytkowników wyrobu, organ prowadzàcy post´powanie nadaje decyzji, o której mowa w ust. 3, rygor natychmiastowej wykonalnoÊci.
+8. Jeżeli wymaga tego interes konsumentów lub użytkowników wyrobu, organ prowadzący postępowanie nadaje decyzji, o której mowa w ust. 3, rygor natychmiastowej wykonalności.
 
-9. W celu stwierdzenia, czy decyzje, o których mowa w ust. 3, zosta∏y wykonane, organ prowadzàcy post´powanie mo˝e przeprowadziç kontrol´. Przepisy art. 40 ust. 2 i 3 oraz art. 40a—40l stosuje si´ odpowiednio.”;
+9. W celu stwierdzenia, czy decyzje, o których mowa w ust. 3, zostały wykonane, organ prowadzący postępowanie może przeprowadzić kontrolę. Przepisy art. 40 ust. 2 i 3 oraz art. 40a—40l stosuje się odpowiednio.”;
 
-- **25)** art. 42—47 otrzymujà brzmienie: „Art. 42. Wzakresie nieuregulowanym do post´powania w sprawie wprowadzonych do obrotu wyrobów niezgodnych z zasadniczymi wymaganiami stosuje si´ przepisy Kodeksu post´powania administracyjnego.
+- **25)** art. 42—47 otrzymują brzmienie: ŃArt. 42. Wzakresie nieuregulowanym do postępowania w sprawie wprowadzonych do obrotu wyrobów niezgodnych z zasadniczymi wymaganiami stosuje się przepisy Kodeksu postępowania administracyjnego.
 
 **Art. 43.**
 
-1. Je˝eli organ celny podczas kontroli celnej wyrobów, które majà byç obj´te procedurà dopuszczenia do obrotu w rozumieniu przepisów prawa celnego, stwierdzi, ˝e istniejà uzasadnione okolicznoÊci wskazujàce, ˝e wyrób nie spe∏nia zasadniczych wymagaƒ, zatrzymuje wyrób iwyst´puje do organu wyspecjalizowanego owydanie opinii.
+1. Jeżeli organ celny podczas kontroli celnej wyrobów, które mają być objęte procedurą dopuszczenia do obrotu w rozumieniu przepisów prawa celnego, stwierdzi, że istnieją uzasadnione okoliczności wskazujące, że wyrób nie spełnia zasadniczych wymagań, zatrzymuje wyrób iwystępuje do organu wyspecjalizowanego owydanie opinii.
 
-2. Je˝eli organ wyspecjalizowany wyda opini´, ˝e wyrób nie spe∏nia zasadniczych wymagaƒ, organ celny cofa wyrób za granic´ albo, gdy cofni´cie nie jest mo˝liwe, nadaje wyrobowi przeznaczenie celne powrotny wywóz. Wprzypadku gdy nie jest mo˝liwe cofni´cie wyrobu albo jego powrotny wywóz, organ celny mo˝e dokonaç sprzeda˝y wyrobu osobie, która zobowià˝e si´ do dokonania jego powrotnego wywozu, albo nakazaç zniszczenie wyrobu, je˝eli dokonanie jego sprzeda˝y b´dzie niemo˝liwe lub znacznie utrudniopiç do sàdu oorzeczenie przepadku wyrobu na rzecz Skarbu Paƒstwa.
+2. Jeżeli organ wyspecjalizowany wyda opinię, że wyrób nie spełnia zasadniczych wymagań, organ celny cofa wyrób za granicę albo, gdy cofnięcie nie jest możliwe, nadaje wyrobowi przeznaczenie celne powrotny wywóz. Wprzypadku gdy nie jest możliwe cofnięcie wyrobu albo jego powrotny wywóz, organ celny może dokonać sprzedaży wyrobu osobie, która zobowiąże się do dokonania jego powrotnego wywozu, albo nakazać zniszczenie wyrobu, jeżeli dokonanie jego sprzedaży będzie niemożliwe lub znacznie utrudniopić do sądu oorzeczenie przepadku wyrobu na rzecz Skarbu Państwa.
 
-3. Je˝eli organ celny stwierdzi, ˝e wyrób podlegajàcy ocenie zgodnoÊci nie jest prawid∏owo oznakowany, mo˝e podjàç dzia∏ania okreÊlone wust. 2 bez wyst´powania oopini´ do organu wyspecjalizowanego.
+3. Jeżeli organ celny stwierdzi, że wyrób podlegający ocenie zgodności nie jest prawidłowo oznakowany, może podjąć działania określone wust. 2 bez występowania oopinię do organu wyspecjalizowanego.
 
-4. Koszty cofni´cia wyrobu, jego powrotnego wywozu, sprzeda˝y lub zniszczenia ponoszà solidarnie: osoba, która wprowadzi∏a wyrób na polski obszar celny, osoba, która przyj´∏a odpowiedzialnoÊç za jego przywóz, bàdê osoba, wposiadaniu której wyrób si´ znajduje.
+4. Koszty cofnięcia wyrobu, jego powrotnego wywozu, sprzedaży lub zniszczenia ponoszą solidarnie: osoba, która wprowadziła wyrób na polski obszar celny, osoba, która przyjęła odpowiedzialność za jego przywóz, bądê osoba, wposiadaniu której wyrób się znajduje.
 
-5. W przypadku podj´cia dzia∏aƒ, o których mowa wust. 2, organy celne informujà onich Prezesa UOKiK.
+5. W przypadku podjęcia działań, o których mowa wust. 2, organy celne informują onich Prezesa UOKiK.
 
-6. Minister w∏aÊciwy do spraw finansów publicznych okreÊli, wdrodze rozporzàdzenia, tryb: ne. Organ celny mo˝e równie˝ wystà1) post´powania organów celnych przy zatrzymywaniu wyrobów;
+6. Minister właściwy do spraw finansów publicznych określi, wdrodze rozporządzenia, tryb: ne. Organ celny może również wystą1) postępowania organów celnych przy zatrzymywaniu wyrobów;
 
-- **2)** post´powania organów wyspecjalizowanych w zakresie wydawania opinii na wniosek organów celnych o spe∏nianiu przez zatrzymany wyrób zasadniczych wymagaƒ;
-- **3)** informowania przez organy celne Prezesa UOKiK o dzia∏aniach podejmowanych w odniesieniu do wyrobów niezgodnych z zasadniczymi wymaganiami oraz zakres przekazywanych informacji majàc na uwadze w szczególnoÊci koniecznoÊç niezw∏ocznego przekazywania przez organy wyspecjalizowane opinii owyrobie organom celnym oraz realizacji zadaƒ wykonywanych przez Prezesa UOKiK wzakresie prowadzenia rejestru.
+- **2)** postępowania organów wyspecjalizowanych w zakresie wydawania opinii na wniosek organów celnych o spełnianiu przez zatrzymany wyrób zasadniczych wymagań;
+- **3)** informowania przez organy celne Prezesa UOKiK o działaniach podejmowanych w odniesieniu do wyrobów niezgodnych z zasadniczymi wymaganiami oraz zakres przekazywanych informacji mając na uwadze w szczególności konieczność niezwłocznego przekazywania przez organy wyspecjalizowane opinii owyrobie organom celnym oraz realizacji zadań wykonywanych przez Prezesa UOKiK wzakresie prowadzenia rejestru.
 
-**Art. 44.** Prezes UOKiK niezw∏ocznie informuje Komisj´ Europejskà o decyzjach, o których mowa wart. 41cust. 3 pkt 1—3 oraz ust.5.
+**Art. 44.** Prezes UOKiK niezwłocznie informuje Komisję Europejską o decyzjach, o których mowa wart. 41cust. 3 pkt 1—3 oraz ust.5.
 
-**Art. 45.** Kto wprowadza do obrotu wyroby niezgodne zzasadniczymi wymaganiami, podlega grzywnie do 100 000 z∏.
+**Art. 45.** Kto wprowadza do obrotu wyroby niezgodne zzasadniczymi wymaganiami, podlega grzywnie do 100 000 zł.
 
-**Art. 46.** Kto umieszcza oznakowanie CE na wyrobie, który nie spe∏nia zasadniczych wymagaƒ albo dla którego producent lub jego upowa˝niony przedstawiciel nie wystawi∏ deklaracji zgodnoÊci, podlega grzywnie do 100 000 z∏.
+**Art. 46.** Kto umieszcza oznakowanie CE na wyrobie, który nie spełnia zasadniczych wymagań albo dla którego producent lub jego upoważniony przedstawiciel nie wystawił deklaracji zgodności, podlega grzywnie do 100 000 zł.
 
-**Art. 47.** Kto umieszcza na wyrobie znak podobny do oznakowania CE, mogàcy wprowadziç wb∏àd nabywc´ iu˝ytkownika tego wyrobu, podlega grzywnie do 100 000 z∏.”;
+**Art. 47.** Kto umieszcza na wyrobie znak podobny do oznakowania CE, mogący wprowadzić wbłąd nabywcę iużytkownika tego wyrobu, podlega grzywnie do 100 000 zł.”;
 
-**Art. 2.** Wustawie zdnia 6 marca 1981 r. oPaƒstwowej Inspekcji Pracy (Dz. U. z 2001 r. 124, poz. 1362, 128, poz. 1045 i 154, poz. 1800 oraz z 2002 r. 166, poz. 1360) w art. 8 w ust. 1 pkt 5a otrzymuje brzmienie: „5a) kontrola nad wyrobami wprowadzonymi do obrotu podlegajàcymi ocenie zgodnoÊci, w zakresie spe∏niania przez nie zasadniczych wymagaƒ dotyczàcych bezpieczeƒstwa i higieny pracy, okreÊlonych wodr´bnych przepisach,”.
+**Art. 2.** Wustawie zdnia 6 marca 1981 r. oPaństwowej Inspekcji Pracy (Dz. U. z 2001 r. 124, poz. 1362, 128, poz. 1045 i 154, poz. 1800 oraz z 2002 r. 166, poz. 1360) w art. 8 w ust. 1 pkt 5a otrzymuje brzmienie: Ń5a) kontrola nad wyrobami wprowadzonymi do obrotu podlegającymi ocenie zgodności, w zakresie spełniania przez nie zasadniczych wymagań dotyczących bezpieczeństwa i higieny pracy, określonych wodrębnych przepisach,”.
 
-**Art. 3.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. 153, poz. 1502) w art. 42 wust. 2 wpkt 16 kropk´ zast´puje si´ Êrednikiem idodaje si´ pkt 17 wbrzmieniu: „17) wykonywania kontroli w zakresie zgodnoÊci z zasadniczymi wymaganiami wprowadzonych do obrotu wyrobów w odniesieniu do wyposa˝enia morskiego.”.
+**Art. 3.** W ustawie z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2003 r. 153, poz. 1502) w art. 42 wust. 2 wpkt 16 kropkę zastępuje się średnikiem idodaje się pkt 17 wbrzmieniu: Ń17) wykonywania kontroli w zakresie zgodności z zasadniczymi wymaganiami wprowadzonych do obrotu wyrobów w odniesieniu do wyposażenia morskiego.”.
 
-**Art. 4.** Wustawie zdnia 20 lipca 1991 r. oInspekcji Ochrony Ârodowiska (Dz. U. z2002 r. 112, poz. 982, 113, poz. 984 i 153, poz. 1271) w art. 2 w ust. 1 wpkt 13 kropk´ zast´puje si´ przecinkiem idodaje si´ pkt 14 wbrzmieniu: „14) kontrola wyrobów wprowadzonych do obrotu, podlegajàcych ocenie zgodnoÊci, w zakresie spe∏niania przez nie zasadniczych wymagaƒ dotyczàcych ochrony Êrodowiska, okreArt. 5.Wustawie zdnia 22 stycznia 2000 r. oogólnym bezpieczeƒstwie produktów (Dz. U. 15, poz. 179 oraz z 2002 r. 153, poz. 1271 i 166, poz. 1360) wart. 23 wust. 1 uchyla si´ pkt 1.
+**Art. 4.** Wustawie zdnia 20 lipca 1991 r. oInspekcji Ochrony Ârodowiska (Dz. U. z2002 r. 112, poz. 982, 113, poz. 984 i 153, poz. 1271) w art. 2 w ust. 1 wpkt 13 kropkę zastępuje się przecinkiem idodaje się pkt 14 wbrzmieniu: Ń14) kontrola wyrobów wprowadzonych do obrotu, podlegających ocenie zgodności, w zakresie spełniania przez nie zasadniczych wymagań dotyczących ochrony środowiska, okreArt. 5.Wustawie zdnia 22 stycznia 2000 r. oogólnym bezpieczeństwie produktów (Dz. U. 15, poz. 179 oraz z 2002 r. 153, poz. 1271 i 166, poz. 1360) wart. 23 wust. 1 uchyla się pkt 1.
 
-**Art. 6.** Wustawie zdnia 15 grudnia 2000 r. oochronie konkurencji ikonsumentów (Dz. U. z2003 r. 86, poz. 804) wart. 26 pkt 14aotrzymuje brzmienie: „14a) monitorowanie systemu kontroli wyrobów wprowadzonych do obrotu w zakresie ich zgodnoÊci z zasadniczymi wymaganiami, zgodnie z ustawà z dnia 30 sierpnia 2002 r. o systemie oceny zgodnoÊci (Dz. U. 166, poz. 1360 oraz z 2003 r. 80, poz. 718, Nr130, poz. 1188 iNr 170, poz. 1652),”.
+**Art. 6.** Wustawie zdnia 15 grudnia 2000 r. oochronie konkurencji ikonsumentów (Dz. U. z2003 r. 86, poz. 804) wart. 26 pkt 14aotrzymuje brzmienie: Ń14a) monitorowanie systemu kontroli wyrobów wprowadzonych do obrotu w zakresie ich zgodności z zasadniczymi wymaganiami, zgodnie z ustawą z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. 166, poz. 1360 oraz z 2003 r. 80, poz. 718, Nr130, poz. 1188 iNr 170, poz. 1652),”.
 
-**Art. 7.** Wustawie zdnia 21 lipca 2000 r. Prawo telekomunikacyjne (Dz. U. 73, poz. 852, zpóên. zm. Êlonych wprzepisach odr´bnych.”. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 7.** Wustawie zdnia 21 lipca 2000 r. Prawo telekomunikacyjne (Dz. U. 73, poz. 852, zpóên. zm. ślonych wprzepisach odrębnych.”. ) wprowadza się następujące zmiany:
 
-**Art. 10.** Wyroby podlegajàce obowiàzkowej certyfiwprowadzane do obrotu po dniu uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej, podlegajà ocenie zgodnoÊci na podstawie przepisów ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszà ustawà.
+**Art. 10.** Wyroby podlegające obowiązkowej certyfiwprowadzane do obrotu po dniu uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, podlegają ocenie zgodności na podstawie przepisów ustawy wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 11.** Przepisy wykonawcze wydane przed dniem wejÊcia w ˝ycie niniejszej ustawy na podstawie upowa˝nieƒ zmienionych tà ustawà zachowujà moc do czasu wejÊcia w ˝ycie przepisów wykonawczych na podstawie upowa˝nieƒ w brzmieniu nadanym niniejszà ustawà, nie d∏u˝ej jednak ni˝ do dnia 31 grudnia 2005 r.
+**Art. 11.** Przepisy wykonawcze wydane przed dniem wejścia w życie niniejszej ustawy na podstawie upoważnień zmienionych tą ustawą zachowują moc do czasu wejścia w życie przepisów wykonawczych na podstawie upoważnień w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 grudnia 2005 r.
 
-**Art. 12.** Przepis art. 2austawy wymienionej wart. 8 stosuje si´ od dnia uzyskania przez Rzeczpospolità Polskà cz∏onkostwa wUnii Europejskiej.
+**Art. 12.** Przepis art. 2austawy wymienionej wart. 8 stosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa wUnii Europejskiej.
 
-**Art. 13.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia, z wyjàtkiem art. 7, który wchodzi w˝ycie zdniem 1 paêdziernika 2003 r. kacji na znak bezpieczeƒstwa „B” i posiadajàce ten znak wydany na podstawie odr´bnych przepisów, Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 1653 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 16 wrzeÊnia 2003 r. wsprawie zwrotu lub umarzania nale˝noÊci celnych Na podstawie art. 252 § 1 ustawy zdnia 9 stycznia 1997 r. Kodeks celny (Dz. U. z2001 r. 75, poz. 802, zpóên. zm. ) zarzàdza si´, co nast´puje: § 1. Rozporzàdzenie okreÊla:
+**Art. 13.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 7, który wchodzi wżycie zdniem 1 paêdziernika 2003 r. kacji na znak bezpieczeństwa ŃB” i posiadające ten znak wydany na podstawie odrębnych przepisów, Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 1653 ROZPORZÑDZENIE RADY MINISTRÓW zdnia 16 września 2003 r. wsprawie zwrotu lub umarzania należności celnych Na podstawie art. 252 § 1 ustawy zdnia 9 stycznia 1997 r. Kodeks celny (Dz. U. z2001 r. 75, poz. 802, zpóên. zm. ) zarządza się, co następuje: § 1. Rozporządzenie określa:
 

@@ -26,7 +26,7 @@ domain: null
 
 Nr
 
-**Art. 1.** Wyra˝a si´ zgod´ na wycofanie przez Prezydenta Rzeczypospolitej Polskiej zastrze˝eƒ do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r. (Dz. U. z1956 r. Nr 38, poz.171):
+**Art. 1.** Wyraża się zgodę na wycofanie przez Prezydenta Rzeczypospolitej Polskiej zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r. (Dz. U. z1956 r. Nr 38, poz.171):
 
-**Art. 2.** Ustawa wchodzi w ˝ycie po up∏ywie od dnia og∏oszenia. si∏ zbrojnych na morzu; Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 254 USTAWA z dnia 8 stycznia 2004 r. o wycofaniu zastrze˝eƒ do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r.
+**Art. 2.** Ustawa wchodzi w życie po upływie od dnia ogłoszenia. sił zbrojnych na morzu; Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 254 USTAWA z dnia 8 stycznia 2004 r. o wycofaniu zastrzeżeń do Konwencji o ochronie ofiar wojny, podpisanych w Genewie dnia 12 sierpnia 1949 r.
 

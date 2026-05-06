@@ -24,7 +24,7 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092231776) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1776/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 27 paêdziernika 1994 r. o autostradach p∏atnych oraz o Krajowym Funduszu Drogowym (Dz.U. z2004r. Nr256, poz.2571, zpóên. zm. cen towarów i us∏ug konsumpcyjnych w okresie pierwszych trzech kwarta∏ów roku, w którym stawki ) wprowadza si´ nast´pujàce zmiany: ulegajà zmianie, wstosunku do analogicznego okresu roku poprzednie1) wart.37h ust.3 otrzymuje brzmienie: go. „3. Paliwami silnikowymi lub gazem, o których 3. Wskaênik wzrostu cen, októrym momowa wust.1, sà nast´pujàce produkty: wa wust.2, ustala si´ na podstawie
+**Art. 1.** W ustawie z dnia 27 paêdziernika 1994 r. o autostradach płatnych oraz o Krajowym Funduszu Drogowym (Dz.U. z2004r. Nr256, poz.2571, zpóên. zm. cen towarów i usług konsumpcyjnych w okresie pierwszych trzech kwartałów roku, w którym stawki ) wprowadza się następujące zmiany: ulegają zmianie, wstosunku do analogicznego okresu roku poprzednie1) wart.37h ust.3 otrzymuje brzmienie: go. Ń3. Paliwami silnikowymi lub gazem, o których 3. Wskaênik wzrostu cen, októrym momowa wust.1, są następujące produkty: wa wust.2, ustala się na podstawie
 
-**Art. 3.** Ustawa wchodzi w˝ycie zdniem 1 stycznia 2010r. Prezydent Rzeczypospolitej Polskiej:L. Kaczyƒski 1776 USTAWA zdnia 20 listopada 2009r. ozmianie ustawy oautostradach p∏atnych oraz oKrajowym Funduszu Drogowym oraz ustawy oobrocie instrumentami finansowymi ——————— ———————
+**Art. 3.** Ustawa wchodzi wżycie zdniem 1 stycznia 2010r. Prezydent Rzeczypospolitej Polskiej:L. Kaczyński 1776 USTAWA zdnia 20 listopada 2009r. ozmianie ustawy oautostradach płatnych oraz oKrajowym Funduszu Drogowym oraz ustawy oobrocie instrumentami finansowymi ——————— ———————
 

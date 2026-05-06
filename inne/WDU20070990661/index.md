@@ -26,57 +26,57 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070990661) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/661/text.pdf) |
 
-**Art. 1.** W ustawie dnia 16 kwietnia 2004 r. czasie pracy kierowców (Dz. U. 92, poz. 879 oraz 2005 r. 180, poz. 1497) wprowadza nast´pujàce zmiany:
+**Art. 1.** W ustawie dnia 16 kwietnia 2004 r. czasie pracy kierowców (Dz. U. 92, poz. 879 oraz 2005 r. 180, poz. 1497) wprowadza następujące zmiany:
 
 **Art. 30.**
 
-1. W warunkach i na zasadach, których mowa 14 1 i rozporzàdzenia (WE) nr 561/2006, minister w∏aÊciwy do spraw transportu mo˝e wprowadziç wyjàtki lub zezwalaç na tymczasowe odst´pstwa od stosowania przepisów 6—9tego rozporzàdzenia.
+1. W warunkach i na zasadach, których mowa 14 1 i rozporządzenia (WE) nr 561/2006, minister właściwy do spraw transportu może wprowadzić wyjątki lub zezwalać na tymczasowe odstępstwa od stosowania przepisów 6—9tego rozporządzenia.
 
-2. Minister w∏aÊciwy do spraw transportu informuje wprowadzeniu wyjàtków lub udzielonych tymczasowychodst´pstwach, których mowa drodze obwieszczenia, og∏aszanego wDzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”.”;
+2. Minister właściwy do spraw transportu informuje wprowadzeniu wyjątków lub udzielonych tymczasowychodstępstwach, których mowa drodze obwieszczenia, ogłaszanego wDzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”.”;
 
 - **15)** 31:
-    - **a)** 1 otrzymuje brzmienie: „1. Kierowca wykonujàcy przewóz drogowy, który okreÊlonych dniach nie prowadzi∏ pojazdu albo prowadzi∏ pojazd, do którego nie majà zastosowania przepisy rozporzàdzenia (WE) nr 561/2006 lub Umowy AETR, na ˝àdanie osoby uprawnionej do przeprowadzenia kontroli przedstawia zaÊwiadczenie, które zawiera nast´pujàce dane: imi´ inazwisko kierowcy, okres, którego dotyczy, wskazanie przyczyny nieposiadania wykresówek, nieu˝ytkowania karty kierowcy lub niesporzàdzenia wydruków, których mowa 15 7 rozporzàdzenia (EWG) nr3821/85, miejsce idat´ wystawienia, podpis pracodawcy lub podmiotu, na rzecz którego kierowca wykonywa∏ przewóz.”,
-    - **b)** 3 otrzymuje brzmienie: „3. Przepisy 1 i stosuje odpowiednio do kierowcy niezatrudnionego przez przedsi´biorc´, lecz wykonujàcego osobiÊcie przewozy na jego rzecz oraz do przedsi´——————— wykonujàcy przewozy drogowe przedk∏ada stosowne oÊwiadczenie.”;
+    - **a)** 1 otrzymuje brzmienie: Ń1. Kierowca wykonujący przewóz drogowy, który określonych dniach nie prowadził pojazdu albo prowadził pojazd, do którego nie mają zastosowania przepisy rozporządzenia (WE) nr 561/2006 lub Umowy AETR, na żądanie osoby uprawnionej do przeprowadzenia kontroli przedstawia zaświadczenie, które zawiera następujące dane: imię inazwisko kierowcy, okres, którego dotyczy, wskazanie przyczyny nieposiadania wykresówek, nieużytkowania karty kierowcy lub niesporządzenia wydruków, których mowa 15 7 rozporządzenia (EWG) nr3821/85, miejsce idatę wystawienia, podpis pracodawcy lub podmiotu, na rzecz którego kierowca wykonywał przewóz.”,
+    - **b)** 3 otrzymuje brzmienie: Ń3. Przepisy 1 i stosuje odpowiednio do kierowcy niezatrudnionego przez przedsiębiorcę, lecz wykonującego osobiście przewozy na jego rzecz oraz do przedsię——————— wykonujący przewozy drogowe przedkłada stosowne oświadczenie.”;
 
-- **16)** po rozdziale 4 dodaje rozdzia∏ 4a brzmieniu: „Rozdzia∏ 4a Okresy prowadzenia pojazdów, obowiàzkowe przerwy prowadzeniu i gwarantowane okresy odpoczynku kierowców wykonujàcych przewozy regularne, których trasa nie przekracza 50 km
+- **16)** po rozdziale 4 dodaje rozdział 4a brzmieniu: ŃRozdział 4a Okresy prowadzenia pojazdów, obowiązkowe przerwy prowadzeniu i gwarantowane okresy odpoczynku kierowców wykonujących przewozy regularne, których trasa nie przekracza 50 km
 
 **Art. 31a.**
 
-1. Dzienny czas prowadzenia pojazdu od zakoƒczenia jednego dziennego okresu odpoczynku do rozpocz´cia nast´pnego dziennego okresu odpoczynku lub mi´dzy dziennym okresem odpoczynku atygodniowym okresem odpoczynku nie mo˝e przekroczyç 10 godzin.
+1. Dzienny czas prowadzenia pojazdu od zakończenia jednego dziennego okresu odpoczynku do rozpoczęcia następnego dziennego okresu odpoczynku lub między dziennym okresem odpoczynku atygodniowym okresem odpoczynku nie może przekroczyć 10 godzin.
 
 2. Dzienny czas prowadzenia pojazdu
 
-2. Sporzàdzane rozk∏ady jazdy dla kierowców wykonujàcych przewozy regularne, których trasa nie przekracza 50 km, uwzgl´dniajà mo˝liwoÊç wykorzystywania przerw okreÊlonych 31b.
+2. Sporządzane rozkłady jazdy dla kierowców wykonujących przewozy regularne, których trasa nie przekracza 50 km, uwzględniają możliwość wykorzystywania przerw określonych 31b.
 
 **Art. 31e.**
 
-1. Rozk∏ad czasu pracy ustala na okres co najmniej jednego miesiàca.
+1. Rozkład czasu pracy ustala na okres co najmniej jednego miesiąca.
 
-2. Rozk∏ad czasu pracy zawiera nast´pujàce dane: imi´ inazwisko kierowcy, miejsce bazy pojazdu, który kierowca ma prowadziç, ustalony harmonogram okresów pracy kierowcy obejmujàcych okresy prowadzenia pojazdu, wykonywania innej pracy, przerw i pozostawania dyspozycji oraz dni wolne.
+2. Rozkład czasu pracy zawiera następujące dane: imię inazwisko kierowcy, miejsce bazy pojazdu, który kierowca ma prowadzić, ustalony harmonogram okresów pracy kierowcy obejmujących okresy prowadzenia pojazdu, wykonywania innej pracy, przerw i pozostawania dyspozycji oraz dni wolne.
 
-3. Rozk∏ad czasu pracy kierowcy ustala i podpisuje pracodawca lub podmiot, na rzecz którego kierowca wykonuje oznacza ∏àczny czas prowadzenia pojazdu okreÊlony rozk∏adzie czasu pracy kierowcy na danà dob´, zgodnie ustalonym rozk∏adem jazdy.
+3. Rozkład czasu pracy kierowcy ustala i podpisuje pracodawca lub podmiot, na rzecz którego kierowca wykonuje oznacza łączny czas prowadzenia pojazdu określony rozkładzie czasu pracy kierowcy na daną dobę, zgodnie ustalonym rozkładem jazdy.
 
-3. Tygodniowy ∏àczny czas prowadzenia pojazdu nie mo˝e przekraczaç 60 godzin, a ciàgu dwóch kolejnych tygodni 90 godzin.
+3. Tygodniowy łączny czas prowadzenia pojazdu nie może przekraczać 60 godzin, a ciągu dwóch kolejnych tygodni 90 godzin.
 
 **Art. 31b.**
 
-1. Kierowcy przys∏uguje przerwa przeznaczona na odpoczynek wymiarze nie krótszym ni˝ 30 minut, przypadku gdy ∏àczny dzienny czas prowadzenia pojazdu wynosi od 6 do 8 godzin, oraz wymiarze nie krótszym ni˝ 45 minut przypadku, gdy ∏àczny dzienny czas prowadzenia pojazdu przekracza 8 godzin. Przerwa ta przys∏uguje kierowcy przed up∏ywem 6godzin ∏àcznego dziennego czasu prowadzenia pojazdu.
+1. Kierowcy przysługuje przerwa przeznaczona na odpoczynek wymiarze nie krótszym niż 30 minut, przypadku gdy łączny dzienny czas prowadzenia pojazdu wynosi od 6 do 8 godzin, oraz wymiarze nie krótszym niż 45 minut przypadku, gdy łączny dzienny czas prowadzenia pojazdu przekracza 8 godzin. Przerwa ta przysługuje kierowcy przed upływem 6godzin łącznego dziennego czasu prowadzenia pojazdu.
 
-2. Przerwy, októrych mowa wust. mogà byç dzielone na okresy krótsze, które sà wykorzystywane wczasie prowadzenia pojazdu zgodnie obowiàzujàcym kierowc´ rozk∏adem jazdy, pod warunkiem ˝e jedna przerw trwa co najmniej 15 minut.
+2. Przerwy, októrych mowa wust. mogą być dzielone na okresy krótsze, które są wykorzystywane wczasie prowadzenia pojazdu zgodnie obowiązującym kierowcę rozkładem jazdy, pod warunkiem że jedna przerw trwa co najmniej 15 minut.
 
 **Art. 31c.**
 
-1. W zakresie odpoczynku dziennego i tygodniowego stosuje przepisy 14, zastrze˝eniem 2.
+1. W zakresie odpoczynku dziennego i tygodniowego stosuje przepisy 14, zastrzeżeniem 2.
 
-2. Tygodniowy okres odpoczynku rozpoczyna nie póêniej ni˝ po zakoƒczeniu szeÊciu okresów 24-godzinnych, liczàc od zakoƒczenia poprzedniego typrzewozy.”.
+2. Tygodniowy okres odpoczynku rozpoczyna nie póêniej niż po zakończeniu sześciu okresów 24-godzinnych, licząc od zakończenia poprzedniego typrzewozy.”.
 
-**Art. 2.** W ustawie dnia 20 czerwca 1997 r. Prawo ruchu drogowym (Dz. U. 2005 r. 108, poz. 908, póên. zm. ) wprowadza nast´pujàce zmiany:
+**Art. 2.** W ustawie dnia 20 czerwca 1997 r. Prawo ruchu drogowym (Dz. U. 2005 r. 108, poz. 908, póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 3.** W ustawie dnia 6 wrzeÊnia 2001 r. transporcie drogowym (Dz. U. 2004 r. 204, poz. 2088, póên. zm. ) wprowadza nast´pujàce zmiany:
+**Art. 3.** W ustawie dnia 6 września 2001 r. transporcie drogowym (Dz. U. 2004 r. 204, poz. 2088, póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 4.** Wustawie zdnia 29 lipca 2005 r. osystemie tachografów cyfrowych (Dz. U. 180, poz. 1494) wprowadza nast´pujàce zmiany:
+**Art. 4.** Wustawie zdnia 29 lipca 2005 r. osystemie tachografów cyfrowych (Dz. U. 180, poz. 1494) wprowadza następujące zmiany:
 
-**Art. 5.** Zezwolenia na prowadzenie warsztatu wzakresie instalacji, tym aktywacji, napraw lub sprawdzania pod wzgl´dem zgodnoÊci wymaganiami rozporzàdzenia Komisji (WE) nr 1360/2002 tachografów cyfrowych, tym ich kalibracji, wydane przed dniem wejÊcia ˝ycie niniejszej ustawy na podstawie ustawy, októrej mowa wart. 4, zachowujà swojà wa˝noÊç.
+**Art. 5.** Zezwolenia na prowadzenie warsztatu wzakresie instalacji, tym aktywacji, napraw lub sprawdzania pod względem zgodności wymaganiami rozporządzenia Komisji (WE) nr 1360/2002 tachografów cyfrowych, tym ich kalibracji, wydane przed dniem wejścia życie niniejszej ustawy na podstawie ustawy, októrej mowa wart. 4, zachowują swoją ważność.
 
-**Art. 6.** Ustawa wchodzi ˝ycie po up∏ywie 14 dni od dnia og∏oszenia, wyjàtkiem:
+**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, wyjątkiem:
 

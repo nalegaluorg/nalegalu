@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej
 
 | Pole | Wartość |
 |---|---|
@@ -24,156 +24,160 @@ domain: null
 | Ostatnia zmiana | 2026-04-07 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20040330287) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/287/text.pdf) |
 
-**Art. 1.** Ustawa okreÊla:
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 2.** Ilekroç w ustawie jest mowa o prawodawstwie weterynaryjnym rozumie si´ przez to przepisy Unii Europejskiej, a tak˝e przepisy wdra˝ajàce te przepisy, w szczególnoÊci przepisy o granicznej kontroli weterynaryjnej, kontroli weterynaryjnej w handlu, wymaganiach weterynaryjnych dla produktów pochodzenia zwierz´cego, zdrowiu zwierzàt izwalczaniu chorób zakaênych zwierzàt oraz oochronie zwierzàt.
+**Art. 1.** Ustawa określa:
+
+**Art. 2.** Ilekroć w ustawie jest mowa o prawodawstwie weterynaryjnym rozumie się przez to przepisy Unii Europejskiej, a także przepisy wdrażające te przepisy, w szczególności przepisy o granicznej kontroli weterynaryjnej, kontroli weterynaryjnej w handlu, wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego, zdrowiu zwierząt izwalczaniu chorób zakaênych zwierząt oraz oochronie zwierząt.
 
 **Art. 3.**
 
-1. Inspekcja realizuje zadania z zakresu ochrony zdrowia zwierzàt oraz bezpieczeƒstwa produktów pochodzenia zwierz´cego wcelu zapewnienia ochrony zdrowia publicznego.
+1. Inspekcja realizuje zadania z zakresu ochrony zdrowia zwierząt oraz bezpieczeństwa produktów pochodzenia zwierzęcego wcelu zapewnienia ochrony zdrowia publicznego.
 
-2. Inspekcja wykonuje swoje zadania w szczególnoÊci przez:
+2. Inspekcja wykonuje swoje zadania w szczególności przez:
 
 - **1)** zwalczanie:
-    - **a)** chorób zakaênych zwierzàt, wtym zapobieganie wystàpieniu, wykrywanie ilikwidowanie ognisk tych chorób,
-    - **b)** chorób zwierzàt, które mogà byç przenoszone na cz∏owieka ze zwierz´cia lub przez produkty pochodzenia zwierz´cego, zwanych dalej „zoonozami”, lub biologicznych czynników chorobotwórczych wywo∏ujàcych te choroby;
+    - **a)** chorób zakaênych zwierząt, wtym zapobieganie wystąpieniu, wykrywanie ilikwidowanie ognisk tych chorób,
+    - **b)** chorób zwierząt, które mogą być przenoszone na człowieka ze zwierzęcia lub przez produkty pochodzenia zwierzęcego, zwanych dalej Ńzoonozami”, lub biologicznych czynników chorobotwórczych wywołujących te choroby;
 
-- **3)** badanie zwierzàt rzeênych i produktów pochodzenia zwierz´cego;
+- **3)** badanie zwierząt rzeênych i produktów pochodzenia zwierzęcego;
 - **4)** przeprowadzanie:
     - **a)** weterynaryjnej kontroli granicznej,
-    - **b)** kontroli weterynaryjnej w handlu i wywozie zwierzàt oraz produktów w rozumieniu przepisów o kontroli weterynaryjnej w handlu;
+    - **b)** kontroli weterynaryjnej w handlu i wywozie zwierząt oraz produktów w rozumieniu przepisów o kontroli weterynaryjnej w handlu;
 
 - **5)** sprawowanie nadzoru nad:
-    - **a)** bezpieczeƒstwem produktów pochodzenia zwierz´cego, w tym nad wymaganiami weterynaryjnymi przy ich produkcji, umieszczaniu na
+    - **a)** bezpieczeństwem produktów pochodzenia zwierzęcego, w tym nad wymaganiami weterynaryjnymi przy ich produkcji, umieszczaniu na
 
-- **2)** monitorowanie zaka˝eƒ zwierzàt; rynku oraz sprzeda˝y bezpoÊredniej,
-    - **b)** wprowadzaniem na rynek zwierzàt i ubocznych produktów pochodzenia zwierz´cego,
-    - **c)** wytwarzaniem, obrotem i stosowaniem Êrodków ˝ywienia zwierzàt,
-    - **d)** zdrowiem zwierzàt przeznaczonych do rozrodu oraz jakoÊcià zdrowotnà materia∏u biologicznego,
-    - **e)** obrotem produktami leczniczymi weterynaryjnymi, wyrobami medycznymi przeznaczonymi dla zwierzàt oraz warunkami ich wytwarzania,
+- **2)** monitorowanie zakażeń zwierząt; rynku oraz sprzedaży bezpośredniej,
+    - **b)** wprowadzaniem na rynek zwierząt i ubocznych produktów pochodzenia zwierzęcego,
+    - **c)** wytwarzaniem, obrotem i stosowaniem środków żywienia zwierząt,
+    - **d)** zdrowiem zwierząt przeznaczonych do rozrodu oraz jakością zdrowotną materiału biologicznego,
+    - **e)** obrotem produktami leczniczymi weterynaryjnymi, wyrobami medycznymi przeznaczonymi dla zwierząt oraz warunkami ich wytwarzania,
     - **f)** wytwarzaniem istosowaniem pasz leczniczych,
-    - **g)** przestrzeganiem przepisów o ochronie zwierzàt,
-    - **h)** przestrzeganiem zasad identyfikacji i rejestracji zwierzàt oraz przemieszczaniem zwierzàt,
-    - **i)** przestrzeganiem wymagaƒ weterynaryjnych w gospodarstwach utrzymujàcych zwierz´ta gospodarskie;
+    - **g)** przestrzeganiem przepisów o ochronie zwierząt,
+    - **h)** przestrzeganiem zasad identyfikacji i rejestracji zwierząt oraz przemieszczaniem zwierząt,
+    - **i)** przestrzeganiem wymagań weterynaryjnych w gospodarstwach utrzymujących zwierzęta gospodarskie;
 
-- **6)** prowadzenie monitorowania substancji niedozwolonych, pozosta∏oÊci chemicznych, biologicznych, produktów leczniczych i ska˝eƒ promieniotwórczych uzwierzàt, wproduktach pochodzenia zwierz´cego, wwodzie przeznaczonej do pojenia zwierzàt i Êrodkach ˝ywienia zwierzàt;
+- **6)** prowadzenie monitorowania substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych uzwierząt, wproduktach pochodzenia zwierzęcego, wwodzie przeznaczonej do pojenia zwierząt i środkach żywienia zwierząt;
 - **7)** prowadzenie wymiany informacji wramach systemów wymiany informacji, o których mowa w przepisach Unii Europejskiej.
 
-3. Inspekcja wykonuje zadania, o których mowa w ust. 1 i 2, na podstawie przepisów odr´bnych.
+3. Inspekcja wykonuje zadania, o których mowa w ust. 1 i 2, na podstawie przepisów odrębnych.
 
-4. Na terenach i w stosunku do jednostek organizacyjnych podleg∏ych inadzorowanych przez Ministra Obrony Narodowej oraz jednostek wojsk obcych przebywajàcych na tych terenach zadania okreÊlone USTAWA z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej ——————— w ust. 1 wykonuje Szef S∏u˝by Weterynaryjnej Inspektor Weterynaryjny Wojska Polskiego.
+4. Na terenach i w stosunku do jednostek organizacyjnych podległych inadzorowanych przez Ministra Obrony Narodowej oraz jednostek wojsk obcych przebywających na tych terenach zadania określone USTAWA z dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej ——————— w ust. 1 wykonuje Szef Służby Weterynaryjnej Inspektor Weterynaryjny Wojska Polskiego.
 
-5. Szef S∏u˝by Weterynaryjnej Inspektor Weterynaryjny Wojska Polskiego wykonuje swoje zadania przy pomocy Wojskowej Inspekcji Weterynaryjnej.
+5. Szef Służby Weterynaryjnej Inspektor Weterynaryjny Wojska Polskiego wykonuje swoje zadania przy pomocy Wojskowej Inspekcji Weterynaryjnej.
 
-6. Szef S∏u˝by Weterynaryjnej Inspektor Weterynaryjny Wojska Polskiego lub osoba przez niego upowa˝niona mo˝e uczestniczyç w prowadzonej przez organy Inspekcji:
+6. Szef Służby Weterynaryjnej Inspektor Weterynaryjny Wojska Polskiego lub osoba przez niego upoważniona może uczestniczyć w prowadzonej przez organy Inspekcji:
 
-- **1)** weterynaryjnej kontroli granicznej Êrodków transportu, w tym okr´tów i statków powietrznych wykorzystywanych do przewozu zwierzàt lub produktów pochodzenia zwierz´cego na potrzeby Si∏ Zbrojnych Rzeczypospolitej Polskiej oraz wojsk obcych;
-- **2)** kontroli zak∏adów zaopatrujàcych lub ubiegajàcych si´ o zaopatrywanie Si∏ Zbrojnych Rzeczypospolitej Polskiej w produkty pochodzenia zwierz´cego.
+- **1)** weterynaryjnej kontroli granicznej środków transportu, w tym okrętów i statków powietrznych wykorzystywanych do przewozu zwierząt lub produktów pochodzenia zwierzęcego na potrzeby Sił Zbrojnych Rzeczypospolitej Polskiej oraz wojsk obcych;
+- **2)** kontroli zakładów zaopatrujących lub ubiegających się o zaopatrywanie Sił Zbrojnych Rzeczypospolitej Polskiej w produkty pochodzenia zwierzęcego.
 
-7. Minister Obrony Narodowej okreÊli, w drodze rozporzàdzenia, organizacj´ oraz szczegó∏owe warunki i tryb wykonywania zadaƒ przez Wojskowà Inspekcj´ Weterynaryjnà, uwzgl´dniajàc rodzaj i charakter zadaƒ, kompetencje i wymagania niezb´dne do sprawowania nadzoru oraz mo˝liwoÊç skutecznego wykonywania tych zadaƒ.
+7. Minister Obrony Narodowej określi, w drodze rozporządzenia, organizację oraz szczegółowe warunki i tryb wykonywania zadań przez Wojskową Inspekcję Weterynaryjną, uwzględniając rodzaj i charakter zadań, kompetencje i wymagania niezbędne do sprawowania nadzoru oraz możliwość skutecznego wykonywania tych zadań.
 
-8. Minister w∏aÊciwy do spraw rolnictwa, w porozumieniu z Ministrem Obrony Narodowej, w drodze rozporzàdzenia, okreÊli formy wspó∏pracy organów Inspekcji z Wojskowà Inspekcjà Weterynaryjnà, uwzgl´dniajàc:
+8. Minister właściwy do spraw rolnictwa, w porozumieniu z Ministrem Obrony Narodowej, w drodze rozporządzenia, określi formy współpracy organów Inspekcji z Wojskową Inspekcją Weterynaryjną, uwzględniając:
 
 - **1)** sposób itryb wzajemnego przekazywania informacji z zakresu, o którym mowa w ust. 2 pkt 1—4;
-- **2)** zakres tej wspó∏pracy przy zwalczaniu chorób zakaênych zwierzàt;
-- **3)** warunki i sposób organizacji, uczestnictwa i prowadzenia wspólnych szkoleƒ Inspekcji i Wojskowej Inspekcji Weterynaryjnej.
+- **2)** zakres tej współpracy przy zwalczaniu chorób zakaênych zwierząt;
+- **3)** warunki i sposób organizacji, uczestnictwa i prowadzenia wspólnych szkoleń Inspekcji i Wojskowej Inspekcji Weterynaryjnej.
 
-**Art. 4.** Organy Inspekcji, przy wykonywaniu swoich zadaƒ, wspó∏pracujà z w∏aÊciwymi organami administracji rzàdowej i jednostkami samorzàdu terytorialnego oraz organami samorzàdu lekarsko-weterynaryjnego. Rozdzia∏ 2 Organizacja i funkcjonowanie Inspekcji
+**Art. 4.** Organy Inspekcji, przy wykonywaniu swoich zadań, współpracują z właściwymi organami administracji rządowej i jednostkami samorządu terytorialnego oraz organami samorządu lekarsko-weterynaryjnego.
+
+#### Rozdział 2 Organizacja i funkcjonowanie Inspekcji
 
 **Art. 5.**
 
-1. Organami Inspekcji sà:
+1. Organami Inspekcji są:
 
-- **1)** G∏ówny Lekarz Weterynarii;
-- **2)** wojewódzki lekarz weterynarii, jako kierownik wojewódzkiej inspekcji weterynaryjnej wchodzàcej wsk∏ad zespolonej administracji rzàdowej wwoje3) powiatowy lekarz weterynarii, jako kierownik powiatowej inspekcji weterynaryjnej wchodzàcej w sk∏ad niezespolonej administracji rzàdowej;
+- **1)** Główny Lekarz Weterynarii;
+- **2)** wojewódzki lekarz weterynarii, jako kierownik wojewódzkiej inspekcji weterynaryjnej wchodzącej wskład zespolonej administracji rządowej wwoje3) powiatowy lekarz weterynarii, jako kierownik powiatowej inspekcji weterynaryjnej wchodzącej w skład niezespolonej administracji rządowej;
 - **4)** graniczny lekarz weterynarii.
 
-2. Zadania organów Inspekcji wykonujà:
+2. Zadania organów Inspekcji wykonują:
 
-- **1)** lekarze weterynarii i inne osoby zatrudnione w Inspekcji oraz lekarze weterynarii wyznaczeni do wykonywania okreÊlonych czynnoÊci;
-- **2)** osoby nieb´dàce lekarzami weterynarii wyznaczone do wykonywania okreÊlonych czynnoÊci ocharakterze pomocniczym.
+- **1)** lekarze weterynarii i inne osoby zatrudnione w Inspekcji oraz lekarze weterynarii wyznaczeni do wykonywania określonych czynności;
+- **2)** osoby niebędące lekarzami weterynarii wyznaczone do wykonywania określonych czynności ocharakterze pomocniczym.
 
-3. Lekarze weterynarii wyznaczeni do wykonywania okreÊlonych czynnoÊci oraz osoby, o których mowa wust. 2 pkt 2, wykonujà powierzone czynnoÊci pod nadzorem i w imieniu organów Inspekcji.
+3. Lekarze weterynarii wyznaczeni do wykonywania określonych czynności oraz osoby, o których mowa wust. 2 pkt 2, wykonują powierzone czynności pod nadzorem i w imieniu organów Inspekcji.
 
-4. Lekarze weterynarii, o których mowa w ust. 2 pkt 1, sà urz´dowymi lekarzami weterynarii.
+4. Lekarze weterynarii, o których mowa w ust. 2 pkt 1, są urzędowymi lekarzami weterynarii.
 
 **Art. 6.**
 
-1. Inspekcjà kieruje G∏ówny Lekarz Weterynarii b´dàcy centralnym organem administracji rzàdowej.
+1. Inspekcją kieruje Główny Lekarz Weterynarii będący centralnym organem administracji rządowej.
 
-2. G∏ówny Lekarz Weterynarii podlega ministrowi w∏aÊciwemu do spraw rolnictwa.
+2. Główny Lekarz Weterynarii podlega ministrowi właściwemu do spraw rolnictwa.
 
-3. G∏ównego Lekarza Weterynarii powo∏uje, na wniosek ministra w∏aÊciwego do spraw rolnictwa, Prezes Rady Ministrów. Prezes Rady Ministrów odwo∏uje G∏ównego Lekarza Weterynarii.
+3. Głównego Lekarza Weterynarii powołuje, na wniosek ministra właściwego do spraw rolnictwa, Prezes Rady Ministrów. Prezes Rady Ministrów odwołuje Głównego Lekarza Weterynarii.
 
-4. Zast´pców G∏ównego Lekarza Weterynarii, wliczbie dwóch, powo∏uje iodwo∏uje minister w∏aÊciwy do spraw rolnictwa, na wniosek G∏ównego Lekarza Weterynarii.
+4. Zastępców Głównego Lekarza Weterynarii, wliczbie dwóch, powołuje iodwołuje minister właściwy do spraw rolnictwa, na wniosek Głównego Lekarza Weterynarii.
 
-5. G∏ównym Lekarzem Weterynarii oraz jego zast´pcà mo˝e byç osoba, która:
+5. Głównym Lekarzem Weterynarii oraz jego zastępcą może być osoba, która:
 
-- **1)** jest lekarzem weterynarii posiadajàcym prawo wywództwie; konywania zawodu na terytorium Rzeczypospolitej Polskiej;
-- **2)** posiada 7-letni sta˝ pracy w administracji publicznej w zakresie realizacji zadaƒ zwiàzanych z weterynarià;
-- **3)** posiada tytu∏ specjalisty z epizootiologii i administracji weterynaryjnej lub higieny zwierzàt rzeênych i ˝ywnoÊci pochodzenia zwierz´cego.
+- **1)** jest lekarzem weterynarii posiadającym prawo wywództwie; konywania zawodu na terytorium Rzeczypospolitej Polskiej;
+- **2)** posiada 7-letni staż pracy w administracji publicznej w zakresie realizacji zadań związanych z weterynarią;
+- **3)** posiada tytuł specjalisty z epizootiologii i administracji weterynaryjnej lub higieny zwierząt rzeênych i żywności pochodzenia zwierzęcego.
 
-6. G∏ówny Lekarz Weterynarii wykonuje swoje zadania przy pomocy G∏ównego Inspektoratu Weterynarii.
+6. Główny Lekarz Weterynarii wykonuje swoje zadania przy pomocy Głównego Inspektoratu Weterynarii.
 
-7. Minister w∏aÊciwy do spraw rolnictwa okreÊli, w drodze zarzàdzenia, statut G∏ównego Inspektoratu Weterynarii, uwzgl´dniajàc mo˝liwoÊç realizacji zadaƒ, o których mowa w art. 13.
+7. Minister właściwy do spraw rolnictwa określi, w drodze zarządzenia, statut Głównego Inspektoratu Weterynarii, uwzględniając możliwość realizacji zadań, o których mowa w art. 13.
 
 **Art. 7.**
 
-1. Organem doradczo-opiniodawczym G∏ównego Lekarza Weterynarii w zakresie, o którym mowa wart. 3 ust. 2, jest Rada Sanitarno-Epizootyczna, zwana dalej „Radà”.
+1. Organem doradczo-opiniodawczym Głównego Lekarza Weterynarii w zakresie, o którym mowa wart. 3 ust. 2, jest Rada Sanitarno-Epizootyczna, zwana dalej ŃRadą”.
 
-2. Rada liczy 7 cz∏onków.
+2. Rada liczy 7 członków.
 
 3. Kadencja Rady trwa 4 lata.
 
-4. Cz∏onków Rady powo∏uje i odwo∏uje minister w∏aÊciwy do spraw rolnictwa, na wniosek G∏ównego Lekarza Weterynarii, spoÊród osób wyró˝niajàcych si´ wiedzà oraz doÊwiadczeniem zawodowym w dziedzinie sanitarno-epizootycznej.
+4. Członków Rady powołuje i odwołuje minister właściwy do spraw rolnictwa, na wniosek Głównego Lekarza Weterynarii, spośród osób wyróżniających się wiedzą oraz doświadczeniem zawodowym w dziedzinie sanitarno-epizootycznej.
 
-5. Cz∏onkowie Rady wybierajà ze sk∏adu Rady przewodniczàcego i sekretarza.
+5. Członkowie Rady wybierają ze składu Rady przewodniczącego i sekretarza.
 
-6. Przewodniczàcy Rady mo˝e zapraszaç na jej posiedzenia osoby nieb´dàce cz∏onkami Rady, posiadajàce wiedz´ lub doÊwiadczenie zawodowe w dziedzinie sanitarno-epizootycznej.
+6. Przewodniczący Rady może zapraszać na jej posiedzenia osoby niebędące członkami Rady, posiadające wiedzę lub doświadczenie zawodowe w dziedzinie sanitarno-epizootycznej.
 
-7. Rada dzia∏a na podstawie uchwalonego przez siebie regulaminu. Regulamin Rady zatwierdza G∏ówny Lekarz Weterynarii.
+7. Rada działa na podstawie uchwalonego przez siebie regulaminu. Regulamin Rady zatwierdza Główny Lekarz Weterynarii.
 
-8. Cz∏onkom Rady przys∏uguje zwrot kosztów przejazdu i zakwaterowania oraz diety na warunkach stosowanych przy podró˝ach s∏u˝bowych pracowników zatrudnionych w paƒstwowej lub samorzàdowej jednostce sfery bud˝etowej i okreÊlonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
+8. Członkom Rady przysługuje zwrot kosztów przejazdu i zakwaterowania oraz diety na warunkach stosowanych przy podróżach służbowych pracowników zatrudnionych w państwowej lub samorządowej jednostce sfery budżetowej i określonych w przepisach wydanych na podstawie art. 77 § 2 Kodeksu pracy.
 
-9. Koszty obs∏ugi administracyjno-biurowej Rady oraz zwrot kosztów idiet, októrych mowa wust. 8, sà pokrywane z bud˝etu paƒstwa ze Êrodków b´dàcych w dyspozycji ministra w∏aÊciwego do spraw rolnictwa.
+9. Koszty obsługi administracyjno-biurowej Rady oraz zwrot kosztów idiet, októrych mowa wust. 8, są pokrywane z budżetu państwa ze środków będących w dyspozycji ministra właściwego do spraw rolnictwa.
 
 **Art. 8.**
 
-1. Wojewódzki lekarz weterynarii podlega, wzakresie zapewnienia bezpieczeƒstwa sanitarno-epizootycznego na obszarze swojej w∏aÊciwoÊci, G∏ównemu Lekarzowi Weterynarii.
+1. Wojewódzki lekarz weterynarii podlega, wzakresie zapewnienia bezpieczeństwa sanitarno-epizootycznego na obszarze swojej właściwości, Głównemu Lekarzowi Weterynarii.
 
-2. Graniczny lekarz weterynarii podlega G∏ównemu Lekarzowi Weterynarii.
+2. Graniczny lekarz weterynarii podlega Głównemu Lekarzowi Weterynarii.
 
 3. Powiatowy lekarz weterynarii podlega wojewódzkiemu lekarzowi weterynarii.
 
-4. Minister w∏aÊciwy do spraw rolnictwa, w porozumieniu z ministrem w∏aÊciwym do spraw administracji publicznej, okreÊli, wdrodze rozporzàdzenia, terytorialny zakres dzia∏ania powiatowych igranicznych lekarzy weterynarii oraz ich siedziby, bioràc pod uwag´:
+4. Minister właściwy do spraw rolnictwa, w porozumieniu z ministrem właściwym do spraw administracji publicznej, określi, wdrodze rozporządzenia, terytorialny zakres działania powiatowych igranicznych lekarzy weterynarii oraz ich siedziby, biorąc pod uwagę:
 
-- **1)** zasadniczy podzia∏ terytorialny paƒstwa, z tym ˝e zakres dzia∏ania powiatowego lekarza weterynarii mo˝e obejmowaç kilka powiatów;
-- **2)** mo˝liwoÊci finansowe i organizacyjne Inspekcji;
-- **3)** potrzeb´ zapewnienia realizacji zadaƒ Inspekcji na
+- **1)** zasadniczy podział terytorialny państwa, z tym że zakres działania powiatowego lekarza weterynarii może obejmować kilka powiatów;
+- **2)** możliwości finansowe i organizacyjne Inspekcji;
+- **3)** potrzebę zapewnienia realizacji zadań Inspekcji na
 
 **Art. 9.**
 
-1. Wojewódzkim, powiatowym i granicznym lekarzem weterynarii oraz ich zast´pcà mo˝e byç osoba, która:
+1. Wojewódzkim, powiatowym i granicznym lekarzem weterynarii oraz ich zastępcą może być osoba, która:
 
-- **1)** jest lekarzem weterynarii posiadajàcym prawo wykonywania zawodu na terytorium Rzeczypospolitej Polskiej;
+- **1)** jest lekarzem weterynarii posiadającym prawo wykonywania zawodu na terytorium Rzeczypospolitej Polskiej;
 - **2)** posiada:
-    - **a)** 5-letni sta˝ pracy w administracji publicznej wzakresie realizacji zadaƒ zwiàzanych zweterynarià w przypadku wojewódzkiego lekarza weterynarii i jego zast´pcy,
-    - **b)** 3-letni sta˝ pracy w administracji publicznej wzakresie realizacji zadaƒ zwiàzanych zweterynarià wprzypadku powiatowego igranicznego lekarza weterynarii i ich zast´pców,
-    - **c)** tytu∏ specjalisty z epizootiologii i administracji weterynaryjnej lub higieny zwierzàt rzeênych i ˝ywnoÊci pochodzenia zwierz´cego.
+    - **a)** 5-letni staż pracy w administracji publicznej wzakresie realizacji zadań związanych zweterynarią w przypadku wojewódzkiego lekarza weterynarii i jego zastępcy,
+    - **b)** 3-letni staż pracy w administracji publicznej wzakresie realizacji zadań związanych zweterynarią wprzypadku powiatowego igranicznego lekarza weterynarii i ich zastępców,
+    - **c)** tytuł specjalisty z epizootiologii i administracji weterynaryjnej lub higieny zwierząt rzeênych i żywności pochodzenia zwierzęcego.
 
-2. CzynnoÊci wynikajàce ze stosunku pracy wobec:
+2. Czynności wynikające ze stosunku pracy wobec:
 
-- **1)** wojewódzkiego lekarza weterynarii oraz jego zast´pcy wykonuje wojewoda w porozumieniu z G∏ównym Lekarzem Weterynarii;
-- **2)** powiatowego lekarza weterynarii oraz jego zast´pcy wykonuje wojewódzki lekarz weterynarii;
-- **3)** granicznego lekarza weterynarii oraz jego zast´pcy wykonuje G∏ówny Lekarz Weterynarii.
+- **1)** wojewódzkiego lekarza weterynarii oraz jego zastępcy wykonuje wojewoda w porozumieniu z Głównym Lekarzem Weterynarii;
+- **2)** powiatowego lekarza weterynarii oraz jego zastępcy wykonuje wojewódzki lekarz weterynarii;
+- **3)** granicznego lekarza weterynarii oraz jego zastępcy wykonuje Główny Lekarz Weterynarii.
 
 **Art. 10.**
 
-1. G∏ówny Lekarz Weterynarii mo˝e zawiesiç w wykonywaniu obowiàzków wojewódzkiego, powiatowego lub granicznego lekarza weterynarii lub jego zast´pc´, je˝eli jego dzia∏alnoÊç lub dzia∏alnoÊç kierowanego przez niego inspektoratu mo˝e zagroziç prawid∏owemu wykonywaniu zadaƒ Inspekcji, a zw∏aszcza naruszyç bezpieczeƒstwo sanitarno-weterynaryjne na obszarze w∏aÊciwoÊci tych organów. Podejmujàc decyzj´ ozawieszeniu, G∏ówny Lekarz Weterynarii wyznacza osob´ pe∏niàcà obowiàzki zawieszonego organu.
+1. Główny Lekarz Weterynarii może zawiesić w wykonywaniu obowiązków wojewódzkiego, powiatowego lub granicznego lekarza weterynarii lub jego zastępcę, jeżeli jego działalność lub działalność kierowanego przez niego inspektoratu może zagrozić prawidłowemu wykonywaniu zadań Inspekcji, a zwłaszcza naruszyć bezpieczeństwo sanitarno-weterynaryjne na obszarze właściwości tych organów. Podejmując decyzję ozawieszeniu, Główny Lekarz Weterynarii wyznacza osobę pełniącą obowiązki zawieszonego organu.
 
-2. Okres zawieszenia, o którym mowa w ust. 1, trwa do czasu zakoƒczenia post´powania wyjaÊniajàcego lub dyscyplinarnego w rozumieniu przepisów o s∏u˝bie cywilnej.
+2. Okres zawieszenia, o którym mowa w ust. 1, trwa do czasu zakończenia postępowania wyjaśniającego lub dyscyplinarnego w rozumieniu przepisów o służbie cywilnej.
 
-3. W stosunku do powiatowego lekarza weterynarii ijego zast´pcy kompetencje G∏ównego Lekarza Weterynarii, o których mowa w ust. 1, przys∏ugujà wojewódzkiemu lekarzowi weterynarii. obszarze ca∏ego kraju.
+3. W stosunku do powiatowego lekarza weterynarii ijego zastępcy kompetencje Głównego Lekarza Weterynarii, o których mowa w ust. 1, przysługują wojewódzkiemu lekarzowi weterynarii. obszarze całego kraju.
 
 **Art. 11.**
 
@@ -181,421 +185,429 @@ domain: null
 
 2. Powiatowy lekarz weterynarii wykonuje swoje zadania przy pomocy powiatowego inspektoratu weterynarii, którego jest kierownikiem.
 
-3. Graniczny lekarz weterynarii wykonuje swoje zadania przy pomocy granicznego inspektoratu weterynarii, którego jest kierownikiem. Wramach granicznego inspektoratu weterynarii funkcjonujà graniczne posterunki kontroli zatwierdzane na podstawie odr´bnych przepisów.
+3. Graniczny lekarz weterynarii wykonuje swoje zadania przy pomocy granicznego inspektoratu weterynarii, którego jest kierownikiem. Wramach granicznego inspektoratu weterynarii funkcjonują graniczne posterunki kontroli zatwierdzane na podstawie odrębnych przepisów.
 
-4. Minister w∏aÊciwy do spraw rolnictwa okreÊli, w drodze zarzàdzenia, organizacj´ wojewódzkich, powiatowych i granicznych inspektoratów weterynarii, majàc na wzgl´dzie prawid∏owoÊç realizacji zadaƒ, o których mowa w art. 3 ust. 2.
+4. Minister właściwy do spraw rolnictwa określi, w drodze zarządzenia, organizację wojewódzkich, powiatowych i granicznych inspektoratów weterynarii, mając na względzie prawidłowość realizacji zadań, o których mowa w art. 3 ust. 2.
 
 **Art. 12.**
 
-1. Koszty dzia∏alnoÊci Inspekcji i wykonywania zadaƒ, októrych mowa wart. 3 ust. 2 i3, sà pokrywane z bud˝etu paƒstwa, z wyjàtkiem:
+1. Koszty działalności Inspekcji i wykonywania zadań, októrych mowa wart. 3 ust. 2 i3, są pokrywane z budżetu państwa, z wyjątkiem:
 
-- **1)** kosztów czynnoÊci, za które sà pobierane op∏aty, powierzonych do wykonywania wyznaczonym lekarzom weterynarii lub osobom, o których mowa w art. 5 ust. 2 pkt 2;
-- **2)** kosztów czynnoÊci us∏ugowych niewynikajàcych zustawowych zadaƒ Inspekcji, wtym us∏ugowych badaƒ laboratoryjnych.
+- **1)** kosztów czynności, za które są pobierane opłaty, powierzonych do wykonywania wyznaczonym lekarzom weterynarii lub osobom, o których mowa w art. 5 ust. 2 pkt 2;
+- **2)** kosztów czynności usługowych niewynikających zustawowych zadań Inspekcji, wtym usługowych badań laboratoryjnych.
 
-2. Wojewódzkie, powiatowe i graniczne inspektoraty weterynarii sà paƒstwowymi jednostkami bud˝etowymi.
+2. Wojewódzkie, powiatowe i graniczne inspektoraty weterynarii są państwowymi jednostkami budżetowymi.
 
-3. W bud˝etach wojewodów wyodr´bnia si´ Êrodki przeznaczone na:
+3. W budżetach wojewodów wyodrębnia się środki przeznaczone na:
 
-- **1)** zwalczanie chorób zakaênych zwierzàt izoonoz lub biologicznych czynników chorobotwórczych wywo∏ujàcych te choroby, obj´tych obowiàzkiem zg∏aszania i zwalczania, w tym na odszkodowania i monitorowanie zaka˝eƒ zwierzàt;
-- **2)** monitorowanie wyst´powania substancji niedozwolonych, pozosta∏oÊci chemicznych, biologicznych, produktów leczniczych i ska˝eƒ promieniotwórczych u zwierzàt, w produktach pochodzenia zwierz´cego, w wodzie przeznaczonej do pojenia zwierzàt i Êrodkach ˝ywienia zwierzàt.
+- **1)** zwalczanie chorób zakaênych zwierząt izoonoz lub biologicznych czynników chorobotwórczych wywołujących te choroby, objętych obowiązkiem zgłaszania i zwalczania, w tym na odszkodowania i monitorowanie zakażeń zwierząt;
+- **2)** monitorowanie występowania substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych u zwierząt, w produktach pochodzenia zwierzęcego, w wodzie przeznaczonej do pojenia zwierząt i środkach żywienia zwierząt.
 
-4. Lekarzom weterynarii iinnym osobom nieb´dàcym pracownikami Inspekcji, wykonujàcym okreÊlone czynnoÊci zwiàzane ze zwalczaniem chorób zakaênych zwierzàt, zoonoz lub biologicznych czynników chorobotwórczych wywo∏ujàcych te choroby, przys∏uguje wynagrodzenie w wysokoÊci okreÊlonej w przepisach wydanych na podstawie art. 16 ust. 6 pkt 2.
+4. Lekarzom weterynarii iinnym osobom niebędącym pracownikami Inspekcji, wykonującym określone czynności związane ze zwalczaniem chorób zakaênych zwierząt, zoonoz lub biologicznych czynników chorobotwórczych wywołujących te choroby, przysługuje wynagrodzenie w wysokości określonej w przepisach wydanych na podstawie art. 16 ust. 6 pkt 2.
 
-5. Minister w∏aÊciwy do spraw rolnictwa, w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych, okreÊli, w drodze rozporzàdzenia:
+5. Minister właściwy do spraw rolnictwa, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia:
 
-- **1)** rodzaje wydatków ponoszonych przez inspektoraty weterynarii zwiàzanych ze zwalczaniem chorób zakaênych zwierzàt i zoonoz lub biologicznych czynników chorobotwórczych wywo∏ujàcych te choroby oraz monitorowaniem zaka˝eƒ zwierzàt, które mogà byç finansowane ze Êrodków, o któ2) rodzaje wydatków ponoszonych przez inspektoraty weterynarii zwiàzanych z monitorowaniem wyst´powania substancji niedozwolonych, pozosta∏oÊci chemicznych, biologicznych, produktów leczniczych i ska˝eƒ promieniotwórczych u zwierzàt, wproduktach pochodzenia zwierz´cego, wwodzie przeznaczonej do pojenia zwierzàt i Êrodkach ˝ywienia zwierzàt, które mogà byç finansowane ze Êrodków, o których mowa w ust. 3 pkt 2 majàc na wzgl´dzie pe∏nà ewidencj´ wydatków ponoszonych przez Inspekcj´ na zwalczanie chorób zakaênych zwierzàt i zoonoz lub biologicznych czynników chorobotwórczych wywo∏ujàcych te choroby, monitorowanie zaka˝eƒ zwierzàt i pozosta∏oÊci chemicznych, biologicznych, produktów leczniczych i ska˝eƒ promieniotwórczych u zwierzàt, w produktach pochodzenia zwierz´cego, w wodzie przeznaczonej do pojenia zwierzàt i Êrodkach ˝ywienia zwierzàt oraz potrzeb´ racjonalnego wydatkowania Êrodków bud˝etowych.
+- **1)** rodzaje wydatków ponoszonych przez inspektoraty weterynarii związanych ze zwalczaniem chorób zakaênych zwierząt i zoonoz lub biologicznych czynników chorobotwórczych wywołujących te choroby oraz monitorowaniem zakażeń zwierząt, które mogą być finansowane ze środków, o któ2) rodzaje wydatków ponoszonych przez inspektoraty weterynarii związanych z monitorowaniem występowania substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych u zwierząt, wproduktach pochodzenia zwierzęcego, wwodzie przeznaczonej do pojenia zwierząt i środkach żywienia zwierząt, które mogą być finansowane ze środków, o których mowa w ust. 3 pkt 2 mając na względzie pełną ewidencję wydatków ponoszonych przez Inspekcję na zwalczanie chorób zakaênych zwierząt i zoonoz lub biologicznych czynników chorobotwórczych wywołujących te choroby, monitorowanie zakażeń zwierząt i pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych u zwierząt, w produktach pochodzenia zwierzęcego, w wodzie przeznaczonej do pojenia zwierząt i środkach żywienia zwierząt oraz potrzebę racjonalnego wydatkowania środków budżetowych.
 
 **Art. 13.**
 
-1. G∏ówny Lekarz Weterynarii:
+1. Główny Lekarz Weterynarii:
 
-- **1)** ustala ogólne kierunki dzia∏ania Inspekcji i wydaje instrukcje okreÊlajàce sposób jej post´powania, w tym instrukcje dotyczàce stosowania przez organy Inspekcji przepisów Unii Europejskiej;
-- **2)** koordynuje i kontroluje wykonywanie zadaƒ przez wojewódzkich, powiatowych igranicznych lekarzy weterynarii;
-- **3)** mo˝e wydawaç wojewódzkim, powiatowym i granicznym lekarzom weterynarii polecenia dotyczàce podj´cia okreÊlonych czynnoÊci oraz ˝àdaç od nich informacji z zakresu ich dzia∏ania;
-- **4)** wspó∏pracuje z Mi´dzynarodowym Urz´dem do Spraw Epizootii oraz innymi organizacjami mi´dzynarodowymi;
-- **5)** dokonuje analiz i ocen sytuacji epizootycznej, bezpieczeƒstwa produktów pochodzenia zwierz´cego i wymagaƒ weterynaryjnych przy ich produkcji;
-- **6)** opracowuje programy iplany dotyczàce monitororych mowa w ust. 3 pkt 1, wania zaka˝eƒ zwierzàt oraz zapobiegania chorobom zakaênym zwierzàt izoonozom lub biologicznym czynnikom chorobotwórczym wywo∏ujàcym te choroby i ich zwalczania;
-- **7)** opracowuje krajowe programy i plany dotyczàce monitorowania wyst´powania substancji niedozwolonych, pozosta∏oÊci chemicznych, biologicznych, produktów leczniczych i ska˝eƒ promieniotwórczych u zwierzàt, w produktach pochodzenia zwierz´cego, w wodzie przeznaczonej do pojenia zwierzàt i Êrodkach ˝ywienia zwierzàt;
-- **8)** organizuje szkolenia dla urz´dowych lekarzy weterynarii;
-- **9)** utrzymuje rezerw´ szczepionek, biopreparatów, substancji i preparatów biobójczych oraz innych Êrodków niezb´dnych do diagnozowania i zwalczania chorób zakaênych zwierzàt izoonoz lub biologicznych czynników chorobotwórczych wywo∏ujàcych te choroby;
-- **10)** zarzàdza systemem wymiany informacji, októrym mowa w art. 36 ust. 1;
-- **11)** prowadzi list´ osób, o których mowa w art. 26;
-- **12)** wykonuje inne zadania okreÊlone wprzepisach odr´bnych.
+- **1)** ustala ogólne kierunki działania Inspekcji i wydaje instrukcje określające sposób jej postępowania, w tym instrukcje dotyczące stosowania przez organy Inspekcji przepisów Unii Europejskiej;
+- **2)** koordynuje i kontroluje wykonywanie zadań przez wojewódzkich, powiatowych igranicznych lekarzy weterynarii;
+- **3)** może wydawać wojewódzkim, powiatowym i granicznym lekarzom weterynarii polecenia dotyczące podjęcia określonych czynności oraz żądać od nich informacji z zakresu ich działania;
+- **4)** współpracuje z Międzynarodowym Urzędem do Spraw Epizootii oraz innymi organizacjami międzynarodowymi;
+- **5)** dokonuje analiz i ocen sytuacji epizootycznej, bezpieczeństwa produktów pochodzenia zwierzęcego i wymagań weterynaryjnych przy ich produkcji;
+- **6)** opracowuje programy iplany dotyczące monitororych mowa w ust. 3 pkt 1, wania zakażeń zwierząt oraz zapobiegania chorobom zakaênym zwierząt izoonozom lub biologicznym czynnikom chorobotwórczym wywołującym te choroby i ich zwalczania;
+- **7)** opracowuje krajowe programy i plany dotyczące monitorowania występowania substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych u zwierząt, w produktach pochodzenia zwierzęcego, w wodzie przeznaczonej do pojenia zwierząt i środkach żywienia zwierząt;
+- **8)** organizuje szkolenia dla urzędowych lekarzy weterynarii;
+- **9)** utrzymuje rezerwę szczepionek, biopreparatów, substancji i preparatów biobójczych oraz innych środków niezbędnych do diagnozowania i zwalczania chorób zakaênych zwierząt izoonoz lub biologicznych czynników chorobotwórczych wywołujących te choroby;
+- **10)** zarządza systemem wymiany informacji, októrym mowa w art. 36 ust. 1;
+- **11)** prowadzi listę osób, o których mowa w art. 26;
+- **12)** wykonuje inne zadania określone wprzepisach odrębnych.
 
-2. G∏ówny Lekarz Weterynarii wspó∏pracuje zorganami, októrych mowa wart. 1 pkt 2, oraz Komisjà Europejskà wzakresie nadzoru nad przestrzeganiem prawodawstwa weterynaryjnego. Informacj´ o sposobie i zakresie tej wspó∏pracy minister w∏aÊciwy do spraw rolnictwa przekazuje organom centralnym paƒstw cz∏onkowskich Unii Europejskiej odpowiedzialnym za przestrzeganie stosowania prawodawstwa weterynaryjnego oraz Komisji Europejskiej.
+2. Główny Lekarz Weterynarii współpracuje zorganami, októrych mowa wart. 1 pkt 2, oraz Komisją Europejską wzakresie nadzoru nad przestrzeganiem prawodawstwa weterynaryjnego. Informację o sposobie i zakresie tej współpracy minister właściwy do spraw rolnictwa przekazuje organom centralnym państw członkowskich Unii Europejskiej odpowiedzialnym za przestrzeganie stosowania prawodawstwa weterynaryjnego oraz Komisji Europejskiej.
 
-3. G∏ówny Lekarz Weterynarii w zakresie realizacji zadania, o którym mowa w ust. 2, dzia∏a z urz´du lub na wniosek organów, o których mowa w art. 1 pkt 2, lub Komisji Europejskiej.
+3. Główny Lekarz Weterynarii w zakresie realizacji zadania, o którym mowa w ust. 2, działa z urzędu lub na wniosek organów, o których mowa w art. 1 pkt 2, lub Komisji Europejskiej.
 
-4. G∏ówny Lekarz Weterynarii, realizujàc zadanie, o którym mowa w ust. 2, przekazuje informacje uzyskane przez organy Inspekcji przy wykonywaniu czynnoÊci, o których mowa w art. 3 ust. 2.
+4. Główny Lekarz Weterynarii, realizując zadanie, o którym mowa w ust. 2, przekazuje informacje uzyskane przez organy Inspekcji przy wykonywaniu czynności, o których mowa w art. 3 ust. 2.
 
-5. G∏ówny Lekarz Weterynarii mo˝e odmówiç przekazania informacji organom, o których mowa w art. 1 pkt 2, lub podj´cia dzia∏aƒ, je˝eli mog∏oby to stanowiç zagro˝enie dla bezpieczeƒstwa paƒstwa, podajàc uzasadnienie tej odmowy.
+5. Główny Lekarz Weterynarii może odmówić przekazania informacji organom, o których mowa w art. 1 pkt 2, lub podjęcia działań, jeżeli mogłoby to stanowić zagrożenie dla bezpieczeństwa państwa, podając uzasadnienie tej odmowy.
 
-6. Do informacji, októrych mowa wust. 4, stosuje si´ przepisy o ochronie informacji niejawnych.
+6. Do informacji, októrych mowa wust. 4, stosuje się przepisy o ochronie informacji niejawnych.
 
-7. Informacje, o których mowa w ust. 4, dotyczàce dzia∏aƒ:
+7. Informacje, o których mowa w ust. 4, dotyczące działań:
 
-- **1)** naruszajàcych lub mogàcych naruszaç prawodawstwo weterynaryjne wstopniu zagra˝ajàcym zdrowiu publicznemu lub
-- **2)** majàcych szczególne znaczenie dla Unii Europejskiej lub powodujàcych konsekwencje dla poszczególnych paƒstw cz∏onkowskich G∏ówny Lekarz Weterynarii, po porozumieniu z Komisjà Europejskà i organami, o których mowa w art. 1 pkt 2, zainteresowanych paƒstw cz∏onkowskich oraz w przypadku braku innych Êrodków zapobiegawczych, podaje do publicznej wiadomoÊci w Êrodkach masowego przekazu.
+- **1)** naruszających lub mogących naruszać prawodawstwo weterynaryjne wstopniu zagrażającym zdrowiu publicznemu lub
+- **2)** mających szczególne znaczenie dla Unii Europejskiej lub powodujących konsekwencje dla poszczególnych państw członkowskich Główny Lekarz Weterynarii, po porozumieniu z Komisją Europejską i organami, o których mowa w art. 1 pkt 2, zainteresowanych państw członkowskich oraz w przypadku braku innych środków zapobiegawczych, podaje do publicznej wiadomości w środkach masowego przekazu.
 
-8. Minister w∏aÊciwy do spraw rolnictwa okreÊli,
+8. Minister właściwy do spraw rolnictwa określi,
 
-- **2)** wykrywanie naruszeƒ tego prawodawstwa i zapobieganie im;
-- **3)** koniecznoÊç informowania o zawieranych z paƒstwami trzecimi umowach lub porozumieniach w zakresie weterynarii.
+- **2)** wykrywanie naruszeń tego prawodawstwa i zapobieganie im;
+- **3)** konieczność informowania o zawieranych z państwami trzecimi umowach lub porozumieniach w zakresie weterynarii.
 
-9. G∏ówny Lekarz Weterynarii sk∏ada, do dnia 30 kwietnia, ministrowi w∏aÊciwemu do spraw rolnictwa sprawozdanie z realizacji zadaƒ Inspekcji w roku ubieg∏ym.
+9. Główny Lekarz Weterynarii składa, do dnia 30 kwietnia, ministrowi właściwemu do spraw rolnictwa sprawozdanie z realizacji zadań Inspekcji w roku ubiegłym.
 
 **Art. 14.**
 
 1. Wojewódzki lekarz weterynarii:
 
-- **1)** ustala kierunki dzia∏ania, wydaje instrukcje okreÊlajàce sposób post´powania powiatowych lekarzy weterynarii na obszarze województwa oraz kontroluje sposób wykonywania przez nich zadaƒ Inspekcji;
-- **2)** mo˝e wydawaç powiatowym lekarzom weterynarii polecenia dotyczàce podj´cia okreÊlonych czynnoÊci oraz ˝àdaç od nich informacji z zakresu ich w drodze rozporzàdzenia, zakres i tryb wspó∏pracy G∏ównego Lekarza Weterynarii z organami, o których mowa w art. 1 pkt 2, oraz Komisjà Europejskà, bioràc pod uwag´:
-- **1)** prawid∏owe stosowanie prawodawstwa weterynaryjnego; dzia∏ania;
-- **3)** dokonuje analiz i ocen sytuacji epizootycznej, bezpieczeƒstwa produktów pochodzenia zwierz´cego, Êrodków ˝ywienia zwierzàt iwymagaƒ weterynaryjnych przy ich produkcji na obszarze województwa;
-- **4)** opracowuje na obszarze województwa programy iplany dotyczàce monitorowania zaka˝eƒ zwierzàt oraz zapobiegania chorobom zakaênym zwierzàt i zoonozom i ich zwalczania;
-- **5)** opracowuje na obszarze województwa programy i plany dotyczàce monitorowania wyst´powania substancji niedozwolonych, pozosta∏oÊci chemicznych, biologicznych, produktów leczniczych i ska˝eƒ promieniotwórczych uzwierzàt, wproduktach pochodzenia zwierz´cego, w wodzie przeznaczonej do pojenia zwierzàt i Êrodkach ˝ywienia zwierzàt;
-- **6)** organizuje szkolenia dla urz´dowych lekarzy weterynarii;
-- **7)** nadzoruje na obszarze województwa dzia∏anie systemów informatycznych utworzonych i u˝ytkowanych przez Inspekcj´.
+- **1)** ustala kierunki działania, wydaje instrukcje określające sposób postępowania powiatowych lekarzy weterynarii na obszarze województwa oraz kontroluje sposób wykonywania przez nich zadań Inspekcji;
+- **2)** może wydawać powiatowym lekarzom weterynarii polecenia dotyczące podjęcia określonych czynności oraz żądać od nich informacji z zakresu ich w drodze rozporządzenia, zakres i tryb współpracy Głównego Lekarza Weterynarii z organami, o których mowa w art. 1 pkt 2, oraz Komisją Europejską, biorąc pod uwagę:
+- **1)** prawidłowe stosowanie prawodawstwa weterynaryjnego; działania;
+- **3)** dokonuje analiz i ocen sytuacji epizootycznej, bezpieczeństwa produktów pochodzenia zwierzęcego, środków żywienia zwierząt iwymagań weterynaryjnych przy ich produkcji na obszarze województwa;
+- **4)** opracowuje na obszarze województwa programy iplany dotyczące monitorowania zakażeń zwierząt oraz zapobiegania chorobom zakaênym zwierząt i zoonozom i ich zwalczania;
+- **5)** opracowuje na obszarze województwa programy i plany dotyczące monitorowania występowania substancji niedozwolonych, pozostałości chemicznych, biologicznych, produktów leczniczych i skażeń promieniotwórczych uzwierząt, wproduktach pochodzenia zwierzęcego, w wodzie przeznaczonej do pojenia zwierząt i środkach żywienia zwierząt;
+- **6)** organizuje szkolenia dla urzędowych lekarzy weterynarii;
+- **7)** nadzoruje na obszarze województwa działanie systemów informatycznych utworzonych i użytkowanych przez Inspekcję.
 
-2. Wojewódzki lekarz weterynarii oraz graniczny lekarz weterynarii do dnia 30 marca, a na ˝àdanie, w ka˝dym czasie, przekazujà G∏ównemu Lekarzowi Weterynarii informacje orealizacji zadaƒ Inspekcji odpowiednio na obszarze województwa albo w terytorialnym zakresie dzia∏ania granicznego lekarza weterynarii.
+2. Wojewódzki lekarz weterynarii oraz graniczny lekarz weterynarii do dnia 30 marca, a na żądanie, w każdym czasie, przekazują Głównemu Lekarzowi Weterynarii informacje orealizacji zadań Inspekcji odpowiednio na obszarze województwa albo w terytorialnym zakresie działania granicznego lekarza weterynarii.
 
-3. Powiatowy lekarz weterynarii do dnia 28 lutego, a na ˝àdanie, w ka˝dym czasie, przekazuje wojewódzkiemu lekarzowi weterynarii informacje orealizacji zadaƒ Inspekcji w terytorialnym zakresie dzia∏ania powiatowego lekarza weterynarii.
+3. Powiatowy lekarz weterynarii do dnia 28 lutego, a na żądanie, w każdym czasie, przekazuje wojewódzkiemu lekarzowi weterynarii informacje orealizacji zadań Inspekcji w terytorialnym zakresie działania powiatowego lekarza weterynarii.
 
 **Art. 15.**
 
-1. W rozumieniu Kodeksu post´powania administracyjnego, w sprawach zwiàzanych z wykonywaniem zadaƒ Inspekcji, organem pierwszej instancji jest powiatowy lekarz weterynarii, chyba ˝e przepisy odr´bne stanowià inaczej.
+1. W rozumieniu Kodeksu postępowania administracyjnego, w sprawach związanych z wykonywaniem zadań Inspekcji, organem pierwszej instancji jest powiatowy lekarz weterynarii, chyba że przepisy odrębne stanowią inaczej.
 
-2. W rozumieniu Kodeksu post´powania administracyjnego w post´powaniu administracyjnym organem wy˝szego stopnia, w stosunku do:
+2. W rozumieniu Kodeksu postępowania administracyjnego w postępowaniu administracyjnym organem wyższego stopnia, w stosunku do:
 
 - **1)** powiatowego lekarza weterynarii jest wojewódzki lekarz weterynarii;
-- **2)** wojewódzkiego i granicznego lekarza weterynarii jest G∏ówny Lekarz Weterynarii.
+- **2)** wojewódzkiego i granicznego lekarza weterynarii jest Główny Lekarz Weterynarii.
 
-3. Organ wy˝szego stopnia mo˝e podejmowaç wszelkie czynnoÊci nale˝àce do zakresu dzia∏ania organu ni˝szego stopnia, je˝eli jest to uzasadnione szczególnà wagà lub zawi∏oÊcià sprawy. W tych przypadkach organ wy˝szego stopnia staje si´ organem pierwszej instancji.
+3. Organ wyższego stopnia może podejmować wszelkie czynności należące do zakresu działania organu niższego stopnia, jeżeli jest to uzasadnione szczególną wagą lub zawiłością sprawy. W tych przypadkach organ wyższego stopnia staje się organem pierwszej instancji.
 
-4. O podj´ciu czynnoÊci, o których mowa w ust. 3, organ wy˝szego stopnia powiadamia organ pierwszej instancji.
+4. O podjęciu czynności, o których mowa w ust. 3, organ wyższego stopnia powiadamia organ pierwszej instancji.
 
 **Art. 16.**
 
-1. Je˝eli powiatowy lekarz weterynarii z przyczyn finansowych lub organizacyjnych nie jest wstanie wykonaç ustawowych zadaƒ Inspekcji, mo˝e:
+1. Jeżeli powiatowy lekarz weterynarii z przyczyn finansowych lub organizacyjnych nie jest wstanie wykonać ustawowych zadań Inspekcji, może:
 
-- **1)** wyznaczaç na czas okreÊlony lekarzy weterynarii nieb´dàcych pracownikami Inspekcji do:
-    - **a)** ochronnych szczepieƒ ibadaƒ rozpoznawczych,
-    - **b)** sprawowania nadzoru nad miejscami gromadzenia, skupu lub sprzeda˝y zwierzàt, targowiskami oraz wystawami, pokazami lub konkursami zwierzàt,
-    - **c)** badania zwierzàt umieszczanych na rynku, przeznaczonych do wywozu oraz wystawiania Êwiadectw zdrowia,
-    - **d)** sprawowania nadzoru nad ubojem zwierzàt rzeênych, wtym badania przedubojowego ipoubojowego, oceny mi´sa i nadzoru nad przestrzeganiem przepisów o ochronie zwierzàt w trakcie uboju,
-    - **e)** badania mi´sa zwierzàt ∏ownych,
-    - **f)** sprawowania nadzoru nad rozbiorem, przetwórstwem lub przechowywaniem mi´sa i wystawiania wymaganych Êwiadectw zdrowia,
+- **1)** wyznaczać na czas określony lekarzy weterynarii niebędących pracownikami Inspekcji do:
+    - **a)** ochronnych szczepień ibadań rozpoznawczych,
+    - **b)** sprawowania nadzoru nad miejscami gromadzenia, skupu lub sprzedaży zwierząt, targowiskami oraz wystawami, pokazami lub konkursami zwierząt,
+    - **c)** badania zwierząt umieszczanych na rynku, przeznaczonych do wywozu oraz wystawiania świadectw zdrowia,
+    - **d)** sprawowania nadzoru nad ubojem zwierząt rzeênych, wtym badania przedubojowego ipoubojowego, oceny mięsa i nadzoru nad przestrzeganiem przepisów o ochronie zwierząt w trakcie uboju,
+    - **e)** badania mięsa zwierząt łownych,
+    - **f)** sprawowania nadzoru nad rozbiorem, przetwórstwem lub przechowywaniem mięsa i wystawiania wymaganych świadectw zdrowia,
     - **g)** sprawowania nadzoru nad punktami odbioru mleka, jego przetwórstwem oraz przechowywaniem produktów mleczarskich,
-    - **h)** sprawowania nadzoru nad wy∏adowywaniem ze statków rybackich i statków przetwórni produktów rybo∏ówstwa, nad obróbkà, przetwórstwem i przechowywaniem tych produktów oraz produktów akwakultury, Êlimaków i ˝ab,
-    - **i)** sprawowania nadzoru nad przetwórstwem i przechowywaniem jaj konsumpcyjnych i proj) pobierania próbek do badaƒ,
-    - **k)** sprawowania nadzoru nad sprzeda˝à bezpoÊrednià;
+    - **h)** sprawowania nadzoru nad wyładowywaniem ze statków rybackich i statków przetwórni produktów rybołówstwa, nad obróbką, przetwórstwem i przechowywaniem tych produktów oraz produktów akwakultury, ślimaków i żab,
+    - **i)** sprawowania nadzoru nad przetwórstwem i przechowywaniem jaj konsumpcyjnych i proj) pobierania próbek do badań,
+    - **k)** sprawowania nadzoru nad sprzedażą bezpośrednią;
 
-- **2)** wyznaczaç osoby nieb´dàce pracownikami Inspekcji, posiadajàce odpowiednie kwalifikacje, do wykonywania niektórych czynnoÊci pomocniczych.
+- **2)** wyznaczać osoby niebędące pracownikami Inspekcji, posiadające odpowiednie kwalifikacje, do wykonywania niektórych czynności pomocniczych.
 
-2. Wyznaczenie do wykonania czynnoÊci, októrym mowa w ust. 1, nast´puje w drodze decyzji administracyjnej powiatowego lekarza weterynarii okreÊlajàcej rodzaj izakres czynnoÊci przekazanych do wykonania.
+2. Wyznaczenie do wykonania czynności, októrym mowa w ust. 1, następuje w drodze decyzji administracyjnej powiatowego lekarza weterynarii określającej rodzaj izakres czynności przekazanych do wykonania.
 
-3. Wykonywanie czynnoÊci, o których mowa w ust. 1, nast´puje po zawarciu przez powiatowego lekarza weterynarii umowy z osobami, o których mowa w ust. 1, okreÊlajàcej w szczególnoÊci sposób, zakres imiejsce wykonywania tych czynnoÊci, wysokoÊç wynagrodzenia za ich wykonanie oraz termin p∏atnoÊci.
+3. Wykonywanie czynności, o których mowa w ust. 1, następuje po zawarciu przez powiatowego lekarza weterynarii umowy z osobami, o których mowa w ust. 1, określającej w szczególności sposób, zakres imiejsce wykonywania tych czynności, wysokość wynagrodzenia za ich wykonanie oraz termin płatności.
 
-4. Powiatowy lekarz weterynarii prowadzi list´ osób wyznaczonych do wykonywania czynnoÊci, o których mowa w ust. 1.
+4. Powiatowy lekarz weterynarii prowadzi listę osób wyznaczonych do wykonywania czynności, o których mowa w ust. 1.
 
-5. Uchylenie decyzji, októrej mowa wust. 2, irozwiàzanie umowy ze skutkiem natychmiastowym mo˝e nastàpiç w przypadku:
+5. Uchylenie decyzji, októrej mowa wust. 2, irozwiązanie umowy ze skutkiem natychmiastowym może nastąpić w przypadku:
 
-- **1)** gdy wykonywanie czynnoÊci przez osob´ wyznaczonà mo˝e spowodowaç zagro˝enie dla zdrowia publicznego lub zwierzàt;
-- **2)** niewywiàzywania si´ osoby wyznaczonej z powierzonych jej do wykonania czynnoÊci, w szczególnoÊci przez niewykonywanie ich terminowo;
-- **3)** stwierdzenia zaniedbaƒ wdokumentowaniu wykonywanych czynnoÊci;
+- **1)** gdy wykonywanie czynności przez osobę wyznaczoną może spowodować zagrożenie dla zdrowia publicznego lub zwierząt;
+- **2)** niewywiązywania się osoby wyznaczonej z powierzonych jej do wykonania czynności, w szczególności przez niewykonywanie ich terminowo;
+- **3)** stwierdzenia zaniedbań wdokumentowaniu wykonywanych czynności;
 - **4)** zawieszenia lub utraty prawa wykonywania zawodu przez lekarza weterynarii;
-- **5)** z∏o˝enia wniosku przez osob´ wyznaczonà.
+- **5)** złożenia wniosku przez osobę wyznaczoną.
 
-6. Minister w∏aÊciwy do spraw rolnictwa, po zasi´gni´ciu opinii G∏ównego Lekarza Weterynarii oraz Krajowej Rady Lekarsko-Weterynaryjnej, okreÊli, w drodze rozporzàdzenia:
+6. Minister właściwy do spraw rolnictwa, po zasięgnięciu opinii Głównego Lekarza Weterynarii oraz Krajowej Rady Lekarsko-Weterynaryjnej, określi, w drodze rozporządzenia:
 
-- **1)** zakres czynnoÊci wykonywanych przez osoby, o których mowa w ust. 1 pkt 2, oraz kwalifikacje osób wyznaczonych do wykonywania czynnoÊci, o których mowa w ust. 1,
-- **2)** warunki iwysokoÊç wynagrodzenia za wykonywaduktów jajecznych, nie czynnoÊci, o których mowa w ust. 1 majàc na wzgl´dzie zapewnienie odpowiedniego poziomu i jakoÊci wykonywanych czynnoÊci.
+- **1)** zakres czynności wykonywanych przez osoby, o których mowa w ust. 1 pkt 2, oraz kwalifikacje osób wyznaczonych do wykonywania czynności, o których mowa w ust. 1,
+- **2)** warunki iwysokość wynagrodzenia za wykonywaduktów jajecznych, nie czynności, o których mowa w ust. 1 mając na względzie zapewnienie odpowiedniego poziomu i jakości wykonywanych czynności.
 
-7. Wykonywanie czynnoÊci, o których mowa wust. 1, nie stanowi zatrudnienia wrozumieniu przepisów Kodeksu pracy.
+7. Wykonywanie czynności, o których mowa wust. 1, nie stanowi zatrudnienia wrozumieniu przepisów Kodeksu pracy.
 
 **Art. 17.**
 
-1. Powiatowe inspektoraty weterynarii dla realizacji zobowiàzaƒ wynikajàcych zumów, októrych mowa wart. 16 ust. 3, oraz wcelu pokrycia wydatków, októrych mowa wust. 3 pkt 2 i3, mogà tworzyç Êrodki specjalne.
+1. Powiatowe inspektoraty weterynarii dla realizacji zobowiązań wynikających zumów, októrych mowa wart. 16 ust. 3, oraz wcelu pokrycia wydatków, októrych mowa wust. 3 pkt 2 i3, mogą tworzyć środki specjalne.
 
-2. èród∏em dochodów Êrodków specjalnych, októrych mowa w ust. 1, sà op∏aty za czynnoÊci Inspekcji wykonywane przez osoby nieb´dàce jej pracownikami.
+2. èródłem dochodów środków specjalnych, októrych mowa w ust. 1, są opłaty za czynności Inspekcji wykonywane przez osoby niebędące jej pracownikami.
 
-3. Z op∏at, gromadzonych na Êrodkach specjalnych, sà pokrywane wydatki na:
+3. Z opłat, gromadzonych na środkach specjalnych, są pokrywane wydatki na:
 
-- **1)** wynagrodzenia osób nieb´dàcych pracownikami Inspekcji;
-- **2)** obs∏ug´ finansowà, druki do prowadzenia dokumentacji, piecz´cie do znakowania mi´sa, odczynniki do badaƒ na w∏oÊnie metodà wytrawiania, badania laboratoryjne niezb´dne do wydania oceny mi´sa, szkolenia wyznaczonych lekarzy weterynarii oraz ponoszone przez wyznaczone osoby koszty, o których mowa w art. 30 ust. 2 pkt 1 i 2 oraz w ust. 3 pkt 2;
-- **3)** usprawnienie funkcjonowania Inspekcji, wtym dojazdy w celu kontroli wykonywania powierzonych zadaƒ, z wy∏àczeniem wynagrodzeƒ jej pracowników.
+- **1)** wynagrodzenia osób niebędących pracownikami Inspekcji;
+- **2)** obsługę finansową, druki do prowadzenia dokumentacji, pieczęcie do znakowania mięsa, odczynniki do badań na włośnie metodą wytrawiania, badania laboratoryjne niezbędne do wydania oceny mięsa, szkolenia wyznaczonych lekarzy weterynarii oraz ponoszone przez wyznaczone osoby koszty, o których mowa w art. 30 ust. 2 pkt 1 i 2 oraz w ust. 3 pkt 2;
+- **3)** usprawnienie funkcjonowania Inspekcji, wtym dojazdy w celu kontroli wykonywania powierzonych zadań, z wyłączeniem wynagrodzeń jej pracowników.
 
 **Art. 18.**
 
-1. Organ Inspekcji, wprzypadku stwierdzenia zagro˝enia epizootycznego lub zagro˝enia bezpieczeƒstwa produktów pochodzenia zwierz´cego lub w przypadku gdy jest to niezb´dne ze wzgl´du na ochron´ zdrowia publicznego albo dla zabezpieczenia gospodarki narodowej przed powa˝nymi stratami, nakazuje, w drodze decyzji administracyjnej, lekarzowi weterynarii wykonywanie czynnoÊci koniecznych do likwidacji tego zagro˝enia.
+1. Organ Inspekcji, wprzypadku stwierdzenia zagrożenia epizootycznego lub zagrożenia bezpieczeństwa produktów pochodzenia zwierzęcego lub w przypadku gdy jest to niezbędne ze względu na ochronę zdrowia publicznego albo dla zabezpieczenia gospodarki narodowej przed poważnymi stratami, nakazuje, w drodze decyzji administracyjnej, lekarzowi weterynarii wykonywanie czynności koniecznych do likwidacji tego zagrożenia.
 
 2. Nakaz, o którym mowa w ust. 1, nie dotyczy:
 
-- **1)** osób, które ukoƒczy∏y 60 lat;
-- **2)** kobiet w cià˝y lub wychowujàcych dzieci w wieku do 14 lat;
-- **3)** osób niepe∏nosprawnych.
+- **1)** osób, które ukończyły 60 lat;
+- **2)** kobiet w ciąży lub wychowujących dzieci w wieku do 14 lat;
+- **3)** osób niepełnosprawnych.
 
-3. Decyzj´, októrej mowa wust. 1, na obszarze powiatu, wktórym lekarz weterynarii mieszka lub jest zatrudniony, wydaje powiatowy lekarz weterynarii, a w przypadku skierowania do wykonania czynnoÊci na obszarze innego powiatu wojewódzki lekarz weterynarii.
+3. Decyzję, októrej mowa wust. 1, na obszarze powiatu, wktórym lekarz weterynarii mieszka lub jest zatrudniony, wydaje powiatowy lekarz weterynarii, a w przypadku skierowania do wykonania czynności na obszarze innego powiatu wojewódzki lekarz weterynarii.
 
-4. Wniesienie odwo∏ania od decyzji, októrej mowa w ust. 1, nie wstrzymuje jej wykonania.
+4. Wniesienie odwołania od decyzji, októrej mowa w ust. 1, nie wstrzymuje jej wykonania.
 
-5. Decyzja, o której mowa w ust. 1, stwarza obowiàzek wykonywania czynnoÊci na okres do 3 miesi´cy w miejscu okreÊlonym w decyzji.
+5. Decyzja, o której mowa w ust. 1, stwarza obowiązek wykonywania czynności na okres do 3 miesięcy w miejscu określonym w decyzji.
 
-6. Osobie skierowanej do wykonywania czynnoÊci nego na czas okreÊlony w decyzji, o której mowa wust. 3. Okres urlopu bezp∏atnego zalicza si´ do okresu pracy, od którego zale˝à uprawnienia pracownicze u tego pracodawcy.
+6. Osobie skierowanej do wykonywania czynności nego na czas określony w decyzji, o której mowa wust. 3. Okres urlopu bezpłatnego zalicza się do okresu pracy, od którego zależą uprawnienia pracownicze u tego pracodawcy.
 
-7. Osobie, o której mowa w ust. 1, przys∏uguje zwrot kosztów przejazdu, zakwaterowania i wy˝ywienia na zasadach okreÊlonych wprzepisach oustalaniu oraz wysokoÊci nale˝noÊci przys∏ugujàcej pracownikom zatrudnionym w paƒstwowych lub samorzàdowych jednostkach sfery bud˝etowej i okreÊlonych w przepisach wydanych na podstawie art. 77 pracodawca jest obowiàzany udzieliç urlopu bezp∏at§ 2 Kodeksu pracy. Zwrot kosztów z tytu∏u zakwaterowania lub wy˝ywienia nie przys∏uguje w przypadku zapewnienia w miejscu wykonywania czynnoÊci bezp∏atnego zakwaterowania lub wy˝ywienia.
+7. Osobie, o której mowa w ust. 1, przysługuje zwrot kosztów przejazdu, zakwaterowania i wyżywienia na zasadach określonych wprzepisach oustalaniu oraz wysokości należności przysługującej pracownikom zatrudnionym w państwowych lub samorządowych jednostkach sfery budżetowej i określonych w przepisach wydanych na podstawie art. 77 pracodawca jest obowiązany udzielić urlopu bezpłat§ 2 Kodeksu pracy. Zwrot kosztów z tytułu zakwaterowania lub wyżywienia nie przysługuje w przypadku zapewnienia w miejscu wykonywania czynności bezpłatnego zakwaterowania lub wyżywienia.
 
-8. Przez czas okreÊlony w decyzji, o której mowa wust. 1, zosobà skierowanà do wykonania czynnoÊci przy zwalczaniu epizootii nie mo˝e byç rozwiàzany dotychczasowy stosunek pracy oraz nie mo˝e byç dokonane wypowiedzenie umowy oprac´, chyba ˝e istnieje podstawa do rozwiàzania umowy o prac´ bez wypowiedzenia z winy pracownika.
+8. Przez czas określony w decyzji, o której mowa wust. 1, zosobą skierowaną do wykonania czynności przy zwalczaniu epizootii nie może być rozwiązany dotychczasowy stosunek pracy oraz nie może być dokonane wypowiedzenie umowy opracę, chyba że istnieje podstawa do rozwiązania umowy o pracę bez wypowiedzenia z winy pracownika.
 
-9. Wynagrodzenie osób, o których mowa w ust. 1, ustala si´ wed∏ug przepisów wydanych na podstawie art. 16 ust. 6 pkt 2.
+9. Wynagrodzenie osób, o których mowa w ust. 1, ustala się według przepisów wydanych na podstawie art. 16 ust. 6 pkt 2.
 
 **Art. 19.**
 
-1. Pracownicy Inspekcji oraz osoby wyznaczone na podstawie art. 16 i18 sà obowiàzani przy wykonywaniu swoich czynnoÊci posiadaç upowa˝nienie i nosiç na widocznym miejscu odznak´ identyfikacyjnà.
+1. Pracownicy Inspekcji oraz osoby wyznaczone na podstawie art. 16 i18 są obowiązani przy wykonywaniu swoich czynności posiadać upoważnienie i nosić na widocznym miejscu odznakę identyfikacyjną.
 
-2. Minister w∏aÊciwy do spraw rolnictwa okreÊli, w drodze rozporzàdzenia, wzory upowa˝nienia i odznaki identyfikacyjnej, majàc na wzgl´dzie potrzeb´ zapewnienia identyfikacji osób uprawnionych do przeprowadzania kontroli w imieniu Inspekcji.
+2. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wzory upoważnienia i odznaki identyfikacyjnej, mając na względzie potrzebę zapewnienia identyfikacji osób uprawnionych do przeprowadzania kontroli w imieniu Inspekcji.
 
-3. Pracownicy Inspekcji oraz osoby wyznaczone na podstawie art. 16 i 18, w zakresie wykonywania czynnoÊci, majà prawo w ka˝dym czasie do:
+3. Pracownicy Inspekcji oraz osoby wyznaczone na podstawie art. 16 i 18, w zakresie wykonywania czynności, mają prawo w każdym czasie do:
 
-- **1)** przeprowadzania kontroli gospodarstw, centrów (organizacji), zak∏adów, instalacji, urzàdzeƒ lub Êrodków transportu;
-- **2)** kontrolowania przestrzegania wymagaƒ okreÊlonych w prawodawstwie weterynaryjnym, w tym metod stosowanych do znakowania i identyfikacji zwierzàt;
-- **3)** pobierania nieodp∏atnie próbek do badaƒ:
-    - **a)** od zwierzàt utrzymywanych w celu umieszczenia na rynku lub transportowanych,
+- **1)** przeprowadzania kontroli gospodarstw, centrów (organizacji), zakładów, instalacji, urządzeń lub środków transportu;
+- **2)** kontrolowania przestrzegania wymagań określonych w prawodawstwie weterynaryjnym, w tym metod stosowanych do znakowania i identyfikacji zwierząt;
+- **3)** pobierania nieodpłatnie próbek do badań:
+    - **a)** od zwierząt utrzymywanych w celu umieszczenia na rynku lub transportowanych,
     - **b)** produktów przeznaczonych do przechowywania, umieszczania na rynku lub transportowanych;
 
-- **4)** ˝àdania pisemnych lub ustnych informacji w zakresie obj´tym przedmiotem kontroli;
-- **5)** ˝àdania okazywania i udost´pniania dokumentów lub danych informatycznych w zakresie, o którym mowa w pkt 4.
+- **4)** żądania pisemnych lub ustnych informacji w zakresie objętym przedmiotem kontroli;
+- **5)** żądania okazywania i udostępniania dokumentów lub danych informatycznych w zakresie, o którym mowa w pkt 4.
 
-4. Przy wykonywaniu czynnoÊci, o których mowa w ust. 3, podmioty kontrolowane sà obowiàzane zapewniç pracownikom Inspekcji oraz osobom wyznaczonym na podstawie art. 16 i18 pomoc niezb´dnà do wykonywania ich obowiàzków.
+4. Przy wykonywaniu czynności, o których mowa w ust. 3, podmioty kontrolowane są obowiązane zapewnić pracownikom Inspekcji oraz osobom wyznaczonym na podstawie art. 16 i18 pomoc niezbędną do wykonywania ich obowiązków.
 
-5. Uzyskane w wyniku kontroli informacje, dokumenty i inne dane, dotyczàce w szczególnoÊci stosowanej przez kontrolowanego technologii, nie mogà byç przekazywane oraz ujawniane innym organom, chyba ˝e stanowià dowód pope∏nienia czynu zabronionego przez ustaw´.
+5. Uzyskane w wyniku kontroli informacje, dokumenty i inne dane, dotyczące w szczególności stosowanej przez kontrolowanego technologii, nie mogą być przekazywane oraz ujawniane innym organom, chyba że stanowią dowód popełnienia czynu zabronionego przez ustawę.
 
-6. Powiatowy albo wojewódzki lekarz weterynarii mo˝e wystàpiç do w∏aÊciwego miejscowo komendanta Policji z wnioskiem o pomoc, je˝eli jest to niezb´dne do przeprowadzenia kontroli przez Inspekcj´. Na wniosek powiatowego albo wojewódzkiego lekarza weterynarii w∏aÊciwy miejscowo komendant Policji zapewnia pomoc przy przeprowadzaniu kontroli.
+6. Powiatowy albo wojewódzki lekarz weterynarii może wystąpić do właściwego miejscowo komendanta Policji z wnioskiem o pomoc, jeżeli jest to niezbędne do przeprowadzenia kontroli przez Inspekcję. Na wniosek powiatowego albo wojewódzkiego lekarza weterynarii właściwy miejscowo komendant Policji zapewnia pomoc przy przeprowadzaniu kontroli.
 
-7. Minister w∏aÊciwy do spraw rolnictwa okreÊli, w drodze rozporzàdzenia, szczegó∏owy tryb i sposób wykonywania przez pracowników Inspekcji kontroli, majàc na wzgl´dzie cz´stotliwoÊç i prawid∏owoÊç jej przeprowadzania.
+7. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, szczegółowy tryb i sposób wykonywania przez pracowników Inspekcji kontroli, mając na względzie częstotliwość i prawidłowość jej przeprowadzania.
 
 **Art. 20.**
 
-1. Uprawnienia, o których mowa w art. 19 ust. 3, przys∏ugujà przedstawicielom s∏u˝b weterynaryjnych Unii Europejskiej oraz innych paƒstw cz∏onkowskich, przeprowadzajàcych kontrole weterynaryjne na terytorium Rzeczypospolitej Polskiej.
+1. Uprawnienia, o których mowa w art. 19 ust. 3, przysługują przedstawicielom służb weterynaryjnych Unii Europejskiej oraz innych państw członkowskich, przeprowadzających kontrole weterynaryjne na terytorium Rzeczypospolitej Polskiej.
 
-2. Kontrole, o których mowa w ust. 1, przeprowadza si´ w obecnoÊci w∏aÊciwego organu Inspekcji.
+2. Kontrole, o których mowa w ust. 1, przeprowadza się w obecności właściwego organu Inspekcji.
 
-**Art. 21.** Podmioty prowadzàce dzia∏alnoÊç w obiektach nadzorowanych przez Inspekcj´, w przypadku koniecznoÊci sta∏ego wykonywania czynnoÊci przez pracowników Inspekcji lub osoby wyznaczone na podstawie art. 16 i18, sà obowiàzane do nieodp∏atnego:
+**Art. 21.** Podmioty prowadzące działalność w obiektach nadzorowanych przez Inspekcję, w przypadku konieczności stałego wykonywania czynności przez pracowników Inspekcji lub osoby wyznaczone na podstawie art. 16 i18, są obowiązane do nieodpłatnego:
 
-**Art. 22.** Pracownicy Inspekcji oraz osoby, októrych mowa w art. 16, 18 i 20, w zakresie wykonywania czynnoÊci okreÊlonych w ustawie podlegajà ochronie prawnej przewidzianej dla funkcjonariuszy publicznych.
+**Art. 22.** Pracownicy Inspekcji oraz osoby, októrych mowa w art. 16, 18 i 20, w zakresie wykonywania czynności określonych w ustawie podlegają ochronie prawnej przewidzianej dla funkcjonariuszy publicznych.
 
 **Art. 23.**
 
-2. Badania laboratoryjne obejmujà równie˝ monitoring szkodliwych dla ludzi i zwierzàt czynników biologicznych, chemicznych i fizycznych, okreÊlonych w przepisach odr´bnych.
+2. Badania laboratoryjne obejmują również monitoring szkodliwych dla ludzi i zwierząt czynników biologicznych, chemicznych i fizycznych, określonych w przepisach odrębnych.
 
-3. Badania laboratoryjne przeprowadzajà:
+3. Badania laboratoryjne przeprowadzają:
 
-- **1)** zak∏ady higieny weterynaryjnej wchodzàce wsk∏ad wojewódzkich inspektoratów weterynarii, które sà regionalnymi laboratoriami weterynaryjnymi w rozumieniu przepisów Unii Europejskiej;
-- **2)** laboratoria weterynaryjne wchodzàce w sk∏ad innych ni˝ wymienione w pkt 1 jednostek organizacyjnych Inspekcji;
+- **1)** zakłady higieny weterynaryjnej wchodzące wskład wojewódzkich inspektoratów weterynarii, które są regionalnymi laboratoriami weterynaryjnymi w rozumieniu przepisów Unii Europejskiej;
+- **2)** laboratoria weterynaryjne wchodzące w skład innych niż wymienione w pkt 1 jednostek organizacyjnych Inspekcji;
 - **3)** krajowe laboratoria referencyjne w rozumieniu przepisów Unii Europejskiej.
 
-4. W uzasadnionych przypadkach badania laboratoryjne, októrych mowa wust. 1 i2, mogà przeprowadziç inne ni˝ wymienione w ust. 3 zatwierdzone laboratoria.
+4. W uzasadnionych przypadkach badania laboratoryjne, októrych mowa wust. 1 i2, mogą przeprowadzić inne niż wymienione w ust. 3 zatwierdzone laboratoria.
 
-5. Krajowe laboratoria referencyjne sprawujà nadzór nad jakoÊcià badaƒ wykonywanych w laboratoriach, o których mowa w ust. 3 pkt 1 i 2 i ust. 4, w szczególnoÊci przez:
+5. Krajowe laboratoria referencyjne sprawują nadzór nad jakością badań wykonywanych w laboratoriach, o których mowa w ust. 3 pkt 1 i 2 i ust. 4, w szczególności przez:
 
-- **1)** ujednolicanie wymagaƒ i metod badawczych;
-- **2)** sprawdzanie jakoÊci preparatów diagnostycznych u˝ywanych do badaƒ;
-- **3)** organizacj´ okresowych testów porównawczych poszczególnych metod badawczych, stosowanych przez laboratoria;
-- **4)** prowadzenie szkoleƒ pracowników laboratoriów;
-- **5)** prowadzenie badaƒ laboratoryjnych majàcych na celu potwierdzanie wyników badaƒ przeprowadzonych przez laboratoria;
-- **6)** gromadzenie i przetwarzanie danych dotyczàcych wyników badaƒ laboratoryjnych.
+- **1)** ujednolicanie wymagań i metod badawczych;
+- **2)** sprawdzanie jakości preparatów diagnostycznych używanych do badań;
+- **3)** organizację okresowych testów porównawczych poszczególnych metod badawczych, stosowanych przez laboratoria;
+- **4)** prowadzenie szkoleń pracowników laboratoriów;
+- **5)** prowadzenie badań laboratoryjnych mających na celu potwierdzanie wyników badań przeprowadzonych przez laboratoria;
+- **6)** gromadzenie i przetwarzanie danych dotyczących wyników badań laboratoryjnych.
 
-6. Zadania krajowego laboratorium referencyjnego przeprowadzajàcego badania w kierunku zakaênych encefalopatii zwierzàt (TSE) okreÊlajà przepisy Unii Europejskiej dotyczàce zapobiegania, kontroli i zwalczania niektórych gàbczastych przenoÊnych encefalopatii
+6. Zadania krajowego laboratorium referencyjnego przeprowadzającego badania w kierunku zakaênych encefalopatii zwierząt (TSE) określają przepisy Unii Europejskiej dotyczące zapobiegania, kontroli i zwalczania niektórych gąbczastych przenośnych encefalopatii
 
-1. Stwierdzenie choroby zakaênej zwierz´cia, wydanie oceny mi´sa, oceny zdrowotnej jakoÊci produktów pochodzenia zwierz´cego, ubocznych produktów pochodzenia zwierz´cego, materia∏u biologicznego i Êrodków ˝ywienia zwierzàt mo˝e byç poprzedzone przeprowadzeniem badaƒ laboratoryjnych. .
+1. Stwierdzenie choroby zakaênej zwierzęcia, wydanie oceny mięsa, oceny zdrowotnej jakości produktów pochodzenia zwierzęcego, ubocznych produktów pochodzenia zwierzęcego, materiału biologicznego i środków żywienia zwierząt może być poprzedzone przeprowadzeniem badań laboratoryjnych. .
 
-7. Laboratoria, o których mowa w ust. 3 i 4, wykonujàce badania produktów pochodzenia zwierz´cego, podlegajà akredytacji w zakresie poszczególnych rodzajów badaƒ, metod badawczych i procedur.
+7. Laboratoria, o których mowa w ust. 3 i 4, wykonujące badania produktów pochodzenia zwierzęcego, podlegają akredytacji w zakresie poszczególnych rodzajów badań, metod badawczych i procedur.
 
-8. Zadania, o których mowa w ust. 5 pkt 1—3 i 6 oraz ust. 6, sà finansowane z bud˝etu paƒstwa. ———————
+8. Zadania, o których mowa w ust. 5 pkt 1—3 i 6 oraz ust. 6, są finansowane z budżetu państwa. ———————
 
 **Art. 24.**
 
-1. Kierownik laboratorium ubiegajàcego si´ ozatwierdzenie wyst´puje zpisemnym wnioskiem w tym zakresie do G∏ównego Lekarza Weterynarii.
+1. Kierownik laboratorium ubiegającego się ozatwierdzenie występuje zpisemnym wnioskiem w tym zakresie do Głównego Lekarza Weterynarii.
 
-2. Do wniosku, o którym mowa w ust. 1, do∏àcza si´:
+2. Do wniosku, o którym mowa w ust. 1, dołącza się:
 
-- **1)** kopi´ orygina∏u certyfikatu akredytacji, zgodnego z kierunkiem badaƒ okreÊlonych we wniosku, w przypadku laboratoriów, o których mowa w art. 23 ust. 7;
-- **2)** opini´ w∏aÊciwego dla kierunku badaƒ laboratorium referencyjnego o:
-    - **a)** kwalifikacjach osób przeprowadzajàcych badania,
-    - **b)** spe∏nianiu warunków niezb´dnych do przeprowadzania badaƒ,
+- **1)** kopię oryginału certyfikatu akredytacji, zgodnego z kierunkiem badań określonych we wniosku, w przypadku laboratoriów, o których mowa w art. 23 ust. 7;
+- **2)** opinię właściwego dla kierunku badań laboratorium referencyjnego o:
+    - **a)** kwalifikacjach osób przeprowadzających badania,
+    - **b)** spełnianiu warunków niezbędnych do przeprowadzania badań,
     - **c)** stosowanych metodach badawczych.
 
-3. G∏ówny Lekarz Weterynarii zatwierdza, w drodze decyzji administracyjnej, laboratorium po przeprowadzeniu w nim testu porównawczego poszczególnych metod diagnostycznych.
+3. Główny Lekarz Weterynarii zatwierdza, w drodze decyzji administracyjnej, laboratorium po przeprowadzeniu w nim testu porównawczego poszczególnych metod diagnostycznych.
 
-4. G∏ówny Lekarz Weterynarii prowadzi wykaz zatwierdzonych laboratoriów.
+4. Główny Lekarz Weterynarii prowadzi wykaz zatwierdzonych laboratoriów.
 
-5. Wykaz zatwierdzonych laboratoriów jest jawny i podlega og∏oszeniu w dzienniku urz´dowym ministra w∏aÊciwego do spraw rolnictwa oraz jest umieszczany na stronach internetowych G∏ównego Inspektoratu Weterynarii.
+5. Wykaz zatwierdzonych laboratoriów jest jawny i podlega ogłoszeniu w dzienniku urzędowym ministra właściwego do spraw rolnictwa oraz jest umieszczany na stronach internetowych Głównego Inspektoratu Weterynarii.
 
-6. G∏ówny Lekarz Weterynarii, wdrodze decyzji administracyjnej, cofa laboratorium zatwierdzenie, je˝eli:
+6. Główny Lekarz Weterynarii, wdrodze decyzji administracyjnej, cofa laboratorium zatwierdzenie, jeżeli:
 
-- **1)** przesta∏o ono spe∏niaç warunki zatwierdzenia lub
-- **2)** uzyska∏o negatywne wyniki testów porównawczych, o których mowa w ust. 3, lub nie podda∏o si´ takim testom.
+- **1)** przestało ono spełniać warunki zatwierdzenia lub
+- **2)** uzyskało negatywne wyniki testów porównawczych, o których mowa w ust. 3, lub nie poddało się takim testom.
 
-7. Minister w∏aÊciwy do spraw rolnictwa okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki i tryb gromadzenia oraz przetwarzania danych dotyczàcych wyników badaƒ laboratoryjnych, majàc na wzgl´dzie zapewnienie efektywnej kontroli stanu bezpieczeƒstwa produktów pochodzenia zwierz´cego, stanu zdrowia zwierzàt oraz szybkiego przep∏ywu informacji dotyczàcych wyników tych badaƒ.
+7. Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, szczegółowe warunki i tryb gromadzenia oraz przetwarzania danych dotyczących wyników badań laboratoryjnych, mając na względzie zapewnienie efektywnej kontroli stanu bezpieczeństwa produktów pochodzenia zwierzęcego, stanu zdrowia zwierząt oraz szybkiego przepływu informacji dotyczących wyników tych badań.
 
-**Art. 25.** Minister w∏aÊciwy do spraw rolnictwa okreÊli, w drodze rozporzàdzenia, wykaz laboratoriów referencyjnych w∏aÊciwych dla poszczególnych rodzajów i kierunków badaƒ, bioràc pod uwag´ zapewnienie powtarzalnoÊci wyników badaƒ laboratoryjnych niezb´dnych do zapewnienia kontroli zdrowia publicznego i zdrowia zwierzàt. Rozdzia∏ 3 Zasady wystawiania Êwiadectw zdrowia
+**Art. 25.** Minister właściwy do spraw rolnictwa określi, w drodze rozporządzenia, wykaz laboratoriów referencyjnych właściwych dla poszczególnych rodzajów i kierunków badań, biorąc pod uwagę zapewnienie powtarzalności wyników badań laboratoryjnych niezbędnych do zapewnienia kontroli zdrowia publicznego i zdrowia zwierząt.
+
+#### Rozdział 3 Zasady wystawiania świadectw zdrowia
 
 **Art. 26.**
 
-1. Âwiadectwa zdrowia wystawia organ Inkarz weterynarii, zwani dalej „wystawiajàcym Êwiadectwo”.
+1. Âwiadectwa zdrowia wystawia organ Inkarz weterynarii, zwani dalej Ńwystawiającym świadectwo”.
 
-2. Wystawiajàcy Êwiadectwo powinien:
+2. Wystawiający świadectwo powinien:
 
-- **1)** posiadaç wiedz´ w zakresie przepisów zawartych waktach prawnych, októrych mowa wart. 1 pkt 3;
-- **2)** znaç zasady przeprowadzania kontroli weterynaryjnej oraz sposób wystawiania Êwiadectw zdrowia.
+- **1)** posiadać wiedzę w zakresie przepisów zawartych waktach prawnych, októrych mowa wart. 1 pkt 3;
+- **2)** znać zasady przeprowadzania kontroli weterynaryjnej oraz sposób wystawiania świadectw zdrowia.
 
-3. Wystawiajàcy Êwiadectwo:
+3. Wystawiający świadectwo:
 
-- **1)** poÊwiadcza dane, co do których posiada wiedz´ i które mogà byç przez niego ustalone;
-- **2)** podpisuje Êwiadectwa zdrowia:
-    - **a)** prawid∏owo wype∏nione,
-    - **b)** zwierzàt lub produktów w rozumieniu przepisów o kontroli weterynaryjnej w handlu, które zosta∏y przez niego skontrolowane.
+- **1)** poświadcza dane, co do których posiada wiedzę i które mogą być przez niego ustalone;
+- **2)** podpisuje świadectwa zdrowia:
+    - **a)** prawidłowo wypełnione,
+    - **b)** zwierząt lub produktów w rozumieniu przepisów o kontroli weterynaryjnej w handlu, które zostały przez niego skontrolowane.
 
-4. Je˝eli wystawienie Êwiadectwa zdrowia nast´puje na podstawie innych dokumentów, to wystawiajàcy Êwiadectwo jest obowiàzany posiadaç te dokumenty przed jego wystawieniem.
+4. Jeżeli wystawienie świadectwa zdrowia następuje na podstawie innych dokumentów, to wystawiający świadectwo jest obowiązany posiadać te dokumenty przed jego wystawieniem.
 
-5. Wystawiajàcy Êwiadectwo mo˝e wystawiç Êwiadectwo zdrowia na podstawie danych, które zosta∏y:
+5. Wystawiający świadectwo może wystawić świadectwo zdrowia na podstawie danych, które zostały:
 
-- **1)** ustalone przez osoby, o których mowa w art. 16 ust. 1, je˝eli wystawiajàcy Êwiadectwo mo˝e potwierdziç prawdziwoÊç tych danych, lub
-- **2)** uzyskane wwyniku realizacji programów iplanów monitorowania, o których mowa w art. 13 ust. 1 pkt 6 i7 oraz art. 14 ust. 1 pkt 4 i5, atak˝e zatwierdzonych programów zapewnienia jakoÊci.
+- **1)** ustalone przez osoby, o których mowa w art. 16 ust. 1, jeżeli wystawiający świadectwo może potwierdzić prawdziwość tych danych, lub
+- **2)** uzyskane wwyniku realizacji programów iplanów monitorowania, o których mowa w art. 13 ust. 1 pkt 6 i7 oraz art. 14 ust. 1 pkt 4 i5, atakże zatwierdzonych programów zapewnienia jakości.
 
 **Art. 27.**
 
-1. Do wystawiajàcego Êwiadectwo przepisy art. 24 i25 Kodeksu post´powania administracyjnego stosuje si´ odpowiednio.
+1. Do wystawiającego świadectwo przepisy art. 24 i25 Kodeksu postępowania administracyjnego stosuje się odpowiednio.
 
-2. Âwiadectwo zdrowia sporzàdza si´ wj´zyku polskim oraz co najmniej w jednym z j´zyków urz´dowych paƒstwa przeznaczenia wrozumieniu przepisów o kontroli weterynaryjnej w handlu.
+2. Âwiadectwo zdrowia sporządza się wjęzyku polskim oraz co najmniej w jednym z języków urzędowych państwa przeznaczenia wrozumieniu przepisów o kontroli weterynaryjnej w handlu.
 
-3. Âwiadectwo zdrowia sporzàdza si´ wsposób zapewniajàcy identyfikacj´ wystawiajàcego Êwiadectwo.
+3. Âwiadectwo zdrowia sporządza się wsposób zapewniający identyfikację wystawiającego świadectwo.
 
-4. Wystawiajàcy Êwiadectwo przechowuje kopie wystawionych Êwiadectw zdrowia przez 3 lata od dnia ich wystawienia.
+4. Wystawiający świadectwo przechowuje kopie wystawionych świadectw zdrowia przez 3 lata od dnia ich wystawienia.
 
 **Art. 28.**
 
-1. Organy Inspekcji kontrolujà wydane Êwiadectwa zdrowia.
+1. Organy Inspekcji kontrolują wydane świadectwa zdrowia.
 
-2. Je˝eli zachodzi podejrzenie, ˝e wystawiajàcy Êwiadectwo przerobi∏ lub sfa∏szowa∏ Êwiadectwo zdrowia, organ Inspekcji sprawujàcy nad nim nadzór mospekcji lub upowa˝niony przez ten organ urz´dowy le˝e zawiesiç go w czynnoÊciach do czasu zakoƒczenia post´powania karnego w tej sprawie.
+2. Jeżeli zachodzi podejrzenie, że wystawiający świadectwo przerobił lub sfałszował świadectwo zdrowia, organ Inspekcji sprawujący nad nim nadzór mospekcji lub upoważniony przez ten organ urzędowy leże zawiesić go w czynnościach do czasu zakończenia postępowania karnego w tej sprawie.
 
-**Art. 29.** Minister w∏aÊciwy do spraw rolnictwa l) dzia∏alnoÊcià zwiàzanà ze sprzeda˝à bezpoÊredokreÊli, wdrodze rozporzàdzenia, program szkoleƒ dla nià; wystawiajàcych Êwiadectwa, a tak˝e sposób prowadzenia tych szkoleƒ, bioràc pod uwag´: 6) szczepienia ochronne przeciwko rzekomemu pomorowi drobiu oraz przeciwko wÊciekliênie psów
+**Art. 29.** Minister właściwy do spraw rolnictwa l) działalnością związaną ze sprzedażą bezpośredokreśli, wdrodze rozporządzenia, program szkoleń dla nią; wystawiających świadectwa, a także sposób prowadzenia tych szkoleń, biorąc pod uwagę: 6) szczepienia ochronne przeciwko rzekomemu pomorowi drobiu oraz przeciwko wściekliênie psów
 
 **Art. 30.**
 
-1. Inspekcja pobiera op∏aty za: 9) badania laboratoryjne próbek:
+1. Inspekcja pobiera opłaty za: 9) badania laboratoryjne próbek:
 
-- **1)** kontrol´ wmiejscu pochodzenia zwierzàt oraz pro- a) pobranych w trakcie post´powania zwiàzanego duktów wymienionych w za∏àczniku nr 1 w cz´Êci z wykryciem substancji niedozwolonych, I iIII do ustawy zdnia 10 grudnia 2003 r. okontro- b) pobranych w trakcie sprawowania nadzoru, jeli weterynaryjnej whandlu, wraz zpobraniem pró- ˝eli wyniki tych badaƒ wyka˝à naruszenie przebek do badaƒ laboratoryjnych; pisów;
-- **2)** przeprowadzenie weterynaryjnej kontroli granicz- 10) wydawanie pozwoleƒ weterynaryjnych na przynej; wóz przesy∏ek zwierzàt lub produktów, je˝eli przepisy odr´bne tak stanowià.
-- **3)** nadzór nad ubojem zwierzàt rzeênych, w tym badanie przedubojowe i poubojowe, ocen´ mi´sa 2. Do op∏at, o których mowa w ust. 1 pkt 1 i 5 i nadzór nad przestrzeganiem przepisów o ochro- lit. h oraz i, a tak˝e pkt 6, dolicza si´ koszty: nie zwierzàt w trakcie uboju;
-- **1)** dojazdu zwiàzanego z wykonywaniem czynnoÊci;
-- **4)** badanie mi´sa zwierzàt ∏ownych;
-- **2)** u˝ytych produktów leczniczych weterynaryjnych,
-- **5)** nadzór nad: materia∏ów medycznych lub Êrodków s∏u˝àcych
-    - **a)** rozbiorem mi´sa, do mycia lub odka˝ania;
-    - **b)** przechowywaniem mi´sa, 3) badaƒ laboratoryjnych.
-    - **c)** przetwórstwem mi´sa, 3. Do op∏at:
-    - **d)** punktami odbioru mleka, przetwórstwem mleka oraz przechowywaniem produktów mleczar- 1) o których mowa w ust. 1 pkt 2, dolicza si´ koszty skich, badaƒ laboratoryjnych zwiàzane z pobieraniem i badaniem próbek;
-    - **e)** przetwórstwem lub przechowywaniem jaj konsumpcyjnych lub produktów jajecznych, 2) o których mowa w ust. 1 pkt 3 i 4, zwiàzanych z badaniem na terenie gospodarstwa lub fermy
-    - **f)** pozyskiwaniem, obróbkà lub przechowywaniem materia∏u biologicznego,
-    - **g)** pozyskiwaniem, sk∏adowaniem lub przetwarzaniem ubocznych produktów zwierz´cych,
-    - **h)** miejscami gromadzenia, skupu lub sprzeda˝y zwierzàt, targowiskami, atak˝e wystawami, pokazami lub konkursami zwierzàt,
-    - **i)** kwarantannà zwierzàt, z wyjàtkiem kwarantanny przeprowadzanej wposterunku weterynaryjnej kontroli granicznej,
-    - **j)** wy∏adowywaniem albo pierwszà sprzeda˝à produktów rybo∏ówstwa ze statków rybackich,
-    - **k)** obróbkà, przetwórstwem, przechowywaniem produktów rybo∏ówstwa lub produktów akwakultury oraz wy∏adowywaniem ze statków przetwórni produktów rybo∏ówstwa, albo rzeêni o ma∏ej zdolnoÊci produkcyjnej dolicza si´ koszty dojazdu do miejsca wykonania czynnoÊci;
+- **1)** kontrolę wmiejscu pochodzenia zwierząt oraz pro- a) pobranych w trakcie postępowania związanego duktów wymienionych w załączniku nr 1 w części z wykryciem substancji niedozwolonych, I iIII do ustawy zdnia 10 grudnia 2003 r. okontro- b) pobranych w trakcie sprawowania nadzoru, jeli weterynaryjnej whandlu, wraz zpobraniem pró- żeli wyniki tych badań wykażą naruszenie przebek do badań laboratoryjnych; pisów;
+- **2)** przeprowadzenie weterynaryjnej kontroli granicz- 10) wydawanie pozwoleń weterynaryjnych na przynej; wóz przesyłek zwierząt lub produktów, jeżeli przepisy odrębne tak stanowią.
+- **3)** nadzór nad ubojem zwierząt rzeênych, w tym badanie przedubojowe i poubojowe, ocenę mięsa 2. Do opłat, o których mowa w ust. 1 pkt 1 i 5 i nadzór nad przestrzeganiem przepisów o ochro- lit. h oraz i, a także pkt 6, dolicza się koszty: nie zwierząt w trakcie uboju;
+- **1)** dojazdu związanego z wykonywaniem czynności;
+- **4)** badanie mięsa zwierząt łownych;
+- **2)** użytych produktów leczniczych weterynaryjnych,
+- **5)** nadzór nad: materiałów medycznych lub środków służących
+    - **a)** rozbiorem mięsa, do mycia lub odkażania;
+    - **b)** przechowywaniem mięsa, 3) badań laboratoryjnych.
+    - **c)** przetwórstwem mięsa, 3. Do opłat:
+    - **d)** punktami odbioru mleka, przetwórstwem mleka oraz przechowywaniem produktów mleczar- 1) o których mowa w ust. 1 pkt 2, dolicza się koszty skich, badań laboratoryjnych związane z pobieraniem i badaniem próbek;
+    - **e)** przetwórstwem lub przechowywaniem jaj konsumpcyjnych lub produktów jajecznych, 2) o których mowa w ust. 1 pkt 3 i 4, związanych z badaniem na terenie gospodarstwa lub fermy
+    - **f)** pozyskiwaniem, obróbką lub przechowywaniem materiału biologicznego,
+    - **g)** pozyskiwaniem, składowaniem lub przetwarzaniem ubocznych produktów zwierzęcych,
+    - **h)** miejscami gromadzenia, skupu lub sprzedaży zwierząt, targowiskami, atakże wystawami, pokazami lub konkursami zwierząt,
+    - **i)** kwarantanną zwierząt, z wyjątkiem kwarantanny przeprowadzanej wposterunku weterynaryjnej kontroli granicznej,
+    - **j)** wyładowywaniem albo pierwszą sprzedażą produktów rybołówstwa ze statków rybackich,
+    - **k)** obróbką, przetwórstwem, przechowywaniem produktów rybołówstwa lub produktów akwakultury oraz wyładowywaniem ze statków przetwórni produktów rybołówstwa, albo rzeêni o małej zdolności produkcyjnej dolicza się koszty dojazdu do miejsca wykonania czynności;
 
-- **3)** o których mowa w ust. 1 pkt 7, zwiàzanych z kontrolà statków rybackich i statków przetwórni za granicà dolicza si´ koszty przemieszczenia na ten statek.
+- **3)** o których mowa w ust. 1 pkt 7, związanych z kontrolą statków rybackich i statków przetwórni za granicą dolicza się koszty przemieszczenia na ten statek.
 
 **Art. 31.**
 
-1. W przypadku gdy ubój zwierzàt i badanie poubojowe odbywa si´ na terenie gospodarstwa lub fermy, op∏aty, o których mowa w art. 30 ust. 1 pkt 3 i4, powi´ksza si´ o100 % wcelu pokrycia kosztów badania.
+1. W przypadku gdy ubój zwierząt i badanie poubojowe odbywa się na terenie gospodarstwa lub fermy, opłaty, o których mowa w art. 30 ust. 1 pkt 3 i4, powiększa się o100 % wcelu pokrycia kosztów badania.
 
-2. W przypadku gdy rozbiór mi´sa jest dokonywany wzak∏adzie, wktórym mi´so to zosta∏o pozyskane, op∏aty za nadzór nad rozbiorem mi´sa zmniejsza si´ o 55 %.
+2. W przypadku gdy rozbiór mięsa jest dokonywany wzakładzie, wktórym mięso to zostało pozyskane, opłaty za nadzór nad rozbiorem mięsa zmniejsza się o 55 %.
 
-3. W przypadku gdy produkty rybo∏ówstwa sà posortowane pod wzgl´dem Êwie˝oÊci lub wielkoÊci w sposób okreÊlony w przepisach Unii Europejskiej dotyczàcych wspólnej normy handlowej w odniesieniu do niektórych produktów rybo∏ówstwa lub gdy pierwsza sprzeda˝ odbywa si´ na aukcji rybnej lub rynku hurtowym, op∏at´ za nadzór, o którym mowa w art. 30 ust. 1 pkt 5 lit. j, zmniejsza si´ o 55 %.
+3. W przypadku gdy produkty rybołówstwa są posortowane pod względem świeżości lub wielkości w sposób określony w przepisach Unii Europejskiej dotyczących wspólnej normy handlowej w odniesieniu do niektórych produktów rybołówstwa lub gdy pierwsza sprzedaż odbywa się na aukcji rybnej lub rynku hurtowym, opłatę za nadzór, o którym mowa w art. 30 ust. 1 pkt 5 lit. j, zmniejsza się o 55 %.
 
 4. W przypadku gdy:
 
-- **1)** przetwarzanie produktów rybo∏ówstwa jest dokonywane wtym samym miejscu co pierwsza sprzeda˝ lub
-- **2)** prowadzona w zak∏adzie kontrola wewn´trzna umo˝liwia ograniczenie liczby kontroli przeprowadzanych przez urz´dowych lekarzy weterynarii w tym zak∏adzie op∏at´ za nadzór, o którym mowa w art. 30 ust. 1 pkt 5 lit. k, zmniejsza si´ o 55 %.
+- **1)** przetwarzanie produktów rybołówstwa jest dokonywane wtym samym miejscu co pierwsza sprzedaż lub
+- **2)** prowadzona w zakładzie kontrola wewnętrzna umożliwia ograniczenie liczby kontroli przeprowadzanych przez urzędowych lekarzy weterynarii w tym zakładzie opłatę za nadzór, o którym mowa w art. 30 ust. 1 pkt 5 lit. k, zmniejsza się o 55 %.
 
-5. W przypadku wy∏adowywania produktów rybo∏ówstwa ze statku rybackiego lub statku przetwórni, p∏ywajàcych pod banderà paƒstwa trzeciego, do op∏aty za badanie dolicza si´ koszty czynnoÊci zwiàzanych z kontrolà tych statków.
+5. W przypadku wyładowywania produktów rybołówstwa ze statku rybackiego lub statku przetwórni, pływających pod banderą państwa trzeciego, do opłaty za badanie dolicza się koszty czynności związanych z kontrolą tych statków.
 
-**Art. 32.** G∏ówny Lekarz Weterynarii przekazuje Komisji Europejskiej informacje dotyczàce pobieranych op∏at.
+**Art. 32.** Główny Lekarz Weterynarii przekazuje Komisji Europejskiej informacje dotyczące pobieranych opłat.
 
-**Art. 33.** Minister w∏aÊciwy do spraw rolnictwa, w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych, okreÊli, w drodze rozporzàdzenia, wysokoÊç op∏at za wykonane czynnoÊci, októrych mowa w art. 30 ust. 1, miejsce pobierania op∏at oraz zakres i sposób przekazywanych informacji Komisji Europejskiej, majàc na wzgl´dzie przepisy Unii Europejskiej wzakresie zasad pobierania iwysokoÊci op∏at za czynnoÊci weterynaryjne.
+**Art. 33.** Minister właściwy do spraw rolnictwa, w porozumieniu z ministrem właściwym do spraw finansów publicznych, określi, w drodze rozporządzenia, wysokość opłat za wykonane czynności, októrych mowa w art. 30 ust. 1, miejsce pobierania opłat oraz zakres i sposób przekazywanych informacji Komisji Europejskiej, mając na względzie przepisy Unii Europejskiej wzakresie zasad pobierania iwysokości opłat za czynności weterynaryjne.
 
-**Art. 34.** Do nale˝noÊci pieni´˝nych z tytu∏u op∏at okreÊlonych na podstawie ustawy stosuje si´ przepisy o post´powaniu egzekucyjnym w administracji.
+**Art. 34.** Do należności pieniężnych z tytułu opłat określonych na podstawie ustawy stosuje się przepisy o postępowaniu egzekucyjnym w administracji.
 
 **Art. 35.**
 
-1. Wojewódzkie inspektoraty weterynarii mogà gromadziç Êrodki finansowe uzyskiwane zop∏at za czynnoÊci, októrych mowa wart. 12 ust. 1 pkt 2, na wyodr´bnionych rachunkach bankowych, jako Êrodki specjalne.
+1. Wojewódzkie inspektoraty weterynarii mogą gromadzić środki finansowe uzyskiwane zopłat za czynności, októrych mowa wart. 12 ust. 1 pkt 2, na wyodrębnionych rachunkach bankowych, jako środki specjalne.
 
-2. Ârodki specjalne uzyskane z op∏at za czynnoÊci, októrych mowa wart. 12 ust. 1 pkt 2, mogà byç przeznaczone na pokrycie kosztów wykonywanych us∏ug oraz na usprawnienie funkcjonowania Inspekcji, z wy∏àczeniem wynagrodzeƒ jej pracowników.
+2. Ârodki specjalne uzyskane z opłat za czynności, októrych mowa wart. 12 ust. 1 pkt 2, mogą być przeznaczone na pokrycie kosztów wykonywanych usług oraz na usprawnienie funkcjonowania Inspekcji, z wyłączeniem wynagrodzeń jej pracowników.
 
-3. WysokoÊç op∏at za czynnoÊci, o których mowa Rozdzia∏ 5 Systemy wymiany informacji
+3. Wysokość opłat za czynności, o których mowa
+
+#### Rozdział 5 Systemy wymiany informacji
 
 **Art. 36.**
 
-1. G∏ówny Lekarz Weterynarii:
+1. Główny Lekarz Weterynarii:
 
-- **1)** utworzy systemy wymiany informacji s∏u˝àce kontroli przemieszczania zwierzàt i produktów w handlu, przewozie i przywozie oraz wywozie, a tak˝e zapewni udzia∏ organów Inspekcji w elektronicznym systemie wymiany informacji zgodnie zprzepisami Unii Europejskiej;
-- **2)** zapewni komputeryzacj´ procedur weterynaryjnej kontroli granicznej zgodnie z przepisami Unii Europejskiej.
+- **1)** utworzy systemy wymiany informacji służące kontroli przemieszczania zwierząt i produktów w handlu, przewozie i przywozie oraz wywozie, a także zapewni udział organów Inspekcji w elektronicznym systemie wymiany informacji zgodnie zprzepisami Unii Europejskiej;
+- **2)** zapewni komputeryzację procedur weterynaryjnej kontroli granicznej zgodnie z przepisami Unii Europejskiej.
 
-2. Koszty zwiàzane z:
+2. Koszty związane z:
 
 - **1)** administrowaniem i utrzymywaniem serwerów krajowych,
 - **2)** korzystaniem z centralnego serwera Unii Europejskiej,
-- **3)** przygotowywaniem i aktualizowaniem oprogramowania komputerowego oraz materia∏ów pomocniczych, zwiàzanych z korzystaniem z tego oprogramowania sà pokrywane z bud˝etu paƒstwa.
+- **3)** przygotowywaniem i aktualizowaniem oprogramowania komputerowego oraz materiałów pomocniczych, związanych z korzystaniem z tego oprogramowania są pokrywane z budżetu państwa.
 
-3. Koszty zwiàzane z bie˝àcà eksploatacjà systemów informatycznych sà pokrywane z bud˝etów w∏aÊciwych inspektoratów.
+3. Koszty związane z bieżącą eksploatacją systemów informatycznych są pokrywane z budżetów właściwych inspektoratów.
 
-4. G∏ówny Lekarz Weterynarii, po uzyskaniu zgody ministra w∏aÊciwego do spraw rolnictwa, mo˝e powierzyç innemu podmiotowi, wdrodze umowy, wykonywanie niektórych czynnoÊci zwiàzanych z realizacjà zadaƒ, o których mowa w ust. 1. Rozdzia∏ 6 Przepis karny
+4. Główny Lekarz Weterynarii, po uzyskaniu zgody ministra właściwego do spraw rolnictwa, może powierzyć innemu podmiotowi, wdrodze umowy, wykonywanie niektórych czynności związanych z realizacją zadań, o których mowa w ust. 1.
+
+#### Rozdział 6 Przepis karny
 
 **Art. 37.**
 
-1. Kto udaremnia lub utrudnia dzia∏alnoÊç organów Inspekcji lub osób, o których mowa w art. 5 ust. 2, podlega karze aresztu, ograniczenia wolnoÊci albo grzywny.
+1. Kto udaremnia lub utrudnia działalność organów Inspekcji lub osób, o których mowa w art. 5 ust. 2, podlega karze aresztu, ograniczenia wolności albo grzywny.
 
-2. Orzekanie wsprawie oczyny okreÊlone wust. 1 nast´puje w trybie przepisów Kodeksu post´powania w sprawach o wykroczenia. Rozdzia∏ 7 Zmiany w przepisach obowiàzujàcych, przepisy przejÊciowe i koƒcowe
+2. Orzekanie wsprawie oczyny określone wust. 1 następuje w trybie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
-**Art. 38.** Wustawie zdnia 5 czerwca 1998 r. oadministracji rzàdowej w województwie (Dz. U. z 2001 r. wart. 12 ust. 1 pkt 2, ustala wojewódzki lekarz weterynarii. 80, poz. 872, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany: ——————— ———————
+#### Rozdział 7 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
-**Art. 39.** Wustawie zdnia 18 grudnia 1998 r. os∏u˝bie cywilnej (Dz. U. z 1999 r. 49, poz. 483, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 38.** Wustawie zdnia 5 czerwca 1998 r. oadministracji rządowej w województwie (Dz. U. z 2001 r. wart. 12 ust. 1 pkt 2, ustala wojewódzki lekarz weterynarii. 80, poz. 872, zpóên. zm. ) wprowadza się następujące zmiany: ——————— ———————
+
+**Art. 39.** Wustawie zdnia 18 grudnia 1998 r. osłużbie cywilnej (Dz. U. z 1999 r. 49, poz. 483, z póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 40.**
 
-1. G∏ówny Lekarz Weterynarii utworzy graniczne inspektoraty weterynarii jako paƒstwowe jednostki bud˝etowe w Bezledach, Dorohusku, Gdyni, Hrebennem, Korczowej, Koroszczynie, Kuênicy Bia∏ostockiej, Szczecinie, ÂwinoujÊciu i Warszawie.
+1. Główny Lekarz Weterynarii utworzy graniczne inspektoraty weterynarii jako państwowe jednostki budżetowe w Bezledach, Dorohusku, Gdyni, Hrebennem, Korczowej, Koroszczynie, Kuênicy Białostockiej, Szczecinie, Âwinoujściu i Warszawie.
 
-2. Graniczne inspektoraty weterynarii, wymienione w ust. 1, zostanà utworzone przez przekszta∏cenie granicznych inspektoratów weterynarii, b´dàcych oddzia∏ami wojewódzkich inspektoratów weterynarii w Bezledach, Dorohusku, Gdyni, Hrebennem, Korczowej, Koroszczynie, Kuênicy Bia∏ostockiej, Szczecinie, ÂwinoujÊciu i Warszawie. lekarza weterynarii i jego zast´pcy. Art. 41. 1. Dotychczasowe stosunki pracy woje2. Wojewódzki lekarz weterynarii orga- wódzkich i powiatowych lekarzy weterynarii oraz ich nizuje nabór na stanowisko powiato- zast´pców, zatrudnionych na podstawie powo∏ania, wego lekarza weterynarii i jego za- stajà si´ z dniem wejÊcia w ˝ycie ustawy stosunkami st´pcy. pracy na podstawie umowy o prac´ na czas nieokreÊlony.
+2. Graniczne inspektoraty weterynarii, wymienione w ust. 1, zostaną utworzone przez przekształcenie granicznych inspektoratów weterynarii, będących oddziałami wojewódzkich inspektoratów weterynarii w Bezledach, Dorohusku, Gdyni, Hrebennem, Korczowej, Koroszczynie, Kuênicy Białostockiej, Szczecinie, Âwinoujściu i Warszawie. lekarza weterynarii i jego zastępcy. Art. 41. 1. Dotychczasowe stosunki pracy woje2. Wojewódzki lekarz weterynarii orga- wódzkich i powiatowych lekarzy weterynarii oraz ich nizuje nabór na stanowisko powiato- zastępców, zatrudnionych na podstawie powołania, wego lekarza weterynarii i jego za- stają się z dniem wejścia w życie ustawy stosunkami stępcy. pracy na podstawie umowy o pracę na czas nieokreślony.
 
-3. Przepisy art. 21—26 stosuje si´ odpowiednio.”; 2. Dotychczasowe stosunki pracy granicznych lekarzy weterynarii oraz ich zast´pców w granicznych
+3. Przepisy art. 21—26 stosuje się odpowiednio.”; 2. Dotychczasowe stosunki pracy granicznych lekarzy weterynarii oraz ich zastępców w granicznych
 
-- **3)** w art. 41 w ust. 1 po pkt 2 dodaje si´ pkt 3 inspektoratach weterynarii, októrych mowa wart. 40, w brzmieniu: zatrudnionych na podstawie powo∏ania, stajà si´ „3) wojewódzkiego lekarza weterynarii i jego za- z dniem wejÊcia w ˝ycie ustawy stosunkami pracy na st´pcy,”; podstawie umowy o prac´ na czas nieokreÊlony.
-- **4)** w art. 42 ust. 3 otrzymuje brzmienie: 3. Pracownicy zatrudnieni wgranicznych inspekto„3. Szef S∏u˝by Cywilnej mo˝e wyraziç zgod´ na ratach weterynarii, o których mowa w art. 40, b´dàdopuszczenie osób nieb´dàcych urz´dnikami cych oddzia∏ami wojewódzkich inspektoratów weterys∏u˝by cywilnej do konkursu na stanowiska, narii stajà si´, z dniem wejÊcia w ˝ycie ustawy, praoktórych mowa wart. 41 ust. 1 pkt 2 i3, je˝eli cownikami granicznych inspektoratów weterynarii do pracy na tych stanowiskach niezb´dne sà wrozumieniu ustawy. Przepisy art. 23 szczególne doÊwiadczenie lub umiej´tnoÊci zawodowe. Przepisy art. 48 ust. 2 i 3 stosuje si´ odpowiednio.”;
-- **5)** po art. 43 dodaje si´ art. 43a w brzmieniu: „Art. 43a. Konkurs na stanowisko wojewódzkiego lekarza weterynarii i jego zast´pcy Szef S∏u˝by Cywilnej przeprowadza na wniosek G∏ównego Lekarza Weterynarii z∏o˝ony po porozumieniu zw∏aÊciwym wojewodà.”; Kodeksu pracy stosuje si´.
+- **3)** w art. 41 w ust. 1 po pkt 2 dodaje się pkt 3 inspektoratach weterynarii, októrych mowa wart. 40, w brzmieniu: zatrudnionych na podstawie powołania, stają się Ń3) wojewódzkiego lekarza weterynarii i jego za- z dniem wejścia w życie ustawy stosunkami pracy na stępcy,”; podstawie umowy o pracę na czas nieokreślony.
+- **4)** w art. 42 ust. 3 otrzymuje brzmienie: 3. Pracownicy zatrudnieni wgranicznych inspektoŃ3. Szef Służby Cywilnej może wyrazić zgodę na ratach weterynarii, o których mowa w art. 40, będądopuszczenie osób niebędących urzędnikami cych oddziałami wojewódzkich inspektoratów weterysłużby cywilnej do konkursu na stanowiska, narii stają się, z dniem wejścia w życie ustawy, praoktórych mowa wart. 41 ust. 1 pkt 2 i3, jeżeli cownikami granicznych inspektoratów weterynarii do pracy na tych stanowiskach niezbędne są wrozumieniu ustawy. Przepisy art. 23 szczególne doświadczenie lub umiejętności zawodowe. Przepisy art. 48 ust. 2 i 3 stosuje się odpowiednio.”;
+- **5)** po art. 43 dodaje się art. 43a w brzmieniu: ŃArt. 43a. Konkurs na stanowisko wojewódzkiego lekarza weterynarii i jego zastępcy Szef Służby Cywilnej przeprowadza na wniosek Głównego Lekarza Weterynarii złożony po porozumieniu zwłaściwym wojewodą.”; Kodeksu pracy stosuje się.
 
-4. Mienie granicznych inspektoratów weterynarii, októrych mowa wart. 40, b´dàcych oddzia∏ami wojewódzkich inspektoratów weterynarii staje si´, zdniem wejÊcia w ˝ycie ustawy, mieniem granicznych inspektoratów weterynarii w rozumieniu ustawy.
+4. Mienie granicznych inspektoratów weterynarii, októrych mowa wart. 40, będących oddziałami wojewódzkich inspektoratów weterynarii staje się, zdniem wejścia w życie ustawy, mieniem granicznych inspektoratów weterynarii w rozumieniu ustawy.
 
-5. WierzytelnoÊci i zobowiàzania granicznych inspektoratów weterynarii, o których mowa w art. 40, b´dàcych oddzia∏ami wojewódzkich inspektoratów weterynarii stajà si´, z dniem wejÊcia w ˝ycie ustawy, wierzytelnoÊciami i zobowiàzaniami granicznych inspektoratów weterynarii w rozumieniu ustawy.
+5. Wierzytelności i zobowiązania granicznych inspektoratów weterynarii, o których mowa w art. 40, będących oddziałami wojewódzkich inspektoratów weterynarii stają się, z dniem wejścia w życie ustawy, wierzytelnościami i zobowiązaniami granicznych inspektoratów weterynarii w rozumieniu ustawy.
 
-**Art. 42.** ——————— Prezes Rady Ministrów, wdrodze rozporzàdzenia, dokona przeniesieƒ dochodów iwydatków bud˝etowych, wtym na wynagrodzenia, oraz limitów zatrudnienia, przeznaczonych na utrzymanie granicznych inspektoratów weterynarii, z bud˝etów w∏aÊci- 1) art. 40, art. 41 ust. 2—5 i art. 42, które wchodzà wych wojewodów do cz´Êci, której dysponentem jest w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia; minister w∏aÊciwy do spraw rolnictwa.
+**Art. 42.** ——————— Prezes Rady Ministrów, wdrodze rozporządzenia, dokona przeniesień dochodów iwydatków budżetowych, wtym na wynagrodzenia, oraz limitów zatrudnienia, przeznaczonych na utrzymanie granicznych inspektoratów weterynarii, z budżetów właści- 1) art. 40, art. 41 ust. 2—5 i art. 42, które wchodzą wych wojewodów do części, której dysponentem jest w życie po upływie 14 dni od dnia ogłoszenia; minister właściwy do spraw rolnictwa.
 
-**Art. 43.** Ustawa wchodzi w ˝ycie z dniem uzyska- 1 stycznia 2005 r. nia przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej, z wyjàtkiem: Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 288 USTAWA z dnia 29 stycznia 2004 r. o wymaganiach weterynaryjnych dla produktów pochodzenia zwierz´cego
+**Art. 43.** Ustawa wchodzi w życie z dniem uzyska- 1 stycznia 2005 r. nia przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej, z wyjątkiem: Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 288 USTAWA z dnia 29 stycznia 2004 r. o wymaganiach weterynaryjnych dla produktów pochodzenia zwierzęcego
 
 **Art. 1.**
 
-1. Ustawa okreÊla wymagania weterynaryj- 4) mi´so wszystkie cz´Êci zwierzàt rzeênych oraz ne: zwierzàt ∏ownych nadajàce si´ do spo˝ycia przez ludzi, spe∏niajàce wymagania okreÊlone w przepi1) dla produktów pochodzenia zwierz´cego umiesz- sach wydanych na podstawie art. 5 ust. 2 lub 3; czanych na rynku;
+1. Ustawa określa wymagania weterynaryj- 4) mięso wszystkie części zwierząt rzeênych oraz ne: zwierząt łownych nadające się do spożycia przez ludzi, spełniające wymagania określone w przepi1) dla produktów pochodzenia zwierzęcego umiesz- sach wydanych na podstawie art. 5 ust. 2 lub 3; czanych na rynku;
 
-- **5)** ubój spowodowanie Êmierci zwierz´cia przez
-- **2)** przy produkcji produktów pochodzenia zwierz´ce- wykrwawienie; go, o których mowa w pkt 1;
-- **3)** obowiàzujàce przy przywozie produktów pocho- 6) ubój z koniecznoÊci ubój zarzàdzany przez lekadzenia zwierz´cego. rza weterynarii, dokonany w nast´pstwie wypadku lub w przypadku zagro˝enia ˝ycia zwierz´cia
+- **5)** ubój spowodowanie śmierci zwierzęcia przez
+- **2)** przy produkcji produktów pochodzenia zwierzęce- wykrwawienie; go, o których mowa w pkt 1;
+- **3)** obowiązujące przy przywozie produktów pocho- 6) ubój z konieczności ubój zarządzany przez lekadzenia zwierzęcego. rza weterynarii, dokonany w następstwie wypadku lub w przypadku zagrożenia życia zwierzęcia
 
-2. Ustawy nie stosuje si´ do produktów pochodze- rzeênego niezwiàzanego z chorobà zakaênà; nia zwierz´cego produkowanych wy∏àcznie w gospo- 7) zak∏ad obiekt lub kilka obiektów po∏àczonych darstwie i przeznaczonych na potrzeby w∏asne tego funkcjonalnie iznajdujàcych si´ na tym samym tegospodarstwa, z zastrze˝eniem art. 21, 22 i 23 ust. 1 pkt 1—3. renie, statek rybacki, statek przetwórni´ lub rynki hurtowe, wktórych produkuje si´ produkty pochoArt. 2. U˝yte w ustawie okreÊlenia oznaczajà: dzenia zwierz´cego wcelu umieszczenia na rynku, a tak˝e pomieszczenia gospodarstwa, w którym
+2. Ustawy nie stosuje się do produktów pochodze- rzeênego niezwiązanego z chorobą zakaêną; nia zwierzęcego produkowanych wyłącznie w gospo- 7) zakład obiekt lub kilka obiektów połączonych darstwie i przeznaczonych na potrzeby własne tego funkcjonalnie iznajdujących się na tym samym tegospodarstwa, z zastrzeżeniem art. 21, 22 i 23 ust. 1 pkt 1—3. renie, statek rybacki, statek przetwórnię lub rynki hurtowe, wktórych produkuje się produkty pochoArt. 2. Użyte w ustawie określenia oznaczają: dzenia zwierzęcego wcelu umieszczenia na rynku, a także pomieszczenia gospodarstwa, w którym
 
-- **1)** produkcja co najmniej jednà z nast´pujàcych pozyskuje si´ produkty pochodzenia zwierz´cego, czynnoÊci: pozyskiwanie, chów, wytwarzanie, zwyjàtkiem miejsc utrzymywania zwierzàt lub dooczyszczanie, rozbiór, przetwarzanie, pakowanie, konywania udoju mleka; przepakowywanie, przechowywanie lub transport;
-- **8)** rzeênia pomieszczenia, w których dokonuje si´
-- **2)** produkty pochodzenia zwierz´cego przetworzo- uboju iobróbki poubojowej wraz zpomieszczeniane albo nieprzetworzone produkty pochodzàce od mi oraz urzàdzeniami do gromadzenia i przezwierzàt lub ze zwierzàt, przeznaczone do spo˝ycia mieszczania zwierzàt oczekujàcych na ubój; przez ludzi;
-- **9)** partia wysy∏kowa liczb´ zwierzàt rzeênych obj´3) zwierz´ta rzeêne hodowane, chowane lub utrzy- tych tym samym, do∏àczonym do nich, Êwiadecmywane w celu pozyskania mi´sa byd∏o, w tym twem zdrowia albo iloÊç produktów pochodzenia gatunki Bubalus bubalis oraz Bison bison, a tak˝e zwierz´cego, wszczególnoÊci ryb, skorupiaków alÊwinie, owce, kozy, zwierz´ta jednokopytne, drób, bo mi´czaków, obj´tà tym samym, do∏àczonym do króliki oraz zwierz´ta ∏owne na fermach, w tym strusie i nutrie; nich, handlowym dokumentem identyfikacyjnym lub Êwiadectwem zdrowia;
-- **10)** Êrodek transportu cz´Êç ∏adunkowà pojazdów silnikowych, pojazdów szynowych, samolotów, ∏adownie statków lub kontenery przeznaczone do przewo˝enia drogà làdowà, morskà lub powietrz——————— nà;
+- **1)** produkcja co najmniej jedną z następujących pozyskuje się produkty pochodzenia zwierzęcego, czynności: pozyskiwanie, chów, wytwarzanie, zwyjątkiem miejsc utrzymywania zwierząt lub dooczyszczanie, rozbiór, przetwarzanie, pakowanie, konywania udoju mleka; przepakowywanie, przechowywanie lub transport;
+- **8)** rzeênia pomieszczenia, w których dokonuje się
+- **2)** produkty pochodzenia zwierzęcego przetworzo- uboju iobróbki poubojowej wraz zpomieszczeniane albo nieprzetworzone produkty pochodzące od mi oraz urządzeniami do gromadzenia i przezwierząt lub ze zwierząt, przeznaczone do spożycia mieszczania zwierząt oczekujących na ubój; przez ludzi;
+- **9)** partia wysyłkowa liczbę zwierząt rzeênych obję3) zwierzęta rzeêne hodowane, chowane lub utrzy- tych tym samym, dołączonym do nich, świadecmywane w celu pozyskania mięsa bydło, w tym twem zdrowia albo ilość produktów pochodzenia gatunki Bubalus bubalis oraz Bison bison, a także zwierzęcego, wszczególności ryb, skorupiaków alświnie, owce, kozy, zwierzęta jednokopytne, drób, bo mięczaków, objętą tym samym, dołączonym do króliki oraz zwierzęta łowne na fermach, w tym strusie i nutrie; nich, handlowym dokumentem identyfikacyjnym lub świadectwem zdrowia;
+- **10)** środek transportu część ładunkową pojazdów silnikowych, pojazdów szynowych, samolotów, ładownie statków lub kontenery przeznaczone do przewożenia drogą lądową, morską lub powietrz——————— ną;
 
 

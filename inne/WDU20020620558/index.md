@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# oraz sposób ustalenia wysokoÊci op∏aty za wydanie nowego paszportu, w przypadku gdy poprzedni zosta∏ utracony.”;
+# oraz sposób ustalenia wysokości opłaty za wydanie nowego paszportu, w przypadku gdy poprzedni został utracony.”;
 
 | Pole | Wartość |
 |---|---|
@@ -24,289 +24,299 @@ domain: null
 | Ostatnia zmiana | 2025-02-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20020620558) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/558/text.pdf) |
 
-4) wart. 9 po ust. 1 dodaje si´ ust. 1awbrzmieniu: „1a. Paszport tymczasowy mo˝e byç wa˝ny nie d∏u˝ej ni˝ 12 miesi´cy od daty jego wydania.
-Przy ustaleniu terminu wa˝noÊci konsul uwzgl´dnia przeznaczenie tego dokumentu.”;
-5) w art. 10 w ust. 3 zdanie drugie otrzymuje brzmienie: „Minister w∏aÊciwy do spraw administracji publicznej w porozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia, zakres oraz tryb zwrotu dokonanych op∏at iponiesionych kosztów, uwzgl´dniajàc wszczególnoÊci sposób ustalenia wysokoÊci op∏aty podlegajàcej zwrotowi.”;
-6) art. 13 otrzymuje brzmienie: „Art. 13. Od decyzji wsprawach paszportów ipaszportów tymczasowych przys∏uguje odwo∏anie do ministra w∏aÊciwego do spraw „3. Minister w∏aÊciwy do spraw administracji publicznej wporozumieniu zministrem w∏aÊciwym do spraw zagranicznych okreÊli, w drodze rozporzàdzenia, wzory oraz tryb wydawania paszportów, dokumenty wymagane do ich otrzymania, a tak˝e tryb post´powania funkcjonariuszy Stra˝y Granicznej w przypadku ujawnienia w czasie kontroli granicznej wad wpaszportach. Rozporzàdzenie powinno w szczególnoÊci uwzgl´dniaç zró˝nicowanie sk∏adanych dokumentów w zale˝noÊci od rodzaju paszportu, o który osoba si´ ubiega, sposób sk∏adania podania o wydanie paszportu oraz okreÊlaç osoby uprawnione do jego odbioru.”
+4) wart. 9 po ust. 1 dodaje się ust. 1awbrzmieniu: Ń1a. Paszport tymczasowy może być ważny nie dłużej niż 12 miesięcy od daty jego wydania.
+Przy ustaleniu terminu ważności konsul uwzględnia przeznaczenie tego dokumentu.”;
+5) w art. 10 w ust. 3 zdanie drugie otrzymuje brzmienie: ŃMinister właściwy do spraw administracji publicznej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, zakres oraz tryb zwrotu dokonanych opłat iponiesionych kosztów, uwzględniając wszczególności sposób ustalenia wysokości opłaty podlegającej zwrotowi.”;
+6) art. 13 otrzymuje brzmienie: ŃArt. 13. Od decyzji wsprawach paszportów ipaszportów tymczasowych przysługuje odwołanie do ministra właściwego do spraw Ń3. Minister właściwy do spraw administracji publicznej wporozumieniu zministrem właściwym do spraw zagranicznych określi, w drodze rozporządzenia, wzory oraz tryb wydawania paszportów, dokumenty wymagane do ich otrzymania, a także tryb postępowania funkcjonariuszy Straży Granicznej w przypadku ujawnienia w czasie kontroli granicznej wad wpaszportach. Rozporządzenie powinno w szczególności uwzględniać zróżnicowanie składanych dokumentów w zależności od rodzaju paszportu, o który osoba się ubiega, sposób składania podania o wydanie paszportu oraz określać osoby uprawnione do jego odbioru.”
 
 **Art. 2.**
 
-1. Paszporty blankietowe zachowujà wa˝noÊç do czasu up∏ywu terminów wa˝noÊci wnich okreÊlonych.
+1. Paszporty blankietowe zachowują ważność do czasu upływu terminów ważności wnich określonych.
 
-2. Wnioski owydanie paszportu blankietowego z∏o˝one przed dniem wejÊcia w ˝ycie ustawy stajà si´ wnioskami owydanie paszportu tymczasowego. administracji publicznej.”; Art. 3. Akty wykonawcze wydane na podstawie
+2. Wnioski owydanie paszportu blankietowego złożone przed dniem wejścia w życie ustawy stają się wnioskami owydanie paszportu tymczasowego. administracji publicznej.”; Art. 3. Akty wykonawcze wydane na podstawie
 
-- **7)** wart. 15: upowa˝nieƒ ustawowych zmienianych niniejszà ustaa) w ust. 1 wyrazy „Minister Spraw Wewn´trz- wà zachowujà moc do czasu ich zastàpienia przez akty nych” zast´puje si´ wyrazami „Minister w∏aÊci- wykonawcze wydane na podstawie upowa˝nieƒ ustawy do spraw administracji publicznej”, wowych wbrzmieniu nadanym niniejszà ustawà. wy do spraw zagranicznych”, USTAWA zdnia 18 kwietnia 2002 r. ostanie kl´ski ˝ywio∏owej. Rozdzia∏ 1 Przepisy ogólne
-    - **b)** w ust. 2 wyrazy „Minister Spraw Zagranicz- Art. 4. Ustawa wchodzi w ˝ycie po up∏ywie 60 dni nych” zast´puje si´ wyrazami „Minister w∏aÊci- od dnia og∏oszenia.
-    - **c)** ust. 3 otrzymuje brzmienie: Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+- **7)** wart. 15: upoważnień ustawowych zmienianych niniejszą ustaa) w ust. 1 wyrazy ŃMinister Spraw Wewnętrz- wą zachowują moc do czasu ich zastąpienia przez akty nych” zastępuje się wyrazami ŃMinister właści- wykonawcze wydane na podstawie upoważnień ustawy do spraw administracji publicznej”, wowych wbrzmieniu nadanym niniejszą ustawą. wy do spraw zagranicznych”, USTAWA zdnia 18 kwietnia 2002 r. ostanie klęski żywiołowej.
+    - **b)** w ust. 2 wyrazy ŃMinister Spraw Zagranicz- Art. 4. Ustawa wchodzi w życie po upływie 60 dni nych” zastępuje się wyrazami ŃMinister właści- od dnia ogłoszenia.
+    - **c)** ust. 3 otrzymuje brzmienie: Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 
-**Art. 1.** Ustawa okreÊla tryb wprowadzenia izniesienia stanu kl´ski ˝ywio∏owej, a tak˝e zasady dzia∏ania organów w∏adzy publicznej oraz zakres ograniczeƒ wolnoÊci i praw cz∏owieka i obywatela w czasie stanu kl´ski ˝ywio∏owej.
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 2.** Stan kl´ski ˝ywio∏owej mo˝e byç wprowadzony dla zapobie˝enia skutkom katastrof naturalnych lub awarii technicznych noszàcych znamiona kl´ski ˝ywio∏owej oraz wcelu ich usuni´cia.
+**Art. 1.** Ustawa określa tryb wprowadzenia izniesienia stanu klęski żywiołowej, a także zasady działania organów władzy publicznej oraz zakres ograniczeń wolności i praw człowieka i obywatela w czasie stanu klęski żywiołowej.
+
+**Art. 2.** Stan klęski żywiołowej może być wprowadzony dla zapobieżenia skutkom katastrof naturalnych lub awarii technicznych noszących znamiona klęski żywiołowej oraz wcelu ich usunięcia.
 
 **Art. 3.**
 
-1. Ilekroç wustawie jest mowa o:
+1. Ilekroć wustawie jest mowa o:
 
-- **1)** kl´sce ˝ywio∏owej rozumie si´ przez to katastrof´ naturalnà lub awari´ technicznà, których skutki zagra˝ajà ˝yciu lub zdrowiu du˝ej liczby osób, mieniu w wielkich rozmiarach albo Êrodowisku na znacznych obszarach, apomoc iochrona mogà byç skutecznie podj´te tylko przy zastosowaniu nadzwyczajnych Êrodków, we wspó∏dzia∏aniu ró˝nych organów i instytucji oraz specjalistycznych s∏u˝b i formacji dzia∏ajàcych pod jednolitym kierownictwem,
-- **2)** katastrofie naturalnej rozumie si´ przez to zdarzenie zwiàzane zdzia∏aniem si∏ natury, wszczególnoÊci wy∏adowania atmosferyczne, wstrzàsy sejsmiczne, silne wiatry, intensywne opady atmosferyczne, d∏ugotrwa∏e wyst´powanie ekstremalnych temperatur, osuwiska ziemi, po˝ary, susze, powodzie, zjawiska lodowe na rzekach i morzu oraz jeziorach i zbiornikach wodnych, masowe wyst´powanie szkodników, chorób roÊlin lub zwierzàt albo chorób zakaênych ludzi albo te˝ dzia∏anie innego ˝ywio∏u,
-- **3)** awarii technicznej rozumie si´ przez to gwa∏towne, nieprzewidziane uszkodzenie lub zniszczenie obiektu budowlanego, urzàdzenia technicznego lub systemu urzàdzeƒ technicznych powodujàce przerw´ wich u˝ywaniu lub utrat´ ich w∏aÊciwoÊci.
+- **1)** klęsce żywiołowej rozumie się przez to katastrofę naturalną lub awarię techniczną, których skutki zagrażają życiu lub zdrowiu dużej liczby osób, mieniu w wielkich rozmiarach albo środowisku na znacznych obszarach, apomoc iochrona mogą być skutecznie podjęte tylko przy zastosowaniu nadzwyczajnych środków, we współdziałaniu różnych organów i instytucji oraz specjalistycznych służb i formacji działających pod jednolitym kierownictwem,
+- **2)** katastrofie naturalnej rozumie się przez to zdarzenie związane zdziałaniem sił natury, wszczególności wyładowania atmosferyczne, wstrząsy sejsmiczne, silne wiatry, intensywne opady atmosferyczne, długotrwałe występowanie ekstremalnych temperatur, osuwiska ziemi, pożary, susze, powodzie, zjawiska lodowe na rzekach i morzu oraz jeziorach i zbiornikach wodnych, masowe występowanie szkodników, chorób roślin lub zwierząt albo chorób zakaênych ludzi albo też działanie innego żywiołu,
+- **3)** awarii technicznej rozumie się przez to gwałtowne, nieprzewidziane uszkodzenie lub zniszczenie obiektu budowlanego, urządzenia technicznego lub systemu urządzeń technicznych powodujące przerwę wich używaniu lub utratę ich właściwości.
 
-2. Katastrofà naturalnà lub awarià technicznà mo˝e byç równie˝ zdarzenie wywo∏ane dzia∏aniem terrorystycznym.
+2. Katastrofą naturalną lub awarią techniczną może być również zdarzenie wywołane działaniem terrorystycznym.
 
 **Art. 4.**
 
-1. Stan kl´ski ˝ywio∏owej mo˝e byç wprowadzony na obszarze, na którym wystàpi∏a kl´ska ˝ywio∏owa, atak˝e na obszarze, na którym wystàpi∏y lub mogà wystàpiç skutki tej kl´ski.
+1. Stan klęski żywiołowej może być wprowadzony na obszarze, na którym wystąpiła klęska żywiołowa, atakże na obszarze, na którym wystąpiły lub mogą wystąpić skutki tej klęski.
 
-2. Stan kl´ski ˝ywio∏owej wprowadza si´ na czas oznaczony, niezb´dny dla zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia, nie d∏u˝szy ni˝ 30 dni.
+2. Stan klęski żywiołowej wprowadza się na czas oznaczony, niezbędny dla zapobieżenia skutkom klęski żywiołowej lub ich usunięcia, nie dłuższy niż 30 dni.
 
 **Art. 5.**
 
-1. Rada Ministrów, wdrodze rozporzàdzenia, mo˝e wprowadziç stan kl´ski ˝ywio∏owej zw∏asnej inicjatywy lub na wniosek w∏aÊciwego wojewody.
+1. Rada Ministrów, wdrodze rozporządzenia, może wprowadzić stan klęski żywiołowej zwłasnej inicjatywy lub na wniosek właściwego wojewody.
 
-2. Wrozporzàdzeniu, októrym mowa wust. 1, okreÊla si´ przyczyny, dat´ wprowadzenia oraz obszar iczas trwania stanu kl´ski ˝ywio∏owej, atak˝e, wzakresie dopuszczonym niniejszà ustawà, rodzaje niezb´dnych ograniczeƒ wolnoÊci ipraw cz∏owieka iobywatela.
+2. Wrozporządzeniu, októrym mowa wust. 1, określa się przyczyny, datę wprowadzenia oraz obszar iczas trwania stanu klęski żywiołowej, atakże, wzakresie dopuszczonym niniejszą ustawą, rodzaje niezbędnych ograniczeń wolności ipraw człowieka iobywatela.
 
-3. Rozporzàdzenie, o którym mowa w ust. 1, og∏asza si´ w Dzienniku Rzeczypospolitej Polskiej, aponadto podaje do publicznej wiadomoÊci, wdrodze obwieszczenia w∏aÊciwego wojewody przez rozplakatowanie w miejscach publicznych, a tak˝e w sposób zwyczajowo przyj´ty na danym obszarze.
+3. Rozporządzenie, o którym mowa w ust. 1, ogłasza się w Dzienniku Rzeczypospolitej Polskiej, aponadto podaje do publicznej wiadomości, wdrodze obwieszczenia właściwego wojewody przez rozplakatowanie w miejscach publicznych, a także w sposób zwyczajowo przyjęty na danym obszarze.
 
-4. Redaktorzy naczelni dzienników oraz nadawcy programów radiowych i telewizyjnych sà obowiàzani do niezw∏ocznego, nieodp∏atnego podania do publicznej wiadomoÊci rozporzàdzenia Rady Ministrów o wprowadzeniu stanu kl´ski ˝ywio∏owej, przekazanego im przez wojewod´ w∏aÊciwego ze wzgl´du na siedzib´ redakcji lub nadawcy.
+4. Redaktorzy naczelni dzienników oraz nadawcy programów radiowych i telewizyjnych są obowiązani do niezwłocznego, nieodpłatnego podania do publicznej wiadomości rozporządzenia Rady Ministrów o wprowadzeniu stanu klęski żywiołowej, przekazanego im przez wojewodę właściwego ze względu na siedzibę redakcji lub nadawcy.
 
 **Art. 6.**
 
-1. Stan kl´ski ˝ywio∏owej mo˝e zostaç przed∏u˝ony na czas oznaczony, w drodze rozporzàdzenia Rady Ministrów, po wyra˝eniu przez Sejm zgody na to przed∏u˝enie.
+1. Stan klęski żywiołowej może zostać przedłużony na czas oznaczony, w drodze rozporządzenia Rady Ministrów, po wyrażeniu przez Sejm zgody na to przedłużenie.
 
-2. Rada Ministrów, wdrodze rozporzàdzenia, znosi stan kl´ski ˝ywio∏owej na ca∏ym obszarze jego obowiàzywania lub na cz´Êci tego obszaru przed up∏ywem czasu, na który zosta∏ wprowadzony, je˝eli ustanà przyczyny jego wprowadzenia.
+2. Rada Ministrów, wdrodze rozporządzenia, znosi stan klęski żywiołowej na całym obszarze jego obowiązywania lub na części tego obszaru przed upływem czasu, na który został wprowadzony, jeżeli ustaną przyczyny jego wprowadzenia.
 
-3. Przepisy art. 5 stosuje si´ odpowiednio do rozporzàdzeƒ, októrych mowa wust. 1 i2. Rozdzia∏ 2 Zasady dzia∏ania organów w∏adzy publicznej
+3. Przepisy art. 5 stosuje się odpowiednio do rozporządzeń, októrych mowa wust. 1 i2.
 
-**Art. 7.** W czasie stanu kl´ski ˝ywio∏owej organy w∏adzy publicznej dzia∏ajà wdotychczasowych strukturach organizacyjnych paƒstwa iwramach przys∏ugujàcych im kompetencji, zzastrze˝eniem przepisów niniejArt. 8. W czasie stanu kl´ski ˝ywio∏owej dzia∏aniami prowadzonymi wcelu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia kierujà:
+#### Rozdział 2 Zasady działania organów władzy publicznej
+
+**Art. 7.** W czasie stanu klęski żywiołowej organy władzy publicznej działają wdotychczasowych strukturach organizacyjnych państwa iwramach przysługujących im kompetencji, zzastrzeżeniem przepisów niniejArt. 8. W czasie stanu klęski żywiołowej działaniami prowadzonymi wcelu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia kierują:
 
 **Art. 9.**
 
-1. W czasie stanu kl´ski ˝ywio∏owej w∏aÊciwy miejscowo wójt (burmistrz, prezydent miasta) kieruje dzia∏aniami prowadzonymi na obszarze gminy wcelu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia.
+1. W czasie stanu klęski żywiołowej właściwy miejscowo wójt (burmistrz, prezydent miasta) kieruje działaniami prowadzonymi na obszarze gminy wcelu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia.
 
-2. Wzakresie dzia∏aƒ, októrych mowa wust. 1, wójt (burmistrz, prezydent miasta) mo˝e wydawaç polecenia wià˝àce organom jednostek pomocniczych, kierownikom jednostek organizacyjnych utworzonych przez gmin´, kierownikom jednostek ochrony przeciwpo˝arowej dzia∏ajàcych na obszarze gminy oraz kierownikom jednostek organizacyjnych czasowo przekazanych przez w∏aÊciwe organy do jego dyspozycji i skierowanych do wykonywania zadaƒ na obszarze gminy.
+2. Wzakresie działań, októrych mowa wust. 1, wójt (burmistrz, prezydent miasta) może wydawać polecenia wiążące organom jednostek pomocniczych, kierownikom jednostek organizacyjnych utworzonych przez gminę, kierownikom jednostek ochrony przeciwpożarowej działających na obszarze gminy oraz kierownikom jednostek organizacyjnych czasowo przekazanych przez właściwe organy do jego dyspozycji i skierowanych do wykonywania zadań na obszarze gminy.
 
-3. Wzakresie dzia∏aƒ, októrych mowa wust. 1, wójt (burmistrz, prezydent miasta) mo˝e wyst´powaç do kierowników innych jednostek organizacyjnych ni˝ okreÊlone w ust. 2, dzia∏ajàcych na obszarze gminy, zwnioskami owykonanie czynnoÊci niezb´dnych wcelu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia. Wrazie odmowy wykonania tych czynnoÊci lub ich niew∏aÊciwego wykonywania wójt (burmistrz, prezydent miasta) niezw∏ocznie zawiadamia organ, któremu podlega kierownik lub który sprawuje nadzór nad nim.
+3. Wzakresie działań, októrych mowa wust. 1, wójt (burmistrz, prezydent miasta) może występować do kierowników innych jednostek organizacyjnych niż określone w ust. 2, działających na obszarze gminy, zwnioskami owykonanie czynności niezbędnych wcelu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia. Wrazie odmowy wykonania tych czynności lub ich niewłaściwego wykonywania wójt (burmistrz, prezydent miasta) niezwłocznie zawiadamia organ, któremu podlega kierownik lub który sprawuje nadzór nad nim.
 
-4. W zakresie dzia∏aƒ, o których mowa w ust. 1, wprzypadkach okreÊlonych wart. 8 pkt 2—4, wójt (burmistrz, prezydent miasta nieb´dàcego miastem na prawach powiatu) podlega staroÊcie.
+4. W zakresie działań, o których mowa w ust. 1, wprzypadkach określonych wart. 8 pkt 2—4, wójt (burmistrz, prezydent miasta niebędącego miastem na prawach powiatu) podlega staroście.
 
-5. W razie niezdolnoÊci do kierowania lub niew∏aÊciwego kierowania dzia∏aniami prowadzonymi wcelu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia wojewoda z inicjatywy w∏asnej lub na wniosek starosty mo˝e zawiesiç uprawnienia wójta (burmistrza, prezydenta miasta), okreÊlone wust. 2 i3, oraz wyznaszej ustawy. czyç pe∏nomocnika do kierowania tymi dzia∏aniami. Do pe∏nomocnika stosuje si´ odpowiednio przepis ust. 4.
+5. W razie niezdolności do kierowania lub niewłaściwego kierowania działaniami prowadzonymi wcelu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia wojewoda z inicjatywy własnej lub na wniosek starosty może zawiesić uprawnienia wójta (burmistrza, prezydenta miasta), określone wust. 2 i3, oraz wyznaszej ustawy. czyć pełnomocnika do kierowania tymi działaniami. Do pełnomocnika stosuje się odpowiednio przepis ust. 4.
 
-6. Wprzypadku, októrym mowa wart. 8 pkt 2, wójt (burmistrz, prezydent miasta) albo pe∏nomocnik, októrym mowa w ust. 5, wykonujà czynnoÊci kierownicze na w∏aÊciwym dla siebie obszarze wobec podmiotów, októrych mowa wust. 2.
+6. Wprzypadku, októrym mowa wart. 8 pkt 2, wójt (burmistrz, prezydent miasta) albo pełnomocnik, októrym mowa w ust. 5, wykonują czynności kierownicze na właściwym dla siebie obszarze wobec podmiotów, októrych mowa wust. 2.
 
 **Art. 10.**
 
-1. Wczasie stanu kl´ski ˝ywio∏owej w∏aÊciwy miejscowo starosta kieruje dzia∏aniami prowadzonymi na obszarze powiatu w celu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia.
+1. Wczasie stanu klęski żywiołowej właściwy miejscowo starosta kieruje działaniami prowadzonymi na obszarze powiatu w celu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia.
 
-2. Wzakresie dzia∏aƒ, októrych mowa wust. 1, starosta mo˝e wydawaç polecenia wià˝àce wójtom (burmistrzom, prezydentom miast nieb´dàcych miastami na prawach powiatu), kierownikom jednostek organizacyjnych utworzonych przez powiat, kierownikom powiatowych s∏u˝b, inspekcji i stra˝y, kierownikom jednostek ochrony przeciwpo˝arowej dzia∏ajàcych na obszarze powiatu oraz kierownikom jednostek organizacyjnych czasowo przekazanych przez w∏aÊciwe organy do jego dyspozycji iskierowanych do wykonywania zadaƒ na obszarze powiatu.
+2. Wzakresie działań, októrych mowa wust. 1, starosta może wydawać polecenia wiążące wójtom (burmistrzom, prezydentom miast niebędących miastami na prawach powiatu), kierownikom jednostek organizacyjnych utworzonych przez powiat, kierownikom powiatowych służb, inspekcji i straży, kierownikom jednostek ochrony przeciwpożarowej działających na obszarze powiatu oraz kierownikom jednostek organizacyjnych czasowo przekazanych przez właściwe organy do jego dyspozycji iskierowanych do wykonywania zadań na obszarze powiatu.
 
-3. Wzakresie dzia∏aƒ, októrych mowa wust. 1, starosta mo˝e wyst´powaç do kierowników innych jednostek organizacyjnych ni˝ okreÊlone w ust. 2, dzia∏ajàcych na obszarze powiatu, z wnioskami o wykonanie czynnoÊci niezb´dnych w celu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia. W razie odmowy wykonania tych czynnoÊci lub ich niew∏aÊciwego wykonywania starosta niezw∏ocznie zawiadamia organ, któremu podlega kierownik lub który sprawuje nadzór nad nim.
+3. Wzakresie działań, októrych mowa wust. 1, starosta może występować do kierowników innych jednostek organizacyjnych niż określone w ust. 2, działających na obszarze powiatu, z wnioskami o wykonanie czynności niezbędnych w celu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia. W razie odmowy wykonania tych czynności lub ich niewłaściwego wykonywania starosta niezwłocznie zawiadamia organ, któremu podlega kierownik lub który sprawuje nadzór nad nim.
 
-4. W zakresie dzia∏aƒ, o których mowa w ust. 1, w przypadkach okreÊlonych w art. 8 pkt 3 i 4, starosta podlega wojewodzie.
+4. W zakresie działań, o których mowa w ust. 1, w przypadkach określonych w art. 8 pkt 3 i 4, starosta podlega wojewodzie.
 
-5. W razie niezdolnoÊci do kierowania lub niew∏aÊciwego kierowania dzia∏aniami prowadzonymi wcelu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia, wojewoda mo˝e zawiesiç uprawnienia starosty okreÊlone wust. 2 i3 oraz wyznaczyç pe∏nomocnika do kierowania tymi dzia∏aniami. Do pe∏nomocnika stosuje si´ odpowiednio przepis ust. 4.
+5. W razie niezdolności do kierowania lub niewłaściwego kierowania działaniami prowadzonymi wcelu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia, wojewoda może zawiesić uprawnienia starosty określone wust. 2 i3 oraz wyznaczyć pełnomocnika do kierowania tymi działaniami. Do pełnomocnika stosuje się odpowiednio przepis ust. 4.
 
-6. Wprzypadku, októrym mowa wart. 8 pkt 3, wójt (burmistrz, prezydent miasta) albo pe∏nomocnik, októrym mowa wart. 9 ust. 5, oraz starosta albo pe∏nomocnik, októrym mowa wust. 5, wykonujà czynnoÊci kierownicze na w∏aÊciwym dla siebie obszarze wobec podmiotów, o których mowa odpowiednio w ust. 2 oraz wart. 9 ust.2.
+6. Wprzypadku, októrym mowa wart. 8 pkt 3, wójt (burmistrz, prezydent miasta) albo pełnomocnik, októrym mowa wart. 9 ust. 5, oraz starosta albo pełnomocnik, októrym mowa wust. 5, wykonują czynności kierownicze na właściwym dla siebie obszarze wobec podmiotów, o których mowa odpowiednio w ust. 2 oraz wart. 9 ust.2.
 
 **Art. 11.**
 
-1. Wczasie stanu kl´ski ˝ywio∏owej w∏aÊciwy wojewoda kieruje dzia∏aniami prowadzonymi wcelu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia na obszarze województwa.
+1. Wczasie stanu klęski żywiołowej właściwy wojewoda kieruje działaniami prowadzonymi wcelu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia na obszarze województwa.
 
-2. Wzakresie dzia∏aƒ, októrych mowa wust. 1, wojewodzie sà podporzàdkowane organy i jednostki organizacyjne administracji rzàdowej isamorzàdu województwa dzia∏ajàce na obszarze województwa oraz inne si∏y iÊrodki wydzielone do jego dyspozycji iskierowane do wykonywania tych dzia∏aƒ na obszarze województwa, w tym pododdzia∏y i oddzia∏y Si∏ Zbrojnych
+2. Wzakresie działań, októrych mowa wust. 1, wojewodzie są podporządkowane organy i jednostki organizacyjne administracji rządowej isamorządu województwa działające na obszarze województwa oraz inne siły iśrodki wydzielone do jego dyspozycji iskierowane do wykonywania tych działań na obszarze województwa, w tym pododdziały i oddziały Sił Zbrojnych
 
-3. W zakresie dzia∏aƒ, o których mowa w ust. 1, wprzypadku okreÊlonym wart. 8 pkt 4 wojewoda podlega w∏aÊciwemu ministrowi.
+3. W zakresie działań, o których mowa w ust. 1, wprzypadku określonym wart. 8 pkt 4 wojewoda podlega właściwemu ministrowi.
 
-4. W razie niezdolnoÊci do kierowania lub niew∏aÊciwego kierowania dzia∏aniami prowadzonymi wcelu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia minister, októrym mowa wart. 8 pkt 4, mo˝e zawiesiç uprawnienia wojewody, o których mowa wust.1 i2, oraz wyznaczyç pe∏nomocnika do kierowania tymi dzia∏aniami. Do pe∏nomocnika stosuje si´ odpowiednio przepis ust. 3.
+4. W razie niezdolności do kierowania lub niewłaściwego kierowania działaniami prowadzonymi wcelu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia minister, októrym mowa wart. 8 pkt 4, może zawiesić uprawnienia wojewody, o których mowa wust.1 i2, oraz wyznaczyć pełnomocnika do kierowania tymi działaniami. Do pełnomocnika stosuje się odpowiednio przepis ust. 3.
 
-5. Wprzypadku, októrym mowa wart. 8 pkt 4, wójt (burmistrz, prezydent miasta) albo pe∏nomocnik, októrym mowa w art. 9 ust. 5, starosta albo pe∏nomocnik, o którym mowa w art. 10 ust. 5, oraz wojewoda albo pe∏nomocnik, októrym mowa wust. 4, wykonujà czynnoÊci kierownicze na w∏aÊciwym dla siebie obszarze wobec podmiotów, o których mowa odpowiednio wust. 2, wart. 9 ust. 2 oraz art. 10 ust. 2.
+5. Wprzypadku, októrym mowa wart. 8 pkt 4, wójt (burmistrz, prezydent miasta) albo pełnomocnik, októrym mowa w art. 9 ust. 5, starosta albo pełnomocnik, o którym mowa w art. 10 ust. 5, oraz wojewoda albo pełnomocnik, októrym mowa wust. 4, wykonują czynności kierownicze na właściwym dla siebie obszarze wobec podmiotów, o których mowa odpowiednio wust. 2, wart. 9 ust. 2 oraz art. 10 ust. 2.
 
 **Art. 12.**
 
-1. Dzia∏ania w celu zapobie˝enia skutkom Rzeczypospolitej Polskiej. kl´ski ˝ywio∏owej lub ich usuni´cia wójt (burmistrz, prezydent miasta), starosta i wojewoda albo pe∏nomocnicy, o których mowa w art. 9 ust. 5, art. 10 ust. 5 i art. 11 ust. 4, oraz ministrowie, o których mowa w art. 8 pkt 4, wykonujà przy pomocy odpowiednio gminnego zespo∏u reagowania, powiatowego zespo∏u reagowania kryzysowego, wojewódzkiego zespo∏u reagowania kryzysowego oraz Rzàdowego Zespo∏u Koordynacji Kryzysowej, zwanych dalej „zespo∏ami”.
+1. Działania w celu zapobieżenia skutkom Rzeczypospolitej Polskiej. klęski żywiołowej lub ich usunięcia wójt (burmistrz, prezydent miasta), starosta i wojewoda albo pełnomocnicy, o których mowa w art. 9 ust. 5, art. 10 ust. 5 i art. 11 ust. 4, oraz ministrowie, o których mowa w art. 8 pkt 4, wykonują przy pomocy odpowiednio gminnego zespołu reagowania, powiatowego zespołu reagowania kryzysowego, wojewódzkiego zespołu reagowania kryzysowego oraz Rządowego Zespołu Koordynacji Kryzysowej, zwanych dalej Ńzespołami”.
 
-2. Do zadaƒ zespo∏ów nale˝y wszczególnoÊci:
+2. Do zadań zespołów należy wszczególności:
 
-- **1)** monitorowanie wyst´pujàcych kl´sk ˝ywio∏owych iprognozowanie rozwoju sytuacji,
-- **2)** realizowanie procedur i programów reagowania wczasie stanu kl´ski ˝ywio∏owej,
+- **1)** monitorowanie występujących klęsk żywiołowych iprognozowanie rozwoju sytuacji,
+- **2)** realizowanie procedur i programów reagowania wczasie stanu klęski żywiołowej,
 - **3)** opracowywanie iaktualizowanie planów reagowania kryzysowego,
-- **4)** planowanie wsparcia organów kierujàcych dzia∏aniami na ni˝szym szczeblu administracji publicznej,
-- **5)** przygotowywanie warunków umo˝liwiajàcych koordynacj´ pomocy humanitarnej,
-- **6)** realizowanie polityki informacyjnej zwiàzanej ze stanem kl´ski ˝ywio∏owej.
+- **4)** planowanie wsparcia organów kierujących działaniami na niższym szczeblu administracji publicznej,
+- **5)** przygotowywanie warunków umożliwiających koordynację pomocy humanitarnej,
+- **6)** realizowanie polityki informacyjnej związanej ze stanem klęski żywiołowej.
 
-3. Sk∏ad zespo∏ów okreÊlajà odpowiednio organy, októrych mowa wust. 1.
+3. Skład zespołów określają odpowiednio organy, októrych mowa wust. 1.
 
-4. Funkcjonowanie zespo∏ów finansowane jest odpowiednio zbud˝etów jednostek samorzàdu terytorialnego, wojewodów oraz ministra w∏aÊciwego do spraw wewn´trznych.
+4. Funkcjonowanie zespołów finansowane jest odpowiednio zbudżetów jednostek samorządu terytorialnego, wojewodów oraz ministra właściwego do spraw wewnętrznych.
 
-5. Rada Ministrów, wdrodze rozporzàdzenia, okreÊli sposób tworzenia zespo∏ów i ich funkcjonowania, uwzgl´dniajàc wszczególnoÊci:
+5. Rada Ministrów, wdrodze rozporządzenia, określi sposób tworzenia zespołów i ich funkcjonowania, uwzględniając wszczególności:
 
-- **1)** usytuowanie isposób finansowania zespo∏ów,
-- **2)** warunki techniczne istandardy ich wyposa˝enia,
-- **3)** tryb pracy zespo∏ów,
-- **4)** sposób dokumentowania dzia∏aƒ iprac zespo∏ów.
+- **1)** usytuowanie isposób finansowania zespołów,
+- **2)** warunki techniczne istandardy ich wyposażenia,
+- **3)** tryb pracy zespołów,
+- **4)** sposób dokumentowania działań iprac zespołów.
 
 **Art. 13.**
 
-1. W zakresie dzia∏aƒ prowadzonych w celu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia minister, októrym mowa wart. 8 pkt 4, mo˝e wydawaç polecenia wià˝àce organom administracji rzàdowej, zwyjàtkiem Rady Ministrów, Prezesa Rady Ministrów iwiceprezesów Rady Ministrów, atak˝e wydawaç polecenia wià˝àce organom samorzàdu terytorialnego.
+1. W zakresie działań prowadzonych w celu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia minister, októrym mowa wart. 8 pkt 4, może wydawać polecenia wiążące organom administracji rządowej, zwyjątkiem Rady Ministrów, Prezesa Rady Ministrów iwiceprezesów Rady Ministrów, atakże wydawać polecenia wiążące organom samorządu terytorialnego.
 
-2. Wrazie odmowy wykonania polecenia, októrym mowa wust. 1, lub niew∏aÊciwego wykonywania polecenia przez:
+2. Wrazie odmowy wykonania polecenia, októrym mowa wust. 1, lub niewłaściwego wykonywania polecenia przez:
 
-- **1)** organy administracji rzàdowej minister, o którym mowa wart. 8 pkt 4, niezw∏ocznie zawiadamia Prezesa Rady Ministrów,
-- **2)** organy samorzàdu terytorialnego minister, októrym mowa wart. 8 pkt 4, mo˝e zawiesiç odpowiednie uprawnienia takiego organu oraz wyznaczyç pe∏nomocnika do wykonywania tych uprawnieƒ, zawiadamiajàc otym w∏aÊciwego wojewod´ iPrezesa Rady Ministrów.
+- **1)** organy administracji rządowej minister, o którym mowa wart. 8 pkt 4, niezwłocznie zawiadamia Prezesa Rady Ministrów,
+- **2)** organy samorządu terytorialnego minister, októrym mowa wart. 8 pkt 4, może zawiesić odpowiednie uprawnienia takiego organu oraz wyznaczyć pełnomocnika do wykonywania tych uprawnień, zawiadamiając otym właściwego wojewodę iPrezesa Rady Ministrów.
 
-**Art. 14.** Kierowanie dzia∏aniami prowadzonymi wcelu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia na obszarach i w obiektach jednostek organizacyjnych podleg∏ych, podporzàdkowanych lub nadzorowanych przez Ministra Obrony Narodowej, Ministra SprawiedliwoÊci, ministra w∏aÊciwego do spraw zagranicznych oraz ministra w∏aÊciwego do spraw wewn´trznych lub Szefa Urz´du Ochrony Paƒstwa wymaga wspó∏dzia∏ania:
+**Art. 14.** Kierowanie działaniami prowadzonymi wcelu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia na obszarach i w obiektach jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez Ministra Obrony Narodowej, Ministra Sprawiedliwości, ministra właściwego do spraw zagranicznych oraz ministra właściwego do spraw wewnętrznych lub Szefa Urzędu Ochrony Państwa wymaga współdziałania:
 
 **Art. 15.**
 
-1. Wojewodowie albo pe∏nomocnicy, októrych mowa w art. 11 ust. 4, sà obowiàzani do wspó∏dzia∏ania i wzajemnego przekazywania informacji w zakresie zapobiegania skutkom kl´ski ˝ywio∏owej lub ich usuwania.
+1. Wojewodowie albo pełnomocnicy, októrych mowa w art. 11 ust. 4, są obowiązani do współdziałania i wzajemnego przekazywania informacji w zakresie zapobiegania skutkom klęski żywiołowej lub ich usuwania.
 
-2. Obowiàzek przewidziany wust. 1 dotyczy odpowiednio wójtów (burmistrzów, prezydentów miast), starostów albo pe∏nomocników, o których mowa wart. 9 ust. 5 iart. 10 ust. 5.
+2. Obowiązek przewidziany wust. 1 dotyczy odpowiednio wójtów (burmistrzów, prezydentów miast), starostów albo pełnomocników, o których mowa wart. 9 ust. 5 iart. 10 ust. 5.
 
-**Art. 16.** Minister, októrym mowa wart. 8 pkt 4, jest obowiàzany do informowania na bie˝àco Prezydenta Rzeczypospolitej Polskiej i Prezesa Rady Ministrów oskutkach kl´ski ˝ywio∏owej idzia∏aniach podejmowanych wcelu zapobie˝enia tym skutkom lub ich usuni´cia.
+**Art. 16.** Minister, októrym mowa wart. 8 pkt 4, jest obowiązany do informowania na bieżąco Prezydenta Rzeczypospolitej Polskiej i Prezesa Rady Ministrów oskutkach klęski żywiołowej idziałaniach podejmowanych wcelu zapobieżenia tym skutkom lub ich usunięcia.
 
 **Art. 17.**
 
-1. Wzapobieganiu skutkom kl´ski ˝ywio∏owej lub ich usuwaniu sà obowiàzane uczestniczyç: Paƒstwowa Stra˝ Po˝arna i inne jednostki ochrony Medyczne i jednostki ochrony zdrowia, Stra˝ Graniczna, Morska S∏u˝ba Poszukiwania i Ratownictwa oraz inne w∏aÊciwe w tych sprawach paƒstwowe urz´dy, agencje, inspekcje, stra˝e is∏u˝by.
+1. Wzapobieganiu skutkom klęski żywiołowej lub ich usuwaniu są obowiązane uczestniczyć: Państwowa Straż Pożarna i inne jednostki ochrony Medyczne i jednostki ochrony zdrowia, Straż Graniczna, Morska Służba Poszukiwania i Ratownictwa oraz inne właściwe w tych sprawach państwowe urzędy, agencje, inspekcje, straże isłużby.
 
-2. Podmioty, o których mowa w ust. 1, podlegajà kierownictwu organów, októrych mowa wart. 8, albo pe∏nomocników, októrych mowa wart. 9 ust. 5, art. 10 ust. 5 iart. 11 ust. 4.
+2. Podmioty, o których mowa w ust. 1, podlegają kierownictwu organów, októrych mowa wart. 8, albo pełnomocników, októrych mowa wart. 9 ust. 5, art. 10 ust. 5 iart. 11 ust. 4.
 
 **Art. 18.**
 
-1. W czasie stanu kl´ski ˝ywio∏owej, je˝eli u˝ycie innych si∏ iÊrodków jest niemo˝liwe lub niewystarczajàce, Minister Obrony Narodowej mo˝e przekazaç do dyspozycji wojewody, na którego obszarze dzia∏ania wyst´puje kl´ska ˝ywio∏owa, pododdzia∏y lub oddzia∏y Si∏ Zbrojnych Rzeczypospolitej Polskiej, wraz ze skierowaniem ich do wykonywania zadaƒ zwiàzanych z zapobie˝eniem skutkom kl´ski ˝ywio∏owej lub ich usuni´ciem.
+1. W czasie stanu klęski żywiołowej, jeżeli użycie innych sił iśrodków jest niemożliwe lub niewystarczające, Minister Obrony Narodowej może przekazać do dyspozycji wojewody, na którego obszarze działania występuje klęska żywiołowa, pododdziały lub oddziały Sił Zbrojnych Rzeczypospolitej Polskiej, wraz ze skierowaniem ich do wykonywania zadań związanych z zapobieżeniem skutkom klęski żywiołowej lub ich usunięciem.
 
-2. W przypadku, o którym mowa w ust. 1, pododdzia∏y i oddzia∏y Si∏ Zbrojnych Rzeczypospolitej Polskiej pozostajà pod dowództwem prze∏o˝onych s∏u˝bowych iwykonujà zadania okreÊlone przez wojewod´.
+2. W przypadku, o którym mowa w ust. 1, pododdziały i oddziały Sił Zbrojnych Rzeczypospolitej Polskiej pozostają pod dowództwem przełożonych służbowych iwykonują zadania określone przez wojewodę.
 
-3. Rada Ministrów, wdrodze rozporzàdzenia, okreÊli szczegó∏owe zasady udzia∏u pododdzia∏ów ioddzia∏ów Si∏ Zbrojnych Rzeczypospolitej Polskiej wzapobieganiu skutkom kl´ski ˝ywio∏owej lub ich usuwaniu, uwzgl´dniajàc:
+3. Rada Ministrów, wdrodze rozporządzenia, określi szczegółowe zasady udziału pododdziałów ioddziałów Sił Zbrojnych Rzeczypospolitej Polskiej wzapobieganiu skutkom klęski żywiołowej lub ich usuwaniu, uwzględniając:
 
-- **1)** rodzaje dzia∏aƒ ratowniczych lub prewencyjnych, w których pododdzia∏y i oddzia∏y Si∏ Zbrojnych Rzeczypospolitej Polskiej mogà braç udzia∏,
-- **2)** sposób koordynowania idowodzenia ich dzia∏aniami,
+- **1)** rodzaje działań ratowniczych lub prewencyjnych, w których pododdziały i oddziały Sił Zbrojnych Rzeczypospolitej Polskiej mogą brać udział,
+- **2)** sposób koordynowania idowodzenia ich działaniami,
 - **3)** sposób zapewnienia im zabezpieczenia logistycznego.
 
-**Art. 19.** Kierujàcy dzia∏aniami prowadzonymi wcelu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia wspó∏pracujà ze spo∏ecznymi organizacjami ratowniczymi, charytatywnymi, stowarzyszeniami, fundacjami oraz innymi podmiotami dzia∏ajàcymi na obszarze ich w∏aÊciwoÊci, ana wniosek lub za zgodà tych podmiotów koordynujà ich dzia∏alnoÊç. Rozdzia∏ 3 Zakres ograniczeƒ wolnoÊci ipraw cz∏owieka iobywatela
+**Art. 19.** Kierujący działaniami prowadzonymi wcelu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia współpracują ze społecznymi organizacjami ratowniczymi, charytatywnymi, stowarzyszeniami, fundacjami oraz innymi podmiotami działającymi na obszarze ich właściwości, ana wniosek lub za zgodą tych podmiotów koordynują ich działalność.
 
-**Art. 20.** Ograniczenia wolnoÊci i praw cz∏owieka i obywatela w stanie kl´ski ˝ywio∏owej stosuje si´ do osób fizycznych zamieszka∏ych lub czasowo przebywajàcych na obszarze, na którym zosta∏ wprowadzony stan kl´ski ˝ywio∏owej, oraz odpowiednio do osób prawnych i jednostek organizacyjnych nieposiadajàcych osobowoÊci prawnej, majàcych siedzib´ lub prowadzàcych dzia∏alnoÊç na obszarze, na którym zosta∏ wprowadzony stan kl´ski ˝ywio∏owej, z zastrze˝eniem art. 24 iart. 25.
+#### Rozdział 3 Zakres ograniczeń wolności ipraw człowieka iobywatela
 
-**Art. 21.** przeciwpo˝arowej, Policja, Paƒstwowe Ratownictwo 1. Ograniczenia, októrych mowa wart. 20, mogà polegaç na:
+**Art. 20.** Ograniczenia wolności i praw człowieka i obywatela w stanie klęski żywiołowej stosuje się do osób fizycznych zamieszkałych lub czasowo przebywających na obszarze, na którym został wprowadzony stan klęski żywiołowej, oraz odpowiednio do osób prawnych i jednostek organizacyjnych nieposiadających osobowości prawnej, mających siedzibę lub prowadzących działalność na obszarze, na którym został wprowadzony stan klęski żywiołowej, z zastrzeżeniem art. 24 iart. 25.
+
+**Art. 21.** przeciwpożarowej, Policja, Państwowe Ratownictwo 1. Ograniczenia, októrych mowa wart. 20, mogą polegać na:
 
 **Art. 22.**
 
-1. Je˝eli si∏y i Êrodki, którymi dysponuje wójt (burmistrz, prezydent miasta), starosta lub wojewoda albo pe∏nomocnik, sà niewystarczajàce, mo˝na wprowadziç obowiàzek Êwiadczeƒ osobistych irzeczowych polegajàcych na:
+1. Jeżeli siły i środki, którymi dysponuje wójt (burmistrz, prezydent miasta), starosta lub wojewoda albo pełnomocnik, są niewystarczające, można wprowadzić obowiązek świadczeń osobistych irzeczowych polegających na:
 
-- **1)** udzielaniu pierwszej pomocy osobom, które uleg∏y nieszcz´Êliwym wypadkom,
-- **2)** czynnym udziale w dzia∏aniu ratowniczym lub wykonywaniu innych zadaƒ wyznaczonych przez kierujàcego akcjà ratowniczà,
-- **3)** wykonywaniu okreÊlonych prac,
-- **4)** oddaniu do u˝ywania posiadanych nieruchomoÊci lub rzeczy ruchomych,
-- **5)** udost´pnieniu pomieszczeƒ osobom ewakuowanym,
-- **6)** u˝ytkowaniu nieruchomoÊci w okreÊlony sposób lub wokreÊlonym zakresie,
-- **7)** przyj´ciu na przechowanie i pilnowaniu mienia osób poszkodowanych lub ewakuowanych, gospodarczej okreÊlonego rodzaju, mogà polegaç na:
-- **8)** zabezpieczeniu zagro˝onych zwierzàt, awszczególnoÊci dostarczaniu paszy ischronienia,
-- **9)** zabezpieczeniu zagro˝onych roÊlin lub nasion,
-- **10)** pe∏nieniu wart,
-- **11)** zabezpieczeniu w∏asnych êróde∏ wody pitnej iÊrodków spo˝ywczych przed ich zanieczyszczeniem, ska˝eniem lub zaka˝eniem, a tak˝e udost´pnianiu ich dla potrzeb osób ewakuowanych lub poszkodowanych, wsposób wskazany przez organ nak∏adajàcy Êwiadczenie,
-- **12)** zabezpieczeniu zagro˝onych dóbr kultury.
+- **1)** udzielaniu pierwszej pomocy osobom, które uległy nieszczęśliwym wypadkom,
+- **2)** czynnym udziale w działaniu ratowniczym lub wykonywaniu innych zadań wyznaczonych przez kierującego akcją ratowniczą,
+- **3)** wykonywaniu określonych prac,
+- **4)** oddaniu do używania posiadanych nieruchomości lub rzeczy ruchomych,
+- **5)** udostępnieniu pomieszczeń osobom ewakuowanym,
+- **6)** użytkowaniu nieruchomości w określony sposób lub wokreślonym zakresie,
+- **7)** przyjęciu na przechowanie i pilnowaniu mienia osób poszkodowanych lub ewakuowanych, gospodarczej określonego rodzaju, mogą polegać na:
+- **8)** zabezpieczeniu zagrożonych zwierząt, awszczególności dostarczaniu paszy ischronienia,
+- **9)** zabezpieczeniu zagrożonych roślin lub nasion,
+- **10)** pełnieniu wart,
+- **11)** zabezpieczeniu własnych êródeł wody pitnej iśrodków spożywczych przed ich zanieczyszczeniem, skażeniem lub zakażeniem, a także udostępnianiu ich dla potrzeb osób ewakuowanych lub poszkodowanych, wsposób wskazany przez organ nakładający świadczenie,
+- **12)** zabezpieczeniu zagrożonych dóbr kultury.
 
-2. Od obowiàzku Êwiadczeƒ osobistych zwolnione sà:
+2. Od obowiązku świadczeń osobistych zwolnione są:
 
-- **1)** osoby do 16 roku ˝ycia i powy˝ej 60 roku ˝ycia wzakresie Êwiadczeƒ wymienionych wust. 1 pkt 2, 3, 6 i10,
-- **2)** osoby chore, niepe∏nosprawne, kobiety w cià˝y ikobiety karmiàce wzakresie Êwiadczeƒ wymienionych wust. 1 pkt 1—3, 6, 8 i10,
-- **3)** osoby sprawujàce opiek´ nad dzieçmi do lat 8, nad chorymi lub osobami niepe∏nosprawnymi wzakresie Êwiadczeƒ wymienionych wust. 1 pkt 1—3, 6 i10.
+- **1)** osoby do 16 roku życia i powyżej 60 roku życia wzakresie świadczeń wymienionych wust. 1 pkt 2, 3, 6 i10,
+- **2)** osoby chore, niepełnosprawne, kobiety w ciąży ikobiety karmiące wzakresie świadczeń wymienionych wust. 1 pkt 1—3, 6, 8 i10,
+- **3)** osoby sprawujące opiekę nad dziećmi do lat 8, nad chorymi lub osobami niepełnosprawnymi wzakresie świadczeń wymienionych wust. 1 pkt 1—3, 6 i10.
 
-3. Wszczególnie uzasadnionych przypadkach wójt (burmistrz, prezydent miasta), starosta, wojewoda albo pe∏nomocnik mo˝e odstàpiç od na∏o˝enia lub zwolniç od obowiàzków, októrych mowa wust. 1, równie˝ inne osoby i podmioty, ze wzgl´du na interes publiczny albo wyjàtkowo wa˝ny interes danej osoby lub podmiotu.
+3. Wszczególnie uzasadnionych przypadkach wójt (burmistrz, prezydent miasta), starosta, wojewoda albo pełnomocnik może odstąpić od nałożenia lub zwolnić od obowiązków, októrych mowa wust. 1, również inne osoby i podmioty, ze względu na interes publiczny albo wyjątkowo ważny interes danej osoby lub podmiotu.
 
 **Art. 23.**
 
-1. Niezb´dne ograniczenia wolnoÊci ipraw cz∏owieka i obywatela, o których mowa w art. 21 iart.22, wgranicach dopuszczonych wrozporzàdzeniu Rady Ministrów owprowadzeniu stanu kl´ski ˝ywio∏owej wprowadza, odpowiednio wzakresie kompetencji wynikajàcych zart. 8:
+1. Niezbędne ograniczenia wolności ipraw człowieka i obywatela, o których mowa w art. 21 iart.22, wgranicach dopuszczonych wrozporządzeniu Rady Ministrów owprowadzeniu stanu klęski żywiołowej wprowadza, odpowiednio wzakresie kompetencji wynikających zart. 8:
 
-- **1)** wójt (burmistrz, prezydent miasta) albo pe∏nomocnik, októrym mowa wart. 9 ust. 5 wdrodze zarzàdzenia albo decyzji,
-- **2)** starosta albo pe∏nomocnik, októrym mowa wart.10 ust. 5 wdrodze zarzàdzenia albo decyzji,
-- **3)** wojewoda albo pe∏nomocnik, o którym mowa wart. 11 ust. 4 wdrodze rozporzàdzenia albo decyzji.
+- **1)** wójt (burmistrz, prezydent miasta) albo pełnomocnik, októrym mowa wart. 9 ust. 5 wdrodze zarządzenia albo decyzji,
+- **2)** starosta albo pełnomocnik, októrym mowa wart.10 ust. 5 wdrodze zarządzenia albo decyzji,
+- **3)** wojewoda albo pełnomocnik, o którym mowa wart. 11 ust. 4 wdrodze rozporządzenia albo decyzji.
 
-2. Rozporzàdzenia wojewody lub pe∏nomocnika izarzàdzenia, októrych mowa wust. 1 pkt 1 i2, podlegajà og∏oszeniu przez rozplakatowanie obwieszczeƒ w miejscach publicznych lub w inny sposób miejscowo przyj´ty, atak˝e przez og∏oszenie wlokalnej prasie.
+2. Rozporządzenia wojewody lub pełnomocnika izarządzenia, októrych mowa wust. 1 pkt 1 i2, podlegają ogłoszeniu przez rozplakatowanie obwieszczeń w miejscach publicznych lub w inny sposób miejscowo przyjęty, atakże przez ogłoszenie wlokalnej prasie.
 
-3. Wrozporzàdzeniu wojewody lub pe∏nomocnika, zarzàdzeniu lub decyzji nale˝y podaç:
+3. Wrozporządzeniu wojewody lub pełnomocnika, zarządzeniu lub decyzji należy podać:
 
-- **1)** podstaw´ prawnà,
-- **2)** okreÊlenie zakresu irodzaju ograniczeƒ,
-- **3)** okreÊlenie obowiàzanych podmiotów,
-- **4)** miejsce, dzieƒ igodzin´ osobistego stawiennictwa lub realizacji innych ograniczeƒ,
-- **5)** czas trwania ograniczeƒ,
-- **6)** pouczenie o odpowiedzialnoÊci karnej lub innych skutkach prawnych naruszenia rozporzàdzenia, zarzàdzenia lub decyzji.
+- **1)** podstawę prawną,
+- **2)** określenie zakresu irodzaju ograniczeń,
+- **3)** określenie obowiązanych podmiotów,
+- **4)** miejsce, dzień igodzinę osobistego stawiennictwa lub realizacji innych ograniczeń,
+- **5)** czas trwania ograniczeń,
+- **6)** pouczenie o odpowiedzialności karnej lub innych skutkach prawnych naruszenia rozporządzenia, zarządzenia lub decyzji.
 
-4. Do decyzji, októrych mowa wust. 1, stosuje si´ przepisy Kodeksu post´powania administracyjnego, zzastrze˝eniem ˝e:
+4. Do decyzji, októrych mowa wust. 1, stosuje się przepisy Kodeksu postępowania administracyjnego, zzastrzeżeniem że:
 
-- **1)** podlegajà one natychmiastowemu wykonaniu zchwilà ich dor´czenia lub og∏oszenia,
-- **2)** mogà one byç w nag∏ych wypadkach wydawane ustnie, a nast´pnie niezw∏ocznie potwierdzane na piÊmie,
-- **3)** odwo∏anie od nich wnosi si´ w terminie 3 dni od dnia dor´czenia lub potwierdzenia na piÊmie decy4) wniesione odwo∏ania podlegajà przekazaniu organowi odwo∏awczemu wterminie 3 dni, arozpatrzeniu wterminie 7 dni od dnia dor´czenia mu odwo∏ania,
-- **5)** organem wy˝szego stopnia wsprawach decyzji wydanych przez starost´ i wójta (burmistrza, prezydenta miasta) jest wojewoda.
+- **1)** podlegają one natychmiastowemu wykonaniu zchwilą ich doręczenia lub ogłoszenia,
+- **2)** mogą one być w nagłych wypadkach wydawane ustnie, a następnie niezwłocznie potwierdzane na piśmie,
+- **3)** odwołanie od nich wnosi się w terminie 3 dni od dnia doręczenia lub potwierdzenia na piśmie decy4) wniesione odwołania podlegają przekazaniu organowi odwoławczemu wterminie 3 dni, arozpatrzeniu wterminie 7 dni od dnia doręczenia mu odwołania,
+- **5)** organem wyższego stopnia wsprawach decyzji wydanych przez starostę i wójta (burmistrza, prezydenta miasta) jest wojewoda.
 
-5. Wojewoda mo˝e uchyliç w ca∏oÊci lub w cz´Êci zarzàdzenie lub decyzj´ wójta (burmistrza, prezydenta miasta), starosty albo pe∏nomocników, o których mowa wart. 9 ust. 5 iart. 10 ust. 5.
+5. Wojewoda może uchylić w całości lub w części zarządzenie lub decyzję wójta (burmistrza, prezydenta miasta), starosty albo pełnomocników, o których mowa wart. 9 ust. 5 iart. 10 ust. 5.
 
-6. Minister w∏aÊciwy do spraw administracji publicznej mo˝e uchyliç w ca∏oÊci lub w cz´Êci rozporzàdzenie lub decyzj´ wojewody albo pe∏nomocnika, októrym mowa wart. 11 ust. 4.
+6. Minister właściwy do spraw administracji publicznej może uchylić w całości lub w części rozporządzenie lub decyzję wojewody albo pełnomocnika, októrym mowa wart. 11 ust. 4.
 
 **Art. 24.**
 
-1. Wcelu usprawnienia przemieszczania si´ Êrodków transportowych niezb´dnych dla prowadzenia dzia∏aƒ ratowniczych mogà byç wprowadzone ograniczenia w transporcie drogowym, kolejowym i lotniczym oraz w ruchu jednostek p∏ywajàcych na Êródlàdowych drogach wodnych, morskich wodach wewn´trznych imorzu terytorialnym.
+1. Wcelu usprawnienia przemieszczania się środków transportowych niezbędnych dla prowadzenia działań ratowniczych mogą być wprowadzone ograniczenia w transporcie drogowym, kolejowym i lotniczym oraz w ruchu jednostek pływających na śródlądowych drogach wodnych, morskich wodach wewnętrznych imorzu terytorialnym.
 
-2. Minister w∏aÊciwy do spraw transportu wzakresie transportu drogowego, kolejowego, lotniczego iruchu jednostek p∏ywajàcych na Êródlàdowych drogach wodnych, a minister w∏aÊciwy do spraw gospodarki morskiej w zakresie ruchu na morskich wodach wewn´trznych i morzu terytorialnym, w porozumieniu z ministrem w∏aÊciwym do spraw wewn´trznych i Ministrem Obrony Narodowej, wdrodze rozporzàdzenia, mo˝e wprowadziç ograniczenia, o których mowa w ust. 1, oraz okreÊliç zakres tych ograniczeƒ z uwzgl´dnieniem koniecznoÊci zapewnienia warunków pozwalajàcych na sprawne zapobieganie lub zwalczanie skutków kl´ski ˝ywio∏owej przy jednoczesnym zminimalizowaniu ucià˝liwoÊci wynik∏ych dla innych u˝ytkowników zwprowadzonych ograniczeƒ.
+2. Minister właściwy do spraw transportu wzakresie transportu drogowego, kolejowego, lotniczego iruchu jednostek pływających na śródlądowych drogach wodnych, a minister właściwy do spraw gospodarki morskiej w zakresie ruchu na morskich wodach wewnętrznych i morzu terytorialnym, w porozumieniu z ministrem właściwym do spraw wewnętrznych i Ministrem Obrony Narodowej, wdrodze rozporządzenia, może wprowadzić ograniczenia, o których mowa w ust. 1, oraz określić zakres tych ograniczeń z uwzględnieniem konieczności zapewnienia warunków pozwalających na sprawne zapobieganie lub zwalczanie skutków klęski żywiołowej przy jednoczesnym zminimalizowaniu uciążliwości wynikłych dla innych użytkowników zwprowadzonych ograniczeń.
 
 **Art. 25.**
 
-1. Dla zapewnienia ∏àcznoÊci na potrzeby dzia∏aƒ ratowniczych mogà byç wprowadzone ograniczenia w wykonywaniu pocztowych us∏ug o charakterze powszechnym lub us∏ug kurierskich.
+1. Dla zapewnienia łączności na potrzeby działań ratowniczych mogą być wprowadzone ograniczenia w wykonywaniu pocztowych usług o charakterze powszechnym lub usług kurierskich.
 
-2. Ograniczenia w pracy urzàdzeƒ radiowych nadawczych lub nadawczo-odbiorczych oraz w wykonywaniu us∏ug telekomunikacyjnych okreÊlajà odr´bne przepisy.
+2. Ograniczenia w pracy urządzeń radiowych nadawczych lub nadawczo-odbiorczych oraz w wykonywaniu usług telekomunikacyjnych określają odrębne przepisy.
 
-3. Minister w∏aÊciwy do spraw ∏àcznoÊci mo˝e, w drodze rozporzàdzenia, wprowadziç ograniczenia, októrych mowa wust. 1, oraz okreÊliç zakres tych ograniczeƒ z uwzgl´dnieniem koniecznoÊci zapewnienia warunków pozwalajàcych na sprawne zapobieganie lub zwalczanie skutków kl´ski ˝ywio∏owej przy jednoczesnym zminimalizowaniu ucià˝liwoÊci wynik∏ych dla osób i podmiotów korzystajàcych z pocztowych us∏ug ocharakterze powszechnym lub us∏ug kurierskich.
+3. Minister właściwy do spraw łączności może, w drodze rozporządzenia, wprowadzić ograniczenia, októrych mowa wust. 1, oraz określić zakres tych ograniczeń z uwzględnieniem konieczności zapewnienia warunków pozwalających na sprawne zapobieganie lub zwalczanie skutków klęski żywiołowej przy jednoczesnym zminimalizowaniu uciążliwości wynikłych dla osób i podmiotów korzystających z pocztowych usług ocharakterze powszechnym lub usług kurierskich.
 
-**Art. 26.** Redaktorzy naczelni dzienników oraz nadawcy programów radiowych i telewizyjnych sà zji wydanej ustnie, obowiàzani, na ˝àdanie ministra, o którym mowa wart.8 pkt 4, wojewodów, starostów, wójtów (burmistrzów, prezydentów miast) albo pe∏nomocników do nieodp∏atnego, niezw∏ocznego publikowania lub zamieszczania komunikatów tych organów zwiàzanych z dzia∏aniami w celu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia. Rozdzia∏ 4 Przepisy karne
+**Art. 26.** Redaktorzy naczelni dzienników oraz nadawcy programów radiowych i telewizyjnych są zji wydanej ustnie, obowiązani, na żądanie ministra, o którym mowa wart.8 pkt 4, wojewodów, starostów, wójtów (burmistrzów, prezydentów miast) albo pełnomocników do nieodpłatnego, niezwłocznego publikowania lub zamieszczania komunikatów tych organów związanych z działaniami w celu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia.
+
+#### Rozdział 4 Przepisy karne
 
 **Art. 27.**
 
-1. Kto wczasie stanu kl´ski ˝ywio∏owej:
+1. Kto wczasie stanu klęski żywiołowej:
 
-- **1)** wbrew zakazowi okreÊlonemu wart. 21 ust. 1 pkt 1 prowadzi dzia∏alnoÊç gospodarczà,
-- **2)** wbrew zakazowi okreÊlonemu wart. 21 ust. 1 pkt 2 prowadzi dzia∏alnoÊç gospodarczà okreÊlonego rodzaju,
-- **3)** wbrew nakazowi okreÊlonemu wart. 21 ust. 1 pkt 2 nie podejmuje dzia∏alnoÊci gospodarczej okreÊlonego rodzaju,
-- **4)** wbrew nakazowi okreÊlonemu wart. 21 ust. 1 pkt 3 nie oddeleguje pracowników do dyspozycji organu kierujàcego dzia∏aniami prowadzonymi w celu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia,
-- **5)** wbrew nakazowi okreÊlonemu wart. 21 ust. 1 pkt 4 narusza zasady reglamentacji zaopatrzenia wokreÊlonego rodzaju artyku∏y,
-- **6)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 pkt 5 i6 nie poddaje si´ badaniom lekarskim, leczeniu, szczepieniom ochronnym oraz stosowaniu innych Êrodków profilaktycznych i zabiegów niezb´dnych do zwalczania chorób zakaênych oraz skutków ska˝eƒ chemicznych i promieniotwórczych, a tak˝e nie poddaje si´ obowiàzkowi kwarantanny,
-- **7)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 pkt 7 nie stosuje Êrodków ochrony roÊlin lub innych Êrodków zapobiegawczych niezb´dnych do zwalczania organizmów szkodliwych dla ludzi, zwierzàt lub roÊlin,
-- **8)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 pkt 8 nie stosuje okreÊlonych Êrodków zapewniajàcych ochron´ Êrodowiska,
-- **9)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 pkt 9 nie stosuje Êrodków lub zabiegów niezb´dnych do zwalczania chorób zakaênych zwierzàt,
-- **10)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 pkt 10 nie opró˝nia lub nie zabezpiecza lokalu mieszkalnego lub innych pomieszczeƒ,
-- **11)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 pkt 11 nie dokonuje przymusowych rozbiórek iwyburzeƒ budynków lub innych obiektów budowlanych albo ich cz´Êci,
-- **12)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 pkt 12 nie stosuje si´ do nakazu ewakuacji wustalonym czasie z okreÊlonych miejsc, obszarów lub obiektów,
-- **13)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 bywania wokreÊlonych miejscach iobiektach oraz na okreÊlonych obszarach,
-- **14)** wbrew zakazowi okreÊlonemu wart. 21 ust. 1 pkt14 i17 narusza wprowadzone ograniczenia organizujàc lub przeprowadzajàc imprez´ masowà albo strajk,
-- **15)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 pkt 15 nie stosuje si´ do nakazu albo zakazu okreÊlonego sposobu przemieszczania si´,
-- **16)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 1 pkt 19 nie wykonuje Êwiadczeƒ osobistych lub rzeczowych albo nie wykonuje ich wpe∏nym zakresie,
-- **17)** wbrew obowiàzkowi okreÊlonemu w art. 21 ust. 2 nie stosuje si´ do wprowadzonych ograniczeƒ wzakresie prawa pracy,
-- **18)** wbrew obowiàzkowi okreÊlonemu wart. 24 nie stosuje si´ do wprowadzonych ograniczeƒ w transporcie drogowym, kolejowym lub lotniczym albo w ruchu jednostek p∏ywajàcych na Êródlàdowych drogach wodnych, na morskich wodach wewn´trznych lub morzu terytorialnym,
-- **19)** wbrew obowiàzkowi okreÊlonemu wart. 25 nie stosuje si´ do wprowadzonych ograniczeƒ w pracy urzàdzeƒ radiowych nadawczych lub nadawczo-odbiorczych, w wykonywaniu us∏ug telekomunikacyjnych, pocztowych us∏ug o charakterze powszechnym lub us∏ug kurierskich,
-- **20)** wbrew obowiàzkowi okreÊlonemu wart. 26 nie publikuje lub nie zamieszcza komunikatów i decyzji zwiàzanych z dzia∏aniami podejmowanymi w celu zapobie˝enia skutkom kl´ski ˝ywio∏owej lub ich usuni´cia podlega karze aresztu albo grzywny.
+- **1)** wbrew zakazowi określonemu wart. 21 ust. 1 pkt 1 prowadzi działalność gospodarczą,
+- **2)** wbrew zakazowi określonemu wart. 21 ust. 1 pkt 2 prowadzi działalność gospodarczą określonego rodzaju,
+- **3)** wbrew nakazowi określonemu wart. 21 ust. 1 pkt 2 nie podejmuje działalności gospodarczej określonego rodzaju,
+- **4)** wbrew nakazowi określonemu wart. 21 ust. 1 pkt 3 nie oddeleguje pracowników do dyspozycji organu kierującego działaniami prowadzonymi w celu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia,
+- **5)** wbrew nakazowi określonemu wart. 21 ust. 1 pkt 4 narusza zasady reglamentacji zaopatrzenia wokreślonego rodzaju artykuły,
+- **6)** wbrew obowiązkowi określonemu w art. 21 ust. 1 pkt 5 i6 nie poddaje się badaniom lekarskim, leczeniu, szczepieniom ochronnym oraz stosowaniu innych środków profilaktycznych i zabiegów niezbędnych do zwalczania chorób zakaênych oraz skutków skażeń chemicznych i promieniotwórczych, a także nie poddaje się obowiązkowi kwarantanny,
+- **7)** wbrew obowiązkowi określonemu w art. 21 ust. 1 pkt 7 nie stosuje środków ochrony roślin lub innych środków zapobiegawczych niezbędnych do zwalczania organizmów szkodliwych dla ludzi, zwierząt lub roślin,
+- **8)** wbrew obowiązkowi określonemu w art. 21 ust. 1 pkt 8 nie stosuje określonych środków zapewniających ochronę środowiska,
+- **9)** wbrew obowiązkowi określonemu w art. 21 ust. 1 pkt 9 nie stosuje środków lub zabiegów niezbędnych do zwalczania chorób zakaênych zwierząt,
+- **10)** wbrew obowiązkowi określonemu w art. 21 ust. 1 pkt 10 nie opróżnia lub nie zabezpiecza lokalu mieszkalnego lub innych pomieszczeń,
+- **11)** wbrew obowiązkowi określonemu w art. 21 ust. 1 pkt 11 nie dokonuje przymusowych rozbiórek iwyburzeń budynków lub innych obiektów budowlanych albo ich części,
+- **12)** wbrew obowiązkowi określonemu w art. 21 ust. 1 pkt 12 nie stosuje się do nakazu ewakuacji wustalonym czasie z określonych miejsc, obszarów lub obiektów,
+- **13)** wbrew obowiązkowi określonemu w art. 21 ust. 1 bywania wokreślonych miejscach iobiektach oraz na określonych obszarach,
+- **14)** wbrew zakazowi określonemu wart. 21 ust. 1 pkt14 i17 narusza wprowadzone ograniczenia organizując lub przeprowadzając imprezę masową albo strajk,
+- **15)** wbrew obowiązkowi określonemu w art. 21 ust. 1 pkt 15 nie stosuje się do nakazu albo zakazu określonego sposobu przemieszczania się,
+- **16)** wbrew obowiązkowi określonemu w art. 21 ust. 1 pkt 19 nie wykonuje świadczeń osobistych lub rzeczowych albo nie wykonuje ich wpełnym zakresie,
+- **17)** wbrew obowiązkowi określonemu w art. 21 ust. 2 nie stosuje się do wprowadzonych ograniczeń wzakresie prawa pracy,
+- **18)** wbrew obowiązkowi określonemu wart. 24 nie stosuje się do wprowadzonych ograniczeń w transporcie drogowym, kolejowym lub lotniczym albo w ruchu jednostek pływających na śródlądowych drogach wodnych, na morskich wodach wewnętrznych lub morzu terytorialnym,
+- **19)** wbrew obowiązkowi określonemu wart. 25 nie stosuje się do wprowadzonych ograniczeń w pracy urządzeń radiowych nadawczych lub nadawczo-odbiorczych, w wykonywaniu usług telekomunikacyjnych, pocztowych usług o charakterze powszechnym lub usług kurierskich,
+- **20)** wbrew obowiązkowi określonemu wart. 26 nie publikuje lub nie zamieszcza komunikatów i decyzji związanych z działaniami podejmowanymi w celu zapobieżenia skutkom klęski żywiołowej lub ich usunięcia podlega karze aresztu albo grzywny.
 
-2. Rozpoznawanie spraw okreÊlonych w ust. 1 nast´puje w trybie przepisów o post´powaniu w sprawach owykroczenia wpost´powaniu przyÊpieszonym.
+2. Rozpoznawanie spraw określonych w ust. 1 następuje w trybie przepisów o postępowaniu w sprawach owykroczenia wpostępowaniu przyśpieszonym.
 
 **Art. 28.**
 
-1. Niewykonane w ca∏oÊci lub w cz´Êci do dnia zniesienia stanu kl´ski ˝ywio∏owej lub uchylenia odpowiednich ograniczeƒ wolnoÊci i praw cz∏owieka i obywatela kary za wykroczenia wymierzone na podstawie przepisów ustawy podlegajà wykonaniu.
+1. Niewykonane w całości lub w części do dnia zniesienia stanu klęski żywiołowej lub uchylenia odpowiednich ograniczeń wolności i praw człowieka i obywatela kary za wykroczenia wymierzone na podstawie przepisów ustawy podlegają wykonaniu.
 
-2. Post´powania w sprawach o wykroczenia okreÊlone w niniejszej ustawie, wszcz´te i niezakoƒczone orzeczeniem koƒczàcym post´powanie do dnia zniesienia stanu kl´ski ˝ywio∏owej lub uchylenia odpowiednich ograniczeƒ wolnoÊci i praw cz∏owieka i obywatela, prowadzi si´ na podstawie przepisów ustawy, awymierzone kary podlegajà wykonaniu.
+2. Postępowania w sprawach o wykroczenia określone w niniejszej ustawie, wszczęte i niezakończone orzeczeniem kończącym postępowanie do dnia zniesienia stanu klęski żywiołowej lub uchylenia odpowiednich ograniczeń wolności i praw człowieka i obywatela, prowadzi się na podstawie przepisów ustawy, awymierzone kary podlegają wykonaniu.
 
-3. Po zniesieniu stanu kl´ski ˝ywio∏owej post´powanie w sprawach o wykroczenia okreÊlone w niniejszej ustawie prowadzi si´ na zasadach ogólnych. Rozdzia∏ 5 Zmiany wprzepisach obowiàzujàcych iprzepis koƒcowy
+3. Po zniesieniu stanu klęski żywiołowej postępowanie w sprawach o wykroczenia określone w niniejszej ustawie prowadzi się na zasadach ogólnych.
 
-**Art. 29.** W ustawie z dnia 8 marca 1990 r. o samorzàdzie gminnym (Dz. U. z 2001 r. 142, poz. 1591 pkt 13 nie stosuje si´ do nakazu albo zakazu przei z 2002 r. 23, poz. 220) wprowadza si´ nast´pujàce zmiany:
+#### Rozdział 5 Zmiany wprzepisach obowiązujących iprzepis końcowy
+
+**Art. 29.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. 142, poz. 1591 pkt 13 nie stosuje się do nakazu albo zakazu przei z 2002 r. 23, poz. 220) wprowadza się następujące zmiany:
 
 **Art. 31b.**
 
-1. Je˝eli w inny sposób nie mo˝na usunàç bezpoÊredniego niebezpieczeƒstwa dla ˝ycia ludzi lub dla mienia, wójt lub burmistrz mo˝e zarzàdziç ewakuacj´ z obszarów bezpoÊrednio zagro˝onych.
+1. Jeżeli w inny sposób nie można usunąć bezpośredniego niebezpieczeństwa dla życia ludzi lub dla mienia, wójt lub burmistrz może zarządzić ewakuację z obszarów bezpośrednio zagrożonych.
 
-2. W przypadku wprowadzenia stanu kl´ski ˝ywio∏owej wójt lub burmistrz dzia∏a na zasadach okreÊlonych wodr´bnych przepisach.”
+2. W przypadku wprowadzenia stanu klęski żywiołowej wójt lub burmistrz działa na zasadach określonych wodrębnych przepisach.”
 
-**Art. 30.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpo˝arowej (Dz. U. 81, poz. 351, z1994 r. 27, poz. 96 iNr 89, poz. 414, z1996 r. 106,
+**Art. 30.** W ustawie z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. 81, poz. 351, z1994 r. 27, poz. 96 iNr 89, poz. 414, z1996 r. 106,
 
-**Art. 31.** Wustawie zdnia 5 czerwca 1998 r. oadministracji rzàdowej w województwie (Dz. U. z 2001 r. Nr80, poz. 872 i 128, poz. 1407 oraz z 2002 r. 37, poz. 329) wart. 15 dodaje si´ pkt 4awbrzmieniu: „4a) dokonuje oceny stanu zabezpieczenia przeciwpowodziowego województwa, opracowuje plan operacyjny ochrony przed powodzià oraz og∏asza i odwo∏uje pogotowie i alarm przeciwpowodziowy,”.
+**Art. 31.** Wustawie zdnia 5 czerwca 1998 r. oadministracji rządowej w województwie (Dz. U. z 2001 r. Nr80, poz. 872 i 128, poz. 1407 oraz z 2002 r. 37, poz. 329) wart. 15 dodaje się pkt 4awbrzmieniu: Ń4a) dokonuje oceny stanu zabezpieczenia przeciwpowodziowego województwa, opracowuje plan operacyjny ochrony przed powodzią oraz ogłasza i odwołuje pogotowie i alarm przeciwpowodziowy,”.
 
-**Art. 32.** Wustawie zdnia 5 czerwca 1998 r. osamorzàdzie województwa (Dz. U. z2001 r. 142, poz. 1590 i z 2002 r. 23, poz. 220) wart. 14 wust. 1 wpkt 9 po wyrazie „przeciwpowodziowej” dodaje si´ wyrazy „ , awszczególnoÊci wyposa˝enia iutrzymania wojewódzkich magazynów przeciwpowodziowych,”.
+**Art. 32.** Wustawie zdnia 5 czerwca 1998 r. osamorządzie województwa (Dz. U. z2001 r. 142, poz. 1590 i z 2002 r. 23, poz. 220) wart. 14 wust. 1 wpkt 9 po wyrazie Ńprzeciwpowodziowej” dodaje się wyrazy Ń , awszczególności wyposażenia iutrzymania wojewódzkich magazynów przeciwpowodziowych,”.
 
-**Art. 33.** Wustawie zdnia 5 czerwca 1998 r. osamorzàdzie powiatowym (Dz. U. z2001 r. 142, poz. 1592 i z 2002 r. 23, poz. 220) wprowadza si´ nast´pujàce zmiany:
+**Art. 33.** Wustawie zdnia 5 czerwca 1998 r. osamorządzie powiatowym (Dz. U. z2001 r. 142, poz. 1592 i z 2002 r. 23, poz. 220) wprowadza się następujące zmiany:
 
-**Art. 1.** Wustawie zdnia 19 kwietnia 1991 r. osamorzàdzie piel´gniarek ipo∏o˝nych (Dz. U. 41, poz. 178, Nr106, poz. 668 oraz z2000 r. 120, poz. 1268) wproz 1996 r. 24, poz. 110 i 91, poz. 410, z 1998 r. wadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 19 kwietnia 1991 r. osamorządzie pielęgniarek ipołożnych (Dz. U. 41, poz. 178, Nr106, poz. 668 oraz z2000 r. 120, poz. 1268) wproz 1996 r. 24, poz. 110 i 91, poz. 410, z 1998 r. wadza się następujące zmiany:
 

@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# 2. Przepis ust. 1 stosuje si´ pod warunkiem z∏o˝e- do dnia 31 grudnia 2005 r., stosuje si´ przepisy donia przez spó∏k´ wniosku w terminie 6 miesi´cy od tychczasowe.
+# 2. Przepis ust. 1 stosuje się pod warunkiem złoże- do dnia 31 grudnia 2005 r., stosuje się przepisy donia przez spółkę wniosku w terminie 6 miesięcy od tychczasowe.
 
 | Pole | Wartość |
 |---|---|
@@ -24,812 +24,826 @@ domain: null
 | Ostatnia zmiana | 2025-07-01 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051791485) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/1485/text.pdf) |
 
-dnia przekszta∏cenia. W przypadku gdy wniosek nie zostanie uwzgl´dniony, spó∏ka jest obowiàzana do za- Art. 31. Minister w∏aÊciwy do spraw Skarbu Paƒp∏aty podatków, op∏at nale˝nych za okres zwolnienia stwa w porozumieniu z ministrem w∏aÊciwym do wterminie miesiàca od dnia uprawomocnienia si´ de- spraw instytucji finansowych, po zasi´gni´ciu opinii cyzji w sprawie wniosku. Komisji Nadzoru Bankowego, dostosuje, w drodze rozporzàdzenia, statut Banku Gospodarstwa KrajoweArt. 30. 1. Do jednostek organizacyjnych, które go do przepisów ustawy, bioràc pod uwag´ zasady uzyska∏y status jednostki badawczo-rozwojowej na tworzenia i wykorzystywania Funduszu.
-podstawie art. 74 ustawy o jednostkach badawczo-rozwojowych, stosuje si´ przepisy dotychczasowe do Art. 32.Ustawa wchodzi w˝ycie po up∏ywie 30 dni up∏ywu okresu, na który nadany zosta∏ status jednost- od dnia og∏oszenia, zwyjàtkiem przepisów art. 12—22 ki badawczo-rozwojowej. oraz art. 26, 27 i 29, które wchodzà w ˝ycie z dniem 1 stycznia 2006 r.
-2. Do post´powaƒ o udzielenie statusu jednostki badawczo-rozwojowej, wszcz´tych i niezakoƒczonych Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+dnia przekształcenia. W przypadku gdy wniosek nie zostanie uwzględniony, spółka jest obowiązana do za- Art. 31. Minister właściwy do spraw Skarbu Pańpłaty podatków, opłat należnych za okres zwolnienia stwa w porozumieniu z ministrem właściwym do wterminie miesiąca od dnia uprawomocnienia się de- spraw instytucji finansowych, po zasięgnięciu opinii cyzji w sprawie wniosku. Komisji Nadzoru Bankowego, dostosuje, w drodze rozporządzenia, statut Banku Gospodarstwa KrajoweArt. 30. 1. Do jednostek organizacyjnych, które go do przepisów ustawy, biorąc pod uwagę zasady uzyskały status jednostki badawczo-rozwojowej na tworzenia i wykorzystywania Funduszu.
+podstawie art. 74 ustawy o jednostkach badawczo-rozwojowych, stosuje się przepisy dotychczasowe do Art. 32.Ustawa wchodzi wżycie po upływie 30 dni upływu okresu, na który nadany został status jednost- od dnia ogłoszenia, zwyjątkiem przepisów art. 12—22 ki badawczo-rozwojowej. oraz art. 26, 27 i 29, które wchodzą w życie z dniem 1 stycznia 2006 r.
+2. Do postępowań o udzielenie statusu jednostki badawczo-rozwojowej, wszczętych i niezakończonych Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 USTAWA z dnia 29 lipca 2005 r.
-o przeciwdzia∏aniu narkomanii Rozdzia∏ 1 wsprawie prekursorów narkotykowych (Dz. Urz.
-WE L 047 z 18.02.2004), zwanego dalej „rozpoPrzepisy ogólne rzàdzeniem 273/2004”,
-b) rozporzàdzenia (WE) Rady nr 111/2005 z dnia
+o przeciwdziałaniu narkomanii
+WE L 047 z 18.02.2004), zwanego dalej ŃrozpoPrzepisy ogólne rządzeniem 273/2004”,
+b) rozporządzenia (WE) Rady nr 111/2005 z dnia
 
-**Art. 1.** Ustawa okreÊla: 22 grudnia 2004 r. okreÊlajàcego zasady nadzorowania handlu prekursorami narkotyków po1) zasady i tryb post´powania w zakresie przeciw- mi´dzy Wspólnotà a paƒstwami trzecimi dzia∏ania narkomanii; (Dz.Urz. WE L22 z26.01.2005, str. 1; Dz. Urz. WE Polskie wydanie specjalne z2005 r., t. 48, str. 1),
+#### Rozdział 1 wsprawie prekursorów narkotykowych (Dz. Urz.
+
+**Art. 1.** Ustawa określa: 22 grudnia 2004 r. określającego zasady nadzorowania handlu prekursorami narkotyków po1) zasady i tryb postępowania w zakresie przeciw- między Wspólnotą a państwami trzecimi działania narkomanii; (Dz.Urz. WE L22 z26.01.2005, str. 1; Dz. Urz. WE Polskie wydanie specjalne z2005 r., t. 48, str. 1),
 
 **Art. 2.**
 
-1. Przeciwdzia∏anie narkomanii realizuje si´ przez odpowiednie kszta∏towanie polityki spo∏ecznej, gospodarczej, oÊwiatowo-wychowawczej i zdrowotnej, a w szczególnoÊci:
+1. Przeciwdziałanie narkomanii realizuje się przez odpowiednie kształtowanie polityki społecznej, gospodarczej, oświatowo-wychowawczej i zdrowotnej, a w szczególności:
 
-- **1)** dzia∏alnoÊç wychowawczà, edukacyjnà, informacyjnà i zapobiegawczà;
-- **2)** leczenie, rehabilitacj´ i reintegracj´ osób uzale˝nionych;
-- **3)** ograniczanie szkód zdrowotnych i spo∏ecznych;
-- **4)** nadzór nad substancjami, których u˝ywanie mo˝e prowadziç do narkomanii;
-- **5)** zwalczanie niedozwolonego obrotu, wytwarzania, przetwarzania, przerobu i posiadania substancji, których u˝ywanie mo˝e prowadziç do narkomanii;
-- **6)** nadzór nad uprawami roÊlin zawierajàcych substancje, których u˝ywanie mo˝e prowadziç do narkomanii.
+- **1)** działalność wychowawczą, edukacyjną, informacyjną i zapobiegawczą;
+- **2)** leczenie, rehabilitację i reintegrację osób uzależnionych;
+- **3)** ograniczanie szkód zdrowotnych i społecznych;
+- **4)** nadzór nad substancjami, których używanie może prowadzić do narkomanii;
+- **5)** zwalczanie niedozwolonego obrotu, wytwarzania, przetwarzania, przerobu i posiadania substancji, których używanie może prowadzić do narkomanii;
+- **6)** nadzór nad uprawami roślin zawierających substancje, których używanie może prowadzić do narkomanii.
 
-2. Zadania, októrych mowa wust. 1 pkt 1—3, sà finansowane ze Êrodków w∏asnych podmiotów wykonujàcych zadania w zakresie przeciwdzia∏ania narkomanii, Êrodków przeznaczonych na realizacj´ programów zdrowotnych finansowanych z cz´Êci bud˝etu paƒstwa, której dysponentem jest minister w∏aÊciwy do spraw zdrowia, oraz Êrodków Narodowego Funduszu Zdrowia.
+2. Zadania, októrych mowa wust. 1 pkt 1—3, są finansowane ze środków własnych podmiotów wykonujących zadania w zakresie przeciwdziałania narkomanii, środków przeznaczonych na realizację programów zdrowotnych finansowanych z części budżetu państwa, której dysponentem jest minister właściwy do spraw zdrowia, oraz środków Narodowego Funduszu Zdrowia.
 
-3. Zadania, októrych mowa wust. 1 pkt 4—6, sà finansowane z bud˝etu paƒstwa z cz´Êci pozostajàcych w dyspozycji w∏aÊciwych ministrów.
+3. Zadania, októrych mowa wust. 1 pkt 4—6, są finansowane z budżetu państwa z części pozostających w dyspozycji właściwych ministrów.
 
-**Art. 3.** Przepisy ustawy stosuje si´ do:
+**Art. 3.** Przepisy ustawy stosuje się do:
+
+#### Rozdział 2 Podmioty realizujące zadania w zakresie przeciwdziałania narkomanii
 
 **Art. 5.**
 
-1. Zadania w zakresie przeciwdzia∏ania narkomanii realizujà organy administracji rzàdowej i jednostek samorzàdu terytorialnego w zakresie okreÊlonym w ustawie.
+1. Zadania w zakresie przeciwdziałania narkomanii realizują organy administracji rządowej i jednostek samorządu terytorialnego w zakresie określonym w ustawie.
 
-2. Zadania wzakresie przeciwdzia∏ania narkomanii sà realizowane, wzakresie okreÊlonym wustawie, tak˝e przez:
+2. Zadania wzakresie przeciwdziałania narkomanii są realizowane, wzakresie określonym wustawie, także przez:
 
-- **1)** przedszkola, szko∏y i inne jednostki organizacyjne wymienione w art. 2 pkt 3—5 i 7—9 ustawy z dnia 7 wrzeÊnia 1991 r. o systemie oÊwiaty (Dz. U. z 2004 r. 256, poz. 2572, z póên. zm. );
-- **2)** szko∏y wy˝sze;
-- **3)** zak∏ady opieki zdrowotnej i inne podmioty dzia∏ajàce w ochronie zdrowia;
-- **4)** jednostki Wojska Polskiego, Policji i Stra˝y Granicznej;
+- **1)** przedszkola, szkoły i inne jednostki organizacyjne wymienione w art. 2 pkt 3—5 i 7—9 ustawy z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. 256, poz. 2572, z póên. zm. );
+- **2)** szkoły wyższe;
+- **3)** zakłady opieki zdrowotnej i inne podmioty działające w ochronie zdrowia;
+- **4)** jednostki Wojska Polskiego, Policji i Straży Granicznej;
 - **5)** organy celne;
-- **6)** jednostki organizacyjne S∏u˝by Wi´ziennej oraz zak∏ady poprawcze i schroniska dla nieletnich;
-- **7)** oÊrodki pomocy spo∏ecznej, powiatowe centra pomocy rodzinie i regionalne oÊrodki polityki spo∏ecznej;
-- **8)** Êrodki masowego przekazu.
+- **6)** jednostki organizacyjne Służby Więziennej oraz zakłady poprawcze i schroniska dla nieletnich;
+- **7)** ośrodki pomocy społecznej, powiatowe centra pomocy rodzinie i regionalne ośrodki polityki społecznej;
+- **8)** środki masowego przekazu.
 
-3. W realizacji zadaƒ, o których mowa w art. 2 ust. 1, mogà uczestniczyç organizacje pozarzàdowe i inne podmioty, których dzia∏alnoÊç statutowa obejmuje zadania nale˝àce do sfery zadaƒ publicznych w zakresie ochrony i promocji zdrowia, pomocy spo∏ecznej, dzia∏alnoÊci charytatywnej, nauki, edukacji, oÊwiaty i wychowania, kultury fizycznej, porzàdku ibezpieczeƒstwa publicznego lub przeciwdzia∏ania patologiom spo∏ecznym, promocji iorganizacji wolontariatu, oraz samorzàdy zawodów medycznych, rodziny osób uzale˝nionych, atak˝e grupy samopomocy osób uzale˝nionych i ich rodzin.
+3. W realizacji zadań, o których mowa w art. 2 ust. 1, mogą uczestniczyć organizacje pozarządowe i inne podmioty, których działalność statutowa obejmuje zadania należące do sfery zadań publicznych w zakresie ochrony i promocji zdrowia, pomocy społecznej, działalności charytatywnej, nauki, edukacji, oświaty i wychowania, kultury fizycznej, porządku ibezpieczeństwa publicznego lub przeciwdziałania patologiom społecznym, promocji iorganizacji wolontariatu, oraz samorządy zawodów medycznych, rodziny osób uzależnionych, atakże grupy samopomocy osób uzależnionych i ich rodzin.
 
 **Art. 6.**
 
-1. Dzia∏alnoÊç w zakresie przeciwdzia∏ania narkomanii prowadzi Krajowe Biuro do Spraw Przeciwdzia∏ania Narkomanii, zwane dalej „Biurem”.
+1. Działalność w zakresie przeciwdziałania narkomanii prowadzi Krajowe Biuro do Spraw Przeciwdziałania Narkomanii, zwane dalej ŃBiurem”.
 
-2. Biuro jest jednostkà bud˝etowà podleg∏à ministrowi w∏aÊciwemu do spraw zdrowia.
+2. Biuro jest jednostką budżetową podległą ministrowi właściwemu do spraw zdrowia.
 
-3. Do zadaƒ Biura nale˝y:
+3. Do zadań Biura należy:
 
-- **1)** opracowywanie projektu Krajowego Programu Przeciwdzia∏ania Narkomanii oraz koordynowanie i monitorowanie jego wykonania, przy wspó∏pracy zinnymi podmiotami w∏aÊciwymi do podejmowania dzia∏aƒ wynikajàcych z tego programu;
-- **2)** opracowywanie i przekazywanie ministrowi w∏aÊciwemu do spraw zdrowia raportu z realizacji Krajowego Programu Przeciwdzia∏ania Narkomanii, uwzgl´dniajàcego informacje, októrych mowa wart. 11 ust. 2, wterminie do dnia 30 czerwca ka˝dego roku;
-- **3)** wykonywanie zadaƒ w zakresie przeciwdzia∏ania narkomanii, polegajàcych na powierzaniu iwspieraniu wykonywania zadaƒ publicznych, wraz z udzielaniem dotacji na finansowanie ich realizacji na podstawie pe∏nomocnictwa ministra w∏aÊciwego do spraw zdrowia;
-- **4)** inicjowanie dzia∏aƒ zmierzajàcych do ograniczania u˝ywania Êrodków odurzajàcych, substancji psychotropowych i Êrodków zast´pczych;
+- **1)** opracowywanie projektu Krajowego Programu Przeciwdziałania Narkomanii oraz koordynowanie i monitorowanie jego wykonania, przy współpracy zinnymi podmiotami właściwymi do podejmowania działań wynikających z tego programu;
+- **2)** opracowywanie i przekazywanie ministrowi właściwemu do spraw zdrowia raportu z realizacji Krajowego Programu Przeciwdziałania Narkomanii, uwzględniającego informacje, októrych mowa wart. 11 ust. 2, wterminie do dnia 30 czerwca każdego roku;
+- **3)** wykonywanie zadań w zakresie przeciwdziałania narkomanii, polegających na powierzaniu iwspieraniu wykonywania zadań publicznych, wraz z udzielaniem dotacji na finansowanie ich realizacji na podstawie pełnomocnictwa ministra właściwego do spraw zdrowia;
+- **4)** inicjowanie działań zmierzających do ograniczania używania środków odurzających, substancji psychotropowych i środków zastępczych;
 - **5)** inicjowanie, wspieranie i prowadzenie analiz oraz
-- **7)** dokonywanie okresowych ocen programów profilaktycznych, leczniczych, rehabilitacyjnych i readaptacyjnych pod wzgl´dem ich skutecznoÊci w zakresie ograniczenia u˝ywania Êrodków odurzajàcych, substancji psychotropowych i Êrodków zast´pczych;
-- **8)** opracowywanie standardów w zakresie profilaktyki uzale˝nieƒ oraz leczenia irehabilitacji osób uzale˝nionych;
-- **9)** inicjowanie, organizowanie i prowadzenie szkoleƒ dla osób realizujàcych zadania wzakresie przeciwdzia∏ania narkomanii;
-- **10)** udzielanie pomocy fachowej podmiotom realizujàcym zadania w zakresie przeciwdzia∏ania narkomanii, wtym jednostkom samorzàdu terytorialnego, oraz podmiotom prowadzàcym dzia∏alnoÊç oÊwiatowo-informacyjnà, badawczà, profilaktycznà, leczniczà, rehabilitacyjnà i reintegracyjnà;
-- **11)** wspó∏praca z organizacjami mi´dzynarodowymi badaƒ naukowych nad problematykà narkomanii, w tym sporzàdzanie oceny epidemiologicznej zagro˝eƒ narkomanià;
-- **6)** inicjowanie prac nad nowymi rozwiàzaniami legislacyjnymi s∏u˝àcymi przeciwdzia∏aniu narkomanii; prowadzàcymi dzia∏alnoÊç wzakresie przeciwdzia∏ania narkomanii i likwidacji szkód nià wywo∏anych;
-- **12)** prowadzenie krajowego systemu informacji onarkotykach oraz monitorowanie dzia∏aƒ podejmowanych na rzecz przeciwdzia∏ania narkomanii na poziomie krajowym i mi´dzynarodowym, w tym:
-    - **a)** zbieranie, gromadzenie, wymian´ informacji idokumentacji wzakresie przeciwdzia∏ania narkomanii, obj´tych badaniami statystycznymi statystyki publicznej, oraz opracowywanie i przetwarzanie zebranych danych,
-    - **b)** prowadzenie i inicjowanie badaƒ dotyczàcych problemów narkotyków inarkomanii oraz opracowywanie i udost´pnianie ich wyników,
-    - **c)** gromadzenie, przechowywanie i udost´pnianie baz danych dotyczàcych narkotyków inarkomanii,
-    - **d)** formu∏owanie wniosków sprzyjajàcych kszta∏towaniu odpowiedniej do sytuacji strategii reagowania na problem narkomanii,
-    - **e)** koordynowanie dzia∏aƒ ekspertów wojewódzkich, o których mowa w art. 9 ust. 6,
-    - **f)** gromadzenie i udost´pnianie publikacji na temat narkotyków i narkomanii,
-    - **g)** pe∏nienie roli punktu obserwacyjnego (Focal Point) Europejskiego Centrum Monitorowania Narkotyków i Narkomanii,
-    - **h)** udzia∏ wpracach sprawozdawczych na rzecz organizacji mi´dzynarodowych,
-    - **i)** wspó∏praca z Europejskim Centrum Monitorowania Narkotyków i Narkomanii oraz Europejskà Siecià Informacji o Narkotykach i Narkomanii (Reitox),
+- **7)** dokonywanie okresowych ocen programów profilaktycznych, leczniczych, rehabilitacyjnych i readaptacyjnych pod względem ich skuteczności w zakresie ograniczenia używania środków odurzających, substancji psychotropowych i środków zastępczych;
+- **8)** opracowywanie standardów w zakresie profilaktyki uzależnień oraz leczenia irehabilitacji osób uzależnionych;
+- **9)** inicjowanie, organizowanie i prowadzenie szkoleń dla osób realizujących zadania wzakresie przeciwdziałania narkomanii;
+- **10)** udzielanie pomocy fachowej podmiotom realizującym zadania w zakresie przeciwdziałania narkomanii, wtym jednostkom samorządu terytorialnego, oraz podmiotom prowadzącym działalność oświatowo-informacyjną, badawczą, profilaktyczną, leczniczą, rehabilitacyjną i reintegracyjną;
+- **11)** współpraca z organizacjami międzynarodowymi badań naukowych nad problematyką narkomanii, w tym sporządzanie oceny epidemiologicznej zagrożeń narkomanią;
+- **6)** inicjowanie prac nad nowymi rozwiązaniami legislacyjnymi służącymi przeciwdziałaniu narkomanii; prowadzącymi działalność wzakresie przeciwdziałania narkomanii i likwidacji szkód nią wywołanych;
+- **12)** prowadzenie krajowego systemu informacji onarkotykach oraz monitorowanie działań podejmowanych na rzecz przeciwdziałania narkomanii na poziomie krajowym i międzynarodowym, w tym:
+    - **a)** zbieranie, gromadzenie, wymianę informacji idokumentacji wzakresie przeciwdziałania narkomanii, objętych badaniami statystycznymi statystyki publicznej, oraz opracowywanie i przetwarzanie zebranych danych,
+    - **b)** prowadzenie i inicjowanie badań dotyczących problemów narkotyków inarkomanii oraz opracowywanie i udostępnianie ich wyników,
+    - **c)** gromadzenie, przechowywanie i udostępnianie baz danych dotyczących narkotyków inarkomanii,
+    - **d)** formułowanie wniosków sprzyjających kształtowaniu odpowiedniej do sytuacji strategii reagowania na problem narkomanii,
+    - **e)** koordynowanie działań ekspertów wojewódzkich, o których mowa w art. 9 ust. 6,
+    - **f)** gromadzenie i udostępnianie publikacji na temat narkotyków i narkomanii,
+    - **g)** pełnienie roli punktu obserwacyjnego (Focal Point) Europejskiego Centrum Monitorowania Narkotyków i Narkomanii,
+    - **h)** udział wpracach sprawozdawczych na rzecz organizacji międzynarodowych,
+    - **i)** współpraca z Europejskim Centrum Monitorowania Narkotyków i Narkomanii oraz Europejską Siecią Informacji o Narkotykach i Narkomanii (Reitox),
     - **j)** opracowywanie i publikowanie corocznego raportu o stanie narkomanii w Polsce,
-    - **k)** bie˝àca ocena realizacji Krajowego Programu Przeciwdzia∏ania Narkomanii;
+    - **k)** bieżąca ocena realizacji Krajowego Programu Przeciwdziałania Narkomanii;
 
-- **13)** podejmowanie dzia∏aƒ interwencyjnych w sprawach skarg i wniosków dotyczàcych problematyki przeciwdzia∏ania narkomanii, kierowanych do Biura lub do ministra w∏aÊciwego do spraw zdrowia;
-- **14)** wykonywanie innych zadaƒ w zakresie przeciwdzia∏ania narkomanii, zleconych przez ministra w∏aÊciwego do spraw zdrowia;
-- **15)** obs∏uga techniczno-organizacyjna Rady do Spraw Przeciwdzia∏ania Narkomanii.
+- **13)** podejmowanie działań interwencyjnych w sprawach skarg i wniosków dotyczących problematyki przeciwdziałania narkomanii, kierowanych do Biura lub do ministra właściwego do spraw zdrowia;
+- **14)** wykonywanie innych zadań w zakresie przeciwdziałania narkomanii, zleconych przez ministra właściwego do spraw zdrowia;
+- **15)** obsługa techniczno-organizacyjna Rady do Spraw Przeciwdziałania Narkomanii.
 
-4. Biuro, wykonujàc zadania, o których mowa w ust. 3, wspó∏pracuje z organami administracji publicznej wykonujàcymi zadania, o których mowa w art. 2, oraz mo˝e tworzyç zespo∏y robocze.
+4. Biuro, wykonując zadania, o których mowa w ust. 3, współpracuje z organami administracji publicznej wykonującymi zadania, o których mowa w art. 2, oraz może tworzyć zespoły robocze.
 
-5. Zadania, o których mowa w ust. 3 pkt 12, realizuje Centrum Informacji o Narkotykach i Narkomanii b´dàce komórkà organizacyjnà Biura.
+5. Zadania, o których mowa w ust. 3 pkt 12, realizuje Centrum Informacji o Narkotykach i Narkomanii będące komórką organizacyjną Biura.
 
 **Art. 7.**
 
-1. Podstaw´ do dzia∏aƒ w zakresie przeciwdzia∏ania narkomanii stanowi Krajowy Program Przeciwdzia∏ania Narkomanii.
+1. Podstawę do działań w zakresie przeciwdziałania narkomanii stanowi Krajowy Program Przeciwdziałania Narkomanii.
 
-2. W Krajowym Programie Przeciwdzia∏ania Narkomanii, zwanym dalej „Krajowym Programem”, okreÊla si´ w szczególnoÊci: kierunki i rodzaje dzia∏aƒ w zakresie przeciwdzia∏ania narkomanii, harmonogram przyj´tych dzia∏aƒ, cele oraz sposoby ich osiàgania oraz ministrów odpowiedzialnych za ich realizacj´, atak˝e podmioty w∏aÊciwe do podejmowania okreÊlonych dzia∏aƒ.
+2. W Krajowym Programie Przeciwdziałania Narkomanii, zwanym dalej ŃKrajowym Programem”, określa się w szczególności: kierunki i rodzaje działań w zakresie przeciwdziałania narkomanii, harmonogram przyjętych działań, cele oraz sposoby ich osiągania oraz ministrów odpowiedzialnych za ich realizację, atakże podmioty właściwe do podejmowania określonych działań.
 
-3. Koszty realizacji zadaƒ wynikajàcych z Krajowego Programu sà finansowane z bud˝etu paƒstwa z cz´Êci, których dysponentami sà w∏aÊciwi ministrowie odpowiedzialni za realizacj´ okreÊlonych dzia∏aƒ.
+3. Koszty realizacji zadań wynikających z Krajowego Programu są finansowane z budżetu państwa z części, których dysponentami są właściwi ministrowie odpowiedzialni za realizację określonych działań.
 
-4. WKrajowym Programie okreÊla si´ równie˝ kierunki dzia∏aƒ przewidzianych do realizacji przez jednostki samorzàdu terytorialnego w zakresie przeciwdzia∏ania narkomanii.
+4. WKrajowym Programie określa się również kierunki działań przewidzianych do realizacji przez jednostki samorządu terytorialnego w zakresie przeciwdziałania narkomanii.
 
-5. Rada Ministrów okreÊla, w drodze rozporzàdzenia, Krajowy Program, uwzgl´dniajàc zagadnienia, o których mowa w ust. 2 i 4, oraz bioràc pod uwag´ sytuacj´ epidemiologicznà wzakresie zagro˝eƒ narkomanià, a tak˝e strategi´ dzia∏aƒ wynikajàcych z Europejskiego Planu Walki z Narkotykami.
+5. Rada Ministrów określa, w drodze rozporządzenia, Krajowy Program, uwzględniając zagadnienia, o których mowa w ust. 2 i 4, oraz biorąc pod uwagę sytuację epidemiologiczną wzakresie zagrożeń narkomanią, a także strategię działań wynikających z Europejskiego Planu Walki z Narkotykami.
 
 **Art. 8.**
 
-1. Minister w∏aÊciwy do spraw zdrowia przedk∏ada Radzie Ministrów, w terminie do dnia 30 wrzeÊnia ka˝dego roku, informacj´ orealizacji dzia∏aƒ wynikajàcych z Krajowego Programu w roku poprzednim.
+1. Minister właściwy do spraw zdrowia przedkłada Radzie Ministrów, w terminie do dnia 30 września każdego roku, informację orealizacji działań wynikających z Krajowego Programu w roku poprzednim.
 
-2. Rada Ministrów sk∏ada corocznie Sejmowi, wterminie do dnia 31 paêdziernika, informacj´ orealizacji Krajowego Programu w roku poprzednim.
+2. Rada Ministrów składa corocznie Sejmowi, wterminie do dnia 31 paêdziernika, informację orealizacji Krajowego Programu w roku poprzednim.
 
-**Art. 9.** mu Przeciwdzia∏ania Narkomanii, zwanego dalej „Wojewódzkim Programem”, uwzgl´dniajàc kierunki i rodzaje dzia∏aƒ okreÊlone w Krajowym Programie oraz zadania wzakresie okreÊlonym wart. 2 ust. 1 pkt 1—3. Wojewódzki Program stanowi cz´Êç strategii wojewódzkiej w zakresie polityki spo∏ecznej. 2. Wojewódzki Program uchwala sejmik województwa. 3. Organ wykonawczy samorzàdu województwa:
+**Art. 9.** mu Przeciwdziałania Narkomanii, zwanego dalej ŃWojewódzkim Programem”, uwzględniając kierunki i rodzaje działań określone w Krajowym Programie oraz zadania wzakresie określonym wart. 2 ust. 1 pkt 1—3. Wojewódzki Program stanowi część strategii wojewódzkiej w zakresie polityki społecznej. 2. Wojewódzki Program uchwala sejmik województwa. 3. Organ wykonawczy samorządu województwa:
 
 **Art. 10.**
 
-1. Przeciwdzia∏anie narkomanii nale˝y do zadaƒ w∏asnych gminy, obejmujàcych:
+1. Przeciwdziałanie narkomanii należy do zadań własnych gminy, obejmujących:
 
-- **1)** zwi´kszanie dost´pnoÊci pomocy terapeutycznej irehabilitacyjnej dla osób uzale˝nionych iosób zagro˝onych uzale˝nieniem;
-- **2)** udzielanie rodzinom, w których wyst´pujà problemy narkomanii, pomocy psychospo∏ecznej iprawnej;
-- **3)** prowadzenie profilaktycznej dzia∏alnoÊci informacyjnej, edukacyjnej oraz szkoleniowej w zakresie rozwiàzywania problemów narkomanii, w szczególnoÊci dla dzieci i m∏odzie˝y, w tym prowadzenie zaj´ç sportowo-rekreacyjnych dla uczniów, a tak˝e dzia∏aƒ na rzecz do˝ywiania dzieci uczestniczàcych wpozalekcyjnych programach opiekuƒczo-wychowawczych i socjoterapeutycznych;
-- **4)** wspomaganie dzia∏aƒ instytucji, organizacji pozarzàdowych i osób fizycznych, s∏u˝àcych rozwiàzywaniu problemów narkomanii;
-- **5)** pomoc spo∏ecznà osobom uzale˝nionym i rodzinom osób uzale˝nionych dotkni´tym ubóstwem iwykluczeniem spo∏ecznym iintegrowanie ze Êrodowiskiem lokalnym tych osób z wykorzystaniem pracy socjalnej i kontraktu socjalnego.
+- **1)** zwiększanie dostępności pomocy terapeutycznej irehabilitacyjnej dla osób uzależnionych iosób zagrożonych uzależnieniem;
+- **2)** udzielanie rodzinom, w których występują problemy narkomanii, pomocy psychospołecznej iprawnej;
+- **3)** prowadzenie profilaktycznej działalności informacyjnej, edukacyjnej oraz szkoleniowej w zakresie rozwiązywania problemów narkomanii, w szczególności dla dzieci i młodzieży, w tym prowadzenie zajęć sportowo-rekreacyjnych dla uczniów, a także działań na rzecz dożywiania dzieci uczestniczących wpozalekcyjnych programach opiekuńczo-wychowawczych i socjoterapeutycznych;
+- **4)** wspomaganie działań instytucji, organizacji pozarządowych i osób fizycznych, służących rozwiązywaniu problemów narkomanii;
+- **5)** pomoc społeczną osobom uzależnionym i rodzinom osób uzależnionych dotkniętym ubóstwem iwykluczeniem społecznym iintegrowanie ze środowiskiem lokalnym tych osób z wykorzystaniem pracy socjalnej i kontraktu socjalnego.
 
-2. Wójt (burmistrz, prezydent miasta) w celu realizacji zadaƒ, októrych mowa wust. 1, opracowuje projekt Gminnego Programu Przeciwdzia∏ania Narkomanii, zwanego dalej „Gminnym Programem”, uwzgl´dniajàc zadania okreÊlone w art. 2 ust. 1 pkt 1—3 oraz kierunki dzia∏aƒ wynikajàce z Krajowego Programu. Gminny Program stanowi cz´Êç gminnej strategii rozwiàzywania problemów spo∏ecznych.
+2. Wójt (burmistrz, prezydent miasta) w celu realizacji zadań, októrych mowa wust. 1, opracowuje projekt Gminnego Programu Przeciwdziałania Narkomanii, zwanego dalej ŃGminnym Programem”, uwzględniając zadania określone w art. 2 ust. 1 pkt 1—3 oraz kierunki działań wynikające z Krajowego Programu. Gminny Program stanowi część gminnej strategii rozwiązywania problemów społecznych.
 
 3. Gminny Program uchwala rada gminy.
 
-4. Gminny Program jest realizowany przez jednostk´ wskazanà w tym programie.
+4. Gminny Program jest realizowany przez jednostkę wskazaną w tym programie.
 
-5. Wcelu realizacji zadaƒ, októrych mowa wust. 1 pkt 5, wójt (burmistrz, prezydent miasta) mo˝e powo∏aç pe∏nomocnika.
+5. Wcelu realizacji zadań, októrych mowa wust. 1 pkt 5, wójt (burmistrz, prezydent miasta) może powołać pełnomocnika.
 
 **Art. 11.**
 
-1. Organ wykonawczy samorzàdu województwa i gminy sporzàdza raport z wykonania w danym roku Wojewódzkiego Programu iGminnego Programu i efektów ich realizacji, który przedk∏ada odpowiednio sejmikowi województwa lub radzie gminy, w terminie do dnia 31 marca roku nast´pujàcego po roku, którego dotyczy raport.
+1. Organ wykonawczy samorządu województwa i gminy sporządza raport z wykonania w danym roku Wojewódzkiego Programu iGminnego Programu i efektów ich realizacji, który przedkłada odpowiednio sejmikowi województwa lub radzie gminy, w terminie do dnia 31 marca roku następującego po roku, którego dotyczy raport.
 
-2. Organ wykonawczy samorzàdu województwa i gminy sporzàdza, na podstawie opracowanej przez
+2. Organ wykonawczy samorządu województwa i gminy sporządza, na podstawie opracowanej przez
 
 **Art. 13.**
 
-1. Cz∏onków Rady powo∏uje i odwo∏uje Prezes Rady Ministrów.
+1. Członków Rady powołuje i odwołuje Prezes Rady Ministrów.
 
-2. W sk∏ad Rady wchodzà:
+2. W skład Rady wchodzą:
 
-- **1)** przewodniczàcy sekretarz lub podsekretarz stanu w urz´dzie obs∏ugujàcym ministra w∏aÊciwego do spraw zdrowia;
-- **2)** zast´pca przewodniczàcego sekretarz lub podsekretarz stanu wurz´dzie obs∏ugujàcym ministra w∏aÊciwego do spraw wewn´trznych;
+- **1)** przewodniczący sekretarz lub podsekretarz stanu w urzędzie obsługującym ministra właściwego do spraw zdrowia;
+- **2)** zastępca przewodniczącego sekretarz lub podsekretarz stanu wurzędzie obsługującym ministra właściwego do spraw wewnętrznych;
 - **3)** sekretarz Dyrektor Biura;
-- **4)** cz∏onkowie sekretarze lub podsekretarze stanu w urz´dach obs∏ugujàcych ministrów:
-    - **a)** SprawiedliwoÊci,
-    - **b)** w∏aÊciwego do spraw oÊwiaty i wychowania,
+- **4)** członkowie sekretarze lub podsekretarze stanu w urzędach obsługujących ministrów:
+    - **a)** Sprawiedliwości,
+    - **b)** właściwego do spraw oświaty i wychowania,
     - **c)** Obrony Narodowej,
-    - **d)** w∏aÊciwego do spraw rolnictwa,
-    - **e)** w∏aÊciwego do spraw zabezpieczenia spo∏ecznego,
-    - **f)** w∏aÊciwego do spraw finansów publicznych Szef S∏u˝by Celnej,
-    - **g)** w∏aÊciwego do spraw zagranicznych,
-    - **h)** w∏aÊciwego do spraw nauki;
+    - **d)** właściwego do spraw rolnictwa,
+    - **e)** właściwego do spraw zabezpieczenia społecznego,
+    - **f)** właściwego do spraw finansów publicznych Szef Służby Celnej,
+    - **g)** właściwego do spraw zagranicznych,
+    - **h)** właściwego do spraw nauki;
 
-- **5)** cz∏onek przedstawiciel strony samorzàdowej wKomisji Wspólnej Rzàdu iSamorzàdu Terytorialnego, przez nià wskazany.
+- **5)** członek przedstawiciel strony samorządowej wKomisji Wspólnej Rządu iSamorządu Terytorialnego, przez nią wskazany.
 
-3. Posiedzenia Rady zwo∏ywane sà co najmniej 2 razy w roku.
+3. Posiedzenia Rady zwoływane są co najmniej 2 razy w roku.
 
 **Art. 14.**
 
-1. Prezes Rady Ministrów odwo∏uje cz∏onka Rady z powodu:
+1. Prezes Rady Ministrów odwołuje członka Rady z powodu:
 
-- **1)** z∏o˝enia rezygnacji;
-- **2)** nieuczestniczenia w pracach Rady; Biuro ankiety, informacj´ zrealizacji dzia∏aƒ podejmowanych w danym roku, wynikajàcych z Wojewódzkiego iGminnego Programu, iprzesy∏a jà do Biura, wterminie do dnia 15 kwietnia roku nast´pujàcego po roku, którego dotyczy informacja.
+- **1)** złożenia rezygnacji;
+- **2)** nieuczestniczenia w pracach Rady; Biuro ankiety, informację zrealizacji działań podejmowanych w danym roku, wynikających z Wojewódzkiego iGminnego Programu, iprzesyła ją do Biura, wterminie do dnia 15 kwietnia roku następującego po roku, którego dotyczy informacja.
 
 **Art. 12.**
 
-1. Tworzy si´ Rad´ do Spraw Przeciwdzia∏ania Narkomanii, zwanà dalej „Radà”.
+1. Tworzy się Radę do Spraw Przeciwdziałania Narkomanii, zwaną dalej ŃRadą”.
 
-2. Rada dzia∏a przy Prezesie Rady Ministrów.
+2. Rada działa przy Prezesie Rady Ministrów.
 
-3. Rada jest organem koordynacyjno-doradczym w sprawach z zakresu przeciwdzia∏ania narkomanii.
+3. Rada jest organem koordynacyjno-doradczym w sprawach z zakresu przeciwdziałania narkomanii.
 
-4. Prezes Rady Ministrów okreÊli, w drodze zarzàdzenia, statut Rady, uwzgl´dniajàc szczegó∏owe warunki i tryb jej dzia∏ania, w tym sposób dzia∏ania zespo∏ów roboczych, o których mowa w art. 17.
+4. Prezes Rady Ministrów określi, w drodze zarządzenia, statut Rady, uwzględniając szczegółowe warunki i tryb jej działania, w tym sposób działania zespołów roboczych, o których mowa w art. 17.
 
-- **3)** z∏o˝enia wniosku ojego odwo∏anie przez podmiot, którego osoba ta jest przedstawicielem;
-- **4)** skazania prawomocnym wyrokiem za umyÊlne przest´pstwo albo umyÊlne przest´pstwo skarbowe.
+- **3)** złożenia wniosku ojego odwołanie przez podmiot, którego osoba ta jest przedstawicielem;
+- **4)** skazania prawomocnym wyrokiem za umyślne przestępstwo albo umyślne przestępstwo skarbowe.
 
-2. W przypadku odwo∏ania albo Êmierci cz∏onka Rady w∏aÊciwy podmiot przedstawia wniosek opowo∏anie innego przedstawiciela na cz∏onka Rady.
+2. W przypadku odwołania albo śmierci członka Rady właściwy podmiot przedstawia wniosek opowołanie innego przedstawiciela na członka Rady.
 
-**Art. 15.** Do zadaƒ Rady nale˝y w szczególnoÊci:
+**Art. 15.** Do zadań Rady należy w szczególności:
 
 **Art. 16.**
 
-1. Do udzia∏u w posiedzeniach Rady przewodniczàcy Rady mo˝e zapraszaç specjalistów zajmujàcych si´ problematykà przeciwdzia∏ania narkomanii.
+1. Do udziału w posiedzeniach Rady przewodniczący Rady może zapraszać specjalistów zajmujących się problematyką przeciwdziałania narkomanii.
 
-2. Rada wydaje opinie iprzedstawia wnioski wformie uchwa∏ podejmowanych wi´kszoÊcià g∏osów.
+2. Rada wydaje opinie iprzedstawia wnioski wformie uchwał podejmowanych większością głosów.
 
-**Art. 17.** W celu wykonywania zadaƒ Rady, przewodniczàcy Rady mo˝e powo∏ywaç zespo∏y robocze, w sk∏ad których wchodzà cz∏onkowie Rady lub inne osoby, w szczególnoÊci specjaliÊci zajmujàcy si´ problematykà przeciwdzia∏ania narkomanii.
+**Art. 17.** W celu wykonywania zadań Rady, przewodniczący Rady może powoływać zespoły robocze, w skład których wchodzą członkowie Rady lub inne osoby, w szczególności specjaliści zajmujący się problematyką przeciwdziałania narkomanii.
 
 **Art. 18.**
 
-1. Za udzia∏ w pracach Rady cz∏onkom Rady nie przys∏uguje wynagrodzenie.
+1. Za udział w pracach Rady członkom Rady nie przysługuje wynagrodzenie.
 
-2. Cz∏onkom Rady przys∏uguje zwrot kosztów podró˝y na zasadach okreÊlonych w przepisach wydanych na podstawie art. 77 go osób zajmujàcych si´ wychowaniem oraz profilaktykà w szko∏ach i innych placówkach systemu oÊwiaty oraz w szko∏ach wy˝szych;
+2. Członkom Rady przysługuje zwrot kosztów podróży na zasadach określonych w przepisach wydanych na podstawie art. 77 go osób zajmujących się wychowaniem oraz profilaktyką w szkołach i innych placówkach systemu oświaty oraz w szkołach wyższych;
 
-- **3)** wprowadzanie problematyki zapobiegania narkomanii do programów szkolenia ˝o∏nierzy zasadniczej s∏u˝by wojskowej, kandydatów na ˝o∏nierzy zawodowych oraz ˝o∏nierzy zawodowych;
-- **4)** prowadzenie dzia∏alnoÊci zapobiegawczej, wszczególnoÊci w Êrodowiskach zagro˝onych uzale˝nieniem;
-- **5)** wspieranie dzia∏aƒ ogólnokrajowych i lokalnych organizacji, októrych mowa wart. 5 ust. 3, oraz innych inicjatyw spo∏ecznych;
-- **6)** uwzgl´dnianie problematyki zapobiegania narkomanii w dzia∏alnoÊci publicznej radiofonii i telewizji oraz innych Êrodków masowego przekazu;
-- **7)** prowadzenie badaƒ naukowych nad problematykà narkomanii. § 2 Kodeksu pracy. Rozdzia∏ 3 Dzia∏alnoÊç wychowawcza, edukacyjna, informacyjna i zapobiegawcza
+- **3)** wprowadzanie problematyki zapobiegania narkomanii do programów szkolenia żołnierzy zasadniczej służby wojskowej, kandydatów na żołnierzy zawodowych oraz żołnierzy zawodowych;
+- **4)** prowadzenie działalności zapobiegawczej, wszczególności w środowiskach zagrożonych uzależnieniem;
+- **5)** wspieranie działań ogólnokrajowych i lokalnych organizacji, októrych mowa wart. 5 ust. 3, oraz innych inicjatyw społecznych;
+- **6)** uwzględnianie problematyki zapobiegania narkomanii w działalności publicznej radiofonii i telewizji oraz innych środków masowego przekazu;
+- **7)** prowadzenie badań naukowych nad problematyką narkomanii. § 2 Kodeksu pracy.
+
+#### Rozdział 3 Działalność wychowawcza, edukacyjna, informacyjna i zapobiegawcza
 
 **Art. 19.**
 
-1. Dzia∏alnoÊç wychowawcza, edukacyjna, informacyjna i zapobiegawcza obejmuje:
+1. Działalność wychowawcza, edukacyjna, informacyjna i zapobiegawcza obejmuje:
 
-- **1)** promocj´ zdrowia psychicznego;
-- **2)** promocj´ zdrowego stylu ˝ycia;
-- **3)** informowanie o szkodliwoÊci Êrodków i substancji, których u˝ywanie mo˝e prowadziç do narkomanii, oraz o narkomanii i jej skutkach;
-- **4)** edukacj´ psychologicznà i spo∏ecznà;
-- **5)** edukacj´ prawnà;
-- **6)** dzia∏ania interwencyjne.
+- **1)** promocję zdrowia psychicznego;
+- **2)** promocję zdrowego stylu życia;
+- **3)** informowanie o szkodliwości środków i substancji, których używanie może prowadzić do narkomanii, oraz o narkomanii i jej skutkach;
+- **4)** edukację psychologiczną i społeczną;
+- **5)** edukację prawną;
+- **6)** działania interwencyjne.
 
-2. Dzia∏alnoÊç, o której mowa w ust. 1, obejmuje w szczególnoÊci:
+2. Działalność, o której mowa w ust. 1, obejmuje w szczególności:
 
-- **1)** wprowadzanie problematyki zapobiegania narkomanii do programów wychowawczych jednostek organizacyjnych systemu oÊwiaty;
-- **2)** wprowadzanie problematyki zapobiegania narkomanii do programów przygotowania zawodowe3. Szczegó∏owe zadania z zakresu dzia∏alnoÊci wychowawczej, edukacyjnej, informacyjnej i zapobiegawczej okreÊla Krajowy Program.
+- **1)** wprowadzanie problematyki zapobiegania narkomanii do programów wychowawczych jednostek organizacyjnych systemu oświaty;
+- **2)** wprowadzanie problematyki zapobiegania narkomanii do programów przygotowania zawodowe3. Szczegółowe zadania z zakresu działalności wychowawczej, edukacyjnej, informacyjnej i zapobiegawczej określa Krajowy Program.
 
 **Art. 20.**
 
-1. Zabrania si´ reklamy i promocji substancji psychotropowych lub Êrodków odurzajàcych.
+1. Zabrania się reklamy i promocji substancji psychotropowych lub środków odurzających.
 
-2. Produkty lecznicze zawierajàce substancje psychotropowe lub Êrodki odurzajàce mogà byç reklamowane na zasadach okreÊlonych w ustawie z dnia 6 wrzeÊnia 2001 r. Prawo farmaceutyczne.
+2. Produkty lecznicze zawierające substancje psychotropowe lub środki odurzające mogą być reklamowane na zasadach określonych w ustawie z dnia 6 września 2001 r. Prawo farmaceutyczne.
 
 **Art. 21.**
 
-1. Minister w∏aÊciwy do spraw oÊwiaty i wychowania uwzgl´dni w podstawie programowej kszta∏cenia ogólnego problematyk´ promocji zdrowia psychicznego i zdrowego stylu ˝ycia, ze szczególnym uwzgl´dnieniem zagadnieƒ dotyczàcych zapobiegania narkomanii.
+1. Minister właściwy do spraw oświaty i wychowania uwzględni w podstawie programowej kształcenia ogólnego problematykę promocji zdrowia psychicznego i zdrowego stylu życia, ze szczególnym uwzględnieniem zagadnień dotyczących zapobiegania narkomanii.
 
-2. Minister w∏aÊciwy do spraw oÊwiaty iwychowania wporozumieniu zministrem w∏aÊciwym do spraw zdrowia podejmie dzia∏ania na rzecz uwzgl´dnienia problematyki promocji zdrowia psychicznego i zdrowego stylu ˝ycia, wtym zagadnieƒ dotyczàcych zapobiegania narkomanii w programach przygotowania zawodowego nauczycieli i osób zajmujàcych si´ wychowaniem i nauczaniem dzieci i m∏odzie˝y w szko∏ach i innych placówkach systemu oÊwiaty.
+2. Minister właściwy do spraw oświaty iwychowania wporozumieniu zministrem właściwym do spraw zdrowia podejmie działania na rzecz uwzględnienia problematyki promocji zdrowia psychicznego i zdrowego stylu życia, wtym zagadnień dotyczących zapobiegania narkomanii w programach przygotowania zawodowego nauczycieli i osób zajmujących się wychowaniem i nauczaniem dzieci i młodzieży w szkołach i innych placówkach systemu oświaty.
 
 **Art. 22.**
 
-1. Ministrowie w∏aÊciwi do spraw oÊwiaty i wychowania, zdrowia, kultury i ochrony dziedzictwa narodowego, rolnictwa, spraw wewn´trznych, administracji publicznej, transportu, Minister Obrony Narodowej i Minister SprawiedliwoÊci, ka˝dy w zakresie swojego dzia∏ania, sà obowiàzani rozwijaç i popieraç dzia∏alnoÊç edukacyjnà oraz zapobiegawczà podejmowanà w celu informowania spo∏eczeƒstwa o szkodliwoÊci narkomanii.
+1. Ministrowie właściwi do spraw oświaty i wychowania, zdrowia, kultury i ochrony dziedzictwa narodowego, rolnictwa, spraw wewnętrznych, administracji publicznej, transportu, Minister Obrony Narodowej i Minister Sprawiedliwości, każdy w zakresie swojego działania, są obowiązani rozwijać i popierać działalność edukacyjną oraz zapobiegawczą podejmowaną w celu informowania społeczeństwa o szkodliwości narkomanii.
 
-2. Organy wymienione w ust. 1 sà obowiàzane prowadziç dzia∏alnoÊç wychowawczà, edukacyjnà, informacyjnà i zapobiegawczà polegajàcà na:
+2. Organy wymienione w ust. 1 są obowiązane prowadzić działalność wychowawczą, edukacyjną, informacyjną i zapobiegawczą polegającą na:
 
-- **1)** promocji zdrowego stylu ˝ycia;
-- **2)** wspieraniu dzia∏aƒ ogólnokrajowych i lokalnych organizacji, októrych mowa wart. 5 ust. 3, oraz innych inicjatyw spo∏ecznych.
+- **1)** promocji zdrowego stylu życia;
+- **2)** wspieraniu działań ogólnokrajowych i lokalnych organizacji, októrych mowa wart. 5 ust. 3, oraz innych inicjatyw społecznych.
 
-3. Minister w∏aÊciwy do spraw oÊwiaty iwychowania wporozumieniu zministrem w∏aÊciwym do spraw zdrowia okreÊli, w drodze rozporzàdzenia, formy dzia∏alnoÊci wychowawczej, edukacyjnej, informacyjnej i zapobiegawczej wÊród dzieci i m∏odzie˝y zagro˝onych uzale˝nieniem, majàc na wzgl´dzie dobro dzieci i m∏odzie˝y.
+3. Minister właściwy do spraw oświaty iwychowania wporozumieniu zministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, formy działalności wychowawczej, edukacyjnej, informacyjnej i zapobiegawczej wśród dzieci i młodzieży zagrożonych uzależnieniem, mając na względzie dobro dzieci i młodzieży.
 
 **Art. 23.**
 
-1. Ministrowie w∏aÊciwi do spraw zdrowia, szkolnictwa wy˝szego, finansów publicznych, spraw wewn´trznych, administracji publicznej, transportu, pracy, nauki i Minister SprawiedliwoÊci stwarzajà warunki do prowadzenia badaƒ naukowych nad problematykà narkomanii oraz badaƒ statystycznych iepidemiologicznych.
+1. Ministrowie właściwi do spraw zdrowia, szkolnictwa wyższego, finansów publicznych, spraw wewnętrznych, administracji publicznej, transportu, pracy, nauki i Minister Sprawiedliwości stwarzają warunki do prowadzenia badań naukowych nad problematyką narkomanii oraz badań statystycznych iepidemiologicznych.
 
-2. Jednostki naukowe realizujàce zadania w zakresie prowadzenia badaƒ naukowych nad problematykà narkomanii, je˝eli jest to niezb´dne dla prowadzenia takich badaƒ, mogà posiadaç, przechowywaç oraz dokonywaç zakupu Êrodków odurzajàcych, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1.
+2. Jednostki naukowe realizujące zadania w zakresie prowadzenia badań naukowych nad problematyką narkomanii, jeżeli jest to niezbędne dla prowadzenia takich badań, mogą posiadać, przechowywać oraz dokonywać zakupu środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1.
 
-3. Jednostki naukowe, októrych mowa wust. 2, sà obowiàzane:
+3. Jednostki naukowe, októrych mowa wust. 2, są obowiązane:
 
-- **1)** dokonywaç zakupu Êrodków odurzajàcych, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 whurtowni farmaceutycznej na podstawie zapotrzebowania;
-- **2)** prowadziç ewidencj´ posiadanych Êrodków odurzajàcych, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1;
-- **3)** przechowywaç posiadane Êrodki odurzajàce, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 w sposób zabezpieczajàcy przed kradzie˝à lub zniszczeniem.
+- **1)** dokonywać zakupu środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 whurtowni farmaceutycznej na podstawie zapotrzebowania;
+- **2)** prowadzić ewidencję posiadanych środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1;
+- **3)** przechowywać posiadane środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 w sposób zabezpieczający przed kradzieżą lub zniszczeniem.
 
-4. Minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrami w∏aÊciwymi do spraw wewn´trznych, nauki, finansów publicznych oraz szkolnictwa wy˝szego okreÊli, w drodze rozporzàdzenia, sposób post´powania w jednostkach naukowych, o których mowa wust. 2, ze Êrodkami odurzajàcymi, substancjami psychotropowymi lub ich preparatami oraz prekursorami kategorii 1, uwzgl´dniajàc koniecznoÊç uniemo˝liwienia dost´pu osób trzecich do tych Êrodków i substancji.
+4. Minister właściwy do spraw zdrowia w porozumieniu z ministrami właściwymi do spraw wewnętrznych, nauki, finansów publicznych oraz szkolnictwa wyższego określi, w drodze rozporządzenia, sposób postępowania w jednostkach naukowych, o których mowa wust. 2, ze środkami odurzającymi, substancjami psychotropowymi lub ich preparatami oraz prekursorami kategorii 1, uwzględniając konieczność uniemożliwienia dostępu osób trzecich do tych środków i substancji.
 
 **Art. 24.**
 
-1. Ministrowie w∏aÊciwi do spraw zdrowia, oÊwiaty i wychowania, spraw wewn´trznych, administracji publicznej, finansów publicznych, transportu, pracy oraz Minister Obrony Narodowej i Minister SprawiedliwoÊci zapewniajà przygotowanie niezb´ddaç, przechowywaç oraz nabywaç Êrodki odurzajàce, substancje psychotropowe i ich preparaty oraz prekursory kategorii 1 w iloÊci niezb´dnej do prowadzenia tego szkolenia.
+1. Ministrowie właściwi do spraw zdrowia, oświaty i wychowania, spraw wewnętrznych, administracji publicznej, finansów publicznych, transportu, pracy oraz Minister Obrony Narodowej i Minister Sprawiedliwości zapewniają przygotowanie niezbęddać, przechowywać oraz nabywać środki odurzające, substancje psychotropowe i ich preparaty oraz prekursory kategorii 1 w ilości niezbędnej do prowadzenia tego szkolenia.
 
-3. Jednostki organizacyjne administracji rzàdowej oraz ˚andarmerii Wojskowej wykonujàce czynnoÊci operacyjno-rozpoznawcze mogà wchodziç wposiadanie Êrodków odurzajàcych, substancji psychotropowych i ich preparatów oraz prekursorów kategorii 1 w iloÊci niezb´dnej do przeprowadzenia badaƒ potwierdzajàcych pope∏nienie przest´pstwa.
+3. Jednostki organizacyjne administracji rządowej oraz ˚andarmerii Wojskowej wykonujące czynności operacyjno-rozpoznawcze mogą wchodzić wposiadanie środków odurzających, substancji psychotropowych i ich preparatów oraz prekursorów kategorii 1 w ilości niezbędnej do przeprowadzenia badań potwierdzających popełnienie przestępstwa.
 
-4. Jednostki naukowe lub inne podmioty prowadzàce badania z wykorzystaniem Êrodków odurzajàcych, substancji psychotropowych i ich preparatów oraz prekursorów kategorii 1 celem ich identyfikacji ipotwierdzenia pope∏nienia przest´pstwa mogà je posiadaç, przechowywaç oraz dokonywaç zakupu w iloÊci niezb´dnej do przeprowadzenia tych badaƒ.
+4. Jednostki naukowe lub inne podmioty prowadzące badania z wykorzystaniem środków odurzających, substancji psychotropowych i ich preparatów oraz prekursorów kategorii 1 celem ich identyfikacji ipotwierdzenia popełnienia przestępstwa mogą je posiadać, przechowywać oraz dokonywać zakupu w ilości niezbędnej do przeprowadzenia tych badań.
 
-5. Jednostki ipodmioty, októrych mowa wust. 2—4, sà obowiàzane:
+5. Jednostki ipodmioty, októrych mowa wust. 2—4, są obowiązane:
 
-- **1)** nabywaç Êrodki odurzajàce, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 w hurtowni farmaceutycznej na podstawie zapotrzebowania;
-- **2)** prowadziç ewidencj´ posiadanych Êrodków odurzajàcych, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1;
-- **3)** przechowywaç i u˝ywaç do celów szkoleniowych posiadane Êrodki odurzajàce, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 wsposób zabezpieczajàcy przed kradzie˝à lub zniszczeniem;
-- **4)** niszczyç Êrodki odurzajàce, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 w sposób uniemo˝liwiajàcy dost´p osób nieupowa˝nionych do tych Êrodków i substancji.
+- **1)** nabywać środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 w hurtowni farmaceutycznej na podstawie zapotrzebowania;
+- **2)** prowadzić ewidencję posiadanych środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1;
+- **3)** przechowywać i używać do celów szkoleniowych posiadane środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 wsposób zabezpieczający przed kradzieżą lub zniszczeniem;
+- **4)** niszczyć środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 w sposób uniemożliwiający dostęp osób nieupoważnionych do tych środków i substancji.
 
-6. Minister w∏aÊciwy do spraw zdrowia w porozumieniu z ministrami w∏aÊciwymi do spraw wewn´trznych, finansów publicznych, szkolnictwa wy˝szego i Ministrem SprawiedliwoÊci okreÊli, w drodze rozporzàdzenia, szczegó∏owy tryb oraz warunki nabywania i wchodzenia w posiadanie, przechowywania oraz u˝ywania do celów szkoleniowych Êrodków odurzajàcych, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 przez jednostki lub podmioty, o których mowa w ust. 2—4, a tak˝e warunki przechowywania Êrodków odurzajàcych, substancji psychotropowych, ich preparatów iprekursorów kategorii 1 oraz sposób ich niszczenia przez jednostki lub podmioty, októrych mowa wust. 2—4, uwzgl´dniajàc zabezpieczenie tych substancji przed dost´pem osób trzecich. nej liczby osób do realizacji zadaƒ, o których mowa Rozdzia∏ 4 w art. 2 ust. 1. Post´powanie z osobami uzale˝nionymi
+6. Minister właściwy do spraw zdrowia w porozumieniu z ministrami właściwymi do spraw wewnętrznych, finansów publicznych, szkolnictwa wyższego i Ministrem Sprawiedliwości określi, w drodze rozporządzenia, szczegółowy tryb oraz warunki nabywania i wchodzenia w posiadanie, przechowywania oraz używania do celów szkoleniowych środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 przez jednostki lub podmioty, o których mowa w ust. 2—4, a także warunki przechowywania środków odurzających, substancji psychotropowych, ich preparatów iprekursorów kategorii 1 oraz sposób ich niszczenia przez jednostki lub podmioty, októrych mowa wust. 2—4, uwzględniając zabezpieczenie tych substancji przed dostępem osób trzecich. nej liczby osób do realizacji zadań, o których mowa Rozdział 4 w art. 2 ust. 1. Postępowanie z osobami uzależnionymi
 
-2. Jednostki organizacyjne administracji rzàdowej, jednostki organizacyjne S∏u˝by Wi´ziennej, ˚andar- Art. 25. Podj´cie leczenia, rehabilitacji lub reintemerii Wojskowej oraz szkó∏ wy˝szych prowadzàce gracji osób uzale˝nionych jest dobrowolne, je˝eli szkolenie osób, októrych mowa wust. 1, mogà posia- przepisy ustawy nie stanowià inaczej.
+2. Jednostki organizacyjne administracji rządowej, jednostki organizacyjne Służby Więziennej, ˚andar- Art. 25. Podjęcie leczenia, rehabilitacji lub reintemerii Wojskowej oraz szkół wyższych prowadzące gracji osób uzależnionych jest dobrowolne, jeżeli szkolenie osób, októrych mowa wust. 1, mogą posia- przepisy ustawy nie stanowią inaczej.
 
 **Art. 26.**
 
-1. Leczenie osoby uzale˝nionej prowadzi zak∏ad opieki zdrowotnej lub lekarz wykonujàcy praktyk´ lekarskà, w tym w ramach grupowej praktyki lekarskiej.
+1. Leczenie osoby uzależnionej prowadzi zakład opieki zdrowotnej lub lekarz wykonujący praktykę lekarską, w tym w ramach grupowej praktyki lekarskiej.
 
-2. Rehabilitacj´ osoby uzale˝nionej mogà prowadziç:
+2. Rehabilitację osoby uzależnionej mogą prowadzić:
 
-- **1)** lekarz posiadajàcy specjalizacj´ w dziedzinie psychiatrii;
-- **2)** osoba posiadajàca certyfikat specjalisty terapii uzale˝nieƒ.
+- **1)** lekarz posiadający specjalizację w dziedzinie psychiatrii;
+- **2)** osoba posiadająca certyfikat specjalisty terapii uzależnień.
 
-3. W rehabilitacji osoby uzale˝nionej mo˝e uczestniczyç osoba posiadajàca certyfikat instruktora terapii uzale˝nieƒ.
+3. W rehabilitacji osoby uzależnionej może uczestniczyć osoba posiadająca certyfikat instruktora terapii uzależnień.
 
-4. Reintegracj´ osób uzale˝nionych mogà prowadziç centra integracji spo∏ecznej, tworzone na podstawie przepisów o zatrudnieniu socjalnym, oraz podmioty wymienione w ust. 1 i 2 oraz w art. 5 ust. 3.
+4. Reintegrację osób uzależnionych mogą prowadzić centra integracji społecznej, tworzone na podstawie przepisów o zatrudnieniu socjalnym, oraz podmioty wymienione w ust. 1 i 2 oraz w art. 5 ust. 3.
 
-5. Za Êwiadczenia, o których mowa w ust. 1—4, udzielane osobie uzale˝nionej niezale˝nie od jej miejsca zamieszkania w kraju nie pobiera si´ od tej osoby op∏at.
+5. Za świadczenia, o których mowa w ust. 1—4, udzielane osobie uzależnionej niezależnie od jej miejsca zamieszkania w kraju nie pobiera się od tej osoby opłat.
 
 **Art. 27.**
 
-1. Certyfikaty, o których mowa w art. 26 ust. 2 i3, sà wydawane osobom, które ukoƒczy∏y szkolenie w dziedzinie uzale˝nienia, zgodne z programem wybieranym w drodze konkursu przeprowadzanego przez Biuro co najmniej raz w roku kalendarzowym.
+1. Certyfikaty, o których mowa w art. 26 ust. 2 i3, są wydawane osobom, które ukończyły szkolenie w dziedzinie uzależnienia, zgodne z programem wybieranym w drodze konkursu przeprowadzanego przez Biuro co najmniej raz w roku kalendarzowym.
 
-2. Oferty konkursowe, sk∏adane do Biura, zawierajà nast´pujàce dane:
+2. Oferty konkursowe, składane do Biura, zawierają następujące dane:
 
-- **1)** imi´ i nazwisko oraz miejsce zamieszkania i adres albo nazw´ (firm´), siedzib´ i adres siedziby oferenta;
-- **2)** form´ organizacyjno-prawnà oferenta;
-- **3)** numer wpisu oferenta do rejestru przedsi´biorców, ewidencji dzia∏alnoÊci gospodarczej albo innego w∏aÊciwego rejestru;
+- **1)** imię i nazwisko oraz miejsce zamieszkania i adres albo nazwę (firmę), siedzibę i adres siedziby oferenta;
+- **2)** formę organizacyjno-prawną oferenta;
+- **3)** numer wpisu oferenta do rejestru przedsiębiorców, ewidencji działalności gospodarczej albo innego właściwego rejestru;
 - **4)** miejsce prowadzenia szkolenia;
-- **5)** planowane terminy rozpocz´cia i zakoƒczenia szkolenia;
+- **5)** planowane terminy rozpoczęcia i zakończenia szkolenia;
 - **6)** program szkolenia.
 
-3. Podmiot prowadzàcy szkolenie jest obowiàzany zapewniaç:
+3. Podmiot prowadzący szkolenie jest obowiązany zapewniać:
 
-- **1)** kadr´ dydaktycznà o kwalifikacjach odpowiednich dla w∏aÊciwego przeprowadzenia szkolenia;
+- **1)** kadrę dydaktyczną o kwalifikacjach odpowiednich dla właściwego przeprowadzenia szkolenia;
 
-4. Oferty rozpatruje komisja konkursowa wy∏oniona przez dyrektora Biura.
+4. Oferty rozpatruje komisja konkursowa wyłoniona przez dyrektora Biura.
 
-5. Szkolenie, o którym mowa w ust. 1, koƒczy si´ egzaminem organizowanym przez Biuro co najmniej dwa razy w roku.
+5. Szkolenie, o którym mowa w ust. 1, kończy się egzaminem organizowanym przez Biuro co najmniej dwa razy w roku.
 
-6. Egzamin koƒcowy sk∏ada si´ z cz´Êci pisemnej i ustnej.
+6. Egzamin końcowy składa się z części pisemnej i ustnej.
 
-7. Certyfikat specjalisty terapii uzale˝nieƒ mo˝e otrzymaç osoba posiadajàca wy˝sze wykszta∏cenie medyczne lub wy˝sze wykszta∏cenie wdziedzinie psychologii, pedagogiki, resocjalizacji, socjologii, nauk o rodzinie lub teologii.
+7. Certyfikat specjalisty terapii uzależnień może otrzymać osoba posiadająca wyższe wykształcenie medyczne lub wyższe wykształcenie wdziedzinie psychologii, pedagogiki, resocjalizacji, socjologii, nauk o rodzinie lub teologii.
 
-8. Certyfikat instruktora terapii uzale˝nieƒ mo˝e otrzymaç osoba posiadajàca wykszta∏cenie co najmniej Êrednie.
+8. Certyfikat instruktora terapii uzależnień może otrzymać osoba posiadająca wykształcenie co najmniej średnie.
 
-9. Osoby, które ukoƒczy∏y szkolenie, októrym mowa w ust. 1, i uzyska∏y certyfikat instruktora terapii uzale˝nieƒ oraz w terminie 3 lat od ukoƒczenia tego szkolenia uzyska∏y tytu∏ magistra wdziedzinie majàcej zastosowanie w ochronie zdrowia lub ukoƒczy∏y wy˝szà szko∏´ medycznà, mogà przystàpiç do egzaminu w zakresie specjalisty terapii uzale˝nieƒ bez koniecznoÊci uczestniczenia w szkoleniu.
+9. Osoby, które ukończyły szkolenie, októrym mowa w ust. 1, i uzyskały certyfikat instruktora terapii uzależnień oraz w terminie 3 lat od ukończenia tego szkolenia uzyskały tytuł magistra wdziedzinie mającej zastosowanie w ochronie zdrowia lub ukończyły wyższą szkołę medyczną, mogą przystąpić do egzaminu w zakresie specjalisty terapii uzależnień bez konieczności uczestniczenia w szkoleniu.
 
 10. Koszty szkolenia, o którym mowa w ust. 1, egzaminu oraz wydania certyfikatu ponosi uczestnik tego szkolenia.
 
-11. Biuro prowadzi ewidencj´ wydawanych certyfikatów.
+11. Biuro prowadzi ewidencję wydawanych certyfikatów.
 
-12. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, tryb sk∏adania ofert, kryteria ich oceny oraz terminy post´powania konkursowego, o którym mowa w ust. 1, uwzgl´dniajàc koniecznoÊç zapewnienia najwy˝szego poziomu szkolenia.
+12. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, tryb składania ofert, kryteria ich oceny oraz terminy postępowania konkursowego, o którym mowa w ust. 1, uwzględniając konieczność zapewnienia najwyższego poziomu szkolenia.
 
-13. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia:
+13. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** wymagania, jakie powinny spe∏niaç podmioty prowadzàce szkolenia w dziedzinie uzale˝nieƒ,
-- **2)** ramowe programy szkoleƒ w dziedzinie uzale˝nieƒ,
+- **1)** wymagania, jakie powinny spełniać podmioty prowadzące szkolenia w dziedzinie uzależnień,
+- **2)** ramowe programy szkoleń w dziedzinie uzależnień,
 - **3)** tryb i sposób przeprowadzania egzaminu,
-- **4)** sk∏ad komisji egzaminacyjnej przeprowadzajàcej egzamin,
-- **2)** odpowiednià do realizacji programu kszta∏cenia baz´ dydaktycznà;
-- **3)** posiadanie wewn´trznego systemu oceny jakoÊci kszta∏cenia, uwzgl´dniajàcego narz´dzia oceny jakoÊci kszta∏cenia oraz metody tej oceny.
-- **5)** wzory certyfikatów: instruktora terapii uzale˝nieƒ i specjalisty terapii uzale˝nieƒ uwzgl´dniajàc koniecznoÊç zapewnienia najwy˝szego poziomu szkolenia oraz jego rodzaj.
+- **4)** skład komisji egzaminacyjnej przeprowadzającej egzamin,
+- **2)** odpowiednią do realizacji programu kształcenia bazę dydaktyczną;
+- **3)** posiadanie wewnętrznego systemu oceny jakości kształcenia, uwzględniającego narzędzia oceny jakości kształcenia oraz metody tej oceny.
+- **5)** wzory certyfikatów: instruktora terapii uzależnień i specjalisty terapii uzależnień uwzględniając konieczność zapewnienia najwyższego poziomu szkolenia oraz jego rodzaj.
 
 **Art. 28.**
 
-1. Osoba uzale˝niona mo˝e byç leczona przy zastosowaniu leczenia substytucyjnego.
+1. Osoba uzależniona może być leczona przy zastosowaniu leczenia substytucyjnego.
 
-2. Leczenie substytucyjne mo˝e prowadziç zak∏ad opieki zdrowotnej po uzyskaniu zezwolenia wojewody, wydanego po uzyskaniu pozytywnej opinii dyrektora Biura odnoÊnie do spe∏niania wymagaƒ okreÊlonych w przepisach wydanych na podstawie ust. 7.
+2. Leczenie substytucyjne może prowadzić zakład opieki zdrowotnej po uzyskaniu zezwolenia wojewody, wydanego po uzyskaniu pozytywnej opinii dyrektora Biura odnośnie do spełniania wymagań określonych w przepisach wydanych na podstawie ust. 7.
 
-3. Zezwolenie na leczenie substytucyjne w zak∏adach opieki zdrowotnej dla osób pozbawionych wolnoÊci wydaje Dyrektor Generalny S∏u˝by Wi´ziennej po zasi´gni´ciu opinii dyrektora Biura.
+3. Zezwolenie na leczenie substytucyjne w zakładach opieki zdrowotnej dla osób pozbawionych wolności wydaje Dyrektor Generalny Służby Więziennej po zasięgnięciu opinii dyrektora Biura.
 
-4. Zezwolenie na leczenie substytucyjne mo˝e otrzymaç zak∏ad opieki zdrowotnej, który posiada:
+4. Zezwolenie na leczenie substytucyjne może otrzymać zakład opieki zdrowotnej, który posiada:
 
-- **1)** aptek´ szpitalnà lub zawar∏ umow´ z aptekà w zakresie zaopatrzenia w Êrodek substytucyjny;
+- **1)** aptekę szpitalną lub zawarł umowę z apteką w zakresie zaopatrzenia w środek substytucyjny;
 - **2)** pomieszczenia przystosowane do:
-    - **a)** wydawania Êrodka substytucyjnego,
+    - **a)** wydawania środka substytucyjnego,
     - **b)** prowadzenia terapii grupowej,
     - **c)** pracy lekarza, terapeuty ipracownika socjalnego,
     - **d)** pobierania próbek do analizy,
-    - **e)** przechowywania iprzygotowania Êrodków substytucyjnych w sposób uniemo˝liwiajàcy dost´p osób nieupowa˝nionych;
+    - **e)** przechowywania iprzygotowania środków substytucyjnych w sposób uniemożliwiający dostęp osób nieupoważnionych;
 
-- **3)** odpowiednie warunki kadrowe zapewniajàce realizacj´ programu prowadzenia leczenia ambulatoryjnego dotyczàce w szczególnoÊci kierownika programu oraz przeszkolonych w zakresie realizowanego programu piel´gniarek i pracowników pomocniczych.
+- **3)** odpowiednie warunki kadrowe zapewniające realizację programu prowadzenia leczenia ambulatoryjnego dotyczące w szczególności kierownika programu oraz przeszkolonych w zakresie realizowanego programu pielęgniarek i pracowników pomocniczych.
 
-5. Zezwolenia, októrych mowa wust. 2 i3, sà wydawane w drodze decyzji administracyjnej.
+5. Zezwolenia, októrych mowa wust. 2 i3, są wydawane w drodze decyzji administracyjnej.
 
-6. Zezwolenie na leczenie substytucyjne cofa si´, gdy zak∏ad opieki zdrowotnej przesta∏ spe∏niaç warunki stanowiàce podstaw´ wydania zezwolenia.
+6. Zezwolenie na leczenie substytucyjne cofa się, gdy zakład opieki zdrowotnej przestał spełniać warunki stanowiące podstawę wydania zezwolenia.
 
-7. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owy tryb post´powania przy leczeniu substytucyjnym oraz szczegó∏owe warunki, które powinien spe∏niaç zak∏ad opieki zdrowotnej prowadzàcy leczenie substytucyjne, majàc na wzgl´dzie dobro osób uzale˝nionych.
+7. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy tryb postępowania przy leczeniu substytucyjnym oraz szczegółowe warunki, które powinien spełniać zakład opieki zdrowotnej prowadzący leczenie substytucyjne, mając na względzie dobro osób uzależnionych.
 
 **Art. 29.**
 
-1. W zak∏adach poprawczych i schroniskach dla nieletnich oraz jednostkach organizacyjnych S∏u˝by Wi´ziennej prowadzi si´ leczenie, rehabilitacj´ i reintegracj´ osób uzale˝nionych umieszczonych w tych zak∏adach.
+1. W zakładach poprawczych i schroniskach dla nieletnich oraz jednostkach organizacyjnych Służby Więziennej prowadzi się leczenie, rehabilitację i reintegrację osób uzależnionych umieszczonych w tych zakładach.
 
-2. Minister SprawiedliwoÊci w porozumieniu z ministrem w∏aÊciwym do spraw zdrowia okreÊli, w dro2) jednostkach organizacyjnych S∏u˝by Wi´ziennej majàc na wzgl´dzie dobro osób przebywajàcych w tych jednostkach.
+2. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw zdrowia określi, w dro2) jednostkach organizacyjnych Służby Więziennej mając na względzie dobro osób przebywających w tych jednostkach.
 
 **Art. 30.**
 
-1. Na wniosek przedstawiciela ustawowego, krewnych w linii prostej, rodzeƒstwa lub faktycznego opiekuna albo z urz´du sàd rodzinny mo˝e skierowaç niepe∏noletnià osob´ uzale˝nionà na przymusowe leczenie i rehabilitacj´.
+1. Na wniosek przedstawiciela ustawowego, krewnych w linii prostej, rodzeństwa lub faktycznego opiekuna albo z urzędu sąd rodzinny może skierować niepełnoletnią osobę uzależnioną na przymusowe leczenie i rehabilitację.
 
-2. Czasu przymusowego leczenia i rehabilitacji nie okreÊla si´ z góry, nie mo˝e on byç jednak d∏u˝szy ni˝ 2 lata.
+2. Czasu przymusowego leczenia i rehabilitacji nie określa się z góry, nie może on być jednak dłuższy niż 2 lata.
 
-3. Je˝eli osoba uzale˝niona ukoƒczy 18 lat, przed zakoƒczeniem przymusowego leczenia lub rehabilitacji, sàd rodzinny mo˝e je przed∏u˝yç na czas niezb´dny do osiàgni´cia celu leczenia lub rehabilitacji, ∏àcznie nie d∏u˝szy jednak ni˝ okreÊlony w ust. 2.
+3. Jeżeli osoba uzależniona ukończy 18 lat, przed zakończeniem przymusowego leczenia lub rehabilitacji, sąd rodzinny może je przedłużyć na czas niezbędny do osiągnięcia celu leczenia lub rehabilitacji, łącznie nie dłuższy jednak niż określony w ust. 2.
 
-4. Post´powanie w sprawach, o których mowa w ust. 1, toczy si´ wed∏ug przepisów o post´powaniu dze rozporzàdzenia, szczegó∏owe warunki itryb post´powania leczniczego, rehabilitacyjnego i reintegracyjnego w stosunku do osób uzale˝nionych, umieszczonych w:
+4. Postępowanie w sprawach, o których mowa w ust. 1, toczy się według przepisów o postępowaniu dze rozporządzenia, szczegółowe warunki itryb postępowania leczniczego, rehabilitacyjnego i reintegracyjnego w stosunku do osób uzależnionych, umieszczonych w:
 
-- **1)** zak∏adach poprawczych i schroniskach dla nieletnich, w sprawach nieletnich. Rozdzia∏ 5 Prekursory, Êrodki odurzajàce i substancje psychotropowe
+- **1)** zakładach poprawczych i schroniskach dla nieletnich, w sprawach nieletnich.
+
+#### Rozdział 5 Prekursory, środki odurzające i substancje psychotropowe
 
 **Art. 31.**
 
-1. Ârodki odurzajàce dzieli si´ na grupy w zale˝noÊci od stopnia ryzyka powstania uzale˝nienia wprzypadku u˝ywania ich wcelach innych ni˝ medyczne oraz zakresu ich stosowania wcelach medycznych.
+1. Ârodki odurzające dzieli się na grupy w zależności od stopnia ryzyka powstania uzależnienia wprzypadku używania ich wcelach innych niż medyczne oraz zakresu ich stosowania wcelach medycznych.
 
-2. Podzia∏ Êrodków odurzajàcych na grupy I-N, II-N, III-N i IV-N okreÊla za∏àcznik nr 1 do ustawy.
+2. Podział środków odurzających na grupy I-N, II-N, III-N i IV-N określa załącznik nr 1 do ustawy.
 
 **Art. 32.**
 
-1. Substancje psychotropowe dzieli si´ na grupy w zale˝noÊci od stopnia ryzyka powstania uzale˝nienia w przypadku u˝ywania ich w celach innych ni˝ medyczne oraz zakresu ich stosowania w celach medycznych.
+1. Substancje psychotropowe dzieli się na grupy w zależności od stopnia ryzyka powstania uzależnienia w przypadku używania ich w celach innych niż medyczne oraz zakresu ich stosowania w celach medycznych.
 
-2. Podzia∏ substancji psychotropowych na grupy I-P, II-P, III-P i IV-P okreÊla za∏àcznik nr 2 do ustawy.
+2. Podział substancji psychotropowych na grupy I-P, II-P, III-P i IV-P określa załącznik nr 2 do ustawy.
 
 **Art. 33.**
 
-1. Ârodki odurzajàce grup I-N i II-N oraz substancje psychotropowe grup II-P, III-P i IV-P mogà byç u˝ywane wy∏àcznie w celach medycznych, przemys∏owych lub prowadzenia badaƒ.
+1. Ârodki odurzające grup I-N i II-N oraz substancje psychotropowe grup II-P, III-P i IV-P mogą być używane wyłącznie w celach medycznych, przemysłowych lub prowadzenia badań.
 
-2. Substancje psychotropowe grupy I-P mogà byç u˝ywane wy∏àcznie w celu prowadzenia badaƒ, a Êrodki odurzajàce grupy IV-N wy∏àcznie w celu prowadzenia badaƒ oraz w lecznictwie zwierzàt w zakresie wskazanym w za∏àczniku nr 1 do ustawy.
+2. Substancje psychotropowe grupy I-P mogą być używane wyłącznie w celu prowadzenia badań, a środki odurzające grupy IV-N wyłącznie w celu prowadzenia badań oraz w lecznictwie zwierząt w zakresie wskazanym w załączniku nr 1 do ustawy.
 
 **Art. 34.**
 
-1. Ârodki odurzajàce, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 mo˝e posiadaç wy∏àcznie przedsi´biorca, jednostka organizacyjna lub osoba fizyczna uprawniona na podstawie przepisów ustawy, rozporzàdzenia 273/2004 lub rozporzàdzenia 111/2005.
+1. Ârodki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 może posiadać wyłącznie przedsiębiorca, jednostka organizacyjna lub osoba fizyczna uprawniona na podstawie przepisów ustawy, rozporządzenia 273/2004 lub rozporządzenia 111/2005.
 
-2. Posiadane bez uprawnienia Êrodki odurzajàce, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 podlegajà zabezpieczeniu przez organy Êcigania lub organy celne w trybie okreÊlonym w przepisach o post´powaniu karnym.
+2. Posiadane bez uprawnienia środki odurzające, substancje psychotropowe lub ich preparaty oraz prekursory kategorii 1 podlegają zabezpieczeniu przez organy ścigania lub organy celne w trybie określonym w przepisach o postępowaniu karnym.
 
-3. Wprzypadku gdy nie zosta∏o wszcz´te post´powanie karne, o przepadku na rzecz Skarbu Paƒstwa Êrodków odurzajàcych, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 orzeka sàd na wniosek wojewódzkiego inspektora farmaceutycznego lub Naczelnego Inspektora Farmaceutycznego Wojska Polskiego.
+3. Wprzypadku gdy nie zostało wszczęte postępowanie karne, o przepadku na rzecz Skarbu Państwa środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 orzeka sąd na wniosek wojewódzkiego inspektora farmaceutycznego lub Naczelnego Inspektora Farmaceutycznego Wojska Polskiego.
 
-4. W przypadku orzeczenia przez sàd o przepadku na rzecz Skarbu Paƒstwa Êrodków odurzajàcych, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 podlegajà one zniszczeniu.
+4. W przypadku orzeczenia przez sąd o przepadku na rzecz Skarbu Państwa środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1 podlegają one zniszczeniu.
 
-5. Minister w∏aÊciwy do spraw zdrowia w porozumieniu z Ministrem SprawiedliwoÊci, ministrem w∏aÊciwym do spraw wewn´trznych oraz ministrem w∏aÊciwym do spraw finansów publicznych okreÊli, w drodze rozporzàdzenia, podmioty uprawnione do przechowywania oraz niszczenia Êrodków odurzajàcych, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1, atak˝e szczegó∏owy tryb i warunki ich przechowywania oraz niszczenia, majàc na wzgl´dzie koniecznoÊç zabezpieczenia tych Êrodków i substancji przed dost´pem osób trzecich.
+5. Minister właściwy do spraw zdrowia w porozumieniu z Ministrem Sprawiedliwości, ministrem właściwym do spraw wewnętrznych oraz ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, podmioty uprawnione do przechowywania oraz niszczenia środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1, atakże szczegółowy tryb i warunki ich przechowywania oraz niszczenia, mając na względzie konieczność zabezpieczenia tych środków i substancji przed dostępem osób trzecich.
 
 **Art. 35.**
 
-1. Ârodki odurzajàce lub substancje psychotropowe b´dàce produktami leczniczymi mo˝e wytwarzaç, przetwarzaç lub przerabiaç, z zastrze˝eniem ust. 4, wy∏àcznie przedsi´biorca posiadajàcy wydane na podstawie przepisów prawa farmaceutycznego zezwolenie na wytwarzanie produktów leczniczych, po uzyskaniu zezwolenia G∏ównego Inspektora Farmaceutycznego okreÊlajàcego Êrodki lub substancje, które mogà byç przedmiotem wytwarzania, przetwarzania lub przerobu.
+1. Ârodki odurzające lub substancje psychotropowe będące produktami leczniczymi może wytwarzać, przetwarzać lub przerabiać, z zastrzeżeniem ust. 4, wyłącznie przedsiębiorca posiadający wydane na podstawie przepisów prawa farmaceutycznego zezwolenie na wytwarzanie produktów leczniczych, po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego określającego środki lub substancje, które mogą być przedmiotem wytwarzania, przetwarzania lub przerobu.
 
-2. Ârodki odurzajàce lub substancje psychotropowe nieb´dàce produktami leczniczymi mo˝e wytwarzaç, przetwarzaç lub przerabiaç wy∏àcznie przedsi´biorca, po uzyskaniu zezwolenia G∏ównego Inspektora Farmaceutycznego, okreÊlajàcego Êrodki lub substan5. Nie wymaga zezwolenia przerób Êrodków odurzajàcych, substancji psychotropowych iprekursorów, je˝eli jest dokonywany waptece, na zasadach okreÊlonych wustawie zdnia 6 wrzeÊnia 2001 r. Prawo farmaceutyczne.
+2. Ârodki odurzające lub substancje psychotropowe niebędące produktami leczniczymi może wytwarzać, przetwarzać lub przerabiać wyłącznie przedsiębiorca, po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego, określającego środki lub substan5. Nie wymaga zezwolenia przerób środków odurzających, substancji psychotropowych iprekursorów, jeżeli jest dokonywany waptece, na zasadach określonych wustawie zdnia 6 września 2001 r. Prawo farmaceutyczne.
 
-6. Zezwolenia, októrych mowa wust. 1—4 i7, mogà byç wydane po stwierdzeniu przez wojewódzkiego inspektora farmaceutycznego, ˝e przedsi´biorca wyst´pujàcy o wydanie zezwolenia zapewnia warunki produkcji i obrotu zabezpieczajàce przed u˝yciem Êrodków odurzajàcych, substancji psychotropowych lub prekursorów kategorii 1 obj´tych zezwoleniem przez osoby nieupowa˝nione lub w celach innych ni˝ okreÊlone w wydanym zezwoleniu.
+6. Zezwolenia, októrych mowa wust. 1—4 i7, mogą być wydane po stwierdzeniu przez wojewódzkiego inspektora farmaceutycznego, że przedsiębiorca występujący o wydanie zezwolenia zapewnia warunki produkcji i obrotu zabezpieczające przed użyciem środków odurzających, substancji psychotropowych lub prekursorów kategorii 1 objętych zezwoleniem przez osoby nieupoważnione lub w celach innych niż określone w wydanym zezwoleniu.
 
-7. Ârodki odurzajàce grupy IV-N lub substancje psychotropowe grupy I-Pmo˝e stosowaç, wcelu prowadzenia badaƒ naukowych, jednostka naukowa, w zakresie swojej dzia∏alnoÊci statutowej, po uzyskaniu zezwolenia G∏ównego Inspektora Farmaceutycznego, okreÊlajàcego Êrodki lub substancje b´dàce przedmiotem zezwolenia.
+7. Ârodki odurzające grupy IV-N lub substancje psychotropowe grupy I-Pmoże stosować, wcelu prowadzenia badań naukowych, jednostka naukowa, w zakresie swojej działalności statutowej, po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego, określającego środki lub substancje będące przedmiotem zezwolenia.
 
-8. Zezwolenia, o których mowa w ust. 1—4 i 7, okreÊlajà dozwolonà wielkoÊç i cel wytwarzania, przetwarzania, przerobu lub stosowania ka˝dego Êrodka odurzajàcego, substancji psychotropowej lub prekursora oraz termin wa˝noÊci zezwolenia.
+8. Zezwolenia, o których mowa w ust. 1—4 i 7, określają dozwoloną wielkość i cel wytwarzania, przetwarzania, przerobu lub stosowania każdego środka odurzającego, substancji psychotropowej lub prekursora oraz termin ważności zezwolenia.
 
-9. Ârodki odurzajàce, substancje psychotropowe lub prekursory kategorii 1, zzastrze˝eniem ust. 7, mo˝e stosowaç, w celu prowadzenia badaƒ naukowych, wy∏àcznie jednostka naukowa, wzakresie swojej dzia∏alnoÊci statutowej, po zg∏oszeniu tego faktu i uzyskaniu zezwolenia wojewódzkiego inspektora farmaceutycznego.
+9. Ârodki odurzające, substancje psychotropowe lub prekursory kategorii 1, zzastrzeżeniem ust. 7, może stosować, w celu prowadzenia badań naukowych, wyłącznie jednostka naukowa, wzakresie swojej działalności statutowej, po zgłoszeniu tego faktu i uzyskaniu zezwolenia wojewódzkiego inspektora farmaceutycznego.
 
-10. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki i tryb wydawania oraz cofania zezwoleƒ, o których mowa w ust. 1—4, 7 i 9, a tak˝e wymagania, jakie muszà spe∏niaç podmioty posiadajàce te zezwolenia, w szczególnoÊci w zakresie przechowywania Êrodków obj´tych zezwoleniem oraz prowadzenia dokumentacji dotyczàcej ich posiadania i obrotu nimi, a tak˝e cje, które mogà byç przedmiotem wytwarzania, przetwarzania lub przerobu.
+10. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki i tryb wydawania oraz cofania zezwoleń, o których mowa w ust. 1—4, 7 i 9, a także wymagania, jakie muszą spełniać podmioty posiadające te zezwolenia, w szczególności w zakresie przechowywania środków objętych zezwoleniem oraz prowadzenia dokumentacji dotyczącej ich posiadania i obrotu nimi, a także cje, które mogą być przedmiotem wytwarzania, przetwarzania lub przerobu.
 
-3. Prekursory kategorii 1 mo˝e wytwarzaç, przetwarzaç lub przerabiaç, zzastrze˝eniem ust. 4, wy∏àcznie przedsi´biorca, który uzyska∏ zezwolenie G∏ównego Inspektora Farmaceutycznego okreÊlajàce prekursory kategorii 1, które mogà byç przedmiotem wytwarzania, przetwarzania lub przerobu.
+3. Prekursory kategorii 1 może wytwarzać, przetwarzać lub przerabiać, zzastrzeżeniem ust. 4, wyłącznie przedsiębiorca, który uzyskał zezwolenie Głównego Inspektora Farmaceutycznego określające prekursory kategorii 1, które mogą być przedmiotem wytwarzania, przetwarzania lub przerobu.
 
-4. Ârodki odurzajàce grup I-N, II-N i IV-N, substancje psychotropowe grup I-P, II-P, III-P i IV-P lub prekursory kategorii 1 mo˝e wytwarzaç, przetwarzaç lub przerabiaç, w celu prowadzenia badaƒ naukowych, wy∏àcznie jednostka naukowa, wzakresie swojej dzia∏alnoÊci statutowej, po uzyskaniu zezwolenia G∏ównego Inspektora Farmaceutycznego okreÊlajàcego Êrodki lub substancje, które mogà byç przedmiotem wytwarzania, przetwarzania lub przerobu. treÊç wniosku o wydanie tych zezwoleƒ uwzgl´dniajàc zapewnienie sprawnoÊci post´powania.
+4. Ârodki odurzające grup I-N, II-N i IV-N, substancje psychotropowe grup I-P, II-P, III-P i IV-P lub prekursory kategorii 1 może wytwarzać, przetwarzać lub przerabiać, w celu prowadzenia badań naukowych, wyłącznie jednostka naukowa, wzakresie swojej działalności statutowej, po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego określającego środki lub substancje, które mogą być przedmiotem wytwarzania, przetwarzania lub przerobu. treść wniosku o wydanie tych zezwoleń uwzględniając zapewnienie sprawności postępowania.
 
 **Art. 36.**
 
-1. Zbiór mleczka makowego iopium zmaku oraz ziela lub ˝ywicy konopi innych ni˝ w∏ókniste jest dozwolony wy∏àcznie w celu prowadzenia badaƒ naukowych, po uzyskaniu zezwolenia G∏ównego Inspektora Farmaceutycznego.
+1. Zbiór mleczka makowego iopium zmaku oraz ziela lub żywicy konopi innych niż włókniste jest dozwolony wyłącznie w celu prowadzenia badań naukowych, po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego.
 
-2. Sporzàdzanie wyciàgów ze s∏omy makowej mo˝e odbywaç si´ wy∏àcznie uprzedsi´biorcy oraz wjednostce naukowej i Centralnym OÊrodku Badania Odmian RoÊlin Uprawnych wzakresie ich dzia∏alnoÊci statutowej, po uzyskaniu zezwolenia G∏ównego Inspektora Farmaceutycznego.
+2. Sporządzanie wyciągów ze słomy makowej może odbywać się wyłącznie uprzedsiębiorcy oraz wjednostce naukowej i Centralnym Ośrodku Badania Odmian Roślin Uprawnych wzakresie ich działalności statutowej, po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego.
 
-3. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, warunki i tryb wydawania i cofania zezwoleƒ, o których mowa w ust. 1 i 2, oraz treÊç wniosku o wydanie tych zezwoleƒ, uwzgl´dniajàc zasad´ poszanowania praw podmiotu ubiegajàcego si´ o zezwolenie oraz zapewnienie sprawnoÊci post´powania.
+3. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, warunki i tryb wydawania i cofania zezwoleń, o których mowa w ust. 1 i 2, oraz treść wniosku o wydanie tych zezwoleń, uwzględniając zasadę poszanowania praw podmiotu ubiegającego się o zezwolenie oraz zapewnienie sprawności postępowania.
 
 **Art. 37.**
 
-1. Przywóz, wywóz, wewnàtrzwspólnotowa dostawa lub wewnàtrzwspólnotowe nabycie Êrodków odurzajàcych lub substancji psychotropowych mogà byç dokonywane wy∏àcznie przez przedsi´biorców, o których mowa w art. 35 ust. 1 i 2 lub art. 40 ust. 1 i 2.
+1. Przywóz, wywóz, wewnątrzwspólnotowa dostawa lub wewnątrzwspólnotowe nabycie środków odurzających lub substancji psychotropowych mogą być dokonywane wyłącznie przez przedsiębiorców, o których mowa w art. 35 ust. 1 i 2 lub art. 40 ust. 1 i 2.
 
-2. Przywóz Êrodków odurzajàcych isubstancji psychotropowych b´dàcych produktami leczniczymi mo˝e byç dokonywany wy∏àcznie przez przedsi´biorców posiadajàcych zezwolenie, o którym mowa w art. 38 ust. 1a ustawy z dnia 6 wrzeÊnia 2001 r. Prawo farmaceutyczne, po uzyskaniu pozwolenia G∏ównego Inspektora Farmaceutycznego okreÊlajàcego Êrodki lub substancje, które mogà byç przedmiotem przywozu.
+2. Przywóz środków odurzających isubstancji psychotropowych będących produktami leczniczymi może być dokonywany wyłącznie przez przedsiębiorców posiadających zezwolenie, o którym mowa w art. 38 ust. 1a ustawy z dnia 6 września 2001 r. Prawo farmaceutyczne, po uzyskaniu pozwolenia Głównego Inspektora Farmaceutycznego określającego środki lub substancje, które mogą być przedmiotem przywozu.
 
-3. Przywóz lub wewnàtrzwspólnotowe nabycie Êrodków odurzajàcych lub substancji psychotropo9. Przywóz Êrodków odurzajàcych, substancji psychotropowych do wolnych obszarów celnych jest zabroniony.
+3. Przywóz lub wewnątrzwspólnotowe nabycie środków odurzających lub substancji psychotropo9. Przywóz środków odurzających, substancji psychotropowych do wolnych obszarów celnych jest zabroniony.
 
-10. Przywóz, wywóz, wewnàtrzwspólnotowa dostawa lub wewnàtrzwspólnotowe nabycie Êrodków odurzajàcych, substancji psychotropowych lub prekursorów kategorii 1 na w∏asne potrzeby lecznicze mo˝e byç dokonywany na podstawie dokumentów okreÊlonych w przepisach wydanych na podstawie ust. 12.
+10. Przywóz, wywóz, wewnątrzwspólnotowa dostawa lub wewnątrzwspólnotowe nabycie środków odurzających, substancji psychotropowych lub prekursorów kategorii 1 na własne potrzeby lecznicze może być dokonywany na podstawie dokumentów określonych w przepisach wydanych na podstawie ust. 12.
 
-11. Pozwolenia na przywóz, wywóz, wewnàtrzwspólnotowà dostaw´ lub wewnàtrzwspólnotowe nabycie Êrodków odurzajàcych isubstancji psychotropowych stanowiàcych zapasy jednostek organizacyjnych Ministerstwa Obrony Narodowej bioràcych udzia∏ w misjach, çwiczeniach lub szkoleniach poza granicami kraju udziela Naczelny Inspektor Farmaceutyczny Wojska Polskiego na wniosek kierownika (dowódcy, komendanta, szefa) jednostki organizacyjnej. wych mo˝e nastàpiç po uzyskaniu, dla ka˝dej przesy∏ki przywo˝onej na terytorium Rzeczypospolitej Polskiej:
+11. Pozwolenia na przywóz, wywóz, wewnątrzwspólnotową dostawę lub wewnątrzwspólnotowe nabycie środków odurzających isubstancji psychotropowych stanowiących zapasy jednostek organizacyjnych Ministerstwa Obrony Narodowej biorących udział w misjach, ćwiczeniach lub szkoleniach poza granicami kraju udziela Naczelny Inspektor Farmaceutyczny Wojska Polskiego na wniosek kierownika (dowódcy, komendanta, szefa) jednostki organizacyjnej. wych może nastąpić po uzyskaniu, dla każdej przesyłki przywożonej na terytorium Rzeczypospolitej Polskiej:
 
-- **1)** pozwolenia na przywóz albo na wewnàtrzwspólnotowe nabycie, wydanego przez G∏ównego Inspektora Farmaceutycznego, oraz
-- **2)** pozwolenia na wywóz albo na wewnàtrzwspólnotowà dostaw´, wydanego przez w∏aÊciwe w∏adze kraju wywozu.
+- **1)** pozwolenia na przywóz albo na wewnątrzwspólnotowe nabycie, wydanego przez Głównego Inspektora Farmaceutycznego, oraz
+- **2)** pozwolenia na wywóz albo na wewnątrzwspólnotową dostawę, wydanego przez właściwe władze kraju wywozu.
 
-4. Wywóz lub wewnàtrzwspólnotowa dostawa Êrodków odurzajàcych lub substancji psychotropowych mo˝e nastàpiç po uzyskaniu, dla ka˝dej przesy∏ki wywo˝onej z terytorium Rzeczypospolitej Polskiej, pozwolenia na wywóz albo na wewnàtrzwspólnotowà dostaw´, wydanego przez G∏ównego Inspektora Farmaceutycznego na podstawie pozwolenia na przywóz lub wewnàtrzwspólnotowe nabycie wydanego przez w∏aÊciwe w∏adze kraju przywozu.
+4. Wywóz lub wewnątrzwspólnotowa dostawa środków odurzających lub substancji psychotropowych może nastąpić po uzyskaniu, dla każdej przesyłki wywożonej z terytorium Rzeczypospolitej Polskiej, pozwolenia na wywóz albo na wewnątrzwspólnotową dostawę, wydanego przez Głównego Inspektora Farmaceutycznego na podstawie pozwolenia na przywóz lub wewnątrzwspólnotowe nabycie wydanego przez właściwe władze kraju przywozu.
 
-5. Przywóz, wywóz, wewnàtrzwspólnotowa dostawa lub wewnàtrzwspólnotowe nabycie s∏omy makowej mogà byç dokonywane wy∏àcznie przez przedsi´biorców, o których mowa w art. 35 ust. 1 lub art. 40 ust. 1, po uzyskaniu pozwoleƒ przewidzianych wust. 3 i 4.
+5. Przywóz, wywóz, wewnątrzwspólnotowa dostawa lub wewnątrzwspólnotowe nabycie słomy makowej mogą być dokonywane wyłącznie przez przedsiębiorców, o których mowa w art. 35 ust. 1 lub art. 40 ust. 1, po uzyskaniu pozwoleń przewidzianych wust. 3 i 4.
 
-6. Przewóz przez terytorium Rzeczypospolitej Polskiej Êrodków odurzajàcych, substancji psychotropowych oraz s∏omy makowej jest dozwolony na podstawie pozwolenia na wywóz, wydanego przez w∏aÊciwe w∏adze kraju wywozu dla ka˝dej przesy∏ki.
+6. Przewóz przez terytorium Rzeczypospolitej Polskiej środków odurzających, substancji psychotropowych oraz słomy makowej jest dozwolony na podstawie pozwolenia na wywóz, wydanego przez właściwe władze kraju wywozu dla każdej przesyłki.
 
-7. W przypadkach, o których mowa w ust. 3—6, pozwolenia na wywóz albo wewnàtrzwspólnotowà dostaw´ sà do∏àczane do ka˝dej przesy∏ki.
+7. W przypadkach, o których mowa w ust. 3—6, pozwolenia na wywóz albo wewnątrzwspólnotową dostawę są dołączane do każdej przesyłki.
 
-8. Przywóz Êrodków odurzajàcych do sk∏adu celnego jest zabroniony.
+8. Przywóz środków odurzających do składu celnego jest zabroniony.
 
-12. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki i tryb wydawania pozwoleƒ idokumentów, októrych mowa w ust. 3, 4 i 10, wzory tych pozwoleƒ i dokumentów, obowiàzki podmiotów iosób posiadajàcych te pozwolenia i dokumenty w zakresie przechowywania Êrodków obj´tych pozwoleniem, wydawania tych Êrodków jednostkom uprawnionym oraz prowadzenia dokumentacji w zakresie ich posiadania i obrotu nimi, majàc na wzgl´dzie sprawnoÊç post´powania w sprawie udzielenia pozwoleƒ.
+12. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki i tryb wydawania pozwoleń idokumentów, októrych mowa w ust. 3, 4 i 10, wzory tych pozwoleń i dokumentów, obowiązki podmiotów iosób posiadających te pozwolenia i dokumenty w zakresie przechowywania środków objętych pozwoleniem, wydawania tych środków jednostkom uprawnionym oraz prowadzenia dokumentacji w zakresie ich posiadania i obrotu nimi, mając na względzie sprawność postępowania w sprawie udzielenia pozwoleń.
 
 **Art. 38.**
 
-1. Przedsi´biorcy prowadzàcy dzia∏alnoÊç w zakresie wytwarzania, przetwarzania, przerobu, przywozu, wywozu, wewnàtrzwspólnotowej dostawy lub wewnàtrzwspólnotowego nabycia i obrotu hurtowego prekursorami kategorii 1 przekazujà G∏ównemu Inspektorowi Farmaceutycznemu informacje o wszelkich wzbudzajàcych podejrzenie co do zgodnoÊci z przepisami prawa:
+1. Przedsiębiorcy prowadzący działalność w zakresie wytwarzania, przetwarzania, przerobu, przywozu, wywozu, wewnątrzwspólnotowej dostawy lub wewnątrzwspólnotowego nabycia i obrotu hurtowego prekursorami kategorii 1 przekazują Głównemu Inspektorowi Farmaceutycznemu informacje o wszelkich wzbudzających podejrzenie co do zgodności z przepisami prawa:
 
 - **1)** zamówieniach na te substancje;
-- **2)** dzia∏aniach z udzia∏em tych substancji;
+- **2)** działaniach z udziałem tych substancji;
 - **3)** próbach wykorzystania tych substancji.
 
-2. Przepisy ust. 1 stosuje si´ równie˝ do prekursorów kategorii 2 i 3, z tym ˝e informacje, o których mowa w tych przepisach, przekazuje si´ G∏ównemu Inspektorowi Sanitarnemu.
+2. Przepisy ust. 1 stosuje się również do prekursorów kategorii 2 i 3, z tym że informacje, o których mowa w tych przepisach, przekazuje się Głównemu Inspektorowi Sanitarnemu.
 
-3. G∏ówny Inspektor Farmaceutyczny w odniesieniu do prekursorów kategorii 1, a G∏ówny Inspektor Sanitarny w odniesieniu do prekursorów kategorii 2i 3, w uzasadnionych przypadkach powiadamiajà Policj´ i organy celne o koniecznoÊci zatrzymania przesy∏ki prekursorów, która nie spe∏nia wymagaƒ okreÊlonych w przepisach prawa.
+3. Główny Inspektor Farmaceutyczny w odniesieniu do prekursorów kategorii 1, a Główny Inspektor Sanitarny w odniesieniu do prekursorów kategorii 2i 3, w uzasadnionych przypadkach powiadamiają Policję i organy celne o konieczności zatrzymania przesyłki prekursorów, która nie spełnia wymagań określonych w przepisach prawa.
 
-4. G∏ówny Inspektor Farmaceutyczny i G∏ówny Inspektor Sanitarny prowadzà ewidencj´ informacji uzyskanych w trybie ust. 1 i 2.
+4. Główny Inspektor Farmaceutyczny i Główny Inspektor Sanitarny prowadzą ewidencję informacji uzyskanych w trybie ust. 1 i 2.
 
-5. Minister w∏aÊciwy do spraw zdrowia, wporozumieniu z ministrem w∏aÊciwym do spraw finansów publicznych oraz ministrem w∏aÊciwym do spraw wewn´trznych, okreÊli, w drodze rozporzàdzenia:
+5. Minister właściwy do spraw zdrowia, wporozumieniu z ministrem właściwym do spraw finansów publicznych oraz ministrem właściwym do spraw wewnętrznych, określi, w drodze rozporządzenia:
 
-- **1)** szczegó∏owy sposób przekazywania informacji,
+- **1)** szczegółowy sposób przekazywania informacji,
 - **2)** sposób prowadzenia ewidencji informacji uzyskanych w trybie ust. 1 i 2,
-- **3)** szczegó∏owy tryb i sposób powiadamiania, o którym mowa wust. 3, atak˝e wzór takiego powiadomienia,
-- **4)** tryb i sposób post´powania z przesy∏kà, o której mowa w ust. 3 majàc na uwadze uniemo˝liwienie nielegalnej produkcji prekursorów.
+- **3)** szczegółowy tryb i sposób powiadamiania, o którym mowa wust. 3, atakże wzór takiego powiadomienia,
+- **4)** tryb i sposób postępowania z przesyłką, o której mowa w ust. 3 mając na uwadze uniemożliwienie nielegalnej produkcji prekursorów.
 
 **Art. 39.**
 
-1. Zezwoleƒ, o których mowa w art. 35 ust. 1—4 i7, art. 36 oraz art. 40, udziela si´ na podstawie pisemnego wniosku przedsi´biorcy.
+1. Zezwoleń, o których mowa w art. 35 ust. 1—4 i7, art. 36 oraz art. 40, udziela się na podstawie pisemnego wniosku przedsiębiorcy.
 
-2. Przed podj´ciem decyzji w sprawie wydania zezwolenia organ wydajàcy zezwolenie, zwany dalej „organem zezwalajàcym”:
+2. Przed podjęciem decyzji w sprawie wydania zezwolenia organ wydający zezwolenie, zwany dalej Ńorganem zezwalającym”:
 
-- **1)** mo˝e wzywaç wnioskodawc´ do uzupe∏nienia, w wyznaczonym terminie, brakujàcej dokumentacji poÊwiadczajàcej, ˝e spe∏nia on warunki okreÊlone przepisami ustawy;
-- **2)** mo˝e dokonaç kontrolnego sprawdzenia faktów podanych we wniosku o udzielenie zezwolenia w celu stwierdzenia, czy podmiot spe∏nia warunki wykonywania dzia∏alnoÊci obj´tej zezwoleniem.
+- **1)** może wzywać wnioskodawcę do uzupełnienia, w wyznaczonym terminie, brakującej dokumentacji poświadczającej, że spełnia on warunki określone przepisami ustawy;
+- **2)** może dokonać kontrolnego sprawdzenia faktów podanych we wniosku o udzielenie zezwolenia w celu stwierdzenia, czy podmiot spełnia warunki wykonywania działalności objętej zezwoleniem.
 
-3. Zezwolenie wydaje si´ na czas nieoznaczony albo, na wniosek podmiotu ubiegajàcego si´, na czas oznaczony.
+3. Zezwolenie wydaje się na czas nieoznaczony albo, na wniosek podmiotu ubiegającego się, na czas oznaczony.
 
-4. Udzielenie zezwolenia, odmowa udzielenia zezwolenia oraz cofni´cie zezwolenia nast´puje w drodze decyzji administracyjnej. Decyzja o cofni´ciu zezwolenia podlega natychmiastowemu wykonaniu.
+4. Udzielenie zezwolenia, odmowa udzielenia zezwolenia oraz cofnięcie zezwolenia następuje w drodze decyzji administracyjnej. Decyzja o cofnięciu zezwolenia podlega natychmiastowemu wykonaniu.
 
-5. Organ zezwalajàcy wprzypadku powzi´cia informacji o tym, ˝e podmiot, któremu udzielono zezwolenia, dzia∏a w sposób niezgodny z przepisami ustawy regulujàcymi dzia∏alnoÊç obj´tà zezwoleniem, wyznacza niezw∏ocznie termin do usuni´cia tych nieprawid∏owoÊci.
+5. Organ zezwalający wprzypadku powzięcia informacji o tym, że podmiot, któremu udzielono zezwolenia, działa w sposób niezgodny z przepisami ustawy regulującymi działalność objętą zezwoleniem, wyznacza niezwłocznie termin do usunięcia tych nieprawidłowości.
 
-6. Organ zezwalajàcy cofa zezwolenie, w przypadku gdy:
+6. Organ zezwalający cofa zezwolenie, w przypadku gdy:
 
-- **1)** podmiot, któremu udzielono zezwolenia, przesta∏ spe∏niaç warunki wymagane do wykonywania
+- **1)** podmiot, któremu udzielono zezwolenia, przestał spełniać warunki wymagane do wykonywania
 
-7. Podmiot, któremu udzielono zezwolenia, jest obowiàzany zg∏aszaç organowi zezwalajàcemu wszelkie zmiany danych okreÊlonych w zezwoleniu.
+7. Podmiot, któremu udzielono zezwolenia, jest obowiązany zgłaszać organowi zezwalającemu wszelkie zmiany danych określonych w zezwoleniu.
 
-8. Przedsi´biorca, któremu cofni´to zezwolenie z przyczyn, o których mowa w ust. 6, mo˝e ponownie wystàpiç z wnioskiem o wydanie zezwolenia w takim samym zakresie nie wczeÊniej ni˝ po up∏ywie 3 lat od dnia wydania decyzji o cofni´ciu zezwolenia.
+8. Przedsiębiorca, któremu cofnięto zezwolenie z przyczyn, o których mowa w ust. 6, może ponownie wystąpić z wnioskiem o wydanie zezwolenia w takim samym zakresie nie wcześniej niż po upływie 3 lat od dnia wydania decyzji o cofnięciu zezwolenia.
 
-9. Za udzielenie zezwolenia na wytwarzanie, przetwarzanie, przerób, stosowanie do badaƒ oraz pozwolenia na przywóz, wywóz, wewnàtrzwspólnotowe nabycie iwewnàtrzwspólnotowà dostaw´ Êrodków odurzajàcych, substancji psychotropowych i prekursorów kategorii 1, a tak˝e zmian´ tych zezwoleƒ lub pozwoleƒ pobierane sà op∏aty, które stanowià dochód bud˝etu paƒstwa.
+9. Za udzielenie zezwolenia na wytwarzanie, przetwarzanie, przerób, stosowanie do badań oraz pozwolenia na przywóz, wywóz, wewnątrzwspólnotowe nabycie iwewnątrzwspólnotową dostawę środków odurzających, substancji psychotropowych i prekursorów kategorii 1, a także zmianę tych zezwoleń lub pozwoleń pobierane są opłaty, które stanowią dochód budżetu państwa.
 
-10. Przepisy ust. 1—9 i11 stosuje si´ do zezwoleƒ, o których mowa w art. 35 ust. 1—4 i 7, art. 36 oraz art. 40, wzakresie nieuregulowanym wtych przepisach.
+10. Przepisy ust. 1—9 i11 stosuje się do zezwoleń, o których mowa w art. 35 ust. 1—4 i 7, art. 36 oraz art. 40, wzakresie nieuregulowanym wtych przepisach.
 
-11. Minister w∏aÊciwy do spraw zdrowia okreÊli, wdrodze rozporzàdzenia, wysokoÊç isposób pobierania op∏at, o których mowa w ust. 9, uwzgl´dniajàc w szczególnoÊci zakres wytwarzania, przetwarzania, przerobu Êrodków odurzajàcych, substancji psychotropowych i prekursorów kategorii 1.
+11. Minister właściwy do spraw zdrowia określi, wdrodze rozporządzenia, wysokość isposób pobierania opłat, o których mowa w ust. 9, uwzględniając w szczególności zakres wytwarzania, przetwarzania, przerobu środków odurzających, substancji psychotropowych i prekursorów kategorii 1.
 
 **Art. 40.**
 
-1. Obrót hurtowy Êrodkami odurzajàcymi lub substancjami psychotropowymi b´dàcymi produktami leczniczymi mo˝e byç prowadzony przez przedsi´biorc´, o którym mowa w art. 72 ustawy zdnia 6 wrzeÊnia 2001 r. Prawo farmaceutyczne, po uzyskaniu zezwolenia G∏ównego Inspektora Farmaceutycznego.
+1. Obrót hurtowy środkami odurzającymi lub substancjami psychotropowymi będącymi produktami leczniczymi może być prowadzony przez przedsiębiorcę, o którym mowa w art. 72 ustawy zdnia 6 września 2001 r. Prawo farmaceutyczne, po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego.
 
-2. Obrót hurtowy Êrodkami odurzajàcymi lub substancjami psychotropowymi, które nie sà produktami leczniczymi, mo˝e byç prowadzony przez przedsi´biorc´ po uzyskaniu zezwolenia G∏ównego Inspektora Farmaceutycznego.
+2. Obrót hurtowy środkami odurzającymi lub substancjami psychotropowymi, które nie są produktami leczniczymi, może być prowadzony przez przedsiębiorcę po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego.
 
-3. Obrót hurtowy prekursorami kategorii 1 mo˝e byç prowadzony przez przedsi´biorc´ po uzyskaniu zezwolenia G∏ównego Inspektora Farmaceutycznego.
+3. Obrót hurtowy prekursorami kategorii 1 może być prowadzony przez przedsiębiorcę po uzyskaniu zezwolenia Głównego Inspektora Farmaceutycznego.
 
-4. Przedsi´biorcy, o których mowa w ust. 1—3, sà obowiàzani:
+4. Przedsiębiorcy, o których mowa w ust. 1—3, są obowiązani:
 
-- **1)** prowadziç dokumentacj´ dotyczàcà posiadanych Êrodków odurzajàcych, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1;
-- **2)** przechowywaç w komorach prze∏adunkowych posiadane Êrodki odurzajàce, substancje psychotrodzia∏alnoÊci okreÊlonej w zezwoleniu; powe lub ich preparaty oraz prekursory kategorii 1 w sposób zabezpieczajàcy przed kradzie˝à lub
-- **2)** podmiot, o którym mowa w pkt 1, nie usunà∏, zniszczeniem. w wyznaczonym przez organ zezwalajàcy terminie, stanu faktycznego lub prawnego niezgodnego 5. Zezwolenia, o których mowa w ust. 1—3, mogà z przepisami ustawy regulujàcymi dzia∏alnoÊç ob- byç wydane po stwierdzeniu przez wojewódzkiego inj´tà zezwoleniem. spektora farmaceutycznego, ˝e przedsi´biorca wyst´pujàcy owydanie zezwolenia zapewnia warunki obrotu uniemo˝liwiajàce u˝ycie Êrodków odurzajàcych, substancji psychotropowych lub prekursorów obj´tych zezwoleniem przez osoby nieupowa˝nione lub do celów innych ni˝ okreÊlone w wydanym zezwoleniu.
+- **1)** prowadzić dokumentację dotyczącą posiadanych środków odurzających, substancji psychotropowych lub ich preparatów oraz prekursorów kategorii 1;
+- **2)** przechowywać w komorach przeładunkowych posiadane środki odurzające, substancje psychotrodziałalności określonej w zezwoleniu; powe lub ich preparaty oraz prekursory kategorii 1 w sposób zabezpieczający przed kradzieżą lub
+- **2)** podmiot, o którym mowa w pkt 1, nie usunął, zniszczeniem. w wyznaczonym przez organ zezwalający terminie, stanu faktycznego lub prawnego niezgodnego 5. Zezwolenia, o których mowa w ust. 1—3, mogą z przepisami ustawy regulującymi działalność ob- być wydane po stwierdzeniu przez wojewódzkiego injętą zezwoleniem. spektora farmaceutycznego, że przedsiębiorca występujący owydanie zezwolenia zapewnia warunki obrotu uniemożliwiające użycie środków odurzających, substancji psychotropowych lub prekursorów objętych zezwoleniem przez osoby nieupoważnione lub do celów innych niż określone w wydanym zezwoleniu.
 
-6. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki i tryb wydawania oraz cofania zezwoleƒ, o których mowa w ust. 1—3, treÊç wniosku o wydanie tych zezwoleƒ, atak˝e szczegó∏owe obowiàzki podmiotów posiadajàcych te zezwolenia, w szczególnoÊci w zakresie przechowywania Êrodków obj´tych zezwoleniem, wydawania tych Êrodków jednostkom uprawnionym oraz prowadzenia dokumentacji dotyczàcej ich posiadania iobrotu nimi, atak˝e wzakresie warunków, jakie podmiot musi spe∏niaç celem przechowywania Êrodków obj´tych zezwoleniem wkomorach prze∏adunkowych, majàc na wzgl´dzie sprawnoÊç post´powania w sprawie udzielenia zezwoleƒ.
+6. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki i tryb wydawania oraz cofania zezwoleń, o których mowa w ust. 1—3, treść wniosku o wydanie tych zezwoleń, atakże szczegółowe obowiązki podmiotów posiadających te zezwolenia, w szczególności w zakresie przechowywania środków objętych zezwoleniem, wydawania tych środków jednostkom uprawnionym oraz prowadzenia dokumentacji dotyczącej ich posiadania iobrotu nimi, atakże wzakresie warunków, jakie podmiot musi spełniać celem przechowywania środków objętych zezwoleniem wkomorach przeładunkowych, mając na względzie sprawność postępowania w sprawie udzielenia zezwoleń.
 
 **Art. 41.**
 
-1. Obrót detaliczny Êrodkami odurzajàcymi, substancjami psychotropowymi i prekursorami b´dàcymi produktami leczniczymi prowadzà apteki i punkty apteczne, zapewniajàc odpowiednie warunki ich przechowywania uniemo˝liwiajàce dost´p osób nieuprawnionych do tych Êrodków i substancji.
+1. Obrót detaliczny środkami odurzającymi, substancjami psychotropowymi i prekursorami będącymi produktami leczniczymi prowadzą apteki i punkty apteczne, zapewniając odpowiednie warunki ich przechowywania uniemożliwiające dostęp osób nieuprawnionych do tych środków i substancji.
 
-2. Preparaty zawierajàce Êrodki odurzajàce lub substancje psychotropowe sà wydawane z apteki wy∏àcznie na podstawie specjalnie oznakowanej recepty albo zapotrzebowania, z zastrze˝eniem ust. 4.
+2. Preparaty zawierające środki odurzające lub substancje psychotropowe są wydawane z apteki wyłącznie na podstawie specjalnie oznakowanej recepty albo zapotrzebowania, z zastrzeżeniem ust. 4.
 
-3. Do podmiotów, októrych mowa wust. 1, stosuje si´ art. 40 ust. 4.
+3. Do podmiotów, októrych mowa wust. 1, stosuje się art. 40 ust. 4.
 
-4. Preparaty zawierajàce Êrodki odurzajàce grupy II-N lub substancje psychotropowe grup III-P i IV-P mogà byç wydawane z apteki na podstawie recept innych ni˝ okreÊlone w ust. 2, a preparaty zawierajàce Êrodki odurzajàce grupy III-N mogà byç wydawane z apteki bez recepty.
+4. Preparaty zawierające środki odurzające grupy II-N lub substancje psychotropowe grup III-P i IV-P mogą być wydawane z apteki na podstawie recept innych niż określone w ust. 2, a preparaty zawierające środki odurzające grupy III-N mogą być wydawane z apteki bez recepty.
 
-5. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia:
+5. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:
 
-- **1)** szczegó∏owe warunki przechowywania przez apteprawa farmaceutycznego, mo˝e posiadaç, w celach medycznych, po uzyskaniu zgody wojewódzkiego inspektora farmaceutycznego, zak∏ad opieki zdrowotnej niemajàcy apteki szpitalnej, zak∏ad leczniczy dla zwierzàt oraz lekarz, lekarz dentysta lub lekarz weterynarii, prowadzàcy praktyk´ lekarskà, a tak˝e inny podmiot, którego dzia∏alnoÊç wymaga posiadania i stosowania tych preparatów.
+- **1)** szczegółowe warunki przechowywania przez apteprawa farmaceutycznego, może posiadać, w celach medycznych, po uzyskaniu zgody wojewódzkiego inspektora farmaceutycznego, zakład opieki zdrowotnej niemający apteki szpitalnej, zakład leczniczy dla zwierząt oraz lekarz, lekarz dentysta lub lekarz weterynarii, prowadzący praktykę lekarską, a także inny podmiot, którego działalność wymaga posiadania i stosowania tych preparatów.
 
-2. Minister w∏aÊciwy do spraw zdrowia okreÊli, wdrodze rozporzàdzenia, rodzaje preparatów iich iloÊci, jakie mogà posiadaç podmioty, o których mowa w ust. 1, szczegó∏owe warunki zaopatrywania, przechowywania tych preparatów oraz prowadzenia dokumentacji wzakresie ich posiadania istosowania, atak˝e rodzaje podmiotów, których dzia∏alnoÊç wymaga posiadania i stosowania preparatów, o których mowa wust. 1, uwzgl´dniajàc zabezpieczenie tych substancji przed niew∏aÊciwym u˝yciem.
+2. Minister właściwy do spraw zdrowia określi, wdrodze rozporządzenia, rodzaje preparatów iich ilości, jakie mogą posiadać podmioty, o których mowa w ust. 1, szczegółowe warunki zaopatrywania, przechowywania tych preparatów oraz prowadzenia dokumentacji wzakresie ich posiadania istosowania, atakże rodzaje podmiotów, których działalność wymaga posiadania i stosowania preparatów, o których mowa wust. 1, uwzględniając zabezpieczenie tych substancji przed niewłaściwym użyciem.
 
 **Art. 43.**
 
-1. Przedsi´biorca i inna jednostka organizacyjna, którzy uzyskali zezwolenia, o których mowa wart. 35 ust. 1 i2 lub art. 40 ust. 1 i2, lub pozwolenia, o których mowa w art. 37 ust. 3—5, sà obowiàzani do sk∏adania G∏ównemu Inspektorowi Farmaceutycznemu sprawozdaƒ z dzia∏alnoÊci okreÊlonej w zezwoleniu lub pozwoleniu.
+1. Przedsiębiorca i inna jednostka organizacyjna, którzy uzyskali zezwolenia, o których mowa wart. 35 ust. 1 i2 lub art. 40 ust. 1 i2, lub pozwolenia, o których mowa w art. 37 ust. 3—5, są obowiązani do składania Głównemu Inspektorowi Farmaceutycznemu sprawozdań z działalności określonej w zezwoleniu lub pozwoleniu.
 
-2. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki, tryb oraz terminy sk∏adania sprawozdaƒ, o których mowa w ust. 1, uwzgl´dniajàc niezb´dne dane, jakie powinny zawieraç.
+2. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki, tryb oraz terminy składania sprawozdań, o których mowa w ust. 1, uwzględniając niezbędne dane, jakie powinny zawierać.
 
 **Art. 44.**
 
-1. Nadzór nad wytwarzaniem, przetwarzaniem, przerobem, przechowywaniem, obrotem i niszczeniem Êrodków odurzajàcych, substancji psychotropowych oraz prekursorów kategorii 1 sprawuje wojewódzki inspektor farmaceutyczny w∏aÊciwy ze wzgl´du na siedzib´ wytwórcy, importera lub innego podmiotu wprowadzajàcego do obrotu poprzez kontrol´ realizacji obowiàzków wynikajàcych z rozporzàdzenia 273/2004, rozporzàdzenia 111/2005 i przepisów prawa farmaceutycznego.
+1. Nadzór nad wytwarzaniem, przetwarzaniem, przerobem, przechowywaniem, obrotem i niszczeniem środków odurzających, substancji psychotropowych oraz prekursorów kategorii 1 sprawuje wojewódzki inspektor farmaceutyczny właściwy ze względu na siedzibę wytwórcy, importera lub innego podmiotu wprowadzającego do obrotu poprzez kontrolę realizacji obowiązków wynikających z rozporządzenia 273/2004, rozporządzenia 111/2005 i przepisów prawa farmaceutycznego.
 
-2. Nadzór nad prekursorami kategorii 2 i3 sprawuki Êrodków odurzajàcych, substancji psychotropowych, prekursorów kategorii 1 ipreparatów zawierajàcych te Êrodki lub substancje oraz sposób prowadzenia dokumentacji w zakresie ich posiadania i obrotu, uwzgl´dniajàc zabezpieczenie tych substancji przed dost´pem osób trzecich;
+2. Nadzór nad prekursorami kategorii 2 i3 sprawuki środków odurzających, substancji psychotropowych, prekursorów kategorii 1 ipreparatów zawierających te środki lub substancje oraz sposób prowadzenia dokumentacji w zakresie ich posiadania i obrotu, uwzględniając zabezpieczenie tych substancji przed dostępem osób trzecich;
 
-- **2)** szczegó∏owe warunki wystawiania recept i zapotrzebowaƒ na preparaty zawierajàce Êrodki odurzajàce lub substancje psychotropowe, wzory tych dokumentów oraz wydawania tych preparatów z aptek, uwzgl´dniajàc warunki bezpieczeƒstwa dystrybucji preparatów.
+- **2)** szczegółowe warunki wystawiania recept i zapotrzebowań na preparaty zawierające środki odurzające lub substancje psychotropowe, wzory tych dokumentów oraz wydawania tych preparatów z aptek, uwzględniając warunki bezpieczeństwa dystrybucji preparatów.
 
 **Art. 42.**
 
-1. Preparaty zawierajàce Êrodki odurzajàce grup I-N, II-N i III-N lub substancje psychotropowe grup II-P, III-P i IV-P, które zosta∏y dopuszczone do obrotu jako produkty lecznicze na podstawie przepisów je paƒstwowy powiatowy inspektor sanitarny w∏aÊciwy ze wzgl´du na siedzib´ wytwórcy, importera lub innego podmiotu wprowadzajàcego do obrotu poprzez kontrol´ realizacji obowiàzków na∏o˝onych na producenta, importera lub inny podmiot wprowadzajàcy do obrotu wynikajàcych zustawy, rozporzàdzenia 273/2004 i rozporzàdzenia 111/2005 oraz wydawania pozwoleƒ na zasadach i w trybie okreÊlonych w przepisach o Paƒstwowej Inspekcji Sanitarnej, rozporzàdzeniu 273/2004 i rozporzàdzeniu 111/2005.
+1. Preparaty zawierające środki odurzające grup I-N, II-N i III-N lub substancje psychotropowe grup II-P, III-P i IV-P, które zostały dopuszczone do obrotu jako produkty lecznicze na podstawie przepisów je państwowy powiatowy inspektor sanitarny właściwy ze względu na siedzibę wytwórcy, importera lub innego podmiotu wprowadzającego do obrotu poprzez kontrolę realizacji obowiązków nałożonych na producenta, importera lub inny podmiot wprowadzający do obrotu wynikających zustawy, rozporządzenia 273/2004 i rozporządzenia 111/2005 oraz wydawania pozwoleń na zasadach i w trybie określonych w przepisach o Państwowej Inspekcji Sanitarnej, rozporządzeniu 273/2004 i rozporządzeniu 111/2005.
 
-3. Organem w∏aÊciwym do wyst´powania do krajów trzecich zpowiadomieniem przed wywozem wzakresie prekursorów kategorii 2 i 3, o którym mowa wart. 11 ust. 1 i2 rozporzàdzenia 111/2005, jest G∏ówny Inspektor Sanitarny.
+3. Organem właściwym do występowania do krajów trzecich zpowiadomieniem przed wywozem wzakresie prekursorów kategorii 2 i 3, o którym mowa wart. 11 ust. 1 i2 rozporządzenia 111/2005, jest Główny Inspektor Sanitarny.
 
-4. Inspektor do Spraw Substancji i Preparatów Chemicznych prowadzi rejestr producentów, importerów i innych podmiotów wprowadzajàcych do obrotu prekursory kategorii 2, uwzgl´dniajàcy dane, o których mowa w art. 3 ust. 6 rozporzàdzenia 273/2004, oraz powiadamia o zg∏oszeniu w∏aÊciwego paƒstwowego powiatowego inspektora sanitarnego.
+4. Inspektor do Spraw Substancji i Preparatów Chemicznych prowadzi rejestr producentów, importerów i innych podmiotów wprowadzających do obrotu prekursory kategorii 2, uwzględniający dane, o których mowa w art. 3 ust. 6 rozporządzenia 273/2004, oraz powiadamia o zgłoszeniu właściwego państwowego powiatowego inspektora sanitarnego.
 
-5. Minister w∏aÊciwy do spraw zdrowia przekazuje Komisji Europejskiej informacje, o których mowa w art. 13 i 16 rozporzàdzenia 273/2004 i art. 32 rozporzàdzenia 111/2005.
+5. Minister właściwy do spraw zdrowia przekazuje Komisji Europejskiej informacje, o których mowa w art. 13 i 16 rozporządzenia 273/2004 i art. 32 rozporządzenia 111/2005.
 
-6. Minister Obrony Narodowej sprawuje nadzór nad przerobem, przechowywaniem, obrotem oraz zapasami Êrodków odurzajàcych i substancji psychotropowych wpodleg∏ych jednostkach organizacyjnych na zasadach i w trybie okreÊlonych w przepisach, o których mowa w ust. 1 i 2.
+6. Minister Obrony Narodowej sprawuje nadzór nad przerobem, przechowywaniem, obrotem oraz zapasami środków odurzających i substancji psychotropowych wpodległych jednostkach organizacyjnych na zasadach i w trybie określonych w przepisach, o których mowa w ust. 1 i 2.
 
-7. Minister w∏aÊciwy do spraw wewn´trznych sprawuje nadzór nad przerobem, przechowywaniem, obrotem oraz zapasami prekursorów grupy kategorii 2 i 3 w podleg∏ych jednostkach organizacyjnych na zasadach i w trybie okreÊlonych w przepisach, o których mowa w ust. 2.
+7. Minister właściwy do spraw wewnętrznych sprawuje nadzór nad przerobem, przechowywaniem, obrotem oraz zapasami prekursorów grupy kategorii 2 i 3 w podległych jednostkach organizacyjnych na zasadach i w trybie określonych w przepisach, o których mowa w ust. 2.
 
-8. Podmioty, które w ramach swojej dzia∏alnoÊci posiadajà podrobione, zepsute, sfa∏szowane Êrodki odurzajàce, substancje psychotropowe i prekursory kategorii 1, ich mieszaniny, równie˝ jako sk∏adniki produktów leczniczych, lub którym up∏ynà∏ termin wa˝noÊci, niszczà te substancje wsposób okreÊlony wust. 9.
+8. Podmioty, które w ramach swojej działalności posiadają podrobione, zepsute, sfałszowane środki odurzające, substancje psychotropowe i prekursory kategorii 1, ich mieszaniny, również jako składniki produktów leczniczych, lub którym upłynął termin ważności, niszczą te substancje wsposób określony wust. 9.
 
-9. Minister w∏aÊciwy do spraw zdrowia okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki i tryb post´powania ze Êrodkami odurzajàcymi, substancjami psychotropowymi i prekursorami kategorii 1, ich mieszaninami, produktami leczniczymi, podrobionymi, zepsutymi, sfa∏szowanymi lub którym up∏ynà∏ termin wa˝noÊci, zawierajàcymi wswoim sk∏adzie Êrodki odurzajàce, substancje psychotropowe i prekursory kategorii 1, oraz prekursorami kategorii 1 stosowanymi w przemyÊle kosmetycznym lub spo˝ywczym, uwzgl´dniajàc w szczególnoÊci wymogi zabezpieczenia przed ich niew∏aÊciwym u˝yciem, sposoby niszczenia tych Êrodków w zale˝noÊci od ich rodzaju i iloÊci oraz podmioty obowiàzane do pokrywania kosztów zwiàzanych z niszczeniem tych Êrodków. Rozdzia∏ 6 Uprawa maku i konopi
+9. Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia, szczegółowe warunki i tryb postępowania ze środkami odurzającymi, substancjami psychotropowymi i prekursorami kategorii 1, ich mieszaninami, produktami leczniczymi, podrobionymi, zepsutymi, sfałszowanymi lub którym upłynął termin ważności, zawierającymi wswoim składzie środki odurzające, substancje psychotropowe i prekursory kategorii 1, oraz prekursorami kategorii 1 stosowanymi w przemyśle kosmetycznym lub spożywczym, uwzględniając w szczególności wymogi zabezpieczenia przed ich niewłaściwym użyciem, sposoby niszczenia tych środków w zależności od ich rodzaju i ilości oraz podmioty obowiązane do pokrywania kosztów związanych z niszczeniem tych środków.
+
+#### Rozdział 6 Uprawa maku i konopi
 
 **Art. 45.**
 
-1. Uprawa maku, zwyjàtkiem maku niskomorfinowego, mo˝e byç prowadzona wy∏àcznie na potrzeby przemys∏u farmaceutycznego inasiennictwa.
+1. Uprawa maku, zwyjątkiem maku niskomorfinowego, może być prowadzona wyłącznie na potrzeby przemysłu farmaceutycznego inasiennictwa.
 
-2. Uprawa maku niskomorfinowego mo˝e byç prowadzona wy∏àcznie na cele spo˝ywcze inasiennictwa.
+2. Uprawa maku niskomorfinowego może być prowadzona wyłącznie na cele spożywcze inasiennictwa.
 
-4. Uprawa konopi innych ni˝ wymienione w ust. 3 jest zabroniona.
+4. Uprawa konopi innych niż wymienione w ust. 3 jest zabroniona.
 
 **Art. 46.**
 
-1. Uprawa maku mo˝e byç prowadzona na okreÊlonej powierzchni, wwyznaczonych rejonach, na podstawie zezwolenia na upraw´, przy zastosowaniu materia∏u siewnego kategorii elitarny albo kategorii kwalifikowany w rozumieniu przepisów o nasiennictwie oraz dodatkowo umowy kontraktacji, zawartej z podmiotem posiadajàcym zezwolenie wojewody na prowadzenie dzia∏alnoÊci w zakresie skupu maku.
+1. Uprawa maku może być prowadzona na określonej powierzchni, wwyznaczonych rejonach, na podstawie zezwolenia na uprawę, przy zastosowaniu materiału siewnego kategorii elitarny albo kategorii kwalifikowany w rozumieniu przepisów o nasiennictwie oraz dodatkowo umowy kontraktacji, zawartej z podmiotem posiadającym zezwolenie wojewody na prowadzenie działalności w zakresie skupu maku.
 
-2. Uprawa konopi w∏óknistych mo˝e byç prowadzona na okreÊlonej powierzchni, wwyznaczonych rejonach, na podstawie zezwolenia na upraw´, przy zastosowaniu materia∏u siewnego kategorii elitarny albo kategorii kwalifikowany w rozumieniu przepisów o nasiennictwie oraz dodatkowo:
+2. Uprawa konopi włóknistych może być prowadzona na określonej powierzchni, wwyznaczonych rejonach, na podstawie zezwolenia na uprawę, przy zastosowaniu materiału siewnego kategorii elitarny albo kategorii kwalifikowany w rozumieniu przepisów o nasiennictwie oraz dodatkowo:
 
-- **1)** umowy kontraktacji, zawartej z podmiotem posiadajàcym zezwolenie wojewody na prowadzenie dzia∏alnoÊci w zakresie skupu konopi w∏óknistych, niewpisanym do rejestru uznanych pierwszych
+- **1)** umowy kontraktacji, zawartej z podmiotem posiadającym zezwolenie wojewody na prowadzenie działalności w zakresie skupu konopi włóknistych, niewpisanym do rejestru uznanych pierwszych
 
-3. Uprawa konopi w∏óknistych mo˝e byç prowadzona wy∏àcznie na potrzeby przemys∏u w∏ókienniczego, chemicznego, celulozowo-papierniczego, spo˝ywczego, kosmetycznego, farmaceutycznego, materia∏ów budowlanych oraz nasiennictwa. przetwórców s∏omy lnianej lub konopnej na w∏ókno w rozumieniu przepisów o organizacji niektórych rynków rolnych, lub
+3. Uprawa konopi włóknistych może być prowadzona wyłącznie na potrzeby przemysłu włókienniczego, chemicznego, celulozowo-papierniczego, spożywczego, kosmetycznego, farmaceutycznego, materiałów budowlanych oraz nasiennictwa. przetwórców słomy lnianej lub konopnej na włókno w rozumieniu przepisów o organizacji niektórych rynków rolnych, lub
 
-- **2)** umowy sprzeda˝y, o której mowa w art. 2 ust. 1 rozporzàdzenia Rady (WE) nr 1673/2000 z dnia 27 lipca 2000 r. w sprawie wspólnej organizacji rynku lnu i konopi uprawianych na w∏ókno (Dz. Urz. WE L193 z29.07.2000, str. 16; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 131), zwanego dalej „rozporzàdzeniem 1673/2000”, zawartej zpodmiotem posiadajàcym zezwolenie wojewody na prowadzenie dzia∏alnoÊci w zakresie skupu konopi w∏óknistych, wpisanym do rejestru uznanych pierwszych przetwórców s∏omy lnianej lub konopnej na w∏ókno w rozumieniu przepisów oorganizacji niektórych rynków rolnych, awprzypadku przetwórcy pochodzàcego zpaƒstwa cz∏onkowskiego Unii Europejskiej innego ni˝ Rzeczpospolita Polska uznanym przez to paƒstwo, lub
-- **3)** umowy o przetworzenie s∏omy konopnej na w∏ókno, októrej mowa wart. 2 ust. 1 lit. brozporzàdzenia 1673/2000, zawartej z podmiotem posiadajàcym zezwolenie wojewody na prowadzenie dzia∏alnoÊci w zakresie skupu konopi w∏óknistych, wpisanym do rejestru uznanych pierwszych przetwórców s∏omy lnianej lub konopnej na w∏ókno w rozumieniu przepisów o organizacji niektórych rynków rolnych, awprzypadku przetwórcy pochodzàcego z paƒstwa cz∏onkowskiego Unii Europejskiej innego ni˝ Rzeczpospolita Polska uznanym przez to paƒstwo, lub
-- **4)** zobowiàzania do przetworzenia s∏omy konopnej na w∏ókno, októrym mowa wart. 2 ust. 1 lit. arozporzàdzenia 1673/2000, sk∏adanego Prezesowi Agencji Rynku Rolnego, w przypadku gdy prowadzàcy upraw´ konopi w∏óknistych jest jednoczeÊnie wpisany do rejestru uznanych pierwszych przetwórców s∏omy lnianej lub konopnej na w∏ókno w rozumieniu przepisów o organizacji niektórych rynków rolnych.
+- **2)** umowy sprzedaży, o której mowa w art. 2 ust. 1 rozporządzenia Rady (WE) nr 1673/2000 z dnia 27 lipca 2000 r. w sprawie wspólnej organizacji rynku lnu i konopi uprawianych na włókno (Dz. Urz. WE L193 z29.07.2000, str. 16; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 3, t. 30, str. 131), zwanego dalej Ńrozporządzeniem 1673/2000”, zawartej zpodmiotem posiadającym zezwolenie wojewody na prowadzenie działalności w zakresie skupu konopi włóknistych, wpisanym do rejestru uznanych pierwszych przetwórców słomy lnianej lub konopnej na włókno w rozumieniu przepisów oorganizacji niektórych rynków rolnych, awprzypadku przetwórcy pochodzącego zpaństwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska uznanym przez to państwo, lub
+- **3)** umowy o przetworzenie słomy konopnej na włókno, októrej mowa wart. 2 ust. 1 lit. brozporządzenia 1673/2000, zawartej z podmiotem posiadającym zezwolenie wojewody na prowadzenie działalności w zakresie skupu konopi włóknistych, wpisanym do rejestru uznanych pierwszych przetwórców słomy lnianej lub konopnej na włókno w rozumieniu przepisów o organizacji niektórych rynków rolnych, awprzypadku przetwórcy pochodzącego z państwa członkowskiego Unii Europejskiej innego niż Rzeczpospolita Polska uznanym przez to państwo, lub
+- **4)** zobowiązania do przetworzenia słomy konopnej na włókno, októrym mowa wart. 2 ust. 1 lit. arozporządzenia 1673/2000, składanego Prezesowi Agencji Rynku Rolnego, w przypadku gdy prowadzący uprawę konopi włóknistych jest jednocześnie wpisany do rejestru uznanych pierwszych przetwórców słomy lnianej lub konopnej na włókno w rozumieniu przepisów o organizacji niektórych rynków rolnych.
 
-3. Stosowanie materia∏u siewnego maku lub konopi w∏óknistych kategorii elitarny albo kategorii kwalifikowany w rozumieniu przepisów o nasiennictwie potwierdza si´ fakturà zakupu tego materia∏u siewnego oraz etykietà zopakowaƒ materia∏u siewnego tych roÊlin.
+3. Stosowanie materiału siewnego maku lub konopi włóknistych kategorii elitarny albo kategorii kwalifikowany w rozumieniu przepisów o nasiennictwie potwierdza się fakturą zakupu tego materiału siewnego oraz etykietą zopakowań materiału siewnego tych roślin.
 
-4. Dzia∏alnoÊç w zakresie skupu:
+4. Działalność w zakresie skupu:
 
 - **1)** maku, na podstawie umowy, októrej mowa wust. 1,
-- **2)** konopi w∏óknistych na podstawie umów, októrych mowa w ust. 2 pkt 1 i 2 mo˝e prowadziç podmiot posiadajàcy zezwolenie wojewody w∏aÊciwego dla miejsca po∏o˝enia uprawy, okreÊlajàce w szczególnoÊci zakres i cel prowadzonej dzia∏alnoÊci.
+- **2)** konopi włóknistych na podstawie umów, októrych mowa w ust. 2 pkt 1 i 2 może prowadzić podmiot posiadający zezwolenie wojewody właściwego dla miejsca położenia uprawy, określające w szczególności zakres i cel prowadzonej działalności.
 
-5. Zezwolenie, októrym mowa wust. 4, wydaje si´ w drodze decyzji, na wniosek, który zawiera:
+5. Zezwolenie, októrym mowa wust. 4, wydaje się w drodze decyzji, na wniosek, który zawiera:
 
-- **1)** imi´, nazwisko, okreÊlenie miejsca zamieszkania i adres albo nazw´ (firm´), siedzib´ i adres wnioskodawcy;
+- **1)** imię, nazwisko, określenie miejsca zamieszkania i adres albo nazwę (firmę), siedzibę i adres wnioskodawcy;
 - **2)** numer NIP albo numer REGON wnioskodawcy;
-- **3)** adres miejsca wykonywania dzia∏alnoÊci w zakresie skupu;
-- **4)** informacj´ ozakresie icelu podejmowanej dzia∏alnoÊci.
+- **3)** adres miejsca wykonywania działalności w zakresie skupu;
+- **4)** informację ozakresie icelu podejmowanej działalności.
 
-6. Do wniosku, o którym mowa w ust. 5, do∏àcza si´:
+6. Do wniosku, o którym mowa w ust. 5, dołącza się:
 
-- **1)** oÊwiadczenie, ˝e wnioskodawca dysponuje magazynem lub Êrodkiem transportu, zabezpieczonym przed kradzie˝à torebki (makówki), o której mowa w art. 48 ust. 1, lub
-- **2)** kopi´ decyzji Prezesa Agencji Rynku Rolnego o wpisie do rejestru uznanych pierwszych przetwórców s∏omy lnianej lub konopnej na w∏ókno w rozumieniu przepisów o organizacji niektórych rynków rolnych albo kopi´ dokumentu potwierdzajàcego uznanie przetwórcy przez paƒstwo cz∏onkowskie Unii Europejskiej inne ni˝ Rzeczpomajàc na wzgl´dzie zagro˝enie narkomanià, zapotrzebowanie na surowce pochodzàce z tych upraw oraz tradycj´ uprawy maku i konopi w∏óknistych.
+- **1)** oświadczenie, że wnioskodawca dysponuje magazynem lub środkiem transportu, zabezpieczonym przed kradzieżą torebki (makówki), o której mowa w art. 48 ust. 1, lub
+- **2)** kopię decyzji Prezesa Agencji Rynku Rolnego o wpisie do rejestru uznanych pierwszych przetwórców słomy lnianej lub konopnej na włókno w rozumieniu przepisów o organizacji niektórych rynków rolnych albo kopię dokumentu potwierdzającego uznanie przetwórcy przez państwo członkowskie Unii Europejskiej inne niż Rzeczpomając na względzie zagrożenie narkomanią, zapotrzebowanie na surowce pochodzące z tych upraw oraz tradycję uprawy maku i konopi włóknistych.
 
 **Art. 47.**
 
-1. Zezwolenie na upraw´ maku lub konopi w∏óknistych wydaje wójt (burmistrz, prezydent miasta) w∏aÊciwy ze wzgl´du na miejsce po∏o˝enia uprawy.
+1. Zezwolenie na uprawę maku lub konopi włóknistych wydaje wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce położenia uprawy.
 
-2. Zezwolenie, o którym mowa w ust. 1, wydaje si´, w drodze decyzji, na wniosek zawierajàcy:
+2. Zezwolenie, o którym mowa w ust. 1, wydaje się, w drodze decyzji, na wniosek zawierający:
 
-- **1)** imi´, nazwisko, okreÊlenie miejsca zamieszkania i adres albo nazw´ (firm´), siedzib´ i adres wnioskodawcy;
-- **2)** informacj´ o odmianie maku lub konopi w∏óknistych, powierzchni uprawy oraz numer dzia∏ki ewidencyjnej w ewidencji gruntów i budynków, okreÊlonej na podstawie przepisów prawa geodezyjnego i kartograficznego;
-- **3)** informacj´ o rodzaju umowy albo o zobowiàzaniu spolita Polska wprzypadku zezwolenia wojewody na dzia∏alnoÊç wzakresie skupu konopi w∏óknistych na podstawie umowy sprzeda˝y;
-- **3)** zobowiàzanie do przekazywania na ˝àdanie wojewody informacji dotyczàcych zakresu i celu prowadzonej dzia∏alnoÊci.
+- **1)** imię, nazwisko, określenie miejsca zamieszkania i adres albo nazwę (firmę), siedzibę i adres wnioskodawcy;
+- **2)** informację o odmianie maku lub konopi włóknistych, powierzchni uprawy oraz numer działki ewidencyjnej w ewidencji gruntów i budynków, określonej na podstawie przepisów prawa geodezyjnego i kartograficznego;
+- **3)** informację o rodzaju umowy albo o zobowiązaniu spolita Polska wprzypadku zezwolenia wojewody na działalność wzakresie skupu konopi włóknistych na podstawie umowy sprzedaży;
+- **3)** zobowiązanie do przekazywania na żądanie wojewody informacji dotyczących zakresu i celu prowadzonej działalności.
 
-7. Wojewoda cofa zezwolenie w razie naruszenia warunków prowadzenia dzia∏alnoÊci okreÊlonych w ustawie lub w zezwoleniu.
+7. Wojewoda cofa zezwolenie w razie naruszenia warunków prowadzenia działalności określonych w ustawie lub w zezwoleniu.
 
-8. Wojewoda, dzia∏ajàc w porozumieniu z ministrem w∏aÊciwym do spraw zdrowia oraz ministrem w∏aÊciwym do spraw rolnictwa, okreÊli, w drodze rozporzàdzenia aktu prawa miejscowego, ogólnà powierzchni´ przeznaczonà corocznie pod uprawy maku lub konopi w∏óknistych oraz rejonizacj´ tych upraw, do przetworzenia s∏omy konopnej na w∏ókno, o których mowa w art. 46 ust. 2;
+8. Wojewoda, działając w porozumieniu z ministrem właściwym do spraw zdrowia oraz ministrem właściwym do spraw rolnictwa, określi, w drodze rozporządzenia aktu prawa miejscowego, ogólną powierzchnię przeznaczoną corocznie pod uprawy maku lub konopi włóknistych oraz rejonizację tych upraw, do przetworzenia słomy konopnej na włókno, o których mowa w art. 46 ust. 2;
 
-- **4)** oÊwiadczenie wnioskodawcy, ˝e dysponuje pomieszczeniem zabezpieczonym przed kradzie˝à torebki (makówki), o której mowa w art. 48 ust. 1;
-- **5)** oÊwiadczenie wnioskodawcy, ˝e nie by∏ karany za pope∏nienie przest´pstwa, o którym mowa w art. 63 lub 64, i wykroczenia, o którym mowa w art. 65.
+- **4)** oświadczenie wnioskodawcy, że dysponuje pomieszczeniem zabezpieczonym przed kradzieżą torebki (makówki), o której mowa w art. 48 ust. 1;
+- **5)** oświadczenie wnioskodawcy, że nie był karany za popełnienie przestępstwa, o którym mowa w art. 63 lub 64, i wykroczenia, o którym mowa w art. 65.
 
-3. Zezwolenie, o którym mowa w ust. 1, okreÊla:
+3. Zezwolenie, o którym mowa w ust. 1, określa:
 
 - **1)** podmiot, dla którego je wydano;
 - **2)** numer kolejny zezwolenia;
-- **3)** odmian´ maku lub konopi w∏óknistych;
-- **4)** powierzchni´ uprawy maku lub konopi w∏óknistych;
-- **5)** numer dzia∏ki, o którym mowa w ust. 2 pkt 2, na której prowadzona b´dzie uprawa maku lub konopi w∏óknistych;
-- **6)** termin wa˝noÊci;
-- **7)** dat´ wydania zezwolenia.
+- **3)** odmianę maku lub konopi włóknistych;
+- **4)** powierzchnię uprawy maku lub konopi włóknistych;
+- **5)** numer działki, o którym mowa w ust. 2 pkt 2, na której prowadzona będzie uprawa maku lub konopi włóknistych;
+- **6)** termin ważności;
+- **7)** datę wydania zezwolenia.
 
-4. Wójt (burmistrz, prezydent miasta) odmawia wydania zezwolenia, je˝eli wnioskodawca nie daje r´kojmi nale˝ytego zabezpieczenia zbioru z tych upraw przed wykorzystaniem do celów innych ni˝ okreÊlone w ustawie, a w szczególnoÊci:
+4. Wójt (burmistrz, prezydent miasta) odmawia wydania zezwolenia, jeżeli wnioskodawca nie daje rękojmi należytego zabezpieczenia zbioru z tych upraw przed wykorzystaniem do celów innych niż określone w ustawie, a w szczególności:
 
-- **1)** nie dysponuje pomieszczeniem zabezpieczonym przed kradzie˝à torebki (makówki), o której mowa w art. 48 ust. 1, lub
-- **2)** by∏ karany za pope∏nienie przest´pstwa, o którym mowa w art. 63 lub 64, lub
-- **3)** by∏ karany za pope∏nienie wykroczenia, o którym mowa w art. 65.
+- **1)** nie dysponuje pomieszczeniem zabezpieczonym przed kradzieżą torebki (makówki), o której mowa w art. 48 ust. 1, lub
+- **2)** był karany za popełnienie przestępstwa, o którym mowa w art. 63 lub 64, lub
+- **3)** był karany za popełnienie wykroczenia, o którym mowa w art. 65.
 
-5. Zezwolenie cofa si´ w razie naruszenia warunków prowadzenia dzia∏alnoÊci okreÊlonych w ustawie lub w zezwoleniu.
+5. Zezwolenie cofa się w razie naruszenia warunków prowadzenia działalności określonych w ustawie lub w zezwoleniu.
 
-6. Wójt (burmistrz, prezydent miasta) prowadzi rejestr wydawanych zezwoleƒ.
+6. Wójt (burmistrz, prezydent miasta) prowadzi rejestr wydawanych zezwoleń.
 
 **Art. 48.**
 
-1. Torebk´ (makówk´) z nasionami, uzyskanà z uprawy maku prowadzonej na potrzeby przemys∏u farmaceutycznego, wraz z przylegajàcà do niej ∏odygà o d∏ugoÊci do 7 cm, w ca∏oÊci przekazuje si´ podmiotowi prowadzàcemu kontraktacj´ maku, na warunkach okreÊlonych w umowie kontraktacji. S∏om´ makowà, pozosta∏à po oddzieleniu torebki (makówki) i przylegajàcej do niej ∏odygi o d∏ugoÊci do 7 cm, niszczy prowadzàcy upraw´ w sposób okreÊlony w umowie kontraktacji.
+1. Torebkę (makówkę) z nasionami, uzyskaną z uprawy maku prowadzonej na potrzeby przemysłu farmaceutycznego, wraz z przylegającą do niej łodygą o długości do 7 cm, w całości przekazuje się podmiotowi prowadzącemu kontraktację maku, na warunkach określonych w umowie kontraktacji. Słomę makową, pozostałą po oddzieleniu torebki (makówki) i przylegającej do niej łodygi o długości do 7 cm, niszczy prowadzący uprawę w sposób określony w umowie kontraktacji.
 
-2. S∏om´ makowà z uprawy maku niskomorfinowego niszczy prowadzàcy upraw´ na swój koszt, w sposób okreÊlony w umowie kontraktacji.
+2. Słomę makową z uprawy maku niskomorfinowego niszczy prowadzący uprawę na swój koszt, w sposób określony w umowie kontraktacji.
 
-3. Pozosta∏e na polu resztki po˝niwne maku niszczy si´ wmiejscu prowadzenia uprawy, wwyniku wykonania odpowiedniego zabiegu agrotechnicznego, na warunkach okreÊlonych w umowie kontraktacji.
+3. Pozostałe na polu resztki pożniwne maku niszczy się wmiejscu prowadzenia uprawy, wwyniku wykonania odpowiedniego zabiegu agrotechnicznego, na warunkach określonych w umowie kontraktacji.
 
-**Art. 49.** Przepisów art. 45—48, z wyjàtkiem przepisów dotyczàcych obowiàzku niszczenia s∏omy makowej i resztek po˝niwnych maku, nie stosuje si´ do upraw maku i konopi prowadzonych przez jednostk´ naukowà oraz Centralny OÊrodek Badania Odmian RoÊlin Uprawnych, w ramach dzia∏alnoÊci statutowej, a tak˝e przez podmiot zajmujàcy si´ hodowlà roÊlin i stosujàcy konopie w∏ókniste w celach izolacyjnych.
+**Art. 49.** Przepisów art. 45—48, z wyjątkiem przepisów dotyczących obowiązku niszczenia słomy makowej i resztek pożniwnych maku, nie stosuje się do upraw maku i konopi prowadzonych przez jednostkę naukową oraz Centralny Ośrodek Badania Odmian Roślin Uprawnych, w ramach działalności statutowej, a także przez podmiot zajmujący się hodowlą roślin i stosujący konopie włókniste w celach izolacyjnych.
 
 **Art. 50.**
 
-1. Nadzór nad uprawami maku lub konopi w∏óknistych sprawuje wójt (burmistrz, prezydent miasta) w∏aÊciwy ze wzgl´du na miejsce po∏o˝enia tych upraw.
+1. Nadzór nad uprawami maku lub konopi włóknistych sprawuje wójt (burmistrz, prezydent miasta) właściwy ze względu na miejsce położenia tych upraw.
 
-2. W ramach wykonywania nadzoru osoby upowa˝nione przez organ, o którym mowa w ust. 1, sà uprawnione do:
+2. W ramach wykonywania nadzoru osoby upoważnione przez organ, o którym mowa w ust. 1, są uprawnione do:
 
-- **1)** wejÊcia na grunty, na których sà prowadzone uprawy maku lub konopi w∏óknistych, oraz dojÊcia do w´; nakazowi nadaje si´ rygor natychmiastowej wykonalnoÊci.
+- **1)** wejścia na grunty, na których są prowadzone uprawy maku lub konopi włóknistych, oraz dojścia do wę; nakazowi nadaje się rygor natychmiastowej wykonalności.
 
-**Art. 52.** Zadania, októrych mowa wart. 47, 50 i51, sà wykonywane przez gmin´ jako zadania zlecone z zakresu administracji rzàdowej. Rozdzia∏ 7 Przepisy karne
+**Art. 52.** Zadania, októrych mowa wart. 47, 50 i51, są wykonywane przez gminę jako zadania zlecone z zakresu administracji rządowej.
+
+#### Rozdział 7 Przepisy karne
 
 **Art. 53.**
 
-1. Kto, wbrew przepisom ustawy, wytwarza, przetwarza albo przerabia Êrodki odurzajàce lub substancje psychotropowe albo przetwarza s∏om´ makowà, podlega karze pozbawienia wolnoÊci do lat 3.
+1. Kto, wbrew przepisom ustawy, wytwarza, przetwarza albo przerabia środki odurzające lub substancje psychotropowe albo przetwarza słomę makową, podlega karze pozbawienia wolności do lat 3.
 
-2. Je˝eli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna iloÊç Êrodków odurzajàcych, substancji psychotropowych albo s∏omy makowej lub czyn ten zosta∏ pope∏niony wcelu osiàgni´cia korzyÊci tych gruntów przez inne nieruchomoÊci;
+2. Jeżeli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna ilość środków odurzających, substancji psychotropowych albo słomy makowej lub czyn ten został popełniony wcelu osiągnięcia korzyści tych gruntów przez inne nieruchomości;
 
-- **2)** kontroli dokumentów uprawniajàcych do prowadzenia upraw maku lub konopi w∏óknistych;
-- **3)** ˝àdania wyjaÊnieƒ od prowadzàcego uprawy maku lub konopi w∏óknistych.
+- **2)** kontroli dokumentów uprawniających do prowadzenia upraw maku lub konopi włóknistych;
+- **3)** żądania wyjaśnień od prowadzącego uprawy maku lub konopi włóknistych.
 
-3. Osoby upowa˝nione do wykonywania czynnoÊci okreÊlonych w ust. 2 sà obowiàzane do okazania upowa˝nienia wydanego przez organ sprawujàcy nadzór.
+3. Osoby upoważnione do wykonywania czynności określonych w ust. 2 są obowiązane do okazania upoważnienia wydanego przez organ sprawujący nadzór.
 
-**Art. 51.** W przypadku stwierdzenia prowadzenia upraw maku lub konopi w∏óknistych w sposób niezgodny zart. 46 i47 wójt (burmistrz, prezydent miasta) wydaje nakaz zniszczenia tych upraw przez zaoranie lub przekopanie gruntu, na koszt prowadzàcego upramajàtkowej lub osobistej, sprawca podlega grzywnie ikarze pozbawienia wolnoÊci na czas nie krótszy od lat 3.
+**Art. 51.** W przypadku stwierdzenia prowadzenia upraw maku lub konopi włóknistych w sposób niezgodny zart. 46 i47 wójt (burmistrz, prezydent miasta) wydaje nakaz zniszczenia tych upraw przez zaoranie lub przekopanie gruntu, na koszt prowadzącego upramajątkowej lub osobistej, sprawca podlega grzywnie ikarze pozbawienia wolności na czas nie krótszy od lat 3.
 
 **Art. 54.**
 
-1. Kto wyrabia, posiada, przechowuje, zbywa lub nabywa przyrzàdy, je˝eli zokolicznoÊci wynika, ˝e s∏u˝à one lub sà przeznaczone do niedozwolonego wytwarzania, przetwarzania lub przerobu Êrodków odurzajàcych lub substancji psychotropowych, podlega grzywnie, karze ograniczenia wolnoÊci albo pozbawienia wolnoÊci do lat 2.
+1. Kto wyrabia, posiada, przechowuje, zbywa lub nabywa przyrządy, jeżeli zokoliczności wynika, że służą one lub są przeznaczone do niedozwolonego wytwarzania, przetwarzania lub przerobu środków odurzających lub substancji psychotropowych, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 2. Tej samej karze podlega, kto:
 
-- **1)** przystosowuje do niedozwolonego wytwarzania, przetwarzania, przerobu lub konsumpcji Êrodków odurzajàcych lub substancji psychotropowych naczynia i przyrzàdy, choçby by∏y wytworzone w innym celu, albo
-- **2)** wchodzi w porozumienie z innà osobà w celu pope∏nienia przest´pstwa okreÊlonego w art. 53 ust. 2.
+- **1)** przystosowuje do niedozwolonego wytwarzania, przetwarzania, przerobu lub konsumpcji środków odurzających lub substancji psychotropowych naczynia i przyrządy, choćby były wytworzone w innym celu, albo
+- **2)** wchodzi w porozumienie z inną osobą w celu popełnienia przestępstwa określonego w art. 53 ust. 2.
 
 **Art. 55.**
 
-1. Kto, wbrew przepisom ustawy, dokonuje przywozu, wywozu, wewnàtrzwspólnotowego nabycia, wewnàtrzwspólnotowej dostawy lub przewozi przez terytorium Rzeczypospolitej Polskiej lub terytorium innego paƒstwa Êrodki odurzajàce, substancje psychotropowe lub s∏om´ makowà, podlega grzywnie ikarze pozbawienia wolnoÊci do lat 5.
+1. Kto, wbrew przepisom ustawy, dokonuje przywozu, wywozu, wewnątrzwspólnotowego nabycia, wewnątrzwspólnotowej dostawy lub przewozi przez terytorium Rzeczypospolitej Polskiej lub terytorium innego państwa środki odurzające, substancje psychotropowe lub słomę makową, podlega grzywnie ikarze pozbawienia wolności do lat 5.
 
-2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolnoÊci albo pozbawienia wolnoÊci do roku.
+2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-3. Je˝eli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna iloÊç Êrodków odurzajàcych, substancji psychotropowych lub s∏omy makowej albo czyn ten zosta∏ pope∏niony wcelu osiàgni´cia korzyÊci majàtkowej lub osobistej, sprawca podlega grzywnie i karze pozbawienia wolnoÊci na czas nie krótszy od lat 3.
+3. Jeżeli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna ilość środków odurzających, substancji psychotropowych lub słomy makowej albo czyn ten został popełniony wcelu osiągnięcia korzyści majątkowej lub osobistej, sprawca podlega grzywnie i karze pozbawienia wolności na czas nie krótszy od lat 3.
 
 **Art. 56.**
 
-1. Kto, wbrew przepisom art. 33—35 i 37, wprowadza do obrotu Êrodki odurzajàce, substancje psychotropowe lub s∏om´ makowà albo uczestniczy w takim obrocie, podlega grzywnie i karze pozbawienia wolnoÊci od 6 miesi´cy do lat 8.
+1. Kto, wbrew przepisom art. 33—35 i 37, wprowadza do obrotu środki odurzające, substancje psychotropowe lub słomę makową albo uczestniczy w takim obrocie, podlega grzywnie i karze pozbawienia wolności od 6 miesięcy do lat 8.
 
-2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolnoÊci albo pozbawienia wolnoÊci do roku.
+2. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do roku.
 
-3. Je˝eli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna iloÊç Êrodków odurzajàcych, substancji psychotropowych lub s∏omy makowej, sprawca podlega grzywnie ikarze pozbawienia wolnoÊci do lat 10.
+3. Jeżeli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna ilość środków odurzających, substancji psychotropowych lub słomy makowej, sprawca podlega grzywnie ikarze pozbawienia wolności do lat 10.
 
 **Art. 57.**
 
-1. Kto czyni przygotowania do przest´pstwa okreÊlonego w art. 55 ust. 1 lub art. 56 ust. 1, podlega grzywnie, karze ograniczenia wolnoÊci albo pozbawienia wolnoÊci do lat 2.
+1. Kto czyni przygotowania do przestępstwa określonego w art. 55 ust. 1 lub art. 56 ust. 1, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
-2. Kto czyni przygotowania do przest´pstwa okreÊlonego w art. 55 ust. 3 lub art. 56 ust. 3, podlega karze pozbawienia wolnoÊci do lat 3.
+2. Kto czyni przygotowania do przestępstwa określonego w art. 55 ust. 3 lub art. 56 ust. 3, podlega karze pozbawienia wolności do lat 3.
 
 **Art. 58.**
 
-1. Kto, wbrew przepisom ustawy, udziela innej osobie Êrodka odurzajàcego lub substancji psychotropowej, u∏atwia albo umo˝liwia ich u˝ycie albo nak∏ania do u˝ycia takiego Êrodka lub substancji, podlega karze pozbawienia wolnoÊci do lat 3.
+1. Kto, wbrew przepisom ustawy, udziela innej osobie środka odurzającego lub substancji psychotropowej, ułatwia albo umożliwia ich użycie albo nakłania do użycia takiego środka lub substancji, podlega karze pozbawienia wolności do lat 3.
 
-2. Je˝eli sprawca czynu, o którym mowa w ust. 1, powej ma∏oletniemu, u∏atwia u˝ycie albo nak∏ania go do u˝ycia takiego Êrodka lub substancji, podlega karze pozbawienia wolnoÊci na czas nie krótszy od lat 3.
+2. Jeżeli sprawca czynu, o którym mowa w ust. 1, powej małoletniemu, ułatwia użycie albo nakłania go do użycia takiego środka lub substancji, podlega karze pozbawienia wolności na czas nie krótszy od lat 3.
 
-3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolnoÊci albo pozbawienia wolnoÊci do lat 2.
+3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
-**Art. 60.** Kto, b´dàc w∏aÊcicielem lub dzia∏ajàcym w jego imieniu zarzàdcà albo kierownikiem zak∏adu gastronomicznego, lokalu rozrywkowego lub prowadzàc innà dzia∏alnoÊç us∏ugowà, majàc wiarygodnà wiadomoÊç o pope∏nieniu przest´pstwa okreÊlonego w art. 56, 58 lub 59 na terenie tego zak∏adu lub lokalu, nie powiadamia otym niezw∏ocznie organów Êcigania, podlega grzywnie, karze ograniczenia wolnoÊci albo pozbawienia wolnoÊci do lat 2.
+**Art. 60.** Kto, będąc właścicielem lub działającym w jego imieniu zarządcą albo kierownikiem zakładu gastronomicznego, lokalu rozrywkowego lub prowadząc inną działalność usługową, mając wiarygodną wiadomość o popełnieniu przestępstwa określonego w art. 56, 58 lub 59 na terenie tego zakładu lub lokalu, nie powiadamia otym niezwłocznie organów ścigania, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
-**Art. 61.** Kto, wbrew przepisom ustawy, rozporzàdzenia 273/2004 lub rozporzàdzenia 111/2005, w celu niedozwolonego wytworzenia Êrodka odurzajàcego lub substancji psychotropowej, wytwarza, przetwarza, przerabia, dokonuje przywozu, wywozu, wewnàtrzwspólnotowego nabycia, wewnàtrzwspólnotowej dostawy, przewozi przez terytorium Rzeczypospolitej Polskiej lub terytorium innego paƒstwa, nabywa, posiada lub przechowuje prekursory, podlega grzywnie ikarze pozbawienia wolnoÊci do lat 5.
+**Art. 61.** Kto, wbrew przepisom ustawy, rozporządzenia 273/2004 lub rozporządzenia 111/2005, w celu niedozwolonego wytworzenia środka odurzającego lub substancji psychotropowej, wytwarza, przetwarza, przerabia, dokonuje przywozu, wywozu, wewnątrzwspólnotowego nabycia, wewnątrzwspólnotowej dostawy, przewozi przez terytorium Rzeczypospolitej Polskiej lub terytorium innego państwa, nabywa, posiada lub przechowuje prekursory, podlega grzywnie ikarze pozbawienia wolności do lat 5.
 
 **Art. 62.**
 
-1. Kto, wbrew przepisom ustawy, posiada Êrodki odurzajàce lub substancje psychotropowe, podlega karze pozbawienia wolnoÊci do lat 3.
+1. Kto, wbrew przepisom ustawy, posiada środki odurzające lub substancje psychotropowe, podlega karze pozbawienia wolności do lat 3.
 
-2. Je˝eli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna iloÊç Êrodków odurzajàcych lub substancji psychotropowych, sprawca podlega grzywnie ikarze pozbawienia wolnoÊci do lat 5.
+2. Jeżeli przedmiotem czynu, o którym mowa w ust. 1, jest znaczna ilość środków odurzających lub substancji psychotropowych, sprawca podlega grzywnie ikarze pozbawienia wolności do lat 5.
 
-3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolnoÊci aludziela Êrodka odurzajàcego lub substancji psychotro- bo pozbawienia wolnoÊci do roku. powej ma∏oletniemu lub nak∏ania go do u˝ycia takiego Êrodka lub substancji albo udziela ich wznacznych Art. 63. 1. Kto, wbrew przepisom ustawy, uprawia iloÊciach innej osobie, mak, z wyjàtkiem maku niskomorfinowego, lub konopie, z wyjàtkiem konopi w∏óknistych, podlega karze pozbawienia wolnoÊci do lat 5. podlega grzywnie, karze ograniczenia wolnoÊci alArt. 59. 1. Kto, w celu osiàgni´cia korzyÊci majàt- bo pozbawienia wolnoÊci do lat 2. kowej lub osobistej, udziela innej osobie Êrodka odurzajàcego lub substancji psychotropowej, u∏atwia u˝y- 2. Tej samej karze podlega, kto, wbrew przepisom cie albo nak∏ania do u˝ycia takiego Êrodka lub sub- ustawy, zbiera mleczko makowe, opium, s∏om´ makostancji, wà, ˝ywic´ lub ziele konopi innych ni˝ w∏ókniste.
+3. W wypadku mniejszej wagi, sprawca podlega grzywnie, karze ograniczenia wolności aludziela środka odurzającego lub substancji psychotro- bo pozbawienia wolności do roku. powej małoletniemu lub nakłania go do użycia takiego środka lub substancji albo udziela ich wznacznych Art. 63. 1. Kto, wbrew przepisom ustawy, uprawia ilościach innej osobie, mak, z wyjątkiem maku niskomorfinowego, lub konopie, z wyjątkiem konopi włóknistych, podlega karze pozbawienia wolności do lat 5. podlega grzywnie, karze ograniczenia wolności alArt. 59. 1. Kto, w celu osiągnięcia korzyści mająt- bo pozbawienia wolności do lat 2. kowej lub osobistej, udziela innej osobie środka odurzającego lub substancji psychotropowej, ułatwia uży- 2. Tej samej karze podlega, kto, wbrew przepisom cie albo nakłania do użycia takiego środka lub sub- ustawy, zbiera mleczko makowe, opium, słomę makostancji, wą, żywicę lub ziele konopi innych niż włókniste.
 
-**Art. 64.** Kto zabiera, w celu przyw∏aszczenia, Êrodpodlega karze pozbawienia wolnoÊci od roku do ki odurzajàce, substancje psychotropowe, mleczko lat 10. makowe lub s∏om´ makowà, 2. Je˝eli sprawca czynu, o którym mowa w ust. 1, podlega karze pozbawienia wolnoÊci od 3 miesi´udziela Êrodka odurzajàcego lub substancji psychotro- cy do lat 5.
+**Art. 64.** Kto zabiera, w celu przywłaszczenia, środpodlega karze pozbawienia wolności od roku do ki odurzające, substancje psychotropowe, mleczko lat 10. makowe lub słomę makową, 2. Jeżeli sprawca czynu, o którym mowa w ust. 1, podlega karze pozbawienia wolności od 3 miesięudziela środka odurzającego lub substancji psychotro- cy do lat 5.
 
-**Art. 65.** Kto, wbrew przepisom ustawy, uprawia w sposób ra˝àco naruszajàcy obowiàzki pracownicze mak niskomorfinowy lub konopie w∏ókniste, albo warunki umowy ∏àczàcej go z w∏aÊcicielem tych Êrodków odurzajàcych lub substancji psychotropopodlega karze grzywny. wych.
+**Art. 65.** Kto, wbrew przepisom ustawy, uprawia w sposób rażąco naruszający obowiązki pracownicze mak niskomorfinowy lub konopie włókniste, albo warunki umowy łączącej go z właścicielem tych środków odurzających lub substancji psychotropopodlega karze grzywny. wych.
 
-**Art. 66.** Kto, wbrew przepisom ustawy, rozporzà- 4. W razie skazania za przest´pstwo okreÊlone dzenia 273/2004 lub rozporzàdzenia 111/2005, wytwa- w art. 53—63 sàd mo˝e orzec na cele zapobiegania rza, przetwarza, przerabia, stosuje, dokonuje przywo- i zwalczania narkomanii nawiàzk´ w wysokoÊci do zu, wywozu, wewnàtrzwspólnotowego nabycia, we- 50 000 z∏. wnàtrzwspólnotowej dostawy, przewozi przez terytorium Rzeczypospolitej Polskiej lub terytorium innego 5. Przepisu ust. 4 nie stosuje si´ do sprawcy przepaƒstwa, nabywa, posiada lub przechowuje prekur- st´pstwa okreÊlonego w art. 62 ust. 1, je˝eli jest on sory, osobà uzale˝nionà. podlega karze grzywny. Art. 71. 1. W razie skazania osoby uzale˝nionej za przest´pstwo pozostajàce w zwiàzku z u˝ywaniem
+**Art. 66.** Kto, wbrew przepisom ustawy, rozporzą- 4. W razie skazania za przestępstwo określone dzenia 273/2004 lub rozporządzenia 111/2005, wytwa- w art. 53—63 sąd może orzec na cele zapobiegania rza, przetwarza, przerabia, stosuje, dokonuje przywo- i zwalczania narkomanii nawiązkę w wysokości do zu, wywozu, wewnątrzwspólnotowego nabycia, we- 50 000 zł. wnątrzwspólnotowej dostawy, przewozi przez terytorium Rzeczypospolitej Polskiej lub terytorium innego 5. Przepisu ust. 4 nie stosuje się do sprawcy przepaństwa, nabywa, posiada lub przechowuje prekur- stępstwa określonego w art. 62 ust. 1, jeżeli jest on sory, osobą uzależnioną. podlega karze grzywny. Art. 71. 1. W razie skazania osoby uzależnionej za przestępstwo pozostające w związku z używaniem
 
-**Art. 67.** Kto, wbrew przepisom ustawy, rozporzà- Êrodka odurzajàcego lub substancji psychotropowej dzenia 273/2004 lub rozporzàdzenia 111/2005, nie do- na kar´ pozbawienia wolnoÊci, której wykonanie wape∏nia obowiàzku prowadzenia ewidencji wytwarza- runkowo zawieszono, sàd zobowiàzuje skazanego do nia, przetwarzania, przerobu Êrodków odurzajàcych, poddania si´ leczeniu lub rehabilitacji w zak∏adzie substancji psychotropowych lub prekursorów iobrotu opieki zdrowotnej ioddaje go pod dozór wyznaczonej nimi albo winny sposób narusza przepisy okreÊlajàce osoby, instytucji lub stowarzyszenia. zasady stosowania Êrodków, substancji lub prekursorów i obrotu nimi, 2. Sàd mo˝e zarzàdziç wykonanie zawieszonej kary pozbawienia wolnoÊci, je˝eli skazany wokresie própodlega karze grzywny. by uchyla si´ od obowiàzku, októrym mowa wust. 1, albo dopuszcza si´ ra˝àcego naruszenia regulaminu
+**Art. 67.** Kto, wbrew przepisom ustawy, rozporzą- środka odurzającego lub substancji psychotropowej dzenia 273/2004 lub rozporządzenia 111/2005, nie do- na karę pozbawienia wolności, której wykonanie wapełnia obowiązku prowadzenia ewidencji wytwarza- runkowo zawieszono, sąd zobowiązuje skazanego do nia, przetwarzania, przerobu środków odurzających, poddania się leczeniu lub rehabilitacji w zakładzie substancji psychotropowych lub prekursorów iobrotu opieki zdrowotnej ioddaje go pod dozór wyznaczonej nimi albo winny sposób narusza przepisy określające osoby, instytucji lub stowarzyszenia. zasady stosowania środków, substancji lub prekursorów i obrotu nimi, 2. Sąd może zarządzić wykonanie zawieszonej kary pozbawienia wolności, jeżeli skazany wokresie própodlega karze grzywny. by uchyla się od obowiązku, októrym mowa wust. 1, albo dopuszcza się rażącego naruszenia regulaminu
 
-**Art. 68.** Kto, wbrew przepisom art. 20 ust. 1, pro- zak∏adu, do którego zosta∏ skierowany. wadzi reklam´ lub promuje substancj´ psychotropowà lub Êrodek odurzajàcy, w celach innych ni˝ me- 3. Wrazie skazania osoby uzale˝nionej, zuwzgl´ddyczne, nieniem warunków okreÊlonych w ust. 1, na kar´ pozbawienia wolnoÊci bez warunkowego zawieszenia jej podlega grzywnie, karze ograniczenia wolnoÊci al- wykonania, sàd mo˝e orzec umieszczenie sprawcy bo pozbawienia wolnoÊci do roku. przed wykonaniem kary w odpowiednim zak∏adzie opieki zdrowotnej.
+**Art. 68.** Kto, wbrew przepisom art. 20 ust. 1, pro- zakładu, do którego został skierowany. wadzi reklamę lub promuje substancję psychotropową lub środek odurzający, w celach innych niż me- 3. Wrazie skazania osoby uzależnionej, zuwzględdyczne, nieniem warunków określonych w ust. 1, na karę pozbawienia wolności bez warunkowego zawieszenia jej podlega grzywnie, karze ograniczenia wolności al- wykonania, sąd może orzec umieszczenie sprawcy bo pozbawienia wolności do roku. przed wykonaniem kary w odpowiednim zakładzie opieki zdrowotnej.
 
 **Art. 69.**
 
-1. Orzekanie w sprawach o czyny okreÊlone w art. 65—67 nast´puje w trybie przepisów o po- 4. Czasu pobytu w zak∏adzie opieki zdrowotnej nie st´powaniu w sprawach o wykroczenia. okreÊla si´ z góry, nie mo˝e on jednak byç d∏u˝szy ni˝ 2 lata; o zwolnieniu z zak∏adu rozstrzyga sàd na pod2. W razie ukarania za wykroczenie okreÊlone stawie wyników leczenia lub rehabilitacji. Je˝eli skazawart. 65 lub 66 orzeka si´ przepadek przedmiotów wy- ny nie poddaje si´ leczeniu lub rehabilitacji albo dokroczenia, a tak˝e przedmiotów pochodzàcych bezpo- puszcza si´ ra˝àcego naruszenia regulaminu zak∏adu Êrednio lub poÊrednio z wykroczenia, nawet je˝eli nie opieki zdrowotnej, zwolnienie mo˝e nastàpiç tak˝e na by∏y one w∏asnoÊcià sprawcy. Sàd, orzekajàc przepa- wniosek zak∏adu prowadzàcego leczenie. dek przedmiotów, mo˝e zarzàdziç ich zniszczenie. Z czynnoÊci zniszczenia sporzàdza si´ protokó∏. 5. Sàd rozstrzyga po zakoƒczeniu leczenia lub reArt. 70. 1. W razie skazania za przest´pstwa okreÊlone w art. 53—61, 63 i 64 mo˝na orzec przepadek przedmiotu przest´pstwa oraz przedmiotów i narz´dzi, które s∏u˝y∏y lub by∏y przeznaczone do jego pope∏nienia, nawet je˝eli nie by∏y w∏asnoÊcià sprawcy.
+1. Orzekanie w sprawach o czyny określone w art. 65—67 następuje w trybie przepisów o po- 4. Czasu pobytu w zakładzie opieki zdrowotnej nie stępowaniu w sprawach o wykroczenia. określa się z góry, nie może on jednak być dłuższy niż 2 lata; o zwolnieniu z zakładu rozstrzyga sąd na pod2. W razie ukarania za wykroczenie określone stawie wyników leczenia lub rehabilitacji. Jeżeli skazawart. 65 lub 66 orzeka się przepadek przedmiotów wy- ny nie poddaje się leczeniu lub rehabilitacji albo dokroczenia, a także przedmiotów pochodzących bezpo- puszcza się rażącego naruszenia regulaminu zakładu średnio lub pośrednio z wykroczenia, nawet jeżeli nie opieki zdrowotnej, zwolnienie może nastąpić także na były one własnością sprawcy. Sąd, orzekając przepa- wniosek zakładu prowadzącego leczenie. dek przedmiotów, może zarządzić ich zniszczenie. Z czynności zniszczenia sporządza się protokół. 5. Sąd rozstrzyga po zakończeniu leczenia lub reArt. 70. 1. W razie skazania za przestępstwa określone w art. 53—61, 63 i 64 można orzec przepadek przedmiotu przestępstwa oraz przedmiotów i narzędzi, które służyły lub były przeznaczone do jego popełnienia, nawet jeżeli nie były własnością sprawcy.
 
-2. W razie skazania za przest´pstwo okreÊlone w art. 62 oraz w razie umorzenia lub warunkowego umorzenia post´powania karnego orzeka si´ przepadek Êrodka odurzajàcego lub substancji psychotropowej, nawet je˝eli nie by∏ w∏asnoÊcià sprawcy. Sàd, orzekajàc przepadek przedmiotów, mo˝e zarzàdziç ich zniszczenie. ZczynnoÊci zniszczenia sporzàdza si´ protokó∏.
+2. W razie skazania za przestępstwo określone w art. 62 oraz w razie umorzenia lub warunkowego umorzenia postępowania karnego orzeka się przepadek środka odurzającego lub substancji psychotropowej, nawet jeżeli nie był własnością sprawcy. Sąd, orzekając przepadek przedmiotów, może zarządzić ich zniszczenie. Zczynności zniszczenia sporządza się protokół.
 
-3. Przepadku nie orzeka si´, je˝eli Êrodek odurzajàcy lub substancja psychotropowa sà w∏asnoÊcià osoby trzeciej, a sprawca uzyska∏ je w drodze przest´pstwa lub wykroczenia albo wszed∏ w ich posiadanie habilitacji, czy orzeczonà kar´ pozbawienia wolnoÊci nale˝y wykonaç.
+3. Przepadku nie orzeka się, jeżeli środek odurzający lub substancja psychotropowa są własnością osoby trzeciej, a sprawca uzyskał je w drodze przestępstwa lub wykroczenia albo wszedł w ich posiadanie habilitacji, czy orzeczoną karę pozbawienia wolności należy wykonać.
 
-6. Minister w∏aÊciwy do spraw zdrowia w porozumieniu zMinistrem SprawiedliwoÊci okreÊli, wdrodze rozporzàdzenia, szczegó∏owe warunki i tryb post´powania w przedmiocie leczenia lub rehabilitacji osób uzale˝nionych, o których mowa w ust. 1—3, majàc na wzgl´dzie dobro osoby uzale˝nionej.
+6. Minister właściwy do spraw zdrowia w porozumieniu zMinistrem Sprawiedliwości określi, wdrodze rozporządzenia, szczegółowe warunki i tryb postępowania w przedmiocie leczenia lub rehabilitacji osób uzależnionych, o których mowa w ust. 1—3, mając na względzie dobro osoby uzależnionej.
 
 **Art. 72.**
 
-1. Je˝eli osoba uzale˝niona lub u˝ywajàca substancje psychoaktywne szkodliwie, której zarzucono pope∏nienie przest´pstwa zagro˝onego karà nieprzekraczajàcà 5 lat pozbawienia wolnoÊci, podda si´ leczeniu irehabilitacji lub udzia∏owi wprogramie profilaktyczno-leczniczym prowadzonym przez zak∏ad opieki zdrowotnej lub inny podmiot dzia∏ajàcy w ochronie zdrowia, prokurator mo˝e zawiesiç post´powanie do czasu zakoƒczenia leczenia.
+1. Jeżeli osoba uzależniona lub używająca substancje psychoaktywne szkodliwie, której zarzucono popełnienie przestępstwa zagrożonego karą nieprzekraczającą 5 lat pozbawienia wolności, podda się leczeniu irehabilitacji lub udziałowi wprogramie profilaktyczno-leczniczym prowadzonym przez zakład opieki zdrowotnej lub inny podmiot działający w ochronie zdrowia, prokurator może zawiesić postępowanie do czasu zakończenia leczenia.
 
-2. Po podj´ciu post´powania prokurator, uwzgl´dniajàc wyniki leczenia postanawia o dalszym prowadzeniu post´powania albo wyst´puje do sàdu z wnioskiem o warunkowe umorzenie post´powania.
+2. Po podjęciu postępowania prokurator, uwzględniając wyniki leczenia postanawia o dalszym prowadzeniu postępowania albo występuje do sądu z wnioskiem o warunkowe umorzenie postępowania.
 
-3. Na postanowienie o dalszym prowadzeniu post´powania podejrzanemu przys∏uguje za˝alenie.
+3. Na postanowienie o dalszym prowadzeniu postępowania podejrzanemu przysługuje zażalenie.
 
-4. W wypadku wskazanym w ust. 2 warunkowe umorzenie mo˝na zastosowaç do sprawcy przest´pstwa zagro˝onego karà nieprzekraczajàcà 5 lat pozbawienia wolnoÊci.
+4. W wypadku wskazanym w ust. 2 warunkowe umorzenie można zastosować do sprawcy przestępstwa zagrożonego karą nieprzekraczającą 5 lat pozbawienia wolności.
 
-**Art. 73.** Przepis art. 72 stosuje si´ odpowiednio wpost´powaniu sàdowym do chwili zamkni´cia przewodu sàdowego.
+**Art. 73.** Przepis art. 72 stosuje się odpowiednio wpostępowaniu sądowym do chwili zamknięcia przewodu sądowego.
 
-**Art. 74.** W zakresie uregulowanym w niniejszym rozdziale nie stosuje si´ art. 96—98 Kodeksu karnego. Rozdzia∏ 8 Zmiany w przepisach obowiàzujàcych oraz przepisy przejÊciowe i koƒcowe
+**Art. 74.** W zakresie uregulowanym w niniejszym rozdziale nie stosuje się art. 96—98 Kodeksu karnego.
 
-**Art. 75.** W ustawie z dnia 26 paêdziernika 1982 r. o wychowaniu w trzeêwoÊci i przeciwdzia∏aniu alkoholizmowi (Dz. U. z2002 r. 147, poz. 1231, zpóên.zm. ) wprowadza si´ nast´pujàce zmiany:
+#### Rozdział 8 Zmiany w przepisach obowiązujących oraz przepisy przejściowe i końcowe
 
-**Art. 76.** W ustawie z dnia 14 marca 1985 r. o Paƒstwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. 90, ) wart. 4 w ust. 1 pkt 9 otrzymuje brzmienie: „9) przestrzegania przez podmioty wprowadzajàce do obrotu prekursory kategorii 2 i 3 obowiàzków wynikajàcych z ustawy z dnia 29 lipca 2005 r. o przeciwdzia∏aniu narkomanii (Dz. U. 179, poz. 1485), rozporzàdzenia (WE) Parlamentu Europejskiego i Rady nr 273/2004 z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych oraz rozporzàdzenia (WE) Rady nr 111/2005 zdnia 22grudnia 2004 r. okreÊlajàcego zasady nadzorowania handlu prekursorami narkotyków pomi´dzy Wspólnotà a paƒstwami trzecimi.”.
+**Art. 75.** W ustawie z dnia 26 paêdziernika 1982 r. o wychowaniu w trzeêwości i przeciwdziałaniu alkoholizmowi (Dz. U. z2002 r. 147, poz. 1231, zpóên.zm. ) wprowadza się następujące zmiany:
 
-**Art. 77.** Wustawie zdnia 9 wrzeÊnia 2000 r. oop∏acie skarbowej (Dz. U. z 2004 r. 253, poz. 2532, z póên. zm. ) w tabeli stanowiàcej za∏àcznik do ustawy, w cz´Êci IV Zezwolenia pkt 27 otrzymuje brzmienie: „27. Od zezwoleƒ wydawanych na podstawie przepisów o przeciwdzia∏aniu narkomanii:
+**Art. 76.** W ustawie z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej (Dz. U. z 1998 r. 90, ) wart. 4 w ust. 1 pkt 9 otrzymuje brzmienie: Ń9) przestrzegania przez podmioty wprowadzające do obrotu prekursory kategorii 2 i 3 obowiązków wynikających z ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. 179, poz. 1485), rozporządzenia (WE) Parlamentu Europejskiego i Rady nr 273/2004 z dnia 11 lutego 2004 r. w sprawie prekursorów narkotykowych oraz rozporządzenia (WE) Rady nr 111/2005 zdnia 22grudnia 2004 r. określającego zasady nadzorowania handlu prekursorami narkotyków pomiędzy Wspólnotą a państwami trzecimi.”.
 
-**Art. 78.** Wustawie zdnia 11 stycznia 2001 r. osubstancjach i preparatach chemicznych (Dz. U. 11, poz. 84, z póên. zm. ) w art. 11 w ust. 1 pkt 5a otrzymuje brzmienie: „5a) przyjmowanie i gromadzenie danych dotyczàcych prekursorów kategorii 2, okreÊlonych w przepisach o przeciwdzia∏aniu narkomanii,”.
+**Art. 77.** Wustawie zdnia 9 września 2000 r. oopłacie skarbowej (Dz. U. z 2004 r. 253, poz. 2532, z póên. zm. ) w tabeli stanowiącej załącznik do ustawy, w części IV Zezwolenia pkt 27 otrzymuje brzmienie: Ń27. Od zezwoleń wydawanych na podstawie przepisów o przeciwdziałaniu narkomanii:
 
-**Art. 79.** Wustawie zdnia 6 wrzeÊnia 2001 r. Prawo farmaceutyczne (Dz. U. z 2004 r. 53, poz. 533, z póên. zm. ) w art. 68 ust. 6 otrzymuje brzmienie: ——————— ——————— „6. Przepisu ust. 5 nie stosuje si´ do Êrodków odurzajàcych i substancji psychotropowych, których przywóz z zagranicy okreÊlajà przepisy ustawy z dnia 29 lipca 2005 r. o przeciwdzia∏aniu narkomanii (Dz. U. 179, poz. 1485).”.
+**Art. 78.** Wustawie zdnia 11 stycznia 2001 r. osubstancjach i preparatach chemicznych (Dz. U. 11, poz. 84, z póên. zm. ) w art. 11 w ust. 1 pkt 5a otrzymuje brzmienie: Ń5a) przyjmowanie i gromadzenie danych dotyczących prekursorów kategorii 2, określonych w przepisach o przeciwdziałaniu narkomanii,”.
 
-**Art. 80.** W ustawie z dnia 2 lipca 2004 r. o swobodzie dzia∏alnoÊci gospodarczej (Dz. U. 173, poz.1807, zpóên. zm. ) wart.75 wust. 1 pkt 5 otrzymuje brzmienie: „5) ustawy z dnia 29 lipca 2005 r. o przeciwdzia∏aniu narkomanii (Dz. U. 179, poz. 1485);”.
+**Art. 79.** Wustawie zdnia 6 września 2001 r. Prawo farmaceutyczne (Dz. U. z 2004 r. 53, poz. 533, z póên. zm. ) w art. 68 ust. 6 otrzymuje brzmienie: ——————— ——————— Ń6. Przepisu ust. 5 nie stosuje się do środków odurzających i substancji psychotropowych, których przywóz z zagranicy określają przepisy ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. 179, poz. 1485).”.
 
-**Art. 81.** W ustawie z dnia 27 sierpnia 2004 r. o Êwiadczeniach opieki zdrowotnej finansowanych ze Êrodków publicznych (Dz. U. 210, poz. 2135, z póên. zm. ) w art. 12 pkt 3 otrzymuje brzmienie: „3) art. 26 ust. 5 ustawy zdnia 29 lipca 2005 r. oprzeciwdzia∏aniu narkomanii (Dz. U. 179, poz. 1485);”.
+**Art. 80.** W ustawie z dnia 2 lipca 2004 r. o swobodzie działalności gospodarczej (Dz. U. 173, poz.1807, zpóên. zm. ) wart.75 wust. 1 pkt 5 otrzymuje brzmienie: Ń5) ustawy z dnia 29 lipca 2005 r. o przeciwdziałaniu narkomanii (Dz. U. 179, poz. 1485);”.
 
-**Art. 82.** Zezwolenia wydane na podstawie art. 23 ust. 1—3 i8, art. 25 ust. 2 i3 oraz art. 27 ust. 1 i2 ustawy, o której mowa w art. 90, zachowujà wa˝noÊç po wejÊciu w ˝ycie niniejszej ustawy.
+**Art. 81.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. 210, poz. 2135, z póên. zm. ) w art. 12 pkt 3 otrzymuje brzmienie: Ń3) art. 26 ust. 5 ustawy zdnia 29 lipca 2005 r. oprzeciwdziałaniu narkomanii (Dz. U. 179, poz. 1485);”.
 
-**Art. 83.** Zezwolenia na leczenie substytucyjne wydane na podstawie przepisów dotychczasowych stajà si´ z dniem wejÊcia w ˝ycie ustawy zezwoleniami, o których mowa w art. 28.
+**Art. 82.** Zezwolenia wydane na podstawie art. 23 ust. 1—3 i8, art. 25 ust. 2 i3 oraz art. 27 ust. 1 i2 ustawy, o której mowa w art. 90, zachowują ważność po wejściu w życie niniejszej ustawy.
+
+**Art. 83.** Zezwolenia na leczenie substytucyjne wydane na podstawie przepisów dotychczasowych stają się z dniem wejścia w życie ustawy zezwoleniami, o których mowa w art. 28.
 
 **Art. 84.**
 
-1. Zezwolenia na kontraktacj´ maku lub konopi w∏óknistych wydane przed dniem wejÊcia w˝ycie niniejszej ustawy tracà wa˝noÊç z dniem 31 grudnia 2005 r.
+1. Zezwolenia na kontraktację maku lub konopi włóknistych wydane przed dniem wejścia wżycie niniejszej ustawy tracą ważność z dniem 31 grudnia 2005 r.
 
-2. Wprzypadku gdy podmiot posiadajàcy zezwolenie, o którym mowa w ust. 1, wystàpi, w terminie do dnia 31 grudnia 2005 r., z wnioskiem o wydanie zezwolenia na wykonywanie dzia∏alnoÊci wzakresie skupu maku lub konopi w∏óknistych, dotychczasowe zezwolenie zachowuje wa˝noÊç do dnia, wktórym decyzja wydana po rozpatrzeniu wniosku stanie si´ ostateczna.
+2. Wprzypadku gdy podmiot posiadający zezwolenie, o którym mowa w ust. 1, wystąpi, w terminie do dnia 31 grudnia 2005 r., z wnioskiem o wydanie zezwolenia na wykonywanie działalności wzakresie skupu maku lub konopi włóknistych, dotychczasowe zezwolenie zachowuje ważność do dnia, wktórym decyzja wydana po rozpatrzeniu wniosku stanie się ostateczna.
 
-**Art. 85.** Certyfikaty ukoƒczenia specjalistycznego bilitacj´, które nie uzyska∏y certyfikatu specjalisty terapii uzale˝nieƒ lub instruktora terapii uzale˝nieƒ, sà obowiàzane do ukoƒczenia szkolenia, októrym mowa w art. 27 ust. 1, w terminie 5 lat od dnia wejÊcia w ˝ycie ustawy.
+**Art. 85.** Certyfikaty ukończenia specjalistycznego bilitację, które nie uzyskały certyfikatu specjalisty terapii uzależnień lub instruktora terapii uzależnień, są obowiązane do ukończenia szkolenia, októrym mowa w art. 27 ust. 1, w terminie 5 lat od dnia wejścia w życie ustawy.
 
-**Art. 87.** Szkolenia rozpocz´te przed dniem wejÊcia w ˝ycie ustawy oraz egzamin koƒczàcy te szkolenia przeprowadza si´ wed∏ug programów szkolenia w dziedzinie uzale˝nienia od narkotyków zatwierdzonych przed dniem wejÊcia w ˝ycie niniejszej ustawy.
+**Art. 87.** Szkolenia rozpoczęte przed dniem wejścia w życie ustawy oraz egzamin kończący te szkolenia przeprowadza się według programów szkolenia w dziedzinie uzależnienia od narkotyków zatwierdzonych przed dniem wejścia w życie niniejszej ustawy.
 
 **Art. 88.**
 
-1. Krajowe Biuro do Spraw Przeciwdzia∏ania Narkomanii dzia∏ajàce na podstawie niniejszej ustawy wst´puje we wszystkie prawa iobowiàzki Krajowego Biura do Spraw Przeciwdzia∏ania Narkomanii dzia∏ajàcego na podstawie art. 3aust. 1 ustawy, októrej mowa w art. 90.
+1. Krajowe Biuro do Spraw Przeciwdziałania Narkomanii działające na podstawie niniejszej ustawy wstępuje we wszystkie prawa iobowiązki Krajowego Biura do Spraw Przeciwdziałania Narkomanii działającego na podstawie art. 3aust. 1 ustawy, októrej mowa w art. 90.
 
-2. Mienie u˝ytkowane przez Krajowe Biuro do Spraw Przeciwdzia∏ania Narkomanii dzia∏ajàce na podstawie art. 3a ust. 1 ustawy, o której mowa szkolenia w dziedzinie uzale˝nienia od narkotyków w zakresie specjalisty terapii uzale˝nieƒ i instruktora terapii uzale˝nieƒ uzyskane przed dniem wejÊcia w˝ycie niniejszej ustawy stajà si´ certyfikatami specjalisty terapii uzale˝nieƒ iinstruktora terapii uzale˝nieƒ wrozumieniu przepisów niniejszej ustawy.
+2. Mienie użytkowane przez Krajowe Biuro do Spraw Przeciwdziałania Narkomanii działające na podstawie art. 3a ust. 1 ustawy, o której mowa szkolenia w dziedzinie uzależnienia od narkotyków w zakresie specjalisty terapii uzależnień i instruktora terapii uzależnień uzyskane przed dniem wejścia wżycie niniejszej ustawy stają się certyfikatami specjalisty terapii uzależnień iinstruktora terapii uzależnień wrozumieniu przepisów niniejszej ustawy.
 
-**Art. 86.** Osoby zatrudnione wdniu wejÊcia w˝ycie niniejszej ustawy w jednostkach prowadzàcych rehaw art. 90, staje si´ z dniem wejÊcia w ˝ycie ustawy mieniem u˝ytkowanym przez Krajowe Biuro do Spraw Przeciwdzia∏ania Narkomanii dzia∏ajàce na podstawie niniejszej ustawy. 3. PrzejÊcie praw imienia Krajowego Biura do Spraw Przeciwdzia∏ania Narkomanii dzia∏ajàcego napodstawie art. 3aust. 1 ustawy, októrej mowa wart.90, na Krajowe Biuro do Spraw Przeciwdzia∏ania Narkomanii, dzia∏ajàce na podstawie niniejszej ustawy, nast´puje nieodp∏atnie oraz jest wolne od podatków iop∏at. 4. Pracownicy Krajowego Biura do Spraw Przeciwdzia∏ania Narkomanii dzia∏ajàcego na podstawie art.3aust. 1 ustawy, októrej mowa wart. 90, zdniem wejÊcia w ˝ycie ustawy stajà si´ pracownikami Krajowego Biura do Spraw Przeciwdzia∏ania Narkomanii dzia∏ajàcego na podstawie niniejszej ustawy.
+**Art. 86.** Osoby zatrudnione wdniu wejścia wżycie niniejszej ustawy w jednostkach prowadzących rehaw art. 90, staje się z dniem wejścia w życie ustawy mieniem użytkowanym przez Krajowe Biuro do Spraw Przeciwdziałania Narkomanii działające na podstawie niniejszej ustawy. 3. Przejście praw imienia Krajowego Biura do Spraw Przeciwdziałania Narkomanii działającego napodstawie art. 3aust. 1 ustawy, októrej mowa wart.90, na Krajowe Biuro do Spraw Przeciwdziałania Narkomanii, działające na podstawie niniejszej ustawy, następuje nieodpłatnie oraz jest wolne od podatków iopłat. 4. Pracownicy Krajowego Biura do Spraw Przeciwdziałania Narkomanii działającego na podstawie art.3aust. 1 ustawy, októrej mowa wart. 90, zdniem wejścia w życie ustawy stają się pracownikami Krajowego Biura do Spraw Przeciwdziałania Narkomanii działającego na podstawie niniejszej ustawy.
 
-**Art. 89.** Akty wykonawcze wydane na podstawie art. 5 ust. 6, art. 9 ust. 4, art. 11 ust. 3, art. 12 ust. 3, art.14 ust. 4, art. 15 ust. 5, art. 16, art. 22 ust. 5, art. 23 ust. 14, art. 24 ust. 2, art. 25 ust. 4, art. 27 ust. 6, art. 28 ust. 4, art. 29 ust. 2, art. 30 ust. 2, art. 31 ust. 2biart.56 ust. 6 ustawy, o której mowa w art. 90 niniejszej ustawy, zachowujà moc do dnia wejÊcia w˝ycie przepisów wydanych na podstawie art. 7 ust. 5, art. 12 ust. 4, art.22 ust. 3, art. 23 ust. 4, art. 24 ust. 6, art. 27 ust. 12 i 13, art. 28 ust. 7, art. 29 ust. 2, art. 34 ust. 5, art. 35 ust. 10, art. 36 ust. 3, art. 37 ust. 12, art. 38 ust. 5, art. 40 ust. 6, art. 41 ust. 5, art. 42 ust. 2, art. 43 ust. 2 i art. 44 ust. 9.
+**Art. 89.** Akty wykonawcze wydane na podstawie art. 5 ust. 6, art. 9 ust. 4, art. 11 ust. 3, art. 12 ust. 3, art.14 ust. 4, art. 15 ust. 5, art. 16, art. 22 ust. 5, art. 23 ust. 14, art. 24 ust. 2, art. 25 ust. 4, art. 27 ust. 6, art. 28 ust. 4, art. 29 ust. 2, art. 30 ust. 2, art. 31 ust. 2biart.56 ust. 6 ustawy, o której mowa w art. 90 niniejszej ustawy, zachowują moc do dnia wejścia wżycie przepisów wydanych na podstawie art. 7 ust. 5, art. 12 ust. 4, art.22 ust. 3, art. 23 ust. 4, art. 24 ust. 6, art. 27 ust. 12 i 13, art. 28 ust. 7, art. 29 ust. 2, art. 34 ust. 5, art. 35 ust. 10, art. 36 ust. 3, art. 37 ust. 12, art. 38 ust. 5, art. 40 ust. 6, art. 41 ust. 5, art. 42 ust. 2, art. 43 ust. 2 i art. 44 ust. 9.
 
-**Art. 90.** Traci moc ustawa zdnia 24 kwietnia 1997r. o przeciwdzia∏aniu narkomanii (Dz. U. z 2003 r. 24, poz. 198 iNr 122, poz. 1143, z 2004 r. 238, poz. 2390 ——————— oraz z 2005 r. 175, poz.1462).
+**Art. 90.** Traci moc ustawa zdnia 24 kwietnia 1997r. o przeciwdziałaniu narkomanii (Dz. U. z 2003 r. 24, poz. 198 iNr 122, poz. 1143, z 2004 r. 238, poz. 2390 ——————— oraz z 2005 r. 175, poz.1462).
 
-**Art. 91.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski WYKAZ ÂRODKÓW ODURZAJÑCYCH 1. Ârodki odurzajàce grupy I-N Mi´dzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 ACETORFINA 3-O-acetylo-6,7,8,14-tetrahydro-7α-(1-hydroksy-1-metylobutylo)-6,14-endo-etenooripawina Acetylo-α- N-(1-(α-metylofenetylo)-4-piperydylo)acetanilid metylofentanyl ACETYLOMETADOL 3-acetoksy-6-dimetyloamino-4,4-difenyloheptan ALLILOPRODYNA 3-allilo-4-fenylo-1-metylo-4-propionyloksypiperydyna ALFAACETYLOMETADOL α-3-acetoksy-6-dimetyloamino-4,4-difenyloheptan, czyli (3R, 6R)-3-acetoksy-6-dimetyloamino-4,4-difenyloheptan ALFAMEPRODYNA α-3-etylo-4-fenylo-1-metylo-4-propionyloksypiperydyna, czyli cis-3-etylo-4-fenylo-1-metylo-4-propionyloksypiperydyna ALFAMETADOL α-6-dimetyloamino-4,4-difenylo-3-heptanol czyli (3R, 6R)-6-dimetyloamino-4,4-difenylo-3-heptanol α-Metylofentanyl N-[1-(α-metylofenetylo)-4-piperydylo]propionanilid α-Metylotiofentanyl N-[1-[1-metylo-2-(2-tienylo)etylo]-4-piperydylo]propionanilid ALFAPRODYNA α-4-fenylo-1,3-dimetylo-4-propionyloksypiperydyna, czyli cis-(±)-4-fenylo-1,3-dimetylo-4-propionyloksypiperydyna ALFENTANYL N-[1-[2-(4-etylo-4,5-dihydro-5-okso-1H-tetrazol-1-ilo) etylo]-4-(metoksymetylo)-4-piperydynylo]-N-fenylopropanamid ANILERYDYNA ester etylowy kwasu 1-p-aminofenetylo-4-fenylo-4-piperydynokarboksylowego BENZETYDYNA ester etylowy kwasu 1-(2-benzyloksyetylo)-4-fenylo-4-piperydynokarboksylowego BENZYLOMORFINA 3-benzylomorfina, czyli 3-benzyloksy-7,8-didehydro-4,5-α-epoksy-17-metylomorfinan-6α-ol BETACETYLOMETADOL β-3-acetoksy-6-dimetyloamino-4,4-difenyloheptan β-Hydroksyfentanyl N-[1-(β-hydroksyfenetylo)-4-piperydylo]propionanilid β-Hydroksy-3- N-[1-(β-hydroksyfenetylo)-3-metylo-4-piperydylo]metylofentanyl propionanilid BETAMEPRODYNA β-3-etylo-4-fenylo-1-metylo-4-propionyloksypiperydyna BETAMETADOL β-6-dimetyloamino-4,4-difenylo-3-heptanol, czyli (3S, 6R)-6-dimetyloamino-4,4-difenylo-3-heptanol BETAPRODYNA β-4-fenylo-1,3-dimetylo-4-propionyloksypiperydyna BEZYTRAMID 1-(3-cyjano-3,3-difenylopropylo)-4-(2-okso-3-propionylo-1-benzimidazolinylo)piperydyna DEZOMORFINA dihydrodeoksymorfina, czyli 4,5-epoksy-3-hydroksy-17-metylomorfinan DEKSTROMORAMID Palfium (+)-4-[3,3-difenylo-2-metylo-4-okso-4-(1-pirolidynylo)-butylo]-morfolina, czyli (+)-1-(2,2-difenylo-3-metylo-4-morfolinobutyrylo)pirolidyna 1 2 3 DIAMPROMID N-[2-(N-metylo-N-fenetyloamino)-propylo] propionanilid DIETYLOTIAMBUTEN 3-dietyloamino-1,1-di-(2’-tienylo)-1-buten DIFENOKSYNA kwas 1-(3-cyjano-3,3-difenylopropylo)-4-fenylo-4-piperydynokarboksylowy DIHYDROETORFINA 7,8-dihydro-7-α-[1-(R)-hydroksy-1-metylobutylo]-6,14-endo-etanotetrahydrooripawina DIHYDROMORFINA 4,5α-epoksy-17-metylomorfinan-3,6α-diol DIMENOKSADOL ester 2-dimetyloaminoetylowy kwasu 1-etoksy-1,1-difenylooctowego DIMEFEPTANOL 6-dimetyloamino-4,4-difenylo-3-heptanol DIMETYLOTIAMBUTEN 3-dimetyloamino-1,1-di(2’-tienylo)-1-buten DIFENOKSYLAT ester etylowy kwasu 1-(3-cyjano-3,3-difenylopropylo)-4-fenylo-4-piperydynokarboksylowego DIPIPANON 4,4-difenylo-6-piperydyno-3-heptanon DROTEBANOL 3,4-dimetoksy-17-metylomorfinan-6β,14-diol EKGONINA kwas [1R-(egzo)]-3-hydroksy-8-metylo-8-azabicyklo [3.2.1]oktano-2-karboksylowy ETYLOMETYLOTIAMBUTEN 3-etylometyloamino-1,1-di-(2’-tienylo)-1-buten ETONITAZEN 1-(2-dietyloaminoetylo)-2-(p-etoksybenzylo)-5-nitrobenzimidazol ETORFINA 6,7,8,14-tetrahydro-7α-(1-hydroksy-1-metylobutylo)-6,14-endo-etenooripawina ETOKSERYDYNA ester etylowy kwasu 1-[2-(2-hydroksyetoksy)etylo]-4-fenylo-4-piperydynokarboksylowego FENADOKSON 4,4-difenylo-6-morfolino-3-heptanon FENAMPROMID N-(1-metylo-2-piperydynoetylo)propionanilid FENAZOCYNA 2’-hydroksy-5,9-dimetylo-2-fenetylo-6,7-benzomorfan, czyli 3-fenetylo-1, 2, 3, 4, 5, 6-heksahydro-6,11-dimetylo-2,6-metano-3-benzazocyn-8-ol FENOMORFAN 3-hydroksy-17-fenetylomorfinan FENOPERYDYNA ester etylowy kwasu 1-(3-fenylo-3-hydroksypropylo)-4-fenylo-4-piperydynokarboksylowego FENTANYL 1-fenetylo-4-(N-propionyloanilino)piperydyna, czyli N-(1-fenetylo-4-piperydylo)propionanilid FURETYDYNA ester etylowy kwasu 4-fenylo-1-(2- tetrahydrofurfuryloksyetylo)-4-piperydynokarboksylowego HEROINA diacetylomorfina, czyli 3,6α-diacetoksy-7,8-didehydro-4,5α-epoksy-17-metylomorfinan HYDROKODON dihydrokodeinon, czyli 4,5α-epoksy-3-metoksy-17-metylomorfinan-6-on HYDROMORFINOL 14-hydroksy-7,8-dihydromorfina HYDROMORFON dihydromorfinon, czyli 4,5α-epoksy-3-hydroksy-17-metylomorfinan-6-on HYDROKSYPETYDYNA ester etylowy kwasu 4-m-hydroksyfenylo-1-metylo-4-piperydynokarboksylowego IZOMETADON 6-dimetyloamino-4,4-difenylo-5-metylo-3-heksanon KETOBEMIDON Cliradon 4-m-hydroksyfenylo-1-metylo-4-propionylopiperydyna KODOKSYM O-(karboksymetylo)oksym dihydrokodeinonu 1 2 3 KONOPI ZIELE I ˚YWICA innych ni˝ w∏ókniste oraz wyciàgi, nalewki farmaceutyczne, a tak˝e wszystkie inne wyciàgi z konopi innych ni˝ w∏ókniste KOKAINA ester metylowy benzoiloekgoniny, czyli ester metylowy kwasu [1R-(egzo, egzo)]-3-benzoiloksy-8-metylo-8-azabicyklo[3.2.1]oktano-2-karboksylowego KOKA LIÂCIE KLONITAZEN 2-(p-chlorobenzylo)-1-(2-dietyloaminoetylo)-5-nitro-benzimidazol LEWOMETORFAN (-)-3-metoksy-17-metylomorfinan LEWOMORAMID (-)-4-[2-metylo-4-okso-3,3-difenylo-4-(1-pirolidynylo)butylo]morfolina, czyli (-)-1-(2,2-difenylo-3-metylo-4-morfolinobutyrylo) pirolidyna LEWOTENACYLOMORFAN (-)-3-hydroksy-17-fenacylomorfinan LEWORFANOL (-)-3-hydroksy-17-metylomorfinan MAKOWEJ S¸OMY KONCENTRATY produkty powstajàce w procesie otrzymywania alkaloidów ze s∏omy makowej, je˝eli produkty te sà wprowadzone do obrotu MAKOWEJ S¸OMY WYCIÑGI inne ni˝ koncentraty produkty otrzymywane ze s∏omy makowej przy jej ekstrakcji wodà lub jakimkolwiek innym rozpuszczalnikiem, a tak˝e inne produkty otrzymywane przez przerób mleczka makowego METAZOCYNA 2’-hydroksy -2,5,9-trimetylo-6,7-benzomorfan METADON 6-dimetyloamino-4,4-difenylo-3-heptanon METADONU PÓ¸PRODUKT 4-cyjano-2-dimetyloamino-4,4-difenylobutan METYLODEZORFINA 6-metylo-∆ -deoksymorfina METYLODIHYDROMORFINA 6-metylodihydromorfina 3-Metylofentanyl N-(1-fenetylo-3-metylo-4-piperydylo)propionanilid (forma cis- i forma trans-) 3-Metylotiofentanyl N-[3-metylo-1-[2-(2-tienylo)etylo]-4-piperydylo]propionanilid METOPON 5-metylodihydromorfinon, czyli 4,5-epoksy-3-hydroksy-5,17-dimetylomorfinan-6-on MIROFINA mirystylobenzylomorfina, czyli 3-benzyloksy-7,8-didehydro-4,5α-epoksy-6α-mirystoiloksy-17-metylomorfinan MORAMIDU PÓ¸PRODUKT kwas 1,1-difenylo-2-metylo-3-morfolinomas∏owy MORFERYDYNA ester etylowy kwasu 4-fenylo-1-(2-morfolinoetylo)-4-piperydynokarboksylowego MORFINA 7,8-didehydro-4,5 α -epoksy-17-metylomorfinan-3,6 α -diol 1 2 3 MORFINY METYLOBROMEK oraz inne pochodne morfiny zawierajàce azot czwartorz´dowy MORFINY N-TLENEK N-tlenek 7,8-didehydro-4,5α-epoksy-17-metylomorfinan-3,6α-diolu MPPP propionian 4-fenylo-1-metylo-4-piperydynolu NIKOMORFINA 3,6-dinikotynoilomorfina NORACYMETADOL α-(+)-3-acetoksy-4,4-difenylo-6-metyloaminoheptan NORLEWORFANOL (-)-3-hydroksymorfinan NORMETADON 6-dimetyloamino-4,4-difenylo-3-heksanon NORMORFINA demetylomorfina, czyli 7,8-didehydro-4,5α-epoksymorfinan-3,6α-diol NORPIPANON 4,4-difenylo-6-piperydyno-3-heksanon OPIUM I NALEWKA Z OPIUM OKSYKODON Eukodal 14-hydroksydihydrokodeinon, czyli 4,5 α -epoksy-14-hydroksy-3-metoksy-17-metylomorfinan-6-on OKSYMORFON 14-hydroksydihydromorfinon, czyli 4,5α-epoksy-3,14-dihydroksy-17-metylomorfinan-6-on Para-fluorofentanyl 4’-fluoro-N-(1-fenetylo-4-piperydylo)propionanilid PEPAP octan 1-fenetylo-4-fenylo-4-piperydynolu PETYDYNA Dolargan ester etylowy kwasu 4-fenylo-1-metylo-4-piperydynokarboksylowego PETYDYNY PÓ¸PRO- 4-cyjano-4-fenylo-1-metylopiperydyna DUKT A PETYDYNY PÓ¸PRO- ester etylowy kwasu 4-fenylo-4-piperydyno-karboksyloDUKT B wego PETYDYNY PÓ¸PRO- kwas 4-fenylo-1-metylo-4-piperydynokarboksylowy DUKT C PIMINODYNA ester etylowy kwasu 4-fenylo-1-(3-fenyloaminopropylo)-4-piperydynokarboksylowego PIRYTRAMID amid kwasu 1-(3-cyjano-3,3-difenylopropylo)-4-(1-piperydyno)-4-piperydynokarboksylowego, czyli amid kwasu 1’-(3-cyjano-3,3-difenylopropylo)-(1,4’-bipiperydyno)-4’-karboksylowego PROHEPTAZYNA 4-fenylo-1,3-dimetylo-4-propionyloksyazacykloheptan PROPERYDYNA ester izopropylowy kwasu 4-fenylo-1-metylo-4-piperydynokarboksylowego RACEMETORFAN (±)-3-metoksy-17-metylomorfinan RACEMORAMID (±)-4-[3,3-difenylo-2-metylo-4-okso-4-(1-pirolidynylo) butylo]morfolina RACEMORFAN (±)-3-hydroksy-17-metylomorfinan REMIFENTANYL ester metylowy kwasu 1-(2-metoksykarbonyloetylo)-4-(fenylopropionyloamino)-piperydyno-4-karboksylowego SUFENTANIL N-[4-(metoksymetylo)-1-[2-(2-tienylo)etylo]-4-piperydylo] propionanilid TEBAKON acetylodihydrokodeinon, czyli 6-acetoksy-6,7-didehydro-4,5α-epoksy-3-metoksy-17-metylomorfinan TEBAINA 6,7,8,14-tetradehydro-4,5α-epoksy-3,6-dimetoksy-17-metylomorfinan 2. Ârodki odurzajàce grupy II-N 3. Ârodki odurzajàce grupy III-N 1. Preparaty zawierajàce oprócz innych sk∏adników kodein´, której iloÊç nie przekracza 50 mg w jednej dawce lub st´˝enie nie przekracza 1,5 % w preparatach w formie niepodzielonej. 1 2 3 Tiofentanyl N-[1-[2-(2-tienylo)etylo]-4-piperydylo]propionanilid TRIMEPERYDYNA 4-fenylo-1,2,5-trimetylo-4-propionyloksypiperydyna TYLIDYNA ester etylowy kwasu (+)-trans-2-(dimetyloamino)-1-fenylo-3-cyklohekseno-1-karboksylowego oraz: izomery Êrodków odurzajàcych wymienionych w niniejszej grupie, je˝eli istnienie takich izomerów jest mo˝liwe w ramach u˝ytego oznaczenia chemicznego, chyba ˝e izomery takie sà wyraênie wy∏àczone, estry i etery Êrodków odurzajàcych wymienionych w niniejszej grupie, je˝eli istnienie takich estrów i eterów jest mo˝liwe, chyba ˝e sà one wymienione w innej grupie, sole Êrodków odurzajàcych wymienionych wniniejszej grupie, w∏àczajàc wto sole estrów, eterów iizomerów, o których mowa wy˝ej, je˝eli istnienie takich soli jest mo˝liwe Mi´dzynarodowe nazwy 2. Preparaty zawierajàce oprócz innych sk∏adników: ACETYLODIHYDROKODEIN¢ DIHYDROKODEIN¢ ETYLOMORFIN¢ NORKODEIN¢ zalecane Inne nazwy Oznaczenia chemiczne 1 2 3 ACETYLODIHYDROKO- 6-acetylo-7,8-dihydrokodeina DEINA KODEINA 3-O-metylomorfina, czyli 7,8-didehydro-4,5α-epoksy-3-metoksy-17-metylomorfinan-6α-ol DEKSTROPROPOKSYFEN (+)-1,2-difenylo-4-dimetyloamino-3-metylo-2-propionyloksybutan, czyli propionian (2S, 3R)-(+)-1,2-difenylo-4-dimetyloamino-3-metylo-2-butanolu DIHYDROKODEINA 7,8-dihydrokodeina ETYLOMORFINA Dionina 3-O-etylomorfina FOLKODYNA morfolinyloetylomorfina, czyli 7,8-didehydro-4,5α-epoksy-17-metylo-3-(2-morfolinoetoksy)morfinan-6α-ol NIKODYKODYNA 6-nikotynoilo-7,8-dihydrokodeina NIKOKODYNA 6-nikotynoilokodeina NORKODEINA N-demetylokodeina PROPIRAM N-(1-metylo-2-piperydynoetylo)-N-(2-pirydylo) propionamid oraz: izomery Êrodków odurzajàcych wymienionych w niniejszej grupie, je˝eli istnienie takich izomerów jest mo˝liwe wramach u˝ytego oznaczenia chemicznego, chyba ˝e istnienie takich izomerów jest wyraênie wy∏àczone, sole Êrodków odurzajàcych wymienionych wniniejszej grupie, w∏àczajàc wto sole estrów, eterów iizomerów, o których mowa wy˝ej, je˝eli istnienie takich soli jest mo˝liwe NIKODYKODYN¢ NIKOKODYN¢ wktórych iloÊç Êrodka odurzajàcego nie przekracza 100 mg wjednej dawce lub st´˝enie nie przekracza 2,5% w preparatach w formie niepodzielonej. 3. Preparaty zawierajàce w jednej dawce najwy˝ej 2,5 mg difenoksylatu obliczonego w postaci zasady i nie mniej ni˝ 0,025 mg siarczanu atropiny w jednej dawce. 4. Preparaty zawierajàce w jednej dawce nie wi´cej ni˝ 0,5 mg difenoksyny oraz takie iloÊci winianu atropiny, które odpowiadajà co najmniej 5 % dawki difenoksyny. 4. Ârodki odurzajàce grupy IV-N Mi´dzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 ACETORFINA 3-O-acetylo-6,7,8, 14-tetrahydro-7α-(1-hydroksy-1-metylobutylo)-6,14-endo-etenooripawina Acetylo-α- N-[1-(α-metylofenetylo)-4-piperydylo]acetanilid metylofentanyl α-Metylofentanyl N-[1-(α-metylofenetylo)-4-piperydylo]propionanilid 3-Metylotiofentanyl N-[3-metylo-1-[2-(2-tienylo)etylo]-4-piperydylo]propionanilid β-Hydroksyfentanyl N-[1-(β-hydroksyfenetylo)-4-piperydylo]propionanilid β-Hydroksy-3- N-[1-(β-hydroksyfenetylo)-3-metylo-4-piperydylo]-propiometylofentanyl nanilid DEZOMORFINA dihydrodeoksymorfina, czyli 4,5-epoksy-3-hydroksy-17-metylomorfinan ETORFINA 6,7,8,14-tetrahydro-7α-(1-hydroksy-1-metylobutylo)-6,14-endo-etenooripawina HEROINA diacetylomorfina, czyli 3,6α-diacetoksy-7,8-didehydro-4,5α-epoksy-17-metylomorfinan KETOBEMIDON Cliradon 4-m-hydroksyfenylo-1-metylo-4-propionylopiperydyna KONOPI ZIELE I ˚YWICA innych ni˝ w∏ókniste oraz wyciàgi, nalewki farmaceutyczne, a tak˝e wszystkie inne wyciàgi z konopi innych ni˝ w∏ókniste 3-Metylofentanyl N-(1-fenetylo-3-metylo-4-piperydylo)propionanilid (forma cis- i forma trans-) MPPP propionian 4-fenylo-1-metylo-4-piperydynolu Para-fluorofentanyl 4’-fluoro-N-(1-fenetylo-4-piperydylo)propionanilid PEPAP octan 1-fenetylo-4-fenylo-4-piperydynolu Tiofentanyl N-[1-[2-(2-tienylo)etylo]-4-piperydylo]propionanilid oraz: izomery Êrodków odurzajàcych wymienionych w niniejszej grupie, je˝eli istnienie takich izomerów jest mo˝liwe w ramach u˝ytego oznaczenia chemicznego, chyba ˝e izomery takie sà wyraênie wy∏àczone, estry i etery Êrodków odurzajàcych wymienionych w niniejszej grupie, je˝eli istnienie takich estrów i eterów jest mo˝liwe, chyba ˝e sà one wymienione w innej grupie, sole Êrodków odurzajàcych wymienionych w niniejszej grupie, w∏àczajàc w to sole estrów, eterów i izomerów, o których mowa wy˝ej, je˝eli istnienie takich soli jest mo˝liwe Mo˝e byç stosowana w lecznictwie zwierzàt. WYKAZ SUBSTANCJI PSYCHOTROPOWYCH 1. Substancje psychotropowe grupy I-P Mi´dzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 2C-I 2,5-dimetoksy-4-jodofenetyloamina 2C-T-2 2,5-dimetoksy-4-etylotiofenetyloamina 2C-T-7 2,5-dimetoksy-4-n-propylotiofenetyloamina BROLAMFETAMINA DOB 2,5-dimetoksy-4-bromoamfetamina DET N,N-dietylotryptamina DMA (±)-2,5-dimetoksy-α-metylofenetyloamina, czyli 2,5-dimetoksyamfetamina DOET (±)-2,5-dimetoksy-4-etylo-α-metylofenetyloamina, czyli 2,5-dimetoksy-4-etyloamfetamina DMHP 3-(1,2-dimetyloheptylo)-1-hydroksy-7,8,9,10-tetrahydro-6,6,9-trimetylo-6H-dibenzo[b,d]piran DMT N,N-dimetylotryptamina ETRYPTAMINA 3-(2-aminobutylo)indol N-Etylo-MDA, (±)-N-etylo-α-metylo-3,4-(metylenodioksy)-fenetyloamina MDEA N-Hydroksy-MDA (±)-N-[α-metylo-3,4-(metylenodioksy)fenetylo]hydroksylamina Metkatynon 2-(metyloamino)-1-fenylopropan-1-on 4-Metyloaminoreks (±)-cis-2-amino-4-metylo-5-fenylo-2-oksazolina 4-MTA α-metylo-4-metylotiofenetyloamina czyli 4-metylotioamfetamina ETYCYKLIDYNA PCE N-etylo-1-fenylocykloheksyloamina KATYNON (-)-α-aminopropiofenon (+)-LIZERGID LSD, LSD-25 dietyloamid kwasu 9,10-didehydro-6-metyloergolino-8β-karboksylowego MDMA (±)-3,4-metylenodioksy-N,α-dimetylofenetyloamina, czyli 3,4-metylenodioksymetamfetamina MMDA (±)-5-metoksy-3,4-metylenodioksy- α - metylofenetyloamina, czyli 5-metoksy-3,4-metylenodioksyamfetamina Meskalina 3,4,5-trimetoksyfenetyloamina Paraheksyl 3-heksylo-1-hydroksy-7,8,9,10-tetrahydro-6,6,9-trimetylo-6H-dibenzo[b,d]piran PMA 4-metoksy-α-metylofenetyloamina, czyli para-metoksyamfetamina PMMA 4-metoksy-N,α-dimetylofenetyloamina, czyli p-metoksymetamfetamina Psylocyna 3-(2-dimetyloaminoetylo)-4-hydroksyindol PSYLOCYBINA diwodorofosforan 3-(2-dimetyloaminoetylo)-4-indolilu ROLICYKLIDYNA PHP, PCPY 1-(1-fenylocykloheksylo)pirolidyna STP, DOM 2-amino-1-(2,5-dimetoksy-4-metylofenylo)propan TENAMFETAMINA MDA 3,4-metylenodioksyamfetamina TENOCYKLIDYNA TCP 1-[1-(2-tienylo)cykloheksylo]piperydyna 1 2 3 TMA (±)-3,4,5-trimetoksy-α-metylofenetyloamina, czyli 3,4,5-trimetoksyamfetamina TMA-2 2,4,5-trimetoksyamfetamina Tetrahydrokanna- nast´pujàce izomery i ich warianty stereochemiczne: binole ⇒7,8,9,10-tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒(9R,10aR)-8,9,10,10a-tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒(6aR,9R,10aR)-6a,9,10,10a-tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒(6aR,10aR)-6a,7,10,10a-tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒6a,7,8,9- tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒(6aR,10aR)-6a,7,8,9,10,10a-heksahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol oraz sole substancji zamieszczonych w tej grupie w ka˝dym przypadku, gdy istnienie takich soli jest mo˝liwe, stereoizomery substancji zamieszczonych wtej grupie, je˝eli istnienie takich stereoizomerów jest mo˝liwe w ramach u˝ytego oznaczenia chemicznego, chyba ˝e stereoizomery takie sà wyraênie wy∏àczone 2. Substancje psychotropowe grupy II-P Mi´dzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 2C-B 4-bromo-2,5-dimetoksyfenetyloamina AMFETAMINA Psychedryna (±)-2-amino-1-fenylopropan AMINEPTYNA Kwas 7-[(10,11-dihydro-5H-dibenzo[a,d]cyklohepten-5-ylo)amino]-heptanowy DEKSAMFETAMINA (+)-2-amino-1-fenylopropan FENCYKLIDYNA PCP 1-(1-fenylocykloheksylo)piperydyna FENETYLINA (±)-3,7-dihydro-1,3-dimetylo-7-[2-[(1-metylo-2-fenetylo)-amino]-etylo]-1H-puryno-2,6-dion FENMETRAZYNA 2-fenylo-3-metylomorfolina KETAMINA 2-(2-chlorofenylo)-2-(metyloamino)-cykloheksan LEWAMFETAMINA (-)-α-metylofenetyloamina LEWOMETAMFETAMINA (-)-1-N,α-dimetylofenetyloamina MEKLOKWALON 3-(o-chlorofenylo)-2-metylo-4(3H)-chinazolinon METAKWALON 2-metylo-3-(o-tolilo)-4(3H)-chinazolinon METAMFETAMINA Metamfetamina (+)-2-metyloamino-1-fenylopropan racemiczna (±)-2-metyloamino-1-fenylopropan METYLOFENIDAT Rytalina ester metylowy kwasu α-fenylo-(2-piperydyno)-octowego PENTAZOCYNA Fortral (2R*, 6R*, 11R*)-1,2,3,4,5,6-heksahydro-8-hydroksy-6,11-dimetylo-3-(3-metylo-2-butenylo)-2,6-metano-3-benzazocyna SEKOBARBITAL kwas 5-allilo-5-(1-metylobutylo)barbiturowy 1 2 3 ∆-9-Tetrahydrokan- (6aR,10aR)-6a,7,8,10a- tetrahydro-6,6,9-trimetylo-3-pentynabinol i jego wa- lo-6H-dibenzo[b,d]piran-1-ol rianty stereochemiczne ZIPEPROL α-(α-metoksybenzylo-4-β-metoksyfenylo)-1-piperazynoetanol oraz sole substancji zamieszczonych wtej grupie wka˝dym przypadku, gdy istnienie takich soli jest mo˝liwe 3. Substancje psychotropowe grupy III-P Mi´dzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 AMOBARBITAL Amytal kwas 5-etylo-5-izopentylobarbiturowy BUPRENORFINA 21-cyklopropylo-7-α-[(S)-1-hydroksy-1,2,2-trimetylopropylo]-6,14-endo-etano-6,7,8,14-tetrahydrooripawina BUTALBITAL kwas 5-allilo-5-izobutylobarbiturowy CYKLOBARBITAL kwas 5-(1-cykloheksen-1-ylo)-5-etylobarbiturowy FLUNITRAZEPAM 5-(o-fluorofenylo)-1,3-dihydro-1-metylo-7-nitro-2H-1,4-benzodiazepin-2-on GLUTETIMID Glimid 3-etylo-3-fenylo-2,6-dioksopiperydyna KATYNA (+)-treo-2-amino-1-hydroksy-1-fenylopropan PENTOBARBITAL Nembutal kwas 5-etylo-5-(1-metylobutylo)-barbiturowy oraz sole substancji zamieszczonych w tej grupie w ka˝dym przypadku, gdy istnienie takich soli jest mo˝liwe 4. Substancje psychotropowe grupy IV-P Mi´dzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 ALLOBARBITAL kwas 5,5-diallilobarbiturowy ALPRAZOLAM 8-chloro-6-fenylo-1-metylo-4H-s-triazolo[4,3-a][1,4] benzodiazepina AMFEPRAMON Dietylopropion 2-dietyloamino-1-fenylo-1-propanon AMINOREKS 2-amino-5-fenylo-2-oksazolina BROMAZEPAM 7-bromo-1,3-dihydro-5-(2-pirydylo)-2H-1,4-benzodiazepin-2-on BROTIZOLAM 2-bromo-4-(o-chlorofenylo)-9-metylo-6H-tieno[3,2-f]-s-triazolo[4,3-a][1,4]diazepina BARBITAL Veronalum kwas 5,5-dietylobarbiturowy BENZFETAMINA N-benzylo-N- α -dimetylofenetyloamina BUTOBARBITAL kwas 5-butylo-5-etylobarbiturowy CHLORDIAZEPOKSYD Elenium 4-tlenek-7-chloro-5-fenylo-2-(metyloamino)-3H-1,4-benzodiazepiny DELORAZEPAM 7-chloro-5-(o-chlorofenylo)-1,3-dihydro-2H-1,4-benzodiazepin-2-on 1 2 3 DIAZEPAM Relanium 7-chloro-5-fenylo-1,3-dihydro-1-metylo-2H-1,4-benzodiazepin-2-on ESTAZOLAM 8-chloro-6-fenylo-4H-s-triazolo[4,3-a][1,4] benzodiazepina ETCHLORWYNOL 1-chloro-3-etylo-1-penten-4-in-3-ol ETYLAMFETAMINA (±)-N-etylo-α-metylofenetyloamina, czyli N-etyloamfetamina ETYNAMAT ester 1-etynylocykloheksylowy kwasu karbaminowego FENDIMETRAZYNA (+)-3,4-dimetylo-2-fenylomorfolina FENKAMFAMINA (±)-N-etylo-3-fenylobicyklo[2.2.1]heptano-2-amina FENOBARBITAL Luminalum kwas 5-etylo-5-fenylobarbiturowy FENPROPOREKS (±)-3-[(α-metylofenetylo)amino]propionitryl FENTERMINA α, α-dimetylofenetyloamina FLUDIAZEPAM 7-chloro-5-(o-fluorofenylo)-1,3-dihydro-1-metylo-2H-1,4-benzodiazepin-2-on FLURAZEPAM 7-chloro-1-[2-(dietyloamino)etylo]-5-(o-fluorofenylo)-1,3-dihydro-2H-1,4-benzodiazepin-2-on GHB HALAZEPAM 7-chloro-5-fenylo-1,3-dihydro-1-(2,2,2-trifluoroetylo)-2H-1,4-benzodiazepin-2-on HALOKSAZOLAM 10-bromo-11b-(o-fluorofenylo)-2,3,7,11b-tetrahydrooksazolo[3,2-d][1,4]-benzodiazepin- 6(5H)-on KAMAZEPAM dimetylokarbaminian 7-chloro-5-fenylo-1,3-dihydro-3-hydroksy-1-metylo-2H-1,4-benzodiazepin-2-onu KETAZOLAM 11-chloro-12b-fenylo-8,12b-dihydro-2,8-dimetylo-4H-[1,3]-oksazyno-[3,2-d] [1,4]benzodiazepino-4,7(6H)-dion KLOBAZAM 7-chloro-5-fenylo-1-metylo-1H-1,5-benzodiazepino-2,4(3H,5H)-dion KLONAZEPAM Rivotril 5-(o-chlorofenylo)-1,3-dihydro-7-nitro-2H-1,4-benzodiazepin-2-on KLORAZEPAT kwas 7-chloro-5-fenylo-2,3-dihydro-2-okso-1H-1,4-benzodiazepino-3-karboksylowy KLOKSAZOLAM 10-chloro-11b-(o-chlorofenylo)-2,3,7,11b-tetrahydrooksazolo-[3,2-d][1,4]benzodiazepin-6(5H)-on KLOTIAZEPAM 5-(o-chlorofenylo)-7-etylo-1,3-dihydro-1-metylo-2H-tieno[2,3-e]-1,4-diazepin-2-on LEFETAMINA SPA (-)-1-dimetyloamino-1,2-difenyloetan, czyli (-)-N,N-dimetylo-1,2-difenyloetyloamina LOFLAZEPINIAN ester etylowy kwasu 7-chloro-5-(o-fluorofenylo)-2,3-dihyETYLOWY dro-2-okso-1H-1,4-benzodiazepino-3-karboksylowego LOPRAZOLAM 6-(o-chlorofenylo)-2,4-dihydro-2-[(4-metylo-1-piperazynylo)metyleno]-8-nitro-1H-imidazo[1,2-a][1,4] benzodiazepin-1-on LORAZEPAM 7-chloro-5-(o-chlorofenylo)-1,3-dihydro-3-hydroksy-2H-1,4-benzodiazepin-2-on LORMETAZEPAM 7-chloro-5-(o-chlorofenylo)-1,3-dihydro-3-hydroksy-1-metylo-2H-1,4-benzodiazepin-2-on MAZINDOL 5-(p-chlorofenylo)-2,5-dihydro-3R-imidazo[2,1-a]-izoindol-5-ol MEDAZEPAM Rudotel 7-chloro-5-fenylo-2,3-dihydro-1-metylo-1H-1,4-benzodiazepina MEFENOREKS (±)-N-(3-chloropropylo)-α-metylofenetyloamina 1 2 3 MEPROBAMAT 2,2-di(karbamoiloksymetylo)pentan, czyli dikarbaminian 2-metylo-2-propylo-1,3-propanodiolu METYLOFENOBARBITAL Prominalum kwas 5-etylo-5-fenylo-N-metylobarbiturowy METYPRYLON 3,3-dietylo-5-metylo-2,4-piperydynodion MEZOKARB 3-(α-metylofenylo)-N-(fenylokarbamoilo)-sydnonimina MIDAZOLAM 8-chloro-6-(o-fluorofenylo)-1-metylo-4H-imidazo[1,5-a] [1,4]benzodiazepina NIMETAZEPAM 5-fenylo-1,3-dihydro-1-metylo-7-nitro-2H-1,4-benzodiazepin-2-on NITRAZEPAM 5-fenylo-1,3-dihydro-7-nitro-2H-1,4-benzodiazepin-2-on NORDAZEPAM 7-chloro-5-fenylo-1,3-dihydro-2H-1,4-benzodiazepin-2-on OKSAZEPAM 7-chloro-5-fenylo-1,3-dihydro-3-hydroksy-2H-1,4-benzodiazepin-2-on OKSAZOLAM 10-chloro-11b-fenylo-2,3,7,11b-tetrahydro-2-metylooksazolo[3,2-d][1,4]benzodiazepin-6(5H)-on PEMOLINA 2-amino-5-fenylo-2-oksazolin-4-on, czyli 5-fenylo-2-imino-4-oksazolidynon PINAZEPAM 7-chloro-5-fenylo-1,3-dihydro-1-(2-propionylo)-2H-1,4-benzodiazepin-2-on PIPRADROL 1,1-difenylo-1-(2-piperydylo)metanol PIROWALERON (±)-1-(4-metylofenylo)-2-(1-pirolidynylo)-1-pentanon PRAZEPAM 7-chloro-1-(cyklopropylometylo)-5-fenylo-1,3-dihydro-2H-1,4-benzodiazepin-2-on SEKBUTABARBITAL kwas 5-sec-butylo-5-etylobarbiturowy TEMAZEPAM Signopam 7-chloro-5-fenylo-1,3-dihydro-3-hydroksy-1-metylo-2H-1,4-benzodiazepin-2-on TETRAZEPAM 7-chloro-5-(cykloheksen-1-ylo)-1,3-dihydro-1-metylo-2H-1,4-benzodiazepin-2-on TRIAZOLAM 8-chloro-6-(o-chlorofenylo)-1-metylo-4H-s-triazolo[4,3-a][1,4]benzodiazepina WINYLBITAL kwas 5-(1-metylobutylo)-5-winylobarbiturowy ZOLPIDEM N,N,6-trimetylo-2-(4-metylofenylo)-imidazo[1,2-α]pirydyno-3-acetamid oraz sole substancji zamieszczonych w tej grupie w ka˝dym przypadku, gdy istnienie takich soli jest mo˝liwe
+**Art. 91.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski WYKAZ ÂRODKÓW ODURZAJÑCYCH 1. Ârodki odurzające grupy I-N Międzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 ACETORFINA 3-O-acetylo-6,7,8,14-tetrahydro-7α-(1-hydroksy-1-metylobutylo)-6,14-endo-etenooripawina Acetylo-α- N-(1-(α-metylofenetylo)-4-piperydylo)acetanilid metylofentanyl ACETYLOMETADOL 3-acetoksy-6-dimetyloamino-4,4-difenyloheptan ALLILOPRODYNA 3-allilo-4-fenylo-1-metylo-4-propionyloksypiperydyna ALFAACETYLOMETADOL α-3-acetoksy-6-dimetyloamino-4,4-difenyloheptan, czyli (3R, 6R)-3-acetoksy-6-dimetyloamino-4,4-difenyloheptan ALFAMEPRODYNA α-3-etylo-4-fenylo-1-metylo-4-propionyloksypiperydyna, czyli cis-3-etylo-4-fenylo-1-metylo-4-propionyloksypiperydyna ALFAMETADOL α-6-dimetyloamino-4,4-difenylo-3-heptanol czyli (3R, 6R)-6-dimetyloamino-4,4-difenylo-3-heptanol α-Metylofentanyl N-[1-(α-metylofenetylo)-4-piperydylo]propionanilid α-Metylotiofentanyl N-[1-[1-metylo-2-(2-tienylo)etylo]-4-piperydylo]propionanilid ALFAPRODYNA α-4-fenylo-1,3-dimetylo-4-propionyloksypiperydyna, czyli cis-(±)-4-fenylo-1,3-dimetylo-4-propionyloksypiperydyna ALFENTANYL N-[1-[2-(4-etylo-4,5-dihydro-5-okso-1H-tetrazol-1-ilo) etylo]-4-(metoksymetylo)-4-piperydynylo]-N-fenylopropanamid ANILERYDYNA ester etylowy kwasu 1-p-aminofenetylo-4-fenylo-4-piperydynokarboksylowego BENZETYDYNA ester etylowy kwasu 1-(2-benzyloksyetylo)-4-fenylo-4-piperydynokarboksylowego BENZYLOMORFINA 3-benzylomorfina, czyli 3-benzyloksy-7,8-didehydro-4,5-α-epoksy-17-metylomorfinan-6α-ol BETACETYLOMETADOL β-3-acetoksy-6-dimetyloamino-4,4-difenyloheptan β-Hydroksyfentanyl N-[1-(β-hydroksyfenetylo)-4-piperydylo]propionanilid β-Hydroksy-3- N-[1-(β-hydroksyfenetylo)-3-metylo-4-piperydylo]metylofentanyl propionanilid BETAMEPRODYNA β-3-etylo-4-fenylo-1-metylo-4-propionyloksypiperydyna BETAMETADOL β-6-dimetyloamino-4,4-difenylo-3-heptanol, czyli (3S, 6R)-6-dimetyloamino-4,4-difenylo-3-heptanol BETAPRODYNA β-4-fenylo-1,3-dimetylo-4-propionyloksypiperydyna BEZYTRAMID 1-(3-cyjano-3,3-difenylopropylo)-4-(2-okso-3-propionylo-1-benzimidazolinylo)piperydyna DEZOMORFINA dihydrodeoksymorfina, czyli 4,5-epoksy-3-hydroksy-17-metylomorfinan DEKSTROMORAMID Palfium (+)-4-[3,3-difenylo-2-metylo-4-okso-4-(1-pirolidynylo)-butylo]-morfolina, czyli (+)-1-(2,2-difenylo-3-metylo-4-morfolinobutyrylo)pirolidyna 1 2 3 DIAMPROMID N-[2-(N-metylo-N-fenetyloamino)-propylo] propionanilid DIETYLOTIAMBUTEN 3-dietyloamino-1,1-di-(2’-tienylo)-1-buten DIFENOKSYNA kwas 1-(3-cyjano-3,3-difenylopropylo)-4-fenylo-4-piperydynokarboksylowy DIHYDROETORFINA 7,8-dihydro-7-α-[1-(R)-hydroksy-1-metylobutylo]-6,14-endo-etanotetrahydrooripawina DIHYDROMORFINA 4,5α-epoksy-17-metylomorfinan-3,6α-diol DIMENOKSADOL ester 2-dimetyloaminoetylowy kwasu 1-etoksy-1,1-difenylooctowego DIMEFEPTANOL 6-dimetyloamino-4,4-difenylo-3-heptanol DIMETYLOTIAMBUTEN 3-dimetyloamino-1,1-di(2’-tienylo)-1-buten DIFENOKSYLAT ester etylowy kwasu 1-(3-cyjano-3,3-difenylopropylo)-4-fenylo-4-piperydynokarboksylowego DIPIPANON 4,4-difenylo-6-piperydyno-3-heptanon DROTEBANOL 3,4-dimetoksy-17-metylomorfinan-6β,14-diol EKGONINA kwas [1R-(egzo)]-3-hydroksy-8-metylo-8-azabicyklo [3.2.1]oktano-2-karboksylowy ETYLOMETYLOTIAMBUTEN 3-etylometyloamino-1,1-di-(2’-tienylo)-1-buten ETONITAZEN 1-(2-dietyloaminoetylo)-2-(p-etoksybenzylo)-5-nitrobenzimidazol ETORFINA 6,7,8,14-tetrahydro-7α-(1-hydroksy-1-metylobutylo)-6,14-endo-etenooripawina ETOKSERYDYNA ester etylowy kwasu 1-[2-(2-hydroksyetoksy)etylo]-4-fenylo-4-piperydynokarboksylowego FENADOKSON 4,4-difenylo-6-morfolino-3-heptanon FENAMPROMID N-(1-metylo-2-piperydynoetylo)propionanilid FENAZOCYNA 2’-hydroksy-5,9-dimetylo-2-fenetylo-6,7-benzomorfan, czyli 3-fenetylo-1, 2, 3, 4, 5, 6-heksahydro-6,11-dimetylo-2,6-metano-3-benzazocyn-8-ol FENOMORFAN 3-hydroksy-17-fenetylomorfinan FENOPERYDYNA ester etylowy kwasu 1-(3-fenylo-3-hydroksypropylo)-4-fenylo-4-piperydynokarboksylowego FENTANYL 1-fenetylo-4-(N-propionyloanilino)piperydyna, czyli N-(1-fenetylo-4-piperydylo)propionanilid FURETYDYNA ester etylowy kwasu 4-fenylo-1-(2- tetrahydrofurfuryloksyetylo)-4-piperydynokarboksylowego HEROINA diacetylomorfina, czyli 3,6α-diacetoksy-7,8-didehydro-4,5α-epoksy-17-metylomorfinan HYDROKODON dihydrokodeinon, czyli 4,5α-epoksy-3-metoksy-17-metylomorfinan-6-on HYDROMORFINOL 14-hydroksy-7,8-dihydromorfina HYDROMORFON dihydromorfinon, czyli 4,5α-epoksy-3-hydroksy-17-metylomorfinan-6-on HYDROKSYPETYDYNA ester etylowy kwasu 4-m-hydroksyfenylo-1-metylo-4-piperydynokarboksylowego IZOMETADON 6-dimetyloamino-4,4-difenylo-5-metylo-3-heksanon KETOBEMIDON Cliradon 4-m-hydroksyfenylo-1-metylo-4-propionylopiperydyna KODOKSYM O-(karboksymetylo)oksym dihydrokodeinonu 1 2 3 KONOPI ZIELE I ˚YWICA innych niż włókniste oraz wyciągi, nalewki farmaceutyczne, a także wszystkie inne wyciągi z konopi innych niż włókniste KOKAINA ester metylowy benzoiloekgoniny, czyli ester metylowy kwasu [1R-(egzo, egzo)]-3-benzoiloksy-8-metylo-8-azabicyklo[3.2.1]oktano-2-karboksylowego KOKA LIÂCIE KLONITAZEN 2-(p-chlorobenzylo)-1-(2-dietyloaminoetylo)-5-nitro-benzimidazol LEWOMETORFAN (-)-3-metoksy-17-metylomorfinan LEWOMORAMID (-)-4-[2-metylo-4-okso-3,3-difenylo-4-(1-pirolidynylo)butylo]morfolina, czyli (-)-1-(2,2-difenylo-3-metylo-4-morfolinobutyrylo) pirolidyna LEWOTENACYLOMORFAN (-)-3-hydroksy-17-fenacylomorfinan LEWORFANOL (-)-3-hydroksy-17-metylomorfinan MAKOWEJ SĘOMY KONCENTRATY produkty powstające w procesie otrzymywania alkaloidów ze słomy makowej, jeżeli produkty te są wprowadzone do obrotu MAKOWEJ SĘOMY WYCIÑGI inne niż koncentraty produkty otrzymywane ze słomy makowej przy jej ekstrakcji wodą lub jakimkolwiek innym rozpuszczalnikiem, a także inne produkty otrzymywane przez przerób mleczka makowego METAZOCYNA 2’-hydroksy -2,5,9-trimetylo-6,7-benzomorfan METADON 6-dimetyloamino-4,4-difenylo-3-heptanon METADONU PÓĘPRODUKT 4-cyjano-2-dimetyloamino-4,4-difenylobutan METYLODEZORFINA 6-metylo-∆ -deoksymorfina METYLODIHYDROMORFINA 6-metylodihydromorfina 3-Metylofentanyl N-(1-fenetylo-3-metylo-4-piperydylo)propionanilid (forma cis- i forma trans-) 3-Metylotiofentanyl N-[3-metylo-1-[2-(2-tienylo)etylo]-4-piperydylo]propionanilid METOPON 5-metylodihydromorfinon, czyli 4,5-epoksy-3-hydroksy-5,17-dimetylomorfinan-6-on MIROFINA mirystylobenzylomorfina, czyli 3-benzyloksy-7,8-didehydro-4,5α-epoksy-6α-mirystoiloksy-17-metylomorfinan MORAMIDU PÓĘPRODUKT kwas 1,1-difenylo-2-metylo-3-morfolinomasłowy MORFERYDYNA ester etylowy kwasu 4-fenylo-1-(2-morfolinoetylo)-4-piperydynokarboksylowego MORFINA 7,8-didehydro-4,5 α -epoksy-17-metylomorfinan-3,6 α -diol 1 2 3 MORFINY METYLOBROMEK oraz inne pochodne morfiny zawierające azot czwartorzędowy MORFINY N-TLENEK N-tlenek 7,8-didehydro-4,5α-epoksy-17-metylomorfinan-3,6α-diolu MPPP propionian 4-fenylo-1-metylo-4-piperydynolu NIKOMORFINA 3,6-dinikotynoilomorfina NORACYMETADOL α-(+)-3-acetoksy-4,4-difenylo-6-metyloaminoheptan NORLEWORFANOL (-)-3-hydroksymorfinan NORMETADON 6-dimetyloamino-4,4-difenylo-3-heksanon NORMORFINA demetylomorfina, czyli 7,8-didehydro-4,5α-epoksymorfinan-3,6α-diol NORPIPANON 4,4-difenylo-6-piperydyno-3-heksanon OPIUM I NALEWKA Z OPIUM OKSYKODON Eukodal 14-hydroksydihydrokodeinon, czyli 4,5 α -epoksy-14-hydroksy-3-metoksy-17-metylomorfinan-6-on OKSYMORFON 14-hydroksydihydromorfinon, czyli 4,5α-epoksy-3,14-dihydroksy-17-metylomorfinan-6-on Para-fluorofentanyl 4’-fluoro-N-(1-fenetylo-4-piperydylo)propionanilid PEPAP octan 1-fenetylo-4-fenylo-4-piperydynolu PETYDYNA Dolargan ester etylowy kwasu 4-fenylo-1-metylo-4-piperydynokarboksylowego PETYDYNY PÓĘPRO- 4-cyjano-4-fenylo-1-metylopiperydyna DUKT A PETYDYNY PÓĘPRO- ester etylowy kwasu 4-fenylo-4-piperydyno-karboksyloDUKT B wego PETYDYNY PÓĘPRO- kwas 4-fenylo-1-metylo-4-piperydynokarboksylowy DUKT C PIMINODYNA ester etylowy kwasu 4-fenylo-1-(3-fenyloaminopropylo)-4-piperydynokarboksylowego PIRYTRAMID amid kwasu 1-(3-cyjano-3,3-difenylopropylo)-4-(1-piperydyno)-4-piperydynokarboksylowego, czyli amid kwasu 1’-(3-cyjano-3,3-difenylopropylo)-(1,4’-bipiperydyno)-4’-karboksylowego PROHEPTAZYNA 4-fenylo-1,3-dimetylo-4-propionyloksyazacykloheptan PROPERYDYNA ester izopropylowy kwasu 4-fenylo-1-metylo-4-piperydynokarboksylowego RACEMETORFAN (±)-3-metoksy-17-metylomorfinan RACEMORAMID (±)-4-[3,3-difenylo-2-metylo-4-okso-4-(1-pirolidynylo) butylo]morfolina RACEMORFAN (±)-3-hydroksy-17-metylomorfinan REMIFENTANYL ester metylowy kwasu 1-(2-metoksykarbonyloetylo)-4-(fenylopropionyloamino)-piperydyno-4-karboksylowego SUFENTANIL N-[4-(metoksymetylo)-1-[2-(2-tienylo)etylo]-4-piperydylo] propionanilid TEBAKON acetylodihydrokodeinon, czyli 6-acetoksy-6,7-didehydro-4,5α-epoksy-3-metoksy-17-metylomorfinan TEBAINA 6,7,8,14-tetradehydro-4,5α-epoksy-3,6-dimetoksy-17-metylomorfinan 2. Ârodki odurzające grupy II-N 3. Ârodki odurzające grupy III-N 1. Preparaty zawierające oprócz innych składników kodeinę, której ilość nie przekracza 50 mg w jednej dawce lub stężenie nie przekracza 1,5 % w preparatach w formie niepodzielonej. 1 2 3 Tiofentanyl N-[1-[2-(2-tienylo)etylo]-4-piperydylo]propionanilid TRIMEPERYDYNA 4-fenylo-1,2,5-trimetylo-4-propionyloksypiperydyna TYLIDYNA ester etylowy kwasu (+)-trans-2-(dimetyloamino)-1-fenylo-3-cyklohekseno-1-karboksylowego oraz: izomery środków odurzających wymienionych w niniejszej grupie, jeżeli istnienie takich izomerów jest możliwe w ramach użytego oznaczenia chemicznego, chyba że izomery takie są wyraênie wyłączone, estry i etery środków odurzających wymienionych w niniejszej grupie, jeżeli istnienie takich estrów i eterów jest możliwe, chyba że są one wymienione w innej grupie, sole środków odurzających wymienionych wniniejszej grupie, włączając wto sole estrów, eterów iizomerów, o których mowa wyżej, jeżeli istnienie takich soli jest możliwe Międzynarodowe nazwy 2. Preparaty zawierające oprócz innych składników: ACETYLODIHYDROKODEIN¢ DIHYDROKODEIN¢ ETYLOMORFIN¢ NORKODEIN¢ zalecane Inne nazwy Oznaczenia chemiczne 1 2 3 ACETYLODIHYDROKO- 6-acetylo-7,8-dihydrokodeina DEINA KODEINA 3-O-metylomorfina, czyli 7,8-didehydro-4,5α-epoksy-3-metoksy-17-metylomorfinan-6α-ol DEKSTROPROPOKSYFEN (+)-1,2-difenylo-4-dimetyloamino-3-metylo-2-propionyloksybutan, czyli propionian (2S, 3R)-(+)-1,2-difenylo-4-dimetyloamino-3-metylo-2-butanolu DIHYDROKODEINA 7,8-dihydrokodeina ETYLOMORFINA Dionina 3-O-etylomorfina FOLKODYNA morfolinyloetylomorfina, czyli 7,8-didehydro-4,5α-epoksy-17-metylo-3-(2-morfolinoetoksy)morfinan-6α-ol NIKODYKODYNA 6-nikotynoilo-7,8-dihydrokodeina NIKOKODYNA 6-nikotynoilokodeina NORKODEINA N-demetylokodeina PROPIRAM N-(1-metylo-2-piperydynoetylo)-N-(2-pirydylo) propionamid oraz: izomery środków odurzających wymienionych w niniejszej grupie, jeżeli istnienie takich izomerów jest możliwe wramach użytego oznaczenia chemicznego, chyba że istnienie takich izomerów jest wyraênie wyłączone, sole środków odurzających wymienionych wniniejszej grupie, włączając wto sole estrów, eterów iizomerów, o których mowa wyżej, jeżeli istnienie takich soli jest możliwe NIKODYKODYN¢ NIKOKODYN¢ wktórych ilość środka odurzającego nie przekracza 100 mg wjednej dawce lub stężenie nie przekracza 2,5% w preparatach w formie niepodzielonej. 3. Preparaty zawierające w jednej dawce najwyżej 2,5 mg difenoksylatu obliczonego w postaci zasady i nie mniej niż 0,025 mg siarczanu atropiny w jednej dawce. 4. Preparaty zawierające w jednej dawce nie więcej niż 0,5 mg difenoksyny oraz takie ilości winianu atropiny, które odpowiadają co najmniej 5 % dawki difenoksyny. 4. Ârodki odurzające grupy IV-N Międzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 ACETORFINA 3-O-acetylo-6,7,8, 14-tetrahydro-7α-(1-hydroksy-1-metylobutylo)-6,14-endo-etenooripawina Acetylo-α- N-[1-(α-metylofenetylo)-4-piperydylo]acetanilid metylofentanyl α-Metylofentanyl N-[1-(α-metylofenetylo)-4-piperydylo]propionanilid 3-Metylotiofentanyl N-[3-metylo-1-[2-(2-tienylo)etylo]-4-piperydylo]propionanilid β-Hydroksyfentanyl N-[1-(β-hydroksyfenetylo)-4-piperydylo]propionanilid β-Hydroksy-3- N-[1-(β-hydroksyfenetylo)-3-metylo-4-piperydylo]-propiometylofentanyl nanilid DEZOMORFINA dihydrodeoksymorfina, czyli 4,5-epoksy-3-hydroksy-17-metylomorfinan ETORFINA 6,7,8,14-tetrahydro-7α-(1-hydroksy-1-metylobutylo)-6,14-endo-etenooripawina HEROINA diacetylomorfina, czyli 3,6α-diacetoksy-7,8-didehydro-4,5α-epoksy-17-metylomorfinan KETOBEMIDON Cliradon 4-m-hydroksyfenylo-1-metylo-4-propionylopiperydyna KONOPI ZIELE I ˚YWICA innych niż włókniste oraz wyciągi, nalewki farmaceutyczne, a także wszystkie inne wyciągi z konopi innych niż włókniste 3-Metylofentanyl N-(1-fenetylo-3-metylo-4-piperydylo)propionanilid (forma cis- i forma trans-) MPPP propionian 4-fenylo-1-metylo-4-piperydynolu Para-fluorofentanyl 4’-fluoro-N-(1-fenetylo-4-piperydylo)propionanilid PEPAP octan 1-fenetylo-4-fenylo-4-piperydynolu Tiofentanyl N-[1-[2-(2-tienylo)etylo]-4-piperydylo]propionanilid oraz: izomery środków odurzających wymienionych w niniejszej grupie, jeżeli istnienie takich izomerów jest możliwe w ramach użytego oznaczenia chemicznego, chyba że izomery takie są wyraênie wyłączone, estry i etery środków odurzających wymienionych w niniejszej grupie, jeżeli istnienie takich estrów i eterów jest możliwe, chyba że są one wymienione w innej grupie, sole środków odurzających wymienionych w niniejszej grupie, włączając w to sole estrów, eterów i izomerów, o których mowa wyżej, jeżeli istnienie takich soli jest możliwe Może być stosowana w lecznictwie zwierząt. WYKAZ SUBSTANCJI PSYCHOTROPOWYCH 1. Substancje psychotropowe grupy I-P Międzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 2C-I 2,5-dimetoksy-4-jodofenetyloamina 2C-T-2 2,5-dimetoksy-4-etylotiofenetyloamina 2C-T-7 2,5-dimetoksy-4-n-propylotiofenetyloamina BROLAMFETAMINA DOB 2,5-dimetoksy-4-bromoamfetamina DET N,N-dietylotryptamina DMA (±)-2,5-dimetoksy-α-metylofenetyloamina, czyli 2,5-dimetoksyamfetamina DOET (±)-2,5-dimetoksy-4-etylo-α-metylofenetyloamina, czyli 2,5-dimetoksy-4-etyloamfetamina DMHP 3-(1,2-dimetyloheptylo)-1-hydroksy-7,8,9,10-tetrahydro-6,6,9-trimetylo-6H-dibenzo[b,d]piran DMT N,N-dimetylotryptamina ETRYPTAMINA 3-(2-aminobutylo)indol N-Etylo-MDA, (±)-N-etylo-α-metylo-3,4-(metylenodioksy)-fenetyloamina MDEA N-Hydroksy-MDA (±)-N-[α-metylo-3,4-(metylenodioksy)fenetylo]hydroksylamina Metkatynon 2-(metyloamino)-1-fenylopropan-1-on 4-Metyloaminoreks (±)-cis-2-amino-4-metylo-5-fenylo-2-oksazolina 4-MTA α-metylo-4-metylotiofenetyloamina czyli 4-metylotioamfetamina ETYCYKLIDYNA PCE N-etylo-1-fenylocykloheksyloamina KATYNON (-)-α-aminopropiofenon (+)-LIZERGID LSD, LSD-25 dietyloamid kwasu 9,10-didehydro-6-metyloergolino-8β-karboksylowego MDMA (±)-3,4-metylenodioksy-N,α-dimetylofenetyloamina, czyli 3,4-metylenodioksymetamfetamina MMDA (±)-5-metoksy-3,4-metylenodioksy- α - metylofenetyloamina, czyli 5-metoksy-3,4-metylenodioksyamfetamina Meskalina 3,4,5-trimetoksyfenetyloamina Paraheksyl 3-heksylo-1-hydroksy-7,8,9,10-tetrahydro-6,6,9-trimetylo-6H-dibenzo[b,d]piran PMA 4-metoksy-α-metylofenetyloamina, czyli para-metoksyamfetamina PMMA 4-metoksy-N,α-dimetylofenetyloamina, czyli p-metoksymetamfetamina Psylocyna 3-(2-dimetyloaminoetylo)-4-hydroksyindol PSYLOCYBINA diwodorofosforan 3-(2-dimetyloaminoetylo)-4-indolilu ROLICYKLIDYNA PHP, PCPY 1-(1-fenylocykloheksylo)pirolidyna STP, DOM 2-amino-1-(2,5-dimetoksy-4-metylofenylo)propan TENAMFETAMINA MDA 3,4-metylenodioksyamfetamina TENOCYKLIDYNA TCP 1-[1-(2-tienylo)cykloheksylo]piperydyna 1 2 3 TMA (±)-3,4,5-trimetoksy-α-metylofenetyloamina, czyli 3,4,5-trimetoksyamfetamina TMA-2 2,4,5-trimetoksyamfetamina Tetrahydrokanna- następujące izomery i ich warianty stereochemiczne: binole ⇒7,8,9,10-tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒(9R,10aR)-8,9,10,10a-tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒(6aR,9R,10aR)-6a,9,10,10a-tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒(6aR,10aR)-6a,7,10,10a-tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒6a,7,8,9- tetrahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol, ⇒(6aR,10aR)-6a,7,8,9,10,10a-heksahydro-6,6,9-trimetylo-3-pentylo-6H-dibenzo[b,d]piran-1-ol oraz sole substancji zamieszczonych w tej grupie w każdym przypadku, gdy istnienie takich soli jest możliwe, stereoizomery substancji zamieszczonych wtej grupie, jeżeli istnienie takich stereoizomerów jest możliwe w ramach użytego oznaczenia chemicznego, chyba że stereoizomery takie są wyraênie wyłączone 2. Substancje psychotropowe grupy II-P Międzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 2C-B 4-bromo-2,5-dimetoksyfenetyloamina AMFETAMINA Psychedryna (±)-2-amino-1-fenylopropan AMINEPTYNA Kwas 7-[(10,11-dihydro-5H-dibenzo[a,d]cyklohepten-5-ylo)amino]-heptanowy DEKSAMFETAMINA (+)-2-amino-1-fenylopropan FENCYKLIDYNA PCP 1-(1-fenylocykloheksylo)piperydyna FENETYLINA (±)-3,7-dihydro-1,3-dimetylo-7-[2-[(1-metylo-2-fenetylo)-amino]-etylo]-1H-puryno-2,6-dion FENMETRAZYNA 2-fenylo-3-metylomorfolina KETAMINA 2-(2-chlorofenylo)-2-(metyloamino)-cykloheksan LEWAMFETAMINA (-)-α-metylofenetyloamina LEWOMETAMFETAMINA (-)-1-N,α-dimetylofenetyloamina MEKLOKWALON 3-(o-chlorofenylo)-2-metylo-4(3H)-chinazolinon METAKWALON 2-metylo-3-(o-tolilo)-4(3H)-chinazolinon METAMFETAMINA Metamfetamina (+)-2-metyloamino-1-fenylopropan racemiczna (±)-2-metyloamino-1-fenylopropan METYLOFENIDAT Rytalina ester metylowy kwasu α-fenylo-(2-piperydyno)-octowego PENTAZOCYNA Fortral (2R*, 6R*, 11R*)-1,2,3,4,5,6-heksahydro-8-hydroksy-6,11-dimetylo-3-(3-metylo-2-butenylo)-2,6-metano-3-benzazocyna SEKOBARBITAL kwas 5-allilo-5-(1-metylobutylo)barbiturowy 1 2 3 ∆-9-Tetrahydrokan- (6aR,10aR)-6a,7,8,10a- tetrahydro-6,6,9-trimetylo-3-pentynabinol i jego wa- lo-6H-dibenzo[b,d]piran-1-ol rianty stereochemiczne ZIPEPROL α-(α-metoksybenzylo-4-β-metoksyfenylo)-1-piperazynoetanol oraz sole substancji zamieszczonych wtej grupie wkażdym przypadku, gdy istnienie takich soli jest możliwe 3. Substancje psychotropowe grupy III-P Międzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 AMOBARBITAL Amytal kwas 5-etylo-5-izopentylobarbiturowy BUPRENORFINA 21-cyklopropylo-7-α-[(S)-1-hydroksy-1,2,2-trimetylopropylo]-6,14-endo-etano-6,7,8,14-tetrahydrooripawina BUTALBITAL kwas 5-allilo-5-izobutylobarbiturowy CYKLOBARBITAL kwas 5-(1-cykloheksen-1-ylo)-5-etylobarbiturowy FLUNITRAZEPAM 5-(o-fluorofenylo)-1,3-dihydro-1-metylo-7-nitro-2H-1,4-benzodiazepin-2-on GLUTETIMID Glimid 3-etylo-3-fenylo-2,6-dioksopiperydyna KATYNA (+)-treo-2-amino-1-hydroksy-1-fenylopropan PENTOBARBITAL Nembutal kwas 5-etylo-5-(1-metylobutylo)-barbiturowy oraz sole substancji zamieszczonych w tej grupie w każdym przypadku, gdy istnienie takich soli jest możliwe 4. Substancje psychotropowe grupy IV-P Międzynarodowe nazwy Inne nazwy Oznaczenia chemiczne zalecane 1 2 3 ALLOBARBITAL kwas 5,5-diallilobarbiturowy ALPRAZOLAM 8-chloro-6-fenylo-1-metylo-4H-s-triazolo[4,3-a][1,4] benzodiazepina AMFEPRAMON Dietylopropion 2-dietyloamino-1-fenylo-1-propanon AMINOREKS 2-amino-5-fenylo-2-oksazolina BROMAZEPAM 7-bromo-1,3-dihydro-5-(2-pirydylo)-2H-1,4-benzodiazepin-2-on BROTIZOLAM 2-bromo-4-(o-chlorofenylo)-9-metylo-6H-tieno[3,2-f]-s-triazolo[4,3-a][1,4]diazepina BARBITAL Veronalum kwas 5,5-dietylobarbiturowy BENZFETAMINA N-benzylo-N- α -dimetylofenetyloamina BUTOBARBITAL kwas 5-butylo-5-etylobarbiturowy CHLORDIAZEPOKSYD Elenium 4-tlenek-7-chloro-5-fenylo-2-(metyloamino)-3H-1,4-benzodiazepiny DELORAZEPAM 7-chloro-5-(o-chlorofenylo)-1,3-dihydro-2H-1,4-benzodiazepin-2-on 1 2 3 DIAZEPAM Relanium 7-chloro-5-fenylo-1,3-dihydro-1-metylo-2H-1,4-benzodiazepin-2-on ESTAZOLAM 8-chloro-6-fenylo-4H-s-triazolo[4,3-a][1,4] benzodiazepina ETCHLORWYNOL 1-chloro-3-etylo-1-penten-4-in-3-ol ETYLAMFETAMINA (±)-N-etylo-α-metylofenetyloamina, czyli N-etyloamfetamina ETYNAMAT ester 1-etynylocykloheksylowy kwasu karbaminowego FENDIMETRAZYNA (+)-3,4-dimetylo-2-fenylomorfolina FENKAMFAMINA (±)-N-etylo-3-fenylobicyklo[2.2.1]heptano-2-amina FENOBARBITAL Luminalum kwas 5-etylo-5-fenylobarbiturowy FENPROPOREKS (±)-3-[(α-metylofenetylo)amino]propionitryl FENTERMINA α, α-dimetylofenetyloamina FLUDIAZEPAM 7-chloro-5-(o-fluorofenylo)-1,3-dihydro-1-metylo-2H-1,4-benzodiazepin-2-on FLURAZEPAM 7-chloro-1-[2-(dietyloamino)etylo]-5-(o-fluorofenylo)-1,3-dihydro-2H-1,4-benzodiazepin-2-on GHB HALAZEPAM 7-chloro-5-fenylo-1,3-dihydro-1-(2,2,2-trifluoroetylo)-2H-1,4-benzodiazepin-2-on HALOKSAZOLAM 10-bromo-11b-(o-fluorofenylo)-2,3,7,11b-tetrahydrooksazolo[3,2-d][1,4]-benzodiazepin- 6(5H)-on KAMAZEPAM dimetylokarbaminian 7-chloro-5-fenylo-1,3-dihydro-3-hydroksy-1-metylo-2H-1,4-benzodiazepin-2-onu KETAZOLAM 11-chloro-12b-fenylo-8,12b-dihydro-2,8-dimetylo-4H-[1,3]-oksazyno-[3,2-d] [1,4]benzodiazepino-4,7(6H)-dion KLOBAZAM 7-chloro-5-fenylo-1-metylo-1H-1,5-benzodiazepino-2,4(3H,5H)-dion KLONAZEPAM Rivotril 5-(o-chlorofenylo)-1,3-dihydro-7-nitro-2H-1,4-benzodiazepin-2-on KLORAZEPAT kwas 7-chloro-5-fenylo-2,3-dihydro-2-okso-1H-1,4-benzodiazepino-3-karboksylowy KLOKSAZOLAM 10-chloro-11b-(o-chlorofenylo)-2,3,7,11b-tetrahydrooksazolo-[3,2-d][1,4]benzodiazepin-6(5H)-on KLOTIAZEPAM 5-(o-chlorofenylo)-7-etylo-1,3-dihydro-1-metylo-2H-tieno[2,3-e]-1,4-diazepin-2-on LEFETAMINA SPA (-)-1-dimetyloamino-1,2-difenyloetan, czyli (-)-N,N-dimetylo-1,2-difenyloetyloamina LOFLAZEPINIAN ester etylowy kwasu 7-chloro-5-(o-fluorofenylo)-2,3-dihyETYLOWY dro-2-okso-1H-1,4-benzodiazepino-3-karboksylowego LOPRAZOLAM 6-(o-chlorofenylo)-2,4-dihydro-2-[(4-metylo-1-piperazynylo)metyleno]-8-nitro-1H-imidazo[1,2-a][1,4] benzodiazepin-1-on LORAZEPAM 7-chloro-5-(o-chlorofenylo)-1,3-dihydro-3-hydroksy-2H-1,4-benzodiazepin-2-on LORMETAZEPAM 7-chloro-5-(o-chlorofenylo)-1,3-dihydro-3-hydroksy-1-metylo-2H-1,4-benzodiazepin-2-on MAZINDOL 5-(p-chlorofenylo)-2,5-dihydro-3R-imidazo[2,1-a]-izoindol-5-ol MEDAZEPAM Rudotel 7-chloro-5-fenylo-2,3-dihydro-1-metylo-1H-1,4-benzodiazepina MEFENOREKS (±)-N-(3-chloropropylo)-α-metylofenetyloamina 1 2 3 MEPROBAMAT 2,2-di(karbamoiloksymetylo)pentan, czyli dikarbaminian 2-metylo-2-propylo-1,3-propanodiolu METYLOFENOBARBITAL Prominalum kwas 5-etylo-5-fenylo-N-metylobarbiturowy METYPRYLON 3,3-dietylo-5-metylo-2,4-piperydynodion MEZOKARB 3-(α-metylofenylo)-N-(fenylokarbamoilo)-sydnonimina MIDAZOLAM 8-chloro-6-(o-fluorofenylo)-1-metylo-4H-imidazo[1,5-a] [1,4]benzodiazepina NIMETAZEPAM 5-fenylo-1,3-dihydro-1-metylo-7-nitro-2H-1,4-benzodiazepin-2-on NITRAZEPAM 5-fenylo-1,3-dihydro-7-nitro-2H-1,4-benzodiazepin-2-on NORDAZEPAM 7-chloro-5-fenylo-1,3-dihydro-2H-1,4-benzodiazepin-2-on OKSAZEPAM 7-chloro-5-fenylo-1,3-dihydro-3-hydroksy-2H-1,4-benzodiazepin-2-on OKSAZOLAM 10-chloro-11b-fenylo-2,3,7,11b-tetrahydro-2-metylooksazolo[3,2-d][1,4]benzodiazepin-6(5H)-on PEMOLINA 2-amino-5-fenylo-2-oksazolin-4-on, czyli 5-fenylo-2-imino-4-oksazolidynon PINAZEPAM 7-chloro-5-fenylo-1,3-dihydro-1-(2-propionylo)-2H-1,4-benzodiazepin-2-on PIPRADROL 1,1-difenylo-1-(2-piperydylo)metanol PIROWALERON (±)-1-(4-metylofenylo)-2-(1-pirolidynylo)-1-pentanon PRAZEPAM 7-chloro-1-(cyklopropylometylo)-5-fenylo-1,3-dihydro-2H-1,4-benzodiazepin-2-on SEKBUTABARBITAL kwas 5-sec-butylo-5-etylobarbiturowy TEMAZEPAM Signopam 7-chloro-5-fenylo-1,3-dihydro-3-hydroksy-1-metylo-2H-1,4-benzodiazepin-2-on TETRAZEPAM 7-chloro-5-(cykloheksen-1-ylo)-1,3-dihydro-1-metylo-2H-1,4-benzodiazepin-2-on TRIAZOLAM 8-chloro-6-(o-chlorofenylo)-1-metylo-4H-s-triazolo[4,3-a][1,4]benzodiazepina WINYLBITAL kwas 5-(1-metylobutylo)-5-winylobarbiturowy ZOLPIDEM N,N,6-trimetylo-2-(4-metylofenylo)-imidazo[1,2-α]pirydyno-3-acetamid oraz sole substancji zamieszczonych w tej grupie w każdym przypadku, gdy istnienie takich soli jest możliwe
 

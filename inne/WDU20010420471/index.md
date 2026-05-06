@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# zobowiàzaƒ Skarbu Paƒstwa wformie obligacji Skarbu Paƒstwa jest obowiàzany w∏aÊciwemu wojewodzie, wyst´pujàcemu wimieniu Skarbu Paƒstwa na zasadzie przepisu art. 3 6 ustawy rewindykacyjnej:
+# zobowiązań Skarbu Państwa wformie obligacji Skarbu Państwa jest obowiązany właściwemu wojewodzie, występującemu wimieniu Skarbu Państwa na zasadzie przepisu art. 3 6 ustawy rewindykacyjnej:
 
 | Pole | Wartość |
 |---|---|
@@ -24,57 +24,57 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010420471) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/471/text.pdf) |
 
-1) zg∏osiç kwoty zobowiàzaƒ podlegajàcych kompensowaniu wtej formie:
-a) terminie 45 dni od dnia wejÊcia ˝ycie ustawy przypadku zobowiàzaƒ wynikajàcych zorzeczeƒ wydanych dnia 31 grudnia 2000 r.,
-b) terminie dnia 15 lutego 2002 r. przypadku zobowiàzaƒ wynikajàcych zorzeczeƒ wydanych od dnia 1 stycznia 2001 r. dnia 31grudnia 2001 r.,
-2) wskazaç rachunek papierów wartoÊciowych otwarty ramach umowy Êwiadczeniu us∏ug brokerskich, na który majà zostaç przekazane obligacje Skarbu Paƒstwa.
-3. Wprzypadku niedope∏nienia obowiàzków, októrych mowa 2, stosuje si´ odpowiednio art. 3 niach Spo∏ecznej Komisji Rewindykacyjnej, które uprawomocni∏y si´ dnia 31 grudnia 2000 r.,
-2) dnia 30 kwietnia 2002 r. przypadku zobowiàzaƒ ustalonych orzeczeniach Spo∏ecznej Komisji Rewindykacyjnej, które uprawomocni∏y si´ terminie od dnia 1 stycznia 2001 r. dnia 31grudnia 2001 r.
-2. Pozosta∏e emisji obligacji zostanà okreÊlone przez ministra w∏aÊciwego spraw finansów publicznych wliÊcie emisyjnym.
-3. Podmiotowi uprawnionemu na mocy ustawy otrzymania kompensaty wformie obligacji przys∏ugujà obligacje liczbie ustalonej sposób okreÊlony wliÊcie emisyjnym, zaokràglonej wy∏àcznie wgór´ pe∏nej liczby obligacji.
-4. W sprawach kompensowania zobowiàzaƒ Skarbu Paƒstwa zakresie uregulowanym niniejszà ustawà nie stosuje si´ przepisów ustawy rewindyka2 ustawy rewindykacyjnej. cyjnej, chyba ˝e przepisy niniejszej ustawy tak stanowià.
-4. W∏aÊciwi wojewodowie, terminie 14 dni od dnia wejÊcia w˝ycie ustawy, informujà organizacje wy- 5. Ustawa wchodzi ˝ycie po up∏ywie 14 dni mienione worzeczeniach Spo∏ecznej Komisji Rewindy- od dnia og∏oszenia.
-kacyjnej, atak˝e inne znane im podmioty uprawnione, których mowa 1, obowiàzkach okreÊlonych Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+1) zgłosić kwoty zobowiązań podlegających kompensowaniu wtej formie:
+a) terminie 45 dni od dnia wejścia życie ustawy przypadku zobowiązań wynikających zorzeczeń wydanych dnia 31 grudnia 2000 r.,
+b) terminie dnia 15 lutego 2002 r. przypadku zobowiązań wynikających zorzeczeń wydanych od dnia 1 stycznia 2001 r. dnia 31grudnia 2001 r.,
+2) wskazać rachunek papierów wartościowych otwarty ramach umowy świadczeniu usług brokerskich, na który mają zostać przekazane obligacje Skarbu Państwa.
+3. Wprzypadku niedopełnienia obowiązków, októrych mowa 2, stosuje się odpowiednio art. 3 niach Społecznej Komisji Rewindykacyjnej, które uprawomocniły się dnia 31 grudnia 2000 r.,
+2) dnia 30 kwietnia 2002 r. przypadku zobowiązań ustalonych orzeczeniach Społecznej Komisji Rewindykacyjnej, które uprawomocniły się terminie od dnia 1 stycznia 2001 r. dnia 31grudnia 2001 r.
+2. Pozostałe emisji obligacji zostaną określone przez ministra właściwego spraw finansów publicznych wliście emisyjnym.
+3. Podmiotowi uprawnionemu na mocy ustawy otrzymania kompensaty wformie obligacji przysługują obligacje liczbie ustalonej sposób określony wliście emisyjnym, zaokrąglonej wyłącznie wgórę pełnej liczby obligacji.
+4. W sprawach kompensowania zobowiązań Skarbu Państwa zakresie uregulowanym niniejszą ustawą nie stosuje się przepisów ustawy rewindyka2 ustawy rewindykacyjnej. cyjnej, chyba że przepisy niniejszej ustawy tak stanowią.
+4. Właściwi wojewodowie, terminie 14 dni od dnia wejścia wżycie ustawy, informują organizacje wy- 5. Ustawa wchodzi życie po upływie 14 dni mienione worzeczeniach Społecznej Komisji Rewindy- od dnia ogłoszenia.
+kacyjnej, atakże inne znane im podmioty uprawnione, których mowa 1, obowiązkach określonych Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 USTAWA zdnia 30 marca 2001 r.
 orolniczych badaniach rynkowych.
-1.Ustawa reguluje sposób prowadzenia rolniczych badaƒ rynkowych polegajàcych na zbieraniu iopracowywaniu informacji opoziomie cen iwielkoÊci obrotu artyku∏ami rolno-spo˝ywczymi niezale˝nie od miejsca jego prowadzenia, zwiàzanych zdanym przedsi´biorcà.
-2. U˝yte wustawie okreÊlenia oznaczajà:
-1) artyku∏y rolno-spo˝ywcze produkty rolne po2) dane informacje opoziomie cen iwielkoÊci obrotu artyku∏ami rolno-spo˝ywczymi niezale˝nie od miejsca jego prowadzenia, zwiàzanych zprzedsi´biorcà,
-3)przedsi´biorca przedsi´biorc´ rozumieniu ustawy zdnia 19 listopada 1999 r. Prawo dzia∏alnoÊci gospodarczej (Dz. U. 101, poz. 1178 oraz z2000 r. 86, poz. 958 iNr 114, poz. 1193), atak˝e osoby fizyczne lub prawne prowadzàce dzia∏al3) tworzenie zarzàdzanie elektronicznà bazà danych obejmujàcà dane oraz ich zabezpieczanie,
+1.Ustawa reguluje sposób prowadzenia rolniczych badań rynkowych polegających na zbieraniu iopracowywaniu informacji opoziomie cen iwielkości obrotu artykułami rolno-spożywczymi niezależnie od miejsca jego prowadzenia, związanych zdanym przedsiębiorcą.
+2. Użyte wustawie określenia oznaczają:
+1) artykuły rolno-spożywcze produkty rolne po2) dane informacje opoziomie cen iwielkości obrotu artykułami rolno-spożywczymi niezależnie od miejsca jego prowadzenia, związanych zprzedsiębiorcą,
+3)przedsiębiorca przedsiębiorcę rozumieniu ustawy zdnia 19 listopada 1999 r. Prawo działalności gospodarczej (Dz. U. 101, poz. 1178 oraz z2000 r. 86, poz. 958 iNr 114, poz. 1193), atakże osoby fizyczne lub prawne prowadzące działal3) tworzenie zarządzanie elektroniczną bazą danych obejmującą dane oraz ich zabezpieczanie,
 4) przetwarzanie oraz analiza danych rynkowych,
-5) udost´pnianie irozpowszechnianie wyników rolniczych badaƒ rynkowych,
-6) szkolenie wzakresie rolniczych badaƒ rynkowych.
-4. Przedsi´biorcy sprzedajàcy lub kupujàcy artyku∏y rolno-spo˝ywcze, domy maklerskie, domy sk∏adowe oraz przedsi´biorcy prowadzàcy gie∏dy towarowe sà obowiàzani nieodp∏atnego przekazywania danych rynkowych, je˝eli:
-1) sà obj´ci zakresem zbierania danych rynkowych okreÊlonym rozporzàdzeniu, którym mowa wart. 9,
-2) zostali zawiadomieni przez ministra w∏aÊciwego spraw rynków rolnych.
-2. Wybór gie∏dy towarowej, domu maklerskiego, domu sk∏adowego oraz innego przedsi´biorcy sprzedajàcego lub kupujàcego artyku∏y rolno-spo˝ywcze nieodp∏atnego przekazywania danych rynkowych nast´puje wdrodze losowania lub doboru celowego spoÊród przedsi´biorców spe∏niajàcych warunki, októrych mowa wart. 9
+5) udostępnianie irozpowszechnianie wyników rolniczych badań rynkowych,
+6) szkolenie wzakresie rolniczych badań rynkowych.
+4. Przedsiębiorcy sprzedający lub kupujący artykuły rolno-spożywcze, domy maklerskie, domy składowe oraz przedsiębiorcy prowadzący giełdy towarowe są obowiązani nieodpłatnego przekazywania danych rynkowych, jeżeli:
+1) są objęci zakresem zbierania danych rynkowych określonym rozporządzeniu, którym mowa wart. 9,
+2) zostali zawiadomieni przez ministra właściwego spraw rynków rolnych.
+2. Wybór giełdy towarowej, domu maklerskiego, domu składowego oraz innego przedsiębiorcy sprzedającego lub kupującego artykuły rolno-spożywcze nieodpłatnego przekazywania danych rynkowych następuje wdrodze losowania lub doboru celowego spośród przedsiębiorców spełniających warunki, októrych mowa wart. 9
 3. Zawiadomienie, którym mowa 1 pkt 2, zawiera informacje ozakresie, formie iterminach przekazywania danych rynkowych.
-5. Wyniki rolniczych badaƒ rynkowych sà jawne.
-2. Wyniki rolniczych badaƒ rynkowych sà udost´pniane irozpowszechniane wszczególnoÊci przez:
+5. Wyniki rolniczych badań rynkowych są jawne.
+2. Wyniki rolniczych badań rynkowych są udostępniane irozpowszechniane wszczególności przez:
 1) wydawanie biuletynów informacyjnych lub
-2) zamieszczanie ich na stronie internetowej ministerstwa obs∏ugujàcego urzàd ministra w∏aÊciwego spraw rynków rolnych.
-6. Dane mogà byç wykorzystywane tylko wcelu wykonania ustawy.
-2. Dane osobowe przedsi´biorcy sà chronione na zasadach okreÊlonych wprzepisach oochronie danych osobowych.
-7. Minister w∏aÊciwy spraw rynków rolnych mo˝e zleciç zbieranie danych rynkowych podich zbierania, przetwarzania iprzekazywania.
-8. Minister w∏aÊciwy spraw rynków rolnych mo˝e kontrolowaç prawid∏owoÊç przekazywanych danych rynkowych przez przedsi´biorców, októrych mowa wart. 4 1, wzakresie ich rzetelnoÊci.
-2. Wramach kontroli, októrej mowa wust. 1, osoba upowa˝niona przez ministra w∏aÊciwego spraw rynków rolnych ma prawo:
-1) wst´pu pomieszczeƒ kontrolowanego godzinach od 7 21 ,
-2) ˝àdania pisemnych lub ustnych informacji zwiàzanych z przedmiotem kontroli, tym informacji wielkoÊci produkcji artyku∏ów rolno-spo˝ywczych, odniesieniu których sà zbierane dane rynkowe, je˝eli kontrolowany prowadzi produkcj´ tych artyku∏ów.
-3. Na ˝àdanie osoby przeprowadzajàcej kontrol´ kontrolowany jest obowiàzany umo˝liwienia przeprowadzenia kontroli, awszczególnoÊci umo˝liwienia sporzàdzania przez osob´ przeprowadzajàcà kontrol´ notatek z udost´pnionych dokumentów innych noÊników informacji oraz udzielania pisemnych lub ustnych wyjaÊnieƒ wsprawach obj´tych kontrolà.
-4. Przed przystàpieniem kontroli osoba przeprowadzajàca kontrol´ jest obowiàzana okazaç kontrolowanemu upowa˝nienie ministra w∏aÊciwego spraw rynków rolnych.
-5. Upowa˝nienie, którym mowa 4, zawiera: dat´ wydania, okres wa˝noÊci, oznaczenie organu, który je wyda∏, powo∏anie podstawy prawnej, imi´, nazwisko oraz stanowisko s∏u˝bowe osoby upowa˝nionej, oznaczenie kontrolowanego, zakres upowa˝nienia, podpis ministra w∏aÊciwego spraw rynków rolnych oraz piecz´ç urz´dowà.
-6. Osoba przeprowadzajàca kontrol´ przedstawia wyniki kontroli protokole kontroli sporzàdzonym wdwóch egzemplarzach, zktórych jeden jest przekazywany kontrolowanemu za pokwitowaniem.
-7. Kontrolowany ma prawo pisemnego zg∏oszenia ministrowi w∏aÊciwemu spraw rynków rolnych zastrze˝eƒ dotyczàcych wyników kontroli zawartych wprotokole, októrym mowa wust. 6, wterminie 14 dni od dnia jego otrzymania. Wrazie nieuwzgl´dnienia zastrze˝eƒ wca∏oÊci albo wcz´Êci, minister w∏aÊciwy spraw rynków rolnych przekazuje na piÊmie swoje sta˝e okreÊlaç, drodze rozporzàdzenia, wzory formula- obj´tych kontrolà rzy zbierania danych rynkowych, zuwzgl´dnieniem podlega karze grzywny.
+2) zamieszczanie ich na stronie internetowej ministerstwa obsługującego urząd ministra właściwego spraw rynków rolnych.
+6. Dane mogą być wykorzystywane tylko wcelu wykonania ustawy.
+2. Dane osobowe przedsiębiorcy są chronione na zasadach określonych wprzepisach oochronie danych osobowych.
+7. Minister właściwy spraw rynków rolnych może zlecić zbieranie danych rynkowych podich zbierania, przetwarzania iprzekazywania.
+8. Minister właściwy spraw rynków rolnych może kontrolować prawidłowość przekazywanych danych rynkowych przez przedsiębiorców, októrych mowa wart. 4 1, wzakresie ich rzetelności.
+2. Wramach kontroli, októrej mowa wust. 1, osoba upoważniona przez ministra właściwego spraw rynków rolnych ma prawo:
+1) wstępu pomieszczeń kontrolowanego godzinach od 7 21 ,
+2) żądania pisemnych lub ustnych informacji związanych z przedmiotem kontroli, tym informacji wielkości produkcji artykułów rolno-spożywczych, odniesieniu których są zbierane dane rynkowe, jeżeli kontrolowany prowadzi produkcję tych artykułów.
+3. Na żądanie osoby przeprowadzającej kontrolę kontrolowany jest obowiązany umożliwienia przeprowadzenia kontroli, awszczególności umożliwienia sporządzania przez osobę przeprowadzającą kontrolę notatek z udostępnionych dokumentów innych nośników informacji oraz udzielania pisemnych lub ustnych wyjaśnień wsprawach objętych kontrolą.
+4. Przed przystąpieniem kontroli osoba przeprowadzająca kontrolę jest obowiązana okazać kontrolowanemu upoważnienie ministra właściwego spraw rynków rolnych.
+5. Upoważnienie, którym mowa 4, zawiera: datę wydania, okres ważności, oznaczenie organu, który je wydał, powołanie podstawy prawnej, imię, nazwisko oraz stanowisko służbowe osoby upoważnionej, oznaczenie kontrolowanego, zakres upoważnienia, podpis ministra właściwego spraw rynków rolnych oraz pieczęć urzędową.
+6. Osoba przeprowadzająca kontrolę przedstawia wyniki kontroli protokole kontroli sporządzonym wdwóch egzemplarzach, zktórych jeden jest przekazywany kontrolowanemu za pokwitowaniem.
+7. Kontrolowany ma prawo pisemnego zgłoszenia ministrowi właściwemu spraw rynków rolnych zastrzeżeń dotyczących wyników kontroli zawartych wprotokole, októrym mowa wust. 6, wterminie 14 dni od dnia jego otrzymania. Wrazie nieuwzględnienia zastrzeżeń wcałości albo wczęści, minister właściwy spraw rynków rolnych przekazuje na piśmie swoje staże określać, drodze rozporządzenia, wzory formula- objętych kontrolą rzy zbierania danych rynkowych, zuwzględnieniem podlega karze grzywny.
 zakresu zbierania danych rynkowych.
-11. Orzekanie sprawach czyny wymienio10. Kto: ne art. 10 nast´puje na podstawie przepisów po1) ujawnia lub wsposób niezgodny zustawà wykorzy- st´powaniu wsprawach owykroczenia.
-stuje dane rynkowe, z którymi zapozna∏ si´ 12. Ustawa wchodzi w˝ycie zdniem 1 stycznia wzwiàzku zwykonywaniem pracy lub czynnoÊci na 2002 r.
-zlecenie prowadzàcego rolnicze badania rynkowe,
-2) b´dàc obowiàzanym nieodp∏atnego przekazywania danych rynkowych nie przekazuje lub wbrew obowiàzkowi okreÊlonemu wustawie prze- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 472
+11. Orzekanie sprawach czyny wymienio10. Kto: ne art. 10 następuje na podstawie przepisów po1) ujawnia lub wsposób niezgodny zustawą wykorzy- stępowaniu wsprawach owykroczenia.
+stuje dane rynkowe, z którymi zapoznał się 12. Ustawa wchodzi wżycie zdniem 1 stycznia wzwiązku zwykonywaniem pracy lub czynności na 2002 r.
+zlecenie prowadzącego rolnicze badania rynkowe,
+2) będąc obowiązanym nieodpłatnego przekazywania danych rynkowych nie przekazuje lub wbrew obowiązkowi określonemu wustawie prze- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 472
 USTAWA zdnia 30 marca 2001 r.
-ozmianie ustawy oadministrowaniu obrotem zzagranicà towarami ius∏ugami.
-1.Wustawie zdnia 11 grudnia 1997 r. oadmini- 2.Ustawa wchodzi w˝ycie po up∏ywie 14 dni strowaniu obrotem z zagranicà towarami us∏ugami od dnia og∏oszenia.
-(Dz. U. 157, poz. 1026, z 1999 r. 55, poz. 587 101, poz. 1178, z 2000 r. 119, poz. 1250 oraz z 2001r. 29, poz. 320) wart. 9 wust. 1 skreÊla si´ pkt Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 473
+ozmianie ustawy oadministrowaniu obrotem zzagranicą towarami iusługami.
+1.Wustawie zdnia 11 grudnia 1997 r. oadmini- 2.Ustawa wchodzi wżycie po upływie 14 dni strowaniu obrotem z zagranicą towarami usługami od dnia ogłoszenia.
+(Dz. U. 157, poz. 1026, z 1999 r. 55, poz. 587 101, poz. 1178, z 2000 r. 119, poz. 1250 oraz z 2001r. 29, poz. 320) wart. 9 wust. 1 skreśla się pkt Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 473
 USTAWA zdnia 30 marca 2001 r.
 okosmetykach.
-Ustawa okreÊla, zakresie niezb´dnym 2) Êrodkach farmaceutycznych, materia∏ach medyczdla zapewnienia bezpieczeƒstwa zdrowia ludzi, wyma- nych, aptekach, hurtowniach iInspekcji Farmaceugania dotyczàce sk∏adu, oznakowania kosmetyków tycznej.
+Ustawa określa, zakresie niezbędnym 2) środkach farmaceutycznych, materiałach medyczdla zapewnienia bezpieczeństwa zdrowia ludzi, wyma- nych, aptekach, hurtowniach iInspekcji Farmaceugania dotyczące składu, oznakowania kosmetyków tycznej.
 

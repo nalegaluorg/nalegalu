@@ -24,44 +24,44 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20042812782) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2004/2782/text.pdf) |
 
-**Art. 1.** W ustawie dnia 20 grudnia 1996 por- 3) uzasadnienie zamierzonej czynnoÊci tach przystaniach morskich (Dz. U. 2002 110, prawnej, wtym informacj´ dotyczàcà 967, 166, 1361 200, 1683 dotychczasowego przewidywanego 2004 169, 1766) wprowadza si´ nast´pujà- sposobu zagospodarowania nieruce zmiany: chomoÊci.
+**Art. 1.** W ustawie dnia 20 grudnia 1996 por- 3) uzasadnienie zamierzonej czynności tach przystaniach morskich (Dz. U. 2002 110, prawnej, wtym informację dotyczącą 967, 166, 1361 200, 1683 dotychczasowego przewidywanego 2004 169, 1766) wprowadza się następują- sposobu zagospodarowania nieruce zmiany: chomości.
 
 **Art. 3.** W ustawie dnia 21 sierpnia 1997 gospodarce (Dz. U. 2004 261,
 
-**Art. 4.** Zwolnienie podatkowe wstosunku do gruntów znajdujàcych si´ posiadaniu podmiotu zarzàdzajàcego portem przystanià morskà dniu wejÊcia ˝ycie ustawy, okreÊlone art. 7 1 pkt 2a ustawy wymienionej wart. 2, stosuje si´ nie d∏u˝ej ni˝ przez okres 5 lat.
+**Art. 4.** Zwolnienie podatkowe wstosunku do gruntów znajdujących się posiadaniu podmiotu zarządzającego portem przystanią morską dniu wejścia życie ustawy, określone art. 7 1 pkt 2a ustawy wymienionej wart. 2, stosuje się nie dłużej niż przez okres 5 lat.
 
 **Art. 5.**
 
-1. Podmioty zarzàdzajàce portami opodstawowym znaczeniu dla gospodarki narodowej posiadajàce udzia∏y akcje spó∏kach dzia∏ajàcych sferze eksploatacji powinny je zbyç do dnia 31 grudnia 2005
+1. Podmioty zarządzające portami opodstawowym znaczeniu dla gospodarki narodowej posiadające udziały akcje spółkach działających sferze eksploatacji powinny je zbyć do dnia 31 grudnia 2005
 
-2. Dzia∏alnoÊcià wsferze eksploatacji, prowadzonà granicach portów przystani morskich, jest dzia∏alnoÊç polegajàca Êwiadczeniu us∏ug portowych, którymi sà:
+2. Działalnością wsferze eksploatacji, prowadzoną granicach portów przystani morskich, jest działalność polegająca świadczeniu usług portowych, którymi są:
 
-- **1)** us∏ugi odnoszàce si´ do statków: us∏ugi wobec ∏adunków, tym za∏adunek wy∏adunek, sztauowanie, trymowanie, prze∏adunek obrót ∏adunkowy wewnàtrz portu;
+- **1)** usługi odnoszące się do statków: usługi wobec ładunków, tym załadunek wyładunek, sztauowanie, trymowanie, przeładunek obrót ładunkowy wewnątrz portu;
     - **a)** pilotowe,
     - **b)** holownicze,
     - **c)** cumownicze;
 
-- **3)** us∏ugi wobec pasa˝erów, tym zaokr´towanie wyokr´towanie.
+- **3)** usługi wobec pasażerów, tym zaokrętowanie wyokrętowanie.
 
-3. Zbycie udzia∏ów akcji nale˝àcych do podmiotów zarzàdzajàcych portami przystaniami morskimi spó∏kach dzia∏ajàcych sferze eksploatacji, którym 1, nast´puje, zastrze˝eniem 6, trybie publicznym. Tryb publiczny wymaga og∏oszenia zaproszenia do pisemnego przetargu zaproszenia do negocjacji co najmniej jednym dzienniku zasi´gu ogólnopolskim. Przepisów ustawy dnia 21 sierpnia 1997 Prawo publicznym obrocie papierami wartoÊciowymi (Dz.U. 2002 49, 447, póên. zm.
+3. Zbycie udziałów akcji należących do podmiotów zarządzających portami przystaniami morskimi spółkach działających sferze eksploatacji, którym 1, następuje, zastrzeżeniem 6, trybie publicznym. Tryb publiczny wymaga ogłoszenia zaproszenia do pisemnego przetargu zaproszenia do negocjacji co najmniej jednym dzienniku zasięgu ogólnopolskim. Przepisów ustawy dnia 21 sierpnia 1997 Prawo publicznym obrocie papierami wartościowymi (Dz.U. 2002 49, 447, póên. zm.
 
 - **4)** wymagania stawiane uczestnikom przetargu kryteria oceny wyboru ofert ich znaczenie;
-- **5)** miejsce, tryb form´ termin sk∏adania ofert;
-- **6)** okres zwiàzania ofertà;
-- **7)** wysokoÊç wadium sposób jego wniesienia.
+- **5)** miejsce, tryb formę termin składania ofert;
+- **6)** okres związania ofertą;
+- **7)** wysokość wadium sposób jego wniesienia.
 
-5. Og∏oszenie zaproszenia do negocjacji, którym 3, zawiera co najmniej:
+5. Ogłoszenie zaproszenia do negocjacji, którym 3, zawiera co najmniej:
 
-- **1)** nazw´, siedzib´ adres zapraszajàcego do negocjacji; nazw´, siedzib´ adres spó∏ki;
-- **3)** podstaw´ prawnà zbycia akcji udzia∏ów;
-- **4)** liczb´ rodzaj udzia∏ów akcji b´dàcych przedmiotem negocjacji;
-- **5)** miejsce, termin warunki, po których spe∏nieniu mo˝na zapoznaç si´ zdokumentacjà dotyczàcà sytuacji prawnej sytuacji ekonomiczno-finansowej spó∏ki, zasadach iwarunkach organizacji negocjacji;
-- **6)** miejsce, tryb form´ termin sk∏adania odpowiedzi zaproszenie;
-- **7)** form´ itermin, wciàgu którego zapraszajàcy poinformuje rozpatrzeniu odpowiedzi zaproszenie;
-- **8)** zastrze˝enie, ˝e zapraszajàcy ma prawo swobodnego wyboru podmiotów, którymi podejmie negocjacje, odstàpienia od negocjacji bez podania przyczyny przed∏u˝enia terminu do sk∏adania odpowiedzi zaproszenie przed up∏ywem terminu, którym pkt 7.
+- **1)** nazwę, siedzibę adres zapraszającego do negocjacji; nazwę, siedzibę adres spółki;
+- **3)** podstawę prawną zbycia akcji udziałów;
+- **4)** liczbę rodzaj udziałów akcji będących przedmiotem negocjacji;
+- **5)** miejsce, termin warunki, po których spełnieniu można zapoznać się zdokumentacją dotyczącą sytuacji prawnej sytuacji ekonomiczno-finansowej spółki, zasadach iwarunkach organizacji negocjacji;
+- **6)** miejsce, tryb formę termin składania odpowiedzi zaproszenie;
+- **7)** formę itermin, wciągu którego zapraszający poinformuje rozpatrzeniu odpowiedzi zaproszenie;
+- **8)** zastrzeżenie, że zapraszający ma prawo swobodnego wyboru podmiotów, którymi podejmie negocjacje, odstąpienia od negocjacji bez podania przyczyny przedłużenia terminu do składania odpowiedzi zaproszenie przed upływem terminu, którym pkt 7.
 
-6. W przypadku zbywania udzia∏ów akcji spó∏ce, której przewidziano prawo pierwokupu pierwszeƒstwa dla dotychczasowych udzia∏owców, akcjonariuszy, zbycie rzecz tych osób mo) nie sto- ˝e nastàpiç wed∏ug ceny okreÊlonej przetargu suje si´. ustalonej wyniku negocjacji.
+6. W przypadku zbywania udziałów akcji spółce, której przewidziano prawo pierwokupu pierwszeństwa dla dotychczasowych udziałowców, akcjonariuszy, zbycie rzecz tych osób mo) nie sto- że nastąpić według ceny określonej przetargu suje się. ustalonej wyniku negocjacji.
 
-4. Og∏oszenie zaproszenia do przetargu, którym Art. 6.Przepisy art. 5 niniejszej ustawy nie majà za3, zawiera co najmniej: stosowania do spraw dotyczàcych zbycia udzia∏ów akcji wszcz´tych niezakoƒczonych przed dniem wej1) nazw´, siedzib´ adres organizatora przetargu; Êcia ˝ycie niniejszej ustawy. ——————— Art. 7. Ustawa wchodzi ˝ycie dniem 1 stycznia 2005 r., zwyjàtkiem art. 2 iart. 4, które wchodzà w˝ycie dniem 1 stycznia 2006
+4. Ogłoszenie zaproszenia do przetargu, którym Art. 6.Przepisy art. 5 niniejszej ustawy nie mają za3, zawiera co najmniej: stosowania do spraw dotyczących zbycia udziałów akcji wszczętych niezakończonych przed dniem wej1) nazwę, siedzibę adres organizatora przetargu; ścia życie niniejszej ustawy. ——————— Art. 7. Ustawa wchodzi życie dniem 1 stycznia 2005 r., zwyjątkiem art. 2 iart. 4, które wchodzą wżycie dniem 1 stycznia 2006
 
 

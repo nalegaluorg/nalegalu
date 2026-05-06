@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# przez zarzàd zarzàdc´, któremu zarzàd nieruchomoÊcià wspólnà powierzono w sposób okreÊlony w art. 18 ust.1.”;
+# przez zarząd zarządcę, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust.1.”;
 
 | Pole | Wartość |
 |---|---|
@@ -25,22 +25,22 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000290356) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/356/text.pdf) |
 
 16) wart. 32:
-a) w ust. 1 po wyrazie „zarzàd” dodaje si´ wyrazy „lub zarzàdca, któremu zarzàd nieruchomoÊcià wspólnà powierzono w sposób okreÊlony wart.18 ust. 1,”
-b) w ust. 2 wyraz „czas” zast´puje si´ wyrazami „dzieƒ, godzin´”;
-17) po art. 32 dodaje si´ art. 32awbrzmieniu: „Art. 32a. Je˝eli grunt wchodzàcy w sk∏ad nieruchomoÊci wspólnej nie spe∏nia wymoremu zarzàd nieruchomoÊcià wspólnà powierzono w sposób okreÊlony w art. 18 ust. 1, pe∏nomocnictwa do wykonania odpowiednich, prawem przewidzianych, czynnoÊci zmierzajàcych do nabycia przyleg∏ych nieruchomoÊci gruntowych rzecz wspólnoty mieszkaniowej.”;
-18) wart. 33 po wyrazie „prawnej,” dodaje si´ wyrazy „wtrybie przewidzianym wart. 18 ust. 1,”.
+a) w ust. 1 po wyrazie Ńzarząd” dodaje się wyrazy Ńlub zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony wart.18 ust. 1,”
+b) w ust. 2 wyraz Ńczas” zastępuje się wyrazami Ńdzień, godzinę”;
+17) po art. 32 dodaje się art. 32awbrzmieniu: ŃArt. 32a. Jeżeli grunt wchodzący w skład nieruchomości wspólnej nie spełnia wymoremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, pełnomocnictwa do wykonania odpowiednich, prawem przewidzianych, czynności zmierzających do nabycia przyległych nieruchomości gruntowych rzecz wspólnoty mieszkaniowej.”;
+18) wart. 33 po wyrazie Ńprawnej,” dodaje się wyrazy Ńwtrybie przewidzianym wart. 18 ust. 1,”.
 
-**Art. 2.** Wustawie zdnia 22 sierpnia 1997 r. ozmianie ustawy ow∏asnoÊci lokali (Dz.U. 106, poz. 682) skreÊla si´ art. 2.
+**Art. 2.** Wustawie zdnia 22 sierpnia 1997 r. ozmianie ustawy owłasności lokali (Dz.U. 106, poz. 682) skreśla się art. 2.
 
-**Art. 3.** Prezes Rady Ministrów og∏osi w Dzienniku gów przewidzianych dla dzia∏ki budowlanej, uniemo˝liwiajàc prawid∏owe racjonalne korzystanie z budynków urzàdzeƒ z nimi zwiàzanych, zarzàd zarzàdca, któremu zarzàd nieruchomoÊcià wspólnà powierzono w sposób okreÊlony w art. 18 ust. 1, jest obowiàzany przedstawiç w∏aÊcicielom lokali projekty uchwa∏ wsprawie: Rzeczypospolitej Polskiej jednolity tekst ustawy zdnia 24 czerwca 1994 r. ow∏asnoÊci lokali, zuwzgl´dnieniem zmian wynikajàcych zprzepisów og∏oszonych przed dniem wydania jednolitego tekstu.
+**Art. 3.** Prezes Rady Ministrów ogłosi w Dzienniku gów przewidzianych dla działki budowlanej, uniemożliwiając prawidłowe racjonalne korzystanie z budynków urządzeń z nimi związanych, zarząd zarządca, któremu zarząd nieruchomością wspólną powierzono w sposób określony w art. 18 ust. 1, jest obowiązany przedstawić właścicielom lokali projekty uchwał wsprawie: Rzeczypospolitej Polskiej jednolity tekst ustawy zdnia 24 czerwca 1994 r. owłasności lokali, zuwzględnieniem zmian wynikających zprzepisów ogłoszonych przed dniem wydania jednolitego tekstu.
 
-**Art. 4.** Ustawa wchodzi w ˝ycie po up∏ywie 30 dni od dnia og∏oszenia, z wyjàtkiem art. 1 pkt 12, który wchodzi w ˝ycie po up∏ywie 6 miesi´cy od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA zdnia 16 marca 2000 r. ozmianie ustawy ozwalczaniu nieuczciwej konkurencji oraz ozmianie ustawy oradiofonii itelewizji.
+**Art. 4.** Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 12, który wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 16 marca 2000 r. ozmianie ustawy ozwalczaniu nieuczciwej konkurencji oraz ozmianie ustawy oradiofonii itelewizji.
 
-**Art. 1.** Wustawie zdnia 16 kwietnia 1993 r. ozwalczaniu nieuczciwej konkurencji (Dz.U. 47, poz. 211, z 1996 r. 106, poz. 496, z 1997 r. 88, poz. 554 z 1998 r. 106, poz. 668) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 16 kwietnia 1993 r. ozwalczaniu nieuczciwej konkurencji (Dz.U. 47, poz. 211, z 1996 r. 106, poz. 496, z 1997 r. 88, poz. 554 z 1998 r. 106, poz. 668) wprowadza się następujące zmiany:
 
-**Art. 2.** Wustawie zdnia grudnia 1992 r. oradiofonii telewizji (Dz. U. z 1993 r. 7, poz. 34, z 1995 r. 66, poz. 335 142, poz. 701, z 1996 r. 106, poz.496, z1997 r. 88, poz. 554 iNr 121, poz. 770 oraz z 1999 r. 90, poz. 999) po art. 20 dodaje si´ art.20awbrzmieniu: „Art. 20a. 1. Na pisemny wniosek Prezesa Urz´du Ochrony Konkurencji Konsumentów nadawca jest obowiàzany:
+**Art. 2.** Wustawie zdnia grudnia 1992 r. oradiofonii telewizji (Dz. U. z 1993 r. 7, poz. 34, z 1995 r. 66, poz. 335 142, poz. 701, z 1996 r. 106, poz.496, z1997 r. 88, poz. 554 iNr 121, poz. 770 oraz z 1999 r. 90, poz. 999) po art. 20 dodaje się art.20awbrzmieniu: ŃArt. 20a. 1. Na pisemny wniosek Prezesa Urzędu Ochrony Konkurencji Konsumentów nadawca jest obowiązany:
 
-**Art. 3.** Ustawa wchodzi w ˝ycie po up∏ywie 3 miesi´cy od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski 357 USTAWA zdnia 31 marca 2000 r. ozmianie ustawy oochronie osób imienia.
+**Art. 3.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski 357 USTAWA zdnia 31 marca 2000 r. ozmianie ustawy oochronie osób imienia.
 
-**Art. 1.** Wustawie zdnia 22 sierpnia 1997 r. oochro- Stra˝y Pocztowych tracà moc z dniem nie osób mienia (Dz. U. 114, poz. 740 z 1999 r. 31 grudnia 2000 r. Nr11, poz. 95) art. 55 otrzymuje brzmienie:
+**Art. 1.** Wustawie zdnia 22 sierpnia 1997 r. oochro- Straży Pocztowych tracą moc z dniem nie osób mienia (Dz. U. 114, poz. 740 z 1999 r. 31 grudnia 2000 r. Nr11, poz. 95) art. 55 otrzymuje brzmienie:
 

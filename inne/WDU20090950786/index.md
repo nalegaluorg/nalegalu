@@ -24,5 +24,5 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090950786) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/786/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 18 lutego 1994 r. ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeƒstwa Wewn´trznego, Agencji Wywiadu, S∏u˝by Kontrwywiadu Wojskowego, S∏u˝by Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Stra˝y Granicznej, Biura Ochrony Rzàdu, Paƒstwowej Stra˝y Po˝arnej i S∏u˝by Wi´ziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 18 lutego 1994 r. ozaopatrzeniu emerytalnym funkcjonariuszy Policji, Agencji Bezpieczeństwa Wewnętrznego, Agencji Wywiadu, Służby Kontrwywiadu Wojskowego, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Straży Granicznej, Biura Ochrony Rządu, Państwowej Straży Pożarnej i Służby Więziennej oraz ich rodzin (Dz. U. z 2004 r. Nr 8, poz. 67, z póên. zm. ) wprowadza się następujące zmiany:
 

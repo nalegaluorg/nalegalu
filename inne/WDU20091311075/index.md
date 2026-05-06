@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# wieczystych hipotece (Dz. U. 2001 124, 1361, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+# wieczystych hipotece (Dz. U. 2001 124, 1361, póên. zm. ) wprowadza się następujące zmiany:
 
 | Pole | Wartość |
 |---|---|
@@ -24,92 +24,92 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20091311075) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1075/text.pdf) |
 
-1) wart.1 ust.3 otrzymuje brzmienie: „3. Ksi´gi wieczyste mogà byç tak˝e prowadzone wcelu ustalenia stanu prawnego spó∏dzielczego w∏asnoÊciowego prawa do lokalu.”;
-2) wart.16 wust.2 pkt2 otrzymuje brzmienie: „2) roszczenie przeniesienie w∏asnoÊci nieruchomoÊci lub u˝ytkowania wieczystego albo ustanowienie ograniczonego prawa rzeczowego; dotyczy to tak˝e roszczeƒ przysz∏ych,”;
-3) wart.19 ust.3 otrzymuje brzmienie: „3. W razie wpisu roszczenia przysz∏ego bieg terminu do wykreÊlenia takiego roszczenia liczy si´ od dnia, którym sta∏o si´ ono wymagalne.”;
-4) wart.24 ust.1 i2 otrzymujà brzmienie: „1. Do ksiàg wieczystych dla spó∏dzielczych w∏asnoÊciowych praw do lokalu stosuje si´ odpowiednio przepisy ksi´gach wieczystych dla nieruchomoÊci.
-2. W razie przekszta∏cenia spó∏dzielczego w∏asnoÊciowego prawa do lokalu wprawo w∏asnoÊci nieruchomoÊci, ksi´ga wieczysta prowadzona dla spó∏dzielczego w∏asnoÊciowego prawa do lokalu staje si´ ksi´gà wieczystà dla nieruchomoÊci, a wpisana tej ksi´dze hipoteka naspó∏dzielczym w∏asnoÊciowym prawie do lokalu obcià˝a nieruchomoÊç.”;
-5) wart.25 ust.2 otrzymuje brzmienie: „2. Ksi´ga wieczysta dla spó∏dzielczego w∏asnoÊciowego prawa do lokalu zawiera cztery dziarej przys∏uguje spó∏dzielcze w∏asnoÊciowe prawo do lokalu,
-3) trzeci jest przeznaczony na wpisy ograniczeƒ rozporzàdzaniu prawem wpisy innych praw roszczeƒ, wyjàtkiem roszczeƒ dotyczàcych hipotek,
-4) czwarty jest przeznaczony na wpisy dotyczàce hipotek.”;
-6) wart.36 ust.1 otrzymuje brzmienie: „1. Sàdy, organy administracji rzàdowej jednostek samorzàdu terytorialnego notariusze sporzàdzajàcy akty poÊwiadczenia dziedzicze∏y, zktórych:
-1) pierwszy obejmuje oznaczenie lokalu lub domu jednorodzinnego oznaczenie nieruchomoÊci, zktórà jest zwiàzany, nia zawiadamiajà sàd w∏aÊciwy do prowadzenia ksi´gi wieczystej ka˝dej zmianie w∏aÊciciela nieruchomoÊci, dla której za∏o˝ona jest ksi´ga wieczysta.”;
-7) art.65 otrzymuje brzmienie: „Art. 65. 1. Wcelu zabezpieczenia oznaczonej wierzytelnoÊci wynikajàcej okreÊlonego stosunku prawnego mo˝na nieruchomoÊç obcià˝yç prawem, na mocy którego wierzyciel mo˝e dochodziç zaspokojenia nieruchomoÊci bez wzgl´du na to, czyjà sta∏a si´ w∏asnoÊcià, izpierwszeƒstwem przed wierzycielami osobistymi w∏aÊciciela nieruchomoÊci (hipoteka).
-2. Przedmiotem hipoteki mo˝e byç tak˝e:
-1) u˝ytkowanie wieczyste wraz budynkami urzàdzeniami na u˝ytkowanym gruncie stanowiàcymi w∏asnoÊç u˝ytkownika wieczystego,
-2) spó∏dzielcze w∏asnoÊciowe prawo do lokalu,
-3) wierzytelnoÊç zabezpieczona hipotekà.
-3. Hipotekà mo˝e byç obcià˝ona cz´Êç u∏amkowa nieruchomoÊci, je˝eli stanowi udzia∏ wspó∏w∏aÊciciela, przys∏ugujàcy wspó∏uprawnionemu udzia∏ we wspólnoÊci praw wymienionych wust.2 pkt1 i2.
-4. Do hipotek okreÊlonych ust. 2 3 stosuje si´ odpowiednio przepisy ohipotece na nieruchomoÊci.”;
-8) art.68 otrzymuje brzmienie: ——————— „Art. 68. 1. Hipoteka zabezpiecza wierzytelnoÊç „Art. 68 1. Hipoteka umowna mo˝e tak˝e zabezpieczaç kilka wierzytelnoÊci zró˝nych stosunków prawnych przys∏ugujàcych temu samemu wierzycielowi.
-2. W umowie ustanawiajàcej hipotek´ nale˝y okreÊliç stosunki prawne wynikajàce znich wierzytelnoÊci obj´te zabezpieczeniem.
-3. Wierzyciel hipoteczny mo˝e podzieliç hipotek´. OÊwiadczenie podziale hipoteki nale˝y z∏o˝yç w∏aÊcicielowi nieruchomoÊci. Podzia∏ hipoteki staje si´ skuteczny chwilà wpisu ksi´dze wieczystej.
-Art. 68 2 1. W celu zabezpieczenia hipotekà kilku wierzytelnoÊci przys∏ugujàcych ró˝nym podmiotom, a s∏u˝àcym sfinansowaniu tego samego przedsi´wzi´cia, wierzyciele powo∏ujà administratora hipoteki. Administratorem mo˝e byç jeden wierzycieli albo osoba trzecia.
-2. Umowa powo∏ujàca administratora hipoteki powinna zostaç zawarta na piÊmie pod rygorem niewa˝noÊci.
-3. Administrator hipoteki zawiera umow´ ustanowienie hipoteki wykonuje prawa obowiàzki wierzyciela hipotecznego we w∏asnym imieniu, lecz na rachunek wierzycieli, których wierzytelnoÊci sà obj´te zabezpieczeniem. W umowie ustanawiajàcej hipotek´ nale˝y okreÊliç zakres zabezpieczenia poszczególnych wierzytelnoÊci przedsi´wzi´cie, którego sfinansowaniu s∏u˝à.
-4. Do ustanowienia hipoteki na rzecz administratora hipoteki nie stosuje si´ art.95 ustawy zdnia 29 sierpnia 1997r.
+1) wart.1 ust.3 otrzymuje brzmienie: Ń3. Księgi wieczyste mogą być także prowadzone wcelu ustalenia stanu prawnego spółdzielczego własnościowego prawa do lokalu.”;
+2) wart.16 wust.2 pkt2 otrzymuje brzmienie: Ń2) roszczenie przeniesienie własności nieruchomości lub użytkowania wieczystego albo ustanowienie ograniczonego prawa rzeczowego; dotyczy to także roszczeń przyszłych,”;
+3) wart.19 ust.3 otrzymuje brzmienie: Ń3. W razie wpisu roszczenia przyszłego bieg terminu do wykreślenia takiego roszczenia liczy się od dnia, którym stało się ono wymagalne.”;
+4) wart.24 ust.1 i2 otrzymują brzmienie: Ń1. Do ksiąg wieczystych dla spółdzielczych własnościowych praw do lokalu stosuje się odpowiednio przepisy księgach wieczystych dla nieruchomości.
+2. W razie przekształcenia spółdzielczego własnościowego prawa do lokalu wprawo własności nieruchomości, księga wieczysta prowadzona dla spółdzielczego własnościowego prawa do lokalu staje się księgą wieczystą dla nieruchomości, a wpisana tej księdze hipoteka naspółdzielczym własnościowym prawie do lokalu obciąża nieruchomość.”;
+5) wart.25 ust.2 otrzymuje brzmienie: Ń2. Księga wieczysta dla spółdzielczego własnościowego prawa do lokalu zawiera cztery dziarej przysługuje spółdzielcze własnościowe prawo do lokalu,
+3) trzeci jest przeznaczony na wpisy ograniczeń rozporządzaniu prawem wpisy innych praw roszczeń, wyjątkiem roszczeń dotyczących hipotek,
+4) czwarty jest przeznaczony na wpisy dotyczące hipotek.”;
+6) wart.36 ust.1 otrzymuje brzmienie: Ń1. Sądy, organy administracji rządowej jednostek samorządu terytorialnego notariusze sporządzający akty poświadczenia dziedziczeły, zktórych:
+1) pierwszy obejmuje oznaczenie lokalu lub domu jednorodzinnego oznaczenie nieruchomości, zktórą jest związany, nia zawiadamiają sąd właściwy do prowadzenia księgi wieczystej każdej zmianie właściciela nieruchomości, dla której założona jest księga wieczysta.”;
+7) art.65 otrzymuje brzmienie: ŃArt. 65. 1. Wcelu zabezpieczenia oznaczonej wierzytelności wynikającej określonego stosunku prawnego można nieruchomość obciążyć prawem, na mocy którego wierzyciel może dochodzić zaspokojenia nieruchomości bez względu na to, czyją stała się własnością, izpierwszeństwem przed wierzycielami osobistymi właściciela nieruchomości (hipoteka).
+2. Przedmiotem hipoteki może być także:
+1) użytkowanie wieczyste wraz budynkami urządzeniami na użytkowanym gruncie stanowiącymi własność użytkownika wieczystego,
+2) spółdzielcze własnościowe prawo do lokalu,
+3) wierzytelność zabezpieczona hipoteką.
+3. Hipoteką może być obciążona część ułamkowa nieruchomości, jeżeli stanowi udział współwłaściciela, przysługujący współuprawnionemu udział we wspólności praw wymienionych wust.2 pkt1 i2.
+4. Do hipotek określonych ust. 2 3 stosuje się odpowiednio przepisy ohipotece na nieruchomości.”;
+8) art.68 otrzymuje brzmienie: ——————— ŃArt. 68. 1. Hipoteka zabezpiecza wierzytelność ŃArt. 68 1. Hipoteka umowna może także zabezpieczać kilka wierzytelności zróżnych stosunków prawnych przysługujących temu samemu wierzycielowi.
+2. W umowie ustanawiającej hipotekę należy określić stosunki prawne wynikające znich wierzytelności objęte zabezpieczeniem.
+3. Wierzyciel hipoteczny może podzielić hipotekę. Oświadczenie podziale hipoteki należy złożyć właścicielowi nieruchomości. Podział hipoteki staje się skuteczny chwilą wpisu księdze wieczystej.
+Art. 68 2 1. W celu zabezpieczenia hipoteką kilku wierzytelności przysługujących różnym podmiotom, a służącym sfinansowaniu tego samego przedsięwzięcia, wierzyciele powołują administratora hipoteki. Administratorem może być jeden wierzycieli albo osoba trzecia.
+2. Umowa powołująca administratora hipoteki powinna zostać zawarta na piśmie pod rygorem nieważności.
+3. Administrator hipoteki zawiera umowę ustanowienie hipoteki wykonuje prawa obowiązki wierzyciela hipotecznego we własnym imieniu, lecz na rachunek wierzycieli, których wierzytelności są objęte zabezpieczeniem. W umowie ustanawiającej hipotekę należy określić zakres zabezpieczenia poszczególnych wierzytelności przedsięwzięcie, którego sfinansowaniu służą.
+4. Do ustanowienia hipoteki na rzecz administratora hipoteki nie stosuje się art.95 ustawy zdnia 29 sierpnia 1997r.
 Prawo bankowe (Dz. U. 2002 Nr72, poz.665, zpóên. zm.
-dy wierzycieli, których wierzytelnoÊci sà obj´te zabezpieczeniem, mo˝e ˝àdaç podzia∏u hipoteki. Przepisy zniesieniu wspó∏w∏asnoÊci stosuje si´ odpowiednio.
-7. Przepis ust. 6 stosuje si´ równie˝ braku zgody wszystkich wierzycieli na zmian´ administratora hipoteki.
+dy wierzycieli, których wierzytelności są objęte zabezpieczeniem, może żądać podziału hipoteki. Przepisy zniesieniu współwłasności stosuje się odpowiednio.
+7. Przepis ust. 6 stosuje się również braku zgody wszystkich wierzycieli na zmianę administratora hipoteki.
 Art. 68 ).
-Mo˝na zastàpiç zabezpieczonà wierzytelnoÊç innà wierzytelnoÊcià tego samego wierzyciela. Do zmiany zabezpieczonej wierzytelnoÊci stosuje si´ przepisy zmianie treÊci hipoteki. Zgoda osób, którym przys∏ugujà prawa pierwszeƒstwem równym lub ni˝szym, nie jest potrzebna.
-Art. 68 4 1. Na zmian´ waluty zabezpieczonej wierzytelnoÊci inne zmiany zabezpieczonej wierzytelnoÊci drodze czynnoÊci prawnej zwi´kszajàce zakres zaspokojenia nieruchomoÊci obcià˝onej wymagana jest zgoda w∏aÊciciela nieruchomoÊci, je˝eli nie jest on d∏u˝nikiem osobistym. OÊwiadczenie w∏aÊciciela nieruchomoÊci powinno byç z∏o˝one którejkolwiek ze stron formie pisemnej pod rygorem niewa˝noÊci.
-2. Zmiany zabezpieczonej wierzytelnoÊci, których mowa ust. 1, sà bezskuteczne stosunku do w∏aÊciciela nieruchomoÊci, dopóki nie wyrazi∏ na nie zgody.”;
-10) art.69 otrzymuje brzmienie: „Art. 69. Hipoteka zabezpiecza mieszczàce si´ sumie hipoteki roszczenia odsetki przyznane koszty post´powania, jak równie˝ inne roszczenia Êwiadczenia uboczne, je˝eli zosta∏y wymienione dokumencie stanowiàcym podstaw´ wpisu hipoteki do ksi´gi wieczystej.”;
-11) uchyla si´ art.70 iart.71;
+Można zastąpić zabezpieczoną wierzytelność inną wierzytelnością tego samego wierzyciela. Do zmiany zabezpieczonej wierzytelności stosuje się przepisy zmianie treści hipoteki. Zgoda osób, którym przysługują prawa pierwszeństwem równym lub niższym, nie jest potrzebna.
+Art. 68 4 1. Na zmianę waluty zabezpieczonej wierzytelności inne zmiany zabezpieczonej wierzytelności drodze czynności prawnej zwiększające zakres zaspokojenia nieruchomości obciążonej wymagana jest zgoda właściciela nieruchomości, jeżeli nie jest on dłużnikiem osobistym. Oświadczenie właściciela nieruchomości powinno być złożone którejkolwiek ze stron formie pisemnej pod rygorem nieważności.
+2. Zmiany zabezpieczonej wierzytelności, których mowa ust. 1, są bezskuteczne stosunku do właściciela nieruchomości, dopóki nie wyraził na nie zgody.”;
+10) art.69 otrzymuje brzmienie: ŃArt. 69. Hipoteka zabezpiecza mieszczące się sumie hipoteki roszczenia odsetki przyznane koszty postępowania, jak również inne roszczenia świadczenia uboczne, jeżeli zostały wymienione dokumencie stanowiącym podstawę wpisu hipoteki do księgi wieczystej.”;
+11) uchyla się art.70 iart.71;
 ——————— 12) wart.76:
-a) ust.1 otrzymuje brzmienie: „1. W razie podzia∏u nieruchomoÊci hipoteka obcià˝ajàca nieruchomoÊç obcià˝a wszystkie nieruchomoÊci utworzone przez podzia∏ (hipoteka ∏àczna). Hipoteka na cz´Êci u∏amkowej nieruchomoÊci obcià˝a wtym samym zakresie cz´Êci u∏amkowe wszystkich nieruwieƒ umowy.”;
-13) art.77 otrzymuje brzmienie: „Art. 77. Przedawnienie wierzytelnoÊci zabezpieczonej hipotekà nie narusza uprawnienia wierzyciela hipotecznego do uzyskania zaspokojenia nieruchomoÊci obcià˝onej. Przepisu tego nie stosuje si´ do roszczeƒ oÊwiadczenia uboczne.”;
-14) dziale II rozdziale 1 tytu∏ oddzia∏u 2 otrzymuje brzmienie: „Przeniesienie wierzytelnoÊci hipotecznej”;
-15) wart.79 ust.1 otrzymuje brzmienie: „1. W razie przelewu wierzytelnoÊci hipotecznej na nabywc´ przechodzi tak˝e hipoteka, chyba ˝e ustawa stanowi inaczej. Do przelewu wierzytelnoÊci hipotecznej niezb´dny jest wpis wksi´dze wieczystej.”;
-16) po art.79 dodaje si´ art.79 iart.79 wbrzmieniu: „Art. 79 1. Je˝eli hipoteka zabezpiecza kilka wierzytelnoÊci przys∏ugujàcych wierzycielowi hipotecznemu, wrazie przelewu jednej nich hipoteka przechodzi na nabywc´ proporcjonalnie do wysokoÊci tej wierzytelnoÊci wstosunku do sumy wierzytelnoÊci zabezpieczonych tà hipotekà, chyba ˝e strony postanowi∏y inaczej.
-2. Je˝eli wierzytelnoÊç hipoteczna zostanie przeniesiona bez hipoteki, zbywca powinien zawiadomiç tym w∏aÊciciela nieruchomoÊci nieb´dàcego d∏u˝nikiem osobistym.
-Art. 79 2 Je˝eli zokreÊlonego we wpisie stosunku prawnego, którego wynika zabezpieczona hipotekà wierzytelnoÊç, mo˝e powstaç nowa wierzytelnoÊç, strony mogà postanowiç, ˝e przelew wierzytelnoÊci hipotecznej nie powoduje przejÊcia hipoteki na nabywc´.”;
-17) uchyla si´ art.80—82;
-18) art.83 otrzymuje brzmienie: „Art. 83. Przepisów oddzia∏u niniejszego nie stosuje si´ do przelewu roszczeƒ Êwiadczenia uboczne.”;
-19) po art.83 dodaje si´ art.83 wbrzmieniu: „Art. 83 W razie przeniesienia zabezpieczonej wierzytelnoÊci wynikajàcej zdokumentu kolejne wierzytelnoÊci podlegajàce zabezpieczeniu. Przepis art. 99 ust. 1 stosuje si´ odpowiednio.”;
-22) po art.94 dodaje si´ art.94 wbrzmieniu: „Art. 94 Hipoteka zabezpieczajàca kilka wierzytelnoÊci wygasa chwilà wygaÊni´cia ostatniej wierzytelnoÊci, je˝eli nie mo˝e ju˝ powstaç ˝adna wierzytelnoÊç ze stosunków prawnych stanowiàcych êród∏o pierwotnie zabezpieczonych wierzytelnoÊci.”;
-23) uchyla si´ art.96;
-24) po art.99 dodaje si´ art.99 wbrzmieniu: „Art. 99 1. Je˝eli od dnia wpisu hipoteki up∏yn´∏o dziesi´ç lat, a nie powsta∏a wierzytelnoÊç hipoteczna, lecz nadal mo˝e powstaç, w∏aÊciciel nieruchomoÊci mo˝e ˝àdaç zniesienia hipoteki za odpowiednim wynagrodzeniem.
-2. Przepis ust. 1 stosuje si´ do hipoteki zabezpieczajàcej kilka wierzytelnoÊci tak˝e wtedy, gdy pomimo up∏ywu dziesi´ciu lat od wygaÊni´cia ostatniej wierzytelnoÊci hipotecznej nie powsta∏a ˝adna wierzytelnoÊç podlegajàca zabezpieczeniu tà hipotekà.”;
-25) po art.101 dodaje si´ oddzia∏ 5 wbrzmieniu: „Oddzia∏ 5 Rozporzàdzanie opró˝nionym miejscem hipotecznym
-Art. 101 1 1. W razie wygaÊni´cia hipoteki w∏aÊcicielowi nieruchomoÊci przys∏uguje wgranicach wygas∏ej hipoteki uprawnienie do rozporzàdzania opró˝nionym miejscem hipotecznym. Mo˝e on ustanowiç na tym miejscu nowà hipotek´ albo przenieÊç na nie za zgodà uprawnionego któràkolwiek hipotek obcià˝ajàcych nieruchomoÊç.
-2. Je˝eli hipoteka wygas∏a tylko cz´Êciowo, w∏aÊciciel mo˝e rozporzàdzaç opró˝nionym miejscem hipotecznym wtej cz´Êci.
-Art. 101 2 Przepisy art. 101 stosuje si´ równie˝, gdy opró˝ni∏o si´ miejsce wskutek przeniesienia jednej hipotek na miejsce opró˝nione przez innà hipotek´.
-czeÊnie wykreÊleniem hipoteki uprawnienie to zostanie wpisane do ksi´gi wieczystej.
-2. Do wykreÊlenia wygas∏ej hipoteki do wpisu uprawnienia do rozporzàdzania opró˝nionym miejscem hipotecznym potrzebne jest oÊwiadczenie w∏aÊciciela nieruchomoÊci.
-Art. 101 5 Uprawnienie do rozporzàdzania opró˝nionym miejscem hipotecznym przys∏uguje ka˝doczesnemu w∏aÊcicielowi nieruchomoÊci.
-Art. 101 6 Uprawnienie do rozporzàdzania opró˝nionym miejscem hipotecznym nie podlega zaj´ciu. Ustanowienie hipoteki przymusowej na opró˝nionym miejscu nie jest dopuszczalne.
-Art. 101 7 Je˝eli nieruchomoÊç stanowiàca przedmiot hipoteki ∏àcznej zostanie zwolniona spod obcià˝enia, w∏aÊciciel nieruchomoÊci mo˝e rozporzàdzaç opró˝nionym miejscem hipotecznym do wysokoÊci sumy hipoteki.
-Art. 101 8 Niedopuszczalne jest zastrze˝enie, przez które w∏aÊciciel nieruchomoÊci zobowiàzuje si´ do nierozporzàdzania opró˝nionym miejscem hipotecznym.
-Art. 101 9 Roszczenie wierzyciela hipotecznego oprzeniesienie jego hipoteki na miejsce opró˝nione przez innà hipotek´ mo˝e byç ujawnione ksi´dze wieczystej.
-W takim przypadku hipoteka uzyskuje przyrzeczone miejsce, zchwilà gdy sta∏o si´ wolne.
-Art. 101 10 Hipotece ustanowionej na opró˝nionym miejscu hipotecznym lub przeniesionej na opró˝nione miejsce hipoteczne przys∏uguje pierwszeƒstwo takie samo jak wygas∏ej hipotece.
-Art. 101 11 Przepisów niniejszego oddzia∏u nie stosuje si´ do hipoteki na wierzytelnoÊci hipotecznej.”;
-26) wdziale IIuchyla si´ rozdzia∏ 2 „Hipoteka kaucyjna”;
-27) art.108 otrzymuje brzmienie: „Art. 108 1. Do ustanowienia hipoteki na wierzytelnoÊci hipotecznej nie jest wymagane udowodnienie istnienia obcià˝onej wierzytelnoÊci.
-udzieleniu zabezpieczenia, postanowienia prokuratora, na mocy przepisów szczególnych na podstawie decyzji administracyjnej, chocia˝by decyzja nie by∏a ostateczna, albo zarzàdzenia zabezpieczenia dokonanego na podstawie przepisów post´powaniu egzekucyjnym wadministracji.”;
-29) po art.110 dodaje si´ art.110 wbrzmieniu: „Art. 110 Wierzyciel mo˝e ˝àdaç wpisu hipoteki przymusowej na sum´ nie wy˝szà ni˝ wynikajàca treÊci dokumentu stanowiàcego podstaw´ jej wpisu do ksi´gi wieczystej. Je˝eli zdokumentu tego nie wynika wysokoÊç sumy hipoteki, suma hipoteki nie mo˝e przewy˝szaç wi´cej ni˝ po∏ow´ zabezpieczonej wierzytelnoÊci wraz roszczeniami Êwiadczenia uboczne okreÊlonymi dokumencie stanowiàcym podstaw´ wpisu hipoteki na dzieƒ z∏o˝enia wniosku wpis hipoteki.”;
-30) uchyla si´ art.111 iart.112;
-31) uchyla si´ art.120.
+a) ust.1 otrzymuje brzmienie: Ń1. W razie podziału nieruchomości hipoteka obciążająca nieruchomość obciąża wszystkie nieruchomości utworzone przez podział (hipoteka łączna). Hipoteka na części ułamkowej nieruchomości obciąża wtym samym zakresie części ułamkowe wszystkich nieruwień umowy.”;
+13) art.77 otrzymuje brzmienie: ŃArt. 77. Przedawnienie wierzytelności zabezpieczonej hipoteką nie narusza uprawnienia wierzyciela hipotecznego do uzyskania zaspokojenia nieruchomości obciążonej. Przepisu tego nie stosuje się do roszczeń oświadczenia uboczne.”;
+14) dziale II rozdziale 1 tytuł oddziału 2 otrzymuje brzmienie: ŃPrzeniesienie wierzytelności hipotecznej”;
+15) wart.79 ust.1 otrzymuje brzmienie: Ń1. W razie przelewu wierzytelności hipotecznej na nabywcę przechodzi także hipoteka, chyba że ustawa stanowi inaczej. Do przelewu wierzytelności hipotecznej niezbędny jest wpis wksiędze wieczystej.”;
+16) po art.79 dodaje się art.79 iart.79 wbrzmieniu: ŃArt. 79 1. Jeżeli hipoteka zabezpiecza kilka wierzytelności przysługujących wierzycielowi hipotecznemu, wrazie przelewu jednej nich hipoteka przechodzi na nabywcę proporcjonalnie do wysokości tej wierzytelności wstosunku do sumy wierzytelności zabezpieczonych tą hipoteką, chyba że strony postanowiły inaczej.
+2. Jeżeli wierzytelność hipoteczna zostanie przeniesiona bez hipoteki, zbywca powinien zawiadomić tym właściciela nieruchomości niebędącego dłużnikiem osobistym.
+Art. 79 2 Jeżeli zokreślonego we wpisie stosunku prawnego, którego wynika zabezpieczona hipoteką wierzytelność, może powstać nowa wierzytelność, strony mogą postanowić, że przelew wierzytelności hipotecznej nie powoduje przejścia hipoteki na nabywcę.”;
+17) uchyla się art.80—82;
+18) art.83 otrzymuje brzmienie: ŃArt. 83. Przepisów oddziału niniejszego nie stosuje się do przelewu roszczeń świadczenia uboczne.”;
+19) po art.83 dodaje się art.83 wbrzmieniu: ŃArt. 83 W razie przeniesienia zabezpieczonej wierzytelności wynikającej zdokumentu kolejne wierzytelności podlegające zabezpieczeniu. Przepis art. 99 ust. 1 stosuje się odpowiednio.”;
+22) po art.94 dodaje się art.94 wbrzmieniu: ŃArt. 94 Hipoteka zabezpieczająca kilka wierzytelności wygasa chwilą wygaśnięcia ostatniej wierzytelności, jeżeli nie może już powstać żadna wierzytelność ze stosunków prawnych stanowiących êródło pierwotnie zabezpieczonych wierzytelności.”;
+23) uchyla się art.96;
+24) po art.99 dodaje się art.99 wbrzmieniu: ŃArt. 99 1. Jeżeli od dnia wpisu hipoteki upłynęło dziesięć lat, a nie powstała wierzytelność hipoteczna, lecz nadal może powstać, właściciel nieruchomości może żądać zniesienia hipoteki za odpowiednim wynagrodzeniem.
+2. Przepis ust. 1 stosuje się do hipoteki zabezpieczającej kilka wierzytelności także wtedy, gdy pomimo upływu dziesięciu lat od wygaśnięcia ostatniej wierzytelności hipotecznej nie powstała żadna wierzytelność podlegająca zabezpieczeniu tą hipoteką.”;
+25) po art.101 dodaje się oddział 5 wbrzmieniu: ŃOddział 5 Rozporządzanie opróżnionym miejscem hipotecznym
+Art. 101 1 1. W razie wygaśnięcia hipoteki właścicielowi nieruchomości przysługuje wgranicach wygasłej hipoteki uprawnienie do rozporządzania opróżnionym miejscem hipotecznym. Może on ustanowić na tym miejscu nową hipotekę albo przenieść na nie za zgodą uprawnionego którąkolwiek hipotek obciążających nieruchomość.
+2. Jeżeli hipoteka wygasła tylko częściowo, właściciel może rozporządzać opróżnionym miejscem hipotecznym wtej części.
+Art. 101 2 Przepisy art. 101 stosuje się również, gdy opróżniło się miejsce wskutek przeniesienia jednej hipotek na miejsce opróżnione przez inną hipotekę.
+cześnie wykreśleniem hipoteki uprawnienie to zostanie wpisane do księgi wieczystej.
+2. Do wykreślenia wygasłej hipoteki do wpisu uprawnienia do rozporządzania opróżnionym miejscem hipotecznym potrzebne jest oświadczenie właściciela nieruchomości.
+Art. 101 5 Uprawnienie do rozporządzania opróżnionym miejscem hipotecznym przysługuje każdoczesnemu właścicielowi nieruchomości.
+Art. 101 6 Uprawnienie do rozporządzania opróżnionym miejscem hipotecznym nie podlega zajęciu. Ustanowienie hipoteki przymusowej na opróżnionym miejscu nie jest dopuszczalne.
+Art. 101 7 Jeżeli nieruchomość stanowiąca przedmiot hipoteki łącznej zostanie zwolniona spod obciążenia, właściciel nieruchomości może rozporządzać opróżnionym miejscem hipotecznym do wysokości sumy hipoteki.
+Art. 101 8 Niedopuszczalne jest zastrzeżenie, przez które właściciel nieruchomości zobowiązuje się do nierozporządzania opróżnionym miejscem hipotecznym.
+Art. 101 9 Roszczenie wierzyciela hipotecznego oprzeniesienie jego hipoteki na miejsce opróżnione przez inną hipotekę może być ujawnione księdze wieczystej.
+W takim przypadku hipoteka uzyskuje przyrzeczone miejsce, zchwilą gdy stało się wolne.
+Art. 101 10 Hipotece ustanowionej na opróżnionym miejscu hipotecznym lub przeniesionej na opróżnione miejsce hipoteczne przysługuje pierwszeństwo takie samo jak wygasłej hipotece.
+Art. 101 11 Przepisów niniejszego oddziału nie stosuje się do hipoteki na wierzytelności hipotecznej.”;
+26) wdziale IIuchyla się rozdział 2 ŃHipoteka kaucyjna”;
+27) art.108 otrzymuje brzmienie: ŃArt. 108 1. Do ustanowienia hipoteki na wierzytelności hipotecznej nie jest wymagane udowodnienie istnienia obciążonej wierzytelności.
+udzieleniu zabezpieczenia, postanowienia prokuratora, na mocy przepisów szczególnych na podstawie decyzji administracyjnej, chociażby decyzja nie była ostateczna, albo zarządzenia zabezpieczenia dokonanego na podstawie przepisów postępowaniu egzekucyjnym wadministracji.”;
+29) po art.110 dodaje się art.110 wbrzmieniu: ŃArt. 110 Wierzyciel może żądać wpisu hipoteki przymusowej na sumę nie wyższą niż wynikająca treści dokumentu stanowiącego podstawę jej wpisu do księgi wieczystej. Jeżeli zdokumentu tego nie wynika wysokość sumy hipoteki, suma hipoteki nie może przewyższać więcej niż połowę zabezpieczonej wierzytelności wraz roszczeniami świadczenia uboczne określonymi dokumencie stanowiącym podstawę wpisu hipoteki na dzień złożenia wniosku wpis hipoteki.”;
+30) uchyla się art.111 iart.112;
+31) uchyla się art.120.
 
-**Art. 2.** Wustawie zdnia 23 kwietnia 1964r. Kodeks cywilny (Dz. U. 16, 93, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 2.** Wustawie zdnia 23 kwietnia 1964r. Kodeks cywilny (Dz. U. 16, 93, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 3.** W ustawie dnia 17 listopada 1964 Kodeks post´powania cywilnego (Dz. U. 43, 296, póên. zm. pkt4 i5 otrzymujà brzmienie: „4) nale˝noÊci zabezpieczone hipotekà morskà lub przywilejem na statku morskim,
+**Art. 3.** W ustawie dnia 17 listopada 1964 Kodeks postępowania cywilnego (Dz. U. 43, 296, póên. zm. pkt4 i5 otrzymują brzmienie: Ń4) należności zabezpieczone hipoteką morską lub przywilejem na statku morskim,
 
-**Art. 4.** W ustawie dnia 17 czerwca 1966 post´powaniu egzekucyjnym administracji (Dz. U. 2005 229, 1954, póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 4.** W ustawie dnia 17 czerwca 1966 postępowaniu egzekucyjnym administracji (Dz. U. 2005 229, 1954, póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 6.** Wustawie zdnia 29 sierpnia 1997r. Prawo bankowe (Dz. U. 2002 72, 665, póên. zm. ) wart.95 wprowadza si´ nast´pujàce zmiany:
+**Art. 6.** Wustawie zdnia 29 sierpnia 1997r. Prawo bankowe (Dz. U. 2002 72, 665, póên. zm. ) wart.95 wprowadza się następujące zmiany:
 
-**Art. 7.** W ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz.U. z2005r. Nr8, poz.60, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 7.** W ustawie dnia 29 sierpnia 1997 Ordynacja podatkowa (Dz.U. z2005r. Nr8, poz.60, zpóên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 8.** W ustawie dnia 13 paêdziernika 1998 systemie ubezpieczeƒ spo∏ecznych (Dz. U. 2007 Nr11, poz.74, zpóên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 8.** W ustawie dnia 13 paêdziernika 1998 systemie ubezpieczeń społecznych (Dz. U. 2007 Nr11, poz.74, zpóên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 10.**
 
-1. Do hipotek kaucyjnych powsta∏ych przed dniem wejÊcia ˝ycie niniejszej ustawy, zastrze˝eniem ust.2, stosuje si´ przepisy ustawy, októrej mowa art. 1, brzmieniu nadanym niniejszà ustawà, wyjàtkiem przepisów rozporzàdzaniu opró˝nionym miejscem hipotecznym.
+1. Do hipotek kaucyjnych powstałych przed dniem wejścia życie niniejszej ustawy, zastrzeżeniem ust.2, stosuje się przepisy ustawy, októrej mowa art. 1, brzmieniu nadanym niniejszą ustawą, wyjątkiem przepisów rozporządzaniu opróżnionym miejscem hipotecznym.
 
-2. Do hipotek zwyk∏ych powsta∏ych przed dniem wejÊcia w˝ycie niniejszej ustawy stosuje si´ przepisy ustawy, której mowa art. 1, dotychczasowym brzmieniu, zwyjàtkiem art.76 ust.1 i4 tej ustawy, które stosuje si´ wbrzmieniu nadanym niniejszà ustawà. To samo dotyczy hipotek kaucyjnych zabezpieczajàcych roszczenia zwiàzane wierzytelnoÊcià hipotecznà, lecz nieobj´tych mocy ustawy hipotekà zwyk∏à, powsta∏ych przed dniem wejÊcia ˝ycie niniejszej ustawy. ———————
+2. Do hipotek zwykłych powstałych przed dniem wejścia wżycie niniejszej ustawy stosuje się przepisy ustawy, której mowa art. 1, dotychczasowym brzmieniu, zwyjątkiem art.76 ust.1 i4 tej ustawy, które stosuje się wbrzmieniu nadanym niniejszą ustawą. To samo dotyczy hipotek kaucyjnych zabezpieczających roszczenia związane wierzytelnością hipoteczną, lecz nieobjętych mocy ustawy hipoteką zwykłą, powstałych przed dniem wejścia życie niniejszej ustawy. ———————
 
-**Art. 11.** Je˝eli dniu wejÊcia ˝ycie niniejszej ustawy istnia∏a hipoteka zabezpieczajàca wierzytelnoÊç przysz∏à iwierzytelnoÊç ta nie powsta∏a wciàgu 5 lat od dnia wejÊcia ˝ycie niniejszej ustawy, lecz nadal mo˝e powstaç, w∏aÊciciel nieruchomoÊci mo˝e ˝àdaç zniesienia tej hipoteki za odpowiednim wynagrodzeniem. ——————— zastawem, zastawem rejestrowym albo zastawem skarbowym stosuje si´ przepisy dotychczasowe. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 11.** Jeżeli dniu wejścia życie niniejszej ustawy istniała hipoteka zabezpieczająca wierzytelność przyszłą iwierzytelność ta nie powstała wciągu 5 lat od dnia wejścia życie niniejszej ustawy, lecz nadal może powstać, właściciel nieruchomości może żądać zniesienia tej hipoteki za odpowiednim wynagrodzeniem. ——————— zastawem, zastawem rejestrowym albo zastawem skarbowym stosuje się przepisy dotychczasowe. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 

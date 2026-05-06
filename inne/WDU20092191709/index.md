@@ -24,17 +24,17 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20092191709) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/1709/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2002 r. Nr 9, poz. 87, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 29 maja 1974 r. o zaopatrzeniu inwalidów wojennych i wojskowych oraz ich rodzin (Dz. U. z 2002 r. Nr 9, poz. 87, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 31 maja 1996 r. o Êwiadczeniu pieni´˝nym przys∏ugujàcym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzesz´ i Zwiàzek Socjalistycznych Republik Radzieckich (Dz. U. Nr 87, poz. 395, z póên. zm.
+**Art. 2.** W ustawie z dnia 31 maja 1996 r. o świadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym w obozach pracy przez III Rzeszę i Związek Socjalistycznych Republik Radzieckich (Dz. U. Nr 87, poz. 395, z póên. zm.
 
-**Art. 3.** Do post´powaƒ wszcz´tych i niezakoƒczo) wprowadza si´ nast´pujàce zmiany: nych przed dniem wejÊcia w ˝ycie niniejszej ustawy stosuje si´ przepisy ustaw, o których mowa w art. 1 i2, wbrzmieniu nadanym niniejszà ustawà.
+**Art. 3.** Do postępowań wszczętych i niezakończo) wprowadza się następujące zmiany: nych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustaw, o których mowa w art. 1 i2, wbrzmieniu nadanym niniejszą ustawą.
 
 **Art. 4.**
 
-1. Osoby, którym, przed dniem wejÊcia w ˝ycie niniejszej ustawy, odmówiono prawa do Êwiadczeƒ lub wyp∏aty Êwiadczeƒ przys∏ugujàcych na podstawie przepisów ustaw, októrych mowa wart. 1 i 2, z powodu braku miejsca pobytu lub sta∏ego miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, mogà, w terminie 36 miesi´cy od dnia wejÊcia w ˝ycie niniejszej ustawy, z∏o˝yç wniosek o wznowienie post´powania.
+1. Osoby, którym, przed dniem wejścia w życie niniejszej ustawy, odmówiono prawa do świadczeń lub wypłaty świadczeń przysługujących na podstawie przepisów ustaw, októrych mowa wart. 1 i 2, z powodu braku miejsca pobytu lub stałego miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, mogą, w terminie 36 miesięcy od dnia wejścia w życie niniejszej ustawy, złożyć wniosek o wznowienie postępowania.
 
-2. Wprzypadku ustalenia prawa do Êwiadczeƒ lub wyp∏aty Êwiadczeƒ na skutek wniosku, o którym mowa w ust. 1, wyp∏ata nast´puje od miesiàca z∏o˝enia wniosku o ustalenie prawa do Êwiadczeƒ lub od miesiàca wstrzymania wyp∏aty tych Êwiadczeƒ, nie wczeÊniej jednak ni˝ od dnia 1 maja 2004 r.
+2. Wprzypadku ustalenia prawa do świadczeń lub wypłaty świadczeń na skutek wniosku, o którym mowa w ust. 1, wypłata następuje od miesiąca złożenia wniosku o ustalenie prawa do świadczeń lub od miesiąca wstrzymania wypłaty tych świadczeń, nie wcześniej jednak niż od dnia 1 maja 2004 r.
 
-**Art. 5.** Ustawa wchodzi w˝ycie zdniem 1 stycznia 2010 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 1709 USTAWA zdnia 2 grudnia 2009 r. ozmianie ustawy ozaopatrzeniu inwalidów wojennych iwojskowych oraz ich rodzin oraz ustawy oÊwiadczeniu pieni´˝nym przys∏ugujàcym osobom deportowanym do pracy przymusowej oraz osadzonym wobozach pracy przez III Rzesz´ iZwiàzek Socjalistycznych Republik Radzieckich
+**Art. 5.** Ustawa wchodzi wżycie zdniem 1 stycznia 2010 r. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 1709 USTAWA zdnia 2 grudnia 2009 r. ozmianie ustawy ozaopatrzeniu inwalidów wojennych iwojskowych oraz ich rodzin oraz ustawy oświadczeniu pieniężnym przysługującym osobom deportowanym do pracy przymusowej oraz osadzonym wobozach pracy przez III Rzeszę iZwiązek Socjalistycznych Republik Radzieckich
 

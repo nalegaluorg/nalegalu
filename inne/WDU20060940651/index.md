@@ -24,125 +24,127 @@ domain: null
 | Ostatnia zmiana | 2026-01-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20060940651) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2006/651/text.pdf) |
 
-**Art. 1.** Papieski Wydzia∏ Teologiczny we Wroc∏awiu Art. 2.Ustawa wchodzi w˝ycie zdniem 1 paêdzierotrzymuje dotacje Êrodki bud˝etu paƒstwa na nika 2006 zasadach okreÊlonych dla uczelni publicznych, wyjàtkiem finansowania kosztów realizacji inwestycji budowlanych. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 650 USTAWA dnia 5 2006 finansowaniu Wy˝szej Szko∏y Filozoficzno-Pedagogicznej „Ignatianum” Krakowie bud˝etu paƒstwa
+**Art. 1.** Papieski Wydział Teologiczny we Wrocławiu Art. 2.Ustawa wchodzi wżycie zdniem paêdzierotrzymuje dotacje środki budżetu państwa na nika 2006 zasadach określonych dla uczelni publicznych, wyjątkiem finansowania kosztów realizacji inwestycji budowlanych. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 650 USTAWA dnia 5 2006 finansowaniu Wyższej Szkoły Filozoficzno-Pedagogicznej ŃIgnatianum” Krakowie budżetu państwa
 
-**Art. 1.** Wy˝sza Szko∏a Filozoficzno-Pedagogiczna Art. 2.Ustawa wchodzi w˝ycie zdniem 1 paêdzier„Ignatianum” Krakowie otrzymuje dotacje nika 2006 Êrodki bud˝etu paƒstwa na zasadach okreÊlonych dla uczelni publicznych, wyjàtkiem finansowania kosztów realizacji inwestycji budowlanych. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski USTAWA dnia 27 2006 spó∏dzielniach socjalnych
+**Art. 1.** Wyższa Szkoła Filozoficzno-Pedagogiczna Art. 2.Ustawa wchodzi wżycie zdniem paêdzierŃIgnatianum” Krakowie otrzymuje dotacje nika 2006 środki budżetu państwa na zasadach określonych dla uczelni publicznych, wyjątkiem finansowania kosztów realizacji inwestycji budowlanych. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński USTAWA dnia 27 2006 spółdzielniach socjalnych
 
 **Art. 1.**
 
-1. Ustawa okreÊla zasady zak∏adania, pro- cze (Dz. U. 188, poz. 1848, 99, wadzenia dzia∏alnoÊci, ∏àczenia oraz likwidacji spó∏- poz. 1001 oraz 2005 122, poz. 1024). dzielni socjalnej.
+1. Ustawa określa zasady zakładania, pro- cze (Dz. 188, poz. 1848, 99, wadzenia działalności, łączenia oraz likwidacji spół- poz. 1001 oraz 2005 122, poz. 1024). dzielni socjalnej.
 
 **Art. 2.**
 
-1. Przedmiotem dzia∏alnoÊci so2. W sprawach nieuregulowanych niniejszej cjalnej jest prowadzenie wspólnego przedsi´biorstwa ustawie do socjalnej stosuje si´ przepisy oparciu osobistà prac´ cz∏onków. ustawy dnia 16 wrzeÊnia 1982 Prawo spó∏dziel2. Spó∏dzielnia socjalna dzia∏a na rzecz:
+1. Przedmiotem działalności so2. W sprawach nieuregulowanych niniejszej cjalnej jest prowadzenie wspólnego przedsiębiorstwa ustawie do socjalnej stosuje się przepisy oparciu osobistą pracę członków. ustawy dnia 16 września 1982 Prawo spółdziel2. Spółdzielnia socjalna działa na rzecz:
 
-- **1)** spo∏ecznej reintegracji jej cz∏onków, przez co nale˝y rozumieç dzia∏ania majàce na celu odbudodzia∏alnoÊç spo∏ecznie u˝ytecznà sferze zadaƒ publicznych okreÊlonych ustawie dnia 24 odzia∏alnoÊci po˝ytku publicznego iowolontariacie (Dz. U. 96, poz. 873, póên. zm. ).
+- **1)** społecznej reintegracji jej członków, przez co należy rozumieć działania mające na celu odbudodziałalność społecznie użyteczną sferze zadań publicznych określonych ustawie dnia 24 odziałalności pożytku publicznego iowolontariacie (Dz. 96, poz. 873, póên. zm. ).
 
-**Art. 3.** Nazwa zawiera oznaczenie „Spó∏dzielnia Socjalna”.
+**Art. 3.** Nazwa zawiera oznaczenie ŃSpółdzielnia Socjalna”.
 
-**Art. 4.** Spó∏dzielni´ socjalnà mogà za∏o˝yç:
+**Art. 4.** Spółdzielnię socjalną mogą założyć:
 
 **Art. 5.**
 
-1. Liczba za∏o˝ycieli socjalnej mo˝e byç mniejsza ni˝ pi´ç.
+1. Liczba założycieli socjalnej może mniejsza niż pięć.
 
-2. Spó∏dzielnia socjalna liczy mniej ni˝ pi´ciu wi´cej ni˝ pi´çdziesi´ciu cz∏onków, zastrze˝eniem ust. 3.
+2. Spółdzielnia socjalna liczy mniej niż pięciu więcej niż pięćdziesięciu członków, zastrzeżeniem 3.
 
-7. Oile statut stanowi inaczej, cz∏onkostwo socjalnej mogà nabyç organizacje pozarzàdowe rozumieniu przepisów dzia∏alnoÊci po˝ytku publicznego iowolontariacie oraz gminne osoby prawne, których statutowym zadaniem jest dzia∏anie na rzecz reintegracji spo∏ecznej zawodowej mieszkaƒców gminy. W takim przypadku art. 182 § 1 ustawy dnia 16 wrzeÊnia 1982 Prawo spó∏dzielcze stosuje si´.
+7. Oile statut stanowi inaczej, członkostwo socjalnej mogą nabyć organizacje pozarządowe rozumieniu przepisów działalności pożytku publicznego iowolontariacie oraz gminne osoby prawne, których statutowym zadaniem jest działanie na rzecz reintegracji społecznej zawodowej mieszkańców gminy. W takim przypadku art. 182 § ustawy dnia 16 września 1982 Prawo spółdzielcze stosuje się.
 
 **Art. 6.**
 
-1. Do wniosku wpis socjalnej do Krajowego Rejestru Sàdowego do∏àcza si´:
+1. Do wniosku wpis socjalnej do Krajowego Rejestru Sądowego dołącza się:
 
-- **1)** zaÊwiadczenie powiatowego urz´du pracy potwierdzajàce posiadanie statusu osoby bezrobotnej;
-- **2)** zaÊwiadczenie potwierdzajàce spe∏nienie przez osoby zamierzajàce za∏o˝yç spó∏dzielni´ socjalnà warunków, których mowa art. 4 2, lub
-- **3)** orzeczenie stopniu niepe∏nosprawnoÊci osoby zamierzajàcej za∏o˝yç spó∏dzielni´ socjalnà.
+- **1)** zaświadczenie powiatowego urzędu pracy potwierdzające posiadanie statusu osoby bezrobotnej;
+- **2)** zaświadczenie potwierdzające spełnienie przez osoby zamierzające założyć spółdzielnię socjalną warunków, których mowa art. 4 pkt 2, lub
+- **3)** orzeczenie stopniu niepełnosprawności osoby zamierzającej założyć spółdzielnię socjalną.
 
-2. Minister w∏aÊciwy do spraw zabezpieczenia spo∏ecznego okreÊli, drodze rozporzàdzenia, wzory zaÊwiadczeƒ, których mowa ust. 1 2, majàc na wzgl´dzie ich ujednolicenie oraz przydatnoÊç dla post´powania przed sàdem rejestrowym.
+2. Minister właściwy do spraw zabezpieczenia społecznego określi, drodze rozporządzenia, wzory zaświadczeń, których mowa pkt 2, mając na względzie ich ujednolicenie oraz przydatność dla postępowania przed sądem rejestrowym.
 
-3. Spó∏dzielnia socjalna uiszcza op∏aty sàdowej od wniosku wpis tej do Krajowego Rejestru Sàdowego oraz uiszcza op∏aty za og∏oszenie tego wpisu Monitorze Sàdowym Gospodarczym.
+3. Spółdzielnia socjalna uiszcza opłaty sądowej od wniosku wpis tej do Krajowego Rejestru Sądowego oraz uiszcza opłaty za ogłoszenie tego wpisu Monitorze Sądowym Gospodarczym.
 
 **Art. 7.**
 
-1. W socjalnej wybiera si´ rad´ odpowiednio przepisy ustawy dnia 24 2003r. odzia∏alnoÊci po˝ytku publicznego iowolontariacie.
+1. W socjalnej wybiera się radę odpowiednio przepisy ustawy dnia 24 2003r. odziałalności pożytku publicznego iowolontariacie.
 
-**Art. 9.** Prowadzenie przez spó∏dzielnie socjalne statutowej dzia∏alnoÊci odp∏atnej wymaga rachunkowego wyodr´bnienia tych form dzia∏alnoÊci wstopniu umo˝liwiajàcym okreÊlenie przychodów, kosztów wyników, uwzgl´dnieniem przepisów rachunkowoÊci.
+**Art. 9.** Prowadzenie przez spółdzielnie socjalne statutowej działalności odpłatnej wymaga rachunkowego wyodrębnienia tych form działalności wstopniu umożliwiającym określenie przychodów, kosztów wyników, uwzględnieniem przepisów rachunkowości.
 
 **Art. 10.**
 
-1. Nadwy˝ka bilansowa podlega podzia∏owi na podstawie uchwa∏y walnego zgromadzenia ijest przeznaczana na:
+1. Nadwyżka bilansowa podlega podziałowi na podstawie uchwały walnego zgromadzenia ijest przeznaczana na:
 
-- **1)** zwi´kszenie funduszu zasobowego mniej ni˝ 40 %;
-- **2)** cele, októrych mowa wart. 2 ust. 2 i3 mniej ni˝ 40 %;
+- **1)** zwiększenie funduszu zasobowego mniej niż 40 %;
+- **2)** cele, októrych mowa wart. 2 2 i3 mniej niż 40 %;
 - **3)** fundusz inwestycyjny.
 
-2. Nadwy˝ka bilansowa mo˝e podlegaç podzia∏owi pomi´dzy cz∏onków socjalnej, wszczególnoÊci mo˝e byç przeznaczona na zwi´kszenie funduszu udzia∏owego, jak równie˝ mo˝e byç przeznaczona na oprocentowanie udzia∏ów.
+2. Nadwyżka bilansowa może podlegać podziałowi pomiędzy członków socjalnej, wszczególności może przeznaczona na zwiększenie funduszu udziałowego, jak również może przeznaczona na oprocentowanie udziałów.
 
-**Art. 11.** Spó∏dzielnia socjalna mo˝e tworzyç fundusze w∏asne przewidziane przepisach ustawy dnia 16 wrzeÊnia 1982 Prawo spó∏dzielcze lub statucie.
+**Art. 11.** Spółdzielnia socjalna może tworzyć fundusze własne przewidziane przepisach ustawy dnia 16 września 1982 Prawo spółdzielcze lub statucie.
 
 **Art. 12.**
 
-1. Stosunek pracy mi´dzy spó∏dzielnià socjalnà a jej cz∏onkiem nawiàzuje si´ na podstawie spó∏dzielczej umowy prac´.
+1. Stosunek pracy między spółdzielnią socjalną a jej członkiem nawiązuje się na podstawie spółdzielczej umowy pracę.
 
-2. Prawo do wynagrodzenia przys∏ugujàce cz∏onkowi socjalnej obejmuje prawa do udzia∏u nadwy˝ce bilansowej.
+2. Prawo do wynagrodzenia przysługujące członkowi socjalnej obejmuje prawa do udziału nadwyżce bilansowej.
 
-3. Przepisy art. 17 ustawy 13 czerwca ozatrudnieniu socjalnym stosuje si´ równie˝ do osób, których mowa art. 4 art. 5 ust. 4, wyjàtkiem osób, które naby∏y cz∏onkostwo socjalnej trybie art. 29.
+3. Przepisy art. 17 ustawy 13 czerwca ozatrudnieniu socjalnym stosuje się również do osób, których mowa art. 4 art. 5 4, wyjątkiem osób, które nabyły członkostwo socjalnej trybie art. 29.
 
 **Art. 13.**
 
-1. Osoby skazane na kar´ ograniczenia wolnoÊci mogà wykonywaç prac´ socjalnej zgodnie przepisami ustawy dnia 6 czerwca publicznego wolontariacie.
+1. Osoby skazane na karę ograniczenia wolności mogą wykonywać pracę socjalnej zgodnie przepisami ustawy dnia 6 czerwca publicznego wolontariacie.
 
 **Art. 15.**
 
-1. Wsparcie, októrym mowa wart. 6 ust.3, art. 12 ust. 3 niniejszej ustawy, jest udzielane jako pomoc de minimis zgodnie rozporzàdzeniem Komisji (WE) nr 69/2001 dnia 12 stycznia 2001 sprawie zastosowania art. 87 88 Traktatu WE odniesieniu do pomocy ramach zasady de minimis (Dz. Urz. WE L 10 13.01.2001).
+1. Wsparcie, októrym mowa wart. 6 ust.3, art. 12 3 niniejszej ustawy, jest udzielane jako pomoc de minimis zgodnie rozporządzeniem Komisji (WE) nr 69/2001 dnia 12 stycznia 2001 sprawie zastosowania art. 87 88 Traktatu WE odniesieniu do pomocy ramach zasady de minimis (Dz. Urz. WE L 10 13.01.2001).
 
-2. ZaÊwiadczenie udzieleniu wsparcia, którym mowa ust. 1, wydaje si´ na zasadach okreÊlonych ustawie dnia 30 post´powaniu sprawach dotyczàcych pomocy publicznej (Dz. U. 123, poz. 1291).
+2. Zaświadczenie udzieleniu wsparcia, którym mowa 1, wydaje się na zasadach określonych ustawie dnia 30 postępowaniu sprawach dotyczących pomocy publicznej (Dz. 123, poz. 1291).
 
-3. ZaÊwiadczenie udzieleniu wsparcia wydajà:
+3. Zaświadczenie udzieleniu wsparcia wydają:
 
-- **1)** sàd rejonowy w∏aÊciwy ze wzgl´du na miejsce dokonania wpisu do Krajowego Rejestru Sàdowego przypadku, którym mowa art. 6 ust. 3;
-- **2)** starosta wprzypadku, októrym mowa wart. 12 ust. 3.
+- **1)** sąd rejonowy właściwy ze względu na miejsce dokonania wpisu do Krajowego Rejestru Sądowego przypadku, którym mowa art. 6 3;
+- **2)** starosta wprzypadku, októrym mowa wart. 12
 
-**Art. 16.** Spó∏dzielnia socjalna mo˝e ∏àczyç si´ wy∏àcznie innà spó∏dzielnià socjalnà.
+3.
+
+**Art. 16.** Spółdzielnia socjalna może łączyć się wyłącznie inną spółdzielnią socjalną.
 
 **Art. 17.**
 
-1. Spó∏dzielnia socjalna mo˝e podzieliç si´ na podstawie uchwa∏y walnego zgromadzenia, podj´tej wi´kszoÊcià 2/3 g∏osów.
+1. Spółdzielnia socjalna może podzielić się na podstawie uchwały walnego zgromadzenia, podjętej większością 2/3 głosów.
 
-2. W wyniku podzia∏u mogà byç utworzone wy∏àcznie spó∏dzielnie socjalne.
+2. W wyniku podziału mogą utworzone wyłącznie spółdzielnie socjalne.
 
-**Art. 18.** Spó∏dzielnia socjalna przechodzi wstan likwidacji przypadkach okreÊlonych art. 113 § 1 1 3 ustawy dnia 16 wrzeÊnia 1982 Prawo spó∏dzielcze, a ponadto przypadku:
+**Art. 18.** Spółdzielnia socjalna przechodzi wstan likwidacji przypadkach określonych art. 113 § pkt 3 ustawy dnia 16 września 1982 Prawo spółdzielcze, a ponadto przypadku:
 
-**Art. 20.** Rada Ministrów przedstawi Sejmowi Rzeczypospolitej Polskiej terminie do dnia 30 czerwca 2008 sprawozdanie dzia∏ania ustawy za okres od dnia jej wejÊcia ˝ycie do dnia 31 grudnia 2007
+**Art. 20.** Rada Ministrów przedstawi Sejmowi Rzeczypospolitej Polskiej terminie do dnia 30 czerwca 2008 sprawozdanie działania ustawy za okres od dnia jej wejścia życie do dnia 31 grudnia 2007
 
-**Art. 21.** W ustawie dnia 16 wrzeÊnia 1982 Prawo spó∏dzielcze (Dz. U. 188, poz. 1848, 99, poz. 1001 oraz 2005 122, poz. 1024) wprowadza si´ nast´pujàce zmiany:
+**Art. 21.** W ustawie dnia 16 września 1982 Prawo spółdzielcze (Dz. 188, poz. 1848, 99, poz. 1001 oraz 2005 122, poz. 1024) wprowadza się następujące zmiany:
 
-**Art. 22.** Wustawie 15 lutego 1992 opodatku dochodowym od osób prawnych (Dz. U. 2000 54, poz. 654, póên. zm.
+**Art. 22.** Wustawie 15 lutego 1992 opodatku dochodowym od osób prawnych (Dz. 2000 54, poz. 654, póên. zm.
 
-**Art. 23.** W ustawie dnia 27 sierpnia 1997 rehabilitacji zawodowej spo∏ecznej oraz zatrudnianiu osób niepe∏nosprawnych (Dz. U. 123, poz. 776, zpóên. zm. ) art. 17 ust. 1 ) wart. 28 dodaje si´ ust. 1a wbrzmieniu: „1a. Spó∏dzielnia socjalna, powsta∏a wyniku przekszta∏cenia inwalidów lub niewidomych majàcej status pracodawcy prowadzàcego zak∏ad pracy chronionej, uzyskuje status pracodawcy prowadzàcego zak∏ad pracy chronionej, je˝eli wystàpi wnioskiem nadatakiego statusu wterminie 3 miesi´cy oddaty wpisu tej do Krajowego Rejestru Sàdowego.”.
+**Art. 23.** W ustawie dnia 27 sierpnia 1997 rehabilitacji zawodowej społecznej oraz zatrudnianiu osób niepełnosprawnych (Dz. 123, poz. 776, zpóên. zm. ) art. 17 ) wart. 28 dodaje się 1a wbrzmieniu: Ń1a. Spółdzielnia socjalna, powstała wyniku przekształcenia inwalidów lub niewidomych mającej status pracodawcy prowadzącego zakład pracy chronionej, uzyskuje status pracodawcy prowadzącego zakład pracy chronionej, jeżeli wystąpi wnioskiem nadatakiego statusu wterminie 3 miesięcy oddaty wpisu tej do Krajowego Rejestru Sądowego.”.
 
-**Art. 24.** Wustawie 24 odzia∏alnoÊci po˝ytku publicznego wolontariacie (Dz. U. 96, poz. 873, póên. zm. ) art. 11 ust. 3 otrzymuje brzmienie: „3. W otwartym konkursie ofert, którym mowa ust. 2, uczestniczà organizacje pozarzàdowe, podmioty wymienione wart. 3 ust. 3, spó∏dzielnie socjalne oraz jednostki organizacyjne podleg∏e organom administracji publicznej lub przez nadzorowane.”.
+**Art. 24.** Wustawie 24 odziałalności pożytku publicznego wolontariacie (Dz. 96, poz. 873, póên. zm. ) art. 11 3 otrzymuje brzmienie: Ń3. W otwartym konkursie ofert, którym mowa 2, uczestniczą organizacje pozarządowe, podmioty wymienione wart. 3 3, spółdzielnie socjalne oraz jednostki organizacyjne podległe organom administracji publicznej lub przez nadzorowane.”.
 
-**Art. 25.** W ustawie dnia 13 czerwca zatrudnieniu socjalnym (Dz. U. 122, poz. 1143, zpóên. zm. ) art. 16 ust. 1 2 otrzymuje brzmienie: „2) uczestnicy mogà podjàç wspólnà dzia∏alnoÊç gospodarczà wformie socjalnej na zasadach okreÊlonych przepisach spó∏dzielniach socjalnych.”. szu Pracy na podstawie art. 19 ustawy dnia 27 2006 spó∏dzielniach socjalnych (Dz. U. 94, poz. 651).”.
+**Art. 25.** W ustawie dnia 13 czerwca zatrudnieniu socjalnym (Dz. 122, poz. 1143, zpóên. zm. ) art. 16 pkt 2 otrzymuje brzmienie: Ń2) uczestnicy mogą podjąć wspólną działalność gospodarczą wformie socjalnej na zasadach określonych przepisach spółdzielniach socjalnych.”. szu Pracy na podstawie art. 19 ustawy dnia 27 2006 spółdzielniach socjalnych (Dz. 94, poz. 651).”.
 
 **Art. 27.**
 
-1. Spó∏dzielnie istniejàce dniu wejÊcia ˝ycie ustawy dzia∏ajàce na podstawie przepisów cz´Êci I tytu∏u II dzia∏u V ustawy dnia 16 wrzeÊnia 1982 Prawo spó∏dzielcze dokonajà zmian swoich statutów stosownie do wymagaƒ niniejszej ustawy iwtrybie przewidzianym wtej ustawie. Zg∏oszenia do rejestru tych zmian spó∏dzielnie dokonajà najpóêniej ciàgu 9 miesi´cy od dnia wejÊcia ˝ycie ustawy.
+1. Spółdzielnie istniejące dniu wejścia życie ustawy działające na podstawie przepisów części I tytułu II działu V ustawy dnia 16 września 1982 Prawo spółdzielcze dokonają zmian swoich statutów stosownie do wymagań niniejszej ustawy iwtrybie przewidzianym wtej ustawie. Zgłoszenia do rejestru tych zmian spółdzielnie dokonają najpóêniej ciągu 9 miesięcy od dnia wejścia życie ustawy.
 
-2. Do czasu zarejestrowania zmian statutów po1) przekszta∏ceniu spó∏dzielni´ socjalnà lub
+2. Do czasu zarejestrowania zmian statutów po1) przekształceniu spółdzielnię socjalną lub
 
-- **2)** wyodr´bnieniu cz´Êci przekszta∏ceniu tej cz´Êci spó∏dzielni´ socjalnà.
+- **2)** wyodrębnieniu części przekształceniu tej części spółdzielnię socjalną.
 
-2. Do przekszta∏cenia, którym mowa:
+2. Do przekształcenia, którym mowa:
 
-- **1)** ust. 1 1, stosuje si´ odpowiednio przepisy ∏àczeniu si´ spó∏dzielni;
-- **2)** ust. 1 2, stosuje si´ odpowiednio przepisy podziale spó∏dzielni.
+- **1)** pkt 1, stosuje się odpowiednio przepisy łączeniu się spółdzielni;
+- **2)** pkt 2, stosuje się odpowiednio przepisy podziale spółdzielni.
 
-3. Spó∏dzielni socjalnej powsta∏ej wyniku przekszta∏cenia, którym mowa ust. 1 1, przys∏ugustanowienia dotychczasowych statutów pozostajà jà wszystkie prawa obowiàzki, które przys∏ugiwa∏y mocy. przekszta∏canej inwalidów lub niewidomych.
+3. Spółdzielni socjalnej powstałej wyniku przekształcenia, którym mowa pkt 1, przysługustanowienia dotychczasowych statutów pozostają ją wszystkie prawa obowiązki, które przysługiwały mocy. przekształcanej inwalidów lub niewidomych.
 
-3. Spó∏dzielnie, których mowa ust. 1, uiszczajà op∏at sàdowych od wniosku wpis zmian swo- 4. Spó∏dzielni socjalnej powsta∏ej wyniku przeich statutów do Krajowego Rejestru Sàdowego oraz kszta∏cenia, którym mowa ust. 1 2, przys∏uguuiszczajà op∏aty za og∏oszenie tego wpisu wMoni- jà wszystkie sk∏adniki majàtkowe oraz prawa obotorze Sàdowym Gospodarczym. wiàzki wynikajàce planu podzia∏u inwalidów lub niewidomych, którym mowa
+3. Spółdzielnie, których mowa 1, uiszczają opłat sądowych od wniosku wpis zmian swo- 4. Spółdzielni socjalnej powstałej wyniku przeich statutów do Krajowego Rejestru Sądowego oraz kształcenia, którym mowa pkt 2, przysługuuiszczają opłaty za ogłoszenie tego wpisu wMoni- ją wszystkie składniki majątkowe oraz prawa obotorze Sądowym Gospodarczym. wiązki wynikające planu podziału inwalidów lub niewidomych, którym mowa
 
-**Art. 28.** Przepisy wykonawcze wydane na podsta- art. 111 ustawy dnia 16 wrzeÊnia 1982 Prawo wie art. 203a § 7 ustawy dnia 16 wrzeÊnia 1982 spó∏dzielcze. Prawo spó∏dzielcze zachowujà moc do dnia wejÊcia
+**Art. 28.** Przepisy wykonawcze wydane na podsta- art. 111 ustawy dnia 16 września 1982 Prawo wie art. 203a § 7 ustawy dnia 16 września 1982 spółdzielcze. Prawo spółdzielcze zachowują moc do dnia wejścia
 
-**Art. 30.** Ustawa wchodzi w˝ycie po up∏ywie 30 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski 652 ROZPORZÑDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO dnia 19 maja 2006 zmieniajàce rozporzàdzenie sprawie szczegó∏owych zasad wpisywania do wykazu obiektów stanowiàcych w∏asnoÊç Skarbu Paƒstwa lub jednostek samorzàdu terytorialnego, których prowadzona jest, jako podstawowa, dzia∏alnoÊç kulturalna lub które dla takiej dzia∏alnoÊci zosta∏y wybudowane mogà byç przeznaczone do prowadzenia wy∏àcznie innej dzia∏alnoÊci podstawowej, oraz ustalenia ich wykazu Na podstawie art. 14a ust. 2 3 ustawy dnia 25 paêdziernika 1991 organizowaniu prowadzeniu dzia∏alnoÊci kulturalnej (Dz. U. 2001 13, poz. 123, póên. zm. ) zarzàdza si´, co nast´puje:
+**Art. 30.** Ustawa wchodzi wżycie po upływie 30 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński 652 ROZPORZÑDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO dnia 19 maja 2006 zmieniające rozporządzenie sprawie szczegółowych zasad wpisywania do wykazu obiektów stanowiących własność Skarbu Państwa lub jednostek samorządu terytorialnego, których prowadzona jest, jako podstawowa, działalność kulturalna lub które dla takiej działalności zostały wybudowane mogą przeznaczone do prowadzenia wyłącznie innej działalności podstawowej, oraz ustalenia ich wykazu Na podstawie art. 14a 2 3 ustawy dnia 25 paêdziernika 1991 organizowaniu prowadzeniu działalności kulturalnej (Dz. 2001 13, poz. 123, póên. zm. ) zarządza się, co następuje:
 

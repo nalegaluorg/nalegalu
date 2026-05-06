@@ -10,7 +10,7 @@ status: obowiązujący
 domain: null
 ---
 
-# gane z∏o˝enia wniosków wydanie konce- spolitej Polskiej jednolity tekst ustawy oKrajowym Resji, zmocy prawa wygasa obowiàzek uzyskania jestrze Sàdowym.
+# gane złożenia wniosków wydanie konce- spolitej Polskiej jednolity tekst ustawy oKrajowym Resji, zmocy prawa wygasa obowiązek uzyskania jestrze Sądowym.
 
 | Pole | Wartość |
 |---|---|
@@ -26,18 +26,18 @@ domain: null
 
 koncesji.
 
-**Art. 7.** Ustawa wchodzi ˝ycie z dniem 1 stycznia 2. Je˝eli terminie 6 miesi´cy od dnia wejÊcia 2001 ˝ycie niniejszej ustawy zostanà ustawowo okreÊlone zakres warunki wykonywania dzia∏alnoÊci gospodarczej oraz wydawania ze- Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski USTAWA zdnia 30 listopada 2000 ozmianie ustawy Przepisy wprowadzajàce ustaw´ oKrajowym Rejestrze Sàdowym.
+**Art. 7.** Ustawa wchodzi życie z dniem 1 stycznia 2. Jeżeli terminie 6 miesięcy od dnia wejścia 2001 życie niniejszej ustawy zostaną ustawowo określone zakres warunki wykonywania działalności gospodarczej oraz wydawania ze- Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski USTAWA zdnia 30 listopada 2000 ozmianie ustawy Przepisy wprowadzające ustawę oKrajowym Rejestrze Sądowym.
 
-**Art. 1.** Wustawie zdnia 20 sierpnia 1997 Przepisy wprowadzajàce ustaw´ oKrajowym Rejestrze Sàdowym (Dz.U. 121, poz. 770) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** Wustawie zdnia 20 sierpnia 1997 Przepisy wprowadzające ustawę oKrajowym Rejestrze Sądowym (Dz.U. 121, poz. 770) wprowadza się następujące zmiany:
 
 **Art. 10b.**
 
-1. Wokresie od dnia 1 stycznia 2001 dnia 31 marca 2001 r., je˝eli podmiot wpisany rejestru przedsi´biorców utworzony zosta∏ wwyniku przekszta∏1195 ROZPORZÑDZENIE MINISTRA ROZWOJU REGIONALNEGO IBUDOWNICTWA zdnia 26 wrzeÊnia 2000 wsprawie kosztorysowych norm nak∏adów rzeczowych, cen jednostkowych robót budowlanych oraz cen czynników produkcji dla potrzeb sporzàdzania kosztorysu inwestorskiego. czenie podlega zg∏oszeniu na podstawie tych przepisów, wrejestrze zamieszcza si´ wzmiank´ z∏o˝eniu Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski Na podstawie art. 35 ust. 3 pkt 2 ustawy z dnia § 2. 1. Kosztorysowe normy nak∏adów rzeczowych 10czerwca 1994 ozamówieniach publicznych (Dz. U. okreÊla za∏àcznik nr 1 rozporzàdzenia. z 1998 119, poz. 773, z 1999 45, poz. 437 oraz z2000 12, poz. 136, 93, poz. 1027 110, 2. Ceny jednostkowe robót budowlanych okreÊla poz. 1167) zarzàdza si´, co nast´puje: za∏àcznik nr 2 rozporzàdzenia.
+1. Wokresie od dnia 1 stycznia 2001 dnia 31 marca 2001 r., jeżeli podmiot wpisany rejestru przedsiębiorców utworzony został wwyniku przekształ1195 ROZPORZÑDZENIE MINISTRA ROZWOJU REGIONALNEGO IBUDOWNICTWA zdnia 26 września 2000 wsprawie kosztorysowych norm nakładów rzeczowych, cen jednostkowych robót budowlanych oraz cen czynników produkcji dla potrzeb sporządzania kosztorysu inwestorskiego. czenie podlega zgłoszeniu na podstawie tych przepisów, wrejestrze zamieszcza się wzmiankę złożeniu Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski Na podstawie art. 35 ust. 3 pkt 2 ustawy z dnia § 2. 1. Kosztorysowe normy nakładów rzeczowych 10czerwca 1994 ozamówieniach publicznych (Dz. U. określa załącznik nr 1 rozporządzenia. z 1998 119, poz. 773, z 1999 45, poz. 437 oraz z2000 12, poz. 136, 93, poz. 1027 110, 2. Ceny jednostkowe robót budowlanych określa poz. 1167) zarządza się, co następuje: załącznik nr 2 rozporządzenia.
 
-§ 1. Rozporzàdzenie okreÊla: Ceny czynników produkcji okreÊla za∏àcznik nr 3 rozporzàdzenia.
+§ 1. Rozporządzenie określa: Ceny czynników produkcji określa załącznik nr 3 rozporządzenia.
 
-- **1)** kosztorysowe normy nak∏adów rzeczowych, stanowiàce podstaw´ sporzàdzania kosztorysu inwe- § Traci moc rozporzàdzenie Ministra Spraw Westorskiego metodà szczegó∏owà, okreÊlonà od- wn´trznych Administracji z dnia 26 lutego 1999 r´bnych przepisach, wsprawie okreÊlenia kosztorysowych norm nak∏adów rzeczowych, cen jednostkowych robót budowlanych
-- **2)** ceny jednostkowe robót budowlanych, stanowiàce oraz cen czynników produkcji dla potrzeb sporzàdzania podstaw´ sporzàdzania kosztorysu inwestorskiego kosztorysu inwestorskiego (Dz. U. 26, poz. 240). metodà uproszczonà, okreÊlonà wodr´bnych przepisach, § 4. Rozporzàdzenie wchodzi ˝ycie up∏ywie 30dni od dnia og∏oszenia.
-- **3)** ceny czynników produkcji, stanowiàce podstaw´ sporzàdzania kosztorysu inwestorskiego metodà Minister Rozwoju Regionalnego iBudownictwa: szczegó∏owà, okreÊlonà wodr´bnych przepisach. J. Kropiwnicki 1196 (Za∏àczniki nr 2 3 rozporzàdzenia stanowià oddzielny za∏àcznik niniejszego numeru) WYROK TRYBUNA¸U KONSTYTUCYJNEGO zdnia 18 grudnia 2000
+- **1)** kosztorysowe normy nakładów rzeczowych, stanowiące podstawę sporządzania kosztorysu inwe- § Traci moc rozporządzenie Ministra Spraw Westorskiego metodą szczegółową, określoną od- wnętrznych Administracji z dnia 26 lutego 1999 rębnych przepisach, wsprawie określenia kosztorysowych norm nakładów rzeczowych, cen jednostkowych robót budowlanych
+- **2)** ceny jednostkowe robót budowlanych, stanowiące oraz cen czynników produkcji dla potrzeb sporządzania podstawę sporządzania kosztorysu inwestorskiego kosztorysu inwestorskiego (Dz. U. 26, poz. 240). metodą uproszczoną, określoną wodrębnych przepisach, § 4. Rozporządzenie wchodzi życie upływie 30dni od dnia ogłoszenia.
+- **3)** ceny czynników produkcji, stanowiące podstawę sporządzania kosztorysu inwestorskiego metodą Minister Rozwoju Regionalnego iBudownictwa: szczegółową, określoną wodrębnych przepisach. J. Kropiwnicki 1196 (Załączniki nr 2 3 rozporządzenia stanowią oddzielny załącznik niniejszego numeru) WYROK TRYBUNAĘU KONSTYTUCYJNEGO zdnia 18 grudnia 2000
 
 

@@ -24,443 +24,457 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20032132081) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/2081/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. Kodeks pracy (Dz. U. z 1998 r. 21, poz. 94, z póên. zm. ) wprowadza się następujące zmiany:
 
 **Art. 18³b.**
 
-§ 1. Za naruszenie zasady równego traktowania w zatrudnieniu, z zastrze˝eniem § 2—4, uwa˝a si´ ró˝nicowanie przez pracodawc´ sytuacji pracownika z jednej lub kilku przyczyn okreÊlonych w art. 18 § 1, którego skutkiem jest w szczególnoÊci: § 2. Zasady równego traktowania wzatrudnieniu nie naruszajà dzia∏ania polegajàce na:
+§ 1. Za naruszenie zasady równego traktowania w zatrudnieniu, z zastrzeżeniem § 2—4, uważa się różnicowanie przez pracodawcę sytuacji pracownika z jednej lub kilku przyczyn określonych w art. 18 § 1, którego skutkiem jest w szczególności: § 2. Zasady równego traktowania wzatrudnieniu nie naruszają działania polegające na:
 
-- **1)** niezatrudnianiu pracownika zjednej lub kilku przyczyn okreÊlonych w art. 18
-- **1)** odmowa nawiàzania lub rozwiàzanie stosunku pracy,
-- **2)** niekorzystne ukszta∏towanie wynagrodzenia za prac´ lub innych warunków zatrudnienia albo pomini´cie przy awansowaniu lub przyznawaniu innych Êwiadczeƒ zwiàzanych z pracà,
-- **3)** pomini´cie przy typowaniu do udzia∏u w szkoleniach podnoszàcych kwalifikacje zawodowe chyba ˝e pracodawca udowodni, ˝e kierowa∏ si´ obiektywnymi powodami. § 1, je˝eli jest to uzasadnione ze wzgl´du na rodzaj pracy, warunki jej wykonywania lub wymagania zawodowe stawiane pracownikom,
-- **2)** wypowiedzeniu pracownikowi warunków zatrudnienia w zakresie wymiaru czasu pracy, je˝eli jest to uzasadnione przyczynami niedotyczàcymi pracowników,
-- **3)** stosowaniu Êrodków, które ró˝nicujà sytuacj´ prawnà pracownika ze wzgl´du na ochron´ rodzicielstwa, wiek lub niepe∏nosprawnoÊç pracownika,
-- **4)** ustalaniu warunków zatrudniania i zwalniania pracowników, zasad wynagradzania i awansowania oraz dost´pu do szkolenia w celu podnoszenia kwalifikacji zawodowych z uwzgl´dnieniem kryterium sta˝u pracy.
+- **1)** niezatrudnianiu pracownika zjednej lub kilku przyczyn określonych w art. 18
+- **1)** odmowa nawiązania lub rozwiązanie stosunku pracy,
+- **2)** niekorzystne ukształtowanie wynagrodzenia za pracę lub innych warunków zatrudnienia albo pominięcie przy awansowaniu lub przyznawaniu innych świadczeń związanych z pracą,
+- **3)** pominięcie przy typowaniu do udziału w szkoleniach podnoszących kwalifikacje zawodowe chyba że pracodawca udowodni, że kierował się obiektywnymi powodami. § 1, jeżeli jest to uzasadnione ze względu na rodzaj pracy, warunki jej wykonywania lub wymagania zawodowe stawiane pracownikom,
+- **2)** wypowiedzeniu pracownikowi warunków zatrudnienia w zakresie wymiaru czasu pracy, jeżeli jest to uzasadnione przyczynami niedotyczącymi pracowników,
+- **3)** stosowaniu środków, które różnicują sytuację prawną pracownika ze względu na ochronę rodzicielstwa, wiek lub niepełnosprawność pracownika,
+- **4)** ustalaniu warunków zatrudniania i zwalniania pracowników, zasad wynagradzania i awansowania oraz dostępu do szkolenia w celu podnoszenia kwalifikacji zawodowych z uwzględnieniem kryterium stażu pracy.
 
-§ 3. Nie stanowià naruszenia zasady równego traktowania wzatrudnieniu dzia∏ania podejmowane przez okreÊlony czas, zmierzajàce do wyrównywania szans wszystkich lub znacznej liczby pracowników wyró˝nionych z jednej lub kilku przyczyn okreÊlonych w art. 18 § 1, przez zmniejszenie na korzyÊç takich pracowników faktycznych nierównoÊci, w zakresie okreÊlonym wtym przepisie.
+§ 3. Nie stanowią naruszenia zasady równego traktowania wzatrudnieniu działania podejmowane przez określony czas, zmierzające do wyrównywania szans wszystkich lub znacznej liczby pracowników wyróżnionych z jednej lub kilku przyczyn określonych w art. 18 § 1, przez zmniejszenie na korzyść takich pracowników faktycznych nierówności, w zakresie określonym wtym przepisie.
 
-§ 4. Ró˝nicowanie pracowników ze wzgl´du na religi´ lub wyznanie nie stanowi naruszenia zasady równego traktowania w zatrudnieniu, je˝eli w zwiàzku z rodzajem i charakterem dzia∏alnoÊci prowadzonej w ramach koÊcio∏ów i innych zwiàzków wyznaniowych, a tak˝e organizacji, których cel dzia∏ania pozostaje w bezpoÊrednim zwiàzku z religià lub wyznaniem, religia lub wyznanie pracownika stanowi istotne, uzasadnione i usprawiedliwione wymaganie zawodowe.
+§ 4. Różnicowanie pracowników ze względu na religię lub wyznanie nie stanowi naruszenia zasady równego traktowania w zatrudnieniu, jeżeli w związku z rodzajem i charakterem działalności prowadzonej w ramach kościołów i innych związków wyznaniowych, a także organizacji, których cel działania pozostaje w bezpośrednim związku z religią lub wyznaniem, religia lub wyznanie pracownika stanowi istotne, uzasadnione i usprawiedliwione wymaganie zawodowe.
 
 **Art. 18³c.**
 
-§ 1. Pracownicy majà prawo do jednakowego wynagrodzenia za jednakowà prac´ lub za prac´ o jednakowej wartoÊci.
+§ 1. Pracownicy mają prawo do jednakowego wynagrodzenia za jednakową pracę lub za pracę o jednakowej wartości.
 
-§ 2. Wynagrodzenie, o którym mowa w § 1, obejmuje wszystkie sk∏adniki wynagrodzenia, bez wzgl´du na ich nazw´ i charakter, a tak˝e inne Êwiadczenia zwiàzane z pracà, przyznawane pracownikom w formie pieni´˝nej lub w innej formie ni˝ pieni´˝na.
+§ 2. Wynagrodzenie, o którym mowa w § 1, obejmuje wszystkie składniki wynagrodzenia, bez względu na ich nazwę i charakter, a także inne świadczenia związane z pracą, przyznawane pracownikom w formie pieniężnej lub w innej formie niż pieniężna.
 
-§ 3. Pracami ojednakowej wartoÊci sà prace, których wykonywanie wymaga od pracowników porównywalnych kwalifikacji zawodowych, potwierdzonych dokumentami przewidzianymi w odr´bnych przepisach lub praktykà idoÊwiadczeniem zawodowym, atak˝e porównywalnej odpowiedzialnoÊci i wysi∏ku.
+§ 3. Pracami ojednakowej wartości są prace, których wykonywanie wymaga od pracowników porównywalnych kwalifikacji zawodowych, potwierdzonych dokumentami przewidzianymi w odrębnych przepisach lub praktyką idoświadczeniem zawodowym, atakże porównywalnej odpowiedzialności i wysiłku.
 
-**Art. 18³d.** Osoba, wobec której pracodawca naruszy∏ zasad´ równego traktowania wzatrudnieniu, ma prawo do odszkodowania w wysokoÊci nie ni˝szej ni˝ minimalne wynagrodzenie za prac´, ustalane na podstawie odr´bnych przepisów.
+**Art. 18³d.** Osoba, wobec której pracodawca naruszył zasadę równego traktowania wzatrudnieniu, ma prawo do odszkodowania w wysokości nie niższej niż minimalne wynagrodzenie za pracę, ustalane na podstawie odrębnych przepisów.
 
-**Art. 18³e.** Skorzystanie przez pracownika z uprawnieƒ przys∏ugujàcych z tytu∏u naruszenia zasady równego traktowania w zatrudnieniu nie mo˝e stanowiç przyczyny uzasadniajàcej wypowiedzenie przez pracodawc´ stosunku pracy lub jego rozwiàzanie bez wypowiedzenia.”;
+**Art. 18³e.** Skorzystanie przez pracownika z uprawnień przysługujących z tytułu naruszenia zasady równego traktowania w zatrudnieniu nie może stanowić przyczyny uzasadniającej wypowiedzenie przez pracodawcę stosunku pracy lub jego rozwiązanie bez wypowiedzenia.”;
 
 **Art. 29².**
 
-§ 1. Zawarcie z pracownikiem umowy o prac´ przewidujàcej zatrudnienie w niepe∏nym wymiarze czasu pracy nie mo˝e powodowaç ustalenia jego warunków pracy i p∏acy w sposób mniej korzystny w stosunku do pracowników wykonujàcych takà samà lub podobnà prac´ wpe∏nym wymiarze czasu pracy, z uwzgl´dnieniem jednak proporcjonalnoÊci wynagrodzenia za prac´ i innych Êwiadczeƒ zwiàzanych z pracà, do wymiaru czasu pracy pracownika.
+§ 1. Zawarcie z pracownikiem umowy o pracę przewidującej zatrudnienie w niepełnym wymiarze czasu pracy nie może powodować ustalenia jego warunków pracy i płacy w sposób mniej korzystny w stosunku do pracowników wykonujących taką samą lub podobną pracę wpełnym wymiarze czasu pracy, z uwzględnieniem jednak proporcjonalności wynagrodzenia za pracę i innych świadczeń związanych z pracą, do wymiaru czasu pracy pracownika.
 
-§ 2. Pracodawca powinien, wmiar´ mo˝liwoÊci, uwzgl´dniç wniosek pracownika dotyczàcy zmiany wymiaru czasu pracy okreÊlonego w umowie o prac´.”;
+§ 2. Pracodawca powinien, wmiarę możliwości, uwzględnić wniosek pracownika dotyczący zmiany wymiaru czasu pracy określonego w umowie o pracę.”;
 
-- **13)** po art. 33 dodaje si´ art. 33 w brzmieniu: „Art. 33 . Okres wypowiedzenia umowy o prac´ zawartej na czas okreÊlony w okolicznoÊciach, o których mowa w art. 25 § 1 zdanie drugie, wynosi 3 dni robocze.”;
-- **14)** w art. 36 § 1 otrzymuje brzmienie: „§ 1. Je˝eli wypowiedzenie pracownikowi umowy oprac´ zawartej na czas nieokreÊlony nast´puje z powodu og∏oszenia upad∏oÊci lub likwidacji pracodawcy albo z innych przyczyn niedotyczàcych pracowników, pracodawca mo˝e, w celu wczeÊniejszego rozwiàzania umowy o prac´, skróciç okres trzymiesi´cznego wypowiedzenia, najwy˝ej jednak do 1 miesiàca. W takim przypadku pracownikowi przys∏uguje odszkodowanie w wysokoÊci wynagrodzenia za pozosta∏à cz´Êç okresu wypowiedzenia.”;
+- **13)** po art. 33 dodaje się art. 33 w brzmieniu: ŃArt. 33 . Okres wypowiedzenia umowy o pracę zawartej na czas określony w okolicznościach, o których mowa w art. 25 § 1 zdanie drugie, wynosi 3 dni robocze.”;
+- **14)** w art. 36 § 1 otrzymuje brzmienie: Ń§ 1. Jeżeli wypowiedzenie pracownikowi umowy opracę zawartej na czas nieokreślony następuje z powodu ogłoszenia upadłości lub likwidacji pracodawcy albo z innych przyczyn niedotyczących pracowników, pracodawca może, w celu wcześniejszego rozwiązania umowy o pracę, skrócić okres trzymiesięcznego wypowiedzenia, najwyżej jednak do 1 miesiąca. W takim przypadku pracownikowi przysługuje odszkodowanie w wysokości wynagrodzenia za pozostałą część okresu wypowiedzenia.”;
 - **15)** w art. 37:
-    - **a)** § 1 otrzymuje brzmienie: „§ 1. W okresie co najmniej dwutygodniowego wypowiedzenia umowy oprac´ dokonanego przez pracodawc´ pracownikowi przys∏uguje zwolnienie na poszukiwanie pracy, zzachowaniem prawa do wynagrodzenia.”,
-    - **b)** w § 2 pkt 1 otrzymuje brzmienie: „1) 2 dni robocze wokresie dwutygodniowego i jednomiesi´cznego wypowiedzenia,”;
+    - **a)** § 1 otrzymuje brzmienie: Ń§ 1. W okresie co najmniej dwutygodniowego wypowiedzenia umowy opracę dokonanego przez pracodawcę pracownikowi przysługuje zwolnienie na poszukiwanie pracy, zzachowaniem prawa do wynagrodzenia.”,
+    - **b)** w § 2 pkt 1 otrzymuje brzmienie: Ń1) 2 dni robocze wokresie dwutygodniowego i jednomiesięcznego wypowiedzenia,”;
 
-- **16)** art. 39 otrzymuje brzmienie: „Art. 39. Pracodawca nie mo˝e wypowiedzieç umowy o prac´ pracownikowi, któremu brakuje nie wi´cej ni˝ 2 lata do nabycia prawa do emerytury z Funduszu Ubezpieczeƒ Spo∏ecznych.”;
-- **17)** w dziale drugim rozdzia∏ IIa otrzymuje brzmienie: „Rozdzia∏ IIa Warunki zatrudnienia pracowników skierowanych do pracy na terytorium Rzeczypospolitej Polskiej z paƒstwa b´dàcego cz∏onkiem Unii Europejskiej
+- **16)** art. 39 otrzymuje brzmienie: ŃArt. 39. Pracodawca nie może wypowiedzieć umowy o pracę pracownikowi, któremu brakuje nie więcej niż 2 lata do nabycia prawa do emerytury z Funduszu Ubezpieczeń Społecznych.”;
+- **17)** w dziale drugim rozdział IIa otrzymuje brzmienie: ŃRozdział IIa Warunki zatrudnienia pracowników skierowanych do pracy na terytorium Rzeczypospolitej Polskiej z państwa będącego członkiem Unii Europejskiej
 
 **Art. 67¹.**
 
-§ 1. Przepisy niniejszego rozdzia∏u stosuje si´ w przypadku wykonywania pracy na terytorium Rzeczypospolitej Polskiej przez pracownika skierowanego do tej pracy na okreÊlony czas przez pracodawc´ majàcego siedzib´ w paƒstwie b´dàcym cz∏onkiem Unii Europejskiej.
+§ 1. Przepisy niniejszego rozdziału stosuje się w przypadku wykonywania pracy na terytorium Rzeczypospolitej Polskiej przez pracownika skierowanego do tej pracy na określony czas przez pracodawcę mającego siedzibę w państwie będącym członkiem Unii Europejskiej.
 
-§ 2. Pracodawca, o którym mowa w § 1, kierujàcy pracownika do pracy na terytorium Rzeczypospolitej Polskiej:
+§ 2. Pracodawca, o którym mowa w § 1, kierujący pracownika do pracy na terytorium Rzeczypospolitej Polskiej:
 
-- **1)** w zwiàzku z realizacjà umowy zawartej przez tego pracodawc´ z podmiotem zagranicznym,
+- **1)** w związku z realizacją umowy zawartej przez tego pracodawcę z podmiotem zagranicznym,
 - **2)** w zagranicznym oddziale (filii) tego pracodawcy,
-- **3)** jako agencja pracy tymczasowej zapewnia pracownikowi, w zakresie okreÊlonym w art. 67 sów Kodeksu pracy oraz innych przepisów regulujàcych prawa i obowiàzki pracowników. Art. 67 , warunki zatrudnienia nie mniej korzystne ni˝ wynikajàce z przepi. § 1. Warunki zatrudnienia dotyczà:
+- **3)** jako agencja pracy tymczasowej zapewnia pracownikowi, w zakresie określonym w art. 67 sów Kodeksu pracy oraz innych przepisów regulujących prawa i obowiązki pracowników. Art. 67 , warunki zatrudnienia nie mniej korzystne niż wynikające z przepi. § 1. Warunki zatrudnienia dotyczą:
 - **1)** norm iwymiaru czasu pracy oraz okresów odpoczynku dobowego itygodniowego,
 - **2)** wymiaru urlopu wypoczynkowego,
-- **3)** minimalnego wynagrodzenia za prac´, ustalanego na podstawie odr´bnych przepisów,
-- **4)** wysokoÊci dodatku za prac´ w godzinach nadliczbowych,
-- **5)** bezpieczeƒstwa i higieny pracy,
-- **6)** uprawnieƒ pracowników zwiàzanych z rodzicielstwem,
-- **7)** zatrudniania m∏odocianych,
+- **3)** minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów,
+- **4)** wysokości dodatku za pracę w godzinach nadliczbowych,
+- **5)** bezpieczeństwa i higieny pracy,
+- **6)** uprawnień pracowników związanych z rodzicielstwem,
+- **7)** zatrudniania młodocianych,
 - **8)** zakazu dyskryminacji w zatrudnieniu,
 - **9)** wykonywania pracy zgodnie zprzepisami ozatrudnianiu pracowników tymczasowych.
 
-§ 2. Do pracowników, októrych mowa w art. 67 , wykonujàcych wst´pne prace monta˝owe lub instalacyjne poza budownictwem przez okres nie d∏u˝szy ni˝ 8 dni, przepisu § 1 pkt 2—4 nie stosuje si´.
+§ 2. Do pracowników, októrych mowa w art. 67 , wykonujących wstępne prace montażowe lub instalacyjne poza budownictwem przez okres nie dłuższy niż 8 dni, przepisu § 1 pkt 2—4 nie stosuje się.
 
-**Art. 67³.** Przepisy art. 67 i67 stosuje si´ odpowiednio w przypadku wykonywania pracy na terytorium Rzeczypospolitej Polskiej przez pracownika skierowanego do tej pracy przez pracodawc´ majàcego siedzib´ w paƒstwie nieb´dàcym cz∏onkiem Unii Europejskiej.”;
+**Art. 67³.** Przepisy art. 67 i67 stosuje się odpowiednio w przypadku wykonywania pracy na terytorium Rzeczypospolitej Polskiej przez pracownika skierowanego do tej pracy przez pracodawcę mającego siedzibę w państwie niebędącym członkiem Unii Europejskiej.”;
 
-**Art. 76.** Stosunek pracy nawiàzuje si´ na podstawie mianowania w przypadkach okreÊlonych w odr´bnych przepisach.”;
+**Art. 76.** Stosunek pracy nawiązuje się na podstawie mianowania w przypadkach określonych w odrębnych przepisach.”;
+
+#### Rozdział I Przepisy ogólne
 
 **Art. 128.**
 
 § 1. Czasem pracy jest czas, w którym ;
 
-- **33)** w art. 105 dodaje si´ zdanie drugie w brzmieniu: „Odpis zawiadomienia o przyznaniu nagrody lub wyró˝nienia sk∏ada si´ do akt osobowych pracownika.”;
-- **34)** uchyla si´ art. 107;
-- **35)** w art. 108 § 1 otrzymuje brzmienie: pracownik pozostaje w dyspozycji pracodawcy w zak∏adzie pracy lub w innym miejscu wyznaczonym do wykonywania pracy.
+- **33)** w art. 105 dodaje się zdanie drugie w brzmieniu: ŃOdpis zawiadomienia o przyznaniu nagrody lub wyróżnienia składa się do akt osobowych pracownika.”;
+- **34)** uchyla się art. 107;
+- **35)** w art. 108 § 1 otrzymuje brzmienie: pracownik pozostaje w dyspozycji pracodawcy w zakładzie pracy lub w innym miejscu wyznaczonym do wykonywania pracy.
 
-§ 2. Ilekroç w przepisach dzia∏u jest mowa o:
+§ 2. Ilekroć w przepisach działu jest mowa o:
 
-- **1)** pracy zmianowej nale˝y przez to rozumieç wykonywanie pracy wed∏ug ustalonego rozk∏adu czasu pracy przewidujàcego zmian´ pory wykonywania pracy przez poszczególnych pracowników po up∏ywie okreÊlonej liczby godzin, dni lub tygodni,
-- **2)** pracownikach zarzàdzajàcych w imieniu pracodawcy zak∏adem pracy nale˝y przez to rozumieç pracowników kierujàcych jednoosobowo zak∏adem pracy i ich zast´pców lub pracowników wchodzàcych w sk∏ad kolegialnego organu zarzàdzajàcego zak∏adem pracy oraz g∏ównych ksi´gowych.
+- **1)** pracy zmianowej należy przez to rozumieć wykonywanie pracy według ustalonego rozkładu czasu pracy przewidującego zmianę pory wykonywania pracy przez poszczególnych pracowników po upływie określonej liczby godzin, dni lub tygodni,
+- **2)** pracownikach zarządzających w imieniu pracodawcy zakładem pracy należy przez to rozumieć pracowników kierujących jednoosobowo zakładem pracy i ich zastępców lub pracowników wchodzących w skład kolegialnego organu zarządzającego zakładem pracy oraz głównych księgowych.
 
 § 3. Do celów rozliczania czasu pracy pracownika:
 
-- **1)** przez dob´ nale˝y rozumieç 24 kolejne godziny, poczynajàc od godziny, w której pracownik rozpoczyna prac´ zgodnie zobowiàzujàcym go rozk∏adem czasu pracy,
-- **2)** przez tydzieƒ nale˝y rozumieç 7 kolejnych dni kalendarzowych, poczynajàc od pierwszego dnia okresu rozliczeniowego. Rozdzia∏ II Normy i ogólny wymiar czasu pracy
+- **1)** przez dobę należy rozumieć 24 kolejne godziny, poczynając od godziny, w której pracownik rozpoczyna pracę zgodnie zobowiązującym go rozkładem czasu pracy,
+- **2)** przez tydzień należy rozumieć 7 kolejnych dni kalendarzowych, poczynając od pierwszego dnia okresu rozliczeniowego.
+
+#### Rozdział II Normy i ogólny wymiar czasu pracy
 
 **Art. 129.**
 
-§ 1. Czas pracy nie mo˝e przekraczaç 8 godzin na dob´ i przeci´tnie 40 godzin w przeci´tnie pi´ciodniowym tygodniu pracy w przyj´tym okresie rozliczeniowym nieprzekraczajàcym 4 miesi´cy, z zastrze˝eniem § 2 oraz art. 135—138, 143 i 144.
+§ 1. Czas pracy nie może przekraczać 8 godzin na dobę i przeciętnie 40 godzin w przeciętnie pięciodniowym tygodniu pracy w przyjętym okresie rozliczeniowym nieprzekraczającym 4 miesięcy, z zastrzeżeniem § 2 oraz art. 135—138, 143 i 144.
 
-§ 2. W rolnictwie i hodowli, a tak˝e przy pilnowaniu mienia lub ochronie osób mo˝e byç wprowadzony okres rozliczeniowy nieprzekraczajàcy 6 miesi´cy, a je˝eli jest to dodatkowo uzasadnione nietypowymi warunkami organizacyjnymi lub technicznymi majàcymi wp∏yw na przebieg procesu pracy okres rozliczeniowy nieprzekraczajàcy 12 miesi´cy. Nie jest jednak dopuszczalne stosowanie przed∏u˝onego okresu rozliczeniowego w systemach czasu pracy, o których mowa w art. 135—138.
+§ 2. W rolnictwie i hodowli, a także przy pilnowaniu mienia lub ochronie osób może być wprowadzony okres rozliczeniowy nieprzekraczający 6 miesięcy, a jeżeli jest to dodatkowo uzasadnione nietypowymi warunkami organizacyjnymi lub technicznymi mającymi wpływ na przebieg procesu pracy okres rozliczeniowy nieprzekraczający 12 miesięcy. Nie jest jednak dopuszczalne stosowanie przedłużonego okresu rozliczeniowego w systemach czasu pracy, o których mowa w art. 135—138.
 
 **Art. 130.**
 
-§ 1. Obowiàzujàcy pracownika wymiar czasu pracy w przyj´tym okresie rozliczeniowym, ustalany zgodnie z art. 129 § 1, oblicza si´:
+§ 1. Obowiązujący pracownika wymiar czasu pracy w przyjętym okresie rozliczeniowym, ustalany zgodnie z art. 129 § 1, oblicza się:
 
-- **1)** mno˝àc 40 godzin przez liczb´ tygodni przypadajàcych wokresie rozliczeniowym, anast´pnie
-- **2)** dodajàc do otrzymanej liczby godzin iloczyn 8 godzin i liczby dni pozosta∏ych do koƒca okresu rozliczeniowego, przypadajàcych od poniedzia∏ku do piàtku.
+- **1)** mnożąc 40 godzin przez liczbę tygodni przypadających wokresie rozliczeniowym, anastępnie
+- **2)** dodając do otrzymanej liczby godzin iloczyn 8 godzin i liczby dni pozostałych do końca okresu rozliczeniowego, przypadających od poniedziałku do piątku.
 
-§ 2. Ka˝de Êwi´to wyst´pujàce wokresie rozliczeniowym i przypadajàce w innym dniu ni˝ niedziela obni˝a wymiar czasu pracy o 8 godzin. Je˝eli jednak w tygodniu obejmujàcym siedem dni od poniedzia∏ku do niedzieli, wystàpià dwa Êwi´ta winne dni ni˝ niedziela, obni˝enie wymiaru czasu pracy o 8 godzin nast´puje tylko z tytu∏u jednego z tych Êwiàt.
+§ 2. Każde święto występujące wokresie rozliczeniowym i przypadające w innym dniu niż niedziela obniża wymiar czasu pracy o 8 godzin. Jeżeli jednak w tygodniu obejmującym siedem dni od poniedziałku do niedzieli, wystąpią dwa święta winne dni niż niedziela, obniżenie wymiaru czasu pracy o 8 godzin następuje tylko z tytułu jednego z tych świąt.
 
-§ 3. Wymiar czasu pracy pracownika w okresie rozliczeniowym, ustalony zgodnie z art. 129 § 1, ulega w tym okresie obni˝eniu o liczb´ godzin usprawiedliwionej nieobecnoÊci w pracy, przypadajàcych do przepracowania w czasie tej nieobecnoÊci, zgodnie zprzyj´tym rozk∏adem czasu pracy.
+§ 3. Wymiar czasu pracy pracownika w okresie rozliczeniowym, ustalony zgodnie z art. 129 § 1, ulega w tym okresie obniżeniu o liczbę godzin usprawiedliwionej nieobecności w pracy, przypadających do przepracowania w czasie tej nieobecności, zgodnie zprzyjętym rozkładem czasu pracy.
 
 **Art. 131.**
 
-§ 1. Tygodniowy czas pracy ∏àcznie mo˝e przekraczaç przeci´tnie 48 godzin w przyj´tym okresie rozliczeniowym.
+§ 1. Tygodniowy czas pracy łącznie może przekraczać przeciętnie 48 godzin w przyjętym okresie rozliczeniowym.
 
-§ 2. Ograniczenie przewidziane w § 1 nie dotyczy pracowników zarzàdzajàcych w imieniu pracodawcy zak∏adem pracy. Rozdzia∏ III Okresy odpoczynku
+§ 2. Ograniczenie przewidziane w § 1 nie dotyczy pracowników zarządzających w imieniu pracodawcy zakładem pracy.
+
+#### Rozdział III Okresy odpoczynku
 
 **Art. 132.**
 
-§ 1. Pracownikowi przys∏uguje w ka˝dej dobie prawo do co najmniej 11 godzin nieprzerwanego odpoczynku, z zastrze˝eniem § 3 oraz art. 136 § 2 i art. 137.
+§ 1. Pracownikowi przysługuje w każdej dobie prawo do co najmniej 11 godzin nieprzerwanego odpoczynku, z zastrzeżeniem § 3 oraz art. 136 § 2 i art. 137.
 
 § 2. Przepis § 1 nie dotyczy:
 
-- **1)** pracowników zarzàdzajàcych w imieniu pracodawcy zak∏adem pracy,
-- **2)** przypadków koniecznoÊci prowadzenia akcji ratowniczej w celu ochrony ˝ycia lub zdrowia ludzkiego, ochrony mienia lub Êrodowiska albo usuni´cia awarii.
+- **1)** pracowników zarządzających w imieniu pracodawcy zakładem pracy,
+- **2)** przypadków konieczności prowadzenia akcji ratowniczej w celu ochrony życia lub zdrowia ludzkiego, ochrony mienia lub środowiska albo usunięcia awarii.
 
-§ 3. W przypadkach okreÊlonych w § 2 pracownikowi przys∏uguje, wokresie rozliczeniowym, równowa˝ny okres odpoczynku.
+§ 3. W przypadkach określonych w § 2 pracownikowi przysługuje, wokresie rozliczeniowym, równoważny okres odpoczynku.
 
 **Art. 133.**
 
-§ 1. Pracownikowi przys∏uguje w ka˝dym tygodniu prawo do co najmniej 35 godzin nieprzerwanego odpoczynku, obejmujàcego co najmniej 11 godzin nieprzerwanego odpoczynku dobowego.
+§ 1. Pracownikowi przysługuje w każdym tygodniu prawo do co najmniej 35 godzin nieprzerwanego odpoczynku, obejmującego co najmniej 11 godzin nieprzerwanego odpoczynku dobowego.
 
-§ 2. W przypadkach okreÊlonych w art. 132 § 2 oraz w przypadku zmiany pory wykonywania pracy przez pracownika wzwiàzku zjego przejÊciem na innà zmian´, zgodnie z ustalonym rozk∏adem czasu pracy, tygodniowy nieprzerwany odpoczynek mo˝e obejmowaç mniejszà liczb´ godzin, nie mo˝e byç jednak krótszy ni˝ 24 godziny.
+§ 2. W przypadkach określonych w art. 132 § 2 oraz w przypadku zmiany pory wykonywania pracy przez pracownika wzwiązku zjego przejściem na inną zmianę, zgodnie z ustalonym rozkładem czasu pracy, tygodniowy nieprzerwany odpoczynek może obejmować mniejszą liczbę godzin, nie może być jednak krótszy niż 24 godziny.
 
-§ 3. Odpoczynek, o którym mowa w § 1 i 2, powinien przypadaç w niedziel´. Niedziela obejmuje 24 kolejne godziny, poczynajàc od godziny 6.00 wtym dniu, chyba ˝e u danego pracodawcy zosta∏a z godzinami nadliczbowymi nie ustalona inna godzina.
+§ 3. Odpoczynek, o którym mowa w § 1 i 2, powinien przypadać w niedzielę. Niedziela obejmuje 24 kolejne godziny, poczynając od godziny 6.00 wtym dniu, chyba że u danego pracodawcy została z godzinami nadliczbowymi nie ustalona inna godzina.
 
-§ 4. W przypadkach dozwolonej pracy w niedziel´ odpoczynek, o którym mowa w § 1 i 2, mo˝e przypadaç w innym dniu ni˝ niedziela.
+§ 4. W przypadkach dozwolonej pracy w niedzielę odpoczynek, o którym mowa w § 1 i 2, może przypadać w innym dniu niż niedziela.
 
-**Art. 134.** Je˝eli dobowy wymiar czasu pracy pracownika wynosi co najmniej 6 godzin, pracownik ma prawo do przerwy w pracy trwajàcej co najmniej 15 minut, wliczanej do czasu pracy. Rozdzia∏ IV Systemy i rozk∏ady czasu pracy
+**Art. 134.** Jeżeli dobowy wymiar czasu pracy pracownika wynosi co najmniej 6 godzin, pracownik ma prawo do przerwy w pracy trwającej co najmniej 15 minut, wliczanej do czasu pracy.
+
+#### Rozdział IV Systemy i rozkłady czasu pracy
 
 **Art. 135.**
 
-§ 1. Je˝eli jest to uzasadnione rodzajem pracy lub jej organizacjà, mo˝e byç stosowany system równowa˝nego czasu pracy, w którym jest dopuszczalne przed∏u˝enie dobowego wymiaru czasu pracy, nie wi´cej jednak ni˝ do 12 godzin, wokresie rozliczeniowym nieprzekraczajàcym 1 miesiàca. Przed∏u˝ony dobowy wymiar czasu pracy jest równowa˝ony krótszym dobowym wymiarem czasu pracy w niektórych dniach lub dniami wolnymi od pracy.
+§ 1. Jeżeli jest to uzasadnione rodzajem pracy lub jej organizacją, może być stosowany system równoważnego czasu pracy, w którym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy, nie więcej jednak niż do 12 godzin, wokresie rozliczeniowym nieprzekraczającym 1 miesiąca. Przedłużony dobowy wymiar czasu pracy jest równoważony krótszym dobowym wymiarem czasu pracy w niektórych dniach lub dniami wolnymi od pracy.
 
-§ 2. Wszczególnie uzasadnionych przydo 24 godzin, w okresie rozliczeniowym nieprzekraczajàcym 1 miesiàca. Przepisy art. 135 § 2 i 3 oraz art. 136 § 2 stosuje si´ odpowiednio.
+§ 2. Wszczególnie uzasadnionych przydo 24 godzin, w okresie rozliczeniowym nieprzekraczającym 1 miesiąca. Przepisy art. 135 § 2 i 3 oraz art. 136 § 2 stosuje się odpowiednio.
 
 **Art. 138.**
 
-§ 1. Przy pracach, które ze wzgl´du na technologi´ produkcji nie mogà byç wstrzymane (praca w ruchu ciàg∏ym), mo˝e byç stosowany system czasu pracy, wktórym jest dopuszczalne przed∏u˝enie czasu pracy do 43 godzin przeci´tnie na tydzieƒ w okresie rozliczeniowym nieprzekraczajàcym 4 tygodni, ajednego dnia wniektórych tygodniach wtym okresie dobowy wymiar czasu pracy mo˝e byç przed∏u˝ony do 12 godzin. Za ka˝dà godzin´ pracy powy˝ej 8 godzin na dob´ wdniu wykonywania pracy wprzed∏u˝onym wymiarze czasu pracy pracownikowi przys∏uguje dodatek do wynagrodzenia, padkach okres rozliczeniowy, októ- o którym mowa w art. 151 rym mowa w § 1, mo˝e byç przed∏u˝ony, nie wi´cej jednak ni˝ do 3 miesi´cy.
+§ 1. Przy pracach, które ze względu na technologię produkcji nie mogą być wstrzymane (praca w ruchu ciągłym), może być stosowany system czasu pracy, wktórym jest dopuszczalne przedłużenie czasu pracy do 43 godzin przeciętnie na tydzień w okresie rozliczeniowym nieprzekraczającym 4 tygodni, ajednego dnia wniektórych tygodniach wtym okresie dobowy wymiar czasu pracy może być przedłużony do 12 godzin. Za każdą godzinę pracy powyżej 8 godzin na dobę wdniu wykonywania pracy wprzedłużonym wymiarze czasu pracy pracownikowi przysługuje dodatek do wynagrodzenia, padkach okres rozliczeniowy, októ- o którym mowa w art. 151 rym mowa w § 1, może być przedłużony, nie więcej jednak niż do 3 miesięcy.
 
-§ 3. Przy pracach uzale˝nionych od pory roku lub warunków atmosferycznych okres rozliczeniowy, o którym mowa w § 1, mo˝e byç przed∏u˝ony, nie wi´cej jednak ni˝ do 4 miesi´cy.
+§ 3. Przy pracach uzależnionych od pory roku lub warunków atmosferycznych okres rozliczeniowy, o którym mowa w § 1, może być przedłużony, nie więcej jednak niż do 4 miesięcy.
 
 **Art. 136.**
 
-§ 1. Przy pracach polegajàcych na dozorze urzàdzeƒ lub zwiàzanych z cz´Êciowym pozostawaniem w pogotowiu do pracy mo˝e byç stosowany system równowa˝nego czasu pracy, w którym jest dopuszczalne przed∏u˝enie dobowego wymiaru czasu pracy, nie wi´cej jednak ni˝ do 16 godzin, wokresie rozliczeniowym nieprzekraczajàcym 1 miesiàca.
+§ 1. Przy pracach polegających na dozorze urządzeń lub związanych z częściowym pozostawaniem w pogotowiu do pracy może być stosowany system równoważnego czasu pracy, w którym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy, nie więcej jednak niż do 16 godzin, wokresie rozliczeniowym nieprzekraczającym 1 miesiąca.
 
-§ 2. W systemie czasu pracy, o którym mowa w § 1, pracownikowi przys∏uguje, bezpoÊrednio po ka˝dym okresie wykonywania pracy w przed∏u˝onym dobowym wymiarze czasu pracy, odpoczynek przez czas odpowiadajàcy co najmniej liczbie przepracowanych godzin, niezale˝nie od odpoczynku przewidzianego w art. 133.
+§ 2. W systemie czasu pracy, o którym mowa w § 1, pracownikowi przysługuje, bezpośrednio po każdym okresie wykonywania pracy w przedłużonym dobowym wymiarze czasu pracy, odpoczynek przez czas odpowiadający co najmniej liczbie przepracowanych godzin, niezależnie od odpoczynku przewidzianego w art. 133.
 
-**Art. 137.** Do pracowników zatrudnionych przy pilnowaniu mienia lub ochronie osób, a tak˝e pracowników zak∏adowych stra˝y po˝arnych i zak∏adowych s∏u˝b ratowniczych mo˝e byç stosowany system równowa˝nego czasu pracy, wktórym jest dopuszczalne przed∏u˝enie dobowego wymiaru czasu pracy § 1 pkt 1.
+**Art. 137.** Do pracowników zatrudnionych przy pilnowaniu mienia lub ochronie osób, a także pracowników zakładowych straży pożarnych i zakładowych służb ratowniczych może być stosowany system równoważnego czasu pracy, wktórym jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy § 1 pkt 1.
 
 **Art. 139.**
 
-§ 1. Je˝eli jest to uzasadnione rodzajem pracy lub jej organizacjà, mo˝e byç stosowany system przerywanego czasu pracy wed∏ug z góry ustalonego rozk∏adu przewidujàcego nie wi´cej ni˝ jednà przerw´ wpracy wciàgu doby, trwajàcà nie d∏u˝ej ni˝ 5 godzin. Przerwy nie wlicza si´ do czasu pracy, jednak˝e za czas tej przerwy pracownikowi przys∏uguje prawo do wynagrodzenia w wysokoÊci po∏owy wynagrodzenia nale˝nego za czas przestoju.
+§ 1. Jeżeli jest to uzasadnione rodzajem pracy lub jej organizacją, może być stosowany system przerywanego czasu pracy według z góry ustalonego rozkładu przewidującego nie więcej niż jedną przerwę wpracy wciągu doby, trwającą nie dłużej niż 5 godzin. Przerwy nie wlicza się do czasu pracy, jednakże za czas tej przerwy pracownikowi przysługuje prawo do wynagrodzenia w wysokości połowy wynagrodzenia należnego za czas przestoju.
 
-§ 2. Systemu przerywanego czasu pracy nie stosuje si´ do pracownika obj´tego systemem czasu pracy, o którym mowa w art. 135—138, 143 i 144.
+§ 2. Systemu przerywanego czasu pracy nie stosuje się do pracownika objętego systemem czasu pracy, o którym mowa w art. 135—138, 143 i 144.
 
-§ 3. System przerywanego czasu pracy wprowadza si´ wuk∏adzie zbiorowym pracy, z zastrze˝eniem § 4.
+§ 3. System przerywanego czasu pracy wprowadza się wukładzie zbiorowym pracy, z zastrzeżeniem § 4.
 
-§ 4. Upracodawcy b´dàcego osobà fizycznà, prowadzàcego dzia∏alnoÊç w zakresie rolnictwa i hodowli, uktórego nie dzia∏a zak∏adowa organizacja zwiàzkowa, system przerywanego czasu pracy mo˝e byç stosowany na podstawie umowy o prac´. Pracownikowi przys∏uguje wynagrodzenie za czas przerwy, októrej mowa w§ 1, je˝eli wynika to z umowy o prac´.
+§ 4. Upracodawcy będącego osobą fizyczną, prowadzącego działalność w zakresie rolnictwa i hodowli, uktórego nie działa zakładowa organizacja związkowa, system przerywanego czasu pracy może być stosowany na podstawie umowy o pracę. Pracownikowi przysługuje wynagrodzenie za czas przerwy, októrej mowa w§ 1, jeżeli wynika to z umowy o pracę.
 
-**Art. 140.** W przypadkach uzasadnionych rodzajem pracy lub jej organizacjà albo miejscem wykonywania pracy mo˝e byç stosowany system zadaniowego czasu pracy. Pracodawca, po porozumieniu z pracownikiem, ustala czas niezb´dny do wykonania powierzonych zadaƒ, uwzgl´dniajàc wymiar czasu pracy wynikajàcy znorm okreÊlonych wart. 129.
+**Art. 140.** W przypadkach uzasadnionych rodzajem pracy lub jej organizacją albo miejscem wykonywania pracy może być stosowany system zadaniowego czasu pracy. Pracodawca, po porozumieniu z pracownikiem, ustala czas niezbędny do wykonania powierzonych zadań, uwzględniając wymiar czasu pracy wynikający znorm określonych wart. 129.
 
 **Art. 141.**
 
-§ 1. Pracodawca mo˝e wprowadziç jednà przerw´ w pracy niewliczanà do czasu pracy, w wymiarze nieprzekraczajàcym 60 minut, przeznaczonà na spo˝ycie posi∏ku lub za∏atwienie spraw osobistych.
+§ 1. Pracodawca może wprowadzić jedną przerwę w pracy niewliczaną do czasu pracy, w wymiarze nieprzekraczającym 60 minut, przeznaczoną na spożycie posiłku lub załatwienie spraw osobistych.
 
-§ 2. Przerw´ w pracy, o której mowa w § 1, wprowadza si´ w uk∏adzie zbiorowym pracy lub regulaminie pracy albo w umowie o prac´, je˝eli pracodawca nie jest obj´ty uk∏adem zbiorowym pracy lub nie jest obowiàzany do ustalenia regulaminu pracy.
+§ 2. Przerwę w pracy, o której mowa w § 1, wprowadza się w układzie zbiorowym pracy lub regulaminie pracy albo w umowie o pracę, jeżeli pracodawca nie jest objęty układem zbiorowym pracy lub nie jest obowiązany do ustalenia regulaminu pracy.
 
-**Art. 142.** Na pisemny wniosek pracownika pracodawca mo˝e ustaliç indywidualny rozk∏ad jego czasu pracy w ramach systemu czasu pracy, którym pracownik jest obj´ty.
+**Art. 142.** Na pisemny wniosek pracownika pracodawca może ustalić indywidualny rozkład jego czasu pracy w ramach systemu czasu pracy, którym pracownik jest objęty.
 
-**Art. 143.** Na pisemny wniosek pracownika mo˝e byç do niego stosowany system systemie jest dopuszczalne wykonywanie pracy przez pracownika przez mniej ni˝ 5 dni w ciàgu tygodnia, przy równoczesnym przed∏u˝eniu dobowego wymiaru czasu pracy, nie wi´cej ni˝ do 12 godzin, w okresie rozliczeniowym nieprzekraczajàcym 1 miesiàca.
+**Art. 143.** Na pisemny wniosek pracownika może być do niego stosowany system systemie jest dopuszczalne wykonywanie pracy przez pracownika przez mniej niż 5 dni w ciągu tygodnia, przy równoczesnym przedłużeniu dobowego wymiaru czasu pracy, nie więcej niż do 12 godzin, w okresie rozliczeniowym nieprzekraczającym 1 miesiąca.
 
-**Art. 144.** Na pisemny wniosek pracownika mo˝e byç do niego stosowany system czasu pracy, wktórym praca jest Êwiadczona wy∏àcznie w piàtki, soboty, niedziele i Êwi´ta. W tym systemie jest dopuszczalne przed∏u˝enie dobowego wymiaru czasu pracy, nie wi´cej jednak ni˝ do 12 godzin, w okresie rozliczeniowym nieprzekraczajàcym 1 miesiàca.
+**Art. 144.** Na pisemny wniosek pracownika może być do niego stosowany system czasu pracy, wktórym praca jest świadczona wyłącznie w piątki, soboty, niedziele i święta. W tym systemie jest dopuszczalne przedłużenie dobowego wymiaru czasu pracy, nie więcej jednak niż do 12 godzin, w okresie rozliczeniowym nieprzekraczającym 1 miesiąca.
 
 **Art. 145.**
 
-§ 1. Skrócenie czasu pracy poni˝ej norm okreÊlonych w art. 129 § 1 dla pracowników zatrudnionych w warunkach szczególnie ucià˝liwych lub szczególnie szkodliwych dla zdrowia mo˝e polegaç na ustanowieniu przerw w pracy wliczanych do czasu pracy albo na obni˝eniu tych norm, a w przypadku pracy monotonnej lub pracy wustalonym zgóry tempie polega na wprowadzeniu przerw w pracy wliczanych do czasu pracy.
+§ 1. Skrócenie czasu pracy poniżej norm określonych w art. 129 § 1 dla pracowników zatrudnionych w warunkach szczególnie uciążliwych lub szczególnie szkodliwych dla zdrowia może polegać na ustanowieniu przerw w pracy wliczanych do czasu pracy albo na obniżeniu tych norm, a w przypadku pracy monotonnej lub pracy wustalonym zgóry tempie polega na wprowadzeniu przerw w pracy wliczanych do czasu pracy.
 
-§ 2. Wykaz prac, októrych mowa w§ 1, ustala pracodawca po konsultacji z pracownikami lub ich przedstawicielami w trybie i na zasadach okreÊlonych w art. 237 skróconego tygodnia pracy. W tym i art. 237 oraz po zasi´gni´ciu opinii lekarza sprawujàcego profilaktycznà opiek´ zdrowotnà nad pracownikami.
+§ 2. Wykaz prac, októrych mowa w§ 1, ustala pracodawca po konsultacji z pracownikami lub ich przedstawicielami w trybie i na zasadach określonych w art. 237 skróconego tygodnia pracy. W tym i art. 237 oraz po zasięgnięciu opinii lekarza sprawującego profilaktyczną opiekę zdrowotną nad pracownikami.
 
-**Art. 146.** Praca zmianowa jest dopuszczalna bez wzgl´du na stosowany system czasu pracy.
+**Art. 146.** Praca zmianowa jest dopuszczalna bez względu na stosowany system czasu pracy.
 
-**Art. 147.** Wka˝dym systemie czasu pracy, je˝eli przewiduje on rozk∏ad czasu pracy obejmujàcy prac´ wniedziele iÊwi´ta, pracownikom zapewnia si´ ∏àcznà liczb´ dni wolnych od pracy w przyj´tym okresie rozliczeniowym odpowiadajàcà co najmniej liczbie niedziel, Êwiàt oraz dni wolnych od pracy w przeci´tnie pi´ciodniowym tygodniu pracy przypadajàcych w tym okresie.
+**Art. 147.** Wkażdym systemie czasu pracy, jeżeli przewiduje on rozkład czasu pracy obejmujący pracę wniedziele iświęta, pracownikom zapewnia się łączną liczbę dni wolnych od pracy w przyjętym okresie rozliczeniowym odpowiadającą co najmniej liczbie niedziel, świąt oraz dni wolnych od pracy w przeciętnie pięciodniowym tygodniu pracy przypadających w tym okresie.
 
-**Art. 148.** Wsystemach irozk∏adach czasu pracy, o których mowa w art. 135—138, 143 i 144, czas pracy:
+**Art. 148.** Wsystemach irozkładach czasu pracy, o których mowa w art. 135—138, 143 i 144, czas pracy:
 
 **Art. 149.**
 
-§ 1. Pracodawca prowadzi ewidencj´ czasu pracy pracownika do celów prawid∏owego ustalenia jego wynagrodzenia i innych Êwiadczeƒ zwiàzanych z pracà. Pracodawca udost´pnia t´ ewidencj´ pracownikowi, na jego ˝àdanie.
+§ 1. Pracodawca prowadzi ewidencję czasu pracy pracownika do celów prawidłowego ustalenia jego wynagrodzenia i innych świadczeń związanych z pracą. Pracodawca udostępnia tę ewidencję pracownikowi, na jego żądanie.
 
-§ 2. W stosunku do pracowników obj´tych systemem zadaniowego czasu pracy, pracowników zarzàdzajàcych w imieniu pracodawcy zak∏adem pracy oraz pracowników otrzymujàcych rycza∏t za godziny nadliczbowe lub za prac´ wporze nocnej nie ewidencjonuje si´ godzin pracy.
+§ 2. W stosunku do pracowników objętych systemem zadaniowego czasu pracy, pracowników zarządzających w imieniu pracodawcy zakładem pracy oraz pracowników otrzymujących ryczałt za godziny nadliczbowe lub za pracę wporze nocnej nie ewidencjonuje się godzin pracy.
 
 **Art. 150.**
 
-§ 1. Systemy i rozk∏ady czasu pracy oraz przyj´te okresy rozliczeniowe czasu pracy ustala si´ w uk∏adzie zbiorowym pracy lub w regulaminie pracy albo w obwieszczeniu, je˝eli pracodawca nie jest obj´ty uk∏adem zbiorowym pracy lub nie jest obowiàzany do ustalenia regulaminu pracy, z zastrze˝eniem § 2 i 3 oraz art. 139 § 3 i 4.
+§ 1. Systemy i rozkłady czasu pracy oraz przyjęte okresy rozliczeniowe czasu pracy ustala się w układzie zbiorowym pracy lub w regulaminie pracy albo w obwieszczeniu, jeżeli pracodawca nie jest objęty układem zbiorowym pracy lub nie jest obowiązany do ustalenia regulaminu pracy, z zastrzeżeniem § 2 i 3 oraz art. 139 § 3 i 4.
 
-§ 2. Pracodawca, u którego nie dzia∏a zak∏adowa organizacja zwiàzkowa, a tak˝e pracodawca, u którego zak∏adowa organizacja zwiàzkowa nie wyra˝a zgody na ustalenie lub zmian´ systemów irozk∏adów czasu pracy oraz okresów rozliczeniowych czasu pracy, mo˝e stosowaç okresy rozliczeniowe czasu pracy okreÊlone w art. 129 § 2 i w art. 135 § 2 i 3 po uprzednim zawiadomieniu w∏aÊciwego inspektora pracy.
+§ 2. Pracodawca, u którego nie działa zakładowa organizacja związkowa, a także pracodawca, u którego zakładowa organizacja związkowa nie wyraża zgody na ustalenie lub zmianę systemów irozkładów czasu pracy oraz okresów rozliczeniowych czasu pracy, może stosować okresy rozliczeniowe czasu pracy określone w art. 129 § 2 i w art. 135 § 2 i 3 po uprzednim zawiadomieniu właściwego inspektora pracy.
 
-§ 3. Zastosowanie do pracownika systemów czasu pracy, októrych mowa w art. 143 i 144, nast´puje na podstawie umowy o prac´.
+§ 3. Zastosowanie do pracownika systemów czasu pracy, októrych mowa w art. 143 i 144, następuje na podstawie umowy o pracę.
 
-§ 4. Do obwieszczenia, o którym mowa w§ 1, stosuje si´ odpowiednio art. 104 . Rozdzia∏ V Praca w godzinach nadliczbowych
+§ 4. Do obwieszczenia, o którym mowa w§ 1, stosuje się odpowiednio art. 104 .
+
+#### Rozdział V Praca w godzinach nadliczbowych
 
 **Art. 151.**
 
-§ 1. Praca wykonywana ponad obowiàzujàce pracownika normy nywana ponad przed∏u˝ony dobowy wymiar czasu pracy, wynikajàcy z obowiàzujàcego pracownika systemu i rozk∏adu czasu pracy, stanowi prac´ w godzinach nadliczbowych. Praca wgodzinach nadliczbowych jest dopuszczalna w razie:
+§ 1. Praca wykonywana ponad obowiązujące pracownika normy nywana ponad przedłużony dobowy wymiar czasu pracy, wynikający z obowiązującego pracownika systemu i rozkładu czasu pracy, stanowi pracę w godzinach nadliczbowych. Praca wgodzinach nadliczbowych jest dopuszczalna w razie:
 
-- **1)** koniecznoÊci prowadzenia akcji ratowniczej wcelu ochrony ˝ycia lub zdrowia ludzkiego, ochrony mienia lub Êrodowiska albo usuni´cia awarii,
+- **1)** konieczności prowadzenia akcji ratowniczej wcelu ochrony życia lub zdrowia ludzkiego, ochrony mienia lub środowiska albo usunięcia awarii,
 - **2)** szczególnych potrzeb pracodawcy.
 
-§ 2. Przepisu § 1 pkt 2 nie stosuje si´ do pracowników zatrudnionych na stanowiskach pracy, na których wyst´pujà przekroczenia najwy˝szych dopuszczalnych st´˝eƒ lub nat´˝eƒ czynników szkoczasu pracy, a tak˝e praca wykodliwych dla zdrowia.
+§ 2. Przepisu § 1 pkt 2 nie stosuje się do pracowników zatrudnionych na stanowiskach pracy, na których występują przekroczenia najwyższych dopuszczalnych stężeń lub natężeń czynników szkoczasu pracy, a także praca wykodliwych dla zdrowia.
 
-§ 3. Liczba godzin nadliczbowych przepracowanych w zwiàzku z okolicznoÊciami okreÊlonymi w § 1 pkt 2 nie mo˝e przekroczyç dla poszczególnego pracownika 150 godzin w roku kalendarzowym.
+§ 3. Liczba godzin nadliczbowych przepracowanych w związku z okolicznościami określonymi w § 1 pkt 2 nie może przekroczyć dla poszczególnego pracownika 150 godzin w roku kalendarzowym.
 
-§ 4. W uk∏adzie zbiorowym pracy lub wregulaminie pracy albo wumowie o prac´, je˝eli pracodawca nie jest obj´ty uk∏adem zbiorowym pracy lub nie jest obowiàzany do ustalenia regulaminu pracy, jest dopuszczalne ustalenie innej liczby godzin nadliczbowych w roku kalendarzowym ni˝ okreÊlona w§ 3.
+§ 4. W układzie zbiorowym pracy lub wregulaminie pracy albo wumowie o pracę, jeżeli pracodawca nie jest objęty układem zbiorowym pracy lub nie jest obowiązany do ustalenia regulaminu pracy, jest dopuszczalne ustalenie innej liczby godzin nadliczbowych w roku kalendarzowym niż określona w§ 3.
 
-§ 5. Strony ustalajà wumowie oprac´ dopuszczalnà liczb´ godzin pracy ponad okreÊlony w umowie wymiar czasu pracy pracownika zatrudnionego wniepe∏nym wymiarze czasu pracy, których przekroczenie uprawnia pracownika, oprócz normalnego wynagrodzenia, do dodatku do wynagrodzenia, o którym mowa w art. 151 § 1.
+§ 5. Strony ustalają wumowie opracę dopuszczalną liczbę godzin pracy ponad określony w umowie wymiar czasu pracy pracownika zatrudnionego wniepełnym wymiarze czasu pracy, których przekroczenie uprawnia pracownika, oprócz normalnego wynagrodzenia, do dodatku do wynagrodzenia, o którym mowa w art. 151 § 1.
 
 **Art. 151¹.**
 
-§ 1. Za prac´ w godzinach nadliczbowych, oprócz normalnego wynagrodzenia, przys∏uguje dodatek w wysokoÊci:
+§ 1. Za pracę w godzinach nadliczbowych, oprócz normalnego wynagrodzenia, przysługuje dodatek w wysokości:
 
-- **1)** 100 % wynagrodzenia za prac´ w godzinach nadliczbowych przypadajàcych:
+- **1)** 100 % wynagrodzenia za pracę w godzinach nadliczbowych przypadających:
     - **a)** w nocy,
-    - **b)** w niedziele i Êwi´ta nieb´dàce dla pracownika dniami pracy, zgodnie z obowiàzujàcym go rozk∏adem czasu pracy,
-    - **c)** w dniu wolnym od pracy udzielonym pracownikowi w zamian za prac´ w niedziel´ lub wÊwi´to, zgodnie z obowiàzujàcym go rozk∏adem czasu pracy,
+    - **b)** w niedziele i święta niebędące dla pracownika dniami pracy, zgodnie z obowiązującym go rozkładem czasu pracy,
+    - **c)** w dniu wolnym od pracy udzielonym pracownikowi w zamian za pracę w niedzielę lub wświęto, zgodnie z obowiązującym go rozkładem czasu pracy,
 
-- **2)** 50 % wynagrodzenia za prac´ w godzinach nadliczbowych przypadajàcych w ka˝dym innym dniu ni˝ okreÊlony w pkt 1.
+- **2)** 50 % wynagrodzenia za pracę w godzinach nadliczbowych przypadających w każdym innym dniu niż określony w pkt 1.
 
-§ 2. Dodatek w wysokoÊci okreÊlonej w § 1 pkt 1 przys∏uguje tak˝e za ka˝dà godzin´ pracy nadliczbowej z tytu∏u przekroczenia przeci´tnej tygodniowej normy czasu pracy w przyj´tym okresie rozliczeniowym, chyba ˝e przekroczenie tej normy nastàpi∏o wwyniku pracy w godzinach nadliczbowych, za które pracownikowi przys∏uguje prawo do dodatku w wysokoÊci okreÊlonej w § 1.
+§ 2. Dodatek w wysokości określonej w § 1 pkt 1 przysługuje także za każdą godzinę pracy nadliczbowej z tytułu przekroczenia przeciętnej tygodniowej normy czasu pracy w przyjętym okresie rozliczeniowym, chyba że przekroczenie tej normy nastąpiło wwyniku pracy w godzinach nadliczbowych, za które pracownikowi przysługuje prawo do dodatku w wysokości określonej w § 1.
 
-§ 3. Wynagrodzenie stanowiàce podstaw´ obliczania dodatku, o którym mowa w § 1, obejmuje wynagrodzenie pracownika wynikajàce z jego osobistego zaszeregowania okreÊlonego stawkà godzinowà lub miesi´cznà, a je˝eli taki sk∏adnik wynagrodzenia nie zosta∏ wyodr´bniony przy okreÊlaniu warunków wynagradzania 60 % wynagrodzenia.
+§ 3. Wynagrodzenie stanowiące podstawę obliczania dodatku, o którym mowa w § 1, obejmuje wynagrodzenie pracownika wynikające z jego osobistego zaszeregowania określonego stawką godzinową lub miesięczną, a jeżeli taki składnik wynagrodzenia nie został wyodrębniony przy określaniu warunków wynagradzania 60 % wynagrodzenia.
 
-§ 4. Wstosunku do pracowników wykonujàcych stale prac´ poza zak∏adem pracy wynagrodzenie wraz z dodatkiem, o którym mowa w § 1, mo˝e byç zastàpione rycza∏tem, którego wysokoÊç powinna odpowiadaç przewidywanemu wymiarowi pracy wgodzinach nadliczbowych.
+§ 4. Wstosunku do pracowników wykonujących stale pracę poza zakładem pracy wynagrodzenie wraz z dodatkiem, o którym mowa w § 1, może być zastąpione ryczałtem, którego wysokość powinna odpowiadać przewidywanemu wymiarowi pracy wgodzinach nadliczbowych.
 
 **Art. 151².**
 
-§ 1. Wzamian za czas przepracowany w godzinach nadliczbowych pracodawca, na pisemny wniosek pracownika, mo˝e udzieliç mu w tym samym wymiarze czasu wolnego od pracy.
+§ 1. Wzamian za czas przepracowany w godzinach nadliczbowych pracodawca, na pisemny wniosek pracownika, może udzielić mu w tym samym wymiarze czasu wolnego od pracy.
 
-§ 2. Udzielenie czasu wolnego w zamian za czas przepracowany w godzinach nadliczbowych mo˝e nastàpiç tak˝e bez wniosku pracownika. W takim przypadku pracodawca udziela czasu wolnego od pracy, najpóêniej do koƒca okresu rozliczeniowego, ni˝ liczba przepracowanych godzin nadliczbowych, jednak˝e nie mo˝e to spowodowaç obni˝enia wynagrodzenia nale˝nego pracownikowi za pe∏ny miesi´czny wymiar czasu pracy.
+§ 2. Udzielenie czasu wolnego w zamian za czas przepracowany w godzinach nadliczbowych może nastąpić także bez wniosku pracownika. W takim przypadku pracodawca udziela czasu wolnego od pracy, najpóêniej do końca okresu rozliczeniowego, niż liczba przepracowanych godzin nadliczbowych, jednakże nie może to spowodować obniżenia wynagrodzenia należnego pracownikowi za pełny miesięczny wymiar czasu pracy.
 
-§ 3. Wprzypadkach okreÊlonych w§ 1 i 2 pracownikowi nie przys∏uguje dodatek za prac´ w godzinach nadliczbowych. Art. 151 w wymiarze o po∏ow´ wy˝szym . Pracownikowi, który ze wzgl´du na okolicznoÊci przewidziane w art. 151 § 1 wykonywa∏ prac´ wdniu wolnym od pracy wynikajàcym zrozk∏adu czasu pracy w przeci´tnie pi´ciodniowym tygodniu pracy, przys∏uguje w zamian inny dzieƒ wolny od pracy udzielony pracownikowi do koƒca okresu rozliczeniowego, w terminie z nim uzgodnionym.
+§ 3. Wprzypadkach określonych w§ 1 i 2 pracownikowi nie przysługuje dodatek za pracę w godzinach nadliczbowych. Art. 151 w wymiarze o połowę wyższym . Pracownikowi, który ze względu na okoliczności przewidziane w art. 151 § 1 wykonywał pracę wdniu wolnym od pracy wynikającym zrozkładu czasu pracy w przeciętnie pięciodniowym tygodniu pracy, przysługuje w zamian inny dzień wolny od pracy udzielony pracownikowi do końca okresu rozliczeniowego, w terminie z nim uzgodnionym.
 
 **Art. 151⁴.**
 
-§ 1. Pracownicy zarzàdzajàcy w imieniu pracodawcy zak∏adem pracy i kierownicy wyodr´bnionych komórek organizacyjnych wykonujà, w razie koniecznoÊci, prac´ poza normalnymi godzinami pracy bez prawa do wynagrodzenia oraz dodatku ztytu∏u pracy wgodzinach nadliczbowych, zzastrze˝eniem § 2.
+§ 1. Pracownicy zarządzający w imieniu pracodawcy zakładem pracy i kierownicy wyodrębnionych komórek organizacyjnych wykonują, w razie konieczności, pracę poza normalnymi godzinami pracy bez prawa do wynagrodzenia oraz dodatku ztytułu pracy wgodzinach nadliczbowych, zzastrzeżeniem § 2.
 
-§ 2. Kierownikom wyodr´bnionych komórek organizacyjnych za prac´ w godzinach nadliczbowych przypadajàcych w niedziel´ i Êwi´to przys∏uguje prawo do wynagrodzenia oraz dodatku z tytu∏u pracy w godzinach nadliczbowych wwysokoÊci okreÊlonej w art. 151 § 1, je˝eli w zamian za prac´ w takim dniu nie otrzymali innego dnia wolnego od pracy.
+§ 2. Kierownikom wyodrębnionych komórek organizacyjnych za pracę w godzinach nadliczbowych przypadających w niedzielę i święto przysługuje prawo do wynagrodzenia oraz dodatku z tytułu pracy w godzinach nadliczbowych wwysokości określonej w art. 151 § 1, jeżeli w zamian za pracę w takim dniu nie otrzymali innego dnia wolnego od pracy.
 
 **Art. 151⁵.**
 
-§ 1. Pracodawca mo˝e zobowiàzaç pracownika do pozostawania poza normalnymi godzinami pracy w gotowoÊci do wykonywania pracy wynikajàcej z umowy o prac´ w zak∏adzie pracy lub w innym miejscu wyznaczonym przez pracodawc´ (dy˝ur).
+§ 1. Pracodawca może zobowiązać pracownika do pozostawania poza normalnymi godzinami pracy w gotowości do wykonywania pracy wynikającej z umowy o pracę w zakładzie pracy lub w innym miejscu wyznaczonym przez pracodawcę (dyżur).
 
-§ 2. Czasu dy˝uru nie wlicza si´ do czasu pracy, je˝eli podczas dy˝uru pracownik nie wykonywa∏ pracy. Czas pe∏nienia dy˝uru nie mo˝e naruszaç prawa pracownika do odpoczynku, októrym mowa w art. 132 i 133.
+§ 2. Czasu dyżuru nie wlicza się do czasu pracy, jeżeli podczas dyżuru pracownik nie wykonywał pracy. Czas pełnienia dyżuru nie może naruszać prawa pracownika do odpoczynku, októrym mowa w art. 132 i 133.
 
-§ 3. Za czas dy˝uru, z wyjàtkiem dy˝uru pe∏nionego w domu, pracownikowi przys∏uguje czas wolny od pracy w wymiarze odpowiadajàcym d∏ugoÊci dy˝uru, a w razie braku mo˝liwoÊci udzielenia czasu wolnego wynagrodzenie wynikajàce z jego osobistego zaszeregowania, okreÊlonego stawkà godzinowà lub miesi´cznà, a je˝eli taki sk∏adnik wynagrodzenia nie zosta∏ wyodr´bniony przy okreÊlaniu warunków wynagradzania 60 % wynagrodzenia.
+§ 3. Za czas dyżuru, z wyjątkiem dyżuru pełnionego w domu, pracownikowi przysługuje czas wolny od pracy w wymiarze odpowiadającym długości dyżuru, a w razie braku możliwości udzielenia czasu wolnego wynagrodzenie wynikające z jego osobistego zaszeregowania, określonego stawką godzinową lub miesięczną, a jeżeli taki składnik wynagrodzenia nie został wyodrębniony przy określaniu warunków wynagradzania 60 % wynagrodzenia.
 
-§ 4. Przepisu § 2 zdanie drugie oraz § 3 nie stosuje si´ do pracowników zarzàdzajàcych w imieniu pracodawcy zak∏adem pracy.
+§ 4. Przepisu § 2 zdanie drugie oraz § 3 nie stosuje się do pracowników zarządzających w imieniu pracodawcy zakładem pracy.
 
 **Art. 151⁶.**
 
-§ 1. W razie ustania stosunku pracy przed up∏ywem okresu rozliczeniowego pracownikowi przys∏uguje, oprócz normalnego wynagrodzenia, prawo do dodatku, o którym mowa w art. 151 § 1, je˝eli wokresie od poczàtku okresu rozliczeniowego do dnia ustania stosunku pracy pracowa∏ w wymiarze godzin przekraczajàcym normy czasu pracy, o których mowa w art. 129.
+§ 1. W razie ustania stosunku pracy przed upływem okresu rozliczeniowego pracownikowi przysługuje, oprócz normalnego wynagrodzenia, prawo do dodatku, o którym mowa w art. 151 § 1, jeżeli wokresie od początku okresu rozliczeniowego do dnia ustania stosunku pracy pracował w wymiarze godzin przekraczającym normy czasu pracy, o których mowa w art. 129.
 
-§ 2. Przepis § 1 stosuje si´ odpowiednio w razie nawiàzania stosunku pracy w trakcie okresu rozliczeniowego. Rozdzia∏ VI Praca w porze nocnej
+§ 2. Przepis § 1 stosuje się odpowiednio w razie nawiązania stosunku pracy w trakcie okresu rozliczeniowego.
+
+#### Rozdział VI Praca w porze nocnej
 
 **Art. 151⁷.**
 
-§ 1. Pora nocna obejmuje 8 godzin mi´dzy godzinami 21.00 a 7.00.
+§ 1. Pora nocna obejmuje 8 godzin między godzinami 21.00 a 7.00.
 
-§ 2. Pracownik, którego rozk∏ad czasu pracy obejmuje w ka˝dej dobie co najmniej 3 godziny pracy w porze nocnej lub którego co najmniej 1/4 czasu pracy w okrenego pracodawcy, oraz po zasi´gni´ciu opinii lekarza sprawujàcego profilaktycznà opiek´ zdrowotnà nad pracownikami, uwzgl´dniajàc koniecznoÊç zapewnienia bezpieczeƒstwa pracy i ochrony zdrowia pracowników.
+§ 2. Pracownik, którego rozkład czasu pracy obejmuje w każdej dobie co najmniej 3 godziny pracy w porze nocnej lub którego co najmniej 1/4 czasu pracy w okrenego pracodawcy, oraz po zasięgnięciu opinii lekarza sprawującego profilaktyczną opiekę zdrowotną nad pracownikami, uwzględniając konieczność zapewnienia bezpieczeństwa pracy i ochrony zdrowia pracowników.
 
 § 5. Przepis § 3 nie dotyczy:
 
-- **1)** pracowników zarzàdzajàcych w imieniu pracodawcy zak∏adem pracy,
-- **2)** przypadków koniecznoÊci prowadzenia akcji ratowniczej wcelu ochrony ˝ycia lub zdrowia ludzkiego, ochrony mienia lub Êrodowiska albo usuni´cia awarii.
+- **1)** pracowników zarządzających w imieniu pracodawcy zakładem pracy,
+- **2)** przypadków konieczności prowadzenia akcji ratowniczej wcelu ochrony życia lub zdrowia ludzkiego, ochrony mienia lub środowiska albo usunięcia awarii.
 
-§ 6. Na pisemny wniosek pracownika, októrym mowa w§ 2, pracodawca informuje w∏aÊciwego inspektora pracy o zatrudnianiu pracowników pracujàcych w nocy. Art. 151 sie rozliczeniowym przypada na por´ nocnà, jest pracujàcym w nocy.
+§ 6. Na pisemny wniosek pracownika, októrym mowa w§ 2, pracodawca informuje właściwego inspektora pracy o zatrudnianiu pracowników pracujących w nocy. Art. 151 sie rozliczeniowym przypada na porę nocną, jest pracującym w nocy.
 
-§ 3. Czas pracy pracujàcego w nocy nie mo˝e przekraczaç 8 godzin na dob´, je˝eli wykonuje prace szczególnie niebezpieczne albo zwiàzane z du˝ym wysi∏kiem fizycznym lub umys∏owym.
+§ 3. Czas pracy pracującego w nocy nie może przekraczać 8 godzin na dobę, jeżeli wykonuje prace szczególnie niebezpieczne albo związane z dużym wysiłkiem fizycznym lub umysłowym.
 
-§ 4. Wykaz prac, o których mowa w§ 3, okreÊla pracodawca wporozumieniu z zak∏adowà organizacjà zwiàzkowà, aje˝eli upracodawcy nie dzia∏a zak∏adowa organizacja zwiàzkowa z przedstawicielami pracowników wybranymi wtrybie przyj´tym uda. § 1. Pracownikowi wykonujàcemu prac´ wporze nocnej przys∏uguje dodatek do wynagrodzenia za ka˝dà godzin´ pracy wporze nocnej w wysokoÊci 20 % stawki godzinowej wynikajàcej z minimalnego wynagrodzenia za prac´, ustalanego na podstawie odr´bnych przepisów.
+§ 4. Wykaz prac, o których mowa w§ 3, określa pracodawca wporozumieniu z zakładową organizacją związkową, ajeżeli upracodawcy nie działa zakładowa organizacja związkowa z przedstawicielami pracowników wybranymi wtrybie przyjętym uda. § 1. Pracownikowi wykonującemu pracę wporze nocnej przysługuje dodatek do wynagrodzenia za każdą godzinę pracy wporze nocnej w wysokości 20 % stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę, ustalanego na podstawie odrębnych przepisów.
 
-§ 2. Wstosunku do pracowników wykonujàcych prac´ wporze nocnej stale poza zak∏adem pracy dodatek, o którym mowa w § 1, mo˝e byç zastàpiony rycza∏tem, którego wysokoÊç odpowiada przewidywanemu wymiarowi pracy w porze nocnej. Rozdzia∏ VII Praca w niedziele i Êwi´ta
+§ 2. Wstosunku do pracowników wykonujących pracę wporze nocnej stale poza zakładem pracy dodatek, o którym mowa w § 1, może być zastąpiony ryczałtem, którego wysokość odpowiada przewidywanemu wymiarowi pracy w porze nocnej.
+
+#### Rozdział VII Praca w niedziele i święta
 
 **Art. 151⁹.**
 
-§ 1. Dniami wolnymi od pracy sà niedziele iÊwi´ta okreÊlone wprzepisach odniach wolnych od pracy.
+§ 1. Dniami wolnymi od pracy są niedziele iświęta określone wprzepisach odniach wolnych od pracy.
 
-§ 2. Za prac´ w niedziel´ i Êwi´to uwa˝a si´ prac´ wykonywanà mi´dzy godzinà 6.00 w tym dniu a godzinà 6.00 w nast´pnym dniu, chyba ˝e u danego pracodawcy zosta∏a ustalona inna godzina.
+§ 2. Za pracę w niedzielę i święto uważa się pracę wykonywaną między godziną 6.00 w tym dniu a godziną 6.00 w następnym dniu, chyba że u danego pracodawcy została ustalona inna godzina.
 
-**Art. 151¹⁰.** Praca w niedziele i Êwi´ta jest dozwolona:
+**Art. 151¹⁰.** Praca w niedziele i święta jest dozwolona:
 
 **Art. 151¹¹.**
 
-§ 1. Pracownikowi wykonujàcemu prac´ w niedziele i Êwi´ta, wprzypadkach, októrych mowa w art. 151 pkt 1—9, pracodawca jest obowiàzany zapewniç inny dzieƒ wolny od pracy:
+§ 1. Pracownikowi wykonującemu pracę w niedziele i święta, wprzypadkach, októrych mowa w art. 151 pkt 1—9, pracodawca jest obowiązany zapewnić inny dzień wolny od pracy:
 
-- **1)** w zamian za prac´ w niedziel´ wokresie 6 dni kalenda§ 2. Je˝eli nie jest mo˝liwe wykorzystanie w terminie wskazanym w § 1 pkt 1 dnia wolnego od pracy w zamian za prac´ w niedziel´, pracownikowi przys∏uguje dzieƒ wolny od pracy do koƒca okresu rozliczeniowego, a w razie braku mo˝liwoÊci udzielenia dnia wolnego od pracy w tym terminie dodatek do wynagrodzenia w wysokoÊci okreÊlonej w art. 151 rzowych poprzedzajàcych lub nast´pujàcych po takiej niedzieli,
-- **2)** w zamian za prac´ w Êwi´to wciàgu okresu rozliczeniowego. § 1 pkt 1, za ka˝dà godzin´ pracy w niedziel´.
+- **1)** w zamian za pracę w niedzielę wokresie 6 dni kalenda§ 2. Jeżeli nie jest możliwe wykorzystanie w terminie wskazanym w § 1 pkt 1 dnia wolnego od pracy w zamian za pracę w niedzielę, pracownikowi przysługuje dzień wolny od pracy do końca okresu rozliczeniowego, a w razie braku możliwości udzielenia dnia wolnego od pracy w tym terminie dodatek do wynagrodzenia w wysokości określonej w art. 151 rzowych poprzedzających lub następujących po takiej niedzieli,
+- **2)** w zamian za pracę w święto wciągu okresu rozliczeniowego. § 1 pkt 1, za każdą godzinę pracy w niedzielę.
 
-§ 3. Je˝eli nie jest mo˝liwe wykorzystanie w terminie wskazanym w§ 1 pkt 2 dnia wolnego od pracy w zamian za prac´ w Êwi´to, pracownikowi przys∏uguje dodatek do wynagrodzenia w wysokoÊci okreÊlonej w art. 151 § 1 pkt 1, za ka˝dà godzin´ pracy w Êwi´to.
+§ 3. Jeżeli nie jest możliwe wykorzystanie w terminie wskazanym w§ 1 pkt 2 dnia wolnego od pracy w zamian za pracę w święto, pracownikowi przysługuje dodatek do wynagrodzenia w wysokości określonej w art. 151 § 1 pkt 1, za każdą godzinę pracy w święto.
 
-§ 4. Do pracy wÊwi´to przypadajàce w niedziel´ stosuje si´ przepisy dotyczàce pracy w niedziel´.
+§ 4. Do pracy wświęto przypadające w niedzielę stosuje się przepisy dotyczące pracy w niedzielę.
 
-**Art. 151¹².** Pracownik pracujàcy w niedziele powinien korzystaç co najmniej raz na 4 tygodnie zniedzieli wolnej od pracy. Nie dotyczy to pracownika zatrudnionego wsystemie czasu pracy, o którym mowa w art. 144.”;
+**Art. 151¹².** Pracownik pracujący w niedziele powinien korzystać co najmniej raz na 4 tygodnie zniedzieli wolnej od pracy. Nie dotyczy to pracownika zatrudnionego wsystemie czasu pracy, o którym mowa w art. 144.”;
 
 **Art. 186².**
 
-§ 1. W czasie urlopu wychowawczego pracownik ma prawo podjàç prac´ zarobkowà u dotychczasowego lub innego pracodawcy albo innà dzia∏alnoÊç, a tak˝e nauk´ lub szkolenie, je˝eli nie wy∏àcza to mo˝liwoÊci sprawowania osobistej opieki nad dzieckiem.
+§ 1. W czasie urlopu wychowawczego pracownik ma prawo podjąć pracę zarobkową u dotychczasowego lub innego pracodawcy albo inną działalność, a także naukę lub szkolenie, jeżeli nie wyłącza to możliwości sprawowania osobistej opieki nad dzieckiem.
 
-§ 2. W razie ustalenia, ˝e pracownik trwale zaprzesta∏ sprawowania osobistej opieki nad dzieckiem, pracodawca wzywa pracownika do stawienia si´ do pracy w terminie przez siebie wskazanym, nie póêniej jednak ni˝ w ciàgu 30 dni od dnia powzi´cia takiej wiadomoÊci inie wczeÊniej ni˝ po up∏ywie 3 dni od dnia wezwania.
+§ 2. W razie ustalenia, że pracownik trwale zaprzestał sprawowania osobistej opieki nad dzieckiem, pracodawca wzywa pracownika do stawienia się do pracy w terminie przez siebie wskazanym, nie póêniej jednak niż w ciągu 30 dni od dnia powzięcia takiej wiadomości inie wcześniej niż po upływie 3 dni od dnia wezwania.
 
-§ 3. Przepis § 2 stosuje si´ tak˝e wrazie stwierdzenia przez pracodawc´, ˝e z urlopu wychowawczego korzystajà w tym samym czasie oboje rodzice lub opiekunowie dziecka; nie dotyczy to przypadku okreÊlonego w art. 186 § 3.
+§ 3. Przepis § 2 stosuje się także wrazie stwierdzenia przez pracodawcę, że z urlopu wychowawczego korzystają w tym samym czasie oboje rodzice lub opiekunowie dziecka; nie dotyczy to przypadku określonego w art. 186 § 3.
 
-**Art. 186³.** Pracownik mo˝e zrezygnowaç z urlopu wychowawczego:
+**Art. 186³.** Pracownik może zrezygnować z urlopu wychowawczego:
 
-**Art. 186⁴.** Pracodawca dopuszcza pracownika po zakoƒczeniu urlopu wychowawczego do pracy na dotychczasowym stanowisku, a je˝eli nie jest to mo˝liwe, na stanowisku równorz´dnym zzajmowanym przed rozpocz´ciem urlopu lub na innym stanowisku odpowiadajàcym jego kwalifikacjom zawodowym, za wynagrodzeniem nie ni˝szym od wynagrodzenia za prac´ przys∏ugujàcego pracownikowi wdniu podj´cia pracy na stanowisku zajmowanym przed tym urlopem.
+**Art. 186⁴.** Pracodawca dopuszcza pracownika po zakończeniu urlopu wychowawczego do pracy na dotychczasowym stanowisku, a jeżeli nie jest to możliwe, na stanowisku równorzędnym zzajmowanym przed rozpoczęciem urlopu lub na innym stanowisku odpowiadającym jego kwalifikacjom zawodowym, za wynagrodzeniem nie niższym od wynagrodzenia za pracę przysługującego pracownikowi wdniu podjęcia pracy na stanowisku zajmowanym przed tym urlopem.
 
-**Art. 186⁵.** Okres urlopu wychowawczego, w dniu jego zakoƒczenia, wlicza si´ do okresu zatrudnienia, od którego zale˝à uprawnienia pracownicze.
+**Art. 186⁵.** Okres urlopu wychowawczego, w dniu jego zakończenia, wlicza się do okresu zatrudnienia, od którego zależą uprawnienia pracownicze.
 
-**Art. 186⁶.** Minister w∏aÊciwy do spraw pracy okreÊli, w drodze rozporzàdzenia, szczegó∏owe warunki udzielania urlopu wychowawczego, w tym form´ i termin z∏o˝enia wniosku w sprawie udzielenia urlopu, bioràc pod uwag´ wymagania dotyczàce zapewnienia normalnego toku pracy wzak∏adzie pracy, oraz dodatkowe wymagania dotyczàce wniosku o udzielenie urlopu wychowawczego, w przypadkach okreÊlonych w art. 186 § 2 i 3.
+**Art. 186⁶.** Minister właściwy do spraw pracy określi, w drodze rozporządzenia, szczegółowe warunki udzielania urlopu wychowawczego, w tym formę i termin złożenia wniosku w sprawie udzielenia urlopu, biorąc pod uwagę wymagania dotyczące zapewnienia normalnego toku pracy wzakładzie pracy, oraz dodatkowe wymagania dotyczące wniosku o udzielenie urlopu wychowawczego, w przypadkach określonych w art. 186 § 2 i 3.
 
-**Art. 186⁷.** Pracownik uprawniony do urlopu wychowawczego mo˝e z∏o˝yç pracodawcy wniosek oobni˝enie jego wymiaru czasu pracy do wymiaru nie ni˝szego ni˝ po∏owa pe∏nego wymiaru czasu pracy wokresie, wktórym móg∏by korzystaç ztakiego urlopu. Pracodawca jest obowiàzany uwzgl´dniç wniosek pracownika.”;
+**Art. 186⁷.** Pracownik uprawniony do urlopu wychowawczego może złożyć pracodawcy wniosek oobniżenie jego wymiaru czasu pracy do wymiaru nie niższego niż połowa pełnego wymiaru czasu pracy wokresie, wktórym mógłby korzystać ztakiego urlopu. Pracodawca jest obowiązany uwzględnić wniosek pracownika.”;
 
 **Art. 237¹².**
 
-§ 1. Pracodawca zatrudniajàcy wi´cej ni˝ 250 pracowników powo∏uje komisj´ bezpieczeƒstwa ihigieny pracy, zwanà dalej „komisjà bhp”, jako swój organ doradczy i opiniodawczy. W sk∏ad komisji bhp wchodzà w równej liczbie przedstawiciele pracodawcy, w tym pracownicy s∏u˝by bhp i lekarz sprawujàcy profilaktycznà opiek´ zdrowotnà nad pracownikami, oraz przedstawiciele pracowników, w tym spo∏eczny inspektor pracy.
+§ 1. Pracodawca zatrudniający więcej niż 250 pracowników powołuje komisję bezpieczeństwa ihigieny pracy, zwaną dalej Ńkomisją bhp”, jako swój organ doradczy i opiniodawczy. W skład komisji bhp wchodzą w równej liczbie przedstawiciele pracodawcy, w tym pracownicy służby bhp i lekarz sprawujący profilaktyczną opiekę zdrowotną nad pracownikami, oraz przedstawiciele pracowników, w tym społeczny inspektor pracy.
 
-§ 2. Przewodniczàcym komisji bhp jest pracodawca lub osoba przez niego upowa˝niona, awiceprzewodniczàcym spo∏eczny inspektor pracy lub przedstawiciel pracowników. Art. 237 13 nie zpracodawcà wrealizacji jego obowiàzków w zakresie bezpieczeƒstwa ihigieny pracy.
+§ 2. Przewodniczącym komisji bhp jest pracodawca lub osoba przez niego upoważniona, awiceprzewodniczącym społeczny inspektor pracy lub przedstawiciel pracowników. Art. 237 13 nie zpracodawcą wrealizacji jego obowiązków w zakresie bezpieczeństwa ihigieny pracy.
 
-§ 2. Posiedzenia komisji bhp odbywajà si´ w godzinach pracy, nie rzadziej ni˝ raz na kwarta∏. Za czas nieprzepracowany wzwiàzku z udzia∏em w posiedzeniach komisji bhp pracownik zachowuje prawo do wynagrodzenia.
+§ 2. Posiedzenia komisji bhp odbywają się w godzinach pracy, nie rzadziej niż raz na kwartał. Za czas nieprzepracowany wzwiązku z udziałem w posiedzeniach komisji bhp pracownik zachowuje prawo do wynagrodzenia.
 
-§ 3. Komisja bhp wzwiàzku zwykonywaniem zadaƒ wymienionych w § 1 korzysta z ekspertyz lub opinii specjalistów spoza zak∏adu pracy w przypadkach uzgodnionych z pracodawcà i na jego koszt.
+§ 3. Komisja bhp wzwiązku zwykonywaniem zadań wymienionych w § 1 korzysta z ekspertyz lub opinii specjalistów spoza zakładu pracy w przypadkach uzgodnionych z pracodawcą i na jego koszt.
 
 **Art. 237.**
 
-§ 1. Zadaniem komisji bhp jest dokonywanie przeglàdu warunków pracy, okresowej oceny stanu bezpieczeƒstwa i higieny pracy, opiniowanie podejmowanych przez pracodawc´ Êrodków zapobiegajàcych wypadkom przy pracy i chorobom zawodowym, formu∏owanie wniosków dotyczàcych poprawy warunków pracy oraz wspó∏dzia∏a. Przedstawiciele pracowników, októrych mowa wart. 237 iart. 237 , sà wybierani przez zak∏adowe organizacje zwiàzkowe, a je˝eli u pracodawcy takie organizacje nie dzia∏ajà przez pracowników, w trybie przyj´tym wzak∏adzie pracy.”;
+§ 1. Zadaniem komisji bhp jest dokonywanie przeglądu warunków pracy, okresowej oceny stanu bezpieczeństwa i higieny pracy, opiniowanie podejmowanych przez pracodawcę środków zapobiegających wypadkom przy pracy i chorobom zawodowym, formułowanie wniosków dotyczących poprawy warunków pracy oraz współdziała. Przedstawiciele pracowników, októrych mowa wart. 237 iart. 237 , są wybierani przez zakładowe organizacje związkowe, a jeżeli u pracodawcy takie organizacje nie działają przez pracowników, w trybie przyjętym wzakładzie pracy.”;
 
-- **66)** w art. 241 § 5 otrzymuje brzmienie: „§ 5 . Wrazie stwierdzenia, ˝e uk∏ad zosta∏ zawarty z naruszeniem przepisów o zawieraniu uk∏adów zbiorowych pracy, organ rejestrujàcy wzywa strony uk∏adu do usuni´cia tych nieprawid∏owoÊci, chyba ˝e ich usuni´cie nie jest mo˝liwe.”;
-- **67)** w art. 241 § 2 otrzymuje brzmienie: „§ 2. Uk∏ad zak∏adowy nie mo˝e okreÊlaç warunków wynagradzania pracowników zarzàdzajàcych w imieniu pracodawcy zak∏adem pracy, wrozumieniu art. 128 § 2 pkt 2, oraz osób zarzàdzajàcych zak∏adem pracy na innej podstawie ni˝ stosunek pracy.”;
-- **68)** w art. 281 pkt 2 otrzymuje brzmienie: „2) nie potwierdza na piÊmie zawartej zpracownikiem umowy o prac´,”;
-- **69)** uchyla si´ dzia∏ czternasty ;
-- **70)** uchyla si´ art. 298;
-- **71)** art. 304 otrzymuje brzmienie: „Art. 304 . Obowiàzki, o których mowa w art. 211, w zakresie okreÊlonym przez pracodawc´, cià˝à równie˝ na osobach fizycznych wykonujàcych prac´ na innej podstawie ni˝ stosunek pracy w zak∏adzie pracy lub wmiejscu wyznaczonym przez pracodawc´.”;
-- **72)** po art. 304 dodaje si´ art. 304 w brzmieniu: „Art. 304 . § 1. Wykonywanie pracy lub innych zaj´ç zarobkowych przez dziecko do ukoƒczenia przez nie 16 roku ˝ycia jest dozwolone wy∏àcznie na rzecz podmiotu prowadzàcego dzia∏alnoÊç kulturalnà, artystycznà, sportowà lub reklamowà i wymaga uprzedniej zgody przedstawiciela ustawowego lub opiekuna tego dziecka, a tak˝e zezwolenia w∏aÊciwego inspektora pracy.
+- **66)** w art. 241 § 5 otrzymuje brzmienie: Ń§ 5 . Wrazie stwierdzenia, że układ został zawarty z naruszeniem przepisów o zawieraniu układów zbiorowych pracy, organ rejestrujący wzywa strony układu do usunięcia tych nieprawidłowości, chyba że ich usunięcie nie jest możliwe.”;
+- **67)** w art. 241 § 2 otrzymuje brzmienie: Ń§ 2. Układ zakładowy nie może określać warunków wynagradzania pracowników zarządzających w imieniu pracodawcy zakładem pracy, wrozumieniu art. 128 § 2 pkt 2, oraz osób zarządzających zakładem pracy na innej podstawie niż stosunek pracy.”;
+- **68)** w art. 281 pkt 2 otrzymuje brzmienie: Ń2) nie potwierdza na piśmie zawartej zpracownikiem umowy o pracę,”;
+- **69)** uchyla się dział czternasty ;
+- **70)** uchyla się art. 298;
+- **71)** art. 304 otrzymuje brzmienie: ŃArt. 304 . Obowiązki, o których mowa w art. 211, w zakresie określonym przez pracodawcę, ciążą również na osobach fizycznych wykonujących pracę na innej podstawie niż stosunek pracy w zakładzie pracy lub wmiejscu wyznaczonym przez pracodawcę.”;
+- **72)** po art. 304 dodaje się art. 304 w brzmieniu: ŃArt. 304 . § 1. Wykonywanie pracy lub innych zajęć zarobkowych przez dziecko do ukończenia przez nie 16 roku życia jest dozwolone wyłącznie na rzecz podmiotu prowadzącego działalność kulturalną, artystyczną, sportową lub reklamową i wymaga uprzedniej zgody przedstawiciela ustawowego lub opiekuna tego dziecka, a także zezwolenia właściwego inspektora pracy.
 
-§ 2. W∏aÊciwy inspektor pracy wydaje zezwolenie, o którym mowa w § 1, na wniosek podmiotu okreÊlonego w tym przepisie.
+§ 2. Właściwy inspektor pracy wydaje zezwolenie, o którym mowa w § 1, na wniosek podmiotu określonego w tym przepisie.
 
-§ 3. W∏aÊciwy inspektor pracy odmawia wydania zezwolenia, je˝eli wykonywanie pracy lub innych zaj´ç zarobkowych w zakresie przewidzianym w § 1:
+§ 3. Właściwy inspektor pracy odmawia wydania zezwolenia, jeżeli wykonywanie pracy lub innych zajęć zarobkowych w zakresie przewidzianym w § 1:
 
-- **1)** powoduje zagro˝enie dla ˝ycia, zdrowia i rozwoju psychofizycznego dziecka,
-- **2)** zagra˝a wype∏nianiu obowiàzku szkolnego przez dziecko.
+- **1)** powoduje zagrożenie dla życia, zdrowia i rozwoju psychofizycznego dziecka,
+- **2)** zagraża wypełnianiu obowiązku szkolnego przez dziecko.
 
-§ 4. Podmiot, o którym mowa w § 1, do∏àcza do wniosku o wydanie zezwolenia:
+§ 4. Podmiot, o którym mowa w § 1, dołącza do wniosku o wydanie zezwolenia:
 
-- **1)** pisemnà zgod´ przedstawiciela ustawowego lub opiekuna dziecka na wykonywanie przez dziecko pracy lub innych zaj´ç zarobkowych,
-- **2)** opini´ poradni psychologiczno-pedagogicznej dotyczàcà braku przeciwwskazaƒ do wykonywania przez dziecko pracy lub innych zaj´ç zarobkowych,
-- **3)** orzeczenie lekarza stwierdzajàce brak przeciwwskazaƒ do wykonywania przez dziecko pracy lub innych zaj´ç zarobkowych,
-- **4)** je˝eli dziecko podlega obowiàzkowi szkolnemu opini´ dyrektora szko∏y, do której dziecko ucz´szcza, dotyczàcà mo˝liwoÊci wype∏niania przez dziecko tego obowiàzku w czasie wykonywania przez nie pracy lub innych zaj´ç zarobkowych.
+- **1)** pisemną zgodę przedstawiciela ustawowego lub opiekuna dziecka na wykonywanie przez dziecko pracy lub innych zajęć zarobkowych,
+- **2)** opinię poradni psychologiczno-pedagogicznej dotyczącą braku przeciwwskazań do wykonywania przez dziecko pracy lub innych zajęć zarobkowych,
+- **3)** orzeczenie lekarza stwierdzające brak przeciwwskazań do wykonywania przez dziecko pracy lub innych zajęć zarobkowych,
+- **4)** jeżeli dziecko podlega obowiązkowi szkolnemu opinię dyrektora szkoły, do której dziecko uczęszcza, dotyczącą możliwości wypełniania przez dziecko tego obowiązku w czasie wykonywania przez nie pracy lub innych zajęć zarobkowych.
 
-§ 5. Zezwolenie, októrym mowa w§ 1, powinno zawieraç:
+§ 5. Zezwolenie, októrym mowa w§ 1, powinno zawierać:
 
 - **1)** dane osobowe dziecka i jego przedstawiciela ustawowego lub opiekuna,
-- **2)** oznaczenie podmiotu prowadzàcego dzia∏alnoÊç w zakresie przewidzianym w § 1,
-- **3)** okreÊlenie rodzaju pracy lub innych zaj´ç zarobkowych, które mo˝e wykonywaç dziecko,
-- **4)** okreÊlenie dopuszczalnego okrepracy lub innych zaj´ç zarobkowych,
-- **5)** okreÊlenie dopuszczalnego dobowego wymiaru czasu pracy lub innych zaj´ç zarobkowych,
-- **6)** inne niezb´dne ustalenia, wymagane ze wzgl´du na dobro dziecka lub rodzaj, charakter albo warunki wykonywania pracy lub innych zaj´ç zarobkowych przez dziecko.
+- **2)** oznaczenie podmiotu prowadzącego działalność w zakresie przewidzianym w § 1,
+- **3)** określenie rodzaju pracy lub innych zajęć zarobkowych, które może wykonywać dziecko,
+- **4)** określenie dopuszczalnego okrepracy lub innych zajęć zarobkowych,
+- **5)** określenie dopuszczalnego dobowego wymiaru czasu pracy lub innych zajęć zarobkowych,
+- **6)** inne niezbędne ustalenia, wymagane ze względu na dobro dziecka lub rodzaj, charakter albo warunki wykonywania pracy lub innych zajęć zarobkowych przez dziecko.
 
-§ 6. Na wniosek przedstawiciela ustawowego lub opiekuna dziecka w∏aÊciwy inspektor pracy cofa wydane zezwolenie.
+§ 6. Na wniosek przedstawiciela ustawowego lub opiekuna dziecka właściwy inspektor pracy cofa wydane zezwolenie.
 
-§ 7. W∏aÊciwy inspektor pracy cofa wydane zezwolenie z urz´du, je˝eli stwierdzi, ˝e warunki pracy dziecka nie odpowiadajà warunkom okreÊlonym w wydanym zezwoleniu.”.
+§ 7. Właściwy inspektor pracy cofa wydane zezwolenie z urzędu, jeżeli stwierdzi, że warunki pracy dziecka nie odpowiadają warunkom określonym w wydanym zezwoleniu.”.
 
-**Art. 2.** su wykonywania przez dziecko Wustawie zdnia 6 marca 1981 r. oPaƒstwowej Inspekcji Pracy (Dz. U. z 2001 r. 124, poz. 1362, z póên. zm. ) w art. 8 w ust. 1 po pkt 11a dodaje si´ pkt 11b i 11c w brzmieniu: „11b) wydanie zezwolenia i cofni´cie wydanego zezwolenia wprzypadkach, októrych mowa w art. 304 Kodeksu pracy, 11c) realizowanie zadaƒ instytucji w∏aÊciwej do informowania, na pisemny wniosek, o minimalnych warunkach zatrudnienia pracowników, w zakresie wynikajàcym z przepisów dzia∏u drugiego rozdzia∏u IIa Kodeksu pracy,”.
+**Art. 2.** su wykonywania przez dziecko Wustawie zdnia 6 marca 1981 r. oPaństwowej Inspekcji Pracy (Dz. U. z 2001 r. 124, poz. 1362, z póên. zm. ) w art. 8 w ust. 1 po pkt 11a dodaje się pkt 11b i 11c w brzmieniu: Ń11b) wydanie zezwolenia i cofnięcie wydanego zezwolenia wprzypadkach, októrych mowa w art. 304 Kodeksu pracy, 11c) realizowanie zadań instytucji właściwej do informowania, na pisemny wniosek, o minimalnych warunkach zatrudnienia pracowników, w zakresie wynikającym z przepisów działu drugiego rozdziału IIa Kodeksu pracy,”.
 
-**Art. 3.** Wustawie zdnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z2003 r. 118, poz. 1112,Nr 137, poz. 1304 i 203, poz. 1966) po art. 67 dodaje si´ art. 67a—67cwbrzmieniu: „Art. 67a. 1. Z wnioskiem o udzielenie urlopu wychowawczego nauczyciel wyst´puje do organu, który nawiàza∏ z nim stosunek pracy. 2. Wniosek o udzielenie urlopu wychowawczego powinien byç zg∏oszony co najmniej na 1 miesiàc przed wskazanym terminem rozpocz´cia tego urlopu. 3. Termin zakoƒczenia urlopu wychowawczego powinien przypadaç na dzieƒ poprzedzajàcy rozpocz´cie roku szkolnego; w takim przypadku termin udzielonego urlopu ulega odpowiedniemu skróceniu, ana wniosek nauczyciela odpowiedniemu przed∏u˝eniu. 4. Przepis ust. 3 nie ma zastosowania, je˝eli urlop wychowawczy zosta∏ udzielony w wymiarze nieprzekraczajàcym 1 miesiàca. ———————
+**Art. 3.** Wustawie zdnia 26 stycznia 1982 r. Karta Nauczyciela (Dz. U. z2003 r. 118, poz. 1112,Nr 137, poz. 1304 i 203, poz. 1966) po art. 67 dodaje się art. 67a—67cwbrzmieniu: ŃArt. 67a. 1. Z wnioskiem o udzielenie urlopu wychowawczego nauczyciel występuje do organu, który nawiązał z nim stosunek pracy. 2. Wniosek o udzielenie urlopu wychowawczego powinien być zgłoszony co najmniej na 1 miesiąc przed wskazanym terminem rozpoczęcia tego urlopu. 3. Termin zakończenia urlopu wychowawczego powinien przypadać na dzień poprzedzający rozpoczęcie roku szkolnego; w takim przypadku termin udzielonego urlopu ulega odpowiedniemu skróceniu, ana wniosek nauczyciela odpowiedniemu przedłużeniu. 4. Przepis ust. 3 nie ma zastosowania, jeżeli urlop wychowawczy został udzielony w wymiarze nieprzekraczającym 1 miesiąca. ———————
 
-**Art. 67b.** Nauczyciel mo˝e zrezygnowaç zudzielonego mu urlopu wychowawczego:
+**Art. 67b.** Nauczyciel może zrezygnować zudzielonego mu urlopu wychowawczego:
 
 **Art. 67c.**
 
-1. Wprzypadku wykorzystywania urlopu wychowawczego nauczyciel nabywa prawo do urlopu wypoczynkowego z dniem rozpocz´cia ferii szkolnych przypadajàcych po zakoƒczeniu urlopu wychowawczego.
+1. Wprzypadku wykorzystywania urlopu wychowawczego nauczyciel nabywa prawo do urlopu wypoczynkowego z dniem rozpoczęcia ferii szkolnych przypadających po zakończeniu urlopu wychowawczego.
 
-2. Nauczycielowi, który w zwiàzku z rozpocz´ciem urlopu wychowawczego nie móg∏ wykorzystaç przypadajàcego w okresie letnich ferii szkolnych urlopu wypoczynkowego, do którego naby∏ prawo termin zakoƒczenia urlopu wychowawczego powinien przypadaç na koniec zaj´ç szkolnych.”.
+2. Nauczycielowi, który w związku z rozpoczęciem urlopu wychowawczego nie mógł wykorzystać przypadającego w okresie letnich ferii szkolnych urlopu wypoczynkowego, do którego nabył prawo termin zakończenia urlopu wychowawczego powinien przypadać na koniec zajęć szkolnych.”.
 
-**Art. 4.** Wustawie zdnia 12 wrzeÊnia 1990 r. oszkolnictwie wy˝szym (Dz. U. 65, poz. 385, zpóên. zm.
+**Art. 4.** Wustawie zdnia 12 września 1990 r. oszkolnictwie wyższym (Dz. U. 65, poz. 385, zpóên. zm.
 
-**Art. 108b.** Nauczyciel akademicki mo˝e zrezygnowaç z udzielonego urlopu wychowawczego:
+**Art. 108b.** Nauczyciel akademicki może zrezygnować z udzielonego urlopu wychowawczego:
 
 **Art. 108c.**
 
-1. Wprzypadku wykorzystywania urlopu wychowawczego nauczyciel akademicki nabywa prawo do urlopu wypoczynkowego z dniem rozpocz´cia czasu wolnego od zaj´ç dydaktycznych po zakoƒczeniu urlopu wychowawczego.
+1. Wprzypadku wykorzystywania urlopu wychowawczego nauczyciel akademicki nabywa prawo do urlopu wypoczynkowego z dniem rozpoczęcia czasu wolnego od zajęć dydaktycznych po zakończeniu urlopu wychowawczego.
 
-2. Nauczycielowi akademickiemu, który w zwiàzku z rozpocz´ciem urlopu wychowawczego nie mo˝e wykorzystaç przypadajàcego w czasie wolnym od zaj´ç dydaktycznych urlopu ) po art. 108 dodaje si´ art. 108a—108cwbrzmieniu: „Art. 108a. 1. Z wnioskiem o udzielenie urlopu wychowawczego nauczyciel akademicki wyst´puje do organu, który go mianowa∏ lub zawar∏ z nim umow´ o prac´.
+2. Nauczycielowi akademickiemu, który w związku z rozpoczęciem urlopu wychowawczego nie może wykorzystać przypadającego w czasie wolnym od zajęć dydaktycznych urlopu ) po art. 108 dodaje się art. 108a—108cwbrzmieniu: ŃArt. 108a. 1. Z wnioskiem o udzielenie urlopu wychowawczego nauczyciel akademicki występuje do organu, który go mianował lub zawarł z nim umowę o pracę.
 
-2. Wniosek oudzielenie urlopu wychowawczego powinien byç zg∏oszony co najmniej na 1 miesiàc przed wskazanym terminem rozpocz´cia tego urlopu.
+2. Wniosek oudzielenie urlopu wychowawczego powinien być zgłoszony co najmniej na 1 miesiąc przed wskazanym terminem rozpoczęcia tego urlopu.
 
-3. Termin zakoƒczenia urlopu wychowawczego powinien przypadaç na dzieƒ poprzedzajàcy rozpocz´cie roku akademickiego; wtakim przypadku termin udzielonego urlopu ulega odpowiedniemu skróceniu, a na wniosek nauczyciela odpowiedniemu przed∏u˝eniu.
+3. Termin zakończenia urlopu wychowawczego powinien przypadać na dzień poprzedzający rozpoczęcie roku akademickiego; wtakim przypadku termin udzielonego urlopu ulega odpowiedniemu skróceniu, a na wniosek nauczyciela odpowiedniemu przedłużeniu.
 
-4. Przepis ust. 3 nie ma zastosowania, je˝eli urlop wychowawczy zosta∏ udzielony w wymiarze nieprzekraczajàcym 1 miesiàca. wypoczynkowego, do którego naby∏ prawo termin zakoƒczenia urlopu wychowawczego powinien przypadaç na koniec zaj´ç dydaktycznych.”.
+4. Przepis ust. 3 nie ma zastosowania, jeżeli urlop wychowawczy został udzielony w wymiarze nieprzekraczającym 1 miesiąca. wypoczynkowego, do którego nabył prawo termin zakończenia urlopu wychowawczego powinien przypadać na koniec zajęć dydaktycznych.”.
 
-**Art. 5.** Wustawie zdnia 23 maja 1991 r. ozwiàzkach zawodowych (Dz. U. z 2001 r. 79, poz. 854, z póên. zm. ) wart. 30 ust. 5 otrzymuje brzmienie: „5. Je˝eli wsprawie ustalenia regulaminu wynagradzania, regulaminów nagród i premiowania, regulaminu zak∏adowego funduszu Êwiadczeƒ socjalnych, planu urlopów lub regulaminu pracy, a tak˝e okresów rozliczeniowych, o których mowa wart. 129 § 2 iart. 135 § 2 i3 Kodeksu pracy, oraz wykazu prac, o którym mowa w art. 151 § 4 Kodeksu pracy, organizacje zwiàzkowe albo organizacje zwiàzkowe reprezentatywne wrozumieniu art. 241 Kodeksu pracy nie przedstawià wspólnie uzgodnionego stanowiska w terminie 30 dni, decyzje wtych sprawach podejmuje pracodawca, po rozpatrzeniu odr´bnych stanowisk organizacji zwiàzkowych.”.
+**Art. 5.** Wustawie zdnia 23 maja 1991 r. ozwiązkach zawodowych (Dz. U. z 2001 r. 79, poz. 854, z póên. zm. ) wart. 30 ust. 5 otrzymuje brzmienie: Ń5. Jeżeli wsprawie ustalenia regulaminu wynagradzania, regulaminów nagród i premiowania, regulaminu zakładowego funduszu świadczeń socjalnych, planu urlopów lub regulaminu pracy, a także okresów rozliczeniowych, o których mowa wart. 129 § 2 iart. 135 § 2 i3 Kodeksu pracy, oraz wykazu prac, o którym mowa w art. 151 § 4 Kodeksu pracy, organizacje związkowe albo organizacje związkowe reprezentatywne wrozumieniu art. 241 Kodeksu pracy nie przedstawią wspólnie uzgodnionego stanowiska w terminie 30 dni, decyzje wtych sprawach podejmuje pracodawca, po rozpatrzeniu odrębnych stanowisk organizacji związkowych.”.
 
-**Art. 6.** Wustawie zdnia 30 sierpnia 1991 r. ozak∏adach opieki zdrowotnej (Dz. U. 91, poz. 408, zpóên. zm. ) w art. 32i w ust. 2 zdanie drugie otrzymuje brzmienie: ——————— ——————— „Wszczególnie uzasadnionych przypadkach okres rozliczeniowy mo˝e byç przed∏u˝ony w trybie okreÊlonym w art. 150 § 2 Kodeksu pracy nie wi´cej jednak ni˝ do 12 miesi´cy.”.
+**Art. 6.** Wustawie zdnia 30 sierpnia 1991 r. ozakładach opieki zdrowotnej (Dz. U. 91, poz. 408, zpóên. zm. ) w art. 32i w ust. 2 zdanie drugie otrzymuje brzmienie: ——————— ——————— ŃWszczególnie uzasadnionych przypadkach okres rozliczeniowy może być przedłużony w trybie określonym w art. 150 § 2 Kodeksu pracy nie więcej jednak niż do 12 miesięcy.”.
 
-**Art. 7.** W ustawie z dnia 25 paêdziernika 1991 r. o organizowaniu i prowadzeniu dzia∏alnoÊci kulturalnej (Dz. U. z 2001 r. 13, poz. 123, z 2002 r. 41, poz. 364 oraz z 2003 r. 96, poz. 874 i 162, poz. 1568) wprowadza si´ nast´pujàce zmiany:
+**Art. 7.** W ustawie z dnia 25 paêdziernika 1991 r. o organizowaniu i prowadzeniu działalności kulturalnej (Dz. U. z 2001 r. 13, poz. 123, z 2002 r. 41, poz. 364 oraz z 2003 r. 96, poz. 874 i 162, poz. 1568) wprowadza się następujące zmiany:
 
-**Art. 8.** Wustawie zdnia 4 marca 1994 r. ozak∏adowym funduszu Êwiadczeƒ socjalnych (Dz. U. z 1996 r. 70, poz. 335, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+**Art. 8.** Wustawie zdnia 4 marca 1994 r. ozakładowym funduszu świadczeń socjalnych (Dz. U. z 1996 r. 70, poz. 335, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 9.** W ustawie z dnia 26 czerwca 1997 r. o wy˝szych szko∏ach zawodowych (Dz. U. 96, poz. 590, z póên. zm. ków, obj´tych uk∏adem zbiorowym pracy, ) art. 61 otrzymuje brzmienie: „Art. 61. Nauczyciel akademicki paƒstwowej uczelni zawodowej ma prawo do urlopu wypoczynkowego, urlopu wychowawczego, p∏atnego urlopu dla poratowania zdrowia, urlopu z tytu∏u przygotowywania rozprawy doktorskiej lub habilitacyjnej, prawo do podyplomowego doskonalenia si´ oraz innych form kszta∏cenia za——————— ——————— wodowego ipraktycznego na koszt uczelni, na zasadach okreÊlonych dla nauczycieli akademickich w ustawie o szkolnictwie wy˝szym.”.
+**Art. 9.** W ustawie z dnia 26 czerwca 1997 r. o wyższych szkołach zawodowych (Dz. U. 96, poz. 590, z póên. zm. ków, objętych układem zbiorowym pracy, ) art. 61 otrzymuje brzmienie: ŃArt. 61. Nauczyciel akademicki państwowej uczelni zawodowej ma prawo do urlopu wypoczynkowego, urlopu wychowawczego, płatnego urlopu dla poratowania zdrowia, urlopu z tytułu przygotowywania rozprawy doktorskiej lub habilitacyjnej, prawo do podyplomowego doskonalenia się oraz innych form kształcenia za——————— ——————— wodowego ipraktycznego na koszt uczelni, na zasadach określonych dla nauczycieli akademickich w ustawie o szkolnictwie wyższym.”.
 
-**Art. 10.** W ustawie z dnia 9 listopada 2000 r. o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw (Dz. U. 107, poz. 1127) wprowadza si´ nast´pujàce zmiany:
+**Art. 10.** W ustawie z dnia 9 listopada 2000 r. o zmianie ustawy Kodeks pracy oraz niektórych innych ustaw (Dz. U. 107, poz. 1127) wprowadza się następujące zmiany:
 
-**Art. 11.** W ustawie z dnia 24 sierpnia 2001 r. Kodeks post´powania w sprawach o wykroczenia (Dz. U. 106, poz. 1148 oraz z 2003 r. 109, poz. 1031) w art. 96 § 1 otrzymuje brzmienie: „§ 1. W post´powaniu mandatowym mo˝na na∏o˝yç grzywn´ w wysokoÊci do 500 z∏otych, a w sprawach, w których oskar˝ycielem publicznym jest inspektor pracy oraz w wypadku, októrym mowa wart. 9 § 1 Kodeksu wykroczeƒ do 1 000 z∏otych.”.
+**Art. 11.** W ustawie z dnia 24 sierpnia 2001 r. Kodeks postępowania w sprawach o wykroczenia (Dz. U. 106, poz. 1148 oraz z 2003 r. 109, poz. 1031) w art. 96 § 1 otrzymuje brzmienie: Ń§ 1. W postępowaniu mandatowym można nałożyć grzywnę w wysokości do 500 złotych, a w sprawach, w których oskarżycielem publicznym jest inspektor pracy oraz w wypadku, októrym mowa wart. 9 § 1 Kodeksu wykroczeń do 1 000 złotych.”.
 
 **Art. 12.**
 
-- **a)** po pkt 4 dodaje si´ pkt 4a w brzmieniu: „4a) b´dàcemu cz∏onkiem specjalnego zespo∏u negocjacyjnego lub europejskiej rady zak∏adowej;”,
-- **b)** pkt 6 otrzymuje brzmienie: „6) powo∏anemu do odbycia czynnej s∏u˝by wojskowej lub jej form zast´pczych.”;
-- **2)** w art. 7 po wyrazach „art. 177 § 4 i 5” dodaje si´ wyrazy „ , art. 186 Wustawie zdnia 13 marca 2003 r. oszczególnych zasadach rozwiàzywania zpracownikami stosunków pracy z przyczyn niedotyczàcych pracowników (Dz. U. 90, poz. 844) wprowadza si´ nast´pujàce zmiany:
+- **a)** po pkt 4 dodaje się pkt 4a w brzmieniu: Ń4a) będącemu członkiem specjalnego zespołu negocjacyjnego lub europejskiej rady zakładowej;”,
+- **b)** pkt 6 otrzymuje brzmienie: Ń6) powołanemu do odbycia czynnej służby wojskowej lub jej form zastępczych.”;
+- **2)** w art. 7 po wyrazach Ńart. 177 § 4 i 5” dodaje się wyrazy Ń , art. 186 Wustawie zdnia 13 marca 2003 r. oszczególnych zasadach rozwiązywania zpracownikami stosunków pracy z przyczyn niedotyczących pracowników (Dz. U. 90, poz. 844) wprowadza się następujące zmiany:
 - **1)** w art. 5 w ust. 5: ”.
 
-**Art. 13.** Pracodawca w terminie 6 miesi´cy od dnia wejÊcia w˝ycie ustawy informuje na piÊmie pracowników, z którymi zosta∏y zawarte umowy o prac´ przed tym dniem, o warunkach zatrudnienia i uprawnieniach pracowniczych, o których mowa w art. 29 § 3 Kodeksu pracy w brzmieniu nadanym niniejszà ustawà.
+**Art. 13.** Pracodawca w terminie 6 miesięcy od dnia wejścia wżycie ustawy informuje na piśmie pracowników, z którymi zostały zawarte umowy o pracę przed tym dniem, o warunkach zatrudnienia i uprawnieniach pracowniczych, o których mowa w art. 29 § 3 Kodeksu pracy w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 14.** Do umów o prac´ zawartych przed dniem wejÊcia w ˝ycie ustawy w innej formie ni˝ pisemna, w zakresie terminu i sposobu potwierdzenia rodzaju umowy i jej warunków, stosuje si´ przepisy dotychczasowe.
+**Art. 14.** Do umów o pracę zawartych przed dniem wejścia w życie ustawy w innej formie niż pisemna, w zakresie terminu i sposobu potwierdzenia rodzaju umowy i jej warunków, stosuje się przepisy dotychczasowe.
 
-**Art. 15.** Przepisy art. 25 Kodeksu pracy w brzmieniu nadanym niniejszà ustawà stosuje si´ do umów oprac´ zawartych lub zmienianych wsposób okreÊlony w tych przepisach od dnia uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej.
+**Art. 15.** Przepisy art. 25 Kodeksu pracy w brzmieniu nadanym niniejszą ustawą stosuje się do umów opracę zawartych lub zmienianych wsposób określony w tych przepisach od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
 
-**Art. 16.** Do umów oprac´ wypowiedzianych przed dniem wejÊcia w˝ycie ustawy, zzastosowaniem okresu wypowiedzenia krótszego ni˝ 2 tygodnie, w zakresie dotyczàcym zwolnienia na poszukiwanie pracy stosuje si´ przepisy dotychczasowe.
+**Art. 16.** Do umów opracę wypowiedzianych przed dniem wejścia wżycie ustawy, zzastosowaniem okresu wypowiedzenia krótszego niż 2 tygodnie, w zakresie dotyczącym zwolnienia na poszukiwanie pracy stosuje się przepisy dotychczasowe.
 
-**Art. 17.** Strony trwajàcych w dniu wejÊcia w ˝ycie ustawy umów o prac´ zawartych z pracownikami zatrudnionymi w niepe∏nym wymiarze czasu pracy, wterminie 3 miesi´cy od tego dnia, uzupe∏nià umowy o ustalenia wynikajàce z art. 151 § 5 Kodeksu pracy.
+**Art. 17.** Strony trwających w dniu wejścia w życie ustawy umów o pracę zawartych z pracownikami zatrudnionymi w niepełnym wymiarze czasu pracy, wterminie 3 miesięcy od tego dnia, uzupełnią umowy o ustalenia wynikające z art. 151 § 5 Kodeksu pracy.
 
-**Art. 18.** Do pracowników, którzy do dnia wejÊcia w ˝ycie ustawy nie nabyli prawa do kolejnego urlopu, stosuje si´ do czasu nabycia prawa do kolejnego urlopu art. 153 Kodeksu pracy wdotychczasowym brzmieniu.
+**Art. 18.** Do pracowników, którzy do dnia wejścia w życie ustawy nie nabyli prawa do kolejnego urlopu, stosuje się do czasu nabycia prawa do kolejnego urlopu art. 153 Kodeksu pracy wdotychczasowym brzmieniu.
 
-**Art. 19.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 77 i 237 Kodeksu pracy zachowujà moc do czasu wydania nowych przepisów wykonawczych i mogà byç zmieniane na podstawie upowa˝nienia w brzmieniu nadanym niniejszà ustawà.
+**Art. 19.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 77 i 237 Kodeksu pracy zachowują moc do czasu wydania nowych przepisów wykonawczych i mogą być zmieniane na podstawie upoważnienia w brzmieniu nadanym niniejszą ustawą.
 
-**Art. 20.** Ustawa wchodzi w ˝ycie z dniem 1 stycznia 2004 r., z tym ˝e przepisy art. 1 pkt 10, 17, 55, 56, 58 i72 oraz art. 2 iart. 12 pkt 1 lit. astosuje si´ od dnia uzyskania przez Rzeczpospolità Polskà cz∏onkostwa w Unii Europejskiej. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski
+**Art. 20.** Ustawa wchodzi w życie z dniem 1 stycznia 2004 r., z tym że przepisy art. 1 pkt 10, 17, 55, 56, 58 i72 oraz art. 2 iart. 12 pkt 1 lit. astosuje się od dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski
 

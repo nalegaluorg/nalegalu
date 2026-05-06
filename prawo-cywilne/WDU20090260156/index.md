@@ -24,107 +24,109 @@ domain: null
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20090260156) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2009/156/text.pdf) |
 
-**Art. 1.** Wustawie zdnia 17 listopada 1964 —Kodeks post´powania cywilnego (Dz. U. 43, 296, zpóên. zm. tysi´cy z∏otych, a w post´powaniu w sprawach gospodarczych sto tysi´cy z∏otych, ) wprowadza nast´pujàce zmiany: oprócz spraw o alimenty, o naruszenie po1) wart. 17 pkt 4 otrzymuje brzmienie: siadania, o ustanowienie rozdzielnoÊci majàtkowej mi´dzy ma∏˝onkami, o uzgodnie„4) oprawa majàtkowe, wktórych wartoÊç przed- nie treÊci ksi´gi wieczystej z rzeczywistym miotu sporu przewy˝sza siedemdziesiàt pi´ç stanem prawnym oraz spraw rozpoznawanych w elektronicznym post´powaniu upominawczym,”;
+**Art. 1.** Wustawie zdnia 17 listopada 1964 —Kodeks postępowania cywilnego (Dz. U. 43, 296, zpóên. zm. tysięcy złotych, a w postępowaniu w sprawach gospodarczych sto tysięcy złotych, ) wprowadza następujące zmiany: oprócz spraw o alimenty, o naruszenie po1) wart. 17 pkt 4 otrzymuje brzmienie: siadania, o ustanowienie rozdzielności majątkowej między małżonkami, o uzgodnieŃ4) oprawa majątkowe, wktórych wartość przed- nie treści księgi wieczystej z rzeczywistym miotu sporu przewyższa siedemdziesiąt pięć stanem prawnym oraz spraw rozpoznawanych w elektronicznym postępowaniu upominawczym,”;
 
-**Art. 505.** W post´powaniu okreÊlonym w niniejszym rozdziale stosuje przepisy o post´powaniu upominawczym z odr´bnoÊciami wynikajàcymi z niniejszego rozdzia∏u.
+#### Rozdział 1 Elektroniczne postępowanie upominawcze
 
-**Art. 505.** W elektronicznym post´powaniu upominawczym nie stosuje przepisów o innych ni˝ wymienione w art. 505 post´powaniach odr´bnych.
+**Art. 505.** W postępowaniu określonym w niniejszym rozdziale stosuje przepisy o postępowaniu upominawczym z odrębnościami wynikającymi z niniejszego rozdziału.
 
-**Art. 505.**
-
-§ 1. CzynnoÊci w elektronicznym post´powaniu upominawczym mo˝e wykonywaç referendarz sàdowy.
-
-§ 2. CzynnoÊci sàdu, referendarza i przewodniczàcego utrwalane sà wy∏àcznie w systemie teleinformatycznym, a wytworzone w ich wyniku dane w postaci elektronicznej opatrywane sà bezpiecznym podpisem elektronicznym w rozumieniu art. 3 pkt 2 ustawy z dnia 18wrzeÊnia 2001 opodpisie elektronicznym.
+**Art. 505.** W elektronicznym postępowaniu upominawczym nie stosuje przepisów o innych niż wymienione w art. 505 postępowaniach odrębnych.
 
 **Art. 505.**
 
-§ 1. Pisma procesowe powoda niewniesione drogà elektronicznà nie wywo∏ujà skutków prawnych, jakie ustawa wià˝e zwniesieniem pisma do sàdu.
+§ 1. Czynności w elektronicznym postępowaniu upominawczym może wykonywać referendarz sądowy.
 
-§ 2. Pisma procesowe pozwanego mogà byç wnoszone tak˝e drogà elektronicznà.
-
-§ 3. Przepis § 1 ma zastosowanie do pozwanego od momentu wniesienia przez niego pisma drogà elektronicznà.
-
-§ 4. O skutkach wniesienia pisma drogà elektronicznà sàd powinien pouczyç pozwanego przy pierwszym dor´czeniu.
-
-§ 5. Datà wniesienia pisma procesowego drogà elektronicznà jest data wprowadzenia pisma do systemu teleinformatycznego.
-
-§ 6. Minister SprawiedliwoÊci w porozumieniu z ministrem w∏aÊciwym do spraw informatyzacji okreÊli, w drodze rozporzàdzenia, sposób wnoszenia pism procesowych drogà elektronicznà, majàc na wzgl´dzie zapewnienie skutecznoÊci wnoszenia pism oraz ochron´ praw osób wnoszàcych pisma. go osobà fizycznà, je˝eli powód jest obowiàzany do jego posiadania,
-
-- **2)** numer NIP powoda innego ni˝ osoba fizyczna, je˝eli powód jest obowiàzany do jego posiadania, oraz numer w Krajowym Rejestrze Sàdowym, a w przypadku jego braku numer winnym w∏aÊciwym rejestrze lub ewidencji.
+§ 2. Czynności sądu, referendarza i przewodniczącego utrwalane są wyłącznie w systemie teleinformatycznym, a wytworzone w ich wyniku dane w postaci elektronicznej opatrywane są bezpiecznym podpisem elektronicznym w rozumieniu art. 3 pkt 2 ustawy z dnia 18września 2001 opodpisie elektronicznym.
 
 **Art. 505.**
 
-§ 1. W przypadku braku podstaw do wydania nakazu zap∏aty sàd przekazuje spraw´ do sàdu wed∏ug w∏aÊciwoÊci ogólnej.
+§ 1. Pisma procesowe powoda niewniesione drogą elektroniczną nie wywołują skutków prawnych, jakie ustawa wiąże zwniesieniem pisma do sądu.
 
-§ 2. Postanowienie oprzekazaniu sprawy dor´cza tylko powodowi.
+§ 2. Pisma procesowe pozwanego mogą być wnoszone także drogą elektroniczną.
 
-**Art. 505.**
+§ 3. Przepis § 1 ma zastosowanie do pozwanego od momentu wniesienia przez niego pisma drogą elektroniczną.
 
-§ 1. W przypadkach wskazanych wart.502 § 1 i2 sàd zurz´du uchyla nakaz zap∏aty i przekazuje spraw´ do sàdu wed∏ug w∏aÊciwoÊci ogólnej, chyba ˝e powód w wyznaczonym terminie usunie przeszkod´ w dor´czeniu nakazu zap∏aty.
+§ 4. O skutkach wniesienia pisma drogą elektroniczną sąd powinien pouczyć pozwanego przy pierwszym doręczeniu.
 
-§ 2. Postanowienie oprzekazaniu sprawy dor´cza tylko powodowi.
+§ 5. Datą wniesienia pisma procesowego drogą elektroniczną jest data wprowadzenia pisma do systemu teleinformatycznego.
 
-**Art. 505.** Sprzeciw od nakazu zap∏aty nie wymaga uzasadnienia i przedstawienia dowodów, jednak w sprzeciwie pozwany powinien przedstawiç zarzuty, które pod rygorem ich utraty nale˝y zg∏osiç przed wdaniem wspór, co do istoty sprawy. W pozosta∏ym zakresie przepisu art. 503 § 1 zdanie drugie nie stosuje si´.
+§ 6. Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, sposób wnoszenia pism procesowych drogą elektroniczną, mając na względzie zapewnienie skuteczności wnoszenia pism oraz ochronę praw osób wnoszących pisma. go osobą fizyczną, jeżeli powód jest obowiązany do jego posiadania,
 
-**Art. 505.**
-
-§ 1. W razie prawid∏owego wniesienia sprzeciwu nakaz zap∏aty traci moc wca∏oÊci, asàd przekazuje spraw´ do sàdu wed∏ug w∏aÊciwoÊci ogólnej.
-
-§ 2. Sàd, któremu sprawa zosta∏a przekazana, nie jest zwiàzany postanowieniem o przekazaniu sprawy wrazie zg∏oszenia wsprzeciwie zarzutu pozwanego dotyczàcego w∏aÊciwoÊci sàdu okreÊlonej zgodnie zart. 46 § 1.
+- **2)** numer NIP powoda innego niż osoba fizyczna, jeżeli powód jest obowiązany do jego posiadania, oraz numer w Krajowym Rejestrze Sądowym, a w przypadku jego braku numer winnym właściwym rejestrze lub ewidencji.
 
 **Art. 505.**
 
-§ 1. Po przekazaniu sprawy wprzypadkach wskazanych w art. 505 , 505 oraz 505 przewodniczàcy wzywa powoda do usuni´cia braków formalnych pozwu oraz uzupe∏nienia pozwu, w sposób odpowiedni dla post´powania, w którym sprawa b´dzie rozpoznana w terminie dwutygodniowym od odpis pozwu.
+§ 1. W przypadku braku podstaw do wydania nakazu zapłaty sąd przekazuje sprawę do sądu według właściwości ogólnej.
 
-§ 3. Je˝eli powód uzupe∏ni pozew zgodnie zwymogami § 1, przewodniczàcy wzywa pozwanego do uzupe∏nienia sprzeciwu w sposób odpowiedni dla post´powania, w którym sprawa b´dzie rozpoznana w terminie dwutygodniowym od daty dor´czenia wezwania.”;
+§ 2. Postanowienie oprzekazaniu sprawy doręcza tylko powodowi.
+
+**Art. 505.**
+
+§ 1. W przypadkach wskazanych wart.502 § 1 i2 sąd zurzędu uchyla nakaz zapłaty i przekazuje sprawę do sądu według właściwości ogólnej, chyba że powód w wyznaczonym terminie usunie przeszkodę w doręczeniu nakazu zapłaty.
+
+§ 2. Postanowienie oprzekazaniu sprawy doręcza tylko powodowi.
+
+**Art. 505.** Sprzeciw od nakazu zapłaty nie wymaga uzasadnienia i przedstawienia dowodów, jednak w sprzeciwie pozwany powinien przedstawić zarzuty, które pod rygorem ich utraty należy zgłosić przed wdaniem wspór, co do istoty sprawy. W pozostałym zakresie przepisu art. 503 § 1 zdanie drugie nie stosuje się.
+
+**Art. 505.**
+
+§ 1. W razie prawidłowego wniesienia sprzeciwu nakaz zapłaty traci moc wcałości, asąd przekazuje sprawę do sądu według właściwości ogólnej.
+
+§ 2. Sąd, któremu sprawa została przekazana, nie jest związany postanowieniem o przekazaniu sprawy wrazie zgłoszenia wsprzeciwie zarzutu pozwanego dotyczącego właściwości sądu określonej zgodnie zart. 46 § 1.
+
+**Art. 505.**
+
+§ 1. Po przekazaniu sprawy wprzypadkach wskazanych w art. 505 , 505 oraz 505 przewodniczący wzywa powoda do usunięcia braków formalnych pozwu oraz uzupełnienia pozwu, w sposób odpowiedni dla postępowania, w którym sprawa będzie rozpoznana w terminie dwutygodniowym od odpis pozwu.
+
+§ 3. Jeżeli powód uzupełni pozew zgodnie zwymogami § 1, przewodniczący wzywa pozwanego do uzupełnienia sprzeciwu w sposób odpowiedni dla postępowania, w którym sprawa będzie rozpoznana w terminie dwutygodniowym od daty doręczenia wezwania.”;
 
 - **14)** wart. 626 :
-    - **a)** § 3 otrzymuje brzmienie: „§3.Do wniosku odokonanie wpisu nale˝y do∏àczyç dokumenty, stanowiàce podstaw´ wpisu w ksi´dze wieczystej, z zastrze˝eniem § 3 .”,
-    - **b)** po § 3 dodaje § 3 wbrzmieniu: „§3 . Do wniosku odokonanie wpisu wksi´dze wieczystej na podstawie tytu∏u wykonawczego, októrym mowa wart. 783 § 4, nale˝y do∏àczyç dokument uzyskany zsystemu teleinformatycznego umo˝liwiajàcy sàdowi weryfikacj´ istnienia i treÊci tytu∏u wykonawczego.”;
+    - **a)** § 3 otrzymuje brzmienie: Ń§3.Do wniosku odokonanie wpisu należy dołączyć dokumenty, stanowiące podstawę wpisu w księdze wieczystej, z zastrzeżeniem § 3 .”,
+    - **b)** po § 3 dodaje § 3 wbrzmieniu: Ń§3 . Do wniosku odokonanie wpisu wksiędze wieczystej na podstawie tytułu wykonawczego, októrym mowa wart. 783 § 4, należy dołączyć dokument uzyskany zsystemu teleinformatycznego umożliwiający sądowi weryfikację istnienia i treści tytułu wykonawczego.”;
 
-- **15)** wart. 626 po § 2 dodaje § 2 wbrzmieniu: „§2 . Przed rozpoznaniem wniosku o wpis na podstawie tytu∏u wykonawczego, o którym mowa w art. 783 § 4, istnienie i treÊç tego tytu∏u podlegajà zweryfikowaniu przez s´dziego lub referendarza sàdowego wsystemie teleinformatycznym.”;
-- **16)** wart. 694 po § 1 dodaje § 1 wbrzmieniu: „§ 1 . Ilekroç konieczne jest badanie tytu∏u wykonawczego, o którym mowa w art. 783 § 4, do wniosku odokonanie wpisu nale˝y do∏àczyç dokument uzyskany z systemu teleinformatycznego umo˝liwiajàcy sàdowi weryfikacj´ istnienia i treÊci tytu∏u wykonawczego. Przed rozpoznaniem tego wniosku istnienie i treÊç tytu∏u wykonawczego podlegajà zweryfikowaniu przez s´dziego lub referendarza sàdowego w systemie teleinformatycznym.”;
+- **15)** wart. 626 po § 2 dodaje § 2 wbrzmieniu: Ń§2 . Przed rozpoznaniem wniosku o wpis na podstawie tytułu wykonawczego, o którym mowa w art. 783 § 4, istnienie i treść tego tytułu podlegają zweryfikowaniu przez sędziego lub referendarza sądowego wsystemie teleinformatycznym.”;
+- **16)** wart. 694 po § 1 dodaje § 1 wbrzmieniu: Ń§ 1 . Ilekroć konieczne jest badanie tytułu wykonawczego, o którym mowa w art. 783 § 4, do wniosku odokonanie wpisu należy dołączyć dokument uzyskany z systemu teleinformatycznego umożliwiający sądowi weryfikację istnienia i treści tytułu wykonawczego. Przed rozpoznaniem tego wniosku istnienie i treść tytułu wykonawczego podlegają zweryfikowaniu przez sędziego lub referendarza sądowego w systemie teleinformatycznym.”;
 - **17)** wart. 773:
-    - **a)** § 1 i2 otrzymujà brzmienie: „§ 1. Wprzypadku zbiegu egzekucji administracyjnej isàdowej co do tej samej rzeczy lub prawa majàtkowego, administracyjny organ egzekucyjny i komornik wstrzymujà czynnoÊci egzekucyjne na wniosek wierzyciela, d∏u˝nika lub zurz´du iprzekazujà akta egzekucji administracyjnej i egzekucji sàdowej sàdowi rejonowemu, w którego okr´gu wszcz´to egzekucj´, w celu rozstrzygni´cia, który organ egzekucyjny kwowanych nale˝noÊci i kolejnoÊç ich zaspokojenia, z zastrze˝eniem § 2 i 2 . RównoczeÊnie sàd postanawia, jakie ju˝ dokonane czynnoÊci egzekucyjne pozostajà wmocy.
+    - **a)** § 1 i2 otrzymują brzmienie: Ń§ 1. Wprzypadku zbiegu egzekucji administracyjnej isądowej co do tej samej rzeczy lub prawa majątkowego, administracyjny organ egzekucyjny i komornik wstrzymują czynności egzekucyjne na wniosek wierzyciela, dłużnika lub zurzędu iprzekazują akta egzekucji administracyjnej i egzekucji sądowej sądowi rejonowemu, w którego okręgu wszczęto egzekucję, w celu rozstrzygnięcia, który organ egzekucyjny kwowanych należności i kolejność ich zaspokojenia, z zastrzeżeniem § 2 i 2 . Równocześnie sąd postanawia, jakie już dokonane czynności egzekucyjne pozostają wmocy.
 
-§ 2. Je˝eli egzekucje sà prowadzone w celu zrealizowania zastawu rejestrowego lub skarbowego, ∏àczne prowadzenie egzekucji przejmuje organ egzekwujàcy nale˝noÊç korzystajàcà z pierwszeƒstwa zaspokojenia, zzastrze˝eniem § 2 .”,
+§ 2. Jeżeli egzekucje są prowadzone w celu zrealizowania zastawu rejestrowego lub skarbowego, łączne prowadzenie egzekucji przejmuje organ egzekwujący należność korzystającą z pierwszeństwa zaspokojenia, zzastrzeżeniem § 2 .”,
 
-- **b)** po § 2 dodaje § 2 wbrzmieniu: „§2 . Je˝eli egzekucja sàdowa jest prowadzona na podstawie tytu∏u wykonawczego, októrym mowa wart. 783 § 4, ∏àczne prowadzenie egzekucji przejmuje komornik.”;
-- **18)** wart. 781 po § 1 dodaje § 1 i1 wbrzmieniu: „§1 .Tytu∏owi egzekucyjnemu, o którym mowa w art. 783 § 4, klauzul´ wykonalnoÊci, w przypadkach okreÊlonych w art. 778 , 787, 787 , 788 oraz 789, nadaje sàd rejonowy w∏aÊciwoÊci ogólnej d∏u˝nika.
+- **b)** po § 2 dodaje § 2 wbrzmieniu: Ń§2 . Jeżeli egzekucja sądowa jest prowadzona na podstawie tytułu wykonawczego, októrym mowa wart. 783 § 4, łączne prowadzenie egzekucji przejmuje komornik.”;
+- **18)** wart. 781 po § 1 dodaje § 1 i1 wbrzmieniu: Ń§1 .Tytułowi egzekucyjnemu, o którym mowa w art. 783 § 4, klauzulę wykonalności, w przypadkach określonych w art. 778 , 787, 787 , 788 oraz 789, nadaje sąd rejonowy właściwości ogólnej dłużnika.
 
-§ 1. Do wniosku o nadanie klauzuli wykonalnoÊci, o którym mowa w § 1 , nale˝y do∏àczyç dokument uzyskany z systemu teleinformatycznego umo˝liwiajàcy sàdowi weryfikacj´ istnienia itreÊci tytu∏u wykonawczego. Przed rozpoznaniem wniosku istnienie i treÊç tytu∏u wykonawczego podlegajà zweryfikowaniu przez s´dziego lub referendarza sàdowego wsystemie teleinformatycznym.”;
+§ 1. Do wniosku o nadanie klauzuli wykonalności, o którym mowa w § 1 , należy dołączyć dokument uzyskany z systemu teleinformatycznego umożliwiający sądowi weryfikację istnienia itreści tytułu wykonawczego. Przed rozpoznaniem wniosku istnienie i treść tytułu wykonawczego podlegają zweryfikowaniu przez sędziego lub referendarza sądowego wsystemie teleinformatycznym.”;
 
-- **19)** wart. 783 dodaje § 4 i5 wbrzmieniu: „§4. Je˝eli tytu∏em egzekucyjnym jest orzeczenie wydane w elektronicznym post´powaniu upominawczym, klauzul´ wykonalnoÊci pozostawia wy∏àcznie wsystemie teleinformatycznym, z wy∏àczeniem przypadków, o których mowa w art. 778 , 787, 787 , 788 oraz 789.
+- **19)** wart. 783 dodaje § 4 i5 wbrzmieniu: Ń§4. Jeżeli tytułem egzekucyjnym jest orzeczenie wydane w elektronicznym postępowaniu upominawczym, klauzulę wykonalności pozostawia wyłącznie wsystemie teleinformatycznym, z wyłączeniem przypadków, o których mowa w art. 778 , 787, 787 , 788 oraz 789.
 
-§ 5. Minister SprawiedliwoÊci w porozumieniu zministrem w∏aÊciwym do spraw informatyzacji okreÊli, w drodze rozporzàdzenia, czynnoÊci sàdu zwiàzane z nadawaniem klauzuli wykonalnoÊci, o którym mowa w § 4, oraz sposób przechowywania i pos∏ugiwania tytu∏ami wykonawczymi wskazanymi w § 4, przy uwzgl´dnieniu potrzeby przyÊpieszenia i usprawnienia post´powania oraz zapewnienia wystarczajàcego bezpieczeƒstwa korzystania z elektronicznych tytu∏ów wykonawczych.”;
+§ 5. Minister Sprawiedliwości w porozumieniu zministrem właściwym do spraw informatyzacji określi, w drodze rozporządzenia, czynności sądu związane z nadawaniem klauzuli wykonalności, o którym mowa w § 4, oraz sposób przechowywania i posługiwania tytułami wykonawczymi wskazanymi w § 4, przy uwzględnieniu potrzeby przyśpieszenia i usprawnienia postępowania oraz zapewnienia wystarczającego bezpieczeństwa korzystania z elektronicznych tytułów wykonawczych.”;
 
-- **20)** wart. 795 dodaje § 3 wbrzmieniu: „§3. W przypadku postanowienia w przedmiocie nadania klauzuli wykonalnoÊci tytu∏owi egzekucyjnemu, o którym mowa w art. 783 § 4, „§2. Wniosek owszcz´cie egzekucji na podstawie tytu∏u wykonawczego, o którym mowa w art. 783 § 4, mo˝e byç z∏o˝ony do komornika tak˝e za poÊrednictwem systemu teleinformatycznego obs∏ugujàcego elektroniczne post´powanie upominawcze.
+- **20)** wart. 795 dodaje § 3 wbrzmieniu: Ń§3. W przypadku postanowienia w przedmiocie nadania klauzuli wykonalności tytułowi egzekucyjnemu, o którym mowa w art. 783 § 4, Ń§2. Wniosek owszczęcie egzekucji na podstawie tytułu wykonawczego, o którym mowa w art. 783 § 4, może być złożony do komornika także za pośrednictwem systemu teleinformatycznego obsługującego elektroniczne postępowanie upominawcze.
 
-§ 3. Je˝eli podstawà egzekucji jest tytu∏ wykonawczy, o którym mowa w art. 783 § 4, do wniosku lub ˝àdania przeprowadzenia egzekucji z urz´du nale˝y do∏àczyç dokument uzyskany z systemu teleinformatycznego umo˝liwiajàcy organowi egzekucyjnemu weryfikacj´ istnienia i treÊci tego tytu∏u, a w przypadku wszcz´cia post´powania egzekucyjnego drogà elektronicznà wskazuje tytu∏ wykonawczy.
+§ 3. Jeżeli podstawą egzekucji jest tytuł wykonawczy, o którym mowa w art. 783 § 4, do wniosku lub żądania przeprowadzenia egzekucji z urzędu należy dołączyć dokument uzyskany z systemu teleinformatycznego umożliwiający organowi egzekucyjnemu weryfikację istnienia i treści tego tytułu, a w przypadku wszczęcia postępowania egzekucyjnego drogą elektroniczną wskazuje tytuł wykonawczy.
 
-§ 4. Wszczynajàc egzekucj´ na podstawie tytu∏u wykonawczego, o którym mowa w art. 783 § 4, komornik jest zobowiàzany do zweryfikowania treÊci przedstawionego mu dokumentu uzyskanego z systemu teleinformatycznego oraz zaznaczenia w tym systemie faktu prowadzenia egzekucji na podstawie tego tytu∏u.
+§ 4. Wszczynając egzekucję na podstawie tytułu wykonawczego, o którym mowa w art. 783 § 4, komornik jest zobowiązany do zweryfikowania treści przedstawionego mu dokumentu uzyskanego z systemu teleinformatycznego oraz zaznaczenia w tym systemie faktu prowadzenia egzekucji na podstawie tego tytułu.
 
-§ 5. Ilekroç w ustawie jest mowa o przedstawieniu (okazaniu, do∏àczeniu, dor´czeniu albo z∏o˝eniu) tytu∏u wykonawczego, a tytu∏em tym jest tytu∏ wykonawczy, o którym mowa wart. 783 § 4, nale˝y przedstawiç zweryfikowany przez komornika dokument, o którym mowa w§ 3. Je˝eli tytu∏ wykonawczy ma byç z∏o˝ony w post´powaniu prowadzonym przez sàd lub komornika wystarcza z∏o˝enie dokumentu uzyskanego z systemu teleinformatycznego. Przepis § 4 stosuje odpowiednio.”;
+§ 5. Ilekroć w ustawie jest mowa o przedstawieniu (okazaniu, dołączeniu, doręczeniu albo złożeniu) tytułu wykonawczego, a tytułem tym jest tytuł wykonawczy, o którym mowa wart. 783 § 4, należy przedstawić zweryfikowany przez komornika dokument, o którym mowa w§ 3. Jeżeli tytuł wykonawczy ma być złożony w postępowaniu prowadzonym przez sąd lub komornika wystarcza złożenie dokumentu uzyskanego z systemu teleinformatycznego. Przepis § 4 stosuje odpowiednio.”;
 
-- **22)** wart. 805 dodaje § 3 wbrzmieniu: „§3. Wprzypadku prowadzenia egzekucji na podstawie tytu∏u wykonawczego, o którym mowa wart. 783 § 4, obowiàzek okazania orygina∏u tytu∏u wykonawczego, o którym mowa w§ 2, polega na okazaniu d∏u˝nikowi zweryfikowanego przez komornika dokumentu, októrym mowa wart. 797 § 3.”;
-- **23)** w art. 816 dotychczasowà treÊç oznacza jako §1 idodaje § 2 wbrzmieniu: „§2.Je˝eli egzekucja by∏a prowadzona na podstawie tytu∏u wykonawczego, o którym mowa w art. 783 § 4, wynik egzekucji odnotowuje wsystemie teleinformatycznym.”;
-- **24)** po art. 816 dodaje art. 816 wbrzmieniu: „Art. 816 noÊci z rachunku bankowego, w tym rachunku bankowego obejmujàcego wk∏ad oszcz´dnoÊciowy, dor´czajàc mu odpis zawiadomienia skierowanego do banku, o zakazie wyp∏at z rachunku bankowego, wtym rachunku bankowego obejmujàcego wk∏ad oszcz´dnoÊciowy.”.
+- **22)** wart. 805 dodaje § 3 wbrzmieniu: Ń§3. Wprzypadku prowadzenia egzekucji na podstawie tytułu wykonawczego, o którym mowa wart. 783 § 4, obowiązek okazania oryginału tytułu wykonawczego, o którym mowa w§ 2, polega na okazaniu dłużnikowi zweryfikowanego przez komornika dokumentu, októrym mowa wart. 797 § 3.”;
+- **23)** w art. 816 dotychczasową treść oznacza jako §1 idodaje § 2 wbrzmieniu: Ń§2.Jeżeli egzekucja była prowadzona na podstawie tytułu wykonawczego, o którym mowa w art. 783 § 4, wynik egzekucji odnotowuje wsystemie teleinformatycznym.”;
+- **24)** po art. 816 dodaje art. 816 wbrzmieniu: ŃArt. 816 ności z rachunku bankowego, w tym rachunku bankowego obejmującego wkład oszczędnościowy, doręczając mu odpis zawiadomienia skierowanego do banku, o zakazie wypłat z rachunku bankowego, wtym rachunku bankowego obejmującego wkład oszczędnościowy.”.
 
-**Art. 2.** W ustawie z dnia maja 1982 Prawo oadwokaturze (Dz.U. z2002 123, 1058, zpóên. zm. . Dane w postaci elektronicznej wytworzone w wyniku czynnoÊci komornika wymienionych w art. 797 § 4 i art. 816 ) po art. 37a dodaje art.37b wbrzmieniu: „Art.37b.1. Dane do sk∏adania podpisu elektronicznego na potrzeby elektronicznego post´powania upominawczego sà udzielane adwokatom po z∏o˝eniu stosownego wniosku za poÊrednictwem w∏aÊciwej okr´gowej rady adwokackiej. 2. Dopuszcza równie˝ komunikowanie adwokata z sàdem w elektronicznym post´powaniu upominawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego za pomocà wa˝nego kwalifikowanego certyfikatu. 3. Wnioski adwokatów o udzielenie danych wskazanych w ust. 1 z∏o˝one do w∏aÊciwej okr´gowej rady adwokackiej b´dà przesy∏ane w∏aÊciwemu sàdowi wraz zpotwierdzeniem udzia∏u (zrzeszenia) adwokata we w∏aÊciwej izbie adwokackiej. Osoby zamierzajàce komunikowaç z sàdem w sposób wskazany wust.2 zawiadamiajà otym sàd za poÊrednictwem w∏aÊciwej okr´gowej rady adwokackiej, podajàc dane do weryfikacji podpisu elektronicznego. 4. Informacje, o których mowa w ust. 3, w∏aÊciwa okr´gowa rada adwokacka przesy∏a sàdowi w terminie 14 dni od daty z∏o˝enia wniosku.”.
+**Art. 2.** W ustawie z dnia maja 1982 Prawo oadwokaturze (Dz.U. z2002 123, 1058, zpóên. zm. . Dane w postaci elektronicznej wytworzone w wyniku czynności komornika wymienionych w art. 797 § 4 i art. 816 ) po art. 37a dodaje art.37b wbrzmieniu: ŃArt.37b.1. Dane do składania podpisu elektronicznego na potrzeby elektronicznego postępowania upominawczego są udzielane adwokatom po złożeniu stosownego wniosku za pośrednictwem właściwej okręgowej rady adwokackiej. 2. Dopuszcza również komunikowanie adwokata z sądem w elektronicznym postępowaniu upominawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego za pomocą ważnego kwalifikowanego certyfikatu. 3. Wnioski adwokatów o udzielenie danych wskazanych w ust. 1 złożone do właściwej okręgowej rady adwokackiej będą przesyłane właściwemu sądowi wraz zpotwierdzeniem udziału (zrzeszenia) adwokata we właściwej izbie adwokackiej. Osoby zamierzające komunikować z sądem w sposób wskazany wust.2 zawiadamiają otym sąd za pośrednictwem właściwej okręgowej rady adwokackiej, podając dane do weryfikacji podpisu elektronicznego. 4. Informacje, o których mowa w ust. 3, właściwa okręgowa rada adwokacka przesyła sądowi w terminie 14 dni od daty złożenia wniosku.”.
 
-**Art. 3.** W ustawie z dnia 6 lipca 1982 o radcach prawnych (Dz. U. z 2002 123, 1059, z póên. zm. ) po art. 22 dodaje art. 22 wbrzmieniu: „Art.22 .1.Dane do sk∏adania podpisu elektronicznego na potrzeby elektronicznego po——————— w∏aÊciwej rady okr´gowej izby radców prawnych. 2. Dopuszcza równie˝ komunikowanie radcy prawnego z sàdem w elektronicznym post´powaniu upominawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego za pomocà wa˝nego kwalifikowanego certyfikatu. 3. Wnioski radców prawnych o udzielenie danych wskazanych w ust. 1 z∏o˝one do w∏aÊciwej rady okr´gowej izby radców prawnych b´dà przesy∏ane w∏aÊciwemu sàdowi wraz z potwierdzeniem udzia∏u (zrzeszenia) radcy we w∏aÊciwej okr´gowej izbie radców prawnych. Osoby zamierzajàce komunikowaç z sàdem w sposób wskazany w ust. 2 zawiadamiajà otym sàd za poÊrednictwem w∏aÊciwej rady okr´gowej izby radców prawnych, podajàc dane do weryfikacji podpisu elektronicznego. 4. Informacje, o których mowa w ust. 3, w∏aÊciwa rada okr´gowej izby radców prawnych przesy∏a sàdowi w terminie 14 dni od daty z∏o˝enia wniosku.”.
+**Art. 3.** W ustawie z dnia 6 lipca 1982 o radcach prawnych (Dz. U. z 2002 123, 1059, z póên. zm. ) po art. 22 dodaje art. 22 wbrzmieniu: ŃArt.22 .1.Dane do składania podpisu elektronicznego na potrzeby elektronicznego po——————— właściwej rady okręgowej izby radców prawnych. 2. Dopuszcza również komunikowanie radcy prawnego z sądem w elektronicznym postępowaniu upominawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego za pomocą ważnego kwalifikowanego certyfikatu. 3. Wnioski radców prawnych o udzielenie danych wskazanych w ust. 1 złożone do właściwej rady okręgowej izby radców prawnych będą przesyłane właściwemu sądowi wraz z potwierdzeniem udziału (zrzeszenia) radcy we właściwej okręgowej izbie radców prawnych. Osoby zamierzające komunikować z sądem w sposób wskazany w ust. 2 zawiadamiają otym sąd za pośrednictwem właściwej rady okręgowej izby radców prawnych, podając dane do weryfikacji podpisu elektronicznego. 4. Informacje, o których mowa w ust. 3, właściwa rada okręgowej izby radców prawnych przesyła sądowi w terminie 14 dni od daty złożenia wniosku.”.
 
-**Art. 4.** W ustawie z dnia 20 czerwca 1985 o prokuraturze (Dz. U. z 2008 7, 39 oraz z 2009 1, 4) po art. 42 dodaje art. 42a w brzmieniu: „Art.42a.1. Dane do sk∏adania podpisu elektronicznego na potrzeby elektronicznego post´powania upominawczego sà udzielane prokuratorom po z∏o˝eniu stosownego wniosku za poÊrednictwem odpowiednio w∏aÊciwego prokuratora apelacyjnego lub Prokuratora Krajowego. 2. Dopuszcza równie˝ komunikowanie prokuratora z sàdem w elektronicznym post´powaniu upominawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego za pomocà wa˝nego kwalifikowanego certyfikatu. 3.Wnioski prokuratorów o udzielenie danych wskazanych w ust. 1 z∏o˝one odpowiednio do w∏aÊciwego prokuratora apelacyjnego lub Prokuratora Krajowego b´dà przesy∏ane w∏aÊciwemu sàdowi wraz z potwierdzeniem zatrudnienia prokuratora odpowiednio we w∏aÊciwej podleg∏ej prokuratorowi apelacyjnemu prokuraturze lub w Prokuraturze Krajosàdowi wterminie 14 dni od daty z∏o˝enia wniosku.”.
+**Art. 4.** W ustawie z dnia 20 czerwca 1985 o prokuraturze (Dz. U. z 2008 7, 39 oraz z 2009 1, 4) po art. 42 dodaje art. 42a w brzmieniu: ŃArt.42a.1. Dane do składania podpisu elektronicznego na potrzeby elektronicznego postępowania upominawczego są udzielane prokuratorom po złożeniu stosownego wniosku za pośrednictwem odpowiednio właściwego prokuratora apelacyjnego lub Prokuratora Krajowego. 2. Dopuszcza również komunikowanie prokuratora z sądem w elektronicznym postępowaniu upominawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego za pomocą ważnego kwalifikowanego certyfikatu. 3.Wnioski prokuratorów o udzielenie danych wskazanych w ust. 1 złożone odpowiednio do właściwego prokuratora apelacyjnego lub Prokuratora Krajowego będą przesyłane właściwemu sądowi wraz z potwierdzeniem zatrudnienia prokuratora odpowiednio we właściwej podległej prokuratorowi apelacyjnemu prokuraturze lub w Prokuraturze Krajosądowi wterminie 14 dni od daty złożenia wniosku.”.
 
-**Art. 5.** W ustawie z dnia 29 sierpnia 1997 o komornikach sàdowych i egzekucji (Dz. U. z 2006 Nr167, 1191, zpóên. zm. wej. Osoby zamierzajàce komunikowaç z sàdem w sposób wskazany wust.2 zawiadamiajà otym sàd za po) wprowadza nast´pujàce zmiany:
+**Art. 5.** W ustawie z dnia 29 sierpnia 1997 o komornikach sądowych i egzekucji (Dz. U. z 2006 Nr167, 1191, zpóên. zm. wej. Osoby zamierzające komunikować z sądem w sposób wskazany wust.2 zawiadamiają otym sąd za po) wprowadza następujące zmiany:
 
-**Art. 6.** Wustawie zdnia 11 kwietnia 2001 orzecznikach patentowych (Dz. U. 49, 509, z póên. zm. ) po art. 17 dodaje art. 17a wbrzmieniu: „Art.17a.1. Dane do sk∏adania podpisu elektronicznego na potrzeby elektronicznego post´powania upominawczego sà udzielane rzecznikom patentowym po z∏o˝eniu stosownego wniosku za poÊrednictwem w∏aÊciwego okr´gowego zgromadzenia rzeczników patentowych. ——————— minawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego za pomocà wa˝nego kwalifikowanego certyfikatu. 3. Wnioski rzeczników patentowych oudzielenie danych wskazanych wust.1 z∏o˝one do w∏aÊciwego okr´gowego zgromadzenia rzeczników patentowych b´dà przesy∏ane w∏aÊciwemu sàdowi wraz z potwierdzeniem udzia∏u (zrzeszenia) rzecznika we w∏aÊciwym zgromadzeniu. Osoby zamierzajàce komunikowaç z sàdem w sposób wskazany w ust. 2 zawiadamiajà o tym sàd za poÊrednictwem w∏aÊciwego okr´gowego zgromadzenia rzeczników patentowych, podajàc dane do weryfikacji podpisu elektronicznego. 4. Informacje, o których mowa w ust. 3, w∏aÊciwe okr´gowe zgromadzenie rzeczników patentowych przesy∏a sàdowi w terminie 14 dni od daty z∏o˝enia wniosku.”.
+**Art. 6.** Wustawie zdnia 11 kwietnia 2001 orzecznikach patentowych (Dz. U. 49, 509, z póên. zm. ) po art. 17 dodaje art. 17a wbrzmieniu: ŃArt.17a.1. Dane do składania podpisu elektronicznego na potrzeby elektronicznego postępowania upominawczego są udzielane rzecznikom patentowym po złożeniu stosownego wniosku za pośrednictwem właściwego okręgowego zgromadzenia rzeczników patentowych. ——————— minawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego za pomocą ważnego kwalifikowanego certyfikatu. 3. Wnioski rzeczników patentowych oudzielenie danych wskazanych wust.1 złożone do właściwego okręgowego zgromadzenia rzeczników patentowych będą przesyłane właściwemu sądowi wraz z potwierdzeniem udziału (zrzeszenia) rzecznika we właściwym zgromadzeniu. Osoby zamierzające komunikować z sądem w sposób wskazany w ust. 2 zawiadamiają o tym sąd za pośrednictwem właściwego okręgowego zgromadzenia rzeczników patentowych, podając dane do weryfikacji podpisu elektronicznego. 4. Informacje, o których mowa w ust. 3, właściwe okręgowe zgromadzenie rzeczników patentowych przesyła sądowi w terminie 14 dni od daty złożenia wniosku.”.
 
-**Art. 7.** W ustawie z dnia 27 lipca 2001 Prawo o ustroju sàdów powszechnych (Dz. U. 98, 1070, z póên. zm. ) wprowadza nast´pujàce zmiany:
+**Art. 7.** W ustawie z dnia 27 lipca 2001 Prawo o ustroju sądów powszechnych (Dz. U. 98, 1070, z póên. zm. ) wprowadza następujące zmiany:
 
-**Art. 8.** W ustawie z dnia 8 lipca 2005 o Prokuratorii Generalnej Skarbu Paƒstwa (Dz. U. 169, 1417, z póên. zm. radcom Prokuratorii Generalnej po z∏o˝eniu stosownego wniosku za poÊrednictwem odpowiednio dyrektora w∏aÊciwego oddzia∏u Prokuratorii Generalnej lub Prezesa Prokuratorii Generalnej. 2. Dopuszcza równie˝ komunikowanie radcy Prokuratorii Generalnej z sàdem w elektronicznym post´powaniu upominawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy wa˝nego kwalifikowanego certyfikatu. 3. Wnioski radców Prokuratorii Generalnej o udzielenie danych wskazanych wust. 1 z∏o˝one odpowiednio do dyrektora w∏aÊciwego oddzia∏u Prokuratorii Generalnej lub Prezesa Prokuratorii Generalnej b´dà przesy∏ane w∏aÊciwemu sàdowi wraz z potwierdzeniem zatrudnienia radcy Prokuratorii Generalnej odpowiednio we w∏aÊciwym oddziale Prokuratorii Generalnej lub wG∏ównym Urz´dzie Prokuratorii Generalnej. Osoby zamierzajàce komunikowaç z sàdem wsposób wskazany wust. 2 zawiadamiajà o tym sàd za poÊrednictwem odpowiednio dyrektora w∏aÊciwego oddzia∏u Prokuratorii Generalnej lub Prezesa Prokuratorii Generalnej, podajàc dane do weryfikacji podpisu elektronicznego. 4. Informacje, o których mowa w ust. 3, odpowiednio dyrektor w∏aÊciwego oddzia∏u Prokuratorii Generalnej lub Prezes Prokuratorii Generalnej przesy∏a sàdowi wterminie 14 dni od daty z∏o˝enia wniosku.”.
+**Art. 8.** W ustawie z dnia 8 lipca 2005 o Prokuratorii Generalnej Skarbu Państwa (Dz. U. 169, 1417, z póên. zm. radcom Prokuratorii Generalnej po złożeniu stosownego wniosku za pośrednictwem odpowiednio dyrektora właściwego oddziału Prokuratorii Generalnej lub Prezesa Prokuratorii Generalnej. 2. Dopuszcza również komunikowanie radcy Prokuratorii Generalnej z sądem w elektronicznym postępowaniu upominawczym przy wykorzystaniu bezpiecznego podpisu elektronicznego weryfikowanego przy pomocy ważnego kwalifikowanego certyfikatu. 3. Wnioski radców Prokuratorii Generalnej o udzielenie danych wskazanych wust. 1 złożone odpowiednio do dyrektora właściwego oddziału Prokuratorii Generalnej lub Prezesa Prokuratorii Generalnej będą przesyłane właściwemu sądowi wraz z potwierdzeniem zatrudnienia radcy Prokuratorii Generalnej odpowiednio we właściwym oddziale Prokuratorii Generalnej lub wGłównym Urzędzie Prokuratorii Generalnej. Osoby zamierzające komunikować z sądem wsposób wskazany wust. 2 zawiadamiają o tym sąd za pośrednictwem odpowiednio dyrektora właściwego oddziału Prokuratorii Generalnej lub Prezesa Prokuratorii Generalnej, podając dane do weryfikacji podpisu elektronicznego. 4. Informacje, o których mowa w ust. 3, odpowiednio dyrektor właściwego oddziału Prokuratorii Generalnej lub Prezes Prokuratorii Generalnej przesyła sądowi wterminie 14 dni od daty złożenia wniosku.”.
 
-**Art. 9.** Wustawie zdnia 28 lipca 2005 okosztach sàdowych w sprawach cywilnych (Dz. U. 167, 1398, z póên. zm. ) po art. 17 dodaje art. 17a wbrzmieniu: ) wprowadza nast´pujàce zmiany:
+**Art. 9.** Wustawie zdnia 28 lipca 2005 okosztach sądowych w sprawach cywilnych (Dz. U. 167, 1398, z póên. zm. ) po art. 17 dodaje art. 17a wbrzmieniu: ) wprowadza następujące zmiany:
 
-**Art. 10.** Ustawa wchodzi w ˝ycie z dniem 1 stycznia 2010 r., zwyjàtkiem:
+**Art. 10.** Ustawa wchodzi w życie z dniem 1 stycznia 2010 r., zwyjątkiem:
 

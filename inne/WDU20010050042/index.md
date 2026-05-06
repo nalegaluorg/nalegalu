@@ -10,7 +10,7 @@ status: akt posiada tekst jednolity
 domain: null
 ---
 
-# Rozdzia∏ 1 Przepisy ogólne
+# Ustawa z dnia 15 grudnia 2000 r. o samorządach zawodowych architektów oraz inżynierów budownictwa
 
 | Pole | Wartość |
 |---|---|
@@ -24,491 +24,511 @@ domain: null
 | Ostatnia zmiana | 2026-01-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20010050042) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/42/text.pdf) |
 
-**Art. 1.** Ustawa okreÊla organizacj´ izadania samorzàdów zawodowych architektów, in˝ynierów budownictwa oraz urbanistów, a tak˝e prawa i obowiàzki cz∏onków tych samorzàdów.
+#### Rozdział 1 Przepisy ogólne
+
+**Art. 1.** Ustawa określa organizację izadania samorządów zawodowych architektów, inżynierów budownictwa oraz urbanistów, a także prawa i obowiązki członków tych samorządów.
 
 **Art. 2.**
 
-1. Wykonywanie zawodu architekta polega na wspó∏tworzeniu kultury przez projektowanie architektoniczne obiektów budowlanych, ich przestrzennego otoczenia oraz ich realizacj´, nadzorze nad procesem ich powstawania oraz na edukacji architektonicznej.
+1. Wykonywanie zawodu architekta polega na współtworzeniu kultury przez projektowanie architektoniczne obiektów budowlanych, ich przestrzennego otoczenia oraz ich realizację, nadzorze nad procesem ich powstawania oraz na edukacji architektonicznej.
 
-2. Wykonywanie zawodu in˝yniera budownictwa polega na projektowaniu obiektów budowlanych, ich realizacji, nadzorze nad procesem ich powstawania, utrzymaniu tych obiektów oraz na edukacji w tym zakresie.
+2. Wykonywanie zawodu inżyniera budownictwa polega na projektowaniu obiektów budowlanych, ich realizacji, nadzorze nad procesem ich powstawania, utrzymaniu tych obiektów oraz na edukacji w tym zakresie.
 
-3. Wykonywanie zawodu urbanisty polega na projektowaniu zagospodarowania przestrzeni w skali regionalnej ilokalnej, zgodnie zwymaganiami ∏adu przestrzennego, ochrony wartoÊci architektonicznych ikrajobrazowych, zwymaganiami ochrony Êrodowiska, racjonalnoÊci struktur osadniczych i sieci infrastruktury oraz na edukacji wtym zakresie.
+3. Wykonywanie zawodu urbanisty polega na projektowaniu zagospodarowania przestrzeni w skali regionalnej ilokalnej, zgodnie zwymaganiami ładu przestrzennego, ochrony wartości architektonicznych ikrajobrazowych, zwymaganiami ochrony środowiska, racjonalności struktur osadniczych i sieci infrastruktury oraz na edukacji wtym zakresie.
 
-**Art. 3.** Samorzàdy zawodowe architektów, in˝ynierów budownictwa oraz urbanistów, zwane dalej „samorzàdami zawodowymi”, tworzà cz∏onkowie zrzeszeni wizbach architektów, in˝ynierów budownictwa oraz urbanistów.
+**Art. 3.** Samorządy zawodowe architektów, inżynierów budownictwa oraz urbanistów, zwane dalej Ńsamorządami zawodowymi”, tworzą członkowie zrzeszeni wizbach architektów, inżynierów budownictwa oraz urbanistów.
 
-**Art. 4.** Samorzàdy zawodowe sà niezale˝ne w wykonywaniu swoich zadaƒ i podlegajà tylko przepisom prawa.
+**Art. 4.** Samorządy zawodowe są niezależne w wykonywaniu swoich zadań i podlegają tylko przepisom prawa.
 
 **Art. 5.**
 
-1. Izby architektów zrzeszajà osoby, które:
+1. Izby architektów zrzeszają osoby, które:
 
-- **1)** posiadajà uprawnienia budowlane w specjalnoÊci architektonicznej, o której mowa w art. 14 ust. 1 pkt 1, w zakresie okreÊlonym w art. 14 ust. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz.U. z 2000 r. 106, poz. 1126, 109, poz. 1157 iNr120, poz. 1268), zwanej dalej „ustawà Prawo budowlane”,
-- **2)** posiadajà uprawnienia budowlane w specjalnoÊci architektonicznej do projektowania bez ograniczeƒ uzyskane przed dniem wejÊcia w ˝ycie ustawy Prawo budowlane.
+- **1)** posiadają uprawnienia budowlane w specjalności architektonicznej, o której mowa w art. 14 ust. 1 pkt 1, w zakresie określonym w art. 14 ust. 3 pkt 1 ustawy z dnia 7 lipca 1994 r. Prawo budowlane (Dz.U. z 2000 r. 106, poz. 1126, 109, poz. 1157 iNr120, poz. 1268), zwanej dalej Ńustawą Prawo budowlane”,
+- **2)** posiadają uprawnienia budowlane w specjalności architektonicznej do projektowania bez ograniczeń uzyskane przed dniem wejścia w życie ustawy Prawo budowlane.
 
-2. Izby in˝ynierów budownictwa zrzeszajà osoby,
+2. Izby inżynierów budownictwa zrzeszają osoby,
 
-- **1)** posiadajà uprawnienia budowlane w specjalnoÊciach, o których mowa w art. 14 ust. 1 pkt 2—5 ustawy Prawo budowlane,
-- **2)** posiadajà uprawnienia budowlane wspecjalnoÊci, októrej mowa wart. 14 ust. 1 pkt 1 ustawy Prawo budowlane, w zakresie okreÊlonym w art. 14 ust. 3 pkt 2—4 ustawy Prawo budowlane,
-- **3)** posiadajà uprawnienia budowlane w zakresie odpowiadajàcym zakresowi specjalnoÊci, o których mowa w pkt 1 i 2, uzyskane przed dniem wejÊcia w˝ycie ustawy Prawo budowlane. które:
+- **1)** posiadają uprawnienia budowlane w specjalnościach, o których mowa w art. 14 ust. 1 pkt 2—5 ustawy Prawo budowlane,
+- **2)** posiadają uprawnienia budowlane wspecjalności, októrej mowa wart. 14 ust. 1 pkt 1 ustawy Prawo budowlane, w zakresie określonym w art. 14 ust. 3 pkt 2—4 ustawy Prawo budowlane,
+- **3)** posiadają uprawnienia budowlane w zakresie odpowiadającym zakresowi specjalności, o których mowa w pkt 1 i 2, uzyskane przed dniem wejścia wżycie ustawy Prawo budowlane. które:
 
-3. Izby urbanistów zrzeszajà osoby, które:
+3. Izby urbanistów zrzeszają osoby, które:
 
-- **1)** posiadajà uprawnienia urbanistyczne uzyskane na podstawie art. 51 ustawy zdnia 7 lipca 1994 r. ozagospodarowaniu przestrzennym (Dz. U. z 1999 r. Nr15, poz. 139,Nr 41, poz. 412 iNr 111, poz. 1279 oraz z 2000 r. 12, poz. 136, 109, poz. 1157 i 120, poz. 1268), zwanej dalej „ustawà o zagospodarowaniu przestrzennym”,
-- **2)** posiadajà uprawnienia do projektowania w planowaniu przestrzennym uzyskane na podstawie ustawy zdnia 12 lipca 1984 r. oplanowaniu przestrzennym (Dz.U. z1989 r. 17, poz. 99, 34, poz. 178 i 35, poz. 192, z 1990 r. 34, poz. 198 i 87, poz. 505 oraz z1993 r. 47, poz. 212),
-- **3)** posiadajà dyplom ukoƒczenia studiów wy˝szych o kierunkach architektura, urbanistyka lub gospodarka przestrzenna, a tak˝e doÊwiadczenie zawodowe zdobyte wczasie dwuletniej pracy zwiàzanej zgospodarkà przestrzennà,
-- **4)** posiadajà dyplom ukoƒczenia studiów wy˝szych innych ni˝ okreÊlone wpkt 3, które wobowiàzujàcym programie nauczania realizujà zagadnienia zwiàzane z architekturà i urbanistykà lub gospodarkà przestrzennà w wymiarze co najmniej 90 godzin, uzupe∏nionych studiami podyplomowymi wzakresie planowania przestrzennego, urbanistyki lub gospodarki przestrzennej, a tak˝e doÊwiadczenie zawodowe zdobyte wczasie trzyletniej pracy zwiàzanej zgospodarkà przestrzennà,
-- **5)** posiadajà dyplom ukoƒczenia studiów wy˝szych innych ni˝ okreÊlone w pkt 3 i 4, uzupe∏nionych studiami podyplomowymi w zakresie planowania przestrzennego, urbanistyki lub gospodarki przestrzennej, majà doÊwiadczenie zawodowe zdobyte w czasie trzyletniej pracy zwiàzanej z gospodarkà przestrzennà, a tak˝e z∏o˝y∏y egzamin ze znajomoÊci przepisów prawnych dotyczàcych gospodarki przestrzennej oraz praktycznego zastosowania wiedzy wzakresie urbanistyki, USTAWA zdnia 15 grudnia 2000 r. osamorzàdach zawodowych architektów, in˝ynierów budownictwa oraz urbanistów.
-- **6)** sà obywatelami paƒstw cz∏onkowskich Unii Europejskiej oraz:
-    - **a)** posiadajà w paƒstwie cz∏onkowskim Unii Europejskiej prawo do projektowania zagospodarowania przestrzeni wskali regionalnej ilokalnej,
-    - **b)** ukoƒczy∏y studia wy˝sze uznane w Polsce za równorz´dne na kierunkach architektura i urbanistyka oraz gospodarka przestrzenna, trwajàce co najmniej 4 lata,
-    - **c)** odby∏y dwuletnià praktyk´ przy projektowaniu zagospodarowania przestrzeni w skali regionalnej ilokalnej.
+- **1)** posiadają uprawnienia urbanistyczne uzyskane na podstawie art. 51 ustawy zdnia 7 lipca 1994 r. ozagospodarowaniu przestrzennym (Dz. U. z 1999 r. Nr15, poz. 139,Nr 41, poz. 412 iNr 111, poz. 1279 oraz z 2000 r. 12, poz. 136, 109, poz. 1157 i 120, poz. 1268), zwanej dalej Ńustawą o zagospodarowaniu przestrzennym”,
+- **2)** posiadają uprawnienia do projektowania w planowaniu przestrzennym uzyskane na podstawie ustawy zdnia 12 lipca 1984 r. oplanowaniu przestrzennym (Dz.U. z1989 r. 17, poz. 99, 34, poz. 178 i 35, poz. 192, z 1990 r. 34, poz. 198 i 87, poz. 505 oraz z1993 r. 47, poz. 212),
+- **3)** posiadają dyplom ukończenia studiów wyższych o kierunkach architektura, urbanistyka lub gospodarka przestrzenna, a także doświadczenie zawodowe zdobyte wczasie dwuletniej pracy związanej zgospodarką przestrzenną,
+- **4)** posiadają dyplom ukończenia studiów wyższych innych niż określone wpkt 3, które wobowiązującym programie nauczania realizują zagadnienia związane z architekturą i urbanistyką lub gospodarką przestrzenną w wymiarze co najmniej 90 godzin, uzupełnionych studiami podyplomowymi wzakresie planowania przestrzennego, urbanistyki lub gospodarki przestrzennej, a także doświadczenie zawodowe zdobyte wczasie trzyletniej pracy związanej zgospodarką przestrzenną,
+- **5)** posiadają dyplom ukończenia studiów wyższych innych niż określone w pkt 3 i 4, uzupełnionych studiami podyplomowymi w zakresie planowania przestrzennego, urbanistyki lub gospodarki przestrzennej, mają doświadczenie zawodowe zdobyte w czasie trzyletniej pracy związanej z gospodarką przestrzenną, a także złożyły egzamin ze znajomości przepisów prawnych dotyczących gospodarki przestrzennej oraz praktycznego zastosowania wiedzy wzakresie urbanistyki, USTAWA zdnia 15 grudnia 2000 r. osamorządach zawodowych architektów, inżynierów budownictwa oraz urbanistów.
+- **6)** są obywatelami państw członkowskich Unii Europejskiej oraz:
+    - **a)** posiadają w państwie członkowskim Unii Europejskiej prawo do projektowania zagospodarowania przestrzeni wskali regionalnej ilokalnej,
+    - **b)** ukończyły studia wyższe uznane w Polsce za równorzędne na kierunkach architektura i urbanistyka oraz gospodarka przestrzenna, trwające co najmniej 4 lata,
+    - **c)** odbyły dwuletnią praktykę przy projektowaniu zagospodarowania przestrzeni w skali regionalnej ilokalnej.
 
-4. Umowa mi´dzynarodowa, zawarta na zasadzie wzajemnoÊci, mo˝e okreÊliç inny tryb zrzeszania osób wizbie urbanistów.
+4. Umowa międzynarodowa, zawarta na zasadzie wzajemności, może określić inny tryb zrzeszania osób wizbie urbanistów.
 
 **Art. 6.**
 
-1. Prawo wykonywania samodzielnych funkcji technicznych w budownictwie oraz samodzielnego projektowania przestrzeni wskali regionalnej ilokalnej lub kierowania zespo∏em prowadzàcym takie projektowanie przys∏uguje wy∏àcznie osobom wpisanym na list´ cz∏onków w∏aÊciwej izby samorzàdu zawodowego.
+1. Prawo wykonywania samodzielnych funkcji technicznych w budownictwie oraz samodzielnego projektowania przestrzeni wskali regionalnej ilokalnej lub kierowania zespołem prowadzącym takie projektowanie przysługuje wyłącznie osobom wpisanym na listę członków właściwej izby samorządu zawodowego.
 
-2. Cz∏onek izby samorzàdu zawodowego podlega obowiàzkowi ubezpieczenia od odpowiedzialnoÊci cywilnej za szkody, które mogà wyniknàç wzwiàzku zwykonywaniem samodzielnych funkcji technicznych wbudownictwie.
+2. Członek izby samorządu zawodowego podlega obowiązkowi ubezpieczenia od odpowiedzialności cywilnej za szkody, które mogą wyniknąć wzwiązku zwykonywaniem samodzielnych funkcji technicznych wbudownictwie.
 
-3. Minister w∏aÊciwy do spraw finansów publicznych w porozumieniu z ministrem w∏aÊciwym do spraw architektury ibudownictwa oraz ministrem w∏aÊciwym do spraw gospodarki przestrzennej imieszkaniowej, po zasi´gni´ciu opinii samorzàdów zawodowych, okreÊli, wdrodze rozporzàdzenia, ogólne warunki ubezpieczenia, októrym mowa wust. 2:
+3. Minister właściwy do spraw finansów publicznych w porozumieniu z ministrem właściwym do spraw architektury ibudownictwa oraz ministrem właściwym do spraw gospodarki przestrzennej imieszkaniowej, po zasięgnięciu opinii samorządów zawodowych, określi, wdrodze rozporządzenia, ogólne warunki ubezpieczenia, októrym mowa wust. 2:
 
-- **1)** dat´ powstania obowiàzku zawarcia umowy ubezpieczenia,
-- **2)** podstawowy zakres odpowiedzialnoÊci zak∏adu ubezpieczeƒ,
-- **3)** minimalnà sum´ gwarancyjnà ubezpieczenia okreÊlonà kwotowo,
-- **4)** zakres praw iobowiàzków ubezpieczonego izak∏adu ubezpieczeƒ, wynikajàcych z umowy ubezpieczenia.
+- **1)** datę powstania obowiązku zawarcia umowy ubezpieczenia,
+- **2)** podstawowy zakres odpowiedzialności zakładu ubezpieczeń,
+- **3)** minimalną sumę gwarancyjną ubezpieczenia określoną kwotowo,
+- **4)** zakres praw iobowiązków ubezpieczonego izakładu ubezpieczeń, wynikających z umowy ubezpieczenia.
 
 **Art. 7.**
 
-1. Izby architektów, in˝ynierów budownictwa oraz urbanistów, zwane dalej „izbami”, majà osobowoÊç prawnà.
+1. Izby architektów, inżynierów budownictwa oraz urbanistów, zwane dalej Ńizbami”, mają osobowość prawną.
 
-2. Dzia∏alnoÊç izb okreÊlajà ich statuty.
+2. Działalność izb określają ich statuty.
 
-3. Izby mogà prowadziç dzia∏alnoÊç gospodarczà, zwy∏àczeniem dzia∏alnoÊci polegajàcej na wykonywaniu us∏ug w zakresie obs∏ugi inwestycyjnej, projektowania architektonicznego, konstrukcyjno-budowlanego lub urbanistycznego, robót budowlanych oraz rzeczoznawstwa budowlanego.
+3. Izby mogą prowadzić działalność gospodarczą, zwyłączeniem działalności polegającej na wykonywaniu usług w zakresie obsługi inwestycyjnej, projektowania architektonicznego, konstrukcyjno-budowlanego lub urbanistycznego, robót budowlanych oraz rzeczoznawstwa budowlanego.
 
-**Art. 8.** Do zadaƒ samorzàdów zawodowych nale˝y wszczególnoÊci:
+**Art. 8.** Do zadań samorządów zawodowych należy wszczególności:
 
 **Art. 9.**
 
-1. Jednostkami organizacyjnymi samorzàdów zawodowych sà:
+1. Jednostkami organizacyjnymi samorządów zawodowych są:
 
-- **1)** Krajowa Izba Architektów, Krajowa Izba In˝ynierów Budownictwa oraz Krajowa Izba Urbanistów, zwane dalej „Krajowymi Izbami”,
-- **2)** okr´gowe izby architektów, okr´gowe izby in˝ynierów budownictwa oraz okr´gowe izby urbanistów, zwane dalej „okr´gowymi izbami”.
+- **1)** Krajowa Izba Architektów, Krajowa Izba Inżynierów Budownictwa oraz Krajowa Izba Urbanistów, zwane dalej ŃKrajowymi Izbami”,
+- **2)** okręgowe izby architektów, okręgowe izby inżynierów budownictwa oraz okręgowe izby urbanistów, zwane dalej Ńokręgowymi izbami”.
 
-2. Okr´gowe izby tworzà ich cz∏onkowie, których przynale˝noÊç powstaje zchwilà uzyskania wpisu na list´ cz∏onków okr´gowej izby w∏aÊciwej wed∏ug miejsca zamieszkania.
+2. Okręgowe izby tworzą ich członkowie, których przynależność powstaje zchwilą uzyskania wpisu na listę członków okręgowej izby właściwej według miejsca zamieszkania.
 
 **Art. 10.**
 
-1. Siedzibà Krajowych Izb jest miasto sto∏eczne Warszawa.
+1. Siedzibą Krajowych Izb jest miasto stołeczne Warszawa.
 
-2. Obszary dzia∏ania okr´gowych izb oraz ich siedziwykonywaniem zawodu przez cz∏onków izb, by ustalajà w∏aÊciwe Krajowe Izby, uwzgl´dniajàc podzia∏ terytorialny paƒstwa.
+2. Obszary działania okręgowych izb oraz ich siedziwykonywaniem zawodu przez członków izb, by ustalają właściwe Krajowe Izby, uwzględniając podział terytorialny państwa.
 
 **Art. 11.**
 
-1. Do post´powania wsprawach indywidualnych uregulowanych w ustawie, z wyjàtkiem spraw dyscyplinarnych, stosuje si´ przepisy Kodeksu post´powania administracyjnego.
+1. Do postępowania wsprawach indywidualnych uregulowanych w ustawie, z wyjątkiem spraw dyscyplinarnych, stosuje się przepisy Kodeksu postępowania administracyjnego.
 
-2. Rozstrzygni´cia organów wsprawach indywidualnych podpisujà wszyscy cz∏onkowie sk∏adu orzekajàcego organu.
+2. Rozstrzygnięcia organów wsprawach indywidualnych podpisują wszyscy członkowie składu orzekającego organu.
 
 **Art. 12.**
 
-1. Uchwa∏y organów samorzàdów zawodowych sà przesy∏ane odpowiednio ministrowi w∏aÊciwemu do spraw architektury i budownictwa lub ministrowi w∏aÊciwemu do spraw gospodarki przestrzennej imieszkaniowej, wterminie 14 dni od dnia ich podj´cia.
+1. Uchwały organów samorządów zawodowych są przesyłane odpowiednio ministrowi właściwemu do spraw architektury i budownictwa lub ministrowi właściwemu do spraw gospodarki przestrzennej imieszkaniowej, wterminie 14 dni od dnia ich podjęcia.
 
-2. Minister w∏aÊciwy do spraw architektury i budownictwa lub minister w∏aÊciwy do spraw gospodarki przestrzennej imieszkaniowej mo˝e zaskar˝yç, wterminie 30 dni od dnia otrzymania, uchwa∏y organów okr´gowych izb do w∏aÊciwych organów Krajowych Izb, auchwa∏y organów Krajowych Izb do Naczelnego Sàdu Administracyjnego.
+2. Minister właściwy do spraw architektury i budownictwa lub minister właściwy do spraw gospodarki przestrzennej imieszkaniowej może zaskarżyć, wterminie 30 dni od dnia otrzymania, uchwały organów okręgowych izb do właściwych organów Krajowych Izb, auchwały organów Krajowych Izb do Naczelnego Sądu Administracyjnego.
 
-3. Minister w∏aÊciwy do spraw architektury i budownictwa lub minister w∏aÊciwy do spraw gospodarki przestrzennej imieszkaniowej mo˝e zwróciç si´ do w∏aÊciwego Krajowego Zjazdu lub w∏aÊciwej Krajowej Rady o podj´cie uchwa∏y w okreÊlonej sprawie nale˝àcej do w∏aÊciwoÊci samorzàdu. Uchwa∏a Krajowej Rady powinna byç podj´ta w terminie dwóch miesi´cy, a uchwa∏a Krajowego Zjazdu na najbli˝szym Zjeêdzie.
+3. Minister właściwy do spraw architektury i budownictwa lub minister właściwy do spraw gospodarki przestrzennej imieszkaniowej może zwrócić się do właściwego Krajowego Zjazdu lub właściwej Krajowej Rady o podjęcie uchwały w określonej sprawie należącej do właściwości samorządu. Uchwała Krajowej Rady powinna być podjęta w terminie dwóch miesięcy, a uchwała Krajowego Zjazdu na najbliższym Zjeêdzie.
 
-**Art. 13.** Cz∏onek samorzàdu zawodowego ma czynne ibierne prawo wyborcze. Rozdzia∏ 2 Okr´gowe izby
+**Art. 13.** Członek samorządu zawodowego ma czynne ibierne prawo wyborcze.
+
+#### Rozdział 2 Okręgowe izby
 
 **Art. 14.**
 
-1. Organami okr´gowych izb sà:
+1. Organami okręgowych izb są:
 
-- **1)** okr´gowy zjazd izby,
-- **2)** okr´gowa rada izby,
-- **3)** okr´gowa komisja rewizyjna,
-- **4)** okr´gowa komisja kwalifikacyjna,
-- **5)** okr´gowy sàd dyscyplinarny,
-- **6)** okr´gowy rzecznik odpowiedzialnoÊci zawodowej.
+- **1)** okręgowy zjazd izby,
+- **2)** okręgowa rada izby,
+- **3)** okręgowa komisja rewizyjna,
+- **4)** okręgowa komisja kwalifikacyjna,
+- **5)** okręgowy sąd dyscyplinarny,
+- **6)** okręgowy rzecznik odpowiedzialności zawodowej.
 
-2. Kadencja organów okr´gowych izb trwa 4 lata.
+2. Kadencja organów okręgowych izb trwa 4 lata.
 
 **Art. 15.**
 
-1. Okr´gowy zjazd izby jest najwy˝szym organem okr´gowej izby.
+1. Okręgowy zjazd izby jest najwyższym organem okręgowej izby.
 
-2. Okr´gowy zjazd izby stanowià cz∏onkowie okr´gowej izby.
+2. Okręgowy zjazd izby stanowią członkowie okręgowej izby.
 
-3. Je˝eli liczba cz∏onków okr´gowej izby przekracza 200 osób, okr´gowy zjazd izby stanowià delegaci wybrani wobwodach wyborczych.
+3. Jeżeli liczba członków okręgowej izby przekracza 200 osób, okręgowy zjazd izby stanowią delegaci wybrani wobwodach wyborczych.
 
-4. Mandat delegata na okr´gowy zjazd trwa przez
+4. Mandat delegata na okręgowy zjazd trwa przez
 
-5. W okr´gowym zjeêdzie izby, o którym mowa w ust. 3, mogà uczestniczyç z g∏osem doradczym cz∏onkowie organów izby nie b´dàcy delegatami.
+5. W okręgowym zjeêdzie izby, o którym mowa w ust. 3, mogą uczestniczyć z głosem doradczym członkowie organów izby nie będący delegatami.
 
 **Art. 16.**
 
-1. Okr´gowy zjazd izby zwo∏ywany przez okr´gowà rad´ izby odbywa si´ jako sprawozdawczy co najmniej raz w roku, a jako zjazd sprawozdawczo-wyborczy co 4 lata.
+1. Okręgowy zjazd izby zwoływany przez okręgową radę izby odbywa się jako sprawozdawczy co najmniej raz w roku, a jako zjazd sprawozdawczo-wyborczy co 4 lata.
 
-2. Nadzwyczajny okr´gowy zjazd izby zwo∏uje okr´gowa rada izby z w∏asnej inicjatywy lub na wniosek Krajowej Izby, okr´gowej komisji rewizyjnej albo co najmniej 1/3 ogólnej liczby cz∏onków okr´gowej izby.
+2. Nadzwyczajny okręgowy zjazd izby zwołuje okręgowa rada izby z własnej inicjatywy lub na wniosek Krajowej Izby, okręgowej komisji rewizyjnej albo co najmniej 1/3 ogólnej liczby członków okręgowej izby.
 
-3. Nadzwyczajny okr´gowy zjazd izby zwo∏uje si´ wterminie 2 miesi´cy od dnia wp∏ywu wniosku ozwo∏anie zjazdu.
+3. Nadzwyczajny okręgowy zjazd izby zwołuje się wterminie 2 miesięcy od dnia wpływu wniosku ozwołanie zjazdu.
 
 **Art. 17.**
 
-1. Uchwa∏y okr´gowego zjazdu izby sà podejmowane zwyk∏à wi´kszoÊcià g∏osów, w obecnoÊci co najmniej po∏owy liczby cz∏onków lub delegatów na okr´gowy zjazd izby. okres kadencji organów okr´gowej izby.
+1. Uchwały okręgowego zjazdu izby są podejmowane zwykłą większością głosów, w obecności co najmniej połowy liczby członków lub delegatów na okręgowy zjazd izby. okres kadencji organów okręgowej izby.
 
-2. Wybory do organów okr´gowych izb odbywajà si´ wg∏osowaniu tajnym.
+2. Wybory do organów okręgowych izb odbywają się wgłosowaniu tajnym.
 
-**Art. 18.** Okr´gowy zjazd izby:
+**Art. 18.** Okręgowy zjazd izby:
 
 **Art. 19.**
 
-1. Okr´gowa rada izby wykonuje zadania samorzàdu zawodowego na obszarze dzia∏ania izby, wokresie mi´dzy zjazdami, wszczególnoÊci:
+1. Okręgowa rada izby wykonuje zadania samorządu zawodowego na obszarze działania izby, wokresie między zjazdami, wszczególności:
 
-- **1)** kieruje dzia∏alnoÊcià okr´gowej izby,
-- **2)** wykonuje uchwa∏y okr´gowego zjazdu izby,
-- **3)** dokonuje podzia∏u obszaru dzia∏ania okr´gowej izby na obwody wyborcze iustala liczb´ delegatów na okr´gowy zjazd,
-- **4)** sporzàdza sprawozdania zwykonania bud˝etu,
-- **5)** sk∏ada okr´gowemu zjazdowi izby oraz Krajowej Radzie Izby sprawozdania ze swojej dzia∏alnoÊci,
-- **6)** wykonuje zadania zlecone przez Krajowà Izb´,
-- **7)** reprezentuje samorzàd zawodowy przed organami administracji rzàdowej isamorzàdu terytorialnego oraz w∏aÊciwymi stowarzyszeniami zawodowymi,
-- **8)** prowadzi list´ cz∏onków okr´gowej izby,
-- **9)** wyst´puje do okr´gowego sàdu dyscyplinarnego o wszcz´cie post´powania dyscyplinarnego oraz prowadzi sprawy z zakresu odpowiedzialnoÊci zawodowej,
-- **10)** prowadzi rejestr ukaranych z tytu∏u odpowiedzialnoÊci dyscyplinarnej cz∏onków okr´gowej izby.
+- **1)** kieruje działalnością okręgowej izby,
+- **2)** wykonuje uchwały okręgowego zjazdu izby,
+- **3)** dokonuje podziału obszaru działania okręgowej izby na obwody wyborcze iustala liczbę delegatów na okręgowy zjazd,
+- **4)** sporządza sprawozdania zwykonania budżetu,
+- **5)** składa okręgowemu zjazdowi izby oraz Krajowej Radzie Izby sprawozdania ze swojej działalności,
+- **6)** wykonuje zadania zlecone przez Krajową Izbę,
+- **7)** reprezentuje samorząd zawodowy przed organami administracji rządowej isamorządu terytorialnego oraz właściwymi stowarzyszeniami zawodowymi,
+- **8)** prowadzi listę członków okręgowej izby,
+- **9)** występuje do okręgowego sądu dyscyplinarnego o wszczęcie postępowania dyscyplinarnego oraz prowadzi sprawy z zakresu odpowiedzialności zawodowej,
+- **10)** prowadzi rejestr ukaranych z tytułu odpowiedzialności dyscyplinarnej członków okręgowej izby.
 
-2. Okr´gowa rada izby podejmuje uchwa∏´ wsprawie wpisu na list´ cz∏onków okr´gowej izby oraz skreÊlenia zlisty lub zawieszenia wprawach cz∏onka.
+2. Okręgowa rada izby podejmuje uchwałę wsprawie wpisu na listę członków okręgowej izby oraz skreślenia zlisty lub zawieszenia wprawach członka.
 
-3. Uchwa∏a rady okr´gowej izby w sprawie wpisu na list´ cz∏onków powinna byç podj´ta wciàgu 2 miesi´cy od dnia z∏o˝enia wniosku owpis.
+3. Uchwała rady okręgowej izby w sprawie wpisu na listę członków powinna być podjęta wciągu 2 miesięcy od dnia złożenia wniosku owpis.
 
-4. Od uchwa∏y, októrej mowa wust. 2, s∏u˝y odwo∏anie do Krajowej Rady Izby wterminie 30 dni od daty dor´czenia uchwa∏y.
+4. Od uchwały, októrej mowa wust. 2, służy odwołanie do Krajowej Rady Izby wterminie 30 dni od daty doręczenia uchwały.
 
-5. Od uchwa∏y, októrej mowa wust. 2, oraz wwypadku niepodj´cia uchwa∏y przez rad´ okr´gowà izby wciàgu 2 miesi´cy od dnia z∏o˝enia wniosku owpis lub niepodj´cia uchwa∏y przez Krajowà Rad´ Izby wciàgu 2 miesi´cy od dnia dor´czenia odwo∏ania, zainteresowanemu s∏u˝y skarga do Naczelnego Sàdu Administracyjnego.
+5. Od uchwały, októrej mowa wust. 2, oraz wwypadku niepodjęcia uchwały przez radę okręgową izby wciągu 2 miesięcy od dnia złożenia wniosku owpis lub niepodjęcia uchwały przez Krajową Radę Izby wciągu 2 miesięcy od dnia doręczenia odwołania, zainteresowanemu służy skarga do Naczelnego Sądu Administracyjnego.
 
 **Art. 20.**
 
-1. Okr´gowa rada izby urbanistów zawiadamia w terminie 30 dni Prezesa Urz´du Mieszkalnictwa i Rozwoju Miast o ka˝dej uchwale o wpisie na list´ cz∏onków izby albo oodmowie wpisu.
+1. Okręgowa rada izby urbanistów zawiadamia w terminie 30 dni Prezesa Urzędu Mieszkalnictwa i Rozwoju Miast o każdej uchwale o wpisie na listę członków izby albo oodmowie wpisu.
 
-2. Wpis na list´ cz∏onków izby uwa˝a si´ za dokonany, je˝eli Prezes Urz´du Mieszkalnictwa i Rozwoju Miast nie sprzeciwi si´ wpisowi w terminie 30 dni od dnia otrzymania uchwa∏y wraz z aktami osobowymi wpisanego. Sprzeciw wymaga uzasadnienia.
+2. Wpis na listę członków izby uważa się za dokonany, jeżeli Prezes Urzędu Mieszkalnictwa i Rozwoju Miast nie sprzeciwi się wpisowi w terminie 30 dni od dnia otrzymania uchwały wraz z aktami osobowymi wpisanego. Sprzeciw wymaga uzasadnienia.
 
-3. Sprzeciw, októrym mowa wust. 2, mo˝e byç zaskar˝ony przez zainteresowanego lub okr´gowà rad´ izby do Naczelnego Sàdu Administracyjnego wterminie 30 dni od daty dor´czenia sprzeciwu.
+3. Sprzeciw, októrym mowa wust. 2, może być zaskarżony przez zainteresowanego lub okręgową radę izby do Naczelnego Sądu Administracyjnego wterminie 30 dni od daty doręczenia sprzeciwu.
 
 **Art. 21.**
 
-- **2)** okr´gowy rzecznik odpowiedzialnoÊci zawodowej,
-- **3)** inne zaproszone osoby, awszczególnoÊci przedstawiciele stowarzyszeƒ zawodowych.
+- **2)** okręgowy rzecznik odpowiedzialności zawodowej,
+- **3)** inne zaproszone osoby, awszczególności przedstawiciele stowarzyszeń zawodowych.
 
-**Art. 23.** Okr´gowa komisja rewizyjna:
+**Art. 23.** Okręgowa komisja rewizyjna:
 
 **Art. 24.**
 
-1. Okr´gowa komisja kwalifikacyjna:
+1. Okręgowa komisja kwalifikacyjna:
 
-- **1)** prowadzi post´powania kwalifikacyjne wsprawach nadawania uprawnieƒ budowlanych, zwane dalej „post´powaniami kwalifikacyjnymi”,
-- **2)** przeprowadza egzaminy w sprawach nadawania uprawnieƒ budowlanych iwydaje decyzje onadaniu tych uprawnieƒ, zzastrze˝eniem art. 33 pkt 9,
+- **1)** prowadzi postępowania kwalifikacyjne wsprawach nadawania uprawnień budowlanych, zwane dalej Ńpostępowaniami kwalifikacyjnymi”,
+- **2)** przeprowadza egzaminy w sprawach nadawania uprawnień budowlanych iwydaje decyzje onadaniu tych uprawnień, zzastrzeżeniem art. 33 pkt 9,
 
-1. Wsk∏ad prezydium okr´gowej rady izby wchodzà przewodniczàcy oraz wybrani przez okr´gowà rad´ spoÊród jej cz∏onków: zast´pcy przewodniczàcego, sekretarz, skarbnik icz∏onkowie.
+1. Wskład prezydium okręgowej rady izby wchodzą przewodniczący oraz wybrani przez okręgową radę spośród jej członków: zastępcy przewodniczącego, sekretarz, skarbnik iczłonkowie.
 
-2. Prezydium okr´gowej rady izby reprezentuje okr´gowà rad´ na zewnàtrz i dzia∏a w jej imieniu wsprawach okreÊlonych regulaminem rady.
+2. Prezydium okręgowej rady izby reprezentuje okręgową radę na zewnątrz i działa w jej imieniu wsprawach określonych regulaminem rady.
 
-3. OÊwiadczenia woli w imieniu okr´gowej rady izby sk∏adajà co najmniej dwaj cz∏onkowie prezydium, wtym przewodniczàcy lub zast´pca.
+3. Oświadczenia woli w imieniu okręgowej rady izby składają co najmniej dwaj członkowie prezydium, wtym przewodniczący lub zastępca.
 
-**Art. 22.** W posiedzeniach okr´gowej rady izby iprezydium mogà braç udzia∏ zg∏osem doradczym:
+**Art. 22.** W posiedzeniach okręgowej rady izby iprezydium mogą brać udział zgłosem doradczym:
 
 **Art. 25.**
 
-1. Okr´gowy sàd dyscyplinarny rozpatruje sprawy z zakresu odpowiedzialnoÊci zawodowej okreÊlonej w ustawie Prawo budowlane oraz sprawy dyscyplinarne cz∏onków okr´gowej izby wniesione przez okr´gowego rzecznika odpowiedzialnoÊci zawodowej lub okr´gowà rad´ izby.
+1. Okręgowy sąd dyscyplinarny rozpatruje sprawy z zakresu odpowiedzialności zawodowej określonej w ustawie Prawo budowlane oraz sprawy dyscyplinarne członków okręgowej izby wniesione przez okręgowego rzecznika odpowiedzialności zawodowej lub okręgową radę izby.
 
-2. Okr´gowy sàd dyscyplinarny orzeka w sk∏adzie trzyosobowym.
+2. Okręgowy sąd dyscyplinarny orzeka w składzie trzyosobowym.
 
-3. Okr´gowy sàd dyscyplinarny orzeka o zatarciu kary, októrej mowa wart. 101 ust. 1 ustawy Prawo budowlane.
+3. Okręgowy sąd dyscyplinarny orzeka o zatarciu kary, októrej mowa wart. 101 ust. 1 ustawy Prawo budowlane.
 
-4. Okr´gowy sàd dyscyplinarny dokonuje, co najmniej raz wroku, analizy przeprowadzonych post´powaƒ wsprawach odpowiedzialnoÊci zawodowej cz∏onków izb architektów oraz in˝ynierów budownictwa i dyscyplinarnej cz∏onków izby oraz sk∏ada okr´gowemu zjazdowi izby iKrajowemu Sàdowi Dyscyplinarnemu roczne i kadencyjne sprawozdania ze swojej dzia∏alnoÊci.
+4. Okręgowy sąd dyscyplinarny dokonuje, co najmniej raz wroku, analizy przeprowadzonych postępowań wsprawach odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa i dyscyplinarnej członków izby oraz składa okręgowemu zjazdowi izby iKrajowemu Sądowi Dyscyplinarnemu roczne i kadencyjne sprawozdania ze swojej działalności.
 
-**Art. 26.** Okr´gowy rzecznik odpowiedzialnoÊci zawodowej:
+**Art. 26.** Okręgowy rzecznik odpowiedzialności zawodowej:
 
-**Art. 27.** Najwy˝szymi jednostkami organizacyjnymi samorzàdów zawodowych sà Krajowe Izby.
+#### Rozdział 3 Krajowe Izby
+
+**Art. 27.** Najwyższymi jednostkami organizacyjnymi samorządów zawodowych są Krajowe Izby.
 
 **Art. 28.**
 
-1. Organami Krajowych Izb sà:
+1. Organami Krajowych Izb są:
 
 - **1)** Krajowy Zjazd Izby,
 - **2)** Krajowa Rada Izby,
 - **3)** Krajowa Komisja Rewizyjna,
 - **4)** Krajowa Komisja Kwalifikacyjna,
-- **5)** Krajowy Sàd Dyscyplinarny,
-- **6)** Krajowy Rzecznik OdpowiedzialnoÊci Zawodowej.
+- **5)** Krajowy Sąd Dyscyplinarny,
+- **6)** Krajowy Rzecznik Odpowiedzialności Zawodowej.
 
 2. Kadencja organów Krajowych Izb trwa 4 lata.
 
 **Art. 29.**
 
-1. Krajowy Zjazd Izby jest najwy˝szym organem Krajowej Izby.
+1. Krajowy Zjazd Izby jest najwyższym organem Krajowej Izby.
 
-2. Krajowy Zjazd Izby stanowià delegaci wybrani przez okr´gowe zjazdy izb.
+2. Krajowy Zjazd Izby stanowią delegaci wybrani przez okręgowe zjazdy izb.
 
-3. WKrajowym Zjeêdzie Izby biorà udzia∏ zg∏osem doradczym nie b´dàcy delegatami cz∏onkowie ust´pujàcych organów Krajowej Izby, o których mowa wart.28 ust. 1 pkt 2—6.
+3. WKrajowym Zjeêdzie Izby biorą udział zgłosem doradczym nie będący delegatami członkowie ustępujących organów Krajowej Izby, o których mowa wart.28 ust. 1 pkt 2—6.
 
-4. Krajowa Rada Izby okreÊla zasady ustalania liczby delegatów zokr´gowych izb na Krajowy Zjazd Izby.
+4. Krajowa Rada Izby określa zasady ustalania liczby delegatów zokręgowych izb na Krajowy Zjazd Izby.
 
-5. Krajowa Rada Izby zwo∏uje Krajowy Zjazd Izby, co najmniej raz wroku jako sprawozdawczy, aco 4 la6. Nadzwyczajny Krajowy Zjazd Izby zwo∏uje Krajowa Rada Izby zw∏asnej inicjatywy lub na wniosek Krajowej Komisji Rewizyjnej, co najmniej 1/3 ogólnej liczby cz∏onków okr´gowych rad izb, co najmniej 1/5wszystkich cz∏onków okr´gowych izb albo ministra w∏aÊciwego do spraw architektury i budownictwa dla izb architektów iin˝ynierów budownictwa lub ministra w∏aÊciwego do spraw gospodarki przestrzennej imieszkaniowej dla izby urbanistów.
+5. Krajowa Rada Izby zwołuje Krajowy Zjazd Izby, co najmniej raz wroku jako sprawozdawczy, aco 4 la6. Nadzwyczajny Krajowy Zjazd Izby zwołuje Krajowa Rada Izby zwłasnej inicjatywy lub na wniosek Krajowej Komisji Rewizyjnej, co najmniej 1/3 ogólnej liczby członków okręgowych rad izb, co najmniej 1/5wszystkich członków okręgowych izb albo ministra właściwego do spraw architektury i budownictwa dla izb architektów iinżynierów budownictwa lub ministra właściwego do spraw gospodarki przestrzennej imieszkaniowej dla izby urbanistów.
 
-7. Nadzwyczajny Krajowy Zjazd Izby powinien byç zwo∏any wterminie 2 miesi´cy od dnia wp∏ywu wniosku ozwo∏anie zjazdu.
+7. Nadzwyczajny Krajowy Zjazd Izby powinien być zwołany wterminie 2 miesięcy od dnia wpływu wniosku ozwołanie zjazdu.
 
 **Art. 30.**
 
-1. Uchwa∏y Krajowego Zjazdu Izby sà podejmowane zwyk∏à wi´kszoÊcià g∏osów, w obecnoÊci co najmniej po∏owy liczby delegatów na Krajowy Zjazd Izby.
+1. Uchwały Krajowego Zjazdu Izby są podejmowane zwykłą większością głosów, w obecności co najmniej połowy liczby delegatów na Krajowy Zjazd Izby.
 
-2. Wybory do organów Krajowej Izby odbywajà si´ wg∏osowaniu tajnym.
+2. Wybory do organów Krajowej Izby odbywają się wgłosowaniu tajnym.
 
-3. Krajowy Zjazd mo˝e uchwaliç tajnoÊç obrad na ta jako sprawozdawczo-wyborczy. wniosek co najmniej 1/3 delegatów Krajowego Zjazdu Izby.
+3. Krajowy Zjazd może uchwalić tajność obrad na ta jako sprawozdawczo-wyborczy. wniosek co najmniej 1/3 delegatów Krajowego Zjazdu Izby.
 
 **Art. 31.** Krajowy Zjazd Izby:
 
 **Art. 32.**
 
-1. Wsk∏ad Krajowej Rady Izby wchodzà Prezes icz∏onkowie wybrani przez Krajowy Zjazd Izby.
+1. Wskład Krajowej Rady Izby wchodzą Prezes iczłonkowie wybrani przez Krajowy Zjazd Izby.
 
-2. Prezydium Krajowej Rady Izby stanowià Prezes i wybrani przez Krajowà Rad´ Izby spoÊród jej cz∏onków: wiceprezesi, sekretarz, skarbnik icz∏onkowie.
+2. Prezydium Krajowej Rady Izby stanowią Prezes i wybrani przez Krajową Radę Izby spośród jej członków: wiceprezesi, sekretarz, skarbnik iczłonkowie.
 
-3. Prezydium Krajowej Rady Izby dzia∏a w imieniu Krajowej Rady Izby wsprawach okreÊlonych regulaminem Rady.
+3. Prezydium Krajowej Rady Izby działa w imieniu Krajowej Rady Izby wsprawach określonych regulaminem Rady.
 
-4. OÊwiadczenia woli wimieniu Krajowej Rady Izby sk∏adajà przynajmniej dwaj cz∏onkowie prezydium, wtym Prezes lub wiceprezes.
+4. Oświadczenia woli wimieniu Krajowej Rady Izby składają przynajmniej dwaj członkowie prezydium, wtym Prezes lub wiceprezes.
 
-**Art. 33.** Krajowa Rada Izby kieruje dzia∏alnoÊcià samorzàdu zawodowego mi´dzy Krajowymi Zjazdami, awszczególnoÊci:
+**Art. 33.** Krajowa Rada Izby kieruje działalnością samorządu zawodowego między Krajowymi Zjazdami, awszczególności:
 
-**Art. 34.** W posiedzeniach Krajowej Rady Izby i jej prezydium majà prawo uczestniczyç z g∏osem doradczym przewodniczàcy: Krajowej Komisji Rewizyjnej, Krajowej Komisji Kwalifikacyjnej, Krajowego Sàdu Dyscyplinarnego, okr´gowych rad izb, Krajowy Rzecznik OdpowiedzialnoÊci Zawodowej, przedstawiciel ministra w∏aÊciwego do spraw architektury i budownictwa lub ministra w∏aÊciwego do spraw gospodarki przestrzennej imieszkaniowej iinne zaproszone osoby.
+**Art. 34.** W posiedzeniach Krajowej Rady Izby i jej prezydium mają prawo uczestniczyć z głosem doradczym przewodniczący: Krajowej Komisji Rewizyjnej, Krajowej Komisji Kwalifikacyjnej, Krajowego Sądu Dyscyplinarnego, okręgowych rad izb, Krajowy Rzecznik Odpowiedzialności Zawodowej, przedstawiciel ministra właściwego do spraw architektury i budownictwa lub ministra właściwego do spraw gospodarki przestrzennej imieszkaniowej iinne zaproszone osoby.
 
 **Art. 35.**
 
 1. Krajowa Komisja Rewizyjna:
 
-- **1)** kontroluje statutowà, finansowà i gospodarczà dzia∏alnoÊç Krajowej Izby, jowà Rad´ Izby,
-- **2)** przedstawia sprawozdanie zdzia∏alnoÊci kontrolnej Krajowemu Zjazdowi Izby,
-- **3)** sprawuje nadzór nad dzia∏alnoÊcià okr´gowych komisji rewizyjnych,
-- **4)** wyst´puje z wnioskiem o udzielenie absolutorium Krajowej Radzie Izby.
+- **1)** kontroluje statutową, finansową i gospodarczą działalność Krajowej Izby, jową Radę Izby,
+- **2)** przedstawia sprawozdanie zdziałalności kontrolnej Krajowemu Zjazdowi Izby,
+- **3)** sprawuje nadzór nad działalnością okręgowych komisji rewizyjnych,
+- **4)** występuje z wnioskiem o udzielenie absolutorium Krajowej Radzie Izby.
 
-2. Krajowa Komisja Rewizyjna uchyla uchwa∏y okr´gowych komisji rewizyjnych sprzeczne z prawem lub uchwa∏ami i regulaminami wydanymi na podstawie ustawy.
+2. Krajowa Komisja Rewizyjna uchyla uchwały okręgowych komisji rewizyjnych sprzeczne z prawem lub uchwałami i regulaminami wydanymi na podstawie ustawy.
 
 **Art. 36.**
 
-1. Krajowa Komisja Kwalifikacyjna wszczególnoÊci:
+1. Krajowa Komisja Kwalifikacyjna wszczególności:
 
-- **1)** prowadzi post´powanie odwo∏awcze i wydaje decyzje w drugiej instancji w sprawach, o których mowa wart. 24 ust. 1 pkt 2 i3,
-- **2)** opracowuje zestawy pytaƒ egzaminacyjnych,
-- **3)** wydaje decyzje w sprawie nadania tytu∏u rzeczoznawcy budowlanego, o których mowa w art. 15 ust. 2 ustawy Prawo budowlane,
-- **4)** dokonuje, co najmniej raz do roku, analizy przeprowadzonych post´powaƒ kwalifikacyjnych w sprawach nadawania uprawnieƒ budowlanych irzeczoznawstwa budowlanego,
-- **5)** sporzàdza opinie dla Krajowego Sàdu Dyscyplinarnego wsprawach zzakresu odpowiedzialnoÊci zawodowej cz∏onków izb architektów oraz in˝ynierów budownictwa,
-- **6)** sk∏ada Krajowemu Zjazdowi Izby sprawozdanie ze swojej dzia∏alnoÊci,
-- **7)** sprawuje nadzór nad dzia∏alnoÊcià okr´gowych komisji kwalifikacyjnych.
+- **1)** prowadzi postępowanie odwoławcze i wydaje decyzje w drugiej instancji w sprawach, o których mowa wart. 24 ust. 1 pkt 2 i3,
+- **2)** opracowuje zestawy pytań egzaminacyjnych,
+- **3)** wydaje decyzje w sprawie nadania tytułu rzeczoznawcy budowlanego, o których mowa w art. 15 ust. 2 ustawy Prawo budowlane,
+- **4)** dokonuje, co najmniej raz do roku, analizy przeprowadzonych postępowań kwalifikacyjnych w sprawach nadawania uprawnień budowlanych irzeczoznawstwa budowlanego,
+- **5)** sporządza opinie dla Krajowego Sądu Dyscyplinarnego wsprawach zzakresu odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa,
+- **6)** składa Krajowemu Zjazdowi Izby sprawozdanie ze swojej działalności,
+- **7)** sprawuje nadzór nad działalnością okręgowych komisji kwalifikacyjnych.
 
-2. Krajowa Komisja Kwalifikacyjna uchyla uchwa∏y okr´gowych komisji kwalifikacyjnych sprzeczne z prawem lub uchwa∏ami i regulaminami wydanymi na podstawie ustawy.
+2. Krajowa Komisja Kwalifikacyjna uchyla uchwały okręgowych komisji kwalifikacyjnych sprzeczne z prawem lub uchwałami i regulaminami wydanymi na podstawie ustawy.
 
-3. Decyzje, októrych mowa wust. 1 pkt 1, sà decyzjami ostatecznymi, od których przys∏uguje skarga do Naczelnego Sàdu Administracyjnego wterminie 30 dni od daty ich otrzymania.
+3. Decyzje, októrych mowa wust. 1 pkt 1, są decyzjami ostatecznymi, od których przysługuje skarga do Naczelnego Sądu Administracyjnego wterminie 30 dni od daty ich otrzymania.
 
 **Art. 37.**
 
-1. Krajowy Sàd Dyscyplinarny:
+1. Krajowy Sąd Dyscyplinarny:
 
-- **1)** rozpatruje odwo∏ania od orzeczeƒ okr´gowych sàdów dyscyplinarnych,
-- **2)** rozpatruje jako sàd pierwszej instancji sprawy cz∏onków organów Krajowej Izby iokr´gowych izb z zakresu odpowiedzialnoÊci dyscyplinarnej oraz zzakresu odpowiedzialnoÊci zawodowej cz∏onków izb architektów oraz in˝ynierów budownictwa,
-- **3)** dokonuje, co najmniej raz do roku, analizy post´powaƒ z zakresu odpowiedzialnoÊci zawodowej cz∏onków izb architektów oraz in˝ynierów budownictwa idyscyplinarnej,
-- **4)** sk∏ada Krajowemu Zjazdowi Izby coroczne sprawozdanie ze swojej dzia∏alnoÊci,
-- **5)** sprawuje nadzór nad dzia∏alnoÊcià okr´gowych sàdów dyscyplinarnych,
-- **6)** uchyla uchwa∏y okr´gowych sàdów dyscyplinarnych sprzeczne z prawem lub uchwa∏ami i regulaminami wydanymi na podstawie niniejszej ustawy.
+- **1)** rozpatruje odwołania od orzeczeń okręgowych sądów dyscyplinarnych,
+- **2)** rozpatruje jako sąd pierwszej instancji sprawy członków organów Krajowej Izby iokręgowych izb z zakresu odpowiedzialności dyscyplinarnej oraz zzakresu odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa,
+- **3)** dokonuje, co najmniej raz do roku, analizy postępowań z zakresu odpowiedzialności zawodowej członków izb architektów oraz inżynierów budownictwa idyscyplinarnej,
+- **4)** składa Krajowemu Zjazdowi Izby coroczne sprawozdanie ze swojej działalności,
+- **5)** sprawuje nadzór nad działalnością okręgowych sądów dyscyplinarnych,
+- **6)** uchyla uchwały okręgowych sądów dyscyplinarnych sprzeczne z prawem lub uchwałami i regulaminami wydanymi na podstawie niniejszej ustawy.
 
-2. Krajowy Sàd Dyscyplinarny orzeka w sk∏adzie trzyosobowym jako sàd pierwszej instancji ipi´cioosobowym jako sàd odwo∏awczy.
+2. Krajowy Sąd Dyscyplinarny orzeka w składzie trzyosobowym jako sąd pierwszej instancji ipięcioosobowym jako sąd odwoławczy.
 
-**Art. 38.** Krajowy Rzecznik OdpowiedzialnoÊci Zawodowej:
+**Art. 38.** Krajowy Rzecznik Odpowiedzialności Zawodowej:
 
-**Art. 39.** Osoby, o których mowa w art. 12a ustawy Prawo budowlane oraz w art. ust. 3 pkt 6 i ust. 4 ustawy, podlegajà na ich wniosek wpisowi na list´ cz∏onków wskazanej przez nich okr´gowej izby ipodlegajà przepisom ustawy, zzastrze˝eniem art. 33 pkt 8 i9.
+#### Rozdział 4 Członkostwo wokręgowych izbach
+
+**Art. 39.** Osoby, o których mowa w art. 12a ustawy Prawo budowlane oraz w art. ust. 3 pkt 6 i ust. 4 ustawy, podlegają na ich wniosek wpisowi na listę członków wskazanej przez nich okręgowej izby ipodlegają przepisom ustawy, zzastrzeżeniem art. 33 pkt 8 i9.
 
 **Art. 40.**
 
-1. Cz∏onek izby ma prawo:
+1. Członek izby ma prawo:
 
-- **1)** korzystaç zpomocy wzakresie podnoszenia kwaliwarunków wykonywania samodzielnych funkcji technicznych wbudownictwie lub czynnoÊci urbanisty,
-- **2)** korzystaç zochrony ipomocy prawnej izby,
-- **3)** korzystaç zdzia∏alnoÊci samopomocowej.
+- **1)** korzystać zpomocy wzakresie podnoszenia kwaliwarunków wykonywania samodzielnych funkcji technicznych wbudownictwie lub czynności urbanisty,
+- **2)** korzystać zochrony ipomocy prawnej izby,
+- **3)** korzystać zdziałalności samopomocowej.
 
-2. Cz∏onek samorzàdu zawodowego mo˝e zaskar˝yç uchwa∏´ okr´gowej izby do w∏aÊciwych organów Krajowej Izby, auchwa∏´ Krajowej Izby do Naczelnego Sàdu Administracyjnego.
+2. Członek samorządu zawodowego może zaskarżyć uchwałę okręgowej izby do właściwych organów Krajowej Izby, auchwałę Krajowej Izby do Naczelnego Sądu Administracyjnego.
 
-**Art. 41.** Cz∏onek izby jest obowiàzany:
+**Art. 41.** Członek izby jest obowiązany:
 
 **Art. 42.**
 
-1. SkreÊlenie z listy cz∏onków okr´gowej izby nast´puje wwypadku: fikacji zawodowych oraz zapewnienia w∏aÊciwych
+1. Skreślenie z listy członków okręgowej izby następuje wwypadku: fikacji zawodowych oraz zapewnienia właściwych
 
-- **1)** wniosku cz∏onka,
-- **2)** orzeczenia o stwierdzeniu utraty uprawnieƒ budowlanych,
+- **1)** wniosku członka,
+- **2)** orzeczenia o stwierdzeniu utraty uprawnień budowlanych,
 - **3)** orzeczenia kary, októrej mowa wart. 54 ust. 1 pkt4,
-- **4)** Êmierci cz∏onka.
+- **4)** śmierci członka.
 
-2. SkreÊlenie z listy cz∏onków okr´gowych izb mo˝e nastàpiç tak˝e w wypadku nieuiszczania sk∏adek cz∏onkowskich przez okres 1 roku.
+2. Skreślenie z listy członków okręgowych izb może nastąpić także w wypadku nieuiszczania składek członkowskich przez okres 1 roku.
 
-3. Zawieszenie w prawach cz∏onka izby nast´puje wwypadku:
+3. Zawieszenie w prawach członka izby następuje wwypadku:
 
 - **1)** orzeczenia kary, októrej mowa wart. 96 ust. 1 pkt3 ustawy Prawo budowlane,
-- **2)** orzeczenia kary dyscyplinarnej o zawieszeniu wprawach cz∏onka izby,
-- **3)** nieuiszczania sk∏adek cz∏onkowskich przez okres d∏u˝szy ni˝ 6 miesi´cy,
-- **4)** wniosku cz∏onka izby, który czasowo zaprzesta∏ wykonywania samodzielnej funkcji technicznej w budownictwie lub czynnoÊci urbanisty.
+- **2)** orzeczenia kary dyscyplinarnej o zawieszeniu wprawach członka izby,
+- **3)** nieuiszczania składek członkowskich przez okres dłuższy niż 6 miesięcy,
+- **4)** wniosku członka izby, który czasowo zaprzestał wykonywania samodzielnej funkcji technicznej w budownictwie lub czynności urbanisty.
 
 **Art. 43.**
 
-1. Cz∏onkowi izby ukaranemu w trybie odpowiedzialnoÊci zawodowej izb architektów oraz in˝ynierów budownictwa lub dyscyplinarnej, do czasu zatarcia kary zawieszenia w prawach cz∏onka, nie przys∏uguje czynne ibierne prawo wyborcze.
+1. Członkowi izby ukaranemu w trybie odpowiedzialności zawodowej izb architektów oraz inżynierów budownictwa lub dyscyplinarnej, do czasu zatarcia kary zawieszenia w prawach członka, nie przysługuje czynne ibierne prawo wyborcze.
 
-2. Cz∏onek izby, októrym mowa wust. 1, nie mo˝e pe∏niç funkcji w organach izby, a jego mandat w tych organach wygasa.
+2. Członek izby, októrym mowa wust. 1, nie może pełnić funkcji w organach izby, a jego mandat w tych organach wygasa.
 
-3. Zawieszenie w prawach cz∏onka izby powoduje zakaz wykonywania samodzielnych funkcji technicznych wbudownictwie, októrych mowa wart. 14 ust. 1 pkt 1—5 ustawy Prawo budowlane, na okres zawieszenia.
+3. Zawieszenie w prawach członka izby powoduje zakaz wykonywania samodzielnych funkcji technicznych wbudownictwie, októrych mowa wart. 14 ust. 1 pkt 1—5 ustawy Prawo budowlane, na okres zawieszenia.
 
-**Art. 44.** Cz∏onek organów izby pe∏ni swoje funkcje spo∏ecznie, chyba ˝e Zjazd Krajowej Izby, w drodze uchwa∏y, postanowi inaczej. Rozdzia∏ OdpowiedzialnoÊç dyscyplinarna
+**Art. 44.** Członek organów izby pełni swoje funkcje społecznie, chyba że Zjazd Krajowej Izby, w drodze uchwały, postanowi inaczej.
+
+#### Rozdział Odpowiedzialność dyscyplinarna
 
 **Art. 45.**
 
-1. Cz∏onek izby podlega odpowiedzialnoÊci dyscyplinarnej za zawinione naruszenie obowiàzków, októrych mowa wart. 41.
+1. Członek izby podlega odpowiedzialności dyscyplinarnej za zawinione naruszenie obowiązków, októrych mowa wart. 41.
 
-2. Od odpowiedzialnoÊci dyscyplinarnej wy∏àczone sà czyny podlegajàce odpowiedzialnoÊci zawodowej, okreÊlone wart. 95 ustawy Prawo budowlane, oraz czyny podlegajàce odpowiedzialnoÊci porzàdkowej zgodnie zprzepisami Kodeksu pracy.
+2. Od odpowiedzialności dyscyplinarnej wyłączone są czyny podlegające odpowiedzialności zawodowej, określone wart. 95 ustawy Prawo budowlane, oraz czyny podlegające odpowiedzialności porządkowej zgodnie zprzepisami Kodeksu pracy.
 
-**Art. 46.** Post´powanie dyscyplinarne obejmuje:
+**Art. 46.** Postępowanie dyscyplinarne obejmuje:
 
 **Art. 47.**
 
-1. Post´powanie dyscyplinarne wszczyna si´ na wniosek okr´gowej rady izby, okr´gowego rzecznika odpowiedzialnoÊci zawodowej lub Krajowego Rzecznika OdpowiedzialnoÊci Zawodowej.
+1. Postępowanie dyscyplinarne wszczyna się na wniosek okręgowej rady izby, okręgowego rzecznika odpowiedzialności zawodowej lub Krajowego Rzecznika Odpowiedzialności Zawodowej.
 
-2. Oskar˝ycielem wpost´powaniu dyscyplinarnym przed okr´gowym sàdem dyscyplinarnym jest okr´gowy rzecznik odpowiedzialnoÊci zawodowej, a przed Krajowym Sàdem Dyscyplinarnym wsprawach cz∏onków organów Krajowej Izby Krajowy Rzecznik OdpowiedzialnoÊci Zawodowej.
+2. Oskarżycielem wpostępowaniu dyscyplinarnym przed okręgowym sądem dyscyplinarnym jest okręgowy rzecznik odpowiedzialności zawodowej, a przed Krajowym Sądem Dyscyplinarnym wsprawach członków organów Krajowej Izby Krajowy Rzecznik Odpowiedzialności Zawodowej.
 
-**Art. 48.** Stronami wpost´powaniu dyscyplinarnym sà:
+**Art. 48.** Stronami wpostępowaniu dyscyplinarnym są:
 
 **Art. 49.**
 
-1. Cz∏onek izby, którego dotyczy post´powanie, mo˝e ustanowiç obroƒców spoÊród cz∏onków samorzàdu zawodowego, adwokatów lub radców prawnych wka˝dym stadium post´powania.
+1. Członek izby, którego dotyczy postępowanie, może ustanowić obrońców spośród członków samorządu zawodowego, adwokatów lub radców prawnych wkażdym stadium postępowania.
 
-2. Obroƒcà nie mo˝e byç cz∏onek sàdu dyscyplinarnego irzecznik odpowiedzialnoÊci zawodowej.
+2. Obrońcą nie może być członek sądu dyscyplinarnego irzecznik odpowiedzialności zawodowej.
 
-3. W wypadku gdy cz∏onek izby nie ma obroƒcy z wyboru, sàd dyscyplinarny wyznaczy mu obroƒc´ zurz´du, je˝eli:
+3. W wypadku gdy członek izby nie ma obrońcy z wyboru, sąd dyscyplinarny wyznaczy mu obrońcę zurzędu, jeżeli:
 
-- **1)** zachodzi uzasadniona wàtpliwoÊç co do poczytalnoÊci osoby, której dotyczy post´powanie,
-- **2)** post´powanie toczy si´ po Êmierci osoby, której dotyczy post´powanie.
+- **1)** zachodzi uzasadniona wątpliwość co do poczytalności osoby, której dotyczy postępowanie,
+- **2)** postępowanie toczy się po śmierci osoby, której dotyczy postępowanie.
 
-4. Sàd dyscyplinarny na wniosek obwinionego mo˝e wyznaczyç obroƒc´ tak˝e w innych uzasadnionych wypadkach.
+4. Sąd dyscyplinarny na wniosek obwinionego może wyznaczyć obrońcę także w innych uzasadnionych wypadkach.
 
-5. Przepisy ust. 3 i4 stosuje si´ równie˝ wtoku post´powania wyjaÊniajàcego.
+5. Przepisy ust. 3 i4 stosuje się również wtoku postępowania wyjaśniającego.
 
-6. Obroƒca jest obowiàzany zachowaç wtajemnicy wszystko, o czym si´ dowie w zwiàzku z wykonywaArt. 50. W razie Êmierci obwinionego przed ukoƒczeniem post´powania dyscyplinarnego toczy si´ ono nadal, je˝eli tego za˝àda ma∏˝onek obwinionego, jego krewny w linii prostej, brat lub siostra, w terminie 2miesi´cy od dnia zgonu obwinionego.
+6. Obrońca jest obowiązany zachować wtajemnicy wszystko, o czym się dowie w związku z wykonywaArt. 50. W razie śmierci obwinionego przed ukończeniem postępowania dyscyplinarnego toczy się ono nadal, jeżeli tego zażąda małżonek obwinionego, jego krewny w linii prostej, brat lub siostra, w terminie 2miesięcy od dnia zgonu obwinionego.
 
 **Art. 51.**
 
-1. Post´powanie dyscyplinarne o ten sam czyn toczy si´ niezale˝nie od post´powania karnego lub post´powania dyscyplinarnego wszcz´tego wjednostce organizacyjnej, w której przepisy szczególne przewidujà takie post´powanie. Post´powanie dyscyplinarne mo˝e byç jednak zawieszone do czasu ukoƒczenia post´powania karnego.
+1. Postępowanie dyscyplinarne o ten sam czyn toczy się niezależnie od postępowania karnego lub postępowania dyscyplinarnego wszczętego wjednostce organizacyjnej, w której przepisy szczególne przewidują takie postępowanie. Postępowanie dyscyplinarne może być jednak zawieszone do czasu ukończenia postępowania karnego.
 
-2. Post´powania dyscyplinarnego nie wszczyna si´, awszcz´te umarza, je˝eli zasz∏a okolicznoÊç, która wed∏ug Kodeksu post´powania karnego wy∏àcza Êciganie.
+2. Postępowania dyscyplinarnego nie wszczyna się, awszczęte umarza, jeżeli zaszła okoliczność, która według Kodeksu postępowania karnego wyłącza ściganie.
 
 **Art. 52.**
 
-1. Nie mo˝na wszczàç post´powania dyscyplinarnego:
+1. Nie można wszcząć postępowania dyscyplinarnego:
 
-- **1)** po up∏ywie 3 miesi´cy od dnia powzi´cia przez okr´gowego rzecznika odpowiedzialnoÊci zawodowej lub Krajowego Rzecznika OdpowiedzialnoÊci Zawodowej wiadomoÊci o pope∏nieniu przewinienia,
-- **2)** je˝eli od chwili pope∏nienia przewinienia up∏yn´∏y 3 lata.
+- **1)** po upływie 3 miesięcy od dnia powzięcia przez okręgowego rzecznika odpowiedzialności zawodowej lub Krajowego Rzecznika Odpowiedzialności Zawodowej wiadomości o popełnieniu przewinienia,
+- **2)** jeżeli od chwili popełnienia przewinienia upłynęły 3 lata.
 
-2. W wypadku gdy czyn zawiera znamiona przest´pstwa, przedawnienie dyscyplinarne nast´puje dopiero zup∏ywem karalnoÊci przest´pstwa.
+2. W wypadku gdy czyn zawiera znamiona przestępstwa, przedawnienie dyscyplinarne następuje dopiero zupływem karalności przestępstwa.
 
-3. Przedawnienie dyscyplinarne przerywa ka˝da czynnoÊç okr´gowego rzecznika odpowiedzialnoÊci zawodowej lub Krajowego Rzecznika OdpowiedzialnoÊci Zawodowej.
+3. Przedawnienie dyscyplinarne przerywa każda czynność okręgowego rzecznika odpowiedzialności zawodowej lub Krajowego Rzecznika Odpowiedzialności Zawodowej.
 
-**Art. 53.** Cz∏onkowie sàdów dyscyplinarnych sà niezawiÊli w zakresie orzekania w sprawach dyscyplinarnych, podlegajà tylko przepisom prawa i orzekajà na podstawie swojego przekonania opartego na swobodnej ocenie ca∏okszta∏tu dowodów zebranych w toku post´powania, uwzgl´dniajàc okolicznoÊci przemawiajàce zarówno na korzyÊç, jak i niekorzyÊç obwinioniem czynnoÊci obroƒcy. nego cz∏onka samorzàdu zawodowego.
+**Art. 53.** Członkowie sądów dyscyplinarnych są niezawiśli w zakresie orzekania w sprawach dyscyplinarnych, podlegają tylko przepisom prawa i orzekają na podstawie swojego przekonania opartego na swobodnej ocenie całokształtu dowodów zebranych w toku postępowania, uwzględniając okoliczności przemawiające zarówno na korzyść, jak i niekorzyść obwinioniem czynności obrońcy. nego członka samorządu zawodowego.
 
 **Art. 54.**
 
-1. Okr´gowy sàd dyscyplinarny w sprawach dyscyplinarnych mo˝e orzekaç nast´pujàce kary:
+1. Okręgowy sąd dyscyplinarny w sprawach dyscyplinarnych może orzekać następujące kary:
 
 - **1)** upomnienie,
 - **2)** nagana,
-- **3)** zawieszenie, na okres do 2 lat, w prawach cz∏onka izby,
-- **4)** skreÊlenie zlisty cz∏onków izby.
+- **3)** zawieszenie, na okres do 2 lat, w prawach członka izby,
+- **4)** skreślenie zlisty członków izby.
 
-2. Okr´gowy sàd dyscyplinarny mo˝e wzywaç i przes∏uchiwaç Êwiadków oraz bieg∏ych z zachowaniem przepisów post´powania karnego.
+2. Okręgowy sąd dyscyplinarny może wzywać i przesłuchiwać świadków oraz biegłych z zachowaniem przepisów postępowania karnego.
 
-3. Od orzeczenia okr´gowego sàdu dyscyplinarnego obwinionemu oraz okr´gowemu rzecznikowi odpowiedzialnoÊci zawodowej przys∏uguje prawo wniesienia odwo∏ania do Krajowego Sàdu Dyscyplinarnego, wterminie 14 dni od dnia dor´czenia orzeczenia na piÊmie wraz zuzasadnieniem.
+3. Od orzeczenia okręgowego sądu dyscyplinarnego obwinionemu oraz okręgowemu rzecznikowi odpowiedzialności zawodowej przysługuje prawo wniesienia odwołania do Krajowego Sądu Dyscyplinarnego, wterminie 14 dni od dnia doręczenia orzeczenia na piśmie wraz zuzasadnieniem.
 
-4. Od orzeczenia Krajowego Sàdu Dyscyplinarnego w sprawach odpowiedzialnoÊci dyscyplinarnej przys∏uguje obwinionemu, okr´gowemu rzecznikowi odpowiedzialnoÊci zawodowej lub Krajowemu Rzecznikowi OdpowiedzialnoÊci Zawodowej prawo wniesienia odwo∏ania do Sàdu Najwy˝szego, w terminie 14 dni od dnia dor´czenia na piÊmie rozstrzygni´cia wraz zuzasadnieniem.
+4. Od orzeczenia Krajowego Sądu Dyscyplinarnego w sprawach odpowiedzialności dyscyplinarnej przysługuje obwinionemu, okręgowemu rzecznikowi odpowiedzialności zawodowej lub Krajowemu Rzecznikowi Odpowiedzialności Zawodowej prawo wniesienia odwołania do Sądu Najwyższego, w terminie 14 dni od dnia doręczenia na piśmie rozstrzygnięcia wraz zuzasadnieniem.
 
 **Art. 55.**
 
-1. W∏aÊciwy sàd dyscyplinarny przekazuje niezw∏ocznie okr´gowej radzie odpis prawomocnego orzeczenia ona∏o˝eniu kary ztytu∏u odpowiedzialnoÊci dyscyplinarnej w celu dokonania wpisu o ukaraniu wrejestrze, októrym mowa wart. 19 ust. 1 pkt 10.
+1. Właściwy sąd dyscyplinarny przekazuje niezwłocznie okręgowej radzie odpis prawomocnego orzeczenia onałożeniu kary ztytułu odpowiedzialności dyscyplinarnej w celu dokonania wpisu o ukaraniu wrejestrze, októrym mowa wart. 19 ust. 1 pkt 10.
 
-2. Zatarcie wpisu oukaraniu ztytu∏u odpowiedzialnoÊci dyscyplinarnej nast´puje z urz´du po up∏ywie trzech lat od uprawomocnienia si´ orzeczenia kary upomnienia lub nagany oraz po up∏ywie pi´ciu lat od up∏ywu okresu zawieszenia wprawach cz∏onka.
+2. Zatarcie wpisu oukaraniu ztytułu odpowiedzialności dyscyplinarnej następuje z urzędu po upływie trzech lat od uprawomocnienia się orzeczenia kary upomnienia lub nagany oraz po upływie pięciu lat od upływu okresu zawieszenia wprawach członka.
 
-3. Je˝eli wokresach, októrych mowa wust. 2, cz∏onek izby zosta∏ ukarany innà karà dyscyplinarnà,zatarcie wpisu oukaraniu nast´puje ∏àcznie zzatarciem póêniejszego wpisu.
+3. Jeżeli wokresach, októrych mowa wust. 2, członek izby został ukarany inną karą dyscyplinarną,zatarcie wpisu oukaraniu następuje łącznie zzatarciem póêniejszego wpisu.
 
-**Art. 56.** Minister w∏aÊciwy do spraw architektury i budownictwa w porozumieniu z ministrem w∏aÊciwym do spraw gospodarki przestrzennej imieszkaniowej, po zasi´gni´ciu opinii Krajowych Izb, okreÊli, w drodze rozporzàdzenia, szczegó∏owe zasady i tryb post´powania dyscyplinarnego, zuwzgl´dnieniem zagadnieƒ dotyczàcych:
+**Art. 56.** Minister właściwy do spraw architektury i budownictwa w porozumieniu z ministrem właściwym do spraw gospodarki przestrzennej imieszkaniowej, po zasięgnięciu opinii Krajowych Izb, określi, w drodze rozporządzenia, szczegółowe zasady i tryb postępowania dyscyplinarnego, zuwzględnieniem zagadnień dotyczących:
+
+#### Rozdział 6 Polubowne rozstrzyganie sporów
 
 **Art. 57.**
 
-1. Okr´gowe sàdy dyscyplinarne, na wniosek cz∏onka izby i za pisemnà zgodà wszystkich stron, mogà rozpatrywaç, jako sàdy polubowne, spory mi´dzy cz∏onkami izb oraz mi´dzy cz∏onkami izb a innymi podmiotami, je˝eli spory te dotyczà wykonywania samodzielnej funkcji technicznej wbudownictwie lub zawodu urbanisty.
+1. Okręgowe sądy dyscyplinarne, na wniosek członka izby i za pisemną zgodą wszystkich stron, mogą rozpatrywać, jako sądy polubowne, spory między członkami izb oraz między członkami izb a innymi podmiotami, jeżeli spory te dotyczą wykonywania samodzielnej funkcji technicznej wbudownictwie lub zawodu urbanisty.
 
-2. W wypadku sporów, o których mowa w ust. 1, stosuje si´ odpowiednio przepisy Kodeksu post´powania cywilnego osàdach polubownych. Rozdzia∏ 7 Mienie igospodarka finansowa izby
+2. W wypadku sporów, o których mowa w ust. 1, stosuje się odpowiednio przepisy Kodeksu postępowania cywilnego osądach polubownych.
+
+#### Rozdział 7 Mienie igospodarka finansowa izby
 
 **Art. 58.**
 
-1. Dzia∏alnoÊç samorzàdu zawodowego jest
+1. Działalność samorządu zawodowego jest
 
-2. Majàtek samorzàdu zawodowego stanowià Êrodki finansowe oraz nieruchomoÊci imienie ruchome.
+2. Majątek samorządu zawodowego stanowią środki finansowe oraz nieruchomości imienie ruchome.
 
-3. Majàtek samorzàdu zawodowego powstaje:
+3. Majątek samorządu zawodowego powstaje:
 
-- **1)** ze sk∏adek cz∏onkowskich,
+- **1)** ze składek członkowskich,
 - **2)** zzapisów, darowizn idotacji,
-- **3)** zwp∏ywów zdzia∏alnoÊci gospodarczej,
-- **4)** zinnych wp∏ywów.
+- **3)** zwpływów zdziałalności gospodarczej,
+- **4)** zinnych wpływów.
 
-4. Majàtkiem izby zarzàdza w∏aÊciwa rada izby.
+4. Majątkiem izby zarządza właściwa rada izby.
 
-5. Izby prowadzà gospodark´ finansowà zgodnie zodr´bnymi przepisami. Rozdzia∏ 8 Zmiany wprzepisach obowiàzujàcych
+5. Izby prowadzą gospodarkę finansową zgodnie zodrębnymi przepisami.
 
-**Art. 59.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2000 r. 106, poz. 1126, 109, poz. 1157iNr 120, poz. 1268) wprowadza si´ nast´pufinansowana zjego majàtku. jàce zmiany:
+#### Rozdział 8 Zmiany wprzepisach obowiązujących
+
+**Art. 59.** W ustawie z dnia 7 lipca 1994 r. Prawo budowlane (Dz. U. z 2000 r. 106, poz. 1126, 109, poz. 1157iNr 120, poz. 1268) wprowadza się następufinansowana zjego majątku. jące zmiany:
 
 **Art. 60.** Wustawie zdnia 7 lipca 1994 r. ozagospo6) wart. 88a:
 
+#### Rozdział 9 Przepisy przejściowe ikońcowe
+
 **Art. 61.**
 
-1. Ministrowie: w∏aÊciwy do spraw architektury ibudownictwa oraz w∏aÊciwy do spraw gospodarki przestrzennej i mieszkaniowej, po zasi´gni´ciu opinii stowarzyszeƒ zawodowych inaukowo-technicznych, w terminie 6 miesi´cy od dnia og∏oszenia ustawy, powo∏ajà odpowiednio Komitety Organizacyjne Izb Architektów, In˝ynierów Budownictwa oraz Urbanistów, zwane dalej „Komitetami”, zapewnià Êrodki na ich dzia∏anie oraz zatwierdzà koszty dzia∏ania Komitetów.
+1. Ministrowie: właściwy do spraw architektury ibudownictwa oraz właściwy do spraw gospodarki przestrzennej i mieszkaniowej, po zasięgnięciu opinii stowarzyszeń zawodowych inaukowo-technicznych, w terminie 6 miesięcy od dnia ogłoszenia ustawy, powołają odpowiednio Komitety Organizacyjne Izb Architektów, Inżynierów Budownictwa oraz Urbanistów, zwane dalej ŃKomitetami”, zapewnią środki na ich działanie oraz zatwierdzą koszty działania Komitetów.
 
 2. Zadaniem Komitetów, októrych mowa wust. 1, jest:
 
 - **1)** opracowanie projektów regulaminów pierwszych Krajowych Zjazdów Izb i regulaminów wyborów delegatów na te Zjazdy,
-- **3)** zwo∏anie, zgodnie zprzepisami ustawy, pierwszych zjazdów okr´gowych izb oraz Krajowych Zjazdów Izb wterminie 1 roku od dnia wejÊcia w˝ycie ustawy.
+- **3)** zwołanie, zgodnie zprzepisami ustawy, pierwszych zjazdów okręgowych izb oraz Krajowych Zjazdów Izb wterminie 1 roku od dnia wejścia wżycie ustawy.
 
-3. Do czasu wyboru organów Krajowych Izb samorzàdów zawodowych Komitety posiadajà uprawnienia Krajowych Rad Izb.
+3. Do czasu wyboru organów Krajowych Izb samorządów zawodowych Komitety posiadają uprawnienia Krajowych Rad Izb.
 
-**Art. 62.** Do post´powaƒ administracyjnych wszcz´tych przed dniem wejÊcia w˝ycie ustawy, anie zakoƒczonych decyzjà ostatecznà, stosuje si´ przepisy ustawy. W∏aÊciwoÊç organów okreÊla si´ na podstawie przepisów ustawy.
+**Art. 62.** Do postępowań administracyjnych wszczętych przed dniem wejścia wżycie ustawy, anie zakończonych decyzją ostateczną, stosuje się przepisy ustawy. Właściwość organów określa się na podstawie przepisów ustawy.
 
-**Art. 63.** Ustawa wchodzi w˝ycie po up∏ywie 12 miesi´cy od dnia og∏oszenia, zwyjàtkiem:
+**Art. 63.** Ustawa wchodzi wżycie po upływie 12 miesięcy od dnia ogłoszenia, zwyjątkiem:
+
+#### Rozdział 1 Przepisy ogólne
 
 **Art. 1.**
 
-1. Ustawa reguluje sprawy zwiàzane zuprawianiem ˝eglugi na wodach Êródlàdowych uznanych za ˝eglowne na podstawie przepisów Prawa wodnego, zwanych dalej „Êródlàdowymi drogami wodnymi”.
+1. Ustawa reguluje sprawy związane zuprawianiem żeglugi na wodach śródlądowych uznanych za żeglowne na podstawie przepisów Prawa wodnego, zwanych dalej Ńśródlądowymi drogami wodnymi”.
 
-2. Ustawa okreÊla:
+2. Ustawa określa:
 
-- **1)** organy administracji ˝eglugi Êródlàdowej i ich kompetencje,
-- **2)** warunki uprawiania ˝eglugi,
+- **1)** organy administracji żeglugi śródlądowej i ich kompetencje,
+- **2)** warunki uprawiania żeglugi,
 - **3)** zasady prowadzenia rejestru administracyjnego iwykonywania pomiaru statków,
-- **4)** wymagania bezpieczeƒstwa ˝eglugi,
-- **5)** zasady klasyfikacji iutrzymania Êródlàdowych dróg wodnych,
-- **6)** zasady wykonywania pilota˝u,
-- **7)** post´powanie wrazie wypadku ˝eglugowego,
+- **4)** wymagania bezpieczeństwa żeglugi,
+- **5)** zasady klasyfikacji iutrzymania śródlądowych dróg wodnych,
+- **6)** zasady wykonywania pilotażu,
+- **7)** postępowanie wrazie wypadku żeglugowego,
 - **8)** przepisy karne.
 
-3. Przepisy ustawy stosuje si´ tak˝e do statków s∏ugo przewozu osób lub ∏adunków, zarobkowego po∏owu ryb, wykonywania robót technicznych lub eksploatacji z∏ó˝ kruszywa na innych wodach Êródlàdowych ni˝ okreÊlone wust. 1.
+3. Przepisy ustawy stosuje się także do statków sługo przewozu osób lub ładunków, zarobkowego połowu ryb, wykonywania robót technicznych lub eksploatacji złóż kruszywa na innych wodach śródlądowych niż określone wust. 1.
 
 **Art. 2.**
 
-1. W sprawach wyposa˝enia statków ˝eglugi Êródlàdowej ikwalifikacji ich za∏óg przepisy ustawy stosuje si´ tak˝e na wodach morskich, z uwzgl´dnie˝àcych do przewozów mi´dzybrzegowych, zarobkoweniem odr´bnych przepisów.
+1. W sprawach wyposażenia statków żeglugi śródlądowej ikwalifikacji ich załóg przepisy ustawy stosuje się także na wodach morskich, z uwzględnieżących do przewozów międzybrzegowych, zarobkoweniem odrębnych przepisów.
 
-2. Granice mi´dzy wodami Êródlàdowymi awodami morskimi okreÊlajà przepisy Prawa wodnego.
+2. Granice między wodami śródlądowymi awodami morskimi określają przepisy Prawa wodnego.
 
 **Art. 3.**
 
-1. W sprawach nieuregulowanych w niniejszej ustawie stosuje si´ przepisy Kodeksu cywilnego dotyczàce umowy przewozu oraz przepisy Prawa przewozowego.
+1. W sprawach nieuregulowanych w niniejszej ustawie stosuje się przepisy Kodeksu cywilnego dotyczące umowy przewozu oraz przepisy Prawa przewozowego.
 
-2. Ustawa nie narusza przepisów o ochronie i kszta∏towaniu Êrodowiska oraz przepisów Prawa wodnego.
+2. Ustawa nie narusza przepisów o ochronie i kształtowaniu środowiska oraz przepisów Prawa wodnego.
 
-**Art. 4.** Przepisów ustawy, z wyjàtkiem przepisów dotyczàcych bezpieczeƒstwa ruchu, sygnalizacji i∏àcznoÊci oraz oznakowania dróg wodnych, nie stosuje si´ do statków Si∏ Zbrojnych Rzeczypospolitej Polskiej, Policji i Stra˝y Granicznej oraz statków morskich przebywajàcych na Êródlàdowych drogach wodnych.
+**Art. 4.** Przepisów ustawy, z wyjątkiem przepisów dotyczących bezpieczeństwa ruchu, sygnalizacji iłączności oraz oznakowania dróg wodnych, nie stosuje się do statków Sił Zbrojnych Rzeczypospolitej Polskiej, Policji i Straży Granicznej oraz statków morskich przebywających na śródlądowych drogach wodnych.
 

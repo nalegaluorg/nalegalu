@@ -25,23 +25,23 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20030670621) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/621/text.pdf) |
 
 USTAWA zdnia 28 marca 2003 r.
-oustanowieniu programu wieloletniego „Program ochrony brzegów morskich”
+oustanowieniu programu wieloletniego ŃProgram ochrony brzegów morskich”
 
 **Art. 1.**
 
-1. Ustanawia si´ „Program ochrony brzegów swoim zakresem przedsi´wzi´cia majàce na celu zabezmorskich”, zwany dalej „Programem”, obejmujàcy pieczenie brzegów morskich przed zjawiskiem erozji. wlatach 2004—2023.
+1. Ustanawia się ŃProgram ochrony brzegów swoim zakresem przedsięwzięcia mające na celu zabezmorskich”, zwany dalej ŃProgramem”, obejmujący pieczenie brzegów morskich przed zjawiskiem erozji. wlatach 2004—2023.
 
-**Art. 2.** Wramach Programu podejmuje si´ zadania dotyczàce:
+**Art. 2.** Wramach Programu podejmuje się zadania dotyczące:
 
 **Art. 3.**
 
 1. Program jest nadzorowany przez ministra
 
-2. Planowane nak∏ady z bud˝etu paƒstwa na realizacj´ zadaƒ przewidzianych Programem nie mogà byç, wposzczególnych latach, mniejsze ni˝ 25 550 z∏.
+2. Planowane nakłady z budżetu państwa na realizację zadań przewidzianych Programem nie mogą być, wposzczególnych latach, mniejsze niż 25 550 zł.
 
-3. Kwoty okreÊlone w ust. 1 i 2 ustalane sà w cenach zadaƒ z2001 r. iprzeliczane wed∏ug wskaênika inflacji na ceny zroku realizacji zadaƒ.
+3. Kwoty określone w ust. 1 i 2 ustalane są w cenach zadań z2001 r. iprzeliczane według wskaênika inflacji na ceny zroku realizacji zadań.
 
-**Art. 5.** Planowane szczegó∏owe nak∏ady na realizacj´ zadaƒ, o których mowa w art. 2, oraz szczegó∏owy wykaz zadaƒ okreÊla za∏àcznik.
+**Art. 5.** Planowane szczegółowe nakłady na realizację zadań, o których mowa w art. 2, oraz szczegółowy wykaz zadań określa załącznik.
 
-**Art. 6.** Minister w∏aÊciwy do spraw gospodarki morskiej przedstawia Sejmowi Rzeczypospolitej Polskiej, nie póêniej ni˝ do dnia 31 marca roku kalendarzowego, rocznà informacj´ o realizacji w roku ubieg∏ym zadaƒ wynikajàcych z Programu oraz harmonogram prac na rok nast´pny. w∏aÊciwego do spraw gospodarki morskiej. Art. 7. Ustawa wchodzi w ˝ycie po up∏ywie 14 dni od dnia og∏oszenia. 2. Program jest realizowany przez dyrektorów urz´dów morskich. Prezydent Rzeczypospolitej Polskiej: A. KwaÊniewski PLANOWANE SZCZEGÓ¸OWE NAK¸ADY NA REALIZACJ¢ ZADA¡ PROGRAMU WLATACH 2004—2023 (POZIOM CEN Z2001 r.) Nak∏ady Lp. Rejon odcinek Zadanie ogó∏em (wtys. z∏) 1 2 3 4 1 Zalew WiÊlany zasilanie 35 Modernizacja umocnieƒ brzegowych Monitoring ibadania dotyczàce ustalenia aktualnego 2 Zatoka Gdaƒska 126
+**Art. 6.** Minister właściwy do spraw gospodarki morskiej przedstawia Sejmowi Rzeczypospolitej Polskiej, nie póêniej niż do dnia 31 marca roku kalendarzowego, roczną informację o realizacji w roku ubiegłym zadań wynikających z Programu oraz harmonogram prac na rok następny. właściwego do spraw gospodarki morskiej. Art. 7. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia. 2. Program jest realizowany przez dyrektorów urzędów morskich. Prezydent Rzeczypospolitej Polskiej: A. Kwaśniewski PLANOWANE SZCZEGÓĘOWE NAKĘADY NA REALIZACJ¢ ZADA¡ PROGRAMU WLATACH 2004—2023 (POZIOM CEN Z2001 r.) Nakłady Lp. Rejon odcinek Zadanie ogółem (wtys. zł) 1 2 3 4 1 Zalew Wiślany zasilanie 35 Modernizacja umocnień brzegowych Monitoring ibadania dotyczące ustalenia aktualnego 2 Zatoka Gdańska 126
 

@@ -25,948 +25,966 @@ domain: null
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070520343) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/343/text.pdf) |
 
 USTAWA z dnia 16 lutego 2007 r.
-o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach post´powania w sytuacjach zagro˝enia bezpieczeƒstwa paliwowego paƒstwa i zak∏óceƒ na rynku naftowym Rozdzia∏ 1 Przepisy ogólne
+o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym
 
-**Art. 1.** Ustawa okreÊla zasady:
+#### Rozdział 1 Przepisy ogólne
 
-**Art. 2.** U˝yte w ustawie okreÊlenia oznaczajà:
+**Art. 1.** Ustawa określa zasady:
+
+**Art. 2.** Użyte w ustawie określenia oznaczają:
+
+#### Rozdział 2 Zasady tworzenia, utrzymywania oraz finansowania zapasów ropy naftowej i produktów naftowych
 
 **Art. 3.**
 
-1. Wcelu zapewnienia zaopatrzenia Rzeczypospolitej Polskiej wrop´ naftowà iprodukty naftowe w sytuacji wystàpienia zak∏óceƒ w ich dostawach na rynek krajowy oraz wype∏niania zobowiàzaƒ mi´dzynarodowych, tworzy si´ zapasy ropy naftowej i produktów naftowych, zwane dalej „zapasami interwencyjnymi”.
+1. Wcelu zapewnienia zaopatrzenia Rzeczypospolitej Polskiej wropę naftową iprodukty naftowe w sytuacji wystąpienia zakłóceń w ich dostawach na rynek krajowy oraz wypełniania zobowiązań międzynarodowych, tworzy się zapasy ropy naftowej i produktów naftowych, zwane dalej Ńzapasami interwencyjnymi”.
 
-2. Zapasy interwencyjne obejmujà zapasy:
+2. Zapasy interwencyjne obejmują zapasy:
 
-- **1)** obowiàzkowe ropy naftowej lub paliw, zwane dalej „zapasami obowiàzkowymi ropy naftowej lub paliw”, tworzone i utrzymywane przez producentów i handlowców;
-- **2)** paƒstwowe ropy naftowej iproduktów naftowych, zwane dalej „zapasami paƒstwowymi ropy naftowej iproduktów naftowych”, tworzone przez ministra w∏aÊciwego do spraw gospodarki i utrzymywane przez Agencj´ Rezerw Materia∏owych.
+- **1)** obowiązkowe ropy naftowej lub paliw, zwane dalej Ńzapasami obowiązkowymi ropy naftowej lub paliw”, tworzone i utrzymywane przez producentów i handlowców;
+- **2)** państwowe ropy naftowej iproduktów naftowych, zwane dalej Ńzapasami państwowymi ropy naftowej iproduktów naftowych”, tworzone przez ministra właściwego do spraw gospodarki i utrzymywane przez Agencję Rezerw Materiałowych.
 
-3. Zapasy interwencyjne powinny zaspokajaç zapotrzebowanie na rop´ naftowà i produkty naftowe w iloÊci odpowiadajàcej co najmniej:
+3. Zapasy interwencyjne powinny zaspokajać zapotrzebowanie na ropę naftową i produkty naftowe w ilości odpowiadającej co najmniej:
 
-- **1)** 90-dniowemu Êredniemu dziennemu zu˝yciu wewn´trznemu ropy naftowej i produktów naftowych, z wy∏àczeniem gazu p∏ynnego (LPG), ——————— 2) 30-dniowemu Êredniemu dziennemu zu˝yciu wewn´trznemu gazu p∏ynnego (LPG) z zastrze˝eniem ust. 4.
+- **1)** 90-dniowemu średniemu dziennemu zużyciu wewnętrznemu ropy naftowej i produktów naftowych, z wyłączeniem gazu płynnego (LPG), ——————— 2) 30-dniowemu średniemu dziennemu zużyciu wewnętrznemu gazu płynnego (LPG) z zastrzeżeniem ust. 4.
 
-4. Zapasy interwencyjne powi´ksza si´ o rezerw´ na poczet zapasów niedost´pnych zprzyczyn technicznych oraz ubytków podczas przemieszczania zapasów interwencyjnych; rezerwa ta wynosi 10 % tworzonych i utrzymywanych zapasów interwencyjnych.
+4. Zapasy interwencyjne powiększa się o rezerwę na poczet zapasów niedostępnych zprzyczyn technicznych oraz ubytków podczas przemieszczania zapasów interwencyjnych; rezerwa ta wynosi 10 % tworzonych i utrzymywanych zapasów interwencyjnych.
 
-5. Minister w∏aÊciwy do spraw gospodarki okreÊli, w drodze rozporzàdzenia, szczegó∏owy wykaz surowców oraz produktów naftowych:
+5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy wykaz surowców oraz produktów naftowych:
 
-- **1)** uwzgl´dnianych podczas ustalania iloÊci zapasów interwencyjnych,
-- **2)** w których tworzy si´ zapasy obowiàzkowe ropy naftowej lub paliw bioràc pod uwag´ obowiàzujàce klasyfikacje towarów oraz zobowiàzania mi´dzynarodowe Rzeczypospolitej Polskiej.
+- **1)** uwzględnianych podczas ustalania ilości zapasów interwencyjnych,
+- **2)** w których tworzy się zapasy obowiązkowe ropy naftowej lub paliw biorąc pod uwagę obowiązujące klasyfikacje towarów oraz zobowiązania międzynarodowe Rzeczypospolitej Polskiej.
 
-6. Paliwa, z których sà tworzone zapasy interwencyjne, powinny spe∏niaç wymagania jakoÊciowe okreÊlone wprzepisach osystemie monitorowania ikontrolowania jakoÊci paliw.
+6. Paliwa, z których są tworzone zapasy interwencyjne, powinny spełniać wymagania jakościowe określone wprzepisach osystemie monitorowania ikontrolowania jakości paliw.
 
-7. Dopuszcza si´ utrzymywanie, w ramach zapasów interwencyjnych, zapasów benzyny silnikowej, gazu p∏ynnego (LPG) oraz olejów nap´dowych niespe∏niajàcych wymagaƒ w zakresie pr´˝noÊci par i temperatury zablokowania zimnego filtra dla poszczególnych okresów roku, okreÊlonych wprzepisach osystemie monitorowania ikontrolowania jakoÊci paliw.
+7. Dopuszcza się utrzymywanie, w ramach zapasów interwencyjnych, zapasów benzyny silnikowej, gazu płynnego (LPG) oraz olejów napędowych niespełniających wymagań w zakresie prężności par i temperatury zablokowania zimnego filtra dla poszczególnych okresów roku, określonych wprzepisach osystemie monitorowania ikontrolowania jakości paliw.
 
-8. Utrzymywane, w ramach zapasów interwencyjnych, paliwa, o których mowa w ust. 7, mogà byç wprowadzone do obrotu, w celu ich wymiany, pod warunkiem, ˝e w chwili ich wprowadzenia do obrotu b´dà spe∏nia∏y wymagania jakoÊciowe dla poszczególnych okresów roku okreÊlone w przepisach o systemie monitorowania i kontrolowania jakoÊci paliw.
+8. Utrzymywane, w ramach zapasów interwencyjnych, paliwa, o których mowa w ust. 7, mogą być wprowadzone do obrotu, w celu ich wymiany, pod warunkiem, że w chwili ich wprowadzenia do obrotu będą spełniały wymagania jakościowe dla poszczególnych okresów roku określone w przepisach o systemie monitorowania i kontrolowania jakości paliw.
 
-**Art. 4.** Minister w∏aÊciwy do spraw gospodarki corocznie, w terminie do dnia 31 marca, og∏asza, w drodze obwieszczenia, w Dzienniku Urz´dowym Rzeczypospolitej Polskiej „Monitor Polski”, wielkoÊci:
+**Art. 4.** Minister właściwy do spraw gospodarki corocznie, w terminie do dnia 31 marca, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej ŃMonitor Polski”, wielkości:
 
 **Art. 5.**
 
-1. Producenci i handlowcy sà obowiàzani do tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw.
+1. Producenci i handlowcy są obowiązani do tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw.
 
-2. Producenci i handlowcy w zale˝noÊci od przedmiotu wykonywanej dzia∏alnoÊci gospodarczej tworzà zapasy obowiàzkowe: gazu p∏ynnego (LPG) lub jego produkcji w poprzednim roku kalendarzowym.
+2. Producenci i handlowcy w zależności od przedmiotu wykonywanej działalności gospodarczej tworzą zapasy obowiązkowe: gazu płynnego (LPG) lub jego produkcji w poprzednim roku kalendarzowym.
 
-4. Producenci tworzà i utrzymujà zapasy obowiàzkowe ropy naftowej lub paliw w wielkoÊci, o której mowa w ust. 3, obliczonej na podstawie danych indywidualnych dotyczàcych iloÊci:
+4. Producenci tworzą i utrzymują zapasy obowiązkowe ropy naftowej lub paliw w wielkości, o której mowa w ust. 3, obliczonej na podstawie danych indywidualnych dotyczących ilości:
 
-- **1)** ropy naftowej sprowadzonej w ramach przywozu, pomniejszonej omas´ frakcji wykorzystanych jako surowiec do produkcji paliw, o których mowa w ust. 2 pkt 2 i 3;
-- **2)** paliw ciek∏ych i biopaliw ciek∏ych wyprodukowanych z wykorzystaniem ropy naftowej, produktów lub pó∏produktów jej rafinacji;
-- **3)** paliw ciek∏ych i biopaliw ciek∏ych sprowadzonych w ramach przywozu;
-- **4)** gazu p∏ynnego (LPG) przywiezionego lub uzyskanego w procesie rafinacji ropy naftowej;
-- **5)** ropy naftowej lub paliw wprowadzonych na rynek krajowy z zapasów obowiàzkowych ropy naftowej lub paliw w wyniku ich interwencyjnego uwolnienia lub pomniejszenia wynikajàcego z corocznej zmiany roku bazowego, z którego produkcja paliw lub przywóz ropy naftowej lub paliw s∏u˝y do obliczenia iloÊci zapasów obowiàzkowych ropy naftowej lub paliw, do utworzenia których jest obowiàzany dany producent.
+- **1)** ropy naftowej sprowadzonej w ramach przywozu, pomniejszonej omasę frakcji wykorzystanych jako surowiec do produkcji paliw, o których mowa w ust. 2 pkt 2 i 3;
+- **2)** paliw ciekłych i biopaliw ciekłych wyprodukowanych z wykorzystaniem ropy naftowej, produktów lub półproduktów jej rafinacji;
+- **3)** paliw ciekłych i biopaliw ciekłych sprowadzonych w ramach przywozu;
+- **4)** gazu płynnego (LPG) przywiezionego lub uzyskanego w procesie rafinacji ropy naftowej;
+- **5)** ropy naftowej lub paliw wprowadzonych na rynek krajowy z zapasów obowiązkowych ropy naftowej lub paliw w wyniku ich interwencyjnego uwolnienia lub pomniejszenia wynikającego z corocznej zmiany roku bazowego, z którego produkcja paliw lub przywóz ropy naftowej lub paliw służy do obliczenia ilości zapasów obowiązkowych ropy naftowej lub paliw, do utworzenia których jest obowiązany dany producent.
 
-5. Handlowcy tworzà i utrzymujà zapasy obowiàzkowe ropy naftowej lub paliw w wielkoÊci okreÊlonej w ust. 3, obliczonej na podstawie danych indywidualnych dotyczàcych iloÊci:
+5. Handlowcy tworzą i utrzymują zapasy obowiązkowe ropy naftowej lub paliw w wielkości określonej w ust. 3, obliczonej na podstawie danych indywidualnych dotyczących ilości:
 
-- **1)** ropy naftowej sprowadzonej w ramach przywozu, pomniejszonej o iloÊci tej ropy sprzedane producentowi, odpowiadajàce masie frakcji wykorzystanych przez tego producenta, jako surowiec do produkcji paliw, o których mowa w ust. 2 pkt 2 i 3;
-- **2)** paliw ciek∏ych i biopaliw ciek∏ych sprowadzonych w ramach przywozu;
-- **3)** gazu p∏ynnego (LPG) sprowadzonego w ramach przywozu;
-- **4)** ropy naftowej lub paliw ciek∏ych wprowadzonych na rynek krajowy z zapasów obowiàzkowych ropy naftowej lub paliw w wyniku ich interwencyjnego uwolnienia lub pomniejszenia wynikajàcego z corocznej zmiany roku bazowego, z którego produkcja paliw lub przywóz ropy naftowej lub paliw s∏u˝y do obliczenia iloÊci zapasów obowiàzkowych ropy naftowej lub paliw, do utworzenia których jest obowiàzany dany handlowiec.
+- **1)** ropy naftowej sprowadzonej w ramach przywozu, pomniejszonej o ilości tej ropy sprzedane producentowi, odpowiadające masie frakcji wykorzystanych przez tego producenta, jako surowiec do produkcji paliw, o których mowa w ust. 2 pkt 2 i 3;
+- **2)** paliw ciekłych i biopaliw ciekłych sprowadzonych w ramach przywozu;
+- **3)** gazu płynnego (LPG) sprowadzonego w ramach przywozu;
+- **4)** ropy naftowej lub paliw ciekłych wprowadzonych na rynek krajowy z zapasów obowiązkowych ropy naftowej lub paliw w wyniku ich interwencyjnego uwolnienia lub pomniejszenia wynikającego z corocznej zmiany roku bazowego, z którego produkcja paliw lub przywóz ropy naftowej lub paliw służy do obliczenia ilości zapasów obowiązkowych ropy naftowej lub paliw, do utworzenia których jest obowiązany dany handlowiec.
 
-6. IloÊci ropy naftowej lub paliw, o których mowa w ust. 4 i 5, pomniejsza si´ odpowiednio o iloÊci:
+6. Ilości ropy naftowej lub paliw, o których mowa w ust. 4 i 5, pomniejsza się odpowiednio o ilości:
 
 - **1)** ropy naftowej wywiezionej zterytorium Rzeczypospolitej Polskiej;
-- **2)** paliw wyprodukowanych z ropy naftowej sprowadzonej wramach przywozu, anast´pnie wywiezionych z terytorium Rzeczypospolitej Polskiej;
-- **3)** paliw wyprodukowanych zropy naftowej wydobytej wkraju lub zobszaru morskiego nale˝àcego do krajowej strefy ekonomicznej, o ile udzia∏ tych paliw nie przekracza 20 % ogólnej iloÊci ich produkcji w danym roku;
-- **4)** gazu p∏ynnego (LPG) wywiezionego z terytorium Rzeczypospolitej Polskiej;
-- **5)** paliw przeznaczonych do bunkrowania statków morskich odbywajàcych rejsy dalekomorskie;
-- **6)** biokomponentów wykorzystywanych do produkcji biopaliw ciek∏ych w wielkoÊci przekraczajàcej ich maksymalny udzia∏ wpaliwach ciek∏ych okreÊlony w art. 2 pkt 4 ustawy z dnia 25 sierpnia 2006 r. osystemie monitorowania ikontrolowania jakoÊci paliw;
+- **2)** paliw wyprodukowanych z ropy naftowej sprowadzonej wramach przywozu, anastępnie wywiezionych z terytorium Rzeczypospolitej Polskiej;
+- **3)** paliw wyprodukowanych zropy naftowej wydobytej wkraju lub zobszaru morskiego należącego do krajowej strefy ekonomicznej, o ile udział tych paliw nie przekracza 20 % ogólnej ilości ich produkcji w danym roku;
+- **4)** gazu płynnego (LPG) wywiezionego z terytorium Rzeczypospolitej Polskiej;
+- **5)** paliw przeznaczonych do bunkrowania statków morskich odbywających rejsy dalekomorskie;
+- **6)** biokomponentów wykorzystywanych do produkcji biopaliw ciekłych w wielkości przekraczającej ich maksymalny udział wpaliwach ciekłych określony w art. 2 pkt 4 ustawy z dnia 25 sierpnia 2006 r. osystemie monitorowania ikontrolowania jakości paliw;
 - **7)** paliw wyprodukowanych z olejów odpadowych;
-- **8)** ropy naftowej lub paliw przeznaczonych na odtworzenie zapasów obowiàzkowych ropy naftowej lub
+- **8)** ropy naftowej lub paliw przeznaczonych na odtworzenie zapasów obowiązkowych ropy naftowej lub
 
 **Art. 6.**
 
-1. Producent ihandlowiec, wpierwszym roku wykonywania dzia∏alnoÊci gospodarczej wzakresie wytwarzania lub przetwarzania paliw lub przywozu ropy naftowej lub paliw, sà obowiàzani do utworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw na zasadach okreÊlonych w ust. 2.
+1. Producent ihandlowiec, wpierwszym roku wykonywania działalności gospodarczej wzakresie wytwarzania lub przetwarzania paliw lub przywozu ropy naftowej lub paliw, są obowiązani do utworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw na zasadach określonych w ust. 2.
 
-2. Podstawà obliczania wymaganej iloÊci zapasów obowiàzkowych ropy naftowej lub paliw, dla producenta i handlowca, w przypadku, o którym mowa w ust. 1, jest zadeklarowana przez producenta lub handlowca na dany rok kalendarzowy wielkoÊç przywozu ropy naftowej lub paliw lub wielkoÊç produkcji paliw. Je˝eli zadeklarowana wielkoÊç produkcji lub iloÊç przywo˝onych na terytorium Rzeczypospolitej Polskiej ropy naftowej lub paliw jest ni˝sza lub wy˝sza od wielkoÊci faktycznie zrealizowanych, producent i handlowiec sà obowiàzani, na koniec roku kalendarzowego, posiadaç zapasy obowiàzkowe ropy naftowej lub paliw wyliczone wed∏ug wielkoÊci faktycznie zrealizowanych.
+2. Podstawą obliczania wymaganej ilości zapasów obowiązkowych ropy naftowej lub paliw, dla producenta i handlowca, w przypadku, o którym mowa w ust. 1, jest zadeklarowana przez producenta lub handlowca na dany rok kalendarzowy wielkość przywozu ropy naftowej lub paliw lub wielkość produkcji paliw. Jeżeli zadeklarowana wielkość produkcji lub ilość przywożonych na terytorium Rzeczypospolitej Polskiej ropy naftowej lub paliw jest niższa lub wyższa od wielkości faktycznie zrealizowanych, producent i handlowiec są obowiązani, na koniec roku kalendarzowego, posiadać zapasy obowiązkowe ropy naftowej lub paliw wyliczone według wielkości faktycznie zrealizowanych.
 
 **Art. 7.** paliw;
 
 **Art. 8.**
 
-1. Do zapasów obowiàzkowych ropy naftowej lub paliw mo˝na zaliczyç rop´ naftowà i paliwa zmagazynowane:
+1. Do zapasów obowiązkowych ropy naftowej lub paliw można zaliczyć ropę naftową i paliwa zmagazynowane:
 
-- **1)** w zbiornikach rafinerii ropy naftowej, z wy∏àczeniem paliw znajdujàcych si´ w instalacjach i rurociàgach produkcyjnych;
+- **1)** w zbiornikach rafinerii ropy naftowej, z wyłączeniem paliw znajdujących się w instalacjach i rurociągach produkcyjnych;
 - **2)** w terminalach i magazynach hurtowych;
-- **3)** w zbiornikach instalacji rurociàgowych;
-- **4)** w zbiornikach i magazynach portowych, znajdujàcych si´ w portach docelowych po∏o˝onych na terytorium Rzeczypospolitej Polskiej;
-- **5)** w zbiornikowcach znajdujàcych si´ w portach docelowych po∏o˝onych na terytorium Rzeczypospolitej Polskiej, po dope∏nieniu formalnoÊci portowych i celnych zgodnie z odr´bnymi przepisami;
-- **6)** na barkach istatkach ˝eglugi przybrze˝nej wynaj´tych do transportowania paliw w obszarze wód terytorialnych Rzeczypospolitej Polskiej, pod warunkiem zapewnienia mo˝liwoÊci bezzw∏ocznego przeprowadzenia kontroli stanu zapasów;
-- **7)** w zbiornikach magazynowych i rozlewniach gazu p∏ynnego (LPG);
+- **3)** w zbiornikach instalacji rurociągowych;
+- **4)** w zbiornikach i magazynach portowych, znajdujących się w portach docelowych położonych na terytorium Rzeczypospolitej Polskiej;
+- **5)** w zbiornikowcach znajdujących się w portach docelowych położonych na terytorium Rzeczypospolitej Polskiej, po dopełnieniu formalności portowych i celnych zgodnie z odrębnymi przepisami;
+- **6)** na barkach istatkach żeglugi przybrzeżnej wynajętych do transportowania paliw w obszarze wód terytorialnych Rzeczypospolitej Polskiej, pod warunkiem zapewnienia możliwości bezzwłocznego przeprowadzenia kontroli stanu zapasów;
+- **7)** w zbiornikach magazynowych i rozlewniach gazu płynnego (LPG);
 - **8)** wpodziemnych wyrobiskach górniczych (magazynowanie bezzbiornikowe).
 
-2. Do zapasów obowiàzkowych ropy naftowej lub paliw nie zalicza si´ ropy naftowej lub paliw znajdujàcych si´ w:
+2. Do zapasów obowiązkowych ropy naftowej lub paliw nie zalicza się ropy naftowej lub paliw znajdujących się w:
 
-- **1)** z∏o˝ach ropy naftowej niewydobytej;
-- **2)** tranzycie, z przeznaczeniem do innych paƒstw;
-- **3)** rurociàgach przesy∏owych;
+- **1)** złożach ropy naftowej niewydobytej;
+- **2)** tranzycie, z przeznaczeniem do innych państw;
+- **3)** rurociągach przesyłowych;
 - **4)** cysternach kolejowych i samochodowych;
-- **8)** zbiornikowcach znajdujàcych si´ poza portem docelowym;
+- **8)** zbiornikowcach znajdujących się poza portem docelowym;
 - **9)** zbiornikach statków morskich.
 
-3. Minister w∏aÊciwy do spraw gospodarki okreÊli, w drodze rozporzàdzenia:
+3. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia:
 
-- **1)** szczegó∏owy sposób:
-    - **a)** tworzenia iutrzymywania zapasów obowiàzkowych ropy naftowej lub paliw przez handlowców i producentów oraz ustalania ich iloÊci, w tym równie˝ przez producentów paliw wytwarzajàcych te paliwa poprzez procesy mieszania paliw lub komponentów,
-    - **b)** tworzenia iutrzymywania zapasów obowiàzkowych ropy naftowej lub paliw w zakresie gazu p∏ynnego (LPG) przez producentów i handlowców oraz ustalania ich iloÊci utrzymywanych w postaci benzyn silnikowych,
-    - **c)** ustalania i tworzenia zapasów obowiàzkowych
+- **1)** szczegółowy sposób:
+    - **a)** tworzenia iutrzymywania zapasów obowiązkowych ropy naftowej lub paliw przez handlowców i producentów oraz ustalania ich ilości, w tym również przez producentów paliw wytwarzających te paliwa poprzez procesy mieszania paliw lub komponentów,
+    - **b)** tworzenia iutrzymywania zapasów obowiązkowych ropy naftowej lub paliw w zakresie gazu płynnego (LPG) przez producentów i handlowców oraz ustalania ich ilości utrzymywanych w postaci benzyn silnikowych,
+    - **c)** ustalania i tworzenia zapasów obowiązkowych
 
-- **5)** zbiornikach magazynowych na stacjach paliw, w tym stacjach paliw gazu p∏ynnego (LPG);
+- **5)** zbiornikach magazynowych na stacjach paliw, w tym stacjach paliw gazu płynnego (LPG);
 - **6)** magazynach o przeznaczeniu wojskowym;
-- **7)** punktach sprzeda˝y butli z gazem p∏ynnym (LPG); ropy naftowej lub paliw przez producentów ihandlowców wprzypadku zakoƒczenia, zawieszenia lub zmiany zakresu dzia∏alnoÊci gospodarczej w zakresie wytwarzania, przetwarzania lub przywozu paliw, lub w zakresie przywozu ropy naftowej w danym roku kalendarzowym,
-- **2)** procentowy udzia∏ zapasów obowiàzkowych ropy naftowej lub paliw tworzonych wzakresie poszczególnych grup paliw ciek∏ych, które mogà byç utrzymywane w postaci ropy naftowej,
-- **3)** rodzaje dokumentów potwierdzajàcych wy∏àczenia z obowiàzku tworzenia zapasów obowiàzkowych ropy naftowej lub paliw,
-- **4)** sytuacje, w których producent i handlowiec mogà wystàpiç do ministra w∏aÊciwego do spraw gospodarki o zezwolenie na czasowà zamian´ utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw tworzonych wzakresie paliw ciek∏ych wgrupach innych ni˝ by∏y utworzone,
-- **5)** sytuacje, wktórych producent lub handlowiec mo˝e wystàpiç do ministra w∏aÊciwego do spraw gospodarki o zezwolenie na czasowe niepowi´kszanie zapasów obowiàzkowych ropy naftowej lub paliw bioràc pod uwag´ sytuacj´ na krajowym rynku naftowym, szczególne okolicznoÊci w jakich producent lub handlowiec mogà wystàpiç o czasowe niepowi´kszanie zapasów obowiàzkowych ropy naftowej lub paliw oraz zobowiàzania mi´dzynarodowe Rzeczypospolitej Polskiej.
+- **7)** punktach sprzedaży butli z gazem płynnym (LPG); ropy naftowej lub paliw przez producentów ihandlowców wprzypadku zakończenia, zawieszenia lub zmiany zakresu działalności gospodarczej w zakresie wytwarzania, przetwarzania lub przywozu paliw, lub w zakresie przywozu ropy naftowej w danym roku kalendarzowym,
+- **2)** procentowy udział zapasów obowiązkowych ropy naftowej lub paliw tworzonych wzakresie poszczególnych grup paliw ciekłych, które mogą być utrzymywane w postaci ropy naftowej,
+- **3)** rodzaje dokumentów potwierdzających wyłączenia z obowiązku tworzenia zapasów obowiązkowych ropy naftowej lub paliw,
+- **4)** sytuacje, w których producent i handlowiec mogą wystąpić do ministra właściwego do spraw gospodarki o zezwolenie na czasową zamianę utrzymywania zapasów obowiązkowych ropy naftowej lub paliw tworzonych wzakresie paliw ciekłych wgrupach innych niż były utworzone,
+- **5)** sytuacje, wktórych producent lub handlowiec może wystąpić do ministra właściwego do spraw gospodarki o zezwolenie na czasowe niepowiększanie zapasów obowiązkowych ropy naftowej lub paliw biorąc pod uwagę sytuację na krajowym rynku naftowym, szczególne okoliczności w jakich producent lub handlowiec mogą wystąpić o czasowe niepowiększanie zapasów obowiązkowych ropy naftowej lub paliw oraz zobowiązania międzynarodowe Rzeczypospolitej Polskiej.
 
 **Art. 9.**
 
-1. Zapasy obowiàzkowe ropy naftowej lub paliw mogà byç utrzymywane wy∏àcznie na terytorium Rzeczypospolitej Polskiej, z zastrze˝eniem ust. 2.
+1. Zapasy obowiązkowe ropy naftowej lub paliw mogą być utrzymywane wyłącznie na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem ust. 2.
 
-2. Zapasy obowiàzkowe ropy naftowej lub paliw mogà byç utrzymywane poza terytorium Rzeczypospolitej Polskiej na terytorium innego paƒstwa cz∏onkowskiego Unii Europejskiej, pod warunkiem zawarcia umowy mi´dzyrzàdowej mi´dzy Rzeczàpospolità Polskà a paƒstwem, na terytorium którego zapasy te b´dà magazynowane; umowa ta powinna zawieraç w szczególnoÊci postanowienia zapewniajàce kontrol´ stanu i jakoÊci tych zapasów, wype∏nienie mi´dzynarodowych wymagaƒ dotyczàcych sprawozdawczoÊci w zakresie zapasów oraz dysponowania nimi iprzemieszczania ich zterytorium tego paƒstwa na terytorium Rzeczypospolitej Polskiej, w tym równie˝ wsytuacji zaistnienia zak∏óceƒ wdostawach ropy naftowej lub produktów naftowych na terytorium tego paƒstwa, a tak˝e wskazywaç organy odpowiedzialne za kontrol´ i sprawozdawczoÊç w zakresie tych zapasów.
+2. Zapasy obowiązkowe ropy naftowej lub paliw mogą być utrzymywane poza terytorium Rzeczypospolitej Polskiej na terytorium innego państwa członkowskiego Unii Europejskiej, pod warunkiem zawarcia umowy międzyrządowej między Rzecząpospolitą Polską a państwem, na terytorium którego zapasy te będą magazynowane; umowa ta powinna zawierać w szczególności postanowienia zapewniające kontrolę stanu i jakości tych zapasów, wypełnienie międzynarodowych wymagań dotyczących sprawozdawczości w zakresie zapasów oraz dysponowania nimi iprzemieszczania ich zterytorium tego państwa na terytorium Rzeczypospolitej Polskiej, w tym również wsytuacji zaistnienia zakłóceń wdostawach ropy naftowej lub produktów naftowych na terytorium tego państwa, a także wskazywać organy odpowiedzialne za kontrolę i sprawozdawczość w zakresie tych zapasów.
 
-3. Zapasy obowiàzkowe ropy naftowej lub paliw utrzymywane stosownie do ust. 2 nie mogà przekraczaç 5 % ogólnej iloÊci zapasów obowiàzkowych ropy naftowej lub paliw, do utrzymywania których dany producent i handlowiec sà obowiàzani.
+3. Zapasy obowiązkowe ropy naftowej lub paliw utrzymywane stosownie do ust. 2 nie mogą przekraczać 5 % ogólnej ilości zapasów obowiązkowych ropy naftowej lub paliw, do utrzymywania których dany producent i handlowiec są obowiązani.
 
 **Art. 10.**
 
-1. Producenci i handlowcy, którzy utrzymujà zapasy obowiàzkowe ropy naftowej lub paliw uprzedsi´biorców Êwiadczàcych us∏ugi magazynowania ropy naftowej lub paliw, sà obowiàzani zawrzeç umow´ o magazynowanie tych zapasów, zwanà dalej „umowà o magazynowanie”.
+1. Producenci i handlowcy, którzy utrzymują zapasy obowiązkowe ropy naftowej lub paliw uprzedsiębiorców świadczących usługi magazynowania ropy naftowej lub paliw, są obowiązani zawrzeć umowę o magazynowanie tych zapasów, zwaną dalej Ńumową o magazynowanie”.
 
-2. Umowa o magazynowanie okreÊla w szczególnoÊci:
+2. Umowa o magazynowanie określa w szczególności:
 
-- **1)** iloÊç i miejsce magazynowanych zapasów obowiàzkowych ropy naftowej lub paliw;
-- **2)** warunki zapewniajàce utrzymywanie odpowiedniego poziomu iloÊciowego i jakoÊciowego magazynowanych zapasów obowiàzkowych ropy naftowej lub paliw;
-- **3)** sposób post´powania przy magazynowaniu zapasów obowiàzkowych ropy naftowej lub paliw, ich wymianie i konserwacji oraz interwencyjnym uwalnianiu tych zapasów;
-- **4)** okres magazynowania zapasów obowiàzkowych ropy naftowej lub paliw, przy czym okres ten nie powinien byç krótszy ni˝ rok kalendarzowy;
-- **5)** zasady odpowiedzialnoÊci stron za niedotrzymanie warunków umowy;
-- **6)** okres jej obowiàzywania i warunki rozwiàzania.
+- **1)** ilość i miejsce magazynowanych zapasów obowiązkowych ropy naftowej lub paliw;
+- **2)** warunki zapewniające utrzymywanie odpowiedniego poziomu ilościowego i jakościowego magazynowanych zapasów obowiązkowych ropy naftowej lub paliw;
+- **3)** sposób postępowania przy magazynowaniu zapasów obowiązkowych ropy naftowej lub paliw, ich wymianie i konserwacji oraz interwencyjnym uwalnianiu tych zapasów;
+- **4)** okres magazynowania zapasów obowiązkowych ropy naftowej lub paliw, przy czym okres ten nie powinien być krótszy niż rok kalendarzowy;
+- **5)** zasady odpowiedzialności stron za niedotrzymanie warunków umowy;
+- **6)** okres jej obowiązywania i warunki rozwiązania.
 
-3. Producenci oraz handlowcy sà obowiàzani przekazaç Agencji Rezerw Materia∏owych kopi´ umowy o magazynowanie, w terminie 14 dni od dnia jej zawarcia, wcelu dokonania odpowiedniego wpisu wrejestrze producentów i handlowców, o którym mowa wà lub paliwami, wytwarzania paliw lub magazynowania ropy naftowej lub paliw.
+3. Producenci oraz handlowcy są obowiązani przekazać Agencji Rezerw Materiałowych kopię umowy o magazynowanie, w terminie 14 dni od dnia jej zawarcia, wcelu dokonania odpowiedniego wpisu wrejestrze producentów i handlowców, o którym mowa wą lub paliwami, wytwarzania paliw lub magazynowania ropy naftowej lub paliw.
 
-2. Umowa okreÊla w szczególnoÊci:
+2. Umowa określa w szczególności:
 
-- **1)** iloÊç tworzonych i utrzymywanych zapasów obowiàzkowych ropy naftowej lub paliw w okresie obowiàzywania umowy;
+- **1)** ilość tworzonych i utrzymywanych zapasów obowiązkowych ropy naftowej lub paliw w okresie obowiązywania umowy;
 - **2)** sposób wykonania zlecenia;
-- **3)** warunki zapewniajàce utrzymywanie odpowiedniego poziomu iloÊciowego i jakoÊciowego tworzonych i utrzymywanych zapasów obowiàzkowych ropy naftowej lub paliw;
-- **4)** sposób post´powania podczas magazynowania zapasów obowiàzkowych ropy naftowej lub paliw, ich wymiany i konserwacji oraz interwencyjnego uwolnienia tych zapasów;
-- **5)** okres obowiàzywania umowy, przy czym okres ten nie mo˝e byç krótszy ni˝ 90 dni; w art. 13 ust. 1.
+- **3)** warunki zapewniające utrzymywanie odpowiedniego poziomu ilościowego i jakościowego tworzonych i utrzymywanych zapasów obowiązkowych ropy naftowej lub paliw;
+- **4)** sposób postępowania podczas magazynowania zapasów obowiązkowych ropy naftowej lub paliw, ich wymiany i konserwacji oraz interwencyjnego uwolnienia tych zapasów;
+- **5)** okres obowiązywania umowy, przy czym okres ten nie może być krótszy niż 90 dni; w art. 13 ust. 1.
 
 **Art. 11.**
 
-1. Producenci ihandlowcy mogà zleciç, na podstawie umowy, wykonanie zadaƒ w zakresie tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw przedsi´biorcom wykonujàcym dzia∏alnoÊç gospodarczà wzakresie obrotu ropà nafto6) miejsce magazynowania tworzonych iutrzymywanych zapasów obowiàzkowych ropy naftowej lub paliw w okresie obowiàzywania umowy;
+1. Producenci ihandlowcy mogą zlecić, na podstawie umowy, wykonanie zadań w zakresie tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw przedsiębiorcom wykonującym działalność gospodarczą wzakresie obrotu ropą nafto6) miejsce magazynowania tworzonych iutrzymywanych zapasów obowiązkowych ropy naftowej lub paliw w okresie obowiązywania umowy;
 
-- **7)** sposób wykonywania obowiàzków dotyczàcych sporzàdzania iprzekazywania informacji, októrych mowa w art. 22 i 38;
-- **8)** postanowienia dotyczàce zmiany warunków umowy i jej wypowiedzenia;
-- **9)** odpowiedzialnoÊç stron za niedotrzymanie warunków umowy.
+- **7)** sposób wykonywania obowiązków dotyczących sporządzania iprzekazywania informacji, októrych mowa w art. 22 i 38;
+- **8)** postanowienia dotyczące zmiany warunków umowy i jej wypowiedzenia;
+- **9)** odpowiedzialność stron za niedotrzymanie warunków umowy.
 
-3. Handlowiec, który zleci∏ wykonanie swoich zadaƒ dotyczàcych tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw, tworzonych w postaci paliw ciek∏ych, przedsi´biorcy wytwarzajàcemu paliwa poprzez przerób ropy naftowej na zasadach okreÊlonych w ust. 1, mo˝e utrzymywaç zapasy w postaci ropy naftowej, pod warunkiem, ˝e w umowie zostanà zawarte równie˝ postanowienia zobowiàzujàce przyjmujàcego zlecenie do przerobu ropy naftowej na paliwa b´dàce przedmiotem umowy, w czasie zapewniajàcym przedsi´biorcy zlecajàcemu wykonanie jego zadaƒ dotyczàcych interwencyjnego uwalniania tych zapasów, oraz postanowienia dotyczàce ceny i miejsca wydawania paliw.
+3. Handlowiec, który zlecił wykonanie swoich zadań dotyczących tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw, tworzonych w postaci paliw ciekłych, przedsiębiorcy wytwarzającemu paliwa poprzez przerób ropy naftowej na zasadach określonych w ust. 1, może utrzymywać zapasy w postaci ropy naftowej, pod warunkiem, że w umowie zostaną zawarte również postanowienia zobowiązujące przyjmującego zlecenie do przerobu ropy naftowej na paliwa będące przedmiotem umowy, w czasie zapewniającym przedsiębiorcy zlecającemu wykonanie jego zadań dotyczących interwencyjnego uwalniania tych zapasów, oraz postanowienia dotyczące ceny i miejsca wydawania paliw.
 
-4. Handlowiec, który zleci∏ wykonanie swoich zadaƒ dotyczàcych tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw, tworzonych w postaci paliw ciek∏ych, przedsi´biorcy wykonujàcemu dzia∏alnoÊç gospodarczà w zakresie magazynowania ropy naftowej na zasadach okreÊlonych wust.1, mo˝e utrzymywaç zapasy wpostaci ropy naftowej, pod warunkiem, ˝e zostanie zawarta przez niego tak˝e umowa dotyczàca przerobu tej ropy z przedsi´biorcà wytwarzajàcym paliwa poprzez przerób ropy naftowej, w której zostanà zawarte postanowienia zobowiàzujàce tego przedsi´biorc´ do przerobu tej ropy na paliwa b´dàce przedmiotem umowy mi´dzy handlowcem a przedsi´biorcà wykonujàcym dzia∏alnoÊç gospodarczà w zakresie magazynowania ropy naftowej, w czasie zapewniajàcym przedsi´biorcy zlecajàcemu wykonanie jego zadaƒ dotyczàcych interwencyjnego uwolnienia tych zapasów, oraz postanowienia dotyczàce ceny i miejsca wydania paliw.
+4. Handlowiec, który zlecił wykonanie swoich zadań dotyczących tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw, tworzonych w postaci paliw ciekłych, przedsiębiorcy wykonującemu działalność gospodarczą w zakresie magazynowania ropy naftowej na zasadach określonych wust.1, może utrzymywać zapasy wpostaci ropy naftowej, pod warunkiem, że zostanie zawarta przez niego także umowa dotycząca przerobu tej ropy z przedsiębiorcą wytwarzającym paliwa poprzez przerób ropy naftowej, w której zostaną zawarte postanowienia zobowiązujące tego przedsiębiorcę do przerobu tej ropy na paliwa będące przedmiotem umowy między handlowcem a przedsiębiorcą wykonującym działalność gospodarczą w zakresie magazynowania ropy naftowej, w czasie zapewniającym przedsiębiorcy zlecającemu wykonanie jego zadań dotyczących interwencyjnego uwolnienia tych zapasów, oraz postanowienia dotyczące ceny i miejsca wydania paliw.
 
-5. W przypadku zlecenia przez producentów lub handlowców tworzenia iutrzymywania, wich imieniu, zapasów obowiàzkowych ropy naftowej lub paliw podmiotom wymienionym w ust. 1, przedsi´biorcy przyjmujàcy zlecenie:
+5. W przypadku zlecenia przez producentów lub handlowców tworzenia iutrzymywania, wich imieniu, zapasów obowiązkowych ropy naftowej lub paliw podmiotom wymienionym w ust. 1, przedsiębiorcy przyjmujący zlecenie:
 
-- **1)** nie mogà wykorzystywaç, na w∏asne potrzeby, tworzonych i utrzymywanych zapasów obowiàzkowych ropy naftowej lub paliw wokresie obowiàzywania umowy;
-- **2)** sà obowiàzani zagwarantowaç zlecajàcemu dost´p do tworzonych i utrzymywanych zapasów obowiàzkowych ropy naftowej lub paliw wokresie obowiàzywania umowy.
+- **1)** nie mogą wykorzystywać, na własne potrzeby, tworzonych i utrzymywanych zapasów obowiązkowych ropy naftowej lub paliw wokresie obowiązywania umowy;
+- **2)** są obowiązani zagwarantować zlecającemu dostęp do tworzonych i utrzymywanych zapasów obowiązkowych ropy naftowej lub paliw wokresie obowiązywania umowy.
 
-6. W przypadku gdy zapasy obowiàzkowe ropy naftowej lub paliw, utrzymywane zgodnie z ust. 1, nie stanowià majàtku producenta lub handlowca, umowa powinna zawieraç tak˝e postanowienia gwarantujàce zlecajàcemu prawo nabycia tych zapasów w okresie jej obowiàzywania oraz okreÊlaç sposób ustalania ceny odsprzeda˝y tych zapasów.
+6. W przypadku gdy zapasy obowiązkowe ropy naftowej lub paliw, utrzymywane zgodnie z ust. 1, nie stanowią majątku producenta lub handlowca, umowa powinna zawierać także postanowienia gwarantujące zlecającemu prawo nabycia tych zapasów w okresie jej obowiązywania oraz określać sposób ustalania ceny odsprzedaży tych zapasów.
 
-7. Producenci i handlowcy przed zawarciem umów, októrych mowa wust. 1 i4, sà obowiàzani do przed∏o˝enia Agencji Rezerw Materia∏owych projektów tych umów oraz uzyskania zgody na ich zawarcie.
+7. Producenci i handlowcy przed zawarciem umów, októrych mowa wust. 1 i4, są obowiązani do przedłożenia Agencji Rezerw Materiałowych projektów tych umów oraz uzyskania zgody na ich zawarcie.
 
-8. Agencja Rezerw Materia∏owych, w terminie 14dni, w drodze decyzji administracyjnej, odmawia wyra˝enia zgody na zawarcie umów, o których mowa w ust. 1 i 4, je˝eli:
+8. Agencja Rezerw Materiałowych, w terminie 14dni, w drodze decyzji administracyjnej, odmawia wyrażenia zgody na zawarcie umów, o których mowa w ust. 1 i 4, jeżeli:
 
-- **1)** projekty tych umów nie zawierajà postanowieƒ, o których mowa w ust. 2—4 i 6;
-- **2)** lokalizacja lub infrastruktura techniczna baz magazynowych albo organizacja lub charakterystyka techniczna systemu przemieszczania ropy naftowej lub paliw nie zapewniajà mo˝liwoÊci ich dostaw do miejsc przeznaczenia, wprzypadku wystà2. Producenci oraz handlowcy lub przedsi´biorcy utrzymujàcy zapasy obowiàzkowe ropy naftowej lub paliw na rzecz producentów lub handlowców, stosownie do art. 11, sà obowiàzani ubezpieczyç zapasy obowiàzkowe ropy naftowej lub paliw od ognia i innych zdarzeƒ losowych.
+- **1)** projekty tych umów nie zawierają postanowień, o których mowa w ust. 2—4 i 6;
+- **2)** lokalizacja lub infrastruktura techniczna baz magazynowych albo organizacja lub charakterystyka techniczna systemu przemieszczania ropy naftowej lub paliw nie zapewniają możliwości ich dostaw do miejsc przeznaczenia, wprzypadku wystą2. Producenci oraz handlowcy lub przedsiębiorcy utrzymujący zapasy obowiązkowe ropy naftowej lub paliw na rzecz producentów lub handlowców, stosownie do art. 11, są obowiązani ubezpieczyć zapasy obowiązkowe ropy naftowej lub paliw od ognia i innych zdarzeń losowych.
 
 **Art. 13.**
 
-1. Tworzy si´ rejestr producentów i handlowców, zwany dalej „rejestrem”.
+1. Tworzy się rejestr producentów i handlowców, zwany dalej Ńrejestrem”.
 
-2. Rejestr prowadzi Agencja Rezerw Materia∏owych.
+2. Rejestr prowadzi Agencja Rezerw Materiałowych.
 
-3. Rejestr zawiera w szczególnoÊci:
+3. Rejestr zawiera w szczególności:
 
 - **1)** oznaczenie producenta lub handlowca;
-- **2)** niezb´dne dane ekonomiczne itowarowe dotyczàce producenta lub handlowca;
-- **3)** informacje dotyczàce magazynowania zapasów obowiàzkowych ropy naftowej lub paliw. pienia zak∏óceƒ bàdê kryzysu na rynku krajowym paliw.
+- **2)** niezbędne dane ekonomiczne itowarowe dotyczące producenta lub handlowca;
+- **3)** informacje dotyczące magazynowania zapasów obowiązkowych ropy naftowej lub paliw. pienia zakłóceń bądê kryzysu na rynku krajowym paliw.
 
-9. Producent lub handlowiec przekazuje Agencji Rezerw Materia∏owych kopie umów, o których mowa w ust. 1 i 4, w terminie 14 dni od dnia ich zawarcia.
+9. Producent lub handlowiec przekazuje Agencji Rezerw Materiałowych kopie umów, o których mowa w ust. 1 i 4, w terminie 14 dni od dnia ich zawarcia.
 
-10. Producenci i handlowcy, zlecajàcy wykonanie swoich zadaƒ wzakresie tworzenia iutrzymywania zapasów obowiàzkowych ropy naftowej lub paliw innym podmiotom, ponoszà odpowiedzialnoÊç za jakoÊç istan tych zapasów oraz wype∏nianie obowiàzków dotyczàcych interwencyjnego uwolnienia tych zapasów.
+10. Producenci i handlowcy, zlecający wykonanie swoich zadań wzakresie tworzenia iutrzymywania zapasów obowiązkowych ropy naftowej lub paliw innym podmiotom, ponoszą odpowiedzialność za jakość istan tych zapasów oraz wypełnianie obowiązków dotyczących interwencyjnego uwolnienia tych zapasów.
 
 **Art. 12.**
 
-1. Koszty tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw ponoszà producenci oraz handlowcy; koszty te sà zaliczane do kosztów ich dzia∏alnoÊci.
+1. Koszty tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw ponoszą producenci oraz handlowcy; koszty te są zaliczane do kosztów ich działalności.
 
-4. Agencja Rezerw Materia∏owych przekazuje Prezesowi Urz´du Regulacji Energetyki, zwanemu dalej „Prezesem URE”, wykaz producentów lub handlowców wpisanych do rejestru w terminie 14 dni od dnia dokonania wpisu.
+4. Agencja Rezerw Materiałowych przekazuje Prezesowi Urzędu Regulacji Energetyki, zwanemu dalej ŃPrezesem URE”, wykaz producentów lub handlowców wpisanych do rejestru w terminie 14 dni od dnia dokonania wpisu.
 
-5. Minister w∏aÊciwy do spraw gospodarki okreÊli, w drodze rozporzàdzenia, sposób prowadzenia rejestru, dokumenty b´dàce podstawà dokonania wpisu do rejestru, zmiany wpisu lub wykreÊlenia z rejestru, wzory wniosków o dokonanie wpisu do rejestru i o wykreÊlenie z rejestru oraz dane podlegajàce wpisowi do rejestru, uwzgl´dniajàc mo˝liwoÊç prowadzenia rejestru w systemie elektronicznym, pod warunkiem, ˝e dane w nim zawarte znajdujà potwierdzenie w dokumentach przechowywanych przez prowadzàcego rejestr.
+5. Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, sposób prowadzenia rejestru, dokumenty będące podstawą dokonania wpisu do rejestru, zmiany wpisu lub wykreślenia z rejestru, wzory wniosków o dokonanie wpisu do rejestru i o wykreślenie z rejestru oraz dane podlegające wpisowi do rejestru, uwzględniając możliwość prowadzenia rejestru w systemie elektronicznym, pod warunkiem, że dane w nim zawarte znajdują potwierdzenie w dokumentach przechowywanych przez prowadzącego rejestr.
 
-6. Dane jednostkowe zawarte wrejestrze podlegajà ochronie na zasadach okreÊlonych wustawie zdnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. z2005 r. 196, poz. 1631, zpóên. zm. ), zwy∏àczeniem danych, o których mowa w ust. 3 pkt 1.
+6. Dane jednostkowe zawarte wrejestrze podlegają ochronie na zasadach określonych wustawie zdnia 22 stycznia 1999 r. o ochronie informacji niejawnych (Dz. U. z2005 r. 196, poz. 1631, zpóên. zm. ), zwyłączeniem danych, o których mowa w ust. 3 pkt 1.
 
 **Art. 14.**
 
-1. Producenci i handlowcy sà obowiàzani z∏o˝yç wniosek o wpis do rejestru, w terminie 14 dni od dnia rozpocz´cia dzia∏alnoÊci gospodarczej, w zakresie podlegajàcym obowiàzkowi tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw.
+1. Producenci i handlowcy są obowiązani złożyć wniosek o wpis do rejestru, w terminie 14 dni od dnia rozpoczęcia działalności gospodarczej, w zakresie podlegającym obowiązkowi tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw.
 
 2. Wniosek odokonanie wpisu do rejestru zawiera:
 
-- **1)** firm´ producenta lub handlowca;
-- **2)** oznaczenie formy prawnej, a tak˝e numer identyfikacji podatkowej (NIP) i numer identyfikacyjny w krajowym rejestrze urz´dowym podmiotów gospodarki narodowej (REGON) oraz numer ——————— PESEL osoby kierujàcej dzia∏alnoÊcià producenta lub handlowca, o ile taki numer posiada;
+- **1)** firmę producenta lub handlowca;
+- **2)** oznaczenie formy prawnej, a także numer identyfikacji podatkowej (NIP) i numer identyfikacyjny w krajowym rejestrze urzędowym podmiotów gospodarki narodowej (REGON) oraz numer ——————— PESEL osoby kierującej działalnością producenta lub handlowca, o ile taki numer posiada;
 - **3)** oznaczenie siedziby i adresu producenta lub handlowca;
-- **4)** oznaczenie adresu zak∏adu g∏ównego producenta lub handlowca, je˝eli jest inny ni˝ siedziba producenta lub handlowca;
-- **5)** oznaczenie przedmiotu wykonywanej dzia∏alnoÊci gospodarczej;
-- **6)** wskazanie daty rozpocz´cia dzia∏alnoÊci gospodarczej;
-- **7)** dane o wielkoÊci produkcji, przywozu ropy naftowej lub paliw, z uwzgl´dnieniem rodzaju tych paliw, planowanych na dany rok;
-- **8)** dane o iloÊci, rodzaju i gatunku paliw oraz iloÊci ropy naftowej przewidywanych do utworzenia wdanym roku kalendarzowym wramach zapasów obowiàzkowych ropy naftowej lub paliw;
-- **9)** oznaczenie miejsca magazynowania zapasów obowiàzkowych ropy naftowej lub paliw lub planowanego miejsca magazynowania tych zapasów, w przypadku gdy producent lub handlowiec do dnia z∏o˝enia wniosku o dokonanie wpisu do rejestru nie ustali∏ miejsca ich magazynowania.
+- **4)** oznaczenie adresu zakładu głównego producenta lub handlowca, jeżeli jest inny niż siedziba producenta lub handlowca;
+- **5)** oznaczenie przedmiotu wykonywanej działalności gospodarczej;
+- **6)** wskazanie daty rozpoczęcia działalności gospodarczej;
+- **7)** dane o wielkości produkcji, przywozu ropy naftowej lub paliw, z uwzględnieniem rodzaju tych paliw, planowanych na dany rok;
+- **8)** dane o ilości, rodzaju i gatunku paliw oraz ilości ropy naftowej przewidywanych do utworzenia wdanym roku kalendarzowym wramach zapasów obowiązkowych ropy naftowej lub paliw;
+- **9)** oznaczenie miejsca magazynowania zapasów obowiązkowych ropy naftowej lub paliw lub planowanego miejsca magazynowania tych zapasów, w przypadku gdy producent lub handlowiec do dnia złożenia wniosku o dokonanie wpisu do rejestru nie ustalił miejsca ich magazynowania.
 
-3. W przypadku gdy wniosek nie zawiera danych, o których mowa w ust. 2, Agencja Rezerw Materia∏owych niezw∏ocznie wzywa wnioskodawc´ do uzupe∏nienia wniosku w terminie 7 dni od dnia dor´czenia wezwania. Nieuzupe∏nienie wniosku w wyznaczonym terminie stanowi niedope∏nienie obowiàzku z∏o˝enia wniosku o wpis do rejestru.
+3. W przypadku gdy wniosek nie zawiera danych, o których mowa w ust. 2, Agencja Rezerw Materiałowych niezwłocznie wzywa wnioskodawcę do uzupełnienia wniosku w terminie 7 dni od dnia doręczenia wezwania. Nieuzupełnienie wniosku w wyznaczonym terminie stanowi niedopełnienie obowiązku złożenia wniosku o wpis do rejestru.
 
-4. Agencja Rezerw Materia∏owych, w drodze decyzji administracyjnej, odmawia wpisu do rejestru, je˝eli:
+4. Agencja Rezerw Materiałowych, w drodze decyzji administracyjnej, odmawia wpisu do rejestru, jeżeli:
 
-- **1)** prawomocnie orzeczono zakaz wykonywania przez producenta lub handlowca okreÊlonej we wniosku dzia∏alnoÊci gospodarczej;
-- **2)** od dnia wydania decyzji owykreÊleniu wpisu zrejestru z przyczyn, o których mowa w art. 16 ust. 2 pkt2 lit. a—c, up∏ynà∏ okres krótszy ni˝ 12 miesi´cy.
+- **1)** prawomocnie orzeczono zakaz wykonywania przez producenta lub handlowca określonej we wniosku działalności gospodarczej;
+- **2)** od dnia wydania decyzji owykreśleniu wpisu zrejestru z przyczyn, o których mowa w art. 16 ust. 2 pkt2 lit. a—c, upłynął okres krótszy niż 12 miesięcy.
 
 **Art. 15.**
 
-1. Agencja Rezerw Materia∏owych dokonuje wpisu do rejestru, w drodze decyzji, w terminie 5dni roboczych od dnia z∏o˝enia kompletnego wniosku, o którym mowa w art. 14 ust. 1.
+1. Agencja Rezerw Materiałowych dokonuje wpisu do rejestru, w drodze decyzji, w terminie 5dni roboczych od dnia złożenia kompletnego wniosku, o którym mowa w art. 14 ust. 1.
 
-2. Decyzja owpisie do rejestru zawiera wszczególnoÊci dane, o których mowa w art. 14 ust. 2 pkt 1—3, oraz dat´ wpisu do rejestru i numer w rejestrze.
+2. Decyzja owpisie do rejestru zawiera wszczególności dane, o których mowa w art. 14 ust. 2 pkt 1—3, oraz datę wpisu do rejestru i numer w rejestrze.
 
-- **1)** zmian´ wpisu w rejestrze w terminie 7 dni od dnia zmiany danych, o których mowa w art. 14 ust.2;
-- **2)** wykreÊlenie wpisu z rejestru w terminie 14 dni od dnia:
-    - **a)** trwa∏ego zaprzestania wykonywania dzia∏alnoÊci gospodarczej w zakresie wytwarzania lub przetwarzania lub przywozu ropy naftowej lub paliw,
-    - **b)** cofni´cia zezwolenia na prowadzenie sk∏adu podatkowego lub zezwolenia na nabywanie wyrobów akcyzowych zharmonizowanych,
-    - **c)** cofni´cia koncesji na wykonywanie dzia∏alnoÊci gospodarczej w zakresie wytwarzania i obrotu paliwami lub jej wygaÊni´cia,
-    - **d)** og∏oszenia upad∏oÊci przedsi´biorcy na podstawie prawomocnego orzeczenia sàdu.
+- **1)** zmianę wpisu w rejestrze w terminie 7 dni od dnia zmiany danych, o których mowa w art. 14 ust.2;
+- **2)** wykreślenie wpisu z rejestru w terminie 14 dni od dnia:
+    - **a)** trwałego zaprzestania wykonywania działalności gospodarczej w zakresie wytwarzania lub przetwarzania lub przywozu ropy naftowej lub paliw,
+    - **b)** cofnięcia zezwolenia na prowadzenie składu podatkowego lub zezwolenia na nabywanie wyrobów akcyzowych zharmonizowanych,
+    - **c)** cofnięcia koncesji na wykonywanie działalności gospodarczej w zakresie wytwarzania i obrotu paliwami lub jej wygaśnięcia,
+    - **d)** ogłoszenia upadłości przedsiębiorcy na podstawie prawomocnego orzeczenia sądu.
 
-3. Do wniosku, o którym mowa w ust. 2 pkt 2, nale˝y do∏àczyç dokumenty lub inne dowody potwierdzajàce okolicznoÊci uzasadniajàce wykreÊlenie wpisu z rejestru.
+3. Do wniosku, o którym mowa w ust. 2 pkt 2, należy dołączyć dokumenty lub inne dowody potwierdzające okoliczności uzasadniające wykreślenie wpisu z rejestru.
 
-4. Wpis do rejestru podlega wykreÊleniu z urz´du przez Agencj´ Rezerw Materia∏owych w przypadku:
+4. Wpis do rejestru podlega wykreśleniu z urzędu przez Agencję Rezerw Materiałowych w przypadku:
 
-- **1)** prawomocnie orzeczonego zakazu wykonywania dzia∏alnoÊci gospodarczej w zakresie, o którym mowa w ust. 2 pkt 2 lit. a;
-- **2)** stwierdzenia trwa∏ego zaprzestania wykonywania dzia∏alnoÊci gospodarczej w zakresie, o którym mowa w ust. 2 pkt 2 lit. a, co najmniej przez okres 24 miesi´cy, potwierdzonego odpowiednimi dokumentami;
-- **3)** cofni´cia koncesji na wykonywanie dzia∏alnoÊci gospodarczej w zakresie wytwarzania lub obrotu paliwami lub jej wygaÊni´cia.
+- **1)** prawomocnie orzeczonego zakazu wykonywania działalności gospodarczej w zakresie, o którym mowa w ust. 2 pkt 2 lit. a;
+- **2)** stwierdzenia trwałego zaprzestania wykonywania działalności gospodarczej w zakresie, o którym mowa w ust. 2 pkt 2 lit. a, co najmniej przez okres 24 miesięcy, potwierdzonego odpowiednimi dokumentami;
+- **3)** cofnięcia koncesji na wykonywanie działalności gospodarczej w zakresie wytwarzania lub obrotu paliwami lub jej wygaśnięcia.
 
-5. Agencja Rezerw Materia∏owych mo˝e wykreÊliç zurz´du dane wpisane do rejestru niezgodne zrzeczywistym stanem rzeczy.
+5. Agencja Rezerw Materiałowych może wykreślić zurzędu dane wpisane do rejestru niezgodne zrzeczywistym stanem rzeczy.
 
-6. WykreÊlenie wpisu z rejestru nast´puje w drodze decyzji.
+6. Wykreślenie wpisu z rejestru następuje w drodze decyzji.
 
-7. O odmowie wpisu do rejestru oraz wykreÊleniu z rejestru Agencja Rezerw Materia∏owych informuje naczelnika urz´du celnego w∏aÊciwego dla producenta albo handlowca oraz Prezesa URE wterminie 14 dni od dnia wydania decyzji, o której mowa w ust. 6 lub art. 14 ust. 4.
+7. O odmowie wpisu do rejestru oraz wykreśleniu z rejestru Agencja Rezerw Materiałowych informuje naczelnika urzędu celnego właściwego dla producenta albo handlowca oraz Prezesa URE wterminie 14 dni od dnia wydania decyzji, o której mowa w ust. 6 lub art. 14 ust. 4.
 
 **Art. 17.**
 
-1. Do post´powania przed Agencjà Rezerw Materia∏owych w sprawach okreÊlonych w ustawie stosuje si´ przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks post´powania administracyjnego (Dz. U. z 2000 r. 98, poz. 1071, z póên. zm.
+1. Do postępowania przed Agencją Rezerw Materiałowych w sprawach określonych w ustawie stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2000 r. 98, poz. 1071, z póên. zm.
 
 **Art. 16.**
 
-1. Zmiana wpisu lub wykreÊlenie zrejestru nast´pujà na uzasadniony wniosek producenta lub handlowca lub z urz´du.
+1. Zmiana wpisu lub wykreślenie zrejestru następują na uzasadniony wniosek producenta lub handlowca lub z urzędu.
 
-2. Producent oraz handlowiec sà obowiàzani z∏o˝yç wniosek o: ). ———————
+2. Producent oraz handlowiec są obowiązani złożyć wniosek o: ). ———————
 
-2. Od decyzji wydanych przez Agencj´ Rezerw Materia∏owych s∏u˝y odwo∏anie do ministra w∏aÊciwego do spraw gospodarki.
+2. Od decyzji wydanych przez Agencję Rezerw Materiałowych służy odwołanie do ministra właściwego do spraw gospodarki.
 
-**Art. 18.** Zapasy paƒstwowe ropy naftowej i produktów naftowych utrzymuje si´ wy∏àcznie na terytorium Rzeczypospolitej Polskiej.
+**Art. 18.** Zapasy państwowe ropy naftowej i produktów naftowych utrzymuje się wyłącznie na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 19.**
 
-1. Zapasy paƒstwowe ropy naftowej iproduktów naftowych nie mogà byç mniejsze ni˝ 14-dniowe Êrednie dzienne wewn´trzne zu˝ycie ropy naftowej i produktów naftowych.
+1. Zapasy państwowe ropy naftowej iproduktów naftowych nie mogą być mniejsze niż 14-dniowe średnie dzienne wewnętrzne zużycie ropy naftowej i produktów naftowych.
 
-2. Zapasy paƒstwowe produktów naftowych mogà byç utrzymywane w postaci:
+2. Zapasy państwowe produktów naftowych mogą być utrzymywane w postaci:
 
 - **1)** produktów gotowych;
-- **2)** pó∏produktów rafinacji ropy naftowej;
+- **2)** półproduktów rafinacji ropy naftowej;
 - **3)** ropy naftowej.
 
-3. Agencja Rezerw Materia∏owych corocznie okreÊla wielkoÊç i struktur´ zapasów paƒstwowych w projekcie planu rzeczowo-finansowego Agencji Rezerw Materia∏owych, uwzgl´dniajàc wymagania okreÊlone w ust. 1 i bioràc pod uwag´ koniecznoÊç zapewnienia realizacji zobowiàzaƒ mi´dzynarodowych Rzeczypospolitej Polskiej dotyczàcych minimalnego poziomu posiadanych zapasów.
+3. Agencja Rezerw Materiałowych corocznie określa wielkość i strukturę zapasów państwowych w projekcie planu rzeczowo-finansowego Agencji Rezerw Materiałowych, uwzględniając wymagania określone w ust. 1 i biorąc pod uwagę konieczność zapewnienia realizacji zobowiązań międzynarodowych Rzeczypospolitej Polskiej dotyczących minimalnego poziomu posiadanych zapasów.
 
-4. Projekt planu rzeczowo-finansowego, o którym mowa wust. 3, Agencja Rezerw Materia∏owych przedk∏ada do zatwierdzenia ministrowi w∏aÊciwemu do spraw gospodarki wterminie do dnia 15 kwietnia ka˝dego roku.
+4. Projekt planu rzeczowo-finansowego, o którym mowa wust. 3, Agencja Rezerw Materiałowych przedkłada do zatwierdzenia ministrowi właściwemu do spraw gospodarki wterminie do dnia 15 kwietnia każdego roku.
 
 **Art. 20.**
 
-1. Zapasy paƒstwowe ropy naftowej iproduktów naftowych sà finansowane ze Êrodków bud˝etu paƒstwa oraz wp∏ywów Agencji Rezerw Materia∏owych.
+1. Zapasy państwowe ropy naftowej iproduktów naftowych są finansowane ze środków budżetu państwa oraz wpływów Agencji Rezerw Materiałowych.
 
-2. Ârodki iwp∏ywy, októrych mowa wust. 1, Agencja Rezerw Materia∏owych przeznacza na pokrycie:
+2. Ârodki iwpływy, októrych mowa wust. 1, Agencja Rezerw Materiałowych przeznacza na pokrycie:
 
-- **1)** przyrostu i zmiany struktury zapasów paƒstwowych, stosownie do wielkoÊci i struktury wewn´trznego zu˝ycia ropy naftowej i produktów naftowych w poprzednim roku kalendarzowym;
+- **1)** przyrostu i zmiany struktury zapasów państwowych, stosownie do wielkości i struktury wewnętrznego zużycia ropy naftowej i produktów naftowych w poprzednim roku kalendarzowym;
 - **2)** kosztów:
-    - **a)** utrzymywania i magazynowania zapasów paƒstwowych ropy naftowej i produktów naftowych,
-    - **b)** wymiany zapasów paƒstwowych ropy naftowej i produktów naftowych,
-    - **c)** odtwarzania zapasów paƒstwowych ropy naf∏owych zwiàzanà z gospodarowaniem tymi zapasami w kolejnych latach.
+    - **a)** utrzymywania i magazynowania zapasów państwowych ropy naftowej i produktów naftowych,
+    - **b)** wymiany zapasów państwowych ropy naftowej i produktów naftowych,
+    - **c)** odtwarzania zapasów państwowych ropy nafłowych związaną z gospodarowaniem tymi zapasami w kolejnych latach.
 
-4. Nie pobiera si´ op∏aty skarbowej od czynnoÊci cywilnoprawnych, których stronà jest Agencja Rezerw Materia∏owych.
+4. Nie pobiera się opłaty skarbowej od czynności cywilnoprawnych, których stroną jest Agencja Rezerw Materiałowych.
 
-**Art. 21.** Agencja Rezerw Materia∏owych mo˝e zleciç, na podstawie umowy, utrzymywanie zapasów paƒstwowych ropy naftowej i produktów naftowych przedsi´biorcom wykonujàcym dzia∏alnoÊç gospodarczà wzakresie obrotu ropà naftowà lub paliwami, wytwarzania paliw lub magazynowania ropy naftowej lub paliw.
+**Art. 21.** Agencja Rezerw Materiałowych może zlecić, na podstawie umowy, utrzymywanie zapasów państwowych ropy naftowej i produktów naftowych przedsiębiorcom wykonującym działalność gospodarczą wzakresie obrotu ropą naftową lub paliwami, wytwarzania paliw lub magazynowania ropy naftowej lub paliw.
 
 **Art. 22.**
 
-1. Producenci i handlowcy obowiàzani do tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw oraz przedsi´biorcy wykonujàcy dzia∏alnoÊç gospodarczà w zakresie magazynowania ropy naftowej lub paliw przekazujà Agencji Rezerw Materia∏owych pisemne, miesi´czne informacje o iloÊci:
+1. Producenci i handlowcy obowiązani do tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw oraz przedsiębiorcy wykonujący działalność gospodarczą w zakresie magazynowania ropy naftowej lub paliw przekazują Agencji Rezerw Materiałowych pisemne, miesięczne informacje o ilości:
 
-- **1)** przywozu ropy naftowej oraz produkcji iprzywozu paliw, a tak˝e strukturze produkcji i przywozu paliw,
-- **2)** ropy naftowej lub paliw wywiezionych, a tak˝e strukturze wywiezionych paliw,
-- **3)** tworzonych imagazynowanych zapasów obowiàzkowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania,
-- **4)** utrzymywanych zapasów handlowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania wterminie 20 dni od up∏ywu ostatniego dnia miesiàca, którego dotyczy przekazywana informacja.
+- **1)** przywozu ropy naftowej oraz produkcji iprzywozu paliw, a także strukturze produkcji i przywozu paliw,
+- **2)** ropy naftowej lub paliw wywiezionych, a także strukturze wywiezionych paliw,
+- **3)** tworzonych imagazynowanych zapasów obowiązkowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania,
+- **4)** utrzymywanych zapasów handlowych ropy naftowej lub paliw, ich strukturze oraz miejscach magazynowania wterminie 20 dni od upływu ostatniego dnia miesiąca, którego dotyczy przekazywana informacja.
 
-2. Producenci i handlowcy sà obowiàzani do przedstawiania ministrowi w∏aÊciwemu do spraw gospodarki pisemnych, kwartalnych informacji o poniesionych kosztach tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw w terminie 30 dni od up∏ywu ostatniego dnia kwarta∏u, którego towej i produktów naftowych w przypadku ich obni˝enia, októrym mowa wart. 33 ust. 1 pkt 2 lub art. 34 pkt 2 lit. a.
+2. Producenci i handlowcy są obowiązani do przedstawiania ministrowi właściwemu do spraw gospodarki pisemnych, kwartalnych informacji o poniesionych kosztach tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw w terminie 30 dni od upływu ostatniego dnia kwartału, którego towej i produktów naftowych w przypadku ich obniżenia, októrym mowa wart. 33 ust. 1 pkt 2 lub art. 34 pkt 2 lit. a.
 
-3. Ârodki finansowe uzyskane z obrotu zapasami paƒstwowymi ropy naftowej i produktów naftowych przeznacza si´ na dzia∏alnoÊç Agencji Rezerw Materiadotyczy informacja.
+3. Ârodki finansowe uzyskane z obrotu zapasami państwowymi ropy naftowej i produktów naftowych przeznacza się na działalność Agencji Rezerw Materiadotyczy informacja.
 
-3. Producenci i handlowcy sà obowiàzani do przedstawiania Agencji Rezerw Materia∏owych informacji o iloÊci zapasów obowiàzkowych ropy naftowej lub paliw, do utworzenia których sà obowiàzani w danym roku kalendarzowym w terminie do dnia 1 marca.
+3. Producenci i handlowcy są obowiązani do przedstawiania Agencji Rezerw Materiałowych informacji o ilości zapasów obowiązkowych ropy naftowej lub paliw, do utworzenia których są obowiązani w danym roku kalendarzowym w terminie do dnia 1 marca.
 
-4. Do informacji, o których mowa w ust. 1—3, stosuje si´ odpowiednio przepisy ustawy zdnia 22 stycznia 1999 r. oochronie informacji niejawnych, zzastrze˝eniem ust. 5.
+4. Do informacji, o których mowa w ust. 1—3, stosuje się odpowiednio przepisy ustawy zdnia 22 stycznia 1999 r. oochronie informacji niejawnych, zzastrzeżeniem ust. 5.
 
-5. Do informacji, októrych mowa wust. 1—3, przetworzonych lub zagregowanych w sposób uniemo˝liwiajàcy ich powiàzanie lub identyfikacj´ zkonkretnym przedsi´biorcà nie stosuje si´ przepisów ustawy, o której mowa w ust. 4.
+5. Do informacji, októrych mowa wust. 1—3, przetworzonych lub zagregowanych w sposób uniemożliwiający ich powiązanie lub identyfikację zkonkretnym przedsiębiorcą nie stosuje się przepisów ustawy, o której mowa w ust. 4.
 
 **Art. 23.**
 
-1. Agencja Rezerw Materia∏owych sk∏ada ministrowi w∏aÊciwemu do spraw gospodarki pó∏roczne sprawozdania o stanie zapasów interwencyjnych i zapasów handlowych, ich strukturze oraz miejscach magazynowania w terminie 45 dni od koƒca miesiàca nast´pujàcego po up∏ywie okresu sprawozdawczego.
+1. Agencja Rezerw Materiałowych składa ministrowi właściwemu do spraw gospodarki półroczne sprawozdania o stanie zapasów interwencyjnych i zapasów handlowych, ich strukturze oraz miejscach magazynowania w terminie 45 dni od końca miesiąca następującego po upływie okresu sprawozdawczego.
 
-2. Agencja Rezerw Materia∏owych sk∏ada ministrowi w∏aÊciwemu do spraw gospodarki miesi´czne, skrócone sprawozdania ostanie zapasów interwencyjnych i zapasów handlowych, a tak˝e ich strukturze, wterminie 45 dni od koƒca miesiàca, którego dotyczy sprawozdanie.
+2. Agencja Rezerw Materiałowych składa ministrowi właściwemu do spraw gospodarki miesięczne, skrócone sprawozdania ostanie zapasów interwencyjnych i zapasów handlowych, a także ich strukturze, wterminie 45 dni od końca miesiąca, którego dotyczy sprawozdanie.
 
-3. Agencja Rezerw Materia∏owych przekazuje bie˝àce informacje w zakresie okreÊlonym w ust. 1 oraz inne informacje dotyczàce tworzenia i utrzymywania zapasów interwencyjnych i zapasów handlowych na ˝àdanie ministra w∏aÊciwego do spraw gospodarki. Rozdzia∏ 3 Zasady tworzenia, utrzymywania oraz finansowania zapasów gazu ziemnego
+3. Agencja Rezerw Materiałowych przekazuje bieżące informacje w zakresie określonym w ust. 1 oraz inne informacje dotyczące tworzenia i utrzymywania zapasów interwencyjnych i zapasów handlowych na żądanie ministra właściwego do spraw gospodarki.
+
+#### Rozdział 3 Zasady tworzenia, utrzymywania oraz finansowania zapasów gazu ziemnego
 
 **Art. 24.**
 
 1. W celu zapewnienia zaopatrzenia Rzeczypospolitej Polskiej wgaz ziemny oraz minimalizacji skutków:
 
-- **1)** zagro˝enia bezpieczeƒstwa paliwowego paƒstwa,
-- **2)** wystàpienia sytuacji awaryjnej w sieci gazowej,
-- **3)** nieprzewidzianego wzrostu zu˝ycia gazu ziemnego przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu gazu ziemnego sà obowiàzani do utrzymywania zapasów obowiàzkowych gazu ziemnego.
+- **1)** zagrożenia bezpieczeństwa paliwowego państwa,
+- **2)** wystąpienia sytuacji awaryjnej w sieci gazowej,
+- **3)** nieprzewidzianego wzrostu zużycia gazu ziemnego przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego są obowiązani do utrzymywania zapasów obowiązkowych gazu ziemnego.
 
-2. Przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym zzagranicà lub podmiot dokonujàcy przywozu gazu ziemnego:
+2. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym zzagranicą lub podmiot dokonujący przywozu gazu ziemnego:
 
-- **1)** utrzymuje zapasy obowiàzkowe gazu ziemnego w wielkoÊci odpowiadajàcej co najmniej 30-dniowemu Êredniemu dziennemu przywozowi tego gazu, ustalonemu w sposób okreÊlony w art. 25 ust.2 albo ust. 5;
-- **2)** utrzymuje zapasy obowiàzkowe gazu ziemnego w instalacjach magazynowych, których parametry techniczne zapewniajà mo˝liwoÊç dostarczenia ich ca∏kowitej iloÊci do systemu gazowego w okresie nie d∏u˝szym ni˝ 40 dni;
-- **3)** przedstawia operatorowi systemu przesy∏owego
+- **1)** utrzymuje zapasy obowiązkowe gazu ziemnego w wielkości odpowiadającej co najmniej 30-dniowemu średniemu dziennemu przywozowi tego gazu, ustalonemu w sposób określony w art. 25 ust.2 albo ust. 5;
+- **2)** utrzymuje zapasy obowiązkowe gazu ziemnego w instalacjach magazynowych, których parametry techniczne zapewniają możliwość dostarczenia ich całkowitej ilości do systemu gazowego w okresie nie dłuższym niż 40 dni;
+- **3)** przedstawia operatorowi systemu przesyłowego
 
-3. Zapasy obowiàzkowe gazu ziemnego utrzymuje si´ wy∏àcznie na terytorium Rzeczypospolitej Polskiej w instalacjach magazynowych przy∏àczonych do systemu gazowego.
+3. Zapasy obowiązkowe gazu ziemnego utrzymuje się wyłącznie na terytorium Rzeczypospolitej Polskiej w instalacjach magazynowych przyłączonych do systemu gazowego.
 
-4. W przypadku stwierdzenia, ˝e parametry techniczne instalacji magazynowych nie zapewniajà mo˝liwoÊci dostarczenia zapasów obowiàzkowych gazu ziemnego do systemu gazowego w okresie nie d∏u˝szym ni˝ 40 dni, operator systemu przesy∏owego gazowego lub operator systemu po∏àczonego gazowego powiadamia o tym fakcie Prezesa URE w terminie 7dni.
+4. W przypadku stwierdzenia, że parametry techniczne instalacji magazynowych nie zapewniają możliwości dostarczenia zapasów obowiązkowych gazu ziemnego do systemu gazowego w okresie nie dłuższym niż 40 dni, operator systemu przesyłowego gazowego lub operator systemu połączonego gazowego powiadamia o tym fakcie Prezesa URE w terminie 7dni.
 
-5. Przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym zzagranicà lub podmiot dokonujàcy przywozu gazu ziemnego mogà byç zwolnione z obowiàzku, o którym mowa w ust. 1, je˝eli liczba ich odbiorców nie jest wi´ksza ni˝ 100 tys. i przywóz gazu ziemnego nie przekracza wciàgu roku 50 mln m gazowego lub operatorowi systemów po∏àczonych gazowych charakterystyk´ instalacji magazynowej, w której utrzymuje zapasy obowiàzkowe gazu ziemnego, w celu weryfikacji technicznych mo˝liwoÊci dostarczenia zapasów tego gazu do systemu gazowego. . Zwolnienia dokonuje minister w∏aÊciwy do spraw gospodarki, na wniosek tego przedsi´biorstwa lub podmiotu, w drodze decyzji, na okres do jednego roku lub do czasu zmiany stanu faktycznego b´dàcego podstawà do zwolnienia z tego obowiàzku.
+5. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym zzagranicą lub podmiot dokonujący przywozu gazu ziemnego mogą być zwolnione z obowiązku, o którym mowa w ust. 1, jeżeli liczba ich odbiorców nie jest większa niż 100 tys. i przywóz gazu ziemnego nie przekracza wciągu roku 50 mln m gazowego lub operatorowi systemów połączonych gazowych charakterystykę instalacji magazynowej, w której utrzymuje zapasy obowiązkowe gazu ziemnego, w celu weryfikacji technicznych możliwości dostarczenia zapasów tego gazu do systemu gazowego. . Zwolnienia dokonuje minister właściwy do spraw gospodarki, na wniosek tego przedsiębiorstwa lub podmiotu, w drodze decyzji, na okres do jednego roku lub do czasu zmiany stanu faktycznego będącego podstawą do zwolnienia z tego obowiązku.
 
-6. Nie podlegajà zwolnieniu, o którym mowa wust. 5, przedsi´biorstwa energetyczne oraz podmioty powiàzane kapita∏owo z podmiotem, który uzyska∏ zwolnienie albo si´ o nie ubiega.
+6. Nie podlegają zwolnieniu, o którym mowa wust. 5, przedsiębiorstwa energetyczne oraz podmioty powiązane kapitałowo z podmiotem, który uzyskał zwolnienie albo się o nie ubiega.
 
 **Art. 25.**
 
-1. WielkoÊç zapasów gazu ziemnego ustala przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu gazu ziemnego, z zastrze˝eniem ust. 5, do dnia 30 kwietnia ka˝dego roku.
+1. Wielkość zapasów gazu ziemnego ustala przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego, z zastrzeżeniem ust. 5, do dnia 30 kwietnia każdego roku.
 
-2. Przedsi´biorstwo lub podmiot, o których mowa w ust. 1, ustala wielkoÊç zapasów gazu ziemnego na podstawie wielkoÊci jego przywozu, wokresie od dnia 1 kwietnia roku ubieg∏ego do dnia 31 marca danego roku, na podstawie danych zawartych w sprawozdaniach statystycznych sporzàdzanych przez to przedsi´biorstwo lub podmiot.
+2. Przedsiębiorstwo lub podmiot, o których mowa w ust. 1, ustala wielkość zapasów gazu ziemnego na podstawie wielkości jego przywozu, wokresie od dnia 1 kwietnia roku ubiegłego do dnia 31 marca danego roku, na podstawie danych zawartych w sprawozdaniach statystycznych sporządzanych przez to przedsiębiorstwo lub podmiot.
 
-3. Informacje o wielkoÊci ustalonej, zgodnie z ust.2, zapasów obowiàzkowych gazu ziemnego przedsi´biorstwo lub podmiot, o których mowa w ust.1, przedk∏adajà, do dnia 15 maja ka˝dego roku, Prezesowi URE, wcelu jej weryfikacji, wdrodze decyzji.
+3. Informacje o wielkości ustalonej, zgodnie z ust.2, zapasów obowiązkowych gazu ziemnego przedsiębiorstwo lub podmiot, o których mowa w ust.1, przedkładają, do dnia 15 maja każdego roku, Prezesowi URE, wcelu jej weryfikacji, wdrodze decyzji.
 
-4. Zapasy obowiàzkowe gazu ziemnego w wielkoÊci zweryfikowanej przez Prezesa URE sà utrzymywane w okresie od dnia 1 paêdziernika danego roku do dnia 30 wrzeÊnia kolejnego roku.
+4. Zapasy obowiązkowe gazu ziemnego w wielkości zweryfikowanej przez Prezesa URE są utrzymywane w okresie od dnia 1 paêdziernika danego roku do dnia 30 września kolejnego roku.
 
-5. Prezes URE ustala, w drodze decyzji, wielkoÊç zapasów obowiàzkowych gazu ziemnego na okres od dnia rozpocz´cia przywozu gazu ziemnego do dnia 30wrzeÊnia. Na okres od dnia 1 paêdziernika nast´pujàcego po dniu rozpocz´cia przywozu gazu ziemnego do dnia 30 wrzeÊnia roku kolejnego wielkoÊç zapasów obowiàzkowych gazu ziemnego jest okreÊlana przez Prezesa URE w odr´bnej decyzji, wydanej najpóêniej na 15 dni przed dniem 1 paêdziernika nast´pujàcym po dniu rozpocz´cia przywozu gazu ziemnego, na podstawie danych statystycznych o Êredniej iloÊci jego przywozu z dotychczasowego okresu prowadzenia dzia∏alnoÊci.
+5. Prezes URE ustala, w drodze decyzji, wielkość zapasów obowiązkowych gazu ziemnego na okres od dnia rozpoczęcia przywozu gazu ziemnego do dnia 30września. Na okres od dnia 1 paêdziernika następującego po dniu rozpoczęcia przywozu gazu ziemnego do dnia 30 września roku kolejnego wielkość zapasów obowiązkowych gazu ziemnego jest określana przez Prezesa URE w odrębnej decyzji, wydanej najpóêniej na 15 dni przed dniem 1 paêdziernika następującym po dniu rozpoczęcia przywozu gazu ziemnego, na podstawie danych statystycznych o średniej ilości jego przywozu z dotychczasowego okresu prowadzenia działalności.
 
-6. Przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym zzagranicà lub podmiot dokonujàcy przywozu gazu ziemnego sà obowiàzane poinformowaç Prezesa URE ozamiarze rozpocz´cia przywozu gazu ziemnego najpóêniej na 30 dni przed dniem rozpocz´cia tego przywozu.
+6. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym zzagranicą lub podmiot dokonujący przywozu gazu ziemnego są obowiązane poinformować Prezesa URE ozamiarze rozpoczęcia przywozu gazu ziemnego najpóêniej na 30 dni przed dniem rozpoczęcia tego przywozu.
 
-7. Za dzieƒ rozpocz´cia przywozu gazu ziemnego przyjmuje si´ dzieƒ, w którym po raz pierwszy gaz ziemny sprowadzono na terytorium Rzeczypospolitej Polskiej.
+7. Za dzień rozpoczęcia przywozu gazu ziemnego przyjmuje się dzień, w którym po raz pierwszy gaz ziemny sprowadzono na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 26.**
 
-1. Zapasami obowiàzkowymi gazu ziemnego dysponuje minister w∏aÊciwy do spraw gospodarki. Zapasy te mogà byç uruchomione przez operatora systemu przesy∏owego gazowego lub operatora systemów po∏àczonych gazowych, niezw∏ocznie po uzyskaniu zgody ministra w∏aÊciwego do spraw gospodarki.
+1. Zapasami obowiązkowymi gazu ziemnego dysponuje minister właściwy do spraw gospodarki. Zapasy te mogą być uruchomione przez operatora systemu przesyłowego gazowego lub operatora systemów połączonych gazowych, niezwłocznie po uzyskaniu zgody ministra właściwego do spraw gospodarki.
 
-2. Zgod´, o której mowa w ust. 1, minister w∏aÊciwy do spraw gospodarki wyra˝a w drodze decyzji. Wniosek o ponowne rozpatrzenie sprawy nie wstrzymuje wykonania tej decyzji.
+2. Zgodę, o której mowa w ust. 1, minister właściwy do spraw gospodarki wyraża w drodze decyzji. Wniosek o ponowne rozpatrzenie sprawy nie wstrzymuje wykonania tej decyzji.
 
-3. W przypadku uruchomienia zapasów obowiàzkowych gazu ziemnego, o których mowa w ust. 1, przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu gazu ziemnego jest obowiàzany do ich uzupe∏nienia do wielkoÊci ustalonej zgodnie z art. 25 ust. 2 albo ust. 5 wokresie 4 miesi´cy, liczàc od koƒca miesiàca, wktórym nastàpi∏o ich uruchomienie.
+3. W przypadku uruchomienia zapasów obowiązkowych gazu ziemnego, o których mowa w ust. 1, przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego jest obowiązany do ich uzupełnienia do wielkości ustalonej zgodnie z art. 25 ust. 2 albo ust. 5 wokresie 4 miesięcy, licząc od końca miesiąca, wktórym nastąpiło ich uruchomienie.
 
-4. W szczególnie uzasadnionych przypadkach, termin, o którym mowa w ust. 3, mo˝e byç, na wniosek przedsi´biorstwa energetycznego wykonujàcego dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiotu dokonujàcego przywozu gazu ziemnego, wyd∏u˝ony do okresu nie d∏u˝szego ni˝ 8 miesi´cy, wdrodze decyzji wydanej przez ministra w∏aÊciwego do spraw gospodarki.
+4. W szczególnie uzasadnionych przypadkach, termin, o którym mowa w ust. 3, może być, na wniosek przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiotu dokonującego przywozu gazu ziemnego, wydłużony do okresu nie dłuższego niż 8 miesięcy, wdrodze decyzji wydanej przez ministra właściwego do spraw gospodarki.
 
 **Art. 27.**
 
-1. Przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu gazu ziemnego przedstawia ministrowi w∏aÊciwemu do spraw gospodarki oraz operatorowi systemu gazowego informacje o:
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego przedstawia ministrowi właściwemu do spraw gospodarki oraz operatorowi systemu gazowego informacje o:
 
-- **1)** wielkoÊci zapasów obowiàzkowych gazu ziemnego zweryfikowanych przez Prezesa URE oraz otechnicznych mo˝liwoÊciach dostarczania ich do systemu gazowego, w okresie nie d∏u˝szym ni˝ 40dni, zweryfikowanych przez operatora systemu po∏àczonego gazowego do dnia 15 czerwca ka˝dego roku;
-- **2)** rzeczywistej wielkoÊci utrzymywanych zapasów obowiàzkowych gazu ziemnego oraz miejscu ich magazynowania, wed∏ug stanu na dzieƒ 15 wrzeÊnia do dnia 20 wrzeÊnia ka˝dego roku.
+- **1)** wielkości zapasów obowiązkowych gazu ziemnego zweryfikowanych przez Prezesa URE oraz otechnicznych możliwościach dostarczania ich do systemu gazowego, w okresie nie dłuższym niż 40dni, zweryfikowanych przez operatora systemu połączonego gazowego do dnia 15 czerwca każdego roku;
+- **2)** rzeczywistej wielkości utrzymywanych zapasów obowiązkowych gazu ziemnego oraz miejscu ich magazynowania, według stanu na dzień 15 września do dnia 20 września każdego roku.
 
-2. Przedsi´biorstwo energetyczne lub podmiot, o których mowa w ust. 1, przekazujà ministrowi w∏aÊciwemu do spraw gospodarki oraz Prezesowi URE informacje o dzia∏aniach podj´tych w okresie od dnia 1kwietnia poprzedniego roku do dnia 31 marca danego roku, w celu zapewnienia bezpieczeƒstwa paliwowego paƒstwa w zakresie obrotu gazem ziemnym z zagranicà oraz realizacji obowiàzku utrzymywania zapasów obowiàzkowych gazu ziemnego do dnia 15maja ka˝dego roku.
+2. Przedsiębiorstwo energetyczne lub podmiot, o których mowa w ust. 1, przekazują ministrowi właściwemu do spraw gospodarki oraz Prezesowi URE informacje o działaniach podjętych w okresie od dnia 1kwietnia poprzedniego roku do dnia 31 marca danego roku, w celu zapewnienia bezpieczeństwa paliwowego państwa w zakresie obrotu gazem ziemnym z zagranicą oraz realizacji obowiązku utrzymywania zapasów obowiązkowych gazu ziemnego do dnia 15maja każdego roku.
 
 **Art. 28.**
 
-1. Zapasy obowiàzkowe gazu ziemnego stanowià majàtek przedsi´biorstw energetycznych wykonujàcych dzia∏alnoÊç gospodarczà wzakresie obprzesy∏owego gazowego lub operatora systemu rotu gazem ziemnym z zagranicà lub podmiotów dokonujàcych przywozu gazu ziemnego.
+1. Zapasy obowiązkowe gazu ziemnego stanowią majątek przedsiębiorstw energetycznych wykonujących działalność gospodarczą wzakresie obprzesyłowego gazowego lub operatora systemu rotu gazem ziemnym z zagranicą lub podmiotów dokonujących przywozu gazu ziemnego.
 
-2. Koszty ponoszone przez przedsi´biorstwa lub podmioty, októrych mowa wust. 1, wzwiàzku zrealizacjà obowiàzku utrzymywania, uruchamiania oraz uzupe∏niania zapasów obowiàzkowych gazu ziemnego, sà zaliczane do kosztów uzasadnionych ich dzia∏alnoÊci w rozumieniu art. 3 pkt 21 ustawy z dnia 10kwietnia 1997 r. Prawo energetyczne. Rozdzia∏ 4 Zasady przeprowadzania kontroli
+2. Koszty ponoszone przez przedsiębiorstwa lub podmioty, októrych mowa wust. 1, wzwiązku zrealizacją obowiązku utrzymywania, uruchamiania oraz uzupełniania zapasów obowiązkowych gazu ziemnego, są zaliczane do kosztów uzasadnionych ich działalności w rozumieniu art. 3 pkt 21 ustawy z dnia 10kwietnia 1997 r. Prawo energetyczne.
+
+#### Rozdział 4 Zasady przeprowadzania kontroli
 
 **Art. 29.**
 
-1. Agencja Rezerw Materia∏owych jest uprawniona do przeprowadzania kontroli uproducentów, handlowców i przedsi´biorców Êwiadczàcych us∏ugi magazynowania, a tak˝e u przedsi´biorców, którym zlecono tworzenie i utrzymywanie zapasów obowiàzkowych ropy naftowej lub paliw, oraz uprzedsi´biorców, którym zlecono utrzymywanie zapasów paƒstwowych ropy naftowej i produktów naftowych.
+1. Agencja Rezerw Materiałowych jest uprawniona do przeprowadzania kontroli uproducentów, handlowców i przedsiębiorców świadczących usługi magazynowania, a także u przedsiębiorców, którym zlecono tworzenie i utrzymywanie zapasów obowiązkowych ropy naftowej lub paliw, oraz uprzedsiębiorców, którym zlecono utrzymywanie zapasów państwowych ropy naftowej i produktów naftowych.
 
-2. CzynnoÊci kontrolne wykonujà pracownicy Agencji Rezerw Materia∏owych po okazaniu legitymacji s∏u˝bowej oraz po dor´czeniu przedsi´biorcy albo osobie przez niego upowa˝nionej upowa˝nienia do przeprowadzenia kontroli dzia∏alnoÊci przedsi´biorcy.
+2. Czynności kontrolne wykonują pracownicy Agencji Rezerw Materiałowych po okazaniu legitymacji służbowej oraz po doręczeniu przedsiębiorcy albo osobie przez niego upoważnionej upoważnienia do przeprowadzenia kontroli działalności przedsiębiorcy.
 
-3. Upowa˝nienie, o którym mowa w ust. 2, zawiera:
+3. Upoważnienie, o którym mowa w ust. 2, zawiera:
 
-- **1)** imi´, nazwisko, stanowisko s∏u˝bowe oraz numer legitymacji s∏u˝bowej pracownika organu kontroli uprawnionego do przeprowadzenia kontroli;
+- **1)** imię, nazwisko, stanowisko służbowe oraz numer legitymacji służbowej pracownika organu kontroli uprawnionego do przeprowadzenia kontroli;
 - **2)** oznaczenie kontrolowanego;
-- **3)** okreÊlenie zakresu kontroli;
-- **4)** wskazanie daty rozpocz´cia iprzewidywanego terminu zakoƒczenia kontroli;
+- **3)** określenie zakresu kontroli;
+- **4)** wskazanie daty rozpoczęcia iprzewidywanego terminu zakończenia kontroli;
 - **5)** wskazanie podstawy prawnej kontroli;
 - **6)** oznaczenie organu kontroli;
-- **7)** okreÊlenie daty i miejsca wystawienia upowa˝nienia;
-- **8)** podpis osoby wystawiajàcej upowa˝nienie, z podaniem zajmowanego stanowiska s∏u˝bowego;
-- **9)** pouczenie o prawach i obowiàzkach kontrolowanego.
+- **7)** określenie daty i miejsca wystawienia upoważnienia;
+- **8)** podpis osoby wystawiającej upoważnienie, z podaniem zajmowanego stanowiska służbowego;
+- **9)** pouczenie o prawach i obowiązkach kontrolowanego.
 
 4. Kontrola, o której mowa w ust. 1, polega na sprawdzeniu:
 
-- **1)** prawid∏owoÊci ustalenia wielkoÊci zapasów obowiàzkowych ropy naftowej lub paliw na dany rok kalendarzowy;
-- **2)** zgodnoÊci stanu faktycznego ze stanem ewidencyjnym zapasów interwencyjnych;
-- **3)** jakoÊci paliw stanowiàcych zapasy interwencyjne;
-- **4)** wykonywania postanowieƒ umowy o magazynowanie oraz umów, októrych mowa wart. 11 ust. 1 i w art. 21;
-- **5)** zgodnoÊci stanu zapasów handlowych z danymi, dotyczàcymi tych zapasów przed∏o˝onymi wtrybie art. 22, w dniu przekazania tego sprawozdania.
+- **1)** prawidłowości ustalenia wielkości zapasów obowiązkowych ropy naftowej lub paliw na dany rok kalendarzowy;
+- **2)** zgodności stanu faktycznego ze stanem ewidencyjnym zapasów interwencyjnych;
+- **3)** jakości paliw stanowiących zapasy interwencyjne;
+- **4)** wykonywania postanowień umowy o magazynowanie oraz umów, októrych mowa wart. 11 ust. 1 i w art. 21;
+- **5)** zgodności stanu zapasów handlowych z danymi, dotyczącymi tych zapasów przedłożonymi wtrybie art. 22, w dniu przekazania tego sprawozdania.
 
-5. Upowa˝nionym pracownikom, o których mowa w ust. 2, przys∏uguje prawo:
+5. Upoważnionym pracownikom, o których mowa w ust. 2, przysługuje prawo:
 
-- **1)** wejÊcia na teren nieruchomoÊci ido obiektów producentów, handlowców, przedsi´biorców Êwiadczàcych us∏ugi magazynowania oraz przedsi´biorców, którym zlecono tworzenie iutrzymywanie zapasów obowiàzkowych ropy naftowej lub paliw;
-- **2)** ˝àdania ustnych lub pisemnych wyjaÊnieƒ, atak˝e ˝àdania okazania dokumentów dotyczàcych produkcji lub przywozu ropy naftowej lub paliw za rok, w którym jest przeprowadzana kontrola, i rok poprzedni, umo˝liwiajàcych weryfikacj´ poprawnoÊci wyliczenia poziomu zapasów obowiàzkowych ropy naftowej lub paliw, do których tworzenia iutrzymywania wdanym roku jest obowiàzany producent i handlowiec;
-- **3)** wglàdu do dokumentów potwierdzajàcych jakoÊç paliw;
-- **4)** pobierania próbek paliw na zasadach okreÊlonych w przepisach o systemie monitorowania i kontrolowania jakoÊci paliw.
+- **1)** wejścia na teren nieruchomości ido obiektów producentów, handlowców, przedsiębiorców świadczących usługi magazynowania oraz przedsiębiorców, którym zlecono tworzenie iutrzymywanie zapasów obowiązkowych ropy naftowej lub paliw;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, atakże żądania okazania dokumentów dotyczących produkcji lub przywozu ropy naftowej lub paliw za rok, w którym jest przeprowadzana kontrola, i rok poprzedni, umożliwiających weryfikację poprawności wyliczenia poziomu zapasów obowiązkowych ropy naftowej lub paliw, do których tworzenia iutrzymywania wdanym roku jest obowiązany producent i handlowiec;
+- **3)** wglądu do dokumentów potwierdzających jakość paliw;
+- **4)** pobierania próbek paliw na zasadach określonych w przepisach o systemie monitorowania i kontrolowania jakości paliw.
 
-6. CzynnoÊci kontrolne wykonuje si´ w obecnoÊci kontrolowanego lub osoby przez niego upowa˝nionej.
+6. Czynności kontrolne wykonuje się w obecności kontrolowanego lub osoby przez niego upoważnionej.
 
-7. Zprzeprowadzonej kontroli sporzàdza si´ protokó∏ dokonanych czynnoÊci, który powinien ponadto zawieraç wnioski oraz pouczenie o sposobie z∏o˝enia zastrze˝eƒ co do jego treÊci, przy czym termin do z∏o˝enia zastrze˝eƒ nie mo˝e byç krótszy ni˝ 7 dni od dnia
+7. Zprzeprowadzonej kontroli sporządza się protokół dokonanych czynności, który powinien ponadto zawierać wnioski oraz pouczenie o sposobie złożenia zastrzeżeń co do jego treści, przy czym termin do złożenia zastrzeżeń nie może być krótszy niż 7 dni od dnia
 
-8. Wprzypadku odmowy podpisania przez kontrolowanego protoko∏u z kontroli, kontrolujàcy dokonuje stosownej adnotacji w protokole. Odmowa podpisania protoko∏u nie stanowi przeszkody do jego podpisania przez kontrolujàcego irealizacji ustaleƒ kontroli.
+8. Wprzypadku odmowy podpisania przez kontrolowanego protokołu z kontroli, kontrolujący dokonuje stosownej adnotacji w protokole. Odmowa podpisania protokołu nie stanowi przeszkody do jego podpisania przez kontrolującego irealizacji ustaleń kontroli.
 
-9. Agencja Rezerw Materia∏owych mo˝e wezwaç producenta, handlowca, przedsi´biorc´ Êwiadczàcego us∏ugi magazynowania lub przedsi´biorc´, któremu zlecono tworzenie i utrzymywanie zapasów obowiàzkowych ropy naftowej lub paliw, do usuni´cia uchybieƒ okreÊlonych w protokole z kontroli, wskazujàc termin do usuni´cia tych uchybieƒ.
+9. Agencja Rezerw Materiałowych może wezwać producenta, handlowca, przedsiębiorcę świadczącego usługi magazynowania lub przedsiębiorcę, któremu zlecono tworzenie i utrzymywanie zapasów obowiązkowych ropy naftowej lub paliw, do usunięcia uchybień określonych w protokole z kontroli, wskazując termin do usunięcia tych uchybień.
 
 **Art. 30.**
 
-1. Prezes URE jest uprawniony do przeprowadzania kontroli przedsi´biorstw energetycznych wykonujàcych dzia∏alnoÊç gospodarczà wzakresie obrotu gazem ziemnym z zagranicà lub podmiotów dokonujàcych przywozu gazu ziemnego, w zakresie wykonania obowiàzków, októrych mowa wart. 24, atak˝e przedsi´biorstw energetycznych wykonujàcych dzia∏alnoÊç gospodarczà w zakresie magazynowania gazu ziemnego w rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
+1. Prezes URE jest uprawniony do przeprowadzania kontroli przedsiębiorstw energetycznych wykonujących działalność gospodarczą wzakresie obrotu gazem ziemnym z zagranicą lub podmiotów dokonujących przywozu gazu ziemnego, w zakresie wykonania obowiązków, októrych mowa wart. 24, atakże przedsiębiorstw energetycznych wykonujących działalność gospodarczą w zakresie magazynowania gazu ziemnego w rozumieniu ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
 
-2. CzynnoÊci kontrolne wykonujà upowa˝nieni pracownicy Urz´du Regulacji Energetyki po okazaniu legitymacji s∏u˝bowej oraz po dor´czeniu przedsi´biorstwu lub podmiotowi, októrych mowa wust. 1, albo osobie przez niego upowa˝nionej, upowa˝nienia do przeprowadzenia kontroli ich dzia∏alnoÊci.
+2. Czynności kontrolne wykonują upoważnieni pracownicy Urzędu Regulacji Energetyki po okazaniu legitymacji służbowej oraz po doręczeniu przedsiębiorstwu lub podmiotowi, októrych mowa wust. 1, albo osobie przez niego upoważnionej, upoważnienia do przeprowadzenia kontroli ich działalności.
 
-3. Upowa˝nienie, o którym mowa w ust. 2, zawiera:
+3. Upoważnienie, o którym mowa w ust. 2, zawiera:
 
-- **1)** imi´, nazwisko, stanowisko s∏u˝bowe oraz numer legitymacji s∏u˝bowej pracownika organu kontroli, uprawnionego do przeprowadzenia kontroli;
+- **1)** imię, nazwisko, stanowisko służbowe oraz numer legitymacji służbowej pracownika organu kontroli, uprawnionego do przeprowadzenia kontroli;
 - **2)** oznaczenie kontrolowanego;
-- **3)** okreÊlenie zakresu kontroli;
-- **4)** wskazanie daty rozpocz´cia iprzewidywanego terminu zakoƒczenia kontroli;
+- **3)** określenie zakresu kontroli;
+- **4)** wskazanie daty rozpoczęcia iprzewidywanego terminu zakończenia kontroli;
 - **5)** wskazanie podstawy prawnej kontroli;
 - **6)** oznaczenie organu kontroli;
-- **7)** okreÊlenie daty i miejsca wystawienia upowa˝nienia;
-- **8)** podpis osoby wystawiajàcej upowa˝nienie, z podaniem zajmowanego stanowiska s∏u˝bowego;
-- **9)** pouczenie o prawach i obowiàzkach kontrolowador´czenia protoko∏u. nego.
+- **7)** określenie daty i miejsca wystawienia upoważnienia;
+- **8)** podpis osoby wystawiającej upoważnienie, z podaniem zajmowanego stanowiska służbowego;
+- **9)** pouczenie o prawach i obowiązkach kontrolowadoręczenia protokołu. nego.
 
 4. Kontrola, o której mowa w ust. 1, polega na sprawdzeniu:
 
-- **1)** zgodnoÊci stanu faktycznego zwielkoÊcià zapasów obowiàzkowych gazu ziemnego ustalonà wed∏ug zasad okreÊlonych w art. 25 ust. 2 albo ust. 5;
-- **2)** dokumentów okreÊlajàcych jakoÊç gazu ziemnego;
-- **3)** wykonywania warunków umowy o Êwiadczenie us∏ug magazynowania gazu ziemnego, wrozumieniu art. 5 ust. 2 pkt 3 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
+- **1)** zgodności stanu faktycznego zwielkością zapasów obowiązkowych gazu ziemnego ustaloną według zasad określonych w art. 25 ust. 2 albo ust. 5;
+- **2)** dokumentów określających jakość gazu ziemnego;
+- **3)** wykonywania warunków umowy o świadczenie usług magazynowania gazu ziemnego, wrozumieniu art. 5 ust. 2 pkt 3 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
 
-5. Upowa˝nionym pracownikom, o których mowa w ust. 2, przys∏uguje prawo:
+5. Upoważnionym pracownikom, o których mowa w ust. 2, przysługuje prawo:
 
-- **1)** wejÊcia na teren nieruchomoÊci i do obiektów przedsi´biorstw energetycznych prowadzàcych dzia∏alnoÊç gospodarczà w zakresie magazynowania gazu ziemnego oraz przedsi´biorstw ipodmiotów obowiàzanych do tworzenia zapasów obowiàzkowych gazu ziemnego;
-- **2)** ˝àdania ustnych lub pisemnych wyjaÊnieƒ, atak˝e okazania dokumentów dotyczàcych przywozu gazu ziemnego za rok, w którym jest przeprowadzana kontrola, i rok poprzedni, umo˝liwiajàcych weryfikacj´ poprawnoÊci wyliczenia poziomu zapasów obowiàzkowych gazu ziemnego, do których tworzenia i utrzymywania jest obowiàzane przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu gazu ziemnego;
-- **3)** wglàdu do dokumentów potwierdzajàcych jakoÊç gazu ziemnego.
+- **1)** wejścia na teren nieruchomości i do obiektów przedsiębiorstw energetycznych prowadzących działalność gospodarczą w zakresie magazynowania gazu ziemnego oraz przedsiębiorstw ipodmiotów obowiązanych do tworzenia zapasów obowiązkowych gazu ziemnego;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, atakże okazania dokumentów dotyczących przywozu gazu ziemnego za rok, w którym jest przeprowadzana kontrola, i rok poprzedni, umożliwiających weryfikację poprawności wyliczenia poziomu zapasów obowiązkowych gazu ziemnego, do których tworzenia i utrzymywania jest obowiązane przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego;
+- **3)** wglądu do dokumentów potwierdzających jakość gazu ziemnego.
 
-6. CzynnoÊci kontrolne wykonuje si´ w obecnoÊci kontrolowanego lub osoby przez niego upowa˝nionej.
+6. Czynności kontrolne wykonuje się w obecności kontrolowanego lub osoby przez niego upoważnionej.
 
-7. Zprzeprowadzonej kontroli sporzàdza si´ protokó∏ dokonanych czynnoÊci, który powinien ponadto zawieraç wnioski oraz pouczenie o sposobie z∏o˝enia zastrze˝eƒ co do jego treÊci, przy czym termin do z∏o˝enia zastrze˝eƒ nie mo˝e byç krótszy ni˝ 7 dni od dnia dor´czenia protoko∏u.
+7. Zprzeprowadzonej kontroli sporządza się protokół dokonanych czynności, który powinien ponadto zawierać wnioski oraz pouczenie o sposobie złożenia zastrzeżeń co do jego treści, przy czym termin do złożenia zastrzeżeń nie może być krótszy niż 7 dni od dnia doręczenia protokołu.
 
-8. W przypadku odmowy podpisania przez przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà wzakresie obrotu gazem ziemnym zzagranicà lub podmiot dokonujàcy przywozu gazu ziemnego albo przedsi´biorstwo energetyczne prowadzàce dzia∏alnoÊç gospodarczà w zakresie magazynowania gazu ziemnego protoko∏u z kontroli, kontrolujàcy dokonuje stosownej adnotacji w protokole. Odmowa podpisania protoko∏u nie stanowi przeszkody do jego podpisania przez kontrolujàcego i realizacji ustaleƒ kontroli.
+8. W przypadku odmowy podpisania przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą wzakresie obrotu gazem ziemnym zzagranicą lub podmiot dokonujący przywozu gazu ziemnego albo przedsiębiorstwo energetyczne prowadzące działalność gospodarczą w zakresie magazynowania gazu ziemnego protokołu z kontroli, kontrolujący dokonuje stosownej adnotacji w protokole. Odmowa podpisania protokołu nie stanowi przeszkody do jego podpisania przez kontrolującego i realizacji ustaleń kontroli.
 
-9. Prezes URE mo˝e wezwaç przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà Rozdzia∏ 5 Zasady post´powania w sytuacji zagro˝enia bezpieczeƒstwa paliwowego paƒstwa w zakresie ropy naftowej i produktów naftowych oraz koniecznoÊci wype∏nienia zobowiàzaƒ mi´dzynarodowych
+9. Prezes URE może wezwać przedsiębiorstwo energetyczne wykonujące działalność gospodarczą
+
+#### Rozdział 5 Zasady postępowania w sytuacji zagrożenia bezpieczeństwa paliwowego państwa w zakresie ropy naftowej i produktów naftowych oraz konieczności wypełnienia zobowiązań międzynarodowych
 
 **Art. 31.**
 
-1. Producenci i handlowcy sà obowiàzani posiadaç procedury post´powania majàce zastosowanie w przypadku:
+1. Producenci i handlowcy są obowiązani posiadać procedury postępowania mające zastosowanie w przypadku:
 
-- **1)** wystàpienia zak∏óceƒ w przywozie ropy naftowej lub paliw;
-- **2)** wystàpienia awarii wsystemie przesy∏owym, przetwórczym lub magazynowym ropy naftowej lub paliw.
+- **1)** wystąpienia zakłóceń w przywozie ropy naftowej lub paliw;
+- **2)** wystąpienia awarii wsystemie przesyłowym, przetwórczym lub magazynowym ropy naftowej lub paliw.
 
-2. Procedury post´powania, o których mowa w ust. 1, powinny okreÊlaç w szczególnoÊci sposób i tryb:
+2. Procedury postępowania, o których mowa w ust. 1, powinny określać w szczególności sposób i tryb:
 
-- **1)** pozyskiwania dodatkowych dostaw ropy naftowej lub paliw z innych êróde∏ lub kierunków;
-- **2)** dokonywania zmian w strukturze produkcji produktów naftowych, z uwzgl´dnieniem mo˝liwoÊci technicznych instalacji wytwórczych;
-- **3)** sk∏adania wniosków do ministra w∏aÊciwego do spraw gospodarki o obni˝enie zapasów obowiàzkowych ropy naftowej lub paliw oraz wprowadzania tych zapasów na rynek.
+- **1)** pozyskiwania dodatkowych dostaw ropy naftowej lub paliw z innych êródeł lub kierunków;
+- **2)** dokonywania zmian w strukturze produkcji produktów naftowych, z uwzględnieniem możliwości technicznych instalacji wytwórczych;
+- **3)** składania wniosków do ministra właściwego do spraw gospodarki o obniżenie zapasów obowiązkowych ropy naftowej lub paliw oraz wprowadzania tych zapasów na rynek.
 
-3. Producenci i handlowcy w pierwszym roku wykonywania dzia∏alnoÊci gospodarczej przekazujà procedury, o których mowa w ust. 1, ministrowi w∏aÊciwemu do spraw gospodarki wterminie 2 miesi´cy od dnia jej rozpocz´cia.
+3. Producenci i handlowcy w pierwszym roku wykonywania działalności gospodarczej przekazują procedury, o których mowa w ust. 1, ministrowi właściwemu do spraw gospodarki wterminie 2 miesięcy od dnia jej rozpoczęcia.
 
-4. Producenci i handlowcy przekazujà ministrowi w∏aÊciwemu do spraw gospodarki potwierdzenia aktualnoÊci przed∏o˝onych procedur, o których mowa wust. 1, lub ich aktualizacje do dnia 31 sierpnia ka˝dew zakresie obrotu gazem ziemnym z zagranicà, podmiot dokonujàcy przywozu gazu ziemnego lub przedsi´biorstwo energetyczne prowadzàce dzia∏alnoÊç gospodarczà wzakresie magazynowania gazu ziemnego, do usuni´cia uchybieƒ okreÊlonych wprotokole zkontroli, wyznaczajàc termin ich usuni´cia. go roku.
+4. Producenci i handlowcy przekazują ministrowi właściwemu do spraw gospodarki potwierdzenia aktualności przedłożonych procedur, o których mowa wust. 1, lub ich aktualizacje do dnia 31 sierpnia każdew zakresie obrotu gazem ziemnym z zagranicą, podmiot dokonujący przywozu gazu ziemnego lub przedsiębiorstwo energetyczne prowadzące działalność gospodarczą wzakresie magazynowania gazu ziemnego, do usunięcia uchybień określonych wprotokole zkontroli, wyznaczając termin ich usunięcia. go roku.
 
-5. Producenci i handlowcy niezw∏ocznie przekazujà ministrowi w∏aÊciwemu do spraw gospodarki informacje o:
+5. Producenci i handlowcy niezwłocznie przekazują ministrowi właściwemu do spraw gospodarki informacje o:
 
-- **1)** wystàpieniu zak∏óceƒ w dostawach surowców do produkcji paliw lub dostawach paliw,
-- **2)** awariach technicznych infrastruktury transportowej ropy naftowej lub paliw, urzàdzeƒ s∏u˝àcych do wytwarzania paliw lub infrastruktury magazynowej majàcych znaczàcy wp∏yw na poziom dostaw ropy naftowej lub paliw lub produkcji paliw.
+- **1)** wystąpieniu zakłóceń w dostawach surowców do produkcji paliw lub dostawach paliw,
+- **2)** awariach technicznych infrastruktury transportowej ropy naftowej lub paliw, urządzeń służących do wytwarzania paliw lub infrastruktury magazynowej mających znaczący wpływ na poziom dostaw ropy naftowej lub paliw lub produkcji paliw.
 
 **Art. 32.**
 
 1. W sytuacji:
 
-- **1)** zagro˝enia bezpieczeƒstwa paliwowego paƒstwa,
-- **2)** koniecznoÊci wype∏nienia przez Rzeczpospolità Polskà zobowiàzaƒ mi´dzynarodowych dotyczàcych zabezpieczenia rynku ropy naftowej lub rynku paliw podejmuje si´ dzia∏ania interwencyjne, o których mowa w ust. 2.
+- **1)** zagrożenia bezpieczeństwa paliwowego państwa,
+- **2)** konieczności wypełnienia przez Rzeczpospolitą Polską zobowiązań międzynarodowych dotyczących zabezpieczenia rynku ropy naftowej lub rynku paliw podejmuje się działania interwencyjne, o których mowa w ust. 2.
 
-2. Dzia∏ania interwencyjne polegajà na:
+2. Działania interwencyjne polegają na:
 
-- **1)** obni˝eniu iloÊci zapasów obowiàzkowych ropy naftowej lub paliw, lub zapasów paƒstwowych ropy naftowej i produktów naftowych, lub
-- **2)** obowiàzkowej sprzeda˝y zapasów obowiàzkowych ropy naftowej lub paliw, lub zapasów paƒstwowych ropy naftowej i produktów naftowych w okreÊlonej iloÊci, lub
-- **3)** ograniczeniu wykonywania dzia∏alnoÊci gospodarczej w zakresie obrotu paliwami, lub
-- **4)** ograniczeniu zu˝ycia paliw przez odbiorców.
+- **1)** obniżeniu ilości zapasów obowiązkowych ropy naftowej lub paliw, lub zapasów państwowych ropy naftowej i produktów naftowych, lub
+- **2)** obowiązkowej sprzedaży zapasów obowiązkowych ropy naftowej lub paliw, lub zapasów państwowych ropy naftowej i produktów naftowych w określonej ilości, lub
+- **3)** ograniczeniu wykonywania działalności gospodarczej w zakresie obrotu paliwami, lub
+- **4)** ograniczeniu zużycia paliw przez odbiorców.
 
 **Art. 33.**
 
 1. W sytuacji, o której mowa w art. 32
 
-3. Roszczenia z tytu∏u ró˝nicy mi´dzy cenà rynkowà acenà okreÊlonà wdecyzji, októrej mowa wust. 1 pkt 3 lit. b, pokrywa Skarb Paƒstwa.
+3. Roszczenia z tytułu różnicy między ceną rynkową aceną określoną wdecyzji, októrej mowa wust. 1 pkt 3 lit. b, pokrywa Skarb Państwa.
 
-4. Przez cen´ rynkowà rozumie si´ cen´ stosowanà przez producenta lub handlowca w dniu poprzedzajàcym dzieƒ wydania decyzji, o której mowa wust.1 pkt 3 lit. b, awprzypadku niemo˝noÊci zastosowania tej ceny, cen´ stosowanà w tym dniu przez producenta majàcego najwi´kszy udzia∏ w rynku paliw.
+4. Przez cenę rynkową rozumie się cenę stosowaną przez producenta lub handlowca w dniu poprzedzającym dzień wydania decyzji, o której mowa wust.1 pkt 3 lit. b, awprzypadku niemożności zastosowania tej ceny, cenę stosowaną w tym dniu przez producenta mającego największy udział w rynku paliw.
 
-**Art. 34.** W sytuacji, o której mowa w art. 32 ust. 1 pkt 2, minister w∏aÊciwy do spraw gospodarki mo˝e:
+**Art. 34.** W sytuacji, o której mowa w art. 32 ust. 1 pkt 2, minister właściwy do spraw gospodarki może:
 
 **Art. 35.**
 
-1. Decyzje, októrych mowa wart. 33 ust. 1 pkt 3, minister w∏aÊciwy do spraw gospodarki wydaje z urz´du lub na wniosek.
+1. Decyzje, októrych mowa wart. 33 ust. 1 pkt 3, minister właściwy do spraw gospodarki wydaje z urzędu lub na wniosek.
 
-2. Zwnioskiem owydanie decyzji, októrych mowa w art. 33 ust. 1 pkt 3 lit. a, mo˝e wystàpiç:
-
-- **1)** wojewoda;
-- **2)** producent lub handlowiec, obowiàzani do tworzenia iutrzymywania zapasów obowiàzkowych ropy naftowej lub paliw.
-
-3. Zwnioskiem owydanie decyzji, októrych mowa w art. 33 ust. 1 pkt 3 lit. b, mo˝e wystàpiç:
+2. Zwnioskiem owydanie decyzji, októrych mowa w art. 33 ust. 1 pkt 3 lit. a, może wystąpić:
 
 - **1)** wojewoda;
-- **2)** podmiot zainteresowany nabyciem paliw, majàcy szczególne znaczenie dla ochrony ˝ycia, zdrowia, bezpieczeƒstwa obywateli lub funkcjonowania paƒstwa lub gospodarki.
+- **2)** producent lub handlowiec, obowiązani do tworzenia iutrzymywania zapasów obowiązkowych ropy naftowej lub paliw.
 
-4. Decyzje, októrych mowa wart. 34 pkt 2 lit. bic, minister w∏aÊciwy do spraw gospodarki wydaje z urz´du.
+3. Zwnioskiem owydanie decyzji, októrych mowa w art. 33 ust. 1 pkt 3 lit. b, może wystąpić:
 
-**Art. 36.** W przypadku koniecznoÊci podj´cia dzia∏aƒ, o których mowa w art. 33 ust. 1 lub w art. 34, minister w∏aÊciwy do spraw gospodarki mo˝e, w drodze rozporzàdzenia, dopuÊciç do obrotu paliwa, które nie spe∏niajà okreÊlonych w przepisach wymagaƒ jakoÊciowych, po uzyskaniu zgody Komisji Europejskiej, w trybie okreÊlonym w art. 6 ust. 2 ustawy z dnia 25sierpnia 2006 r. osystemie monitorowania ikontrolowania jakoÊci paliw, w odniesieniu do paliw, w zakresie których taka zgoda jest wymagana.
+- **1)** wojewoda;
+- **2)** podmiot zainteresowany nabyciem paliw, mający szczególne znaczenie dla ochrony życia, zdrowia, bezpieczeństwa obywateli lub funkcjonowania państwa lub gospodarki.
 
-**Art. 37.** Minister w∏aÊciwy do spraw gospodarki okreÊli, w drodze rozporzàdzenia, szczegó∏owy sposób obni˝ania iloÊci zapasów obowiàzkowych ropy naftowej lub paliw, w szczególnoÊci:
+4. Decyzje, októrych mowa wart. 34 pkt 2 lit. bic, minister właściwy do spraw gospodarki wydaje z urzędu.
+
+**Art. 36.** W przypadku konieczności podjęcia działań, o których mowa w art. 33 ust. 1 lub w art. 34, minister właściwy do spraw gospodarki może, w drodze rozporządzenia, dopuścić do obrotu paliwa, które nie spełniają określonych w przepisach wymagań jakościowych, po uzyskaniu zgody Komisji Europejskiej, w trybie określonym w art. 6 ust. 2 ustawy z dnia 25sierpnia 2006 r. osystemie monitorowania ikontrolowania jakości paliw, w odniesieniu do paliw, w zakresie których taka zgoda jest wymagana.
+
+**Art. 37.** Minister właściwy do spraw gospodarki określi, w drodze rozporządzenia, szczegółowy sposób obniżania ilości zapasów obowiązkowych ropy naftowej lub paliw, w szczególności:
 
 **Art. 38.**
 
-1. Wsytuacjach, októrych mowa wart. 32 ust. 1, informacje, o których mowa w art. 22 ust. 1, oraz informacje oplanowanej przez producentów produkcji paliw lub zakontraktowanym lub planowanym przez handlowców przywozie ropy naftowej lub paliw oraz planowanej ich sprzeda˝y w ramach dostaw wewnàtrzwspólnotowych i eksportu, producenci, handlowcy, a tak˝e przedsi´biorcy Êwiadczàcy us∏ugi magazynowania iprzedsi´biorcy, którym zlecono tworzenie i utrzymywanie zapasów obowiàzkowych ropy naftowej lub paliw przekazujà niezw∏ocznie Agencji Rezerw Materia∏owych, na ka˝de ˝àdanie.
+1. Wsytuacjach, októrych mowa wart. 32 ust. 1, informacje, o których mowa w art. 22 ust. 1, oraz informacje oplanowanej przez producentów produkcji paliw lub zakontraktowanym lub planowanym przez handlowców przywozie ropy naftowej lub paliw oraz planowanej ich sprzedaży w ramach dostaw wewnątrzwspólnotowych i eksportu, producenci, handlowcy, a także przedsiębiorcy świadczący usługi magazynowania iprzedsiębiorcy, którym zlecono tworzenie i utrzymywanie zapasów obowiązkowych ropy naftowej lub paliw przekazują niezwłocznie Agencji Rezerw Materiałowych, na każde żądanie.
 
-2. Agencja Rezerw Materia∏owych przekazuje niezw∏ocznie ministrowi w∏aÊciwemu do spraw gospodarki informacje, o których mowa w ust. 1 oraz w art.22 ust. 1.
+2. Agencja Rezerw Materiałowych przekazuje niezwłocznie ministrowi właściwemu do spraw gospodarki informacje, o których mowa w ust. 1 oraz w art.22 ust. 1.
 
-**Art. 39.** go do spraw gospodarki, w drodze rozporzàdzenia, mo˝e w∏àczyç do zapasów obowiàzkowych ropy naftowej lub paliw zapasy handlowe, oile zapasy te spe∏niajà warunki okreÊlone w art. 8 ust. 1 i 2, bioràc pod uwag´ skal´ zak∏óceƒ wdostawach ropy naftowej lub paliw. 2. Rozporzàdzenie, októrym mowa wust. 1, okreÊla szczegó∏owo kategorie zapasów ropy naftowej lub paliw w∏àczanych do zapasów obowiàzkowych ropy naftowej lub paliw, zuwzgl´dnieniem obowiàzujàcych klasyfikacji wyrobów.
+**Art. 39.** go do spraw gospodarki, w drodze rozporządzenia, może włączyć do zapasów obowiązkowych ropy naftowej lub paliw zapasy handlowe, oile zapasy te spełniają warunki określone w art. 8 ust. 1 i 2, biorąc pod uwagę skalę zakłóceń wdostawach ropy naftowej lub paliw. 2. Rozporządzenie, októrym mowa wust. 1, określa szczegółowo kategorie zapasów ropy naftowej lub paliw włączanych do zapasów obowiązkowych ropy naftowej lub paliw, zuwzględnieniem obowiązujących klasyfikacji wyrobów.
 
 **Art. 40.**
 
-1. Wsytuacjach, októrych mowa wart. 32 ust. 1, Rada Ministrów, na wniosek ministra w∏aÊciwego do spraw gospodarki, mo˝e, w drodze rozporzàdzenia, wprowadziç na terytorium Rzeczypospolitej Polskiej lub jego cz´Êci ograniczenia w zakresie obrotu paliwami, polegajàce na wyznaczeniu:
+1. Wsytuacjach, októrych mowa wart. 32 ust. 1, Rada Ministrów, na wniosek ministra właściwego do spraw gospodarki, może, w drodze rozporządzenia, wprowadzić na terytorium Rzeczypospolitej Polskiej lub jego części ograniczenia w zakresie obrotu paliwami, polegające na wyznaczeniu:
 
-- **1)** maksymalnej iloÊci paliw sprzedawanych przez stacje paliw w ciàgu doby lub
-- **2)** maksymalnej iloÊci paliw, jakà jednorazowo mo˝e zakupiç odbiorca, lub
-- **3)** godzin sprzeda˝y paliw na stacjach paliw bioràc pod uwag´ wielkoÊç irodzaj zak∏óceƒ wdostawach ropy naftowej lub paliw oraz koniecznoÊç wywiàzania si´ Rzeczypospolitej Polskiej z zobowiàzaƒ mi´dzynarodowych.
+- **1)** maksymalnej ilości paliw sprzedawanych przez stacje paliw w ciągu doby lub
+- **2)** maksymalnej ilości paliw, jaką jednorazowo może zakupić odbiorca, lub
+- **3)** godzin sprzedaży paliw na stacjach paliw biorąc pod uwagę wielkość irodzaj zakłóceń wdostawach ropy naftowej lub paliw oraz konieczność wywiązania się Rzeczypospolitej Polskiej z zobowiązań międzynarodowych.
 
-2. W rozporzàdzeniu, o którym mowa w ust. 1, okreÊla si´ przyczyny wprowadzenia ograniczeƒ w zakresie obrotu paliwami, dat´ ich wprowadzenia oraz obszar i okres ich obowiàzywania, a tak˝e rodzaje wprowadzanych ograniczeƒ.
+2. W rozporządzeniu, o którym mowa w ust. 1, określa się przyczyny wprowadzenia ograniczeń w zakresie obrotu paliwami, datę ich wprowadzenia oraz obszar i okres ich obowiązywania, a także rodzaje wprowadzanych ograniczeń.
 
 **Art. 41.**
 
-1. Wsytuacjach, októrych mowa wart. 32 ust. 1, Rada Ministrów, na wniosek ministra w∏aÊciwego do spraw gospodarki, mo˝e, w drodze rozporzàdzenia, wprowadziç ograniczenia majàce na celu zmniejszenie zu˝ycia paliw przez odbiorców, polegajàce na wprowadzeniu:
+1. Wsytuacjach, októrych mowa wart. 32 ust. 1, Rada Ministrów, na wniosek ministra właściwego do spraw gospodarki, może, w drodze rozporządzenia, wprowadzić ograniczenia mające na celu zmniejszenie zużycia paliw przez odbiorców, polegające na wprowadzeniu:
 
-- **1)** ograniczeƒ sprzeda˝y paliw przez sprzeda˝ tych
+- **1)** ograniczeń sprzedaży paliw przez sprzedaż tych
 
-1. Wsytuacjach, októrych mowa wart. 32 ust. 1, Rada Ministrów, na wniosek ministra w∏aÊciwepaliw na podstawie wydanych odbiorcom pisemnych upowa˝nieƒ do zakupu okreÊlonej iloÊci paliw, w okreÊlonym czasie,
+1. Wsytuacjach, októrych mowa wart. 32 ust. 1, Rada Ministrów, na wniosek ministra właściwepaliw na podstawie wydanych odbiorcom pisemnych upoważnień do zakupu określonej ilości paliw, w określonym czasie,
 
-- **2)** ograniczeƒ lub zakazu sprzeda˝y paliw na stacjach paliw do zbiorników innych ni˝ zbiorniki paliwowe zamontowane w sposób trwa∏y w pojazdach samochodowych,
-- **3)** ograniczeƒ dopuszczalnej pr´dkoÊci pojazdów samochodowych, okreÊlonej w art. 20 ust. 3 pkt 1 i ust. 4 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2005 r. 108, poz.908, z póên. zm. ), ———————
-- **4)** ograniczeƒ u˝ywania pojazdów samochodowych 2) sposób koordynacji kontroli przestrzegania ograoraz jednostek p∏ywajàcych na morskich wodach niczeƒ, o których mowa w art. 40 ust. 1 i art. 41 wewn´trznych ina morzu terytorialnym, atak˝e na ust.1; Êródlàdowych drogach wodnych oraz ograniczeƒ w ruchu lotniczym, 3) s∏u˝by odpowiedzialne za rozdzia∏ upowa˝nieƒ do zakupu paliw, o których mowa w art. 41 ust. 1;
+- **2)** ograniczeń lub zakazu sprzedaży paliw na stacjach paliw do zbiorników innych niż zbiorniki paliwowe zamontowane w sposób trwały w pojazdach samochodowych,
+- **3)** ograniczeń dopuszczalnej prędkości pojazdów samochodowych, określonej w art. 20 ust. 3 pkt 1 i ust. 4 ustawy z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2005 r. 108, poz.908, z póên. zm. ), ———————
+- **4)** ograniczeń używania pojazdów samochodowych 2) sposób koordynacji kontroli przestrzegania ograoraz jednostek pływających na morskich wodach niczeń, o których mowa w art. 40 ust. 1 i art. 41 wewnętrznych ina morzu terytorialnym, atakże na ust.1; śródlądowych drogach wodnych oraz ograniczeń w ruchu lotniczym, 3) służby odpowiedzialne za rozdział upoważnień do zakupu paliw, o których mowa w art. 41 ust. 1;
 - **5)** zakazu organizacji imprez motorowych,
 - **4)** wykaz podmiotów o szczególnym znaczeniu dla
-- **6)** ograniczeƒ funkcjonowania transportu towarów funkcjonowania paƒstwa lub gospodarki, ochrony i osób ˝ycia, zdrowia lub bezpieczeƒstwa obywateli, majàcych prawo pierwszeƒstwa do zaopatrywania si´ uwzgl´dniajàc zadania i znaczenie odbiorców pa- w paliwa pochodzàce z zapasów obowiàzkowych liw dla funkcjonowania paƒstwa lub gospodarki, ropy naftowej lub paliw, majàcych siedzib´ na obochrony ˝ycia, zdrowia lub bezpieczeƒstwa obywate- szarze ich w∏aÊciwoÊci. li.
+- **6)** ograniczeń funkcjonowania transportu towarów funkcjonowania państwa lub gospodarki, ochrony i osób życia, zdrowia lub bezpieczeństwa obywateli, mających prawo pierwszeństwa do zaopatrywania się uwzględniając zadania i znaczenie odbiorców pa- w paliwa pochodzące z zapasów obowiązkowych liw dla funkcjonowania państwa lub gospodarki, ropy naftowej lub paliw, mających siedzibę na obochrony życia, zdrowia lub bezpieczeństwa obywate- szarze ich właściwości. li.
 
-2. Plany, októrych mowa wust. 1, minister w∏aÊci2. W rozporzàdzeniu, o którym mowa w ust. 1, wy do spraw gospodarki zatwierdza, wdrodze decyzji, okreÊla si´ przyczyny wprowadzenia ograniczeƒ, dat´ po zasi´gni´ciu opinii ministra w∏aÊciwego do spraw ich wprowadzenia oraz obszar i okres ich obowiàzy- wewn´trznych. Plany te podlegajà corocznej aktualizawania, a tak˝e rodzaje Êrodków majàcych na celu cji wterminie do dnia 31 sierpnia lub wterminie 5 dni ograniczenie zu˝ycia paliw oraz rodzaje podmiotów od dnia opublikowania rozporzàdzeƒ, októrych mowa wy∏àczonych ze stosowania ograniczeƒ, ze wzgl´du w art. 40 ust. 1 i art. 41 ust. 1. na ich znaczenie dla funkcjonowania paƒstwa lub gospodarki, ochrony ˝ycia, zdrowia lub bezpieczeƒstwa 3. Zaktualizowane plany, októrych mowa wust. 1, obywateli. podlegajà zatwierdzeniu na zasadach okreÊlonych w ust. 2.
+2. Plany, októrych mowa wust. 1, minister właści2. W rozporządzeniu, o którym mowa w ust. 1, wy do spraw gospodarki zatwierdza, wdrodze decyzji, określa się przyczyny wprowadzenia ograniczeń, datę po zasięgnięciu opinii ministra właściwego do spraw ich wprowadzenia oraz obszar i okres ich obowiązy- wewnętrznych. Plany te podlegają corocznej aktualizawania, a także rodzaje środków mających na celu cji wterminie do dnia 31 sierpnia lub wterminie 5 dni ograniczenie zużycia paliw oraz rodzaje podmiotów od dnia opublikowania rozporządzeń, októrych mowa wyłączonych ze stosowania ograniczeń, ze względu w art. 40 ust. 1 i art. 41 ust. 1. na ich znaczenie dla funkcjonowania państwa lub gospodarki, ochrony życia, zdrowia lub bezpieczeństwa 3. Zaktualizowane plany, októrych mowa wust. 1, obywateli. podlegają zatwierdzeniu na zasadach określonych w ust. 2.
 
 **Art. 42.**
 
-1. Nadawcy programów radiowych i telewizyjnych sà obowiàzani do niezw∏ocznego, nieod- Art. 45. Do informacji zawartych w dokumentach, p∏atnego podania do publicznej wiadomoÊci informa- októrych mowa wart. 31, oraz planach, októrych mocji owydaniu rozporzàdzeƒ, októrych mowa wart. 40 wa wart. 44 ust. 1 pkt 4, stosuje si´ odpowiednio przeust. 1 i art. 41 ust. 1. pisy ustawy zdnia 22 stycznia 1999 r. oochronie informacji niejawnych.
+1. Nadawcy programów radiowych i telewizyjnych są obowiązani do niezwłocznego, nieod- Art. 45. Do informacji zawartych w dokumentach, płatnego podania do publicznej wiadomości informa- októrych mowa wart. 31, oraz planach, októrych mocji owydaniu rozporządzeń, októrych mowa wart. 40 wa wart. 44 ust. 1 pkt 4, stosuje się odpowiednio przeust. 1 i art. 41 ust. 1. pisy ustawy zdnia 22 stycznia 1999 r. oochronie informacji niejawnych.
 
-2. Wojewodowie sà obowiàzani do og∏oszenia in- Art. 46. Minister w∏aÊciwy do spraw gospodarki formacji o wydaniu rozporzàdzeƒ, o których mowa okreÊli, w drodze rozporzàdzenia: w art. 40 ust. 1 i art. 41 ust. 1, w sposób zwyczajowo przyj´ty na obszarze ich w∏aÊciwoÊci. 1) organy uprawnione do wydawania odbiorcom upowa˝nieƒ, októrych mowa wart. 41 ust. 1 pkt 1,
+2. Wojewodowie są obowiązani do ogłoszenia in- Art. 46. Minister właściwy do spraw gospodarki formacji o wydaniu rozporządzeń, o których mowa określi, w drodze rozporządzenia: w art. 40 ust. 1 i art. 41 ust. 1, w sposób zwyczajowo przyjęty na obszarze ich właściwości. 1) organy uprawnione do wydawania odbiorcom upoważnień, októrych mowa wart. 41 ust. 1 pkt 1,
 
 **Art. 43.**
 
-1. Przestrzeganie ograniczeƒ wprowadzonych na podstawie art. 40 i 41 podlega kontroli. 2) wzory upowa˝nieƒ do:
+1. Przestrzeganie ograniczeń wprowadzonych na podstawie art. 40 i 41 podlega kontroli. 2) wzory upoważnień do:
 
-2. Organami uprawnionymi do kontroli przestrze- a) zakupu okreÊlonej iloÊci paliw, októrych mowa w art. 41 ust. 1 pkt 1, gania ograniczeƒ sà:
+2. Organami uprawnionymi do kontroli przestrze- a) zakupu określonej ilości paliw, októrych mowa w art. 41 ust. 1 pkt 1, gania ograniczeń są:
 
-- **b)** przeprowadzenia kontroli przestrzegania ogra1) wojewódzki inspektor Inspekcji Handlowej, w za- niczeƒ, o których mowa w art. 44 ust. 1 kresie ograniczeƒ, o których mowa w art. 40;
-- **2)** wojewódzki komendant Policji lub wójt, burmistrz lub prezydent miasta, wzakresie ograniczeƒ, októrych mowa w art. 41.
+- **b)** przeprowadzenia kontroli przestrzegania ogra1) wojewódzki inspektor Inspekcji Handlowej, w za- niczeń, o których mowa w art. 44 ust. 1 kresie ograniczeń, o których mowa w art. 40;
+- **2)** wojewódzki komendant Policji lub wójt, burmistrz lub prezydent miasta, wzakresie ograniczeń, októrych mowa w art. 41.
 
-3. Kontrole, o których mowa w ust. 1, sà dokonywane na zasadach okreÊlonych w ustawach dotyczàcych tych organów.
+3. Kontrole, o których mowa w ust. 1, są dokonywane na zasadach określonych w ustawach dotyczących tych organów.
 
-4. Koordynatorami dzia∏aƒ kontrolnych sà wojewodowie.
+4. Koordynatorami działań kontrolnych są wojewodowie.
 
 **Art. 44.**
 
-1. Wojewodowie przygotowujà plany dzia∏aƒ, majàce na celu zapewnienie wdro˝enia ograniczeƒ, o których mowa w art. 40 i 41, okreÊlajàce:
+1. Wojewodowie przygotowują plany działań, mające na celu zapewnienie wdrożenia ograniczeń, o których mowa w art. 40 i 41, określające:
 
-- **1)** sposób przygotowania i rozdzia∏u upowa˝nieƒ do zakupu paliw, o których mowa w art. 41 ust. 1 pkt1; uwzgl´dniajàc koniecznoÊç zapewnienia sprawnoÊci wydawania tych upowa˝nieƒ.
+- **1)** sposób przygotowania i rozdziału upoważnień do zakupu paliw, o których mowa w art. 41 ust. 1 pkt1; uwzględniając konieczność zapewnienia sprawności wydawania tych upoważnień.
 
 **Art. 47.**
 
-1. Minister w∏aÊciwy do spraw gospodarki powiadamia niezw∏ocznie Komisj´ Europejskà oraz odpowiednie organy organizacji mi´dzynarodowych, je˝eli wynika to z zobowiàzaƒ mi´dzynarodowych, o ka˝dym przypadku obni˝enia iloÊci zapasów interwencyjnych, które powoduje zmniejszenie tych zapasów poni˝ej poziomu okreÊlonego w art. 3 ust. 3.
+1. Minister właściwy do spraw gospodarki powiadamia niezwłocznie Komisję Europejską oraz odpowiednie organy organizacji międzynarodowych, jeżeli wynika to z zobowiązań międzynarodowych, o każdym przypadku obniżenia ilości zapasów interwencyjnych, które powoduje zmniejszenie tych zapasów poniżej poziomu określonego w art. 3 ust. 3.
 
-2. Powiadomienie, o którym mowa w ust. 1, powinno zawieraç:
+2. Powiadomienie, o którym mowa w ust. 1, powinno zawierać:
 
-- **1)** oznaczenie daty obni˝enia zapasów interwencyjnych;
+- **1)** oznaczenie daty obniżenia zapasów interwencyjnych;
 - **2)** informacje o:
-    - **a)** przyczynie obni˝enia zapasów interwencyjnych,
-    - **b)** podj´tych dzia∏aniach majàcych na celu odtworzenie zapasów interwencyjnych,
+    - **a)** przyczynie obniżenia zapasów interwencyjnych,
+    - **b)** podjętych działaniach mających na celu odtworzenie zapasów interwencyjnych,
     - **c)** przewidywanych zmianach w poziomie zapasów interwencyjnych do dnia ich odtworzenia.
 
-3. Minister w∏aÊciwy do spraw gospodarki powiadamia niezw∏ocznie Komisj´ Europejskà oraz odpowiednie organy organizacji mi´dzynarodowych o wprowadzeniu ograniczeƒ, o których mowa w art.40 ust. 1 i art. 41 ust. 1.
+3. Minister właściwy do spraw gospodarki powiadamia niezwłocznie Komisję Europejską oraz odpowiednie organy organizacji międzynarodowych o wprowadzeniu ograniczeń, o których mowa w art.40 ust. 1 i art. 41 ust. 1.
 
 **Art. 48.**
 
-1. Wprzypadku gdy dzia∏ania zastosowane na poziomie krajowym sà niewystarczajàce do wyeliminowania zagro˝eƒ, o których mowa w art. 32 ust. 1 pkt 1, minister w∏aÊciwy do spraw gospodarki, po uzyskaniu akceptacji Rady Ministrów, mo˝e wystàpiç do Komisji Europejskiej lub odpowiednich organów innych organizacji mi´dzynarodowych, je˝eli wynika to zwià˝àcych Rzeczpospolità Polskà umów mi´dzynarodowych, z wnioskiem o wszcz´cie konsultacji w sprawie podj´cia wspólnych dzia∏aƒ interwencyjnych.
+1. Wprzypadku gdy działania zastosowane na poziomie krajowym są niewystarczające do wyeliminowania zagrożeń, o których mowa w art. 32 ust. 1 pkt 1, minister właściwy do spraw gospodarki, po uzyskaniu akceptacji Rady Ministrów, może wystąpić do Komisji Europejskiej lub odpowiednich organów innych organizacji międzynarodowych, jeżeli wynika to zwiążących Rzeczpospolitą Polską umów międzynarodowych, z wnioskiem o wszczęcie konsultacji w sprawie podjęcia wspólnych działań interwencyjnych.
 
-2. Wniosek, o którym mowa w ust. 1, zawiera wszczególnoÊci opis dzia∏aƒ zastosowanych na poziomie krajowym oraz propozycje Êrodków, jakie mogà byç podj´te na poziomie mi´dzynarodowym. Rozdzia∏ 6 Zasady post´powania w sytuacji zagro˝enia bezpieczeƒstwa paliwowego paƒstwa w zakresie gazu ziemnego oraz koniecznoÊci wype∏nienia zobowiàzaƒ mi´dzynarodowych
+2. Wniosek, o którym mowa w ust. 1, zawiera wszczególności opis działań zastosowanych na poziomie krajowym oraz propozycje środków, jakie mogą być podjęte na poziomie międzynarodowym.
+
+#### Rozdział 6 Zasady postępowania w sytuacji zagrożenia bezpieczeństwa paliwowego państwa w zakresie gazu ziemnego oraz konieczności wypełnienia zobowiązań międzynarodowych
 
 **Art. 49.**
 
-1. Przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu gazu ziemnego oraz podmioty zlecajàce Êwiadczenie us∏ug przesy∏ania lub dystrybucji gazu ziemnego sà obowiàzani posiadaç procedury post´powania majàce zastosowanie w przypadku:
+1. Przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego oraz podmioty zlecające świadczenie usług przesyłania lub dystrybucji gazu ziemnego są obowiązani posiadać procedury postępowania mające zastosowanie w przypadku:
 
-- **1)** wystàpienia zak∏óceƒ wdostarczaniu gazu ziemnego do systemu gazowego;
-- **2)** nieprzewidzianego wzrostu zu˝ycia gazu ziemnego przez odbiorców.
+- **1)** wystąpienia zakłóceń wdostarczaniu gazu ziemnego do systemu gazowego;
+- **2)** nieprzewidzianego wzrostu zużycia gazu ziemnego przez odbiorców.
 
-2. Procedury post´powania, po ich uzgodnieniu z podmiotami odpowiedzialnymi za ich realizacj´, w tym odpowiednio z operatorami innych systemów gazowych lub odbiorcami, sà przekazywane niezw∏ocznie operatorowi systemu przesy∏owego gazowego lub operatorowi systemu po∏àczonego gazowego.
+2. Procedury postępowania, po ich uzgodnieniu z podmiotami odpowiedzialnymi za ich realizację, w tym odpowiednio z operatorami innych systemów gazowych lub odbiorcami, są przekazywane niezwłocznie operatorowi systemu przesyłowego gazowego lub operatorowi systemu połączonego gazowego.
 
-3. Obowiàzku opracowania procedur, o których mowa w ust. 1, nie stosuje si´ do odbiorców gazu
+3. Obowiązku opracowania procedur, o których mowa w ust. 1, nie stosuje się do odbiorców gazu
 
-- **2)** zmniejszania poboru gazu ziemnego przez odbiorców, zgodnie zumowami znimi zawartymi, nieb´dàcego ograniczeniami, o których mowa w art. 56 ust. 1.
+- **2)** zmniejszania poboru gazu ziemnego przez odbiorców, zgodnie zumowami znimi zawartymi, niebędącego ograniczeniami, o których mowa w art. 56 ust. 1.
 
 **Art. 50.**
 
-1. W przypadku wystàpienia zak∏óceƒ w dostawach gazu ziemnego do systemu gazowego lub nieprzewidzianego wzrostu jego zu˝ycia przez odbiorców, przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym zzagranicà lub podmiot dokonujàcy przywozu gazu ziemnego oraz podmioty zlecajàce Êwiadczenie us∏ug przesy∏ania lub dystrybucji gazu ziemnego podejmujà dzia∏ania majàce na celu przeciwdzia∏anie temu zagro˝eniu, w szczególnoÊci dzia∏ania okreÊlone w procedurach, o których mowa w art. 49 ust. 1.
+1. W przypadku wystąpienia zakłóceń w dostawach gazu ziemnego do systemu gazowego lub nieprzewidzianego wzrostu jego zużycia przez odbiorców, przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym zzagranicą lub podmiot dokonujący przywozu gazu ziemnego oraz podmioty zlecające świadczenie usług przesyłania lub dystrybucji gazu ziemnego podejmują działania mające na celu przeciwdziałanie temu zagrożeniu, w szczególności działania określone w procedurach, o których mowa w art. 49 ust. 1.
 
-2. Po podj´ciu wszelkich dzia∏aƒ umo˝liwiajàcych zaspokojenie potrzeb swoich odbiorców na gaz ziemny, przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu ziemnego w gospodarstwach domowych.
+2. Po podjęciu wszelkich działań umożliwiających zaspokojenie potrzeb swoich odbiorców na gaz ziemny, przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu ziemnego w gospodarstwach domowych.
 
-4. Procedury post´powania, o których mowa w ust. 1, powinny okreÊlaç w szczególnoÊci sposób:
+4. Procedury postępowania, o których mowa w ust. 1, powinny określać w szczególności sposób:
 
-- **1)** uruchamiania dodatkowych dostaw gazu ziemnego z innych êróde∏ lub kierunków; gazu ziemnego oraz podmioty zlecajàce Êwiadczenie us∏ug przesy∏ania gazu ziemnego zawiadamiajà:
-- **1)** operatora systemu gazowego o wystàpieniu zdarzeƒ, o których mowa w art. 49 ust. 1, i podj´tych dzia∏aniach w celu zapewnienia bezpieczeƒstwa dostaw gazu ziemnego swoim odbiorcom lub o braku mo˝liwoÊci zapewnienia tego bezpieczeƒstwa w terminie umo˝liwiajàcym podj´cie dzia∏aƒ majàcych na celu zapewnienie bezpieczeƒstwa dostarczania gazu ziemnego odbiorcom i prawid∏owe funkcjonowanie systemu gazowego;
-- **2)** niezw∏ocznie odbiorców, z którymi zawarto umowy sprzeda˝y gazu ziemnego, za poÊrednictwem ogólnopolskich Êrodków masowego przekazu, o wystàpieniu zdarzeƒ, o których mowa w art. 49 ust. 1, iich wp∏ywie na bezpieczeƒstwo dostaw gazu ziemnego oraz o podj´tych dzia∏aniach w celu likwidacji skutków tych zdarzeƒ.
+- **1)** uruchamiania dodatkowych dostaw gazu ziemnego z innych êródeł lub kierunków; gazu ziemnego oraz podmioty zlecające świadczenie usług przesyłania gazu ziemnego zawiadamiają:
+- **1)** operatora systemu gazowego o wystąpieniu zdarzeń, o których mowa w art. 49 ust. 1, i podjętych działaniach w celu zapewnienia bezpieczeństwa dostaw gazu ziemnego swoim odbiorcom lub o braku możliwości zapewnienia tego bezpieczeństwa w terminie umożliwiającym podjęcie działań mających na celu zapewnienie bezpieczeństwa dostarczania gazu ziemnego odbiorcom i prawidłowe funkcjonowanie systemu gazowego;
+- **2)** niezwłocznie odbiorców, z którymi zawarto umowy sprzedaży gazu ziemnego, za pośrednictwem ogólnopolskich środków masowego przekazu, o wystąpieniu zdarzeń, o których mowa w art. 49 ust. 1, iich wpływie na bezpieczeństwo dostaw gazu ziemnego oraz o podjętych działaniach w celu likwidacji skutków tych zdarzeń.
 
 **Art. 51.**
 
-1. Po otrzymaniu zawiadomienia, októrym mowa w art. 50 ust. 2 pkt 1, lub w przypadku wystàpienia gwa∏townego, nieprzewidzianego uszkodzenia lub zniszczenia urzàdzeƒ, instalacji lub sieci, powodujàcego przerw´ w ich u˝ywaniu lub utrat´ ich w∏aÊciwoÊci zagra˝ajàcà bezpieczeƒstwu funkcjonowania systemu gazowego, operator systemu gazowego podejmuje, we wspó∏pracy zpodmiotami, októrych mowa w art. 49 ust. 1, oraz innymi operatorami systemów gazowych, niezb´dne dzia∏ania majàce na celu zapewnienie lub przywrócenie prawid∏owego funkcjonowania tego systemu, a w szczególnoÊci dzia∏ania okreÊlone winstrukcji ruchu ieksploatacji sieci, októrej mowa w art. 9g ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
+1. Po otrzymaniu zawiadomienia, októrym mowa w art. 50 ust. 2 pkt 1, lub w przypadku wystąpienia gwałtownego, nieprzewidzianego uszkodzenia lub zniszczenia urządzeń, instalacji lub sieci, powodującego przerwę w ich używaniu lub utratę ich właściwości zagrażającą bezpieczeństwu funkcjonowania systemu gazowego, operator systemu gazowego podejmuje, we współpracy zpodmiotami, októrych mowa w art. 49 ust. 1, oraz innymi operatorami systemów gazowych, niezbędne działania mające na celu zapewnienie lub przywrócenie prawidłowego funkcjonowania tego systemu, a w szczególności działania określone winstrukcji ruchu ieksploatacji sieci, októrej mowa w art. 9g ust. 1 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
 
 2. W przypadkach, o których mowa w ust. 1:
 
-- **1)** przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu gazu ziemnego, operatorzy systemów magazynowania gazu ziemnego i skraplania gazu ziemnego oraz podmioty dysponujàce mocà instalacji magazynowych i instalacji skroplonego gazu ziemnego sà obowiàzane do pozostawania w gotowoÊci do uruchomienia zapasów obowiàzkowych gazu ziemnego;
-- **2)** operator systemu przesy∏owego gazowego lub operator systemu po∏àczonego gazowego niezw∏ocznie informuje przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu gazu ziemnego o koniecznoÊci i terminie uruchomienia zapasów obowiàzkowych gazu ziemnego, a po uzyskaniu zgody, o której mowa w art. 26 ust. 1, uruchamia dostawy pochodzàce z zapasów obowiàzkowych gazu ziemnego;
-- **3)** przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiot dokonujàcy przywozu gazu ziemnego oraz u˝ytkownicy systemu gazowego sà obowiàzani realizowaç polecenia operatora systemu przesy∏owego gazowego lub operatora systemu po∏àczonego gazowego.
+- **1)** przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego, operatorzy systemów magazynowania gazu ziemnego i skraplania gazu ziemnego oraz podmioty dysponujące mocą instalacji magazynowych i instalacji skroplonego gazu ziemnego są obowiązane do pozostawania w gotowości do uruchomienia zapasów obowiązkowych gazu ziemnego;
+- **2)** operator systemu przesyłowego gazowego lub operator systemu połączonego gazowego niezwłocznie informuje przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego o konieczności i terminie uruchomienia zapasów obowiązkowych gazu ziemnego, a po uzyskaniu zgody, o której mowa w art. 26 ust. 1, uruchamia dostawy pochodzące z zapasów obowiązkowych gazu ziemnego;
+- **3)** przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiot dokonujący przywozu gazu ziemnego oraz użytkownicy systemu gazowego są obowiązani realizować polecenia operatora systemu przesyłowego gazowego lub operatora systemu połączonego gazowego.
 
 **Art. 52.**
 
-1. Operator systemu przesy∏owego gazowego lub operator systemów po∏àczonych gazowych uruchamia zapasy obowiàzkowe gazu ziemnego po uzyskaniu zgody, októrej mowa wart. 26 ust. 1. Ouruchomieniu zapasów obowiàzkowych gazu ziemnego operatorzy ci informujà operatora systemu magazynowania tego gazu najpóêniej w dniu uruchomienia tych zapasów.
+1. Operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych uruchamia zapasy obowiązkowe gazu ziemnego po uzyskaniu zgody, októrej mowa wart. 26 ust. 1. Ouruchomieniu zapasów obowiązkowych gazu ziemnego operatorzy ci informują operatora systemu magazynowania tego gazu najpóêniej w dniu uruchomienia tych zapasów.
 
-2. Operator systemu przesy∏owego gazowego lub operator systemów po∏àczonych gazowych informuje niezw∏ocznie zlecajàcych us∏ug´ przesy∏ania lub dystrybucji gazu ziemnego o uruchomieniu, na ich rzecz, tych zapasów.
+2. Operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych informuje niezwłocznie zlecających usługę przesyłania lub dystrybucji gazu ziemnego o uruchomieniu, na ich rzecz, tych zapasów.
 
-3. Operator systemu magazynowania gazu ziemnego przekazuje odpowiednio operatorowi systemu przesy∏owego gazowego lub operatorowi systemów po∏àczonych gazowych, w terminie 7 dni od dnia ka˝dorazowego uruchomienia zapasów obowiàzkowych gazu ziemnego, informacje o w∏aÊcicielach i iloÊciach gazu ziemnego pobranego z instalacji magazynowych.
+3. Operator systemu magazynowania gazu ziemnego przekazuje odpowiednio operatorowi systemu przesyłowego gazowego lub operatorowi systemów połączonych gazowych, w terminie 7 dni od dnia każdorazowego uruchomienia zapasów obowiązkowych gazu ziemnego, informacje o właścicielach i ilościach gazu ziemnego pobranego z instalacji magazynowych.
 
-4. W wypadku uruchomienia zapasów obowiàzkowych gazu ziemnego zinstalacji magazynowej, wktórej sà magazynowane te zapasy nale˝àce do wi´cej ni˝ jednego przedsi´biorstwa energetycznego wykonujàcego dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym zzagranicà lub podmiotu dokonujàcego przywozu gazu ziemnego, przyjmuje si´, ˝e uruchomiono zapasy obowiàzkowe gazu ziemnego nale˝àce do ka˝dego z tych przedsi´biorstw w takim samym stosunku.
+4. W wypadku uruchomienia zapasów obowiązkowych gazu ziemnego zinstalacji magazynowej, wktórej są magazynowane te zapasy należące do więcej niż jednego przedsiębiorstwa energetycznego wykonującego działalność gospodarczą w zakresie obrotu gazem ziemnym zzagranicą lub podmiotu dokonującego przywozu gazu ziemnego, przyjmuje się, że uruchomiono zapasy obowiązkowe gazu ziemnego należące do każdego z tych przedsiębiorstw w takim samym stosunku.
 
-5. Operator systemu przesy∏owego gazowego lub operator systemów po∏àczonych gazowych przekazu1) operatorowi systemu dystrybucyjnego oraz przedsi´biorstwu energetycznemu lub podmiotowi b´dàcemu w∏aÊcicielem zapasów obowiàzkowych gazu ziemnego;
+5. Operator systemu przesyłowego gazowego lub operator systemów połączonych gazowych przekazu1) operatorowi systemu dystrybucyjnego oraz przedsiębiorstwu energetycznemu lub podmiotowi będącemu właścicielem zapasów obowiązkowych gazu ziemnego;
 
-- **2)** zlecajàcym us∏ug´ przesy∏ania lub dystrybucji gazu ziemnego, na rzecz których nastàpi∏o uruchomienie dodatkowych dostaw tego gazu.
+- **2)** zlecającym usługę przesyłania lub dystrybucji gazu ziemnego, na rzecz których nastąpiło uruchomienie dodatkowych dostaw tego gazu.
 
-6. Przedsi´biorstwo energetyczne i zlecajàcy us∏ug´ przesy∏ania lub dystrybucji gazu ziemnego, na których rzecz nastàpi∏o uruchomienie zapasów obowiàzkowych gazu ziemnego w terminie 60 dni, liczàc od koƒca miesiàca, wktórym nastàpi∏o ich uruchomienie:
+6. Przedsiębiorstwo energetyczne i zlecający usługę przesyłania lub dystrybucji gazu ziemnego, na których rzecz nastąpiło uruchomienie zapasów obowiązkowych gazu ziemnego w terminie 60 dni, licząc od końca miesiąca, wktórym nastąpiło ich uruchomienie:
 
-- **1)** dostarczà w∏aÊcicielowi wykorzystanego gazu ziemnego równowa˝ne iloÊci gazu ziemnego, oile istniejà techniczne mo˝liwoÊci zat∏oczenia gazu ziemnego do instalacji magazynowej, lub
-- **2)** dokonajà rozliczeƒ z w∏aÊcicielem dostarczonego im gazu ziemnego, zgodnie z zasadami okreÊlonyje informacje, o których mowa w ust. 3: mi w obowiàzujàcej taryfie w∏aÊciciela tego gazu; je˝eli w∏aÊciciel gazu ziemnego nie jest obowiàzany do posiadania taryfy, zasady rozliczeƒ okreÊlà rozliczajàce si´ strony.
+- **1)** dostarczą właścicielowi wykorzystanego gazu ziemnego równoważne ilości gazu ziemnego, oile istnieją techniczne możliwości zatłoczenia gazu ziemnego do instalacji magazynowej, lub
+- **2)** dokonają rozliczeń z właścicielem dostarczonego im gazu ziemnego, zgodnie z zasadami określonyje informacje, o których mowa w ust. 3: mi w obowiązującej taryfie właściciela tego gazu; jeżeli właściciel gazu ziemnego nie jest obowiązany do posiadania taryfy, zasady rozliczeń określą rozliczające się strony.
 
-7. Operator systemu przesy∏owego gazowego lub operator systemu po∏àczonego gazowego niezw∏ocznie informuje ministra w∏aÊciwego do spraw gospodarki i Prezesa URE o terminie i iloÊci uruchomionych zapasów obowiàzkowych gazu ziemnego. Informacje te sà przekazywane codziennie, do godziny 10 , i dotyczà poprzedniej doby.
+7. Operator systemu przesyłowego gazowego lub operator systemu połączonego gazowego niezwłocznie informuje ministra właściwego do spraw gospodarki i Prezesa URE o terminie i ilości uruchomionych zapasów obowiązkowych gazu ziemnego. Informacje te są przekazywane codziennie, do godziny 10 , i dotyczą poprzedniej doby.
 
-**Art. 53.** Je˝eli wocenie operatora systemu przesy∏owego gazowego lub operatora systemów po∏àczonych gazowych dzia∏ania, o których mowa w art. 50 i 52, nie spowodujà przywrócenia stanu bezpieczeƒstwa paliwowego paƒstwa wzakresie gazu ziemnego, operator ten, zw∏asnej inicjatywy lub na podstawie informacji uzyskanych od przedsi´biorstwa energetycznego wykonujàcego dzia∏alnoÊç gospodarczà wzakresie obrotu gazem ziemnym z zagranicà, zg∏asza ministrowi w∏aÊciwemu do spraw gospodarki potrzeb´ wprowadzenia ograniczeƒ w poborze gazu ziemnego, zgodnie z planami wprowadzania ograniczeƒ, o których mowa w art. 58 ust. 1.
+**Art. 53.** Jeżeli wocenie operatora systemu przesyłowego gazowego lub operatora systemów połączonych gazowych działania, o których mowa w art. 50 i 52, nie spowodują przywrócenia stanu bezpieczeństwa paliwowego państwa wzakresie gazu ziemnego, operator ten, zwłasnej inicjatywy lub na podstawie informacji uzyskanych od przedsiębiorstwa energetycznego wykonującego działalność gospodarczą wzakresie obrotu gazem ziemnym z zagranicą, zgłasza ministrowi właściwemu do spraw gospodarki potrzebę wprowadzenia ograniczeń w poborze gazu ziemnego, zgodnie z planami wprowadzania ograniczeń, o których mowa w art. 58 ust. 1.
 
 **Art. 54.**
 
 1. W przypadku:
 
-- **1)** zagro˝enia bezpieczeƒstwa paliwowego paƒstwa,
-- **2)** nieprzewidzianego wzrostu zu˝ycia gazu ziemnego przez odbiorców,
-- **3)** wystàpienia zak∏óceƒ wprzywozie gazu ziemnego,
+- **1)** zagrożenia bezpieczeństwa paliwowego państwa,
+- **2)** nieprzewidzianego wzrostu zużycia gazu ziemnego przez odbiorców,
+- **3)** wystąpienia zakłóceń wprzywozie gazu ziemnego,
 - **4)** awarii w sieciach operatorów systemów gazowych,
-- **5)** zagro˝enia bezpieczeƒstwa funkcjonowania sieci gazowych,
-- **6)** zagro˝enia bezpieczeƒstwa osób,
-- **7)** zagro˝enia wystàpieniem znacznych strat materialnych,
-- **8)** koniecznoÊci wype∏nienia przez Rzeczpospolità Polskà zobowiàzaƒ mi´dzynarodowych na terytorium Rzeczypospolitej Polskiej lub jego cz´Êci mogà byç wprowadzone na czas oznaczony ograniczenia w poborze gazu ziemnego, zwane dalej „ograniczeniami”.
+- **5)** zagrożenia bezpieczeństwa funkcjonowania sieci gazowych,
+- **6)** zagrożenia bezpieczeństwa osób,
+- **7)** zagrożenia wystąpieniem znacznych strat materialnych,
+- **8)** konieczności wypełnienia przez Rzeczpospolitą Polską zobowiązań międzynarodowych na terytorium Rzeczypospolitej Polskiej lub jego części mogą być wprowadzone na czas oznaczony ograniczenia w poborze gazu ziemnego, zwane dalej Ńograniczeniami”.
 
-2. Ograniczenia polegajà na ograniczeniu maksymalnego godzinowego i dobowego poboru gazu ziemnego.
+2. Ograniczenia polegają na ograniczeniu maksymalnego godzinowego i dobowego poboru gazu ziemnego.
 
 **Art. 55.**
 
-1. Rada Ministrów okreÊli, wdrodze rozporzàdzenia, sposób i tryb wprowadzania ograniczeƒ, bioràc pod uwag´ znaczenie odbiorców dla gospodarki lub funkcjonowania paƒstwa, w tym zadania przez nich wykonywane, oraz ochron´ odbiorców przed wprowadzonymi ograniczeniami.
+1. Rada Ministrów określi, wdrodze rozporządzenia, sposób i tryb wprowadzania ograniczeń, biorąc pod uwagę znaczenie odbiorców dla gospodarki lub funkcjonowania państwa, w tym zadania przez nich wykonywane, oraz ochronę odbiorców przed wprowadzonymi ograniczeniami.
 
-2. Rozporzàdzenie, o którym mowa w ust. 1, powinno okreÊlaç w szczególnoÊci:
+2. Rozporządzenie, o którym mowa w ust. 1, powinno określać w szczególności:
 
-- **1)** sposób wprowadzenia ograniczeƒ, umo˝liwiajàcy odbiorcom gazu ziemnego dostosowanie si´ do tych ograniczeƒ w okreÊlonym czasie;
-- **2)** rodzaje odbiorców obj´tych ograniczeniami;
-- **3)** zakres i okres ochrony odbiorców przed wprowadzonymi ograniczeniami, w szczególnoÊci odbiorców gazu ziemnego w gospodarstwach domowych, w przypadku:
+- **1)** sposób wprowadzenia ograniczeń, umożliwiający odbiorcom gazu ziemnego dostosowanie się do tych ograniczeń w określonym czasie;
+- **2)** rodzaje odbiorców objętych ograniczeniami;
+- **3)** zakres i okres ochrony odbiorców przed wprowadzonymi ograniczeniami, w szczególności odbiorców gazu ziemnego w gospodarstwach domowych, w przypadku:
     - **a)** niedoboru gazu ziemnego w systemie gazowym,
-    - **b)** wystàpienia skrajnie niskich temperatur zewn´trznych w okresie najwi´kszego zapotrzebowania na gaz ziemny w systemie gazowym;
+    - **b)** wystąpienia skrajnie niskich temperatur zewnętrznych w okresie największego zapotrzebowania na gaz ziemny w systemie gazowym;
 
-- **4)** zakres planów wprowadzania ograniczeƒ, o których mowa wart. 58 ust. 1, oraz sposób okreÊlania w nich wielkoÊci tych ograniczeƒ;
-- **5)** sposób podawania do publicznej wiadomoÊci informacji o ograniczeniach;
-- **6)** sposób wspó∏dzia∏ania operatorów systemów dystrybucyjnych gazowych oraz operatorów systemów magazynowania gazu ziemnego zoperatorem systemu przesy∏owego gazowego w okresie trwania ograniczeƒ, wtym zakres przekazywanych informacji.
+- **4)** zakres planów wprowadzania ograniczeń, o których mowa wart. 58 ust. 1, oraz sposób określania w nich wielkości tych ograniczeń;
+- **5)** sposób podawania do publicznej wiadomości informacji o ograniczeniach;
+- **6)** sposób współdziałania operatorów systemów dystrybucyjnych gazowych oraz operatorów systemów magazynowania gazu ziemnego zoperatorem systemu przesyłowego gazowego w okresie trwania ograniczeń, wtym zakres przekazywanych informacji.
 
-3. Minister w∏aÊciwy do spraw gospodarki informuje niezw∏ocznie Komisj´ Europejskà o przepisach wydanych na podstawie ust. 1. gospodarki i funkcjonowania paƒstwa, w szczególnoÊci zadania wykonywane przez tych odbiorców oraz okres, na jaki b´dà wprowadzane te ograniczenia.
+3. Minister właściwy do spraw gospodarki informuje niezwłocznie Komisję Europejską o przepisach wydanych na podstawie ust. 1. gospodarki i funkcjonowania państwa, w szczególności zadania wykonywane przez tych odbiorców oraz okres, na jaki będą wprowadzane te ograniczenia.
 
-2. Minister w∏aÊciwy do spraw gospodarki informuje niezw∏ocznie Komisj´ Europejskà, paƒstwa cz∏onkowskie Unii Europejskiej oraz paƒstwa cz∏onkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym o wprowadzeniu ograniczeƒ.
+2. Minister właściwy do spraw gospodarki informuje niezwłocznie Komisję Europejską, państwa członkowskie Unii Europejskiej oraz państwa członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym o wprowadzeniu ograniczeń.
 
-**Art. 57.** Przedsi´biorstwa energetyczne nie ponoszà odpowiedzialnoÊci za skutki wprowadzanych ograniczeƒ.
+**Art. 57.** Przedsiębiorstwa energetyczne nie ponoszą odpowiedzialności za skutki wprowadzanych ograniczeń.
 
 **Art. 58.**
 
-1. Operatorzy systemów przesy∏owych gazowych, operatorzy systemów dystrybucyjnych gazowych oraz operatorzy systemów po∏àczonych gazowych lub przedsi´biorstwa energetyczne pe∏niàce funkcj´ operatorów sà obowiàzani do opracowania planów wprowadzania ograniczeƒ.
+1. Operatorzy systemów przesyłowych gazowych, operatorzy systemów dystrybucyjnych gazowych oraz operatorzy systemów połączonych gazowych lub przedsiębiorstwa energetyczne pełniące funkcję operatorów są obowiązani do opracowania planów wprowadzania ograniczeń.
 
-2. Plany wprowadzania ograniczeƒ opracowane przez operatorów lub przedsi´biorstwa energetyczne pe∏niàce funkcj´ operatorów, októrych mowa wust. 1, okreÊlajà maksymalne godzinowe i dobowe iloÊci poboru gazu ziemnego przez poszczególnych odbiorców przy∏àczonych do ich sieci, dla poszczególnych stopni zasilania.
+2. Plany wprowadzania ograniczeń opracowane przez operatorów lub przedsiębiorstwa energetyczne pełniące funkcję operatorów, októrych mowa wust. 1, określają maksymalne godzinowe i dobowe ilości poboru gazu ziemnego przez poszczególnych odbiorców przyłączonych do ich sieci, dla poszczególnych stopni zasilania.
 
-3. Podmioty, o których mowa w ust. 1, informujà odbiorców o ustalonej dla nich w zatwierdzonym planie wprowadzania ograniczeƒ maksymalnej iloÊci poboru gazu ziemnego w poszczególnych stopniach zasilania. WielkoÊci te, okreÊlone w zatwierdzonych planach wprowadzania ograniczeƒ, stajà si´ integralnà cz´Êcià umów sprzeda˝y, umów o Êwiadczenie us∏ug przesy∏ania lub dystrybucji gazu ziemnego oraz umów kompleksowych, w rozumieniu art. 5 ust. 2 pkt 1 i 2 oraz ust. 3 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
+3. Podmioty, o których mowa w ust. 1, informują odbiorców o ustalonej dla nich w zatwierdzonym planie wprowadzania ograniczeń maksymalnej ilości poboru gazu ziemnego w poszczególnych stopniach zasilania. Wielkości te, określone w zatwierdzonych planach wprowadzania ograniczeń, stają się integralną częścią umów sprzedaży, umów o świadczenie usług przesyłania lub dystrybucji gazu ziemnego oraz umów kompleksowych, w rozumieniu art. 5 ust. 2 pkt 1 i 2 oraz ust. 3 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne.
 
-4. Ograniczenia wynikajàce z planów wprowadzania ograniczeƒ nie majà zastosowania do odbiorców
+4. Ograniczenia wynikające z planów wprowadzania ograniczeń nie mają zastosowania do odbiorców
 
 **Art. 56.**
 
-1. Rada Ministrów, na wniosek ministra w∏aÊciwego do spraw gospodarki mo˝e wprowadziç, w drodze rozporzàdzenia, na czas oznaczony, na terytorium Rzeczypospolitej Polskiej lub jego cz´Êci ograniczenia, bioràc pod uwag´ znaczenie odbiorców dla gazu ziemnego w gospodarstwach domowych.
+1. Rada Ministrów, na wniosek ministra właściwego do spraw gospodarki może wprowadzić, w drodze rozporządzenia, na czas oznaczony, na terytorium Rzeczypospolitej Polskiej lub jego części ograniczenia, biorąc pod uwagę znaczenie odbiorców dla gazu ziemnego w gospodarstwach domowych.
 
-5. Odbiorcy obj´ci planami wprowadzania ograniczeƒ informujà w∏aÊciwego operatora lub przedsi´biorstwa energetyczne pe∏niàce funkcj´ operatora, októrym mowa wust. 1, do którego sieci sà przy∏àczeni, do dnia 31 lipca ka˝dego roku, o minimalnej iloÊci gazu ziemnego, której pobór nie powoduje zagro˝enia bezpieczeƒstwa osób oraz uszkodzenia lub zniszczenia obiektów technologicznych i odpowiada maksymalnemu dozwolonemu poborowi gazu ziemnego w 10.stopniu zasilania. OkreÊlona w informacji iloÊç gazu ziemnego mo˝e byç weryfikowana przez operatorów, o których mowa w ust. 1.
+5. Odbiorcy objęci planami wprowadzania ograniczeń informują właściwego operatora lub przedsiębiorstwa energetyczne pełniące funkcję operatora, októrym mowa wust. 1, do którego sieci są przyłączeni, do dnia 31 lipca każdego roku, o minimalnej ilości gazu ziemnego, której pobór nie powoduje zagrożenia bezpieczeństwa osób oraz uszkodzenia lub zniszczenia obiektów technologicznych i odpowiada maksymalnemu dozwolonemu poborowi gazu ziemnego w 10.stopniu zasilania. Określona w informacji ilość gazu ziemnego może być weryfikowana przez operatorów, o których mowa w ust. 1.
 
-6. Operatorzy, o których mowa w ust. 1, mogà dokonaç weryfikacji informacji podanych przez odbiorców dotyczàcych minimalnych iloÊci gazu ziemnego, których pobór nie powoduje zagro˝enia bezpieczeƒstwa osób oraz uszkodzenia lub zniszczenia obiektów technologicznych.
+6. Operatorzy, o których mowa w ust. 1, mogą dokonać weryfikacji informacji podanych przez odbiorców dotyczących minimalnych ilości gazu ziemnego, których pobór nie powoduje zagrożenia bezpieczeństwa osób oraz uszkodzenia lub zniszczenia obiektów technologicznych.
 
-7. CzynnoÊci weryfikacyjne wykonujà, na zlecenie operatorów, o których mowa w ust. 1, autoryzowani audytorzy w dziedzinie energetyki przemys∏owej, po okazaniu certyfikatu oraz po dor´czeniu przedsi´biorcy albo osobie przez niego upowa˝nionej upowa˝nienia do przeprowadzenia kontroli dzia∏alnoÊci przedsi´biorcy wystawionego przez operatora.
+7. Czynności weryfikacyjne wykonują, na zlecenie operatorów, o których mowa w ust. 1, autoryzowani audytorzy w dziedzinie energetyki przemysłowej, po okazaniu certyfikatu oraz po doręczeniu przedsiębiorcy albo osobie przez niego upoważnionej upoważnienia do przeprowadzenia kontroli działalności przedsiębiorcy wystawionego przez operatora.
 
-8. Upowa˝nienie, o którym mowa w ust. 7, zawiera:
+8. Upoważnienie, o którym mowa w ust. 7, zawiera:
 
-- **1)** imi´ i nazwisko audytora;
-- **2)** oznaczenie odbiorcy, którego informacje podlegajà weryfikacji;
-- **3)** okreÊlenie zakresu weryfikacji;
-- **4)** wskazanie daty rozpocz´cia iprzewidywanego terminu zakoƒczenia weryfikacji;
+- **1)** imię i nazwisko audytora;
+- **2)** oznaczenie odbiorcy, którego informacje podlegają weryfikacji;
+- **3)** określenie zakresu weryfikacji;
+- **4)** wskazanie daty rozpoczęcia iprzewidywanego terminu zakończenia weryfikacji;
 - **5)** wskazanie podstawy prawnej weryfikacji;
-- **6)** oznaczenie operatora dokonujàcego weryfikacji;
-- **7)** okreÊlenie daty i miejsca wystawienia upowa˝nienia;
-- **8)** podpis osoby wystawiajàcej upowa˝nienie.
+- **6)** oznaczenie operatora dokonującego weryfikacji;
+- **7)** określenie daty i miejsca wystawienia upoważnienia;
+- **8)** podpis osoby wystawiającej upoważnienie.
 
-9. Weryfikacja, o której mowa w ust. 6, polega na sprawdzeniu prawid∏owoÊci ustalenia minimalnych godzinowych i dobowych iloÊci gazu ziemnego, których pobór nie powoduje zagro˝enia bezpieczeƒstwa osób oraz uszkodzenia lub zniszczenia obiektów technologicznych.
+9. Weryfikacja, o której mowa w ust. 6, polega na sprawdzeniu prawidłowości ustalenia minimalnych godzinowych i dobowych ilości gazu ziemnego, których pobór nie powoduje zagrożenia bezpieczeństwa osób oraz uszkodzenia lub zniszczenia obiektów technologicznych.
 
-10. Upowa˝nionym audytorom przys∏uguje prawo:
+10. Upoważnionym audytorom przysługuje prawo:
 
-- **1)** wejÊcia na teren nieruchomoÊci i do obiektów odbiorcy;
-- **2)** ˝àdania ustnych lub pisemnych wyjaÊnieƒ, atak˝e ˝àdania okazania dokumentów dotyczàcych procesów technologicznych i eksploatacji urzàdzeƒ odbiorcy.
+- **1)** wejścia na teren nieruchomości i do obiektów odbiorcy;
+- **2)** żądania ustnych lub pisemnych wyjaśnień, atakże żądania okazania dokumentów dotyczących procesów technologicznych i eksploatacji urządzeń odbiorcy.
 
-11. Audytorzy wykonujà czynnoÊci w obecnoÊci odbiorcy lub osoby przez niego upowa˝nionej.
+11. Audytorzy wykonują czynności w obecności odbiorcy lub osoby przez niego upoważnionej.
 
-12. Z przeprowadzonej weryfikacji sporzàdza si´ protokó∏ dokonanych czynnoÊci, który powinien zawieraç wnioski oraz pouczenie osposobie z∏o˝enia zastrze˝eƒ co do jego treÊci. Wprzypadku odmowy podpisania przez odbiorc´ protoko∏u z weryfikacji, audy14. W sprawach spornych dotyczàcych ustaleƒ zawartych w protokole weryfikacji rozstrzyga Prezes URE, w drodze decyzji, na wniosek odbiorcy z∏o˝ony w terminie 7 dni od dnia dor´czenia protoko∏u.
+12. Z przeprowadzonej weryfikacji sporządza się protokół dokonanych czynności, który powinien zawierać wnioski oraz pouczenie osposobie złożenia zastrzeżeń co do jego treści. Wprzypadku odmowy podpisania przez odbiorcę protokołu z weryfikacji, audy14. W sprawach spornych dotyczących ustaleń zawartych w protokole weryfikacji rozstrzyga Prezes URE, w drodze decyzji, na wniosek odbiorcy złożony w terminie 7 dni od dnia doręczenia protokołu.
 
-15. Je˝eli iloÊç paliwa gazowego podana przez odbiorc´ jest zawy˝ona owi´cej ni˝ 10 %, koszty weryfikacji pokrywa odbiorca. JednoczeÊnie minimalne godzinowe i dobowe iloÊci gazu ziemnego, których pobór nie powoduje zagro˝enia bezpieczeƒstwa osób oraz uszkodzenia lub zniszczenia obiektów technologicznych, okreÊlone w trakcie weryfikacji, zostajà wprowadzone do planu ograniczeƒ jako odpowiadajàce 10. stopniowi zasilania.
+15. Jeżeli ilość paliwa gazowego podana przez odbiorcę jest zawyżona owięcej niż 10 %, koszty weryfikacji pokrywa odbiorca. Jednocześnie minimalne godzinowe i dobowe ilości gazu ziemnego, których pobór nie powoduje zagrożenia bezpieczeństwa osób oraz uszkodzenia lub zniszczenia obiektów technologicznych, określone w trakcie weryfikacji, zostają wprowadzone do planu ograniczeń jako odpowiadające 10. stopniowi zasilania.
 
-16. Operatorzy systemów dystrybucyjnych, systemów po∏àczonych lub przedsi´biorstwa pe∏niàce funkcje operatorów, na wniosek operatora systemu przesy∏owego gazowego, przekazujà mu dane dotyczàce dobowych iloÊci poboru gazu ziemnego przez odbiorców obj´tych planami wprowadzania ograniczeƒ do
+16. Operatorzy systemów dystrybucyjnych, systemów połączonych lub przedsiębiorstwa pełniące funkcje operatorów, na wniosek operatora systemu przesyłowego gazowego, przekazują mu dane dotyczące dobowych ilości poboru gazu ziemnego przez odbiorców objętych planami wprowadzania ograniczeń do
 
-10. dnia ka˝dego miesiàca za miesiàc poprzedni.
+10. dnia każdego miesiąca za miesiąc poprzedni.
 
-17. Operatorzy lub przedsi´biorstwa energetyczne pe∏niàce funkcj´ operatorów, októrych mowa wust. 1, aktualizujà corocznie plany wprowadzania ograniczeƒ i przedk∏adajà je, do dnia 15 listopada danego roku, Prezesowi URE do zatwierdzenia w drodze decyzji.
+17. Operatorzy lub przedsiębiorstwa energetyczne pełniące funkcję operatorów, októrych mowa wust. 1, aktualizują corocznie plany wprowadzania ograniczeń i przedkładają je, do dnia 15 listopada danego roku, Prezesowi URE do zatwierdzenia w drodze decyzji.
 
-18. Operatorzy systemów dystrybucyjnych gazowych, operatorzy systemów po∏àczonych gazowych oraz przedsi´biorstwa pe∏niàce funkcje operatorów przekazujà niezw∏ocznie operatorowi systemu przesy∏owego gazowego zatwierdzone plany wprowadzania ograniczeƒ.
+18. Operatorzy systemów dystrybucyjnych gazowych, operatorzy systemów połączonych gazowych oraz przedsiębiorstwa pełniące funkcje operatorów przekazują niezwłocznie operatorowi systemu przesyłowego gazowego zatwierdzone plany wprowadzania ograniczeń.
 
 **Art. 59.**
 
-1. W okresie obowiàzywania ograniczeƒ, wprowadzonych zgodnie z przepisami wydanymi na podstawie art. 56 ust. 1, operator systemu przesy∏owego gazowego lub operator systemów po∏àczonych:
+1. W okresie obowiązywania ograniczeń, wprowadzonych zgodnie z przepisami wydanymi na podstawie art. 56 ust. 1, operator systemu przesyłowego gazowego lub operator systemów połączonych:
 
-- **1)** realizuje obowiàzki zwiàzane z wprowadzaniem ograniczeƒ, przez ustalanie i podawanie do publicznej wiadomoÊci stopni zasilania, zgodnie z planami wprowadzania ograniczeƒ;
-- **2)** koordynuje dzia∏ania przedsi´biorstw energetycznych wykonujàcych dzia∏alnoÊç gospodarczà wzakresie obrotu gazem ziemnym, innych operatorów systemów gazowych, operatorów systemów magazynowania gazu ziemnego, operatorów systemów skraplania gazu ziemnego w celu zapewnienia bezpieczeƒstwa systemu gazowego i realizacji ograniczeƒ wprowadzonych na podstawie art. 56 ust. 1; tor dokonuje stosownej adnotacji w protokole.
-- **3)** dysponuje pe∏nà mocà i pojemnoÊcià instalacji
+- **1)** realizuje obowiązki związane z wprowadzaniem ograniczeń, przez ustalanie i podawanie do publicznej wiadomości stopni zasilania, zgodnie z planami wprowadzania ograniczeń;
+- **2)** koordynuje działania przedsiębiorstw energetycznych wykonujących działalność gospodarczą wzakresie obrotu gazem ziemnym, innych operatorów systemów gazowych, operatorów systemów magazynowania gazu ziemnego, operatorów systemów skraplania gazu ziemnego w celu zapewnienia bezpieczeństwa systemu gazowego i realizacji ograniczeń wprowadzonych na podstawie art. 56 ust. 1; tor dokonuje stosownej adnotacji w protokole.
+- **3)** dysponuje pełną mocą i pojemnością instalacji
 
-13. Odmowa podpisania protoko∏u z weryfikacji magazynowania gazu ziemnego oraz skraplania przez osob´, o której mowa w ust. 12, nie stanowi gazu ziemnego przy∏àczonych do systemu gazoprzeszkody do podpisania protoko∏u przez audytora wego oraz uruchamia zapasy obowiàzkowe gazu i realizacji ustaleƒ kontroli. ziemnego.
+13. Odmowa podpisania protokołu z weryfikacji magazynowania gazu ziemnego oraz skraplania przez osobę, o której mowa w ust. 12, nie stanowi gazu ziemnego przyłączonych do systemu gazoprzeszkody do podpisania protokołu przez audytora wego oraz uruchamia zapasy obowiązkowe gazu i realizacji ustaleń kontroli. ziemnego.
 
-2. W okresie obowiàzywania ograniczeƒ, operatorzy systemów dystrybucyjnych gazowych lub operatorzy systemów po∏àczonych gazowych przekazujà operatorowi systemu przesy∏owego gazowego, do godziny 10 ka˝dej doby, dane dotyczàce dobowych iloÊci poboru gazu ziemnego przez odbiorców obj´tych planami ograniczeƒ, o których mowa w art. 58 ust. 1, za poprzednià dob´.
+2. W okresie obowiązywania ograniczeń, operatorzy systemów dystrybucyjnych gazowych lub operatorzy systemów połączonych gazowych przekazują operatorowi systemu przesyłowego gazowego, do godziny 10 każdej doby, dane dotyczące dobowych ilości poboru gazu ziemnego przez odbiorców objętych planami ograniczeń, o których mowa w art. 58 ust. 1, za poprzednią dobę.
 
-3. W okresie wprowadzenia ograniczeƒ zapasy obowiàzkowe gazu ziemnego sà uruchamiane zgodnie z procedurà okreÊlonà w art. 26.
+3. W okresie wprowadzenia ograniczeń zapasy obowiązkowe gazu ziemnego są uruchamiane zgodnie z procedurą określoną w art. 26.
 
-**Art. 60.** Przestrzeganie ograniczeƒ wprowadzonych na podstawie art. 56 ust. 1 podlega kontroli Prezesa URE.
+**Art. 60.** Przestrzeganie ograniczeń wprowadzonych na podstawie art. 56 ust. 1 podlega kontroli Prezesa URE.
 
 **Art. 61.**
 
-1. W przypadku wystàpienia zdarzeƒ, w wyniku których zastosowane dzia∏ania, o których mowa wart. 50—52 iart. 56 ust. 1, nie usun´∏y zagro˝eƒ, o których mowa w art. 54 ust. 1 pkt 1, 6 i 7, operator systemu przesy∏owego gazowego lub operator systemów po∏àczonych, w porozumieniu z przedsi´biorstwami energetycznymi wykonujàcymi dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà lub podmiotem dokonujàcym przywozu gazu ziemnego, lub z w∏asnej inicjatywy niezw∏ocznie zawiadamia otym ministra w∏aÊciwego do spraw gospodarki.
+1. W przypadku wystąpienia zdarzeń, w wyniku których zastosowane działania, o których mowa wart. 50—52 iart. 56 ust. 1, nie usunęły zagrożeń, o których mowa w art. 54 ust. 1 pkt 1, 6 i 7, operator systemu przesyłowego gazowego lub operator systemów połączonych, w porozumieniu z przedsiębiorstwami energetycznymi wykonującymi działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą lub podmiotem dokonującym przywozu gazu ziemnego, lub z własnej inicjatywy niezwłocznie zawiadamia otym ministra właściwego do spraw gospodarki.
 
-2. Zawiadomienie, októrym mowa wust. 1, zawiera w szczególnoÊci opis:
+2. Zawiadomienie, októrym mowa wust. 1, zawiera w szczególności opis:
 
-- **1)** zdarzeƒ, októrych mowa wust. 1, oraz ich wp∏ywu na bezpieczeƒstwo paliwowe paƒstwa w zakresie dostaw gazu ziemnego;
-- **2)** dzia∏aƒ podj´tych w celu likwidacji skutków zdarzeƒ, o których mowa w ust. 1;
-- **3)** proponowanych Êrodków, jakie mogà byç zastosowane przez Komisj´ Europejskà.
+- **1)** zdarzeń, októrych mowa wust. 1, oraz ich wpływu na bezpieczeństwo paliwowe państwa w zakresie dostaw gazu ziemnego;
+- **2)** działań podjętych w celu likwidacji skutków zdarzeń, o których mowa w ust. 1;
+- **3)** proponowanych środków, jakie mogą być zastosowane przez Komisję Europejską.
 
-3. Minister w∏aÊciwy do spraw gospodarki mo˝e wystàpiç z wnioskiem do Rady Ministrów o podj´cie
+3. Minister właściwy do spraw gospodarki może wystąpić z wnioskiem do Rady Ministrów o podjęcie
 
-- **3)** proponowanych Êrodków, jakie mogà byç zastosowane przez Komisj´ Europejskà.
+- **3)** proponowanych środków, jakie mogą być zastosowane przez Komisję Europejską.
 
-**Art. 62.** Po wykonaniu czynnoÊci, o których mowa w art. 61 ust. 3, Rada Ministrów mo˝e, w drodze rozporzàdzenia, w∏àczyç do zapasów obowiàzkowych gazu ziemnego pozosta∏e zapasy tego gazu znajdujàce si´ w instalacjach magazynowych na terenie kraju, przewy˝szajàce utrzymywane stany obowiàzkowe, bioràc pod uwag´ koniecznoÊç zapewnienia ciàg∏oÊci dostaw gazu ziemnego, wprzypadkach, októrych mowa wart. 50—52 iart. 56 ust. 1, po zastosowaniu dzia∏aƒ okreÊlonych w ustawie. Rozdzia∏ 7 Kary pieni´˝ne
+**Art. 62.** Po wykonaniu czynności, o których mowa w art. 61 ust. 3, Rada Ministrów może, w drodze rozporządzenia, włączyć do zapasów obowiązkowych gazu ziemnego pozostałe zapasy tego gazu znajdujące się w instalacjach magazynowych na terenie kraju, przewyższające utrzymywane stany obowiązkowe, biorąc pod uwagę konieczność zapewnienia ciągłości dostaw gazu ziemnego, wprzypadkach, októrych mowa wart. 50—52 iart. 56 ust. 1, po zastosowaniu działań określonych w ustawie.
+
+#### Rozdział 7 Kary pieniężne
 
 **Art. 63.**
 
-1. Karze pieni´˝nej podlega ten kto:
+1. Karze pieniężnej podlega ten kto:
 
-- **1)** nie dope∏nia obowiàzku tworzenia i utrzymywania dzia∏aƒ polegajàcych na:
-- **1)** zawiadomieniu Przewodniczàcego Grupy Koordynacyjnej do spraw Gazu o wystàpieniu zdarzeƒ, o których mowa w ust. 1, lub
-- **2)** wystàpieniu do Komisji Europejskiej z ˝àdaniem zwo∏ania Grupy Koordynacyjnej do spraw Gazu.
+- **1)** nie dopełnia obowiązku tworzenia i utrzymywania działań polegających na:
+- **1)** zawiadomieniu Przewodniczącego Grupy Koordynacyjnej do spraw Gazu o wystąpieniu zdarzeń, o których mowa w ust. 1, lub
+- **2)** wystąpieniu do Komisji Europejskiej z żądaniem zwołania Grupy Koordynacyjnej do spraw Gazu.
 
-4. Zawiadomienie lub wystàpienie, o których mowa w ust. 3, zawierajà w szczególnoÊci opis:
+4. Zawiadomienie lub wystąpienie, o których mowa w ust. 3, zawierają w szczególności opis:
 
-- **1)** zdarzeƒ, októrych mowa wust. 1, oraz ich wp∏ywu na bezpieczeƒstwo paliwowe paƒstwa w zakresie dostaw gazu ziemnego;
-- **2)** dzia∏aƒ podj´tych w celu likwidacji skutków zdarzeƒ, o których mowa w ust. 1; zapasów obowiàzkowych, októrym mowa wart. 5 lub 24, wprzewidzianym terminie iwymaganej iloÊci;
-- **2)** obni˝a iloÊci zapasów obowiàzkowych poni˝ej poziomu okreÊlonego w ustawie;
-- **3)** utrzymuje, w ramach zapasów obowiàzkowych, paliwa lub gaz ziemny niespe∏niajàce wymagaƒ jakoÊciowych obowiàzujàcych na terytorium Rzeczypospolitej Polskiej, z zastrze˝eniem art. 3 ust. 7;
-- **4)** b´dàc osobà kierujàcà przedsi´biorstwem nie dope∏nia obowiàzku z∏o˝enia wniosku owpis do rejestru, o którym mowa w art. 14 ust. 1;
-- **5)** b´dàc osobà kierujàcà dzia∏alnoÊcià producenta lub handlowca nie przedstawi w wyznaczonym terminie informacji, o których mowa w art. 22 ust.1 i3 lub art. 38, albo przedstawi wtej informacji dane nieprawdziwe;
-- **6)** b´dàc osobà kierujàcà dzia∏alnoÊcià przedsi´biorstwa, o którym mowa w art. 24, nie przedstawi, w wyznaczonym terminie, informacji, o których mowa w art. 27, albo przedstawi w tej informacji dane nieprawdziwe;
-- **7)** nie dope∏nia obowiàzku sprzeda˝y zapasów obowiàzkowych, o którym mowa w art. 33 ust. 1 pkt 3 lit. b;
-- **8)** nie dope∏nia obowiàzku przedstawienia oferty sprzeda˝y, o którym mowa w art. 34 pkt 2 lit. c;
-- **9)** nie przestrzega ograniczeƒ w zakresie obrotu paliwami, o których mowa w art. 40 ust. 1;
-- **10)** nie przestrzega ograniczeƒ w sprzeda˝y paliw, o których mowa w art. 41 ust. 1 pkt 1 lub 2;
-- **11)** nie stosuje si´ do ograniczeƒ w poborze gazu ziemnego, o których mowa w art. 56;
-- **12)** nie przestrzega ograniczeƒ w u˝ywaniu:
-    - **a)** pojazdów samochodowych i motocykli oraz jednostek p∏ywajàcych na Êródlàdowych drogach wodnych,
-    - **b)** statków na morskich wodach wewn´trznych i na morzu terytorialnym,
+- **1)** zdarzeń, októrych mowa wust. 1, oraz ich wpływu na bezpieczeństwo paliwowe państwa w zakresie dostaw gazu ziemnego;
+- **2)** działań podjętych w celu likwidacji skutków zdarzeń, o których mowa w ust. 1; zapasów obowiązkowych, októrym mowa wart. 5 lub 24, wprzewidzianym terminie iwymaganej ilości;
+- **2)** obniża ilości zapasów obowiązkowych poniżej poziomu określonego w ustawie;
+- **3)** utrzymuje, w ramach zapasów obowiązkowych, paliwa lub gaz ziemny niespełniające wymagań jakościowych obowiązujących na terytorium Rzeczypospolitej Polskiej, z zastrzeżeniem art. 3 ust. 7;
+- **4)** będąc osobą kierującą przedsiębiorstwem nie dopełnia obowiązku złożenia wniosku owpis do rejestru, o którym mowa w art. 14 ust. 1;
+- **5)** będąc osobą kierującą działalnością producenta lub handlowca nie przedstawi w wyznaczonym terminie informacji, o których mowa w art. 22 ust.1 i3 lub art. 38, albo przedstawi wtej informacji dane nieprawdziwe;
+- **6)** będąc osobą kierującą działalnością przedsiębiorstwa, o którym mowa w art. 24, nie przedstawi, w wyznaczonym terminie, informacji, o których mowa w art. 27, albo przedstawi w tej informacji dane nieprawdziwe;
+- **7)** nie dopełnia obowiązku sprzedaży zapasów obowiązkowych, o którym mowa w art. 33 ust. 1 pkt 3 lit. b;
+- **8)** nie dopełnia obowiązku przedstawienia oferty sprzedaży, o którym mowa w art. 34 pkt 2 lit. c;
+- **9)** nie przestrzega ograniczeń w zakresie obrotu paliwami, o których mowa w art. 40 ust. 1;
+- **10)** nie przestrzega ograniczeń w sprzedaży paliw, o których mowa w art. 41 ust. 1 pkt 1 lub 2;
+- **11)** nie stosuje się do ograniczeń w poborze gazu ziemnego, o których mowa w art. 56;
+- **12)** nie przestrzega ograniczeń w używaniu:
+    - **a)** pojazdów samochodowych i motocykli oraz jednostek pływających na śródlądowych drogach wodnych,
+    - **b)** statków na morskich wodach wewnętrznych i na morzu terytorialnym,
     - **c)** statków powietrznych w ruchu lotniczym o których mowa w art. 41 ust. 1 pkt 4;
 
 - **13)** nie przestrzega zakazu organizacji imprez motorowych, o którym mowa w art. 41 ust. 1 pkt 5;
-- **14)** nie przestrzega ograniczeƒ w funkcjonowaniu transportu towarów i osób, o których mowa w art.41 ust. 1 pkt 6;
-- **15)** b´dàc podmiotem wy∏àczonym z ograniczeƒ, o których mowa w art. 41, dokonuje odsprzeda˝y zakupionego paliwa;
-- **16)** nie dope∏nia obowiàzku, októrym mowa wart. 24 ust. 2 pkt 2;
-- **17)** b´dàc osobà kierujàcà dzia∏alnoÊcià producenta lub handlowca nie przedstawi, w wyznaczonym terminie, informacji, o których mowa w art. 22 ust.2, albo przedstawi w tej informacji dane nieprawdziwe;
-- **18)** b´dàc osobà kierujàcà dzia∏alnoÊcià producenta, handlowca nie usunie uchybieƒ, do czego zosta∏ obowiàzany na podstawie art. 29 ust. 9;
-- **19)** b´dàc osobà kierujàcà dzia∏alnoÊcià przedsi´biorstwa energetycznego prowadzàcego dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym z zagranicà, podmiotu dokonujàcego przywozu gazu ziemnego lub przedsi´biorstwa energetycznego prowadzàcego dzia∏alnoÊç gospodarczà w zakresie magazynowania gazu ziemnego, nie usunie, w wyznaczonym terminie, uchybieƒ, do czego zosta∏ obowiàzany na podstawie art. 30 ust.9;
-- **20)** b´dàc przedsi´biorcà magazynujàcym zapasy paƒstwowe ropy naftowej iproduktów naftowych, dopuÊci∏ do powstania niedoboru w stosunku do ewidencyjnego stanu tych zapasów lub dopuÊci∏ si´ uchybienia w zakresie magazynowania zapasów paƒstwowych, ich wymiany, konserwacji oraz iloÊciowej i jakoÊciowej ochrony stanu tych zapasów.
+- **14)** nie przestrzega ograniczeń w funkcjonowaniu transportu towarów i osób, o których mowa w art.41 ust. 1 pkt 6;
+- **15)** będąc podmiotem wyłączonym z ograniczeń, o których mowa w art. 41, dokonuje odsprzedaży zakupionego paliwa;
+- **16)** nie dopełnia obowiązku, októrym mowa wart. 24 ust. 2 pkt 2;
+- **17)** będąc osobą kierującą działalnością producenta lub handlowca nie przedstawi, w wyznaczonym terminie, informacji, o których mowa w art. 22 ust.2, albo przedstawi w tej informacji dane nieprawdziwe;
+- **18)** będąc osobą kierującą działalnością producenta, handlowca nie usunie uchybień, do czego został obowiązany na podstawie art. 29 ust. 9;
+- **19)** będąc osobą kierującą działalnością przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie obrotu gazem ziemnym z zagranicą, podmiotu dokonującego przywozu gazu ziemnego lub przedsiębiorstwa energetycznego prowadzącego działalność gospodarczą w zakresie magazynowania gazu ziemnego, nie usunie, w wyznaczonym terminie, uchybień, do czego został obowiązany na podstawie art. 30 ust.9;
+- **20)** będąc przedsiębiorcą magazynującym zapasy państwowe ropy naftowej iproduktów naftowych, dopuścił do powstania niedoboru w stosunku do ewidencyjnego stanu tych zapasów lub dopuścił się uchybienia w zakresie magazynowania zapasów państwowych, ich wymiany, konserwacji oraz ilościowej i jakościowej ochrony stanu tych zapasów.
 
-2. W przypadkach, o których mowa w ust. 1 pkt 1 i 2, kara pieni´˝na wynosi 250 % wartoÊci niedoboru ropy naftowej lub paliw lub gazu ziemnego.
+2. W przypadkach, o których mowa w ust. 1 pkt 1 i 2, kara pieniężna wynosi 250 % wartości niedoboru ropy naftowej lub paliw lub gazu ziemnego.
 
-4. W przypadkach, o których mowa w ust. 1 pkt 4—6, kara pieni´˝na wynosi od dwukrotnego do dziesi´ciokrotnego przeci´tnego miesi´cznego wynagrodzenia w sektorze przedsi´biorstw, obowiàzujàcego w kwartale, w którym nastàpi∏o niedope∏nienie obowiàzku.
+4. W przypadkach, o których mowa w ust. 1 pkt 4—6, kara pieniężna wynosi od dwukrotnego do dziesięciokrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, obowiązującego w kwartale, w którym nastąpiło niedopełnienie obowiązku.
 
-5. Wprzypadku, októrym mowa wust. 1 pkt 7, kara pieni´˝na wynosi 350 % wartoÊci niesprzedanych zapasów.
+5. Wprzypadku, októrym mowa wust. 1 pkt 7, kara pieniężna wynosi 350 % wartości niesprzedanych zapasów.
 
-6. W przypadkach, o których mowa w ust. 1 pkt 8—10, kara pieni´˝na wynosi od 10 % do 15 % przychodu ukaranego przedsi´biorcy osiàgni´tego wpoprzednim roku podatkowym, aje˝eli kara dotyczy dzia∏alnoÊci wykonywanej na podstawie koncesji, wysokoÊç kary wynosi od 10 % do 15 % przychodu ukaranego przedsi´biorcy, wynikajàcego z dzia∏alnoÊci koncesjonowanej, osiàgni´tego w poprzednim roku podatkowym.
+6. W przypadkach, o których mowa w ust. 1 pkt 8—10, kara pieniężna wynosi od 10 % do 15 % przychodu ukaranego przedsiębiorcy osiągniętego wpoprzednim roku podatkowym, ajeżeli kara dotyczy działalności wykonywanej na podstawie koncesji, wysokość kary wynosi od 10 % do 15 % przychodu ukaranego przedsiębiorcy, wynikającego z działalności koncesjonowanej, osiągniętego w poprzednim roku podatkowym.
 
-7. W przypadku, o którym mowa w ust. 1 pkt 11, stosuje si´ kary w zale˝noÊci od iloÊci pobranego gazu ziemnego w okresie przekroczenia mocy wynikajàcej zwprowadzonych ograniczeƒ. Przekroczenie mocy oblicza si´ w nast´pujàcy sposób:
+7. W przypadku, o którym mowa w ust. 1 pkt 11, stosuje się kary w zależności od ilości pobranego gazu ziemnego w okresie przekroczenia mocy wynikającej zwprowadzonych ograniczeń. Przekroczenie mocy oblicza się w następujący sposób:
 
-- **1)** w przypadku przekroczenia mocy godzinowej jako iloczyn mocy maksymalnej, zarejestrowanej przez uk∏ad pomiarowy, ponad moc wynikajàcà zwprowadzonych ograniczeƒ, iloÊci godzin wmiesiàcu, w którym obowiàzywa∏y ograniczenia, i czterokrotnoÊci stawki op∏aty sta∏ej za us∏ug´ przesy∏ania dla danej grupy taryfowej, do której odbiorca zosta∏by zakwalifikowany na podstawie mocy ustalonej dla tego odbiorcy w pierwszym stopniu zasilania;
-- **2)** w przypadku przekroczenia mocy godzinowej i mocy dobowej jako iloczyn mocy maksymalnej zarejestrowanej przez uk∏ad pomiarowy, ponad moc wynikajàcà zwprowadzonych ograniczeƒ, iloÊci godzin w miesiàcu, w którym obowiàzywa∏y ograniczenia, ioÊmiokrotnoÊci stawki op∏aty sta∏ej za us∏ug´ przesy∏ania dla danej grupy taryfowej, do której odbiorca zosta∏by zakwalifikowany na
+- **1)** w przypadku przekroczenia mocy godzinowej jako iloczyn mocy maksymalnej, zarejestrowanej przez układ pomiarowy, ponad moc wynikającą zwprowadzonych ograniczeń, ilości godzin wmiesiącu, w którym obowiązywały ograniczenia, i czterokrotności stawki opłaty stałej za usługę przesyłania dla danej grupy taryfowej, do której odbiorca zostałby zakwalifikowany na podstawie mocy ustalonej dla tego odbiorcy w pierwszym stopniu zasilania;
+- **2)** w przypadku przekroczenia mocy godzinowej i mocy dobowej jako iloczyn mocy maksymalnej zarejestrowanej przez układ pomiarowy, ponad moc wynikającą zwprowadzonych ograniczeń, ilości godzin w miesiącu, w którym obowiązywały ograniczenia, iośmiokrotności stawki opłaty stałej za usługę przesyłania dla danej grupy taryfowej, do której odbiorca zostałby zakwalifikowany na
 
-3. Wprzypadku, októrym mowa wust. 1 pkt 3, kara pieni´˝na stanowi iloczyn 250 % wartoÊci jednostkowych paliw lub gazu ziemnego spe∏niajàcych wymagania jakoÊciowe i iloÊci paliw lub gazu ziemnego niespe∏niajàcych wymagaƒ jakoÊciowych. podstawie mocy ustalonej dla tego odbiorcy w pierwszym stopniu zasilania.
+3. Wprzypadku, októrym mowa wust. 1 pkt 3, kara pieniężna stanowi iloczyn 250 % wartości jednostkowych paliw lub gazu ziemnego spełniających wymagania jakościowe i ilości paliw lub gazu ziemnego niespełniających wymagań jakościowych. podstawie mocy ustalonej dla tego odbiorcy w pierwszym stopniu zasilania.
 
-8. W przypadku, o którym mowa w ust. 1 pkt 12, kara pieni´˝na wynosi od 500 z∏ do 1 000 z∏.
+8. W przypadku, o którym mowa w ust. 1 pkt 12, kara pieniężna wynosi od 500 zł do 1 000 zł.
 
-9. Wprzypadkach, októrych mowa wust. 1 pkt 13 i 14, kara pieni´˝na wynosi od 5 000 z∏ do 50 000 z∏.
+9. Wprzypadkach, októrych mowa wust. 1 pkt 13 i 14, kara pieniężna wynosi od 5 000 zł do 50 000 zł.
 
-10. W przypadku, o którym mowa w ust. 1 pkt 15, kara pieni´˝na wynosi od 20 000 z∏ do 50 000 z∏.
+10. W przypadku, o którym mowa w ust. 1 pkt 15, kara pieniężna wynosi od 20 000 zł do 50 000 zł.
 
-11. W przypadku, o którym mowa w ust. 1 pkt 16, kara pieni´˝na wynosi od 5 000 z∏ do 50 000 z∏.
+11. W przypadku, o którym mowa w ust. 1 pkt 16, kara pieniężna wynosi od 5 000 zł do 50 000 zł.
 
-12. W przypadku, o którym mowa w ust. 1 pkt 17, kara pieni´˝na wynosi od dwukrotnego do dziesi´ciokrotnego przeci´tnego miesi´cznego wynagrodzenia w sektorze przedsi´biorstw, obowiàzujàcego 7) pkt 17 wymierza minister w∏aÊciwy do spraw w kwartale, w którym nastàpi∏o niedope∏nienie obo- gospodarki. wiàzku.
+12. W przypadku, o którym mowa w ust. 1 pkt 17, kara pieniężna wynosi od dwukrotnego do dziesięciokrotnego przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw, obowiązującego 7) pkt 17 wymierza minister właściwy do spraw w kwartale, w którym nastąpiło niedopełnienie obo- gospodarki. wiązku.
 
-2. Agencja Rezerw Materia∏owych wymierza kary,
+2. Agencja Rezerw Materiałowych wymierza kary,
 
-13. W przypadku, o którym mowa w ust. 1 pkt 18, o których mowa w art. 63 ust. 1 pkt 1—8, 18 i 20, kara pieni´˝na wynosi od dwukrotnego do dziesi´- w drodze decyzji, od której przys∏uguje odwo∏anie do ciokrotnego przeci´tnego miesi´cznego wynagrodze- ministra w∏aÊciwego do spraw gospodarki. nia w sektorze przedsi´biorstw, obowiàzujàcego 3. Prezes URE wymierza kary, o których mowa w kwartale, w którym nastàpi∏o niedope∏nienie obo- wart. 63 ust. 1 pkt 1—3, 6, 11, 16 i19, wdrodze decywiàzku. zji, od której przys∏uguje odwo∏anie do Sàdu Okr´gowego wWarszawie sàdu ochrony konkurencji ikon14. W przypadku, o którym mowa w ust. 1 pkt 19, sumentów. kara pieni´˝na wynosi od dwukrotnego do dziesi´ciokrotnego przeci´tnego miesi´cznego wynagrodze- 4. Wojewódzki inspektor Inspekcji Handlowej wynia w sektorze przedsi´biorstw, obowiàzujàcego mierza kar´, o której mowa w art. 63 ust. 1 pkt 9, w kwartale, w którym nastàpi∏o niedope∏nienie obo- w drodze decyzji, od której przys∏uguje odwo∏anie do wiàzku. G∏ównego Inspektora Inspekcji Handlowej.
+13. W przypadku, o którym mowa w ust. 1 pkt 18, o których mowa w art. 63 ust. 1 pkt 1—8, 18 i 20, kara pieniężna wynosi od dwukrotnego do dziesię- w drodze decyzji, od której przysługuje odwołanie do ciokrotnego przeciętnego miesięcznego wynagrodze- ministra właściwego do spraw gospodarki. nia w sektorze przedsiębiorstw, obowiązującego 3. Prezes URE wymierza kary, o których mowa w kwartale, w którym nastąpiło niedopełnienie obo- wart. 63 ust. 1 pkt 1—3, 6, 11, 16 i19, wdrodze decywiązku. zji, od której przysługuje odwołanie do Sądu Okręgowego wWarszawie sądu ochrony konkurencji ikon14. W przypadku, o którym mowa w ust. 1 pkt 19, sumentów. kara pieniężna wynosi od dwukrotnego do dziesięciokrotnego przeciętnego miesięcznego wynagrodze- 4. Wojewódzki inspektor Inspekcji Handlowej wynia w sektorze przedsiębiorstw, obowiązującego mierza karę, o której mowa w art. 63 ust. 1 pkt 9, w kwartale, w którym nastąpiło niedopełnienie obo- w drodze decyzji, od której przysługuje odwołanie do wiązku. Głównego Inspektora Inspekcji Handlowej.
 
-15. W przypadku, o którym mowa w ust. 1 pkt 20, 5. W∏aÊciwy organ Policji wymierza kary, o któkara pieni´˝na wynosi 200 % wartoÊci niedoboru lub rych mowa w art. 63 ust. 1 pkt 10, pkt 12 lit. a oraz straty, lub wartoÊci paliw, niespe∏niajàcych wymagaƒ pkt 13—15, w drodze decyzji. jakoÊciowych.
+15. W przypadku, o którym mowa w ust. 1 pkt 20, 5. Właściwy organ Policji wymierza kary, o któkara pieniężna wynosi 200 % wartości niedoboru lub rych mowa w art. 63 ust. 1 pkt 10, pkt 12 lit. a oraz straty, lub wartości paliw, niespełniających wymagań pkt 13—15, w drodze decyzji. jakościowych.
 
-16. WysokoÊç kary pieni´˝nej, o której mowa wust. 1 pkt 1—3 oraz pkt 7, 8 i20, wylicza si´ na podstawie:
+16. Wysokość kary pieniężnej, o której mowa wust. 1 pkt 1—3 oraz pkt 7, 8 i20, wylicza się na podstawie:
 
-- **1)** cen sprzeda˝y paliw, w zakresie których nastàpi∏o naruszenie przepisów ustawy, stosowanych przez producenta lub handlowca w dniu stwierdzenia niedope∏nienia obowiàzków, a w przypadku niemo˝noÊci zastosowania tych cen, na podstawie przeci´tnych cen stosowanych, w danym miesiàcu, przez producenta lub handlowca posiadajàcego najwi´kszy udzia∏ w krajowym rynku paliw;
-- **2)** Êredniej ceny ropy naftowej gatunku Brent, obowiàzujàcej na londyƒskiej Mi´dzynarodowej Gie∏dzie Paliwowej (IPE) wdniu stwierdzenia niedope∏nienia obowiàzków;
-- **3)** cen gazu ziemnego ustalonych w taryfie przedsi´biorstwa energetycznego, o którym mowa w art.24 ust. 1.
+- **1)** cen sprzedaży paliw, w zakresie których nastąpiło naruszenie przepisów ustawy, stosowanych przez producenta lub handlowca w dniu stwierdzenia niedopełnienia obowiązków, a w przypadku niemożności zastosowania tych cen, na podstawie przeciętnych cen stosowanych, w danym miesiącu, przez producenta lub handlowca posiadającego największy udział w krajowym rynku paliw;
+- **2)** średniej ceny ropy naftowej gatunku Brent, obowiązującej na londyńskiej Międzynarodowej Giełdzie Paliwowej (IPE) wdniu stwierdzenia niedopełnienia obowiązków;
+- **3)** cen gazu ziemnego ustalonych w taryfie przedsiębiorstwa energetycznego, o którym mowa w art.24 ust. 1.
 
 **Art. 64.**
 
-1. Kar´ pieni´˝nà, o której mowa w art. 63 ust. 1:
+1. Karę pieniężną, o której mowa w art. 63 ust. 1:
 
 - **1)** pkt 1—3, 6, 11, 16 i 19 wymierza Prezes URE;
-- **2)** pkt 1—8, 18 i 20 wymierza Agencja Rezerw Materia∏owych;
+- **2)** pkt 1—8, 18 i 20 wymierza Agencja Rezerw Materiałowych;
 - **3)** pkt 9 wymierza wojewódzki inspektor Inspekcji Handlowej;
-- **4)** pkt 10 i pkt 12 lit. a oraz pkt 13—15 wymierza w∏aÊciwy organ Policji;
-- **5)** pkt 12 lit. b wymierza dyrektor urz´du morskiego;
-- **6)** pkt 12 lit. c wymierza Prezes Urz´du Lotnictwa Cywilnego;
+- **4)** pkt 10 i pkt 12 lit. a oraz pkt 13—15 wymierza właściwy organ Policji;
+- **5)** pkt 12 lit. b wymierza dyrektor urzędu morskiego;
+- **6)** pkt 12 lit. c wymierza Prezes Urzędu Lotnictwa Cywilnego;
 
-6. Dyrektor urz´du morskiego wymierza kar´, o której mowa w art. 63 ust. 1 pkt 12 lit. b, w drodze decyzji, od której przys∏uguje odwo∏anie do ministra w∏aÊciwego do spraw gospodarki morskiej.
+6. Dyrektor urzędu morskiego wymierza karę, o której mowa w art. 63 ust. 1 pkt 12 lit. b, w drodze decyzji, od której przysługuje odwołanie do ministra właściwego do spraw gospodarki morskiej.
 
-7. Prezes Urz´du Lotnictwa Cywilnego wymierza kar´, októrej mowa wart. 63 ust. 1 pkt 12 lit. c, wdrodze decyzji, od której przys∏uguje odwo∏anie do ministra w∏aÊciwego do spraw transportu.
+7. Prezes Urzędu Lotnictwa Cywilnego wymierza karę, októrej mowa wart. 63 ust. 1 pkt 12 lit. c, wdrodze decyzji, od której przysługuje odwołanie do ministra właściwego do spraw transportu.
 
-**Art. 65.** Przy ustalaniu kar pieni´˝nych, o których mowa w art. 63 ust. 4, 6, 8—14, organ wymierzajàcy kar´ uwzgl´dni w szczególnoÊci czas trwania, stopieƒ oraz przyczyny naruszenia przepisów ustawy, a tak˝e cz´stotliwoÊç ich naruszania w przesz∏oÊci przez producenta, handlowca lub osob´ kierujàcà dzia∏alnoÊcià producenta lub handlowca lub podmiot niestosujàcy si´ do ograniczeƒ.
+**Art. 65.** Przy ustalaniu kar pieniężnych, o których mowa w art. 63 ust. 4, 6, 8—14, organ wymierzający karę uwzględni w szczególności czas trwania, stopień oraz przyczyny naruszenia przepisów ustawy, a także częstotliwość ich naruszania w przeszłości przez producenta, handlowca lub osobę kierującą działalnością producenta lub handlowca lub podmiot niestosujący się do ograniczeń.
 
 **Art. 66.**
 
-1. Nale˝noÊci pieni´˝ne z tytu∏u kar, o których mowa w art. 63 ust. 2—15, stanowià dochód bud˝etu paƒstwa.
+1. Należności pieniężne z tytułu kar, o których mowa w art. 63 ust. 2—15, stanowią dochód budżetu państwa.
 
-2. Kar pieni´˝nych nie nak∏ada si´, je˝eli od stwierdzenia naruszeƒ ustawy, o których mowa w art. 63 ust.1 pkt 1—3 oraz pkt 7, up∏ynà∏ rok.
+2. Kar pieniężnych nie nakłada się, jeżeli od stwierdzenia naruszeń ustawy, o których mowa w art. 63 ust.1 pkt 1—3 oraz pkt 7, upłynął rok.
 
-3. Kar pieni´˝nych nie nak∏ada si´, je˝eli od stwierdzenia naruszeƒ ustawy, o których mowa w art. 63 ust.1 pkt 4—6 oraz pkt 8—20, up∏yn´∏y 3 lata.
+3. Kar pieniężnych nie nakłada się, jeżeli od stwierdzenia naruszeń ustawy, o których mowa w art. 63 ust.1 pkt 4—6 oraz pkt 8—20, upłynęły 3 lata.
 
-**Art. 67.** Kary pieni´˝ne podlegajà egzekucji w trybie przepisów opost´powaniu egzekucyjnym wadministracji, wzakresie egzekucji obowiàzków ocharakterze pieni´˝nym. Rozdzia∏ 8 Zmiany w przepisach obowiàzujàcych
+**Art. 67.** Kary pieniężne podlegają egzekucji w trybie przepisów opostępowaniu egzekucyjnym wadministracji, wzakresie egzekucji obowiązków ocharakterze pieniężnym.
 
-**Art. 68.** W ustawie z dnia 30 maja 1996 r. o rezerwach paƒstwowych oraz zapasach obowiàzkowych paliw (Dz. U. z 2003 r. 24, poz. 197, z póên. zm. ) wprowadza si´ nast´pujàce zmiany:
+#### Rozdział 8 Zmiany w przepisach obowiązujących
 
-**Art. 69.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2006 r. 89, poz. 625, z póên. zm. przez to przedsi´biorstwo, w∏àcznie z cz´Êcià instalacji skroplonego gazu ziemnego u˝ywanà do jego magazynowania, z wy∏àczeniem tej cz´Êci instalacji, która jest wykorzystywana do dzia∏alnoÊci produkcyjnej, oraz instalacji s∏u˝àcej wy∏àcznie do realizacji zadaƒ operatorów systemu przesy∏owego gazowego;”;
+**Art. 68.** W ustawie z dnia 30 maja 1996 r. o rezerwach państwowych oraz zapasach obowiązkowych paliw (Dz. U. z 2003 r. 24, poz. 197, z póên. zm. ) wprowadza się następujące zmiany:
 
-**Art. 70.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2005 r. 108, poz.908, z póên. zm. ) w art. 20 po ust. 5 dodaje si´ ust. 5a w brzmieniu: Rozdzia∏ 9 Przepisy przejÊciowe i koƒcowe
+**Art. 69.** W ustawie z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2006 r. 89, poz. 625, z póên. zm. przez to przedsiębiorstwo, włącznie z częścią instalacji skroplonego gazu ziemnego używaną do jego magazynowania, z wyłączeniem tej części instalacji, która jest wykorzystywana do działalności produkcyjnej, oraz instalacji służącej wyłącznie do realizacji zadań operatorów systemu przesyłowego gazowego;”;
+
+**Art. 70.** W ustawie z dnia 20 czerwca 1997 r. Prawo o ruchu drogowym (Dz. U. z 2005 r. 108, poz.908, z póên. zm. ) w art. 20 po ust. 5 dodaje się ust. 5a w brzmieniu:
+
+#### Rozdział 9 Przepisy przejściowe i końcowe
 
 **Art. 71.**
 
-1. Przedsi´biorcy, którzy przed dniem wejÊcia w˝ycie niniejszej ustawy byli obowiàzani do tworzenia iutrzymywania zapasów obowiàzkowych paliw ciek∏ych, zgodnie z zasadami okreÊlonymi w ustawie zdnia 30 maja 1996 r. orezerwach paƒstwowych oraz zapasach obowiàzkowych paliw, sà obowiàzani do:
+1. Przedsiębiorcy, którzy przed dniem wejścia wżycie niniejszej ustawy byli obowiązani do tworzenia iutrzymywania zapasów obowiązkowych paliw ciekłych, zgodnie z zasadami określonymi w ustawie zdnia 30 maja 1996 r. orezerwach państwowych oraz zapasach obowiązkowych paliw, są obowiązani do:
 
-- **1)** dokonania przeliczenia utworzonych zapasów obowiàzkowych zgodnie z zasadami tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw w terminie 15 dni od dnia wejÊcia w ˝ycie ustawy;
-- **2)** uzupe∏nienia posiadanych zapasów obowiàzkowych do poziomu odpowiadajàcego 66-dniowej zrealizowanej przez nich produkcji paliw oraz przywozowi ropy naftowej lub paliw, obliczanemu zgodnie zzasadami okreÊlonymi wniniejszej ustawie w terminie do dnia 1 lipca 2007 r.;
-- **3)** corocznego powi´kszania tych zapasów, zgodnie z harmonogramem, o którym mowa w ust. 4, do wielkoÊci, o której mowa w art. 5 ust. 3.
+- **1)** dokonania przeliczenia utworzonych zapasów obowiązkowych zgodnie z zasadami tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw w terminie 15 dni od dnia wejścia w życie ustawy;
+- **2)** uzupełnienia posiadanych zapasów obowiązkowych do poziomu odpowiadającego 66-dniowej zrealizowanej przez nich produkcji paliw oraz przywozowi ropy naftowej lub paliw, obliczanemu zgodnie zzasadami określonymi wniniejszej ustawie w terminie do dnia 1 lipca 2007 r.;
+- **3)** corocznego powiększania tych zapasów, zgodnie z harmonogramem, o którym mowa w ust. 4, do wielkości, o której mowa w art. 5 ust. 3.
 
-2. Przedsi´biorcy, którzy przed dniem wejÊcia w˝ycie niniejszej ustawy byli obowiàzani do tworzenia i utrzymywania zapasów obowiàzkowych paliw ciek∏ych, zgodnie z zasadami okreÊlonymi w ustawie, o której mowa w ust. 1, i jednoczeÊnie wykonywali dzia∏alnoÊç gospodarczà w zakresie wytwarzania lub przywozu gazu p∏ynnego LPG, sà obowiàzani do tworzenia icorocznego powi´kszania zapasów gazu p∏ynnego LPG zgodnie z harmonogramem, o którym mowa w ust. 5, do wielkoÊci, o której mowa w art. 5 ust.3.
+2. Przedsiębiorcy, którzy przed dniem wejścia wżycie niniejszej ustawy byli obowiązani do tworzenia i utrzymywania zapasów obowiązkowych paliw ciekłych, zgodnie z zasadami określonymi w ustawie, o której mowa w ust. 1, i jednocześnie wykonywali działalność gospodarczą w zakresie wytwarzania lub przywozu gazu płynnego LPG, są obowiązani do tworzenia icorocznego powiększania zapasów gazu płynnego LPG zgodnie z harmonogramem, o którym mowa w ust. 5, do wielkości, o której mowa w art. 5 ust.3.
 
-3. Producenci i handlowcy, którzy przed wejÊciem w ˝ycie niniejszej ustawy nie byli obowiàzani do tworzenia i utrzymywania zapasów obowiàzkowych ropy naftowej lub paliw sà obowiàzani do:
+3. Producenci i handlowcy, którzy przed wejściem w życie niniejszej ustawy nie byli obowiązani do tworzenia i utrzymywania zapasów obowiązkowych ropy naftowej lub paliw są obowiązani do:
 
-- **1)** utworzenia zapasów obowiàzkowych ropy naf„5a. Rada Ministrów na wniosek ministra w∏aÊciwego do spraw gospodarki mo˝e, w drodze rozporzàdzenia, w przypadkach, o których mowa w art. 32 ust. 1 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach post´powania w sytuacjach zagro˝enia bezpieczeƒstwa paliwowego paƒstwa i zak∏óceƒ na rynku naftowym (Dz. U. 52, poz. 343), wprowadziç ograniczenia w dopuszczalnej pr´dkoÊci pojazdów samochodowych.”. towej lub paliw w wielkoÊci odpowiadajàcej 66dniom zrealizowanej przez nich produkcji paliw oraz przywozu ropy naftowej lub paliw, obliczanej zgodnie zzasadami okreÊlonymi wniniejszej ustawie, z wy∏àczeniem gazu p∏ynnego (LPG) w terminie do dnia 1 lipca 2007 r.;
-- **2)** corocznego powi´kszania tych zapasów zgodnie z harmonogramem, o którym mowa w ust. 4 i 5, do wielkoÊci, o której mowa w art. 5 ust. 3.
+- **1)** utworzenia zapasów obowiązkowych ropy nafŃ5a. Rada Ministrów na wniosek ministra właściwego do spraw gospodarki może, w drodze rozporządzenia, w przypadkach, o których mowa w art. 32 ust. 1 ustawy z dnia 16 lutego 2007 r. o zapasach ropy naftowej, produktów naftowych i gazu ziemnego oraz zasadach postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i zakłóceń na rynku naftowym (Dz. U. 52, poz. 343), wprowadzić ograniczenia w dopuszczalnej prędkości pojazdów samochodowych.”. towej lub paliw w wielkości odpowiadającej 66dniom zrealizowanej przez nich produkcji paliw oraz przywozu ropy naftowej lub paliw, obliczanej zgodnie zzasadami określonymi wniniejszej ustawie, z wyłączeniem gazu płynnego (LPG) w terminie do dnia 1 lipca 2007 r.;
+- **2)** corocznego powiększania tych zapasów zgodnie z harmonogramem, o którym mowa w ust. 4 i 5, do wielkości, o której mowa w art. 5 ust. 3.
 
-4. Producenci i handlowcy powi´kszajà zapasy ropy naftowej lub paliw, z wy∏àczeniem gazu p∏ynnego (LPG), do wielkoÊci odpowiadajàcych co najmniej:
+4. Producenci i handlowcy powiększają zapasy ropy naftowej lub paliw, z wyłączeniem gazu płynnego (LPG), do wielkości odpowiadających co najmniej:
 
-- **1)** 73 dniom Êredniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia ——————— 2007r.;
-- **2)** 76 dniom Êredniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2008r.
+- **1)** 73 dniom średniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia ——————— 2007r.;
+- **2)** 76 dniom średniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2008r.
 
-5. Producenci i handlowcy powi´kszajà zapasy obowiàzkowe gazu p∏ynnego (LPG) do wielkoÊci odpowiadajàcych co najmniej:
+5. Producenci i handlowcy powiększają zapasy obowiązkowe gazu płynnego (LPG) do wielkości odpowiadających co najmniej:
 
-- **1)** 3 dniom Êredniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2007 r.;
-- **2)** 7 dniom Êredniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2008 r.;
-- **3)** 13 dniom Êredniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2009r.;
-- **4)** 20 dniom Êredniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2010r.;
-- **5)** 30 dniom Êredniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2011r.
+- **1)** 3 dniom średniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2007 r.;
+- **2)** 7 dniom średniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2008 r.;
+- **3)** 13 dniom średniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2009r.;
+- **4)** 20 dniom średniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2010r.;
+- **5)** 30 dniom średniej dziennej produkcji lub przywozu zrealizowanych przez producenta lub handlowca w roku poprzednim do dnia 31 grudnia 2011r.
 
 **Art. 72.**
 
-1. Rejestr producentów i importerów, utworzony na podstawie art. 17 ust. 1 ustawy z dnia 30maja 1996 r. o rezerwach paƒstwowych oraz zapasach obowiàzkowych paliw, staje si´ rejestrem w rozumieniu niniejszej ustawy.
+1. Rejestr producentów i importerów, utworzony na podstawie art. 17 ust. 1 ustawy z dnia 30maja 1996 r. o rezerwach państwowych oraz zapasach obowiązkowych paliw, staje się rejestrem w rozumieniu niniejszej ustawy.
 
-2. Wpisy w rejestrze utworzonym na podstawie art. 17 ust. 1 ustawy, o której mowa w ust. 1, istniejàce wdniu wejÊcia w˝ycie niniejszej ustawy, pozostajà w mocy.
+2. Wpisy w rejestrze utworzonym na podstawie art. 17 ust. 1 ustawy, o której mowa w ust. 1, istniejące wdniu wejścia wżycie niniejszej ustawy, pozostają w mocy.
 
-**Art. 73.** Ropa naftowa ipaliwa utrzymywane wramach paƒstwowych rezerw gospodarczych na poczet zapasów, o których mowa w art. 15 ust. 4 ustawy zdnia 30 maja 1996 r. orezerwach paƒstwowych oraz zapasach obowiàzkowych paliw, stajà si´ zapasami paƒstwowymi, w rozumieniu niniejszej ustawy.
+**Art. 73.** Ropa naftowa ipaliwa utrzymywane wramach państwowych rezerw gospodarczych na poczet zapasów, o których mowa w art. 15 ust. 4 ustawy zdnia 30 maja 1996 r. orezerwach państwowych oraz zapasach obowiązkowych paliw, stają się zapasami państwowymi, w rozumieniu niniejszej ustawy.
 
 **Art. 74.**
 
-1. Podmioty obowiàzane do tworzenia i utrzymywania zapasów obowiàzkowych gazu ziemnego, októrych mowa wart. 24 ust. 1, sà obowiàzane tworzyç i utrzymywaç oraz corocznie powi´kszaç zapasy obowiàzkowe gazu ziemnego, zgodnie z harmo1) 11 dniom Êredniego dziennego przywozu realizowanego przez przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym lub podmiot dokonujàcy przywozu gazu ziemnego od dnia wejÊcia w ˝ycie ustawy do dnia 30 wrzeÊnia 2009 r.;
+1. Podmioty obowiązane do tworzenia i utrzymywania zapasów obowiązkowych gazu ziemnego, októrych mowa wart. 24 ust. 1, są obowiązane tworzyć i utrzymywać oraz corocznie powiększać zapasy obowiązkowe gazu ziemnego, zgodnie z harmo1) 11 dniom średniego dziennego przywozu realizowanego przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym lub podmiot dokonujący przywozu gazu ziemnego od dnia wejścia w życie ustawy do dnia 30 września 2009 r.;
 
-- **2)** 15 dniom Êredniego dziennego przywozu realizowanego przez przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym lub podmiot dokonujàcy przywozu gazu ziemnego od dnia 1 paêdziernika 2009 r. do dnia 30 wrzeÊnia 2010 r.;
-- **3)** 20 dniom Êredniego dziennego przywozu realizowanego przez przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym lub podmiot dokonujàcy przywozu gazu ziemnego od dnia 1 paêdziernika 2010 r. do dnia 30 wrzeÊnia 2012 r.; nogramem, o którym mowa w ust. 2.
+- **2)** 15 dniom średniego dziennego przywozu realizowanego przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym lub podmiot dokonujący przywozu gazu ziemnego od dnia 1 paêdziernika 2009 r. do dnia 30 września 2010 r.;
+- **3)** 20 dniom średniego dziennego przywozu realizowanego przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym lub podmiot dokonujący przywozu gazu ziemnego od dnia 1 paêdziernika 2010 r. do dnia 30 września 2012 r.; nogramem, o którym mowa w ust. 2.
 
-2. Podmioty, o których mowa w ust. 1, tworzà, utrzymujà i corocznie powi´kszajà zapasy obowiàzkowe gazu ziemnego do wielkoÊci odpowiadajàcej co najmniej:
+2. Podmioty, o których mowa w ust. 1, tworzą, utrzymują i corocznie powiększają zapasy obowiązkowe gazu ziemnego do wielkości odpowiadającej co najmniej:
 
-- **4)** 30 dniom Êredniego dziennego przywozu realizowanego przez przedsi´biorstwo energetyczne wykonujàce dzia∏alnoÊç gospodarczà w zakresie obrotu gazem ziemnym lub podmiot dokonujàcy przywozu gazu ziemnego od dnia 1 paêdziernika 2012 r.
+- **4)** 30 dniom średniego dziennego przywozu realizowanego przez przedsiębiorstwo energetyczne wykonujące działalność gospodarczą w zakresie obrotu gazem ziemnym lub podmiot dokonujący przywozu gazu ziemnego od dnia 1 paêdziernika 2012 r.
 
-**Art. 75.** Procedury, októrych mowa wart. 31 ust. 1, producenci i handlowcy sà obowiàzani przed∏o˝yç ministrowi w∏aÊciwemu do spraw gospodarki wterminie do dnia 1 czerwca 2007 r.
+**Art. 75.** Procedury, októrych mowa wart. 31 ust. 1, producenci i handlowcy są obowiązani przedłożyć ministrowi właściwemu do spraw gospodarki wterminie do dnia 1 czerwca 2007 r.
 
-**Art. 76.** Plany, o których mowa w art. 44, wojewodowie sà obowiàzani po raz pierwszy przed∏o˝yç ministrowi w∏aÊciwemu do spraw gospodarki w terminie 6miesi´cy od dnia wejÊcia w ˝ycie ustawy.
+**Art. 76.** Plany, o których mowa w art. 44, wojewodowie są obowiązani po raz pierwszy przedłożyć ministrowi właściwemu do spraw gospodarki w terminie 6miesięcy od dnia wejścia w życie ustawy.
 
-**Art. 77.** Do post´powaƒ administracyjnych wszcz´tych, a niezakoƒczonych przed dniem wejÊcia w˝ycie niniejszej ustawy, stosuje si´ przepisy dotychczasowe.
+**Art. 77.** Do postępowań administracyjnych wszczętych, a niezakończonych przed dniem wejścia wżycie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
-**Art. 78.** Przepisy wykonawcze wydane przed dniem wejÊcia w˝ycie niniejszej ustawy na podstawie art. 17 ust. 4, art. 19a ust. 4 i 5 oraz art. 19i ustawy, o której mowa w art. 68, zachowujà moc do dnia wejÊcia w ˝ycie nowych przepisów wykonawczych wydanych na podstawie art. 3 ust. 5, art. 8 ust. 3, art. 13 ust.4 oraz art. 37 niniejszej ustawy, nie d∏u˝ej jednak ni˝ przez okres 6 miesi´cy od dnia wejÊcia w ˝ycie niniejszej ustawy.
+**Art. 78.** Przepisy wykonawcze wydane przed dniem wejścia wżycie niniejszej ustawy na podstawie art. 17 ust. 4, art. 19a ust. 4 i 5 oraz art. 19i ustawy, o której mowa w art. 68, zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 3 ust. 5, art. 8 ust. 3, art. 13 ust.4 oraz art. 37 niniejszej ustawy, nie dłużej jednak niż przez okres 6 miesięcy od dnia wejścia w życie niniejszej ustawy.
 
-**Art. 79.** Ustawa wchodzi w˝ycie po up∏ywie 14 dni od dnia og∏oszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyƒski
+**Art. 79.** Ustawa wchodzi wżycie po upływie 14 dni od dnia ogłoszenia. Prezydent Rzeczypospolitej Polskiej: L. Kaczyński
 
