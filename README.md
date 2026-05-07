@@ -29,20 +29,27 @@ Każdy akt prawny, na który powołują się orzeczenia, posiada plik `orzecznic
 
 Każde orzeczenie zawiera link do pełnego tekstu w serwisie [SAOS](https://www.saos.org.pl/).
 
-## Jak używać
+## Jak korzystać
 
-Skopiuj treść wybranego aktu i wklej jako kontekst dla AI. Przykładowy prompt:
+Najprostszy sposób: otwórz repozytorium w **Claude Cowork**, **Obsidian** lub **Cursor** — narzędzia te pozwalają AI przeszukiwać i analizować wszystkie pliki jednocześnie. Bez ręcznego kopiowania i wklejania.
+
+**Przykład:** Wskaż folder nalegalu w Claude Cowork i zapytaj:
 
 ```
-Masz dostęp do pełnego tekstu Kodeksu cywilnego (poniżej).
-Odpowiadaj na pytania, podając konkretne artykuły i ustępy.
-
-[tutaj wklej treść pliku index.md]
+Jakie przesłanki odpowiedzialności deliktowej wynikają z art. 415 k.c.
+w świetle najnowszego orzecznictwa SN? Podaj sygnatury z bazy.
 ```
 
-Możesz też otworzyć repozytorium w Obsidian, Claude Desktop lub Cursor — narzędzia te pozwalają przeszukiwać i analizować wszystkie pliki jednocześnie.
+Claude sam otworzy Kodeks cywilny, znajdzie art. 415, sprawdzi orzecznictwo i przygotuje analizę z konkretnymi sygnaturami.
 
-Więcej: [Jak korzystać z nalegalu](https://nalegalu.org/docs/jak-korzystac)
+## Dokumentacja
+
+| Przewodnik | Opis |
+|------------|------|
+| [Jak korzystać z nalegalu](docs/jak-korzystac-z-nalegalu.md) | Kompletny przewodnik — od przeglądania na GitHubie do pracy z AI |
+| [Konfiguracja Claude Cowork](docs/konfiguracja-claude-cowork.md) | Krok po kroku: instalacja, ustawienie projektu, instrukcje dla AI |
+| [Biblioteka promptów](docs/prompty.md) | Gotowe prompty do analizy przepisów, orzecznictwa, pism procesowych |
+| [Przewodnik pracy LLM](docs/przewodnik-llm.md) | Architektura bazy, system scoringu, strategie wyszukiwania |
 
 ## Dziedziny prawa
 
@@ -74,4 +81,4 @@ Repozytorium zawiera obowiązujące akty prawne z Dziennika Ustaw (teksty jednol
 
 Treść aktów prawnych jest wyłączona spod ochrony prawa autorskiego na mocy art. 4 ustawy o prawie autorskim i prawach pokrewnych. Struktura i metadane: [CC0 1.0 — Public Domain](LICENSE).
 
-*5718 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-06*
+*5718 aktów • wygenerowano automatycznie przez [nalegalu](https://github.com/nalegaluorg/nalegalu) • źródło danych: [ISAP](https://isap.sejm.gov.pl) + [SAOS](https://www.saos.org.pl) • aktualizacja: 2026-05-07*
