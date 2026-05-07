@@ -34,6 +34,15 @@ jobs:
 
           echo "version=$VERSION" >> "$GITHUB_OUTPUT"
 
+      - name: Build zip archive
+        id: zip
+        env:
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          zip -r "/tmp/nalegalu-${VERSION}.zip" . \
+            -x '.git/*' '.github/*'
+          echo "path=/tmp/nalegalu-${VERSION}.zip" >> "$GITHUB_OUTPUT"
+
       - name: Create tag and release
         env:
           GH_TOKEN: ${{ github.token }}
@@ -68,4 +77,5 @@ jobs:
           git push origin "$VERSION"
           gh release create "$VERSION" \
             --title "${VERSION}" \
-            --notes-file /tmp/notes.md
+            --notes-file /tmp/notes.md \
+            "${{ steps.zip.outputs.path }}"
