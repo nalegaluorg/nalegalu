@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: write
+  packages: write
 
 jobs:
   release:
@@ -79,3 +80,30 @@ jobs:
             --title "${VERSION}" \
             --notes-file /tmp/notes.md \
             "${{ steps.zip.outputs.path }}"
+
+      - name: Publish npm package
+        env:
+          NODE_AUTH_TOKEN: ${{ github.token }}
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          # Convert 2026.05.v1 to valid semver 2026.5.1
+          SEMVER=$(echo "$VERSION" | sed 's/^0*//;s/\.0*/./g;s/\.v/./g')
+
+          cat > package.json << EOF
+          {
+            "name": "@nalegaluorg/nalegalu",
+            "version": "${SEMVER}",
+            "description": "Otwarta baza polskiego prawa przygotowana pod AI",
+            "repository": {
+              "type": "git",
+              "url": "https://github.com/nalegaluorg/nalegalu-public"
+            },
+            "publishConfig": {
+              "registry": "https://npm.pkg.github.com"
+            },
+            "license": "CC0-1.0"
+          }
+          EOF
+
+          echo "//npm.pkg.github.com/:_authToken=${NODE_AUTH_TOKEN}" > .npmrc
+          npm publish
