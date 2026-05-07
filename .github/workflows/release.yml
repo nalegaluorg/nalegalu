@@ -1,0 +1,71 @@
+name: Create Release
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.md'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Determine version tag
+        id: version
+        run: |
+          YEAR_MONTH=$(date +%Y.%m)
+          EXISTING=$(git tag -l "${YEAR_MONTH}.v*" | sort -t'v' -k2 -n | tail -1)
+
+          if [ -z "$EXISTING" ]; then
+            VERSION="${YEAR_MONTH}.v1"
+          else
+            LAST_V=$(echo "$EXISTING" | grep -o 'v[0-9]*' | grep -o '[0-9]*')
+            NEXT_V=$((LAST_V + 1))
+            VERSION="${YEAR_MONTH}.v${NEXT_V}"
+          fi
+
+          echo "version=$VERSION" >> "$GITHUB_OUTPUT"
+
+      - name: Create tag and release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          VERSION: ${{ steps.version.outputs.version }}
+        run: |
+          LAST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "")
+          if [ -n "$LAST_TAG" ]; then
+            CHANGES=$(git log "${LAST_TAG}..HEAD" --oneline --no-merges | head -20)
+            CHANGES_HEADER="## Zmiany od ${LAST_TAG}"
+          else
+            CHANGES=""
+            CHANGES_HEADER="## Pierwsza wersja"
+          fi
+
+          cat > /tmp/notes.md << EOF
+          nalegalu ${VERSION}
+
+          Otwarta baza polskiego prawa przygotowana pod AI.
+
+          ${CHANGES_HEADER}
+
+          ${CHANGES}
+
+          Wiecej informacji: https://nalegalu.org
+          EOF
+
+          sed -i 's/^          //' /tmp/notes.md
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git tag -a "$VERSION" -m "${VERSION}"
+          git push origin "$VERSION"
+          gh release create "$VERSION" \
+            --title "${VERSION}" \
+            --notes-file /tmp/notes.md
