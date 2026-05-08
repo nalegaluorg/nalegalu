@@ -217,6 +217,48 @@ przepisami w bazie nalegalu.
 
 ---
 
+## 6. Analiza dokumentów i audyt
+
+### 6.1. Analiza umowy z ubezpieczycielem
+
+```
+Oto treść umowy z ubezpieczycielem:
+
+[wklej treść umowy lub OWU]
+
+Na podstawie plików nalegalu:
+1. Znajdź przepisy regulujące umowy ubezpieczenia (art. 805-834 k.c.)
+   oraz ustawę o działalności ubezpieczeniowej.
+2. Wskaż klauzule wyłączeń odpowiedzialności i oceń ich zgodność z przepisami.
+3. Sprawdź orzecznictwo SN (score 69+) dotyczące niedozwolonych klauzul
+   w umowach ubezpieczeniowych.
+4. Podaj listę ryzyk - na co uważać w tej umowie.
+```
+
+*Co dostaniesz:* Listę potencjalnych problemów w umowie z konkretnymi przepisami i orzeczeniami SN dot. klauzul abuzywnych. Przydatne przed podpisaniem polisy.
+
+### 6.2. Audyt regulaminów i RODO dla startupu
+
+```
+Prowadzę startup [krótki opis modelu biznesowego].
+Oto mój regulamin usługi / polityka prywatności:
+
+[wklej treść dokumentu]
+
+Na podstawie plików nalegalu:
+1. Sprawdź zgodność z RODO (Rozporządzenie 2016/679) i ustawą
+   o ochronie danych osobowych.
+2. Sprawdź zgodność z ustawą o świadczeniu usług drogą elektroniczną
+   i ustawą o prawach konsumenta.
+3. Wskaż brakujące elementy wymagane przepisami.
+4. Oceń, czy model biznesowy wymaga dodatkowych regulacji
+   (np. KNF, koncesje, zezwolenia).
+```
+
+*Co dostaniesz:* Checklistę braków i ryzyk prawnych z konkretnymi podstawami. Punkt wyjścia do audytu - nie zastępuje porady prawnej, ale pokazuje gdzie szukać.
+
+---
+
 ## Wskazówki
 
 **Jeśli odpowiedź jest zbyt ogólna** — dodaj: „Odpowiedz wyłącznie na podstawie plików w bazie. Podaj ścieżki do plików, z których korzystasz."
