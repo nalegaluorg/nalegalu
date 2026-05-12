@@ -42,7 +42,9 @@ jobs:
         run: |
           zip -r "/tmp/nalegalu-${VERSION}.zip" . \
             -x '.git/*' '.github/*'
+          cp "/tmp/nalegalu-${VERSION}.zip" "/tmp/nalegalu.zip"
           echo "path=/tmp/nalegalu-${VERSION}.zip" >> "$GITHUB_OUTPUT"
+          echo "stable_path=/tmp/nalegalu.zip" >> "$GITHUB_OUTPUT"
 
       - name: Create tag and release
         env:
@@ -79,7 +81,8 @@ jobs:
           gh release create "$VERSION" \
             --title "${VERSION}" \
             --notes-file /tmp/notes.md \
-            "${{ steps.zip.outputs.path }}"
+            "${{ steps.zip.outputs.path }}" \
+            "${{ steps.zip.outputs.stable_path }}"
 
       - name: Publish npm package
         env:
